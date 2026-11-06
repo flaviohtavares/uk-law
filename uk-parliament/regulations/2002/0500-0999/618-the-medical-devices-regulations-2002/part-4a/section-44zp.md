@@ -1,0 +1,34 @@
+---
+title: The Medical Devices Regulations 2002, section 44ZP
+act: The Medical Devices Regulations 2002
+section: 44ZP
+status: revised-with-pending-changes
+text_date: '2026-04-01'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/uksi/2002/618/section/44ZP
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Medical Devices Regulations 2002, section 44ZP
+
+> **Warning: changes not yet applied to this text (4).** Text as at 2026-04-01. See https://www.legislation.gov.uk/changes/affected/uksi/2002/618
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 44ZP. Analysis of information received under Part 4A[^key-7aac0da14fb1953d3c468abc4b16422d]
+
+*Extent: E+W+S*
+
+(1) The Secretary of State must have processes for monitoring the information received under this Part, in order to identify trends, patterns or signals that may reveal new risks or safety concerns.
+
+(2) If the Secretary of State notifies a manufacturer of an identified risk or safety concern, the manufacturer must investigate the risk or safety concern and submit a report to the Secretary of State as soon as possible setting out—
+
+- (a) the methods and conclusions of the manufacturer’s investigation, and
+- (b) any preventive action or corrective action the manufacturer has taken or intends to take.
+
+(3) Paragraph (2) is without prejudice to any other investigation and reporting requirements in this Part.
+
+## Annotations
+
+[^key-7aac0da14fb1953d3c468abc4b16422d]: Textual amendment: [Pt. 4A](https://www.legislation.gov.uk/uksi/2002/618/part/4A) inserted (E.W.S.) (17.6.2025) by [The Medical Devices (Post-market Surveillance Requirements) (Amendment) (Great Britain) Regulations 2024 (S.I. 2024/1368)](https://www.legislation.gov.uk/uksi/2024/1368), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1368/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2024/1368/regulation/4)

@@ -1,0 +1,99 @@
+---
+title: The Counter-Terrorism and Border Security Act 2019 and the Terrorism Act 2000 (Port Examination Codes of Practice) Regulations 2025
+id: uksi/2025/1040
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2025-09-22'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2025/1040
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2025/1040/pdfs/uksiem_20251040_en_001.pdf
+- http://www.legislation.gov.uk/uksi/2025/1040/pdfs/uksi_20251040_en.pdf
+- http://www.legislation.gov.uk/uksi/2025/1040/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Counter-Terrorism and Border Security Act 2019 and the Terrorism Act 2000 (Port Examination Codes of Practice) Regulations 2025
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2025 No. 1040
+
+NATIONAL SECURITY
+
+PREVENTION AND SUPPRESSION OF TERRORISM
+
+The Counter-Terrorism and Border Security Act 2019 and the Terrorism Act 2000 (Port Examination Codes of Practice) Regulations 2025
+
+Made
+
+22nd September 2025
+
+Coming into force
+
+14th October 2025
+
+The Secretary of State makes these Regulations in exercise of the powers conferred by paragraph 57(3) and (4) of Schedule 3 to the Counter-Terrorism and Border Security Act 2019[^f00001] (“**the 2019 Act**”) and paragraph 7(3) and (4) of Schedule 14 to the Terrorism Act 2000[^f00002] (“**the 2000 Act**”).
+
+The Secretary of State has—
+
+- (a) under paragraph 56(7) of Schedule 3 to the 2019 Act, revised the code of practice about the exercise by examining officers of functions conferred on them by Schedule 3 to the 2019 Act[^f00003], the training to be undertaken in connection with the exercise of those functions, video recording of interviews, and reviews of detention (“the revised Schedule 3 code”);
+- (b) under paragraph 6(4) of Schedule 14 to the 2000 Act[^f00004], revised the code of practice about the exercise by examining officers of functions conferred on them by virtue of the 2000 Act[^f00005] (“the revised Schedule 7 code”);
+- (c) in accordance with paragraph 57(1)(a) of Schedule 3 to the 2019 Act and paragraph 7(1)(a) of Schedule 14 to the 2000 Act, published drafts of the revised Schedule 3 code and the revised Schedule 7 code;
+- (d) in accordance with paragraph 57(1)(b) and (c) of Schedule 3 to the 2019 Act and paragraph 7(1)(b) and (c) of Schedule 14 to the 2000 Act, considered any representations made to the Secretary of State about the revised Schedule 3 code and the revised Schedule 7 code and, as thought appropriate, modified the drafts accordingly; and
+- (e) in accordance with paragraph 57(2) of Schedule 3 to the 2019 Act and paragraph 7(2) of Schedule 14 to the 2000 Act, laid drafts of the revised Schedule 3 code and the revised Schedule 7 code before Parliament.
+
+A draft of this instrument has been laid before Parliament under paragraph 57(6) of Schedule 3 to the 2019 Act and section 123(4)(m) of the 2000 Act and has been approved by a resolution of each House of Parliament.
+
+## 1. Citation, commencement and extent
+
+(1) These Regulations may be cited as the Counter-Terrorism and Border Security Act 2019 and the Terrorism Act 2000 (Port Examination Codes of Practice) Regulations 2025 and come into force on the 22nd day after the day on which they are made.
+
+(2) These Regulations extend to England and Wales, Scotland and Northern Ireland.
+
+## 2. Schedule 3 to the Counter-Terrorism and Border Security Act 2019 revised code of practice
+
+The revised code of practice entitled “Examining Officers and Review Officers under Schedule 3 to the Counter-Terrorism and Border Security Act 2019” and laid before Parliament in draft on 9th July 2025 comes into operation on the day on which these Regulations come into force.
+
+## 3. Schedule 7 to the Terrorism Act 2000 revised code of practice
+
+The revised code of practice entitled “Examining Officers and Review Officers under Schedule 7 to the Terrorism Act 2000” and laid before Parliament in draft on 9th July 2025 comes into operation on the day on which these Regulations come into force.
+
+Dan Jarvis
+
+Minister of State
+
+22nd September 2025
+
+Home Office
+
+Explanatory Note
+
+(This note is not part of the Regulations)
+
+These Regulations bring into operation revised codes of practice that provide guidance to examining officers in the exercise of their powers at ports and the Northern Ireland border area in relation to terrorism and hostile state activity.
+
+Schedule 3 to the Counter-Terrorism and Border Security Act [2019 (c. 3)](https://www.legislation.gov.uk/ukpga/2019/3) contains powers for examining officers to stop, question, search and detain a person at UK ports and the Northern Ireland border area for the purpose of determining whether the person appears to be a person who is, or has been, engaged in hostile activity. Regulation 2 brings into operation a revised code of practice for examining officers.
+
+Schedules 7 and 8 to the Terrorism Act [2000 (c. 11)](https://www.legislation.gov.uk/ukpga/2000/11) contain powers for examining officers to stop, question, search and detain a person at UK ports and the Northern Ireland border area for the purpose of determining whether the person appears to be a person who is, or has been, concerned in the commission, preparation or instigation of acts of terrorism. Regulation 3 brings into operation a revised code of practice for examining officers.
+
+A full impact assessment has not been produced for this instrument as no, or no significant, impact on the private, voluntary or public sector is foreseen.
+
+Copies of the revised codes of practice referred to in this instrument can be found at www.gov.uk and hard copies can be obtained by writing to the Home Office, 2 Marsham Street, London, SW1P 4DF.
+
+## Annotations
+
+[^f00001]: Footnote: [2019 c. 3](https://www.legislation.gov.uk/ukpga/2019/3).
+
+[^f00002]: Footnote: [2000 c. 11](https://www.legislation.gov.uk/ukpga/2000/11).
+
+[^f00003]: Footnote: The code of practice was previously brought into operation on 22nd August 2020 in accordance with [S.I. 2020/795](https://www.legislation.gov.uk/uksi/2020/795) and the revised code of practice was brought into operation on 20th December 2023 in accordance with [S.I. 2023/1385](https://www.legislation.gov.uk/uksi/2023/1385).
+
+[^f00004]: Footnote: Paragraph 6 of Schedule 14 to the 2000 Act was amended by section 2(6) of the Anti-terrorism, Crime and Security Act [2001 (c. 24)](https://www.legislation.gov.uk/ukpga/2001/24) and by paragraph 13(a) of Schedule 5 to the Criminal Finances Act [2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22).
+
+[^f00005]: Footnote: The code of practice was previously brought into operation on 19th February 2001 in accordance with [S.I. 2001/427](https://www.legislation.gov.uk/uksi/2001/427) and revised codes of practice were brought into operation on 2nd July 2009 in accordance with [S.I. 2009/1593](https://www.legislation.gov.uk/uksi/2009/1593) and on 31st July 2014 in accordance with [S.I. 2014/1838](https://www.legislation.gov.uk/uksi/2014/1838) and on 25th March 2015 in accordance with [S.I. 2015/906](https://www.legislation.gov.uk/uksi/2015/906) and on 13th August 2020 in accordance with [S.I. 2020/795](https://www.legislation.gov.uk/uksi/2020/795) and on 8th July 2022 in accordance with [S.I. 2022/674](https://www.legislation.gov.uk/uksi/2022/674).

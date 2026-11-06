@@ -1,0 +1,419 @@
+---
+title: The Relief for Research and Development (Content of Claim Notifications, Additional Information Requirements and Miscellaneous Amendments) Regulations 2023
+id: uksi/2023/813
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2023-07-17'
+text_date: '2025-03-20'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2023/813
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2023/813/pdfs/uksiem_20230813_en_001.pdf
+- http://www.legislation.gov.uk/uksi/2023/813/pdfs/uksi_20230813_en.pdf
+- http://www.legislation.gov.uk/uksi/2023/813/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Relief for Research and Development (Content of Claim Notifications, Additional Information Requirements and Miscellaneous Amendments) Regulations 2023
+
+> Text as at 2025-03-20.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2023 No. 813
+
+Corporation Tax
+
+The Relief for Research and Development (Content of Claim Notifications, Additional Information Requirements and Miscellaneous Amendments) Regulations 2023
+
+Made
+
+17th July 2023
+
+Laid before the House of Commons
+
+18th July 2023
+
+Coming into force
+
+8th August 2023
+
+The Commissioners for His Majesty’s Revenue and Customs make the following Regulations in exercise of the powers conferred by paragraph 83EA of Schedule 18 to the Finance Act 1998[^f00001], section 132 of the Finance Act 1999[^f00002], sections 135 and 136 of the Finance Act 2002[^f00003] and section 1142A(2) of the Corporation Tax Act 2009[^f00004] and now exercisable by them[^f00005].
+
+## 1. Citation and commencement[^key-af6d302735ebe87b0194954675dca198]
+
+These Regulations may be cited as the Relief for Research and Development (Content of Claim Notifications, Additional Information Requirements and Miscellaneous Amendments) Regulations 2023 and come into force on 8th August 2023.
+
+## 2. Claim notifications[^key-74a89c449143c9b52e4f22cd22e0956d]
+
+A claim notification under section 1142A of the Corporation Tax Act 2009 (requirement to make a claim notification) must include the information specified in Schedule 1.
+
+## 3. Additional information to be provided in relation to R&D claims[^key-e9d0b9b7e7eb56f8320a0d0378ffba91]
+
+(1) This regulation applies in relation to a claim to which Part 9A of Schedule 18 to the Finance Act 1998 (procedure for claims for R&D relief) applies.
+
+(2) The claimant company must provide to an officer of Revenue and Customs the information specified in Schedule 2 (subject to any limitation set out in that Schedule).
+
+(3) That requirement applies only in relation to the initial making of the claim (not any amendment).
+
+(4) In Schedule 2—
+
+- [^key-864097fe0d1584af45544e91afe05bd4]...
+- “**CTA 2009**” means the Corporation Tax Act 2009;
+- “**employer’s PAYE reference**” has the meaning given by regulation 2(1) of the Income Tax (Pay As You Earn) Regulations 2003;
+- “**in-house expenditure**” means expenditure that is attributable to research and development undertaken by the company itself;
+- “**qualifying indirect activities**” has the meaning given in the Guidelines on the Meaning of Research and Development for Tax Purposes issued by the Secretary of State for Business and Trade on 7 March 2023.
+
+## 4. Amendment of the Income and Corporation Taxes (Electronic Communications) Regulations 2003[^key-77396868944bc301d218c6f8a7c09be4]
+
+(1) The Income and Corporation Taxes (Electronic Communications) Regulations 2003[^f00007] are amended as follows.
+
+(2) In regulation 2 (scope of these Regulations)—
+
+- (a) after paragraph (1)(a)(vi), omit “or”,
+- (b) after paragraph (1)(a)(vii), omit “and”, and
+- (c) after paragraph (1)(a)(vii), insert—
+
+  > - (viii) section 1142A of the Corporation Tax Act 2009, or
+  > - (ix) paragraph 83EA(1) of Schedule 18 to the Finance Act 1998; and
+
+  .
+
+(3) In regulation 3 (use of electronic communication), in paragraph (2A)—
+
+- (a) after “company tax return”, in the first place that expression occurs, insert “, claim notification under section 1142A of the Corporation Tax Act 2009 or additional information under paragraph 83EA of Schedule 18 to the Finance Act 1998”,
+- (b) in the second sentence omit “only”,
+- (c) omit the final sentence, and
+- (d) at the end insert—
+
+  > This paragraph also applies to an amendment made on or after 8 August 2023 to a company tax return for an accounting period beginning on or after 1 April 2023, where the company tax return includes an R&D claim within the meaning of section 1142B of the Corporation Tax Act 2009 before or after the amendment. It does not apply to any other amendment to a company tax return.
+
+  .
+
+Jim Harra
+
+Justin Holliday
+
+Two of the Commissioners for His Majesty’s Revenue and Customs
+
+17th July 2023
+
+## SCHEDULE 1 — Claim notifications
+
+Regulation 2
+
+**1.**[^key-9ac8f7e1f1f2c72fccc5e3bd9e0a3a2d] A claim notification under section 1142A of the Corporation Tax Act 2009 (requirement to make a claim notification) must include the information specified in the Table in respect of—
+
+- (a) the company[^f00008],
+- (b) the company officer responsible for ensuring the accuracy of the information provided under this Schedule,
+- (c) any agent or tax adviser engaged by the company, or which has provided services to the company, in any capacity in relation to the R&D claim, and
+- (d) the R&D claim[^f00009].
+
+**2.**[^key-e95d7f135c4e9303408df801b3f1910f] This is the Table referred to in paragraph 1—
+
+| Subject | Specified information |
+| --- | --- |
+| the company | - (a) registered name (or, if the company is not a registered company, formal name)[^key-93ed025423d8a6e38c452aca8ca4205a], and<br>- (b) unique taxpayer reference number. |
+| the company officer responsible for ensuring the accuracy of the information provided under this Schedule | - (a) name,<br>- (b) role in the company,<br>- (c) telephone number, and<br>- (d) email address. |
+| agent(s) or tax adviser(s) | - (a) name (or, if the agent or adviser is a registered company, its registered number if available),<br>- (b) agent reference number,<br>- (c) business or trading name,<br>- (d) address of principal place of business,<br>- (e) email address,<br>- (f) telephone number, and<br>- (g) agent role (acting on research and development claim only, or acting on both research and development claim and other tax matters). |
+| the R&D claim | - (a) the start date and the end date of the accounting period,<br>- (b) the start date and the end date of the period of account,<br>- (c) the number of research and development project(s), and<br>- (d) an overview of the research and development project(s) for the period of account. |
+
+## SCHEDULE 2 — Additional information to be provided in relation to R&D claims
+
+Regulation 3
+
+### Claimant’s details[^key-f24d3d61eb00c4b338fcae7b1f8a443b]
+
+**1.**[^key-27e5811a0d948ca1eda8141aa6719fe8] (1) The following information in relation to the company—
+
+- (a) registered name (or, if the company is not a registered company, formal name);
+- (b) unique taxpayer reference number;
+- (c) if the company is registered for VAT, its VAT registration number within the meaning of section 77E of the Value Added Tax Act 1994;
+- (d) employer’s PAYE reference, if available;
+- (e) main area of business;
+- (f) whether the company has a registered office in Northern Ireland, and if so—
+  - (i) the postcode for the office;
+  - (ii) the registered number of the company.
+
+(2) If the claim is under Chapter 2 of Part 13 of CTA 2009 and the company has a registered office in Northern Ireland—
+
+- (a) whether the company has, at any point during the accounting period to which the claim relates, carried on a trade that involves—
+  - (i) trading in goods, or
+  - (ii) the generation, transmission, distribution, supply, wholesale trading or cross-border exchange of electricity; and
+- (b) if not, whether the company wishes to rely on section 1112J(4) of CTA 2009[^key-867a5c0af1bb0775018179d2e41ec5ef].
+
+### Responsible officer
+
+**2.**[^key-643a57c5b966f6af6f05bb846a7b84f1] The following information in relation to the officer of the company who is responsible for ensuring the accuracy of the information provided under this Schedule—
+
+- (a) name;
+- (b) role in the company;
+- (c) telephone number;
+- (d) email address.
+
+### 3. Agents and advisers
+
+If an agent or tax adviser is or has been engaged by the company, or has provided services to the company, in any capacity in relation to the claim, the following information in relation to each such agent or adviser—
+
+- (a) name (or, if the agent or adviser is a registered company, its registered name);
+- (b) agent reference number;
+- (c) business or trading name;
+- (d) address of principal place of business;
+- (e) telephone number;
+- (f) email address;
+- (g) whether or not the role of the agent or adviser is limited to matters concerning relief for research and development.
+
+### 4. Periods of claim
+
+The start date and end date of the accounting period, and the period of account, to which the claim relates.
+
+### 5. The relevant R&D
+
+(1) The following information in relation to the research and development to which the claim relates.
+
+(2) The number of projects undertaken.
+
+(3) In relation to each relevant project—
+
+- (a) a name by which the project can be referred to;
+- (b) words identifying the field of science or technology with which the project is concerned;
+- (c) a description of—
+  - (i) the scientific or technological knowledge that existed when the project began and that the project aimed to improve upon;
+  - (ii) the advance in scientific or technological knowledge that the project aimed to achieve;
+  - (iii) the scientific or technological uncertainties that the project faced;
+  - (iv) how the project sought to overcome those uncertainties.
+
+(4) For the purposes of sub-paragraph (3)—
+
+- (a) if the number given under sub-paragraph (2) is 3 or less, each of the projects is a relevant project;
+- (b) if the number is more than 3, subject to paragraph (c)—
+  - (i) the company must select 3 or more projects to treat as relevant projects, and
+  - (ii) those projects must together account for at least half of the qualifying expenditure in respect of which the claim is made;
+- (c) if—
+  - (i) the number is more than 10, and
+  - (ii) complying with paragraph (b) would lead to more than 10 projects being treated as relevant projects,
+
+  the 10 projects accounting for the 10 highest shares of the qualifying expenditure in respect of which the claim is made (but only those projects) are relevant projects.
+
+(5) If the claim relates to an accounting period beginning on or after 1st April 2024, whether the research and development was undertaken—
+
+- (a) entirely in the United Kingdom,
+- (b) entirely outside the United Kingdom, or
+- (c) partly in and partly outside the United Kingdom.
+
+(6) If the claim relates to an accounting period beginning before 1st April 2024, whether or not the research and development was undertaken entirely in the United Kingdom.
+
+### 6. Qualifying expenditure: claims under the new schemes
+
+(1) If the claim relates to an accounting period beginning on or after 1st April 2024, the following information.
+
+(2) The amount of qualifying expenditure in respect of which the claim is made.
+
+(3) In this paragraph, “qualifying expenditure”—
+
+- (a) in relation to a claim under Chapter 1A of Part 13 of CTA 2009[^f00010], means qualifying Chapter 1A expenditure[^f00011];
+- (b) in relation to a claim under Chapter 2 of that Part, means qualifying Chapter 2 expenditure[^f00012].
+
+(4) The amount of the qualifying expenditure that falls within each of the following categories—
+
+- (a) in-house expenditure incurred on staffing costs[^f00013];
+- (b) in-house expenditure incurred on software;
+- (c) in-house expenditure incurred on data licences;
+- (d) in-house expenditure incurred on cloud computing;
+- (e) in-house expenditure incurred on consumable items[^f00014];
+- (f) in-house expenditure that is qualifying expenditure on externally provided workers[^f00015];
+- (g) in-house expenditure incurred on relevant payments to the subjects of a clinical trial[^f00016];
+- (h) expenditure incurred in making the qualifying element of a contractor payment[^f00017].
+
+(5) If an amount more than nil is given for the category in sub-paragraph (4)(f)—
+
+- (a) the number of externally provided workers whose earnings form part of the qualifying expenditure concerned;
+- (b) in relation to each such worker, the employer’s PAYE reference, if available;
+- (c) whether any of the qualifying expenditure concerned is attributable to research and development undertaken outside the United Kingdom, and if so—
+  - (i) how much;
+  - (ii) in respect of each worker whose earnings form part of the expenditure, whether the company or the staff controller[^f00018] is required to account both for income tax under PAYE regulations and for Class 1 national insurance contributions in respect of any part of those earnings;
+- (d) if—
+  - (i) a negative answer is given under paragraph (c)(ii) of this sub-paragraph in respect of any worker, and
+  - (ii) no positive answer was given under paragraph (a) or (b) of paragraph 1(2) of this Schedule,
+
+  the company’s reasons for considering that section 1138A of CTA 2009[^f00019] applies.
+
+(6) No more than 10 references need to be given under sub-paragraph (5)(b); but in selecting which references to give from more than 10, the company must not omit the reference of an employer that employed more of the workers referred to in sub-paragraph (5)(a) than an employer whose reference is given.
+
+(7) If an amount more than nil is given for the category in sub-paragraph (4)(h)—
+
+- (a) the identity of each relevant contractor;
+- (b) the employer’s PAYE reference for each relevant contractor, if available;
+- (c) in relation to each relevant contractor, the amount of the qualifying expenditure concerned that consists of contractor payments[^f00020] to that contractor;
+- (d) whether any of the qualifying expenditure concerned is attributable to research and development undertaken outside the United Kingdom, and if so how much;
+- (e) if—
+  - (i) a positive answer is given under paragraph (d) of this sub-paragraph, and
+  - (ii) no positive answer was given under paragraph (a) or (b) of paragraph 1(2) of this Schedule,
+
+  the company’s reasons for considering that section 1138A of CTA 2009 applies.
+
+(8) For the purposes of sub-paragraph (7)—
+
+- (a) a “relevant contractor” is a company that received a contractor payment that is comprised in the qualifying expenditure notified under sub-paragraph (4)(h);
+- (b) if there are 10 or fewer such companies, each is a relevant contractor;
+- (c) if there are more than 10 such companies, only the 10 that received payments accounting for the 10 highest shares of the qualifying expenditure notified under sub-paragraph (4)(h) (taking together separate payments made to a single company) are relevant contractors.
+
+(9) The amount of the qualifying expenditure that is attributable to qualifying indirect activities.
+
+### 7. Qualifying expenditure: claims under the old schemes
+
+(1) If the claim relates to an accounting period beginning before 1st April 2024, the following information.
+
+(2) The amount of qualifying R&D expenditure in respect of which the claim is made.
+
+(3) In this paragraph, “qualifying expenditure”—
+
+- (a) in relation to a claim under Chapter 6A of Part 3 of CTA 2009[^f00021], means qualifying R&D expenditure[^f00022];
+- (b) in relation to a claim under Chapter 2 of Part 13 of CTA 2009, means qualifying Chapter 2 expenditure[^f00023].
+
+(4) The amount of the qualifying expenditure that falls within each of the following categories—
+
+- (a) in-house expenditure incurred on staffing costs;
+- (b) in-house expenditure incurred on software;
+- (c) in-house expenditure incurred on data licences;
+- (d) in-house expenditure incurred on cloud computing;
+- (e) in-house expenditure incurred on consumable items;
+- (f) in-house expenditure that is qualifying expenditure on externally provided workers;
+- (g) in-house expenditure incurred on relevant payments to the subjects of a clinical trial;
+- (h) qualifying expenditure on contracted out research and development;
+- (i) in the case of a claim under Chapter 6A of Part 3 of CTA 2009, subsidised qualifying expenditure on contracted out research and development;
+- (j) also in such a case, qualifying expenditure on contributions to independent research and development.
+
+(5) The amount of the qualifying expenditure that is attributable to qualifying indirect activities.
+
+### 8. R&D intensity threshold
+
+(1) If the claim—
+
+- (a) is made under Chapter 2 of Part 13 of CTA 2009, and
+- (b) relies on the company having met the R&D intensity condition in the accounting period to which the claim relates,
+
+the following information.
+
+(2) The total amount forming part of the company’s total relevant expenditure for the period by virtue of paragraphs (a) and (b) of section 1045ZA(5) of CTA 2009.
+
+(3) The amount forming part of the company’s total relevant expenditure for the period by virtue of paragraph (c) of that subsection.
+
+(4) The company’s relevant R&D expenditure for the period.
+
+(5) In relation to each company (if any) that the claimant company is aware of having been connected with on any day within the period—
+
+- (a) registered name (or, in the case of a company other than a registered company, formal name);
+- (b) country of registration (or, in the case of a company other than a registered company, the country in which it is based);
+- (c) registered number, in the case of a company registered in the United Kingdom;
+- (d) the total amount forming part of the company’s total relevant expenditure for the period by virtue of paragraphs (a) and (b) of section 1045ZA(5) of CTA 2009;
+- (e) the amount forming part of the company’s total relevant expenditure for the period by virtue of paragraph (c) of that subsection;
+- (f) the company’s relevant R&D expenditure for the period.
+
+### 9. Companies creating or managing intellectual property
+
+Whether the claim relies on the application of section 1058D or 1112E of CTA 2009 to the company, and if so, the company’s reasons for considering that the section in question applies.
+
+### 10. Information relating to limit in Northern Ireland
+
+(1) If a positive answer was given under sub-paragraph (a) or (b) of paragraph 1(2)—
+
+- (a)[^key-0e8fcda639a2abf83990fb691184b7c1] a statement to the effect that any additional relief claimed by the company under Chapter 2 would be de minimis state aid, and
+- (b) the total value of de minimis state aid received by the company from the United Kingdom in the period of three years ending with the day on which the claim is made;
+
+(2)[^key-54c7bd2943d5d64e994cc4246a1bf877] For the purposes of sub-paragraph (1)—
+
+- “**additional relief**” has the meaning given in section 1112J(3) of CTA 2009;
+- “**de minimis state aid**” means aid that is exempted from notification as described in section 1112J(2) of CTA 2009.
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+Section 1142A of the Corporation Tax Act 2009 (“CTA09”) imposes a requirement for a company to make a claim notification for the purposes of provisions in Part 3 and Part 13 of CTA09. Regulation 2 specifies the information that must be provided by a company for the purposes of claim notifications made under section 1142A CTA09.
+
+Part 9A of Schedule 18 to the Finance Act 1998 deals with claims for R&D expenditure credits or R&D tax relief. Paragraph 83EA of Schedule 18 to the Finance Act 1998 provides that a claim is invalid unless the claimant company has provided to an officer of Revenue and Customs certain additional information. Regulation 3 specifies the information that must be provided by the claimant company.
+
+Regulation 4 makes an amendment to the Electronic Communications Regulations 2003 so that the claim notification made under Part 3 of CTA09 and additional information provided under paragraph 83EA(1) of Schedule 18 to the Finance Act 1998 and amended returns that relate to an R&D claim must be delivered electronically.
+
+A Tax Information and Impact Note covering this instrument is published on the website at https://www.gov.uk/government/collections/tax-information-and-impact-notes-tiins.
+
+## Annotations
+
+[^f00001]: Footnote: [1998 c. 36](https://www.legislation.gov.uk/ukpga/1998/36); Schedule 18, paragraph 83EA was inserted by paragraph 13 of Schedule 1 to the Finance (No. 2) Act [2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30).
+
+[^f00002]: Footnote: [1999 c. 16](https://www.legislation.gov.uk/ukpga/1999/16); section 132(10) was amended by section 411(2) of, and paragraph 156 of Schedule 17 to, the Communications Act [2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [S.I. 2003/1900](https://www.legislation.gov.uk/uksi/2003/1900) and [2003/3142](https://www.legislation.gov.uk/uksi/2003/3142).
+
+[^f00003]: Footnote: [2002 c. 23](https://www.legislation.gov.uk/ukpga/2002/23); section 135 of the Finance Act 2002 was amended by paragraph 95(1)(a) of Schedule 4 of the Commissioners for Revenue and Customs Act [2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11), section 93 of the Finance Act [2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11) and [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126).
+
+[^f00004]: Footnote: [2009 c. 4](https://www.legislation.gov.uk/ukpga/2009/4); section 1142A was inserted by section 10 of, and paragraph 1(6) of Schedule 1 to, the Finance (No. 2) Act 2023.
+
+[^f00005]: Footnote: By virtue of section 5(2) of the Commissioners for Revenue and Customs Act 2005 functions previously exercisable by the Commissioners of Inland Revenue are now exercisable by the Commissioners for His Majesty’s Revenue and Customs.
+
+[^key-af6d302735ebe87b0194954675dca198]: Commencement: Reg. 1 in force at 8.8.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/813/regulation/1)
+
+[^key-74a89c449143c9b52e4f22cd22e0956d]: Commencement: Reg. 2 in force at 8.8.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/813/regulation/1)
+
+[^key-e9d0b9b7e7eb56f8320a0d0378ffba91]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2023/813/regulation/3) substituted (2.10.2024) by [The Research and Development Relief (Information Requirements etc.) Regulations 2024 (S.I. 2024/950)](https://www.legislation.gov.uk/uksi/2024/950), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/950/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/950/regulation/2/1)
+
+[^key-864097fe0d1584af45544e91afe05bd4]: Textual amendment: Words in [reg. 3(4)](https://www.legislation.gov.uk/uksi/2023/813/regulation/3/4) omitted (with effect in accordance with s. 29(9) of the amending Act) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 29(7)(a)](https://www.legislation.gov.uk/ukpga/2025/8/section/29/7/a)[(9)](https://www.legislation.gov.uk/ukpga/2025/8/section/29/9)
+
+[^key-77396868944bc301d218c6f8a7c09be4]: Commencement: Reg. 4 in force at 8.8.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/813/regulation/1)
+
+[^f00007]: Footnote: [S.I. 2003/282](https://www.legislation.gov.uk/uksi/2003/282); relevantly amended by [S.I. 2009/3218](https://www.legislation.gov.uk/uksi/2009/3218), [2010/2942](https://www.legislation.gov.uk/uksi/2010/2942), [2014/489](https://www.legislation.gov.uk/uksi/2014/489), and [2023/221](https://www.legislation.gov.uk/uksi/2023/221).
+
+[^key-9ac8f7e1f1f2c72fccc5e3bd9e0a3a2d]: Commencement: Sch. 1 para. 1 in force at 8.8.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/813/regulation/1)
+
+[^f00008]: Footnote: “company” is defined in section 1121 of the Corporation Tax Act [2010 (c. 24)](https://www.legislation.gov.uk/ukpga/2010/24).
+
+[^f00009]: Footnote: “R&D claim” is defined in section 1142B of the Corporation Tax Act [2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4). Section 1142B was inserted by paragraph 2(6) of Schedule 1 to the Finance (No. 2) Act 2023.
+
+[^key-e95d7f135c4e9303408df801b3f1910f]: Commencement: Sch. 1 para. 2 in force at 8.8.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/813/regulation/1)
+
+[^key-93ed025423d8a6e38c452aca8ca4205a]: Textual amendment: Words in [Sch. 1 para. 2(a)](https://www.legislation.gov.uk/uksi/2023/813/schedule/1/paragraph/2/a) inserted (2.10.2024) by [The Research and Development Relief (Information Requirements etc.) Regulations 2024 (S.I. 2024/950)](https://www.legislation.gov.uk/uksi/2024/950), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/950/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2024/950/regulation/3)
+
+[^key-f24d3d61eb00c4b338fcae7b1f8a443b]: Textual amendment: [Sch. 2 paras. 1-10](https://www.legislation.gov.uk/uksi/2023/813/schedule/2/paragraph/1) substituted for [Sch. 2](https://www.legislation.gov.uk/uksi/2023/813/schedule/2) [paras. 1, 2](https://www.legislation.gov.uk/uksi/2023/813/schedule/2/paragraph/1) (2.10.2024) by [The Research and Development Relief (Information Requirements etc.) Regulations 2024 (S.I. 2024/950)](https://www.legislation.gov.uk/uksi/2024/950), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/950/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2024/950/regulation/2/2)
+
+[^key-27e5811a0d948ca1eda8141aa6719fe8]: Commencement: Sch. 2 para. 1 in force at 8.8.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/813/regulation/1)
+
+[^key-867a5c0af1bb0775018179d2e41ec5ef]: Textual amendment: Words in [Sch. 2 para. 1(2)(b)](https://www.legislation.gov.uk/uksi/2023/813/schedule/2/paragraph/1/2/b) substituted (with effect in accordance with s. 29(9) of the amending Act) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 29(7)(b)](https://www.legislation.gov.uk/ukpga/2025/8/section/29/7/b)[(9)](https://www.legislation.gov.uk/ukpga/2025/8/section/29/9)
+
+[^key-643a57c5b966f6af6f05bb846a7b84f1]: Commencement: Sch. 2 para. 2 in force at 8.8.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/813/regulation/1)
+
+[^f00010]: Footnote: For the requirement to register for value added tax see section 3 of, and Schedules 1 to 3A to, the Value Added Tax Act [1994 (c. 23)](https://www.legislation.gov.uk/ukpga/1994/23) and Part 2 of [S.I. 1995/2518](https://www.legislation.gov.uk/uksi/1995/2518).
+
+[^f00011]: Footnote: [S.I. 2003/2682](https://www.legislation.gov.uk/uksi/2003/2682); there are amendments to regulation 2(1) but they are not relevant to these Regulations.
+
+[^f00012]: Footnote: Section 1058D was inserted by paragraph 3 of Schedule 3 to the Finance Act [2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26).
+
+[^f00013]: Footnote: For the meaning of “externally provided worker” see section 1128 of the Corporation Tax Act 2009.
+
+[^f00014]: Footnote: For the meaning of “qualifying expenditure” see section 1051 of the Corporation Tax Act 2009.
+
+[^f00015]: Footnote: For the meaning of “staffing costs” see section 1123 of the Corporation Act 2009. Section 1123 was amended by [S.I. 2019/689](https://www.legislation.gov.uk/uksi/2019/689) and [2020/1499](https://www.legislation.gov.uk/uksi/2020/1499).
+
+[^f00016]: Footnote: For the meaning of “qualifying expenditure on externally provided workers” see section 1127 of the Corporation Tax Act 2009.
+
+[^f00017]: Footnote: For meaning of the “qualifying expenditure on contracted out R&D” see section 1053 of the Corporation Act 2009. Section 1053 was amended by section 13 of the Finance (No. 3) Act [2010 (c. 33)](https://www.legislation.gov.uk/ukpga/2010/33) and section 28(4)(h) of the Finance Act [2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11).
+
+[^f00018]: Footnote: For the meaning of “software or consumable items” see section 1125 of the Corporation Tax Act 2009.
+
+[^f00019]: Footnote: For the meaning of “Relevant payments to the subjects of a clinical trial” see section 1140 of the Corporation Tax Act 2009.
+
+[^f00020]: Footnote: For the meaning of “data licences” see section 1125 of the Corporation Tax Act 2009.
+
+[^f00021]: Footnote: For the meaning of “cloud computing” see section 1125 of the Corporation Tax Act 2009.
+
+[^f00022]: Footnote: For the meaning of “contributions to independent research and development see section 104L of the Corporation Tax Act 2009.
+
+[^f00023]: Footnote: Available online at https://www.gov.uk/government/publications/guidelines-on-the-meaning-of-research-and-development-for-tax-purposes/meaning-of-research-and-development-for-tax-purposes-guidelines. A hard copy is available for inspection free of charge at the offices of HM Revenue and Customs at 100 Parliament Street, London, SW1A 2BQ.
+
+[^key-0e8fcda639a2abf83990fb691184b7c1]: Textual amendment: [Sch. 2 para. 10(1)(a)(b)](https://www.legislation.gov.uk/uksi/2023/813/schedule/2/paragraph/10/1/a/b) substituted (with effect in accordance with [s. 29(9)](https://www.legislation.gov.uk/ukpga/2025/8/section/29/9) of the amending Act) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 29(7)(c)(9)](https://www.legislation.gov.uk/ukpga/2025/8/section/29/7/c/9)
+
+[^key-54c7bd2943d5d64e994cc4246a1bf877]: Textual amendment: [Sch. 2 para. 10(2)](https://www.legislation.gov.uk/uksi/2023/813/schedule/2/paragraph/10/2) substituted (with effect in accordance with [s. 29(9)](https://www.legislation.gov.uk/ukpga/2025/8/section/29/9) of the amending Act) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 29(7)(c)(9)](https://www.legislation.gov.uk/ukpga/2025/8/section/29/7/c/9)

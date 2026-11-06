@@ -1,0 +1,488 @@
+---
+title: The Marine and Coastal Access Act 2009 (Transitional and Savings Provisions) Order 2011
+id: uksi/2011/603
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2011-03-02'
+text_date: '2017-11-30'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2011/603
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2011/603/pdfs/uksiem_20110603_en.pdf
+- http://www.legislation.gov.uk/uksi/2011/603/pdfs/uksi_20110603_en.pdf
+- http://www.legislation.gov.uk/uksi/2011/603/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Marine and Coastal Access Act 2009 (Transitional and Savings Provisions) Order 2011
+
+> Text as at 2017-11-30.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2011 No. 603
+
+Fisheries
+
+The Marine and Coastal Access Act 2009 (Transitional and Savings Provisions) Order 2011
+
+Made
+
+2nd March 2011
+
+Laid before Parliament
+
+8th March 2011
+
+Coming into force
+
+1st April 2011
+
+The Secretary of State makes the following Order in exercise of the powers conferred by section 188 of the Marine and Coastal Access Act 2009[^f00001].
+
+## 1. Citation, commencement and expiry[^key-cab6e27fd69d2888fd7a84e3035d34bb]
+
+(1) This Order may be cited as the Marine and Coastal Access Act 2009 (Transitional and Savings Provisions) Order 2011.
+
+(2) It comes into force on 1st April 2011.
+
+(3) Article 8 ceases to have effect on 1st April 2015.
+
+## 2. Interpretation[^key-dffe66337f7c3cc9e4efe388eb08d285]
+
+(1) In this Order—
+
+- “transfer date” means 1st April 2011;
+- “the transferee” means the IFC authority referred to in article 3(2);
+- “the transferor” means the local fisheries committee referred to in article 3(1).
+
+(2) Expressions used in this Order that are also used in Chapters 1 and 2 of Part 6 of the Marine and Coastal Access Act 2009 have the meaning they bear in those Chapters.
+
+## 3. Transfer of employees[^key-59c589ac4ea0f642354d6b0721075761]
+
+(1) This paragraph applies in relation to any person (a “relevant employee”) who, immediately before the transfer date, was employed by or on behalf of a local fisheries committee listed in the left hand column of the table in Schedule 1 (“the transferor”) and whose contract of employment was not terminated before the transfer date (whether by expiry of notice, effluxion of time or otherwise).
+
+(2) On the transfer date, all relevant employees transfer to, and become employees of, the IFC authority listed in the corresponding entry to the transferor in the right hand column of the table in Schedule 1 (“the transferee”).
+
+(3) The contract of employment of a relevant employee—
+
+- (a) is not terminated by the transfer;
+- (b) has effect on and after the transfer date as if originally made between that employee and the transferee.
+
+(4) Without prejudice to paragraph (3)—
+
+- (a) all the rights, powers, duties and liabilities under or in connection with the contract of employment of a relevant employee transfer to the transferee on the transfer date; and
+- (b) anything done before the transfer date by, or in relation, to the transferor in respect of a relevant employee or their contract of employment, is deemed to have been done by, or in relation to, the transferee.
+
+(5) Paragraphs (2) to (4) do not transfer a relevant employee’s contract of employment, or the rights, powers, duties and liabilities under or in connection with that contract, if the employee has objected to the transfer to the transferee and had informed the transferor of that objection on or before 31st March 2011.
+
+(6) Where a relevant employee so objects, their contract of employment with the transferor is terminated immediately before the date on which the transfer would have occurred and that employee is not to be treated, for any purpose, as having been dismissed by the transferor.
+
+(7) Nothing in this article affects any right of a relevant employee to terminate their contract of employment with the transferor if (apart from the change of employer) a substantial and detrimental change is made to the employee’s working conditions.
+
+## 4. Transfer of property, rights and liabilities[^key-93f877517eb359629c3147a4b0fcbaea]
+
+(1) On the transfer date, the following transfer to and vest in the transferee—
+
+- (a) all property held by or on behalf of the transferor immediately before that date; and
+- (b) all rights and liabilities to which the transferor was entitled or subject immediately before that date including any rights conferred on the transferor by an order made under section 1 of the Sea Fisheries (Shellfish) Act 1967[^f00002].
+
+(2) But rights transferred by virtue of paragraph (1)(b) do not include any rights to which article 3 applies.
+
+(3) On and after the transfer date, all property of a relevant council held for the purposes of the transferor immediately before that date is held by the council for the purposes of the transferee.
+
+(4) Paragraph (1) has effect in spite of any provision (of whatever nature) that would prevent or restrict the transfer of the property, rights or liabilities in question otherwise than by that paragraph.
+
+## 5. Continuation of proceedings etc[^key-e3d8a6ef1ad2a052fe347256383c10e9]
+
+(1) Nothing in article 3 or 4 affects the validity of anything done by or in relation to the transferor before the transfer date.
+
+(2) There may be continued by or in relation to the transferee anything (including legal proceedings) which—
+
+- (a) relates to any of the functions that were exercisable by the transferor immediately before the transfer date or to any property, rights or liabilities transferred by article 4;
+- (b) is in the process of being done by or in relation to the transferor immediately before the transfer date; and
+- (c) could lawfully be undertaken by or in relation to the transferee.
+
+(3) Anything—
+
+- (a) done by the transferor for the purposes of or in connection with any of the functions which were exercisable by it immediately before the transfer date or for the purposes of or in connection with any property, rights or liabilities transferred by article 4; and
+- (b) in effect immediately before the transfer date,
+
+has effect on and after the transfer date as if done by the transferee to the extent that the transferee could lawfully undertake that action.
+
+(4) The transferee is substituted for the transferor in any instruments or contracts which are either made or commenced before the transfer date and which relate to any of the functions that were exercisable by the transferor immediately before the transfer date.
+
+## 6. Local fisheries committee byelaws[^key-20f5d62baa64343a0eebebb5c563438c]
+
+(1) This article applies in relation to byelaws[^f00003] made by a local fisheries committee.
+
+(2) Where any provision of a byelaw—
+
+- (a) is in force immediately before the transfer date;
+- (b) has effect in relation to an area all or part of which is comprised in an IFC district; and
+- (c) is such as could be comprised in a byelaw made under section 155 of the Marine and Coastal Access Act 2009 by the IFC authority for that district,
+
+the provision has effect on and after the transfer date, in relation to the area described in paragraph (2)(b), as if comprised in a byelaw made by the IFC authority for that IFC district.
+
+## 7. Environment Agency byelaws within an IFC district[^key-d93c84bd80c22e9dc55834fc5045896e]
+
+(1) This article applies in relation to byelaws made by the Environment Agency exercising the powers of a local fisheries committee[^f00004].
+
+(2) Where any provision of a byelaw—
+
+- (a) is in force immediately before the transfer date;
+- (b) has effect in relation to an area of river, stream or estuary all or part of which is comprised in an IFC district; and
+- (c) is such as could be comprised in a byelaw made under section 155 of the Marine and Coastal Access Act 2009 by the IFC authority for that district,
+
+the provision has effect on and after the transfer date, in relation to the area described in paragraph (2)(b), as if comprised in a byelaw made by the IFC authority for that IFC district.
+
+## 8. Environment Agency byelaws outside an IFC district[^key-fb541ab3aa1d8debf9719bb6c05b73a2]
+
+(1) This article applies in relation to the following byelaws made by the Environment Agency exercising the powers of a local fisheries committee—
+
+- (a) the Sea Fisheries Byelaw 1998[^f00005];
+- (b) byelaws 1, 2, 6, 7, 9, 10, 11, 13 and 14 of the Thames Region Sea Fishery Byelaws 2009[^f00006]; and
+- (c) byelaws 1 to 4 of the Sea Fisheries Fixed Engine Prohibition Byelaws 2010[^f00007].
+
+(2) Where any provision of the byelaws referred to in paragraph (1)—
+
+- (a) is in force immediately before the transfer date;
+- (b) has effect in relation to an area of river, stream or estuary that falls outside the boundary of an IFC district; and
+- (c) is such as could be comprised in an order made by the Secretary of State under section 1, 3, 5 or 5A of the Sea Fish (Conservation) Act 1967[^f00008],
+
+the provision has effect on and after the transfer date, in relation to the area described in paragraph (2)(b), as if comprised in such an order made by the Secretary of State.
+
+(3) For the purposes of enforcing the provisions referred to in this article, the Environment Agency[^f00009] may appoint officers with the powers mentioned in section 238(1) of the Marine and Coastal Access Act 2009.
+
+## 9. Amendments and revocations[^key-9eabc13eba1f056b59764253572d6dd6]
+
+On the coming into force of this Order—
+
+- (a) the enactments specified in Part 1 of Schedule 2 are amended in accordance with that Part; and *(affected by repeal, see note)*[^key-2dc925acb2e40b2fae02fd1a0d251824]
+- (b)[^key-0485b1e972b5bee1fbac60f6761f393e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Richard Benyon
+
+Parliamentary Under Secretary of State
+
+Department for Environment, Food and Rural Affairs
+
+2nd March 2011
+
+## SCHEDULE 1 — Transferors and transferees[^key-1e46109bfc788babf2d08f25abfef694]
+
+Article 3(1) and (2)
+
+| Local fisheries committee | IFC authority |
+| --- | --- |
+| Cornwall Sea Fisheries Committee[^f00010] | Cornwall Inshore Fisheries and Conservation Authority[^f00011] |
+| Cumbria Sea Fisheries Committee[^f00012] | North Western Inshore Fisheries and Conservation Authority[^f00013] |
+| Devon Sea Fisheries Committee[^f00014] | Devon and Severn Inshore Fisheries and Conservation Authority[^f00015] |
+| Eastern Sea Fisheries Committee[^f00016] | Eastern Inshore Fisheries and Conservation Authority[^f00017] |
+| Isles of Scilly Sea Fisheries Committee[^f00018] | Isles of Scilly Inshore Fisheries and Conservation Authority[^f00019] |
+| Kent and Essex Sea Fisheries Committee[^f00020] | Kent and Essex Inshore Fisheries and Conservation Authority[^f00021] |
+| North Eastern Sea Fisheries Committee[^f00022] | North Eastern Inshore Fisheries and Conservation Authority[^f00023] |
+| North Western Sea Fisheries Committee[^f00024] | North Western Inshore Fisheries and Conservation Authority[^f00025] |
+
+|  |  |
+| --- | --- |
+| Northumberland Sea Fisheries Committee[^f00026] | Northumberland Inshore Fisheries and Conservation Authority[^f00027] |
+| Southern Sea Fisheries Committee[^f00028] | Southern Inshore Fisheries and Conservation Authority[^f00029] ) |
+| Sussex Sea Fisheries Committee[^f00030] | Sussex Inshore Fisheries and Conservation Authority[^f00031] |
+
+## SCHEDULE 2 — Amendments and revocations
+
+Article 9
+
+### PART 1 — Amendments
+
+#### 1. The Poole Fishery Order 1985[^key-b1b1f56179907363c66002db0d2d8ebd]
+
+(1) The Poole Fishery Order 1985[^f00032] is amended as follows.
+
+(2) In article 1(3) (title, commencement, period of operation and interpretation), for the definition of “the Committee”, substitute—
+
+> - “the Authority” means the inshore fisheries and conservation authority for the Southern Inshore Fisheries and Conservation District established under section 149(1) of the Marine and Coastal Access Act 2009;
+
+.
+
+(3) For “Committee”, wherever occurring, substitute “Authority”.
+
+#### 2. The River Roach Oyster Fishery Order 1992[^key-9639628b08c27421703eab4948cb08d9]
+
+(1) The River Roach Oyster Fishery Order 1992[^f00033] is amended as follows.
+
+(2) In article 1(3) (title, commencement, duration and interpretation), for the definition of “the Committee”, substitute—
+
+> - “the Authority” means the inshore fisheries and conservation authority for the Kent and Essex Inshore Fisheries and Conservation District established under section 149(1) of the Marine and Coastal Access Act 2009;
+
+.
+
+(3) For “Committee”, wherever occurring, substitute “Authority”.
+
+#### 3. The Wash Fishery Order 1992[^key-cb7dc5a24d269900eff2a3edb519ce0b]
+
+(1) The Wash Fishery Order 1992[^f00034] is amended as follows.
+
+(2) In article 1(2) (title, commencement and interpretation), for the definition of “the Committee”, substitute—
+
+> - “the Authority” means the inshore fisheries and conservation authority for the Eastern Inshore Fisheries and Conservation District established under section 149(1) of the Marine and Coastal Access Act 2009;
+
+.
+
+(3) In article 8(10) (licensing of fishing), for the words from “section 11(5)” to the end, substitute “section 163(1) of the Marine and Coastal Access Act 2009”.
+
+(4) For “Committee”, wherever occurring, substitute “Authority”.
+
+#### 4. The Thames Estuary Cockle Fishery Order 1994[^key-62f04d3daa6eaa28658f2aca9b606844]
+
+(1) The Thames Estuary Cockle Fishery Order 1994[^f00035] is amended as follows.
+
+(2) In article 1(2) (title, commencement and interpretation), for the definition of “the Committee”, substitute—
+
+> - “the Authority” means the inshore fisheries and conservation authority for the Kent and Essex Inshore Fisheries and Conservation District established under section 149(1) of the Marine and Coastal Access Act 2009;
+
+.
+
+(3) In article 4(10) (licensing of fishing), for the words from “section 11(5)” to the end, substitute “section 163(1) of the Marine and Coastal Access Act 2009”.
+
+(4) For “Committee”, wherever occurring, substitute “Authority”.
+
+#### 5. The Merchant Shipping (Load Line) Regulations 1998[^key-b5a2508c8f8553ef285c2fe98d9c3136]
+
+(1) The Merchant Shipping (Load Line) Regulations 1998[^f00036] are amended as follows.
+
+(2) In regulation 2(1) (interpretation), omit the definition of “local fisheries committee” and insert at the appropriate place—
+
+> - “inshore fisheries and conservation authority” means an inshore fisheries and conservation authority for an inshore fisheries and conservation district established under section 149(1) of the Marine and Coastal Access Act 2009;
+
+.
+
+(3) In regulation 4(2)(c)(ii) (application), for the words “a local fisheries committee”, substitute “an inshore fisheries and conservation authority”.
+
+#### 6. The Sea Fishing (Enforcement of Community Conservation Measures) Order 2000[^key-5ef1548ddec5696c5f0c60806d7a8b69]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 7. The Undersized Edible Crabs Order 2000[^key-25508ac6e2fafc01496e2b3770b3b765]
+
+(1) The Undersized Edible Crabs Order 2000[^f00038] is amended as follows.
+
+(2) In article 2(1) (interpretation), for the definition of “Eastern Sea Fisheries District”, substitute—
+
+> - “Eastern Inshore Fisheries and Conservation District” means the inshore fisheries and conservation district established on 1st October 2010 by the Eastern Inshore Fisheries and Conservation Order 2010;
+
+.
+
+(3) For “Eastern Sea Fisheries District”, wherever occurring, substitute “Eastern Inshore Fisheries and Conservation District”.
+
+#### 8. The Waddeton Fishery Order 2001[^key-2645969ac52db0768ada8c66b950cc84]
+
+(1) The Waddeton Fishery Order 2001[^f00039] is amended as follows.
+
+(2) In article 1(2) (title, commencement and interpretation), for the definition of “the Committee”, substitute—
+
+> - “the Authority” means the inshore fisheries and conservation authority for the Devon and Severn Inshore Fisheries and Conservation District established under section 149(1) of the Marine and Coastal Access Act 2009;
+
+.
+
+(3) In article 6(13) (licensing of fishing), for the words from “section 11(5)” to the end substitute “section 163(1) of the Marine and Coastal Access Act 2009”.
+
+(4) For “Committee”, wherever occurring, substitute “Authority”.
+
+#### 9. The Coast Protection (Notices) (England) Regulations 2002[^key-a9188ef96b8368ff351672d46f828147]
+
+In article 3(c) (service of notice of proposal for coast protection work) of the Coastal Protection (Notices) (England) Regulations 2002[^f00040], for the words “local fisheries committee”, substitute “inshore fisheries and conservation authority”.
+
+#### 10. The Water Environment (Water Framework Directive) (England and Wales) Regulations 2003[^key-fda873992d2250bd525c7fc9b0b2bfab]
+
+(1) The Water Environment (Water Framework Directive) (England and Wales) Regulations 2003[^f00041] are amended as follows in relation to England.
+
+(2) In regulation 12 (river basin management plans: public participation)—
+
+- (a) for paragraph (4)(j), substitute—
+
+  > - (j) “any inshore fisheries and conservation authority for an inshore fisheries and conservation district any part of which lies within the river basin district;
+
+  ;
+- (b) after paragraph (5)(b)insert —
+
+  > - (ba) “inshore fisheries and conservation authority” means the inshore fisheries and conservation authority for an inshore fisheries and conservation district;
+  > - (bb) “inshore fisheries and conservation district” means an inshore fisheries and conservation district established by an order under section 149(1) of the Marine and Coastal Access Act 2009;
+
+  ;
+- (c) omit paragraph (5)(d).
+
+#### 11. The Incidental Catches of Cetaceans in Fisheries (England) Order 2005[^key-b3ed995f001cdfe96585863e7b8ee472]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 12. The Conservation of Habitats and Species Regulations 2010[^key-f31f0d71d1b8a749e2b4954372471289]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### PART 2 — Revocations[^key-763f69161967632f843516f4c95c69c0]
+
+**No longer in force.**
+
+**1.**[^key-763f69161967632f843516f4c95c69c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**2.**[^key-763f69161967632f843516f4c95c69c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order makes transitional and savings provisions consequential on the repeal of the Sea Fisheries Regulation Act [1966 (c.38)](https://www.legislation.gov.uk/ukpga/1966/38) when the Orders creating the sea fisheries districts for which local fisheries committees were constituted will lapse.
+
+Article 1(3) provides that article 8 of this Order is to cease to have effect on 1st April 2015.
+
+Article 3 makes provision for the transfer of staff employed by or on behalf of local fisheries committees so that those individuals will become members of the staff of an inshore fisheries and conservation authority.
+
+Article 4 provides for the transfer of property, rights and liabilities from local fisheries committees to inshore fisheries and conservation authorities.
+
+Article 5 provides for the continuation of proceedings and other matters.
+
+Articles 6 to 8 contain savings provisions consequential on the repeal of sections 5, 5A and 17 of the Sea Fisheries Regulation Act 1966.
+
+Article 9 and Schedule 2 contain amendments and revocations.
+
+A full impact assessment of the effect that the Marine and Coastal Access Act 2009 Act will have on the costs of business and the voluntary sector has been produced, and copies are available from the website of the Department for Environment, Food and Rural Affairs at www.defra.gov.uk. No separate impact assessment has been produced for this instrument.
+
+## Annotations
+
+[^f00001]: Footnote: [2009 c.23](https://www.legislation.gov.uk/ukpga/2009/23).
+
+[^key-cab6e27fd69d2888fd7a84e3035d34bb]: Commencement: Art. 1 in force at 1.4.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/603/article/1/2)
+
+[^key-dffe66337f7c3cc9e4efe388eb08d285]: Commencement: Art. 2 in force at 1.4.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/603/article/1/2)
+
+[^key-59c589ac4ea0f642354d6b0721075761]: Commencement: Art. 3 in force at 1.4.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/603/article/1/2)
+
+[^key-93f877517eb359629c3147a4b0fcbaea]: Commencement: Art. 4 in force at 1.4.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/603/article/1/2)
+
+[^f00002]: Footnote: [1967 c.83](https://www.legislation.gov.uk/ukpga/1967/83), section 1 has been amended by section 15 of the Sea Fisheries Act [1968 (c.77)](https://www.legislation.gov.uk/ukpga/1968/77), paragraph 15 of Schedule 2 to the Fisheries Limits Act [1976 (c.86)](https://www.legislation.gov.uk/ukpga/1976/86), section 1 of the Sea Fisheries (Shellfish) Amendment Act [1997 (c.3)](https://www.legislation.gov.uk/ukpga/1997/3), paragraph 42 of Schedule 2 to the Scotland Act 1998 (Consequential Modifications) (No 2) Order 1999 ([S.I. 1999/1820](https://www.legislation.gov.uk/uksi/1999/1820)) and sections 201 and 203 of the Marine and Coastal Access Act 2009. Provision is made in section 188(3) of the Marine and Coastal Access Act 2009 for the transfer of such rights whether or not capable of being transferred or assigned.
+
+[^key-e3d8a6ef1ad2a052fe347256383c10e9]: Commencement: Art. 5 in force at 1.4.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/603/article/1/2)
+
+[^key-20f5d62baa64343a0eebebb5c563438c]: Commencement: Art. 6 in force at 1.4.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/603/article/1/2)
+
+[^f00003]: Footnote: A local fisheries committee makes byelaws under section 5 or 5A of the Sea Fisheries Regulation Act [1966 (c. 38)](https://www.legislation.gov.uk/ukpga/1966/38). Section 5A, which was inserted by section 102(5) of the Environment Act [1995 (c.25)](https://www.legislation.gov.uk/ukpga/1995/25), allows byelaws to be made for marine environmental purposes.
+
+[^key-d93c84bd80c22e9dc55834fc5045896e]: Commencement: Art. 7 in force at 1.4.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/603/article/1/2)
+
+[^f00004]: Footnote: By virtue of section 18(1) of the Sea Fisheries Regulation Act [1966 (c. 38)](https://www.legislation.gov.uk/ukpga/1966/38) the Minister is able to confer on a river authority powers of a local fisheries committee in relation to rivers, streams and estuaries within a sea fisheries district. Powers exercisable by river authorities have passed to the Environment Agency (see section 2 and 55 of the Environment Act [1995 (c. 25)](https://www.legislation.gov.uk/ukpga/1995/25)). References to “the Minister” are now construed as references to the Secretary of State by virtue of the Ministry of Agriculture, Fisheries and Food (Dissolution) Order 2002 ([S.I. 2002/794](https://www.legislation.gov.uk/uksi/2002/794)).
+
+[^key-fb541ab3aa1d8debf9719bb6c05b73a2]: Commencement: Art. 8 in force at 1.4.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/603/article/1/2)
+
+[^f00005]: Footnote: Made under section 5 of the Sea Fisheries Regulation Act 1966 in relation to North West England on 18th May 1998 and confirmed by the Minister on 23rd November 1998.
+
+[^f00006]: Footnote: Made under sections 5, 5A and 18(1) of the Sea Fisheries Regulation Act 1966 on 7th January 2009 and confirmed by the Secretary of State on 18th February 2009.
+
+[^f00007]: Footnote: Made under sections 5, 5A and 18 of the Sea Fisheries Regulation Act 1966 on 11th October 2010 and confirmed by the Secretary of State on 22 December 2010.
+
+[^f00008]: Footnote: [1967 c.84](https://www.legislation.gov.uk/ukpga/1967/84), section 1 was substitute by section 19 of the Fisheries Act [1981 (c. 29)](https://www.legislation.gov.uk/ukpga/1981/29) and further amended by section 314(2) of, and paragraph 38 of Schedule 13 to, the Merchant Shipping Act 1995, section 194 of, and paragraph 1 of Schedule 15 to, the Marine and Coastal Access Act 2009 and paragraph 43 of Schedule 2 to [S.I. 1999/1820](https://www.legislation.gov.uk/uksi/1999/1820). Section 3 was amended by section 195 of, and paragraph 7 of Schedule 14 and paragraph 2 of Schedule 15 to, the Marine and Coastal Access Act 2009 and paragraph 43 of Schedule 2 to [S.I. 1999/1820](https://www.legislation.gov.uk/uksi/1999/1820). Section 5 was substituted by section 22 of the Fisheries Act 1981 and further amended by section 198 of, and paragraph 3 of Schedule 15 to, the Marine and Coastal Access Act 2009 and paragraph 43 of Schedule 2 to [S.I. 1999/1820](https://www.legislation.gov.uk/uksi/1999/1820). Section 5A was inserted by section 103(1) of the Environment Act 1995.
+
+[^f00009]: Footnote: Section 10(1) and 18(3) of the Sea Fisheries Regulation Act 1966 enables the Environment Agency exercising the powers of a local fisheries committee to appoint fishery officers for the purpose of enforcing the observance of byelaws made by the Environment Agency in that capacity.
+
+[^key-9eabc13eba1f056b59764253572d6dd6]: Commencement: Art. 9 in force at 1.4.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/603/article/1/2)
+
+[^key-2dc925acb2e40b2fae02fd1a0d251824]: Textual amendment: [Art. 9(a)](https://www.legislation.gov.uk/uksi/2011/603/article/9/a) revoked (6.3.2015 for specified purposes) by [The Sea Fishing (Enforcement and Miscellaneous Provisions) Order 2015 (S.I. 2015/191)](https://www.legislation.gov.uk/uksi/2015/191), [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/191/article/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2015/191/schedule)
+
+[^key-0485b1e972b5bee1fbac60f6761f393e]: Textual amendment: [Art. 9(b)](https://www.legislation.gov.uk/uksi/2011/603/article/9/b) revoked (6.3.2015) by [The Sea Fishing (Enforcement and Miscellaneous Provisions) Order 2015 (S.I. 2015/191)](https://www.legislation.gov.uk/uksi/2015/191), [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/191/article/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2015/191/schedule)
+
+[^key-1e46109bfc788babf2d08f25abfef694]: Commencement: Sch. 1 in force at 1.4.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/603/article/1/2)
+
+[^f00010]: Footnote: The local fisheries committee for the Cornwall Sea Fisheries District created by Order of the Board of Trade on 28th March 1890 (Parliamentary Papers [1890 No. 114](https://www.legislation.gov.uk/uksi/1890/114); varied by S.R. & O. 1926/1742 and [S.I. 1973/2194](https://www.legislation.gov.uk/uksi/1973/2194) and [1980/805](https://www.legislation.gov.uk/uksi/1980/805)).
+
+[^f00011]: Footnote: The inshore fisheries and conservation authority for the Cornwall Inshore Fisheries and Conservation District established by Order on 1st October 2010 ([S.I. 2010/2188](https://www.legislation.gov.uk/uksi/2010/2188) as amended by [S.I. 2011/177](https://www.legislation.gov.uk/uksi/2011/177)).
+
+[^f00012]: Footnote: The local fisheries committee for the Cumbria Sea Fisheries District created by Order of the Board of Trade on 21st February 1895 (S.R. & O. 1895/587 as varied by [S.I. 1973/2195](https://www.legislation.gov.uk/uksi/1973/2195) and [1980/806](https://www.legislation.gov.uk/uksi/1980/806)).
+
+[^f00013]: Footnote: The inshore fisheries and conservation authority for the North Western Inshore Fisheries and Conservation District established by Order on 1st October 2010 ([S.I. 2010/2200](https://www.legislation.gov.uk/uksi/2010/2200)).
+
+[^f00014]: Footnote: The local fisheries committee for the Devon Sea Fisheries District created by Order of the Board of Trade on 31st March 1892 (Parliamentary Papers [1892 No. 132](https://www.legislation.gov.uk/uksi/1892/132) as varied by [S.R & O. 1903/332](https://www.legislation.gov.uk/uksi/1903/332), [S.I. 1970/370](https://www.legislation.gov.uk/uksi/1970/370), [1973/2196](https://www.legislation.gov.uk/uksi/1973/2196), [1980/807](https://www.legislation.gov.uk/uksi/1980/807), [1990/1157](https://www.legislation.gov.uk/uksi/1990/1157), [1993/2532](https://www.legislation.gov.uk/uksi/1993/2532) and [1998/1211](https://www.legislation.gov.uk/uksi/1998/1211)).
+
+[^f00015]: Footnote: The inshore fisheries and conservation authority for the Devon and Severn Inshore Fisheries and Conservation District established by Order on 1st October 2010 ([S.I. 2010/2212](https://www.legislation.gov.uk/uksi/2010/2212)).
+
+[^f00016]: Footnote: The local fisheries committee for the Eastern Sea Fisheries District created by Order of the Board of Trade on 7th November 1893 (S.R. & O. 1893 as varied by S.R. & O. 1907/641 and [S.I. 1973/2197](https://www.legislation.gov.uk/uksi/1973/2197), [1978/438](https://www.legislation.gov.uk/uksi/1978/438) and [1980/808](https://www.legislation.gov.uk/uksi/1980/808)).
+
+[^f00017]: Footnote: The inshore fisheries and conservation authority for the Eastern Inshore Fisheries and Conservation District established by Order on 1st October 2010 ([S.I. 2010/2189](https://www.legislation.gov.uk/uksi/2010/2189)).
+
+[^f00018]: Footnote: The local fisheries committee for the Isles of Scilly Sea Fisheries District created by Order in 1970 ([S.I. 1970/1815](https://www.legislation.gov.uk/uksi/1970/1815) as amended by [S.I. 1980/809](https://www.legislation.gov.uk/uksi/1980/809) and [1995/1472](https://www.legislation.gov.uk/uksi/1995/1472)).
+
+[^f00019]: Footnote: The inshore fisheries and conservation authority for the Isles of Scilly Inshore Fisheries and Conservation District established by Order on 1st October 2010 ([S.I. 2010/2213](https://www.legislation.gov.uk/uksi/2010/2213), as amended by [S.I. 2011/177](https://www.legislation.gov.uk/uksi/2011/177)).
+
+[^f00020]: Footnote: The local fisheries committee for the Kent and Essex Sea Fisheries District created by Order of the Board of Trade on 5th May 1890 (Parliamentary Papers [1890 No. 159](https://www.legislation.gov.uk/uksi/1890/159) as varied by [S.I. 1973/198](https://www.legislation.gov.uk/uksi/1973/198), [1980/810](https://www.legislation.gov.uk/uksi/1980/810), [1990/1157](https://www.legislation.gov.uk/uksi/1990/1157), [1993/2532](https://www.legislation.gov.uk/uksi/1993/2532), [1995/1474](https://www.legislation.gov.uk/uksi/1995/1474) and [1998/1212](https://www.legislation.gov.uk/uksi/1998/1212)).
+
+[^f00021]: Footnote: The inshore fisheries and conservation authority for the Kent and Essex Inshore Fisheries and Conservation District established by Order on 1st October 2010 ([S.I. 2010/2190](https://www.legislation.gov.uk/uksi/2010/2190)).
+
+[^f00022]: Footnote: The local fisheries committee for the North Eastern Sea Fisheries District created by Order of the Board of Trade on 9th July 1890 (revoked and replaced by [S.I. 1986/647](https://www.legislation.gov.uk/uksi/1986/647) as amended by [S.I. 1990/1157](https://www.legislation.gov.uk/uksi/1990/1157) and [1996/1034](https://www.legislation.gov.uk/uksi/1996/1034)).
+
+[^f00023]: Footnote: The inshore fisheries and conservation authority for the North Eastern Inshore Fisheries and Conservation District established by Order on 1st October 2010 ([S.I. 2010/2193](https://www.legislation.gov.uk/uksi/2010/2193)).
+
+[^f00024]: Footnote: First constituted as the local fisheries committee for the North Western and North Wales Sea Fisheries District, which was created by Order in 1986 ([S.I. 1986/1201](https://www.legislation.gov.uk/uksi/1986/1201) as varied by [S.I. 1989/474](https://www.legislation.gov.uk/uksi/1989/474), [1990/1157](https://www.legislation.gov.uk/uksi/1990/1157), [1993/2532](https://www.legislation.gov.uk/uksi/1993/2532), [1996/618](https://www.legislation.gov.uk/uksi/1996/618) and revoked and replaced by [S.I. 1999/1043](https://www.legislation.gov.uk/uksi/1999/1043)). [S.I. 2010/631](https://www.legislation.gov.uk/uksi/2010/631) makes provision for the continuance of that part of the North Western and North Wales Sea Fisheries District lying in England following the repeal of the Sea Fisheries Regulation Act 1966 in Wales by section 187 of the Act (as commenced by article 3 of [S.I. 2010/630](https://www.legislation.gov.uk/uksi/2010/630)) as the North Western Sea Fisheries District. It also provides for the continuance of the local fisheries committee as local fisheries committee for that district.
+
+[^f00025]: Footnote: The North Western IFC authority replaces the North Western Sea Fisheries Committee and the Cumbria Sea Fisheries Committee.
+
+[^f00026]: Footnote: The local fisheries committee for the Northumberland Sea Fisheries District created by Order of the Board of Trade on 20th March 1890 (Parliamentary Papers [1890 No. 105](https://www.legislation.gov.uk/uksi/1890/105); varied by S.R. & O. 1906/846 and [S.I. 1973/2201](https://www.legislation.gov.uk/uksi/1973/2201), [1980/812](https://www.legislation.gov.uk/uksi/1980/812) and [1986/648](https://www.legislation.gov.uk/uksi/1986/648)).
+
+[^f00027]: Footnote: The inshore fisheries and conservation authority for the Northumberland Inshore Fisheries and Conservation District established by Order on 1st October 2010 ([S.I. 2010/2197](https://www.legislation.gov.uk/uksi/2010/2197)).
+
+[^f00028]: Footnote: The local fisheries committee for the Southern Sea Fisheries District created by Order of the Board of Trade on 7th June 1893 (Parliamentary Paper 1893-[1894 No. 247](https://www.legislation.gov.uk/uksi/1894/247) as varied by [SR & O 1904/325](https://www.legislation.gov.uk/uksi/1904/325), [S.I. 1955/77](https://www.legislation.gov.uk/uksi/1955/77), [1973/2202](https://www.legislation.gov.uk/uksi/1973/2202), [S.I. 1978/1715](https://www.legislation.gov.uk/uksi/1978/1715) and revoked and re-enacted with amendments by the Southern Sea Fisheries District Order 1989 ([S.I. 1989/671](https://www.legislation.gov.uk/uksi/1989/671))).
+
+[^f00029]: Footnote: The inshore fisheries and conservation authority for the Southern Inshore Fisheries and Conservation District established by Order on 1st October 2010 ([S.I. 2010/2198](https://www.legislation.gov.uk/uksi/2010/2198)).
+
+[^f00030]: Footnote: The local fisheries committee for the Sussex Sea Fisheries District created by Order of the Board of Trade on 15<sup>th</sup> February 1892 (Parliamentary. Papers 1893-1894 No, 75 as amended by [S.I. 1980/813](https://www.legislation.gov.uk/uksi/1980/813) and [1996/847](https://www.legislation.gov.uk/uksi/1996/847)).
+
+[^f00031]: Footnote: The inshore fisheries and conservation authority for the Sussex Inshore Fisheries and Conservation District established by Order on 1st October 2010 ([S.I. 2010/2199](https://www.legislation.gov.uk/uksi/2010/2199)).
+
+[^key-b1b1f56179907363c66002db0d2d8ebd]: Commencement: Sch. 2 Pt. 1 para. 1 in force at 1.4.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/603/article/1/2)
+
+[^f00032]: Footnote: [S.I. 1985/847](https://www.legislation.gov.uk/uksi/1985/847).
+
+[^key-9639628b08c27421703eab4948cb08d9]: Commencement: Sch. 2 Pt. 1 para. 2 in force at 1.4.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/603/article/1/2)
+
+[^f00033]: Footnote: [S.I. 1992/2957](https://www.legislation.gov.uk/uksi/1992/2957).
+
+[^key-cb7dc5a24d269900eff2a3edb519ce0b]: Commencement: [Sch. 2 Pt. 1 para. 3](https://www.legislation.gov.uk/uksi/2011/603/schedule/2/part/1/paragraph/3) in force at 1.4.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/603/article/1/2)
+
+[^f00034]: Footnote: [S.I. 1992/3038](https://www.legislation.gov.uk/uksi/1992/3038).
+
+[^key-62f04d3daa6eaa28658f2aca9b606844]: Commencement: [Sch. 2 Pt. 1 para. 4](https://www.legislation.gov.uk/uksi/2011/603/schedule/2/part/1/paragraph/4) in force at 1.4.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/603/article/1/2)
+
+[^f00035]: Footnote: [S.I. 1994/2329](https://www.legislation.gov.uk/uksi/1994/2329).
+
+[^key-b5a2508c8f8553ef285c2fe98d9c3136]: Commencement: [Sch. 2 Pt. 1 para. 5](https://www.legislation.gov.uk/uksi/2011/603/schedule/2/part/1/paragraph/5) in force at 1.4.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/603/article/1/2)
+
+[^f00036]: Footnote: [S.I. 1998/2241](https://www.legislation.gov.uk/uksi/1998/2241), to which there are amendments not relevant to this Order.
+
+[^key-5ef1548ddec5696c5f0c60806d7a8b69]: Textual amendment: [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2011/603/schedule/2/paragraph/6) revoked (6.3.2015) by [The Sea Fishing (Enforcement and Miscellaneous Provisions) Order 2015 (S.I. 2015/191)](https://www.legislation.gov.uk/uksi/2015/191), [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/191/article/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2015/191/schedule)
+
+[^key-25508ac6e2fafc01496e2b3770b3b765]: Commencement: [Sch. 2 Pt. 1 para. 7](https://www.legislation.gov.uk/uksi/2011/603/schedule/2/part/1/paragraph/7) in force at 1.4.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/603/article/1/2)
+
+[^f00038]: Footnote: [S.I. 2000/2029](https://www.legislation.gov.uk/uksi/2000/2029).
+
+[^key-2645969ac52db0768ada8c66b950cc84]: Commencement: [Sch. 2 Pt. 1 para. 8](https://www.legislation.gov.uk/uksi/2011/603/schedule/2/part/1/paragraph/8) in force at 1.4.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/603/article/1/2)
+
+[^f00039]: Footnote: [S.I. 2001/1380](https://www.legislation.gov.uk/uksi/2001/1380).
+
+[^key-a9188ef96b8368ff351672d46f828147]: Commencement: [Sch. 2 Pt. 1 para. 9](https://www.legislation.gov.uk/uksi/2011/603/schedule/2/part/1/paragraph/9) in force at 1.4.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/603/article/1/2)
+
+[^f00040]: Footnote: [S.I. 2002/1278](https://www.legislation.gov.uk/uksi/2002/1278).
+
+[^key-fda873992d2250bd525c7fc9b0b2bfab]: Commencement: [Sch. 2 Pt. 1 para. 10](https://www.legislation.gov.uk/uksi/2011/603/schedule/2/part/1/paragraph/10) in force at 1.4.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/603/article/1/2)
+
+[^f00041]: Footnote: [S.I. 2003/3242](https://www.legislation.gov.uk/uksi/2003/3242) amended in relation to Wales by [S.I. 2010/630](https://www.legislation.gov.uk/uksi/2010/630); there are other amending instruments but none is relevant.
+
+[^key-b3ed995f001cdfe96585863e7b8ee472]: Textual amendment: [Sch. 2 para. 11](https://www.legislation.gov.uk/uksi/2011/603/schedule/2/paragraph/11) revoked (6.3.2015) by [The Sea Fishing (Enforcement and Miscellaneous Provisions) Order 2015 (S.I. 2015/191)](https://www.legislation.gov.uk/uksi/2015/191), [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/191/article/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2015/191/schedule)
+
+[^key-f31f0d71d1b8a749e2b4954372471289]: Textual amendment: [Sch. 2 para. 12](https://www.legislation.gov.uk/uksi/2011/603/schedule/2/paragraph/12) omitted (30.11.2017) by virtue of [The Conservation of Habitats and Species Regulations 2017 (S.I. 2017/1012)](https://www.legislation.gov.uk/uksi/2017/1012), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/1/2), [Sch. 6 para. 23](https://www.legislation.gov.uk/uksi/2017/1012/schedule/6/paragraph/23)
+
+[^key-763f69161967632f843516f4c95c69c0]: Textual amendment: [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2011/603/schedule/2/part/2) revoked (6.3.2015) by [The Sea Fishing (Enforcement and Miscellaneous Provisions) Order 2015 (S.I. 2015/191)](https://www.legislation.gov.uk/uksi/2015/191), [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/191/article/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2015/191/schedule)

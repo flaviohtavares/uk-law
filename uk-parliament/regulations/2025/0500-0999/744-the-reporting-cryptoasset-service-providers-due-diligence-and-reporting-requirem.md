@@ -1,0 +1,443 @@
+---
+title: The Reporting Cryptoasset Service Providers (Due Diligence and Reporting Requirements) Regulations 2025
+id: uksi/2025/744
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2025-06-24'
+text_date: '2026-03-18'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2025/744
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2025/744/pdfs/uksiem_20250744_en_001.pdf
+- http://www.legislation.gov.uk/uksi/2025/744/pdfs/uksi_20250744_en.pdf
+- http://www.legislation.gov.uk/uksi/2025/744/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Reporting Cryptoasset Service Providers (Due Diligence and Reporting Requirements) Regulations 2025
+
+> Text as at 2026-03-18.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2025 No. 744
+
+TAXES
+
+The Reporting Cryptoasset Service Providers (Due Diligence and Reporting Requirements) Regulations 2025
+
+Made
+
+24th June 2025
+
+Laid before the House of Commons
+
+25th June 2025
+
+Coming into force
+
+1st January 2026
+
+The Treasury make the following Regulations in exercise of the powers conferred by section 136 of the Finance Act 2002[^f00001] and section 349 of the Finance (No. 2) Act 2023[^f00002].
+
+## Part 1 — Introductory and general provisions
+
+### 1. Citation and commencement[^key-b2b371f535de387d0f94d2526a498576]
+
+These Regulations may be cited as the Reporting Cryptoasset Service Providers (Due Diligence and Reporting Requirements) Regulations 2025 and come into force on 1st January 2026.
+
+### 2. Interpretation[^key-e3e7661a542c20e3c84e32f75956f4c8][^key-75f347b3aac39bad8556bc61344c3966]
+
+(1) In these Regulations—
+
+- “**HMRC**” means His Majesty’s Revenue and Customs;
+- “**the rules**” means the rules and commentary set out in the OECD Crypto-Asset Reporting Framework, published in 2022, as modified, supplemented or replaced from time to time[^f00003];
+- “**self-certification provider**” means an individual cryptoasset user, an entity cryptoasset user or a controlling person of an entity cryptoasset user who has received a request from a UK reporting cryptoasset service provider to provide a self-certification;
+- “**tribunal**” means the First-tier Tribunal or Upper Tribunal as determined under Tribunal Procedure Rules[^f00004];
+- “**UK reporting cryptoasset service provider**” has the meaning given by regulation 3.
+
+(2) Any expression defined in the rules but not in these Regulations has the same meaning in these Regulations as in the rules.
+
+(3) The Schedule contains a table listing places where expressions that are used in these Regulations are defined or otherwise explained in the rules.
+
+(4) In their application for the purposes of these Regulations, the rules are to be read as if—
+
+- (a) a reference to a “calendar year or other appropriate reporting period” were a reference only to a calendar year,
+- (b) a reference to “\[jurisdiction\]” were a reference to the United Kingdom,
+- (c) the list referred to in (b) of Section IV(D)(9)(b) (definition of reportable jurisdiction) is the list contained in a notice published by the Commissioners for HMRC further to this regulation, and
+- (d) the list referred to in Section IV(F)(1) (definition of partner jurisdiction) is the list contained in a notice published by the Commissioners for HMRC further to this regulation.
+
+### 3. UK reporting cryptoasset service provider[^key-0e7c8ee2d3837f1732a20c8c3b36fa94][^key-c8bd61b6eb56dadb434d8b02f5d36c16]
+
+(1) For the purpose of these Regulations, a UK reporting cryptoasset service provider is a reporting cryptoasset service provider which is—
+
+- (a) either—
+  - (i) subject to the reporting and due diligence requirements in Sections II and III of the rules in the United Kingdom by virtue of Section I(A) of the rules, or
+  - (ii) subject to the reporting and due diligence requirements in Sections II and III of the rules in the United Kingdom with respect to relevant transactions effectuated through a branch in the United Kingdom by virtue of Section I(B) of the rules, and
+- (b) is not exempt from the reporting and due diligence requirements to which it is subject in the United Kingdom by virtue of Section I(C) to (H) of the rules.
+
+(2) A notification under Section I(H) of the rules—
+
+- (a) must be given to HMRC on or before—
+  - (i) 31st May 2027, where it relates to the calendar year 2026, or
+  - (ii) 31st January following the calendar year to which it relates, where that year is 2027 or a subsequent year,
+- (b) has effect for the calendar year to which it relates and all subsequent calendar years until it is withdrawn, and
+- (c) must be given and withdrawn in the form and manner specified in specific or general directions given by the Commissioners for HMRC under this regulation.
+
+## Part 2 — Due diligence, record-keeping and reporting obligations
+
+### 4. Due diligence and record-keeping[^key-1b50e5d765c535ffc2b93e0df9648c45]
+
+(1) A UK reporting cryptoasset service provider must apply, and establish and maintain arrangements designed to apply, the due diligence procedures set out in Section III of the rules.
+
+(2) A UK reporting cryptoasset service provider must keep a record of—
+
+- (a) the steps taken to comply with this regulation, and
+- (b) the information collected in the course of applying the due diligence procedures set out in Section III of the rules.
+
+(3) A UK reporting cryptoasset service provider must keep the records required by paragraph (2) for a period of five years beginning with the day after the end of the calendar year to which they relate.
+
+(4) For the purposes of paragraph (3), records in respect of a particular cryptoasset user or controlling person of an entity cryptoasset user relate to the calendar year in which the information was—
+
+- (a) collected,
+- (b) generated, or
+- (c) relied on under Section III of the rules.
+
+### 5. Provision of a valid self-certification[^key-151f204ceccbbe08672621d069ae8b75]
+
+(1) A self-certification provider must provide the self-certification requested—
+
+- (a) in the case of an individual cryptoasset user, in accordance with the requirements of Section III(A) of the rules, and
+- (b) in the case of an entity cryptoasset user or a controlling person of an entity cryptoasset user, in accordance with Section III(B) of the rules.
+
+(2) The self-certification provided must satisfy the requirements as to validity in Section III(C) of the rules.
+
+### 6. Reporting of Information[^key-22b7e98e3eaee5c29fffd299dc67240f][^key-557e34033aca17ff99e07c59f0587161]
+
+(1) A UK reporting cryptoasset service provider must, for each calendar year, make a report to HMRC setting out the information in paragraph (2) on or before 31st May following the end of the calendar year.
+
+(2) The information is—
+
+- (a) for a UK reporting cryptoasset service provider within regulation 3(1)(a)(i), the information set out in Section II(A) to (F) of the rules, and
+- (b) for a UK reporting cryptoasset service provider within regulation 3(1)(a)(ii), the information set out in Section II(A) to (F) of the rules, with respect to relevant transactions effectuated through a branch in the United Kingdom.
+
+### 7. Electronic report system[^key-e17ba0ccba11bad2e7c5b94c98518e74]
+
+(1) A report under regulation 6(1) must be made electronically using an electronic report system.
+
+(2) The form and manner in which a report is to be made using an electronic report system is specified in specific or general directions given by the Commissioners for HMRC.
+
+(3) A report which is made otherwise than in accordance with paragraphs (1) and (2) is treated as not having been made.
+
+(4) An electronic report system must incorporate an electronic validation process.
+
+(5) Unless the contrary is proved—
+
+- (a) the use of an electronic report system is presumed to have resulted in the making of a report only if this has successfully been recorded as such by the relevant electronic validation process,
+- (b) the time of making the report is presumed to be time recorded as such by the relevant electronic validation process, and
+- (c) the person delivering the report is presumed to be the person identified as such by any relevant feature of the electronic report system.
+
+### 8. Notification to reportable users and reportable persons[^key-4f485c13fd85c3af0a695dc6ce03010a][^key-713d96f02d3ec0b6548d86a3f9c4e1dd]
+
+(1) Where a UK reporting cryptoasset service provider must make a report under regulation 6(1) that will include information relating to a reportable user or a reportable person, it must notify that reportable user or reportable person that the information—
+
+- (a) will be reported to HMRC, and
+- (b) may be transferred to the competent authority of another jurisdiction in accordance with the OECD Crypto-Asset Reporting Framework.
+
+(2) The notification must be made on or before 31st January following the first calendar year for which the UK reporting cryptoasset service provider must report information required by regulation 6 relating to that reportable user or reportable person.
+
+### 9. Provision of information to HMRC[^key-62cf8e7c7466fc78019c4839c01ae666]
+
+(1) In order to determine whether or not the obligations arising under these Regulations have been complied with, an officer of Revenue and Customs may require a reporting cryptoasset service provider on whom the officer reasonably suspects these Regulations impose obligations, to provide such information and documents as the officer reasonably requires as specified by written notice.
+
+(2) The information required by notice under paragraph (1) must be provided—
+
+- (a) within such period, being no less than 14 days, and
+- (b) by such means and in such form,
+
+as is reasonably required by the officer of Revenue and Customs.
+
+### 10. Registration with HMRC: UK reporting cryptoasset service providers[^key-c08f9088933981c08682e78ee870a337]
+
+(1) A UK reporting cryptoasset service provider, and a reporting cryptoasset service provider which has lodged a notification under Section I(H) of the rules in accordance with regulation 3(2), must register with HMRC on or before the later of—
+
+- (a) 31st May 2027, and
+- (b) 31st January following the first calendar year in which it falls within the definition of UK reporting cryptoasset service provider in regulation 3(1) or in relation to which it is required to give a notification in accordance with regulation 3(2)(a).
+
+(2) Registration must be effected by the giving of notice to HMRC.
+
+(3) A notice under paragraph (2) must contain the information, and be given in the form and manner, specified in specific or general directions given by the Commissioners for HMRC under this regulation.
+
+## Part 3 — Penalties for breach of obligations
+
+### 11. Penalties for failure to apply due diligence procedures[^key-27f97e190a5e9e18aa9c3870f5f7af0f]
+
+(1) Subject to paragraph (2), if a UK reporting cryptoasset service provider fails to comply with regulation 4(1), the UK reporting cryptoasset service provider is liable to a penalty not exceeding £100 for each reportable user or reportable person in respect of which the UK reporting cryptoasset service provider fails to apply the due diligence procedures in regulation 4(1).
+
+(2) Where the failure in question is a failure to obtain a valid self-certification required by the rules, the UK reporting cryptoasset service provider is liable to a penalty not exceeding £300 for each reportable user or reportable person in respect of which the UK reporting cryptoasset service provider fails to apply the due diligence procedures in regulation 4(1).
+
+### 12. Penalties for failure to comply with record-keeping requirements[^key-79cd5dc0935d0bac3848c74fa0ac60e3]
+
+If a UK reporting cryptoasset service provider fails to comply with regulation 4(2), the UK reporting cryptoasset service provider is liable to a penalty not exceeding £5,000 for each calendar year in respect of which one or more failures have occurred.
+
+### 13. Penalties for failure to provide a valid self-certification[^key-bdf436945a91c32f5e6fbc3ecc7b7e80]
+
+If a self-certification provider fails to provide a self-certification under regulation 5 (provision of a valid self-certification), the self-certification provider is liable to a penalty not exceeding £300—
+
+- (a) where the failure is deliberate, or
+- (b) where the failure is due to a failure to take reasonable care.
+
+### 14. Penalties for late reports[^key-508de8f7ff4e625d879f45c549bed661]
+
+If a UK reporting cryptoasset service provider fails to make a report required under regulation 6(1) on or before the date specified in that paragraph, the UK reporting cryptoasset service provider is liable—
+
+- (a) to a penalty not exceeding £5,000, and
+- (b) if the failure continues after notice of assessment of a penalty under paragraph (a) is issued, to a penalty or penalties not exceeding £600 for each subsequent day on which any of the failures continue.
+
+### 15. Penalties for inaccurate or incomplete reports[^key-d41a6497bd9d8ede5ed7f60e5783b5f7]
+
+If a UK reporting cryptoasset service provider makes a report under regulation 6(1) which contains inaccurate information, or which is incomplete, the UK reporting cryptoasset service provider is liable to a penalty not exceeding £100 for each cryptoasset user that is a reportable user or has controlling persons that are reportable persons in respect of which the information in the report is inaccurate or incomplete, where—
+
+- (a) the inaccuracy or incompleteness is deliberate,
+- (b) the inaccuracy or incompleteness is due to a failure to take reasonable care, or
+- (c) the UK reporting cryptoasset service provider discovers the inaccuracy or incompleteness some time later and fails to take reasonable steps to inform HMRC.
+
+### 16. Penalties for failure to provide notification to reportable users and reportable persons[^key-bf00be4f7791a2aaeb14400330b4fbad]
+
+If a UK reporting cryptoasset service provider fails to comply with regulation 8 (notification to reportable users and reportable persons), the UK reporting cryptoasset service provider is liable—
+
+- (a) to a penalty not exceeding £100 for each reportable person in respect of which one or more failures have occurred, and
+- (b) if any of the failures continue after notice of an assessment of a penalty under paragraph (a) is issued, to a penalty or penalties not exceeding £100 for each subsequent day on which any of the failures continue.
+
+### 17. Penalties for failure to provide information to HMRC[^key-62f8f70d4331cfa484e0519e7e609a7c]
+
+If a reporting cryptoasset service provider fails to comply with regulation 9 (provision of information to HMRC), the reporting cryptoasset service provider is liable—
+
+- (a) to a penalty not exceeding £5,000 and
+- (b) if the failure continues after notice of an assessment of a penalty under paragraph (a) is issued, to a penalty or penalties not exceeding £600 for each subsequent day on which the failure occurs.
+
+### 18. Penalties for failure to register with HMRC[^key-0d5a905c2ddfacdc0fcf7895f950e6c0]
+
+If a reporting cryptoasset service provider fails to comply with regulation 10 (registration with HMRC: UK reporting cryptoasset service providers), the reporting cryptoasset service provider is liable—
+
+- (a) to a penalty not exceeding £1,000, and
+- (b) if the failure continues after notice of assessment of a penalty under paragraph (a) is issued, to a penalty or penalties not exceeding £300 for each subsequent day on which the failure occurs.
+
+### 19. Liable persons[^key-80b9caf0ff1c35974c3f7bd061e6ae2d]
+
+(1) Where under this Part—
+
+- (a) a reporting cryptoasset service provider or self-certification provider is made liable to a penalty, and
+- (b) the reporting cryptoasset service provider or self-certification provider is a partnership or trust,
+
+the liability to the penalty falls upon a liable person of the reporting cryptoasset service provider or self-certification provider.
+
+(2) In paragraph (1), “**liable person**” means, in relation to—
+
+- (a) a partnership, a partner of the partnership,
+- (b) a trust which is not a collective investment scheme, a trustee of the trust, or
+- (c) a trust which is a collective investment scheme, a trustee, manager or operator of the scheme.
+
+(3) In this regulation, “**collective investment scheme**” means any arrangements that are a “collective investment scheme” within the meaning of the Financial Services and Markets Act 2000[^f00005].
+
+### 20. Reasonable excuse[^key-e835b7292c266218a1185548a0ad20e4]
+
+(1) Liability to a penalty under this Part does not arise if the person satisfies an officer of Revenue and Customs or, on an appeal notified to the tribunal, the tribunal that there is a reasonable excuse for a failure to do anything required to be done under the applicable regulation.
+
+(2) For the purposes of this regulation neither of the following is a reasonable excuse—
+
+- (a) that there is an insufficiency of funds to do something;
+- (b) that a person relies upon another person to do something.
+
+(3) If a person had a reasonable excuse for a failure but the excuse has ceased, the person is to be treated as having continued to have the excuse if the failure is remedied without unreasonable delay after the excuse ceased.
+
+### 21. Duplication of liability to penalties[^key-11b8d30094db4e6a27f9f3efd0625aa5]
+
+(1) A UK reporting cryptoasset service provider cannot be liable to penalties under any two or more of regulations 11 (failure to apply due diligence procedures), 12 (failure to comply with record-keeping requirements), and 15 (inaccurate or incomplete reports) in respect of the same act or omission.
+
+(2) Where, apart from paragraph (1), a UK reporting cryptoasset service provider would be so liable, the UK reporting cryptoasset service provider is liable to a penalty in respect of that act or omission under whichever of regulations 11, 12, or 15 is, in the opinion of an officer of Revenue and Customs, correct or appropriate in the circumstances.
+
+### 22. Assessment of penalties by HMRC[^key-6cb19350c7757df7c11c849510045d5b]
+
+(1) An officer of Revenue and Customs may make an assessment imposing a penalty under any of regulations 11 to 18 and setting it at such amount as, in the opinion of the officer, is appropriate.
+
+(2) Notice of an assessment of a penalty under this regulation must—
+
+- (a) be given to the person liable to the penalty,
+- (b) state the date on which it is issued and the time within which an appeal against the assessment may be made, and
+- (c) in the case of an assessment of a penalty under regulation 11, 12, 14, 15, or 16, state the calendar year in respect of which the penalty is assessed.
+
+(3) Subject to paragraph (4), after a notice of assessment of a penalty under this regulation has been given, the assessment must not be altered except on appeal.
+
+(4) If it is discovered by an officer of Revenue and Customs that the amount of a penalty under regulation 14(b), 16(b), 17(b) or 18(b) which has been assessed under this regulation is or has become insufficient, the officer may make an assessment in a further amount so that the penalty is set at the amount which, in the opinion of that officer, is appropriate.
+
+### 23. Time limit and treatment of penalties[^key-eadf80a68087b540d6e28969bf1c5cd0]
+
+(1) An assessment of a penalty under regulation 12, 14, 16, 17, or 18 must be made within the period of 12 months beginning with the date on which the person became liable to the penalty.
+
+(2) An assessment of a penalty under regulation 11, 13, or 15 must be made—
+
+- (a) within the period of 12 months beginning with the date on which the inaccuracy, incompleteness or failure first came to the attention of an officer of Revenue and Customs, and
+- (b) within the period of 6 years beginning with the date on which the reporting cryptoasset service provider or self-certification provider became liable to the penalty.
+
+(3) A penalty assessed under regulation 22 is due and payable at the end of the period of 30 days beginning with the day on which notice of assessment is issued.
+
+(4) A penalty assessed under regulation 22 is to be treated for all purposes as if it were tax charged in an assessment and due and payable.
+
+### 24. Right to appeal against penalty assessments[^key-201c86e592d043bfff08ebb65002d947]
+
+An appeal may be brought against a penalty assessment under regulation 22—
+
+- (a) on the grounds that liability to a penalty under any of regulations 11 to 18 does not arise, or
+- (b) as to the amount of a penalty assessed under any of regulations 11 to 18.
+
+### 25. Procedure on appeal[^key-9709d3e5149e6a95b593c84d46e2808e]
+
+(1) Notice of an appeal under regulation 24 must—
+
+- (a) state the grounds of appeal, and
+- (b) be given—
+  - (i) in writing;
+  - (ii) before the end of the period of 30 days beginning with the date on which notice of the assessment under regulation 22(2) was issued;
+  - (iii) to HMRC.
+
+(2) Subject to paragraph (3), the provisions of Part 5 of the Taxes Management Act 1970[^f00006] relating to appeals have effect in relation to an appeal against an assessment under regulation 22 as they have effect in relation to an appeal against an assessment to income tax.
+
+(3) On an appeal under regulation 24 that is notified to the tribunal, the tribunal may—
+
+- (a) if it appears that no liability to a penalty has arisen, set the assessment aside,
+- (b) if the amount assessed appears to be appropriate, confirm the assessment,
+- (c) if the amount assessed appears to be excessive, reduce it to such other amount (including nil) as the tribunal considers appropriate, or
+- (d) if the amount assessed appears to be insufficient, increase it to such amount not exceeding the permitted maximum as the tribunal considers appropriate.
+
+## Part 4 — Supplementary
+
+### 26. Anti-avoidance[^key-72a2a2e2166be0f2ca1f1bd04ffeb2cb]
+
+If—
+
+- (a) a person enters into any arrangements, and
+- (b) the main purpose, or one of the main purposes, of entering into the arrangements is to avoid any obligation under these Regulations,
+
+these Regulations are to have effect as if the arrangements had not been entered into.
+
+Jeff Smith
+
+Anna Turley
+
+Two of the Lords Commissioners of His Majesty's Treasury
+
+24th June 2025
+
+## Schedule — Defined terms[^key-00b9fffa97eaddd7c8553374ffe1561a]
+
+Regulation 2(3)
+
+| Expression | Definition in rules |
+| --- | --- |
+| branch | Section IV(F)(6) |
+| controlling persons | Section IV(D)(10) |
+| cryptoasset user | Section IV(D)(2) |
+| entity cryptoasset user | Section IV(D)(5) |
+| relevant transaction | Section IV(C)(1) |
+| reporting cryptoasset service provider | Section IV(B)(1) |
+| reportable person | Section IV(D)(7) |
+| reportable user | Section IV(D)(1) |
+
+Explanatory Note
+
+(This note is not part of the Regulations)
+
+These Regulations make provision implementing the rules and commentary set out in the OECD Crypto-Asset Reporting Framework first published in 2022 and subsequently amended in June 2023 and October 2023 (‘the rules’). They impose obligations on certain individuals and entities that make available a trading platform or provide a service effectuating exchanges between cryptoassets and fiat currencies or between one or more forms of certain cryptoassets, where those individuals or entities have a relevant nexus to the UK (‘UK reporting cryptoasset service providers’). UK reporting cryptoasset service providers are required to carry out due diligence on users of their services, to report information about those users to HMRC and to notify those users that the information will be reported to HMRC.
+
+Part 1 contains introductory provisions. Regulation 3(2) sets out the procedure and time limits applicable where a reporting cryptoasset service provider gives notification under section I(H) of the rules confirming its completion of the reporting and due diligence requirements in sections II and III of the rules under the rules of a partner jurisdiction as envisaged by that section.
+
+Part 2 imposes due diligence, record-keeping and reporting obligations on UK reporting cryptoasset service providers. Regulation 4 provides that UK reporting cryptoasset service providers must apply, and establish and maintain arrangements designed to apply, the due diligence procedures set out in section III of the rules, and must keep records of these procedures, and the information obtained under them, for five years after the end of the year to which they relate. Regulation 5 requires cryptoasset users and controlling persons of entity cryptoasset users to provide a self-certification in accordance with the requirements of section III of the rules when requested to do so by a UK reporting cryptoasset service provider. Regulation 6 provides that a UK reporting cryptoasset service provider must make a report to HMRC containing specified information contained in section II of the rules in respect of each calendar year. Regulation 7 provides that reports must be made using an electronic reporting system and provides rebuttable presumptions in respect of those reports. Regulation 8 provides that, where a report will include information relating to a person, the UK reporting cryptoasset service provider must notify the person and make them aware that it may be shared with other jurisdictions. Regulation 9 allows an officer of Revenue and Customs to require information and documents from a reporting cryptoasset service provider, if the officer reasonably suspects that they are subject to these regulations. Regulation 10 requires a UK reporting cryptoasset service provider, or a service provider who would be one if they were not already providing sufficient information in another jurisdiction, to register with HMRC.
+
+Part 3 provides penalties for failures to comply with the obligations set out above. Regulation 19 identifies where liability to a penalty falls in circumstances where the reporting cryptoasset service provider or self-certification provider liable to the penalty is a partnership or trust. Regulation 20 provides that liability to a penalty does not arise where a person has a reasonable excuse for a failure to comply with the regulations. Regulation 21 provides that a person cannot be liable to a penalty under any two or more of regulation 11 (failure to apply due diligence procedures), 12 (failure to comply with record-keeping requirements), and 15 (inaccurate or incomplete reports), in respect of the same act or omission. Regulation 22 provides for assessment of penalties by HMRC. Regulation 23(1) and (2) provides for time limits for the assessment of penalties and regulation 23(3) and (4) provides for when penalties are due and how they are treated. Regulations 24 and 25 provide for appeals against assessments to penalties.
+
+Part 4 contains supplementary provision. Regulation 26 is an anti-avoidance provision.
+
+A Tax Information and Impact Note (TIIN) covering this instrument will be published on the website at https://www.gov.uk/government/collections/tax-information-and-impact-notes-tiins.
+
+## Annotations
+
+[^f00001]: Footnote: [2002 c. 23](https://www.legislation.gov.uk/ukpga/2002/23).
+
+[^f00002]: Footnote: [2023 c. 30](https://www.legislation.gov.uk/ukpga/2023/30). Section 349(2) was amended by section 82 of the Finance Act [2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8).
+
+[^key-b2b371f535de387d0f94d2526a498576]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2025/744/regulation/1) in force at 1.1.2026, see [reg. 1](https://www.legislation.gov.uk/uksi/2025/744/regulation/1)
+
+[^key-e3e7661a542c20e3c84e32f75956f4c8]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2025/744/regulation/2) in force at 1.1.2026, see [reg. 1](https://www.legislation.gov.uk/uksi/2025/744/regulation/1)
+
+[^key-75f347b3aac39bad8556bc61344c3966]: Modification: [Reg. 2](https://www.legislation.gov.uk/uksi/2025/744/regulation/2) applied (18.3.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 275(3)](https://www.legislation.gov.uk/ukpga/2026/11/section/275/3)
+
+[^f00003]: Footnote: The OECD Crypto-Asset Reporting Framework, first published in 2022 and subsequently amended in June 2023 and October 2023, is available at https://doi.org/10.1787/896d79d1-en and a hard copy is available for inspection at the offices of HMRC at 14 Westfield Avenue, Stratford, London E20 1HZ.
+
+[^f00004]: Footnote: As to which see section 22 of the Tribunals, Courts and Enforcement Act [2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15).
+
+[^key-0e7c8ee2d3837f1732a20c8c3b36fa94]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2025/744/regulation/3) in force at 1.1.2026, see [reg. 1](https://www.legislation.gov.uk/uksi/2025/744/regulation/1)
+
+[^key-c8bd61b6eb56dadb434d8b02f5d36c16]: Modification: [Reg. 3](https://www.legislation.gov.uk/uksi/2025/744/regulation/3) modified (18.3.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 275(4)](https://www.legislation.gov.uk/ukpga/2026/11/section/275/4)
+
+[^key-1b50e5d765c535ffc2b93e0df9648c45]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2025/744/regulation/4) in force at 1.1.2026, see [reg. 1](https://www.legislation.gov.uk/uksi/2025/744/regulation/1)
+
+[^key-151f204ceccbbe08672621d069ae8b75]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2025/744/regulation/5) in force at 1.1.2026, see [reg. 1](https://www.legislation.gov.uk/uksi/2025/744/regulation/1)
+
+[^key-22b7e98e3eaee5c29fffd299dc67240f]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2025/744/regulation/6) in force at 1.1.2026, see [reg. 1](https://www.legislation.gov.uk/uksi/2025/744/regulation/1)
+
+[^key-557e34033aca17ff99e07c59f0587161]: Modification: [Reg. 6](https://www.legislation.gov.uk/uksi/2025/744/regulation/6) applied (18.3.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 275(1)](https://www.legislation.gov.uk/ukpga/2026/11/section/275/1)
+
+[^key-e17ba0ccba11bad2e7c5b94c98518e74]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2025/744/regulation/7) in force at 1.1.2026, see [reg. 1](https://www.legislation.gov.uk/uksi/2025/744/regulation/1)
+
+[^key-4f485c13fd85c3af0a695dc6ce03010a]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2025/744/regulation/8) in force at 1.1.2026, see [reg. 1](https://www.legislation.gov.uk/uksi/2025/744/regulation/1)
+
+[^key-713d96f02d3ec0b6548d86a3f9c4e1dd]: Modification: [Reg. 8](https://www.legislation.gov.uk/uksi/2025/744/regulation/8) applied (18.3.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 275(2)](https://www.legislation.gov.uk/ukpga/2026/11/section/275/2)
+
+[^key-62cf8e7c7466fc78019c4839c01ae666]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2025/744/regulation/9) in force at 1.1.2026, see [reg. 1](https://www.legislation.gov.uk/uksi/2025/744/regulation/1)
+
+[^key-c08f9088933981c08682e78ee870a337]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2025/744/regulation/10) in force at 1.1.2026, see [reg. 1](https://www.legislation.gov.uk/uksi/2025/744/regulation/1)
+
+[^key-27f97e190a5e9e18aa9c3870f5f7af0f]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2025/744/regulation/11) in force at 1.1.2026, see [reg. 1](https://www.legislation.gov.uk/uksi/2025/744/regulation/1)
+
+[^key-79cd5dc0935d0bac3848c74fa0ac60e3]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2025/744/regulation/12) in force at 1.1.2026, see [reg. 1](https://www.legislation.gov.uk/uksi/2025/744/regulation/1)
+
+[^key-bdf436945a91c32f5e6fbc3ecc7b7e80]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2025/744/regulation/13) in force at 1.1.2026, see [reg. 1](https://www.legislation.gov.uk/uksi/2025/744/regulation/1)
+
+[^key-508de8f7ff4e625d879f45c549bed661]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2025/744/regulation/14) in force at 1.1.2026, see [reg. 1](https://www.legislation.gov.uk/uksi/2025/744/regulation/1)
+
+[^key-d41a6497bd9d8ede5ed7f60e5783b5f7]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2025/744/regulation/15) in force at 1.1.2026, see [reg. 1](https://www.legislation.gov.uk/uksi/2025/744/regulation/1)
+
+[^key-bf00be4f7791a2aaeb14400330b4fbad]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2025/744/regulation/16) in force at 1.1.2026, see [reg. 1](https://www.legislation.gov.uk/uksi/2025/744/regulation/1)
+
+[^key-62f8f70d4331cfa484e0519e7e609a7c]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2025/744/regulation/17) in force at 1.1.2026, see [reg. 1](https://www.legislation.gov.uk/uksi/2025/744/regulation/1)
+
+[^key-0d5a905c2ddfacdc0fcf7895f950e6c0]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2025/744/regulation/18) in force at 1.1.2026, see [reg. 1](https://www.legislation.gov.uk/uksi/2025/744/regulation/1)
+
+[^key-80b9caf0ff1c35974c3f7bd061e6ae2d]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2025/744/regulation/19) in force at 1.1.2026, see [reg. 1](https://www.legislation.gov.uk/uksi/2025/744/regulation/1)
+
+[^f00005]: Footnote: [2000 c. 8](https://www.legislation.gov.uk/ukpga/2000/8). The meaning of “collective investment scheme” is given in section 235 of the Financial Services and Markets Act 2000. The power under section 235(5) to provide that arrangements do not amount to a collective investment scheme has been exercised by the Treasury by the following instruments: [S.I. 2001/1062](https://www.legislation.gov.uk/uksi/2001/1062), [2001/3650](https://www.legislation.gov.uk/uksi/2001/3650), [2005/57](https://www.legislation.gov.uk/uksi/2005/57), [2007/800](https://www.legislation.gov.uk/uksi/2007/800), [2008/1641](https://www.legislation.gov.uk/uksi/2008/1641), [2008/1813](https://www.legislation.gov.uk/uksi/2008/1813), [2015/754](https://www.legislation.gov.uk/uksi/2015/754), [2015/2061](https://www.legislation.gov.uk/uksi/2015/2061), [2021/90](https://www.legislation.gov.uk/uksi/2021/90), [2021/566](https://www.legislation.gov.uk/uksi/2021/566), [2022/466](https://www.legislation.gov.uk/uksi/2022/466) and [2025/17](https://www.legislation.gov.uk/uksi/2025/17).
+
+[^key-e835b7292c266218a1185548a0ad20e4]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2025/744/regulation/20) in force at 1.1.2026, see [reg. 1](https://www.legislation.gov.uk/uksi/2025/744/regulation/1)
+
+[^key-11b8d30094db4e6a27f9f3efd0625aa5]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2025/744/regulation/21) in force at 1.1.2026, see [reg. 1](https://www.legislation.gov.uk/uksi/2025/744/regulation/1)
+
+[^key-6cb19350c7757df7c11c849510045d5b]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2025/744/regulation/22) in force at 1.1.2026, see [reg. 1](https://www.legislation.gov.uk/uksi/2025/744/regulation/1)
+
+[^key-eadf80a68087b540d6e28969bf1c5cd0]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/2025/744/regulation/23) in force at 1.1.2026, see [reg. 1](https://www.legislation.gov.uk/uksi/2025/744/regulation/1)
+
+[^key-201c86e592d043bfff08ebb65002d947]: Commencement: [Reg. 24](https://www.legislation.gov.uk/uksi/2025/744/regulation/24) in force at 1.1.2026, see [reg. 1](https://www.legislation.gov.uk/uksi/2025/744/regulation/1)
+
+[^key-9709d3e5149e6a95b593c84d46e2808e]: Commencement: [Reg. 25](https://www.legislation.gov.uk/uksi/2025/744/regulation/25) in force at 1.1.2026, see [reg. 1](https://www.legislation.gov.uk/uksi/2025/744/regulation/1)
+
+[^f00006]: Footnote: [1970 c. 9](https://www.legislation.gov.uk/ukpga/1970/9).
+
+[^key-72a2a2e2166be0f2ca1f1bd04ffeb2cb]: Commencement: [Reg. 26](https://www.legislation.gov.uk/uksi/2025/744/regulation/26) in force at 1.1.2026, see [reg. 1](https://www.legislation.gov.uk/uksi/2025/744/regulation/1)
+
+[^key-00b9fffa97eaddd7c8553374ffe1561a]: Commencement: [Sch.](https://www.legislation.gov.uk/uksi/2025/744/schedule) in force at 1.1.2026, see [reg. 1](https://www.legislation.gov.uk/uksi/2025/744/regulation/1)

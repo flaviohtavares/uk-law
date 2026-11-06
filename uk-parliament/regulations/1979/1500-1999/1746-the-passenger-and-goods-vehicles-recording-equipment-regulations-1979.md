@@ -1,0 +1,306 @@
+---
+title: The Passenger and Goods Vehicles (Recording Equipment) Regulations 1979
+id: uksi/1979/1746
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '1979-12-21'
+text_date: '2020-12-31'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/1979/1746
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1979/1746/pdfs/uksi_19791746_en.pdf
+- http://www.legislation.gov.uk/uksi/1979/1746/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Westlaw UK derived from Crown Copyright material and contributed to legislation.gov.uk
+summary: ''
+---
+
+# The Passenger and Goods Vehicles (Recording Equipment) Regulations 1979
+
+> Text as at 2020-12-31.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+1979 No. 1746
+
+ROAD TRAFFIC
+
+The Passenger and Goods Vehicles (Recording Equipment) Regulations 1979
+
+Laid before Parliament in draft
+
+Made
+
+21st December 1979
+
+Coming into Operation
+
+14th January 1980
+
+The Minister of Transport, being a Minister designated[^f00001] for the purposes of section 2(2) of the European Communities Act 1972 in relation to the regulation and supervision of the working conditions of persons engaged in road transport and the regulation of the type, description, construction or equipment of vehicles, in exercise of the powers conferred by that section, and in exercise of the powers conferred by section 95(1) and (1A), and 101(1), (2) and (5), and 157 of the Transport Act 1968[^f00002], and now vested in him[^f00003], and of all other enabling powers, and after consultation with representative organisations in accordance with section 101(6) of the said Act of 1968, hereby makes the following Regulations:—
+
+## 1. Commencement, citation, revocation and interpretation[^key-569046402e08ab11c6fbd443192d18c7]
+
+(1) These Regulations shall come into operation on 14th January 1980 and may be cited as the Passenger and Goods Vehicles (Recording Equipment) Regulations 1979.
+
+(2) The Passenger and Goods Vehicles (Recording Equipment) Regulations 1977 are hereby revoked.
+
+(3) In these Regulations—
+
+- “**the Act of 1968**” means the Transport Act 1968;
+- “the EU Tachographs Regulation” means Regulation (EU) No. 165/2014 of the European Parliament and of the Council on tachographs in road transport as read with the Community Drivers’ Hours and Recording Equipment Regulations 2007.[^key-1536ecb1c38b21d5ab7382d9c8887449]
+
+## 2. Installation and use of recording equipment[^key-62e7b9804ccd7e084dbc38a33521db66]
+
+(1) For section 97 of the Act of 1968 (installation and use of recording equipment) there shall be substituted the following sections—
+
+> **97. Installation and use of recording equipment**
+>
+> (1) If a person uses, or causes or permits to be used, a vehicle to which this section applies and—
+>
+> - (a) there is not in the vehicle recording equipment which has been installed in accordance with the Community Recording Equipment Regulation and which complies with the requirements of Annexes I and II to that Regulation; or
+> - (b) recording equipment which has been installed in the vehicle in accordance with that Regulation and which complies with those requirements is not used as provided by Articles 15 to 17 of that Regulation,
+>
+> he shall be liable on summary conviction to a fine not exceeding £200.
+>
+> (2) A person shall not be liable to be convicted under subsection (1) of this section if he proves to the court that the vehicle in question was proceeding to a place where recording equipment which would comply with the requirements of Annexes I and II of the Community Recording Equipment Regulation was to be installed in the vehicle in accordance with that Regulation.
+>
+> (3) A person shall not be liable to be convicted under subsection (1) of this section by reason of the recording equipment installed in the vehicle in question not being in working order if he proves to the court that—
+>
+> - (a) it had not become reasonably practicable for the equipment to be repaired by an approved fitter or workshop; and
+> - (b) the requirements of Article 18(2) of the Community Recording Equipment Regulation were being complied with.
+>
+> (4) A person shall not be liable to be convicted under subsection (1) of this section by reason of any seal on the recording equipment installed in the vehicle in question not being intact if he proves to the court that—
+>
+> - (a) the breaking or removal of the seal could not have been avoided;
+> - (b) it had not become reasonably practicable for the seal to be replaced by an approved fitter or workshop; and
+> - (c) in all other respects the equipment was being used as provided by Articles 15 to 17 of the Community Recording Equipment Regulation.
+>
+> (5) For the purposes of this section recording equipment is used as provided by Articles 15 to 17 of the Community Recording Equipment Regulation if, and only if, the circumstances of its use are such that each requirement of those Articles is complied with.
+>
+> (6) This section applies at any time to any vehicle to which this Part of this Act applies if, at that time, Article 3 of the Community Recording Equipment Regulation requires recording equipment to be installed and used in that vehicle; and in this section and sections 97A and 97B of this Act any expression which is also used in that Regulation has the same meaning as in that Regulation.
+>
+> (7) In this Part of this Act—
+>
+> - “**the Community Recording Equipment Regulation**” means Council Regulation [(EEC) No. 1463/70](https://www.legislation.gov.uk/european/regulation/1970/1463) of 20th July 1970 on the introduction of recording equipment in road transport, as amended by Council Regulations (EEC) Nos. 1787/73 and 2828/77, and as read with the Community Road Transport Rules (Exemptions) Regulations 1978;
+> - “**recording equipment**” means equipment for recording information as to the use of a vehicle.
+>
+> **97A. Provisions supplementary to section 97**
+>
+> (1) If an employed crew member of a vehicle to which section 97 of this Act applies fails—
+>
+> - (a) without reasonable excuse to return any record sheet which relates to him to his employer within twenty-one days of completing it; or
+> - (b) where he has two or more employers by whom he is employed as a crew member of such a vehicle, to notify each of them of the name and address of the other or others of them,
+>
+> he shall be liable on summary conviction to a fine not exceeding £200.
+>
+> (2) If the employer of crew members of a vehicle to which section 97 of this Act applies fails without reasonable excuse to secure that they comply with subsection (1)(a) of this section, he shall be liable on summary conviction to a fine not exceeding £200.
+>
+> (3) Where a crew member of a vehicle to which section 97 of this Act applies has two or more employers by whom he is employed as a crew member of such a vehicle, subsection (1)(a) and subsection (2) of this section shall apply as if any reference to his employer, or any reference which is to be construed as such a reference, were a reference to such of those employers as was the first to employ him in that capacity.
+>
+> **97B. Records etc. produced by equipment may be used in evidence**
+>
+> (1) Where recording equipment is installed in a vehicle to which this Part of this Act applies, any record produced by means of the equipment shall, in any proceedings under this Part of this Act, be evidence, and in Scotland sufficient evidence, of the matters appearing from the record.
+>
+> (2) Any entry made on a record sheet by a crew member for the purposes of Article 17(2) or (3) or 18(2) of the Community Recording Equipment Regulation shall, in any proceedings under this Part of this Act, be evidence, and in Scotland sufficient evidence, of the matters appearing from that entry.
+
+.
+
+(2)[^key-1ff9fae883e5a5221cc573eb45501c11] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3)[^key-1ff9fae883e5a5221cc573eb45501c11] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4)[^key-1ff9fae883e5a5221cc573eb45501c11] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 3. Consequential adaptation of enactments[^key-5a58a0ce62d751abbdd276c0b5801101]
+
+(1) In section 98 (written records) of the Act of 1968 there shall be inserted after subsection (2) the following subsection—
+
+> (2A) The requirements of regulations made under this section shall not apply as respects the driving of a vehicle to which section 97 of this Act applies and in relation to which subsection (1) (b) of that section has come into force.
+
+.
+
+(2) After subsection (4) of that section there shall be inserted the following subsection—
+
+> (4A) A person shall not be liable to be convicted under subsection (4) of this section by reason of contravening any regulation made under this section if he proves to the court that, if the vehicle in question had been such a vehicle as is mentioned in subsection (2A) of this section, there would have been no contravention of the provisions of this Part of this Act so far as they relate to the use of such vehicles.
+
+.
+
+(3) In subsection (1) of section 99 of the Act of 1968 (inspection of records and other documents)—
+
+- (a) in paragraph (b) the word “record” and the words “97 or” shall be omitted;
+- (b) after that paragraph there shall be inserted the following paragraph—
+
+  > - (bb) any record sheet which that person is required by Article 16(2) of the Community Recording Equipment Regulation to retain or by Article 17(5) of that Regulation to be able to produce;
+
+  and
+- (c) after the word “record”, in the second place where that word occurs, there shall be inserted the word “sheet”.
+
+(4) In subsection (2) of the said section 99—
+
+- (a) for paragraph (a) there shall be substituted the following paragraph—
+
+  > - (a) at any time, enter any vehicle to which this Part of this Act applies and inspect that vehicle and any recording equipment installed in it and inspect and copy any record sheet on the vehicle on which record has been produced by means of the equipment or an entry has been made;
+
+  and
+- (b) in paragraph (b) for the word “record” there shall be substituted the words “record sheets” and after the word “record” there shall be inserted the word “sheet”.
+
+(5) After subsection (4) of the said section 99 there shall be inserted the following subsection—
+
+> (4A) A person shall not be liable to be convicted under subsection (4) of this section by reason of failing to comply with any requirement under subsection (1) (a) or (b) of this section if he proves to the court that, if the vehicle in question had been such a vehicle as is mentioned in section 98(2A) of this Act, there would have been no contravention of the provisions of this Part of this Act so far as they relate to the use of such vehicles.
+
+.
+
+(6) In subsection (5) of the said section 99 for the words “any such record as is mentioned in” there shall be substituted the words “any record or entry on a record sheet kept or carried for the purposes of the Community Recording Equipment Regulation or”.
+
+(7) In subsection (1) of section 103 of the Act of 1968 (interpretation of Part VI)—
+
+- (a) after the definition of “agriculture” there shall be inserted the following definition—
+
+  > - ‘**the Community Recording Equipment Regulation**’ has the meaning given by section 97(7) of this Act;
+
+  and
+- (b) after the definition of “prescribed” there shall be inserted the following definitions—
+
+  > - ‘**recording equipment**’ has the meaning given by section 97(7) of this Act;
+  > - ‘**record sheet**’ includes a temporary sheet attached to a record sheet in accordance with Article 18(2) of the Community Recording Equipment Regulation;
+
+(8) In subsection (6) of the said section 103 for the words “sections 97(2)(a) and” there shall be substituted the word “section”.
+
+(9) In Schedule 1 to the Road Traffic (Foreign Vehicles) Act 1972 (enactments conferring functions on examiners) for the entry relating to section 99 of the Act of 1968 there shall be substituted the following entry—
+
+> |  |  |
+> | --- | --- |
+> | Section 99 of the Transport Act 1968. | To inspect and copy record sheets, books, registers and other documents required to be carried on goods vehicles and public service vehicles, to inspect recording equipment and to inspect and copy record sheets on which records have been produced by such equipment or entries have been made |
+
+.
+
+## 4. Installation or repair of recording equipment, checks and inspections[^key-771895bd5d3a04ef29b3304074233473]
+
+(1) This Regulation applies to—[^key-862934d52f5c6c0138ad9d6915f7d973]
+
+- (a) the approval by the Secretary of State[^key-075473f4cf5fb9bf16c8fe04f307bc21] of fitters and workshops for the installation or repair of recording equipment in accordance with Article 22 of the EU Tachographs Regulation[^key-1254f67af756063ebe113e660fa0944a]; and
+- (b) the approval and nomination by the Secretary of State[^key-7d7788f316036624a0327e2a706f6b70] of bodies for the carrying out of checks and inspections of recording equipment in accordance with Chapter VI of Annex I , or Chapter VI of Annex IB,[^key-f8c74c79b75876acc7d26135da97eb4c] to that Regulation.
+
+(2) An approval or nomination[^key-e06ea92af541151980b7e12506c356ac] shall be in writing, shall specify its scope, shall provide for its withdrawal by the Secretary of State on notice given by him and, if the Secretary of State thinks fit, may contain conditions.
+
+(3) Such conditions may in particular relate to—
+
+- (a) the fees to be charged for installing or repairing or, as the case may be, checking or inspecting recording equipment;
+- (b) the places where and equipment by means of which such activities are, or are to be, carried out;
+- (c) the procedure to be adopted in carrying out such activities;
+- (d) the records to be kept and the evidence to be furnished of the carrying out of such activities;
+- (e) the training of persons for carrying out such activities;
+- (f) the inspection by or on behalf of the Secretary of State of places where and equipment by means of which such activities are, or are to be, carried out; and
+- (g) the display, at the places where such activities are carried out, of signs indicating that such activities are carried out there by fitters or workshops approved or, as the case may be, bodies nominated, by the Secretary of State.
+
+(4) The Secretary of State shall publish from time to time lists of—
+
+- (a) the fitters and workshops for the time being approved by him; and
+- (b) the bodies for the time being nominated by him;
+
+and any list published under sub-paragraph (a) above shall specify the mark to be placed by each approved fitter or workshop on any seals which he or they affix to any recording equipment.
+
+(5) In this Regulation “**recording equipment**” means equipment for recording information as to the use of a vehicle.
+
+(6)[^key-b5c32fc4ce2a72db87f27687b7a2985e] A reference in this Regulation to Annex IB to the EU Tachographs Regulation has effect, until the coming into force of that Annex, as a reference to Annex IB to [Council Regulation (EEC) No. 3821/85](https://www.legislation.gov.uk/european/regulation/1985/3821) on recording equipment in road transport as read with the Community Drivers’ Hours and Recording Equipment Regulations 2007.
+
+## 5. Period of retention of records by crew members[^key-867d92420e8a90518f4ec2471b03b685]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Norman Fowler
+
+Minister of Transport
+
+21st December 1979
+
+EXPLANATORY NOTE
+
+These Regulations apply to passenger and goods vehicles to which Part VI (Drivers' Hours) of the Transport Act 1968 applies. They amend that part of that Act by substituting for section 97 (Installation and operation of recording equipment in vehicles) new sections 97 to 97B. The principal effects of the amendments to Part VI of the Transport Act 1968 are as follows:—
+
+(*a*) In exercise of powers conferred by section 2(2) of the European Communities Act 1972, they implement Council Regulation [(EEC) 1463/70](https://www.legislation.gov.uk/european/regulation/1970/1463) of 20th July 1970 on the introduction of recording equipment (tachographs) in road transport as amended by Council Regulations (EEC) Nos. 1787/73 and 2828/77 and as read with the Community Road Transport Rules (Exemptions) Regulations 1978 (No.1158) (hereinafter called “**the Council Regulation**”).
+
+The new section 97 (Regulation 2(1)) makes it an offence punishable on summary conviction with a fine of up to £200 to use a vehicle within the scope of the Council Regulation (subsection (4) and Article 3 of the Council Regulation) without a tachograph as required by that Regulation being installed (subsection (1)(a)) or where a tachograph has been so installed to fail to use it as provided by Articles 15 to 17 of the Council Regulation (subsection (1)(b)).
+
+The new section provides defences for:—
+
+(i) vehicles going to have tachographs installed in accordance with the Council Regulation (subsection (2));
+
+(ii) subject to specified conditions, for vehicles with tachographs that are not in working order (subsection (3));
+
+(iii) subject to specified conditions, for vehicles with tachographs on which any seal has been broken (subsection (4)).
+
+(*b*) The new section 97A imposes requirements upon crew members of vehicles to which section 97 applies and their employers, which are supplementary to section 97 and to the requirements of Articles 15 to 17 of the Council Regulation. These requirements cover—
+
+(i) the period within which tachograph record sheets must be returned to the employer; and
+
+(ii) notification to employers by crew members of the names and addresses of other employers.
+
+Failure to comply with these requirements is an offence punishable on summary conviction by a fine of up to £200.
+
+Paragraph (2) of Regulation 2 specifies a timetable for the coming into force of the requirement for the installation of tachographs in section 97(1)(a). This is—
+
+(i) 14th January 1980 for vehicles being used on international journeys;
+
+(ii) 31st December 1981 for vehicles with an operating centre (as defined in the Regulation) on a UK island (as so defined) other than the Isle of Wight;
+
+(iii) in other cases a series of dates between 1st April 1980 and 31st December 1981 for different groups of vehicles according to the date of first registration of the vehicles starting with the most recently registered vehicles.
+
+Paragraph (3) of Regulation 2 specifies a timetable for the coming into force of the requirement for the tachograph to be used in accordance with Articles 15 to 17 of the Council Regulation (section 97(1)(b)) and of the supplementary requirements of section 97A. In relation to vehicles being used on international journeys this is again 14th January 1980 and in any other case, 31st December 1981.
+
+(*c*) A new section 97B makes provision for the use of tachograph record sheets (and any entries made thereon for the purposes of Articles 17(2) or (3) or 18(2) of the Council Regulation) in evidence in proceedings under Part VI of the Transport Act 1968.
+
+(*d*) Regulation 3 makes consequential adaptations to various enactments:—
+
+(i) New subsections are inserted in section 98 (Written records) of the Act of 1968 to disapply the requirements for the keeping of manual records in the case of a vehicle to which section 97 applies and is in force, and also in the case of a vehicle to which that section does not apply or is not in force but which has a tachograph installed and used in accordance with the Council Regulation and section 97A.
+
+(ii) A corresponding amendment is made to section 99 (Inspection of records and other documents) of the 1968 Act, and that section is extended to apply to tachograph record sheets and to the inspection of any tachograph installed in a vehicle to which Part VI of the 1968 Act applies.
+
+(iii) Schedule 1 of the Road Traffic (Foreign Vehicles) Act 1972 (Enactments conferring functions on examiners) is similarly extended.
+
+Regulation 4 provides for the approval by the Minister of Transport of fitters and workshops for the installation and repair of tachographs in Great Britain.
+
+Regulation 5 reduces from seven days to two days the period for which crew members of vehicles registered in Great Britain are required by Article 17 of the Council Regulation to retain record sheets relating to national transport operations.
+
+The Regulations revoke the Passenger and Goods Vehicles (Recording Equipment) Regulations 1977 (No. 777) which introduced a voluntary scheme for the installation and use of tachographs for the purposes of the Council Regulation in passenger and goods vehicles registered in any Member State.
+
+## Annotations
+
+[^f00001]: Footnote: S.I. 1975/1707, 1972/1811 and 1979/571.
+
+[^f00002]: Footnote: Section 95 was extended by Section 4 of, and paragraph 9 of Schedule 4 to, the European Communities Act 1972 (c. 68) and amended by Section 2 of the Road Traffic (Drivers' Ages and Hours of Work) Act 1976 (c. 3).
+
+[^f00003]: Footnote: S.I. 1979/571.
+
+[^key-569046402e08ab11c6fbd443192d18c7]: Commencement: Reg. 1 in force at 14.1.1980, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1979/1746/regulation/1/1)
+
+[^key-1536ecb1c38b21d5ab7382d9c8887449]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/uksi/1979/1746/regulation/1/3) substituted (2.3.2016) by [The Passenger and Goods Vehicles (Tachographs) (Amendment) Regulations 2016 (S.I. 2016/248)](https://www.legislation.gov.uk/uksi/2016/248), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/248/regulation/1/2), [14(2)](https://www.legislation.gov.uk/uksi/2016/248/regulation/14/2)
+
+[^key-62e7b9804ccd7e084dbc38a33521db66]: Commencement: Reg. 2 in force at 14.1.1980, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1979/1746/regulation/1/1)
+
+[^key-1ff9fae883e5a5221cc573eb45501c11]: Textual amendment: [Reg. 2(2)-(4)](https://www.legislation.gov.uk/uksi/1979/1746/regulation/2/2) revoked (13.3.1984) by [The Passenger and Goods Vehicles (Recording Equipment) (Amendment) Regulations 1984 (S.I. 1984/144)](https://www.legislation.gov.uk/uksi/1984/144), [regs. 1](https://www.legislation.gov.uk/uksi/1984/144/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/1984/144/regulation/2/3)
+
+[^key-5a58a0ce62d751abbdd276c0b5801101]: Commencement: Reg. 3 in force at 14.1.1980, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1979/1746/regulation/1/1)
+
+[^key-771895bd5d3a04ef29b3304074233473]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/1979/1746/regulation/4) substituted (13.3.1984) by [The Passenger and Goods Vehicles (Recording Equipment) (Amendment) Regulations 1984 (S.I. 1984/144)](https://www.legislation.gov.uk/uksi/1984/144), [regs. 1](https://www.legislation.gov.uk/uksi/1984/144/regulation/1), [3(1)](https://www.legislation.gov.uk/uksi/1984/144/regulation/3/1) (with [reg. 3(2)(3)](https://www.legislation.gov.uk/uksi/1984/144/regulation/3/2))
+
+[^key-862934d52f5c6c0138ad9d6915f7d973]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/uksi/1979/1746/regulation/4/1) substituted (31.12.2020) by [The Drivers' Hours and Tachographs (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/453)](https://www.legislation.gov.uk/uksi/2019/453), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/453/regulation/1/3), [48(2)(a)](https://www.legislation.gov.uk/uksi/2019/453/regulation/48/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-075473f4cf5fb9bf16c8fe04f307bc21]: Textual amendment: Words in [reg. 4(1)(a)](https://www.legislation.gov.uk/uksi/1979/1746/regulation/4/1/a) substituted (31.12.2020) by [The Drivers' Hours and Tachographs (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/453)](https://www.legislation.gov.uk/uksi/2019/453), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/453/regulation/1/3), [48(2)(b)](https://www.legislation.gov.uk/uksi/2019/453/regulation/48/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-1254f67af756063ebe113e660fa0944a]: Textual amendment: Words in [reg. 4(1)(a)](https://www.legislation.gov.uk/uksi/1979/1746/regulation/4/1/a) substituted (2.3.2016) by [The Passenger and Goods Vehicles (Tachographs) (Amendment) Regulations 2016 (S.I. 2016/248)](https://www.legislation.gov.uk/uksi/2016/248), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/248/regulation/1/2), [14(3)(a)](https://www.legislation.gov.uk/uksi/2016/248/regulation/14/3/a)
+
+[^key-7d7788f316036624a0327e2a706f6b70]: Textual amendment: Words in [reg. 4(1)(b)](https://www.legislation.gov.uk/uksi/1979/1746/regulation/4/1/b) substituted (31.12.2020) by [The Drivers' Hours and Tachographs (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/453)](https://www.legislation.gov.uk/uksi/2019/453), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/453/regulation/1/3), [48(2)(c)](https://www.legislation.gov.uk/uksi/2019/453/regulation/48/2/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-f8c74c79b75876acc7d26135da97eb4c]: Textual amendment: Words in [reg. 4(1)(b)](https://www.legislation.gov.uk/uksi/1979/1746/regulation/4/1/b) inserted (2.3.2016) by [The Passenger and Goods Vehicles (Tachographs) (Amendment) Regulations 2016 (S.I. 2016/248)](https://www.legislation.gov.uk/uksi/2016/248), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/248/regulation/1/2), [14(3)(b)](https://www.legislation.gov.uk/uksi/2016/248/regulation/14/3/b)
+
+[^key-e06ea92af541151980b7e12506c356ac]: Textual amendment: Words in [reg. 4(2)](https://www.legislation.gov.uk/uksi/1979/1746/regulation/4/2) substituted (31.12.2020) by [The Drivers' Hours and Tachographs (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/453)](https://www.legislation.gov.uk/uksi/2019/453), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/453/regulation/1/3), [48(3)](https://www.legislation.gov.uk/uksi/2019/453/regulation/48/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-b5c32fc4ce2a72db87f27687b7a2985e]: Textual amendment: [Reg. 4(6)](https://www.legislation.gov.uk/uksi/1979/1746/regulation/4/6) inserted (2.3.2016) by [The Passenger and Goods Vehicles (Tachographs) (Amendment) Regulations 2016 (S.I. 2016/248)](https://www.legislation.gov.uk/uksi/2016/248), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/248/regulation/1/2), [14(3)(c)](https://www.legislation.gov.uk/uksi/2016/248/regulation/14/3/c)
+
+[^key-867d92420e8a90518f4ec2471b03b685]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/uksi/1979/1746/regulation/5) revoked (29.9.1986) by [The Community Drivers' Hours and Recording Equipment Regulations 1986 (S.I. 1986/1457)](https://www.legislation.gov.uk/uksi/1986/1457), [reg. 1(1)](https://www.legislation.gov.uk/uksi/1986/1457/regulation/1/1)[(3)](https://www.legislation.gov.uk/uksi/1986/1457/regulation/1/3)

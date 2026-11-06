@@ -1,0 +1,83 @@
+---
+title: Online Safety Act 2023, section 41
+act: Online Safety Act 2023
+section: '41'
+status: revised-with-pending-changes
+text_date: '2026-09-30'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2023/50/section/41
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Online Safety Act 2023, section 41
+
+> **Warning: changes not yet applied to this text (10).** Text as at 2026-09-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2023/50
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 41. Codes of practice about duties[^key-8b4c8e55d8220d0f0572e12ae9718813]
+
+*Extent: E+W+S+N.I.*
+
+(1)[^key-8b4c8e55d8220d0f0572e12ae9718813] OFCOM must prepare and issue a code of practice for providers of Part 3 services describing measures recommended for the purpose of compliance with duties set out in section 10 or 27 (illegal content) so far as relating to terrorism content or offences within Schedule 5 (terrorism offences).
+
+(2)[^key-8b4c8e55d8220d0f0572e12ae9718813] OFCOM must prepare and issue a code of practice for providers of Part 3 services describing measures recommended for the purpose of compliance with duties set out in section 10 or 27 (illegal content) so far as relating to CSEA content or offences within Schedule 6 (child sexual exploitation and abuse offences).
+
+(3)[^key-8b4c8e55d8220d0f0572e12ae9718813] OFCOM must prepare and issue one or more codes of practice for providers of Part 3 services describing measures recommended for the purpose of compliance with the relevant duties (except to the extent that measures for the purpose of compliance with such duties are described in a code of practice prepared under subsection (1) or (2)).
+
+(4)[^key-dc56c4ec0ae106e5c2da0eab840529b2] OFCOM must prepare and issue a code of practice for providers of Category 1 services and providers of Category 2A services describing measures recommended for the purpose of compliance with the duties set out in Chapter 5 (fraudulent advertising).
+
+(5)[^key-8b4c8e55d8220d0f0572e12ae9718813] Where a code of practice under this section is in force, OFCOM may—
+
+- (a) prepare a draft of amendments of the code of practice;
+- (b) prepare a draft of a code of practice under subsection (1), (2), (3) or (4) as a replacement for a code of practice previously issued under the subsection in question;
+- (c) withdraw the code of practice.
+
+(6)[^key-8b4c8e55d8220d0f0572e12ae9718813] In the course of preparing a draft of a code of practice or amendments of a code of practice under this section, OFCOM must consult—
+
+- (a) the Secretary of State,
+- (b) persons who appear to OFCOM to represent providers of Part 3 services,
+- (c) persons who appear to OFCOM to represent the interests of United Kingdom users of Part 3 services,
+- (d) persons who appear to OFCOM to represent the interests of children (generally or with particular reference to online safety matters),
+- (e) persons who appear to OFCOM to represent the interests of persons who have suffered harm as a result of matters to which the code of practice is relevant,
+- (f) persons whom OFCOM consider to have relevant expertise in equality issues and human rights, in particular—
+  - (i) the right to freedom of expression set out in Article 10 of the Convention, and
+  - (ii) the right to respect for a person’s private and family life, home and correspondence set out in Article 8 of the Convention,
+- (g) the Information Commission[^key-60db106a312598b65c7aecf4d0da1110],
+- (h) the Children’s Commissioner,
+- (i) the Commissioner for Victims and Witnesses,
+- (j) the Domestic Abuse Commissioner,
+- (k) persons whom OFCOM consider to have expertise in public health, science or medicine that is relevant to online safety matters,
+- (l) persons whom OFCOM consider to have expertise in innovation, or emerging technology, that is relevant to online safety matters, and
+- (m) such other persons as OFCOM consider appropriate.
+
+(7)[^key-8b4c8e55d8220d0f0572e12ae9718813] In the course of preparing a draft of a code of practice or amendments to which this subsection applies, OFCOM must also consult persons whom OFCOM consider to have expertise in the enforcement of the criminal law and the protection of national security that is relevant to online safety matters.
+
+(8)[^key-8b4c8e55d8220d0f0572e12ae9718813] Subsection (7) applies to—
+
+- (a) a code of practice under subsection (1) and amendments of such a code,
+- (b) a code of practice under subsection (2) and amendments of such a code,
+- (c) a code of practice under subsection (3) that describes measures recommended for the purpose of compliance with duties set out in section 10 or 27 (illegal content),
+- (d) amendments of a code of practice under subsection (3), if and to the extent that those amendments relate to measures recommended for the purpose of compliance with duties set out in section 10 or 27, and
+- (e) a code of practice under subsection (4) and amendments of such a code.
+
+(9)[^key-8b4c8e55d8220d0f0572e12ae9718813] Subsections (6) and (7) are subject to section 48 (minor amendments of code of practice).
+
+(10)[^key-8b4c8e55d8220d0f0572e12ae9718813] In this section “**the relevant duties**” means the duties set out in—
+
+- (a) sections 10 and 27 (illegal content),
+- (b) sections 12 and 29 (children’s online safety),
+- (c) section 15 (user empowerment),
+- (d) section 17 (content of democratic importance),
+- (e) section 19 (journalistic content),
+- (f) sections 20 and 31 (content reporting), and
+- (g) sections 21 and 32 (complaints procedures).
+
+## Annotations
+
+[^key-8b4c8e55d8220d0f0572e12ae9718813]: Commencement: S. 41(1)-(3)(5)-(10) in force at Royal Assent, see [s. 240(4)(c)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/c)
+
+[^key-dc56c4ec0ae106e5c2da0eab840529b2]: Commencement: [S. 41(4)](https://www.legislation.gov.uk/ukpga/2023/50/section/41/4) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(m)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/m)
+
+[^key-60db106a312598b65c7aecf4d0da1110]: Textual amendment: Words in [s. 41(6)(g)](https://www.legislation.gov.uk/ukpga/2023/50/section/41/6/g) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 2 para. 26(1)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/26/1)[(2)(a)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/26/2/a); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)

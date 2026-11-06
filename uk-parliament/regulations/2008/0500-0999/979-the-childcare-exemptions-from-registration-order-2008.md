@@ -1,0 +1,253 @@
+---
+title: The Childcare (Exemptions from Registration) Order 2008
+id: uksi/2008/979
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2008-03-31'
+text_date: '2024-11-01'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2008/979
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2008/979/pdfs/uksiem_20080979_en.pdf
+- http://www.legislation.gov.uk/uksi/2008/979/pdfs/uksi_20080979_en.pdf
+- http://www.legislation.gov.uk/uksi/2008/979/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Childcare (Exemptions from Registration) Order 2008
+
+> Text as at 2024-11-01.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2008 No. 979
+
+Children And Young Persons, England
+
+The Childcare (Exemptions from Registration) Order 2008
+
+Made
+
+31st March 2008
+
+Laid before Parliament
+
+11 April 2008
+
+Coming into force
+
+1st September 2008
+
+The Secretary of State for Children, Schools and Families makes the following Order in exercise of the powers conferred by sections 33(2) and (3), 34(3) and (4), 52(2) and (3), 53(3) and (4) and 104(2)(a) of the Childcare Act 2006[^f00001]:
+
+## 1. Citation, commencement and interpretation[^key-434cf03ba0b7831c857fcabf1d783e84]
+
+(1) This Order may be cited as the Childcare (Exemptions from Registration) Order 2008 and comes into force on 1st September 2008.
+
+(2) In this Order—
+
+- “the Act” means the Childcare Act 2006;
+- “client” means a person at whose request (or persons at whose joint request) childcare is provided for a child;
+- “parent” includes any person who has parental responsibility for a child or has care of a child.
+
+## 2. Exemptions[^key-a4b322e66408d85b35d7e56a864afb2e]
+
+(1) Section 33(1) (requirement to register: early years childminders with domestic premises)[^key-513a543ccbd2a1d7eca3f8fbf7bb426b] of the Act does not apply in relation to early years childminding in the circumstances specified in articles 3, 6 or 8.
+
+(1A)[^key-36d583748619c2418ebb3574b5395cba] Section 34(1) (requirement to register: other early years providers) of the Act does not apply in relation to early years childminding in the circumstances specified in articles 3(1)(b) or (c) to (e).
+
+(2) Section 34(1) and (1A)[^key-dc4d3cbc1e03c3ee42ca3f165072b3fb] (requirement to register: other early years providers) of the Act does not apply in relation to early years provision in the circumstances specified in any of articles 4 to 8[^key-f9ba9a69499d4f4cf6b2a96408c1386c].
+
+(3) Section 52(1) (requirement to register: later years childminders for children under eight with domestic premises)[^key-f44ca3efc640849df17e2eb397f8e82f] of the Act does not apply in relation to later years childminding in the circumstances specified in articles 3, 6 or 8.
+
+(3A)[^key-7a80167d2b559946fed897c6a9ebf004] Section 53(1) of the Act (requirement to register: other later years providers for children under eight) does not apply in relation to later years childminding in the circumstances specified in articles 3(1)(b) or (c) to (e).
+
+(4) Section 53(1) and (1A)[^key-c9d85802adbcfe28d2bc512174941bf1] (requirement to register: other later years providers for children under eight) of the Act does not apply in relation to later years provision in the circumstances specified in any of articles 4 to 8.
+
+## 3. Exempt childminding[^key-2faef0665ae16aea6c836c07af6299ef]
+
+(1) The circumstances referred to in articles 2(1) and 2(3) are where a person makes the provision[^f00002]—
+
+- (a) for—
+  - (i) a child or children for particular parents, wholly or mainly in the home of the parents, or
+  - (ii) a child or children for particular parents (“the first parents”) and, in addition, for a child or children for different parents (“the second parents”), wholly or mainly in the home of the first parents or the second parents or in both homes;
+- (b) for a particular child for two hours or less per day; [^key-08b4b514544a1e0d3acc060b8da905f3]...
+- (bb)[^key-d025315656e1f723d87495b8f33ddb01] for a child or children for 3 hours or less per day if—
+  - (i) in the course of a friendship with the parents of that child or children;
+  - (ii) for reward; and
+  - (iii) on domestic premises;
+- (c) only between 6pm and 2am. ; [^key-4bee9c2047b235959f6f7a0ea292bd55]...
+- (d)[^key-058cfa6412101cc669fd4cfa722fc72e] for—
+  - (i) a child or children in the course of a friendship with the parents of that child or children; and
+  - (ii) the provision is not made in exchange for payment. ; or[^key-7a868a58cff685822c0ecd6f4b22288e]
+- (e)[^key-69b9dd2b9084a9932a3920747dde0d54] for a child who is placed with a local authority foster parent (“the child’s foster parent”), where the person making the provision is a relevant foster parent who is not the child’s foster parent.
+
+(2)[^key-7d74222ae4ff0a62d5d38653e0164b6f] In paragraph (1)[^key-177a459e0050e17e9ec6ecf1e3402734]...—
+
+- “local authority foster parent” has the same meaning as in section 22C(12) of the Children Act 1989;
+- payment” means a payment of money or money’s worth but does not include the provision of goods or services;[^key-3c4fff18fd6375fe8555b0f5010b3a81] and
+- “relevant foster parent” means a person who is approved as a foster parent under the Fostering Services (England) Regulations 2011.
+
+## 4. Exempt provision in hotels, guest houses or similar[^key-018b7e160c720d12d5be16ba078330c2]
+
+The circumstances referred to in articles 2(2) and 2(4) are where the provision is made in a hotel, guest house or other similar establishment for children staying in that establishment, and—
+
+- (a) it is made only between 6pm and 2am, and
+- (b) the person is making the provision for no more than two different clients at the same time.
+
+## 5. Exempt temporary provision[^key-f67c1f672a3a4ea956e4515c14b1ef98]
+
+(1) The circumstances referred to in articles 2(2) and 2(4) are where the provision is made—
+
+- (a) for a particular child—
+  - (i) for two hours or less per day, or
+  - (ii) for four hours or less per day and the provision is offered—
+    - (aa) on a day to day basis with no longer term commitment to clients, and
+    - (bb) for the convenience of clients who intend to remain on the premises where the provision is made or within their immediate locality; or
+- (b) on particular premises for 14 days or fewer in a year commencing with the relevant day, and the person making the provision has notified the Chief Inspector in writing at least 14 days before the relevant day.
+
+(2) The “relevant day” means the first day on which the provision is made on the premises in question.
+
+## 6. Exempt activity-based provision[^key-a9f98cad6642b68682998416e9f9e80e]
+
+(1) Subject to paragraph (2), the circumstances referred to in articles 2(1) to 2(4) are where—
+
+- (a) the provision is made for a child who has attained the age of three,
+- (b) the person making the provision is providing to the child an activity of a type listed in paragraph (3), and
+- (c) the provision is incidental to the activity.
+
+(2) The circumstances in this article are not met if—
+
+- (a) the child has not attained the age of five and attends the provision, including[^key-aaf006b86b86e57073c5f5279a9246d0] the activity for longer than four hours per day, or
+- (b) the person making the provision offers more than two of the types of activity listed in paragraph (3).
+
+(3) The types of activity are—
+
+- (i) school study support or homework support;
+- (ii) sport;
+- (iii) performing arts;
+- (iv) arts and crafts;
+- (v) religious, cultural or language study.
+
+## 7. Exemption for open access childcare[^key-cb3e37c68b2b52580da50d0c432fb71d]
+
+(1) The circumstances referred to in articles 2(2) and 2(4) are where the provision is open access childcare.
+
+(2) “Open access childcare” means childcare, other than childminding, under the arrangements for which a child, other than a young child[^f00003], may leave the premises unaccompanied.
+
+## 8. Exempt provision during home education[^key-9af79a84f6a34d18926995020842158f]
+
+(1) The circumstances referred to in articles 2(1) to 2(4) are where a person—
+
+- (a) is educating a child under a home education arrangement, and
+- (b) the provision made is incidental to the arrangement.
+
+(2) A “home education arrangement” means an arrangement under which a child, who is of compulsory school age[^f00004] and is receiving full-time education otherwise than at school, is partly or wholly educated by a person other than a parent of the child.
+
+## 9. Exempt provision in relation to children turning three at school[^key-fef53bd8ea85c4fd9f904a24dacf084c]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Beverley Hughes
+
+Minister of State
+
+Department for Children, Schools and Families
+
+31st March 2008
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order specifies circumstances in which the provision of childcare does not attract the requirement for registration in the early years register or Part A of the general childcare register.
+
+Section 32 of the Childcare Act 2006 (“the Act”) imposes the requirement for the Chief Inspector to maintain two registers: the early years register, and the general childcare register which is divided into two parts, Part A and Part B. Sections 33(1) (requirement to register: early years childminders), 34(1) (requirement to register: other early years providers), 52(1) (requirement to register: later years childminders for children under eight) and 53(1) (requirement to register: other later years providers for children under eight) require persons providing the childcare concerned to register in the relevant register.
+
+Article 2 states which of the legal requirements to register do not apply in relation to the circumstances that are specified in articles 3 to 9.
+
+Articles 3 to 9 specify the circumstances where childcare provision is to be exempt.
+
+Article 3 exempts childminding where it is provided by the childminder for the children of a limited number of parents wholly or mainly in their homes, for a particular child for two hours or less per day, or where it is provided only between 6pm and 2am.
+
+Article 4 exempts childcare provision in hotels, guesthouses or similar establishments for children who are staying there, where the person providing it does so only between 6pm and 2am and for a limited number of clients (as defined in article 1).
+
+Article 5 exempts childcare provision for children on a temporary basis in specified circumstances.
+
+Article 6 specifies childcare provision where the person providing it does so incidentally to providing other activity for children aged three or older.
+
+Article 7 exempts “open access childcare” as defined in that article.
+
+Article 8 exempts childcare provision where the person providing it does so incidentally to the provision of education to a child under a “home education arrangement” (defined in that article).
+
+Article 9 specifies childcare provision at a “relevant school” (defined in that article) as part of the school’s activities, where it is made by the proprietor or employees of the school, for registered pupils who are not yet three years old but will turn three by the end of their first term at the school.
+
+An impact assessment has been prepared for this Order. It is annexed to the Explanatory Memorandum which is available alongside the instrument on the OPSI website http://www.opsi.gov.uk.
+
+## Annotations
+
+[^f00001]: Footnote: [2006 c.21](https://www.legislation.gov.uk/ukpga/2006/21).
+
+[^key-434cf03ba0b7831c857fcabf1d783e84]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2008/979/article/1) in force at 1.9.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/979/article/1/1)
+
+[^key-a4b322e66408d85b35d7e56a864afb2e]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2008/979/article/2) in force at 1.9.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/979/article/1/1)
+
+[^key-513a543ccbd2a1d7eca3f8fbf7bb426b]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2008/979/article/2/1) substituted (1.11.2024) by [The Levelling-up and Regeneration Act 2023 (Miscellaneous Amendment) Regulations 2024 (S.I. 2024/1019)](https://www.legislation.gov.uk/uksi/2024/1019), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1019/regulation/1/1), [6(2)(a)](https://www.legislation.gov.uk/uksi/2024/1019/regulation/6/2/a)
+
+[^key-36d583748619c2418ebb3574b5395cba]: Textual amendment: [Art. 2(1A)](https://www.legislation.gov.uk/uksi/2008/979/article/2/1A) inserted (1.11.2024) by [The Levelling-up and Regeneration Act 2023 (Miscellaneous Amendment) Regulations 2024 (S.I. 2024/1019)](https://www.legislation.gov.uk/uksi/2024/1019), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1019/regulation/1/1), [6(2)(b)](https://www.legislation.gov.uk/uksi/2024/1019/regulation/6/2/b)
+
+[^key-dc4d3cbc1e03c3ee42ca3f165072b3fb]: Textual amendment: Words in [art. 2(2)](https://www.legislation.gov.uk/uksi/2008/979/article/2/2) inserted (1.9.2014) by [The Childcare (Learning and Development Requirements and Exemptions from Registration) (Amendment) Order 2014 (S.I. 2014/913)](https://www.legislation.gov.uk/uksi/2014/913), [arts. 1](https://www.legislation.gov.uk/uksi/2014/913/article/1), [9(1)](https://www.legislation.gov.uk/uksi/2014/913/article/9/1)
+
+[^key-f9ba9a69499d4f4cf6b2a96408c1386c]: Textual amendment: Word in [art. 2(2)](https://www.legislation.gov.uk/uksi/2008/979/article/2/2) substituted (26.5.2015) by [The Childcare (Early Years Register) (Consequential Provisions) Regulations 2015 (S.I. 2015/963)](https://www.legislation.gov.uk/uksi/2015/963), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/963/regulation/1/1), [2(a)](https://www.legislation.gov.uk/uksi/2015/963/regulation/2/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/963/regulation/3))
+
+[^key-f44ca3efc640849df17e2eb397f8e82f]: Textual amendment: Words in [art. 2(3)](https://www.legislation.gov.uk/uksi/2008/979/article/2/3) substituted (1.11.2024) by [The Levelling-up and Regeneration Act 2023 (Miscellaneous Amendment) Regulations 2024 (S.I. 2024/1019)](https://www.legislation.gov.uk/uksi/2024/1019), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1019/regulation/1/1), [6(2)(c)](https://www.legislation.gov.uk/uksi/2024/1019/regulation/6/2/c)
+
+[^key-7a80167d2b559946fed897c6a9ebf004]: Textual amendment: [Art. 2(3A)](https://www.legislation.gov.uk/uksi/2008/979/article/2/3A) inserted (1.11.2024) by [The Levelling-up and Regeneration Act 2023 (Miscellaneous Amendment) Regulations 2024 (S.I. 2024/1019)](https://www.legislation.gov.uk/uksi/2024/1019), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1019/regulation/1/1), [6(2)(d)](https://www.legislation.gov.uk/uksi/2024/1019/regulation/6/2/d)
+
+[^key-c9d85802adbcfe28d2bc512174941bf1]: Textual amendment: Words in [art. 2(4)](https://www.legislation.gov.uk/uksi/2008/979/article/2/4) inserted (1.9.2014) by [The Childcare (Learning and Development Requirements and Exemptions from Registration) (Amendment) Order 2014 (S.I. 2014/913)](https://www.legislation.gov.uk/uksi/2014/913), [arts. 1](https://www.legislation.gov.uk/uksi/2014/913/article/1), [9(2)](https://www.legislation.gov.uk/uksi/2014/913/article/9/2)
+
+[^key-2faef0665ae16aea6c836c07af6299ef]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2008/979/article/3) in force at 1.9.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/979/article/1/1)
+
+[^f00002]: Footnote: Early years childminding and later years childminding being defined in sections 96(4) and (8) of the Act respectively as early years or later years provision on domestic premises for reward.
+
+[^key-08b4b514544a1e0d3acc060b8da905f3]: Textual amendment: Word in [art. 3(b)](https://www.legislation.gov.uk/uksi/2008/979/article/3/b) omitted (8.4.2010) by virtue of [The Childcare (Exemptions from Registration) (Amendment) Order 2010 (S.I. 2010/744)](https://www.legislation.gov.uk/uksi/2010/744), [arts. 1](https://www.legislation.gov.uk/uksi/2010/744/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2010/744/article/2/2)
+
+[^key-d025315656e1f723d87495b8f33ddb01]: Textual amendment: [Art. 3(1)(bb)](https://www.legislation.gov.uk/uksi/2008/979/article/3/1/bb) inserted (1.9.2014) by [The Childcare (Learning and Development Requirements and Exemptions from Registration) (Amendment) Order 2014 (S.I. 2014/913)](https://www.legislation.gov.uk/uksi/2014/913), [arts. 1](https://www.legislation.gov.uk/uksi/2014/913/article/1), [10(1)(a)](https://www.legislation.gov.uk/uksi/2014/913/article/10/1/a)
+
+[^key-4bee9c2047b235959f6f7a0ea292bd55]: Textual amendment: Word in [art. 3(1)(c)](https://www.legislation.gov.uk/uksi/2008/979/article/3/1/c) omitted (1.9.2014) by virtue of [The Childcare (Learning and Development Requirements and Exemptions from Registration) (Amendment) Order 2014 (S.I. 2014/913)](https://www.legislation.gov.uk/uksi/2014/913), [arts. 1](https://www.legislation.gov.uk/uksi/2014/913/article/1), [10(1)(b)](https://www.legislation.gov.uk/uksi/2014/913/article/10/1/b)
+
+[^key-058cfa6412101cc669fd4cfa722fc72e]: Textual amendment: [Art. 3(d)](https://www.legislation.gov.uk/uksi/2008/979/article/3/d) and word inserted (8.4.2010) by [The Childcare (Exemptions from Registration) (Amendment) Order 2010 (S.I. 2010/744)](https://www.legislation.gov.uk/uksi/2010/744), [arts. 1](https://www.legislation.gov.uk/uksi/2010/744/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2010/744/article/2/2) (with [art. 2(3)](https://www.legislation.gov.uk/uksi/2010/744/article/2/3))
+
+[^key-7a868a58cff685822c0ecd6f4b22288e]: Textual amendment: Words in [art. 3(1)(d)](https://www.legislation.gov.uk/uksi/2008/979/article/3/1/d) inserted (1.4.2011) by [The Childcare (Exemptions from Registration) (Amendment) Order 2011 (S.I. 2011/584)](https://www.legislation.gov.uk/uksi/2011/584), [arts. 1](https://www.legislation.gov.uk/uksi/2011/584/article/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2011/584/article/2/2/b)
+
+[^key-69b9dd2b9084a9932a3920747dde0d54]: Textual amendment: [Art. 3(1)(e)](https://www.legislation.gov.uk/uksi/2008/979/article/3/1/e) inserted (1.4.2011) by [The Childcare (Exemptions from Registration) (Amendment) Order 2011 (S.I. 2011/584)](https://www.legislation.gov.uk/uksi/2011/584), [arts. 1](https://www.legislation.gov.uk/uksi/2011/584/article/1), [2(2)(c)](https://www.legislation.gov.uk/uksi/2011/584/article/2/2/c)
+
+[^key-7d74222ae4ff0a62d5d38653e0164b6f]: Textual amendment: [Art. 3(2)](https://www.legislation.gov.uk/uksi/2008/979/article/3/2) inserted (1.4.2011) by [The Childcare (Exemptions from Registration) (Amendment) Order 2011 (S.I. 2011/584)](https://www.legislation.gov.uk/uksi/2011/584), [arts. 1](https://www.legislation.gov.uk/uksi/2011/584/article/1), [2(3)](https://www.legislation.gov.uk/uksi/2011/584/article/2/3)
+
+[^key-177a459e0050e17e9ec6ecf1e3402734]: Textual amendment: Word in [art. 3(2)](https://www.legislation.gov.uk/uksi/2008/979/article/3/2) omitted (1.9.2014) by virtue of [The Childcare (Learning and Development Requirements and Exemptions from Registration) (Amendment) Order 2014 (S.I. 2014/913)](https://www.legislation.gov.uk/uksi/2014/913), [arts. 1](https://www.legislation.gov.uk/uksi/2014/913/article/1), [10(2)(a)](https://www.legislation.gov.uk/uksi/2014/913/article/10/2/a)
+
+[^key-3c4fff18fd6375fe8555b0f5010b3a81]: Textual amendment: Words in [art. 3(2)](https://www.legislation.gov.uk/uksi/2008/979/article/3/2) inserted (1.9.2014) by [The Childcare (Learning and Development Requirements and Exemptions from Registration) (Amendment) Order 2014 (S.I. 2014/913)](https://www.legislation.gov.uk/uksi/2014/913), [arts. 1](https://www.legislation.gov.uk/uksi/2014/913/article/1), [10(2)(b)](https://www.legislation.gov.uk/uksi/2014/913/article/10/2/b)
+
+[^key-018b7e160c720d12d5be16ba078330c2]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2008/979/article/4) in force at 1.9.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/979/article/1/1)
+
+[^key-f67c1f672a3a4ea956e4515c14b1ef98]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2008/979/article/5) in force at 1.9.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/979/article/1/1)
+
+[^key-a9f98cad6642b68682998416e9f9e80e]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2008/979/article/6) in force at 1.9.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/979/article/1/1)
+
+[^key-aaf006b86b86e57073c5f5279a9246d0]: Textual amendment: Words in [art. 6(2)(a)](https://www.legislation.gov.uk/uksi/2008/979/article/6/2/a) inserted (1.10.2020) by [The Early Years Foundation Stage (Exemption from Learning and Development Requirements) and Childcare (Exemption from Registration) (Amendment) Regulations 2020 (S.I. 2020/700)](https://www.legislation.gov.uk/uksi/2020/700), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/700/regulation/1/3), [6](https://www.legislation.gov.uk/uksi/2020/700/regulation/6)
+
+[^key-cb3e37c68b2b52580da50d0c432fb71d]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2008/979/article/7) in force at 1.9.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/979/article/1/1)
+
+[^f00003]: Footnote: For the definition of “young child” see section 19 of the Act.
+
+[^key-9af79a84f6a34d18926995020842158f]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/2008/979/article/8) in force at 1.9.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/979/article/1/1)
+
+[^f00004]: Footnote: Section 8(1) the Education Act [1996 (c.56)](https://www.legislation.gov.uk/ukpga/1996/56) provides that sections 8(2) and (3) of that Act apply to determine for the purposes of any enactment whether a person is of compulsory school age. Section 8(2) provides that a person begins to be of compulsory school age when he attains the age of five, if he attains that age on a prescribed day, and otherwise at the beginning of the prescribed day next following his attaining that age. Article 2 of the Education (Start of Compulsory School Age) Order 1998 ([S.I. 1998/1607](https://www.legislation.gov.uk/uksi/1998/1607)) provides that for the purposes of section 8(2), 31st August and 31st December shall be prescribed days for 1998 and successive years, and 31st March shall be a prescribed day for 1999 and successive years.
+
+[^key-fef53bd8ea85c4fd9f904a24dacf084c]: Textual amendment: [Art. 9](https://www.legislation.gov.uk/uksi/2008/979/article/9) omitted (26.5.2015) by virtue of [The Childcare (Early Years Register) (Consequential Provisions) Regulations 2015 (S.I. 2015/963)](https://www.legislation.gov.uk/uksi/2015/963), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/963/regulation/1/1), [2(b)](https://www.legislation.gov.uk/uksi/2015/963/regulation/2/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/963/regulation/3))

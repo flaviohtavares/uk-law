@@ -1,0 +1,199 @@
+---
+title: The Access to Justice Act 1999 (Destination of Appeals) Order 2016
+id: uksi/2016/917
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2016-09-12'
+text_date: '2022-10-01'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2016/917
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2016/917/pdfs/uksiem_20160917_en.pdf
+- http://www.legislation.gov.uk/uksi/2016/917/pdfs/uksi_20160917_en.pdf
+- http://www.legislation.gov.uk/uksi/2016/917/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Access to Justice Act 1999 (Destination of Appeals) Order 2016
+
+> Text as at 2022-10-01.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2016 No. 917 (L. 15)
+
+Senior Courts Of England And Wales
+
+County Court, England And Wales
+
+The Access to Justice Act 1999 (Destination of Appeals) Order 2016
+
+Made
+
+12th September 2016
+
+Coming into force in accordance with article 1
+
+The Lord Chancellor makes the following Order in exercise of the powers conferred by section 56(1) and (3) of the Access to Justice Act 1999[^f00001], after consulting in accordance with section 56(4) of that Act.
+
+A draft of this Order has been laid before Parliament in accordance with section 56(6) of the Access to Justice Act 1999, and has been approved by a resolution of each House of Parliament.
+
+## 1. Citation, commencement and interpretation[^key-73f609cb7fc1d412882c50b72bd061fd]
+
+(1) This Order may be cited as the Access to Justice Act 1999 (Destination of Appeals) Order 2016.
+
+(2) This Order comes into force on the twenty-first day after the day on which it is made.
+
+**2.**[^key-ef0135d87229d73c80a7a54b1bf25e45] In this Order—
+
+- “the 1981 Act” means the Senior Courts Act 1981[^f00002];
+- “the 1984 Act” means the County Courts Act 1984[^f00003];
+- “the Companies Acts” means the Companies Act 1985[^f00004], the Companies Act 1989[^f00005] and the Companies Act 2006[^f00006];
+- “decision” includes any judgment, order or direction of the High Court or the county court;
+- “enterprise judge” has the meaning assigned to it by rule 63.1(2)(h) of the Civil Procedure Rules 1998[^f00007];
+- “family proceedings” has the meaning assigned to it by section 32 of the Matrimonial and Family Proceedings Act 1984[^f00008]; and
+- “a judge of the county court” has the meaning assigned to it by section 5 of the 1984 Act[^f00009].
+
+**3.**[^key-4b11bbbed995000683296335b6633e16] Articles 4 to 6 and 8—
+
+- (a) do not apply to an appeal in family proceedings; and
+- (b) are subject to—
+  - (i) any enactment that provides a different route of appeal; and
+  - (ii) any requirement to obtain permission to appeal.
+
+## 4. Appeals to the High Court[^key-cc8d18061769f515fa7042a6435bb74b]
+
+(1) Subject to paragraph (2), an appeal shall lie to a judge of the High Court where the decision to be appealed is made by—
+
+- (a) a person holding an office referred to in Part 2 of Schedule 2 to the 1981 Act[^f00010];
+- (b) a District Judge of the High Court; or
+- (c) a person appointed to act as a deputy for any person holding an office referred to in subparagraph (a) or (b) or to act as a temporary additional officer in any such office.
+
+(2) In proceedings which have been allocated to the small claims track of the Intellectual Property Enterprise Court pursuant to rule 63.7[^f00011] of the Civil Procedure Rules 1998, an appeal shall lie from a decision of a District Judge to an enterprise judge.
+
+## 5. Appeals from the county court[^key-16e05e7891a635c3bf12d66b101b657b]
+
+(1) Subject to paragraphs (2) to (4) and article 6, an appeal shall lie from a decision of the county court to the High Court, if the decision is made by—
+
+- (a) a judge of the county court specified in section 5(1)(a) of the 1984 Act;
+- (b)[^key-ac70a7b3d7bf5833b18058e0b4b13f3e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c) a judge of the county court specified in—
+  - (i) section 5(2)(a) to (l); or
+  - (ii) section 5(2)(n) to (q),
+
+  of the 1984 Act.
+
+(2) Paragraph (1)(c)(ii) shall not apply if the decision is made by a judge of the county court who is also a judge of the county court specified in section 5(1)(b) or (2)(m) or (r) of the 1984 Act.
+
+(3) Subject to paragraph (4), an appeal shall lie to a judge of the county court specified in paragraph (1) if—
+
+- (a) that judge is sitting as a judge of the county court; and
+- (b) the decision to be appealed is made by a judge of the county court specified in section 5(1)(b) or (2)(m) or (r) to (v) of the 1984 Act.
+
+(4) In proceedings brought pursuant to the Companies Acts, an appeal from a decision of a judge of the county court specified in section 5(1)(b) or (2)(m) or (r) to (v) of the 1984 Act shall lie to the High Court.
+
+## 6. Appeals where decision was itself made on appeal[^key-a27d0fa81ad2f26aaf99220dd2b1df4f]
+
+Where—
+
+- (a) an appeal is made to the county court or the High Court (other than from the decision of an officer authorised to assess costs by the Lord Chancellor); and
+- (b) on hearing the appeal the court makes a decision,
+
+an appeal shall lie from that decision to the Court of Appeal and not to any other court.
+
+## 7. Revocation[^key-100df02c80ab748862d86d8ad9fe5e84]
+
+The Access to Justice Act 1999 (Destination of Appeals) Order 2000[^f00013] is revoked.
+
+## 8. Transitional provision[^key-adb610ba77c18930bd4bdd8afcbaba2b]
+
+Where a person has filed a notice of appeal or applied for permission to appeal before the date on which this Order comes into force—
+
+- (a) this Order shall not apply to the appeal to which that notice or application relates; and
+- (b) that appeal shall lie to the court to which it would have lain before that date.
+
+## 9. Consequential amendments[^key-aa5d4213bfbeb4d66bce1eeb027cfe21]
+
+In section 16(1) of the 1981 Act, before “the Court of Appeal”, the second time it appears, insert “or as provided by any order made by the Lord Chancellor under section 56(1) of the Access to Justice Act 1999,”.
+
+**10.**[^M_I_cef9533e-c5b0-4a56-cccb-bb5250710e18] In section 77(1) of the 1984 Act, after “Act” insert “and to any order made by the Lord Chancellor under section 56(1) of the Access to Justice Act 1999”.
+
+Signed by authority of the Lord Chancellor
+
+Sir Oliver Heald QC
+
+Minister of State
+
+Ministry of Justice
+
+12th September 2016
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order makes provision for the court to which an appeal will lie against a decision in civil proceedings. It replaces provision previously made by the Access to Justice Act 1999 (Destination of Appeals) Order 2000 ([SI 2000/1071](https://www.legislation.gov.uk/uksi/2000/1071), “the 2000 Order”), which is revoked by this Order (article 7). The provisions of this Order differ from those of the 2000 Order in that they make no distinction between interim and final decisions and remove the exceptions by which appeals against certain final decisions would lie to the Court of Appeal.
+
+In the county court, appeal will lie from a decision of a Circuit Judge to the High Court (article 5(1)) and a decision of a District Judge to a Circuit Judge (article 5(3)), unless that decision relates to non-insolvency company law, in which case it will lie from a District Judge to the High Court (article 5(4)).
+
+Article 5 also applies to other judges of the county court (as defined in section 5 of the county courts Act [1984 (c.28)](https://www.legislation.gov.uk/ukpga/1984/28)) who hear cases which may be heard by a District Judge or which may only be heard by a Circuit Judge. Appeals from the decisions of District Judges who also sit in the Upper Tribunal (and so to whom both article 5(1) and 5(3) would apply) will still lie to a Circuit Judge (Article 5(2)).
+
+Appeals from decisions of Masters, Registrars and District Judges of the High Court will continue to lie to a judge of the High Court (article 4(1)), except that, in proceedings which have been allocated to the small claims track of the Intellectual Property Enterprise Court, an appeal will lie from a decision of a District Judge to an enterprise judge (article 4(2)).
+
+An appeal from a decision of the county court or the High Court which is itself made on appeal, will lie to the Court of Appeal (article 6).
+
+Articles 9 and 10 of this Order re-enact consequential amendments made in the 2000 Order.
+
+## Annotations
+
+[^f00001]: Footnote: [1999 c. 22](https://www.legislation.gov.uk/ukpga/1999/22).
+
+[^key-73f609cb7fc1d412882c50b72bd061fd]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2016/917/article/1) in force at 3.10.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/917/article/1/2)
+
+[^key-ef0135d87229d73c80a7a54b1bf25e45]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2016/917/article/2) in force at 3.10.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/917/article/1/2)
+
+[^f00002]: Footnote: [1981 c. 54](https://www.legislation.gov.uk/ukpga/1981/54). By virtue of the Constitutional Reform Act [2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), Schedule 11, Part 1, paragraph 1 and Part 4, paragraph 26, the Supreme Court Act 1981 was renamed “the Senior Courts Act 1981”.
+
+[^f00003]: Footnote: [1984 c. 28](https://www.legislation.gov.uk/ukpga/1984/28).
+
+[^f00004]: Footnote: [1985 c. 6](https://www.legislation.gov.uk/ukpga/1985/6).
+
+[^f00005]: Footnote: [1989 c. 40](https://www.legislation.gov.uk/ukpga/1989/40).
+
+[^f00006]: Footnote: [2006 c. 46](https://www.legislation.gov.uk/ukpga/2006/46).
+
+[^f00007]: Footnote: [S.I. 1998/3132](https://www.legislation.gov.uk/uksi/1998/3132). Rule 63.1 was substituted by [S.I. 2009/3219](https://www.legislation.gov.uk/uksi/2009/3219), rule 12 and the Schedule, and was subsequently amended by [S.I. 2009/3390](https://www.legislation.gov.uk/uksi/2009/3390), rules 1(2), 2, 10(b) and 38(a) and (b), [S.I. 2212/2208](https://www.legislation.gov.uk/uksi/2212/2208), rule 1, and [S.I. 2013/1974](https://www.legislation.gov.uk/uksi/2013/1974), rule 26(b)(ii).
+
+[^f00008]: Footnote: [1984 c. 42](https://www.legislation.gov.uk/ukpga/1984/42).
+
+[^f00009]: Footnote: Section 5 was amended by section 17 of, and paragraph 4 in Part 1 of Schedule 9 to, the Crime and Courts Act [2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22).
+
+[^key-4b11bbbed995000683296335b6633e16]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2016/917/article/3) in force at 3.10.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/917/article/1/2)
+
+[^key-cc8d18061769f515fa7042a6435bb74b]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2016/917/article/4) in force at 3.10.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/917/article/1/2)
+
+[^f00010]: Footnote: Schedule 2 was substituted by the Tribunals, Courts and Enforcement Act 2007, Schedule 10, Part 1, paragraph 10(1) and (3).
+
+[^f00011]: Footnote: Rule 63.7 was inserted by [S.I. 2002/3219](https://www.legislation.gov.uk/uksi/2002/3219), rule 8 and the Schedule and was subsequently amended by [S.I. 2009/2092](https://www.legislation.gov.uk/uksi/2009/2092), rule 12 and Schedule 1.
+
+[^key-16e05e7891a635c3bf12d66b101b657b]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2016/917/article/5) in force at 3.10.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/917/article/1/2)
+
+[^key-ac70a7b3d7bf5833b18058e0b4b13f3e]: Textual amendment: Art. 5(1)(b) omitted (10.3.2022 for specified purposes, 1.10.2022 in so far as not already in force) by virtue of [Public Service Pensions and Judicial Offices Act 2022 (c. 7)](https://www.legislation.gov.uk/ukpga/2022/7), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)[(4)(c)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/4/c), [Sch. 4 para. 12](https://www.legislation.gov.uk/ukpga/2022/7/schedule/4/paragraph/12); [S.I. 2022/1014](https://www.legislation.gov.uk/uksi/2022/1014), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2022/1014/regulation/2/d) (with [reg. 3](https://www.legislation.gov.uk/uksi/2022/1014/regulation/3))
+
+[^key-a27d0fa81ad2f26aaf99220dd2b1df4f]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2016/917/article/6) in force at 3.10.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/917/article/1/2)
+
+[^key-100df02c80ab748862d86d8ad9fe5e84]: Commencement: Art. 7 in force at 3.10.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/917/article/1/2)
+
+[^f00013]: Footnote: [S.I. 2000/1071](https://www.legislation.gov.uk/uksi/2000/1071).
+
+[^key-adb610ba77c18930bd4bdd8afcbaba2b]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/2016/917/article/8) in force at 3.10.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/917/article/1/2)
+
+[^key-aa5d4213bfbeb4d66bce1eeb027cfe21]: Commencement: [Art. 9](https://www.legislation.gov.uk/uksi/2016/917/article/9) in force at 3.10.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/917/article/1/2)
+
+[^M_I_cef9533e-c5b0-4a56-cccb-bb5250710e18]: Commencement: Art. 10 in force at 3.10.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/917/article/1/2)

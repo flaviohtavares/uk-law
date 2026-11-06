@@ -1,0 +1,69 @@
+---
+title: Employment Rights Act 2025, section 110
+act: Employment Rights Act 2025
+section: '110'
+status: revised-with-pending-changes
+text_date: '2026-10-30'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2025/36/section/110
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Employment Rights Act 2025, section 110
+
+> **Warning: changes not yet applied to this text (7).** Text as at 2026-10-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2025/36
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 110. Appeals against notices of underpayment[^key-2f381424b76810145ec650728bc18573][^key-2c2856563f6e89598cd041c900f7fcac]
+
+*Extent: E+W+S+N.I.*
+
+(1) A person to whom a notice of underpayment is given may appeal to a tribunal against any one or more of the following—
+
+- (a) the decision to give the notice;
+- (b) any requirement imposed by the notice to pay a sum to an individual;
+- (c) any requirement imposed by the notice to pay a penalty.
+
+(2) An appeal under this section must be made before the end of the period of 28 days beginning with the day on which the notice is given.
+
+(3) An appeal under subsection (1)(a) may be made only on one or more of the following grounds—
+
+- (a) that no sum was due to any individual to whom the notice relates on the specified day under or by virtue of the specified provision;
+- (b) that, in the case of every sum specified in the notice as due to an individual to whom the notice relates, the sum had been paid before the end of the period mentioned in section 103(1)(b);
+- (c) that, in the case of every sum specified in the notice as due to an individual to whom the notice relates, the sum was one to which a notice may not relate by virtue of subsection (1) or (7) of section 105 (period to which notice may relate).
+
+(4) An appeal under subsection (1)(b) in relation to an individual may be made only on one or more of the following grounds—
+
+- (a) that, on the specified day, no sum was due to the individual under or by virtue of the specified provision;
+- (b) that, in the case of any sum specified in the notice as due to the individual, the sum had been paid before the end of the period mentioned in section 103(1)(b);
+- (c) that, in the case of any sum specified in the notice as due to the individual, the sum was one to which a notice may not relate by virtue of subsection (1) or (7) of section 105;
+- (d) that the amount specified in the notice as the sum required to be paid to the individual is incorrect;
+- (e) that, in the case of a replacement notice given under section 112, the notice contravenes subsection (2) of that section.
+
+(5) An appeal under subsection (1)(c) may be made only on one or more of the following grounds—
+
+- (a) that the notice was given in circumstances specified in a direction under section 108(1);
+- (b) that the amount of the penalty specified in the notice of underpayment has been incorrectly calculated (whether because the notice is incorrect in some of the particulars which affect that calculation or for some other reason).
+
+(6) Where the tribunal allows an appeal under subsection (1)(a), it must cancel the notice.
+
+(7) Where, in a case where subsection (6) does not apply, the tribunal allows an appeal under subsection (1)(b) or (c)—
+
+- (a) the tribunal must rectify the notice, and
+- (b) the notice of underpayment, as rectified, has effect as if it had been given on the day on which the tribunal makes its determination.
+
+(8) In this section—
+
+- “**the specified day**”, in relation to an individual, means the day specified in accordance with section 106(2)(a) in relation to the individual;
+- “**the specified provision**”, in relation to an individual, means the statutory pay provision specified in accordance with section 106(2)(d) in relation to the individual;
+- “**tribunal**” means—
+  - (a) an employment tribunal, in relation to England and Wales or Scotland;
+  - (b) an industrial tribunal, in relation to Northern Ireland.
+
+## Annotations
+
+[^key-2f381424b76810145ec650728bc18573]: Commencement: S. 110 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+
+[^key-2c2856563f6e89598cd041c900f7fcac]: Commencement: [S. 110](https://www.legislation.gov.uk/ukpga/2025/36/section/110) in force at 7.4.2026 by [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/1)[(15)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/15)

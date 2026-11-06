@@ -1,0 +1,29 @@
+---
+title: Income Tax (Trading and Other Income) Act 2005, section 754
+act: Income Tax (Trading and Other Income) Act 2005
+section: '754'
+status: revised-with-pending-changes
+text_date: '2026-07-15'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2005/5/section/754
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Income Tax (Trading and Other Income) Act 2005, section 754
+
+> **Warning: changes not yet applied to this text (8).** Text as at 2026-07-15. See https://www.legislation.gov.uk/changes/affected/ukpga/2005/5
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 754. Redemption of funding bonds
+
+*Extent: E+W+S+N.I.*
+
+(1) The redemption of funding bonds is not treated as the payment of interest on a debt for income tax purposes if their issue was treated under section 380 of this Act or section 413 of CTA 2009[^key-467ff0705f178ab06f7bd47204f5a6b7] as the payment of interest on the debt.
+
+(2) In this section “**funding bonds**” includes any bonds, stocks, shares, securities or certificates of indebtedness.
+
+## Annotations
+
+[^key-467ff0705f178ab06f7bd47204f5a6b7]: Textual amendment: Words in s. 754(1) substituted (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 636](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/636) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))

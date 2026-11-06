@@ -1,0 +1,159 @@
+---
+title: The Importation of Embryos, Ova and Semen Order 1980
+id: uksi/1980/12
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '1980-01-08'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1980/12
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1980/12/pdfs/uksi_19800012_en.pdf
+- http://www.legislation.gov.uk/uksi/1980/12/made/data.pdf
+pending_changes: 57
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Westlaw UK derived from Crown Copyright material and contributed to legislation.gov.uk
+summary: ''
+---
+
+# The Importation of Embryos, Ova and Semen Order 1980
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+1980 No. 12
+
+ANIMALS
+
+POULTRY
+
+DISEASES OF ANIMALS
+
+The Importation of Embryos, Ova and Semen Order 1980
+
+Made
+
+8th January 1980
+
+Laid before Parliament
+
+16th January 1980
+
+Coming into Operation
+
+1st March 1980
+
+The Minister of Agriculture, Fisheries and Food, the Secretary of State for Scotland and the Secretary of State for Wales, acting jointly, in exercise of the powers conferred by sections 1, 20, 24, 45, 84(2) and (3)(a) and (b) and 85(1) of the Diseases of Animals Act 1950[^f00001] and now vested in them[^f00002], and of all other powers enabling them in that behalf, hereby order as follows:—
+
+## 1. Citation, extent and commencement
+
+This order, which may be cited as the Importation of Embryos, Ova and Semen Order 1980, shall apply to Great Britain and shall come into operation on 1st March 1980.
+
+## 2. Extension of definitions of “poultry” and “disease”
+
+For the purposes of the Act in its application to this order—
+
+- (a) the definition of the expression “poultry” in section 84(2) of the Act is hereby extended so as to comprise quails, and
+- (b) the definition of the expression “disease” in section 84(3)(a) and (b) of the Act is hereby extended so as to comprise any disease of animals or birds.
+
+## 3. Interpretation
+
+In this order—
+
+- “**the Act**” means the Diseases of Animals Act 1950;
+- “**appropriate Minister**”, in the application of this order to England, means the Minister of Agriculture, Fisheries and Food, in the application of this order to Scotland, means the Secretary of State for Scotland, and, in the application of this order to Wales, means the Secretary of State for Wales;
+- “**embryos**” means the embryos of any mammal, except man;
+- “**licence**” means a licence issued under article 4(1) of this order;
+- “**ova**” means the ova of any mammal, except man;
+- “**semen**” means the semen of any mammal, except man, or of poultry.
+
+## 4. Prohibition of landing of embryos, ova or semen
+
+(1) Subject to paragraph (2) below, the landing in Great Britain of any embryos, ova or semen from a place outside Great Britain is hereby prohibited except under the authority of a licence in writing issued by the appropriate Minister and in accordance with the conditions of that licence.
+
+(2) The prohibition in paragraph (1) above shall not apply to the landing of any semen which is landed in Great Britain in accordance with the provisions of section 17(3) of the Agriculture (Miscellaneous Provisions) Act 1943.
+
+(3) A licence may be either general or specific and may, in either case, be issued subject to such conditions specified therein as the appropriate Minister may see fit to impose for the purpose of preventing the introduction or spreading of disease into or within Great Britain.
+
+(4) A general licence shall be issued by the publication of it in such manner and to such extent as appears to the appropriate Minister to be sufficient to bring it to the notice of those persons likely to be affected by it.
+
+(5) The appropriate Minister may vary, revoke or suspend a licence—
+
+- (a) in the case of a general licence by a notice published, so far as practicable, in the same manner and to the same extent as the licence; and
+- (b) in the case of a specific licence by a notice in writing served on the person to whom the licence was issued.
+
+## 5. Action in case of contravention of the order
+
+(1) Where any embryos, ova or semen are landed in Great Britain in contravention of this order or of a licence, a veterinary inspector may by notice in writing served on the owner or the person in charge of the embryos, ova or semen require him, at the owner's expense—
+
+- (a) to destroy the embryos, ova or semen in such manner and within such period as he may specify in the notice; or
+- (b) to export the embryos, ova or semen in such manner and within such period as he may specify in the notice.
+
+(2) Where the owner or the person in charge of the embryos, ova or semen fails to comply with the requirements of a notice served under paragraph (1) above, a veterinary inspector may, without prejudice to any proceedings for an offence arising out of such failure, seize or cause to be seized the embryos, ova or semen to which the notice relates and carry out or cause to be carried out the requirements of the notice.
+
+(3) In this article the powers of a veterinary inspector in relation to any embryos, ova or semen extend to any container in which the embryos, ova or semen are carried.
+
+## 6. Miscellaneous provisions
+
+(1) The appropriate Minister shall not pay compensation to any person in respect of any embryos, ova, semen or container destroyed under article 5 above.
+
+(2) Any reasonable expenses arising out of or in connection with the exercise of any power conferred on a veterinary inspector by this order shall, without prejudice to any proceedings for any offence against the Act, be recoverable on demand by the appropriate Minister as a civil debt from the owner or the person in charge of the embryos, ova or semen in respect of which the power was exercised.
+
+(3) A veterinary inspector may vary, revoke, or suspend a notice served under article 5 above by a notice in writing served on the person on whom the notice to be varied, revoked or suspended was served.
+
+(4) For the purpose of exercising his power to seize any embryos, ova, semen or container under article 5 above a veterinary inspector may, subject to production of his certificate of appointment on demand, enter any land, premises or vehicle taking with him such persons as he considers requisite. A veterinary inspector entering under this paragraph shall, if required by the owner or the person in charge of the land, premises or vehicle state his reasons for entering.
+
+(5) The owner or the person in charge of the embryos, ova or semen to which article 5 above applies shall give all reasonable assistance to a veterinary inspector and any person accompanying him so as to enable the powers conferred by that article to be properly exercised.
+
+## 7. Production of licences, etc
+
+Any person acting under the authority of a licence shall on demand made under this order by an officer of Customs and Excise or by an officer of the appropriate Minister or by a constable produce the licence (other than a general licence) and allow a copy thereof or an extract therefrom to be taken, and shall, if required, furnish his name and address.
+
+## 8. Summary offences
+
+Any person who lands or attempts to land any embryos, ova or semen in contravention of article 4(1) above, or who contravenes any other provision of this order or of a licence, or any provision of a notice served under article 5 above, or who fails to comply with any such provision, or with any condition of a licence, or who causes or permits any such landing or attempted landing or any such contravention or non-compliance, commits an offence against the Act.
+
+## 9. Indictable offences
+
+Section 3 of the Diseases of Animals Act 1975 (prosecution on indictment of certain offences connected with importation) shall apply to an offence which consists of—
+
+- (a) the landing in Great Britain of any embryos, ova or semen in contravention of the provisions of article 4(1) above with intent to evade those provisions, or
+- (b) the failure by any person to observe any condition of a licence with intent to evade such condition.
+
+## 10. Savings
+
+Nothing in this order shall affect the powers of the Commissioners of Customs and Excise to seize or detain as liable to forfeiture under the customs and excise Acts any embryos, ova or semen which are landed in Great Britain in contravention of this order or of a licence, or to institute legal proceedings under those Acts in respect of such contravention.
+
+## 11. Revocation
+
+The Importation of Animal Semen Order 1955 and the Importation of Animal Semen (Amendment) Order 1964 are hereby revoked.
+
+In Witness whereof the Official Seal of the Minister of Agriculture, Fisheries and Food is hereunto affixed on 18th December 1979.
+
+Peter Walker
+
+Minister of Agriculture, Fisheries and Food
+
+George Younger
+
+Secretary of State for Scotland
+
+20th December 1979
+
+Nicholas Edwards
+
+Secretary of State for Wales
+
+8th January 1980
+
+EXPLANATORY NOTE
+
+This Order prohibits the landing in Great Britain of the embryos, ova or semen of certain animals from a place outside Great Britain except under the authority of a licence. However, the prohibition does not apply to any semen which is landed in Great Britain in accordance with the provisions of section 17(3) of the Agriculture (Miscellaneous Provisions) Act 1943.
+
+Article 5 of the Order enables the veterinary inspectors to take action in case of the contravention of the Order. This is without prejudice to any court proceedings for an offence arising out of the contravention of the Order and where such contravention is deliberate proceedings may, by virtue of article 9, be on indictment.
+
+## Annotations
+
+[^f00001]: Footnote: section 24 was amended by section 1 of the Diseases of Animals Act 1975 (c. 40).
+
+[^f00002]: Footnote: By the Transfer of Functions (Animal Health) Order 1955 (S.I. 1955/958) and the Transfer of Functions (Wales) (No. 1) Order 1978 (S.I. 1978/272).

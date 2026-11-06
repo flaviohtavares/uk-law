@@ -1,0 +1,62 @@
+---
+title: Criminal Justice and Courts Act 2015, section 17
+act: Criminal Justice and Courts Act 2015
+section: '17'
+status: revised-with-pending-changes
+text_date: '2026-09-01'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/2015/2/section/17
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Criminal Justice and Courts Act 2015, section 17
+
+> **Warning: changes not yet applied to this text (4).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2015/2
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 17. Restrictions on use of cautions[^key-2bb6aaf3820468899eda6ae6a69a35f9]
+
+*Extent: E+W*
+
+(1) This section applies where, in England and Wales, a person aged 18 or over admits that he or she has committed an offence.
+
+(2) If the offence is an indictable-only offence, a constable may not give the person a caution except—
+
+- (a) in exceptional circumstances relating to the person or the offence, and
+- (b) with the consent of the Director of Public Prosecutions.
+
+(3) If the offence is an either-way offence specified by order made by the Secretary of State, a constable may not give the person a caution except in exceptional circumstances relating to the person or the offence.
+
+(4) If—
+
+- (a) the offence is a summary offence or an either-way offence not specified under subsection (3), and
+- (b) in the two years before the commission of the offence the person has been convicted of, or cautioned for, a similar offence,
+
+a constable may not give the person a caution except in exceptional circumstances relating to the person, the offence admitted or the previous offence.
+
+(5) It is for a police officer not below a rank specified by order made by the Secretary of State to determine—
+
+- (a) whether there are exceptional circumstances for the purposes of subsection (2), (3) or (4), and
+- (b) whether a previous offence is similar to the offence admitted for the purposes of subsection (4)(b).
+
+(6) A determination under subsection (5) must be made in accordance with guidance issued by the Secretary of State.
+
+(7) The Secretary of State may by order amend this section so as to provide for a different period for the purposes of subsection (4)(b).
+
+(8) For the purposes of this section—
+
+- (a) “**caution**” does not include a conditional caution under Part 3 of the Criminal Justice Act 2003, but
+- (b) a person has been “cautioned for” an offence if he or she has been given a caution, a conditional caution or a youth caution or youth conditional caution under Chapter 1 of Part 4 of the Crime and Disorder Act 1998.
+
+(9) In this section—
+
+- “**either-way offence**” means an offence triable either way;
+- “**indictable-only offence**” means an offence which, if committed by an adult, is triable only on indictment.
+
+(10) This section applies whether the offence admitted was committed before or after the time when this section comes into force.
+
+## Annotations
+
+[^key-2bb6aaf3820468899eda6ae6a69a35f9]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2015/2/section/17) in force at 13.4.2015 by [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 13](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/13)

@@ -1,0 +1,128 @@
+---
+title: The Nottingham City Council (River Trent Cycle and Pedestrian Bridge) Scheme 2024 Confirmation Instrument 2024
+id: uksi/2024/1197
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2024-11-20'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2024/1197
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2024/1197/pdfs/uksi_20241197_en.pdf
+- http://www.legislation.gov.uk/uksi/2024/1197/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Nottingham City Council (River Trent Cycle and Pedestrian Bridge) Scheme 2024 Confirmation Instrument 2024
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2024 No. 1197
+
+Highways, England
+
+The Nottingham City Council (River Trent Cycle and Pedestrian Bridge) Scheme 2024 Confirmation Instrument 2024
+
+Made
+
+20th November 2024
+
+Coming into force in accordance with article 1
+
+The Secretary of State for Transport, makes this Instrument in exercise of the powers conferred by section 106(3) of the Highways Act 1980[^f00001] and now vested in the Secretary of State[^f00002]:
+
+In accordance with section 107(1) and (2) of that Act, the Secretary of State has taken into consideration the reasonable requirements of navigation over the waters affected and includes such plans and specifications as necessary.
+
+**1.** This Instrument may be cited as the Nottingham City Council (River Trent Cycle and Pedestrian Bridge) Scheme 2024 Confirmation Instrument 2024 and shall come into force on the date on which notice that it has been confirmed is first published in accordance with paragraph 1 of Schedule 2 to the Highways Act 1980.
+
+**2.** The Nottingham City Council (River Trent Cycle and Pedestrian Bridge) Scheme 2024 (“**the Scheme**”) is hereby confirmed.
+
+**3.** The Scheme as confirmed including its Schedules and plans are set out in the Schedules to this Instrument and copies of the Scheme with its accompanying plans are deposited at the offices of the Department for Transport, Deposited Documents Service, MHCLG, 1 Priory Square, Priory Street, Hastings, East Sussex, TN34 1EA and at the offices of Nottingham City Council, Loxley House, Station Street Nottingham NG2 3NG.
+
+Signed by Authority of the Secretary of State
+
+Martin Gilmour
+
+A Senior Civil Servant in the Department for Transport
+
+20th November 2024
+
+## THE SCHEDULE — THE NOTTINGHAM CITY COUNCIL (RIVER TRENT CYCLE AND PEDESTRIAN BRIDGE) SCHEME 2024
+
+Article 3
+
+The Nottingham City Council (“**the Council**”) makes this Scheme in exercise of its powers under section 106(3) of the Highways Act 1980 and of all other powers enabling them in that behalf.
+
+**1.** The Council are authorised to construct over the navigable wates of the River Trent the cycle and pedestrian bridge (“the Bridge”) specified in the Schedule to this Scheme within the Councils administrative area (on the north bank of the River Trent) and within the administrative area of Nottinghamshire County Council (on the south bank of the River Trent).
+
+**2.** By way of an Agreement dated 26th June 2024 made pursuant to Section 8 of the highways Act 1980 the Council is authorised to exercise the specified functions on behalf of Nottinghamshire County Council for this Scheme and other related matters.
+
+**3.** The Scheme may be cited as “The Nottingham City Council (River Trent Cycle and Pedestrian Bridge) Scheme 2024”.
+
+|  |  |
+| --- | --- |
+| GIVEN UNDER THE COMMON SEAL |  |
+| OF NOTTINGHAM CITY COUNCIL |  |
+| was hereunto affixed | CS |
+| This 9th day of July 2024 | SEAL ORDER BOOK No 83537 |
+| Authorised Signatory |  |
+|  |  |
+| Authorised by the Corporate Director for Growth and City Development under Scheme of Delegation Reference 5020 |  |
+
+## THE SCHEDULE TO THE SCHEME — Plans and specification of the Bridge
+
+Article 3
+
+### Location and Design
+
+The location of the Bridge is shown on the Plan at Appendix A (drawing No. RTF-RAM-GEN-WB01-DR-CB-00006 Rev P03) and the general arrangement and design is shown on the plan at Appendix B (Drawing No. RTF-RAM-GEN-WB01-DR-CB-00002 Rev P04) which are attached to this Scheme and titled “The Nottingham City Council (River Trent Cycle and Pedestrian Bridge) Scheme 2024”.
+
+### Commencement and Termination Points
+
+The Bridge commences at a point on Trent Basin on the north bank of the River Trent (to the west of Portside Street) in the City of Nottingham at Ordnance Survey grid reference 458 875 E 338 829 N and terminates on the south bank of the River Trent at a point on West Bridgford public footpath number 12 Lady Bay in the Borough of Rushcliffe Nottinghamshire at Ordnance Survey grid reference 458 868 E 338 742 N.
+
+### Bridge Span
+
+The maximum single span across the River Trent will be 87.0 metres.
+
+### Bridge Width
+
+The maximum width over the River Trent will be 5.2 metres.
+
+### Headway
+
+There will be a minimum headway clearance of 6.0 metres for a 42.0 metre width channel and minimum headway clearance 6.3 metres for a 30.0 metres width channel (measured above a water level of 21.0 metres AOD).
+
+### Waterway
+
+There will be a minimum clear navigable waterway of 82.0 metres.
+
+### Overall Dimensions
+
+The Bridge will have an overall length of 87.0 metres and overall width of 5.2 metres. The overall available shared width for cyclists and pedestrians will be 4.0 metres.
+
+### Bridge Surface
+
+The Bridge will have a waterproof and skid resistant flexible resin and aggregate surface.
+
+### Approaches to the Bridge
+
+The approach ramp running east along the north bank will have a length of 30.0 metres and a width of 3.5 metres and the approach ramp running west will have a length of 40.0 metres and a width of 3.5 metres. The approach ramp running west along the south bank will have a length of 98.0 metres and a width of 3.5 metres. The approaches will have a waterproof and skid resistant resin and aggregate surface.
+
+[image: see source](https://www.legislation.gov.uk/uksi/2024/1197/images/uksi_20241197_en_001) [image: see source](https://www.legislation.gov.uk/uksi/2024/1197/images/uksi_20241197_en_002)
+
+EXPLANATORY NOTE
+
+(This note is not part of the Instrument)
+
+This Instrument confirms a Scheme to construct a cycle and pedestrian bridge over the navigable waters of the River Trent within the Councils administrative area (on the north bank of the River Trent) and within the administrative area of Nottinghamshire County Council (on the south bank of the River Trent).
+
+## Annotations
+
+[^f00001]: Footnote: [1980 c. 66](https://www.legislation.gov.uk/ukpga/1980/66). Section 106(3) is amended by the Infrastructure Act [2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7), section 1(6), paragraphs 1 and 34(1) and (2) of Schedule 1(1). Part,
+
+[^f00002]: Footnote: [S.I. 1981/238](https://www.legislation.gov.uk/uksi/1981/238).

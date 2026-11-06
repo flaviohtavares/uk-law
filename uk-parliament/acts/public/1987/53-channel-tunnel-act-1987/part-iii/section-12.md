@@ -1,0 +1,49 @@
+---
+title: Channel Tunnel Act 1987, section 12
+act: Channel Tunnel Act 1987
+section: '12'
+status: revised
+text_date: '2012-11-22'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/1987/53/section/12
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Channel Tunnel Act 1987, section 12
+
+> Text as at 2012-11-22.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 12. Controls on board trains engaged on international services.
+
+*Extent: E+W+S+N.I.*
+
+(1) It shall be the duty of the appropriate Minister to secure that, where this subsection applies, controls exercisable in relation to—
+
+- (a) passengers carried on a train engaged on an international service on a journey beginning or intended to end at a place in Great Britain other than London or Cheriton, Folkestone or any place between those places; or
+- (b) things contained in the baggage of such passengers; shall be exercised on the train.
+
+(2) Subject to subsection (3) below, subsection (1) above applies where—
+
+- (a) the person operating the service has made a request to the appropriate Minister that the controls in question should be exercised on trains engaged on the service in question;
+- (b) the appropriate Minister has approved as satisfactory arrangements made by that person for the provision of facilities to enable the controls in question to be exercised on such trains;
+- (c) facilities enabling the exercise of the controls in question are provided on the train in question in accordance with such approved arrangements; and
+- (d) the controls are exercised by customs officers or immigration officers.
+
+(3) Subsection (1) above does not apply—
+
+- (a) in the case of passengers carried on a particular train or part of a particular train, or things contained in the baggage of such passengers, if in the opinion of a customs officer or immigration officer exercising the controls it is not reasonably practicable effectively to exercise the controls in question on the train or part of a train; and
+- (b) in the case of any particular passenger or things contained in the baggage of any particular passenger, if in the opinion of any such officer it is not reasonably practicable effectively to exercise the controls in question in relation to the passenger or his baggage on the train.
+
+(4) An order under section 11 of this Act may include provision imposing, or providing for the imposition of, fees or charges on persons operating international services in respect of the exercise of controls in relation to passengers or things such as are mentioned in subsection (1) above on trains engaged on the services.
+
+(5) In this section—
+
+- “**customs officer**” means an officer or other person acting under the authority of the Commissioners of Customs and Excise; and
+- “**immigration officer**” means an immigration officer appointed for the purposes of the [^c7868561]Immigration Act 1971.
+
+## Annotations
+
+[^c7868561]: Marginal citation: [1971 c. 77](https://www.legislation.gov.uk/ukpga/1971/77).

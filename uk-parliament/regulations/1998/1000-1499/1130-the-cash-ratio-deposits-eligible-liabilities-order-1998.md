@@ -1,0 +1,298 @@
+---
+title: The Cash Ratio Deposits (Eligible Liabilities) Order 1998
+id: uksi/1998/1130
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '1998-04-24'
+text_date: '2020-12-31'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/1998/1130
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1998/1130/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Cash Ratio Deposits (Eligible Liabilities) Order 1998
+
+> Text as at 2020-12-31.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+1998 No. 1130
+
+BANKS AND BANKING
+
+The Cash Ratio Deposits (Eligible Liabilities) Order 1998
+
+Made
+
+24th April 1998
+
+Laid before Parliament
+
+27th April 1998
+
+Coming into force
+
+1st June 1998
+
+The Treasury, having consulted the Bank of England, such persons as appear to them to be representative of persons likely to be materially affected by the following Order and such other persons as they think fit, and having regard to the financial needs of the Bank of England, in exercise of the powers conferred on them by paragraph 2(2) of Schedule 2 to the Bank of England Act 1998[^f00001], hereby make the following Order:
+
+## 1. Citation and commencement[^key-77ed44fddc46ce54a22fd4d00e549052]
+
+This Order may be cited as the Cash Ratio Deposits (Eligible Liabilities) Order 1998 and shall come into force on 1st June 1998.
+
+## 2. Interpretation[^key-144fedfb33eb1e9f85a91ce70b7a9142]
+
+(1) In this Order—
+
+- “the Act” means the Bank of England Act 1998;
+- “credit items in the course of transmission”, in relation to an eligible institution, means standing orders and other credit transfers debited to customers' accounts, and payment orders including cheques and bankers' payments, in respect of which the eligible institution is required to make a payment and has not yet made it;
+- “debit items in the course of collection”, in relation to an eligible institution, means payment orders including cheques (other than cheques passed to United Kingdom offices of other eligible institutions for collection) and bankers' payments in respect of which the eligible institution is entitled to receive a payment and has not yet received it;
+- “ecu” means—
+  - (a) the European currency unit as defined in Article 1 of Council Regulation No. 3320/94/EC[^f00002]; or
+  - (b) any other unit of account which is defined by reference to the European currency unit as so defined;
+- “eligible institution” means an eligible institution for the purposes of Schedule 2 to the Act;
+- “finance lease” means a lease granted on terms which have the effect of transferring to the lessee all or substantially all of the risk and rewards of ownership of the asset or assets subject to the lease;
+- “fixed assets”, in relation to an eligible institution, means assets which are intended for use on a continuing basis in the institution’s activities;
+- “group” has the meaning given by section 474(1) of the Companies Act 2006[^key-2627dd99cbe6d91aa0141703dcf6d319];
+- “items in suspense” means all credit balances in the books of an eligible institution not in customers' names, but relating to funds held on behalf of customers or others, including, without prejudice to the generality of the foregoing—
+  - (a) accounts holding funds awaiting transfer to customers (other than accounts relating to interest accruing and interest suspense accounts);
+  - (b) returnable application monies for issues of securities;
+  - (c) funds of any customer awaiting investment which have been transferred to an account not in the name of the customer;
+  - (d) [^key-0d868366373931ea03bc7bd554dd5fe5]funds transferred from the account of any customer to an account not in the name of the customer to meet acceptances, confirmed credits and similar obligations;
+  - (e) funds placed on account to meet travellers' cheques issued by the eligible institution but not yet presented;
+  - (f) valuation fees awaiting transfer to a person who has made a report on the value of land; and
+  - (g) accounts holding funds which the eligible institution has received as collecting agent on behalf of a charity;
+
+  but excluding balances awaiting settlement of securities transactions held in an account not in the name of the customer;
+- “net sterling liabilities to non-resident offices”, in relation to an eligible institution, means the amount (if any) by which the institution’s total sterling liabilities to non-resident offices exceed its total sterling claims on non-resident offices;
+- “non-resident banking subsidiary”, in relation to an eligible institution or a non-resident parent, means a body corporate incorporated in a country or territory outside the United Kingdom, or a partnership or other unincorporated association formed under the law of such a country or territory, whose sole or main business is banking and (in the case of an undertaking with a share capital) all of whose voting share capital is, or (in the case of any other undertaking) all of whose shares are, beneficially owned by that eligible institution or, as the case may be, that non-resident parent;
+- “non-resident offices”, in relation to an eligible institution, means the offices outside the United Kingdom of—
+  - (a) that institution;
+  - (b) any non-resident banking subsidiary of that institution; and
+  - (c) if that institution has a non-resident parent, that non-resident parent and its non-resident banking subsidiaries (if any);
+- “non-resident parent”, in relation to an eligible institution, means a body corporate incorporated in a country or territory outside the United Kingdom, or a partnership or other unincorporated association formed under the law of such a country or territory, which beneficially owns (in the case of an undertaking with a share capital) all of the voting share capital of, or (in the case of any other undertaking) all of the shares in, that institution;
+- “over two year deposits”, in relation to an eligible institution, means deposits made with the institution on terms to the effect that repayment cannot be required before the end of the period of two years beginning with the day on which the deposit is made (other than in exceptional circumstances outside the control of the depositor specified at the time the deposit is made), and which have been reported as such deposits by the institution to the Bank;
+- “retransfer agreement” means—
+  - (a) a sale and repurchase agreement;
+  - (b) an agreement under which one party sells securities or other assets to another, and by a related transaction undertakes to purchase the same or equivalent securities or assets from that other party on a specified date, or at call, at a specified price; or
+  - (c) an agreement under which one party otherwise transfers securities or other assets to another in return for a cash payment, and as part of the same transaction undertakes to make a cash payment to that other party upon the transfer to it by that other party of the same or equivalent securities or assets on a specified date, or at call;
+- “sale and repurchase agreement” means an agreement under which one party sells securities or other assets to another, and as part of the same transaction undertakes to purchase the same or equivalent securities or assets from that other party on a specified date, or at call, at a specified price;
+- “the Schedule” means the Schedule to this Order;
+- “securities” means shares, stock, debentures, debenture stock, loan stock, bonds, and other securities of any description;
+- “sterling deposit liabilities to non-resident offices”, in relation to an eligible institution, means sterling liabilities of the United Kingdom offices of that institution to its non-resident offices which fall within paragraph 1 or paragraph 3 of the Schedule, and which have been reported as such liabilities by the institution to the Bank;
+- “stored value card” means a card (which includes any token, coupon, stamp, form, booklet or other document or thing) issued by an eligible institution under an agreement which provides that the institution will or, as the case may be, a third party may, upon production of the card, supply to the holder of the card goods or services (which includes the payment of cash) of a value not exceeding the amount of any payment or payments previously made to the institution by the holder of the card (or the balance thereof remaining after previous transactions);
+- “total sterling claims on non-resident offices”, in relation to an eligible institution, means the total sterling claims of the United Kingdom offices of that institution on its non-resident offices, which have been reported as such claims by the institution to the Bank;
+- “total sterling liabilities to non-resident offices”, in relation to an eligible institution, means the total sterling liabilities of the United Kingdom offices of that institution to its non-resident offices, which have been reported as such liabilities by the institution to the Bank;
+- “undertaking” has the meaning given by section 1161(1) of the Companies Act 2006[^key-d49312866714849ce5cc2eba8e0693e5];
+- “voting share capital”, in relation to an undertaking, means issued shares carrying rights to vote in all or substantially all circumstances at general meetings of the undertaking; and, in determining for the purposes of this Order whether any shares carry rights to vote as aforesaid, any temporary suspension of voting rights attaching to those shares shall be ignored.
+
+(2) In paragraph (1), in the definitions of “non-resident banking subsidiary” and “non-resident parent” references to shares are—[^key-6f33d93fee3a45a4159bd6a9ea28b1d7]
+
+- (a) in relation to an undertaking with a share capital, to allotted shares,
+- (b) in relation to an undertaking with capital but no share capital, to rights to share in the capital of the undertaking, and
+- (c) in relation to an undertaking without capital, to interests—
+  - (i) conferring any right to share in the profits or liability to contribute to the losses of the undertaking, or
+  - (ii) giving rise to an obligation to contribute to the debts or expenses of the undertaking in the event of a winding up.
+
+(3) In this Order, references to deposits made with an eligible institution include, in relation to an eligible institution which is a building society within the meaning of the Building Societies Act 1986[^f00005] or an institution which is incorporated in or formed under the law of the Republic of Ireland and whose characteristics correspond as nearly as may be to those of such a building society, shares in the institution other than shares which are own funds within the meaning given by point (118) of Article 4(1) of Regulation (EU) No 575/2013 on prudential requirements for credit institutions and investment firms[^key-952aaf9636706b9f3dc3b130d705aebf].
+
+(4) In this Order, references to liabilities in respect of sterling deposits made with United Kingdom offices of an eligible institution include sterling liabilities of the institution in respect of—
+
+- (a) finance leases entered into by United Kingdom offices of the institution;
+- (b) accounts of such offices with United Kingdom offices of other eligible institutions which are overdrawn; and
+- (c) stored value cards issued by such offices;
+
+but exclude such liabilities in respect of—
+
+- (d) deposits made by non-resident offices of the institution with United Kingdom offices of the institution solely for the purpose of enabling the eligible institution to purchase fixed assets; and
+- (e) deposits made solely for the purpose of funding the depositor’s participation in a loan made, or to be made, to a third party.
+
+(5)[^key-78c30d3c90d050d1308c39b1a5c8c7b2] In this Order, references to certificates of deposit include negotiable or transferable deposits made on terms in all respects identical to those applying to deposits in respect of which a certificate of deposit could have been issued but where no such certificate has been issued, but exclude any certificates of deposit issued by an eligible institution which are then held by that institution.
+
+(6) In this Order, references to currencies other than sterling include ecus.
+
+(7) Any transaction which is treated in the books and records of an eligible institution as having been entered into by, or with, an office of that institution in a particular country or territory shall be so treated for the purposes of determining that institution’s eligible liabilities and, in particular, but without prejudice to the generality of the foregoing—
+
+- (a) any transaction which is treated in the books and records of that institution as giving rise to a liability on the part of a United Kingdom office of that institution to a non-resident office of that institution shall be treated as giving rise to such a liability, and, in particular, where such liability relates to a deposit that deposit shall be treated as made with that United Kingdom office; and
+- (b) any transaction which is treated in the books and records of that institution as giving rise to a claim on a non-resident office of that institution by a United Kingdom office of that institution shall be treated as giving rise to such a claim.
+
+(8) Any transaction which is treated in the books and records of an eligible institution as having been entered into by, or with, a United Kingdom office of another eligible institution shall be so treated for the purposes of determining the first-mentioned institution’s eligible liabilities.
+
+## 3. Eligible liabilities[^key-2422d0c1427f911f902b98bc01224b6d]
+
+For the purposes of paragraph 2 of Schedule 2 to the Act, the eligible liabilities of an eligible institution means the aggregate of the amounts referred to in paragraphs 1 to 7 of the Schedule, less the aggregate of the amounts referred to in paragraphs 9 to 13[^key-59e788afd34a76461046b92b2f30edae] of the Schedule.
+
+## 4. Liabilities in respect of sterling deposits[^key-32f8a28b275e7890e5045d54bb6ec961]
+
+(1) In calculating the amount of an eligible institution’s liabilities in respect of sterling deposits made with United Kingdom offices of the institution—
+
+- (a) except in a case where sub-paragraph (b) applies, the total credit balances on the relevant accounts of any customer with those offices shall be reduced by the total debit balances on those accounts;
+- (b) where the institution provides banking facilities to different undertakings within the same group, and compliance with any limit on the amount of those facilities is determined by reference to net amounts, the total credit balances on the relevant accounts of such undertakings with those offices shall be reduced by the total debit balances on those accounts; and
+- (c) any interest which has accrued but has not yet been credited to an account shall be ignored.
+
+(2) For the purposes of paragraph (1), an account with an eligible institution is a relevant account if the following conditions are satisfied—
+
+- (a) the account is denominated in sterling;
+- (b) where the account is held in the name of an individual, that individual is resident in the United Kingdom;
+- (c) where the account is held in the name of an undertaking, the account is an account of a United Kingdom office of that undertaking;
+- (d) the account and all other accounts which the institution treats as netted with that account are managed and controlled on a net basis; and
+- (e) the institution has received a written opinion or, as the case may be, written opinions from its legal advisers that a legally enforceable right of set-off exists in respect of the account and all other accounts which the institution treats as netted with that account under the law of each jurisdiction whose law could affect the enforceability of such a right (including upon default, liquidation or bankruptcy or any analogous event under the law of such jurisdiction).
+
+## 5. Liabilities and claims in respect of retransfer agreements[^key-86052a0bfcfae83de70a9131f8876550]
+
+(1) In calculating the amount of an eligible institution’s liability to make a payment for the purchase of, or otherwise in return for the transfer to it of, securities or other assets under a retransfer agreement, the amount of the institution’s liability to make such a payment shall be reduced by the amount of any deposit paid by the institution under that agreement.
+
+(2) In calculating the amount of an eligible institution’s claim to receive a payment for the sale of, or otherwise in return for the transfer by it of, securities or other assets under a retransfer agreement, the amount of the institution’s claim shall be reduced by the amount of any deposit paid to the institution under that agreement.
+
+(3) In calculating the amount payable by or to an eligible institution under a retransfer agreement involving the purchase of securities or other assets, no account shall be taken of any amount by which the purchase price under the agreement exceeds the sale price of the securities or other assets originally sold under the agreement (but ignoring in the case of both purchase price and sale price any amount payable in respect of any income which has accrued on the securities or other assets purchased or sold).
+
+## 6. Holdings of securities[^key-ce15959d891876e2840e8910cc1482ca]
+
+(1) For the purposes of this Order, securities held by United Kingdom offices of an eligible institution shall include any security which the institution is required to purchase, or accept a transfer of, under a retransfer agreement entered into by any such office, and exclude any security which the institution is required to sell or transfer under such an agreement.
+
+(2) In paragraph (1), where the retransfer agreement in question provides for the purchase or transfer of equivalent securities, references to any security are to the amount of any security, being a security of a type which may be sold or transferred under that agreement, which the eligible institution is required to purchase, or accept a transfer of, or (as the case may be) sell or transfer, under the agreement.
+
+## 7. Avoidance of double-counting[^key-86e5edb4bf8bde0a0911834fe9d804f3]
+
+(1) If any liability of an eligible institution would fall within more than one of the descriptions of liability set out in paragraphs 1 to 7 of the Schedule, that liability shall be counted as a liability only once when aggregating the amounts referred to in those paragraphs for the purposes of article 3.
+
+(2) If any item relating to an eligible institution would fall within more than one of the descriptions set out in paragraphs 9 to 13[^key-93523f22909ffc1cb19b432609ad95dc] of the Schedule, that item shall be counted only once when aggregating the amounts referred to in those paragraphs for the purposes of article 3.
+
+Graham Allen
+
+Jim Dowd
+
+Two of the Lords Commissioners of Her Majesty’s Treasury
+
+## SCHEDULE — ELIGIBLE LIABILITIES
+
+Article 3.
+
+**1.**[^key-0ea36f9df524cec663359cf8768770cd] The amount of the eligible institution’s liabilities in respect of sterling deposits (other than those evidenced by an instrument falling within paragraph 2 below) made with United Kingdom offices of the eligible institution, except for over two year deposits and except for deposits made by the Bank[^key-356959bbe13e481e591d6e0b3c1ed7be].
+
+**2.**[^key-373a846ef8b1a9f53c91459ffec3c50d][^key-1caa15a10e61f5a289dc1480058ac0b2] The amount of the eligible institution’s liabilities in respect of certificates of deposit, commercial paper, bonds, notes and other similar instruments denominated in each case in sterling and issued by United Kingdom offices of the eligible institution on terms requiring repayment not later than five years from the date of issue.
+
+**3.**[^key-7b40edbbc1ec8ee6701da8ec277a626a] The amount of the eligible institution’s liabilities to make payments in sterling for the purchase of, or otherwise in return for the transfer to it of, securities or other assets under retransfer agreements entered into by United Kingdom offices of the eligible institution, other than any such agreements entered into with the Bank.
+
+**4.**[^key-d2c14befc400bd010f04a2444df505dc] The amount of all sterling items in suspense held by United Kingdom offices of the eligible institution.
+
+**5.**[^key-78869db13e267ca43af65a209558598c] 60% of the amount of sterling credit items in the course of transmission by United Kingdom offices of the eligible institution to the Bank, any other United Kingdom office of the eligible institution or a United Kingdom office of any other eligible institution.
+
+**6.**[^key-f54f6c58a148634f995c222dbfcc57e7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**7.**[^key-8cc552551f275be068da4045f9a2d856] The amount (if any) by which the total liabilities of the United Kingdom offices of the eligible institution denominated in currencies other than sterling, as reported to the Bank, exceed the total assets of those offices denominated in such currencies, as so reported.
+
+### 8. LESS[^key-63482f49c899c56c1ded4edc800467ff]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**9.**[^key-bbd217b819600f6f9beab9a9879ebf12]
+
+- (a)[^key-f037b216ccd2ac2014a9351c26bd1358][^M_C_19b663f4-695f-4ba0-abd1-54c562eefb90] The amount of any sterling deposits made by United Kingdom offices of the eligible institution with, and sterling loans made by such offices to, United Kingdom offices of other eligible institutions (including certificates of deposit and commercial paper which are—
+  - (i) denominated in sterling;
+  - (ii) held by United Kingdom offices of the eligible institution; and
+  - (iii) issued by United Kingdom offices of other eligible institutions;
+
+  but excluding any instrument which falls within paragraph 11 below).
+- (b) Sterling amounts payable to United Kingdom offices of the eligible institution by United Kingdom offices of any other eligible institution under the terms of any finance lease.
+- (c) The amount of sterling cheques passed by United Kingdom offices of the eligible institution to United Kingdom offices of other eligible institutions for collection.
+
+**10.**[^key-16adb008287c65cd9dbbf19a2e26e859] The amount of the eligible institution’s claims to receive payments in sterling for the sale of, or otherwise in return for the transfer by it of, securities or other assets under retransfer agreements entered into by United Kingdom offices of the eligible institution with United Kingdom offices of other eligible institutions.
+
+**11.**[^key-e37c979cc7673fff4f59b548dcd81c1e][^key-c3295519f75ac872dbc67dd1966d0486][^key-e202d386e1b0dbdc635273ce4e680061] The value of the preference shares, bonds, notes and other similar debt instruments (other than certificates of deposit and commercial paper but including subordinated loan capital not represented by the issue of securities) denominated in sterling and issued by a United Kingdom office of any other eligible institution on terms requiring redemption or repayment not later than five years from the date of issue which are held by United Kingdom offices of the eligible institution for its own account.
+
+**12.**[^key-3ed4de0988493eb1f76dbf90bba49fc7] 60% of the amount of sterling debit items in the course of collection by United Kingdom offices of the eligible institution from the Bank, any other United Kingdom office of the eligible institution or a United Kingdom office of any other eligible institution.
+
+**13.**[^key-17b0214fee09842c0ac2abffd110301b] The amount (if any) by which the eligible institution’s sterling deposit liabilities to non-resident offices exceed the institution’s net sterling liabilities to non-resident offices.
+
+(This note is not part of the Order)
+
+Schedule 2 to the Bank of England Act 1998 makes provision concerning the maintenance by certain institutions of cash ratio deposits with the Bank of England (“the Bank”). Institutions which are covered by these arrangements are those authorised under the Banking Act 1987, certain European authorised institutions which have lawfully established branches in the United Kingdom for the purpose of accepting deposits, and building societies authorised under the Building Societies Act 1986. The Bank is enabled to give an institution a written call notice specifying the amount of cash ratio deposit it is expected to have on deposit with the Bank during a specified period. This depositable amount is to be calculated by applying the appropriate ratio (or ratios) to an institution’s liability base. An institution’s liability base comprises those sterling and foreign currency liabilities of the institution which are eligible liabilities.
+
+This Order defines eligible liabilities. Article 3 provides that eligible liabilities means the aggregate of the amounts referred to in paragraphs 1 to 7 of the Schedule to the Order, less the aggregate of the amounts referred to in paragraphs 8 to 13 of the Schedule. The Order also makes provision for the calculation of certain amounts referred to in the Schedule.
+
+A regulatory appraisal of the cash ratio deposit regime established by the Bank of England Act 1998 and orders made under it, including a compliance cost assessment of the effect of the regime on costs to business, is available from the Public Enquiry Unit, Room 89/2, HM Treasury, Parliament Street, London SW1P 3AG.
+
+## Annotations
+
+[^f00001]: Footnote: [1998 c. 11](https://www.legislation.gov.uk/ukpga/1998/11).
+
+[^key-77ed44fddc46ce54a22fd4d00e549052]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/1998/1130/article/1) in force at 1.6.1998, see [art. 1](https://www.legislation.gov.uk/uksi/1998/1130/article/1)
+
+[^key-144fedfb33eb1e9f85a91ce70b7a9142]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/1998/1130/article/2) in force at 1.6.1998, see [art. 1](https://www.legislation.gov.uk/uksi/1998/1130/article/1)
+
+[^f00002]: Footnote: O.J. L350, 31.12.94, page 27.
+
+[^key-2627dd99cbe6d91aa0141703dcf6d319]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/1998/1130/article/2/1) substituted (12.5.2011) by [The Companies Act 2006 (Consequential Amendments and Transitional Provisions) Order 2011 (S.I. 2011/1265)](https://www.legislation.gov.uk/uksi/2011/1265), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2), [10(2)(a)](https://www.legislation.gov.uk/uksi/2011/1265/article/10/2/a)
+
+[^key-0d868366373931ea03bc7bd554dd5fe5]: Modification: [Art. 2(1)](https://www.legislation.gov.uk/uksi/1998/1130/article/2/1) modified (24.6.2003) by [The Uncertificated Securities (Amendment) (Eligible Debt Securities) Regulations 2003 (S.I. 2003/1633)](https://www.legislation.gov.uk/uksi/2003/1633), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/1633/regulation/1/1), [15(1)](https://www.legislation.gov.uk/uksi/2003/1633/regulation/15/1), [Sch. 2 para. 5(a)](https://www.legislation.gov.uk/uksi/2003/1633/schedule/2/paragraph/5/a)
+
+[^key-d49312866714849ce5cc2eba8e0693e5]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/1998/1130/article/2/1) substituted (12.5.2011) by [The Companies Act 2006 (Consequential Amendments and Transitional Provisions) Order 2011 (S.I. 2011/1265)](https://www.legislation.gov.uk/uksi/2011/1265), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2), [10(2)(b)](https://www.legislation.gov.uk/uksi/2011/1265/article/10/2/b)
+
+[^key-6f33d93fee3a45a4159bd6a9ea28b1d7]: Textual amendment: Words in [art. 2(2)](https://www.legislation.gov.uk/uksi/1998/1130/article/2/2) substituted (12.5.2011) by [The Companies Act 2006 (Consequential Amendments and Transitional Provisions) Order 2011 (S.I. 2011/1265)](https://www.legislation.gov.uk/uksi/2011/1265), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2), [10(3)](https://www.legislation.gov.uk/uksi/2011/1265/article/10/3)
+
+[^f00005]: Footnote: [1986 c. 53](https://www.legislation.gov.uk/ukpga/1986/53).
+
+[^key-952aaf9636706b9f3dc3b130d705aebf]: Textual amendment: Words in [art. 2(3)](https://www.legislation.gov.uk/uksi/1998/1130/article/2/3) substituted (31.12.2020) by [The Bank of England (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1297)](https://www.legislation.gov.uk/uksi/2018/1297), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1297/regulation/1/2), [9(2)](https://www.legislation.gov.uk/uksi/2018/1297/regulation/9/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-78c30d3c90d050d1308c39b1a5c8c7b2]: Modification: [Art. 2(5)](https://www.legislation.gov.uk/uksi/1998/1130/article/2/5) modified (24.6.2003) by [The Uncertificated Securities (Amendment) (Eligible Debt Securities) Regulations 2003 (S.I. 2003/1633)](https://www.legislation.gov.uk/uksi/2003/1633), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/1633/regulation/1/1), [15(1)](https://www.legislation.gov.uk/uksi/2003/1633/regulation/15/1), [Sch. 2 para. 5(b)](https://www.legislation.gov.uk/uksi/2003/1633/schedule/2/paragraph/5/b)
+
+[^key-2422d0c1427f911f902b98bc01224b6d]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/1998/1130/article/3) in force at 1.6.1998, see [art. 1](https://www.legislation.gov.uk/uksi/1998/1130/article/1)
+
+[^key-59e788afd34a76461046b92b2f30edae]: Textual amendment: Words in [art. 3](https://www.legislation.gov.uk/uksi/1998/1130/article/3) substituted (1.3.2006) by [The Cash Ratio Deposits (Eligible Liabilities) (Amendment) Order 2005 (S.I. 2005/3203)](https://www.legislation.gov.uk/uksi/2005/3203), [arts. 1](https://www.legislation.gov.uk/uksi/2005/3203/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2005/3203/article/2/2)
+
+[^key-32f8a28b275e7890e5045d54bb6ec961]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/1998/1130/article/4) in force at 1.6.1998, see [art. 1](https://www.legislation.gov.uk/uksi/1998/1130/article/1)
+
+[^key-86052a0bfcfae83de70a9131f8876550]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/1998/1130/article/5) in force at 1.6.1998, see [art. 1](https://www.legislation.gov.uk/uksi/1998/1130/article/1)
+
+[^key-ce15959d891876e2840e8910cc1482ca]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/1998/1130/article/6) in force at 1.6.1998, see [art. 1](https://www.legislation.gov.uk/uksi/1998/1130/article/1)
+
+[^key-86e5edb4bf8bde0a0911834fe9d804f3]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/1998/1130/article/7) in force at 1.6.1998, see [art. 1](https://www.legislation.gov.uk/uksi/1998/1130/article/1)
+
+[^key-93523f22909ffc1cb19b432609ad95dc]: Textual amendment: Words in [art. 7(2)](https://www.legislation.gov.uk/uksi/1998/1130/article/7/2) substituted (1.3.2006) by [The Cash Ratio Deposits (Eligible Liabilities) (Amendment) Order 2005 (S.I. 2005/3203)](https://www.legislation.gov.uk/uksi/2005/3203), [arts. 1](https://www.legislation.gov.uk/uksi/2005/3203/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2005/3203/article/2/2)
+
+[^key-0ea36f9df524cec663359cf8768770cd]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/uksi/1998/1130/schedule/paragraph/1) in force at 1.6.1998, see [art. 1](https://www.legislation.gov.uk/uksi/1998/1130/article/1)
+
+[^key-356959bbe13e481e591d6e0b3c1ed7be]: Textual amendment: Words in [Sch. para. 1](https://www.legislation.gov.uk/uksi/1998/1130/schedule/paragraph/1) inserted (1.3.2006) by [The Cash Ratio Deposits (Eligible Liabilities) (Amendment) Order 2005 (S.I. 2005/3203)](https://www.legislation.gov.uk/uksi/2005/3203), [arts. 1](https://www.legislation.gov.uk/uksi/2005/3203/article/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2005/3203/article/2/3/a)
+
+[^key-373a846ef8b1a9f53c91459ffec3c50d]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/uksi/1998/1130/schedule/paragraph/2) in force at 1.6.1998, see [art. 1](https://www.legislation.gov.uk/uksi/1998/1130/article/1)
+
+[^key-1caa15a10e61f5a289dc1480058ac0b2]: Modification: [Sch. para. 2](https://www.legislation.gov.uk/uksi/1998/1130/schedule/paragraph/2) modified (24.6.2003) by [The Uncertificated Securities (Amendment) (Eligible Debt Securities) Regulations 2003 (S.I. 2003/1633)](https://www.legislation.gov.uk/uksi/2003/1633), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/1633/regulation/1/1), [15(1)](https://www.legislation.gov.uk/uksi/2003/1633/regulation/15/1), [Sch. 2 para. 5(c)](https://www.legislation.gov.uk/uksi/2003/1633/schedule/2/paragraph/5/c)
+
+[^key-7b40edbbc1ec8ee6701da8ec277a626a]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/uksi/1998/1130/schedule/paragraph/3) in force at 1.6.1998, see [art. 1](https://www.legislation.gov.uk/uksi/1998/1130/article/1)
+
+[^key-d2c14befc400bd010f04a2444df505dc]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/uksi/1998/1130/schedule/paragraph/4) in force at 1.6.1998, see [art. 1](https://www.legislation.gov.uk/uksi/1998/1130/article/1)
+
+[^key-78869db13e267ca43af65a209558598c]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/uksi/1998/1130/schedule/paragraph/5) in force at 1.6.1998, see [art. 1](https://www.legislation.gov.uk/uksi/1998/1130/article/1)
+
+[^key-f54f6c58a148634f995c222dbfcc57e7]: Textual amendment: [Sch. para. 6](https://www.legislation.gov.uk/uksi/1998/1130/schedule/paragraph/6) omitted (1.3.2006) by virtue of [The Cash Ratio Deposits (Eligible Liabilities) (Amendment) Order 2005 (S.I. 2005/3203)](https://www.legislation.gov.uk/uksi/2005/3203), [arts. 1](https://www.legislation.gov.uk/uksi/2005/3203/article/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2005/3203/article/2/3/b)
+
+[^key-8cc552551f275be068da4045f9a2d856]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/uksi/1998/1130/schedule/paragraph/7) in force at 1.6.1998, see [art. 1](https://www.legislation.gov.uk/uksi/1998/1130/article/1)
+
+[^key-63482f49c899c56c1ded4edc800467ff]: Textual amendment: [Sch. para. 8](https://www.legislation.gov.uk/uksi/1998/1130/schedule/paragraph/8) omitted (1.3.2006) by virtue of [The Cash Ratio Deposits (Eligible Liabilities) (Amendment) Order 2005 (S.I. 2005/3203)](https://www.legislation.gov.uk/uksi/2005/3203), [arts. 1](https://www.legislation.gov.uk/uksi/2005/3203/article/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2005/3203/article/2/3/b)
+
+[^key-bbd217b819600f6f9beab9a9879ebf12]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/uksi/1998/1130/schedule/paragraph/9) in force at 1.6.1998, see [art. 1](https://www.legislation.gov.uk/uksi/1998/1130/article/1)
+
+[^key-f037b216ccd2ac2014a9351c26bd1358]: Modification: [Sch. para. 9(a)](https://www.legislation.gov.uk/uksi/1998/1130/schedule/paragraph/9/a) modified (24.6.2003) by [The Uncertificated Securities (Amendment) (Eligible Debt Securities) Regulations 2003 (S.I. 2003/1633)](https://www.legislation.gov.uk/uksi/2003/1633), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/1633/regulation/1/1), [15(1)](https://www.legislation.gov.uk/uksi/2003/1633/regulation/15/1), [Sch. 2 para. 5(e)](https://www.legislation.gov.uk/uksi/2003/1633/schedule/2/paragraph/5/e)
+
+[^M_C_19b663f4-695f-4ba0-abd1-54c562eefb90]: Modification: [Sch. para. 9(a)](https://www.legislation.gov.uk/uksi/1998/1130/schedule/paragraph/9/a) modified (24.6.2003) by [The Uncertificated Securities (Amendment) (Eligible Debt Securities) Regulations 2003 (S.I. 2003/1633)](https://www.legislation.gov.uk/uksi/2003/1633), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/1633/regulation/1/1), [15(1)](https://www.legislation.gov.uk/uksi/2003/1633/regulation/15/1), [Sch. 2 para. 5(d)](https://www.legislation.gov.uk/uksi/2003/1633/schedule/2/paragraph/5/e)
+
+[^key-16adb008287c65cd9dbbf19a2e26e859]: Commencement: [Sch. para. 10](https://www.legislation.gov.uk/uksi/1998/1130/schedule/paragraph/10) in force at 1.6.1998, see [art. 1](https://www.legislation.gov.uk/uksi/1998/1130/article/1)
+
+[^key-e37c979cc7673fff4f59b548dcd81c1e]: Commencement: [Sch. para. 11](https://www.legislation.gov.uk/uksi/1998/1130/schedule/paragraph/11) in force at 1.6.1998, see [art. 1](https://www.legislation.gov.uk/uksi/1998/1130/article/1)
+
+[^key-c3295519f75ac872dbc67dd1966d0486]: Modification: [Sch. para. 11](https://www.legislation.gov.uk/uksi/1998/1130/schedule/paragraph/11) modified (24.6.2003) by [The Uncertificated Securities (Amendment) (Eligible Debt Securities) Regulations 2003 (S.I. 2003/1633)](https://www.legislation.gov.uk/uksi/2003/1633), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/1633/regulation/1/1), [15(1)](https://www.legislation.gov.uk/uksi/2003/1633/regulation/15/1), [Sch. 2 para. 5(d)](https://www.legislation.gov.uk/uksi/2003/1633/schedule/2/paragraph/5/d)
+
+[^key-e202d386e1b0dbdc635273ce4e680061]: Modification: [Sch. para. 11](https://www.legislation.gov.uk/uksi/1998/1130/schedule/paragraph/11) modified (24.6.2003) by [The Uncertificated Securities (Amendment) (Eligible Debt Securities) Regulations 2003 (S.I. 2003/1633)](https://www.legislation.gov.uk/uksi/2003/1633), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/1633/regulation/1/1), [15(1)](https://www.legislation.gov.uk/uksi/2003/1633/regulation/15/1), [Sch. 2 para. 5(f)](https://www.legislation.gov.uk/uksi/2003/1633/schedule/2/paragraph/5/f)
+
+[^key-3ed4de0988493eb1f76dbf90bba49fc7]: Commencement: [Sch. para. 12](https://www.legislation.gov.uk/uksi/1998/1130/schedule/paragraph/12) in force at 1.6.1998, see [art. 1](https://www.legislation.gov.uk/uksi/1998/1130/article/1)
+
+[^key-17b0214fee09842c0ac2abffd110301b]: Commencement: [Sch. para. 13](https://www.legislation.gov.uk/uksi/1998/1130/schedule/paragraph/13) in force at 1.6.1998, see [art. 1](https://www.legislation.gov.uk/uksi/1998/1130/article/1)

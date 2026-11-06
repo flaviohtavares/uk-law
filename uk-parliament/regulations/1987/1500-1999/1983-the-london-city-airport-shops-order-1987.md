@@ -1,0 +1,66 @@
+---
+title: The London City Airport Shops Order 1987
+id: uksi/1987/1983
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '1987-11-19'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1987/1983
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1987/1983/pdfs/uksi_19871983_en.pdf
+- http://www.legislation.gov.uk/uksi/1987/1983/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The London City Airport Shops Order 1987
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+1987 No. 1983
+
+SHOPS AND OFFICES
+
+The London City Airport Shops Order 1987
+
+Made
+
+19th November 1987
+
+Coming into force
+
+20th November 1987
+
+Whereas it appears to the Secretary of State for Transport that London City Airport is an airport at which there is a substantial amount of international passenger traffic;
+
+Now, therefore, the Secretary of State, in exercise of the powers conferred by section 1(2) of the Shops (Airports) Act 1962[^f00001], and now vested in him[^f00002], hereby makes the following Order:
+
+**1.** This Order may be cited as the London City Airport Shops Order 1987 and shall come into force on 20th November 1987.
+
+**2.** London City Airport is hereby designated for the purposes of section 1 of the Shops (Airports) Act 1962[^f00003] as being an airport at which there appears to the Secretary of State to be a substantial amount of international passenger traffic.
+
+Signed by authority of the Secretary of State
+
+Handley M. G. Stevens
+
+An Under Secretary in the
+
+Department of Transport
+
+19th November 1987
+
+(This note is not part of the Order)
+
+Section 1 of the Shops (Airports) Act 1962, as amended by section 70 of the Airports Act 1986, exempts traders at airports designated for the purposes of the Act as being airports at which there appears to the Secretary of State to be a substantial amount of international passenger traffic from the provisions of Parts I and IV of the Shops Act [1950 (c. 28)](https://www.legislation.gov.uk/ukpga/1950/28), which relate to hours of closing and Sunday trading. By this Order the Secretary of State designates London City Airport as such an airport.
+
+## Annotations
+
+[^f00001]: Footnote: [1962 c. 35](https://www.legislation.gov.uk/ukpga/1962/35).
+
+[^f00002]: Footnote: S.I. [1966/741](https://www.legislation.gov.uk/uksi/1966/741), [1970/1537](https://www.legislation.gov.uk/uksi/1970/1537), [1983/1127](https://www.legislation.gov.uk/uksi/1983/1127).
+
+[^f00003]: Footnote: Section 1 was amended by the Airports Act [1986 (c. 31)](https://www.legislation.gov.uk/ukpga/1986/31), section 70.

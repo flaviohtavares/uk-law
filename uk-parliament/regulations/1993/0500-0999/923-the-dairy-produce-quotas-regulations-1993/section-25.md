@@ -1,0 +1,64 @@
+---
+title: The Dairy Produce Quotas Regulations 1993, section 25
+act: The Dairy Produce Quotas Regulations 1993
+section: '25'
+status: as-enacted
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1993/923/section/25
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Dairy Produce Quotas Regulations 1993, section 25
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+## 25. Registers to be prepared and maintained by the Minister
+
+(1) The Minister shall—
+
+- (a) prepare a direct sales register entry in respect of each direct seller setting out in particular—
+  - (i) his name;
+  - (ii) his address;
+  - (iii) his direct sales quota; and
+  - (iv) quota issued as special quota,
+
+  and shall send each direct seller a copy of the entry relating to him, and
+- (b) maintain—
+  - (i) a direct sales register (being a register of entries referred to in paragraph (1)(a)), and
+  - (ii) a register of particulars of direct sales by each direct seller.
+
+(2) The Minister shall—
+
+- (a) prepare a wholesale register entry in respect of each producer setting out in particular—
+  - (i) his name;
+  - (ii) his address;
+  - (iii) any reference number which serves to identify the producer in the purchaser’s records;
+  - (iv) wholesale quota available to him for the quota year excluding the quota referred to in subparagraph (v);
+  - (v) quota issued as special quota;
+  - (vi) a list—
+    - of the names and addresses of each purchaser whose purchaser quota will be calculated to take into account all or part of that producer’s total wholesale quota, and
+    - of the wholesale quota to be taken into account based on purchaser details to be provided by the producer;
+  - (vii) in respect of each purchaser supplied, his wholesale quota registered with that purchaser, and its butterfat base calculated in accordance with Article 2 of the Commission Regulation,
+
+  and shall send to each producer a copy of the entry relating to him and to each purchaser named on the list referred to in subparagraph (vi) a copy of that part of the entry relating to his purchaser quota, and
+- (b) maintain a wholesale register (being a register of entries referred to in paragraph (2)(a)).
+
+(3) In respect of each purchaser the Minister shall—
+
+- (a) prepare a purchaser notice setting out—
+  - (i) his name;
+  - (ii) his purchaser quota;
+  - (iii) his purchaser special quota;
+
+  and shall send each purchaser a copy of the notice relating to him, and
+- (b) maintain—
+  - (i) a register of purchaser notices; and
+  - (ii) a register of particulars of wholesale deliveries to each purchaser.
+
+(4) For the purposes of paragraphs (1) and (2) above, where a holding comprises more than one dairy enterprise a direct seller or a producer may, on presenting to the Minister a consent or sole interest notice in respect of that holding, agree with the Minister the partition of that holding among separate direct sales register entries or wholesale register entries as specified in the agreement.
+
+(5) The Minister shall amend the registers which he is required by this regulation to maintain to record any allocations or adjustments made under or by virtue of these Regulations, or to make any correction which he considers to be necessary, and shall inform any person to whom an amendment relates and any purchaser affected by an amendment of that amendment, and any person or purchaser affected by a correction of that correction.
+
+(6) In this regulation “direct seller” and “producer” include a person who has moved into occupation of land with quota, whether or not that person is engaged in the sale or delivery of dairy produce.

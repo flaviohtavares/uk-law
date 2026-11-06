@@ -1,0 +1,206 @@
+---
+title: The Quality and Safety of Organs Intended for Transplantation (Amendment) (EU Exit) Regulations 2020
+id: uksi/2020/1305
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2020-11-18'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2020/1305
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2020/1305/pdfs/uksiem_20201305_en.pdf
+- http://www.legislation.gov.uk/uksi/2020/1305/pdfs/uksi_20201305_en.pdf
+- http://www.legislation.gov.uk/uksi/2020/1305/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Quality and Safety of Organs Intended for Transplantation (Amendment) (EU Exit) Regulations 2020
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2020 No. 1305
+
+Exiting The European Union
+
+Human Tissue
+
+The Quality and Safety of Organs Intended for Transplantation (Amendment) (EU Exit) Regulations 2020
+
+Made
+
+18th November 2020
+
+Coming into force in accordance with regulation 1
+
+The Secretary of State makes these Regulations in exercise of the powers conferred by sections 8(1) and 8C of the European Union (Withdrawal) Act 2018[^f00001].
+
+A draft of this instrument has been approved by a resolution of each House of Parliament, in accordance with paragraphs 1 and 8F[^f00002] of Schedule 7 to the European Union (Withdrawal) Act 2018.
+
+## 1. Citation and commencement
+
+These Regulations may be cited as the Quality and Safety of Organs Intended for Transplantation (Amendment) (EU Exit) Regulations 2020 and come into force immediately before IP completion day.
+
+## 2. Amendment of the Quality and Safety of Organs Intended for Transplantation (Amendment) (EU Exit) Regulations 2019
+
+The Quality and Safety of Organs Intended for Transplantation (Amendment) (EU Exit) Regulations 2019[^f00003] are amended as follows.
+
+## 3. Substitution of regulation 2(2)
+
+For regulation 2(2) (amendment of the Human Tissue Act 2004[^f00004]) substitute—
+
+> (2) For subsection (3A) substitute—
+>
+> > (3A) The Authority may not designate a person under subsection (3) if doing so would be incompatible with the principles set out in—
+> >
+> > - (a) Article 12 of [Directive 2004/23/EC](https://www.legislation.gov.uk/european/directive/2004/0023) of the European Parliament and of the Council on setting standards of quality and safety for the donation, procurement, testing, processing, preservation, storage and distribution of human tissues and cells, or
+> > - (b) Article 13 of [Directive 2010/53/EU](https://www.legislation.gov.uk/european/directive/2010/0053) of the European Parliament and of the Council on standards of quality and safety of human organs intended for transplantation,
+> >
+> > and for the purposes of this subsection as it applies in relation to Great Britain, those Articles of those Directives are to be read subject to the modifications set out in subsections (3B) and (3C).
+>
+> .
+
+.
+
+## 4. Amendment of regulation 3(2)
+
+In regulation 3(2)—
+
+- (a) for paragraph (b)(i) substitute—
+
+  > - in the definition of “the Directive”, at the end insert “, as it applies in relation to Northern Ireland”;
+
+  ;
+- (b) for paragraph (b)(ii) substitute—
+
+  > - in the definition of “the Implementing Directive”, at the end insert “, as it applies in relation to Northern Ireland”;
+
+  ;
+- (c) in the new paragraph (2) inserted by paragraph (c), after “In these Regulations,” insert “as they apply in relation to Great Britain,”.
+
+## 5. Substitution of regulation 3(3)
+
+For regulation 3(3) substitute—
+
+> (3) For regulation 4 (designation of the competent authority) substitute—
+>
+> > **4. Designation of the competent authority in relation to Northern Ireland**
+> >
+> > In relation to Northern Ireland, the Authority is designated the competent authority for the purposes of the Directive.
+>
+> .
+
+.
+
+## 6. Amendment of regulation 3(5)
+
+In regulation 3(5), for “these Regulations” substitute “these Regulations, as they apply in relation to Great Britain, and with the Directive and the Implementing Directive, as they apply in relation to Northern Ireland”.
+
+## 7. Amendment of regulation 3(6)
+
+In regulation 3(6), for “these Regulations” substitute “these Regulations, as they apply in relation to Great Britain, and with the Directive and the Implementing Directive, as they apply in relation to Northern Ireland”.
+
+## 8. Substitution of regulation 3(8)
+
+For regulation 3(8) substitute—
+
+> (8) For regulation 18 (organs sent to or received from another country), substitute—
+>
+> > **18.** (1) Where an organ is sent to a Member State from Northern Ireland, the Authority shall ensure that—
+> >
+> > - (a) information on organ and donor characterisation that is specified in Part A of the Annex to the Directive;
+> > - (b) information that has been collected by a registered medical practitioner or a person acting under their supervision that is required by Part B of the Annex at the time when the organ is sent to a Member State; and
+> > - (c) information to ensure the traceability of the organ,
+> >
+> > is transmitted to that Member State in conformity with the requirements of Articles 4, 5, and 6(1) of the Implementing Directive.
+> >
+> > (2) Where an organ is received in Northern Ireland from a Member State, the Authority shall ensure that—
+> >
+> > - (a) the requirements of Article 4 of the Implementing Directive in relation to information transmitted to the Authority in accordance with that Directive in respect of the organ have been complied with; and
+> > - (b) information to ensure the traceability of the organ is transmitted in accordance with Article 6(2) of that Directive.
+> >
+> > (3) Where an organ is sent from Northern Ireland to, or received in Northern Ireland from, a Member State, the Authority shall ensure the reporting of serious adverse events and reactions in conformity with the requirements of Articles 4 and 7 of the Implementing Directive.
+> >
+> > (4) The Authority shall ensure that any organs sent from Northern Ireland to, or received in Northern Ireland from, countries which are not in the European Union—
+> >
+> > - (a) can be traced from the donor to the recipient; and
+> > - (b) meet quality and safety standards that are equivalent to those required by these Regulations.
+> >
+> > (5) The Authority shall ensure that any organs sent from Great Britain to, or received in Great Britain from, countries outside the United Kingdom—
+> >
+> > - (a) can be traced from the donor to the recipient; and
+> > - (b) meet quality and safety standards that are equivalent to those required by these Regulations.
+> >
+> > (6) For the purposes of paragraphs (4) and (5), the Authority may conclude agreements with countries outside the United Kingdom.
+>
+> .
+
+.
+
+## 9. Substitution of regulation 3(9)
+
+For regulation 3(9) substitute—
+
+> (9) In regulation 19 (European Union network of competent authorities), after “The Authority shall,” insert “in relation to Northern Ireland,
+
+.
+
+## 10. Amendment of regulation 3(11)
+
+In regulation 3(11), in respect of Part 5A as inserted by that regulation—
+
+- (a) in the title of the Part, after “Schedule 1A” insert “in relation to Great Britain”;
+- (b) in the heading to regulation 24A, after “Schedule 1A” insert “in relation to Great Britain”;
+- (c) in paragraph (1) of regulation 24A, for the words before sub-paragraph (a), substitute “An appropriate authority in Great Britain may by regulations amend—”;
+- (d) in paragraph (2)—
+  - (i) omit sub-paragraph (d);
+  - (ii) for paragraph (e) substitute—
+
+    > - (e) for the whole of Great Britain, the Secretary of State acting with the consent of the Welsh Ministers and the Scottish Ministers.
+
+    ;
+- (e) in regulation 24B, omit paragraph (3);
+- (f) in regulation 24C, omit paragraph (4).
+
+## 11. Substitution of regulation 3(14)(b)
+
+For regulation 3(14)(b) substitute—
+
+> - (b) for paragraph 3 substitute—
+>
+>   > **3.** For the purpose of ensuring compliance with the requirements of Articles 4(1), 4(2), 4(3), 5(2) and 5(3) of the Implementing Directive in relation to Northern Ireland, the Authority shall specify in directions given under section 23(1) of the 2004 Act the requirements relating to the transmission of information that apply to a licence holder when an organ is sent to, or received from, a Member State.
+>
+>   .
+
+.
+
+Edward Argar
+
+Minister of State,
+
+Department of Health and Social Care
+
+18th November 2020
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations are made in exercise of the powers in sections 8(1) and 8C of the European Union (Withdrawal) Act [2018 (c. 16)](https://www.legislation.gov.uk/ukpga/2018/16) in order to address failures of retained EU law to operate effectively and other deficiencies (in particular under section 8(2)(a), (f) and (g) of that Act) arising from the withdrawal of the United Kingdom from the European Union, and in order to give effect to the Protocol on Ireland/Northern Ireland in the withdrawal agreement, respectively.
+
+They amend the Quality and Safety of Organs Intended for Transplantation (Amendment) (EU Exit) Regulations 2019 ([S.I. 2019/483](https://www.legislation.gov.uk/uksi/2019/483)) so as to enable the provision amended by those Regulations to continue to operate effectively in light of the Ireland/Northern Ireland Protocol following IP completion day.
+
+An impact assessment has not been produced for this instrument as no, or no significant, impact on the private or voluntary sector is foreseen.
+
+## Annotations
+
+[^f00001]: Footnote: [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16). The European Union (Withdrawal) Act 2018 was amended by the European Union (Withdrawal Agreement) Act [2020 (c. 1)](https://www.legislation.gov.uk/ukpga/2020/1) (“the 2020 Act”); section 8C was inserted by section 21 of that Act.
+
+[^f00002]: Footnote: Paragraph 8F was inserted by paragraph 51 of Schedule 5 to the 2020 Act.
+
+[^f00003]: Footnote: [S.I. 2019/483](https://www.legislation.gov.uk/uksi/2019/483).
+
+[^f00004]: Footnote: [2004 c. 30](https://www.legislation.gov.uk/ukpga/2004/30). Section 32 was amended by [S.I. 2012/1501](https://www.legislation.gov.uk/uksi/2012/1501) and [2014/1459](https://www.legislation.gov.uk/uksi/2014/1459).

@@ -1,0 +1,37 @@
+---
+title: Weights and Measures Act 1985, section 45
+act: Weights and Measures Act 1985
+section: '45'
+status: revised-with-pending-changes
+text_date: '2023-05-03'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/ukpga/1985/72/section/45
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Weights and Measures Act 1985, section 45
+
+> **Warning: changes not yet applied to this text (4).** Text as at 2023-05-03. See https://www.legislation.gov.uk/changes/affected/ukpga/1985/72
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 45. Making quantity known to a person.
+
+*Extent: E+W+S*
+
+(1) For the purposes of this Part of this Act, without prejudice to any other method of making known to a person the quantity of any goods expressed in a particular manner, that quantity shall be taken to be made known to that person—
+
+- (a) if the goods are weighed or otherwise measured or counted, as the case may require, in the presence of that person,
+- (b) if the goods are made up in or on a container marked with a statement in writing of the quantity of the goods expressed in the manner in question and the container is readily available for inspection by that person, or
+- (c) upon such a statement in writing being delivered to that person.
+
+(2) The Secretary of State may by order provide that subsection (3) below shall apply, in the case of such goods in such circumstances as are specified in the order, to any requirement so specified of, or of any instrument made under, this Part of this Act with respect to the making known to the buyer of the quantity by weight of such goods sold by retail.
+
+(3) In any case to which this subsection applies, the requirement specified in the order shall be taken to be satisfied if the goods are bought at premises at which weighing equipment of such description as may be prescribed—
+
+- (a) is kept available by the occupier of those premises for use without charge by any prospective buyer of such goods for the purpose of weighing for himself any such goods offered or exposed for sale by retail on those premises, and
+- (b) is so kept available in a position on those premises which is suitable and convenient for such use of the equipment, and
+- (c) is reserved for use for that purpose at all times while those premises are open for retail transactions,
+
+and a notice of the availability of the equipment for such use is displayed in a position on the premises where it may be readily seen by any such prospective buyer.

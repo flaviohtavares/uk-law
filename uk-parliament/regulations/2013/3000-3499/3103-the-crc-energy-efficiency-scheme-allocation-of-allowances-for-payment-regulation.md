@@ -1,0 +1,374 @@
+---
+title: The CRC Energy Efficiency Scheme (Allocation of Allowances for Payment) Regulations 2013
+id: uksi/2013/3103
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2013-12-05'
+text_date: '2017-03-31'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2013/3103
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2013/3103/pdfs/uksiem_20133103_en.pdf
+- http://www.legislation.gov.uk/uksi/2013/3103/pdfs/uksi_20133103_en.pdf
+- http://www.legislation.gov.uk/uksi/2013/3103/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The CRC Energy Efficiency Scheme (Allocation of Allowances for Payment) Regulations 2013
+
+> Text as at 2017-03-31.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2013 No. 3103
+
+Climate Change
+
+Emissions Trading
+
+The CRC Energy Efficiency Scheme (Allocation of Allowances for Payment) Regulations 2013
+
+Made
+
+5th December 2013
+
+Laid before the House of Commons
+
+9th December 2013
+
+Coming into force
+
+1st February 2014
+
+The Treasury make the following Regulations in exercise of the powers conferred by section 21(1), (2) and (3) of the Finance Act 2008[^f00001].
+
+## PART 1 — INTRODUCTORY
+
+### 1. Citation and commencement[^key-416f75d4018c0c4c59bcd973b3915396]
+
+These Regulations may be cited as the CRC Energy Efficiency Scheme (Allocation of Allowances for Payment) Regulations 2013 and come into force on 1st February 2014.
+
+### 2. Interpretation[^key-951a940193fade2d0d215a5dd75240a1]
+
+(1) In these Regulations—
+
+- “the 2010 Order” means the CRC Energy Efficiency Scheme Order 2010[^f00002];
+- “the 2012 Regulations” means the CRC Energy Efficiency Scheme (Allocation of Allowances for Payment) Regulations 2012[^f00003];
+- “the 2013 Amendment Regulations” means the CRC Energy Efficiency Scheme (Allocation of Allowances for Payment) (Amendment) Regulations 2013[^f00004];
+- “the 2013 Order” means the CRC Energy Efficiency Scheme Order 2013[^f00005];
+- “allocation” means an allocation of allowances conducted in accordance with Part 2 of these Regulations;
+- “allocation period” means either the forecast allocation period or the compliance allocation period as determined in accordance with regulation 3;
+- “allowance” means carbon reduction trading scheme allowances allocated and issued by the Environment Agency pursuant to these Regulations;
+- “application period” means either the forecast application period or the compliance application period as determined in accordance with regulation 3;
+- “registry account” means an account established by the Environment Agency as required by paragraph 1(1) of Schedule 6 to the 2013 Order;
+- “special allocation” means an allocation conducted following the issue of an enforcement notice or a notice of a civil penalty requiring allowances to be acquired for the purposes of articles 74(4)(b) and 77(2)(a)(i) of the 2013 Order; and
+- “standard allocation” means an allocation of allowances which is not a special allocation.
+
+(2) The following words and phrases in these Regulations have the same meaning as in the 2013 Order:
+
+- “account holder”;
+- “civil penalty”;
+- “compliance account”;
+- “enforcement notice”;
+- “first phase”
+- “group”;
+- “participant”;
+- “proper address”;
+- “the Registry”;
+- “working day”; and
+- “year”.
+
+## PART 2 — ALLOCATIONS
+
+### 3. Determination of periods[^key-131af5747b5cbff2435f01babe6085f6]
+
+(1) In each year until 2018[^key-1eb2d765fadfda4c3d74d2ff3f198dd5], the periods named in the first column of the following table are as set out in the second column.
+
+| *Column 1* | *Column 2* |
+| --- | --- |
+| The forecast application period | begins on 1st April and ends on 30th April. |
+| The forecast payment period | begins on 1st June and ends on 20th June. |
+| The forecast allocation period | begins on 1st June and ends on 15th July. |
+| The compliance application period | begins on 1st June and ends on 31st July. |
+| The compliance payment period | begins on 1st September and ends on 19th September. |
+| The compliance allocation period | begins on 1st September and ends on 15th October. |
+
+(1A)[^key-1adafff7d03df65e176a93555cdd2e14] In 2019, there is no forecast application period, forecast payment period or forecast allocation period but there will be a compliance application period, compliance payment period and compliance allocation period as set out in the table in paragraph (1).
+
+(2) Where a period referred to in the second column begins on a day which is not a working day, the period is to begin on the next working day.
+
+(3) Where a period referred to in the second column ends on a day which is not a working day, the period is to end on the previous working day.
+
+### 4. Conduct of allocations[^key-89d570866acc56c5b2c7fd571af49df4]
+
+(1) The Environment Agency[^f00006] must conduct allocations of allowances in return for payment to the Secretary of State.
+
+(2) The Environment Agency—
+
+- (a) may only conduct standard allocations during an allocation period; and
+- (b) may conduct special allocations at any time.
+
+### 5. Requests for allocation of allowances[^key-2adaa918b7f32b8deb4acf72dafb65fe]
+
+(1) An account holder of a compliance account wishing to be allocated allowances must submit a request to the Environment Agency.
+
+(2) An account holder may only make a request to be allocated allowances—
+
+- (a) during an application period; or
+- (b) where the request is for a special allocation.
+
+(3) A request for allowances to be allocated must specify—
+
+- (a) the number of allowances that the account holder wishes to acquire;
+- (b) the name of the account holder making the request;
+- (c) the registry account to which the allowances allocated are to be issued; and
+- (d) whether the request relates to a standard allocation or a special allocation.
+
+(4) Unless otherwise agreed by the Environment Agency, the request must be made using such facilities as are provided by the Registry.
+
+(5) An account holder may make multiple requests in respect of each application period.
+
+### 6. Allocations[^key-e5df222b9e7263aad6aef1a4cef0541b]
+
+(1) On receipt by the Secretary of State of payment for allowances in accordance with regulation 7, the Environment Agency must, as soon as reasonably practicable, issue the requested number of allowances to the account holder’s compliance account.
+
+(2) Where payment is not received in full the Environment Agency must allocate allowances up to the value for which payment has been received.
+
+### 7. Payment for allowances[^key-f6034d8393720f7f4d6734e1f557d282]
+
+(A1)[^key-f8ff9f2471164dc0208f48dfd70a9caa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(1) The amount required to be paid for each allowance at a standard allocation requested [^key-608f516a6a1f34b6b59bc62bf52a425f]...—
+
+- (a) in a forecast application period in 2015[^key-22593e2536255d236fd66358c20f72b4] is £15.60;
+- (b) in a compliance application period in 2015[^key-11a5f8e6bab89a63899722274b213085] is £16.40;
+- (c)[^key-083d74ad0a7f0a5125fa8c436bf98bef] in a forecast application period in 2016[^key-2df75da1d05f96943791f1521669b0e3] is £16.10;
+- (d) in a compliance application period in 2016[^key-386cb4312ffbb926fdc52f2365241798] is £16.90;
+- (e)[^key-0e438f6c562c3ad83f90412c2a1ea4c2] in a forecast application period in 2017 is £16.60;
+- (f) in a compliance application period in 2017 is £17.20;
+- (g) in a forecast application period in 2018 is £17.20;
+- (h) in a compliance application period in 2018 is £17.70;
+- (g) in the compliance application period in 2019 is £18.30.
+
+(2)[^key-f65119d53b339f4b601318e3718c1bef] The amount required to be paid for each allowance at a special allocation—
+
+- (a) in relation to 2014 is £12;
+- (b) in relation to 2015 is £16.40;[^key-782bc8677ce3ba1f36e196b70277a94b]
+- (c) in relation to 2016[^key-bfe094935e6be0583a1f7358524ae12e] is £16.90;
+- (d)[^key-5cc37ad7f7ebac1a73a1bfeaad101eb5] in relation to 2017 is £17.20;
+- (e) in relation to 2018 is £17.70;
+- (f) in relation to 2019 is £18.30.
+
+(3) Payment for standard allocations requested in a forecast application period must be made during the forecast payment period in that year.
+
+(4) Payment for standard allocations requested in a compliance application period must be made during the compliance payment period in that year.
+
+(5) Unless otherwise agreed with the Environment Agency, payment for allocations requested for a special allocation must be made—
+
+- (a) no later than the date specified in the enforcement notice or within 5 working days of the effective date of a notice of a civil penalty; or
+- (b) where the relevant notice is appealed, no later than the end of the fifth working day following the day on which the appeal is finally determined.
+
+(6) Where payment is received after the time required under paragraphs (3), (4) or (5), or where a balance is remaining after allowances have been allocated under regulation 6(2), the Secretary of State must, on request from the account holder making the payment repay the payment or balance to the account holder making the request as soon as reasonably practicable.
+
+(7) When making a repayment in accordance with paragraph (6), the Secretary of State may deduct any costs reasonably incurred in doing so.
+
+## PART 3 — GENERAL
+
+### 8. Fees[^key-3ea9736dbdbaea269c0dce2607275dd7]
+
+(1) The Environment Agency may require the payment of a fee by an account holder who requests the allocation of allowances.
+
+(2) The amount of the fee may not exceed the Environment Agency’s reasonable costs of allocating the allowances.
+
+(3) Where the Environment Agency requires the payment of such a fee in relation to an allocation, the Environment Agency must, prior to the allocation, give notice of the amount of the fee to the account holder who has requested the allocation of allowances.
+
+(4) Where an account holder has not paid, in full, a fee notified under this regulation, any outstanding amount is recoverable as a civil debt due to the Environment Agency.
+
+### 9. Payments[^key-abc207c64bd77c87858081c5f7ea81e0]
+
+(1) Payments under these Regulations must be made into a bank account nominated—
+
+- (a) for allowances, by the Secretary of State; and
+- (b) for fees under regulation 8, by the Environment Agency.
+
+(2) Payments under these Regulations must be—
+
+- (a) made by electronic transfer from an account with a credit institution;
+- (b) accompanied by information which identifies the account holder making the payment; and
+- (c) in sterling.
+
+(2A)[^key-671416afdf5a815ea7712263599810df] Payments under these Regulations may not be made by credit card.
+
+(3) Payment is deemed to have been made for allowances when the Secretary of State receives cleared funds.
+
+(4) Payment is deemed to have been made for fees when the Environment Agency receives cleared funds.
+
+(5) In this regulation “credit institution” means—
+
+- (a) an institution which has permission under Part 4A of the Financial Services and Markets Act 2000[^f00007] to carry on the regulated activity of accepting deposits (within the meaning of section 22 of that Act, taken with Schedule 2 and any order under section 22) or a person authorised to carry on similar activities under the law of a country other than the United Kingdom; or
+- (b) an electronic money institution as defined by article 2 of [Directive 2009/110/EC](https://www.legislation.gov.uk/european/directive/2009/0110) of the European Parliament and of the Council on the taking up, pursuit and prudential supervision of the business of electronic money institutions amending Directives [2005/60/EC](https://www.legislation.gov.uk/european/directive/2005/0060) and [2006/48/EC](https://www.legislation.gov.uk/european/directive/2006/0048) and repealing [Directive 2000/46/EC](https://www.legislation.gov.uk/european/directive/2000/0046)[^f00008].
+
+(6)[^key-fc9849b39a25012e1869554af599444a] In this regulation “credit card” means a card which is a credit-token within the meaning of section 14 of the Consumer Credit Act 1974.
+
+### 10. Issue of excess allowances[^key-a1553a81a8fd8162354eea92d204b202]
+
+(1) Where it comes to the notice of the Environment Agency that it has issued to an account holder allowances in excess of the number of allowances which have been validly requested and paid for, then as soon as reasonably practicable the Environment Agency must—
+
+- (a) cancel the excess allowances; and
+- (b) notify the account holder that the allowances have been cancelled.
+
+(2) Paragraph (1) does not apply where an account holder has sold or otherwise dealt in any excess allowances.
+
+(3) In that event the Environment Agency—
+
+- (a) must not cancel the excess allowances; and
+- (b) may require that account holder to pay the amount which would have been payable for the allowances determined in accordance with regulation 7 multiplied by the number of excess allowances.
+
+(4) If payment required under paragraph (3) is not received in full by a date specified by the Environment Agency, any outstanding amount is payable by the participant on demand by the Environment Agency and each member of a group is jointly and severally liable to comply with such a demand.
+
+(5) Any outstanding amount under paragraph (4) is recoverable as a civil debt due to the Environment Agency.
+
+### 11. Financial provision[^key-e9d1a40d8a99245f68139c27c6dba3e8]
+
+(1) Except for any sums received by the Environment Agency by way of fees pursuant to regulation 8, any sums received by the Environment Agency under or by virtue of these Regulations shall be paid to the Secretary of State.
+
+(2) Any sums received by the Secretary of State under or by virtue of these Regulations shall be paid into the Consolidated Fund.
+
+### 12. Notices[^key-ae1eea443da1e9bed3c1763e5e49ef3d]
+
+(1) Any notice or document to be given under these Regulations by the Environment Agency may be in such form as the Environment Agency thinks fit and may be included as part of any other notice or communication by the Environment Agency to the person in question.
+
+(2) Subject to paragraph (4), a notice or document may be served on or given to a person (which includes a member of an unincorporated association) by—
+
+- (a) delivering it to that person in person;
+- (b) leaving it at that person’s proper address;
+- (c) sending it by post or electronic means to that person’s proper address; or
+- (d) in the case of an account holder, using such facilities as are provided by the Registry.
+
+(3) For the purposes of paragraph (2), a notice or document is served on or given to a person in the case of—
+
+- (a) a body corporate, where it is served on or given to the director, secretary or clerk of that body;
+- (b) a partnership, where it is served on or given to a partner or a person having control or management of the partnership business;
+- (c) an unincorporated association, where it is served on or given to a person having management responsibilities in respect of the association.
+
+(4) A notice or document may be served on a person by sending it to the email address provided under paragraph 2, 3(a)(ii) or (b) or 4 of Schedule 4 to the 2013 Order.
+
+(5) Except where paragraph (4) applies, if a person to be served with or given a document has specified an address in the United Kingdom (other than that person’s proper address) at which that person or someone on that person’s behalf will accept documents of that description, that address must instead be treated as that person’s proper address.
+
+(6) For the purposes of paragraph (2), the principal office of a company registered outside the United Kingdom or of a partnership established outside the United Kingdom is its principal office in the United Kingdom.
+
+(7) Where a participant is a group and the Environment Agency gives any communication to the account holder, that communication is made to each member of the group.
+
+## PART 4 — REVOCATION AND SAVING
+
+### 13. Revocation and saving[^key-ecfe4d3ab850965390563bde2a718f54]
+
+(1) Subject to paragraphs (2) and (3), the 2012 Regulations and the 2013 Amendment Regulations are revoked.
+
+(2) The 2012 Regulations and the 2013 Amendment Regulations continue to have effect in relation to special allocations in relation to the first phase under the 2010 Order.
+
+(3) Where it comes to the notice of the Environment Agency (whether before or after the coming into force of these Regulations) that it has issued to an account holder allowances in excess of the number of allowances which have been validly requested and paid for under the 2012 Regulations, regulation 11 of those Regulations applies.
+
+Karen Bradley
+
+Anne Milton
+
+Two of the Lords Commissioners of Her Majesty’s Treasury
+
+5th December 2013
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations revoke and replace the CRC Energy Efficiency Scheme (Allocation of Allowances for Payment) Regulations 2012 \[[S.I. 2012/1386](https://www.legislation.gov.uk/uksi/2012/1386)\].
+
+The Regulations set out that the Environment Agency will conduct allocations of carbon trading scheme allowances in the carbon trading scheme established under Part 3 of the Climate Change Act 2008. They set the timing of requests to be allocated allowances and govern the payment for and issue of allowances.
+
+They set the price of allowances, the consequences of late or non-payment and the consequences of a transfer of excess allowances.
+
+They provide for the Environment Agency to charge fees to cover the costs of allocating allowances.
+
+These Regulations are covered by the full impact assessment produced in relation to the CRC Energy Efficiency Scheme Order 2013, which contains an assessment of the effect that both these Regulations and that Order, taken together, will have on the costs of business and the voluntary sector. That assessment is annexed to the Explanatory Memorandum to the CRC Energy Efficiency Scheme Order 2013 which is available alongside the instrument on www.legislation.gov.uk or from the Department for Energy and Climate Change, 3 Whitehall Place, London, SW1A 2AW.
+
+## Annotations
+
+[^f00001]: Footnote: [2008 c.9](https://www.legislation.gov.uk/ukpga/2008/9).
+
+[^key-416f75d4018c0c4c59bcd973b3915396]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2013/3103/regulation/1) in force at 1.2.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/3103/regulation/1)
+
+[^key-951a940193fade2d0d215a5dd75240a1]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2013/3103/regulation/2) in force at 1.2.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/3103/regulation/1)
+
+[^f00002]: Footnote: [S.I. 2010/768](https://www.legislation.gov.uk/uksi/2010/768), amended by [S.I. 2011/234](https://www.legislation.gov.uk/uksi/2011/234) and [S.I. 2013/1119](https://www.legislation.gov.uk/uksi/2013/1119).
+
+[^f00003]: Footnote: [S.I. 2012/1386](https://www.legislation.gov.uk/uksi/2012/1386), amended by [S.I. 2013/1097](https://www.legislation.gov.uk/uksi/2013/1097).
+
+[^f00004]: Footnote: [S.I. 2013/1097](https://www.legislation.gov.uk/uksi/2013/1097).
+
+[^f00005]: Footnote: [S.I. 2013/1119](https://www.legislation.gov.uk/uksi/2013/1119).
+
+[^key-131af5747b5cbff2435f01babe6085f6]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2013/3103/regulation/3) in force at 1.2.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/3103/regulation/1)
+
+[^key-1eb2d765fadfda4c3d74d2ff3f198dd5]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/uksi/2013/3103/regulation/3) inserted (31.3.2017) by [The CRC Energy Efficiency Scheme (Allocation of Allowances for Payment) (Amendment) Regulations 2017 (S.I. 2017/211)](https://www.legislation.gov.uk/uksi/2017/211), [regs. 1](https://www.legislation.gov.uk/uksi/2017/211/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2017/211/regulation/2/2/a)
+
+[^key-1adafff7d03df65e176a93555cdd2e14]: Textual amendment: [Reg. 3(1A)](https://www.legislation.gov.uk/uksi/2013/3103/regulation/3/1A) inserted (31.3.2017) by [The CRC Energy Efficiency Scheme (Allocation of Allowances for Payment) (Amendment) Regulations 2017 (S.I. 2017/211)](https://www.legislation.gov.uk/uksi/2017/211), [regs. 1](https://www.legislation.gov.uk/uksi/2017/211/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2017/211/regulation/2/2/b)
+
+[^key-89d570866acc56c5b2c7fd571af49df4]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2013/3103/regulation/4) in force at 1.2.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/3103/regulation/1)
+
+[^f00006]: Footnote: established under section 1(1) of the Environment Act [1995 (c.25)](https://www.legislation.gov.uk/ukpga/1995/25).
+
+[^key-2adaa918b7f32b8deb4acf72dafb65fe]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2013/3103/regulation/5) in force at 1.2.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/3103/regulation/1)
+
+[^key-e5df222b9e7263aad6aef1a4cef0541b]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2013/3103/regulation/6) in force at 1.2.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/3103/regulation/1)
+
+[^key-f6034d8393720f7f4d6734e1f557d282]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2013/3103/regulation/7) in force at 1.2.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/3103/regulation/1)
+
+[^key-f8ff9f2471164dc0208f48dfd70a9caa]: Textual amendment: [Reg. 7(A1)](https://www.legislation.gov.uk/uksi/2013/3103/regulation/7/A1) omitted (1.4.2015) by virtue of [The CRC Energy Efficiency Scheme (Allocation of Allowances for Payment) (Amendment) (No. 2) Regulations 2014 (S.I. 2014/3262)](https://www.legislation.gov.uk/uksi/2014/3262), [regs. 1](https://www.legislation.gov.uk/uksi/2014/3262/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2014/3262/regulation/2/2/a)
+
+[^key-608f516a6a1f34b6b59bc62bf52a425f]: Textual amendment: Words in [reg. 7(1)](https://www.legislation.gov.uk/uksi/2013/3103/regulation/7/1) omitted (1.4.2015) by virtue of [The CRC Energy Efficiency Scheme (Allocation of Allowances for Payment) (Amendment) (No. 2) Regulations 2014 (S.I. 2014/3262)](https://www.legislation.gov.uk/uksi/2014/3262), [regs. 1](https://www.legislation.gov.uk/uksi/2014/3262/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2014/3262/regulation/2/2/b)
+
+[^key-22593e2536255d236fd66358c20f72b4]: Textual amendment: Words in [reg. 7(1)(a)](https://www.legislation.gov.uk/uksi/2013/3103/regulation/7/1/a) inserted (1.4.2015) by [The CRC Energy Efficiency Scheme (Allocation of Allowances for Payment) (Amendment) (No. 2) Regulations 2014 (S.I. 2014/3262)](https://www.legislation.gov.uk/uksi/2014/3262), [regs. 1](https://www.legislation.gov.uk/uksi/2014/3262/regulation/1), [2(2)(c)](https://www.legislation.gov.uk/uksi/2014/3262/regulation/2/2/c)
+
+[^key-11a5f8e6bab89a63899722274b213085]: Textual amendment: Words in [reg. 7(1)(b)](https://www.legislation.gov.uk/uksi/2013/3103/regulation/7/1/b) inserted (1.4.2015) by [The CRC Energy Efficiency Scheme (Allocation of Allowances for Payment) (Amendment) (No. 2) Regulations 2014 (S.I. 2014/3262)](https://www.legislation.gov.uk/uksi/2014/3262), [regs. 1](https://www.legislation.gov.uk/uksi/2014/3262/regulation/1), [2(2)(c)](https://www.legislation.gov.uk/uksi/2014/3262/regulation/2/2/c)
+
+[^key-083d74ad0a7f0a5125fa8c436bf98bef]: Textual amendment: [Reg. 7(1)(c)](https://www.legislation.gov.uk/uksi/2013/3103/regulation/7/1/c)[(d)](https://www.legislation.gov.uk/uksi/2013/3103/regulation/7/1/d) inserted (1.4.2015) by [The CRC Energy Efficiency Scheme (Allocation of Allowances for Payment) (Amendment) (No. 2) Regulations 2014 (S.I. 2014/3262)](https://www.legislation.gov.uk/uksi/2014/3262), [regs. 1](https://www.legislation.gov.uk/uksi/2014/3262/regulation/1), [2(2)(d)](https://www.legislation.gov.uk/uksi/2014/3262/regulation/2/2/d)
+
+[^key-2df75da1d05f96943791f1521669b0e3]: Textual amendment: Words in [reg. 7(1)(c)](https://www.legislation.gov.uk/uksi/2013/3103/regulation/7/1/c) substituted (31.3.2017) by [The CRC Energy Efficiency Scheme (Allocation of Allowances for Payment) (Amendment) Regulations 2017 (S.I. 2017/211)](https://www.legislation.gov.uk/uksi/2017/211), [regs. 1](https://www.legislation.gov.uk/uksi/2017/211/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2017/211/regulation/2/3/a)
+
+[^key-386cb4312ffbb926fdc52f2365241798]: Textual amendment: Words in [reg. 7(1)(d)](https://www.legislation.gov.uk/uksi/2013/3103/regulation/7/1/d) substituted (31.3.2017) by [The CRC Energy Efficiency Scheme (Allocation of Allowances for Payment) (Amendment) Regulations 2017 (S.I. 2017/211)](https://www.legislation.gov.uk/uksi/2017/211), [regs. 1](https://www.legislation.gov.uk/uksi/2017/211/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2017/211/regulation/2/3/a)
+
+[^key-0e438f6c562c3ad83f90412c2a1ea4c2]: Textual amendment: [Reg. 7(1)(e)-(g)](https://www.legislation.gov.uk/uksi/2013/3103/regulation/7/1/e) inserted (31.3.2017) by virtue of [The CRC Energy Efficiency Scheme (Allocation of Allowances for Payment) (Amendment) Regulations 2017 (S.I. 2017/211)](https://www.legislation.gov.uk/uksi/2017/211), [regs. 1](https://www.legislation.gov.uk/uksi/2017/211/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2017/211/regulation/2/3/b)
+
+[^key-f65119d53b339f4b601318e3718c1bef]: Textual amendment: [Reg. 7(2)](https://www.legislation.gov.uk/uksi/2013/3103/regulation/7/2) substituted (1.4.2014) by [The CRC Energy Efficiency Scheme (Allocation of Allowances for Payment) (Amendment) Regulations 2014 (S.I. 2014/495)](https://www.legislation.gov.uk/uksi/2014/495), [regs. 1](https://www.legislation.gov.uk/uksi/2014/495/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2014/495/regulation/2/4)
+
+[^key-782bc8677ce3ba1f36e196b70277a94b]: Textual amendment: [Reg. 7(2)(b)](https://www.legislation.gov.uk/uksi/2013/3103/regulation/7/2/b)[(c)](https://www.legislation.gov.uk/uksi/2013/3103/regulation/7/2/c) substituted for [reg. 7(2)(b)](https://www.legislation.gov.uk/uksi/2013/3103/regulation/7/2/b) (1.4.2015) by [The CRC Energy Efficiency Scheme (Allocation of Allowances for Payment) (Amendment) (No. 2) Regulations 2014 (S.I. 2014/3262)](https://www.legislation.gov.uk/uksi/2014/3262), [regs. 1](https://www.legislation.gov.uk/uksi/2014/3262/regulation/1), [2(2)(e)](https://www.legislation.gov.uk/uksi/2014/3262/regulation/2/2/e)
+
+[^key-bfe094935e6be0583a1f7358524ae12e]: Textual amendment: Words in [reg. 7(2)(c)](https://www.legislation.gov.uk/uksi/2013/3103/regulation/7/2/c) substituted (31.3.2017) by [The CRC Energy Efficiency Scheme (Allocation of Allowances for Payment) (Amendment) Regulations 2017 (S.I. 2017/211)](https://www.legislation.gov.uk/uksi/2017/211), [regs. 1](https://www.legislation.gov.uk/uksi/2017/211/regulation/1), [2(3)(c)](https://www.legislation.gov.uk/uksi/2017/211/regulation/2/3/c)
+
+[^key-5cc37ad7f7ebac1a73a1bfeaad101eb5]: Textual amendment: [Reg. 7(2)(d)-(f)](https://www.legislation.gov.uk/uksi/2013/3103/regulation/7/2/d) inserted (31.3.2017) by [The CRC Energy Efficiency Scheme (Allocation of Allowances for Payment) (Amendment) Regulations 2017 (S.I. 2017/211)](https://www.legislation.gov.uk/uksi/2017/211), [regs. 1](https://www.legislation.gov.uk/uksi/2017/211/regulation/1), [2(3)(d)](https://www.legislation.gov.uk/uksi/2017/211/regulation/2/3/d)
+
+[^key-3ea9736dbdbaea269c0dce2607275dd7]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2013/3103/regulation/8) in force at 1.2.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/3103/regulation/1)
+
+[^key-abc207c64bd77c87858081c5f7ea81e0]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2013/3103/regulation/9) in force at 1.2.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/3103/regulation/1)
+
+[^key-671416afdf5a815ea7712263599810df]: Textual amendment: [Reg. 9(2A)](https://www.legislation.gov.uk/uksi/2013/3103/regulation/9/2A) inserted (1.4.2015) by [The CRC Energy Efficiency Scheme (Allocation of Allowances for Payment) (Amendment) (No. 2) Regulations 2014 (S.I. 2014/3262)](https://www.legislation.gov.uk/uksi/2014/3262), [regs. 1](https://www.legislation.gov.uk/uksi/2014/3262/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2014/3262/regulation/2/3/a)
+
+[^f00007]: Footnote: [2000 c.8](https://www.legislation.gov.uk/ukpga/2000/8). Part 4A was inserted by the Financial Services Act 2012.
+
+[^f00008]: Footnote: O.J. No.L.267, 10.10.2009, p.7.
+
+[^key-fc9849b39a25012e1869554af599444a]: Textual amendment: [Reg. 9(6)](https://www.legislation.gov.uk/uksi/2013/3103/regulation/9/6) inserted (1.4.2015) by [The CRC Energy Efficiency Scheme (Allocation of Allowances for Payment) (Amendment) (No. 2) Regulations 2014 (S.I. 2014/3262)](https://www.legislation.gov.uk/uksi/2014/3262), [regs. 1](https://www.legislation.gov.uk/uksi/2014/3262/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2014/3262/regulation/2/3/b)
+
+[^key-a1553a81a8fd8162354eea92d204b202]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2013/3103/regulation/10) in force at 1.2.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/3103/regulation/1)
+
+[^key-e9d1a40d8a99245f68139c27c6dba3e8]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2013/3103/regulation/11) in force at 1.2.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/3103/regulation/1)
+
+[^key-ae1eea443da1e9bed3c1763e5e49ef3d]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2013/3103/regulation/12) in force at 1.2.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/3103/regulation/1)
+
+[^key-ecfe4d3ab850965390563bde2a718f54]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2013/3103/regulation/13) in force at 1.2.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/3103/regulation/1)

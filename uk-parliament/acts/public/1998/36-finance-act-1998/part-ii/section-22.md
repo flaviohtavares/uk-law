@@ -1,0 +1,58 @@
+---
+title: Finance Act 1998, section 22
+act: Finance Act 1998
+section: '22'
+status: revised-with-pending-changes
+text_date: '2026-03-18'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/1998/36/section/22
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Finance Act 1998, section 22
+
+> **Warning: changes not yet applied to this text (4).** Text as at 2026-03-18. See https://www.legislation.gov.uk/changes/affected/ukpga/1998/36
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 22. Changes of place of supply: transitional.
+
+*Extent: E+W+S+N.I.*
+
+(1) In the [^c16419901]Value Added Tax Act 1994 the following section shall be inserted after section 97 (orders, rules and regulations)—
+
+> **97A. Place of supply orders: transitional provision.**
+>
+> (1) This section shall have effect for the purpose of giving effect to any order made on or after 17th March 1998 under section 7(11), if—
+>
+> - (a) the order provides for services of a description specified in the order to be treated as supplied in the United Kingdom;
+> - (b) the services would not have fallen to be so treated apart from the order;
+> - (c) the services are not services that would have fallen to be so treated under any provision re-enacted in the order; and
+> - (d) the order is expressed to come into force in relation to services supplied on or after a date specified in the order (“the commencement date").
+>
+> (2) Invoices and other documents provided to any person before the commencement date shall be disregarded in determining the time of the supply of any services which, if their time of supply were on or after the commencement date, would be treated by virtue of the order as supplied in the United Kingdom.
+>
+> (3) If there is a payment in respect of any services of the specified description that was received by the supplier before the commencement date, so much (if any) of that payment as relates to times on or after that date shall be treated as if it were a payment received on the commencement date.
+>
+> (4) If there is a payment in respect of services of the specified description that is or has been received by the supplier on or after the commencement date, so much (if any) of that payment as relates to times before that date shall be treated as if it were a payment received before that date.
+>
+> (5) Subject to subsection (6) below, a payment in respect of any services shall be taken for the purposes of this section to relate to the time of the performance of those services.
+>
+> (6) Where a payment is received in respect of any services the performance of which takes place over a period a part of which falls before the commencement date and a part of which does not—
+>
+> - (a) an apportionment shall be made, on a just and reasonable basis, of the extent to which the payment is attributable to so much of the performance of those services as took place before that date;
+> - (b) the payment shall, to that extent, be taken for the purposes of this section to relate to a time before that date; and
+> - (c) the remainder, if any, of the payment shall be taken for those purposes to relate to times on or after that date.
+
+(2) In section 6 of the [^c16419911]Value Added Tax Act 1994 (time of supply), after subsection (14) there shall be inserted the following subsection—
+
+> (14A) In relation to any services of a description specified in an order under section 7(11), this section and any regulations under this section or section 8(4) shall have effect subject to section 97A.
+
+(3) This section shall be deemed to have come into force on 17th March 1998.
+
+## Annotations
+
+[^c16419901]: Marginal citation: [1994 c. 23](https://www.legislation.gov.uk/ukpga/1994/23).
+
+[^c16419911]: Marginal citation: [1994 c. 23](https://www.legislation.gov.uk/ukpga/1994/23).

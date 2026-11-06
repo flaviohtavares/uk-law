@@ -1,0 +1,82 @@
+---
+title: Equality Act 2010, section 60A
+act: Equality Act 2010
+section: 60A
+status: revised-with-pending-changes
+text_date: '2026-10-30'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/ukpga/2010/15/section/60A
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Equality Act 2010, section 60A
+
+> **Warning: changes not yet applied to this text (10).** Text as at 2026-10-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2010/15
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 60A. Discriminatory statements[^key-538aa0ab9027833e18d90e232cce3a14]
+
+*Extent: E+W+S*
+
+(1) A person (A) must not make a discriminatory statement in connection with a relevant decision that A makes or might make.
+
+(2) References in this section to a “relevant decision” are to be determined as follows—
+
+| Where A is— | A relevant decision is— |
+| --- | --- |
+| An employer | Deciding to whom to offer employment |
+| A principal (as defined by section 41(5)) | Deciding whether to allow a contract worker (as defined by section 41(7)) to do, or to continue to do, work |
+| A firm or proposed firm (as defined by section 46(2) and (3)) | Deciding to whom to offer a position as a partner (read in accordance with section 44(8)) |
+| An LLP or proposed LLP (as defined by section 46(4) and (5)) | Deciding to whom to offer a position as a member |
+| A barrister or a barrister’s clerk (read in accordance with section 47(8)) | Deciding to whom to offer a pupillage or tenancy |
+| An advocate (as defined by section 48(9)) or an advocate’s clerk (read in accordance with section 48(8)) | Deciding who to take as a devil or to whom to offer membership of a stable |
+| A person with power to make an appointment to a personal office (as defined by section 49(2)) | Deciding to whom to offer the appointment |
+| A person with power to make an appointment to a public office within section 50(2)(a), (b) or (d) | Deciding to whom to offer the appointment |
+| A person with power to make a recommendation for or give approval to an appointment to a public office within section 50(2)(a), (b) or (d) (read in accordance with section 51(5)) | Deciding who to recommend for appointment or to whose appointment to give approval |
+| A qualifications body (as defined by section 54) | Deciding to whom to confer a relevant qualification (as defined by section 54) |
+| A person concerned with the provision of an employment service (read in accordance with section 56) | Deciding on the selection of persons to whom to provide, or to whom to offer to provide, the employment service |
+| A trade organisation (as defined by section 57(7)) | Deciding to whom to offer membership of the organisation. |
+
+(3) For the purposes of subsection (1) a statement is discriminatory if—
+
+- (a) it is directed to the public or a section of the public, and
+- (b) were it made in connection with a relevant decision, the making of it would amount to treatment of a person that is direct discrimination.
+
+(4) A statement made by a person (B) who—
+
+- (a) is not an employee of A acting in the course of B’s employment, and
+- (b) is not an agent of A acting with A’s authority,
+
+is to be treated for the purposes of this section as if made by A if there are reasonable grounds for the public, or a section of the public, to believe that B is capable of exercising decisive influence on the making by A of a relevant decision.
+
+(5) Regard is to be had (among other things) to the factors mentioned in subsection (6) when determining—
+
+- (a) whether a statement is made in connection with a relevant decision for the purposes of subsection (1);
+- (b) whether there are reasonable grounds for the belief mentioned in subsection (4).
+
+(6) The factors are—
+
+- (a) the status of the person making the statement at the time it is made;
+- (b) the nature and content of the statement;
+- (c) the context in which the statement is made;
+- (d) in the case of a statement that A is treated as having made by virtue of subsection (4), the steps (if any) taken by A to disassociate A from the statement made by B.
+
+(7) It does not matter for the purposes of this section whether or not—
+
+- (a) an individual has or may have been affected by the discriminatory statement in question;
+- (b) A has made, or plans to make, arrangements which would involve the making of a relevant decision.
+
+(8) A contravention of subsection (1) (or a contravention of section 111 or 112 that relates to a contravention of subsection (1)) is enforceable as an unlawful act under Part 1 of the Equality Act 2006 (and, by virtue of section 120(8), is enforceable only by the Commission under that Part).
+
+(9) In subsection (3) the reference to direct discrimination is to a contravention of this Act by virtue of section 13 or 18.
+
+(10) Nothing in this section limits or otherwise affects—
+
+- (a) other prohibitions imposed by this Chapter;
+- (b) the application of section 109 (liability of employers and principals for acts of employees and agents).
+
+## Annotations
+
+[^key-538aa0ab9027833e18d90e232cce3a14]: Textual amendment: [S. 60A](https://www.legislation.gov.uk/ukpga/2010/15/section/60A) inserted (1.1.2024) by [The Equality Act 2010 (Amendment) Regulations 2023 (S.I. 2023/1425)](https://www.legislation.gov.uk/uksi/2023/1425), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1425/regulation/1/2), [4(4)](https://www.legislation.gov.uk/uksi/2023/1425/regulation/4/4)

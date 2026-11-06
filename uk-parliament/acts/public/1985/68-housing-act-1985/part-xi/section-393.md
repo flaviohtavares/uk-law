@@ -1,0 +1,42 @@
+---
+title: Housing Act 1985, section 393
+act: Housing Act 1985
+section: '393'
+status: repealed
+text_date: '2026-10-26'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/1985/68/section/393
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Housing Act 1985, section 393
+
+> This provision is no longer in force.
+>
+> Extent: England, Wales.
+
+## 393. Appeal against refusal to revoke control order.
+
+*Extent: E+W*
+
+**No longer in force (ended 2006-04-06).**
+
+(1) If the local housing authority—
+
+- (a) refuse an application under section 392 for the revocation of a control order, or
+- (b) do not within 42 days from the making of such an application or such further period as the applicant may in writing allow, inform him of their decision,
+
+the applicant may appeal to the county court and the county court may revoke the order.
+
+(2) The court shall revoke the control order if—
+
+- (a) the appellant has an estate or interest in the house which, apart from the rights conferred on the local housing authority by section 381 (general effect of control order) and the rights of persons occupying any part of the house, would give him the right to possesion of the house,
+- (b) that estate or interest was, when the control order came into force, subject to a lease for a term of years which has subsequently expired, and
+- (c) the appellant satisfies the court that he is in a position and intends, if the control order is revoked, to demolish or reconstruct the house or to carry out substantial work of construction on the site of the house;
+
+and if the court is not so satisfied but would be so satisfied if the date of revocation of the control order were a date later than the hearing of the appeal, the court shall, if the appellant so requires, make an order for the revocation of the control order on that later date.
+
+(3) If an appeal is brought under this section, the leave of the court is required for the bringing of another appeal against the same order, whether by the same or a different appellant, within the period of six months beginning with the final determination of the previous appeal.
+
+(4) Further provisions as to certain matters arising on the revocation of a control order on appeal are contained in Part III of Schedule 13.

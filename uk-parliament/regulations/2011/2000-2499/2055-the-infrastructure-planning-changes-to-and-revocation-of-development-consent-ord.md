@@ -1,0 +1,1978 @@
+---
+title: The Infrastructure Planning (Changes to, and Revocation of, Development Consent Orders) Regulations 2011
+id: uksi/2011/2055
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2011-08-18'
+text_date: '2026-07-24'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/uksi/2011/2055
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2011/2055/pdfs/uksiem_20112055_en.pdf
+- http://www.legislation.gov.uk/uksi/2011/2055/pdfs/uksi_20112055_en.pdf
+- http://www.legislation.gov.uk/uksi/2011/2055/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Infrastructure Planning (Changes to, and Revocation of, Development Consent Orders) Regulations 2011
+
+> Text as at 2026-07-24.
+>
+> Extent: England, Wales, Scotland.
+
+*Extent: E+W+S*
+
+2011 No. 2055
+
+Infrastructure Planning
+
+The Infrastructure Planning (Changes to, and Revocation of, Development Consent Orders) Regulations 2011
+
+Made
+
+18th August 2011
+
+Laid before Parliament
+
+24th August 2011
+
+Coming into force
+
+1st October 2011
+
+The Secretary of State, in exercise of the powers conferred by sections 4 and 127(7) of, and paragraphs 2, 4, and 6 of Schedule 6 to, the Planning Act 2008 [^c21028091], makes the following Regulations:
+
+## 1. Citation and commencement
+
+These Regulations may be cited as the Infrastructure Planning (Changes to, and Revocation of Development Consent Orders) Regulations 2011 and shall come into force on 1<sup>st</sup> October 2011.
+
+## 2. Interpretation
+
+(1) In these Regulations—
+
+- “**affected person**” means a person whose name has been given to the Secretary of State[^key-da485ed4e9ea5fb069cf92d637301475] in a notice under regulation 21;
+- “**AONB Conservation Board**” means a conservation board established by order under section 86 of the Countryside and Rights of Way Act 2000 (establishment of conservation boards) [^c21028101];
+- “appointed person” means a person appointed by the Secretary of State under regulation 22;[^key-291de5eab93cb75212486eefb6bf6131]
+- “**application**” means an application for—
+  - (a) a change to a development consent order under paragraph 2(1) of Schedule 6 to the Act (non-material changes); or
+  - (b) an order to change or revoke a development consent order under paragraph 3(1) of Schedule 6 to the 2008 Act,
+
+  and “**applicant**” shall be construed accordingly;
+- [^key-2c905a3c5521dd8f39dd9aa1dd3d12b3]...
+- [^key-4e2fc729da9982d0f53f52cb6c7aa951]...
+- “**EIA development**” has the same meaning as given by regulation 3(1) of the Infrastructure Planning (Environmental Impact Assessment) Regulations 2017[^key-95121804e245a33a64466ff5e36941ad];
+- “**electronic transmission**” means a communication transmitted—
+  - (a) by means of an electronic communications network; or
+  - (b) by other means but in electronic form;
+- “Examining body” means—[^key-852f8dd7ca6f2c0f6aebef3c222fbb9d]
+  - (a) the appointed person or persons; or
+  - (b) the Secretary of State in respect of those matters which are the subject of a direction by the Secretary of State under section 95A(2);
+- “**fire and rescue authority**” has the same meaning as in section 1 of the Fire and Rescue Services Act 2004 (fire and rescue authorities) [^c21028121];
+- “[^key-c93517d94b25d2477e35ebc4b61039a4]**integrated care board**” means an integrated care board established under Chapter A3 of Part 2 of the National Health Service Act 2006;
+- “**Integrated Transport Authority**” has the same meaning as in section 77 of the Local Transport Act 2008 (change of name of passenger transport authorities and PTAs) [^c21028131];
+- “**internal drainage board**” has the same meaning as in section 1 of the Land Drainage Act 1991 (internal drainage districts and boards) [^c21028141];
+- “**interested party**” means—
+  - (a) the applicant;
+  - (b) each statutory party and each local authority within section 88A which, having been informed under regulation 28(9) that that person may become an interested party, have notified the Examining body in writing that they wish to become an interested party[^key-81aca52451c0f3a0cb31618e581611a9];
+  - (c) each local authority, being a local authority within the meaning of section[^key-f6fdaf0b3c8c7167140caa19b46caadf] 56A[^key-1fc84190c189970a6565651aae8996a9], in whose area the land is located;
+  - (d) the Greater London Authority if the land is in Greater London;
+  - (e) the Marine Management Organisation if the land is in one or more of the areas specified in subsection (1A) of section 102; [^key-1033fbfdaaea62dfce521b45030824da]...
+  - (f) each person who has made a relevant representation; and[^key-f9442b6ee9b93e051aff2395a225c4c0]
+  - (g) any person who—
+    - ((i)) would, in the case of an application for development consent, be eligible to become an interested party under section 102A,
+    - ((ii)) has made a request to the Examining body to become an interested party which complies with the requirements of section 102A(1), and
+    - ((iii)) has been accepted as eligible to become an interested party by the Examining body and notified accordingly;
+
+  but a person ceases to be an “interested party” for the purposes of these Regulations upon notifying the Examining body in writing that that person no longer wishes to be an interested party;[^key-17762070bd3ca14150662ce4e4c67b43]
+- “**the land**” means the land to which a proposed application or an application relates, or any part of that land;
+- “local health board” means a Local Health Board established under section 11 of the National Health Service (Wales) Act 2006 (local health boards);[^key-af7079675b1fd16e071b47d9b8fbf9c8]
+- “[^key-6c4fc68e4b7aa134c2715a0a2eed8a0f]**local resilience forum *(affected by repeal, see note)*[^key-6c4fc68e4b7aa134c2715a0a2eed8a0f]**” has the same meaning as in regulation 4 of the Civil Contingencies Act 2004 (Contingency Planning) Regulations 2005 *(affected by repeal, see note)*[^key-6c4fc68e4b7aa134c2715a0a2eed8a0f] [^c21028151];
+- “marine area” means—[^key-e2009b7921f519a667001bc1dd7b60b2]
+  - (a) waters in or adjacent to England up to the seaward limits of the territorial sea;
+  - (b) an exclusive economic zone, except any part of an exclusive economic zone in relation to which the Scottish Ministers have functions;
+  - (c) a Renewable Energy Zone, except any part of a Renewable Energy Zone in relation to which the Scottish Ministers have functions;
+  - (d) an area designated under section 1(7) of the Continental Shelf Act 1964 (exploration and exploitation of continental shelf), except any part of that area which is within part of an exclusive economic zone or Renewable Energy Zone in relation to which the Scottish Ministers have functions;
+- “Marine Management Organisation” has the same means as in section 1 of the Marine and Coastal Access Act 2009 [^c21028161];
+- [^key-1564aba1dd9d47e08098ddf11c5ea599]...
+- “National Health Service Trusts” means the National Health Service Trusts established under section 18 of the National Health Service (Wales) Act 2006 (NHS Trusts);[^key-e88154feeaa0409ccfa8daa4055cef49]
+- “[^key-330c69a1918f02111cf2cc3a9e5fa402]**NHS England**” means the body corporate established under section 1H of the National Health Service Act 2006;
+- “police and crime commissioner” means a police and crime commissioner established under section 1 of the Police Reform and Social Responsibility Act 2011 (police and crime commissioners);[^key-1450058dc52c5192e062b7b9a4d9e3f5]
+- “**proposed application**” means an application which a person proposes to make for an order under paragraph 3(1) of Schedule 6 to the Act;
+- [^key-56ee07f2a7be2f6b1959c494c06f7dd8]...
+- “relevant local authority “ means each local authority within the meaning given by section[^key-ddde0220f8f6f76b2aa95d30cd53fdec] 56A[^key-6539cad4f9de8290d6c265ec359dc741] (local authorities for the purposes of sections 56(2)(b) and 60(2)(a)[^key-a349ca54dcf4f4443159f0ef41a4f7d0]) subject to the modification that “**the land**” means the land to which a proposed application or application relates;
+- “**relevant Northern Ireland Department**” means the Northern Ireland Department responsible for the matter to which an application or proposed application relates (if more than one department is responsible, the reference is to all of them);
+- “**relevant representation**” means a representation which—
+  - (a) is about an application;
+  - (b) is made to the Secretary of State;
+  - (c) is received by the Secretary of State not later than the relevant deadline specified under these Regulations; and
+  - (d) does not contain material—
+    - (i) about compensation for compulsory acquisition of land or of an interest in or right over land;
+    - (ii) about the merits of policy set out in a national policy statement; or
+    - (iii) that is vexatious or frivolous;
+- “**Renewable Energy Zone**” means zones designated under section 84 of the Energy Act 2004 (exploitation of areas outside the territorial sea for energy production) [^c21028191];
+- “**representation**” includes evidence, and reference to the making of a representation includes the giving of evidence;
+- “**statement of common ground**” means a written statement prepared jointly by the applicant and any interested party, which contains agreed factual information about the application;
+- [^key-2085f0d2a03d835c25c4f738809675f7]...
+- “**statutory undertaker**” has the same meaning as in section 127 (statutory undertakers' land);
+- “**the Act**” means the Planning Act 2008; and
+- “**written representation**” means the full particulars of the case which a person puts forward in respect of an application and includes any supporting evidence or documents.
+
+(2) Any reference in these Regulations to a section solely by number is a reference to a section so numbered in the Act.
+
+## PART 1 — Application for a change, which is not material, to a development consent order
+
+### 3. General
+
+The regulations in this Part apply in relation to an application for a change, which is not material, to a development consent order under paragraph 2(1) of Schedule 6 to the Act.
+
+### 4. Application
+
+(1) The application must be made to the Secretary of State.
+
+(2) The application must be in writing and must contain the following—
+
+- (a) the name and address of the applicant;
+- (b) the name and address of an agent, if appointed;
+- (c) the Secretary of State's reference for the development consent order to which the application relates;
+- (d) details of the change being applied for;
+- (e) any documents and plans considered necessary to support the application;
+- (f) a statement that the applicant is either—
+  - (i) the person who applied for the development consent order to which the application relates or a successor in title;
+  - (ii) a person with an interest in the land to which the development consent order relates; or
+  - (iii) any other person for whose benefit the development consent order has effect [^c21028211];
+- (ff)[^key-3fd9f427609e5bcc2443f6fd25c49fbb] the consultation and publicity statement referred to in regulation 7A;
+- (g) details of the applicant's interest in the land; and
+- (h) if requested by the Secretary of State, 3 paper copies of the application and other supporting documents and plans.
+
+(3) Unless the Secretary of State specifies otherwise, any plans, drawings or sections provided shall be no larger than A0 size, shall be drawn to an identified scale [^key-b40232d80ed62f452f9bf01be76e8f3d]... and, in the case of plans, shall show the direction of North.
+
+(4) Where a plan comprises 3 or more separate sheets a key plan must be provided showing the relationship between the different sheets.
+
+(4A)[^key-617f574bf000e3efe74edaa091928aed] Subject to paragraph (4B), unless the Secretary of State specifies otherwise any plans, drawings or sections required to be provided under paragraph (2) shall be provided at a scale not smaller than 1:2500.
+
+(4B) Paragraph (4A) does not apply to a plan or to a sheet of a plan where the matters shown or identified on the plan or sheet are entirely in the UK marine area.
+
+(4C) In paragraph (4B), “UK marine area” has the same meaning as in section 42 of the Marine and Coastal Access Act 2009.
+
+### 5. Fee for application[^key-33b63663ab10e22b2c50c8bfbc942b47]
+
+(1) The Secretary of State must charge the applicant a fee of £6,891 in respect of an application.
+
+(2) The fee must be paid at the same time that the application is made.
+
+(3) If the applicant fails to pay the fee the Secretary of State need not consider the application until payment is received by the Secretary of State.
+
+### 6. Publicising the application
+
+(1) The applicant[^key-1b534eccfbe5f56a18e4f2598ea9314d] must publish a notice of the application, which must include the matters prescribed by paragraph (2)—
+
+- (a) for at least two successive weeks in one or more local newspapers circulating in the vicinity in which the land is situated; and
+- (b)[^key-b818081dfe4f11ddbbc4a1e4c246778f] in any other publication necessary in order to ensure that notice of the application is given in the vicinity of the land.
+
+(2) The matters which the notice must include are—
+
+- (a) the name and address of the applicant;
+- (b)[^key-53db5ef4b5644a40c0887b9265dececd] a statement that the applicant is seeking, by way of an application to the Secretary of State, a change to be made to a development consent order which is not material;
+- (c) a summary of the main elements of the application;
+- (d)[^key-30ae69f2ebf38313e8788cfb28f7d3d5] a statement that any documents, plans and maps showing the nature and location of the land, and accompanying the application, are available for inspection free of charge on a website maintained by or on behalf of the Secretary of State[^key-75de37d29dc683c5969c8b9fc4160666];
+- (da)[^key-5aa866ab46d3600fcab9dc064f7964d7] the address of the website where the documents, plans and maps may be inspected;
+- (db) the place on the website where the documents, plans and maps may be inspected;
+- (dc) a telephone number which can be used to contact the applicant for enquiries in relation to the documents, plans and maps;
+- (e) a statement as to whether a charge will be made for copies of any of the documents and, if so, the amount of any charge;
+- (f) the latest date on which those documents, plans and maps will be available for inspection on the website[^key-783ccdb21704ff4684fe68d4308b4c9a] (being a date not earlier than the deadline in sub-paragraph (h);
+- (g) details of how to respond to the publicity; and
+- (h) a deadline for receipt of those responses by the Secretary of State, being not less than 28 days following the date when the notice is last published.
+
+### 6A. Coronavirus: temporary modifications to this Part[^key-254ce8822349629e1d05fd7692628ffe]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 7. Duty to consult
+
+(1) The applicant[^key-07225b401c4caa47805119e305d1f06e] must consult the persons specified in paragraph (2) about the application by sending them a copy of the notice referred to in regulation 6.
+
+(2) Subject to paragraph (3), the persons to be consulted are—
+
+- (a) each person for whose benefit the development consent order, to which the application relates, has effect;
+- (b) each person that was, in accordance with section 56, notified of the application for the development consent order which is the subject of the application; and
+- (c)[^key-0add1ef6ed2c3ec24b22feb3ae2dbd43] any other person who may be directly affected by the changes proposed in the application.
+
+(3)[^key-98a1583cbf732e3e7711b2ab6595bbd8] The applicant need not consult a person or authority specified above if they have obtained the written consent of the Secretary of State.
+
+(4) If the Secretary of State exercises its discretion under paragraph (3) it must publish its reasons for doing so on its website.
+
+(5) The Secretary of State must make available in accordance with regulation 46 all responses to the publicity and consultation.
+
+### 7A. Consultation and publicity statement[^key-73853441275e514109d3299c8b126257]
+
+(1) The applicant must provide the Secretary of State with—
+
+- (a) a copy of the notice referred to in regulation 6; and
+- (b) a statement setting out details of the steps the applicant has taken to comply with the requirements of regulations 6 and 7.
+
+(2) If the applicant fails to provide the Secretary of State with the items referred to in paragraph (1), the Secretary of State need not consider the application until those items have been received by the Secretary of State.
+
+### 8. Notification of decision
+
+If a change is made to a development consent order, the Secretary of State must notify its decision on an application to—
+
+- (a) the applicant;
+- (b) each person that was consulted about the application; and
+- (c) each person that made a relevant representation in response to the publicity or consultation.
+
+## PART 2 — Changes to, and revocation of, orders granting development consent under paragraphs 3(1), 3(4), and 3(5) of Schedule 6 to the Act
+
+### 9. General
+
+(1) The regulations in this Part apply in relation to—
+
+- (a) a proposed application;
+- (b) an application;
+- (c) the decision-making process in relation to such an application;
+- (d) the making of a decision on such an application;
+- (e) the effect of any such decision; and
+- (f) the compensation payable in consequence of an order under paragraph 3(1) of Schedule 6 to the Act.
+
+(2) In this Part “**application**” means an application for an order under paragraph 3(1) of Schedule 6 to the Act[^key-720d6271ac9571d4f4d9121edf481c91]....
+
+### 10. Duty to consult
+
+(1) Subject to paragraph (2), the applicant must consult the following about a proposed application—
+
+- (a)[^key-399410256665856dd3147df9a9c371a2] each person who may be directly affected by the changes proposed in the application;
+- (b) each person who has the benefit of the development consent order to which the application relates, unless that person is also the applicant;
+- (c) any other person or authority who does not fall within paragraph (a) and is—
+  - (i) listed in column 1 of the table in Schedule 1 to these Regulations, who must be consulted in the circumstances specified in relation to each such person in column 2 of that table;
+  - (ii) an authority which, in relation to the proposed application, is a relevant local authority;
+  - (iii) a person who is within one or more of the categories set out in section 57[^key-01942ed137eeadb461a8097cbbade878];
+- (d) the Greater London Authority if the land to which the proposed application relates, or any part of it, is in Greater London;
+- (e) the Marine Management Organisation if the land is in one or more of the areas specified in subsection (1A) of section 102; and
+- (f) any other person the Secretary of State considers should be consulted.
+
+(2)[^key-e357e7c103b09ce4fcef7770ddf73d24] The applicant need not consult a person or authority listed above if they have obtained the written consent of the Secretary of State.
+
+(3) If the Secretary of State exercises its discretion under paragraph (2) it must publish its reasons for doing so on its website.
+
+### 11. Timetable for consultation under regulation 10
+
+(1) The applicant must, when consulting a person under regulation 10, notify the person of the deadline for the receipt by the applicant of the person's response to the consultation.
+
+(2) A deadline notified under paragraph (1) must not be earlier than the end of the period of 28 days that begins with the day after the day on which the person receives the consultation documents.
+
+(3) In paragraph (2) “**the consultation documents**” means the documents supplied to the person by the applicant for the purpose of consulting the person.
+
+### 12. Duty to notify Secretary of State of proposed application
+
+(1) The applicant must supply the Secretary of State with such information in relation to the proposed application as the applicant would supply to the Secretary of State for the purpose of complying with regulation 10 if the applicant were required by that regulation to consult the Secretary of State about the proposed application.
+
+(2) The applicant must comply with paragraph (1) on or before commencing consultation under regulation 10.
+
+### 13. Duty to consult local community[^key-1580af37d7f7dcdbc2a6b92bfc4998d8]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 14. Publicising a proposed application
+
+(1) The applicant must publish a notice, which must include the matters prescribed by paragraph (2) of this regulation, of the proposed application—
+
+- (a) for at least two successive weeks in one or more local newspapers circulating in the vicinity in which the land is situated;
+- (b)[^key-ae2a4831d385e4bfd49e50e1b179e4b7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c) once in the London Gazette and, if land in Scotland is affected, the Edinburgh Gazette; and
+- (d) where the proposed application relates to offshore development—
+  - (i) once in Lloyd's List; and
+  - (ii) once in an appropriate fishing trade journal.
+
+(2) The matters which the notice must include are—
+
+- (a) the name and address of the applicant;
+- (b) a statement that the applicant intends to make an application to the Secretary of State;
+- (c) a summary of the main elements of the proposed application;
+- (d) a statement as to whether the proposed application involves EIA development;
+- (e) a statement that the documents, plans and maps showing the nature and location of the land are available for inspection free of charge on a website maintained by or on behalf of the applicant[^key-ea37f2b1928165ca82b915aaa01d3ab3];
+- (ea)[^key-27e2ba01f6e197787e7ce71189a5b649] the address of the website where the documents, plans and maps may be inspected;
+- (eb) the place on the website where the documents, plans and maps may be inspected;
+- (ec) a telephone number which can be used to contact the applicant for enquiries in relation to the documents, plans and maps;
+- (f) the latest date on which those documents, plans and maps will be available for inspection on the website[^key-41432c5e08e85a0f136f8999c9bf0349] (being a date not earlier than the deadline in sub-paragraph (i));
+- (g) whether a charge will be made for copies of any of the documents, plans or maps and the amount of any charge;
+- (h) details of how to respond to the publicity; and
+- (i) a deadline for receipt of those responses by the applicant, being not less than 28 days following the date when the notice is last published.
+
+(3) The applicant must arrange for a notice of the proposed application, which must include the matters specified in paragraph (2) of this regulation, to be displayed at, or as close as reasonably practicable to, the land at a place accessible to the public.
+
+(4)[^key-2420132c796aa64a67e058bb34418839] Where the change in the proposed application consists of, or includes, works with a route or alignment exceeding 5 kilometres in length the notice, which must include the matters specified in paragraph (2) of this regulation, must be—
+
+- (a) displayed at intervals of not more than 5 kilometres along the whole proposed route or alignment of the works described in the application, except where this is impracticable due to the land in question being covered in water; and
+- (b) be published for at least 2 successive weeks in one or more local newspapers circulating in the vicinity of the land along the route or alignment of the works described in the application.
+
+(5)[^key-ea7a32db224b4a7db0b92261322ed47b] The applicant need not publish, or arrange for, a notice of a proposed application in the manner specified in paragraph (4), if they have obtained the written consent of the Secretary of State.
+
+(6) If the Secretary of State exercises its discretion under paragraph (5) it must publish its reasons for doing so on its website.
+
+### 15. Duty to take account of responses to consultation and publicity
+
+(1) Paragraph (2) applies where the applicant—
+
+- (a) has complied with regulations 10 to 14; and
+- (b) proposes to go ahead with making an application.
+
+(2) The applicant must, when deciding whether the application that the applicant is actually to make should be in the same terms as the proposed application, have regard to any relevant responses.
+
+(3) In paragraph (2) “**relevant response**” means—
+
+- (a) a response from a person consulted under regulation 10 that is received by the applicant before the deadline imposed by regulation 11 in that person's case; or[^key-b8b661f1d73b4528f079bc2bbbfc0b78]
+- (b)[^key-380bb4ae0e0459ba8a3f14450099ca3b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c) a response to publicity under regulation 14 that is received by the applicant before the deadline imposed in accordance with regulation 14 in relation to that publicity.
+
+### 16. Applications – general
+
+(1) The application must be made to the Secretary of State.
+
+(2) The application must be made in writing and must contain the following—
+
+- (a) the name and address of the applicant;
+- (b) the name and address of an agent, if appointed;
+- (c) the Secretary of State's reference for the development consent order to which the application relates;
+- (d) details of the land and the change being applied for;
+- (e) an explanatory memorandum explaining the purpose and effect of the application;
+- (f) a statement that the applicant is either—
+  - (i) the person who applied for the development consent order to which the application relates or their successor in title;
+  - (ii) a person with an interest in the land to which the development consent order relates; or
+  - (iii) any other person for whose benefit the development consent order has effect;
+- (g) details of the applicant's interest in the land;
+- (h) where the applicant is a local planning authority, evidence of the matters specified in paragraph 3(5)(a), (b) and (c) of Schedule 6 to the Act;
+- (i) a statement which—
+  - (i) identifies the extent to which the information submitted with the initial application for an order granting development consent in accordance with regulations 5 and 6 of the Infrastructure Planning (Applications: Prescribed Forms and Procedure) Regulations 2009 [^c21028221] is correct and relevant to the application; and
+  - (ii) where necessary updates the parts of this information that relate to the application;
+- (j) any documents and plans considered necessary to support the application;
+- (k) a statement as to whether the application involves EIA development;
+- (l) a consultation report;
+- (m) a statement that the applicant has, in relation to a proposed application that has become an application, complied with regulations 10 to 15;
+- (n) unless the Secretary of State specifies otherwise, any plans, drawings or sections provided shall be no larger than A0 size, shall be drawn to an identified scale [^key-1876b8a67e13e0dca60d665a20f2c0a9]... and, in the case of plans, shall show the direction of North;
+- (o) where a plan comprises 3 or more separate sheets a key plan must be provided showing the relationship between the different sheets; and
+- (p) if requested by the Secretary of State, 3 paper copies of the application and other supporting plans and documents.
+
+(2A)[^key-b70d67f1d1ed5f1f1e141dbcfe5e67d8] Subject to paragraph (2B), unless the Secretary of State specifies otherwise any plans, drawings or sections required to be provided under paragraph (2) shall be provided at a scale not smaller than 1:2500.
+
+(2B) Paragraph (2A) does not apply to a plan or to a sheet of a plan where the matters shown or identified on the plan or sheet are entirely in the UK marine area.
+
+(3) The applicant shall make available, at the request of the Secretary of State, all responses to the consultation carried out in accordance with regulations 10 to 14.
+
+(4) In this regulation—
+
+- “**consultation report**” means a report giving details of—
+  - (a) what has been done in compliance with regulations 10 to 14 in relation to a proposed application that has become the application,
+  - (b) any relevant responses, and
+  - (c) the account taken of any relevant responses; [^key-ed9b2c2f6dca6370b5992b58e171d8fa]...
+- “**relevant response**” has the meaning given by regulation 15 ; and[^key-aa19e499f85d6f6ddef8f5aad7f833ba]
+- “UK marine area” has the same meaning as in section 42 of the Marine and Coastal Access Act 2009.[^key-5fd0ffd1a2d28abe8721fef3f61728e5]
+
+### 17. EIA development
+
+(1) An application shall be treated as a subsequent application for the purposes of the following provisions in the Infrastructure Planning (Environmental Impact Assessment) Regulations 2017[^key-001982f932e9699e9a888dc254caed4a]—
+
+- (a) regulation 4[^key-cf389923807d75eb3f76353f1eb94d54] (prohibition on granting consent without consideration of environmental information);
+- (b) regulation 8[^key-1a77b13a4032e86c9562ee28758bdc3b] (procedure for establishing whether environmental impact assessment is required);
+- (c) regulation 10[^key-d409a6d5aee50b671f33d35aa6ff00db] (application for a scoping opinion);
+- (d) regulation 22[^key-023a6725fb93a0780c831207c632d8ac] (subsequent application for EIA development); and
+- (e) regulation 24[^key-b4e45a7d6bcf041b3d45bb481fd3fcac] (subsequent application not complying with EIA requirements).
+
+(2) References in the regulations referred to in paragraph (1) to the following terms shall be construed as follows—
+
+- (a) references to [^key-c65cffcb39c265eaa269d8a1c92b0820]...“the relevant authority” as references to the “**Secretary of State**”;
+- (b) references to “an application for an order granting development consent” as references to “**an application**” as defined in regulation 2 of these Regulations; and
+- (c) reference to “publicising the proposed application under section 48”[^key-25c970b49827ff9183b2ea962b48354b] as reference to consultation under regulation 10 of these Regulations.
+
+### 18. Fees for applications
+
+(1) Subject to paragraph (2), the Secretary of State must charge the fees set out in Schedule 2 to these Regulations in respect of an application.
+
+(2) No fee is chargeable in respect of an application for an order to be made under paragraph 3(5) of Schedule 6 to the Act.
+
+### 19. Notice of an application
+
+(1) Subject to paragraph (3), notice of an application must be given by the applicant to—
+
+- (a) each person for whose benefit the development consent has effect;
+- (b) each authority which, in relation to the application, is a relevant local authority;
+- (c) the Greater London Authority if the land is in Greater London;
+- (d) the Marine Management Organisation if the land is in one or more of the areas specified in subsection (1A) of section 102;
+- (e) each person who is within one or more of the categories set out in section 57 as regards the land;
+- (f)[^key-fce66c26b8a6d38a19820fe6e8616a5f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (g) the persons listed in column 1 of the table in Schedule 1 to these Regulations, in the circumstances specified in relation to each such person in column 3 of that table; and
+- (h) each other person the Secretary of State requires the applicant to consult.
+
+(2) The notice must include—
+
+- (a) the name and address of the applicant;
+- (b) a statement to the effect that an application has been made to the Secretary of State;
+- (c) any reference applied to that application by the Secretary of State;
+- (d) a summary of the main proposals;
+- (e) a map showing details of the location of the development, to which the application relates;
+- (f) a statement as to whether the application involves EIA development;
+- (g) a statement that a copy of the application and its accompanying documents, plans and maps are available for inspection free of charge on a website maintained by or on behalf of the Secretary of State[^key-a20ff93884bd6725d92c9e2eb80d49f2];
+- (ga)[^key-9f09121c396e1069a071aaf695ee3c94] the address of the website where the application and its accompanying documents, plans and maps may be inspected;
+- (gb) the place on the website where the application and its accompanying documents, plans and maps may be inspected;
+- (gc) a telephone number which can be used to contact the applicant for enquiries in relation to the application and its accompanying documents, plans and maps;
+- (h) the latest date on which those documents will be available for inspection on the website[^key-ef6f21b74b0b4e2f3ec407997c585f7d] being a date not earlier than the end of the period of 28 days that begins with the day after the day on which the person receives the notice;
+- (i) a statement as to whether a charge will be made for copies of any of the documents and if so the amount of any charge;
+- (j) details of how to make representations (giving notice of any interest in, or objection to, the application); and
+- (k) a deadline for the receipt by the Secretary of State of those representations being not less than 28 days following the date on which the person receives the notice.
+
+(3)[^key-05e0374b11d238cec25ea4b87f9975af] The applicant need not give notice of an application to a person or authority listed above if they have obtained the written consent of the Secretary of State.
+
+(4) If the Secretary of State exercises its discretion under paragraph (3) it must publish its reasons for doing so on its website.
+
+### 20. Publicising an application
+
+(1) The applicant must publish a notice of the application, which must include the matters specified in paragraph (2) of this regulation, in the same manner as is prescribed in relation to a proposed application, by regulation 14.
+
+(2) The matters which the notice must include are—
+
+- (a) the name and address of the applicant;
+- (b) a statement to the effect that an application has been made to the Secretary of State;
+- (c) the reference, if any, applied to the application by the Secretary of State;
+- (d) a summary of the main proposals, specifying, where relevant, the location or route to which the application relates;
+- (e) a statement saying whether the application involves EIA development;
+- (f) a statement that a copy of the application and its accompanying documents, plans and maps are available for inspection free of charge on a website maintained by or on behalf of the Secretary of State[^key-5f9ba0ff1216ee917e6760f9ddf1fa8d];
+- (fa)[^key-2db0a4a116d410b39b762866a5e7ddb7] the address of the website where the application and its accompanying documents, plans and maps may be inspected;
+- (fb) the place on the website where the application and its accompanying documents, plans and maps may be inspected;
+- (fc) a telephone number which can be used to contact the applicant for enquiries in relation to the application and its accompanying documents, plans and maps;
+- (g) the latest date on which those documents will be available for inspection on the website[^key-93a2a694f28eab9ef216e3a3d7eec505] (being a date not earlier than the deadline under sub-paragraph (j));
+- (h) a statement as to whether a charge will be made for copies of any of the documents and if so the amount of any charge;
+- (i) details of how to make representations (giving notice of any interest in, or objection, to the application); and
+- (j) a deadline for the receipt by the Secretary of State of those representations being not less than 28 days following the date that the notice is last published.
+
+### 20A. Coronavirus: temporary modifications to this Part[^key-76f39a2edc20ecbdccea1e312a6b6a56]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 21. Notice of person interested in land to which compulsory acquisition request relates
+
+(1) This regulation applies where an application includes a request for authorisation to acquire compulsorily land or an interest in or right over land (“a compulsory acquisition request”).
+
+(2) The applicant must give to the Secretary of State a notice specifying the names, addresses for service and contact details of the affected persons.
+
+(3) The notice must be given within the period of 10 working days immediately following the deadline set in regulation 19(2)(k).
+
+(4) A person is an “affected person” for the purpose of this regulation if the applicant, after making diligent inquiry, knows that the person is interested in the land to which the compulsory acquisition relates or any part of that land.
+
+### 21A. Cases where the Secretary of State is of the view that examination is not necessary[^key-c6acf3275c71ce6dd3dd1d525edec719]
+
+(1) Where the Secretary of State is of the view, in light of relevant representations received in pursuance of regulations 19 and 20, that it is not necessary for an Examining body to examine the application the Secretary of State must—
+
+- (a) give notice of that fact to—
+  - (i) the applicant; and
+  - (ii) each person who has made a relevant representation under regulation 19 or 20; and
+- (b) publicise on a website maintained for the purpose any relevant representation made under regulations 19 and 20.
+
+(2) A notice given under paragraph (1)(a) must include—
+
+- (a) a statement to the effect that the Secretary of State is of the view that it is not necessary for an Examining body to examine the application;
+- (b) a statement setting out the Secretary of State’s reasons as to why the Secretary of State considers that this is not necessary;
+- (c) a statement that any representations made under regulations 19 and 20 have been publicised on a website;
+- (d) details of how to make further representations about the application; and
+- (e) a deadline for receipt by the Secretary of State of those representations being not less than 28 days following the date of the notice.
+
+### 21B. Deciding an application without examination
+
+(1) The Secretary of State may decide an application without examination by an Examining body if the Secretary of State is satisfied that this is not necessary in light of relevant representations received—
+
+- (a) under regulations 19 and 20; and
+- (b) in response to the notice served in accordance with regulation 21A(1)(a).
+
+(2) Where the Secretary of State decides that it is not necessary for an Examining body to examine the application, the Secretary of State must—
+
+- (a) issue a notice of the decision not to examine the application to—
+  - (i) the applicant;
+  - (ii) all those who in accordance with regulation 19 have been notified about the application; and
+  - (iii) any other person who has made a relevant representation about the application;
+- (b) publish the reasons for the decision on a website maintained for the purpose; and
+- (c) publicise on a website maintained for the purpose any representations made in respect of the application.
+
+(3) In cases where an application is not examined by an Examining body in accordance with regulation 21B(1), regulations 22 to 45, 46, 47(10)(b), and 52(2)(h) do not apply.
+
+### 22. Appointment of the Examining body
+
+(1)[^key-42fe139807c5df39dd21209e8637eec9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(1A)[^key-4f71cb44e9f4c27a0a8b83114d930042] This regulation applies where the Secretary of State decides that it is necessary for an Examining body to examine the application.
+
+(2) The Secretary of State must decide whether the Examining body is to consist of a single appointed person or more than one appointed person.
+
+(3) The Secretary of State must then—
+
+- (a) appoint the Examining body;
+- (b) notify all those who in accordance with regulation 19 have been notified about the application of the appointment of the Examining body and give details of who has been appointed; and
+- (c) where more than one appointed person has been appointed, appoint one of those appointed persons to chair the Examining body.
+
+(4)[^key-1dfc5f39e25406157360106f7852f410] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5)[^key-5aff12c2e27d185fc2a08579bd1b7300] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(6) Where the Secretary of State has appointed a single appointed person to be the Examining body, if the Secretary of State subsequently decides that the application should instead be examined by more than one appointed person, the Secretary of State may appoint appointed persons.
+
+(7)[^key-f479015a241bc6c21d8a09c46c49e804] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(8)[^key-e872ef16ef2aeb99aae965ed5fd9725f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 23. Additional appointments to the Examining body
+
+(1) The Secretary of State may appoint a further appointed person to be a member of the Examining body at any time after the Examining body has been appointed under regulation 22.
+
+(2) A person appointed under paragraph (2) becomes a member of the Examining body in addition to any person who is otherwise a member of the Examining body.
+
+### 24. Replacement of the appointed person appointed to be the chair of the Examining body
+
+(1) Paragraph (2) applies where a person appointed to be the chair of the Examining body ceases to hold the office of the appointed person.
+
+(2) The Secretary of State must appoint a member of the Examining body to chair the Examining body.
+
+(3) A person may be appointed under paragraph (2) even though that person was not a member of the Examining body when the vacancy arose.
+
+### 25. Membership of Examining body where application relates to land in Wales[^key-582c9507cd3c3c0b1049bc6ebad0a644]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 26. Functions of the Examining body
+
+(1) The Examining body has the functions of—
+
+- (a) examining an application; and
+- (b)[^key-40f2dd8cc77fdcfb8beec77aa5e9aa61] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^key-f19a12d82690bbbc10b6802570a39dea] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d) [^key-965978b4ba58552f651a16333e1c1418]...making a report to the Secretary of State on the application setting out the Examining body's—
+  - (i) findings and conclusions in respect of an application; and
+  - (ii) recommendation as to the decision to be made on an application.
+
+(2) It is for the Examining body to decide how to examine an application.
+
+### 27. Initial assessment of issues
+
+The Examining body must make such an initial assessment of the principal issues arising on an application as the Examining body considers appropriate.
+
+### 28. Preliminary meeting and other meetings
+
+(1) After the initial assessment of the principal issues the Examining body must hold a preliminary meeting.
+
+(2) The Examining body must invite to the preliminary meeting—
+
+- (a)[^key-80f8829fc0b0a0eca16460c99234fbfc] the applicant;
+- (b) each person whom the applicant is required to notify of an application under regulation 19, subject to paragraph (3) of that regulation;
+- (c) each person who has made a relevant representation; and
+- (d) each other interested party.
+
+(3) The Examining body must give at least 21 days' notice of the date, time and place of the preliminary meeting to all those it is required to invite to the meeting and to any other person it chooses to invite.
+
+(4) The Examining body must, at the same time as giving notice of the preliminary meeting, notify all those invited to it of the matters to be discussed at the preliminary meeting.
+
+(5) The purposes of the preliminary meeting are—
+
+- (a) to enable invitees present at the meeting to make representations to the Examining body about how the application should be examined; and
+- (b) to discuss any other matter the Examining body wishes to discuss.
+
+(6) The Examining body shall preside at the preliminary meeting and shall determine—
+
+- (a) the procedure at the preliminary meeting;
+- (b) the matters to be discussed;
+- (c) the amount of time to be allocated—
+  - (i) to each matter; and
+  - (ii) for making any oral representations.
+
+(7) As soon as practicable after the end of the preliminary meeting, the Examining body must prepare a note of the proceedings, and make the note available in accordance with regulation 46 to any person who is required to be invited to the preliminary meeting under regulation 28(2) and anyone who attended the preliminary meeting[^key-d1bde196f4e1aae0681ebeda81545bc5].
+
+(8) The Examining body may hold further meetings for the purposes of the examination of an application and where it does so, the Examining body shall arrange for such notice to be given of any meeting as appears to the Examining body to be necessary.
+
+(9)[^key-2ce0b4466bf79c63a342d9e066bfe016] As soon as practicable after the end of the preliminary meeting, the Examining body must inform each statutory party, and each local authority within section 88A, that that person may notify the Examining body in writing that that person is to become an interested party.
+
+### 29. Procedural decisions
+
+(1) The Examining body must, either at or after the preliminary meeting or any other meeting, in the light of the discussion at the meeting make such procedural decisions as the Examining body considers appropriate.
+
+(2) As soon as practicable after making any procedural decision, the Examining body must notify all interested parties of the decision.
+
+(3) In this regulation “**procedural decision**” means a decision about how an application is to be examined.
+
+### 30. Timetable
+
+(1) At the preliminary meeting, or as soon as practicable after the end of that meeting, the Examining body must set the timetable for its examination of an application specifying in the timetable—
+
+- (a) the date by which written representations must be received by the Examining body;
+- (b) the period within which the Examining body will ask questions in writing and seek further written information about—
+  - (i) any matter contained in an application or a relevant representation;
+  - (ii) any written representation; and
+  - (iii) any other matter it considers relevant to its examination of an application;
+- (c) the period within which the applicant will have the opportunity to comment in writing on—
+  - (i) any relevant or written representations; and
+  - (ii) any responses to written questions received from an interested party or others;
+- (d) the period within which any interested party will have the opportunity to comment in writing on—
+  - (i) any relevant and written representations; and
+  - (ii) any responses to written questions received from an interested party or others;
+- (e) the period within which the applicant and any interested party must agree a statement of common ground;
+- (f) the date by which any interested party must notify the Examining body of their wish to be heard at an open-floor hearing;
+- (g) the date by which any affected person must notify the Examining body of their wish to be heard at a compulsory acquisition hearing;
+- (h) the date of any issue-specific hearing;
+- (i) the date by which any summaries of relevant and written representations must be received by the Examining body; and
+- (j) such other deadlines as the Examining body considers necessary.
+
+(2) The Examining body must send the timetable to all interested parties and any other person it has invited to the preliminary meeting.
+
+(3) The Examining body may subsequently vary the timetable; and as soon as practicable after doing so it must notify the variation to all interested parties and any other person it has invited to the preliminary meeting.
+
+### 31. Written representations
+
+(1) The Examining body's examination of an application is to take the form of consideration of written representations about the application.
+
+(2) Paragraph (1) has effect subject to—
+
+- (a) any requirement under regulations 33, 34, or 35 below to cause a hearing to be held; and
+- (b) any decision by the Examining body that any part of the examination is to take a form that is neither—
+  - (i) consideration of written representations, nor
+  - (ii) consideration of oral representations made at a hearing.
+
+(3) An interested party must ensure that any written representation that the party may wish to make is received by the Examining body by the date specified in the timetable set under regulation 30, or otherwise under this regulation, by the Examining body.
+
+(4) The Examining body may at any time specify the date (being a date not earlier than the end of a period of 21 days) by which a written representation to be submitted from an interested party must be received by the Examining body.
+
+(5) The Examining body may permit a written representation to be made by any person who is not an interested party.
+
+(6) Any person, other than the applicant, who submits a written representation, must identify in their written representation those parts of the application with which they agree and those parts with which they do not agree, and must state the reasons for such disagreement.
+
+(7) The Examining body must provide all interested parties with the opportunity to comment in writing on any written representation relevant to the examination of the application or specified matters.
+
+(8) The Examining body may in writing request—
+
+- (a) a specified number of additional copies of any representation;
+- (b) responses to questions posed by the Examining body about the matters contained in any representation; and
+- (c) such further information about the matters contained in any representation as the Examining body may specify,
+
+and shall specify the date by which these must be received by it.
+
+(9) Any person who receives a request in accordance with paragraph (8) above must ensure that the additional copies, responses to written questions or further information are received by the Examining body by the date specified.
+
+(10) The Examining body may disregard any written representations, responses to questions or further information received after the date, or the expiry of the period, specified for their receipt.
+
+(11) The Examining body must make all written representations, responses to written questions and further information received by it available in accordance with regulation 46 as soon as is practicable.
+
+### 32. Relevant representation
+
+(1) An interested party must ensure that their relevant representation is received by the Secretary of State by whichever is the later of the deadlines for receipt of representations included in the notice given in accordance with regulation 19 and the notice published in accordance regulation 20.
+
+(2) Any interested party who submits a written comment on any relevant representation must ensure that it is received by the Secretary of State by whichever is the later of—
+
+- (a) the date on which the preliminary meeting is held; or
+- (b) the date specified in the timetable referred to in regulation 30.
+
+(3) The Secretary of State may require in writing any person who has submitted a relevant representation or written comment to provide—
+
+- (a) a specified number of additional copies of the representation or comment; and
+- (b) such further information about the matters contained in the representation or comment as the Secretary of State may specify,
+
+and may specify the date by which the copies or information must be received by it.
+
+(4) Any person required to provide additional copies or further information must ensure that the additional copies or further information have been received by the Secretary of State by the date specified.
+
+(5) As soon as practicable after receipt of any relevant representations, written comments on relevant representations or further information requested under paragraph (3)(b), the Secretary of State must make the representations, comments or information available in accordance with regulation 46.
+
+### 33. Hearings about specific issues
+
+(1) Paragraphs (2) and (3) apply where the Examining body decides that it is necessary for the Examining body's examination of the application to include the consideration of oral representations about a particular issue made at a hearing in order to ensure—
+
+- (a) adequate examination of the issue, or
+- (b) that an interested party has a fair chance to put the party's case.
+
+(2) The Examining body must cause a hearing to be held for the purpose of receiving oral representations about the issue.
+
+(3) At the hearing, each interested party is entitled (subject to the Examining body's powers of control over the conduct of the hearing) to make oral representations about the issue.
+
+### 34. Compulsory acquisition hearings
+
+(1) This regulation applies where the application includes a request for authorisation to compulsorily acquire land or an interest in or right over land (a “compulsory acquisition request”).
+
+(2) The Examining body must fix, and cause each affected person to be informed of, the deadline by which an affected person must notify the Secretary of State that the person wishes a compulsory acquisition hearing to be held.
+
+(3) If the Secretary of State receives notification from at least one affected person before the deadline, the Examining body must cause a compulsory acquisition hearing to be held.
+
+(4) At a compulsory acquisition hearing, the following are entitled (subject to the Examining body's powers of control over the conduct of the hearing) to make oral representations about the compulsory acquisition request—
+
+- (a) the applicant;
+- (b) each affected person.
+
+### 35. Open-floor hearings
+
+(1) The Examining body must fix, and cause the interested parties to be informed of, the deadline by which an interested party must notify the Secretary of State of the party's wish to be heard at an open-floor hearing.
+
+(2) If the Secretary of State receives notification from at least one interested party before the deadline, the Examining body must cause an open-floor hearing to be held.
+
+(3) At an open-floor hearing, each interested party is entitled (subject to the Examining body's powers of control over the conduct of the hearing) to make oral representations about the application.
+
+### 36. Notification of hearings
+
+(1) In fixing, and causing persons to be informed of, a deadline under regulation 33, 34 or regulation 35, the Examining body must ensure that the deadline is at least 21 days after the date on which notice of the deadline is given.
+
+(2) The Examining body may disregard any request for an open-floor hearing or for a compulsory acquisition hearing to be held which is received after the deadline.
+
+(3) As soon as practicable after the expiry of the deadline the Examining body must notify—
+
+- (a) all interested parties of the date, time and place fixed for any open-floor hearing or issue-specific hearing; and
+- (b) affected persons of the date, time and place fixed for a compulsory acquisition hearing,
+
+and ensure that at least 21 days' notice is given of any hearing.
+
+(4) The Examining body may vary the date, time and place fixed for any hearing and must give such notice of any variation as appears to it to be reasonable.
+
+(5) The place at which a hearing is to be held shall be determined by the Examining body in consultation with the applicant and, where the Examining body is satisfied, having regard to the nature of the application, that it is reasonable to do so, the Examining body may direct that different parts of a hearing shall be held at different locations.
+
+(6) Unless the Examining body otherwise directs, the applicant must not later than 21 days before the date fixed for the commencement of a hearing—
+
+- (a) post and maintain a notice of the hearing in a conspicuous place as close as is reasonably practicable to, the land to which the application relates;
+- (b) post and maintain a notice of the hearing in one or more places where public notices are usually posted in the area to which the proposals contained in the application relate;
+- (c) publish a notice of the hearing by local advertisement in the area in which the proposals contained in the application are to have effect; and
+- (d)[^key-61aed080be23662f8112cc61b4e4f6e2] where the proposed application relates to development which consists of, or includes, works with a route or alignment exceeding 5 kilometres in length the notice of the hearing must be—
+  - (i) displayed at intervals of not more than 5 kilometres along the whole proposed route or alignment of the works described in the application, except where this is impracticable due to the land in question being covered by water; and
+  - (ii) be published for at least two successive weeks in one or more local newspapers circulating in the vicinity of the land along the route or alignment of the works described in the application.
+
+(7) In this regulation “**by local advertisement**” means—
+
+- (a) by publication of the notice in a newspaper circulating in the locality in which the land to which the application relates is situated; and
+- (b) where the Examining body maintains a website for the purpose of advertisement of applications, by publication of the notice on the website.
+
+(8) Where a direction has been given under paragraph (5), paragraph (6) shall have effect with the substitution—
+
+- (a) for references to the hearing, of references to the part of the hearing which is to be held at a place specified in the direction; and
+- (b) for references to the application, of references to that part of the application which is to be the subject of that part of the hearing.
+
+(9) Any notice posted pursuant to paragraph (6)(a) or (b) must be readily visible to and legible by members of the public; but where, without any fault or intention of the applicant, the notice is removed, obscured or defaced before the commencement of the hearing, the applicant shall be treated as having complied with the requirements of those sub-paragraphs if the applicant has taken reasonable steps for the protection of the notice and, if need be, its replacement.
+
+(10) A notice of a hearing posted or published pursuant to paragraph (6) must contain a statement of the date, time and place of the hearing, and of the section of the Act under which the application has been made, together with a description of the proposals contained in the application sufficient to identify the location of the proposed development with or without reference to a specified map, and details of a place where a copy of the application can be inspected.
+
+### 37. Procedure at hearings
+
+(1) The Examining body shall preside at any hearing and shall determine the procedure at the hearing.
+
+(2) At the start of the hearing the Examining body shall identify the matters to be considered at the hearing, and any matters on which the Examining body requires further explanation from—
+
+- (a) the persons entitled under regulations 33, 34 or 35 to make oral representations; or
+- (b) any other person permitted by the Examining body to make oral representations.
+
+(3) Any oral representations must be based on either the relevant or written representations made by the person by whom or on whose behalf the oral representations are made; and where those relevant or written representations exceed 1500 words the person by whom they were made must prepare a summary.
+
+(4) Without prejudice to the Examining body's discretion as to the conduct of the hearing, nothing in paragraph (2) or (3) precludes a person from referring to issues which they consider relevant to the examination of an application but which are not issues identified by the Examining body pursuant to paragraph (2) or included in their relevant or written representations.
+
+(5) The Examining body [^c21028241] shall be responsible for the oral questioning of a person giving evidence (“A”) except where, in the view of the Examining body, oral questioning of A by another person (“B”) is necessary in order to ensure—
+
+- (a) adequate testing of any representation; or
+- (b) that B has a fair chance to put B's case.
+
+(6) The Examining body may refuse to permit the oral questioning of persons giving evidence, or may require such questioning to cease, if it appears to the Examining body that permitting such questioning or allowing it to continue (as the case may be) would have the effect that the timetable referred to in regulation 30 could not be met.
+
+(7) The Examining body may proceed with a hearing in the absence of a person entitled to appear at it.
+
+(8) The Examining body may from time to time adjourn a hearing and, if the date, time and place of the adjourned hearing are announced at the hearing before the adjournment, no further notice shall be required.
+
+(9) Any person entitled or permitted to make oral representations at a hearing may do so on that person's own behalf or be represented by any other person.
+
+(10) The Examining body may permit any person, in addition to those who are entitled under regulations 33, 34 or 35, to make oral representations at a hearing.
+
+### 38. Hearings: general provisions
+
+(1) The following provisions of this section apply—
+
+- (a) to a hearing under regulation 33;
+- (b) to a compulsory acquisition hearing regulation 34; and
+- (c) to an open-floor hearing regulation 35.
+
+(2) The hearing—
+
+- (a) must be in public; and
+- (b) must be presided over by one or more of the members of the Examining body.
+
+(3) It is for the Examining body to decide how the hearing is to be conducted.
+
+(4) In particular, it is for the Examining body to decide—
+
+- (a) whether a person making oral representations at the hearing may be questioned at the hearing by another person and, if so, the matters to which the questioning may relate;
+- (b) the amount of time to be allowed at the hearing—
+  - (i) for the making of a person's representations; or
+  - (ii) for any questioning by another person.
+
+(5) The Examining body's powers under paragraphs (3) and (4) are subject to paragraph (2).
+
+(6) Although the Examining body's powers under paragraphs (3) and (4) may be exercised for the purpose of controlling exercise of an entitlement under regulations 33, 34 or 35 those powers may not be exercised so as to deprive the person entitled of all benefit of the entitlement.
+
+(7) In making decisions under paragraph (4)(a), the Examining body must apply the principle that any oral questioning of a person making representations at a hearing (whether the applicant or any other person) should be undertaken by the Examining body except where the Examining body thinks that oral questioning by another person is necessary in order to ensure—
+
+- (a) adequate testing of any representations; or
+- (b) that a person has a fair chance to put the person's case.
+
+(8) The Examining body may refuse to allow representations to be made at the hearing if the Examining body considers that the representations—
+
+- (a) are irrelevant, vexatious or frivolous;
+- (b) relate to the merits of policy set out in a national policy statement;
+- (c) repeat other representations already made (in any form and by any person); or
+- (d) relate to compensation for compulsory acquisition of land or of an interest in or right over land.
+
+### 39. Hearings: disruption and supervision
+
+(1) Where an interested party or any other person behaves in a disruptive manner at a hearing, the Examining body may decide to do any one or more of the following—
+
+- (a) exclude the person from all, or part, of the remainder of the hearing;
+- (b) allow the person to continue to attend the hearing only if the person complies with conditions specified by the Examining body;
+- (c) exclude the person from other hearings;
+- (d) direct that the person is allowed to attend other hearings only if the person complies with conditions specified by the Examining body.
+
+### 40. Representations not made orally may be made in writing
+
+(1) Paragraph (2) applies where--
+
+- (a) a person asks the Examining body to be allowed to make oral representations about the application at a hearing;
+- (b) the person does not (for whatever reason) make the representations orally at a hearing;
+- (c) written representations from the person are received by the Secretary of State before the Examining body completes the Examining body's examination of the application; and
+- (d) the written representations state that they are ones that the person asked to be allowed to, but did not, make orally at a hearing.
+
+(2) The Examining body must consider the written representations as part of the Examining body's examination of the application if they are relevant representations.
+
+### 41. Site inspections
+
+(1) The Examining body may make an unaccompanied inspection of any site to which the application relates before or during its examination of the application without giving notice of its intention.
+
+(2) The Examining body may, before the completion of its examination of the application inspect any site to which the application relates in the company of any interested party or their representative.
+
+(3) Where the Examining body intends to make an inspection of the kind referred to in paragraph (2), it must notify all interested parties of the date, time and place at which it proposes to make the inspection.
+
+(4) The Examining body shall not be bound to defer an inspection of the kind referred to in paragraph (2) where an interested party is neither present nor represented at the time appointed.
+
+### 42. Completion of examination
+
+(1) When the Examining body has completed its examination of the application, it must inform each interested party of that fact.
+
+(2) The Examining body must complete its examination of the application by the end of the period of 4 months[^key-41fa3f919e355188d9a6a88d7b39be75] beginning with the day after the start day.
+
+(3) The start day is the day on which the meeting required by regulation 28 is held or, if that meeting is held on 2 or more days, the later or latest of those days.
+
+(4) The Secretary of State may set a date for a deadline under this regulation that is later than the date for the time being set.
+
+(5) The Secretary of State may change the date set for the deadline under paragraph (4)—
+
+- (a) more than once in relation to the same deadline;
+- (b) after the date for the time being set for the deadline.
+
+(6)[^key-8abf9eb86f4faf14a0febf6dcc90ccd4] Where the Secretary of State has changed the date set for the deadline the Secretary of State must—
+
+- (a) notify each interested party of the new deadline; and
+- (b) publicise the new deadline in such a manner as the Secretary of State thinks appropriate.
+
+### 43. Procedure after completion of examination
+
+(1)[^key-a63a495e02cd45d4849e0487ce17c784] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2)[^key-a9e3144c557bd4527209f57daeb88edf] The Examining body must make a written report to the Secretary of State by the end of the period of 2 months[^key-aff10cecc3502763cd92d1177a29c55e] beginning with the earlier of—
+
+- (a) the deadline for its completion of the examination of the application; and
+- (b) the end of the day on which it completes the examination.
+
+(3) The report must include the Examining body's—
+
+- (a) findings and conclusions in respect of the application; and
+- (b) recommendation as to the decision to be made on the application.
+
+(4) If after the completion of the Examining body's examination, the Secretary of State—
+
+- (a) differs from the Examining body on any matter of fact mentioned in, or appearing to the Secretary of State to be material to, a conclusion reached by the Examining body; or
+- (b) takes into consideration any new evidence or new matter of fact,
+
+and is for that reason disposed to disagree with a recommendation made by the Examining body, the Secretary of State shall not come to a decision which is at variance with that recommendation without—
+
+- (i) notifying all interested parties of the Secretary of State's disagreement and the reasons for it; and
+- (ii) giving them an opportunity of making representations in writing to the Secretary of State in respect of any new evidence or new matter of fact.
+
+### 44. Further information
+
+(1) The Examining body may at any time before the completion of its examination of an application request further information or written comments from an interested party, who must supply such information by the date and in the manner specified by the Examining body.
+
+(2) The Examining body shall on receiving any further information or written comments within the specified period, consider whether or not a further opportunity to comment in writing should be given to all interested parties and, if so, the Examining body shall specify a period for making any further written comments.
+
+(3) The Examining body may disregard any information or written comments received after the date specified or in a manner other than that specified.
+
+### 45. Additional copies
+
+(1) The Examining body may at any time before the completion of its examination of an application request from any interested party additional copies of any document sent to the Examining body during the examination and specify the period within which and the manner in which the copies are to be supplied.
+
+(2) The interested party must supply the copies within the period and in the manner specified by the Examining body.
+
+### 46. Availability and inspection of representations and documents
+
+(1) Relevant representations, written representations or documents must be made available by the Examining body to all interested parties and to anyone who requests an opportunity to inspect and take copies of them.
+
+(2) A relevant representation, written representation or document shall be taken to be available where all interested parties are notified of—
+
+- (a) publication of the representation or document on a website;
+- (b) the address of the website;
+- (c) the place on the website where the representation or document may be accessed, and how it may be accessed;
+- (d) details of where and when copies of representations and documents may be inspected;
+- (e) details of where and when representations and documents may be copied; and
+- (f) whether a charge will be made for copies of any representation or document available for inspection and if so the amount of any charge.
+
+(3) Where the applicant or an interested party is under an obligation to give to any person who so requests an opportunity to inspect and take copies of any representation or document, the opportunity shall be taken to have been given where that person is notified of—
+
+- (a) publication of the representation or document on a website;
+- (b) the address of the website;
+- (c) the place on the website where the representation or document may be accessed, and how it may be accessed;
+- (d) details of where and when copies of the representation or document may be inspected;
+- (e) details of where and when any representation or document may be copied; and
+- (f) whether a charge will be made for copies of any representation or document available for inspection and if so the amount of any charge.
+
+(4) In this regulation “**document**” means any notice, report or other document required or authorised to be sent or prepared under these Regulations.
+
+### 47. Making the decision
+
+(1) In deciding an application the Secretary of State must have regard to--
+
+- (a) any national policy statement which has effect in relation to development of the description authorised by the development consent order the subject of the application, (a “relevant national policy statement”);
+- (b) the appropriate marine policy documents (if any), determined in accordance with section 59 of the Marine and Coastal Access Act 2009;
+- (c) any matters prescribed in relation to development of the description authorised by the development consent order the subject of the application; and
+- (d) any other matters which the Secretary of State thinks are both important and relevant to the Secretary of State’s[^key-cfda044f2dabf877a4498738642c2fc1] decision.
+
+(2) The Secretary of State must decide the application in accordance with any relevant national policy statement, except to the extent that one or more of paragraphs (3) to (7) applies.
+
+(3) This paragraph applies if the Secretary of State is satisfied that deciding the application in accordance with any relevant national policy statement would lead to the United Kingdom being in breach of any of its international obligations.
+
+(4) This paragraph applies if the Secretary of State is satisfied that deciding the application in accordance with any relevant national policy statement would lead to the Secretary of State being in breach of any duty imposed on the Secretary of State[^key-83230be0ed76686836081e5e6d5211a2] by or under any enactment.
+
+(5) This paragraph applies if the Secretary of State is satisfied that deciding the application in accordance with any relevant national policy statement would be unlawful by virtue of any enactment.
+
+(6) This paragraph applies if the Secretary of State is satisfied that the adverse impact of the proposed development would outweigh its benefits.
+
+(7) This paragraph applies if the Secretary of State is satisfied that any condition prescribed for deciding an application otherwise than in accordance with a national policy statement is met.
+
+(8) The Infrastructure Planning (Decisions) Regulations 2010 [^c21028251] shall apply in relation to the decision of the Secretary of State, subject to the following modifications—
+
+- (a) each reference to “an application” shall be deemed to be a reference to an application as defined in regulation 9(2); and[^key-92720bb7b841ca5a5c29b5cce0e3f0c9]
+- (b)[^key-7d6133bbf91c07ebbc2d92a6bd8b26eb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c) for “order granting development consent” substitute “ order ” in each place where the words occur .[^key-b8f9ae16e03f588125ce7f5546a2fe90]
+- (d)[^key-d9449025656804396f4f5f6ded2457fb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(9) In deciding an application the Secretary of State may disregard representations if the Secretary of State considers that the representations—
+
+- (a) do not relate to the application;
+- (b) are vexatious or frivolous;
+- (c) relate to the merits of policy set out in a national policy statement;
+- (d) relate to compensation for compulsory acquisition of land or of an interest in or right over land; or
+- (e) relate to the compensation payable as a consequence of an order being made.
+
+(10) The Secretary of State may disregard any representations which are received—
+
+- (a) after the date specified for their receipt by the Secretary of State; or
+- (b) in a manner other than that specified in a procedural decision under regulation 29, or otherwise, by the Secretary of State.
+
+### 48. Decision-making by the Examining body[^key-a4631f7a6c6058d9a38210aab5683737]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 49. Timetable for decisions
+
+(1)[^key-09703bbdb49048a4290d6cffa348abd8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(1A)[^key-4c2b576d00df0065ba0c15dff7fe9825] Where the Secretary of State has served a notice under regulation 21B(2)(a) in respect of an application, the Secretary of State must decide the application by the end of the period of 2 months beginning with the date of that notice.
+
+(2)[^key-4113bfb703ecde1060cdae25a394836f] In other cases, the Secretary of State[^key-cfe0f89c7f28aa18e69f86aa89e7a92a] must decide the application by the end of the period of 2 months[^key-f0c78639d0ff8d3ee0a3a77499605434] beginning with the earlier of—
+
+- (a) the deadline for the Secretary of State to have received a report on the application from the Examining body under regulation 43(2); and
+- (b) the end of the day on which the Secretary of State receives a report on the application from the Examining body under regulation 43(2).
+
+(3) The Secretary of State may set a date for the deadline under this regulation[^key-db09061f499a199c58cd19feaa0c6e3b] that is later than the date for the time being set.
+
+(4) The Secretary of State may change the date set for the deadline under this regulation[^key-ebb208b16a30bc340ff7d23ae86dc82b]—
+
+- (a) more than once in relation to the same deadline;
+- (b) after the date for the time being set for the deadline.
+
+(5)[^key-28ae594c7319faec8f064f5136cc0d1c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(6)[^key-b37a778cdcf31513b21a711be1135c50] Where the Secretary of State exercises the power under paragraph (3), the Secretary of State must make a statement to the House of Parliament of which that Secretary of State is a member, announcing the new deadline.
+
+(7) A statement under paragraph (6) must be published in such form and manner as the Secretary of State considers appropriate.
+
+(8) A statement under paragraph (6) may be written or oral.
+
+### 50. Notification of decisions
+
+The Secretary of State must give written notice of its decision on an application to each person who it is required by regulation 52 to provide a copy of the statement of its reasons for its decision on an application.
+
+### 51. Notice of authorisation of compulsory acquisition
+
+(1) This regulation applies if an order under paragraph 3(1) of Schedule 6 to the Act (“**the order**”) includes provision authorising the compulsory acquisition of land.
+
+(2) In this regulation—
+
+- “**the order land**” means—
+  - (a) in a case where the order authorises the compulsory acquisition of a right over land by the creation of a new right, the land over which the right is to be exercisable;
+  - (b) in any other case where the order authorises the compulsory acquisition of land, the land authorised to be compulsorily acquired;
+- “**the prospective purchaser**” means—
+  - (c) in a case where the order authorises the compulsory acquisition of a right over land by the creation of a new right, the person for whose benefit the order authorises the creation of the right;
+  - (d) in any other case where the order authorises the compulsory acquisition of land, the person authorised by the order to compulsorily acquire the land.
+
+(3) After the order has been made, the prospective purchaser must—
+
+- (a) serve a compulsory acquisition notice [^key-f1b602515b4a779450fc41bf6a052af0]...on each person to whom paragraph (4) applies, [^key-8bab894e731fb469abe944c468c11eb9]...
+- (b) affix a compulsory acquisition notice to a conspicuous object or objects on or near the order land , and[^key-a2415d7a52155f74f5bbae49a469a82f]
+- (c)[^key-a770ddb70f1ddb817605c6c889273c91] make a copy of the order available, at a place in the vicinity of the land, for inspection by the public at all reasonable hours.
+
+(4) This paragraph applies to any person who, if the order were a compulsory purchase order, would be a qualifying person for the purposes of section 12(1) of the Acquisition of Land Act 1981 [^c21028261] (notice to owners, lessees and occupiers).
+
+(5) A compulsory acquisition notice which is affixed under paragraph (3)(b) must—
+
+- (a) be addressed to persons occupying or having an interest in the order land, and
+- (b) so far as practicable, be kept in place by the prospective purchaser until the end of the period of 6 weeks beginning with the date on which the order is published.
+
+(6) The prospective purchaser must also publish a compulsory acquisition notice in one or more local newspapers circulating in the locality in which the order land is situated.
+
+(7) A compulsory acquisition notice is a notice, which contains the following information—
+
+- (a) a description of the order land;
+- (b) in a case where the order includes provision authorising the compulsory acquisition of a right over land by the creation of a new right, a description of the right;
+- (c) a statement that the order includes provision authorising the compulsory acquisition of a right over the land by the creation of a right over it or (as the case may be) the compulsory acquisition of the land;
+- (ca)[^key-fd95bfb62fd596211456ebfa1902e325] stating where and when a copy of the order is available for inspection in accordance with paragraph (3)(c); and
+- (d) a statement that a person aggrieved by the order may challenge the order only in accordance with section 118 of the Act.
+
+(8)[^key-f74da2f3f12c6f7f124cb80aa1d3ae72] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 52. Statement of reasons
+
+(1) The Secretary of State must prepare a written statement of its reasons for deciding to make an order under paragraph 3(1) of Schedule 6 to the Act or for refusing to make an order.
+
+(2) The Secretary of State must provide a copy of the statement to the following—
+
+- (a) the applicant;
+- (b) each person who has the benefit of the development consent order to which the application relates;
+- (c)[^key-0b05bde40c5c254195c584c5812a66d5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^key-ec8ef7c45b59ac750affa43ba16fdba9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e) the Greater London Authority if the land is in Greater London;
+- (f) the Marine Management Organisation if the land is in one or more of the areas specified in subsection (1A) of section 102 [^c21028271];
+- (g) any person who has made a relevant representation; and
+- (h)[^key-7777e201feed109679e8c7453ec1bc51] any person who has become an interested party before completion of the examination
+
+except, in the case of a person who is capable of being an interested party, where such a person has ceased to be an interested party on the date of completion of the examination under regulation 42.[^key-85c7a98d45d2163afb1d487081ff3e55]
+
+(3) The Secretary of State must publish the statement in such manner as the Secretary of State thinks appropriate.
+
+### 53. Effect of decision
+
+(1) Subject to paragraph (2), if a change, which is material, is made to a development consent order under the power conferred by paragraph 3(1) of Schedule 6 to the Act—
+
+- (a) the development consent order continues in force; and
+- (b) the change to the development consent order takes effect from the date on which the notice of the Secretary of State's decision is notified under regulation 50, or if the change to the order is required to be made by order contained in a statutory instrument, the date specified in the order making the change.
+
+(2) If under the power conferred by paragraph 3(1) of Schedule 6 to the Act a development consent order is revoked, the revocation shall take effect—
+
+- (a) from the date specified in the order making the revocation; or
+- (b) where there is no date specified, the date on which the order making the revocation is made.
+
+## PART 3 — Changes to, and revocation of, orders granting development consent under paragraphs 3(1), 3(3)... and 3(7) of Schedule 6 to the Act[^key-26d1c41475f14eaab3efe001d8897d18]
+
+### 54. General
+
+The regulations in this Part apply where the Secretary of State proposes to make an order under paragraph 3(1) in the circumstances described in paragraphs 3(3)[^key-0c20f15a9425b87873500209c348aece]... or 3(7) of Schedule 6 to the 2008 Act.
+
+### 55. Notice
+
+(1) Before making an order the Secretary of State must give notice of its intention to consider making such an order to—
+
+- (a) each person for whose benefit the development consent has effect;
+- (b) each authority which, in relation to the application, is a relevant local authority;
+- (c) the Greater London Authority if the land is in Greater London;
+- (d) the Marine Management Organisation if the land is in one or more of the areas specified in subsection (1A) of section 102;
+- (e) each person who is within one or more of the categories set out in section 57 as regards the land;
+- (f)[^key-39c59b45f17e79d7eca42251e6852b49] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (g) the persons listed in column 1 of the table in Schedule 1 to these Regulations, in the circumstances specified in relation to each such person in column 3 of that table, subject to the modification that each reference to the “**application**” shall be deemed to be a reference to the “**proposed order**” .
+
+(2) The notice must include—
+
+- (a) a copy of the proposed order;
+- (b) any documents or plans considered necessary to support the proposed order;
+- (c) a statement saying whether the proposed order involves EIA development;
+- (d) a statement that—
+  - (i) the Secretary of State is satisfied as to the matters described in paragraph 3(3) of Schedule 6 to the Act; or[^key-7892c55e40c4262c810699a8021297a3]
+  - (ii)[^key-33793ab506df38442199bc99585111a0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (iii) the Secretary of State is satisfied as to the matters described in paragraph 3(7) of Schedule 6 to the Act;
+- (e) a statement that a copy of the proposed order and any accompanying documents and plans are available for inspection free of charge on a website maintained by or on behalf of the Secretary of State[^key-fcdf71021560d0481e801b0907ed9d39];
+- (ea)[^key-1d52cd031a279f011ae7a78166f57fe2] the address of the website where the proposed order and any accompanying documents and plans may be inspected;
+- (eb) the place on the website where the proposed order and any accompanying documents and plans may be inspected;
+- (ec) a telephone number which can be used to contact the Secretary of State or a representative of the Secretary of State for enquiries in relation to the proposed order and any accompanying documents and plans;
+- (f) the latest date on which those documents will be available for inspection on the website[^key-d38977927188767c7983ed50e238bbad] being a date not earlier than the end of the period of 28 days that begins with the day after the day on which the person receives the notice;
+- (g) a statement as to whether a charge will be made for copies of any of the documents and if so the amount of any charge;
+- (h) details of how to make representations (giving notice of any interest in, or objection to, the proposed order); and
+- (i) a deadline for the receipt by the Secretary of State of those representations being not less than 28 days following the date on which the person receives the notice.
+
+### 56. Publicising a proposed order
+
+(1) The Secretary of State must publish a notice, which must include the matters specified in paragraph (2), in the same manner as is prescribed in relation to a proposed application by regulation 14.
+
+(2) The matters which the notice must include are—
+
+- (a) the name and address of the Secretary of State;
+- (b) a statement to the effect that the Secretary of State is considering making the proposed order;
+- (c) the reference of the Secretary of State;
+- (d) a summary of the main proposals in the proposed order;
+- (e) a statement saying whether the proposed order involves EIA development;
+- (f) a statement that a copy of the proposed order and any accompanying documents, plans and maps are available for inspection free of charge on a website maintained by or on behalf of the Secretary of State[^key-1c8d76fa0b35f91f12a8f223d7d44147];
+- (fa)[^key-53e5a60f1ac89abe2125f311244173db] the address of the website where the proposed order and any accompanying documents, plans and maps may be inspected;
+- (fb) the place on the website where the proposed order and any accompanying documents, plans and maps may be inspected;
+- (fc) a telephone number which can be used to contact the Secretary of State or a representative of the Secretary of State for enquiries in relation to the proposed order and any accompanying documents, plans and maps;
+- (g) the latest date on which those documents will be available for inspection on the website[^key-ce59ecec79a20d54d1f8417e79957e81] (being a date not earlier than the deadline date under sub-paragraph (j));
+- (h) a statement as to whether a charge will be made for copies of any of the documents and if so the amount of any charge;
+- (i) details of how to make representations (giving notice of any interest in, or objection, to the application); and
+- (j) a deadline for the receipt by the Secretary of State of those representations being not less than 28 days following the date that the notice is last published.
+
+### 56A. Coronavirus: temporary modifications to this Part[^key-4419a60d3f08bff2f1778b632c87e656]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 57. Notification of decisions
+
+The Secretary of State must give written notice of its decision to each person who it is required by regulation 58 to provide a copy of the statement of its reasons for its decision.
+
+### 58. Statement of reasons
+
+(1) The Secretary of State must prepare a written statement of its reasons for deciding to make an order under paragraph 3(1) of Schedule 6 to the Act or for refusing to make an order.
+
+(2) The Secretary of State must provide a copy of the statement to the following—
+
+- (a) the applicant;
+- (b) each person who has the benefit of the development consent order to which the application relates;
+- (c) any statutory party;
+- (d) each relevant local authority;
+- (e) the Greater London Authority if the land is in Greater London;
+- (f) the Marine Management Organisation if the land is in one or more of the areas specified in subsection (1A) of section 102;
+- (g) anyone who has made a relevant representation; and
+- (h)[^key-58e6e1ae198f34bb967488ceba9ad59e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) The Secretary of State must publish the statement in such manner as the Secretary of State thinks appropriate.
+
+### 59. Effect of decision
+
+(1) Subject to paragraph (2), if a change, which is material, is made to a development consent order under the power conferred by paragraph 3(1) of Schedule 6 to the Act—
+
+- (a) the development consent order continues in force; and
+- (b) the change to the development consent order takes effect from the date on which the notice of the Secretary of State's decision is notified under regulation 57, or if the change to the order is required to be made by order contained in a statutory instrument, the date specified in the order making the change.
+
+(2) If under the power conferred by paragraph 3(1) of Schedule 6 to the Act a development consent order is revoked, the revocation shall take effect from—
+
+- (a) from the date specified in the order making the revocation; or
+- (b) where there is no date specified, the date on which the order making the revocation is made.
+
+## PART 4 — Provisions about the assessment of compensation payable under paragraph 6 of Schedule 6 to the Act
+
+### 60. Interpretation
+
+In this Part—
+
+- [^key-ab9c921ca215874361cf1877e724da83]...
+- “**the relevant order**” means the order in consequence of which compensation is or may be payable; and
+- “**the 1990 Act**” means the Town and Country Planning Act 1990 [^c21028281].
+
+### 61. Claim for compensation
+
+(1) Any claim for compensation must be made to the Secretary of State[^key-ea49a4471d1b107c7e507e363b701393].
+
+(2) A claim for compensation must be in writing and must contain the following—
+
+- (a) the name and address of the claimant;
+- (b) the name and address of an agent, if appointed;
+- (c) a statement as to whether the claimant has an interest in the land to which the relevant order relates or is a person for whose benefit the development consent order has effect;
+- (d) the Secretary of State's reference for the relevant order;
+- (e) details of the expenditure, loss or damage which is the subject of the claim;
+- (f) documentary evidence to support the claim;
+- (g) if requested by the Secretary of State—
+  - (i) 3 paper copies of the claim; and
+  - (ii) other supporting documents.
+
+(3) A claim for compensation must be made before the end of the period of 12 months that begins on the day after the day on which the Secretary of State gave notification of its decision in accordance with regulation 50 or 57.
+
+(4) Any dispute as to the amount of compensation shall be referred to the Upper Tribunal for determination.
+
+(5) In relation to the determination of any dispute as to the amount of compensation, the provisions of section 4 of the Land Compensation Act 1961 [^c21028291] (costs) shall apply subject to the modification that for “acquiring authority” substitute “Secretary of State” in each place where the words occur.
+
+### 62. Assessment of compensation
+
+(1) In calculating the amount of any compensation for depreciation, it shall be assumed that planning permission would be granted—
+
+- (a) subject to the condition set out in Schedule 10 to the 1990 Act (condition treated as applicable to rebuilding and alterations), for any development of the land of a class specified in paragraph 1(b) or (c) of Schedule 3 to the 1990 Act (development not constituting development) subject to the modifications in paragraph (2) below;
+- (b) for any development of a class specified in paragraph 2 of Schedule 3 to the 1990 Act.
+
+(2) In paragraph 1(b) of Schedule 3 to the 1990 Act omit the words “after 1st July 1948”.
+
+### 63. Apportionment of compensation for depreciation
+
+(1) Where the compensation which becomes payable under paragraph 6 of Schedule 3 to the Act includes compensation for depreciation of an amount exceeding £20, the Secretary of State[^key-6395dad84d1b009e4258f481817f9e4b]—
+
+- (a) if it appears to the Secretary of State[^key-fb4af013dc106ea3b987fa5193967af6] to be practicable to do so, shall apportion the amount of the compensation for depreciation between different parts of the land to which the claim for that compensation relates; and
+- (b) shall give particulars of any such apportionment to the claimant and to any other person entitled to an interest in land which appears to the Secretary of State[^key-8cec5c21566b313cbeb4f95255b5a2ee] to be substantially affected by the apportionment.
+
+(2) In carrying out an apportionment under paragraph (1)(a), the Secretary of State shall divide the land into parts and shall distribute the compensation for depreciation between those parts, according to the way in which different parts of the land appear to the Secretary of State[^key-c37de327f8339efbb2b85203cc68440e] to be differently affected by the order in consequence of which the compensation is payable.
+
+(3) The claimant and any other person to whom particulars of an apportionment have been given under paragraph (1), or who establishes that he is entitled to an interest in land which is substantially affected by such an apportionment, if he wishes to dispute the apportionment, may require it to be referred to the Upper Tribunal—
+
+- (a) for enabling the claimant and every other person to whom particulars of any such apportionment have been so given to be heard by the Tribunal on any reference under this section of that apportionment; and
+- (b) for requiring the Tribunal, on any such reference, either to confirm or to vary the apportionment and to notify the parties of the decision of the Tribunal.
+
+(4) Where on a reference to the Upper Tribunal under this regulation it is shown that an apportionment--
+
+- (a) relates wholly or partly to the same matters as a previous apportionment, and
+- (b) is consistent with that previous apportionment in so far as it relates to those matters,
+
+the Tribunal shall not vary the apportionment in such a way as to be inconsistent with the previous apportionment in so far as it relates to those matters.
+
+(5) On a reference to the Upper Tribunal by virtue of paragraph (4), paragraphs (1) and (2), so far as they relate to the making of an apportionment, shall apply with the substitution, for references to the Secretary of State, of references to the Upper Tribunal.
+
+(6) In this regulation—
+
+- “interest” (where the reference is to an interest in land) means the fee simple or a tenancy of the land and does not include any other interest in it, and
+- “**relevant order**” means the order by which development consent is refused, or is granted subject to requirements other than those previously imposed by the development consent order.
+
+### 64. Registration of compensation for depreciation
+
+Section 110 of the 1990 Act (registration of compensation for depreciation) shall apply subject to the following modifications —
+
+- (a)[^key-01d208b0a6bcd7d58f6c7baa5378c0a7] omit subsection (1); and
+- (b) in subsection (2) for the words “the Secretary of State” to “is given such notice he” substitute “compensation becomes payable which includes compensation for depreciation of an amount exceeding £20 the Secretary of State
+- (c) in subsection (3) omit the words “, or in a case falling within section 108 the relevant planning decision”.
+
+### 65. General provisions as to compensation for depreciation
+
+Section 117 of the 1990 Act (general provisions as to compensation for depreciation) shall apply.
+
+### 66. Compensation for statutory undertakers
+
+Where a statutory undertaker is entitled to compensation, the amount of compensation payable shall be an amount calculated in accordance with section 280 of the 1990 Act (measure of compensation to statutory undertakers, etc), subject to the following modifications—
+
+- (a) omit subsections (1), (2)(c) and (6);
+- (b) in subsection (2)—
+  - (i) before the words “Subject to subsections (4) and (6) ” insert “ and where a statutory undertaker is entitled to an amount of compensation, ”,
+  - (ii) for “to (6)” substitute “ and (5) ”.
+- (c) for subsection (8) substitute the following—
+
+  > In this section—
+  >
+  > - “**the relevant order**” means—
+  >   - (a) the order in respect of which compensation falls to be assessed; and
+  >   - (b) in relation to compensation under section 279(4), the circumstances making it necessary for the apparatus in question to be removed or re-sited; and
+  > - “**the appropriate Minister's certificate**” means such a certificate as is mentioned in sections 127 and 128 of the Planning Act.
+
+## PART 5 — Miscellaneous
+
+### 67. Closed evidence
+
+(1) Nothing in these Regulations shall be taken to require or permit closed evidence to be disclosed to a person other than—
+
+- (a) the Secretary of State;
+- (b) the parties; or
+- (c) a person of any description specified in a direction.
+
+(2) In this regulation—
+
+- (a) “**closed evidence**” means any representation which is subject to a direction;
+- (b) “**direction**” means a direction given by the Secretary of State under section 95A(2) of[^key-5040a1a8c2efd2d6a1c6aa8d4bb75726] the Act;
+- (c) “**parties**” means—
+  - (i) the person who requested a direction; or
+  - (ii) any person appointed under section 95A(3) of[^key-6afea2db3dad429750c6571d23b4f447] to the Act to represent the interests of a person, who is prevented from inspecting or hearing closed evidence during the examination of an application for a development consent order, as a result of the direction.
+
+### 68. Form and service of notices etc.
+
+(1) Where under any provision of these Regulations a person is required to notify another person or body of something, that notification must be in writing.
+
+(2) Any representation, notice or other document required or authorised to be sent under any provision of these Regulations may be sent—
+
+- (a) by sending it by post, addressed to that person at that person's usual or last known place of residence, or in a case where an address for service has been given by that person, at that address;
+- (b) by sending it in a prepaid registered letter, or by recorded delivery service addressed to that person at that person's usual or last known place of residence, or in a case where an address for service has been give by that person, at that address; or
+- (c) subject to paragraphs (3) to (6), by electronic transmission to such address as may for the time being be specified by the person for that purpose.
+
+(3) Where a representation, notice or other document required to be sent for any purpose of these Regulations is sent by electronic transmission, the requirement shall be taken to be fulfilled where the recipient of the representation, notice or other document has consented, either in writing or by electronic transmission, to the use of electronic transmission.
+
+(4) Where the recipient of a representation, notice or other document served or sent by electronic transmission notifies the sender within 7 days of receipt that the recipient requires a paper copy of all or any part of that representation, notice or other document, the sender must provide such a copy as soon as is reasonably practicable.
+
+(5) A person may revoke their consent to the use of electronic transmission for any purpose of these Regulations by giving notice to that effect in writing or by electronic transmission, specifying the purpose for which electronic transmission may not be used and the date on which revocation is to take effect, being not less that 7 days after the date on which the notice is given.
+
+(6) A revocation under paragraph (5) shall take effect on the date specified in the notice.
+
+### 69. Allowing further time
+
+The Secretary of State may at any time and in any particular case allow further time for the taking of any step which must or may be taken by virtue of these Regulations.
+
+### 70. Amendment to the Infrastructure Planning (Compulsory Acquisition) Regulations 2010
+
+Form A in Schedule 1 to the Infrastructure Planning (Compulsory Acquisition) Regulations 2010 [^c21028301] shall be amended as follows—
+
+- (a) in the second paragraph, after the words “the Secretary of State” insert “ \[the Panel that has the function of deciding the application\] \[the Council of the Secretary of State\](d) ”;
+- (b) after the fourth paragraph, insert the following—
+
+  > \[the right can be purchased without serious detriment to the carrying on of the undertaking\] \[any detriment to the carrying on of the undertaking, in consequence of the acquisition of the right, can be made good by the undertakers by the use of other land belonging to or available for acquisition by them\]*(d)*
+
+  .
+
+### 71. Review[^key-7e126848586369501c680b38ef579469]
+
+(1) The Secretary of State must from time to time—
+
+- (a) carry out a review of Schedule 2, and
+- (b) publish a report setting out the conclusions of the review.
+
+(2) The first report must be published before 6th April 2022.
+
+(3) Subsequent reports must be published at intervals not exceeding 5 years.
+
+(4) Section 30(4) of the Small Business, Enterprise and Employment Act 2015 requires that a report published under this regulation must, in particular—
+
+- (a) set out the objectives intended to be achieved by the regulatory provision referred to in paragraph (1)(a);
+- (b) assess the extent to which those objectives are achieved;
+- (c) assess whether those objectives remain appropriate; and
+- (d) if those objectives remain appropriate, assess the extent to which they could be achieved in another way which involves less onerous regulatory provision.
+
+(5) In this regulation, “regulatory provision” has the same meaning as in sections 28 to 32 of the Small Business, Enterprise and Employment Act 2015 (see section 32 of that Act.)
+
+Signed by authority of the Secretary of State for Communities and Local Government
+
+Bob Neill
+
+Parliamentary Under Secretary of State
+
+Department for Communities and Local Government
+
+## SCHEDULE 1 — Consultation and notification
+
+Regulations 10, 19 and 55
+
+Table
+
+| *Column 1; Consultee* | *Column 2; Circumstances when that person must be consulted about a proposed application.* | *Column 3; Circumstances when that person must be notified about an application.* |
+| --- | --- | --- |
+| The Welsh Ministers | All proposed applications likely to affect land in Wales | All applications likely to affect land in Wales |
+| The Scottish Executive | All proposed applications likely to affect land in Scotland | All applications likely to affect land in Scotland |
+| The relevant Northern Ireland Department | All proposed applications likely to affect land in Northern Ireland | All applications likely to affect land in Northern Ireland |
+| The Health and Safety Executive | All cases | All cases |
+| NHS England[^key-0556256827912843828175edbd33467a][^key-bb4b1cbf076fc373945cc001ac8e0ea1] and the relevant integrated care board[^key-ddddb348f25b40328c2f269f904dbd03] | All proposed applications likely to affect land in England and Wales | All applications likely to affect land in England |
+| The relevant Health Board [^c21028311] | All proposed applications likely to affect land in Scotland | All applications likely to affect land in Scotland |
+| Natural England [^c21028321] | All proposed applications likely to affect land in England | All applications likely to affect land in England |
+| The Historic Buildings and Monuments Commission for England | All proposed applications likely to affect land in England | All applications likely to affect land in England |
+| The relevant fire and rescue authority | All cases | All cases |
+| The relevant police and crime commissioner[^key-1ab2017d1357ad6f65e2326f586acb65] | All cases | All cases |
+| The relevant parish council, or, where the application relates to land Wales or Scotland the relevant community council | All cases | All cases |
+| The Environment Agency | All proposed applications likely to affect land in England [^key-0994312894ea1ea3f0ed15cf8a02d561]... | All applications likely to affect land in England [^key-0994312894ea1ea3f0ed15cf8a02d561]... |
+| The Scottish Environment Protection Agency | All proposed applications likely to affect land in Scotland | All applications likely to affect land in Scotland |
+| [^key-d47fc0775230cc51246cb84ea601cba6]. . . | [^key-d47fc0775230cc51246cb84ea601cba6]. . . | [^key-d47fc0775230cc51246cb84ea601cba6]. . . |
+| [^key-167c05b7a80a016bd5561e60a63dadfe]. . . | [^key-167c05b7a80a016bd5561e60a63dadfe]. . . | [^key-167c05b7a80a016bd5561e60a63dadfe]. . . |
+| The Equality and Human Rights Commission *(affected by repeal, see note)*[^key-137b0dfb79733e2e50df3a3e7c7dc989] | All proposed applications likely to affect land in England and Wales *(affected by repeal, see note)*[^key-137b0dfb79733e2e50df3a3e7c7dc989] | All applications likely to affect land in England and Wales *(affected by repeal, see note)*[^key-137b0dfb79733e2e50df3a3e7c7dc989] |
+| The Scottish Human Rights Commission *(affected by repeal, see note)*[^key-6e18d1455665a9142ac75f1edc2163ce] | All proposed applications likely to affect land in Scotland *(affected by repeal, see note)*[^key-6e18d1455665a9142ac75f1edc2163ce] | All applications likely to affect land in Scotland *(affected by repeal, see note)*[^key-6e18d1455665a9142ac75f1edc2163ce] |
+| [^key-a4af9c551a08a1e000432166c2a80c1e]. . . | [^key-a4af9c551a08a1e000432166c2a80c1e]. . . | [^key-a4af9c551a08a1e000432166c2a80c1e]. . . |
+| relevant[^key-90b7bff6e82e6666be3e5239c2d08244] AONB Conservation Boards | All proposed applications likely to affect an AONB that is managed by a Conservation Board | All applications likely to affect an AONB that is managed by a Conservation Board. |
+| Royal Commission on Ancient and Historical Monuments of Wales | All proposed applications likely to affect the historic environment in Wales | All applications likely to affect the historic environment in Wales |
+| The Natural Resources Body for Wales[^key-c93980c1586c0370c56f15bdb5655624] | All proposed applications likely to affect land in Wales | All applications likely to affect land in Wales |
+| The Homes and Communities Agency *(affected by repeal, see note)*[^key-8406c335f8715b43545d96bcf3e68ce2] [^c21028331] | All proposed applications likely to have an effect on its areas of responsibility *(affected by repeal, see note)*[^key-8406c335f8715b43545d96bcf3e68ce2] | All applications likely to have an effect on its areas of responsibility *(affected by repeal, see note)*[^key-8406c335f8715b43545d96bcf3e68ce2] |
+| The Joint Nature Conservation Committee | All proposed applications likely to affect the marine environment | All applications likely to affect the marine environment. |
+| [^key-964e24ae5f8b3e19181a4a748e2ba61e]. . . | [^key-964e24ae5f8b3e19181a4a748e2ba61e]. . . | [^key-964e24ae5f8b3e19181a4a748e2ba61e]. . . |
+| Scottish Natural Heritage | All proposed applications likely to affect land in Scotland | All applications likely to affect land in Scotland |
+| The Maritime and Coastguard Agency | All proposed applications likely to affect the maritime or coastal environment, or the shipping industry | All applications likely to affect the maritime or coastal environment, or the shipping industry. |
+| The Civil Aviation Authority | All proposed applications relating to airports or which are likely to affect an airport or its current or future operation | All applications relating to airports or which are likely to affect an airport or its current or future operation |
+| The Secretary of State for Transport[^key-433e30a481b642706f6bb24064703611] | All proposed applications likely to affect road or transport operation and/or planning on roads for which the Secretary of State for Transport is the highway authority. | All applications likely to affect road or transport operation and/or planning on roads for which the Secretary of State for Transport is the highway authority. |
+| Integrated Transport Authorities (ITAs) and Passenger Transport Executives (PTEs) | All proposed applications likely to affect transport within, to or from the relevant integrated transport area of the ITA or PTE | All applications likely to affect transport within, to or from the relevant integrated transport area of the ITA or PTE |
+| The relevant highway authority | All proposed applications likely to have an impact on the road network or the volume of traffic in the vicinity of the proposal | All applications likely to have an impact on the road network or the volume of traffic in the vicinity of the proposal |
+| The relevant strategic highways company[^key-e6ff65bb0b018d2e032479ee29cad6ab] | All proposed applications likely to affect road or transport operation and/or planning on roads for which the strategic highways company is the highway authority. | All applications likely to affect road or transport operation and/or planning on roads for which the strategic highways company is the highway authority. |
+| Transport for London | All proposed applications likely to affect transport within, to or from Greater London | All applications likely to affect transport within, to or from Greater London |
+| Passenger Focus *(affected by repeal, see note)*[^key-af8a282cd4ae8506c0d85e3994ae1203] | All proposed applications likely to affect rail passenger transport *(affected by repeal, see note)*[^key-af8a282cd4ae8506c0d85e3994ae1203] | All applications likely to affect rail passenger transport *(affected by repeal, see note)*[^key-af8a282cd4ae8506c0d85e3994ae1203] |
+| The Disabled Persons Transport Advisory Committee *(affected by repeal, see note)*[^key-26c64b70860ef367b314a577c62fac26] | All proposed applications likely to affect access to transport for disabled people *(affected by repeal, see note)*[^key-26c64b70860ef367b314a577c62fac26] | All applications likely to affect access to transport for disabled people *(affected by repeal, see note)*[^key-26c64b70860ef367b314a577c62fac26] |
+| The Coal Authority | All proposed applications that lie within areas of past, present or future coal mining | All applications that lie within areas of past, present or future coal mining. |
+| The *(affected by repeal, see note)*[^key-ed7d1869e702a2ca16970b39ef99cfa4] Office of Rail and Road[^key-6bff5b4328a8eb3d5da97691ae077ad2] *(affected by repeal, see note)*[^key-ed7d1869e702a2ca16970b39ef99cfa4] and approved operators *(affected by repeal, see note)*[^key-ed7d1869e702a2ca16970b39ef99cfa4] [^c21028341] | All proposed applications likely to affect the rail transport industry *(affected by repeal, see note)*[^key-ed7d1869e702a2ca16970b39ef99cfa4] | All applications likely to affect the rail transport industry *(affected by repeal, see note)*[^key-ed7d1869e702a2ca16970b39ef99cfa4] |
+| The Gas and Electricity Markets Authority *(affected by repeal, see note)*[^key-c744401dbcf19aaec6222cf15c55add4] | All proposed applications likely to affect gas and electricity markets *(affected by repeal, see note)*[^key-c744401dbcf19aaec6222cf15c55add4] | All applications likely to affect gas and electricity markets *(affected by repeal, see note)*[^key-c744401dbcf19aaec6222cf15c55add4] |
+| The Water Services Regulation Authority *(affected by repeal, see note)*[^key-6a90f71058afaaf11389a6853080e908] | All proposed applications likely to affect the water industry in England and Wales *(affected by repeal, see note)*[^key-6a90f71058afaaf11389a6853080e908] | All applications likely to affect the water industry in England and Wales *(affected by repeal, see note)*[^key-6a90f71058afaaf11389a6853080e908] |
+| The Water Industry Commission of Scotland *(affected by repeal, see note)*[^key-73fdad736f3180e578673058bf543077] | All proposed applications likely to affect the water industry in Scotland *(affected by repeal, see note)*[^key-73fdad736f3180e578673058bf543077] | All proposed applications likely to affect the water industry in Scotland *(affected by repeal, see note)*[^key-73fdad736f3180e578673058bf543077] |
+| The relevant waste regulation authority *(affected by repeal, see note)*[^key-8f2d4892f438f6a27f5ca79f55df6ad4] | All proposed applications likely to affect waste infrastructure *(affected by repeal, see note)*[^key-8f2d4892f438f6a27f5ca79f55df6ad4] | All applications likely to affect waste infrastructure *(affected by repeal, see note)*[^key-8f2d4892f438f6a27f5ca79f55df6ad4] |
+| The relevant internal drainage board | All proposed applications likely to increase the risk of flooding in that area or where the proposals relate to an area known to be an area of flood risk | All applications likely to increase the risk of flooding in that area or where the proposals relate to an area know to be an area of flood risk |
+| The British Waterways Board | All proposed applications likely to have an impact on inland waterways or land adjacent to inland waterways | All applications likely to have an impact on inland waterways or land adjacent to inland waterways |
+| Trinity House [^c21028351] | All proposed applications likely to affect navigation in tidal waters | All applications likely to affect navigation in tidal waters |
+| United Kingdom Health Security Agency[^key-d1afbb93fa6447987ccbd680fe1b4672][^key-771542e17ecffa526157ec6e86ddb9d6] , an executive agency of the Department of Health and Social Care[^key-ad045539410cb573c1a9f9cfb231a937] | All proposed applications likely to involve chemicals, poisons or radiation which could potentially cause harm to people and likely to affect significantly public health[^key-981eec62256ce1582bf3cdad59a5019b] | All applications likely to involve chemicals, poisons or radiation which could potentially cause harm to people and likely to affect significantly public health |
+| The relevant local resilience forum *(affected by repeal, see note)*[^key-cd8caa67358480fd3a34a9218b49eea3] | All cases *(affected by repeal, see note)*[^key-cd8caa67358480fd3a34a9218b49eea3] | All cases *(affected by repeal, see note)*[^key-cd8caa67358480fd3a34a9218b49eea3] |
+| Relevant statutory undertakers | All proposed applications likely to affect their functions as statutory undertakers | All applications likely to affect their functions as statutory undertakers |
+| The Crown Estate Commissioners | All proposed applications likely to impact on the Crown Estate | All applications likely to impact on the Crown Estate |
+| The Forestry Commission | All proposed applications likely to affect the protection or expansion of forests and woodlands in England[^key-2babb0b7fb208988d6cd634bd21b96b9] [^key-d4938878eefdb2a8542257849adc70aa]... | All applications likely to affect the protection or expansion of forests and woodlands in England [^key-d4938878eefdb2a8542257849adc70aa]... |
+| The Natural Resources Body for Wales[^key-8b656b4e23566ad5986558c1fbbd4837] | All proposed applications likely to affect the protection or expansion of forests and woodlands in Wales | All applications likely to affect the protection or expansion of forests and woodlands in Wales |
+| The relevant local health board[^key-387e21df461c902d5e68c02cc79e7b24] | All proposed applications likely to affect land in Wales | All applications likely to affect land in Wales |
+| The National Health Service Trusts | All proposed applications likely to affect land in Wales | All applications likely to affect land in Wales |
+| The Secretary of State for Defence[^key-f45eec0d8141262d499829e24b5df457] | All proposed applications likely to affect current or future operation of a site identified in a safeguarding map and all developments in the marine area | All applications likely to affect current or future operation of a site identified in a safeguarding map and all developments in the marine area |
+|  |  |  |
+
+Note *(affected by repeal, see note)*[^key-b945eb525f4dc885fbc57d563805c093] Notes to Table
+
+(a)[^key-3ae318c9c6f26835113f4594e3701152] “**relevant**”, in relation to a body, shall mean the body which has responsibility for the location where the development to which an application is sited or has responsibility for an area which neighbours that location *(affected by repeal, see note)*[^key-0f047e2bed8be1029e17eea2996205e7].
+
+(b)[^key-77c1d36e3b518c2df44d276e7ceac0f2] “safeguarding map” has the meaning given in a direction made by the Secretary of State in exercise of the powers conferred by articles 16(4), 25(1), 29(6) and 39 of the Town and Country Planning (Development Management Procedure)(England) Order 2010.
+
+## SCHEDULE 2 — Fees
+
+Regulation 18
+
+### 1. Interpretation
+
+(1) In this Schedule “**application**” has the same meaning as in regulation 9 .
+
+(2) Any reference in this Schedule to a paragraph is a reference to a paragraph of this Schedule.
+
+(3) In this Schedule any reference to the receipt by the Secretary of State of a payment by way of a fee is a reference to the Secretary of State having received cleared funds in respect of the full amount of the fee.
+
+(4) In these Regulations any reference to a failure to pay a fee is a reference to the Secretary of State not having received cleared funds in respect of the full amount of the fee or having received payment of the full amount by cheque which has subsequently been dishonoured.
+
+### 2. Fee to accompany an application
+
+(1) At the same time that an application for an order under paragraph 3(1) of Schedule 6 to the Act is made to the Secretary of State the fee specified in sub-paragraph (3) must be paid to the Secretary of State.
+
+(2) If the applicant fails to pay the fee, the Secretary of State need not consider the application until payment is received by the Secretary of State.
+
+(3) The fee payable on making an application is £6,750[^key-85845621e2e8060fc7904d8a044f9c41].
+
+### 3. Pre-examination fee
+
+(1) In cases where the Secretary of State decides that it is necessary to appoint an Examining body, the Secretary of State[^key-a46f092ce298f0fdd2a20945fa034ba2] must charge the applicant a pre-examination fee.
+
+(2) Following a decision under regulation 22, the Secretary of State must notify the applicant as soon as reasonably practicable, of the pre-examination fee.
+
+(3)[^key-a4db3cb62ddce6efcdfaefb88256ae9e] The pre-examination fee is—
+
+- (a) where a single appointed person will handle the application, £12,750;
+- (b) where two appointed persons will handle the application, £25,500;
+- (c) where three appointed persons will handle the application, £38,250;
+- (d) where more than three appointed persons will handle the application, £57,750.
+
+(4) The pre-examination fee must be received by the Secretary of State within the period of 28 days beginning with the date of the notice referred to in sub-paragraph (2).
+
+(5) If the applicant fails to pay the pre-examination fee within the period specified in sub-paragraph (4), the Secretary of State need take no further steps in relation to the application until payment has been received by the Secretary of State.
+
+### 4. Fee in respect of the handling of an application
+
+(1) Where applicable, the Secretary of State[^key-b3a6b302290fef76e6ad08e813225306] must charge the applicant a fee in respect of its examination of the application.
+
+(2) The fee payable is the sum of —
+
+- (a) an initial payment calculated in accordance with paragraph 5; and
+- (b) a final payment calculated in accordance with paragraph 6.
+
+### 5. Initial payment in respect of the handling of an application
+
+(1) Following the preliminary meeting under regulation 28, the Secretary of State must, as soon as reasonably practicable, give the applicant notice in writing of—
+
+- (a) the number of estimated relevant days;
+- (b) whether the application is to be examined by a single appointed person, or 2 or more appointed persons, and in the latter case, the number of appointed persons who are to be appointed; and
+- (c) the initial payment.
+
+(2) In this paragraph—
+
+- “**estimated relevant day**” means a day estimated by the Secretary of State as required for its examination of the application;
+- “initial payment” in relation to a notice under sub-paragraph (1) means—[^key-cd3d21476461d0bd948ed799c1fad7a2]
+  - (a) where the examination is to be handled by a single appointed person, £923 for each estimated relevant day;
+  - (b) where the examination is to be handled by two appointed persons, £1,467 for each estimated relevant day;
+  - (c) where the examination is to be handled by three appointed persons, £2,010 for each estimated relevant day;
+  - (d) where the examination is to be handled by more than three appointed persons, £3,060 for each estimated relevant day.
+
+(3) The initial payment must be received by the Secretary of State within the period of 28 days beginning with the date of the notice referred to in sub-paragraph (1).
+
+(4) If the applicant fails to pay the initial payment within the period specified in sub-paragraph (3), the Secretary of State need take no further steps in relation to the application until payment has been received by the Secretary of State.
+
+### 6. Final payment in respect of the handling of an application
+
+(1) Following notification of the completion of the examination, the Secretary of State must, as soon as reasonably practicable, give the applicant notice of the final payment.
+
+(2)[^key-7b19d7ddd67059decb29f44d11ba830b] The final payment is—
+
+- (a) where a single appointed person has examined the application, £1,845 for each relevant day;
+- (b) where two appointed persons have examined the application, £2,933 for each relevant day;
+- (c) where three appointed persons have examined the application, £4,020 for each relevant day;
+- (d) where more than three appointed persons have examined the application, £6,120 for each relevant day
+
+less the initial payment referred to in paragraph 5.
+
+(3) In this paragraph “**relevant day**” means a day on which the Secretary of State examined the application.
+
+(4) The final payment must be received by the Secretary of State within the period of 28 days beginning with the date of the notice referred to in sub-paragraph (1).
+
+(5) If the applicant fails to pay the fee within the period specified in sub-paragraph (4), the Secretary of State need take no further steps in relation to the application until payment has been received by the Secretary of State.
+
+### 7. Fee in respect of venue costs
+
+(1) Where the applicant does not provide a venue for a hearing the Secretary of State may charge a fee in respect of the venue costs.
+
+(2) In sub-paragraph (1) “**venue costs**” means—
+
+- (a) where the Secretary of State causes a hearing to be held, the costs reasonably incurred by the Secretary of State in respect of that hearing; or
+- (b) where the Secretary of State makes arrangements for a hearing to be held but it does not take place, the costs reasonably incurred by the Secretary of State in respect of those arrangements.
+
+(3) The Secretary of State must notify the applicant of the amount of the fee.
+
+(4) The fee must be received by the Secretary of State within the period of 28 days beginning with the date of the notice referred to in sub-paragraph (3).
+
+(5) If the applicant fails to pay the fee within the period specified in sub-paragraph (4), the Secretary of State need take no further steps in relation to the application until payment has been received by the Secretary of State.
+
+(6) In this paragraph “**hearing**” means a hearing held in accordance with these Regulations.
+
+### 8. Fees payable on or after 1st April 2018[^key-87816c5304b4e9e7b95e102d2a41662c]
+
+(1) Each relevant fee is increased by the appropriate percentage on 1st April 2018, and on 1st April in any subsequent year, if the appropriate percentage is greater than zero.
+
+(2) The appropriate percentage is the CPI 12-month percentage rate published for the preceding September.
+
+(3) The amount of any increase is in pounds sterling, rounded up or down to the nearest pound.
+
+(4) In any year, the increase in a relevant fee described in paragraph (1) applies only where the obligation to pay that fee arises on or after 1st April in that year.
+
+(5) In this regulation—
+
+- “the CPI 12-month percentage rate” means the measure of the change in prices between one month and the same month in the subsequent year, published by the Statistics Board, a body corporate established by section 1 of the Statistics and Registration Service Act 2007; and
+- “relevant fee” means any fee prescribed in any of paragraphs 2, 3, 5 or 6 of this Schedule.
+
+*(This note is not part of the Regulations)*
+
+The Planning Act 2008 (“**the Act**”) established the Infrastructure Planning Commission and provides for the granting of development consent for certain types of nationally significant infrastructure projects. Section 153 of and Schedule 6 to the Act contain provisions concerning changes to, and the revocation of orders granting development consent after they have been granted. Paragraph 2 of Schedule 6 to the Act enables the appropriate authority to make a change to a development consent which is non-material. Paragraph 3 of Schedule 6 to the Act gives the appropriate authority a general power to make a change to, or revoke a development consent order. Paragraph 6 of Schedule 6 to the Act contains provisions in respect of claims for and payment of compensation following the exercise of the power in paragraph 3.
+
+These Regulations set out procedural provisions in respect of applications under Schedule 6 to the Act, their consideration and determination. It also provides for the payment of fees for such applications. Section 4 of the Act gives the Secretary of State the power to make regulations for the charging of fees by the Commission.
+
+Part 1 of these Regulations sets out procedural provisions in respect of applications for a change, which is not material, to a development consent order.
+
+Part 2 of the Regulations contains provisions regarding applications for changes to, and revocation of, orders granting development consent under paragraph 3(1) of Schedule 6 in the circumstances described in paragraphs 3(4) and 3(5) of Schedule 6.
+
+Part 3 of the Regulations concerns applications for changes to, and revocation of, orders granting development consent under paragraph 3(1) of Schedule 6 to the Act in the circumstances described in paragraph 3(3), (3)(6) and 3(7) of Schedule 6 to the Act. Paragraphs 3(3) and 3(7) provide that in certain circumstances an order under paragraph 3(1) can be made without an application having be made.
+
+Part 4 of the Regulations contains provisions in respect of the assessment of the compensation payable under paragraph 6 of Schedule 6 to the Act. Regulation 61 provides that any claim for compensation must be made to the appropriate authority, contains requirements as to the form, content and timing of the claim. It further provides that any dispute as to the amount of compensation shall be referred to the Upper Tribunal for determination. Assumptions to be made in the context of the assessment of compensation are set out in regulation 62. Regulation 63 details how compensation is to be apportioned between different parts of the land to which a claim for compensation relates. Sections 110 and 117 of the Town and Country Planning Act 1990 are applied by regulations 64 and 65. Regulation 66 provides that the compensation for statutory undertakers shall be calculated in accordance with section 280 of the Town and Country Planning Act 1990.
+
+Part 5 of the Regulations contains various miscellaneous provisions. Regulation 67 defines closed evidence and provides for its disclosure. Regulation 68 contains provisions in respect of the form and content of notices. Regulation 69 states that the appropriate authority can allow further time for taking any step which must, or may be taken under these Regulations. Regulation 70 amends the Infrastructure Planning (Compulsory Acquisition) Regulations 2010 (S.I. 2010/104 in accordance with commitments made in a Memorandum to the Joint Committee on Statutory Instruments. Regulation requires the Secretary of State to review the operation and effect of these Regulations and lay a report before Parliament with five years after the Regulations come into force. Following the review the Secretary of State will decide whether the Regulations should be maintained in force with or without amendments.
+
+Schedule 1 to these Regulations lists the persons and bodies that must be consulted under regulation 10, given notice of a proposed application under regulation 19 and given notice of the appropriate authority's intention to consider making an order under regulation 55.
+
+Schedule 2 to these Regulations provides the fees that are payable when an application is made and in respect of its examination.
+
+An Impact Assessment has been prepared and has been placed in the Library of each House of Parliament and copies may be obtained from the Department for Communities and Local Government Planning - Major Infrastructure Division, Zone 1/H6, Eland House, Bressenden Place, London, SW1E 5DU (0303 444 1617).
+
+## Annotations
+
+[^c21028091]: Marginal citation: [2008 c.29](https://www.legislation.gov.uk/ukpga/2008/29). Section 102 was amended by section 23(1), (6)(a) and (6)(b) of the [Marine and Coastal Access Act 2009 (c.23)](https://www.legislation.gov.uk/ukpga/2009/23). There are other amendments which are not relevant to these Regulations. See section 235 for the meaning of “prescribed”.
+
+[^key-da485ed4e9ea5fb069cf92d637301475]: Textual amendment: Words in Regulations substituted (1.4.2012) by [The Localism Act 2011 (Infrastructure Planning) (Consequential Amendments) Regulations 2012 (S.I. 2012/635)](https://www.legislation.gov.uk/uksi/2012/635), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/635/regulation/1/2), [11(2)](https://www.legislation.gov.uk/uksi/2012/635/regulation/11/2)
+
+[^c21028101]: Marginal citation: [2000 c.37](https://www.legislation.gov.uk/ukpga/2000/37). Section 86 was amended by the [Planning and Compulsory Purchase Act 2004 (c.5)](https://www.legislation.gov.uk/ukpga/2004/5), [sections 118(2)](https://www.legislation.gov.uk/ukpga/2004/5/section/118/2), [120](https://www.legislation.gov.uk/ukpga/2004/5/section/120), [Schedule 7](https://www.legislation.gov.uk/ukpga/2004/5/schedule/7), [paragraph 23(a)](https://www.legislation.gov.uk/ukpga/2004/5/paragraph/23/a) and (b), Schedule 9 and by the [Natural Environment and Rural Communities Act 2006 (c.16)](https://www.legislation.gov.uk/ukpga/2006/16), [section 105(1)](https://www.legislation.gov.uk/ukpga/2006/16/section/105/1), [Schedule 11](https://www.legislation.gov.uk/ukpga/2006/16/schedule/11), [Part 1](https://www.legislation.gov.uk/ukpga/2006/16/part/1), [paragraph 164(c)](https://www.legislation.gov.uk/ukpga/2006/16/paragraph/164/c).
+
+[^key-291de5eab93cb75212486eefb6bf6131]: Textual amendment: Words in reg. 2(1) inserted (1.4.2012) by [The Localism Act 2011 (Infrastructure Planning) (Consequential Amendments) Regulations 2012 (S.I. 2012/635)](https://www.legislation.gov.uk/uksi/2012/635), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/635/regulation/1/2), [11(3)(a)](https://www.legislation.gov.uk/uksi/2012/635/regulation/11/3/a)
+
+[^key-2c905a3c5521dd8f39dd9aa1dd3d12b3]: Textual amendment: Words in reg. 2(1) omitted (1.4.2012) by virtue of [The Localism Act 2011 (Infrastructure Planning) (Consequential Amendments) Regulations 2012 (S.I. 2012/635)](https://www.legislation.gov.uk/uksi/2012/635), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/635/regulation/1/2), [11(3)(b)](https://www.legislation.gov.uk/uksi/2012/635/regulation/11/3/b)
+
+[^key-4e2fc729da9982d0f53f52cb6c7aa951]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2011/2055/regulation/2/1) omitted (1.7.2022) by virtue of [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [54(2)(a)](https://www.legislation.gov.uk/uksi/2022/634/regulation/54/2/a)
+
+[^key-95121804e245a33a64466ff5e36941ad]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2011/2055/regulation/2/1) substituted (24.7.2026) by [The Infrastructure Planning (Development Consent) (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/735)](https://www.legislation.gov.uk/uksi/2026/735), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/735/regulation/1/2), [3(2)(a)](https://www.legislation.gov.uk/uksi/2026/735/regulation/3/2/a)
+
+[^key-852f8dd7ca6f2c0f6aebef3c222fbb9d]: Textual amendment: Words in reg. 2(1) substituted (1.4.2012) by [The Localism Act 2011 (Infrastructure Planning) (Consequential Amendments) Regulations 2012 (S.I. 2012/635)](https://www.legislation.gov.uk/uksi/2012/635), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/635/regulation/1/2), [11(3)(c)](https://www.legislation.gov.uk/uksi/2012/635/regulation/11/3/c)
+
+[^c21028121]: Marginal citation: [2004 c.21](https://www.legislation.gov.uk/ukpga/2004/21). Section 1 was amended by the [Civil Contingencies Act 2004 (c.36)](https://www.legislation.gov.uk/ukpga/2004/36), [section 31(1)](https://www.legislation.gov.uk/ukpga/2004/36/section/31/1), [Schedule 2](https://www.legislation.gov.uk/ukpga/2004/36/schedule/2), [Part 1](https://www.legislation.gov.uk/ukpga/2004/36/part/1), [paragraph 10(1)](https://www.legislation.gov.uk/ukpga/2004/36/paragraph/10/1) and (2).
+
+[^key-c93517d94b25d2477e35ebc4b61039a4]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2011/2055/regulation/2/1) inserted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [54(2)(b)](https://www.legislation.gov.uk/uksi/2022/634/regulation/54/2/b)
+
+[^c21028131]: Marginal citation: [2008 c.26](https://www.legislation.gov.uk/ukpga/2008/26).
+
+[^c21028141]: Marginal citation: [1991 c.59](https://www.legislation.gov.uk/ukpga/1991/59).
+
+[^key-81aca52451c0f3a0cb31618e581611a9]: Textual amendment: Words in reg. 2(1) inserted (1.4.2012) by [The Localism Act 2011 (Infrastructure Planning) (Consequential Amendments) Regulations 2012 (S.I. 2012/635)](https://www.legislation.gov.uk/uksi/2012/635), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/635/regulation/1/2), [11(3)(d)(i)](https://www.legislation.gov.uk/uksi/2012/635/regulation/11/3/d/i)
+
+[^key-f6fdaf0b3c8c7167140caa19b46caadf]: Textual amendment: Words in reg. 2(1) substituted (1.4.2012) by [The Localism Act 2011 (Infrastructure Planning) (Consequential Amendments) Regulations 2012 (S.I. 2012/635)](https://www.legislation.gov.uk/uksi/2012/635), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/635/regulation/1/2), [11(3)(d)(ii)](https://www.legislation.gov.uk/uksi/2012/635/regulation/11/3/d/ii)
+
+[^key-1fc84190c189970a6565651aae8996a9]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2011/2055/regulation/2/1) substituted (24.7.2026) by [The Infrastructure Planning (Development Consent) (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/735)](https://www.legislation.gov.uk/uksi/2026/735), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/735/regulation/1/2), [3(2)(b)](https://www.legislation.gov.uk/uksi/2026/735/regulation/3/2/b)
+
+[^key-1033fbfdaaea62dfce521b45030824da]: Textual amendment: Word in reg. 2(1) omitted (1.4.2012) by virtue of [The Localism Act 2011 (Infrastructure Planning) (Consequential Amendments) Regulations 2012 (S.I. 2012/635)](https://www.legislation.gov.uk/uksi/2012/635), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/635/regulation/1/2), [11(3)(d)(iii)](https://www.legislation.gov.uk/uksi/2012/635/regulation/11/3/d/iii)
+
+[^key-f9442b6ee9b93e051aff2395a225c4c0]: Textual amendment: Words in reg. 2(1) inserted (1.4.2012) by [The Localism Act 2011 (Infrastructure Planning) (Consequential Amendments) Regulations 2012 (S.I. 2012/635)](https://www.legislation.gov.uk/uksi/2012/635), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/635/regulation/1/2), [11(3)(d)(iv)](https://www.legislation.gov.uk/uksi/2012/635/regulation/11/3/d/iv)
+
+[^key-17762070bd3ca14150662ce4e4c67b43]: Textual amendment: Words in reg. 2(1) inserted (1.4.2012) by [The Localism Act 2011 (Infrastructure Planning) (Consequential Amendments) Regulations 2012 (S.I. 2012/635)](https://www.legislation.gov.uk/uksi/2012/635), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/635/regulation/1/2), [11(3)(d)(v)](https://www.legislation.gov.uk/uksi/2012/635/regulation/11/3/d/v)
+
+[^key-af7079675b1fd16e071b47d9b8fbf9c8]: Textual amendment: Words in reg. 2 inserted (6.4.2013) by [The Infrastructure Planning (Prescribed Consultees and Interested Parties etc.) (Amendment) Regulations 2013 (S.I. 2013/522)](https://www.legislation.gov.uk/uksi/2013/522), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/522/regulation/1/2), [6(2)(b)](https://www.legislation.gov.uk/uksi/2013/522/regulation/6/2/b)
+
+[^key-6c4fc68e4b7aa134c2715a0a2eed8a0f]: Textual amendment: Words in reg. 2 omitted (E.) (6.4.2013) by virtue of [The Infrastructure Planning (Prescribed Consultees and Interested Parties etc.) (Amendment) Regulations 2013 (S.I. 2013/522)](https://www.legislation.gov.uk/uksi/2013/522), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/522/regulation/1/2), [6(2)(f)](https://www.legislation.gov.uk/uksi/2013/522/regulation/6/2/f)
+
+[^c21028151]: Marginal citation: [S.I. 2005/2042](https://www.legislation.gov.uk/uksi/2005/2042).
+
+[^key-e2009b7921f519a667001bc1dd7b60b2]: Textual amendment: Words in reg. 2 inserted (6.4.2013) by [The Infrastructure Planning (Prescribed Consultees and Interested Parties etc.) (Amendment) Regulations 2013 (S.I. 2013/522)](https://www.legislation.gov.uk/uksi/2013/522), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/522/regulation/1/2), [6(2)(c)](https://www.legislation.gov.uk/uksi/2013/522/regulation/6/2/c)
+
+[^c21028161]: Marginal citation: [2009 c.23](https://www.legislation.gov.uk/ukpga/2009/23).
+
+[^key-1564aba1dd9d47e08098ddf11c5ea599]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2011/2055/regulation/2/1) omitted (6.11.2023) by virtue of [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [50(2)(a)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/50/2/a)
+
+[^key-e88154feeaa0409ccfa8daa4055cef49]: Textual amendment: Words in reg. 2 inserted (6.4.2013) by [The Infrastructure Planning (Prescribed Consultees and Interested Parties etc.) (Amendment) Regulations 2013 (S.I. 2013/522)](https://www.legislation.gov.uk/uksi/2013/522), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/522/regulation/1/2), [6(2)(d)](https://www.legislation.gov.uk/uksi/2013/522/regulation/6/2/d)
+
+[^key-330c69a1918f02111cf2cc3a9e5fa402]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2011/2055/regulation/2/1) inserted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [50(2)(b)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/50/2/b)
+
+[^key-1450058dc52c5192e062b7b9a4d9e3f5]: Textual amendment: Words in reg. 2(1) substituted (22.11.2012) by [The Local Policing Bodies (Consequential Amendments No. 2) Regulations 2012 (S.I. 2012/2732)](https://www.legislation.gov.uk/uksi/2012/2732), [regs. 1](https://www.legislation.gov.uk/uksi/2012/2732/regulation/1), [7(2)](https://www.legislation.gov.uk/uksi/2012/2732/regulation/7/2)
+
+[^key-56ee07f2a7be2f6b1959c494c06f7dd8]: Textual amendment: Words in reg. 2 omitted (6.4.2013) by virtue of [The Infrastructure Planning (Prescribed Consultees and Interested Parties etc.) (Amendment) Regulations 2013 (S.I. 2013/522)](https://www.legislation.gov.uk/uksi/2013/522), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/522/regulation/1/2), [6(2)(e)(i)](https://www.legislation.gov.uk/uksi/2013/522/regulation/6/2/e/i)
+
+[^key-ddde0220f8f6f76b2aa95d30cd53fdec]: Textual amendment: Words in reg. 2(1) substituted (1.4.2012) by [The Localism Act 2011 (Infrastructure Planning) (Consequential Amendments) Regulations 2012 (S.I. 2012/635)](https://www.legislation.gov.uk/uksi/2012/635), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/635/regulation/1/2), [11(3)(e)](https://www.legislation.gov.uk/uksi/2012/635/regulation/11/3/e)
+
+[^key-6539cad4f9de8290d6c265ec359dc741]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2011/2055/regulation/2/1) substituted (24.7.2026) by [The Infrastructure Planning (Development Consent) (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/735)](https://www.legislation.gov.uk/uksi/2026/735), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/735/regulation/1/2), [3(2)(c)(i)](https://www.legislation.gov.uk/uksi/2026/735/regulation/3/2/c/i)
+
+[^key-a349ca54dcf4f4443159f0ef41a4f7d0]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2011/2055/regulation/2/1) substituted (24.7.2026) by [The Infrastructure Planning (Development Consent) (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/735)](https://www.legislation.gov.uk/uksi/2026/735), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/735/regulation/1/2), [3(2)(c)(ii)](https://www.legislation.gov.uk/uksi/2026/735/regulation/3/2/c/ii)
+
+[^c21028191]: Marginal citation: [2004 c.20](https://www.legislation.gov.uk/ukpga/2004/20).
+
+[^key-2085f0d2a03d835c25c4f738809675f7]: Textual amendment: Words in reg. 2 omitted (6.4.2013) by virtue of [The Infrastructure Planning (Prescribed Consultees and Interested Parties etc.) (Amendment) Regulations 2013 (S.I. 2013/522)](https://www.legislation.gov.uk/uksi/2013/522), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/522/regulation/1/2), [6(2)(e)(ii)](https://www.legislation.gov.uk/uksi/2013/522/regulation/6/2/e/ii)
+
+[^c21028211]: Marginal citation: See section 156.
+
+[^key-3fd9f427609e5bcc2443f6fd25c49fbb]: Textual amendment: [Reg. 4(2)(ff)](https://www.legislation.gov.uk/uksi/2011/2055/regulation/4/2/ff) inserted (14.7.2015) by [The Infrastructure Planning (Changes to, and Revocation of, Development Consent Orders) (Amendment) Regulations 2015 (S.I. 2015/760)](https://www.legislation.gov.uk/uksi/2015/760), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/760/regulation/1/1), [3(1)(a)](https://www.legislation.gov.uk/uksi/2015/760/regulation/3/1/a) (with [reg. 8](https://www.legislation.gov.uk/uksi/2015/760/regulation/8))
+
+[^key-b40232d80ed62f452f9bf01be76e8f3d]: Textual amendment: Words in [reg. 4(3)](https://www.legislation.gov.uk/uksi/2011/2055/regulation/4/3) omitted (14.7.2015) by virtue of [The Infrastructure Planning (Changes to, and Revocation of, Development Consent Orders) (Amendment) Regulations 2015 (S.I. 2015/760)](https://www.legislation.gov.uk/uksi/2015/760), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/760/regulation/1/1), [3(1)(b)](https://www.legislation.gov.uk/uksi/2015/760/regulation/3/1/b) (with [reg. 8](https://www.legislation.gov.uk/uksi/2015/760/regulation/8))
+
+[^key-617f574bf000e3efe74edaa091928aed]: Textual amendment: [Reg. 4(4A)-(4C)](https://www.legislation.gov.uk/uksi/2011/2055/regulation/4/4A) inserted (14.7.2015) by [The Infrastructure Planning (Changes to, and Revocation of, Development Consent Orders) (Amendment) Regulations 2015 (S.I. 2015/760)](https://www.legislation.gov.uk/uksi/2015/760), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/760/regulation/1/1), [3(1)(c)](https://www.legislation.gov.uk/uksi/2015/760/regulation/3/1/c) (with [reg. 8](https://www.legislation.gov.uk/uksi/2015/760/regulation/8))
+
+[^key-33b63663ab10e22b2c50c8bfbc942b47]: Textual amendment: Reg. 5 substituted (14.7.2015) by [The Infrastructure Planning (Changes to, and Revocation of, Development Consent Orders) (Amendment) Regulations 2015 (S.I. 2015/760)](https://www.legislation.gov.uk/uksi/2015/760), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/760/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2015/760/regulation/3/2) (with [reg. 8](https://www.legislation.gov.uk/uksi/2015/760/regulation/8))
+
+[^key-1b534eccfbe5f56a18e4f2598ea9314d]: Textual amendment: Word in [reg. 6(1)](https://www.legislation.gov.uk/uksi/2011/2055/regulation/6/1) substituted (14.7.2015) by [The Infrastructure Planning (Changes to, and Revocation of, Development Consent Orders) (Amendment) Regulations 2015 (S.I. 2015/760)](https://www.legislation.gov.uk/uksi/2015/760), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/760/regulation/1/1), [3(3)(a)](https://www.legislation.gov.uk/uksi/2015/760/regulation/3/3/a) (with [reg. 8](https://www.legislation.gov.uk/uksi/2015/760/regulation/8))
+
+[^key-b818081dfe4f11ddbbc4a1e4c246778f]: Textual amendment: [Reg. 6(1)(b)](https://www.legislation.gov.uk/uksi/2011/2055/regulation/6/1/b) substituted (14.7.2015) by [The Infrastructure Planning (Changes to, and Revocation of, Development Consent Orders) (Amendment) Regulations 2015 (S.I. 2015/760)](https://www.legislation.gov.uk/uksi/2015/760), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/760/regulation/1/1), [3(3)(b)](https://www.legislation.gov.uk/uksi/2015/760/regulation/3/3/b) (with [reg. 8](https://www.legislation.gov.uk/uksi/2015/760/regulation/8))
+
+[^key-53db5ef4b5644a40c0887b9265dececd]: Textual amendment: Words in [reg. 6(2)(b)](https://www.legislation.gov.uk/uksi/2011/2055/regulation/6/2/b) substituted (14.7.2015) by [The Infrastructure Planning (Changes to, and Revocation of, Development Consent Orders) (Amendment) Regulations 2015 (S.I. 2015/760)](https://www.legislation.gov.uk/uksi/2015/760), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/760/regulation/1/1), [3(3)(c)](https://www.legislation.gov.uk/uksi/2015/760/regulation/3/3/c) (with [reg. 8](https://www.legislation.gov.uk/uksi/2015/760/regulation/8))
+
+[^key-30ae69f2ebf38313e8788cfb28f7d3d5]: Textual amendment: [Reg. 6(2)(d)](https://www.legislation.gov.uk/uksi/2011/2055/regulation/6/2/d) substituted (14.7.2015) by [The Infrastructure Planning (Changes to, and Revocation of, Development Consent Orders) (Amendment) Regulations 2015 (S.I. 2015/760)](https://www.legislation.gov.uk/uksi/2015/760), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/760/regulation/1/1), [3(3)(d)](https://www.legislation.gov.uk/uksi/2015/760/regulation/3/3/d) (with [reg. 8](https://www.legislation.gov.uk/uksi/2015/760/regulation/8))
+
+[^key-75de37d29dc683c5969c8b9fc4160666]: Textual amendment: Words in [reg. 6(2)(d)](https://www.legislation.gov.uk/uksi/2011/2055/regulation/6/2/d) substituted (31.12.2020 immediately before 11 p.m.) by [The Infrastructure Planning (Publication and Notification of Applications etc.) (Amendment) Regulations 2020 (S.I. 2020/1534)](https://www.legislation.gov.uk/uksi/2020/1534), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1534/regulation/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2020/1534/regulation/3/2/a) (with [reg. 7](https://www.legislation.gov.uk/uksi/2020/1534/regulation/7))
+
+[^key-5aa866ab46d3600fcab9dc064f7964d7]: Textual amendment: [Reg. 6(2)(da)-(dc)](https://www.legislation.gov.uk/uksi/2011/2055/regulation/6/2/da) inserted (31.12.2020 immediately before 11 p.m.) by [The Infrastructure Planning (Publication and Notification of Applications etc.) (Amendment) Regulations 2020 (S.I. 2020/1534)](https://www.legislation.gov.uk/uksi/2020/1534), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1534/regulation/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2020/1534/regulation/3/2/b) (with [reg. 7](https://www.legislation.gov.uk/uksi/2020/1534/regulation/7))
+
+[^key-783ccdb21704ff4684fe68d4308b4c9a]: Textual amendment: Words in [reg. 6(2)(f)](https://www.legislation.gov.uk/uksi/2011/2055/regulation/6/2/f) inserted (31.12.2020 immediately before 11 p.m.) by [The Infrastructure Planning (Publication and Notification of Applications etc.) (Amendment) Regulations 2020 (S.I. 2020/1534)](https://www.legislation.gov.uk/uksi/2020/1534), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1534/regulation/1), [3(2)(c)](https://www.legislation.gov.uk/uksi/2020/1534/regulation/3/2/c) (with [reg. 7](https://www.legislation.gov.uk/uksi/2020/1534/regulation/7))
+
+[^key-254ce8822349629e1d05fd7692628ffe]: Textual amendment: [Reg. 6A](https://www.legislation.gov.uk/uksi/2011/2055/regulation/6A) omitted (31.12.2020 immediately before 11 p.m.) by virtue of [The Infrastructure Planning (Publication and Notification of Applications etc.) (Amendment) Regulations 2020 (S.I. 2020/1534)](https://www.legislation.gov.uk/uksi/2020/1534), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1534/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2020/1534/regulation/3/3) (with [reg. 7](https://www.legislation.gov.uk/uksi/2020/1534/regulation/7))
+
+[^key-07225b401c4caa47805119e305d1f06e]: Textual amendment: Word in [reg. 7(1)](https://www.legislation.gov.uk/uksi/2011/2055/regulation/7/1) substituted (14.7.2015) by [The Infrastructure Planning (Changes to, and Revocation of, Development Consent Orders) (Amendment) Regulations 2015 (S.I. 2015/760)](https://www.legislation.gov.uk/uksi/2015/760), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/760/regulation/1/1), [3(4)(a)](https://www.legislation.gov.uk/uksi/2015/760/regulation/3/4/a) (with [reg. 8](https://www.legislation.gov.uk/uksi/2015/760/regulation/8))
+
+[^key-0add1ef6ed2c3ec24b22feb3ae2dbd43]: Textual amendment: [Reg. 7(2)(c)](https://www.legislation.gov.uk/uksi/2011/2055/regulation/7/2/c) substituted (14.7.2015) by [The Infrastructure Planning (Changes to, and Revocation of, Development Consent Orders) (Amendment) Regulations 2015 (S.I. 2015/760)](https://www.legislation.gov.uk/uksi/2015/760), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/760/regulation/1/1), [3(4)(b)](https://www.legislation.gov.uk/uksi/2015/760/regulation/3/4/b) (with [reg. 8](https://www.legislation.gov.uk/uksi/2015/760/regulation/8))
+
+[^key-98a1583cbf732e3e7711b2ab6595bbd8]: Textual amendment: [Reg. 7(3)](https://www.legislation.gov.uk/uksi/2011/2055/regulation/7/3) substituted (14.7.2015) by [The Infrastructure Planning (Changes to, and Revocation of, Development Consent Orders) (Amendment) Regulations 2015 (S.I. 2015/760)](https://www.legislation.gov.uk/uksi/2015/760), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/760/regulation/1/1), [3(4)(c)](https://www.legislation.gov.uk/uksi/2015/760/regulation/3/4/c) (with [reg. 8](https://www.legislation.gov.uk/uksi/2015/760/regulation/8))
+
+[^key-73853441275e514109d3299c8b126257]: Textual amendment: Reg. 7A inserted (14.7.2015) by [The Infrastructure Planning (Changes to, and Revocation of, Development Consent Orders) (Amendment) Regulations 2015 (S.I. 2015/760)](https://www.legislation.gov.uk/uksi/2015/760), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/760/regulation/1/1), [3(5)](https://www.legislation.gov.uk/uksi/2015/760/regulation/3/5) (with [reg. 8](https://www.legislation.gov.uk/uksi/2015/760/regulation/8))
+
+[^key-720d6271ac9571d4f4d9121edf481c91]: Textual amendment: Words in reg. 9(2) omitted (1.4.2012) by virtue of [The Localism Act 2011 (Infrastructure Planning) (Consequential Amendments) Regulations 2012 (S.I. 2012/635)](https://www.legislation.gov.uk/uksi/2012/635), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/635/regulation/1/2), [11(5)](https://www.legislation.gov.uk/uksi/2012/635/regulation/11/5)
+
+[^key-399410256665856dd3147df9a9c371a2]: Textual amendment: [Reg. 10(1)(a)](https://www.legislation.gov.uk/uksi/2011/2055/regulation/10/1/a) substituted (14.7.2015) by [The Infrastructure Planning (Changes to, and Revocation of, Development Consent Orders) (Amendment) Regulations 2015 (S.I. 2015/760)](https://www.legislation.gov.uk/uksi/2015/760), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/760/regulation/1/1), [5(1)(a)](https://www.legislation.gov.uk/uksi/2015/760/regulation/5/1/a) (with [reg. 8](https://www.legislation.gov.uk/uksi/2015/760/regulation/8))
+
+[^key-01942ed137eeadb461a8097cbbade878]: Textual amendment: Word in [reg. 10(1)(c)(iii)](https://www.legislation.gov.uk/uksi/2011/2055/regulation/10/1/c/iii) substituted (24.7.2026) by [The Infrastructure Planning (Development Consent) (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/735)](https://www.legislation.gov.uk/uksi/2026/735), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/735/regulation/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2026/735/regulation/3/3)
+
+[^key-e357e7c103b09ce4fcef7770ddf73d24]: Textual amendment: [Reg. 10(2)](https://www.legislation.gov.uk/uksi/2011/2055/regulation/10/2) substituted (14.7.2015) by [The Infrastructure Planning (Changes to, and Revocation of, Development Consent Orders) (Amendment) Regulations 2015 (S.I. 2015/760)](https://www.legislation.gov.uk/uksi/2015/760), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/760/regulation/1/1), [5(1)(b)](https://www.legislation.gov.uk/uksi/2015/760/regulation/5/1/b) (with [reg. 8](https://www.legislation.gov.uk/uksi/2015/760/regulation/8))
+
+[^key-1580af37d7f7dcdbc2a6b92bfc4998d8]: Textual amendment: [Reg. 13](https://www.legislation.gov.uk/uksi/2011/2055/regulation/13) omitted (14.7.2015) by virtue of [The Infrastructure Planning (Changes to, and Revocation of, Development Consent Orders) (Amendment) Regulations 2015 (S.I. 2015/760)](https://www.legislation.gov.uk/uksi/2015/760), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/760/regulation/1/1), [5(2)](https://www.legislation.gov.uk/uksi/2015/760/regulation/5/2) (with [reg. 8](https://www.legislation.gov.uk/uksi/2015/760/regulation/8))
+
+[^key-ae2a4831d385e4bfd49e50e1b179e4b7]: Textual amendment: [Reg. 14(1)(b)](https://www.legislation.gov.uk/uksi/2011/2055/regulation/14/1/b) omitted (14.7.2015) by virtue of [The Infrastructure Planning (Changes to, and Revocation of, Development Consent Orders) (Amendment) Regulations 2015 (S.I. 2015/760)](https://www.legislation.gov.uk/uksi/2015/760), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/760/regulation/1/1), [5(3)(a)](https://www.legislation.gov.uk/uksi/2015/760/regulation/5/3/a) (with [reg. 8](https://www.legislation.gov.uk/uksi/2015/760/regulation/8))
+
+[^key-ea37f2b1928165ca82b915aaa01d3ab3]: Textual amendment: Words in [reg. 14(2)(e)](https://www.legislation.gov.uk/uksi/2011/2055/regulation/14/2/e) substituted (31.12.2020 immediately before 11 p.m.) by [The Infrastructure Planning (Publication and Notification of Applications etc.) (Amendment) Regulations 2020 (S.I. 2020/1534)](https://www.legislation.gov.uk/uksi/2020/1534), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1534/regulation/1), [3(4)(a)](https://www.legislation.gov.uk/uksi/2020/1534/regulation/3/4/a) (with [reg. 7](https://www.legislation.gov.uk/uksi/2020/1534/regulation/7))
+
+[^key-27e2ba01f6e197787e7ce71189a5b649]: Textual amendment: [Reg. 14(2)(ea)-(ec)](https://www.legislation.gov.uk/uksi/2011/2055/regulation/14/2/ea) inserted (31.12.2020 immediately before 11 p.m.) by [The Infrastructure Planning (Publication and Notification of Applications etc.) (Amendment) Regulations 2020 (S.I. 2020/1534)](https://www.legislation.gov.uk/uksi/2020/1534), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1534/regulation/1), [3(4)(b)](https://www.legislation.gov.uk/uksi/2020/1534/regulation/3/4/b) (with [reg. 7](https://www.legislation.gov.uk/uksi/2020/1534/regulation/7))
+
+[^key-41432c5e08e85a0f136f8999c9bf0349]: Textual amendment: Words in [reg. 14(2)(f)](https://www.legislation.gov.uk/uksi/2011/2055/regulation/14/2/f) inserted (31.12.2020 immediately before 11 p.m.) by [The Infrastructure Planning (Publication and Notification of Applications etc.) (Amendment) Regulations 2020 (S.I. 2020/1534)](https://www.legislation.gov.uk/uksi/2020/1534), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1534/regulation/1), [3(4)(c)](https://www.legislation.gov.uk/uksi/2020/1534/regulation/3/4/c) (with [reg. 7](https://www.legislation.gov.uk/uksi/2020/1534/regulation/7))
+
+[^key-2420132c796aa64a67e058bb34418839]: Textual amendment: [Reg. 14(4)](https://www.legislation.gov.uk/uksi/2011/2055/regulation/14/4) substituted (14.7.2015) by [The Infrastructure Planning (Changes to, and Revocation of, Development Consent Orders) (Amendment) Regulations 2015 (S.I. 2015/760)](https://www.legislation.gov.uk/uksi/2015/760), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/760/regulation/1/1), [5(3)(b)](https://www.legislation.gov.uk/uksi/2015/760/regulation/5/3/b) (with [reg. 8](https://www.legislation.gov.uk/uksi/2015/760/regulation/8))
+
+[^key-ea7a32db224b4a7db0b92261322ed47b]: Textual amendment: [Reg. 14(5)](https://www.legislation.gov.uk/uksi/2011/2055/regulation/14/5) substituted (14.7.2015) by [The Infrastructure Planning (Changes to, and Revocation of, Development Consent Orders) (Amendment) Regulations 2015 (S.I. 2015/760)](https://www.legislation.gov.uk/uksi/2015/760), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/760/regulation/1/1), [5(3)(c)](https://www.legislation.gov.uk/uksi/2015/760/regulation/5/3/c) (with [reg. 8](https://www.legislation.gov.uk/uksi/2015/760/regulation/8))
+
+[^key-b8b661f1d73b4528f079bc2bbbfc0b78]: Textual amendment: Word in [reg. 15(3)(a)](https://www.legislation.gov.uk/uksi/2011/2055/regulation/15/3/a) inserted (14.7.2015) by [The Infrastructure Planning (Changes to, and Revocation of, Development Consent Orders) (Amendment) Regulations 2015 (S.I. 2015/760)](https://www.legislation.gov.uk/uksi/2015/760), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/760/regulation/1/1), [5(4)(a)](https://www.legislation.gov.uk/uksi/2015/760/regulation/5/4/a) (with [reg. 8](https://www.legislation.gov.uk/uksi/2015/760/regulation/8))
+
+[^key-380bb4ae0e0459ba8a3f14450099ca3b]: Textual amendment: [Reg. 15(3)(b)](https://www.legislation.gov.uk/uksi/2011/2055/regulation/15/3/b) omitted (14.7.2015) by virtue of [The Infrastructure Planning (Changes to, and Revocation of, Development Consent Orders) (Amendment) Regulations 2015 (S.I. 2015/760)](https://www.legislation.gov.uk/uksi/2015/760), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/760/regulation/1/1), [5(4)(b)](https://www.legislation.gov.uk/uksi/2015/760/regulation/5/4/b) (with [reg. 8](https://www.legislation.gov.uk/uksi/2015/760/regulation/8))
+
+[^c21028221]: Marginal citation: [S.I. 2009/2264](https://www.legislation.gov.uk/uksi/2009/2264)
+
+[^key-1876b8a67e13e0dca60d665a20f2c0a9]: Textual amendment: Words in [reg. 16(2)(n)](https://www.legislation.gov.uk/uksi/2011/2055/regulation/16/2/n) omitted (14.7.2015) by virtue of [The Infrastructure Planning (Changes to, and Revocation of, Development Consent Orders) (Amendment) Regulations 2015 (S.I. 2015/760)](https://www.legislation.gov.uk/uksi/2015/760), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/760/regulation/1/1), [5(5)(a)](https://www.legislation.gov.uk/uksi/2015/760/regulation/5/5/a) (with [reg. 8](https://www.legislation.gov.uk/uksi/2015/760/regulation/8))
+
+[^key-b70d67f1d1ed5f1f1e141dbcfe5e67d8]: Textual amendment: [Reg. 16(2A)](https://www.legislation.gov.uk/uksi/2011/2055/regulation/16/2A)[(2B)](https://www.legislation.gov.uk/uksi/2011/2055/regulation/16/2B) inserted (14.7.2015) by [The Infrastructure Planning (Changes to, and Revocation of, Development Consent Orders) (Amendment) Regulations 2015 (S.I. 2015/760)](https://www.legislation.gov.uk/uksi/2015/760), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/760/regulation/1/1), [5(5)(b)](https://www.legislation.gov.uk/uksi/2015/760/regulation/5/5/b) (with [reg. 8](https://www.legislation.gov.uk/uksi/2015/760/regulation/8))
+
+[^key-ed9b2c2f6dca6370b5992b58e171d8fa]: Textual amendment: Word in [reg. 16(4)](https://www.legislation.gov.uk/uksi/2011/2055/regulation/16/4) omitted (14.7.2015) by virtue of [The Infrastructure Planning (Changes to, and Revocation of, Development Consent Orders) (Amendment) Regulations 2015 (S.I. 2015/760)](https://www.legislation.gov.uk/uksi/2015/760), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/760/regulation/1/1), [5(5)(c)(i)](https://www.legislation.gov.uk/uksi/2015/760/regulation/5/5/c/i) (with [reg. 8](https://www.legislation.gov.uk/uksi/2015/760/regulation/8))
+
+[^key-aa19e499f85d6f6ddef8f5aad7f833ba]: Textual amendment: Word in [reg. 16(4)](https://www.legislation.gov.uk/uksi/2011/2055/regulation/16/4) substituted (14.7.2015) by [The Infrastructure Planning (Changes to, and Revocation of, Development Consent Orders) (Amendment) Regulations 2015 (S.I. 2015/760)](https://www.legislation.gov.uk/uksi/2015/760), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/760/regulation/1/1), [5(5)(c)(ii)](https://www.legislation.gov.uk/uksi/2015/760/regulation/5/5/c/ii) (with [reg. 8](https://www.legislation.gov.uk/uksi/2015/760/regulation/8))
+
+[^key-5fd0ffd1a2d28abe8721fef3f61728e5]: Textual amendment: Words in [reg. 16(4)](https://www.legislation.gov.uk/uksi/2011/2055/regulation/16/4) inserted (14.7.2015) by [The Infrastructure Planning (Changes to, and Revocation of, Development Consent Orders) (Amendment) Regulations 2015 (S.I. 2015/760)](https://www.legislation.gov.uk/uksi/2015/760), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/760/regulation/1/1), [5(5)(c)(iii)](https://www.legislation.gov.uk/uksi/2015/760/regulation/5/5/c/iii) (with [reg. 8](https://www.legislation.gov.uk/uksi/2015/760/regulation/8))
+
+[^key-001982f932e9699e9a888dc254caed4a]: Textual amendment: Words in [reg. 17(1)](https://www.legislation.gov.uk/uksi/2011/2055/regulation/17/1) substituted (24.7.2026) by [The Infrastructure Planning (Development Consent) (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/735)](https://www.legislation.gov.uk/uksi/2026/735), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/735/regulation/1/2), [3(4)(a)(i)](https://www.legislation.gov.uk/uksi/2026/735/regulation/3/4/a/i)
+
+[^key-cf389923807d75eb3f76353f1eb94d54]: Textual amendment: Word in [reg. 17(1)(a)](https://www.legislation.gov.uk/uksi/2011/2055/regulation/17/1/a) substituted (24.7.2026) by [The Infrastructure Planning (Development Consent) (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/735)](https://www.legislation.gov.uk/uksi/2026/735), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/735/regulation/1/2), [3(4)(a)(ii)](https://www.legislation.gov.uk/uksi/2026/735/regulation/3/4/a/ii)
+
+[^key-1a77b13a4032e86c9562ee28758bdc3b]: Textual amendment: Word in [reg. 17(1)(b)](https://www.legislation.gov.uk/uksi/2011/2055/regulation/17/1/b) substituted (24.7.2026) by [The Infrastructure Planning (Development Consent) (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/735)](https://www.legislation.gov.uk/uksi/2026/735), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/735/regulation/1/2), [3(4)(a)(iii)](https://www.legislation.gov.uk/uksi/2026/735/regulation/3/4/a/iii)
+
+[^key-d409a6d5aee50b671f33d35aa6ff00db]: Textual amendment: Word in [reg. 17(1)(c)](https://www.legislation.gov.uk/uksi/2011/2055/regulation/17/1/c) substituted (24.7.2026) by [The Infrastructure Planning (Development Consent) (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/735)](https://www.legislation.gov.uk/uksi/2026/735), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/735/regulation/1/2), [3(4)(a)(iv)](https://www.legislation.gov.uk/uksi/2026/735/regulation/3/4/a/iv)
+
+[^key-023a6725fb93a0780c831207c632d8ac]: Textual amendment: Word in [reg. 17(1)(d)](https://www.legislation.gov.uk/uksi/2011/2055/regulation/17/1/d) substituted (24.7.2026) by [The Infrastructure Planning (Development Consent) (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/735)](https://www.legislation.gov.uk/uksi/2026/735), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/735/regulation/1/2), [3(4)(a)(v)](https://www.legislation.gov.uk/uksi/2026/735/regulation/3/4/a/v)
+
+[^key-b4e45a7d6bcf041b3d45bb481fd3fcac]: Textual amendment: Word in [reg. 17(1)(e)](https://www.legislation.gov.uk/uksi/2011/2055/regulation/17/1/e) substituted (24.7.2026) by [The Infrastructure Planning (Development Consent) (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/735)](https://www.legislation.gov.uk/uksi/2026/735), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/735/regulation/1/2), [3(4)(a)(vi)](https://www.legislation.gov.uk/uksi/2026/735/regulation/3/4/a/vi)
+
+[^key-c65cffcb39c265eaa269d8a1c92b0820]: Textual amendment: Words in reg. 17(2)(a) omitted (1.4.2012) by virtue of [The Localism Act 2011 (Infrastructure Planning) (Consequential Amendments) Regulations 2012 (S.I. 2012/635)](https://www.legislation.gov.uk/uksi/2012/635), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/635/regulation/1/2), [11(7)](https://www.legislation.gov.uk/uksi/2012/635/regulation/11/7)
+
+[^key-25c970b49827ff9183b2ea962b48354b]: Textual amendment: Words in [reg. 17(2)(c)](https://www.legislation.gov.uk/uksi/2011/2055/regulation/17/2/c) substituted (24.7.2026) by [The Infrastructure Planning (Development Consent) (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/735)](https://www.legislation.gov.uk/uksi/2026/735), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/735/regulation/1/2), [3(4)(b)](https://www.legislation.gov.uk/uksi/2026/735/regulation/3/4/b)
+
+[^key-fce66c26b8a6d38a19820fe6e8616a5f]: Textual amendment: Reg. 19(1)(f) omitted (1.4.2012) by virtue of [The Localism Act 2011 (Infrastructure Planning) (Consequential Amendments) Regulations 2012 (S.I. 2012/635)](https://www.legislation.gov.uk/uksi/2012/635), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/635/regulation/1/2), [11(8)](https://www.legislation.gov.uk/uksi/2012/635/regulation/11/8)
+
+[^key-a20ff93884bd6725d92c9e2eb80d49f2]: Textual amendment: Words in [reg. 19(2)(g)](https://www.legislation.gov.uk/uksi/2011/2055/regulation/19/2/g) substituted (31.12.2020 immediately before 11 p.m.) by [The Infrastructure Planning (Publication and Notification of Applications etc.) (Amendment) Regulations 2020 (S.I. 2020/1534)](https://www.legislation.gov.uk/uksi/2020/1534), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1534/regulation/1), [3(5)(a)](https://www.legislation.gov.uk/uksi/2020/1534/regulation/3/5/a) (with [reg. 7](https://www.legislation.gov.uk/uksi/2020/1534/regulation/7))
+
+[^key-9f09121c396e1069a071aaf695ee3c94]: Textual amendment: [Reg. 19(2)(ga)-(gc)](https://www.legislation.gov.uk/uksi/2011/2055/regulation/19/2/ga) inserted (31.12.2020 immediately before 11 p.m.) by [The Infrastructure Planning (Publication and Notification of Applications etc.) (Amendment) Regulations 2020 (S.I. 2020/1534)](https://www.legislation.gov.uk/uksi/2020/1534), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1534/regulation/1), [3(5)(b)](https://www.legislation.gov.uk/uksi/2020/1534/regulation/3/5/b) (with [reg. 7](https://www.legislation.gov.uk/uksi/2020/1534/regulation/7))
+
+[^key-ef6f21b74b0b4e2f3ec407997c585f7d]: Textual amendment: Words in [reg. 19(2)(h)](https://www.legislation.gov.uk/uksi/2011/2055/regulation/19/2/h) inserted (31.12.2020 immediately before 11 p.m.) by [The Infrastructure Planning (Publication and Notification of Applications etc.) (Amendment) Regulations 2020 (S.I. 2020/1534)](https://www.legislation.gov.uk/uksi/2020/1534), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1534/regulation/1), [3(5)(c)](https://www.legislation.gov.uk/uksi/2020/1534/regulation/3/5/c) (with [reg. 7](https://www.legislation.gov.uk/uksi/2020/1534/regulation/7))
+
+[^key-05e0374b11d238cec25ea4b87f9975af]: Textual amendment: [Reg. 19(3)](https://www.legislation.gov.uk/uksi/2011/2055/regulation/19/3) substituted (14.7.2015) by [The Infrastructure Planning (Changes to, and Revocation of, Development Consent Orders) (Amendment) Regulations 2015 (S.I. 2015/760)](https://www.legislation.gov.uk/uksi/2015/760), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/760/regulation/1/1), [5(6)](https://www.legislation.gov.uk/uksi/2015/760/regulation/5/6) (with [reg. 8](https://www.legislation.gov.uk/uksi/2015/760/regulation/8))
+
+[^key-5f9ba0ff1216ee917e6760f9ddf1fa8d]: Textual amendment: Words in [reg. 20(2)(f)](https://www.legislation.gov.uk/uksi/2011/2055/regulation/20/2/f) substituted (31.12.2020 immediately before 11 p.m.) by [The Infrastructure Planning (Publication and Notification of Applications etc.) (Amendment) Regulations 2020 (S.I. 2020/1534)](https://www.legislation.gov.uk/uksi/2020/1534), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1534/regulation/1), [3(6)(a)](https://www.legislation.gov.uk/uksi/2020/1534/regulation/3/6/a) (with [reg. 7](https://www.legislation.gov.uk/uksi/2020/1534/regulation/7))
+
+[^key-2db0a4a116d410b39b762866a5e7ddb7]: Textual amendment: [Reg. 20(2)(fa)-(fc)](https://www.legislation.gov.uk/uksi/2011/2055/regulation/20/2/fa) inserted (31.12.2020 immediately before 11 p.m.) by [The Infrastructure Planning (Publication and Notification of Applications etc.) (Amendment) Regulations 2020 (S.I. 2020/1534)](https://www.legislation.gov.uk/uksi/2020/1534), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1534/regulation/1), [3(6)(b)](https://www.legislation.gov.uk/uksi/2020/1534/regulation/3/6/b) (with [reg. 7](https://www.legislation.gov.uk/uksi/2020/1534/regulation/7))
+
+[^key-93a2a694f28eab9ef216e3a3d7eec505]: Textual amendment: Words in [reg. 20(2)(g)](https://www.legislation.gov.uk/uksi/2011/2055/regulation/20/2/g) inserted (31.12.2020 immediately before 11 p.m.) by [The Infrastructure Planning (Publication and Notification of Applications etc.) (Amendment) Regulations 2020 (S.I. 2020/1534)](https://www.legislation.gov.uk/uksi/2020/1534), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1534/regulation/1), [3(6)(c)](https://www.legislation.gov.uk/uksi/2020/1534/regulation/3/6/c) (with [reg. 7](https://www.legislation.gov.uk/uksi/2020/1534/regulation/7))
+
+[^key-76f39a2edc20ecbdccea1e312a6b6a56]: Textual amendment: [Reg. 20A](https://www.legislation.gov.uk/uksi/2011/2055/regulation/20A) omitted (31.12.2020 immediately before 11 p.m.) by virtue of [The Infrastructure Planning (Publication and Notification of Applications etc.) (Amendment) Regulations 2020 (S.I. 2020/1534)](https://www.legislation.gov.uk/uksi/2020/1534), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1534/regulation/1), [3(7)](https://www.legislation.gov.uk/uksi/2020/1534/regulation/3/7) (with [reg. 7](https://www.legislation.gov.uk/uksi/2020/1534/regulation/7))
+
+[^key-c6acf3275c71ce6dd3dd1d525edec719]: Textual amendment: Regs. 21A, 21B inserted (14.7.2015) by [The Infrastructure Planning (Changes to, and Revocation of, Development Consent Orders) (Amendment) Regulations 2015 (S.I. 2015/760)](https://www.legislation.gov.uk/uksi/2015/760), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/760/regulation/1/1), [5(7)](https://www.legislation.gov.uk/uksi/2015/760/regulation/5/7) (with [reg. 8](https://www.legislation.gov.uk/uksi/2015/760/regulation/8))
+
+[^key-42fe139807c5df39dd21209e8637eec9]: Textual amendment: Reg. 22(1) omitted (1.4.2012) by virtue of [The Localism Act 2011 (Infrastructure Planning) (Consequential Amendments) Regulations 2012 (S.I. 2012/635)](https://www.legislation.gov.uk/uksi/2012/635), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/635/regulation/1/2), [11(9)](https://www.legislation.gov.uk/uksi/2012/635/regulation/11/9)
+
+[^key-4f71cb44e9f4c27a0a8b83114d930042]: Textual amendment: [Reg. 22(1A)](https://www.legislation.gov.uk/uksi/2011/2055/regulation/22/1A) inserted (14.7.2015) by [The Infrastructure Planning (Changes to, and Revocation of, Development Consent Orders) (Amendment) Regulations 2015 (S.I. 2015/760)](https://www.legislation.gov.uk/uksi/2015/760), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/760/regulation/1/1), [5(8)](https://www.legislation.gov.uk/uksi/2015/760/regulation/5/8) (with [reg. 8](https://www.legislation.gov.uk/uksi/2015/760/regulation/8))
+
+[^key-1dfc5f39e25406157360106f7852f410]: Textual amendment: Reg. 22(4) omitted (1.4.2012) by virtue of [The Localism Act 2011 (Infrastructure Planning) (Consequential Amendments) Regulations 2012 (S.I. 2012/635)](https://www.legislation.gov.uk/uksi/2012/635), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/635/regulation/1/2), [11(9)](https://www.legislation.gov.uk/uksi/2012/635/regulation/11/9)
+
+[^key-5aff12c2e27d185fc2a08579bd1b7300]: Textual amendment: Reg. 22(5) omitted (1.4.2012) by virtue of [The Localism Act 2011 (Infrastructure Planning) (Consequential Amendments) Regulations 2012 (S.I. 2012/635)](https://www.legislation.gov.uk/uksi/2012/635), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/635/regulation/1/2), [11(9)](https://www.legislation.gov.uk/uksi/2012/635/regulation/11/9)
+
+[^key-f479015a241bc6c21d8a09c46c49e804]: Textual amendment: Reg. 22(7) omitted (1.4.2012) by virtue of [The Localism Act 2011 (Infrastructure Planning) (Consequential Amendments) Regulations 2012 (S.I. 2012/635)](https://www.legislation.gov.uk/uksi/2012/635), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/635/regulation/1/2), [11(9)](https://www.legislation.gov.uk/uksi/2012/635/regulation/11/9)
+
+[^key-e872ef16ef2aeb99aae965ed5fd9725f]: Textual amendment: Reg. 22(8) omitted (1.4.2012) by virtue of [The Localism Act 2011 (Infrastructure Planning) (Consequential Amendments) Regulations 2012 (S.I. 2012/635)](https://www.legislation.gov.uk/uksi/2012/635), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/635/regulation/1/2), [11(9)](https://www.legislation.gov.uk/uksi/2012/635/regulation/11/9)
+
+[^key-582c9507cd3c3c0b1049bc6ebad0a644]: Textual amendment: Reg. 25 omitted (1.4.2012) by virtue of [The Localism Act 2011 (Infrastructure Planning) (Consequential Amendments) Regulations 2012 (S.I. 2012/635)](https://www.legislation.gov.uk/uksi/2012/635), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/635/regulation/1/2), [11(10)](https://www.legislation.gov.uk/uksi/2012/635/regulation/11/10)
+
+[^key-40f2dd8cc77fdcfb8beec77aa5e9aa61]: Textual amendment: Reg. 26(1)(b) omitted (1.4.2012) by virtue of [The Localism Act 2011 (Infrastructure Planning) (Consequential Amendments) Regulations 2012 (S.I. 2012/635)](https://www.legislation.gov.uk/uksi/2012/635), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/635/regulation/1/2), [11(11)(a)](https://www.legislation.gov.uk/uksi/2012/635/regulation/11/11/a)
+
+[^key-f19a12d82690bbbc10b6802570a39dea]: Textual amendment: Reg. 26(1)(c) omitted (1.4.2012) by virtue of [The Localism Act 2011 (Infrastructure Planning) (Consequential Amendments) Regulations 2012 (S.I. 2012/635)](https://www.legislation.gov.uk/uksi/2012/635), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/635/regulation/1/2), [11(11)(a)](https://www.legislation.gov.uk/uksi/2012/635/regulation/11/11/a)
+
+[^key-965978b4ba58552f651a16333e1c1418]: Textual amendment: Words in reg. 26(1)(d) omitted (1.4.2012) by virtue of [The Localism Act 2011 (Infrastructure Planning) (Consequential Amendments) Regulations 2012 (S.I. 2012/635)](https://www.legislation.gov.uk/uksi/2012/635), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/635/regulation/1/2), [11(11)(b)](https://www.legislation.gov.uk/uksi/2012/635/regulation/11/11/b)
+
+[^key-80f8829fc0b0a0eca16460c99234fbfc]: Textual amendment: Reg. 28(2)(a)-(d) substituted for reg. 28(2)(a)(b) (1.4.2012) by [The Localism Act 2011 (Infrastructure Planning) (Consequential Amendments) Regulations 2012 (S.I. 2012/635)](https://www.legislation.gov.uk/uksi/2012/635), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/635/regulation/1/2), [11(12)(a)](https://www.legislation.gov.uk/uksi/2012/635/regulation/11/12/a)
+
+[^key-d1bde196f4e1aae0681ebeda81545bc5]: Textual amendment: Words in reg. 28(7) substituted (1.4.2012) by [The Localism Act 2011 (Infrastructure Planning) (Consequential Amendments) Regulations 2012 (S.I. 2012/635)](https://www.legislation.gov.uk/uksi/2012/635), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/635/regulation/1/2), [11(12)(b)](https://www.legislation.gov.uk/uksi/2012/635/regulation/11/12/b)
+
+[^key-2ce0b4466bf79c63a342d9e066bfe016]: Textual amendment: Reg. 28(9) inserted (1.4.2012) by [The Localism Act 2011 (Infrastructure Planning) (Consequential Amendments) Regulations 2012 (S.I. 2012/635)](https://www.legislation.gov.uk/uksi/2012/635), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/635/regulation/1/2), [11(12)(c)](https://www.legislation.gov.uk/uksi/2012/635/regulation/11/12/c)
+
+[^key-61aed080be23662f8112cc61b4e4f6e2]: Textual amendment: [Reg. 36(6)(d)](https://www.legislation.gov.uk/uksi/2011/2055/regulation/36/6/d) substituted (14.7.2015) by [The Infrastructure Planning (Changes to, and Revocation of, Development Consent Orders) (Amendment) Regulations 2015 (S.I. 2015/760)](https://www.legislation.gov.uk/uksi/2015/760), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/760/regulation/1/1), [5(9)](https://www.legislation.gov.uk/uksi/2015/760/regulation/5/9) (with [reg. 8](https://www.legislation.gov.uk/uksi/2015/760/regulation/8))
+
+[^c21028241]: Marginal citation: By virtue of section 101(2), any oral questioning of a person making representations at a hearing may be carried out on the Examining body's behalf by a barrister, solicitor or advocate appointed under section 101(1) of the Act.
+
+[^key-41fa3f919e355188d9a6a88d7b39be75]: Textual amendment: Words in [reg. 42(2)](https://www.legislation.gov.uk/uksi/2011/2055/regulation/42/2) substituted (14.7.2015) by [The Infrastructure Planning (Changes to, and Revocation of, Development Consent Orders) (Amendment) Regulations 2015 (S.I. 2015/760)](https://www.legislation.gov.uk/uksi/2015/760), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/760/regulation/1/1), [5(10)](https://www.legislation.gov.uk/uksi/2015/760/regulation/5/10) (with [reg. 8](https://www.legislation.gov.uk/uksi/2015/760/regulation/8))
+
+[^key-8abf9eb86f4faf14a0febf6dcc90ccd4]: Textual amendment: Reg. 42(6) substituted (1.4.2012) by [The Localism Act 2011 (Infrastructure Planning) (Consequential Amendments) Regulations 2012 (S.I. 2012/635)](https://www.legislation.gov.uk/uksi/2012/635), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/635/regulation/1/2), [11(13)](https://www.legislation.gov.uk/uksi/2012/635/regulation/11/13)
+
+[^key-a63a495e02cd45d4849e0487ce17c784]: Textual amendment: Reg. 43(1) omitted (1.4.2012) by virtue of [The Localism Act 2011 (Infrastructure Planning) (Consequential Amendments) Regulations 2012 (S.I. 2012/635)](https://www.legislation.gov.uk/uksi/2012/635), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/635/regulation/1/2), [11(14)(a)](https://www.legislation.gov.uk/uksi/2012/635/regulation/11/14/a)
+
+[^key-a9e3144c557bd4527209f57daeb88edf]: Textual amendment: Reg. 43(2) substituted (1.4.2012) by [The Localism Act 2011 (Infrastructure Planning) (Consequential Amendments) Regulations 2012 (S.I. 2012/635)](https://www.legislation.gov.uk/uksi/2012/635), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/635/regulation/1/2), [11(14)(b)](https://www.legislation.gov.uk/uksi/2012/635/regulation/11/14/b)
+
+[^key-aff10cecc3502763cd92d1177a29c55e]: Textual amendment: Words in [reg. 43(2)](https://www.legislation.gov.uk/uksi/2011/2055/regulation/43/2) substituted (14.7.2015) by [The Infrastructure Planning (Changes to, and Revocation of, Development Consent Orders) (Amendment) Regulations 2015 (S.I. 2015/760)](https://www.legislation.gov.uk/uksi/2015/760), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/760/regulation/1/1), [5(11)](https://www.legislation.gov.uk/uksi/2015/760/regulation/5/11) (with [reg. 8](https://www.legislation.gov.uk/uksi/2015/760/regulation/8))
+
+[^key-cfda044f2dabf877a4498738642c2fc1]: Textual amendment: Words in reg. 47(1)(d) substituted (1.4.2012) by [The Localism Act 2011 (Infrastructure Planning) (Consequential Amendments) Regulations 2012 (S.I. 2012/635)](https://www.legislation.gov.uk/uksi/2012/635), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/635/regulation/1/2), [11(15)(a)](https://www.legislation.gov.uk/uksi/2012/635/regulation/11/15/a)
+
+[^key-83230be0ed76686836081e5e6d5211a2]: Textual amendment: Words in reg. 47(4) substituted (1.4.2012) by [The Localism Act 2011 (Infrastructure Planning) (Consequential Amendments) Regulations 2012 (S.I. 2012/635)](https://www.legislation.gov.uk/uksi/2012/635), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/635/regulation/1/2), [11(15)(b)](https://www.legislation.gov.uk/uksi/2012/635/regulation/11/15/b)
+
+[^c21028251]: Marginal citation: [S.I. 2010/305](https://www.legislation.gov.uk/uksi/2010/305).
+
+[^key-92720bb7b841ca5a5c29b5cce0e3f0c9]: Textual amendment: Words in reg. 47(8)(a) inserted (1.4.2012) by [The Localism Act 2011 (Infrastructure Planning) (Consequential Amendments) Regulations 2012 (S.I. 2012/635)](https://www.legislation.gov.uk/uksi/2012/635), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/635/regulation/1/2), [11(15)(c)(i)](https://www.legislation.gov.uk/uksi/2012/635/regulation/11/15/c/i)
+
+[^key-7d6133bbf91c07ebbc2d92a6bd8b26eb]: Textual amendment: Reg. 47(8)(b) omitted (1.4.2012) by virtue of [The Localism Act 2011 (Infrastructure Planning) (Consequential Amendments) Regulations 2012 (S.I. 2012/635)](https://www.legislation.gov.uk/uksi/2012/635), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/635/regulation/1/2), [11(15)(c)(ii)](https://www.legislation.gov.uk/uksi/2012/635/regulation/11/15/c/ii)
+
+[^key-b8f9ae16e03f588125ce7f5546a2fe90]: Textual amendment: Full stop in reg. 47(8)(c) substituted for word (1.4.2012) by [The Localism Act 2011 (Infrastructure Planning) (Consequential Amendments) Regulations 2012 (S.I. 2012/635)](https://www.legislation.gov.uk/uksi/2012/635), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/635/regulation/1/2), [11(15)(c)(iii)](https://www.legislation.gov.uk/uksi/2012/635/regulation/11/15/c/iii)
+
+[^key-d9449025656804396f4f5f6ded2457fb]: Textual amendment: Reg. 47(8)(d) omitted (1.4.2012) by virtue of [The Localism Act 2011 (Infrastructure Planning) (Consequential Amendments) Regulations 2012 (S.I. 2012/635)](https://www.legislation.gov.uk/uksi/2012/635), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/635/regulation/1/2), [11(15)(c)(ii)](https://www.legislation.gov.uk/uksi/2012/635/regulation/11/15/c/ii)
+
+[^key-a4631f7a6c6058d9a38210aab5683737]: Textual amendment: Reg. 48 omitted (1.4.2012) by virtue of [The Localism Act 2011 (Infrastructure Planning) (Consequential Amendments) Regulations 2012 (S.I. 2012/635)](https://www.legislation.gov.uk/uksi/2012/635), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/635/regulation/1/2), [11(16)](https://www.legislation.gov.uk/uksi/2012/635/regulation/11/16)
+
+[^key-09703bbdb49048a4290d6cffa348abd8]: Textual amendment: Reg. 49(1) omitted (1.4.2012) by virtue of [The Localism Act 2011 (Infrastructure Planning) (Consequential Amendments) Regulations 2012 (S.I. 2012/635)](https://www.legislation.gov.uk/uksi/2012/635), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/635/regulation/1/2), [11(17)(a)](https://www.legislation.gov.uk/uksi/2012/635/regulation/11/17/a)
+
+[^key-4c2b576d00df0065ba0c15dff7fe9825]: Textual amendment: [Reg. 49(1A)](https://www.legislation.gov.uk/uksi/2011/2055/regulation/49/1A) inserted (14.7.2015) by [The Infrastructure Planning (Changes to, and Revocation of, Development Consent Orders) (Amendment) Regulations 2015 (S.I. 2015/760)](https://www.legislation.gov.uk/uksi/2015/760), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/760/regulation/1/1), [5(12)(a)](https://www.legislation.gov.uk/uksi/2015/760/regulation/5/12/a) (with [reg. 8](https://www.legislation.gov.uk/uksi/2015/760/regulation/8))
+
+[^key-4113bfb703ecde1060cdae25a394836f]: Textual amendment: Reg. 49(2) substituted (1.4.2012) by [The Localism Act 2011 (Infrastructure Planning) (Consequential Amendments) Regulations 2012 (S.I. 2012/635)](https://www.legislation.gov.uk/uksi/2012/635), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/635/regulation/1/2), [11(17)(b)](https://www.legislation.gov.uk/uksi/2012/635/regulation/11/17/b)
+
+[^key-cfe0f89c7f28aa18e69f86aa89e7a92a]: Textual amendment: Words in [reg. 49(2)](https://www.legislation.gov.uk/uksi/2011/2055/regulation/49/2) substituted (14.7.2015) by [The Infrastructure Planning (Changes to, and Revocation of, Development Consent Orders) (Amendment) Regulations 2015 (S.I. 2015/760)](https://www.legislation.gov.uk/uksi/2015/760), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/760/regulation/1/1), [5(12)(b)(i)](https://www.legislation.gov.uk/uksi/2015/760/regulation/5/12/b/i) (with [reg. 8](https://www.legislation.gov.uk/uksi/2015/760/regulation/8))
+
+[^key-f0c78639d0ff8d3ee0a3a77499605434]: Textual amendment: Words in [reg. 49(2)](https://www.legislation.gov.uk/uksi/2011/2055/regulation/49/2) substituted (14.7.2015) by [The Infrastructure Planning (Changes to, and Revocation of, Development Consent Orders) (Amendment) Regulations 2015 (S.I. 2015/760)](https://www.legislation.gov.uk/uksi/2015/760), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/760/regulation/1/1), [5(12)(b)(ii)](https://www.legislation.gov.uk/uksi/2015/760/regulation/5/12/b/ii) (with [reg. 8](https://www.legislation.gov.uk/uksi/2015/760/regulation/8))
+
+[^key-db09061f499a199c58cd19feaa0c6e3b]: Textual amendment: Words in reg. 49(3) substituted (1.4.2012) by [The Localism Act 2011 (Infrastructure Planning) (Consequential Amendments) Regulations 2012 (S.I. 2012/635)](https://www.legislation.gov.uk/uksi/2012/635), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/635/regulation/1/2), [11(17)(c)](https://www.legislation.gov.uk/uksi/2012/635/regulation/11/17/c)
+
+[^key-ebb208b16a30bc340ff7d23ae86dc82b]: Textual amendment: Words in reg. 49(4) substituted (1.4.2012) by [The Localism Act 2011 (Infrastructure Planning) (Consequential Amendments) Regulations 2012 (S.I. 2012/635)](https://www.legislation.gov.uk/uksi/2012/635), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/635/regulation/1/2), [11(17)(c)](https://www.legislation.gov.uk/uksi/2012/635/regulation/11/17/c)
+
+[^key-28ae594c7319faec8f064f5136cc0d1c]: Textual amendment: Reg. 49(5) omitted (1.4.2012) by virtue of [The Localism Act 2011 (Infrastructure Planning) (Consequential Amendments) Regulations 2012 (S.I. 2012/635)](https://www.legislation.gov.uk/uksi/2012/635), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/635/regulation/1/2), [11(17)(d)](https://www.legislation.gov.uk/uksi/2012/635/regulation/11/17/d)
+
+[^key-b37a778cdcf31513b21a711be1135c50]: Textual amendment: Reg. 49(6)-(8) substituted for reg. 49(6)(7) (1.4.2012) by [The Localism Act 2011 (Infrastructure Planning) (Consequential Amendments) Regulations 2012 (S.I. 2012/635)](https://www.legislation.gov.uk/uksi/2012/635), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/635/regulation/1/2), [11(17)(e)](https://www.legislation.gov.uk/uksi/2012/635/regulation/11/17/e)
+
+[^key-f1b602515b4a779450fc41bf6a052af0]: Textual amendment: Words in reg. 51(3)(a) omitted (1.4.2012) by virtue of [The Localism Act 2011 (Infrastructure Planning) (Consequential Amendments) Regulations 2012 (S.I. 2012/635)](https://www.legislation.gov.uk/uksi/2012/635), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/635/regulation/1/2), [11(18)(b)](https://www.legislation.gov.uk/uksi/2012/635/regulation/11/18/b)
+
+[^key-8bab894e731fb469abe944c468c11eb9]: Textual amendment: Word in reg. 51(3)(a) omitted (1.4.2012) by virtue of [The Localism Act 2011 (Infrastructure Planning) (Consequential Amendments) Regulations 2012 (S.I. 2012/635)](https://www.legislation.gov.uk/uksi/2012/635), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/635/regulation/1/2), [11(18)(a)(i)](https://www.legislation.gov.uk/uksi/2012/635/regulation/11/18/a/i)
+
+[^key-a2415d7a52155f74f5bbae49a469a82f]: Textual amendment: Word in reg. 51(3)(b) substituted for full stop (1.4.2012) by [The Localism Act 2011 (Infrastructure Planning) (Consequential Amendments) Regulations 2012 (S.I. 2012/635)](https://www.legislation.gov.uk/uksi/2012/635), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/635/regulation/1/2), [11(18)(a)(ii)](https://www.legislation.gov.uk/uksi/2012/635/regulation/11/18/a/ii)
+
+[^key-a770ddb70f1ddb817605c6c889273c91]: Textual amendment: Reg. 51(3)(c) inserted (1.4.2012) by [The Localism Act 2011 (Infrastructure Planning) (Consequential Amendments) Regulations 2012 (S.I. 2012/635)](https://www.legislation.gov.uk/uksi/2012/635), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/635/regulation/1/2), [11(18)(a)(iii)](https://www.legislation.gov.uk/uksi/2012/635/regulation/11/18/a/iii)
+
+[^c21028261]: Marginal citation: [1981 c.67](https://www.legislation.gov.uk/ukpga/1981/67).
+
+[^key-fd95bfb62fd596211456ebfa1902e325]: Textual amendment: Reg. 51(7)(ca) inserted (1.4.2012) by [The Localism Act 2011 (Infrastructure Planning) (Consequential Amendments) Regulations 2012 (S.I. 2012/635)](https://www.legislation.gov.uk/uksi/2012/635), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/635/regulation/1/2), [11(18)(c)](https://www.legislation.gov.uk/uksi/2012/635/regulation/11/18/c)
+
+[^key-f74da2f3f12c6f7f124cb80aa1d3ae72]: Textual amendment: Reg. 51(8) omitted (1.4.2012) by virtue of [The Localism Act 2011 (Infrastructure Planning) (Consequential Amendments) Regulations 2012 (S.I. 2012/635)](https://www.legislation.gov.uk/uksi/2012/635), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/635/regulation/1/2), [11(18)(d)](https://www.legislation.gov.uk/uksi/2012/635/regulation/11/18/d)
+
+[^key-0b05bde40c5c254195c584c5812a66d5]: Textual amendment: Reg. 52(2)(c) omitted (1.4.2012) by virtue of [The Localism Act 2011 (Infrastructure Planning) (Consequential Amendments) Regulations 2012 (S.I. 2012/635)](https://www.legislation.gov.uk/uksi/2012/635), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/635/regulation/1/2), [11(19)(a)](https://www.legislation.gov.uk/uksi/2012/635/regulation/11/19/a)
+
+[^key-ec8ef7c45b59ac750affa43ba16fdba9]: Textual amendment: Reg. 52(2)(d) omitted (1.4.2012) by virtue of [The Localism Act 2011 (Infrastructure Planning) (Consequential Amendments) Regulations 2012 (S.I. 2012/635)](https://www.legislation.gov.uk/uksi/2012/635), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/635/regulation/1/2), [11(19)(a)](https://www.legislation.gov.uk/uksi/2012/635/regulation/11/19/a)
+
+[^c21028271]: Marginal citation: [2008 c.29](https://www.legislation.gov.uk/ukpga/2008/29). Section 102 was amended by section 23(1), (6)(a) and (6)(b) of the [Marine and Coastal Access Act 2009 (c.23)](https://www.legislation.gov.uk/ukpga/2009/23). There are other amendments which are not relevant to these Regulations.
+
+[^key-7777e201feed109679e8c7453ec1bc51]: Textual amendment: Reg. 52(2)(h) substituted (1.4.2012) by [The Localism Act 2011 (Infrastructure Planning) (Consequential Amendments) Regulations 2012 (S.I. 2012/635)](https://www.legislation.gov.uk/uksi/2012/635), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/635/regulation/1/2), [11(19)(b)](https://www.legislation.gov.uk/uksi/2012/635/regulation/11/19/b)
+
+[^key-85c7a98d45d2163afb1d487081ff3e55]: Textual amendment: Words in reg. 52(2) inserted (1.4.2012) by [The Localism Act 2011 (Infrastructure Planning) (Consequential Amendments) Regulations 2012 (S.I. 2012/635)](https://www.legislation.gov.uk/uksi/2012/635), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/635/regulation/1/2), [11(19)(c)](https://www.legislation.gov.uk/uksi/2012/635/regulation/11/19/c)
+
+[^key-26d1c41475f14eaab3efe001d8897d18]: Textual amendment: Words in Pt. 3 heading omitted (1.4.2012) by virtue of [The Localism Act 2011 (Infrastructure Planning) (Consequential Amendments) Regulations 2012 (S.I. 2012/635)](https://www.legislation.gov.uk/uksi/2012/635), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/635/regulation/1/2), [11(20)](https://www.legislation.gov.uk/uksi/2012/635/regulation/11/20)
+
+[^key-0c20f15a9425b87873500209c348aece]: Textual amendment: Words in reg. 54 omitted (1.4.2012) by virtue of [The Localism Act 2011 (Infrastructure Planning) (Consequential Amendments) Regulations 2012 (S.I. 2012/635)](https://www.legislation.gov.uk/uksi/2012/635), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/635/regulation/1/2), [11(21)](https://www.legislation.gov.uk/uksi/2012/635/regulation/11/21)
+
+[^key-39c59b45f17e79d7eca42251e6852b49]: Textual amendment: Reg. 55(1)(f) omitted (1.4.2012) by virtue of [The Localism Act 2011 (Infrastructure Planning) (Consequential Amendments) Regulations 2012 (S.I. 2012/635)](https://www.legislation.gov.uk/uksi/2012/635), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/635/regulation/1/2), [11(22)(a)](https://www.legislation.gov.uk/uksi/2012/635/regulation/11/22/a)
+
+[^key-7892c55e40c4262c810699a8021297a3]: Textual amendment: Word in reg. 55(2)(d)(i) inserted (1.4.2012) by [The Localism Act 2011 (Infrastructure Planning) (Consequential Amendments) Regulations 2012 (S.I. 2012/635)](https://www.legislation.gov.uk/uksi/2012/635), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/635/regulation/1/2), [11(22)(b)(i)](https://www.legislation.gov.uk/uksi/2012/635/regulation/11/22/b/i)
+
+[^key-33793ab506df38442199bc99585111a0]: Textual amendment: Reg. 55(2)(d)(ii) omitted (1.4.2012) by virtue of [The Localism Act 2011 (Infrastructure Planning) (Consequential Amendments) Regulations 2012 (S.I. 2012/635)](https://www.legislation.gov.uk/uksi/2012/635), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/635/regulation/1/2), [11(22)(b)(ii)](https://www.legislation.gov.uk/uksi/2012/635/regulation/11/22/b/ii)
+
+[^key-fcdf71021560d0481e801b0907ed9d39]: Textual amendment: Words in [reg. 55(2)(e)](https://www.legislation.gov.uk/uksi/2011/2055/regulation/55/2/e) substituted (31.12.2020 immediately before 11 p.m.) by [The Infrastructure Planning (Publication and Notification of Applications etc.) (Amendment) Regulations 2020 (S.I. 2020/1534)](https://www.legislation.gov.uk/uksi/2020/1534), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1534/regulation/1), [3(8)(a)](https://www.legislation.gov.uk/uksi/2020/1534/regulation/3/8/a) (with [reg. 7](https://www.legislation.gov.uk/uksi/2020/1534/regulation/7))
+
+[^key-1d52cd031a279f011ae7a78166f57fe2]: Textual amendment: [Reg. 55(2)(ea)-(ec)](https://www.legislation.gov.uk/uksi/2011/2055/regulation/55/2/ea) inserted (31.12.2020 immediately before 11 p.m.) by [The Infrastructure Planning (Publication and Notification of Applications etc.) (Amendment) Regulations 2020 (S.I. 2020/1534)](https://www.legislation.gov.uk/uksi/2020/1534), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1534/regulation/1), [3(8)(b)](https://www.legislation.gov.uk/uksi/2020/1534/regulation/3/8/b) (with [reg. 7](https://www.legislation.gov.uk/uksi/2020/1534/regulation/7))
+
+[^key-d38977927188767c7983ed50e238bbad]: Textual amendment: Words in [reg. 55(2)(f)](https://www.legislation.gov.uk/uksi/2011/2055/regulation/55/2/f) inserted (31.12.2020 immediately before 11 p.m.) by [The Infrastructure Planning (Publication and Notification of Applications etc.) (Amendment) Regulations 2020 (S.I. 2020/1534)](https://www.legislation.gov.uk/uksi/2020/1534), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1534/regulation/1), [3(8)(c)](https://www.legislation.gov.uk/uksi/2020/1534/regulation/3/8/c) (with [reg. 7](https://www.legislation.gov.uk/uksi/2020/1534/regulation/7))
+
+[^key-1c8d76fa0b35f91f12a8f223d7d44147]: Textual amendment: Words in [reg. 56(2)(f)](https://www.legislation.gov.uk/uksi/2011/2055/regulation/56/2/f) substituted (31.12.2020 immediately before 11 p.m.) by [The Infrastructure Planning (Publication and Notification of Applications etc.) (Amendment) Regulations 2020 (S.I. 2020/1534)](https://www.legislation.gov.uk/uksi/2020/1534), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1534/regulation/1), [3(9)(a)](https://www.legislation.gov.uk/uksi/2020/1534/regulation/3/9/a) (with [reg. 7](https://www.legislation.gov.uk/uksi/2020/1534/regulation/7))
+
+[^key-53e5a60f1ac89abe2125f311244173db]: Textual amendment: [Reg. 56(2)(fa)-(fc)](https://www.legislation.gov.uk/uksi/2011/2055/regulation/56/2/fa) inserted (31.12.2020 immediately before 11 p.m.) by [The Infrastructure Planning (Publication and Notification of Applications etc.) (Amendment) Regulations 2020 (S.I. 2020/1534)](https://www.legislation.gov.uk/uksi/2020/1534), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1534/regulation/1), [3(9)(b)](https://www.legislation.gov.uk/uksi/2020/1534/regulation/3/9/b) (with [reg. 7](https://www.legislation.gov.uk/uksi/2020/1534/regulation/7))
+
+[^key-ce59ecec79a20d54d1f8417e79957e81]: Textual amendment: Words in [reg. 56(2)(g)](https://www.legislation.gov.uk/uksi/2011/2055/regulation/56/2/g) inserted (31.12.2020 immediately before 11 p.m.) by [The Infrastructure Planning (Publication and Notification of Applications etc.) (Amendment) Regulations 2020 (S.I. 2020/1534)](https://www.legislation.gov.uk/uksi/2020/1534), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1534/regulation/1), [3(9)(c)](https://www.legislation.gov.uk/uksi/2020/1534/regulation/3/9/c) (with [reg. 7](https://www.legislation.gov.uk/uksi/2020/1534/regulation/7))
+
+[^key-4419a60d3f08bff2f1778b632c87e656]: Textual amendment: [Reg. 56A](https://www.legislation.gov.uk/uksi/2011/2055/regulation/56A) omitted (31.12.2020 immediately before 11 p.m.) by virtue of [The Infrastructure Planning (Publication and Notification of Applications etc.) (Amendment) Regulations 2020 (S.I. 2020/1534)](https://www.legislation.gov.uk/uksi/2020/1534), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1534/regulation/1), [3(10)](https://www.legislation.gov.uk/uksi/2020/1534/regulation/3/10) (with [reg. 7](https://www.legislation.gov.uk/uksi/2020/1534/regulation/7))
+
+[^key-58e6e1ae198f34bb967488ceba9ad59e]: Textual amendment: Reg. 58(2)(h) omitted (1.4.2012) by virtue of [The Localism Act 2011 (Infrastructure Planning) (Consequential Amendments) Regulations 2012 (S.I. 2012/635)](https://www.legislation.gov.uk/uksi/2012/635), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/635/regulation/1/2), [11(23)](https://www.legislation.gov.uk/uksi/2012/635/regulation/11/23)
+
+[^key-ab9c921ca215874361cf1877e724da83]: Textual amendment: Words in reg. 60 omitted (1.4.2012) by virtue of [The Localism Act 2011 (Infrastructure Planning) (Consequential Amendments) Regulations 2012 (S.I. 2012/635)](https://www.legislation.gov.uk/uksi/2012/635), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/635/regulation/1/2), [11(24)](https://www.legislation.gov.uk/uksi/2012/635/regulation/11/24)
+
+[^c21028281]: Marginal citation: [1990 c.8](https://www.legislation.gov.uk/ukpga/1990/8). Section 107 was amended by section 31 of and paragraph 13 of Schedule 6 to the [Planning and Compensation Act 1991 (c.34)](https://www.legislation.gov.uk/ukpga/1991/34). Section 109 was amended by section 40 of and paragraph 14 of Schedule 6 to the [Planning and Compulsory Purchase Act 2004 (c.5)](https://www.legislation.gov.uk/ukpga/2004/5) and by article 5 of [S.I. 2009/1307](https://www.legislation.gov.uk/uksi/2009/1307). Section 110 was amended by section 204 of the [Local Government (Wales) Act 1994 (c.19)](https://www.legislation.gov.uk/ukpga/1994/19). Sections 111 and 112 were amended by sections 31 and 84 of and paragraphs 15(a) and 16 of Schedule 6 and Part 2 of Schedule 19 to the [Planning and Compensation Act 1991 (c.34)](https://www.legislation.gov.uk/ukpga/1991/34). Section 117 was amended by section 21 of and paragraph 10 of Schedule 1 to the [Planning and Compensation Act 1991 (c.34)](https://www.legislation.gov.uk/ukpga/1991/34). Section 280 was amended by section 406 of and paragraph 104(a) of Schedule 17 to the [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21) and by article 5 of [S.I. 2009/1307](https://www.legislation.gov.uk/uksi/2009/1307). There other amendments to the 1990 Act which are not relevant to these Regulations.
+
+[^key-ea49a4471d1b107c7e507e363b701393]: Textual amendment: Words in reg. 61 substituted (1.4.2012) by [The Localism Act 2011 (Infrastructure Planning) (Consequential Amendments) Regulations 2012 (S.I. 2012/635)](https://www.legislation.gov.uk/uksi/2012/635), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/635/regulation/1/2), [11(25)](https://www.legislation.gov.uk/uksi/2012/635/regulation/11/25)
+
+[^c21028291]: Marginal citation: [1961 c. 33](https://www.legislation.gov.uk/ukpga/1961/33). Section 4 was amended by [S.I. 2009/1307](https://www.legislation.gov.uk/uksi/2009/1307).
+
+[^key-6395dad84d1b009e4258f481817f9e4b]: Textual amendment: Words in reg. 63 substituted (1.4.2012) by [The Localism Act 2011 (Infrastructure Planning) (Consequential Amendments) Regulations 2012 (S.I. 2012/635)](https://www.legislation.gov.uk/uksi/2012/635), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/635/regulation/1/2), [11(26)(a)](https://www.legislation.gov.uk/uksi/2012/635/regulation/11/26/a)
+
+[^key-fb4af013dc106ea3b987fa5193967af6]: Textual amendment: Words in reg. 63(1)(a) substituted (1.4.2012) by [The Localism Act 2011 (Infrastructure Planning) (Consequential Amendments) Regulations 2012 (S.I. 2012/635)](https://www.legislation.gov.uk/uksi/2012/635), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/635/regulation/1/2), [11(26)(b)(i)](https://www.legislation.gov.uk/uksi/2012/635/regulation/11/26/b/i)
+
+[^key-8cec5c21566b313cbeb4f95255b5a2ee]: Textual amendment: Words in reg. 63(1)(b) substituted (1.4.2012) by [The Localism Act 2011 (Infrastructure Planning) (Consequential Amendments) Regulations 2012 (S.I. 2012/635)](https://www.legislation.gov.uk/uksi/2012/635), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/635/regulation/1/2), [11(26)(b)(ii)](https://www.legislation.gov.uk/uksi/2012/635/regulation/11/26/b/ii)
+
+[^key-c37de327f8339efbb2b85203cc68440e]: Textual amendment: Words in reg. 63(2) substituted (1.4.2012) by [The Localism Act 2011 (Infrastructure Planning) (Consequential Amendments) Regulations 2012 (S.I. 2012/635)](https://www.legislation.gov.uk/uksi/2012/635), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/635/regulation/1/2), [11(26)(c)](https://www.legislation.gov.uk/uksi/2012/635/regulation/11/26/c)
+
+[^key-01d208b0a6bcd7d58f6c7baa5378c0a7]: Textual amendment: Reg. 64(a)(b) substituted (1.4.2012) by [The Localism Act 2011 (Infrastructure Planning) (Consequential Amendments) Regulations 2012 (S.I. 2012/635)](https://www.legislation.gov.uk/uksi/2012/635), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/635/regulation/1/2), [11(27)](https://www.legislation.gov.uk/uksi/2012/635/regulation/11/27)
+
+[^key-5040a1a8c2efd2d6a1c6aa8d4bb75726]: Textual amendment: Words in reg. 67(2)(b) substituted (1.4.2012) by [The Localism Act 2011 (Infrastructure Planning) (Consequential Amendments) Regulations 2012 (S.I. 2012/635)](https://www.legislation.gov.uk/uksi/2012/635), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/635/regulation/1/2), [11(28)(a)](https://www.legislation.gov.uk/uksi/2012/635/regulation/11/28/a)
+
+[^key-6afea2db3dad429750c6571d23b4f447]: Textual amendment: Words in reg. 67(2)(c)(ii) substituted (1.4.2012) by [The Localism Act 2011 (Infrastructure Planning) (Consequential Amendments) Regulations 2012 (S.I. 2012/635)](https://www.legislation.gov.uk/uksi/2012/635), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/635/regulation/1/2), [11(28)(b)](https://www.legislation.gov.uk/uksi/2012/635/regulation/11/28/b)
+
+[^c21028301]: Marginal citation: SI 2010/104
+
+[^key-7e126848586369501c680b38ef579469]: Textual amendment: [Reg. 71](https://www.legislation.gov.uk/uksi/2011/2055/regulation/71) substituted (6.4.2017) by [The Infrastructure Planning Fees (Amendment) Regulations 2017 (S.I. 2017/314)](https://www.legislation.gov.uk/uksi/2017/314), [regs. 1](https://www.legislation.gov.uk/uksi/2017/314/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2017/314/regulation/3/2)
+
+[^key-0556256827912843828175edbd33467a]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
+
+[^key-bb4b1cbf076fc373945cc001ac8e0ea1]: Textual amendment: Words in Sch. 1 table substituted (6.4.2013) by [The Infrastructure Planning (Prescribed Consultees and Interested Parties etc.) (Amendment) Regulations 2013 (S.I. 2013/522)](https://www.legislation.gov.uk/uksi/2013/522), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/522/regulation/1/2), [6(3)(a)(i)](https://www.legislation.gov.uk/uksi/2013/522/regulation/6/3/a/i)
+
+[^key-ddddb348f25b40328c2f269f904dbd03]: Textual amendment: Words in [Regulations](https://www.legislation.gov.uk/uksi/2011/2055) substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [Sch. para. 1(1)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/1)[(3)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/3) (with [Sch. para. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/2))
+
+[^c21028311]: Marginal citation: See section 2 of the [National Health Service (Scotland) Act 1978 (c.29)](https://www.legislation.gov.uk/ukpga/1978/29).
+
+[^c21028321]: Marginal citation: See section 1 of the [Natural Environment and Rural Communities Act 2006 (c.16)](https://www.legislation.gov.uk/ukpga/2006/16).
+
+[^key-1ab2017d1357ad6f65e2326f586acb65]: Textual amendment: Words in Sch. 1 table substituted (22.11.2012) by [The Local Policing Bodies (Consequential Amendments No. 2) Regulations 2012 (S.I. 2012/2732)](https://www.legislation.gov.uk/uksi/2012/2732), [regs. 1](https://www.legislation.gov.uk/uksi/2012/2732/regulation/1), [7(3)](https://www.legislation.gov.uk/uksi/2012/2732/regulation/7/3)
+
+[^key-0994312894ea1ea3f0ed15cf8a02d561]: Textual amendment: Words in Sch. 1 table omitted (1.4.2013) by virtue of [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 412(2)](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/412/2) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+
+[^key-d47fc0775230cc51246cb84ea601cba6]: Textual amendment: Words in Sch. 1 table omitted (6.4.2013) by virtue of [The Infrastructure Planning (Prescribed Consultees and Interested Parties etc.) (Amendment) Regulations 2013 (S.I. 2013/522)](https://www.legislation.gov.uk/uksi/2013/522), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/522/regulation/1/2), [6(3)(c)(i)](https://www.legislation.gov.uk/uksi/2013/522/regulation/6/3/c/i)
+
+[^key-167c05b7a80a016bd5561e60a63dadfe]: Textual amendment: Words in Sch. 1 table omitted (6.4.2013) by virtue of [The Infrastructure Planning (Prescribed Consultees and Interested Parties etc.) (Amendment) Regulations 2013 (S.I. 2013/522)](https://www.legislation.gov.uk/uksi/2013/522), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/522/regulation/1/2), [6(3)(c)(ii)](https://www.legislation.gov.uk/uksi/2013/522/regulation/6/3/c/ii)
+
+[^key-137b0dfb79733e2e50df3a3e7c7dc989]: Textual amendment: Words in Sch. 1 table omitted (E.) (6.4.2013) by virtue of [The Infrastructure Planning (Prescribed Consultees and Interested Parties etc.) (Amendment) Regulations 2013 (S.I. 2013/522)](https://www.legislation.gov.uk/uksi/2013/522), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/522/regulation/1/2), [6(3)(d)(i)](https://www.legislation.gov.uk/uksi/2013/522/regulation/6/3/d/i)
+
+[^key-6e18d1455665a9142ac75f1edc2163ce]: Textual amendment: Words in Sch. 1 table omitted (E.) (6.4.2013) by virtue of [The Infrastructure Planning (Prescribed Consultees and Interested Parties etc.) (Amendment) Regulations 2013 (S.I. 2013/522)](https://www.legislation.gov.uk/uksi/2013/522), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/522/regulation/1/2), [6(3)(d)(ii)](https://www.legislation.gov.uk/uksi/2013/522/regulation/6/3/d/ii)
+
+[^key-a4af9c551a08a1e000432166c2a80c1e]: Textual amendment: Words in Sch. 1 table omitted (6.4.2013) by virtue of [The Infrastructure Planning (Prescribed Consultees and Interested Parties etc.) (Amendment) Regulations 2013 (S.I. 2013/522)](https://www.legislation.gov.uk/uksi/2013/522), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/522/regulation/1/2), [6(3)(c)(iii)](https://www.legislation.gov.uk/uksi/2013/522/regulation/6/3/c/iii)
+
+[^key-90b7bff6e82e6666be3e5239c2d08244]: Textual amendment: Word in Sch. 1 table inserted (E.) (6.4.2013) by [The Infrastructure Planning (Prescribed Consultees and Interested Parties etc.) (Amendment) Regulations 2013 (S.I. 2013/522)](https://www.legislation.gov.uk/uksi/2013/522), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/522/regulation/1/2), [6(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2013/522/regulation/6/3/a/ii)
+
+[^key-c93980c1586c0370c56f15bdb5655624]: Textual amendment: Words in Sch. 1 table substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 412(3)](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/412/3) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+
+[^key-8406c335f8715b43545d96bcf3e68ce2]: Textual amendment: Words in Sch. 1 table omitted (E.) (6.4.2013) by virtue of [The Infrastructure Planning (Prescribed Consultees and Interested Parties etc.) (Amendment) Regulations 2013 (S.I. 2013/522)](https://www.legislation.gov.uk/uksi/2013/522), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/522/regulation/1/2), [6(3)(d)(iii)](https://www.legislation.gov.uk/uksi/2013/522/regulation/6/3/d/iii)
+
+[^c21028331]: Marginal citation: See section 2 of the [Housing and Regeneration Act 2008 (c.17)](https://www.legislation.gov.uk/ukpga/2008/17).
+
+[^key-964e24ae5f8b3e19181a4a748e2ba61e]: Textual amendment: Words in Sch. 1 table revoked (1.4.2013) by [The Public Bodies (Abolition of the Commission for Rural Communities) Order 2012 (S.I. 2012/2654)](https://www.legislation.gov.uk/uksi/2012/2654), [art. 1(4)](https://www.legislation.gov.uk/uksi/2012/2654/article/1/4), [Sch.](https://www.legislation.gov.uk/uksi/2012/2654/schedule)
+
+[^key-433e30a481b642706f6bb24064703611]: Textual amendment: Words in Sch. 1 table substituted (1.4.2015) by [The Infrastructure Act 2015 (Strategic Highways Companies) (Consequential, Transitional and Savings Provisions) Regulations 2015 (S.I. 2015/377)](https://www.legislation.gov.uk/uksi/2015/377), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/377/regulation/1/2), [Sch. para. 52(2)](https://www.legislation.gov.uk/uksi/2015/377/schedule/paragraph/52/2)
+
+[^key-e6ff65bb0b018d2e032479ee29cad6ab]: Textual amendment: Words in Sch. 1 table inserted (1.4.2015) by [The Infrastructure Act 2015 (Strategic Highways Companies) (Consequential, Transitional and Savings Provisions) Regulations 2015 (S.I. 2015/377)](https://www.legislation.gov.uk/uksi/2015/377), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/377/regulation/1/2), [Sch. para. 52(3)](https://www.legislation.gov.uk/uksi/2015/377/schedule/paragraph/52/3)
+
+[^key-af8a282cd4ae8506c0d85e3994ae1203]: Textual amendment: Words in Sch. 1 table omitted (E.) (6.4.2013) by virtue of [The Infrastructure Planning (Prescribed Consultees and Interested Parties etc.) (Amendment) Regulations 2013 (S.I. 2013/522)](https://www.legislation.gov.uk/uksi/2013/522), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/522/regulation/1/2), [6(3)(d)(iv)](https://www.legislation.gov.uk/uksi/2013/522/regulation/6/3/d/iv)
+
+[^key-26c64b70860ef367b314a577c62fac26]: Textual amendment: Words in Sch. 1 table omitted (E.) (6.4.2013) by virtue of [The Infrastructure Planning (Prescribed Consultees and Interested Parties etc.) (Amendment) Regulations 2013 (S.I. 2013/522)](https://www.legislation.gov.uk/uksi/2013/522), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/522/regulation/1/2), [6(3)(d)(v)](https://www.legislation.gov.uk/uksi/2013/522/regulation/6/3/d/v)
+
+[^key-ed7d1869e702a2ca16970b39ef99cfa4]: Textual amendment: Words in Sch. 1 table omitted (E.) (6.4.2013) by virtue of [The Infrastructure Planning (Prescribed Consultees and Interested Parties etc.) (Amendment) Regulations 2013 (S.I. 2013/522)](https://www.legislation.gov.uk/uksi/2013/522), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/522/regulation/1/2), [6(3)(d)(vi)](https://www.legislation.gov.uk/uksi/2013/522/regulation/6/3/d/vi)
+
+[^key-6bff5b4328a8eb3d5da97691ae077ad2]: Textual amendment: Words in Sch. 1 table substituted (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 10(cc)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/10/cc)
+
+[^c21028341]: Marginal citation: For the definition of “approved operators” see section 25 of the Planning Act 2008.
+
+[^key-c744401dbcf19aaec6222cf15c55add4]: Textual amendment: Words in Sch. 1 table omitted (E.) (6.4.2013) by virtue of [The Infrastructure Planning (Prescribed Consultees and Interested Parties etc.) (Amendment) Regulations 2013 (S.I. 2013/522)](https://www.legislation.gov.uk/uksi/2013/522), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/522/regulation/1/2), [6(3)(d)(vii)](https://www.legislation.gov.uk/uksi/2013/522/regulation/6/3/d/vii)
+
+[^key-6a90f71058afaaf11389a6853080e908]: Textual amendment: Words in Sch. 1 table omitted (E.) (6.4.2013) by virtue of [The Infrastructure Planning (Prescribed Consultees and Interested Parties etc.) (Amendment) Regulations 2013 (S.I. 2013/522)](https://www.legislation.gov.uk/uksi/2013/522), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/522/regulation/1/2), [6(3)(d)(viii)](https://www.legislation.gov.uk/uksi/2013/522/regulation/6/3/d/viii)
+
+[^key-73fdad736f3180e578673058bf543077]: Textual amendment: Words in Sch. 1 table omitted (E.) (6.4.2013) by virtue of [The Infrastructure Planning (Prescribed Consultees and Interested Parties etc.) (Amendment) Regulations 2013 (S.I. 2013/522)](https://www.legislation.gov.uk/uksi/2013/522), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/522/regulation/1/2), [6(3)(d)(ix)](https://www.legislation.gov.uk/uksi/2013/522/regulation/6/3/d/ix)
+
+[^key-8f2d4892f438f6a27f5ca79f55df6ad4]: Textual amendment: Words in Sch. 1 table omitted (E.) (6.4.2013) by virtue of [The Infrastructure Planning (Prescribed Consultees and Interested Parties etc.) (Amendment) Regulations 2013 (S.I. 2013/522)](https://www.legislation.gov.uk/uksi/2013/522), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/522/regulation/1/2), [6(3)(d)(x)](https://www.legislation.gov.uk/uksi/2013/522/regulation/6/3/d/x)
+
+[^c21028351]: Marginal citation: The Corporation of Trinity House of Deptford Strond.
+
+[^key-d1afbb93fa6447987ccbd680fe1b4672]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2011/2055/schedule/1) table substituted (1.10.2021) by [The Infrastructure Planning (Prescribed Consultees and Interested Parties etc.) (Amendment) Regulations 2021 (S.I. 2021/978)](https://www.legislation.gov.uk/uksi/2021/978), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/978/regulation/1/2), [4(2)](https://www.legislation.gov.uk/uksi/2021/978/regulation/4/2)
+
+[^key-771542e17ecffa526157ec6e86ddb9d6]: Textual amendment: Words in Sch. 1 table substituted (6.4.2013) by [The Infrastructure Planning (Prescribed Consultees and Interested Parties etc.) (Amendment) Regulations 2013 (S.I. 2013/522)](https://www.legislation.gov.uk/uksi/2013/522), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/522/regulation/1/2), [6(3)(b)(i)](https://www.legislation.gov.uk/uksi/2013/522/regulation/6/3/b/i)
+
+[^key-ad045539410cb573c1a9f9cfb231a937]: Textual amendment: Words in Sch. 1 table inserted (11.4.2018) by [The Secretaries of State for Health and Social Care and for Housing, Communities and Local Government and Transfer of Functions (Commonhold Land) Order 2018 (S.I. 2018/378)](https://www.legislation.gov.uk/uksi/2018/378), [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/378/article/1/2), [Sch. para. 20(u)](https://www.legislation.gov.uk/uksi/2018/378/schedule/paragraph/20/u) (with [art. 14](https://www.legislation.gov.uk/uksi/2018/378/article/14))
+
+[^key-981eec62256ce1582bf3cdad59a5019b]: Textual amendment: Words in Sch. 1 table inserted (6.4.2013) by [The Infrastructure Planning (Prescribed Consultees and Interested Parties etc.) (Amendment) Regulations 2013 (S.I. 2013/522)](https://www.legislation.gov.uk/uksi/2013/522), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/522/regulation/1/2), [6(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2013/522/regulation/6/3/b/ii)
+
+[^key-cd8caa67358480fd3a34a9218b49eea3]: Textual amendment: Words in Sch. 1 table omitted (E.) (6.4.2013) by virtue of [The Infrastructure Planning (Prescribed Consultees and Interested Parties etc.) (Amendment) Regulations 2013 (S.I. 2013/522)](https://www.legislation.gov.uk/uksi/2013/522), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/522/regulation/1/2), [6(3)(d)(xi)](https://www.legislation.gov.uk/uksi/2013/522/regulation/6/3/d/xi)
+
+[^key-2babb0b7fb208988d6cd634bd21b96b9]: Textual amendment: Words in Sch. 1 table inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 412(4)](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/412/4) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+
+[^key-d4938878eefdb2a8542257849adc70aa]: Textual amendment: Words in Sch. 1 table omitted (1.4.2019) by virtue of [The Forestry and Land Management (Scotland) Act 2018 (Consequential Provisions and Modifications) Order 2019 (S.I. 2019/734)](https://www.legislation.gov.uk/uksi/2019/734), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/734/regulation/1/2), [Sch. para. 69(2)](https://www.legislation.gov.uk/uksi/2019/734/schedule/paragraph/69/2); [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), reg. 2
+
+[^key-8b656b4e23566ad5986558c1fbbd4837]: Textual amendment: Words in Sch. 1 table inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 412(5)](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/412/5) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+
+[^key-387e21df461c902d5e68c02cc79e7b24]: Textual amendment: Words in Sch. 1 table inserted (6.4.2013) by [The Infrastructure Planning (Prescribed Consultees and Interested Parties etc.) (Amendment) Regulations 2013 (S.I. 2013/522)](https://www.legislation.gov.uk/uksi/2013/522), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/522/regulation/1/2), [6(3)(e)](https://www.legislation.gov.uk/uksi/2013/522/regulation/6/3/e)
+
+[^key-f45eec0d8141262d499829e24b5df457]: Textual amendment: Words in Sch. 1 table inserted (E.) (6.4.2013) by [The Infrastructure Planning (Prescribed Consultees and Interested Parties etc.) (Amendment) Regulations 2013 (S.I. 2013/522)](https://www.legislation.gov.uk/uksi/2013/522), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/522/regulation/1/2), [6(3)(f)](https://www.legislation.gov.uk/uksi/2013/522/regulation/6/3/f)
+
+[^key-b945eb525f4dc885fbc57d563805c093]: Textual amendment: Word in Sch. 1 substituted (E.) (6.4.2013) by [The Infrastructure Planning (Prescribed Consultees and Interested Parties etc.) (Amendment) Regulations 2013 (S.I. 2013/522)](https://www.legislation.gov.uk/uksi/2013/522), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/522/regulation/1/2), [6(3)(g)(i)](https://www.legislation.gov.uk/uksi/2013/522/regulation/6/3/g/i)
+
+[^key-3ae318c9c6f26835113f4594e3701152]: Textual amendment: Word in Sch. 1 inserted (E.) (6.4.2013) by [The Infrastructure Planning (Prescribed Consultees and Interested Parties etc.) (Amendment) Regulations 2013 (S.I. 2013/522)](https://www.legislation.gov.uk/uksi/2013/522), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/522/regulation/1/2), [6(3)(g)(ii)](https://www.legislation.gov.uk/uksi/2013/522/regulation/6/3/g/ii)
+
+[^key-0f047e2bed8be1029e17eea2996205e7]: Textual amendment: Words in Sch. 1 omitted (E.) (6.4.2013) by virtue of [The Infrastructure Planning (Prescribed Consultees and Interested Parties etc.) (Amendment) Regulations 2013 (S.I. 2013/522)](https://www.legislation.gov.uk/uksi/2013/522), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/522/regulation/1/2), [6(3)(g)(iii)](https://www.legislation.gov.uk/uksi/2013/522/regulation/6/3/g/iii)
+
+[^key-77c1d36e3b518c2df44d276e7ceac0f2]: Textual amendment: Words in Sch. 1 inserted (E.) (6.4.2013) by [The Infrastructure Planning (Prescribed Consultees and Interested Parties etc.) (Amendment) Regulations 2013 (S.I. 2013/522)](https://www.legislation.gov.uk/uksi/2013/522), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/522/regulation/1/2), [6(3)(g)(iv)](https://www.legislation.gov.uk/uksi/2013/522/regulation/6/3/g/iv)
+
+[^key-85845621e2e8060fc7904d8a044f9c41]: Textual amendment: Word in [Sch. 2 para. 2(3)](https://www.legislation.gov.uk/uksi/2011/2055/schedule/2/paragraph/2/3) substituted (6.4.2017) by [The Infrastructure Planning Fees (Amendment) Regulations 2017 (S.I. 2017/314)](https://www.legislation.gov.uk/uksi/2017/314), [regs. 1](https://www.legislation.gov.uk/uksi/2017/314/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2017/314/regulation/3/3)
+
+[^key-a46f092ce298f0fdd2a20945fa034ba2]: Textual amendment: Words in Sch. 2 para. 3(1) substituted (14.7.2015) by [The Infrastructure Planning (Changes to, and Revocation of, Development Consent Orders) (Amendment) Regulations 2015 (S.I. 2015/760)](https://www.legislation.gov.uk/uksi/2015/760), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/760/regulation/1/1), [7(1)](https://www.legislation.gov.uk/uksi/2015/760/regulation/7/1) (with [reg. 8](https://www.legislation.gov.uk/uksi/2015/760/regulation/8))
+
+[^key-a4db3cb62ddce6efcdfaefb88256ae9e]: Textual amendment: [Sch. 2 para. 3(3)](https://www.legislation.gov.uk/uksi/2011/2055/schedule/2/paragraph/3/3) substituted (6.4.2017) by [The Infrastructure Planning Fees (Amendment) Regulations 2017 (S.I. 2017/314)](https://www.legislation.gov.uk/uksi/2017/314), [regs. 1](https://www.legislation.gov.uk/uksi/2017/314/regulation/1), [3(4)](https://www.legislation.gov.uk/uksi/2017/314/regulation/3/4) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2017/314/regulation/4/1)[(2)](https://www.legislation.gov.uk/uksi/2017/314/regulation/4/2))
+
+[^key-b3a6b302290fef76e6ad08e813225306]: Textual amendment: Words in [Sch. 2 para. 4(1)](https://www.legislation.gov.uk/uksi/2011/2055/schedule/2/paragraph/4/1) substituted (14.7.2015) by [The Infrastructure Planning (Changes to, and Revocation of, Development Consent Orders) (Amendment) Regulations 2015 (S.I. 2015/760)](https://www.legislation.gov.uk/uksi/2015/760), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/760/regulation/1/1), [7(2)](https://www.legislation.gov.uk/uksi/2015/760/regulation/7/2) (with [reg. 8](https://www.legislation.gov.uk/uksi/2015/760/regulation/8))
+
+[^key-cd3d21476461d0bd948ed799c1fad7a2]: Textual amendment: Words in [Sch. 2 para. 5(2)](https://www.legislation.gov.uk/uksi/2011/2055/schedule/2/paragraph/5/2) substituted (6.4.2017) by [The Infrastructure Planning Fees (Amendment) Regulations 2017 (S.I. 2017/314)](https://www.legislation.gov.uk/uksi/2017/314), [regs. 1](https://www.legislation.gov.uk/uksi/2017/314/regulation/1), [3(5)](https://www.legislation.gov.uk/uksi/2017/314/regulation/3/5) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2017/314/regulation/4/1)[(2)](https://www.legislation.gov.uk/uksi/2017/314/regulation/4/2))
+
+[^key-7b19d7ddd67059decb29f44d11ba830b]: Textual amendment: [Sch. 2 para. 6(2)](https://www.legislation.gov.uk/uksi/2011/2055/schedule/2/paragraph/6/2) substituted (6.4.2017) by [The Infrastructure Planning Fees (Amendment) Regulations 2017 (S.I. 2017/314)](https://www.legislation.gov.uk/uksi/2017/314), [regs. 1](https://www.legislation.gov.uk/uksi/2017/314/regulation/1), [3(6)](https://www.legislation.gov.uk/uksi/2017/314/regulation/3/6) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2017/314/regulation/4/1)[(2)](https://www.legislation.gov.uk/uksi/2017/314/regulation/4/2))
+
+[^key-87816c5304b4e9e7b95e102d2a41662c]: Textual amendment: [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2011/2055/schedule/2/paragraph/8) inserted (6.4.2017) by [The Infrastructure Planning Fees (Amendment) Regulations 2017 (S.I. 2017/314)](https://www.legislation.gov.uk/uksi/2017/314), [regs. 1](https://www.legislation.gov.uk/uksi/2017/314/regulation/1), [3(7)](https://www.legislation.gov.uk/uksi/2017/314/regulation/3/7) (with [reg. 4(3)](https://www.legislation.gov.uk/uksi/2017/314/regulation/4/3))

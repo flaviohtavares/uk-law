@@ -1,0 +1,185 @@
+---
+title: The Criminal Defence Service (Recovery of Defence Costs Orders) (Amendment) Regulations 2008
+id: uksi/2008/2430
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2008-09-09'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2008/2430
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2008/2430/pdfs/uksiem_20082430_en.pdf
+- http://www.legislation.gov.uk/uksi/2008/2430/pdfs/uksi_20082430_en.pdf
+- http://www.legislation.gov.uk/uksi/2008/2430/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Criminal Defence Service (Recovery of Defence Costs Orders) (Amendment) Regulations 2008
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2008 No. 2430
+
+Legal Services Commission, England And Wales
+
+The Criminal Defence Service (Recovery of Defence Costs Orders) (Amendment) Regulations 2008
+
+Made
+
+9th September 2008
+
+Laid before Parliament
+
+15th September 2008
+
+Coming into force
+
+6th October 2008
+
+The Lord Chancellor makes the following Regulations in exercise of the powers conferred by section 17(3) of the Access to Justice Act 1999[^f00001].
+
+## 1. Citation and commencement
+
+These Regulations may be cited as the Criminal Defence Service (Recovery of Defence Costs Orders) (Amendment) Regulations 2008, and come into force on 6th October 2008.
+
+## 2. Transitional provisions and interpretation
+
+(1) Subject to paragraph (2), these Regulations apply to representation orders granted on or after 6th October 2008, and representation orders granted before that date shall be treated as if these Regulations had not been made.
+
+(2) In this regulation, “representation order” means a document granting a right to representation, but does not include any representation order made on or after 6th October 2008 where any representation order has previously been granted to the same individual in the same proceedings.
+
+## 3. Amendments to the Criminal Defence Service (Recovery of Defence Costs Orders) Regulations 2001
+
+The Criminal Defence Service (Recovery of Defence Costs Orders) Regulations 2001[^f00002] are amended as follows.
+
+**4.** In regulation 3(1), after “shall”, insert “, subject to regulation 4,”.
+
+**5.** For regulation 4 substitute—
+
+> **4.** (1) The judge hearing the case shall make an RDCO against a funded defendant except as provided in paragraph (2), (3) or (4).
+>
+> (2) An RDCO shall not be made against a funded defendant who—
+>
+> - (a) has appeared in the magistrates’ court only; or
+> - (b) is committed for sentence to the Crown Court.
+>
+> (3) Subject to regulation 13, an RDCO shall not be made against a funded defendant who—
+>
+> - (a) has been acquitted, other than in exceptional circumstances;
+> - (b) is directly or indirectly in receipt of—
+>   - (i) guarantee credit;
+>   - (ii) income support;
+>   - (iii) income-based jobseeker’s allowance; or
+>   - (iv) income-related employment and support allowance;
+> - (c) has none of the following assets—
+>   - (i) capital over £3,000;
+>   - (ii) equity in that defendant’s principal residence over £100,000;
+>   - (iii) gross annual income over £22,235; or
+> - (d) is under the age of 18.
+>
+> (4) Subject to regulation 13, an RDCO shall not be made where the judge hearing the case is satisfied that—
+>
+> - (a) it would not be reasonable to make such an order, on the basis of the information and evidence available; or
+> - (b) the payment of an RDCO would, owing to the exceptional circumstances of the case, involve undue financial hardship.
+
+.
+
+**6.** For regulation 6 substitute—
+
+> **6.** Except in the circumstances mentioned in regulation 4(2), the funded defendant shall provide such information and evidence about their financial circumstances as the court or the Commission requires.
+
+.
+
+**7.** After regulation 7 insert—
+
+> **7A.** Where further information is required in order to decide whether to make an RDCO or to decide the terms of the RDCO the judge may—
+>
+> - (a) adjourn consideration of the matter; and
+> - (b) order that any further information which is required shall be provided.
+
+.
+
+**8.** In regulation 8(1)—
+
+- (a) after sub-paragraph (a) insert—
+
+  > - (aa) the funded defendant has directly or indirectly deprived themselves of any resources or expectations;
+
+  ;
+- (b) for “and may treat” until the end of the paragraph substitute “or the value of the resources or expectations of which the funded defendant has so deprived themself, and may treat all or any of such resources or expectations as those of the funded defendant.”.
+
+**9.** In regulation 9—
+
+- (a) in paragraph (1) (a) for “may” substitute “shall”;
+- (b) for paragraph (1) (b) substitute—
+
+  > - (b) the amount or value of every source of income and every resource of a capital nature available to the funded defendant’s partner shall be treated as the financial resources of the funded defendant, unless the partner has a contrary interest in the criminal proceedings before the court.
+
+  ;
+- (c) for paragraph (2) substitute—
+
+  > (2) Unless there are exceptional circumstances, the following assets of the funded defendant shall be taken into account by the judge when considering the terms of the order—
+  >
+  > - (a) capital over £3,000;
+  > - (b) equity in the funded defendant’s principal residence over £100,000;
+  > - (c) gross annual income over £22,235.
+
+  .
+
+**10.** In regulation 10—
+
+- (a) after “the judge” insert “or the Commission”;
+- (b) for “solicitor” substitute “litigator”.
+
+**11.** For regulation 11 substitute—
+
+> **11.** At the conclusion of the relevant proceedings the judge shall—
+>
+> - (a) subject to regulation 4, make an RDCO and give reasons for the terms of the order;
+> - (b) where an RDCO may be made under regulation 4(3)(a), consider whether it is reasonable in all the circumstances of the case to make such an order;
+> - (c) where an RDCO is made under regulation 4(3)(a), give reasons for the decision to make such an order;
+> - (d) if pursuant to regulation 4(4) an RDCO is not made, give reasons for the decision not to make such an order.
+
+.
+
+**12.** Omit regulation 12.
+
+**13.** In regulation 13 for “12(b)(ii) substitute “7A(b)”.
+
+**14.** In regulation 14 for “solicitor” substitute “litigator”.
+
+Signed by the authority of the Lord Chancellor
+
+Michael Wills
+
+Minister of State
+
+Ministry of Justice
+
+9th September 2008
+
+EXPLANATORY NOTE
+
+(This note is not part of these Regulations)
+
+These Regulations amend the Criminal Defence Service (Recovery of Defence Costs Orders) Regulations 2001 (“the 2001 Regulations”). The 2001 Regulations provide for the recovery of such part of the costs of the representation provided to a funded defendant in criminal proceedings as is reasonable in all the circumstances of the case.
+
+These Regulations introduce discretion for the court to make no Recovery of Defence Costs Order in certain circumstances. They also provide that no such order shall be made in respect of funded defendants who are in receipt of certain benefits, or who are under 18, and clarify that no such order shall be made where a funded defendant has assets or income below a certain level. The effect of these Regulations is also that a Recovery of Defence Costs Order can now be made in relation to appeals against sentence in the Crown Court (regulation 5).
+
+These Regulations provide that when assessing the funded defendant’s financial circumstances, the court may take account of the value of resources or expectations of which the funded defendant has deprived themself (regulation 8). They also clarify the circumstances in which the income and capital of the funded defendant’s partner can be taken into account (regulation 9(b)).
+
+They provide that the judge may take account of assets or income above a certain level when determining the amount of the order (regulation 9(c)), and require that the judge give reasons (regulation 11).
+
+These Regulations make other minor changes.
+
+A full regulatory impact assessment of the effect that this instrument will have on the costs of business and the voluntary sector is available from the Criminal Legal Aid Strategy Division, Ministry of Justice, 54 Victoria Street, London, SW1E 6QW and is also available at www.justice.gov.uk/publications/cp2007.htm.
+
+## Annotations
+
+[^f00001]: Footnote: [1999 c. 22](https://www.legislation.gov.uk/ukpga/1999/22). Section 26 defines “regulations” as regulations made by the Lord Chancellor. The reference to the Lord Chancellor in section 26 was changed to the Secretary of State by the Secretary of State for Constitutional Affairs Order 2003, [S.I. 2003/1887](https://www.legislation.gov.uk/uksi/2003/1887), and changed back to the Lord Chancellor by the Transfer of Functions (Lord Chancellor and Secretary of State) Order 2005, [S.I. 2005/3429](https://www.legislation.gov.uk/uksi/2005/3429).
+
+[^f00002]: Footnote: [S.I. 2001/856](https://www.legislation.gov.uk/uksi/2001/856); amended by [S.I. 2004/1195](https://www.legislation.gov.uk/uksi/2004/1195), [S.I. 2005/2783](https://www.legislation.gov.uk/uksi/2005/2783).

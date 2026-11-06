@@ -1,0 +1,75 @@
+---
+title: Enterprise Act 2016, section 4
+act: Enterprise Act 2016
+section: '4'
+status: revised
+text_date: '2025-06-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2016/12/section/4
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Enterprise Act 2016, section 4
+
+> Text as at 2025-06-01.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 4. The SBC complaints scheme[^c22567781][^key-f42408c533d80e16263a540b300f8ac0]
+
+*Extent: E+W+S+N.I.*
+
+(1) The Commissioner must establish, maintain and administer a scheme (in this Part referred to as “**the SBC complaints scheme**”) under which the Commissioner—
+
+- (a) enquires into, considers and determines relevant complaints, and
+- (b) may make recommendations as to how the issues raised by those complaints may be remedied, resolved or mitigated or how similar issues may be prevented from arising in future.
+
+(2) The Commissioner must establish, maintain and administer the SBC complaints scheme in accordance with regulations made by the Secretary of State under section 7 (scheme regulations).
+
+(3) “**Relevant complaint**” means a complaint which—
+
+- (a) is made by a small business (“**the complainant**”) which has an agreement to supply, or has supplied or may supply, goods or services to a larger business (“**the respondent**”),
+- (b) relates to a payment matter (see subsection (4)), and
+- (c) is not excluded from the scheme (see subsection (5)).
+
+(4) A complaint relates to a payment matter if it relates to—
+
+- (a) a request or other act, or a failure to pay or other omission, in relation to a payment—
+  - (i) for or in connection with the supply of goods or services, or
+  - (ii) in connection with the relationship or possible relationship between the small business and the larger business so far as relevant to the supply, or
+- (b) any provision made or proposed to be made in connection with the supply or that relationship which restricts, or purports to restrict, any right of the small business to make a complaint under the SBC complaints scheme or to have a complaint enquired into, considered or determined under the scheme.
+
+(5) A complaint is excluded from the scheme if—
+
+- (a) it relates to the appropriateness of the price payable or proposed to be payable under a contract for the goods or services supplied or to be supplied by the small business under the contract by comparison with those goods or services,
+- (b) it concerns matters which are currently the subject of legal proceedings or adjudication proceedings,
+- (c) it falls within the jurisdiction of an ombudsman, regulator or public authority (other than the Commissioner, a court or a tribunal),
+- (d) the complainant has a statutory right to refer the complaint for adjudication by a person other than a court or tribunal,
+- (e) the complaint relates to—
+  - (i) an act or omission which occurred before the appointed start date, or
+  - (ii) an act or omission in accordance with a term of a contract entered into before that date, where that term has not been varied on or after that date, or
+- (f) it is of a description specified by regulations made by the Secretary of State.
+
+(6)[^key-19e898e9ab891e0827b4e4a637bcb34d] For the purposes of paragraph (e) of subsection (5), “**the appointed start date**” means the date appointed by the Secretary of State by regulations.
+
+(7) Regulations under this section may—
+
+- (a) make transitory or transitional provision or savings;
+- (b) make different provision for different purposes.
+
+(8) Regulations under subsection (6) may appoint different dates for different areas.
+
+(9) Regulations under this section are to be made by statutory instrument.
+
+(10) A statutory instrument containing regulations under this section (other than regulations under subsection (6)) must not be made unless a draft of the instrument has been laid before and approved by a resolution of each House of Parliament.
+
+(11) In this section “**larger business**” has the meaning given by section 3(11).
+
+## Annotations
+
+[^c22567781]: Commencement: S. 4 in force at Royal Assent for specified purposes, see s. 44(1)
+
+[^key-f42408c533d80e16263a540b300f8ac0]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2016/12/section/4) in force at 1.10.2017 in so far as not already in force by [S.I. 2017/473](https://www.legislation.gov.uk/uksi/2017/473), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2017/473/regulation/3/a)
+
+[^key-19e898e9ab891e0827b4e4a637bcb34d]: Modification: S. 4(6): appointed day for the purposes of s. 4(5)(e) (6.4.2017) by [The Enterprise Act 2016 (Commencement No. 4 and Appointed Start Date) Regulations 2017 (S.I. 2017/473)](https://www.legislation.gov.uk/uksi/2017/473), [reg. 4](https://www.legislation.gov.uk/uksi/2017/473/regulation/4)

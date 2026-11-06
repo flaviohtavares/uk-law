@@ -1,0 +1,1334 @@
+---
+title: The Offshore Petroleum Production and Pipe-lines (Assessment of Environmental Effects) Regulations 1999
+id: uksi/1999/360
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '1999-02-17'
+text_date: '2025-02-27'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/1999/360
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1999/360/pdfs/uksi_19990360_en.pdf
+- http://www.legislation.gov.uk/uksi/1999/360/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Offshore Petroleum Production and Pipe-lines (Assessment of Environmental Effects) Regulations 1999
+
+> Text as at 2025-02-27.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+1999 No. 360
+
+PETROLEUM
+
+PIPE-LINES
+
+The Offshore Petroleum Production and Pipe-lines (Assessment of Environmental Effects) Regulations 1999
+
+Made
+
+17th February 1999
+
+Laid before Parliament
+
+18th February 1999
+
+Coming into force
+
+14th March 1999
+
+The Secretary of State, being a Minister designated[^c16493431] for the purposes of section 2(2) of the European Communities Act 1972[^c16493441] in relation to measures relating to the requirement for an assessment of the impact on the environment of projects likely to have significant effects on the environment, in exercise of the powers conferred on him by that section hereby makes the following Regulations:–[^key-63ad733cbb863725601e689e41fb05bb][^key-ba18a60dacce2b3a148a9e36566fb86a][^key-6f5ff82bab8717a4011fce2c2dc97827]
+
+## 1. Citation, commencement and application
+
+(1) These Regulations may be cited as the Offshore Petroleum Production and Pipe-lines (Assessment of Environmental Effects) Regulations 1999 and shall come into force on 14th March 1999.
+
+(2) Nothing in these Regulations shall apply to anything done pursuant to a consent or approval granted or relevant requirement imposed prior to 30th April 1998 or to the use of a floating installation where such use commenced prior to that date.
+
+## 2. Revocation and transitional and saving provisions
+
+(1) In this regulation “the 1998 Regulations" means the Offshore Petroleum Production and Pipe-lines (Assessment of Environmental Effects) Regulations 1998 [^c16493451].
+
+(2) Subject to paragraph (3) below, the 1998 Regulations are hereby revoked.
+
+(3) The 1998 Regulations shall continue to apply to any application for a consent received by the Secretary of State prior to the coming into force of these Regulations.
+
+(4) Any reference in these Regulations to a consent or approval granted or relevant requirement imposed pursuant to these Regulations shall include a reference to any consent or approval granted or relevant requirement imposed pursuant to the 1998 Regulations regardless of whether such grant or imposition took place before or after the coming into force of these Regulations.
+
+## 3. Interpretation
+
+(1) In these Regulations–
+
+- “the 1998 Act" means the Petroleum Act 1998 [^c16493461];
+- “the[^key-058464859b0b6771fc200f5aa6b9081b] 2008 Act” means the Energy Act 2008;
+- “application" means, except in regulations 16 and 17 (applications to court), an application in writing;
+- “appropriate particulars” means the name and address of the undertaker and a description of the relevant project which—[^key-df6f1057f2d7ae0e9cbcce5f4465199f]
+  - (a) includes—
+    - (i) the physical characteristics of the whole project, and where relevant, of demolition works;
+    - (ii) the location of the project with particular regard to the environmental sensitivity of the geographical areas likely to be affected by the project;
+    - (iii) the aspects of the environment likely to be significantly affected by the project;
+    - (iv) any likely significant effects, to the extent of the information available on such effects, of the project on the environment resulting from—
+      - (aa) the expected residues and emissions and the production of waste, where relevant; and
+      - (bb) the use of natural resources, in particular soil, land, water and biodiversity;
+  - (b) takes into account the matters set out in Schedule 1 (matters to be taken into account in deciding whether relevant project likely to have a significant effect on the environment) and, where relevant, the results of other assessments of the effects on the environment carried out pursuant to assimilated[^key-b12735ceaccbfc99d784d5374651ec54][^key-39f3560a17d36dd622c28e1676c51cce] law other than any law that implemented the Directive; and
+  - (c) may also include any features of the project or measures envisaged to avoid or prevent what might otherwise have been significant adverse effects on the environment;
+- “approval" means an approval of the kind referred to in regulation 11(1) below (approval of proposals for the carrying out of relevant project);
+- “authorisation" means a pipe-line works authorisation required by section 14 of the Petroleum Act 1998 (construction and use of pipe-lines);
+- “business day" means any day except a Saturday, a Sunday, Christmas Day, Good Friday or a bank holiday in any part of the United Kingdom by virtue of the Banking and Financial Dealings Act 1971 [^c16493471];
+- “combustible gas” means gas within the meaning of section 2(4) of the[^key-4861ec545b2833d5211fa572b717bf0b] 2008 Act;
+- “consent" means, except in regulation 4 below (requirements as to contents of licences; requirement as to consent for use of floating installations in connection with a development etc.),–
+  - (a) in relation to any relevant project comprising the drilling of an exploration well, any consent required by or under a licence to the commencement or re-commencement of the drilling of that well;
+  - (b) in relation to a relevant project comprising a development–
+    - (i) any consent required by or under a licence in respect of the erection of any structure;
+    - (ii) any consent required by or under a licence to the getting of more than 500 tonnes of oil per day or 500,000 cubic metres of gas per day otherwise than as a by-product of the drilling or the testing of any well;
+    - (iii) any consent required by virtue of regulation 4(4)(a) below (consent to use of floating installation);
+    - (iv) any consent required by or under a licence in respect of the commencement or re-commencement of the drilling of any well used for the purposes of, or in connection with, the development; [^key-34f38977a85a7d3ed6b4e6e6cc13dad2]...
+    - (v) any authorisation for the execution of works for the construction of a pipe-line for the conveyance of petroleum carbon dioxide or combustible gas[^key-8ae7220c026eb7248298b7df74d5cca3], being a pipe-line which is to form an integral part of the development; or[^key-6a93a583d505a91de2874a55429c8fda]
+    - (vi) any consent required by or under a licence to the carrying on of a storage or unloading activity;
+  - (c) in relation to any relevant project comprising a pipe-line for the conveyance of petroleum , carbon dioxide or combustible gas[^key-030f9b425d0b72cf4d567515be419249] other than a pipe-line which is to form an integral part of a development, any authorisation for the execution of works for the construction of that pipe-line; or
+  - (d) in relation to any relevant project comprising the use of a mobile installation for—[^key-4382784a7ff119b3bbf085a9b4024ea4]
+    - ((i)) the extraction of petroleum where the principle purpose of the extraction is the testing of any well; or
+    - ((ii)) the purpose of carrying out test injections of carbon dioxide or combustible gas,
+
+    any consent required under regulation 4(4)(b) or (c),
+
+  but does not in any case include any consent required pursuant to a licence in respect of anything done or to be done wholly outside the relevant area or any approval;
+- “development” means—[^key-cc1f09998d71dc5b80aa859522fac77c]
+  - (a) any project which has as its main object the getting of petroleum as opposed to the establishment of its existence, the appraisal of its quantity, characteristics or quality or the characteristics or extent of any reservoir in which it occurs; or
+  - (b) any project which has as its main object a storage or unloading activity;
+- “the Directive” means[^key-e5473fd82d9f6add1424c1c8c5e30269] [Directive 2011/92/EU](https://www.legislation.gov.uk/european/directive/2011/0092) of the European Parliament and of the Council on the assessment of the effects of certain public and private projects on the environment;
+- “[^key-d129aed607df332ab68b2be60aba23cf]EEA State” means a member State, Norway, Iceland or Liechtenstein;
+- “effect" includes, except where the context otherwise requires, any direct, indirect, secondary, cumulative, short, medium or long-term, permanent or temporary, or positive or negative effect;
+- “electronic communication” means a communication transmitted (whether from one person to another, from one device to another or from a person to a device or vice versa) while in an electronic form;[^key-ff53c8e9f19a7be978935d5a86437aea]
+- “environmental authority" means any person on whom environmental responsibilities are conferred by or under any enactment other than these Regulations;
+- “environmental impact assessment” shall be interpreted in accordance with regulation 3A;[^key-f82cd163219779892ee445bdbbaa6d74]
+- “environmental statement” has the meaning set out in regulation 3B (environmental statement);
+- “exploration well" means any well other than a well drilled for the purposes of, or in connection with, a development;
+- “floating installation" means any floating construction or device maintained on a station by whatever means but does not include a structure;
+- “gas", except in the definitions of “combustible gas” and “petroleum”[^key-340e67981faadcf2b7881d978fca2c3d], means natural gas existing in its natural condition in strata;
+- “the Gazettes" means the London, Edinburgh and Belfast Gazettes;
+- “licence” means—[^key-2a2144cb4e2bdf181763cfa7bcf7e9f1]
+  - (a) a licence granted or having effect as if granted under section 3 of the 1998 Act (licences to search and bore for and get petroleum); or
+  - (b) a licence granted under section 4 or section 18 of the 2008 Act;
+
+  and “licensee” shall be construed accordingly.;
+- “notice" means notice in writing;
+- “the OGA” means the Oil and Gas Authority;[^key-27bead1685bb6b80ff66b1ea44484555]
+- “oil", except in the definition of “petroleum" below, includes any mineral oil or relative hydrocarbon existing in its natural condition in strata, but does not include coal or bituminous shales or other stratified deposits from which oil can be extracted by destructive distillation;
+- “petroleum" includes any mineral oil or relative hydrocarbon and natural gas existing in its natural condition in strata, but does not include coal or bituminous shales or other stratified deposits from which oil can be extracted by destructive distillation;
+- “public website” means a website accessible to the public where the public can view and download information placed upon it;[^key-163c4b7eee6a9393c3068a05fc327602]
+- “the relevant area" means that area comprising–
+  - (a) tidal waters and parts of the sea adjacent to the United Kingdom from the low water mark up to the seaward limits of territorial waters;
+  - (b) waters in any area for the time being designated under section 1(7) of the Continental Shelf Act 1964 [^c16493481] (designation of areas of continental shelf); and
+  - (c) the seabed and subsoil under the waters referred to in paragraphs (a) and (b) above;
+- “relevant project" means a project comprising–
+  - (a) the drilling of an exploration well;
+  - (b) a development;
+  - (c) the construction of a pipe-line for the conveyance of petroleum , carbon dioxide or combustible gas[^key-66b50363b397d18c34ba72e986e778ac] other than one which is to form an integral part of any development, [^key-4b4d5f24bec30d27a04651b9db9e58b3]...
+  - (d) the use of a mobile installation for the extraction of petroleum where the principal purpose of the extraction is the testing of any well ; or[^key-3e301fbfd6a40e3345c8d55b8355d413]
+  - (e) the use of a mobile installation for the purposes of carrying out test injections of carbon dioxide or combustible gas,
+
+  wholly or partly within the relevant area;
+- “relevant requirement" means any requirement, imposed under a licence, of the kind referred to in regulation 11(4) below (powers of OGA[^key-129ba6fa897dac16fdbb6437f57589d1] to require carrying out of relevant project);
+- “storage or unloading activity” means any activity within—[^key-72b195f6f4bb507642a7dff9be406f5b]
+  - (a) section 2(3)(a) to (d) of the 2008 Act; or
+  - (b) section 17(2)(a) or (b) of the 2008 Act;
+- “structure” means any structure which is intended to be permanent and is not designed to be moved from place to place without major dismantling and is used for, or, as the case may be, to be used for the purpose of—[^key-d64a1dab27e7e5afbde8f99967e970b8]
+  - (a) getting petroleum or conveying petroleum to land (including any structure for the storage of petroleum) but is not to be used only for searching for petroleum; or
+  - (b) a storage or unloading activity, or for conveying carbon dioxide or combustible gas to or from land;
+- “transboundary area” means the area comprising the relevant area but excluding—[^key-5ce50234c92fde9d13dee793c2c566c3]
+  - (a) the tidal waters and parts of the sea adjacent to Scotland from the low water mark to the seaward limits of the territorial sea; and
+  - (b) the seabed and subsoil under the waters referred to in paragraph (a) above;
+- “undertaker" means any person who carries out, or may reasonably be taken to propose the carrying out of, a relevant project; and
+- “well” means any well or borehole drilled for the purposes of, or in connection with—[^key-fde360c9a901cd244f64a9c7d7375033]
+  - (a) the getting of petroleum, the exploration for petroleum or the establishment of the existence of, or appraisal of, the quantity, characteristics or quality of, petroleum in a particular location; or
+  - (b) activities within section 2(3) or section 17(2) of the 2008 Act,
+
+  but does not include any well drilled to a depth of 350 metres or less below the surface of the seabed for the purpose of obtaining geological information about strata or any drilling operation, the main purpose of which is the testing of the stability of the seabed.
+
+(2) References in these Regulations to a project being in a particular area include, unless the context otherwise requires, references to a project proposed to be carried out in that area, a project which is in the course of being carried out in that area and a project which has been carried out in that area.
+
+## 3A. Environmental impact assessment[^key-e88ea4ca99692cd28a46215453c9c1b9]
+
+(1) In these Regulations, “environmental impact assessment” means the process consisting of—
+
+- (a) the preparation and submission of an environmental statement as part of an application for consent referred to in regulation 5(1) or to the Secretary of State under regulation 11(1) or (4);
+- (b) the carrying out of consultation in compliance with regulation 9 or regulation 11 and, where relevant, regulation 12;
+- (c) the Secretary of State’s consideration of the information presented in the environmental statement, any further information provided in accordance with regulation 10 and any representations or opinions received as the result of the consultation referred to in sub-paragraph (b);
+- (d) the Secretary of State’s reasoned conclusion as required by regulation 5A(1) or regulation 11(8A); and
+- (e) the integration of that conclusion into the decision as to whether agreement to the grant of consent is to be given as required by regulation 5A(1)(c) or as to whether agreement is to be given in respect of the matters referred to in regulation 11(8A)(c).
+
+(2) In carrying out the steps described in paragraph (1)(a), the undertaker shall identify, describe and assess in an appropriate manner—
+
+- (a) the direct and indirect significant effects of the relevant project on the following factors—
+  - (i) population and human health;
+  - (ii) biodiversity, with particular attention to species and habitats protected under any law of any part of the United Kingdom that implemented[^key-95ed3b5e0319e0265a65a1dfdfca9965] Council [Directive 92/43/EEC](https://www.legislation.gov.uk/european/directive/1992/0043) on the conservation of natural habitats and of wild fauna and flora and [Directive 2009/147/EC](https://www.legislation.gov.uk/european/directive/2009/0147) of the European Parliament and of the Council on the conservation of wild birds;
+  - (iii) land, soil, water, air and climate;
+  - (iv) material assets, cultural heritage and the landscape; and
+  - (v) the interaction between the factors referred to in paragraphs (i) to (iv); and
+- (b) the operational effects of the relevant project (where the project will have operational effects) and the expected effects deriving from the vulnerability of the project to risks of major accidents or disasters that are relevant to the project concerned.
+
+## 3B. Environmental statement
+
+(1) In these Regulations, an “environmental statement” means a report prepared as part of the environmental impact assessment in respect of a relevant project which includes—
+
+- (a) a description of the project comprising information on the site, design, size and other relevant features of the project;
+- (b) a description of the likely significant effects of the project on the environment;
+- (c) a description of the features of the project or measures envisaged in order to avoid, prevent or reduce, and if possible, offset likely significant adverse effects on the environment;
+- (d) a description of the reasonable alternatives studied by the undertaker which are relevant to the project and its specific characteristics and an indication of the main reasons for the option chosen, taking into account the effects of the project on the environment;
+- (e) a non-technical summary of the information referred to in sub-paragraphs (a) to (d); and
+- (f) any additional information set out in Schedule 2 (information for the environmental statement) relevant to the specific characteristics of the relevant project or type of project and to the environmental features likely to be affected.
+
+(2) In preparing the environmental statement, the undertaker shall also take into account any available results of other relevant assessments under the law of any part of the United Kingdom[^key-0abfd9e5d0df1237b57135af2a61b3c7].
+
+(3) Where the Secretary of State has given an opinion under regulation 7 on the matters to be included in the environmental statement, the statement shall be based on that opinion and include the information that may be reasonably required for reaching a reasoned conclusion on the significant effects of the project on the environment, taking into account current knowledge and methods of assessment.
+
+(4) In order to ensure the completeness of the environmental statement, the undertaker shall ensure that—
+
+- (a) the statement is prepared by competent experts; and
+- (b) the statement is accompanied by a statement from the undertaker outlining the relevant expertise or qualifications of such experts.
+
+## 4. Requirements as to contents of licences; requirement as to consent for use of floating installations in connection with a development or use of mobile installation for the testing of a well
+
+(1) The OGA[^key-405344ec6a113e1774e6642d5d94bd6f] shall not grant any licence which does not require the licensee to obtain the prior consent of the OGA to the operations to which paragraph (2) below applies.
+
+(2) This paragraph applies to any of the following operations wholly or partly in the relevant area–
+
+- (a) the commencement or re-commencement of the drilling of any well;
+- (b) the extraction of petroleum (otherwise than as a by-product of the drilling or the testing of any well) where the amount extracted exceeds 500 tonnes per day in the case of oil and 500,000 cubic metres per day in the case of gas; [^key-487d008e4c2f1499a3bde628ee402b6c]...
+- (c) the erection of any structure in connection with a development ; or[^key-8c471de609fb812e2cd4015f66b9fdaf]
+- (d) the carrying on of a storage or unloading activity.
+
+(3) The OGA[^key-8c739227c69fe731efb1f5b4117ac749] shall not exercise any power conferred on it[^key-a62b8d6548c4b4cd98cbe3bc45837ffd] to vary the terms of a licence so as to relieve the licensee of any requirement to obtain the consent of the OGA to any of the operations to which paragraph (2) above applies.
+
+(4) Notwithstanding any provision in any licence, an undertaker shall not without the prior written consent of the OGA[^key-c0247d4cbccddc0da0a36e04de6bb0e5] granted in accordance with these Regulations–
+
+- (a) use a floating installation in connection with a relevant project comprising a development; [^key-e407c99a4f1439a5c7f836311da1927a]...
+- (b) use any mobile installation for the extraction of petroleum where the principal purpose of the extraction is the testing of any well ; or[^key-ea88b5b033a6245a4e4610be8a6c7843]
+- (c) use any mobile installation for the purpose of carrying out test injections of carbon dioxide or combustible gas.
+
+## 5. Agreement of Secretary of State in respect of relevant projects[^key-c6953c7198a4edcd3fccdaf87334ed5f]
+
+(A1)[^key-91401357609df5124e1c8a6e76224a74] The OGA shall not grant a consent in respect of a relevant project without the agreement of the Secretary of State.
+
+(1)[^key-d4feb9ad07fcb1fcb6b4de72a7d7db39] The Secretary of State shall not agree to the grant of[^key-34b67e6e3828c438516228d926d74591] a consent in respect of a relevant project unless the application for that consent is—
+
+- (a) one to which paragraph (2) or (2A) below applies;
+- (b) accompanied by an environmental statement in respect of that project; or
+- (c) the subject of a direction given under regulation 6 below (provision as to directions that no environmental statement need be prepared).
+
+(1A)[^key-8d8d395853d8b0a33159f3e4e3e3ca76] Where in relation to a relevant project there is, in addition to a requirement for an environmental statement to be prepared in accordance with these Regulations, also a requirement to carry out a Habitats Regulations Assessment, the Secretary of State shall where appropriate ensure that the preparation of that assessment and the environmental statement are coordinated.
+
+(2)[^key-f8e8a3c1ab0fab7efceda0071736a851] This paragraph applies to any application for consent to the construction of a pipe-line or the augmentation of an existing pipe-line where—
+
+- (a) no part of the pipe-line to be constructed or augmented would extend more than 500 metres from a well or any part of a fixed installation to which that pipe-line would be directly or indirectly attached; and
+- (b) the Secretary of State has decided that having regard to the matters set out in Schedule 1 to these Regulations the operation in respect of which consent is sought would not be likely to have a significant effect on the environment and that accordingly no environmental statement need be prepared in respect of the relevant project in question.
+
+(2A)[^key-1bf780bd80636d36822cb067607a0c6c] This paragraph applies to any application for a renewal of a consent to—
+
+- (a) the getting of petroleum in relation to a relevant project (other than as a by-product of the drilling or testing of a well); or
+- (b) the carrying on of a storage or unloading activity,
+
+where the Secretary of State has decided that, having regard to the matters set out in Schedule 1, the operation in respect of which the renewal is sought would not be likely to have a significant effect on the environment and that accordingly no environmental statement need be prepared in respect of that project.
+
+(2B) For the purposes of paragraph (2A), a consent is renewed where the term of the consent is increased, but without any other variation in the conditions attached to the consent.
+
+(3) Where the Secretary of State receives an application for a consent in respect of a relevant project to which paragraph (2) or (2A) above applies[^key-a5584b56b661542a20bd6ea8e157c49b], the undertaker in question shall provide the Secretary of State with such information as he may require regarding that application.
+
+(4)[^key-c6e8d348f584f38b8fcebd7175429455] Where an application for consent in respect of a relevant project is accompanied by an environmental statement, the Secretary of State shall not make the decision referred to in regulation 5A(1)(c) in respect of that project unless the Secretary of State is satisfied that the requirements of regulations 9 and 10 have been substantially met, and that, where necessary, advice has been obtained from persons with appropriate expert knowledge who have examined the statement.
+
+(5) Where pursuant to regulation 12(2) below (request by EEA[^key-d452e978014a140d70e37860af241de9] state to participate in procedure under the Regulations in relation to relevant project affecting it) a EEA state has requested to participate in the procedure pursuant to these Regulations in relation to the decision whether to agree to the grant of[^key-cd69ee147cdefa276ac1a43637f2d2c0] consent in respect of a relevant project, the Secretary of State shall not make the decision referred to in regulation 5A(1)(c)[^key-83b791ace6587ddde737567e1a33a54e] in respect of that project unless–
+
+- (a) he is satisfied that the requirements of regulation 12(1) and (2) below (projects affecting other States) have been complied with;
+- (b) he has communicated to that EEA state the response that he proposes to make to the application for consent (including information as to any measures envisaged to reduce or eliminate any trans-boundary effects of the project);
+- (c) he is satisfied that–
+  - (i) the EEA state has been consulted regarding the application for consent and arrangements for consulting persons in that EEA state (including any authorities likely to be interested in the relevant project in question by virtue of their particular environmental responsibilities or local or regional competence[^key-111d9a16f3a9e58a7e16a58a80ea1898]);
+  - (ii) a reasonable time has been allowed for the consultation of the persons referred to in sub-sub-paragraph (i) above and for any representations made by them regarding the relevant project to be forwarded to the Secretary of State; and
+  - (iii) any timetable agreed with that EEA state regarding consultation with the persons referred to in sub-sub-paragraph (i) above has been observed; and
+- (d) he has taken into consideration any representations made by the EEA state, members of the public and authorities in that EEA state and any information regarding the relevant project supplied by any of them and, in respect of those members of the public, the Secretary of State is satisfied that they have had at least 30 days to consider the environmental statement.[^key-4835f3bcaec363a436093f29d01e6309]
+
+(6)[^key-0a101468febd314475cfc1b28ac6f6fd] Where the Secretary of State has made a direction under regulation 6(2) (provision as to directions that no further environmental statements need be prepared where one already prepared) the Secretary of State shall not make the decision referred to in regulation 5A(1)(c) in respect of that project unless the Secretary of State is satisfied that the requirements of regulations 9 and 10 have been substantially met, and that, where necessary, advice has been obtained from persons with appropriate expert knowledge who have examined the statement.
+
+(7) Where the Secretary of State agrees to the grant of consent[^key-454e2e8841ed68f2de96d3ffc652b81c] to a relevant project, he may (to the extent that he has no power to do so apart from this paragraph (7)) attach conditions to that agreement[^key-00dcb9fd010aafe2e01fd8d25ed2fd61] for the purpose of reducing or eliminating any significant adverse effects of that project on the environment.
+
+(8)[^key-b993e452e6758746fb02cf75d0e352e5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(8A)[^key-b993e452e6758746fb02cf75d0e352e5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(9)[^key-b993e452e6758746fb02cf75d0e352e5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(10)[^key-9529583217f9eb993727ad4939ed5877] Where the Secretary of State decides that no environmental statement is required to be prepared in respect of a relevant project which is the subject of an application for a consent to which paragraph (2) or (2A) above applies, he shall publish notice of that decision—
+
+- (a) in the Gazettes; and
+- (b) on a public website.[^key-950ec633dd3a24d170f9a75e7a199465]
+
+(10A)[^key-e64e75817f7eee8ca08ed7949564c979] In this regulation, a “Habitats Regulations Assessment” means an assessment under either regulation 5 of the Offshore Petroleum Activities (Conservation of Habitats) Regulations 2001, or regulation 25 of the Offshore Marine Conservation (Natural Habitats, &c.) Regulations 2007.
+
+(11)[^key-3754d401962436f30f874ffd72cfc519] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 5A. Decision as to whether agreement is to be given[^key-c72633335876c4f0959fba32bed13709]
+
+(1) When making a decision as to whether to agree to the grant of a consent in respect of a relevant project for which an environmental statement has been submitted, the Secretary of State shall—
+
+- (a) examine the environmental statement, including any information provided under regulation 10, any representations made by any person required by these Regulations to be invited to make representations, and any representations duly made by any other person about the environmental effects of the project;
+- (b) reach a reasoned conclusion on the significant effects of the relevant project on the environment, taking into account the examination referred to in sub-paragraph (a); and
+- (c) integrate that conclusion into the decision as to whether agreement to the grant of consent is to be given.
+
+(2) If agreement to the grant of consent is to be given under paragraph (1)(c), the decision shall set out—
+
+- (a) any environmental conditions attached to the decision;
+- (b) a description of any features of the relevant project or measures envisaged to avoid, prevent or reduce, and if possible, offset any significant adverse effects on the environment; and
+- (c) any measures to monitor conditions imposed to avoid, prevent or reduce, and if possible, offset any significant adverse effects on the environment (“a monitoring condition”).
+
+(3) If agreement is to be refused, the decision shall state the main reasons for the refusal.
+
+(4) The reasoned conclusion referred to in paragraph (1)(b) shall be up to date at the time that the decision referred to in paragraph (1)(c) is made, but that conclusion shall be taken to be up to date if, in the opinion of the Secretary of State, it continues to address the significant effects that are likely to arise as a result of the relevant project.
+
+(5) When considering whether to impose a monitoring condition referred to in paragraph (2)(c), the Secretary of State shall—
+
+- (a) consider whether to make provision for potential remedial action;
+- (b) consider whether there are appropriate existing monitoring arrangements under the law of any part of the United Kingdom other than any law that implemented the Directive[^key-000a18902d99ac556a0a33eb1bef9c52], to make the imposition of a monitoring condition unnecessary; and
+- (c) take steps to ensure that the type of parameters to be monitored and the duration of the monitoring are proportionate to the nature, location and size of the relevant project and the significance of its effects on the environment.
+
+(6) The decision of the Secretary of State referred to in paragraph (1)(c) shall be made within a reasonable period of time, taking into account the nature and complexity of the relevant project, from the date on which the Secretary of State has been provided with the information and representations referred to in paragraph (1)(a).
+
+(7) The Secretary of State shall promptly publish a notice of the decision referred to in paragraph (1)(c) in the Gazettes and on a public website and shall send a copy of the notice to those authorities specified in the notice given to the undertaker in accordance with regulation 9(1).
+
+(8) A notice published under paragraph (7) shall—
+
+- (a) set out—
+  - (i) the contents of the decision;
+  - (ii) the main reasons and considerations on which the decision is based; and
+  - (iii) a summary of all representations made to the Secretary of State by any person in respect of the project including where regulation 12 (projects affecting other states) applies, any representations made by an EEA State affected by the relevant project, the public concerned or authorities in that state, together with details of how those representations were taken into account; and
+- (b) specify where details of these matters may be obtained, including the address of the public website on which a copy of the notice is published.
+
+## 6. Provisions as to directions that no environmental statement need be prepared
+
+(1) Where–
+
+- (a) an undertaker makes an application containing the appropriate particulars to the Secretary of State for him to exercise the power conferred by this paragraph (1); and
+- (b) the Secretary of State is satisfied that either–
+  - (i) the carrying out of the relevant project described in that application; or
+  - (ii) the carrying out of the relevant project as modified or carried out in a particular way or carried out at a particular time,
+
+  is not likely to have a significant effect on the environment, he may, subject to paragraphs[^key-a8aae9ddd616df4179728d060a65f8bf] (1D),[^key-23c30de1cc87f96579fa255c25266a69] (5) and (5A) below, give a direction that any application for consent in respect of that relevant project or that relevant project as modified, or to be carried out in the manner or at the time specified in the direction, need not be accompanied by an environmental statement.
+
+(1A)[^key-87005213c08e302c344a5077423f2935] When making a direction under paragraph (1), the Secretary of State shall, where proposed by the undertaker, include in the direction any features of the relevant project or measures envisaged to avoid or prevent what might otherwise have been significant adverse effects of the project on the environment.
+
+(1B) If the Secretary of State considers that a relevant project is highly likely to have a significant effect on the environment given the environmental sensitivity of the location of the project, the Secretary of State may direct that an environmental statement is required before the Secretary of State can make a decision whether to agree to the grant of a consent in respect of that project.
+
+(1C) When giving a direction under paragraph (1B), the Secretary of State shall publish a notice of the direction in the Gazettes and by any other means the Secretary of State considers appropriate, which shall include making the notice available on a public website.
+
+(1D)  Where a direction made under paragraph (1B) is in force in respect of a relevant project, the Secretary of State shall not make a direction under paragraph (1) in respect of that project (whether or not that project has been modified or is to be carried out in any particular manner or time).
+
+(2)[^key-1e130a0063efbc5b89f6732ddcbcaa7f] Where a relevant project has been the subject of an environmental assessment in accordance with regulation 5(4) above (agreement of[^key-eb49f0ce321abbe15c7e1db12ce8c82f] Secretary of State in respect of relevant projects subject to environmental assessment), the Secretary of State may, on the application of the undertaker concerned, give a direction that further applications for consents of such kind as may be specified in that direction need not be accompanied by an environmental statement provided that—
+
+- (a) the Secretary of State is satisfied that if such consents were granted anything that might be done pursuant to them would not give rise to substantially different effects from, or significantly greater effects than, those mentioned in the environmental statement originally prepared in respect of the relevant project; and
+- (b) any such consents, if granted, would not otherwise fall within any of sub-paragraphs (a) to (f)[^key-9b5f55913431abda5a840bee604b4113] of paragraph (5) below.
+
+(3) In deciding whether or not to give a direction under paragraph (1) , (1B)[^key-01588f27295ca06aacfc7add43ec0e8f] or (2) above, the Secretary of State shall take into consideration, where relevant, the matters set out in Schedule 1 to these Regulations and the results of any preliminary verifications or assessments on the environment of the geographical areas likely to be affected by the relevant project carried out pursuant to[^key-be47e39b0c303edfaf30a9b6252b70c8] assimilated[^key-b40ce05c08784d34e53a76c3f9f8d463][^key-8f42b9a849316e347259c8b85a903648] law other than any law that implemented the Directive.
+
+(4)[^key-b440cb835140c5ab53a5d6cf4995353d] An undertaker shall—
+
+- (a) provide to the Secretary of State such further information in relation to any application made by the undertaker under paragraph (1)(a) or (2) as the Secretary of State may require; and
+- (b) where the circumstances described in paragraph (1B) apply, provide to the Secretary of State any information in respect of the relevant project, as the Secretary of State may require.
+
+(5) Subject to paragraph (6) below, no direction shall be given pursuant to paragraph (1) above in respect of any application for consent–
+
+- (a) to the getting of more than 500 tonnes of oil per day or 500,000 cubic metres of gas per day otherwise than in the course of the drilling or testing of any well;
+- (b) to the erection of any structure in relation to a relevant project comprising a development which the Secretary of State is not satisfied would be likely to produce 500 tonnes or less of oil per day or 500,000 cubic metres or less of gas per day;
+- (c) for the execution of works for the construction of a pipe-line of 40 kilometres or more in length and a diameter of 800 millimetres or more (regardless of whether that pipe-line forms an integral part of a development); [^key-9e75c55f9594cf54873a4b0c63d59084]...
+- (d) in respect of which an[^key-78c461302eac23244fbff3df73d208af] EEA State has requested to participate in the procedure pursuant to regulation 12 below (projects affecting other States);
+- (e)[^key-99b1e01ad1ffd308a8aed02a01ab1566] to the carrying on of a storage or unloading activity; or
+- (f) to the erection of a structure in relation to a project which has as its main object a storage or unloading activity.
+
+(5A)[^key-bf0071ca6a5b899e4d676d386d3a013e] No direction shall be given pursuant to paragraph (1) above in respect of any application for an extension of a consent.
+
+(5B) For the purposes of paragraph (5A) above, an “extension of a consent” is a variation of an existing consent for a relevant project, where, if the effect of the variation were itself the subject of a separate application, the application would be for consent to—
+
+- (a) the getting of more than 500 tonnes of oil per day, or 500,000 cubic metres of gas per day otherwise than in the course of the drilling or testing of any well;
+- (b) the erection of any structure in relation to a relevant project comprising a development which the Secretary of State is not satisfied would be likely to produce 500 tonnes or less of oil per day or 500,000 cubic metres or less of gas per day; or
+- (c) the execution of works for the construction of a pipe-line of 40 kilometres or more in length and a diameter of 800 millimetres or more (regardless of whether that pipe-line forms an integral part of a development).
+
+(6)[^key-cbe39b8648c37ca2ac24d0628bedd14b] Paragraph (5) above shall not prevent the giving of a direction pursuant to paragraph (1) above in respect of an application for a variation of any consent to the erection of any structure in relation to a development (whether the structure has already been erected pursuant to that consent or not).
+
+(7) Any direction given pursuant to this regulation shall remain in force for 2 years (or such shorter period as may be specified in the direction) from the date on which it was given.
+
+(8) The Secretary of State shall give notice to the undertaker concerned of his decision in relation to any application made under this regulation.
+
+(9)[^key-41590075d85927d4eebc3891dedcecc0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(10) The Secretary of State may revoke any direction given under this regulation.
+
+(10A)[^key-97a73e33ed296ce8bbfe911a0058766a] The Secretary of State shall make a decision in relation to an application referred to in paragraph (1) or (2) as soon as possible and in any event within 90 days of receiving the application containing the appropriate particulars, unless paragraph (10B) applies.
+
+(10B) Where an application referred to in paragraph (1) is for a relevant project that is, in the Secretary of State’s opinion, an exceptional case, for example in relation to its nature, complexity, location or size, the Secretary of State may extend the time limit referred to in paragraph (10A) by notifying the undertaker in writing as to when the decision is expected to be made and the reasons why the Secretary of State considers the extra time is needed.
+
+(11)[^key-8ea5dbc6d2c14fdbc89aae8e4e399b46] Where the Secretary of State makes a decision in relation to any application referred to in paragraph (1) or (2), the Secretary of State shall promptly publish a notice of the decision in the Gazettes and on a public website.
+
+(12) A notice published under paragraph (11) shall set out—
+
+- (a) the contents of the decision;
+- (b) the main reasons and considerations on which the decision is based, making references to the relevant matters set out in Schedule 1; and
+- (c) where the decision is that an environmental statement is not required, and where proposed by the undertaker, state any features of the project or measures envisaged to avoid or prevent what might otherwise have been significant adverse effects on the environment.
+
+## 7. Opinion by Secretary of State as to content of environmental statements
+
+(1) Subject to paragraphs (2) and (3) below, the Secretary of State shall on the application of an undertaker containing the appropriate particulars give an opinion on the scope and level of detail to be included by the undertaker[^key-cf1198435a482773620b92efd8d0c4e0] in an environmental statement in respect of the relevant project referred to in that application.
+
+(2) The Secretary of State shall not give his opinion pursuant to paragraph (1) above unless–
+
+- (a) he has served a notice setting out the opinion that he is minded to give on–
+  - (i) the undertaker; and
+  - (ii)[^key-2912353d99bd40785493f434b4142b4c] any environmental authority or other authority which the Secretary of State considers would be likely to be interested in the relevant project by reason of either its particular environmental responsibilities or its local or regional competence;
+- (b) the Secretary of State is satisfied that a reasonable opportunity for making representations regarding the opinion he is minded to give has been afforded to the persons referred to in paragraph (2)(a) above; and
+- (c) he has considered any representations made regarding the proposed opinion.
+
+(2A)[^key-caab1f0cf4f151d91347ab2b4d9c6938] When giving an opinion pursuant to paragraph (1), the Secretary of State shall take into account information contained in the appropriate particulars, particularly in respect of the specific characteristics of the project, including its location and technical capacity and its likely impact on the environment.
+
+(3) An opinion given pursuant to paragraph (1) above shall be without prejudice to the power of the Secretary of State to request further information under regulation 10 below (provision to Secretary of State of further information and evidence respecting environmental statements) or regulation 11(5) below (further information in respect of environmental statements in relation to exercise of powers under licences by OGA[^key-65fc2f2be1201fe20b92e9fac2fbeb13]).
+
+## 8. Obtaining of information for the preparation of environmental statements
+
+(1) This regulation applies where an undertaker makes an application to the Secretary of State containing appropriate particulars in respect of a relevant project for the provision to the undertaker of any information which–
+
+- (a) would assist the undertaker in the preparation of the environmental statement in respect of the relevant project referred to in the appropriate particulars; and
+- (b) but for the provisions of paragraphs (2) and (3) below, could not readily be obtained by the undertaker.
+
+(2) On receipt of such an application as is mentioned in paragraph (1) above, the Secretary of State shall–
+
+- (a) subject to paragraph (4) below, provide to the undertaker such information as he may have of the kind mentioned in paragraph (1) above;
+- (b) provide to the undertaker the name and address of any environmental authority or other authority with local or regional competence[^key-8609b63cc3dc0f4128d15c17ae6b3d50] that he considers may have any such information; and
+- (c) at the same time as he provides the name and address of an authority referred to in sub-paragraph (b)[^key-eeb5e749e598947c8f0a64f9f26d7b8c] to an undertaker, serve on that authority a notice which–
+  - (i) states that he has provided the authority’s name and address to the undertaker;
+  - (ii) refers to the duty imposed on the authority by paragraph (3) below; and
+  - (iii) is accompanied by a copy of the application made by the undertaker under this regulation.
+
+(3) Where a notice pursuant to paragraph (2)(c) above is served on an [^key-f66acddde955b6123bd74dbe3fbe7d7a]... authority by the Secretary of State, the authority shall, subject to paragraph (4) below, provide to the undertaker concerned, within the period specified in the notice, any information held by it which it considers is of the kind mentioned in paragraph (1) above.
+
+(4) Nothing in this regulation shall require the disclosure of any information which is by virtue of any rule of the law of any part of the United Kingdom subject to any obligation of confidentiality.
+
+## 9. Procedure on receipt of application for consent in respect of which environmental statement prepared; publicity requirements; provision of environmental statements to public
+
+(1)[^key-d3e21444943ee95a74c974f9e69316c0] Where the Secretary of State is informed of an application for a consent in respect of a relevant project which is accompanied by an environmental statement, the Secretary of State shall promptly serve on the undertaker concerned a notice specifying those environmental authorities or other authorities which the Secretary of State considers would be likely to be interested in the relevant project by reason of either their particular environmental responsibilities or local or regional competence.
+
+(2) The undertaker referred to in paragraph (1) above shall forthwith[^key-868f8f902bff336cc669adc0bfd9e802]–
+
+- (a) serve on each authority[^key-bbb59bb817b7834df340095774bbda24] notified to him under paragraph (1) above–
+  - (i) a copy of the Secretary of State’s notice under paragraph (1) above;
+  - (ii) a copy of the application for consent and the environmental statement that accompanied it; and
+  - (iii) a notice stating that representations may be made to the Secretary of State by a date specified in the notice which shall be at least 30 days[^key-82a63650a7dd0d091537e2de1ba9e415] after the date on which the application, environmental statement and notice were served on the authority;
+- (b) give notice to the Secretary of State of the name of every authority whom he has served under sub-paragraph (a) above, and of the date of such service;
+- (c) having regard to the general whereabouts of any persons likely to be interested in, or affected by, the relevant project, make available for public inspection at an address within the United Kingdom between the hours of 10 a.m. and 4 p.m. on business days for a period of not less than 30 days immediately following the publication (or last publication, where it is published in more than one newspaper or on more than one occasion) of the notice referred to in sub-paragraph (f) below–
+  - (i) a copy of the application for consent; and
+  - (ii) a copy of the environmental statement that accompanied it;
+- (d) make available at an address within the United Kingdom enough copies of the environmental statement to be likely to satisfy all reasonable demands for copies pursuant to sub-paragraph (e) below;
+- (e) subject to sub-paragraph (d) above and the receipt by the undertaker of any sum mentioned in the notice referred to in sub-paragraph (f) below, supply during the period mentioned in sub-paragraph (c) above to any person on request, a copy of the environmental statement; and
+- (f)[^key-777ef8cffd207f73f7fc92e6fe737400] publish a notice which—
+  - (i) describes the application and states that it is accompanied by an environmental statement;
+  - (ii) states that the project is subject to an environmental impact assessment procedure and, where relevant, the fact that regulation 12 applies;
+  - (iii) gives the address referred to in sub-paragraph (c) above at which a copy of the application for consent and environmental statement may be inspected;
+  - (iv) states the nature of possible decisions in response to the application;
+  - (v) sets out the arrangements made for consulting the public pursuant to this regulation;
+  - (vi) states that a copy of the environmental statement may be obtained from the address referred to in sub-paragraph (d) above and, subject to paragraph (4) below, specifies the amount of any payment required to be tendered for the statement;
+  - (vii) states a date not less than 30 days after the date on which the notice is last published pursuant to paragraph (2A) below by which any person may make representations in relation to the application in question to the Secretary of State, and specifies the address to which any such representations are to be sent; and
+  - (viii) provides an explanation of the right of a person aggrieved by a decision of the Secretary of State to make an application pursuant to regulation 16 below.
+
+(2A)[^key-bf632e615b1d3bd62db533af459c3561] The undertaker shall publish the notice referred to in paragraph (2)(f) above—
+
+- (a) on such occasions as to be likely to come to the attention of those likely to be interested in, or affected by, the relevant project; and
+- (b)[^key-fce964c779b2fb8e085b039577e67037] in such newspapers as the Secretary of State may direct and on a public website and the undertaker shall publish a copy of the application for consent and the environmental statement on that website alongside the notice.
+
+(3) The undertaker shall provide to the Secretary of State copies of the newspapers in which the notice referred to in paragraph (2)(f) above appeared and also the address of the public website referred to in paragraph (2A)(b).[^key-eaee488e958022dea37f9e1833c125ce]
+
+(4) An undertaker may make the supply of a copy of an environmental statement to any person other than an authority notified to the undertaker under paragraph (1)[^key-5c5357749616bc2963f50179f414593a] conditional on the receipt by the undertaker of a sum calculated by reference to the cost of printing and distributing copies of the statement, subject to a maximum of £2.00 for each copy requested.
+
+(5) Where an undertaker is subject to an obligation to supply a copy of an environmental statement pursuant to a request made under paragraph (2)(e) above, he shall supply a copy of the environmental statement to the person requesting it as soon as reasonably practicable after receipt of the request.
+
+## 10. Provision to Secretary of State of further information and evidence respecting environmental statements
+
+(1) The Secretary of State may by notice require an undertaker to provide in respect of an environmental statement provided to him pursuant to these Regulations such further information as the Secretary of State may require, including evidence in support of any information in that statement.
+
+(2) Where the Secretary of State is of the opinion that information provided pursuant to a requirement imposed under paragraph (1) above ought to have been included in the environmental statement in question because that information relates to the[^key-86dfea658002a7c9fac057d67d40c397] significant[^key-6003ba09f70c7f33ab303a61f4cd1270] effects the project is likely to have on the environment, or where other information becomes available to the Secretary of State after the date on which the application was made which in the Secretary of State’s opinion is of material relevance to his decision as to whether to grant consent, he shall in writing direct the undertaker to–
+
+- (a) serve that information on any authority[^key-8c3a189930db4a93c3e6a2b46ec74458] on which the environmental statement was required to be served pursuant to regulation 9(2)(a)(ii) above together with a notice referring to the material previously served on that authority and stating that further representations may be made to the Secretary of State by a date specified in that notice which shall be at least 30 days[^key-28b003751db0db5bac94b3dbf6acd909] after the date on which the information and notice were served on that authority;
+- (b) notify the Secretary of State of the name of every authority served with the information and notice referred to in sub-paragraph (a) above and the date of such service;
+- (c) make available to the public the application for consent, the environmental statement and the information referred to in sub-paragraph (a) above in the same way as the application and environmental statement were previously made available for the period of 30 days immediately following the publication (or last publication) of the notice referred to in sub-paragraph (d) below; [^key-f50f9c49472116387b10a4ebd5df2c45]...
+- (d) publish in such newspapers on such occasions as to be likely to come to the attention of those likely to be interested in, or affected by, the relevant project, a notice which–
+  - (i) refers to the previous notice in respect of the application and environmental statement and states that further information is available in respect of the relevant project;
+  - (ii) gives the address at which a copy of the application for consent and environmental statement and further information may be inspected;
+  - (iii) states where a copy of the environmental statement and the additional information may be obtained and, subject to regulation 9(4) above (maximum payment for copy of environmental statement), specifies the amount of any payment required to be tendered for the copy; and
+  - (iv) states a date not less than 30 days after the date on which the notice is to be published (or last published) by which any person may make representations in relation to the application in question to the Secretary of State and specifies the address to which any such representations are to be sent ; and[^key-2c84664a4a2aff5098559deeb001f146]
+- (e) publish on a public website the notice referred to in sub-paragraph (d) alongside copies of the information referred to in sub-paragraph (a).
+
+(3) The undertaker shall provide to the Secretary of State copies of the newspapers in which , and also the address of the public website on which,[^key-f684e58a7d05c26300434ee0c06f7bbe] the notice referred to in paragraph (2)(d) above appeared.
+
+## 10A. Coronavirus exemption from public inspection requirements[^key-1d5ec49ecbfea6decef534c950632905]
+
+(1) Regulations 9(2)(c) and 9(2)(f)(iii) do not apply where the effects of coronavirus, including any restrictions on movement, mean that it is not reasonably practicable for the public to inspect copies of documents at a specified address within the United Kingdom.
+
+(2) Regulation 10(2)(d)(ii) does not apply where the effects of coronavirus, including any restrictions on movement, mean that it is not reasonably practicable for the public to inspect copies of documents at a specified address within the United Kingdom.
+
+(3) Where paragraph (1) applies—
+
+- (a) regulations 9(2)(d), 9(2)(e), 9(2)(f)(vi) and 9(5) do not require the undertaker to make copies of documents available for collection in person;
+- (b) the undertaker must make available by post a copy of the application for consent in the same way as for the environmental statement, as set out in regulations 9(2)(d), 9(2)(e) and 9(5), but the undertaker may not charge for the supply of a copy of the application for consent;
+- (c) the undertaker must include in the notice referred to in regulation 9(2)(f) a statement on how a copy of the application for consent may be obtained by post, in the same way as for the environmental statement, as set out in regulation 9(2)(f)(vi).
+
+(4) Where paragraph (2) applies—
+
+- (a) regulation 10(2)(c) does not require the undertaker to make copies of documents available for public inspection at an address within the United Kingdom;
+- (b) regulations 10(2)(c) and 10(2)(d)(iii) do not require the undertaker to make copies of documents available for collection in person;
+- (c) the undertaker must make available by post a copy of the application for consent in the same way as for the environmental statement, as set out in regulation 10(2)(c), but the undertaker may not charge for the supply of a copy of the application for consent;
+- (d) the undertaker must include in the notice referred to in regulation 10(2)(d) a statement on how a copy of the application for consent may be obtained by post, in the same way as for the environmental statement, as set out in regulation 10(2)(d)(iii).
+
+(5) For the purpose of this regulation, “**coronavirus**” means severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2).
+
+## 11. Exercise by OGA of powers under licences[^key-4985bd6362eeaa7ee3ac99bd0cf3f229]
+
+(1)[^key-a49236a394e09fd251454e117388f11c] Where the OGA exercises any powers under a licence so as to require a licensee to submit to it for its approval any proposals for the carrying out of a relevant project comprising a development then, subject to paragraph (2) below, the licensee shall submit an environmental statement to the Secretary of State.
+
+(2) An environmental statement need not be submitted under paragraph (1) above where—[^key-d6b358773462bf62bf7985d824493b4f]
+
+- (a)[^key-997c6b17e39e8a937d60d19fd70c4efe] the licensee has submitted the appropriate particulars to the Secretary of State in respect of the development referred to in the proposals the licensee has submitted to the OGA; and
+- (b) the Secretary of State, being satisfied that–
+  - (i) the proposals either relate to a development which will produce 500 tonnes or less of oil per day or 500,000 cubic metres or less of gas per day or do not involve the construction of a pipe-line of 40 kilometres or more in length and a diameter of 800 millimetres or more;
+  - (ii) having regard to the matters set out in Schedule 1 to these Regulations, the carrying out of the proposals is not likely to have a significant effect on the environment; and
+  - (iii) no EEA[^key-e8e577f0fb79f8dde8a54e13c139101a] State has requested under regulation 12 below (projects affecting other States) to participate in the decision relating to the granting of the approval,
+
+  has given a direction in writing within the two years immediately preceding the submission of the proposals that they need not be accompanied by an environmental statement.
+
+(3) The Secretary of State may revoke a direction given under paragraph (2) above.
+
+(4) Where the OGA[^key-302021e029939de3c3d9fd5176b8383a] proposes to exercise powers under a licence to impose a requirement on a licensee to carry out a relevant project comprising a development–
+
+- (a) which in the Secretary of State’s[^key-73804beb22e991dcbda6fdebd570ba0a] opinion is likely to produce in excess of 500 tonnes of oil per day or in excess of 500,000 cubic metres of gas per day or involves the construction of a pipe-line of 40 kilometres or more in length and a diameter of 800 millimetres or more; or
+- (b) other than one falling within sub-paragraph (a) above which, having regard to the matters set out in Schedule 1 to these Regulations, the Secretary of State[^key-d898f0954c3566db63967dfa68f32a6b] is not satisfied is not likely to have a significant effect on the environment,
+
+the Secretary of State[^key-68a5a2d3da6f280f6fc37ccb9cc13b3c] shall serve a notice on the licensee setting out details of the relevant project which the OGA[^key-d576d59ec636fe79f10c80c7cfc4414b] proposes that the licensee should be required to carry out and requiring the licensee to provide the Secretary of State[^key-da2555dc44c10912e8f17598bd4f7f52] with an environmental statement in respect of that project within such time as may be specified in the notice.
+
+(5) Where–
+
+- (a)[^key-73a5159a78c2769112b3bd54cc75cf52] an environmental statement is submitted to the Secretary of State in compliance with paragraph (1) above; or
+- (b) an environmental statement is provided to the Secretary of State in compliance with a requirement imposed by virtue of paragraph (4) above,
+
+regulations 9 (procedure on receipt of application for consent accompanied by environmental statement; publicity requirements; provision of environmental statements to public) and 10 (provision to Secretary of State of further information and evidence respecting environmental statements) above shall apply in respect of such an environmental statement in the same way as they apply to an application for a consent accompanied by an environmental statement save that references to the application for consent shall be treated as references to the proposals submitted by the licensee or, as the case may be, to the notice served pursuant to paragraph (4) above.
+
+(5A)[^key-1ac1ce42364ac69dd3f13e5ed296ed4a] The OGA shall not approve proposals which entail the carrying out of a relevant project comprising a development or exercise any power under a licence to require the carrying out of a relevant project comprising a development without the agreement of the Secretary of State.
+
+(6)[^key-2108d89d4c8bd82a71df801fe06c1677] The Secretary of State shall not make a decision under paragraph (8A)(c) unless the Secretary of State is satisfied that the requirements of regulations 9 and 10, as they apply by virtue of paragraph (5), have been substantially met and that, where necessary, advice has been obtained from persons with appropriate expert knowledge who have examined the environmental statement.
+
+(7) Where under regulation 12(2) below (request by EEA[^key-c1082557b53816cffc95e96a41886cf4] State to participate in procedure under the Regulations in relation to relevant project affecting it) any [^key-b2d00ab5374a6be5b5bb139440039af9]... EEA State has requested to participate in the procedure pursuant to these Regulations in relation to the decision whether to agree to the grant of[^key-b0da857cb1811700720c7e760126a7ba] approval or the imposition of[^key-8d5cb6a95a281c1da39da45565f1f317] a relevant requirement in respect of a relevant project, the Secretary of State shall not make a decision under paragraph (8A)[^key-3f1706107dd86143cb513be7d733d96a] in respect of that project unless–
+
+- (a) he is satisfied that the requirements of regulation 12(1) and (2) below (projects affecting other States) have been met;
+- (b) he has communicated to that EEA State the response that he proposes to make [^key-18c337db107076c6fb174643782bf16b]... (including in either case information as to any measures envisaged to reduce or eliminate any trans-boundary effects of the project);
+- (c) he is satisfied that–
+  - (i) the EEA State has been consulted regarding the application for consent and the arrangements for consulting persons in that EEA State (including any authorities likely to be interested in the relevant project in question by virtue of their particular environmental responsibilities);
+  - (ii) a reasonable time has been allowed for the consultation of the persons referred to in sub-sub-paragraph (i) above and for any representations made by them regarding the relevant project to be forwarded to the Secretary of State; and
+  - (iii) any timetable agreed with that EEA State regarding consultation with the persons referred to in sub-sub-paragraph (i) above has been observed; and
+- (d) he has taken into consideration any representations made by the EEA State, members of the public and authorities in that EEA State and any information regarding the relevant project supplied by any of them and in respect of those members of the public, the Secretary of State is satisfied that they have had at least 30 days to consider the environmental statement.[^key-48fd72233fb7004a7050cfc9bf7c553a]
+
+(8) Where, having considered the matters referred to in paragraphs (6) and (7) above, the Secretary of State makes a decision to give agreement under paragraph (8A)(c)[^key-172b90676db84df0db6a8e00c3d024a9], he may (to the extent that he has no power to do so apart from this paragraph (8)) attach conditions to that agreement[^key-ded8ee3dd582b8c2f2aee7a1f4d1f5e6] for the purpose of reducing or eliminating any significant adverse effects of the relevant project [^key-9dcc65ea6b0a15e2f781a19026fc9c2c]....
+
+(8A)[^key-35f41c60ebb6517139768bb8ec8c49f3] When making a decision as to whether to agree to proposals which entail the carrying out of a relevant project comprising a development or to the exercise of any power under a licence to require the carrying out of a relevant project comprising a development, where in either case an environmental statement has been submitted, the Secretary of State shall—
+
+- (a) examine the environmental statement, including any further information provided under regulation 10, any representations made by any person required by these Regulations to be invited to make representations, and any representations duly made by any other person about the environmental effects of the project;
+- (b) reach a reasoned conclusion on the significant effects of the project on the environment, taking into account the examination referred to in sub-paragraph (a); and
+- (c) integrate that conclusion into the decision as to whether agreement is to be given.
+
+(8B) If a decision is made to give agreement under paragraph (8A)(c), the decision shall set out—
+
+- (a) any environmental conditions attached to the decision;
+- (b) a description of any features of the relevant project or measures to be taken to avoid, prevent or reduce, and if possible, offset any significant adverse effects on the environment of the relevant project; and
+- (c) any measures to monitor conditions imposed to avoid, prevent or reduce and, if possible, offset significant adverse effects on the environment (“a monitoring condition”);
+
+(8C) If a decision is made to refuse agreement under paragraph (8A)(c), the decision shall state the main reasons for the refusal.
+
+(8D) The reasoned conclusion referred to in paragraph (8A)(b) shall be up to date at the time that the decision referred to in paragraph (8A)(c) is made, but that conclusion shall be taken to be up to date if, in the opinion of the Secretary of State, it continues to address the significant effects that are likely to arise as a result of the relevant project.
+
+(8E) When considering whether to impose a monitoring condition referred to in paragraph (8B)(c), the Secretary of State shall—
+
+- (a) consider whether to make provision for potential remedial action;
+- (b) consider whether there are appropriate existing monitoring arrangements under the law of any part of the United Kingdom other than any law that implemented the Directive[^key-a98d9cbe83c3e4db8bf4585e5957abd4] to make the imposition of a monitoring condition unnecessary; and
+- (c) take steps to ensure that the type of parameters to be monitored and the duration of the monitoring are proportionate to the nature, location and size of the relevant project and the significance of its effects on the environment.
+
+(8F) The decision of the Secretary of State referred to in paragraph (8A)(c) must be made within a reasonable period of time, taking into account the nature and complexity of the relevant project, from the date on which the Secretary of State has been provided with the information and representations referred to in paragraph (8A)(a).
+
+(9)[^key-6dd4d1e2e48229d74b259f0a2f0f66fe] The Secretary of State shall promptly publish the relevant matters in the Gazettes and on a public website and shall send a copy of the relevant matters to those authorities specified in the notice served under regulation 9(1) as it applies by virtue of paragraph(5).
+
+(9A)[^key-b6d1662ba578adc7c293bf0699cf932e] For the purposes of paragraph (9), the “relevant matters” means—
+
+- (a) a decision referred to in paragraph (2) or in paragraph (8A)(c); and
+- (b) a notice setting out—
+  - (i) the contents of the decision referred to in sub-paragraph (a);
+  - (ii) the main reasons and considerations on which the decision is based;
+  - (iii) a summary of all representations made to the Secretary of State by any person in respect of the relevant project, if any, including, where regulation 12 applies, any representations made by an EEA State affected by the relevant project, the public concerned or authorities in that state, together with details of how those representations were taken into account;
+
+  and the notice shall specify where details of these matters may be obtained, including the address of the public website on which the notice is published.
+
+(10) Upon the publication in the Gazettes referred to in paragraph (9) above, the Secretary of State shall inform any EEA State which has, pursuant to regulation 12 below (projects affecting other States), been provided with a copy of the environmental statement, of the approval of the proposals or, as the case may be, of the imposition of the relevant requirement.
+
+## 12. Projects affecting other States
+
+(1) Where it appears to the Secretary of State that the carrying out of a relevant project would be likely to have a significant effect on the environment of any [^key-908a942a2bdb774cde7ffcd91f6f039f]...EEA[^key-ac495000c590fbf641469eb877c73de6] State or where any [^key-908a942a2bdb774cde7ffcd91f6f039f]... EEA State which considers that its environment is likely to be significantly affected by that project so requests, the Secretary of State shall forward to the EEA State in question as soon as possible and no later than the date on which the environmental statement in respect of that project is made available to the public (except in a case where a request is made by the EEA State after that date)–
+
+- (a) a description of the project together with any available information regarding the possible trans-boundary impact of the project; and
+- (b) a written notification explaining the nature of the decision to be taken as to whether or not to grant consent in respect of the relevant project and informing the EEA State in question that it may within such reasonable period as may be specified in the notification request to participate in the procedure relating to the taking of the decision pursuant to these Regulations.
+
+(2) Where any [^key-117cbcc727e61c41074738e7ba239206]... EEA State requests to participate in the procedure under these Regulations in relation to a relevant project, the Secretary of State shall, save to the extent that he has not already done so, send to that EEA State–
+
+- (a) a copy of the application for consent in respect of the relevant project, a copy of any proposals submitted to the Secretary of State for agreement[^key-45c0678e8303446df4bf4a769e611919] or, as the case may be, any notice served by the OGA[^key-395099dd1d3d9206ac9ffcfcafb5d947] pursuant to regulation 11(4)[^key-2dac9c2ae42cfc30ba488600a0df34a2] above (notice by OGA of project proposed to be carried out by undertaker);
+- (b) the environmental statement relating to that project; and
+- (c) to the extent that it is not included in the items referred to in sub-paragraph (a) or (b) above and subject to paragraph (4) below, any other available information of a nature referred to in regulations 9(2) and 10(2)[^key-1ad28aa3c1f460d770458b555a887628] including the address of the public website referred to in regulation 9(2A)(b).[^key-5d943e117b817096db8bcd072cb32f09]
+
+(3)[^key-8062e46823e784afb883335b0f426ac4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) Nothing in this regulation shall require the disclosure by the Secretary of State of any material which is subject to an obligation of confidentiality under the law of any part of the United Kingdom.
+
+(5)[^key-2a25f52d0ec571137c992d8be73e59c0] For the purposes of this regulation as it applies in respect of a relevant project for which a licence is granted under section 18 of the 2008 Act or related consents, any reference to a relevant project is to a relevant project in respect of which such an environmental statement is required to be prepared.
+
+## 12A. Projects in ...EEA States having a significant effect on the environment in the transboundary area[^key-8330c40099f098405350fedbd6f217c8][^key-5e8aa7fe3accef6b7c5a41629c55b071]
+
+(1) Where [^key-2ad393381217e67c1a86d390829964aa]... the Secretary of State receives information from an[^key-64e1af71d2ebe6aeeea27fbf256adb7e] EEA State which that EEA State has gathered from the developer of a relevant project in that EEA State which is likely to have significant effects on the environment of the transboundary area, the Secretary of State shall—
+
+- (a) enter into consultations with that EEA State regarding, inter alia, the potential significant effects of the proposed project on the environment of the transboundary area and the measures envisaged to reduce or eliminate such effects; and
+- (b) determine in agreement with that EEA State a reasonable period, before development consent for the project is granted, during which members of the public in the United Kingdom may submit to the competent authority in that EEA State representations [^key-ca97d14fccc980372eb812089febe2bb]... , such period to allow at least 30 days between the environmental statement becoming available to the public concerned and the deadline for the submission of their representations.[^key-eed359b4715eabb57bf10357bcb1c45a]
+
+(2) The Secretary of State shall also—
+
+- (a) arrange for the information referred to in paragraph (1) above to be made available, within a reasonable time, both to the environmental authorities or other authorities which the Secretary of State considers would be likely to be interested in the relevant project by reason of either their particular environmental responsibilities or local or regional competence[^key-3f8b178d595c3450d663b0f44bbb026e], and to the public concerned;
+- (b) ensure that those authorities and the public concerned in the United Kingdom are given an opportunity, before development consent for the project is granted, to forward to the competent authority in the EEA State referred to in paragraph (1) above, within a reasonable time, their opinion on the information supplied; and
+- (c) so far as he has received such information, notify those authorities and the public concerned of the content of any decision of the competent authority of that EEA State, and in particular—
+  - (i) any conditions attached to it;
+  - (ii) the main reasons and considerations on which the decision was based including, if relevant, information about the participation of the public; and
+  - (iii) a description of the main measures to avoid, reduce and, if possible, offset any major adverse effects that have been identified.
+
+## 13. Exempt projects[^key-6b04596cbc34cd401c839f215a73cef2]
+
+(1) The Secretary of State may direct that—
+
+- (a) these Regulations do not apply in relation to a relevant project if the project comprises or forms part of a project—
+  - (i) having national defence as its sole purpose; or
+  - (ii) having the response to a civil emergency as its sole purpose; and
+- (b) in the opinion of the Secretary of State compliance with these Regulations would have an adverse effect on that purpose.
+
+(2) Subject to paragraph (4), the Secretary of State may, in exceptional cases, direct that a relevant project is exempt in whole or in part from the requirements of these Regulations if circumstances exist such that the application of all or some of the provisions of these Regulations would adversely affect the purpose of the relevant project.
+
+(3) Where a direction is given under paragraph (1) or (2), the Secretary of State shall send a copy of any such direction to the OGA.
+
+(4)  A direction must not be given under paragraph (2) unless the Secretary of State —
+
+- (a) has considered whether another form of assessment is appropriate; and[^key-29bfad5425e3863c3f0de7314d47a9f9]
+- (b) in a case where the Secretary of State considers that the project is likely to have significant environmental effects on the environment in an[^key-9d34c69e7292f89791ab0f943458650b] EEA State, is satisfied that a form of consultation with that state broadly equivalent to the form described in regulation 12 will take place before any consent is given in respect of the project. [^key-2f6ded3c659a01c7e7391ff470630b4f]...
+- (c)[^key-2f6ded3c659a01c7e7391ff470630b4f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5) A direction given by the Secretary of State under paragraph (2) may disapply such provisions of these Regulations as may in the circumstances appear to the Secretary of State to be appropriate and shall—
+
+- (a) require the carrying out of such form of assessment as the Secretary of State considers appropriate in order to ensure a high level of protection of the environment and of human health;
+- (b) require that all information relating to the main effects the project is likely to have on the environment collected pursuant to sub-paragraph (a) is to be made available to the public and specify the manner in which it is to be made available;
+- (c) specify the extent to which these Regulations are to apply or that they are not to apply at all; and
+- (d) include a statement of the Secretary of State’s reasons for giving the direction and the information on which that decision is based.
+
+(6) The Secretary of State shall publish—
+
+- (a) details of the direction given under paragraph (2) in the Gazettes together with information as to how the public concerned may obtain a copy of the direction; and
+- (b) the direction itself on a public website.
+
+## 14. Service of notices
+
+(1) Any notice or other document required or authorised to be given or served on any person under these Regulations may be given or served by–
+
+- (a) delivering it to that person;
+- (b) leaving it at his proper address; or
+- (c) sending it to his proper address by the recorded delivery service.
+
+(2) Any notice or other document required or authorised to be served on, or given to, any body corporate or unincorporated association other than a partnership shall be duly given or served on the secretary or clerk or other similar officer of that body.
+
+(3) Any notice or other document required or authorised to be served on, or given to, any partnership may be served on or given to a partner or a person having the control or management of the partnership business.
+
+(4) Subject to paragraph (5) below, for the purpose of this regulation, the proper address of any person on whom or to whom any such notice or document is to be served or given shall be his last known address except that such address shall be–
+
+- (a) in the case of a body corporate or their secretary or clerk, the address of the registered office or principal office of the body corporate;
+- (b) in the case of an unincorporated association (other than a partnership) or their secretary or clerk, the address of the principal office of the association; and
+- (c) in the case of a partnership or a person having control or the management of the partnership business, the address of the principal office of the partnership, and for the purposes of this paragraph the principal office of a company registered outside the United Kingdom or of a partnership carrying on business outside the United Kingdom shall be its principal office within the United Kingdom.
+
+(5) If the person to be served with or given any such notice or document has furnished the person by whom the notice or document is to be served or given with an address pursuant to any provision of these Regulations, that address shall also be treated for the purposes of this regulation as his proper address.
+
+## 15. Applications to the court
+
+(1) Subject to paragraph (3) below, for the purposes of regulations 16 (application to court by person aggrieved) and 17 (application to court by Secretary of State) below, the expression “the court" means–
+
+- (a) in respect of a relevant project in the English area, the High Court;
+- (b) in respect of a relevant project in the Scottish area, the Court of Session; and
+- (c) in respect of a relevant project in the Northern Irish area, the High Court in Northern Ireland.
+
+(2) In this regulation the expressions “the English area", “the Scottish area" and “the Northern Irish area" shall have the same meanings as in the Civil Jurisdiction (Offshore Activities) Order 1987 [^c16493491].
+
+(3) Where a project is situated in more than one of the areas referred to in paragraph (1) above, then any of the courts having jurisdiction in those areas shall have jurisdiction in relation to any question arising under regulation 16 or 17 below.
+
+## 16. Application to court by person aggrieved
+
+(1) On the application of any person aggrieved by the grant of consent in respect of a relevant project in relation to which an environmental statement was required to be submitted by virtue of regulation 5(1)[^key-410653a89ba34cb16749f89d13c29529] above (agreement of[^key-9b0ff8f178575cea14afe5776417d971] Secretary of State in respect of relevant projects), the court may grant an order quashing the grant of consent where it is satisfied that the consent was granted in contravention of regulation 5(4) or regulation 5A(1)(a)[^key-3d3494594503d03a351787c059d308c6] above (consideration of environmental statement etc.) or that the interests of the applicant have been substantially prejudiced by any failure to comply with any other requirement of these Regulations.
+
+(2) On the application of any person aggrieved by–
+
+- (a) an approval; or
+- (b) the imposition of a relevant requirement,
+
+in respect of a relevant project in relation to which an environmental statement was required to be submitted by virtue of regulation 11 above (exercise by the OGA[^key-0489fa616f9b87dc836ccad9299ab12e] of powers under licences), the court may grant an order quashing the approval or, as the case may be, the imposition of the relevant requirement where it is satisfied that the approval or, as the case may be, the imposition of the relevant requirement was in contravention of regulation 11(6)[^key-3e4bd44d8355e873c30e94c44f574135] or regulation 11(8A)(a)[^key-105307a01d39ab47ce1371ee880238f4] above (consideration of environmental statement etc.) or that the interests of the applicant have been substantially prejudiced by any failure to comply with any other requirement of these Regulations.
+
+(3) An application to the court under this regulation shall be made within six weeks from the date of publication in the Gazettes of details of the consent, approval or, as the case may be, imposition of the relevant requirement.
+
+(4) The court may by interim order, pending the determination of any question referred to in paragraphs (1) and (2) above, stay the operation of the consent, approval or, as the case may be, the relevant requirement on such terms as it may think fit.
+
+## 17. Application to the court by Secretary of State
+
+(1) Subject to paragraphs (3) and (6) below, where–
+
+- (a) any activity in relation to a relevant project is being, or has been, carried out without the necessary consent or approval of the OGA[^key-0c68c8a1ed4e57ce1771818d07ebf97f] granted in accordance with these Regulations or otherwise than in accordance with a relevant requirement imposed in accordance with these Regulations; or
+- (b) a relevant project is being, or has been, carried out in breach of any condition attached to any consent or approval, being a condition so attached for the purpose of reducing or eliminating any significant adverse effects on the environment,
+
+the court may, on the application of the Secretary of State, make an order restraining the continued carrying out of the relevant project or compelling the performance of any act required to be done by a condition of the kind mentioned in sub-paragraph (b) above.
+
+(2) The court may, in addition to making such an order as is mentioned in paragraph (1) above, make an order requiring–
+
+- (a) the removal, so far as is practicable in all the circumstances, of any structure erected—
+  - (i) without the consent or approval of the OGA[^key-3623931b95e973a2fa19d07eb3e382aa] as mentioned in paragraph (1)(a) above;
+  - (ii) otherwise than in accordance with any relevant requirement as mentioned in paragraph (1)(a) above; or
+  - (iii) in breach of a condition of the kind mentioned in paragraph (1)(b) above; and
+- (b) where it orders the removal of any structure, the reinstatement of the site where the structure was erected.
+
+(3) The court shall not grant an order under this regulation in respect of a breach of any condition of the kind mentioned in paragraph (1)(b) above where–
+
+- (a) the breach in question was due to circumstances beyond the control of the undertaker and the breach could not reasonably have been prevented by the undertaker; or
+- (b) the breach occurred as a result of anything required to be done as a matter of urgency for the purposes of securing the safety of any person.
+
+(4) Where the undertaker fails to comply with the terms of an order made pursuant to paragraph (2) above within such time as may be specified in it or, in default of such specification, within a reasonable time of the making of the order, the Secretary of State may himself take the action required to be taken by the order and the reasonable costs and expenses of doing so shall be recoverable as a debt from the undertaker.
+
+(5) Where the Secretary of State takes action in accordance with paragraph (4) above, that action shall be without prejudice to any consequences which may flow from the undertaker’s failure to comply with the order.
+
+(6) This regulation shall not apply to anything done in relation to a project which is the subject of an exemption granted pursuant to regulation 13 above (exempt projects).
+
+## 17A. Fees[^key-587111666269b88baeae14bcdf9d3d3a]
+
+(1) The Secretary of State may charge fees in respect of—
+
+- (a) monitoring—
+  - (i) compliance by undertakers with the duties in regulation 4(4);
+  - (ii) whether an undertaker is acting, or has acted, in breach of the terms of a condition attached to any consent or approval granted in accordance with these Regulations;
+  - (iii) whether an undertaker is carrying out, or has carried out, any activity in relation to a relevant project without the necessary consent or approval or otherwise than in accordance with a relevant requirement imposed in accordance with these Regulations;
+- (aa)[^key-ddf45def26bdd6e0aa1d8c08c708a033] providing advice with respect to—
+  - (i) whether an environmental statement is required under regulation 5 and the content of such an environmental statement;
+  - (ii) whether a direction might be made under regulation 6(1) or (2) or 11(2);
+  - (iii) whether a direction might be revoked under regulation 6(10) or 11(3);
+  - (iv) information and evidence which may be required under regulation 10(1);
+- (b)[^key-f8e3485e851e2cf1521a5cd4ddb4c71e] considering, accepting or rejecting an environmental statement submitted under regulation 5, or making a decision as referred to in regulation 5A(1) or 11(8A);
+- (c) determining under regulation 5(2)(b), 5(2A) or 6 whether—
+  - (i) a project is likely to have a significant effect on the environment;
+  - (ii) an environmental statement is required;
+- (d) giving a direction under regulation 6(1) 6(1B)[^key-642e7d249c274c6cf87eb94269c1b2c2], 6(2) or 11(2) that an environmental statement is not required;
+- (e) requiring information by notice under regulation 6(4) or 10(1);
+- (f) revoking a direction under regulation 6(10) or 11(3);
+- (g) giving an opinion as to the content of an environmental statement under regulation 7;
+- (h) providing information under regulation 8;
+- (i) serving a notice under regulation 9 or 11(4);
+- (j) giving a direction under regulation 10(2);
+- (k) providing material to an EEA State under regulations 11(10) and 12;
+- (l) giving a direction under regulation 13 as to whether to exempt a project from the provisions of these Regulations;
+- (m) publishing notices of decisions or details of directions where required by these Regulations; and
+- (n) consulting any environmental authority or other authority interested in the relevant project by reason of their local or regional competence[^key-9203a7af51d3dbad73765b56f28dd516] on any matter under these Regulations.
+
+(2) A fee charged under paragraph (1) is [formula: see source](https://www.legislation.gov.uk/uksi/1999/360) where—
+
+- A is the number of hours work carried out by specialist officers;
+- B is £190[^key-881fe141eaa05fdc806116b315e21c45];
+- C is the number of hours work carried out by non-specialist officers; and
+- D is £101[^key-d7e33cf75559f5c11b7e2b49fd34a2d0].
+
+(3) For the purposes of paragraph (2), the number of hours work may be expressed as a fraction where—
+
+- (a) less than one hour’s work has been carried out; or
+- (b) the total amount of time worked is more than one hour but cannot be expressed as a whole number in hours.
+
+(4) Any fee must be paid on demand.
+
+(5) In this regulation, “specialist officers” means persons engaged on behalf of the Secretary of State to carry out the functions of the Secretary of State referred to in paragraph (1) and “non-specialist officers” means any other persons engaged on behalf of the Secretary of State to provide administrative support to those specialist officers.
+
+## 18. Offences
+
+(1) Subject to paragraph (3) below, any person who intentionally or recklessly submits to the Secretary of State–
+
+- (a) an environmental statement;
+- (b) appropriate particulars; or
+- (c) any other information required to be submitted by virtue of any provision of these Regulations,
+
+which is false or misleading in a material particular shall be guilty of an offence.
+
+(2) Subject to paragraphs (3), (4) and (8) below, an undertaker who–
+
+- (a) intentionally acts in breach of the terms of a condition attached to any consent or approval, being a condition so attached for the purpose of reducing or eliminating any significant adverse effects on the environment; or
+- (b) carries out any activity in relation to a relevant project without the necessary consent or approval of the OGA[^key-81dbfc1f9aacfd683358aad8b42b0d37] granted in accordance with these Regulations or otherwise than in accordance with a relevant requirement imposed in accordance with these Regulations,
+
+shall be guilty of an offence.
+
+(3) Paragraphs (1) and (2) above shall not apply to anything which is an offence by virtue of section 21 of the Petroleum Act 1998 [^c16493501] (enforcement).
+
+(4) It shall be a defence to a charge under paragraph (2)(a) above for the undertaker to show–
+
+- (a) that he took all reasonable steps to avoid the commission of the offence; or
+- (b) that the acts in question were attributable to anything required to be done as a matter of urgency for the purposes of securing the safety of any person.
+
+(5) A person guilty of an offence under this regulation shall on summary conviction be liable to a fine not exceeding the statutory maximum and on conviction on indictment to a fine.
+
+(6) Where any offence provided for by this regulation committed by a body corporate is proved to have been committed with the consent or connivance of, or to have been attributable to any neglect on the part of any director, manager, secretary or other similar officer of the body corporate or on the part of any person purporting to act in such capacity, he as well as the body corporate shall be guilty of that offence and shall be liable to be proceeded against and punished accordingly.
+
+(7) Where the affairs of a body corporate are managed by its members, paragraph (6) above shall apply in relation to the acts or defaults of a member in connection with his functions of management as if he were a director of the body corporate.
+
+(8) This regulation shall not apply to anything done in relation to a project which is the subject of an exemption granted pursuant to regulation 13 above (exempt projects).
+
+(9) No proceedings shall be instituted in England and Wales or Northern Ireland except–
+
+- (a) in the case of proceedings in England and Wales, by or with the consent of the Director of Public Prosecutions; or
+- (b) in the case of proceedings in Northern Ireland, by or with the consent of the Director of Public Prosecutions for Northern Ireland; or
+- (c) in any case, by the Secretary of State or a person authorised by him in that behalf.
+
+(10) Section 3 of the Territorial Waters Jurisdiction Act 1878 [^c16493511] (restriction on prosecutions) shall not apply to any proceedings for an offence under this regulation.
+
+(11) Proceedings for an offence under this regulation may be taken, and the offence may for all incidental purposes be treated as having been committed, in any place in the United Kingdom.
+
+## 19. Review[^key-4e8f170f40f8e89bcb0e3041591332bb]
+
+(1) The Secretary of State must from time to time—
+
+- (a) carry out a review of these Regulations;
+- (b) set out the conclusions of the review in a report; and
+- (c) publish the report.
+
+(2) In carrying out the review, the Secretary of State must, so far as is reasonable, have regard to how the Directive (which is implemented by these Regulations), is implemented in other member States.
+
+(3) The report must in particular—
+
+- (a) set out the objectives intended to be achieved by these Regulations;
+- (b) assess the extent to which those objectives are achieved;
+- (c) assess whether those objectives remain appropriate and, if so, the extent to which they could be achieved in a less burdensome way.
+
+(4) The first report under this regulation must be published before the end of the period of five years beginning with the day on which this regulation comes into force.
+
+(5) Subsequent reports under this regulation must be published at intervals not exceeding five years.
+
+John Battle
+
+Minister for Energy and Industry,
+
+Department of Trade and Industry
+
+## SCHEDULE 1 — MATTERS TO BE TAKEN INTO ACCOUNT IN DECIDING WHETHER RELEVANT PROJECT LIKELY TO HAVE A SIGNIFICANT EFFECT ON THE ENVIRONMENT[^key-aed05ebaf94684bde5ec5b6f645397a7]
+
+Regulations 3, 5, 6 and 11
+
+### 1. Characteristics of the project
+
+The characteristics of the relevant project having regard, in particular, to—
+
+- (a) the size and design of the project;
+- (b) the cumulation with other existing or approved projects;
+- (c) the use of natural resources in particular land, soil, water and biodiversity;
+- (d) the production of waste, pollution and nuisances;
+- (e) the risk of major accidents or disasters which are relevant to the project concerned including those caused by climate change, in accordance with scientific knowledge; and
+- (f) the risks to human health (for example, due to water contamination or air pollution).
+
+### 2. Location of the project
+
+The environmental sensitivity of geographical areas likely to be affected by the relevant project having regard, in particular, to—
+
+- (a) the existing and approved land use;
+- (b) the relative abundance, availability, quality and regenerative capacity of natural resources (including soil, land, water and biodiversity) in the area and its underground;
+- (c) the absorption capacity of the natural environment, paying particular attention to the following areas—
+  - (i) wetlands, riparian areas, river mouths;
+  - (ii) coastal zones and the marine environment;
+  - (iii) mountain and forest areas;
+  - (iv) nature reserves and parks;
+  - (v) areas classified or protected under national legislation or Natura 2000 as defined in regulation 3(1) of the Conservation of Habitats and Species Regulations 2017;[^key-f19c57f612c50b268052e801ea567f6e]
+  - (vi) areas in which there has already been a failure to meet the environmental quality standards laid down in assimilated[^key-a82f707bbba791f05956920963636c2f][^key-5715c7a51a24157fd8e29de7cd32a686] law and relevant to the project or in which it is considered that there is such a failure;
+  - (vii) densely populated areas; and
+  - (viii) landscapes and sites of historical, cultural or archaeological significance.
+
+### 3. Type and characteristics of the potential impact
+
+The likely significant effects of the relevant project on the environment in relation to the criteria set out under paragraphs 1 and 2, and having regard in particular to the impact of the project on the factors specified in Article 3(1) of the Directive, taking into account—
+
+- (a) the magnitude and spatial extent of the impact (for example geographical area and size of the population likely to be affected);
+- (b) the nature of the impact;
+- (c) the transboundary nature of the impact;
+- (d) the intensity and complexity of the impact;
+- (e) the probability of the impact;
+- (f) the expected onset, duration, frequency and reversibility of the impact;
+- (g) the cumulation of the impact with the impact of other existing or approved projects; and
+- (h) the possibility of effectively reducing the impact.
+
+## SCHEDULE 2 — Information for the Environmental Statement[^key-864ba0293da38bbd4cc03754665d4ac0]
+
+Regulation 3B
+
+**1.** A description of the relevant project, including in particular:
+
+- (a) a description of the location of the project;
+- (b) a description of the physical characteristics of the whole project, including, where relevant, requisite demolition works, and the land-use requirements during the construction and operational phases;
+- (c) a description of the main characteristics of the operational phase of the project (in particular any production process), for instance, energy demand and energy used, nature and quantity of the materials and natural resources (including water, land, soil and biodiversity) used; and
+- (d) an estimate, by type and quantity, of expected residues and emissions (such as water, air, soil and subsoil pollution, noise, vibration, light, heat, radiation) and quantities and types of waste produced during the construction and operation phases.
+
+**2.** A description of the reasonable alternatives (for example in terms of project design, technology, location, size and scale) studied by the undertaker, which are relevant to the relevant project and its specific characteristics, and an indication of the main reasons for selecting the chosen option, including a comparison of the environmental effects.
+
+**3.** A description of the relevant aspects of the current state of the environment (baseline scenario) and an outline of the likely evolution thereof without implementation of the project as far as natural changes from the baseline scenario can be assessed with reasonable effort on the basis of the availability of environmental information and scientific knowledge.
+
+**4.** A description of the factors set out in Article 3(1) of the Directive likely to be significantly affected by the project: population, human health, biodiversity (for example fauna and flora), land (for example land take), soil (for example organic matter, erosion, compaction, sealing), water (for example hydromorphological changes, quantity and quality), air, climate (for example greenhouse gas emissions, impacts relevant to adaptation), material assets, cultural heritage, including architectural and archaeological aspects, and landscape.
+
+**5.** A description of the likely significant effects of the project on the environment resulting from, inter alia—
+
+- (a) the construction and existence of the project, including, where relevant, demolition works;
+- (b) the use of natural resources, in particular land, soil, water and biodiversity, considering as far as possible the sustainable availability of these resources;
+- (c) the emission of pollutants, noise, vibration, light, heat and radiation, the creation of nuisances, and the disposal and recovery of waste;
+- (d) the risks to human health, cultural heritage or the environment (for example due to accidents or disasters);
+- (e) the cumulation of effects with other existing or approved projects, taking into account any existing environmental problems relating to areas of particular environmental importance likely to be affected or the use of natural resources;
+- (f) the impact of the project on climate (for example the nature and magnitude of greenhouse gas emissions) and the vulnerability of the project to climate change;
+- (g) the technologies and the substances used, and
+
+these descriptions of the likely significant effects on the factors set out in Article 3(1) of the Directive must cover the direct effects and any indirect, secondary, cumulative, transboundary, short-term, medium-term and long-term, permanent and temporary, positive and negative effects of the project and should take into account environmental protection objectives established at EU or at national level relevant to the project.
+
+**6.** A description of the forecasting methods or evidence, used to identify and assess the significant effects on the environment, including details of difficulties (for example technical deficiencies or lack of knowledge) encountered compiling the required information and the main uncertainties involved.
+
+**7.** A description of the measures envisaged to avoid, prevent, reduce or, if possible, offset any identified significant adverse effects on the environment and, where appropriate, of any proposed monitoring arrangements (for example the preparation of a post-project analysis).
+
+**8.** The description in paragraph 7 should explain the extent to which significant adverse effects on the environment are avoided, prevented, reduced or offset, and should cover both the construction and operational phases.
+
+**9.** A description of the expected significant adverse effects of the relevant project on the environment deriving from the vulnerability of the project to risks of major accidents or disasters which are relevant to the project.
+
+**10.** Relevant information available and obtained through risk assessments pursuant to assimilated[^key-b57094f49e44b499cc55299b3fd2c285][^key-ccd310d5c150d68653d8ca47558fb935] law or relevant assessments carried out pursuant to any other law of any part of the United Kingdom may be used for describing the matters in paragraph 9, provided that the requirements of any law of any part of the United Kingdom that implemented[^key-d4b8424e61ddc985f30fc9717a40a89f] the Directive are met.
+
+**11.** In describing the matters in paragraph 9, the undertaker should, where appropriate, include measures envisaged to prevent or mitigate the significant adverse effects of such events on the environment and details of the preparedness for and proposed response to such emergencies.
+
+**12.** A non-technical summary of the information provided under paragraphs 1 to 11.
+
+**13.** A reference list detailing the sources used for the descriptions and assessments included in the environmental statement.
+
+(This note is not part of the Regulations)
+
+These Regulations implement Council Directive [85/337/EEC](https://www.legislation.gov.uk/european/directive/1985/0337) (O.J. No. L175, 5.7.85, p.40) as amended by Council Directive [97/11/EC](https://www.legislation.gov.uk/european/directive/1997/0011) (O.J. No. L73, 3.3.97, p.5) on the assessment of the effects of certain public and private projects on the environment in so far as it relates to the effects on the environment of certain offshore oil and gas projects. They revoke the Offshore Petroleum and Pipe-lines (Assessment of Environmental Effects) Regulations 1998 (S.I. 1998/968) subject to savings in respect of applications for consent which are received prior to 14th March 1999. The 1998 Regulations implemented the 1985 Directive in its unamended form and these Regulations substantially remake the provisions of those Regulations with the amendments necessary to implement the 1997 amending Directive.
+
+Directive [85/337/EEC](https://www.legislation.gov.uk/european/directive/1985/0337) in its unamended form applies to the European Economic Area (EEA) (see Article 74 of, and paragraph 1 of Annex XX to, the Agreement on the European Economic Area (Cm 2073) as adjusted by the Protocol signed at Brussels on 17th March 1993 (Cm 2183) — the Annexes to the Agreement are subject to amendment from time to time by the EEA Joint Committee established under Article 92 of the Agreement) with the result that there is only a requirement to provide a member of the EEA which is not a member of the European Union with information in respect of projects likely to have significant trans-boundary effects. Member States, however, are given rights to participate in the decision making process (regulation 12).
+
+Provision is made requiring the Secretary of State where he grants licences pursuant to the Petroleum Act 1998 to include in such licences requirements to obtain his consent to the drilling of a well, the getting of petroleum (where the amount exceeds 500 tonnes per day in the case of oil and 500,000 cubic metres per day in the case of gas) and to the erection of any structure in connection with a development. Provision is also made requiring, subject to an exception in respect of the use of floating installations which commenced prior to 30th April 1998 (the date of the coming into force of the 1998 Regulations), the obtaining of the consent of the Secretary of State to the use of a floating installation in connection with a relevant project comprising a development. Provision is also made requiring the obtaining of the consent of the Secretary of State to the use of a mobile installation for the purposes of the extraction of petroleum where the main purpose of such extraction is the testing of a well (regulation 4).
+
+Provision is made requiring applications for consent to the carrying out of specified operations in relation to certain kinds of oil and gas projects to be accompanied by an environmental statement (regulation 5). Those applications are either ones which fall within certain categories (those which relate to the getting of petroleum and the construction of installations in relation to projects producing more than 500 tonnes of oil per day or 500,000 cubic metres of gas per day and certain large pipe-lines) or are those where the Secretary of State is not satisfied that the project will not have a significant effect on the environment.
+
+Provision is made in respect of those cases where an environmental statement is not mandatory for the Secretary of State to decide whether the project is likely to have a significant effect on the environment. In most cases the undertaker will be required to submit particulars of the project and if the Secretary of State is satisfied that the carrying out of the relevant project will not have a significant effect on the environment he may give a direction that an application for a consent need not be accompanied by an environmental statement (regulation 6(1)). In a limited class of case (renewals of certain consents to the getting of petroleum and certain small pipe-lines) where the Secretary of State is likely already to have sufficient information a direction that no environmental statement need be submitted is not required (regulations 5(1) and 5(2)). However, even in this class of case the Secretary of State must decide whether the project is likely to have a significant effect on the environment. If he is not satisfied that the project will not have a significant effect on the environment then an environmental statement must be submitted with the application for consent.
+
+Where the application is accompanied by an environmental statement, the Secretary of State must be satisfied before granting a consent that the requirements of the Regulations as to publicity and consultation have been substantially complied with and must consider the representations of the environmental authorities which are interested in the project by reason of their environmental responsibilities and the representations of the public (regulation 5).
+
+Provision is made for the granting of a direction that where an environmental statement has already been submitted in respect of the project and the project has already been the subject of an assessment, applications for further consents in respect of that project need not be accompanied by an environmental statement (regulation 6(2)).
+
+Provision is made requiring the Secretary of State to give an opinion as to the content of an environmental statement (regulation 7).
+
+Provision is made to assist persons proposing to carry out certain oil and gas projects to obtain information to prepare environmental statements (regulation 8). Provision is made with regard to publicity requirements for applications for consents that are accompanied by environmental statements (regulation 9). Power is conferred on the Secretary of State to require persons proposing to carry out oil and gas projects to provide further information in relation to applications for consents or authorisations in respect of which environmental statements are submitted and for such information to be subject to publication requirements under regulation 9 (regulation 10).
+
+Provision is made for the carrying out of environmental assessments in relation to the exercise by the Secretary of State of powers under licences granted or treated as granted under the 1998 Act to require proposals to be submitted to him for his approval for the carrying out of relevant projects or to require such projects to be carried out (regulation 11).
+
+Power is conferred on the Secretary of State in whole or in part to exempt a relevant project from the provisions of the Regulations (regulation 13). Provision is made in relation to the service of notices and other documents pursuant to the Regulations (regulation 14).
+
+Provision is made by the Regulations for the making of applications to the court by persons challenging certain decisions of the Secretary of State. Subject to certain exceptions, provision is also made for the Secretary of State to make applications to the court to seek remedies in respect of the carrying out of oil and gas projects without a consent or approval granted, or a requirement imposed, in accordance with these Regulations or in breach of conditions imposed to protect the environment (regulations 15, 16 and 17).
+
+Provision is made creating offences in respect of the intentional or reckless submission of false or misleading information pursuant to the Regulations and subject to certain exceptions, the carrying out of activities without a consent, authorisation or approval granted, or requirement imposed, pursuant to the Regulations or in breach of conditions imposed to protect the environment (regulation 18).
+
+A regulatory impact assessment is available from Oil and Gas Directorate, Department of Trade and Industry, 1 Victoria Street, London SW1H 0ET (Tel: 0171 215 5151).
+
+## Annotations
+
+[^c16493431]: Marginal citation: [S.I. 1988/785](https://www.legislation.gov.uk/uksi/1988/785).
+
+[^c16493441]: Marginal citation: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68). By virtue of the amendment of section 1(2) of the European Communities Act 1972 by section 1 of the [European Economic Area Act 1993 (c. 51)](https://www.legislation.gov.uk/ukpga/1993/51) regulations may be made under section 2(2) of the European Communities Act 1972 to implement obligations created or arising by or under the Agreement on the European Economic Area signed at Oporto on 2nd May 1992 (Cm 2703) and the Protocol adjusting the Agreement signed at Brussels on 17th March 1993 (Cm 2183).
+
+[^key-63ad733cbb863725601e689e41fb05bb]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/1999/360) modified (1.7.2010) by [The Energy Act 2008 (Consequential Modifications) (Offshore Environmental Protection) Order 2010 (S.I. 2010/1513)](https://www.legislation.gov.uk/uksi/2010/1513), [art. 2](https://www.legislation.gov.uk/uksi/2010/1513/article/2)
+
+[^key-ba18a60dacce2b3a148a9e36566fb86a]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/1999/360) modified (31.12.2020 immediately before 11 p.m.) by [The Offshore Oil and Gas Exploration, Production, Unloading and Storage (Environmental Impact Assessment) Regulations 2020 (S.I. 2020/1497)](https://www.legislation.gov.uk/uksi/2020/1497), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/2/2), [29](https://www.legislation.gov.uk/uksi/2020/1497/regulation/29) (with [reg. 1(2)-(6)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/2), [20](https://www.legislation.gov.uk/uksi/2020/1497/regulation/20))
+
+[^key-6f5ff82bab8717a4011fce2c2dc97827]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/1999/360) power to amend or revoke conferred (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 164(3)](https://www.legislation.gov.uk/ukpga/2023/55/section/164/3), [255(5)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/5), [Sch. 14 Pt. 1](https://www.legislation.gov.uk/ukpga/2023/55/schedule/14/part/1) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
+
+[^c16493451]: Marginal citation: [S.I. 1998/968](https://www.legislation.gov.uk/uksi/1998/968).
+
+[^c16493461]: Marginal citation: [1998 c. 17](https://www.legislation.gov.uk/ukpga/1998/17).
+
+[^key-058464859b0b6771fc200f5aa6b9081b]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/1999/360/regulation/3/1) inserted (16.5.2017) by [The Offshore Petroleum Production and Pipe-lines (Environmental Impact Assessment and other Miscellaneous Provisions) (Amendment) Regulations 2017 (S.I. 2017/582)](https://www.legislation.gov.uk/uksi/2017/582), [regs. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1), [4(a)](https://www.legislation.gov.uk/uksi/2017/582/regulation/4/a) (with [reg. 23](https://www.legislation.gov.uk/uksi/2017/582/regulation/23))
+
+[^key-df6f1057f2d7ae0e9cbcce5f4465199f]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/1999/360/regulation/3/1) substituted (16.5.2017) by [The Offshore Petroleum Production and Pipe-lines (Environmental Impact Assessment and other Miscellaneous Provisions) (Amendment) Regulations 2017 (S.I. 2017/582)](https://www.legislation.gov.uk/uksi/2017/582), [regs. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1), [4(b)](https://www.legislation.gov.uk/uksi/2017/582/regulation/4/b) (with [reg. 23](https://www.legislation.gov.uk/uksi/2017/582/regulation/23))
+
+[^key-b12735ceaccbfc99d784d5374651ec54]: Textual amendment: Word in [reg. 3(1)](https://www.legislation.gov.uk/uksi/1999/360/regulation/3/1) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 13 para. 1(2)(a)](https://www.legislation.gov.uk/uksi/2025/82/schedule/13/paragraph/1/2/a)
+
+[^key-39f3560a17d36dd622c28e1676c51cce]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/uksi/1999/360/regulation/3) substituted (31.12.2020) by [The Pipe-lines, Petroleum, Electricity Works and Oil Stocking (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1325)](https://www.legislation.gov.uk/uksi/2018/1325), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1325/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2018/1325/regulation/3/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c16493471]: Marginal citation: [1971 c. 80](https://www.legislation.gov.uk/ukpga/1971/80).
+
+[^key-4861ec545b2833d5211fa572b717bf0b]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/1999/360/regulation/3/1) inserted (16.5.2017) by [The Offshore Petroleum Production and Pipe-lines (Environmental Impact Assessment and other Miscellaneous Provisions) (Amendment) Regulations 2017 (S.I. 2017/582)](https://www.legislation.gov.uk/uksi/2017/582), [regs. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1), [4(c)](https://www.legislation.gov.uk/uksi/2017/582/regulation/4/c) (with [reg. 23](https://www.legislation.gov.uk/uksi/2017/582/regulation/23))
+
+[^key-34f38977a85a7d3ed6b4e6e6cc13dad2]: Textual amendment: Word in [reg. 3(1)](https://www.legislation.gov.uk/uksi/1999/360/regulation/3/1) omitted (16.5.2017) by virtue of [The Offshore Petroleum Production and Pipe-lines (Environmental Impact Assessment and other Miscellaneous Provisions) (Amendment) Regulations 2017 (S.I. 2017/582)](https://www.legislation.gov.uk/uksi/2017/582), [regs. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1), [4(d)(i)](https://www.legislation.gov.uk/uksi/2017/582/regulation/4/d/i) (with [reg. 23](https://www.legislation.gov.uk/uksi/2017/582/regulation/23))
+
+[^key-8ae7220c026eb7248298b7df74d5cca3]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/1999/360/regulation/3/1) inserted (16.5.2017) by [The Offshore Petroleum Production and Pipe-lines (Environmental Impact Assessment and other Miscellaneous Provisions) (Amendment) Regulations 2017 (S.I. 2017/582)](https://www.legislation.gov.uk/uksi/2017/582), [regs. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1), [4(d)(ii)](https://www.legislation.gov.uk/uksi/2017/582/regulation/4/d/ii) (with [reg. 23](https://www.legislation.gov.uk/uksi/2017/582/regulation/23))
+
+[^key-6a93a583d505a91de2874a55429c8fda]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/1999/360/regulation/3/1) inserted (16.5.2017) by [The Offshore Petroleum Production and Pipe-lines (Environmental Impact Assessment and other Miscellaneous Provisions) (Amendment) Regulations 2017 (S.I. 2017/582)](https://www.legislation.gov.uk/uksi/2017/582), [regs. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1), [4(d)(iii)](https://www.legislation.gov.uk/uksi/2017/582/regulation/4/d/iii) (with [reg. 23](https://www.legislation.gov.uk/uksi/2017/582/regulation/23))
+
+[^key-030f9b425d0b72cf4d567515be419249]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/1999/360/regulation/3/1) inserted (16.5.2017) by [The Offshore Petroleum Production and Pipe-lines (Environmental Impact Assessment and other Miscellaneous Provisions) (Amendment) Regulations 2017 (S.I. 2017/582)](https://www.legislation.gov.uk/uksi/2017/582), [regs. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1), [4(d)(iv)](https://www.legislation.gov.uk/uksi/2017/582/regulation/4/d/iv) (with [reg. 23](https://www.legislation.gov.uk/uksi/2017/582/regulation/23))
+
+[^key-4382784a7ff119b3bbf085a9b4024ea4]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/1999/360/regulation/3/1) substituted (16.5.2017) by [The Offshore Petroleum Production and Pipe-lines (Environmental Impact Assessment and other Miscellaneous Provisions) (Amendment) Regulations 2017 (S.I. 2017/582)](https://www.legislation.gov.uk/uksi/2017/582), [regs. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1), [4(d)(v)](https://www.legislation.gov.uk/uksi/2017/582/regulation/4/d/v) (with [reg. 23](https://www.legislation.gov.uk/uksi/2017/582/regulation/23))
+
+[^key-cc1f09998d71dc5b80aa859522fac77c]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/1999/360/regulation/3/1) substituted (16.5.2017) by [The Offshore Petroleum Production and Pipe-lines (Environmental Impact Assessment and other Miscellaneous Provisions) (Amendment) Regulations 2017 (S.I. 2017/582)](https://www.legislation.gov.uk/uksi/2017/582), [regs. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1), [4(e)](https://www.legislation.gov.uk/uksi/2017/582/regulation/4/e) (with [reg. 23](https://www.legislation.gov.uk/uksi/2017/582/regulation/23))
+
+[^key-e5473fd82d9f6add1424c1c8c5e30269]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/1999/360/regulation/3/1) substituted (16.5.2017) by [The Offshore Petroleum Production and Pipe-lines (Environmental Impact Assessment and other Miscellaneous Provisions) (Amendment) Regulations 2017 (S.I. 2017/582)](https://www.legislation.gov.uk/uksi/2017/582), [regs. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1), [4(f)](https://www.legislation.gov.uk/uksi/2017/582/regulation/4/f) (with [reg. 23](https://www.legislation.gov.uk/uksi/2017/582/regulation/23))
+
+[^key-d129aed607df332ab68b2be60aba23cf]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/1999/360/regulation/3/1) substituted (16.4.2007) by [The Offshore Petroleum Production and Pipe-lines (Assessment of Environmental Effects) (Amendment) Regulations 2007 (S.I. 2007/933)](https://www.legislation.gov.uk/uksi/2007/933), [regs. 1](https://www.legislation.gov.uk/uksi/2007/933/regulation/1), [4(b)](https://www.legislation.gov.uk/uksi/2007/933/regulation/4/b) (with [reg. 14](https://www.legislation.gov.uk/uksi/2007/933/regulation/14))
+
+[^key-ff53c8e9f19a7be978935d5a86437aea]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/1999/360/regulation/3/1) inserted (16.4.2007) by [The Offshore Petroleum Production and Pipe-lines (Assessment of Environmental Effects) (Amendment) Regulations 2007 (S.I. 2007/933)](https://www.legislation.gov.uk/uksi/2007/933), [regs. 1](https://www.legislation.gov.uk/uksi/2007/933/regulation/1), [4(c)](https://www.legislation.gov.uk/uksi/2007/933/regulation/4/c) (with [reg. 14](https://www.legislation.gov.uk/uksi/2007/933/regulation/14))
+
+[^key-f82cd163219779892ee445bdbbaa6d74]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/1999/360/regulation/3/1) substituted (16.5.2017) by [The Offshore Petroleum Production and Pipe-lines (Environmental Impact Assessment and other Miscellaneous Provisions) (Amendment) Regulations 2017 (S.I. 2017/582)](https://www.legislation.gov.uk/uksi/2017/582), [regs. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1), [4(g)](https://www.legislation.gov.uk/uksi/2017/582/regulation/4/g) (with [reg. 23](https://www.legislation.gov.uk/uksi/2017/582/regulation/23))
+
+[^key-340e67981faadcf2b7881d978fca2c3d]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/1999/360/regulation/3/1) substituted (16.5.2017) by [The Offshore Petroleum Production and Pipe-lines (Environmental Impact Assessment and other Miscellaneous Provisions) (Amendment) Regulations 2017 (S.I. 2017/582)](https://www.legislation.gov.uk/uksi/2017/582), [regs. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1), [4(h)](https://www.legislation.gov.uk/uksi/2017/582/regulation/4/h) (with [reg. 23](https://www.legislation.gov.uk/uksi/2017/582/regulation/23))
+
+[^key-2a2144cb4e2bdf181763cfa7bcf7e9f1]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/1999/360/regulation/3/1) substituted (16.5.2017) by [The Offshore Petroleum Production and Pipe-lines (Environmental Impact Assessment and other Miscellaneous Provisions) (Amendment) Regulations 2017 (S.I. 2017/582)](https://www.legislation.gov.uk/uksi/2017/582), [regs. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1), [4(i)](https://www.legislation.gov.uk/uksi/2017/582/regulation/4/i) (with [reg. 23](https://www.legislation.gov.uk/uksi/2017/582/regulation/23))
+
+[^key-27bead1685bb6b80ff66b1ea44484555]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/1999/360/regulation/3/1) inserted (1.10.2016) by [The Energy (Transfer of Functions, Consequential Amendments and Revocation) Regulations 2016 (S.I. 2016/912)](https://www.legislation.gov.uk/uksi/2016/912), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/912/regulation/1/1), [7(2)(a)](https://www.legislation.gov.uk/uksi/2016/912/regulation/7/2/a)
+
+[^key-163c4b7eee6a9393c3068a05fc327602]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/1999/360/regulation/3/1) inserted (16.5.2017) by [The Offshore Petroleum Production and Pipe-lines (Environmental Impact Assessment and other Miscellaneous Provisions) (Amendment) Regulations 2017 (S.I. 2017/582)](https://www.legislation.gov.uk/uksi/2017/582), [regs. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1), [4(j)](https://www.legislation.gov.uk/uksi/2017/582/regulation/4/j) (with [reg. 23](https://www.legislation.gov.uk/uksi/2017/582/regulation/23))
+
+[^c16493481]: Marginal citation: [1964 c. 29](https://www.legislation.gov.uk/ukpga/1964/29).
+
+[^key-66b50363b397d18c34ba72e986e778ac]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/1999/360/regulation/3/1) inserted (16.5.2017) by [The Offshore Petroleum Production and Pipe-lines (Environmental Impact Assessment and other Miscellaneous Provisions) (Amendment) Regulations 2017 (S.I. 2017/582)](https://www.legislation.gov.uk/uksi/2017/582), [regs. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1), [4(k)(i)](https://www.legislation.gov.uk/uksi/2017/582/regulation/4/k/i) (with [reg. 23](https://www.legislation.gov.uk/uksi/2017/582/regulation/23))
+
+[^key-4b4d5f24bec30d27a04651b9db9e58b3]: Textual amendment: Word in [reg. 3(1)](https://www.legislation.gov.uk/uksi/1999/360/regulation/3/1) omitted (16.5.2017) by virtue of [The Offshore Petroleum Production and Pipe-lines (Environmental Impact Assessment and other Miscellaneous Provisions) (Amendment) Regulations 2017 (S.I. 2017/582)](https://www.legislation.gov.uk/uksi/2017/582), [regs. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1), [4(k)(ii)](https://www.legislation.gov.uk/uksi/2017/582/regulation/4/k/ii) (with [reg. 23](https://www.legislation.gov.uk/uksi/2017/582/regulation/23))
+
+[^key-3e301fbfd6a40e3345c8d55b8355d413]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/1999/360/regulation/3/1) inserted (16.5.2017) by [The Offshore Petroleum Production and Pipe-lines (Environmental Impact Assessment and other Miscellaneous Provisions) (Amendment) Regulations 2017 (S.I. 2017/582)](https://www.legislation.gov.uk/uksi/2017/582), [regs. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1), [4(k)(ii)](https://www.legislation.gov.uk/uksi/2017/582/regulation/4/k/ii) (with [reg. 23](https://www.legislation.gov.uk/uksi/2017/582/regulation/23))
+
+[^key-129ba6fa897dac16fdbb6437f57589d1]: Textual amendment: Word in [reg. 3(1)](https://www.legislation.gov.uk/uksi/1999/360/regulation/3/1) substituted (1.10.2016) by [The Energy (Transfer of Functions, Consequential Amendments and Revocation) Regulations 2016 (S.I. 2016/912)](https://www.legislation.gov.uk/uksi/2016/912), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/912/regulation/1/1), [7(2)(b)](https://www.legislation.gov.uk/uksi/2016/912/regulation/7/2/b)
+
+[^key-72b195f6f4bb507642a7dff9be406f5b]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/1999/360/regulation/3/1) inserted (16.5.2017) by [The Offshore Petroleum Production and Pipe-lines (Environmental Impact Assessment and other Miscellaneous Provisions) (Amendment) Regulations 2017 (S.I. 2017/582)](https://www.legislation.gov.uk/uksi/2017/582), [regs. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1), [4(l)](https://www.legislation.gov.uk/uksi/2017/582/regulation/4/l) (with [reg. 23](https://www.legislation.gov.uk/uksi/2017/582/regulation/23))
+
+[^key-d64a1dab27e7e5afbde8f99967e970b8]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/1999/360/regulation/3/1) substituted (16.5.2017) by [The Offshore Petroleum Production and Pipe-lines (Environmental Impact Assessment and other Miscellaneous Provisions) (Amendment) Regulations 2017 (S.I. 2017/582)](https://www.legislation.gov.uk/uksi/2017/582), [regs. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1), [4(m)](https://www.legislation.gov.uk/uksi/2017/582/regulation/4/m) (with [reg. 23](https://www.legislation.gov.uk/uksi/2017/582/regulation/23))
+
+[^key-5ce50234c92fde9d13dee793c2c566c3]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/1999/360/regulation/3/1) inserted (16.4.2007) by [The Offshore Petroleum Production and Pipe-lines (Assessment of Environmental Effects) (Amendment) Regulations 2007 (S.I. 2007/933)](https://www.legislation.gov.uk/uksi/2007/933), [regs. 1](https://www.legislation.gov.uk/uksi/2007/933/regulation/1), [4(e)](https://www.legislation.gov.uk/uksi/2007/933/regulation/4/e) (with [reg. 14](https://www.legislation.gov.uk/uksi/2007/933/regulation/14))
+
+[^key-fde360c9a901cd244f64a9c7d7375033]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/1999/360/regulation/3/1) substituted (16.5.2017) by [The Offshore Petroleum Production and Pipe-lines (Environmental Impact Assessment and other Miscellaneous Provisions) (Amendment) Regulations 2017 (S.I. 2017/582)](https://www.legislation.gov.uk/uksi/2017/582), [regs. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1), [4(n)](https://www.legislation.gov.uk/uksi/2017/582/regulation/4/n) (with [reg. 23](https://www.legislation.gov.uk/uksi/2017/582/regulation/23))
+
+[^key-e88ea4ca99692cd28a46215453c9c1b9]: Textual amendment: [Regs. 3A](https://www.legislation.gov.uk/uksi/1999/360/regulation/3A), [3B](https://www.legislation.gov.uk/uksi/1999/360/regulation/3B) inserted (16.5.2017) by [The Offshore Petroleum Production and Pipe-lines (Environmental Impact Assessment and other Miscellaneous Provisions) (Amendment) Regulations 2017 (S.I. 2017/582)](https://www.legislation.gov.uk/uksi/2017/582), [regs. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1), [5](https://www.legislation.gov.uk/uksi/2017/582/regulation/5) (with [reg. 23](https://www.legislation.gov.uk/uksi/2017/582/regulation/23))
+
+[^key-95ed3b5e0319e0265a65a1dfdfca9965]: Textual amendment: Words in [reg. 3A(2)(a)(ii)](https://www.legislation.gov.uk/uksi/1999/360/regulation/3A/2/a/ii) inserted (31.12.2020) by [The Pipe-lines, Petroleum, Electricity Works and Oil Stocking (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1325)](https://www.legislation.gov.uk/uksi/2018/1325), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1325/regulation/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2018/1325/regulation/3/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-0abfd9e5d0df1237b57135af2a61b3c7]: Textual amendment: Words in [reg. 3B(2)](https://www.legislation.gov.uk/uksi/1999/360/regulation/3B/2) substituted (31.12.2020) by [The Pipe-lines, Petroleum, Electricity Works and Oil Stocking (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1325)](https://www.legislation.gov.uk/uksi/2018/1325), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1325/regulation/1/1), [3(4)](https://www.legislation.gov.uk/uksi/2018/1325/regulation/3/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-405344ec6a113e1774e6642d5d94bd6f]: Textual amendment: Word in [reg. 4(1)](https://www.legislation.gov.uk/uksi/1999/360/regulation/4/1) substituted (1.10.2016) by [The Energy (Transfer of Functions, Consequential Amendments and Revocation) Regulations 2016 (S.I. 2016/912)](https://www.legislation.gov.uk/uksi/2016/912), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/912/regulation/1/1), [7(3)(a)](https://www.legislation.gov.uk/uksi/2016/912/regulation/7/3/a)
+
+[^key-487d008e4c2f1499a3bde628ee402b6c]: Textual amendment: Word in [reg. 4(2)(b)](https://www.legislation.gov.uk/uksi/1999/360/regulation/4/2/b) omitted (16.5.2017) by virtue of [The Offshore Petroleum Production and Pipe-lines (Environmental Impact Assessment and other Miscellaneous Provisions) (Amendment) Regulations 2017 (S.I. 2017/582)](https://www.legislation.gov.uk/uksi/2017/582), [regs. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1), [6(a)](https://www.legislation.gov.uk/uksi/2017/582/regulation/6/a) (with [reg. 23](https://www.legislation.gov.uk/uksi/2017/582/regulation/23))
+
+[^key-8c471de609fb812e2cd4015f66b9fdaf]: Textual amendment: [Reg. 4(2)(d)](https://www.legislation.gov.uk/uksi/1999/360/regulation/4/2/d) and word inserted (16.5.2017) by [The Offshore Petroleum Production and Pipe-lines (Environmental Impact Assessment and other Miscellaneous Provisions) (Amendment) Regulations 2017 (S.I. 2017/582)](https://www.legislation.gov.uk/uksi/2017/582), [regs. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1), [6(b)](https://www.legislation.gov.uk/uksi/2017/582/regulation/6/b) (with [reg. 23](https://www.legislation.gov.uk/uksi/2017/582/regulation/23))
+
+[^key-8c739227c69fe731efb1f5b4117ac749]: Textual amendment: Word in [reg. 4(3)](https://www.legislation.gov.uk/uksi/1999/360/regulation/4/3) substituted (1.10.2016) by [The Energy (Transfer of Functions, Consequential Amendments and Revocation) Regulations 2016 (S.I. 2016/912)](https://www.legislation.gov.uk/uksi/2016/912), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/912/regulation/1/1), [7(3)(a)](https://www.legislation.gov.uk/uksi/2016/912/regulation/7/3/a)
+
+[^key-a62b8d6548c4b4cd98cbe3bc45837ffd]: Textual amendment: Word in [reg. 4(3)](https://www.legislation.gov.uk/uksi/1999/360/regulation/4/3) substituted (1.10.2016) by [The Energy (Transfer of Functions, Consequential Amendments and Revocation) Regulations 2016 (S.I. 2016/912)](https://www.legislation.gov.uk/uksi/2016/912), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/912/regulation/1/1), [7(3)(b)](https://www.legislation.gov.uk/uksi/2016/912/regulation/7/3/b)
+
+[^key-c0247d4cbccddc0da0a36e04de6bb0e5]: Textual amendment: Word in [reg. 4(4)](https://www.legislation.gov.uk/uksi/1999/360/regulation/4/4) substituted (1.10.2016) by [The Energy (Transfer of Functions, Consequential Amendments and Revocation) Regulations 2016 (S.I. 2016/912)](https://www.legislation.gov.uk/uksi/2016/912), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/912/regulation/1/1), [7(3)(a)](https://www.legislation.gov.uk/uksi/2016/912/regulation/7/3/a)
+
+[^key-e407c99a4f1439a5c7f836311da1927a]: Textual amendment: Word in [reg. 4(4)(a)](https://www.legislation.gov.uk/uksi/1999/360/regulation/4/4/a) omitted (16.5.2017) by virtue of [The Offshore Petroleum Production and Pipe-lines (Environmental Impact Assessment and other Miscellaneous Provisions) (Amendment) Regulations 2017 (S.I. 2017/582)](https://www.legislation.gov.uk/uksi/2017/582), [regs. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1), [6(c)](https://www.legislation.gov.uk/uksi/2017/582/regulation/6/c) (with [reg. 23](https://www.legislation.gov.uk/uksi/2017/582/regulation/23))
+
+[^key-ea88b5b033a6245a4e4610be8a6c7843]: Textual amendment: [Reg. 4(4)(c)](https://www.legislation.gov.uk/uksi/1999/360/regulation/4/4/c) and word inserted (16.5.2017) by [The Offshore Petroleum Production and Pipe-lines (Environmental Impact Assessment and other Miscellaneous Provisions) (Amendment) Regulations 2017 (S.I. 2017/582)](https://www.legislation.gov.uk/uksi/2017/582), [regs. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1), [6(d)](https://www.legislation.gov.uk/uksi/2017/582/regulation/6/d) (with [reg. 23](https://www.legislation.gov.uk/uksi/2017/582/regulation/23))
+
+[^key-c6953c7198a4edcd3fccdaf87334ed5f]: Textual amendment: Words in [reg. 5](https://www.legislation.gov.uk/uksi/1999/360/regulation/5) heading substituted (1.10.2016) by [The Energy (Transfer of Functions, Consequential Amendments and Revocation) Regulations 2016 (S.I. 2016/912)](https://www.legislation.gov.uk/uksi/2016/912), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/912/regulation/1/1), [7(4)(a)](https://www.legislation.gov.uk/uksi/2016/912/regulation/7/4/a)
+
+[^key-91401357609df5124e1c8a6e76224a74]: Textual amendment: [Reg. 5(A1)](https://www.legislation.gov.uk/uksi/1999/360/regulation/5/A1) inserted (1.10.2016) by [The Energy (Transfer of Functions, Consequential Amendments and Revocation) Regulations 2016 (S.I. 2016/912)](https://www.legislation.gov.uk/uksi/2016/912), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/912/regulation/1/1), [7(4)(b)](https://www.legislation.gov.uk/uksi/2016/912/regulation/7/4/b)
+
+[^key-d4feb9ad07fcb1fcb6b4de72a7d7db39]: Textual amendment: [Reg. 5(1)](https://www.legislation.gov.uk/uksi/1999/360/regulation/5/1) substituted (16.4.2007) by [The Offshore Petroleum Production and Pipe-lines (Assessment of Environmental Effects) (Amendment) Regulations 2007 (S.I. 2007/933)](https://www.legislation.gov.uk/uksi/2007/933), [regs. 1](https://www.legislation.gov.uk/uksi/2007/933/regulation/1), [5(a)](https://www.legislation.gov.uk/uksi/2007/933/regulation/5/a) (with [reg. 14](https://www.legislation.gov.uk/uksi/2007/933/regulation/14))
+
+[^key-34b67e6e3828c438516228d926d74591]: Textual amendment: Words in [reg. 5(1)](https://www.legislation.gov.uk/uksi/1999/360/regulation/5/1) substituted (1.10.2016) by [The Energy (Transfer of Functions, Consequential Amendments and Revocation) Regulations 2016 (S.I. 2016/912)](https://www.legislation.gov.uk/uksi/2016/912), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/912/regulation/1/1), [7(4)(c)](https://www.legislation.gov.uk/uksi/2016/912/regulation/7/4/c)
+
+[^key-8d8d395853d8b0a33159f3e4e3e3ca76]: Textual amendment: [Reg. 5(1A)](https://www.legislation.gov.uk/uksi/1999/360/regulation/5/1A) inserted (16.5.2017) by [The Offshore Petroleum Production and Pipe-lines (Environmental Impact Assessment and other Miscellaneous Provisions) (Amendment) Regulations 2017 (S.I. 2017/582)](https://www.legislation.gov.uk/uksi/2017/582), [regs. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1), [7(a)](https://www.legislation.gov.uk/uksi/2017/582/regulation/7/a) (with [reg. 23](https://www.legislation.gov.uk/uksi/2017/582/regulation/23))
+
+[^key-f8e8a3c1ab0fab7efceda0071736a851]: Textual amendment: [Reg. 5(2)](https://www.legislation.gov.uk/uksi/1999/360/regulation/5/2) substituted (16.4.2007) by [The Offshore Petroleum Production and Pipe-lines (Assessment of Environmental Effects) (Amendment) Regulations 2007 (S.I. 2007/933)](https://www.legislation.gov.uk/uksi/2007/933), [regs. 1](https://www.legislation.gov.uk/uksi/2007/933/regulation/1), [5(b)](https://www.legislation.gov.uk/uksi/2007/933/regulation/5/b) (with [reg. 14](https://www.legislation.gov.uk/uksi/2007/933/regulation/14))
+
+[^key-1bf780bd80636d36822cb067607a0c6c]: Textual amendment: [Reg. 5(2A)](https://www.legislation.gov.uk/uksi/1999/360/regulation/5/2A) substituted (16.5.2017) by [The Offshore Petroleum Production and Pipe-lines (Environmental Impact Assessment and other Miscellaneous Provisions) (Amendment) Regulations 2017 (S.I. 2017/582)](https://www.legislation.gov.uk/uksi/2017/582), [regs. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1), [7(b)](https://www.legislation.gov.uk/uksi/2017/582/regulation/7/b) (with [reg. 23](https://www.legislation.gov.uk/uksi/2017/582/regulation/23))
+
+[^key-a5584b56b661542a20bd6ea8e157c49b]: Textual amendment: Words in [reg. 5(3)](https://www.legislation.gov.uk/uksi/1999/360/regulation/5/3) substituted (16.4.2007) by [The Offshore Petroleum Production and Pipe-lines (Assessment of Environmental Effects) (Amendment) Regulations 2007 (S.I. 2007/933)](https://www.legislation.gov.uk/uksi/2007/933), [regs. 1](https://www.legislation.gov.uk/uksi/2007/933/regulation/1), [5(d)](https://www.legislation.gov.uk/uksi/2007/933/regulation/5/d) (with [reg. 14](https://www.legislation.gov.uk/uksi/2007/933/regulation/14))
+
+[^key-c6e8d348f584f38b8fcebd7175429455]: Textual amendment: [Reg. 5(4)](https://www.legislation.gov.uk/uksi/1999/360/regulation/5/4) substituted (16.5.2017) by [The Offshore Petroleum Production and Pipe-lines (Environmental Impact Assessment and other Miscellaneous Provisions) (Amendment) Regulations 2017 (S.I. 2017/582)](https://www.legislation.gov.uk/uksi/2017/582), [regs. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1), [7(c)](https://www.legislation.gov.uk/uksi/2017/582/regulation/7/c) (with [reg. 23](https://www.legislation.gov.uk/uksi/2017/582/regulation/23))
+
+[^key-d452e978014a140d70e37860af241de9]: Textual amendment: Words in [reg. 5(5)](https://www.legislation.gov.uk/uksi/1999/360/regulation/5/5) substituted (16.5.2017) by [The Offshore Petroleum Production and Pipe-lines (Environmental Impact Assessment and other Miscellaneous Provisions) (Amendment) Regulations 2017 (S.I. 2017/582)](https://www.legislation.gov.uk/uksi/2017/582), [regs. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1), [7(d)(i)](https://www.legislation.gov.uk/uksi/2017/582/regulation/7/d/i) (with [reg. 23](https://www.legislation.gov.uk/uksi/2017/582/regulation/23))
+
+[^key-cd69ee147cdefa276ac1a43637f2d2c0]: Textual amendment: Words in [reg. 5(5)](https://www.legislation.gov.uk/uksi/1999/360/regulation/5/5) substituted (1.10.2016) by [The Energy (Transfer of Functions, Consequential Amendments and Revocation) Regulations 2016 (S.I. 2016/912)](https://www.legislation.gov.uk/uksi/2016/912), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/912/regulation/1/1), [7(4)(c)](https://www.legislation.gov.uk/uksi/2016/912/regulation/7/4/c)
+
+[^key-83b791ace6587ddde737567e1a33a54e]: Textual amendment: Words in [reg. 5(5)](https://www.legislation.gov.uk/uksi/1999/360/regulation/5/5) substituted (16.5.2017) by [The Offshore Petroleum Production and Pipe-lines (Environmental Impact Assessment and other Miscellaneous Provisions) (Amendment) Regulations 2017 (S.I. 2017/582)](https://www.legislation.gov.uk/uksi/2017/582), [regs. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1), [7(d)(ii)](https://www.legislation.gov.uk/uksi/2017/582/regulation/7/d/ii) (with [reg. 23](https://www.legislation.gov.uk/uksi/2017/582/regulation/23))
+
+[^key-111d9a16f3a9e58a7e16a58a80ea1898]: Textual amendment: Words in [reg. 5(5)(c)(i)](https://www.legislation.gov.uk/uksi/1999/360/regulation/5/5/c/i) inserted (16.5.2017) by [The Offshore Petroleum Production and Pipe-lines (Environmental Impact Assessment and other Miscellaneous Provisions) (Amendment) Regulations 2017 (S.I. 2017/582)](https://www.legislation.gov.uk/uksi/2017/582), [regs. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1), [7(d)(iii)](https://www.legislation.gov.uk/uksi/2017/582/regulation/7/d/iii) (with [reg. 23](https://www.legislation.gov.uk/uksi/2017/582/regulation/23))
+
+[^key-4835f3bcaec363a436093f29d01e6309]: Textual amendment: Words in [reg. 5(5)(d)](https://www.legislation.gov.uk/uksi/1999/360/regulation/5/5/d) inserted (16.5.2017) by [The Offshore Petroleum Production and Pipe-lines (Environmental Impact Assessment and other Miscellaneous Provisions) (Amendment) Regulations 2017 (S.I. 2017/582)](https://www.legislation.gov.uk/uksi/2017/582), [regs. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1), [7(d)(iv)](https://www.legislation.gov.uk/uksi/2017/582/regulation/7/d/iv) (with [reg. 23](https://www.legislation.gov.uk/uksi/2017/582/regulation/23))
+
+[^key-0a101468febd314475cfc1b28ac6f6fd]: Textual amendment: [Reg. 5(6)](https://www.legislation.gov.uk/uksi/1999/360/regulation/5/6) substituted (16.5.2017) by [The Offshore Petroleum Production and Pipe-lines (Environmental Impact Assessment and other Miscellaneous Provisions) (Amendment) Regulations 2017 (S.I. 2017/582)](https://www.legislation.gov.uk/uksi/2017/582), [regs. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1), [7(e)](https://www.legislation.gov.uk/uksi/2017/582/regulation/7/e) (with [reg. 23](https://www.legislation.gov.uk/uksi/2017/582/regulation/23))
+
+[^key-454e2e8841ed68f2de96d3ffc652b81c]: Textual amendment: Words in [reg. 5(7)](https://www.legislation.gov.uk/uksi/1999/360/regulation/5/7) substituted (1.10.2016) by [The Energy (Transfer of Functions, Consequential Amendments and Revocation) Regulations 2016 (S.I. 2016/912)](https://www.legislation.gov.uk/uksi/2016/912), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/912/regulation/1/1), [7(4)(d)(i)](https://www.legislation.gov.uk/uksi/2016/912/regulation/7/4/d/i)
+
+[^key-00dcb9fd010aafe2e01fd8d25ed2fd61]: Textual amendment: Words in [reg. 5(7)](https://www.legislation.gov.uk/uksi/1999/360/regulation/5/7) substituted (1.10.2016) by [The Energy (Transfer of Functions, Consequential Amendments and Revocation) Regulations 2016 (S.I. 2016/912)](https://www.legislation.gov.uk/uksi/2016/912), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/912/regulation/1/1), [7(4)(d)(ii)](https://www.legislation.gov.uk/uksi/2016/912/regulation/7/4/d/ii)
+
+[^key-b993e452e6758746fb02cf75d0e352e5]: Textual amendment: [Reg. 5(8)-(9)](https://www.legislation.gov.uk/uksi/1999/360/regulation/5/8) omitted (16.5.2017) by virtue of [The Offshore Petroleum Production and Pipe-lines (Environmental Impact Assessment and other Miscellaneous Provisions) (Amendment) Regulations 2017 (S.I. 2017/582)](https://www.legislation.gov.uk/uksi/2017/582), [regs. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1), [7(f)](https://www.legislation.gov.uk/uksi/2017/582/regulation/7/f) (with [reg. 23](https://www.legislation.gov.uk/uksi/2017/582/regulation/23))
+
+[^key-9529583217f9eb993727ad4939ed5877]: Textual amendment: [Reg. 5(10)](https://www.legislation.gov.uk/uksi/1999/360/regulation/5/10) substituted (16.4.2007) by [The Offshore Petroleum Production and Pipe-lines (Assessment of Environmental Effects) (Amendment) Regulations 2007 (S.I. 2007/933)](https://www.legislation.gov.uk/uksi/2007/933), [regs. 1](https://www.legislation.gov.uk/uksi/2007/933/regulation/1), [5(h)](https://www.legislation.gov.uk/uksi/2007/933/regulation/5/h) (with [reg. 14](https://www.legislation.gov.uk/uksi/2007/933/regulation/14))
+
+[^key-950ec633dd3a24d170f9a75e7a199465]: Textual amendment: [Reg. 5(10)(b)](https://www.legislation.gov.uk/uksi/1999/360/regulation/5/10/b) substituted (16.5.2017) by [The Offshore Petroleum Production and Pipe-lines (Environmental Impact Assessment and other Miscellaneous Provisions) (Amendment) Regulations 2017 (S.I. 2017/582)](https://www.legislation.gov.uk/uksi/2017/582), [regs. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1), [7(g)](https://www.legislation.gov.uk/uksi/2017/582/regulation/7/g) (with [reg. 23](https://www.legislation.gov.uk/uksi/2017/582/regulation/23))
+
+[^key-e64e75817f7eee8ca08ed7949564c979]: Textual amendment: [Reg. 5(10A)](https://www.legislation.gov.uk/uksi/1999/360/regulation/5/10A) inserted (16.5.2017) by [The Offshore Petroleum Production and Pipe-lines (Environmental Impact Assessment and other Miscellaneous Provisions) (Amendment) Regulations 2017 (S.I. 2017/582)](https://www.legislation.gov.uk/uksi/2017/582), [regs. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1), [7(h)](https://www.legislation.gov.uk/uksi/2017/582/regulation/7/h) (with [reg. 23](https://www.legislation.gov.uk/uksi/2017/582/regulation/23))
+
+[^key-3754d401962436f30f874ffd72cfc519]: Textual amendment: [Reg. 5(11)](https://www.legislation.gov.uk/uksi/1999/360/regulation/5/11) omitted (16.4.2007) by virtue of [The Offshore Petroleum Production and Pipe-lines (Assessment of Environmental Effects) (Amendment) Regulations 2007 (S.I. 2007/933)](https://www.legislation.gov.uk/uksi/2007/933), [regs. 1](https://www.legislation.gov.uk/uksi/2007/933/regulation/1), [5(i)](https://www.legislation.gov.uk/uksi/2007/933/regulation/5/i) (with [reg. 14](https://www.legislation.gov.uk/uksi/2007/933/regulation/14))
+
+[^key-c72633335876c4f0959fba32bed13709]: Textual amendment: [Reg. 5A](https://www.legislation.gov.uk/uksi/1999/360/regulation/5A) inserted (16.5.2017) by [The Offshore Petroleum Production and Pipe-lines (Environmental Impact Assessment and other Miscellaneous Provisions) (Amendment) Regulations 2017 (S.I. 2017/582)](https://www.legislation.gov.uk/uksi/2017/582), [regs. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1), [8](https://www.legislation.gov.uk/uksi/2017/582/regulation/8) (with [reg. 23](https://www.legislation.gov.uk/uksi/2017/582/regulation/23))
+
+[^key-000a18902d99ac556a0a33eb1bef9c52]: Textual amendment: Words in [reg. 5A(5)(b)](https://www.legislation.gov.uk/uksi/1999/360/regulation/5A/5/b) substituted (31.12.2020) by [The Pipe-lines, Petroleum, Electricity Works and Oil Stocking (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1325)](https://www.legislation.gov.uk/uksi/2018/1325), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1325/regulation/1/1), [3(5)](https://www.legislation.gov.uk/uksi/2018/1325/regulation/3/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-a8aae9ddd616df4179728d060a65f8bf]: Textual amendment: Words in [reg. 6(1)](https://www.legislation.gov.uk/uksi/1999/360/regulation/6/1) substituted (16.4.2007) by [The Offshore Petroleum Production and Pipe-lines (Assessment of Environmental Effects) (Amendment) Regulations 2007 (S.I. 2007/933)](https://www.legislation.gov.uk/uksi/2007/933), [regs. 1](https://www.legislation.gov.uk/uksi/2007/933/regulation/1), [6(a)](https://www.legislation.gov.uk/uksi/2007/933/regulation/6/a) (with [reg. 14](https://www.legislation.gov.uk/uksi/2007/933/regulation/14))
+
+[^key-23c30de1cc87f96579fa255c25266a69]: Textual amendment: Word in [reg. 6(1)](https://www.legislation.gov.uk/uksi/1999/360/regulation/6/1) inserted (16.5.2017) by [The Offshore Petroleum Production and Pipe-lines (Environmental Impact Assessment and other Miscellaneous Provisions) (Amendment) Regulations 2017 (S.I. 2017/582)](https://www.legislation.gov.uk/uksi/2017/582), [regs. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1), [9(a)](https://www.legislation.gov.uk/uksi/2017/582/regulation/9/a) (with [reg. 23](https://www.legislation.gov.uk/uksi/2017/582/regulation/23))
+
+[^key-87005213c08e302c344a5077423f2935]: Textual amendment: [Reg. 6(1A)-(1D)](https://www.legislation.gov.uk/uksi/1999/360/regulation/6/1A) inserted (16.5.2017) by [The Offshore Petroleum Production and Pipe-lines (Environmental Impact Assessment and other Miscellaneous Provisions) (Amendment) Regulations 2017 (S.I. 2017/582)](https://www.legislation.gov.uk/uksi/2017/582), [regs. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1), [9(b)](https://www.legislation.gov.uk/uksi/2017/582/regulation/9/b) (with [reg. 23](https://www.legislation.gov.uk/uksi/2017/582/regulation/23))
+
+[^key-1e130a0063efbc5b89f6732ddcbcaa7f]: Textual amendment: [Reg. 6(2)](https://www.legislation.gov.uk/uksi/1999/360/regulation/6/2) substituted (16.4.2007) by [The Offshore Petroleum Production and Pipe-lines (Assessment of Environmental Effects) (Amendment) Regulations 2007 (S.I. 2007/933)](https://www.legislation.gov.uk/uksi/2007/933), [regs. 1](https://www.legislation.gov.uk/uksi/2007/933/regulation/1), [6(b)](https://www.legislation.gov.uk/uksi/2007/933/regulation/6/b) (with [reg. 14](https://www.legislation.gov.uk/uksi/2007/933/regulation/14))
+
+[^key-eb49f0ce321abbe15c7e1db12ce8c82f]: Textual amendment: Words in [reg. 6(2)](https://www.legislation.gov.uk/uksi/1999/360/regulation/6/2) substituted (1.10.2016) by [The Energy (Transfer of Functions, Consequential Amendments and Revocation) Regulations 2016 (S.I. 2016/912)](https://www.legislation.gov.uk/uksi/2016/912), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/912/regulation/1/1), [7(5)](https://www.legislation.gov.uk/uksi/2016/912/regulation/7/5)
+
+[^key-9b5f55913431abda5a840bee604b4113]: Textual amendment: Words in [reg. 6(2)(b)](https://www.legislation.gov.uk/uksi/1999/360/regulation/6/2/b) substituted (16.5.2017) by [The Offshore Petroleum Production and Pipe-lines (Environmental Impact Assessment and other Miscellaneous Provisions) (Amendment) Regulations 2017 (S.I. 2017/582)](https://www.legislation.gov.uk/uksi/2017/582), [regs. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1), [9(c)](https://www.legislation.gov.uk/uksi/2017/582/regulation/9/c) (with [reg. 23](https://www.legislation.gov.uk/uksi/2017/582/regulation/23))
+
+[^key-01588f27295ca06aacfc7add43ec0e8f]: Textual amendment: Word in [reg. 6(3)](https://www.legislation.gov.uk/uksi/1999/360/regulation/6/3) inserted (16.5.2017) by [The Offshore Petroleum Production and Pipe-lines (Environmental Impact Assessment and other Miscellaneous Provisions) (Amendment) Regulations 2017 (S.I. 2017/582)](https://www.legislation.gov.uk/uksi/2017/582), [regs. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1), [9(d)(i)](https://www.legislation.gov.uk/uksi/2017/582/regulation/9/d/i) (with [reg. 23](https://www.legislation.gov.uk/uksi/2017/582/regulation/23))
+
+[^key-be47e39b0c303edfaf30a9b6252b70c8]: Textual amendment: Words in [reg. 6(3)](https://www.legislation.gov.uk/uksi/1999/360/regulation/6/3) inserted (16.5.2017) by [The Offshore Petroleum Production and Pipe-lines (Environmental Impact Assessment and other Miscellaneous Provisions) (Amendment) Regulations 2017 (S.I. 2017/582)](https://www.legislation.gov.uk/uksi/2017/582), [regs. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1), [9(d)(ii)](https://www.legislation.gov.uk/uksi/2017/582/regulation/9/d/ii) (with [reg. 23](https://www.legislation.gov.uk/uksi/2017/582/regulation/23))
+
+[^key-b40ce05c08784d34e53a76c3f9f8d463]: Textual amendment: Word in [reg. 6(3)](https://www.legislation.gov.uk/uksi/1999/360/regulation/6/3) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 13 para. 1(2)(b)](https://www.legislation.gov.uk/uksi/2025/82/schedule/13/paragraph/1/2/b)
+
+[^key-8f42b9a849316e347259c8b85a903648]: Textual amendment: Words in [reg. 6(3)](https://www.legislation.gov.uk/uksi/1999/360/regulation/6/3) substituted (31.12.2020) by [The Pipe-lines, Petroleum, Electricity Works and Oil Stocking (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1325)](https://www.legislation.gov.uk/uksi/2018/1325), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1325/regulation/1/1), [3(6)](https://www.legislation.gov.uk/uksi/2018/1325/regulation/3/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-b440cb835140c5ab53a5d6cf4995353d]: Textual amendment: [Reg. 6(4)](https://www.legislation.gov.uk/uksi/1999/360/regulation/6/4) substituted (16.5.2017) by [The Offshore Petroleum Production and Pipe-lines (Environmental Impact Assessment and other Miscellaneous Provisions) (Amendment) Regulations 2017 (S.I. 2017/582)](https://www.legislation.gov.uk/uksi/2017/582), [regs. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1), [9(e)](https://www.legislation.gov.uk/uksi/2017/582/regulation/9/e) (with [reg. 23](https://www.legislation.gov.uk/uksi/2017/582/regulation/23))
+
+[^key-9e75c55f9594cf54873a4b0c63d59084]: Textual amendment: Word in [reg. 6(5)(c)](https://www.legislation.gov.uk/uksi/1999/360/regulation/6/5/c) omitted (16.5.2017) by virtue of [The Offshore Petroleum Production and Pipe-lines (Environmental Impact Assessment and other Miscellaneous Provisions) (Amendment) Regulations 2017 (S.I. 2017/582)](https://www.legislation.gov.uk/uksi/2017/582), [regs. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1), [9(f)(i)](https://www.legislation.gov.uk/uksi/2017/582/regulation/9/f/i) (with [reg. 23](https://www.legislation.gov.uk/uksi/2017/582/regulation/23))
+
+[^key-78c461302eac23244fbff3df73d208af]: Textual amendment: Words in [reg. 6(5)(d)](https://www.legislation.gov.uk/uksi/1999/360/regulation/6/5/d) substituted (31.12.2020) by [The Pipe-lines, Petroleum, Electricity Works and Oil Stocking (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1325)](https://www.legislation.gov.uk/uksi/2018/1325), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1325/regulation/1/1), [3(7)](https://www.legislation.gov.uk/uksi/2018/1325/regulation/3/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-99b1e01ad1ffd308a8aed02a01ab1566]: Textual amendment: [Reg. 6(5)(e)](https://www.legislation.gov.uk/uksi/1999/360/regulation/6/5/e)[(f)](https://www.legislation.gov.uk/uksi/1999/360/regulation/6/5/f) inserted (16.5.2017) by [The Offshore Petroleum Production and Pipe-lines (Environmental Impact Assessment and other Miscellaneous Provisions) (Amendment) Regulations 2017 (S.I. 2017/582)](https://www.legislation.gov.uk/uksi/2017/582), [regs. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1), [9(f)(iii)](https://www.legislation.gov.uk/uksi/2017/582/regulation/9/f/iii) (with [reg. 23](https://www.legislation.gov.uk/uksi/2017/582/regulation/23))
+
+[^key-bf0071ca6a5b899e4d676d386d3a013e]: Textual amendment: [Reg. 6(5A)](https://www.legislation.gov.uk/uksi/1999/360/regulation/6/5A)[(5B)](https://www.legislation.gov.uk/uksi/1999/360/regulation/6/5B) inserted (16.4.2007) by [The Offshore Petroleum Production and Pipe-lines (Assessment of Environmental Effects) (Amendment) Regulations 2007 (S.I. 2007/933)](https://www.legislation.gov.uk/uksi/2007/933), [regs. 1](https://www.legislation.gov.uk/uksi/2007/933/regulation/1), [6(c)](https://www.legislation.gov.uk/uksi/2007/933/regulation/6/c) (with [reg. 14](https://www.legislation.gov.uk/uksi/2007/933/regulation/14))
+
+[^key-cbe39b8648c37ca2ac24d0628bedd14b]: Textual amendment: [Reg. 6(6)](https://www.legislation.gov.uk/uksi/1999/360/regulation/6/6) substituted (16.4.2007) by [The Offshore Petroleum Production and Pipe-lines (Assessment of Environmental Effects) (Amendment) Regulations 2007 (S.I. 2007/933)](https://www.legislation.gov.uk/uksi/2007/933), [regs. 1](https://www.legislation.gov.uk/uksi/2007/933/regulation/1), [6(d)](https://www.legislation.gov.uk/uksi/2007/933/regulation/6/d) (with [reg. 14](https://www.legislation.gov.uk/uksi/2007/933/regulation/14))
+
+[^key-41590075d85927d4eebc3891dedcecc0]: Textual amendment: [Reg. 6(9)](https://www.legislation.gov.uk/uksi/1999/360/regulation/6/9) omitted (16.4.2007) by virtue of [The Offshore Petroleum Production and Pipe-lines (Assessment of Environmental Effects) (Amendment) Regulations 2007 (S.I. 2007/933)](https://www.legislation.gov.uk/uksi/2007/933), [regs. 1](https://www.legislation.gov.uk/uksi/2007/933/regulation/1), [6(e)](https://www.legislation.gov.uk/uksi/2007/933/regulation/6/e) (with [reg. 14](https://www.legislation.gov.uk/uksi/2007/933/regulation/14))
+
+[^key-97a73e33ed296ce8bbfe911a0058766a]: Textual amendment: [Reg. 6(10A)](https://www.legislation.gov.uk/uksi/1999/360/regulation/6/10A)[(10B)](https://www.legislation.gov.uk/uksi/1999/360/regulation/6/10B) inserted (16.5.2017) by [The Offshore Petroleum Production and Pipe-lines (Environmental Impact Assessment and other Miscellaneous Provisions) (Amendment) Regulations 2017 (S.I. 2017/582)](https://www.legislation.gov.uk/uksi/2017/582), [regs. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1), [9(g)](https://www.legislation.gov.uk/uksi/2017/582/regulation/9/g) (with [reg. 23](https://www.legislation.gov.uk/uksi/2017/582/regulation/23))
+
+[^key-8ea5dbc6d2c14fdbc89aae8e4e399b46]: Textual amendment: [Reg. 6(11)](https://www.legislation.gov.uk/uksi/1999/360/regulation/6/11)[(12)](https://www.legislation.gov.uk/uksi/1999/360/regulation/6/12) substituted for [reg. 6(11)](https://www.legislation.gov.uk/uksi/1999/360/regulation/6/11) (16.5.2017) by [The Offshore Petroleum Production and Pipe-lines (Environmental Impact Assessment and other Miscellaneous Provisions) (Amendment) Regulations 2017 (S.I. 2017/582)](https://www.legislation.gov.uk/uksi/2017/582), [regs. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1), [9(h)](https://www.legislation.gov.uk/uksi/2017/582/regulation/9/h) (with [reg. 23](https://www.legislation.gov.uk/uksi/2017/582/regulation/23))
+
+[^key-cf1198435a482773620b92efd8d0c4e0]: Textual amendment: Words in [reg. 7(1)](https://www.legislation.gov.uk/uksi/1999/360/regulation/7/1) substituted (16.5.2017) by [The Offshore Petroleum Production and Pipe-lines (Environmental Impact Assessment and other Miscellaneous Provisions) (Amendment) Regulations 2017 (S.I. 2017/582)](https://www.legislation.gov.uk/uksi/2017/582), [regs. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1), [10(a)](https://www.legislation.gov.uk/uksi/2017/582/regulation/10/a) (with [reg. 23](https://www.legislation.gov.uk/uksi/2017/582/regulation/23))
+
+[^key-2912353d99bd40785493f434b4142b4c]: Textual amendment: [Reg. 7(2)(a)(ii)](https://www.legislation.gov.uk/uksi/1999/360/regulation/7/2/a/ii) substituted (16.5.2017) by [The Offshore Petroleum Production and Pipe-lines (Environmental Impact Assessment and other Miscellaneous Provisions) (Amendment) Regulations 2017 (S.I. 2017/582)](https://www.legislation.gov.uk/uksi/2017/582), [regs. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1), [10(b)](https://www.legislation.gov.uk/uksi/2017/582/regulation/10/b) (with [reg. 23](https://www.legislation.gov.uk/uksi/2017/582/regulation/23))
+
+[^key-caab1f0cf4f151d91347ab2b4d9c6938]: Textual amendment: [Reg. 7(2A)](https://www.legislation.gov.uk/uksi/1999/360/regulation/7/2A) inserted (16.5.2017) by [The Offshore Petroleum Production and Pipe-lines (Environmental Impact Assessment and other Miscellaneous Provisions) (Amendment) Regulations 2017 (S.I. 2017/582)](https://www.legislation.gov.uk/uksi/2017/582), [regs. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1), [10(c)](https://www.legislation.gov.uk/uksi/2017/582/regulation/10/c) (with [reg. 23](https://www.legislation.gov.uk/uksi/2017/582/regulation/23))
+
+[^key-65fc2f2be1201fe20b92e9fac2fbeb13]: Textual amendment: Word in [reg. 7(3)](https://www.legislation.gov.uk/uksi/1999/360/regulation/7/3) substituted (1.10.2016) by [The Energy (Transfer of Functions, Consequential Amendments and Revocation) Regulations 2016 (S.I. 2016/912)](https://www.legislation.gov.uk/uksi/2016/912), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/912/regulation/1/1), [7(6)](https://www.legislation.gov.uk/uksi/2016/912/regulation/7/6)
+
+[^key-8609b63cc3dc0f4128d15c17ae6b3d50]: Textual amendment: Words in [reg. 8(2)(b)](https://www.legislation.gov.uk/uksi/1999/360/regulation/8/2/b) inserted (16.5.2017) by [The Offshore Petroleum Production and Pipe-lines (Environmental Impact Assessment and other Miscellaneous Provisions) (Amendment) Regulations 2017 (S.I. 2017/582)](https://www.legislation.gov.uk/uksi/2017/582), [regs. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1), [11(a)(i)](https://www.legislation.gov.uk/uksi/2017/582/regulation/11/a/i) (with [reg. 23](https://www.legislation.gov.uk/uksi/2017/582/regulation/23))
+
+[^key-eeb5e749e598947c8f0a64f9f26d7b8c]: Textual amendment: Words in [reg. 8(2)(c)](https://www.legislation.gov.uk/uksi/1999/360/regulation/8/2/c) substituted (16.5.2017) by [The Offshore Petroleum Production and Pipe-lines (Environmental Impact Assessment and other Miscellaneous Provisions) (Amendment) Regulations 2017 (S.I. 2017/582)](https://www.legislation.gov.uk/uksi/2017/582), [regs. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1), [11(a)(ii)](https://www.legislation.gov.uk/uksi/2017/582/regulation/11/a/ii) (with [reg. 23](https://www.legislation.gov.uk/uksi/2017/582/regulation/23))
+
+[^key-f66acddde955b6123bd74dbe3fbe7d7a]: Textual amendment: Word in [reg. 8(3)](https://www.legislation.gov.uk/uksi/1999/360/regulation/8/3) omitted (16.5.2017) by virtue of [The Offshore Petroleum Production and Pipe-lines (Environmental Impact Assessment and other Miscellaneous Provisions) (Amendment) Regulations 2017 (S.I. 2017/582)](https://www.legislation.gov.uk/uksi/2017/582), [regs. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1), [11(b)](https://www.legislation.gov.uk/uksi/2017/582/regulation/11/b) (with [reg. 23](https://www.legislation.gov.uk/uksi/2017/582/regulation/23))
+
+[^key-d3e21444943ee95a74c974f9e69316c0]: Textual amendment: [Reg. 9(1)](https://www.legislation.gov.uk/uksi/1999/360/regulation/9/1) substituted (16.5.2017) by [The Offshore Petroleum Production and Pipe-lines (Environmental Impact Assessment and other Miscellaneous Provisions) (Amendment) Regulations 2017 (S.I. 2017/582)](https://www.legislation.gov.uk/uksi/2017/582), [regs. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1), [12(a)](https://www.legislation.gov.uk/uksi/2017/582/regulation/12/a) (with [reg. 23](https://www.legislation.gov.uk/uksi/2017/582/regulation/23))
+
+[^key-868f8f902bff336cc669adc0bfd9e802]: Textual amendment: Word in [reg. 9(2)](https://www.legislation.gov.uk/uksi/1999/360/regulation/9/2) inserted (16.4.2007) by [The Offshore Petroleum Production and Pipe-lines (Assessment of Environmental Effects) (Amendment) Regulations 2007 (S.I. 2007/933)](https://www.legislation.gov.uk/uksi/2007/933), [regs. 1](https://www.legislation.gov.uk/uksi/2007/933/regulation/1), [7(a)](https://www.legislation.gov.uk/uksi/2007/933/regulation/7/a) (with [reg. 14](https://www.legislation.gov.uk/uksi/2007/933/regulation/14))
+
+[^key-bbb59bb817b7834df340095774bbda24]: Textual amendment: Word in [reg. 9(2)(a)](https://www.legislation.gov.uk/uksi/1999/360/regulation/9/2/a) substituted (16.5.2017) by [The Offshore Petroleum Production and Pipe-lines (Environmental Impact Assessment and other Miscellaneous Provisions) (Amendment) Regulations 2017 (S.I. 2017/582)](https://www.legislation.gov.uk/uksi/2017/582), [regs. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1), [12(c)](https://www.legislation.gov.uk/uksi/2017/582/regulation/12/c) (with [reg. 23](https://www.legislation.gov.uk/uksi/2017/582/regulation/23))
+
+[^key-82a63650a7dd0d091537e2de1ba9e415]: Textual amendment: Words in [reg. 9(2)](https://www.legislation.gov.uk/uksi/1999/360/regulation/9/2) substituted (16.5.2017) by [The Offshore Petroleum Production and Pipe-lines (Environmental Impact Assessment and other Miscellaneous Provisions) (Amendment) Regulations 2017 (S.I. 2017/582)](https://www.legislation.gov.uk/uksi/2017/582), [regs. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1), [12(b)](https://www.legislation.gov.uk/uksi/2017/582/regulation/12/b) (with [reg. 23](https://www.legislation.gov.uk/uksi/2017/582/regulation/23))
+
+[^key-777ef8cffd207f73f7fc92e6fe737400]: Textual amendment: [Reg. 9(2)(f)](https://www.legislation.gov.uk/uksi/1999/360/regulation/9/2/f) substituted (16.4.2007) by [The Offshore Petroleum Production and Pipe-lines (Assessment of Environmental Effects) (Amendment) Regulations 2007 (S.I. 2007/933)](https://www.legislation.gov.uk/uksi/2007/933), [regs. 1](https://www.legislation.gov.uk/uksi/2007/933/regulation/1), [7(b)](https://www.legislation.gov.uk/uksi/2007/933/regulation/7/b) (with [reg. 14](https://www.legislation.gov.uk/uksi/2007/933/regulation/14))
+
+[^key-bf632e615b1d3bd62db533af459c3561]: Textual amendment: [Reg. 9(2A)](https://www.legislation.gov.uk/uksi/1999/360/regulation/9/2A) inserted (16.4.2007) by [The Offshore Petroleum Production and Pipe-lines (Assessment of Environmental Effects) (Amendment) Regulations 2007 (S.I. 2007/933)](https://www.legislation.gov.uk/uksi/2007/933), [regs. 1](https://www.legislation.gov.uk/uksi/2007/933/regulation/1), [7(c)](https://www.legislation.gov.uk/uksi/2007/933/regulation/7/c) (with [reg. 14](https://www.legislation.gov.uk/uksi/2007/933/regulation/14))
+
+[^key-fce964c779b2fb8e085b039577e67037]: Textual amendment: [Reg. 9(2A)(b)](https://www.legislation.gov.uk/uksi/1999/360/regulation/9/2A/b) substituted (16.5.2017) by [The Offshore Petroleum Production and Pipe-lines (Environmental Impact Assessment and other Miscellaneous Provisions) (Amendment) Regulations 2017 (S.I. 2017/582)](https://www.legislation.gov.uk/uksi/2017/582), [regs. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1), [12(d)](https://www.legislation.gov.uk/uksi/2017/582/regulation/12/d) (with [reg. 23](https://www.legislation.gov.uk/uksi/2017/582/regulation/23))
+
+[^key-eaee488e958022dea37f9e1833c125ce]: Textual amendment: Words in [reg. 9(3)](https://www.legislation.gov.uk/uksi/1999/360/regulation/9/3) inserted (16.5.2017) by [The Offshore Petroleum Production and Pipe-lines (Environmental Impact Assessment and other Miscellaneous Provisions) (Amendment) Regulations 2017 (S.I. 2017/582)](https://www.legislation.gov.uk/uksi/2017/582), [regs. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1), [12(e)](https://www.legislation.gov.uk/uksi/2017/582/regulation/12/e) (with [reg. 23](https://www.legislation.gov.uk/uksi/2017/582/regulation/23))
+
+[^key-5c5357749616bc2963f50179f414593a]: Textual amendment: Words in [reg. 9(4)](https://www.legislation.gov.uk/uksi/1999/360/regulation/9/4) substituted (16.5.2017) by [The Offshore Petroleum Production and Pipe-lines (Environmental Impact Assessment and other Miscellaneous Provisions) (Amendment) Regulations 2017 (S.I. 2017/582)](https://www.legislation.gov.uk/uksi/2017/582), [regs. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1), [12(f)](https://www.legislation.gov.uk/uksi/2017/582/regulation/12/f) (with [reg. 23](https://www.legislation.gov.uk/uksi/2017/582/regulation/23))
+
+[^key-86dfea658002a7c9fac057d67d40c397]: Textual amendment: Words in [reg. 10(2)](https://www.legislation.gov.uk/uksi/1999/360/regulation/10/2) inserted (16.4.2007) by [The Offshore Petroleum Production and Pipe-lines (Assessment of Environmental Effects) (Amendment) Regulations 2007 (S.I. 2007/933)](https://www.legislation.gov.uk/uksi/2007/933), [regs. 1](https://www.legislation.gov.uk/uksi/2007/933/regulation/1), [8](https://www.legislation.gov.uk/uksi/2007/933/regulation/8) (with [reg. 14](https://www.legislation.gov.uk/uksi/2007/933/regulation/14))
+
+[^key-6003ba09f70c7f33ab303a61f4cd1270]: Textual amendment: Word in [reg. 10(2)](https://www.legislation.gov.uk/uksi/1999/360/regulation/10/2) substituted (16.5.2017) by [The Offshore Petroleum Production and Pipe-lines (Environmental Impact Assessment and other Miscellaneous Provisions) (Amendment) Regulations 2017 (S.I. 2017/582)](https://www.legislation.gov.uk/uksi/2017/582), [regs. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1), [13(a)(i)](https://www.legislation.gov.uk/uksi/2017/582/regulation/13/a/i) (with [reg. 23](https://www.legislation.gov.uk/uksi/2017/582/regulation/23))
+
+[^key-8c3a189930db4a93c3e6a2b46ec74458]: Textual amendment: Word in [reg. 10(2)(a)](https://www.legislation.gov.uk/uksi/1999/360/regulation/10/2/a) substituted (16.5.2017) by [The Offshore Petroleum Production and Pipe-lines (Environmental Impact Assessment and other Miscellaneous Provisions) (Amendment) Regulations 2017 (S.I. 2017/582)](https://www.legislation.gov.uk/uksi/2017/582), [regs. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1), [13(a)(iii)](https://www.legislation.gov.uk/uksi/2017/582/regulation/13/a/iii) (with [reg. 23](https://www.legislation.gov.uk/uksi/2017/582/regulation/23))
+
+[^key-28b003751db0db5bac94b3dbf6acd909]: Textual amendment: Words in [reg. 10(2)](https://www.legislation.gov.uk/uksi/1999/360/regulation/10/2) substituted (16.5.2017) by [The Offshore Petroleum Production and Pipe-lines (Environmental Impact Assessment and other Miscellaneous Provisions) (Amendment) Regulations 2017 (S.I. 2017/582)](https://www.legislation.gov.uk/uksi/2017/582), [regs. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1), [13(a)(ii)](https://www.legislation.gov.uk/uksi/2017/582/regulation/13/a/ii) (with [reg. 23](https://www.legislation.gov.uk/uksi/2017/582/regulation/23))
+
+[^key-f50f9c49472116387b10a4ebd5df2c45]: Textual amendment: Word in [reg. 10(2)(c)](https://www.legislation.gov.uk/uksi/1999/360/regulation/10/2/c) omitted (16.5.2017) by virtue of [The Offshore Petroleum Production and Pipe-lines (Environmental Impact Assessment and other Miscellaneous Provisions) (Amendment) Regulations 2017 (S.I. 2017/582)](https://www.legislation.gov.uk/uksi/2017/582), [regs. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1), [13(a)(iv)](https://www.legislation.gov.uk/uksi/2017/582/regulation/13/a/iv) (with [reg. 23](https://www.legislation.gov.uk/uksi/2017/582/regulation/23))
+
+[^key-2c84664a4a2aff5098559deeb001f146]: Textual amendment: [Reg. 10(2)(e)](https://www.legislation.gov.uk/uksi/1999/360/regulation/10/2/e) and word inserted (16.5.2017) by [The Offshore Petroleum Production and Pipe-lines (Environmental Impact Assessment and other Miscellaneous Provisions) (Amendment) Regulations 2017 (S.I. 2017/582)](https://www.legislation.gov.uk/uksi/2017/582), [regs. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1), [13(a)(v)](https://www.legislation.gov.uk/uksi/2017/582/regulation/13/a/v) (with [reg. 23](https://www.legislation.gov.uk/uksi/2017/582/regulation/23))
+
+[^key-f684e58a7d05c26300434ee0c06f7bbe]: Textual amendment: Words in [reg. 10(3)](https://www.legislation.gov.uk/uksi/1999/360/regulation/10/3) inserted (16.5.2017) by [The Offshore Petroleum Production and Pipe-lines (Environmental Impact Assessment and other Miscellaneous Provisions) (Amendment) Regulations 2017 (S.I. 2017/582)](https://www.legislation.gov.uk/uksi/2017/582), [regs. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1), [13(b)](https://www.legislation.gov.uk/uksi/2017/582/regulation/13/b) (with [reg. 23](https://www.legislation.gov.uk/uksi/2017/582/regulation/23))
+
+[^key-1d5ec49ecbfea6decef534c950632905]: Textual amendment: [Reg. 10A](https://www.legislation.gov.uk/uksi/1999/360/regulation/10A) inserted (23.4.2020) by [The Offshore Petroleum Production and Pipe-lines (Assessment of Environmental Effects) (Coronavirus) (Amendment) Regulations 2020 (S.I. 2020/448)](https://www.legislation.gov.uk/uksi/2020/448), [regs. 1](https://www.legislation.gov.uk/uksi/2020/448/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/448/regulation/3)
+
+[^key-4985bd6362eeaa7ee3ac99bd0cf3f229]: Textual amendment: Word in [reg. 11](https://www.legislation.gov.uk/uksi/1999/360/regulation/11) heading substituted (1.10.2016) by [The Energy (Transfer of Functions, Consequential Amendments and Revocation) Regulations 2016 (S.I. 2016/912)](https://www.legislation.gov.uk/uksi/2016/912), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/912/regulation/1/1), [7(7)(a)](https://www.legislation.gov.uk/uksi/2016/912/regulation/7/7/a)
+
+[^key-a49236a394e09fd251454e117388f11c]: Textual amendment: [Reg. 11(1)](https://www.legislation.gov.uk/uksi/1999/360/regulation/11/1) substituted (1.10.2016) by [The Energy (Transfer of Functions, Consequential Amendments and Revocation) Regulations 2016 (S.I. 2016/912)](https://www.legislation.gov.uk/uksi/2016/912), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/912/regulation/1/1), [7(7)(b)](https://www.legislation.gov.uk/uksi/2016/912/regulation/7/7/b)
+
+[^key-d6b358773462bf62bf7985d824493b4f]: Textual amendment: Words in [reg. 11(2)](https://www.legislation.gov.uk/uksi/1999/360/regulation/11/2) substituted (1.10.2016) by [The Energy (Transfer of Functions, Consequential Amendments and Revocation) Regulations 2016 (S.I. 2016/912)](https://www.legislation.gov.uk/uksi/2016/912), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/912/regulation/1/1), [7(7)(c)(i)](https://www.legislation.gov.uk/uksi/2016/912/regulation/7/7/c/i)
+
+[^key-997c6b17e39e8a937d60d19fd70c4efe]: Textual amendment: [Reg. 11(2)(a)](https://www.legislation.gov.uk/uksi/1999/360/regulation/11/2/a) substituted (1.10.2016) by [The Energy (Transfer of Functions, Consequential Amendments and Revocation) Regulations 2016 (S.I. 2016/912)](https://www.legislation.gov.uk/uksi/2016/912), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/912/regulation/1/1), [7(7)(c)(ii)](https://www.legislation.gov.uk/uksi/2016/912/regulation/7/7/c/ii)
+
+[^key-e8e577f0fb79f8dde8a54e13c139101a]: Textual amendment: Words in [reg. 11(2)(b)(iii)](https://www.legislation.gov.uk/uksi/1999/360/regulation/11/2/b/iii) substituted (16.5.2017) by [The Offshore Petroleum Production and Pipe-lines (Environmental Impact Assessment and other Miscellaneous Provisions) (Amendment) Regulations 2017 (S.I. 2017/582)](https://www.legislation.gov.uk/uksi/2017/582), [regs. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1), [14(a)](https://www.legislation.gov.uk/uksi/2017/582/regulation/14/a) (with [reg. 23](https://www.legislation.gov.uk/uksi/2017/582/regulation/23))
+
+[^key-302021e029939de3c3d9fd5176b8383a]: Textual amendment: Word in [reg. 11(4)](https://www.legislation.gov.uk/uksi/1999/360/regulation/11/4) substituted (1.10.2016) by [The Energy (Transfer of Functions, Consequential Amendments and Revocation) Regulations 2016 (S.I. 2016/912)](https://www.legislation.gov.uk/uksi/2016/912), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/912/regulation/1/1), [7(7)(d)(i)](https://www.legislation.gov.uk/uksi/2016/912/regulation/7/7/d/i)
+
+[^key-73804beb22e991dcbda6fdebd570ba0a]: Textual amendment: Words in [reg. 11(4)(a)](https://www.legislation.gov.uk/uksi/1999/360/regulation/11/4/a) substituted (1.10.2016) by [The Energy (Transfer of Functions, Consequential Amendments and Revocation) Regulations 2016 (S.I. 2016/912)](https://www.legislation.gov.uk/uksi/2016/912), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/912/regulation/1/1), [7(7)(d)(ii)](https://www.legislation.gov.uk/uksi/2016/912/regulation/7/7/d/ii)
+
+[^key-d898f0954c3566db63967dfa68f32a6b]: Textual amendment: Words in [reg. 11(4)(b)](https://www.legislation.gov.uk/uksi/1999/360/regulation/11/4/b) substituted (1.10.2016) by [The Energy (Transfer of Functions, Consequential Amendments and Revocation) Regulations 2016 (S.I. 2016/912)](https://www.legislation.gov.uk/uksi/2016/912), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/912/regulation/1/1), [7(7)(d)(iii)](https://www.legislation.gov.uk/uksi/2016/912/regulation/7/7/d/iii)
+
+[^key-68a5a2d3da6f280f6fc37ccb9cc13b3c]: Textual amendment: Words in [reg. 11(4)](https://www.legislation.gov.uk/uksi/1999/360/regulation/11/4) substituted (1.10.2016) by [The Energy (Transfer of Functions, Consequential Amendments and Revocation) Regulations 2016 (S.I. 2016/912)](https://www.legislation.gov.uk/uksi/2016/912), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/912/regulation/1/1), [7(7)](https://www.legislation.gov.uk/uksi/2016/912/regulation/7/7/aa)[(d)(iv)(aa)](https://www.legislation.gov.uk/uksi/2016/912/regulation/7/7/d/iv)
+
+[^key-d576d59ec636fe79f10c80c7cfc4414b]: Textual amendment: Words in [reg. 11(4)](https://www.legislation.gov.uk/uksi/1999/360/regulation/11/4) substituted (1.10.2016) by [The Energy (Transfer of Functions, Consequential Amendments and Revocation) Regulations 2016 (S.I. 2016/912)](https://www.legislation.gov.uk/uksi/2016/912), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/912/regulation/1/1), [7(7)](https://www.legislation.gov.uk/uksi/2016/912/regulation/7/7/bb)[(d)(iv)(bb)](https://www.legislation.gov.uk/uksi/2016/912/regulation/7/7/d/iv)
+
+[^key-da2555dc44c10912e8f17598bd4f7f52]: Textual amendment: Words in [reg. 11(4)](https://www.legislation.gov.uk/uksi/1999/360/regulation/11/4) substituted (1.10.2016) by [The Energy (Transfer of Functions, Consequential Amendments and Revocation) Regulations 2016 (S.I. 2016/912)](https://www.legislation.gov.uk/uksi/2016/912), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/912/regulation/1/1), [7(7)](https://www.legislation.gov.uk/uksi/2016/912/regulation/7/7/cc)[(d)(iv)(cc)](https://www.legislation.gov.uk/uksi/2016/912/regulation/7/7/d/iv)
+
+[^key-73a5159a78c2769112b3bd54cc75cf52]: Textual amendment: [Reg. 11(5)(a)](https://www.legislation.gov.uk/uksi/1999/360/regulation/11/5/a) substituted (1.10.2016) by [The Energy (Transfer of Functions, Consequential Amendments and Revocation) Regulations 2016 (S.I. 2016/912)](https://www.legislation.gov.uk/uksi/2016/912), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/912/regulation/1/1), [7(7)(e)](https://www.legislation.gov.uk/uksi/2016/912/regulation/7/7/e)
+
+[^key-1ac1ce42364ac69dd3f13e5ed296ed4a]: Textual amendment: [Reg. 11(5A)](https://www.legislation.gov.uk/uksi/1999/360/regulation/11/5A) inserted (1.10.2016) by [The Energy (Transfer of Functions, Consequential Amendments and Revocation) Regulations 2016 (S.I. 2016/912)](https://www.legislation.gov.uk/uksi/2016/912), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/912/regulation/1/1), [7(7)(f)](https://www.legislation.gov.uk/uksi/2016/912/regulation/7/7/f)
+
+[^key-2108d89d4c8bd82a71df801fe06c1677]: Textual amendment: [Reg. 11(6)](https://www.legislation.gov.uk/uksi/1999/360/regulation/11/6) substituted (16.5.2017) by [The Offshore Petroleum Production and Pipe-lines (Environmental Impact Assessment and other Miscellaneous Provisions) (Amendment) Regulations 2017 (S.I. 2017/582)](https://www.legislation.gov.uk/uksi/2017/582), [regs. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1), [14(b)](https://www.legislation.gov.uk/uksi/2017/582/regulation/14/b) (with [reg. 23](https://www.legislation.gov.uk/uksi/2017/582/regulation/23))
+
+[^key-c1082557b53816cffc95e96a41886cf4]: Textual amendment: Words in [reg. 11(7)](https://www.legislation.gov.uk/uksi/1999/360/regulation/11/7) substituted (16.5.2017) by [The Offshore Petroleum Production and Pipe-lines (Environmental Impact Assessment and other Miscellaneous Provisions) (Amendment) Regulations 2017 (S.I. 2017/582)](https://www.legislation.gov.uk/uksi/2017/582), [regs. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1), [14(c)(i)](https://www.legislation.gov.uk/uksi/2017/582/regulation/14/c/i) (with [reg. 23](https://www.legislation.gov.uk/uksi/2017/582/regulation/23))
+
+[^key-b2d00ab5374a6be5b5bb139440039af9]: Textual amendment: Word in [reg. 11(7)](https://www.legislation.gov.uk/uksi/1999/360/regulation/11/7) omitted (31.12.2020) by virtue of [The Pipe-lines, Petroleum, Electricity Works and Oil Stocking (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1325)](https://www.legislation.gov.uk/uksi/2018/1325), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1325/regulation/1/1), [3(8)](https://www.legislation.gov.uk/uksi/2018/1325/regulation/3/8); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-b0da857cb1811700720c7e760126a7ba]: Textual amendment: Words in [reg. 11(7)](https://www.legislation.gov.uk/uksi/1999/360/regulation/11/7) substituted (1.10.2016) by [The Energy (Transfer of Functions, Consequential Amendments and Revocation) Regulations 2016 (S.I. 2016/912)](https://www.legislation.gov.uk/uksi/2016/912), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/912/regulation/1/1), [7(7)](https://www.legislation.gov.uk/uksi/2016/912/regulation/7/7/aa)[(h)(i)(aa)](https://www.legislation.gov.uk/uksi/2016/912/regulation/7/7/h/i)
+
+[^key-8d5cb6a95a281c1da39da45565f1f317]: Textual amendment: Words in [reg. 11(7)](https://www.legislation.gov.uk/uksi/1999/360/regulation/11/7) substituted (1.10.2016) by [The Energy (Transfer of Functions, Consequential Amendments and Revocation) Regulations 2016 (S.I. 2016/912)](https://www.legislation.gov.uk/uksi/2016/912), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/912/regulation/1/1), [7(7)](https://www.legislation.gov.uk/uksi/2016/912/regulation/7/7/bb)[(h)(i)(bb)](https://www.legislation.gov.uk/uksi/2016/912/regulation/7/7/h/i)
+
+[^key-3f1706107dd86143cb513be7d733d96a]: Textual amendment: Words in [reg. 11(7)](https://www.legislation.gov.uk/uksi/1999/360/regulation/11/7) substituted (16.5.2017) by [The Offshore Petroleum Production and Pipe-lines (Environmental Impact Assessment and other Miscellaneous Provisions) (Amendment) Regulations 2017 (S.I. 2017/582)](https://www.legislation.gov.uk/uksi/2017/582), [regs. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1), [14(c)(ii)](https://www.legislation.gov.uk/uksi/2017/582/regulation/14/c/ii) (with [reg. 23](https://www.legislation.gov.uk/uksi/2017/582/regulation/23))
+
+[^key-18c337db107076c6fb174643782bf16b]: Textual amendment: Words in [reg. 11(7)(b)](https://www.legislation.gov.uk/uksi/1999/360/regulation/11/7/b) omitted (1.10.2016) by virtue of [The Energy (Transfer of Functions, Consequential Amendments and Revocation) Regulations 2016 (S.I. 2016/912)](https://www.legislation.gov.uk/uksi/2016/912), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/912/regulation/1/1), [7(7)(h)(ii)](https://www.legislation.gov.uk/uksi/2016/912/regulation/7/7/h/ii)
+
+[^key-48fd72233fb7004a7050cfc9bf7c553a]: Textual amendment: Words in [reg. 11(7)(d)](https://www.legislation.gov.uk/uksi/1999/360/regulation/11/7/d) inserted (16.5.2017) by [The Offshore Petroleum Production and Pipe-lines (Environmental Impact Assessment and other Miscellaneous Provisions) (Amendment) Regulations 2017 (S.I. 2017/582)](https://www.legislation.gov.uk/uksi/2017/582), [regs. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1), [14(c)(iii)](https://www.legislation.gov.uk/uksi/2017/582/regulation/14/c/iii) (with [reg. 23](https://www.legislation.gov.uk/uksi/2017/582/regulation/23))
+
+[^key-172b90676db84df0db6a8e00c3d024a9]: Textual amendment: Words in [reg. 11(8)](https://www.legislation.gov.uk/uksi/1999/360/regulation/11/8) substituted (16.5.2017) by [The Offshore Petroleum Production and Pipe-lines (Environmental Impact Assessment and other Miscellaneous Provisions) (Amendment) Regulations 2017 (S.I. 2017/582)](https://www.legislation.gov.uk/uksi/2017/582), [regs. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1), [14(d)(i)](https://www.legislation.gov.uk/uksi/2017/582/regulation/14/d/i) (with [reg. 23](https://www.legislation.gov.uk/uksi/2017/582/regulation/23))
+
+[^key-ded8ee3dd582b8c2f2aee7a1f4d1f5e6]: Textual amendment: Word in [reg. 11(8)](https://www.legislation.gov.uk/uksi/1999/360/regulation/11/8) substituted (1.10.2016) by [The Energy (Transfer of Functions, Consequential Amendments and Revocation) Regulations 2016 (S.I. 2016/912)](https://www.legislation.gov.uk/uksi/2016/912), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/912/regulation/1/1), [7(7)(i)(iv)](https://www.legislation.gov.uk/uksi/2016/912/regulation/7/7/i/iv)
+
+[^key-9dcc65ea6b0a15e2f781a19026fc9c2c]: Textual amendment: Words in [reg. 11(8)](https://www.legislation.gov.uk/uksi/1999/360/regulation/11/8) omitted (16.5.2017) by virtue of [The Offshore Petroleum Production and Pipe-lines (Environmental Impact Assessment and other Miscellaneous Provisions) (Amendment) Regulations 2017 (S.I. 2017/582)](https://www.legislation.gov.uk/uksi/2017/582), [regs. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1), [14(d)(ii)](https://www.legislation.gov.uk/uksi/2017/582/regulation/14/d/ii) (with [reg. 23](https://www.legislation.gov.uk/uksi/2017/582/regulation/23))
+
+[^key-35f41c60ebb6517139768bb8ec8c49f3]: Textual amendment: [Reg. 11(8A)-(8F)](https://www.legislation.gov.uk/uksi/1999/360/regulation/11/8A) inserted (16.5.2017) by [The Offshore Petroleum Production and Pipe-lines (Environmental Impact Assessment and other Miscellaneous Provisions) (Amendment) Regulations 2017 (S.I. 2017/582)](https://www.legislation.gov.uk/uksi/2017/582), [regs. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1), [14(e)](https://www.legislation.gov.uk/uksi/2017/582/regulation/14/e) (with [reg. 23](https://www.legislation.gov.uk/uksi/2017/582/regulation/23))
+
+[^key-a98d9cbe83c3e4db8bf4585e5957abd4]: Textual amendment: Words in [reg. 11(8E)(b)](https://www.legislation.gov.uk/uksi/1999/360/regulation/11/8E/b) substituted (31.12.2020) by [The Pipe-lines, Petroleum, Electricity Works and Oil Stocking (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1325)](https://www.legislation.gov.uk/uksi/2018/1325), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1325/regulation/1/1), [3(5)](https://www.legislation.gov.uk/uksi/2018/1325/regulation/3/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-6dd4d1e2e48229d74b259f0a2f0f66fe]: Textual amendment: [Reg. 11(9)](https://www.legislation.gov.uk/uksi/1999/360/regulation/11/9) substituted (16.5.2017) by [The Offshore Petroleum Production and Pipe-lines (Environmental Impact Assessment and other Miscellaneous Provisions) (Amendment) Regulations 2017 (S.I. 2017/582)](https://www.legislation.gov.uk/uksi/2017/582), [regs. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1), [14(f)](https://www.legislation.gov.uk/uksi/2017/582/regulation/14/f) (with [reg. 23](https://www.legislation.gov.uk/uksi/2017/582/regulation/23))
+
+[^key-b6d1662ba578adc7c293bf0699cf932e]: Textual amendment: [Reg. 11(9A)](https://www.legislation.gov.uk/uksi/1999/360/regulation/11/9A) substituted (16.5.2017) by [The Offshore Petroleum Production and Pipe-lines (Environmental Impact Assessment and other Miscellaneous Provisions) (Amendment) Regulations 2017 (S.I. 2017/582)](https://www.legislation.gov.uk/uksi/2017/582), [regs. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1), [14(g)](https://www.legislation.gov.uk/uksi/2017/582/regulation/14/g) (with [reg. 23](https://www.legislation.gov.uk/uksi/2017/582/regulation/23))
+
+[^key-908a942a2bdb774cde7ffcd91f6f039f]: Textual amendment: Word in [reg. 12(1)](https://www.legislation.gov.uk/uksi/1999/360/regulation/12/1) omitted (31.12.2020) by virtue of [The Pipe-lines, Petroleum, Electricity Works and Oil Stocking (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1325)](https://www.legislation.gov.uk/uksi/2018/1325), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1325/regulation/1/1), [3(8)](https://www.legislation.gov.uk/uksi/2018/1325/regulation/3/8); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-ac495000c590fbf641469eb877c73de6]: Textual amendment: Words in [reg. 12](https://www.legislation.gov.uk/uksi/1999/360/regulation/12) substituted (16.5.2017) by [The Offshore Petroleum Production and Pipe-lines (Environmental Impact Assessment and other Miscellaneous Provisions) (Amendment) Regulations 2017 (S.I. 2017/582)](https://www.legislation.gov.uk/uksi/2017/582), [regs. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1), [15(a)](https://www.legislation.gov.uk/uksi/2017/582/regulation/15/a) (with [reg. 23](https://www.legislation.gov.uk/uksi/2017/582/regulation/23))
+
+[^key-117cbcc727e61c41074738e7ba239206]: Textual amendment: Word in [reg. 12(2)](https://www.legislation.gov.uk/uksi/1999/360/regulation/12/2) omitted (31.12.2020) by virtue of [The Pipe-lines, Petroleum, Electricity Works and Oil Stocking (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1325)](https://www.legislation.gov.uk/uksi/2018/1325), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1325/regulation/1/1), [3(8)](https://www.legislation.gov.uk/uksi/2018/1325/regulation/3/8); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-45c0678e8303446df4bf4a769e611919]: Textual amendment: Word in [reg. 12(2)(a)](https://www.legislation.gov.uk/uksi/1999/360/regulation/12/2/a) substituted (1.10.2016) by [The Energy (Transfer of Functions, Consequential Amendments and Revocation) Regulations 2016 (S.I. 2016/912)](https://www.legislation.gov.uk/uksi/2016/912), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/912/regulation/1/1), [7(8)(a)](https://www.legislation.gov.uk/uksi/2016/912/regulation/7/8/a)
+
+[^key-395099dd1d3d9206ac9ffcfcafb5d947]: Textual amendment: Word in [reg. 12(2)(a)](https://www.legislation.gov.uk/uksi/1999/360/regulation/12/2/a) substituted (1.10.2016) by [The Energy (Transfer of Functions, Consequential Amendments and Revocation) Regulations 2016 (S.I. 2016/912)](https://www.legislation.gov.uk/uksi/2016/912), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/912/regulation/1/1), [7(8)(b)](https://www.legislation.gov.uk/uksi/2016/912/regulation/7/8/b)
+
+[^key-2dac9c2ae42cfc30ba488600a0df34a2]: Textual amendment: Words in [reg. 12(2)(a)](https://www.legislation.gov.uk/uksi/1999/360/regulation/12/2/a) substituted (16.4.2007) by [The Offshore Petroleum Production and Pipe-lines (Assessment of Environmental Effects) (Amendment) Regulations 2007 (S.I. 2007/933)](https://www.legislation.gov.uk/uksi/2007/933), [regs. 1](https://www.legislation.gov.uk/uksi/2007/933/regulation/1), [10(a)](https://www.legislation.gov.uk/uksi/2007/933/regulation/10/a) (with [reg. 14](https://www.legislation.gov.uk/uksi/2007/933/regulation/14))
+
+[^key-1ad28aa3c1f460d770458b555a887628]: Textual amendment: Words in [reg. 12(2)(c)](https://www.legislation.gov.uk/uksi/1999/360/regulation/12/2/c) substituted (16.4.2007) by [The Offshore Petroleum Production and Pipe-lines (Assessment of Environmental Effects) (Amendment) Regulations 2007 (S.I. 2007/933)](https://www.legislation.gov.uk/uksi/2007/933), [regs. 1](https://www.legislation.gov.uk/uksi/2007/933/regulation/1), [10(b)](https://www.legislation.gov.uk/uksi/2007/933/regulation/10/b) (with [reg. 14](https://www.legislation.gov.uk/uksi/2007/933/regulation/14))
+
+[^key-5d943e117b817096db8bcd072cb32f09]: Textual amendment: Words in [reg. 12(2)(c)](https://www.legislation.gov.uk/uksi/1999/360/regulation/12/2/c) inserted (16.5.2017) by [The Offshore Petroleum Production and Pipe-lines (Environmental Impact Assessment and other Miscellaneous Provisions) (Amendment) Regulations 2017 (S.I. 2017/582)](https://www.legislation.gov.uk/uksi/2017/582), [regs. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1), [15(b)](https://www.legislation.gov.uk/uksi/2017/582/regulation/15/b) (with [reg. 23](https://www.legislation.gov.uk/uksi/2017/582/regulation/23))
+
+[^key-8062e46823e784afb883335b0f426ac4]: Textual amendment: [Reg. 12(3)](https://www.legislation.gov.uk/uksi/1999/360/regulation/12/3) omitted (16.5.2017) by virtue of [The Offshore Petroleum Production and Pipe-lines (Environmental Impact Assessment and other Miscellaneous Provisions) (Amendment) Regulations 2017 (S.I. 2017/582)](https://www.legislation.gov.uk/uksi/2017/582), [regs. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1), [15(c)](https://www.legislation.gov.uk/uksi/2017/582/regulation/15/c) (with [reg. 23](https://www.legislation.gov.uk/uksi/2017/582/regulation/23))
+
+[^key-2a25f52d0ec571137c992d8be73e59c0]: Textual amendment: [Reg. 12(5)](https://www.legislation.gov.uk/uksi/1999/360/regulation/12/5) inserted (16.5.2017) by [The Offshore Petroleum Production and Pipe-lines (Environmental Impact Assessment and other Miscellaneous Provisions) (Amendment) Regulations 2017 (S.I. 2017/582)](https://www.legislation.gov.uk/uksi/2017/582), [regs. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1), [15(d)](https://www.legislation.gov.uk/uksi/2017/582/regulation/15/d) (with [reg. 23](https://www.legislation.gov.uk/uksi/2017/582/regulation/23))
+
+[^key-8330c40099f098405350fedbd6f217c8]: Textual amendment: [Reg. 12A](https://www.legislation.gov.uk/uksi/1999/360/regulation/12A) inserted (16.4.2007) by [The Offshore Petroleum Production and Pipe-lines (Assessment of Environmental Effects) (Amendment) Regulations 2007 (S.I. 2007/933)](https://www.legislation.gov.uk/uksi/2007/933), [regs. 1](https://www.legislation.gov.uk/uksi/2007/933/regulation/1), [11](https://www.legislation.gov.uk/uksi/2007/933/regulation/11) (with [reg. 14](https://www.legislation.gov.uk/uksi/2007/933/regulation/14))
+
+[^key-5e8aa7fe3accef6b7c5a41629c55b071]: Textual amendment: Word in [reg. 12A](https://www.legislation.gov.uk/uksi/1999/360/regulation/12A) heading omitted (31.12.2020) by virtue of [The Pipe-lines, Petroleum, Electricity Works and Oil Stocking (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1325)](https://www.legislation.gov.uk/uksi/2018/1325), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1325/regulation/1/1), [3(8)](https://www.legislation.gov.uk/uksi/2018/1325/regulation/3/8); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-2ad393381217e67c1a86d390829964aa]: Textual amendment: Words in [reg. 12A(1)](https://www.legislation.gov.uk/uksi/1999/360/regulation/12A/1) omitted (31.12.2020) by virtue of [The Pipe-lines, Petroleum, Electricity Works and Oil Stocking (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1325)](https://www.legislation.gov.uk/uksi/2018/1325), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1325/regulation/1/1), [3(9)](https://www.legislation.gov.uk/uksi/2018/1325/regulation/3/9); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-64e1af71d2ebe6aeeea27fbf256adb7e]: Textual amendment: Words in [reg. 12A(1)](https://www.legislation.gov.uk/uksi/1999/360/regulation/12A/1) substituted (31.12.2020) by [The Pipe-lines, Petroleum, Electricity Works and Oil Stocking (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1325)](https://www.legislation.gov.uk/uksi/2018/1325), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1325/regulation/1/1), [3(7)](https://www.legislation.gov.uk/uksi/2018/1325/regulation/3/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-ca97d14fccc980372eb812089febe2bb]: Textual amendment: Words in [reg. 12A(1)(b)](https://www.legislation.gov.uk/uksi/1999/360/regulation/12A/1/b) omitted (31.12.2020) by virtue of [The Pipe-lines, Petroleum, Electricity Works and Oil Stocking (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1325)](https://www.legislation.gov.uk/uksi/2018/1325), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1325/regulation/1/1), [3(10)](https://www.legislation.gov.uk/uksi/2018/1325/regulation/3/10); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-eed359b4715eabb57bf10357bcb1c45a]: Textual amendment: Words in [reg. 12A(1)(b)](https://www.legislation.gov.uk/uksi/1999/360/regulation/12A/1/b) inserted (16.5.2017) by [The Offshore Petroleum Production and Pipe-lines (Environmental Impact Assessment and other Miscellaneous Provisions) (Amendment) Regulations 2017 (S.I. 2017/582)](https://www.legislation.gov.uk/uksi/2017/582), [regs. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1), [16(a)](https://www.legislation.gov.uk/uksi/2017/582/regulation/16/a) (with [reg. 23](https://www.legislation.gov.uk/uksi/2017/582/regulation/23))
+
+[^key-3f8b178d595c3450d663b0f44bbb026e]: Textual amendment: Words in [reg. 12A(2)(a)](https://www.legislation.gov.uk/uksi/1999/360/regulation/12A/2/a) substituted (16.5.2017) by [The Offshore Petroleum Production and Pipe-lines (Environmental Impact Assessment and other Miscellaneous Provisions) (Amendment) Regulations 2017 (S.I. 2017/582)](https://www.legislation.gov.uk/uksi/2017/582), [regs. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1), [16(b)](https://www.legislation.gov.uk/uksi/2017/582/regulation/16/b) (with [reg. 23](https://www.legislation.gov.uk/uksi/2017/582/regulation/23))
+
+[^key-6b04596cbc34cd401c839f215a73cef2]: Textual amendment: [Reg. 13](https://www.legislation.gov.uk/uksi/1999/360/regulation/13) substituted (16.5.2017) by [The Offshore Petroleum Production and Pipe-lines (Environmental Impact Assessment and other Miscellaneous Provisions) (Amendment) Regulations 2017 (S.I. 2017/582)](https://www.legislation.gov.uk/uksi/2017/582), [regs. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1), [17](https://www.legislation.gov.uk/uksi/2017/582/regulation/17) (with [reg. 23](https://www.legislation.gov.uk/uksi/2017/582/regulation/23))
+
+[^key-29bfad5425e3863c3f0de7314d47a9f9]: Textual amendment: Word in [reg. 13(4)(a)](https://www.legislation.gov.uk/uksi/1999/360/regulation/13/4/a) inserted (31.12.2020) by [The Pipe-lines, Petroleum, Electricity Works and Oil Stocking (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1325)](https://www.legislation.gov.uk/uksi/2018/1325), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1325/regulation/1/1), [3(11)(a)](https://www.legislation.gov.uk/uksi/2018/1325/regulation/3/11/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-9d34c69e7292f89791ab0f943458650b]: Textual amendment: Words in [reg. 13(4)(b)](https://www.legislation.gov.uk/uksi/1999/360/regulation/13/4/b) substituted (31.12.2020) by [The Pipe-lines, Petroleum, Electricity Works and Oil Stocking (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1325)](https://www.legislation.gov.uk/uksi/2018/1325), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1325/regulation/1/1), [3(7)](https://www.legislation.gov.uk/uksi/2018/1325/regulation/3/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-2f6ded3c659a01c7e7391ff470630b4f]: Textual amendment: [Reg. 13(4)(c)](https://www.legislation.gov.uk/uksi/1999/360/regulation/13/4/c) and word omitted (31.12.2020) by virtue of [The Pipe-lines, Petroleum, Electricity Works and Oil Stocking (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1325)](https://www.legislation.gov.uk/uksi/2018/1325), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1325/regulation/1/1), [3(11)(b)](https://www.legislation.gov.uk/uksi/2018/1325/regulation/3/11/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c16493491]: Marginal citation: [S.I. 1987/2197](https://www.legislation.gov.uk/uksi/1987/2197).
+
+[^key-410653a89ba34cb16749f89d13c29529]: Textual amendment: Words in [reg. 16(1)](https://www.legislation.gov.uk/uksi/1999/360/regulation/16/1) substituted (16.4.2007) by [The Offshore Petroleum Production and Pipe-lines (Assessment of Environmental Effects) (Amendment) Regulations 2007 (S.I. 2007/933)](https://www.legislation.gov.uk/uksi/2007/933), [regs. 1](https://www.legislation.gov.uk/uksi/2007/933/regulation/1), [13(a)(i)](https://www.legislation.gov.uk/uksi/2007/933/regulation/13/a/i) (with [reg. 14](https://www.legislation.gov.uk/uksi/2007/933/regulation/14))
+
+[^key-9b0ff8f178575cea14afe5776417d971]: Textual amendment: Words in [reg. 16(1)](https://www.legislation.gov.uk/uksi/1999/360/regulation/16/1) substituted (1.10.2016) by [The Energy (Transfer of Functions, Consequential Amendments and Revocation) Regulations 2016 (S.I. 2016/912)](https://www.legislation.gov.uk/uksi/2016/912), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/912/regulation/1/1), [7(9)(a)](https://www.legislation.gov.uk/uksi/2016/912/regulation/7/9/a)
+
+[^key-3d3494594503d03a351787c059d308c6]: Textual amendment: Words in [reg. 16(1)](https://www.legislation.gov.uk/uksi/1999/360/regulation/16/1) substituted (16.5.2017) by [The Offshore Petroleum Production and Pipe-lines (Environmental Impact Assessment and other Miscellaneous Provisions) (Amendment) Regulations 2017 (S.I. 2017/582)](https://www.legislation.gov.uk/uksi/2017/582), [regs. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1), [18(a)](https://www.legislation.gov.uk/uksi/2017/582/regulation/18/a) (with [reg. 23](https://www.legislation.gov.uk/uksi/2017/582/regulation/23))
+
+[^key-0489fa616f9b87dc836ccad9299ab12e]: Textual amendment: Word in [reg. 16(2)](https://www.legislation.gov.uk/uksi/1999/360/regulation/16/2) substituted (1.10.2016) by [The Energy (Transfer of Functions, Consequential Amendments and Revocation) Regulations 2016 (S.I. 2016/912)](https://www.legislation.gov.uk/uksi/2016/912), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/912/regulation/1/1), [7(9)(b)](https://www.legislation.gov.uk/uksi/2016/912/regulation/7/9/b)
+
+[^key-3e4bd44d8355e873c30e94c44f574135]: Textual amendment: Words in [reg. 16(2)](https://www.legislation.gov.uk/uksi/1999/360/regulation/16/2) substituted (16.4.2007) by [The Offshore Petroleum Production and Pipe-lines (Assessment of Environmental Effects) (Amendment) Regulations 2007 (S.I. 2007/933)](https://www.legislation.gov.uk/uksi/2007/933), [regs. 1](https://www.legislation.gov.uk/uksi/2007/933/regulation/1), [13(b)](https://www.legislation.gov.uk/uksi/2007/933/regulation/13/b) (with [reg. 14](https://www.legislation.gov.uk/uksi/2007/933/regulation/14))
+
+[^key-105307a01d39ab47ce1371ee880238f4]: Textual amendment: Words in [reg. 16(2)](https://www.legislation.gov.uk/uksi/1999/360/regulation/16/2) added (16.5.2017) by [The Offshore Petroleum Production and Pipe-lines (Environmental Impact Assessment and other Miscellaneous Provisions) (Amendment) Regulations 2017 (S.I. 2017/582)](https://www.legislation.gov.uk/uksi/2017/582), [regs. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1), [18(b)](https://www.legislation.gov.uk/uksi/2017/582/regulation/18/b) (with [reg. 23](https://www.legislation.gov.uk/uksi/2017/582/regulation/23))
+
+[^key-0c68c8a1ed4e57ce1771818d07ebf97f]: Textual amendment: Word in [reg. 17(1)(a)](https://www.legislation.gov.uk/uksi/1999/360/regulation/17/1/a) substituted (1.10.2016) by [The Energy (Transfer of Functions, Consequential Amendments and Revocation) Regulations 2016 (S.I. 2016/912)](https://www.legislation.gov.uk/uksi/2016/912), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/912/regulation/1/1), [7(10)(a)](https://www.legislation.gov.uk/uksi/2016/912/regulation/7/10/a)
+
+[^key-3623931b95e973a2fa19d07eb3e382aa]: Textual amendment: Word in [reg. 17(2)(a)(i)](https://www.legislation.gov.uk/uksi/1999/360/regulation/17/2/a/i) substituted (1.10.2016) by [The Energy (Transfer of Functions, Consequential Amendments and Revocation) Regulations 2016 (S.I. 2016/912)](https://www.legislation.gov.uk/uksi/2016/912), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/912/regulation/1/1), [7(10)(b)](https://www.legislation.gov.uk/uksi/2016/912/regulation/7/10/b)
+
+[^key-587111666269b88baeae14bcdf9d3d3a]: Textual amendment: [Reg. 17A](https://www.legislation.gov.uk/uksi/1999/360/regulation/17A) inserted (22.7.2015) by [The Pollution Prevention and Control (Fees) (Miscellaneous Amendments and Other Provisions) Regulations 2015 (S.I. 2015/1431)](https://www.legislation.gov.uk/uksi/2015/1431), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/1431/regulation/1/2), [8](https://www.legislation.gov.uk/uksi/2015/1431/regulation/8)
+
+[^key-ddf45def26bdd6e0aa1d8c08c708a033]: Textual amendment: [Reg. 17A(1)(aa)](https://www.legislation.gov.uk/uksi/1999/360/regulation/17A/1/aa) inserted (1.6.2016) by [The Pollution Prevention and Control (Fees) (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/529)](https://www.legislation.gov.uk/uksi/2016/529), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/529/regulation/1/2), [3(a)](https://www.legislation.gov.uk/uksi/2016/529/regulation/3/a)
+
+[^key-f8e3485e851e2cf1521a5cd4ddb4c71e]: Textual amendment: [Reg. 17A(1)(b)](https://www.legislation.gov.uk/uksi/1999/360/regulation/17A/1/b) substituted (16.5.2017) by [The Offshore Petroleum Production and Pipe-lines (Environmental Impact Assessment and other Miscellaneous Provisions) (Amendment) Regulations 2017 (S.I. 2017/582)](https://www.legislation.gov.uk/uksi/2017/582), [regs. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1), [19(a)](https://www.legislation.gov.uk/uksi/2017/582/regulation/19/a) (with [reg. 23](https://www.legislation.gov.uk/uksi/2017/582/regulation/23))
+
+[^key-642e7d249c274c6cf87eb94269c1b2c2]: Textual amendment: Word in [reg. 17A(1)(d)](https://www.legislation.gov.uk/uksi/1999/360/regulation/17A/1/d) inserted (16.5.2017) by [The Offshore Petroleum Production and Pipe-lines (Environmental Impact Assessment and other Miscellaneous Provisions) (Amendment) Regulations 2017 (S.I. 2017/582)](https://www.legislation.gov.uk/uksi/2017/582), [regs. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1), [19(b)](https://www.legislation.gov.uk/uksi/2017/582/regulation/19/b) (with [reg. 23](https://www.legislation.gov.uk/uksi/2017/582/regulation/23))
+
+[^key-9203a7af51d3dbad73765b56f28dd516]: Textual amendment: Words in [reg. 17A(1)(n)](https://www.legislation.gov.uk/uksi/1999/360/regulation/17A/1/n) inserted (16.5.2017) by [The Offshore Petroleum Production and Pipe-lines (Environmental Impact Assessment and other Miscellaneous Provisions) (Amendment) Regulations 2017 (S.I. 2017/582)](https://www.legislation.gov.uk/uksi/2017/582), [regs. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1), [19(c)](https://www.legislation.gov.uk/uksi/2017/582/regulation/19/c) (with [reg. 23](https://www.legislation.gov.uk/uksi/2017/582/regulation/23))
+
+[^key-881fe141eaa05fdc806116b315e21c45]: Textual amendment: Sum in [reg. 17A(2)](https://www.legislation.gov.uk/uksi/1999/360/regulation/17A/2) substituted (1.4.2020) by [The Oil and Gas Authority (Levy and Fees) and Pollution Prevention and Control (Fees) (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/208)](https://www.legislation.gov.uk/uksi/2020/208), [regs. 1](https://www.legislation.gov.uk/uksi/2020/208/regulation/1), [11(a)](https://www.legislation.gov.uk/uksi/2020/208/regulation/11/a)
+
+[^key-d7e33cf75559f5c11b7e2b49fd34a2d0]: Textual amendment: Sum in [reg. 17A(2)](https://www.legislation.gov.uk/uksi/1999/360/regulation/17A/2) substituted (1.4.2020) by [The Oil and Gas Authority (Levy and Fees) and Pollution Prevention and Control (Fees) (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/208)](https://www.legislation.gov.uk/uksi/2020/208), [regs. 1](https://www.legislation.gov.uk/uksi/2020/208/regulation/1), [11(b)](https://www.legislation.gov.uk/uksi/2020/208/regulation/11/b)
+
+[^key-81dbfc1f9aacfd683358aad8b42b0d37]: Textual amendment: Word in [reg. 18(2)(b)](https://www.legislation.gov.uk/uksi/1999/360/regulation/18/2/b) substituted (1.10.2016) by [The Energy (Transfer of Functions, Consequential Amendments and Revocation) Regulations 2016 (S.I. 2016/912)](https://www.legislation.gov.uk/uksi/2016/912), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/912/regulation/1/1), [7(11)](https://www.legislation.gov.uk/uksi/2016/912/regulation/7/11)
+
+[^c16493501]: Marginal citation: [1998 c. 17](https://www.legislation.gov.uk/ukpga/1998/17).
+
+[^c16493511]: Marginal citation: 1878 41 & 42 Vict. c. 73.
+
+[^key-4e8f170f40f8e89bcb0e3041591332bb]: Textual amendment: [Reg. 19](https://www.legislation.gov.uk/uksi/1999/360/regulation/19) inserted (1.10.2016) by [The Energy (Transfer of Functions, Consequential Amendments and Revocation) Regulations 2016 (S.I. 2016/912)](https://www.legislation.gov.uk/uksi/2016/912), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/912/regulation/1/1), [7(12)](https://www.legislation.gov.uk/uksi/2016/912/regulation/7/12)
+
+[^key-aed05ebaf94684bde5ec5b6f645397a7]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/1999/360/schedule/1) substituted (16.5.2017) by [The Offshore Petroleum Production and Pipe-lines (Environmental Impact Assessment and other Miscellaneous Provisions) (Amendment) Regulations 2017 (S.I. 2017/582)](https://www.legislation.gov.uk/uksi/2017/582), [reg. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2017/582/schedule/1) (with [reg. 23](https://www.legislation.gov.uk/uksi/2017/582/regulation/23))
+
+[^key-f19c57f612c50b268052e801ea567f6e]: Textual amendment: Words in [Sch. 1 para. 2(c)(v)](https://www.legislation.gov.uk/uksi/1999/360/schedule/1/paragraph/2/c/v) substituted (31.12.2020) by [The Pipe-lines, Petroleum, Electricity Works and Oil Stocking (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1325)](https://www.legislation.gov.uk/uksi/2018/1325), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1325/regulation/1/1), [3(12)(a)](https://www.legislation.gov.uk/uksi/2018/1325/regulation/3/12/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-a82f707bbba791f05956920963636c2f]: Textual amendment: Word in [Sch. 1 para. 2(c)(vi)](https://www.legislation.gov.uk/uksi/1999/360/schedule/1/paragraph/2/c/vi) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 13 para. 1(2)(c)](https://www.legislation.gov.uk/uksi/2025/82/schedule/13/paragraph/1/2/c)
+
+[^key-5715c7a51a24157fd8e29de7cd32a686]: Textual amendment: Words in [Sch. 1 para. 2(c)(vi)](https://www.legislation.gov.uk/uksi/1999/360/schedule/1/paragraph/2/c/vi) substituted (31.12.2020) by [The Pipe-lines, Petroleum, Electricity Works and Oil Stocking (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1325)](https://www.legislation.gov.uk/uksi/2018/1325), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1325/regulation/1/1), [3(12)(b)](https://www.legislation.gov.uk/uksi/2018/1325/regulation/3/12/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-864ba0293da38bbd4cc03754665d4ac0]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/1999/360/schedule/2) substituted (16.5.2017) by [The Offshore Petroleum Production and Pipe-lines (Environmental Impact Assessment and other Miscellaneous Provisions) (Amendment) Regulations 2017 (S.I. 2017/582)](https://www.legislation.gov.uk/uksi/2017/582), [reg. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2017/582/schedule/2) (with [reg. 23](https://www.legislation.gov.uk/uksi/2017/582/regulation/23))
+
+[^key-b57094f49e44b499cc55299b3fd2c285]: Textual amendment: Word in [Sch. 2 para. 10](https://www.legislation.gov.uk/uksi/1999/360/schedule/2/paragraph/10) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 13 para. 1(2)(d)](https://www.legislation.gov.uk/uksi/2025/82/schedule/13/paragraph/1/2/d)
+
+[^key-ccd310d5c150d68653d8ca47558fb935]: Textual amendment: Words in [Sch. 2 para. 10](https://www.legislation.gov.uk/uksi/1999/360/schedule/2/paragraph/10) substituted (31.12.2020) by [The Pipe-lines, Petroleum, Electricity Works and Oil Stocking (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1325)](https://www.legislation.gov.uk/uksi/2018/1325), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1325/regulation/1/1), [3(13)(a)](https://www.legislation.gov.uk/uksi/2018/1325/regulation/3/13/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-d4b8424e61ddc985f30fc9717a40a89f]: Textual amendment: Words in [Sch. 2 para. 10](https://www.legislation.gov.uk/uksi/1999/360/schedule/2/paragraph/10) inserted (31.12.2020) by [The Pipe-lines, Petroleum, Electricity Works and Oil Stocking (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1325)](https://www.legislation.gov.uk/uksi/2018/1325), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1325/regulation/1/1), [3(13)(b)](https://www.legislation.gov.uk/uksi/2018/1325/regulation/3/13/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

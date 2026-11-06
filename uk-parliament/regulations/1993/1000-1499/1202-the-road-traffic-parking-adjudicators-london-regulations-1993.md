@@ -1,0 +1,439 @@
+---
+title: The Road Traffic (Parking Adjudicators) (London) Regulations 1993
+id: uksi/1993/1202
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '1993-05-04'
+text_date: '2008-11-03'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/1993/1202
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1993/1202/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Road Traffic (Parking Adjudicators) (London) Regulations 1993
+
+> Text as at 2008-11-03.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+1993 No. 1202
+
+ROAD TRAFFIC
+
+The Road Traffic (Parking Adjudicators) (London) Regulations 1993
+
+Made
+
+4th May 1993
+
+Laid before Parliament
+
+13th May 1993
+
+Coming into force
+
+1st July 1993
+
+The Secretary of State for Transport, in exercise of the powers conferred by section 73(11) and (12) of the Road Traffic Act 1991[^f00001], and all other enabling powers and after consultation with the Council on Tribunals in accordance with the requirements of section 8 of the Tribunals and Inquiries Act 1992[^f00002] hereby makes the following Regulations:—
+
+## PART I — Preliminary
+
+### 1. Citation and Commencement[^key-358a0df25bde085d815b11e57b652122]
+
+These Regulations may be cited as the Road Traffic (Parking Adjudicators) (London) Regulations 1993 and shall come into force on 1st July 1993.
+
+### 2. Interpretation[^key-033740c4dd45e4af767dcaf23c724f49]
+
+(1) In these Regulations—
+
+- “the Act” means the Road Traffic Act 1991;
+- “the[^key-6e8911e62028e57eb36ecae21ad404af] 1996 Act” means the London Local Authorities Act 1996;
+- “appeal” means an appeal under section 72 of, or paragraph 5 of Schedule 6 to, the Act or an appeal under paragraph 6 of Schedule 1 to the[^key-ca5be071cae5bbabeb99a366b9a58195] 1996 Act;
+- “the adjudicator” means a parking adjudicator appointed under section 73(3)(a) of the Act and includes a person so appointed when discharging the function of a traffic adjudicator under Schedule 1 to the[^key-36e9ed577dc8041cab2e2a60a02523eb] 1996 Act;
+- “document exchange” means a document exchange which is for the time being a document exchange approved by the Lord Chancellor under order 65, rule 5(4) of the Rules of the Supreme Court 1965[^f00003];
+- “FAX” means the making of a facsimile copy of a document by the transmission of electronic signals;
+- “hearing” means an oral hearing;
+- “proper officer” means a member of the administrative staff provided under section 73 of the Act appointed to perform the duties of the proper officer under these Regulations; and
+- “register” means the register of appeals and decisions kept in pursuance of these Regulations.
+
+(2) In these Regulations, in relation to an appeal or any process connected with an appeal,—
+
+- “appellant” means the person making the appeal;
+- “disputed decision” means the decision against which an appeal is brought under these Regulations;
+- “local authority” (except in regulation 3) means—[^key-0df4a8b749b4dc0147788dd81f0afd0e]
+  - (a) in a case where Transport for London made the disputed decisions, Transport for London;
+  - (b) in any other case, the London authority which made the disputed decision;
+- “the original representations” means the representations to the local authority under section 71 of, or paragraph 2 of Schedule 6 to, the Act or under paragraph 2 of Schedule 1 to the[^key-dc2241f32a48b2f4872b1bd32c414638] 1996 Act.
+
+(3) Unless the context otherwise requires, any reference in these Regulations to—
+
+- (a) a numbered regulation is a reference to the regulation bearing that number in these Regulations, and
+- (b) a numbered paragraph is a reference to the paragraph bearing that number in the regulation in which the reference appears.
+
+## PART II — Procedure relating to appeals
+
+### 3. Initiating an appeal[^key-437f63334eeef9ae6dfafafb6f05405f]
+
+(1) An appeal shall be made by delivering a notice of appeal to the proper officer.
+
+(2) A notice of appeal—
+
+- (a) must state the name and address of the appellant;
+- (b) may specify some other address as being the address to which he wishes documents to be sent to him in connection with the appeal;
+- (c) must state the date and any reference number of the decision and the name of the local authority who made the disputed decision; and
+- (d) may include any representations which the appellant desires to make in addition to the original representations.
+
+(3) If the notice of appeal is delivered to the proper officer later than the time limit mentioned in section 72(1) of, or paragraph 5(1) of Schedule 6 to, the Act or mentioned in paragraph 6(1) of Schedule 1 to the[^key-96d2b00f9a337a5b3bb7852c0fb5c843] 1996 Act (as the case may be), the appellant must include in the notice a statement of the reasons on which he relies for justifying the delay, and the adjudicator shall treat any such statement of reasons for delay as a request for extending that time limit.
+
+(4) The appellant or his authorised representative shall sign the notice of appeal.
+
+### 4. Action upon receipt of notice of appeal and copy of such notice[^key-a6ca9754f4541f5a2fd163cef09b3496]
+
+(1) Upon receiving a notice of appeal the proper officer shall—
+
+- (a) send an acknowledgement of its receipt to the appellant;
+- (b) enter particulars of it in the register; and
+- (c) send to the local authority a copy of the notice of appeal and any direction extending the time limit for appealing.
+
+(2) Upon receipt of a copy of a notice of appeal sent under this regulation, the local authority shall within 7 days deliver to the proper officer a copy of—
+
+- (a) the original representations;
+- (b) a copy of the relevant charge notice (if any); and
+- (c)[^key-03a3456f77f184991dcb92200c010aff] a copy of the notice served under section 71(6) of, or paragraph 2(7) of Schedule 6 to, the Act or under paragraph 2(10) of Schedule 1 to the 1996 Act (as the case may be).
+
+### 5. Further representations[^key-51757b0cfe081d0a2cdf542ab6b3fa8a]
+
+(1) Any party may deliver representations to the proper officer at any time before an appeal is determined.
+
+(2) The adjudicator may invite a party to deliver to the proper officer representations dealing with any matter relating to an appeal within such time and in such a manner as may be specified.
+
+(3) Where a party fails to respond to an invitation under paragraph (2), the adjudicator may (without prejudice to any other powers he may have) draw such inferences as appear to him proper.
+
+(4) Any representations delivered under this regulation shall be signed by, or by the authorised representative, of the party in question.
+
+(5) Where the appellant delivers representations to the proper officer under this regulation, the proper officer shall send a copy of the representations to the local authority.
+
+(6) Where the local authority delivers representations to the proper officer under this regulation, it shall at the same time send a copy of the representations to the appellant.
+
+(7) This regulation is without prejudice to the powers of an adjudicator under regulation 9.
+
+### 6. Power to require attendance of witnesses[^key-0cd2caa8d446b61f9e0c3d741a021803]
+
+(1) The adjudicator may require the attendance of any person (including a party to the proceedings) as a witness, at a time and place specified by him, at the hearing of an appeal and require him to answer any questions or produce any documents in his custody or control which relate to any matter in the proceedings.
+
+(2) Every document containing a requirement under paragraph (1) shall contain a reference to the fact that, under section 73(14) of the Act or under section 73(14) of the Act as applied by section 6(3) of the[^key-2b1c155a02f50e10a2e6444a0eb0adc9] 1996 Act (as the case may be), any person who without reasonable excuse fails to comply with this requirement shall be liable on summary conviction to a fine, and the document shall state the amount of the current maximum fine.
+
+(3) A person in respect of whom a requirement has been made under paragraph (1) may apply to the adjudicator to vary or set aside the requirement.
+
+(4) A person shall not be bound to comply with a requirement under paragraph (1) unless he has been given at least 7 days' notice of the hearing or, if less than 7 days, he has informed the adjudicator that he accepts such notice as he has been given.
+
+(5) A person other than an appellant shall not be bound to comply with the requirement under paragraph (1) unless the necessary expenses of his attendance are paid or tendered to him.
+
+(6) No person shall be required to give any evidence or produce any document under paragraph (1) which he could not be required to give or produce on the trial of an action in a court of law.
+
+### 7. Disposing of an appeal without a hearing[^key-a62c779a5092b9a751a4b6caf9aff602]
+
+(1) Subject to paragraph (2), the adjudicator may dispose of an appeal without a hearing.
+
+(2) The adjudicator shall not dispose of an appeal without a hearing if either party has requested a hearing unless—
+
+- (a) the party who made the request withdraws his request before notice of a hearing has been sent to the other party under regulation 8; or
+- (b) both parties have subsequently consented to the appeal being disposed of without a hearing.
+
+(3) The adjudicator shall not dispose of an appeal without a hearing until after the expiration of 4 weeks beginning on the day an acknowledgement is sent in accordance with regulation 4 unless both parties consent to the disposal taking place on an earlier date.
+
+(4) Notwithstanding anything in paragraphs (2) and (3), if both parties, having been sent a notice of the hearing of an appeal in accordance with regulation 8, fail to attend or be represented at the hearing, the adjudicator may subsequently dispose of the appeal without a hearing.
+
+### 8. Notice of time and place of hearing[^key-c8453a8c10bc8e4238ee09174d62ec32]
+
+(1) This regulation shall have effect where a hearing is to be held for the purpose of disposing of an appeal.
+
+(2) The proper officer shall fix the time and place of the hearing and, not less than 21 days before the date so fixed (or such shorter time as the parties agree), send to each party a notice that the hearing is to be at such time and place or notify them in such other manner as he thinks fit.
+
+(3) The adjudicator may alter the time and place of any hearing and the proper officer shall, not less than 7 days before the date the hearing is then to be held (or such shorter time as the parties agree), send to each party notice of the time and place of the hearing as altered or notify them in such other manner as he thinks fit.
+
+(4) This regulation applies to an adjourned hearing but, if the time and place of the adjourned hearing are announced before the adjournment, no further notice shall be required.
+
+### 9. Procedure at a hearing[^key-f7c4a0f9bc18247ca5c0953dfa8f6134]
+
+(1) At the beginning of the hearing of an appeal the adjudicator shall explain the order of proceeding which he proposes to adopt.
+
+(2) Subject to the provisions of this regulation, the adjudicator shall conduct the hearing of an appeal in such manner as he considers most suitable to the clarification of the issues before him and generally to the just handling of the proceedings; he shall so far as appears to him appropriate seek to avoid formality in the proceedings.
+
+(3) Any hearing of an appeal by the adjudicator shall be in public except where the adjudicator is satisfied that, by reason of exceptional circumstances, it is just and reasonable for the hearing, or part of the hearing, to be in private.
+
+(4)[^key-d2252a9324b56b8022c1a2a5ef98db58] Any adjudicator appointed under section 73(3)(a) of the Act shall be entitled to attend the hearing of an appeal whether or not it is in private.
+
+(5) The adjudicator, with the consent of the parties, may permit any other person to attend the hearing of an appeal which is held in private.
+
+(6) Without prejudice to any other powers he may have, the adjudicator may exclude from the hearing of an appeal, or part of it, any person whose conduct has disrupted or is likely, in the opinion of the adjudicator, to disrupt the hearing.
+
+(7) At the hearing of an appeal, the appellant may conduct his case himself (with assistance from any person[^key-87183cc24ce4cd98dade22e6b29cf74d] if he wishes) or may appear and be represented by any person whether or not legally qualified.
+
+However, if in any particular case the adjudicator is satisfied that there are good and sufficient reasons for doing so, he may refuse to permit a particular person to assist or represent the appellant at the hearing.
+
+(8) At the hearing of an appeal—
+
+- (a) the parties shall be entitled to give evidence, to call witnesses, to question any witnesses and to address the adjudicator both on the evidence and generally on the subject matter of the appeal; and
+- (b) the adjudicator may receive evidence of any fact which appears to him to be relevant notwithstanding that such evidence would be inadmissible in proceedings before a court of law.
+
+(9) Without prejudice to regulation 7(4), a party who has been sent a notice of the hearing of an appeal or otherwise notified of the hearing in accordance with regulation 8 fails to attend or be represented at the hearing, the adjudicator may dispose of the appeal in his absence.
+
+### 10. Decisions on appeals[^key-641e260ed308ab9857f2a9356dc88eb9]
+
+(1) Where an appeal is disposed of at a hearing, the decision of the adjudicator may be given orally at the end of the hearing or reserved.
+
+(2) Where an appeal has been disposed of whether at a hearing or otherwise, the decision shall be recorded forthwith in the register with (save in the case of a decision by consent) a statement of the reasons for the decision and the proper officer shall send a copy of the entry to each party.
+
+### 11. Review of adjudicator’s decision[^key-e2af52be6d275a587eb842794bb0e2b6]
+
+(1) The adjudicator shall have power on the application of a party, to review and revoke or vary any decision to dismiss or allow an appeal or any decision as to costs on the grounds (in each case) that—
+
+- (a) the decision was wrongly made as the result of an error on the part of his administrative staff;
+- (b) a party who had failed to appear or be represented at a hearing had good and sufficient reason for his failure to appear;
+- (c) where the decision was made after a hearing, new evidence has become available since the conclusion of the hearing the existence of which could not have been reasonably known of or foreseen;
+- (d) where the decision was made without a hearing, new evidence has become available since the decision was made, the existence of which could not have been reasonably known of or foreseen[^key-86c158714f6f540fde2d1cb874aa6c96]; or
+- (e) the interests of justice require such a review.
+
+(2) An adjudicator shall have power, on the application of a party, to review and revoke or vary any interlocutory decision.
+
+(3) An application under this regulation shall be made to the proper officer within 14 days after the date on which the decision was sent to the parties, and must state the grounds in full.
+
+(4) The parties shall have the opportunity to be heard on any application for review under this regulation; and if, having reviewed the decision, the adjudicator directs the decision to be set aside, he shall substitute such decision as he thinks fit or order a re-determination by either the same or a different adjudicator.
+
+(5) Regulation 10 shall apply to a decision under paragraph (1) as it applies to a decision made on the disposal of an appeal.
+
+### 12. Costs[^key-14560430a5664f97e701d0384be9a522]
+
+(1) The adjudicator shall not normally make an order awarding costs and expenses, but may, subject to paragraph (2) make such an order—
+
+- (a) against a party (including an appellant who has withdrawn his appeal or a local authority that has consented to an appeal being allowed) if he is of the opinion that that party has acted frivolously or vexatiously or that his conduct in making, pursuing or resisting an appeal was wholly unreasonable; or
+- (b) against the local authority, where it considers that the disputed decision was wholly unreasonable.
+
+(2) An order shall not be made under paragraph (1) against a party unless that party has been given an opportunity of making representations against the making of the order.
+
+(3) An order under paragraph (1) shall require the party against whom it is made to pay the other party a specified sum in respect of the costs and expenses incurred by that other party in connection with the proceedings.
+
+### 13. Consolidation of proceedings[^key-9d6350f49c0b0e6ab536aff1719760aa]
+
+(1) Where there are pending two or more appeals, then, should it at any time appear to the adjudicator that—
+
+- (a) some common question of law or fact arises in both or all the appeals; or
+- (b) for some other reason it is desirable to make an order under this regulation,
+
+the adjudicator may order that some (as specified in the orders) or all of the appeals shall be considered together and may give such consequential directions as necessary.
+
+(2) An order shall not be made under this regulation unless all parties concerned have been given an opportunity to make representations against the making of such an order.
+
+### 14. Miscellaneous powers of the adjudicator[^key-d3742e6be31c86bffc8707a61672d352]
+
+(1) The adjudicator may, if he thinks fit—
+
+- (a) extend the time appointed by or under these Regulations for doing any act notwithstanding that the time appointed may have expired;
+- (b) if the appellant at any time gives notice of the withdrawal of his appeal, dismiss the proceedings;
+- (c) if a local authority consents to an appeal being allowed, allow the appeal;
+- (d) if both or all of the parties agree in writing on the terms of a decision to be made by an adjudicator, decide accordingly; or
+- (e) adjourn a hearing.
+
+(2) The powers of the adjudicator conferred by—
+
+- (a) these Regulations (other than regulation 11);
+- (b) section 72(1)(b) of the Act; [^key-f0ccdbbda4387d49c302a2e450da399a]...
+- (c)[^key-8502f03146ea48b50d10accd27fb659e] paragraph 5(1)(b) of Schedule 6 to the Act, and
+- (d) paragraph 6(1)(b) of Schedule 1 to the 1996 Act,
+
+may be exercised on his own motion or on the application of a party.
+
+### 15. Clerical errors[^key-9f83a71ad8b28dcd46044804ef8d50db]
+
+Clerical mistakes in any document recording a direction or decision of the adjudicator, or errors arising in such a document from an accidental slip or omission, may be corrected by the proper officer on the direction of the adjudicator.
+
+### 16. Service of documents[^key-7fb95ad94f6c085e24d965a955fd4874]
+
+(1) This regulation has effect in relation to any notice or other document required or authorised by these Regulations to be sent to a party to an appeal.
+
+(2) Subject to paragraph (3), any such document shall be regarded as having been sent to that party if it is—
+
+- (a) delivered to him;
+- (b) left at his proper address;
+- (c) sent by post to him at that address;
+- (d) transmitted to him by FAX or other means of electronic data transmission in accordance with paragraphs (3), (4) and (5).
+
+(3) A document may be transmitted by FAX where the party has indicated in writing to the proper officer that he is willing to regard a document as having been duly sent to him if it is transmitted to a specified FAX number and the document is transmitted to that number.
+
+(4) In the case of a local authority, an indication under paragraph (3) can be expressed to apply to any appeal to which it is a respondent.
+
+(5) Paragraphs (3) and (4) shall apply with appropriate modification to a transmission of electronic data other than by FAX as it applies to a transmission by FAX.
+
+(6) Where the proper address includes a numbered box number at a document exchange, delivery of a document may be effected by leaving the document addressed to that numbered box at that document exchange or at a document exchange which transmits documents every business day to that exchange; and any document which is left at a document exchange in accordance with this paragraph shall, unless the contrary is proved, be deemed to have been delivered on the second business day after the day on which it is left.
+
+(7) For the purposes of these Regulations and of section 7 of the Interpretation Act 1978[^f00004] in its application to this regulation—
+
+- (a) the proper address of the appellant is the address specified in his notice of appeal pursuant to paragraph (2)(b) of regulation 3 or (if no such address is so specified) the address specified pursuant to paragraph (2)(a) of that regulation; and
+- (b) the proper address of a local authority in proceedings in which it is the respondent is such address as the local authority from time to time specifies in a notice delivered to the proper officer as being the proper address in all such proceedings.
+
+(8) If no address for service has been specified, the proper address for the purposes of these Regulations and section 7 of the Interpretation Act 1978 shall be—
+
+- (a) in the case of an individual, his usual or last known address, or
+- (b) in the case of a partnership, the principal or last known place of business of the firm within the United Kingdom, or
+- (c) in the case of an incorporated or unincorporated body, the registered or principal office of the body.
+
+(9) An appellant may at any time by notice to the proper officer change his proper address for service for the purposes of these Regulations and section 7 of the Interpretation Act 1978.
+
+(10) A party may by notice in writing delivered to the proper officer vary or revoke any indication given by him under paragraph (3).
+
+### 17. Delivery of documents to the proper officer[^key-2e31082a43f1bb78e8df6d88904c4351]
+
+(1) This regulation has effect in relation to any notice or other document required or authorised to be delivered to the proper officer and is without prejudice to regulation 5(3).
+
+(2) Any such document may be transmitted to him by FAX or other means of electronic data transmission.
+
+(3) Where the address of the proper officer includes a numbered box number at a document exchange, the delivery of such a document may be effected by leaving the document addressed to that numbered box at that document exchange or at a document exchange which transmits documents every business day to that exchange; and any document which is left at a document exchange in accordance with this paragraph shall, unless the contrary is proved, be deemed to have been delivered on the second business day after the day on which it is left.
+
+(4) Regulations 3(4) and 5(4)—
+
+- (a) shall in the case of a document transmitted by FAX, be satisfied if a copy of the signature of the relevant person appears on the transmitted copy; and
+- (b) shall not apply in relation to a document transmitted by other means of electronic data transmission.
+
+## PART III — References to the Adjudicator under paragraph 8(7) of Schedule 6 to the Act
+
+### 18. Interpretation of Part III[^key-7cff1a83b57671b38607c6c1d58728de]
+
+This Part of these Regulations shall have effect for determining the procedure where—
+
+- (a) an order of a county court is deemed to have been revoked under paragraph 8(5) of Schedule 6 to the Act and the local authority concerned has referred the case to the adjudicator under paragraph 8(7) of that Schedule; or
+- (b) an order of a county court is deemed to have been revoked under paragraph 10(5) of Schedule 1 to the 1996 Act and the local authority concerned has referred the case to the adjudicator under paragraph 10(7) of that Schedule,
+
+and in relation to a case so referred, for the purposes of this Part of these Regulations, a relevant person is the person against whom the county court order has been made.
+
+### 19. Procedure[^key-f7dc98c6d65535421c17a28423640b38]
+
+(1) Where a case has been referred to the adjudicator under paragraph 8(7) of Schedule 6 to the Act or under paragraph 10(7) of Schedule 1 to the[^key-2b0eecc62803ce7ceb606283decbae8f] 1996 Act—
+
+- (a) the proper officer shall enter particulars of the case in the register; and
+- (b) without prejudice to his powers under that provision, the adjudicator shall give directions as to the conduct of the proceedings unless he decides that no such directions are necessary.
+
+(2) The adjudicator may, in particular—
+
+- (a) if it appears to him that no appeal has been made by the relevant person in relation to the subject matter of the case, direct that the case proceed as an appeal; or
+- (b) if it appears to him that an appeal has been made by the relevant person in relation to the subject matter of the case and that the appeal has been dismissed, direct that the case proceed as an application under regulation 11 to review that decision.
+
+(3) Where the adjudicator gives a direction under paragraph (2)(a), Part II of these Regulations shall apply to the proceedings with appropriate modification as if regulation 3 and 4 had been omitted.
+
+## PART IV — The Register
+
+### 20. The register[^key-7f7ad64c84f8fe6bee572089c0d319f5]
+
+(1) The register shall be kept at the principal office of the adjudicator and shall be open to the inspection of any person without charge at all reasonable hours.
+
+(2) The register need not be kept in visible or legible form.
+
+(3) If the register is kept otherwise than in a legible form, the duty to allow inspection is to be treated as a duty to allow inspection of a reproduction in legible form of the recording of the entry the inspection of which is being sought.
+
+(4) A document purporting to be certified by the proper officer to be a true copy of any entry of a decision in the register shall be evidence of the entry and of matters contained therein.
+
+Signed by Authority of the Secretary of State for Transport
+
+Steven Norris
+
+Parliamentary Under Secretary of State,
+
+Department of Transport
+
+4th May 1993
+
+(This note is not part of the Regulations)
+
+These Regulations prescribe the procedure to be followed in relation to proceedings before parking adjudicators appointed under section 73 of the Road Traffic Act 1991.
+
+The procedures relate to—
+
+- (a) appeals under section 72 of the 1991 Act,
+- (b) appeals under paragraph 5 of Schedule 6 to the 1991 Act, and
+- (c) references under paragraph 8(7) of Schedules 6 to the 1991 Act.
+
+## Annotations
+
+[^f00001]: Footnote: [1991 c. 40](https://www.legislation.gov.uk/ukpga/1991/40). “Prescribed” is defined in section 82(1).
+
+[^f00002]: Footnote: [1992 c. 53](https://www.legislation.gov.uk/ukpga/1992/53).
+
+[^key-358a0df25bde085d815b11e57b652122]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/1993/1202/regulation/1) in force at 1.7.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/1202/regulation/1)
+
+[^key-033740c4dd45e4af767dcaf23c724f49]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/1993/1202/regulation/2) in force at 1.7.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/1202/regulation/1)
+
+[^key-6e8911e62028e57eb36ecae21ad404af]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1993/1202/regulation/2/1) inserted (1.6.1999) by [The Road Traffic (Parking Adjudicators) (London) (Amendment) Regulations 1999 (S.I. 1999/1205)](https://www.legislation.gov.uk/uksi/1999/1205), [regs. 1](https://www.legislation.gov.uk/uksi/1999/1205/regulation/1), [3(1)(a)](https://www.legislation.gov.uk/uksi/1999/1205/regulation/3/1/a)
+
+[^key-ca5be071cae5bbabeb99a366b9a58195]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1993/1202/regulation/2/1) inserted (1.6.1999) by [The Road Traffic (Parking Adjudicators) (London) (Amendment) Regulations 1999 (S.I. 1999/1205)](https://www.legislation.gov.uk/uksi/1999/1205), [regs. 1](https://www.legislation.gov.uk/uksi/1999/1205/regulation/1), [3(1)(b)](https://www.legislation.gov.uk/uksi/1999/1205/regulation/3/1/b)
+
+[^key-36e9ed577dc8041cab2e2a60a02523eb]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1993/1202/regulation/2/1) inserted (1.6.1999) by [The Road Traffic (Parking Adjudicators) (London) (Amendment) Regulations 1999 (S.I. 1999/1205)](https://www.legislation.gov.uk/uksi/1999/1205), [regs. 1](https://www.legislation.gov.uk/uksi/1999/1205/regulation/1), [3(1)(c)](https://www.legislation.gov.uk/uksi/1999/1205/regulation/3/1/c)
+
+[^f00003]: Footnote: [S.I. 1965/1776](https://www.legislation.gov.uk/uksi/1965/1776); relevant amending instrument is [S.I. 1990/2599](https://www.legislation.gov.uk/uksi/1990/2599).
+
+[^key-0df4a8b749b4dc0147788dd81f0afd0e]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/1993/1202/regulation/2) substituted (3.7.2000) by [The Greater London Highways and Road Traffic (Various Provisions) Order 2000 (S.I. 2000/1547)](https://www.legislation.gov.uk/uksi/2000/1547), [arts. 1](https://www.legislation.gov.uk/uksi/2000/1547/article/1), [5](https://www.legislation.gov.uk/uksi/2000/1547/article/5)
+
+[^key-dc2241f32a48b2f4872b1bd32c414638]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/1993/1202/regulation/2/2) inserted (1.6.1999) by [The Road Traffic (Parking Adjudicators) (London) (Amendment) Regulations 1999 (S.I. 1999/1205)](https://www.legislation.gov.uk/uksi/1999/1205), [regs. 1](https://www.legislation.gov.uk/uksi/1999/1205/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/1999/1205/regulation/3/2)
+
+[^key-437f63334eeef9ae6dfafafb6f05405f]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/1993/1202/regulation/3) in force at 1.7.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/1202/regulation/1)
+
+[^key-96d2b00f9a337a5b3bb7852c0fb5c843]: Textual amendment: Words in [reg. 3(3)](https://www.legislation.gov.uk/uksi/1993/1202/regulation/3/3) inserted (1.6.1999) by [The Road Traffic (Parking Adjudicators) (London) (Amendment) Regulations 1999 (S.I. 1999/1205)](https://www.legislation.gov.uk/uksi/1999/1205), [regs. 1](https://www.legislation.gov.uk/uksi/1999/1205/regulation/1), [4](https://www.legislation.gov.uk/uksi/1999/1205/regulation/4)
+
+[^key-a6ca9754f4541f5a2fd163cef09b3496]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/1993/1202/regulation/4) in force at 1.7.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/1202/regulation/1)
+
+[^key-03a3456f77f184991dcb92200c010aff]: Textual amendment: [Reg. 4(2)(c)](https://www.legislation.gov.uk/uksi/1993/1202/regulation/4/2/c) substituted (1.6.1999) by [The Road Traffic (Parking Adjudicators) (London) (Amendment) Regulations 1999 (S.I. 1999/1205)](https://www.legislation.gov.uk/uksi/1999/1205), [regs. 1](https://www.legislation.gov.uk/uksi/1999/1205/regulation/1), [5](https://www.legislation.gov.uk/uksi/1999/1205/regulation/5)
+
+[^key-51757b0cfe081d0a2cdf542ab6b3fa8a]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/1993/1202/regulation/5) in force at 1.7.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/1202/regulation/1)
+
+[^key-0cd2caa8d446b61f9e0c3d741a021803]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/1993/1202/regulation/6) in force at 1.7.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/1202/regulation/1)
+
+[^key-2b1c155a02f50e10a2e6444a0eb0adc9]: Textual amendment: Words in [reg. 6(2)](https://www.legislation.gov.uk/uksi/1993/1202/regulation/6/2) inserted (1.6.1999) by [The Road Traffic (Parking Adjudicators) (London) (Amendment) Regulations 1999 (S.I. 1999/1205)](https://www.legislation.gov.uk/uksi/1999/1205), [regs. 1](https://www.legislation.gov.uk/uksi/1999/1205/regulation/1), [6](https://www.legislation.gov.uk/uksi/1999/1205/regulation/6)
+
+[^key-a62c779a5092b9a751a4b6caf9aff602]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/1993/1202/regulation/7) in force at 1.7.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/1202/regulation/1)
+
+[^key-c8453a8c10bc8e4238ee09174d62ec32]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/1993/1202/regulation/8) in force at 1.7.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/1202/regulation/1)
+
+[^key-f7c4a0f9bc18247ca5c0953dfa8f6134]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/1993/1202/regulation/9) in force at 1.7.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/1202/regulation/1)
+
+[^key-d2252a9324b56b8022c1a2a5ef98db58]: Textual amendment: [Reg. 9(4)](https://www.legislation.gov.uk/uksi/1993/1202/regulation/9/4) substituted (3.11.2008) by [The Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683), [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1), [Sch. 1 para. 64](https://www.legislation.gov.uk/uksi/2008/2683/schedule/1/paragraph/64)
+
+[^key-87183cc24ce4cd98dade22e6b29cf74d]: Textual amendment: Words in [reg. 9(7)](https://www.legislation.gov.uk/uksi/1993/1202/regulation/9/7) substituted (1.6.1999) by virtue of [The Road Traffic (Parking Adjudicators) (London) (Amendment) Regulations 1999 (S.I. 1999/1205)](https://www.legislation.gov.uk/uksi/1999/1205), [regs. 1](https://www.legislation.gov.uk/uksi/1999/1205/regulation/1), [7](https://www.legislation.gov.uk/uksi/1999/1205/regulation/7)
+
+[^key-641e260ed308ab9857f2a9356dc88eb9]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/1993/1202/regulation/10) in force at 1.7.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/1202/regulation/1)
+
+[^key-e2af52be6d275a587eb842794bb0e2b6]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/1993/1202/regulation/11) in force at 1.7.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/1202/regulation/1)
+
+[^key-86c158714f6f540fde2d1cb874aa6c96]: Textual amendment: Words in [reg. 11(1)(d)](https://www.legislation.gov.uk/uksi/1993/1202/regulation/11/1/d) substituted (1.6.1999) by [The Road Traffic (Parking Adjudicators) (London) (Amendment) Regulations 1999 (S.I. 1999/1205)](https://www.legislation.gov.uk/uksi/1999/1205), [regs. 1](https://www.legislation.gov.uk/uksi/1999/1205/regulation/1), [8](https://www.legislation.gov.uk/uksi/1999/1205/regulation/8)
+
+[^key-14560430a5664f97e701d0384be9a522]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/1993/1202/regulation/12) in force at 1.7.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/1202/regulation/1)
+
+[^key-9d6350f49c0b0e6ab536aff1719760aa]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/1993/1202/regulation/13) in force at 1.7.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/1202/regulation/1)
+
+[^key-d3742e6be31c86bffc8707a61672d352]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/1993/1202/regulation/14) in force at 1.7.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/1202/regulation/1)
+
+[^key-f0ccdbbda4387d49c302a2e450da399a]: Textual amendment: Word in [reg. 14(2)(b)](https://www.legislation.gov.uk/uksi/1993/1202/regulation/14/2/b) omitted (1.6.1999) by virtue of [The Road Traffic (Parking Adjudicators) (London) (Amendment) Regulations 1999 (S.I. 1999/1205)](https://www.legislation.gov.uk/uksi/1999/1205), [regs. 1](https://www.legislation.gov.uk/uksi/1999/1205/regulation/1), [9](https://www.legislation.gov.uk/uksi/1999/1205/regulation/9)
+
+[^key-8502f03146ea48b50d10accd27fb659e]: Textual amendment: [Reg. 14(2)(c)](https://www.legislation.gov.uk/uksi/1993/1202/regulation/14/2/c)[(d)](https://www.legislation.gov.uk/uksi/1993/1202/regulation/14/2/d) substituted for [reg. 14(2)(c)](https://www.legislation.gov.uk/uksi/1993/1202/regulation/14/2/c) (1.6.1999) by [The Road Traffic (Parking Adjudicators) (London) (Amendment) Regulations 1999 (S.I. 1999/1205)](https://www.legislation.gov.uk/uksi/1999/1205), [regs. 1](https://www.legislation.gov.uk/uksi/1999/1205/regulation/1), [9](https://www.legislation.gov.uk/uksi/1999/1205/regulation/9)
+
+[^key-9f83a71ad8b28dcd46044804ef8d50db]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/1993/1202/regulation/15) in force at 1.7.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/1202/regulation/1)
+
+[^key-7fb95ad94f6c085e24d965a955fd4874]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/1993/1202/regulation/16) in force at 1.7.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/1202/regulation/1)
+
+[^f00004]: Footnote: [1978 c. 30](https://www.legislation.gov.uk/ukpga/1978/30).
+
+[^key-2e31082a43f1bb78e8df6d88904c4351]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/1993/1202/regulation/17) in force at 1.7.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/1202/regulation/1)
+
+[^key-7cff1a83b57671b38607c6c1d58728de]: Textual amendment: [Reg. 18](https://www.legislation.gov.uk/uksi/1993/1202/regulation/18) substituted (1.6.1999) by [The Road Traffic (Parking Adjudicators) (London) (Amendment) Regulations 1999 (S.I. 1999/1205)](https://www.legislation.gov.uk/uksi/1999/1205), [regs. 1](https://www.legislation.gov.uk/uksi/1999/1205/regulation/1), [10](https://www.legislation.gov.uk/uksi/1999/1205/regulation/10)
+
+[^key-f7dc98c6d65535421c17a28423640b38]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/1993/1202/regulation/19) in force at 1.7.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/1202/regulation/1)
+
+[^key-2b0eecc62803ce7ceb606283decbae8f]: Textual amendment: Words in [reg. 19(1)](https://www.legislation.gov.uk/uksi/1993/1202/regulation/19/1) inserted (1.6.1999) by [The Road Traffic (Parking Adjudicators) (London) (Amendment) Regulations 1999 (S.I. 1999/1205)](https://www.legislation.gov.uk/uksi/1999/1205), [regs. 1](https://www.legislation.gov.uk/uksi/1999/1205/regulation/1), [11](https://www.legislation.gov.uk/uksi/1999/1205/regulation/11)
+
+[^key-7f7ad64c84f8fe6bee572089c0d319f5]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/1993/1202/regulation/20) in force at 1.7.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/1202/regulation/1)

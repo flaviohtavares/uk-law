@@ -1,0 +1,250 @@
+---
+title: The Passenger and Goods Vehicles (Recording Equipment) (Tachograph Card Fees) Regulations 2005
+id: uksi/2005/1140
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2005-04-08'
+text_date: '2019-03-26'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/uksi/2005/1140
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2005/1140/pdfs/uksiem_20051140_en.pdf
+- http://www.legislation.gov.uk/uksi/2005/1140/pdfs/uksi_20051140_en.pdf
+- http://www.legislation.gov.uk/uksi/2005/1140/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Passenger and Goods Vehicles (Recording Equipment) (Tachograph Card Fees) Regulations 2005
+
+> Text as at 2019-03-26.
+>
+> Extent: England, Wales, Scotland.
+
+*Extent: E+W+S*
+
+2005 No. 1140
+
+ROAD TRAFFIC
+
+The Passenger and Goods Vehicles (Recording Equipment) (Tachograph Card Fees) Regulations 2005
+
+Made
+
+8th April 2005
+
+To be laid before Parliament
+
+Coming into force
+
+1st June 2005
+
+The Secretary of State for Transport, being a Minister designated[^f00001] for the purposes of section 2(2) of the European Communities Act 1972[^f00002] in relation to the regulation and supervision of the working conditions of persons engaged in road transport and the regulation of the type, description, construction or equipment of vehicles, in exercise of the powers conferred upon him by that provision, hereby makes the following Regulations:
+
+## 1. Citation, commencement and extent[^key-25ba0f47409facb58e8da51c7b72ac5a]
+
+(1) These Regulations may be cited as the Passenger and Goods Vehicles (Recording Equipment) (Tachograph Card Fees) Regulations 2005 and shall come into force on 1st June 2005.
+
+(2) These Regulations extend to Great Britain.
+
+## 2. Interpretation[^key-aa2566bdac03a135202000a2c0d9018c]
+
+(1) In these Regulations—
+
+- [^key-271589647948427a5ad8963457b2f6a0]...
+- “company card”, “control card”, “driver card” and “workshop card” have the meanings given by Article 2 of the[^key-29d741135e81e14b224b4e012eee37e4] EU Tachographs Regulation;
+- “competent authority” has the same meaning as in the EU[^key-26c92ec54495d559c0074f7c0ab79471] Tachographs Regulation;
+- “the[^key-d5d50dfad9a60b041ff101c15aeded1e] EU Tachographs Regulation means Regulation (EU) No. 165/2014 of the European Parliament and of the Council on tachographs in road transport as read with the Community Drivers’ Hours and Recording Equipment Regulations 2007.
+- “tachograph card” means a company card, control card, driver card or workshop card; and
+- “working day” means a day other than a Saturday, Sunday, bank holiday, Christmas Day or Good Friday (and “bank holiday” means a day to be observed as such under section 1 of and Schedule 1 to the Banking and Financial Dealings Act 1971[^f00012]).
+
+(2) Where any question arises as to whether a person is normally resident in Great Britain he shall be deemed to be normally resident there if he shows that he will have lived there for no fewer than 185 days during the period of 12 months ending on the day on which the tachographs card is to be issued.
+
+(3)[^key-9a5dcd8d9e9570f42e255819cf834e17] A reference in these Regulations to Annex IB to the EU Tachographs Regulation has effect, until the coming into force of that Annex, as a reference to Annex IB to Council Regulation (EEC) No. 3821/85 on recording equipment in road transport as read with the Community Drivers’ Hours and Recording Equipment Regulations 2007.
+
+## 3. Driver cards[^key-b7fa570dd1e6e03a1531b3e4dc55a3ea]
+
+(1) The Secretary of State shall issue a driver card to a person who complies with the requirements in paragraph (2).
+
+(2) The requirements are that the person—
+
+- (a) satisfies the Secretary of State that he is a driver subject to the provisions of—
+  - (i) Regulation[^key-0709a3679c6a28eceac9339333400965] [(EC) No 561/2006](https://www.legislation.gov.uk/eur/2006/561) of the European Parliament and of the Council, and
+  - (ii) the EU[^key-100f4e7c0e0d8ba278e4599209c97331] Tachographs Regulation;
+- (b) satisfies the Secretary of State that he is normally resident within Great Britain;
+- (c) makes an application for the card—
+  - (i) not more than 90 days before he wishes it to come into force, and
+  - (ii) in such form, and provides the Secretary of State with such documents and information in support of the application, as the Secretary of State may require;
+- (d) save in the circumstances described in paragraph (3), does not hold a driver card; and
+- (e) pays the fee prescribed in accordance with regulation 8.
+
+(3) The circumstances referred to in paragraph (2)(d) are that the person
+
+- (i) holds a driver card (“existing card”) issued by the Secretary of State which is in force, and
+- (ii) has applied to renew it not later than 15 working days before the date of expiry of his existing card.
+
+**4.**[^key-4626657a26b655eb8fdf5e84c26fb4b7] (1) The holder of a driver card may apply to exchange his driver card if the requirements in this regulation are satisfied.
+
+(2) The driver card must have been issued to the holder by the competent authority, other than the Secretary of State, of a Member State of the European Union.
+
+(3) The holder shall comply with the requirements of regulation 3(2)(a) to (e).
+
+(4) The holder shall surrender the driver card issued by the other competent authority to the Secretary of State.
+
+## 5. Company cards[^key-8fb55ccb26cbd4b1fc1c6e3ef88841c3]
+
+(1) The Secretary of State shall issue a company card to a person who complies with the requirements in paragraph (2).
+
+(2) The requirements are that the person—
+
+- (a) is the owner or holder of a vehicle in which there is equipment for recording information as to the use of that vehicle which—
+  - (i) has been installed in accordance with the EU[^key-65e2b6f77e741c78ce51930c6a0f61dd] Tachographs Regulation; and
+  - (ii) complies with Annexes IB and II to that Regulation;
+- (b) either—
+  - (i) if an individual, is normally resident in Great Britain; or
+  - (ii) if a company, has a place of business in Great Britain;
+- (c) makes an application for the card in such form and provides the Secretary of State with such documents and information in support of the application as the Secretary of State may require; and
+- (d) pays the fee prescribed in accordance with regulation 8.
+
+## 6. Workshop cards and control cards[^key-c2eb96f8d863de6a3f337100ccc805ed]
+
+(1) The Secretary of State shall not issue a workshop card to a person to whom an approval has not been issued in accordance with regulation 4 of the Passenger and Goods Vehicles (Recording Equipment) Regulations 1979[^f00013].
+
+(2) The Secretary of State shall not issue a control card to a person who is not a constable or a vehicle examiner appointed under section 66A of the Road Traffic Act 1988[^f00014].
+
+## 7. Replacement cards[^key-54626f50dbb791b00e76fdcabf7757c0]
+
+If the holder of a tachograph card—
+
+- (a) satisfies the Secretary of State that
+  - (i) the card is damaged, malfunctions, is lost or is stolen; and
+  - (ii) the holder is entitled to continue to hold the card;
+- (b) surrenders the damaged or malfunctioning card to the Secretary of State;
+- (c) applies to the Secretary of State within seven days of such damage, malfunction, loss or theft;
+- (d) makes his application in such form, and provides the Secretary of State with such documents and information in support of the application, as the Secretary of State may require; and
+- (e) pays the fee prescribed in accordance with regulation 8 for the replacement of a card,
+
+the Secretary of State shall issue a replacement card.
+
+## 8. Fees[^key-34020e2221a25cefe50b64285ccc5f9d]
+
+(1) An applicant for a tachograph card shall pay such fee as may be determined in accordance with paragraphs (2), (3) and (4).
+
+(2) The fee payable upon an application for a driver card shall, in the circumstances specified in column (1) of the table set out in Schedule 1, be the fee specified in relation thereto in column (2) of the table.
+
+(3) The fee payable upon an application for a company card shall, in the circumstances specified in column (1) of the table set out in Schedule 2, be the fee specified in relation thereto in column (2) of the table.
+
+(4) No fee shall be payable in respect of—
+
+- (a) a workshop card or a control card;
+- (b) replacement of a malfunctioning driver card or company card; or
+- (c) a driver card issued with corrected personal details of the driver in exchange for an existing driver card.
+
+(5) When an application is made for a tachograph card, which, but for this paragraph, would attract more than one fee, only one fee shall be paid in respect of that card and where the fees are different, that fee shall be the higher or the highest of them.
+
+Signed by authority of the Secretary of State for Transport
+
+Tony McNulty
+
+Minister of State
+
+Department for Transport
+
+## SCHEDULE 1 — Driver Card Fees[^key-55fcc7c7c8305f3a65902b0b7ddf9b4b]
+
+Regulation 8(2)
+
+<table>
+<thead>
+<tr><th><em>(1)</em></th><th><em>(2)</em></th></tr>
+<tr><th><em>Circumstances</em></th><th><em>Fee payable</em></th></tr>
+</thead>
+<tbody>
+<tr><td>A card not described in any other circumstances specified in this Schedule</td><td>£32</td></tr>
+<tr><td>A card issued on renewal of a time-expired card</td><td>£19</td></tr>
+<tr><td>A card issued as a replacement for a damaged, lost or stolen card</td><td>£19</td></tr>
+</tbody>
+</table>
+
+[^key-d8081c093edc92c75e7a5f273cd7e344]
+
+## SCHEDULE 2 — Company Card Fees[^key-c665770a9e94e9951b5c5e3ed2f4a5f4]
+
+Regulation 8(3)
+
+<table>
+<thead>
+<tr><th><em>(1)</em></th><th><em>(2)</em></th></tr>
+<tr><th><em>Circumstances</em></th><th><em>Fee payable</em></th></tr>
+</thead>
+<tbody>
+<tr><td>A card not described in any other circumstances specified in this Schedule</td><td>£38</td></tr>
+<tr><td>A card issued on renewal of a time-expired card</td><td>£19</td></tr>
+<tr><td>A card issued as a replacement for a damaged, lost or stolen card</td><td>£19</td></tr>
+</tbody>
+</table>
+
+(This note is not part of the Regulation)
+
+These Regulations provide for the issuing of driver cards, company cards, workshop cards and control cards for use with digital tachographs, which are tachographs complying with Annexes IB and II to Council Regulation (EEC) No.3821/85 on recording equipment in road transport, and for the replacement of cards which expire, are damaged, malfunction, are lost or are stolen.
+
+They provide for the payment of specified fees in respect of driver cards, which are held by drivers of vehicles required to be fitted with digital tachographs by the Community Recording Equipment Regulation, and company cards, which are held by the operators of such vehicles.
+
+No fees are payable in respect of workshop cards, which may be held by approved workshops only, or control cards which may be held by the police and officers of the Vehicle and Operator Services Agency (an agency of the Department for Transport) only.
+
+A Regulatory Impact Assessment has been produced and a copy placed in the library of both Houses of Parliament. Copies may be obtained from DVLA, Drivers Policy Group, 3 Sandringham Park, Swansea Vale, Swansea, SA7 0EP. Alternatively copies can be obtained from DVLA’s website which is at www.dvla.gov.uk.
+
+A transposition note has been prepared and copies may be obtained from DVLA.
+
+## Annotations
+
+[^f00001]: Footnote: S.I. [1975/1707](https://www.legislation.gov.uk/uksi/1975/1707) and [1972/1811](https://www.legislation.gov.uk/uksi/1972/1811)
+
+[^f00002]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68).
+
+[^key-25ba0f47409facb58e8da51c7b72ac5a]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2005/1140/regulation/1) in force at 1.6.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/1140/regulation/1/1)
+
+[^key-aa2566bdac03a135202000a2c0d9018c]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2005/1140/regulation/2) in force at 1.6.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/1140/regulation/1/1)
+
+[^key-271589647948427a5ad8963457b2f6a0]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2005/1140/regulation/2/1) omitted (2.3.2016) by virtue of [The Passenger and Goods Vehicles (Tachographs) (Amendment) Regulations 2016 (S.I. 2016/248)](https://www.legislation.gov.uk/uksi/2016/248), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/248/regulation/1/2), [19(2)(a)](https://www.legislation.gov.uk/uksi/2016/248/regulation/19/2/a)
+
+[^key-29d741135e81e14b224b4e012eee37e4]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2005/1140/regulation/2/1) substituted (2.3.2016) by [The Passenger and Goods Vehicles (Tachographs) (Amendment) Regulations 2016 (S.I. 2016/248)](https://www.legislation.gov.uk/uksi/2016/248), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/248/regulation/1/2), [19(2)(b)](https://www.legislation.gov.uk/uksi/2016/248/regulation/19/2/b)
+
+[^key-26c92ec54495d559c0074f7c0ab79471]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2005/1140/regulation/2/1) substituted (2.3.2016) by [The Passenger and Goods Vehicles (Tachographs) (Amendment) Regulations 2016 (S.I. 2016/248)](https://www.legislation.gov.uk/uksi/2016/248), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/248/regulation/1/2), [19(2)(c)](https://www.legislation.gov.uk/uksi/2016/248/regulation/19/2/c)
+
+[^key-d5d50dfad9a60b041ff101c15aeded1e]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2005/1140/regulation/2/1) inserted (2.3.2016) by [The Passenger and Goods Vehicles (Tachographs) (Amendment) Regulations 2016 (S.I. 2016/248)](https://www.legislation.gov.uk/uksi/2016/248), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/248/regulation/1/2), [19(2)(a)](https://www.legislation.gov.uk/uksi/2016/248/regulation/19/2/a)
+
+[^f00012]: Footnote: [1971 c. 80](https://www.legislation.gov.uk/ukpga/1971/80).
+
+[^key-9a5dcd8d9e9570f42e255819cf834e17]: Textual amendment: [Reg. 2(3)](https://www.legislation.gov.uk/uksi/2005/1140/regulation/2/3) inserted (2.3.2016) by [The Passenger and Goods Vehicles (Tachographs) (Amendment) Regulations 2016 (S.I. 2016/248)](https://www.legislation.gov.uk/uksi/2016/248), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/248/regulation/1/2), [19(3)](https://www.legislation.gov.uk/uksi/2016/248/regulation/19/3)
+
+[^key-b7fa570dd1e6e03a1531b3e4dc55a3ea]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2005/1140/regulation/3) in force at 1.6.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/1140/regulation/1/1)
+
+[^key-0709a3679c6a28eceac9339333400965]: Textual amendment: Words in [reg. 3(2)(a)(i)](https://www.legislation.gov.uk/uksi/2005/1140/regulation/3/2/a/i) substituted (26.3.2019) by [The Drivers' Hours and Tachographs (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/453)](https://www.legislation.gov.uk/uksi/2019/453), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/453/regulation/1/2), [27](https://www.legislation.gov.uk/uksi/2019/453/regulation/27)
+
+[^key-100f4e7c0e0d8ba278e4599209c97331]: Textual amendment: Words in [reg. 3(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2005/1140/regulation/3/2/a/ii) substituted (2.3.2016) by [The Passenger and Goods Vehicles (Tachographs) (Amendment) Regulations 2016 (S.I. 2016/248)](https://www.legislation.gov.uk/uksi/2016/248), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/248/regulation/1/2), [19(4)](https://www.legislation.gov.uk/uksi/2016/248/regulation/19/4)
+
+[^key-4626657a26b655eb8fdf5e84c26fb4b7]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2005/1140/regulation/4) in force at 1.6.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/1140/regulation/1/1)
+
+[^key-8fb55ccb26cbd4b1fc1c6e3ef88841c3]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2005/1140/regulation/5) in force at 1.6.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/1140/regulation/1/1)
+
+[^key-65e2b6f77e741c78ce51930c6a0f61dd]: Textual amendment: Words in [reg. 5(2)(a)(i)](https://www.legislation.gov.uk/uksi/2005/1140/regulation/5/2/a/i) substituted (2.3.2016) by [The Passenger and Goods Vehicles (Tachographs) (Amendment) Regulations 2016 (S.I. 2016/248)](https://www.legislation.gov.uk/uksi/2016/248), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/248/regulation/1/2), [19(5)](https://www.legislation.gov.uk/uksi/2016/248/regulation/19/5)
+
+[^key-c2eb96f8d863de6a3f337100ccc805ed]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2005/1140/regulation/6) in force at 1.6.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/1140/regulation/1/1)
+
+[^f00013]: Footnote: S.I. [1979/1746](https://www.legislation.gov.uk/uksi/1979/1746), amended by [S.I.1984/144](https://www.legislation.gov.uk/uksi/1984/144))
+
+[^f00014]: Footnote: [1988 c. 52](https://www.legislation.gov.uk/ukpga/1988/52).
+
+[^key-54626f50dbb791b00e76fdcabf7757c0]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2005/1140/regulation/7) in force at 1.6.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/1140/regulation/1/1)
+
+[^key-34020e2221a25cefe50b64285ccc5f9d]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2005/1140/regulation/8) in force at 1.6.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/1140/regulation/1/1)
+
+[^key-55fcc7c7c8305f3a65902b0b7ddf9b4b]: Commencement: [Sch. 1](https://www.legislation.gov.uk/uksi/2005/1140/schedule/1) in force at 1.6.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/1140/regulation/1/1)
+
+[^key-d8081c093edc92c75e7a5f273cd7e344]: Textual amendment: Sum in [Sch. 1](https://www.legislation.gov.uk/uksi/2005/1140/schedule/1) table substituted (31.10.2014) by [The Passenger and Goods Vehicles (Recording Equipment) (Tachograph Card Fees) (Amendment) Regulations 2014 (S.I. 2014/2557)](https://www.legislation.gov.uk/uksi/2014/2557), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/2557/regulation/1/2), [2(a)](https://www.legislation.gov.uk/uksi/2014/2557/regulation/2/a)
+
+[^key-c665770a9e94e9951b5c5e3ed2f4a5f4]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/2005/1140/schedule/2) in force at 1.6.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/1140/regulation/1/1)

@@ -1,0 +1,142 @@
+---
+title: The Pensions Regulator (Notifiable Events) Regulations 2005
+id: uksi/2005/900
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2005-03-23'
+text_date: '2009-04-06'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/uksi/2005/900
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2005/900/pdfs/uksiem_20050900_en.pdf
+- http://www.legislation.gov.uk/uksi/2005/900/pdfs/uksi_20050900_300905_en.pdf
+- http://www.legislation.gov.uk/uksi/2005/900/pdfs/uksi_20050900_en.pdf
+- http://www.legislation.gov.uk/uksi/2005/900/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Pensions Regulator (Notifiable Events) Regulations 2005
+
+> Text as at 2009-04-06.
+>
+> Extent: England, Wales, Scotland.
+
+*Extent: E+W+S*
+
+2005 No. 900
+
+PENSIONS
+
+The Pensions Regulator (Notifiable Events) Regulations 2005
+
+Made
+
+23rd March 2005
+
+Laid before Parliament
+
+31st March 2005
+
+Coming into force
+
+6th April 2005
+
+The Secretary of State for Work and Pensions, in exercise of the powers conferred upon him by sections 69(2), 315(2) and 318(1) of the Pensions Act 2004[^f00001], and of all other powers enabling him in that behalf, by this instrument, which contains regulations made before the end of the period of six months beginning with the coming into force of the provisions of that Act by virtue of which they are made[^f00002], makes the following Regulations:
+
+## 1. Citation, commencement and interpretation[^key-10536c8d48b459f1c8d9f6b403713261]
+
+(1) These Regulations may be cited as the Pensions Regulator (Notifiable Events) Regulations 2005, and shall come into force on 6th April 2005.
+
+(2) In these Regulations—
+
+- “the Act” means the Pensions Act 2004;
+- “business” includes trade or profession;
+- “control” has the meaning given to it in section 435(10) of the Insolvency Act 1986[^f00003] (meaning of “associate” – meaning of “control”), and “controlling company” is to be construed accordingly;
+- “debt” includes a contingent debt;
+- “director” has the meaning given to it in section 741(1) (“director” and “shadow director”) of the Companies Act 1985[^f00004];
+- [^key-5f5252b53835252e70ec26f8e71db03a]...
+- [^key-5f5252b53835252e70ec26f8e71db03a]...
+- “scheme assets” means the value of the assets according to the most recent actuarial valuation carried out under section 224 of the Act (actuarial valuations and reports), or if no such valuation has been carried out, the most recent valuation carried out under section 56 of the Pensions Act 1995 (minimum funding requirement) and regulations made thereunder.
+
+## 2. Notifiable events[^key-b8094099674509bf3b406ce20d9ddd2a]
+
+(1) The events prescribed for the purposes of section 69(2)(a) of the Act (duty to notify the Regulator of certain events – prescribed events in respect of an eligible scheme) are—
+
+- (a) any decision by the trustees or managers to take action which will, or is intended to, result in any debt which is or may become due to the scheme not being paid in full;
+- (b)[^key-2527b60b7f378dc132a38b285f50794d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c) a decision by the trustees or managers of a scheme (“the relevant scheme”) to make a transfer payment to, or accept a transfer payment from, another scheme , or where the trustees or managers are required to make or accept a transfer payment without such a decision having been taken, the making or acceptance of that payment,[^key-4da5cb8d3088109e4eb967218ce5b672] the value of which is more than the lower of—
+  - (i) 5 per cent. of the value of the scheme assets of the relevant scheme, and
+  - (ii) £1,500,000 (one million five hundred thousand pounds);
+- (d) a decision by the trustees or managers to grant benefits, or a right to benefits, on more favourable terms than those provided for by the scheme rules, without either seeking advice from the actuary (appointed under section 47(1) of the Pensions Act 1995) or securing additional funding where such funding was advised by the actuary;
+- (e) a decision by the trustees or managers to grant benefits, or a right to benefits, to a member , or where the trustees or managers are required to grant benefits or a right to benefits without such a decision having been taken, the granting of those benefits or that right,[^key-cb4c912102252e6b1560886024def650] the cost of which is more than the lower of—
+  - (i) 5 per cent. of the scheme assets, and
+  - (ii) £1,500,000 (one million five hundred thousand pounds).
+
+(2) The events prescribed for the purposes of section 69(2)(b) of the Act (duty to notify the Regulator of certain events – prescribed events in respect of the employer in relation to an eligible scheme) are—
+
+- (a) any decision by the employer to take action which will, or is intended to, result in a debt which is or may become due to the scheme not being paid in full;
+- (b) a decision by the employer to cease to carry on business in the United Kingdom , or where the employer ceases to carry on business in the United Kingdom without such a decision having been taken, the cessation of business in the United Kingdom by that employer[^key-45336a5d7596e9e69bf52f31e2645685];
+- (c) where applicable, receipt by the employer of advice that it is trading wrongfully within the meaning of section 214 of the Insolvency Act 1986[^f00006] (wrongful trading), or circumstances being reached in which a director or former director of the company knows that there is no reasonable prospect that the company will avoid going into insolvent liquidation within the meaning of that section, and for this purpose section 214(4) of that Act applies;
+- (d) any breach by the employer of a covenant in an agreement between the employer and a bank or other institution providing banking services, other than where the bank or other institution agrees with the employer not to enforce the covenant;
+- (e)[^key-8ada80f9138dc998d9e12e5dee6b19b1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (f) where the employer is a company, a decision by a controlling company to relinquish control of the employer company , or where the controlling company relinquishes such control without a decision to do so having been taken, the relinquishing of control of the employer company by that controlling company[^key-1cf75806965d5b04c37ee209d636c883];
+- (g)[^key-876b3c08ce4c646906d8c0ace58c225a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (h) the conviction of an individual, in any jurisdiction, for an offence involving dishonesty, if the offence was committed while the individual was a director or partner of the employer.
+
+Signed by authority of the Secretary of State for Work and Pensions.
+
+Malcolm Wicks
+
+Minister of State,
+
+Department for Work and Pensions
+
+23 March 2005
+
+(This note is not part of the Regulations)
+
+These Regulations prescribe those events the occurrence of which there is a duty upon the appropriate person to notify the Pensions Regulator. In relation to events in respect of certain occupational pension schemes the duty falls on the trustees or managers of the scheme; in relation to events in respect of employers in relation to eligible pension schemes, the duty falls on the employers.
+
+The Pensions Regulator is established by section 1 of the Pensions Act [2004 (c. 35)](https://www.legislation.gov.uk/ukpga/2004/35) (“the Act”).
+
+The Pensions Regulator has prepared directions and a code of practice which give further information regarding notifiable events.
+
+As these Regulations are made before the expiry of the period of six months beginning with the coming into force of section 69 of the Act by virtue of which they are made, the requirement for the Secretary of State to consult such persons as he considers appropriate does not apply.
+
+These regulations have only a negligible impact on business, charities and the voluntary sector. Publication of a full Regulatory Impact Assessment is not necessary for such legislation.
+
+## Annotations
+
+[^f00001]: Footnote: [2004 c. 35](https://www.legislation.gov.uk/ukpga/2004/35); section 318(1) is cited because of the meaning there given to “prescribed” and “regulations”.
+
+[^f00002]: Footnote: *See* section 317 of the Pensions Act 2004 (“the Act”) which provides that the Secretary of State must consult such persons as he considers appropriate before making regulations by virtue of the provisions of the Act (other than Part 8). This duty does not apply where regulations are made before the end of the period of six months beginning with the coming into force of the provisions of the Act by virtue of which the regulations are made.
+
+[^key-10536c8d48b459f1c8d9f6b403713261]: Commencement: Reg. 1 in force at 6.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/900/regulation/1/1)
+
+[^f00003]: Footnote: [1986 c. 45](https://www.legislation.gov.uk/ukpga/1986/45).
+
+[^f00004]: Footnote: [1985 c. 6](https://www.legislation.gov.uk/ukpga/1985/6); under regulation 4 of, and Part 1 of Schedule 2 to, the Limited Liability Partnerships Regulations 2001 (S.I. [2001/1090](https://www.legislation.gov.uk/uksi/2001/1090)), section 741 (except subsection (3)) applies to limited liability partnerships with the modifications set out in regulation 4(1).
+
+[^key-5f5252b53835252e70ec26f8e71db03a]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2005/900/regulation/1/2) omitted (6.4.2009) by virtue of [The Pensions Regulator (Miscellaneous Amendment) Regulations 2009 (S.I. 2009/617)](https://www.legislation.gov.uk/uksi/2009/617), [regs. 1](https://www.legislation.gov.uk/uksi/2009/617/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2009/617/regulation/3/2)
+
+[^key-b8094099674509bf3b406ce20d9ddd2a]: Commencement: Reg. 2 in force at 6.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/900/regulation/1/1)
+
+[^key-2527b60b7f378dc132a38b285f50794d]: Textual amendment: [Reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2005/900/regulation/2/1/b) omitted (6.4.2009) by virtue of [The Pensions Regulator (Miscellaneous Amendment) Regulations 2009 (S.I. 2009/617)](https://www.legislation.gov.uk/uksi/2009/617), [regs. 1](https://www.legislation.gov.uk/uksi/2009/617/regulation/1), [3(3)(a)](https://www.legislation.gov.uk/uksi/2009/617/regulation/3/3/a)
+
+[^key-4da5cb8d3088109e4eb967218ce5b672]: Textual amendment: Words in [reg. 2(1)(c)](https://www.legislation.gov.uk/uksi/2005/900/regulation/2/1/c) inserted (19.8.2005) by [The Occupational Pension Schemes (Miscellaneous Amendments) Regulations 2005 (S.I. 2005/2113)](https://www.legislation.gov.uk/uksi/2005/2113), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/2113/regulation/1/1), [11(2)](https://www.legislation.gov.uk/uksi/2005/2113/regulation/11/2)
+
+[^key-cb4c912102252e6b1560886024def650]: Textual amendment: Words in [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2005/900/regulation/2/1/e) inserted (19.8.2005) by [The Occupational Pension Schemes (Miscellaneous Amendments) Regulations 2005 (S.I. 2005/2113)](https://www.legislation.gov.uk/uksi/2005/2113), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/2113/regulation/1/1), [11(3)](https://www.legislation.gov.uk/uksi/2005/2113/regulation/11/3)
+
+[^key-45336a5d7596e9e69bf52f31e2645685]: Textual amendment: Words in [reg. 2(2)(b)](https://www.legislation.gov.uk/uksi/2005/900/regulation/2/2/b) added (19.8.2005) by [The Occupational Pension Schemes (Miscellaneous Amendments) Regulations 2005 (S.I. 2005/2113)](https://www.legislation.gov.uk/uksi/2005/2113), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/2113/regulation/1/1), [11(4)](https://www.legislation.gov.uk/uksi/2005/2113/regulation/11/4)
+
+[^f00006]: Footnote: Section 214 is modified by section 90 of, and Schedule 15 to, the Building Societies Act [1986 (c. 53)](https://www.legislation.gov.uk/ukpga/1986/53) and by section 23 of and Schedule 10 to, the Friendly Societies Act [1992 (c. 40)](https://www.legislation.gov.uk/ukpga/1992/40). Regulation 5 of the Limited Liability Partnerships Regulations 2001 (S.I. [2001/1090](https://www.legislation.gov.uk/uksi/2001/1090)) applies *inter alia* section 214 to limited liability partnerships, with modifications including that references to a company shall include references to a limited liability partnership, and references to a director shall include references to a member (see regulation 5(2)(a) and (b)).
+
+[^key-8ada80f9138dc998d9e12e5dee6b19b1]: Textual amendment: [Reg. 2(2)(e)](https://www.legislation.gov.uk/uksi/2005/900/regulation/2/2/e) omitted (6.4.2009) by virtue of [The Pensions Regulator (Miscellaneous Amendment) Regulations 2009 (S.I. 2009/617)](https://www.legislation.gov.uk/uksi/2009/617), [regs. 1](https://www.legislation.gov.uk/uksi/2009/617/regulation/1), [3(3)(b)](https://www.legislation.gov.uk/uksi/2009/617/regulation/3/3/b)
+
+[^key-1cf75806965d5b04c37ee209d636c883]: Textual amendment: Words in [reg. 2(2)(f)](https://www.legislation.gov.uk/uksi/2005/900/regulation/2/2/f) added (19.8.2005) by [The Occupational Pension Schemes (Miscellaneous Amendments) Regulations 2005 (S.I. 2005/2113)](https://www.legislation.gov.uk/uksi/2005/2113), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/2113/regulation/1/1), [11(5)](https://www.legislation.gov.uk/uksi/2005/2113/regulation/11/5)
+
+[^key-876b3c08ce4c646906d8c0ace58c225a]: Textual amendment: [Reg. 2(2)(g)](https://www.legislation.gov.uk/uksi/2005/900/regulation/2/2/g) omitted (6.4.2009) by virtue of [The Pensions Regulator (Miscellaneous Amendment) Regulations 2009 (S.I. 2009/617)](https://www.legislation.gov.uk/uksi/2009/617), [regs. 1](https://www.legislation.gov.uk/uksi/2009/617/regulation/1), [3(3)(b)](https://www.legislation.gov.uk/uksi/2009/617/regulation/3/3/b)

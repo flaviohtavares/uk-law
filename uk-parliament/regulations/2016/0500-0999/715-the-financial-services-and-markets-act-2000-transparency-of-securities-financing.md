@@ -1,0 +1,846 @@
+---
+title: The Financial Services and Markets Act 2000 (Transparency of Securities Financing Transactions and of Reuse) Regulations 2016
+id: uksi/2016/715
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised-with-pending-changes
+made_date: '2016-07-07'
+text_date: '2023-07-11'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2016/715
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2016/715/pdfs/uksiem_20160715_en.pdf
+- http://www.legislation.gov.uk/uksi/2016/715/pdfs/uksi_20160715_en.pdf
+- http://www.legislation.gov.uk/uksi/2016/715/data.pdf
+pending_changes: 1
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Financial Services and Markets Act 2000 (Transparency of Securities Financing Transactions and of Reuse) Regulations 2016
+
+> **Warning: changes not yet applied to this text (1).** Text as at 2023-07-11. See https://www.legislation.gov.uk/changes/affected/uksi/2016/715
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2016 No. 715
+
+Financial Services And Markets
+
+The Financial Services and Markets Act 2000 (Transparency of Securities Financing Transactions and of Reuse) Regulations 2016
+
+Made
+
+7th July 2016
+
+Laid before Parliament
+
+8th July 2016
+
+Coming into force
+
+13th July 2016
+
+[^c23198691][^c23198701]The Treasury are a government department designated for the purposes of section 2(2) of the European Communities Act 1972 in relation to financial services.
+
+The Treasury, in exercise of the powers conferred by section 2(2) of the European Communities Act 1972 and the following provisions of the Financial Services and Markets Act 2000 [^c23198711]: sections 1A(6), 1L(2)(b), 168(4)(k), 204A(2) and (4), 293A, 296(1A), 297(2A)(c), 312E(3)(c), 380(6)(a)(i), 380(9); paragraph 23(2)(b) of Schedule 1ZA; paragraphs 14(2)(d), 26(2)(c) and 36(2)(b) of Schedule 17A; make the following Regulations:[^key-9eb1a7ded7c6bc84097f57543ab44dc0]
+
+## PART 1 — Citation, commencement and interpretation
+
+### 1. Citation and commencement
+
+(1) These Regulations may be cited as the Financial Services and Markets Act 2000 (Transparency of Securities Financing Transactions and of Reuse) Regulations 2016.
+
+(2) These Regulations come into force on 13th July 2016.
+
+### 2. Interpretation
+
+(1) In these Regulations—
+
+- “**the Act**” means the Financial Services and Markets Act 2000;
+- “**Bank**” means the Bank of England;
+- “[^key-73b629ed637c8aa077219702fdcf28a6]**recognised CSD**” has the meaning given in section 285(1) of the Act;
+- “**SFTR requirement**” means a requirement imposed by—
+  - (a) Article 4 or 15 of the SFT regulation [^c23198721]; or
+  - (b) any directly applicable regulation made under Article 4(9) or 4(10) of the SFT regulation.
+
+(2) Any expression used in these Regulations which is given a meaning in Article 3 [^key-901437d1e66c037bcdb7e361846c2232]... of the SFT regulation has the meaning which it is given in that Article.
+
+## PART 2 — Designation of competent authorities
+
+### 3. Designation of competent authorities
+
+(1) Subject to paragraph (2), the FCA is responsible for the functions of the competent authority for the purposes of the SFT regulation.
+
+(2) The Bank is responsible for the functions of the competent authority for the purposes of the SFT regulation in relation to any financial counterparty which is a recognised central counterparty or a recognised CSD[^key-4f0d9e65aa5cc002d0f1083dd1796717].
+
+## PART 3 — Administration and enforcement
+
+### CHAPTER 1 — Interpretation
+
+#### 4. Meaning of “non-authorised counterparty”
+
+In this Part a “non-authorised counterparty” is a financial or non-financial counterparty which is not—
+
+- (a) an authorised person;
+- (b) a recognised investment exchange; [^key-f2f70f32a25643fec84ec58d98f87b3e]...
+- (c) a recognised central counterparty ; or[^key-7ed97a40a0490bb3cc97bbc792f21bcd]
+- (d) a recognised CSD.
+
+### CHAPTER 2 — Information gathering
+
+#### 5. Power of the FCA to require information
+
+(1) This regulation applies where—
+
+- (a) it is necessary for the FCA to determine whether a person is subject to an SFTR requirement; or
+- (b) the FCA requires information or documents from a non-authorised counterparty in connection with the exercise of its functions under the SFT regulation or these Regulations.
+
+(2) The FCA may, by notice in writing, require a non-authorised counterparty or any other person—
+
+- (a) to provide specified information or information of a specified description; or
+- (b) to produce specified documents or documents of a specified description.
+
+(3) The information or documents must be provided or produced—
+
+- (a) before the end of such reasonable period as may be specified; and
+- (b) at such place as may be specified.
+
+(4) The FCA may require any information provided under this regulation to be provided in such a form as it may reasonably require.
+
+(5) The FCA may require—
+
+- (a) any information provided, whether in a document or otherwise, to be verified in such a manner; or
+- (b) any document produced to be authenticated in such a manner,
+
+as it may reasonably require.
+
+(6) In this regulation “**specified**” means specified in the notice.
+
+#### 6. Reports by skilled persons
+
+(1) Section 166 [^c23198731] of the Act (reports by skilled persons) applies where the FCA has required or could require a non-authorised counterparty to provide information or produce a document under regulation 5 as it applies where the FCA has required or could require a person to provide information or produce a document under the Act with the following modifications.
+
+(2) In section 166(1) the reference to any matter is to be read as a reference to any matter related to the exercise of the FCA's functions under the SFT regulation.
+
+(3) In section 166(2)(a) the reference to an authorised person is to be read as a reference to a non-authorised counterparty.
+
+#### 7. Information and documents: supplemental provisions
+
+(1) Section 175 [^c23198741] of the Act (information and documents: supplemental provisions) applies where the FCA has the power under regulation 5 to require a non-authorised counterparty or any other person to produce a document as it applies where the FCA has a power to require a person to produce a document under Part 11 of the Act with the following modifications.
+
+(2) In subsection (1) and (3) of section 175 the reference to an investigator is to be ignored.
+
+(3) Section 175(8) is to be ignored.
+
+### CHAPTER 3 — Supervisory measures
+
+#### 8. Guidance
+
+(1) The FCA may give guidance consisting of such information and advice as it considers appropriate with respect to—
+
+- (a) an SFTR requirement;
+- (b) any matter relating to the functions of the FCA under these Regulations; or
+- (c) any other matter about which it appears to the FCA to be desirable to give information or advice in connection with these Regulations.
+
+(2) The FCA may—
+
+- (a) publish its guidance;
+- (b) offer copies of its published guidance for sale at a reasonable price; or
+- (c) if it gives guidance in response to a request made by any person, make a reasonable charge for that guidance.
+
+#### 9. Directions
+
+(1) The FCA may direct a non-authorised counterparty to take, or refrain from taking, specified action where—
+
+- (a) it appears to the FCA that the non-authorised counterparty has contravened an SFTR requirement; and
+- (b) the FCA considers the action necessary to—
+  - (i) end any conduct which is contributing to a continuing contravention of an SFTR requirement; or
+  - (ii) prevent a further contravention of an SFTR requirement.
+
+(2) The direction may specify the time for compliance with the direction.
+
+(3) The direction is enforceable, on the application of the FCA, by an injunction or, in Scotland, by an order for specific performance under section 45 of the Court of Session Act 1988 [^c23198751].
+
+(4) The FCA may revoke a direction given under this regulation.
+
+#### 10. Directions: procedure
+
+(1) Before giving a direction under regulation 9 the FCA must give written notice of its intention to do so to the non-authorised counterparty concerned.
+
+(2) A notice under paragraph (1) must—
+
+- (a) state why the FCA intends to give the direction; and
+- (b) state a period of time during which representations may be made to the FCA about the proposed direction.
+
+(3) Before the end of the period for making representations, the non-authorised counterparty may make representations to the FCA.
+
+(4) The period for making representations may, in any particular case, be extended by the FCA.
+
+(5) In deciding whether to give a direction, the FCA must have regard to any representations made in accordance with paragraph (3).
+
+(6) When the FCA has decided whether to give a direction under regulation 9, it must give the non-authorised counterparty written notice of its decision.
+
+(7) If the FCA considers it necessary to do so, it may give a direction under regulation 9—
+
+- (a) without following the procedure set out in this regulation; or
+- (b) if the FCA has begun to follow that procedure, regardless of whether the period for making representations has expired.
+
+(8) If the FCA gives a direction in reliance on paragraph (7) it must, within a reasonable time of giving the direction, give the non-authorised counterparty a statement of its reasons—
+
+- (a) for giving the direction; and
+- (b) for relying on paragraph (7).
+
+(9) If the FCA gives a non-authorised counterparty a direction under regulation 9, the non-authorised counterparty may refer the matter to the Tribunal.
+
+(10) If the FCA has, in relation to a particular matter, followed the procedure set out in paragraphs (1) to (5), it need not follow it again if, in relation to that matter, it decides to take action other than that specified in its notice under paragraph (1).
+
+### CHAPTER 4 — Measures in relation to individuals
+
+#### 11. Temporary prohibition orders
+
+(1) The relevant regulator may make a temporary prohibition order where that regulator considers that a person (“A”) has been knowingly concerned in a contravention by a financial or non-financial counterparty of an SFTR requirement.
+
+(2) A temporary prohibition order is an order prohibiting A, for the period specified in the order, from performing functions which require A to be responsible for managing one or more aspects of the affairs of—
+
+- (a) a specified financial or non-financial counterparty; or
+- (b) a financial or non-financial counterparty of a specified description.
+
+(3) A prohibition imposed under this regulation may only be imposed for a limited period of time.
+
+(4) A financial or non-financial counterparty must take reasonable care to ensure that none of the financial or non-financial counterparty's functions is performed by a person who is prohibited from performing such a function by a temporary prohibition order.
+
+(5) The relevant regulator may vary or revoke a temporary prohibition order on the application of A or otherwise.
+
+(6) Where a relevant regulator who has imposed a temporary prohibition order on A considers that A has contravened that order it may—
+
+- (a) publish a statement to that effect; or
+- (b) impose on A a penalty, in respect of the contravention, of such amount as it considers appropriate.
+
+(7) In this regulation “**the relevant regulator**” means—
+
+- (a) where the counterparty referred to in paragraph (1) is a recognised central counterparty or a recognised CSD[^key-ec8145f135d6920d8962dc8ff72ca1e5], the Bank;
+- (b) where the counterparty referred to in paragraph (1) is any other financial or non-financial counterparty, the FCA.
+
+#### 12. Temporary prohibition orders: procedure
+
+(1) Section 57 [^c23198761] (prohibition orders: procedure and right to refer to Tribunal) of the Act applies to a temporary prohibition order made under regulation 11 as it applies to a prohibition order made under section 56 [^c23198771] of the Act (prohibition orders), but with—
+
+- (a) the references to a regulator being read to refer to—
+  - (i) the Bank, where the counterparty referred to in paragraph 11(1) is a recognised central counterparty or a recognised CSD[^key-78a9c89ba0a4c95328b28eb672dd316f]; or
+  - (ii) the FCA, where the counterparty referred to in paragraph 11(1) is any other financial or non-financial counterparty; and
+- (b) subsections (6), (7) and (8) of section 57 omitted.
+
+(2) Section 58 [^c23198781] of the Act (applications relating to prohibitions: procedure and right to refer to Tribunal) applies to an application made under regulation 11(5) to the relevant regulator for the variation or revocation of a temporary prohibition order made under regulation 11 as it applies to an application for the variation or revocation of a prohibition order made to the appropriate regulator under section 56 of the Act.
+
+#### 13. Contravention of a temporary prohibition order by a recognised body
+
+Section 312E (public censure), 312F (financial penalties), 312G (proposal to take disciplinary measures), 312H (decision notice) and 312I [^c23198791] (publication) of the Act apply in relation to the contravention by a recognised body of a requirement under regulation 11(4) as they apply in relation to the contravention by a recognised body of a relevant requirement, but with—
+
+- (a) references to the appropriate regulator being read to refer to—
+  - (i) the Bank, where the recognised body is a recognised central counterparty or a recognised CSD[^key-9ced1934ca66381badcc601a52d26dc3];
+  - (ii) the FCA, where the recognised body is any other financial or non-financial counterparty;
+- (b) in sub-paragraph (b) of section 312I, the reference to section 393(4) being read to refer to regulation 19.
+
+### CHAPTER 5 — Disciplinary measures
+
+#### 14. Public censure
+
+If the FCA considers that—
+
+- (a) a non-authorised counterparty has contravened—
+  - (i) an SFTR requirement; or
+  - (ii) a requirement imposed by or under this Part;
+- (b) a person has contravened a requirement imposed under regulation 5 for the purpose of determining whether the person is subject to an SFTR requirement; or
+- (c) an authorised person has contravened a requirement imposed by regulation 11(4),
+
+the FCA may publish a statement to that effect.
+
+#### 15. Financial penalties
+
+If the FCA considers that—
+
+- (a) a non-authorised counterparty has contravened—
+  - (i) an SFTR requirement; or
+  - (ii) a requirement imposed by or under this Part;
+- (b) a person has contravened a requirement imposed under regulation 5 for the purpose of determining whether the person is subject to an SFTR requirement; or
+- (c) an authorised person has contravened a requirement imposed by regulation 11(4),
+
+the FCA may impose a penalty of such amount as it considers appropriate on the non-authorised counterparty or person.
+
+### CHAPTER 6 — Notices and appeals
+
+#### 16. Meaning of “regulator”
+
+In this Chapter “**regulator**” means the FCA or the Bank.
+
+#### 17. Warning notices
+
+(1) If a regulator proposes to take action against a person under regulation 11(6), 14 or 15 it must give the person a warning notice.
+
+(2) A warning notice about—
+
+- (a) a proposal to publish a statement must set out the terms of the proposed statement;
+- (b) a proposal to impose a penalty must state the amount of the penalty;
+- (c) a proposal to vary a temporary prohibition order must set out the terms of the variation.
+
+#### 18. Decision notices
+
+(1) If a regulator decides to take action against a person under regulation 11(6), 14 or 15 it must give the person a decision notice without delay.
+
+(2) A decision notice about—
+
+- (a) the publication of a statement must set out the terms of the statement;
+- (b) the imposition of a penalty must state the amount of the penalty;
+- (c) the variation of a temporary prohibition order must set out the terms of the variation.
+
+#### 19. Application of Part 26 of the Act
+
+(1) Part 26 [^c23198801] of the Act (notices) applies in respect of notices given under this Part by a regulator as it applies in respect of notices given by the FCA under the Act, but with the following modifications.
+
+(2) In section 388 (decision notices)—
+
+- (a) in sub-paragraph (i) of paragraph (e) of subsection (1), the reference to the Act is to be read as if it is a reference to this Part;
+- (b) subsection (2) is to be ignored.
+
+(3) In section 390 (notices given in accordance with a court direction)—
+
+- (a) in paragraph (a) of subsection (2A), references to section 133(6)(b) and 133(6) apply as if they are references to those provisions as applied by regulation 22;
+- (b) subsection (6) and (10) are to be ignored.
+
+(4) Section 391 (publication of warning notices) applies as if—
+
+- (a) a notice given under regulation 10 is a supervisory notice;
+- (b) in subsection (6) the reference to the FCA is to be read as if it is a reference to a regulator;
+- (c) in subsection (8C) [^c23198811] the reference to the Act is to be read as if it is a reference to this Part.
+
+(5) Section 392 is to be ignored.
+
+(6) Section 393 (third party rights) and 394 (access to FCA or PRA material) apply to a warning notice or decision notice given in accordance with regulation 12(1), 17 or 18.
+
+(7) Section 395 (the FCA and PRA's procedures) and 396 (statements under section 395: consultation) do not apply.
+
+#### 20. Service of notices
+
+A notice given under this Part is a “**relevant document**” for the purposes of the Financial Services and Markets Act 2000 (Service of Notices) Regulations 2001 [^c23198821].
+
+#### 21. Appeals
+
+(1) A non-authorised counterparty who is aggrieved by a direction given to the non-authorised counterparty by the FCA under regulation 9 may refer the matter to the Tribunal.
+
+(2) If a regulator decides to—
+
+- (a) publish a statement in respect of a person under regulation 11(6)(a);
+- (b) impose a penalty on a person under regulation 11(6)(b),
+
+the person may refer the matter to the Tribunal.
+
+(3) If the FCA decides to—
+
+- (a) publish a statement in respect of a non-authorised counterparty, authorised person or any other person under regulation 14;
+- (b) impose a penalty on a non-authorised counterparty, authorised person or any other person under regulation 15,
+
+the non-authorised counterparty, authorised person or other person may refer the matter to the Tribunal.
+
+#### 22. The Tribunal
+
+(1) Part 9 [^c23198831] of the Act (hearings and appeals) applies in the case of a reference to the Tribunal under these Regulations as it applies to a reference to the Tribunal under the Act with the following modifications.
+
+(2) Section 133(7A) (proceedings before the Tribunal: general provision) applies as if after paragraph (o) there were references to—
+
+- (a) a decision to publish a statement under regulation 11(6)(a) or 14 of these Regulations;
+- (b) a decision to impose a penalty under regulation 11(6)(b) or 15 of these Regulations.
+
+(3) Section 133A(1) (proceedings before Tribunal: decision and supervisory notices, etc.) applies as if the reference to section 388(2) (decision notices) is read to be a reference to these Regulations.
+
+(4) Section 134 (legal assistance scheme), 135 (provisions of the legal assistance scheme) and 136 (funding of the legal assistance scheme) are to be ignored.
+
+### CHAPTER 7 — Injunctions
+
+#### 23. Injunctions
+
+(1) If, on the application of the relevant regulator, the court is satisfied—
+
+- (a) that there is a reasonable likelihood that a person will contravene a requirement imposed by or under this Part; or
+- (b) that a person has contravened such a requirement and that there is a reasonable likelihood that the contravention will continue or be repeated,
+
+the court may make an order restraining (or in Scotland an interdict prohibiting) the contravention.
+
+(2) If, on the application of the relevant regulator, the court is satisfied that—
+
+- (a) a person has contravened a requirement imposed by or under this Part; and
+- (b) there are steps which could be taken for remedying the contravention,
+
+the court may make an order requiring the person, and any other person who appears to have been knowingly concerned in the contravention, to take such steps as the court may direct to remedy it.
+
+(3) If, on the application of the relevant regulator, the court is satisfied that a person may have—
+
+- (a) contravened a requirement imposed by or under this Part; or
+- (b) been knowingly concerned in the contravention of such a requirement,
+
+it may make an order restraining (or in Scotland an interdict prohibiting) the person from disposing of, or otherwise dealing with, any of the person's assets which the court is satisfied the person is reasonably likely to dispose of or otherwise deal with.
+
+(4) The jurisdiction conferred by this regulation is exercisable by the High Court and the Court of Session.
+
+(5) In paragraph (2), references to remedying a contravention include references to mitigating its effect.
+
+(6) The Bank is the “relevant regulator” in the case of a contravention of—
+
+- (a) a requirement that is imposed by the Bank under regulation 11; or
+- (b) a requirement imposed by regulation 11(4) where the financial counterparty is a recognised central counterparty or a recognised CSD[^key-69c47f7e09360dcd3053a752968c00c8].
+
+(7) The FCA is the “relevant regulator” in the case of a contravention of any other requirement.
+
+### CHAPTER 8 — Offences
+
+#### 24. Misleading the FCA
+
+(1) A person must not, for the purposes of compliance or purported compliance with a requirement under this Part, knowingly or recklessly give the FCA information which is false or misleading in a material particular.
+
+(2) A person must not provide information to another person—
+
+- (a) knowing or being reckless as to whether the information is false or misleading in a material particular; and
+- (b) knowing that the information is to be provided to, or to be used for the purposes of providing information to, the FCA in connection with the discharge of its functions under these Regulations.
+
+(3) A person who contravenes paragraph (1) or (2) is guilty of an offence.
+
+(4) A person guilty of an offence under this regulation is liable—
+
+- (a) on summary conviction, to a fine not exceeding the statutory maximum; or
+- (b) on conviction on indictment, to a fine.
+
+#### 25. Restriction on penalties
+
+(1) A person who is convicted of an offence under these Regulations is not subsequently liable to a penalty under regulation 15 in respect of the same acts or omissions that constituted the offence.
+
+(2) Where the FCA imposes a penalty on a person under regulation 15 the person may not subsequently be convicted of an offence under these Regulations in respect of the same acts or omissions that constituted the contravention for which the penalty was imposed.
+
+#### 26. Proceedings for offences
+
+Proceedings for an offence under this Part may be instituted—
+
+- (a) in England and Wales only by the FCA or by or with the consent of the Director of Public Prosecutions; or
+- (b) in Northern Ireland only by the FCA or by or with the consent of the Director of Public Prosecutions for Northern Ireland.
+
+#### 27. Proceedings against unincorporated bodies
+
+(1) Proceedings for an offence under these Regulations alleged to have been committed by a partnership or other unincorporated association must be brought in the name of the partnership or association (and not in that of any of its members).
+
+(2) A fine imposed on a partnership or association on its conviction of an offence is to be paid out of the funds of the partnership or association.
+
+(3) Rules of court relating to the service of documents are to have effect as if a partnership or association were a body corporate.
+
+(4) In proceedings for an offence brought against a partnership or association—
+
+- (a) section 33 [^c23198841] (procedure on charge of offence against corporation) of the Criminal Justice Act 1925 and section 46 (corporations) of and Schedule 3 [^c23198851] to the Magistrates' Courts Act 1980 apply as they do in relation to a body corporate;
+- (b) section 70 and 143 [^c23198861] (proceedings against organisations) of the Criminal Procedure (Scotland) Act 1995 apply; and
+- (c) section 18 (procedure on charge) of the Criminal Justice (Northern Ireland) Act 1945 [^c23198871] and section 166 (corporations) of and Schedule 4 to the Magistrates' Courts (Northern Ireland) Order 1981 [^c23198881] apply as they do in relation to a body corporate.
+
+(5) Summary proceedings for an offence under regulation 24 may be taken—
+
+- (a) against a body corporate or unincorporated association at any place at which it has a place of business; and
+- (b) against an individual at any place where that individual is for the time being.
+
+(6) Paragraph (5) does not affect any jurisdiction exercisable apart from this regulation.
+
+## PART 4 — Review
+
+### 28. Review
+
+(1) The Treasury must from time to time—
+
+- (a) carry out a review of the provisions of Parts 2 and 3 of these Regulations;
+- (b) set out the conclusions of the review in a report; and
+- (c) publish the report.
+
+(2) The report must in particular—
+
+- (a) set out the objectives intended to be achieved by the regulatory provision made by those provisions;
+- (b) assess the extent to which those objectives are achieved; and
+- (c) assess whether those objectives remain appropriate and, if so, the extent to which they could be achieved with a system that imposes less regulation.
+
+(3)[^key-13355c8b03d68436aea0ff2a6575baad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) The first report under this article must be published before the end of 2020.
+
+(5) Reports under this article are afterwards to be published at intervals not exceeding five years.
+
+## PART 5 — Amendments
+
+### 29.
+
+Schedule 1, which contains amendments to primary legislation, has effect.
+
+### 30.
+
+Schedule 2, which contains amendments to secondary legislation, has effect.
+
+Charlie Elphicke
+
+George Hollingbery
+
+Two of the Lords Commissioners of Her Majesty's Treasury
+
+## SCHEDULE 1 — Amendments to primary legislation
+
+Regulation 29
+
+### 1. Financial Services and Markets Act 2000
+
+(1) The Financial Services and Markets Act 2000 is amended as follows.
+
+(2) In section 297 [^c23198891] (revoking recognition) after subsection (2C) insert—
+
+> (2D) If it appears to the Bank of England that a recognised central counterparty has failed, or is likely to fail, to comply with an obligation imposed on it by or under Article 4 or 15 of the SFT regulation it may make an order revoking the recognition order for that body even though the body does not wish the order to be made.
+
+.
+
+(3) In section 298 [^c23198901] (directions and revocation: procedure)—
+
+- (a) in subsection (1) for “or (2A)” substitute “ , (2A) or (2D) ”;
+- (b) after subsection (6) insert—
+
+  > (6A) If the appropriate regulator—
+  >
+  > - (a) gives a direction under section 296 to a recognised body because it has failed, or is likely to fail, to comply with an obligation imposed on it by or under Article 4 or 15 of the SFT regulation;
+  > - (b) makes a revocation order under section 297(2A)(c) because a recognised body has failed, or is likely to fail, to comply with an obligation imposed on it by or under Article 4 or 15 of the SFT regulation; or
+  > - (c) makes a revocation order under section 297(2D),
+  >
+  > the body concerned may refer the matter to the Tribunal.
+
+  .
+
+(4) In section 391 (publication) [^c23198911] after subsection (8B) insert—
+
+> (8C) Where a decision notice, final notice or supervisory notice relates to any decision or action under a provision of this Act in relation to the contravention of a requirement imposed by or under Article 4 or 15 of the SFT regulation, this section has effect subject to Article 26 of the SFT regulation (publication of decisions).
+
+.
+
+(5) In section 417 [^c23198921] (definitions), in subsection (1) insert at the appropriate place—
+
+> “**SFT regulation**” means Regulation (EU) 2015/2365 of the European Parliament and of the Council of 25 November 2015 on transparency of securities financing transactions and of reuse and amending Regulation (EU) No 648/2012;
+
+.
+
+(6) In Schedule 17A (further provision in relation to exercise of Part 18 functions by Bank of England)—
+
+- (a) in paragraph 11 (documents the Bank may require to be provided) [^c23198931] in sub-paragraph (2)(d) after “the EMIR regulation,” insert “ Article 4 or 15 of the SFT regulation, any directly applicable regulation made under those articles, ”;
+- (b) in paragraph 27 [^c23198941] (Bank's power to apply for a restitution order)—
+  - (i) at the end of sub-paragraph (2) insert “ (subject to sub-paragraph (3)). ”;
+  - (ii) after sub-paragraph (2) insert—
+
+    > (3) The power to make an application under section 382(1) is not exercisable by the Bank in respect of the contravention of a requirement imposed by or under Article 4 or 15 of the SFT regulation.
+
+    ;
+- (c) in paragraph 28 [^c23198951] (Bank's power to require restitution)—
+  - (i) at the end of sub-paragraph (3) insert “ (subject to sub-paragraph (3A)). ”;
+  - (ii) after sub-paragraph (3) insert—
+
+    > (3A) The power conferred by section 384(5) is not exercisable by the Bank in respect of the contravention of a requirement imposed by or under Article 4 or 15 of the SFT regulation.
+
+    .
+
+## SCHEDULE 2 — Amendments to secondary legislation
+
+Regulation 30
+
+### 1. Financial Services and Markets Act 2000 (Regulated Activities) Order 2001
+
+(1) The Financial Services and Markets Act 2000 (Regulated Activities) Order 2001 [^c23198961] is amended as follows.
+
+(2) In article 3(1) (interpretation) for the definition of “trade repository” substitute—
+
+> “**trade repository**” means—
+>
+> - (a) a person registered with ESMA under Article 55 of Regulation (EU) 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories or a person recognised by ESMA under Article 77 of that Regulation; or
+> - (b) a person registered with ESMA under Article 5 of the SFT regulation or a person recognised by ESMA under Article 19 of that Regulation;
+
+.
+
+(3) In article 35A (trade repositories)—
+
+- (a) after “centrally collecting and maintaining records of” insert “ (a) ”.
+- (b) at the end insert—
+
+  > ; or
+  >
+  > - (b) securities financing transactions under the SFT regulation
+
+  .
+
+### 2. Financial Services and Markets Act 2000 (Disclosure of Confidential Information) Regulations 2001
+
+(1) The Financial Services and Markets Act 2000 (Disclosure of Confidential Information) Regulations 2001 [^c23198971] is amended as follows.
+
+(2) In regulation 2 [^c23198981] (definitions)—
+
+- (a) in the definition of “EEA competent authority” for “or the market abuse regulation” substitute “ , the market abuse regulation or the SFT regulation ”;
+- (b) in the definition of “single market restrictions”—
+  - (i) at the end of paragraph (m) omit “and”;
+  - (ii) at the end of paragraph (n) insert “ and ”;
+  - (iii) after paragraph (n) insert—
+
+    > - (o) article 18 of the SFT regulation;
+
+    ;
+- (c) at the appropriate place insert—
+
+  > “**SFTR information**” means confidential information received by a regulator in the course of discharging its functions as a competent authority under the SFT regulation;
+
+  .
+
+(3) In regulation 8 [^c23198991] (application of provisions on single market information)—
+
+- (a) at the end of paragraph (d) omit “and”;
+- (b) at the end of paragraph (e) insert “ and ”;
+- (c) after paragraph (e) insert—
+
+  > - (f) SFTR information, where that information has been received from the competent authority of an EEA State other than the United Kingdom under the SFT regulation.
+
+  .
+
+(4) In regulation 9 [^c23199001] (disclosure by regulators or regulator workers to certain other persons)—
+
+- (a) in paragraph (1) after “(3E)” insert “ , (3EA) ”;
+- (b) after paragraph (3E) insert—
+
+  > (3EA) Paragraph (1) does not permit disclosure of SFTR information to a person specified in the first column of Schedule 1 in contravention of Article 18 of the SFT regulation.
+
+  .
+
+(5) In regulation 11 [^c23199011] (application of provisions on the disclosure of confidential information not subject to single market restrictions) after paragraph (f) insert—
+
+> - (fa) SFTR information where that information has been received from the competent authority of an EEA State other than the United Kingdom under the SFT regulation, unless that authority has given its express consent for disclosure that is covered by this Part;
+
+.
+
+### 3. Payment to Treasury of Penalties (Enforcement Costs) Order 2013
+
+(1) The Payment to Treasury of Penalties (Enforcement Costs) Order 2013 [^c23199021] is amended as follows.
+
+(2) In article 2 (enforcement powers), in paragraph (1), after sub-paragraph (l), insert—
+
+> - (m) regulation 15 of the Financial Services and Markets Act 2000 (Transparency of Securities Financing Transactions and of Reuse) Regulations 2016.
+
+.
+
+### 4. Financial Services and Markets Act 2000 (Qualifying EU Provisions) Order 2013
+
+(1) The Financial Services and Markets Act 2000 (Qualifying EU Provisions) Order 2013 [^c23199031] is amended as follows.
+
+(2) In article 2 [^c23199041] (qualifying EU provisions: general)—
+
+- (a) after paragraph (4) insert—
+
+  > (4A) The SFT regulation and any directly applicable regulation made under Article 4(9) or 4(10) of the SFT regulation are specified qualifying EU provisions for the purposes of sections 1A(6)(d), 1L(2)(b) and 168(4)(k) of the Act.
+
+  ;
+- (b) in paragraph (8), after sub-paragraph (f), insert—
+
+  > - (g) the SFT regulation and any directly applicable regulation made under Article 4(9) or 4(10) of the SFT regulation.
+
+  .
+
+(3) In article 3 [^c23199051] (disciplinary measures)—
+
+- (a) in paragraph (2), after sub-paragraph (j) insert—
+
+  > - (k) the SFT regulation and any directly applicable regulation made under Article 4(9) or 4(10) of the SFT regulation.
+
+  ;
+- (b) in paragraph (3), after sub-paragraph (h) insert—
+
+  > - (i) in relation to a contravention of a requirement imposed by the SFT regulation or any directly applicable regulation made under Article 4(9) or 4(10) of the SFT regulation, the FCA.
+
+  .
+
+(4) In article 4 [^c23199061] (recognised investment exchanges and clearing houses)—
+
+- (a) in paragraph (3), after sub-paragraph (e) insert—
+
+  > - (f) the SFT regulation and any directly applicable regulation made under Article 4(9) or 4(10) of the SFT regulation.
+
+  ;
+- (b) in paragraph (5), after sub-paragraph (e), insert—
+
+  > - (f) the SFT regulation and any directly applicable regulation made under Article 4(9) or 4(10) of the SFT regulation.
+
+  ;
+- (c) in paragraph (7), after sub-paragraph (d), insert—
+
+  > - (e) the SFT regulation and any directly applicable regulation made under Article 4(9) or 4(10) of the SFT regulation.
+
+  ;
+- (d) after paragraph (10) insert—
+
+  > (11) The SFT regulation and any directly applicable regulation made under Article 4(9) or 4(10) of the SFT regulation are specified qualifying EU provisions for the purposes of paragraph 14(2)(d) of Schedule 17A to the Act.
+
+  .
+
+(5) In article 5 [^c23199071] (injunctions and restitution)—
+
+- (a) after paragraph (4) insert—
+
+  > (4A) The SFT regulation and any directly applicable regulation made under Article 4(9) or 4(10) of the SFT regulation are specified qualifying EU provisions for the purposes of section 380(6)(a) of the Act.
+
+  ;
+- (b) after paragraph (5) insert—
+
+  > (5A) The appropriate regulator for the purposes of section 380 of the Act, in relation to a contravention of the SFT regulation or any directly applicable regulation made under Article 4(9) or 4(10) of the SFT regulation, is the FCA.
+
+  ;
+- (c) in paragraph (6), after sub-paragraph (c), insert—
+
+  > - (d) the SFT regulation and any directly applicable regulation made under Article 4(9) or 4(10) of the SFT regulation.
+
+  .
+
+(6) In article 6 [^c23199081] (fees)—
+
+- (a) in paragraph (2), after sub-paragraph (m), insert—
+
+  > - (n) the SFT regulation and any directly applicable regulation made under Article 4(9) or 4(10) of the SFT regulation.
+
+  ;
+- (b) in paragraph (6), after sub-paragraph (c), insert—
+
+  > - (d) the SFT regulation and any directly applicable regulation made under Article 4(9) or 4(10) of the SFT regulation.
+
+  .
+
+### 5. The Financial Services and Markets Act 2000 (Over the Counter Derivatives, Central Counterparties and Trade Repositories) Regulations 2013
+
+In the Financial Services and Markets Act 2000 (Over the Counter Derivatives, Central Counterparties and Trade Repositories) Regulations 2013, before regulation 16 [^c23199091] (records of telephone and data traffic) insert—
+
+> **15B. Interpretation**
+>
+> In this Part, a reference to a power of ESMA under Article 62 or 63 of the EMIR regulation is to be read as being a reference to that power as exercisable for the purposes of the SFT regulation under Article 9 of that Regulation.
+
+.
+
+*(This note is not part of the Regulations)*
+
+These Regulations implement certain Articles of Regulation (EU) 2015/2365 of the European Parliament and of the Council of 25 November 2015 on transparency of securities financing transactions and of reuse and amending Regulation (EU) No 648/2012 (OJ No L 337, 23.12.2015, p.1) (“**the SFT regulation**”).
+
+In Part 2, regulation 3 designates the Bank of England (“**the Bank**”) as the competent authority responsible for supervising recognised central counterparties for the purposes of the SFT regulation. For all other counterparties the Financial Conduct Authority (“FCA”) is designated as the competent authority.
+
+Part 3 provides administration and enforcement powers to the FCA so that it can monitor and enforce the compliance of non-authorised counterparties with the SFT regulation. Non-authorised counterparties are those counterparties that are not already subject to supervision by the FCA or the Bank of England under the Financial Services and Markets Act 2000 (c.8) (“**the Act**”).
+
+In particular, Part 3 confers powers on the FCA for information gathering, giving directions for action to be taken to comply with the SFT regulation, publicly censuring counterparties for breach of the SFT regulation and imposing financial penalties. Part 3 also provides a power to the FCA to temporarily prohibit an individual responsible for a counterparty's breach of the SFT regulation from being concerned in the management of a financial or non-financial counterparty. The same power is conferred on the Bank in relation to an individual responsible for a breach by a recognised central counterparty. Notice and appeal rights are also provided for and the competent authority is given the power to seek an injunction against any person who has breached or is likely to breach a requirement imposed by or under Part 3. Part 3 also makes it an offence to mislead the FCA in purported compliance with a requirement imposed under Part 3.
+
+Part 4 provides for these Regulations to be reviewed before the end of 2020 and subsequently at intervals of not more than five years.
+
+Schedule 1 amends the Act and paragraph 4 of Schedule 2 amends the Financial Services and Markets Act 2000 (Qualifying EU Provisions) Order 2013 (S.I. 2013/165) to implement fully the minimum sanctions and other measures required by the SFT regulation in respect of authorised persons and regulated bodies under the Act.
+
+The remainder of Schedule 2 makes consequential amendments to secondary legislation.
+
+An impact assessment of the effect that this instrument will have on the costs of business and the voluntary sector has not been prepared. These Regulations provide an enforcement mechanism for obligations which are imposed by directly applicable EU legislation and any impact on business or the voluntary sector will arise as a result of that EU legislation rather than these Regulations.
+
+## Annotations
+
+[^c23198691]: Marginal citation: [S.I. 2012/1759](https://www.legislation.gov.uk/uksi/2012/1759).
+
+[^c23198701]: Marginal citation: [1972 c.68](https://www.legislation.gov.uk/ukpga/1972/68); [section 2(2)](https://www.legislation.gov.uk/uksi/2016/715/section/2/2) was amended by section 27 of the [Legislative and Regulatory Reform Act 2006 (c.51)](https://www.legislation.gov.uk/ukpga/2006/51) and by section 3 of, and the Schedule to, the [European Union (Amendment) Act 2008 (c.7)](https://www.legislation.gov.uk/ukpga/2008/7). By virtue of the amendment of section 1(2) made by section 1 of the [European Economic Area Act 1993 (c.51)](https://www.legislation.gov.uk/ukpga/1993/51) regulations may be made under section 2(2) to implement obligations of the United Kingdom created by or arising under the Agreement on the European Economic Area signed at Oporto on 2nd May 1992 (Cm 2073, OJ No L1, 3.11.1994, p.3) and the Protocol adjusting that Agreement signed at Brussels on 17th March 1993 (Cm 2183, OJ No L1, 3.1.1994, p.572).
+
+[^c23198711]: Marginal citation: [2000 c.8](https://www.legislation.gov.uk/ukpga/2000/8). Sections 1A to 3S were inserted by section 6 of the [Financial Services Act 2012 (c.21)](https://www.legislation.gov.uk/ukpga/2012/21); [section 168](https://www.legislation.gov.uk/uksi/2016/715/section/168) was amended by Schedule 12 to that Act; [sections 204A](https://www.legislation.gov.uk/uksi/2016/715/section/204A) and 380 were amended by Schedule 9 to that Act; [section 293A](https://www.legislation.gov.uk/uksi/2016/715/section/293A) was inserted by Schedule 8 to that Act; [sections 296](https://www.legislation.gov.uk/uksi/2016/715/section/296) and 297 were amended by Schedule 8 to that Act; [section 312E](https://www.legislation.gov.uk/uksi/2016/715/section/312E) was inserted by section 33 of that Act; [Schedule 1ZA](https://www.legislation.gov.uk/uksi/2016/715/schedule/1ZA) was inserted by Schedule 3 to that Act; [Schedule 17A](https://www.legislation.gov.uk/uksi/2016/715/schedule/17A) was inserted by Schedule 7 to that Act. There are other amendments to the Act which are not relevant to this Order.
+
+[^key-9eb1a7ded7c6bc84097f57543ab44dc0]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2016/715): power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
+
+[^key-73b629ed637c8aa077219702fdcf28a6]: Textual amendment: Words in reg. 2(1) inserted (28.11.2017) by [The Central Securities Depositories Regulations 2017 (S.I. 2017/1064)](https://www.legislation.gov.uk/uksi/2017/1064), [reg. 1](https://www.legislation.gov.uk/uksi/2017/1064/regulation/1), [Sch. para. 43(2)](https://www.legislation.gov.uk/uksi/2017/1064/schedule/paragraph/43/2) (with [regs. 7(4)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/7/4), [9(1)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/9/1))
+
+[^c23198721]: Marginal citation: “SFT regulation” is defined in section 417 of the Act, as amended by paragraph 1(5) of Schedule 1 to these Regulations.
+
+[^key-901437d1e66c037bcdb7e361846c2232]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/2016/715/regulation/2/2) omitted (31.12.2020) by virtue of [The Transparency of Securities Financing Transactions and of Reuse (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/542)](https://www.legislation.gov.uk/uksi/2019/542), [regs. 1](https://www.legislation.gov.uk/uksi/2019/542/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2019/542/regulation/3/2) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-4f0d9e65aa5cc002d0f1083dd1796717]: Textual amendment: Words in [reg. 3(2)](https://www.legislation.gov.uk/uksi/2016/715/regulation/3/2) inserted (28.11.2017) by [The Central Securities Depositories Regulations 2017 (S.I. 2017/1064)](https://www.legislation.gov.uk/uksi/2017/1064), [reg. 1](https://www.legislation.gov.uk/uksi/2017/1064/regulation/1), [Sch. para. 43(3)](https://www.legislation.gov.uk/uksi/2017/1064/schedule/paragraph/43/3) (with [regs. 7(4)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/7/4), [9(1)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/9/1))
+
+[^key-f2f70f32a25643fec84ec58d98f87b3e]: Textual amendment: Word in reg. 4(b) omitted (28.11.2017) by virtue of [The Central Securities Depositories Regulations 2017 (S.I. 2017/1064)](https://www.legislation.gov.uk/uksi/2017/1064), [reg. 1](https://www.legislation.gov.uk/uksi/2017/1064/regulation/1), [Sch. para. 43(4)(a)](https://www.legislation.gov.uk/uksi/2017/1064/schedule/paragraph/43/4/a) (with [regs. 7(4)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/7/4), [9(1)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/9/1))
+
+[^key-7ed97a40a0490bb3cc97bbc792f21bcd]: Textual amendment: Reg. 4(d) and word inserted (28.11.2017) by [The Central Securities Depositories Regulations 2017 (S.I. 2017/1064)](https://www.legislation.gov.uk/uksi/2017/1064), [reg. 1](https://www.legislation.gov.uk/uksi/2017/1064/regulation/1), [Sch. para. 43(4)(b)](https://www.legislation.gov.uk/uksi/2017/1064/schedule/paragraph/43/4/b) (with [regs. 7(4)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/7/4), [9(1)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/9/1))
+
+[^c23198731]: Marginal citation: [Section 166](https://www.legislation.gov.uk/uksi/2016/715/section/166) was amended by the Financial Services Act 2012, Schedule 12, paragraph 5.
+
+[^c23198741]: Marginal citation: [Section 175](https://www.legislation.gov.uk/uksi/2016/715/section/175) was amended by the Financial Services Act 2012, Schedule 12, paragraph 13.
+
+[^c23198751]: Marginal citation: [1988 c.36](https://www.legislation.gov.uk/ukpga/1988/36).
+
+[^key-ec8145f135d6920d8962dc8ff72ca1e5]: Textual amendment: Words in [reg. 11(7)(a)](https://www.legislation.gov.uk/uksi/2016/715/regulation/11/7/a) inserted (28.11.2017) by [The Central Securities Depositories Regulations 2017 (S.I. 2017/1064)](https://www.legislation.gov.uk/uksi/2017/1064), [reg. 1](https://www.legislation.gov.uk/uksi/2017/1064/regulation/1), [Sch. para. 43(5)](https://www.legislation.gov.uk/uksi/2017/1064/schedule/paragraph/43/5) (with [regs. 7(4)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/7/4), [9(1)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/9/1))
+
+[^c23198761]: Marginal citation: Section 57 was amended by the Financial Services Act 2012, section 13.
+
+[^c23198771]: Marginal citation: Section 56 was amended by the Financial Services Act 2012, section 13.
+
+[^key-78a9c89ba0a4c95328b28eb672dd316f]: Textual amendment: Words in [reg. 12(1)(a)(i)](https://www.legislation.gov.uk/uksi/2016/715/regulation/12/1/a/i) inserted (28.11.2017) by [The Central Securities Depositories Regulations 2017 (S.I. 2017/1064)](https://www.legislation.gov.uk/uksi/2017/1064), [reg. 1](https://www.legislation.gov.uk/uksi/2017/1064/regulation/1), [Sch. para. 43(6)](https://www.legislation.gov.uk/uksi/2017/1064/schedule/paragraph/43/6) (with [regs. 7(4)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/7/4), [9(1)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/9/1))
+
+[^c23198781]: Marginal citation: Section 58 was amended by the Financial Services Act 2012, Schedule 5, paragraph 2.
+
+[^c23198791]: Marginal citation: Section 312E, 312F, 312G, 312H and 312I were inserted by the Financial Services Act 2012, section 33.
+
+[^key-9ced1934ca66381badcc601a52d26dc3]: Textual amendment: Words in [reg. 13(a)(i)](https://www.legislation.gov.uk/uksi/2016/715/regulation/13/a/i) inserted (28.11.2017) by [The Central Securities Depositories Regulations 2017 (S.I. 2017/1064)](https://www.legislation.gov.uk/uksi/2017/1064), [reg. 1](https://www.legislation.gov.uk/uksi/2017/1064/regulation/1), [Sch. para. 43(7)](https://www.legislation.gov.uk/uksi/2017/1064/schedule/paragraph/43/7) (with [regs. 7(4)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/7/4), [9(1)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/9/1))
+
+[^c23198801]: Marginal citation: [Part 26](https://www.legislation.gov.uk/uksi/2016/715/part/26) was amended by paragraph 11 of Schedule 4 to the [Regulation of Investigatory Powers Act 2000 (c.23)](https://www.legislation.gov.uk/ukpga/2000/23), [section 1268](https://www.legislation.gov.uk/ukpga/2000/23/section/1268) of the [Companies Act 2006 (c.46)](https://www.legislation.gov.uk/ukpga/2006/46), [section 13](https://www.legislation.gov.uk/ukpga/2006/46/section/13) and 24 of and paragraph 28 and 29 of Schedule 2 to the Financial Services Act 2010, section 17, 18, 19 and 24 of and paragraph 37 of Schedule 8, Schedule 9 and paragraph 8 of Schedule 13 to the Financial Services Act 2012, section 4 of and Schedule 3 to the [Financial Services (Banking Reform) Act 2013 (c.33)](https://www.legislation.gov.uk/ukpga/2013/33), [S.I](https://www.legislation.gov.uk/ukpga/2013/33/section/I). 2005/381, [S.I. 2005/1433](https://www.legislation.gov.uk/uksi/2005/1433), [S.I](https://www.legislation.gov.uk/uksi/2005/1433/section/I). 2007/126, [S.I. 2007/1973](https://www.legislation.gov.uk/uksi/2007/1973), [S.I](https://www.legislation.gov.uk/uksi/2007/1973/section/I). 2009/119, [S.I. 2009/534](https://www.legislation.gov.uk/uksi/2009/534), [S.I](https://www.legislation.gov.uk/uksi/2009/534/section/I). 2010/22, [S.I. 2010/747](https://www.legislation.gov.uk/uksi/2010/747), [S.I](https://www.legislation.gov.uk/uksi/2010/747/section/I). 2012/916, [S.I. 2012/1538](https://www.legislation.gov.uk/uksi/2012/1538), [S.I](https://www.legislation.gov.uk/uksi/2012/1538/section/I). 2013/1388, [S.I. 2013/3115](https://www.legislation.gov.uk/uksi/2013/3115), [S.I](https://www.legislation.gov.uk/uksi/2013/3115/section/I). 2014/2879, [S.I. 2015/1755](https://www.legislation.gov.uk/uksi/2015/1755) and [S.I. 2016/225](https://www.legislation.gov.uk/uksi/2016/225).
+
+[^c23198811]: Marginal citation: Subsection (8C) is inserted by paragraph 1(4) of Schedule 1 to these Regulations.
+
+[^c23198821]: Marginal citation: [S.I. 2001/1420](https://www.legislation.gov.uk/uksi/2001/1420), amended by section 11, 18 and 24 of the [Financial Services Act 2012 (c.21)](https://www.legislation.gov.uk/ukpga/2012/21), [S.I](https://www.legislation.gov.uk/ukpga/2012/21/section/I). 2005/274, [S.I. 2010/1193](https://www.legislation.gov.uk/uksi/2010/1193), [S.I](https://www.legislation.gov.uk/uksi/2010/1193/section/I). 2013/472 and [S.I. 2014/549](https://www.legislation.gov.uk/uksi/2014/549).
+
+[^c23198831]: Marginal citation: [Part 9](https://www.legislation.gov.uk/uksi/2016/715/part/9) was amended by section 23 of the Financial Services Act 2012, paragraph 83 of Schedule 9 to the [Crime and Courts Act 2013 (c.22)](https://www.legislation.gov.uk/ukpga/2013/22), [S.I](https://www.legislation.gov.uk/ukpga/2013/22/section/I). 2010/22 and [S.I. 2013/1388](https://www.legislation.gov.uk/uksi/2013/1388).
+
+[^key-69c47f7e09360dcd3053a752968c00c8]: Textual amendment: Words in [reg. 23(6)(b)](https://www.legislation.gov.uk/uksi/2016/715/regulation/23/6/b) inserted (28.11.2017) by [The Central Securities Depositories Regulations 2017 (S.I. 2017/1064)](https://www.legislation.gov.uk/uksi/2017/1064), [reg. 1](https://www.legislation.gov.uk/uksi/2017/1064/regulation/1), [Sch. para. 43(8)](https://www.legislation.gov.uk/uksi/2017/1064/schedule/paragraph/43/8) (with [regs. 7(4)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/7/4), [9(1)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/9/1))
+
+[^c23198841]: Marginal citation: [1925 c.86](https://www.legislation.gov.uk/ukpga/1925/86). Section 33 was amended by the [Magistrates' Courts Act 1952 (c.55)](https://www.legislation.gov.uk/ukpga/1952/55), [section 132](https://www.legislation.gov.uk/ukpga/1952/55/section/132) and Schedule 6, the [Courts Act 1971 (c.23)](https://www.legislation.gov.uk/ukpga/1971/23), [Schedule 8](https://www.legislation.gov.uk/ukpga/1971/23/schedule/8), and the [Courts Act 2003 (c.39)](https://www.legislation.gov.uk/ukpga/2003/39), [Schedule 8](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8), [paragraph 71](https://www.legislation.gov.uk/ukpga/2003/39/paragraph/71) and Schedule 10.
+
+[^c23198851]: Marginal citation: [1980 c.43](https://www.legislation.gov.uk/ukpga/1980/43). Schedule 3 was amended by the [Criminal Justice Act 1991 (c.53)](https://www.legislation.gov.uk/ukpga/1991/53), [section 25(2)](https://www.legislation.gov.uk/ukpga/1991/53/section/25/2) and Schedule 13, and the [Criminal Justice Act 2003 (c.44)](https://www.legislation.gov.uk/ukpga/2003/44), [Schedule 3](https://www.legislation.gov.uk/ukpga/2003/44/schedule/3), [paragraph 51](https://www.legislation.gov.uk/ukpga/2003/44/paragraph/51) and Schedule 37, Part 4.
+
+[^c23198861]: Marginal citation: [1995 c.46](https://www.legislation.gov.uk/ukpga/1995/46). Section 70 was amended by section 66 of the Criminal Justice and Licensing (Scotland) Act [2010 asp 13](https://www.legislation.gov.uk/asp/2010/13). Section 143 is amended by section 67 of the Criminal Justice and Licensing (Scotland) Act [2010 asp 13](https://www.legislation.gov.uk/asp/2010/13), [section 17](https://www.legislation.gov.uk/asp/2010/13/section/17) of the Criminal Proceedings etc. (Reform) (Scotland) Act [2007 asp 6](https://www.legislation.gov.uk/asp/2007/6) and [S.S.I. 2001/128](https://www.legislation.gov.uk/ssi/2001/128).
+
+[^c23198871]: Marginal citation: [1945 c.15](https://www.legislation.gov.uk/ukpga/1945/15).
+
+[^c23198881]: Marginal citation: [S.I. 1981/1675](https://www.legislation.gov.uk/uksi/1981/1675).
+
+[^key-13355c8b03d68436aea0ff2a6575baad]: Textual amendment: [Reg. 28(3)](https://www.legislation.gov.uk/uksi/2016/715/regulation/28/3) omitted (31.12.2020) by virtue of [The Transparency of Securities Financing Transactions and of Reuse (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/542)](https://www.legislation.gov.uk/uksi/2019/542), [regs. 1](https://www.legislation.gov.uk/uksi/2019/542/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2019/542/regulation/3/3) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c23198891]: Marginal citation: [Section 297](https://www.legislation.gov.uk/uksi/2016/715/section/297) was amended by paragraph 15 of Schedule 8 to the Financial Services Act 2012 and [S.I. 2007/126](https://www.legislation.gov.uk/uksi/2007/126), [S.I](https://www.legislation.gov.uk/uksi/2007/126/section/I). 2012/916 and [S.I. 2013/504](https://www.legislation.gov.uk/uksi/2013/504).
+
+[^c23198901]: Marginal citation: [Section 298](https://www.legislation.gov.uk/uksi/2016/715/section/298) was amended by section 32 and paragraph 16 of Schedule 8 to the Financial Services Act 2012 and [S.I. 2007/126](https://www.legislation.gov.uk/uksi/2007/126).
+
+[^c23198911]: Marginal citation: [Section 391](https://www.legislation.gov.uk/uksi/2016/715/section/391) was amended by section 13 and paragraph 28 of Schedule 2 to the Financial Services Act 2010, section 24 and paragraph 30 of Schedule 9 to the [Financial Services Act 2012 (c.21)](https://www.legislation.gov.uk/ukpga/2012/21), [S.I](https://www.legislation.gov.uk/ukpga/2012/21/section/I). 2012/916, [S.I. 2013/1388](https://www.legislation.gov.uk/uksi/2013/1388), [S.I](https://www.legislation.gov.uk/uksi/2013/1388/section/I). 2013/3115, [S.I. 2014/2879](https://www.legislation.gov.uk/uksi/2014/2879), [S.I](https://www.legislation.gov.uk/uksi/2014/2879/section/I). 2016/225 and [S.I. 2016/680](https://www.legislation.gov.uk/uksi/2016/680).
+
+[^c23198921]: Marginal citation: There are amendments to section 417 but none are relevant.
+
+[^c23198931]: Marginal citation: [Paragraph 11(2)(d)](https://www.legislation.gov.uk/uksi/2016/715/paragraph/11/2/d) was inserted by [S.I. 2013/504](https://www.legislation.gov.uk/uksi/2013/504) and amended by [S.I. 2014/2879](https://www.legislation.gov.uk/uksi/2014/2879).
+
+[^c23198941]: Marginal citation: [Paragraph 27](https://www.legislation.gov.uk/uksi/2016/715/paragraph/27) was inserted by paragraph 1 of Schedule 7 to the Financial Services Act 2012.
+
+[^c23198951]: Marginal citation: [Paragraph 28](https://www.legislation.gov.uk/uksi/2016/715/paragraph/28) was inserted by paragraph 1 of Schedule 7 to the Financial Services Act 2012.
+
+[^c23198961]: Marginal citation: [S.I. 2001/544](https://www.legislation.gov.uk/uksi/2001/544), amended by [S.I. 2013/504](https://www.legislation.gov.uk/uksi/2013/504); there are other amending instruments but none are relevant.
+
+[^c23198971]: Marginal citation: [S.I. 2001/2188](https://www.legislation.gov.uk/uksi/2001/2188).
+
+[^c23198981]: Marginal citation: [Regulation 2](https://www.legislation.gov.uk/uksi/2016/715/regulation/2) was amended by [S.I. 2003/2066](https://www.legislation.gov.uk/uksi/2003/2066), [S.I](https://www.legislation.gov.uk/uksi/2003/2066/section/I). 2006/3413, [S.I. 2013/504](https://www.legislation.gov.uk/uksi/2013/504) and [S.I. 2016/680](https://www.legislation.gov.uk/uksi/2016/680). There are other amendments not relevant to these Regulations.
+
+[^c23198991]: Marginal citation: [Regulation 8](https://www.legislation.gov.uk/uksi/2016/715/regulation/8) was inserted by [S.I. 2006/3413](https://www.legislation.gov.uk/uksi/2006/3413) and is amended by [S.I. 2016/680](https://www.legislation.gov.uk/uksi/2016/680). There are other amendments not relevant to these Regulations.
+
+[^c23199001]: Marginal citation: [Regulation 9](https://www.legislation.gov.uk/uksi/2016/715/regulation/9) was amended by [S.I. 2004/3379](https://www.legislation.gov.uk/uksi/2004/3379), [S.I](https://www.legislation.gov.uk/uksi/2004/3379/section/I). 2006/3413, [S.I. 2007/3255](https://www.legislation.gov.uk/uksi/2007/3255), [S.I](https://www.legislation.gov.uk/uksi/2007/3255/section/I). 2010/2628, [S.I. 2011/1613](https://www.legislation.gov.uk/uksi/2011/1613), [S.I](https://www.legislation.gov.uk/uksi/2011/1613/section/I). 2012/916, [S.I. 2013/472](https://www.legislation.gov.uk/uksi/2013/472), [S.I](https://www.legislation.gov.uk/uksi/2013/472/section/I). 2013/504, [S.I. 2013/1773](https://www.legislation.gov.uk/uksi/2013/1773), [S.I](https://www.legislation.gov.uk/uksi/2013/1773/section/I). 2013/3115, [S.I. 2014/3348](https://www.legislation.gov.uk/uksi/2014/3348), [S.I](https://www.legislation.gov.uk/uksi/2014/3348/section/I). 2015/575, [S.I. 2015/910](https://www.legislation.gov.uk/uksi/2015/910) and [S.I. 2016/680](https://www.legislation.gov.uk/uksi/2016/680).
+
+[^c23199011]: Marginal citation: [Regulation 11](https://www.legislation.gov.uk/uksi/2016/715/regulation/11) is amended by [S.I. 2016/680](https://www.legislation.gov.uk/uksi/2016/680). There are amendments to regulation 11 not relevant to these Regulations.
+
+[^c23199021]: Marginal citation: [S.I. 2013/418](https://www.legislation.gov.uk/uksi/2013/418), to which there are amendments not relevant to these Regulations.
+
+[^c23199031]: Marginal citation: [S.I. 2013/419](https://www.legislation.gov.uk/uksi/2013/419).
+
+[^c23199041]: Marginal citation: [Article 2](https://www.legislation.gov.uk/uksi/2016/715/article/2) was amended by [S.I. 2014/2879](https://www.legislation.gov.uk/uksi/2014/2879) and [S.I. 2016/680](https://www.legislation.gov.uk/uksi/2016/680). There are other amendments not relevant to these Regulations.
+
+[^c23199051]: Marginal citation: [Article 3](https://www.legislation.gov.uk/uksi/2016/715/article/3) was amended by [S.I. 2013/1773](https://www.legislation.gov.uk/uksi/2013/1773), [S.I](https://www.legislation.gov.uk/uksi/2013/1773/section/I). 2014/2879, [S.I. 2014/3348](https://www.legislation.gov.uk/uksi/2014/3348) and [S.I. 2015/1882](https://www.legislation.gov.uk/uksi/2015/1882).
+
+[^c23199061]: Marginal citation: [Article 4](https://www.legislation.gov.uk/uksi/2016/715/article/4) was amended by [S.I. 2014/2879](https://www.legislation.gov.uk/uksi/2014/2879) and [S.I. 2016/680](https://www.legislation.gov.uk/uksi/2016/680).
+
+[^c23199071]: Marginal citation: [Article 5](https://www.legislation.gov.uk/uksi/2016/715/article/5) was amended by [S.I. 2014/2879](https://www.legislation.gov.uk/uksi/2014/2879) and [S.I. 2016/680](https://www.legislation.gov.uk/uksi/2016/680). There are other amendments not relevant to these Regulations.
+
+[^c23199081]: Marginal citation: [Article 6](https://www.legislation.gov.uk/uksi/2016/715/article/6) was amended by [S.I. 2013/1773](https://www.legislation.gov.uk/uksi/2013/1773), [S.I](https://www.legislation.gov.uk/uksi/2013/1773/section/I). 2014/2879, [S.I. 2014/3348](https://www.legislation.gov.uk/uksi/2014/3348), [S.I](https://www.legislation.gov.uk/uksi/2014/3348/section/I). 2015/1882 and [S.I. 2016/680](https://www.legislation.gov.uk/uksi/2016/680).
+
+[^c23199091]: Marginal citation: [S.I. 2013/504](https://www.legislation.gov.uk/uksi/2013/504), amended by [S.I. 2013/1908](https://www.legislation.gov.uk/uksi/2013/1908); there are other amending instruments but none is relevant.

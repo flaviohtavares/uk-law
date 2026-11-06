@@ -1,0 +1,22 @@
+---
+title: The Control of Major Accident Hazards Regulations 1999, section 12
+act: The Control of Major Accident Hazards Regulations 1999
+section: '12'
+status: as-enacted
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1999/743/section/12
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Control of Major Accident Hazards Regulations 1999, section 12
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+## 12. Implementing emergency plans
+
+A person who has prepared an emergency plan pursuant to a duty imposed on him by these Regulations shall take reasonable steps to put it into effect without delay when—
+
+- (a) a major accident occurs; or
+- (b) an uncontrolled event occurs which could reasonably be expected to lead to a major accident.

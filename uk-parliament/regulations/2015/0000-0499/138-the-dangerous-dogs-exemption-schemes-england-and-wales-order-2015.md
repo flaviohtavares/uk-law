@@ -1,0 +1,494 @@
+---
+title: The Dangerous Dogs Exemption Schemes (England and Wales) Order 2015
+id: uksi/2015/138
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised-with-pending-changes
+made_date: '2015-02-04'
+text_date: '2026-07-01'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2015/138
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2015/138/pdfs/uksiem_20150138_en.pdf
+- http://www.legislation.gov.uk/uksi/2015/138/pdfs/uksi_20150138_en.pdf
+- http://www.legislation.gov.uk/uksi/2015/138/data.pdf
+pending_changes: 1
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Dangerous Dogs Exemption Schemes (England and Wales) Order 2015
+
+> **Warning: changes not yet applied to this text (1).** Text as at 2026-07-01. See https://www.legislation.gov.uk/changes/affected/uksi/2015/138
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2015 No. 138
+
+Dogs, England And Wales
+
+The Dangerous Dogs Exemption Schemes (England and Wales) Order 2015
+
+Made
+
+4th February 2015
+
+Laid before Parliament
+
+10th February 2015
+
+Coming into force
+
+3rd March 2015
+
+The Secretary of State makes this Order in exercise of the powers conferred by section 1(5), (6) and (6A) of the Dangerous Dogs Act 1991[^f00001] and section 4(1)(c) of the Dangerous Dogs (Amendment) Act 1997[^f00002].
+
+## PART 1 — Preliminary
+
+### 1. Citation, commencement and extent
+
+(1) This Order may be cited as the Dangerous Dogs Exemption Schemes (England and Wales) Order 2015 and comes into force on 3rd March 2015.
+
+(2) This Order extends to England and Wales.
+
+### 2. Interpretation
+
+In this Order—
+
+- “the Act” means the Dangerous Dogs Act 1991;
+- “adult dog” means a dog aged six months or over;
+- “the Agency” means the person or body for the time being designated by the Secretary of State to discharge functions under this Order;
+- “person” means a natural person and does not include a body of persons corporate or unincorporate , except insofar as the term is used in reference to the owner of a dog of the type known as the XL Bully that is a rehoming organisation to which a certificate of exemption may be issued in respect of the dog by virtue of article 9(2)[^key-853cc00579b2a8b4a13c11370c8018c4].
+- “[^key-3d60c2a8ea3e67a283f619e4094f8ee1]**rehoming organisation**” has the meaning given in article 2 of the Dangerous Dogs (Exemption Schemes and Miscellaneous Provisions) (England and Wales) Order 2023.
+
+### 3. Payments to the Agency
+
+The Secretary of State must make such payments to the Agency in respect of the discharge by the Agency of functions under this Order as are agreed between them or, in default of agreement, as appear to the Secretary of State to be appropriate.
+
+## PART 2 — Court-Ordered Exemption Scheme
+
+### 4. Exemption scheme conditions and requirements
+
+(1) The prohibition in section 1(3) of the Act shall not apply to a dog provided that—
+
+- (a) a court has determined that the dog is not a danger to public safety under section 4(1A) or 4B of the Act and has made the dog subject to a contingent destruction order under section 4A or 4B of the Act;
+- (b) the conditions set out in paragraph (2) are met in respect of the dog within the time period set out in paragraph (3); and
+- (c) the requirements attached to the certificate of exemption in accordance with article 10 are complied with throughout the lifetime of the dog.
+
+(2) The conditions referred to in paragraph (1)(b) are that—
+
+- (a) the dog is neutered in accordance with article 6(1)[^key-f2413739d9007bb8160ada0d0d99704b];
+- (b) the dog is microchipped in accordance with article 7(1)[^key-cb0da83acb6c26b6c912f8c40a62aee1]; and[^key-b7224196dab9c8cb90339233dc4859fe]
+- (c)[^key-a9187314aa2e6e97a6c14c3fa738404f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d) a certificate of exemption is issued in accordance with article 9.
+
+(3) Subject to any extension granted by the court under section 4A(2) of the Act, the conditions in articles 6(1), 7(1)[^key-6cb6b3ce9e112a462c2f42216a08a3bb] [^key-82fac01a2acab7fe884ea6e11e0d3eca]... and 9 must be complied with—
+
+- (a) in the case of an adult dog, within two months beginning with the date the court makes a contingent destruction order;
+- (b) in the case of a dog under the age of six months on the date the court makes a contingent destruction order, within one month of the dog attaining six months.
+
+### 5. Failure to meet the conditions or comply with the requirements
+
+A dog is not exempt under this Part from the prohibition in section 1(3) of the Act—
+
+- (a) if the conditions referred to in article 4(2) are not met within the time period specified in article 4(3); or
+- (b) if the requirements attached to the certificate of exemption in accordance with article 10 are not complied with at any time after the certificate is issued.
+
+### 6. Neutering[^key-f45abd2f4c6185c535ac59599fcd7bea]
+
+(1) A dog that is to be exempted from the prohibition in section 1(3) of the Act must be neutered by a veterinary surgeon unless—
+
+- (a) the dog is already neutered to the satisfaction of the Agency; or
+- (b) in the case of a dog that is of the type known as the XL Bully, it was less than 16 months old on the date on which the court made the contingent destruction order under section 4A or 4B of the Act in respect of the dog.
+
+(2) Where a certificate of exemption is issued under article 9(1) in respect of a dog to which paragraph (1)(b) applies, the holder of the certificate of exemption must ensure that the dog is neutered by a veterinary surgeon on or before the date on which the dog is 18 months old.
+
+(3) In this article—
+
+- “**neutered**” means—
+  - (a) in relation to a male dog, castrated;
+  - (b) in relation to a female dog, spayed;
+- “**veterinary surgeon**” means a person registered in the register of veterinary surgeons or the supplementary veterinary register kept under the Veterinary Surgeons Act 1966.
+
+### 7. Microchipping[^key-34efc0844995692258f875115020925b]
+
+(1) A dog that is to be exempted from the prohibition in section 1(3) of the Act must be implanted with a microchip unless—
+
+- (a) the dog is already microchipped to the satisfaction of the Agency; or
+- (b) the Agency is satisfied that the dog was unfit to be microchipped on the date on which the court made the contingent destruction order under section 4A or 4B of the Act in respect of the dog.
+
+(2) Where a certificate of exemption is issued under article 9(1) in respect of a dog to which paragraph (1)(b) applies, the holder of the certificate of exemption must ensure that the dog is implanted with a microchip within the period of 28 days beginning with the day on which the dog first becomes fit to be microchipped.
+
+(3) For the purposes of paragraph (1)(b), a dog is only unfit to be microchipped on the date on which the court made a contingent destruction order under section 4A or 4B of the Act in respect of the dog if a certificate has been issued under regulation 4(1) of the Microchipping of Cats and Dogs (England) Regulations 2023 or regulation 3(2) of the Microchipping of Dogs (Wales) Regulations 2015 which confirms that the dog will not be fit to be microchipped on or before that date.
+
+### 8. Third-party insurance[^key-23968f39e3ab2d73b2752b689b1a0f08]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 9. Issue of certificate of exemption
+
+(1)[^key-81d6277cb862b3a44f33ee7a1060a7d5] Subject to paragraph (2), the[^key-b3b105f2fb4adf1a7c967b318e444f95] Agency must issue a certificate of exemption in respect of the dog if it is satisfied that—
+
+- (a) the court, in determining that the dog is not a danger to public safety, has decided the person to whom the certificate is to be issued is a fit and proper person to be in charge of the dog and has made the dog subject to a contingent destruction order;
+- (b) a fee of £92.40[^key-0f1409a7789fc1ed1ec5f43376e6d1ff] has been paid to the Agency; and
+- (c) the conditions referred to in articles 6(1)[^key-c577846918d4d650380a0ec1cae0538b] and 7(1)[^key-a84b29d2579d1db5af5912b2cff502a9] have been met.
+
+(2)[^key-b11a3edf9ff10aa7271c1684181de1f7] Where the dog is a dog of the type known as the XL Bully that is owned by a rehoming organisation to which a certificate of exemption had been issued in respect of the dog under Part 2 of the Dangerous Dogs (Exemption Schemes and Miscellaneous Provisions) (England and Wales) Order 2023, a certificate of exemption may not be issued by the Agency under paragraph (1) unless it is issued to that rehoming organisation.
+
+### 10. Requirements attached to certificate of exemption
+
+(1) A certificate issued under article 9 must contain requirements—
+
+- (a)[^key-cca1d235c2c844f182d824545c20ef53] where the owner or person in charge of the dog is a natural person—
+  - (i) to keep the dog at the same address as the person to whom the certificate is issued except for any 30 days in a 12-month period;
+  - (ii) to notify the Agency of any proposed change of address (other than in respect of any changes of address in the 30 days referred to in paragraph (i));
+- (b) where the owner is a rehoming organisation—
+  - (i) to ensure that the dog lives at the premises specified in the certificate at all times, except where the dog is relocated from those premises to other premises in the event of a fire or other emergency;
+  - (ii) where, in the event of a fire or other emergency, the dog is relocated from the premises specified in the certificate to other premises, to notify the Agency in writing of the change of premises and the address of the premises to which the dog has been relocated;
+  - (iii) to ensure that a sufficient number of staff are present daily at the premises where the dog is living to provide for the care and management of the dogs being kept at those premises;
+- (c) to notify the Agency of the death or export of the dog;
+- (d)[^key-f52c726f0b0d994c0aa07180a3272de4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e) to keep the dog muzzled and on a lead when in a public place;
+- (f) to keep the dog in sufficiently secure conditions to prevent its escape;
+- (g) to provide access to the dog for the purpose of reading a microchip on request by a person specified in section 5(1) of the Act;
+- (h)[^key-fc0e8f11651c6abd5d6240163c8bfdfe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (i) to produce to a person specified in section 5(1) of the Act the certificate issued under article 9 within five days of being requested to do so by that person ;[^key-098635b5e9d91a16c5449ae1b9e55520]
+- (j) where applicable, to satisfy the Agency that the requirement in article 6(2) has been met in respect of the dog;
+- (k) where applicable, to satisfy the Agency that the requirement in article 7(2) has been met in respect of the dog.
+
+(2) The certificate may also contain such additional requirements, including the imposition of time limits, as the Agency may reasonably require for the purpose of ensuring that the requirements of this article are met.
+
+### 11. Arrangements between interim and court-ordered exemption schemes
+
+When a dog has been released under the interim exemption scheme in Part 4 and is subsequently made subject to a contingent destruction order by the court under section 4A or 4B of the Act—
+
+- (a) the requirements set out in article 25 (additional requirements) continue to apply until a certificate of exemption is issued in accordance with article 9; and
+- (b) if the conditions in article 4(2) are not met within the time limits in article 4(3) the dog may be seized under section 5 of the Act with a view to its destruction in accordance with the contingent destruction order.
+
+### 11A. Change of premises: rehoming organisations[^key-d378c9eb5ae21ba1487213375959ca8f]
+
+(1) This article applies where the holder of a certificate of exemption—
+
+- (a) is a rehoming organisation; and
+- (b) proposes to relocate the dog to which the certificate relates from the premises referred to in the certificate to other premises occupied by the holder for any reason other than an emergency.
+
+(2) The holder of the certificate of exemption may apply to the Agency to vary the certificate of exemption.
+
+(3) An application under paragraph (2) must contain such particulars, be in such form and be accompanied by such evidence as the Agency may reasonably require.
+
+(4) On receipt of an application under paragraph (3), the Agency may vary the certificate of exemption if satisfied that the dog to which the certificate relates will continue to be owned and cared for by the holder of the certificate of exemption.
+
+(5) Where the Agency approves the variation of a certificate of exemption, the Agency must issue a replacement certificate.
+
+## PART 3 — Substitution of Person in Charge of an Exempted Dog[^key-e7d89991b7ee44000cdb6740b0794a88]
+
+### 12. Conditions for substitution of person in charge of exempted dog[^key-217ebefec1fe32e18727094e95d32983]
+
+A person may apply to a magistrates’ court to be substituted as the person in charge of a dog if—
+
+- (a) the dog is exempt from the prohibition in section 1(3) of the Act by virtue of a certificate of exemption issued under Part 2 of this Order or Part 3 of the Dangerous Dogs (Compensation and Exemption Schemes) (England and Wales) Order 2023 (in this Part referred to as “**the original certificate of exemption**”); and
+- (b) the person to whom that certificate of exemption has been issued is unable to continue to be in charge of the dog by reason of—
+  - (i) the death of that person; or
+  - (ii) the serious illness of that person.
+
+### 13. Procedure for application
+
+(1) The applicant must provide details in accordance with article 14 to the chief officer of police for the area in which the applicant lives at least two weeks before making an application to the court.
+
+(2) An application must be made—
+
+- (a) to the magistrates’ court in the applicant’s local justice area;
+- (b) subject to any extension granted by the court under paragraph (5), no later than six weeks after the date—
+  - (i) of the death of the person in charge in the case of an application pursuant to article 12(b)(i)[^key-039bd88afbe8cdd7ba359d1120c43a11] (death of person in charge), or
+  - (ii) of the official letter from the medical practitioner confirming the serious illness of the person in charge (“official letter”) in the case of an application pursuant to article 12(b)(ii)[^key-bbc4990930fedac215afac2d017aea4f] (serious illness of person in charge);
+- (c) in writing and must include evidence—
+  - (i) of either circumstance mentioned in article 12(b)(i) or (ii)[^key-5f4b3578ed4e9e53271d35095ef60d57] by way of a death certificate or an official letter from a medical practitioner (as appropriate),
+  - (ii) that the details have been provided to the chief officer of police in accordance with paragraph (1), and
+  - (iii) that the application has been served on the chief officer of police in accordance with paragraph (3).
+
+(3) The applicant must serve a copy of the application made to the court on the chief officer of police to whom the information set out in article 14 has been provided.
+
+(4) A court officer must notify the applicant and the chief officer of police on whom the application is served of the date the application is listed to be dealt with.
+
+(5) The court may extend the time limits set out in paragraph (2)(b) on application by the applicant if satisfied there is a good reason to do so.
+
+(6) Any failure by the applicant to comply with paragraph (2)(b) results in the dog no longer being exempt from the prohibition in section 1(3) of the Act.
+
+### 14. Details to be given to the police
+
+The applicant must provide to the chief officer of police for the area in which the applicant lives the following details—
+
+- (a) the name of the applicant;
+- (b) the address of the applicant;
+- (c) the date of birth of the applicant;
+- (d) details of the exempted dog; and
+- (e) details of the person to whom the original[^key-351819980fe1a5205e61d618e0d39eb9] certificate of exemption was issued in respect of the dog.
+
+### 15. Court determination
+
+(1) The court may only grant the application for substitution of the applicant as the person in charge of an exempted dog if satisfied that the dog does not constitute a danger to public safety.
+
+(2) In determining whether the dog constitutes a danger to public safety the court—
+
+- (a) must consider—
+  - (i) the temperament of the dog including its past behaviour; and
+  - (ii) whether the applicant is a fit and proper person to be in charge of the dog; and
+- (b) may consider any other relevant circumstances.
+
+### 16. Effect of making an application
+
+(1)[^key-31f84ca33511e537d7c4b2ed51a35405] Until the application is determined by the court—
+
+- (a) the dog may be kept at the applicant’s address with the applicant on and after the date—
+  - (i) of the death of the person in charge in the case of an application pursuant to article 12(b)(i)[^key-a7498d276b39ec1ec6b49bdc8225a629]; or
+  - (ii) of the official letter from the medical practitioner in the case of an application pursuant to article 12(b)(ii)[^key-616ec7c6bf63f0a0c8c4a897061f37df]; and
+- (b) where paragraph (a) applies, the requirements set out in article 10(1) save for article 10(1)(a) apply in relation to the applicant [^key-0741eef58f12d6e041f8e98daa6f9ad4]....
+
+(2)[^key-ae7e7f0a8c41abf973acc54c2571af53] The dog continues to be exempt from the prohibition in section 1(3) of the Act by virtue of the original certificate of exemption until—
+
+- (a) such time as the application has been determined and the court has not granted the application pursuant to article 15; or
+- (b) where the application has been granted pursuant to article 15, such time as the Agency has issued a certificate of exemption to the applicant under article 18 or, where applicable, the court has otherwise directed.
+
+### 17. Successful application for substitution
+
+If the court is satisfied that the applicant is a fit and proper person to be substituted as the person in charge of the exempted dog the court must notify the Agency of—
+
+- (a) the name of the applicant;
+- (b) the address and contact details of the applicant;
+- (c) details of the person to whom the original certificate of exemption was issued; and
+- (d) details of the exempted dog to which the application applies.
+
+### 18. Issue of certificate of exemption to the applicant
+
+(1) The Agency must issue a new certificate of exemption to the applicant in respect of the dog if it is satisfied that—
+
+- (a) the court has determined the person to be substituted as the person in charge of the dog as a fit and proper person to be in charge of the dog; and[^key-90780ae22c340ebb76c66d9be3b9e8f4]
+- (b) a fee of £92.40[^key-0905b1aae30f2a28bedfa338315d3183] has been paid to the Agency; [^key-8d55caa7260707957f59c9da0be79848]...
+- (c)[^key-8d55caa7260707957f59c9da0be79848] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) Article 10 (requirements attached to certificate of exemption) applies in relation to a new certificate of exemption issued under this article.
+
+### 19. Failure to comply with the requirements attached to the certificate of exemption
+
+A dog is not exempt from the prohibition in section 1(3) of the Act—
+
+- (a) if there is a failure to comply with the requirements attached to the certificate of exemption issued in accordance with article 18 at any time after the certificate is issued;
+- (b) if there is a failure to comply with the requirements in article 10(1) where article 16(b) applies.
+
+## PART 4 — Interim Exemption Scheme
+
+### 20. Release of seized dog: general
+
+(1) This Part applies where a dog suspected of being a dog to which section 1 of the Act applies is seized under a power conferred by the Act or under any other enactment and prior to the court’s final determination in respect of the dog under section 4(1)(a) or 4B(1) of the Act.
+
+(2) Subject to paragraph (2A), the[^key-d809d8c0cc7c00238246fa699475cad0] chief officer of police for the area in which the dog was seized may release the dog to the person intending to apply for exemption of the dog under Part 2 of this Order (in this Part referred to as “the person in interim charge”) only in accordance with this Part.
+
+(2A)[^key-3b50dfa146a1587399d553ec0cb047cb] Where the seized dog is a dog of the type known as the XL Bully that is owned by a rehoming organisation and in respect of which a certificate of exemption had been issued to the rehoming organisation under Part 2 of the Dangerous Dogs (Exemption Schemes and Miscellaneous Provisions) (England and Wales) Order 2023, the dog may only be released to that rehoming organisation.
+
+(3) Nothing in this Part requires a chief officer of police to release a dog to which this Part applies.
+
+### 21. Danger to public safety test
+
+(1) The chief officer of police for the area in which the dog was seized may only release the dog under this Part if satisfied that the dog does not constitute a danger to public safety.
+
+(2) In determining whether the dog constitutes a danger to public safety the chief officer of police—
+
+- (a) must consider—
+  - (i) the temperament of the dog including its past behaviour; and
+  - (ii) whether the person in interim charge is a fit and proper person to be in interim charge of the dog; and
+- (b) may consider any other relevant circumstances.
+
+### 22. Interim exemption scheme conditions and requirements
+
+(1) Where the chief officer of police for the area in which the dog was seized is satisfied that the dog is not a danger to public safety in accordance with article 21, the dog is exempt on an interim basis from the prohibition in section 1(3) of the Act provided that—
+
+- (a) the chief officer of police is satisfied that the following conditions have been met—
+  - (i) the dog is neutered within the meaning given in article 6(3)[^key-fdca1b493b7cc8db6f5db95e1c596f10],
+  - (ii) the dog is implanted with a microchip[^key-814eb567a22bd5a6582d4214b59604ae],
+  - (iii)[^key-ea0696f4ddc4ee5a6590f56478ccaf77] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) the requirements in article 25 (additional requirements) are met throughout the period of interim exemption; and
+- (c) the person in interim charge confirms in writing that they understand the conditions mentioned in this article and the continuing requirements in article 25 and the consequences of any failure to comply with the conditions or requirements under this Part.
+
+(2) If there is a failure to comply with the requirements in article 25 (additional requirements), or if the chief officer of police is no longer satisfied that article 21 (danger to public safety test) is met—
+
+- (a) the dog may be seized under section 5 of the Act; and
+- (b) the dog is not exempt under this Part from the prohibition in section 1(3) of the Act.
+
+### 23. Timescales for release of seized dog
+
+(1) The seized dog may only be released when the conditions referred to in article 22(1)(a) and (c) have been met.
+
+(2) In the case of a dog under the age of six months at the date that the chief officer of police for the area in which the dog was seized determines that the dog may be released under this Part, the conditions in article 22(1)(a) must be met within one month of the dog attaining six months.
+
+### 24. Expenses
+
+The police may recover from the person in interim charge any expenses incurred in the event that the police arrange for the conditions in articles 6 (neutering) and 7 (microchipping) to be complied with.
+
+### 25. Additional requirements
+
+Where a dog is released to the person in interim charge under this Part the person in interim charge must comply with the following additional requirements—
+
+- (a)[^key-c7db05c68d8583d6c90cac1eb2027359] where the owner or person in charge of the dog is a natural person—
+  - (i) to keep the dog at the same address as the person;
+  - (ii) to notify the police of any proposed change of address;
+- (b) where the owner is a rehoming organisation—
+  - (i) to ensure that the dog lives at the premises specified by the police at all times, except where the dog is relocated from those premises to other premises in the event of a fire or other emergency;
+  - (ii) where, in the event of a fire or other emergency, the dog is relocated from the premises specified by the police under sub-paragraph (i) to other premises, to notify the police of the change of premises and the address of the premises to which the dog has been relocated;
+  - (iii) to ensure that a sufficient number of staff are present daily at the premises where the dog is living to provide for the care and management of the dogs being kept at those premises;
+- (c)[^key-3203d41dbb388b942e19cfc69fd72d0b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d) to provide access to the dog for the purpose of reading a microchip on request by a person specified in section 5(1) of the Act;
+- (e) to keep the dog in sufficiently secure conditions to prevent its escape;
+- (f) to keep the dog muzzled and on a lead when in a public place; and
+- (g) any other requirement for the purpose of preventing the dog being a danger to public safety considered appropriate by the chief officer of police for the area in which the dog was seized.
+
+### 26. Cessation of interim exemption
+
+Subject to article 11(a), an interim exemption granted under this Part ceases when—
+
+- (a) a court makes a final determination in respect of the dog under section 4(1)(a) or 4B(1) of the Act or determines that the dog is not one to which section 1 applies; or
+- (b) a decision is taken not to commence or continue with proceedings in respect of the dog.
+
+## PART 5 — Miscellaneous
+
+### 27. Revocations
+
+The Orders specified in the Schedule to this Order are revoked.
+
+### 28. Saving
+
+A certificate of exemption issued under the Dangerous Dogs Compensation and Exemption Schemes Order 1991[^f00006] is deemed to have been issued under article 9 of this Order, and an owner or person in charge of a dog to which such a certificate relates must comply with the requirements set out in article 10(1) of this Order.
+
+de Mauley
+
+Parliamentary Under Secretary of State
+
+Department for Environment, Food and Rural Affairs
+
+4th February 2015
+
+## SCHEDULE — Revocations
+
+Article 27
+
+| (1)<br>Orders revoked | (2)<br>References |
+| --- | --- |
+| The Dangerous Dogs Act 1991 (Commencement and Appointed Day) Order 1991 | [S.I. 1991/1742](https://www.legislation.gov.uk/uksi/1991/1742) |
+| The Dangerous Dogs Compensation and Exemption Schemes Order 1991 | [S.I. 1991/1744](https://www.legislation.gov.uk/uksi/1991/1744) |
+| The Dangerous Dogs Compensation and Exemptions Schemes (Amendment) Order 1991 | [S.I. 1991/2297](https://www.legislation.gov.uk/uksi/1991/2297) |
+| The Dangerous Dogs Compensation and Exemption Schemes (Amendment) (No 2) Order 1991 | [S.I. 1991/2636](https://www.legislation.gov.uk/uksi/1991/2636) |
+| The Dangerous Dogs (Fees) (England and Wales) Order 2013 | [S.I. 2013/1302](https://www.legislation.gov.uk/uksi/2013/1302) |
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+Section 1(3) of the Dangerous Dogs Act 1991 (“the Act”) provides that possession or custody of certain types of dogs specified in section 1 (dogs bred for fighting) or specified in an order made under it is prohibited. The court must order the destruction of such a prohibited dog on conviction of an offence under section 1 of the Act, where such a dog is seized and no person is to be prosecuted, or on conviction of an offence under section 3 (having a dog dangerously out of control). However if the court is satisfied that the prohibited dog is not a danger to public safety under section 4(1A) or 4B of the Act, rather than make an immediate destruction order, it must order the contingent destruction of the dog. A contingent destruction order enables the dog to be exempted from the prohibition in section 1(3).
+
+Section 1(5) of the Act provides for the creation of schemes under which the dog may be exempted. This Order revokes and replaces the Dangerous Dogs Compensation and Exemption Schemes Order 1991 (“the 1991 Order”) in relation to England and Wales. It creates two schemes of exemption for the purposes of section 1(5) of the Act. This Order does not affect the operation of the 1991 Order in Scotland.
+
+Part 2 of the Order applies when a court makes a contingent destruction order enabling the dog to be exempted. It sets out the conditions that are to be met for a dog to be exempted and the enduring requirements to be complied with if the dog is to remain exempt.
+
+Part 3 provides that a person, other than the person determined by a court under section 4(1B) or 4B(2A) of the Act or under this Part, as being a fit and proper person to be in charge of a dog, may apply to be in charge of an exempted dog. This Part only applies when the person who has been in charge of the dog dies or is seriously ill. Articles 13 to 15 set out the procedure to be followed in relation to an application. Article 16 states the effect of making an application and article 17 sets out the requirements on the court on a successful application. Article 18 provides for the issue of a new certificate of exemption to a successful applicant. Article 19 states that where there is a failure to comply with the requirements attached to a certificate of exemption issued under article 18 the dog is not exempt.
+
+Part 4 creates an interim exemption scheme when a dog suspected to be a prohibited type has been seized by the police. It permits a chief officer of police to exempt the dog on an interim basis if satisfied the dog is not a danger to public safety and to release the seized dog before a court makes a final determination. Article 21 sets out the test the chief officer of police must apply when determining whether the seized dog is a danger to public safety. Article 22 sets out the conditions and requirements that have to be met for a suspected prohibited dog to become and remain exempt on an interim basis. Article 23 sets out the timescales for the release of the dog under the interim exemption scheme. Article 24 provides for the recovery of expenses by the police from the person to whom the dog is released, if the police arrange for the microchipping or neutering of the dog. Article 25 sets out the further requirements that must be met by a person in interim charge of a dog. Article 26 provides the interim exemption ceases on final determination by the court or if a decision is taken not to commence or continue proceedings in respect of the dog.
+
+Articles 27 and Article 28 contain revocations and a saving.
+
+An impact assessment has not been produced for this instrument as no impact on the costs of the private or voluntary sectors is foreseen.
+
+## Annotations
+
+[^f00001]: Footnote: [1991 c. 65](https://www.legislation.gov.uk/ukpga/1991/65); section 1(6A) was inserted by the Anti-social Behaviour, Crime and Policing Act [2014 (c.12)](https://www.legislation.gov.uk/ukpga/2014/12), section 107.
+
+[^f00002]: Footnote: [1997 c.53](https://www.legislation.gov.uk/ukpga/1997/53)
+
+[^key-853cc00579b2a8b4a13c11370c8018c4]: Textual amendment: Words in art. 2 inserted (31.12.2023) by [The Dangerous Dogs (Exemption Schemes and Miscellaneous Provisions) (England and Wales) Order 2023 (S.I. 2023/1407)](https://www.legislation.gov.uk/uksi/2023/1407), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2023/1407/article/1/2/b), [11(2)(a)](https://www.legislation.gov.uk/uksi/2023/1407/article/11/2/a)
+
+[^key-3d60c2a8ea3e67a283f619e4094f8ee1]: Textual amendment: Words in art. 2 inserted (31.12.2023) by [The Dangerous Dogs (Exemption Schemes and Miscellaneous Provisions) (England and Wales) Order 2023 (S.I. 2023/1407)](https://www.legislation.gov.uk/uksi/2023/1407), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2023/1407/article/1/2/b), [11(2)(b)](https://www.legislation.gov.uk/uksi/2023/1407/article/11/2/b)
+
+[^key-f2413739d9007bb8160ada0d0d99704b]: Textual amendment: Word in [art. 4(2)(a)](https://www.legislation.gov.uk/uksi/2015/138/article/4/2/a) substituted (5.12.2024) by [The Dangerous Dogs (Exemption Schemes) (England and Wales) (Amendment) (No. 2) Order 2024 (S.I. 2024/1149)](https://www.legislation.gov.uk/uksi/2024/1149), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/1149/article/1/2), [2(2)(a)(i)](https://www.legislation.gov.uk/uksi/2024/1149/article/2/2/a/i)
+
+[^key-cb0da83acb6c26b6c912f8c40a62aee1]: Textual amendment: Word in [art. 4(2)(b)](https://www.legislation.gov.uk/uksi/2015/138/article/4/2/b) substituted (5.12.2024) by [The Dangerous Dogs (Exemption Schemes) (England and Wales) (Amendment) (No. 2) Order 2024 (S.I. 2024/1149)](https://www.legislation.gov.uk/uksi/2024/1149), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/1149/article/1/2), [2(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2024/1149/article/2/2/a/ii)
+
+[^key-b7224196dab9c8cb90339233dc4859fe]: Textual amendment: Word in [art. 4(2)](https://www.legislation.gov.uk/uksi/2015/138/article/4/2) inserted (1.7.2026) by [The Dangerous Dogs (Exemption Schemes) (England and Wales) (Amendment) Order 2026 (S.I. 2026/602)](https://www.legislation.gov.uk/uksi/2026/602), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/602/article/1/2), [2(2)(a)(i)](https://www.legislation.gov.uk/uksi/2026/602/article/2/2/a/i)
+
+[^key-a9187314aa2e6e97a6c14c3fa738404f]: Textual amendment: [Art. 4(2)(c)](https://www.legislation.gov.uk/uksi/2015/138/article/4/2/c) and word omitted (1.7.2026) by virtue of [The Dangerous Dogs (Exemption Schemes) (England and Wales) (Amendment) Order 2026 (S.I. 2026/602)](https://www.legislation.gov.uk/uksi/2026/602), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/602/article/1/2), [2(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2026/602/article/2/2/a/ii)
+
+[^key-6cb6b3ce9e112a462c2f42216a08a3bb]: Textual amendment: Words in [art. 4(3)](https://www.legislation.gov.uk/uksi/2015/138/article/4/3) substituted (5.12.2024) by [The Dangerous Dogs (Exemption Schemes) (England and Wales) (Amendment) (No. 2) Order 2024 (S.I. 2024/1149)](https://www.legislation.gov.uk/uksi/2024/1149), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/1149/article/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2024/1149/article/2/2/b)
+
+[^key-82fac01a2acab7fe884ea6e11e0d3eca]: Textual amendment: Word in [art. 4(3)](https://www.legislation.gov.uk/uksi/2015/138/article/4/3) omitted (1.7.2026) by virtue of [The Dangerous Dogs (Exemption Schemes) (England and Wales) (Amendment) Order 2026 (S.I. 2026/602)](https://www.legislation.gov.uk/uksi/2026/602), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/602/article/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2026/602/article/2/2/b)
+
+[^key-f45abd2f4c6185c535ac59599fcd7bea]: Textual amendment: [Art. 6](https://www.legislation.gov.uk/uksi/2015/138/article/6) substituted (5.12.2024) by [The Dangerous Dogs (Exemption Schemes) (England and Wales) (Amendment) (No. 2) Order 2024 (S.I. 2024/1149)](https://www.legislation.gov.uk/uksi/2024/1149), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/1149/article/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2024/1149/article/2/3)
+
+[^key-34efc0844995692258f875115020925b]: Textual amendment: [Art. 7](https://www.legislation.gov.uk/uksi/2015/138/article/7) substituted (5.12.2024) by [The Dangerous Dogs (Exemption Schemes) (England and Wales) (Amendment) (No. 2) Order 2024 (S.I. 2024/1149)](https://www.legislation.gov.uk/uksi/2024/1149), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/1149/article/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2024/1149/article/2/4)
+
+[^key-23968f39e3ab2d73b2752b689b1a0f08]: Textual amendment: [Art. 8](https://www.legislation.gov.uk/uksi/2015/138/article/8) omitted (1.7.2026) by virtue of [The Dangerous Dogs (Exemption Schemes) (England and Wales) (Amendment) Order 2026 (S.I. 2026/602)](https://www.legislation.gov.uk/uksi/2026/602), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/602/article/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2026/602/article/2/3)
+
+[^key-81d6277cb862b3a44f33ee7a1060a7d5]: Textual amendment: Art. 9 renumbered as art. 9(1) (31.12.2023) by [The Dangerous Dogs (Exemption Schemes and Miscellaneous Provisions) (England and Wales) Order 2023 (S.I. 2023/1407)](https://www.legislation.gov.uk/uksi/2023/1407), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2023/1407/article/1/2/b), [11(4)(a)](https://www.legislation.gov.uk/uksi/2023/1407/article/11/4/a)
+
+[^key-b3b105f2fb4adf1a7c967b318e444f95]: Textual amendment: Words in art. 9(1) substituted (31.12.2023) by [The Dangerous Dogs (Exemption Schemes and Miscellaneous Provisions) (England and Wales) Order 2023 (S.I. 2023/1407)](https://www.legislation.gov.uk/uksi/2023/1407), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2023/1407/article/1/2/b), [11(4)(b)](https://www.legislation.gov.uk/uksi/2023/1407/article/11/4/b)
+
+[^key-0f1409a7789fc1ed1ec5f43376e6d1ff]: Textual amendment: Sum in [art. 9(1)(b)](https://www.legislation.gov.uk/uksi/2015/138/article/9/1/b) substituted (5.12.2024) by [The Dangerous Dogs (Exemption Schemes) (England and Wales) (Amendment) (No. 2) Order 2024 (S.I. 2024/1149)](https://www.legislation.gov.uk/uksi/2024/1149), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/1149/article/1/2), [2(6)(a)](https://www.legislation.gov.uk/uksi/2024/1149/article/2/6/a)
+
+[^key-c577846918d4d650380a0ec1cae0538b]: Textual amendment: Words in [art. 9(1)(c)](https://www.legislation.gov.uk/uksi/2015/138/article/9/1/c) substituted (5.12.2024) by [The Dangerous Dogs (Exemption Schemes) (England and Wales) (Amendment) (No. 2) Order 2024 (S.I. 2024/1149)](https://www.legislation.gov.uk/uksi/2024/1149), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/1149/article/1/2), [2(6)(b)](https://www.legislation.gov.uk/uksi/2024/1149/article/2/6/b)
+
+[^key-a84b29d2579d1db5af5912b2cff502a9]: Textual amendment: Words in [art. 9(1)(c)](https://www.legislation.gov.uk/uksi/2015/138/article/9/1/c) substituted (1.7.2026) by [The Dangerous Dogs (Exemption Schemes) (England and Wales) (Amendment) Order 2026 (S.I. 2026/602)](https://www.legislation.gov.uk/uksi/2026/602), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/602/article/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2026/602/article/2/4)
+
+[^key-b11a3edf9ff10aa7271c1684181de1f7]: Textual amendment: Art. 9(2) inserted (31.12.2023) by [The Dangerous Dogs (Exemption Schemes and Miscellaneous Provisions) (England and Wales) Order 2023 (S.I. 2023/1407)](https://www.legislation.gov.uk/uksi/2023/1407), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2023/1407/article/1/2/b), [11(4)(c)](https://www.legislation.gov.uk/uksi/2023/1407/article/11/4/c)
+
+[^key-cca1d235c2c844f182d824545c20ef53]: Textual amendment: Art. 10(1)(a)(b) substituted (31.12.2023) by virtue of [The Dangerous Dogs (Exemption Schemes and Miscellaneous Provisions) (England and Wales) Order 2023 (S.I. 2023/1407)](https://www.legislation.gov.uk/uksi/2023/1407), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2023/1407/article/1/2/b), [11(5)](https://www.legislation.gov.uk/uksi/2023/1407/article/11/5)
+
+[^key-f52c726f0b0d994c0aa07180a3272de4]: Textual amendment: [Art. 10(1)(d)](https://www.legislation.gov.uk/uksi/2015/138/article/10/1/d) omitted (5.12.2024) by virtue of [The Dangerous Dogs (Exemption Schemes) (England and Wales) (Amendment) (No. 2) Order 2024 (S.I. 2024/1149)](https://www.legislation.gov.uk/uksi/2024/1149), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/1149/article/1/2), [2(7)(a)](https://www.legislation.gov.uk/uksi/2024/1149/article/2/7/a)
+
+[^key-fc0e8f11651c6abd5d6240163c8bfdfe]: Textual amendment: [Art. 10(1)(h)](https://www.legislation.gov.uk/uksi/2015/138/article/10/1/h) omitted (1.7.2026) by virtue of [The Dangerous Dogs (Exemption Schemes) (England and Wales) (Amendment) Order 2026 (S.I. 2026/602)](https://www.legislation.gov.uk/uksi/2026/602), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/602/article/1/2), [2(5)(b)](https://www.legislation.gov.uk/uksi/2026/602/article/2/5/b)
+
+[^key-098635b5e9d91a16c5449ae1b9e55520]: Textual amendment: [Art. 10(1)(j)](https://www.legislation.gov.uk/uksi/2015/138/article/10/1/j)[(k)](https://www.legislation.gov.uk/uksi/2015/138/article/10/1/k) and semi-colon inserted (5.12.2024) by [The Dangerous Dogs (Exemption Schemes) (England and Wales) (Amendment) (No. 2) Order 2024 (S.I. 2024/1149)](https://www.legislation.gov.uk/uksi/2024/1149), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/1149/article/1/2), [2(7)(c)](https://www.legislation.gov.uk/uksi/2024/1149/article/2/7/c)
+
+[^key-d378c9eb5ae21ba1487213375959ca8f]: Textual amendment: [Art. 11A](https://www.legislation.gov.uk/uksi/2015/138/article/11A) inserted (31.12.2023) by [The Dangerous Dogs (Exemption Schemes and Miscellaneous Provisions) (England and Wales) Order 2023 (S.I. 2023/1407)](https://www.legislation.gov.uk/uksi/2023/1407), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2023/1407/article/1/2/b), [11(6)](https://www.legislation.gov.uk/uksi/2023/1407/article/11/6)
+
+[^key-e7d89991b7ee44000cdb6740b0794a88]: Textual amendment: Words in [Pt. 3](https://www.legislation.gov.uk/uksi/2015/138/part/3) heading substituted (5.12.2024) by [The Dangerous Dogs (Exemption Schemes) (England and Wales) (Amendment) (No. 2) Order 2024 (S.I. 2024/1149)](https://www.legislation.gov.uk/uksi/2024/1149), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/1149/article/1/2), [2(8)(a)](https://www.legislation.gov.uk/uksi/2024/1149/article/2/8/a)
+
+[^key-217ebefec1fe32e18727094e95d32983]: Textual amendment: [Art. 12](https://www.legislation.gov.uk/uksi/2015/138/article/12) substituted (5.12.2024) by [The Dangerous Dogs (Exemption Schemes) (England and Wales) (Amendment) (No. 2) Order 2024 (S.I. 2024/1149)](https://www.legislation.gov.uk/uksi/2024/1149), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/1149/article/1/2), [2(8)(b)](https://www.legislation.gov.uk/uksi/2024/1149/article/2/8/b)
+
+[^key-039bd88afbe8cdd7ba359d1120c43a11]: Textual amendment: Word in [art. 13(2)(b)(i)](https://www.legislation.gov.uk/uksi/2015/138/article/13/2/b/i) substituted (5.12.2024) by [The Dangerous Dogs (Exemption Schemes) (England and Wales) (Amendment) (No. 2) Order 2024 (S.I. 2024/1149)](https://www.legislation.gov.uk/uksi/2024/1149), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/1149/article/1/2), [2(8)(c)(i)(aa)](https://www.legislation.gov.uk/uksi/2024/1149/article/2/8/c/i/aa)
+
+[^key-bbc4990930fedac215afac2d017aea4f]: Textual amendment: Word in [art. 13(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2015/138/article/13/2/b/ii) substituted (5.12.2024) by [The Dangerous Dogs (Exemption Schemes) (England and Wales) (Amendment) (No. 2) Order 2024 (S.I. 2024/1149)](https://www.legislation.gov.uk/uksi/2024/1149), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/1149/article/1/2), [2(8)(c)(i)(bb)](https://www.legislation.gov.uk/uksi/2024/1149/article/2/8/c/i/bb)
+
+[^key-5f4b3578ed4e9e53271d35095ef60d57]: Textual amendment: Words in [art. 13(2)(c)(i)](https://www.legislation.gov.uk/uksi/2015/138/article/13/2/c/i) substituted (5.12.2024) by [The Dangerous Dogs (Exemption Schemes) (England and Wales) (Amendment) (No. 2) Order 2024 (S.I. 2024/1149)](https://www.legislation.gov.uk/uksi/2024/1149), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/1149/article/1/2), [2(8)(c)(ii)](https://www.legislation.gov.uk/uksi/2024/1149/article/2/8/c/ii)
+
+[^key-351819980fe1a5205e61d618e0d39eb9]: Textual amendment: Word in [art. 14(e)](https://www.legislation.gov.uk/uksi/2015/138/article/14/e) inserted (5.12.2024) by [The Dangerous Dogs (Exemption Schemes) (England and Wales) (Amendment) (No. 2) Order 2024 (S.I. 2024/1149)](https://www.legislation.gov.uk/uksi/2024/1149), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/1149/article/1/2), [2(8)(d)](https://www.legislation.gov.uk/uksi/2024/1149/article/2/8/d)
+
+[^key-31f84ca33511e537d7c4b2ed51a35405]: Textual amendment: Art. 16 renumbered as art. 16(1) (5.12.2024) by [The Dangerous Dogs (Exemption Schemes) (England and Wales) (Amendment) (No. 2) Order 2024 (S.I. 2024/1149)](https://www.legislation.gov.uk/uksi/2024/1149), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/1149/article/1/2), [2(8)(e)(i)](https://www.legislation.gov.uk/uksi/2024/1149/article/2/8/e/i)
+
+[^key-a7498d276b39ec1ec6b49bdc8225a629]: Textual amendment: Word in [art. 16(1)(a)(i)](https://www.legislation.gov.uk/uksi/2015/138/article/16/1/a/i) substituted (5.12.2024) by [The Dangerous Dogs (Exemption Schemes) (England and Wales) (Amendment) (No. 2) Order 2024 (S.I. 2024/1149)](https://www.legislation.gov.uk/uksi/2024/1149), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/1149/article/1/2), [2(8)(e)(ii)(aa)](https://www.legislation.gov.uk/uksi/2024/1149/article/2/8/e/ii/aa)
+
+[^key-616ec7c6bf63f0a0c8c4a897061f37df]: Textual amendment: Word in [art. 16(1)(a)(ii)](https://www.legislation.gov.uk/uksi/2015/138/article/16/1/a/ii) substituted (5.12.2024) by [The Dangerous Dogs (Exemption Schemes) (England and Wales) (Amendment) (No. 2) Order 2024 (S.I. 2024/1149)](https://www.legislation.gov.uk/uksi/2024/1149), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/1149/article/1/2), [2(8)(e)(ii)(bb)](https://www.legislation.gov.uk/uksi/2024/1149/article/2/8/e/ii/bb)
+
+[^key-0741eef58f12d6e041f8e98daa6f9ad4]: Textual amendment: Words in [art. 16(1)(b)](https://www.legislation.gov.uk/uksi/2015/138/article/16/1/b) omitted (5.12.2024) by virtue of [The Dangerous Dogs (Exemption Schemes) (England and Wales) (Amendment) (No. 2) Order 2024 (S.I. 2024/1149)](https://www.legislation.gov.uk/uksi/2024/1149), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/1149/article/1/2), [2(8)(e)(iii)](https://www.legislation.gov.uk/uksi/2024/1149/article/2/8/e/iii)
+
+[^key-ae7e7f0a8c41abf973acc54c2571af53]: Textual amendment: [Art. 16(2)](https://www.legislation.gov.uk/uksi/2015/138/article/16/2) inserted (5.12.2024) by [The Dangerous Dogs (Exemption Schemes) (England and Wales) (Amendment) (No. 2) Order 2024 (S.I. 2024/1149)](https://www.legislation.gov.uk/uksi/2024/1149), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/1149/article/1/2), [2(8)(e)(iv)](https://www.legislation.gov.uk/uksi/2024/1149/article/2/8/e/iv)
+
+[^key-90780ae22c340ebb76c66d9be3b9e8f4]: Textual amendment: Word in [art. 18(1)](https://www.legislation.gov.uk/uksi/2015/138/article/18/1) inserted (1.7.2026) by [The Dangerous Dogs (Exemption Schemes) (England and Wales) (Amendment) Order 2026 (S.I. 2026/602)](https://www.legislation.gov.uk/uksi/2026/602), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/602/article/1/2), [2(6)(a)](https://www.legislation.gov.uk/uksi/2026/602/article/2/6/a)
+
+[^key-0905b1aae30f2a28bedfa338315d3183]: Textual amendment: Sum in [art. 18(1)(b)](https://www.legislation.gov.uk/uksi/2015/138/article/18/1/b) substituted (5.12.2024) by [The Dangerous Dogs (Exemption Schemes) (England and Wales) (Amendment) (No. 2) Order 2024 (S.I. 2024/1149)](https://www.legislation.gov.uk/uksi/2024/1149), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/1149/article/1/2), [2(8)(f)](https://www.legislation.gov.uk/uksi/2024/1149/article/2/8/f)
+
+[^key-8d55caa7260707957f59c9da0be79848]: Textual amendment: [Art. 18(1)(c)](https://www.legislation.gov.uk/uksi/2015/138/article/18/1/c) and word omitted (1.7.2026) by virtue of [The Dangerous Dogs (Exemption Schemes) (England and Wales) (Amendment) Order 2026 (S.I. 2026/602)](https://www.legislation.gov.uk/uksi/2026/602), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/602/article/1/2), [2(6)(b)](https://www.legislation.gov.uk/uksi/2026/602/article/2/6/b)
+
+[^key-d809d8c0cc7c00238246fa699475cad0]: Textual amendment: Words in art. 20(2) substituted (31.12.2023) by [The Dangerous Dogs (Exemption Schemes and Miscellaneous Provisions) (England and Wales) Order 2023 (S.I. 2023/1407)](https://www.legislation.gov.uk/uksi/2023/1407), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2023/1407/article/1/2/b), [11(8)(a)](https://www.legislation.gov.uk/uksi/2023/1407/article/11/8/a)
+
+[^key-3b50dfa146a1587399d553ec0cb047cb]: Textual amendment: [Art. 20(2A)](https://www.legislation.gov.uk/uksi/2015/138/article/20/2A) inserted (31.12.2023) by [The Dangerous Dogs (Exemption Schemes and Miscellaneous Provisions) (England and Wales) Order 2023 (S.I. 2023/1407)](https://www.legislation.gov.uk/uksi/2023/1407), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2023/1407/article/1/2/b), [11(8)(b)](https://www.legislation.gov.uk/uksi/2023/1407/article/11/8/b)
+
+[^key-fdca1b493b7cc8db6f5db95e1c596f10]: Textual amendment: Words in [art. 22(1)(a)(i)](https://www.legislation.gov.uk/uksi/2015/138/article/22/1/a/i) substituted (5.12.2024) by [The Dangerous Dogs (Exemption Schemes) (England and Wales) (Amendment) (No. 2) Order 2024 (S.I. 2024/1149)](https://www.legislation.gov.uk/uksi/2024/1149), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/1149/article/1/2), [2(9)(a)](https://www.legislation.gov.uk/uksi/2024/1149/article/2/9/a)
+
+[^key-814eb567a22bd5a6582d4214b59604ae]: Textual amendment: Words in [art. 22(1)(a)(ii)](https://www.legislation.gov.uk/uksi/2015/138/article/22/1/a/ii) substituted (5.12.2024) by [The Dangerous Dogs (Exemption Schemes) (England and Wales) (Amendment) (No. 2) Order 2024 (S.I. 2024/1149)](https://www.legislation.gov.uk/uksi/2024/1149), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/1149/article/1/2), [2(9)(b)](https://www.legislation.gov.uk/uksi/2024/1149/article/2/9/b)
+
+[^key-ea0696f4ddc4ee5a6590f56478ccaf77]: Textual amendment: [Art. 22(1)(a)(iii)](https://www.legislation.gov.uk/uksi/2015/138/article/22/1/a/iii) omitted (1.7.2026) by virtue of [The Dangerous Dogs (Exemption Schemes) (England and Wales) (Amendment) Order 2026 (S.I. 2026/602)](https://www.legislation.gov.uk/uksi/2026/602), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/602/article/1/2), [2(7)](https://www.legislation.gov.uk/uksi/2026/602/article/2/7)
+
+[^key-c7db05c68d8583d6c90cac1eb2027359]: Textual amendment: Art. 25(a)(b) substituted (31.12.2023) by [The Dangerous Dogs (Exemption Schemes and Miscellaneous Provisions) (England and Wales) Order 2023 (S.I. 2023/1407)](https://www.legislation.gov.uk/uksi/2023/1407), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2023/1407/article/1/2/b), [11(9)](https://www.legislation.gov.uk/uksi/2023/1407/article/11/9)
+
+[^key-3203d41dbb388b942e19cfc69fd72d0b]: Textual amendment: [Art. 25(c)](https://www.legislation.gov.uk/uksi/2015/138/article/25/c) omitted (1.7.2026) by virtue of [The Dangerous Dogs (Exemption Schemes) (England and Wales) (Amendment) Order 2026 (S.I. 2026/602)](https://www.legislation.gov.uk/uksi/2026/602), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/602/article/1/2), [2(8)](https://www.legislation.gov.uk/uksi/2026/602/article/2/8)
+
+[^f00006]: Footnote: [S.I. 1991/1742](https://www.legislation.gov.uk/uksi/1991/1742). The effect of Part 3 of the Order was extended to contingent destruction orders made under section 4A(1) or 4B(3) of the Act by the Dangerous Dogs (Amendment) Act [1997 (c.53)](https://www.legislation.gov.uk/ukpga/1997/53), section 4.

@@ -1,0 +1,69 @@
+---
+title: Energy Act 2013, section 62
+act: Energy Act 2013
+section: '62'
+status: revised-with-pending-changes
+text_date: '2024-10-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2013/32/section/62
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Energy Act 2013, section 62
+
+> **Warning: changes not yet applied to this text (1).** Text as at 2024-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2013/32
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 62. Regulations under Chapter 8
+
+*Extent: E+W+S+N.I.*
+
+(1) Any regulations made by the Secretary of State or the Welsh Ministers under this Chapter must be made by statutory instrument.
+
+(2) Any power to make regulations under this Chapter that is exercisable by the Department of Environment is to be exercisable by statutory rule for the purposes of the Statutory Rules (Northern Ireland) Order 1979 (S.I. 1979/1573 (N.I. 12)).
+
+(3) An instrument containing—
+
+- (a) regulations under section 57 (whether or not also containing regulations by the Secretary of State under section 60), or
+- (b) regulations by the Secretary of State under section 60 which amend or repeal any provision of primary legislation,
+
+may not be made unless a draft has been laid before and approved by a resolution of each House of Parliament.
+
+(4) Any other instrument containing regulations made by the Secretary of State under section 60 is subject to annulment in pursuance of a resolution of either House of Parliament.
+
+(5) If, but for this subsection, an instrument containing regulations by the Secretary of State under this Chapter would be treated for the purposes of the standing orders of either House of Parliament as a hybrid instrument, it is to proceed in that House as if it were not a hybrid instrument.
+
+(6) Regulations by the Scottish Ministers under section 60 are—
+
+- (a) if they amend or repeal any provision of primary legislation, subject to the affirmative procedure;
+- (b) otherwise, subject to the negative procedure.
+
+(7) An instrument containing regulations by the Welsh Ministers under section 60—
+
+- (a) may not be made if the regulations amend or repeal any provision of primary legislation unless a draft has been laid before, and approved by a resolution of, the National Assembly for Wales;
+- (b) otherwise, is subject to annulment in pursuance of a resolution of the National Assembly for Wales.
+
+(8) Statutory rules containing regulations by the Department of Environment under section 60 are—
+
+- (a) if the regulations amend or repeal any provision of primary legislation, subject to affirmative resolution (within the meaning of section 41(6) of the Interpretation Act (Northern Ireland) 1954), and
+- (b) otherwise, subject to negative resolution (within the meaning of section 41(4) of that Act).
+
+(9) Any regulations under this Chapter may—
+
+- (a) include incidental, supplementary and consequential provision;
+- (b) make transitory or transitional provision or savings;
+- (c) make different provision for different cases or circumstances or for different purposes;
+- (d) make provision subject to exceptions.
+
+(10) Regulations under section 57 that apply in relation to Northern Ireland may be made only with the consent of the Department of Enterprise, Trade and Investment.
+
+(11) Before making any regulations under section 57 or 60, the Secretary of State must consult—
+
+- (a) in the case of regulations under section 57 that will apply in relation to Scotland or Wales, the Scottish Ministers or the Welsh Ministers, respectively, and
+- (b) in any case, such persons (or such other persons) as the Secretary of State considers it appropriate to consult.
+
+(12) Before making any regulations under section 60, the Scottish Ministers or the Welsh Ministers must consult such persons as they think appropriate.
+
+(13) Subsections (11) and (12) may be satisfied by consultation before, as well as after, the passing of this Act.

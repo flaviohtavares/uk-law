@@ -1,0 +1,160 @@
+---
+title: The Slavery and Human Trafficking (Definition of Victim) Regulations 2022
+id: uksi/2022/877
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2022-07-27'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2022/877
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2022/877/pdfs/uksiem_20220877_en.pdf
+- http://www.legislation.gov.uk/uksi/2022/877/pdfs/uksi_20220877_en.pdf
+- http://www.legislation.gov.uk/uksi/2022/877/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Slavery and Human Trafficking (Definition of Victim) Regulations 2022
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2022 No. 877
+
+Modern Slavery
+
+The Slavery and Human Trafficking (Definition of Victim) Regulations 2022
+
+Made
+
+27th July 2022
+
+Coming into force
+
+28th July 2022
+
+The Secretary of State, in exercise of the power conferred by section 69(1) of the Nationality and Borders Act 2022[^f00001], makes the following Regulations.
+
+A draft of these Regulations has been laid before Parliament and approved by resolution of each House of Parliament in accordance with section 69(2) of that Act.
+
+## 1. Citation, commencement, extent and interpretation
+
+(1) These Regulations may be cited as the Slavery and Human Trafficking (Definition of Victim) Regulations 2022 and come into force on the day after the day on which they are made.
+
+(2) These Regulations extend to the United Kingdom.
+
+(3) In these Regulations—
+
+- “**the 2022 Act**” means the Nationality and Borders Act 2022;
+- “**adult**” means a person aged 18 or over;
+- “**child**” means a person under the age of 18;
+- “**slavery**”, “**servitude**” and “**forced or compulsory labour**” have the same meaning as they have for the purposes of Article 4 of the Convention for the Protection of Human Rights and Fundamental Freedoms agreed by the Council of Europe at Rome on 4th November 1950 as it has effect for the time being in relation to the United Kingdom.
+
+## 2. Victim of slavery
+
+(1) For the purposes of Part 5 of the 2022 Act, “**victim of slavery**” means a person who has been subjected to slavery, servitude or forced or compulsory labour.
+
+(2) In determining whether a person has been subjected to slavery, servitude or forced or compulsory labour, regard may be had to all the circumstances including—
+
+- (a) any of the person’s personal circumstances (such as the person’s age, the person’s family relationships, and any physical or mental disability or illness) that significantly impair the person’s ability to protect themselves from being subjected to slavery, servitude or forced or compulsory labour;
+- (b) any work or services provided by the person.
+
+(3) The consent of a person (whether an adult or a child) to any of the conduct alleged to show that the person has been subjected to slavery, servitude or forced or compulsory labour is not relevant to a determination as to whether the person is a victim of slavery.
+
+## 3. Victim of human trafficking
+
+(1) For the purposes of Part 5 of the 2022 Act, “**victim of human trafficking**” means a person (“**V**”) whose travel is arranged or facilitated by another person (“**P**”)—
+
+- (a) using any of the methods mentioned in paragraph (5), and
+- (b) with a view to V being exploited.
+
+(2) P may in particular arrange or facilitate V’s travel by recruiting V, transporting or transferring V, harbouring or receiving V, or transferring or exchanging control over V.
+
+(3) The consent of V (whether V is an adult or a child) to the travel is not relevant to a determination as to whether V is a victim of human trafficking.
+
+(4) It is irrelevant for the purpose of paragraph (1)(a) whether the person using the method is P or another person.
+
+(5) The methods are—
+
+- (a) in a case where V is an adult at the time the method is used—
+  - (i) the threat or use of force or other coercive behaviour;
+  - (ii) abduction, kidnap or false imprisonment;
+  - (iii) fraud or other deception;
+  - (iv) abuse of power or a position of vulnerability;
+  - (v) the giving of payments or other benefits to achieve the consent of a person who has control over V;
+- (b) in a case where V is a child at the time the method is used, any method.
+
+(6) For the purposes of paragraph (1)(b), a person is being exploited if the person is—
+
+- (a) prostituted by another person or otherwise subject to sexual exploitation;
+- (b) subjected to slavery or servitude or forced or compulsory labour;
+- (c) encouraged, required or expected to—
+  - (i) do anything which involves the commission, by that person or another person, of an offence under section 32 or 33 of the Human Tissue Act 2004 (prohibition of commercial dealings in organs and restrictions on use of live donors)[^f00002];
+  - (ii) do anything which involves the commission, by that person or another person, of an offence under section 17 or 20 of the Human Tissue (Scotland) Act 2006 (prohibition of commercial dealings in organs and restrictions on use of live donors)[^f00003], or
+  - (iii) do anything outside the United Kingdom that, if it were done in any part of the United Kingdom, would involve the commission of an offence mentioned in paragraph (i) or (ii), or
+- (d) subjected to force, threats or deception designed to induce that person—
+  - (i) to provide services of any kind;
+  - (ii) to provide another person with benefits of any kind, or
+  - (iii) to enable another person to acquire benefits of any kind.
+
+(7) For the purposes of paragraph (6)(a), a person is prostituted by another person (“**A**”) where that person is compelled by A to offer or provide sexual services to a different person in return for payment or a promise of payment (whether to A or anyone else).
+
+(8) For the purposes of paragraph (6)(a), a person is subject to sexual exploitation if—
+
+- (a) something is done to that person which involves the commission of an offence under—
+  - (i) section 1(1)(a) of the Protection of Children Act 1978 (indecent photographs of children)[^f00004];
+  - (ii) article 3(1)(a) of the Protection of Children (Northern Ireland) Order 1978 (indecent photographs of children)[^f00005];
+  - (iii) section 52(1)(a) of the Civic Government (Scotland) Act 1982 (indecent photographs etc. of children)[^f00006];
+  - (iv) sections 1, 2 or 7 to 10 of the Criminal Law (Consolidation) (Scotland) Act 1995 (sexual offences);[^f00007]
+  - (v) Part 1 of the Sexual Offences Act 2003 (sexual offences)[^f00008];
+  - (vi) sections 9 to 12 of the Protection of Children and Prevention of Sexual Offences (Scotland) Act 2005 (sexual services of children and child pornography);[^f00009]
+  - (vii) the Sexual Offences (Northern Ireland) Order 2008[^f00010];
+  - (viii) the Sexual Offences (Scotland) Act 2009[^f00011], or
+- (b) something is done to that person outside the United Kingdom that, if it were done in any part of the United Kingdom, would involve the commission of an offence mentioned in sub-paragraph (a).
+
+Kevin Foster
+
+Parliamentary Under Secretary of State
+
+Home Office
+
+27th July 2022
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations define the terms “victim of slavery” and “**victim of human trafficking**” for the purposes of Part 5 of the Nationality and Borders Act 2022.
+
+Regulation 2 defines “victim of slavery” and, for those purposes, “**slavery**”, “**servitude**” and “**forced or compulsory labour**” have the same meaning as they have for the purposes of Article 4 of the European Convention for the Protection of Human Rights and Fundamental Freedoms.
+
+Regulation 3 defines “victim of human trafficking” and, for those purposes, sets out the methods by which trafficking may occur. It also defines “exploitation” for those purposes.
+
+A full impact assessment has not been produced for this instrument as no, or no significant, impact on the private, voluntary or public sector is foreseen.
+
+## Annotations
+
+[^f00001]: Footnote: [2022 c. 36](https://www.legislation.gov.uk/ukpga/2022/36).
+
+[^f00002]: Footnote: [2004 c. 30](https://www.legislation.gov.uk/ukpga/2004/30). Section 32 was amended by [S.I. 2019/483](https://www.legislation.gov.uk/uksi/2019/483).
+
+[^f00003]: Footnote: [2006 asp 4](https://www.legislation.gov.uk/asp/2006/4).
+
+[^f00004]: Footnote: [1978 c. 37](https://www.legislation.gov.uk/ukpga/1978/37). Section 1 was amended by paragraph 24 of Schedule 6 to the Sexual Offences Act [2003 (c. 42)](https://www.legislation.gov.uk/ukpga/2003/42) and section 84 of, and paragraph 1 of Schedule 11 to, the Criminal Justice and Public Order Act [1994 (c. 33)](https://www.legislation.gov.uk/ukpga/1994/33). Other amendments have been made but none is relevant.
+
+[^f00005]: Footnote: [S.I. 1978/1047 N.I. 17](https://www.legislation.gov.uk/nisi/1978/1047). Article 3 was amended by [S.I. 2008/1769 (N.I. 2)](https://www.legislation.gov.uk/nisi/2008/1769), section 84 of the Criminal Justice and Public Order Act [1994 (c. 33)](https://www.legislation.gov.uk/ukpga/1994/33) and [S.I. 2003/1247 (N.I. 13)](https://www.legislation.gov.uk/nisi/2003/1247).
+
+[^f00006]: Footnote: [1982 c. 45](https://www.legislation.gov.uk/ukpga/1982/45). Section 52 was amended by section 84 of the Criminal Justice and Public Order Act 1994 . Other amendments have been made but none is relevant.
+
+[^f00007]: Footnote: [1995 c. 39](https://www.legislation.gov.uk/ukpga/1995/39). Section 1 was amended by paragraph 55 of Schedule 6 to the Human Fertilisation and Embryology Act [2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22). Section 7 was amended by paragraph 1 of Schedule 6 to the Sexual Offences (Scotland) Act [2009 (asp 9)](https://www.legislation.gov.uk/asp/2009/9) and paragraph 12 of Schedule 2 to the Criminal Justice (Scotland) Act [2016 (asp 1)](https://www.legislation.gov.uk/asp/2016/1). Section 8 was amended by section 19 of the Criminal Justice (Scotland) Act [2003 (asp 7)](https://www.legislation.gov.uk/asp/2003/7). Section 9 was amended by paragraph 1 of Schedule 5 to the Sexual Offences (Scotland) Act 2009, paragraph 11 of Schedule 4 to the Criminal Justice and Licensing (Scotland) Act [2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13) and [S.I. 2020/339](https://www.legislation.gov.uk/uksi/2020/339) (SSI). Section 10 was amended by paragraph 1 of Schedule 5 to the Sexual Offences (Scotland) Act [2009 (asp 9)](https://www.legislation.gov.uk/asp/2009/9). Other amendments have been made but none is relevant.
+
+[^f00008]: Footnote: [2003 c. 42](https://www.legislation.gov.uk/ukpga/2003/42).
+
+[^f00009]: Footnote: [2005 asp 9](https://www.legislation.gov.uk/asp/2005/9). Amendments have been made to all of sections 9 to 12, but none is relevant.
+
+[^f00010]: Footnote: [S.I. 2008/1769 N.I. 2](https://www.legislation.gov.uk/nisi/2008/1769).
+
+[^f00011]: Footnote: [2009 asp 9](https://www.legislation.gov.uk/asp/2009/9).

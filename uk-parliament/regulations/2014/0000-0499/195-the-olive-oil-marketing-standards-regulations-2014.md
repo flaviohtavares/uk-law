@@ -1,0 +1,762 @@
+---
+title: The Olive Oil (Marketing Standards) Regulations 2014
+id: uksi/2014/195
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2014-01-30'
+text_date: '2025-02-27'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2014/195
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2014/195/pdfs/uksiem_20140195_en.pdf
+- http://www.legislation.gov.uk/uksi/2014/195/pdfs/uksi_20140195_en.pdf
+- http://www.legislation.gov.uk/uksi/2014/195/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Olive Oil (Marketing Standards) Regulations 2014
+
+> Text as at 2025-02-27.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2014 No. 195
+
+Food
+
+The Olive Oil (Marketing Standards) Regulations 2014
+
+Made
+
+30th January 2014
+
+Laid before Parliament
+
+5th February 2014
+
+Coming into force in accordance with regulation 1
+
+The Secretary of State is designated for the purposes of section 2(2) of the European Communities Act 1972[^f00001] in relation to the common agricultural policy of the European Union[^f00002].
+
+These Regulations make provision for a purpose mentioned in that section and it appears to the Secretary of State that it is expedient for the references to the provisions of the EU Regulation specified in regulation 2(2)(a) and to the EU Regulations specified in regulation 2(2)(b) and (c) to be construed as references to those provisions and to those Regulations as amended from time to time.
+
+The Secretary of State makes the following Regulations in exercise of the powers conferred by section 2(2) of, as read with paragraph 1A of Schedule 2 to, the European Communities Act 1972[^f00003].
+
+There has been consultation as required by Article 9 of Regulation [(EC) No 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety[^f00004].
+
+## PART 1 — Introduction
+
+### 1. Citation and commencement[^M_E_c19eb026-537d-41bc-9d3a-7d554ac0ba50][^key-deb04da0064ee3797f2dd69b02751ff4]
+
+*Extent: E+W+S*
+
+These Regulations may be cited as the Olive Oil (Marketing Standards) Regulations 2014 and come into force on 1st March 2014 except for regulation 5(2)(c) which comes into force on 13th December 2014.
+
+### 1. Citation, commencement and extent[^M_E_fe1460fa-fdf1-4fb4-9ed1-94b211c5618d][^V_NI_f0f98845-6bbc-63c1-9469-8dbfc86971aa][^key-21348ed12e1d0d18f6689c67b3e76b8b]
+
+*Extent: N.I.*
+
+(1)[^key-fa1507a75c85eeb3a72dcf6940b7bfd9] These Regulations may be cited as the Olive Oil (Marketing Standards) Regulations 2014 and come into force on 1st March 2014 except for regulation 5(2)(c) which comes into force on 13th December 2014.
+
+(2)[^key-e714540e43249ac63ed6ec953886c9c3] They extend to Northern Ireland.
+
+### 2. Interpretation[^M_E_1cdb0104-a5e8-4982-cace-cd85a749e01f][^key-417c764ae2159ef2bbf298958522c204]
+
+*Extent: E+W+S*
+
+(1) In these Regulations—
+
+- “appropriate authority” means—
+  - (a) the food authority;
+  - (b) in England, the Secretary of State;
+  - (c) in Wales, the Welsh Ministers;
+  - (d) in Scotland, the Scottish Ministers; and
+  - (e) in Northern Ireland, the Department of Agriculture and Rural Development;
+- “food authority” means—
+  - (a) in England—
+    - (i) any county council;
+    - (ii) any district council;
+    - (iii) any London borough council;
+    - (iv) the Common Council of the City of London (including the Temples) in its capacity as a local authority; or
+    - (v) the Council of the Isles of Scilly;
+  - (b) in Wales, any county council or any county borough council;
+  - (c) in Scotland, any council constituted under section 2 of the Local Government etc. (Scotland) Act 1994[^f00005]; and
+  - (d) in Northern Ireland, any district council.
+
+(2) In these Regulations references to—
+
+- (a) Article 78(1)(g) and (2) of and Part VIII of Annex VII to Regulation (EU) No 1308/2013 of the European Parliament and of the Council establishing a common organisation of the markets in agricultural products and repealing Council Regulations [(EEC) No 922/72](https://www.legislation.gov.uk/european/regulation/1972/0922), [(EEC) No 234/79](https://www.legislation.gov.uk/european/regulation/1979/0234), [(EC) No 1037/2001](https://www.legislation.gov.uk/european/regulation/2001/1037) and [(EC) No 1234/2007](https://www.legislation.gov.uk/european/regulation/2007/1234)[^f00006],
+- (b) Commission Regulation [(EEC) No 2568/91](https://www.legislation.gov.uk/european/regulation/1991/2568) on the characteristics of olive oil and olive-residue oil and on the relevant methods of analysis[^f00007], and
+- (c) Commission Implementing Regulation (EU) No 29/2012 on marketing standards for olive oil[^f00008],
+
+(referred to in these Regulations as “the assimilated[^key-b149ade2dd30c704cb35902da81abd7f] Regulations”) are references to the provisions of the Regulation specified in sub-paragraph (a) and to the Regulations specified in sub-paragraphs (b) and (c) as amended from time to time.
+
+(3) Except to the extent that paragraphs (1) and (2) provide otherwise, expressions[^key-2eb9c17f9eba9e42ef0c2f4531d16400] used in these Regulations and the assimilated[^key-74d17667cfa9d908fa64631bfd652754] Regulations have the same meaning in these Regulations as they have in the assimilated Regulations.
+
+### 2. Interpretation[^M_E_dfa8bc89-64a7-488f-c9d8-4296e2e6432c][^V_NI_444f9178-9391-7c1d-f9bc-bafc56d96519]
+
+*Extent: N.I.*
+
+(1)[^key-01891a53cf190c8b0b3409940dfe50b3] In these Regulations, “the Department” means the Department of Agriculture, Environment and Rural Affairs.
+
+(2) In these Regulations references to—
+
+- (a) Article 78(1)(g) and (2) of and Part VIII of Annex VII to Regulation (EU) No 1308/2013 of the European Parliament and of the Council establishing a common organisation of the markets in agricultural products and repealing Council Regulations [(EEC) No 922/72](https://www.legislation.gov.uk/european/regulation/1972/0922), [(EEC) No 234/79](https://www.legislation.gov.uk/european/regulation/1979/0234), [(EC) No 1037/2001](https://www.legislation.gov.uk/european/regulation/2001/1037) and [(EC) No 1234/2007](https://www.legislation.gov.uk/european/regulation/2007/1234)[^f00006],
+- (b) Commission Regulation [(EEC) No 2568/91](https://www.legislation.gov.uk/european/regulation/1991/2568) on the characteristics of olive oil and olive-residue oil and on the relevant methods of analysis[^f00007], and
+- (c) Commission Implementing Regulation (EU) No 29/2012 on marketing standards for olive oil[^f00008],
+
+(referred to in these Regulations as “the EU Regulations”) are references to the provisions of the Regulation specified in sub-paragraph (a) and to the Regulations specified in sub-paragraphs (b) and (c) as they have effect by virtue of section 7A of the European Union (Withdrawal) Act 2018 and as amended from time to time[^key-39cd206fe42c90480137d4569a13c652].
+
+(3) Except to the extent that paragraphs (1) and (2) provide otherwise, expressions used in these Regulations and the EU Regulations have the same meaning in these Regulations as they have in the EU Regulations.
+
+### 3. Notices[^key-5dbb53c49e1ed7cd5d454158fbf4ee31]
+
+(1) A notice served under regulation 5 must be in writing and may be served on a person by—
+
+- (a) personal delivery;
+- (b) leaving it at the person’s proper address; or
+- (c) sending it by post or by electronic means to the person’s proper address.
+
+(2) In the case of a body corporate, a notice may be served on an officer of that body.
+
+(3) In the case of a partnership, a notice may be served on a partner or person who has control or management of the partnership business.
+
+(4) In the case of an unincorporated association, a notice may be served on an officer of the association or member of its governing body.
+
+(5) For the purposes of this regulation and section 7 of the Interpretation Act 1978[^f00009] (which relates to the service of documents by post) in its application to this regulation, “proper address” means—
+
+- (a) in the case of a body corporate or an officer of that body—
+  - (i) the registered or principal office of the body; or
+  - (ii) the email address of the officer;
+- (b) in the case of a partnership or a partner or person who has control or management of the partnership business—
+  - (i) the principal office of the partnership; or
+  - (ii) the email address of the partner or person who has that control or management;
+- (c) in the case of an unincorporated association or an officer of the association or member of its governing body—
+  - (i) the principal office of the association; or
+  - (ii) the email address of the officer or member;
+- (d) in any other case, a person’s last known address, which includes an email address.
+
+(6) For the purposes of paragraph (5), the principal office of a body corporate registered outside the United Kingdom or of a partnership or unincorporated association carrying on business outside the United Kingdom is its principal office in United Kingdom.
+
+(7) If a person to be served with a notice has specified an address in the United Kingdom (other than that person’s proper address) at which that person or someone on that person’s behalf will accept notices, that address must instead be treated as that person’s proper address.
+
+## PART 2 — Enforcement
+
+### 4. Authorised officers[^M_E_9dc249e5-218e-4bf4-83ae-0cd7cd3dddfd][^key-ce16b6fd3abca6643c486beeaad85bee]
+
+*Extent: E+W+S*
+
+The appropriate authority may appoint in writing officers to act for the purposes of these Regulations and the assimilated[^key-f4811e3b7dceb100eb3b49a63fe0fb8d] Regulations and in these Regulations “authorised officer” means an officer appointed under this regulation.
+
+### 4. Authorised officers[^M_E_2e22f651-ef44-4d23-8a57-d019108a2c7c][^V_NI_e5e1a422-113d-03c4-64b8-bb10b8ba78a9]
+
+*Extent: N.I.*
+
+The Department[^key-7d95ea6e7781dee54cf2cd6f97a24693] may appoint in writing officers to act for the purposes of these Regulations and the EU Regulations and in these Regulations “authorised officer” means an officer appointed under this regulation.
+
+### 5. Compliance notices[^key-d1f120a63587a95d2a95be61ad26f1ee][^key-304bc7b343f5a560beb4cd5c9aaf3362]
+
+(1)[^key-d1f120a63587a95d2a95be61ad26f1ee] An authorised officer who has reasonable grounds for believing that any person has not complied with, or is not likely to comply with, any provision in paragraph (2) may serve a notice on that person (in these Regulations referred to as a “compliance notice”) which states—
+
+- (a) the reason for the service of the notice and for the steps required to be taken;
+- (b) the steps which the person must take, being such steps as the authorised officer believes are necessary to ensure compliance with the provisions referred to in paragraph (2);
+- (c) the time by which each of the steps must be taken;
+- (d) that failure to comply with the notice is an offence; and
+- (e) the right of appeal against the notice and the period within which such an appeal may be brought.
+
+(2) For the purposes of paragraph (1), the provisions are—
+
+- (a)[^key-d1f120a63587a95d2a95be61ad26f1ee] Article 78(1)(g) and (2) of and Part VIII of Annex VII to Regulation (EU) No 1308/2013, as read with Commission Regulation [(EEC) No 2568/91](https://www.legislation.gov.uk/european/regulation/1991/2568);
+- (b)[^key-d1f120a63587a95d2a95be61ad26f1ee] Article 2 of Commission Implementing Regulation (EU) No 29/2012, as read with Article 3, 4, 5 or 6 of that Regulation;
+- (c)[^key-304bc7b343f5a560beb4cd5c9aaf3362] Article 2 of Commission Implementing Regulation (EU) No 29/2012, as read with Article 4a or 4b of that Regulation; and
+- (d)[^key-d1f120a63587a95d2a95be61ad26f1ee] Article 7a of Commission Regulation [(EEC) No 2568/91](https://www.legislation.gov.uk/european/regulation/1991/2568), as read with the Schedule (which makes further provision for entry and withdrawal registers).
+
+(3)[^key-d1f120a63587a95d2a95be61ad26f1ee] An authorised officer may serve a notice on a person withdrawing, varying or suspending a compliance notice served under paragraph (1).
+
+(4)[^key-d1f120a63587a95d2a95be61ad26f1ee] A notice served under this regulation must be complied with at the expense of the person on whom it is served and, if it is not complied with, an authorised officer may arrange for it to be complied with at the expense of that person.
+
+### 6. Powers of entry[^M_E_a4e6a90d-baae-4772-a4f3-dc5e1d208f84][^key-889289be9d1767a5e0ca842518d12c2e]
+
+*Extent: E+W+S*
+
+(1) An authorised officer may, on giving reasonable notice, enter any premises at any reasonable hour for the purposes of executing and enforcing these Regulations and the assimilated[^key-73a3ab2add12fee1416ef690325c2502] Regulations, including for the purposes of—
+
+- (a) taking samples pursuant to[^key-5332761afa70cc7d0d846ef3027067d0] Article 8(2) of Commission Implementing Regulation (EU) No 29/2012; and
+- (b) carrying out the conformity checks required by Article 2a of Commission Regulation [(EEC) No 2568/91](https://www.legislation.gov.uk/european/regulation/1991/2568).
+
+(2) But paragraph (1) does not apply in relation to premises used wholly or mainly as a private dwelling house.
+
+(3) The requirement in paragraph (1) to give notice does not apply—
+
+- (a) where reasonable efforts to agree an appointment have failed;
+- (b) where an authorised officer reasonably believes that giving notice would defeat the object of the entry; or
+- (c) where an authorised officer has a reasonable suspicion of a breach of these Regulations or the assimilated[^key-d52e9d921fae8fedd52ddea28636db9b] Regulations.
+
+(4) An authorised officer must, if requested to do so, produce a duly authenticated authorisation document.
+
+(5) A justice of the peace may by signed warrant permit an authorised officer to enter premises, except any premises used wholly or mainly as a private dwelling house, if necessary by reasonable force, if the justice, on sworn information in writing (or, in Scotland, by evidence on oath, or, in Northern Ireland, on a sworn complaint in writing) is satisfied—
+
+- (a) that there are reasonable grounds to enter those premises for the purpose of enforcing these Regulations or the assimilated[^key-54e8a6b63b51dfd53712e8a0fa0f8eb1] Regulations; and
+- (b) that any condition in paragraph (6) is met.
+
+(6) For the purposes of paragraph (5), the conditions are—
+
+- (a) entry to the premises has been, or is likely to be, refused and notice of the intention to apply for a warrant has been given to the occupier;
+- (b) asking for admission to the premises, or giving such a notice, would defeat the object of the entry;
+- (c) entry is required urgently; or
+- (d) the premises are unoccupied or the occupier is temporarily absent.
+
+(7) A warrant is valid for three months.
+
+(8) An authorised officer entering any premises which are unoccupied or from which the occupier is temporarily absent must leave them as effectively secured against unauthorised entry as they were before entry.
+
+(9) An authorised officer may—
+
+- (a) be accompanied by—
+  - (i) such other persons as the authorised officer considers necessary;
+  - (ii)[^key-9024a5eec74cc9c385aac91c66631b14] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) bring on to the premises such equipment as the authorised officer considers necessary.
+
+(10) In this regulation, a reference to a justice of the peace—
+
+- (i) in Scotland includes a sheriff; and
+- (ii) in Northern Ireland is a reference to a lay magistrate.
+
+(11) In this regulation “premises” includes any place and any vehicle, vessel, aircraft, hovercraft, trailer, container, tent, stall or movable structure.
+
+### 6. Powers of entry[^M_E_898ebf1e-2447-4e4d-e45b-90e327b9d25f][^V_NI_e5469a49-d0a6-1c0b-41ed-a5c441a01f1d]
+
+*Extent: N.I.*
+
+(1) An authorised officer may, on giving reasonable notice, enter any premises at any reasonable hour for the purposes of executing and enforcing these Regulations and the EU Regulations, including for the purposes of—
+
+- (a) taking samples pursuant to Article 8(2) of Commission Implementing Regulation (EU) No 29/2012; and
+- (b) carrying out the conformity checks required by Article 2a of Commission Regulation [(EEC) No 2568/91](https://www.legislation.gov.uk/european/regulation/1991/2568).
+
+(2) But paragraph (1) does not apply in relation to premises used wholly or mainly as a private dwelling house.
+
+(3) The requirement in paragraph (1) to give notice does not apply—
+
+- (a) where reasonable efforts to agree an appointment have failed;
+- (b) where an authorised officer reasonably believes that giving notice would defeat the object of the entry; or
+- (c) where an authorised officer has a reasonable suspicion of a breach of these Regulations or the EU Regulations.
+
+(4) An authorised officer must, if requested to do so, produce a duly authenticated authorisation document.
+
+(5) A lay magistrate[^key-4fad8cad3d41d087e099d38e673ec76c] may by signed warrant permit an authorised officer to enter premises, except any premises used wholly or mainly as a private dwelling house, if necessary by reasonable force, if the lay magistrate, on a sworn complaint in writing[^key-6e725d2af9387d420c0e9582236c8ee3] is satisfied—
+
+- (a) that there are reasonable grounds to enter those premises for the purpose of enforcing these Regulations or the EU Regulations; and
+- (b) that any condition in paragraph (6) is met.
+
+(6) For the purposes of paragraph (5), the conditions are—
+
+- (a) entry to the premises has been, or is likely to be, refused and notice of the intention to apply for a warrant has been given to the occupier;
+- (b) asking for admission to the premises, or giving such a notice, would defeat the object of the entry;
+- (c) entry is required urgently; or
+- (d) the premises are unoccupied or the occupier is temporarily absent.
+
+(7) A warrant is valid for three months.
+
+(8) An authorised officer entering any premises which are unoccupied or from which the occupier is temporarily absent must leave them as effectively secured against unauthorised entry as they were before entry.
+
+(9) An authorised officer may—
+
+- (a)[^key-1f142a209f8cd4918f30954340eb58b0] be accompanied by such other persons as the authorised officer considers necessary;
+- (b) bring on to the premises such equipment as the authorised officer considers necessary.
+
+(10)[^key-e6350584734b3f420a9eca9edf25608d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(11) In this regulation “premises” includes any place and any vehicle, vessel, aircraft, hovercraft, trailer, container, tent, stall or movable structure.
+
+### 7. Powers of authorised officers on entry[^key-a2c8f82991ac959669a536fcfae5b6cf]
+
+(1) An authorised officer who has entered premises under regulation 6 may—
+
+- (a) inspect and search the premises;
+- (b) take photographs, measurements or recordings;
+- (c) take samples;
+- (d) mark for identification purposes any item;
+- (e) require the production of any label, document or record (in whatever form they are held) and inspect and take a copy of, or take an extract from, any label, document or record;
+- (f) inspect any plant, machinery or equipment;
+- (g) have access to, inspect and check the data on, and operation of, any computer and any associated apparatus used in connection with a label, document or record mentioned in this regulation; and for this purpose may require any person having charge of, or otherwise concerned with the operation of, the computer equipment to afford such assistance (including the provision of passwords) as may reasonably be required;
+- (h) where a label, document or record is kept by means of a computer, require the label, document or record to be produced in a form in which it may be taken away;
+- (i) seize and detain any computer equipment for the purpose of copying any data, but only if the authorised officer has a reasonable suspicion that an offence under these Regulations has been committed;
+- (j) seize and detain any label, document, record, equipment or container if the authorised officer has reason to believe that it may be required as evidence in proceedings under these Regulations.
+
+(2) An authorised officer may require any person to provide the officer with such assistance, information or facilities as the officer may reasonably require for the purposes of the execution or enforcement of these Regulations or the retained *(Extent: E+W+S)*[^key-73e809c82992f11273cd3fd759785ace] *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-e7ebf471653cd1328664473feac091bd] EU *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-e7ebf471653cd1328664473feac091bd] assimilated *(Extent: E+W+S)* Regulations.
+
+(3) If it is decided that any item seized and detained under paragraph (1) is no longer needed as evidence in proceedings under these Regulations, an authorised officer must return it as soon as reasonably practicable after that decision.
+
+(4) An authorised officer who has taken a sample may analyse or examine that sample or have that sample analysed or examined.
+
+## PART 3 — Appeals against compliance notices
+
+### 8 (Extent: N.I.) (affected by repeal, see note). Appeals: England and Wales (Extent: N.I.) (affected by repeal, see note)[^key-1b93d4fa4df90fd4f30c95e5e3416ced][^key-59851e384dccaab29056eee3c46662f9][^key-59851e384dccaab29056eee3c46662f9]
+
+(1 (Extent: N.I.) (affected by repeal, see note))[^key-59851e384dccaab29056eee3c46662f9] This regulation applies in relation to England and Wales only. *(Extent: N.I.)* *(affected by repeal, see note)*[^key-59851e384dccaab29056eee3c46662f9]
+
+(2 (Extent: N.I.) (affected by repeal, see note))[^key-59851e384dccaab29056eee3c46662f9] A person aggrieved by a decision of an authorised officer to serve a compliance notice may appeal to the First-tier Tribunal. *(Extent: N.I.)* *(affected by repeal, see note)*[^key-59851e384dccaab29056eee3c46662f9]
+
+(3 (Extent: N.I.) (affected by repeal, see note))[^key-59851e384dccaab29056eee3c46662f9] A compliance notice is not suspended pending an appeal unless the Tribunal directs otherwise. *(Extent: N.I.)* *(affected by repeal, see note)*[^key-59851e384dccaab29056eee3c46662f9]
+
+(4 (Extent: N.I.) (affected by repeal, see note))[^key-59851e384dccaab29056eee3c46662f9] On an appeal under this regulation, the Tribunal may either cancel or affirm the notice and, if it affirms the notice, it may do so either in its original form or with such modifications as it thinks fit. *(Extent: N.I.)* *(affected by repeal, see note)*[^key-59851e384dccaab29056eee3c46662f9]
+
+### 9 (Extent: N.I.) (affected by repeal, see note). Appeals: Scotland (Extent: N.I.) (affected by repeal, see note)[^key-8f9c245198cd64ce3ba47e545fe9fc92][^key-097773a2f494b866e557759b3a66b0ad][^key-097773a2f494b866e557759b3a66b0ad]
+
+(1 (Extent: N.I.) (affected by repeal, see note))[^key-097773a2f494b866e557759b3a66b0ad] This regulation applies in relation to Scotland only. *(Extent: N.I.)* *(affected by repeal, see note)*[^key-097773a2f494b866e557759b3a66b0ad]
+
+(2 (Extent: N.I.) (affected by repeal, see note))[^key-097773a2f494b866e557759b3a66b0ad] A person aggrieved by a decision of an authorised officer to serve a compliance notice may appeal to the sheriff. *(Extent: N.I.)* *(affected by repeal, see note)*[^key-097773a2f494b866e557759b3a66b0ad]
+
+(3 (Extent: N.I.) (affected by repeal, see note))[^key-097773a2f494b866e557759b3a66b0ad] An appeal to the sheriff is by summary application. *(Extent: N.I.)* *(affected by repeal, see note)*[^key-097773a2f494b866e557759b3a66b0ad]
+
+(4 (Extent: N.I.) (affected by repeal, see note))[^key-097773a2f494b866e557759b3a66b0ad] The period within which an appeal must be brought is 28 days from the service of the notice or the period specified in the notice, whichever ends earlier. *(Extent: N.I.)* *(affected by repeal, see note)*[^key-097773a2f494b866e557759b3a66b0ad]
+
+(5 (Extent: N.I.) (affected by repeal, see note))[^key-097773a2f494b866e557759b3a66b0ad] On an appeal under this regulation, the sheriff may either cancel or affirm the notice and, if the sheriff affirms the notice, may do so either in its original form or with such modifications as the sheriff thinks fit. *(Extent: N.I.)* *(affected by repeal, see note)*[^key-097773a2f494b866e557759b3a66b0ad]
+
+(6 (Extent: N.I.) (affected by repeal, see note))[^key-097773a2f494b866e557759b3a66b0ad] The sheriff may include in the decision on the appeal such order as to the expenses of the appeal as the sheriff considers proper. *(Extent: N.I.)* *(affected by repeal, see note)*[^key-097773a2f494b866e557759b3a66b0ad]
+
+(7 (Extent: N.I.) (affected by repeal, see note))[^key-097773a2f494b866e557759b3a66b0ad] The decision of the sheriff on the appeal is final. *(Extent: N.I.)* *(affected by repeal, see note)*[^key-097773a2f494b866e557759b3a66b0ad]
+
+### 10. Appeals: Northern Ireland (Extent: N.I.) (affected by repeal, see note)[^key-e16c4571e3042618a8778a83803c48e4][^key-82765ae44bcbc357997409b1c4605b45]
+
+(1) This regulation applies in relation to Northern Ireland only. *(Extent: N.I.)* *(affected by repeal, see note)*[^key-4fb095734c6b007300db93874449e6fe]
+
+(2) A person aggrieved by a decision of an authorised officer to serve a compliance notice may appeal to the magistrates’ court.
+
+(3) The procedure on appeal to a magistrates’ court is by way of complaint and the Magistrates’ Courts (Northern Ireland) Order 1981[^f00010] applies to the proceedings.
+
+(4) The period within which an appeal must be brought is 28 days from the service of the notice or the period specified in the notice, whichever ends earlier.
+
+(5) On an appeal under this regulation, the court may either cancel or affirm the notice and, if it affirms the notice, it may do so either in its original form or with such modifications as it thinks fit.
+
+## PART 4 — Offences and penalties
+
+### 11. Offences and penalties[^key-a1de95742bec9fa01be5ddebdce5da43]
+
+(1) A person is guilty of an offence if that person—
+
+- (a) fails to comply with a compliance notice;
+- (b) intentionally obstructs an authorised officer exercising a power under these Regulations;
+- (c) fails, without reasonable excuse, to give any assistance or information that the authorised officer may reasonably require for the enforcement of the retained *(Extent: E+W+S)*[^key-e108125ef5f5a2d5853555958a79f934] *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-88a621d49873c41b8a2a553bf82f4602] EU *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-88a621d49873c41b8a2a553bf82f4602] assimilated *(Extent: E+W+S)* Regulations or the performance of that officer’s functions under these Regulations;
+- (d) knowingly gives false or misleading information to an authorised officer; or
+- (e) without reasonable excuse, fails to produce a label, document or record, including—
+  - (i) the entry and withdrawal registers required to be kept under Article 7a of Commission Regulation [(EEC) No 2568/91](https://www.legislation.gov.uk/european/regulation/1991/2568), [^key-44578023d4ee8d5ef956ab1052edf163]...
+  - (ii)[^key-4913adb56498989c4548d00346a82173] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+  when reasonably required to do so by an authorised officer.
+
+(2) A person guilty of an offence under paragraph (1) is liable on summary conviction to a fine not exceeding level 5 on the standard scale.
+
+### 12. Defence of due diligence[^key-922aa60d02d65ea876440d2bb99ec683]
+
+It is a defence for a person charged with an offence under regulation 11(1)(a) (“P”) to prove that P took all reasonable precautions and exercised all due diligence to avoid the commission of the offence by P or by a person under P’s control.
+
+### 13. Time limit for bringing prosecutions[^key-6a28826e78690d3dfc2da9c2c1914fbe]
+
+(1) Proceedings for an offence under these Regulations may be commenced within the period of twelve months from the date on which the prosecutor first knows of evidence sufficient, in the prosecutor’s opinion, to justify proceedings.
+
+(2) But no such proceedings may be commenced more than 18 months after the commission of the offence.
+
+(3) For the purposes of this regulation—
+
+- (a) a certificate signed by or on behalf of the prosecutor and stating the date on which the prosecutor first knew of evidence sufficient to justify the proceedings is conclusive evidence of that fact; and
+- (b) a certificate stating that matter and purporting to be so signed is deemed to be so signed unless the contrary is proved.
+
+(4 (Extent: N.I.) (affected by repeal, see note))[^key-0bc5fca6b5f39be1f6983656b1ed97a5] In relation to proceedings in Scotland, section 136(3) of the Criminal Procedure (Scotland) Act 1995 *(Extent: N.I.)* *(affected by repeal, see note)*[^key-0bc5fca6b5f39be1f6983656b1ed97a5][^f00011] (date of commencement of proceedings) applies for the purposes of this regulation as it applies for the purposes of that section. *(Extent: N.I.)* *(affected by repeal, see note)*[^key-0bc5fca6b5f39be1f6983656b1ed97a5]
+
+### 14. Offences by bodies corporate, partnerships and unincorporated associations[^key-9190e79a639533d154c6c85479222ec4]
+
+(1) Where a body corporate is guilty of an offence under these Regulations and that offence is proved to have been committed with the consent or connivance of, or to have been attributable to any neglect on the part of—
+
+- (a) any director, manager, secretary or other similar officer of the body corporate, or
+- (b) any person who was purporting to act in any such capacity,
+
+that person, as well as the body corporate, is guilty of the offence.
+
+(2) In paragraph (1), “director”, in relation to a body corporate whose affairs are managed by its members, means a member of the body corporate.
+
+(3) Where a partnership or a Scottish partnership is guilty of an offence under these Regulations and that offence is proved to have been committed with the consent or connivance of, or to have been attributable to any neglect on the part of, a partner, the partner, as well as the partnership, is guilty of the offence.
+
+(4) In paragraph (3), “partner” includes a person purporting to act as a partner.
+
+(5) Where an unincorporated association is guilty of an offence under these Regulations and that offence is proved to have been committed with the consent or connivance of, or to have been attributable to any neglect on the part of, an officer of the association, that officer, as well as the association, is guilty of the offence.
+
+(6) In paragraph (5), “officer”, in relation to an unincorporated association, means—
+
+- (a) an officer of the association or a member of its governing body; or
+- (b) a person purporting to act in that capacity.
+
+### 15. Proceedings against partnerships and unincorporated associations[^key-fc6849824daa2b9af23dfe1d304082ef]
+
+(1) Proceedings for an offence under these Regulations alleged to have been committed by a partnership or an unincorporated association may be brought against the partnership or association in the name of the partnership or association.
+
+(2) For the purposes of such proceedings the following apply as if the partnership or unincorporated association were a body corporate—
+
+- (a) rules of court relating to the service of documents; and *(Extent: N.I.)*[^key-c3d318ee966b3d08726fa424e8a23ce4]
+- (b (Extent: N.I.) (affected by repeal, see note))[^key-0be9a63962d72a978509c0165abce031] section 33 of the Criminal Justice Act 1925 *(Extent: N.I.)* *(affected by repeal, see note)*[^key-0be9a63962d72a978509c0165abce031][^f00012] and Schedule 3 to the Magistrates’ Court Act 1980 *(Extent: N.I.)* *(affected by repeal, see note)*[^key-0be9a63962d72a978509c0165abce031][^f00013]; *(Extent: N.I.)* *(affected by repeal, see note)*[^key-0be9a63962d72a978509c0165abce031]
+- (c (Extent: N.I.) (affected by repeal, see note))[^key-c25b595a2c81d2ba1af6cf8420ea96fe] section 70 and section 143 of the Criminal Procedure (Scotland) Act 1995; and *(Extent: N.I.)* *(affected by repeal, see note)*[^key-c25b595a2c81d2ba1af6cf8420ea96fe]
+- (d) section 18 of the Criminal Justice Act (Northern Ireland) 1945[^f00014] and Schedule 4 to the Magistrates’ Courts (Northern Ireland) Order 1981.
+
+(3) A fine imposed on a partnership or unincorporated association on its conviction of an offence under these Regulations is to be paid out of the funds of the partnership or association.
+
+## PART 5 — Miscellaneous provisions
+
+### 16. Payment of costs of counter-assessments[^key-00757cecdc20730dee52659e7d1814e1][^M_E_e59bf042-5f6c-4be6-e194-85b3e2b8bce2]
+
+*Extent: E+W+S*
+
+(1) This regulation applies to a person who is responsible for the costs of any counter-assessments in accordance with Article 2(2), third paragraph, of Commission Regulation [(EEC) No 2568/91](https://www.legislation.gov.uk/european/regulation/1991/2568).
+
+(2) The person must pay the costs as specified in an invoice sent to that person by the appropriate authority responsible for those counter-assessments.
+
+(3) The appropriate authority may recover as a civil debt any amount not paid within 28 days of the date of the invoice.
+
+### 16. Payment of costs of counter-assessments[^V_NI_f418b5d1-6583-d4b8-e03d-66c75ead3c49][^M_E_d39e79f3-a383-4567-dc53-5b25e7f6caab]
+
+*Extent: N.I.*
+
+(1) This regulation applies to a person who is responsible for the costs of any counter-assessments in accordance with Article 2(2), third paragraph, of Commission Regulation [(EEC) No 2568/91](https://www.legislation.gov.uk/european/regulation/1991/2568).
+
+(2) The person must pay the costs as specified in an invoice sent to that person by the Department[^key-579e5bff9260ae1b19d9af2c67d4c497] responsible for those counter-assessments.
+
+(3) The Department may recover as a civil debt any amount not paid within 28 days of the date of the invoice.
+
+### 17. Enforcement authorities[^M_E_bba597a7-6f52-47d9-bd54-ac6514b52857][^key-c1910541fecd0cd2f4bcf76bc7271a63]
+
+*Extent: E+W+S*
+
+(1) These Regulations are enforced—
+
+- (a) in England, by the Secretary of State;
+- (b) in Wales, by the Welsh Ministers;
+- (c) in Scotland by the Scottish Ministers; and
+- (d) in Northern Ireland, by the Department of Agriculture and Rural Development.
+
+(2) But each food authority in its area may also enforce these Regulations.
+
+(3) The Secretary of State may delegate to the Director of Public Prosecutions functions in relation to the prosecution of an offence under these Regulations.
+
+### 17. Enforcement authorities[^M_E_09685d68-825c-4a7e-d640-bc2f2233a797][^V_NI_2af365bc-095f-4eb3-54b5-541b7781291e][^key-4debefcc540ceedbf72fd93f27a3c97e]
+
+*Extent: N.I.*
+
+(1) These Regulations are enforced by the Department.
+
+(2) But any district council may also enforce these Regulations.
+
+### 18 (Extent: N.I.) (affected by repeal, see note). Cessation of approvals[^key-370dd63d3eefb8ba4692730d5a9a3c0c][^key-3f23dd2af0b4e0052f4cf97c275875ba]
+
+Any approval of an establishment granted under— *(Extent: N.I.)* *(affected by repeal, see note)*[^key-3f23dd2af0b4e0052f4cf97c275875ba]
+
+- (a (Extent: N.I.) (affected by repeal, see note))[^key-3f23dd2af0b4e0052f4cf97c275875ba] regulation 10 of the Olive Oil (Marketing Standards) Regulations 2003 *(Extent: N.I.)* *(affected by repeal, see note)*[^key-3f23dd2af0b4e0052f4cf97c275875ba][^f00015], or *(Extent: N.I.)* *(affected by repeal, see note)*[^key-3f23dd2af0b4e0052f4cf97c275875ba]
+- (b (Extent: N.I.) (affected by repeal, see note))[^key-3f23dd2af0b4e0052f4cf97c275875ba] regulation 10 of the Olive Oil (Marketing Standards) Regulations (Northern Ireland) 2008 *(Extent: N.I.)* *(affected by repeal, see note)*[^key-3f23dd2af0b4e0052f4cf97c275875ba][^f00016], *(Extent: N.I.)* *(affected by repeal, see note)*[^key-3f23dd2af0b4e0052f4cf97c275875ba]
+
+and which is in force immediately before the coming into force of these Regulations ceases to have effect. *(Extent: N.I.)* *(affected by repeal, see note)*[^key-3f23dd2af0b4e0052f4cf97c275875ba]
+
+### 19 (Extent: N.I.) (affected by repeal, see note). Review of these Regulations[^key-3f3053519d0f7f20ef08d2e798284762][^key-3f23dd2af0b4e0052f4cf97c275875ba]
+
+(1 (Extent: N.I.) (affected by repeal, see note))[^key-3f23dd2af0b4e0052f4cf97c275875ba] This regulation applies in relation to England only. *(Extent: N.I.)* *(affected by repeal, see note)*[^key-3f23dd2af0b4e0052f4cf97c275875ba]
+
+(2 (Extent: N.I.) (affected by repeal, see note))[^key-3f23dd2af0b4e0052f4cf97c275875ba] The Secretary of State must from time to time— *(Extent: N.I.)* *(affected by repeal, see note)*[^key-3f23dd2af0b4e0052f4cf97c275875ba]
+
+- (a (Extent: N.I.) (affected by repeal, see note))[^key-3f23dd2af0b4e0052f4cf97c275875ba] carry out a review of these Regulations; *(Extent: N.I.)* *(affected by repeal, see note)*[^key-3f23dd2af0b4e0052f4cf97c275875ba]
+- (b (Extent: N.I.) (affected by repeal, see note))[^key-3f23dd2af0b4e0052f4cf97c275875ba] set out the conclusions of the review in a report; and *(Extent: N.I.)* *(affected by repeal, see note)*[^key-3f23dd2af0b4e0052f4cf97c275875ba]
+- (c (Extent: N.I.) (affected by repeal, see note))[^key-3f23dd2af0b4e0052f4cf97c275875ba] publish the report. *(Extent: N.I.)* *(affected by repeal, see note)*[^key-3f23dd2af0b4e0052f4cf97c275875ba]
+
+(3 (Extent: N.I.) (affected by repeal, see note))[^key-21df6c45dfb25eb0aef3a94f314849e5][^key-3f23dd2af0b4e0052f4cf97c275875ba] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . *(Extent: N.I.)* *(affected by repeal, see note)*[^key-3f23dd2af0b4e0052f4cf97c275875ba]
+
+(4 (Extent: N.I.) (affected by repeal, see note))[^key-3f23dd2af0b4e0052f4cf97c275875ba] The report must in particular— *(Extent: N.I.)* *(affected by repeal, see note)*[^key-3f23dd2af0b4e0052f4cf97c275875ba]
+
+- (a (Extent: N.I.) (affected by repeal, see note))[^key-3f23dd2af0b4e0052f4cf97c275875ba] set out the objectives intended to be achieved by the regulatory system established by these Regulations; *(Extent: N.I.)* *(affected by repeal, see note)*[^key-3f23dd2af0b4e0052f4cf97c275875ba]
+- (b (Extent: N.I.) (affected by repeal, see note))[^key-3f23dd2af0b4e0052f4cf97c275875ba] assess the extent to which those objectives are achieved; and *(Extent: N.I.)* *(affected by repeal, see note)*[^key-3f23dd2af0b4e0052f4cf97c275875ba]
+- (c (Extent: N.I.) (affected by repeal, see note))[^key-3f23dd2af0b4e0052f4cf97c275875ba] assess whether those objectives remain appropriate and, if so, the extent to which they could be achieved with a system that imposes less regulation. *(Extent: N.I.)* *(affected by repeal, see note)*[^key-3f23dd2af0b4e0052f4cf97c275875ba]
+
+(5 (Extent: N.I.) (affected by repeal, see note))[^key-3f23dd2af0b4e0052f4cf97c275875ba] The first report under this regulation must be published before the end of the period of five years beginning with the day on which these Regulations come into force. *(Extent: N.I.)* *(affected by repeal, see note)*[^key-3f23dd2af0b4e0052f4cf97c275875ba]
+
+(6 (Extent: N.I.) (affected by repeal, see note))[^key-3f23dd2af0b4e0052f4cf97c275875ba] Reports under this regulation are afterwards to be published at intervals not exceeding five years. *(Extent: N.I.)* *(affected by repeal, see note)*[^key-3f23dd2af0b4e0052f4cf97c275875ba]
+
+### 20 (Extent: N.I.) (affected by repeal, see note). Revocations[^key-c2d25760c03551207bc1c897d2cd5467][^key-3f23dd2af0b4e0052f4cf97c275875ba]
+
+The following instruments are revoked— *(Extent: N.I.)* *(affected by repeal, see note)*[^key-3f23dd2af0b4e0052f4cf97c275875ba]
+
+- (a (Extent: N.I.) (affected by repeal, see note))[^key-3f23dd2af0b4e0052f4cf97c275875ba] the Olive Oil (Marketing Standards) Regulations 1987 *(Extent: N.I.)* *(affected by repeal, see note)*[^key-3f23dd2af0b4e0052f4cf97c275875ba][^f00017], so far as still in force; *(Extent: N.I.)* *(affected by repeal, see note)*[^key-3f23dd2af0b4e0052f4cf97c275875ba]
+- (b (Extent: N.I.) (affected by repeal, see note))[^key-3f23dd2af0b4e0052f4cf97c275875ba] the Olive Oil (Marketing Standards) (Amendment) Regulations 1992 *(Extent: N.I.)* *(affected by repeal, see note)*[^key-3f23dd2af0b4e0052f4cf97c275875ba][^f00018]; *(Extent: N.I.)* *(affected by repeal, see note)*[^key-3f23dd2af0b4e0052f4cf97c275875ba]
+- (c (Extent: N.I.) (affected by repeal, see note))[^key-3f23dd2af0b4e0052f4cf97c275875ba] the Olive Oil (Marketing Standards) (Amendment) Regulations 1998 *(Extent: N.I.)* *(affected by repeal, see note)*[^key-3f23dd2af0b4e0052f4cf97c275875ba][^f00019]; *(Extent: N.I.)* *(affected by repeal, see note)*[^key-3f23dd2af0b4e0052f4cf97c275875ba]
+- (d (Extent: N.I.) (affected by repeal, see note))[^key-3f23dd2af0b4e0052f4cf97c275875ba] the Olive Oil (Designations of Origin) Regulations 1999 *(Extent: N.I.)* *(affected by repeal, see note)*[^key-3f23dd2af0b4e0052f4cf97c275875ba][^f00020], so far as still in force; *(Extent: N.I.)* *(affected by repeal, see note)*[^key-3f23dd2af0b4e0052f4cf97c275875ba]
+- (e (Extent: N.I.) (affected by repeal, see note))[^key-3f23dd2af0b4e0052f4cf97c275875ba] the Olive Oil (Marketing Standards) (Amendment) Regulations 2002 *(Extent: N.I.)* *(affected by repeal, see note)*[^key-3f23dd2af0b4e0052f4cf97c275875ba][^f00021]; *(Extent: N.I.)* *(affected by repeal, see note)*[^key-3f23dd2af0b4e0052f4cf97c275875ba]
+- (f (Extent: N.I.) (affected by repeal, see note))[^key-3f23dd2af0b4e0052f4cf97c275875ba] the Olive Oil (Marketing Standards) Regulations 2003; *(Extent: N.I.)* *(affected by repeal, see note)*[^key-3f23dd2af0b4e0052f4cf97c275875ba]
+- (g (Extent: N.I.) (affected by repeal, see note))[^key-3f23dd2af0b4e0052f4cf97c275875ba] the Olive Oil (Marketing Standards) (Amendment) Regulations 2004 *(Extent: N.I.)* *(affected by repeal, see note)*[^key-3f23dd2af0b4e0052f4cf97c275875ba][^f00022]; *(Extent: N.I.)* *(affected by repeal, see note)*[^key-3f23dd2af0b4e0052f4cf97c275875ba]
+- (h (Extent: N.I.) (affected by repeal, see note))[^key-3f23dd2af0b4e0052f4cf97c275875ba] the Olive Oil (Marketing Standards) (Amendment) Regulations 2006 *(Extent: N.I.)* *(affected by repeal, see note)*[^key-3f23dd2af0b4e0052f4cf97c275875ba][^f00023]; *(Extent: N.I.)* *(affected by repeal, see note)*[^key-3f23dd2af0b4e0052f4cf97c275875ba]
+- (i (Extent: N.I.) (affected by repeal, see note))[^key-3f23dd2af0b4e0052f4cf97c275875ba] the Olive Oil (Marketing Standards) Regulations (Northern Ireland) 1987 *(Extent: N.I.)* *(affected by repeal, see note)*[^key-3f23dd2af0b4e0052f4cf97c275875ba][^f00024] so far as still in force; *(Extent: N.I.)* *(affected by repeal, see note)*[^key-3f23dd2af0b4e0052f4cf97c275875ba]
+- (j (Extent: N.I.) (affected by repeal, see note))[^key-3f23dd2af0b4e0052f4cf97c275875ba] the Olive Oil (Marketing Standards) (Amendment) Regulations (Northern Ireland) 1998 *(Extent: N.I.)* *(affected by repeal, see note)*[^key-3f23dd2af0b4e0052f4cf97c275875ba][^f00025]; and *(Extent: N.I.)* *(affected by repeal, see note)*[^key-3f23dd2af0b4e0052f4cf97c275875ba]
+- (k (Extent: N.I.) (affected by repeal, see note))[^key-3f23dd2af0b4e0052f4cf97c275875ba] the Olive Oil (Marketing Standards) Regulations (Northern Ireland) 2008. *(Extent: N.I.)* *(affected by repeal, see note)*[^key-3f23dd2af0b4e0052f4cf97c275875ba]
+
+George Eustice
+
+Parliamentary Under Secretary of State
+
+Department for Environment, Food and Rural Affairs
+
+30th January 2014
+
+## SCHEDULE — Entry and withdrawal registers
+
+Regulation 5(2)(d)
+
+**1.**[^key-5fb8bee5369f39b9f7c7eef3a93b7157] The following provisions apply in relation to the entry and withdrawal registers required to be kept under Article 7a of Commission Regulation [(EEC) No 2568/91](https://www.legislation.gov.uk/european/regulation/1991/2568) by any person who holds olive oil or olive oil pomace from the extraction at the mill up to the bottling stage (“the holder”).
+
+**2.**[^key-0264c055eb3c15e2d6a7078465f15778] The registers must comprise the following in respect of each category of olive oil or olive oil pomace—
+
+- (a) details of any processing of oil (including blending and bottling) undertaken by the holder and the quantity of oil processed;
+- (b) the calculated stocks of oil held by the holder at the end of each month and details of actual physical stocks held as at the end of the holder’s accounting year;
+- (c) for each delivery of oil to the holder—
+  - (i) the date of the delivery;
+  - (ii) the quantity of oil delivered;
+  - (iii) the name and address of the person from whom the oil was purchased or otherwise acquired; and
+  - (iv) purchase invoices or delivery notes;
+- (d) for each despatch of oil from the holder—
+  - (i) the date of despatch;
+  - (ii) the quantity of oil despatched;
+  - (iii) the name and address of the person to whom the oil was despatched; and
+  - (iv) sales invoices or despatch notes.
+
+**3.**[^key-a55b0e6a70a34f92b741d56c7b14f0ee] Where the holder disposes of any oil, the registers must also contain details of the quantity of oil disposed of and the date of that disposal.
+
+**4.**[^key-8b1ac82c8d03e1f9745b0b8ba1dfea0b] The holder must complete the registers with the information required by paragraphs 2 and 3 within 7 days of each—
+
+- (a) processing, delivery, despatch or disposal of oil; and
+- (b) calculation of stocks and determination of actual physical stocks as referred to in paragraph 2(b).
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations enforce in the United Kingdom Article 78(1)(g) and (2) of and Part VIII of Annex VII to Regulation (EU) No 1308/2013 of the European Parliament and of the Council establishing a common organisation of the markets in agricultural products and repealing Council Regulations [(EEC) No 922/72](https://www.legislation.gov.uk/european/regulation/1972/0922), [(EEC) No 234/79](https://www.legislation.gov.uk/european/regulation/1979/0234), [(EC) No 1037/2001](https://www.legislation.gov.uk/european/regulation/2001/1037) and [(EC) No 1234/2007](https://www.legislation.gov.uk/european/regulation/2007/1234) (OJ No L 347, 20.12.2013, p671), Commission Implementing Regulation (EU) No 29/2012 on marketing standards for olive oil (OJ No L 12, 14.1.2012, p14) and Commission Regulation [(EEC) No 2568/91](https://www.legislation.gov.uk/european/regulation/1991/2568) on the characteristics of olive oil and olive-residue oil and on the relevant methods of analysis (OJ No L 248, 5.9.1991, p1) (“the EU Regulations”).
+
+Part 2 sets out the powers of authorised officers. Regulation 4 provides for the appointment of authorised officers. Regulation 5 empowers an authorised officer to serve a compliance notice on any person who has not complied with or is not likely to comply with the EU Regulations. Regulation 6 confers powers of entry on authorised officers for the purposes of the execution and enforcement of these Regulations and the EU Regulations. Regulation 7 sets out the powers of authorised officers when they enter premises.
+
+Part 3 (regulations 8 to 10) sets out the procedures for appealing against a compliance notice. In relation to regulation 8, rule 22(1)(b) of the Tribunal Procedure (First-tier Tribunal) (General Regulatory Chamber) Rules 2009 ([S.I. 2009/1976](https://www.legislation.gov.uk/uksi/2009/1976)) sets out the time limit for the receipt of notice of appeal by the First-tier Tribunal (within 28 days of the date on which notice of the act or decision to which the proceedings relate was sent to the appellant).
+
+Part 4 sets out offences and penalties. Under regulation 11(2) a person guilty of an offence under these Regulations is liable on summary conviction to a fine not exceeding level 5 on the standard scale. Regulation 12 provides for a due diligence defence, regulation 13 for time limits for proceedings and regulations 14 and 15 for offences by, and proceedings against, businesses.
+
+Part 5 contains miscellaneous provisions. Regulation 16 provides for the payment of costs of counter-assessments. Regulation 17 sets out the enforcement authorities for the purposes of these Regulations. Regulation 19 (which applies in England only) requires the Secretary of State to review the operation and effect of these Regulations and publish a report within 5 years of the date of their coming into force and within every five years after that. Following a review it will fall to the Secretary of State to consider whether the Regulations should, in relation to England, remain as they are or be revoked or amended. A further instrument would be needed to revoke or amend them.
+
+A full impact assessment of the effect that this instrument will have on the costs of business and the voluntary sector is available at www.gov.uk or from the Department for Environment, Food and Rural Affairs, Nobel House, 17 Smith Square, London, SW1P 3JR. It is also annexed to the Explanatory Memorandum for these Regulations which is available alongside these Regulations on www.legislation.gov.uk.
+
+## Annotations
+
+[^f00001]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68). Section 2(2) was amended by section 27(1)(a) of the Legislative and Regulatory Reform Act [2006 (c. 51)](https://www.legislation.gov.uk/ukpga/2006/51) and by section 3(3) of, and Part 1 of the Schedule to, the European Union (Amendment) Act [2008 (c. 7)](https://www.legislation.gov.uk/ukpga/2008/7).
+
+[^f00002]: Footnote: [S.I. 1972/1811](https://www.legislation.gov.uk/uksi/1972/1811). The power of the Secretary of State to make regulations that extend to Scotland and Northern Ireland and apply in Wales remains exercisable by virtue of section 57(1) of the Scotland Act 1998 ([1998 c. 46](https://www.legislation.gov.uk/ukpga/1998/46)), article 3(2) of the European Communities (Designation) (No. 3) Order 2000 ([S.I. 2000/2812](https://www.legislation.gov.uk/uksi/2000/2812)) and article 6 of the European Communities (Designation) (No. 5) Order 2010 ([S.I. 2010/2690](https://www.legislation.gov.uk/uksi/2010/2690)), respectively.
+
+[^f00003]: Footnote: Paragraph 1A of Schedule 2 was inserted by section 28 of the Legislative and Regulatory Reform Act 2006 and was amended by section 3(3) of, and the Schedule to, the European Union (Amendment) Act 2008 and [S.I. 2007/1388](https://www.legislation.gov.uk/uksi/2007/1388).
+
+[^f00004]: Footnote: OJ No L 31, 1.2.2002, p1, as last amended by Regulation [(EC) No 596/2009](https://www.legislation.gov.uk/european/regulation/2009/0596) (OJ No L 188, 18.7.2009, p14).
+
+[^M_E_c19eb026-537d-41bc-9d3a-7d554ac0ba50]: Extent: This version of this provision extends to England and Wales and Scotland only; a separate version has been created for Northern Ireland only
+
+[^key-deb04da0064ee3797f2dd69b02751ff4]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2014/195/regulation/1) in force at 1.3.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/195/regulation/1)
+
+[^M_E_fe1460fa-fdf1-4fb4-9ed1-94b211c5618d]: Extent: This version of this provision extends to Northern Ireland only; a separate version has been created for England and Wales and Scotland only
+
+[^V_NI_f0f98845-6bbc-63c1-9469-8dbfc86971aa]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2014/195/regulation/1) in force at 1.3.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/195/regulation/1)
+
+[^key-21348ed12e1d0d18f6689c67b3e76b8b]: Textual amendment: Words in [reg. 1](https://www.legislation.gov.uk/uksi/2014/195/regulation/1) heading substituted (N.I.) (31.12.2020) by [The Common Organisation of the Markets in Agricultural Products (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2020 (S.I. 2020/1453)](https://www.legislation.gov.uk/uksi/2020/1453), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1453/regulation/1/2/a), [8(2)(a)](https://www.legislation.gov.uk/uksi/2020/1453/regulation/8/2/a)
+
+[^key-fa1507a75c85eeb3a72dcf6940b7bfd9]: Textual amendment: [Reg. 1](https://www.legislation.gov.uk/uksi/2014/195/regulation/1) renumbered as reg. 1(1) (N.I.) (31.12.2020) by The Common Organisation of the Markets in [Agricultural Products (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2020 (S.I. 2020/1453)](https://www.legislation.gov.uk/uksi/2020/1453), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1453/regulation/1/2/a), [8(2)(b)](https://www.legislation.gov.uk/uksi/2020/1453/regulation/8/2/b)
+
+[^key-e714540e43249ac63ed6ec953886c9c3]: Textual amendment: [Reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/195/regulation/1/2) inserted (N.I.) (31.12.2020) by [The Common Organisation of the Markets in Agricultural Products (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2020 (S.I. 2020/1453)](https://www.legislation.gov.uk/uksi/2020/1453), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1453/regulation/1/2/a), [8(2)(c)](https://www.legislation.gov.uk/uksi/2020/1453/regulation/8/2/c)
+
+[^M_E_1cdb0104-a5e8-4982-cace-cd85a749e01f]: Extent: This version of this provision extends to England and Wales and Scotland only; a separate version has been created for Northern Ireland only
+
+[^key-417c764ae2159ef2bbf298958522c204]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2014/195/regulation/2) in force at 1.3.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/195/regulation/1)
+
+[^f00005]: Footnote: [1994 c. 39](https://www.legislation.gov.uk/ukpga/1994/39).
+
+[^f00006]: Footnote: OJ No L 347, 20.12.2013, p671.
+
+[^f00007]: Footnote: OJ No L 248, 5.9.1991, p1, as last amended by Commission Implementing Regulation (EU) No 299/2013 (OJ No L 90, 28.3.2013, p52). Further amendments are made by Commission Implementing Regulation (EU) No 1348/2013 (OJ No L 338, 17.12.2013, p31) with effect from 1.3.2014.
+
+[^f00008]: Footnote: OJ No L 12, 14.1.2012, p14, as last amended by Commission Regulation (EU) No 519/2013 (OJ No L 158, 10.6.2013, p74). Further amendments are made by Commission Implementing Regulation (EU) No 1335/2013 (OJ No L 335, 14.12.2013, p14) with effect from 13.12.2014.
+
+[^key-b149ade2dd30c704cb35902da81abd7f]: Textual amendment: Word in [reg. 2(2)](https://www.legislation.gov.uk/uksi/2014/195/regulation/2/2) substituted (E.W.S.) (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 31(a)(i)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/31/a/i)
+
+[^key-2eb9c17f9eba9e42ef0c2f4531d16400]: Textual amendment: Words in [reg. 2(3)](https://www.legislation.gov.uk/uksi/2014/195/regulation/2/3) substituted (31.12.2020) by [The Common Organisation of the Markets in Agricultural Products and Common Agricultural Policy (Miscellaneous Amendments etc.) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/1422)](https://www.legislation.gov.uk/uksi/2019/1422), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1422/regulation/1), [18(2)](https://www.legislation.gov.uk/uksi/2019/1422/regulation/18/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-74d17667cfa9d908fa64631bfd652754]: Textual amendment: Word in [reg. 2(3)](https://www.legislation.gov.uk/uksi/2014/195/regulation/2/3) substituted (E.W.S.) (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 31(a)(ii)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/31/a/ii)
+
+[^M_E_dfa8bc89-64a7-488f-c9d8-4296e2e6432c]: Extent: This version of this provision extends to Northern Ireland only; a separate version has been created for England and Wales and Scotland only
+
+[^V_NI_444f9178-9391-7c1d-f9bc-bafc56d96519]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2014/195/regulation/2) in force at 1.3.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/195/regulation/1)
+
+[^key-01891a53cf190c8b0b3409940dfe50b3]: Textual amendment: [Reg. 2(1)](https://www.legislation.gov.uk/uksi/2014/195/regulation/2/1) substituted (N.I.) (31.12.2020) by [The Common Organisation of the Markets in Agricultural Products (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2020 (S.I. 2020/1453)](https://www.legislation.gov.uk/uksi/2020/1453), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1453/regulation/1/2/a), [8(3)(a)](https://www.legislation.gov.uk/uksi/2020/1453/regulation/8/3/a)
+
+[^key-39cd206fe42c90480137d4569a13c652]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/2014/195/regulation/2/2) substituted (N.I.) (31.12.2020) by [The Common Organisation of the Markets in Agricultural Products (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2020 (S.I. 2020/1453)](https://www.legislation.gov.uk/uksi/2020/1453), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1453/regulation/1/2/a), [8(3)(b)](https://www.legislation.gov.uk/uksi/2020/1453/regulation/8/3/b)
+
+[^key-5dbb53c49e1ed7cd5d454158fbf4ee31]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2014/195/regulation/3) in force at 1.3.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/195/regulation/1)
+
+[^f00009]: Footnote: [1978 c. 30](https://www.legislation.gov.uk/ukpga/1978/30).
+
+[^M_E_9dc249e5-218e-4bf4-83ae-0cd7cd3dddfd]: Extent: This version of this provision extends to England and Wales and Scotland only; a separate version has been created for Northern Ireland only
+
+[^key-ce16b6fd3abca6643c486beeaad85bee]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2014/195/regulation/4) in force at 1.3.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/195/regulation/1)
+
+[^key-f4811e3b7dceb100eb3b49a63fe0fb8d]: Textual amendment: Word in [reg. 4](https://www.legislation.gov.uk/uksi/2014/195/regulation/4) substituted (E.W.S.) (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 31(b)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/31/b)
+
+[^M_E_2e22f651-ef44-4d23-8a57-d019108a2c7c]: Extent: This version of this provision extends to Northern Ireland only; a separate version has been created for England and Wales and Scotland only
+
+[^V_NI_e5e1a422-113d-03c4-64b8-bb10b8ba78a9]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2014/195/regulation/4) in force at 1.3.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/195/regulation/1)
+
+[^key-7d95ea6e7781dee54cf2cd6f97a24693]: Textual amendment: Word in [reg. 4](https://www.legislation.gov.uk/uksi/2014/195/regulation/4) substituted (N.I.) (31.12.2020) by [The Common Organisation of the Markets in Agricultural Products (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2020 (S.I. 2020/1453)](https://www.legislation.gov.uk/uksi/2020/1453), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1453/regulation/1/2/a), [8(4)](https://www.legislation.gov.uk/uksi/2020/1453/regulation/8/4)
+
+[^key-d1f120a63587a95d2a95be61ad26f1ee]: Commencement: [Reg. 5(1)](https://www.legislation.gov.uk/uksi/2014/195/regulation/5/1)[(2)(a)](https://www.legislation.gov.uk/uksi/2014/195/regulation/5/2/a)[(b)](https://www.legislation.gov.uk/uksi/2014/195/regulation/5/2/b)[(d)](https://www.legislation.gov.uk/uksi/2014/195/regulation/5/2/d)[(3)](https://www.legislation.gov.uk/uksi/2014/195/regulation/5/3)[(4)](https://www.legislation.gov.uk/uksi/2014/195/regulation/5/4) in force at 1.3.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/195/regulation/1)
+
+[^key-304bc7b343f5a560beb4cd5c9aaf3362]: Commencement: [Reg. 5(2)(c)](https://www.legislation.gov.uk/uksi/2014/195/regulation/5/2/c) in force at 13.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/195/regulation/1)
+
+[^M_E_a4e6a90d-baae-4772-a4f3-dc5e1d208f84]: Extent: This version of this provision extends to England and Wales and Scotland only; a separate version has been created for Northern Ireland only
+
+[^key-889289be9d1767a5e0ca842518d12c2e]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2014/195/regulation/6) in force at 1.3.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/195/regulation/1)
+
+[^key-73a3ab2add12fee1416ef690325c2502]: Textual amendment: Word in [reg. 6(1)](https://www.legislation.gov.uk/uksi/2014/195/regulation/6/1) substituted (E.W.S.) (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 31(c)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/31/c)
+
+[^key-5332761afa70cc7d0d846ef3027067d0]: Textual amendment: Words in [reg. 6(1)(a)](https://www.legislation.gov.uk/uksi/2014/195/regulation/6/1/a) substituted (31.12.2020) by [The Common Organisation of the Markets in Agricultural Products and Common Agricultural Policy (Miscellaneous Amendments etc.) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/1422)](https://www.legislation.gov.uk/uksi/2019/1422), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1422/regulation/1), [18(3)](https://www.legislation.gov.uk/uksi/2019/1422/regulation/18/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-d52e9d921fae8fedd52ddea28636db9b]: Textual amendment: Word in [reg. 6(3)(c)](https://www.legislation.gov.uk/uksi/2014/195/regulation/6/3/c) substituted (E.W.S.) (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 31(c)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/31/c)
+
+[^key-54e8a6b63b51dfd53712e8a0fa0f8eb1]: Textual amendment: Word in [reg. 6(5)(a)](https://www.legislation.gov.uk/uksi/2014/195/regulation/6/5/a) substituted (E.W.S.) (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 31(c)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/31/c)
+
+[^key-9024a5eec74cc9c385aac91c66631b14]: Textual amendment: [Reg. 6(9)(a)(ii)](https://www.legislation.gov.uk/uksi/2014/195/regulation/6/9/a/ii) omitted (E.W.S.) (31.12.2020) by virtue of [The Market Measures (Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/824)](https://www.legislation.gov.uk/uksi/2019/824), [regs. 1](https://www.legislation.gov.uk/uksi/2019/824/regulation/1), [8(8)](https://www.legislation.gov.uk/uksi/2019/824/regulation/8/8) (as amended by [S.I. 2020/1453](https://www.legislation.gov.uk/uksi/2020/1453), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1453/regulation/1/2/b), [11(2)(c)](https://www.legislation.gov.uk/uksi/2020/1453/regulation/11/2/c)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^M_E_898ebf1e-2447-4e4d-e45b-90e327b9d25f]: Extent: This version of this provision extends to Northern Ireland only; a separate version has been created for England and Wales and Scotland only
+
+[^V_NI_e5469a49-d0a6-1c0b-41ed-a5c441a01f1d]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2014/195/regulation/6) in force at 1.3.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/195/regulation/1)
+
+[^key-4fad8cad3d41d087e099d38e673ec76c]: Textual amendment: Words in [reg. 6(5)](https://www.legislation.gov.uk/uksi/2014/195/regulation/6/5) substituted (N.I.) (31.12.2020) by [The Common Organisation of the Markets in Agricultural Products (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2020 (S.I. 2020/1453)](https://www.legislation.gov.uk/uksi/2020/1453), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1453/regulation/1/2/a), [8(5)(a)(i)](https://www.legislation.gov.uk/uksi/2020/1453/regulation/8/5/a/i)
+
+[^key-6e725d2af9387d420c0e9582236c8ee3]: Textual amendment: Words in [reg. 6(5)](https://www.legislation.gov.uk/uksi/2014/195/regulation/6/5) substituted (N.I.) (31.12.2020) by [The Common Organisation of the Markets in Agricultural Products (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2020 (S.I. 2020/1453)](https://www.legislation.gov.uk/uksi/2020/1453), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1453/regulation/1/2/a), [8(5)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1453/regulation/8/5/a/ii)
+
+[^key-1f142a209f8cd4918f30954340eb58b0]: Textual amendment: [Reg. 6(9)(a)](https://www.legislation.gov.uk/uksi/2014/195/regulation/6/9/a) substituted (N.I.) (31.12.2020) by [The Common Organisation of the Markets in Agricultural Products (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2020 (S.I. 2020/1453)](https://www.legislation.gov.uk/uksi/2020/1453), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1453/regulation/1/2/a), [8(5)(b)](https://www.legislation.gov.uk/uksi/2020/1453/regulation/8/5/b)
+
+[^key-e6350584734b3f420a9eca9edf25608d]: Textual amendment: [Reg. 6(10)](https://www.legislation.gov.uk/uksi/2014/195/regulation/6/10) omitted (N.I.) (31.12.2020) by virtue of [The Common Organisation of the Markets in Agricultural Products (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2020 (S.I. 2020/1453)](https://www.legislation.gov.uk/uksi/2020/1453), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1453/regulation/1/2/a), [8(5)(c)](https://www.legislation.gov.uk/uksi/2020/1453/regulation/8/5/c)
+
+[^key-a2c8f82991ac959669a536fcfae5b6cf]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2014/195/regulation/7) in force at 1.3.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/195/regulation/1)
+
+[^key-73e809c82992f11273cd3fd759785ace]: Textual amendment: Word in [reg. 7(2)](https://www.legislation.gov.uk/uksi/2014/195/regulation/7/2) inserted (E.W.S.) (31.12.2020) by [The Market Measures (Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/824)](https://www.legislation.gov.uk/uksi/2019/824), [regs. 1](https://www.legislation.gov.uk/uksi/2019/824/regulation/1), [8(9)](https://www.legislation.gov.uk/uksi/2019/824/regulation/8/9) (as amended by [S.I. 2020/1453](https://www.legislation.gov.uk/uksi/2020/1453), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1453/regulation/1/2/b), [11(2)(c)](https://www.legislation.gov.uk/uksi/2020/1453/regulation/11/2/c)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-e7ebf471653cd1328664473feac091bd]: Textual amendment: Word in [reg. 7(2)](https://www.legislation.gov.uk/uksi/2014/195/regulation/7/2) substituted (E.W.S.) (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 31(d)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/31/d)
+
+[^key-1b93d4fa4df90fd4f30c95e5e3416ced]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2014/195/regulation/8) in force at 1.3.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/195/regulation/1)
+
+[^key-59851e384dccaab29056eee3c46662f9]: Textual amendment: [Reg. 8](https://www.legislation.gov.uk/uksi/2014/195/regulation/8) omitted (N.I.) (31.12.2020) by virtue of [The Common Organisation of the Markets in Agricultural Products (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2020 (S.I. 2020/1453)](https://www.legislation.gov.uk/uksi/2020/1453), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1453/regulation/1/2/a), [8(6)](https://www.legislation.gov.uk/uksi/2020/1453/regulation/8/6)
+
+[^key-8f9c245198cd64ce3ba47e545fe9fc92]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2014/195/regulation/9) in force at 1.3.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/195/regulation/1)
+
+[^key-097773a2f494b866e557759b3a66b0ad]: Textual amendment: [Reg. 9](https://www.legislation.gov.uk/uksi/2014/195/regulation/9) omitted (N.I.) (31.12.2020) by virtue of [The Common Organisation of the Markets in Agricultural Products (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2020 (S.I. 2020/1453)](https://www.legislation.gov.uk/uksi/2020/1453), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1453/regulation/1/2/a), [8(6)](https://www.legislation.gov.uk/uksi/2020/1453/regulation/8/6)
+
+[^key-e16c4571e3042618a8778a83803c48e4]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2014/195/regulation/10) in force at 1.3.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/195/regulation/1)
+
+[^key-82765ae44bcbc357997409b1c4605b45]: Textual amendment: Words in [reg. 10](https://www.legislation.gov.uk/uksi/2014/195/regulation/10) heading omitted (N.I.) (31.12.2020) by virtue of [The Common Organisation of the Markets in Agricultural Products (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2020 (S.I. 2020/1453)](https://www.legislation.gov.uk/uksi/2020/1453), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1453/regulation/1/2/a), [8(7)(a)](https://www.legislation.gov.uk/uksi/2020/1453/regulation/8/7/a)
+
+[^key-4fb095734c6b007300db93874449e6fe]: Textual amendment: [Reg. 10(1)](https://www.legislation.gov.uk/uksi/2014/195/regulation/10/1) omitted (N.I.) (31.12.2020) by virtue of [The Common Organisation of the Markets in Agricultural Products (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2020 (S.I. 2020/1453)](https://www.legislation.gov.uk/uksi/2020/1453), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1453/regulation/1/2/a), [8(7)(b)](https://www.legislation.gov.uk/uksi/2020/1453/regulation/8/7/b)
+
+[^f00010]: Footnote: [S.I. 1981/1675 (N.I. 26)](https://www.legislation.gov.uk/nisi/1981/1675).
+
+[^key-a1de95742bec9fa01be5ddebdce5da43]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2014/195/regulation/11) in force at 1.3.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/195/regulation/1)
+
+[^key-e108125ef5f5a2d5853555958a79f934]: Textual amendment: Word in [reg. 11(1)(c)](https://www.legislation.gov.uk/uksi/2014/195/regulation/11/1/c) inserted (E.W.S.) (31.12.2020) by [The Market Measures (Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/824)](https://www.legislation.gov.uk/uksi/2019/824), [regs. 1](https://www.legislation.gov.uk/uksi/2019/824/regulation/1), [8(10)](https://www.legislation.gov.uk/uksi/2019/824/regulation/8/10) (as amended by [S.I. 2020/1453](https://www.legislation.gov.uk/uksi/2020/1453), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1453/regulation/1/2/b), [11(2)(c)](https://www.legislation.gov.uk/uksi/2020/1453/regulation/11/2/c)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-88a621d49873c41b8a2a553bf82f4602]: Textual amendment: Word in [reg. 11(1)(c)](https://www.legislation.gov.uk/uksi/2014/195/regulation/11/1/c) substituted (E.W.S.) (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 31(e)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/31/e)
+
+[^key-44578023d4ee8d5ef956ab1052edf163]: Textual amendment: Word in [reg. 11(1)(e)(i)](https://www.legislation.gov.uk/uksi/2014/195/regulation/11/1/e/i) omitted (31.12.2020) by virtue of [The Common Organisation of the Markets in Agricultural Products and Common Agricultural Policy (Miscellaneous Amendments etc.) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/1422)](https://www.legislation.gov.uk/uksi/2019/1422), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1422/regulation/1), [18(4)(a)](https://www.legislation.gov.uk/uksi/2019/1422/regulation/18/4/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-4913adb56498989c4548d00346a82173]: Textual amendment: [Reg. 11(1)(e)(ii)](https://www.legislation.gov.uk/uksi/2014/195/regulation/11/1/e/ii) omitted (31.12.2020) by virtue of [The Common Organisation of the Markets in Agricultural Products and Common Agricultural Policy (Miscellaneous Amendments etc.) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/1422)](https://www.legislation.gov.uk/uksi/2019/1422), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1422/regulation/1), [18(4)(b)](https://www.legislation.gov.uk/uksi/2019/1422/regulation/18/4/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-922aa60d02d65ea876440d2bb99ec683]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2014/195/regulation/12) in force at 1.3.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/195/regulation/1)
+
+[^key-6a28826e78690d3dfc2da9c2c1914fbe]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2014/195/regulation/13) in force at 1.3.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/195/regulation/1)
+
+[^key-0bc5fca6b5f39be1f6983656b1ed97a5]: Textual amendment: [Reg. 13(4)](https://www.legislation.gov.uk/uksi/2014/195/regulation/13/4) omitted (N.I.) (31.12.2020) by virtue of [The Common Organisation of the Markets in Agricultural Products (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2020 (S.I. 2020/1453)](https://www.legislation.gov.uk/uksi/2020/1453), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1453/regulation/1/2/a), [8(8)](https://www.legislation.gov.uk/uksi/2020/1453/regulation/8/8)
+
+[^f00011]: Footnote: [1995 c. 46](https://www.legislation.gov.uk/ukpga/1995/46).
+
+[^key-9190e79a639533d154c6c85479222ec4]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2014/195/regulation/14) in force at 1.3.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/195/regulation/1)
+
+[^key-fc6849824daa2b9af23dfe1d304082ef]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2014/195/regulation/15) in force at 1.3.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/195/regulation/1)
+
+[^key-c3d318ee966b3d08726fa424e8a23ce4]: Textual amendment: Word in [reg. 15(2)(a)](https://www.legislation.gov.uk/uksi/2014/195/regulation/15/2/a) inserted (N.I.) (31.12.2020) by [The Common Organisation of the Markets in Agricultural Products (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2020 (S.I. 2020/1453)](https://www.legislation.gov.uk/uksi/2020/1453), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1453/regulation/1/2/a), [8(9)(a)](https://www.legislation.gov.uk/uksi/2020/1453/regulation/8/9/a)
+
+[^key-0be9a63962d72a978509c0165abce031]: Textual amendment: [Reg. 15(2)(b)](https://www.legislation.gov.uk/uksi/2014/195/regulation/15/2/b) omitted (N.I.) (31.12.2020) by virtue of [The Common Organisation of the Markets in Agricultural Products (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2020 (S.I. 2020/1453)](https://www.legislation.gov.uk/uksi/2020/1453), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1453/regulation/1/2/a), [8(9)(b)](https://www.legislation.gov.uk/uksi/2020/1453/regulation/8/9/b)
+
+[^f00012]: Footnote: [1925 c. 86](https://www.legislation.gov.uk/ukpga/1925/86). Subsections (1), (2) and (5) of section 33 were repealed by section 132 of, and Schedule 6 to, the Magistrates’ Courts Act [1952 (c. 55)](https://www.legislation.gov.uk/ukpga/1952/55). Subsection (3) was amended by section 56(1) of, and Part 2 of Schedule 8 to, the Courts Act [1971 (c. 23)](https://www.legislation.gov.uk/ukpga/1971/23). Subsection (4) was partially repealed by section 109(1) and (3) of, and Schedules 8 and 10 to, the Courts Act [2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39).
+
+[^f00013]: Footnote: [1980 c. 43](https://www.legislation.gov.uk/ukpga/1980/43). Paragraph 2(a) was amended by section 47 of, and Schedule 1 to, the Criminal Procedure and Investigations Act [1996 (c. 25)](https://www.legislation.gov.uk/ukpga/1996/25) and repealed for certain purposes by sections 41 and 332 of, and Schedule 3 and 37 to, the Criminal Justice Act [2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44). Paragraph 5 was repealed by sections 25(2) and 101(2) of, and Schedule 13 to, the Criminal Justice Act [1991 (c. 53)](https://www.legislation.gov.uk/ukpga/1991/53). Paragraph 6 was amended for certain purposes by section 41 of, and Part 2 of Schedule 3 to, the Criminal Justice Act 2003.
+
+[^key-c25b595a2c81d2ba1af6cf8420ea96fe]: Textual amendment: [Reg. 15(2)(c)](https://www.legislation.gov.uk/uksi/2014/195/regulation/15/2/c) omitted (N.I.) (31.12.2020) by virtue of [The Common Organisation of the Markets in Agricultural Products (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2020 (S.I. 2020/1453)](https://www.legislation.gov.uk/uksi/2020/1453), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1453/regulation/1/2/a), [8(9)(b)](https://www.legislation.gov.uk/uksi/2020/1453/regulation/8/9/b)
+
+[^f00014]: Footnote: [1945 c. 15](https://www.legislation.gov.uk/ukpga/1945/15).
+
+[^key-00757cecdc20730dee52659e7d1814e1]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2014/195/regulation/16) in force at 1.3.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/195/regulation/1)
+
+[^M_E_e59bf042-5f6c-4be6-e194-85b3e2b8bce2]: Extent: This version of this provision extends to England and Wales and Scotland only; a separate version has been created for Northern Ireland only
+
+[^V_NI_f418b5d1-6583-d4b8-e03d-66c75ead3c49]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2014/195/regulation/16) in force at 1.3.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/195/regulation/1)
+
+[^M_E_d39e79f3-a383-4567-dc53-5b25e7f6caab]: Extent: This version of this provision extends to Northern Ireland only; a separate version has been created for England and Wales and Scotland only
+
+[^key-579e5bff9260ae1b19d9af2c67d4c497]: Textual amendment: Word in [reg. 16](https://www.legislation.gov.uk/uksi/2014/195/regulation/16) substituted (N.I.) (31.12.2020) by [The Common Organisation of the Markets in Agricultural Products (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2020 (S.I. 2020/1453)](https://www.legislation.gov.uk/uksi/2020/1453), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1453/regulation/1/2/a), [8(10)](https://www.legislation.gov.uk/uksi/2020/1453/regulation/8/10)
+
+[^M_E_bba597a7-6f52-47d9-bd54-ac6514b52857]: Extent: This version of this provision extends to England and Wales and Scotland only; a separate version has been created for Northern Ireland only
+
+[^key-c1910541fecd0cd2f4bcf76bc7271a63]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2014/195/regulation/17) in force at 1.3.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/195/regulation/1)
+
+[^M_E_09685d68-825c-4a7e-d640-bc2f2233a797]: Extent: This version of this provision extends to Northern Ireland only; a separate version has been created for England and Wales and Scotland only
+
+[^V_NI_2af365bc-095f-4eb3-54b5-541b7781291e]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2014/195/regulation/17) in force at 1.3.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/195/regulation/1)
+
+[^key-4debefcc540ceedbf72fd93f27a3c97e]: Textual amendment: [Reg. 17](https://www.legislation.gov.uk/uksi/2014/195/regulation/17) substituted (N.I.) (31.12.2020) by [The Common Organisation of the Markets in Agricultural Products (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2020 (S.I. 2020/1453)](https://www.legislation.gov.uk/uksi/2020/1453), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1453/regulation/1/2/a), [8(11)](https://www.legislation.gov.uk/uksi/2020/1453/regulation/8/11)
+
+[^key-370dd63d3eefb8ba4692730d5a9a3c0c]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2014/195/regulation/18) in force at 1.3.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/195/regulation/1)
+
+[^key-3f23dd2af0b4e0052f4cf97c275875ba]: Textual amendment: [Regs. 18-20](https://www.legislation.gov.uk/uksi/2014/195/regulation/18) omitted (N.I.) (31.12.2020) by virtue of [The Common Organisation of the Markets in Agricultural Products (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2020 (S.I. 2020/1453)](https://www.legislation.gov.uk/uksi/2020/1453), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1453/regulation/1/2/a), [8(12)](https://www.legislation.gov.uk/uksi/2020/1453/regulation/8/12)
+
+[^f00015]: Footnote: [S.I. 2003/2577](https://www.legislation.gov.uk/uksi/2003/2577) as amended by [S.I 2004/2661](https://www.legislation.gov.uk/uksi/2004/2661) and [2006/3367](https://www.legislation.gov.uk/uksi/2006/3367).
+
+[^f00016]: Footnote: [S.R. (NI) 2008 No 189](https://www.legislation.gov.uk/nisr/2008/189).
+
+[^key-3f3053519d0f7f20ef08d2e798284762]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2014/195/regulation/19) in force at 1.3.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/195/regulation/1)
+
+[^key-21df6c45dfb25eb0aef3a94f314849e5]: Textual amendment: [Reg. 19(3)](https://www.legislation.gov.uk/uksi/2014/195/regulation/19/3) omitted (E.W.S.) (31.12.2020) by virtue of [The Market Measures (Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/824)](https://www.legislation.gov.uk/uksi/2019/824), [regs. 1](https://www.legislation.gov.uk/uksi/2019/824/regulation/1), [8(11)](https://www.legislation.gov.uk/uksi/2019/824/regulation/8/11) (as amended by [S.I. 2020/1453](https://www.legislation.gov.uk/uksi/2020/1453), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1453/regulation/1/2/b), [11(2)(c)](https://www.legislation.gov.uk/uksi/2020/1453/regulation/11/2/c)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-c2d25760c03551207bc1c897d2cd5467]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2014/195/regulation/20) in force at 1.3.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/195/regulation/1)
+
+[^f00017]: Footnote: [S.I. 1987/1783](https://www.legislation.gov.uk/uksi/1987/1783) as amended by [S.I. 1992/2590](https://www.legislation.gov.uk/uksi/1992/2590), [1998/2410](https://www.legislation.gov.uk/uksi/1998/2410) and [2002/2761](https://www.legislation.gov.uk/uksi/2002/2761).
+
+[^f00018]: Footnote: [S.I. 1992/2590](https://www.legislation.gov.uk/uksi/1992/2590).
+
+[^f00019]: Footnote: [S.I. 1998/2410](https://www.legislation.gov.uk/uksi/1998/2410).
+
+[^f00020]: Footnote: [S.I. 1999/1513](https://www.legislation.gov.uk/uksi/1999/1513).
+
+[^f00021]: Footnote: [S.I. 2002/2761](https://www.legislation.gov.uk/uksi/2002/2761).
+
+[^f00022]: Footnote: [S.I. 2004/2661](https://www.legislation.gov.uk/uksi/2004/2661).
+
+[^f00023]: Footnote: [S.I. 2006/3367](https://www.legislation.gov.uk/uksi/2006/3367).
+
+[^f00024]: Footnote: [S.R. (NI) 1987 No 431](https://www.legislation.gov.uk/nisr/1987/431) as amended by [S.R. (NI) 1993 No 9](https://www.legislation.gov.uk/nisr/1993/9) and [S.R. (NI) 1998 No. 383](https://www.legislation.gov.uk/nisr/1998/383).
+
+[^f00025]: Footnote: [S.R. (NI) 1998 No 383](https://www.legislation.gov.uk/nisr/1998/383) as amended by [S.R. (NI) 2008 No 189](https://www.legislation.gov.uk/nisr/2008/189).
+
+[^key-5fb8bee5369f39b9f7c7eef3a93b7157]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/uksi/2014/195/schedule/paragraph/1) in force at 1.3.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/195/regulation/1)
+
+[^key-0264c055eb3c15e2d6a7078465f15778]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/uksi/2014/195/schedule/paragraph/2) in force at 1.3.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/195/regulation/1)
+
+[^key-a55b0e6a70a34f92b741d56c7b14f0ee]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/uksi/2014/195/schedule/paragraph/3) in force at 1.3.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/195/regulation/1)
+
+[^key-8b1ac82c8d03e1f9745b0b8ba1dfea0b]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/uksi/2014/195/schedule/paragraph/4) in force at 1.3.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/195/regulation/1)

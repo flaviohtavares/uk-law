@@ -1,0 +1,60 @@
+---
+title: Pensions Act 1995, section 41A
+act: Pensions Act 1995
+section: 41A
+status: revised-with-pending-changes
+text_date: '2026-07-31'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/1995/26/section/41A
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Pensions Act 1995, section 41A
+
+> **Warning: changes not yet applied to this text (65).** Text as at 2026-07-31. See https://www.legislation.gov.uk/changes/affected/ukpga/1995/26
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 41A. Climate change risk[^key-f58f0f35a8b9ca295a1b26f3043806ad]
+
+*Extent: E+W+S+N.I.*
+
+(1) Regulations may impose requirements on the trustees or managers of an occupational pension scheme of a prescribed description with a view to securing that there is effective governance of the scheme with respect to the effects of climate change.
+
+(2) The effects of climate change in relation to which provision may be made under subsection (1) include, in particular—
+
+- (a) risks arising from steps taken because of climate change (whether by governments or otherwise), and
+- (b) opportunities relating to climate change.
+
+(3) The requirements which may be imposed by the regulations include, in particular, requirements about—
+
+- (a) reviewing the exposure of the scheme to risks of a prescribed description;
+- (b) assessing the assets of the scheme in a prescribed manner;
+- (c) determining, reviewing and (if necessary) revising a strategy for managing the scheme's exposure to risks of a prescribed description;
+- (d) determining, reviewing and (if necessary) revising targets relating to the scheme's exposure to risks of a prescribed description;
+- (e) measuring performance against such targets;
+- (f) preparing documents containing information of a prescribed description.
+
+(4) Regulations under subsection (3)(b) may, in particular, require—
+
+- (a) that assets are assessed by reference to their exposure to risks of a prescribed description, and
+- (b) that an assessment includes determining the contribution of the assets of the scheme to climate change.
+
+(5) The regulations may require the trustees or managers of the scheme to take into account—
+
+- (a) different ways in which the climate might change, and
+- (b) different steps that might be taken because of climate change.
+
+(6) Regulations under subsection (5) may require the trustees or managers of the scheme to adopt prescribed assumptions as to future events, including assumptions about—
+
+- (a) the steps that might be taken for the purpose of achieving the Paris Agreement goal or other climate change goal, or
+- (b) the achievement of the Paris Agreement goal or other climate change goal.
+
+(7) In complying with requirements imposed by the regulations, a trustee or manager must have regard to guidance prepared from time to time by the Secretary of State.
+
+(8) In this section “**the Paris Agreement goal**” means the goal of holding the increase in the average global temperature to well below 2°C above pre-industrial levels referred to in Article 2(1)(a) of the agreement done at Paris on 12 December 2015.
+
+## Annotations
+
+[^key-f58f0f35a8b9ca295a1b26f3043806ad]: Textual amendment: [Ss. 41A-41C](https://www.legislation.gov.uk/ukpga/1995/26/section/41A) inserted (31.5.2021) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [ss. 124(2)](https://www.legislation.gov.uk/ukpga/2021/1/section/124/2), [131(1)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/1); [S.I. 2021/620](https://www.legislation.gov.uk/uksi/2021/620), [reg. 2(2)(b)](https://www.legislation.gov.uk/uksi/2021/620/regulation/2/2/b)

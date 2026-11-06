@@ -1,0 +1,39 @@
+---
+title: Merchant Shipping Act 1995, section 7
+act: Merchant Shipping Act 1995
+section: '7'
+status: revised-with-pending-changes
+text_date: '2026-06-23'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/1995/21/section/7
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Merchant Shipping Act 1995, section 7
+
+> **Warning: changes not yet applied to this text (17).** Text as at 2026-06-23. See https://www.legislation.gov.uk/changes/affected/ukpga/1995/21
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 7. Proceedings on forfeiture of a ship.
+
+*Extent: E+W+S+N.I.*
+
+(1) Where any ship has either wholly or as to any share in it become liable to forfeiture under this Part—
+
+- (a) any commissioned naval or military officer, or
+- (b) any person appointed by the Secretary of State for the purposes of this section;
+
+may seize and detain the ship and bring the ship for adjudication before the court.
+
+(2) Where a ship is subject to adjudication under this section the court may—
+
+- (a) adjudge the ship and her equipment to be forfeited to Her Majesty; and
+- (b) make such order in the case as seems just.
+
+(3) No officer or person bringing proceedings under this section shall be liable in damages in respect of the seizure or detention of the ship, notwithstanding that the ship has not been proceeded against or, if proceeded against, adjudicated not liable to forfeiture, if the court is satisfied that there were reasonable grounds for the seizure or detention.
+
+(4) If the court is not so satisfied the court may award costs (or in Scotland expenses) and damages to the party aggrieved and make such other order as the court thinks just.
+
+(5) In this section “**the court**” means the High Court or, in Scotland, the Court of Session.

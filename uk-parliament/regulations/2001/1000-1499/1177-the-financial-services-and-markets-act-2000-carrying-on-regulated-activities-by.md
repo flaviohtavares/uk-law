@@ -1,0 +1,357 @@
+---
+title: The Financial Services and Markets Act 2000 (Carrying on Regulated Activities by Way of Business) Order 2001
+id: uksi/2001/1177
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2001-03-26'
+text_date: '2026-02-25'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2001/1177
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2001/1177/pdfs/uksi_20011177_en.pdf
+- http://www.legislation.gov.uk/uksi/2001/1177/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Financial Services and Markets Act 2000 (Carrying on Regulated Activities by Way of Business) Order 2001
+
+> Text as at 2026-02-25.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2001 No. 1177
+
+FINANCIAL SERVICES AND MARKETS
+
+The Financial Services and Markets Act 2000 (Carrying on Regulated Activities by Way of Business) Order 2001
+
+Made
+
+26th March 2001
+
+Coming into force in accordance with article 1
+
+Whereas a draft of this Order has been approved by a resolution of each House of Parliament pursuant to section 429(1) of the Financial Services and Markets Act 2000[^f00001];
+
+Now, therefore, the Treasury, in exercise of the powers conferred on them by sections 419 and 428(3) of that Act, hereby make the following Order:
+
+## 1. Citation, commencement and interpretation[^key-3468027714077e678f34091f924e751e]
+
+(1) This Order may be cited as the Financial Services and Markets Act 2000 (Carrying on Regulated Activities by Way of Business) Order 2001, and comes into force on the day on which section 19 of the Financial Services and Markets Act 2000 comes into force.
+
+(2) In this Order—
+
+- (a) the “Regulated Activities Order” means the Financial Services and Markets Act 2000 (Regulated Activities) Order 2001[^f00002];
+- (b) “contract of insurance”,[^key-f232b8dd26c38bb5a2b610ec91751f02] “contractually based investment”, “deposit”, “overseas person” and “security” have the same meaning as in that Order;
+- (c) “shares” and “debentures” mean any investment of the kind specified by article 76 , 77 or 77A[^key-3cc8c1bc7a05349ad80bce5d5bbd00d2] of that Order;
+- (d) “units in a collective investment scheme” means any investment of the kind specified by article 81 of that Order;
+- (e) “warrants” means any investment of the kind specified by article 79 of that Order.
+
+## 2. Deposit taking business[^key-8a0de05160b91c67afec7cf130a72bf7]
+
+(1) A person who carries on an activity of the kind specified by article 5 of the Regulated Activities Order (accepting deposits) is not to be regarded as doing so by way of business if—
+
+- (a) he does not hold himself out as accepting deposits on a day to day basis; and
+- (b) any deposits which he accepts are accepted only on particular occasions, whether or not involving the issue of any securities.
+
+(2) In determining for the purposes of paragraph (1)(b) whether deposits are accepted only on particular occasions, regard is to be had to the frequency of those occasions and to any characteristics distinguishing them from each other.
+
+(3)[^key-e0e23dd1c5321aece8acaa140bd42a20] A person (“B”) who carries on an activity of the kind specified by article 5(1)(b) of the Regulated Activities Order (accepting deposits) is not to be regarded as doing so by way of business if—
+
+- (a) the activity is facilitated by a person (“A”);
+- (b) in facilitating the activity, A was operating an electronic system in relation to lending;
+- (c) B is not a credit institution or an authorised person;
+- (d) B is not carrying on the business of accepting deposits;
+- (e) B does not hold themselves out as accepting deposits on a day to day basis, other than where the holding-out is facilitated by persons engaged in operating an electronic system in relation to lending.
+
+(4) For the purposes of paragraph (3)(d), if B uses the capital of, or interest on, money received by way of deposit solely to finance other business activity carried on by B, this is to be regarded as evidence indicating that B is not carrying on the business of accepting deposits.
+
+(5) In this article—
+
+- “article 36H agreement” has the meaning given in article 36H(4) of the Regulated Activities Order;
+- “assignment”, in relation to Scotland, means assignation;
+- “borrower” means—
+  - (a) a person who receives credit under an agreement that is not an article 36H agreement only because it does not satisfy the conditions in article 36H(5) and (6) of the Regulated Activities Order; or
+  - (b) a person to whom the rights and duties of a borrower under such an agreement have passed by assignment or operation of law;
+- “credit institution” means an undertaking the business of which is to take deposits or other repayable funds from the public and to grant credits for its own account;
+- “lender” means—
+  - (a) a person providing credit under an agreement that is not an article 36H agreement only because it does not satisfy the conditions in article 36H(5) and (6) of the Regulated Activities Order; or
+  - (b) a person who by assignment or operation of law has assumed the rights and duties of a lender under such an agreement;
+- “operating an electronic system in relation to lending” means carrying on an activity—
+  - (a) of the kind specified by article 36H of the Regulated Activities Order (operating an electronic system in relation to lending), or
+  - (b) that would be of the kind specified by article 36H but for the fact that the activity does not concern facilitating an article 36H agreement, but concerns facilitating persons becoming the lender and borrower under an agreement that is not an article 36H agreement only because it does not satisfy the conditions in article 36H(5) and (6) of the Regulated Activities Order;
+
+## 3. Investment business[^key-cd8ebfa559c528392a5314b8429f5807]
+
+(1) A person is not to be regarded as carrying on by way of business an activity to which paragraph (2) applies[^key-9796edf7a757ea10d7c8d2d4dd082f02], unless he carries on the business of engaging in one or more such activities.
+
+(2) This paragraph[^key-055bef515298ed5fdffcc78da4639c79] applies to an activity of the kind specified by any of the following provisions of the Regulated Activities Order, namely—
+
+- (za)[^key-4027ac0479a5db92ac2233216152040c] article 9M (issuing qualifying stablecoin);
+- (zb) article 9N (safeguarding of qualifying cryptoassets and relevant specified investment cryptoassets);
+- (zc) article 9S (operating a qualifying cryptoasset trading platform);
+- (zd) article 9T (dealing in qualifying cryptoassets as principal);
+- (ze) article 9W (dealing in qualifying cryptoassets as agent);
+- (zf) article 9Y (arranging deals in qualifying cryptoassets);
+- (zg) article 9Z6 (qualifying cryptoasset staking);
+- (a) article 14 (dealing in investments as principal);
+- (b) article 21 (dealing in investments as agent);
+- (c) article 25 (arranging deals in investments), except in so far as that activity relates to an investment of the kind specified by article 86 of that Order (Lloyd’s syndicate capacity and syndicate membership), or article 89 of that Order (rights and interests) so far as relevant to that article;
+- (ca)[^key-148f72fa2244418800985478a1e51318] article 25D (operating a multilateral trading facility);
+- (cb)[^key-f0935b471f953715557d8aeca9154ac8] article 25DA (operating an organised trading facility);
+- (cc)[^key-2375a0c9bb6dae6929b8df5897ba65fb] article 25DB (operating an electronic system for public offers of relevant securities);
+- (d) article 37 (managing investments);
+- (e) article 40 (safeguarding and administering investments);
+- (f) article 45 (sending dematerialised instructions);
+- (ga)[^key-7c11b559fe1d9911eb14d685afd68a48] article 51ZA (managing a UCITS);
+- (gb) article 51ZB (acting as a trustee or depositary of a UCITS);
+- (gc) article 51ZC (managing an AIF);
+- (gd) article 51ZD (acting as a trustee or depositary of an AIF);
+- (ge) article 51ZE (establishing etc. a collective investment scheme);
+- (h) article 52 (establishing etc. a [^key-434b5ff16e97789d0d9fcacb02d59c8d]... pension scheme);
+- (i) article 53 (advising on investments); and
+- (j)[^key-5b1e6bb84b5ba7ab777da8918c2bf856] article 64 (agreeing) so far as relevant to any of the articles mentioned in sub-paragraphs (a) to (i),
+
+but does not apply to any insurance mediation activity.
+
+(3) Paragraph (1)[^key-d0448ab6003d1dc5c21c5a41c3925a37] is without prejudice to article 4 of this Order.
+
+(4)[^key-9476cd6d7e4ebd7e26c3f3d55c157bfe] A person is not to be regarded as carrying on by way of business any insurance distribution[^key-ebac715d105ae426995f7791bd244bf1] activity unless he takes up or pursues that activity for remuneration.
+
+(5) In this article, “insurance distribution[^key-783b17b410ddbfe3fe2633de6f0e62ec] activity” means any activity of the kind specified by article 21, 25(1) or (2), 39A or 53 of the Regulated Activities Order, or, so far as relevant to any of those articles, article 64 of that Order, which is carried on in relation to a contract of insurance.
+
+## 3A. Arranging and advising on regulated mortgage contracts[^key-487d2b2e553b56852f7c288a94e70c99]
+
+A person is not to be regarded as carrying on by way of business an activity of the kind specified by—
+
+- (a) article 25A of the Regulated Activities Order (arranging regulated mortgage contracts);
+- (b) article 53A of that Order (advising on regulated mortgage contracts); or
+- (c) article 64 of that Order (agreeing), so far as relevant to any of the articles mentioned in sub-paragraphs (a) and (b),
+
+unless he carries on the business of engaging in that activity.
+
+## 3B. Arranging and advising on regulated home reversion plans[^key-293639d125eefd32239e99df58133285]
+
+A person is not to be regarded as carrying on by way of business an activity specified by—
+
+- (a) article 25B of the Regulated Activities Order (arranging regulated home reversion plans);
+- (b) article 53B of that Order (advising on regulated home reversion plans); or
+- (c) article 64 of that Order (agreeing), so far as relevant to either of the articles mentioned in sub-paragraphs (a) and (b),
+
+unless he carries on the business of engaging in that activity.
+
+## 3C. Arranging and advising on regulated home purchase plans
+
+A person is not to be regarded as carrying on by way of business an activity specified by—
+
+- (a) article 25C of the Regulated Activities Order (arranging regulated home purchase plans);
+- (b) article 53C of that Order (advising on regulated home purchase plans); or
+- (c) article 64 of that Order (agreeing), so far as relevant to either of the articles mentioned in sub-paragraphs (a) and (b),
+
+unless he carries on the business of engaging in that activity.
+
+## 3D. Arranging and advising on regulated sale and rent back agreements[^key-7cb18180eec8dc63bb02393d70fde135]
+
+A person is not to be regarded as carrying on by way of business an activity specified by—
+
+- (a) article 25E of the Regulated Activities Order (arranging regulated sale and rent back agreements);
+- (b) article 53D of that Order (advising on regulated sale and rent back agreements); or
+- (c) article 64 of that Order (agreeing), so far as relevant to either of the articles mentioned in sub-paragraphs (a) and (b),
+
+unless that person carries on the business of engaging in that activity.
+
+## 3E. Debt adjusting, debt-counselling etc. by not-for-profit bodies[^key-1808c696f097fbe7c88f9980a420aa69]
+
+(1) A not-for-profit body which carries on an activity of the kind specified by article 39D (debt adjusting), 39E (debt-counselling) or 89A (providing credit information services) of the Regulated Activities Order or article 64 of that Order (agreeing to carry on specified kinds of activity) so far as relevant to any of those activities is to be regarded as carrying on that activity by way of business if the activities being carried on by that body consist of, or relate to, that activity.
+
+(2) Paragraph (1) does not apply if the body carries on that activity only on an occasional basis.
+
+(3) It is immaterial for the purposes of paragraph (1) if the activities being carried on by the body also consist of, or relates to, other activities.
+
+(4) In this article, a “**not-for-profit body**” means a body which, by virtue of its constitution or any enactment—
+
+- (a) is required (after payment of outgoings) to apply the whole of its income and any capital it expends for charitable or public purposes, and
+- (b) is prohibited from directly or indirectly distributing amongst its members any part of its assets (otherwise than for charitable or public purposes).
+
+## 4. Managing investments: occupational pension schemes[^key-345daa668236fbacce9b915dc3462891]
+
+(1) A person who carries on an activity of the kind specified by article 37 of the Regulated Activities Order (managing investments), where the assets in question are held for the purposes of an occupational pension scheme, is to be regarded as carrying on that activity by way of business, except where—
+
+- (a) he is a person to whom paragraph (2) applies; or
+- (b) all [^key-3b707b3b137bd794ae140346b22a0e9f]... day to day decisions in the carrying on of that activity (other than decisions falling within paragraph (6)), so far as relating to relevant assets, are taken on his behalf by—
+  - (i) an authorised person who has permission to carry on activities of the kind specified by article 37 of the Regulated Activities Order;
+  - (ii) a person who is an exempt person in relation to activities of that kind; or
+  - (iii) an overseas person.
+
+(2) This paragraph applies to—
+
+- (a) any trustee of a relevant scheme who is a beneficiary or potential beneficiary under the scheme; and
+- (b) any other trustee of a relevant scheme who takes no [^key-e14a18bbc5c738f3b22db3643a336fcf]... day to day decisions relating to the management of any relevant assets.
+
+(3) In this article—
+
+- “occupational pension scheme” has the meaning given by section 1 of the Pension Schemes Act 1993 but with paragraph (b) of the definition omitted;[^key-970e307e7090a7b54f20782d88023e0d]
+- “relevant assets” means assets of the scheme in question which are securities or contractually based investments;
+- “relevant scheme” means any occupational pension scheme of a kind falling within paragraph (4) or (5).
+
+(4) A scheme falls within this paragraph if—
+
+- (a) it is constituted under an irrevocable trust:
+- (b) it has no more than twelve relevant members;
+- (c) all relevant members, other than any relevant member who is unfit to act, or is incapable of acting, as trustee of the scheme, are trustees of it; and
+- (d) all [^key-2c019b45e137f1f6a634b252cca32a45]... day to day decisions relating to the management of the assets of the scheme which are relevant assets are required to be taken by all, or a majority of, relevant members who are trustees of the scheme or by a person of a kind falling within paragraph (1)(b)(i) or (ii) acting alone or jointly with all, or a majority of, such relevant members;
+
+and for these purposes a person is a relevant member of a scheme if he is an employee or former employee by or in respect of whom contributions to the scheme are being or have been made and to or in respect of whom benefits are or may become payable under the scheme.
+
+(5) A scheme falls within this paragraph if—
+
+- (a) it has no more than fifty members;
+- (b) the contributions made by or in respect of each member of the scheme are used in the acquisition of a contract of insurance on the life of that member or in the acquisition of a contract to pay an annuity on that life;
+- (c) the only decision of a kind described in paragraph (1)(b) which may be taken in relation to the scheme is the selection of such contracts; and
+- (d) each member is given the opportunity to select the contract which the contributions made by or in respect of him will be used to acquire.
+
+(6) A decision falls within this paragraph if—
+
+- (a)[^key-3ad62ad0fe0e203f62dac61738e925df] it is a decision by the trustees of an occupational pension scheme to buy, sell or subscribe for—
+  - (i) units in a collective investment scheme;
+  - (ii) shares or debentures (or warrants relating to such shares or debentures) issued by a body corporate having as its purpose the investment of its funds with the aim of spreading investment risk and giving its members the benefit of the results of the management of those funds by or on behalf of that body; or
+  - (iii) rights under (or rights to or interests in) any contract of insurance;
+
+[^key-5f5848df385698af060b5586f061b094]...
+
+- (b)[^key-0ad7e4a64efce08a2f8e934121c8018d] the decision is taken after advice has been obtained and considered from a person who falls within any of the cases in paragraph (7);
+- (c)[^key-b19e69ff38dfe2298b3c4b24d24e3a51] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^key-539b9c500cdfc279b9f0df1898870aa9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(7)[^key-79cbcba3e59f2e953f68fbd9ebac8bca] The cases are where the person is—
+
+> - (a) an authorised person who has permission to carry on activities of the kind specified by article 53 of the Regulated Activities Order in relation to the decision in question;
+> - (b) an exempt person in relation to such activities;
+> - (c) exempt from the general prohibition by virtue of section 327 of the Financial Services and Markets Act 2000; or
+> - (d) an overseas person.
+
+.
+
+## 4A. Administering a benchmark[^key-5ab253dd2c07db4fd8734d045dcf3481]
+
+A person who carries on an activity of the kind specified by article 63S of the Regulated Activities Order (administering a benchmark) is to be regarded as carrying on that activity by way of business.
+
+## 5. Entering into a sale and rent back agreement[^key-4ee89e1cd1103f2f5f652329d693e610]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**6.** (1) Article 5 ceases to have effect on 1st January 2022[^key-9ca72cd42b5ab712a21e2dbfa2d64541].
+
+(2) Before the end of 2017[^key-e20f75984d25d735270f7b8ee5df3c35], the Treasury must—
+
+- (a) carry out a review of article 5;
+- (b) set out the conclusions of the review in a report; and
+- (c) publish the report.
+
+(3) The report must in particular—
+
+- (a) set out the objectives intended to be achieved by article 5;
+- (b) assess the extent to which those objectives are achieved; and
+- (c) assess whether those objectives remain appropriate and, if so, the extent to which they could be achieved with a scheme that imposes less regulation.
+
+Greg Pope
+
+Jim Dowd
+
+Two of the Lords Commissioners of Her Majesty’s Treasury
+
+26th March 2001
+
+(This note is not part of the Order)
+
+This Order makes provision as to circumstances in which persons are, or are not, to be regarded as carrying on regulated activities by way of business for the purposes of the Financial Services and Markets Act 2000 (“the Act”). An activity is a “regulated activity” for the purposes of the Act if it is an activity of a specified kind, and is carried on by way of business in relation to an investment of a specified kind. The Financial Services and Markets Act 2000 (Regulated Activities) Order 2001 (S.I. [2001/544](https://www.legislation.gov.uk/uksi/2001/544)) specifies kinds of activity and kinds of investment for these purposes. Section 19 of the Act prohibits persons who are not authorised or exempt from carrying on any regulated activity in the United Kingdom. Contravention of that prohibition is a criminal offence.
+
+Articles 2 and 3 make provision as to the circumstances in which a person who accepts deposits, or carries on certain kinds of dealing and other investment activities, is not to be regarded as doing so by way of business. Article 4 provides that a person who manages the assets of an occupational pension scheme is to be regarded as doing so by way of business except in certain specified circumstances.
+
+## Annotations
+
+[^f00001]: Footnote: [2000 c. 8](https://www.legislation.gov.uk/ukpga/2000/8).
+
+[^key-3468027714077e678f34091f924e751e]: Commencement: Art. 1 in force at 1.12.2001 in accordance with art. 1(1)
+
+[^f00002]: Footnote: S.I. [2001/544](https://www.legislation.gov.uk/uksi/2001/544).
+
+[^key-f232b8dd26c38bb5a2b610ec91751f02]: Textual amendment: Words in [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/1177/article/1/2/b) inserted (31.10.2004 for specified purposes, 14.1.2005 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No. 2) Order 2003 (S.I. 2003/1476)](https://www.legislation.gov.uk/uksi/2003/1476), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2003/1476/article/1/3), [18(2)](https://www.legislation.gov.uk/uksi/2003/1476/article/18/2)
+
+[^key-3cc8c1bc7a05349ad80bce5d5bbd00d2]: Textual amendment: Words in [art. 1(2)(c)](https://www.legislation.gov.uk/uksi/2001/1177/article/1/2/c) substituted (24.2.2010) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2010 (S.I. 2010/86)](https://www.legislation.gov.uk/uksi/2010/86), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/86/article/1/2), [Sch. para. 6(2)](https://www.legislation.gov.uk/uksi/2010/86/schedule/paragraph/6/2)
+
+[^key-8a0de05160b91c67afec7cf130a72bf7]: Commencement: Art. 2 in force at 1.12.2001 in accordance with art. 1(1)
+
+[^key-e0e23dd1c5321aece8acaa140bd42a20]: Textual amendment: [Art. 2(3)-(5)](https://www.legislation.gov.uk/uksi/2001/1177/article/2/3) inserted (22.3.2018) by [The Financial Services and Markets Act 2000 (Carrying on Regulated Activities by Way of Business) (Amendment) Order 2018 (S.I. 2018/394)](https://www.legislation.gov.uk/uksi/2018/394), [arts. 1](https://www.legislation.gov.uk/uksi/2018/394/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2018/394/article/2/2)
+
+[^key-cd8ebfa559c528392a5314b8429f5807]: Commencement: Art. 3 in force at 1.12.2001 in accordance with art. 1(1)
+
+[^key-9796edf7a757ea10d7c8d2d4dd082f02]: Textual amendment: Words in [art. 3(1)](https://www.legislation.gov.uk/uksi/2001/1177/article/3/1) substituted (31.10.2004 for specified purposes, 14.1.2005 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No. 2) Order 2003 (S.I. 2003/1476)](https://www.legislation.gov.uk/uksi/2003/1476), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2003/1476/article/1/3), [18(3)(a)](https://www.legislation.gov.uk/uksi/2003/1476/article/18/3/a)
+
+[^key-055bef515298ed5fdffcc78da4639c79]: Textual amendment: Words in [art. 3(2)](https://www.legislation.gov.uk/uksi/2001/1177/article/3/2) substituted (31.10.2004 for specified purposes, 14.1.2005 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No. 2) Order 2003 (S.I. 2003/1476)](https://www.legislation.gov.uk/uksi/2003/1476), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2003/1476/article/1/3), [18(3)(b)(i)](https://www.legislation.gov.uk/uksi/2003/1476/article/18/3/b/i)
+
+[^key-4027ac0479a5db92ac2233216152040c]: Textual amendment: [Art. 3(2)(za)-(zg)](https://www.legislation.gov.uk/uksi/2001/1177/article/3/2/za) inserted (25.2.2026 for specified purposes) by [The Financial Services and Markets Act 2000 (Cryptoassets) Regulations 2026 (S.I. 2026/102)](https://www.legislation.gov.uk/uksi/2026/102), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/102/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2026/102/regulation/1/3), [44(2)](https://www.legislation.gov.uk/uksi/2026/102/regulation/44/2) (with [regs. 53-56](https://www.legislation.gov.uk/uksi/2026/102/regulation/53))
+
+[^key-148f72fa2244418800985478a1e51318]: Textual amendment: [Art. 3(2)(ca)](https://www.legislation.gov.uk/uksi/2001/1177/article/3/2/ca) inserted (1.4.2007 for specified purposes, 1.11.2007 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment No. 3) Order 2006 (revoked) 2006 (S.I. 2006/3384)](https://www.legislation.gov.uk/uksi/2006/3384), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2006/3384/article/1/2), [37](https://www.legislation.gov.uk/uksi/2006/3384/article/37)
+
+[^key-f0935b471f953715557d8aeca9154ac8]: Textual amendment: [Art. 3(2)(cb)](https://www.legislation.gov.uk/uksi/2001/1177/article/3/2/cb) inserted (1.4.2017 for specified purposes, 3.1.2018 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2017 (S.I. 2017/488)](https://www.legislation.gov.uk/uksi/2017/488), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/488/article/1/2), [Sch. para. 5](https://www.legislation.gov.uk/uksi/2017/488/schedule/paragraph/5)
+
+[^key-2375a0c9bb6dae6929b8df5897ba65fb]: Textual amendment: [Art. 3(2)(cc)](https://www.legislation.gov.uk/uksi/2001/1177/article/3/2/cc) inserted (19.1.2026) by [The Public Offers and Admissions to Trading (Amendment and Consequential and Transitional Provisions) Regulations 2025 (S.I. 2025/1076)](https://www.legislation.gov.uk/uksi/2025/1076), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/1076/regulation/1/3), [Sch. para. 8](https://www.legislation.gov.uk/uksi/2025/1076/schedule/paragraph/8); [S.I. 2025/1078](https://www.legislation.gov.uk/uksi/2025/1078), [reg. 5(b)](https://www.legislation.gov.uk/uksi/2025/1078/regulation/5/b)
+
+[^key-7c11b559fe1d9911eb14d685afd68a48]: Textual amendment: [Art. 3(2)(ga)-(ge)](https://www.legislation.gov.uk/uksi/2001/1177/article/3/2/ga) substituted for art. 3(2)(g) (22.7.2013) by [The Alternative Investment Fund Managers Regulations 2013 (S.I. 2013/1773)](https://www.legislation.gov.uk/uksi/2013/1773), [reg. 1](https://www.legislation.gov.uk/uksi/2013/1773/regulation/1), [Sch. 2 para. 7](https://www.legislation.gov.uk/uksi/2013/1773/schedule/2/paragraph/7)
+
+[^key-434b5ff16e97789d0d9fcacb02d59c8d]: Textual amendment: Word in [art. 3(2)(h)](https://www.legislation.gov.uk/uksi/2001/1177/article/3/2/h) omitted (6.4.2007) by virtue of [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2006 (S.I. 2006/1969)](https://www.legislation.gov.uk/uksi/2006/1969), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2006/1969/article/1/3), [9(2)](https://www.legislation.gov.uk/uksi/2006/1969/article/9/2)
+
+[^key-5b1e6bb84b5ba7ab777da8918c2bf856]: Textual amendment: [Art. 3(2)(j)](https://www.legislation.gov.uk/uksi/2001/1177/article/3/2/j) substituted (31.10.2004 for specified purposes, 14.1.2005 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No. 2) Order 2003 (S.I. 2003/1476)](https://www.legislation.gov.uk/uksi/2003/1476), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2003/1476/article/1/3), [18(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2003/1476/article/18/3/b/ii)
+
+[^key-d0448ab6003d1dc5c21c5a41c3925a37]: Textual amendment: Words in [art. 3(3)](https://www.legislation.gov.uk/uksi/2001/1177/article/3/3) substituted (31.10.2004 for specified purpose, 14.1.2005 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No. 2) Order 2003 (S.I. 2003/1476)](https://www.legislation.gov.uk/uksi/2003/1476), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2003/1476/article/1/3), [18(3)(c)](https://www.legislation.gov.uk/uksi/2003/1476/article/18/3/c)
+
+[^key-9476cd6d7e4ebd7e26c3f3d55c157bfe]: Textual amendment: [Art. 3(4)(5)](https://www.legislation.gov.uk/uksi/2001/1177/article/3/4/5) inserted (31.10.2004 for specified purposes, 14.1.2005 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No. 2) Order 2003 (S.I. 2003/1476)](https://www.legislation.gov.uk/uksi/2003/1476), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2003/1476/article/1/3), [18(3)(d)](https://www.legislation.gov.uk/uksi/2003/1476/article/18/3/d)
+
+[^key-ebac715d105ae426995f7791bd244bf1]: Textual amendment: Word in [art. 3(4)](https://www.legislation.gov.uk/uksi/2001/1177/article/3/4) substituted (1.10.2018) by [The Insurance Distribution (Regulated Activities and Miscellaneous Amendments) Order 2018 (S.I. 2018/546)](https://www.legislation.gov.uk/uksi/2018/546), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/546/article/1/2), [19](https://www.legislation.gov.uk/uksi/2018/546/article/19)
+
+[^key-783b17b410ddbfe3fe2633de6f0e62ec]: Textual amendment: Word in [art. 3(5)](https://www.legislation.gov.uk/uksi/2001/1177/article/3/5) substituted (1.10.2018) by [The Insurance Distribution (Regulated Activities and Miscellaneous Amendments) Order 2018 (S.I. 2018/546)](https://www.legislation.gov.uk/uksi/2018/546), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/546/article/1/2), [19](https://www.legislation.gov.uk/uksi/2018/546/article/19)
+
+[^key-487d2b2e553b56852f7c288a94e70c99]: Textual amendment: [Art. 3A](https://www.legislation.gov.uk/uksi/2001/1177/article/3A) inserted (31.10.2004) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No. 1) Order 2003 (S.I. 2003/1475)](https://www.legislation.gov.uk/uksi/2003/1475), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2003/1475/article/1/3), [25](https://www.legislation.gov.uk/uksi/2003/1475/article/25)
+
+[^key-293639d125eefd32239e99df58133285]: Textual amendment: [Arts. 3B](https://www.legislation.gov.uk/uksi/2001/1177/article/3B), [3C](https://www.legislation.gov.uk/uksi/2001/1177/article/3C) inserted (6.11.2006 for specified purposes, 6.4.2007 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2006 (S.I. 2006/2383)](https://www.legislation.gov.uk/uksi/2006/2383), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2), [29](https://www.legislation.gov.uk/uksi/2006/2383/article/29)
+
+[^key-7cb18180eec8dc63bb02393d70fde135]: Textual amendment: [Art. 3D](https://www.legislation.gov.uk/uksi/2001/1177/article/3D) inserted (1.7.2009 for specified purposes, 30.6.2010 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2009 (S.I. 2009/1342)](https://www.legislation.gov.uk/uksi/2009/1342), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2009/1342/article/1/2), [27](https://www.legislation.gov.uk/uksi/2009/1342/article/27)
+
+[^key-1808c696f097fbe7c88f9980a420aa69]: Textual amendment: [Art. 3E](https://www.legislation.gov.uk/uksi/2001/1177/article/3E) inserted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [13](https://www.legislation.gov.uk/uksi/2013/1881/article/13)
+
+[^key-345daa668236fbacce9b915dc3462891]: Commencement: Art. 4 in force at 1.12.2001 in accordance with art. 1(1)
+
+[^key-3b707b3b137bd794ae140346b22a0e9f]: Textual amendment: Words in [art. 4(1)(b)](https://www.legislation.gov.uk/uksi/2001/1177/article/4/1/b) omitted (6.4.2005) by virtue of [The Financial Services and Markets Act 2000 (Carrying on Regulated Activities by Way of Business) (Amendment) Order 2005 (S.I. 2005/922)](https://www.legislation.gov.uk/uksi/2005/922), [arts. 1](https://www.legislation.gov.uk/uksi/2005/922/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2005/922/article/2/2)
+
+[^key-e14a18bbc5c738f3b22db3643a336fcf]: Textual amendment: Words in [art. 4(2)(b)](https://www.legislation.gov.uk/uksi/2001/1177/article/4/2/b) omitted (6.4.2005) by virtue of [The Financial Services and Markets Act 2000 (Carrying on Regulated Activities by Way of Business) (Amendment) Order 2005 (S.I. 2005/922)](https://www.legislation.gov.uk/uksi/2005/922), [arts. 1](https://www.legislation.gov.uk/uksi/2005/922/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2005/922/article/2/2)
+
+[^key-970e307e7090a7b54f20782d88023e0d]: Textual amendment: Words in [art. 4(3)](https://www.legislation.gov.uk/uksi/2001/1177/article/4/3) substituted (6.4.2007) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2006 (S.I. 2006/1969)](https://www.legislation.gov.uk/uksi/2006/1969), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2006/1969/article/1/3), [9(3)](https://www.legislation.gov.uk/uksi/2006/1969/article/9/3)
+
+[^key-2c019b45e137f1f6a634b252cca32a45]: Textual amendment: Words in [art. 4(4)(d)](https://www.legislation.gov.uk/uksi/2001/1177/article/4/4/d) omitted (6.4.2005) by virtue of [The Financial Services and Markets Act 2000 (Carrying on Regulated Activities by Way of Business) (Amendment) Order 2005 (S.I. 2005/922)](https://www.legislation.gov.uk/uksi/2005/922), [arts. 1](https://www.legislation.gov.uk/uksi/2005/922/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2005/922/article/2/2)
+
+[^key-3ad62ad0fe0e203f62dac61738e925df]: Textual amendment: [Art. 4(6)(a)](https://www.legislation.gov.uk/uksi/2001/1177/article/4/6/a) substituted (6.4.2005) by [The Financial Services and Markets Act 2000 (Carrying on Regulated Activities by Way of Business) (Amendment) Order 2005 (S.I. 2005/922)](https://www.legislation.gov.uk/uksi/2005/922), [arts. 1](https://www.legislation.gov.uk/uksi/2005/922/article/1), [2(4)](https://www.legislation.gov.uk/uksi/2005/922/article/2/4)
+
+[^key-5f5848df385698af060b5586f061b094]: Textual amendment: Words in [art. 4(6)](https://www.legislation.gov.uk/uksi/2001/1177/article/4/6) omitted (6.4.2005) by virtue of [The Financial Services and Markets Act 2000 (Carrying on Regulated Activities by Way of Business) (Amendment) Order 2005 (S.I. 2005/922)](https://www.legislation.gov.uk/uksi/2005/922), [arts. 1](https://www.legislation.gov.uk/uksi/2005/922/article/1), [2(5)](https://www.legislation.gov.uk/uksi/2005/922/article/2/5)
+
+[^key-0ad7e4a64efce08a2f8e934121c8018d]: Textual amendment: [Art. 4(6)(b)](https://www.legislation.gov.uk/uksi/2001/1177/article/4/6/b) substituted (6.4.2005) by [The Financial Services and Markets Act 2000 (Carrying on Regulated Activities by Way of Business) (Amendment) Order 2005 (S.I. 2005/922)](https://www.legislation.gov.uk/uksi/2005/922), [arts. 1](https://www.legislation.gov.uk/uksi/2005/922/article/1), [2(6)](https://www.legislation.gov.uk/uksi/2005/922/article/2/6)
+
+[^key-b19e69ff38dfe2298b3c4b24d24e3a51]: Textual amendment: [Art. 4(6)(c)](https://www.legislation.gov.uk/uksi/2001/1177/article/4/6/c) omitted (6.4.2005) by virtue of [The Financial Services and Markets Act 2000 (Carrying on Regulated Activities by Way of Business) (Amendment) Order 2005 (S.I. 2005/922)](https://www.legislation.gov.uk/uksi/2005/922), [arts. 1](https://www.legislation.gov.uk/uksi/2005/922/article/1), [2(7)](https://www.legislation.gov.uk/uksi/2005/922/article/2/7)
+
+[^key-539b9c500cdfc279b9f0df1898870aa9]: Textual amendment: [Art. 4(6)(d)](https://www.legislation.gov.uk/uksi/2001/1177/article/4/6/d) omitted (6.4.2005) by virtue of [The Financial Services and Markets Act 2000 (Carrying on Regulated Activities by Way of Business) (Amendment) Order 2005 (S.I. 2005/922)](https://www.legislation.gov.uk/uksi/2005/922), [arts. 1](https://www.legislation.gov.uk/uksi/2005/922/article/1), [2(7)](https://www.legislation.gov.uk/uksi/2005/922/article/2/7)
+
+[^key-79cbcba3e59f2e953f68fbd9ebac8bca]: Textual amendment: [Art. 4(7)](https://www.legislation.gov.uk/uksi/2001/1177/article/4/7) substituted (6.4.2005) by [The Financial Services and Markets Act 2000 (Carrying on Regulated Activities by Way of Business) (Amendment) Order 2005 (S.I. 2005/922)](https://www.legislation.gov.uk/uksi/2005/922), [arts. 1](https://www.legislation.gov.uk/uksi/2005/922/article/1), [2(8)](https://www.legislation.gov.uk/uksi/2005/922/article/2/8)
+
+[^key-5ab253dd2c07db4fd8734d045dcf3481]: Textual amendment: [Art. 4A](https://www.legislation.gov.uk/uksi/2001/1177/article/4A) inserted (11.7.2018) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2018 (S.I. 2018/831)](https://www.legislation.gov.uk/uksi/2018/831), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/831/article/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2018/831/article/3/2)
+
+[^key-4ee89e1cd1103f2f5f652329d693e610]: Textual amendment: [Art. 5](https://www.legislation.gov.uk/uksi/2001/1177/article/5) ceases to have effect (1.1.2015) by [S.I. 2001/1177](https://www.legislation.gov.uk/uksi/2001/1177), [art. 6](https://www.legislation.gov.uk/uksi/2001/1177/article/6) (as inserted by [The Financial Services and Markets Act 2000 (Carrying on Regulated Activities by Way of Business) (Amendment) Order 2011 (S.I. 2011/2304)](https://www.legislation.gov.uk/uksi/2011/2304), [art. 2](https://www.legislation.gov.uk/uksi/2011/2304/article/2))
+
+[^key-9ca72cd42b5ab712a21e2dbfa2d64541]: Textual amendment: Words in [art. 6(1)](https://www.legislation.gov.uk/uksi/2001/1177/article/6/1) substituted (31.12.2014) by [The Financial Services and Markets Act 2000 (Carrying on Regulated Activities by Way of Business) (Amendment) Order 2014 (S.I. 2014/3340)](https://www.legislation.gov.uk/uksi/2014/3340), [arts. 1](https://www.legislation.gov.uk/uksi/2014/3340/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2014/3340/article/2/2)
+
+[^key-e20f75984d25d735270f7b8ee5df3c35]: Textual amendment: Word in [art. 6(2)](https://www.legislation.gov.uk/uksi/2001/1177/article/6/2) substituted (31.12.2014) by [The Financial Services and Markets Act 2000 (Carrying on Regulated Activities by Way of Business) (Amendment) Order 2014 (S.I. 2014/3340)](https://www.legislation.gov.uk/uksi/2014/3340), [arts. 1](https://www.legislation.gov.uk/uksi/2014/3340/article/1), [2(3)](https://www.legislation.gov.uk/uksi/2014/3340/article/2/3)

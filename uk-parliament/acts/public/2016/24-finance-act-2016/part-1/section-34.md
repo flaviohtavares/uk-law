@@ -1,0 +1,73 @@
+---
+title: Finance Act 2016, section 34
+act: Finance Act 2016
+section: '34'
+status: revised-with-pending-changes
+text_date: '2026-06-25'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2016/24/section/34
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Finance Act 2016, section 34
+
+> **Warning: changes not yet applied to this text (12).** Text as at 2026-06-25. See https://www.legislation.gov.uk/changes/affected/ukpga/2016/24
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 34. Transactions in securities: procedure for counteraction of advantage
+
+*Extent: E+W+S+N.I.*
+
+(1) Chapter 1 of Part 13 of ITA 2007 (transactions in securities) is amended as follows.
+
+(2) For section 695 (preliminary notification) substitute—
+
+> **695. Notice of enquiry**
+>
+> (1) An officer of Revenue and Customs may enquire into a transaction or transactions if—
+>
+> - (a) the officer has reason to believe that section 684 (person liable to counteraction of income tax advantage) may apply to a person (“the taxpayer”) in respect of the transaction or transactions, and
+> - (b) the officer notifies the taxpayer of his intention to do so.
+>
+> (2) The notification may be given at any time not more than 6 years after the end of the tax year to which the income tax advantage in question relates.
+
+(3) Omit sections 696 and 697 (opposed notifications).
+
+(4) In section 698 (counteraction notices), for subsection (1) substitute—
+
+> (1) If on an enquiry under section 695 an officer of Revenue and Customs determines that section 684 applies to the taxpayer, the income tax advantage in question is to be counteracted by adjustments, unless the officer is of the opinion that no counteraction is required.
+
+(5) In that section, for subsection (5) substitute—
+
+> (5) An assessment may be made in accordance with a counteraction notice at any time (without regard to any time limit on making the assessment that would otherwise apply).
+
+(6) After that section insert—
+
+> **698A. No-counteraction notices**
+>
+> (1) If on an enquiry under section 695 an officer of Revenue and Customs is of the opinion that no counteraction is required, the officer must serve notice on the person (a “no-counteraction notice”) stating that no counteraction is required and why.
+>
+> (2) The taxpayer may apply to the tribunal for a direction requiring an officer of Revenue and Customs to issue one of the following within a specified period—
+>
+> - (a) a counteraction notice;
+> - (b) a no-counteraction notice.
+>
+> (3) Any such application is to be subject to the relevant provisions of Part 5 of TMA 1970 (see, in particular, section 48(2)(b) of that Act).
+>
+> (4) The tribunal must give the direction applied for unless satisfied that there are reasonable grounds for not serving either a counteraction notice or a no-counteraction notice within a specified period.
+
+(7) In section 684 (person liable to counteraction), for subsection (4) substitute—
+
+> (4) This section is subject to no-counteraction notices issued under section 698A.
+
+(8) The amendments made by this section have effect in relation to—
+
+- (a) a transaction occurring on or after 6 April 2016, or
+- (b) a series of transactions any one or more of which occurs on or after that date.
+
+(9) Accordingly, Chapter 1 of Part 13 of ITA 2007 has effect without the amendments made by this section in relation to a tax advantage obtained on or after 6 April 2016 in consequence of—
+
+- (a) a transaction occurring before that date, or
+- (b) a series of transactions all of which occur before that date.

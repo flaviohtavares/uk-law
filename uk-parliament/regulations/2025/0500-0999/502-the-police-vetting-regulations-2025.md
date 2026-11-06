@@ -1,0 +1,1207 @@
+---
+title: The Police (Vetting) Regulations 2025
+id: uksi/2025/502
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2025-04-22'
+text_date: '2026-07-13'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2025/502
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2025/502/pdfs/uksiem_20250502_en_001.pdf
+- http://www.legislation.gov.uk/uksi/2025/502/pdfs/uksi_20250502_en.pdf
+- http://www.legislation.gov.uk/uksi/2025/502/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Police (Vetting) Regulations 2025
+
+> Text as at 2026-07-13.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2025 No. 502
+
+POLICE, ENGLAND AND WALES
+
+The Police (Vetting) Regulations 2025
+
+Made
+
+22nd April 2025
+
+Laid before Parliament
+
+23rd April 2025
+
+Coming into force
+
+14th May 2025
+
+The Secretary of State makes these Regulations in exercise of the powers conferred by sections 50(1), (2)(e) and (f), (2A), (4) and (7), 51(1), (2)(ba) and (c) and (3A) and 85(1) and (3) to (4A) of, and paragraph 2A of Schedule 6 to, the Police Act 1996[^f00001].
+
+In accordance with section 63(3)(a) of the Police Act 1996[^f00002], the Secretary of State has supplied a draft of these Regulations to the Police Advisory Board for England and Wales and has taken into consideration the representations made by that Board before making these Regulations.
+
+## Part 1 — Preliminary
+
+### 1. Citation, commencement and extent[^key-41abbec92b8e022898bc1f717699c832]
+
+(1) These Regulations may be cited as the Police (Vetting) Regulations 2025 and come into force on 14th May 2025.
+
+(2) These Regulations extend to England and Wales.
+
+### 2. Interpretation[^key-effa48aefdbe3611bdbf031e40ba4847]
+
+(1) In these Regulations—
+
+- “**the 1996 Act**” means the Police Act 1996;
+- “**the 2002 Act**” means the Police Reform Act 2002[^f00003];
+- “**the 2011 Act**” means the Police Reform and Social Responsibility Act 2011[^f00004];
+- “**accelerated misconduct hearing**” has the meaning given to it in regulation 2(1) of the Conduct Regulations;
+- “**acting chief officer**” means—
+  - (a) a person exercising or performing functions of a chief officer in accordance with section 41 of the 2011 Act (power of deputy to exercise functions of chief officer),
+  - (b) a person exercising powers or duties of the Commissioner of Police of the Metropolis in accordance with section 44 (functions of Deputy Commissioner of Police of the Metropolis) or section 45(4) (Assistant Commissioners of Police of the Metropolis) of the 2011 Act, or
+  - (c) a person exercising duties of the Commissioner of Police for the City of London in accordance with section 25 of the City of London Police Act 1839[^f00005];
+- “**appeal meeting**” means a meeting held in accordance with regulation 29;
+- “**assessor**” means a person appointed under regulation 16;
+- “**the Conduct Regulations**” means the Police (Conduct) Regulations 2020[^f00006];
+- “[^key-f24d8184330031ee759f800da20ce92a]**criminal history check**” means a check to ascertain, so far as reasonably practicable, whether a person has, or may have, committed a criminal offence, and includes a check of—
+  - (a) central records, within the meaning of section 112(3) of the Police Act 1997, and
+  - (b) the Police National Database;
+- “**criminal proceedings**” means—
+  - (a) any prospective criminal proceedings, or
+  - (b) all criminal proceedings brought which have not been brought to a conclusion (apart from the bringing and determination of any appeal other than an appeal against conviction to the Crown Court);
+- “**designated police volunteer**” means a person designated as a community support volunteer or a policing support volunteer under section 38(1A) of the 2002 Act[^f00007];
+- “**document**” means anything in which information of any description is recorded;
+- “**harm test**” has the meaning given to it in regulation 8;
+- “**HMCIC**” means His Majesty's Chief Inspector of Constabulary appointed under section 54(1) of the 1996 Act (appointment and functions of inspectors of constabulary);
+- “**informant**” means a person who provides information to a withdrawal assessment on the basis that the person's identity is not disclosed;
+- “**interested party**” means a person whose appointment could reasonably give rise to a concern as to whether the person could act impartially under these Regulations;
+- “**line manager**” means the police officer or the police staff member who has immediate supervisory responsibility for the officer concerned;
+- “[^key-962c25c0efef79aea09b273e695ae30c]**listed offence**” means an offence listed in the Schedule;
+- “**misconduct**” has the meaning given to it in regulation 2(1) of the Conduct Regulations;
+- “**misconduct proceedings**” has the meaning given to it in regulation 2(1) of the Conduct Regulations;
+- “**officer concerned**” means the police officer in relation to whom Parts 3 and 4 of these Regulations apply;
+- “**panel**” means a panel constituted in accordance with regulation 27, subject to any change to the membership of that panel in accordance with regulation 28;
+- “**the Performance Regulations**” means the Police (Performance) Regulations 2020[^f00008];
+- “[^key-31bbddbd76774ea03f327f9a22280d71]**police candidate**” means a person seeking appointment to a police force, but does not include a police officer who is seeking to transfer from one police force to another;
+- “[^key-3ceb0430f50932c5b36f2c557af7a993]**police force concerned**”, in relation to a police officer, means—
+  - (a) the police force of which the officer is a member, or
+  - (b) where the officer is a special constable, the police force maintained for the police area for which the officer is appointed;
+- “**police friend**” means a person chosen by the officer concerned in accordance with regulation 9;
+- “[^key-f161d9754145d41fcb25cb5f8306f714]**Police National Database**” means the national information management system known by that name and used to share information between police forces and other persons operating in England, Wales, Scotland or Northern Ireland charged with the duty of preventing, detecting, investigating or prosecuting offences;
+- “**police officer**” means a member of a police force or special constable;
+- “**police staff member**” means—
+  - (a) a member of the civilian staff of a police force, within the meaning of section 102(4) and (6) of the 2011 Act (interpretation of Part 1), or
+  - (b) an employee of the Common Council of the City of London who is under the direction and control of a chief officer of police;
+- “**relevant lawyer**” has the meaning given to it in section 84(4) of the 1996 Act (representation etc. at disciplinary and other proceedings);
+- “[^key-24f7f05b4591a58c55ee5aceee6f94b0]**renew**” is to be construed in accordance with regulation 5(2)(a); and cognate expressions are to be construed accordingly;
+- “**renewal date**”, in relation to a grant of vetting clearance, is the date on or before which the vetting authority which granted the vetting clearance must initiate the renewal process by sending to its holder an application for further vetting clearance;
+- “**senior officer**” means a member of a police force holding a rank above that of chief superintendent;
+- “**staff association**” means—
+  - (a) in relation to a police officer of the rank of chief inspector or below or a special constable, the Police Federation of England and Wales,
+  - (b) in relation to a police officer of the rank of superintendent or chief superintendent, the Police Superintendents' Association, and
+  - (c) in relation to a senior officer or a chief officer, the Chief Police Officers' Staff Association;
+- “[^key-0f0e125c7af35a2621f23c85ce6be81a]**vetting application assessment**” means a comprehensive and in-depth assessment by a vetting authority of a person’s (“P’s”) suitability to hold vetting clearance, following an application by P for vetting clearance, and includes—
+  - (a) a criminal history check in respect of P,
+  - (b) a check of the police barred list and the police advisory list in respect of P, and
+  - (c) such additional checks as will, so far as reasonably practicable—
+    - (i) provide a full picture of P’s financial history and conduct, as well as information about any close associations of P, and
+    - (ii) enable the vetting authority to consider any other matter which may reasonably affect P’s suitability to hold vetting clearance;
+- [^key-62fa0b41e9ee7036fc43b377c00496a1]...
+- “[^key-2ec23e400c683ff5c9d5e92b9d755c4b]**vetting clearance**” means—
+  - (a) in relation to a police candidate or a police officer seeking to transfer from one police force to another, the level of police vetting clearance that the candidate or officer requires to perform the duties of the role for which they are seeking appointment;
+  - (b) in all other cases, the level of police vetting clearance that the police officer requires to perform the duties of their role;
+- “**vetting severity assessment**” has the meaning given to it in regulation 15;
+- “**withdrawal assessment**” means a withdrawal assessment under Part 4 of these Regulations, including any appeal;
+- “**working day**” means any day other than—
+  - (a) a Saturday or Sunday,
+  - (b) Christmas Day or Good Friday, or
+  - (c) a day which is a bank holiday under the Banking and Financial Dealings Act 1971[^f00009] in England and Wales.
+
+(2)[^key-2020c2591de87ae183da84fcdb5d18f4] In these Regulations—
+
+- (a) in Parts 3 and 4, references to “**the vetting authority**” are references to the vetting authority of the police force concerned;
+- (b) the “vetting authority” of a police force is—
+  - (i) in relation to a police candidate or a police officer, other than a chief officer of police or acting chief officer, the chief officer of police of that police force;
+  - (ii) in relation to a chief officer of police or acting chief officer, the local policing body for that police force’s area.
+
+### 3. Delegation[^key-b696c1abc2c4e832db65c5481c1f0f93]
+
+(A1)[^key-36c72df27719afb17977246191960800] This regulation applies where a vetting authority is a chief officer of police.
+
+(B1) The chief officer of police may delegate any function under Part 1A, Part 2 and regulation 15(A1), as well as the function of delegation under this paragraph, to—
+
+- (a) a member of a police force of any rank, or
+- (b) a police staff member,
+
+who has the appropriate level of knowledge, skills and experience to perform that function.
+
+(1)[^key-82c9e31bc9e4236e3e1d43222c990e11] The chief officer of police may, subject to paragraphs (2) and (3), delegate any function under Parts 3 and 4, other than regulation 15(A1), as well as the function of delegation under this paragraph, to—
+
+- (a) a member of a police force of at least the rank of inspector, or
+- (b) a police staff member who, in the opinion of the chief officer, is at least a similar level of seniority to an inspector.
+
+(2) Where the vetting authority delegates its functions under regulation 13, 13A[^key-5078afebffa63fb76a5cef0a6c345303] or 24, the following decisions must be authorised by a senior officer—
+
+- (a)[^key-70163071c29fcaca48e99d2cf96efc48] a decision under regulation 13 or 13A as to whether the suspension condition is met, or
+- (b) a decision under regulation 24(2) as to the outcome of a withdrawal assessment.
+
+(3) Where a chief officer of police is required to chair a panel under regulation 27(2)(a), the chief officer of police may delegate responsibility for chairing the panel to—
+
+- (a) a senior officer,
+- (b) a former senior officer who last served as a senior officer no more than five years before the date on which the responsibility for chairing the appeal is to be delegated to them, or
+- (c) a police staff member who, in the opinion of the chief officer of police, is of at least a similar level of seniority to a senior officer.
+
+(4) For the purposes of paragraph (3)—
+
+- (a) “**senior officer**” includes a member of a police force who is required to perform the duties normally performed by a member of a police force holding a rank above that of chief superintendent;
+- (b) “**former senior officer**” includes a person who, at the time they ceased to be a member of a police force, was required to perform the duties normally performed by a member of a police force holding a rank above that of chief superintendent.
+
+### 4. Application[^key-de97959206b8dfdb7100b47caae5e583]
+
+(1) Parts 3 and 4 of these Regulations apply where information which indicates that a police officer may no longer be suitable to hold vetting clearance (“a matter”) comes to the attention of the vetting authority of the police force concerned[^key-a8ffdcba398ec4254d6932f3fa07fc5b].
+
+(2) A vetting authority is not prevented from considering a matter under Part 3 or 4 of these Regulations by virtue of the fact that the matter has been considered or determined under the Conduct Regulations, the Performance Regulations or Part 2 of the 2002 Act.
+
+(3) Where a vetting authority is considering more than one matter in relation to the same police officer, the matters may be taken together and treated as a single matter for the purposes of any provision of Part 3 or 4 of these Regulations that requires a person to make an assessment, finding, determination or decision in connection with a matter.
+
+### 4A. Deviation from guidance on vetting[^key-d560408db3316b0d580359d37358bfb5]
+
+If a vetting authority considers it necessary to deviate on a repeated or prolonged basis from any aspect of—
+
+- (a) any code of practice relating to vetting issued by the College of Policing under section 39A of the Police Act 1996, or
+- (b) any other guidance relating to vetting published by the Secretary of State or the College of Policing,
+
+the vetting authority must notify the College of Policing and the National Police Chiefs’ Council.
+
+## Part 1A — Vetting Clearance: Police Candidates[^key-d4e537039b72b36fee83ab01f62cda0f]
+
+### 4B. Appointment to a police force: requirement to hold vetting clearance etc.
+
+(1) A police candidate must not be appointed to a police force unless they hold vetting clearance which was granted by the vetting authority of the police force to which they are seeking appointment within the period of 6 months ending with the date of appointment.
+
+(2) To apply for vetting clearance, a police candidate—
+
+- (a) must have first completed each of the recruitment stages mentioned in regulation 10(1)(eb) of the Police Regulations 2003, and
+- (b) must submit an application for vetting clearance to the vetting authority of the police force to which they are seeking appointment in a form and manner approved by the vetting authority.
+
+(3) A vetting authority may grant a police candidate vetting clearance only if—
+
+- (a) the candidate has applied for vetting clearance in accordance with paragraph (2),
+- (b) the vetting authority has carried out a vetting application assessment in respect of the candidate, and
+- (c) the vetting authority is satisfied that the candidate is suitable to hold vetting clearance (see further regulation 4D).
+
+(4) Where a vetting authority grants a police candidate vetting clearance, it—
+
+- (a) must specify the renewal date of the vetting clearance, and
+- (b) may grant the vetting clearance subject to conditions.
+
+(5) A police candidate who has applied for vetting clearance or been granted vetting clearance must promptly notify the vetting authority of the police force to which they are seeking appointment of any change in their personal circumstance or any other matter which may reasonably affect their suitability to hold vetting clearance.
+
+### 4C. Timings
+
+(1) Where a police candidate has applied for vetting clearance in accordance with regulation 4B(2), the vetting authority of the police force to which they are seeking appointment must carry out the vetting application assessment required by regulation 4B(3)(b) as close as reasonably practicable to the date of appointment, and in any event within the period of six months ending with that date.
+
+(2) If the date of appointment is postponed so that the period beginning with the day on which the police candidate is granted vetting clearance and ending with the date of appointment is more than six months, the police candidate must reapply for vetting clearance.
+
+### 4D. Suitability to hold vetting clearance: criminal convictions and cautions
+
+(1) This regulation applies for the purposes of a vetting authority considering whether a police candidate is suitable to hold vetting clearance.
+
+(2) A police candidate is not suitable to hold vetting clearance if the candidate—
+
+- (a) has engaged in conduct which attracts automatic disqualification under regulation 10(2A) of the Police Regulations 2003, or
+- (b) has been convicted of, or given a caution for, an offence falling outside regulation 10(2A) of the Police Regulations 2003, unless there are particular circumstances relevant to the candidate’s case which justify the candidate being regarded as suitable to hold vetting clearance notwithstanding the commission of that offence.
+
+### 4E. Variation and revocation of a police candidate’s vetting clearance
+
+(1) Where a vetting authority has granted a police candidate vetting clearance, the vetting authority may, if it considers it appropriate to do so, add, remove or vary a condition to which the candidate’s vetting clearance is subject.
+
+(2) If a vetting authority considers that a police candidate to whom it has granted vetting clearance is no longer suitable to hold vetting clearance, it must revoke the candidate’s vetting clearance.
+
+### 4F. Duty to provide police candidate with detailed reasons for certain decisions
+
+(1) Where a vetting authority makes a decision under this Part to—
+
+- (a) grant a police candidate vetting clearance subject to conditions,
+- (b) decline to grant a police candidate vetting clearance,
+- (c) add or vary a condition to which a police candidate’s vetting clearance is subject, or
+- (d) revoke a police candidate’s vetting clearance,
+
+it must, subject to paragraph (2), provide the police candidate with detailed reasons in writing for its decision.
+
+(2) The vetting authority must not provide the police candidate with information in so far as it considers that any of the reasons for preventing disclosure of information listed in regulation 8(2)(a) to (g) apply to that information; and for the purposes of this paragraph, regulation 8(2)(d) is to be read as if “other” were omitted.
+
+### 4G. Right of appeal against decisions in respect of police candidates
+
+(1) A police candidate may appeal against a decision of a vetting authority mentioned in regulation 4F(1).
+
+(2) The appeal must be made to a person nominated by the vetting authority (“the vetting appeal decision maker”) who—
+
+- (a) has the appropriate level of knowledge, skills and experience to carry out the appeal, and
+- (b) was not involved in the decision appealed against.
+
+(3) The only grounds of appeal under this regulation are that—
+
+- (a) the decision was unreasonable;
+- (b) there is evidence that could not reasonably have been considered as part of the decision which could have materially affected the decision;
+- (c) there was procedural or other unfairness which could have materially affected the decision.
+
+(4) On completion of the appeal, the vetting appeal decision maker must make a written report to the vetting authority setting out its decision and providing detailed reasons in writing for its decision.
+
+(5) Before making any decision to add or vary a condition to which the police officer’s vetting clearance is subject, the vetting appeal decision maker must consult with the vetting authority.
+
+(6) The vetting authority must uphold the decision of the vetting appeal decision maker.
+
+### 4H. Record of vetting clearance: police candidates
+
+(1) A vetting authority must keep a record of—
+
+- (a) each application for vetting clearance that it receives from a police candidate,  including the decision on the application and the reasons for the decision,
+- (b) each decision that it makes to add, remove or vary a condition to which a police candidate’s vetting clearance is subject, or to revoke a police candidate’s vetting clearance, and the reasons for its decision, and
+- (c) each report made to it under regulation 4G(4).
+
+(2) Where the vetting authority has considered any information which indicates that the police candidate may not be or is not suitable to hold vetting clearance, the record of reasons mentioned in paragraph (1)(a) or (b) must be a detailed record.
+
+## Part 2 — Vetting clearance
+
+### 5. Duty to hold and maintain vetting clearance[^key-7dd89e36c2b51893d11b9c83536d830c]
+
+(1)[^key-07c992be248a4d5be96709fcd8afc614] A police officer must—
+
+- (a) hold and maintain vetting clearance, and
+- (b) promptly notify the vetting authority of the police force concerned[^key-dfffe9b818590779d05c2db61ed37f63] of any change in their personal circumstance or any other matter which may reasonably affect their suitability to hold vetting clearance.
+
+(2)[^key-84a493ac651e42fae4ec1d18c7bee2ff] Vetting clearance granted to a police officer by the vetting authority of the police force concerned is valid until whichever of the following events occurs first—
+
+- (a) the vetting authority makes a further grant of vetting clearance to the officer (“renews” the officer’s vetting clearance);
+- (b) the vetting clearance is terminated (see further regulation 6);
+- (c) the vetting clearance is withdrawn (see further Parts 3 and 4).
+
+### 5A. Review of vetting clearance[^key-6f26517b7d9676e96f52f30de41b5921]
+
+(1) A vetting authority may from time to time carry out such checks as are necessary to assess whether, in respect of a police officer to whom it has granted vetting clearance—
+
+- (a) there is information which indicates that the officer may no longer be suitable to hold vetting clearance, or
+- (b) it is appropriate to add, vary or remove a condition to which the officer’s vetting clearance is subject.
+
+(2) A vetting authority must carry out a criminal history check in respect of a police officer to whom it has granted vetting clearance if—
+
+- (a) the vetting authority has considered information concerning a change in the officer’s personal circumstances or other matter, and
+- (b) the information does not, on its own, indicate that the officer may no longer be suitable to hold vetting clearance, but risk remains that warrants further assessment.
+
+(3) A vetting authority must assess whether either of the conditions mentioned in paragraph (1)(a) and (b) applies in respect of a police officer to whom it has granted vetting clearance if the officer—
+
+- (a) has been subject to misconduct proceedings or an accelerated misconduct hearing, and
+- (b) has not been dismissed.
+
+(4) Following a review of a police officer’s vetting clearance, a vetting authority may, if it considers it appropriate to do so, add, vary or remove a condition to which the vetting clearance is subject.
+
+### 5B. Renewal of vetting clearance
+
+(1) A vetting authority must send an application for vetting clearance to a police officer to whom it has granted vetting clearance on or before the renewal date of that vetting clearance.
+
+(2) The vetting authority may postpone the renewal date of the vetting clearance if there is good reason to do so.
+
+(3) A vetting authority may renew the vetting clearance of a police officer to whom it has granted vetting clearance only if—
+
+- (a) the officer has submitted an application for vetting clearance to the vetting authority in a form and manner approved by the vetting authority,
+- (b) the vetting authority has carried out a vetting application assessment in respect of the officer, and
+- (c) the vetting authority is satisfied that the officer is suitable to hold vetting clearance.
+
+(4) Where a vetting authority renews vetting clearance, it—
+
+- (a) must specify the renewal date of the vetting clearance being granted, and
+- (b) may grant that vetting clearance subject to conditions.
+
+(5) A vetting authority may at any time require a police officer to submit to it a further application for vetting clearance for the purposes of assessing whether the officer’s vetting clearance may be renewed.
+
+### 5C. Officers seeking to transfer from one police force to another
+
+(1) This regulation applies where a police officer is seeking to transfer from one police force (“police force A”) to another police force (“police force B”).
+
+(2) The police officer may not be appointed to police force B unless the officer holds vetting clearance granted by the vetting authority of police force B no more than six months before the date of appointment.
+
+(3) Subject to paragraph (4), the vetting authority of police force B may only grant the police officer vetting clearance if—
+
+- (a) the officer has submitted an application for vetting clearance to the vetting authority of police force B in a form and manner approved by the vetting authority of police force B,
+- (b) the vetting authority of police force B has carried out a vetting application assessment in respect of the officer, and
+- (c) the vetting authority of police force B is satisfied that the officer is suitable to hold vetting clearance.
+
+(4) The vetting authority of police force B may carry out a full vetting review, in place of the requirements referred to in paragraph (3)(a) and (b), if the following conditions are met—
+
+- (a) police force A and police force B share a police vetting unit,
+- (b) the vetting clearance granted to the police officer by police force A—
+  - (i) is at the level required to perform the duties of the role for which they are seeking appointment, and
+  - (ii) was granted within the period of 12 months ending with the date of appointment, and
+- (c) the police vetting unit considers that a full vetting review is sufficient for the purposes of assessing the officer’s suitability to hold vetting clearance.
+
+(5) But vetting clearance which is granted to a police officer following a full vetting review under paragraph (4) is invalidated if the officer’s date of appointment is postponed with the result that the vetting clearance granted to the officer by police force A was granted more than 12 months before the date of appointment.
+
+(6) Where the vetting authority of police force B grants the police officer vetting clearance, it—
+
+- (a) must specify the renewal date of the vetting clearance, and
+- (b) may grant the vetting clearance subject to conditions.
+
+(7) Where the vetting authority of police force B declines to grant the police officer vetting clearance—
+
+- (a) the vetting authority of police force B must, as soon as reasonably practicable after making its decision to decline to grant the officer vetting clearance, make a written report to the vetting authority of police force A setting out its decision and providing detailed reasons in writing for its decision, and
+- (b) if regulation 4 does not apply, the vetting authority of police force A must carry out a full vetting review in respect of the officer.
+
+(8) If, after granting the police officer vetting clearance but before appointing the officer to police force B, the vetting authority of police force B considers that the officer is no longer suitable to hold vetting clearance, it must revoke the vetting clearance.
+
+(9) A police officer who has applied to police force B for vetting clearance or been granted vetting clearance by police force B must promptly notify the vetting authority of police force B of any change in their personal circumstance or any other matter which may reasonably affect their suitability to hold vetting clearance.
+
+(10) In this regulation—
+
+- “**full vetting review**” means a review of whether a police officer continues to be suitable to hold vetting clearance which includes—
+  - (a) a criminal history check, and
+  - (b) any other checks which it is reasonable and proportionate to carry out for the purposes of assessing an officer's continued suitability to hold vetting clearance;
+- “**police vetting unit**” means a unit of individuals specialised in the assessment of the suitability of police candidates or police officers to hold vetting clearance.
+
+### 5D. Suitability to hold vetting clearance: criminal offences
+
+(1) Paragraphs (2) and (3) apply for the purposes of any provision of these Regulations that requires a person to make an assessment in connection with the suitability of a police officer to hold vetting clearance.
+
+(2) A police officer is not suitable to hold vetting clearance if—
+
+- (a) the officer has been convicted of a criminal offence for which the court imposed a custodial sentence,
+- (b) the officer is, or has been, subject to the notification requirements of Part 2 of the Sexual Offences Act 2003 (notification and orders),
+- (c) the officer has been convicted of, or given a caution for, a listed offence,
+- (d) the officer has been convicted of an attempt or conspiracy to commit a listed offence, or
+- (e) the officer has been convicted of, or given a caution for, an offence which the vetting authority has determined involved behaviour by the officer amounting to domestic abuse within the meaning of the Domestic Abuse Act 2021 (see section 1 of that Act),
+
+unless there are exceptional circumstances which justify the officer being regarded as suitable to hold vetting clearance notwithstanding the commission of that offence.
+
+(3) A police officer is also not suitable to hold vetting clearance if the officer has been convicted of, or given a caution for, any other offence, unless there are particular circumstances relevant to the officer’s case which justify the officer being regarded as suitable to hold vetting clearance notwithstanding the commission of that offence.
+
+### 5E. Duty to provide police officer with detailed reasons for certain decisions
+
+(1) Where a vetting authority makes a decision under this Part to—
+
+- (a) grant a police officer vetting clearance subject to conditions,
+- (b) decline to grant a police officer vetting clearance,
+- (c) add or vary a condition to which a police officer’s vetting clearance is subject, or
+- (d) revoke vetting clearance granted to a police officer,
+
+it must, subject to paragraph (2), provide the officer with detailed reasons in writing for its decision.
+
+(2) The vetting authority must not provide the police officer with information in so far as it considers that any of the reasons for preventing disclosure of information listed in regulation 8(2)(a) to (g) apply to that information.
+
+### 5F. Right of appeal against decisions in respect of police officers
+
+(1) A police officer may appeal against a decision of the vetting authority of the police force concerned to add or vary a condition to which the officer’s vetting clearance is subject.
+
+(2) A police officer who is seeking to transfer to another police force may appeal against a decision of the vetting authority of that police force to—
+
+- (a) grant the officer vetting clearance subject to conditions,
+- (b) decline to grant the officer vetting clearance,
+- (c) add or vary a condition to which the officer’s vetting clearance is subject, or
+- (d) revoke the officer’s vetting clearance.
+
+(3) The appeal must be made to a person nominated by the vetting authority whose decision is being appealed against (“the vetting appeal decision maker”) who—
+
+- (a) has the appropriate level of knowledge, skills and experience to carry out the appeal, and
+- (b) was not involved in the decision appealed against.
+
+(4) The only grounds of appeal under this regulation are that—
+
+- (a) the decision was unreasonable;
+- (b) there is evidence that could not reasonably have been considered as part of the decision which could have materially affected the decision;
+- (c) there was procedural or other unfairness which could have materially affected the decision.
+
+(5) On completion of the appeal, the vetting appeal decision maker must make a written report to the vetting authority setting out its decision and the reasons for it.
+
+(6) Before making any decision to add or vary a condition to which a police officer’s vetting clearance is subject, the vetting appeal decision maker must consult with the vetting authority which granted the vetting clearance.
+
+(7) The vetting authority must uphold the decision of the vetting appeal decision maker.
+
+### 6. Termination of vetting clearance[^key-9f023b98731ff65c5dd2caab89fbb987]
+
+A police officer’s vetting clearance must be terminated if they cease to be a police officer.
+
+### 7. Record of vetting clearance: police officers[^key-d84e7c83ffddc8b4bd0ec75899cd20fe][^key-9dec6bcad5149902ad938b05335da7e7]
+
+(1) A vetting authority must keep a record of——
+
+- (a) each application for vetting clearance that it receives from a police officer, including the decision on the application and the reasons for the decision,
+- (b) each review of vetting clearance that it carries out in respect of a police officer, including the decision on the review and the reasons for the decision, and
+- (c) each report made to it under regulation 5C(7)(a) and 5F(5).
+
+(2) Where the vetting authority has considered any information which indicates that the police officer may not be suitable to hold vetting clearance, the record of reasons required by paragraph (1)(a) or (b) must be a detailed record.
+
+## Part 3 — Withdrawal assessments: general
+
+### 8. The harm test[^key-66a341d4c3d51889143d05e0e5c50011]
+
+(1) This regulation applies to information in documents which are stated to be subject to the harm test under these Regulations.
+
+(2) The information must not be supplied to the officer concerned in so far as the vetting authority considers that preventing disclosure to the officer is—
+
+- (a) necessary for the purpose of preventing the premature or inappropriate disclosure of information that is relevant to, or may be used in, any—
+  - (i) criminal proceedings,
+  - (ii) misconduct proceedings, or
+  - (iii) accelerated misconduct hearing,
+- (b) necessary in the interests of national security,
+- (c) necessary for the purpose of the prevention or detection of crime, or the apprehension or prosecution of offenders,
+- (d) necessary for the purpose of the prevention or detection of misconduct by other police officers or police staff members or their apprehension for such matters,
+- (e) justified on the grounds that providing the information would involve disproportionate effort in comparison to the seriousness of the matter concerned,
+- (f) necessary and proportionate for the protection of the welfare and safety of any informant or witness, or
+- (g) otherwise in the public interest.
+
+### 9. Police friend[^key-0a899c949bf7e84d5f2380b1dd9202ce]
+
+(1) The officer concerned may choose—
+
+- (a) a police officer,
+- (b) a police staff member, or
+- (c) a person nominated by the officer's staff association,
+
+who is not otherwise involved in the withdrawal assessment, to act as a police friend.
+
+(2) The police friend may—
+
+- (a) advise the officer throughout the withdrawal assessment,
+- (b) make representations to the vetting authority concerning any aspect of the withdrawal assessment, and
+- (c) accompany the officer to any interview or appeal meeting which forms part of the withdrawal assessment.
+
+### 10. Legal and other representation[^key-78687e8692bd1d47a4b808c83c80d616]
+
+(1) Subject to paragraph (2), the officer concerned has the right to be represented by a relevant lawyer of the officer's choice (“a preferred lawyer”) at an interview or an appeal meeting.
+
+(2) The unavailability of one or more preferred lawyers is not a valid ground for delaying an interview or an appeal meeting where an alternative relevant lawyer can be found.
+
+(3) If the officer concerned chooses not to be legally represented, the officer may have their vetting clearance withdrawn or receive any other outcome under regulation 24 without being so represented.
+
+(4) The vetting authority may be represented at an interview or an appeal meeting by—
+
+- (a) a police officer or police staff member of the police force concerned, and
+- (b) a relevant lawyer (whether or not the officer concerned chooses to be legally represented).
+
+(5) Subject to paragraph (6), the vetting authority may appoint a person to advise a panel chair.
+
+(6) A person appointed under paragraph (5) must not be an interested party.
+
+### 11. Provision of notices or documents[^key-d1043f19d4cd8f537c83004ecd6bd799]
+
+(1) Subject to paragraph (2), where any written notice or document is to be given or supplied to the officer concerned under these Regulations, it must be—
+
+- (a) given to the officer in person,
+- (b) sent to the officer by e-mail or other means of electronic communication,
+- (c) given to the officer in person by the officer's police friend where the police friend has agreed with the vetting authority to deliver the notice or document, or
+- (d) given to the officer in any other manner agreed between the person who is required to give the notice or document and the officer.
+
+(2) Where it is not reasonably practicable to give or supply a written notice or document to the officer concerned under paragraph (1)(a) or (b) and there is no agreement under paragraph (1)(c) or (d), the written notice or document must be—
+
+- (a) left with a person at the officer’s last known address, or
+- (b) sent to the officer’s last known address by first class post by recorded delivery or other service which provides for delivery on the next working day (“by post”).
+
+(3) Where a written notice or document is sent by e-mail or other means of electronic communication, it is to be taken to have been given or supplied to the officer concerned—
+
+- (a) if the e-mail or other electronic transmission is sent on a working day before 4.30 p.m., on that day, or
+- (b) in any other case, on the next working day after the day on which it was sent.
+
+(4) Where a written notice or document is sent by post, it is to be taken to have been given or supplied to the officer concerned—
+
+- (a) on the second day after it was posted, left with, delivered to or collected by the relevant service provider, provided that day is a working day, or
+- (b)[^key-a6eebbdfcb9525e2b00ed36b7c51fbfc] in any other case, on the next working day after the day referred to in sub-paragraph (a).
+
+### 12. Criminal and other proceedings[^key-9f66291eb399a361ccd16a60a9157d76]
+
+(1) Subject to the provisions of this regulation, a withdrawal assessment must proceed without delay.
+
+(2) Before a matter may be subject to a withdrawal assessment, the vetting authority must decide whether paragraph (4) applies.
+
+(3) For any period during which the vetting authority considers paragraph (4) applies, no such withdrawal assessment may take place.
+
+(4) This paragraph applies if a withdrawal assessment would—
+
+- (a) prejudice any criminal proceedings, or
+- (b) relate to a matter which is to be or may be dealt with under—
+  - (i) the Conduct Regulations,
+  - (ii) the Performance Regulations, or
+  - (iii) Part 2 of the 2002 Act.
+
+(5) Before making a decision under paragraph (2), the vetting authority must consult—
+
+- (a) where the vetting authority is a chief officer of police—
+  - (i) any person to whom functions under regulation 14 (severity assessment) of the Conduct Regulations have been delegated, and
+  - (ii) the line manager of the officer concerned,
+- (b) where a person who is or may be a witness in any criminal proceedings is to be or may be asked to attend an interview under regulation 17(2) or an appeal meeting under regulation 29(10), the relevant prosecutor (and when doing so must inform the prosecutor of the names and addresses of all such witnesses).
+
+(6) Where the vetting authority is considering more than one matter in relation to the same police officer, paragraph (3) does not prevent a withdrawal assessment from taking place to the extent that the vetting authority considers paragraph (4) does not apply.
+
+(7) For the purposes of this regulation, “**relevant prosecutor**” means the Director of Public Prosecutions or any other person who has or is likely to have responsibility for the criminal proceedings.
+
+### 13. Duty to suspend where suspension condition met[^key-3749caa639aa3494cf0211853f3d00e5][^key-c4473413e6cade32d72a1af849bfb5ef]
+
+(1) The vetting authority must suspend the officer concerned from the office of constable and, in the case of a member of the police force, from membership of the force, if—
+
+- (a) the vetting authority is satisfied that the condition in paragraph (4) (the “suspension condition”) is met, and
+- (b) the officer is not already suspended under the Conduct Regulations.
+
+(2) An officer who is suspended under this regulation remains a police officer for the purposes of these Regulations and the Conduct Regulations.
+
+(3) Suspension under this regulation must be with pay.
+
+(4) The suspension condition is that—
+
+- (a) the withdrawal assessment may be prejudiced unless the officer concerned is suspended, or
+- (b) the public interest otherwise requires that the officer should be suspended.
+
+(5) When determining if the suspension condition is satisfied, the vetting authority must consider whether temporary redeployment to alternative duties or an alternative location is an appropriate alternative to suspension in all the circumstances of the case.
+
+(6) Suspension is effective from the date and time of notification, which must be given to the officer concerned either—
+
+- (a) in writing with a summary of the reasons, or
+- (b) orally, in which case the vetting authority must confirm the suspension in writing with a summary of the reasons before the end of the period of three working days beginning with the first working day after the suspension.
+
+(7) Suspension under this regulation must continue until whichever of the following occurs first—
+
+- (a) the vetting authority is no longer satisfied, following a review under regulation 13A, that the suspension condition is met;
+- (b) regulation 11F(2)(c) or 11G(2) of the Conduct Regulations applies (in which case the officer’s suspension continues under the Conduct Regulations);
+- (c) it is decided that the matter should not be subject to a withdrawal assessment;
+- (d) such a withdrawal assessment has concluded.
+
+### 13A. Review of suspension under regulation 13
+
+(1) The officer concerned, or the officer's police friend, may make representations against suspension under regulation 13 to the vetting authority—
+
+- (a) before the end of the period of seven working days beginning with the first working day after the officer is suspended;
+- (b) at any time during the suspension if the officer reasonably believes that circumstances relevant to the suspension condition have changed.
+
+(2) The vetting authority must review whether the suspension condition is met—
+
+- (a) on receipt of any representations under paragraph (1);
+- (b) if there has been no previous review, before the end of the period of 12 weeks beginning with the first working day after the suspension;
+- (c) in any other case—
+  - (i) when it becomes aware that circumstances relevant to the suspension condition may have changed (otherwise than by means of representations made under paragraph (1)(b));
+  - (ii) before the end of the period of 12 weeks beginning with the first working day after the previous review.
+
+(3) Where, following a review, the vetting authority remains satisfied that the suspension condition is met, it must, before the end of three working days beginning with the first working day after the review, so notify the officer concerned in writing with a summary of the reasons.
+
+(4) In this regulation, “**suspension condition**” has the same meaning as in regulation 13(1)(a).
+
+### 14. Record of withdrawal assessment[^key-53609e881854f601644b140f52b324d1]
+
+(1) The vetting authority must keep a record of each withdrawal assessment, including the decision on the outcome and the finding in any appeal by the officer concerned.
+
+(2) The vetting authority must also keep a record where the officer concerned ceases to be a police officer by resigning or retiring before the vetting authority makes its vetting severity assessment or, where there must be a withdrawal assessment, before that assessment is concluded.
+
+(3) The Secretary of State may require the vetting authority to publish, in such manner as appears to the Secretary of State to be appropriate, statistical data connected with any information recorded in accordance with paragraph (1) or (2).
+
+## Part 4 — Withdrawal assessments: procedure
+
+### 15. Vetting severity assessment[^key-7a49b7c145c18d4c7b319b1fe0174387]
+
+(A1)[^key-9d490a1e95123fed40ee1e97c012c6a9] Before proceeding in accordance with paragraph (1), the vetting authority must carry out a criminal history check in respect of the officer concerned, unless it has already done so in connection with the matter.
+
+(1) The vetting authority must assess whether the matter could reasonably lead to vetting clearance being withdrawn (“the vetting severity assessment”).
+
+(2) Where the vetting authority assesses that the matter could not reasonably lead to vetting clearance being withdrawn, it must assess whether—
+
+- (a) the matter should be referred to be dealt with under—
+  - (i) the Conduct Regulations,
+  - (ii) the Performance Regulations, or
+  - (iii) Part 2 of the 2002 Act, or
+- (b) it should take no further action.
+
+(3) Where the vetting authority is a chief officer of police, the vetting authority must consult—
+
+- (a) any person to whom functions under regulation 14 (severity assessment) of the Conduct Regulations have been delegated before making an assessment in terms of paragraph (2)(a)(i) or (iii), and
+- (b) the line manager of the officer concerned before making an assessment in terms of paragraph (2)(a)(ii).
+
+(4) Subject to regulation 12, where the vetting authority assesses that the matter could reasonably lead to vetting clearance being withdrawn, there must be a withdrawal assessment.
+
+(5) At any time prior to receiving a written report under regulation 23(1), the vetting authority may revise its vetting severity assessment under this regulation if it considers it appropriate to do so.
+
+(6) Where the vetting authority decides under this regulation to take no further action or to refer the matter to be dealt with under the Conduct Regulations, the Performance Regulations or Part 2 of the 2002 Act, it must so notify the officer concerned in writing as soon as practicable.
+
+### 16. Appointment of assessor[^key-52bf8066a330cbc5d6e1c639bace6faa]
+
+(1) This regulation applies where there must be a withdrawal assessment in accordance with regulation 15.
+
+(2) The vetting authority must appoint a person to carry out the withdrawal assessment.
+
+(3) No person may be appointed to carry out a withdrawal assessment under this regulation—
+
+- (a) unless they have an appropriate level of knowledge, skills and experience to plan and manage the withdrawal assessment,
+- (b) if they are an interested party,
+- (c) if they work, directly or indirectly, under the management of the officer concerned, or
+- (d) in a case where the officer concerned is a senior officer, if they are—
+  - (i) the chief officer of police of the police force concerned,
+  - (ii) a member of the same police force as the officer, or where the officer is a member of the metropolitan police force, serving in the same command as the officer, or
+  - (iii) a designated police volunteer serving in that force.
+
+(4) The reference in paragraph (3)(d)(ii) to a member of the same police force includes a reference to a special constable appointed for the area of that force and a police staff member serving in that force.
+
+### 17. Withdrawal assessment[^key-4be06e317a0d2a48656ab3ade29d8ab6]
+
+(1) The purpose of the withdrawal assessment is to—
+
+- (a) gather evidence to establish the facts and circumstances of the matter, and
+- (b) help the vetting authority decide whether the vetting clearance of the officer concerned should be withdrawn or whether it should not be withdrawn.
+
+(2) Subject to regulation 20, the assessor may interview witnesses as part of the withdrawal assessment.
+
+### 18. Notice of withdrawal assessment[^key-4f2f6c41f24d716ed2b61f1ad18dd430]
+
+(1) Subject to paragraph (3), the assessor must, as soon as reasonably practicable after being appointed, give the officer concerned a written notice stating—
+
+- (a) the matter that is being considered and how that matter indicates that the officer may no longer be suitable to hold vetting clearance,
+- (b) the result of the vetting severity assessment conducted under regulation 15,
+- (c) that there is to be a withdrawal assessment and the identity of the assessor,
+- (d) the potential outcomes of the withdrawal assessment,
+- (e) that the officer has the right to seek advice from the officer’s staff association,
+- (f) the effect of regulations 9, 10(1) to (3) and 19,
+- (g) that the officer has a duty to give appropriate cooperation during the withdrawal assessment, and
+- (h) that whilst the officer may take advice on whether and how to respond when interviewed or when providing any information under regulation 19(1), it may harm the officer's case if the officer does not mention something on which they later seek to rely.
+
+(2) Subject to paragraph (3), where a written notice is given under paragraph (1) and the vetting authority revises its vetting severity assessment under regulation 15(5), the vetting authority must as soon as practicable give the officer concerned a revised written notice in light of the revised vetting severity assessment.
+
+(3) The assessor must not give a written notice under paragraph (1) or (2) for so long as the assessor considers that it might prejudice the withdrawal assessment or any other investigation.
+
+(4) Any written notice given under paragraph (1) or (2) is subject to the harm test.
+
+### 19. Representations to the assessor[^key-4dd388f21c33998110ff0e5b33807d6f]
+
+(1) Before the end of the period of 10 working days beginning with the first working day after a written notice is given under regulation 18(1) or (2)—
+
+- (a) the officer concerned may provide a written or oral statement relating to the matter to the assessor, including any mitigating circumstances relevant to the matter, and
+- (b) the officer concerned or the officer’s police friend may provide to the assessor any document relating to any matter subject to the withdrawal assessment, including a document containing suggestions as to lines of inquiry to be pursued or witnesses to be interviewed.
+
+(2) The assessor must, as part of the withdrawal assessment, consider any such statement or document and must make a record of having received it.
+
+(3) The period referred to in paragraph (1) may be extended by the assessor.
+
+### 20. Interview with the officer concerned during withdrawal assessment[^key-fefb0461b8a623d2564900bc15e9b52d]
+
+(1) This regulation applies where, as part of the withdrawal assessment—
+
+- (a) the assessor wishes to interview the officer concerned, or
+- (b) the officer concerned wishes to be interviewed.
+
+(2) The assessor must, so far as reasonably practicable, agree a date and time for the interview with the officer concerned.
+
+(3) Where no date and time is agreed under paragraph (2), the assessor must specify a date and time for the interview.
+
+(4) No interview may take place until the officer concerned is given a written notice under regulation 18(1).
+
+(5) Paragraph (6) applies where—
+
+- (a) a date and time is specified under paragraph (3),
+- (b) the officer concerned or the officer’s police friend will not be available, and
+- (c) the officer concerned proposes an alternative date or time.
+
+(6) Where this paragraph applies, the interview must be postponed to the alternative date or time, provided that such alternative date or time is reasonable and falls before the end of the period of 5 working days beginning with the first working day after the date specified under paragraph (3).
+
+(7) The assessor must give the officer concerned written notice of the date, time and place of the interview.
+
+(8) The assessor must, in advance of the interview, provide the officer concerned with such information as the assessor considers appropriate in the circumstances of the case to enable the officer to prepare for the interview.
+
+(9) The officer concerned must attend the interview.
+
+(10) A police friend or a relevant lawyer must not answer any question asked of the officer concerned during the interview.
+
+### 21. Timeliness of withdrawal assessment[^key-91e3be7edc65c014f5a36beb7c62064c]
+
+(1) Subject to paragraph (3), where a withdrawal assessment is not completed within a relevant period, the assessor must provide as soon as practicable the following information in writing to the officer concerned—
+
+- (a) the progress of the withdrawal assessment,
+- (b) an estimate of when—
+  - (i) the withdrawal assessment will be concluded, and
+  - (ii) a report will be submitted under regulation 23,
+- (c) the reason for the length of time taken by the withdrawal assessment, and
+- (d) a summary of planned steps to progress the withdrawal assessment and bring it to a conclusion.
+
+(2) For the purposes of this regulation, each of the following is a “relevant period”—
+
+- (a) the first relevant period is the period of 15 working days beginning with the first working day after the written notice was given under regulation 18(1), and
+- (b) each subsequent relevant period is the period of 15 working days beginning with the day after the end of the previous relevant period.
+
+(3) The assessor must not provide information under paragraph (1) for so long as the assessor considers that it might prejudice the withdrawal assessment or any other investigation.
+
+(4) Any information provided under paragraph (1) is subject to the harm test.
+
+### 22. Discontinuation of withdrawal assessment[^key-9fc8d41f87d11b7a0588b1653831052e]
+
+(1) This regulation applies if at any time during the withdrawal assessment—
+
+- (a) there is evidence made available to the assessor that was not available to the vetting authority when it made its vetting severity assessment or any revised vetting severity assessment under regulation 15, and
+- (b) the assessor believes that the vetting authority would on further consideration be likely to determine that the matter could not reasonably lead to vetting clearance being withdrawn.
+
+(2) The assessor must, whether or not the withdrawal assessment is complete, submit to the vetting authority—
+
+- (a) a statement of the assessor’s belief and the grounds for it,
+- (b) a written report on the withdrawal assessment to that point, and
+- (c) a statement of the assessor's judgment as to how the matter should be dealt with in accordance with regulation 15(2).
+
+(3) Where a report is submitted to the vetting authority under paragraph (2), the vetting authority must make a further vetting severity assessment under regulation 15.
+
+(4) If the vetting authority assesses that the matter concerned could reasonably lead to vetting clearance being withdrawn, the assessor must continue to proceed with the withdrawal assessment that has been commenced.
+
+(5) If the vetting authority assesses that the matter concerned could not reasonably lead to vetting clearance being withdrawn—
+
+- (a) the case must be dealt with in accordance with regulation 15(2),
+- (b) the withdrawal assessment must be discontinued, and
+- (c) the vetting authority must as soon as practicable, and in addition to any notice required under regulation 15(6), give the officer concerned notice in writing that—
+  - (i) the notice given to the officer under regulation 18(1) has been withdrawn and no further action will be taken pursuant to that notice, and
+  - (ii) the withdrawal assessment has been discontinued.
+
+### 23. Report of withdrawal assessment[^key-52451dfde474f40b76f3ed53d5ac3348]
+
+(1) On completion of the withdrawal assessment, the assessor must as soon as practicable submit a written report on the withdrawal assessment to the vetting authority.
+
+(2) The written report must—
+
+- (a) provide an accurate summary of the evidence,
+- (b) attach or refer to any documents that the assessor considers relevant,
+- (c) indicate the assessor’s judgment as to whether the vetting clearance of the officer concerned should be withdrawn or whether it should not be withdrawn, and
+- (d) where the assessor’s judgment under sub-paragraph (c) is that vetting clearance should not be withdrawn, indicate the assessor’s judgment as to how the matter should be dealt with in accordance with regulation 15(2).
+
+### 24. Outcome of withdrawal assessment[^key-2e97486dc189e55ce619526797b495c9]
+
+(1) The vetting authority must, after receiving a written report under regulation 23(1)—
+
+- (a) take one of the actions mentioned in paragraph (2), or
+- (b) direct that the matter should be dealt with in accordance with regulation 15(2).
+
+(2) The actions, in relation to the vetting clearance of the officer concerned, are to—
+
+- (a) impose conditions on it,
+- (b) downgrade it with or without conditions, or
+- (c) withdraw it.
+
+(3) An officer who has had their vetting clearance withdrawn must be dismissed without notice.
+
+(4) An action referred to in paragraph (2), and any dismissal under paragraph (3), has effect from the date on which it is notified to the officer concerned.
+
+### 25. Notification of outcome[^key-d0fea2c63522f8eb463e83f0aa263547]
+
+The vetting authority must, as soon as practicable after making a decision under regulation 24(1)—
+
+- (a) notify the officer concerned of the outcome,
+- (b) subject to the harm test, send the officer concerned a copy of—
+  - (i) the written report submitted under regulation 23(1), or such parts of that report as relate to the officer, together with any document attached to or referred to in that report which relates to the officer, and
+  - (ii) any other document which might reasonably be considered to support or undermine the outcome of the withdrawal assessment, and
+- (c) where the officer concerned has had their vetting clearance withdrawn, send the officer a written notice of their dismissal and the right of appeal under regulation 26, including the name of the person to whom an appeal should be sent.
+
+### 26. Appeal from withdrawal of vetting clearance[^key-a1907cd4b40be480ea5f0be0841d4627]
+
+(1) Subject to the provisions of this regulation, the officer concerned may appeal against any decision to withdraw their vetting clearance under regulation 24.
+
+(2) The only grounds of appeal under this regulation are that—
+
+- (a) the decision was unreasonable,
+- (b) there is evidence that could not reasonably have been considered as part of the withdrawal assessment which could have materially affected the decision, or
+- (c) there was a breach of the procedures set out in these Regulations or unfairness which could have materially affected the decision.
+
+(3) An appeal under this regulation must be commenced by the officer concerned giving written notice of appeal to the vetting authority—
+
+- (a) before the end of the period of 15 working days beginning with the first working day after the outcome is notified to the officer under regulation 25, and
+- (b) stating the grounds of appeal and whether an appeal meeting is requested.
+
+(4) The vetting authority may extend the period referred to in paragraph (3)(a) for exceptional circumstances.
+
+(5) An appeal under this regulation must be determined by a panel constituted in accordance with regulation 27.
+
+(6) The vetting authority must supply the panel with a copy of—
+
+- (a) the written report submitted under regulation 23(1), together with any document attached to or referred to in that report,
+- (b) any document of a kind referred to in regulation 25(b)(ii),
+- (c) the notice of appeal given by the officer concerned under paragraph (3), and
+- (d) any evidence of a kind referred to in paragraph (2)(b) that the officer wishes to submit in support of the appeal.
+
+(7) The panel must determine whether the notice of appeal sets out arguable grounds of appeal and, if they decide that it does not, they must dismiss the appeal.
+
+### 27. Persons conducting appeal[^key-abf549927c555d0e7472697738d2e007]
+
+(1) A panel must comprise a chair and two other members.
+
+(2) The panel chair—
+
+- (a) where the officer concerned is an officer other than a senior officer, must be the chief officer of police of the police force concerned, or
+- (b) where the officer concerned is a senior officer, must be HMCIC or an inspector of constabulary nominated by HMCIC.
+
+(3) The second panel member must be appointed by the local policing body and—
+
+- (a) have qualifications or experience relevant for the purpose of withdrawal assessments,
+- (b) be selected on a fair and transparent basis from the list of candidates with such qualifications or experience maintained by the local policing body for the purpose of this sub-paragraph, and
+- (c) be a lay person, within the meaning set out in paragraph 10(aa) of Schedule 6 to the 1996 Act (interpretation)[^f00010].
+
+(4) The third panel member must be appointed by the vetting authority and be—
+
+- (a) a senior officer, or
+- (b) unless paragraph (5) applies, a police staff member who, in the opinion of the vetting authority, is of at least a similar level of seniority to a senior officer.
+
+(5) This paragraph applies if responsibility for chairing the panel has been delegated to a former senior officer or a police staff member in accordance with regulation 3(3)(b) or (c).
+
+(6) No panel member may be an interested party.
+
+(7) A chief officer of police who is required to chair a panel under paragraph (2) and who is an interested party must, without delay, delegate responsibility for chairing the panel to another person in accordance with regulation 3(3).
+
+(8) Any decision of the panel must be based on a majority but must not indicate whether it was taken unanimously or by a majority.
+
+### 28. Objections to persons conducting appeal[^key-919f84ae58cb5ce6277c457689ea0e85]
+
+(1) Where a panel is constituted in accordance with regulation 27, the vetting authority must as soon as practicable give the officer concerned written notice of the names of the panel members and the effect of paragraphs (4) to (7) of this regulation.
+
+(2) Where the chief officer of police of the police force concerned delegates responsibility for chairing a panel to another person in accordance with regulation 3(3), the chief officer must as soon as practicable give the officer concerned written notice of the name of that person and the effect of paragraphs (4) to (7) of this regulation.
+
+(3) Where a person is appointed to advise a panel chair in accordance with regulation 10(5), the vetting authority must as soon as practicable give the officer concerned written notice of the name of that person and the effect of paragraphs (4) to (7) of this regulation.
+
+(4) The officer concerned may object to any person who is notified to them under the proceeding provisions of this regulation.
+
+(5) Any such objection must—
+
+- (a) be made in writing to—
+  - (i) the local policing body, where the objection is to a person appointed by that body,
+  - (ii) the chief officer of police of the police force concerned, where the objection is to a person to whom responsibility has been delegated under regulation 3(3), or
+  - (iii) the vetting authority in all other cases,
+- (b) be made before the end of 3 working days beginning with the first working day after the officer concerned is given notice of the person's name, and
+- (c) set out the grounds of objection of the officer concerned.
+
+(6) The person to whom the objection is made must as soon as practicable notify the officer concerned in writing whether it upholds or rejects the objection.
+
+(7) If the person to whom the objection is made upholds the objection, the person to whom the officer concerned objects must as soon as practicable be replaced in accordance with paragraph (8) or regulation 10(5) or 27 (as appropriate).
+
+(8) Where the panel chair is the chief officer of police of the police force concerned and an objection is upheld against them, the chief officer must delegate responsibility for chairing the panel to another person in accordance with regulation 3(3).
+
+(9) The vetting authority must, as soon as practicable after the person to whom the officer concerned objects is replaced, give the officer concerned written notice of the name of the replacement and the effect of paragraphs (10) and (11) of this regulation.
+
+(10) The officer concerned may object to the replacement.
+
+(11) In relation to an objection under paragraph (10) of this regulation—
+
+- (a) paragraph (5) applies except in so far as it specifies the period of time for making an objection,
+- (b) the objection must be made before the end of the period of 3 working days beginning with the first working day after the officer concerned is given the notice referred to in paragraph (9), and
+- (c) paragraphs (6) to (9) apply, with the exception of the requirement in paragraph (9) for the vetting authority to give written notice of the effects of paragraphs (10) and (11).
+
+### 29. Appeal meeting[^key-5502a2b165410fd6e0b8f443dafc5955]
+
+(1) This regulation applies where the officer concerned requests an appeal meeting in the written notice of appeal under regulation 26(3).
+
+(2) If the panel determines under regulation 26(7) that the notice of appeal sets out arguable grounds of appeal, the panel must hold an appeal meeting with the officer concerned, subject to paragraphs (3) and (6), before the end of the period of 5 working days beginning with the first working day after that determination.
+
+(3) The panel may extend the period referred to in paragraph (2) where they consider that it would be in the interests of justice to do so.
+
+(4) The panel must specify a date and time for the appeal meeting.
+
+(5) Paragraph (6) applies where—
+
+- (a) a date and time is specified under paragraph (4),
+- (b) the officer concerned or the officer’s police friend will not be available, and
+- (c) the officer concerned proposes an alternative date or time.
+
+(6) Where this paragraph applies, the appeal meeting must be postponed to the alternative date or time, provided that such alternative date or time is reasonable and falls before the end of the period of 5 working days beginning with the first working day after the date specified by the panel.
+
+(7) The vetting authority must give the officer concerned written notice of the date, time and place of the appeal meeting.
+
+(8) The appeal meeting must not be held until the panel have received a copy of the documents required under regulation 26(6).
+
+(9) The panel must determine the procedure at the appeal meeting and, in so far as it is set out in these Regulations, must determine it in accordance with these Regulations.
+
+(10) No witness may give evidence at an appeal meeting unless the panel reasonably believes that it is necessary for the witness to do so in the interests of justice, in which case the panel must—
+
+- (a) where the witness is a police officer, cause that person to be ordered to attend the appeal meeting, and
+- (b) in any other case, cause the witness to be given notice that their attendance is necessary and of the date, time and place of the appeal meeting.
+
+(11) The appeal meeting must be held in private.
+
+### 30. Finding of the appeal[^key-b770380aa1a8626e011a501f4d4d45c8]
+
+(1) The panel may—
+
+- (a) confirm or reverse the decision appealed against, and
+- (b) where the panel reverses the decision appealed against, deal with the officer concerned in any manner in which the vetting authority could have dealt with the officer under regulation 24.
+
+(2) The panel must give a summary of the reasons for its determination.
+
+(3) Where the panel reverses the decision appealed against, the summary required under paragraph (2) must include a statement of the panel’s opinion as to how any risks identified as part of the withdrawal assessment should be managed.
+
+(4) Before the end of the period of 3 working days beginning with the first working day after the panel’s determination, the vetting authority must give the officer concerned—
+
+- (a) written notice of the panel’s determination,
+- (b) a copy of the summary required under paragraph (2), and
+- (c) where the panel confirms the decision appealed against, written notice of the right of appeal to a police appeals tribunal.
+
+(5) The decision of the panel takes effect by way of substitution for the decision of the vetting authority and as from the date on which the outcome was notified to the officer concerned under regulation 25.
+
+## Part 5 — Police appeals tribunals
+
+### 31. Amendment of the Police Appeals Tribunal Rules 2020[^key-036363aa3a57df5a8fa549dd3504c1d2]
+
+(1) The Police Appeals Tribunals Rules 2020[^f00011] are amended as follows.
+
+(2) In rule 3 (interpretation and general provision as to written notices or documents)—
+
+- (a) after the definition of “the Performance Regulations” insert—
+
+  > - “**the Vetting Regulations**” means the Police (Vetting) Regulations 2025;
+
+  ,
+- (b) after the definition of “disciplinary action” insert—
+
+  > - “**original appeal**” means, in relation to a decision which is being appealed to a tribunal in accordance with rule 5A, the appeal to the panel which made the relevant decision;
+
+  ,
+- (c) in the definition of “original hearing”, after “means” insert “, in relation to a decision which is being appealed to a tribunal in accordance with rule 4, 5 or 6”,
+- (d) in the definition of “relevant decision”, after “5” insert “, 5A”, and
+- (e) in paragraph (2), for “or the Performance Regulations” substitute “, the Performance Regulations or the Vetting Regulations”.
+
+(3) After rule 5 (circumstances in which a police officer may appeal to a tribunal – Performance Regulations) insert—
+
+> **5A. Circumstances in which a police officer may appeal to a tribunal – Vetting Regulations**
+>
+> (1) A police officer may appeal to a tribunal in reliance on one or more of the grounds of appeal referred to in paragraph (2) against any decision under regulation 30 of the Vetting Regulations to confirm a decision to withdraw their vetting clearance.
+>
+> (2) The grounds of appeal under this rule are—
+>
+> - (a) that the decision was unreasonable;
+> - (b) that there is evidence that could not reasonably have been considered as part of the withdrawal assessment which could have materially affected the decision, or
+> - (c) that there was a breach of the procedures set out in the Vetting Regulations or unfairness which could have materially affected the decision.
+
+.
+
+(4) In rule 9 (notice of appeal), in paragraph (3), at the beginning, for “The” substitute “Where the officer or former officer wishes to appeal to the tribunal in accordance with rule 4, 5 or 6, the”.
+
+(5) In rule 13 (procedure on notice of appeal)—
+
+- (a) in paragraph (3)(a)—
+  - (i) after “original hearing” insert “or original appeal”,
+  - (ii) for “Conduct Regulations or” substitute “Conduct Regulations,”, and
+  - (iii) at the end, insert “or regulation 30(4) of the Vetting Regulations”,
+- (b) in paragraph (3)(b), at the end, insert “or original appeal”,
+- (c) in paragraph (6)—
+  - (i) in sub-paragraph (a), after “5(6)(b)” insert “, 5A(2)(b)”, and
+  - (ii) in sub-paragraph (b), in paragraph (ii), after “original hearing” insert “or as part of the original appeal”, and
+- (d) in paragraph (10)—
+  - (i) in sub-paragraph (a), after “5(6)(b)” insert “, 5A(2)(b)”, and
+  - (ii) in sub-paragraph (b), in paragraph (i), after “5(6)(b)” insert “, 5A(2)(b)”.
+
+(6) In rule 22 (attendance at hearing)—
+
+- (a) after paragraph (2) insert—
+
+  > (2A) Subject to paragraph (3), the hearing of an appeal brought in accordance with rule 5A must be held in private.
+
+  , and
+- (b) in paragraph (3), after “rule 5” insert “or 5A”.
+
+(7) In rule 26 (statement of tribunal’s determination)—
+
+- (a) in paragraph (2)—
+  - (i) after “rule 5(6)(b) or (c)” insert “, rule 5A(2)(b) or (c)”, and
+  - (ii) for “or the Performance Regulations” substitute “, the Performance Regulations or the Vetting Regulations”,
+- (b) in paragraph (3), for “or the Performance Regulations” substitute “, the Performance Regulations or the Vetting Regulations”, and
+- (c) in paragraph (17), at the end, insert “or rule 5A”.
+
+Diana Johnson
+
+Minister of State
+
+22nd April 2025
+
+Home Office
+
+## Schedule — Listed offences[^key-3d7226b7239d57e2ade68b9c4d292c15]
+
+Regulation 2(1)
+
+**1.** An offence under section 160 of the Criminal Justice Act 1988 (possession of indecent photograph of child).
+
+**2.** An offence under section 63CA of the Family Law Act 1996 (forced marriage: offence of breaching order).
+
+**3.** An offence under either of the following provisions of the Protection from Harassment Act 1997—
+
+- (a) section 2A (offence of stalking);
+- (b) section 4A (offence of stalking involving fear of violence or serious alarm or distress).
+
+**4.** An offence under the Female Genital Mutilation Act 2003.
+
+**5.** An offence under any of the following provisions of the Sexual Offences Act 2003—
+
+- (a) Part 1 (sexual offences);
+- (b) section 103I (offence: breach of SHPO or interim SHPO etc.);
+- (c) section 122H (offence: breach of sexual risk order or interim sexual risk order etc.);
+- (d) Schedule 3 (sexual offences for the purposes of Part 2).
+
+**6.** An offence under section 121 of the Anti-social Behaviour, Crime and Policing Act 2014 (offence of forced marriage: England and Wales).
+
+**7.** An offence under any of the following provisions of the Criminal Justice and Courts Act 2015—
+
+- (a) section 33 (disclosing, or threatening to disclose, private sexual photographs and films with intent to cause distress), as in force before it was repealed by section 190 of the Online Safety Act 2023;
+- (b) section 36 (meeting a child following sexual grooming etc.);
+- (c) section 37 (possession of pornographic images of rape and assault by penetration respectively).
+
+**8.** An offence under Part 5 of the Serious Crime Act 2015 (protection of children and others).
+
+**9.** An offence under section 8 of the Stalking Protection Act 2019 (offence of breaching stalking protection order etc.).
+
+**10.** An offence under either of the following provisions of the Domestic Abuse Act 2021—
+
+- (a) section 39 (breach of a domestic abuse protection order);
+- (b) section 69 (threats to disclose private sexual photographs).
+
+Explanatory Note
+
+(This note is not part of the Regulations)
+
+These Regulations make provision for the vetting of police officers. They require every police officer to hold and maintain vetting clearance. They also establish a procedure for withdrawing vetting clearance where there is evidence that a police officer may no longer be suitable to hold it. The Regulations are connected to the Police (Performance) Regulations 2020 ([S.I. 2020/3](https://www.legislation.gov.uk/uksi/2020/3)), which concern unsatisfactory performance or attendance or gross incompetence, and the Police (Conduct) Regulations 2020 ([S.I. 2020/4](https://www.legislation.gov.uk/uksi/2020/4)), which concern internal conduct matters.
+
+Part 1 contains preliminary provisions, including interpretive provisions. The term “vetting clearance” is defined as the level of police vetting clearance that a police officer requires to perform the duties of their particular role.
+
+Part 2 deals with vetting clearance generally. Regulation 5 sets out the duty for every police officer to hold and maintain vetting clearance. Regulation 6 provides for the termination of a police officer’s vetting clearance at the point at which they cease to be a police officer. Regulation 7 establishes a duty for chief officers and local policing bodies to keep a record of applications for vetting clearance from police officers.
+
+Part 3 deals with withdrawal assessments generally, including such matters as legal representation and the provision of notices. Regulation 13 allows a vetting authority to suspend a police officer under the Regulations where certain conditions are met.
+
+Part 4 deals with the procedure for withdrawal assessments. Regulation 15 provides for the vetting authority to make a vetting severity assessment in relation to the matter that has come to its attention. Regulation 16 requires the vetting authority to appoint an assessor where the vetting severity assessment indicates that a withdrawal assessment must be carried out. Regulation 19 provides that the officer concerned may make representations to the assessor and regulation 20 provides that the assessor may require the officer concerned to attend an interview. Regulation 24 provides for the vetting authority to decide the outcome of the withdrawal assessment once the assessor has made their final written report and recommendation. If a police officer has their vetting clearance withdrawn then they must be dismissed without notice. In those circumstances, regulation 26 provides that the officer may appeal to a panel of three persons with the power to confirm or reverse the decision appealed against.
+
+Part 5 amends the Police Appeals Tribunals Rules 2020 ([S.I. 2020/1](https://www.legislation.gov.uk/uksi/2020/1)) to ensure that a police officer who is dismissed under these Regulations has a right of appeal to a police appeals tribunal.
+
+A full impact assessment has not been produced for this instrument as no, or no significant, impact on the private, voluntary or public sector is foreseen.
+
+## Annotations
+
+[^f00001]: Footnote: [1996 c. 16](https://www.legislation.gov.uk/ukpga/1996/16). Section 50(2A) was inserted by section 82(12) of the Police Reform and Social Responsibility Act [2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13) (“**the 2011 Act**”). Section 50(4) was amended by paragraphs 1 and 3 of Schedule 22 to the Criminal Justice and Immigration Act [2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4) (“**the 2008 Act**”) and by paragraphs 1 and 32 of Schedule 16 to the 2011 Act. Section 51(2)(ba) was inserted by section 35 of the Police Reform Act [2002 (c. 30)](https://www.legislation.gov.uk/ukpga/2002/30) and amended by paragraphs 1 and 4(2) of Schedule 22 to the 2008 Act. Section 51(3A) was inserted by section 128(1) of the Police Act [1997 (c. 50)](https://www.legislation.gov.uk/ukpga/1997/50) and amended by paragraphs 1 and 33 of Schedule 16 to the 2011 Act. Section 85 was substituted by paragraphs 1 and 8 of Schedule 22 to the 2008 Act and amended by section 29(1) and (5) of the Policing and Crime Act [2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3) (“**the 2017 Act**”). Paragraph 2A of Schedule 6 was inserted by section 31 of the 2017 Act. There are other amendments to sections 50 and 51, but none are relevant.
+
+[^f00002]: Footnote: Section 63(3)(a) was substituted by paragraph 78(3) of Schedule 4 to the Serious Organised Crime and Police Act [2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15). There are other amendments to section 63, but none are relevant.
+
+[^key-41abbec92b8e022898bc1f717699c832]: Commencement: Reg. 1 in force at 14.5.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/502/regulation/1/1)
+
+[^key-effa48aefdbe3611bdbf031e40ba4847]: Commencement: Reg. 2 in force at 14.5.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/502/regulation/1/1)
+
+[^f00003]: Footnote: [2002 c. 30](https://www.legislation.gov.uk/ukpga/2002/30).
+
+[^f00004]: Footnote: [2011 c. 13](https://www.legislation.gov.uk/ukpga/2011/13).
+
+[^f00005]: Footnote: 2&3 Vict. C. xciv.
+
+[^f00006]: Footnote: [S.I. 2020/4](https://www.legislation.gov.uk/uksi/2020/4).
+
+[^key-f24d8184330031ee759f800da20ce92a]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/502/regulation/2/1) inserted (13.7.2026) by [The Police (Conduct and Vetting etc.) (Amendment) Regulations 2026 (S.I. 2026/653)](https://www.legislation.gov.uk/uksi/2026/653), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/653/regulation/1/1), [11(1)(a)](https://www.legislation.gov.uk/uksi/2026/653/regulation/11/1/a) (with [reg. 28](https://www.legislation.gov.uk/uksi/2026/653/regulation/28))
+
+[^f00007]: Footnote: Subsection (1A) was inserted by section 38(2) of the Policing and Crime Act [2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3).
+
+[^key-962c25c0efef79aea09b273e695ae30c]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/502/regulation/2/1) inserted (13.7.2026) by [The Police (Conduct and Vetting etc.) (Amendment) Regulations 2026 (S.I. 2026/653)](https://www.legislation.gov.uk/uksi/2026/653), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/653/regulation/1/1), [11(1)(b)](https://www.legislation.gov.uk/uksi/2026/653/regulation/11/1/b) (with [reg. 28](https://www.legislation.gov.uk/uksi/2026/653/regulation/28))
+
+[^f00008]: Footnote: [S.I. 2020/3](https://www.legislation.gov.uk/uksi/2020/3).
+
+[^key-31bbddbd76774ea03f327f9a22280d71]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/502/regulation/2/1) inserted (13.7.2026) by [The Police (Conduct and Vetting etc.) (Amendment) Regulations 2026 (S.I. 2026/653)](https://www.legislation.gov.uk/uksi/2026/653), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/653/regulation/1/1), [11(1)(c)](https://www.legislation.gov.uk/uksi/2026/653/regulation/11/1/c) (with [reg. 28](https://www.legislation.gov.uk/uksi/2026/653/regulation/28))
+
+[^key-3ceb0430f50932c5b36f2c557af7a993]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/502/regulation/2/1) substituted (13.7.2026) by [The Police (Conduct and Vetting etc.) (Amendment) Regulations 2026 (S.I. 2026/653)](https://www.legislation.gov.uk/uksi/2026/653), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/653/regulation/1/1), [11(1)(d)](https://www.legislation.gov.uk/uksi/2026/653/regulation/11/1/d) (with [reg. 28](https://www.legislation.gov.uk/uksi/2026/653/regulation/28))
+
+[^key-f161d9754145d41fcb25cb5f8306f714]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/502/regulation/2/1) inserted (13.7.2026) by [The Police (Conduct and Vetting etc.) (Amendment) Regulations 2026 (S.I. 2026/653)](https://www.legislation.gov.uk/uksi/2026/653), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/653/regulation/1/1), [11(1)(e)](https://www.legislation.gov.uk/uksi/2026/653/regulation/11/1/e) (with [reg. 28](https://www.legislation.gov.uk/uksi/2026/653/regulation/28))
+
+[^key-24f7f05b4591a58c55ee5aceee6f94b0]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/502/regulation/2/1) inserted (13.7.2026) by [The Police (Conduct and Vetting etc.) (Amendment) Regulations 2026 (S.I. 2026/653)](https://www.legislation.gov.uk/uksi/2026/653), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/653/regulation/1/1), [11(1)(f)](https://www.legislation.gov.uk/uksi/2026/653/regulation/11/1/f) (with [reg. 28](https://www.legislation.gov.uk/uksi/2026/653/regulation/28))
+
+[^key-0f0e125c7af35a2621f23c85ce6be81a]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/502/regulation/2/1) inserted (13.7.2026) by [The Police (Conduct and Vetting etc.) (Amendment) Regulations 2026 (S.I. 2026/653)](https://www.legislation.gov.uk/uksi/2026/653), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/653/regulation/1/1), [11(1)(g)](https://www.legislation.gov.uk/uksi/2026/653/regulation/11/1/g) (with [reg. 28](https://www.legislation.gov.uk/uksi/2026/653/regulation/28))
+
+[^key-62fa0b41e9ee7036fc43b377c00496a1]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/502/regulation/2/1) omitted (13.7.2026) by virtue of [The Police (Conduct and Vetting etc.) (Amendment) Regulations 2026 (S.I. 2026/653)](https://www.legislation.gov.uk/uksi/2026/653), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/653/regulation/1/1), [11(1)(h)](https://www.legislation.gov.uk/uksi/2026/653/regulation/11/1/h) (with [reg. 28](https://www.legislation.gov.uk/uksi/2026/653/regulation/28))
+
+[^key-2ec23e400c683ff5c9d5e92b9d755c4b]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/502/regulation/2/1) substituted (13.7.2026) by [The Police (Conduct and Vetting etc.) (Amendment) Regulations 2026 (S.I. 2026/653)](https://www.legislation.gov.uk/uksi/2026/653), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/653/regulation/1/1), [11(1)(i)](https://www.legislation.gov.uk/uksi/2026/653/regulation/11/1/i) (with [reg. 28](https://www.legislation.gov.uk/uksi/2026/653/regulation/28))
+
+[^f00009]: Footnote: [1971 c. 80](https://www.legislation.gov.uk/ukpga/1971/80).
+
+[^key-2020c2591de87ae183da84fcdb5d18f4]: Textual amendment: [Reg. 2(2)](https://www.legislation.gov.uk/uksi/2025/502/regulation/2/2) inserted (13.7.2026) by [The Police (Conduct and Vetting etc.) (Amendment) Regulations 2026 (S.I. 2026/653)](https://www.legislation.gov.uk/uksi/2026/653), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/653/regulation/1/1), [11(2)](https://www.legislation.gov.uk/uksi/2026/653/regulation/11/2) (with [reg. 28](https://www.legislation.gov.uk/uksi/2026/653/regulation/28))
+
+[^key-b696c1abc2c4e832db65c5481c1f0f93]: Commencement: Reg. 3 in force at 14.5.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/502/regulation/1/1)
+
+[^key-36c72df27719afb17977246191960800]: Textual amendment: [Reg. 3(A1)](https://www.legislation.gov.uk/uksi/2025/502/regulation/3/A1)[(B1)](https://www.legislation.gov.uk/uksi/2025/502/regulation/3/B1) inserted (13.7.2026) by [The Police (Conduct and Vetting etc.) (Amendment) Regulations 2026 (S.I. 2026/653)](https://www.legislation.gov.uk/uksi/2026/653), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/653/regulation/1/1), [12(1)](https://www.legislation.gov.uk/uksi/2026/653/regulation/12/1) (with [reg. 28](https://www.legislation.gov.uk/uksi/2026/653/regulation/28))
+
+[^key-82c9e31bc9e4236e3e1d43222c990e11]: Textual amendment: [Reg. 3(1)](https://www.legislation.gov.uk/uksi/2025/502/regulation/3/1) substituted (13.7.2026) by [The Police (Conduct and Vetting etc.) (Amendment) Regulations 2026 (S.I. 2026/653)](https://www.legislation.gov.uk/uksi/2026/653), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/653/regulation/1/1), [12(2)](https://www.legislation.gov.uk/uksi/2026/653/regulation/12/2) (with [reg. 28](https://www.legislation.gov.uk/uksi/2026/653/regulation/28))
+
+[^key-5078afebffa63fb76a5cef0a6c345303]: Textual amendment: Words in [reg. 3(2)](https://www.legislation.gov.uk/uksi/2025/502/regulation/3/2) substituted (13.7.2026) by [The Police (Conduct and Vetting etc.) (Amendment) Regulations 2026 (S.I. 2026/653)](https://www.legislation.gov.uk/uksi/2026/653), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/653/regulation/1/1), [12(3)(a)](https://www.legislation.gov.uk/uksi/2026/653/regulation/12/3/a) (with [reg. 28](https://www.legislation.gov.uk/uksi/2026/653/regulation/28))
+
+[^key-70163071c29fcaca48e99d2cf96efc48]: Textual amendment: [Reg. 3(2)(a)](https://www.legislation.gov.uk/uksi/2025/502/regulation/3/2/a) substituted (13.7.2026) by [The Police (Conduct and Vetting etc.) (Amendment) Regulations 2026 (S.I. 2026/653)](https://www.legislation.gov.uk/uksi/2026/653), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/653/regulation/1/1), [12(3)(b)](https://www.legislation.gov.uk/uksi/2026/653/regulation/12/3/b) (with [reg. 28](https://www.legislation.gov.uk/uksi/2026/653/regulation/28))
+
+[^key-de97959206b8dfdb7100b47caae5e583]: Commencement: Reg. 4 in force at 14.5.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/502/regulation/1/1)
+
+[^key-a8ffdcba398ec4254d6932f3fa07fc5b]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/uksi/2025/502/regulation/4/1) substituted (13.7.2026) by [The Police (Conduct and Vetting etc.) (Amendment) Regulations 2026 (S.I. 2026/653)](https://www.legislation.gov.uk/uksi/2026/653), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/653/regulation/1/1), [13](https://www.legislation.gov.uk/uksi/2026/653/regulation/13) (with [reg. 28](https://www.legislation.gov.uk/uksi/2026/653/regulation/28))
+
+[^key-d560408db3316b0d580359d37358bfb5]: Textual amendment: [Reg. 4A](https://www.legislation.gov.uk/uksi/2025/502/regulation/4A) inserted (13.7.2026) by [The Police (Conduct and Vetting etc.) (Amendment) Regulations 2026 (S.I. 2026/653)](https://www.legislation.gov.uk/uksi/2026/653), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/653/regulation/1/1), [14](https://www.legislation.gov.uk/uksi/2026/653/regulation/14) (with [reg. 28](https://www.legislation.gov.uk/uksi/2026/653/regulation/28))
+
+[^key-d4e537039b72b36fee83ab01f62cda0f]: Textual amendment: [Pt. 1A](https://www.legislation.gov.uk/uksi/2025/502/part/1A) inserted (13.7.2026) by [The Police (Conduct and Vetting etc.) (Amendment) Regulations 2026 (S.I. 2026/653)](https://www.legislation.gov.uk/uksi/2026/653), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/653/regulation/1/1), [15](https://www.legislation.gov.uk/uksi/2026/653/regulation/15) (with [reg. 28](https://www.legislation.gov.uk/uksi/2026/653/regulation/28))
+
+[^key-7dd89e36c2b51893d11b9c83536d830c]: Commencement: Reg. 5 in force at 14.5.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/502/regulation/1/1)
+
+[^key-07c992be248a4d5be96709fcd8afc614]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/uksi/2025/502/regulation/5) renumbered as reg. 5(1) (13.7.2026) by [The Police (Conduct and Vetting etc.) (Amendment) Regulations 2026 (S.I. 2026/653)](https://www.legislation.gov.uk/uksi/2026/653), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/653/regulation/1/1), [16(2)](https://www.legislation.gov.uk/uksi/2026/653/regulation/16/2) (with [reg. 28](https://www.legislation.gov.uk/uksi/2026/653/regulation/28))
+
+[^key-dfffe9b818590779d05c2db61ed37f63]: Textual amendment: Words in [reg. 5(1)(b)](https://www.legislation.gov.uk/uksi/2025/502/regulation/5/1/b) inserted (13.7.2026) by [The Police (Conduct and Vetting etc.) (Amendment) Regulations 2026 (S.I. 2026/653)](https://www.legislation.gov.uk/uksi/2026/653), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/653/regulation/1/1), [16(3)](https://www.legislation.gov.uk/uksi/2026/653/regulation/16/3) (with [reg. 28](https://www.legislation.gov.uk/uksi/2026/653/regulation/28))
+
+[^key-84a493ac651e42fae4ec1d18c7bee2ff]: Textual amendment: [Reg. 5(2)](https://www.legislation.gov.uk/uksi/2025/502/regulation/5/2) inserted (13.7.2026) by [The Police (Conduct and Vetting etc.) (Amendment) Regulations 2026 (S.I. 2026/653)](https://www.legislation.gov.uk/uksi/2026/653), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/653/regulation/1/1), [16(4)](https://www.legislation.gov.uk/uksi/2026/653/regulation/16/4) (with [reg. 28](https://www.legislation.gov.uk/uksi/2026/653/regulation/28))
+
+[^key-6f26517b7d9676e96f52f30de41b5921]: Textual amendment: [Regs. 5A-5F](https://www.legislation.gov.uk/uksi/2025/502/regulation/5A) inserted (13.7.2026) by [The Police (Conduct and Vetting etc.) (Amendment) Regulations 2026 (S.I. 2026/653)](https://www.legislation.gov.uk/uksi/2026/653), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/653/regulation/1/1), [17](https://www.legislation.gov.uk/uksi/2026/653/regulation/17) (with [reg. 28](https://www.legislation.gov.uk/uksi/2026/653/regulation/28))
+
+[^key-9f023b98731ff65c5dd2caab89fbb987]: Commencement: Reg. 6 in force at 14.5.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/502/regulation/1/1)
+
+[^key-d84e7c83ffddc8b4bd0ec75899cd20fe]: Commencement: Reg. 7 in force at 14.5.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/502/regulation/1/1)
+
+[^key-9dec6bcad5149902ad938b05335da7e7]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/uksi/2025/502/regulation/7) substituted (13.7.2026) by [The Police (Conduct and Vetting etc.) (Amendment) Regulations 2026 (S.I. 2026/653)](https://www.legislation.gov.uk/uksi/2026/653), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/653/regulation/1/1), [18](https://www.legislation.gov.uk/uksi/2026/653/regulation/18) (with [reg. 28](https://www.legislation.gov.uk/uksi/2026/653/regulation/28))
+
+[^key-66a341d4c3d51889143d05e0e5c50011]: Commencement: Reg. 8 in force at 14.5.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/502/regulation/1/1)
+
+[^key-0a899c949bf7e84d5f2380b1dd9202ce]: Commencement: Reg. 9 in force at 14.5.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/502/regulation/1/1)
+
+[^key-78687e8692bd1d47a4b808c83c80d616]: Commencement: Reg. 10 in force at 14.5.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/502/regulation/1/1)
+
+[^key-d1043f19d4cd8f537c83004ecd6bd799]: Commencement: Reg. 11 in force at 14.5.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/502/regulation/1/1)
+
+[^key-a6eebbdfcb9525e2b00ed36b7c51fbfc]: Textual amendment: [Reg. 11(4)(b)](https://www.legislation.gov.uk/uksi/2025/502/regulation/11/4/b) substituted (13.7.2026) by [The Police (Conduct and Vetting etc.) (Amendment) Regulations 2026 (S.I. 2026/653)](https://www.legislation.gov.uk/uksi/2026/653), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/653/regulation/1/1), [19](https://www.legislation.gov.uk/uksi/2026/653/regulation/19) (with [reg. 28](https://www.legislation.gov.uk/uksi/2026/653/regulation/28))
+
+[^key-9f66291eb399a361ccd16a60a9157d76]: Commencement: Reg. 12 in force at 14.5.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/502/regulation/1/1)
+
+[^key-3749caa639aa3494cf0211853f3d00e5]: Commencement: Reg. 13 in force at 14.5.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/502/regulation/1/1)
+
+[^key-c4473413e6cade32d72a1af849bfb5ef]: Textual amendment: Regs. 13, 13A substituted for reg. 13 (13.7.2026) by [The Police (Conduct and Vetting etc.) (Amendment) Regulations 2026 (S.I. 2026/653)](https://www.legislation.gov.uk/uksi/2026/653), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/653/regulation/1/1), [20](https://www.legislation.gov.uk/uksi/2026/653/regulation/20) (with [reg. 28](https://www.legislation.gov.uk/uksi/2026/653/regulation/28))
+
+[^key-53609e881854f601644b140f52b324d1]: Commencement: Reg. 14 in force at 14.5.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/502/regulation/1/1)
+
+[^key-7a49b7c145c18d4c7b319b1fe0174387]: Commencement: Reg. 15 in force at 14.5.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/502/regulation/1/1)
+
+[^key-9d490a1e95123fed40ee1e97c012c6a9]: Textual amendment: [Reg. 15(A1)](https://www.legislation.gov.uk/uksi/2025/502/regulation/15/A1) inserted (13.7.2026) by [The Police (Conduct and Vetting etc.) (Amendment) Regulations 2026 (S.I. 2026/653)](https://www.legislation.gov.uk/uksi/2026/653), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/653/regulation/1/1), [21](https://www.legislation.gov.uk/uksi/2026/653/regulation/21) (with [reg. 28](https://www.legislation.gov.uk/uksi/2026/653/regulation/28))
+
+[^key-52bf8066a330cbc5d6e1c639bace6faa]: Commencement: Reg. 16 in force at 14.5.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/502/regulation/1/1)
+
+[^key-4be06e317a0d2a48656ab3ade29d8ab6]: Commencement: Reg. 17 in force at 14.5.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/502/regulation/1/1)
+
+[^key-4f2f6c41f24d716ed2b61f1ad18dd430]: Commencement: Reg. 18 in force at 14.5.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/502/regulation/1/1)
+
+[^key-4dd388f21c33998110ff0e5b33807d6f]: Commencement: Reg. 19 in force at 14.5.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/502/regulation/1/1)
+
+[^key-fefb0461b8a623d2564900bc15e9b52d]: Commencement: Reg. 20 in force at 14.5.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/502/regulation/1/1)
+
+[^key-91e3be7edc65c014f5a36beb7c62064c]: Commencement: Reg. 21 in force at 14.5.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/502/regulation/1/1)
+
+[^key-9fc8d41f87d11b7a0588b1653831052e]: Commencement: Reg. 22 in force at 14.5.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/502/regulation/1/1)
+
+[^key-52451dfde474f40b76f3ed53d5ac3348]: Commencement: Reg. 23 in force at 14.5.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/502/regulation/1/1)
+
+[^key-2e97486dc189e55ce619526797b495c9]: Commencement: Reg. 24 in force at 14.5.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/502/regulation/1/1)
+
+[^key-d0fea2c63522f8eb463e83f0aa263547]: Commencement: Reg. 25 in force at 14.5.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/502/regulation/1/1)
+
+[^key-a1907cd4b40be480ea5f0be0841d4627]: Commencement: Reg. 26 in force at 14.5.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/502/regulation/1/1)
+
+[^key-abf549927c555d0e7472697738d2e007]: Commencement: Reg. 27 in force at 14.5.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/502/regulation/1/1)
+
+[^f00010]: Footnote: Paragraph 10(aa) was inserted by section 31(5)(a) of the Policing and Crime Act [2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3).
+
+[^key-919f84ae58cb5ce6277c457689ea0e85]: Commencement: Reg. 28 in force at 14.5.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/502/regulation/1/1)
+
+[^key-5502a2b165410fd6e0b8f443dafc5955]: Commencement: Reg. 29 in force at 14.5.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/502/regulation/1/1)
+
+[^key-b770380aa1a8626e011a501f4d4d45c8]: Commencement: Reg. 30 in force at 14.5.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/502/regulation/1/1)
+
+[^key-036363aa3a57df5a8fa549dd3504c1d2]: Commencement: Reg. 31 in force at 14.5.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/502/regulation/1/1)
+
+[^f00011]: Footnote: [S.I. 2020/1](https://www.legislation.gov.uk/uksi/2020/1), to which there are amendments not relevant to these Regulations.
+
+[^key-3d7226b7239d57e2ade68b9c4d292c15]: Textual amendment: [Sch.](https://www.legislation.gov.uk/uksi/2025/502/schedule) inserted (13.7.2026) by [The Police (Conduct and Vetting etc.) (Amendment) Regulations 2026 (S.I. 2026/653)](https://www.legislation.gov.uk/uksi/2026/653), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/653/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2026/653/schedule/2) (with [reg. 28](https://www.legislation.gov.uk/uksi/2026/653/regulation/28))

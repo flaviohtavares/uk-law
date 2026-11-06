@@ -1,0 +1,29 @@
+---
+title: Housing (Scotland) Act 1987, section 38
+act: Housing (Scotland) Act 1987
+section: '38'
+status: revised-with-pending-changes
+text_date: '2026-04-01'
+extent: S
+source_url: https://www.legislation.gov.uk/ukpga/1987/26/section/38
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Housing (Scotland) Act 1987, section 38
+
+> **Warning: changes not yet applied to this text (160).** Text as at 2026-04-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1987/26
+>
+> Extent: Scotland.
+
+## 38. Co-operation between authorities.
+
+*Extent: S*
+
+Where a local authority—
+
+- (a) request another local authority in Scotland or England or Wales, a development corporation, a registered housing association or the Scottish Special Housing Association to assist them in the discharge of their functions under sections 28, 29, 31 to 33 and 34(1) and (2) (which relate to the duties of local authorities with respect to homelessness and threatened homelessness as such),
+- (b) request a social work authority in Scotland or a social services authority in England or Wales to exercise any of their functions in relation to a case which the local authority are dealing with under those provisions, or
+- (c) request another local authority in Scotland or England or Wales to assist them in the discharge of their functions under section 36 (protection of property of homeless persons and persons threatened with homelessness),
+
+the authority to whom the request is made shall co-operate in rendering such assistance in the discharge of the functions to which the request relates as is reasonable in the circumstances.

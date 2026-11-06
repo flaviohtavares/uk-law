@@ -1,0 +1,25 @@
+---
+title: The Financing of Maintained Schools (England) Regulations 2000, section 12
+act: The Financing of Maintained Schools (England) Regulations 2000
+section: '12'
+status: as-enacted
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2000/478/section/12
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Financing of Maintained Schools (England) Regulations 2000, section 12
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+## 12. Places
+
+In determining budget shares for—
+
+- (a) special schools;
+- (b) primary or secondary schools with places which the authority recognise as reserved for children with special educational needs or for children in nursery classes; or
+- (c) schools with boarding accommodation,
+
+the local education authority may take into account in their formula the number of places which they wish to fund at those special schools, the number of places of the kind described above at those primary or secondary schools or the amount of boarding accommodation which they wish to fund and in the case of (a) and (b) above may take account of the special educational needs in question.

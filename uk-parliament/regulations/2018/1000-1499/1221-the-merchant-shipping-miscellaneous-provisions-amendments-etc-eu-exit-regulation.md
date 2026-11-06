@@ -1,0 +1,679 @@
+---
+title: The Merchant Shipping (Miscellaneous Provisions) (Amendments etc.) (EU Exit) Regulations 2018
+id: uksi/2018/1221
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2018-11-22'
+text_date: '2026-06-23'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2018/1221
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2018/1221/pdfs/uksiem_20181221_en.pdf
+- http://www.legislation.gov.uk/uksi/2018/1221/pdfs/uksi_20181221_en.pdf
+- http://www.legislation.gov.uk/uksi/2018/1221/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Merchant Shipping (Miscellaneous Provisions) (Amendments etc.) (EU Exit) Regulations 2018
+
+> Text as at 2026-06-23.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2018 No. 1221
+
+Exiting The European Union
+
+Merchant Shipping
+
+The Merchant Shipping (Miscellaneous Provisions) (Amendments etc.) (EU Exit) Regulations 2018
+
+Sift requirements satisfied
+
+16th October *2*018
+
+Made
+
+22nd November 2018
+
+Laid before Parliament
+
+28th November 2018
+
+Coming into force in accordance with regulation 2
+
+The Secretary of State makes the following Regulations in exercise of the powers conferred by section 2(2) of the European Communities Act 1972 [^c23446311] and section 8(1) of, and paragraph 21 of Schedule 7 to, the European Union Withdrawal Act 2018 [^c23446321].
+
+The requirements of paragraph 3(2) of Schedule 7 to that Act (relating to the appropriate Parliamentary procedure for these regulations) have been satisfied.
+
+The Secretary of State is a Minister designated for the purposes of section 2(2) of the European Communities Act 1972 in relation to measures relating to maritime transport [^c23446331], and measures relating to the safety of ships and the health and safety of persons on them [^c23446341].
+
+## 1. Citation
+
+These Regulations may be cited as the Merchant Shipping (Miscellaneous Provisions) (Amendments etc.) (EU Exit) Regulations 2018.
+
+## 2. Commencement
+
+These Regulations come into force—
+
+- (a) for the purposes of regulations 1, 2 and 3 on the 22nd day after the day on which these Regulations are laid, and
+- (b) for all other purposes, on exit day.
+
+## PART 1 — Amendment of secondary legislation
+
+### 3. Amendments which take effect before exit day[^key-794b88518670c17da40ce94921b6c976]
+
+(1) In each of the regulations specified in paragraph (2), omit the definition of “EEA Agreement” and for the definition of “EEA State” substitute—
+
+> “**EEA State**” has the meaning given by Schedule 1 to the Interpretation Act 1978 [^c23446351].
+
+.
+
+(2) The regulations specified for the purpose of paragraph (1) are—
+
+- (a) regulation 2(1) of the Merchant Shipping (Cargo Ship Construction) Regulations 1997 [^c23446361],
+- (b) regulation 1(2) of the Merchant Shipping (Fire Protection: Small Ships) Regulations 1998 [^c23446371],
+- (c)[^key-04da0eebf12a1c3eeffadac81878829a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d) regulation 2 of the Merchant Shipping (Radio Installations) Regulations 1998 [^c23446391],
+- (e) regulation 2(2) of the Merchant Shipping (Passenger Ship Construction: Ships of Classes I, II and II(A)) Regulations 1998 [^c23446401],
+- (f) regulation 2(2) of the Merchant Shipping (Passenger Ship Construction: Ships of Classes III to VI(A)) Regulations 1998 [^c23446411],
+- (g)[^key-ee496d147be09ac922d8386daebbc3cd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (h) regulation 2(2) of the Merchant Shipping (Life-Saving Appliances for Ships Other than Ships of Classes III to VI(A)) Regulations 1999 [^c23446431],
+- (i) regulation 2(2) of the Merchant Shipping (Life-Saving Appliances For Passenger Ships of Classes III To VI(A)) Regulations 1999 [^c23446441], and
+- (j) regulation 2(1) of the Merchant Shipping (Ro-Ro Passenger Ships) (Stability) Regulations 2004 [^c23446451].
+
+(3) In each of the regulations specified in paragraph (4) for the definition of “EEA State” substitute—
+
+> “**EEA State**” has the meaning given by Schedule 1 to the Interpretation Act 1978.
+
+.
+
+(4) The regulations specified for the purpose of paragraph (3) are—
+
+- (a) regulation 1(2) of the Merchant Shipping (Registration of Ships) Regulations 1993 [^c23446461], and
+- (b) regulation 2(1) of the Merchant Shipping (Mandatory Surveys for Ro-Ro Ferry and High Speed Passenger Craft) Regulations 2001 [^c23446471].
+
+(5)[^key-6d16f073867f68edf0c1d06e3be6c765] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 4. Amendments on exit day[^key-b8caf621f30b360f161218f434b18b89]
+
+The Schedule (amendments of secondary legislation on exit day) has effect.
+
+## PART 2 — Revocation of retained EU law
+
+### 5. Revocation[^key-d87f4d9cf3729bcce9d431e84d05aad2]
+
+The following instruments are revoked—
+
+- (a) Regulation [(EEC) No 1101/89](https://www.legislation.gov.uk/european/regulation/1989/1101);
+- (b) Regulation [(EC) No 718/1999](https://www.legislation.gov.uk/european/regulation/1999/0718);
+- (c) Regulation [(EC) 1406/2002](https://www.legislation.gov.uk/european/regulation/2002/1406);
+- (d) Regulation [(EC) No 2099/2002](https://www.legislation.gov.uk/european/regulation/2002/2099);
+- (e) Regulation [(EC) No 414/2007](https://www.legislation.gov.uk/european/regulation/2007/0414);
+- (f) Regulation [(EC) No 415/2007](https://www.legislation.gov.uk/european/regulation/2007/0415);
+- (g) Regulation [(EC) No 416/2007](https://www.legislation.gov.uk/european/regulation/2007/0416);
+- (h) Regulation [(EC) No 181/2008](https://www.legislation.gov.uk/european/regulation/2008/0181);
+- (i) Regulation (EU) No 164/2010;
+- (j) Regulation (EU) No 689/2012;
+- (k) Regulation (EU) No 909/2013;
+- (l) Regulation (EU) No 911/2014;
+- (m) Council Decision [77/587/EEC](https://www.legislation.gov.uk/european/decision/1977/0587);
+- (n) Council Decision 2014/195/EU;
+- (o) Council Decision (EU) 2016/381;
+- (p) Commission Decision (EU) 2016/566;
+- (q) Council Decision (EU) 2017/769; and
+- (r) Council Decision (EU) 2017/770.
+
+Signed by authority of the Secretary of State for Transport
+
+Nusrat Ghani
+
+Parliamentary Under Secretary of State
+
+Department for Transport
+
+## SCHEDULE — AMENDMENTS OF SECONDARY LEGISLATION ON EXIT DAY
+
+Regulation 4
+
+### 1. Amendment of the Merchant Shipping (Registration of Ships) Regulations 1993[^key-235bd202f0a76a146fc7fa90a4b12918]
+
+(1) The Merchant Shipping (Registration of Ships) Regulations 1993 are amended as follows.
+
+(2) In regulation 1 (citation, commencement and interpretation) in paragraph (2)—
+
+- (a) for the definition of “EEA Agreement” substitute—
+
+  > “**EEA Agreement**” has the meaning given by Schedule 1 to the Interpretation Act 1978;
+
+  ; and
+- (b) in the definition of “non-United Kingdom nationals exercising their right of freedom of movement of workers or right of establishment”—
+  - (i) in sub-paragraph (a)—
+    - (aa) omit “other than the United Kingdom”, and
+    - (bb) after “their rights under Article 45 or 49 of the Treaty on the Functioning of the European Union”, insert “ as recognised and available in domestic law by virtue of the European Union (Withdrawal) Act 2018 ”, and
+  - (ii) in sub-paragraph (b), after “their rights under Article 28 or 31 of the EEA Agreement”, insert “ as recognised and available in domestic law by virtue of the European Union (Withdrawal) Act 2018 ”.
+
+(3) In regulation 7 (persons qualified to be owners of ships to be registered on Part I of the Register), in paragraph (1)(f), for “in a EEA State”, substitute “ in the United Kingdom or in an EEA State ”.
+
+(4) In regulation 12 (eligibility), for paragraph (b) substitute—
+
+> - (b) bodies corporate—
+>   - (i) incorporated in the United Kingdom, or
+>   - (ii) incorporated in an EEA State with a place of business in the United Kingdom;
+
+.
+
+(5) In regulation 15 (dispensations) in paragraph (1)(a) omit “other than the United Kingdom”.
+
+(6) In regulation 24 (applications by bodies corporate) in paragraph (b)(i) omit “other than the United Kingdom”.
+
+(7) In regulation 36 (registration and refusal of registration of a ship) omit paragraph (3).
+
+(8) In Schedule 4 (details to go on the register) in paragraph 2(e), omit “other than the United Kingdom”.
+
+### 2. Amendment of the Merchant Shipping (Gas Carriers) Regulations 1994[^key-3cea98b4e48216decf41e010774e138a]
+
+(1) The Merchant Shipping (Gas Carriers) Regulations 1994 [^c23446491] are amended as follows.
+
+(2) In regulation 1 (citation, commencement, interpretation and revocation) in paragraph (2) after the definition of “the IGC Code” insert—
+
+> “**IMO Member State**” means a State which is a member of the International Maritime Organization;
+
+.
+
+(3) In regulation 7 (equivalents) in paragraph (2)(a) and (b) for “a member State” substitute “ an IMO Member State ”.
+
+### 3. Amendment of the Merchant Shipping (Cargo Ship Construction) Regulations 1997[^key-2abedd05af6ce6f8565aacbbd8e32087]
+
+(1) The Merchant Shipping (Cargo Ship Construction) Regulations 1997 [^c23446501] are amended as follows.
+
+(2) In regulation 2 (interpretation) in paragraph (2)(ii) omit “other than the United Kingdom”.
+
+(3) In regulation 57 (alternative construction, equipment and machinery) in paragraph (b) omit “other than the United Kingdom” in both places at which those words occur.
+
+### 4. Amendment of the Race Relations (Northern Ireland) Order 1997[^key-0bfb5cd052404e5534e5a964766ed63f]
+
+In the Race Relations (Northern Ireland) Order 1997 [^c23446511] in Article 11 (seafarers)—
+
+- (a) in paragraph (3), omit “other than the United Kingdom” in each place it occurs;
+- (b) in paragraph (4)(b), omit “other than the United Kingdom”; and
+- (c) in paragraph (5)(b)(ii), for “another” substitute “ an ”.
+
+### 5. Amendment of the Merchant Shipping (Fire Protection: Small Ships) Regulations 1998[^key-71df515d497cfbd96d3b1fe35c7b9556]
+
+(1) The Merchant Shipping (Fire Protection: Small Ships) Regulations 1998 are amended as follows.
+
+(2) In regulation 1 (citation, commencement, interpretation and application)—
+
+- (a) in paragraph (2), for the definition of “relevant standard of an EEA State other than the United Kingdom” substitute—
+
+  > “**relevant standard of an EEA State**”, in relation to a reference to an International Standard or a British Standard, means—
+  >
+  > - (a) a relevant standard or code of practice of a national standards body or equivalent body of an EEA State;
+  > - (b) a relevant international standard recognised for use in an EEA State; or
+  > - (c) a relevant specification acknowledged for use as a standard by a public authority of an EEA State,
+  >
+  > being a standard, code of practice or specification which provides, in use, levels of safety, suitability and fitness for purpose equivalent to those provided by the International Standard or the British Standard;; and
+
+  ; and
+- (b) in paragraph (3), omit “other than the United Kingdom”.
+
+(3) In regulation 46 (alternative construction and equivalents) in paragraph (2)(a) and (b) omit “other than the United Kingdom”.
+
+### 6. Amendment of the Merchant Shipping (Fire Protection: Large Ships) Regulations 1998[^key-de0962d90fa949fe3fd553e0fae6342b][^key-d10d5e1387d35d48c0f9f454d3ebcb7b]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 7. Amendment of the Merchant Shipping (Small Workboats and Pilot Boats) Regulations 1998[^key-7137b283c1a4d61a324994c3344df918]
+
+In the Merchant Shipping (Small Workboats and Pilot Boats) Regulations 1998 [^c23446521], in regulation 8 (equivalent standards) in paragraph (2) omit “other”.
+
+### 8. Amendment of the Merchant Shipping (Radio Installations) Regulations 1998[^key-a80189f2aaf679cd0518d6d541e924df]
+
+(1) The Merchant Shipping (Radio Installations) Regulations 1998 are amended as follows.
+
+(2) In regulation 5 (equivalents and exemptions) in paragraph (2), omit “other”.
+
+(3) In regulation 21 for the definition of “member State” substitute—
+
+> “**member State**” has the meaning given by Schedule 1 to the Interpretation Act 1978;
+
+.
+
+### 9. Amendment of the Merchant Shipping (Passenger Ship Construction: Ships of Classes I, II and II(A)) Regulations 1998[^key-03d90ff4d8e085a4584fe50ed0743d31]
+
+(1) The Merchant Shipping (Passenger Ship Construction: Ships of Classes I, II and II(A)) Regulations 1998 are amended as follows.
+
+(2) In regulation 2 (interpretation)—
+
+- (a) in paragraph (2), for the definition of “relevant standard of an EEA state other than the United Kingdom” substitute—
+
+  > “**relevant standard of an EEA State**”, in relation to a reference to an International Standard or a British Standard means—
+  >
+  > - (a) a relevant standard or code of practice of a national standards body or equivalent body of an EEA State;
+  > - (b) a relevant international standard recognised for use in an EEA State; or
+  > - (c) a relevant specification acknowledged for use as standard by a public authority of an EEA State,
+  >
+  > being a standard, code of practice or specification which provides, in use, levels of safety, suitability and fitness for purpose equivalent to those provided by the International Standard or the British standard;; and
+
+  ; and
+- (b) in paragraph (3)(ii), omit “other than the United Kingdom”.
+
+(3) In regulation 90 (alternative construction, equipment and machinery) in paragraph (2)(a) and (b) omit “other than the United Kingdom”.
+
+### 10. Amendment of the Merchant Shipping (Passenger Ship Construction: Ships of Classes III to VI(A)) Regulations 1998[^key-d143847916ca36876c26c159e9920df7]
+
+(1) The Merchant Shipping (Passenger Ship Construction: Ships of Classes III to VI(A)) Regulations 1998 are amended as follows.
+
+(2) In regulation 2 (interpretation)—
+
+- (a) in paragraph (2), for the definition of “relevant standard of an EEA state other than the United Kingdom” substitute—
+
+  > “**relevant standard of an EEA state**”, in relation to a reference to an International Standard or a British Standard, means—
+  >
+  > - (a) a relevant standard or code of practice of a national standards body or equivalent body of an EEA State;
+  > - (b) a relevant international standard recognised for use in an EEA State; or
+  > - (c) a relevant specification acknowledged for use as a standard by a public authority of an EEA State,
+  >
+  > being a standard, code of practice or specification which provides in use, levels of safety, suitability and fitness for purpose equivalent to those provided by the International Standard or the British Standard;
+
+  ; and
+- (b) in paragraph (3)(ii), omit “other than the United Kingdom”.
+
+(3) In regulation 72 (alternative construction, equipment and machinery) in paragraph (2)(a) and (b) omit “other than the United Kingdom”.
+
+### 11. Amendment of the Merchant Shipping (Vessels in Commercial Use for Sport or Pleasure) Regulations 1998[^key-f207d5613e62c3815a9b75cdd502e32f]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 12. Amendment of the Merchant Shipping (Additional Safety Measures for Bulk Carriers) Regulations 1999[^key-096c303640e95d92c7bc3fd6a9fd64d6]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 13. Amendment of the Merchant Shipping (Life-Saving Appliances for Ships Other Than Ships of Classes III to VI(A)) Regulations 1999[^key-09e0c2ee24984c5da243784aec9d01d6]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 14. Amendment of the Merchant Shipping (Life-Saving Appliances For Passenger Ships Of Classes III To VI(A)) Regulations 1999[^key-68efcf3fdb4ba463acd3aa9f83f93ea6]
+
+(1) The Merchant Shipping (Life-Saving Appliances For Passenger Ships Of Classes III To VI(A)) Regulations 1999 are amended as follows.
+
+(2) In regulation 2 (interpretation) in paragraph (4) omit “other than the United Kingdom”.
+
+(3) In regulation 23 (equivalents) in paragraph (2)(a) and (b) for “a member State of the EEA, other than the United Kingdom,” substitute “ an EEA State ”.
+
+### 15. Amendment of the Tonnage Tax (Training Requirement) Regulations 2000[^key-3b9ec697c88648a5ec35fcf5e3853151]
+
+(1) The Tonnage Tax (Training Requirement) Regulations 2000 [^c23446541] are amended as follows.
+
+(2) In regulation 2 (interpretation) in paragraph (b) of the definition of “nationality groups” omit “other than the United Kingdom”.
+
+(3) In regulation 7 (meaning of “**eligible officer trainee**” and “**eligible rating trainee**”) for paragraph (a) substitute—
+
+> - (a) a British citizen, a British citizen from the Channel Islands or the Isle of Man or a national of an EEA State, and
+
+.
+
+### 16. Amendment of the Merchant Shipping (Passenger Ships on Domestic Voyages) Regulations 2000[^key-a1367040d4921d13c64700d2bfc0fa28]
+
+(1) The Merchant Shipping (Passenger Ships on Domestic Voyages) Regulations 2000 [^c23446551] are amended as follows.
+
+(2) In regulation 2 (interpretation)—
+
+- (a) in paragraph (1)—
+  - (i) for the definition of “domestic voyage” substitute—
+
+    > “**domestic voyage**” means a voyage in sea areas either—
+    >
+    > - (a) from a port in the United Kingdom to the same or another port within the United Kingdom, or
+    > - (b) from a port of a member State to the same or another port within that member State;
+
+    ;
+  - (ii) at the end of the definition of “port waters”, insert the following—
+
+    > ;
+    >
+    > “**sea area**” means, in relation to the waters of the United Kingdom, an area as set out by the Secretary of State in accordance with regulation 3(2), and, in relation to the waters of a Member State, means an area established by a Member State pursuant to Article 4(2) of the Directive
+
+    ; and
+- (b) in paragraph (2), for the words from “With” to “EEA States)”, substitute “ Save where otherwise defined in paragraph (1) ”.
+
+(3) In regulation 7 (alternative construction, equipment and machinery)—
+
+- (a) in paragraph (1), omit “, subject to the procedure laid down in paragraph 4 of Article 9 of the Directive,”; and
+- (b) in paragraph (2), omit “other”.
+
+(4) In regulation 7A (stability requirements for ro-ro passenger ships) in paragraph (1), omit “EEA State or”.
+
+### 17. Amendment of the Merchant Shipping (Mandatory Surveys for Ro-Ro Ferry and High Speed Passenger Craft) Regulations 2001[^key-5ca366d4285c98ec7e57deaca27968c1]
+
+(1) The Merchant Shipping (Mandatory Surveys for Ro-Ro Ferry and High Speed Passenger Craft) Regulations 2001 are amended as follows.
+
+(2) In regulation 2 (interpretation)—
+
+- (a) in paragraph (1), before the definition of “the Directive”, insert the following definition—
+
+  > “**certificates**” means—
+  >
+  > - (a) for ro-ro ferries and high-speed passenger craft engaged in international voyages, the safety certificates issued under the International Convention for the Safety of Life at Sea (SOLAS) 1974 [^c23446561], as amended from time to time, together with the relevant records of equipment and where appropriate exemption certificates and permits to operate;
+  > - (b) for ro-ro ferries and high-speed passenger craft engaged on domestic voyages, the safety certificates issued in accordance with Directive [98/18/EC](https://www.legislation.gov.uk/european/directive/1998/0018) together with the relevant records of equipment and where appropriate exemption certificates and permits to operate;
+
+  ;
+- (b) in paragraph (2), for “Other”, substitute “ Subject to paragraph (3), other ”; and
+- (c) after paragraph (2) insert—
+
+  > (3) Where, in these Regulations, a reference is made to provisions of the Directive, those provisions are to be read as if a reference to a “**Member State**” includes the United Kingdom, and a reference to a “**third state**” does not include the United Kingdom.
+
+  .
+
+(3) In each of the paragraphs specified in sub-paragraph (4) for “another Member State or EEA State” substitute “ a Member State or an EEA State ”.
+
+(4) The paragraphs specified for the purpose of sub-paragraph (3) are—
+
+- (a) in regulation 6 (initial specific surveys) paragraphs (3) and (4); and
+- (b) in regulation 8 (regular specific surveys and additional surveys) paragraphs (3) and (5).
+
+### 18. Amendment of the Merchant Shipping and Fishing Vessels (Port Waste Reception Facilities) Regulations 2003[^key-6d4a1d61a9309cc7ac0d5087cfba6e71]
+
+(1) The Merchant Shipping and Fishing Vessels (Port Waste Reception Facilities) Regulations 2003 [^c23446571] are amended as follows.
+
+(2) In regulation 2 (interpretation, etc.) in paragraph (2)(b) for “any other” substitute “ an ”.
+
+(3) In regulation 17 (non-compliance or suspected non-compliance) in paragraph (2) for “another” substitute “ an ”.
+
+(4) In regulation 20 (inspection and detention of a United Kingdom ship) after paragraph (3) insert—
+
+> (3A) For the purposes of regulation 20(3), articles 7 and 10 of the Directive are to be read as if a reference to a ‘Community port’ includes a port within the United Kingdom.
+
+; and
+
+(5) In regulation 21 (inspection and detention of ships other than United Kingdom ships) after paragraph (2) insert—
+
+> (2A) For the purposes of regulation 21(2), articles 7 and 10 of the Directive are to be read as if a reference to a ‘Community port’ includes a port within the United Kingdom.
+
+.
+
+### 19. Amendment of the Merchant Shipping (High Speed Craft) Regulations 2004[^key-da95a4d15d772c4b4b9e1ecb224341be]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 20. Amendment of the Merchant Shipping (Vessel Traffic Monitoring and Reporting Requirements) Regulations 2004[^key-22975991f97438213a12f45ea35d1096]
+
+(1) The Merchant Shipping (Vessel Traffic Monitoring and Reporting Requirements) Regulations 2004 [^c23446591] are amended as follows.
+
+(2) In regulation 2(1) (interpretation)—
+
+- (a) for the definition of “domestic voyage” substitute—
+
+  > “**domestic voyage**” means a voyage from a port in the United Kingdom to the same or another port in the United Kingdom;
+
+  ; and
+- (b) for the definition of “port authority” substitute—
+
+  > “**port authority**” in relation a member State means a port authority within the meaning of the Directive and in relation to the United Kingdom means a statutory harbour authority within the meaning of the 1995 Act, and “**authority**” in relation to a port shall be construed accordingly;
+
+  .
+
+(3) In regulation 3(b) (competent authority) omit “other than the United Kingdom”.
+
+(4) In regulation 4(2)(b) (application) after “the Government of”, insert “ the United Kingdom or ”.
+
+(5) In regulation 4A (exemptions from the requirements of regulations 5 or 10) in paragraph (4) after “Article 15.2 of the Directive” insert “, reading each reference in the Article to ‘Member States’ as including the United Kingdom”.
+
+(6) In regulation 8 (installation of automatic identification systems) in paragraph (3) after “Part I of Annex II to the Directive” insert “, reading each reference in the Annex to ‘a port of a Member State of the Community’ as including a port in the United Kingdom”.
+
+(7) In regulation 8A (installation of automatic identification systems on fishing vessels) in paragraph (2) after “Part I of Annex II to the Directive” insert “, reading each reference in the Annex to ‘a port of a Member State of the Community’ as including a port in the United Kingdom”.
+
+(8) In regulation 10 (notification by ships carrying dangerous or polluting goods)—
+
+- (a) in paragraph (3) omit “, other than a port in the United Kingdom,”;
+- (b) in paragraph (4) omit “other than the United Kingdom”; and
+- (c) in paragraph (5) after “in an EEA State” insert “ or in the United Kingdom ”.
+
+(9) In regulation 13 (measures to be taken in the event of exceptionally bad weather or sea conditions) in paragraph (1)(a) omit “other”.
+
+(10) In regulation 13A (measures to be taken in the event of risks posed by the presence of ice) in paragraph (1)(b) omit “other”.
+
+(11) In regulation 15 (obligations of shipowners in relation to accidents and incidents) in paragraph (2)(b)(ii) omit “, other than the United Kingdom,”.
+
+### 21. Amendment of the Merchant Shipping (Ro-Ro Passenger Ships) (Stability) Regulations 2004[^key-ea50fcbae2ae4b34d8311a17ae3b3963]
+
+(1) The Merchant Shipping (Ro-Ro Passenger Ships) (Stability) Regulations 2004 are amended as follows.
+
+(2) In regulation 2 (interpretation) in paragraph (1) for the definition of “international voyage” substitute—
+
+> “**international voyage**” means a voyage between—
+>
+> - (a) a port in the United Kingdom and a port outside the United Kingdom; or
+> - (b) a port in another country and a port in any other country or territory which is outside the United Kingdom;
+
+.
+
+(3) In regulation 3 (application) in paragraph (1)(a) after “a United Kingdom ro-ro passenger ship operating to or from” insert “ a port in the United Kingdom or ”.
+
+(4) In regulation 4 (stability requirements of Directive [2003/25/EC](https://www.legislation.gov.uk/european/directive/2003/0025))—
+
+- (a) omit “which are the requirements of Article 4 of and Annex I to the Directive” in each of the places at which those words occur; and
+- (b) in paragraph (5)(a) omit “of Article 4 of or Annex I to the Directive or”.
+
+### 22. Amendment of the Equality Act 2010 (Work on Ships and Hovercraft) Regulations 2011[^key-8905abb666e2b3102ea8490148f97258]
+
+(1) The Equality Act 2010 (Work on Ships and Hovercraft) Regulations 2011 [^c23446601] are amended as follows.
+
+(2) In regulation 3 (application of Part 5 of the Act to seafarers working wholly or partly in Great Britain and adjacent waters) in paragraphs (2) and (3) omit “other than the United Kingdom” in each of the places at which those words occur.
+
+(3) In regulation 4 (application of Part 5 of the Act to seafarers working wholly outside Great Britain and adjacent waters) in paragraph (2)(a) omit “other than the United Kingdom”.
+
+(4) In regulation 5 (differentiation in relation to pay) in paragraph (b)(ii) for “another” substitute “ an ”.
+
+### 23. Amendment of the Merchant Shipping (Port State Control) Regulations 2011[^key-2d7cc4676added423c86350ac9984104]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 24. Amendment of the Merchant Shipping (Flag State Directive) Regulations 2011[^key-99cba91fdf2e03bbd13d25aaf4a79f7a]
+
+(1) The Merchant Shipping (Flag State Directive) Regulations 2011 [^c23446621] are amended as follows.
+
+(2) In regulation 2(1) (interpretation) after the definition of “flag State” omit “and” and insert—
+
+> “**IMO Conventions**” means the conventions for which the International Maritime Organization is the depository [^c23446631];
+>
+> “**ship**” means a ship or craft flying the flag of a Member State or the United Kingdom, falling within the scope of the relevant IMO Conventions, and for which a certificate is required; and
+
+.
+
+(3) For regulation 3 (duty to ensure information is retained) substitute—
+
+> **3.** (1) The Secretary of State must ensure that the information referred to in paragraph (2) concerning each United Kingdom ship—
+>
+> - (a) is kept; and
+> - (b) can be readily accessed by the Secretary of State.
+>
+> (2) The information referred to in paragraph (1) is as follows—
+>
+> - (a) particulars of the ship (including name and IMO number);
+> - (b) dates of surveys, including additional and supplementary surveys, if any, and audits;
+> - (c) identification of the recognised organisations involved in the certification and classification of the ship;
+> - (d) identification of the competent authority which has inspected the ship under port State control provisions and the dates of the inspections;
+> - (e) outcome of the port State control inspections (including any deficiencies identified and any detentions which took place);
+> - (f) information on marine casualties; and
+> - (g) identification of ships which have ceased to fly the flag of the United Kingdom during the previous 12 months.
+>
+> (3) The duty in paragraph (1) ends—
+>
+> - (a) 12 months after the date on which the ship ceases to be a United Kingdom ship; or
+> - (b) if sooner, on the date on which the information is provided to a flag State under regulation 4(2) or under Article 4(3) of the 2004 Regulation.
+
+.
+
+### 25. Amendment of the Merchant Shipping (Compulsory Insurance of Shipowners for Maritime Claims) Regulations 2012[^key-39b2c938cfa96d02e11b23529161f317]
+
+In the Merchant Shipping (Compulsory Insurance of Shipowners for Maritime Claims) Regulations 2012 [^c23446641] omit regulation 8 (expulsion order).
+
+### 26. Amendment of the Merchant Shipping (International Safety Management (ISM) Code) Regulations 2014[^key-55c370e93347d5c870f203f7d352a512]
+
+In the Merchant Shipping (International Safety Management (ISM) Code) Regulations 2014 [^c23446651] in regulation 2 (interpretation) in paragraph (1) for the definition of “Certifying Authority”, substitute—
+
+> “**Certifying Authority**” means the Secretary of State or any person authorised by the Secretary of State;
+
+.
+
+### 27. Amendment of the Merchant Shipping (Survey and Certification) Regulations 2015[^key-0726595535e42487ccb7773f1776e279]
+
+In the Merchant Shipping (Survey and Certification) Regulations 2015 [^c23446661], in regulation 24 (prohibition on proceeding on a voyage or excursion without the appropriate certificate) in paragraph 1(b) for “another Member State or EEA State” substitute “ a member State or an EEA State ”.
+
+### 28. Amendment to the Fishing Vessels (Codes of Practice) Regulations 2017[^key-a1e3f7eae57bfbc312d8aa5c54160c23]
+
+In the Fishing Vessels (Codes of Practice) Regulations 2017 [^c23446671], in regulation 17 (equivalent provisions), in paragraph (2)(a) and (b) omit “other than the United Kingdom”.
+
+*(This note is not part of the Regulations)*
+
+These Regulations update the definitions of EEA State and EEA Agreement in maritime secondary legislation so that the definitions accord with those currently to be found in the Interpretation Act 1978.
+
+These Regulations are also made in exercise of the powers conferred by section 8(1) of the European Union (Withdrawal) Act 2018 (c. 16) in order to address failures of retained EU law to operate effectively and other deficiencies (in particular under section 8(2)(a), (c), (d) and (g) of, and paragraph 21 of Schedule 7 to, the Act) arising from the withdrawal of the United Kingdom from the European Union.
+
+These Regulations make amendments to maritime legislation and in particular amend legislation relating to ship safety standards and registration of ships. Part 1 amends secondary legislation and Part 2 revokes certain retained EU legislation.
+
+IMO Conventions, the International Convention for the Safety of Life at Sea (SOLAS) 1974 and IMO MSC/Circ. 735 dated 24th June 1996 can be obtained from the International Maritime Organization (“IMO”) at IMO Publishing, 4 Albert Embankment, London SE1 7SR, www.imo.org/publications; email: sales@imo.org; telephone: 0207 735 7611.
+
+An impact assessment has not been produced for this instrument as no, or no significant, impact on the private or voluntary sector is foreseen. An Explanatory Memorandum is available alongside the instrument on the UK legislation website, www.legislation.gov.uk.
+
+## Annotations
+
+[^c23446311]: Marginal citation: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68). Section 2(2) was amended by section 27 of the [Legislative and Regulatory Reform Act 2006 (c.51)](https://www.legislation.gov.uk/ukpga/2006/51) and by section 3 of, and Part 1 of the Schedule to, the [European Union (Amendment) Act 2008 (c.7)](https://www.legislation.gov.uk/ukpga/2008/7).
+
+[^c23446321]: Marginal citation: [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16).
+
+[^c23446331]: Marginal citation: [S.I. 1994/757](https://www.legislation.gov.uk/uksi/1994/757).
+
+[^c23446341]: Marginal citation: [S.I. 1993/595](https://www.legislation.gov.uk/uksi/1993/595).
+
+[^key-794b88518670c17da40ce94921b6c976]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2018/1221/regulation/3) in force at 31.12.2020, see [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c23446351]: Marginal citation: [1978 c. 30](https://www.legislation.gov.uk/ukpga/1978/30); [Schedule 1](https://www.legislation.gov.uk/uksi/2018/1221/schedule/1) was amended by the [European Union (Withdrawal) Act 2018 (c. 16)](https://www.legislation.gov.uk/ukpga/2018/16), [section 23(5)](https://www.legislation.gov.uk/ukpga/2018/16/section/23/5) and Schedule 8, paragraphs 18 and 22(b), (c) and (e).
+
+[^c23446361]: Marginal citation: [S.I. 1997/1509](https://www.legislation.gov.uk/uksi/1997/1509), to which there are amendments not relevant to these Regulations.
+
+[^c23446371]: Marginal citation: [S.I. 1998/1011](https://www.legislation.gov.uk/uksi/1998/1011), amended by [S.I. 2000/2687](https://www.legislation.gov.uk/uksi/2000/2687); there are other amending instruments but none is relevant.
+
+[^key-04da0eebf12a1c3eeffadac81878829a]: Textual amendment: [Reg. 3(2)(c)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/3/2/c) revoked (15.6.2023) by [The Merchant Shipping (Fire Protection) Regulations 2023 (S.I. 2023/568)](https://www.legislation.gov.uk/uksi/2023/568), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/568/regulation/1/1), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2023/568/schedule/1/part/2) (with [reg. 5](https://www.legislation.gov.uk/uksi/2023/568/regulation/5))
+
+[^c23446391]: Marginal citation: [S.I. 1998/2070](https://www.legislation.gov.uk/uksi/1998/2070), relevant amending instruments are [S.I. 2000/2687](https://www.legislation.gov.uk/uksi/2000/2687), 2011/1043.
+
+[^c23446401]: Marginal citation: [S.I. 1998/2514](https://www.legislation.gov.uk/uksi/1998/2514), amended by [S.I. 2000/2687](https://www.legislation.gov.uk/uksi/2000/2687); there are other amending instruments but none is relevant.
+
+[^c23446411]: Marginal citation: [S.I. 1998/2515](https://www.legislation.gov.uk/uksi/1998/2515), amended by [S.I. 2000/2687](https://www.legislation.gov.uk/uksi/2000/2687); there are other amending instruments but none is relevant.
+
+[^key-ee496d147be09ac922d8386daebbc3cd]: Textual amendment: [Reg. 3(2)(g)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/3/2/g) revoked (20.12.2022) by [The Merchant Shipping (Additional Safety Measures for Bulk Carriers) Regulations 2022 (S.I. 2022/1218)](https://www.legislation.gov.uk/uksi/2022/1218), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1218/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2022/1218/schedule)
+
+[^c23446431]: Marginal citation: [S.I. 1999/2721](https://www.legislation.gov.uk/uksi/1999/2721), relevant amending instruments are [S.I. 2000/2558](https://www.legislation.gov.uk/uksi/2000/2558), 2687.
+
+[^c23446441]: Marginal citation: [S.I. 1999/2723](https://www.legislation.gov.uk/uksi/1999/2723), amended by [S.I. 2000/2687](https://www.legislation.gov.uk/uksi/2000/2687); there are other amending instruments but none is relevant.
+
+[^c23446451]: Marginal citation: [S.I. 2004/2884](https://www.legislation.gov.uk/uksi/2004/2884).
+
+[^c23446461]: Marginal citation: [S.I. 1993/3138](https://www.legislation.gov.uk/uksi/1993/3138) as preserved by virtue of section 17(2)(b) [Interpretation Act 1978 (c. 30)](https://www.legislation.gov.uk/ukpga/1978/30) following the consolidation of the Merchant Shipping (Registration, etc.) Act 1993 by the [Merchant Shipping Act 1995 (c. 21)](https://www.legislation.gov.uk/ukpga/1995/21), and as amended by [S.I.1998/2976](https://www.legislation.gov.uk/uksi/1998/2976) and 2012/1809; there are other amending instruments but none is relevant.
+
+[^c23446471]: Marginal citation: [S.I. 2001/152](https://www.legislation.gov.uk/uksi/2001/152), to which there are amendments not relevant to these Regulations.
+
+[^key-6d16f073867f68edf0c1d06e3be6c765]: Textual amendment: [Reg. 3(5)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/3/5) revoked (19.12.2022) by [The Merchant Shipping (High Speed Craft) Regulations 2022 (S.I. 2022/1219)](https://www.legislation.gov.uk/uksi/2022/1219), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1219/regulation/1/1), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2022/1219/schedule/part/2) (with [reg. 4(2)-(4)](https://www.legislation.gov.uk/uksi/2022/1219/regulation/4/2))
+
+[^key-b8caf621f30b360f161218f434b18b89]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2018/1221/regulation/4) in force at 31.12.2020, see [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-d87f4d9cf3729bcce9d431e84d05aad2]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2018/1221/regulation/5) in force at 31.12.2020, see [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-235bd202f0a76a146fc7fa90a4b12918]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/uksi/2018/1221/schedule/paragraph/1) in force at 31.12.2020, see [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-3cea98b4e48216decf41e010774e138a]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/uksi/2018/1221/schedule/paragraph/2) in force at 31.12.2020, see [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c23446491]: Marginal citation: [S.I. 1994/2464](https://www.legislation.gov.uk/uksi/1994/2464), to which there are amendments not relevant to these Regulations.
+
+[^key-2abedd05af6ce6f8565aacbbd8e32087]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/uksi/2018/1221/schedule/paragraph/3) in force at 31.12.2020, see [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c23446501]: Marginal citation: [S.I. 1997/1509](https://www.legislation.gov.uk/uksi/1997/1509), to which there are amendments not relevant to these Regulations.
+
+[^key-0bfb5cd052404e5534e5a964766ed63f]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/uksi/2018/1221/schedule/paragraph/4) in force at 31.12.2020, see [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c23446511]: Marginal citation: [S.I. 1997/869 (N.I. 6)](https://www.legislation.gov.uk/nisi/1997/869), amended by S.R. [2012 No. 263](https://www.legislation.gov.uk/ukcm/2012/263); there are other amending instruments but none is relevant. Article 11 was substituted by Article 5 of S.R. [2012 No. 263](https://www.legislation.gov.uk/ukcm/2012/263).
+
+[^key-71df515d497cfbd96d3b1fe35c7b9556]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/uksi/2018/1221/schedule/paragraph/5) in force at 31.12.2020, see [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-de0962d90fa949fe3fd553e0fae6342b]: Textual amendment: [Sch. para. 6](https://www.legislation.gov.uk/uksi/2018/1221/schedule/paragraph/6) revoked (15.6.2023) by [The Merchant Shipping (Fire Protection) Regulations 2023 (S.I. 2023/568)](https://www.legislation.gov.uk/uksi/2023/568), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/568/regulation/1/1), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2023/568/schedule/1/part/2) (with [reg. 5](https://www.legislation.gov.uk/uksi/2023/568/regulation/5))
+
+[^key-d10d5e1387d35d48c0f9f454d3ebcb7b]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/uksi/2018/1221/schedule/paragraph/6) in force at 31.12.2020, see [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-7137b283c1a4d61a324994c3344df918]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/uksi/2018/1221/schedule/paragraph/7) in force at 31.12.2020, see [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c23446521]: Marginal citation: [S.I. 1998/1609](https://www.legislation.gov.uk/uksi/1998/1609), amended by [S.I. 2016/354](https://www.legislation.gov.uk/uksi/2016/354); there are other amending instruments but none is relevant.
+
+[^key-a80189f2aaf679cd0518d6d541e924df]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/uksi/2018/1221/schedule/paragraph/8) in force at 31.12.2020, see [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-03d90ff4d8e085a4584fe50ed0743d31]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/uksi/2018/1221/schedule/paragraph/9) in force at 31.12.2020, see [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-d143847916ca36876c26c159e9920df7]: Commencement: [Sch. para. 10](https://www.legislation.gov.uk/uksi/2018/1221/schedule/paragraph/10) in force at 31.12.2020, see [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-f207d5613e62c3815a9b75cdd502e32f]: Textual amendment: [Sch. para. 11](https://www.legislation.gov.uk/uksi/2018/1221/schedule/paragraph/11) revoked (12.12.2025) by [The Merchant Shipping (Vessels in Commercial Use for Sport or Pleasure) Regulations 2025 (S.I. 2025/1195)](https://www.legislation.gov.uk/uksi/2025/1195), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1195/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2025/1195/schedule/2) (with [reg. 4](https://www.legislation.gov.uk/uksi/2025/1195/regulation/4))
+
+[^key-096c303640e95d92c7bc3fd6a9fd64d6]: Textual amendment: [Sch. para. 12](https://www.legislation.gov.uk/uksi/2018/1221/schedule/paragraph/12) revoked (20.12.2022) by [The Merchant Shipping (Additional Safety Measures for Bulk Carriers) Regulations 2022 (S.I. 2022/1218)](https://www.legislation.gov.uk/uksi/2022/1218), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1218/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2022/1218/schedule)
+
+[^key-09e0c2ee24984c5da243784aec9d01d6]: Textual amendment: Sch. para. 13 revoked (9.6.2020) by [The Merchant Shipping (Life-Saving Appliances and Arrangements) Regulations 2020 (S.I. 2020/501)](https://www.legislation.gov.uk/uksi/2020/501), [reg. 1](https://www.legislation.gov.uk/uksi/2020/501/regulation/1), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2020/501/schedule/1/part/2) (with [reg. 4](https://www.legislation.gov.uk/uksi/2020/501/regulation/4))
+
+[^key-68efcf3fdb4ba463acd3aa9f83f93ea6]: Commencement: [Sch. para. 14](https://www.legislation.gov.uk/uksi/2018/1221/schedule/paragraph/14) in force at 31.12.2020, see [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-3b9ec697c88648a5ec35fcf5e3853151]: Commencement: [Sch. para. 15](https://www.legislation.gov.uk/uksi/2018/1221/schedule/paragraph/15) in force at 31.12.2020, see [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c23446541]: Marginal citation: [S.I. 2000/2129](https://www.legislation.gov.uk/uksi/2000/2129), relevant amending instruments are [S.I. 2013/2245](https://www.legislation.gov.uk/uksi/2013/2245), 2015/788.
+
+[^key-a1367040d4921d13c64700d2bfc0fa28]: Commencement: [Sch. para. 16](https://www.legislation.gov.uk/uksi/2018/1221/schedule/paragraph/16) in force at 31.12.2020, see [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c23446551]: Marginal citation: [S.I. 2000/2687](https://www.legislation.gov.uk/uksi/2000/2687), relevant amending instruments are [S.I. 2004/2883](https://www.legislation.gov.uk/uksi/2004/2883), 2012/2636, 2018/53.
+
+[^key-5ca366d4285c98ec7e57deaca27968c1]: Commencement: [Sch. para. 17](https://www.legislation.gov.uk/uksi/2018/1221/schedule/paragraph/17) in force at 31.12.2020, see [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c23446561]: Marginal citation: SOLAS can be obtained from the International Maritime Organization (“IMO”) at IMO Publishing, 4 Albert Embankment, London SE1 7SR, www.imo.org/publications; email: sales@imo.org; telephone: 0207 735 7611.
+
+[^key-6d4a1d61a9309cc7ac0d5087cfba6e71]: Commencement: [Sch. para. 18](https://www.legislation.gov.uk/uksi/2018/1221/schedule/paragraph/18) in force at 31.12.2020, see [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c23446571]: Marginal citation: [S.I. 2003/1809](https://www.legislation.gov.uk/uksi/2003/1809), relevant amending instruments are [S.I. 2009/1176](https://www.legislation.gov.uk/uksi/2009/1176), 2016/1211.
+
+[^key-da95a4d15d772c4b4b9e1ecb224341be]: Textual amendment: [Sch. para. 19](https://www.legislation.gov.uk/uksi/2018/1221/schedule/paragraph/19) revoked (19.12.2022) by [The Merchant Shipping (High Speed Craft) Regulations 2022 (S.I. 2022/1219)](https://www.legislation.gov.uk/uksi/2022/1219), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1219/regulation/1/1), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2022/1219/schedule/part/2) (with [reg. 4(2)-(4)](https://www.legislation.gov.uk/uksi/2022/1219/regulation/4/2))
+
+[^key-22975991f97438213a12f45ea35d1096]: Commencement: [Sch. para. 20](https://www.legislation.gov.uk/uksi/2018/1221/schedule/paragraph/20) in force at 31.12.2020, see [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c23446591]: Marginal citation: [S.I. 2004/2110](https://www.legislation.gov.uk/uksi/2004/2110), relevant amending instruments are [S.I. 2008/3145](https://www.legislation.gov.uk/uksi/2008/3145), 2011/2616.
+
+[^key-ea50fcbae2ae4b34d8311a17ae3b3963]: Commencement: [Sch. para. 21](https://www.legislation.gov.uk/uksi/2018/1221/schedule/paragraph/21) in force at 31.12.2020, see [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-8905abb666e2b3102ea8490148f97258]: Commencement: [Sch. para. 22](https://www.legislation.gov.uk/uksi/2018/1221/schedule/paragraph/22) in force at 31.12.2020, see [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c23446601]: Marginal citation: [S.I. 2011/1771](https://www.legislation.gov.uk/uksi/2011/1771).
+
+[^key-2d7cc4676added423c86350ac9984104]: Textual amendment: Sch. para. 23 revoked (23.6.2026) by [The Merchant Shipping (Port State Control) Regulations 2026 (S.I. 2026/563)](https://www.legislation.gov.uk/uksi/2026/563), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/563/regulation/1/2), [Sch. 4](https://www.legislation.gov.uk/uksi/2026/563/schedule/4) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/563/regulation/4))
+
+[^key-99cba91fdf2e03bbd13d25aaf4a79f7a]: Commencement: [Sch. para. 24](https://www.legislation.gov.uk/uksi/2018/1221/schedule/paragraph/24) in force at 31.12.2020, see [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c23446621]: Marginal citation: [S.I. 2011/2667](https://www.legislation.gov.uk/uksi/2011/2667).
+
+[^c23446631]: Marginal citation: Copies of IMO Conventions can be obtained from the International Maritime Organization (“IMO”) at IMO Publishing, 4 Albert Embankment, London SE1 7SR, www.imo.org/publications; email: sales@imo.org; telephone: 0207 735 7611.
+
+[^key-39b2c938cfa96d02e11b23529161f317]: Commencement: [Sch. para. 25](https://www.legislation.gov.uk/uksi/2018/1221/schedule/paragraph/25) in force at 31.12.2020, see [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c23446641]: Marginal citation: [S.I. 2012/2267](https://www.legislation.gov.uk/uksi/2012/2267).
+
+[^key-55c370e93347d5c870f203f7d352a512]: Commencement: [Sch. para. 26](https://www.legislation.gov.uk/uksi/2018/1221/schedule/paragraph/26) in force at 31.12.2020, see [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c23446651]: Marginal citation: [S.I. 2014/1512](https://www.legislation.gov.uk/uksi/2014/1512).
+
+[^key-0726595535e42487ccb7773f1776e279]: Commencement: [Sch. para. 27](https://www.legislation.gov.uk/uksi/2018/1221/schedule/paragraph/27) in force at 31.12.2020, see [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c23446661]: Marginal citation: [S.I. 2015/508](https://www.legislation.gov.uk/uksi/2015/508), to which there are amendments not relevant to these Regulations.
+
+[^key-a1e3f7eae57bfbc312d8aa5c54160c23]: Commencement: [Sch. para. 28](https://www.legislation.gov.uk/uksi/2018/1221/schedule/paragraph/28) in force at 31.12.2020, see [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c23446671]: Marginal citation: [S.I. 2017/943](https://www.legislation.gov.uk/uksi/2017/943).

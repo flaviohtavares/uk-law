@@ -1,0 +1,208 @@
+---
+title: Continental Shelf Act 1964
+id: ukpga/1964/29
+type: UnitedKingdomPublicGeneralAct
+category: primary
+status: revised
+made_date: '1964-04-15'
+text_date: '2021-11-25'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/1964/29
+pdf_urls:
+- http://www.legislation.gov.uk/ukpga/1964/29/pdfs/ukpga_19640029_en.pdf
+- http://www.legislation.gov.uk/ukpga/1964/29/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Continental Shelf Act 1964
+
+> Text as at 2021-11-25.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+Continental Shelf Act 1964
+
+1964 c.29
+
+An Act to make provision as to the exploration and exploitation of the continental shelf; to enable effect to be given to certain provisions of the Convention on the High Seas done in Geneva on 29th April 1958; and for matters connected with those purposes.
+
+\[15th April 1964\][^c655138]
+
+## 1. Exploration and exploitation of continental shelf.
+
+(1) Any rights exercisable by the United Kingdom outside territorial waters with respect to the sea bed and subsoil and their natural resources, except so far as they are exercisable in relation to coal, are hereby vested in Her Majesty.
+
+(2)[^c655169] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3)[^c655170] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4)[^c655171] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5)[^c655172] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(6) The general duty of the Secretary of State[^c655173] of securing the effective and co-ordinated development of such resources in Great Britain as are mentioned in section 1(1) of the [^c655174]Ministry of Fuel and Power Act 1945 shall extend to any such resources outside Great Britain with respect to which the said rights are exercisable.
+
+(7) Her Majesty may from time to time by Order in Council designate any area as an area within which the rights mentioned in subsection (1) of this section are exercisable, and any area so designated is in this Act referred to as a designated area ; and the power to make Orders under this subsection shall include power to[^c655175] revoke, amend or re-enact Orders[^key-eae37bc65f16dd1fb4e7f474b3148d06].
+
+(8) In this section “**coal**” has the same meaning as in the [^c655176]Coal Industry Nationalisation Act 1946 [^c655177]....
+
+## 2. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c655178]
+
+## 3. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c655179]
+
+## 4. Safety of navigation.
+
+(1) Part II of the [^c655180]Coast Protection Act 1949 (which requires the consent of the Board of Trade[^c655181] to the carrying out of certain works on the sea shore if obstruction or danger to navigation is likely to result) except section 34(1)(*b*) (which restricts the deposit of materials) shall apply in relation to any part of the sea bed in a designated area as it applies in relation to the sea shore; and section 46 of that Act (local inquiries) shall extend to any matter arising under this section.
+
+(2) Any person guilty of an offence under the said Part II as applied by this section shall be liable, on summary conviction to a fine not exceeding one hundred pounds, and on conviction on indictment to a fine.
+
+## 5. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c655182]
+
+## 6. Wireless telegraphy.[^key-46b37460b24af8f111767afdd3b3bacd]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 7. Radioactive substances.[^M_E_dc176cae-d223-4ac1-c63f-038f1b2442bb]
+
+*Extent: E+W*
+
+An Order in Council under section 11 of the Petroleum Act 1998[^c655198] may make provision for treating [^key-78af7697c619266812d268e0fa1629f0]... for the purposes of[^key-07428d03682bb8e3a06d658b638cd558] the Environmental Permitting (England and Wales) Regulations 2016 ([^key-e88bb415e0f6b300aa6b4e49f22e0ad0][S.I. 2016/1154](https://www.legislation.gov.uk/uksi/2016/1154)), any installation in an area or part with respect to which provision is made under that section and any waters within five hundred metres of such an installation as if they were situated in such part of the United Kingdom as may be specified in the Order, and for modifying the provisions [^key-7430e5b36b44acbdb5dc6a1a87e63cdc]... those Regulations[^key-aee791490ef9832e954be5bba54b77e7] in their application to such an installation or waters.
+
+## 7. Radioactive substances.[^M_E_1c336c0e-b849-41c4-d864-a2c09069c729]
+
+*Extent: S*
+
+An Order in Council under section 11 of the Petroleum Act 1998[^V_S_9beba4e1-9c1a-a45d-aac1-0b44f21abd7e] may make provision for treating for the purposes of the the Environmental Authorisations (Scotland) Regulations 2018[^key-e228573ea4068b4175439cbd58631690] any installation in an area or part with respect to which provision is made under that section and any waters within five hundred metres of such an installation as if they were situated in such part of the United Kingdom as may be specified in the Order, and for modifying the provisions of those Regulations[^key-e0927757fcf324bf9030f74ff4f46df1] in their application to such an installation or waters.
+
+## 7. Radioactive substances.[^M_E_365df8a6-8e05-4d85-8a8b-d1cb7f8c5167]
+
+*Extent: N.I.*
+
+An Order in Council under section 11 of the Petroleum Act 1998[^V_NI_726f7d6f-33ea-6793-533c-4efd3ddd05b7] may make provision for treating for the purposes of the Radioactive Substances Act 1993[^V_NI_2ddf07b3-d805-c66f-7606-581d96157e5d] and any orders and regulations made thereunder any installation in an area or part with respect to which provision is made under that section and any waters within five hundred metres of such an installation as if they were situated in such part of the United Kingdom as may be specified in the Order, and for modifying the provisions of that Act in their application to such an installation or waters.
+
+## 8. Submarine cables and pipe-lines.
+
+(1)[^c655203] Section 3 (punishment for damaging cables) of the [^c655204]Submarine Telegraph Act 1885 and Article IV and paragraph 1 of Article VII (liability to pay compensation for damage to cables and for loss of gear sacrificed to avoid such damage) of the Convention set out in the Schedule to that Act (which by virtue of section 2 thereof has the force of law) shall apply in relation to all submarine cables under the high seas (and not only to those to which that Convention applies) and to pipe-lines under the high seas; and the said section 3 shall be construed as referring to telephonic as well as telegraphic communication, and, in relation to [^key-b4d16b1168cadaf938a05d6b6c623802]... power cables and to pipe-lines, as if the words from “in such manner” to the end of subsection (1) were omitted.
+
+(1A)[^c655205] It is hereby declared that the reference in subsection (1) of this section to submarine cables and pipe-lines under the high seas includes a reference to submarine cables and pipe-lines under the territorial sea adjacent to the United Kingdom or under waters in an area designated under[^key-56bf8d3e87609f43424536ff66256445] section 41(3) of the Marine and Coastal Access Act 2009 (exclusive economic zone).[^key-9d5363d66643850f24dbd0396727c0e3]
+
+(2) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c655206]
+
+## 9. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c655207]
+
+## 10. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c655208]
+
+## 11. Prosecution of offences, etc.
+
+(1) Proceedings for any offence under another Act as applied by or under this Act[^c655209] may be taken, and the offence may for all incidental purposes be treated as having been committed, in any place in the United Kingdom.
+
+(2) Where a body corporate is guilty of such an offence and the offence is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, any director, manager, secretary or other similar officer of the body corporate or any person who was purporting to act in any such capacity he, as well as the body corporate, shall be guilty of the offence and shall be liable to be proceeded against and punished accordingly.
+
+In this subsection, “**director**” in relation to a body corporate established for the purpose of carrying on under national ownership any industry or part of an industry or undertaking, being a body corporate whose affairs are managed by its members, means a member of that body corporate.
+
+(3) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c655210]
+
+## 11A. Interpretation.[^c655211]
+
+In this Act “**installation**” includes any floating structure or device maintained on a station by whatever means.
+
+## 12. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c655212]
+
+## 13. Short title.
+
+This Act may be cited as the Continental Shelf Act 1964.
+
+## Annotations
+
+[^c655138]: Commencement: Act wholly in force at Royal Assent.
+
+[^c655169]: Textual amendment: S. 1(2) repealed (31.10.1994) by [1994 c. 21](https://www.legislation.gov.uk/ukpga/1994/21), [s. 67](https://www.legislation.gov.uk/ukpga/1994/21/section/67), [Sch. 11 Pt. II](https://www.legislation.gov.uk/ukpga/1994/21/schedule/11/part/II) (with [ss. 40(7)](https://www.legislation.gov.uk/ukpga/1994/21/section/40/7), [66](https://www.legislation.gov.uk/ukpga/1994/21/section/66)); [S.I. 1994/2553](https://www.legislation.gov.uk/uksi/1994/2553), [art. 2](https://www.legislation.gov.uk/uksi/1994/2553/article/2)
+
+[^c655170]: Textual amendment: S. 1(3) repealed (15.2.1999) by [1998 c. 17](https://www.legislation.gov.uk/ukpga/1998/17), [ss. 50](https://www.legislation.gov.uk/ukpga/1998/17/section/50), [51](https://www.legislation.gov.uk/ukpga/1998/17/section/51), [Sch. 4 para. 2(2)](https://www.legislation.gov.uk/ukpga/1998/17/schedule/4/paragraph/2/2), [Sch. 5 Pt. I](https://www.legislation.gov.uk/ukpga/1998/17/schedule/5/part/I) (with [Sch. 3 para. 5(1)](https://www.legislation.gov.uk/ukpga/1998/17/schedule/3/paragraph/5/1)); [S.I. 1999/161](https://www.legislation.gov.uk/uksi/1999/161), [art. 2(1)](https://www.legislation.gov.uk/uksi/1999/161/article/2/1)
+
+[^c655171]: Textual amendment: S. 1(4) repealed (E.W.S.) (30.11.1993) by [Offshore Safety Act 1992 (c. 15)](https://www.legislation.gov.uk/ukpga/1992/15), [ss. 3(1)(a)](https://www.legislation.gov.uk/ukpga/1992/15/section/3/1/a), [7(2)](https://www.legislation.gov.uk/ukpga/1992/15/section/7/2), [Sch. 2](https://www.legislation.gov.uk/ukpga/1992/15/schedule/2); [S.I. 1993/2406](https://www.legislation.gov.uk/uksi/1993/2406), [art. 2](https://www.legislation.gov.uk/uksi/1993/2406/article/2)
+
+[^c655172]: Textual amendment: S. 2(5) repealed by [Petroleum Act 1987 (c. 12, SIF 86)](https://www.legislation.gov.uk/ukpga/1987/12), [ss. 20](https://www.legislation.gov.uk/ukpga/1987/12/section/20), [30](https://www.legislation.gov.uk/ukpga/1987/12/section/30), [Sch. 3](https://www.legislation.gov.uk/ukpga/1987/12/schedule/3)
+
+[^c655173]: Textual amendment: Words substituted by virtue of [S.I. 1969/1498](https://www.legislation.gov.uk/uksi/1969/1498), [arts. 2(1)](https://www.legislation.gov.uk/uksi/1969/1498/article/2/1), [5(6)](https://www.legislation.gov.uk/uksi/1969/1498/article/5/6) and 1970/1537, arts. 2(2), 7(4).
+
+[^c655174]: Marginal citation: [1945 c. 19](https://www.legislation.gov.uk/ukpga/1945/19).
+
+[^c655175]: Textual amendment: Words inserted by [Oil and Gas (Enterprise) Act 1982 (c. 23, SIF 86)](https://www.legislation.gov.uk/ukpga/1982/23), [s. 37](https://www.legislation.gov.uk/ukpga/1982/23/section/37), [Sch. 3 para. 1](https://www.legislation.gov.uk/ukpga/1982/23/schedule/3/paragraph/1)
+
+[^key-eae37bc65f16dd1fb4e7f474b3148d06]: Textual amendment: Words in [s. 1(7)](https://www.legislation.gov.uk/ukpga/1964/29/section/1/7) substituted (18.12.2011) by [Energy Act 2011 (c. 16)](https://www.legislation.gov.uk/ukpga/2011/16), [ss. 103](https://www.legislation.gov.uk/ukpga/2011/16/section/103), [121(3)](https://www.legislation.gov.uk/ukpga/2011/16/section/121/3)
+
+[^c655176]: Marginal citation: [1946 c. 49](https://www.legislation.gov.uk/ukpga/1946/49).
+
+[^c655177]: Textual amendment: Words in s. 1(8) repealed (15.2.1999) by [1998 c. 17](https://www.legislation.gov.uk/ukpga/1998/17), [ss. 50](https://www.legislation.gov.uk/ukpga/1998/17/section/50), [51](https://www.legislation.gov.uk/ukpga/1998/17/section/51), [Sch. 4 para. 2(2)](https://www.legislation.gov.uk/ukpga/1998/17/schedule/4/paragraph/2/2), [Sch. 5 Pt. I](https://www.legislation.gov.uk/ukpga/1998/17/schedule/5/part/I) (with [Sch. 3 para. 5(1)](https://www.legislation.gov.uk/ukpga/1998/17/schedule/3/paragraph/5/1)); [S.I. 1999/161](https://www.legislation.gov.uk/uksi/1999/161), [art. 2(1)](https://www.legislation.gov.uk/uksi/1999/161/article/2/1)
+
+[^c655178]: Textual amendment: [S. 2](https://www.legislation.gov.uk/ukpga/1964/29/section/2) repealed and superseded by [Oil and Gas (Enterprise) Act 1982 (c. 23, SIF 86)](https://www.legislation.gov.uk/ukpga/1982/23), [s. 21(11)](https://www.legislation.gov.uk/ukpga/1982/23/section/21/11), [Sch. 4](https://www.legislation.gov.uk/ukpga/1982/23/schedule/4)
+
+[^c655179]: Textual amendment: [S. 3](https://www.legislation.gov.uk/ukpga/1964/29/section/3) repealed and superseded by [Oil and Gas (Enterprise) Act 1982 (c. 23, SIF 86)](https://www.legislation.gov.uk/ukpga/1982/23), [s. 22(8)](https://www.legislation.gov.uk/ukpga/1982/23/section/22/8), [Sch. 4](https://www.legislation.gov.uk/ukpga/1982/23/schedule/4)
+
+[^c655180]: Marginal citation: [1949 c. 74](https://www.legislation.gov.uk/ukpga/1949/74).
+
+[^c655181]: Textual amendment: Words substituted by virtue of [S.I. 1965/145](https://www.legislation.gov.uk/uksi/1965/145), [arts 2](https://www.legislation.gov.uk/uksi/1965/145/article/2), [3(2)](https://www.legislation.gov.uk/uksi/1965/145/article/3/2), [Sch. 1](https://www.legislation.gov.uk/uksi/1965/145/schedule/1)
+
+[^c655182]: Textual amendment: [S. 5](https://www.legislation.gov.uk/ukpga/1964/29/section/5) repealed by [Prevention of Oil Pollution Act 1971 (c. 60)](https://www.legislation.gov.uk/ukpga/1971/60), [Sch.](https://www.legislation.gov.uk/ukpga/1971/60/schedule)
+
+[^key-46b37460b24af8f111767afdd3b3bacd]: Textual amendment: [S. 6](https://www.legislation.gov.uk/ukpga/1964/29/section/6) repealed (25.7.2003 for specified purposes, 29.12.2003 in so far as not already in force) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [s. 411(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/2), [Sch. 19(1)](https://www.legislation.gov.uk/ukpga/2003/21/schedule/19/1) Note 1 (with [Sch. 18](https://www.legislation.gov.uk/ukpga/2003/21/schedule/18)); [S.I. 2003/1900](https://www.legislation.gov.uk/uksi/2003/1900), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2003/1900/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2003/1900/article/2/1), [Schs. 1](https://www.legislation.gov.uk/uksi/2003/1900/schedule/1) (with [art. 3](https://www.legislation.gov.uk/uksi/2003/1900/article/3)) (as amended by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), art. 1(3)); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(2)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/2) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+
+[^M_E_dc176cae-d223-4ac1-c63f-038f1b2442bb]: Extent: This version of this provision extends to England and Wales only; separate versions have been created for Scotland only and Northern Ireland only
+
+[^c655198]: Textual amendment: Words in s. 7 substituted (15.2.1999) by [1998 c. 17](https://www.legislation.gov.uk/ukpga/1998/17), [s. 50](https://www.legislation.gov.uk/ukpga/1998/17/section/50), [Sch. 4 para. 2(3)](https://www.legislation.gov.uk/ukpga/1998/17/schedule/4/paragraph/2/3); [S.I. 1999/161](https://www.legislation.gov.uk/uksi/1999/161), [art. 2(1)](https://www.legislation.gov.uk/uksi/1999/161/article/2/1) (with [Sch. 3 para. 5(1)](https://www.legislation.gov.uk/uksi/1999/161/schedule/3/paragraph/5/1))
+
+[^key-78af7697c619266812d268e0fa1629f0]: Textual amendment: Words in s. 7 omitted (E.W.) (1.10.2011) by virtue of [The Environmental Permitting (England and Wales) (Amendment) Regulations 2011 (S.I. 2011/2043)](https://www.legislation.gov.uk/uksi/2011/2043), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2011/2043/regulation/1/b), [Sch. 2 para. 1(a)](https://www.legislation.gov.uk/uksi/2011/2043/schedule/2) (with [reg. 18(5)](https://www.legislation.gov.uk/uksi/2011/2043/regulation/18/5))
+
+[^key-07428d03682bb8e3a06d658b638cd558]: Textual amendment: Words in s. 7 substituted (E.W.) (6.4.2010) by [The Environmental Permitting (England and Wales) Regulations 2010 (S.I. 2010/675)](https://www.legislation.gov.uk/uksi/2010/675), [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2010/675/regulation/1/1/b), [Sch. 26 para. 1(a)](https://www.legislation.gov.uk/uksi/2010/675/schedule/26) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/675/regulation/1/2), [Sch. 4](https://www.legislation.gov.uk/uksi/2010/675/schedule/4))
+
+[^key-e88bb415e0f6b300aa6b4e49f22e0ad0]: Textual amendment: Words in [s. 7](https://www.legislation.gov.uk/ukpga/1964/29/section/7) substituted (E.W.) (1.1.2017) by [The Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154)](https://www.legislation.gov.uk/uksi/2016/1154), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/1), [Sch. 29 para. 1](https://www.legislation.gov.uk/uksi/2016/1154/schedule/29) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/3), [77-79](https://www.legislation.gov.uk/uksi/2016/1154/regulation/77), [Sch. 4](https://www.legislation.gov.uk/uksi/2016/1154/schedule/4))
+
+[^key-7430e5b36b44acbdb5dc6a1a87e63cdc]: Textual amendment: Words in s. 7 omitted (E.W.) (1.10.2011) by virtue of [The Environmental Permitting (England and Wales) (Amendment) Regulations 2011 (S.I. 2011/2043)](https://www.legislation.gov.uk/uksi/2011/2043), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2011/2043/regulation/1/b), [Sch. 2 para. 1(b)](https://www.legislation.gov.uk/uksi/2011/2043/schedule/2) (with [reg. 18(5)](https://www.legislation.gov.uk/uksi/2011/2043/regulation/18/5))
+
+[^key-aee791490ef9832e954be5bba54b77e7]: Textual amendment: Words in s. 7 inserted (E.W.) (6.4.2010) by [The Environmental Permitting (England and Wales) Regulations 2010 (S.I. 2010/675)](https://www.legislation.gov.uk/uksi/2010/675), [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2010/675/regulation/1/1/b), [Sch. 26 para. 1(b)](https://www.legislation.gov.uk/uksi/2010/675/schedule/26) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/675/regulation/1/2), [Sch. 4](https://www.legislation.gov.uk/uksi/2010/675/schedule/4))
+
+[^M_E_1c336c0e-b849-41c4-d864-a2c09069c729]: Extent: This version of this provision extends to Scotland only; separate versions have been created for England and Wales only and Northern Ireland only
+
+[^V_S_9beba4e1-9c1a-a45d-aac1-0b44f21abd7e]: Textual amendment: Words in s. 7 substituted (15.2.1999) by [1998 c. 17](https://www.legislation.gov.uk/ukpga/1998/17), [s. 50](https://www.legislation.gov.uk/ukpga/1998/17/section/50), [Sch. 4 para. 2(3)](https://www.legislation.gov.uk/ukpga/1998/17/schedule/4/paragraph/2/3); [S.I. 1999/161](https://www.legislation.gov.uk/uksi/1999/161), [art. 2(1)](https://www.legislation.gov.uk/uksi/1999/161/article/2/1) (with [Sch. 3 para. 5(1)](https://www.legislation.gov.uk/uksi/1999/161/schedule/3/paragraph/5/1))
+
+[^key-e228573ea4068b4175439cbd58631690]: Textual amendment: Words in [s. 7](https://www.legislation.gov.uk/ukpga/1964/29/section/7) substituted (S.) (25.11.2021) by [The Environmental Authorisations (Scotland) Regulations 2018 (Consequential Modifications) Order 2021 (S.I. 2021/1315)](https://www.legislation.gov.uk/uksi/2021/1315), [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1315/article/1/1), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2021/1315/regulation/2/a)
+
+[^key-e0927757fcf324bf9030f74ff4f46df1]: Textual amendment: Words in [s. 7](https://www.legislation.gov.uk/ukpga/1964/29/section/7) substituted (S.) (25.11.2021) by [The Environmental Authorisations (Scotland) Regulations 2018 (Consequential Modifications) Order 2021 (S.I. 2021/1315)](https://www.legislation.gov.uk/uksi/2021/1315), [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1315/article/1/1), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2021/1315/regulation/2/b)
+
+[^M_E_365df8a6-8e05-4d85-8a8b-d1cb7f8c5167]: Extent: This version of this provision extends to Northern Ireland only; separate versions have been created for England and Wales only and Scotland only
+
+[^V_NI_726f7d6f-33ea-6793-533c-4efd3ddd05b7]: Textual amendment: Words in s. 7 substituted (15.2.1999) by [1998 c. 17](https://www.legislation.gov.uk/ukpga/1998/17), [s. 50](https://www.legislation.gov.uk/ukpga/1998/17/section/50), [Sch. 4 para. 2(3)](https://www.legislation.gov.uk/ukpga/1998/17/schedule/4/paragraph/2/3); [S.I. 1999/161](https://www.legislation.gov.uk/uksi/1999/161), [art. 2(1)](https://www.legislation.gov.uk/uksi/1999/161/article/2/1) (with [Sch. 3 para. 5(1)](https://www.legislation.gov.uk/uksi/1999/161/schedule/3/paragraph/5/1))
+
+[^V_NI_2ddf07b3-d805-c66f-7606-581d96157e5d]: Textual amendment: Words in s. 7 substituted (27.8.1993) by [1993 c. 12](https://www.legislation.gov.uk/ukpga/1993/12), [ss. 49(1)](https://www.legislation.gov.uk/ukpga/1993/12/section/49/1), [51(2)](https://www.legislation.gov.uk/ukpga/1993/12/section/51/2), [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/1993/12/schedule/4/paragraph/1)
+
+[^c655203]: Modification: S. 8(1) explained by [Petroleum and Submarine Pipe-Lines Act 1975 (c. 74)](https://www.legislation.gov.uk/ukpga/1975/74), [s. 45(1)](https://www.legislation.gov.uk/ukpga/1975/74/section/45/1)
+
+[^c655204]: Marginal citation: [1885 c. 49](https://www.legislation.gov.uk/ukpga/1885/49).
+
+[^key-b4d16b1168cadaf938a05d6b6c623802]: Textual amendment: Words in s. 8(1) repealed (1.1.2006) by [Energy Act 2004 (c. 20)](https://www.legislation.gov.uk/ukpga/2004/20), [ss. 103(1)(a)](https://www.legislation.gov.uk/ukpga/2004/20/section/103/1/a), [198(2)](https://www.legislation.gov.uk/ukpga/2004/20/section/198/2), [Sch. 23 Pts. 1](https://www.legislation.gov.uk/ukpga/2004/20/schedule/23/part/1); [S.I. 2005/877](https://www.legislation.gov.uk/uksi/2005/877), [art. 2(3)](https://www.legislation.gov.uk/uksi/2005/877/article/2/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2005/877/schedule/3)
+
+[^c655205]: Textual amendment: S. 8(1A) inserted (15.2.1999) by [1998 c. 17](https://www.legislation.gov.uk/ukpga/1998/17), [s. 50](https://www.legislation.gov.uk/ukpga/1998/17/section/50), [Sch. 4](https://www.legislation.gov.uk/ukpga/1998/17/schedule/4) para, 2(4) (with Sch. 3 para. 5(1)); [S.I. 1999/161](https://www.legislation.gov.uk/uksi/1999/161), [art. 2(1)](https://www.legislation.gov.uk/uksi/1999/161/article/2/1)
+
+[^key-56bf8d3e87609f43424536ff66256445]: Textual amendment: Words in s. 8(1A) substituted (1.1.2006) by [Energy Act 2004 (c. 20)](https://www.legislation.gov.uk/ukpga/2004/20), [ss. 103(1)(b)](https://www.legislation.gov.uk/ukpga/2004/20/section/103/1/b), [198(2)](https://www.legislation.gov.uk/ukpga/2004/20/section/198/2); [S.I. 2005/877](https://www.legislation.gov.uk/uksi/2005/877), [art. 2(3)](https://www.legislation.gov.uk/uksi/2005/877/article/2/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2005/877/schedule/3)
+
+[^key-9d5363d66643850f24dbd0396727c0e3]: Textual amendment: Words in [s. 8(1A)](https://www.legislation.gov.uk/ukpga/1964/29/section/8/1A) substituted (31.3.2014) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [s. 324(3)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/3), [Sch. 4 para. 1(2)](https://www.legislation.gov.uk/ukpga/2009/23/schedule/4/paragraph/1/2); [S.I. 2013/3055](https://www.legislation.gov.uk/uksi/2013/3055), [art. 2](https://www.legislation.gov.uk/uksi/2013/3055/article/2)
+
+[^c655206]: Textual amendment: S. 8(2) repealed by [Statute Law (Repeals) Act 1974 (c. 22)](https://www.legislation.gov.uk/ukpga/1974/22), [Sch. Pt XI](https://www.legislation.gov.uk/ukpga/1974/22/schedule)
+
+[^c655207]: Textual amendment: [S. 9](https://www.legislation.gov.uk/ukpga/1964/29/section/9) repealed by [Energy Act 1976 (c. 76)](https://www.legislation.gov.uk/ukpga/1976/76), [s. 22](https://www.legislation.gov.uk/ukpga/1976/76/section/22), [Sch. 4 Pt. I](https://www.legislation.gov.uk/ukpga/1976/76/schedule/4/part/I)
+
+[^c655208]: Textual amendment: [S. 10](https://www.legislation.gov.uk/ukpga/1964/29/section/10) repealed by [Statute Law Revision (Consequential Repeals) Act 1965 (c. 55)](https://www.legislation.gov.uk/ukpga/1965/55)
+
+[^c655209]: Textual amendment: Words substituted by [Oil and Gas (Enterprise) Act 1982 (c. 23, SIF 96)](https://www.legislation.gov.uk/ukpga/1982/23), [s. 37](https://www.legislation.gov.uk/ukpga/1982/23/section/37), [Sch. 3 para. 3](https://www.legislation.gov.uk/ukpga/1982/23/schedule/3/paragraph/3)
+
+[^c655210]: Textual amendment: [S. 11(3)](https://www.legislation.gov.uk/ukpga/1964/29/section/11/3) repealed by [Oil and Gas (Enterprise) Act 1982 (c. 23, SIF 86)](https://www.legislation.gov.uk/ukpga/1982/23), [s. 37](https://www.legislation.gov.uk/ukpga/1982/23/section/37), [Sch. 4](https://www.legislation.gov.uk/ukpga/1982/23/schedule/4)
+
+[^c655211]: Textual amendment: [S. 11A](https://www.legislation.gov.uk/ukpga/1964/29/section/11A) inserted by [Oil and Gas (Enterprise) Act 1982 (c. 23, SIF 86)](https://www.legislation.gov.uk/ukpga/1982/23), [s. 37](https://www.legislation.gov.uk/ukpga/1982/23/section/37), [Sch. 3 para. 4](https://www.legislation.gov.uk/ukpga/1982/23/schedule/3/paragraph/4)
+
+[^c655212]: Textual amendment: [S. 12](https://www.legislation.gov.uk/ukpga/1964/29/section/12) repealed by [Northern Ireland Constitution Act 1973 (c. 36)](https://www.legislation.gov.uk/ukpga/1973/36), [Sch. 6 Pt. I](https://www.legislation.gov.uk/ukpga/1973/36/schedule/6/part/I)

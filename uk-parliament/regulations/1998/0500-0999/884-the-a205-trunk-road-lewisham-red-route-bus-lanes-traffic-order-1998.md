@@ -1,0 +1,141 @@
+---
+title: The A205 Trunk Road (Lewisham) Red Route (Bus Lanes) Traffic Order 1998
+id: uksi/1998/884
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '1998-03-20'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1998/884
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1998/884/made/data.pdf
+pending_changes: 1
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The A205 Trunk Road (Lewisham) Red Route (Bus Lanes) Traffic Order 1998
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+1998 No. 884
+
+ROAD TRAFFIC
+
+The A205 Trunk Road (Lewisham) Red Route (Bus Lanes) Traffic Order 1998
+
+Made
+
+20th March 1998
+
+Coming into force
+
+3rd April 1998
+
+The Traffic Director for London, in accordance with a direction given to him by the Secretary of State under section 58 (1) of the Road Traffic Act 1991[^f00001] and in exercise of the powers conferred on the Secretary of State by section 6 of the Road Traffic Regulation Act 1984[^f00002], and of all other enabling powers, hereby makes the following Order:—
+
+## 1. Commencement and citation
+
+This Order may be cited as the A205 Trunk Road (Lewisham) Red Route (Bus Lanes) Traffic Order 1998, and shall come into force on 3rd April 1998.
+
+## 2. Interpretation
+
+In this Order—
+
+- (a) a reference to an article followed by a number is a reference to the article of this order so numbered;
+- (b) causing includes permitting;
+- (c) “carriageway” has the same meaning as in section 329(1) of the Highways Act 1980[^f00003];
+- (d) “vehicle” includes part of a vehicle;
+- (e) “bus”, “local bus”, “pedal cycle”, “taxi”, “bus lane”, “contra-flow” and “with-flow lane” have the meanings given in the Traffic Signs Regulations and General Directions 1994[^f00004];
+- (f) “dial-a-ride bus” means a vehicle—
+  - (i) displaying so as to be conspicuous on the outside of the vehicle a logo in a form approved by or with the authority of the Traffic Director for London and containing the words “dial-a-ride”; and
+  - (ii) constructed or adapted for the carriage of disabled persons and their companions and which is being used to provide a service for the carriage of such persons;
+- (g) “times of operation” means, in relation to a length of road specified in an item in column *(2)* of the table in the schedule, the times specified in that item in column *(3)* of that table;
+- (h) “permitted vehicles” means, in relation to a length of road specified in an item in column *(2)* of the table in the schedule, the vehicles specified in that item in column *(5)* of that table;
+- (i) an entry in column *(3), (4)* or *(5)* of an item in the table in the schedule to this order applies to that column in subsequent items in that schedule.
+
+## 3. Bus Lane Controls
+
+(1) No person shall cause a vehicle to be in a bus lane in a length of road specified in an item in column *(2)* of the table in the schedule during the times specified in that item in column *(3)* of that item unless that vehicle is proceeding in the direction specified in column *(4)* of that item and is of a type specified in column *(5)* of that item.
+
+(2) The controls specified in paragraph (1) of this article do not apply so as to prevent a vehicle stopping in a bus lane for as long as may be necessary—
+
+- (a) to enable a person to get on or off the vehicle; or
+- (b) to enable goods to be loaded on or unloaded from the vehicle;
+
+if and in so far as the activity is not prohibited by the provisions of any other order.
+
+## 4. Exemptions
+
+(1) The controls specified in article 3(1) do not apply in respect of a vehicle which is being used for a purpose which is within the exemption to a restriction or prohibition imposed by any other order made under the Road Traffic Regulation Act 1984 or which is permitted by any other order.
+
+(2) The controls specified in article 3(1) do not apply in respect of a vehicle stopping in a bus lane if the vehicle is being used in—
+
+- (a) the service of a local authority for the purpose of collecting refuse;
+- (b) the pursuance of any statutory duty of the Post Office for the purpose of collecting or delivering letters provided the vehicle bears the Royal Mail livery;
+- (c) connection with the removal of any obstruction to traffic;
+- (d) connection with the maintenance, improvement or reconstruction of any road;
+- (e) connection with the maintenance, improvement or construction of any street furniture including bus stop infrastructure;
+- (f) connection with any building operation or demolition;
+- (g) connection with the laying, erection, alteration or repair in or near the bus lane of any sewer or of any main, pipe or apparatus for the supply of gas, water or electricity, or of any telecommunications apparatus as defined in paragraph 1(1) of Schedule 2 of the Telecommunications Act 1984[^f00005];
+
+if the vehicle cannot be used for that purpose without being in the bus lane and in so far as the activity is not prohibited by the provisions of any other order made under the Road Traffic Regulation Act 1984.
+
+(3) The controls specified in article 3(1) do not apply in respect of—
+
+- (a) a vehicle entering or stopping in a bus lane so as to avoid an accident;
+- (b) a vehicle entering or stopping in a bus lane to allow a person to get or give help in consequence of an accident or emergency or otherwise take action for public safety;
+- (c) a vehicle crossing a bus lane in order to get to or from any road adjacent to the bus lane or any vehicular access to premises adjacent to the bus lane;
+- (d) a vehicle being in a bus lane to such an extent and for such a time as is needed to comply with any requirement resulting from works or an emergency in any part of the road adjoining the bus lane;
+- (e) a vehicle being used for ambulance, fire brigade or police purposes;
+- (f) a vehicle stopping in a bus lane if it has lawfully entered the bus lane and it has to stop—
+  - (i) by law;
+  - (ii) to avoid an accident;
+  - (iii) in circumstances beyond the drivers control;
+- (g) anything done with the permission or at the direction of a police constable in uniform or a traffic warden.
+
+## 5. Revocation or variation of existing Orders
+
+The A205 Trunk Road (Lewisham) Red Route (Bus Lanes) Experimental Traffic Order 1997[^f00006] is hereby revoked in so far as its provisions relate to any length of road specified in the table in the schedule.
+
+Signed in accordance with a direction from the Secretary of State.
+
+Derek Turner
+
+Traffic Director for London
+
+20th March 1998
+
+## THE SCHEDULE
+
+Article 3
+
+**Table**
+
+<table>
+<thead>
+<tr><th><em>(1)</em></th><th><em>(2)</em></th><th><em>(3)</em></th><th><em>(4)</em></th><th><em>(5)</em></th></tr>
+<tr><th>Item</th><th>Lengths of road</th><th>Times of operation</th><th>Direction of travel and type of bus lane</th><th>Type of permitted vehicle</th></tr>
+</thead>
+<tbody>
+<tr><td>1.</td><td>A205 London Road Eastbound carriageway (north side), from a point 17.0 metres north-west of the north-western kerb-line of Waldenshaw Road to the party wall of 16 and 18 London Road.</td><td>4 pm–7 pm Monday–Friday inclusive</td><td>eastbound with flow lane</td><td>Bus, Taxi, Pedal Cycle, Dial-a-ride bus</td></tr>
+<tr><td>2.</td><td>Stanstead Road Eastbound carriageway (north side), from a point 2.0 metres west of the party wall of 349 and 351 Stanstead Road to a point 54.5 metres north-east of the extended line of the north-eastern boundary of 377 Stanstead Road.</td><td>7 am–10 am and 4 pm–7 pm Monday– Friday inclusive</td><td>eastbound with flow lane</td><td>Bus, Taxi, Pedal Cycle, Dial-a-ride bus</td></tr>
+<tr><td>3.</td><td>Waldram Park Road westbound carriageway (south side), from a point 41.0 metres south-west of the western kerb-line of Sunderland Road to a point 3.0 metres north-east of the eastern kerb-line of Westbourne Drive.</td><td>7 am–10 am and 4 pm–7 pm Monday–Saturday inclusive</td><td>westbound with flow lane</td><td>Bus, Taxi Pedal Cycle Dial-a-ride bus</td></tr>
+</tbody>
+</table>
+
+## Annotations
+
+[^f00001]: Footnote: [1991 c. 40](https://www.legislation.gov.uk/ukpga/1991/40).
+
+[^f00002]: Footnote: [1984 c. 27](https://www.legislation.gov.uk/ukpga/1984/27).
+
+[^f00003]: Footnote: [1980 c. 66](https://www.legislation.gov.uk/ukpga/1980/66).
+
+[^f00004]: Footnote: S.I. [1994/1519](https://www.legislation.gov.uk/uksi/1994/1519).
+
+[^f00005]: Footnote: [1984 c. 12](https://www.legislation.gov.uk/ukpga/1984/12).
+
+[^f00006]: Footnote: S.I. [1997/555](https://www.legislation.gov.uk/uksi/1997/555).

@@ -1,0 +1,136 @@
+---
+title: The Medicines (Bal Jivan Chamcho Prohibition) (No.2) Order 1977
+id: uksi/1977/670
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '1977-04-04'
+text_date: '2020-12-31'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/1977/670
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1977/670/pdfs/uksi_19770670_en.pdf
+- http://www.legislation.gov.uk/uksi/1977/670/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Westlaw UK derived from Crown Copyright material and contributed to legislation.gov.uk
+summary: ''
+---
+
+# The Medicines (Bal Jivan Chamcho Prohibition) (No.2) Order 1977
+
+> Text as at 2020-12-31.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+1977 No. 670
+
+MEDICINES
+
+The Medicines (Bal Jivan Chamcho Prohibition) (No.2) Order 1977
+
+Made
+
+4th April 1977
+
+Laid before Parliament
+
+19th April 1977
+
+Coming into Operation
+
+10th May 1977
+
+The Secretaries of State respectively concerned with health in England, in Wales and in Scotland and the Department of Health and Social Services for Northern Ireland, acting jointly, in exercise of powers conferred by section 62(1)(a) of the Medicines Act 1968 and now vested in them[^f00001] and of all other powers enabling them in that behalf, it appearing to them to be necessary in the interests of safety to make the following order, after consulting such organisations as appear to them to be representative of interests likely to be substantially affected by the order, and after consulting and taking into account the advice of the Committee on Safety of Medicines[^f00002], hereby make the following order:—
+
+## 1. Citation, commencement and interpretation[^key-78b17565153f9a9ccce55da76ddffe81]
+
+(1) This order, which may be cited as the Medicines (Bal Jivan Chamcho Prohibition) (No. 2) Order 1977, shall come into operation on 10th May 1977.
+
+(2) In this order, unless the context otherwise requires, “**the Act**” means the Medicines Act 1968 and other expressions have the same meanings as in the Act.
+
+(3) Except in so far as the context otherwise requires, any reference in this order to any provision of any enactment shall be construed as a reference to that provision as amended or extended by any enactment or instrument and as including a reference to any provision which may re-enact or replace it.
+
+(4) The rules for the construction of Acts of Parliament contained in the Interpretation Act 1889 shall apply for the purposes of the interpretation of this order as they apply for the purposes of the interpretation of an Act of Parliament.
+
+## 2. Prohibition of sale, supply and importation of Bal Jivan Chamcho[^key-6a2b7dbb80e3d765f6a6d500b37cc175]
+
+(1) The medicinal products specified in paragraph (2) below are hereby designated for the purposes of section 62(1)(a) of the Act and, subject to paragraphs (3) and (4)[^key-47901f47b897672418a075002ef27176] below, their sale, supply and importation is hereby prohibited.
+
+(2) The medicinal products referred to in paragraph (1) above are those products that are presented for sale or supply as a baby tonic under the name of BAL JIVAN CHAMCHO consisting of a dark brown aromatic solid substance affixed to a spoon-shaped metal appliance which is contained in a cardboard container measuring approximately 12 × 4 × 2 centimetres and labelled in pink type in three languages, that is to say English, Gujarati and Hindi, with directions in English as follows:—
+
+> CHILDREN DISEASES VIZ VARADH-CAPILLARY, BRONCHITIES, GREENISH DIARRHOEA, RICKETS, COUGH, CONVULSIONS ETC. RUBBING THE MEDICINE WITH WATER OR MILK TILL IT GETS COLOUR TO BE TAKEN TWICE A DAY.
+
+.
+
+(3) The prohibition imposed by paragraph (1) above shall not apply to the sale or supply of any medicinal product as aforesaid where the sale or supply is to any of the following persons:—
+
+*Extent: N.I.*
+
+- (a (Extent: E+W+S) (affected by repeal, see note))[^key-799d4081d124de2e44d2bcd7dd0591dc] a public analyst appointed under section 89 of the Food and Drugs Act 1955, section 27 of the Food and Drugs (Scotland) Act 1956 or section 31 of the Food and Drugs Act (Northern Ireland) 1958; *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-799d4081d124de2e44d2bcd7dd0591dc]
+
+*Extent: N.I.*
+
+- (b (Extent: E+W+S) (affected by repeal, see note))[^key-799d4081d124de2e44d2bcd7dd0591dc] a sampling officer within the meaning of the Food and Drugs Act 1955, the Food and Drugs (Scotland) Act 1956 or the Food and Drugs Act (Northern Ireland) 1958; *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-799d4081d124de2e44d2bcd7dd0591dc]
+
+*Extent: E+W+S*
+
+- (a) a public analyst appointed under section 27 of the Food Safety Act 1990,
+
+*Extent: E+W+S*
+
+- (b) an authorised officer of a drugs authority,
+- (c) a sampling officer within the meaning of Schedule 3 to the Act;
+- (d) a person duly authorised by an enforcement authority under sections 111 and 112 of the Act;
+- (e)[^key-11b49e293690a6ae864bcde16da859cd] an inspector appointed by the General Pharmaceutical Council under article 8(1) of the Pharmacy Order 2010.
+
+(4)[^key-bd44a8b0a18d851255b41204fa9c8f69] The prohibition imposed by paragraph (1) does not apply where the medicinal product—
+
+- (a) is imported from an approved country for import; and
+- (b) is being, or is to be, exported to a country other than the United Kingdom.
+
+(5)[^key-758515420999bcf9a98c8a221c107262] In paragraph (4), “**approved country for import**” has the meaning given in regulation 8(1) of the Human Medicines Regulations 2012.
+
+David Ennals
+
+Secretary of State for Social Services
+
+John Morris
+
+Secretary of State for Wales
+
+Bruce Millan
+
+Secretary of State for Scotland
+
+Sealed with the official seal of the Department of Health and Social Services for Northern Ireland this 4th day of April 1977.
+
+N. Dugdale
+
+Permanent Secretary
+
+EXPLANATORY NOTE
+
+This Order prohibits the sale, supply and importation of a medicinal product presented as a baby tonic under the name of BAL JIVAN CHAMCHO. Details of the product and its container are given in Article 2(2). The prohibition previously imposed by the Medicines (Bal Jivan Chamcho Prohibition) Order 1977 (S.I. 1977 No. 172) ceases to have effect on 9th May 1977.
+
+## Annotations
+
+[^f00001]: Footnote: In the case of the Secretaries of State concerned with health in England and in Wales by virtue of Article 2(2) of, and Schedule 1 to, the Transfer of Functions (Wales) Order 1969 (S.I. 1969/388 (1969 I, p. 1070)), and in the case of the Department of Health and Social Services for Northern Ireland by virtue of section 40 of, and Schedule 5 to, the Northern Ireland Constitution Act 1973 (c. 36), and section 1(3) of, and paragraph 2(1)(b) of Schedule 1 to, the Northern Ireland Act 1974 (c. 28).
+
+[^f00002]: Footnote: S.I. 1970/1257 (1970 II, p. 4098).
+
+[^key-78b17565153f9a9ccce55da76ddffe81]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/1977/670/article/1) in force at 10.5.1977, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1977/670/article/1/1)
+
+[^key-6a2b7dbb80e3d765f6a6d500b37cc175]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/1977/670/article/2) in force at 10.5.1977, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1977/670/article/1/1)
+
+[^key-47901f47b897672418a075002ef27176]: Textual amendment: Words in art. 2(1) substituted (8.4.1997) by [The Medicines (Bal Jivan Chamcho Prohibition) (No. 2) Amendment Order 1997 (S.I. 1997/856)](https://www.legislation.gov.uk/uksi/1997/856), [arts. 1](https://www.legislation.gov.uk/uksi/1997/856/article/1), [2(a)](https://www.legislation.gov.uk/uksi/1997/856/article/2/a)
+
+[^key-799d4081d124de2e44d2bcd7dd0591dc]: Textual amendment: Art. 2(3)(a)(b) substituted (E.W.S.) (1.1.1991) by [The Food Safety Act 1990 (Consequential Modifications) (No 2) (Great Britain) Order 1990 (S.I. 1990/2487)](https://www.legislation.gov.uk/uksi/1990/2487), [arts. 1](https://www.legislation.gov.uk/uksi/1990/2487/article/1), [2(1)](https://www.legislation.gov.uk/uksi/1990/2487/article/2/1)
+
+[^key-11b49e293690a6ae864bcde16da859cd]: Textual amendment: Art. 2(3)(e) substituted (27.9.2010) by virtue of [The Pharmacy Order 2010 (S.I. 2010/231)](https://www.legislation.gov.uk/uksi/2010/231), [art. 1(5)](https://www.legislation.gov.uk/uksi/2010/231/article/1/5), [Sch. 4 para. 19](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/paragraph/19) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2010/231/schedule/5)); [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
+
+[^key-bd44a8b0a18d851255b41204fa9c8f69]: Textual amendment: Art. 2(4) substituted (31.12.2020) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [reg. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [Sch. 8 para. 3(a)](https://www.legislation.gov.uk/uksi/2019/775/schedule/8/paragraph/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-758515420999bcf9a98c8a221c107262]: Textual amendment: Art. 2(5) substituted (31.12.2020) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [reg. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [Sch. 8 para. 3(b)](https://www.legislation.gov.uk/uksi/2019/775/schedule/8/paragraph/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

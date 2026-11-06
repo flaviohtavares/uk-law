@@ -1,0 +1,69 @@
+---
+title: Taxation of Chargeable Gains Act 1992, section 234
+act: Taxation of Chargeable Gains Act 1992
+section: '234'
+status: revised-with-pending-changes
+text_date: '2026-04-06'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/1992/12/section/234
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Taxation of Chargeable Gains Act 1992, section 234
+
+> **Warning: changes not yet applied to this text (23).** Text as at 2026-04-06. See https://www.legislation.gov.uk/changes/affected/ukpga/1992/12
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 234. Chargeable events when bonds owned.
+
+*Extent: E+W+S+N.I.*
+
+(1) Subsection (3) below applies where—
+
+- (a) paragraphs (a) to (c) of section 232(1) are fulfilled, and
+- (b) the condition set out below is fulfilled.
+
+(2) The condition is that—
+
+- (a) all the replacement assets were shares (new shares) in a company or companies,
+- (b) there has been a transaction to which section 116(10) applies and as regards which all the new shares constitute the old asset and qualifying corporate bonds constitute the new asset, and
+- (c) at the time the chargeable event occurs, the claimant or a person then connected with him is beneficially entitled to all the bonds.
+
+(3) In a case where this subsection applies, a chargeable gain shall be deemed to have accrued to the claimant or connected person (as the case may be); and the gain shall be deemed to have accrued immediately before the time when the chargeable event occurs and to be of an amount equal to the relevant amount.
+
+(4) The relevant amount is an amount equal to the lesser of—
+
+- (a) the first amount, and
+- (b) the second amount.
+
+(5) The first amount is—
+
+- (a) the amount of the chargeable gain that would be deemed to accrue under 116(10)(b) if there were a disposal of all the bonds at the time the chargeable event occurs, or
+- (b) nil, if an allowable loss would be so deemed to accrue if there were such a disposal.
+
+(6) The second amount is an amount equal to—
+
+- (a) the amount by which the amount or value of the consideration mentioned in section 229(1)(b) was treated as reduced by virtue of that provision (where it applied), or
+- (b) the amount by which the amount or value of the consideration mentioned in section 229(3)(b) was treated as reduced by virtue of that provision (where it applied).
+
+(7) In a case where subsection (3) above would apply if “all the" in subsection (2) above (in one or more places) read “ any of the ”, subsection (3) shall nevertheless apply, but as if—
+
+- (a) in subsection (5) above “all the bonds" read “ the bonds concerned ”,
+- (b) the second amount were reduced to whatever amount is just and reasonable, and
+- (c) the relevant amount were reduced accordingly.
+
+(8) Subsection (9) below applies where—
+
+- (a) subsection (3) above applies (whether or not by virtue of subsection (7) above), and
+- (b) before the time when the chargeable event occurs anything has happened as regards any of the new shares, or any of the bonds, such that it can be said that a charge has accrued in respect of any of the gain carried forward by virtue of section 229(1) or (3).
+
+(9) If in such a case it is just and reasonable for subsection (3) above to apply as follows, it shall apply as if—
+
+- (a) the second amount were reduced (or further reduced) to whatever amount is just and reasonable, and
+- (b) the relevant amount were reduced (or further reduced) accordingly (if the second amount is less than the first amount),
+
+but nothing in this subsection shall have the effect of reducing the second amount below nil.
+
+(10) For the purposes of subsection (8)(b) above the gain carried forward by virtue of section 229(1) or (3) is the gain represented by the amount which by virtue of either of those provisions falls to be deducted from the expenditure allowable in computing a gain accruing on the disposal of replacement assets (that is, the amount found under subsection (6)(a) or (b) above, as the case may be).

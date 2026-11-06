@@ -1,0 +1,703 @@
+---
+title: Customs and Excise Duties (General Reliefs) Act 1979
+id: ukpga/1979/3
+type: UnitedKingdomPublicGeneralAct
+category: primary
+status: revised
+made_date: '1979-02-22'
+text_date: '2024-02-22'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/1979/3
+pdf_urls:
+- http://www.legislation.gov.uk/ukpga/1979/3/pdfs/ukpga_19790003_en.pdf
+- http://www.legislation.gov.uk/ukpga/1979/3/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Customs and Excise Duties (General Reliefs) Act 1979
+
+> Text as at 2024-02-22.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+Customs and Excise Duties (General Reliefs) Act 1979
+
+1979 c.3
+
+An Act to consolidate certain enactments relating to reliefs and exemptions from customs and excise duties, section 7 of the Finance Act 1968 and certain other related enactments.
+
+\[22nd February 1979\][^c984173][^c984174][^c984175][^c984176][^key-a36e28245cab17ccbf079d82744d6786][^key-8c8123093fa910b3d9191833424d4df2][^key-ff3621da46ee77d9e67819b29d0b340c][^key-273e4a93c0a10ccb169e2c887fb6a0ef][^key-a44a179d481139654924a210b226ed90][^key-6d4f5beea22ed7e00db6db96305bdac6][^key-61fbd893a00ce5c435ec99d243f9c74e][^key-d6a7e5e0a102f174ef4812d047d3077f]
+
+## ...[^key-74a2d127177cc610b2751fd58534b860]
+
+### 1. Reliefs from customs duty for conformity with EU obligations and other international obligations, etc.[^key-74a2d127177cc610b2751fd58534b860][^M_F_d6ec21d0-db3f-467b-efb1-4a77b47d2c68]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 2. Reliefs from customs duty referable to Community practices.[^key-64837e0e75fc160e99659e34cbd19782]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 3. Power to exempt particular importations of certain goods from customs duty.[^key-785ac54248ffd2019b7a0cdbff84f497]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 4. Administration of reliefs under section 1 and administration or implementation of similar Community reliefs.[^key-2f46d07e90efaac09560e71bfb1b441d]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Reliefs from duties for Channel Islands or Isle of Man goods
+
+### 5. Relief from customs duty of certain goods from Channel Islands.[^key-c40363449cf71c3fd92d17d214d4be70]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 6. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c984181]
+
+## ... Reliefs from ... excise duties[^key-dadeb706feed1ae143682d535334d203][^key-dadeb706feed1ae143682d535334d203]
+
+### 7. Power to provide for reliefs from excise duty and value added tax in respect of imported legacies.[^c984182][^key-63513b50660a1badf20243e38759303b]
+
+(1) The Commissioners may by order make provision for conferring reliefs from excise[^key-f624a1fe1bec8407e7faa15e1e3b494f] duty and value added tax in respect of goods imported into the United Kindom by or for any person who has become entitled to them as legatee.
+
+(2) Any such relief may take the form either of an exemption from payment of excise[^key-f06f1d64913d3ea2aa42e8e20c833620] duty and tax or of a provision whereby the sum payable by way of excise[^key-3d2a5e666aa05d420a34d24dcb66d75a] duty or tax is less than it would otherwise be.
+
+(3)[^key-de67e2ec43bed563bf18a4b2ad8ba25d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) An order under this section—
+
+- (a) may make any relief for which it provides [^key-2c2aa138c3558d5195ca55c5c6147231]... subject to conditions, including conditions which are to be complied with after the importation of the goods to which the relief applies;
+- (b) may, in relation to any relief conferred by order made under this section, contain such incidental and supplementary provisions as the Commissioners think necessary or expedient; and
+- (c) may make different provision for different cases.
+
+(5) In this section—
+
+- [^key-92250027c62f1e93e7ff884adbb29b9d]...
+- “excise duty” means any duty of excise chargeable on goods and includes any addition to the duty by virtue of section 1 of the Excise Duties (Surcharges or Rebates) Act 1979;[^key-cea564ab339661624d4a47fafb216a4f]
+
+  “**legatee**” means any person taking under a testamentary disposition or donatio mortis causa or on an intestacy; and
+- “**value added tax**” means value added tax chargeable on the importation of goods.
+
+### 8. Relief from ... excise duty on trade samples, labels, etc.[^key-950e84b650a6144497d829c5d7e6f2ec]
+
+The Commissioners may allow the delivery without payment of [^key-125c1eb28d8e487b1dd92a6ccfd92a1a]... excise duty on importation, subject to such conditions and restrictions as they see fit—
+
+- (a) of trade samples of such goods as they see fit, whether imported as samples or drawn from the goods on their importation;
+- (b) of labels or other articles supplied without charge for the purpose of being re-exported with goods manufactured or produced in, and to be exported from, the United Kingdom or the Isle of Man[^c984184].
+
+### 9. Relief from ... excise duty on antiques, prizes, etc.[^key-419375f323491ad73a0dd55f8005f8eb]
+
+The Commissioners may allow the delivery without payment of [^key-9ef09c0fdd3295eb8b121036cf231c60]... excise duty on importation—
+
+- (a) of any goods (other than spirits or wine) which are proved to the satisfaction of the Commissioners to have been manufactured or produced more than 100 years before the date of importation;
+- (b) of articles which are shown to the satisfaction of the Commissioners to have been awarded abroad to any person for distinction in art, literature, science or sport, or for public service, or otherwise as a record of meritorious achievement or conduct, and to be imported by or on behalf of that person.
+
+## ...[^key-a0954036d3094b35e4cca2fa19b4798a]
+
+### 10. Relief from excise duty on certain United Kingdom goods re-imported.
+
+(1 (Extent: E) (affected by repeal, see note))[^key-4c4859e03bcfd05f62b041a5c28f2216] Without prejudice to any other enactment relating to excise, the following provisions of this section shall have effect in relation to goods manufactured or produced in the United Kingdom *(Extent: E)* *(affected by repeal, see note)*[^key-4c4859e03bcfd05f62b041a5c28f2216] or the Isle of Man[^c984185] *(Extent: E)* *(affected by repeal, see note)*[^key-4c4859e03bcfd05f62b041a5c28f2216] which are re-imported into the United Kingdom after exportation therefrom. *(Extent: E)* *(affected by repeal, see note)*[^key-4c4859e03bcfd05f62b041a5c28f2216]
+
+(2 (Extent: E) (affected by repeal, see note))[^key-4c4859e03bcfd05f62b041a5c28f2216] If the goods are at the date of their re-importation excise goods, they may on re-importation be delivered for home use without payment of excise duty if it is shown to the satisfaction of the Commissioners— *(Extent: E)* *(affected by repeal, see note)*[^key-4c4859e03bcfd05f62b041a5c28f2216]
+
+- (a (Extent: E) (affected by repeal, see note))[^c984186][^c984187][^c984188][^key-4c4859e03bcfd05f62b041a5c28f2216] that at the date of their exportation the goods were not excise goods or, if they were then excise goods, that the excise duty had been paid before their exportation; and *(Extent: E)* *(affected by repeal, see note)*[^key-4c4859e03bcfd05f62b041a5c28f2216]
+- (b (Extent: E) (affected by repeal, see note))[^key-4c4859e03bcfd05f62b041a5c28f2216] that no drawback in respect of the excise duty and no allowance has been paid on their exportation or that any such drawback or allowance so paid has been repaid to the Consolidated Fund; and *(Extent: E)* *(affected by repeal, see note)*[^key-4c4859e03bcfd05f62b041a5c28f2216]
+- (c (Extent: E) (affected by repeal, see note))[^key-4c4859e03bcfd05f62b041a5c28f2216] that the goods have not undergone any process outside the United Kingdom since their exportation. *(Extent: E)* *(affected by repeal, see note)*[^key-4c4859e03bcfd05f62b041a5c28f2216]
+
+(3 (Extent: E) (affected by repeal, see note))[^key-4c4859e03bcfd05f62b041a5c28f2216] If the goods both are at the date of their re-importation and were at the date of their exportation excise goods, but they were exported without the excise duty having been paid from a warehouse or from the place where they were manufactured or produced, then, where the following conditions are satisfied, that is to say— *(Extent: E)* *(affected by repeal, see note)*[^key-4c4859e03bcfd05f62b041a5c28f2216]
+
+- (a (Extent: E) (affected by repeal, see note))[^key-4c4859e03bcfd05f62b041a5c28f2216] it is shown to the satisfaction of the Commissioners that they have not undergone any process outside the United Kingdom since their exportation; and *(Extent: E)* *(affected by repeal, see note)*[^key-4c4859e03bcfd05f62b041a5c28f2216]
+- (b (Extent: E) (affected by repeal, see note))[^key-4c4859e03bcfd05f62b041a5c28f2216] any allowance paid on their exportation is repaid to the Consolidated Fund, *(Extent: E)* *(affected by repeal, see note)*[^key-4c4859e03bcfd05f62b041a5c28f2216]
+
+the goods may on their re-importation, subject to such conditions and restrictions as the Commissioners may impose, be entered and removed without payment of excise duty for re-warehousing or for return to the place where they were manufactured or produced, as the case may be. *(Extent: E)* *(affected by repeal, see note)*[^key-4c4859e03bcfd05f62b041a5c28f2216]
+
+(4 (Extent: E) (affected by repeal, see note))[^key-4c4859e03bcfd05f62b041a5c28f2216] Nothing in this section shall authorise the delivery for home use of any goods not otherwise eligible therefor. *(Extent: E)* *(affected by repeal, see note)*[^key-4c4859e03bcfd05f62b041a5c28f2216]
+
+(5 (Extent: E) (affected by repeal, see note))[^key-4c4859e03bcfd05f62b041a5c28f2216] In this section— *(Extent: E)* *(affected by repeal, see note)*[^key-4c4859e03bcfd05f62b041a5c28f2216]
+
+- “ *(Extent: E)* *(affected by repeal, see note)*[^key-4c4859e03bcfd05f62b041a5c28f2216]**excise goods *(Extent: E)* *(affected by repeal, see note)*[^key-4c4859e03bcfd05f62b041a5c28f2216]**” means goods— *(Extent: E)* *(affected by repeal, see note)*[^key-4c4859e03bcfd05f62b041a5c28f2216]
+- (a (Extent: E) (affected by repeal, see note))[^key-4c4859e03bcfd05f62b041a5c28f2216] of a class or description chargeable at the time in question with a duty of excise; or *(Extent: E)* *(affected by repeal, see note)*[^key-4c4859e03bcfd05f62b041a5c28f2216]
+- (b (Extent: E) (affected by repeal, see note))[^key-4c4859e03bcfd05f62b041a5c28f2216] in the manufacture or preparation of which any goods of such a class or description have been used; *(Extent: E)* *(affected by repeal, see note)*[^key-4c4859e03bcfd05f62b041a5c28f2216]
+  - “ *(Extent: E)* *(affected by repeal, see note)*[^key-4c4859e03bcfd05f62b041a5c28f2216]**the excise duty *(Extent: E)* *(affected by repeal, see note)*[^key-4c4859e03bcfd05f62b041a5c28f2216]**” means the duty by virtue of which the goods are or were at the time in question excise goods. *(Extent: E)* *(affected by repeal, see note)*[^key-4c4859e03bcfd05f62b041a5c28f2216]
+
+### 11. Relief from excise duty on certain foreign goods re-imported.
+
+(1) Without prejudice to any other enactment relating to excise but subject to subsection (2) below, goods manufactured or produced outside the United Kingdom and the Isle of Man[^c984189] which are re-imported into the United Kingdom after exportation therefrom may on their re-importation be delivered without payment of excise duty for home use, where so eligible, if it is shown to the satisfaction of the Commissioners—
+
+- (a)[^c984190][^c984191][^c984192] that no excise duty was chargeable thereon at their previous importation or that any excise duty so chargeable was then paid; and
+- (b) that no drawback has been paid or excise duty refunded on their exportation or that any drawback so paid or excise duty so refunded has been repaid to the Consolidated Fund; and
+- (c) that the goods have not undergone any process outside the United Kingdom since their exportation.
+
+(2) For the purposes of this section goods which on their previous importation were declared for a transit procedure under Part 1 of the Taxation (Cross-border Trade) Act 2018[^key-8ae6050adfc1b7b444cef8a94f9e6275] or were permitted to be delivered without payment of excise duty as being imported only temporarily with a view to subsequent re-exportation and which were re-exported accordingly shall on their re-importation be deemed not to have been previously imported.
+
+### 11A. Relief from excise duty on goods imported for testing etc.[^c984196][^c984195][^key-473aa6e16c0b48a08befefc36b6ceefe]
+
+(1) The Commissioners may by order provide that, in such cases and subject to such exceptions as may be specified in the order, goods imported into the United Kingdom for the sole or main purpose—
+
+- (a) of being examined, analysed or tested; or
+- (b) of being used to test other goods,
+
+shall be relieved from excise duty chargeable on importation; and any such relief may take the form either of an exemption from payment of duty or of a provision whereby the sum payable by way of duty is less than it otherwise would be.
+
+(2) An order under this section—
+
+- (a) may make any relief for which it provides subject to conditions specified in or under the order, including conditions to be complied with after the importation of the goods to which the relief applies;
+- (b) may contain such incidental and supplementary provisions as the Commissioners think necessary or expedient; and
+- (c) may make different provision for different cases.
+
+(3) In this section, reference to excise duty include any additions to such duty by virtue of section 1 of the Excise Duties (Surcharges or Rebates) Act [^c984197]1979.
+
+## Relief for goods for Her Majesty’s ships
+
+### 12. Supply of duty-free goods to Her Majesty’s ships.
+
+(1) The Treasury may by regulations provide that, subject to any prescribed conditions, goods of any description specified in the regulations which are supplied either—
+
+- (a) to any ship of the Royal Navy in commission of a description so specified, for the use of persons serving in that ship, being persons borne on the books of that or some other ship of the Royal Navy or a naval establishment; or
+- (b) to the Secretary of State, for the use of persons serving in ships of the Royal Navy or naval establishments,
+
+shall for all or any purposes of any excise duty or drawback in respect of those goods be treated as exported, and a person supplying or intending to supply goods as mentioned in paragraph (a) or (b) above shall be treated accordingly as exporting or intending to export them.
+
+(2) Regulations made under this section with respect to goods of any description may regulate or provide for regulating the quantity allowed to any ship or establishment, the manner in which they are to be obtained and their use or distribution.
+
+(3) The regulations may—
+
+- (a) contain such other incidental or supplementary provisions as appear to the Treasury to be necessary for the purposes of this section, including any adaptations of the customs and excise Acts; and
+- (b) make different provision in relation to different cases, and in particular in relation to different classes or descriptions of goods or of ships or establishments.
+
+(4) In subsection (1) above “**prescribed**” means prescribed by regulations under this section or, in pursuance of any such regulations, by the Commissioners after consulation with the Secretary of State.
+
+(5) Before making any regulations under this section, the Treasury shall consult with the Secretary of State and with the Commissioners.
+
+(6)[^key-be5335f65833598c46ed3b96905737d8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Personal reliefs
+
+### 13. Power to provide, in relation to persons entering the United Kingdom, for reliefs from excise duty and value added tax and for simplified computation of excise duty and tax.[^c984215][^key-ca4e12eac2bb75000e84a9ca41eaf691][^key-c83241bdba37cb8a389bb132a261f8b9][^key-5231e39e95c07cfe38c6a226e443039c]
+
+(1) The Commissioners may by order make provision for conferring on persons entering the United Kingdom reliefs from excise[^key-89bd8ea5606c3f7f3d3e04d30b29cabe] duty and value added tax; and any such relief may take the form either of an exemption from payment of excise[^key-ad792e5e660ad638ab09666a0d75a609] duty and tax or of a provision whereby the sum payable by way of excise[^key-f1138347762b4ea0a1c97f065f6fabf8] duty or tax is less than it would otherwise be.
+
+(1A)[^key-883fe33a0a0c9e86efb972327855622e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) Without prejudice to subsection (1) above, the Commissioners may by order make provision whereby, in such cases and to such extent as may be specified in the order, a sum calculated at a rate specified in the order is treated as the aggregate amount payable by way of excise[^key-6e0d9ee5ef9b06519cd66bc9e265f5f7] duty and tax in respect of goods imported by a person entering the United Kingdom; but any order making such provision shall enable the person concerned to elect that excise[^key-26012d9eec7cfc530b17aaff75d80d36] duty and tax shall be charged on the goods in question at the rate which would be applicable apart from that provision.
+
+(3) An order under this section—
+
+- (a) may make any relief for which it provides [^key-6e1480696c1688914fc2892b0a49ef2e]..., subject to conditions, including conditions which are to be complied with after the importation of the goods to which the relief applies and conditions with respect to the conduct in relation to the goods of persons other than the person on whom the relief is conferred and of persons whose identity cannot be ascertained at the time of importation[^c984218];
+- (b) may , in relation to any relief conferred by order made under this section,[^c984219] contain such incidental and supplementary provisions as the Commissioners think necessary or expedient, including provisions requiring any person to whom a condition of the relief at any time relates to notify the Commissioners of any non-compliance with the condition and[^c984220] provisions for the forfeiture of goods in the event of non-compliance with any condition subject to which they have been relieved from excise[^key-553656cbb842424c6f698a7c952b95c5] duty or tax; and
+- (c) may make different provision for different cases.
+
+(3A)[^c984221] An order under this section may provide, in relation to any relief which under such an order is made subject to a condition, for there to be a presumption that, in such cases as may be described in the order by reference—
+
+- (a) to the quantity of goods in question; or
+- (b) to any other factor which the Commissioners consider appropriate,
+
+the condition is to be treated, unless the Commissioners are satisfied to the contrary, as not being complied with.
+
+(3B) An order under this section may provide, in relation to any requirement of such an order for the Commissioners to be notified of non-compliance with a condition to which any relief from payment of any duty of excise is made subject, for goods to be exempt from forfeiture under section 124 of the Customs and Excise Management Act 1979 (forfeiture for breach of certain conditions) in respect of non-compliance with that condition if—
+
+- (a) the non-compliance is notified to the Commissioners in accordance with that requirement;
+- (b) any excise[^key-bcfd8eedfe8b7f2e3637a50fdbb0b950] duty which becomes payable on those goods by virtue of the non-compliance is paid; and
+- (c) the circumstances are otherwise such as may be described in the order.
+
+(3C) If any person fails to comply with any requirement of an order under this section to notify the Commissioners of any non-compliance with a condition to which any relief is made subject-
+
+- (a) he shall be liable, on summary conviction, to a penalty of an amount not exceeding level 5 on the standard scale *(Extent: E+W)* *(affected by repeal, see note)*[^key-6f9bd65eea4e00626802b331bb74beb7] £20,000 *(Extent: E+W)*; and
+- (b) the goods in respect of which the offence was committed shall be liable to forfeiture.
+
+(4) In this section—
+
+- [^key-fd2150ca31d6ff2d220256d0c46e89a5]...
+- “[^c984223]**conduct**”, in relation to any person who has or may acquire possession or control of any goods, includes that person’s intentions at any time in relation to those goods;
+- “excise duty” means any duty of excise chargeable on goods and includes any addition to excise duty by virtue of section 1 of the Excise Duties (Surcharges or Rebates) Act 1979;[^key-be87fba25a916ee4245f0dc169af94ac]
+
+  “value added tax” or “**tax**” means value added tax chargeable on the importation of goods [^key-f9a499727cd6cecb3a3a8b4d87ee2c6f]....
+
+(5) Nothing in any order under this section shall be construed as authorising any person to import any thing in contravention of any prohibition or restriction for the time being in force with respect thereto under or by virtue of any enactment.
+
+### 13A. Reliefs from duties and taxes for persons enjoying certain immunities and privileges.[^c984226]
+
+(1) The Commissioners may by order make provision for conferring in respect of any persons to whom this section applies reliefs, by way of remission or repayment, from payment by them or others of any relevant levy, any duty of excise,[^key-c5be2812cb72aa0fb72e55e04cada652] value added tax or car tax.
+
+(2) An order under this section may make any relief for which it provides subject to such conditions binding the person in respect of whom the relief is conferred and, if different, the person liable apart from the relief for payment of the tax or duty (including conditions which are to be complied with after the time when, apart from the relief, the duty or tax would become payable) as may be imposed by or under the order.
+
+(3) An order under this section may include any of the provisions mentioned in subsection (4) below for cases where—
+
+- (a) relief from payment of any relevant levy, any duty of excise,[^key-9fbb248ac31f92b7485769ec7db58ea6] value added tax or car tax chargeable on any goods, or on the supply of any goods or services or the importation of any goods has been conferred (whether by virtue of an order under this section or otherwise) in respect of any person to whom this section applies, and
+- (b) any condition required to be complied with in connection with the relief is not complied with.
+
+(4) The provisions referred to in subsection (3) above are—
+
+- (a) provision for payment to the Commissioners of the tax or duty by—
+  - (i) the person liable, apart from the relief, for its payment, or
+  - (ii) any person bound by the condition, or
+  - (iii) any person who is or has been in possession of the goods or has received the benefit of the services,
+
+  or for two or more of those persons to be jointly and severally liable for such payment, and
+- (b) in the case of goods, provision for forfeiture of the goods.
+
+(5) An order under this section—
+
+- (a) may contain such incidental and supplementary provisions as the Commissioners think necessary or expedient, and
+- (b) may make different provision for different cases.
+
+(6) In this section and section 13C of this Act—
+
+- “relevant levy” means[^key-32c624adf76c1ba81c0111797501ffa1] any agricultural levy within the meaning of section 6 of the European Union[^key-14cfd57fa6480855a0b7e14ba7dc919a] Act [^c984227] 1972 chargeable on goods imported into the United Kingdom, and
+- “ **duty of excise** ” means any duty of excise chargeable on goods and includes any addition to excise duty by virtue of section 1 of the Excise Duties (Surcharges or Rebates) Act [^c984228] 1979.
+
+(7) For the purposes of this section and section 13C of this Act, where in respect of any person to whom this section applies relief is conferred (whether by virtue of an order under this section or otherwise) in relation to the use of goods by any persons or for any purposes, the relief is to be treated as conferred subject to a condition binding on him that the goods will be used only by those persons or for those purposes.
+
+(8) Nothing in any order under this section shall be construed as authorising a person to import any thing in contravention of any pro-hibition or restriction for the time being in force with respect to it under or by virtue of any enactment.
+
+### 13B. Persons to whom section 13A applies.
+
+(1) The persons to whom section 13A of this Act applies are—
+
+- (a) any person who, for the purposes of any provision of the Visiting Forces Act [^c984229]1952 or the International Headquarters and Defence Organisations Act [^c984230]1964 is—
+  - (i) a member of a visiting force or of a civilian component of such a force or a dependent of such a member, or
+  - (ii) a headquarters, a member of a headquarters or a dependant of such a member,
+- (b) any person enjoying any privileges or immunities under or by virtue of—
+  - (i) the Diplomatic Privileges Act [^c984231]1964,
+  - (ii) the Commonwealth Secretariat Act [^c984232]1966,
+  - (iii) the Consular Relations [^c984233]1968,
+  - (iv) the International Organisations Act [^c984234]1968, or
+  - (v)[^c1789213] the International Development Act 2002.
+- (c)[^key-4bbfa74b4e309ebcfa59e4520a1dec45] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) The Secretary of State may by order amend subsection (1) above to include any persons enjoying any privileges or immunities similar to those enjoyed under or by virtue of the enactments referred to in paragraph (b) of that subsection.
+
+(3) No order shall be made under this section unless a draft of the order has been laid before and approved by resolution of each House of Parliament.
+
+### 13C. Offence where relieved goods used, etc., in breach of condition.
+
+(1) Subsection (2) below applies where—
+
+- (a) any relief from payment of any relevant levy, any duty of excise,[^key-34903222ddcafc2b1123006a6f00ee05] value added tax or car tax chargeable on, or on the supply or importation of, any goods has been conferred (whether by virtue of an order under section 13A of this Act or otherwise) in respect of any person to whom that section applies subject to any condition as to the persons by whom or the purposes for which the goods may be used, and
+- (b) if the tax or duty has subsequently become payable, it has not been paid.
+
+(2) If any person—
+
+- (a) acquires the goods for his own use, where he is not permitted by the condition to use them, or for use for a purpose that is not permitted by the condition or uses them for such a purpose, or
+- (b) acquires the goods for use, or causes or permits them to be used, by a person not permitted by the condition to use them or by a person for a purpose that is not permitted by the condition or disposes of them to a person not permitted by the condition to use them,
+
+with intent to evade payment of any tax or duty that has become payable or that, by reason of the disposal, acquisition or use, becomes or will become payable, he is guilty of an offence.
+
+(3) For the purposes of this section—
+
+- (a) in the case of a condition as to the persons by whom goods may be used, a person is not permitted by the condition to use them unless he is a person referred to in the condition as permitted to use them, and
+- (b) in relation to a condition as to the purposes for which goods may be used, a purpose is not permitted by the condition unless it is a purpose referred to in the condition as a permitted purpose,
+
+and in this section “dispose” includes “lend” and “let on hire”, and “acquire” shall be interpreted accordingly.
+
+(4) A person guilty of an offence under this section may be detained and shall be liable—
+
+- (a) on summary conviction, to a penalty of the statutory maximum *(Extent: E+W)* *(affected by repeal, see note)*[^key-d9f66b784dc25cffb1166669c2bf37b3] £20,000 *(Extent: E+W)* or of three times the value of the goods (whichever is the greater), or to imprisonment for a term not exceeding six months, or to both, or
+- (b) on conviction on indictment, to a penalty of any amount, or to imprisonment for a term not exceeding 14[^key-ddc316d66b62a4fe52aac6b439a970b8] years, or to both.
+
+(5)[^c984236] Where any person is guilty of an offence under this section, the goods in respect of which the offence was committed shall be liable to forfeiture.
+
+## ...[^key-dcd9f94b29177600e09c1381693c6940]
+
+### 14.[^key-dcd9f94b29177600e09c1381693c6940]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## False statements etc. in connection with reliefs from customs duties
+
+### 15. False statements etc. in connection with reliefs from customs duties.[^c984245]
+
+(1) If a person—
+
+- (a) for the purpose of an application for relief from import duty under regulations made under section 19 of the Taxation (Cross-border Trade) Act 2018,[^key-2d70cbc1653100cfebf78e65744993bd]
+- (b)[^key-40528a55ab8955ba319390b93bf38ee8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+makes any statement or furnishes any document which is false in a material particular to any government department or to any authority or person on whom functions are conferred by or under Part 1 of that Act[^key-8867f666802a4b3d5b5bcf2886085f53], then—
+
+- (i) any decision allowing the relief or granting the authorisation applied for shall be of no effect; and
+- (ii) if the statement was made or the document was furnished knowingly or recklessly, that person shall be guilty of an offence under this section.
+
+(2) A person guilty of an offence under this section shall be liable—
+
+- (a) on summary conviction, to a fine not exceeding the prescribed sum *(Extent: E+W)* *(affected by repeal, see note)*[^key-c142601d8d5ce024c54329a58ebf3bff] £20,000 *(Extent: E+W)* or to imprisonment for a term not exceeding 3 months, or to both; or
+- (b) on conviction on indictment, to a fine of any amount or to imprisonment for a term not exceeding 2 years, or to both.
+
+(3) In subsection (2)(a) above “**the prescribed sum**” means—
+
+- (a)[^key-cd8f4e1cf2ed0189ded7058011991644] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) if the offence was committed in Scotland, the prescribed sum within the meaning of subsection (8) of section 225 of the Criminal Procedure (Scotland) Act 1995 (£5,0 or other sum substituted by order under subsection (4) of that section)[^c984248].
+- (c)[^c984249] if the offence was committed in Northern Ireland, the prescribed sum within the meaning of Article 4 of the Fines and Penalties (Northern Ireland) Order 1984 (£1,0 or other sum substituted by order under Article 17 of that Order).
+
+(4) References in Parts XI and XII of the [^c984250]Customs and Excise Management Act 1979 to an offence under the customs and excise Acts shall not apply to an offence under this section.
+
+## Supplementary provisions
+
+### 16. Annual reports to Parliament.[^key-9aa3760d86cd347295a88eea6b46f51d]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 17. Orders and regulations.
+
+(1) Any power to make orders or regulations under this Act shall be exercisable by statutory instrument.
+
+(2) Any statutory instrument containing regulations under section [^key-a695957ab1b0a9cbbc206c26936e0a6c]... 12 above shall be subject to annulment in pursuance of a resolution of either House of Parliament [^key-7fd3b1c344c85beab68664cef4f17216]....
+
+(3) Any statutory instrument containing an order under section [^key-027688c0a03077f703d79ad402cdbc41]... 7[^c984251], 11A[^c984252]13 or 13A[^c984253] above [^key-a0bb01d1c6aef58bd94731cd56f69f4d]... shall be subject to annulment in pursuance of a resolution of the House of Commons except in a case falling within subsection (4) below.
+
+(4) [^key-f87bd33936506a2b02b6f75b4b140002]..., where an order under section [^key-3f0018bb78d6a45a3b1254c5844b515d]... , 11A[^c984254]13(1) or 13A[^c984255] above restricts any relief from excise[^key-68e366ac191ab4c8227189e767a2c865] duty or tax the statutory instrument containing the order shall be laid before the House of Commons after being made and, unless the order is approved by that House before the end of the period of 28 days beginning with the day on which it was made, it shall cease to have effect at the end of that period but without prejudice to anything previously done under the order or to the making of a new order.
+
+In reckoning the said period of 28 days no account shall be taken of any time during which Parliament is dissolved or prorogued or during which the House of Commons is adjourned for more than 4 days.
+
+(5)[^key-19e390fb0722c155a2104adb9e381195] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(6) For the purposes of this section restricting any relief includes removing or reducing any relief previously conferred.
+
+### 18. Interpretation.
+
+(1) This Act and the other Acts included in the Customs and Excise Acts 1979 shall be construed as one Act but where a provision of this Act refers to this Act that reference is not to be construed as including a reference to any of the others.
+
+(2) Any expression used in this Act or in any instrument made under this Act to which a meaning is given by any other Act included in the Customs and Excise Acts 1979 has, except where the context otherwise requires, the same meaning in this Act or in any such instrument as in that Act; and for ease of reference the Table below indicates the expressions used in this Act to which a meaning is given by any other such Act—
+
+*Customs and Excise Management Act 1979*
+
+- “the Commissioners”
+- “the Customs and Excise Acts 1979”
+- “the customs and excise Acts”
+- [^key-74e0ed007e14f80e75690fe8d2193754]...
+- “goods”
+- “hovercraft”
+- “importer”
+- “master”
+- “**officer**” and “**proper**” in relation to an officer
+- “port”
+- “ship”
+- “transit and transhipment”
+- “warehouse”
+
+  *Part 2 of the Finance (No. 2) Act 2023[^key-d3428d670364e1bc554c18df9c8c839d]*
+- “spirits”
+- “wine”
+
+(3) This Act applies as if references to ships included references to hovercraft.
+
+### 19. Consequential amendments, repeals and transitional provision.
+
+(1)[^c984257] The enactments specified in Schedule 2 to this Act shall be amended in accordance with the provisions of that Schedule.
+
+(2)[^c984257] The enactments specified in Part I of Schedule 3 to this Act are hereby repealed to the extent specified in the third column of that Schedule and the regulations specified in Part II of that Schedule are hereby revoked to the extent so specified.
+
+(3) References to import duties in instruments in force at the commencement of this Act shall, on and after that commencement, be construed—
+
+- (a) in the case of references in orders under section 5 or directions under section 6 of the [^c984259]Import Duties Act 1958, as references to customs duties charged under section 5(1) or (2) of the [^c984260]European Communities Act 1972;
+- (b) in the case of references in such orders or directions made by virtue of section 5(1A) of the said Act of 1958 or in regulations under section 5(6) of the [^c984261]European Communities Act 1972, as references to customs duties (whether so charged or charged under the [^c984262]Customs Duties (Dumping and Subsidies) Act 1969 or section 6(1) of the [^c984263]Finance Act 1978).
+
+### 20. Citation and commencement.
+
+(1) This Act may be cited as the Customs and Excise Duties (General Reliefs) Act 1979 and is included in the Acts which may be cited as the Customs and Excise Acts 1979.
+
+(2) This Act shall come into operation on 1st April 1979.
+
+## SCHEDULE 1[^c984264][^c984264]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c984264]
+
+## SCHEDULE 2 — CONSEQUENTIAL AMENDMENTS[^c984265]
+
+Section 19(1)
+
+### Agriculture and Horticulture Act 1964
+
+**1.**[^c984267] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**2.** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c984268]
+
+### ...[^key-d8ed182a3a71ba1b98099f31c4b7e66b]
+
+**3.**[^key-d8ed182a3a71ba1b98099f31c4b7e66b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**4.**[^key-d8ed182a3a71ba1b98099f31c4b7e66b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**5.**[^key-d8ed182a3a71ba1b98099f31c4b7e66b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Finance Act 1977
+
+**6.** In section 10(4) of the [^c984270]Finance Act 1977, for the words “those sections” there shall be substituted the words “ the said section 6 ”.
+
+## SCHEDULE 3 — REPEALS AND REVOCATIONS[^c984271]
+
+Section 19(2).
+
+[image: see source](https://www.legislation.gov.uk/ukpga/1979/3/images/ukpga_19790003_en_001)
+
+## Annotations
+
+[^c984173]: Modification: Act amended by [Value Added Tax Act 1983 (c. 55, SIF 40:2)](https://www.legislation.gov.uk/ukpga/1983/55), [s. 24(1)(3)](https://www.legislation.gov.uk/ukpga/1983/55/section/24/1/3) and [Police and Criminal Evidence Act 1984 (c. 60, SIF 95)](https://www.legislation.gov.uk/ukpga/1984/60), [s. 114(1)](https://www.legislation.gov.uk/ukpga/1984/60/section/114/1)
+
+[^c984174]: Modification: Act modified by [S.I. 1990/2167](https://www.legislation.gov.uk/uksi/1990/2167), [art. 5](https://www.legislation.gov.uk/uksi/1990/2167/article/5)
+
+[^c984175]: Commencement: Act wholly in force at 1.4.1979 see [s. 20(2)](https://www.legislation.gov.uk/ukpga/1979/3/section/20/2)
+
+[^c984176]: Modification: Act applied (1.12.1992) by [Value Added Tax Act 1983 (c. 55)](https://www.legislation.gov.uk/ukpga/1983/55), [s. 24(1)](https://www.legislation.gov.uk/ukpga/1983/55/section/24/1) (as substituted (1.12.1992) by [Finance (No. 2) Act 1992 (c. 48)](https://www.legislation.gov.uk/ukpga/1992/48), [s. 14(2)(3)](https://www.legislation.gov.uk/ukpga/1992/48/section/14/2/3), [Sch. 3 para.25](https://www.legislation.gov.uk/ukpga/1992/48/schedule/3/paragraph/25); [S.I. 1992/2979](https://www.legislation.gov.uk/uksi/1992/2979), [art. 4](https://www.legislation.gov.uk/uksi/1992/2979/article/4), [Sch. Pt.II](https://www.legislation.gov.uk/uksi/1992/2979/schedule/part/II) (and [S.I. 1992/3261](https://www.legislation.gov.uk/uksi/1992/3261), [art. 3](https://www.legislation.gov.uk/uksi/1992/3261/article/3), [Sch.](https://www.legislation.gov.uk/uksi/1992/3261/schedule)))
+
+    Act other than ss. 8, 9(b), excluded (20.10.1995) by [S.I. 1995/2518](https://www.legislation.gov.uk/uksi/1995/2518), [reg. 118(d)](https://www.legislation.gov.uk/uksi/1995/2518/regulation/118/d)
+
+[^key-a36e28245cab17ccbf079d82744d6786]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1979/3) modified by 1979 c. 4, Sch. 2A para. 3(5) (as inserted (22.2.2006) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 1](https://www.legislation.gov.uk/ukpga/2004/12/schedule/1); [S.I. 2006/201](https://www.legislation.gov.uk/uksi/2006/201), [art. 2](https://www.legislation.gov.uk/uksi/2006/201/article/2))
+
+[^key-8c8123093fa910b3d9191833424d4df2]: Modification: Act applied (with modifications) (17.12.2020 for specified purposes, 31.12.2020 in so far as not already in force) by [Taxation (Post-transition Period) Act 2020 (c. 26)](https://www.legislation.gov.uk/ukpga/2020/26), [ss. 5](https://www.legislation.gov.uk/ukpga/2020/26/section/5), [11(1)(e)](https://www.legislation.gov.uk/ukpga/2020/26/section/11/1/e) (with [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9)
+
+[^key-ff3621da46ee77d9e67819b29d0b340c]: Modification: Act applied (with modifications) by [2018 c. 22](https://www.legislation.gov.uk/ukpga/2018/22), [Sch. 7 para. 158(4)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/7/paragraph/158/4) (as inserted (17.12.2020 for specified purposes, 31.12.2020 in so far as not already in force) by [Taxation (Post-transition Period) Act 2020 (c. 26)](https://www.legislation.gov.uk/ukpga/2020/26), [s. 11(1)(e)](https://www.legislation.gov.uk/ukpga/2020/26/section/11/1/e), [Sch. 1 para. 10(6)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/1/paragraph/10/6) (with [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9))
+
+[^key-273e4a93c0a10ccb169e2c887fb6a0ef]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1979/3) continued (31.12.2020) by [The Customs (Transitional) (EU Exit) Regulations 2020 (S.I. 2020/1449)](https://www.legislation.gov.uk/uksi/2020/1449), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1449/regulation/1/2), [3(1)(b)](https://www.legislation.gov.uk/uksi/2020/1449/regulation/3/1/b); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+
+[^key-a44a179d481139654924a210b226ed90]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1979/3) applied (31.12.2020) by [The Customs (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1605)](https://www.legislation.gov.uk/uksi/2020/1605), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1605/regulation/1/1), [9](https://www.legislation.gov.uk/uksi/2020/1605/regulation/9); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+
+[^key-6d4f5beea22ed7e00db6db96305bdac6]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1979/3) applied (31.12.2020) by [The Customs (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1605)](https://www.legislation.gov.uk/uksi/2020/1605), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1605/regulation/1/1), [16](https://www.legislation.gov.uk/uksi/2020/1605/regulation/16); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+
+[^key-61fbd893a00ce5c435ec99d243f9c74e]: Modification: Act applied (31.12.2020) by [1994 c. 23](https://www.legislation.gov.uk/ukpga/1994/23), [s. 16(1)](https://www.legislation.gov.uk/ukpga/1994/23/section/16/1) (as substituted by [Taxation (Cross-border Trade) Act 2018 (c. 22)](https://www.legislation.gov.uk/ukpga/2018/22), [s. 57(3)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/3), [Sch. 8 para. 13](https://www.legislation.gov.uk/ukpga/2018/22/schedule/8/paragraph/13) (with [Sch. 8 para. 99](https://www.legislation.gov.uk/ukpga/2018/22/schedule/8/paragraph/99)) (with savings and transitional provisions in [S.I. 2019/105](https://www.legislation.gov.uk/uksi/2019/105) (as amended by [S.I. 2020/1495](https://www.legislation.gov.uk/uksi/2020/1495), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1495/regulation/1/2), [21](https://www.legislation.gov.uk/uksi/2020/1495/regulation/21)), [S.I. 2020/1545](https://www.legislation.gov.uk/uksi/2020/1545), [Pt. 4](https://www.legislation.gov.uk/uksi/2020/1545/part/4) and [2020 c. 26](https://www.legislation.gov.uk/ukpga/2020/26), [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/b) (with [reg. 7](https://www.legislation.gov.uk/uksi/2020/1642/regulation/7)))
+
+[^key-d6a7e5e0a102f174ef4812d047d3077f]: Modification: Act excluded (except ss. 8, 9(b)) (1.8.2021) by [S.I. 1995/2518](https://www.legislation.gov.uk/uksi/1995/2518), [regs. 133AB(d)](https://www.legislation.gov.uk/uksi/1995/2518/regulation/133AB/d), [133L](https://www.legislation.gov.uk/uksi/1995/2518/regulation/133L), [133N](https://www.legislation.gov.uk/uksi/1995/2518/regulation/133N) (as inserted by [The Value Added Tax (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/715)](https://www.legislation.gov.uk/uksi/2021/715), [regs. 1](https://www.legislation.gov.uk/uksi/2021/715/regulation/1), [43](https://www.legislation.gov.uk/uksi/2021/715/regulation/43), [47](https://www.legislation.gov.uk/uksi/2021/715/regulation/47))
+
+[^key-74a2d127177cc610b2751fd58534b860]: Textual amendment: [S. 1 and cross-heading](https://www.legislation.gov.uk/ukpga/1979/3/section/1) omitted (13.9.2018 for specified purposes, 31.12.2020 in so far as not already in force) by virtue of [Taxation (Cross-border Trade) Act 2018 (c. 22)](https://www.legislation.gov.uk/ukpga/2018/22), [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a), [Sch. 7 para. 119](https://www.legislation.gov.uk/ukpga/2018/22/schedule/7/paragraph/119) (with savings and transitional provisions in [S.I. 2020/1449](https://www.legislation.gov.uk/uksi/2020/1449), [reg. 3](https://www.legislation.gov.uk/uksi/2020/1449/regulation/3) and [2020 c. 26](https://www.legislation.gov.uk/ukpga/2020/26), [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+
+[^M_F_d6ec21d0-db3f-467b-efb1-4a77b47d2c68]: Textual amendment: Words in Act substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3](https://www.legislation.gov.uk/uksi/2011/1043/article/3), [6](https://www.legislation.gov.uk/uksi/2011/1043/article/6) (with [art. 3(2)(3)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/2/3), [4(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/4/2), [6(4)(5)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/4/5))
+
+[^key-64837e0e75fc160e99659e34cbd19782]: Textual amendment: [S. 2](https://www.legislation.gov.uk/ukpga/1979/3/section/2) omitted (13.9.2018 for specified purposes, 31.12.2020 in so far as not already in force) by virtue of [Taxation (Cross-border Trade) Act 2018 (c. 22)](https://www.legislation.gov.uk/ukpga/2018/22), [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a), [Sch. 7 para. 120](https://www.legislation.gov.uk/ukpga/2018/22/schedule/7/paragraph/120) (with savings and transitional provisions in [S.I. 2020/1449](https://www.legislation.gov.uk/uksi/2020/1449), [reg. 3](https://www.legislation.gov.uk/uksi/2020/1449/regulation/3) and [2020 c. 26](https://www.legislation.gov.uk/ukpga/2020/26), [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+
+[^key-785ac54248ffd2019b7a0cdbff84f497]: Textual amendment: [S. 3](https://www.legislation.gov.uk/ukpga/1979/3/section/3) omitted (13.9.2018 for specified purposes, 31.12.2020 in so far as not already in force) by virtue of [Taxation (Cross-border Trade) Act 2018 (c. 22)](https://www.legislation.gov.uk/ukpga/2018/22), [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a), [Sch. 7 para. 121](https://www.legislation.gov.uk/ukpga/2018/22/schedule/7/paragraph/121) (with savings and transitional provisions in [S.I. 2020/1449](https://www.legislation.gov.uk/uksi/2020/1449), [reg. 3](https://www.legislation.gov.uk/uksi/2020/1449/regulation/3) and [2020 c. 26](https://www.legislation.gov.uk/ukpga/2020/26), [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+
+[^key-2f46d07e90efaac09560e71bfb1b441d]: Textual amendment: [S. 4](https://www.legislation.gov.uk/ukpga/1979/3/section/4) omitted (13.9.2018 for specified purposes, 31.12.2020 in so far as not already in force) by virtue of [Taxation (Cross-border Trade) Act 2018 (c. 22)](https://www.legislation.gov.uk/ukpga/2018/22), [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a), [Sch. 7 para. 122](https://www.legislation.gov.uk/ukpga/2018/22/schedule/7/paragraph/122) (with savings and transitional provisions in [S.I. 2020/1449](https://www.legislation.gov.uk/uksi/2020/1449), [reg. 3](https://www.legislation.gov.uk/uksi/2020/1449/regulation/3) and [2020 c. 26](https://www.legislation.gov.uk/ukpga/2020/26), [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+
+[^key-c40363449cf71c3fd92d17d214d4be70]: Textual amendment: [S. 5](https://www.legislation.gov.uk/ukpga/1979/3/section/5) omitted (13.9.2018 for specified purposes, 31.12.2020 in so far as not already in force) by virtue of [Taxation (Cross-border Trade) Act 2018 (c. 22)](https://www.legislation.gov.uk/ukpga/2018/22), [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a), [Sch. 7 para. 123](https://www.legislation.gov.uk/ukpga/2018/22/schedule/7/paragraph/123) (with savings and transitional provisions in [S.I. 2020/1449](https://www.legislation.gov.uk/uksi/2020/1449), [reg. 3](https://www.legislation.gov.uk/uksi/2020/1449/regulation/3) and [2020 c. 26](https://www.legislation.gov.uk/ukpga/2020/26), [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+
+[^c984181]: Textual amendment: [S. 6](https://www.legislation.gov.uk/ukpga/1979/3/section/6) repealed by [Isle of Man Act 1979 (c. 58)](https://www.legislation.gov.uk/ukpga/1979/58), [Sch. 2](https://www.legislation.gov.uk/ukpga/1979/58/schedule/2)
+
+[^key-dadeb706feed1ae143682d535334d203]: Textual amendment: Words in [s. 7 cross-heading](https://www.legislation.gov.uk/ukpga/1979/3/crossheading/miscellaneous-reliefs-from-customs-and-excise-duties) omitted (13.9.2018 for specified purposes, 31.12.2020 in so far as not already in force) by virtue of [Taxation (Cross-border Trade) Act 2018 (c. 22)](https://www.legislation.gov.uk/ukpga/2018/22), [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a), [Sch. 7 para. 124](https://www.legislation.gov.uk/ukpga/2018/22/schedule/7/paragraph/124) (with savings and transitional provisions in [S.I. 2020/1449](https://www.legislation.gov.uk/uksi/2020/1449), [reg. 3](https://www.legislation.gov.uk/uksi/2020/1449/regulation/3) and [2020 c. 26](https://www.legislation.gov.uk/ukpga/2020/26), [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+
+[^c984182]: Textual amendment: S. 7 substituted by [Finance Act 1984 (c. 43, SIF 40:1)](https://www.legislation.gov.uk/ukpga/1984/43), [s. 14(1)(3)](https://www.legislation.gov.uk/ukpga/1984/43/section/14/1/3)
+
+[^key-63513b50660a1badf20243e38759303b]: Textual amendment: Word in [s. 7 heading](https://www.legislation.gov.uk/ukpga/1979/3/crossheading/miscellaneous-reliefs-from-customs-and-excise-duties) inserted (13.9.2018 for specified purposes, 31.12.2020 in so far as not already in force) by [Taxation (Cross-border Trade) Act 2018 (c. 22)](https://www.legislation.gov.uk/ukpga/2018/22), [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a), [Sch. 7 para. 125(7)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/7/paragraph/125/7) (with savings and transitional provisions in [S.I. 2020/1449](https://www.legislation.gov.uk/uksi/2020/1449), [reg. 3](https://www.legislation.gov.uk/uksi/2020/1449/regulation/3) and [2020 c. 26](https://www.legislation.gov.uk/ukpga/2020/26), [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+
+[^key-f624a1fe1bec8407e7faa15e1e3b494f]: Textual amendment: Word in [s. 7(1)](https://www.legislation.gov.uk/ukpga/1979/3/section/7/1) inserted (13.9.2018 for specified purposes, 31.12.2020 in so far as not already in force) by [Taxation (Cross-border Trade) Act 2018 (c. 22)](https://www.legislation.gov.uk/ukpga/2018/22), [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a), [Sch. 7 para. 125(2)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/7/paragraph/125/2) (with savings and transitional provisions in [S.I. 2020/1449](https://www.legislation.gov.uk/uksi/2020/1449), [reg. 3](https://www.legislation.gov.uk/uksi/2020/1449/regulation/3) and [2020 c. 26](https://www.legislation.gov.uk/ukpga/2020/26), [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+
+[^key-f06f1d64913d3ea2aa42e8e20c833620]: Textual amendment: Word in [s. 7(2)](https://www.legislation.gov.uk/ukpga/1979/3/section/7/2) inserted (13.9.2018 for specified purposes, 31.12.2020 in so far as not already in force) by [Taxation (Cross-border Trade) Act 2018 (c. 22)](https://www.legislation.gov.uk/ukpga/2018/22), [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a), [Sch. 7 para. 125(3)(a)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/7/paragraph/125/3/a) (with savings and transitional provisions in [S.I. 2020/1449](https://www.legislation.gov.uk/uksi/2020/1449), [reg. 3](https://www.legislation.gov.uk/uksi/2020/1449/regulation/3) and [2020 c. 26](https://www.legislation.gov.uk/ukpga/2020/26), [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+
+[^key-3d2a5e666aa05d420a34d24dcb66d75a]: Textual amendment: Word in [s. 7(2)](https://www.legislation.gov.uk/ukpga/1979/3/section/7/2) inserted (13.9.2018 for specified purposes, 31.12.2020 in so far as not already in force) by [Taxation (Cross-border Trade) Act 2018 (c. 22)](https://www.legislation.gov.uk/ukpga/2018/22), [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a), [Sch. 7 para. 125(3)(b)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/7/paragraph/125/3/b) (with savings and transitional provisions in [S.I. 2020/1449](https://www.legislation.gov.uk/uksi/2020/1449), [reg. 3](https://www.legislation.gov.uk/uksi/2020/1449/regulation/3) and [2020 c. 26](https://www.legislation.gov.uk/ukpga/2020/26), [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+
+[^key-de67e2ec43bed563bf18a4b2ad8ba25d]: Textual amendment: [S. 7(3)](https://www.legislation.gov.uk/ukpga/1979/3/section/7/3) omitted (13.9.2018 for specified purposes, 31.12.2020 in so far as not already in force) by virtue of [Taxation (Cross-border Trade) Act 2018 (c. 22)](https://www.legislation.gov.uk/ukpga/2018/22), [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a), [Sch. 7 para. 125(4)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/7/paragraph/125/4) (with savings and transitional provisions in [S.I. 2020/1449](https://www.legislation.gov.uk/uksi/2020/1449), [reg. 3](https://www.legislation.gov.uk/uksi/2020/1449/regulation/3) and [2020 c. 26](https://www.legislation.gov.uk/ukpga/2020/26), [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+
+[^key-2c2aa138c3558d5195ca55c5c6147231]: Textual amendment: Words in [s. 7(4)(a)](https://www.legislation.gov.uk/ukpga/1979/3/section/7/4/a) omitted (13.9.2018 for specified purposes, 31.12.2020 in so far as not already in force) by virtue of [Taxation (Cross-border Trade) Act 2018 (c. 22)](https://www.legislation.gov.uk/ukpga/2018/22), [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a), [Sch. 7 para. 125(5)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/7/paragraph/125/5) (with savings and transitional provisions in [S.I. 2020/1449](https://www.legislation.gov.uk/uksi/2020/1449), [reg. 3](https://www.legislation.gov.uk/uksi/2020/1449/regulation/3) and [2020 c. 26](https://www.legislation.gov.uk/ukpga/2020/26), [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+
+[^key-92250027c62f1e93e7ff884adbb29b9d]: Textual amendment: Words in [s. 7(5)](https://www.legislation.gov.uk/ukpga/1979/3/section/7/5) omitted (13.9.2018 for specified purposes, 31.12.2020 in so far as not already in force) by virtue of [Taxation (Cross-border Trade) Act 2018 (c. 22)](https://www.legislation.gov.uk/ukpga/2018/22), [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a), [Sch. 7 para. 125(6)(a)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/7/paragraph/125/6/a) (with savings and transitional provisions in [S.I. 2020/1449](https://www.legislation.gov.uk/uksi/2020/1449), [reg. 3](https://www.legislation.gov.uk/uksi/2020/1449/regulation/3) and [2020 c. 26](https://www.legislation.gov.uk/ukpga/2020/26), [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+
+[^key-cea564ab339661624d4a47fafb216a4f]: Textual amendment: Words in [s. 7(5)](https://www.legislation.gov.uk/ukpga/1979/3/section/7/5) substituted (13.9.2018 for specified purposes, 31.12.2020 in so far as not already in force) by [Taxation (Cross-border Trade) Act 2018 (c. 22)](https://www.legislation.gov.uk/ukpga/2018/22), [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a), [Sch. 7 para. 125(6)(b)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/7/paragraph/125/6/b) (with savings and transitional provisions in [S.I. 2020/1449](https://www.legislation.gov.uk/uksi/2020/1449), [reg. 3](https://www.legislation.gov.uk/uksi/2020/1449/regulation/3) and [2020 c. 26](https://www.legislation.gov.uk/ukpga/2020/26), [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+
+[^key-950e84b650a6144497d829c5d7e6f2ec]: Textual amendment: Words in [s. 8 heading](https://www.legislation.gov.uk/ukpga/1979/3/crossheading/miscellaneous-reliefs-from-customs-and-excise-duties) omitted (13.9.2018 for specified purposes, 31.12.2020 in so far as not already in force) by virtue of [Taxation (Cross-border Trade) Act 2018 (c. 22)](https://www.legislation.gov.uk/ukpga/2018/22), [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a), [Sch. 7 para. 126(b)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/7/paragraph/126/b) (with savings and transitional provisions in [S.I. 2020/1449](https://www.legislation.gov.uk/uksi/2020/1449), [reg. 3](https://www.legislation.gov.uk/uksi/2020/1449/regulation/3) and [2020 c. 26](https://www.legislation.gov.uk/ukpga/2020/26), [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+
+[^key-125c1eb28d8e487b1dd92a6ccfd92a1a]: Textual amendment: Words in [s. 8](https://www.legislation.gov.uk/ukpga/1979/3/section/8) omitted (13.9.2018 for specified purposes, 31.12.2020 in so far as not already in force) by virtue of [Taxation (Cross-border Trade) Act 2018 (c. 22)](https://www.legislation.gov.uk/ukpga/2018/22), [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a), [Sch. 7 para. 126(a)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/7/paragraph/126/a) (with savings and transitional provisions in [S.I. 2020/1449](https://www.legislation.gov.uk/uksi/2020/1449), [reg. 3](https://www.legislation.gov.uk/uksi/2020/1449/regulation/3) and [2020 c. 26](https://www.legislation.gov.uk/ukpga/2020/26), [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+
+[^c984184]: Textual amendment: Words inserted by [Isle of Man Act 1979 (c. 58)](https://www.legislation.gov.uk/ukpga/1979/58), [Sch. 1 para. 26](https://www.legislation.gov.uk/ukpga/1979/58/schedule/1/paragraph/26)
+
+[^key-419375f323491ad73a0dd55f8005f8eb]: Textual amendment: Words in [s. 9 heading](https://www.legislation.gov.uk/ukpga/1979/3/crossheading/miscellaneous-reliefs-from-customs-and-excise-duties) omitted (13.9.2018 for specified purposes, 31.12.2020 in so far as not already in force) by virtue of [Taxation (Cross-border Trade) Act 2018 (c. 22)](https://www.legislation.gov.uk/ukpga/2018/22), [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a), [Sch. 7 para. 127(b)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/7/paragraph/127/b) (with savings and transitional provisions in [S.I. 2020/1449](https://www.legislation.gov.uk/uksi/2020/1449), [reg. 3](https://www.legislation.gov.uk/uksi/2020/1449/regulation/3) and [2020 c. 26](https://www.legislation.gov.uk/ukpga/2020/26), [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+
+[^key-9ef09c0fdd3295eb8b121036cf231c60]: Textual amendment: Words in [s. 9](https://www.legislation.gov.uk/ukpga/1979/3/section/9) omitted (13.9.2018 for specified purposes, 31.12.2020 in so far as not already in force) by virtue of [Taxation (Cross-border Trade) Act 2018 (c. 22)](https://www.legislation.gov.uk/ukpga/2018/22), [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a), [Sch. 7 para. 127(a)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/7/paragraph/127/a) (with savings and transitional provisions in [S.I. 2020/1449](https://www.legislation.gov.uk/uksi/2020/1449), [reg. 3](https://www.legislation.gov.uk/uksi/2020/1449/regulation/3) and [2020 c. 26](https://www.legislation.gov.uk/ukpga/2020/26), [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+
+[^key-a0954036d3094b35e4cca2fa19b4798a]: Textual amendment: S. 10 [cross-heading](https://www.legislation.gov.uk/ukpga/1979/3/crossheading/reliefs-from-excise-duties) omitted (13.9.2018 for specified purposes, 31.12.2020 in so far as not already in force) by virtue of [Taxation (Cross-border Trade) Act 2018 (c. 22)](https://www.legislation.gov.uk/ukpga/2018/22), [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a), [Sch. 7 para. 128](https://www.legislation.gov.uk/ukpga/2018/22/schedule/7/paragraph/128) (with savings and transitional provisions in [S.I. 2020/1449](https://www.legislation.gov.uk/uksi/2020/1449), [reg. 3](https://www.legislation.gov.uk/uksi/2020/1449/regulation/3) and [2020 c. 26](https://www.legislation.gov.uk/ukpga/2020/26), [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+
+[^key-4c4859e03bcfd05f62b041a5c28f2216]: Textual amendment: S. 10 repealed (E.) (28.9.2005) by [Animal By-Products Regulations 2005 (S.I. 2005/2347)](https://www.legislation.gov.uk/uksi/2005/2347), [regs. 1](https://www.legislation.gov.uk/uksi/2005/2347/regulation/1), [54(1)(a)](https://www.legislation.gov.uk/uksi/2005/2347/regulation/54/1/a)
+
+[^c984185]: Textual amendment: Words inserted by [Isle of Man Act 1979 (c. 58)](https://www.legislation.gov.uk/ukpga/1979/58), [Sch. 1 para. 27](https://www.legislation.gov.uk/ukpga/1979/58/schedule/1/paragraph/27)
+
+[^c984186]: Modification: S. 10(2)(*a*) amended by [S.I. 1985/1032](https://www.legislation.gov.uk/uksi/1985/1032), [reg. 11](https://www.legislation.gov.uk/uksi/1985/1032/regulation/11)(*b*)
+
+[^c984187]: Modification: S. 10(2)(*a*) modified by [S.I. 1983/947](https://www.legislation.gov.uk/uksi/1983/947), [regs. 12](https://www.legislation.gov.uk/uksi/1983/947/regulation/12), [13](https://www.legislation.gov.uk/uksi/1983/947/regulation/13)
+
+[^c984188]: Modification: S. 10(2)(a) amended (1.1.1993) by [S.I. 1992/3152](https://www.legislation.gov.uk/uksi/1992/3152), [regs. 11(b)](https://www.legislation.gov.uk/uksi/1992/3152/regulation/11/b), [12](https://www.legislation.gov.uk/uksi/1992/3152/regulation/12)
+
+[^c984189]: Textual amendment: Words inserted by [Isle of Man Act 1979 (c. 58)](https://www.legislation.gov.uk/ukpga/1979/58), [Sch. 1 para. 28](https://www.legislation.gov.uk/ukpga/1979/58/schedule/1/paragraph/28)
+
+[^c984190]: Modification: S. 11(1)(*a*) amended by [S.I. 1985/1032](https://www.legislation.gov.uk/uksi/1985/1032), [reg. 11](https://www.legislation.gov.uk/uksi/1985/1032/regulation/11)(*b*)
+
+[^c984191]: Modification: S. 11(1)(*a*) modified by [S.I. 1983/947](https://www.legislation.gov.uk/uksi/1983/947), [regs. 12](https://www.legislation.gov.uk/uksi/1983/947/regulation/12), [13](https://www.legislation.gov.uk/uksi/1983/947/regulation/13)
+
+[^c984192]: Modification: S. 11(1)(a) amended (1.1.1993) by [S.I. 1992/3152](https://www.legislation.gov.uk/uksi/1992/3152), [regs. 11(b)](https://www.legislation.gov.uk/uksi/1992/3152/regulation/11/b), [12](https://www.legislation.gov.uk/uksi/1992/3152/regulation/12)
+
+[^key-8ae6050adfc1b7b444cef8a94f9e6275]: Textual amendment: Words in [s. 11(2)](https://www.legislation.gov.uk/ukpga/1979/3/section/11/2) substituted (13.9.2018 for specified purposes, 31.12.2020 in so far as not already in force) by [Taxation (Cross-border Trade) Act 2018 (c. 22)](https://www.legislation.gov.uk/ukpga/2018/22), [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a), [Sch. 7 para. 129](https://www.legislation.gov.uk/ukpga/2018/22/schedule/7/paragraph/129) (with savings and transitional provisions in [S.I. 2020/1449](https://www.legislation.gov.uk/uksi/2020/1449), [reg. 3](https://www.legislation.gov.uk/uksi/2020/1449/regulation/3) and [2020 c. 26](https://www.legislation.gov.uk/ukpga/2020/26), [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+
+[^c984196]: Subordinate legislation: S. 11A: S. 11A power exercised by [S.I. 1991/2089](https://www.legislation.gov.uk/uksi/1991/2089)
+
+[^c984195]: Textual amendment: S. 11A inserted by [Finance Act 1988 (c. 39, SIF 40:1)](https://www.legislation.gov.uk/ukpga/1988/39), [s. 5(1)](https://www.legislation.gov.uk/ukpga/1988/39/section/5/1)
+
+[^key-473aa6e16c0b48a08befefc36b6ceefe]: Textual amendment: [cross-heading](https://www.legislation.gov.uk/ukpga/1979/3/crossheading/reliefs-from-excise-duties) omitted (13.9.2018 for specified purposes, 31.12.2020 in so far as not already in force) by virtue of [Taxation (Cross-border Trade) Act 2018 (c. 22)](https://www.legislation.gov.uk/ukpga/2018/22), [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a), [Sch. 7 para. 128](https://www.legislation.gov.uk/ukpga/2018/22/schedule/7/paragraph/128) (with savings and transitional provisions in [S.I. 2020/1449](https://www.legislation.gov.uk/uksi/2020/1449), [reg. 3](https://www.legislation.gov.uk/uksi/2020/1449/regulation/3) and [2020 c. 26](https://www.legislation.gov.uk/ukpga/2020/26), [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+
+[^c984197]: Marginal citation: [1979 c.8](https://www.legislation.gov.uk/ukpga/1979/8) (**40:1**).
+
+[^key-be5335f65833598c46ed3b96905737d8]: Textual amendment: [S. 12(6)](https://www.legislation.gov.uk/ukpga/1979/3/section/12/6) omitted (13.9.2018 for specified purposes, 31.12.2020 in so far as not already in force) by virtue of [Taxation (Cross-border Trade) Act 2018 (c. 22)](https://www.legislation.gov.uk/ukpga/2018/22), [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a), [Sch. 7 para. 130](https://www.legislation.gov.uk/ukpga/2018/22/schedule/7/paragraph/130) (with savings and transitional provisions in [S.I. 2020/1449](https://www.legislation.gov.uk/uksi/2020/1449), [reg. 3](https://www.legislation.gov.uk/uksi/2020/1449/regulation/3) and [2020 c. 26](https://www.legislation.gov.uk/ukpga/2020/26), [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+
+[^c984215]: Subordinate legislation: S. 13: power exercised by [S.I. 1991/1286](https://www.legislation.gov.uk/uksi/1991/1286) and 1991/1287
+
+    S. 13: power exercised by [S.I. 1991/1293](https://www.legislation.gov.uk/uksi/1991/1293)
+
+    S. 13: for previous exercises of this power see Index to Government Orders
+
+[^key-ca4e12eac2bb75000e84a9ca41eaf691]: Modification: S. 13 modified (17.12.2020 for specified purposes, 31.12.2020 in so far as not already in force) by [1994 c. 23](https://www.legislation.gov.uk/ukpga/1994/23), [Sch. 9ZA para. 76](https://www.legislation.gov.uk/ukpga/1994/23/schedule/9ZA/paragraph/76) (as inserted by [Taxation (Post-transition Period) Act 2020 (c. 26)](https://www.legislation.gov.uk/ukpga/2020/26), [s. 11(1)(e)](https://www.legislation.gov.uk/ukpga/2020/26/section/11/1/e), [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/2) (with [s. 3(4)](https://www.legislation.gov.uk/ukpga/2020/26/section/3/4), [Sch. 2 para. 7(7)-(10)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9))
+
+[^key-c83241bdba37cb8a389bb132a261f8b9]: Textual amendment: Word in s. 13 heading inserted (13.9.2018 for specified purposes, 31.12.2020 in so far as not already in force) by [Taxation (Cross-border Trade) Act 2018 (c. 22)](https://www.legislation.gov.uk/ukpga/2018/22), [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a), [Sch. 7 para. 131(8)(a)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/7/paragraph/131/8/a) (with savings and transitional provisions in [S.I. 2020/1449](https://www.legislation.gov.uk/uksi/2020/1449), [reg. 3](https://www.legislation.gov.uk/uksi/2020/1449/regulation/3) and [2020 c. 26](https://www.legislation.gov.uk/ukpga/2020/26), [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+
+[^key-5231e39e95c07cfe38c6a226e443039c]: Textual amendment: Word in s. 13 heading inserted (13.9.2018 for specified purposes, 31.12.2020 in so far as not already in force) by [Taxation (Cross-border Trade) Act 2018 (c. 22)](https://www.legislation.gov.uk/ukpga/2018/22), [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a), [Sch. 7 para. 131(8)(b)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/7/paragraph/131/8/b) (with savings and transitional provisions in [S.I. 2020/1449](https://www.legislation.gov.uk/uksi/2020/1449), [reg. 3](https://www.legislation.gov.uk/uksi/2020/1449/regulation/3) and [2020 c. 26](https://www.legislation.gov.uk/ukpga/2020/26), [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+
+[^key-89bd8ea5606c3f7f3d3e04d30b29cabe]: Textual amendment: Word in s. 13(1) inserted (13.9.2018 for specified purposes, 31.12.2020 in so far as not already in force) by [Taxation (Cross-border Trade) Act 2018 (c. 22)](https://www.legislation.gov.uk/ukpga/2018/22), [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a), [Sch. 7 para. 131(2)(a)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/7/paragraph/131/2/a) (with savings and transitional provisions in [S.I. 2020/1449](https://www.legislation.gov.uk/uksi/2020/1449), [reg. 3](https://www.legislation.gov.uk/uksi/2020/1449/regulation/3) and [2020 c. 26](https://www.legislation.gov.uk/ukpga/2020/26), [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+
+[^key-ad792e5e660ad638ab09666a0d75a609]: Textual amendment: Word in s. 13(1) inserted (13.9.2018 for specified purposes, 31.12.2020 in so far as not already in force) by [Taxation (Cross-border Trade) Act 2018 (c. 22)](https://www.legislation.gov.uk/ukpga/2018/22), [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a), [Sch. 7 para. 131(2)(b)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/7/paragraph/131/2/b) (with savings and transitional provisions in [S.I. 2020/1449](https://www.legislation.gov.uk/uksi/2020/1449), [reg. 3](https://www.legislation.gov.uk/uksi/2020/1449/regulation/3) and [2020 c. 26](https://www.legislation.gov.uk/ukpga/2020/26), [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+
+[^key-f1138347762b4ea0a1c97f065f6fabf8]: Textual amendment: Word in s. 13(1) inserted (13.9.2018 for specified purposes, 31.12.2020 in so far as not already in force) by [Taxation (Cross-border Trade) Act 2018 (c. 22)](https://www.legislation.gov.uk/ukpga/2018/22), [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a), [Sch. 7 para. 131(2)(c)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/7/paragraph/131/2/c) (with savings and transitional provisions in [S.I. 2020/1449](https://www.legislation.gov.uk/uksi/2020/1449), [reg. 3](https://www.legislation.gov.uk/uksi/2020/1449/regulation/3) and [2020 c. 26](https://www.legislation.gov.uk/ukpga/2020/26), [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+
+[^key-883fe33a0a0c9e86efb972327855622e]: Textual amendment: S. 13(1A) omitted (13.9.2018 for specified purposes, 31.12.2020 in so far as not already in force) by virtue of [Taxation (Cross-border Trade) Act 2018 (c. 22)](https://www.legislation.gov.uk/ukpga/2018/22), [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a), [Sch. 7 para. 131(3)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/7/paragraph/131/3) (with savings and transitional provisions in [S.I. 2020/1449](https://www.legislation.gov.uk/uksi/2020/1449), [reg. 3](https://www.legislation.gov.uk/uksi/2020/1449/regulation/3) and [2020 c. 26](https://www.legislation.gov.uk/ukpga/2020/26), [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+
+[^key-6e0d9ee5ef9b06519cd66bc9e265f5f7]: Textual amendment: Word in s. 13(2) inserted (13.9.2018 for specified purposes, 31.12.2020 in so far as not already in force) by [Taxation (Cross-border Trade) Act 2018 (c. 22)](https://www.legislation.gov.uk/ukpga/2018/22), [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a), [Sch. 7 para. 131(4)(a)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/7/paragraph/131/4/a) (with savings and transitional provisions in [S.I. 2020/1449](https://www.legislation.gov.uk/uksi/2020/1449), [reg. 3](https://www.legislation.gov.uk/uksi/2020/1449/regulation/3) and [2020 c. 26](https://www.legislation.gov.uk/ukpga/2020/26), [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+
+[^key-26012d9eec7cfc530b17aaff75d80d36]: Textual amendment: Word in s. 13(2) inserted (13.9.2018 for specified purposes, 31.12.2020 in so far as not already in force) by [Taxation (Cross-border Trade) Act 2018 (c. 22)](https://www.legislation.gov.uk/ukpga/2018/22), [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a), [Sch. 7 para. 131(4)(b)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/7/paragraph/131/4/b) (with savings and transitional provisions in [S.I. 2020/1449](https://www.legislation.gov.uk/uksi/2020/1449), [reg. 3](https://www.legislation.gov.uk/uksi/2020/1449/regulation/3) and [2020 c. 26](https://www.legislation.gov.uk/ukpga/2020/26), [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+
+[^key-6e1480696c1688914fc2892b0a49ef2e]: Textual amendment: Words in s. 13(3)(a) omitted (13.9.2018 for specified purposes, 31.12.2020 in so far as not already in force) by virtue of [Taxation (Cross-border Trade) Act 2018 (c. 22)](https://www.legislation.gov.uk/ukpga/2018/22), [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a), [Sch. 7 para. 131(5)(a)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/7/paragraph/131/5/a) (with savings and transitional provisions in [S.I. 2020/1449](https://www.legislation.gov.uk/uksi/2020/1449), [reg. 3](https://www.legislation.gov.uk/uksi/2020/1449/regulation/3) and [2020 c. 26](https://www.legislation.gov.uk/ukpga/2020/26), [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+
+[^c984218]: Textual amendment: Words in s. 13(3)(a) inserted (1.12.1992) by [Finance (No. 2) Act 1992 (c. 48)](https://www.legislation.gov.uk/ukpga/1992/48), [s. 1(5)(8)](https://www.legislation.gov.uk/ukpga/1992/48/section/1/5/8), [Sch. 1 para. 8(1)(a)](https://www.legislation.gov.uk/ukpga/1992/48/schedule/1/paragraph/8/1/a); [S.I. 1992/2979](https://www.legislation.gov.uk/uksi/1992/2979), [art. 4](https://www.legislation.gov.uk/uksi/1992/2979/article/4), [Sch. Pt.II](https://www.legislation.gov.uk/uksi/1992/2979/schedule/part/II) (and [S.I. 1992/3261](https://www.legislation.gov.uk/uksi/1992/3261), [art. 3](https://www.legislation.gov.uk/uksi/1992/3261/article/3), [Sch.](https://www.legislation.gov.uk/uksi/1992/3261/schedule))
+
+[^c984219]: Textual amendment: Words inserted (*retrospectively*) by [Finance Act 1984 (c. 43, SIF 40:1)](https://www.legislation.gov.uk/ukpga/1984/43), [s. 15(4)(8)](https://www.legislation.gov.uk/ukpga/1984/43/section/15/4/8)
+
+[^c984220]: Textual amendment: Words in s. 13(3)(b) inserted (1.12.1992) by [Finance (No. 2) Act 1992 (c. 48)](https://www.legislation.gov.uk/ukpga/1992/48), [s. 1(5)(8)](https://www.legislation.gov.uk/ukpga/1992/48/section/1/5/8), [Sch. 1 para. 8(1)(b)](https://www.legislation.gov.uk/ukpga/1992/48/schedule/1/paragraph/8/1/b); [S.I. 1992/2979](https://www.legislation.gov.uk/uksi/1992/2979), [art. 4](https://www.legislation.gov.uk/uksi/1992/2979/article/4), [Sch.](https://www.legislation.gov.uk/uksi/1992/2979/schedule)Pt. II (and [S.I. 1992/3261](https://www.legislation.gov.uk/uksi/1992/3261), [art. 3](https://www.legislation.gov.uk/uksi/1992/3261/article/3), [Sch.](https://www.legislation.gov.uk/uksi/1992/3261/schedule))
+
+[^key-553656cbb842424c6f698a7c952b95c5]: Textual amendment: Word in s. 13(3)(b) inserted (13.9.2018 for specified purposes, 31.12.2020 in so far as not already in force) by [Taxation (Cross-border Trade) Act 2018 (c. 22)](https://www.legislation.gov.uk/ukpga/2018/22), [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a), [Sch. 7 para. 131(5)(b)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/7/paragraph/131/5/b) (with savings and transitional provisions in [S.I. 2020/1449](https://www.legislation.gov.uk/uksi/2020/1449), [reg. 3](https://www.legislation.gov.uk/uksi/2020/1449/regulation/3) and [2020 c. 26](https://www.legislation.gov.uk/ukpga/2020/26), [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+
+[^c984221]: Textual amendment: S. 13(3A)(3B)(3C) inserted (1.12.1992) by [Finance (No. 2) Act 1992 (c. 48)](https://www.legislation.gov.uk/ukpga/1992/48), [s. 1(5)(8)](https://www.legislation.gov.uk/ukpga/1992/48/section/1/5/8), [Sch. 1 para. 8(2)](https://www.legislation.gov.uk/ukpga/1992/48/schedule/1/paragraph/8/2); [S.I. 1992/2979](https://www.legislation.gov.uk/uksi/1992/2979), [art. 4](https://www.legislation.gov.uk/uksi/1992/2979/article/4), [Sch. Pt.II](https://www.legislation.gov.uk/uksi/1992/2979/schedule/part/II) (and [S.I. 1992/3261](https://www.legislation.gov.uk/uksi/1992/3261), [art. 3](https://www.legislation.gov.uk/uksi/1992/3261/article/3), [Sch.](https://www.legislation.gov.uk/uksi/1992/3261/schedule))
+
+[^key-bcfd8eedfe8b7f2e3637a50fdbb0b950]: Textual amendment: Word in s. 13(3B)(b) inserted (13.9.2018 for specified purposes, 31.12.2020 in so far as not already in force) by [Taxation (Cross-border Trade) Act 2018 (c. 22)](https://www.legislation.gov.uk/ukpga/2018/22), [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a), [Sch. 7 para. 131(6)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/7/paragraph/131/6) (with savings and transitional provisions in [S.I. 2020/1449](https://www.legislation.gov.uk/uksi/2020/1449), [reg. 3](https://www.legislation.gov.uk/uksi/2020/1449/regulation/3) and [2020 c. 26](https://www.legislation.gov.uk/ukpga/2020/26), [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+
+[^key-6f9bd65eea4e00626802b331bb74beb7]: Textual amendment: Sum in s. 13(3C)(a) substituted for words (E.W.) (12.3.2015) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 2 para. 2(2)](https://www.legislation.gov.uk/uksi/2015/664/schedule/2/paragraph/2/2) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))
+
+[^key-fd2150ca31d6ff2d220256d0c46e89a5]: Textual amendment: Words in s. 13(4) omitted (13.9.2018 for specified purposes, 31.12.2020 in so far as not already in force) by virtue of [Taxation (Cross-border Trade) Act 2018 (c. 22)](https://www.legislation.gov.uk/ukpga/2018/22), [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a), [Sch. 7 para. 131(7)(a)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/7/paragraph/131/7/a) (with savings and transitional provisions in [S.I. 2020/1449](https://www.legislation.gov.uk/uksi/2020/1449), [reg. 3](https://www.legislation.gov.uk/uksi/2020/1449/regulation/3) and [2020 c. 26](https://www.legislation.gov.uk/ukpga/2020/26), [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+
+[^c984223]: Textual amendment: Definition of "conduct" in s. 13(4) inserted (1.12.1992) by [Finance (No. 2) Act 1992 (c. 48)](https://www.legislation.gov.uk/ukpga/1992/48), [s. 1(5)(8)](https://www.legislation.gov.uk/ukpga/1992/48/section/1/5/8), [Sch. 1 para. 8(3)](https://www.legislation.gov.uk/ukpga/1992/48/schedule/1/paragraph/8/3); [S.I. 1992/2979](https://www.legislation.gov.uk/uksi/1992/2979), [art. 4](https://www.legislation.gov.uk/uksi/1992/2979/article/4), [Sch. Pt.II](https://www.legislation.gov.uk/uksi/1992/2979/schedule/part/II) (and [S.I. 1992/3261](https://www.legislation.gov.uk/uksi/1992/3261), [art. 3](https://www.legislation.gov.uk/uksi/1992/3261/article/3), [Sch.](https://www.legislation.gov.uk/uksi/1992/3261/schedule))
+
+[^key-be87fba25a916ee4245f0dc169af94ac]: Textual amendment: Words in s. 13(4) substituted (13.9.2018 for specified purposes, 31.12.2020 in so far as not already in force) by [Taxation (Cross-border Trade) Act 2018 (c. 22)](https://www.legislation.gov.uk/ukpga/2018/22), [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a), [Sch. 7 para. 131(7)(b)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/7/paragraph/131/7/b) (with savings and transitional provisions in [S.I. 2020/1449](https://www.legislation.gov.uk/uksi/2020/1449), [reg. 3](https://www.legislation.gov.uk/uksi/2020/1449/regulation/3) and [2020 c. 26](https://www.legislation.gov.uk/ukpga/2020/26), [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+
+[^key-f9a499727cd6cecb3a3a8b4d87ee2c6f]: Textual amendment: Words in [s. 13(4)](https://www.legislation.gov.uk/ukpga/1979/3/section/13/4) omitted (31.12.2020) by virtue of [Taxation (Cross-border Trade) Act 2018 (c. 22)](https://www.legislation.gov.uk/ukpga/2018/22), [s. 57(3)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/3), [Sch. 8 para. 105](https://www.legislation.gov.uk/ukpga/2018/22/schedule/8/paragraph/105) (with savings and transitional provisions in [S.I. 2019/105](https://www.legislation.gov.uk/uksi/2019/105) (as amended by [S.I. 2020/1495](https://www.legislation.gov.uk/uksi/2020/1495), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1495/regulation/1/2), [21](https://www.legislation.gov.uk/uksi/2020/1495/regulation/21)), [S.I. 2020/1545](https://www.legislation.gov.uk/uksi/2020/1545), [Pt. 4](https://www.legislation.gov.uk/uksi/2020/1545/part/4) and [2020 c. 26](https://www.legislation.gov.uk/ukpga/2020/26), [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/b) (with [reg. 7](https://www.legislation.gov.uk/uksi/2020/1642/regulation/7))
+
+[^c984226]: Textual amendment: Ss. 13A–13C inserted by [Finance Act 1989 (c. 26, SIF 40:1)](https://www.legislation.gov.uk/ukpga/1989/26), [s. 28(1)(2)](https://www.legislation.gov.uk/ukpga/1989/26/section/28/1/2)
+
+[^key-c5be2812cb72aa0fb72e55e04cada652]: Textual amendment: Words in [s. 13A(1)](https://www.legislation.gov.uk/ukpga/1979/3/section/13A/1) substituted (13.9.2018 for specified purposes, 31.12.2020 in so far as not already in force) by [Taxation (Cross-border Trade) Act 2018 (c. 22)](https://www.legislation.gov.uk/ukpga/2018/22), [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a), [Sch. 7 para. 132(2)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/7/paragraph/132/2) (with savings and transitional provisions in [S.I. 2020/1449](https://www.legislation.gov.uk/uksi/2020/1449), [reg. 3](https://www.legislation.gov.uk/uksi/2020/1449/regulation/3) and [2020 c. 26](https://www.legislation.gov.uk/ukpga/2020/26), [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+
+[^key-9fbb248ac31f92b7485769ec7db58ea6]: Textual amendment: Words in [s. 13A(3)(a)](https://www.legislation.gov.uk/ukpga/1979/3/section/13A/3/a) substituted (13.9.2018 for specified purposes, 31.12.2020 in so far as not already in force) by [Taxation (Cross-border Trade) Act 2018 (c. 22)](https://www.legislation.gov.uk/ukpga/2018/22), [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a), [Sch. 7 para. 132(3)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/7/paragraph/132/3) (with savings and transitional provisions in [S.I. 2020/1449](https://www.legislation.gov.uk/uksi/2020/1449), [reg. 3](https://www.legislation.gov.uk/uksi/2020/1449/regulation/3) and [2020 c. 26](https://www.legislation.gov.uk/ukpga/2020/26), [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+
+[^key-32c624adf76c1ba81c0111797501ffa1]: Textual amendment: Words in [s. 13A(6)](https://www.legislation.gov.uk/ukpga/1979/3/section/13A/6) substituted (13.9.2018 for specified purposes, 31.12.2020 in so far as not already in force) by [Taxation (Cross-border Trade) Act 2018 (c. 22)](https://www.legislation.gov.uk/ukpga/2018/22), [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a), [Sch. 7 para. 132(4)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/7/paragraph/132/4) (with savings and transitional provisions in [S.I. 2020/1449](https://www.legislation.gov.uk/uksi/2020/1449), [reg. 3](https://www.legislation.gov.uk/uksi/2020/1449/regulation/3) and [2020 c. 26](https://www.legislation.gov.uk/ukpga/2020/26), [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+
+[^key-14cfd57fa6480855a0b7e14ba7dc919a]: Textual amendment: Words in Act substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3](https://www.legislation.gov.uk/uksi/2011/1043/article/3), [4](https://www.legislation.gov.uk/uksi/2011/1043/article/4) (with [art. 3(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/2)[(3)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/3)[4(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/4/2)[6(4)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/4)[6(5)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/5))
+
+[^c984227]: Marginal citation: [1972 c.68](https://www.legislation.gov.uk/ukpga/1972/68) (**29:5**).
+
+[^c984228]: Marginal citation: [1979 c.8](https://www.legislation.gov.uk/ukpga/1979/8) (**40:1**).
+
+[^c984229]: Marginal citation: [1952 c.67 (7:3)](https://www.legislation.gov.uk/ukpga/1952/67).
+
+[^c984230]: Marginal citation: [1964 c.5](https://www.legislation.gov.uk/ukpga/1964/5) (**68:1**).
+
+[^c984231]: Marginal citation: [1964 c.81](https://www.legislation.gov.uk/ukpga/1964/81) (**68:1**).
+
+[^c984232]: Marginal citation: [1966 c.10](https://www.legislation.gov.uk/ukpga/1966/10) (**26:1**).
+
+[^c984233]: Marginal citation: [1968 c.18](https://www.legislation.gov.uk/ukpga/1968/18) (**68:1**).
+
+[^c984234]: Marginal citation: [1968 c.48](https://www.legislation.gov.uk/ukpga/1968/48) (**68:1**).
+
+[^c1789213]: Textual amendment: S. 13B(1)(b)(v) substituted (17.6.2002) by [International Development Act 2002 (c. 1)](https://www.legislation.gov.uk/ukpga/2002/1), [s. 19](https://www.legislation.gov.uk/ukpga/2002/1/section/19), [Sch. 3 para. 7](https://www.legislation.gov.uk/ukpga/2002/1/schedule/3/paragraph/7); [S.I. 2002/1408](https://www.legislation.gov.uk/uksi/2002/1408), [art. 2](https://www.legislation.gov.uk/uksi/2002/1408/article/2) (with savings in [Sch. 5 para. 5](https://www.legislation.gov.uk/uksi/2002/1408/schedule/5/paragraph/5))
+
+[^key-4bbfa74b4e309ebcfa59e4520a1dec45]: Textual amendment: [S. 13B(1)(c)](https://www.legislation.gov.uk/ukpga/1979/3/section/13B/1/c) omitted (13.9.2018 for specified purposes, 31.12.2020 in so far as not already in force) by virtue of [Taxation (Cross-border Trade) Act 2018 (c. 22)](https://www.legislation.gov.uk/ukpga/2018/22), [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a), [Sch. 7 para. 133](https://www.legislation.gov.uk/ukpga/2018/22/schedule/7/paragraph/133) (with savings and transitional provisions in [S.I. 2020/1449](https://www.legislation.gov.uk/uksi/2020/1449), [reg. 3](https://www.legislation.gov.uk/uksi/2020/1449/regulation/3) and [2020 c. 26](https://www.legislation.gov.uk/ukpga/2020/26), [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+
+[^key-34903222ddcafc2b1123006a6f00ee05]: Textual amendment: Words in [s. 13C(1)(a)](https://www.legislation.gov.uk/ukpga/1979/3/section/13C/1/a) substituted (13.9.2018 for specified purposes, 31.12.2020 in so far as not already in force) by [Taxation (Cross-border Trade) Act 2018 (c. 22)](https://www.legislation.gov.uk/ukpga/2018/22), [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a), [Sch. 7 para. 134](https://www.legislation.gov.uk/ukpga/2018/22/schedule/7/paragraph/134) (with savings and transitional provisions in [S.I. 2020/1449](https://www.legislation.gov.uk/uksi/2020/1449), [reg. 3](https://www.legislation.gov.uk/uksi/2020/1449/regulation/3) and [2020 c. 26](https://www.legislation.gov.uk/ukpga/2020/26), [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+
+[^key-d9f66b784dc25cffb1166669c2bf37b3]: Textual amendment: Sum in s. 13C(4)(a) substituted for words (E.W.) (12.3.2015) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 2 para. 2(3)](https://www.legislation.gov.uk/uksi/2015/664/schedule/2/paragraph/2/3) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))
+
+[^key-ddc316d66b62a4fe52aac6b439a970b8]: Textual amendment: Word in [s. 13C(4)(b)](https://www.legislation.gov.uk/ukpga/1979/3/section/13C/4/b) substituted (22.2.2024) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [s. 32(1)](https://www.legislation.gov.uk/ukpga/2024/3/section/32/1) (with [s. 32(6)](https://www.legislation.gov.uk/ukpga/2024/3/section/32/6))
+
+[^c984236]: Textual amendment: S. 13C(5) inserted (9.12.1992) by [Finance (No. 2) Act 1992 (c. 48)](https://www.legislation.gov.uk/ukpga/1992/48), [s. 3](https://www.legislation.gov.uk/ukpga/1992/48/section/3), [Sch. 2 para.10](https://www.legislation.gov.uk/ukpga/1992/48/schedule/2/paragraph/10); [S.I. 1992/3104](https://www.legislation.gov.uk/uksi/1992/3104), [art.2](https://www.legislation.gov.uk/uksi/1992/3104/article/2)
+
+[^key-dcd9f94b29177600e09c1381693c6940]: Textual amendment: S. 14 and preceding cross-heading omitted (13.9.2018 for specified purposes, 31.12.2020 in so far as not already in force) by virtue of [Taxation (Cross-border Trade) Act 2018 (c. 22)](https://www.legislation.gov.uk/ukpga/2018/22), [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a), [Sch. 7 para. 135](https://www.legislation.gov.uk/ukpga/2018/22/schedule/7/paragraph/135) (with savings and transitional provisions in [S.I. 2020/1449](https://www.legislation.gov.uk/uksi/2020/1449), [reg. 3](https://www.legislation.gov.uk/uksi/2020/1449/regulation/3) and [2020 c. 26](https://www.legislation.gov.uk/ukpga/2020/26), [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+
+[^c984245]: Modification: S. 15 amended by [Finance Act 1985 (c. 54, SIF 40:1)](https://www.legislation.gov.uk/ukpga/1985/54), [s. 10(6)](https://www.legislation.gov.uk/ukpga/1985/54/section/10/6)(*e*)
+
+[^key-2d70cbc1653100cfebf78e65744993bd]: Textual amendment: Words in [s. 15(1)(a)](https://www.legislation.gov.uk/ukpga/1979/3/section/15/1/a) substituted (13.9.2018 for specified purposes, 31.12.2020 in so far as not already in force) by [Taxation (Cross-border Trade) Act 2018 (c. 22)](https://www.legislation.gov.uk/ukpga/2018/22), [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a), [Sch. 7 para. 136(a)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/7/paragraph/136/a) (with savings and transitional provisions in [S.I. 2020/1449](https://www.legislation.gov.uk/uksi/2020/1449), [reg. 3](https://www.legislation.gov.uk/uksi/2020/1449/regulation/3) and [2020 c. 26](https://www.legislation.gov.uk/ukpga/2020/26), [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+
+[^key-40528a55ab8955ba319390b93bf38ee8]: Textual amendment: [S. 15(1)(b)](https://www.legislation.gov.uk/ukpga/1979/3/section/15/1/b) omitted (13.9.2018 for specified purposes, 31.12.2020 in so far as not already in force) by virtue of [Taxation (Cross-border Trade) Act 2018 (c. 22)](https://www.legislation.gov.uk/ukpga/2018/22), [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a), [Sch. 7 para. 136(b)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/7/paragraph/136/b) (with savings and transitional provisions in [S.I. 2020/1449](https://www.legislation.gov.uk/uksi/2020/1449), [reg. 3](https://www.legislation.gov.uk/uksi/2020/1449/regulation/3) and [2020 c. 26](https://www.legislation.gov.uk/ukpga/2020/26), [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+
+[^key-8867f666802a4b3d5b5bcf2886085f53]: Textual amendment: Words in [s. 15(1)](https://www.legislation.gov.uk/ukpga/1979/3/section/15/1) substituted (13.9.2018 for specified purposes, 31.12.2020 in so far as not already in force) by [Taxation (Cross-border Trade) Act 2018 (c. 22)](https://www.legislation.gov.uk/ukpga/2018/22), [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a), [Sch. 7 para. 136(c)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/7/paragraph/136/c) (with savings and transitional provisions in [S.I. 2020/1449](https://www.legislation.gov.uk/uksi/2020/1449), [reg. 3](https://www.legislation.gov.uk/uksi/2020/1449/regulation/3) and [2020 c. 26](https://www.legislation.gov.uk/ukpga/2020/26), [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+
+[^key-c142601d8d5ce024c54329a58ebf3bff]: Textual amendment: Sum in s. 15(2)(a) substituted for words (E.W.) (12.3.2015) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 2 para. 2(4)(a)](https://www.legislation.gov.uk/uksi/2015/664/schedule/2/paragraph/2/4/a) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))
+
+[^key-cd8f4e1cf2ed0189ded7058011991644]: Textual amendment: S. 15(3)(a) omitted (E.W.) (12.3.2015) by virtue of [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 2 para. 2(4)(b)](https://www.legislation.gov.uk/uksi/2015/664/schedule/2/paragraph/2/4/b) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))
+
+[^c984248]: Textual amendment: Words in s. 15(3)(b) substituted (1.4.1996) by [1995 c. 40](https://www.legislation.gov.uk/ukpga/1995/40), [ss. 5](https://www.legislation.gov.uk/ukpga/1995/40/section/5), [7(2)](https://www.legislation.gov.uk/ukpga/1995/40/section/7/2), [Sch. 4 para. 19](https://www.legislation.gov.uk/ukpga/1995/40/schedule/4/paragraph/19)
+
+[^c984249]: Textual amendment: S. 15(3)(*c*) added by [S.I. 1984/703](https://www.legislation.gov.uk/uksi/1984/703), (N.I. 3) Sch. 6 para. 8(*b*)
+
+[^c984250]: Marginal citation: [1979 c. 2](https://www.legislation.gov.uk/ukpga/1979/2).
+
+[^key-9aa3760d86cd347295a88eea6b46f51d]: Textual amendment: [S. 16](https://www.legislation.gov.uk/ukpga/1979/3/section/16) omitted (13.9.2018 for specified purposes, 31.12.2020 in so far as not already in force) by virtue of [Taxation (Cross-border Trade) Act 2018 (c. 22)](https://www.legislation.gov.uk/ukpga/2018/22), [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a), [Sch. 7 para. 137](https://www.legislation.gov.uk/ukpga/2018/22/schedule/7/paragraph/137) (with savings and transitional provisions in [S.I. 2020/1449](https://www.legislation.gov.uk/uksi/2020/1449), [reg. 3](https://www.legislation.gov.uk/uksi/2020/1449/regulation/3) and [2020 c. 26](https://www.legislation.gov.uk/ukpga/2020/26), [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+
+[^key-a695957ab1b0a9cbbc206c26936e0a6c]: Textual amendment: Words in [s. 17(2)](https://www.legislation.gov.uk/ukpga/1979/3/section/17/2) omitted (13.9.2018 for specified purposes, 31.12.2020 in so far as not already in force) by virtue of [Taxation (Cross-border Trade) Act 2018 (c. 22)](https://www.legislation.gov.uk/ukpga/2018/22), [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a), [Sch. 7 para. 138(2)(a)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/7/paragraph/138/2/a) (with savings and transitional provisions in [S.I. 2020/1449](https://www.legislation.gov.uk/uksi/2020/1449), [reg. 3](https://www.legislation.gov.uk/uksi/2020/1449/regulation/3) and [2020 c. 26](https://www.legislation.gov.uk/ukpga/2020/26), [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+
+[^key-7fd3b1c344c85beab68664cef4f17216]: Textual amendment: Words in [s. 17(2)](https://www.legislation.gov.uk/ukpga/1979/3/section/17/2) omitted (13.9.2018 for specified purposes, 31.12.2020 in so far as not already in force) by virtue of [Taxation (Cross-border Trade) Act 2018 (c. 22)](https://www.legislation.gov.uk/ukpga/2018/22), [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a), [Sch. 7 para. 138(2)(b)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/7/paragraph/138/2/b) (with savings and transitional provisions in [S.I. 2020/1449](https://www.legislation.gov.uk/uksi/2020/1449), [reg. 3](https://www.legislation.gov.uk/uksi/2020/1449/regulation/3) and [2020 c. 26](https://www.legislation.gov.uk/ukpga/2020/26), [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+
+[^key-027688c0a03077f703d79ad402cdbc41]: Textual amendment: Words in [s. 17(3)](https://www.legislation.gov.uk/ukpga/1979/3/section/17/3) omitted (13.9.2018 for specified purposes, 31.12.2020 in so far as not already in force) by virtue of [Taxation (Cross-border Trade) Act 2018 (c. 22)](https://www.legislation.gov.uk/ukpga/2018/22), [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a), [Sch. 7 para. 138(3)(a)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/7/paragraph/138/3/a) (with savings and transitional provisions in [S.I. 2020/1449](https://www.legislation.gov.uk/uksi/2020/1449), [reg. 3](https://www.legislation.gov.uk/uksi/2020/1449/regulation/3) and [2020 c. 26](https://www.legislation.gov.uk/ukpga/2020/26), [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+
+[^c984251]: Textual amendment: “7” inserted by [Finance Act 1984 (c. 43, SIF 40:1)](https://www.legislation.gov.uk/ukpga/1984/43), [s. 14(2)(3)](https://www.legislation.gov.uk/ukpga/1984/43/section/14/2/3)
+
+[^c984252]: Textual amendment: “, 11A” inserted by [Finance Act 1988 (c. 39, SIF 40:1)](https://www.legislation.gov.uk/ukpga/1988/39), [s. 5(2)(a)](https://www.legislation.gov.uk/ukpga/1988/39/section/5/2/a)
+
+[^c984253]: Textual amendment: Words substituted by [Finance Act 1989 (c. 26, SIF 40:1)](https://www.legislation.gov.uk/ukpga/1989/26), [s. 28(3)](https://www.legislation.gov.uk/ukpga/1989/26/section/28/3)
+
+[^key-a0bb01d1c6aef58bd94731cd56f69f4d]: Textual amendment: Words in [s. 17(3)](https://www.legislation.gov.uk/ukpga/1979/3/section/17/3) omitted (13.9.2018 for specified purposes, 31.12.2020 in so far as not already in force) by virtue of [Taxation (Cross-border Trade) Act 2018 (c. 22)](https://www.legislation.gov.uk/ukpga/2018/22), [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a), [Sch. 7 para. 138(3)(b)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/7/paragraph/138/3/b) (with savings and transitional provisions in [S.I. 2020/1449](https://www.legislation.gov.uk/uksi/2020/1449), [reg. 3](https://www.legislation.gov.uk/uksi/2020/1449/regulation/3) and [2020 c. 26](https://www.legislation.gov.uk/ukpga/2020/26), [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+
+[^key-f87bd33936506a2b02b6f75b4b140002]: Textual amendment: Words in [s. 17(4)](https://www.legislation.gov.uk/ukpga/1979/3/section/17/4) omitted (13.9.2018 for specified purposes, 31.12.2020 in so far as not already in force) by virtue of [Taxation (Cross-border Trade) Act 2018 (c. 22)](https://www.legislation.gov.uk/ukpga/2018/22), [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a), [Sch. 7 para. 138(4)(a)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/7/paragraph/138/4/a) (with savings and transitional provisions in [S.I. 2020/1449](https://www.legislation.gov.uk/uksi/2020/1449), [reg. 3](https://www.legislation.gov.uk/uksi/2020/1449/regulation/3) and [2020 c. 26](https://www.legislation.gov.uk/ukpga/2020/26), [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+
+[^key-3f0018bb78d6a45a3b1254c5844b515d]: Textual amendment: Words in [s. 17(4)](https://www.legislation.gov.uk/ukpga/1979/3/section/17/4) omitted (13.9.2018 for specified purposes, 31.12.2020 in so far as not already in force) by virtue of [Taxation (Cross-border Trade) Act 2018 (c. 22)](https://www.legislation.gov.uk/ukpga/2018/22), [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a), [Sch. 7 para. 138(4)(b)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/7/paragraph/138/4/b) (with savings and transitional provisions in [S.I. 2020/1449](https://www.legislation.gov.uk/uksi/2020/1449), [reg. 3](https://www.legislation.gov.uk/uksi/2020/1449/regulation/3) and [2020 c. 26](https://www.legislation.gov.uk/ukpga/2020/26), [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+
+[^c984254]: Textual amendment: “, 11A” inserted by [Finance Act 1988 (c. 39, SIF 40:1)](https://www.legislation.gov.uk/ukpga/1988/39), [s. 5(2)(a)](https://www.legislation.gov.uk/ukpga/1988/39/section/5/2/a)
+
+[^c984255]: Textual amendment: Words substituted by virtue of [Finance Act 1989 (c. 26, SIF 40:1)](https://www.legislation.gov.uk/ukpga/1989/26), [s. 28(3)](https://www.legislation.gov.uk/ukpga/1989/26/section/28/3)
+
+[^key-68e366ac191ab4c8227189e767a2c865]: Textual amendment: Word in [s. 17(4)](https://www.legislation.gov.uk/ukpga/1979/3/section/17/4) inserted (13.9.2018 for specified purposes, 31.12.2020 in so far as not already in force) by [Taxation (Cross-border Trade) Act 2018 (c. 22)](https://www.legislation.gov.uk/ukpga/2018/22), [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a), [Sch. 7 para. 138(4)(c)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/7/paragraph/138/4/c) (with savings and transitional provisions in [S.I. 2020/1449](https://www.legislation.gov.uk/uksi/2020/1449), [reg. 3](https://www.legislation.gov.uk/uksi/2020/1449/regulation/3) and [2020 c. 26](https://www.legislation.gov.uk/ukpga/2020/26), [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+
+[^key-19e390fb0722c155a2104adb9e381195]: Textual amendment: [S. 17(5)](https://www.legislation.gov.uk/ukpga/1979/3/section/17/5) omitted (13.9.2018 for specified purposes, 31.12.2020 in so far as not already in force) by virtue of [Taxation (Cross-border Trade) Act 2018 (c. 22)](https://www.legislation.gov.uk/ukpga/2018/22), [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a), [Sch. 7 para. 138(5)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/7/paragraph/138/5) (with savings and transitional provisions in [S.I. 2020/1449](https://www.legislation.gov.uk/uksi/2020/1449), [reg. 3](https://www.legislation.gov.uk/uksi/2020/1449/regulation/3) and [2020 c. 26](https://www.legislation.gov.uk/ukpga/2020/26), [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+
+[^key-74e0ed007e14f80e75690fe8d2193754]: Textual amendment: Words in [s. 18(2)](https://www.legislation.gov.uk/ukpga/1979/3/section/18/2) omitted (11.7.2023) by virtue of [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [s. 340(7)](https://www.legislation.gov.uk/ukpga/2023/30/section/340/7)
+
+[^key-d3428d670364e1bc554c18df9c8c839d]: Textual amendment: Words in [s. 18(2)](https://www.legislation.gov.uk/ukpga/1979/3/section/18/2) substituted (1.8.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [s. 120(2)](https://www.legislation.gov.uk/ukpga/2023/30/section/120/2), [Sch. 13 para. 6](https://www.legislation.gov.uk/ukpga/2023/30/schedule/13/paragraph/6); [S.I. 2023/884](https://www.legislation.gov.uk/uksi/2023/884), [reg. 2(1)(j)](https://www.legislation.gov.uk/uksi/2023/884/regulation/2/1/j) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/884/regulation/10))
+
+[^c984257]: Modification: The text of s. 19(1)(2), Schs. 2 (except as indicated) and 3 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
+
+[^c984259]: Marginal citation: [1958 c. 6](https://www.legislation.gov.uk/ukpga/1958/6).
+
+[^c984260]: Marginal citation: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68).
+
+[^c984261]: Marginal citation: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68).
+
+[^c984262]: Marginal citation: [1969 c. 16](https://www.legislation.gov.uk/ukpga/1969/16).
+
+[^c984263]: Marginal citation: [1978 c. 42](https://www.legislation.gov.uk/ukpga/1978/42).
+
+[^c984264]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/ukpga/1979/3/schedule/1) repealed by [Isle of Man Act 1979 (c. 58)](https://www.legislation.gov.uk/ukpga/1979/58), [Sch. 2](https://www.legislation.gov.uk/ukpga/1979/58/schedule/2)
+
+[^c984265]: Modification: The text of s. 19(1)(2), Schs. 2 (except as indicated) and 3 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
+
+[^c984267]: Textual amendment: Sch. 2 para. 1 repealed (5.11.1993) by [1993 c. 50](https://www.legislation.gov.uk/ukpga/1993/50), [s. 1(1)](https://www.legislation.gov.uk/ukpga/1993/50/section/1/1), [Sch. 1 Pt. II](https://www.legislation.gov.uk/ukpga/1993/50/schedule/1/part/II).
+
+[^c984268]: Textual amendment: Sch. 2 para. 2 repealed by [Value Added Tax Act 1983 (c. 55, SIF 40:2)](https://www.legislation.gov.uk/ukpga/1983/55), [s. 50(2)](https://www.legislation.gov.uk/ukpga/1983/55/section/50/2), [Sch. 11](https://www.legislation.gov.uk/ukpga/1983/55/schedule/11)
+
+[^key-d8ed182a3a71ba1b98099f31c4b7e66b]: Textual amendment: [Sch. 2 paras. 3-5 and cross-heading](https://www.legislation.gov.uk/ukpga/1979/3/schedule/2/crossheading/european-communities-act-1972) repealed (31.12.2020) by [The European Union Withdrawal (Consequential Modifications) (EU Exit) Regulations 2020 (S.I. 2020/1447)](https://www.legislation.gov.uk/uksi/2020/1447), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1447/regulation/1/3), [Sch.](https://www.legislation.gov.uk/uksi/2020/1447/schedule) (with [reg. 9(2)](https://www.legislation.gov.uk/uksi/2020/1447/regulation/9/2))
+
+[^c984270]: Marginal citation: [1977 c. 36](https://www.legislation.gov.uk/ukpga/1977/36).
+
+[^c984271]: Modification: The text of s. 19(1)(2), Schs. 2 (except as indicated) and 3 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.

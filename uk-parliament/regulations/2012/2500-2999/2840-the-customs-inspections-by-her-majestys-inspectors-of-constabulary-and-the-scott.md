@@ -1,0 +1,282 @@
+---
+title: The Customs (Inspections by Her Majesty’s Inspectors of Constabulary and the Scottish Inspectors) Regulations 2012
+id: uksi/2012/2840
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2012-11-12'
+text_date: '2014-05-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2012/2840
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2012/2840/pdfs/uksiem_20122840_en.pdf
+- http://www.legislation.gov.uk/uksi/2012/2840/pdfs/uksi_20122840_en.pdf
+- http://www.legislation.gov.uk/uksi/2012/2840/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Customs (Inspections by Her Majesty’s Inspectors of Constabulary and the Scottish Inspectors) Regulations 2012
+
+> Text as at 2014-05-01.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2012 No. 2840
+
+Revenue And Customs
+
+The Customs (Inspections by Her Majesty’s Inspectors of Constabulary and the Scottish Inspectors) Regulations 2012
+
+Made
+
+12th November 2012
+
+Laid before Parliament
+
+14th November 2012
+
+Coming into force
+
+10th December 2012
+
+The Secretary of State, in exercise of the powers conferred by sections 29 and 37(2) of the Borders Citizenship and Immigration Act 2009[^f00001], makes the following Regulations:
+
+## 1. Citation and commencement[^key-4c0f99de63d0cd3dfd2ac12b9a9680a1]
+
+These Regulations may be cited as the Customs (Inspections by Her Majesty’s Inspectors of Constabulary and the Scottish Inspectors) Regulations 2012 and shall come into force on 10<sup>th</sup> December 2012.
+
+## 2. Interpretation[^key-89083db4833ccfe5dcd29267b0aa36c9]
+
+In these Regulations, “the Act” means the Borders Citizenship and Immigration Act 2009[^f00002].
+
+## 3. Inspection functions: England and Wales[^key-bd08fab784058d20e4568c6848b5e17f]
+
+(1) Paragraph (2) applies where the following conduct takes place at one or more premises specified in Part 1 of the Schedule to these Regulations, or whilst transporting a person to or from those premises in England and Wales—
+
+- (a) the exercise by designated customs officials of customs functions;
+- (b) the exercise by officials of the Secretary of State of customs functions;
+- (c) the exercise by the Secretary of State of general customs functions;
+- (d) the exercise by the Director of Border Revenue of the Director’s functions;
+- (e) the exercise by any person of the functions of the Director of Border Revenue;
+- (f) the provision of services by a person pursuant to arrangements relating to the discharge of a function of a person mentioned in sub-paragraphs (a) to (e).
+
+(2) Her Majesty’s Inspectors of Constabulary shall inspect and report on the efficiency and effectiveness of the conduct specified in paragraph (1).
+
+## 4. Inspection functions: Scotland[^key-87cea8430f1b4459bd386e27c355adc0]
+
+(1) Paragraph (2) applies where the following conduct takes place at the premises specified in Part 2 of the Schedule to these Regulations, or whilst transporting a person to or from those premises in Scotland—
+
+- (a) the exercise by designated customs officials of customs functions;
+- (b) the exercise by officials of the Secretary of State of customs functions;
+- (c) the exercise by the Secretary of State of general customs functions;
+- (d) the exercise by the Director of Border Revenue of the Director’s functions;
+- (e) the exercise by any person of the functions of the Director of Border Revenue;
+- (f) the provision of services by a person pursuant to arrangements relating to the discharge of a function of a person mentioned in sub-paragraphs (a) to (e).
+
+(2) The Scottish inspectors and Her Majesty’s Inspectors of Constabulary shall jointly inspect and report on the efficiency and effectiveness of the conduct specified in paragraph (1).
+
+## 5. Requirement for an inspection[^key-160b9d7475dd9e93da6339d6cac0f5d6]
+
+(1) The Secretary of State may at any time require an inspection under regulation 3(2) or 4(2) to be carried out.
+
+(2) A requirement under paragraph (1) may include a requirement for the inspection to be confined to one or more premises specified in the Schedule to these Regulations, to particular matters or to particular activities.
+
+## 6. Delegation of functions[^key-6bd8ecaf002369215d8f9e7c93a9e721]
+
+(1) Her Majesty’s Inspectors of Constabulary may delegate any of their functions under these Regulations (to such an extent as they may determine) to Her Majesty’s Inspectorate of Prisons[^key-09a4c7e322e5711f8e44486a294a0e5c].
+
+(2) If the carrying out of an inspection is delegated under paragraph (1) it is nevertheless to be regarded for the purposes of these Regulations as carried out by Her Majesty’s Inspectors of Constabulary.
+
+(3)[^key-41fed5988e7fd8943250ba13ed61d338] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 7. Powers of Her Majesty’s Inspectors of Constabulary regarding information etc.[^key-d84c04dfd0dade76392806537c10b128]
+
+(1) A person mentioned in regulation 3(1) or 4(1) must—
+
+- (a) provide to an inspector such information and documents specified or described in a notification given by an inspector to the person, and
+- (b) produce and deliver up to an inspector all such evidence and other things so specified or described,
+
+as appears to the inspector to be required for the purpose of an inspection under regulation 3(2) or 4(2).
+
+(2) A notification under paragraph (1) requiring any information or documents to be provided may authorise or require that they be provided electronically.
+
+(3) Anything that a person is obliged to provide, produce or deliver up by virtue of a requirement imposed under paragraph (1) must be provided, produced or delivered up in such form and manner, and within such period, as may be specified—
+
+- (a) in the notification imposing the requirement, or
+- (b) in any subsequent notification given by an inspector to the person.
+
+(4) Nothing in this paragraph requires a person—
+
+- (a) to comply with an obligation imposed under paragraph (1) before the earliest time at which it is practicable to do so, or
+- (b) to comply at all with such an obligation if it never becomes practicable to do so.
+
+(5) In this regulation—
+
+- “document” means anything in which information of any description is recorded, and
+- “inspector” means an inspector of Her Majesty’s Inspectors of Constabulary.
+
+## 8. Powers of Her Majesty’s Inspectors of Constabulary regarding access to specified premises etc.[^key-1cd71b2103841e0553354b7e1fed0add]
+
+(1) Paragraph (2) applies if—
+
+- (a) an inspector requires a person mentioned in regulation 3(1) or 4(1) to allow the inspector to have access to any premises specified in the Schedule to these Regulations, any vehicle used to transport a person to or from those premises, and to documents, persons and other things on those premises or in those vehicles, and
+- (b) the requirement is imposed for the purposes of an inspection under regulation 3(2) or 4(2).
+
+(2) The person must secure that the required access is allowed to the inspector.
+
+(3) Where there are reasonable grounds for not allowing the inspector to have access at the time at which the inspector seeks to have it, the obligation under paragraph (2) has effect as an obligation to secure that the required access is allowed to the inspector at the earliest practicable time specified by the inspector after there ceases to be any such grounds.
+
+(4) In this regulation, “document” and “inspector” have the same meaning as in regulation 7(5).
+
+## 9. Reports[^key-64b00239357427046e97f03d12725845]
+
+(1) Where—
+
+- (a) Her Majesty’s Inspectors of Constabulary carry out an inspection under regulation 3(2); or
+- (b) The Scottish inspectors and Her Majesty’s Inspectors of Constabulary jointly carry out an inspection under regulation 4(2),
+
+  they must make a report of the inspection.
+
+(2) Her Majesty’s Inspectors of Constabulary and, in relation to a joint inspection under regulation 4(2), the Scottish inspectors must arrange for a report prepared under paragraph (1) to be published in such a manner as appears to them to be appropriate.
+
+(3) But Her Majesty’s Inspectors of Constabulary and, in relation to a joint inspection under regulation 4(2), the Scottish inspectors must exclude from publication of a report under paragraph (2) anything that they consider—
+
+- (a) would be against the interests of national security, or
+- (b) might jeopardise the safety of any person.
+
+(4) Her Majesty’s Inspectors of Constabulary and, in relation to an inspection under regulation 4(2), the Scottish inspectors must disclose to the Secretary of State and the Director of Border Revenue anything excluded from publication by virtue of paragraph (3).
+
+(5) Her Majesty’s Inspector’s of Constabulary and, in relation to an inspection under regulation 4(2), the Scottish inspectors must send a copy of a report published under paragraph (2) to the Secretary of State and the Director of Border Revenue.
+
+(6) The Secretary of State and the Director of Border Revenue shall prepare comments on the report received pursuant to paragraph (5) and shall arrange for those comments to be published in such manner as appears to the Secretary of State and Director of Border Revenue to be appropriate.
+
+(7) Her Majesty’s Inspectors of Constabulary shall in each year prepare a report on the carrying out of inspections under regulation 3(2) and 4(2) and shall lay a copy of the annual report before Parliament.
+
+## 10. Inspection programmes and inspection frameworks[^key-c3a03db2712a0b7beff0aba97b77a734]
+
+The chief inspector of Her Majesty’s Inspectors of Constabulary must include proposed inspections under these Regulations within any inspection programme or inspection framework prepared in accordance with paragraph 2(1) of Schedule 4A to the Police Act 1996[^f00003], and paragraph 2(2)[^f00004], 2(2A)[^f00005], 2(2B)[^f00006], 2(3)[^f00007] and 2(5) of that Schedule shall apply accordingly.
+
+## 11. Co-operation[^key-04d7e19b994f2d9fd00d526e79dc41e5]
+
+(1) Section 54(2D) of the Police Act 1996[^f00008] shall apply to the chief inspector of Her Majesty’s Inspectors of Constabulary in respect of the functions of Her Majesty’s Inspectors of Constabulary under these Regulations.
+
+(2) Paragraph 4 of Schedule 4A to the Police Act 1996[^f00009] shall apply to the functions of Her Majesty’s Inspectors of Constabulary under these Regulations.
+
+## 12. Joint action[^key-6efa00889b0a5e0ba152a94a314f3ca9]
+
+Paragraph 5 of Schedule 4A to the Police Act 1996[^f00010] shall apply to the functions of Her Majesty’s Inspectors of Constabulary under these Regulations.
+
+## 13. Payment[^key-d442378bded5231250ae4be3013ad4fc]
+
+The Secretary of State shall pay such amount to Her Majesty’s Inspectors of Constabulary and to the Scottish inspectors in respect of their functions under these Regulations as the Secretary of State may with the consent of the Treasury determine.
+
+Mark Harper
+
+Minister of State
+
+Home Office
+
+12th November 2012
+
+## THE SCHEDULE
+
+### PART 1 — The premises specified for the purposes of regulation 3(1) are:[^key-b8764c9fe5ebbfb69051753f9bb04389]
+
+Regulation 3(1)
+
+- Customs Spine Suite, Birmingham Airport, Diamond House, Birmingham International Airport, Birmingham, B26 3QJ
+- Customs Spine Suite, Building 26, Dover Port, Priory Court, St John’s Road, Dover, Kent CT17 9SH
+- UKBF Custody Suite, Ground Floor, Ashdown House, East Perimeter Road, Gatwick, Horley, Sussex, RH6 0LX[^key-bb5651187e968e8eef91f30e4451f960]
+- Customs Spine Suite, Heathrow Airport, 2<sup>nd</sup> Floor Short Term Holding Facility, Colnbrook Immigration Removal Centre, A4 Colnbrook Bypass 67, Harmondsworth, Middx UB7 0FX
+- Customs Spine Suite, Manchester Airport, International Arrivals, Terminal One, Manchester Airport, Manchester M90 3EX
+- Customs Interview Suite, Harwich Port, UK Border Force Office, Passenger Terminal, Harwich International Port, Parkeston, Essex CO12 4SX
+- [^key-c5d5fded1def63f13a84e3dbc03b14c1]...
+- Customs Interview Suite, St. Pancras International Station, St Pancras Road, London N1C 4QP
+- Customs Interview Suite, Stansted Airport, Main Terminal Building, Stansted, Essex CM24 1QS
+
+### PART 2 — The premises specified for the purposes of regulation 4(1) are:[^key-aab5cb8087873e662817d8e2757c0083]
+
+Regulation 4(1)
+
+Customs Spine Suite, Terminal Building, Glasgow Airport, St Andrews Drive, Paisley PA3 2SR.
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations make provision to give Her Majesty’s Inspectors of Constabulary and, in Scotland, the Scottish inspectors, oversight of premises used to detain people for customs purposes, and of transportation of the persons to and from these premises.
+
+Regulation 3 gives Her Majesty’s Inspectors of Constabulary the power to inspect and report on the efficiency and effectiveness of the exercise of the specified functions by customs officials or contractors, where that conduct takes place at one or more of the places used for customs detention which is listed in the Schedule, or whilst transporting a person to or from those premises in England and Wales. Regulation 4 confers similar powers on Her Majesty’s Inspectors of Constabulary and the Scottish inspectors jointly in relation to premises and during transportation in Scotland.
+
+Regulation 5 provides that the Secretary of State may require an inspection to be carried out. Regulation 6 enables Her Majesty’s Inspectors of Constabulary to delegate any of their functions under the Regulations to another public authority. Regulation 7 and 8 make provision regarding access to information and premises in respect of Her Majesty’s Inspectors of Constabulary. Regulation 9 makes provision for the preparation and publication of inspection reports and for an annual report to be laid before Parliament.
+
+Regulation 10 requires the chief inspector of Her Majesty’s Inspectors of Constabulary to include proposed inspections within any inspection programme or framework prepared under paragraph 2(1) of Schedule 4A to the Police Act 1996.
+
+Regulation 11 makes provision in respect of co-operation by Her Majesty’s Inspectors of Constabulary with other bodies.
+
+Regulation 12 makes provision in respect of payment to Her Majesty’s Inspectors of Constabulary and the Scottish inspectors.
+
+## Annotations
+
+[^f00001]: Footnote: [2009. c. 11](https://www.legislation.gov.uk/ukpga/2009/11).
+
+[^key-4c0f99de63d0cd3dfd2ac12b9a9680a1]: Commencement: Reg. 1 in force at 10.12.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/2840/regulation/1)
+
+[^key-89083db4833ccfe5dcd29267b0aa36c9]: Commencement: Reg. 2 in force at 10.12.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/2840/regulation/1)
+
+[^f00002]: Footnote: [2009. c. 11](https://www.legislation.gov.uk/ukpga/2009/11).
+
+[^key-bd08fab784058d20e4568c6848b5e17f]: Commencement: Reg. 3 in force at 10.12.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/2840/regulation/1)
+
+[^key-87cea8430f1b4459bd386e27c355adc0]: Commencement: Reg. 4 in force at 10.12.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/2840/regulation/1)
+
+[^key-160b9d7475dd9e93da6339d6cac0f5d6]: Commencement: Reg. 5 in force at 10.12.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/2840/regulation/1)
+
+[^key-6bd8ecaf002369215d8f9e7c93a9e721]: Commencement: Reg. 6 in force at 10.12.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/2840/regulation/1)
+
+[^key-09a4c7e322e5711f8e44486a294a0e5c]: Textual amendment: Words in [reg. 6(1)](https://www.legislation.gov.uk/uksi/2012/2840/regulation/6/1) substituted (1.5.2014) by [The Customs (Inspections by Her Majesty’s Inspectors of Constabulary and the Scottish Inspectors) (Amendment) Regulations 2014 (S.I. 2014/907)](https://www.legislation.gov.uk/uksi/2014/907), [regs. 1](https://www.legislation.gov.uk/uksi/2014/907/regulation/1), [4(1)](https://www.legislation.gov.uk/uksi/2014/907/regulation/4/1)
+
+[^key-41fed5988e7fd8943250ba13ed61d338]: Textual amendment: [Reg. 6(3)](https://www.legislation.gov.uk/uksi/2012/2840/regulation/6/3) omitted (1.5.2014) by virtue of [The Customs (Inspections by Her Majesty’s Inspectors of Constabulary and the Scottish Inspectors) (Amendment) Regulations 2014 (S.I. 2014/907)](https://www.legislation.gov.uk/uksi/2014/907), [regs. 1](https://www.legislation.gov.uk/uksi/2014/907/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/2014/907/regulation/4/2)
+
+[^key-d84c04dfd0dade76392806537c10b128]: Commencement: Reg. 7 in force at 10.12.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/2840/regulation/1)
+
+[^key-1cd71b2103841e0553354b7e1fed0add]: Commencement: Reg. 8 in force at 10.12.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/2840/regulation/1)
+
+[^key-64b00239357427046e97f03d12725845]: Commencement: Reg. 9 in force at 10.12.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/2840/regulation/1)
+
+[^key-c3a03db2712a0b7beff0aba97b77a734]: Commencement: Reg. 10 in force at 10.12.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/2840/regulation/1)
+
+[^f00003]: Footnote: [1996 c. 16](https://www.legislation.gov.uk/ukpga/1996/16). Paragraph 2(1) has been amended by section 85(1) and (2) of the Police Reform and Social Responsibility Act [2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13).
+
+[^f00004]: Footnote: Paragraph 2(2) has been amended by article 3 and paragraph 27(1) and (2)(b) of Part 2, Schedule 1 to [SI 2008/912](https://www.legislation.gov.uk/uksi/2008/912); sections 95 and 166, paragraph 63(1), (2)(a) and (2)(b) of Part 3, Schedule 5, and Part 1 of Schedule 15 to the Health and Social Care Act [2008 (c. 14)](https://www.legislation.gov.uk/ukpga/2008/14); sections 146(3) and 241, paragraph 1(1) and (2)(j) of Schedule 9, and Part 9 of Schedule 18 to the Local Government and Public Involvement in Health Act [2007 (c. 28)](https://www.legislation.gov.uk/ukpga/2007/28); and section 85(1) and (3) of the Police Reform and Social Responsibility Act [2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13).
+
+[^f00005]: Footnote: Paragraph 2(2A) inserted by section 85(1) and (4) of the Police Reform and Social Responsibility Act [2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13).
+
+[^f00006]: Footnote: Paragraph 2(2B) inserted by section 85(1) and (4) of the Police Reform and Social Responsibility Act [2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13).
+
+[^f00007]: Footnote: Paragraph 2(3) has been amended by section 85(1), (5)(a) and (b) of the Police Reform and Social Responsibility Act [2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13).
+
+[^key-04d7e19b994f2d9fd00d526e79dc41e5]: Commencement: Reg. 11 in force at 10.12.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/2840/regulation/1)
+
+[^f00008]: Footnote: [2006 c. 16](https://www.legislation.gov.uk/ukpga/2006/16). Section 54(2D) inserted by section 107(1) and paragraph 15 of Schedule 7 to the Police Reform Act [2002 (c. 30)](https://www.legislation.gov.uk/ukpga/2002/30).
+
+[^f00009]: Footnote: [2006 c. 16](https://www.legislation.gov.uk/ukpga/2006/16). Paragraph 4 has been amended by article 3 and paragraph 26(1) and (2)(b) of Part 2, Schedule 1 to [SI 2008/912](https://www.legislation.gov.uk/uksi/2008/912); sections 95 and 166, paragraph 63(1) and (4)(a) of Part 3, Schedule 5 and Part 1 to Schedule 15 of the Health and Social Care Act [2008 (c. 14)](https://www.legislation.gov.uk/ukpga/2008/14); and sections 146(3) and 241, paragraph 1(1) and 2(j) of Schedule 9, and Part 9 of Schedule 18 to the Local Government and Public Involvement in Health Act [2007 (c. 28)](https://www.legislation.gov.uk/ukpga/2007/28).
+
+[^key-6efa00889b0a5e0ba152a94a314f3ca9]: Commencement: Reg. 12 in force at 10.12.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/2840/regulation/1)
+
+[^f00010]: Footnote: [2006 c.16](https://www.legislation.gov.uk/ukpga/2006/16). Paragraph 5 has been amended by article 3 and paragraph 27(1) and (2)(b) of Part 2, Schedule 1 to [SI 2008/912](https://www.legislation.gov.uk/uksi/2008/912).
+
+[^key-d442378bded5231250ae4be3013ad4fc]: Commencement: Reg. 13 in force at 10.12.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/2840/regulation/1)
+
+[^key-b8764c9fe5ebbfb69051753f9bb04389]: Commencement: Sch. Pt. 1 in force at 10.12.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/2840/regulation/1)
+
+[^key-bb5651187e968e8eef91f30e4451f960]: Textual amendment: Words in [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2012/2840/schedule/part/1) substituted (1.5.2014) by [The Customs (Inspections by Her Majesty’s Inspectors of Constabulary and the Scottish Inspectors) (Amendment) Regulations 2014 (S.I. 2014/907)](https://www.legislation.gov.uk/uksi/2014/907), [regs. 1](https://www.legislation.gov.uk/uksi/2014/907/regulation/1), [5(a)](https://www.legislation.gov.uk/uksi/2014/907/regulation/5/a)
+
+[^key-c5d5fded1def63f13a84e3dbc03b14c1]: Textual amendment: Words in [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2012/2840/schedule/part/1) omitted (1.5.2014) by virtue of [The Customs (Inspections by Her Majesty’s Inspectors of Constabulary and the Scottish Inspectors) (Amendment) Regulations 2014 (S.I. 2014/907)](https://www.legislation.gov.uk/uksi/2014/907), [regs. 1](https://www.legislation.gov.uk/uksi/2014/907/regulation/1), [5(b)](https://www.legislation.gov.uk/uksi/2014/907/regulation/5/b)
+
+[^key-aab5cb8087873e662817d8e2757c0083]: Commencement: Sch. Pt. 2 in force at 10.12.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/2840/regulation/1)

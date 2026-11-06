@@ -1,0 +1,1202 @@
+---
+title: The Ionising Radiation (Medical Exposure) Regulations 2017
+id: uksi/2017/1322
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2017-12-20'
+text_date: '2024-10-01'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/uksi/2017/1322
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2017/1322/pdfs/uksiem_20171322_en.pdf
+- http://www.legislation.gov.uk/uksi/2017/1322/pdfs/uksi_20171322_en.pdf
+- http://www.legislation.gov.uk/uksi/2017/1322/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Ionising Radiation (Medical Exposure) Regulations 2017
+
+> Text as at 2024-10-01.
+>
+> Extent: England, Wales, Scotland.
+
+*Extent: E+W+S*
+
+2017 No. 1322
+
+Health And Safety
+
+The Ionising Radiation (Medical Exposure) Regulations 2017
+
+Made
+
+20th December 2017
+
+Laid before Parliament
+
+22nd December 2017
+
+Coming into force
+
+6th February 2018
+
+The Secretary of State, being the Minister designated[^f00001] for the purposes of section 2(2) of the European Communities Act 1972[^f00002] in relation to safety measures in regard to radioactive substances and the emission of ionising radiation, in exercise of the powers conferred by that section and by section 56 of the Finance Act 1973[^f00003], makes the following Regulations. Regulation 4 and Schedule 1 (the Licensing Authority) are made with the consent of the Treasury.
+
+## 1. Citation and commencement[^key-9dc0d0e4a7b8f3fa5d91c67ceba306b6]
+
+These Regulations may be cited as the Ionising Radiation (Medical Exposure) Regulations 2017 and come into force on 6th February 2018.
+
+## 2. Interpretation[^key-e363275b0c7588459b9a22a5972b0231]
+
+(1) In these Regulations—
+
+- “accidental exposure” means an exposure of an individual in error when no exposure was intended[^key-aa1ec185f3d9d6f7b6f877041771bff3];
+- “adequate training” means training which satisfies the requirements of Schedule 3 and the expression “adequately trained” is to be construed accordingly;
+- “assessment” means prior determination of amount, parameter or method;
+- “carers and comforters” means individuals knowingly and willingly incurring an exposure to ionising radiation by helping, other than as part of their occupation, in the support and comfort of individuals undergoing or having undergone an exposure;
+- “clinical audit” means a systematic examination or review of medical radiological procedures which seeks to improve the quality and outcome of patient care through structured review, whereby medical radiological practices, procedures and results are examined against agreed standards for good medical radiological procedures, with modification of practices, where indicated, and the application of new standards if necessary;
+- “[^key-470f8abc8382e71a9d86761401c46bd6]**clinical evaluation**” means interpretation of the information resulting from an exposure, including the outcome and implications;
+- “diagnostic reference levels” means dose levels in medical radiodiagnostic or interventional radiology practices, or, in the case of radio-pharmaceuticals, levels of activity, for typical examinations for groups of standard-sized individuals or standard phantoms for broadly defined types of equipment;
+- “[^key-ca55e527a8e6827645ce9a0125387eda]**dose reference levels**” means dose levels in radiotherapeutic practices for typical localisation or verification exposures for groups of standard-sized individuals or standard phantoms for broadly defined types of equipment;
+- “dose constraint” means a restriction set on the prospective doses of individuals which may result from a given radiation source;
+- “employer” means any person who, in the course of a trade, business or other undertaking, carries out (other than as an employee), or engages others to carry out, those exposures described in regulation 3(1)[^key-187e98e5b9e44511b383869cd5377a6c] or practical aspects, at a given radiological installation;
+- “employer’s procedures” means the procedures established by an employer pursuant to regulation 6(1);
+- “equipment” means equipment (including any software)[^key-647770ae95aa0d7ced83007f444d9d9d] which—
+  - (a) delivers ionising radiation to a person undergoing exposure; [^key-783bb1d53a85cc3192aeacf9e6b3180a]...
+  - (b) [^key-e36c9cfb2a57aeccbea7e11594aecf08]... directly controls or influences the extent of such exposure ; or[^key-146d149d80dd5c364379edd6a5140740]
+  - (c) directly assists an operator in carrying out a clinical evaluation;
+- “[^key-e5da71ad4e512fb4afa440bf7d5c698e]**ethics committee**” means—
+  - (a) an ethics committee established or recognised in accordance with Part 2 of the Medicines for Human Use (Clinical Trials) Regulations 2004;
+  - (b) the Ethics Committee constituted by regulations made by the Scottish Ministers under section 51(6) of the Adults with Incapacity (Scotland) Act 2000; or
+  - (c) any other committee established to advise on the ethics of research investigations in human beings, and recognised for that purpose by or on behalf of the Secretary of State, the Scottish Ministers or the Welsh Ministers;
+- [^key-47fbe6bdae2df0d40b845fe0b5a5dd93]...
+- “health screening” means a procedure for early diagnosis in population groups at risk;
+- “[^key-6af46d1fa1c2502c5778d69f4f89ea63]**individual detriment**” means clinically observable deleterious effects in individuals or their descendants, the appearance of which is either immediate or delayed and, in the latter case, implies a probability rather than a certainty of appearance;
+- “interventional radiology” means the use of X-ray imaging techniques to facilitate the introduction and guidance of devices in the body for diagnostic or treatment purposes;
+- “ionising radiation” means the transfer of energy in the form of particles or electromagnetic waves of a wavelength of 100 nanometres or less or a frequency of 3 × 10<sup>15</sup> hertz or more capable of producing ions directly or indirectly;
+- “Licensing Authority”—
+  - (a) for the purpose of licensing any practitioner in respect of the administration of radioactive substances means the Secretary of State;
+  - (b) for the purpose of licensing any employer in respect of the administration of radioactive substances means—
+    - (i) in England, the Secretary of State;
+    - (ii) in Scotland, the Scottish Ministers; and
+    - (iii) in Wales, the Welsh Ministers;
+- “medical exposure” means an exposure coming within any of paragraphs (a) to (e) of regulation 3(1)[^key-86e8f47869d1623db25974a9d68e495b];
+- “medical physics expert” means an individual or a group of individuals, having the knowledge, training and experience to act or give advice on matters relating to radiation physics applied to exposure, whose competence in this respect is recognised by the Secretary of State;
+- “medical radiological” means pertaining to radiodiagnostic and radiotherapeutic procedures, and interventional radiology or other medical uses of ionising radiation for planning, guiding and verification purposes;
+- “medical radiological procedure” means any procedure giving rise to a medical exposure;
+- “non-medical imaging exposure” means any deliberate exposure of humans for imaging purposes using medical radiological equipment,[^key-416078ec02c2eca55b63929bf065a201] where the primary intention of the exposure is not to bring a health benefit to the individual being exposed;
+- “operator” means any person who is entitled, in accordance with the employer’s procedures, to carry out practical aspects including those to whom practical aspects have been allocated, medical physics experts and, except where they do so under the direct supervision of a person who is adequately trained, persons participating in practical aspects as part of practical training;
+- “patient dose” means the dose concerning patients or other individuals undergoing exposures to which these Regulations apply;
+- “practical aspect” means the physical conduct of an exposure to which these Regulations apply[^key-85bdd4f6d762521d5ab1537822b13b0f] and any supporting aspects, including handling and use of equipment[^key-9725b642f2a20e0bc40c14218b20925c], the assessment of technical and physical parameters (including radiation doses), calibration [^key-e761d640a363519ade633242d60ab36f]... of equipment, preparation and administration of radio-pharmaceuticals, clinical evaluation and image processing;
+- “practitioner” means a registered health care professional who is entitled in accordance with the employer’s procedures to take responsibility for the justification of[^key-6a900cb7f83640ad89bcf39e7f3fb969] an individual exposure;
+- “quality assurance” means all those planned and systematic actions necessary to provide adequate assurance that a structure, system, component or procedure will perform satisfactorily in compliance with generally applicable standards and quality control is a part of quality assurance;
+- “quality control” means the set of operations (programming, coordinating, implementing) intended to maintain or to improve quality and includes monitoring, evaluation and maintenance at required levels of all characteristics of performance of equipment that can be defined, measured, and controlled;
+- “[^key-96efc45036d851e5aefcfbc0cc48e443]**radiation protection adviser**” means an individual who, or a body which is competent to advise on radiation protection in relation to occupational and public exposures;
+- “radioactive substance” means any substance that contains one or more radionuclides the activity or activity concentration of which cannot be disregarded from a radiation protection point of view;
+- “[^key-bdf627095e6571d621008825c09ddacd]**radioactive waste adviser**” means an individual who, or a body which is competent to provide expert advice on radioactive waste management and environmental radiation protection;
+- “radiodiagnostic” means pertaining to in-vivo diagnostic nuclear medicine, medical diagnostic radiology using ionising radiation, and dental radiology;
+- “radiological installation” means a facility where exposures to which these Regulations apply are performed;
+- “radiotherapeutic” means pertaining to radiotherapy, including nuclear medicine for therapeutic purposes;
+- “referrer” means a registered health care professional who is entitled in accordance with the employer’s procedures to refer individuals for exposure to a practitioner;
+- “registered health care professional” means a person who is a member of a profession regulated by a body mentioned in section 25(3) of the National Health Service Reform and Health Care Professions Act 2002[^f00004];
+- “relevant enforcing authority” means—
+  - (a) in England, the Care Quality Commission[^f00005];
+  - (b) in Scotland, the Scottish Ministers; and
+  - (c) in Wales, the Welsh Ministers;
+- “unintended exposure” means any exposure to ionising radiation which is significantly different from the exposure intended for a given purpose.
+
+(2) In these Regulations, where an individual is—
+
+- (a) an employer;
+- (b) a referrer;
+- (c) an operator; or
+- (d) a practitioner,
+
+and is also an individual coming within at least one other of sub-paragraphs (a) to (d), that individual is subject to each of the duties applying to every person described in a sub-paragraph which also describes that individual.
+
+## 3. Application[^key-2e623e3eb2f9d7c01be0d015c7bbf4b9]
+
+(1)[^key-596f889dc45861ea859088db92a4de9e] These Regulations apply to the exposure of ionising radiation in England and Wales and Scotland—
+
+- (a) to patients as part of their own medical diagnosis or treatment;
+- (b) to individuals as part of health screening programmes;
+- (c) to patients or other persons voluntarily participating in medical or biomedical, diagnostic or therapeutic, research programmes;
+- (d) to carers and comforters;
+- (e) to asymptomatic individuals;
+- (f) to individuals undergoing a[^key-65f8c06c6e6b460d14c5479db8b0f0e2] non-medical imaging a non-medical imaging exposure[^key-d60c46d7245ddc6a011e94f64ea652a7].
+
+(2)[^key-fca6cb9f91d4691616a578eb6aa96208] Regulation 21 and paragraphs 1 and 2 of Schedule 4 apply to the exposure of ionising radiation in Northern Ireland.
+
+## 4. The Licensing Authority[^key-d2f390713dcadd3531ba8d5835a068bd]
+
+(1) The Licensing Authority may upon payment of a fee (where required) issue a licence to a person required by these Regulations to hold a licence.
+
+(2) A licence described in paragraph (1) may be—
+
+- (a) issued for such period as the Licensing Authority considers appropriate;
+- (b) subject to such conditions as the Licensing Authority may consider appropriate; and
+- (c) varied or revoked at any time.
+
+(3) Schedule 1 makes further provision relating to the application for, and the issue of, a licence described in paragraph (1).
+
+## 5. Requirement to hold a licence[^key-b4865e8ca4890c6278eb46ef5231ab85]
+
+(1) A person must hold a valid licence issued by the Licensing Authority if that person—
+
+- (a) is an employer, in which case that person must hold a licence in respect of each radiological installation at which radioactive substances are to be administered for such purposes as may be specified in that licence; or
+- (b) is a practitioner, in which case that person must hold a licence in order to justify, within the meaning of regulation 11 an exposure involving the administration of radioactive substances for such purposes as may be specified in that licence.
+
+(2) In this regulation, “purpose” when describing the purpose for which a licence is issued, means diagnosis, treatment or research.
+
+## 6. Employer’s duties: establishment of general procedures, protocols and quality assurance programmes[^key-d648a4a53bde328d529fab27384c84ae]
+
+(1) The employer must ensure that written procedures are in place in respect of—
+
+- (a) those matters described in Schedule 2; and
+- (b) any other matter in relation to which these Regulations mandate the establishment of procedures.
+
+(2) The employer must take steps to ensure that any written procedures are complied with by the referrer, practitioner and operator.
+
+(3) The employer must take steps to ensure that every practitioner or operator engaged by the employer to carry out exposures or any practical aspect—
+
+- (a) complies with the provisions of regulation 17(1); and
+- (b) undertakes continuing education and training after qualification including, in the case of clinical use of new techniques, training related to those techniques and the relevant radiation protection requirements.
+
+(4) The employer must ensure, where appropriate, that written protocols are in place for every type of standard radiological practice coming within these Regulations, including practices involving non-medical imaging.
+
+(5) The employer must—
+
+- (a) establish recommendations concerning referral guidelines for exposures to which these Regulations apply[^key-f8251163365460c12fd47ce4717b9797], including radiation doses, and ensure that these are available to the referrer;
+- (b) establish quality assurance programmes for written procedures and written protocols;
+- (c) regularly review and make available to an operator, diagnostic reference levels in respect of an exposure falling within—
+  - (i) regulation 3(1)(a)[^key-823172bc8a4d2c62a45c18032acb40c7]—
+    - (aa) where the exposure involves interventional radiology procedures, in which case, diagnostic references levels are to be provided where appropriate; and
+    - (bb) where the exposure does not involve interventional radiology procedures, in which cases regard must be had to international and national diagnostic reference levels and local dose surveys[^key-e292166f25dbca987b1b38920a97cc1f] where available;
+  - (ii) regulation 3(1)(b)[^key-c8460126e57eaaf68671cf87b568e7e0] or (e) in which cases regard must be had to international[^key-510bcf048e04b75970d837d1f176b578] and national diagnostic reference levels and local dose surveys[^key-7746afaf35387c50bce32be448737a36] where available;
+  - (iii) regulation 3(1)(f)[^key-e3b67cb776aa7e904341e656b2cbc5a1] where practicable , in which case regard must be had to local dose surveys where available;[^key-7d141995f25622295950bbdbd7f3fe9d]
+- (ca)[^key-945ff2ee50810d6d1d11eacc943849a1] regularly review and make available to an operator, dose reference levels in respect of radiotherapeutic procedures for typical localisation or verification exposures falling within regulation 3(1)(a), in which case, regard must be had to international and national dose reference levels and local dose surveys where available;
+- (d) establish dose constraints for individual effective or equivalent doses over a defined appropriate time period —[^key-92bf5b69179b72a8fde50714cc281916]
+  - (i) for biomedical and medical research programmes falling within regulation 3(1)(c)[^key-da6909ef9ae13a3d598e50283c68a786] where no direct medical benefit for the individual is expected from the exposure; [^key-077955713c70d3cd19449fe1ac5ff892]...
+  - (ii) with regard to the protection of carers and comforters falling within regulation 3(1)(d)[^key-a143f4aa7e34f0e9e5b8ec2070208984]; and[^key-31a04a80f85c8f59ea9bfae44d33ee4a]
+- (e) conduct local dose surveys where practicable.
+
+(6)[^key-d11f13b685ed11567b86c95789750123] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(7) The employer must ensure appropriate reviews are undertaken whenever diagnostic reference levels or dose reference levels[^key-f8016b02c680d6f5a5c8d2f7cc8bfc39] are consistently exceeded and ensure that corrective action is taken where appropriate.
+
+(8) The employer must take measures to raise awareness of the effects of ionising radiation amongst individuals capable of childbearing or breastfeeding.
+
+## 6A. Employer’s duties: co-operation between employers[^key-ab686eb94910fa43d188ccc1f0c82c2f]
+
+(1) This regulation applies where, in respect of the same individual, two or more employers carry out or engage others to carry out in their behalf—
+
+- (a) those exposures described in regulation 3(1) or any practical aspects;
+- (b) a referral for any such exposures; or
+- (c) a justification of any such exposures.
+
+(2) The employers concerned must co-operate with each other to the extent necessary (by the exchange of information or otherwise) to ensure that each such employer—
+
+- (a) has access to information on the exposure, or the potential exposure, of the individual to ionising radiation; and
+- (b) is enabled to comply with the requirements of these Regulations in so far as their ability to comply depends upon such co-operation.
+
+## 7. Employer’s duties: clinical audit[^key-50894e7751ca261ff127417872a6fcbd]
+
+The employer’s procedures must include provision for the carrying out of clinical audit , and for the taking of any appropriate action in relation to the results of such audit,[^key-9ba3c89647c2c593d031e9a10797f35b] as appropriate.
+
+## 8. Employer’s duties: accidental or unintended exposure[^key-3d4071678a54dd89de1d2da9b48d659d]
+
+(1) The employer’s procedures must provide that the referrer, the practitioner, and the individual exposed or their representative (if there is one) are informed of the occurrence of a clinically significant unintended or accidental exposure and of the outcome of the analysis of this exposure.
+
+(2) The employer’s quality assurance programme must, in respect of radiotherapeutic practices, include a study of the risk of accidental or unintended exposures.
+
+(3)[^key-f12667893db7ccb07dfc754ae989b4c3] The employer must establish a system for—
+
+- (a) recording analyses of events involving or potentially involving accidental or unintended exposures proportionate to the radiological risk posed by the practice; and
+- (b) the taking of any appropriate action in relation to such analyses.
+
+(4) Where the employer knows or has reason to believe that an accidental or unintended exposure has or may have occurred in which a person, while undergoing—
+
+- (a) any exposure, was or could have been exposed to levels of ionising radiation significantly greater than those generally considered to be proportionate in the circumstances;
+- (b) a radiotherapeutic exposure was or could have been exposed to levels of ionising radiation significantly lower than those generally considered to be proportionate in the circumstances,
+
+the employer must—
+
+- (i) undertake an immediate preliminary investigation of the incident;
+- (ii) unless that investigation shows beyond a reasonable doubt that no such exposure has occurred, immediately notify the relevant enforcing authority;
+- (iii) conduct or arrange for a detailed investigation of the circumstances of the exposure and an assessment of the dose received; and
+- (iv) notify the relevant enforcing authority, within the time period specified by the relevant enforcing authority, of the outcome of the investigation and any corrective measures adopted.
+
+## 9. Relevant enforcing authority’s duties: accidental or unintended exposure[^key-cb3acc9b5e78e98a181299eaa632bc14]
+
+The relevant enforcing authority must put in place mechanisms enabling the timely dissemination of information, relevant to radiation protection in respect of exposures to which these Regulations apply[^key-948be87b7343cee7453b0364e9bc7e95], regarding lessons learned from significant events.
+
+## 10. Duties of the practitioner, operator and referrer[^key-b7a29d4e00abf7aa47706a1812266fec]
+
+(1) The practitioner , the operator and the referrer[^key-6a74f2d3e260ec0af2d20a111d356906] must comply with the employer’s procedures.
+
+(2) The practitioner is responsible for the justification of an exposure and such other aspects of an exposure as is provided for in these Regulations.
+
+(3) Practical aspects of an exposure or part of it may be allocated in accordance with the employer’s procedures by the employer or the practitioner, as appropriate, to one or more individuals entitled to act in this respect in a recognised field of specialisation.
+
+(4) The operator is responsible for each practical aspect which the operator carries out as well as for any authorisation given pursuant to regulation 11(5).
+
+(5) The referrer must supply the practitioner with sufficient medical data (such as previous diagnostic information or medical records) relevant to the exposure requested by the referrer to enable the practitioner to decide whether there is a sufficient net benefit as required by regulation 11(1)(b).
+
+(6) The practitioner and the operator must cooperate, regarding practical aspects, with other specialists and staff involved in an exposure, as appropriate.
+
+## 11. Justification of individual exposures[^key-b273a026f5b08b038a410bde29b11aa3]
+
+(1) A person must not carry out an exposure unless—
+
+- (a) in the case of the administration of radioactive substances, the practitioner and employer are licensed to undertake the intended exposure;
+- (b) it has been justified by the practitioner as showing a sufficient net benefit giving appropriate weight to the matters set out in paragraph (2);
+- (c) it has been authorised by the practitioner or, where paragraph (5) applies, the operator;
+- (d) in the case of an exposure taking place in the course of a research programme under regulation 3(1)(c)[^key-c9d94508b97e0e80bb9d2a6143875a7d], that programme has been approved by an ethics committee and, in the case of the administration of radioactive substances, approved by an expert committee who can advise on the administration of radioactive substances to humans;
+- (e) in the case of an exposure falling within regulation 3(1)(f)[^key-947f4bc92820c74e4df2951481d68fb1] (non-medical imaging), it complies with the employer’s procedures for such exposures; and
+- (f) in the case of an individual of childbearing potential, the person has enquired whether that individual is pregnant or breastfeeding, if relevant.
+
+(2) The matters referred to in paragraph (1)(b) are—
+
+- (a) the specific objectives of the exposure and the characteristics of the individual involved;
+- (b) the total potential diagnostic or therapeutic benefits, including the direct health benefits to the individual and the benefits to society, of the exposure;
+- (c) the individual detriment that the exposure may cause; and
+- (d) the efficacy, benefits and risk of available alternative techniques having the same objective but involving no or less exposure to ionising radiation.
+
+(3) In considering the weight to be given to the matters referred to in paragraph (2), the practitioner justifying an exposure in accordance with paragraph (1)(b) must have regard, in particular to—
+
+- (a) recommendations from appropriate medical scientific societies or relevant bodies where a procedure is to be performed as part of any health screening programme;
+- (b) whether in circumstances where there is to be an exposure to a carer or comforter such an exposure would show a sufficient net benefit taking into account—
+  - (i) the likely direct health benefits to a patient;
+  - (ii) the possible benefits to the carer or comforter; and
+  - (iii) the detriment that the exposure might cause;
+- (c) in the case of asymptomatic individuals where a medical radiological procedure—
+  - (i) is to be performed for the early detection of disease;
+  - (ii) is to be performed as part of a health screening programme; or
+  - (iii) requires specific documented justification for that individual by the practitioner, in consultation with the referrer,
+
+  any guidelines issued by appropriate medical scientific societies, relevant bodies or published by the Secretary of State;
+- (d) the urgency of the exposure, where appropriate, in cases involving—
+  - (i) an individual where pregnancy cannot be excluded, in particular if abdominal and pelvic regions are involved, taking into account the exposure of both the person concerned and any unborn child; and
+  - (ii) an individual who is breastfeeding and who undergoes an exposure involving the administration of radioactive substances, taking into account the exposure of both the individual and the child.
+
+(4) In deciding whether to justify an exposure under paragraph (1)(b) the practitioner must take account of any data supplied by the referrer pursuant to regulation 10(5) and must consider such data in order to avoid unnecessary exposure.
+
+(5) Where it is not practicable for the practitioner to authorise an exposure as required by paragraph (1)(c), the operator must do so in accordance with guidelines issued by the practitioner.
+
+(6)[^key-1a8b0c68842056fbb7cafb1fa043b102] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 12. Optimisation[^key-0c5f88583e99e894da09298938aa3e17]
+
+(1) In relation to all exposures to which these Regulations apply except radiotherapeutic exposures, the practitioner and the operator, to the extent of their respective involvement in an exposure, must ensure that doses arising from the exposure are kept as low as reasonably practicable consistent with the intended purpose.
+
+(2) In relation to all radiotherapeutic exposures the practitioner must ensure that exposures of target volumes are individually planned and their delivery appropriately verified taking into account that doses to non-target volumes and tissues must be as low as reasonably practicable and consistent with the intended radiotherapeutic purpose of the exposure.
+
+(3) Without prejudice to paragraphs (1) and (2), the operator must select equipment and methods to ensure that for each exposure the dose of ionising radiation to the individual undergoing the exposure is as low as reasonably practicable and consistent with the intended diagnostic or therapeutic purpose and in doing so must have regard, in particular to—
+
+- (a) quality control[^key-72b20f2c25c02b92c64f17671ad289ab];
+- (b) assessment and evaluation of patient dose or administered activity; [^key-8e1d32000abb09bcea04b9dd443c3e14]...
+- (c) adherence to such diagnostic reference levels for radiodiagnostic examinations and interventional radiology practices[^key-004496b29ba086ed6ee1b5d5bcc9f54d] falling within regulation 3(1)(a)[^key-7d72263defd7a8f6a74f44c84f4a3731], (b), (e) and (f) as the employer may have established, and[^key-593790b66cf3a91af72eaec91285177d]
+- (d) adherence to such dose reference levels for radiotherapeutic practices for typical localisation or verification exposures falling within regulation 3(1)(a) as the employer may have established,
+
+as set out in the employer’s procedures.
+
+(4) For each medical or biomedical research programme falling within regulation 3(1)(c)[^key-58392a5f8298da0db736e99f26bc9f6e], the employer’s procedures must provide that—
+
+- (a)[^key-431dac4ba57303330d14762d71352265] consent to take part in the research programme is given by or, where appropriate, on behalf of, the individuals concerned;
+- (b) the individuals concerned , or their representative (if there is one) where appropriate,[^key-e5e065b9580fe5dc4d92e0b6b97a6d4b] are informed in advance about the risks of the exposure;
+- (c) the dose constraint set down in the employer’s procedures for individuals for whom no direct medical benefit is expected from the exposure is adhered to; and
+- (d) individual target levels of doses are planned by the practitioner, either alone or with the input of the referrer, for patients who voluntarily undergo an experimental diagnostic or therapeutic practice from which the patients are expected to receive a diagnostic or therapeutic benefit.
+
+(5) In the case of regulation 3(1)(d)[^key-447418316d9a13f759bc3b8d77313ed7], the employer’s procedures must provide that appropriate guidance is established for the exposure of carers and comforters.
+
+(6) In the case of patients undergoing treatment or diagnosis with radioactive substances, the employer’s procedures must provide that, where appropriate, written instructions and information are provided to—
+
+- (a) the patient, where the patient has capacity or, as the case may be, competence[^key-c2e357e9e0f6eed86d8780e842724db5] to consent to the treatment or diagnostic procedure;
+- (aa)[^key-5682afb440921b415607ec95795ccbed] where the patient is in England or Wales and is a child under the age of 16 who lacks competence to consent, a person with parental responsibility for the child;
+- (ab) where the patient is in Scotland and is a child under the age of 16 who lacks capacity to consent, a person with parental responsibility for the child; or
+- (b)[^key-a08586ccf9203e51e2cdfd96b9f6e9ea] where the patient is a person aged 16 or older who lacks capacity or, as the case may be competence, to consent, the person who appears to the operator to be the most appropriate person. [^key-221f4a5ca0991179ea8a0855e2109d53]...
+- (c)[^key-c3c89d56fd7bc33863a3055fda56c90b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(7) The instructions and information referred to in paragraph (6) must—
+
+- (a) specify how doses resulting from the patient’s exposure can be restricted as far as reasonably possible so as to protect persons in contact with the patient;
+- (b) set out the risks associated with ionising radiation; and
+- (c) be provided to the patient or other person specified in paragraph (6) as appropriate prior to the patient leaving the radiological installation where the exposure was carried out.
+
+(8) In complying with the obligations under this regulation, the practitioner and the operator must pay particular attention in relation to—
+
+- (a) [^key-fb026e6a0f5374e25795e9b89116c8f4]... exposures of children;
+- (b) [^key-fb026e6a0f5374e25795e9b89116c8f4]... exposures as part of a health screening programme;
+- (c) [^key-fb026e6a0f5374e25795e9b89116c8f4]... exposures involving high doses to the individual being exposed;
+- (d) where appropriate, individuals in whom pregnancy cannot be excluded and who are undergoing an[^key-7b5ed2d722e675627679f1aa66a62d4b] exposure, in particular if abdominal and pelvic regions are involved, taking into account the exposure of both the individual and any unborn child; and
+- (e) where appropriate, individuals who are breastfeeding and who are undergoing an[^key-7406a0b0250328d39d53d18c107da58d] exposure involving the administration of radioactive substances, taking into account the exposure of both the individual and the child.
+
+(9) The employer must take steps to ensure that a clinical evaluation of the outcome of each exposure, other than where the person subject to the exposure is a carer or a comforter, is recorded in accordance with the employer’s procedures including, where appropriate, factors relevant to patient dose.
+
+(10)[^key-bad5222fd1059b9802bfbec392f501b7] In this regulation, the references to—
+
+- (a) a person’s capacity are to be read—
+  - (i) in relation to England and Wales, in accordance with the Mental Capacity Act 2005 (in the case of a person aged 16 years or older); and
+  - (ii) in relation to Scotland, in accordance with the Age of Legal Capacity (Scotland) Act 1991 (in the case of a person under the age of 16) and the Adults with Incapacity (Scotland) Act 2000 (in the case of a person aged 16 years or older); and
+- (b) “**parental responsibility**” are to be read—
+  - (i) in relation to England and Wales, in accordance with the Children Act 1989; and
+  - (ii) in relation to Scotland, in accordance with the Children (Scotland) Act 1995.
+
+## 13. Estimates of population doses[^key-4d9874cea6879e2f5b5aef7af727e99d]
+
+The employer must collect dose estimates from exposures to which these Regulations apply[^key-c2f93e6396e0345b4a481852b4d169cb], taking into consideration the distribution by age and gender of the exposed population and, when so requested, must provide the dose estimates to the Secretary of State.
+
+## 14. Expert advice[^key-33313170ed5357af3d82e64715b33e16]
+
+(1) The employer must ensure that a suitable medical physics expert is appointed and involved, in accordance with paragraph (2), in relation to every type of exposure to which these Regulations apply.
+
+(2) A medical physics expert must—
+
+- (a) be closely involved in every radiotherapeutic practice other than standardised therapeutic nuclear medicine practices;
+- (b) be involved in practices including standardised therapeutic nuclear medicine practices, diagnostic nuclear medicine practices and high dose interventional radiology and high dose computed tomography;
+- (c) be involved as appropriate for consultation on optimisation, in all other radiological practices not mentioned in sub-paragraphs (a) and (b)[^key-91a91988faa3308fc280a68594339031]; and
+- (d) give advice on—
+  - (i) dosimetry and quality control[^key-a40401fbbc4e82dce7d6a9f4d428077a] matters relating to radiation protection concerning exposures;
+  - (ii) physical measurements for the evaluation of dose delivered;
+  - (iii) medical radiological equipment.
+
+(3) A medical physics expert must also contribute to the following matters—
+
+- (a) optimisation of the radiation protection of patients and other individuals subject to exposures, including the application and use of diagnostic reference levels and dose reference levels[^key-c59ac7252494e1ec3cde0be9d9d7c99b];
+- (b) the definition and performance of quality assurance of the equipment;
+- (c) acceptance testing of equipment;
+- (d) the preparation of technical specifications for equipment and installation design;
+- (e) the surveillance of the medical radiological installations;
+- (f) the analysis of events involving, or potentially involving, accidental or unintended exposures;
+- (g) the selection of equipment required to perform radiation protection measurements;
+- (h) the training of practitioners , operators[^key-fc676adef47b62bbf1fd5b053f90f6be] and other staff in relevant aspects of radiation protection;
+- (i) the provision of advice to an employer relating to compliance with these Regulations.
+
+(4) The medical physics expert must, where appropriate, liaise with a radiation protection adviser and a radioactive waste adviser.
+
+(5)[^key-325705737b09667bbd1af570b9c8c0bb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 15. Equipment: general duties of the employer[^key-0807c6faecaf8798b4c51ee9b687dc2b]
+
+(1) An employer who has control over any equipment must—
+
+- (a) implement and maintain a quality assurance programme in respect of that equipment which must as a minimum permit—
+  - (i) the assessment of the dose of ionising radiation that a person may be exposed to from an exposure to which these Regulations apply, by way of the ordinary operation of that equipment; and
+  - (ii) the administered activity to be verified;
+- (b) draw up, keep up-to-date and preserve at each radiological installation an inventory of equipment at that installation and, when so requested, must provide it to the relevant enforcing authority.
+
+(2) The inventory referred to in paragraph (1)(b) must contain the following information for equipment other than software[^key-d821ef34c5d34535e4bcce7e2b96e421]—
+
+- (a) name of manufacturer;
+- (b) model number;
+- (c) serial number or other unique identifier;
+- (d) year of manufacture; and
+- (e) year of installation.
+
+(2A)[^key-592fc25ad43bfa9c4d52b7b72cd89e9f] The inventory referred to in paragraph (1)(b) must contain the following information for equipment that is software—
+
+- (a) name of software company;
+- (b) brand name;
+- (c) current software version;
+- (d) year of original installation; and
+- (e) year of current software version installation in clinical use.
+
+(3) An employer must undertake adequate—
+
+- (a) testing of any equipment before it is first used for an exposure to which these Regulations apply[^key-fe9bf0392f9ae22fb59381fb55453c06];
+- (b) performance testing at regular intervals;
+- (c) performance testing following a maintenance procedure which is capable of affecting the equipment’s performance.
+
+(4) A person must not use fluoroscopy equipment unless that equipment features—
+
+- (a) a device to control automatically the dose rate; or
+- (b) an image intensifier or equivalent device.
+
+(5) Equipment used for interventional radiology and computed tomography must have a device or other feature capable of informing the operator[^key-a9e8c96cb46a2139981d2a732d3e8584], at the end of an exposure of relevant parameters for assessing the patient dose.
+
+(6) An employer must—
+
+- (a) put in place any measures necessary to improve inadequate or defective performance of equipment;
+- (b) specify acceptable performance criteria for equipment; and
+- (c) specify what corrective action is necessary when, following the application of any criteria specified under paragraph (b), equipment is ascertained to be defective; such corrective action may include taking the equipment out of service.
+
+## 16. Equipment installed on or after 6th February 2018[^key-6a4b9c951744b140fcac045acdcabba7]
+
+(1) This regulation only applies in respect of—
+
+- (a) equipment installed on or after 6th February 2018; and
+- (b) an employer who has control of any such equipment.
+
+(2) Equipment used for external beam radiotherapy with a nominal beam energy exceeding 1 MeV must have a device or other feature, the purpose of which is, to verify key treatment parameters.
+
+(3) Equipment used for interventional radiology must have a device or other feature capable of informing any person involved in the conduct of an exposure of the amount of radiation produced by the equipment during such an exposure.
+
+(4) Equipment used for planning, guiding and verification purposes must have a device or other feature capable of informing the practitioner, at the end of an exposure, of relevant parameters for assessing the dose.
+
+(5) Equipment used for interventional radiology and computed tomography must have the capacity to transfer, to the record of a person’s exposure, information relating to relevant parameters for assessing the dose.
+
+(6) Insofar as not already provided in this regulation, any equipment producing ionising radiation must—
+
+- (a) have a device, or other feature, capable of informing the practitioner of relevant parameters for assessing the patient dose; and
+- (b) where appropriate, have the capacity to transfer this information to the record of a person’s exposure.
+
+## 17. Training[^key-5698d9aa2ddac5b229e03a0f3c9bad5a]
+
+(1) Subject to the following provisions of this regulation a practitioner or operator must not carry out any exposure or any practical aspect without having been adequately trained.
+
+(2) A certificate issued by an institute or person competent to award degrees or diplomas or to provide other evidence of adequate training is, if such certificate so attests, sufficient proof that the person to whom it has been issued has been adequately trained.
+
+(3) Nothing in paragraph (1) above prevents a person from participating in practical aspects of the procedure as part of practical training if this is done under the supervision of a person who is adequately trained.
+
+(4) The employer must keep and have available for inspection by the relevant enforcing authority an up-to-date record of all relevant training undertaken by all practitioners and operators engaged by the employer to carry out any exposures or any practical aspect of such exposures showing the date or dates on which training qualifying as adequate training was completed and the nature of the training.
+
+(5) Where the employer (“employer A”) enters into a contract with another employer (“employer B”) to engage a practitioner or operator otherwise employed by that employer B, employer B is responsible for keeping the records required by paragraph (4) and must supply such records to employer A immediately upon request.
+
+(6) Schedule 3 makes further provision about the training of practitioners and operators.
+
+## 18. Enforcement[^key-903a10a4135f62ef8faaba9c24a17e5f]
+
+These Regulations are to be enforced by the relevant enforcing authority as if they were health and safety regulations made under section 15 of the Health and Safety at Work etc. Act 1974[^f00010] and the provisions of that Act, as regards enforcement and offences, are to apply for the purposes of these Regulations.
+
+## 19. Defence of due diligence[^key-34b6dcb17546c73ac64a17317e62f385]
+
+In any proceedings against any person for an offence consisting of the contravention of these Regulations it is a defence for that person to show that the person took all reasonable steps and exercised all due diligence to avoid committing the offence.
+
+## 20. Revocation and transitional provision[^key-1eaa2ffdf9235c8d48d8d89d48788617]
+
+(1) The Ionising Radiation (Medical Exposure) Regulations 2000[^f00011] are revoked.
+
+(2) Subject to the transitional provisions in paragraph (3), the Medicines (Administration of Radioactive Substances) Regulations 1978[^f00012] and the Medicines (Radioactive Substances) Order 1978[^f00013] are also revoked to the extent that they apply in England and Wales and Scotland.
+
+(3) Any certificate issued to a person under the Medicines (Administration of Radioactive Substances) Regulations 1978 which is valid on 6th February 2018 is deemed—
+
+- (a) to be a licence issued under these Regulations for as long as that certificate remains valid; and
+- (b) to license the employer responsible for the medical radiological installation for the matters specified in that certificate.
+
+(4) Nothing in paragraph (3) prevents a person from applying for a licence under these Regulations on or after the date that they come into force.
+
+## 21. Consequential amendments[^key-3d7855bd0ac6ab9c26945b80de6ea424]
+
+Schedule 4 sets out amendments consequential on the making of these Regulations.
+
+## 22. Review[^key-68edfa55dbeca9dc39c9e80503f4397c]
+
+(1) The Secretary of State must from time to time—
+
+- (a) carry out a review of the regulatory provision contained in these Regulations; and
+- (b) publish a report setting out the conclusions of the review.
+
+(2) The first report must be published before the end of the period of five years beginning with the coming into force of these Regulations.
+
+(3) Subsequent reports must be published at intervals not exceeding 5 years.
+
+(4) Section 30(3) of the Small Business, Enterprise and Employment Act 2015[^f00014] requires that a review carried out under this regulation must, so far as is reasonable, have regard to how the international obligations implemented by these Regulations are implemented in other countries which are subject to those obligations.[^key-5ccfbe2a0308b75b856686dc4ce1c8ec]
+
+(5) Section 30(4) of the Small Business, Enterprise and Employment Act 2015 requires that a report published under this regulation must, in particular—
+
+- (a) set out the objectives intended to be achieved by the regulatory provision referred to in paragraph (1)(a);
+- (b) assess the extent to which those objectives are achieved;
+- (c) assess whether those objectives remain appropriate; and
+- (d) if those objectives remain appropriate, assess the extent to which they could be achieved in another way which involves less onerous regulatory provision.
+
+(6) In this regulation, “regulatory provision” has the same meaning as in sections 28 to 32 of the Small Business, Enterprise and Employment Act 2015 (see section 32 of that Act).
+
+Signed by authority of the Secretary of State for Health.
+
+Stephen Brine
+
+Parliamentary Under-Secretary of State,
+
+Department of Health
+
+20th December 2017
+
+We consent
+
+Mark Spencer
+
+Heather Wheeler
+
+Two of the Lords Commissioners of Her Majesty’s Treasury
+
+20th December 2017
+
+## SCHEDULE 1 — Licensing
+
+Regulation 4
+
+### 1. Licence applications: general[^key-b8769d52b9c102502a8cc17bd5a93466]
+
+(1) A person required by regulation 5 to hold a licence must make an application to the Licensing Authority in the form specified from time to time by the Licensing Authority.
+
+(2) A person applying for a licence under sub-paragraph (1) must provide to the Licensing Authority—
+
+- (a) such of the information described in paragraph 2 as the Licensing Authority may from time to time specify necessary to determine the licence application;
+- (b) upon request in writing, any other information which the Licensing Authority requires for the purpose of considering the licence application; and
+- (c) the fee specified in paragraph 4.
+
+(3) A person issued a licence under these Regulations (“the licensee”) must apply to the Licensing Authority if the licensee seeks a material change to the licence in respect of any matter dealt with by that licence.
+
+### 2. Licence applications: indicative list of information[^key-ff38d9ce9568262c49edb25ae6a8268b]
+
+The information referred to in paragraph 1(2) is information relating to—
+
+- (a) responsibilities and organisational arrangements for protection and safety;
+- (b) staff competences, including information and training;
+- (c) design features of the radiological installation and of radiation sources;
+- (d) anticipated occupational and public exposures in normal operation;
+- (e) safety assessment of the activities and the facility in order to—
+  - (i) identify ways in which potential exposures or accidental and unintended medical exposures could occur;
+  - (ii) estimate, to the extent practicable, the probabilities and magnitude of potential exposures;
+  - (iii) assess the quality and extent of protection and safety provisions, including engineering features, as well as administrative procedures;
+  - (iv) define the operational limits and conditions of operation;
+- (f) emergency procedures;
+- (g) maintenance, quality control[^key-7c577bcec5219209a43097979e397311], inspection and servicing so as to ensure that the radiation source and the facility continue to meet the design requirements, operational limits and conditions of operation throughout their lifetime;
+- (h) management of radioactive waste and arrangements for the disposal of such waste, in accordance with applicable regulatory requirements;
+- (i) management of disused sources;
+- (j) quality assurance.
+
+### 3. Licence applications: urgent cases[^key-3fadd8779d562e5e378bdfdaed747d2b]
+
+The licensing authority may, on a case by case basis, relax any of the requirements relating to the making of an application for a licence in respect of a proposed urgent medical radiological exposure.
+
+### 4. Licence applications: employer fees[^key-b855b49daa8217cb4fcdc56f176bf7a5]
+
+(1) The fee payable by a person described in column 1 of Table 1 in respect of an application type specified in column 2 of that table is the corresponding amount in column 3.
+
+(2) No fee is payable where the amount specified in column 2 is “0”.
+
+Table 1[^key-eeee5aaf0231bf9e2dc1274ce88f4a19]
+
+| Licence type (1) | Application type (2) | Fee (£) (3) |
+| --- | --- | --- |
+| Employer | New | 298 |
+|  | Amendment of an existing licence | 244 |
+|  | Renewal of an existing licence | 244 |
+|  | Notification | 0 |
+| Practitioner | New | 0 |
+|  | Amendment of an existing licence | 0 |
+|  | Renewal of an existing licence | 0 |
+|  | Particular patient request | 0 |
+
+### 5. Review[^key-96f9313f1690a245493460daedf12e73]
+
+(1) A person who is aggrieved (“an aggrieved person”) by—
+
+- (a) a decision of the Licensing Authority—
+  - (i) refusing to issue a licence;
+  - (ii) imposing a limit of time upon a licence; or
+  - (iii) revoking a licence; or
+- (b) the terms of any conditions attached to a licence by the Licensing Authority,
+
+may ask the Licensing Authority for a review.
+
+(2) Any aggrieved person seeking a review must—
+
+- (a) within 28 days of the date that the person was notified of the decision, or the terms, which caused them to become an aggrieved person request the Licensing Authority to undertake a review described in paragraph (1) ; and
+- (b) must particularise in writing the reasons for seeking the review.
+
+(3) The Licensing Authority must undertake a review, and provide the results of that review in writing to the aggrieved person.
+
+### 6. Destination of fees[^key-467b0b81504d032ae2d3952c2d4c7b22]
+
+A fee payable under these Regulations is payable to the Secretary of State.
+
+## SCHEDULE 2 — Employer’s Procedures
+
+Regulation 6
+
+**1.**[^key-19162814b63f01494e40d6de852c9e0d] The employer’s written procedures for exposures must include procedures—
+
+- (a) to identify correctly the individual to be exposed to ionising radiation;
+- (b) to identify individuals entitled to act as referrer or practitioner or operator within a specified scope of practice;
+- (c) for making enquiries of individuals of childbearing potential to establish whether the individual is or may be pregnant or breastfeeding;
+- (d) to ensure that quality assurance programmes in respect of written procedures, written protocols, and equipment are followed;
+- (e) for the assessment of patient dose and administered activity;
+- (f) for the use and review of such diagnostic reference levels and dose reference levels[^key-cb234d6aa67b4b152ac3c2f631c72e12] as the employer may have established under regulation 6(5)(c) and 6(5)(ca)[^key-7514bff9b2ed74b5f24bf9f5cd4caf4e];
+- (g) for determining whether the practitioner or operator is required to effect one or more of the matters set out in regulation 12(4) including criteria on how to effect those matters and in particular procedures for the use of dose constraints established by the employer for biomedical and medical research programmes falling within regulation 3(1)(c)[^key-43df47176bfd001a016e0158023d4cae] where no direct medical benefit for the individual is expected from the exposure;
+- (h) for the giving of information and written instructions as referred to in regulation 12(6);
+- (i) providing that wherever practicable, and prior to an exposure taking place, the individual to be exposed or their representative is provided with adequate information relating to the benefits and risks associated with the radiation dose from the exposure;
+- (j) for the carrying out and recording of a clinical evaluation[^key-171a4367c7c7a6108bdeb6f4dd83249e] for each exposure including, where appropriate, factors relevant to patient dose;
+- (k) to ensure that the probability and magnitude of accidental or unintended exposure to individuals from radiological practices are reduced so far as reasonably practicable;
+- (l) to ensure that the referrer, the practitioner, and the individual exposed or their representative are informed of the occurrence of any relevant clinically significant accidental or unintended[^key-56514f9ea35099990ff7e6277834f904] exposure, and of the outcome of the analysis of this exposure;
+- (m) to be observed in the case of non-medical imaging exposures;
+- (n) to establish appropriate dose constraints and guidance for the exposure of carers and comforters;
+- (o)[^key-7b704569ac87ff37e977ef8085a66663] for the carrying out of clinical audit, and for any appropriate action to be taken in accordance with regulation 7; and
+- (p) for making, amending and cancelling any referrals for exposure.
+
+## SCHEDULE 3 — Adequate Training
+
+Regulation 17
+
+**1.**[^key-2f11ad11a8a417aff905eb953178d10a] Practitioners and operators must have successfully completed training, including theoretical knowledge and practical experience, in—
+
+- (a) such of the subjects detailed in Table 1 as are relevant to their functions as practitioner or operator; and
+- (b) such of the subjects detailed in Table 2 as are relevant to their specific area of practice.
+
+  Table 1[^key-78123e39aa3f5896cafe0bed7f08f752]
+
+  Radiation production, radiation protection and statutory obligations relating to ionising radiations
+
+  | Fundamental Physics of Radiation |  |
+  | --- | --- |
+  | Properties of Radiation | Excitation and ionisation |
+  |  | Attenuation of ionising radiation |
+  |  | Scattering and absorption |
+  | Radiation Hazards and Dosimetry | Biological effects of radiation - stochastic and deterministic |
+  |  | Risks and benefits of radiation |
+  |  | Absorbed dose, equivalent dose, effective dose, other dose indicators and their units |
+  | *Management and Radiation Protection of the individual being exposed* |  |
+  | Special Attention Areas | Pregnancy and potential pregnancy |
+  |  | Asymptomatic individuals |
+  |  | Breastfeeding |
+  |  | Infants and children |
+  |  | Medical and biomedical research |
+  |  | Health screening |
+  |  | Non-medical imaging |
+  |  | Carers and comforters |
+  |  | High dose techniques |
+  | Justification and authorisation | Justification of the individual exposure |
+  |  | Use of existing appropriate radiological information |
+  |  | Alternative techniques |
+  | Radiation Protection | Diagnostic reference levels |
+  |  | Dose reference levels |
+  |  | Dose Constraints |
+  |  | Dose Optimisation |
+  |  | Dose reduction devices and techniques |
+  |  | Dose recording and dose audit |
+  |  | General radiation protection |
+  |  | Quality Assurance for written procedures and written protocols |
+  |  | Quality Control for the routine inspection and testing of equipment |
+  |  | Risk communication |
+  |  | Use of radiation protection devices |
+  | *Statutory Requirements, Non-Statutory Guidance and other documents* |  |
+  |  | Regulations |
+  |  | Non-statutory guidance |
+  |  | Local procedures and protocols |
+  |  | Individual responsibilities relating to exposures |
+  |  | Responsibility for radiation safety |
+  |  | Proactive use of clinical audit |
+  |  | Analysis of events involving accidental or unintended exposures |
+  |  | Study of risk of accidental or unintended exposures |
+
+  Table 2[^key-a6814bdc28c4e5486d5598f8221d0f2c]
+
+  Diagnostic radiology, radiotherapy and nuclear medicine
+
+  | All Modalities |  |
+  | --- | --- |
+  | General | Fundamentals of radiological anatomy |
+  |  | Factors affecting radiation dose |
+  |  | Dosimetry |
+  |  | Fundamentals of clinical evaluation |
+  |  | Identification of the individual being exposed |
+  |  | Equipment specification |
+  | Contrast Media | Use and preparation |
+  |  | Contraindications |
+  |  | Use of contrast injection systems |
+
+  | Diagnostic radiology |  |
+  | --- | --- |
+  | General | Principles of radiological techniques |
+  |  | Production of X-rays |
+  | Specialised Techniques | Computed Tomography |
+  |  | Interventional procedures |
+  |  | Hybrid imaging |
+  | Practical aspects for diagnostic radiology | Patient positioning |
+  |  | Equipment selection and use |
+  |  | Protocol selection |
+  |  | Optimisation of image quality and radiation dose |
+  |  | Dose assessment and recording |
+  |  | Image acquisition, artefacts, processing, display and storage |
+
+  | Radiotherapy |  |
+  | --- | --- |
+  | General | Production of ionising radiation |
+  |  | Treatment of malignant disease |
+  |  | Treatment of benign disease |
+  |  | Principles of external beam radiotherapy |
+  | Specialised techniques | Brachytherapy |
+  |  | Intra-operative radiotherapy |
+  |  | Proton therapy |
+  |  | Magnetic Resonance Linac therapy |
+  |  | Computed Tomography: applications limited to radiotherapy |
+  |  | Advanced techniques |
+  | Radiobiological Aspects for Radiotherapy | Fractionation |
+  |  | Dose rate |
+  |  | Radiosensitisation |
+  |  | Target volumes |
+  |  | Organs at risk |
+  |  | The Radiobiological effect of gaps in treatment |
+  |  | The Radiobiology of re-treatment |
+  | Practical Aspects for Radiotherapy | Patient positioning |
+  |  | Equipment selection and use |
+  |  | Principles of localisation techniques |
+  |  | Principles of planning techniques |
+  |  | Principles of dose calculation and verification techniques |
+  |  | Principles of treatment techniques |
+  |  | Principles of on-treatment imaging |
+  |  | Optimisation of image quality and radiation dose |
+  | Radiation Protection Specific to Radiotherapy | Side effects—early and late |
+  |  | Toxicity |
+  |  | Assessment of efficacy |
+
+  | Nuclear Medicine |  |
+  | --- | --- |
+  | General | Atomic structure and radioactivity |
+  |  | Radioactive decay |
+  |  | Principles of molecular imaging and non-imaging exposures |
+  |  | Principles of molecular radiotherapy |
+  | Molecular Radiotherapy | Dose rate |
+  |  | Fractionation |
+  |  | Radiobiology aspects |
+  |  | Radiosensitisation |
+  | Specialised techniques | Quantitative imaging—advanced applications |
+  |  | Hybrid imaging—advanced applications |
+  |  | Selective Internal Radiation Therapy |
+  | Radiopharmaceuticals | Calibration |
+  |  | Working practices in the radiopharmacy |
+  |  | Preparation of individual doses |
+  | Practical aspects for nuclear medicine | Patient positioning |
+  |  | Equipment selection and use |
+  |  | Protocol selection |
+  |  | Optimisation of image quality and radiation dose |
+  |  | Dose assessment and recording |
+  |  | Image acquisition, artefacts, processing, display and storage |
+  | Radiation Protection Specific to Nuclear Medicine | Conception, pregnancy and breastfeeding |
+  |  | Radiation protection arrangements for radioactive individuals |
+  |  |  |
+
+## SCHEDULE 4 — Consequential amendments
+
+Regulation 21
+
+### 1. Amendment of the Justification of Practices Involving Ionising Radiation Regulations 2004[^key-41191a6386e54ccb1c230520712f61ef]
+
+(1) The Justification of Practices Involving Ionising Radiation Regulations 2004[^f00016] are amended as follows.
+
+(2)[^key-57634cdd7aa258896edd3b9218aeba1b] For regulation 21 (saving for medical practices) substitute—
+
+> **21.** Nothing in regulation 4(5) or 5(3) shall prevent anything permitted under regulation 11 of the Ionising Radiation (Medical Exposure) Regulations 2017 or regulation 11 of the Ionising Radiation (Medical Exposure) Regulations (Northern Ireland) 2018.
+
+.
+
+### 2. Amendment of the Human Medicines Regulations 2012[^key-79933968944cc32c98ec4752877b048b]
+
+(1) The Human Medicines Regulations 2012[^f00017] are amended as follows.
+
+(2)[^key-c1436c8deda4e30b4fa96956746541f4] In regulation 173 (exemption for certain radiopharmaceuticals), for paragraph (d) substitute—
+
+> - (d) for administration—
+>   - (i) in England and Wales and Scotland in accordance with a licence issued under the Ionising Radiation (Medical Exposure) Regulations 2017;
+>   - (ii) in Northern Ireland in accordance with a licence issued under the Ionising Radiation (Medical Exposure) Regulations (Northern Ireland) 2018.”.
+
+;
+
+(3)[^key-95be4b2f42dca0aeb980aee9c6d8e1e1] For regulation 240 (radioactive medicinal products), substitute—
+
+> **240. Radioactive medicinal products**
+>
+> (1) Regulation 214(2) does not apply to—
+>
+> - (a) a radioactive substance, administration of which results in a medical exposure; or
+> - (b) any other prescription only medicine if it is being administered in connection with a medical exposure,
+>
+> if Conditions A to E are met.
+>
+> (2) Condition A is that the prescription only medicine is administered by an operator acting in accordance with the procedures and protocols referred to—
+>
+> - (a) in England and Wales and Scotland, in regulation 6(1) and (4) of the Ionising Radiation (Medical Exposure) Regulations 2017 which apply to the exposure;
+> - (b) in Northern Ireland, in regulation 6(1) and (4) of the Ionising Radiation (Medical Exposure) Regulations (Northern Ireland) 2018 which apply to the exposure.
+>
+> (3) Condition B is that the medical exposure has been authorised by—
+>
+> - (a) an IRME practitioner; or
+> - (b) where it is not practical for an IRME practitioner to authorise the exposure, an operator acting in accordance with written guidelines issued by an IRME practitioner.
+>
+> (4) Condition C is that—
+>
+> - (a) in England and Wales and Scotland, the IRME practitioner mentioned in sub-paragraph (a) or (b) of paragraph (3) is the holder of a licence issued under the Ionising Radiation (Medical Exposure) Regulations 2017;
+> - (b) in Northern Ireland, the IRME practitioner mentioned in sub-paragraph (a) or (b) of paragraph (3) is the holder of a licence issued under the Ionising Radiation (Medical Exposure) Regulations (Northern Ireland) 2018.
+>
+> (5) Condition D is that the prescription only medicine is not a product subject to special medical prescription.
+>
+> (6) Condition E is that, in the case of a prescription only medicine that is not a radioactive substance, it is specified in the protocols referred to in paragraph (2).
+>
+> (7) In this regulation—
+>
+> - “IRME practitioner” means—
+>   - (a) in relation to a medical exposure in England and Wales and Scotland, a practitioner for the purposes of the Ionising Radiation (Medical Exposure) Regulations 2017;
+>   - (b) in relation to a medical exposure in Northern Ireland, a practitioner for the purposes of the Ionising Radiation (Medical Exposure) Regulations (Northern Ireland) 2018;
+> - “medical exposure” has the same meaning—
+>   - (a) in England and Wales and Scotland as in the Ionising Radiation (Medical Exposure) Regulations 2017;
+>   - (b) in Northern Ireland as in the Ionising Radiation (Medical Exposure) Regulations (Northern Ireland) 2018;
+> - “radioactive substance” has the same meaning—
+>   - (a) in England and Wales and Scotland as in the Ionising Radiation (Medical Exposure) Regulations 2017;
+>   - (b) in Northern Ireland as in the Ionising Radiation (Medical Exposure) Regulations (Northern Ireland) 2018.
+
+.
+
+### 3. Amendment of the Ionising Radiations Regulations 2017[^key-13345318fbd35afea1805c5cea8ee12d]
+
+(1) The Ionising Radiations Regulations 2017[^f00018] are amended as follows.
+
+(2) In regulation 2(1) (interpretation)—
+
+- (a) omit the definition of “carers and comforters”;
+- (b) insert after the definition of “calendar year”—
+
+  > - “carers and comforters” means individuals knowingly and willingly incurring an exposure to ionising radiation by helping, other than as part of their occupation, in the support and comfort of individuals undergoing or having undergone a medical exposure (other than as a carer and comforter);
+
+  ;
+- (c) in the definition of “medical exposure”, after paragraph (d), insert—
+
+  > - (e) carers and comforters;
+
+  .
+
+(3) In regulation 3 (application)—
+
+- (a) in paragraph (2), omit “33”;
+- (b) omit paragraph (4).
+
+(4) Omit regulation 33 (equipment used for medical exposure).
+
+(5) In regulation 35(6) (duties of employees)—
+
+- (a) in sub-paragraph (a), after “overexposure;” insert “or”;
+- (b) in sub-paragraph (b), omit “or” the second time it appears;
+- (c) omit sub-paragraph (c).
+
+(6) In regulation 38(2)(d) (exemption certificates)—
+
+- (a) before “25(2)” insert “and”;
+- (b) omit “and 33(1)”.
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations implement, as respects Great Britain, some of the provisions of Council Directive 2013/59/Euratom (OJ No L13,17.1.2014, p1) laying down basic safety standards for protection against the dangers from exposure to ionising radiation. The Directive repeals Directives 89/618/Euratom, 90/641/Euratom, 96/26/Euratom, 97/43/Euratom and 20013/122/Euratom.
+
+In particular, these Regulations transpose Directive requirements relating to dangers arising from ionising radiation in relation to medical exposure. They impose duties on employers and those with responsibilities for administering ionising radiation to protect persons undergoing medical exposures whether as part of their own medical diagnosis or treatment, as part of research, as asymptomatic individuals, as those undergoing non-medical imaging using medical radiological equipment or as carers and comforters of persons undergoing medical exposures.
+
+These Regulations revoke other Regulations relating to medical exposures and prior-authorisation for the administration of radioactive substances for the purposes of diagnosis, treatment and research.
+
+Regulation 2 is an interpretation provision. Regulation 3 sets out the medical exposures to which the Regulations apply.
+
+Regulation 4 sets out conditions under which the Licensing Authority may issue a licence for the administration of radioactive substances. Further provisions relating to the application for and the issuing of such licences are contained in Schedule 1.
+
+Regulation 5 requires the employer and the practitioner who wish to administer radioactive substances to hold a valid licence issued by the Licensing Authority. Such licences will specify the radiological installation and purposes as appropriate.
+
+Regulation 6 requires the employer to establish a framework of general procedures, protocols and quality assurance programmes. The procedures must cover the matters set out in Schedule 2 as a minimum. Written protocols, where appropriate, must be in place for standard radiological practices. The employer must establish recommendations regarding referral guidelines, establish quality assurance programmes for standard operating procedures, review and make available diagnostic reference levels, establish dose constraints where appropriate and raise awareness of the effects of ionising radiation amongst individuals capable of childbearing or breastfeeding.
+
+Regulation 7 requires the employer’s procedures to include provision for clinical audit to be carried out.
+
+Regulation 8 sets out the duties of the employer in relation to accidental or unintended medical exposures including provisions for providing information about clinically significant exposures, quality assurance programmes for radiotherapy, analysis and recording of events involving or potentially involving accidental or unintended exposures and processes for investigating and notifying the relevant enforcing authority when significant events have occurred.
+
+Regulation 9 sets out the duties of the enforcing authority with regard to timely dissemination of information relating to significant accidental or unintended exposures.
+
+Regulation 10 sets out the respective responsibilities of practitioners, operators and referrers. Practitioners and operators are required to follow the framework of procedures provided by the employer. The practitioner is responsible for the justification of a medical exposure. Authorisation of exposures is addressed here and in regulation 11. The operator is responsible for each practical aspect he or she carries out. The referrer must provide medical data as required by the practitioner in order that appropriate justification can take place.
+
+Regulation 11 prohibits any medical exposure which has not been justified and authorised and sets out matters to be taken into account for justification. These include requirements relating to licensing and approval by an expert advisory committee, in the case of research, for exposures involving administration of radioactive substances. Justification of the exposure of carers and comforters is also required and recommendations or guidelines should be considered as part of justification of the exposure of asymptomatic individuals.
+
+Regulation 12 provides for the optimisation process, and specifies the elements that are the responsibilities of the operator and the practitioner, depending on their involvement. Specific requirements are included for exposures in research, for carers and comforters and for exposures involving radioactive substances. Particular regard should be given to the exposures of children, exposures involving high doses, exposures of individuals involved in health screening programmes and pregnant or potentially pregnant or breastfeeding individuals. Regulation 12 also requires the employer to take steps to ensure that a clinical evaluation is recorded of each medical exposure.
+
+Regulation 13 requires employers to provide when requested, to the Secretary of State data relating to dose estimates from diagnostic and interventional medical exposures.
+
+Regulation 14 provides for suitable medical physics experts to be appointed and involved in relation to medical exposures.
+
+Regulation 15 sets out general duties of the employer with respect to medical radiological equipment. These include requirements for quality assurance programmes, appropriate testing of equipment, performance criteria and actions to be taken when equipment does not perform appropriately.
+
+Regulation 16 sets out additional requirements for equipment installed when the Regulations come into force including the transfer of information relating to patient dose where appropriate.
+
+Regulation 17 prohibits a practitioner or operator from carrying out a medical exposure without having been adequately trained, except if supervised appropriately for practical aspects when undergoing training. The employer must keep and make available training records during inspections undertaken by the relevant enforcing authority. Further information regarding adequate training is set out in Schedule 3.
+
+Regulation 18 provides that the Regulations are made enforceable as health and safety regulations under the Health and Safety at Work etc. Act [1974 (c. 37)](https://www.legislation.gov.uk/ukpga/1974/37).
+
+Regulation 19 provides there is a defence of due diligence to proceedings for an offence under the Regulations that all reasonable steps were taken and due diligence exercised.
+
+Regulation 20 revokes the Ionising Radiation (Medical Exposure) Regulations 2000 ([SI 2000/1059](https://www.legislation.gov.uk/uksi/2000/1059)) and, subject to transitional provisions relating to existing certificates, the Medicines (Administration of Radioactive Substances) Regulations 1978 ([S.I. 1978/1006](https://www.legislation.gov.uk/uksi/1978/1006)) and the Medicines (Radioactive Substances) Order 1978 ([S.I. 1978/1004](https://www.legislation.gov.uk/uksi/1978/1004)).
+
+Regulation 21 and Schedule 4 make provision consequential on the coming into force of these Regulations.
+
+Regulation 22 makes provision for the review of these Regulations at the end of the period of 5 years beginning with the date on which they coming into force.
+
+A full impact assessment has not been prepared to accompany this instrument as it has a low cost to business. However, a regulatory triage assessment accompanies this instrument.
+
+## Annotations
+
+[^f00001]: Footnote: [S.I. 1977/1718](https://www.legislation.gov.uk/uksi/1977/1718); there are no relevant amendments.
+
+[^f00002]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68); section 2(2) was amended by section 27(1)(a) of the Legislative and Regulatory Reform Act [2006 (c. 51)](https://www.legislation.gov.uk/ukpga/2006/51), and by Part 1 of the Schedule to the European Union (Amendment) Act [2008 (c. 7)](https://www.legislation.gov.uk/ukpga/2008/7). In so far as these Regulations deal with matters that are within the devolved competence of Scottish Ministers, the power of the Secretary of State to make regulations in relation to those matters in or as regards Scotland is preserved by section 57(1) of the Scotland Act [1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46).
+
+[^f00003]: Footnote: [1973 c. 51](https://www.legislation.gov.uk/ukpga/1973/51); amendments have been made to section 56 by [S.I. 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043); there are other amendments to that section which are not relevant for the purposes of these Regulations.
+
+[^key-9dc0d0e4a7b8f3fa5d91c67ceba306b6]: Commencement: Reg. 1 in force at 6.2.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/1322/regulation/1)
+
+[^key-e363275b0c7588459b9a22a5972b0231]: Commencement: Reg. 2 in force at 6.2.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/1322/regulation/1)
+
+[^key-aa1ec185f3d9d6f7b6f877041771bff3]: Textual amendment: Words in reg. 2(1) substituted (1.10.2024) by [The Ionising Radiation (Medical Exposure) (Amendment) Regulations 2024 (S.I. 2024/896)](https://www.legislation.gov.uk/uksi/2024/896), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/896/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2024/896/regulation/2/2)
+
+[^key-470f8abc8382e71a9d86761401c46bd6]: Textual amendment: Words in reg. 2(1) inserted (1.10.2024) by [The Ionising Radiation (Medical Exposure) (Amendment) Regulations 2024 (S.I. 2024/896)](https://www.legislation.gov.uk/uksi/2024/896), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/896/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2024/896/regulation/2/3)
+
+[^key-ca55e527a8e6827645ce9a0125387eda]: Textual amendment: Words in reg. 2(1) inserted (1.10.2024) by [The Ionising Radiation (Medical Exposure) (Amendment) Regulations 2024 (S.I. 2024/896)](https://www.legislation.gov.uk/uksi/2024/896), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/896/regulation/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2024/896/regulation/2/4)
+
+[^key-187e98e5b9e44511b383869cd5377a6c]: Textual amendment: Words in reg. 2(1) substituted (1.10.2024) by [The Ionising Radiation (Medical Exposure) (Amendment) Regulations 2024 (S.I. 2024/896)](https://www.legislation.gov.uk/uksi/2024/896), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/896/regulation/1/2), [2(5)](https://www.legislation.gov.uk/uksi/2024/896/regulation/2/5)
+
+[^key-647770ae95aa0d7ced83007f444d9d9d]: Textual amendment: Words in reg. 2(1) inserted (1.10.2024) by [The Ionising Radiation (Medical Exposure) (Amendment) Regulations 2024 (S.I. 2024/896)](https://www.legislation.gov.uk/uksi/2024/896), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/896/regulation/1/2), [2(6)(a)](https://www.legislation.gov.uk/uksi/2024/896/regulation/2/6/a)
+
+[^key-783bb1d53a85cc3192aeacf9e6b3180a]: Textual amendment: Word in reg. 2(1) omitted (1.10.2024) by virtue of [The Ionising Radiation (Medical Exposure) (Amendment) Regulations 2024 (S.I. 2024/896)](https://www.legislation.gov.uk/uksi/2024/896), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/896/regulation/1/2), [2(6)(b)](https://www.legislation.gov.uk/uksi/2024/896/regulation/2/6/b)
+
+[^key-e36c9cfb2a57aeccbea7e11594aecf08]: Textual amendment: Word in reg. 2(1) omitted (1.10.2024) by virtue of [The Ionising Radiation (Medical Exposure) (Amendment) Regulations 2024 (S.I. 2024/896)](https://www.legislation.gov.uk/uksi/2024/896), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/896/regulation/1/2), [2(6)(c)](https://www.legislation.gov.uk/uksi/2024/896/regulation/2/6/c)
+
+[^key-146d149d80dd5c364379edd6a5140740]: Textual amendment: Words in reg. 2(1) inserted (1.10.2024) by [The Ionising Radiation (Medical Exposure) (Amendment) Regulations 2024 (S.I. 2024/896)](https://www.legislation.gov.uk/uksi/2024/896), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/896/regulation/1/2), [2(6)(d)](https://www.legislation.gov.uk/uksi/2024/896/regulation/2/6/d)
+
+[^key-e5da71ad4e512fb4afa440bf7d5c698e]: Textual amendment: Words in reg. 2(1) inserted (1.10.2024) by [The Ionising Radiation (Medical Exposure) (Amendment) Regulations 2024 (S.I. 2024/896)](https://www.legislation.gov.uk/uksi/2024/896), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/896/regulation/1/2), [2(7)](https://www.legislation.gov.uk/uksi/2024/896/regulation/2/7)
+
+[^key-47fbe6bdae2df0d40b845fe0b5a5dd93]: Textual amendment: Words in reg. 2(1) omitted (1.10.2024) by virtue of [The Ionising Radiation (Medical Exposure) (Amendment) Regulations 2024 (S.I. 2024/896)](https://www.legislation.gov.uk/uksi/2024/896), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/896/regulation/1/2), [2(8)](https://www.legislation.gov.uk/uksi/2024/896/regulation/2/8)
+
+[^key-6af46d1fa1c2502c5778d69f4f89ea63]: Textual amendment: Words in reg. 2(1) inserted (1.10.2024) by [The Ionising Radiation (Medical Exposure) (Amendment) Regulations 2024 (S.I. 2024/896)](https://www.legislation.gov.uk/uksi/2024/896), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/896/regulation/1/2), [2(9)](https://www.legislation.gov.uk/uksi/2024/896/regulation/2/9)
+
+[^key-86e8f47869d1623db25974a9d68e495b]: Textual amendment: Words in reg. 2(1) substituted (1.10.2024) by virtue of [The Ionising Radiation (Medical Exposure) (Amendment) Regulations 2024 (S.I. 2024/896)](https://www.legislation.gov.uk/uksi/2024/896), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/896/regulation/1/2), [2(10)](https://www.legislation.gov.uk/uksi/2024/896/regulation/2/10)
+
+[^key-416078ec02c2eca55b63929bf065a201]: Textual amendment: Words in reg. 2(1) inserted (1.10.2024) by [The Ionising Radiation (Medical Exposure) (Amendment) Regulations 2024 (S.I. 2024/896)](https://www.legislation.gov.uk/uksi/2024/896), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/896/regulation/1/2), [2(11)](https://www.legislation.gov.uk/uksi/2024/896/regulation/2/11)
+
+[^key-85bdd4f6d762521d5ab1537822b13b0f]: Textual amendment: Words in reg. 2(1) substituted (1.10.2024) by [The Ionising Radiation (Medical Exposure) (Amendment) Regulations 2024 (S.I. 2024/896)](https://www.legislation.gov.uk/uksi/2024/896), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/896/regulation/1/2), [2(12)(a)](https://www.legislation.gov.uk/uksi/2024/896/regulation/2/12/a)
+
+[^key-9725b642f2a20e0bc40c14218b20925c]: Textual amendment: Word in reg. 2(1) substituted (1.10.2024) by [The Ionising Radiation (Medical Exposure) (Amendment) Regulations 2024 (S.I. 2024/896)](https://www.legislation.gov.uk/uksi/2024/896), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/896/regulation/1/2), [2(12)(b)](https://www.legislation.gov.uk/uksi/2024/896/regulation/2/12/b)
+
+[^key-e761d640a363519ade633242d60ab36f]: Textual amendment: Words in reg. 2(1) omitted (1.10.2024) by virtue of [The Ionising Radiation (Medical Exposure) (Amendment) Regulations 2024 (S.I. 2024/896)](https://www.legislation.gov.uk/uksi/2024/896), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/896/regulation/1/2), [2(12)(c)](https://www.legislation.gov.uk/uksi/2024/896/regulation/2/12/c)
+
+[^key-6a900cb7f83640ad89bcf39e7f3fb969]: Textual amendment: Words in reg. 2(1) inserted (1.10.2024) by [The Ionising Radiation (Medical Exposure) (Amendment) Regulations 2024 (S.I. 2024/896)](https://www.legislation.gov.uk/uksi/2024/896), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/896/regulation/1/2), [2(13)](https://www.legislation.gov.uk/uksi/2024/896/regulation/2/13)
+
+[^key-96efc45036d851e5aefcfbc0cc48e443]: Textual amendment: Words in reg. 2(1) inserted (1.10.2024) by [The Ionising Radiation (Medical Exposure) (Amendment) Regulations 2024 (S.I. 2024/896)](https://www.legislation.gov.uk/uksi/2024/896), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/896/regulation/1/2), [2(14)](https://www.legislation.gov.uk/uksi/2024/896/regulation/2/14)
+
+[^key-bdf627095e6571d621008825c09ddacd]: Textual amendment: Words in reg. 2(1) inserted (1.10.2024) by [The Ionising Radiation (Medical Exposure) (Amendment) Regulations 2024 (S.I. 2024/896)](https://www.legislation.gov.uk/uksi/2024/896), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/896/regulation/1/2), [2(15)](https://www.legislation.gov.uk/uksi/2024/896/regulation/2/15)
+
+[^f00004]: Footnote: [2002 c. 17](https://www.legislation.gov.uk/ukpga/2002/17). Section 25 has been amended by paragraph 17 of Schedule 10 and Part 2 of Schedule 15 the Health and Social Care Act [2008 (c. 14)](https://www.legislation.gov.uk/ukpga/2008/14), sections 220, 222 and 224 of and paragraphs 56 and 62 of Schedule 15 to the Health and Social Care act [2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), section 5(1) of the Health and Social Care (Safety and Quality) Act [2015 (c. 28)](https://www.legislation.gov.uk/ukpga/2015/28), paragraph 1 and 2 of Schedule 4 to the Children and Social Work Act [2017 (c. 16)](https://www.legislation.gov.uk/ukpga/2017/16).
+
+[^f00005]: Footnote: Established by section 1 of the Health and Social Care Act [2008 (c. 14)](https://www.legislation.gov.uk/ukpga/2008/14).
+
+[^key-2e623e3eb2f9d7c01be0d015c7bbf4b9]: Commencement: Reg. 3 in force at 6.2.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/1322/regulation/1)
+
+[^key-596f889dc45861ea859088db92a4de9e]: Textual amendment: Reg. 3 renumbered as reg. 3(1) (6.2.2018) by [The Ionising Radiation (Medical Exposure) (Amendment) Regulations 2018 (S.I. 2018/121)](https://www.legislation.gov.uk/uksi/2018/121), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/121/regulation/1/2), [2(2)(a)](https://www.legislation.gov.uk/uksi/2018/121/regulation/2/2/a)
+
+[^key-65f8c06c6e6b460d14c5479db8b0f0e2]: Textual amendment: Word in reg. 3(1)(f) inserted (1.10.2024) by [The Ionising Radiation (Medical Exposure) (Amendment) Regulations 2024 (S.I. 2024/896)](https://www.legislation.gov.uk/uksi/2024/896), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/896/regulation/1/2), [3(a)](https://www.legislation.gov.uk/uksi/2024/896/regulation/3/a)
+
+[^key-d60c46d7245ddc6a011e94f64ea652a7]: Textual amendment: Words in reg. 3(1)(f) substituted (1.10.2024) by [The Ionising Radiation (Medical Exposure) (Amendment) Regulations 2024 (S.I. 2024/896)](https://www.legislation.gov.uk/uksi/2024/896), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/896/regulation/1/2), [3(b)](https://www.legislation.gov.uk/uksi/2024/896/regulation/3/b)
+
+[^key-fca6cb9f91d4691616a578eb6aa96208]: Textual amendment: Reg. 3(2) inserted (6.2.2018) by [The Ionising Radiation (Medical Exposure) (Amendment) Regulations 2018 (S.I. 2018/121)](https://www.legislation.gov.uk/uksi/2018/121), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/121/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2018/121/regulation/2/2/b)
+
+[^key-d2f390713dcadd3531ba8d5835a068bd]: Commencement: Reg. 4 in force at 6.2.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/1322/regulation/1)
+
+[^key-b4865e8ca4890c6278eb46ef5231ab85]: Commencement: Reg. 5 in force at 6.2.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/1322/regulation/1)
+
+[^key-d648a4a53bde328d529fab27384c84ae]: Commencement: Reg. 6 in force at 6.2.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/1322/regulation/1)
+
+[^key-f8251163365460c12fd47ce4717b9797]: Textual amendment: Words in reg. 6(5)(a) substituted (1.10.2024) by [The Ionising Radiation (Medical Exposure) (Amendment) Regulations 2024 (S.I. 2024/896)](https://www.legislation.gov.uk/uksi/2024/896), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/896/regulation/1/2), [4(2)(a)](https://www.legislation.gov.uk/uksi/2024/896/regulation/4/2/a)
+
+[^key-823172bc8a4d2c62a45c18032acb40c7]: Textual amendment: Words in reg. 6(5)(c)(i) substituted (1.10.2024) by [The Ionising Radiation (Medical Exposure) (Amendment) Regulations 2024 (S.I. 2024/896)](https://www.legislation.gov.uk/uksi/2024/896), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/896/regulation/1/2), [4(2)(b)(i)(aa)](https://www.legislation.gov.uk/uksi/2024/896/regulation/4/2/b/i/aa)
+
+[^key-e292166f25dbca987b1b38920a97cc1f]: Textual amendment: Words in reg. 6(5)(c)(i)(bb) substituted (1.10.2024) by [The Ionising Radiation (Medical Exposure) (Amendment) Regulations 2024 (S.I. 2024/896)](https://www.legislation.gov.uk/uksi/2024/896), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/896/regulation/1/2), [4(2)(b)(i)(bb)](https://www.legislation.gov.uk/uksi/2024/896/regulation/4/2/b/i/bb)
+
+[^key-c8460126e57eaaf68671cf87b568e7e0]: Textual amendment: Words in reg. 6(5)(c)(ii) substituted (1.10.2024) by [The Ionising Radiation (Medical Exposure) (Amendment) Regulations 2024 (S.I. 2024/896)](https://www.legislation.gov.uk/uksi/2024/896), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/896/regulation/1/2), [4(2)(b)(ii)(aa)](https://www.legislation.gov.uk/uksi/2024/896/regulation/4/2/b/ii/aa)
+
+[^key-510bcf048e04b75970d837d1f176b578]: Textual amendment: Word in reg. 6(5)(c)(ii) substituted (1.10.2024) by [The Ionising Radiation (Medical Exposure) (Amendment) Regulations 2024 (S.I. 2024/896)](https://www.legislation.gov.uk/uksi/2024/896), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/896/regulation/1/2), [4(2)(b)(ii)(bb)](https://www.legislation.gov.uk/uksi/2024/896/regulation/4/2/b/ii/bb)
+
+[^key-7746afaf35387c50bce32be448737a36]: Textual amendment: Words in reg. 6(5)(c)(ii) inserted (1.10.2024) by [The Ionising Radiation (Medical Exposure) (Amendment) Regulations 2024 (S.I. 2024/896)](https://www.legislation.gov.uk/uksi/2024/896), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/896/regulation/1/2), [4(2)(b)(ii)(cc)](https://www.legislation.gov.uk/uksi/2024/896/regulation/4/2/b/ii/cc)
+
+[^key-e3b67cb776aa7e904341e656b2cbc5a1]: Textual amendment: Words in reg. 6(5)(c)(iii) substituted (1.10.2024) by [The Ionising Radiation (Medical Exposure) (Amendment) Regulations 2024 (S.I. 2024/896)](https://www.legislation.gov.uk/uksi/2024/896), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/896/regulation/1/2), [4(2)(b)(iii)(aa)](https://www.legislation.gov.uk/uksi/2024/896/regulation/4/2/b/iii/aa)
+
+[^key-7d141995f25622295950bbdbd7f3fe9d]: Textual amendment: Words in reg. 6(5)(c)(iii) inserted (1.10.2024) by [The Ionising Radiation (Medical Exposure) (Amendment) Regulations 2024 (S.I. 2024/896)](https://www.legislation.gov.uk/uksi/2024/896), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/896/regulation/1/2), [4(2)(b)(iii)(bb)](https://www.legislation.gov.uk/uksi/2024/896/regulation/4/2/b/iii/bb)
+
+[^key-945ff2ee50810d6d1d11eacc943849a1]: Textual amendment: Reg. 6(5)(ca) inserted (1.10.2024) by [The Ionising Radiation (Medical Exposure) (Amendment) Regulations 2024 (S.I. 2024/896)](https://www.legislation.gov.uk/uksi/2024/896), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/896/regulation/1/2), [4(2)(c)](https://www.legislation.gov.uk/uksi/2024/896/regulation/4/2/c)
+
+[^key-92bf5b69179b72a8fde50714cc281916]: Textual amendment: Words in reg. 6(5)(d) inserted (1.10.2024) by [The Ionising Radiation (Medical Exposure) (Amendment) Regulations 2024 (S.I. 2024/896)](https://www.legislation.gov.uk/uksi/2024/896), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/896/regulation/1/2), [4(2)(d)(i)](https://www.legislation.gov.uk/uksi/2024/896/regulation/4/2/d/i)
+
+[^key-da6909ef9ae13a3d598e50283c68a786]: Textual amendment: Words in reg. 6(5)(d)(i) substituted (1.10.2024) by [The Ionising Radiation (Medical Exposure) (Amendment) Regulations 2024 (S.I. 2024/896)](https://www.legislation.gov.uk/uksi/2024/896), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/896/regulation/1/2), [4(2)(d)(ii)](https://www.legislation.gov.uk/uksi/2024/896/regulation/4/2/d/ii)
+
+[^key-077955713c70d3cd19449fe1ac5ff892]: Textual amendment: Word in reg. 6(5)(d)(i) omitted (1.10.2024) by virtue of [The Ionising Radiation (Medical Exposure) (Amendment) Regulations 2024 (S.I. 2024/896)](https://www.legislation.gov.uk/uksi/2024/896), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/896/regulation/1/2), [4(2)(d)(ii)](https://www.legislation.gov.uk/uksi/2024/896/regulation/4/2/d/ii)
+
+[^key-a143f4aa7e34f0e9e5b8ec2070208984]: Textual amendment: Words in reg. 6(5)(d)(ii) substituted (1.10.2024) by [The Ionising Radiation (Medical Exposure) (Amendment) Regulations 2024 (S.I. 2024/896)](https://www.legislation.gov.uk/uksi/2024/896), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/896/regulation/1/2), [4(2)(d)(iii)](https://www.legislation.gov.uk/uksi/2024/896/regulation/4/2/d/iii)
+
+[^key-31a04a80f85c8f59ea9bfae44d33ee4a]: Textual amendment: Reg. 6(5)(e) and word inserted (1.10.2024) by [The Ionising Radiation (Medical Exposure) (Amendment) Regulations 2024 (S.I. 2024/896)](https://www.legislation.gov.uk/uksi/2024/896), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/896/regulation/1/2), [4(2)(e)](https://www.legislation.gov.uk/uksi/2024/896/regulation/4/2/e)
+
+[^key-d11f13b685ed11567b86c95789750123]: Textual amendment: Reg. 6(6) omitted (1.10.2024) by virtue of [The Ionising Radiation (Medical Exposure) (Amendment) Regulations 2024 (S.I. 2024/896)](https://www.legislation.gov.uk/uksi/2024/896), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/896/regulation/1/2), [4(3)](https://www.legislation.gov.uk/uksi/2024/896/regulation/4/3)
+
+[^key-f8016b02c680d6f5a5c8d2f7cc8bfc39]: Textual amendment: Words in reg. 6(7) inserted (1.10.2024) by [The Ionising Radiation (Medical Exposure) (Amendment) Regulations 2024 (S.I. 2024/896)](https://www.legislation.gov.uk/uksi/2024/896), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/896/regulation/1/2), [4(4)](https://www.legislation.gov.uk/uksi/2024/896/regulation/4/4)
+
+[^key-ab686eb94910fa43d188ccc1f0c82c2f]: Textual amendment: Reg. 6A inserted (1.10.2024) by [The Ionising Radiation (Medical Exposure) (Amendment) Regulations 2024 (S.I. 2024/896)](https://www.legislation.gov.uk/uksi/2024/896), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/896/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2024/896/regulation/5)
+
+[^key-50894e7751ca261ff127417872a6fcbd]: Commencement: Reg. 7 in force at 6.2.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/1322/regulation/1)
+
+[^key-9ba3c89647c2c593d031e9a10797f35b]: Textual amendment: Words in reg. 7 inserted (1.10.2024) by [The Ionising Radiation (Medical Exposure) (Amendment) Regulations 2024 (S.I. 2024/896)](https://www.legislation.gov.uk/uksi/2024/896), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/896/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2024/896/regulation/6)
+
+[^key-3d4071678a54dd89de1d2da9b48d659d]: Commencement: Reg. 8 in force at 6.2.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/1322/regulation/1)
+
+[^key-f12667893db7ccb07dfc754ae989b4c3]: Textual amendment: Reg. 8(3) substituted (1.10.2024) by [The Ionising Radiation (Medical Exposure) (Amendment) Regulations 2024 (S.I. 2024/896)](https://www.legislation.gov.uk/uksi/2024/896), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/896/regulation/1/2), [7](https://www.legislation.gov.uk/uksi/2024/896/regulation/7)
+
+[^key-cb3acc9b5e78e98a181299eaa632bc14]: Commencement: Reg. 9 in force at 6.2.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/1322/regulation/1)
+
+[^key-948be87b7343cee7453b0364e9bc7e95]: Textual amendment: Words in reg. 9 substituted (1.10.2024) by [The Ionising Radiation (Medical Exposure) (Amendment) Regulations 2024 (S.I. 2024/896)](https://www.legislation.gov.uk/uksi/2024/896), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/896/regulation/1/2), [8](https://www.legislation.gov.uk/uksi/2024/896/regulation/8)
+
+[^key-b7a29d4e00abf7aa47706a1812266fec]: Commencement: Reg. 10 in force at 6.2.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/1322/regulation/1)
+
+[^key-6a74f2d3e260ec0af2d20a111d356906]: Textual amendment: Words in reg. 10(1) substituted (1.10.2024) by [The Ionising Radiation (Medical Exposure) (Amendment) Regulations 2024 (S.I. 2024/896)](https://www.legislation.gov.uk/uksi/2024/896), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/896/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2024/896/regulation/9)
+
+[^key-b273a026f5b08b038a410bde29b11aa3]: Commencement: Reg. 11 in force at 6.2.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/1322/regulation/1)
+
+[^key-c9d94508b97e0e80bb9d2a6143875a7d]: Textual amendment: Words in reg. 11(1)(d) substituted (1.10.2024) by [The Ionising Radiation (Medical Exposure) (Amendment) Regulations 2024 (S.I. 2024/896)](https://www.legislation.gov.uk/uksi/2024/896), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/896/regulation/1/2), [10(2)(a)](https://www.legislation.gov.uk/uksi/2024/896/regulation/10/2/a)
+
+[^key-947f4bc92820c74e4df2951481d68fb1]: Textual amendment: Words in reg. 11(1)(e) substituted (1.10.2024) by [The Ionising Radiation (Medical Exposure) (Amendment) Regulations 2024 (S.I. 2024/896)](https://www.legislation.gov.uk/uksi/2024/896), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/896/regulation/1/2), [10(2)(b)](https://www.legislation.gov.uk/uksi/2024/896/regulation/10/2/b)
+
+[^key-1a8b0c68842056fbb7cafb1fa043b102]: Textual amendment: Reg. 11(6) omitted (1.10.2024) by virtue of [The Ionising Radiation (Medical Exposure) (Amendment) Regulations 2024 (S.I. 2024/896)](https://www.legislation.gov.uk/uksi/2024/896), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/896/regulation/1/2), [10(3)](https://www.legislation.gov.uk/uksi/2024/896/regulation/10/3)
+
+[^key-0c5f88583e99e894da09298938aa3e17]: Commencement: Reg. 12 in force at 6.2.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/1322/regulation/1)
+
+[^key-72b20f2c25c02b92c64f17671ad289ab]: Textual amendment: Word in reg. 12(3)(a) substituted (1.10.2024) by [The Ionising Radiation (Medical Exposure) (Amendment) Regulations 2024 (S.I. 2024/896)](https://www.legislation.gov.uk/uksi/2024/896), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/896/regulation/1/2), [11(2)(a)](https://www.legislation.gov.uk/uksi/2024/896/regulation/11/2/a)
+
+[^key-8e1d32000abb09bcea04b9dd443c3e14]: Textual amendment: Word in reg. 12(3) omitted (1.10.2024) by virtue of [The Ionising Radiation (Medical Exposure) (Amendment) Regulations 2024 (S.I. 2024/896)](https://www.legislation.gov.uk/uksi/2024/896), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/896/regulation/1/2), [11(2)(b)](https://www.legislation.gov.uk/uksi/2024/896/regulation/11/2/b)
+
+[^key-004496b29ba086ed6ee1b5d5bcc9f54d]: Textual amendment: Words in reg. 12(3)(c) inserted (1.10.2024) by [The Ionising Radiation (Medical Exposure) (Amendment) Regulations 2024 (S.I. 2024/896)](https://www.legislation.gov.uk/uksi/2024/896), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/896/regulation/1/2), [11(2)(c)(i)](https://www.legislation.gov.uk/uksi/2024/896/regulation/11/2/c/i)
+
+[^key-7d72263defd7a8f6a74f44c84f4a3731]: Textual amendment: Words in reg. 12(3)(c) substituted (1.10.2024) by [The Ionising Radiation (Medical Exposure) (Amendment) Regulations 2024 (S.I. 2024/896)](https://www.legislation.gov.uk/uksi/2024/896), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/896/regulation/1/2), [11(2)(c)(ii)](https://www.legislation.gov.uk/uksi/2024/896/regulation/11/2/c/ii)
+
+[^key-593790b66cf3a91af72eaec91285177d]: Textual amendment: Reg. 12(3)(d) and word inserted (1.10.2024) by [The Ionising Radiation (Medical Exposure) (Amendment) Regulations 2024 (S.I. 2024/896)](https://www.legislation.gov.uk/uksi/2024/896), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/896/regulation/1/2), [11(2)(d)](https://www.legislation.gov.uk/uksi/2024/896/regulation/11/2/d)
+
+[^key-58392a5f8298da0db736e99f26bc9f6e]: Textual amendment: Words in reg. 12(4) substituted (1.10.2024) by [The Ionising Radiation (Medical Exposure) (Amendment) Regulations 2024 (S.I. 2024/896)](https://www.legislation.gov.uk/uksi/2024/896), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/896/regulation/1/2), [11(3)(a)](https://www.legislation.gov.uk/uksi/2024/896/regulation/11/3/a)
+
+[^key-431dac4ba57303330d14762d71352265]: Textual amendment: Reg. 12(4)(a) substituted (1.10.2024) by [The Ionising Radiation (Medical Exposure) (Amendment) Regulations 2024 (S.I. 2024/896)](https://www.legislation.gov.uk/uksi/2024/896), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/896/regulation/1/2), [11(3)(b)](https://www.legislation.gov.uk/uksi/2024/896/regulation/11/3/b)
+
+[^key-e5e065b9580fe5dc4d92e0b6b97a6d4b]: Textual amendment: Words in reg. 12(4)(b) inserted (1.10.2024) by [The Ionising Radiation (Medical Exposure) (Amendment) Regulations 2024 (S.I. 2024/896)](https://www.legislation.gov.uk/uksi/2024/896), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/896/regulation/1/2), [11(3)(c)](https://www.legislation.gov.uk/uksi/2024/896/regulation/11/3/c)
+
+[^key-447418316d9a13f759bc3b8d77313ed7]: Textual amendment: Words in reg. 12(5) substituted (1.10.2024) by [The Ionising Radiation (Medical Exposure) (Amendment) Regulations 2024 (S.I. 2024/896)](https://www.legislation.gov.uk/uksi/2024/896), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/896/regulation/1/2), [11(4)](https://www.legislation.gov.uk/uksi/2024/896/regulation/11/4)
+
+[^key-c2e357e9e0f6eed86d8780e842724db5]: Textual amendment: Words in reg. 12(6)(a) inserted (1.10.2024) by [The Ionising Radiation (Medical Exposure) (Amendment) Regulations 2024 (S.I. 2024/896)](https://www.legislation.gov.uk/uksi/2024/896), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/896/regulation/1/2), [11(5)(a)](https://www.legislation.gov.uk/uksi/2024/896/regulation/11/5/a)
+
+[^key-5682afb440921b415607ec95795ccbed]: Textual amendment: Reg. 12(6)(aa)(ab) inserted (1.10.2024) by [The Ionising Radiation (Medical Exposure) (Amendment) Regulations 2024 (S.I. 2024/896)](https://www.legislation.gov.uk/uksi/2024/896), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/896/regulation/1/2), [11(5)(b)](https://www.legislation.gov.uk/uksi/2024/896/regulation/11/5/b)
+
+[^key-a08586ccf9203e51e2cdfd96b9f6e9ea]: Textual amendment: Reg. 12(6)(b) substituted (1.10.2024) by [The Ionising Radiation (Medical Exposure) (Amendment) Regulations 2024 (S.I. 2024/896)](https://www.legislation.gov.uk/uksi/2024/896), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/896/regulation/1/2), [11(5)(c)](https://www.legislation.gov.uk/uksi/2024/896/regulation/11/5/c)
+
+[^key-221f4a5ca0991179ea8a0855e2109d53]: Textual amendment: Word in reg. 12(6) omitted (1.10.2024) by virtue of [The Ionising Radiation (Medical Exposure) (Amendment) Regulations 2024 (S.I. 2024/896)](https://www.legislation.gov.uk/uksi/2024/896), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/896/regulation/1/2), [11(5)(d)](https://www.legislation.gov.uk/uksi/2024/896/regulation/11/5/d)
+
+[^key-c3c89d56fd7bc33863a3055fda56c90b]: Textual amendment: Reg. 12(6)(c) omitted (1.10.2024) by virtue of [The Ionising Radiation (Medical Exposure) (Amendment) Regulations 2024 (S.I. 2024/896)](https://www.legislation.gov.uk/uksi/2024/896), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/896/regulation/1/2), [11(5)(e)](https://www.legislation.gov.uk/uksi/2024/896/regulation/11/5/e)
+
+[^key-fb026e6a0f5374e25795e9b89116c8f4]: Textual amendment: Word in reg. 12(8)(a)-(c) omitted (1.10.2024) by virtue of [The Ionising Radiation (Medical Exposure) (Amendment) Regulations 2024 (S.I. 2024/896)](https://www.legislation.gov.uk/uksi/2024/896), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/896/regulation/1/2), [11(6)(a)](https://www.legislation.gov.uk/uksi/2024/896/regulation/11/6/a)
+
+[^key-7b5ed2d722e675627679f1aa66a62d4b]: Textual amendment: Word in reg. 12(8)(d) substituted (1.10.2024) by [The Ionising Radiation (Medical Exposure) (Amendment) Regulations 2024 (S.I. 2024/896)](https://www.legislation.gov.uk/uksi/2024/896), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/896/regulation/1/2), [11(6)(b)](https://www.legislation.gov.uk/uksi/2024/896/regulation/11/6/b)
+
+[^key-7406a0b0250328d39d53d18c107da58d]: Textual amendment: Word in reg. 12(8)(e) substituted (1.10.2024) by [The Ionising Radiation (Medical Exposure) (Amendment) Regulations 2024 (S.I. 2024/896)](https://www.legislation.gov.uk/uksi/2024/896), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/896/regulation/1/2), [11(6)(b)](https://www.legislation.gov.uk/uksi/2024/896/regulation/11/6/b)
+
+[^key-bad5222fd1059b9802bfbec392f501b7]: Textual amendment: Reg. 12(10) inserted (1.10.2024) by [The Ionising Radiation (Medical Exposure) (Amendment) Regulations 2024 (S.I. 2024/896)](https://www.legislation.gov.uk/uksi/2024/896), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/896/regulation/1/2), [11(7)](https://www.legislation.gov.uk/uksi/2024/896/regulation/11/7)
+
+[^key-4d9874cea6879e2f5b5aef7af727e99d]: Commencement: Reg. 13 in force at 6.2.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/1322/regulation/1)
+
+[^key-c2f93e6396e0345b4a481852b4d169cb]: Textual amendment: Words in reg. 13 substituted (1.10.2024) by [The Ionising Radiation (Medical Exposure) (Amendment) Regulations 2024 (S.I. 2024/896)](https://www.legislation.gov.uk/uksi/2024/896), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/896/regulation/1/2), [12](https://www.legislation.gov.uk/uksi/2024/896/regulation/12)
+
+[^key-33313170ed5357af3d82e64715b33e16]: Commencement: Reg. 14 in force at 6.2.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/1322/regulation/1)
+
+[^key-91a91988faa3308fc280a68594339031]: Textual amendment: Words in reg. 14(2)(c) substituted (6.2.2018) by [The Ionising Radiation (Medical Exposure) (Amendment) Regulations 2018 (S.I. 2018/121)](https://www.legislation.gov.uk/uksi/2018/121), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/121/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2018/121/regulation/2/3)
+
+[^key-a40401fbbc4e82dce7d6a9f4d428077a]: Textual amendment: Word in reg. 14(2)(d)(i) substituted (1.10.2024) by [The Ionising Radiation (Medical Exposure) (Amendment) Regulations 2024 (S.I. 2024/896)](https://www.legislation.gov.uk/uksi/2024/896), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/896/regulation/1/2), [13(2)](https://www.legislation.gov.uk/uksi/2024/896/regulation/13/2)
+
+[^key-c59ac7252494e1ec3cde0be9d9d7c99b]: Textual amendment: Words in reg. 14(3)(a) inserted (1.10.2024) by [The Ionising Radiation (Medical Exposure) (Amendment) Regulations 2024 (S.I. 2024/896)](https://www.legislation.gov.uk/uksi/2024/896), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/896/regulation/1/2), [13(3)(a)](https://www.legislation.gov.uk/uksi/2024/896/regulation/13/3/a)
+
+[^key-fc676adef47b62bbf1fd5b053f90f6be]: Textual amendment: Word in reg. 14(3)(h) inserted (1.10.2024) by [The Ionising Radiation (Medical Exposure) (Amendment) Regulations 2024 (S.I. 2024/896)](https://www.legislation.gov.uk/uksi/2024/896), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/896/regulation/1/2), [13(3)(b)](https://www.legislation.gov.uk/uksi/2024/896/regulation/13/3/b)
+
+[^key-325705737b09667bbd1af570b9c8c0bb]: Textual amendment: Reg. 14(5) omitted (1.10.2024) by virtue of [The Ionising Radiation (Medical Exposure) (Amendment) Regulations 2024 (S.I. 2024/896)](https://www.legislation.gov.uk/uksi/2024/896), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/896/regulation/1/2), [13(4)](https://www.legislation.gov.uk/uksi/2024/896/regulation/13/4)
+
+[^key-0807c6faecaf8798b4c51ee9b687dc2b]: Commencement: Reg. 15 in force at 6.2.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/1322/regulation/1)
+
+[^key-d821ef34c5d34535e4bcce7e2b96e421]: Textual amendment: Words in reg. 15(2) inserted (1.10.2024) by [The Ionising Radiation (Medical Exposure) (Amendment) Regulations 2024 (S.I. 2024/896)](https://www.legislation.gov.uk/uksi/2024/896), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/896/regulation/1/2), [14(2)](https://www.legislation.gov.uk/uksi/2024/896/regulation/14/2)
+
+[^key-592fc25ad43bfa9c4d52b7b72cd89e9f]: Textual amendment: Reg. 15(2A) inserted (1.10.2024) by [The Ionising Radiation (Medical Exposure) (Amendment) Regulations 2024 (S.I. 2024/896)](https://www.legislation.gov.uk/uksi/2024/896), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/896/regulation/1/2), [14(3)](https://www.legislation.gov.uk/uksi/2024/896/regulation/14/3)
+
+[^key-fe9bf0392f9ae22fb59381fb55453c06]: Textual amendment: Words in reg. 15(3)(a) substituted (1.10.2024) by [The Ionising Radiation (Medical Exposure) (Amendment) Regulations 2024 (S.I. 2024/896)](https://www.legislation.gov.uk/uksi/2024/896), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/896/regulation/1/2), [14(4)](https://www.legislation.gov.uk/uksi/2024/896/regulation/14/4)
+
+[^key-a9e8c96cb46a2139981d2a732d3e8584]: Textual amendment: Word in reg. 15(5) substituted (1.10.2024) by [The Ionising Radiation (Medical Exposure) (Amendment) Regulations 2024 (S.I. 2024/896)](https://www.legislation.gov.uk/uksi/2024/896), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/896/regulation/1/2), [14(5)](https://www.legislation.gov.uk/uksi/2024/896/regulation/14/5)
+
+[^key-6a4b9c951744b140fcac045acdcabba7]: Commencement: Reg. 16 in force at 6.2.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/1322/regulation/1)
+
+[^key-5698d9aa2ddac5b229e03a0f3c9bad5a]: Commencement: Reg. 17 in force at 6.2.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/1322/regulation/1)
+
+[^key-903a10a4135f62ef8faaba9c24a17e5f]: Commencement: Reg. 18 in force at 6.2.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/1322/regulation/1)
+
+[^f00010]: Footnote: [1974 c. 37](https://www.legislation.gov.uk/ukpga/1974/37); section 15(1) was substituted by paragraph 6 of Schedule 15 to the Employment Protection Act [1975 (c. 71)](https://www.legislation.gov.uk/ukpga/1975/71) and amended by [S.I. 2002/794](https://www.legislation.gov.uk/uksi/2002/794). There are other amendments to section 15 not relevant for the purposes of these Regulations.
+
+[^key-34b6dcb17546c73ac64a17317e62f385]: Commencement: Reg. 19 in force at 6.2.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/1322/regulation/1)
+
+[^key-1eaa2ffdf9235c8d48d8d89d48788617]: Commencement: Reg. 20 in force at 6.2.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/1322/regulation/1)
+
+[^f00011]: Footnote: [S.I. 2000/1059](https://www.legislation.gov.uk/uksi/2000/1059); amended by paragraph (1) of Schedule 8 to the Care Act [2014 (c. 23)](https://www.legislation.gov.uk/ukpga/2014/23), [S.I. 2004/1031](https://www.legislation.gov.uk/uksi/2004/1031), [S.I. 2006/2523](https://www.legislation.gov.uk/uksi/2006/2523), [S.I. 2006/2806](https://www.legislation.gov.uk/uksi/2006/2806), [S.I. 2007/1898](https://www.legislation.gov.uk/uksi/2007/1898), [S.I. 2009/462](https://www.legislation.gov.uk/uksi/2009/462), [S.I. 2011/1567](https://www.legislation.gov.uk/uksi/2011/1567) and [S.I. 2012/1916](https://www.legislation.gov.uk/uksi/2012/1916).
+
+[^f00012]: Footnote: [S.I. 1978/1006](https://www.legislation.gov.uk/uksi/1978/1006), amended by [S.I. 1995/2147](https://www.legislation.gov.uk/uksi/1995/2147), [2005/2754](https://www.legislation.gov.uk/uksi/2005/2754) and [2006/2407](https://www.legislation.gov.uk/uksi/2006/2407).
+
+[^f00013]: Footnote: [S.I. 1978/1004](https://www.legislation.gov.uk/uksi/1978/1004), amended by [S.I. 2006/2407](https://www.legislation.gov.uk/uksi/2006/2407).
+
+[^key-3d7855bd0ac6ab9c26945b80de6ea424]: Commencement: Reg. 21 in force at 6.2.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/1322/regulation/1)
+
+[^key-68edfa55dbeca9dc39c9e80503f4397c]: Commencement: Reg. 22 in force at 6.2.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/1322/regulation/1)
+
+[^f00014]: Footnote: [2015 c. 26](https://www.legislation.gov.uk/ukpga/2015/26). Section 30(3) was amended by the Enterprise Act [2016 (c. 12)](https://www.legislation.gov.uk/ukpga/2016/12), section 19.
+
+[^key-5ccfbe2a0308b75b856686dc4ce1c8ec]: Textual amendment: Words in reg. 22(4) substituted (1.10.2024) by [The Ionising Radiation (Medical Exposure) (Amendment) Regulations 2024 (S.I. 2024/896)](https://www.legislation.gov.uk/uksi/2024/896), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/896/regulation/1/2), [15](https://www.legislation.gov.uk/uksi/2024/896/regulation/15)
+
+[^key-b8769d52b9c102502a8cc17bd5a93466]: Commencement: Sch. 1 para. 1 in force at 6.2.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/1322/regulation/1)
+
+[^key-ff38d9ce9568262c49edb25ae6a8268b]: Commencement: Sch. 1 para. 2 in force at 6.2.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/1322/regulation/1)
+
+[^key-7c577bcec5219209a43097979e397311]: Textual amendment: Words in Sch. 1 para. 2(g) substituted (1.10.2024) by [The Ionising Radiation (Medical Exposure) (Amendment) Regulations 2024 (S.I. 2024/896)](https://www.legislation.gov.uk/uksi/2024/896), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/896/regulation/1/2), [16(2)](https://www.legislation.gov.uk/uksi/2024/896/regulation/16/2)
+
+[^key-3fadd8779d562e5e378bdfdaed747d2b]: Commencement: Sch. 1 para. 3 in force at 6.2.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/1322/regulation/1)
+
+[^key-b855b49daa8217cb4fcdc56f176bf7a5]: Commencement: Sch. 1 para. 4 in force at 6.2.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/1322/regulation/1)
+
+[^key-eeee5aaf0231bf9e2dc1274ce88f4a19]: Textual amendment: Sch. 1 Table 1 substituted (1.10.2024) by [The Ionising Radiation (Medical Exposure) (Amendment) Regulations 2024 (S.I. 2024/896)](https://www.legislation.gov.uk/uksi/2024/896), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/896/regulation/1/2), [16(3)](https://www.legislation.gov.uk/uksi/2024/896/regulation/16/3)
+
+[^key-96f9313f1690a245493460daedf12e73]: Commencement: Sch. 1 para. 5 in force at 6.2.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/1322/regulation/1)
+
+[^key-467b0b81504d032ae2d3952c2d4c7b22]: Commencement: Sch. 1 para. 6 in force at 6.2.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/1322/regulation/1)
+
+[^key-19162814b63f01494e40d6de852c9e0d]: Commencement: Sch. 2 para. 1 in force at 6.2.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/1322/regulation/1)
+
+[^key-cb234d6aa67b4b152ac3c2f631c72e12]: Textual amendment: Words in Sch. 2 para. 1(f) inserted (1.10.2024) by [The Ionising Radiation (Medical Exposure) (Amendment) Regulations 2024 (S.I. 2024/896)](https://www.legislation.gov.uk/uksi/2024/896), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/896/regulation/1/2), [17(a)(i)](https://www.legislation.gov.uk/uksi/2024/896/regulation/17/a/i)
+
+[^key-7514bff9b2ed74b5f24bf9f5cd4caf4e]: Textual amendment: Words in Sch. 2 para. 1(f) substituted (1.10.2024) by [The Ionising Radiation (Medical Exposure) (Amendment) Regulations 2024 (S.I. 2024/896)](https://www.legislation.gov.uk/uksi/2024/896), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/896/regulation/1/2), [17(a)(ii)](https://www.legislation.gov.uk/uksi/2024/896/regulation/17/a/ii)
+
+[^key-43df47176bfd001a016e0158023d4cae]: Textual amendment: Words in Sch. 2 para. 1(g) substituted (1.10.2024) by [The Ionising Radiation (Medical Exposure) (Amendment) Regulations 2024 (S.I. 2024/896)](https://www.legislation.gov.uk/uksi/2024/896), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/896/regulation/1/2), [17(b)](https://www.legislation.gov.uk/uksi/2024/896/regulation/17/b)
+
+[^key-171a4367c7c7a6108bdeb6f4dd83249e]: Textual amendment: Words in Sch. 2 para. 1(j) substituted (1.10.2024) by [The Ionising Radiation (Medical Exposure) (Amendment) Regulations 2024 (S.I. 2024/896)](https://www.legislation.gov.uk/uksi/2024/896), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/896/regulation/1/2), [17(c)](https://www.legislation.gov.uk/uksi/2024/896/regulation/17/c)
+
+[^key-56514f9ea35099990ff7e6277834f904]: Textual amendment: Words in Sch. 2 para. 1(l) substituted (1.10.2024) by [The Ionising Radiation (Medical Exposure) (Amendment) Regulations 2024 (S.I. 2024/896)](https://www.legislation.gov.uk/uksi/2024/896), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/896/regulation/1/2), [17(d)](https://www.legislation.gov.uk/uksi/2024/896/regulation/17/d)
+
+[^key-7b704569ac87ff37e977ef8085a66663]: Textual amendment: Sch. 2 para. 1(o)(p) inserted (1.10.2024) by [The Ionising Radiation (Medical Exposure) (Amendment) Regulations 2024 (S.I. 2024/896)](https://www.legislation.gov.uk/uksi/2024/896), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/896/regulation/1/2), [17(e)](https://www.legislation.gov.uk/uksi/2024/896/regulation/17/e)
+
+[^key-2f11ad11a8a417aff905eb953178d10a]: Commencement: Sch. 3 para. 1 in force at 6.2.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/1322/regulation/1)
+
+[^key-78123e39aa3f5896cafe0bed7f08f752]: Textual amendment: Sch. 3 Table 1 substituted (1.10.2024) by [The Ionising Radiation (Medical Exposure) (Amendment) Regulations 2024 (S.I. 2024/896)](https://www.legislation.gov.uk/uksi/2024/896), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/896/regulation/1/2), [18(a)](https://www.legislation.gov.uk/uksi/2024/896/regulation/18/a)
+
+[^key-a6814bdc28c4e5486d5598f8221d0f2c]: Textual amendment: Sch. 3 Table 2 substituted (1.10.2024) by [The Ionising Radiation (Medical Exposure) (Amendment) Regulations 2024 (S.I. 2024/896)](https://www.legislation.gov.uk/uksi/2024/896), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/896/regulation/1/2), [18(b)](https://www.legislation.gov.uk/uksi/2024/896/regulation/18/b)
+
+[^key-41191a6386e54ccb1c230520712f61ef]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/uksi/2017/1322/schedule/4/paragraph/1) in force at 6.2.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/1322/regulation/1)
+
+[^f00016]: Footnote: [S.I. 2004/1769](https://www.legislation.gov.uk/uksi/2004/1769); there are amending instruments but none is relevant.
+
+[^key-57634cdd7aa258896edd3b9218aeba1b]: Textual amendment: [Sch. 4 para. 1(2)](https://www.legislation.gov.uk/uksi/2017/1322/schedule/4/paragraph/1/2) substituted (6.2.2018) by [The Ionising Radiation (Medical Exposure) (Amendment) Regulations 2018 (S.I. 2018/121)](https://www.legislation.gov.uk/uksi/2018/121), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/121/regulation/1/2), [2(4)(a)](https://www.legislation.gov.uk/uksi/2018/121/regulation/2/4/a)
+
+[^key-79933968944cc32c98ec4752877b048b]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/uksi/2017/1322/schedule/4/paragraph/2) in force at 6.2.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/1322/regulation/1)
+
+[^f00017]: Footnote: [S.I. 2012/1916](https://www.legislation.gov.uk/uksi/2012/1916) as amended by [S.I. 2014/490](https://www.legislation.gov.uk/uksi/2014/490); there are other amending instruments but none is relevant.
+
+[^key-c1436c8deda4e30b4fa96956746541f4]: Textual amendment: [Sch. 4 para. 2(2)](https://www.legislation.gov.uk/uksi/2017/1322/schedule/4/paragraph/2/2) substituted (6.2.2018) by [The Ionising Radiation (Medical Exposure) (Amendment) Regulations 2018 (S.I. 2018/121)](https://www.legislation.gov.uk/uksi/2018/121), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/121/regulation/1/2), [2(4)(b)(i)](https://www.legislation.gov.uk/uksi/2018/121/regulation/2/4/b/i)
+
+[^key-95be4b2f42dca0aeb980aee9c6d8e1e1]: Textual amendment: [Sch. 4 para. 2(3)](https://www.legislation.gov.uk/uksi/2017/1322/schedule/4/paragraph/2/3) substituted (6.2.2018) by [The Ionising Radiation (Medical Exposure) (Amendment) Regulations 2018 (S.I. 2018/121)](https://www.legislation.gov.uk/uksi/2018/121), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/121/regulation/1/2), [2(4)(b)(ii)](https://www.legislation.gov.uk/uksi/2018/121/regulation/2/4/b/ii)
+
+[^key-13345318fbd35afea1805c5cea8ee12d]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/uksi/2017/1322/schedule/4/paragraph/3) in force at 6.2.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/1322/regulation/1)
+
+[^f00018]: Footnote: [S.I. 2017/1075](https://www.legislation.gov.uk/uksi/2017/1075).

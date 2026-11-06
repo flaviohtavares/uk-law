@@ -1,0 +1,57 @@
+---
+title: Co-operative and Community Benefit Societies Act 2014, section 135
+act: Co-operative and Community Benefit Societies Act 2014
+section: '135'
+status: revised-with-pending-changes
+text_date: '2023-08-29'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/ukpga/2014/14/section/135
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Co-operative and Community Benefit Societies Act 2014, section 135
+
+> **Warning: changes not yet applied to this text (4).** Text as at 2023-08-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2014/14
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 135. Power to apply company law provisions on investigations, names and dissolution etc
+
+*Extent: E+W+S*
+
+(1) The Treasury may by regulations—
+
+- (a) make provision applying any provision mentioned in subsection (2) to registered societies, or
+- (b) make provision for registered societies corresponding to any such provision,
+
+in either case, with such modifications as appear to the Treasury to be appropriate.
+
+(2) The provisions are—
+
+- (a) Parts 14 and 15 of the Companies Act 1985 (investigations);
+- (b) Part 5 of the Companies Act 2006 (company names);
+- (c) Part 31 of that Act (dissolution and restoration to the register).
+
+(3) Regulations made by virtue of subsection (2)(a) may amend or repeal any of sections 105 to 107 (inspections, information powers etc).
+
+(4) Regulations made by virtue of subsection (2)(b) may amend or repeal section 10 or 11 (or both) (provisions about a society's name).
+
+(5) Regulations made by virtue of subsection (2)(c) may amend or repeal—
+
+- (a) section 5(3)(c) (cancellation of registration: society having ceased to exist);
+- (b) section 126 (dissolution etc to occur only after society's property dealt with).
+
+(6) Subsections (3) to (5) are not to be read as restricting the power conferred by section 136 (power to make consequential amendments).
+
+(7) The regulations may—
+
+- (a) confer power to make orders, regulations and other subordinate legislation;
+- (b) create criminal offences, but only—
+  - (i) in circumstances corresponding to an offence under the Companies Acts, and
+  - (ii) subject to a maximum penalty no greater than is provided for in respect of the corresponding offence;
+- (c) provide for the charging of fees, but not any charge in the nature of taxation.
+
+(8) The regulations may contain such supplementary, incidental and transitional provisions as appear to the Treasury to be necessary or expedient.
+
+(9) Before making any regulations under this section the Treasury must consult such persons as appear to them to be appropriate.

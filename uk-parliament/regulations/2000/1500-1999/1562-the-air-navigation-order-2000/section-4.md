@@ -1,0 +1,17 @@
+---
+title: The Air Navigation Order 2000, section 4
+act: The Air Navigation Order 2000
+section: '4'
+status: as-enacted
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2000/1562/section/4
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Air Navigation Order 2000, section 4
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+**4.** All provisions other than Articles 27(2), 122 and 134 rely on the domestic powers.

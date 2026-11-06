@@ -1,0 +1,29 @@
+---
+title: The Virgin Islands Constitution Order 2007, section 44
+act: The Virgin Islands Constitution Order 2007
+section: '44'
+status: as-enacted
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2007/1678/section/44
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Virgin Islands Constitution Order 2007, section 44
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+## 44. Advisory Committee on the Prerogative of Mercy
+
+(1) There shall be in and for the Virgin Islands an Advisory Committee on the Prerogative of Mercy (in this section and section 43 referred to as “the Committee”), which shall consist of the Attorney General, the Director of Health Services and four members appointed by the Governor after consultation with the Premier.
+
+(2) The Committee shall not be summoned except by the authority of the Governor, acting in his or her discretion; and the Governor shall preside at all meetings of the Committee.
+
+(3) No business shall be transacted at any meeting of the Committee unless there are at least three members present, of whom one shall be the Attorney General.
+
+(4) The office as a member of the Committee of any member appointed by the Governor under subsection (1) shall become vacant if the Governor, acting after consultation with the Premier, revokes that appointment.
+
+(5) Subject to subsection (3), the Committee shall not be disqualified for the transaction of business by reason of any vacancy in its membership, and the validity of the transaction of any business by the Committee shall not be affected by reason only of the fact that some person who was not entitled to do so took part in the proceedings.
+
+(6) Subject to this section the Committee may regulate its own proceedings.

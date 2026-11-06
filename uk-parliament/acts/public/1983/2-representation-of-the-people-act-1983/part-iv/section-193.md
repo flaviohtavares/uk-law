@@ -1,0 +1,32 @@
+---
+title: Representation of the People Act 1983, section 193
+act: Representation of the People Act 1983
+section: '193'
+status: revised-with-pending-changes
+text_date: '2026-09-30'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/1983/2/section/193
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Representation of the People Act 1983, section 193
+
+> **Warning: changes not yet applied to this text (71).** Text as at 2026-09-30. See https://www.legislation.gov.uk/changes/affected/ukpga/1983/2
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 193. Personation and other voting offences.[^c14479931]
+
+*Extent: E+W+S+N.I.*
+
+In relation to municipal elections in the City—
+
+- (a) in sections 60 , 61 and 62A[^c19484361] above “**vote**” does not include voting otherwise than on a poll; and
+- (b) in section 61(2), paragraph (a)(ii) does not apply.
+
+## Annotations
+
+[^c14479931]: Textual amendment: S. 17(1) substituted (29.1.2001 for certain purposes and 16.2.2001 otherwise) by [2000 c. 2](https://www.legislation.gov.uk/ukpga/2000/2), [s. 8(a)](https://www.legislation.gov.uk/ukpga/2000/2/section/8/a), [Sch. 1 para. 10](https://www.legislation.gov.uk/ukpga/2000/2/schedule/1/paragraph/10); [S.I. 2001/116](https://www.legislation.gov.uk/uksi/2001/116), [art. 2(1)(2)](https://www.legislation.gov.uk/uksi/2001/116/article/2/1/2) (with [art. 2(4)](https://www.legislation.gov.uk/uksi/2001/116/article/2/4))
+
+[^c19484361]: Textual amendment: Words in s. 193(a) substituted (11.9.2006) by [Electoral Administration Act 2006 (c. 22)](https://www.legislation.gov.uk/ukpga/2006/22), [ss. 74(1)](https://www.legislation.gov.uk/ukpga/2006/22/section/74/1), [77](https://www.legislation.gov.uk/ukpga/2006/22/section/77), [Sch. 1 para. 126](https://www.legislation.gov.uk/ukpga/2006/22/schedule/1/paragraph/126); [S.I. 2006/1972](https://www.legislation.gov.uk/uksi/2006/1972), [art. 3](https://www.legislation.gov.uk/uksi/2006/1972/article/3), [Sch. 1 paras. 24](https://www.legislation.gov.uk/uksi/2006/1972/schedule/1/paragraph/24), [25(d)](https://www.legislation.gov.uk/uksi/2006/1972/schedule/1/paragraph/25/d) (subject to transitional provisions in [art. 4](https://www.legislation.gov.uk/uksi/2006/1972/article/4), [Sch. 2](https://www.legislation.gov.uk/uksi/2006/1972/schedule/2))

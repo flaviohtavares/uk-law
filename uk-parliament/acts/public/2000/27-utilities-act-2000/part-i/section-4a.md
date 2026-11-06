@@ -1,0 +1,58 @@
+---
+title: Utilities Act 2000, section 4A
+act: Utilities Act 2000
+section: 4A
+status: revised-with-pending-changes
+text_date: '2026-04-06'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2000/27/section/4A
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Utilities Act 2000, section 4A
+
+> **Warning: changes not yet applied to this text (2).** Text as at 2026-04-06. See https://www.legislation.gov.uk/changes/affected/ukpga/2000/27
+>
+> Extent: England, Wales, Scotland.
+
+## 4A. Information in relation to strategy and policy statement[^key-b9457880ff00e6e77d8f163fd1ac7040]
+
+*Extent: E+W+S+N.I.*
+
+(1) As soon as reasonably practicable after the designation of a statement as the strategy and policy statement, the Authority must publish a document setting out the required information in relation to the statement.
+
+(2) The Authority must include the required information in relation to a strategy and policy statement in the forward work programme for each financial year, subject to making such modifications to the information as the Authority considers appropriate from the version as last published under this subsection.
+
+(3) The required information in relation to a strategy and policy statement to be set out in a document or forward work programme is—
+
+- (a) the strategy the Authority intends to adopt for the purpose of furthering the delivery of the policy outcomes contained in the statement (both in respect of the year in or for which the document or programme is issued and beyond);
+- (b) the things the Authority proposes to do in implementing that strategy (including when the Authority proposes to do them);
+- (c) the ways in which the Authority has had regard to the strategic priorities contained in the statement in setting out the information required under paragraphs (a) and (b).
+
+(4) The duty under subsection (1) does not apply if—
+
+- (a) the Authority does not think it reasonably practicable to publish the document mentioned in that subsection before the time when the Authority is next required to publish a forward work programme, and
+- (b) the Authority includes the required information in that forward work programme.
+
+(5) The duty under subsection (2) does not apply in relation to the first financial year beginning after the designation of the statement if—
+
+- (a) the Authority does not think it reasonably practicable to include the required information in the forward work programme for that year, and
+- (b) the Authority includes the required information in a document published under subsection (1).
+
+(6) The duty under subsection (2) does not apply in relation to a financial year if the Secretary of State gives notice to the Authority under this subsection that the statement's designation—
+
+- (a) will be withdrawn before the beginning of the year, or
+- (b) is expected to have been withdrawn before the beginning of the year.
+
+(7) Subsections (4) to (6) of section 4 (notice requirements) apply to a document published under subsection (1) as they apply to a forward work programme.
+
+(8) In this section—
+
+- “**designation**”, in relation to a strategy and policy statement, means designation of the statement by the Secretary of State under Part 5 of the Energy Act 2013;
+- “**forward work programme**” has the meaning given by section 4(1);
+- “**policy outcomes**”, “**strategic priorities**” and “**strategy and policy statement**” have the same meaning as in Part 5 of the Energy Act 2013.
+
+## Annotations
+
+[^key-b9457880ff00e6e77d8f163fd1ac7040]: Textual amendment: S. 4A inserted (18.2.2014) by [Energy Act 2013 (c. 32)](https://www.legislation.gov.uk/ukpga/2013/32), [ss. 137(2)](https://www.legislation.gov.uk/ukpga/2013/32/section/137/2), [156(2)](https://www.legislation.gov.uk/ukpga/2013/32/section/156/2)

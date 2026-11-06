@@ -1,0 +1,69 @@
+---
+title: Finance Act 2014, section 255
+act: Finance Act 2014
+section: '255'
+status: revised-with-pending-changes
+text_date: '2026-06-25'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2014/26/section/255
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Finance Act 2014, section 255
+
+> **Warning: changes not yet applied to this text (30).** Text as at 2026-06-25. See https://www.legislation.gov.uk/changes/affected/ukpga/2014/26
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 255. Power to obtain information and documents
+
+*Extent: E+W+S+N.I.*
+
+(1) An authorised officer, or an officer of Revenue and Customs with the approval of an authorised officer, may by notice in writing require any person (“P”) to whom this section applies—
+
+- (a) to provide information, or
+- (b) to produce a document,
+
+if the information or document is reasonably required by the officer for any of the purposes in subsection (3).
+
+(2) This section applies to—
+
+- (a) any person who is a monitored promoter, and
+- (b) any person who is a relevant intermediary in relation to a monitored proposal of a monitored promoter,
+
+and in either case that monitored promoter is referred to below as “**the relevant monitored promoter**”.
+
+(3) The purposes mentioned in subsection (1) are—
+
+- (a) considering the possible consequences of implementing a monitored proposal of the relevant monitored promoter for the tax position of persons implementing the proposal,
+- (b) checking the tax position of any person who the officer reasonably believes has implemented a monitored proposal of the relevant monitored promoter, or
+- (c) checking the tax position of any person who the officer reasonably believes has entered into transactions forming monitored arrangements of the relevant monitored promoter.
+
+(4) A person is a “**relevant intermediary**” in relation to a monitored proposal if the person meets the conditions in section 236(a) to (c) (meaning of “intermediary”) in relation to the proposal at any time after the person has been notified of a promoter reference number of a person who is a promoter in relation to the proposal.
+
+(5) In this section “**checking**” includes carrying out an investigation or enquiry of any kind.
+
+(6) In this section “**tax position**”, in relation to a person, means the person's position as regards any tax, including the person's position as regards—
+
+- (a) past, present and future liability to pay any tax,
+- (b) penalties and other amounts that have been paid, or are or may be payable, by or to the person in connection with any tax,
+- (c) claims, elections, applications and notices that have been or may be made or given in connection with the person's liability to pay any tax,
+- (d) deductions or repayments of tax, or of sums representing tax, that the person is required to make—
+  - (i) under PAYE regulations, or
+  - (ii) by or under any other provision of the Taxes Acts, and
+- (e) the withholding by the person of another person's PAYE income (as defined in section 683 of ITEPA 2003).
+
+(7) In this section the reference to the tax position of a person—
+
+- (a) includes the tax position of a company that has ceased to exist and an individual who has died, and
+- (b) is to the person's tax position at any time or in relation to any period.
+
+(8) A notice under subsection (1) which is given for the purpose of checking the tax position of a person mentioned in subsection (3)(b) or (c) may not be given more than 4 years after the person's death.
+
+(9) A notice under subsection (1) may specify or describe the information or documents to be provided or produced.
+
+(10) Information or a document required as a result of a notice under subsection (1) must be provided or produced within—
+
+- (a) the period of 10 days beginning with the day on which the notice was given, or
+- (b) such longer period as the officer who gives the notice may direct.

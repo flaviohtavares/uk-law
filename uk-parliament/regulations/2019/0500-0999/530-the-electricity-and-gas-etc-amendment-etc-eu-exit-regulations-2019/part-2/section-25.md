@@ -1,0 +1,56 @@
+---
+title: The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019, section 25
+act: The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019
+section: '25'
+status: revised
+text_date: '2025-02-27'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2019/530/section/25
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019, section 25
+
+> Text as at 2025-02-27.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 25.[^key-3af233a34daf68ae252fc1b814d9b1d9]
+
+*Extent: E+W+S+N.I.*
+
+(1) Section 19AA (review and revocation of exemptions under section 19A) is amended as follows.
+
+(2) In the heading, omit “Review and”.
+
+(3) Omit subsection (1).
+
+(4) Omit subsection (2).
+
+(5) In subsection (4)—
+
+- (a) in paragraph (a)—
+  - (i) after “if” insert “ before IP completion day[^key-5a909b50f53de90e7546c73f2c71f90d]”;
+  - (ii) after “(1)” insert “ (as it then had effect) ”;
+- (b) in paragraph (b), after “if,” insert “ before IP completion day and ”;
+- (c) for paragraph (c) substitute—
+
+  > - (c) if—
+  >   - (i) before IP completion day the Authority sent the European Commission a copy of the exemption and terms under subsection (1) (as it then had effect), and
+  >   - (ii) the European Commission does not act as described in paragraph (a) or (b) before IP completion day,
+  >
+  >   the date 4 months after the Authority sent the European Commission a copy of the exemption and terms under subsection (1) or IP completion day, whichever is the sooner;
+
+  ;
+- (d) after paragraph (c) insert—
+
+  > - (d) if the decision to give the exemption was published under section 19A(11) on or after IP completion day, the date on which the decision was published under section 19A(11).
+
+  .
+
+## Annotations
+
+[^key-3af233a34daf68ae252fc1b814d9b1d9]: Commencement: Reg. 25 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+
+[^key-5a909b50f53de90e7546c73f2c71f90d]: Textual amendment: Words in reg. 25(5) substituted (15.9.2020) by [The Electricity and Gas etc. (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1016)](https://www.legislation.gov.uk/uksi/2020/1016), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/1/2), [3(9)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/3/9)

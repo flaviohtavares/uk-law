@@ -1,0 +1,61 @@
+---
+title: Income Tax Act 2007, section 747
+act: Income Tax Act 2007
+section: '747'
+status: revised-with-pending-changes
+text_date: '2026-09-16'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2007/3/section/747
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Income Tax Act 2007, section 747
+
+> **Warning: changes not yet applied to this text (14).** Text as at 2026-09-16. See https://www.legislation.gov.uk/changes/affected/ukpga/2007/3
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 747. Amounts corresponding to accrued income profits and related interest
+
+*Extent: E+W+S+N.I.*
+
+(1) This subsection applies if a person—
+
+- (a) would have been treated as—
+  - (i) making qualifying accrued income profits, or
+  - (ii) making qualifying accrued income profits of a greater amount,
+
+  in an interest period, but
+- (b) is not so treated because of being resident [^key-07024f44bb71d41c126a5f7b9a70c97f]... outside the United Kingdom throughout any tax year in which the interest period (or part of it) falls.
+
+(2) If subsection (1) applies, this Chapter applies as if the amount which the person would be treated as making or, as the case may be, the additional amount were income becoming payable to the person.
+
+(3) Accordingly, any reference in this Chapter to income of (or payable or arising to) a person abroad must be read as including a reference to such an amount.
+
+(4) This subsection applies if income consisting of interest which falls due at the end of an interest period—
+
+- (a) would have been income as respects which a person is entitled to an exemption, or an exemption of a greater amount, from liability to income tax under section 679 (interest on securities involving accrued income losses: general), but
+- (b) is not such income because it is income of a person who is resident [^key-08d336fef3119e69c7085280c3d39217]... outside the United Kingdom throughout any tax year in which the interest period (or part of it) falls.
+
+(5) If subsection (4) applies, for the purposes of this Chapter the interest is treated as reduced by the amount of the exemption or, as the case may be, the additional exemption.
+
+(6) In this section—
+
+- (a) expressions which are also used in Chapter 2 of Part 12 (accrued income profits) have the same meaning as in that Chapter (but see subsection (7)), and
+- (b) “**qualifying accrued income profits**” means accrued income profits which are treated as made—
+  - (i) under section 628(5), or
+  - (ii) under section 630(2) in respect of a transfer of variable rate securities.
+
+(7) In the case of qualifying accrued income profits within sub-paragraph (ii) of the definition of that expression in subsection (6)(b)—
+
+- (a) references in subsection (1)(a) to making qualifying accrued income profits in an interest period are to be read as making them in the tax year in which the settlement day falls, and
+- (b) the reference in subsection (1)(b) to the interest period is to the period—
+  - (i) beginning with the day after the last day of the only or last interest period of the securities, and
+  - (ii) ending with the settlement day.
+
+## Annotations
+
+[^key-07024f44bb71d41c126a5f7b9a70c97f]: Textual amendment: Words in [s. 747(1)(b)](https://www.legislation.gov.uk/ukpga/2007/3/section/747/1/b) omitted (for the tax year 2025-26 and subsequent tax years) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 12 paras. 49](https://www.legislation.gov.uk/ukpga/2025/8/schedule/12/paragraph/49), [70(1)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/12/paragraph/70/1)
+
+[^key-08d336fef3119e69c7085280c3d39217]: Textual amendment: Words in [s. 747(4)(b)](https://www.legislation.gov.uk/ukpga/2007/3/section/747/4/b) omitted (for the tax year 2025-26 and subsequent tax years) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 12 paras. 49](https://www.legislation.gov.uk/ukpga/2025/8/schedule/12/paragraph/49), [70(1)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/12/paragraph/70/1)

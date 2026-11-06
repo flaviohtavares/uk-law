@@ -1,0 +1,68 @@
+---
+title: Traffic Management Act 2004, section 57
+act: Traffic Management Act 2004
+section: '57'
+status: not-yet-in-force
+text_date: '2026-09-14'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/2004/18/section/57
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Traffic Management Act 2004, section 57
+
+> This provision is not yet in force.
+>
+> Extent: England, Wales.
+
+## 57. Contributions to costs of re-surfacing by undertaker
+
+*Extent: E+W*
+
+**Not yet in force.**
+
+(1) After section 78 of the 1991 Act there is inserted—
+
+> **78A. Contributions to costs of re-surfacing by undertaker**
+>
+> (1) Where a street authority has given a re-surfacing notice to an undertaker (A)—
+>
+> - (a) the authority shall pay to A a proportion, calculated in the prescribed manner, of the costs reasonably incurred by A in executing the works specified in the notice;
+> - (b) an undertaker to whom subsection (2) applies shall pay to A a proportion, calculated in the prescribed manner, of those costs.
+>
+> (2) This subsection applies to an undertaker if—
+>
+> - (a) he has, after the commencement of this section (whether or not regulations under it have been made) and before the completion of the works specified in the notice, executed street works which involved the breaking up of any part of a street, and
+> - (b) the works specified in the notice include the re-surfacing of that part of the street.
+>
+> (3) The Secretary of State may by regulations prescribe exceptions to the duty imposed by subsection (1)(b).
+>
+> (4) The payments referred to in subsection (1) shall be made in such instalments and manner, and within such period of such event, as may be prescribed.
+>
+> (5) The Secretary of State may by regulations make provision—
+>
+> - (a) requiring a street authority, within such period of such event as may be prescribed, to give to an undertaker to whom subsection (2) applies a notice containing such information as may be prescribed;
+> - (b) requiring a street authority to pay to an undertaker to whom it has given a re-surfacing notice such sum as he has been unable to recover under subsection (1)(b) on account of the insolvency of an undertaker;
+> - (c) requiring disputes of a prescribed description (including disputes as to whether subsection (2) applies to an undertaker) to be determined in such manner and by such persons as may be prescribed.
+>
+> (6) For the purposes of this section, any costs incurred by an undertaker (including any costs of a street authority which are borne by the undertaker) in consequence of a failure by the undertaker to comply with any duty under this Part shall be treated as having been incurred unreasonably.
+>
+> (7) The Secretary of State may by regulations make provision requiring undertakers to make payments to a street authority where—
+>
+> - (a) the authority has given a re-surfacing notice to an undertaker,
+> - (b) that undertaker has exercised a right, conferred by regulations under section 73D, of the sort mentioned in subsection (2)(d) of that section, and
+> - (c) the authority has carried out any of the works specified in the notice.
+>
+> (8) The power in subsection (7) includes power to make provision corresponding to provision that may be made under subsections (1) to (5).
+>
+> (9) Regulations under this section may make different provision for cases where an undertaker mentioned in subsection (1) or (7) has made, or is liable to make, a payment under section 78.
+>
+> (10) The first regulations under this section shall not be made unless a draft of them has been laid before and approved by a resolution of each House of Parliament; subsequent regulations shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+>
+> (11) In subsection (5)(b) “insolvency”—
+>
+> - (a) in relation to a company, has the meaning given by section 247(1) of the Insolvency Act 1986;
+> - (b) in relation to an individual, includes the approval of a voluntary arrangement under Part 8 of that Act.
+
+(2) In section 96 of the 1991 Act, in subsection (3), after “street)” there is inserted “ or 78A (contributions to costs of re-surfacing by undertakers) ”.

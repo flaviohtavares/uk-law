@@ -1,0 +1,86 @@
+---
+title: Local Government Act 1972, section 273
+act: Local Government Act 1972
+section: '273'
+status: revised-with-pending-changes
+text_date: '2026-10-05'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/1972/70/section/273
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Local Government Act 1972, section 273
+
+> **Warning: changes not yet applied to this text (30).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1972/70
+>
+> Extent: England, Wales, Scotland.
+
+## 273. Commencement.
+
+*Extent: E+W*
+
+(1) The provisions of this Act to which this subsection applies shall, except so far as brought into force earlier by an order under subsection (2) below, come into force on 1st April 1974.
+
+(2) The Secretary of State may by order appoint an earlier date for the coming into force of any provision to which subsection (1) above applies and different days may be appointed under this subsection for different purposes and, in particular, different days may be so appointed for the coming into force of the same provision in different areas.
+
+(3) Subsection (1) above applies to the following provisions of this Act, that is to say—
+
+- sections 13, 16(1) and (3) and 17;
+- section 40;
+- section 48(8) and (9);
+- section 50(4) to (7);
+- sections 53 to 59 and Schedule 8;
+- section 62;
+- section 75;
+- section 89(6);
+- section 100;
+- Parts VI to XI, except as provided by subsections (4) and (5) below;
+- section 251 and Schedule 29;
+- section 262(3) to (7);
+- section 272 and Schedule 30;
+- paragraphs 5 to 9 and 10(2) of Schedule 6;
+- in Schedule 12, Parts II and III, and Part VI so far as applicable to parish councils.
+
+(4) Subsection (1) above shall not apply to the following provisions of Parts VI to XI of this Act, that is to say—
+
+- sections 104 and 106;
+- section 110;
+- section 117;
+- section 138;
+- section 169;
+- section 181(3) to (9) and (11);
+- so much of section 183 as confers a power to make or direct the making or amendment of development plan schemes and so much of section 182 as applies to the interpretation of the provisions relating to such schemes;
+- section 186(6) and (7);
+- section 190(4);
+- section 192(3);
+- section 196(6) to (9);
+- section 197(2) and (3);
+- section 198(3) and (4);
+- section 200;
+- section 201(3) and (4);
+- section 202(4) to (8);
+- section 205;
+- section 207(2) to (8);
+- section 215(4);
+- section 220(4);
+- section 232;
+- section 242;
+- section 243;
+- paragraph 27(2) of Schedule 13 and so much of section 172 as relates thereto.
+
+(5) [^c18867941]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(6) [^c18867941]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(7) [^c18867941]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(8) [^c18867941]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(9) [^c18867941]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(10) [^c18867941]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Annotations
+
+[^c18867941]: Textual amendment: S. 273(5)-(10) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [s. 1(1)](https://www.legislation.gov.uk/ukpga/2004/14/section/1/1), {Sch. 1 Pt. 10 Group 1}

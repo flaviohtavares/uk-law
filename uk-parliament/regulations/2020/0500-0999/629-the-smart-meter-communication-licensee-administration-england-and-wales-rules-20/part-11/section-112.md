@@ -1,0 +1,31 @@
+---
+title: The Smart Meter Communication Licensee Administration (England and Wales) Rules 2020, section 112
+act: The Smart Meter Communication Licensee Administration (England and Wales) Rules 2020
+section: '112'
+status: as-enacted
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2020/629/section/112
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Smart Meter Communication Licensee Administration (England and Wales) Rules 2020, section 112
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+## 112. Witness statements
+
+(1) Subject to Rule 113, where evidence is required by the 1986 Act or these Rules as to any matter, such evidence may be given by witness statement unless—
+
+- (a) in any specific case a Rule or the 1986 Act makes different provision; or
+- (b) the court otherwise directs.
+
+(2) Unless the provisions of the 1986 Act or these Rules under which the application is made provide otherwise, or the court otherwise directs—
+
+- (a) if the applicant intends to rely at the first hearing on evidence in a witness statement, the applicant must file the witness statement with the court and serve a copy on the respondent, not less than 14 days before the date fixed for the hearing; and
+- (b) where a respondent to an application intends to oppose it and rely for that purpose on evidence in a witness statement, the respondent must file the witness statement with the court and serve a copy on the applicant, not less than five business days before the date fixed for the hearing.
+
+(3) The court may, on the application of any party to the matter in question, order the attendance for cross-examination of the person making the witness statement.
+
+(4) Where, after such an order has been made, the person in question does not attend, that person’s witness statement must not be used in evidence without the permission of the court.

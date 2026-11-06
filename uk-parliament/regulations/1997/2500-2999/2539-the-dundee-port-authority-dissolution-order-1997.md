@@ -1,0 +1,63 @@
+---
+title: The Dundee Port Authority (Dissolution) Order 1997
+id: uksi/1997/2539
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '1997-10-24'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1997/2539
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1997/2539/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Dundee Port Authority (Dissolution) Order 1997
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+1997 No. 2539
+
+HARBOURS, DOCKS, PIERS AND FERRIES
+
+The Dundee Port Authority (Dissolution) Order 1997
+
+Made
+
+24th October 1997
+
+Whereas the Secretary of State is for the purposes of Part I of the Ports Act 1991[^f00001] the appropriate Minister in relation to Dundee Port Authority;
+
+And whereas the Secretary of State is satisfied as to the matters mentioned in paragraphs (a), (b) and (c) of subsection (1) of section 7 of the said Act:
+
+Now, therefore, the Secretary of State, after consulting the said authority in pursuance of the said subsection (1), in exercise of the powers conferred on him by that subsection, hereby makes the following Order:—
+
+## 1. Citation
+
+This Order may be cited as the Dundee Port Authority (Dissolution) Order 1997.
+
+## 2. Dissolution of the authority
+
+The Dundee Port Authority shall be dissolved on 27th October 1997.
+
+Signed by authority of the Secretary of State for Transport
+
+Glenda Jackson
+
+Parliamentary Under Secretary of State
+
+Department of the Environment, Transport and the Regions
+
+24th October 1997
+
+(This note is not part of the Order)
+
+This Order dissolves the Dundee Port Authority on 27th October 1997.
+
+## Annotations
+
+[^f00001]: Footnote: [1991 c. 52](https://www.legislation.gov.uk/ukpga/1991/52); for the definition of “the appropriate Minister”, see section 20(1) and (2).

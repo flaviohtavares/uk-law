@@ -1,0 +1,85 @@
+---
+title: Finance Act 2014, section 277
+act: Finance Act 2014
+section: '277'
+status: revised-with-pending-changes
+text_date: '2026-06-25'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2014/26/section/277
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Finance Act 2014, section 277
+
+> **Warning: changes not yet applied to this text (30).** Text as at 2026-06-25. See https://www.legislation.gov.uk/changes/affected/ukpga/2014/26
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 277. Extended time limit for assessment
+
+*Extent: E+W+S+N.I.*
+
+(1) In section 36 of TMA 1970 (loss of tax brought about carelessly or deliberately), in subsection (1A)—
+
+- (a) omit the “or” following paragraph (b), and
+- (b) at the end of paragraph (c) insert
+
+  > or
+  >
+  > - (d) attributable to arrangements which were expected to give rise to a tax advantage in respect of which the person was under an obligation to notify the Commissioners for Her Majesty's Revenue and Customs under section 253 of the Finance Act 2014 (duty to notify Commissioners of promoter reference number) but failed to do so,
+
+  .
+
+(2) In paragraph 12B of Schedule 2 to OTA 1975 (extended time limits for assessment of petroleum revenue tax)—
+
+- (a) in sub-paragraph (1), after “sub-paragraph (2)” insert “ and (2A) ”,
+- (b) after sub-paragraph (2) insert—
+
+  > (2A) In a case involving a relevant situation brought about by arrangements which were expected to give rise to a tax advantage in respect of which a participator (or a person acting on behalf of a participator) was under an obligation to notify the Board under section 253 of the Finance Act 2014 (duty to notify Commissioners of promoter reference number) but failed to do so, an assessment (or an amendment of an assessment) on the participator may be made at any time not more than 20 years after the end of the relevant chargeable period.
+
+  ,
+- (c) in sub-paragraph (5), for “or (2)” substitute “ , (2) or (2A) ”, and
+- (d) in sub-paragraph (6), for “or (2)” substitute “ , (2) or (2A) ”.
+
+(3) In section 240 of IHTA 1984 (underpayments)—
+
+- (a) in subsection (3) for “and (5)” substitute “ to (5A) ”,
+- (b) in subsection (5), for “those dates” substitute “ the dates in subsection (2)(a) and (b) ”,
+- (c) after subsection (5) insert—
+
+  > (5A) Proceedings in a case involving a loss of tax attributable to arrangements which were expected to give rise to a tax advantage in respect of which a person liable for the tax was under an obligation to make a report under section 253 of the Finance Act 2014 (duty to notify Commissioners of promoter reference number) but failed to do so, may be brought at any time not more than 20 years after the later of the dates in subsection (2)(a) and (b).
+
+  , and
+- (d) in subsection (8), for “, (5) and (6)” substitute “ to (6) ”.
+
+(4) In paragraph 46 of Schedule 18 to FA 1998 (general time limits for assessments to corporation tax), in sub-paragraph (2A)—
+
+- (a) omit the “or” following paragraph (b), and
+- (b) at the end of paragraph (c) insert
+
+  > or
+  >
+  > - (d) attributable to arrangements which were expected to give rise to a tax advantage in respect of which the company was under an obligation to notify the Commissioners for Her Majesty's Revenue and Customs under section 253 of the Finance Act 2014 (duty to notify Commissioners of promoter reference number) but failed to do so,
+
+  .
+
+(5) In paragraph 31 of Schedule 10 to FA 2003 (time limit for assessment of stamp duty land tax), in sub-paragraph (2A)—
+
+- (a) omit the “or” following paragraph (b), and
+- (b) at the end of paragraph (c) insert
+
+  > or
+  >
+  > - (d) attributable to arrangements which were expected to give rise to a tax advantage in respect of which the person was under an obligation to notify the Commissioners for Her Majesty's Revenue and Customs under section 253 of the Finance Act 2014 (duty to notify Commissioners of promoter reference number) but failed to do so,
+
+  .
+
+(6) In paragraph 25 of Schedule 33 to FA 2013 (time limit for assessment: annual tax on enveloped dwellings), in sub-paragraph (4)—
+
+- (a) omit the “or” following paragraph (b), and
+- (b) at the end of paragraph (c) insert
+
+  > , or
+  >
+  > - (d) attributable to arrangements which were expected to give rise to a tax advantage in respect of which the person was under an obligation to notify the Commissioners for Her Majesty's Revenue and Customs under section 253 of FA 2014 (duty to notify Commissioners of promoter reference number) but failed to do so.

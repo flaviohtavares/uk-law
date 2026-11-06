@@ -1,0 +1,1005 @@
+---
+title: The Excise Goods (Holding, Movement and Duty Point) (Amendment etc.) (EU Exit) Regulations 2019
+id: uksi/2019/13
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2019-01-14'
+text_date: '2020-12-31'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2019/13
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2019/13/pdfs/uksiem_20190013_en_001.pdf
+- http://www.legislation.gov.uk/uksi/2019/13/pdfs/uksi_20190013_en.pdf
+- http://www.legislation.gov.uk/uksi/2019/13/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Excise Goods (Holding, Movement and Duty Point) (Amendment etc.) (EU Exit) Regulations 2019
+
+> Text as at 2020-12-31.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2019 No. 13
+
+Exiting The European Union
+
+Excise
+
+The Excise Goods (Holding, Movement and Duty Point) (Amendment etc.) (EU Exit) Regulations 2019
+
+Made
+
+14th January 2019
+
+Laid before the House of Commons
+
+15th January 2019
+
+Coming into force in accordance with regulation 1
+
+The Commissioners for Her Majesty's Revenue and Customs make these Regulations in exercise of the powers conferred by—
+
+- (a) sections 93(1), (2)(a), (e), (fa), (fb) (fc), (3), (4), (5) and (5A), 100G, 100H, 118A(1) and (2) and 127A of the Customs and Excise Management Act 1979 [^c23683671];
+- (b) sections 41A(7)(c), 56(1)(b) and (d) and 62(5)(b) and (d) of the Alcoholic Liquor Duties Act 1979 [^c23683681];
+- (c) section 7(1)(b) and (ba) of the Tobacco Products Duty Act 1979 [^c23683691];
+- (d) section 1 of the Finance (No. 2) Act 1992 [^c23683701]; and
+- (e) sections 45(1), (2)(a), (b) and (j), 48(11) and 52(2) and (5)(b) of the Taxation (Cross-border Trade) Act 2018 [^c23683711].
+
+The Commissioners for Her Majesty's Revenue and Customs consider it appropriate in consequence of, or otherwise in connection with, the withdrawal of the United Kingdom from the European Union, that the following Regulations come into force on such day as the Treasury may by regulations under section 52(2) of the Taxation (Cross-border Trade) Act 2018 appoint, and to make the transitional and savings provisions contained in regulation 42 and Part 4 of these Regulations.
+
+## PART 1 — Preliminary
+
+### 1. Citation, commencement and interpretation[^key-9896da805856c550b4e5780baebad4a0]
+
+These Regulations may be cited as the Excise Goods (Holding, Movement and Duty Point) (Amendment etc.) (EU Exit) Regulations 2019 and come into force on such day as the Treasury may by regulations under section 52(2) of the Taxation (Cross-border Trade) Act 2018 appoint.
+
+### 2.[^key-6618f7a9b353d413f1bdf7dc89cd418b]
+
+In these Regulations the “**Principal Regulations**” means the Excise Goods (Holding, Movement and Duty Point) Regulations 2010 [^c23683721].
+
+## PART 2 — Amendments to the Excise Goods (Holding, Movement and Duty Point) Regulations 2010
+
+### 3. General provisions[^key-2e1de8c939237a481a06fd70dc49e617]
+
+The Principal Regulations are amended in accordance with regulations 4 to 40.
+
+### 4.[^key-a8187201b9cf8e6f1f2576c638f04612]
+
+Omit “UK” from before “registered consignor” or “registered consignors” in these places—
+
+- (a) regulation 9(1)(b)(ii);
+- (b) regulation 19(7)(b);
+- (c) the heading of Part 4;
+- (d) regulation 30(2);
+- (e) regulation 31, in each place where it occurs in paragraphs (1) to (5);
+- (f) regulation 32, in each place where it occurs in sub-paragraphs (a) to (c);
+- (g) regulation 33;
+- (h) regulation 37(b);
+- (i) regulation 86(c).
+
+### 4A.[^M_I_274d9be0-9209-4892-9c4f-31ff5cf0b753][^key-9ded788a4f5ca96d52fea63375944254]
+
+Insert “UK” before “computerised system” in these places—
+
+- (a) regulation 3, in the definitions “report of export” and “report of receipt;
+- (b) regulation 19(3)(b);
+- (c) regulation 56(2)(a);
+- (d) regulation 57(4), (5) and (6);
+- (e) regulation 58(1) and (3);
+- (f) regulation 59(1), (3) and (4);
+- (g) in the heading to regulation 60;
+- (h) regulation 60(1), (3)(c) and (4);
+- (i) in the heading to regulation 60A;
+- (j) regulation 60A(2);
+- (k) in the heading to regulation 61;
+- (l) regulation 61(1);
+- (m) in Schedule 1 (civil penalties – relevant regulations) in the descriptions of regulations 60(2) and (4), 60A and 61.
+
+### 5.[^key-abb14bad2a8e2f904bb88c19f1c1b768]
+
+For “Article 79 of Council Regulation 2913/92/EEC” substitute “ Part 1 of the TCTA 2018 ” in these places—
+
+- (a) regulation 9(1)(b)(ii);
+- (b) regulation 30(1).
+
+### 6. Amendments to Part 1[^key-62d91b9e27fefac6aaf561f5287a1e91]
+
+After regulation 2 insert—
+
+> **2A.**
+>
+> On the day that the Excise Goods (Holding, Movement and Duty Point) (Amendment etc.) (EU Exit) Regulations 2019 come into force—
+>
+> - (a) regulation 2(a) and (b) ceases to have effect in relation to “UK registered consignors” but continues to have effect in relation to “registered consignees”, and
+> - (b) regulation 2(c) ceases to have effect in relation to the procedures in part 6. [^key-68facce9fc8de17c6920e4064e4cfff8]...
+>
+> **2B.[^key-c39fca6fa00661b9956ef4ac0bde737a]**
+>
+> These Regulations have effect subject to the Northern Ireland Regulations 2020 which apply to excise goods in Northern Ireland where specified in those Regulations.
+
+### 7.[^key-54e8b1e60bcc7f46030b8df490f3d222]
+
+(1) Regulation 3 (interpretation) is amended as follows.
+
+(2) In paragraph (1)—
+
+- (a) omit the following definitions—
+  - (i) “accompanying document”;
+  - (ia)[^key-c666cb5a0f07566d953e4a0b9331f177] “computerised system”;
+  - (ii) “customs office of exit”;
+  - (iii) “the Directive”;
+  - (iv) “distance selling arrangement”;
+  - (v) “EU” and “territory of the EU”;
+  - (vi) “EU requirements”;
+  - (vii) “exempt consignee”;
+  - (viii) “exemption certificate”;
+  - (ix) “fallback report of export”;
+  - (x) “Member State”, “territory of a Member State” and “another Member State”;
+  - (xi) “own use”;
+  - (xii) “place of direct delivery”;
+  - (xiii) “registered commercial importer”;
+  - (xiv) “registered consignee”;
+  - (xv) “tax representative”;
+  - (xvi) “temporary registered consignee”;
+  - (xvii) “UK registered consignee”;
+  - (xviii) “UK registered consignor”;
+  - (xix) “vendor”;
+- (b) in the definition of “authorised warehousekeeper”—
+  - (i) omit the introductory words of (a);
+  - (ii) omit everything from “and” at the end of (v) to the end of the definition;
+- (c) after the definition of “CEMA 1979” insert—
+
+  > “**change of destination message**” means the message submitted by the consignor of excise goods using the UK[^key-fc7d521870c274bafacc4dbdbe0bf2c5] computerised system notifying the Commissioners of a change of destination of those goods;
+
+  ;
+- (d)[^key-1e9b1e23370a031411ed0013930d3727] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e)[^key-aba5cd9ca543a5bc8e808dc1509ac410] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (f) for the definition of “electronic administrative document” substitute—
+
+  > “**electronic administrative document**” means the message submitted by the consignor to the Commissioners using the UK[^key-33bf652106c785bc8a55630b56537903] computerised system under cover of which a movement of excise goods takes place under a duty suspension arrangement;
+
+  ;
+- (g) after the definition of “electronic administrative document” insert—
+
+  > “**EMCS requirements**” means the requirements specified in the notice published by the Commissioners in accordance with regulation 56(2) and—
+  >
+  > - (a) in the case of a draft electronic administrative document and an electronic administrative document, the respective requirements set out in paragraphs (2A) and (9) of regulation 57;
+  > - (b) in the case of a fallback accompanying document, the requirements set out in paragraphs (2)(b) and (2A) of regulation 60;
+  > - (c) in the case of a fallback report of receipt, the requirements set out in paragraphs (1) and (1A) of regulation 61;
+  > - (d) in the case of a report of receipt, the requirements set out in regulation 59(1);
+  > - (e) in the case of a report of export, the requirements set out in regulation 59A(3);
+
+  ;
+- (h) for the definition of “energy products” substitute—
+
+  > “**energy products**” means hydrocarbon oil, biodiesel, bioethanol, aqua methanol, road fuel gas, fuel substitute or any mixture of such products charged to excise duty or treated as such under sections 6 to 8, 20AAA, 20AAD and 23C of the Hydrocarbon Oil Duties Act 1979 [^c23683731], or pursuant to an order made under section 10 of the Finance Act 1993 [^c23683741];
+
+  ;
+- (i) for the definition of “excise duty” substitute—
+
+  > “**excise duty**” has the meaning given to it in section 49 of the TCTA 2018;
+
+  ;
+- (j) for the definition of “excise goods” substitute—
+
+  > “**excise goods**” means goods which are chargeable with excise duty and goods which are treated as chargeable with excise duty under section 23C of the Hydrocarbon Oil Duties Act 1979 [^c23683751];
+
+  ;
+- (k) in the definition of “fallback accompanying document” for “Article 26(1)(a) of the Directive” substitute “ regulation 60(2)(b) ”;
+- (l) in the definition of “fallback report of receipt” for “Article 27(1) of the Directive” substitute “ regulation 61(1) ”;
+- (m) after the definition of “fallback report of receipt” insert—
+
+  > “**irregularity**” means a situation occurring in the course of a movement of excise goods under a duty suspension arrangement, other than a relevant event referred to in regulation 21, as a result of which the movement, or a part of that movement, has not ended in accordance with regulation 3(3)(b);
+
+  ;
+- (ma)[^key-ed64b6194badb31af8a9a0b60368993e] after the definition of “irregularity” insert—
+
+  > - “Northern Ireland Regulations 2020” mean the Excise Goods (Holding, Movement and Duty Point) Regulations 2010 as modified and applied in relation to excise goods in Northern Ireland by the Excise Duties (Miscellaneous Modifications and Amendments) (EU Exit) Regulations 2020;
+- (n)[^M_F_7e1dfbee-a3ea-465f-a782-a68914645a00] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (o) for the definition of “registered consignor” substitute—
+
+  > “**registered consignor**” has the meaning given by regulation 30(2);
+
+  ;
+- (p) in the definition of “report of export”—
+  - (i) for the words from “competent authorities” to “is situated” substitute “ Commissioners ”; and
+  - (ii) for “EU” substitute “ United Kingdom ”;
+- (q) in the definition of “report of receipt” for “competent authorities of the Member State of destination” substitute “ Commissioners ”;
+- (r) in the definition of “tax warehouse”—
+  - (i) omit the introductory words at (a); and
+  - (ii) omit everything from “and” at the end of (v) to the end of the definition;
+- (s) after the definition of “tax warehouse” insert—
+
+  > “**TCTA 2018**” means the Taxation (Cross-border Trade) Act 2018;
+
+  .
+- (t)[^key-195b7af99f47ac132b8da86910854f12] after the definition of “transporter” insert—
+
+  > - UK computerised system” means the computerised system for monitoring the movement of excisable products in the UK;
+
+  .
+
+(3) Omit paragraph (2).
+
+(4) In paragraph (3)—
+
+- (a)[^key-41f891acd83ada7dd28974479a0b7e2c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) in sub-paragraph (b)(ii) for “EU” substitute “ United Kingdom ”.
+
+(5) Omit paragraph (4).
+
+### 8.[^key-5f335f2619480b62489282c17745aaa5]
+
+Omit regulation 4.
+
+### 8A.[^M_I_137888fc-b29a-4f04-9014-96ad9de1a221][^key-ab67978854b32ae14ca3410e86d1a7d0]
+
+In regulation 5 (goods released for consumption in the United Kingdom – excise duty point) for “regulation 7(2)” substitute “regulations 7(2) and 7A”.
+
+### 9. Amendments to Part 2[^key-ccc35335a5b0eb04ff32d92e9071f342]
+
+(1) Regulation 6 is amended as follows.
+
+(2) In paragraph (1)(b) omit “UK”.
+
+(3)[^key-c538cbdaffb9bfca030ece652b63a3e3] In paragraph (2)(a) omit “other than EU excise goods”.
+
+(3A)[^key-18bddf9cae248c0cb184626d0c09d932] At end of paragraph (2)(a) omit “or”.”;
+
+(3B) After paragraph 2(a) insert—
+
+> - (ab) the entry into Great Britain of excise goods from Northern Ireland where those goods have been exported from an EU Member State to Great Britain and began their journey in an EU Member State;
+
+.
+
+(4) Omit paragraph (3).
+
+### 10.[^key-78d9af0e92590b738625249ee74a0270]
+
+(1) Regulation 7 is amended as follows.
+
+(2) In paragraph (1)—
+
+- (a) in sub-paragraph (a)(i) for “regulation 35(a)” substitute “ regulation 37(a) ”;
+- (b) omit sub-paragraphs (c), (d) and (f);
+- (c) in sub-paragraph (g)(i) for “regulation 35(a)” substitute “ regulation 37(a) ”; and
+- (d) in sub-paragraph (h) omit “, in the United Kingdom”.
+
+(3) Omit paragraphs (3) and (4).
+
+### 10A.[^M_I_d99bfb0b-c56d-4114-b9fb-ae7a909388b0][^key-c0a3cb14168ff445b24b27fb4ea2cc85]
+
+After regulation 7 insert—
+
+> **7A.** (1) An excise duty point does not arise by virtue of regulation 6(1)(d) where excise goods enter Great Britain from the Republic of Ireland having merely passed through the Republic of Ireland and it is shown to the satisfaction of the Commissioners that UK excise duty has been paid on those goods in Northern Ireland.
+>
+> (2) The Commissioners may in a notice published by them specify details of the evidence that will be accepted as demonstrating that the conditions in paragraph (1) have been complied with.
+
+.
+
+### 11.[^key-ce78381a672e9e9aad1cad41b4d53877]
+
+In regulation 8(1) omit “, the UK registered consignee”.
+
+### 12.[^key-15b7a9d95f9991597fd6cf8d34e909b4]
+
+(1) Regulation 9 is amended as follows—
+
+(2) In the introductory wording to paragraph (1) omit “in the United Kingdom”.
+
+(3) In paragraph (1)(b)(i) omit “in the United Kingdom”.
+
+(4) Omit paragraph (3).
+
+### 13.[^key-6e443f02cc9c90c65838dda712074e3b]
+
+In regulation 12(1) omit the words “that have not” to “EU”.
+
+### 14.[^key-2520422c2f8dcf512f685632ee2249fe]
+
+Omit regulations 13 to 17.
+
+### 15.[^key-9e4fe161fc55e81ba9eea9f9264c20a1]
+
+(1) Regulation 19 is amended as follows.
+
+(2) Omit paragraphs (2) and (5).
+
+(3) In paragraph (6) omit —
+
+- (a) sub-paragraph (a); and
+- (b) everything from the semi-colon at the end of sub-paragraph (b) to the end of the paragraph, but not the full-stop.
+
+(4) In paragraph (7)—
+
+- (a) omit sub-paragraphs (a) and (c); and
+- (b) at the end of sub-paragraph (b) for the semi-colon substitute a full-stop.
+
+### 16.[^key-733625c9b1fdb31bfb3b4e69447c3bc1]
+
+(1) Regulation 21 is amended as follows.
+
+(2) For paragraph (1) substitute—
+
+> (1) This regulation applies where the occurrence of a relevant event is proven to the satisfaction of the Commissioners.
+
+.
+
+(3) In paragraph (2)(d) for “competent authorities of a Member State” substitute “ Commissioners ”.
+
+(4) For paragraph (3) substitute—
+
+> (3) If at the time of the relevant event, the excise goods were under a duty suspension arrangement, the occurrence of the event shall not be considered as a release for consumption.
+
+.
+
+### 17. Revocation of Part 3[^key-999115ff7c4c115a3b13ad9162836da7]
+
+Omit Part 3.
+
+### 18. Amendments to Part 5[^key-a399608995ebe79173f7b18725c64172]
+
+Omit regulations 35 and 36.
+
+### 19.[^key-6ea9851392ddca5f1869b223fea6bb07][^key-916d66efb01c4b73d95dc4c8bf70bcfd]
+
+In regulation 37—
+
+- (a) make the existing text paragraph (1);
+- (b) in paragraph (1)(a)(ii) for “EU” substitute “United Kingdom”;
+- (c) after the paragraph (1) insert—
+
+  > (2) The modifications in paragraphs (3) and (4) apply in cases where excise goods are being transported between Great Britain and Northern Ireland in either direction (and accordingly regulation 37 of the Northern Ireland Regulations 2020 applies in respect of the part of the journey in Northern Ireland).
+  >
+  > (3) Where excise goods are sent from a place in Great Britain to a place in Northern Ireland—
+  >
+  > - (a) the references in paragraph (1)(a)(ii) and Part 8 to a place from where the goods will leave the United Kingdom include references to a place from where the goods will leave Great Britain for Northern Ireland; but
+  > - (b) regulation 59A does not apply to the movement.
+  >
+  > (4) Where excise goods are sent from a place in Northern Ireland to a place in Great Britain, the references in paragraph (1)(b) and Part 8 to the place of importation include references to the place where the goods arrive in Great Britain from Northern Ireland.
+
+  .
+
+### 20.[^key-4f1c1da23b07cfee577d20ab6c329efb]
+
+In regulation 39(1)(b) omit “Part 6, Part 7,”.
+
+### 21. Revocation of Parts 6 and 7[^key-9d698a10ee3ad9e563f6181984dc1928]
+
+Omit Parts 6 and 7.
+
+### 22. Amendments to Part 8[^key-fb01f029c8a4b1237715665270fe0beb]
+
+(1) Regulation 56 is amended as follows.
+
+(2) The existing text becomes paragraph (1).
+
+(3) In that paragraph—
+
+- (a)[^key-4b0fa19974005565d54bfc81117b5474] for “regulation 58(3)” substitute “regulation 56A(1);”.
+- (b) in sub-paragraph (a) omit “after 31<sup>st</sup> December 2010”.
+
+(4)[^key-6106d6b55accabe7694616443b4dcf94] After that paragraph insert—
+
+> (1A) This Part also applies to the movement of the energy products mentioned in Article 20(1) of Council [Directive 2003/96/EC](https://www.legislation.gov.uk/eudr/2003/0096) of 27 October 2003 restructuring the Community framework for the taxation of energy products and electricity from a place of importation to—
+>
+> - (a) a tax warehouse; or
+> - (b) a place from where they will leave the territory of the United Kingdom,
+>
+> where the energy products do not at any time leave the United Kingdom during the course of the movement.
+>
+> (2)
+>
+> - (a) The Commissioners must publish a notice specifying the requirements for the electronic messages to be sent using the UK[^key-49fc35bde5175a505e68b17cfca16b80] computerised system, namely—
+>   - (i) the electronic administrative document;
+>   - (ii) the cancellation message referred to in regulation 58(2);
+>   - (iii) the change of destination message;
+>   - (iv) the notification of change of destination message referred to in regulation 58(9); and
+>   - (v) the report of receipt and report of export; and
+> - (b) for each message, the notice must specify the data elements required structured in data groups and, where applicable, data subgroups.
+
+.
+
+### 22A.[^M_I_70edf26d-0642-46f8-d9af-c54c8df4ae95][^key-676b94526896100496454ecbaca084f4]
+
+After regulation 56 insert—
+
+> **56A. Northern Ireland – special provisions**
+>
+> (1) Parts 8 and 9 do not apply to the movement of excise goods under duty suspension where—
+>
+> - (a) the goods have been dispatched from an EU Member State in duty suspension to a tax warehouse in Northern Ireland travelling via Great Britain;
+> - (b) the movement ends in a tax warehouse in Northern Ireland.
+>
+> (2) In the case of a movement of goods from Great Britain to Northern Ireland to which Part 8 or 9 applies the consignor must be a NI registered consignor under the Northern Ireland Regulations 2020.
+
+.
+
+### 23.[^key-c0cafe090832086f4bc3bd2598be4651]
+
+(1) Regulation 57 is amended as follows.
+
+(1A)[^key-4113b6930cd9dc45ff0d3a5bfaf0abe3] After paragraph (1) insert—
+
+> (1A) Where the excise goods are dispatched from Great Britain to Northern Ireland (or vice versa) in duty suspension and the goods are placed under a further duty suspension arrangement immediately upon importation into Northern Ireland or Great Britain (as the case may be) only one electronic administrative document needs to be used.
+
+.
+
+(2) In paragraph (2) for “EU requirements” substitute “ requirements set out in paragraphs (2A) and (9) ”.
+
+(3) After paragraph (2) insert—
+
+> (2A) The draft electronic administrative document must be submitted no earlier than 7 days before the date indicated on that document as the date of dispatch of the excise goods concerned.
+
+.
+
+(4) After regulation (8) insert—
+
+> (9) The draft electronic administrative document referred to in paragraph (2) and the electronic administrative document to which a unique administrative reference code has been assigned in accordance with paragraph (5) must comply with the requirements for those documents specified in the notice published by the Commissioners in accordance with regulation 56(2).
+
+.
+
+### 24.[^key-8dc1f9bad5b240c23579e11d6e5bcad7]
+
+(1) Regulation 58 is amended as follows.
+
+(2) In paragraph (2) for the words from “comply” to the end substitute “ complete a draft cancellation message and send it to the Commissioners using the UK[^key-37fd91683e63e2282effe52642deeaa5] computerised system. ”.
+
+(3) Insert the following paragraphs immediately after paragraph (2)—
+
+> (2A) The draft cancellation message must comply with the requirements for that message specified in the notice published by the Commissioners in accordance with regulation 56(2).
+>
+> (2B) The Commissioners must carry out an electronic verification of the data in the draft cancellation message.
+>
+> (2C) Where the data in the document are invalid, the Commissioners must, using the UK[^key-337664166773b7391777b52242e98cc9] computerised system, inform the consignor of that fact without delay.
+>
+> (2D) Where the data in the document are valid, the Commissioners must—
+>
+> - (a) add the date and time of validation to the cancellation message and communicate that information to the consignor;
+> - (b) where the consignee is an authorised warehousekeeper, forward the cancellation message to the consignee.
+
+.
+
+(4) In paragraph (4)—
+
+- (a) insert “ or ” at the end of sub-paragraph (a);
+- (b) omit sub-paragraph (b);
+- (c) in sub-paragraph (c) for “EU” substitute “ United Kingdom ”; and
+- (d) omit everything from the semi-colon at the end of sub-paragraph (c) to the end of the paragraph, but not the full-stop.
+
+(5) In paragraph (5) for the words from “comply” to the end substitute “ complete a draft change of destination message and send it to the Commissioners using the UK[^key-c5127b8f058d3e75c7d4447764feadaa] computerised system. ”.
+
+(6) For paragraph (6) substitute—
+
+> (6) The draft change of destination message must comply with the requirements for that message specified in the notice published by the Commissioners in accordance with regulation 56(2).
+
+.
+
+(7) After paragraph (6) insert—
+
+> (7) The Commissioners must carry out an electronic verification of the data in the draft change of destination message.
+>
+> (8) Where the data in the message are invalid, the Commissioners must, using the UK[^key-dd46b380a4d2a8c2ddb0a0f681e693cd] computerised system, inform the consignor of that fact without delay.
+>
+> (9) Where the data in the message are valid, the Commissioners must:
+>
+> - (a) add the date and time of validation and a sequence number to the change of destination message and inform the consignor of that number;
+> - (b) update the original electronic administrative document in accordance with the information in the change of destination message; and
+> - (c) inform the consignee mentioned in the original electronic administrative document of the change of destination in accordance with the requirements for the notification of change of destination message specified in the notice published by the Commissioners in accordance with regulation 56(2).
+
+.
+
+### 25.[^key-ff8c01d4c4d92638103cf5c3829cf4aa]
+
+In regulation 59(1) for “EU requirements” substitute “ requirements for that message specified in the notice published by the Commissioners in accordance with regulation 56(2) ”.
+
+### 26.[^key-4e2efa3d171a15b9335383a6de7e8453]
+
+After regulation 59 insert—
+
+> **59A. Report of export from the territory of the United Kingdom**
+>
+> (1) This regulation applies where excise goods have been dispatched from a place in the United Kingdom to a place from where they will leave the territory of the United Kingdom.
+>
+> (2) Upon notification being sent by the Commissioners in accordance with regulations made under Part 1 of the TCTA 2018 confirming the excise goods have left the territory of the United Kingdom, the Commissioners must send a report of export to the consignor using the UK[^key-10e9430d71f2de8375b6c74c8e757359] computerised system.
+>
+> (3) The report of export must comply with the requirements for that message specified in the notice published by the Commissioners in accordance with regulation 56(2).
+>
+> (4) A report of export shall constitute proof that the movement of the excise goods referred to in the report has ended.
+
+.
+
+### 27.[^key-270db1343f8ec55292ca847f506f6469]
+
+(1) Regulation 60 is amended as follows.
+
+(2) In paragraph (2)(b) for the words from “fallback” to the end substitute “ paper document that complies with the requirements set out in paragraph (2A). ”.
+
+(3) After paragraph (2) insert—
+
+> (2A) The paper document referred to in paragraph (2)(b) must—
+>
+> - (a) carry the title ‘Fallback Accompanying Document for movements of excise goods under suspension of excise duty’; and
+> - (b) contain the same data displayed in the form of data elements and expressed in the same manner as the draft electronic administrative document referred to in regulation 57(2).
+
+.
+
+### 28.[^key-0c7c6bf96148488b3420162852c2129b]
+
+For regulation 60A(3) substitute—
+
+> (3) The consignor must ensure that the information notified to the Commissioners in accordance with paragraph (1) is in the form of data elements, expressed in the same manner as the change of destination message referred to in regulation 58(5).
+
+.
+
+### 29.[^key-4957f72a5cd82e7761f8fa829299c69f]
+
+(1) Regulation 61 is amended as follows.
+
+(2) In paragraph (1) for the words from “fallback” to the end substitute “ paper document that complies with the requirements set out in paragraph (1A) and contains the same data as the report of receipt referred to in regulation 59(1). ”.
+
+(3) After paragraph (1) insert—
+
+> (1A) The paper document referred to in paragraph (1) must—
+>
+> - (a) carry the title ‘Fallback Report of Receipt for movements of excise goods under suspension of excise duty’; and
+> - (b) display the required data in the form of data elements, expressed in the same manner as in the report of receipt.
+
+.
+
+### 30. Amendment to Part 9[^key-3a2c5da3bdfbc0c79cd269d50d1f01f5]
+
+(1) Regulation 63A is amended as follows.
+
+(2) In paragraph (1)—
+
+- (a) omit “in the United Kingdom”; and
+- (b) for “EU” substitute “ United Kingdom ”.
+
+(3) In paragraph (2)(a) for the words “the local clearance procedure” substitute “ a simplified customs procedure in respect of the premises and that authorisation has not been suspended or revoked ”.
+
+(4) In paragraph (3)—
+
+- (a)[^key-6e1eea4e7a876d0db11b2a1a13c80722] for the definition of “authorisation to use the local clearance procedure” substitute—
+
+  > - “authorisation to use a simplified customs procedure” means—
+  >   - (a) where authorisation was granted before 1st May 2016, the authorisation referred to in Article 283 of Commission Regulation [(EEC) No 2454/93](https://www.legislation.gov.uk/eur/1993/2454) of 2 July 1993 laying down provisions for the implementation of [Council Regulation (EEC) No 2913/92](https://www.legislation.gov.uk/eur/1992/2913) establishing the Community Customs Code;
+  >   - (b) where authorisation was granted on or after 1 May 2016, an authorisation, granted by the Commissioners, which permits goods to be made available for examination at those premises;
+
+  ; and
+- (b) in the definition of “full customs declaration” for “Annex 37 of that Regulation” substitute “ the Single Administrative Document provided for in a public notice made under Part 1 of the TCTA 2018 ”.
+
+### 31. Revocation of Parts 10 to 12[^key-017ea0849d6cb1810ef38ab5f040cd58]
+
+Omit Parts 10 to 12.
+
+### 32. Amendments to Part 13[^key-1b791b2fba0411feeddff83284e4d605]
+
+Omit regulation 79.
+
+### 33.[^key-7d2d198edf6fc036e5c3daae008c3cf9]
+
+(1) Regulation 80 is amended as follows.
+
+(2) For the heading substitute “ Irregularities ”.
+
+(3) In paragraph (1)(b) omit “which occurs or is detected in the United Kingdom”.
+
+(4) In paragraph (2) omit “in the United Kingdom” in both places where it occurs.
+
+(5) Omit paragraphs (3) and (4).
+
+### 34.[^key-16fef155087c62ae97211789674e866f]
+
+(1) Regulation 81 is amended as follows.
+
+(2) In paragraph (1) omit sub-paragraph (b).
+
+(3) In paragraph (2) omit “in the United Kingdom”.
+
+(4) In paragraph (3) omit everything from the semi-colon at the end of the second sub-paragraph (a) to the end of the paragraph, but not the full-stop.
+
+(5) In paragraph (4) omit everything from the semi-colon at the end of sub-paragraph (a) to the end of the paragraph, but not the full-stop.
+
+(6) In paragraph (6)—
+
+- (a) in sub-paragraph (i) for “fallback electronic administrative document” substitute “ fallback accompanying document ”;
+- (b) insert “ or ” at the end of sub-paragraph (ii); and
+- (c) omit everything from the semi-colon at the end of sub-paragraph (iii) to the end of the paragraph, but not the full-stop.
+
+(7) Omit paragraph (7).
+
+### 35.[^key-269b988708f510c37c4889e3176bd6e1]
+
+Omit regulation 82.
+
+### 36. Revocation of Part 14[^key-2bb0fad8b6888ffadb7c299e5464285a]
+
+Omit Part 14.
+
+### 37. Amendments to Part 15[^key-38724daad2d6ddf502a804b256e4782e]
+
+(1) Regulation 86 is amended as follows.
+
+(2) In sub-paragraph (a) omit “in the United Kingdom”.
+
+(3) Omit sub-paragraph (b).
+
+(4) In sub-paragraph (c) omit “UK” before “excise duty”.
+
+### 38.[^key-d0506feb387c47c48007c2cad05f1442]
+
+In regulation 87 for “EU requirements” substitute “ EMCS requirements ”.
+
+### 39. Amendments to Part 16[^key-cd81b9c5708584a5389ce44175fc6c89]
+
+In regulation 89 for “EU requirement” substitute “ EMCS requirement ” in paragraphs (1) and (3).
+
+### 40.[^key-6f39794d699a51a61112531a58ecfdf6]
+
+In Schedule 1 omit the following from the list of regulations—
+
+- (a) 41(2) (completion of draft electronic administrative document for exports of excise goods under duty suspension arrangements);
+- (b) 42(2) and (5) (electronic administrative document for exports of excise goods under duty suspension arrangements — supplementary provisions);
+- (c) 43 (exemption certificates);
+- (d) 44(3) (export of energy products by sea-notification of consignee);
+- (e) 45(4) (splitting a movement of energy products);
+- (f) 50(2) and (4) (procedure for exports of excise goods under duty suspension arrangements when computerised system unavailable);
+- (g) 51 (procedure for exports of excise goods under duty suspension arrangements when computerised system unavailable — supplementary provisions);
+- (h) 53 (electronic administrative documents for imports of excise goods under duty suspension arrangements);
+- (i) 54(1) (report of receipt of goods imported under duty suspension arrangements);
+- (j) 55(1) and (3) (report of receipt of excise goods imported under duty suspension arrangements when computerised system unavailable);
+- (k) 65 (accompanying document for exports of excise goods after release for consumption);
+- (l) 66 (additional requirements relating to exports of excise goods after release for consumption);
+- (m) 68 (imports of excise goods after release for consumption);
+- (n) 69 (requirements relating to imports of excise goods after release for consumption); and
+- (o) 77(2) (tax representative-procedure).
+
+## PART 3 — Consequential amendments
+
+### 41. The Tobacco Products Regulations 2001[^key-e7246bb076489ce6e653d0b7f098b776]
+
+(1) The Tobacco Products Regulations 2001 [^c23683761] are amended as follows.
+
+(2) In regulation 3 omit the definition of “UK registered consignee”.
+
+(3) In regulation 17 omit paragraphs (2)(b), (4) and (6).
+
+### 42.[^key-f3ed9c64374d6879b9d938c616df41fe]
+
+(1) The amendments to the Tobacco Products Regulations 2001 have no effect in relation to UK registered consignees to whom excise goods are dispatched, where those goods are in the course of a movement on IP completion day[^key-de33333ab78278203ef9be1bed64d844], until excise duty due in respect of those goods has been accounted for and paid.
+
+(2) In this regulation goods are “in the course of a movement on IP completion day[^key-94203a446781d5ee8e1abc74cead8d10]” if they are being imported into the United Kingdom from a member state and they fall within Chapter 7 of Part 15 of the Customs (Import Duty) (EU Exit) Regulations 2018 [^c23683771].
+
+## PART 4 — Transitional and saving provisions[^key-c026d8313dfd6a842de46f31b52239da]
+
+### CHAPTER 1 — Excise goods imported into the United Kingdom from outside the territory of the EU[^key-c026d8313dfd6a842de46f31b52239da]
+
+#### 43. Saving and transitional provisions[^key-b2d86afa45416e4e32ae05c4ec1ff75b][^key-c026d8313dfd6a842de46f31b52239da][^key-c026d8313dfd6a842de46f31b52239da]
+
+(1) In this regulation “**EUCL**” has the meaning given to it in the Customs (Import Duty) (EU Exit) Regulations 2018.
+
+(2) Paragraph (3) applies to the extent the EUCL continues to have effect in relation to excise goods in accordance with Part 15 of the Customs (Import Duty) (EU Exit) Regulations 2018.
+
+(3) In relation to the provisions of the Principal Regulations set out in column 1 of the table below—
+
+- (a) the amendments made by these Regulations have no effect; and
+- (b) the modifications set out in column 2 (if any) have effect.
+
+  | *Column 1: Provision* | *Column 2: Modification* |
+  | --- | --- |
+  | Definition of “customs suspensive procedure or arrangement” in regulation 3(1) | There is none. |
+  | Definition of “place of importation” in regulation 3(1) | For the words “Article 79 of Council Regulation 2913/92/EEC” treat as substituted “ Article 201 of Regulation (EU) No 952/2013 of the European Parliament and of the Council of 9 October 2013 laying down the Union Customs Code ” |
+  | Regulation 3(3)(a)(ii) | For the words “Article 79 of Regulation [(EEC) 2913/92](https://www.legislation.gov.uk/eur/1992/2913)” treat as substituted “ Article 201 of Regulation (EU) No 952/2013 of the European Parliament and of the Council of 9 October 2013 laying down the Union Customs Code ” |
+  | Regulation 9(1)(b)(ii) | For the words “Article 79 of Council Regulation 2913/92/EEC” treat as substituted “ Article 201 of Regulation (EU) No 952/2013 of the European Parliament and of the Council of 9 October 2013 laying down the Union Customs Code ” |
+  | Regulation 30(1) | For the words “Article 79 of Council Regulation 2913/92/EEC” treat as substituted “ Article 201 of Regulation (EU) No 952/2013 of the European Parliament and of the Council of 9 October 2013 laying down the Union Customs Code ” |
+
+### CHAPTER 2 — United Kingdom-EU movements[^key-c026d8313dfd6a842de46f31b52239da]
+
+#### 44. Interpretation[^key-c669024b7d77f327c35624e1fdedbde5][^key-c026d8313dfd6a842de46f31b52239da][^key-b5df4eff4ab50679d6235c7906832ebd][^key-c026d8313dfd6a842de46f31b52239da]
+
+(1) The Principal Regulations as they have effect immediately before the commencement of these Regulations shall continue to have effect in relation to excise goods in the course of a movement on IP completion day between the United Kingdom (other than Northern Ireland) and the EU or vice versa. This paragraph is subject to paragraph (2).
+
+(2) Regulations 42(3) to (6), 45 and 51 of the Principal Regulations shall cease to have effect on IP completion day.
+
+(3) For the purposes of paragraph (1) a movement of excise goods shall be deemed to have commenced where those goods have been dispatched before IP completion day. This paragraph is subject to paragraph (4).
+
+(4) Where excise goods have been released for consumption before IP completion day and are transported by a private individual (P) to the United Kingdom for P’s own use, the goods shall be deemed to have commenced their movement before IP completion day where the aircraft, train or vessel on which P transported the goods to the United Kingdom was scheduled to depart before IP completion day.
+
+#### 45. General transitional provisions[^M_F_8973139a-eff0-4d01-8bc7-6e8f0978689e]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 46. Excise duty points and payment of the duty[^M_F_8973139a-eff0-4d01-8bc7-6e8f0978689e]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 47. UK registered consignees[^M_F_8973139a-eff0-4d01-8bc7-6e8f0978689e]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 48. Holding and movement of excise goods under duty suspension arrangements[^M_F_8973139a-eff0-4d01-8bc7-6e8f0978689e]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 49. Exports of excise goods under duty suspension arrangements[^M_F_8973139a-eff0-4d01-8bc7-6e8f0978689e]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 50. Imports of excise goods under duty suspension arrangements[^M_F_8973139a-eff0-4d01-8bc7-6e8f0978689e]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 51. Exports of excise goods after release for consumption[^M_F_8973139a-eff0-4d01-8bc7-6e8f0978689e]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 52. Imports of excise goods after release for consumption[^M_F_8973139a-eff0-4d01-8bc7-6e8f0978689e]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 53. Distance sales of excise goods from another member state[^M_F_8973139a-eff0-4d01-8bc7-6e8f0978689e]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 54. Irregularities in the course of a movement of excise goods under a duty suspension arrangement[^M_F_8973139a-eff0-4d01-8bc7-6e8f0978689e]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 55. Irregularities in the course of a movement of excise goods already released for consumption[^M_F_8973139a-eff0-4d01-8bc7-6e8f0978689e][^key-c026d8313dfd6a842de46f31b52239da]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 56. Obligations, conditions and restrictions[^M_F_8973139a-eff0-4d01-8bc7-6e8f0978689e]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 57. Forfeiture and civil penalties[^M_F_8973139a-eff0-4d01-8bc7-6e8f0978689e]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Melissa Tatton
+
+Jim Harra
+
+Two of the Commissioners for Her Majesty's Revenue and Customs
+
+*(This note is not part of the Regulations)*
+
+These Regulations amend the Excise Goods (Holding, Movement and Duty Point) Regulations 2010 (S.I. 2010/593) (the “**holding and movement Regulations**”) and are made to ensure the effective operation of the holding and movement Regulations after the withdrawal of the United Kingdom from the European Union.
+
+## Part 1 – Preliminary
+
+This Part is concerned with citation, commencement and interpretation. Regulation 2 provides that the Regulations shall come into force on a day to be appointed by the Treasury pursuant to regulations made under section 52(2) of the Taxation (Cross-border Trade) Act 2018 (c.22) (the “Act”).
+
+## Part 2 – Amendment of the holding and movement Regulations
+
+Provisions specific to movements of excise goods to and from the European Union are revoked, namely provisions relating to:
+
+- — UK registered consignees (Part 3);
+- — the export of excise goods to the European Union under duty suspension arrangements (Part 6);
+- — the import of excise goods from the European Union under duty suspension arrangements (Part 7);
+- — exports of excise goods to the European Union after release for consumption (Part 10);
+- — imports of excise goods from the European Union after release for consumption (Part 11); and
+- — distance sales of excise goods from the European Union (Part 12).
+
+Provisions of Commission Regulation 684/2009/EC implementing Council Directive [2008/118/EC](https://www.legislation.gov.uk/european/directive/2008/0118) as regards the computerised procedures for the movement of excise goods under suspension of excise duty (OJ No. L 197, 29.7.2009, p.24) (the “**EMCS Regulation**”) that are necessary to ensure the functioning of the United Kingdom components of the computerised system after exit day are transposed into Part 8 of the Regulations (movements of excise goods wholly within the United Kingdom under duty suspension arrangements). Regulation 56 of the holding and movement Regulations is amended to provide that the Commissioners must publish a notice specifying the requirements of the messages to be sent using the computerised system.
+
+Provisions relating to reports of export which are currently in Part 6 are moved to Part 8 and amended to apply only to the situation where excise good are moved to a place from where they will leave the United Kingdom.
+
+“Excise duty” is now defined by reference to the definition in Part 4 of the Act and “excise goods” are defined as goods chargeable, or treated as chargeable, with excise duty. Consequently, provisions relating to chewing tobacco are revoked as chewing tobacco will be treated in the same was as other excise goods. “Energy products” are defined by reference to the Hydrocarbon Oil Duties Act 1979 (c. 5).
+
+Other references to European Union legislation that are no longer apt are amended and references to European Union customs legislation are amended to refer to the United Kingdom's new standalone customs regime legislated for in the Act and regulations made under the Act.
+
+## Part 3 – Consequential amendments
+
+The Tobacco Products Regulations 2001 (S.I. 2001/1712) are amended to remove provisions relating to deferred payment for UK registered consignees. The provisions are saved in respect of UK registered consignees to whom goods are dispatched where those goods are in the course of a movement on exit day until the excise duty in respect of those goods has been accounted for and paid.
+
+## Part 4 – Transitional and saving provisions
+
+Chapter 1 of Part 4 deals with excise goods being imported into the United Kingdom from outside the territory of the EU on exit day. Where goods are in the course of a movement on exit day the amendments made by these Regulations have no effect. Certain modifications to the unamended text are made to update references to repealed EU Customs legislation. Goods are “**in the course of a movement on exit day**” for the purposes of this Chapter, to the extent existing EU Customs legislation continues to have effect in accordance with Part 15 of the Customs (Import Duty) (EU Exit) Regulations 2018 (S.I. 2018/1248).
+
+Chapter 2 of Part 4 deals with excise goods moving between the EU and the UK on exit day. Regulation 44(2) defines where goods are “in the course of a movement on exit day” into the UK by reference to the Customs (Import Duty) (EU Exit) Regulations 2018. Goods are in the course of a movement on exit day to the EU where those goods are dispatched before exit day.
+
+In accordance with regulation 46 the duty point and the person liable to pay duty in respect of the goods in the course of a movement on exit day are determined in accordance with Part 2 of the holding and movement Regulations as if these regulations have no effect.
+
+Provisions relating to UK registered consignees, registered and unregistered commercial importers and tax representatives continue in relation to goods in the course of a movement on exit day as if these regulations have no effect until all excise duty due in respect of those goods is accounted for and paid.
+
+Other provisions relating to movements of excise goods to and from the EU continue as if these Regulations have no effect with certain modifications. The modifications take account of the fact the United Kingdom components of the computerised system will no longer be connected to the European Union components or the national components of the other Member States after exit day.
+
+Splitting of a movement of energy products as provided for in Article 23 of Directive [2008/118/EC](https://www.legislation.gov.uk/european/directive/2008/0118) (OJ No. L9, 14.01.2009, p.12) will not be permitted for goods in the course of a movement on exit day.
+
+This instrument will be covered by an overarching HMRC impact assessment (second edition) which will be published and available on the website at https://www.gov.uk/government/collections/customs-vat-and-excise-regulations-leaving-the-eu-with-no-deal.
+
+## Annotations
+
+[^c23683671]: Marginal citation: [1979 c. 2](https://www.legislation.gov.uk/ukpga/1979/2); [section 1(1)](https://www.legislation.gov.uk/uksi/2019/13/section/1/1) defines “the Commissioners”; the definition of “the Commissioners” was substituted by the [Commissioners for Revenue and Customs Act 2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11), [Schedule 4](https://www.legislation.gov.uk/ukpga/2005/11/schedule/4), [paragraph 22(b)](https://www.legislation.gov.uk/ukpga/2005/11/paragraph/22/b); [section 93(2)(a)](https://www.legislation.gov.uk/uksi/2019/13/section/93/2/a) was amended by the [Finance Act 1981 (c. 35)](https://www.legislation.gov.uk/ukpga/1981/35), [Schedule 8](https://www.legislation.gov.uk/ukpga/1981/35/schedule/8), [paragraph 2](https://www.legislation.gov.uk/ukpga/1981/35/paragraph/2); [section 93(1)](https://www.legislation.gov.uk/uksi/2019/13/section/93/1) was substituted, section 93(3) amended and section 93(2)(fa), (fb) and (fc) and (5A) inserted by the [Finance (No. 2) Act 1992 (c. 48)](https://www.legislation.gov.uk/ukpga/1992/48), [Schedule 2](https://www.legislation.gov.uk/ukpga/1992/48/schedule/2), [paragraph 2](https://www.legislation.gov.uk/ukpga/1992/48/paragraph/2); [sections 100G](https://www.legislation.gov.uk/uksi/2019/13/section/100G) and 100H were inserted by the [Finance Act 1991 (c. 31)](https://www.legislation.gov.uk/ukpga/1991/31), [Schedule 4](https://www.legislation.gov.uk/ukpga/1991/31/schedule/4); [section 100H](https://www.legislation.gov.uk/uksi/2019/13/section/100H) was amended by the Finance (No. 2) Act 1992, Schedule 1, paragraph 6 and Schedule 2, paragraph 4 and by the [Finance Act 2002 (c. 23)](https://www.legislation.gov.uk/ukpga/2002/23), [Schedule 3](https://www.legislation.gov.uk/ukpga/2002/23/schedule/3), [Part 1](https://www.legislation.gov.uk/ukpga/2002/23/part/1), [paragraph 2](https://www.legislation.gov.uk/ukpga/2002/23/paragraph/2); [section 118A](https://www.legislation.gov.uk/uksi/2019/13/section/118A) was inserted by the Finance Act 1991, Schedule 5 and section 118A(1)(b) was amended by the [Finance (No. 3) Act 2010 (c. 33)](https://www.legislation.gov.uk/ukpga/2010/33), [Schedule 13](https://www.legislation.gov.uk/ukpga/2010/33/schedule/13), [paragraph 1](https://www.legislation.gov.uk/ukpga/2010/33/paragraph/1); [section 127A](https://www.legislation.gov.uk/uksi/2019/13/section/127A) was inserted by the [Finance Act 1983 (c. 28)](https://www.legislation.gov.uk/ukpga/1983/28), [section 6](https://www.legislation.gov.uk/ukpga/1983/28/section/6) and amended by the Finance (No. 2) Act 1992, Schedule 1, paragraph 7.
+
+[^c23683681]: Marginal citation: [1979 c. 4](https://www.legislation.gov.uk/ukpga/1979/4); [section 4(3)](https://www.legislation.gov.uk/uksi/2019/13/section/4/3) applies the definition of “the Commissioners” (amended by the Commissioners for Revenue and Customs Act 2005) in section 1(1) of the [Customs and Excise Management Act 1979 (c. 2)](https://www.legislation.gov.uk/ukpga/1979/2). Section 41A was inserted by the [Finance Act 1991 (c. 31)](https://www.legislation.gov.uk/ukpga/1991/31), [section 7(2)](https://www.legislation.gov.uk/ukpga/1991/31/section/7/2).
+
+[^c23683691]: Marginal citation: [1979 c. 7](https://www.legislation.gov.uk/ukpga/1979/7); [section 10(3)](https://www.legislation.gov.uk/uksi/2019/13/section/10/3) applies the definition of “the Commissioners” in section 1(1) (amended by the Commissioners for Revenue and Customs Act 2005) of the [Customs and Excise Management Act 1979 (c. 2)](https://www.legislation.gov.uk/ukpga/1979/2). Section 7(1)(b) was amended, and section 7(1)(ba) inserted, by the [Finance Act 2000 (c. 17)](https://www.legislation.gov.uk/ukpga/2000/17), [section 15(5)](https://www.legislation.gov.uk/ukpga/2000/17/section/15/5) and (6).
+
+[^c23683701]: Marginal citation: [1992 c. 48](https://www.legislation.gov.uk/ukpga/1992/48); [section 1(7)](https://www.legislation.gov.uk/uksi/2019/13/section/1/7) defines “the Commissioners” as “the Commissioners of Customs and Excise”. The functions of the Commissioners of Customs and Excise were transferred to the Commissioners for Her Majesty's Revenue and Customs by section 5 of the Commissioners for Revenue and Customs Act 2005. Section 50(1) of that Act provides that a reference to the Commissioners of Customs and Excise shall be taken as a reference to the Commissioners for Her Majesty's Revenue and Customs.
+
+[^c23683711]: Marginal citation: [2018 c. 22](https://www.legislation.gov.uk/ukpga/2018/22); [section 49](https://www.legislation.gov.uk/uksi/2019/13/section/49) defines “HMRC Commissioners” as the Commissioners for Her Majesty's Revenue and Customs and section 52(1) defines “relevant subordinate legislation”.
+
+[^key-9896da805856c550b4e5780baebad4a0]: Commencement: Reg. 1 in force at 31.12.2020 by [S.I. 2020/1640](https://www.legislation.gov.uk/uksi/2020/1640), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1640/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1640/schedule)
+
+[^key-6618f7a9b353d413f1bdf7dc89cd418b]: Commencement: Reg. 2 in force at 31.12.2020 by [S.I. 2020/1640](https://www.legislation.gov.uk/uksi/2020/1640), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1640/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1640/schedule)
+
+[^c23683721]: Marginal citation: [S.I. 2010/593](https://www.legislation.gov.uk/uksi/2010/593), amended by [S.I. 2011/2225](https://www.legislation.gov.uk/uksi/2011/2225), 2012/2786, 2013/3210, 2015/368 and modified by [S.I. 2010/594](https://www.legislation.gov.uk/uksi/2010/594).
+
+[^key-2e1de8c939237a481a06fd70dc49e617]: Commencement: Reg. 3 in force at 31.12.2020 by [S.I. 2020/1640](https://www.legislation.gov.uk/uksi/2020/1640), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1640/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1640/schedule)
+
+[^key-a8187201b9cf8e6f1f2576c638f04612]: Commencement: Reg. 4 in force at 31.12.2020 by [S.I. 2020/1640](https://www.legislation.gov.uk/uksi/2020/1640), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1640/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1640/schedule)
+
+[^M_I_274d9be0-9209-4892-9c4f-31ff5cf0b753]: Commencement: Reg. 4A in force at 31.12.2020 by [S.I. 2020/1640](https://www.legislation.gov.uk/uksi/2020/1640), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1640/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1640/schedule)
+
+[^key-9ded788a4f5ca96d52fea63375944254]: Textual amendment: Reg. 4A inserted (31.12.2020 immediately before IP completion day) by [The Excise Duties (Northern Ireland Miscellaneous Modifications and Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1559)](https://www.legislation.gov.uk/uksi/2020/1559), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1559/regulation/1/2), [83](https://www.legislation.gov.uk/uksi/2020/1559/regulation/83)
+
+[^key-abb14bad2a8e2f904bb88c19f1c1b768]: Commencement: Reg. 5 in force at 31.12.2020 by [S.I. 2020/1640](https://www.legislation.gov.uk/uksi/2020/1640), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1640/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1640/schedule)
+
+[^key-62d91b9e27fefac6aaf561f5287a1e91]: Commencement: Reg. 6 in force at 31.12.2020 by [S.I. 2020/1640](https://www.legislation.gov.uk/uksi/2020/1640), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1640/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1640/schedule)
+
+[^key-68facce9fc8de17c6920e4064e4cfff8]: Textual amendment: Reg. 6 full stop omitted (31.12.2020 immediately before IP completion day) by virtue of [The Excise Duties (Northern Ireland Miscellaneous Modifications and Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1559)](https://www.legislation.gov.uk/uksi/2020/1559), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1559/regulation/1/2), [84](https://www.legislation.gov.uk/uksi/2020/1559/regulation/84)
+
+[^key-c39fca6fa00661b9956ef4ac0bde737a]: Textual amendment: Words in reg. 6 inserted (31.12.2020 immediately before IP completion day) by [The Excise Duties (Northern Ireland Miscellaneous Modifications and Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1559)](https://www.legislation.gov.uk/uksi/2020/1559), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1559/regulation/1/2), [84](https://www.legislation.gov.uk/uksi/2020/1559/regulation/84)
+
+[^key-54e8b1e60bcc7f46030b8df490f3d222]: Commencement: Reg. 7 in force at 31.12.2020 by [S.I. 2020/1640](https://www.legislation.gov.uk/uksi/2020/1640), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1640/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1640/schedule)
+
+[^key-c666cb5a0f07566d953e4a0b9331f177]: Textual amendment: Reg. 7(2)(a)(ia) inserted (31.12.2020 immediately before IP completion day) by [The Excise Duties (Northern Ireland Miscellaneous Modifications and Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1559)](https://www.legislation.gov.uk/uksi/2020/1559), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1559/regulation/1/2), [85(a)](https://www.legislation.gov.uk/uksi/2020/1559/regulation/85/a)
+
+[^key-fc7d521870c274bafacc4dbdbe0bf2c5]: Textual amendment: Word in reg. 7(2)(c) inserted (31.12.2020 immediately before IP completion day) by [The Excise Duties (Northern Ireland Miscellaneous Modifications and Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1559)](https://www.legislation.gov.uk/uksi/2020/1559), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1559/regulation/1/2), [82(a)](https://www.legislation.gov.uk/uksi/2020/1559/regulation/82/a)
+
+[^key-1e9b1e23370a031411ed0013930d3727]: Textual amendment: Reg. 7(2)(d) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Excise Duties (Northern Ireland Miscellaneous Modifications and Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1559)](https://www.legislation.gov.uk/uksi/2020/1559), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1559/regulation/1/2), [85(b)](https://www.legislation.gov.uk/uksi/2020/1559/regulation/85/b)
+
+[^key-aba5cd9ca543a5bc8e808dc1509ac410]: Textual amendment: Reg. 7(2)(e) revoked (31.12.2020) by [The Excise Duties (Miscellaneous Amendments) (EU Exit) (No. 3) Regulations 2019 (S.I. 2019/474)](https://www.legislation.gov.uk/uksi/2019/474), [regs. 1](https://www.legislation.gov.uk/uksi/2019/474/regulation/1), [8](https://www.legislation.gov.uk/uksi/2019/474/regulation/8); [S.I. 2020/1640](https://www.legislation.gov.uk/uksi/2020/1640), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1640/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1640/schedule)
+
+[^key-33bf652106c785bc8a55630b56537903]: Textual amendment: Word in reg. 7(2)(f) inserted (31.12.2020 immediately before IP completion day) by [The Excise Duties (Northern Ireland Miscellaneous Modifications and Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1559)](https://www.legislation.gov.uk/uksi/2020/1559), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1559/regulation/1/2), [82(b)](https://www.legislation.gov.uk/uksi/2020/1559/regulation/82/b)
+
+[^c23683731]: Marginal citation: [1979 c. 5](https://www.legislation.gov.uk/ukpga/1979/5); relevant amendments made by the [Finance Act 1981 (c. 35)](https://www.legislation.gov.uk/ukpga/1981/35), [section 4](https://www.legislation.gov.uk/ukpga/1981/35/section/4); the [Finance Act 1993 (c. 34)](https://www.legislation.gov.uk/ukpga/1993/34), [section 11](https://www.legislation.gov.uk/ukpga/1993/34/section/11); the [Finance Act 2000 (c. 17)](https://www.legislation.gov.uk/ukpga/2000/17), [section 11](https://www.legislation.gov.uk/ukpga/2000/17/section/11); the [Finance Act 2002 (c. 23)](https://www.legislation.gov.uk/ukpga/2002/23), [section 5](https://www.legislation.gov.uk/ukpga/2002/23/section/5); the [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [sections 9 to 13](https://www.legislation.gov.uk/ukpga/2004/12/section/9) and Schedule 42, Part 1 (1); the [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Schedule 5](https://www.legislation.gov.uk/ukpga/2008/9/schedule/5), [paragraphs 1](https://www.legislation.gov.uk/ukpga/2008/9/paragraph/1) and 6 and Schedule 6 paragraphs 24 and 29; the [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Schedule 17](https://www.legislation.gov.uk/ukpga/2016/24/schedule/17), [paragraphs 1](https://www.legislation.gov.uk/ukpga/2016/24/paragraph/1), [4 to 6](https://www.legislation.gov.uk/ukpga/2016/24/paragraph/4) and 8.
+
+[^c23683741]: Marginal citation: [1993 c. 34](https://www.legislation.gov.uk/ukpga/1993/34); amended by the [Finance Act 2002 (c. 23)](https://www.legislation.gov.uk/ukpga/2002/23) section 7 and the [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [section 14](https://www.legislation.gov.uk/ukpga/2004/12/section/14).
+
+[^c23683751]: Marginal citation: [1979 c. 5](https://www.legislation.gov.uk/ukpga/1979/5); section 23C was inserted by section 13 of the [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12) and amended by paragraphs 1 and 8 of Schedule 17 to the [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24) and paragraph 4 of Schedule 2 to [S.I. 2010/593](https://www.legislation.gov.uk/uksi/2010/593) and article 6(1)(d) of [S.I. 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043).
+
+[^key-ed64b6194badb31af8a9a0b60368993e]: Textual amendment: Reg. 7(2)(ma) inserted (31.12.2020 immediately before IP completion day) by [The Excise Duties (Northern Ireland Miscellaneous Modifications and Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1559)](https://www.legislation.gov.uk/uksi/2020/1559), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1559/regulation/1/2), [85(c)](https://www.legislation.gov.uk/uksi/2020/1559/regulation/85/c)
+
+[^M_F_7e1dfbee-a3ea-465f-a782-a68914645a00]: Textual amendment: Reg. 7(2)(n) revoked (31.12.2020) by [The Excise Duties (Miscellaneous Amendments) (EU Exit) (No. 3) Regulations 2019 (S.I. 2019/474)](https://www.legislation.gov.uk/uksi/2019/474), [regs. 1](https://www.legislation.gov.uk/uksi/2019/474/regulation/1), [8](https://www.legislation.gov.uk/uksi/2019/474/regulation/8); [S.I. 2020/1640](https://www.legislation.gov.uk/uksi/2020/1640), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1640/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1640/schedule)
+
+[^key-195b7af99f47ac132b8da86910854f12]: Textual amendment: Reg. 7(2)(t) inserted (31.12.2020 immediately before IP completion day) by [The Excise Duties (Northern Ireland Miscellaneous Modifications and Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1559)](https://www.legislation.gov.uk/uksi/2020/1559), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1559/regulation/1/2), [85(d)](https://www.legislation.gov.uk/uksi/2020/1559/regulation/85/d)
+
+[^key-41f891acd83ada7dd28974479a0b7e2c]: Textual amendment: Reg. 7(4)(a) revoked (31.12.2020) by [The Excise Duties (Miscellaneous Amendments) (EU Exit) (No. 3) Regulations 2019 (S.I. 2019/474)](https://www.legislation.gov.uk/uksi/2019/474), [regs. 1](https://www.legislation.gov.uk/uksi/2019/474/regulation/1), [8](https://www.legislation.gov.uk/uksi/2019/474/regulation/8); [S.I. 2020/1640](https://www.legislation.gov.uk/uksi/2020/1640), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1640/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1640/schedule)
+
+[^key-5f335f2619480b62489282c17745aaa5]: Commencement: Reg. 8 in force at 31.12.2020 by [S.I. 2020/1640](https://www.legislation.gov.uk/uksi/2020/1640), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1640/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1640/schedule)
+
+[^M_I_137888fc-b29a-4f04-9014-96ad9de1a221]: Commencement: Reg. 8A in force at 31.12.2020 by [S.I. 2020/1640](https://www.legislation.gov.uk/uksi/2020/1640), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1640/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1640/schedule)
+
+[^key-ab67978854b32ae14ca3410e86d1a7d0]: Textual amendment: Reg. 8A inserted (31.12.2020 immediately before IP completion day) by [The Excise Duties (Northern Ireland Miscellaneous Modifications and Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1559)](https://www.legislation.gov.uk/uksi/2020/1559), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1559/regulation/1/2), [86](https://www.legislation.gov.uk/uksi/2020/1559/regulation/86)
+
+[^key-ccc35335a5b0eb04ff32d92e9071f342]: Commencement: Reg. 9 in force at 31.12.2020 by [S.I. 2020/1640](https://www.legislation.gov.uk/uksi/2020/1640), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1640/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1640/schedule)
+
+[^key-c538cbdaffb9bfca030ece652b63a3e3]: Textual amendment: Reg. 9(3) substituted (26.9.2019) by [The Excise Duties (Miscellaneous Amendments) (EU Exit) (No. 4) Regulations 2019 (S.I. 2019/1216)](https://www.legislation.gov.uk/uksi/2019/1216), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1216/regulation/1/2), [5(2)](https://www.legislation.gov.uk/uksi/2019/1216/regulation/5/2)
+
+[^key-18bddf9cae248c0cb184626d0c09d932]: Textual amendment: Reg. 9(3A)(3B) inserted (31.12.2020 immediately before IP completion day) by [The Excise Duties (Northern Ireland Miscellaneous Modifications and Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1559)](https://www.legislation.gov.uk/uksi/2020/1559), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1559/regulation/1/2), [87(a)](https://www.legislation.gov.uk/uksi/2020/1559/regulation/87/a)
+
+[^key-78d9af0e92590b738625249ee74a0270]: Commencement: Reg. 10 in force at 31.12.2020 by [S.I. 2020/1640](https://www.legislation.gov.uk/uksi/2020/1640), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1640/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1640/schedule)
+
+[^M_I_d99bfb0b-c56d-4114-b9fb-ae7a909388b0]: Commencement: Reg. 10A in force at 31.12.2020 by [S.I. 2020/1640](https://www.legislation.gov.uk/uksi/2020/1640), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1640/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1640/schedule)
+
+[^key-c0a3cb14168ff445b24b27fb4ea2cc85]: Textual amendment: Reg. 10A inserted (31.12.2020 immediately before IP completion day) by [The Excise Duties (Northern Ireland Miscellaneous Modifications and Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1559)](https://www.legislation.gov.uk/uksi/2020/1559), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1559/regulation/1/2), [88](https://www.legislation.gov.uk/uksi/2020/1559/regulation/88)
+
+[^key-ce78381a672e9e9aad1cad41b4d53877]: Commencement: Reg. 11 in force at 31.12.2020 by [S.I. 2020/1640](https://www.legislation.gov.uk/uksi/2020/1640), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1640/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1640/schedule)
+
+[^key-15b7a9d95f9991597fd6cf8d34e909b4]: Commencement: Reg. 12 in force at 31.12.2020 by [S.I. 2020/1640](https://www.legislation.gov.uk/uksi/2020/1640), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1640/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1640/schedule)
+
+[^key-6e443f02cc9c90c65838dda712074e3b]: Commencement: Reg. 13 in force at 31.12.2020 by [S.I. 2020/1640](https://www.legislation.gov.uk/uksi/2020/1640), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1640/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1640/schedule)
+
+[^key-2520422c2f8dcf512f685632ee2249fe]: Commencement: Reg. 14 in force at 31.12.2020 by [S.I. 2020/1640](https://www.legislation.gov.uk/uksi/2020/1640), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1640/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1640/schedule)
+
+[^key-9e4fe161fc55e81ba9eea9f9264c20a1]: Commencement: Reg. 15 in force at 31.12.2020 by [S.I. 2020/1640](https://www.legislation.gov.uk/uksi/2020/1640), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1640/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1640/schedule)
+
+[^key-733625c9b1fdb31bfb3b4e69447c3bc1]: Commencement: Reg. 16 in force at 31.12.2020 by [S.I. 2020/1640](https://www.legislation.gov.uk/uksi/2020/1640), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1640/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1640/schedule)
+
+[^key-999115ff7c4c115a3b13ad9162836da7]: Commencement: Reg. 17 in force at 31.12.2020 by [S.I. 2020/1640](https://www.legislation.gov.uk/uksi/2020/1640), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1640/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1640/schedule)
+
+[^key-a399608995ebe79173f7b18725c64172]: Commencement: Reg. 18 in force at 31.12.2020 by [S.I. 2020/1640](https://www.legislation.gov.uk/uksi/2020/1640), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1640/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1640/schedule)
+
+[^key-6ea9851392ddca5f1869b223fea6bb07]: Commencement: Reg. 19 in force at 31.12.2020 by [S.I. 2020/1640](https://www.legislation.gov.uk/uksi/2020/1640), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1640/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1640/schedule)
+
+[^key-916d66efb01c4b73d95dc4c8bf70bcfd]: Textual amendment: Reg. 19 substituted (31.12.2020 immediately before IP completion day) by [The Excise Duties (Northern Ireland Miscellaneous Modifications and Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1559)](https://www.legislation.gov.uk/uksi/2020/1559), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1559/regulation/1/2), [89](https://www.legislation.gov.uk/uksi/2020/1559/regulation/89)
+
+[^key-4f1c1da23b07cfee577d20ab6c329efb]: Commencement: Reg. 20 in force at 31.12.2020 by [S.I. 2020/1640](https://www.legislation.gov.uk/uksi/2020/1640), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1640/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1640/schedule)
+
+[^key-9d698a10ee3ad9e563f6181984dc1928]: Commencement: Reg. 21 in force at 31.12.2020 by [S.I. 2020/1640](https://www.legislation.gov.uk/uksi/2020/1640), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1640/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1640/schedule)
+
+[^key-fb01f029c8a4b1237715665270fe0beb]: Commencement: Reg. 22 in force at 31.12.2020 by [S.I. 2020/1640](https://www.legislation.gov.uk/uksi/2020/1640), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1640/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1640/schedule)
+
+[^key-4b0fa19974005565d54bfc81117b5474]: Textual amendment: Reg. 22(3)(a) substituted (31.12.2020 immediately before IP completion day) by [The Excise Duties (Northern Ireland Miscellaneous Modifications and Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1559)](https://www.legislation.gov.uk/uksi/2020/1559), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1559/regulation/1/2), [90](https://www.legislation.gov.uk/uksi/2020/1559/regulation/90)
+
+[^key-6106d6b55accabe7694616443b4dcf94]: Textual amendment: Reg. 22(4) substituted (26.9.2019) by [The Excise Duties (Miscellaneous Amendments) (EU Exit) (No. 4) Regulations 2019 (S.I. 2019/1216)](https://www.legislation.gov.uk/uksi/2019/1216), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1216/regulation/1/2), [5(3)](https://www.legislation.gov.uk/uksi/2019/1216/regulation/5/3)
+
+[^key-49fc35bde5175a505e68b17cfca16b80]: Textual amendment: Word in reg. 22(4) inserted (31.12.2020 immediately before IP completion day) by [The Excise Duties (Northern Ireland Miscellaneous Modifications and Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1559)](https://www.legislation.gov.uk/uksi/2020/1559), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1559/regulation/1/2), [82(c)](https://www.legislation.gov.uk/uksi/2020/1559/regulation/82/c)
+
+[^M_I_70edf26d-0642-46f8-d9af-c54c8df4ae95]: Commencement: Reg. 22A in force at 31.12.2020 by [S.I. 2020/1640](https://www.legislation.gov.uk/uksi/2020/1640), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1640/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1640/schedule)
+
+[^key-676b94526896100496454ecbaca084f4]: Textual amendment: Reg. 22A inserted (31.12.2020 immediately before IP completion day) by [The Excise Duties (Northern Ireland Miscellaneous Modifications and Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1559)](https://www.legislation.gov.uk/uksi/2020/1559), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1559/regulation/1/2), [91](https://www.legislation.gov.uk/uksi/2020/1559/regulation/91)
+
+[^key-c0cafe090832086f4bc3bd2598be4651]: Commencement: Reg. 23 in force at 31.12.2020 by [S.I. 2020/1640](https://www.legislation.gov.uk/uksi/2020/1640), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1640/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1640/schedule)
+
+[^key-4113b6930cd9dc45ff0d3a5bfaf0abe3]: Textual amendment: Reg. 23(1A) inserted (31.12.2020 immediately before IP completion day) by [The Excise Duties (Northern Ireland Miscellaneous Modifications and Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1559)](https://www.legislation.gov.uk/uksi/2020/1559), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1559/regulation/1/2), [92](https://www.legislation.gov.uk/uksi/2020/1559/regulation/92)
+
+[^key-8dc1f9bad5b240c23579e11d6e5bcad7]: Commencement: Reg. 24 in force at 31.12.2020 by [S.I. 2020/1640](https://www.legislation.gov.uk/uksi/2020/1640), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1640/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1640/schedule)
+
+[^key-37fd91683e63e2282effe52642deeaa5]: Textual amendment: Word in reg. 24(2) inserted (31.12.2020 immediately before IP completion day) by [The Excise Duties (Northern Ireland Miscellaneous Modifications and Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1559)](https://www.legislation.gov.uk/uksi/2020/1559), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1559/regulation/1/2), [82(d)](https://www.legislation.gov.uk/uksi/2020/1559/regulation/82/d)
+
+[^key-337664166773b7391777b52242e98cc9]: Textual amendment: Word in reg. 24(3) inserted (31.12.2020 immediately before IP completion day) by [The Excise Duties (Northern Ireland Miscellaneous Modifications and Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1559)](https://www.legislation.gov.uk/uksi/2020/1559), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1559/regulation/1/2), [82(d)](https://www.legislation.gov.uk/uksi/2020/1559/regulation/82/d)
+
+[^key-c5127b8f058d3e75c7d4447764feadaa]: Textual amendment: Word in reg. 24(5) inserted (31.12.2020 immediately before IP completion day) by [The Excise Duties (Northern Ireland Miscellaneous Modifications and Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1559)](https://www.legislation.gov.uk/uksi/2020/1559), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1559/regulation/1/2), [82(d)](https://www.legislation.gov.uk/uksi/2020/1559/regulation/82/d)
+
+[^key-dd46b380a4d2a8c2ddb0a0f681e693cd]: Textual amendment: Word in reg. 24(7) inserted (31.12.2020 immediately before IP completion day) by [The Excise Duties (Northern Ireland Miscellaneous Modifications and Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1559)](https://www.legislation.gov.uk/uksi/2020/1559), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1559/regulation/1/2), [82(d)](https://www.legislation.gov.uk/uksi/2020/1559/regulation/82/d)
+
+[^key-ff8c01d4c4d92638103cf5c3829cf4aa]: Commencement: Reg. 25 in force at 31.12.2020 by [S.I. 2020/1640](https://www.legislation.gov.uk/uksi/2020/1640), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1640/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1640/schedule)
+
+[^key-4e2efa3d171a15b9335383a6de7e8453]: Commencement: Reg. 26 in force at 31.12.2020 by [S.I. 2020/1640](https://www.legislation.gov.uk/uksi/2020/1640), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1640/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1640/schedule)
+
+[^key-10e9430d71f2de8375b6c74c8e757359]: Textual amendment: Word in reg. 26 inserted (31.12.2020 immediately before IP completion day) by [The Excise Duties (Northern Ireland Miscellaneous Modifications and Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1559)](https://www.legislation.gov.uk/uksi/2020/1559), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1559/regulation/1/2), [82(e)](https://www.legislation.gov.uk/uksi/2020/1559/regulation/82/e)
+
+[^key-270db1343f8ec55292ca847f506f6469]: Commencement: Reg. 27 in force at 31.12.2020 by [S.I. 2020/1640](https://www.legislation.gov.uk/uksi/2020/1640), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1640/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1640/schedule)
+
+[^key-0c7c6bf96148488b3420162852c2129b]: Commencement: Reg. 28 in force at 31.12.2020 by [S.I. 2020/1640](https://www.legislation.gov.uk/uksi/2020/1640), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1640/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1640/schedule)
+
+[^key-4957f72a5cd82e7761f8fa829299c69f]: Commencement: Reg. 29 in force at 31.12.2020 by [S.I. 2020/1640](https://www.legislation.gov.uk/uksi/2020/1640), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1640/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1640/schedule)
+
+[^key-3a2c5da3bdfbc0c79cd269d50d1f01f5]: Commencement: Reg. 30 in force at 31.12.2020 by [S.I. 2020/1640](https://www.legislation.gov.uk/uksi/2020/1640), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1640/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1640/schedule)
+
+[^key-6e1eea4e7a876d0db11b2a1a13c80722]: Textual amendment: Reg. 30(4)(a) substituted (26.9.2019) by [The Excise Duties (Miscellaneous Amendments) (EU Exit) (No. 4) Regulations 2019 (S.I. 2019/1216)](https://www.legislation.gov.uk/uksi/2019/1216), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1216/regulation/1/2), [5(4)](https://www.legislation.gov.uk/uksi/2019/1216/regulation/5/4)
+
+[^key-017ea0849d6cb1810ef38ab5f040cd58]: Commencement: Reg. 31 in force at 31.12.2020 by [S.I. 2020/1640](https://www.legislation.gov.uk/uksi/2020/1640), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1640/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1640/schedule)
+
+[^key-1b791b2fba0411feeddff83284e4d605]: Commencement: Reg. 32 in force at 31.12.2020 by [S.I. 2020/1640](https://www.legislation.gov.uk/uksi/2020/1640), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1640/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1640/schedule)
+
+[^key-7d2d198edf6fc036e5c3daae008c3cf9]: Commencement: Reg. 33 in force at 31.12.2020 by [S.I. 2020/1640](https://www.legislation.gov.uk/uksi/2020/1640), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1640/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1640/schedule)
+
+[^key-16fef155087c62ae97211789674e866f]: Commencement: Reg. 34 in force at 31.12.2020 by [S.I. 2020/1640](https://www.legislation.gov.uk/uksi/2020/1640), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1640/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1640/schedule)
+
+[^key-269b988708f510c37c4889e3176bd6e1]: Commencement: Reg. 35 in force at 31.12.2020 by [S.I. 2020/1640](https://www.legislation.gov.uk/uksi/2020/1640), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1640/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1640/schedule)
+
+[^key-2bb0fad8b6888ffadb7c299e5464285a]: Commencement: Reg. 36 in force at 31.12.2020 by [S.I. 2020/1640](https://www.legislation.gov.uk/uksi/2020/1640), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1640/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1640/schedule)
+
+[^key-38724daad2d6ddf502a804b256e4782e]: Commencement: Reg. 37 in force at 31.12.2020 by [S.I. 2020/1640](https://www.legislation.gov.uk/uksi/2020/1640), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1640/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1640/schedule)
+
+[^key-d0506feb387c47c48007c2cad05f1442]: Commencement: Reg. 38 in force at 31.12.2020 by [S.I. 2020/1640](https://www.legislation.gov.uk/uksi/2020/1640), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1640/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1640/schedule)
+
+[^key-cd81b9c5708584a5389ce44175fc6c89]: Commencement: Reg. 39 in force at 31.12.2020 by [S.I. 2020/1640](https://www.legislation.gov.uk/uksi/2020/1640), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1640/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1640/schedule)
+
+[^key-6f39794d699a51a61112531a58ecfdf6]: Commencement: Reg. 40 in force at 31.12.2020 by [S.I. 2020/1640](https://www.legislation.gov.uk/uksi/2020/1640), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1640/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1640/schedule)
+
+[^key-e7246bb076489ce6e653d0b7f098b776]: Commencement: Reg. 41 in force at 31.12.2020 by [S.I. 2020/1640](https://www.legislation.gov.uk/uksi/2020/1640), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1640/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1640/schedule)
+
+[^c23683761]: Marginal citation: [S.I. 2001/1712](https://www.legislation.gov.uk/uksi/2001/1712), amended by [S.I. 2010/593](https://www.legislation.gov.uk/uksi/2010/593); there are other amending instruments but none is relevant.
+
+[^key-f3ed9c64374d6879b9d938c616df41fe]: Commencement: Reg. 42 in force at 31.12.2020 by [S.I. 2020/1640](https://www.legislation.gov.uk/uksi/2020/1640), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1640/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1640/schedule)
+
+[^key-de33333ab78278203ef9be1bed64d844]: Textual amendment: Words in reg. 42(1) substituted (31.12.2020) by [The Excise Duties (Transitional and Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1494)](https://www.legislation.gov.uk/uksi/2020/1494), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1494/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2020/1494/regulation/2/2)
+
+[^key-94203a446781d5ee8e1abc74cead8d10]: Textual amendment: Words in reg. 42(2) substituted (31.12.2020) by [The Excise Duties (Transitional and Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1494)](https://www.legislation.gov.uk/uksi/2020/1494), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1494/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2020/1494/regulation/2/2)
+
+[^c23683771]: Marginal citation: [S.I. 2018/1248](https://www.legislation.gov.uk/uksi/2018/1248).
+
+[^key-c026d8313dfd6a842de46f31b52239da]: Modification: Pt. 4 applied (with modifications) (31.12.2020) by [The Excise Duties (Miscellaneous Amendments) (EU Exit) (No. 3) Regulations 2019 (S.I. 2019/474)](https://www.legislation.gov.uk/uksi/2019/474), [regs. 1](https://www.legislation.gov.uk/uksi/2019/474/regulation/1), [9](https://www.legislation.gov.uk/uksi/2019/474/regulation/9); [S.I. 2020/1640](https://www.legislation.gov.uk/uksi/2020/1640), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1640/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1640/schedule)
+
+[^key-b2d86afa45416e4e32ae05c4ec1ff75b]: Commencement: Reg. 43 in force at 31.12.2020 by [S.I. 2020/1640](https://www.legislation.gov.uk/uksi/2020/1640), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1640/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1640/schedule)
+
+[^key-c669024b7d77f327c35624e1fdedbde5]: Commencement: Reg. 44 in force at 31.12.2020 by [S.I. 2020/1640](https://www.legislation.gov.uk/uksi/2020/1640), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1640/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1640/schedule)
+
+[^key-b5df4eff4ab50679d6235c7906832ebd]: Textual amendment: Reg. 44 substituted for regs. 44-57 (31.12.2020) by [The Excise Duties (Transitional and Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1494)](https://www.legislation.gov.uk/uksi/2020/1494), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1494/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2020/1494/regulation/2/3)
+
+[^M_F_8973139a-eff0-4d01-8bc7-6e8f0978689e]: Textual amendment: Reg. 44 substituted for regs. 44-57 (31.12.2020) by [The Excise Duties (Transitional and Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1494)](https://www.legislation.gov.uk/uksi/2020/1494), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1494/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2020/1494/regulation/2/3)

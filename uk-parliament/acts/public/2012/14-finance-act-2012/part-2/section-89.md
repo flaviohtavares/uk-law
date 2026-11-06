@@ -1,0 +1,44 @@
+---
+title: Finance Act 2012, section 89
+act: Finance Act 2012
+section: '89'
+status: revised
+text_date: '2026-04-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2012/14/section/89
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Finance Act 2012, section 89
+
+> Text as at 2026-04-01.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 89. Miscellaneous income and losses
+
+*Extent: E+W+S+N.I.*
+
+(1) In the application of the I - E rules for an accounting period in relation to an insurance company's basic life assurance and general annuity business, BLAGAB miscellaneous income of the company for the period is to count as income for the purposes of those rules only in so far as it exceeds BLAGAB miscellaneous losses of the company for the period.
+
+(2) If for an accounting period the BLAGAB miscellaneous losses exceed the BLAGAB miscellaneous income, the excess—
+
+- (a) is carried forward to the next accounting period, and
+- (b) is treated for the purposes of section 76 as a deemed BLAGAB management expense for that period.
+
+(3) In this section—
+
+- “**BLAGAB miscellaneous income**”, in relation to a company, means income of the company arising from its long-term business which—
+  - (a) is chargeable under any provision to which section 1173 of CTA 2010 (miscellaneous charges) applies other than section 752 of CTA 2009 (non-trading gains on intangible fixed assets), and
+  - (b) is referable, in accordance with Chapter 4, to the company's basic life assurance and general annuity business, and
+- “**BLAGAB miscellaneous losses**”, in relation to a company, means losses of the company arising from its long-term business which—
+  - (a) arise from miscellaneous transactions, and
+  - (b) are referable, in accordance with Chapter 4, to the company's basic life assurance and general annuity business.
+
+(4) For the purposes of subsection (3) a transaction is a “miscellaneous transaction” if income arising from it would be chargeable under any provision to which section 1173 of CTA 2010 applies other than—
+
+- (a) section 752 of CTA 2009, or
+- (b) regulation 18(4) of the Offshore Funds (Tax) Regulations 2009 (offshore income gains).
+
+(5) For the purposes of this section references to income that is chargeable under any provision to which section 1173 of CTA 2010 applies are to income that, but for sections 68 and 69, would be chargeable under that provision.

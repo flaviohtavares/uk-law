@@ -1,0 +1,92 @@
+---
+title: The Road Traffic Accident (Payments for Treatment) Order 1995
+id: uksi/1995/889
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '1995-03-27'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1995/889
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1995/889/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Road Traffic Accident (Payments for Treatment) Order 1995
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+1995 No. 889
+
+Road Traffic
+
+The Road Traffic Accident (Payments for Treatment) Order 1995
+
+Made
+
+27th March 1995
+
+Laid before Parliament
+
+27th March 1995
+
+Coming into force
+
+17th April 1995
+
+The Secretary of State for Health, as respects England and Wales, in exercise of powers conferred by section 5 of, and Schedule 3 to, the Public Expenditure and Receipts Act 1968[^f00001] and now vested in her[^f00002], and the Secretary of State for Scotland, as respects Scotland, in exercise of those powers, and, in each case, in exercise of all other powers enabling them in that behalf, hereby make the following Order:—
+
+## 1. Citation, commencement, application and interpretation
+
+(1) This Order may be cited as the Road Traffic Accidents (Payments for Treatment) Order 1995 and shall come into force on 17th April 1995.
+
+(2) This Order shall apply in relation to any case where, on or after 17th April 1995—
+
+- (a) treatment is first received for the purposes of section 157(1)(a) of the Act, or
+- (b) treatment or an examination is effected for the purposes of section 158(1) of the Act.
+
+(3) In this Order “the Act” means the Road Traffic Act 1988 [^f00003].
+
+## 2. Maximum payments for hospital treatment of traffic casualties
+
+In section 157(2) of the Act (maximum amounts of payments for hospital treatment of traffic casualities) for the sum of £2,856.00 there shall be substituted the sum of £2,949.00, and the sum of £286.00 there shall be substituted the sum of £295.00.
+
+## 3. Payment for emergency treatment of traffic casualties
+
+In section 158(2) of the Act (payments by users of vehicles of fees and mileage allowances to practitioners in respect of emergency treatment) for the sum of £20.65 there shall be substituted the sum of £21.30, and for the sum of 40 pence there shall be substituted the sum of 41 pence.
+
+Signed by authority of the Secretary of State for Health
+
+Tom Sackville
+
+Parliamentary Under Secretary of State,
+
+Department of Health
+
+24th March 1995
+
+Hector Monro
+
+Parliamentary Under Secretary of State, The Scottish Office
+
+27th March 1995
+
+(This note is not part of the Order)
+
+This Order increases the amounts payable under sections 157(2) and 158(2) of the Road Traffic Act 1988. Section 157 provides for payments for hospital treatment of traffic casualties to be made by an owner or insurer of a vehicle the use of which gave rise to the injuries, and section 158 for payments to be made, by the person using such a vehicle, for emergency treatment and a medical practitioner’s travelling expenses.
+
+The maximum amounts payable for hospital treatment are increased from £2,856.00 to £2,949.00 for persons treated as in-patients, and from £286.00 to £295.00 for persons treated as out-patients (article 2).
+
+For emergency treatment the fee is increased from £20.65 to £21.30. For travelling expenses, the amount for each mile in excess of two covered by a practitioner to provide such treatment is increased from 40 pence to 41 pence (article 3).
+
+## Annotations
+
+[^f00001]: Footnote: [1968 c. 14](https://www.legislation.gov.uk/ukpga/1968/14); item 8 in Schedule 3 now refers to sections 157 and 158 of the Road Traffic Act [1988 (c. 52)](https://www.legislation.gov.uk/ukpga/1988/52). Under paragraph 3 of Schedule 10 to the Road Traffic Act [1972 (c. 20)](https://www.legislation.gov.uk/ukpga/1972/20) (“the 1972 Act”) the references to section 212 and 213 of the Road Traffic Act [1960 (c. 16)](https://www.legislation.gov.uk/ukpga/1960/16) were construed as referring to the corresponding provisions of the 1972 Act. The relevant provisions of the 1972 Act were repealed by Schedule 1 to the Road Traffic (Consequential Provisions) Act [1988 (c. 54)](https://www.legislation.gov.uk/ukpga/1988/54), and, by section 2(4) of that Act of 1988, the references to the relevant provisions of the 1972 Act are to be read as references to the corresponding provisions of the Road Traffic Act 1988.
+
+[^f00002]: Footnote: By article 5(4) of the Secretary of State for Social Services Order 1968 ([S.I. 1968/1699](https://www.legislation.gov.uk/uksi/1968/1699)) the reference to the Minister of Health in item 8 in Schedule 3 to the 1968 Act is a reference to the Secretary of State; *see*also article 2 of the Transfer of Functions (Health and Social Security) Order 1988 ([S.I. 1988/1843](https://www.legislation.gov.uk/uksi/1988/1843)).
+
+[^f00003]: Footnote: [1988 c. 52](https://www.legislation.gov.uk/ukpga/1988/52); section 157(2) and subsection (2) of section 158(2) were amended by [S.I. 1990/1364](https://www.legislation.gov.uk/uksi/1990/1364), [1991/2005](https://www.legislation.gov.uk/uksi/1991/2005), [1992/2402](https://www.legislation.gov.uk/uksi/1992/2402) and [1993/2474](https://www.legislation.gov.uk/uksi/1993/2474).

@@ -1,0 +1,182 @@
+---
+title: The Social Security (Breach of Community Order) (Consequential Amendments) Regulations 2001
+id: uksi/2001/1711
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2001-05-03'
+text_date: '2026-04-01'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/uksi/2001/1711
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2001/1711/pdfs/uksi_20011711_en.pdf
+- http://www.legislation.gov.uk/uksi/2001/1711/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Social Security (Breach of Community Order) (Consequential Amendments) Regulations 2001
+
+> Text as at 2026-04-01.
+>
+> Extent: England, Wales, Scotland.
+
+*Extent: E+W+S*
+
+2001 No. 1711
+
+SOCIAL SECURITY
+
+The Social Security (Breach of Community Order) (Consequential Amendments) Regulations 2001
+
+Made
+
+3rd May 2001
+
+Laid before Parliament
+
+8th May 2001
+
+Coming into force
+
+15th October 2001
+
+The Secretary of State for Social Security, in exercise of the powers conferred upon him by sections 22(5), 122(1), 123(1)(d) and (e), 137(1) and 175(1), (3) and (4) of the Social Security Contributions and Benefits Act 1992[^f00001], sections 5(3), 21, 26(1) and (4)(d), 35(1) and 36(1), (2) and (4) of, and paragraph 8 of Schedule 1 to, the Jobseekers Act 1995[^f00002], sections 9(1), 10(3) and (6), 79(1) and 84 of the Social Security Act 1998[^f00003] and section 69(2)(a) of the Child Support, Pensions and Social Security Act 2000[^f00004], and of all other powers enabling him in that behalf, after consultation, in relation to regulation 2(1), with organisations appearing to him to be representative of the authorities concerned[^f00005] and which is made before the end of a period of six months beginning with the coming into force of sections 62 to 65 of the Child Support, Pensions and Social Security Act 2000[^f00006], hereby makes the following Regulations:
+
+## 1. Citation and commencement[^key-8be4e3c1a851ee8ddd3bf1eb5598a46a]
+
+These Regulations may be cited as the Social Security (Breach of Community Order) (Consequential Amendments) Regulations 2001 and shall come into force on 15th October 2001.
+
+## 2. Consequential amendments[^key-6fd54b951208d6906670d0aec4b518e1]
+
+(1)[^key-edcbca72ebb1155c5b6b2bbdceac5ce4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) In the Social Security and Child Support (Decisions and Appeals) Regulations 1999[^f00009]—
+
+- (a) in regulation 1(3) (citation, commencement and interpretation) after the definition of “legally qualified panel member” there shall be inserted the following definition—
+
+  > - “the Breach of Community Order Regulations” means the Social Security (Breach of Community Order) Regulations 2001[^f00010];
+
+  ;
+- (b) in regulation 3 (revision of decisions) after paragraph (8) there shall be inserted the following paragraph—
+
+  > (8A) Where a court makes a determination which results in a restriction being imposed pursuant to section 62 or 63 of the Child Support, Pensions and Social Security Act 2000 (loss of benefit provisions) and that determination is quashed or set aside by that or any other court, a decision of the Secretary of State under section 8(1)(a) or 10 made in accordance with regulation 6(2)(i) may be revised at any time.
+
+  ;
+- (c) in regulation 6 (supersession of decisions) after paragraph (2)(h) there shall be added the following paragraph—
+
+  > - (i) is a decision of the Secretary of State that a jobseeker’s allowance or income support is payable to a claimant where the Secretary of State is notified that a court has made a determination which results in a restriction being imposed pursuant to section 62 or 63 of the Child Support, Pensions and Social Security Act 2000.
+
+  ;
+- (d) in regulation 7 (date from which a decision superseded under section 10 takes effect) after paragraph (26) there shall be added the following paragraph—
+
+  > (27) A decision to which regulation 6(2)(i) applies shall take effect from the beginning of the period specified—
+  >
+  > - (a) subject to sub-paragraphs (d) and (e), in relation to a jobseeker’s allowance—
+  >   - (i) in regulation 3(1)(a) of the Breach of Community Order Regulations;
+  >   - (ii) in regulation 3(1)(b) of those Regulations;
+  > - (b) subject to sub-paragraphs (d) and (e), in relation to income support—
+  >   - (i) in regulation 3(3)(a) of the Breach of Community Order Regulations;
+  >   - (ii) in regulation 3(3)(b) of those Regulations;
+  > - (c) subject to sub-paragraphs (d) and (e), in relation to a joint-claim jobseeker’s allowance—
+  >   - (i) in regulation 3(4)(a) of the Breach of Community Order Regulations;
+  >   - (ii) in regulation 3(4)(b) of those Regulations;
+  > - (d) in regulation 3(5) of the Breach of Community Order Regulations;
+  > - (e) in regulation 3(6) of the Breach of Community Order Regulations.
+
+  .
+
+(3) In regulation 3(1) of the Social Security (Back to Work Bonus) (No. 2) Regulations 1996[^f00011] (period of entitlement to a qualifying benefit: further provisions), after the words “section 19” there shall be inserted the words “or in accordance with section 62 or 63 of the Child Support, Pensions and Social Security Act 2000 (loss of benefit provisions)”.
+
+(4) In the Jobseeker’s Allowance Regulations 1996[^f00012]—
+
+- (a) at the end of regulation 47(4)(b)(ii) (jobseeking period) there shall be added the words “or by virtue of a restriction imposed pursuant to section 62 or 63 of the Child Support, Pensions and Social Security Act 2000 (loss of benefit provisions)”;
+- (b) for paragraph (1) of regulation 170 (persons in receipt of a training allowance) there shall be substituted the following paragraph—
+
+  > (1) A person who is not receiving training falling within paragraph (2) may be entitled to an income-based jobseeker’s allowance without—
+  >
+  > - (a) being available for employment;
+  > - (b) having entered into a jobseeker’s agreement; or
+  > - (c) actively seeking employment,
+  >
+  > if he is in receipt of a training allowance or if he would be in receipt of a training allowance if the Social Security (Breach of Community Order) Regulations 2001 did not prevent the payment of a training allowance to him.
+
+  .
+
+(5) At the end of regulation 8A(2) of the Social Security (Credits) Regulations 1975[^f00013] (credits for unemployment), there shall be added the following—
+
+> or
+>
+> (d) a week in respect of which he would have been paid a jobseeker’s allowance but for a restriction imposed pursuant to section 62 or 63 of the Child Support, Pensions and Social Security Act 2000 (loss of benefit provisions)
+
+.
+
+(6 (Extent: E) (affected by repeal, see note))[^key-26971b9664b79a366836fe2081dd2831] At the end of regulation 3 of the Discretionary Financial Assistance Regulations 2001 *(Extent: E)* *(affected by repeal, see note)*[^key-26971b9664b79a366836fe2081dd2831][^f00014] (circumstances in which discretionary housing payments may be made), there shall be added the following paragraph— *(Extent: E)* *(affected by repeal, see note)*[^key-26971b9664b79a366836fe2081dd2831]
+
+> - (l (Extent: E) (affected by repeal, see note))[^key-26971b9664b79a366836fe2081dd2831] a restriction in relation to the payment of benefit imposed pursuant to section 62 or 63 of the Child Support, Pensions and Social Security Act 2000 (loss of benefit provisions) *(Extent: E)* *(affected by repeal, see note)*[^key-26971b9664b79a366836fe2081dd2831]
+
+. *(Extent: E)* *(affected by repeal, see note)*[^key-26971b9664b79a366836fe2081dd2831]
+
+Signed by authority of the Secretary of State for Social Security.
+
+Angela Eagle
+
+Parliamentary Under-Secretary of State,
+
+Department of Social Security
+
+3rd May 2001
+
+(This note is not part of the Regulations)
+
+These Regulations are made in consequence of sections 62 to 65 of the Child Support, Pensions and Social Security Act [2000 (c. 19)](https://www.legislation.gov.uk/ukpga/2000/19) (“the Act”) which relate to restrictions in payment of certain benefits where a person has been found by a court to have breached a community service order.
+
+The Regulations are made before the end of the period of six months beginning with the coming into force of the relevant provisions in the Act and are therefore exempt from the requirement in section 172(1) of the Social Security Administration Act [1992 (c. 5)](https://www.legislation.gov.uk/ukpga/1992/5) to refer proposals to make these Regulations to the Social Security Advisory Committee and are made without reference to that Committee.
+
+Regulation 2(1) amends the Housing Benefit (General) Regulations 1987 ([S.I. 1987/1971](https://www.legislation.gov.uk/uksi/1987/1971)) and the Council Tax Benefit (General) Regulations 1992 ([S.I. 1992/1814](https://www.legislation.gov.uk/uksi/1992/1814)) so as to ensure that those whose income support and jobseeker’s allowance are so restricted, do not lose their housing benefit or council tax benefit as a result.
+
+Regulation 2(2) amends the Social Security and Child Support (Decisions and Appeals) Regulations 1999 ([S.I. 1999/991](https://www.legislation.gov.uk/uksi/1999/991)) to ensure that the decision making and appeal mechanisms apply to decisions to restrict income support and jobseeker’s allowance for such reasons.
+
+Regulation 2(3) and (4) respectively make consequential amendments to the Social Security (Back to Work Bonus) (No. 2) Regulations 1996 ([S.I. 1996/2570](https://www.legislation.gov.uk/uksi/1996/2570)) and to the Jobseeker’s Allowance Regulations 1996 ([S.I. 1996/207](https://www.legislation.gov.uk/uksi/1996/207)).
+
+Regulation 2(5) amends the Social Security (Credits) Regulations 1975 ([S.I. 1975/556](https://www.legislation.gov.uk/uksi/1975/556)) to ensure that those whose jobseeker’s allowance is restricted for such reasons do not lose credits for unemployment.
+
+Regulation 2(6) amends the Discretionary Financial Assistance Regulations 2001 ([S.I. 2001/1167](https://www.legislation.gov.uk/uksi/2001/1167)) to provide that discretionary housing payments shall not be made where the requirement for financial assistance arises as a consequence of such a restriction.
+
+These Regulations do not impose a charge on business.
+
+## Annotations
+
+[^f00001]: Footnote: [1992 c. 4](https://www.legislation.gov.uk/ukpga/1992/4); section 123(1)(d) was inserted and section 137 amended, with respect to council tax benefit, by Schedule 9 to the Local Government Finance Act [1992 (c. 14)](https://www.legislation.gov.uk/ukpga/1992/14). Sections 122(1) and 137(1) are cited because of the meaning ascribed to the words “prescribe” and “prescribed” respectively.
+
+[^f00002]: Footnote: [1995 c. 18](https://www.legislation.gov.uk/ukpga/1995/18); section 35(1) is an interpretation provision and is cited because of the meaning ascribed to the words “prescribed” and “regulations”.
+
+[^f00003]: Footnote: [1998 c. 14](https://www.legislation.gov.uk/ukpga/1998/14); section 84 is an interpretation provision and is cited because of the meaning ascribed to the word “prescribe”.
+
+[^f00004]: Footnote: [2000 c. 19](https://www.legislation.gov.uk/ukpga/2000/19).
+
+[^f00005]: Footnote: *See* section 176(1) of the Social Security Administration Act [1992 (c. 5)](https://www.legislation.gov.uk/ukpga/1992/5).
+
+[^f00006]: Footnote: Section 73 of that Act added sections 62 to 65 of that Act to the list of “relevant enactments” in respect of which regulations must normally be referred to the Committee. *See* however section 173(5)(a) of the Social Security Administration Act 1992.
+
+[^key-8be4e3c1a851ee8ddd3bf1eb5598a46a]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2001/1711/regulation/1) in force at 15.10.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/1711/regulation/1)
+
+[^key-6fd54b951208d6906670d0aec4b518e1]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2001/1711/regulation/2) in force at 15.10.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/1711/regulation/1)
+
+[^key-edcbca72ebb1155c5b6b2bbdceac5ce4]: Textual amendment: [Reg. 2(1)](https://www.legislation.gov.uk/uksi/2001/1711/regulation/2/1) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
+
+[^f00009]: Footnote: [S.I. 1999/991](https://www.legislation.gov.uk/uksi/1999/991); the relevant amending instruments are [S.I. 1999/1623](https://www.legislation.gov.uk/uksi/1999/1623) and [2677](https://www.legislation.gov.uk/uksi/1999/2677) and [2000/897](https://www.legislation.gov.uk/uksi/2000/897), [1596](https://www.legislation.gov.uk/uksi/2000/1596) and [1982](https://www.legislation.gov.uk/uksi/2000/1982).
+
+[^f00010]: Footnote: [S.I. 2001/1395](https://www.legislation.gov.uk/uksi/2001/1395).
+
+[^f00011]: Footnote: [S.I. 1996/2570](https://www.legislation.gov.uk/uksi/1996/2570) to which there are amendments which are not relevant to these Regulations.
+
+[^f00012]: Footnote: [S.I. 1996/207](https://www.legislation.gov.uk/uksi/1996/207).
+
+[^f00013]: Footnote: [S.I. 1975/556](https://www.legislation.gov.uk/uksi/1975/556); regulation 8A was inserted by [S.I. 1996/2367](https://www.legislation.gov.uk/uksi/1996/2367).
+
+[^key-26971b9664b79a366836fe2081dd2831]: Textual amendment: [Reg. 2(6)](https://www.legislation.gov.uk/uksi/2001/1711/regulation/2/6) revoked (E.) (1.4.2026) by [The Discretionary Financial Assistance and Discretionary Housing Payments (Amendment and Revocation) Regulations 2026 (S.I. 2026/271)](https://www.legislation.gov.uk/uksi/2026/271), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/271/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/271/schedule)
+
+[^f00014]: Footnote: [S.I. 2001/1167](https://www.legislation.gov.uk/uksi/2001/1167).

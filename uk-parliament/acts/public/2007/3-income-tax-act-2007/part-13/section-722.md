@@ -1,0 +1,32 @@
+---
+title: Income Tax Act 2007, section 722
+act: Income Tax Act 2007
+section: '722'
+status: revised-with-pending-changes
+text_date: '2026-09-16'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2007/3/section/722
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Income Tax Act 2007, section 722
+
+> **Warning: changes not yet applied to this text (14).** Text as at 2026-09-16. See https://www.legislation.gov.uk/changes/affected/ukpga/2007/3
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 722. When an individual has power to enjoy income of person abroad
+
+*Extent: E+W+S+N.I.*
+
+(1) For the purposes of section 721, an individual is treated as having power to enjoy income of a person abroad if any of the enjoyment conditions are met.
+
+(2) In subsection (1) “**the enjoyment conditions**” means conditions A to E as specified in section 723.
+
+(3) In determining whether an individual has power to enjoy income for the purposes of section 721, regard must be had to the substantial result and effect of all the relevant transactions.
+
+(4) In making that determination all benefits which may at any time accrue to the individual as a result of the transfer and any associated operations must be taken into account, irrespective of—
+
+- (a) the nature or form of the benefits, or
+- (b) whether the individual has legal or equitable rights in respect of the benefits.

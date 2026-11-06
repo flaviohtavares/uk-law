@@ -1,0 +1,151 @@
+---
+title: The Stamp Duty Land Tax (Amendment of Schedule 4 to the Finance Act 2003) Regulations 2003
+id: uksi/2003/3293
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2003-12-18'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2003/3293
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2003/3293/pdfs/uksi_20033293_en.pdf
+- http://www.legislation.gov.uk/uksi/2003/3293/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Stamp Duty Land Tax (Amendment of Schedule 4 to the Finance Act 2003) Regulations 2003
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2003 No. 3293
+
+TAXES
+
+The Stamp Duty Land Tax (Amendment of Schedule 4 to the Finance Act 2003) Regulations 2003
+
+Made
+
+18th December 2003
+
+Laid before the House of Commons
+
+18th December 2003
+
+Coming into force
+
+19th December 2003
+
+The Treasury, in exercise of the powers conferred upon them by section 50(2) and (3) of the Finance Act 2003[^f00001], make the following Regulations:
+
+## 1. Citation and commencement
+
+These Regulations may be cited as the Stamp Duty Land Tax (Amendment of Schedule 4 to the Finance Act 2003) Regulations 2003 and shall come into force on 19th December 2003.
+
+## 2. Amendment of Schedule 4 to the Finance Act 2003
+
+(1) Schedule 4 to the Finance Act 2003 (chargeable consideration for the purposes of stamp duty land tax) is amended as follows.
+
+(2) In paragraph 5(6) (exceptions to the rule on the treatment of exchanges)—
+
+- (a) at the end of the entry relating to paragraph 6 omit “and”; and
+- (b) after that entry insert—
+
+  > - paragraph 17 of this Schedule (arrangements involving public or educational bodies), and
+
+  .
+
+(3) In paragraph 10 (carrying out of works) at the end add —
+
+> (5) This paragraph is subject to paragraph 17 (arrangements involving public or educational bodies).
+
+.
+
+(4) Renumber paragraph 11 (provision of services) as sub-paragraph (1) of that paragraph and after it insert—
+
+> (2) This paragraph is subject to paragraph 17 (arrangements involving public or educational bodies).
+
+.
+
+(5) At the end of the Schedule add—
+
+> **17. Arrangements involving public or educational bodies**
+>
+> (1) This paragraph applies in any case where arrangements are entered into under which—
+>
+> - (a) a qualifying body (“A”) transfers, or grants or assigns a lease of, any land (“the transferred land”) to a non-qualifying body (“B”),
+> - (b) in consideration (whether in whole or in part) for that transfer, grant, or assignment, B grants A a lease or under-lease of the whole, or substantially the whole, of that land (“the leased-back land”),
+> - (c) B undertakes to carry out works or provide services to A, and
+> - (d) some or all of the consideration given by A to B for the carrying out of those works or the provision of those services is consideration in money,
+>
+> whether or not A also transfers, or grants or assigns a lease of, any other land (“surplus land”) to B.
+>
+> (2) The following are qualifying bodies—
+>
+> - (a) public bodies within section 66,
+> - (b) institutions within the further education sector or the higher education sector within the meaning of 91 of the Further and Higher Education Act 1992[^f00002],
+> - (c) further education corporations within the meaning of section 17 of that Act[^f00003],
+> - (d) higher education corporations within the meaning section 90 of that Act,
+> - (e) persons who undertake to establish and maintain, and carry on, or provide for the carrying on, of an Academy within the meaning of section 482 of the Education Act 1996[^f00004], and
+> - (f) in Scotland, institutions funded by the Scottish Further Education Funding Council or the Scottish Higher Education Funding Council.
+>
+> (3) In determining for the purposes of paragraph 5(3) the chargeable consideration for any of the land transactions mentioned in sub-paragraph (1), the market value of the subject matter of—
+>
+> - (a) the transfer or lease of the transferred land,
+> - (b) the lease or under-lease of the leased-back land, and
+> - (c) any transfer or lease of surplus land,
+>
+> shall be taken to be nil.
+>
+> (4) For the purposes of paragraph 5(3) none of the following shall be regarded as rent—
+>
+> - (a) the carrying out of the works, or the provision of the services, mentioned in sub-paragraph (1)(c);
+> - (b) any consideration in money or money’s worth given by A to B for the carrying out of those works or the provision of those services;
+>
+> and paragraphs 10 and 11 shall be disregarded.
+>
+> (5) This paragraph applies to Scotland as if—
+>
+> - (a) references to A transferring land to B were references to A transferring the interest of an owner of land to B, and
+> - (b) in sub-paragraph (1)(b) for “assignment” there were substituted “assignation”.
+>
+> - Until the appointed day for the purposes of the [Abolition of Feudal Tenure etc. (Scotland) Act 2000](https://www.legislation.gov.uk/asp/2000/5)[^f00005] (asp 5), the reference in paragraph (a) to the interest of the owner shall be read, in relation to feudal property, as a reference to the estate or interest of the proprietor of the *dominium utile.*
+>
+> (6) In this paragraph “under-lease” includes a sub-lease.
+
+.
+
+Jim Murphy
+
+John Heppell
+
+Two of the Lords Commissioners of Her Majesty’s Treasury
+
+18th December 2003
+
+(This note is not part of the Regulations)
+
+Section 55(1) of the Finance Act [2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14) provides that the amount of stamp duty land tax chargeable is by reference to the chargeable consideration for a land transaction. Section 50(2) confers power on the Treasury to amend Part 4 of that Act relating to chargeable consideration. Schedule 4 to the Act provides for the determination of chargeable consideration. These Regulations amend Schedule 4 in its application to arrangements involving public or educational bodies.
+
+Regulation 1 provides for the citation and commencement of this instrument.
+
+Regulation 2 amends Schedule 4 by adding a new paragraph 17 dealing with the calculation of chargeable consideration in relation to arrangements involving public or educational bodies. That paragraph applies where arrangements are made between a qualifying body (as described in paragraph 17(2)) and a non-qualifying body.
+
+Regulation 2 also makes consequential amendments.
+
+These Regulations do not impose any new costs on business.
+
+## Annotations
+
+[^f00001]: Footnote: [2003 c. 14](https://www.legislation.gov.uk/ukpga/2003/14).
+
+[^f00002]: Footnote: [1992 c. 13](https://www.legislation.gov.uk/ukpga/1992/13).
+
+[^f00003]: Footnote: Section 17 was amended by paragraph 7 of Schedule 3 to the Teaching and Higher Education Act [1998 (c. 30)](https://www.legislation.gov.uk/ukpga/1998/30).
+
+[^f00004]: Footnote: [1996 c. 56](https://www.legislation.gov.uk/ukpga/1996/56). Section 482 was substituted by section 65(1) of the Education Act 2002.
+
+[^f00005]: Footnote: [2000 asp 5](https://www.legislation.gov.uk/asp/2000/5).

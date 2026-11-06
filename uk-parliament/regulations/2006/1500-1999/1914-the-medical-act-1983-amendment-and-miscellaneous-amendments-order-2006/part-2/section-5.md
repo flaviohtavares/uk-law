@@ -1,0 +1,25 @@
+---
+title: The Medical Act 1983 (Amendment) and Miscellaneous Amendments Order 2006, section 5
+act: The Medical Act 1983 (Amendment) and Miscellaneous Amendments Order 2006
+section: '5'
+status: as-enacted
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2006/1914/section/5
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Medical Act 1983 (Amendment) and Miscellaneous Amendments Order 2006, section 5
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+## 5. Repeal of sections 22 to 25 of the Act
+
+Omit sections 22[^f00008] (limited registration of persons by virtue of overseas qualifications), 23 (limited registration: supplementary provisions), 24 (limited registration: erasure) and 25[^f00009] (full registration of persons with limited registration).
+
+## Annotations
+
+[^f00008]: Footnote: Section 22 was amended by S.I. [2002/3135](https://www.legislation.gov.uk/uksi/2002/3135).
+
+[^f00009]: Footnote: Section 25 was amended by S.I. [2002/3135](https://www.legislation.gov.uk/uksi/2002/3135).

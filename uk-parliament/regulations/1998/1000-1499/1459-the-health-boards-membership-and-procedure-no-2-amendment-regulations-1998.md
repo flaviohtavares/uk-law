@@ -1,0 +1,73 @@
+---
+title: The Health Boards (Membership and Procedure) (No.2) Amendment Regulations 1998
+id: uksi/1998/1459
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '1998-06-09'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1998/1459
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1998/1459/made/data.pdf
+pending_changes: 1
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Health Boards (Membership and Procedure) (No.2) Amendment Regulations 1998
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+1998 No. 1459 (S.77)
+
+NATIONAL HEALTH SERVICE, SCOTLAND
+
+The Health Boards (Membership and Procedure) (No.2) Amendment Regulations 1998
+
+Made
+
+9th June 1998
+
+Laid before Parliament
+
+15th June 1998
+
+Coming into force
+
+6th July 1998
+
+The Secretary of State, in exercise of the powers conferred on him by sections 2(10), 105(7) and 108(1) of, and by paragraph 11 of Schedule 1 to the National Health Service (Scotland) Act 1978[^f00001], and of all other powers enabling him in that behalf, hereby makes the following Regulations:
+
+## 1. Citation, commencement and interpretation
+
+(1) These Regulations may be cited as the Health Boards (Membership and Procedure) (No.2) Amendment Regulations 1998 and shall come into force on 6th July 1998.
+
+(2) In these Regulations “the principal Regulations” means the Health Boards (Membership and Procedure) (No.2) Regulations 1991[^f00002].
+
+## 2. Amendment to the principal Regulations
+
+In regulation 6 of the principal Regulations (disqualification) sub-paragraphs (b) and (c) of paragraph 1 are omitted.
+
+Sam Galbraith
+
+Minister for Health Scottish Office
+
+St Andrew’s House,
+
+Edinburgh
+
+9th June 1998
+
+(This note is not part of the Regulations)
+
+These Regulations further amend the Health Boards (Membership and Procedure) (No.2) Regulations 1991 (“the principal Regulations”). Regulation 6(1)(b) of the principal Regulations, which disqualifies a person from being a member of a Health Board if he holds any paid appointment or office with a trade union which represents the interests of members who are employed by a health service body, is omitted.
+
+Also omitted is regulation 6(1)(c) of the principal Regulations which disqualifies a person from being a member of a Health Board if he is a member of a fund-holding practice.
+
+## Annotations
+
+[^f00001]: Footnote: [1978 c. 29](https://www.legislation.gov.uk/ukpga/1978/29); section 105(7), which was amended by the Health Services Act [1980 (c. 53)](https://www.legislation.gov.uk/ukpga/1980/53) (“the 1980 Act”), Schedule 6, paragraph 5 and Schedule 7 and by the Health and Social Services and Social Security Adjudications Act [1983 (c. 41)](https://www.legislation.gov.uk/ukpga/1983/41), Schedule 9, paragraph 24, contains provisions relevant to the exercise of the statutory powers under which these Regulations are made; section 108(1) contains definitions of “prescribed” and “regulations”; and paragraph 11 of Schedule 1 was amended by the 1980 Act, Schedule 6, paragraph 7(4) and Schedule 7 and by the National Health Service and Community Care Act [1990 (c. 19)](https://www.legislation.gov.uk/ukpga/1990/19), Schedule 5, paragraph 7.
+
+[^f00002]: Footnote: [S.I. 1991/809](https://www.legislation.gov.uk/uksi/1991/809), amended by [S.I. 1993/1615](https://www.legislation.gov.uk/uksi/1993/1615).

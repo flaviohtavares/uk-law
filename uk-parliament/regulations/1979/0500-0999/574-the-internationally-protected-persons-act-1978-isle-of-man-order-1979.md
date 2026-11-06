@@ -1,0 +1,98 @@
+---
+title: The Internationally Protected Persons Act 1978 (Isle of Man) Order 1979
+id: uksi/1979/574
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '1979-05-23'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1979/574
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1979/574/pdfs/uksi_19790574_en.pdf
+- http://www.legislation.gov.uk/uksi/1979/574/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Westlaw UK derived from Crown Copyright material and contributed to legislation.gov.uk
+summary: ''
+---
+
+# The Internationally Protected Persons Act 1978 (Isle of Man) Order 1979
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+1979 No. 574
+
+PREVENTION AND SUPPRESSION OF TERRORISM
+
+The Internationally Protected Persons Act 1978 (Isle of Man) Order 1979
+
+Made
+
+23rd May 1979
+
+Coming into Operation
+
+24th May 1979
+
+At the Court at Buckingham Palace, the 23rd day of May 1979
+
+Present,
+
+The Queen's Most Excellent Majesty in Council
+
+Her Majesty, in exercise of the powers conferred upon Her by section 4(2) of the Internationally Protected Persons Act 1978, is pleased, by and with the advice of Her Privy Council, to order, and it is hereby ordered, as follows:—
+
+**1.** This Order may be cited as the Internationally Protected Persons Act 1978 (Isle of Man) Order 1979 and shall come into operation on 24th May 1979.
+
+**2.** The Internationally Protected Persons Act 1978 shall extend to the Isle of Man with the exceptions, adaptations and modifications specified in the Schedule to this Order.
+
+N.E. Leigh
+
+Clerk of the Privy Council
+
+## SCHEDULE — EXCEPTIONS TO AND ADAPTATIONS AND MODIFICATIONS OF THE INTERNATIONALLY PROTECTED PERSONS ACT 1978 AS IT HAS EFFECT IN THE ISLE OF MAN
+
+Article 2
+
+**1.** Save where the context otherwise requires, any reference to any enactment shall be construed as a reference to that enactment as it has effect in the Isle of Man.
+
+**2.** Save in the reference to a citizen of the United Kingdom and Colonies, for any reference to the United Kingdom or any part thereof there shall be substituted a reference to the Isle of Man.
+
+**3.** In section 1(1) in paragraph (a) and (b) for the words “guilty of” there shall be substituted the words “guilty in the Island of an offence equivalent to”.
+
+**4.** For section 2 there shall be substituted the following section:—
+
+> **2. Provisions supplementary to s.1**
+>
+> (1) In the Schedule to the Visiting Forces Act 1952[^f00001] (which specifies the offences in the Isle of Man which are offences in the Isle of Man against the person and against property for the purposes of section 3 of that Act)—
+>
+> - (a) after paragraph (b) there shall be inserted the following paragraph:—
+>
+>   > - (c) an offence of making such a threat as is mentioned in subsection (3)(a) of section 1 of the Internationally Protected Persons Act 1978 and any of the following offences against a protected person within the meaning of that section, namely an offence against section 347 of the Criminal Code 1872 (an Act of Tynwald) equivalent to the offence in England and Wales of kidnapping or false imprisonment and an offence under section 2 of the Explosive Substances Act 1883 (an Act of Tynwald) of causing an explosion likely to endanger life;
+>
+>   and
+> - (b) after paragraph (v) (at the end of the Schedule) there shall be inserted the following paragraph:—
+>
+>   > - (vi) an offence under section 2 of the Explosive Substances Act 1883 (an Act of Tynwald) of causing an explosion likely to cause serious damage to property in connection with such an attack as is mentioned in section 1(1)(b) of the Internationally Protected Persons Act 1978.
+>
+>   .
+>
+> (2) Any reference in subsection (1) above to an enactment of Tynwald shall be construed as a reference to that enactment as amended or replaced by or under any other enactment of Tynwald.
+
+.
+
+**5.** Sections 3 and 4 shall be omitted.
+
+**6.** In section 5—
+
+- (a) subsections (3) and (5) shall be omitted;
+- (b) in subsection (4) the reference to section 4(5) of the Suppression of Terrorism Act 1978 shall be omitted.
+
+EXPLANATORY NOTE
+
+This Order extends the Internationally Protected Persons Act 1978 to the Isle of Man with exceptions, adaptations and modifications.
+
+## Annotations
+
+[^f00001]: Footnote: 1952 c. 67; in its application to the Isle of Man, the Schedule to the Act was substituted by the Schedule in paragraph 15 of the Schedule to the Visiting Forces Act (Application to the Isle of Man) Order 1962 (S.I. 1962/170).

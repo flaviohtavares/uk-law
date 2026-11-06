@@ -1,0 +1,806 @@
+---
+title: The Childcare Payments Regulations 2015
+id: uksi/2015/522
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: null
+text_date: '2023-11-16'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2015/522
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2015/522/pdfs/uksiem_20150522_en.pdf
+- http://www.legislation.gov.uk/uksi/2015/522/pdfs/uksi_20150522_en.pdf
+- http://www.legislation.gov.uk/uksi/2015/522/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Childcare Payments Regulations 2015
+
+> Text as at 2023-11-16.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2015 No. 522
+
+Childcare
+
+Payment Scheme
+
+The Childcare Payments Regulations 2015
+
+Made
+
+*4*th *March 2015*
+
+Laid before Parliament
+
+*5*th *March 2015*
+
+Coming into force
+
+*1*st *June 2015*
+
+The Commissioners for Her Majesty's Revenue and Customs make the following Regulations, in exercise of the powers conferred by sections 2(3)(a) and (4), 4(6), 5(3), 15(3), (4) and (5), 17(4), 19(6), 24(1), (3) and (4), 25, 26(1) and (3), 49(6), 62(1), (2), (3) and (5) and 69(3) and (4) of the Childcare Payments Act 2014 [^c22408191].
+
+## 1. Citation and commencement
+
+These Regulations may be cited as the Childcare Payments Regulations 2015 and come into force on 1st June 2015.
+
+## 2. Interpretation
+
+In these Regulations—
+
+- “**the Act**” means the Childcare Payments Act 2014, and a reference without more to a numbered section is a reference to the section of the Act bearing that number;
+- [^key-69e6e746a5e3b97e8cbed9e78d8979cc]...
+- “**armed forces independence payment**” means an armed forces independence payment under the Armed Forces and Reserve Forces (Compensation Scheme) Order 2011 [^c22408201];
+- “**disability living allowance**” means disability living allowance under sections 71 to 76 of the Social Security Contributions and Benefits Act 1992 [^c22408211] or sections 71 to 76 of the Social Security Contributions and Benefits (Northern Ireland) Act 1992 [^c22408221];
+- “**disabled child**” is to be read in accordance with regulations made under section 14 (qualifying child) [^c22408231];
+- “**personal independence payment**” means a personal independence payment under Part 4 of the Welfare Reform Act 2012 [^c22408241] or Part 5 of the Welfare Reform (Northern Ireland) Order 2015[^key-1aabe2afd610d2e13d91b9bf2dd7475c];
+- “prescribed state” means any EEA state or Switzerland;[^key-9f0a8088b2109964aaa297a604cdbffd]
+- “relevant maximum” for an entitlement period is to be read in accordance with section 19 (payments into childcare accounts).
+
+## 3. Qualifying childcare: registered or approved childcare
+
+(1) For the purposes of section 2 (qualifying childcare), childcare described in paragraphs (2) to (6) is to be regarded as registered or approved childcare.
+
+(2) Care provided in England for a child—
+
+- (a) by a person registered under Part 3 of the Childcare Act 2006 [^c22408251];
+- (b) by or under the direction of the proprietor of a school as part of the school activities—
+  - (i) out of school hours, where a child has reached compulsory school age; or
+  - (ii) at any time, where a child has not yet reached compulsory school age; or
+- (c) by a domiciliary care provider registered with the Care Quality Commission in accordance with the requirements of the Health and Social Care Act 2008 [^c22408261].
+
+(3) Care provided in Wales for a child—
+
+- (a) by a person registered under Part 2 of the Children and Families (Wales) Measure 2010 [^c22408271];
+- (b) by a person in circumstances where, but for article 11, 12 or 14 of the Child Minding and Day Care Exceptions (Wales) Order 2010 [^c22408281], the care would be day care for the purposes of Part 2 of the Children and Families (Wales) Measure 2010;
+- (c) out of school hours, by a school as part of the school activities or by a local authority;
+- (d)[^key-d00f14d9dca29f296dc5874c223a4363] by a person who is employed or engaged under a contract for services to provide care and support by the provider of a domiciliary support service within the meaning of Part 1 of the Regulation and Inspection of Social Care (Wales) Act 2016;
+- (e) by a foster parent in relation to a child (other than one whom the foster parent is fostering) in circumstances where the care would be child minding or day care for the purposes of Part 2 of the Children and Families (Wales) Measure 2010 but for the fact that the child is over the age of the children to whom that Measure applies; or
+- (f) by a childcare provider approved in accordance with a scheme made by the National Assembly for Wales or the Welsh Ministers [^c22408301] under either—[^key-136f4554b62c0057d9e640f330e59f9d]
+  - (i) section 12(5) of the Tax Credit Act 2002; or
+  - (ii) section 60 of the Government of Wales Act 2006.
+
+(4) Care provided in Scotland for a child—
+
+- (a) by a person in circumstances where the care service provided by the person consists of child minding or of day care of children within the meaning of paragraph 12 or 13 of Schedule 12 to the Public Services Reform (Scotland) Act 2010 [^c22408321] and is registered under Part 5 of that Act;
+- (b) by a local authority in circumstances where the care service provided by the local authority consists of child minding or of day care of children within the meaning of paragraph 12 or 13 of Schedule 12 to the Public Services Reform (Scotland) Act 2010 and is registered under Part 5 of that Act; or
+- (c) by a childcare agency where the care service consists of or includes supplying, or introducing to persons who use the service, childcarers within the meaning of paragraph 5 of Schedule 12 to the Public Services Reform (Scotland) Act 2010.
+
+(5) Care provided in Northern Ireland for a child—
+
+- (a) by a person registered under Part 11 of the Children (Northern Ireland) Order 1995 [^c22408331];
+- (b) out of school hours by a school as part of the school activities; or
+- (c) by a childcare provider approved in accordance with a scheme under the Tax Credits (Approval of Home Child Care Providers) Scheme (Northern Ireland) 2006 [^c22408341] ; or[^key-945b7cb7bf8cf63f7798285545416963]
+- (d)[^key-5cc893f24c743ed611212a63c6de563b] by a childcare provider approved by a Health and Social Care Trust in Northern Ireland for the purposes of providing approved home childcare.
+
+(6)[^key-10b10fbd6617358cdbe13bd949acb74a] Care provided for a child outside the United Kingdom—
+
+- (a) where the care is provided by a Ministry of Defence approved childcare provider which is inspected by a person whose functions include regulating the provision of childcare in accordance with the statutory requirements of the Department for Education, or
+- (b) in any other case, where care is provided within a prescribed[^key-5a0793003b5809ff5a6aebde10032af3] state by a childcare provider which is approved, regulated or accredited under the legislation of the relevant state, by a person whose functions include regulating the provision of education or childcare.
+
+(7) The following are not registered or approved childcare—
+
+- (a) care provided for a child by the child's parent, step-parent or the parent's partner [^c22408361];
+- (b) care provided for a child by a relative of the child, wholly or mainly in the child's home;
+- (c) care provided by a person with parental responsibility for the child; and
+- (d) care provided by a person who is a foster parent of the child.
+
+(8) Care is not within paragraph (2)(a) if it is provided in breach of a requirement to register under Part 3 of the Childcare Act 2006.
+
+(9) Care is not within paragraph (5)(a) if it is provided in breach of a requirement to register under Part 11 of the Children (Northern Ireland) Order 1995.
+
+(10) In this regulation—
+
+- “compulsory school age” is determined in accordance with section 8 of the Education Act 1996 [^c22408371];
+- “**foster parent**” includes, in Scotland, a foster carer or kinship carer as defined by regulation 2 of the Looked After Children (Scotland) Regulations 2009 [^c22408381];
+- “**local authority**” means—
+  - (a) in relation to Wales, a county council, a county borough council or a community council;
+  - (b) in relation to Scotland, a council constituted under section 2 of the Local Government etc. (Scotland) Act 1994 [^c22408391];
+- “Ministry of Defence approved childcare provider” means a childcare provider, outside the United Kingdom, approved by the Ministry of Defence for use by Her Majesty’s forces, which has the same meaning as in the Armed Forces Act 2006, and their families, and civil servants employed by the Ministry of Defence and their families;[^key-c12194f63fe7d5daf5d729cc0247137d]
+- “**proprietor**”, in relation to a school, means—
+  - (a) the governing body incorporated under section 19 of the Education Act 2002 [^c22408401]; or
+  - (b) if there is no such body, the person or body of persons responsible for the management of the school;
+- “**relative**” means grandparent, aunt, uncle, brother or sister, whether of the full blood or half blood or by marriage or civil partnership;
+- “school”—
+  - (a) in England and Wales, has the same meaning as in the Education Act 1996 [^c22408411];
+  - (b) in Northern Ireland, means a school as defined by article 2(2) of the Education and Libraries (Northern Ireland) Order 1986 [^c22408421].
+
+## 4. Entitlement periods
+
+(1) A person's first entitlement period begins on the day on which HMRC confirm that the person is an eligible person for the entitlement period.
+
+(2) Each subsequent entitlement period begins on the day after the previous entitlement period ends.
+
+(3) Each entitlement period begins on the same day of a month except as follows—
+
+- (a) if the first entitlement period begins or ends on the 31st day of a month, each subsequent entitlement period shall begin or end on the last day of the month; and
+- (b) if the first entitlement period begins or ends on the 29th or 30th day of a month, each subsequent entitlement period shall begin or end on the 29th or 30th day of the month, except in February where it begins or ends on the 27th day or, in a leap year, the 28th day.
+
+## 5. Variation of entitlement periods
+
+(1) HMRC may vary the length of an entitlement period—
+
+- (a) on the opening of a childcare account in relation to a person's first entitlement period;
+- (b) on the opening of a childcare account for a person's second or subsequent child; [^key-904a6c2fbc7462baebc54ea1608b7c6f]...
+- (c) in order to align the entitlement periods of two account-holders ; or[^key-ba2b81d4fd3f3e76ecff044340d7cd34]
+- (d) in order to align the entitlement period of an account holder (“A”) with the declaration period of A’s partner under regulation[^key-5b35a485c5df6394a3325dcb88c049d3] 25 of the Childcare (Free of Charge for Working Parents) (England) Regulations 2022.
+
+(1A)[^key-c98f4b253603fa8c9f2bcd031b517333] The length of the variation referred to in paragraph (1) shall not exceed two months.
+
+(2) The relevant maximum for the entitlement period varied under paragraph (1) is determined by the formula—
+
+[formula: see source](https://www.legislation.gov.uk/uksi/2015/522)
+
+where—
+
+*X* is, in the case of a disabled child, £4,000, or in the case of any other child, £2,000; and
+
+*A* is the number of days in the varied entitlement period.
+
+## 6. Declarations of eligibility
+
+(1) A declaration of eligibility must—
+
+- (a) be in the form specified by HMRC;
+- (b) be made to HMRC in accordance with regulation 22; [^key-b2fbb1aae8065d47bbc57733c224897b]...
+- (c) contain information specified by HMRC—
+  - (i) to identify the person making the declaration, the person's partner (if any) and the child in respect of whom the childcare account is, or is to be, held; and
+  - (ii) to determine whether the person is an eligible person;[^key-16249d1baf85d9c2e9ee69e5455b0ac2]
+- (d)[^key-83d3399d88a9865f3d7d118c72de579c] be accompanied by a confirmation, if required by HMRC.
+
+(2) A declaration of eligibility made for the purposes of opening a childcare account must be made on the day the person applies to open the account.
+
+(3) Subject to paragraph (4) and regulation 7, any other declaration of eligibility (a “reconfirming declaration”) must be made during the period beginning 28 days before the beginning of the entitlement period for which the reconfirming declaration is made and ending when that entitlement period begins[^key-a644b5694af8750f021bb15ea4634bad].
+
+(4) If a person makes a reconfirming declaration during the period of 7 days immediately preceding the beginning of the entitlement period for which that declaration is made, HMRC may not determine whether the declaration is valid for the purposes of the Act until—
+
+- (a) 7 days after the reconfirming declaration was made; or
+- (b) such earlier time as HMRC allow.
+
+(5)[^key-9ce0ccfb4490e65db9faa00621c74e6b] Where a declarant or their partner is self-employed and they make—
+
+- (a) the first declaration of the self-employment, the declarant must—
+  - (i) provide any unique taxpayer’s reference of the self-employment; or
+  - (ii) confirm that the self-employed person has, for the tax year in which the reconfirmation is made, given notice to HMRC under section 7 of the Taxes Management Act 1970 in respect of the self-employment but has not yet received a unique taxpayer’s reference;
+- (b) the second declaration of the self-employment, the declarant must provide any unique taxpayer’s reference of the self-employed person.
+
+(6) Any person whose partner is self-employed in a prescribed[^key-2db5e53215c189cdfcead818dba1c6d5] state must in the course of reconfirming eligibility, provide information specified by HMRC to confirm that the partner is carrying out self-employed work in that prescribed[^key-e8b1d4886edabbaf53e4ad3a4f265669] state.
+
+(7)[^key-1183ceffa07bc6f7f0744e4040bb5299] In this regulation—
+
+- “**a confirmation**” means a confirmation made to HMRC, orally or in writing, by a declarant or their partner that they have complied with the requirement in section 8(1)(a) of the Taxes Management Act 1970 within the period specified in section 8(1D), except where either section 8(1F) or 8(1G) applies where the time limit specified in that section applies;
+- “**declarant**” means a person who makes a declaration of eligibility for the purposes of either opening a childcare account or reconfirming eligibility.
+
+## 7. Late declarations of eligibility[^key-7cfd2e49b69de09c26816f6ae638db24]
+
+(1) If a person makes a declaration of eligibility during the entitlement period for which it is made (a “late declaration of eligibility”), HMRC may not determine whether the declaration is valid for the purposes of the Act until—
+
+- (a) 7 days after the declaration was made; or
+- (b) such earlier time as HMRC allow.
+
+(2) If a person (“P”) makes a late declaration of eligibility P may make qualifying payments into the childcare account only for the remainder of the entitlement period after the day on which HMRC determine the declaration is valid.
+
+(3) Where a late declaration of eligibility is made by P in circumstances where either—
+
+- (a) section 30(2) (termination of tax credit awards) applies; or
+- (b) P is subject to an assessment period under regulation 21 of the Universal Credit Regulations 2013 (assessment periods) and P’s assessment period overlaps with the entitlement period;
+
+  the relevant maximum for the entitlement period is reduced to an amount determined by the formula—
+
+  [formula: see source](https://www.legislation.gov.uk/uksi/2015/522)
+
+  where—
+
+  - X is, in the case of a disabled child, £4000, or in the case of any other child, £2000;
+  - A is the number of days remaining in the entitlement period after the day on which HMRC determine that the declaration is valid; and
+  - B is the total number of days in the entitlement period.
+
+(4) Paragraph (3) applies with the modification in subparagraph (5) to a resident of a prescribed[^key-c7243f43d53f81c7f00be6cf13f9be71] state who is in paid work in the United Kingdom if, at the date of the declaration, that person or that person’s partner either—
+
+- (i) is, under the law of that state, being paid in respect of a relevant assessment period a credit (an “equivalent credit”) which is substantially similar in character to universal credit; or
+- (ii) is, under the law of that state, in receipt of a credit (“an equivalent credit”) which is substantially similar in character to an award of tax credit; or
+- (iii) has made a claim that would result in an equivalent credit becoming payable to that person or that person’s partner.
+
+(5) The modification in this paragraph is a reference to universal credit and tax credit includes a reference to an equivalent credit.
+
+## 8. Circumstances where eligible person unable to act— receivers etc.
+
+(1) In the circumstances specified in paragraph (2) a person mentioned in sub-paragraph (b) of that paragraph may act for the person mentioned in sub-paragraph (a) of that paragraph for the purposes of—
+
+- (a) making a declaration of eligibility;
+- (b) opening a childcare account;
+- (c) managing a childcare account.
+
+(2) The circumstances specified in this paragraph are where—
+
+- (a) a person is, or is alleged to be, an eligible person but is unable for the time being to open and manage a childcare account; and
+- (b) there are any of the following—
+  - (i) a receiver appointed by the Court of Protection with power to open and manage a childcare account on behalf of the person;
+  - (ii) in Scotland, a tutor, curator or other guardian acting or appointed in terms of law who is administering the estate of the person; or
+  - (iii) in Northern Ireland, a controller appointed by the High Court, with power to open and manage a childcare account on behalf of the person.
+
+## 9. Circumstances where eligible person unable to act—other appointed persons
+
+(1) In the circumstances specified in paragraph (2) a person mentioned in sub-paragraph (b) of that paragraph may act for the person mentioned in sub-paragraph (a) of that paragraph for the purposes of—
+
+- (a) making a declaration of eligibility;
+- (b) opening a childcare account;
+- (c) managing a childcare account.
+
+(2) The circumstances specified in this paragraph are where—
+
+- (a) a person is, or is alleged to be, an eligible person but is unable for the time being to open and manage a childcare account; and
+- (b) in relation to that person, there is a person appointed under—
+  - (i) regulation 33(1) of the Social Security (Claims and Payments) Regulations 1987 [^c22408441];
+  - (ii) regulation 33(1) of the Social Security (Claims and Payments) Regulations (Northern Ireland) 1987 [^c22408451]; or
+  - (iii) paragraph (3).
+
+(3) Where no person mentioned in regulation 8(2)(b) has been appointed in relation to the person who is unable to act, HMRC may appoint under this paragraph a person who—
+
+- (a) if a natural person, is aged 18 years or more; and
+- (b) has applied in writing to HMRC to be appointed to act on behalf of the person who is unable to act.
+
+(4) A person's appointment under paragraph (3) ends—
+
+- (a) when HMRC terminate it;
+- (b) when the person appointed has resigned from the appointment having given one month's notice in writing to HMRC of that person's resignation; or
+- (c) when HMRC are notified that a receiver or other person mentioned in regulation 8(2)(b) has been appointed in relation to the person who is unable to open or manage a childcare account.
+
+## 10. Appointment by account-holder of person to manage childcare account
+
+(1) An account-holder may appoint a person to manage a childcare account on behalf of the account-holder.
+
+(2) The person appointed under paragraph (1) must be an individual whose name is notified to HMRC before any function is performed on behalf of the account-holder.
+
+(3) Except where HMRC otherwise allow, an account-holder cannot appoint under paragraph (1)—
+
+- (a) an individual who is an account provider or is an owner of an account provider;
+- (b) an individual who provides services to an account provider in connection with the provision or management of a childcare account—
+  - (i) as an employee of the account provider;
+  - (ii) as an employee of a person providing such services to the account provider; or
+  - (iii) as a self-employed person; or
+- (c) an individual who provides qualifying childcare for a child of the account-holder.
+
+(4) A person may be appointed under paragraph (1) to manage not more than 5 childcare accounts at any time (whether or not on behalf of the same account-holder).
+
+(5) A person appointed under paragraph (1) may not make a declaration of eligibility on behalf of the account-holder.
+
+(6) Paragraphs (3), (4) and (5) do not apply to an account-holder's partner appointed under paragraph (1) to manage all the childcare accounts of that account-holder.
+
+## 11. Opening a childcare account
+
+(1) An application to open a childcare account must—
+
+- (a) be in the form specified by HMRC;
+- (b) be made to HMRC in accordance with regulation 22;
+- (c) contain information specified by HMRC to identify the applicant, the applicant's partner (if any) and the child in respect of whom the account is to be held; and
+- (d)[^key-572cf1697779d42dd0bffcc07ac390aa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2)[^key-b87470c6957eb084b6c5b1befc2341c1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3)[^key-a4bacc0ca6d60c35eba76543dbaa3a54] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 12. Variation of relevant maximum: child ceasing to be qualifying child etc.
+
+(1) If a child ceases to be a qualifying child during an entitlement period, the relevant maximum for that entitlement period is determined in accordance with paragraph (3).
+
+(2) If an award of tax credit terminates in accordance with section 30(3) (termination of tax credit awards) in a case within section 30(1)(b), the relevant maximum for an entitlement period is determined in accordance with paragraph (3) for the entitlement period in which the relevant day falls.
+
+(3) The relevant maximum is determined by the formula—
+
+[formula: see source](https://www.legislation.gov.uk/uksi/2015/522)
+
+where—
+
+- *X* is, in the case of a disabled child, £4,000, or in the case of any other child, £2,000;
+- in a case within paragraph (1), *A* is the number of days beginning on the first day of the entitlement period and ending on the day after the day on which the child ceases to be a qualifying child; or
+- in a case within paragraph (2), *A* is the number of days beginning on the relevant day and ending on the last day of the entitlement period; and
+- *B* is the total number of days in the entitlement period.
+
+(4) In this regulation, “**relevant day**” has the meaning given in section 30.
+
+## 13. Variation of relevant maximum: appealable decisions
+
+(1) This regulation applies where an appealable decision under section 56(3)(a), (b), (c), (e) or (h) (appealable decisions) is either—
+
+- (a) varied or cancelled on a review under section 57 (review of decisions); or
+- (b) quashed (wholly or partly) under section 60 (powers of tribunal).
+
+(2) Where this regulation applies, the relevant maximum for an entitlement period beginning after the variation, cancellation or quashing of the appealable decision is increased by an amount equal to the relevant maximum that would (but for the decision) have been available to an active childcare account.
+
+(3) Where a person has received compensation under section 62 (compensatory payments)—
+
+- (a) no award of an increased relevant maximum may be made in respect of a variation or quashing of a decision for which the compensation was paid; and
+- (b) any award of an increased relevant maximum that has been made in respect of such a variation or quashing is cancelled.
+
+## 14. Variation of relevant maximum: delay in payment of allowances
+
+(1) This regulation applies where—
+
+- (a) a person has applied to open a childcare account but HMRC are unable to confirm eligibility solely because of a delay in the payment to the person, or to the person's partner, of—
+  - (i) carer's allowance under section 70 of the Social Security Contributions and Benefits Act 1992 [^c22408471] or section 70 of the Social Security Contributions and Benefits (Northern Ireland) Act 1992 [^c22408481]; [^key-81d337cbb879840f250d6d14f488f0da]...
+  - (ia)[^key-53286c841e67eddd8b8d2ebf228abbc4] carer support payment under the Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023; or
+  - (ii) contributory employment and support allowance under section 1 of the Welfare Reform Act 2007 [^c22408491] or section 1 of the Welfare Reform Act (Northern Ireland) 2007 [^c22408501]; or
+- (b) in relation to a disabled child, a person has applied to open a childcare account but, solely because of a delay in the payment to the child of—
+  - (i) disability living allowance;
+  - (ii) personal independence payment; or
+  - (iii) armed forces independence payment,
+
+  HMRC is unable to grant the application, or is able to grant it but subject to a relevant maximum less than the relevant maximum which applies in respect of a disabled child.
+
+(2) Where this regulation applies, the relevant maximum for an entitlement period beginning after the delay is increased by an amount equal to the relevant maximum that would, but for the delay, have been available to an active childcare account held—
+
+- (a) in a case within paragraph (1)(a), by that person; or
+- (b) in a case within paragraph (1)(b), in respect of that child.
+
+(3) Where a person has received compensation under section 62—
+
+- (a) no award of an increased relevant maximum may be made in respect of a delay in payment for which the compensation was paid; and
+- (b) any award of increased relevant maximum that has been made in respect of such a delay in payment is cancelled.
+
+(4) In this regulation references to carer's allowance, carer support payment,[^key-a60c7028abd4ba3cafc15f10bbc08f5d] contributory employment and support allowance, disability living allowance, personal independence payment and armed forces independence payment include references to allowances and payments made under the law of a prescribed[^key-de84222dd0ae63a218f9ad5be53ccc45] state which are substantially similar in character to those allowances and payments.
+
+## 15. Variation of relevant maximum: death of account-holder
+
+(1) This regulation applies where—
+
+- (a) an account-holder dies leaving funds in the childcare account (“account A”);
+- (b) a person (“P”) has an active childcare account (“account B”) at the time account A is closed; and
+- (c) account A was, and account B is, held in respect of the same qualifying child.
+
+(2) Where this regulation applies, the relevant maximum for P's next entitlement period beginning after the closure of account A is increased by an amount equal to the amount paid to the deceased account-holder's personal representatives under regulation 19(2)(b) and (3) (closure of a childcare account).
+
+## 16. Variation of relevant maximum: infrastructure failure
+
+(1) This regulation applies where a payment is prevented from being made into a childcare account by a serious technical failure affecting—
+
+- (a) HMRC;
+- (b) the account provider; or
+- (c) a bank or provider of banking services.
+
+(2) Where this regulation applies, the relevant maximum for the next entitlement period beginning after the failure is increased by—
+
+[formula: see source](https://www.legislation.gov.uk/uksi/2015/522)
+
+where—
+
+*X* is, in the case of a disabled child, £4,000, or in the case of any other child, £2,000; and
+
+*Q* is the sum of qualifying payments made into the childcare account during the entitlement period in which the failure occurred.
+
+## 16A. Payments that may be made from childcare accounts[^key-16a628967b7b33c3410d70e23a609111]
+
+(1) A payment is treated as a permitted payment where it includes a reasonable fee payable to an intermediary.
+
+(2) For the purposes of paragraph (1), where there is more than one intermediary in the payment chain the total of all fees must be reasonable.
+
+(3) In this regulation “intermediary” means a supplier of an electronic payment system which allows persons to make payments into that system for the ultimate purpose of making payments to qualifying childcare providers.
+
+## 17. Compensatory payments
+
+(1) Subject to paragraphs (5) and (6), the circumstances specified in paragraphs (2), (3)[^key-d2e848e226a44e183e41539f0012a0bc] , (3A) and (3B)[^key-745093fc616a023d4bd6c53e31996681] are specified for the purposes of section 62.
+
+(2) The circumstances specified in this paragraph are—
+
+- (a) an appealable decision under section 56(3)(a), (b), (c), (e) or (h) is—
+  - (i) varied or cancelled on a review under section 57; or
+  - (ii) quashed (wholly or partly) under section 60;
+- (b) a person has applied to open a childcare account but HMRC are unable to confirm eligibility solely because of a delay in the payment to the person, or to the person's partner, of—
+  - (i) carer's allowance under section 70 of the Social Security Contributions and Benefits Act 1992 or section 70 of the Social Security Contributions and Benefits (Northern Ireland) Act 1992; [^key-247c04820a47887f8822efae061a6add]...
+  - (ia)[^key-36aeb5864e3b739d1aa0fe854ca31d32] carer support payment under the Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023; or
+  - (ii) contributory employment and support allowance under section 1 of the Welfare Reform Act 2007 or section 1 of the Welfare Reform Act (Northern Ireland) 2007; [^key-0fd2d856656b2574936ac83064e4ed7e]...
+- (c) in relation to a disabled child, an application is made to open a childcare account but, solely because of a delay in the payment to the child of—
+  - (i) disability living allowance;
+  - (ii) personal independence payment; or
+  - (iii) armed forces independence payment,
+
+  HMRC is unable to grant the application, or is able to grant it but subject to a relevant maximum less than the relevant maximum which applies in respect of a disabled child[^key-bdd6984dcd343db5a58dd54919f499ae]... ; or[^key-8b76629fa489d03854c1cae93cea3b0f]
+- (d) a person has applied for leave to enter or remain under the EU Settlement Scheme, and the application has not been determined or there is an outstanding appeal.
+
+(3) The circumstances specified in this paragraph are—
+
+- (a) the circumstances are as specified in paragraph (2)(b) but, at the time the payment is made, the person is no longer an eligible person for a reason unrelated to the delay in payment;
+- (b) the circumstances are as specified in paragraph (2)(b) but, at the time the payment is made, the child in relation to whom the application was made has died; or
+- (c) the circumstances are as specified in paragraph (2)(c) but the child dies during the period of delay in payment.
+
+(3A)[^key-40543d259ccf1da607a138142653d855] The circumstances specified in this paragraph are that—
+
+- (a) a person is unable to open a childcare account, or
+- (b) a person’s childcare account fails to function effectively
+
+for a continuous period of at least 14 days, due to a serious technical failure or a design flaw[^key-16fbffa2a7e82ee327711e3b453cd1c0] affecting HMRC or the account provider.
+
+(3B)[^key-b7348699cd299710ba010c1432352d3e] The circumstances specified in this paragraph are that a person’s childcare account for a child (“C”) is made subject to an account restriction order where—
+
+- (a) another person (B) wants to apply for, or make a declaration of eligibility for, 30 hours free childcare in respect of C under section 1 of the Childcare Act 2016; and
+- (b) B does not want to hold a childcare account for C in circumstances where holding that childcare account would prevent B from receiving tax credits in respect of C.
+
+(4) The amount paid to a person under section 62 in respect of a child for a period (the “compensation period”) may not exceed the amount of top-up payments that person could have received if—
+
+- (a) the circumstances specified in paragraphs (2), (3)[^key-6b7ff3243e986bc943d027733df911cf] , (3A) or (3B)[^key-ace65704033d59e8b915c453980e2355] had not arisen; and
+- (b) the person had held an active childcare account in respect of the child throughout the compensation period.
+
+(5) Circumstances specified in paragraph (2)(b) or (c) or (3) are not specified for the purposes of section 62 for any period of delay in payment in respect of which an award of tax credits is or has been made to the person claiming a compensatory payment.
+
+(6) Circumstances specified in paragraph (2) are not specified for the purposes of section 62 to the extent that a person has received, in respect of those circumstances, additional top-up payments by using an increased amount of relevant maximum awarded under regulation 13 or 14.
+
+(7) A person claiming a compensatory payment must provide to HMRC evidence of payment of the costs incurred on qualifying childcare.
+
+(8) In this regulation references to carer's allowance, carer support payment,[^key-3127af1fc8f3a95e1c050e1f1c923801] contributory employment and support allowance, disability living allowance, personal independence payment and armed forces independence payment include references to allowances and payments made under the law of a prescribed[^key-6d9c09848709c1cc36caad208ca0f585] state which are substantially similar in character to those allowances and payments.
+
+(9)[^key-91197cf8c6bbd426f7f2786466284576] In this regulation—
+
+- “EU Settlement Scheme” means—
+  - (i) the residence scheme immigration rules in Appendix EU to the immigration rules except those rules or changes to that appendix which are identified in the immigration rules as not having effect in the residence scheme that operates in connection with the withdrawal of the United Kingdom from the EU; and
+  - (ii) any other rules which are identified in the immigration rules as having effect in connection with the withdrawal of the United Kingdom from the EU.
+
+## 18. Account restriction orders
+
+(1) HMRC may make an account restriction order—
+
+- (a) imposing a restriction under section 24(2)(a), if the condition specified in paragraph (1A), (1B),[^key-4aa24cb11ea66b5d92134caf5f52170a] (2), (3) , (3A)[^key-a49d0462cffa3c32b359cf7302b8b815] or (4) is met; or
+- (b) imposing a restriction under section 24(2)(b), if the condition specified in paragraph (5) is met.
+
+(1A)[^key-13159053cb7c4be560c2f2adb8b6c002] The condition specified in this paragraph is that an amount has been assessed and notified to a person under section 41 (assessment and enforcement of recoverable amounts) in relation to any of sections 35 to 38 (recovery of top up payments).
+
+(1B) The conditions specified in this paragraph are that—
+
+- (i) an amount has been assessed and notified to a person under section 41 in relation to sections 39 or 40 (recovery of top up payments); and
+- (ii) some or all of the amount assessed has not been paid to HMRC by the time specified in section 41(5).
+
+(2) The condition specified in this paragraph is—
+
+- (a) an amount has been assessed and notified to a person under section [^key-870025da00d2811749b21cfb61c207c6]... 47 (assessment and enforcement of [^key-32109620bf9d123c900e43380982aa8e]... penalties); and
+- (b) some or all of the amount assessed has not been paid to HMRC by the time specified in section [^key-4def5e9c9e95a6017a413f9432fdd4ff]... 47(4).
+
+(3) The condition specified in this paragraph is—
+
+- (a) a person (“P”) wishes—
+  - (i) to open a childcare account in respect of a child; or
+  - (ii) to make a declaration of eligibility in relation to a childcare account held in respect of a child; and
+- (b) P is prevented from so doing because another person holds an active childcare account in respect of the child.
+
+(3A)[^key-90294242e84e317229a8282b9e57cac1] The condition specified in this paragraph is that—
+
+- (a) a person (P) wants to apply for, or to make a declaration for, 30 hours free childcare in respect of a child (“C”) under section 1 of the Childcare Act 2016; and
+- (b) P is prevented from receiving 30 hours free childcare because another person holds an active childcare account in respect of C.
+
+(4) The condition specified in this paragraph is that section 35(1), 36(1), 37(1) or 38(1) (recovery of top-up payments) applies in relation to an account-holder or the partner of an account-holder.
+
+(5) The condition specified in this paragraph is—
+
+- (a) HMRC have reasonable grounds to suspect that fraudulent payments are to be made from a childcare account; and
+- (b) HMRC have reasonable grounds to believe that it will not be possible to recover top-up payments if the order is not made.
+
+(6) In a case within paragraph (3), the person who wishes to open a childcare account may apply to HMRC for an account restriction order to be made in relation to the active childcare account.
+
+(7) An account restriction order—
+
+- (a) may impose a restriction on the account for the period specified in the order;
+- (b) may provide that the restriction does not apply in circumstances specified in the order ;[^key-8e6a4b278d09a3c0dccde6f95e6f0402]
+- (c)[^key-616bbc481fcf5d15be54a0e9593d729b] may be imposed where the account holder agrees to this action;
+- (d) must be revoked where the account holder, having previously agreed to the imposition under subparagraph (7)(c) above, requests a review of the decision to make the account restriction order.
+
+(8) HMRC may revoke an account restriction order if they consider it is no longer required, either on their own initiative or on an application by the account-holder.
+
+(9) An account-holder may make such an application if—
+
+- (a) the period for applying for a review of, or for bringing an appeal against, the order has elapsed; and
+- (b) the circumstances of the account-holder have changed since that period elapsed.
+
+## 19. Closure of a childcare account
+
+(1) A childcare account must be closed if—
+
+- (a) two years have elapsed since the end of the last entitlement period for which there was a valid declaration of eligibility; or
+- (b) one year has elapsed since the end of the entitlement period during which the child ceased to be a qualifying child.
+
+(2) At the time a childcare account is closed, whether under paragraph (1) or otherwise—
+
+- (a) the top-up element of the funds remaining in the account at that time, calculated in accordance with section 21 (calculating the top-up element of payments etc), must be paid to HMRC; and
+- (b) the relevant percentage of the total funds in the account at that time, calculated in accordance with section 22 (withdrawals), must be returned to the account-holder.
+
+(3) Where an account-holder has died, the relevant percentage to be returned under paragraph (2)(b) must be paid to the account-holder's personal representatives.
+
+## 20. Power to obtain information or documents
+
+(1) A notice (an “information notice”) under section 26(1) (power to obtain information or documents) may be addressed to, and may require information or documents from, any of the following persons—
+
+- (a) an account-holder or a person who has applied to open a childcare account (the “applicant”);
+- (b) a person named in a declaration of eligibility or application as the partner of an account-holder or applicant;
+- (c) an agent of a person specified in sub-paragraph (a) or (b);
+- (d) a person who provides, or has provided, childcare to an account-holder or has received a payment from a childcare account;
+- (e) an employer or former employer of an account-holder or applicant;
+- (f) an employer who provides, or has provided, a relevant childcare scheme within the meaning of section 12(2) and any person who provides, or has provided, services to the employer in connection with the provision to employees of such a scheme;
+- (g) a person or body of persons who HMRC reasonably expect can provide information or documents relevant to an allegation of, or an inquiry into, non-compliance with the Act.
+
+(2) An information notice must—
+
+- (a) specify the information or documents required and the form and manner in which they are to be provided;
+- (b) set out the reason why HMRC are requesting the information or documents; and
+- (c) specify the period within which the person must provide the information or documents.
+
+(3) The period in paragraph (2)(c) must be at least 30 days beginning with the day on which the notice is issued.
+
+## 21. Disqualification orders: meaning of “relevant benefit”
+
+For the purposes of section 49 (disqualification orders), a “relevant benefit” is—
+
+- (a) any “disqualifying benefit” within the meaning given in section 6A(1) of the Social Security Fraud Act 2001 [^c22408511]; or
+- (b) any benefit, payment, allowance, pension or credit made under the law of a prescribed[^key-596d3497886759379811e31a6d129759] state which is substantially similar in character to those specified in paragraph (a).
+
+## 22. Use of electronic communications
+
+(1) Except as provided by paragraphs (3) and (4), an application to open a childcare account (an “application”) or a declaration of eligibility (a “declaration”) must be made to HMRC by electronic communications.
+
+(2) Payments made from a childcare account by an account provider in respect of qualifying childcare must be made by electronic communications.
+
+(3) Paragraph (1) does not apply if HMRC are satisfied that the person making the application or declaration—
+
+- (a) is prevented, by a court order, from sending information by electronic communications;
+- (b) holds beliefs which are incompatible with the use of electronic communications; [^key-ebc8f201edba8dd22b44f6a7bd9c4f65]...
+- (c) is unable to send information by electronic communications by reason of—
+  - (i) age;
+  - (ii) disability;
+  - (iii) inability to operate a computer effectively in a manner that cannot be remedied by the use of assisted digital support; or
+  - (iv) living in a remote location so that it is not reasonably practicable to use electronic communications ; or[^key-0cb5b20e515fa563f85ed09766a974e1]
+- (d)[^key-f1f5d11f2b9d0860c04495f55c803b93] is prevented, for a continuous period of at least 7 days, by a technical failure affecting HMRC, from making a declaration or application.
+
+(4) An application or declaration made by a person to whom paragraph (3) applies must be made to HMRC in the manner specified by HMRC.
+
+(5) If an application or declaration is made by electronic communications, it shall be treated for the purposes of the Act and these Regulations as having been made, and received by HMRC, on the date on which it is recorded on an official computer system.
+
+(6) In this regulation—
+
+- (a) “**assisted digital support**” includes advice and assistance on how to make an application or declaration by means of electronic communications and entering a person's information into the service on that person's behalf;
+- (b) “**electronic communications**” includes any communications by means of an electronic communications service;
+- (c) “**electronic communications service**” has the meaning given by section 32 of the Communications Act 2003 [^c22408521];
+- (d) “**official computer system**” means a computer system maintained by or on behalf of HMRC—
+  - (i) to send or store information; or
+  - (ii) to process or store information.
+
+Edward Troup
+
+Nick Lodge
+
+Two of the Commissioners for Her Majesty's Revenue and Customs
+
+*(This note is not part of the Regulations)*
+
+These Regulations provide for the administration of childcare accounts and top-up payments made under the Childcare Payments Act 2014 (c. 28) (“**the Act**”) and for other procedural matters in relation to the childcare payments scheme*.*
+
+Regulations 1 and 2 provide for citation, commencement and interpretation.
+
+Regulation 3 prescribes registered or approved childcare for the purposes of the scheme. It includes specific provisions for such childcare in England, Scotland, Wales and Northern Ireland and for overseas childcare provided by accredited organisations. It also prescribes that care provided by parents themselves, close relatives or foster parents is not registered or approved childcare.
+
+Regulations 4 and 5 provide for entitlement periods, including the normal length of an entitlement period and when a period begins and ends. The regulation also specifies when the length of the period can be varied and provides that the relevant maximum for qualifying payments under the scheme can be varied, where the length of the period has been varied.
+
+Regulations 6 and 7 provide for declarations of eligibility. They specify the time for making a declaration and when it will be determined as valid by HMRC. In cases of declarations made late, the relevant maximum may be varied.
+
+Regulations 8 to 10 provide for circumstances where the eligible person under the scheme is unable to act and another person may be appointed to act on their behalf in relation to the opening and running of a childcare account. An account-holder may appoint another person to act on their behalf.
+
+Regulation 11 provides for the form and procedure for opening a childcare account, including the information required to be provided to HMRC.
+
+Regulations 12 to 16 provide for various circumstances in which the relevant maximum for an entitlement period may be varied. These include where a child ceases to be a qualifying child and cases where there has been delay in payment of an allowance affecting eligibility, or a serious technical failure affecting childcare account payments.
+
+Regulation 17 prescribes the circumstances where a compensatory payment under section 62 of the Act may be made, many of which are similar to those in which a relevant maximum may be varied, giving some measure of choice to the account-holder who has been disadvantaged.
+
+Regulation 18 provides for circumstances where HMRC may make an account restriction order, whose effect is to restrict payments into or from a childcare account.
+
+Regulation 19 provides the circumstances in which a childcare account must be closed. It also provides how funds remaining in an account should be repaid on closure.
+
+Regulation 20 provides for information notices. It specifies to whom such notices may be sent, what information may be required by the notice and the minimum time the addressee has to reply.
+
+Regulation 21 defines “**relevant benefit**” for the purposes of a disqualification order made under section 49 of the Act.
+
+Regulation 22 provides that applications to open an account and declarations of eligibility must be sent to HMRC electronically, except in specified circumstances, and that an account provider must make payments in respect of qualifying childcare electronically.
+
+A full Impact Assessment of the effect that the childcare payments scheme will have on the costs of business and the voluntary sector is available from the gov.uk website at https://www.gov.uk/government/publications/tax-free-childcare-impact-assessment. It remains an accurate summary of the impacts that apply to this instrument.
+
+## Annotations
+
+[^c22408191]: Marginal citation: [2014 c. 28](https://www.legislation.gov.uk/ukpga/2014/28).
+
+[^key-69e6e746a5e3b97e8cbed9e78d8979cc]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2015/522/regulation/2) omitted (22.7.2021) by virtue of [The Childcare Payments (Miscellaneous Amendment) Regulations 2021 (S.I. 2021/781)](https://www.legislation.gov.uk/uksi/2021/781), [regs. 1](https://www.legislation.gov.uk/uksi/2021/781/regulation/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2021/781/regulation/3/2/a)
+
+[^c22408201]: Marginal citation: [S.I. 2011/517](https://www.legislation.gov.uk/uksi/2011/517), amended by [S.I. 2013/436](https://www.legislation.gov.uk/uksi/2013/436) and [S.I. 2014/412](https://www.legislation.gov.uk/uksi/2014/412); there are other amending instruments but none is relevant.
+
+[^c22408211]: Marginal citation: [1992 c. 4](https://www.legislation.gov.uk/ukpga/1992/4). Sections 71 to 76 were amended by section 67 of the [Welfare Reform and Pensions Act 1999 (c. 30)](https://www.legislation.gov.uk/ukpga/1999/30), [paragraph 145](https://www.legislation.gov.uk/ukpga/1999/30/paragraph/145) of Schedule 1 to the [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [sections 52](https://www.legislation.gov.uk/ukpga/2006/43/section/52), [53](https://www.legislation.gov.uk/ukpga/2006/43/section/53) and 60 of, and paragraph 2 of Schedule 7 and paragraph 1 of Schedule 8 to, the [Welfare Reform Act 2007 (c. 5)](https://www.legislation.gov.uk/ukpga/2007/5), [section 14](https://www.legislation.gov.uk/ukpga/2007/5/section/14) of the [Welfare Reform Act 2009 (c. 24)](https://www.legislation.gov.uk/ukpga/2009/24) and [S.I. 2011/2426](https://www.legislation.gov.uk/uksi/2011/2426).
+
+[^c22408221]: Marginal citation: [1992 c. 7](https://www.legislation.gov.uk/ukpga/1992/7). Sections 71 to 76 were amended by sections 48, 49 and 54 of, and paragraph 1 of Schedule 8 to, the [Welfare Reform Act (Northern Ireland) 2007 (c. 2)](https://www.legislation.gov.uk/nia/2007/2), [paragraph 39](https://www.legislation.gov.uk/nia/2007/2/paragraph/39) of Schedule 1 to the [Pensions Act (Northern Ireland) 2008 (c. 1)](https://www.legislation.gov.uk/nia/2008/1), [section 13](https://www.legislation.gov.uk/nia/2008/1/section/13) of the [Welfare Reform Act (Northern Ireland) 2010 (c. 13)](https://www.legislation.gov.uk/nia/2010/13), [S.I](https://www.legislation.gov.uk/nia/2010/13/section/I). 1999/3147 (N.I. 11) and S.R. (N.I.) [2011 No. 356](https://www.legislation.gov.uk/ukcm/2011/356).
+
+[^c22408231]: Marginal citation: Regulation 5 of the [Childcare Payments (Eligibility) Regulations 2015 (S.I. 2015/448)](https://www.legislation.gov.uk/uksi/2015/448), made under section 14, explains when a disabled child is a qualifying child for the purposes of the Act.
+
+[^c22408241]: Marginal citation: [2012 c. 5](https://www.legislation.gov.uk/ukpga/2012/5).
+
+[^key-1aabe2afd610d2e13d91b9bf2dd7475c]: Textual amendment: Words in reg. 2 inserted (5.9.2016) by [The Childcare Payments (Amendment) Regulations 2016 (S.I. 2016/796)](https://www.legislation.gov.uk/uksi/2016/796), [regs. 1](https://www.legislation.gov.uk/uksi/2016/796/regulation/1), [3](https://www.legislation.gov.uk/uksi/2016/796/regulation/3)
+
+[^key-9f0a8088b2109964aaa297a604cdbffd]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2015/522/regulation/2) inserted (22.7.2021) by [The Childcare Payments (Miscellaneous Amendment) Regulations 2021 (S.I. 2021/781)](https://www.legislation.gov.uk/uksi/2021/781), [regs. 1](https://www.legislation.gov.uk/uksi/2021/781/regulation/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2021/781/regulation/3/2/b)
+
+[^c22408251]: Marginal citation: [2006 c. 21](https://www.legislation.gov.uk/ukpga/2006/21).
+
+[^c22408261]: Marginal citation: [2008 c. 14](https://www.legislation.gov.uk/ukpga/2008/14).
+
+[^c22408271]: Marginal citation: 2010 nawm 1.
+
+[^c22408281]: Marginal citation: [S.I. 2010/2839](https://www.legislation.gov.uk/uksi/2010/2839) (W 233).
+
+[^key-d00f14d9dca29f296dc5874c223a4363]: Textual amendment: Reg. 3(3)(d) substituted (6.4.2018) by [The Tax Credits and Childcare (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/365)](https://www.legislation.gov.uk/uksi/2018/365), [regs. 1](https://www.legislation.gov.uk/uksi/2018/365/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2018/365/regulation/5/2)
+
+[^c22408301]: Marginal citation: Section 45(2) of the [Government of Wales Act 2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32) defines the Welsh Ministers as the First Minister and the Welsh Ministers appointed under section 48 of that Act.
+
+[^key-136f4554b62c0057d9e640f330e59f9d]: Textual amendment: Words in reg. 3(3)(f) substituted (6.4.2020) by [The Tax Credits, Child Benefit, Guardians Allowance and Childcare Payments (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/297)](https://www.legislation.gov.uk/uksi/2020/297), [regs. 1](https://www.legislation.gov.uk/uksi/2020/297/regulation/1), [8(2)(a)](https://www.legislation.gov.uk/uksi/2020/297/regulation/8/2/a)
+
+[^c22408321]: Marginal citation: [2010 asp 8](https://www.legislation.gov.uk/asp/2010/8).
+
+[^c22408331]: Marginal citation: [S.I. 1995/755 (N.I. 2)](https://www.legislation.gov.uk/nisi/1995/755).
+
+[^c22408341]: Marginal citation: S.R. [2006 No. 64](https://www.legislation.gov.uk/ukcm/2006/64).
+
+[^key-945b7cb7bf8cf63f7798285545416963]: Textual amendment: Word in reg. 3(5)(c) inserted (6.4.2020) by [The Tax Credits, Child Benefit, Guardians Allowance and Childcare Payments (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/297)](https://www.legislation.gov.uk/uksi/2020/297), [regs. 1](https://www.legislation.gov.uk/uksi/2020/297/regulation/1), [8(2)(b)(i)](https://www.legislation.gov.uk/uksi/2020/297/regulation/8/2/b/i)
+
+[^key-5cc893f24c743ed611212a63c6de563b]: Textual amendment: Reg. 3(5)(d) inserted (6.4.2020) by [The Tax Credits, Child Benefit, Guardians Allowance and Childcare Payments (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/297)](https://www.legislation.gov.uk/uksi/2020/297), [regs. 1](https://www.legislation.gov.uk/uksi/2020/297/regulation/1), [8(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/297/regulation/8/2/b/ii)
+
+[^key-10b10fbd6617358cdbe13bd949acb74a]: Textual amendment: Reg. 3(6) substituted (21.3.2019) by [The Tax Credits, Child Benefit and Childcare Payments (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/364)](https://www.legislation.gov.uk/uksi/2019/364), [regs. 1](https://www.legislation.gov.uk/uksi/2019/364/regulation/1), [12(2)(a)](https://www.legislation.gov.uk/uksi/2019/364/regulation/12/2/a)
+
+[^key-5a0793003b5809ff5a6aebde10032af3]: Textual amendment: Words in [reg. 3(6)(b)](https://www.legislation.gov.uk/uksi/2015/522/regulation/3/6/b) substituted (22.7.2021) by [The Childcare Payments (Miscellaneous Amendment) Regulations 2021 (S.I. 2021/781)](https://www.legislation.gov.uk/uksi/2021/781), [regs. 1](https://www.legislation.gov.uk/uksi/2021/781/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2021/781/regulation/3/3)
+
+[^c22408361]: Marginal citation: Section 71 of the Act provides that partner is to be read in accordance with regulations made under section 3(5). Regulation 3 of [S.I. 2015/448](https://www.legislation.gov.uk/uksi/2015/448), made under section 3(5), explains when two people are regarded as partners for the purposes of the Act.
+
+[^c22408371]: Marginal citation: [1996 c. 56](https://www.legislation.gov.uk/ukpga/1996/56); section 8 was amended by section 52 of the [Education Act 1997 (c. 44)](https://www.legislation.gov.uk/ukpga/1997/44).
+
+[^c22408381]: Marginal citation: [S.S.I. 2009/210](https://www.legislation.gov.uk/ssi/2009/210).
+
+[^c22408391]: Marginal citation: [1994 c. 39](https://www.legislation.gov.uk/ukpga/1994/39).
+
+[^key-c12194f63fe7d5daf5d729cc0247137d]: Textual amendment: Words in reg. 3(10) inserted (21.3.2019) by [The Tax Credits, Child Benefit and Childcare Payments (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/364)](https://www.legislation.gov.uk/uksi/2019/364), [regs. 1](https://www.legislation.gov.uk/uksi/2019/364/regulation/1), [12(2)(b)](https://www.legislation.gov.uk/uksi/2019/364/regulation/12/2/b)
+
+[^c22408401]: Marginal citation: [2002 c. 32](https://www.legislation.gov.uk/ukpga/2002/32). Section 19 was amended, in relation to schools in England, by section 38 of the [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21) and [S.I. 2010/1158](https://www.legislation.gov.uk/uksi/2010/1158).
+
+[^c22408411]: Marginal citation: Section 4, which gives the general meaning of school, was amended by section 51 of, and paragraph 10 of Schedule 7 and paragraph 1 of Schedule 8 to, the Education Act 1997, Part 3 of Schedule 22 to the Education Act 2002, section 95 of the [Childcare Act 2006 (c. 21)](https://www.legislation.gov.uk/ukpga/2006/21), [paragraph 9](https://www.legislation.gov.uk/ukpga/2006/21/paragraph/9) of Schedule 13 to the [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21) and [S.I. 2010/1080](https://www.legislation.gov.uk/uksi/2010/1080).
+
+[^c22408421]: Marginal citation: [S.I. 1986/594 (N.I. 3)](https://www.legislation.gov.uk/nisi/1986/594), to which there are amendments not relevant to this regulation.
+
+[^key-904a6c2fbc7462baebc54ea1608b7c6f]: Textual amendment: Word in reg. 5(1)(b) omitted (7.12.2017) by virtue of [The Childcare Payments (Amendment) Regulations 2017 (S.I. 2017/1096)](https://www.legislation.gov.uk/uksi/2017/1096), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1096/regulation/1), [3(a)](https://www.legislation.gov.uk/uksi/2017/1096/regulation/3/a)
+
+[^key-ba2b81d4fd3f3e76ecff044340d7cd34]: Textual amendment: Reg. 5(1)(d) and word inserted (7.12.2017) by [The Childcare Payments (Amendment) Regulations 2017 (S.I. 2017/1096)](https://www.legislation.gov.uk/uksi/2017/1096), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1096/regulation/1), [3(a)](https://www.legislation.gov.uk/uksi/2017/1096/regulation/3/a)
+
+[^key-5b35a485c5df6394a3325dcb88c049d3]: Textual amendment: Words in [reg. 5(1)(d)](https://www.legislation.gov.uk/uksi/2015/522/regulation/5/1/d) substituted (1.12.2022) by [The Childcare (Free of Charge for Working Parents) (England) Regulations 2022 (S.I. 2022/1134)](https://www.legislation.gov.uk/uksi/2022/1134), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/1134/regulation/1/b), [Sch. para. 3(2)](https://www.legislation.gov.uk/uksi/2022/1134/schedule/paragraph/3/2)
+
+[^key-c98f4b253603fa8c9f2bcd031b517333]: Textual amendment: Reg. 5(1A) inserted (7.12.2017) by [The Childcare Payments (Amendment) Regulations 2017 (S.I. 2017/1096)](https://www.legislation.gov.uk/uksi/2017/1096), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1096/regulation/1), [3(b)](https://www.legislation.gov.uk/uksi/2017/1096/regulation/3/b)
+
+[^key-b2fbb1aae8065d47bbc57733c224897b]: Textual amendment: Word in [reg. 6(1)(b)](https://www.legislation.gov.uk/uksi/2015/522/regulation/6/1/b) omitted (1.12.2022) by virtue of [The Childcare Payments (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1148)](https://www.legislation.gov.uk/uksi/2022/1148), [regs. 1](https://www.legislation.gov.uk/uksi/2022/1148/regulation/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2022/1148/regulation/3/2/a)
+
+[^key-16249d1baf85d9c2e9ee69e5455b0ac2]: Textual amendment: [Reg. 6(1)(c)](https://www.legislation.gov.uk/uksi/2015/522/regulation/6/1/c): semicolon substituted for full stop (1.12.2022) by [The Childcare Payments (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1148)](https://www.legislation.gov.uk/uksi/2022/1148), [regs. 1](https://www.legislation.gov.uk/uksi/2022/1148/regulation/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2022/1148/regulation/3/2/b)
+
+[^key-83d3399d88a9865f3d7d118c72de579c]: Textual amendment: [Reg. 6(1)(d)](https://www.legislation.gov.uk/uksi/2015/522/regulation/6/1/d) inserted (1.12.2022) by [The Childcare Payments (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1148)](https://www.legislation.gov.uk/uksi/2022/1148), [regs. 1](https://www.legislation.gov.uk/uksi/2022/1148/regulation/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2022/1148/regulation/3/2/b)
+
+[^key-a644b5694af8750f021bb15ea4634bad]: Textual amendment: Word in reg. 6(3) substituted (14.11.2016) by [The Childcare Payments (Amendment No. 2) Regulations 2016 (S.I. 2016/1017)](https://www.legislation.gov.uk/uksi/2016/1017), [regs. 1](https://www.legislation.gov.uk/uksi/2016/1017/regulation/1), [2](https://www.legislation.gov.uk/uksi/2016/1017/regulation/2)
+
+[^key-9ce0ccfb4490e65db9faa00621c74e6b]: Textual amendment: Reg. 6(5)-(7) inserted (5.9.2016) by [The Childcare Payments (Amendment) Regulations 2016 (S.I. 2016/796)](https://www.legislation.gov.uk/uksi/2016/796), [regs. 1](https://www.legislation.gov.uk/uksi/2016/796/regulation/1), [4](https://www.legislation.gov.uk/uksi/2016/796/regulation/4)
+
+[^key-2db5e53215c189cdfcead818dba1c6d5]: Textual amendment: Words in [reg. 6(6)](https://www.legislation.gov.uk/uksi/2015/522/regulation/6/6) substituted (22.7.2021) by [The Childcare Payments (Miscellaneous Amendment) Regulations 2021 (S.I. 2021/781)](https://www.legislation.gov.uk/uksi/2021/781), [regs. 1](https://www.legislation.gov.uk/uksi/2021/781/regulation/1), [3(4)(a)](https://www.legislation.gov.uk/uksi/2021/781/regulation/3/4/a)
+
+[^key-e8b1d4886edabbaf53e4ad3a4f265669]: Textual amendment: Word in reg. 6(6) substituted (22.7.2021) by [The Childcare Payments (Miscellaneous Amendment) Regulations 2021 (S.I. 2021/781)](https://www.legislation.gov.uk/uksi/2021/781), [regs. 1](https://www.legislation.gov.uk/uksi/2021/781/regulation/1), [3(4)(b)](https://www.legislation.gov.uk/uksi/2021/781/regulation/3/4/b)
+
+[^key-1183ceffa07bc6f7f0744e4040bb5299]: Textual amendment: [Reg. 6(7)](https://www.legislation.gov.uk/uksi/2015/522/regulation/6/7) substituted (1.12.2022) by [The Childcare Payments (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1148)](https://www.legislation.gov.uk/uksi/2022/1148), [regs. 1](https://www.legislation.gov.uk/uksi/2022/1148/regulation/1), [3(2)(c)](https://www.legislation.gov.uk/uksi/2022/1148/regulation/3/2/c)
+
+[^key-7cfd2e49b69de09c26816f6ae638db24]: Textual amendment: Reg. 7 substituted (5.9.2016) by [The Childcare Payments (Amendment) Regulations 2016 (S.I. 2016/796)](https://www.legislation.gov.uk/uksi/2016/796), [regs. 1](https://www.legislation.gov.uk/uksi/2016/796/regulation/1), [5](https://www.legislation.gov.uk/uksi/2016/796/regulation/5)
+
+[^key-c7243f43d53f81c7f00be6cf13f9be71]: Textual amendment: Words in [reg. 7(4)](https://www.legislation.gov.uk/uksi/2015/522/regulation/7/4) substituted (22.7.2021) by [The Childcare Payments (Miscellaneous Amendment) Regulations 2021 (S.I. 2021/781)](https://www.legislation.gov.uk/uksi/2021/781), [regs. 1](https://www.legislation.gov.uk/uksi/2021/781/regulation/1), [3(5)](https://www.legislation.gov.uk/uksi/2021/781/regulation/3/5)
+
+[^c22408441]: Marginal citation: [S.I. 1987/1968](https://www.legislation.gov.uk/uksi/1987/1968). Regulation 33(1) was amended by [S.I. 1999/2572](https://www.legislation.gov.uk/uksi/1999/2572).
+
+[^c22408451]: Marginal citation: S.R. (N.I.) 1987/465. Regulation 33(1) was amended by [S.I. 1999/2574](https://www.legislation.gov.uk/uksi/1999/2574).
+
+[^key-572cf1697779d42dd0bffcc07ac390aa]: Textual amendment: Reg. 11(1)(d) omitted (5.9.2016) by virtue of [The Childcare Payments (Amendment) Regulations 2016 (S.I. 2016/796)](https://www.legislation.gov.uk/uksi/2016/796), [regs. 1](https://www.legislation.gov.uk/uksi/2016/796/regulation/1), [6](https://www.legislation.gov.uk/uksi/2016/796/regulation/6)
+
+[^key-b87470c6957eb084b6c5b1befc2341c1]: Textual amendment: Reg. 11(2) omitted (5.9.2016) by virtue of [The Childcare Payments (Amendment) Regulations 2016 (S.I. 2016/796)](https://www.legislation.gov.uk/uksi/2016/796), [regs. 1](https://www.legislation.gov.uk/uksi/2016/796/regulation/1), [6](https://www.legislation.gov.uk/uksi/2016/796/regulation/6)
+
+[^key-a4bacc0ca6d60c35eba76543dbaa3a54]: Textual amendment: Reg. 11(3) omitted (5.9.2016) by virtue of [The Childcare Payments (Amendment) Regulations 2016 (S.I. 2016/796)](https://www.legislation.gov.uk/uksi/2016/796), [regs. 1](https://www.legislation.gov.uk/uksi/2016/796/regulation/1), [6](https://www.legislation.gov.uk/uksi/2016/796/regulation/6)
+
+[^c22408471]: Marginal citation: [1992 c. 4](https://www.legislation.gov.uk/ukpga/1992/4). Section 70 was amended, and the name of the allowance changed from invalid care allowance to carer's allowance, by [S.I. 2002/1457](https://www.legislation.gov.uk/uksi/2002/1457).
+
+[^c22408481]: Marginal citation: [1992 c. 7](https://www.legislation.gov.uk/ukpga/1992/7).
+
+[^key-81d337cbb879840f250d6d14f488f0da]: Textual amendment: Word in [reg. 14(1)(a)(i)](https://www.legislation.gov.uk/uksi/2015/522/regulation/14/1/a/i) omitted (16.11.2023) by virtue of [The Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023 (Consequential Modifications) Order 2023 (S.I. 2023/1214)](https://www.legislation.gov.uk/uksi/2023/1214), [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1214/article/1/2), [reg. 12(2)(a)](https://www.legislation.gov.uk/uksi/2023/1214/regulation/12/2/a)
+
+[^key-53286c841e67eddd8b8d2ebf228abbc4]: Textual amendment: [Reg. 14(1)(ia)](https://www.legislation.gov.uk/uksi/2015/522/regulation/14/1/ia) inserted (16.11.2023) by [The Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023 (Consequential Modifications) Order 2023 (S.I. 2023/1214)](https://www.legislation.gov.uk/uksi/2023/1214), [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1214/article/1/2), [reg. 12(2)(b)](https://www.legislation.gov.uk/uksi/2023/1214/regulation/12/2/b)
+
+[^c22408491]: Marginal citation: [2007 c. 5](https://www.legislation.gov.uk/ukpga/2007/5).
+
+[^c22408501]: Marginal citation: [2007 c. 2](https://www.legislation.gov.uk/ukpga/2007/2).
+
+[^key-a60c7028abd4ba3cafc15f10bbc08f5d]: Textual amendment: Words in [reg. 14(4)](https://www.legislation.gov.uk/uksi/2015/522/regulation/14/4) inserted (16.11.2023) by [The Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023 (Consequential Modifications) Order 2023 (S.I. 2023/1214)](https://www.legislation.gov.uk/uksi/2023/1214), [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1214/article/1/2), [reg. 12(2)(c)](https://www.legislation.gov.uk/uksi/2023/1214/regulation/12/2/c)
+
+[^key-de84222dd0ae63a218f9ad5be53ccc45]: Textual amendment: Words in [reg. 14(4)](https://www.legislation.gov.uk/uksi/2015/522/regulation/14/4) substituted (22.7.2021) by [The Childcare Payments (Miscellaneous Amendment) Regulations 2021 (S.I. 2021/781)](https://www.legislation.gov.uk/uksi/2021/781), [regs. 1](https://www.legislation.gov.uk/uksi/2021/781/regulation/1), [3(6)](https://www.legislation.gov.uk/uksi/2021/781/regulation/3/6)
+
+[^key-16a628967b7b33c3410d70e23a609111]: Textual amendment: [Reg. 16A](https://www.legislation.gov.uk/uksi/2015/522/regulation/16A) inserted (21.7.2020) by [The Childcare Payments (Coronavirus and Miscellaneous Amendments) Regulations 2020 (S.I. 2020/656)](https://www.legislation.gov.uk/uksi/2020/656), [regs. 1](https://www.legislation.gov.uk/uksi/2020/656/regulation/1), [5](https://www.legislation.gov.uk/uksi/2020/656/regulation/5)
+
+[^key-d2e848e226a44e183e41539f0012a0bc]: Textual amendment: Words in reg. 17(1) substituted (5.9.2016) by [The Childcare Payments (Amendment) Regulations 2016 (S.I. 2016/796)](https://www.legislation.gov.uk/uksi/2016/796), [regs. 1](https://www.legislation.gov.uk/uksi/2016/796/regulation/1), [7(a)](https://www.legislation.gov.uk/uksi/2016/796/regulation/7/a)
+
+[^key-745093fc616a023d4bd6c53e31996681]: Textual amendment: Words in reg. 17(1) substituted (6.4.2020) by [The Tax Credits, Child Benefit, Guardians Allowance and Childcare Payments (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/297)](https://www.legislation.gov.uk/uksi/2020/297), [regs. 1](https://www.legislation.gov.uk/uksi/2020/297/regulation/1), [8(3)(a)](https://www.legislation.gov.uk/uksi/2020/297/regulation/8/3/a)
+
+[^key-247c04820a47887f8822efae061a6add]: Textual amendment: Word in [reg. 17(2)(b)(i)](https://www.legislation.gov.uk/uksi/2015/522/regulation/17/2/b/i) omitted (16.11.2023) by virtue of [The Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023 (Consequential Modifications) Order 2023 (S.I. 2023/1214)](https://www.legislation.gov.uk/uksi/2023/1214), [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1214/article/1/2), [reg. 12(3)(a)](https://www.legislation.gov.uk/uksi/2023/1214/regulation/12/3/a)
+
+[^key-36aeb5864e3b739d1aa0fe854ca31d32]: Textual amendment: [Reg. 17(2)(b)(ia)](https://www.legislation.gov.uk/uksi/2015/522/regulation/17/2/ia) inserted (16.11.2023) by [The Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023 (Consequential Modifications) Order 2023 (S.I. 2023/1214)](https://www.legislation.gov.uk/uksi/2023/1214), [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1214/article/1/2), [reg. 12(3)(b)](https://www.legislation.gov.uk/uksi/2023/1214/regulation/12/3/b)
+
+[^key-0fd2d856656b2574936ac83064e4ed7e]: Textual amendment: Word in reg. 17 omitted (22.7.2021) by virtue of [The Childcare Payments (Miscellaneous Amendment) Regulations 2021 (S.I. 2021/781)](https://www.legislation.gov.uk/uksi/2021/781), [regs. 1](https://www.legislation.gov.uk/uksi/2021/781/regulation/1), [3(7)(a)](https://www.legislation.gov.uk/uksi/2021/781/regulation/3/7/a)
+
+[^key-bdd6984dcd343db5a58dd54919f499ae]: Textual amendment: Reg. 17(2)(c) full stop omitted (22.7.2021) by virtue of [The Childcare Payments (Miscellaneous Amendment) Regulations 2021 (S.I. 2021/781)](https://www.legislation.gov.uk/uksi/2021/781), [regs. 1](https://www.legislation.gov.uk/uksi/2021/781/regulation/1), [3(7)(b)](https://www.legislation.gov.uk/uksi/2021/781/regulation/3/7/b)
+
+[^key-8b76629fa489d03854c1cae93cea3b0f]: Textual amendment: Reg. 17(2)(d) and word inserted (22.7.2021) by [The Childcare Payments (Miscellaneous Amendment) Regulations 2021 (S.I. 2021/781)](https://www.legislation.gov.uk/uksi/2021/781), [regs. 1](https://www.legislation.gov.uk/uksi/2021/781/regulation/1), [3(7)(b)](https://www.legislation.gov.uk/uksi/2021/781/regulation/3/7/b)
+
+[^key-40543d259ccf1da607a138142653d855]: Textual amendment: Reg. 17(3A) substituted (7.12.2017) by [The Childcare Payments (Amendment) Regulations 2017 (S.I. 2017/1096)](https://www.legislation.gov.uk/uksi/2017/1096), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1096/regulation/1), [4](https://www.legislation.gov.uk/uksi/2017/1096/regulation/4)
+
+[^key-16fbffa2a7e82ee327711e3b453cd1c0]: Textual amendment: Words in reg. 17(3A) inserted (6.4.2020) by [The Tax Credits, Child Benefit, Guardians Allowance and Childcare Payments (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/297)](https://www.legislation.gov.uk/uksi/2020/297), [regs. 1](https://www.legislation.gov.uk/uksi/2020/297/regulation/1), [8(3)(b)](https://www.legislation.gov.uk/uksi/2020/297/regulation/8/3/b)
+
+[^key-b7348699cd299710ba010c1432352d3e]: Textual amendment: Reg. 17(3B) inserted (6.4.2020) by [The Tax Credits, Child Benefit, Guardians Allowance and Childcare Payments (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/297)](https://www.legislation.gov.uk/uksi/2020/297), [regs. 1](https://www.legislation.gov.uk/uksi/2020/297/regulation/1), [8(3)(c)](https://www.legislation.gov.uk/uksi/2020/297/regulation/8/3/c)
+
+[^key-6b7ff3243e986bc943d027733df911cf]: Textual amendment: Words in reg. 17(4)(a) substituted (5.9.2016) by [The Childcare Payments (Amendment) Regulations 2016 (S.I. 2016/796)](https://www.legislation.gov.uk/uksi/2016/796), [regs. 1](https://www.legislation.gov.uk/uksi/2016/796/regulation/1), [7(c)](https://www.legislation.gov.uk/uksi/2016/796/regulation/7/c)
+
+[^key-ace65704033d59e8b915c453980e2355]: Textual amendment: Words in reg. 17(4)(a) substituted (6.4.2020) by [The Tax Credits, Child Benefit, Guardians Allowance and Childcare Payments (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/297)](https://www.legislation.gov.uk/uksi/2020/297), [regs. 1](https://www.legislation.gov.uk/uksi/2020/297/regulation/1), [8(3)(d)](https://www.legislation.gov.uk/uksi/2020/297/regulation/8/3/d)
+
+[^key-3127af1fc8f3a95e1c050e1f1c923801]: Textual amendment: Words in [reg. 17(8)](https://www.legislation.gov.uk/uksi/2015/522/regulation/17/8) inserted (16.11.2023) by [The Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023 (Consequential Modifications) Order 2023 (S.I. 2023/1214)](https://www.legislation.gov.uk/uksi/2023/1214), [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1214/article/1/2), [reg. 12(3)(c)](https://www.legislation.gov.uk/uksi/2023/1214/regulation/12/3/c)
+
+[^key-6d9c09848709c1cc36caad208ca0f585]: Textual amendment: Words in reg. 17(8) substituted (22.7.2021) by [The Childcare Payments (Miscellaneous Amendment) Regulations 2021 (S.I. 2021/781)](https://www.legislation.gov.uk/uksi/2021/781), [regs. 1](https://www.legislation.gov.uk/uksi/2021/781/regulation/1), [3(7)(c)](https://www.legislation.gov.uk/uksi/2021/781/regulation/3/7/c)
+
+[^key-91197cf8c6bbd426f7f2786466284576]: Textual amendment: Reg. 17(9) inserted (22.7.2021) by [The Childcare Payments (Miscellaneous Amendment) Regulations 2021 (S.I. 2021/781)](https://www.legislation.gov.uk/uksi/2021/781), [regs. 1](https://www.legislation.gov.uk/uksi/2021/781/regulation/1), [3(7)(d)](https://www.legislation.gov.uk/uksi/2021/781/regulation/3/7/d)
+
+[^key-4aa24cb11ea66b5d92134caf5f52170a]: Textual amendment: Words in reg. 18(1)(a) inserted (5.9.2016) by [The Childcare Payments (Amendment) Regulations 2016 (S.I. 2016/796)](https://www.legislation.gov.uk/uksi/2016/796), [regs. 1](https://www.legislation.gov.uk/uksi/2016/796/regulation/1), [8(a)](https://www.legislation.gov.uk/uksi/2016/796/regulation/8/a)
+
+[^key-a49d0462cffa3c32b359cf7302b8b815]: Textual amendment: Words in reg. 18(1)(a) inserted (6.4.2020) by [The Tax Credits, Child Benefit, Guardians Allowance and Childcare Payments (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/297)](https://www.legislation.gov.uk/uksi/2020/297), [regs. 1](https://www.legislation.gov.uk/uksi/2020/297/regulation/1), [8(4)(a)](https://www.legislation.gov.uk/uksi/2020/297/regulation/8/4/a)
+
+[^key-13159053cb7c4be560c2f2adb8b6c002]: Textual amendment: Reg. 18(1A)(1B) inserted (5.9.2016) by [The Childcare Payments (Amendment) Regulations 2016 (S.I. 2016/796)](https://www.legislation.gov.uk/uksi/2016/796), [regs. 1](https://www.legislation.gov.uk/uksi/2016/796/regulation/1), [8(b)](https://www.legislation.gov.uk/uksi/2016/796/regulation/8/b)
+
+[^key-870025da00d2811749b21cfb61c207c6]: Textual amendment: Words in reg. 18(2)(a) omitted (5.9.2016) by virtue of [The Childcare Payments (Amendment) Regulations 2016 (S.I. 2016/796)](https://www.legislation.gov.uk/uksi/2016/796), [regs. 1](https://www.legislation.gov.uk/uksi/2016/796/regulation/1), [8(c)(i)](https://www.legislation.gov.uk/uksi/2016/796/regulation/8/c/i)
+
+[^key-32109620bf9d123c900e43380982aa8e]: Textual amendment: Words in reg. 18(2)(a) omitted (5.9.2016) by virtue of [The Childcare Payments (Amendment) Regulations 2016 (S.I. 2016/796)](https://www.legislation.gov.uk/uksi/2016/796), [regs. 1](https://www.legislation.gov.uk/uksi/2016/796/regulation/1), [8(c)(ii)](https://www.legislation.gov.uk/uksi/2016/796/regulation/8/c/ii)
+
+[^key-4def5e9c9e95a6017a413f9432fdd4ff]: Textual amendment: Words in reg. 18(2)(b) omitted (5.9.2016) by virtue of [The Childcare Payments (Amendment) Regulations 2016 (S.I. 2016/796)](https://www.legislation.gov.uk/uksi/2016/796), [regs. 1](https://www.legislation.gov.uk/uksi/2016/796/regulation/1), [8(d)](https://www.legislation.gov.uk/uksi/2016/796/regulation/8/d)
+
+[^key-90294242e84e317229a8282b9e57cac1]: Textual amendment: Reg. 18(3A) inserted (6.4.2020) by [The Tax Credits, Child Benefit, Guardians Allowance and Childcare Payments (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/297)](https://www.legislation.gov.uk/uksi/2020/297), [regs. 1](https://www.legislation.gov.uk/uksi/2020/297/regulation/1), [8(4)(b)](https://www.legislation.gov.uk/uksi/2020/297/regulation/8/4/b)
+
+[^key-8e6a4b278d09a3c0dccde6f95e6f0402]: Textual amendment: Semicolon in reg. 18(7)(b) substituted for full stop (5.9.2016) by [The Childcare Payments (Amendment) Regulations 2016 (S.I. 2016/796)](https://www.legislation.gov.uk/uksi/2016/796), [regs. 1](https://www.legislation.gov.uk/uksi/2016/796/regulation/1), [8(e)](https://www.legislation.gov.uk/uksi/2016/796/regulation/8/e)
+
+[^key-616bbc481fcf5d15be54a0e9593d729b]: Textual amendment: Reg. 18(7)(c)(d) inserted (5.9.2016) by [The Childcare Payments (Amendment) Regulations 2016 (S.I. 2016/796)](https://www.legislation.gov.uk/uksi/2016/796), [regs. 1](https://www.legislation.gov.uk/uksi/2016/796/regulation/1), [8(f)](https://www.legislation.gov.uk/uksi/2016/796/regulation/8/f)
+
+[^c22408511]: Marginal citation: [2001 c. 11](https://www.legislation.gov.uk/ukpga/2001/11). Section 6A(1) was inserted by section 24 of the [Welfare Reform Act 2009 (c. 24)](https://www.legislation.gov.uk/ukpga/2009/24) and amended by section 117(2) of, and paragraph 57 of Schedule 2 and paragraph 46 of Schedule 9 to, the [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5).
+
+[^key-596d3497886759379811e31a6d129759]: Textual amendment: Words in [reg. 21(b)](https://www.legislation.gov.uk/uksi/2015/522/regulation/21/b) substituted (22.7.2021) by [The Childcare Payments (Miscellaneous Amendment) Regulations 2021 (S.I. 2021/781)](https://www.legislation.gov.uk/uksi/2021/781), [regs. 1](https://www.legislation.gov.uk/uksi/2021/781/regulation/1), [3(8)](https://www.legislation.gov.uk/uksi/2021/781/regulation/3/8)
+
+[^key-ebc8f201edba8dd22b44f6a7bd9c4f65]: Textual amendment: Word in reg. 22(3)(b) omitted (5.9.2016) by virtue of [The Childcare Payments (Amendment) Regulations 2016 (S.I. 2016/796)](https://www.legislation.gov.uk/uksi/2016/796), [regs. 1](https://www.legislation.gov.uk/uksi/2016/796/regulation/1), [9(a)](https://www.legislation.gov.uk/uksi/2016/796/regulation/9/a)
+
+[^key-0cb5b20e515fa563f85ed09766a974e1]: Textual amendment: Word in reg. 22(3)(c)(iv) substituted (5.9.2016) by [The Childcare Payments (Amendment) Regulations 2016 (S.I. 2016/796)](https://www.legislation.gov.uk/uksi/2016/796), [regs. 1](https://www.legislation.gov.uk/uksi/2016/796/regulation/1), [9(b)](https://www.legislation.gov.uk/uksi/2016/796/regulation/9/b)
+
+[^key-f1f5d11f2b9d0860c04495f55c803b93]: Textual amendment: Reg. 22(3)(d) inserted (5.9.2016) by [The Childcare Payments (Amendment) Regulations 2016 (S.I. 2016/796)](https://www.legislation.gov.uk/uksi/2016/796), [regs. 1](https://www.legislation.gov.uk/uksi/2016/796/regulation/1), [9(c)](https://www.legislation.gov.uk/uksi/2016/796/regulation/9/c)
+
+[^c22408521]: Marginal citation: [2003 c. 21](https://www.legislation.gov.uk/ukpga/2003/21). Section 32 was amended by [S.I. 2011/1210](https://www.legislation.gov.uk/uksi/2011/1210).

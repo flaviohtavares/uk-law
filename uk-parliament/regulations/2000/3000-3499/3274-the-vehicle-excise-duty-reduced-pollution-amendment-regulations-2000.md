@@ -1,0 +1,108 @@
+---
+title: The Vehicle Excise Duty (Reduced Pollution) (Amendment) Regulations 2000
+id: uksi/2000/3274
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2000-12-14'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2000/3274
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2000/3274/pdfs/uksi_20003274_en.pdf
+- http://www.legislation.gov.uk/uksi/2000/3274/made/data.pdf
+pending_changes: 1
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Vehicle Excise Duty (Reduced Pollution) (Amendment) Regulations 2000
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2000 No. 3274
+
+ROAD TRAFFIC
+
+The Vehicle Excise Duty (Reduced Pollution) (Amendment) Regulations 2000
+
+Made
+
+14th December 2000
+
+Laid before Parliament
+
+14th December 2000
+
+Coming into force
+
+5th January 2001
+
+The Secretary of State for the Environment, Transport and the Regions, in exercise of the powers conferred by sections 57 and 61B of the Vehicle Excise and Registration Act 1994[^f00001] hereby makes the following Regulations:
+
+## 1. Citation and Commencement
+
+These Regulations may be cited the Vehicle Excise Duty (Reduced Pollution) (Amendment) Regulations 2000 and shall come into force on 5th January 2001.
+
+## 2. Amendment of the Vehicle Excise Duty (Reduced Pollution) Regulations 1998
+
+The Vehicle Excise Duty (Reduced Pollution) Regulations 1998[^f00002] shall be amended in accordance with the following regulations.
+
+**3.** In regulation 2—
+
+(1) in paragraph (1), after the definition of “authorised examiner” shall be inserted—
+
+> - “Directive 1999/96” means Directive [1999/96/EC](https://www.legislation.gov.uk/european/directive/1999/0096) of the European Parliament and of the Council of 13 December 1999 on the approximation of the laws of the Member States relating to measures to be taken against the emission of gaseous and particulate pollutants from compression ignition engines for use in vehicles, and the emission of gaseous pollutants from positive ignition engines fuelled with natural gas or liquefied petroleum gas for use in vehicles and amending Council Directive [88/77/EEC](https://www.legislation.gov.uk/european/directive/1988/0077);
+
+(2) after paragraph (2) shall be inserted—
+
+> (3) For the purposes of these Regulations a reduced pollution certificate shall be deemed to be issued, and a written notice or notification shall be deemed to be given, by an authorised examiner if it is signed on behalf of that examiner by a person authorised by him to sign it on his behalf.
+
+**4.** In regulation 5—
+
+(1) in paragraph (1), for the words “paragraph (3)” shall be substituted “paragraphs (3) or (3A)”;
+
+(2) in paragraph (3)—
+
+- (a) for the word “In” shall be substituted “Subject to paragraph (3A), in”; and
+- (b) in the table—
+  - (i) at item 3 in column (3), for the figure “0.08” shall be substituted “0.03”;
+  - (ii) at item 4 in column (2), for the words “European Commission Proposal (COM (97) 627) for a European and Council Directive amending Council Directive 88/77” shall be substituted “Directive 1999/96 Annex I paragraph 6.2.1.Rows A of Tables 1 and 2”;
+  - (iii) at item 4 in column (3), for the figure “0.04” shall be substituted “0.03”; and
+
+(3) after paragraph (3) shall be inserted—
+
+> (3A) In the case of a vehicle in respect of which a reduced pollution certificate was in force on 4th January 2001, the reduced pollution requirements are satisifed if the vehicle continues to meet the reduced pollution requirements in respect of which that certificate was issued.
+
+**5.** In regulation 12(2), for the words “regulation 10(3)” in both places where those words occur there shall be substituted “regulation 10(1)”.
+
+**6.** After regulation 12 shall be inserted the following—
+
+> **12A. Replacement Certificates**
+>
+> At any time when a reduced pollution certificate is in force in respect of a vehicle the Secretary of State may, on surrender of the certificate or its identifiable remains, issue a replacement certificate for the remainder of the period for which the surrendered certificate was in force.
+
+Signed by authority of the Secretary of State
+
+Larry Whitty
+
+Parliamentary Under Secretary of State
+
+Department of the Environment, Transport and the Regions
+
+14th December 2000
+
+(This note is not part of the Regulations)
+
+These Regulations amend the Vehicle Excise Duty (Reduced Pollution) Regulations 1998.
+
+The Regulations amend the rate and content of particulate emissions requirements with which a relevant vehicle must comply in order to satisfy the reduced pollution requirements. The amended requirements reflect the particulate emission levels contained in Directive [1999/96/EC](https://www.legislation.gov.uk/european/directive/1999/0096). However, the existing requirements are retained for vehicles for which a reduced pollution certificate had been issued before the coming into force of these Regulations.
+
+The Regulations also provide for the issue of replacement certificates and for the signing of certificates and written notices on behalf of authorised examiners. They amend an incorrect cross reference in regulation 12 of the principal Regulations.
+
+## Annotations
+
+[^f00001]: Footnote: [1994 c. 22](https://www.legislation.gov.uk/ukpga/1994/22). Section 57(1) was amended by the Finance Act [1996 (c. 8)](https://www.legislation.gov.uk/ukpga/1996/8), s.23 and Schedule 2, paragraph 16. Section 61B was inserted by the Finance Act [1998 (c. 36)](https://www.legislation.gov.uk/ukpga/1998/36), s.16 and Schedule 1, paragraph 2.
+
+[^f00002]: Footnote: S.I. [1998/3094](https://www.legislation.gov.uk/uksi/1998/3094).

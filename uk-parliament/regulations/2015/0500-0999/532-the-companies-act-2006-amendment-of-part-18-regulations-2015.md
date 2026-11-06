@@ -1,0 +1,130 @@
+---
+title: The Companies Act 2006 (Amendment of Part 18) Regulations 2015
+id: uksi/2015/532
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2015-03-02'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2015/532
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2015/532/pdfs/uksiem_20150532_en.pdf
+- http://www.legislation.gov.uk/uksi/2015/532/pdfs/uksi_20150532_en.pdf
+- http://www.legislation.gov.uk/uksi/2015/532/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Companies Act 2006 (Amendment of Part 18) Regulations 2015
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2015 No. 532
+
+Companies
+
+The Companies Act 2006 (Amendment of Part 18) Regulations 2015
+
+Made
+
+2nd March 2015
+
+Coming into force
+
+6th April 2015
+
+The Secretary of State makes the following Regulations in exercise of the powers conferred by section 737 of the Companies Act 2006[^f00001].
+
+In accordance with sections 737(4) and 1290 of that Act, a draft of these Regulations has been laid before Parliament and approved by a resolution of each house of Parliament.
+
+## 1. Citation and commencement
+
+(1) These Regulations may be cited as the Companies Act 2006 (Amendment of Part 18) Regulations 2015.
+
+(2) They come into force on 6th April 2015.
+
+## 2. Amendments to the Companies Act 2006
+
+The Companies Act 2006 is amended as follows.
+
+**3.** (1) Section 692 (financing purchase of own shares) is amended as follows.
+
+(2) For subsection (1) substitute—
+
+> (1) A private limited company may purchase its own shares out of capital in accordance with Chapter 5.
+>
+> (1ZA) If authorised to do so by its articles, a private limited company may purchase its own shares out of capital otherwise than in accordance with Chapter 5, up to an aggregate purchase price in a financial year of the lower of—
+>
+> - (a) £15,000, or
+> - (b) the nominal value of 5% of its fully paid share capital as at the beginning of the financial year.
+
+(3) In subsection (1A) for “(1)(b)(ii)” substitute “(1ZA)(b)”.
+
+(4) In subsection (2) for “subsection (1)” substitute “subsections (1) and (1ZA)”.
+
+**4.** In section 708(2) (notice to registrar of cancellation of shares), after “a statement of capital” insert “, except where the statement of capital would be the same as a statement of capital that is required to be delivered to the registrar under section 720B(1)”.
+
+**5.** In section 709 (power of private limited company to redeem or purchase own shares out of capital), at the end add—
+
+> (3) This Chapter is subject to section 692(1ZA) (purchase of own shares up to annual limit).
+
+**6.** Section 723 (when payment out of capital to be made) is amended as follows—
+
+- (a) for the heading substitute “Time when payment out of capital to be made or shares to be surrendered”,
+- (b) for subsection (1A) substitute—
+
+  > (1A) Shares to be purchased in accordance with a resolution under section 720A must be surrendered—
+  >
+  > - (a) no earlier than five weeks after the date on which the resolution under section 720A is passed, and
+  > - (b) no later than seven weeks after that date.
+
+**7.** For section 724(1)(b) (treasury shares) substitute—
+
+> - (b) the purchase is made out of distributable profits.
+
+**8.** In section 733(3) (the capital redemption reserve), after “under Chapter 5” insert “or under section 692(1ZA)”.
+
+**9.** (1) Section 734 (accounting consequences of payment out of capital) is amended as follows.
+
+(2) In subsection (1) after “Chapter 5” insert “or section 692(1ZA)”.
+
+(3) After subsection (1) insert—
+
+> (1A) In relation to a payment under section 692(1ZA) references to the permissible capital payment are to the purchase price of the shares or (if less) the part of it met out of the payment under section 692(1ZA) and any proceeds of a fresh issue used to make the purchase.
+
+(4) In subsection (4) for “this Chapter” substitute “Chapter 5”.
+
+Jo Swinson
+
+Minister for Employment Relations and Consumer Affairs
+
+Department for Business, Innovation and Skills
+
+2nd March 2015
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations come into force on 6th April 2015 and extend to the whole of the United Kingdom, reflecting the extent of the Companies Act [2006 (c.46)](https://www.legislation.gov.uk/ukpga/2006/46).
+
+These Regulations amend Part 18 (Acquisition by limited company of its own shares) of the Companies Act 2006 (“CA 2006”).
+
+Regulation 3 provides that a company that buys back its own shares may finance the purchase in accordance with Chapter 5 or, without Chapter 5 applying, under section 692(1ZA) CA 2006. Section 692(1ZA) specifies the maximum value of shares that may be bought back under this procedure, being the aggregate purchase price in a financial year, as the lower of £15,000 or 5% of the nominal value of the fully paid share capital as at the beginning of the financial year.
+
+Regulation 4 removes the requirement to deliver a statement of capital to the registrar when shares are cancelled under section 708(2) CA 2006 following a purchase by a company of its own shares for the purposes of an employees’ share scheme, if the statement of capital would be identical to that delivered under section 720B(1) CA 2006 (registration of documents for purchase of own shares for the purpose of or pursuant to an employees’ share scheme).
+
+Regulation 5 inserts a new subsection into section 709 CA 2006 that provides that Chapter 5 is subject to the procedure in section 692(1ZA) CA 2006 to ensure that there is no conflict.
+
+Regulation 6 amends section 723 CA 2006 so that where a company buys back its own shares under section 720A CA 2006 for the purposes of or pursuant to an employees’ share scheme, the time limit for the return of the shares to the company such that the obligation to pay arises is specified in relation to the date the resolution approving such buy back is passed. This is to allow a company to take advantage of the option of deferred payment in section 691(3) CA 2006.
+
+Regulations 7, 8 and 9 ensure that shares bought back under section 692(1ZA) CA 2006 and those bought back under Chapter 5 of Part 18 are treated consistently in accountancy terms. In particular, regulation 7 prevents shares bought back under section 692(1ZA) CA 2006 from being held in treasury.
+
+A full regulatory impact assessment has not been produced for this instrument as the effect is already included in the impact assessment prepared for the Companies Act 2006 (Amendment of Part 18) Regulations 2013 ([S.I. 2013/999](https://www.legislation.gov.uk/uksi/2013/999)). This impact assessment is available from the Business Environment Directorate, Department for Business, Innovation and Skills, 1 Victoria Street, London SW1H 0ET or from www.gov.uk/bis and is annexed to the Explanatory Memorandum which is available alongside the 2013 instrument at www.legislation.gov.uk.
+
+## Annotations
+
+[^f00001]: Footnote: [2006 c.46](https://www.legislation.gov.uk/ukpga/2006/46). Sections 692(1), 723 and 724(1) were amended by [S.I. 2013/999](https://www.legislation.gov.uk/uksi/2013/999).

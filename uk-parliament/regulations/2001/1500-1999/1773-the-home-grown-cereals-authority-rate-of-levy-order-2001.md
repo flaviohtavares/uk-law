@@ -1,0 +1,130 @@
+---
+title: The Home-Grown Cereals Authority (Rate of Levy)Order 2001
+id: uksi/2001/1773
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2001-05-08'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2001/1773
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2001/1773/pdfs/uksi_20011773_en.pdf
+- http://www.legislation.gov.uk/uksi/2001/1773/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Home-Grown Cereals Authority (Rate of Levy)Order 2001
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2001 No. 1773
+
+AGRICULTURE
+
+CEREALS MARKETING
+
+The Home-Grown Cereals Authority (Rate of Levy)Order 2001
+
+Made
+
+8th May 2001
+
+Laid before Parliament
+
+9th May 2001
+
+Coming into force
+
+1st July 2001
+
+Whereas the Home-Grown Cereals Authority (“the Authority”), established under Part I of the Cereals Marketing Act 1965[^f00001] (“the Act”), have prepared and submitted to the Minister of Agriculture, Fisheries and Food, the Secretary of State for Northern Ireland, the Scottish Ministers and the National Assembly for Wales (“the Ministers and the National Assembly”), pursuant to section 13(1)(a)[^f00002] of the Act, an estimate of the amount required to be raised by levy imposed on persons specified in the Home-Grown Cereals Authority Cereals Levy Scheme 1987[^f00003] and in the Home-Grown Cereals Authority Oilseeds Levy Scheme 1990[^f00004] (“the Schemes”) for the period of twelve months beginning on 1st July 2001 (“the relevant year”) for the purposes of the Authority’s functions under Part I of the Act;
+
+And whereas, pursuant to section 13(2) of the Act, the Authority duly submitted to the Ministers and the National Assembly, together with such estimate, proposals as to the kinds of home-grown cereals[^f00005] in respect of which a levy should be imposed and as to the apportionment of the amount specified in the estimate as between those kinds of home-grown cereals;
+
+And whereas, pursuant to section 13(3) of the Act, the Ministers and the National Assembly—
+
+- (a) have determined that the amount to be raised by levy for the relevant year for such purposes shall be £10,856,000 and that the kinds of home-grown cereals in respect of which the levy is to be imposed for the relevant year shall be wheat (including durum wheat), barley, oats, rye, maize, triticale or any two or more of those cereals grown as one crop, and rapeseed, linseed, soyabean, sunflowerseed or any two or more of those oilseeds grown as one crop; and
+- (b) have apportioned the amount so determined as between those cereals and those oilseeds so that the amount to be raised by levy in respect of the cereals is £9,823,000 and the amount to be so raised in respect of the oilseeds is £1,033,000 and the rates of levy on each kind of cereal or each kind of oilseed respectively are the same;
+
+Now therefore, the Minister of Agriculture, Fisheries and Food, the Secretary of State for Northern Ireland and the National Assembly for Wales, acting jointly, in exercise of the powers conferred upon them by sections 13(3), 23(1) and 24(1) of the Act[^f00006], and now vested in them[^f00007], and of all other powers enabling them in that behalf, and with the consent of the Scottish Ministers[^f00008], hereby make the following Order:
+
+## 1. Title and commencement
+
+This Order may be cited as the Home-Grown Cereals Authority (Rate of Levy) Order 2001 and shall come into force on 1st July 2001.
+
+## 2. Interpretation
+
+In this Order, unless the context otherwise requires, expressions have the same meanings as they have in the Schemes.
+
+## 3. Rates of Levy
+
+(1) For the relevant year the rates of levy per tonne of cereals delivered which appears to the Ministers and the National Assembly to be sufficient (but not more than sufficient) to meet the amount apportioned to each kind of cereal shall in each case be—
+
+- (a) 50.8775 pence in respect of dealer levy,
+- (b) 47 pence in respect of grower levy,
+- (c) 9.69375 pence in respect of standard rate processor levy, and
+- (d) 4.7 pence in respect of reduced rate processor levy.
+
+(2) For the relevant year the rate of levy per tonne of oilseeds delivered which appears to the Ministers and the National Assembly to be sufficient (but not more than sufficient) to meet the amount apportioned to each kind of oilseed shall in each case be 76.375 pence.
+
+Joyce Quin
+
+Minister of State, Ministry of Agriculture, Fisheries and Food
+
+30th April 2001
+
+John Reid
+
+Secretary of State for Northern Ireland
+
+1st May 2001
+
+Signed on behalf of the National Assembly for Wales under section 66(1) of the Government of Wales Act 1998[^f00009]:
+
+Elis Thomas
+
+Presiding Officer
+
+8th May 2001
+
+We consent
+
+Ross Finnie
+
+A member of the Scottish Executive
+
+1st May 2001
+
+This note is not part of the Order)
+
+For the purposes of financing the Home-Grown Cereals Authority’s non-trading functions under Part I of the Cereals Marketing Act 1965 for the year beginning on 1st July 2001, this Order specifies the rates of dealer levy, grower levy and processor levies which appear to the Ministers and the National Assembly for Wales to be sufficient to meet the amount apportioned to certain cereals grown in the United Kingdom, namely, wheat (including durum wheat), barley, oats, rye, maize, triticale, or any two or more such cereals grown as one crop, and the rate of levy which appears to them to be sufficient to meet the amount apportioned to certain oilseeds grown in the United Kingdom, namely rapeseed, linseed, soyabean, sunflowerseed or any two or more of such oilseeds grown as one crop.
+
+Levy will be imposed in accordance with the provisions of the Home-Grown Cereals Authority Cereals Levy Scheme 1987 (as varied) and the Home-Grown Cereals Authority Oilseeds Levy Scheme 1990, both of which are schemes in force under section 16 of the Act.
+
+The Order comes into force on 1st July 2001.
+
+No regulatory impact assessment has been prepared in respect of this Order.
+
+## Annotations
+
+[^f00001]: Footnote: [1965 c. 14](https://www.legislation.gov.uk/ukpga/1965/14); Part I was amended by sections 4, 5 and 24(4) and (5) of, and Schedules 3 and 4 to, the Agriculture Act 1986 ([1986 c. 49)](https://www.legislation.gov.uk/ukpga/1986/49).
+
+[^f00002]: Footnote: Section 13 was amended by the Cereals Marketing Act 1965 (Amendment) Regulations 1979 (S.I. [1979/26](https://www.legislation.gov.uk/uksi/1979/26)) and section 24(5) of, and Schedule 4 to, the Agriculture Act 1986.
+
+[^f00003]: Footnote: The Scheme was approved (with modifications) by the Home-Grown Cereals Authority Levy Scheme (Approval) Order 1987 (S.I. [1987/671](https://www.legislation.gov.uk/uksi/1987/671)). It was varied by the Home-Grown Cereals Authority Levy (Variation) Scheme 1990 which was approved (with a modification) by the Home-Grown Cereals Authority Levy (Variation) Scheme (Approval) Order 1990 (S.I. [1990/1316](https://www.legislation.gov.uk/uksi/1990/1316)), the Home-Grown Cereals Authority Levy (Variation) Scheme 1991 which was approved by the Home-Grown Cereals Authority Levy (Variation) Scheme (Approval) Order 1991 (S.I. [1991/1302](https://www.legislation.gov.uk/uksi/1991/1302)) and the Home-Grown Cereals Authority Levy (Variation) Scheme 1996 which was approved (with modifications) by the Home-Grown Cereals Authority Levy (Variation) Scheme (Approval) Order 1996 (S.I. [1996/2843](https://www.legislation.gov.uk/uksi/1996/2843)).
+
+[^f00004]: Footnote: Approved by the Home-Grown Cereals Authority Oilseeds Levy Scheme (Approval) Order 1990 (S.I. [1990/1317](https://www.legislation.gov.uk/uksi/1990/1317)).
+
+[^f00005]: Footnote: See the definitions of “home-grown cereals” and “kind” of home-grown cereals in section 24(2) and (3) of the Cereals Marketing Act 1965, as amended by section 6(7) of the Agriculture Act [1986 (c. 49)](https://www.legislation.gov.uk/ukpga/1986/49) and the Cereals Marketing Act (Application to Oilseeds) Order 1989 (S.I. [1989/1200](https://www.legislation.gov.uk/uksi/1989/1200)) made under section 6(1) and (4) of the Agriculture Act 1986.
+
+[^f00006]: Footnote: See the definition of “the Ministers” in section 24(1).
+
+[^f00007]: Footnote: In respect of the National Assembly for Wales, the National Assembly for Wales (Transfer of Functions) Order 1999 (S.I. [1999/672](https://www.legislation.gov.uk/uksi/1999/672)), made under, inter alia, section 22 of the Government of Wales Act [1998 (c. 38)](https://www.legislation.gov.uk/ukpga/1998/38), transferred the functions of the Secretary of State for Wales to the National Assembly to the same extent that they had been transferred to the Secretary of State for Wales by S.I. [1969/388](https://www.legislation.gov.uk/uksi/1969/388) and S.I. [1978/272](https://www.legislation.gov.uk/uksi/1978/272).
+
+[^f00008]: Footnote: By the Scotland Act 1998 (Cross-Border Public Authorities) (Specification) Order 1999 (S.I. [1999/1319](https://www.legislation.gov.uk/uksi/1999/1319)), made under section 88(5) of the Scotland Act [1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46), the Home-Grown Cereals Authority were specified as a cross-border public authority for the purposes of that Act. By article 3 of, and paragraph 3 of Schedule 13 to, the Scotland Act 1998 (Cross-Border Public Authorities) (Adaptation of Functions etc.) Order 1999 (S.I. [1999/1747](https://www.legislation.gov.uk/uksi/1999/1747)), it was provided, in respect of a function exercisable, inter alia, under section 13 of the Cereals Marketing Act 1965 by a Minister of the Crown to make an Order specifying rates of levy required to be raised for the purposes of the Home-Grown Cereals Authority’s non-trading functions under that Act, that the Secretary of State for Scotland should cease to be a Minister of the Crown by whom the function is exercisable, and that any such function should be exercisable only with the consent of the Scottish Ministers.
+
+[^f00009]: Footnote: [1998 c. 38](https://www.legislation.gov.uk/ukpga/1998/38).

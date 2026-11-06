@@ -1,0 +1,97 @@
+---
+title: The Public Trustee (Fees) (Amendment) Order 1994
+id: uksi/1994/714
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '1994-03-09'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1994/714
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1994/714/made/data.pdf
+pending_changes: 1
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Public Trustee (Fees) (Amendment) Order 1994
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+1994 No. 714
+
+TRUSTEES
+
+The Public Trustee (Fees) (Amendment) Order 1994
+
+Made
+
+9th March 1994
+
+Coming into force
+
+1st April 1994
+
+The Treasury, in exercise of the powers conferred on them by section 9 of the Public Trustee Act 1906[^f00001] and section 1 of the Public Trustee (Fees) Act 1957[^f00002] and with the sanction of the Lord Chancellor, hereby make the following Order:
+
+**1.** This Order may be cited as the Public Trustee (Fees) (Amendment) Order 1994 and shall come into force on 1st April 1994.
+
+**2.** In article 17(4) of the Public Trustee (Fees) Order 1985[^f00003] (“the principal order”), for the words from “in respect of the first £30,000” to the words “0.2 per cent.” there shall be substituted—
+
+> |  |  |
+> | --- | --- |
+> | in respect of the first £30,000 | 1.65 per cent |
+> | in respect of any excess over £30,000 up to £150,000 | 1.38 per cent |
+> | in respect of any excess over £150,000 up to £375,000 | 0.825 per cent |
+> | in respect of any excess over £375,000 up to £2,500,000 | 0.55 per cent |
+> | in respect of any excess over £2,500,000 | 0.22 per cent. |
+
+**3.** For paragraph (5) of article 17 of the principal order there shall be substituted the following paragraph—
+
+> (5) In this article—
+>
+> “appropriate valuation date” means whichever of the following dates most recently precedes the date on which the fee is payable:—
+>
+> - (a) 1st July 1984 in the case of any estate or trust in which the Public Trustee was acting on that date;
+> - (b) 1st July 1987 in the case of any estate or trust in which the Public Trustee was acting on that date;
+> - (c) 30th September 1991 in the case of any estate or trust in which the Public Trustee was acting on that date;
+> - (d) 30th September 1993 in the case of any estate or trust in which the Public Trustee was acting on that date;
+> - (e) in any other case, the acceptance valuation date of the estate or trust; and
+>
+>   “relevant period” means the period between the appropriate valuation date and the date on which the fee is payable.
+
+.
+
+Irvine Patnick
+
+Nicholas Baker
+
+Two of the Lords Commissioners of Her Majesty’s Treasury.
+
+Dated 7th March 1994
+
+I hereby signify my sanction
+
+Mackay of Clashfern, *C.*
+
+Dated 9th March 1994
+
+(This note is not part of the Order)
+
+This Order amends the Public Trustee (Fees) Order 1985 in the following ways.
+
+**1.** For the administration fee payable the percentage payable in respect of each ad valorem band is increased; and
+
+**2.** It revises the date for valuing the net capital value of an estste or trust fund for the purpose of calculating the administration fee payable.
+
+The administration fee percentages were last revised in 1992 and the overall effect of the changes made by this Order is to increase the fees by about 10 per cent.
+
+## Annotations
+
+[^f00001]: Footnote: [1906 c. 55](https://www.legislation.gov.uk/ukpga/1906/55).
+
+[^f00002]: Footnote: [1957 c. 12](https://www.legislation.gov.uk/ukpga/1957/12).
+
+[^f00003]: Footnote: S.I. [1985/373](https://www.legislation.gov.uk/uksi/1985/373); relevant amending instruments are S.I. [1987/403](https://www.legislation.gov.uk/uksi/1987/403). [1988/571](https://www.legislation.gov.uk/uksi/1988/571) and [1992/724](https://www.legislation.gov.uk/uksi/1992/724).

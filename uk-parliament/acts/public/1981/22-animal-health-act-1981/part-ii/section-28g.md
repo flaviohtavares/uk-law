@@ -1,0 +1,79 @@
+---
+title: Animal Health Act 1981, section 28G
+act: Animal Health Act 1981
+section: 28G
+status: revised-with-pending-changes
+text_date: '2026-07-24'
+extent: S
+source_url: https://www.legislation.gov.uk/ukpga/1981/22/section/28G
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Animal Health Act 1981, section 28G
+
+> **Warning: changes not yet applied to this text (3).** Text as at 2026-07-24. See https://www.legislation.gov.uk/changes/affected/ukpga/1981/22
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 28G. Seizure orders where disqualification breached[^key-38ecb1de89e57bd6d620fecc0fe10591]
+
+*Extent: S*
+
+(1) Where the court is satisfied that a person who is subject to a disqualification order owns or keeps any animal in breach of the order, the court may make an order (in this section and section 28H referred to as a “ **seizure order** ”) in respect of all animals which the person owns or keeps in breach of the disqualification order.
+
+(2) A seizure order may be made—
+
+- (a) on summary application by an inspector;
+- (b) even if proceedings have not been, or are not likely to be, taken against the person for an offence under section 28F(16).
+
+(3) In subsection (2)(a), “ **inspector** ” means—
+
+- (a) a person appointed as an inspector for the purposes of this Act by the Scottish Ministers; or
+- (b) a person authorised by the Scottish Ministers for those purposes.
+
+(4) A seizure order is an order—
+
+- (a) depriving a person of possession or ownership (or both) of an animal; and
+- (b) for—
+  - (i) the destruction;
+  - (ii) the sale; or
+  - (iii) another disposal,
+
+  of the animal.
+
+(5) A seizure order may include—
+
+- (a) provision—
+  - (i) appointing a person who is to secure that the order is carried out;
+  - (ii) requiring any person possessing an animal to which the order applies to give it up to a person appointed under sub-paragraph (i);
+- (b) provision authorising—
+  - (i) a person appointed under paragraph (a)(i); and
+  - (ii) any person acting on that person's behalf,
+
+  to enter, for the purposes of securing that the order is carried out, any premises where an animal to which the order applies is kept;
+- (c) such other provision as the court considers appropriate in connection with the order.
+
+(6) Provision under subsection (5)(c) may, in particular—
+
+- (a) require reimbursement of any expenses reasonably incurred in carrying out the order;
+- (b) relate to the retention of any proceeds of the disposal.
+
+(7) The court may not make a seizure order which involves the destruction of an animal unless it is satisfied, on evidence provided (orally or in writing) by a veterinary surgeon, that destruction would be in the interests of the animal.
+
+(8) Before making a seizure order, the court must give the owner of the animals concerned an opportunity to make representations unless it is not practicable for it to do so.
+
+(9) In determining whether or how to make a seizure order, the court must have regard to the desirability of—
+
+- (a) protecting the value of any animal to which the order applies; and
+- (b) avoiding increasing any expenses which a person may be required to reimburse.
+
+(10) Where an application is made under subsection (2)(a), the court may make an order under this subsection (an “interim order”) containing such provision as the court considers appropriate in relation to the keeping of an animal until the application is finally determined.
+
+(11) Subsections (5), (6)(a) and (9) apply in relation to an interim order as they apply in relation to a seizure order.
+
+(12) The disqualified person by reference to whom a seizure order is made, or any person (apart from that disqualified person) who entered the process prior to the making of the order, may appeal to the Sheriff Principal against the order.
+
+## Annotations
+
+[^key-38ecb1de89e57bd6d620fecc0fe10591]: Textual amendment: Ss. 28C-28H inserted (S.) (6.10.2006) by [Animal Health and Welfare (Scotland) Act 2006 (asp 11)](https://www.legislation.gov.uk/asp/2006/11), [ss. 10](https://www.legislation.gov.uk/asp/2006/11/section/10), [55(1)](https://www.legislation.gov.uk/asp/2006/11/section/55/1) (with [s. 54](https://www.legislation.gov.uk/asp/2006/11/section/54)); [S.S.I. 2006/482](https://www.legislation.gov.uk/ssi/2006/482), [art. 2](https://www.legislation.gov.uk/ssi/2006/482/article/2)

@@ -1,0 +1,2365 @@
+---
+title: The Turks and Caicos Islands Constitution Order 2011, SCHEDULE 2
+act: The Turks and Caicos Islands Constitution Order 2011
+section: schedule-2
+status: revised
+text_date: '2024-11-06'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2011/1681/schedule/2
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Turks and Caicos Islands Constitution Order 2011, SCHEDULE 2
+
+> Text as at 2024-11-06.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## SCHEDULE 2 — The Constitution of the Turks and Caicos Islands[^key-3b9b5b862ef046bbdb09d87f63f7fe45]
+
+*Extent: E+W+S+N.I.*
+
+### THE CONSTITUTION OF THE TURKS AND CAICOS ISLANDS
+
+The people of the Turks and Caicos Islands as a God-fearing people with convictions based on sound Christian culture, values and principles, tolerant of other religions;
+
+Affirm their intention to:
+
+- maintain the highest standards of integrity in their daily living;
+- commit to the democratic values of a just and humane society pursuing dignity, prosperity, equality, love, justice, peace and freedom for all;
+- ensure a vibrant diversified economy, work to provide full employment opportunities, and protect their posterity.
+
+Now, therefore, the following provisions shall have effect as the Constitution of the Turks and Caicos Islands.
+
+### PART I — FUNDAMENTAL RIGHTS AND FREEDOMS OF THE INDIVIDUAL
+
+#### 1. Fundamental rights and freedoms of the individual
+
+Whereas every person in the Islands is entitled to the fundamental rights and freedoms of the individual, that is to say, the right, without distinction of any kind, such as race, national or social origin, political or other opinion, colour, religion, language, creed, association with a national minority, property, sex, sexual orientation, birth or other status, but subject to respect for the rights and freedoms of others and for the public interest, to each and all of the following, namely—
+
+- (a) life, liberty, security of the person and the protection of the law;
+- (b) freedom of conscience, of expression and of assembly and association; and
+- (c) protection for his or her private and family life, the privacy of his or her home and other property and from deprivation of property save in the public interest and on payment of fair compensation,
+
+the subsequent provisions of this Part shall have effect for the purpose of affording protection to the aforesaid rights and freedoms, and related rights and freedoms, subject to such limitations of that protection as are contained in those provisions, being limitations designed to ensure that the enjoyment of the said protected rights and freedoms by any individual does not prejudice the rights and freedoms of others or the public interest.
+
+#### 2. Protection of right to life
+
+(1) Every person’s right to life shall be protected by law.
+
+(2) No person shall be deprived intentionally of his or her life.
+
+(3) A person shall not be regarded as having been deprived of his or her life in contravention of this section if he or she dies as the result of the use, to such extent and in such circumstances as are permitted by law, of such force as is no more than absolutely necessary—
+
+- (a) for the defence of any person from violence;
+- (b) in order to effect a lawful arrest or to prevent the escape of a person lawfully detained; or
+- (c) in action lawfully taken for the purpose of suppressing a riot, insurrection or mutiny,
+
+or if he or she dies as a result of a lawful act of war.
+
+#### 3. Protection from inhuman treatment
+
+No person shall be subjected to torture or to inhuman or degrading treatment or punishment.
+
+#### 4. Protection from slavery and forced labour
+
+(1) No person shall be held in slavery or servitude.
+
+(2) No person shall be required to perform forced or compulsory labour.
+
+(3) For the purposes of this section, “forced or compulsory labour” does not include—
+
+- (a) any labour required in consequence of the sentence or order of a court;
+- (b) any labour required of a member of a disciplined force in pursuance of his or her duties as such or, in the case of a person who has conscientious objections to service in a naval, military or air force, any labour that that person is required by law to perform in place of such service;
+- (c) labour required of any person while he or she is lawfully detained that, though not required in consequence of the sentence or order of a court, is reasonably necessary in the interests of hygiene or for the maintenance of the place in which he or she is detained; or
+- (d) any labour required during a period of public emergency or in the event of any other emergency or calamity that threatens the life or well-being of the community, to the extent that the requiring of such labour is reasonably justifiable, in the circumstances of any situation arising or existing during that period or as a result of that other emergency or calamity, for the purpose of dealing with that situation.
+
+#### 5. Protection from arbitrary arrest or detention
+
+(1) Every person has the right to liberty and security of person.
+
+(2) No person shall be deprived of his or her personal liberty save in accordance with a procedure prescribed by law in any of the following cases—
+
+- (a) in execution of the sentence or order of a court, whether established for the Islands or some other country, in respect of a criminal offence of which he or she has been convicted or in consequence of his or her unfitness to plead to a criminal charge;
+- (b) in execution of the order of a court punishing him or her for contempt of that court or of another court;
+- (c) in execution of the lawful order of a court made in order to secure the fulfilment of any obligation imposed on him or her by law;
+- (d) for the purpose of bringing him or her before a court in execution of the lawful order of a court;
+- (e) on reasonable suspicion that he or she has committed, is committing or is about to commit a criminal offence;
+- (f) in the case of a minor, under the order of a court or with the consent of his or her parent or legal guardian, for the purpose of his or her education or welfare;
+- (g) for the purpose of preventing the spread of an infectious or contagious disease or in the case of a person who is, or is reasonably suspected to be, of unsound mind, addicted to drugs or alcohol, or a vagrant, for the purpose of his or her care or treatment or the protection of the community;
+- (h) for the purpose of preventing the unlawful entry of that person into the Islands or for the purpose of effecting the expulsion, extradition or other lawful removal from the Islands of that person or the taking of proceedings relating thereto.
+
+(3) Any person who is arrested or detained shall be informed promptly, in a language that he or she understands, of the reasons for his or her arrest or detention and of any charge against him or her.
+
+(4) Any person who is arrested or detained shall have the right, at any stage and at his or her own expense, to retain and instruct without delay a legal representative of his or her own choice, and to hold private communication with that representative, and in the case of a minor he or she shall also be afforded a reasonable opportunity for communication with his or her parent or legal guardian; but when the person arrested or detained is unable to retain a legal representative of his or her own choice or be represented by a legal representative at the public expense, he or she may be represented, and hold private communication with, such person as a court may approve.
+
+(5) Every person who is arrested shall be informed, as soon as he or she is brought to a police station or other place of custody, of his or her rights under subsection (4); and he or she shall also have the right, and shall be informed at the same time that he or she has the right, to remain silent and to have one person informed by the quickest practicable means of his or her arrest and his or her whereabouts.
+
+(6) Any person who is arrested or detained in such a case as is mentioned in subsection (2)(d) or (e) and who is not released shall be brought promptly before a judge or other officer authorised to exercise judicial power; and if any person arrested or detained in such a case as is mentioned in subsection (2)(e) is not tried within a reasonable time he or she shall (without prejudice to any further proceedings that may be brought against him or her) be released either unconditionally or on reasonable conditions, including in particular such conditions as are reasonably necessary to ensure that he or she appears at a later date for trial or for proceedings preliminary to trial.
+
+(7) Any person who is unlawfully arrested or detained by any other person shall be entitled to compensation in respect of it from that other person.
+
+#### 6. Provisions to secure protection of law
+
+(1) If any person is charged with a criminal offence, then, unless the charge is withdrawn, the case shall be afforded a fair hearing within a reasonable time by an independent and impartial court established by law.
+
+(2) Every person who is charged with a criminal offence—
+
+- (a) shall be presumed to be innocent until he or she is proved guilty according to law;
+- (b) shall be informed promptly, in a language that he or she understands and in detail, of the nature and cause of the accusation against him or her;
+- (c) shall be given adequate time and facilities for the preparation of his or her defence;
+- (d) shall be permitted to defend himself or herself before the court in person or, at his or her own expense, by a legal representative of his or her own choice or, when the interests of justice so require, by a legal representative at the public expense;
+- (e) shall be afforded facilities to examine in person or by his or her legal representative the witnesses called by the prosecution before the court, and to obtain the attendance and carry out the examination of witnesses to testify on his or her behalf before the court on the same conditions as those applying to witnesses called by the prosecution; and
+- (f) shall be permitted to have without payment the assistance of an interpreter if he or she cannot understand or speak the language used at the trial of the charge;
+
+and, except with his or her own consent, the trial shall not take place in his or her absence, unless he or she so behaves in the court as to render the continuance of the proceedings in his or her presence impracticable and the court has ordered him or her to be removed and the trial to proceed in his or her absence, or unless, having had reasonable notice of the hearing and of the nature of the offence charged, he or she is voluntarily absent from the proceedings.
+
+(3) When a person is tried for any criminal offence, the accused person or any person authorised by him or her shall, if he or she so requires and subject to payment of such reasonable fee as may be prescribed by law, be given within a reasonable time after judgment a copy for the use of the accused person of any record of the proceedings made by or on behalf of the court.
+
+(4) No person shall be held to be guilty of a criminal offence on account of any act or omission that did not, at the time it took place, constitute such an offence, and no penalty shall be imposed for any criminal offence that is severer in degree or description than the maximum penalty that might have been imposed for that offence at the time when it was committed.
+
+(5) No person who shows that he or she has been tried by a competent court for a criminal offence and either convicted or acquitted shall again be tried for that offence or for any other criminal offence of which he or she could have been convicted at the trial for that offence, save on the order of a superior court in the course of appeal or review proceedings relating to the conviction or acquittal.
+
+(6) No person shall be tried for a criminal offence if he or she shows that he or she has been lawfully pardoned for that offence.
+
+(7) No person who is tried for a criminal offence shall be compelled to give evidence at the trial.
+
+(8) Any court or other adjudicating authority prescribed by law for the determination of the existence or extent of any civil right or obligation shall be established by law and shall be independent and impartial; and where proceedings for such determination are instituted by any person before such a court or other adjudicating authority, the case shall be determined fairly within a reasonable time.
+
+(9) All proceedings instituted in any court for the determination of the existence or extent of any civil right or obligation or to try any criminal charge, including the announcement of the decision of the court, shall be held in public.
+
+(10) Nothing in subsection (9) shall prevent the court from excluding from the proceedings persons other than the parties and their legal representatives to such extent as the court—
+
+- (a) may be empowered by law to do so and may consider strictly necessary or expedient in circumstances where publicity would prejudice the interests of justice, or in interlocutory proceedings or in the interests of the welfare of minors or the private lives of persons concerned in the proceedings; or
+- (b) may be empowered or required by law to do so in the interests of defence, public safety, public order or public morality.
+
+(11) Nothing contained in or done under the authority of any law shall be held to be inconsistent with or in contravention of—
+
+- (a) subsection (2)(a) to the extent that the law in question imposes on any person charged with a criminal offence the burden of proving particular facts;
+- (b) subsection (2)(e) to the extent that the law in question imposes conditions that must be satisfied if witnesses called to testify on behalf of an accused person are to be paid their expenses out of public funds;
+- (c) subsection (5) to the extent that the law in question authorises a court to try a member of a disciplined force for a criminal offence notwithstanding any trial and conviction or acquittal of that member under the disciplinary law of that force; but any court so trying such a member and convicting him or her shall in sentencing him or her to any punishment take into account any punishment imposed on him or her under that disciplinary law.
+
+(12) Every person convicted of a criminal offence by a court shall have the right to have his or her conviction or sentence reviewed by a higher court; and the exercise of this right, including the grounds on which it may be exercised, shall be governed by law.
+
+(13) The right referred to in subsection (12) may be subject to exceptions in regard to offences of a minor character, as prescribed by law, or in cases in which the person concerned was tried in the first instance by the highest court or was convicted following an appeal against acquittal.
+
+(14) When a person has by a final decision been convicted of a criminal offence and when subsequently his or her conviction has been reversed, or he or she has been pardoned, on the ground that a new or newly discovered fact shows conclusively that there has been a miscarriage of justice, the person who has suffered punishment as a result of such conviction shall be compensated according to law, unless it is proved that the non-disclosure of the unknown fact in time is wholly or partly attributable to him or her.
+
+#### 7. Equality before the law[^key-7c9015596df830e10092e2155de9e6e2]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 8. Protection of right of prisoners to humane treatment
+
+(1) All persons deprived of their liberty (in this section referred to as “prisoners”) have the right to be treated with humanity and with respect for the inherent dignity of the human person.
+
+(2) Save where the interests of defence, public safety, public order, public morality or the administration of justice otherwise require, unconvicted prisoners shall be segregated from convicted prisoners; and every unconvicted prisoner shall be entitled to be treated in a manner appropriate to his or her status as such.
+
+(3) Juvenile prisoners shall be segregated from adult prisoners and every juvenile prisoner shall be treated in a manner appropriate to his or her age and legal status and, if he or she is an unconvicted prisoner and unless he or she is earlier released, shall have any criminal proceedings against him or her pursued with the greatest possible expedition.
+
+#### 9. Protection for private and family life and for privacy of home and other property
+
+(1) Every person has the right to respect for his or her private and family life, his or her home and his or her correspondence, and except with his or her own consent, no person shall be subjected to the search of his or her person or his or her property or the entry by others on his or her premises.
+
+(2) Nothing in any law or done under its authority shall be held to contravene this section to the extent that it is reasonably justifiable in a democratic society—
+
+- (a) in the interests of defence, public safety, public order, public morality, public health, town and country planning, the development of mineral resources, or the development or utilisation of any other property in such a manner as to promote the public benefit;
+- (b) for the purpose of protecting the rights and freedoms of other persons;
+- (c) for the prevention or detection of offences against the criminal law or the customs law;
+- (d) to enable an officer or agent of the Government, a local government authority or a body corporate established by law for a public purpose to enter on the premises of any person in order to inspect those premises or anything on them for the purpose of any tax, rate or due or in order to carry out work connected with any property that is lawfully on those premises and that belongs to the Government or that authority or body corporate, as the case may be; or
+- (e) to authorise, for the purpose of enforcing the judgment or order of a court, the search of any person or property by order of a court or the entry on any premises by such order.
+
+#### 10. Protection of right to marry and found a family
+
+(1) Every unmarried man and woman of marriageable age (as determined by or under any law) has the right to marry a person of the opposite sex and found a family.
+
+(2) No person shall be compelled to marry, that is to say, to do so without his or her free and full consent.
+
+(3) Nothing in any law or done under its authority shall be held to contravene subsection (1) to the extent that it is reasonably justifiable in a democratic society—
+
+- (a) in the interests of public order, public morality or public health;
+- (b) for regulating, in the public interest, the procedures and modalities of marriage; or
+- (c) for protecting the rights and freedoms of other persons.
+
+(4) Spouses shall be entitled to equal rights and shall be subject to equal responsibilities as between themselves and as regards their children both during marriage and, if the marriage is dissolved, on and after dissolution, but this equality of rights and responsibilities shall be subject to such arrangements or measures as may be agreed, or as may be ordered by a court, in the interests of their children.
+
+#### 11. Protection of freedom of conscience
+
+(1) Except with his or her consent, no person shall be hindered in the enjoyment of his or her freedom of conscience, and for the purposes of this section the said freedom includes freedom of thought and of religion, freedom to change his or her religion or belief and freedom, either alone or in community with others, and both in public and in private, to manifest and propagate his or her religion or belief in worship, teaching, practice and observance.
+
+(2) Except with his or her consent (or, if he or she is a minor, the consent of his or her parent or legal guardian) no person attending any place of education shall be required to receive religious instruction or to take part in or attend any religious ceremony or observance.
+
+(3) No religious community or denomination shall be prevented from or hindered in providing religious instruction for persons of that community or denomination in the course of any education provided by that community or denomination whether or not that community or denomination is in receipt of any government subsidy, grant or other form of financial assistance designed to meet, in whole or in part, the cost of such education.
+
+(4) No person shall be compelled to take any oath which is contrary to his or her religion or belief or to take any oath in a manner which is contrary to his or her religion or belief.
+
+(5) Nothing in any law or done under its authority shall be held to contravene this section to the extent that it is reasonably justifiable in a democratic society—
+
+- (a) in the interests of defence, public safety, public order, public morality or public health; or
+- (b) for the purpose of protecting the rights and freedoms of other persons, including the right to observe and practise any religion or belief without the unsolicited interference of persons professing any other religion or belief.
+
+(6) Every person who is a parent or legal guardian has the right to respect for his or her liberty to ensure the religious and moral education of his or her children in conformity with his or her own convictions.
+
+(7) References in this section to a religion shall be construed as including references to a religious denomination, and cognate expressions shall be construed accordingly.
+
+#### 12. Protection of right to education
+
+(1) This section is without prejudice to section 11.
+
+(2) Every child of the appropriate age, as provided by law, shall be entitled to receive primary education which shall, subject to subsection (3), be free.
+
+(3) Every person who is the parent or legal guardian of a child shall be entitled to have his or her child (of whatever age) educated, at his or her own expense unless a law otherwise provides, in a private school (that is to say, a school other than one established by a public authority) and, in such a school, to ensure the religious and moral education of his or her child in accordance with his or her own convictions.
+
+(4) Nothing in any law or done under its authority shall be held to contravene subsection (3) to the extent that it is reasonably justifiable in a democratic society and to the extent that the law in question makes provision requiring private schools, as a condition of their being allowed to operate and on terms no more onerous than are applicable to schools established by a public authority, to satisfy—
+
+- (a) such minimum educational standards (including standards relating to the qualifications of teaching staff and other staff) as may be prescribed by or under that or any other law; and
+- (b) such minimum standards imposed in the interests of public order, public morality or public health as may be so prescribed.
+
+#### 13. Protection of freedom of expression
+
+(1) Except with his or her consent, no person shall be hindered in the enjoyment of his or her freedom of expression, and for the purposes of this section the said freedom includes freedom to hold opinions without interference, freedom to receive and impart (to the public generally or to any person or class of persons) ideas and information without interference, and freedom from interference with his or her correspondence or other means of communication.
+
+(2) Nothing in any law or done under its authority shall be held to contravene this section to the extent that it is reasonably justifiable in a democratic society—
+
+- (a) in the interests of defence, public safety, public order, public morality or public health;
+- (b) for the purpose of protecting the rights, reputations and freedoms of other persons or the private lives of persons concerned in legal proceedings, preventing the disclosure of information received in confidence, maintaining the authority and independence of the courts, regulating telephony, telegraphy, posts, wireless broadcasting, television or other means of communication or regulating public exhibitions or public entertainments; or
+- (c) for the imposition of restrictions on public officers or teachers that are reasonably required for the purpose of ensuring the proper performance of their functions.
+
+(3) For the purposes of subsection (2)(c) in so far as it relates to public officers, “law” in that subsection includes directions in writing regarding the conduct of public officers generally or any class of public officer issued by the Government.
+
+#### 14. Protection of freedom of assembly and association
+
+(1) Except with his or her consent, no person shall be hindered in the enjoyment of his or her freedom of peaceful assembly and association, that is to say, his or her right to assemble freely and associate with other persons and in particular to form or belong to political parties or to form or belong to trade unions or other associations for the promotion and protection of his or her interests.
+
+(2) Nothing in any law or done under its authority shall be held to contravene this section to the extent that it is reasonably justifiable in a democratic society—
+
+- (a) in the interests of defence, public safety, public order, public morality or public health;
+- (b) for the purpose of protecting the rights and freedoms of other persons; or
+- (c) for the imposition of restrictions on public officers that are reasonably required for the purpose of ensuring the proper performance of their functions.
+
+(3) For the purposes of subsection (2)(c), “law” in that subsection includes directions in writing regarding the conduct of public officers generally or any class of public officer issued by the Government.
+
+(4) The registration and regulation of political parties shall be provided for by a law enacted by the Legislature[^key-95c2f9ab59d09b15a71a4593b821c70c].
+
+#### 15. Protection of freedom of movement
+
+(1) Except with his or her consent, no person shall be hindered in the enjoyment of his or her freedom of movement, that is to say, the right to move freely throughout the Islands, the right to reside in any part of the Islands, the right to enter or leave the Islands and immunity from expulsion from the Islands.
+
+(2) Nothing in any law or done under its authority shall be held to contravene this section to the extent that the law in question makes provision—
+
+- (a) for the imposition of restrictions on the movement or residence within the Islands or on the right to leave the Islands of persons generally or any class of persons that are reasonably justifiable in a democratic society—
+  - (i) in the interests of defence, public safety, public order, public morality or public health; or
+  - (ii) for the purpose of protecting the rights and freedoms of other persons;
+- (b) for the removal of a person from the Islands to be tried or punished in some other country for a criminal offence under the law of that country or to undergo imprisonment in some other country in execution of the sentence of a court in respect of a criminal offence under the law of the Islands of which he or she has been convicted;
+- (c) for the imposition of restrictions on the movement or residence within the Islands or the right to leave the Islands of public officers that are reasonably required for the purpose of ensuring the proper performances of their functions;
+- (d) for the imposition of restrictions on persons who are not Turks and Caicos Islanders; but—
+  - (i) no restriction may be imposed by virtue only of this paragraph on the right of any such person, so long as he or she is lawfully present in the Islands, to move freely throughout the Islands and to reside anywhere in the Islands;
+  - (ii) no restriction may be imposed by virtue only of this paragraph on the right of any such person to leave the Islands; and
+  - (iii) no such person shall be liable, by virtue only this paragraph, to be expelled from the Islands unless the requirements specified in subsection (4) are satisfied;
+- (e) for the imposition of restrictions on the acquisition or use by any person of land or other property in the Islands;
+- (f) for the imposition of restrictions, by order of a court, on the movement or residence within the Islands of any person or on any person’s right to leave the Islands either in consequence of his or her having been found guilty of a criminal offence under the law of the Islands or for the purpose of ensuring a fair trial or that he or she appears before a court at a later date for trial of such a criminal offence or for proceedings preliminary to trial or for proceedings relating to his or her extradition or lawful removal from the Islands; or
+- (g) for the imposition of restrictions on the right of any person to leave the Islands that are reasonably justifiable in a democratic society in order to secure the fulfilment of any obligation imposed on that person by law.
+
+(3) For the purposes of subsection (2)(c), “law” in that subsection includes directions in writing regarding the conduct of public officers generally or any class of public officer issued by the Government.
+
+(4) The requirements to be satisfied for the purposes of subsection (2)(d) (that is to say, before a person who is not a Turks and Caicos Islander may be expelled from the Islands) are as follows—
+
+- (a) the decision to expel him or her is taken by an authority, in a manner and on grounds prescribed by law;
+- (b) he or she has the right, save where the interests of defence, public safety or public order otherwise require, to submit reasons against his or her expulsion to a competent authority prescribed by law;
+- (c) he or she has the right, save as aforesaid, to have his or her case reviewed by a competent authority prescribed by law; and
+- (d) he or she has the right, save as aforesaid, to be represented for the purposes of paragraphs (b) and (c) before the competent authority or some other person or authority designated in that behalf by the competent authority.
+
+(5) Any restriction on a person’s freedom of movement which is involved in his or her lawful detention shall not be held to contravene this section.
+
+#### 16. Protection from discrimination
+
+(1) Subject to subsections (4), (5) and (8), no law shall make any provision which is discriminatory either of itself or in its effect.
+
+(2) Subject to subsections (6), (8) and (9), no person shall be treated in a discriminatory manner by any person acting by virtue of any law or in the performance of the functions of any public office or any public authority.
+
+(3) In this section, “discriminatory” means affording different treatment to different persons attributable wholly or mainly to their respective descriptions such as by race, national or social origin, political or other opinion, colour, religion, language, creed, association with a national minority, property, sex, sexual orientation, birth or other status whereby persons of one such description are subjected to disabilities or restrictions to which persons of another such description are not made subject or are accorded privileges or advantages which are not accorded to persons of another such description.
+
+(4) Subsection (1) shall not apply to any law so far as that law makes provision—
+
+- (a) for the appropriation of revenues or other funds of the Islands or for the imposition of taxation (including the levying of fees for the grant of licences);
+- (b) with respect to the entry into or exclusion from, or the employment, engaging in any business or profession, movement or residence within, the Islands of persons who are not Turks and Caicos Islanders;
+- (c) for the application, in the case of persons of any such description as is mentioned in subsection (3) (or of persons connected with such persons) of the law with respect to adoption, marriage, divorce, burial, devolution of property on death or other like matters that is the personal law applicable to persons of that description; or
+- (d) whereby persons of any such description as is mentioned in subsection (3) may be subjected to any disability or restriction or may be accorded any privilege or advantage which, having regard to its nature and to special circumstances pertaining to those persons or to persons of any other such description, is reasonably justifiable in a democratic society.
+
+(5) Nothing contained in any law shall be held to contravene subsection (1) to the extent that it requires a person to be a Turks and Caicos Islander or to possess any other qualification (not being a qualification specifically relating to any such description as is mentioned in subsection (3)) in order to be eligible for appointment to any office in the public service or in a disciplined force or any office in the service of a local government authority or of a body corporate established directly by any law for public purposes.
+
+(6) Subsection (2) shall not apply to anything which is expressly or by necessary implication authorised to be done by any such provision of law as is referred to in subsection (4) or (5).
+
+(7) Subject to subsection (8), no person shall be treated in a discriminatory manner in respect of access to any of the following places to which the general public have access, namely, shops, hotels, restaurants, eating-houses, licensed premises, places of entertainment or places of resort.
+
+(8) Nothing contained in or done under the authority of any law shall be held to contravene this section to the extent that the law in question makes provision whereby persons of any such description as is mentioned in subsection (3) may be subjected to any restrictions on the rights and freedoms guaranteed by sections 9, 10, 11, 12, 13, 14 and 15, being such a restriction as is authorised by section 9(2)(a), 10(3), 11(5), 12(4), 13(2), 14(2) or 15(2)(a), as the case may be.
+
+(9) Nothing in subsection (2) shall affect any discretion relating to the institution, conduct or discontinuance of civil or criminal proceedings in any court that is vested in any person by or under this Constitution or any other law.
+
+#### 17. Peaceful enjoyment of property and protection from deprivation of property
+
+(1) There shall be no interference with the peaceful enjoyment of property and no property of any description shall be compulsorily taken possession of, and no interest in or right over property of any description shall be compulsorily acquired, except where the following conditions are satisfied, that is to say—
+
+- (a) the interference, taking of possession or acquisition is necessary or expedient in the interests of defence, public safety, public order, public morality, public health, town and country planning or the development or utilisation of any property in such a manner as to promote the public benefit or the economic well-being of the community; and
+- (b) there is a reasonable justification for the causing of any hardship that may result to any person having an interest in or right over the property; and
+- (c) provision is made by a law applicable to that interference, taking of possession or acquisition—
+  - (i) for the prompt payment of adequate compensation;
+  - (ii) securing to any person having an interest in or right over the property a right of access to the Supreme Court, whether direct or on appeal from any other authority, for the determination of his or her interest or right, the legality of the interference with, taking of possession or acquisition of the property, interest or right, and the amount of any compensation to which he or she is entitled, and for the purpose of obtaining prompt payment of that compensation; and
+  - (iii) giving to any party to proceedings in the Supreme Court relating to such a claim the same rights of appeal as are accorded generally to parties to civil proceedings in that Court sitting as a court of original jurisdiction.
+
+(2) Nothing in any law or done under its authority shall be held to contravene subsection (1)—
+
+- (a) to the extent that the law in question makes provision for the interference with, taking of possession or acquisition of any property, interest or right—
+  - (i) in satisfaction of any tax, rate or due;
+  - (ii) by way of penalty for breach of any law or forfeiture in consequence of a breach of any law;
+  - (iii) as an incident of a lease, tenancy, mortgage, charge, bill of sale, pledge or contract;
+  - (iv) by way of the taking of a sample for the purposes of any law;
+  - (v) where the property consists of an animal on its being found trespassing or straying;
+  - (vi) in the execution of judgments or orders of a court;
+  - (vii) by reason of its being in a dilapidated or dangerous state or injurious to the health of human beings, animals or plants;
+  - (viii) in consequence of any law with respect to prescription or the limitation of actions; or
+  - (ix) for so long only as may be necessary for the purposes of any examination, investigation, trial or inquiry, or, in the case of land, for the purposes of carrying out on it work of reclamation, drainage, soil conservation or the conservation of other natural resources or work relating to agricultural development or improvement (being work relating to such development or improvement that the owner or occupier of the land has been required, and has, without reasonable and lawful excuse, refused or failed, to carry out),
+
+provided that the provision or, as the case may be, the thing done under its authority is reasonably justifiable in a democratic society; or
+
+- (b) to the extent that the law in question makes provision for the taking of possession or acquisition of any of the following property (including an interest in or right over property), that is to say—
+  - (i) enemy property;
+  - (ii) property of a deceased person, a person of unsound mind or a minor, for the purpose of its administration for the benefit of the persons entitled to the beneficial interest in it;
+  - (iii) property of a person adjudged bankrupt or a body corporate in liquidation, for the purpose of its administration for the benefit of the creditors of the bankrupt or body corporate and, subject thereto, for the benefit of other persons entitled to the beneficial interest in the property; or
+  - (iv) property subject to a trust, for the purpose of vesting the property in persons appointed as trustees under the instrument creating the trust or by a court or, by order of a court, for the purpose of giving effect to the trust.
+
+(3) Nothing in any law or done under its authority shall be held to contravene subsection (1) to the extent that the law in question makes provision for the interference with or compulsory taking of possession in the public interest of property, or the compulsory acquisition in the public interest of any interest in or right over property, where that property, interest or right is held by a body corporate established by law for public purposes in which no moneys have been invested other than moneys provided from public funds.
+
+#### 18. Protection of the environment
+
+(1) The Legislature and the Government shall, in all their decisions, have due regard to the need to foster and protect an environment that is not harmful to the health or well-being of present and future generations, while promoting justifiable economic and social development.
+
+(2) To this end the Legislature and the Government should adopt reasonable legislative and other measures to protect the built heritage, the wildlife and the land and sea biodiversity of the Islands that—
+
+- (a) limit pollution and ecological degradation;
+- (b) promote conservation and biodiversity; and
+- (c) secure ecologically sustainable development and use of natural resources.
+
+#### 19. Lawful administrative action
+
+(1) All decisions and acts of the Government and of persons acting on its behalf must be lawful, rational, proportionate and procedurally fair.
+
+(2) Every person whose interests have been adversely affected by such a decision or act has the right to request and be given written reasons for that decision or act.
+
+#### 20. Provisions for periods of public emergency
+
+(1) Nothing contained in or done under the authority of any regulation made under the Emergency Powers (Overseas Territories) Order 2017[^key-153ae12835e76d1975ed02695dcad36c] or any other law in force in the Islands to like effect shall be held to be inconsistent with or in contravention of section 5, section 6 other than subsections (4), (5) and (6) or any provision of sections 7 to 19 (inclusive) to the extent that the regulation in question makes in relation to a period of public emergency provision, or authorises the doing during any such period of anything, that is reasonably justifiable in the circumstances of any situation arising or existing during that period for the purpose of dealing with that situation.
+
+(2) When a person is detained by virtue of any regulation mentioned in subsection (1) the following provisions shall apply—
+
+- (a) notification shall, not more than four days after the commencement of his or her detention, be published in a public place (and thereafter as soon as possible in the *Gazette*) stating that he or she has been detained and giving particulars of the provision of law by virtue of which his or her detention is authorised;
+- (b) he or she shall (if not sooner released), as soon as reasonably practicable and in any case not more than two days after the commencement of his or her detention, be informed, in a language that he or she understands, of the grounds on which he or she is detained and furnished with a written statement;
+- (c) his or her case shall, not more than 30 days after the commencement of his or her detention and thereafter during the detention at intervals of not more than three months, be reviewed by an independent and impartial tribunal established by law and presided over by a person appointed by the Chief Justice;
+- (d) he or she shall be afforded reasonable opportunity to consult a legal representative of his or her own choice and to hold private communication with such legal representative; and
+- (e) he or she shall, at the hearing of his or her case by the tribunal appointed for its review, be permitted to appear in person or by a legal representative of his or her own choice.
+
+(3) For the purposes of subsection (2)(d) and (e), if the detained person is unable to retain a legal representative of his or her own choice, the tribunal may approve such person as it deems fit to make representations to it, but nothing in subsection (2)(d) or (e) shall be construed as entitling a detained person to legal representation at public expense.
+
+(4) On any review by a tribunal of the case of a detained person under this section, the tribunal may make recommendations concerning the necessity or expediency of continuing his or her detention to the authority by which it was ordered but, unless it is otherwise provided by law, that authority shall not be obliged to act in accordance with any such recommendations; but if the authority does not act in accordance with such recommendations it shall provide the tribunal with written reasons.
+
+#### 21. Enforcement of fundamental rights
+
+(1) If any person alleges that any of the foregoing provisions of this Part has been, is being or is likely to be contravened in relation to him or her, then, without prejudice to any other action with respect to the same matter which is lawfully available, that person may apply to the Supreme Court for redress.
+
+(2) The Supreme Court shall have original jurisdiction—
+
+- (a) to hear and determine any application made by any person in pursuance of subsection (1); and
+- (b) to determine any question arising in the case of any person which is referred to it in pursuance of subsection (3),
+
+and may make such orders, issue such writs and give such directions as it may consider appropriate for the purpose of enforcing or securing the enforcement of any of the foregoing provisions of this Part to the protection of which the person concerned is entitled; but the Supreme Court shall not exercise its powers under this subsection if it is satisfied that adequate means of redress are or have been available to the person concerned under any other law.
+
+(3) If, in any proceedings in any court established in the Islands other than the Supreme Court or the Court of Appeal, any question arises as to the contravention of any of the foregoing provisions of this Part, the court in which the question has arisen shall refer the question to the Supreme Court, unless, in its opinion, the raising of the question is merely frivolous or vexatious.
+
+(4) An appeal shall lie as of right to the Court of Appeal from any final determination of any application or question by the Supreme Court under this section, and an appeal shall lie as of right to Her Majesty in Council from the final determination by the Court of Appeal of the appeal in any such case; but no appeal shall lie from a determination by the Supreme Court under this section dismissing an application on the ground that it is frivolous or vexatious.
+
+(5) The Legislature may by law confer on the Supreme Court such powers in addition to those conferred by this section as may appear to be necessary or desirable for the purpose of enabling the Court more effectively to exercise the jurisdiction conferred on it by this section.
+
+(6) Any such law may make, or provide for the making of, provision with respect to the practice and procedure—
+
+- (a) of the Supreme Court in relation to the jurisdiction and powers conferred on it by or under this section;
+- (b) of the Supreme Court or the Court of Appeal in relation to appeals under this section from determinations of the Supreme Court or the Court of Appeal; and
+- (c) of other courts in relation to references to the Supreme Court under subsection (3),
+
+including provision with respect to the time within which any application, reference or appeal shall or may be made or brought.
+
+(7) In determining any question which has arisen in connection with the interpretation or application of any of the foregoing provisions of this Part, every court shall take into account any—
+
+- (a) judgment, decision, declaration or advisory opinion of the European Court of Human Rights;
+- (b) decision of the European Commission of Human Rights (“the Commission”) given in a report adopted under Article 31 of the Convention;
+- (c) decision of the Commission in connection with Article 26 or 27(2) of the Convention;
+- (d) decision of the Committee of Ministers of the Council of Europe (“the Committee of Ministers”) taken under Article 46 of the Convention;
+- (e) judgment, decision or declaration of a superior court in the United Kingdom on the interpretation or application of the Convention,
+
+whenever made or given, so far as, in the opinion of the court, it is relevant to the proceedings in which that question has arisen.
+
+(8) In subsection (7), references to the Convention are references to it as it has effect for the time being, except that—
+
+- (a) the references in subsection (7)(b) and (c) to Articles 31, 26 and 27(2) are references to those Articles as they respectively had effect immediately before the coming into force of the Eleventh Protocol;
+- (b) the reference in subsection (7)(d) to Article 46 includes a reference to Articles 32 and 54 as they had effect immediately before the coming into force of the Eleventh Protocol; and
+- (c) the references in subsection (7) to a report or decision of the Commission or a decision of the Committee of Ministers include references to a report or decision made as provided by paragraphs 3, 4 and 6 of Article 5 of the Eleventh Protocol (transitional provisions).
+
+(9) In subsections (7) and (8) —
+
+- “the Convention” means the European Convention on Human Rights;
+- “the Eleventh Protocol” means the protocol to the Convention (restructuring the control machinery established by it) agreed at Strasbourg on 11 May 1994; and
+- “a superior court in the United Kingdom” means any of the following—
+  - (a) the High Court or the Court of Appeal in England;
+  - (b) the High Court of Justiciary or the Court of Session in Scotland;
+  - (c) the High Court or the Court of Appeal in Northern Ireland;
+  - (d) the House of Lords or the Supreme Court; and
+  - (e) the Judicial Committee of the Privy Council.
+
+#### 22. Interpretation of Part I
+
+(1) In this Part, unless it is otherwise expressly provided or required by the context—
+
+- “contravene” in relation to any requirement includes fail to comply with that requirement, and cognate expressions shall be construed accordingly;
+- “court” means any court of law or tribunal having jurisdiction in the Islands, including Her Majesty in Council, but excepting, save in section 4, a court constituted by or under disciplinary law;
+- “disciplinary law” means a law regulating the discipline of any disciplined force;
+- “disciplined force” means—
+  - (a) a naval, military or air force;
+  - (b) any police force or prison service of the Islands;
+- “legal representative” means a person entitled to practise in the Islands as an attorney;
+- “member” in relation to a disciplined force includes any person who, under the law regulating the discipline of that force, is subject to that discipline;
+- “minor” means a person who has not attained the age of eighteen years;
+- “period of public emergency” means any period during which—
+  - (a) Her Majesty is at war; or
+  - (b) there is in force in the Islands a proclamation of emergency under the Emergency Powers (Overseas Territories) Order 2017[^key-e75180dd9fe08853342f199b3e2b2132] or under any other law in force in the Islands to like effect.
+
+(2) In relation to any person who is a member of a disciplined force raised under the law of the Islands, nothing contained in or done under the authority of the disciplinary law of that force shall be held to contravene the provisions of this Part other than sections 2, 3 and 4.
+
+(3) In relation to any person who is a member of a disciplined force raised otherwise than as aforesaid and lawfully present in the Islands, nothing contained in or done under the authority of the disciplinary law of that force shall be held to contravene any provisions of this Part.
+
+### PART II — THE GOVERNOR
+
+#### 23. The Governor
+
+(1) There shall be a Governor of the Turks and Caicos Islands who shall be appointed by Her Majesty by Commission under Her Sign Manual and Signet and shall hold office during Her Majesty’s pleasure.
+
+(2) The Governor shall have such functions as may be conferred on him or her by or under this Constitution or any other law and such other functions as Her Majesty may from time to time be pleased to assign to him or her and, subject to this Constitution and, in the case of functions conferred on the Governor by or under any other law, subject to that law, shall perform all such functions (including functions which are expressed by this Constitution to be exercisable in his or her discretion or in his or her judgement) according to such instructions, if any, as may be given to him or her by Her Majesty through a Secretary of State; but the question whether or not the Governor has in any matter complied with any such instructions shall not be inquired into by any court.
+
+(3) A person appointed to the office of Governor shall, before assuming the functions of that office, make oaths of allegiance and for the due execution of that office in the forms set out in the Schedule to this Constitution.
+
+#### 24. Emoluments of Governor
+
+The holder of the office of Governor shall receive such emoluments as may for the time being be fixed by a Secretary of State by directions in writing, and those emoluments are hereby charged on and shall be paid out of the Consolidated Fund.
+
+#### 25. Deputy Governor
+
+(1) There shall be a Deputy Governor who shall be a Turks and Caicos Islander and shall be appointed by the Governor in pursuance of instructions given by Her Majesty through a Secretary of State, and who shall hold office during Her Majesty’s pleasure.
+
+(2) If the office of Deputy Governor is vacant or the person holding that office is acting in the office of Governor under section 26 or is for any reason unable to perform the functions of the office of Deputy Governor, then the Governor, acting in his or her discretion, may appoint a person who is a Turks and Caicos Islander to act as Deputy Governor and any such person shall continue so to act until his or her appointment is revoked by the Governor, acting in his or her discretion.
+
+(3) The Deputy Governor shall act in support of the Governor and, under the authority of the Governor, shall be the head of the public service.
+
+(4) The Governor, acting in his or her discretion, may give directions to the Deputy Governor as to the exercise of the responsibilities referred to in subsection (3), and the Deputy Governor shall comply with any such directions.
+
+#### 26. Acting Governor
+
+(1) During any period when the office of Governor is vacant or the Governor is absent from the Islands or is for any reason unable to perform the functions of that office, those functions shall, during Her Majesty’s pleasure, be assumed and performed by the person holding the office of—
+
+- (a) Deputy Governor; or
+- (b) Attorney General; or
+- (c) Permanent Secretary, Finance,
+
+in that order, or by such other person as Her Majesty may designate by instructions given through a Secretary of State.
+
+(2) Before assuming the functions of the office of Governor, any such person shall make oaths of allegiance and for the due execution of that office in the forms set out in the Schedule to this Constitution.
+
+(3) A person shall not continue to perform the functions of the office of Governor under this section after the person holding that office or some other person having a prior right to perform those functions has notified him or her that he or she is about to assume or resume those functions.
+
+(4) For the purposes of this section (and without prejudice to section 131(3)), the Governor shall not be regarded as absent from the Islands or as unable to perform the functions of his or her office at any time when there is a subsisting appointment under section 27.
+
+#### 27. Temporary exercise of certain functions of Governor
+
+(1) Whenever the Governor—
+
+- (a) has occasion to be absent from the seat of government but not from the Islands;
+- (b) has occasion to be absent from the Islands for a period which he or she has reason to believe will be of short duration; or
+- (c) is suffering from an illness which he or she has reason to believe will be of short duration,
+
+the Governor may, by instrument in writing, appoint one of the persons holding one of the offices mentioned in paragraph (a), (b) or (c) of section 26(1), in that order, or if no such person is available, such other person as he or she may designate, during such absence or illness to perform on his or her behalf such of the functions of the office of Governor as may be specified in that instrument.
+
+(2) The power and authority of the Governor shall not be abridged, altered or in any way affected by an appointment under this section and, subject to this Constitution and any other law, a person so appointed shall comply with all instructions that may from time to time be given to him or her by Her Majesty through a Secretary of State or by the Governor; but the question whether or not that person has in any matter complied with any such instructions shall not be inquired into by any court.
+
+(3) A person appointed under this section shall not continue to perform his or her functions as such after the Governor, or some other person with a prior right of appointment under subsection (1), has notified him or her that he or she is about to resume or assume those functions.
+
+(4) Subject to subsection (3), a person appointed under this section shall hold that appointment for such period as may be specified in the instrument by which he or she is appointed, but his or her appointment may be revoked at any time by Her Majesty through a Secretary of State or by the Governor.
+
+(5) In this section “the Governor” does not include a person appointed under this section.
+
+(6) In the exercise of any power conferred on him or her by this section the Governor shall act in his or her discretion.
+
+#### 28. Statement of Governance Principles
+
+(1) A Secretary of State may at any time issue a Statement of Governance Principles and amend or replace any such Statement.
+
+(2) Before issuing any Statement of Governance Principles or any amendment of such a Statement, a Secretary of State shall allow four weeks to expire during which—
+
+- (a) the Government and the Leader of the Opposition shall be consulted on a draft of the Statement or amendment; and
+- (b) the Parliament[^key-892fd363a5f79240b6d9af5e4fac6fa3] shall debate a draft of the Statement or amendment,
+
+and the Secretary of State shall give due consideration to any changes to the draft proposed as a result of such consultation or debate.
+
+(3) Any Statement of Governance Principles, and any amendment of such a Statement, shall be issued by instrument in writing which shall be published in the *Gazette* and in any other way that the Governor, acting in his or her discretion, thinks fit.
+
+(4) In exercising their functions, all organs of government in the Islands have a duty to give effect to the Statement of Governance Principles for the time being in effect.
+
+(5) No court shall find that any act or omission of an organ of government was unlawful on account only of a failure to give effect to the Statement of Governance Principles for the time being in effect.
+
+(6) Subject to subsection (5), the Supreme Court may enquire, but only on an application for judicial review, whether or not any organ of government has acted rationally and with procedural propriety in relation to giving effect to the Statement of Governance Principles for the time being in effect.
+
+(7) The Premier or the Parliament of Assembly may at any time request a Secretary of State to amend a Statement of Governance Principles following the procedure set out in subsection (2), and the Secretary of State shall provide reasons in writing if he or she declines such a request.
+
+#### 29. Exercise of Governor’s functions
+
+(1) Subject to this section, the Governor shall consult the Cabinet on the formulation of policy and in the exercise of all functions conferred on him or her by this Constitution or any other law, except—
+
+- (a) when acting under instructions given to him or her by Her Majesty through a Secretary of State;
+- (b) when exercising any function conferred on the Governor by this Constitution or any other law which is expressed to be exercisable by the Governor in his or her discretion or in his or her judgement or in accordance with the recommendation or advice of, or after consultation with, any person or authority other than the Cabinet; or
+- (c) subject to section 37(5), in any case which, in his or her judgement, involves a matter for which he or she is responsible under section 37(1).
+
+(2) In any case in which the Governor is required by this section to consult the Cabinet, he or she shall, subject to section 37(5), act in accordance with the advice given to him or her by the Cabinet unless—
+
+- (a) the Governor is instructed by Her Majesty through a Secretary of State to do otherwise; or
+- (b) the Governor, acting in his or her discretion, decides to do otherwise in order to ensure compliance with the Statement of Governance Principles for the time being in effect.
+
+(3) In any case where the Governor proposes not to act in accordance with the advice of the Cabinet on the ground specified in subsection (2)(b), he or she shall within seven days notify the Cabinet and inform the Cabinet in writing of his or her reasons for not so acting and the respects in which the advice is inconsistent with the Statement of Governance Principles for the time being in effect.
+
+(4) The Governor may decide not to act in accordance with the advice of the Cabinet on the ground specified in subsection (2)(b) only with the prior approval of a Secretary of State unless, in the Governor’s judgement, the matter is so urgent that it is necessary to do so without such approval; and in that case the Governor shall, as soon as practicable, report his or her action and the reasons for it to a Secretary of State.
+
+(5) A Secretary of State shall respond as soon as practicable to any request by the Governor for approval under subsection (4).
+
+(6) The Premier shall have the right to submit to a Secretary of State comments in writing on the Governor’s reasons for not acting in accordance with the advice of the Cabinet under subsection (2)(b).
+
+(7) No proposed decision of the Cabinet shall be taken where the Governor has referred to a Secretary of State the advice given to him or her in relation to it with a view to possible instructions under subsection (2)(a) or approval under subsections (2)(b) and (4), until the Governor notifies the Cabinet that no such instructions will be issued or, as the case may be, no such approval will be given.
+
+(8) Where the Governor is by this Constitution or any other law directed to exercise any function after consultation with any person or authority other than the Cabinet he or she shall not be obliged to exercise that function in accordance with the advice of that person or authority.
+
+(9) Where the Governor is by this Constitution or any other law directed to exercise any function in accordance with the recommendation or advice of, or after consultation with, any person or authority, the question whether or not he or she has so exercised that function shall not be inquired into by any court.
+
+### PART III — THE EXECUTIVE
+
+#### 30. Executive authority
+
+(1) The executive authority of the Turks and Caicos Islands is vested in Her Majesty.
+
+(2) Subject to this Constitution, the executive authority of the Turks and Caicos Islands shall be exercised on behalf of Her Majesty by the Governor, either directly or through officers subordinate to him or her.
+
+(3) Nothing in this section shall preclude persons or authorities other than the Governor from exercising such functions as are or may be conferred on them by any law.
+
+#### 31. The Cabinet
+
+(1) There shall be a Cabinet for the Turks and Caicos Islands, which shall consist of—
+
+- (a) the Governor;
+- (b) a Premier appointed by the Governor in accordance with subsection (2);
+- (c) subject to subsection (7),[^key-ed4f1f12fc7b98574e3423508d61833b] not more than six other Ministers appointed by the Governor, acting in accordance with the advice of the Premier, from among the elected[^key-9f544e0d06b892a6dba4868413ba890a] members of the Parliament, one of whom shall, in accordance with such advice, be appointed by the Governor as Deputy Premier; and
+- (d) the Deputy Governor and the Attorney General.
+
+(2) The Governor shall appoint as Premier the elected member of the Parliament who demonstrates to the Governor in writing that he or she commands the support of a majority of the elected members of the Parliament.
+
+(3) Notwithstanding subsection (2), the Governor shall not appoint as Premier a person who has held office as Premier during two consecutive parliamentary terms unless at least one parliamentary term has expired since he or she last held that office; and for the purposes of this subsection a parliamentary term shall be deemed to be a period commencing when the Parliament first meets after being constituted under this Constitution or after its dissolution at any time, and terminating when the Parliament is next dissolved.
+
+(4) Appointments of the Premier and the other Ministers shall be made by the Governor by instrument under the public seal.
+
+(5) If occasion arises for making an appointment of any Minister between a dissolution of the Parliament and the polling in the next following general election, a person who was a member of the Parliament immediately before the dissolution may be appointed as a Minister as if he or she were still a member of the Parliament.
+
+(6) The Governor shall, without delay, report to Her Majesty through a Secretary of State every appointment made under this section.
+
+(7)[^key-ac06a4e87cf8704314f4e87be5586eb2] The Governor may, acting after consultation with the Premier and Leader of the Opposition, appoint more than six other Ministers under subsection (1)(c), subject to the total number of other Ministers appointed in addition to the Premier not exceeding two-fifths plus one of the number of elected members of the Parliament permitted in section 43(1)(b)[^key-24db16d6fff8156a1c2b5f535ab4dbba].
+
+(8)[^key-965b10f3557e8bdf0c1869d35a4b8617] For the avoidance of doubt it is declared, subject to this Constitution, that the Cabinet possesses autonomous and exclusive capacity in domestic affairs for any matter that is not one of the following—
+
+- (a) a special responsibility of the Governor under section 37(1);
+- (b) a function which the Governor must exercise under this Constitution, or any other law, in his or her discretion or judgement, or in accordance with instructions from His Majesty through a Secretary of State; or
+- (c) a function which the Governor is empowered or directed, either expressly or by necessary implication, to exercise without consulting with the Cabinet or to exercise on the recommendation or advice of, or after consultation with, any person or authority other than the Cabinet.
+
+#### 32. Oaths
+
+The members of the Cabinet, other than the Governor, shall each, before entering on the duties of his or her office as such member, make before the Governor oaths of allegiance and for the due execution of his or her office in the forms set out in the Schedule to this Constitution.
+
+#### 33. Tenure of office by Premier
+
+(1) The Governor shall revoke the appointment of the Premier if a motion that the Parliament should declare a lack of confidence in the Government receives the affirmative votes of a majority of the elected members of the Parliament; but before so revoking the Premier’s appointment the Governor shall consult the Premier and, if the Premier so requests, the Governor, acting in his or her discretion, may dissolve the Parliament instead of revoking the appointment.
+
+(2) The Premier shall vacate his or her office if, after the polling in a general election and before the Parliament first meets thereafter, the Governor, acting in his or her discretion, informs the Premier that he or she is about to appoint another person as Premier under section 31(2).
+
+#### 34. Tenure of office by Ministers
+
+(1) Any Minister shall vacate his or her office—
+
+- (a) if he or she ceases to be a member of the Parliament for any reason other than a dissolution;
+- (b) if he or she is not a member of the Parliament when it first meets after a general election;
+- (c) if he or she resigns his or her office by writing under his or her hand addressed to the Governor;
+- (d) if the Integrity Commission determines that he or she has breached the Code of Conduct for Persons in Public Life for the time being in effect;
+- (e) if the Integrity Commission determines that he or she has on two separate occasions during any term of the Parliament failed to comply with the requirements, under section 103 and the legislation for the time being in force, for the registration of interests of persons in public life; or
+- (f) if he or she is absent from the Islands or absent from three consecutive meetings of the Cabinet without—
+  - (i) in the case of the Premier, having given the Governor prior notice of such absence; or
+  - (ii) in the case of any other Minister, having obtained prior permission for such absence from the Premier.
+
+(2) A Minister other than the Premier shall also vacate his or her office if—
+
+- (a) the Premier vacates his or her office; or
+- (b) his or her appointment is revoked by the Governor, acting in accordance with the advice of the Premier, by instrument under the public seal.
+
+#### 35. Performance of functions of Ministers in certain events
+
+(1) If the Premier is unable, due to illness or absence from the Islands, to perform the functions of his or her office, the Governor shall authorise the Deputy Premier to perform those functions; and in the absence or illness of the Deputy Premier, the Governor shall authorise another Minister to perform those functions, acting in accordance with the advice of the Premier or, if in the Governor’s judgement it is impracticable to obtain the Premier’s advice, acting in his or her discretion.
+
+(2) Whenever a Minister other than the Premier is unable, by reason of illness or absence from the Islands or absence from his or her duties on leave, to perform the functions of his or her office, the Governor, acting in accordance with the advice of the Premier, may—
+
+- (a) appoint a person who is a member of the Parliament to be a temporary Minister; or
+- (b) assign responsibility for the performance of the functions of that Minister to another Minister (including the Premier),
+
+and may specify the period for which such person shall be a temporary Minister or for which such other Minister shall perform the functions of that Minister.
+
+(3) If occasion arises for making an appointment under subsection (2)(a) between a dissolution of the Parliament and the next following general election, subsection (2) shall have effect for the purpose as if the Parliament had not been dissolved.
+
+(4) Subject to this Constitution—
+
+- (a) a temporary Minister shall hold office; and
+- (b) a Minister assigned to perform the functions of another Minister shall perform those functions,
+
+until the expiry of the period specified under subsection (2) or, where no period was so specified, until he or she is notified by the Governor in writing, acting in his or her discretion, that he or she shall cease to hold that office or to perform those functions.
+
+(5) Any authorisation, appointment or assignment under this section shall be made by the Governor by instrument under the public seal, and may be revoked in like manner.
+
+#### 36. Assignment of responsibilities to members of Cabinet
+
+(1) Subject to subsections (2) and (3), the Governor shall by directions in writing charge any member of the Cabinet with responsibility for the conduct (subject to this Constitution and any other law) of any business of the Government, including responsibility for the administration of any department of government.
+
+(2) In exercising his or her functions under subsection (1), the Governor shall act in accordance with the advice of the Premier unless he or she is instructed by a Secretary of State to do otherwise.
+
+(3) Without prejudice to section 37(3), a member of the Cabinet shall not be charged with responsibility under this section for any of the matters mentioned in section 37(1).
+
+(4) A member of the Cabinet charged with responsibility for any matter under this section shall exercise his or her responsibility in accordance with—
+
+- (a) the Statement of Governance Principles for the time being in effect;
+- (b) the policies of the Government as determined by the Cabinet; and
+- (c) the principle of the collective responsibility of the members of the Cabinet for the policies and decisions of the Government.
+
+(5) The Governor, acting in his or her discretion, may at any time call for any official papers or seek any official information or advice which is available to a member of the Cabinet with respect to any matter for which that member is charged with responsibility under this section, and any such papers, information or advice shall as soon as practicable be provided to the Governor.
+
+#### 37. Governor’s special responsibilities
+
+(1) The Governor, acting in his or her discretion, shall be responsible for the conduct, subject to this Constitution and any other law, of any business of the Government, including the administration of any department of government, with respect to the following matters—
+
+- (a) defence;
+- (b) external affairs;
+- (c)[^key-e6b221eb2a5999654a56742273c762ff] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d) internal security, including the Police Force; and
+- (e) the appointment of any person to any public office, the suspension, termination of appointment, dismissal or retirement of any public officer, the taking of any disciplinary action in respect of such an officer, the application to any public officer of the terms or conditions of employment of the public service for which financial provision has been made, and the organisation of the public service in so far as it does not involve new financial provision.
+
+(2) The Governor, acting after consultation with the Premier[^key-442afdee8a220ead73d30fbe7ccf10f9], may assign to a member of the Cabinet responsibility for the conduct on behalf of the Governor of any business in the Parliament with respect to any of the matters mentioned in subsection (1).
+
+(3) The Governor, acting in his or her discretion, may by directions in writing delegate, with the prior approval of a Secretary of State, to the Premier or any other Minister designated by him or her after consultation with the Premier such responsibility for matters relating to [^key-675ce69335742d24d8b0637f448d1bbd]... internal security as the Governor may think fit on such conditions as he or she may impose.
+
+(3A)[^key-53bba150cc373f982d4164334050806a] The Governor shall, acting after consultation with the Premier, delegate to the Premier or another Minister, by directions in writing and on the conditions set out in subsection (3B), responsibility for the following matters relating to external affairs—
+
+- (a) the conduct of external affairs affecting the Turks and Caicos Islands within the Caribbean Community, the Association of Caribbean States, the United Nations Economic Commission for Latin America and the Caribbean, or any other Caribbean regional organisation or institution;
+- (b) other Caribbean regional affairs relating specifically to issues that are of interest to or affect the Turks and Caicos Islands;
+- (c) tourism and tourism-related matters; and
+- (d) any other matter relating to external affairs as the Governor may see fit.
+
+(3B) The conditions referred to in subsection (3A) are the following—
+
+- (a) separate authority shall be required from or on behalf of a Secretary of State for the commencement of formal negotiation and the conclusion of any treaty or other international agreement by the Government, provided that general authority may be granted in specified matters to commence the formal negotiation of and, where it is deemed appropriate, to conclude any such treaty or international agreement;
+- (b) no political declaration, understanding or arrangement in the field of external affairs shall be signed or supported in the name of the Government without the prior approval of a Secretary of State;
+- (c) a formal invitation to a member of government or Head of State of another country to visit the Turks and Caicos Islands shall not be issued without prior consultation with the Governor;
+- (d) no financial commitment or potential liability shall be undertaken in the course of activities in pursuance of subsection (3A) without prior approval of the Governor;
+- (e) the costs of any activities in pursuance of subsection (3A) shall be borne by the Government;
+- (f) the Premier or other Minister as the case may be shall keep the Governor fully informed of any activities in pursuance of subsection (3A);
+- (g) the Premier or other Minister as the case may be shall provide the Governor on request all papers and information, including the text of any instrument under negotiation, available to the Premier or other Minister with respect to any activities in pursuance of subsection (3A); and
+- (h) any directions given by the Governor on any matter relating to any activities in pursuance of subsection (3A) which in his or her judgement might affect defence or security shall be complied with.
+
+(3C) The Premier or other Minister as the case may be shall perform any activities in pursuance of subsection (3A) in a manner that is in the best interests of the Turks and Caicos Islands and not prejudicial to the interests of His Majesty (whether in respect of the United Kingdom or the Turks and Caicos Islands); and, for this purpose, the Premier or other Minister shall from time to time hold conference with the Governor to ensure the proper safeguarding of those interests.
+
+(3D) In the event of any disagreement regarding the exercise of any authority delegated under subsection (3A), the matter shall be referred to a Secretary of State whose decision on the matter shall be final and whose directions shall be complied with.
+
+(4) Where the Governor, acting in his or her discretion, determines that the exercise of any function conferred on any person or authority (other than the Parliament) would involve or affect any matter mentioned in subsection (1), the Governor may, acting in his or her discretion, give directions as to the exercise of that function, and the person or authority concerned shall exercise the function in accordance with those directions.
+
+(5) Before exercising any function with respect to any matter mentioned in subsection (1), paragraphs (a), (b), (c) and (d), the Governor shall consult the Cabinet but may, if he or she thinks it right to do so, act against any advice given to him or her by the Cabinet; but the Governor shall not be obliged to consult the Cabinet in any case in which, in his or her judgement—
+
+- (a) it is in the public interest that he or she should act without consulting the Cabinet;
+- (b) the matters to be decided are too unimportant to require the advice of the Cabinet; or
+- (c) the matters to be decided are too urgent to admit obtaining the advice of the Cabinet by the time within which it may be necessary for him or her to act.
+
+(6) The question of whether a matter falls within the scope of subsection (1) shall be determined by the Governor acting in his or her discretion.
+
+(7)[^key-ee1b513d4ba5e352ff79ada0a27b8780] The Governor shall not enter, agree or give final approval to any treaty or other international agreement which would affect internal policy in the Turks and Caicos Islands or require implementation by legislation without first obtaining the agreement of the Cabinet, unless otherwise instructed by a Secretary of State.
+
+#### 38. Summoning of Cabinet
+
+(1) Subject to subsection (2), the Cabinet shall be summoned by the Governor acting in his or her discretion; but the Governor shall summon the Cabinet if requested to do so by the Premier or by four or more members of the Cabinet.
+
+(2) The Cabinet shall meet at least once a fortnight.
+
+#### 39. Proceedings and quorum of Cabinet
+
+(1) The Governor shall, so far as is practicable, attend and preside at meetings of the Cabinet.
+
+(2) In the absence of the Governor from any meeting of the Cabinet, the Deputy Governor or the Attorney General, in that order, shall preside at the meeting.
+
+(3) No business shall be transacted at any meeting of the Cabinet if there are less than five members present, including the person presiding, of whom at least three are Ministers.
+
+(4) Subject to subsection (3), the Cabinet shall not be disqualified for the transaction of business by reason of any vacancy in its membership (including any vacancy not filled when the Cabinet is first constituted or is reconstituted at any time) and the validity of the transaction of business in the Cabinet shall not be affected by reason only of the fact that some person who was not entitled to do so took part in the proceedings.
+
+(5) After consulting the Cabinet, the Governor shall publish a summary of the business conducted at each meeting of the Cabinet within fifteen days after that meeting was held.
+
+#### 40. Attendance of other persons at Cabinet meetings
+
+The Governor, or any person presiding over a meeting of the Cabinet in his or her absence, may, acting in his or her discretion, summon any public officer or other person to a meeting of the Cabinet whenever the business before the Cabinet renders the presence of that officer or other person desirable.
+
+#### 40A. Cabinet Office and Cabinet Secretary[^key-26a41a503a9ff2b0bcd81e249251211a]
+
+(1) There shall be—
+
+- (a) a Cabinet Office, which shall be an office in the Government; and
+- (b) a Cabinet Secretary, whose office shall be a public office.
+
+(2) The Cabinet Secretary shall have charge of the Cabinet Office.
+
+(3) The responsibilities of the Cabinet Secretary are—
+
+- (a) providing frank and politically neutral advice to the Governor, the Cabinet and the Premier on matters of policy;
+- (b) monitoring and coordinating the implementation of policy between departments and ministerial portfolios and across the wider Government sector to ensure that Government policy is developed coherently;
+- (c) providing for administrative and secretarial support for the Cabinet and the Premier in order to facilitate high-quality and effective government;
+- (d) arranging the business for, and keeping the minutes of, the meetings of the Cabinet or any Cabinet committee and conveying the conclusions reached at the meetings to the appropriate person or authority; and
+- (e) such other functions as the Governor, acting after consultation with the Premier, may from time to time direct.
+
+(4) The Cabinet Secretary shall—
+
+- (a) transmit copies of all papers submitted for consideration by the Cabinet or any Cabinet committee to the Governor and all other members of the Cabinet;
+- (b) inform the Governor and all other members of the Cabinet of the summoning of any meeting of the Cabinet or any Cabinet committee and of the matters to be discussed at any meeting of the Cabinet or any Cabinet committee; and
+- (c) furnish the Governor and all other members of the Cabinet, as soon as practicable after each meeting of the Cabinet or any Cabinet committee, with a copy of the confirmed minutes of that meeting showing the matters discussed and the conclusions reached at the meeting.
+
+(5) The functions conferred on the Cabinet Secretary by subsection (4) may be exercised by the Cabinet Secretary in person or by officers subordinate to him or her acting under and in accordance with his or her general or special instructions.
+
+#### 41. Attorney General
+
+(1) There shall be an Attorney General of the Turks and Caicos Islands, whose office shall be a public office.
+
+(2) The Attorney General shall be the Legal Adviser to the Government and the Parliament, and—
+
+- (a) these functions may be exercised by the Attorney General in person or by officers subordinate to him or her acting under and in accordance with his or her general or special instructions; and
+- (b) in the exercise of these functions the Attorney General shall not be subject to the direction or control of any other person or authority, and any such subordinate officer shall not be subject to the direction or control of any person or authority other than the Attorney General.
+
+#### 41A. National Security Council[^key-922d79f23e3fbabc8ed0a5867fae5419]
+
+(1) There shall continue to be a National Security Council for the Turks and Caicos Islands which shall consist of—
+
+- (a) the Governor, as Chair;
+- (b) the Premier, as Co-Chair;
+- (c) the Deputy Premier;
+- (d) either the Minister with responsibility for border control or another Minister, appointed in writing by the Governor, acting in consultation with the Premier;
+- (e) the Deputy Governor;
+- (f) the Attorney General; and
+- (g) the Commissioner of Police.
+
+(2) The National Security Council shall advise the Governor on matters relating to internal security, with the exception of operational and staffing matters, and the Governor shall be obliged to act in accordance with the advice of the Council, unless he or she considers that acting in accordance with the advice would adversely affect His Majesty’s interest (whether in respect of the United Kingdom or the Turks and Caicos Islands); and where the Governor has acted otherwise than in accordance with the advice of the Council, he or she shall report to the Council at its next meeting.
+
+(3) The Commissioner of Police shall—
+
+- (a) provide regular briefings to the National Security Council on matters of internal security, including the Police Force save insofar as to do so would prejudice current operations;
+- (b) have responsibility for the day to day operation of the Police Force and shall report regularly on such operation to the Governor; and
+- (c) inform the Premier of any significant security developments in the Turks and Caicos Islands, including the occurrence of any significant criminal activity.
+
+(4) Before assuming office, each member of the National Security Council shall sign a declaration that he or she will not disclose to any other person, without the permission of the Governor, information acquired as a member of the Council; and, without prejudice to any other penalties that may be imposed under any other law, the Governor, acting in his or her discretion, may by published directions in writing exclude from the activities of the Council any member who breaches such a declaration.
+
+(5) Where the Governor has good reason to believe that there has been a breach by a member of the declaration made pursuant to subsection (4), the Governor, acting in his or her discretion, may suspend from the activities of the Council that member while the question of a breach is being investigated by an independent person appointed by the Governor; and any such investigation shall be concluded expeditiously.
+
+(6) The National Security Council may invite any person or summon any public officer to attend a meeting of the Council in order to provide briefings or advice to the Council on any matter relating to internal security.
+
+(7) The Governor, acting in his or her discretion, may summon a meeting of the National Security Council whenever he or she considers it desirable to do so, and the Governor shall summon such a meeting whenever the Premier so requests.
+
+(8) There shall continue to be a National Security Secretariat to support the National Security Council. Subject to this Constitution, a law enacted by the Legislature shall provide for its functions.
+
+(9) Subject to this section, the National Security Council may regulate its own procedure.
+
+### PART IV — THE LEGISLATURE
+
+#### Composition
+
+##### 42. Constitution of Legislature
+
+There shall be a Legislature for the Turks and Caicos Islands which shall consist of Her Majesty and a Parliament.
+
+##### 43. The Parliament
+
+(1) The Parliament shall consist of—
+
+- (a) a Speaker, elected as provided in section 44;
+- (b) nineteen[^key-2847aa9b82055bdd00177d0c4a21f14d] elected members; and[^key-c82970c4924ffd9b668ff8c7200ee808]
+- (c)[^key-9b9069f8bef9db387021ae7fb8ca9134] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d) the Attorney General.
+
+(2) The Attorney General shall not have the right to vote in the Parliament.
+
+##### 44. The Speaker and Deputy Speaker
+
+(1) When the Parliament first meets after a general election, or after the office of Speaker has fallen vacant for any reason other than a dissolution of the Parliament, and before it proceeds to the despatch of any other business, the Parliament shall elect a person to be Speaker of the Parliament.
+
+(2) The Speaker shall be elected from among the elected members of the Parliament who are not members of the Cabinet or from among persons who are not members of the Parliament, and shall be elected by a majority of the votes of the elected members of the Parliament; but no person shall be elected as Speaker who is not qualified to be an elected member[^key-1d43fd8333655fd21f808faefddbc78d] of the Parliament or who would for any reason be disqualified from being an elected member.
+
+(3) When the Parliament first meets after a general election, and before it proceeds to the despatch of any other business except the election of a Speaker, it shall elect a member, from among the elected members of the Parliament who are not members of the Cabinet, to be the Deputy Speaker, by a majority of the votes of the elected members of the Parliament; and if the office of Deputy Speaker falls vacant for any reason other than a dissolution of the Parliament, the Parliament shall, as soon as convenient, elect another such member to that office.
+
+(4) A person shall vacate the office of Speaker or Deputy Speaker—
+
+- (a) on dissolution of the Parliament;
+- (b) if he or she informs the Parliament, by writing under his or her hand addressed to the Parliament and received by the Clerk of the Parliament, that he or she resigns his or her office;
+- (c)
+  - (i) in any circumstances which, in the case of the Speaker, would cause him or her to vacate his or her seat if he or she were an elected member of the Parliament; or
+  - (ii) in the case of the Deputy Speaker, if he or she ceases to be a member of the Parliament;
+- (d) if on the date of his or her election as Speaker or Deputy Speaker he or she is a party to, or a partner in a firm or a director or manager of a company which is a party to, any contract with the Government, or if on any date after such election he or she or a firm in which he or she is a partner or a company of which he or she is a director or manager becomes a party to any such contract, or if he or she becomes a partner in a firm or a director or manager of a company which is a party to any such contract, and he or she does not, before the expiration of 30 days from the date in question, disclose to the Parliament or, if that is impracticable, to the Clerk of the Parliament in writing, the nature of such contract and his or her interest, or the interest of such firm or company, in it and the Parliament does not exempt him or her from vacating his or her office under this paragraph;
+- (e) if he or she becomes a member of the Cabinet; or
+- (f) on the passing, by the votes of two-thirds of the elected members of the Parliament, of a motion expressing no confidence in him or her as Speaker or Deputy Speaker, as the case may be.
+
+##### 45. Elected members
+
+(1) The elected members of the Parliament shall be persons qualified for election in accordance with this Constitution and, subject to this Constitution, shall be elected in the manner provided by law.
+
+(2) For the purposes of elections to the Parliament, the Islands—
+
+- (a) shall be a single electoral district and shall return nine[^key-c5a8ac9dfd397f3f3f9411283b4c3992] members to the Parliament; and
+- (b) shall also be divided into ten electoral districts each of which shall return one member to the Parliament.
+
+##### 46. Qualifications for elected membership
+
+Subject to section 49, a person shall be qualified to be elected as a member of the Parliament if, and shall not be qualified to be so elected unless, on the date of his or her nomination for election he or she—
+
+- (a) has attained the age of 21 years; and
+- (b) is resident in the Islands and has been so resident for not less than twelve months, in the aggregate, out of the three[^key-cab2cc5508d73f65f2df868c285aff9b] years immediately preceding that date; and
+- (c) is a Turks and Caicos Islander.
+
+##### 47. Appointed members[^key-ff5f2f162cb4de7d75f673bb87183128]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### 48. Qualifications for appointed membership[^key-222538614ff3b6833a0c213d2268fdc8]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### 49. Disqualifications for elected membership
+
+(1) No person shall be qualified to be an elected member of the Parliament who, on the date of his or her nomination for election—
+
+- (a) is, by virtue of his or her own act, under any acknowledgement of allegiance, obedience or adherence to any foreign power or state;
+- (b) holds or is acting in any public office or in the office of judge of the Supreme Court or the Court of Appeal or magistrate;
+- (c) has been adjudged or otherwise declared bankrupt under any law in force in any country and has not been discharged;
+- (d) is a person certified to be insane or otherwise adjudged to be of unsound mind under any law in force in the Islands;
+- (e) is serving or has at any time within the period of fifteen years immediately preceding that date been serving any part of a sentence of imprisonment (by whatever name called) of at least twelve months imposed on him or her by a court in any country or substituted by competent authority for some other sentence imposed on him or her by such a court; or is under such a sentence of imprisonment the execution of which has been suspended;
+- (f) is a party to, or a partner in a firm or a director or manager of a company which is a party to, any contract with the Government and has not, by that date, disclosed in a notice to the Integrity Commission the nature of such contract and his or her interest, or the interest of such firm or company, in it;
+- (g) has been convicted of an offence of corruption or an offence relating to political party regulation or the misuse of public money under any law in force in the Islands;
+- (h) is disqualified for membership of the Parliament by any law relating to offences connected with elections;
+- (i) has not made a declaration as required by section 50; or
+- (j) is disqualified for election by any law by reason of his or her holding or acting in any office the functions of which involve—
+  - (i) any responsibility for, or in connection with, the conduct of any election; or
+  - (ii) any responsibility for the compilation or revision of any register of electors.
+
+(2) For the purposes of subsection (1)(e)—
+
+- (a) where a person is serving two or more sentences of imprisonment that are required to be served consecutively he or she shall, throughout the whole time during which he or she so serves, be regarded as serving a sentence exceeding twelve months if (but not unless) any one of those sentences exceeds that term;
+- (b) no account shall be taken of a sentence of imprisonment imposed as an alternative to or in default of the payment of a fine.
+
+(3) At the close of nominations of candidates for election to the Parliament the Integrity Commission shall publish any notice delivered to it under subsection (1)(f) in such manner as it considers effective for the purpose of informing the electorate before the date of election.
+
+(4)[^key-e9a307edd3527972b5f57d0716352b27] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5)[^key-ba131c830999bcf1368b513fcc800b62] For the purposes of subsection (1)(a), a person who has automatically acquired a citizenship other than British nationality, including by way of birth or descent, shall not be considered to have done so by virtue of his or her own act.
+
+(6) Any person who, prior to the entry into force of this subsection, renounced his or her automatically acquired citizenship and who subsequently re-acquires that citizenship shall not be disqualified from being an elected member of the Parliament by virtue of this acquisition notwithstanding subsection 1(a).
+
+##### 50. Declaration by candidates for election to Parliament
+
+(1) Each candidate for election to the Parliament shall, on the date of his or her nomination for election, make a written declaration to the Supervisor of Elections that he or she is qualified for election under section 46 and that no disqualification mentioned in section 49 applies to him or her.
+
+(2) The Supervisor of Elections shall publish any declaration made to him or her under subsection (1) by the close of the next following working day.
+
+(3) Within five days of the publication of any such declaration, a challenge to the veracity of that declaration may be brought by any registered elector or by the Attorney General before the Supreme Court; the Supreme Court shall hear and determine the matter as expeditiously as possible, and its decision shall be final and not subject to any appeal.
+
+##### 51. Tenure of seats of members of Parliament
+
+(1) Every elected member of the Parliament shall vacate his or her seat in the Parliament at the next dissolution of the Parliament after his or her election or appointment.
+
+(2) An elected member of the Parliament shall also vacate his or her seat in the Parliament—
+
+- (a) if he or she resigns it by writing under his or her hand addressed to the Speaker;
+- (b) if, without the written permission of the Speaker, he or she is absent from three consecutive meetings of the Parliament;
+- (c) if he or she ceases to be ordinarily resident in the Islands;
+- (d) if the Speaker declares his or her seat vacant in the circumstances described in subsection (3); or
+- (e) subject to section 52, if any circumstances arise such that, if he or she were not a member of the Parliament, would cause him or her to be disqualified for election by virtue of any provision of section 49(1) other than paragraph (i).
+
+(3) Subject to section 52, if the Integrity Commission determines that an elected member of the Parliament has acquired a prohibited interest in a contract with the Government, the Speaker shall declare the seat of that member vacant.
+
+(4) The Integrity Commission shall make and publish rules defining the circumstances in which the acquisition by an elected member of the Parliament of an interest in a contract with the Government is prohibited, and each such member of the Parliament shall disclose to the Integrity Commission every interest he or she acquires in any such contract within seven days of acquiring it.
+
+(5)[^key-d270e3c90599e42fdee5e882ffa1138e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### 52. Delay in vacation of seat to allow for an appeal
+
+(1) A member of the Parliament whose seat has been declared vacant by the Speaker under section 51(3) may appeal the legality of the declaration to the Supreme Court, whose decision shall be final and not subject to any further appeal, and pending the decision of the Supreme Court the member shall not vacate his or her seat but shall cease to perform his or her functions as a member.
+
+(2) If the Supreme Court upholds the legality of the declaration the member shall forthwith vacate his or her seat, and if the Supreme Court does not uphold the legality of the declaration the member shall not vacate his or her seat and may resume the performance of his or her functions as a member.
+
+(3) If circumstances such as are referred to in section 51(2)(e) arise because a member of the Parliament—
+
+- (a) is declared bankrupt;
+- (b) is adjudged to be of unsound mind;
+- (c) is under sentence of imprisonment; or
+- (d) is convicted of an offence relating to party political regulation, an offence relating to misuse of public money, an offence of corruption, or an offence relating to elections,
+
+and it is open to the member to appeal against the decision (either with or without the leave of a court or other authority) that member shall forthwith cease to perform his or her functions as a member, but, subject to subsection (5), he or she shall not vacate his or her seat in the Parliament until the expiration of 30 days thereafter.
+
+(4) At the request of the member the Governor, acting in his or her discretion, may from time to time extend the period of 30 days referred to in subsection (3) for further periods of 30 days to enable the member to pursue an appeal against the decision, but extensions of time exceeding in the aggregate 330 days shall not be given without the approval of the Parliament signified by resolution.
+
+(5) If, on the determination of any appeal, such circumstances as are mentioned in subsection (3) continue to exist and no further appeal is open to the member, or if for any reason, including the refusal of leave to appeal or the expiration of any time limit for entering an appeal, it ceases to be open to the member to appeal, he or she shall forthwith vacate his or her seat.
+
+(6) If at any time before the member vacates his or her seat such circumstances as are mentioned in subsection (3) cease to exist, his or her seat shall not become vacant on the expiration of the period referred to in that subsection and he or she may resume the performance of his or her functions as a member.
+
+##### 53. Determination of questions as to membership of Parliament
+
+(1) Without prejudice to section 52(1), the Supreme Court shall have jurisdiction to hear and determine any question as to whether—
+
+- (a) any person has been validly elected as a member of the Parliament; or
+- (b) an elected member of the Parliament has vacated his or her seat in the Parliament or is required by virtue of section 52(3) to cease to perform his or her functions as such member,
+
+and the decision of the Supreme Court shall be final and not subject to any appeal.
+
+(2) An application to the Supreme Court for the determination of any question under subsection (1) may be made by the Attorney General or by any person who is a registered elector; and an application for the determination of any question under subsection (1)(b) may also be made by any member of the Parliament.
+
+(3) Any question as to whether a person is an *ex officio* [^key-e656b7fd0afc7818b2cdce38aa8926fe]... member of the Parliament, or whether any such person has vacated his or her seat, shall be determined by the Governor acting in his or her discretion.
+
+##### 54. Penalty for unauthorised person sitting or voting
+
+(1) Any person who sits or votes in the Parliament knowing, or having reasonable grounds for believing, that he or she is not entitled to do so shall be liable to a penalty not exceeding 1,000 United States dollars for each day on which he or she so sits or votes.
+
+(2) The penalty referred to in subsection (1) shall be recoverable by action in the Supreme Court at the suit of the Attorney General.
+
+##### 55. Qualifications of electors and entitlement to vote
+
+(1) Subject to subsection (2), a person shall be qualified to be registered as an elector for the purposes of the election of members of the Parliament if, and shall not be so qualified unless—
+
+- (a) he or she was lawfully registered as such an elector on the date of commencement of this Constitution; or
+- (b) on the qualifying date—
+  - (i) he or she has attained the age of eighteen years; and
+  - (ii) he or she is resident in the Islands and has been so resident for not less than twelve months, in the aggregate, out of the two years immediately preceding the qualifying date, or he or she is a member of Her Majesty’s Forces, a person working abroad on Government business or a student resident abroad in such circumstances as may be prescribed by a law enacted by the Legislature; and
+  - (iii) he or she is a Turks and Caicos Islander.
+
+(2) No person shall be qualified to be registered as an elector under this section who on the qualifying date—
+
+- (a) is a person certified to be insane or otherwise adjudged to be of unsound mind under any law in force in the Islands;
+- (b) is serving a sentence of imprisonment (by whatever name called) for a term of at least twelve months imposed on him or her by a court in any country or substituted by competent authority for some other sentence imposed on him or her by such a court; or
+- (c) is disqualified by or under any law in force in the Islands from being registered as an elector by reason of having been convicted of an offence relating to elections.
+
+(3) Section 49(2) shall apply for the purposes of subsection (2)(b) of this section as it applies for the purposes of section 49(1)(e).
+
+(4) In this section “qualifying date” means such date as may be appointed by or under any law as the date with reference to which the qualifications of persons for registration as electors, for the purpose of the election of members of the Parliament, are to be ascertained.
+
+(5) A person registered as an elector shall be entitled to vote at an election unless he or she is prohibited from doing so by reason of his or her conviction, prior to the election, of an election offence which disqualifies him or her from voting; but no person shall be entitled to vote in an electoral district if—
+
+- (a) he or she is not registered as an elector in that electoral district; or
+- (b) he or she has voted in another electoral district.
+
+##### 56. Leader of the Opposition
+
+(1) The Governor shall appoint as the Leader of the Opposition the elected member of the Parliament who demonstrates to the Governor in writing that he or she commands the support of the majority of the members of the Parliament in opposition to the Government.
+
+(2) If at any time between the polling in a general election and the next following dissolution of the Parliament the Governor, acting in his or her discretion, is satisfied that, if the office of the Leader of the Opposition were then vacant, he or she would appoint to that office a person other than the person then holding that office, the Governor shall revoke the appointment of the Leader of the Opposition.
+
+(3) The office of the Leader of the Opposition shall also become vacant—
+
+- (a) if for any reason other than a dissolution of the Parliament the holder of that office ceases to be a member of the Parliament; or
+- (b) if the holder of that office is appointed as a Minister.
+
+#### Prorogation, dissolution and elections
+
+##### 57. Prorogation and dissolution
+
+(1) The Governor, acting in accordance with the advice of the Premier, may at any time prorogue the Parliament by proclamation published in the *Gazette*; but the Governor may, with the prior approval of a Secretary of State, reject the advice of the Premier to prorogue the Parliament in any case in which in the Governor’s judgement it is necessary to do so in the interests of good governance.
+
+(2) The Governor, acting after consultation with the Premier, may at any time dissolve the Parliament by proclamation published in the *Gazette*.
+
+(3) The Governor shall dissolve the Parliament at the expiration of five[^key-6f81193b7f18c641ff78ab9e7a781e38] years from the date when the Parliament first meets after any general election, unless it has been sooner dissolved.
+
+##### 58. Recalling dissolved Parliament in case of emergency
+
+If, between a dissolution of the Parliament and the next ensuing general election, an emergency arises of such a nature that, in the judgement of the Governor, it is necessary for the Parliament to be recalled, the Governor may, acting after consultation with the Premier, summon the Parliament that has been dissolved, and that Parliament shall thereupon be deemed (except for the purposes of section 59) not to have been dissolved, but shall be deemed (except as aforesaid) to be dissolved on the date on which the next ensuing general election is held.
+
+##### 59. General elections and filling vacant seats
+
+(1) A general election shall be held at such time within three months, but not less than 35 days, after every dissolution of the Parliament as the Governor shall appoint by proclamation published in the *Gazette*.
+
+(2) Whenever an elected member of the Parliament vacates his or her seat for any reason other than a dissolution of the Parliament, an election shall be held to fill the vacancy, on such date as the Governor shall appoint by proclamation published in the *Gazette* within three months, but not less than 35 days, of the occurrence of the vacancy unless the Parliament is sooner dissolved or will be dissolved under section 57(3) within four months of the occurrence of the vacancy.
+
+(3)[^key-081f3fb930108051ac673371eafe6986] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### 60. Electoral District Boundary Commission
+
+(1) An Electoral District Boundary Commission (in this section and in section 61 referred to as a “Commission”) shall be appointed from time to time at such time as the Governor, acting after consultation with the Premier and the Leader of the Opposition, may determine; but the first Commission shall be appointed not later than four years after the commencement of this Constitution and each subsequent Commission shall be appointed not later than four years after the last Commission submitted its report under section 61.
+
+(2) A Commission shall consist of—
+
+- (a) a Chairman appointed by the Governor, acting in his or her discretion , from among persons who hold or have held high judicial office or are lawyers of at least ten years’ standing[^key-4bdd833560631ad25520ebb57252a67f];
+- (b) a member appointed by the Governor, acting after consultation with the Premier[^key-5e54de87d93d769b6789c2d0f22ed3db]; and
+- (c) a member appointed by the Governor, acting after consultation with [^key-3586a521eb6b64ddf65c33cfaf13dcf1]... the Leader of the Opposition.
+
+(3) A person shall not be qualified to be appointed as a member of a Commission if he or she is a member of the Parliament or a public officer.
+
+(4) The Chairman or other member of a Commission shall vacate his or her office—
+
+- (a) on the day following the submission of the report of the Commission under section 61;
+- (b) if any circumstances arise that, if he or she were not a member, would cause him or her to be disqualified for appointment as such; or
+- (c) if the Governor, acting in his or her discretion, directs that he or she shall be removed from office for inability to discharge the functions of his or her office (whether arising from infirmity of body or mind or any other cause) or for misbehaviour.
+
+(5) A Commission may regulate its procedure and, with the consent of the Governor acting in his or her discretion, may confer powers and impose duties on any public officer or on any authority of the Government for the purpose of the discharge of its functions.
+
+(6) For the purpose of the discharge of its functions, a Commission—
+
+- (a) may invite views from members of the public;
+- (b) shall consult the public about a draft of its report; and
+- (c) may seek such advice as it considers appropriate.
+
+(7) A Commission may act notwithstanding any vacancy in its membership (including any vacancy not filled when appointments of members are first made); but any decision of the Commission shall require the concurrence of not less than two members of the Commission.
+
+(8) In the exercise of their functions under this Constitution, a Commission and its members shall not be subject to the direction or control of any other person or authority.
+
+##### 61. Review and alteration of electoral district boundaries
+
+(1) A Commission shall, as soon as practicable after its appointment, review the boundaries of the electoral districts into which the Islands are divided and submit to the Governor and the Parliament a report either—
+
+- (a) stating that, in the opinion of the Commission, no change in those boundaries is required; or
+- (b) recommending the changes in those boundaries specified in the report.
+
+(2) In determining its recommendations under subsection (1)(b), and in determining whether or not to recommend any changes in the electoral district boundaries, a Commission shall ensure that the electoral districts contain, so far as is reasonably practicable, approximately equal numbers of persons qualified to be registered as electors under section 55.
+
+(3) As soon as may be after a Commission has submitted a report under subsection (1)(b), the Governor shall cause a bill to be introduced in the Parliament for giving effect, whether with or without modifications, to the recommendations contained in the report; and such a bill—
+
+- (a) may contain provision for any matters which are incidental to or consequential on its principal provisions; and
+- (b) shall include a provision for the coming into force of the measure when enacted upon the next dissolution of the Parliament after enactment.
+
+(4) Where any bill introduced under this section proposes to give effect to the recommendations of a Commission with modifications, there shall be laid before the Parliament at the same time a statement of the reasons for the modifications.
+
+(5)[^key-41ee10c0ca82ae9a4f0324fa27a9b284] If so requested by the Governor acting in his or her discretion, a Commission shall also review the number of members returned under section 45(2)(a) of this Constitution and the number of electoral districts set out at section 45(2)(b) of this Constitution and shall submit to the Governor and the Parliament a statement in writing either—
+
+- (a) stating that, in the opinion of the Commission, no change to those numbers is required; or
+- (b) recommending changes to those numbers.
+
+(6) In recommending any changes to the number of electoral districts, a Commission shall ensure that the total number of members who would be returned under section 45(2) if the recommendation were implemented would remain equal to the total number of elected members set out at section 43(1)(b).
+
+(7) Any statement in writing under subsection (5) shall be submitted no later than the submission by a Commission of its report under subsection (1).
+
+#### Powers and procedure
+
+##### 62. Power to make laws
+
+Subject to this Constitution, the Legislature may make laws for the peace, order and good government of the Islands.
+
+##### 62A. Power to provide for a referendum[^key-edc8f2ba13fbf14b5abcfe5490eb11de]
+
+(1) A law enacted by the Legislature may make provision to hold a referendum amongst persons registered as electors in accordance with section 55 on a matter or matters of national importance.
+
+(2) The question of whether the Turks and Caicos Islands should seek any amendment to this Constitution that may result in their independence shall be deemed to be a matter of national importance.
+
+(3) A referendum may not be held where one or more of the options or proposals on which electors are asked to vote would, if implemented, contravene any provision of Part I of this Constitution.
+
+(4) A law enacted by the Legislature authorising a referendum in accordance with subsection (1) shall specify—
+
+- (a) whether its validity requires a specified minimum turnout of persons registered as electors in accordance with section 55; and
+- (b) the proportion of votes that must be cast in favour of an option or proposal in order for it to be deemed as having been approved.
+
+(5) In any case the result of any referendum under this section shall not be binding.
+
+##### 63. Standing Orders of Parliament
+
+(1) Subject to this Constitution and to any Instructions under Her Majesty’s Sign Manual and Signet, the Parliament may make, amend and revoke Standing Orders for the regulation and orderly conduct of its own proceedings, and for the passing, intituling and numbering of bills and their presentation to the Governor for assent [^key-39a8574abe2a408c4c3a88bf70c8ec72]....
+
+(2) Standing Orders made under this section may provide for the establishment of committees of the Parliament (in addition to the Standing Committees to be established under section 64) and for the proceedings and conduct of business before any such committee.
+
+##### 64. Standing Committees
+
+(1) The Parliament shall establish at least two Standing Committees of the Parliament (in addition to the Appropriations Committee and the Public Accounts Committee established by this Constitution), each of which shall be charged with responsibility for monitoring the conduct of business of the Government for which responsibility has been assigned to a Minister or Ministers under section 36(1).
+
+(2) Each Standing Committee shall consist of members of the Parliament who are not Ministers.
+
+(3) The composition of each Standing Committee shall, so far as possible, ensure that the representation of political parties in the Committee is proportionate to the numerical strength of those parties in the Parliament.
+
+(4) At least one Standing Committee shall be presided over by a member of the Parliament in opposition to the Government.
+
+(5) Each Standing Committee shall have power—
+
+- (a) to summon any Minister, or any public officer of a department of government for which a Minister is responsible, to appear before it;
+- (b) subject to any law or Standing Orders, to require any person so summoned to answer questions and provide information about the conduct of business of the Government by the Minister or department concerned; and
+- (c) to report on its activities to the Parliament.
+
+(6) The Parliament shall publish reports submitted to it under subsection (5)(c).
+
+(7) Subject to this section, Standing Orders shall provide for the composition and functions of, and proceedings and conduct of business before, Standing Committees.
+
+##### 65. Oaths by members of Parliament
+
+No member of the Parliament shall be permitted to take part in the proceedings of the Parliament, other than proceedings necessary for the purposes of this section, until he or she has made and subscribed before the Parliament an oath of allegiance in the form set out in the Schedule to this Constitution; but the election of a Speaker and a Deputy Speaker may take place before the members of the Parliament make such oath.
+
+##### 66. Sessions of Parliament
+
+(1) The sessions of the Parliament shall be held at such times and places as the Governor may appoint by proclamation published in the *Gazette*; but there shall be at least one session in every year and a session shall be appointed to commence within two weeks after any general election.
+
+(2) When the Parliament is in session, the Speaker shall call meetings of the Parliament so that there are at least nine meetings in each calendar year and any meeting shall be held within six weeks of the end of the previous meeting.
+
+##### 67. Presiding in Parliament
+
+(1) The Speaker or, in his or her absence, the Deputy Speaker or, if they are both absent, an elected member of the Parliament (not being a Minister) elected by the elected members of the Parliament, shall preside in the Parliament.
+
+(2) References in this section to absence of the Speaker or the Deputy Speaker shall include circumstances in which either office is vacant.
+
+##### 68. Voting
+
+(1) Save as otherwise provided in this Constitution, all questions proposed for decision in the Parliament shall be determined by a majority of the votes of the elected members present and voting.
+
+(2) The person presiding shall not vote unless on any question the votes are equally divided, in which case he or she shall have and exercise a casting vote.
+
+##### 69. Validity of proceedings
+
+The Parliament shall not be disqualified for the transaction of any business by reason of any vacancy in its membership (including any vacancy not filled when the Parliament is first constituted or is reconstituted at any time) and the validity of the transaction of business in the Parliament shall not be affected by reason only of the fact that some person who was not entitled to do so voted or otherwise took part in the proceedings of the Parliament.
+
+##### 70. Quorum
+
+(1) A quorum of the Parliament shall be eight members not including the person presiding, of whom five are elected members.
+
+(2) If at any sitting of the Parliament any member who is present draws the attention of the person presiding at the sitting to the absence of a quorum and, after such interval as may be prescribed in Standing Orders, the person presiding at the sitting ascertains that a quorum of the Parliament is still not present, the Parliament shall be adjourned.
+
+##### 71. Introduction of bills, etc
+
+(1) Subject to this Constitution and to Standing Orders, any member may introduce any bill or propose any motion for debate in, or may present any petition to, the Parliament, and the same shall be debated and disposed of according to Standing Orders.
+
+(2) Except on the recommendation of the Government signified by a Minister or by the Governor, acting in his or her discretion, the Parliament shall not—
+
+- (a) proceed on any bill (including any amendment to a bill) which, in the opinion of the person presiding in the Parliament, makes provision for imposing or increasing any tax, for imposing or increasing any charge on the revenues or other funds of the Islands or for altering any such charge otherwise than by reducing it, or for compounding or remitting any debt due to the Islands; or
+- (b) proceed on any motion (including any amendment to a motion) the effect of which, in the opinion of the person presiding in the Parliament, is that provision would be made for any of the purposes mentioned in paragraph (a).
+
+##### 72. Governor’s reserved power
+
+(1) If the Governor considers that the enactment of legislation is necessary or desirable—
+
+- (a) for the purpose of securing compliance with an international obligation;
+- (b) to ensure compliance with the Statement of Governance Principles for the time being in effect;
+- (c) to ensure that sufficient funds have been appropriated, within four months of the commencement of each financial year, for the effective operation of committees of the Parliament, the courts, the Attorney General’s Chambers, and each institution protecting good governance; or
+- (d) to give effect, with or without modifications, to the recommendations contained in a report of an Electoral District Boundary Commission,
+
+but, after consultation with the Premier, it appears to the Governor that the Cabinet is unwilling to support the introduction into the Parliament of a bill for the purpose or that the Parliament is unlikely to pass a bill introduced into it for the purpose, the Governor may, with the prior approval of a Secretary of State, cause a bill for the purpose to be published in the *Gazette* and may (notwithstanding that the bill has not been passed by the Parliament) assent to it on behalf of Her Majesty; but the bill shall be so published for at least 21 days prior to assent unless the Governor certifies by writing under his or her hand that the matter is too urgent to permit such delay in the giving of assent and so informs a Secretary of State.
+
+(2) If any member of the Cabinet so desires, he or she may, within 30 days of the publication of a bill under subsection (1), submit to the Governor a statement in writing of his or her comments on such publication, and the Governor shall forward such statement, or a copy of it, as soon as practicable to a Secretary of State.
+
+(3) The powers conferred on the Governor by subsection (1) shall be exercised by the Governor in his or her discretion.
+
+(4)[^key-01c96679b3945f6eceb98777b705644c] A law made in pursuance of subsection (1) shall be deemed to be a law enacted by the Legislature.
+
+##### 73. Assent to bills
+
+(1) A bill shall not become law until—
+
+- (a) the Governor has assented to it in Her Majesty’s name and on Her Majesty’s behalf and has signed it in token of his or her assent; or
+- (b) Her Majesty has given Her assent to it through a Secretary of State and the Governor has signified Her assent by proclamation published in the *Gazette*.
+
+(2) When a bill is presented to the Governor for his or her assent, the Governor shall, subject to this Constitution and to any instructions addressed to him or her by Her Majesty through a Secretary of State, declare that he or she assents, or refuses to assent, to it, or that he or she reserves the bill for the signification of Her Majesty’s pleasure; but the Governor shall reserve for the signification of Her Majesty’s pleasure any bill which appears to him or her, acting in his or her discretion—
+
+- (a) to be in any way repugnant to, or inconsistent with, this Constitution;
+- (b) to be in any way inconsistent with the Statement of Governance Principles for the time being in effect;
+- (c) to be in any way inconsistent with any international obligation;
+- (d) to affect any matter for which the Governor is responsible under section 37;
+- (e) to affect the integrity or independence of the public service, of the administration of justice or of any institution protecting good governance; or
+- (f) to determine or regulate the privileges, immunities or powers of the Parliament or of its members,
+
+unless the Governor has been authorised by a Secretary of State to assent to it.
+
+(3) Subsection (2) is without prejudice to section 116(4).
+
+##### 74. Return of bills by Governor
+
+The Governor, acting in his or her discretion, may return to the Parliament any bill presented to him or her for his or her assent, transmitting with it any amendments which he or she may recommend, and the Parliament shall deal with such recommendation.
+
+##### 75. Disallowance of laws
+
+(1) Any law to which the Governor has given his or her assent may be disallowed by Her Majesty through a Secretary of State.
+
+(2) Whenever a law has been disallowed by Her Majesty the Governor shall, as soon as practicable, cause notice of the disallowance to be published in the *Gazette* and the law shall be annulled with effect from the date of the publication of that notice.
+
+(3) Section 16(1) of the Interpretation Act 1978[^f00006] shall apply to the annulment of any law under this section as it applies to the repeal of an Act of Parliament of the United Kingdom[^key-f6987f4db91bd92ea9a353c0602a00ff], save that any enactment repealed or amended by or in pursuance of that law shall have effect as from the date of the annulment as if that law had not been made.
+
+##### 76. Privileges, immunities and powers of Parliament
+
+A law enacted by the Legislature may determine and regulate the privileges, immunities and powers of the Parliament and of its members, but no such privileges, immunities or powers shall exceed those of the Commons House of Parliament of the United Kingdom or of its members.
+
+### PART V — THE JUDICATURE
+
+#### The Supreme Court
+
+##### 77. Constitution of Supreme Court
+
+(1) There shall be a Supreme Court for the Turks and Caicos Islands which shall have such jurisdiction and powers as may be conferred on it by this Constitution and any other law.
+
+(2) The judges of the Supreme Court shall be a Chief Justice and such number of other judges as may be determined by the Governor, acting after consultation with the Chief Justice; but the office of a judge shall not, without the consent of that judge, be abolished during his or her continuance in office.
+
+(3) The judges of the Supreme Court shall be persons qualified for appointment under subsection (4) and shall be appointed by the Governor, acting in accordance with section 87, by instrument under the public seal.
+
+(4) A judge of the Supreme Court must be—
+
+- (a) a barrister or solicitor of the United Kingdom, of any other part of the Commonwealth, or of Ireland;
+- (b) a member of the Faculty of Advocates or a Writer to the Signet of Scotland; or
+- (c) an attorney of the Supreme Court admitted under the Legal Profession Ordinance[^f00007] or under any law for the time being in force in the Islands making like provision,
+
+and of at least ten years’ standing as such.
+
+(5) It shall be lawful for a person qualified for appointment as a judge of the Supreme Court to be appointed (regardless of his or her age) for such term as may be specified in the instrument of appointment, and section 85 shall have effect in relation to any person so appointed as if he or she would attain the retiring age applicable to that office on the day on which the specified term expires.
+
+(6)[^key-1355eae2a3b7e845a86dd704b49e5f9c] The Chief Justice shall be the head of the judiciary of the Turks and Caicos Islands.
+
+(7) The Chief Justice shall have responsibility for the management of all matters arising in the judicature, including responsibility—
+
+- (a) for representing the views of the judiciary to the Government and the Parliament, including, where appropriate, through the Attorney General;
+- (b) for the maintenance of appropriate arrangements for the welfare, training and guidance of the judiciary within available resources;
+- (c) subject to paragraph (d), for the maintenance of appropriate arrangements for the deployment of the judiciary and the allocation of work within courts;
+- (d) after consultation with the President of the Court of Appeal, who shall be responsible for the allocation of work within the Court of Appeal, for the maintenance of appropriate arrangements for the work of that court.
+
+##### 78. Acting judges of Supreme Court
+
+(1) If the office of Chief Justice is vacant, or the holder of that office is for any reason unable to perform the functions of that office, then, until some other person has been appointed to, and has assumed the functions of, that office, or until the holder of that office has resumed those functions, as the case may be, such one of the other judges of the Supreme Court or such other person qualified for appointment as a judge of the Supreme Court as the Governor, acting in accordance with section 87, may appoint for that purpose shall act in that office.
+
+(2) If the office of a judge of the Supreme Court other than the Chief Justice is vacant, or if any such judge is acting as the Chief Justice or is for any reason unable to perform the functions of his or her office, the Governor, acting in accordance with section 87, may appoint a person qualified for appointment as a judge of the Supreme Court to act as such a judge.
+
+(3) A person may be appointed under subsection (1) or (2) notwithstanding that he or she has attained the age of 65 years.
+
+(4) Any person appointed under this section to act as a judge of the Supreme Court shall, unless he or she is removed from office under section 85, continue to act for the period of his or her appointment or, if no such period is specified, until his or her appointment is revoked by the Governor, acting in his or her discretion; but a person whose appointment so to act has expired or been revoked may, with the permission of the Governor, acting in his or her discretion, continue so to act for such period as may be necessary to enable him or her to deliver judgment or to do any other thing in relation to any proceeding previously commenced before him or her.
+
+##### 79. Oaths to be taken by judges of Supreme Court
+
+Before assuming the functions of his or her office, every judge of the Supreme Court shall make and subscribe before the Governor, or some other person authorised by the Governor, acting in his or her discretion, the oath of allegiance and the judicial oath in the forms set out in the Schedule to this Constitution.
+
+#### The Court of Appeal
+
+##### 80. Constitution of Court of Appeal
+
+(1) There shall be a Court of Appeal for the Turks and Caicos Islands which shall have such jurisdiction and powers as may be conferred on it by this Constitution and any other law.
+
+(2) For the purposes of hearing and determining appeals the Court of Appeal may sit either in the Islands or in such places outside the Islands as the President of the Court may from time to time direct.
+
+(3) The judges of the Court of Appeal shall be a President and two Justices of Appeal, or such other number of Justices of Appeal, not being less than two, as may be determined by the Governor, acting after consultation with the President of the Court; but the office of a Justice of Appeal shall not, without the consent of that Justice of Appeal, be abolished during his or her continuance in office.
+
+(4) The judges of the Court of Appeal shall be appointed by the Governor, acting in accordance with section 87, by instrument under the public seal, for such period as may be specified in their respective instruments of appointment.
+
+(5) A person shall be qualified to be appointed as a judge of the Court of Appeal if, and shall not be qualified to be so appointed unless, he or she holds or has held high judicial office and is qualified for appointment as a judge of the Supreme Court under section 77(4).
+
+(6) A judge of the Supreme Court may exercise any of the powers of a single judge of the Court of Appeal to such extent as may be prescribed by any law relating to the Court of Appeal.
+
+##### 81. Acting judges of Court of Appeal
+
+(1) If the office of the President of the Court of Appeal is vacant, or if the holder of that office is for any reason unable to perform the functions of that office, then, until some other person has been appointed to, and has assumed the functions of, that office, or until the holder of that office has resumed those functions, as the case may be, such one of the Justices of Appeal or such other person qualified for appointment as a judge of the Court of Appeal as the Governor, acting in accordance with section 87, may appoint for that purpose shall act in the office of President.
+
+(2) If the office of a Justice of Appeal is vacant, or if any Justice of Appeal is acting as the President or is for any reason unable to perform the functions of his or her office, the Governor, acting in accordance with section 87, may appoint a person possessing such legal qualifications and experience as he or she, after consultation with the President of the Court, may deem appropriate to act as a Justice of Appeal.
+
+(3) Any person appointed under this section to act as a judge of the Court of Appeal shall, unless he or she is removed under section 85, continue to act for the period of his or her appointment or, if no such period is specified, until his or her appointment is revoked by the Governor, acting in his or her discretion; but a person whose appointment so to act has expired or been revoked may, with the permission of the Governor, acting in his or her discretion, continue so to act for such period as may be necessary to enable him or her to deliver judgment or to do any other thing in relation to any proceeding previously commenced before him or her.
+
+##### 82. Oaths to be taken by judges of Court of Appeal
+
+Before assuming the functions of his or her office, every judge of the Court of Appeal shall make and subscribe before the Governor, or some other person authorised by the Governor, acting in his or her discretion, the oath of allegiance and the judicial oath in the forms set out in the Schedule to this Constitution.
+
+#### Judicial independence
+
+##### 83. Independence of the judiciary
+
+(1) The judges and magistrates appointed to preside or sit in any court of the Turks and Caicos Islands shall exercise their judicial functions independently from the legislative and executive branches of government.
+
+(2) The Legislature and the Cabinet shall uphold the rule of law and judicial independence, and shall ensure that adequate funds are provided to support the judicial administration in the Islands.
+
+##### 84. Remuneration, terms and conditions of judges and magistrates
+
+(1) The remuneration and allowances of each judge of the Supreme Court, each judge of the Court of Appeal and each magistrate shall be determined by the Governor, are hereby charged on and shall be paid out of the Consolidated Fund, and shall not be diminished during his or her continuance in office.
+
+(2) The terms and conditions of service of each judge of the Supreme Court, each judge of the Court of Appeal and each magistrate shall be determined by the Governor, and shall not be altered to his or her disadvantage during his or her continuance in office.
+
+(3) The powers conferred on the Governor by this section shall be exercised by the Governor in accordance with the advice of the Judicial Service Commission, unless the Governor is instructed by Her Majesty through a Secretary of State to do otherwise.
+
+##### 85. Tenure of office of judges and magistrates
+
+(1) Subject to this section, a judge of the Supreme Court shall vacate his or her office when he or she attains the age of 65 years; but—
+
+- (a) the Governor may permit a judge who attains the age of 65 years to continue in office until he or she has attained such later age, not exceeding the age of 70 years, as may have been agreed between the Governor and that judge; and
+- (b) a judge who has attained the age at which he or she would otherwise vacate office under this subsection may continue in office for such period as may be necessary to enable him or her to deliver judgment or do any other thing in relation to any proceeding commenced before him or her before he or she attained that age.
+
+(2) Subject to this section, a judge of the Court of Appeal shall vacate his or her office on the expiration of the period of his or her appointment to that office.
+
+(3) Subject to this section, a magistrate shall vacate his or her office when he or she attains such age as may be prescribed by law.
+
+(4) In the following subsections “judge” means a judge of the Supreme Court, an acting judge of the Supreme Court, a judge of the Court of Appeal or an acting judge of the Court of Appeal.
+
+(5) A judge or a magistrate may be removed from office only for inability to discharge the functions of his or her office (whether arising from infirmity of body or mind or any other cause) or for misbehaviour, and shall not be so removed except in accordance with subsection (6).
+
+(6) A judge or a magistrate shall be removed from office by the Governor by instrument under the public seal if the question of the removal of that judge or magistrate from office has, at the request of the Governor made in pursuance of subsection (7), been referred by Her Majesty to the Judicial Committee of Her Majesty’s Privy Council under section 4 of the Judicial Committee Act 1833[^f00008] or any other enactment enabling Her Majesty in that behalf, and the Judicial Committee has advised Her Majesty that the judge or magistrate ought to be removed from office for inability as aforesaid or for misbehaviour.
+
+(7) If the Governor considers that the question of removing a judge or magistrate from office for inability as aforesaid or for misbehaviour ought to be investigated, then—
+
+- (a) the Governor shall appoint a tribunal, which shall consist of a Chairman and not less than two other members selected by the Governor from among persons who hold or have held high judicial office;
+- (b) the tribunal shall inquire into the matter and report on the facts thereof to the Governor and advise the Governor whether he or she should request that the question of the removal of that judge or magistrate should be referred by Her Majesty to the Judicial Committee; and
+- (c) if the tribunal so advises, the Governor shall request that the question should be referred accordingly.
+
+(8) The provisions of the Commissions of Inquiry Ordinance[^f00009] as in force on the date of commencement of this Constitution shall, subject to this section, apply as nearly as may be in relation to tribunals appointed under subsection (7) or, as the context may require, to their members as they apply in relation to Commissions or Commissioners appointed under that Ordinance.
+
+(9) If the question of removing a judge or magistrate from office has been referred to a tribunal under subsection (7) the Governor may suspend the judge or magistrate from performing the functions of his or her office, and any such suspension may at any time be revoked by the Governor, and shall in any case cease to have effect—
+
+- (a) if the tribunal advises the Governor that he or she should not request that the question of the removal of the judge or magistrate from office should be referred by Her Majesty to the Judicial Committee; or
+- (b) if the Judicial Committee advises Her Majesty that the judge or magistrate ought not to be removed from office.
+
+(10) The powers conferred on the Governor by this section shall be exercised by the Governor in his or her discretion.
+
+#### Judicial Service Commission
+
+##### 86. Judicial Service Commission
+
+(1) There shall be a Judicial Service Commission for the Turks and Caicos Islands, which shall consist of a Chairman and two other members.
+
+(2) Of the members of the Judicial Service Commission—
+
+- (a) the Chairman shall be appointed by the Governor, acting in his or her discretion;
+- (b) the other two members shall be appointed by the Governor, acting after consultation with the Premier and the Leader of the Opposition, from among persons who hold or have held high judicial office.
+
+(3) The members of the Judicial Service Commission shall be appointed by instrument under the public seal for such period, not being less than one year nor more than four years, as may be specified in their respective instruments of appointment.
+
+(4) The office of a member of the Judicial Service Commission shall become vacant—
+
+- (a) at the expiration of the period specified in the instrument by which he or she was appointed;
+- (b) if he or she resigns his or her office by writing under his or her hand addressed to the Governor; or
+- (c) if the Governor, acting in his or her discretion, directs that he or she shall be removed from office for inability to discharge the functions of his or her office (whether arising from infirmity of body or mind or any other cause) or for misbehaviour.
+
+(5) If the office of a member of the Judicial Service Commission becomes vacant or if such a member is for any reason unable to perform the functions of that office, the Governor, acting in the manner prescribed by subsection (2) for the appointment of that member, may appoint another suitably qualified person to act as a member of the Commission; and any person so appointed shall, subject to subsection (4), continue so to act until he or she is notified by the Governor, acting in his or her discretion, that the circumstances giving rise to the appointment have ceased to exist.
+
+(6) Any decision of the Judicial Service Commission shall require the concurrence of at least two members of the Commission.
+
+(7) The Judicial Service Commission may make regulations governing its operation and procedure.
+
+(8) In the exercise of their functions the Judicial Service Commission and its members shall not be subject to the direction or control of any other person or authority.
+
+##### 87. Functions of Judicial Service Commission
+
+(1) Power—
+
+- (a) to make appointments to the offices of judge of the Supreme Court, judge of the Court of Appeal, magistrate, registrar and deputy registrar;
+- (b) to exercise disciplinary control over persons holding or acting in the offices of Chief Justice, President of the Court of Appeal, registrar and deputy registrar; and
+- (c) to remove from office persons holding or acting in the offices of registrar and deputy registrar,
+
+is vested in the Governor, acting in accordance with the advice of the Judicial Service Commission, unless the Governor is instructed by Her Majesty through a Secretary of State to do otherwise.
+
+(2) In subsection (1), “registrar” and “deputy registrar” mean registrar or deputy registrar of any court in the Islands.
+
+(3) The Judicial Service Commission, acting after consultation with the Chief Justice, shall—
+
+- (a) draw up and publish a code of conduct for the judiciary, which shall include power for the Chief Justice to exercise disciplinary control over the other judges of the Supreme Court and magistrates and power for the President of the Court of Appeal to exercise disciplinary control over the Justices of Appeal; and
+- (b) draw up and publish a procedure for dealing with complaints relating to the judiciary;
+
+and the Commission shall have such other functions as may be conferred on it by a law enacted by the Legislature.
+
+(4) This section is without prejudice to section 85.
+
+### PART VI — THE PUBLIC SERVICE , THE REGIMENT AND THE POLICE FORCE[^key-d6ac63b89091ba393d66900672323ae5]
+
+#### 88. Overriding duty of public officers
+
+Subject to this Constitution, all public officers must act in accordance with the best interests of the Turks and Caicos Islands and not in their own private interests.
+
+#### 89. Public Service Commission
+
+(1) There shall be a Public Service Commission for the Turks and Caicos Islands, which shall consist of a Chairman and four other members.
+
+(2) Of the members of the Public Service Commission—
+
+- (a) the Chairman shall be appointed by the Governor, acting in his or her discretion;
+- (b) one member shall be appointed by the Governor, acting after consultation with the Premier;
+- (c) one member shall be appointed by the Governor, acting after consultation with the Leader of the Opposition;
+- (d) one member shall be appointed by the Governor, acting after consultation with the Civil Service[^key-fa07c378f734204a3f474c73f0822d7c] Association; and
+- (e) one member shall be appointed by the Governor, acting after consultation with the Premier, the Leader of the Opposition and the Civil Service Association.
+
+(3) The members of the Public Service Commission shall be appointed by instrument under the public seal for such period, not being less than one year nor more than four years, as may be specified in their respective instruments of appointment.
+
+(4) No person shall be qualified to be appointed as a member of the Public Service Commission if he or she is a public officer or if he or she is or has been within the preceding three years—
+
+- (a) a member of the Parliament; or
+- (b) the holder of any office in any political party.
+
+(5) The office of a member of the Public Service Commission shall become vacant—
+
+- (a) at the expiration of the period specified in the instrument by which he or she was appointed;
+- (b) if he or she resigns his or her office by writing under his or her hand addressed to the Governor;
+- (c) if he or she becomes a member of the Parliament, the holder of any office in any political party, or a public officer; or
+- (d) if the Governor, acting in his or her discretion, directs that he or she shall be removed from office for inability to discharge the functions of his or her office (whether arising from infirmity of body or mind or any other cause) or for misbehaviour.
+
+(6) Whenever the office of the Chairman of the Public Service Commission is vacant or the holder of that office is for any reason unable to perform the functions of that office, such one of the other members of the Public Service Commission as the Governor, acting in his or her discretion, may appoint shall act in the office of the Chairman; and any person so appointed shall, subject to subsection (5), continue so to act until he or she is notified by the Governor, acting in his or her discretion, that the circumstances giving rise to the appointment have ceased to exist.
+
+(7) If the office of a member of the Public Service Commission other than the Chairman is vacant or the holder of that office is acting as the Chairman or is for any other reason unable to perform the functions of his or her office, the Governor, acting in the manner prescribed by subsection (2) for the appointment of that member, may appoint a person who is qualified for appointment as a member of the Commission to act as a member of the Commission; and any person so appointed shall, subject to subsection (5), continue so to act until he or she is notified by the Governor, acting in his or her discretion, that the circumstances giving rise to the appointment have ceased to exist.
+
+(8) No business shall be transacted at any meeting of the Public Service Commission if there are less than three members of the Commission present.
+
+(9) Any question proposed for decision at any meeting of the Public Service Commission shall be determined by a majority of the votes of the members present and voting; and if on any question the votes are equally divided the Chairman shall have and exercise a casting vote.
+
+(10) The Public Service Commission shall be served by a secretariat, the members of which shall be public officers.
+
+(11) In the exercise of their functions the Public Service Commission and its members shall not be subject to the direction or control of any other person or authority.
+
+(12) Subject to subsection (8), the Public Service Commission may act notwithstanding any vacancy in its membership.
+
+#### 90. Appointment, discipline and removal of public officers
+
+(1) Power to make appointments to public offices except the office of any permanent secretary or head of department is vested in the Governor, acting in accordance with the advice of the Public Service Commission; but the Governor may act otherwise than in accordance with that advice—
+
+- (a) if the Governor determines, acting in his or her discretion, that compliance with that advice would be inconsistent with the Statement of Governance Principles for the time being in effect; or
+- (b) if so instructed by Her Majesty through a Secretary of State.
+
+(2) Power to remove or exercise disciplinary control over persons holding or acting in any public office except the office of permanent secretary or head of department is vested in the Governor, acting in his or her discretion.
+
+(3) Power to make appointments to the office of any permanent secretary or head of department is vested in the Governor, acting after consultation with the Public Service Commission.
+
+(4) Power to remove or exercise disciplinary control over persons holding or acting in the office of any permanent secretary or head of department is vested in the Governor, acting in his or her discretion.
+
+(5) The Governor, acting in his or her discretion, may, by regulations published in the *Gazette*—
+
+- (a) delegate any of the powers vested in the Governor by subsection (1) to the Deputy Governor or to any permanent secretary;
+- (b) delegate any of the powers vested in the Governor by subsection (2) to the Deputy Governor, to any permanent secretary or to any head of department; and
+- (c) delegate any of the powers vested in the Governor by subsection (3) or (4) to the Deputy Governor,
+
+to such extent and subject to such conditions as may be prescribed in the regulations.
+
+(6) Where a public officer is the subject of a removal or disciplinary decision, that officer may appeal the decision to the Public Service Commission.
+
+(7) On receiving any appeal under subsection (6), the Public Service Commission shall review the matter and report to the Governor with such recommendations as it thinks fit, and the Governor, acting in his or her discretion, shall finally determine the case.
+
+(8) This section shall not apply to—
+
+- (a) any office to which section 91 applies;
+- (b) any office mentioned in section 87; or
+- (c) any office in the Police Force.
+
+#### 91. Particular offices
+
+(1) Subject to subsections (3) and (4), power to make appointments to the offices to which this section applies and to remove or exercise disciplinary control over persons holding or acting in such offices is vested in the Governor, acting in his or her discretion.
+
+(2) This section applies to the offices of—
+
+- (a) Attorney General;
+- (b) Permanent Secretary, Finance;
+- (c) Auditor General;
+- (d) Director of Public Prosecutions;
+- (e) Supervisor of Elections; [^key-225e3703b073d69b4006a1e4098151e8]...
+- (f) Commissioner of Police ; and[^key-6938ac84a19ca1f2dd307673dbe1ea07]
+- (g)[^key-545c03d2c0ef87909a8a37715119e800] Commanding Officer of the Regiment.
+
+(3) Before making an appointment to the office of Director of Public Prosecutions the Governor shall consult the Premier, the Leader of the Opposition and the Judicial Service Commission, and before making an appointment to the office of Auditor General or Supervisor of Elections the Governor shall consult the Premier and the Leader of the Opposition.
+
+(4) A person holding the office of Attorney General, Auditor General, Director of Public Prosecutions or Supervisor of Elections may be removed from office only for inability to discharge the functions of his or her office (whether arising from infirmity of body or mind or any other cause) or for misbehaviour, and with the prior approval of a Secretary of State.
+
+#### 92. Functions of Public Service Commission
+
+(1) The Public Service Commission shall uphold the principles of merit, neutrality and integrity in the public service, and to that end it shall from time to time issue and keep under review standards of conduct and ethics in the public service, monitor the implementation of such standards and provide advice on them.
+
+(2) Any standards of conduct and ethics issued under subsection (1) must be consistent with the Statement of Governance Principles and the Code of Conduct for Persons in Public Life for the time being in effect.
+
+(3) The Public Service Commission shall from time to time publish and keep under review a disciplinary policy for the public service, monitor its implementation and provide advice on it.
+
+(4) The Public Service Commission shall exercise the following functions in addition to those conferred on it by this Constitution—
+
+- (a) the supervision of, and the provision of advice on, the policies and programmes of the Government for the training of public officers at all levels;
+- (b) the provision of advice of a general nature on questions relating to the pay and conditions of service of public officers; and
+- (c) such other functions as may be conferred on it by law or by regulations made by the Governor, acting after consultation with the Public Service Commission.
+
+(5) The Public Service Commission must be impartial and must exercise its functions without fear, favour or prejudice, in the interest of the maintenance of effective and efficient public administration and a high standard of professional ethics in the public service.
+
+(6) This section shall not apply in relation to any office mentioned in section 87.
+
+#### 93. Regulations regarding Public Service Commission
+
+The Governor, acting after consultation with the Public Service Commission, may, by regulations published in the *Gazette*, make provision for—
+
+- (a) the organisation of the work of the Commission and the manner in which it performs its functions;
+- (b) consultation by the Commission with persons or authorities other than members of the Commission;
+- (c) the protection and privileges of members of the Commission in respect of the performance of their functions and the privilege of communications to and from the Commission and its members in the case of legal proceedings;
+- (d) the definition and trial of offences in relation to the functions of the Commission and the imposition of penalties for such offences; but no such penalty shall exceed a fine of 5,000 United States dollars or imprisonment for a term of one year or both such fine and imprisonment.
+
+#### 93A. The Regiment[^key-25a00466f2fbd0ee1cd108a3f7d5415e]
+
+(1) There shall continue to be raised and maintained in the Islands a reserved military force known as the Turks and Caicos Islands Regiment.
+
+(2) The Regiment shall consist of such number of officers and persons as may from time to time be determined by the Governor, acting in his or her discretion.
+
+(3) The Regiment shall be under the command of a Commanding Officer.
+
+(4) Subject to this Constitution, a law enacted by the Legislature shall provide for the organisation, powers and operations of the Regiment.
+
+#### 93B. Police and Defence Service Commission
+
+(1) There shall be a Police and Defence Service Commission for the Turks and Caicos Islands, which shall consist of—
+
+- (a) the Governor, as Chair;
+- (b) five members, experienced in matters of the police, law enforcement, defence, the criminal law or other matters related to national security, appointed in writing by the Governor acting after consultation with the Premier and the Leader of the Opposition.
+
+(2) No person shall be qualified to be appointed as a member of the Police and Defence Service Commission if he or she is a member of the Police Force, a member of the Regiment, a candidate for election to the Parliament, or if he or she is or has been within the preceding three years—
+
+- (a) a member of the Parliament; or
+- (b) the holder of any office in any political party.
+
+(3) The office of a member of the Police and Defence Service Commission (other than the Governor) shall become vacant—
+
+- (a) at the expiration of five years from the date of his or her appointment or such earlier time as may be specified in the instrument by which he or she was appointed;
+- (b) if he or she resigns office by writing under his or her hand addressed to and received by the Governor;
+- (c) if he or she becomes a member of, or a candidate for election to, the Parliament;
+- (d) if he or she becomes the holder of any office in any political party; or
+- (e) if the Governor, acting in his or her discretion, directs that he or she shall be removed from office for inability to discharge the functions of that office (whether arising from infirmity of body or mind or any other cause) or for misbehaviour.
+
+(4) If the office of a member of the Police and Defence Service Commission (other than the Governor) is vacant or a member is for any reason unable to perform the functions of his or her office, the Governor, acting in the manner prescribed by subsection (1) for the appointment of that member, may appoint a person who is qualified for appointment as a member of the Commission to act as a member of the Commission, and any person so appointed shall, subject to subsection (3), continue so to act until he or she is notified by the Governor, acting in his or her discretion, that the circumstances giving rise to the appointment have ceased to exist.
+
+(5) No business shall be transacted at any meeting of the Police and Defence Service Commission if there are fewer than four members of the Commission (in addition to the Chair) present.
+
+(6) Any question proposed for decision at any meeting of the Police and Defence Service Commission shall be determined by a majority of the votes of the members present and voting; and if on any question the votes are equally divided the Chair shall have and exercise a casting vote.
+
+(7) The Police and Defence Service Commission shall be served by a secretariat, the members of which shall be public officers.
+
+(8) The Governor, acting in his or her discretion, may from time to time by directions in writing delegate to the Deputy Governor, the Attorney General or the Permanent Secretary, Finance, in that order, his or her functions under subsection (1)(a).
+
+(9) Subject to this Constitution, in the exercise of its functions the Police and Defence Service Commission shall not be subject to the direction or control of any other person or authority.
+
+#### 93C. Power to appoint, etc., to offices in the Police Force and Regiment
+
+(1) Subject to subsection (2), power to make appointments of superior police officers and superior Regiment officers and to remove and to exercise disciplinary control over such officers shall vest in the Governor, acting in accordance with the advice of the Police and Defence Service Commission; but the Governor, acting in his or her discretion, may act otherwise than in accordance with that advice if the Governor determines that—
+
+- (a) compliance with that advice would be inconsistent with the Statement of Governance Principles for the time being in effect; or
+- (b) compliance with that advice would prejudice His Majesty’s service.
+
+(2) Notwithstanding subsection (1), the Governor, acting in his or her discretion, may from time to time make appointments of superior police officers and superior Regiment officers without the advice of the Police and Defence Service Commission where the Governor determines that to do otherwise would prejudice His Majesty’s service.
+
+(3) Subject to this Constitution, a law enacted by the Legislature shall provide for the appointment of and the exercise of disciplinary control over members of the Police Force and the Regiment other than superior police officers and superior Regiment officers.
+
+(4) Where the Police and Defence Service Commission advises that any person should be appointed as a superior police officer or a superior Regiment officer, that advice shall be submitted to the National Security Council for approval at the same time as being submitted to the Governor; but the Governor, acting in his or her discretion, may act without the approval of the National Security Council if he or she determines that to do otherwise would prejudice His Majesty’s service.
+
+(5) Before exercising the powers vested in the Governor by subsection (1), the Governor may, acting in his or her discretion, refer the advice of the Police and Defence Service Commission back to the Commission for reconsideration by it.
+
+(6) The Governor may make the referral described in subsection (5) only once.
+
+(7) If the Police and Defence Service Commission, having reconsidered its original advice pursuant to a referral under subsection (5), substitutes for it different advice, the Governor may refer that different advice back to the Commission for reconsideration in accordance with subsections (5) and (6).
+
+(8) The Governor, acting after consultation with the Police and Defence Service Commission, may, by regulations published in the *Gazette*, delegate to any member of the Commission or any public officer or class of public officer, to such extent and subject to such conditions as may be prescribed in the regulations, any of the powers vested in the Governor by subsections (1), (2), (4), (5), (7) and (10).
+
+(9) Where a superior police officer or a superior Regiment officer is the subject of a removal or disciplinary decision, that officer or member may appeal the decision to the Police and Defence Service Commission.
+
+(10) On receiving any appeal under subsection (9), the Police and Defence Service Commission shall review the matter and report to the Governor with such recommendations as it thinks fit, and the Governor, acting in his or her discretion, shall finally determine the case.
+
+(11) No member of the Police and Defence Service Commission shall participate in any proceedings of the Commission which affect him or her personally.
+
+(12) Nothing in this section shall preclude the Commissioner of Police and the Commanding Officer of the Regiment respectively from forming part of the interview panel for the appointment of a superior police officer or a superior Regiment officer.
+
+(13) In this section—
+
+- (a) “**superior police officer**” means any member of the Police Force of or above the rank of assistant superintendent, but does not include the Commissioner of Police; and
+- (b) “**superior Regiment officer**” means any member of the Regiment of or above the rank of captain, but does not include the Commanding Officer of the Regiment.
+
+#### 94. Applicability of pensions law
+
+(1) Subject to section 96, the law applicable to the grant and payment to any officer, or to his or her widow or widower, children, dependants or personal representatives, of any pension, gratuity or other like allowance (in this section and in sections 95 and 96 referred to as “an award”) in respect of the service of that officer in a public office shall be that in force on the relevant day or any later law not less favourable to the person concerned.
+
+(2) For the purposes of this section the relevant day is—
+
+- (a) in relation to an award granted before the appointed day, the day on which the award was granted;
+- (b) in relation to an award granted or to be granted on or after the appointed day to or in respect of a person who was a public officer before that day, the day immediately before that day;
+- (c) in relation to an award granted or to be granted to or in respect of a person who first becomes a public officer on or after the appointed day, the day on which he or she becomes a public officer.
+
+(3) For the purposes of this section, in so far as the law applicable to an award depends on the option of the person to or in respect of whom it is granted or to be granted, the law for which he or she opts shall be taken to be more favourable to him or her than any other law for which he or she might have opted.
+
+(4) In this section “the appointed day” means the date of commencement of this Constitution.
+
+#### 95. Pensions, etc, charged on Consolidated Fund
+
+Awards granted under any law in force in the Islands are hereby charged on and shall be paid out of the Consolidated Fund.
+
+#### 96. Grant and withholding of pensions, etc
+
+(1) The power to grant any award under any pensions law in force in the Islands (other than an award to which, under that law, the person to whom it is payable is entitled as of right) and, in accordance with any provisions in that respect contained in any such law, to withhold, reduce in amount or suspend any award payable under any such law is hereby vested in the Governor, acting in his or her discretion.
+
+(2) In this section “pensions law” means any law relating to the grant to any person, or to the widow or widower, children, dependants or personal representatives of that person, of an award in respect of the services of that person in a public office, and includes any instrument made under any such law.
+
+### PART VII — INSTITUTIONS PROTECTING GOOD GOVERNANCE
+
+#### 97. Establishment of institutions protecting good governance
+
+(1) There shall be the following institutions protecting good governance in the Turks and Caicos Islands—
+
+- (a) an Auditor General and a National Audit Office;
+- (b) a Complaints Commissioner;
+- (c) a Director of Public Prosecutions;
+- (d) a Human Rights Commission;
+- (e) an Integrity Commission; [^key-2e8afdb94e0ca5b221d32254eda285b4]...
+- (f) a Supervisor of Elections ; and[^key-90b17c6950c4684f48a34155c699ec5d]
+- (g)[^key-eb77d0b5a06bd11081db8415f0809c7f] a Constitutional Commission, if established under section 104A.
+
+(2) In the exercise of its functions,[^key-dd4eca7e663fe4ccd405915808803e70] each of the institutions protecting good governance, and any person acting on its instructions or on its behalf, shall not be subject to the direction or control of any other person or authority.
+
+(3) The remuneration and allowances of any person holding office as, or as a member of, any of the institutions protecting good governance shall be determined by law, are hereby charged on and shall be paid out of the Consolidated Fund, and shall not be diminished during his or her continuance in office; and the terms and conditions of service of any such person shall not be altered to his or her disadvantage during his or her continuance in office.
+
+(4) Nothing in subsection (3) shall preclude an a law enacted by the Legislature that reduces the level of remuneration payable to the persons referred to in that subsection where that law[^key-2974383396c87bdcd2f4f7d3448b2721] makes equivalent reduction to the remuneration of all members of the public service.
+
+(5)[^key-d197916f2f21abb2d0dfe09e58cd9d14] Each of the institutions protecting good governance shall make an annual report to the Parliament about its activities, and shall send a copy of each report to the Governor. In making an annual report, an institution protecting good governance shall consider the need for confidentiality where appropriate.
+
+#### 98. Auditor General and National Audit Office
+
+(1) The office of Auditor General shall be a public office, and appointments to that office shall be made in accordance with section 91.
+
+(2) The National Audit Office shall be headed by the Auditor General, shall support and assist the Auditor General in the exercise of his or her functions, and shall have such other functions as may be prescribed by law.
+
+(3) In addition to the other functions conferred on the Auditor General by sections 122 and 126, the Auditor General shall have the following functions—
+
+- (a) to promote accountability in the public administration of the Islands;
+- (b) to undertake any function conferred on the Auditor General by or under any law enacted by the Legislature[^key-964c91751000eceb2ad4fda33fd72031]; and
+- (c) to do anything incidental or conducive to any of the Auditor General’s functions.
+
+#### 99. Complaints Commissioner
+
+(1) The Complaints Commissioner shall be appointed by the Governor, acting after consultation with the Premier and the Leader of the Opposition, by instrument under the public seal.
+
+(2) No person shall be qualified to be appointed as Complaints Commissioner if he or she is or has been within the preceding three years—
+
+- (a) a member of the Parliament; or
+- (b) the holder of any office in any political party.
+
+(3) The office of Complaints Commissioner shall become vacant—
+
+- (a) at the expiration of the period specified in the instrument by which he or she was appointed;
+- (b) if he or she resigns his or her office by writing under his or her hand addressed to the Governor;
+- (c) if he or she becomes a member of the Parliament or the holder of any office in any political party; or
+- (d) if the Governor, acting in his or her discretion, directs that he or she shall be removed from office for inability to discharge the functions of his or her office (whether arising from infirmity of body or mind or any other cause) or for misbehaviour.
+
+(4) The Complaints Commissioner shall investigate complaints of maladministration in the government of the Islands in accordance with any law enacted by the Legislature[^key-075ec73f8a98ba73bea9678014c5f714], and shall have such functions and jurisdiction as may be prescribed by or under any such law[^key-4437c328a785b56b4e45d88a8e868bf6].
+
+#### 100. Director of Public Prosecutions
+
+(1) The office of Director of Public Prosecutions shall be a public office, and appointments to that office shall be made in accordance with section 91.
+
+(2) The Director of Public Prosecutions shall have power, in any case in which he or she considers it desirable to do so—
+
+- (a) to institute and undertake criminal proceedings against any person before any court in respect of any offence against any law in force in the Islands;
+- (b) to take over and continue any such criminal proceedings that have been instituted by any other person or authority; and
+- (c) to discontinue at any stage before judgment is delivered any such criminal proceedings instituted or undertaken by himself or herself or any other person or authority.
+
+(3) The powers of the Director of Public Prosecutions under subsection (2) may be exercised by the Director of Public Prosecutions in person or by officers subordinate to him or her acting under and in accordance with his or her general or special instructions.
+
+(4) The powers conferred on the Director of Public Prosecutions by subsection (2)(b) and (c) shall be vested in him or her to the exclusion of any other person or authority; but where any other person or authority has instituted criminal proceedings, nothing in this subsection shall prevent the withdrawal of those proceedings by or at the instance of that person or authority at any stage before the person against whom the proceedings have been instituted has been charged before the court.
+
+(5) For the purposes of this section, any appeal from any determination in any criminal proceedings before any court, or any case stated or question of law reserved for the purpose of any such proceedings, to any other court or to Her Majesty in Council shall be deemed to be part of those proceedings.
+
+(6) The Director of Public Prosecutions shall formulate, and may from time to time amend, a prosecution policy document which sets out the principles that will be applied by the Director of Public Prosecutions and his or her office in their approach to prosecutions, and the Director of Public Prosecutions shall publish any such policy document and any amendment to it.
+
+#### 101. Human Rights Commission
+
+(1) The Human Rights Commission shall consist of a Chairman and such number of other members, being no fewer than two, as may be prescribed by law, appointed by the Governor, acting after consultation with the Premier and the Leader of the Opposition, and at least one of the members shall be a lawyer of at least ten years’ standing.
+
+(2) The primary responsibility of the Human Rights Commission shall be to promote understanding and observance of human rights in the Islands.
+
+(3) The Human Rights Commission shall have power to—
+
+- (a) receive and investigate complaints of breaches or infringements of any right or freedom contained in Part I of this Constitution or in international human rights treaties that have been extended to the Islands, and investigate such possible breaches or infringements on its own initiative;
+- (b) provide advice to persons who consider that their rights or freedoms have been infringed;
+- (c) provide a forum for dealing with complaints by mediation or conciliation or by making recommendations;
+- (d) issue guidance on procedures for dealing with any complaints of breaches or infringements of rights and freedoms;
+- (e) contribute to public education about human rights;
+- (f) issue reports relating to human rights issues on its own initiative;
+- (g) exercise such other functions, for the purpose of fulfilling its primary responsibility under subsection (2), as may be conferred on it by law.
+
+(4) The Human Rights Commission shall have no power to—
+
+- (a) represent or provide representation to parties to litigation, but this shall not prevent a member of the Commission appearing as amicus curiae when requested to do so by the court;
+- (b) act in a judicial capacity or make binding recommendations as to whether any right or freedom contained in Part I of this Constitution or in any international human rights treaty has been breached or infringed;
+- (c) compel any person to do anything against his or her will;
+
+but any public officer or public authority to which the Commission addresses a recommendation must respond in writing within a reasonable time, and such responses shall be published by the Commission unless there is a good reason to withhold publication.
+
+(5)[^key-aa9c099ed6d8c5c674ba8618f2bad1d0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(6) Further provision relating to the establishment and operation of the Human Rights Commission may be made by a law enacted by the Legislature, but such legislation shall not derogate from any provision of this section.
+
+(7) Nothing contained in or done pursuant to this section or any law made under subsection (6) shall—
+
+- (a) oblige a person to refer any complaint of a breach or infringement of any right or freedom contained in Part I of this Constitution to the Human Rights Commission; or
+- (b) prevent a person from seeking redress directly from the Supreme Court in relation to any breach or infringement of a right or freedom contained in Part I of this Constitution, and the fact that any person had previously sought the assistance of the Commission with respect to any breach or infringement shall not prejudice any legal action.
+
+#### 102. Integrity Commission
+
+(1) The Integrity Commission shall consist of a Chairman and five other members who shall be appointed by the Governor in the manner prescribed by law.
+
+(2) The primary responsibility of the Integrity Commission shall be to promote integrity, honesty and good faith in public life in the Islands.
+
+(3) The Integrity Commission shall—
+
+- (a) have and exercise the functions conferred on it by sections 34, 49, 51 and 124;
+- (b) formulate and publish, after public consultation in the Islands, a Code of Conduct for Persons in Public Life, keep the Code under review and amend or replace it as it considers necessary or desirable, and, in accordance with any law enacted by the Legislature[^key-cd37b654fe970141182b4357a0685a62], investigate any alleged failures to abide by the Code by persons subject to it, either in response to a complaint or on its own initiative;
+- (c) have and exercise the functions conferred on it by section 103 and any other law relating to the registration of interests by persons in public life;
+- (d) contribute to public education about integrity in public life; and
+- (e) have and exercise such other functions, for the purpose of fulfilling its primary responsibility under subsection (2), as may be conferred on it by law.
+
+(4)[^key-13b5c73b7c7d5a1a5defdfed6c8b83f4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5) Further provision relating to the establishment and operation of the Integrity Commission may be made by a law enacted by the Legislature, but such legislation shall not derogate from any provision of this section.
+
+#### 103. Registration of interests
+
+(1) There shall be for the Islands a Register of Interests, which shall be maintained by the Integrity Commission.
+
+(2) It shall be the duty of any person to whom this section applies to declare to the Integrity Commission, for entry in the Register of Interests, such interests, assets, income and liabilities of that person, or of any other person connected with him or her, as may be prescribed by law.
+
+(3) A person shall make a declaration under subsection (2) on assuming the functions of his or her office and at such intervals thereafter (being no longer than twelve months) as may be prescribed by law.
+
+(4) This section applies to all members of the Parliament (including Ministers) and the holders of such other offices (except that of Governor) as may be prescribed by law.
+
+(5) A law made by the Legislature shall make provision for giving effect to this section, including the sanctions which may be imposed for failure to comply with, or the making of false statements in purported compliance with, subsections (2) and (3) and, notwithstanding anything contained in Part IV of this Constitution, the sanctions which may be imposed may include the suspension of a member of the Parliament from sitting and voting in the Parliament for such period as may be prescribed in such a law.
+
+#### 104. Supervisor of elections
+
+(1) The office of Supervisor of Elections shall be a public office, and appointments to that office shall be made in accordance with section 91.
+
+(2) The primary responsibility of the Supervisor of Elections shall be, in accordance with any law enacted by the Legislature[^key-64eea8deeb38ccafa04b9a962a8d9eea]—
+
+- (a) to make arrangements for the registration of electors and the administrative conduct of elections to the Parliament; and
+- (b) to enforce on the part of all election officers fairness, impartiality and compliance with any such law.
+
+(3) The Supervisor of Elections shall have and exercise such functions, for the purpose of fulfilling his or her primary responsibility under subsection (2), as may be conferred on him or her by law.
+
+#### 104A. Constitutional Commission[^key-964d58b0f96aa77cd7fdcebb46dba33f]
+
+Subject to this Constitution, a law enacted by the Legislature may establish and provide for the composition and functions of a Constitutional Commission. A Constitutional Commission shall advise the Government on questions concerning constitutional development, including on how to increase within the Parliament a diverse range of elected members, representing shades of opinion which would not otherwise be represented in the Parliament.
+
+#### 105. Funding of institutions protecting good governance
+
+(1) Before the commencement of each financial year—
+
+- (a) each institution protecting good governance shall submit to the Appropriations Committee of the Parliament a bid for its budget for that financial year;
+- (b) the Appropriations Committee shall scrutinise each bid in public hearings and, having satisfied itself that the bid conforms to the Government’s current budget policies and made any amendments it considers necessary for that purpose, recommend to the Parliament a budget for each institution for that financial year.
+
+(2) The Parliament may pass or reject a budget recommended to it under subsection (1)(b), but may not amend it.
+
+(3) If the Parliament passes a budget recommended to it under this section, that budget shall form part of the appropriation law enacted by the Legislature[^key-7797449f177a9a338b3b82ba4b39e522] for that financial year.
+
+(4) If the Parliament rejects a budget recommended to it under subsection (1)(b), the Appropriations Committee shall reconsider the budget in question and, after consulting the institution concerned, recommend a revised budget to the Parliament; and the same procedure shall be followed if the Parliament rejects a revised budget recommended to it.
+
+(5) This section is without prejudice to section 72.
+
+### PART VIII — CROWN LAND
+
+#### 106. Definition of Crown land
+
+In this Part, “Crown land” means any right or interest in land or other immovable property within the Islands that vests in and may be lawfully granted or disposed of by Her Majesty in right of the Turks and Caicos Islands.
+
+#### 107. Crown land principles
+
+Subject to section 108, the principles governing the acquisition, management and disposal of Crown land shall be prescribed by a law enacted by the Legislature and shall be in conformity with the Statement of Governance Principles for the time being in effect.
+
+#### 108. Grants and dispositions of Crown land
+
+(1) The Governor may, in Her Majesty’s name and on Her Majesty’s behalf, make and execute under the public seal grants and dispositions of Crown land.
+
+(2) In exercising the powers conferred on the Governor by subsection (1), the Governor shall consult the Cabinet but may act otherwise than in accordance with the advice of the Cabinet in the circumstances prescribed in section 29(2).
+
+(3) The Governor, acting in his or her discretion, may by writing under his or her hand delegate to the Deputy Governor or any other public officer the power to sign any legal instrument necessary to give effect to decisions taken under subsections (1) and (2).
+
+### PART IX — PUBLIC FINANCIAL MANAGEMENT
+
+#### 109. General principles
+
+(1) The macro-economic and fiscal policies of the Government shall be formulated and conducted for the sustained long term prosperity of the people of the Islands.
+
+(2) Public funds shall be managed according to established principles of value for money, affordability and regularity and the interests of long term financial stability.
+
+(3) The Government shall, after public consultation in the Islands, formulate a framework document stating its principles of public financial management which sets—
+
+- (a) limits on levels of public debt relative to public revenue;
+- (b) limits on debt service costs as a proportion of total public expenditure; and
+- (c) levels of reserves relative to public expenditure.
+
+(4) Any framework document formulated under subsection (3) must be agreed by the Parliament and a Secretary of State in draft before it is adopted by the Government; and the Government shall publish the document in the *Gazette* as soon as possible after its adoption.
+
+(5) The prior approval of a Secretary of State shall be required before—
+
+- (a) the adoption by the Government of any proposed decision or policy; or
+- (b) the coming into force of any law enacted by the Legislature[^key-c8ee47da237edb3dae112dac5162d551],
+
+which, in the judgement of the Governor, would exceed the framework document published under subsection (4) which is for the time being in effect.
+
+(6) The Minister of Finance shall report to the Parliament at least every six months on—
+
+- (a) the performance of the Government in implementing the framework document published under subsection (4) which is for the time being in effect; and
+- (b) the state of the public finances and the state of the economy of the Islands.
+
+(7) The Government shall aim towards achieving and maintaining a surplus budget, and where any Appropriation Bill would not return a surplus result the Minister of Finance shall, at the same time as the Bill is introduced in the Parliament, lay before the Parliament a statement explaining the reasons for not achieving a surplus.
+
+#### 110. Taxation
+
+(1) No tax, rate or other levy shall be imposed except under the authority of a law enacted by the Legislature.
+
+(2) Where a law enacted by the Legislature confers powers on any person or authority to waive or vary a tax imposed by that law[^key-91b990482d1f68b556689aec7533453e], that person or authority shall report to the Parliament on the exercise of those powers as often as shall be determined by law but not less than every six months.
+
+#### 111. Contingent liabilities
+
+The Minister of Finance shall ensure that all contingent liabilities of the Government, including pension and healthcare liabilities, are subjected to independent actuarial assessment at least every two years, and shall report the information provided by any such assessment to the Parliament within two months of receiving it.
+
+#### 112. Consolidated Fund
+
+(1) There shall be a Consolidated Fund for the Islands into which shall be paid all revenues or other moneys raised or received by and for the purposes of the Government.
+
+(2) The revenues or other moneys referred to in subsection (1) shall not include revenues or other moneys—
+
+- (a) that are payable by or under a law enacted by the Legislature into some other fund established for a specific purpose; or
+- (b) that may, by or under a law enacted by the Legislature, be retained by the department of government that received them for the purpose of defraying the expenses of that department.
+
+#### 113. Withdrawal from Consolidated Fund or other public funds
+
+(1) No moneys shall be withdrawn from the Consolidated Fund except—
+
+- (a) to meet expenditure charged on the Fund by this Constitution or by a law enacted by the Legislature; or
+- (b) where the issue of those moneys has been authorised by an appropriation law enacted by the Legislature[^key-6ff4f34706fc73662a18ac3231a052bc], a supplementary appropriation law enacted by the Legislature, or as provided in subsection (3).
+
+(2) No moneys shall be withdrawn from any public fund of the Islands other than the Consolidated Fund unless the issue of those moneys has been authorised by law.
+
+(3) If the Minister of Finance is satisfied that the appropriation law enacted by the Legislature[^key-68839926756ea568b0ddbb93ee5a8b97] in respect of any financial year will not or has not come into force by the beginning of that financial year, that Minister may, if so authorised by the Parliament by resolution and subject to subsection (4), authorise the issue of moneys from the Consolidated Fund for the purpose of meeting expenditure necessary to carry on the services of the Government until the expiration of four months from the beginning of that financial year or the coming into force of the appropriation law enacted by the Legislature, whichever is the earlier.
+
+(4) Any sum issued in any financial year from the Consolidated Fund under subsection (3) in respect of any ongoing service of the Government—
+
+- (a) shall not exceed one third of the amount approved for that service in an appropriation law enacted by the Legislature or a supplementary appropriation law enacted by the Legislature for the previous financial year; and
+- (b) shall be set off against the amount provided in respect of that service in the appropriation law enacted by the Legislature for that financial year when that law[^key-77c13aca46982670a181824e6f7e3417] comes into force.
+
+#### 114. Appropriations Committee
+
+(1) There shall be an Appropriations Committee of the Parliament, which shall consist of at least three members of the Parliament appointed by the Speaker from among members who are not Ministers, at least one of whom shall be a member of the Parliament in opposition to the Government.
+
+(2) The Appropriations Committee may co-opt to its membership up to two persons who are not members of the Parliament, either on a continuing basis or for the purpose of a specific enquiry conducted by the Committee, and shall be assisted in its work by the Permanent Secretary, Finance or his or her nominee and permanent Committee staff.
+
+(3) The Appropriations Committee shall have power to compel the production of documents and evidence from Ministers, departments of government and public officers, and shall meet in public.
+
+(4) The Appropriations Committee shall have and exercise the functions conferred on it by this Constitution and such other functions as may be conferred on it by any other law or by Standing Orders.
+
+(5) The Parliament shall publish all reports of the Appropriations Committee without delay.
+
+#### 115. Financial year estimates
+
+(1) At least six weeks before the beginning of each financial year the Minister of Finance shall cause to be prepared and laid before the Parliament—
+
+- (a) estimates of revenues and expenditure of the Government for that financial year; and
+- (b) a document setting out targets for revenue and expenditure for the next three financial years, and an assessment of performance against the debt sustainability limits as set out in the framework document published under section 109(4) which is for the time being in effect,
+
+and the Parliament shall publish those estimates and that document without delay.
+
+(2) Before the Parliament considers the estimates laid before it under subsection (1)(a), the Appropriations Committee shall scrutinise those estimates and make recommendations in relation to them to the Parliament in sufficient time for an Appropriation Bill to be passed by the Parliament before the beginning of the financial year in question.
+
+#### 116. Appropriation Bill
+
+(1) The heads of expenditure contained in the estimates, other than expenditure charged on the Consolidated Fund by this Constitution or any law enacted by the Legislature[^key-8357d86937fe24156dab38dece54ee21], shall be included in a bill, to be known as an Appropriation Bill, which shall be introduced into the Parliament to provide for the issue from the Consolidated Fund of the sums necessary to meet that expenditure and the appropriation of those sums for the purposes specified in the bill.
+
+(2) If in respect of any financial year it is found that the amount appropriated for any purpose under the appropriation law enacted by the Legislature[^key-9974f6147f296a1beff034700fbbc5a3] is insufficient or that a need has arisen for expenditure for a purpose for which no amount has been appropriated by that law[^key-ede9d7dce5aa1f49f75f2324d8579603], a supplementary estimate showing the sums required shall be laid before the Parliament by the Minister of Finance, and the Appropriations Committee shall scrutinise that estimate and make recommendations in relation to it to the Parliament.
+
+(3) The heads of expenditure contained in a supplementary estimate shall be included in a bill, to be known as a Supplementary Appropriation Bill, which shall be introduced into the Parliament to provide for the issue from the Consolidated Fund of the sums necessary to meet that expenditure and the appropriation of those sums for the purposes specified in the bill.
+
+(4) The Governor, acting in his or her discretion and with the prior approval of a Secretary of State, may refuse to assent to any Appropriation Bill or Supplementary Appropriation Bill if in his or her judgement the enactment of that bill would be inconsistent with section 109 or the Statement of Governance Principles for the time being in effect.
+
+#### 117. Excess expenditure
+
+(1) Where, in exceptional circumstances, at the close of accounts for any financial year it is found that moneys have been expended on any expenditure in excess of the amount appropriated for it by an appropriation law enacted by the Legislature[^key-1123c52ec1da262c66465c3cf0665565] or a supplementary appropriation law enacted by the Legislature or for a purpose for which no moneys have been voted and appropriated, the amount of the excess expended, or not appropriated, as the case may be, shall be included in a statement of expenditure in excess.
+
+(2) The Minister of Finance shall lay every statement of expenditure in excess before the Parliament, which shall refer it to the Public Accounts Committee of the Parliament, and the Minister shall at the same time send a copy of the statement to the Governor.
+
+(3) The Public Accounts Committee shall report to the Parliament on a statement of expenditure in excess referred to it under subsection (2) within six months after the statement is referred to it.
+
+(4) Where on receiving any report of the Public Accounts Committee issued under subsection (3) the Parliament, by means of a resolution, allows the excess or the amount expended but not appropriated to stand charged to public funds, the sum required to meet that excess or such amount as shall be allowed shall be included in a Supplementary Appropriation Bill for appropriation.
+
+#### 118. Contingencies
+
+(1) The Minister of Finance, if he or she is satisfied that there is an urgent and unforeseen need for expenditure for which no provision or insufficient provision has been made by an appropriation law enacted by the Legislature[^key-f460647fa507b73ef6240e28ea2aa527] or a supplementary appropriation law enacted by the Legislature, may, by a Contingencies Warrant under his or her hand and in anticipation of the grant of an appropriation by the Legislature, authorise an advance from the Consolidated Fund to meet that need and shall forthwith report his or her action to the Cabinet.
+
+(2) No Contingencies Warrant shall be issued by the Minister of Finance without the prior approval of the Governor, acting in his or her discretion, and the Parliament shall be invited to approve the expenditure resulting from any Contingencies Warrant issued by the Minister.
+
+(3) An advance made under subsection (1) shall be subject to any law enacted by the Legislature[^key-7fd7b64663a9b840173a27fd910cec4d] and to any restrictions imposed by the Parliament by resolution from time to time.
+
+#### 119. Power of Government to borrow or lend
+
+(1) Subject to this Constitution, the Government may borrow from any source.
+
+(2) The Government shall not borrow, guarantee or raise a loan on behalf of itself or any other public institution, authority or person except—
+
+- (a) as authorised by or under a law enacted by the Legislature; and
+- (b) in accordance with any borrowing guidelines agreed with Her Majesty’s Government in the United Kingdom.
+
+(3) A law enacted by the Legislature enacted under subsection (2)(a) shall provide—
+
+- (a) that the terms and conditions of the loan shall be laid before the Parliament and shall not come into force unless they have been approved by a resolution of the Parliament; and
+- (b) that any moneys received in respect of that loan shall be paid into the Consolidated Fund and form part of that Fund or into some other public fund which is existing or is created for the purpose of the loan.
+
+(4) The Minister of Finance shall, at such times as the Parliament may determine and at least every six months, cause to be presented to the Parliament such information concerning any loan as is necessary to show—
+
+- (a) the extent of the total indebtedness by way of principal and accumulated interest;
+- (b) the provision made for servicing or repayment of the loan; and
+- (c) the utilisation and performance of the loan.
+
+(5) The Parliament may, by resolution, authorise the Government to enter into an agreement for the giving of a loan or a grant out of any public fund or public account.
+
+(6) An agreement entered into pursuant to subsection (5) shall be laid before the Parliament and shall not come into force unless it has been approved by the Parliament by resolution.
+
+(7) Any resolution passed by the Parliament under subsection (5) or (6) must be compatible with section 109 and the Statement of Governance Principles for the time being in effect.
+
+(8) For the purposes of this section, “loan” includes any money lent or given to or by the Government on condition of return or repayment and any other form of borrowing or lending in respect of which—
+
+- (a) moneys from the Consolidated Fund or any other public fund may be used for payment or repayment; or
+- (b) moneys from any fund by whatever name called, established for the purpose of payment or repayment whether in whole or in part and whether directly or indirectly, may be used for payment or repayment.
+
+#### 120. Public Debt
+
+(1) The Public Debt of the Islands shall be charged on the Consolidated Fund and other public funds of the Islands.
+
+(2) For the purposes of this section, the Public Debt includes the interest on that debt, sinking fund payments in respect of that debt, and the costs, charges and expenses incidental to the management of that debt.
+
+#### 121. Financial control and accounts
+
+(1) The Minister of Finance shall provide the Parliament with such reports, information and accounts as may be necessary to ensure that the Parliament is kept fully informed at all times of the state of the economy of the Islands and the finances of the Government.
+
+(2) Every public corporation or other body or organisation established by or under a law enacted by the Legislature shall report its financial transactions to the Minister of Finance, who shall include such reports in the information provided to the Parliament under subsection (1).
+
+(3) A law enacted by the Legislature shall make provision for the regular publication of accounts of the Consolidated Fund and any other public funds and for the laying of such accounts and any reports on them before the Parliament.
+
+#### 122. Public Accounts Committee
+
+(1) There shall be a Public Accounts Committee of the Parliament which shall consist of—
+
+- (a) at least three members of the Parliament appointed by the Speaker from among members who are not Ministers; and
+- (b) two persons expert in public finance who are not members of the Parliament, one of whom shall be appointed by the Speaker and one of whom shall be appointed by the Governor, acting in his or her discretion.
+
+(2) The Chairman of the Public Accounts Committee shall be a member of the Parliament in opposition to the Government (without prejudice to the appointment of other such members to the Committee).
+
+(3) A person appointed under subsection (1)(b) shall cease be a member of the Public Accounts Committee—
+
+- (a) at the expiration of the period for which he or she was appointed;
+- (b) if he or she becomes a member of the Parliament; or
+- (c) if the person who made the appointment revokes it, acting in his or her discretion.
+
+(4) If in respect of any item of business before the Public Accounts Committee the Governor, acting after consultation with the Speaker and the Chairman of the Committee, considers that a member of the Committee has a conflict of interests, the Governor, acting in his or her discretion, may appoint another person (whether or not a member of the Parliament) temporarily to replace that member of the Committee for the purpose of dealing with the business in question; and a member so replaced shall not sit on the Committee when the Committee is dealing with that business.
+
+(5) The Public Accounts Committee shall examine and report to the Parliament on—
+
+- (a) the reports submitted to the Committee by the Auditor General under section 126(4); and
+- (b) such management letters and reports of the Auditor General as have been submitted to the Committee or as have been laid before the Parliament or as the Auditor General has brought to the attention of the Parliament;
+
+and shall have and exercise such other functions, and shall operate under such procedures, as are prescribed by this Constitution or as may be prescribed by a law enacted by the Legislature or by Standing Orders.
+
+(6) The Public Accounts Committee shall have power to compel the production of documents and evidence from Ministers, departments of government and public officers, and shall meet in public.
+
+(7) The Public Accounts Committee shall report to the Parliament by the date set by the Parliament or by its terms of reference, whichever is the earlier; and except as otherwise provided in the Committee’s terms of reference, such a report may be with or without recommendations.
+
+(8) If the Parliament adopts a report of the Public Accounts Committee, and requests the responsible member of the Cabinet to advise the Parliament of the action proposed to be taken by the Government in respect of the report, the member concerned shall convey the Government’s response to the Parliament not later than the first sitting day following the expiration of six weeks after the date of the House’s request, unless the Parliament extends the time for the response.
+
+(9) The Auditor General shall be adviser to the Public Accounts Committee, and the Committee shall not meet without the presence of the Auditor General or his or her nominee.
+
+(10) The Public Accounts Committee may invite any person to assist it in its work and to participate in its proceedings.
+
+#### 123. Accounting officers
+
+(1) There shall be an Accountant General of the Government, whose office shall be a public office.
+
+(2) The Accountant General shall be responsible for the compilation and management of the accounts of the Government, and for the custody and safety of public money and other resources of the Government.
+
+(3) The Governor, acting in his or her discretion, shall by directions in writing designate for each department of government and each institution protecting good governance an accounting officer who shall be responsible for the regularity and propriety of the expenditure, receipts and resources of that department or institution, and shall be accountable to the Parliament.
+
+(4) For the purposes of subsection (3), “department of government” means any department of the Government by whatever name called and any other division of the administration of the Islands that the Governor, acting in his or her discretion, may designate by directions in writing.
+
+#### 124. Remuneration of Speaker and other members of Parliament
+
+(1) There shall be paid to the Speaker and the other members of the Parliament such remuneration and allowances as may be prescribed by a law enacted by the Legislature.
+
+(2) The Parliament shall not proceed on any bill for a law[^key-5264a7e9ec156d762420db7a9d8ca2da] referred to in subsection (1) unless a report by the Integrity Commission recommending the appropriate levels of such remuneration and allowances has been laid before the Parliament and has been published; and no law shall provide for levels of remuneration or allowances that exceed the levels recommended in such report.
+
+(3) The remuneration and allowances payable to the Speaker and the other members of the Parliament are hereby charged on and shall be paid out of the Consolidated Fund.
+
+#### 125. Remuneration of certain officers
+
+(1) There shall be paid to the holders of the offices to which this section applies such remuneration and allowances as may be prescribed by or under a law enacted by the Legislature.
+
+(2) The remuneration and allowances payable to the holders of those offices are hereby charged on and shall be paid out of the Consolidated Fund.
+
+(3) The remuneration prescribed in pursuance of this section in respect of the holder of any such office and his or her other terms of service (other than allowances that are not taken into account in computing, under any law in that respect, any pension payable in respect of his or her service in that office) shall not be altered to his or her disadvantage after his or her appointment.
+
+(4) Where a person’s remuneration or other terms of service depend on his or her option, the remuneration or terms for which he or she opts shall, for the purposes of subsection (3), be deemed to be more advantageous to him or her than any others for which he or she might have opted.
+
+(5) This section applies to the offices of Deputy Governor, Attorney General, Permanent Secretary, Finance, Commissioner of Police Commanding Officer of the Regiment[^key-edff6c519e0ed3643c2406c6664e66b1], and any member of the Public Service Commission, the Judicial Service Commission or the Mercy Committee.
+
+(6) Nothing in this section shall preclude a law enacted by the Legislature that reduces the level of remuneration payable to the holder of any office to which this section applies where that law[^key-51878d364f01733d500109b1347c3280] makes equivalent reduction to the remuneration of all members of the public service.
+
+#### 126. Audit
+
+(1) The Auditor General shall audit and report on the public accounts of the Islands, including the Parliament, the courts, the central and local government administrations, the institutions protecting good governance, and any public corporations or other bodies or organisations established by or under any law enacted by the Legislature[^key-a46b5eea66bd5629cfc30ff4bd71772c].
+
+(2) For the purposes of subsection (1)—
+
+- (a) accounts shall be provided by the authorities referred to in that subsection to the Auditor General within four months of the end of each financial year; and
+- (b) the Permanent Secretary, Finance shall, as soon as practicable after the end of each financial year, cause to be prepared for submission to the Auditor General a statement of accounts reflecting the financial operations of the Consolidated Fund and any other public fund or account for that financial year.
+
+(3) The Auditor General and any person authorised by him or her shall have a right of access at all reasonable times to all such documents as appear to him or her to be necessary for the purposes of conducting an audit under subsection (1), and shall be entitled to require from any person holding or accountable for any such documents such information and explanation as he or she thinks necessary for those purposes.
+
+(4) Each year the Auditor General shall, as soon as practicable and in any case within four months of receiving the accounts under subsection (2)(a), submit to the Public Accounts Committee of the Parliament a report of the accounts audited by him or her under subsection (1) for the immediately preceding financial year, and shall send a copy of each report to the Governor, who shall publish the audited accounts and report as soon as practicable.
+
+### PART X — MISCELLANEOUS
+
+#### 127. Powers of pardon, etc
+
+(1) There shall be a Mercy Committee for the Islands comprising the Governor, the Attorney General and not less than two nor more than four other members appointed by the Governor, acting after consultation with the Premier and the Leader of the Opposition.
+
+(2) Any appointment made under subsection (1) may be revoked by the Governor, acting after consultation with the Premier and the Leader of the Opposition.
+
+(3) The Governor may, in Her Majesty’s name and on Her Majesty’s behalf—
+
+- (a) grant to any person convicted of any offence against the law in force in the Islands a pardon, either free or subject to lawful conditions;
+- (b) grant to any person a respite, either indefinite or for a specified period, from the execution of any punishment imposed on him or her for such an offence;
+- (c) substitute a less severe form of punishment for that imposed by any sentence for such an offence; or
+- (d) remit the whole or any part of any sentence passed for such an offence or of any penalty or forfeiture otherwise due to Her Majesty on account of such an offence.
+
+(4) The Governor shall exercise the powers conferred on him or her by subsection (3) after consultation with the Mercy Committee unless in any particular case the matter is in his or her judgement too urgent to permit such consultation, in which case the Governor may act in his or her own judgement.
+
+(5) The Mercy Committee shall not be summoned except by the authority of the Governor, acting in his or her discretion; and the Governor shall preside at all meetings of the Committee.
+
+(6) No business shall be transacted at any meeting of the Mercy Committee unless there are at least three members present, of whom one shall be the Attorney General.
+
+(7) The Mercy Committee shall not be disqualified for the transaction of business by reason of any vacancy in its membership, and the validity of the transaction of any business by the Committee shall not be affected by reason only of the fact that some person who was not entitled to do so took part in its proceedings.
+
+(8) Subject to this section the Mercy Committee may regulate its own procedure.
+
+#### 128. Constitution of offices
+
+Subject to this Constitution and any other law, the Governor, in Her Majesty’s name and on Her Majesty’s behalf, may constitute offices for the Islands.
+
+#### 129. Freedom of information
+
+Subject to this Constitution, a law enacted by the Legislature shall provide for a right of access to information held by public authorities, for the conditions for the exercise of that right, and for restrictions and exceptions to that right in the interests of international relations, the security of the Islands or the United Kingdom, public safety, public order, public morality or the rights or interests of individuals.
+
+#### 130. Local government
+
+Subject to this Constitution, a law enacted by the Legislature shall provide for the establishment and functions of local councils to contribute to effective local government in the Islands.
+
+#### 130A. International Centre for Alternative Dispute Resolution[^key-84e75efe48e84f7683b309b3f67eec24]
+
+(1) There shall be in the Turks and Caicos Islands an International Centre for Alternative Dispute Resolution to offer arbitration and other forms of alternative dispute resolution for international and commercial disputes.
+
+(2) Subject to this Constitution, a law enacted by the Legislature shall provide for the functions, membership of and appointment to the International Centre for Alternative Dispute Resolution.
+
+(3) In the exercise of their functions the International Centre for Alternative Dispute Resolution and its members and appointees shall not be subject to the direction or control of any other person or authority.
+
+#### 130B. Regulation of international financial services
+
+(1) There shall be in the Turks and Caicos Islands an independent body for the regulation of international financial services, governed by suitably qualified and experienced persons appointed by the Governor after consultation with the Premier and the Leader of the Opposition.
+
+(2) Subject to this Constitution, a law enacted by the Legislature shall provide for the functions, membership of and appointment to the independent body referred to in subsection (1).
+
+(3) The independent body referred to in subsection (1) shall make an annual report to the Parliament about its activities, and shall send a copy of each report to the Governor. In making an annual report, the independent body shall consider the need for confidentiality where appropriate.
+
+(4) In the exercise of their functions under this Constitution, the independent body referred to in subsection (1) and its members shall not be subject to the direction or control of any other person or authority.
+
+#### 130C. National crest
+
+(1) There shall continue to be a national crest for the Turks and Caicos Islands.
+
+(2) Subject to this Constitution, a law enacted by the Legislature may provide for the configuration of the national crest referred to in subsection (1) and for any national symbols, including any conditions or restrictions relating to their use.
+
+#### 131. Interpretation
+
+(1) In this Constitution, unless the context otherwise requires—
+
+- “Appropriations Committee” means the Committee established by section 114;
+- “Code of Conduct for Persons in Public Life” means a Code adopted and published by the Integrity Commission under section 102(3)(b);
+- “Court of Appeal” means the Court of Appeal constituted by section 80;
+- “Deputy Speaker” means the member of the Parliament elected by the Parliament as Deputy Speaker under section 44;
+- “financial year” means the period of twelve months beginning on the first day of April in any year or such other day as the Legislature may prescribe by law;
+- “functions” includes powers and duties;
+- “*Gazette*” means the official *Gazette* of the Turks and Caicos Islands;
+- “Government” means the Government of the Turks and Caicos Islands;
+- “Governor” means the person for the time being appointed as Governor of the Islands, and includes any person performing the functions of the Governor in pursuance of section 26 and, to the extent to which a person appointed under section 27 is authorised to act, that person;
+- “high judicial office” means the office of judge of a court having unlimited jurisdiction in civil and criminal matters in some part of the Commonwealth or Ireland or a court having jurisdiction in appeals from such a court;
+- “institution protecting good governance” means an institution established by section 97(1);
+- “the Islands” means the Turks and Caicos Islands;
+- “law” includes any subsidiary instrument;
+- “Leader of the Opposition” means the person appointed as such under section 56;
+- “Legislature” means, subject to section 72, the Legislature established by section 42;
+- “meeting” in relation to the Parliament means any sitting or sittings of the Parliament commencing when the Parliament first meets after being summoned at any time and terminating when the Parliament is adjourned *sine die* or at the conclusion of a session;
+- “Minister” means a person appointed as Premier or other Minister under section 31;
+- “Minister of Finance” means the Minister for the time being responsible for finance;
+- [^key-64ebec0a503664a2464dd5ad957ab585]...
+- “political party” means a political party formed in accordance with the law enacted by the Legislature[^key-e65c6a530ed5f132ab5a9fec8d838bfe] regulating political parties for the time being in force in the Islands;
+- “Premier” means the person appointed as such under section 31(2);
+- “Public Accounts Committee” means the Committee established by section 122;
+- “public office” means, subject to section 133, an office of emolument in the public service;
+- “public officer” means the holder of any public office, and includes a person appointed to act in any public office;
+- “public service” means the service of the Crown in a civil capacity in respect of the government of the Islands;
+- “[^key-d6bcc45860b97fd0291cd71b03d42c56]**Regiment**” means the Turks and Caicos Islands Regiment established by section 93A;
+- “session” in relation to the Parliament means the sittings of the Parliament commencing when the Parliament first meets after its prorogation or dissolution at any time, and terminating when the Parliament is next prorogued or dissolved without having been prorogued;
+- “sitting” in relation to the Parliament means a period during which the Parliament is sitting continuously without adjournment, and includes any period during which the Parliament is in committee;
+- “Speaker” means the person elected by the Parliament as Speaker under section 44;
+- “Standing Orders” means the Standing Orders of the Parliament made under section 63;
+- “Statement of Governance Principles” means a Statement issued under section 28;
+- “subsidiary instrument” means any proclamation, regulation, order, rule or other like instrument having the force of law;
+- “Supreme Court” means the Supreme Court constituted by section 77;
+- “Turks and Caicos Islander” has the meaning prescribed in section 132(1).
+
+(2) Unless it is otherwise provided or the context otherwise requires, a reference in this Constitution to the holder of an office by the term designating his or her office shall be construed as a reference to any person for the time being lawfully performing the functions of that office.
+
+(3) For the purposes of this Constitution, a person shall not be regarded as absent from the Islands or as unable to perform the functions of his or her office by reason only that he or she is in passage from one part of the Islands to another.
+
+#### 132. Turks and Caicos Islander
+
+(1) For the purposes of this Constitution, a person shall be regarded as a Turks and Caicos Islander if that person—
+
+- (a) had immediately before the commencement of this Constitution the status of Belonger or Turks and Caicos Islander by virtue of any law then in force in the Islands; or
+- (b) has the status of Belonger or Turks and Caicos Islander under any law for the time being in force in the Islands.
+
+(2) A law enacted by the Legislature shall prescribe the conditions under which a person may be granted the status of Turks and Caicos Islander, and (except in the case of a person who has a family connection with a Turks and Caicos Islander) those conditions shall include, but need not be limited to, the conditions set out in subsection (3).
+
+(3) The conditions referred to in subsection (2) are that—
+
+- (a) an applicant is a British overseas territories citizen by virtue of a connection with the Islands or a British citizen who either—
+  - (i) has held a permanent residence certificate for a period of at least five years; or
+  - (ii) has been legally resident in the Islands for a period of at least ten years; and
+- (b) an applicant is neither serving a sentence imposed by a court for an offence against the law in force in any country nor has been adjudged or otherwise declared bankrupt under any law in force in any country and has not been discharged.
+
+#### 133. References to public office
+
+(1) In this Constitution, references to public offices shall not be construed as including—
+
+- (a) references to the office of Speaker, Deputy Speaker or member of the Parliament, Premier or other Minister, Leader of the Opposition, member of the Public Service Commission, the Judicial Service Commission, the Integrity Commission, the Human Rights Commission or the Mercy Committee, or Complaints Commissioner; or
+- (b) except in sections 94 and 96, references to the office of judge of the Supreme Court or the Court of Appeal or magistrate.
+
+(2) For the purposes of this Constitution, a person shall not be considered as holding or acting in a public office by reason only that he or she—
+
+- (a) is in receipt of a pension or other like allowance in respect of service under the Crown; or
+- (b) is on leave of absence pending relinquishment of a public office.
+
+(3) A provision of any law that a person shall not be disqualified for election as a member of the Parliament by reason of his or her holding or acting in any public office or class of public office specified in that law shall have effect as if it were included in this Constitution.
+
+#### 134. Appointments
+
+(1) In this Constitution, unless it is otherwise provided or the context otherwise requires, any reference to power to make appointments to any public office shall be construed as including a reference to power to make appointments on promotion and transfer, appointments on contract and appointments to act in an office during any period when it is vacant or the holder of that office is absent from the Islands or is for any other reason unable to perform the functions of the office.
+
+(2) Where the holder of any office constituted by or under this Constitution is on leave of absence pending the relinquishment of that office, the person or authority having power to make appointments to that office may appoint another person to that office; and where two or more persons concurrently hold the same office by virtue of an appointment made in pursuance of this subsection, the person last appointed shall, in respect of any function conferred on the holder of that office, be deemed to be the sole holder of that office.
+
+(3) Where by this Constitution any person is directed, or power is conferred on any person or authority to appoint a person, to act in an office if the holder of that office is unable to perform the functions of that office, the validity of any performance of those functions by the person so directed or of any appointment made in exercise of that power shall not be called in question in any court on the ground that the holder of the office is not unable to perform the functions of the office.
+
+#### 135. Re-election or reappointment
+
+Any person who has vacated his or her seat in the Parliament or has vacated any office constituted by or under this Constitution may, if qualified, again be elected to the Parliament or appointed to that office, as the case may be, from time to time.
+
+#### 136. Removal from office
+
+In this Constitution, unless it is otherwise provided or the context otherwise requires, any reference to power to remove a public officer from office shall be construed as including a reference to any power conferred by any law to require or permit that officer to retire from the public service and to any power or right to terminate a contract on which a person is employed as a public officer and to determine whether any such contract shall or shall not be renewed.
+
+#### 137. Resignations
+
+For the purposes of this Constitution, the resignation of a member of the Parliament or the holder of any office constituted by this Constitution that is required to be addressed to any person shall, unless otherwise expressly provided, be deemed to have effect from the time at which it is received by that person.
+
+#### 138. Oaths and affirmations
+
+Where a person is required by this Constitution to make an oath he or she shall, if he or she so desires, be permitted to comply with that requirement by making an affirmation in the form provided for in the Schedule to this Constitution.
+
+#### 139. Power to amend or revoke instruments
+
+Any power conferred by this Constitution to make any subsidiary instrument or to give any instructions or directions or make any designation shall be construed as including a power exercisable in like manner to amend or revoke any such instrument, instructions, directions or designation.
+
+### SCHEDULE TO THE CONSTITUTION — FORMS OF OATHS AND AFFIRMATIONS
+
+**1.** Oath of Allegiance
+
+I.......................do swear that I will be faithful and bear true allegiance to Her Majesty Queen Elizabeth the Second, Her Heirs and Successors, according to law. So help me God.
+
+**2.** Oath for the due execution of the office of Governor
+
+I……………......do swear that I will well and truly serve Her Majesty Queen Elizabeth the Second, Her Heirs and Successors in the office of Governor of the Turks and Caicos Islands. So help me God.
+
+**3.** Oath for the due execution of office of a member of the Cabinet
+
+I………………..do swear that I will well and truly serve Her Majesty Queen Elizabeth the Second, Her Heirs and Successors in the office of member of the Cabinet. So help me God.
+
+**4.** Judicial Oath
+
+I………………..do swear that I will well and truly serve Her Majesty Queen Elizabeth the Second, Her Heirs and Successors in the office of…………………and will do right to all manner of people after the laws and usages of the Turks and Caicos Islands, without fear or favour, affection or ill will. So help me God.
+
+**5.** Affirmations
+
+In the forms respectively set forth, for the word “swear” there shall be substituted the words “solemnly and sincerely affirm and declare”, and the words “So help me God” shall be omitted.
+
+## Annotations
+
+[^key-3b9b5b862ef046bbdb09d87f63f7fe45]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2) in force at 15.10.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1681/article/1/2)
+
+[^key-7c9015596df830e10092e2155de9e6e2]: Textual amendment: [Sch. 2 s. 7](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/7) revoked (1.4.2017) by [The Turks and Caicos Islands (Finance) Order 2017 (S.I. 2017/317)](https://www.legislation.gov.uk/uksi/2017/317), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2017/317/article/1/2), [3(1)(a)](https://www.legislation.gov.uk/uksi/2017/317/article/3/1/a) (with [art. 3(2)](https://www.legislation.gov.uk/uksi/2017/317/article/3/2))
+
+[^key-95c2f9ab59d09b15a71a4593b821c70c]: Textual amendment: Words in Sch. 2 substituted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 7(1)](https://www.legislation.gov.uk/uksi/2024/1128/article/7/1) (with [arts. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4), [7(9)](https://www.legislation.gov.uk/uksi/2024/1128/article/7/9))
+
+[^key-153ae12835e76d1975ed02695dcad36c]: Textual amendment: Words in Sch. 2 s. 20(1) substituted (16.3.2017) by [The Emergency Powers (Overseas Territories) Order 2017 (S.I. 2017/181)](https://www.legislation.gov.uk/uksi/2017/181), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/181/article/1/1), [12(2)](https://www.legislation.gov.uk/uksi/2017/181/article/12/2)
+
+[^key-e75180dd9fe08853342f199b3e2b2132]: Textual amendment: Words in Sch. 2 s. 22(1) substituted (16.3.2017) by [The Emergency Powers (Overseas Territories) Order 2017 (S.I. 2017/181)](https://www.legislation.gov.uk/uksi/2017/181), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/181/article/1/1), [12(2)](https://www.legislation.gov.uk/uksi/2017/181/article/12/2)
+
+[^key-892fd363a5f79240b6d9af5e4fac6fa3]: Textual amendment: Word in Sch. 2 substituted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 8(1)](https://www.legislation.gov.uk/uksi/2024/1128/article/8/1) (with [arts. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4), [8(2)](https://www.legislation.gov.uk/uksi/2024/1128/article/8/2))
+
+[^key-ed4f1f12fc7b98574e3423508d61833b]: Textual amendment: Words in Sch. 2 s. 31(1)(c) inserted (coming into force in accordance with art. 1(4) of the amending S.I.) by [The Turks and Caicos Islands Constitution (Amendment) Order 2021 (S.I. 2021/878)](https://www.legislation.gov.uk/uksi/2021/878), [art. 2(2)](https://www.legislation.gov.uk/uksi/2021/878/article/2/2)
+
+[^key-9f544e0d06b892a6dba4868413ba890a]: Textual amendment: Word in [Sch. 2](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2) substituted (coming into force in accordance with art. 1(4) of the amending S.I.) by [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 9(1)](https://www.legislation.gov.uk/uksi/2024/1128/article/9/1) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
+
+[^key-ac06a4e87cf8704314f4e87be5586eb2]: Textual amendment: Sch. 2 s. 31(7) inserted (coming into force in accordance with art. 1(4) of the amending S.I.) by [The Turks and Caicos Islands Constitution (Amendment) Order 2021 (S.I. 2021/878)](https://www.legislation.gov.uk/uksi/2021/878), [art. 2(3)](https://www.legislation.gov.uk/uksi/2021/878/article/2/3)
+
+[^key-24db16d6fff8156a1c2b5f535ab4dbba]: Textual amendment: Words in [Sch. 2 s. 31(7)](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/31/7) substituted (coming into force in accordance with art. 1(4) of the amending S.I.) by [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 9(2)](https://www.legislation.gov.uk/uksi/2024/1128/article/9/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
+
+[^key-965b10f3557e8bdf0c1869d35a4b8617]: Textual amendment: [Sch. 2 s. 31(8)](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/31/8) inserted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 10](https://www.legislation.gov.uk/uksi/2024/1128/article/10) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
+
+[^key-e6b221eb2a5999654a56742273c762ff]: Textual amendment: [Sch. 2 s. 37(1)(c)](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/37/1/c) omitted (coming into force in accordance with art. 1(3) of the amending S.I.) by virtue of [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 11(a)](https://www.legislation.gov.uk/uksi/2024/1128/article/11/a) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
+
+[^key-442afdee8a220ead73d30fbe7ccf10f9]: Textual amendment: Words in [Sch. 2 s. 37(2)](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/37/2) substituted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 11(b)](https://www.legislation.gov.uk/uksi/2024/1128/article/11/b) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
+
+[^key-675ce69335742d24d8b0637f448d1bbd]: Textual amendment: Words in [Sch. 2 s. 37(3)](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/37/3) omitted (coming into force in accordance with art. 1(3) of the amending S.I.) by virtue of [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 11(c)](https://www.legislation.gov.uk/uksi/2024/1128/article/11/c) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
+
+[^key-53bba150cc373f982d4164334050806a]: Textual amendment: [Sch. 2 s. 37(3A)-(3D)](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/37/3A) inserted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 11(d)](https://www.legislation.gov.uk/uksi/2024/1128/article/11/d) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
+
+[^key-ee1b513d4ba5e352ff79ada0a27b8780]: Textual amendment: [Sch. 2 s. 37(7)](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/37/7) inserted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 11(e)](https://www.legislation.gov.uk/uksi/2024/1128/article/11/e) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
+
+[^key-26a41a503a9ff2b0bcd81e249251211a]: Textual amendment: [Sch. 2 s. 40A](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/40A) inserted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 12](https://www.legislation.gov.uk/uksi/2024/1128/article/12) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
+
+[^key-922d79f23e3fbabc8ed0a5867fae5419]: Textual amendment: [Sch. 2 s. 41A](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/41A) inserted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 13](https://www.legislation.gov.uk/uksi/2024/1128/article/13) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
+
+[^key-2847aa9b82055bdd00177d0c4a21f14d]: Textual amendment: Word in [Sch. 2 s. 43(1)(b)](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/43/1/b) substituted (coming into force in accordance with art. 1(4) of the amending S.I.) by [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 9(3)(a)](https://www.legislation.gov.uk/uksi/2024/1128/article/9/3/a) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
+
+[^key-c82970c4924ffd9b668ff8c7200ee808]: Textual amendment: Word in [Sch. 2 s. 43(1)(b)](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/43/1/b) inserted (coming into force in accordance with art. 1(4) of the amending S.I.) by [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 9(3)(b)](https://www.legislation.gov.uk/uksi/2024/1128/article/9/3/b) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
+
+[^key-9b9069f8bef9db387021ae7fb8ca9134]: Textual amendment: [Sch. 2 s. 43(1)(c)](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/43/1/c) omitted (coming into force in accordance with art. 1(4) of the amending S.I.) by virtue of [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 9(3)(c)](https://www.legislation.gov.uk/uksi/2024/1128/article/9/3/c) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
+
+[^key-1d43fd8333655fd21f808faefddbc78d]: Textual amendment: Words in [Sch. 2 s. 44(2)](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/44/2) substituted (coming into force in accordance with art. 1(4) of the amending S.I.) by [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 9(4)](https://www.legislation.gov.uk/uksi/2024/1128/article/9/4) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
+
+[^key-c5a8ac9dfd397f3f3f9411283b4c3992]: Textual amendment: Word in [Sch. 2 s. 45(2)(a)](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/45/2/a) substituted (coming into force in accordance with art. 1(4) of the amending S.I.) by [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 9(5)](https://www.legislation.gov.uk/uksi/2024/1128/article/9/5) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
+
+[^key-cab2cc5508d73f65f2df868c285aff9b]: Textual amendment: Word in [Sch. 2 s. 46(b)](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/46/b) substituted (coming into force in accordance with art. 1(4) of the amending S.I.) by [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 9(6)](https://www.legislation.gov.uk/uksi/2024/1128/article/9/6) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
+
+[^key-ff5f2f162cb4de7d75f673bb87183128]: Textual amendment: [Sch. 2 s. 47](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/47) omitted (coming into force in accordance with art. 1(4) of the amending S.I.) by virtue of [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 9(7)](https://www.legislation.gov.uk/uksi/2024/1128/article/9/7) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
+
+[^key-222538614ff3b6833a0c213d2268fdc8]: Textual amendment: [Sch. 2 s. 48](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/48) omitted (coming into force in accordance with art. 1(4) of the amending S.I.) by virtue of [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 9(7)](https://www.legislation.gov.uk/uksi/2024/1128/article/9/7) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
+
+[^key-e9a307edd3527972b5f57d0716352b27]: Textual amendment: [Sch. 2 s. 49(4)](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/49/4) omitted (coming into force in accordance with art. 1(4) of the amending S.I.) by virtue of [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 9(8)(a)](https://www.legislation.gov.uk/uksi/2024/1128/article/9/8/a) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
+
+[^key-ba131c830999bcf1368b513fcc800b62]: Textual amendment: [Sch. 2 s. 49(5)(6)](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/49/5/6) inserted (coming into force in accordance with art. 1(4) of the amending S.I.) by [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 9(8)(b)](https://www.legislation.gov.uk/uksi/2024/1128/article/9/8/b) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
+
+[^key-d270e3c90599e42fdee5e882ffa1138e]: Textual amendment: [Sch. 2 s. 51(5)](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/51/5) omitted (coming into force in accordance with art. 1(4) of the amending S.I.) by virtue of [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 9(9)](https://www.legislation.gov.uk/uksi/2024/1128/article/9/9) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
+
+[^key-e656b7fd0afc7818b2cdce38aa8926fe]: Textual amendment: Words in Sch. 2 s. 53(3) omitted (coming into force in accordance with art. 1(4) of the amending S.I.) by virtue of [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 9(10)](https://www.legislation.gov.uk/uksi/2024/1128/article/9/10) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
+
+[^key-6f81193b7f18c641ff78ab9e7a781e38]: Textual amendment: Word in [Sch. 2 s. 57(3)](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/57/3) substituted (coming into force in accordance with art. 1(4) of the amending S.I.) by [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 14](https://www.legislation.gov.uk/uksi/2024/1128/article/14) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
+
+[^key-081f3fb930108051ac673371eafe6986]: Textual amendment: [Sch. 2 s. 59(3)](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/59/3) omitted (coming into force in accordance with art. 1(4) of the amending S.I.) by virtue of [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 9(11)](https://www.legislation.gov.uk/uksi/2024/1128/article/9/11) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
+
+[^key-4bdd833560631ad25520ebb57252a67f]: Textual amendment: Words in [Sch. 2 s. 60(2)(a)](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/60/2/a) inserted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 15(1)(a)](https://www.legislation.gov.uk/uksi/2024/1128/article/15/1/a) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
+
+[^key-5e54de87d93d769b6789c2d0f22ed3db]: Textual amendment: Words in [Sch. 2 s. 60(2)(b)](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/60/2/b) substituted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 15(1)(b)](https://www.legislation.gov.uk/uksi/2024/1128/article/15/1/b) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
+
+[^key-3586a521eb6b64ddf65c33cfaf13dcf1]: Textual amendment: Words in [Sch. 2 s. 60(2)(c)](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/60/2/c) omitted (coming into force in accordance with art. 1(3) of the amending S.I.) by virtue of [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 15(1)(c)](https://www.legislation.gov.uk/uksi/2024/1128/article/15/1/c) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
+
+[^key-41ee10c0ca82ae9a4f0324fa27a9b284]: Textual amendment: [Sch. 2 s. 61(5)-(7)](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/61/5) inserted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 15(2)](https://www.legislation.gov.uk/uksi/2024/1128/article/15/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
+
+[^key-edc8f2ba13fbf14b5abcfe5490eb11de]: Textual amendment: [Sch. 2 s. 62A](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/62A) inserted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 16](https://www.legislation.gov.uk/uksi/2024/1128/article/16) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
+
+[^key-39a8574abe2a408c4c3a88bf70c8ec72]: Textual amendment: Words in Sch. 2 s. 63(1) omitted (coming into force in accordance with art. 1(3) of the amending S.I.) by virtue of [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 17](https://www.legislation.gov.uk/uksi/2024/1128/article/17) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
+
+[^key-01c96679b3945f6eceb98777b705644c]: Textual amendment: [Sch. 2 s. 72(4)](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/72/4) inserted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 7(2)](https://www.legislation.gov.uk/uksi/2024/1128/article/7/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
+
+[^f00006]: Footnote: [1978 c.30](https://www.legislation.gov.uk/ukpga/1978/30).
+
+[^key-f6987f4db91bd92ea9a353c0602a00ff]: Textual amendment: Words in [Sch. 2 s. 75(3)](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/75/3) inserted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 23(1)](https://www.legislation.gov.uk/uksi/2024/1128/article/23/1) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
+
+[^f00007]: Footnote: Ordinance No. 5 of 1997.
+
+[^key-1355eae2a3b7e845a86dd704b49e5f9c]: Textual amendment: [Sch. 2 s. 77(6)(7)](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/77/6/7) inserted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 18](https://www.legislation.gov.uk/uksi/2024/1128/article/18) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
+
+[^f00008]: Footnote: [1833 c.41](https://www.legislation.gov.uk/ukpga/1833/41).
+
+[^f00009]: Footnote: Ordinance No. 7 of 1986.
+
+[^key-d6ac63b89091ba393d66900672323ae5]: Textual amendment: Words in [Sch. 2 Pt. 6](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/part/6) heading inserted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 23(4)](https://www.legislation.gov.uk/uksi/2024/1128/article/23/4) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
+
+[^key-fa07c378f734204a3f474c73f0822d7c]: Textual amendment: Word in [Sch. 2 s. 89(2)](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/89/2) substituted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 23(2)](https://www.legislation.gov.uk/uksi/2024/1128/article/23/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
+
+[^key-225e3703b073d69b4006a1e4098151e8]: Textual amendment: Word in [Sch. 2 s. 91(2)(e)](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/91/2/e) omitted (coming into force in accordance with art. 1(3) of the amending S.I.) by virtue of [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 19(1)(a)](https://www.legislation.gov.uk/uksi/2024/1128/article/19/1/a) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
+
+[^key-6938ac84a19ca1f2dd307673dbe1ea07]: Textual amendment: Word in [Sch. 2 s. 91(2)(f)](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/91/2/f) substituted for full stop (coming into force in accordance with art. 1(3) of the amending S.I.) by [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 19(1)(b)](https://www.legislation.gov.uk/uksi/2024/1128/article/19/1/b) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
+
+[^key-545c03d2c0ef87909a8a37715119e800]: Textual amendment: [Sch. 2 s. 91(2)(g)](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/91/2/g) inserted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 19(1)(c)](https://www.legislation.gov.uk/uksi/2024/1128/article/19/1/c) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
+
+[^key-25a00466f2fbd0ee1cd108a3f7d5415e]: Textual amendment: [Sch. 2 ss. 93A-93C](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/93A) inserted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 20](https://www.legislation.gov.uk/uksi/2024/1128/article/20) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
+
+[^key-2e8afdb94e0ca5b221d32254eda285b4]: Textual amendment: Word in [Sch. 2 s. 97(1)(e)](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/97/1/e) omitted (coming into force in accordance with art. 1(3) of the amending S.I.) by virtue of [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 21(1)(a)](https://www.legislation.gov.uk/uksi/2024/1128/article/21/1/a) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
+
+[^key-90b17c6950c4684f48a34155c699ec5d]: Textual amendment: Word in [Sch. 2 s. 97(1)(f)](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/97/1/f) substituted for full stop (coming into force in accordance with art. 1(3) of the amending S.I.) by [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 21(1)(b)](https://www.legislation.gov.uk/uksi/2024/1128/article/21/1/b) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
+
+[^key-eb77d0b5a06bd11081db8415f0809c7f]: Textual amendment: [Sch. 2 s. 97(1)(g)](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/97/1/g) inserted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 21(1)(c)](https://www.legislation.gov.uk/uksi/2024/1128/article/21/1/c) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
+
+[^key-dd4eca7e663fe4ccd405915808803e70]: Textual amendment: Words in [Sch. 2 s. 97(2)](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/97/2) substituted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 21(1)(d)](https://www.legislation.gov.uk/uksi/2024/1128/article/21/1/d) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
+
+[^key-2974383396c87bdcd2f4f7d3448b2721]: Textual amendment: Words in [Sch. 2 s. 97(4)](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/97/4) substituted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 7(4)](https://www.legislation.gov.uk/uksi/2024/1128/article/7/4) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
+
+[^key-d197916f2f21abb2d0dfe09e58cd9d14]: Textual amendment: [Sch. 2 s. 97(5)](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/97/5) inserted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 21(1)(e)](https://www.legislation.gov.uk/uksi/2024/1128/article/21/1/e) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
+
+[^key-964c91751000eceb2ad4fda33fd72031]: Textual amendment: Words in [Sch. 2 s. 98(3)(b)](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/98/3/b) substituted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 7(5)](https://www.legislation.gov.uk/uksi/2024/1128/article/7/5) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
+
+[^key-075ec73f8a98ba73bea9678014c5f714]: Textual amendment: Words in [Sch. 2 s. 99(4)](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/99/4) substituted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 7(5)](https://www.legislation.gov.uk/uksi/2024/1128/article/7/5) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
+
+[^key-4437c328a785b56b4e45d88a8e868bf6]: Textual amendment: Words in [Sch. 2 s. 99(4)](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/99/4) substituted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 7(6)](https://www.legislation.gov.uk/uksi/2024/1128/article/7/6) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
+
+[^key-aa9c099ed6d8c5c674ba8618f2bad1d0]: Textual amendment: [Sch. 2 s. 101(5)](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/101/5) omitted (coming into force in accordance with art. 1(3) of the amending S.I.) by virtue of [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 21(2)](https://www.legislation.gov.uk/uksi/2024/1128/article/21/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
+
+[^key-cd37b654fe970141182b4357a0685a62]: Textual amendment: Words in [Sch. 2 s. 102(3)(b)](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/102/3/b) substituted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 7(5)](https://www.legislation.gov.uk/uksi/2024/1128/article/7/5) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
+
+[^key-13b5c73b7c7d5a1a5defdfed6c8b83f4]: Textual amendment: [Sch. 2 s. 102(4)](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/102/4) omitted (coming into force in accordance with art. 1(3) of the amending S.I.) by virtue of [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 21(2)](https://www.legislation.gov.uk/uksi/2024/1128/article/21/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
+
+[^key-64eea8deeb38ccafa04b9a962a8d9eea]: Textual amendment: Words in [Sch. 2 s. 104(2)](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/104/2) substituted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 7(5)](https://www.legislation.gov.uk/uksi/2024/1128/article/7/5) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
+
+[^key-964d58b0f96aa77cd7fdcebb46dba33f]: Textual amendment: [Sch. 2 s. 104A](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/104A) inserted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 21(3)](https://www.legislation.gov.uk/uksi/2024/1128/article/21/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
+
+[^key-7797449f177a9a338b3b82ba4b39e522]: Textual amendment: Words in [Sch. 2 s. 105(3)](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/105/3) substituted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 7(3)](https://www.legislation.gov.uk/uksi/2024/1128/article/7/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
+
+[^key-c8ee47da237edb3dae112dac5162d551]: Textual amendment: Words in [Sch. 2 s. 109(5)(b)](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/109/5/b) substituted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 7(5)](https://www.legislation.gov.uk/uksi/2024/1128/article/7/5) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
+
+[^key-91b990482d1f68b556689aec7533453e]: Textual amendment: Words in Sch. 2 s. 110(2) substituted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 7(4)](https://www.legislation.gov.uk/uksi/2024/1128/article/7/4) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
+
+[^key-6ff4f34706fc73662a18ac3231a052bc]: Textual amendment: Words in [Sch. 2 s. 113(1)(b)](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/113/1/b) substituted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 7(3)](https://www.legislation.gov.uk/uksi/2024/1128/article/7/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
+
+[^key-68839926756ea568b0ddbb93ee5a8b97]: Textual amendment: Words in [Sch. 2 ss. 113(3)](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/113/3), [(4)](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/113/4) substituted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 7(3)](https://www.legislation.gov.uk/uksi/2024/1128/article/7/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
+
+[^key-77c13aca46982670a181824e6f7e3417]: Textual amendment: Words in [Sch. 2 s. 113(4)(b)](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/113/4/b) substituted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 7(4)](https://www.legislation.gov.uk/uksi/2024/1128/article/7/4) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
+
+[^key-8357d86937fe24156dab38dece54ee21]: Textual amendment: Words in [Sch. 2 s. 116(1)](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/116/1) substituted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 7(5)](https://www.legislation.gov.uk/uksi/2024/1128/article/7/5) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
+
+[^key-9974f6147f296a1beff034700fbbc5a3]: Textual amendment: Words in [Sch. 2 s. 116(2)](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/116/2) substituted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 7(3)](https://www.legislation.gov.uk/uksi/2024/1128/article/7/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
+
+[^key-ede9d7dce5aa1f49f75f2324d8579603]: Textual amendment: Words in [Sch. 2 s. 116(2)](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/116/2) substituted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 7(4)](https://www.legislation.gov.uk/uksi/2024/1128/article/7/4) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
+
+[^key-1123c52ec1da262c66465c3cf0665565]: Textual amendment: Words in [Sch. 2 s. 117(1)](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/117/1) substituted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 7(3)](https://www.legislation.gov.uk/uksi/2024/1128/article/7/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
+
+[^key-f460647fa507b73ef6240e28ea2aa527]: Textual amendment: Words in [Sch. 2 s. 118(1)](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/118/1) substituted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 7(3)](https://www.legislation.gov.uk/uksi/2024/1128/article/7/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
+
+[^key-7fd7b64663a9b840173a27fd910cec4d]: Textual amendment: Words in [Sch. 2 s. 118(3)](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/118/3) substituted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 7(5)](https://www.legislation.gov.uk/uksi/2024/1128/article/7/5) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
+
+[^key-5264a7e9ec156d762420db7a9d8ca2da]: Textual amendment: Words in [Sch. 2 s. 124(2)](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/124/2) substituted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 7(7)](https://www.legislation.gov.uk/uksi/2024/1128/article/7/7) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
+
+[^key-edff6c519e0ed3643c2406c6664e66b1]: Textual amendment: Words in [Sch. 2 s. 125(5)](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/125/5) inserted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 19(2)](https://www.legislation.gov.uk/uksi/2024/1128/article/19/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
+
+[^key-51878d364f01733d500109b1347c3280]: Textual amendment: Words in [Sch. 2 s. 125(6)](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/125/6) substituted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 7(4)](https://www.legislation.gov.uk/uksi/2024/1128/article/7/4) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
+
+[^key-a46b5eea66bd5629cfc30ff4bd71772c]: Textual amendment: Words in [Sch. 2 s. 126(1)](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/126/1) substituted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 7(5)](https://www.legislation.gov.uk/uksi/2024/1128/article/7/5) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
+
+[^key-84e75efe48e84f7683b309b3f67eec24]: Textual amendment: [Sch. 2 ss. 130A-130C](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/130A) inserted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 22](https://www.legislation.gov.uk/uksi/2024/1128/article/22) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
+
+[^key-64ebec0a503664a2464dd5ad957ab585]: Textual amendment: Words in [Sch. 2 s. 131(1)](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/131/1) omitted (coming into force in accordance with art. 1(3) of the amending S.I.) by virtue of [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 7(8)(a)](https://www.legislation.gov.uk/uksi/2024/1128/article/7/8/a) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
+
+[^key-e65c6a530ed5f132ab5a9fec8d838bfe]: Textual amendment: Words in [Sch. 2 s. 131(1)](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/131/1) substituted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 7(8)(b)](https://www.legislation.gov.uk/uksi/2024/1128/article/7/8/b) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
+
+[^key-d6bcc45860b97fd0291cd71b03d42c56]: Textual amendment: Words in [Sch. 2 s. 131](https://www.legislation.gov.uk/uksi/2011/1681/schedule/2/section/131) inserted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 23(3)](https://www.legislation.gov.uk/uksi/2024/1128/article/23/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))

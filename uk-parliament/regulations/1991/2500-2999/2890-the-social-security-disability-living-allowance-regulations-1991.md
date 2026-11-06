@@ -1,0 +1,1446 @@
+---
+title: The Social Security (Disability Living Allowance) Regulations 1991
+id: uksi/1991/2890
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '1991-12-18'
+text_date: '2026-04-06'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/uksi/1991/2890
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1991/2890/pdfs/uksi_19912890_301114_en.pdf
+- http://www.legislation.gov.uk/uksi/1991/2890/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Social Security (Disability Living Allowance) Regulations 1991
+
+> Text as at 2026-04-06.
+>
+> Extent: England, Wales, Scotland.
+
+*Extent: E+W+S*
+
+1991 No. 2890
+
+SOCIAL SECURITY
+
+The Social Security (Disability Living Allowance) Regulations 1991
+
+Made
+
+18th December 1991
+
+Coming into force
+
+6th April 1992
+
+Whereas a draft of this instrument was laid before Parliament in accordance with section 12(1) of the Disability Living Allowance and Disability Working Allowance Act 1991[^c1852698] and approved by resolution of each House of Parliament;
+
+Now therefore the Secretary of State for Social Security, in exercise of the powers conferred by sections 37ZA(6), 37ZB(2), (3), (7) and (8), 37ZC, 37ZD, 37ZE(2), 85(1), 114(1) and 166(2) to (3A) of and Schedule 20 to the Social Security Act 1975[^c1852699], section 13 of the Social Security (Miscellaneous Provisions) Act 1977[^c1852700] and section 5(1) of the Disability Living Allowance and Disability Working Allowance Act 1991, and of all other powers enabling him in that behalf, by this instrument, which contains only regulations made consequential upon section 1 of the Disability Living Allowance and Disability Working Allowance Act 1991, hereby makes the following Regulations:
+
+## PART I — INTRODUCTION
+
+### 1. Citation, commencement and interpretation
+
+(1) These Regulations may be cited as the Social Security (Disability Living Allowance) Regulations 1991 and shall come into force on 6th April 1992.
+
+(2) In these Regulations–
+
+- “the Act” means the Social Security Contributions and Benefits Act 1992[^key-7fc27fdfafa137b00675dd70f0d535e1]
+- “the Administration Act” means the Social Security Administration Act 1992;[^key-0a04c95a5b665c9b8d56abb3b74ff308]
+- “the 1998 Act” means the Social Security Act 1998[^key-40f32622161a5d222232728203f188d1]
+- “the NHS Act of 1978” means the National Health Service (Scotland) Act 1978 [^c1852703] ;
+- “the[^key-6114df1dbd2e3d6c2037c7fdc50fabf0] NHS Act of 2006” means the National Health Service Act 2006;
+- “the NHS (Wales) Act of 2006” means the National Health Service (Wales) Act 2006
+- “[^key-437c140e89d8c372363b0b5c5cd7e557]**the Claims and Payments Regulations**” means the Social Security (Claims and Payments) Regulations 1987;
+- “adjudicating authority” means, as the case may require, the Secretary of State,[^key-30f3e46422c90a033263ce5b13d2ed28] the First-tier Tribunal or the Upper Tribunal[^key-6354b38981160bcf5b9c08c3cae3b9e3];
+- “care component” means the care component of a disability living allowance;
+- “child disability payment” has the meaning given in regulation 2 of the Disability Assistance for Children and Young People (Scotland) Regulations 2021;[^key-a41b67e058ab589901e5d74a519de0ef]
+- “mobility component” means the mobility component of a disability living allowance;
+- “[^key-d7024295b7459b420e414306d395205c]**the residence change date**”, in relation to a person, means the date on which the person becomes permanently resident in Scotland (whether or not the Secretary of State is notified of the move and whether or not any such notification takes place before or after the person moves to Scotland);
+- “**the run-on period**” has the meaning given in paragraph (6);
+- “ *(Extent: E+W)*[^key-ce4b21e176238e6de1f1ab280f8b37c4]**Scottish adult disability living allowance” *(Extent: E+W)*** has the meaning given in regulation 2 of the Disability Assistance (Scottish Adult Disability Living Allowance) Regulations 2025; *(Extent: E+W)*
+- “terminally ill” shall be construed in accordance with section 66(2) of the Act[^key-6e62decb01fd162d87294f771d5699ab] .
+
+(3) Unless the context otherwise requires, any reference in these Regulations to a numbered regulation or Schedule is a reference to the regulation or Schedule bearing that number in these Regulations and any reference in a regulation or Schedule to a numbered paragraph is a reference to the paragraph of that regulation or Schedule bearing that number.
+
+(4)[^key-58c80dcd14c25030f3dcaf363f09c883] With effect from 6th December 2018, any reference in these Regulations to—
+
+- (a) “age 65 or over”, “the age of 65 years”, “the age of 65”, “65” and “age 65 and over” shall be construed as a reference to “pensionable age”;
+- (b) “aged 65 or over” and “aged 65 and over” shall be construed as a reference to “of pensionable age”; and
+- (c) “his 65 <sup>th</sup> birthday” shall be construed as a reference to “the day on which he attained pensionable age”.
+
+(5) For the purpose of paragraph (4), “pensionable age” has the meaning given by the rules in paragraph 1 of Schedule 4 to the Pensions Act 1995.
+
+(6)[^key-6df2484d3bbd7ef01babdeec0254515e] “**The run-on period**”, in relation to a person, is the period—
+
+- (a) beginning with the residence change date, and
+- (b) ending at the end of the day preceding the first pay day following the end of the relevant period (irrespective of whether or not the person’s disability living allowance is payable in that particular week)[^key-cc04302d8b994d17864abf8a65ea11cb].
+
+(7) For the purposes of paragraph (6)—
+
+- (a) “**pay day**” means the day of the week on which the person’s disability living allowance is payable in accordance with paragraph 1 of Schedule 6 to the Claims and Payments Regulations[^key-a7af3aaade10b1c2bed4725c865dac37];
+- (b) “**the relevant period**” means the period of 13 weeks beginning with the residence change date.
+
+### 1ZA. Regulations 2 and 2ZA: the status condition and the award condition[^key-9686245c48b2597cfc32250e789f63e2][^key-1760e1bbf74cb524555d55f56b2bdb56]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 1A. Disapplication of section 1(1A) of the Administration Act[^key-fd3e77af1c41b72d30f352d4fe49df67]
+
+Section 1(1A) of the Administration Act (requirement to state national insurance number) shall not apply—
+
+- (a) to a person under the age of 16;
+- (b) to any claim for disability living allowance made or treated as made before 9th February 1998.
+
+## PART II — GENERAL
+
+### 2. Conditions as to residence and presence in Great Britain
+
+(1) Subject to the following provisions of this regulation and[^key-f5df5ae56d7234006fcb551bcca4ea92] regulations 2ZA, 2ZB, 2A[^key-c6e759cc386dd8d36d79fe0506ab9aa1] , 2B and 2C[^key-38b24037d115b886485152994fccd9fb], the prescribed conditions for the purposes of section 71[^key-02979cea04ae6be824fc5b06dd1b2528](6) of the Act as to residence and presence in Great Britain in relation to any person on any day shall be that–
+
+- (a) on that day–
+  - (i) he is habitually[^key-e43172954a7586ee34f1395d5222998c] resident in the United Kingdom, the Republic of Ireland, the Isle of Man or the Channel Islands[^key-8b6452bedfc662a19fe468be9193a723]; and
+  - (ib)[^key-60d1c095ecd470866467f40c452d3b63] he is not a person subject to immigration control within the meaning of section 115(9) of the Immigration and Asylum Act 1999 or section 115 of that Act does not apply to him for the purposes of entitlement to disability living allowance by virtue of regulation 2 of the Social Security (Immigration and Asylum) Consequential Amendments Regulations 2000, and
+  - (ii) he is present in England and Wales[^key-7989b8e06706ffdf7bb160497e735531]; and
+  - (iii) he has been present in Great Britain for a period of, or for periods amounting in the aggregate to, not less than 104[^key-91810d9e6c6e9e7c0da9d14a66a03918] weeks in the 156[^key-edc4238c1ebe74a14a5cd26f25ead7b0] weeks immediately preceding that day; [^key-809f029b22b779f5af8d4b654414c232]...
+- (b)[^key-7c66ad3352a5d6b5ca8b1b17db03866a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(1ZZA)[^key-5fe487d8cd214b97ee9550c042e67497] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(1A)[^key-bf6318b006818967447bc282cfefc0c1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(1ZA)[^key-33c3ee5d1e304af963c29b9370260068] A person to whom regulation 36(1) of the Disability Assistance for Children and Young People (Scotland) Regulations 2021 applies shall be treated for the period set out in that regulation as though he does not satisfy the condition in paragraph (1)(a)(i) of this regulation.
+
+(1ZB)[^key-a3fdec8278f1544cc7b046881e451360] A person to whom regulation 53(1) of the Disability Assistance for Working Age People (Scotland) Regulations 2022 applies shall be treated for the period set out in that regulation as though he does not satisfy the condition in paragraph (1)(a)(i) of this regulation.
+
+*Extent: E+W*
+
+(1ZC)[^key-34b285d531f76ba85cdc373da62056b0] A person to whom regulation 48(1) of the Disability Assistance (Scottish Adult Disability Living Allowance) Regulations 2025 applies shall be treated for the period set out in that regulation as though he does not satisfy the condition in paragraph (1)(a)(i) of this regulation.
+
+(2) For the purposes of paragraph (1)(a)(ii) and (iii), notwithstanding that on any day a person is absent from Great Britain, he shall be treated as though he was present in the relevant area[^key-751589314f63567d6e3a9c0da9b7a172] if his absence from Great Britain[^key-c310fdac8723d6c79b997ad34436a493] is by reason only of the fact that on that day–
+
+- (a) he is abroad in his capacity as–
+  - (i) a serving member of the forces,
+  - (ii) an airman or mariner within the meaning of regulations 111 and 115[^key-ca59a227e873488d14e04aec4135f001] respectively of the Social Security (Contributions) Regulations 2001,
+
+  and for the purpose of this provision, the expression “serving members of the forces” has the same meaning as in regulation 1(2) of the Regulations of 2001[^key-f1a62553aefccfc8e904e901c3b83ecf]; or
+- (b) he is in employment prescribed for the purposes of section 120[^key-da89fbbffe8abd23f15536713abab557] of the Act in connection with continental shelf operations [^c1852707]; or
+- (c) he is living with a person mentioned in sub-paragraph (a)(i) and is the spouse, civil partner,[^key-c5725c690c4bf7098bb4bfe1d9a2eff1] son, daughter, step-son, step-daughter, father, father-in-law, step-father, mother, mother-in-law or step-mother of that person; or
+- (d)[^key-d590a8d165403ec9f85818cdb1dbd8a1] he is temporarily absent from Great Britain and that absence has not lasted for a continuous period exceeding 13 weeks.
+- (e)[^key-1503070557621a8354ad91f1d4bca36e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2A)[^key-dae96ff78cbc3f65912cf1e6a3a96bea] Where a person (“**P**”) is required for the purposes of paragraph (1)(a)(ii) to be present in England and Wales, even though P is absent from England and Wales on any day, P is to be treated as though P were present in England and Wales on that day if—
+
+- (a) P’s absence on that day is by reason only of the fact that P is temporarily absent from England and Wales; and
+- (b) P is present in Scotland.
+
+(3)[^key-297b080a8eb0ce0c89739e431dcc99dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3A)[^key-f8a19b2dda16679ce8726280b1967188] A person shall be treated as habitually resident in Great Britain for the purpose of paragraph (1)(a)(i) where—
+
+- (a) he is resident outside Great Britain in his capacity as a serving member of the forces and for this purpose “serving member of the forces” has the meaning given in regulation 1(2) of the Social Security (Contributions) Regulations 2001; or
+- (b) he is living with a person mentioned in paragraph (a) and is the spouse, civil partner, son, daughter, step-son, step-daughter, father, father-in-law, step-father, mother, mother-in-law or step-mother of that person.
+
+(3B)[^key-865c3f77c23af3ec72c380fc1b996574] Where a person is temporarily absent from Great Britain, he is treated as present in the relevant area[^key-5d11db5ed2e1ebc2311c16c3ba994acf] for the purposes of paragraph (1)(a)(ii) and (iii) for the first 26 weeks of that absence, where—
+
+- (a) this absence is solely in connection with arrangements made for the medical treatment of him for a disease or bodily or mental disablement which commenced before he left Great Britain; and
+- (b) the arrangements referred to in sub-paragraph (a) relate to medical treatment–
+  - (i) outside Great Britain,
+  - (ii) during the period whilst he is temporarily absent from Great Britain, and
+  - (iii) by, or under the supervision of, a person appropriately qualified to carry out that treatment, and
+
+- “medical treatment” means medical, surgical or rehabilitative treatment (including any course or diet or regimen), and references to a person receiving or submitting to medical treatment are to be construed accordingly.
+
+(3BA)[^key-a7283c4ff2a9b1b346d0bac8fde50d49] In this regulation[^key-64e492a39b128fb5cd99693c0efa0704] and (3B) *(Extent: S)* *(affected by repeal, see note)*[^key-41d7fe40dba9eeec3480cec8c23680f9] , (3B), (3F) and (3G) *(Extent: S)*, “**the relevant area**” means—
+
+- (a) for the purposes of paragraph (1)(a)(ii), England and Wales[^key-9c620a1c320d85633167873e45d945b0];
+- (b) for the purposes of paragraph (1)(a)(iii), Great Britain.
+
+(3C)[^key-7b29a67077bc50ef16855ad9aa5f65a1] For the purpose of paragraph (2)(d) , (3B) and (3F) *(Extent: S)*[^key-c2a65d46d69fa46fdc45d22b16084b2f] , (3B) and (3D) *(Extent: E+W)*[^key-715be4dbdbb496f901eb7acb69a725c4] a person is “temporarily absent” only if[^key-7ba61153feb7b6277c0ab759ba690113], at the beginning of the period of absence, that absence is unlikely to exceed 52 weeks.
+
+*Extent: E+W*
+
+(3D)[^key-f8c89f87b49518774d217f3c04c96207] Where a person is temporarily absent from Great Britain, he is treated as present in the relevant area for the purposes of paragraph (1)(a)(ii) and (iii) for the first 26 weeks of that absence, where—
+
+- (a) that person was present in a country or territory outside Great Britain immediately before His Majesty’s Government—
+  - (i) provided public information to advise British nationals to leave that country or territory, or
+  - (ii) arranged the evacuation of British nationals from that country or territory;
+- (b) the Secretary of State is satisfied that it would be unreasonable to expect the person to return, or to have returned, to Great Britain; and
+- (c) the person did not enter that country or territory when His Majesty’s Government’s public information was to advise British nationals to leave that country or territory.
+
+(3E (Extent: E+W)) Where a person is temporarily absent from Great Britain in the circumstances specified in paragraphs (2)(d), (3B) or (3D), the total period of an absence where the person is treated as present in *(Extent: E+W)* Great Britain *(Extent: E+W)* *(affected by repeal, see note)*[^key-b7096e4586e15ad2a0b3c55ce76f69b9] *(Extent: E+W)* the relevant area *(Extent: E+W)* *(Extent: E+W)* will not exceed 26 weeks. *(Extent: E+W)*
+
+*Extent: S*
+
+(3F)[^key-d89bc7d4888d4e2d1b2b90be767d8f9b] Where a person is temporarily absent from Great Britain, they are treated as present in the relevant area for the purposes of paragraph (1)(a)(ii) and (iii) for the first 26 weeks of that absence, where—
+
+- (a) that person was present in a country or territory outside Great Britain immediately before His Majesty’s Government—
+  - (i) provided public information to advise British nationals to leave that country or territory, or
+  - (ii) arranged the evacuation of British nationals from that country or territory,
+- (b) the Scottish Ministers are satisfied that it would be unreasonable to expect the person to return, or to have returned, to Great Britain, and
+- (c) the person did not enter that country or territory when His Majesty’s Government’s public information was to advise British nationals to leave that country or territory.
+
+(3G (Extent: S)) Where a person is temporarily absent from Great Britain in the circumstances specified in paragraph (2)(d), (3B) or (3F), the total period of an absence where the person is treated as present in the relevant area will not exceed 26 weeks. *(Extent: S)*
+
+(4) Where a person is terminally ill and–
+
+- (a) makes a claim for disability living allowance; or
+- (b) an application is made for a revision under section 9 of the[^M_F_ec74a33f-f99c-4eec-a80b-113663f14642] 1998 Act or supersession under section 10 of that Act of his award of disability living allowance, expressly on the ground that he is such a person, paragraph (1) shall apply to him as if head (iii) of sub-paragraph (a) was omitted.
+
+(5) Paragraph (1) shall apply in the case of a child under the age of 6 months as if in head (iii) of sub-paragraph (a) for the reference to 104[^key-3e42ef51fecfe8f453747aae5f50fbdc] weeks there was substituted a reference to 13 weeks.
+
+(6) Where in any particular case a child has by virtue of paragraph (5), entitlement to the care component immediately before the day he attains the age of 6 months, then until the child attains the age of 12 months, head (iii) of sub-paragraph (a) of paragraph (1) shall continue to apply in his case as if for the reference to 104[^key-15bddadbe8ae91d478fee541a1910ce1] weeks there was substituted a reference to 13 weeks.
+
+(7)[^key-01c25bc95fb80bc42685dcbe74d010d7] Paragraph (1) shall apply in the case of a child who is over the age of 6 months but who has not exceeded the age of 36 months as if in head (iii) of sub-paragraph (a) for the reference to 104 weeks there was substituted a reference to 26 weeks.
+
+### 2ZA. Persons who are entitled to disability living allowance: effect of move to Scotland[^key-af94fa1a9e5084dcddc02720f0397ac6]
+
+(1) This regulation applies where a person becomes permanently resident in Scotland on or after 23rd February 2026.
+
+(2) If, on the day before the residence change date, a person is entitled to disability living allowance, the person is, insofar as they are not present in England and Wales on or after the residence change date, to be treated as present in England and Wales for the purposes of regulation 2(1)(a)(ii) for the duration of the run-on period.
+
+(3) If, on the day before the residence change date—
+
+- (a) the person has an award of disability living allowance which is for a fixed term period, and
+- (b) that fixed term period is due to expire before the end of the run-on period,
+
+the fixed term period is extended so that it expires at the same time as the run-on period.
+
+### 2ZB. Persons with an ongoing claim for disability living allowance: effect of move to Scotland[^key-2a07b1aa64a52786fe9de9eec3c173e7]
+
+(1)[^key-3655e76238a763335b93eca6fd409a73] Where a person satisfies the conditions in paragraph (2), the Secretary of State must comply with the requirement in paragraph (3).
+
+(2) The conditions mentioned in paragraph (1) are, subject to paragraph (2B), that the person—
+
+- (a) has an ongoing claim for disability living allowance on the residence change date,
+- (b) becomes permanently resident in Scotland on or after 23rd February 2026, and
+- (c) is, or in accordance with regulation 2 is treated for the purposes of regulation 2(1)(a)(ii) as being, present in England and Wales—
+  - (i) on the day on which the person makes the claim, and
+  - (ii) on the day before the residence change date.
+
+(2A)[^key-9a4d9c2f4016ecf202a36fc87d5098c6] For the purposes of paragraph (2)(a), a person has an ongoing claim for disability living allowance on the residence change date if, before that date, the claim for disability living allowance has not—
+
+- (a) been decided by the Secretary of State under section 8 of the 1998 Act,
+- (b) been withdrawn in accordance with regulation 5(2) of the Claims and Payments Regulations, or
+- (c) otherwise ceased to be under consideration before being decided by the Secretary of State under section 8 of the 1998 Act.
+
+(2B) Where the day referred to in paragraph (i) or (ii) of paragraph (2)(c) is before 23rd February 2026, the condition in that paragraph is to be read to the effect that the person must be present in England and Wales, or treated for the purposes of regulation 2(1)(a)(ii) as being present in Great Britain, on that day.
+
+(3) The requirement mentioned in paragraph (1) is that the[^key-16c6425af610393dda77f5468d5a8e12] Secretary of State must make a decision under section 8 of the 1998 Act on the person's[^key-a3484b639f5153ed318b6cb79fb6be0d] claim for disability living allowance, unless the person withdraws the claim in accordance with regulation 5(2) of the Claims and Payments Regulations.
+
+(4) For the purposes of the Secretary of State making such a decision, regulation 2(1)(a)(ii) applies as if for “England and Wales” there were substituted “Great Britain”[^key-52459965f8e21328b5a8b1769b451669].
+
+(5) If the Secretary of State determines that the person[^key-982d5e16f8a1d8faaa2dc5c24f7c72a4] is entitled to disability living allowance—
+
+- (a) the person is , insofar as they are not present in England and Wales on or after the residence change date,[^key-9d2c0440bd173eb66c83bdfaa726f5f1] to be treated as satisfying the condition in regulation 2(1)(a)(ii) until the end of the run-on period[^key-1c522271626e4647d91d98986f73f1d1], and
+- (b) if—
+  - (i) the person has an award of any component of disability living allowance which is for a fixed term period, and
+  - (ii) the fixed term period is due to expire before the end of the run-on period,
+
+  the fixed term period is extended so that it expires at the end of the run-on period.
+
+(6) In this regulation—
+
+- (a)[^key-231963ea58743b36be7d399ce80333b4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) any reference to the date on which a person makes a claim for disability living allowance (however expressed) is to be construed in accordance with regulation 6 of the Claims and Payments Regulations.
+
+### 2A. Persons residing in Great Britain to whom a relevant EU Regulation applies[^key-dc7060611b7aad5ebf88d0d00750b697]
+
+(1) Regulation 2(1)(a)(iii) shall not apply where on any day—
+
+- (a) the person is habitually resident in Great Britain;
+- (b) a relevant EU Regulation applies; and
+- (c) the person can demonstrate a genuine and sufficient link to the United Kingdom [^key-d66fd25ec45cca5aa9d6a8a131fd4e9d]....
+
+(2) For the purpose of paragraph (1)(b) and regulation 2B, “relevant EU Regulation” has the meaning given by section 84(2) of the Welfare Reform Act 2012.
+
+### 2B. Persons residing in an EEA state ... or in Switzerland to whom a relevant EU Regulation applies[^key-720e3ef7cc8143e4718d9f289fc99401]
+
+Regulation 2(1)(a)(i) to (iii) shall not apply in relation to the care component where on any day—
+
+- (a) the person is habitually resident in—
+  - (i) an EEA state [^key-78a7413487187593605c0fe9a9f95b45]...; or
+  - (ii) Switzerland;
+- (b (Extent: S))[^key-f2a5b3776d692f26de08df22cdf2d7ab] a relevant EU Regulation— *(Extent: S)*
+  - (i (Extent: S)) applies to the person; or *(Extent: S)*
+  - (ii (Extent: S)) except where the person has been habitually resident in the United Kingdom after 31st December 2020, applied to the person on 31st December 2020 and they have been continuously in receipt of the care component of disability living allowance on and from that date; and *(Extent: S)*
+- (c) the person can demonstrate a genuine and sufficient link to the United Kingdom [^key-ecf39bb92e2ec87b589966a96556359d]....
+
+### 2C. Refugees and certain persons with leave to enter and remain in the United Kingdom[^key-1bc373a80ac628298a0367e01a798316][^key-44294c22dc6a290a8ad25e806ac82a3a]
+
+(1) Regulation 2(1)(a)(iii) shall not apply where the person has—
+
+- (a) been granted refugee status or humanitarian protection under the immigration rules; [^key-3f7705be422032e2a1a59598f77746db]...
+- (b) leave to enter or remain in the United Kingdom as the dependant of a person granted refugee status or humanitarian protection under the immigration rules.
+
+*Extent: S*
+
+- (c)[^key-61477507153c35c3f380eaa1582dd3b3] leave to enter or remain in the United Kingdom granted under the immigration rules by virtue of—
+- (i (Extent: S)) the Afghan Relocations and Assistance Policy, or *(Extent: S)*
+- (ii (Extent: S)) the previous scheme for locally-employed staff in Afghanistan (sometimes referred to as the ex-gratia scheme), *(Extent: S)*
+- (d (Extent: S)) been granted discretionary leave outside the immigration rules as a dependant of a person referred to in sub-paragraph (c), *(Extent: S)* [^key-62efd492b0c20b54a253507e325d9abd]... *(Extent: S)*
+- (e (Extent: S)) leave granted under the Afghan Citizens Resettlement Scheme *(Extent: S)* ; *(Extent: E+W)*[^key-5fb7ea4cff9cd116533d0a9f62bb425d] ...[^key-281d65c2960e44c03ffde7342b2ac63b] *(Extent: E+W)*
+
+*Extent: E+W*
+
+- (f (Extent: E+W+S))[^key-13863d70cdd549435aab3b0bb3ea2397] leave to enter or remain in the United Kingdom granted under or outside the immigration rules *(Extent: E+W+S)* , a right[^key-d7ebf475b30f63dc3b141a25cc7e9e3e] *(Extent: E+W+S)* a right *(Extent: S)*[^key-44bf3334a200596794008ad1f9d1ba1f] *(Extent: E+W+S)* of abode in the United Kingdom within the meaning given in section 2 of the Immigration Act 1971 *(Extent: E+W+S)* or does not require leave to enter or remain in the United Kingdom in accordance with section 3ZA of that Act,[^key-77f56d730c356356ecc192f90518328f] *(Extent: E+W+S)* , or does not require leave to enter or remain in the United Kingdom in accordance with section 3ZA of that Act[^key-dd3c0ba956b2143e43ebd9985528309a] *(Extent: E+W+S)* where the person— *(Extent: E+W+S)*
+  - (i (Extent: E+W+S)) was residing in Ukraine immediately before 1st January 2022; and *(Extent: E+W+S)*
+  - (ii (Extent: E+W+S)) left Ukraine in connection with the Russian invasion which took place on 24th February 2022 *(Extent: E+W+S)*;[^key-a647fd49de265b8b58acf6c045ff6062] ... *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-5874a936f31891f5cd0635e9ceb504a3]
+- (g (Extent: E+W)) leave to enter or remain in the United Kingdom granted under or outside the immigration rules, a right of abode in the United Kingdom within the meaning given in section 2 of the Immigration Act 1971 or does not require leave to enter or remain in the United Kingdom in accordance with section 3ZA of that Act, where the person— *(Extent: E+W)*
+  - (i (Extent: E+W)) was residing in Sudan before 15th April 2023; and *(Extent: E+W)*
+  - (ii (Extent: E+W)) left Sudan in connection with the violence which rapidly escalated on 15th April 2023 in Khartoum and across Sudan *(Extent: E+W)*,[^key-a68c2052876bde8966b4b53cfaf741f3] or *(Extent: E+W)* *(affected by repeal, see note)*[^key-669fb20114efee9ecb85182758694053]
+
+*Extent: S*
+
+- (h (Extent: E+W+S)) leave to enter or remain in the United Kingdom granted under or outside the immigration rules, a right of abode in the United Kingdom within the meaning given in section 2 of the Immigration Act 1971 or does not require leave to enter or remain in the United Kingdom in accordance with section 3ZA of that Act, where the person— *(Extent: E+W+S)*
+  - (i (Extent: E+W+S)) was residing in Israel, the West Bank, the Gaza Strip, East Jerusalem, the Golan Heights or Lebanon immediately before 7 October 2023, and *(Extent: E+W+S)*
+  - (ii (Extent: E+W+S)) left Israel, the West Bank, the Gaza Strip, East Jerusalem, the Golan Heights or Lebanon in connection with the Hamas terrorist attack in Israel on 7 October 2023 or the violence which rapidly escalated in the region following the attack *(Extent: E+W+S)*. *(Extent: E+W)* *(affected by repeal, see note)*[^key-db09240e095bd9a69d8f93b8f74c92f6] *(Extent: E+W+S)*; *(Extent: E+W)* *(Extent: E+W)* *(affected by repeal, see note)*[^key-db09240e095bd9a69d8f93b8f74c92f6] *(Extent: E+W+S)*
+
+*Extent: E+W*
+
+- (i)[^key-be07005fd95c9990559fc05a1de1d324] met conditions A to D.
+  - *Condition A*
+
+    The person was residing in a country or territory outside Great Britain immediately before His Majesty’s Government—
+
+    - (a) provided public information to advise British nationals to leave that country or territory, or
+    - (b) arranged the evacuation of British nationals from that country or territory.
+  - *Condition B*
+
+    The person has left that country or territory.
+  - *Condition C*
+
+    The person arrived in Great Britain in the first 26 weeks beginning on the day on which the public information is issued, or the evacuation is started.
+  - *Condition D*
+
+    The person—
+
+    - (a) has a right of abode in the United Kingdom within the meaning given in section 2 of the Immigration Act 1971,
+    - (b) does not require leave to enter or remain in the United Kingdom in accordance with section 3ZA of that Act,
+    - (c) has leave to enter or remain in the United Kingdom in accordance with immigration rules made under section 3(2) of that Act, or
+    - (d) has leave on a discretionary basis outside of rules made under section 3(2) of that Act; or
+- (j (Extent: E+W)) as part of a safe and legal humanitarian immigration route, leave to enter or remain in the United Kingdom in accordance with immigration rules made under section 3(2) of the Immigration Act 1971 or leave on a discretionary basis outside of rules *(Extent: E+W)* ,[^key-d5706394e9944f676b1f2b7a66815d58]
+- (k) met conditions A to D,
+
+  *Condition A*
+
+  The person was residing in a country or territory outside Great Britain immediately before His Majesty’s Government—
+
+  - (i) provided public information to advise British nationals to leave that country or territory, or
+  - (ii) arranged the evacuation of British nationals from that country or territory,
+
+  *Condition B*
+
+  The person has left that country or territory.
+
+  *Condition C*
+
+  The person arrived in Great Britain in the first 26 weeks beginning on the day on which the public information is issued, or the evacuation is started.
+
+  *Condition D*
+
+  The person—
+
+  - (i) has a right of abode in the United Kingdom within the meaning given in section 2 of the Immigration Act 1971,
+  - (ii) does not require leave to enter or remain in the United Kingdom in accordance with section 3ZA of that Act,
+  - (iii) has leave to enter or remain in the United Kingdom in accordance with immigration rules, or
+  - (iv) has leave on a discretionary basis outside of immigration rules, or
+- (l) as part of a safe and legal humanitarian immigration route, leave to enter or remain in the United Kingdom in accordance with immigration rules or leave on a discretionary basis outside of those rules.
+
+*Extent: S*
+
+(1A (Extent: E+W+S))[^key-1b8f6687859d45a01e31d75dd8d3c793] Regulation 2(1)(a)(i) shall not apply where *(Extent: E+W+S)* any sub-paragraph in paragraph (1) *(Extent: E+W+S)*[^key-eb75acc91c6ec6018febebb4f02bc1d1] *(Extent: E+W+S)* applies to the person. *(Extent: E+W+S)*
+
+*Extent: E+W*
+
+(1B)[^key-41d21291d813989f5998d8b74a03f340] Where paragraph (1)(i) applies, it will apply for the following periods beginning on the day on which the public information is issued, or the evacuation is started—
+
+- (a) no more than 130 weeks for persons aged 16 years and over;
+- (b) no more than 52 weeks for persons aged between 6 months and under 16 years;
+- (c) no more than 39 weeks for persons aged under 6 months.
+
+*Extent: S*
+
+(1C)[^key-52c663693bfd32b301065fc42abe566e] Where paragraph (1)(k) applies, it will apply for the following periods beginning on the day on which the public information is issued, or the evacuation is started no more than—
+
+- (a) 130 weeks for persons aged 16 years and over,
+- (b) 52 weeks for persons aged 6 months and over but under 16 years,
+- (c) 39 weeks for persons aged under 6 months.
+
+(2 (Extent: S) (affected by repeal, see note))[^key-c521b634cb25b4031f8abfee25db6fe3] For the purposes of this regulation “immigration rules” means the rules laid before Parliament under section 3(2) of the Immigration Act 1971. *(Extent: S)* *(affected by repeal, see note)*[^key-c521b634cb25b4031f8abfee25db6fe3]
+
+(2 (Extent: S)) For the purposes of this regulation— *(Extent: S)*
+
+- ((a)) “immigration rules” means the rules laid before Parliament under section 3(2) of the Immigration Act 1971, *(Extent: S)*
+- ((b)) “the Afghan Citizens Resettlement Scheme” means the scheme announced by the United Kingdom Government on 18 August 2021. *(Extent: S)*
+
+### 3. Age 65 or over
+
+(1) A person shall not be precluded from entitlement to either component of disability living allowance by reason only that he has attained the age of 65 years, if he is a person to whom paragraphs (2) and (3) apply.[^M_F_65b450d1-ebef-415f-8680-b2c0a836a43a]
+
+- (a)[^M_F_bb11f1ff-69ce-4df0-c864-f5be21fad90a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^M_F_abcd9b8f-facf-43e9-8d80-27ceaec804b5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^M_F_b42aec76-0481-421f-8b35-37b503626caa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^M_F_8b70a705-09ea-4c6f-95a4-df19ad6f7995] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) Paragraph (3) applies to a person who–
+
+- (a) made a claim for disability living allowance before he attained the age of 65, which was not determined before he attained that age, and
+- (b) did not at the time he made the claim have an award of disability living allowance for a period ending on or after the day he attained the age of 65.
+
+(3) In determining the claim of a person to whom this paragraph applies, where the person otherwise satisfies the conditions of entitlement to either or both components of disability living allowance for a period commencing before his 65th birthday (other than the requirements of section section 72[^key-1702ccfefa99b2dbf27831566e1197d7](2)(a), or, as the case may be, section section 73[^key-22bf2a8c64e337f42d403cf50afc39cf](9)(a) of the Act (3 months qualifying period)), the determination shall be made without regard to the fact that he is aged 65 or over at the time the claim is determined.
+
+(3A)[^key-2fcea3969ba9c96eaa79119d09ce7a32] A person shall not be precluded from entitlement to the care component of disability living allowance by reason only that he has attained the age of 65 years if the claim   is treated as made on 18th October 2007 in accordance with regulation 6(35) of the Social Security (Claims and Payments) Regulations 1987 (date of claim).
+
+(4) Schedule 1, which makes further provision for persons aged 65 or over shall have effect.
+
+### 4. Rate of Benefit
+
+(1) The three weekly rates of the care component are–
+
+- (a) the highest rate, payable in accordance with section 72[^key-358111ded595e19a9fdc22cd42e04b2d] (4)(a) of the Act, £114.60[^key-9ded25c10df8279a05a1311f63a0125e];
+- (b) the middle rate, payable in accordance with section 72 4)(b) of the Act, £76.70[^key-cbc005a8b27d7160c85e0a79a3ad4e3e] and
+- (c) the lowest rate, payable in accordance with section 72 (4)(c) of the Act, £30.30[^key-49194264ebb447519139ceb99e0f0046].
+
+(2) The two weekly rates of the mobility component are–
+
+- (a) the higher rate, payable in accordance with section 73[^key-f040c8fb4b8dca4b7f196fcc1c6bcf31] (11)(a) of the Act, £80.00[^key-6e4365c162c233b12518f1df2e017032] and
+- (b) the lower rate, payable in accordance with section 73 (11)(b) of the Act, £30.30[^key-bb498074251775f095fdd346af12970d].
+
+### 5. Late claim by a person previously entitled[^key-f2ca0c97e1524ef708c2e8d4e29257b9]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 5A. Medical examination in prescribed circumstances[^M_F_6473e500-9a02-4387-941d-b72ab99ad5da][^M_F_1130c826-b7c9-442c-baee-77ba0f4556cc]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 5B. Withholding of benefit in prescribed circumstances[^M_F_d0333d7f-362c-4714-94a2-74e448452dae][^M_F_cd54f8d4-4ec0-4eba-99f4-5c83a6bce51c]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 5C. Payment of withheld benefit[^M_F_52478022-dde6-45fc-c501-7f477e0a967d][^M_F_850e5cff-3243-46ca-e24e-eec09102bfb8]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART III — CARE COMPONENT
+
+### 6. Qualifying period for care component after an interval
+
+(1) The period prescribed for the purposes of section 72[^key-c62eb38661fd8be462955cfeae9de78e](2)(a)(ii) of the Act is a period of 3 months ending on the day on which the person was last entitled to the care component of disability living allowance,[^key-bcae87e9e73a41c0d8b499f78907da15] or the care component of Scottish adult disability living allowance, *(Extent: E+W)*[^key-8370e4550e4fbcff51ec5aa995ea53b0] or the care component of child disability payment or to attendance allowance where that day falls not more than 2 years before the date on which entitlement to the care component of disability living allowance, or the care component of child disability payment[^key-1a101fa0f1a3e7e5ad3295fac3e81df7] would begin, or would have begun but for any regulations made under section 5(1)(k) of the Administration Act[^key-fbe41a51840034e851610eb9f3ff86b8] (which enables regulations to provide for the day on which entitlement to benefit is to begin or end).
+
+(2) Except in a case to which paragraph (3) applies, this regulation shall apply to a person to whom paragraph 3 or 7 of Schedule 1 refers as if for the reference to 3 months there was substituted a reference to 6 months.
+
+(3) Paragraph (1) and not paragraph (2), shall apply to those persons referred to in paragraph (2) who, on the day before they attained the age of 65, had already completed the period of 3 months referred to in paragraph (1).
+
+(4) For the purposes of paragraph (3), the modification made in Schedule 1–
+
+- (a) in paragraph 3(2) and 7(2), to section 72[^key-95003f2e3afb1d44042ed7ea9409cdd2](2)(a) of the Act, and
+- (b) in paragraph 5(2), to section 73[^key-e8d67e190e0dea89e35779e021f09a83](9)(a) of the Act,
+
+shall be treated as not having been made.
+
+### 7. Renal Dialysis
+
+(1) A person who suffers from renal failure and falls within the provisions in paragraph (2) shall be taken to satisfy–
+
+- (a) where he undergoes renal dialysis by day, the conditions in paragraph (b) of subsection (1) of section 72[^key-bed09ddcbd66706cf1d6f221dbeff977] of the Act (severe physical or mental disability);
+- (b) where he undergoes renal dialysis by night, the conditions in paragraph (c) of that subsection; or
+- (c) where he undergoes renal dialysis by day and by night, the conditions in either paragraph (b) or paragraph (c) of subsection (1), but not both.
+
+(2) Subject to paragraph (3), a person falls within this paragraph–
+
+- (a) if–
+  - (i) he undergoes renal dialysis two or more times a week; and
+  - (ii) the renal dialysis he undergoes is of a type which normally requires the attendance or supervision of another person during the period of the dialysis; or
+  - (iii) because of the particular circumstances of his case he in fact requires another person, during the period of the dialysis, to attend in connection with his bodily functions or to supervise him in order to avoid substantial danger to himself; and
+- (b) if, where he undergoes dialysis as an out-patient in a hospital or similar institution, being treatment provided under the[^key-121bfb8fda7e349fbedb6d68d25929ea] NHS Act of 1978, the NHS Act of 2006 or the NHS (Wales) Act of 2006, no member of the staff of the hospital or institution assists with or supervises the dialysis.
+
+(3)[^key-c335fa00f66d71234f0c01fc719eaccb] Paragraph (2)(b) does not apply for the purpose of determining whether a person is to be taken to satisfy any of the conditions mentioned in paragraph (1) during the periods mentioned in section 72(2)(a)(i) and (b)(i) of the Act.
+
+(4) Except to the extent that provision is made in paragraph (2)(b), a person who undergoes treatment by way of renal dialysis as an out-patient in a hospital or similar institution, being treatment provided under the[^key-c0300268f4690b35ae77e8da4ba15c7c] NHS Act of 1978, the NHS Act of 2006 or the NHS (Wales) Act of 2006, shall not be taken solely by reason of the fact that he undergoes such dialysis, as satisfying any of the conditions mentioned in subsection (1)(a) to (c) of section 72[^key-98ed0e160437353d1c2780e89983f8c2] of the Act.
+
+### 8. Hospitalisation of persons aged 18 or over[^key-dd14f8eec8d30a03d6e78a3ce3a57d9b]
+
+(1) Subject to paragraph (2B) and[^key-7cfd9dee4a55bdd9c484f86c17bc47a9] regulation 10, it shall be a condition for the receipt of a disability living allowance which is attributable to entitlement to the care component for any period in respect of any person that during that period he is not maintained free of charge while undergoing medical or other treatment as an in-patient–
+
+- (a) in a health service hospital, within the meaning of the[^key-eb81fef2c87ce4553e051cb665fa345d] NHS Act of 1978, the NHS Act of 2006 or the NHS (Wales) Act of 2006; or
+- (b) in pursuance of arrangements made, or having effect as if made, by the Secretary of State, or any body in the exercise of functions on behalf of the Secretary of State under either of those Acts, in a hospital or similar institution; or
+- (c) in a hospital or similar institution maintained or administered by the Defence Council or a National Health Service Trust; or
+- (d) in a hospital or similar institution in pursuance of arrangements made by a member of a recognised fund-holding practice.
+
+(2) For the purposes of paragraph (1) a person shall only be regarded as not being maintained free of charge in a hospital or similar institution during any period when his accommodation and services are provided under;
+
+- (a)[^key-4bb156cbe5a7d90f89234d8446714f0e] section 57 of, and paragraph 14 of Schedule 7A to, the NHS Act of 1978;
+- (b) section 13 of, and paragraph 15 of Schedule 2 to, the NHS Act of 2006;
+- (c) section 28 of, and paragraph 11 of Schedule 6 to, the NHS Act of 2006;
+- (d) section 44(6) of, and paragraph 19(1) of Schedule 4 to, the NHS Act of 2006;
+- (e) section 11 of, and paragraph 15 of Schedule 2 to, the NHS (Wales) Act of 2006;
+- (f) section 18 of, and paragraph 19(1) of Schedule 3 to, the NHS (Wales) Act of 2006; or
+- (g) section 22 of, and paragraph 11 of Schedule 5 to, the NHS (Wales) Act of 2006.
+
+(2A)[^M_F_9ed7aba8-a0c9-4233-9a9c-4757a8328b5c] For the purposes of paragraph (1), a period during which a person is maintained free of charge while undergoing medical or other treatment as an in-patient shall be deemed to begin on the day after the day on which he enters a hospital or other similar institution referred to in that paragraph and to end on the day before the day[^key-69dae406e7cb91b555fbaec9edc1de22] on which he leaves such a hospital or other similar institution.
+
+(2B)[^key-f63cb5486d433681a1b3105267167f67] This regulation does not apply to a person who was under the age of 18 on the day on which he entered the hospital or other similar institution referred to in paragraph (1) to begin his current period as an in-patient.
+
+(3) In this regulation–
+
+- “National Health Service trust” has the meaning assigned to it by the NHS Act of 1990;
+- “recognised fund-holding practice” shall be construed in accordance with section 14 of the NHS Act of 1990.
+
+### 9. Persons in care homes[^key-85a024bf0e0bf6a662ef6d6374a5b54c]
+
+(1) Except in the cases specified in paragraphs (3) to (5), and subject to regulation 10, a person shall not be paid any amount in respect of a disability living allowance which is attributable to entitlement to the care component for any period where throughout that period he is a resident in a care home in circumstances where any of the costs of any qualifying services provided for him are borne out of public or local funds under a specified enactment.
+
+(2) The specified enactments for the purposes of paragraph (1) are—
+
+- (a)
+  - (i) Part III of the National Assistance Act 1948,
+  - (ii) sections 59 and 59A[^key-b1d76302da340e65ab6c37615871e85f] of the Social Work (Scotland) Act 1968,
+  - (iii) the Mental Health (Care and Treatment) (Scotland) Act 2003,
+  - (iv) the Community Care and Health (Scotland) Act 2002,
+  - (v) the Mental Health Act 1983; [^key-80d065f54c5965ac7d2de2bf9c6defc0] ...
+  - (vi)[^key-6da3dd13de2272fdc0be712a97562f02] section 57 of the Health and Social Care Act 2001, [^key-6330427b81b354d1e17f3af28cd492d5]...
+  - (vii)[^key-c1b17564d3d92321e568a70cade40388] Part 1 of the Care Act 2014 (care and support), [^key-23f6cade65094007f712a8637c25dd36]...
+- (viii)[^key-c186bda62c78d97841f4074e5e126734] Part 4 of the Social Services and Well-being (Wales) Act 2014 (meeting needs), or
+- (b) any other enactment relating to persons under disability or to young persons or to education or training.
+
+(3) Paragraph (2)(b) shall not apply in circumstances where any of the costs of the qualifying services provided for him are borne wholly or partly out of public or local funds by virtue of—
+
+- (a) section 485 of the Education Act 1996, section 14 of the Education Act 2002 or section 73 of the Education (Scotland) Act 1980 (which relate to grants in aid of educational services);
+- (b) [^key-d937dfd54d279b9674a56d8ba5211897] ... sections 49 or 73 of the Education (Scotland) Act 1980 (which relate respectively to the power of education authorities to assist persons to take advantage of educational facilities and the powers of the Secretary of State to make grants to education authorities and others);
+- (c) section 65 of the Further and Higher Education Act 1992, sections 39 or 40 of the Higher Education and Research Act 2017[^key-5257740e6e985b4680073728277b2396] or sections 4 or 11 of the Further and Higher Education (Scotland) Act 2005 (which relate respectively to the funding of further education and the administration of funds);
+- (d)[^key-90eefec3a7688a2125b1dc0620ec4d18] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e) section 22 of the Teaching and Higher Education Act 1998.
+
+(4) Subject to paragraph (5), paragraphs (1) and (2) shall not apply in the case of a child [^key-d394b8a590438fcf81558cb351481ad0]...—
+
+- (a) who[^key-48154a5fe4c665abfca209e6b97354fe] has not attained the age of 16 and is being looked after by a local authority; or
+- (b) who[^key-4fda9a5707658fe632e593d148fff1e0] has not attained the age of 18 and to whom—
+  - (i) section 17(10)(b) of the Children Act 1989 or section 93(4)(a)(ii) of the Children (Scotland) Act 1995 (impairment of health and development) applies because his health is likely to be significantly impaired, or further impaired, without the provision of services for him, or
+  - (ii) section 17(10)(c) of the Children Act 1989 (disability) or section 93(4)(a)(iii) of the Children (Scotland) Act 1995 (disability) applies; or
+- (ba)[^key-ee1d8c9a638e62829a2b1f1ad7b1a458] to whom section 37, 38 or 42 of the Social Services and Well-being (Wales) Act 2014 applies; or
+- (c) who is accommodated outside the United Kingdom and the costs of any qualifying services are borne wholly or partly by a local authority pursuant to their powers under section 320 of the Education Act 1996 or section 25 of the Education (Additional Support for Learning) (Scotland) Act 2004.
+
+(5) Sub-paragraphs (a), (b) and (ba)[^key-40b25a41e9adc641f883f055a2a668ab] of paragraph (4) shall only apply during any period which the local authority looking after the child place him in a private dwelling with a family, or a relative of his, or some other suitable person.
+
+(6) In this regulation and in regulation 10, references to the costs of any qualifying services shall not include the cost of—
+
+- (a) domiciliary services, including personal care, provided in respect of a person in a private dwelling; or
+- (b) improvements made to, or furniture or equipment provided for, a private dwelling on account of the needs of a person under disability; or
+- (c) improvements made to, or furniture or equipment provided for, a care home in respect of which a grant or payment has been made out of public or local funds except where the grant or payment is of a regular or repeated nature; or
+- (d) social and recreational activities provided outside the care home in respect of which grants or payments are made out of public or local funds; or
+- (e) the purchase or running of a motor vehicle to be used in connection with any qualifying service provided in a care home in respect of which grants or payments are made out of public or local funds; or
+- (f)[^key-23d050a56d5494cc2729ef08e45cdccd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(7) For the purposes of paragraph (1), a period during which a person is a resident in a care home in the circumstances set out in that paragraph shall, subject to paragraphs (8) and (9), be deemed—
+
+- (a) to begin on the day after the day on which he enters a care home, and
+- (b) to end on the day before the day on which he leaves a care home.
+
+(8) Where a person enters a care home from a hospital or similar institution in circumstances in which paragraph (1) of regulation 6 applies, the period during which he is a resident in the care home shall be deemed to begin on the day he enters that care home.
+
+(9) Where a person leaves a care home and enters a hospital or similar institution in circumstances in which paragraph (1) of regulation 6 applies, the period during which he is a resident in the care home shall be deemed to end on the day he leaves that care home
+
+### 9A. Persons to whom regulations 9 and 10 apply with modifications[^key-66cf4e7ca8705fc2ed9b8fbbfdbb8b8e]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 10. Exemption from regulation 8 and 9
+
+(1) Regulation 8, or as the case may be, regulation 9, shall not, subject to the following provisions of this regulation[^M_F_af245843-d6f7-4d13-ef8a-eb69c0de4e36], apply to a person for the first 28 days of any period throughout which he is someone to whom paragraph (4) applies.
+
+(2)[^key-cd438815161e079bae0ef8863e329a07] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) Where on the day the person’s entitlement to the care component commenced, he is a person to whom paragraph (4) refers, then paragraph (1) [^key-756ffedd4d12fd8a887c96546cbe8765]... shall not apply to him for any period of consecutive days, beginning with that day, in which he continues to be a person to whom paragraph (4) refers.
+
+(4) This paragraph refers to a person who–
+
+- (a) is undergoing medical or other treatment in a hospital or other institution in any of the circumstances mentioned in regulation 8; or
+- (b)[^M_F_a11e9265-9585-424c-e645-6dc302a93611] would, but for this regulation, be prevented from receiving the care component of a disability living allowance by reason of regulation 9(1).
+
+(5) For the purposes of paragraph (1)[^key-35816498297a2b32aab62db3ad112adb]–
+
+- (a) 2 or more distinct periods separated by an interval not exceeding 28 days, or by 2 or more such intervals shall be treated as a continuous period equal in duration to the total of such distinct periods and ending on the last day of the later or last such period;
+- (b) any period or periods to which regulation 8(1) or 9(1) refers shall be taken into account and aggregated with any period to which the other of them refers.
+
+(6)[^M_F_25748392-f526-481a-84ca-8f68c477bde2] Regulation 8 or as the case may be regulation 9 shall not apply [^key-464f2109814fc6e2cb0a37f67bd70510] ... in the case of a person who is residing in a hospice and is terminally ill where the Secretary of State has been informed that he is terminally ill—
+
+- (a) on a claim for the care component,
+- (b) on an application for a revision under section 9 of the[^M_F_69237700-bbd2-4fe8-b9e9-ebba89536b42] 1998 Act or supersession under section 10 of that Act of an award of disability living allowance, or
+- (c) in writing in connection with an award of, or a claim for, or an application for a revision under section 9 of the[^M_F_f9babef1-1049-443a-ecb0-82330f3212d6] 1998 Act or supersession under section 10 of that Act of an award of, disability living allowance.
+
+(7) In paragraph (6) “hospice” means a hospital or other institution whose primary function is to provide palliative care for persons resident there who are suffering from a progressive disease in its final stages[^M_F_dd928f74-9a00-47f4-bebe-759fdac7dcd9] other than—
+
+- (a)[^key-c31ad7d7ef6d7c4bb9b610f819d77739] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) a health service hospital (within the meaning of section 108(1) of the NHS Act of 1978 ) in Scotland;
+- (ba)[^key-c520d9b2ba663411c4db1b7c25559ef1] a health service hospital (within the meaning of section 275 of the NHS Act of 2006) in England;
+- (bb) a hospital in Wales vested in—
+  - (i) an NHS Trust;
+  - (ii) a Local Health Board; or
+  - (iii) the Welsh Ministers, for the purpose of functions under the NHS (Wales) Act of 2006;
+- (c) a hospital maintained or administered by the Defence Council; or
+- (d) an institution similar to a hospital mentioned in any of the preceding sub-paragraphs of this paragraph.
+
+(8)[^key-eda634304be576a8e79da58cab00cb45] Regulation 9 shall not apply in any particular case for any period during which the whole costs of all of the qualifying services are met—
+
+- (a) out of the resources of the person for whom the qualifying services are provided, or partly out of his own resources and partly with the assistance from another person or a charity, or
+- (b) on his behalf by another person or a charity.
+
+(8A)[^key-b96e91859124bb467a5e02aeffcda4d6] For the purpose of paragraph (7)(bb)—
+
+- (a) “ NHS Trust” means a body established under section 18 of the NHS (Wales) Act of 2006; and
+- (b) “Local Health Board” means a body established under section 11 of the NHS (Wales) Act of 2006.
+
+(9)[^key-297e66d88324554aa46e369fa490a7c5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 10A. Adjustment of allowance where medical expenses are paid from public funds under war pensions instruments[^M_F_2b6e9cc6-92c2-4f83-b595-dd84595c3646]
+
+(1) In this regulation—
+
+- “article 25B” means article 25B of the Personal Injuries (Civilians) Scheme 1983 (medical expenses) and includes that article as applied by article 48B of that Scheme;
+- “article 21[^key-2955638960dd520ed87bb3b957cfae5f] ” means article 21 of the Naval, Military and Air Forces etc. (Disablement and Death) Service Pensions Order 2006[^key-8add354f5177c6344fafe82653797d85] (medical expenses);
+
+and in this regulation and regulation 10B “relevant accommodation” means accommodation provided as a necessary ancillary to nursing care where the medical expenses involved are wholly borne by the Secretary of State pursuant to article 25B or article 21.
+
+(2) This regulation applies where a person is provided with relevant accommodation.
+
+(3) Subject to regulation 10B, where this regulation applies and there are payable in respect of a person both a payment under article 25B or article 21[^key-114b06941ae33c43b35750795e8115e4] and a disability living allowance which is attributable to the care component, the allowance, in so far as it is so attributable, shall be adjusted by deducting from it the amount of the payment under article 25B or article 21, as the case may be, and only the balance shall be payable.
+
+### 10B. Exemption from regulation 10A
+
+(1) Regulation 10A shall not, subject to the following provisions of this regulation, apply to a person in respect of the first 28 days of any period during which the amount of any disability living allowance attributable to the care component would be liable to be adjusted by virtue of regulation 10A(3).
+
+(2) For the purposes of paragraph (1) two or more distinct periods separated by an interval not exceeding 28 days, or by two or more such intervals, shall be treated as a continuous period equal in duration to the aggregate of such distinct periods and ending on the last day of the later or last such period.
+
+(3) For the purposes of this paragraph a day is a relevant day in relation to a person if it fell not earlier than 28 days before the first day on which he was provided with relevant accommodation; and either—
+
+- (a) was a day when he was undergoing medical treatment in a hospital or similar institution in any of the circumstances mentioned in regulation 8; or
+- (b) was a day when he was, or would but for regulation 10 have been, prevented from receiving a disability living allowance attributable to the care component by virtue of regulation 9(1);
+
+and where there is in relation to a person a relevant day, paragraph (1) shall have effect as if for “28 days” there were substituted such lesser number of days as is produced by subtracting from 28 the number of relevant days in his case.
+
+### 10C. Prescribed circumstance for entitlement to the care component[^key-3ab45057b7f10aa9d89a98368c62fda6]
+
+For the purposes of section 72(7) of the Act (prescribed circumstances in which a person is to be taken to satisfy or not to satisfy the conditions mentioned in section 72(1)(a) to (c) of that Act), a person shall not be taken to satisfy subsection (1)(a)(i) or (b)(i) (day attention) or (c)(i) (night attention) unless the attention the severely disabled person requires from another person is required to be given in the physical presence of the severely disabled person.
+
+## PART IV — MOBILITY COMPONENT
+
+### 11. Qualifying period for mobility component after an interval
+
+The period prescribed for the purposes of section 73[^key-004b3f783246bffbf0179e6201c4a3de](9)(a)(ii) of the Act is a period of 3 months ending on the day on which the person was last entitled to the mobility component of disability living allowance,[^key-e7351f08b35d1656b8cfbd6a10b11988] or the mobility component of Scottish adult disability living allowance, *(Extent: E+W)*[^key-2f3f31474be686edb900771958e6466d] or the mobility component of child disability payment or to mobility allowance, where that day falls not more than 2 years before the date on which entitlement to the mobility component of disability living allowance, or the mobility component of child disability payment[^key-808bcac7c1f972ac684fff7bde9ec586] would begin or would have begun but for any regulations made under section 5(1)(k) of the Administration Act[^key-654b71eaba8739c120d3a56bef9251c3] (which enables regulations to provide for the day on which entitlement to benefit is to begin or end).
+
+### 12. Entitlement to the mobility component[^key-d4475ad0eee738b86563fd932ab89d6f]
+
+(1) A person is to be taken to satisfy the conditions mentioned in section 73[^key-1d772cdb7b6c7f4211038a3aac8f96b9](1)(a) of the Act (unable or virtually unable to walk) only in the following circumstances–
+
+- (a) his physical condition as a whole is such that, without having regard to circumstances peculiar to that person as to the place of residence or as to place of, or nature of, employment–
+  - (i) he is unable to walk; or
+  - (ii) his ability to walk out of doors is so limited, as regards the distance over which or the speed at which or the length of time for which or the manner in which he can make progress on foot without severe discomfort, that he is virtually unable to walk; or
+  - (iii) the exertion required to walk would constitute a danger to his life or would be likely to lead to a serious deterioration in his health; or
+- (b) he has both legs amputated at levels which are either through or above the ankle, or he has one leg so amputated and is without the other leg, or is without both legs to the same extent as if it, or they, had been so amputated.
+
+(1A)
+
+- (a) For the purposes of section 73(1AB)(a) of the Act (mobility component for the severely visually impaired) a person is to be taken to satisfy the condition that he has a severe visual impairment if—
+  - (i) he has visual acuity, with appropriate corrective lenses if necessary, of less than 3/60; or
+  - (ii) he has visual acuity of 3/60 or more, but less than 6/60, with appropriate corrective lenses if necessary, a complete loss of peripheral visual field and a central visual field of no more than 10° in total.
+- (b) For the purposes of section 73(1AB)(b), the conditions are that he has been certified as severely sight impaired or blind by a consultant ophthalmologist.
+- (c) In this paragraph—
+  - (i) references to visual acuity are to be read as references to the combined visual acuity of both eyes in cases where a person has both eyes;
+  - (ii) references to measurements of visual acuity are references to visual acuity measured on the Snellen Scale;
+  - (iii) references to visual field are to be read as references to the combined visual field of both eyes in cases where a person has both eyes.
+
+(2) For the purposes of section 73(2)(a) of the Act (mobility component for the blind and deaf) a person is to be taken to satisfy–
+
+- (a) the condition that he is blind only where the degree of disablement resulting from the loss of vision amounts to 100 per cent; and
+- (b) the condition that he is deaf only where the degree of disablement resulting from loss of hearing when using any artificial aid which he habitually uses or which is suitable in his case[^M_F_5406ed10-2289-4a20-b219-e87f26038a13] amounts to not less than 80 per cent on a scale where 100 per cent represents absolute deafness.
+
+(3) For the purposes of section 73(2)(b) of the Act, the conditions are that by reason of the combined effects of the person’s blindness and deafness, he is unable, without the assistance of another person, to walk to any intended or required destination while out of doors.
+
+(4) Except in a case to which paragraph (1)(b) applies, a person is to be taken not to satisfy the conditions mentioned in section 73(1)(a) of the Act if he–
+
+- (a) is not unable or virtually unable to walk with a prosthesis or artificial aid which he habitually wears or uses, or
+- (b) would not be unable or virtually unable to walk if he wore or used a prosthesis or an artificial aid which is suitable in his case.
+
+(5) A person falls within subsection (3)(a) of section 73 of the Act (severely mentally impaired) if he suffers from a state of arrested development or incomplete physical development of the brain, which results in severe impairment of intelligence and social functioning.
+
+(6) A person falls within subsection (3)(b) of section 73 of the Act (severe behavioural problems) if he exhibits disruptive behaviour which–
+
+- (a) is extreme,
+- (b) regularly requires another person to intervene and physically restrain him in order to prevent him causing physical injury to himself or another, or damage to property, and
+- (c) is so unpredictable that he requires another person to be present and watching over him whenever he is awake.
+
+(7)[^key-fa9714effdf992d5245de56012e4ee37] For the purposes of section 73(1)(d) of the Act, a person who is able to walk is to be taken not to satisfy the condition of being so severely disabled physically or mentally that he cannot take advantage of the faculty out of doors without guidance or supervision from another person most of the time if he does not take advantage of the faculty in such circumstances because of fear or anxiety.
+
+(8) Paragraph (7) shall not apply where the fear or anxiety is—
+
+- (a) a symptom of a mental disability; and
+- (b) so severe as to prevent the person from taking advantage of the faculty in such circumstances.
+
+### 12A. Hospitalisation of persons aged 18 or over in mobility component cases[^M_F_44a3aaa4-55b7-4499-f443-742ae30ef981][^key-84ac79ad695898bdc34e0bdbf01822dd]
+
+(1) Subject to paragraph (3) and[^key-1a0515dc6f4dffa358e8f03c93aecda6] regulation 12B (exemption), it shall be a condition for the receipt of a disability living allowance which is attributable to entitlement to the mobility component for any period in respect of any person that during that period he is not maintained free of charge while undergoing medical or other treatment as an in-patient—
+
+- (a) in a hospital or similar institution under the[^key-60a54b39f567cba3e46f0a1ea02e8571] NHS Act of 1978, the NHS Act of 2006 or the NHS (Wales) Act of 2006 ; or
+- (b) in a hospital or other similar institution maintained or administered by the Defence Council.
+
+(2) For the purposes of paragraph (1)(a) a person shall only be regarded as not being maintained free of charge in a hospital or similar institution during any period when his accommodation and services are provided under section 65—
+
+- (a)[^key-9302cd81003522a29e00ac3012eda632] section 57 of, and paragraph 14 of Schedule 7A to, the NHS Act of 1978;
+- (b) section 13 of, and paragraph 15 of Schedule 2 to, the NHS Act of 2006;
+- (c) section 28 of, and paragraph 11 of Schedule 6 to, the NHS Act of 2006;
+- (d) section 44(6) of, and paragraph 19(1) of Schedule 4 to, the NHS Act of 2006;
+- (e) section 11 of, and paragraph 15 of Schedule 2 to, the NHS (Wales) Act of 2006;
+- (f) section 18 of, and paragraph 19(1) of Schedule 3 to, the NHS (Wales) Act of 2006; or
+- (g) section 22 of, and paragraph 11 of Schedule 5 to, the NHS (Wales) Act of 2006.
+
+(2A)[^M_F_153c53b5-c8da-4c84-9eed-c8ea3e34b9a5] For the purposes of paragraph (1), a period during which a person is maintained free of charge while undergoing medical or other treatment as an in-patient shall be deemed to begin on the day after the day on which he enters a hospital or other similar institution referred to in that paragraph and to end on the day before the day[^key-34aa19931d5787a9d3ba2450acd0c6a5] on which he leaves such a hospital or other similar institution.
+
+(3)[^key-33205d48b014b355fb6d65c2b11499f3] This regulation does not apply to a person who was under the age of 18 on the day on which he entered the hospital or other similar institution referred to in paragraph (1) to begin his current period as an in-patient.
+
+### 12B. Exemption from regulation 12A
+
+(1) Subject to paragraph (2), regulation 12A shall not apply to a person—
+
+- (a) for the first 28 days; [^key-c2e3897e4958466940a9bb78ca5e172f]
+- (b) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+of any period throughout which he is a person to whom paragraph (10) applies.
+
+(2) Where, on the day on which a person’s entitlement to the mobility component commences, he is a person to whom paragraph (10) applies, paragraph (1) shall not apply to him for any period of consecutive days, beginning with that day, in which he continues to be a person to whom paragraph (10) applies.
+
+(3) For the purposes of paragraphs (1), (4), (7), (8) and (8A)[^key-54dd5c9cf7c77dcb3a67923d2d933b05], two or more distinct periods separated by an interval not exceeding 28 days, or by two or more such intervals, shall be treated as a continuous period equal in duration to the total of such distinct periods and ending on the last day of the later or last such period.
+
+(4) Subject to paragraph (5) and regulation 12C, where—
+
+- (a) immediately before 31st July 1996, a person has, for a continuous period of not less than 365 days, been a person to whom paragraph (10) applies and in receipt of the mobility component and on 31st July 1996 is a person to whom that paragraph applies; or
+- (b) on a day not more than 28 days prior to 31st July 1996, a person has, for a continuous period of not less than 365 days, been a person to whom paragraph (10) applies and in receipt of the mobility component, and on or after 31st July 1996 and not more than 28 days after the last day of the previous distinct period during which that paragraph applies, becomes a person to whom that paragraph again applies,
+
+regulation 12A shall not apply until such time as paragraph (10) first ceases to apply to him for more than 28 consecutive days.
+
+(5) Paragraph (4) shall not apply where on 31st July 1996 a person is detained under Part II or III of the Mental Health Act 1983 or Part 5, 6 or 7 or section 136 of the Mental Health (Care and Treatment) (Scotland) Act 2003 or section 52D or 52M of the Criminal Procedure (Scotland) Act 1995[^key-bc91eaf131c2b85e9181b09fb451974e]
+
+(6) Where, on a day after 31st July 1996, a person—
+
+- (a) becomes detained under Part II or III of the Mental Health Act 1983 or Part 5, 6 or 7 or section 136 of the Mental Health (Care and Treatment) (Scotland) Act 2003 or section 52D or 52M of the Criminal Procedure (Scotland) Act 1995[^key-06a41506dd7bb1ce9ebe1b90e135d428] ; or
+- (b) ceases to be entitled to the mobility component,
+
+paragraph (4) shall cease to be applicable to that person and shall not again become applicable to him.
+
+(7)[^key-4df59c31076a73eb610b95eac9882e44] Subject to regulation 12C, where on 8th April 2013, paragraph (10) applies to a person and a Motability agreement entered into by or on behalf of that person is in force, regulation 12A shall, for the period following that referred to in paragraph (1)(a) [^key-bf989c2262ab2af6db7c526a93cee87a] ..., continue not to apply to that person for the period that terminates in accordance with paragraph (8).
+
+(8)[^key-ff4f8ceb775b8153ef8a16d77d6d5ec3] The period referred to in paragraph (7) terminates-
+
+- (a) on the first day after 8th April 2013 on which paragraph (10) first ceases to apply to the person for more than 28 consecutive days;
+- (b) in accordance with paragraph (8A); or
+- (c) on 8th April 2016;
+
+whichever is the earliest.
+
+(8A)[^key-0c0964887c9a335ad87283d1cb32595f] The period referred to in paragraph (8)(b) terminates—
+
+- (a) in the case of the hire of a vehicle—
+  - (i) where the vehicle is returned to the owner before the expiration of the current term of hire, on the date that the vehicle is returned to the owner;
+  - (ii) where the vehicle is returned to the owner at the expiration of the current term of hire, on expiry of the current term of hire;
+  - (iii) where the vehicle is retained with the owner’s consent by or on behalf of the person after the expiration of the current term of hire, on expiry of the current term of hire;
+  - (iv) where the vehicle is retained otherwise than with the owner’s consent by or on behalf of the person after the expiration of the current term of hire, on expiry of the current term of hire; or
+  - (v) where the vehicle is retained otherwise than with the owner’s consent by or on behalf of the person after the date of an early termination of the current term of hire, on the date of that early termination; and
+- (b) in the case of a hire-purchase agreement—
+  - (i) on the purchase of the vehicle;
+  - (ii) where the vehicle is returned to the owner under the terms of the agreement before the completion of the purchase, on the date that the vehicle is returned to the owner; or
+  - (iii) where the vehicle is repossessed by the owner under the terms of the agreement before the completion of the purchase, on the date of repossession.
+
+(8B)[^key-d476d05b757ab91b0d75ba3deeaaebf1] In paragraph (8A)(a) the “current term of hire” means the last term of hire that was agreed on or before 8th April 2013 but does not include any extension of that last term of hire after 8th April 2013.
+
+(9)[^key-71af47a1130e331a692dcbc361613c26] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(9A)[^M_F_7bd8c0d0-11e6-4722-e0fb-687e1335acd5] Regulation 12A shall not apply in the case of a person who is residing in a hospice and is terminally ill where the Secretary of State has been informed that he is terminally ill—
+
+- (a) on a claim for disability living allowance;
+- (b) on an application for a revision under section 9 of the[^M_F_6ad42f57-c0f1-4717-c43b-67810b4a8753] 1998 Act or supersession under section 10 of that Act of an award of disability living allowance; or
+- (c) in writing in connection with an award of, or a claim for, or an application for revision under section 9 of the[^M_F_b811d3e9-84eb-487e-9576-c4e6e4ed8641] 1998 Act or supersession under section 10 of that Act of an award of, disability living allowance.
+
+(10) This paragraph refers to a person who is undergoing medical or other treatment in a hospital or other institution in any of the circumstances referred to in regulation 12A.
+
+(11) For the purposes of paragraph (4), receipt of mobility allowance prior to 6th April 1992 shall be treated as receipt of the mobility component.
+
+(12) In this regulation—
+
+- (za)[^M_F_1dd97aba-24b2-46cb-d746-73b94f952ace] “hospice” has the same meaning as that given in paragraph (7) of regulation 10;
+- (a) “Motability agreement” means an agreement such as is referred to in regulation 44(1) of the Social Security (Claims and Payments) Regulations 1987 (payment of disability living allowance on behalf of a beneficiary in settlement of liability for payments under an agreement for the hire or hire-purchase of a vehicle);
+- (b) “Motability” means the company, set up under that name as a charity and originally incorporated under the Companies Act 1985 and subsequently incorporated by Royal Charter.
+
+### 12C. Adjustment of benefit to certain persons exempted from regulation 12A
+
+(1) Subject to paragraph (3), where a person is a person to whom regulation 12B(4) applies and the mobility component would otherwise be payable at the higher rate prescribed by regulation 4(2)(a), the benefit shall be adjusted so that it is payable at the lower rate prescribed by regulation 4(2)(b).
+
+(2) Subject to paragraph (3), where regulation 12B(7) applies, the benefit shall be adjusted so that it is payable at a rate equal to the weekly amount payable under the relevant agreement for the period referred to in that regulation.
+
+(3) Where paragraphs (4) and (7) of regulation 12B both apply, the benefit shall be adjusted so that it is payable either at the lower rate prescribed by regulation 4(2)(b) or at a rate equal to the weekly amount payable under the relevant agreement referred to in regulation 12B(7), whichever is the greater.
+
+### 13. Invalid Vehicle Scheme
+
+Schedule 2, which relates to the entitlement to mobility component of certain persons eligible for invalid carriages shall have effect.
+
+Signed by authority of the Secretary of State for Social Security.
+
+Nicholas Scott
+
+Minister of State,
+
+Department of Social Security
+
+## SCHEDULE 1 — PERSONS AGED 65 AND OVER
+
+Regulation 3(4)
+
+### 1. Revision or supersession of an award made before person attained 65[^M_F_c5527995-d095-462c-876f-1ad6b79039f9]
+
+(1) This paragraph applies where–
+
+- (a) a person is aged 65 or over;
+- (b) the person has an award of disability living allowance made before he attained the age of 65;
+- (c) an application is made in accordance with section 9 of the[^M_F_da26fc52-05fe-42e1-a493-99667ac66b19] 1998 Act or section 10 of that Act for that award to be revised or superseded; and
+- (d) an adjudicating authority is satisfied that the decision awarding disability living allowance ought to be revised or superseded[^M_F_600e8699-08b5-42f9-8436-4577bb9bf139].
+
+(2) Where paragraph (1) applies, the person to whom the award relates shall not, subject to paragraph (3), be precluded from entitlement to either component of disability living allowance solely by reason of the fact that he is aged 65 or over when the revision or supersession[^M_F_9bf424c1-64bb-4146-9e6e-9c2d652ffc98] is made.
+
+(3) Where the adjudicating authority determining the application [^M_F_11ee3a98-ccd0-49e4-afa5-35800cc0af6f]... is satisfied that the decision ought to be superseded[^M_F_2bc4df36-8cd4-404f-af07-f02c2b8b3745] on the ground that there has been a relevant change of circumstances since the decision was given, paragraph (2) shall apply only where the relevant change of circumstances occurred before the person attained the age of 65.
+
+### 2. Revision or supersession of an award other than a review to which paragraph 1 refers[^M_F_7291f1c6-dc84-46da-d9ab-686c8bd3aeeb]
+
+References in the following paragraphs of this Schedule to a revision or supersession[^M_F_083b2f73-bf2c-4f9f-ec02-9c6f7d8de460] of an award refer only to those reviews where the awards which are being revised or superseded[^M_F_71fc0bc5-f7a8-4590-9455-9778b1c3f011] were made–
+
+- (a) on or after the date the person to whom the award relates attained the age of 65; or
+- (b) before the person to whom the award relates attained the age of 65 where the award is superseded[^M_F_d51b04eb-c1ea-44f4-9af2-f77a2d2287ae] by reference to a change in the person’s circumstances which occurred on or after the day he attained the age of 65.
+
+### 3. Age 65 and over and entitled to the care component
+
+(1) This paragraph applies where a person on or after attaining the age of 65–
+
+- (a) is entitled to the care component and an adjudicating authority is satisfied that the decision awarding it ought to be revised under section 9 of the[^M_F_fcc94587-71c8-48fc-a9de-9973cd2aedff] 1998 Act or superseded under section 10 of that Act; or
+- (b) makes a renewal claim for disability living allowance.
+
+(2) Where a person was entitled on the previous award or on the award being revised or superseded[^M_F_8d41e97e-8a4f-4c85-dc63-1e19ecf22813] to the care component , or the care component of Scottish adult disability living allowance, *(Extent: E+W)*[^key-c47a5f1c66fd134d707594613c93afce] payable–
+
+- (a) at the lowest rate, that person shall not be precluded, solely by reason of the fact that he is aged 65 or over, from entitlement to the care component; or
+- (b) at the middle or highest rate, that person shall not be precluded, solely by reason of the fact that he has attained the age of 65, from entitlement to the care component payable at the middle or highest rate,
+
+but in determining that person’s entitlement, section 72[^key-f0aff5f84a3ea3e92ec251332a63912b] of the Act shall have effect as if in paragraph (a) of subsection (2) of that section for the reference to 3 months there was substituted a reference to 6 months and paragraph (b) of that subsection was omitted.
+
+(3) In this paragraph, a renewal claim is a claim made for a disability living allowance where the person making the claim had–
+
+- (a) within the period of 12 months immediately preceding the date the claim was made, been entitled under an earlier award to the care component or to attendance allowance or to the care component of Scottish adult disability living allowance *(Extent: E+W)*[^key-955854ffd76295fa5e52e64eedfbe8f1] (referred to in this paragraph as “the previous award”); and
+- (b) attained the age of 65 before that entitlement ended.
+
+### 4. Invalid Vehicle Scheme
+
+(1) Where–
+
+- (a) a certificate issued in respect of a person under section 13(1) of the Social Security (Miscellaneous Provisions) Act 1977 [^c1852717] is in force, or
+- (b) an invalid carriage or other vehicle is or was on or after 1st January 1976 made available to a person by the Secretary of State under section 46(1) of the[^key-e2895d2731ec7954b0738690ac73d55b] NHS Act of 1978 or paragraph 9 of Schedule 1 to the NHS Act of 2006 or paragraph 9 of Schedule 1 to the NHS (Wales) Act of 2006, being a carriage or other vehicle which is–
+  - (i) propelled by a petrol engine or an electric motor;
+  - (ii) provided for use on a public road; and
+  - (iii) controlled by the occupant,
+
+  that person shall not be precluded from entitlement to mobility component payable at the higher rate specified in regulation 4(2)(a), or a care component payable at the highest or middle rate specified in regulation 4(1)(a) or (b), by reason only that he has attained the age of 65.
+
+(2) In determining a person’s entitlement where paragraph (1) applies, section 72[^key-281123bcd1c111cd2a61798503cfaea7] of the Act shall have effect as if in paragraph (a) of subsection (2) of that section for the reference to 3 months there was substituted a reference to 6 months and paragraph (b) of that subsection was omitted.
+
+### 5. Age 65 or over and entitled to mobility component
+
+(1) This paragraph applies where a person on or after attaining the age of 65 is entitled to the mobility component payable at the higher rate specified in regulation 4(2)(a) or the mobility component of Scottish adult disability living allowance payable at the higher rate specified in regulation 29(2)(b) of the Disability Assistance (Scottish Adult Disability Living Allowance) Regulations 2025 *(Extent: E+W)*[^key-666e375ccb96bdf550a0c0c03cd31919], and–
+
+- (a) an adjudicating authority is satisfied that the decision giving effect to that entitlement ought to be revised on a review under section 100A, 100B or 104A of that Act, or
+- (b) the person makes a renewal claim for disability living allowance.
+
+(2) A person to whom this paragraph applies shall not be precluded, solely by reason of the fact that he has attained the age of 65, from entitlement to the mobility component by virtue of having satisfied or being likely to satisfy one or other of the conditions mentioned in subsection (1)(a), (b) or (c) of section 73[^key-3b5b5e728bdb71480dfe386ad081322c] of the Act.
+
+(3) In this paragraph and paragraph 6 and 7 a renewal claim is a claim made for a disability living allowance where the person making the claim had–
+
+- (a) within the period of 12 months immediately preceding the date the claim was made been entitled under an earlier award to the mobility component or the mobility component of Scottish adult disability living allowance *(Extent: E+W)*[^key-c0339911cfb92797e837a547457b7e44] (referred to in these paragraphs as “the previous award”); and
+- (b) attained the age of 65 before that entitlement ended.
+
+### 6. Aged 65 or over and award of lower rate mobility component
+
+(1) This paragraph applies where a person on or after attaining the age of 65 is entitled to the mobility component payable at the lower rate specified in regulation 4(2) or the mobility component of Scottish adult disability living allowance payable at the lower rate specified in regulation 29(2)(a) of the Disability Assistance (Scottish Adult Disability Living Allowance) Regulations 2025 *(Extent: E+W)*[^key-6041b8741486a4f00eb5b548cf80bf18] and–
+
+- (a) an adjudicating authority is satisfied that the decision giving effect to that entitlement ought to be revised under section 9 of the or superseded under section 10 of that Act[^M_F_9218c108-7a80-4831-9819-4801eeafdcb9], or
+- (b) the person makes a renewal claim for disability living allowance.
+
+(2) A person to whom this paragraph applies shall not be precluded, solely by reason of the fact that he has attained the age of 65, from entitlement to the mobility component, but in determining the person’s entitlement to that component section 73[^key-3b01fa2d2154fe4ef031a2e3a5d376a4](11) of the Act shall have effect in his case as if paragraph (a), and the words “in any other case” in paragraph (b), were omitted.
+
+### 7. Award of care component where person entitled to mobility component
+
+(1) This paragraph applies where a person on or after attaining the age of 65 is entitled to the mobility component or the mobility component of Scottish adult disability living allowance *(Extent: E+W)*[^key-12c7ca8c58b4797962f6dcf5a1e0024f] and–
+
+- (a) an adjudicating authority is satisfied that the decision giving effect to that entitlement ought to be revised under section 9 of the or superseded under section 10 of that Act[^M_F_2ac38c50-a402-4f07-8aa7-44462e4c4975], or
+- (b) the person makes a renewal claim for disability living allowance.
+
+(2) A person to whom this paragraph applies shall not be precluded solely by reason of the fact that he has attained the age of 65 from entitlement under section 72[^key-2ce30d427408fe4b1817454ca6ad6318](1) of the Act by virtue of having satisfied either the conditions mentioned in subsection (1)(b) or in subsection (1)(c), or in both those subsections, but in determining a person’s entitlement, section 72 of the Act shall have effect as if in paragraph (a) of subsection (2) of that section, for the reference to 3 months there was substituted a reference to 6 months and paragraph (b) of that subsection were omitted.
+
+## SCHEDULE 2 — INVALID VEHICLE SCHEME
+
+Regulation 13
+
+### 1. Interpretation
+
+In this Schedule, unless the context otherwise requires,–
+
+- “the 1977 Act” means the Social Security (Miscellaneous Provisions) Act 1977 [^c1852718] ;
+- “vehicle scheme beneficiary” means any person of a class specified in section 13(3)(a), (c) or (d) of the 1977 Act or any person of the class specified in section 13(3)(b) of the 1977 Act whose application was approved on or after 1st January 1976 and, where an invalid carriage or other vehicle was provided or as the case may be applied for, is a person of any such class in respect of whom the invalid carriage or other vehicle provided or applied for was a vehicle–
+- (a) propelled by a petrol engine or by an electric motor,
+- (b) supplied for use on a public road, and
+- (c) to be controlled by the occupant;
+
+“certificate” means a certificate issued in accordance with paragraph 3.
+
+### 2. Prescribed periods for purposes of section 13(3)(c) of the 1977 Act
+
+For the purposes of section 13(3)(c) of the 1977 Act–
+
+- (a) the prescribed period before 1st January 1976 shall be that commencing with 31st January 1970 and ending with 31st December 1975; and
+- (b) the prescribed period after 1st January 1976 shall be that commencing with 2nd January 1976 and ending with 31st March 1978.
+
+### 3. Issue of certificates
+
+(1) The Secretary of State shall issue a certificate in the form approved by him in respect of any person–
+
+- (a) who has made an application for a certificate in the form approved by the Secretary of State; and
+- (b) whom the Secretary of State considers satisfies the conditions specified in sub-paragraph (2).
+
+(2) The conditions specified in this sub-paragraph are that–
+
+- (a) the person is a vehicle scheme beneficiary; and
+- (b) his physical condition has not improved to such an extent that he no longer satisfies the conditions which it was necessary for him to satisfy in order to become a vehicle scheme beneficiary.
+
+### 4. Duration and cancellation of certificates
+
+(1) Subject to sub-paragraph (2) the period during which a certificate is in force shall commence on the day specified in the certificate as being the date on which it comes into force and shall continue for the life of the person concerned.
+
+(2) If in any case the Secretary of State determines that the condition specified in paragraph 3(2)(b) is not satisfied, the certificate shall cease to be in force from the date of such non-satisfaction as determined by the Secretary of State (or such later date as appears to the Secretary of State to be reasonable in the circumstances).
+
+### 5. Application of these Regulations in relation to vehicle scheme beneficiaries
+
+In relation to a person in respect of whom a certificate is in force these Regulations shall have effect as though regulation 2(1)(a)(iii) were omitted.
+
+## SCHEDULE 3 — PERSONS TO WHOM REGULATIONS 9 AND 10 APPLY WITH MODIFICATIONS[^key-20cdb01924a530422117323ece71c4c2]
+
+(This note is not part of the Regulations)
+
+The Regulations contained in this instrument are consequential upon the introduction of disability living allowance by section 1 of the Disability Living Allowance and Disability Working Allowance Act 1991 (c.21) (“the 1991 Act”). The instrument is made before the end of the period of 6 months beginning with the coming into force of section 1; the regulations in it are therefore exempted by section 61(5) of the Social Security Act 1986 (c.50) (as amended by the Social Security Act 1989 (c.24), Schedule 8, paragraph 12(3)) from the requirement under section 10 of the Social Security Act 1980 (c.30) to refer the proposals to the Social Security Advisory Committee and are made without reference to that Committee.
+
+Section 1 of the 1991 Act provides for the introduction of a new benefit to be known as disability living allowance, consisting of two components, the care component and the mobility component.
+
+Part I of these Regulations contains provisions relating to citation, commencement and interpretation.
+
+Part II contains provisions which relate to both components of disability living allowance. Regulation 2 sets out the conditions as to residence and presence in Great Britain which a person must satisfy to qualify for disability living allowance. Regulation 3 and Schedule 1 contain provisions relating to those aged 65 or over and regulation 4 sets out the rates at which benefit is payable. Regulation 5 relates to late claims by persons who were previously entitled to disability living allowance.
+
+Part III relates only to the care component of disability living allowance. Regulation 6 specifies the qualifying period for those whose entitlement to the care component has been interrupted. Regulation 7 relates specifically to those undergoing renal dialysis. Regulations 8 to 10 impose restrictions on the payment of benefit where the person is accommodated in a hospital or is in certain accommodation where the cost is or may be met out of public or local funds.
+
+Part IV relates only to the mobility component of disability living allowance. Regulation 11 relates to the qualifying period for the mobility component where entitlement has been interrupted. Regulation 12 specifies circumstances in which a person is to be treated as unable or virtually unable to walk. lt also sets out the circumstances in which a person is to be taken to be blind and deaf, or severely mentally impaired. Regulation 13 and Schedule 2 provides for entitlement to the mobility component of certain persons eligible for invalid carriages.
+
+## Annotations
+
+[^c1852698]: Textual amendment: [1991 c.21](https://www.legislation.gov.uk/ukpga/1991/21) .
+
+[^c1852699]: Textual amendment: [1975 c.14](https://www.legislation.gov.uk/ukpga/1975/14) . Sections 37ZA–37ZE were inserted in the Social Security Act 1975, by the Disability Living Allowance and Disability Working Allowance Act 1991; section 166 was amended by the [Social Security Act 1989 (c.24)](https://www.legislation.gov.uk/ukpga/1989/24) Schedule 8, paragraph 10(1); subsection (3A) was inserted in section 166 by the [Social Security Act 1986 (c.50)](https://www.legislation.gov.uk/ukpga/1986/50) , [section 62(1)](https://www.legislation.gov.uk/ukpga/1986/50/section/62/1) ; Schedule 20 is cited because of the meaning it ascribes to the words “Prescribed” and “Regulations”, and for the enabling power contained within the meaning of the word “Child”, which was inserted by the [Child Benefit Act 1975 (c.61)](https://www.legislation.gov.uk/ukpga/1975/61) , [Schedule 4](https://www.legislation.gov.uk/ukpga/1975/61/schedule/4) , [paragraph 38](https://www.legislation.gov.uk/ukpga/1975/61/paragraph/38) .
+
+[^c1852700]: Textual amendment: [1977 c.5](https://www.legislation.gov.uk/ukpga/1977/5) ; section 13 was amended by the [Social Security Act 1979 (c.18)](https://www.legislation.gov.uk/ukpga/1979/18) Schedule 3, paragraph 29(c) and the [Disability Living Allowance and Disability Working Allowance Act 1991 (c.21)](https://www.legislation.gov.uk/ukpga/1991/21) , [section 4](https://www.legislation.gov.uk/ukpga/1991/21/section/4) , [Schedule 2](https://www.legislation.gov.uk/ukpga/1991/21/schedule/2) , [paragraph 8](https://www.legislation.gov.uk/ukpga/1991/21/paragraph/8) .
+
+[^key-7fc27fdfafa137b00675dd70f0d535e1]: Textual amendment: Words in reg. 1(2) substituted (26.8.1993) by [The Social Security (Disability Living Allowance) (Amendment) Regulations 1993 (S.I. 1993/1939)](https://www.legislation.gov.uk/uksi/1993/1939) , [regs. 1(1)](https://www.legislation.gov.uk/uksi/1993/1939/regulation/1/1) , [2(2)(a)](https://www.legislation.gov.uk/uksi/1993/1939/regulation/2/2/a)
+
+[^key-0a04c95a5b665c9b8d56abb3b74ff308]: Textual amendment: Words in reg. 1(2) inserted (26.8.1993) by [The Social Security (Disability Living Allowance) (Amendment) Regulations 1993 (S.I. 1993/1939)](https://www.legislation.gov.uk/uksi/1993/1939) , [regs. 1(1)](https://www.legislation.gov.uk/uksi/1993/1939/regulation/1/1) , [2(2)(b)](https://www.legislation.gov.uk/uksi/1993/1939/regulation/2/2/b)
+
+[^key-40f32622161a5d222232728203f188d1]: Textual amendment: Words in reg. 1(2) inserted (18.10.1999) by [The Social Security Act 1998 (Commencement No. 11, and Savings and Consequential and Transitional Provisions) Order 1999 (S.I. 1999/2860)](https://www.legislation.gov.uk/uksi/1999/2860), [reg. 1](https://www.legislation.gov.uk/uksi/1999/2860/regulation/1), [Sch. 7 para. 1(a)](https://www.legislation.gov.uk/uksi/1999/2860/schedule/7/paragraph/1/a)
+
+[^c1852703]: Textual amendment: [1978 c.29](https://www.legislation.gov.uk/ukpga/1978/29).
+
+[^key-6114df1dbd2e3d6c2037c7fdc50fabf0]: Textual amendment: Words in reg. 1(2) inserted (8.4.2013) by [The Social Security (Disability Living Allowance, Attendance Allowance and Carer's Allowance) (Amendment) Regulations 2013 (S.I. 2013/389)](https://www.legislation.gov.uk/uksi/2013/389), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/389/regulation/1/2), [4(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2013/389/regulation/4/2/a/ii)
+
+[^key-437c140e89d8c372363b0b5c5cd7e557]: Textual amendment: Words in [reg. 1](https://www.legislation.gov.uk/uksi/1991/2890/regulation/1) inserted (7.7.2023) by [The Scotland Act 2016 (Social Security) (Disability Living Allowance) (Amendment) Regulations 2023 (S.I. 2023/664)](https://www.legislation.gov.uk/uksi/2023/664), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/664/regulation/1/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2023/664/regulation/2/2/a)
+
+[^key-30f3e46422c90a033263ce5b13d2ed28]: Textual amendment: Words in reg. 1(2) substituted (18.10.1999) by [The Social Security Act 1998 (Commencement No. 11, and Savings and Consequential and Transitional Provisions) Order 1999 (S.I. 1999/2860)](https://www.legislation.gov.uk/uksi/1999/2860), [reg. 1](https://www.legislation.gov.uk/uksi/1999/2860/regulation/1), [Sch. 7 para. 1(a)](https://www.legislation.gov.uk/uksi/1999/2860/schedule/7/paragraph/1/a)
+
+[^key-6354b38981160bcf5b9c08c3cae3b9e3]: Textual amendment: Words in reg. 1(2) substituted (3.11.2008) by [Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683), [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1), [Sch. 1 para. 50](https://www.legislation.gov.uk/uksi/2008/2683/schedule/1/paragraph/50)
+
+[^key-a41b67e058ab589901e5d74a519de0ef]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/1991/2890/regulation/1/2) inserted (21.3.2022) by [The Social Security (Disability Assistance for Working Age People) (Consequential Amendments) Order 2022 (S.I. 2022/177)](https://www.legislation.gov.uk/uksi/2022/177), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/177/article/1/2), [4(2)](https://www.legislation.gov.uk/uksi/2022/177/article/4/2)
+
+[^key-d7024295b7459b420e414306d395205c]: Textual amendment: Words in [reg. 1](https://www.legislation.gov.uk/uksi/1991/2890/regulation/1) inserted (7.7.2023) by [The Scotland Act 2016 (Social Security) (Disability Living Allowance) (Amendment) Regulations 2023 (S.I. 2023/664)](https://www.legislation.gov.uk/uksi/2023/664), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/664/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2023/664/regulation/2/2/b)
+
+[^key-ce4b21e176238e6de1f1ab280f8b37c4]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/1991/2890/regulation/1/2) inserted (E.W.) (21.3.2025) by [The Social Security (Scotland) Act 2018 (Disability Assistance) (Consequential Amendments) Order 2025 (S.I. 2025/227)](https://www.legislation.gov.uk/uksi/2025/227), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/227/article/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2025/227/article/3/2)
+
+[^key-6e62decb01fd162d87294f771d5699ab]: Textual amendment: Words in reg. 1(2) substituted (26.8.1993) by [The Social Security (Disability Living Allowance) (Amendment) Regulations 1993 (S.I. 1993/1939)](https://www.legislation.gov.uk/uksi/1993/1939) , [regs. 1(1)](https://www.legislation.gov.uk/uksi/1993/1939/regulation/1/1) , [2(2)(c)](https://www.legislation.gov.uk/uksi/1993/1939/regulation/2/2/c)
+
+[^key-58c80dcd14c25030f3dcaf363f09c883]: Textual amendment: Reg. 1(4) - Reg. 1(5) inserted (8.4.2013) by [The Social Security (Disability Living Allowance, Attendance Allowance and Carer's Allowance) (Amendment) Regulations 2013 (S.I. 2013/389)](https://www.legislation.gov.uk/uksi/2013/389), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/389/regulation/1/2), [4(2)(b)](https://www.legislation.gov.uk/uksi/2013/389/regulation/4/2/b)
+
+[^key-6df2484d3bbd7ef01babdeec0254515e]: Textual amendment: [Reg. 1(6)](https://www.legislation.gov.uk/uksi/1991/2890/regulation/1/6)[(7)](https://www.legislation.gov.uk/uksi/1991/2890/regulation/1/7) inserted (7.7.2023) by [The Scotland Act 2016 (Social Security) (Disability Living Allowance) (Amendment) Regulations 2023 (S.I. 2023/664)](https://www.legislation.gov.uk/uksi/2023/664), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/664/regulation/1/1), [2(2)(c)](https://www.legislation.gov.uk/uksi/2023/664/regulation/2/2/c)
+
+[^key-cc04302d8b994d17864abf8a65ea11cb]: Textual amendment: Words in [reg. 1(6)(b)](https://www.legislation.gov.uk/uksi/1991/2890/regulation/1/6/b) substituted (23.2.2026) by [The Social Security (Scotland Cross-border Consequential Amendment and Transitional Provision) Regulations 2025 (S.I. 2025/1089)](https://www.legislation.gov.uk/uksi/2025/1089), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1089/regulation/1/2), [4(2)(a)](https://www.legislation.gov.uk/uksi/2025/1089/regulation/4/2/a) (with [reg. 6](https://www.legislation.gov.uk/uksi/2025/1089/regulation/6))
+
+[^key-a7af3aaade10b1c2bed4725c865dac37]: Textual amendment: Words in [reg. 1(7)(a)](https://www.legislation.gov.uk/uksi/1991/2890/regulation/1/7/a) substituted (23.2.2026) by [The Social Security (Scotland Cross-border Consequential Amendment and Transitional Provision) Regulations 2025 (S.I. 2025/1089)](https://www.legislation.gov.uk/uksi/2025/1089), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1089/regulation/1/2), [4(2)(b)](https://www.legislation.gov.uk/uksi/2025/1089/regulation/4/2/b) (with [reg. 6](https://www.legislation.gov.uk/uksi/2025/1089/regulation/6))
+
+[^key-9686245c48b2597cfc32250e789f63e2]: Textual amendment: [Reg. 1ZA](https://www.legislation.gov.uk/uksi/1991/2890/regulation/1ZA) omitted (23.2.2026) by virtue of [The Social Security (Scotland Cross-border Consequential Amendment and Transitional Provision) Regulations 2025 (S.I. 2025/1089)](https://www.legislation.gov.uk/uksi/2025/1089), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1089/regulation/1/2), [4(3)](https://www.legislation.gov.uk/uksi/2025/1089/regulation/4/3) (with savings in [regs. 6](https://www.legislation.gov.uk/uksi/2025/1089/regulation/6), [7](https://www.legislation.gov.uk/uksi/2025/1089/regulation/7))
+
+[^key-1760e1bbf74cb524555d55f56b2bdb56]: Textual amendment: [Reg. 1ZA](https://www.legislation.gov.uk/uksi/1991/2890/regulation/1ZA) inserted (7.7.2023) by [The Scotland Act 2016 (Social Security) (Disability Living Allowance) (Amendment) Regulations 2023 (S.I. 2023/664)](https://www.legislation.gov.uk/uksi/2023/664), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/664/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2023/664/regulation/2/3)
+
+[^key-fd3e77af1c41b72d30f352d4fe49df67]: Textual amendment: Instrument inserted (1.12.1997) by [The Social Security (National Insurance Number Information: Exemption) Regulations 1997 (S.I. 1997/2676)](https://www.legislation.gov.uk/uksi/1997/2676) , [regs. 1(1)](https://www.legislation.gov.uk/uksi/1997/2676/regulation/1/1) , [4](https://www.legislation.gov.uk/uksi/1997/2676/regulation/4)
+
+[^key-f5df5ae56d7234006fcb551bcca4ea92]: Textual amendment: Words in reg. 2(1) inserted (8.4.2013) by [The Social Security (Disability Living Allowance, Attendance Allowance and Carer's Allowance) (Amendment) Regulations 2013 (S.I. 2013/389)](https://www.legislation.gov.uk/uksi/2013/389), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/389/regulation/1/2), [4(3)(a)](https://www.legislation.gov.uk/uksi/2013/389/regulation/4/3/a)
+
+[^key-c6e759cc386dd8d36d79fe0506ab9aa1]: Textual amendment: Words in reg. 2(1) substituted (7.7.2023) by [The Scotland Act 2016 (Social Security) (Disability Living Allowance) (Amendment) Regulations 2023 (S.I. 2023/664)](https://www.legislation.gov.uk/uksi/2023/664), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/664/regulation/1/1), [2(4)(a)(i)](https://www.legislation.gov.uk/uksi/2023/664/regulation/2/4/a/i)
+
+[^key-38b24037d115b886485152994fccd9fb]: Textual amendment: Words in reg. 2(1) substituted (16.11.2017) by [The Social Security (Miscellaneous Amendments No. 4) Regulations 2017 (S.I. 2017/1015)](https://www.legislation.gov.uk/uksi/2017/1015), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1015/regulation/1/2), [7(2)](https://www.legislation.gov.uk/uksi/2017/1015/regulation/7/2)
+
+[^key-02979cea04ae6be824fc5b06dd1b2528]: Textual amendment: Words in reg. 2(1) substituted (26.8.1993) by [The Social Security (Disability Living Allowance) (Amendment) Regulations 1993 (S.I. 1993/1939)](https://www.legislation.gov.uk/uksi/1993/1939) , [regs. 1(1)](https://www.legislation.gov.uk/uksi/1993/1939/regulation/1/1) , [2(3)(a)](https://www.legislation.gov.uk/uksi/1993/1939/regulation/2/3/a)
+
+[^key-e43172954a7586ee34f1395d5222998c]: Textual amendment: Word in reg. 2(1)(a)(i) substituted (8.4.2013) by [The Social Security (Disability Living Allowance, Attendance Allowance and Carer's Allowance) (Amendment) Regulations 2013 (S.I. 2013/389)](https://www.legislation.gov.uk/uksi/2013/389), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/389/regulation/1/2), [4(3)(b)(i)](https://www.legislation.gov.uk/uksi/2013/389/regulation/4/3/b/i)
+
+[^key-8b6452bedfc662a19fe468be9193a723]: Textual amendment: Words in reg. 2(1)(a)(i) substituted (8.4.2013) by [The Social Security (Disability Living Allowance, Attendance Allowance and Carer's Allowance) (Amendment) Regulations 2013 (S.I. 2013/389)](https://www.legislation.gov.uk/uksi/2013/389), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/389/regulation/1/2), [4(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2013/389/regulation/4/3/b/ii)
+
+[^key-60d1c095ecd470866467f40c452d3b63]: Textual amendment: Reg. 2(1)(a)(ib) substituted for reg. 2(1)(a)(ia) (3.4.2000) by [The Social Security (Immigration and Asylum) Consequential Amendments Regulations 2000 (S.I. 2000/636)](https://www.legislation.gov.uk/uksi/2000/636), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2000/636/regulation/1/1), [11(2)](https://www.legislation.gov.uk/uksi/2000/636/regulation/11/2) (with [reg. 12(10)](https://www.legislation.gov.uk/uksi/2000/636/regulation/12/10))
+
+[^key-7989b8e06706ffdf7bb160497e735531]: Textual amendment: Words in reg. 2(1)(a)(ii) substituted (23.2.2026) by [The Social Security (Scotland Cross-border Consequential Amendment and Transitional Provision) Regulations 2025 (S.I. 2025/1089)](https://www.legislation.gov.uk/uksi/2025/1089), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1089/regulation/1/2), [4(4)(a)](https://www.legislation.gov.uk/uksi/2025/1089/regulation/4/4/a) (with savings in [regs. 6](https://www.legislation.gov.uk/uksi/2025/1089/regulation/6), [7](https://www.legislation.gov.uk/uksi/2025/1089/regulation/7))
+
+[^key-91810d9e6c6e9e7c0da9d14a66a03918]: Textual amendment: Word in reg. 2(1)(a)(iii) substituted (8.4.2013) by [The Social Security (Disability Living Allowance, Attendance Allowance and Carer's Allowance) (Amendment) Regulations 2013 (S.I. 2013/389)](https://www.legislation.gov.uk/uksi/2013/389), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/389/regulation/1/2), [4(3)(c)(i)](https://www.legislation.gov.uk/uksi/2013/389/regulation/4/3/c/i)
+
+[^key-edc4238c1ebe74a14a5cd26f25ead7b0]: Textual amendment: Word in reg. 2(1)(a)(iii) substituted (8.4.2013) by [The Social Security (Disability Living Allowance, Attendance Allowance and Carer's Allowance) (Amendment) Regulations 2013 (S.I. 2013/389)](https://www.legislation.gov.uk/uksi/2013/389), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/389/regulation/1/2), [4(3)(c)(ii)](https://www.legislation.gov.uk/uksi/2013/389/regulation/4/3/c/ii)
+
+[^key-809f029b22b779f5af8d4b654414c232]: Textual amendment: Word in reg. 2 omitted (1.10.2006) by virtue of [Social Security (Miscellaneous Amendments) (No.4) Regulations 2006 (S.I. 2006/2378)](https://www.legislation.gov.uk/uksi/2006/2378), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/2378/regulation/1/2), [8](https://www.legislation.gov.uk/uksi/2006/2378/regulation/8)
+
+[^key-7c66ad3352a5d6b5ca8b1b17db03866a]: Textual amendment: Reg. 2(1)(b) omitted (1.10.2006) by virtue of [Social Security (Miscellaneous Amendments) (No.4) Regulations 2006 (S.I. 2006/2378)](https://www.legislation.gov.uk/uksi/2006/2378), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/2378/regulation/1/2), [8](https://www.legislation.gov.uk/uksi/2006/2378/regulation/8)
+
+[^key-5fe487d8cd214b97ee9550c042e67497]: Textual amendment: Reg. 2(1ZZA) omitted (23.2.2026) by virtue of [The Social Security (Scotland Cross-border Consequential Amendment and Transitional Provision) Regulations 2025 (S.I. 2025/1089)](https://www.legislation.gov.uk/uksi/2025/1089), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1089/regulation/1/2), [4(4)(b)](https://www.legislation.gov.uk/uksi/2025/1089/regulation/4/4/b) (with savings in [regs. 6](https://www.legislation.gov.uk/uksi/2025/1089/regulation/6), [7](https://www.legislation.gov.uk/uksi/2025/1089/regulation/7))
+
+[^key-bf6318b006818967447bc282cfefc0c1]: Textual amendment: Reg. 2(1A) omitted (3.4.2000) by virtue of [The Social Security (Immigration and Asylum) Consequential Amendments Regulations 2000 (S.I. 2000/636)](https://www.legislation.gov.uk/uksi/2000/636), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2000/636/regulation/1/1), [11(3)](https://www.legislation.gov.uk/uksi/2000/636/regulation/11/3) (with [reg. 12(10)](https://www.legislation.gov.uk/uksi/2000/636/regulation/12/10))
+
+[^key-33c3ee5d1e304af963c29b9370260068]: Textual amendment: Reg. 2(1ZA) inserted (26.7.2021) by [The Scotland Act 2016 (Social Security) (Consequential Provision) (Miscellaneous Amendment) Regulations 2021 (S.I. 2021/804)](https://www.legislation.gov.uk/uksi/2021/804), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/804/regulation/1/2), [5(2)](https://www.legislation.gov.uk/uksi/2021/804/regulation/5/2)
+
+[^key-a3fdec8278f1544cc7b046881e451360]: Textual amendment: Reg. 2(1ZB) inserted (coming into force in accordance with reg. 1(1) of the amending S.I.) by [The Scotland Act 2016 (Social Security) (Adult Disability Payment and Child Disability Payment) (Amendment) Regulations 2022 (S.I. 2022/335)](https://www.legislation.gov.uk/uksi/2022/335), [reg. 6](https://www.legislation.gov.uk/uksi/2022/335/regulation/6)
+
+[^key-34b285d531f76ba85cdc373da62056b0]: Textual amendment: Reg. 2(1ZC) inserted (E.W.) (21.3.2025) by [The Social Security (Scotland) Act 2018 (Disability Assistance) (Consequential Amendments) Order 2025 (S.I. 2025/227)](https://www.legislation.gov.uk/uksi/2025/227), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/227/article/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2025/227/article/3/3)
+
+[^key-751589314f63567d6e3a9c0da9b7a172]: Textual amendment: Words in reg. 2(2) substituted (7.7.2023) by [The Scotland Act 2016 (Social Security) (Disability Living Allowance) (Amendment) Regulations 2023 (S.I. 2023/664)](https://www.legislation.gov.uk/uksi/2023/664), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/664/regulation/1/1), [2(4)(c)(i)](https://www.legislation.gov.uk/uksi/2023/664/regulation/2/4/c/i)
+
+[^key-c310fdac8723d6c79b997ad34436a493]: Textual amendment: Words in reg. 2(2) inserted (7.7.2023) by [The Scotland Act 2016 (Social Security) (Disability Living Allowance) (Amendment) Regulations 2023 (S.I. 2023/664)](https://www.legislation.gov.uk/uksi/2023/664), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/664/regulation/1/1), [2(4)(c)(ii)](https://www.legislation.gov.uk/uksi/2023/664/regulation/2/4/c/ii)
+
+[^key-ca59a227e873488d14e04aec4135f001]: Textual amendment: Words in reg. 2(2)(a)(ii) substituted (8.4.2013) by [The Social Security (Disability Living Allowance, Attendance Allowance and Carer's Allowance) (Amendment) Regulations 2013 (S.I. 2013/389)](https://www.legislation.gov.uk/uksi/2013/389), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/389/regulation/1/2), [4(3)(d)(i)](https://www.legislation.gov.uk/uksi/2013/389/regulation/4/3/d/i)
+
+[^key-f1a62553aefccfc8e904e901c3b83ecf]: Textual amendment: Word in reg. 2(2)(a) substituted (8.4.2013) by [The Social Security (Disability Living Allowance, Attendance Allowance and Carer's Allowance) (Amendment) Regulations 2013 (S.I. 2013/389)](https://www.legislation.gov.uk/uksi/2013/389), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/389/regulation/1/2), [4(3)(d)(ii)](https://www.legislation.gov.uk/uksi/2013/389/regulation/4/3/d/ii)
+
+[^key-da89fbbffe8abd23f15536713abab557]: Textual amendment: Words in reg. 2(2)(b) substituted (26.8.1993) by [The Social Security (Disability Living Allowance) (Amendment) Regulations 1993 (S.I. 1993/1939)](https://www.legislation.gov.uk/uksi/1993/1939) , [regs. 1(1)](https://www.legislation.gov.uk/uksi/1993/1939/regulation/1/1) , [2(3)(b)](https://www.legislation.gov.uk/uksi/1993/1939/regulation/2/3/b)
+
+[^c1852707]: Textual amendment: See regulation 85 of the Social Security (Contributions) Regulations 1979; section 132 was amended by the [Oil and Gas Enterprise Act 1982 (c.23)](https://www.legislation.gov.uk/ukpga/1982/23) schedule 3, paragraph 21.
+
+[^key-c5725c690c4bf7098bb4bfe1d9a2eff1]: Textual amendment: Words in reg. 2(2)(c) inserted (5.12.2005) by [The Civil Partnership (Pensions, Social Security and Child Support) (Consequential, etc. Provisions) Order 2005 (S.I. 2005/2877)](https://www.legislation.gov.uk/uksi/2005/2877), [art. 1](https://www.legislation.gov.uk/uksi/2005/2877/article/1), [Sch. 3 para. 20](https://www.legislation.gov.uk/uksi/2005/2877/schedule/3/paragraph/20) (with [art. 3](https://www.legislation.gov.uk/uksi/2005/2877/article/3))
+
+[^key-d590a8d165403ec9f85818cdb1dbd8a1]: Textual amendment: Reg. 2(2)(d) substituted (8.4.2013) by [The Social Security (Disability Living Allowance, Attendance Allowance and Carer's Allowance) (Amendment) Regulations 2013 (S.I. 2013/389)](https://www.legislation.gov.uk/uksi/2013/389), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/389/regulation/1/2), [4(3)(e)](https://www.legislation.gov.uk/uksi/2013/389/regulation/4/3/e)
+
+[^key-1503070557621a8354ad91f1d4bca36e]: Textual amendment: Reg. 2(2)(e) omitted (8.4.2013) by virtue of [The Social Security (Disability Living Allowance, Attendance Allowance and Carer's Allowance) (Amendment) Regulations 2013 (S.I. 2013/389)](https://www.legislation.gov.uk/uksi/2013/389), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/389/regulation/1/2), [4(3)(f)](https://www.legislation.gov.uk/uksi/2013/389/regulation/4/3/f) (with [reg. 5(1)(b)](https://www.legislation.gov.uk/uksi/2013/389/regulation/5/1/b))
+
+[^key-dae96ff78cbc3f65912cf1e6a3a96bea]: Textual amendment: Reg. 2(2A) inserted (7.7.2023) by [The Scotland Act 2016 (Social Security) (Disability Living Allowance) (Amendment) Regulations 2023 (S.I. 2023/664)](https://www.legislation.gov.uk/uksi/2023/664), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/664/regulation/1/1), [2(4)(d)](https://www.legislation.gov.uk/uksi/2023/664/regulation/2/4/d)
+
+[^key-297b080a8eb0ce0c89739e431dcc99dc]: Textual amendment: Reg. 2(3) omitted (1.10.2006) by virtue of [Social Security (Miscellaneous Amendments) (No.4) Regulations 2006 (S.I. 2006/2378)](https://www.legislation.gov.uk/uksi/2006/2378), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/2378/regulation/1/2), [8](https://www.legislation.gov.uk/uksi/2006/2378/regulation/8)
+
+[^key-f8a19b2dda16679ce8726280b1967188]: Textual amendment: Reg. 2(3A) inserted (8.4.2013) by [The Social Security (Disability Living Allowance, Attendance Allowance and Carer's Allowance) (Amendment) Regulations 2013 (S.I. 2013/389)](https://www.legislation.gov.uk/uksi/2013/389), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/389/regulation/1/2), [4(3)(g)](https://www.legislation.gov.uk/uksi/2013/389/regulation/4/3/g)
+
+[^key-865c3f77c23af3ec72c380fc1b996574]: Textual amendment: Reg. 2(3B) inserted (8.4.2013) by [The Social Security (Disability Living Allowance, Attendance Allowance and Carer's Allowance) (Amendment) Regulations 2013 (S.I. 2013/389)](https://www.legislation.gov.uk/uksi/2013/389), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/389/regulation/1/2), [4(3)(h)](https://www.legislation.gov.uk/uksi/2013/389/regulation/4/3/h)
+
+[^key-5d11db5ed2e1ebc2311c16c3ba994acf]: Textual amendment: Words in reg. 2(3B) substituted (7.7.2023) by [The Scotland Act 2016 (Social Security) (Disability Living Allowance) (Amendment) Regulations 2023 (S.I. 2023/664)](https://www.legislation.gov.uk/uksi/2023/664), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/664/regulation/1/1), [2(4)(e)](https://www.legislation.gov.uk/uksi/2023/664/regulation/2/4/e)
+
+[^key-a7283c4ff2a9b1b346d0bac8fde50d49]: Textual amendment: Reg. 2(3BA) inserted (7.7.2023) by [The Scotland Act 2016 (Social Security) (Disability Living Allowance) (Amendment) Regulations 2023 (S.I. 2023/664)](https://www.legislation.gov.uk/uksi/2023/664), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/664/regulation/1/1), [2(4)(f)](https://www.legislation.gov.uk/uksi/2023/664/regulation/2/4/f)
+
+[^key-64e492a39b128fb5cd99693c0efa0704]: Textual amendment: Words in [reg. 2(3BA)](https://www.legislation.gov.uk/uksi/1991/2890/regulation/2/3BA) substituted (23.2.2026) by [The Social Security (Scotland Cross-border Consequential Amendment and Transitional Provision) Regulations 2025 (S.I. 2025/1089)](https://www.legislation.gov.uk/uksi/2025/1089), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1089/regulation/1/2), [4(4)(c)(i)](https://www.legislation.gov.uk/uksi/2025/1089/regulation/4/4/c/i) (with savings in [regs. 6](https://www.legislation.gov.uk/uksi/2025/1089/regulation/6), [7](https://www.legislation.gov.uk/uksi/2025/1089/regulation/7))
+
+[^key-41d7fe40dba9eeec3480cec8c23680f9]: Textual amendment: Words in reg. 2(3BA) substituted (S.) (18.3.2026) by [The Social Security (Residence and Presence Requirements) (Miscellaneous Amendment) (Scotland) Regulations 2026 (S.S.I. 2026/139)](https://www.legislation.gov.uk/ssi/2026/139), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2026/139/regulation/1/1), [4(2)(a)](https://www.legislation.gov.uk/ssi/2026/139/regulation/4/2/a)
+
+[^key-9c620a1c320d85633167873e45d945b0]: Textual amendment: Words in reg. 2(3BA)(a) substituted (23.2.2026) by [The Social Security (Scotland Cross-border Consequential Amendment and Transitional Provision) Regulations 2025 (S.I. 2025/1089)](https://www.legislation.gov.uk/uksi/2025/1089), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1089/regulation/1/2), [4(4)(c)(ii)](https://www.legislation.gov.uk/uksi/2025/1089/regulation/4/4/c/ii) (with savings in [regs. 6](https://www.legislation.gov.uk/uksi/2025/1089/regulation/6), [7](https://www.legislation.gov.uk/uksi/2025/1089/regulation/7))
+
+[^key-7b29a67077bc50ef16855ad9aa5f65a1]: Textual amendment: Reg. 2(3C) inserted (8.4.2013) by [The Social Security (Disability Living Allowance, Attendance Allowance and Carer's Allowance) (Amendment) Regulations 2013 (S.I. 2013/389)](https://www.legislation.gov.uk/uksi/2013/389), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/389/regulation/1/2), [4(3)(i)](https://www.legislation.gov.uk/uksi/2013/389/regulation/4/3/i)
+
+[^key-c2a65d46d69fa46fdc45d22b16084b2f]: Textual amendment: Words in reg. 2(3C) substituted (S.) (18.3.2026) by [The Social Security (Residence and Presence Requirements) (Miscellaneous Amendment) (Scotland) Regulations 2026 (S.S.I. 2026/139)](https://www.legislation.gov.uk/ssi/2026/139), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2026/139/regulation/1/1), [4(2)(b)](https://www.legislation.gov.uk/ssi/2026/139/regulation/4/2/b)
+
+[^key-715be4dbdbb496f901eb7acb69a725c4]: Textual amendment: Words in reg. 2(3C) substituted (E.W.) (18.7.2025) by [The Social Security (Habitual Residence, Past Presence and Temporary Absence) (Amendment) Regulations 2025 (S.I. 2025/884)](https://www.legislation.gov.uk/uksi/2025/884), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/884/regulation/1/1), [16(2)](https://www.legislation.gov.uk/uksi/2025/884/regulation/16/2)[(5)(b)](https://www.legislation.gov.uk/uksi/2025/884/regulation/16/5/b)
+
+[^key-7ba61153feb7b6277c0ab759ba690113]: Textual amendment: Words in reg. 2(3C) substituted (7.7.2023) by [The Scotland Act 2016 (Social Security) (Disability Living Allowance) (Amendment) Regulations 2023 (S.I. 2023/664)](https://www.legislation.gov.uk/uksi/2023/664), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/664/regulation/1/1), [2(4)(g)](https://www.legislation.gov.uk/uksi/2023/664/regulation/2/4/g)
+
+[^key-f8c89f87b49518774d217f3c04c96207]: Textual amendment: Reg. 2(3D)(3E) inserted (E.W.) (18.7.2025) by [The Social Security (Habitual Residence, Past Presence and Temporary Absence) (Amendment) Regulations 2025 (S.I. 2025/884)](https://www.legislation.gov.uk/uksi/2025/884), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/884/regulation/1/1), [16(4)](https://www.legislation.gov.uk/uksi/2025/884/regulation/16/4)[(5)(b)](https://www.legislation.gov.uk/uksi/2025/884/regulation/16/5/b)
+
+[^key-b7096e4586e15ad2a0b3c55ce76f69b9]: Textual amendment: Words in reg. 2(3E) substituted (E.W.) (23.2.2026) by [The Social Security (Scotland Cross-border Consequential Amendment and Transitional Provision) Regulations 2025 (S.I. 2025/1089)](https://www.legislation.gov.uk/uksi/2025/1089), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1089/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2025/1089/regulation/9) (with [reg. 6](https://www.legislation.gov.uk/uksi/2025/1089/regulation/6))
+
+[^key-d89bc7d4888d4e2d1b2b90be767d8f9b]: Textual amendment: Reg. 2(3F)(3G) inserted (S.) (18.3.2026) by [The Social Security (Residence and Presence Requirements) (Miscellaneous Amendment) (Scotland) Regulations 2026 (S.S.I. 2026/139)](https://www.legislation.gov.uk/ssi/2026/139), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2026/139/regulation/1/1), [4(2)(c)](https://www.legislation.gov.uk/ssi/2026/139/regulation/4/2/c)
+
+[^M_F_ec74a33f-f99c-4eec-a80b-113663f14642]: Textual amendment: Words in reg. 2(4)(b) substituted (18.10.99) by [S.I. 1999/2860](https://www.legislation.gov.uk/uksi/1999/2860), [Sch. 7](https://www.legislation.gov.uk/uksi/1999/2860/schedule/7), [para. 2](https://www.legislation.gov.uk/uksi/1999/2860/paragraph/2), [reg.1](https://www.legislation.gov.uk/uksi/1999/2860/regulation/1)
+
+[^key-3e42ef51fecfe8f453747aae5f50fbdc]: Textual amendment: Word in reg. 2(5) substituted (8.4.2013) by [The Social Security (Disability Living Allowance, Attendance Allowance and Carer's Allowance) (Amendment) Regulations 2013 (S.I. 2013/389)](https://www.legislation.gov.uk/uksi/2013/389), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/389/regulation/1/2), [4(3)(j)](https://www.legislation.gov.uk/uksi/2013/389/regulation/4/3/j)
+
+[^key-15bddadbe8ae91d478fee541a1910ce1]: Textual amendment: Word in reg. 2(6) substituted (8.4.2013) by [The Social Security (Disability Living Allowance, Attendance Allowance and Carer's Allowance) (Amendment) Regulations 2013 (S.I. 2013/389)](https://www.legislation.gov.uk/uksi/2013/389), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/389/regulation/1/2), [4(3)(k)](https://www.legislation.gov.uk/uksi/2013/389/regulation/4/3/k)
+
+[^key-01c25bc95fb80bc42685dcbe74d010d7]: Textual amendment: Reg. 2(7) inserted (8.4.2013) by [The Social Security (Disability Living Allowance, Attendance Allowance and Carer's Allowance) (Amendment) Regulations 2013 (S.I. 2013/389)](https://www.legislation.gov.uk/uksi/2013/389), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/389/regulation/1/2), [4(3)(l)](https://www.legislation.gov.uk/uksi/2013/389/regulation/4/3/l)
+
+[^key-af94fa1a9e5084dcddc02720f0397ac6]: Textual amendment: [Reg. 2ZA](https://www.legislation.gov.uk/uksi/1991/2890/regulation/2ZA) substituted (23.2.2026) by [The Social Security (Scotland Cross-border Consequential Amendment and Transitional Provision) Regulations 2025 (S.I. 2025/1089)](https://www.legislation.gov.uk/uksi/2025/1089), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1089/regulation/1/2), [4(5)](https://www.legislation.gov.uk/uksi/2025/1089/regulation/4/5) (with savings in [regs. 6](https://www.legislation.gov.uk/uksi/2025/1089/regulation/6), [7](https://www.legislation.gov.uk/uksi/2025/1089/regulation/7))
+
+[^key-2a07b1aa64a52786fe9de9eec3c173e7]: Textual amendment: [Regs. 2ZA](https://www.legislation.gov.uk/uksi/1991/2890/regulation/2ZA), [2ZB](https://www.legislation.gov.uk/uksi/1991/2890/regulation/2ZB) inserted (7.7.2023) by [The Scotland Act 2016 (Social Security) (Disability Living Allowance) (Amendment) Regulations 2023 (S.I. 2023/664)](https://www.legislation.gov.uk/uksi/2023/664), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/664/regulation/1/1), [2(5)](https://www.legislation.gov.uk/uksi/2023/664/regulation/2/5)
+
+[^key-3655e76238a763335b93eca6fd409a73]: Textual amendment: [Reg. 2ZB(1)(2)](https://www.legislation.gov.uk/uksi/1991/2890/regulation/2ZB/1/2) substituted (23.2.2026) by [The Social Security (Scotland Cross-border Consequential Amendment and Transitional Provision) Regulations 2025 (S.I. 2025/1089)](https://www.legislation.gov.uk/uksi/2025/1089), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1089/regulation/1/2), [4(6)(a)](https://www.legislation.gov.uk/uksi/2025/1089/regulation/4/6/a) (with savings in [regs. 6](https://www.legislation.gov.uk/uksi/2025/1089/regulation/6), [7](https://www.legislation.gov.uk/uksi/2025/1089/regulation/7))
+
+[^key-9a4d9c2f4016ecf202a36fc87d5098c6]: Textual amendment: [Reg. 2ZB(2A)](https://www.legislation.gov.uk/uksi/1991/2890/regulation/2ZB/2A)[(2B)](https://www.legislation.gov.uk/uksi/1991/2890/regulation/2ZB/2B) inserted (23.2.2026) by [The Social Security (Scotland Cross-border Consequential Amendment and Transitional Provision) Regulations 2025 (S.I. 2025/1089)](https://www.legislation.gov.uk/uksi/2025/1089), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1089/regulation/1/2), [4(6)(b)](https://www.legislation.gov.uk/uksi/2025/1089/regulation/4/6/b) (with savings in [regs. 6](https://www.legislation.gov.uk/uksi/2025/1089/regulation/6), [7](https://www.legislation.gov.uk/uksi/2025/1089/regulation/7))
+
+[^key-16c6425af610393dda77f5468d5a8e12]: Textual amendment: Words in [reg. 2ZB(3)](https://www.legislation.gov.uk/uksi/1991/2890/regulation/2ZB/3) inserted (23.2.2026) by [The Social Security (Scotland Cross-border Consequential Amendment and Transitional Provision) Regulations 2025 (S.I. 2025/1089)](https://www.legislation.gov.uk/uksi/2025/1089), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1089/regulation/1/2), [4(6)(d)](https://www.legislation.gov.uk/uksi/2025/1089/regulation/4/6/d) (with savings in [regs. 6](https://www.legislation.gov.uk/uksi/2025/1089/regulation/6), [7](https://www.legislation.gov.uk/uksi/2025/1089/regulation/7))
+
+[^key-a3484b639f5153ed318b6cb79fb6be0d]: Textual amendment: Word in [reg. 2ZB(3)](https://www.legislation.gov.uk/uksi/1991/2890/regulation/2ZB/3) substituted (23.2.2026) by [The Social Security (Scotland Cross-border Consequential Amendment and Transitional Provision) Regulations 2025 (S.I. 2025/1089)](https://www.legislation.gov.uk/uksi/2025/1089), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1089/regulation/1/2), [4(6)(c)](https://www.legislation.gov.uk/uksi/2025/1089/regulation/4/6/c) (with savings in [regs. 6](https://www.legislation.gov.uk/uksi/2025/1089/regulation/6), [7](https://www.legislation.gov.uk/uksi/2025/1089/regulation/7))
+
+[^key-52459965f8e21328b5a8b1769b451669]: Textual amendment: Words in [reg. 2ZB(4)](https://www.legislation.gov.uk/uksi/1991/2890/regulation/2ZB/4) substituted (23.2.2026) by [The Social Security (Scotland Cross-border Consequential Amendment and Transitional Provision) Regulations 2025 (S.I. 2025/1089)](https://www.legislation.gov.uk/uksi/2025/1089), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1089/regulation/1/2), [4(6)(e)](https://www.legislation.gov.uk/uksi/2025/1089/regulation/4/6/e) (with savings in [regs. 6](https://www.legislation.gov.uk/uksi/2025/1089/regulation/6), [7](https://www.legislation.gov.uk/uksi/2025/1089/regulation/7))
+
+[^key-982d5e16f8a1d8faaa2dc5c24f7c72a4]: Textual amendment: Word in [reg. 2ZB(5)](https://www.legislation.gov.uk/uksi/1991/2890/regulation/2ZB/5) substituted (23.2.2026) by [The Social Security (Scotland Cross-border Consequential Amendment and Transitional Provision) Regulations 2025 (S.I. 2025/1089)](https://www.legislation.gov.uk/uksi/2025/1089), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1089/regulation/1/2), [4(6)(c)](https://www.legislation.gov.uk/uksi/2025/1089/regulation/4/6/c) (with savings in [regs. 6](https://www.legislation.gov.uk/uksi/2025/1089/regulation/6), [7](https://www.legislation.gov.uk/uksi/2025/1089/regulation/7))
+
+[^key-9d2c0440bd173eb66c83bdfaa726f5f1]: Textual amendment: Words in [reg. 2ZB(5)(a)](https://www.legislation.gov.uk/uksi/1991/2890/regulation/2ZB/5/a) inserted (23.2.2026) by [The Social Security (Scotland Cross-border Consequential Amendment and Transitional Provision) Regulations 2025 (S.I. 2025/1089)](https://www.legislation.gov.uk/uksi/2025/1089), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1089/regulation/1/2), [4(6)(f)(ii)](https://www.legislation.gov.uk/uksi/2025/1089/regulation/4/6/f/ii) (with savings in [regs. 6](https://www.legislation.gov.uk/uksi/2025/1089/regulation/6), [7](https://www.legislation.gov.uk/uksi/2025/1089/regulation/7))
+
+[^key-1c522271626e4647d91d98986f73f1d1]: Textual amendment: Words in [reg. 2ZB(5)](https://www.legislation.gov.uk/uksi/1991/2890/regulation/2ZB/5) substituted (23.2.2026) by [The Social Security (Scotland Cross-border Consequential Amendment and Transitional Provision) Regulations 2025 (S.I. 2025/1089)](https://www.legislation.gov.uk/uksi/2025/1089), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1089/regulation/1/2), [4(6)(f)(i)](https://www.legislation.gov.uk/uksi/2025/1089/regulation/4/6/f/i) (with savings in [regs. 6](https://www.legislation.gov.uk/uksi/2025/1089/regulation/6), [7](https://www.legislation.gov.uk/uksi/2025/1089/regulation/7))
+
+[^key-231963ea58743b36be7d399ce80333b4]: Textual amendment: [Reg. 2ZB(6)(a)](https://www.legislation.gov.uk/uksi/1991/2890/regulation/2ZB/6/a) omitted (23.2.2026) by virtue of [The Social Security (Scotland Cross-border Consequential Amendment and Transitional Provision) Regulations 2025 (S.I. 2025/1089)](https://www.legislation.gov.uk/uksi/2025/1089), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1089/regulation/1/2), [4(6)(g)](https://www.legislation.gov.uk/uksi/2025/1089/regulation/4/6/g) (with savings in [regs. 6](https://www.legislation.gov.uk/uksi/2025/1089/regulation/6), [7](https://www.legislation.gov.uk/uksi/2025/1089/regulation/7))
+
+[^key-dc7060611b7aad5ebf88d0d00750b697]: Textual amendment: Reg. 2A - Reg. 2B inserted (8.4.2013) by [The Social Security (Disability Living Allowance, Attendance Allowance and Carers Allowance) (Amendment) Regulations 2013 (S.I. 2013/389)](https://www.legislation.gov.uk/uksi/2013/389), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/389/regulation/1/2), [4(4)](https://www.legislation.gov.uk/uksi/2013/389/regulation/4/4)
+
+[^key-d66fd25ec45cca5aa9d6a8a131fd4e9d]: Textual amendment: Words in [reg. 2A(1)(c)](https://www.legislation.gov.uk/uksi/1991/2890/regulation/2A/1/c) omitted (E.W.) (7.11.2024) by virtue of [The Social Security (Genuine and Sufficient Link to the United Kingdom) (Amendment) Regulations 2024 (S.I. 2024/936)](https://www.legislation.gov.uk/uksi/2024/936), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/936/regulation/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2024/936/regulation/4/2); (S.) (7.11.2024) by virtue of [The Social Security (Genuine and Sufficient Link to the United Kingdom) (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/241)](https://www.legislation.gov.uk/ssi/2024/241), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/241/regulation/1/1), [4(2)](https://www.legislation.gov.uk/ssi/2024/241/regulation/4/2)
+
+[^key-720e3ef7cc8143e4718d9f289fc99401]: Textual amendment: Words in reg. 2B title omitted (31.12.2020) by virtue of [The Social Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/128)](https://www.legislation.gov.uk/uksi/2019/128), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/128/regulation/1/2), [Sch. para. 7(2)(a)](https://www.legislation.gov.uk/uksi/2019/128/schedule/paragraph/7/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-78a7413487187593605c0fe9a9f95b45]: Textual amendment: Words in reg. 2B(a)(i) omitted (31.12.2020) by virtue of [The Social Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/128)](https://www.legislation.gov.uk/uksi/2019/128), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/128/regulation/1/2), [Sch. para. 7(2)(b)](https://www.legislation.gov.uk/uksi/2019/128/schedule/paragraph/7/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-f2a5b3776d692f26de08df22cdf2d7ab]: Textual amendment: Reg. 2B(b) substituted (E.W.) (10.12.2025) by [The Social Security (Residence in an EEA State or Switzerland) (Amendment) Regulations 2025 (S.I. 2025/1198)](https://www.legislation.gov.uk/uksi/2025/1198), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1198/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2025/1198/regulation/3); and substituted (S.) (1.4.2026) by [The Social Security (Residence in an EEA State or Switzerland) (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/415)](https://www.legislation.gov.uk/ssi/2025/415), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/415/regulation/1/1), [3](https://www.legislation.gov.uk/ssi/2025/415/regulation/3)
+
+[^key-ecf39bb92e2ec87b589966a96556359d]: Textual amendment: Words in reg. 2B(c) omitted (E.W.) (7.11.2024) by virtue of [The Social Security (Genuine and Sufficient Link to the United Kingdom) (Amendment) Regulations 2024 (S.I. 2024/936)](https://www.legislation.gov.uk/uksi/2024/936), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/936/regulation/1/1), [4(3)](https://www.legislation.gov.uk/uksi/2024/936/regulation/4/3); (S.) (7.11.2024) by virtue of [The Social Security (Genuine and Sufficient Link to the United Kingdom) (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/241)](https://www.legislation.gov.uk/ssi/2024/241), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/241/regulation/1/1), [4(3)](https://www.legislation.gov.uk/ssi/2024/241/regulation/4/3)
+
+[^key-1bc373a80ac628298a0367e01a798316]: Textual amendment: Reg. 2C inserted (16.11.2017) by [The Social Security (Miscellaneous Amendments No. 4) Regulations 2017 (S.I. 2017/1015)](https://www.legislation.gov.uk/uksi/2017/1015), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1015/regulation/1/2), [7(3)](https://www.legislation.gov.uk/uksi/2017/1015/regulation/7/3)
+
+[^key-44294c22dc6a290a8ad25e806ac82a3a]: Textual amendment: Reg. 2C heading substituted: (S.) (15.9.2021) by [The Social Security (Residence Requirements) (Afghanistan) (Scotland) Regulations 2021 (S.S.I. 2021/320)](https://www.legislation.gov.uk/ssi/2021/320), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/320/regulation/1/1), [2(2)](https://www.legislation.gov.uk/ssi/2021/320/regulation/2/2)[(5)(c)](https://www.legislation.gov.uk/ssi/2021/320/regulation/2/5/c); and (E.W.) (16.9.2021) by [The Social Security (Habitual Residence and Past Presence) (Amendment) Regulations 2021 (S.I. 2021/1034)](https://www.legislation.gov.uk/uksi/2021/1034), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1034/regulation/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2021/1034/regulation/4/2)[(4)](https://www.legislation.gov.uk/uksi/2021/1034/regulation/4/4)
+
+[^key-3f7705be422032e2a1a59598f77746db]: Textual amendment: Word in reg. 2C(1)(a) omitted: (S.) (15.9.2021) by virtue of [The Social Security (Residence Requirements) (Afghanistan) (Scotland) Regulations 2021 (S.S.I. 2021/320)](https://www.legislation.gov.uk/ssi/2021/320), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/320/regulation/1/1), [2(3)(a)](https://www.legislation.gov.uk/ssi/2021/320/regulation/2/3/a)[(5)(c)](https://www.legislation.gov.uk/ssi/2021/320/regulation/2/5/c); and (E.W.) (16.9.2021) by virtue of [The Social Security (Habitual Residence and Past Presence) (Amendment) Regulations 2021 (S.I. 2021/1034)](https://www.legislation.gov.uk/uksi/2021/1034), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1034/regulation/1/1), [4(3)(a)](https://www.legislation.gov.uk/uksi/2021/1034/regulation/4/3/a)[(4)](https://www.legislation.gov.uk/uksi/2021/1034/regulation/4/4)
+
+[^key-61477507153c35c3f380eaa1582dd3b3]: Textual amendment: Reg. 2C(1)(c)-(e) inserted: (S.) (15.9.2021) by [The Social Security (Residence Requirements) (Afghanistan) (Scotland) Regulations 2021 (S.S.I. 2021/320)](https://www.legislation.gov.uk/ssi/2021/320), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/320/regulation/1/1), [2(3)(b)](https://www.legislation.gov.uk/ssi/2021/320/regulation/2/3/b)[(5)(c)](https://www.legislation.gov.uk/ssi/2021/320/regulation/2/5/c); and (E.W.) (16.9.2021) by [The Social Security (Habitual Residence and Past Presence) (Amendment) Regulations 2021 (S.I. 2021/1034)](https://www.legislation.gov.uk/uksi/2021/1034), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1034/regulation/1/1), [4(3)(b)](https://www.legislation.gov.uk/uksi/2021/1034/regulation/4/3/b)[(4)](https://www.legislation.gov.uk/uksi/2021/1034/regulation/4/4)
+
+[^key-62efd492b0c20b54a253507e325d9abd]: Textual amendment: Word in reg. 2C(1)(d) omitted (E.W.) (22.3.2022) by virtue of [The Social Security (Habitual Residence and Past Presence) (Amendment) Regulations 2022 (S.I. 2022/344)](https://www.legislation.gov.uk/uksi/2022/344), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/344/regulation/1/1), [4(2)(a)](https://www.legislation.gov.uk/uksi/2022/344/regulation/4/2/a)[(4)(c)](https://www.legislation.gov.uk/uksi/2022/344/regulation/4/4/c); and (S.) (22.3.2022 at 5.40 p.m.) by virtue of [The Social Security (Residence Requirements) (Ukraine) (Scotland) Regulations 2022 (S.S.I. 2022/108)](https://www.legislation.gov.uk/ssi/2022/108), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/108/regulation/1/1), [2(2)(a)](https://www.legislation.gov.uk/ssi/2022/108/regulation/2/2/a)[(4)(c)](https://www.legislation.gov.uk/ssi/2022/108/regulation/2/4/c)
+
+[^key-5fb7ea4cff9cd116533d0a9f62bb425d]: Textual amendment: Word in reg. 2C(1)(e) substituted (E.W.) (18.10.2022) by [The Social Security (Habitual Residence and Past Presence) (Amendment) (No. 2) Regulations 2022 (S.I. 2022/990)](https://www.legislation.gov.uk/uksi/2022/990), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/990/regulation/1/1), [3(1)(a)](https://www.legislation.gov.uk/uksi/2022/990/regulation/3/1/a)[(2)(c)](https://www.legislation.gov.uk/uksi/2022/990/regulation/3/2/c)
+
+[^key-281d65c2960e44c03ffde7342b2ac63b]: Textual amendment: Word in [reg. 2C(1)(e)](https://www.legislation.gov.uk/uksi/1991/2890/regulation/2C/1/e) omitted (E.W.) (15.5.2023) by virtue of [The Social Security (Habitual Residence and Past Presence) (Amendment) Regulations 2023 (S.I. 2023/532)](https://www.legislation.gov.uk/uksi/2023/532), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/532/regulation/1/1), [4(1)(a)](https://www.legislation.gov.uk/uksi/2023/532/regulation/4/1/a)[(2)(c)](https://www.legislation.gov.uk/uksi/2023/532/regulation/4/2/c); (S.) (17.5.2023 at 5.54 p.m.) by virtue of [The Social Security (Residence Requirements) (Sudan) (Scotland) Regulations 2023 (S.S.I. 2023/149)](https://www.legislation.gov.uk/ssi/2023/149), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2023/149/regulation/1/1), [2(2)(a)](https://www.legislation.gov.uk/ssi/2023/149/regulation/2/2/a)
+
+[^key-13863d70cdd549435aab3b0bb3ea2397]: Textual amendment: Reg. 2C(1)(f) and word inserted (E.W.) (22.3.2022) by [The Social Security (Habitual Residence and Past Presence) (Amendment) Regulations 2022 (S.I. 2022/344)](https://www.legislation.gov.uk/uksi/2022/344), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/344/regulation/1/1), [4(2)(b)](https://www.legislation.gov.uk/uksi/2022/344/regulation/4/2/b)[(4)(c)](https://www.legislation.gov.uk/uksi/2022/344/regulation/4/4/c); and (S.) (22.3.2022 at 5.40 p.m.) by [The Social Security (Residence Requirements) (Ukraine) (Scotland) Regulations 2022 (S.S.I. 2022/108)](https://www.legislation.gov.uk/ssi/2022/108), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/108/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/ssi/2022/108/regulation/2/2/b)[(4)(c)](https://www.legislation.gov.uk/ssi/2022/108/regulation/2/4/c)
+
+[^key-d7ebf475b30f63dc3b141a25cc7e9e3e]: Textual amendment: Words in reg. 2C(1)(f) substituted (E.W.) (18.10.2022) by [The Social Security (Habitual Residence and Past Presence) (Amendment) (No. 2) Regulations 2022 (S.I. 2022/990)](https://www.legislation.gov.uk/uksi/2022/990), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/990/regulation/1/1), [3(1)(b)(i)](https://www.legislation.gov.uk/uksi/2022/990/regulation/3/1/b/i)[(2)(c)](https://www.legislation.gov.uk/uksi/2022/990/regulation/3/2/c)
+
+[^key-44bf3334a200596794008ad1f9d1ba1f]: Textual amendment: Words in reg. 2C(1)(f) substituted (S.) (14.11.2022) by [The Social Security (Miscellaneous Amendment and Transitional Provision) (Scotland) Regulations 2022 (S.S.I. 2022/336)](https://www.legislation.gov.uk/ssi/2022/336), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/336/regulation/1/1), [6(1)(a)](https://www.legislation.gov.uk/ssi/2022/336/regulation/6/1/a)[(2)(c)](https://www.legislation.gov.uk/ssi/2022/336/regulation/6/2/c)
+
+[^key-77f56d730c356356ecc192f90518328f]: Textual amendment: Words in reg. 2C(1)(f) inserted (E.W.) (18.10.2022) by [The Social Security (Habitual Residence and Past Presence) (Amendment) (No. 2) Regulations 2022 (S.I. 2022/990)](https://www.legislation.gov.uk/uksi/2022/990), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/990/regulation/1/1), [3(1)(b)(ii)](https://www.legislation.gov.uk/uksi/2022/990/regulation/3/1/b/ii)[(2)(c)](https://www.legislation.gov.uk/uksi/2022/990/regulation/3/2/c)
+
+[^key-dd3c0ba956b2143e43ebd9985528309a]: Textual amendment: Words in reg. 2C(1)(f) inserted (S.) (14.11.2022) by [The Social Security (Miscellaneous Amendment and Transitional Provision) (Scotland) Regulations 2022 (S.S.I. 2022/336)](https://www.legislation.gov.uk/ssi/2022/336), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/336/regulation/1/1), [6(1)(b)](https://www.legislation.gov.uk/ssi/2022/336/regulation/6/1/b)[(2)(c)](https://www.legislation.gov.uk/ssi/2022/336/regulation/6/2/c)
+
+[^key-a647fd49de265b8b58acf6c045ff6062]: Textual amendment: Reg. 2C(1)(g) and word inserted (E.W.) (15.5.2023) by [The Social Security (Habitual Residence and Past Presence) (Amendment) Regulations 2023 (S.I. 2023/532)](https://www.legislation.gov.uk/uksi/2023/532), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/532/regulation/1/1), [4(1)(b)](https://www.legislation.gov.uk/uksi/2023/532/regulation/4/1/b)[(2)(c)](https://www.legislation.gov.uk/uksi/2023/532/regulation/4/2/c); (S.) (17.5.2023 at 5.54 p.m.) by[The Social Security (Residence Requirements) (Sudan) (Scotland) Regulations 2023 (S.S.I. 2023/149)](https://www.legislation.gov.uk/ssi/2023/149), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2023/149/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/ssi/2023/149/regulation/2/2/b)
+
+[^key-5874a936f31891f5cd0635e9ceb504a3]: Textual amendment: Word in reg. 2C(1)(f) omitted (S.) (26.10.2023 at 5.38 p.m.) by virtue of [The Social Security (Residence and Presence Requirements) (Israel, the West Bank, the Gaza Strip, East Jerusalem, the Golan Heights and Lebanon) (Scotland) Regulations 2023 (S.S.I. 2023/309)](https://www.legislation.gov.uk/ssi/2023/309), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2023/309/regulation/1/2), [2(2)(a)](https://www.legislation.gov.uk/ssi/2023/309/regulation/2/2/a)[(3)(c)](https://www.legislation.gov.uk/ssi/2023/309/regulation/2/2/a); (E.W.) (27.10.2023) by virtue of [The Social Security (Habitual Residence and Past Presence, and Capital Disregards) (Amendment) Regulations 2023 (S.I. 2023/1144)](https://www.legislation.gov.uk/uksi/2023/1144), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1144/regulation/1/1), [10(1)(a)](https://www.legislation.gov.uk/uksi/2023/1144/regulation/10/1/a)[(2)(c)](https://www.legislation.gov.uk/uksi/2023/1144/regulation/10/2/c)
+
+[^key-a68c2052876bde8966b4b53cfaf741f3]: Textual amendment: Reg. 2C(1)(h) and word inserted (S.) (26.10.2023 at 5.38 p.m.) by [The Social Security (Residence and Presence Requirements) (Israel, the West Bank, the Gaza Strip, East Jerusalem, the Golan Heights and Lebanon) (Scotland) Regulations 2023 (S.S.I. 2023/309)](https://www.legislation.gov.uk/ssi/2023/309), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2023/309/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/ssi/2023/309/regulation/2/2/b)[(3)(c)](https://editorial.legislation.gov.uk/ssi/2023/309/regulation/2/made); (E.W.) (27.10.2023) by [The Social Security (Habitual Residence and Past Presence, and Capital Disregards) (Amendment) Regulations 2023 (S.I. 2023/1144)](https://www.legislation.gov.uk/uksi/2023/1144), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1144/regulation/1/1), [10(1)(b)(c)](https://editorial.legislation.gov.uk/uksi/2023/1144/regulation/10/made)[(2)(c)](https://editorial.legislation.gov.uk/uksi/2023/1144/regulation/10/made)
+
+[^key-669fb20114efee9ecb85182758694053]: Textual amendment: Word in reg. 2C(1)(g) omitted (E.W.) (18.7.2025) by virtue of [The Social Security (Habitual Residence, Past Presence and Temporary Absence) (Amendment) Regulations 2025 (S.I. 2025/884)](https://www.legislation.gov.uk/uksi/2025/884), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/884/regulation/1/1), [13(1)(a)](https://www.legislation.gov.uk/uksi/2025/884/regulation/13/1/a)[(4)(c)](https://www.legislation.gov.uk/uksi/2025/884/regulation/13/4/c)
+
+[^key-db09240e095bd9a69d8f93b8f74c92f6]: Textual amendment: Reg. 2C(1)(h): semicolon substituted for full stop (E.W.) (18.7.2025) by [The Social Security (Habitual Residence, Past Presence and Temporary Absence) (Amendment) Regulations 2025 (S.I. 2025/884)](https://www.legislation.gov.uk/uksi/2025/884), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/884/regulation/1/1), [13(1)(b)](https://www.legislation.gov.uk/uksi/2025/884/regulation/13/1/b)[(4)(c)](https://www.legislation.gov.uk/uksi/2025/884/regulation/13/4/c)
+
+[^key-be07005fd95c9990559fc05a1de1d324]: Textual amendment: Reg. 2C(1)(i)(j) inserted (E.W.) (18.7.2025) by [The Social Security (Habitual Residence, Past Presence and Temporary Absence) (Amendment) Regulations 2025 (S.I. 2025/884)](https://www.legislation.gov.uk/uksi/2025/884), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/884/regulation/1/1), [13(1)(c)](https://www.legislation.gov.uk/uksi/2025/884/regulation/13/1/c)[(4)(c)](https://www.legislation.gov.uk/uksi/2025/884/regulation/13/4/c)
+
+[^key-d5706394e9944f676b1f2b7a66815d58]: Textual amendment: Reg. 2C(1)(k)(l) inserted (S.) (18.3.2026) by [The Social Security (Residence and Presence Requirements) (Miscellaneous Amendment) (Scotland) Regulations 2026 (S.S.I. 2026/139)](https://www.legislation.gov.uk/ssi/2026/139), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2026/139/regulation/1/1), [4(3)(a)](https://www.legislation.gov.uk/ssi/2026/139/regulation/4/3/a)
+
+[^key-1b8f6687859d45a01e31d75dd8d3c793]: Textual amendment: Reg. 2C(1A) inserted: (S.) (15.9.2021) by [The Social Security (Residence Requirements) (Afghanistan) (Scotland) Regulations 2021 (S.S.I. 2021/320)](https://www.legislation.gov.uk/ssi/2021/320), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/320/regulation/1/1), [2(8)](https://www.legislation.gov.uk/ssi/2021/320/regulation/2/8); and (E.W.) (16.9.2021) by [The Social Security (Habitual Residence and Past Presence) (Amendment) Regulations 2021 (S.I. 2021/1034)](https://www.legislation.gov.uk/uksi/2021/1034), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1034/regulation/1/1), [4(7)](https://www.legislation.gov.uk/uksi/2021/1034/regulation/4/7)
+
+[^key-eb75acc91c6ec6018febebb4f02bc1d1]: Textual amendment: Words in reg. 2C(1A) substituted (E.W.) (22.3.2022) by [The Social Security (Habitual Residence and Past Presence) (Amendment) Regulations 2022 (S.I. 2022/344)](https://www.legislation.gov.uk/uksi/2022/344), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/344/regulation/1/1), [4(3)](https://www.legislation.gov.uk/uksi/2022/344/regulation/4/3)[(4)(c)](https://www.legislation.gov.uk/uksi/2022/344/regulation/4/4/c); and (S.) (22.3.2022 at 5.40 p.m.) by [The Social Security (Residence Requirements) (Ukraine) (Scotland) Regulations 2022 (S.S.I. 2022/108)](https://www.legislation.gov.uk/ssi/2022/108), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/108/regulation/1/1), [2(3)](https://www.legislation.gov.uk/ssi/2022/108/regulation/2/3)[(4)(c)](https://www.legislation.gov.uk/ssi/2022/108/regulation/2/4/c)
+
+[^key-41d21291d813989f5998d8b74a03f340]: Textual amendment: Reg. 2C(1B) inserted (E.W.) (18.7.2025) by [The Social Security (Habitual Residence, Past Presence and Temporary Absence) (Amendment) Regulations 2025 (S.I. 2025/884)](https://www.legislation.gov.uk/uksi/2025/884), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/884/regulation/1/1), [13(3)](https://www.legislation.gov.uk/uksi/2025/884/regulation/13/3)[(4)(c)](https://www.legislation.gov.uk/uksi/2025/884/regulation/13/4/c)
+
+[^key-52c663693bfd32b301065fc42abe566e]: Textual amendment: Reg. 2C(1C) inserted (S.) (18.3.2026) by [The Social Security (Residence and Presence Requirements) (Miscellaneous Amendment) (Scotland) Regulations 2026 (S.S.I. 2026/139)](https://www.legislation.gov.uk/ssi/2026/139), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2026/139/regulation/1/1), [4(3)(b)](https://www.legislation.gov.uk/ssi/2026/139/regulation/4/3/b)
+
+[^key-c521b634cb25b4031f8abfee25db6fe3]: Textual amendment: Reg. 2C(2) substituted (S.) (15.9.2021) by [The Social Security (Residence Requirements) (Afghanistan) (Scotland) Regulations 2021 (S.S.I. 2021/320)](https://www.legislation.gov.uk/ssi/2021/320), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/320/regulation/1/1), [2(4)](https://www.legislation.gov.uk/ssi/2021/320/regulation/2/4)[(5)(c)](https://www.legislation.gov.uk/ssi/2021/320/regulation/2/5/c)
+
+[^M_F_65b450d1-ebef-415f-8680-b2c0a836a43a]: Textual amendment: words in reg. 3(1) substituted (6.10.97) by reg. 2 of [S.I. 1997/349](https://www.legislation.gov.uk/uksi/1997/349), [reg. 2](https://www.legislation.gov.uk/uksi/1997/349/regulation/2), [reg 1](https://www.legislation.gov.uk/uksi/1997/349/regulation/1)
+
+[^M_F_bb11f1ff-69ce-4df0-c864-f5be21fad90a]: Textual amendment: Reg 3(1)(a) omitted (6.10.97) by [S.I. 1997/349](https://www.legislation.gov.uk/uksi/1997/349), [reg. 2](https://www.legislation.gov.uk/uksi/1997/349/regulation/2), [reg. 1](https://www.legislation.gov.uk/uksi/1997/349/regulation/1)
+
+[^M_F_abcd9b8f-facf-43e9-8d80-27ceaec804b5]: Textual amendment: Reg 3(1)(b) omitted (6.10.97) by [S.I. 1997/349](https://www.legislation.gov.uk/uksi/1997/349), [reg. 2](https://www.legislation.gov.uk/uksi/1997/349/regulation/2), [reg. 1](https://www.legislation.gov.uk/uksi/1997/349/regulation/1)
+
+[^M_F_b42aec76-0481-421f-8b35-37b503626caa]: Textual amendment: Reg 3(1)(c) omitted (6.10.97) by [S.I. 1997/349](https://www.legislation.gov.uk/uksi/1997/349), [reg. 2](https://www.legislation.gov.uk/uksi/1997/349/regulation/2), [reg. 1](https://www.legislation.gov.uk/uksi/1997/349/regulation/1)
+
+[^M_F_8b70a705-09ea-4c6f-95a4-df19ad6f7995]: Textual amendment: Reg 3(1)(d) omitted (6.10.97) by [S.I. 1997/349](https://www.legislation.gov.uk/uksi/1997/349), [reg. 2](https://www.legislation.gov.uk/uksi/1997/349/regulation/2), [reg. 1](https://www.legislation.gov.uk/uksi/1997/349/regulation/1)
+
+[^key-1702ccfefa99b2dbf27831566e1197d7]: Textual amendment: Words in reg. 3(3) substituted (26.8.1993) by [The Social Security (Disability Living Allowance) (Amendment) Regulations 1993 (S.I. 1993/1939)](https://www.legislation.gov.uk/uksi/1993/1939), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1993/1939/regulation/1/1), [2(4)](https://www.legislation.gov.uk/uksi/1993/1939/regulation/2/4)
+
+[^key-22bf2a8c64e337f42d403cf50afc39cf]: Textual amendment: Words in reg. 3(3) substituted (26.8.1993) by [The Social Security (Disability Living Allowance) (Amendment) Regulations 1993 (S.I. 1993/1939)](https://www.legislation.gov.uk/uksi/1993/1939), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1993/1939/regulation/1/1), [2(5)](https://www.legislation.gov.uk/uksi/1993/1939/regulation/2/5)
+
+[^key-2fcea3969ba9c96eaa79119d09ce7a32]: Textual amendment: Reg. 3(3A) inserted (31.10.2011) by [The Social Security (Disability Living Allowance, Attendance Allowance and Carerâ€™s Allowance) (Miscellaneous Amendments) Regulations 2011 (S.I. 2011/2426)](https://www.legislation.gov.uk/uksi/2011/2426), [regs. 1](https://www.legislation.gov.uk/uksi/2011/2426/regulation/1), [4](https://www.legislation.gov.uk/uksi/2011/2426/regulation/4)
+
+[^key-358111ded595e19a9fdc22cd42e04b2d]: Textual amendment: Words in reg. 4(1) substituted (26.8.1993) by [The Social Security (Disability Living Allowance) (Amendment) Regulations 1993 (S.I. 1993/1939)](https://www.legislation.gov.uk/uksi/1993/1939) , [regs. 1(1)](https://www.legislation.gov.uk/uksi/1993/1939/regulation/1/1), [2(4)](https://www.legislation.gov.uk/uksi/1993/1939/regulation/2/4)
+
+[^key-9ded25c10df8279a05a1311f63a0125e]: Textual amendment: Sum in [Reg. 4(1)(a)](https://www.legislation.gov.uk/uksi/1991/2890/regulation/4/1/a) substituted (E.W.) (6.4.2026) by [The Social Security Benefits Up-rating Order 2026 (S.I. 2026/148)](https://www.legislation.gov.uk/uksi/2026/148), [arts. 1(3)(c)](https://www.legislation.gov.uk/uksi/2026/148/article/1/3/c), [14(a)](https://www.legislation.gov.uk/uksi/2026/148/article/14/a); (S.) (6.4.2026) by [The Social Security Up-rating (Scotland) Order 2026 (S.S.I. 2026/171)](https://www.legislation.gov.uk/ssi/2026/171), [arts. 1(3)](https://www.legislation.gov.uk/ssi/2026/171/article/1/3), [7(a)(i)](https://www.legislation.gov.uk/ssi/2026/171/article/7/a/i)
+
+[^key-cbc005a8b27d7160c85e0a79a3ad4e3e]: Textual amendment: Sum in [Reg. 4(1)(b)](https://www.legislation.gov.uk/uksi/1991/2890/regulation/4/1/b) substituted (E.W.) (6.4.2026) by [The Social Security Benefits Up-rating Order 2026 (S.I. 2026/148)](https://www.legislation.gov.uk/uksi/2026/148), [arts. 1(3)(c)](https://www.legislation.gov.uk/uksi/2026/148/article/1/3/c), [14(b)](https://www.legislation.gov.uk/uksi/2026/148/article/14/b); (S.) (6.4.2026) by [The Social Security Up-rating (Scotland) Order 2026 (S.S.I. 2026/171)](https://www.legislation.gov.uk/ssi/2026/171), [arts. 1(3)](https://www.legislation.gov.uk/ssi/2026/171/article/1/3), [7(a)(ii)](https://www.legislation.gov.uk/ssi/2026/171/article/7/a/ii)
+
+[^key-49194264ebb447519139ceb99e0f0046]: Textual amendment: Sum in [Reg. 4(1)(c)](https://www.legislation.gov.uk/uksi/1991/2890/regulation/4/1/c) substituted (E.W.) (6.4.2026) by [The Social Security Benefits Up-rating Order 2026 (S.I. 2026/148)](https://www.legislation.gov.uk/uksi/2026/148), [arts. 1(3)(c)](https://www.legislation.gov.uk/uksi/2026/148/article/1/3/c), [14(c)](https://www.legislation.gov.uk/uksi/2026/148/article/14/c); (S.) (6.4.2026) by [The Social Security Up-rating (Scotland) Order 2026 (S.S.I. 2026/171)](https://www.legislation.gov.uk/ssi/2026/171), [arts. 1(3)](https://www.legislation.gov.uk/ssi/2026/171/article/1/3), [7(a)(iii)](https://www.legislation.gov.uk/ssi/2026/171/article/7/a/iii)
+
+[^key-f040c8fb4b8dca4b7f196fcc1c6bcf31]: Textual amendment: Words in reg. 4(2) substituted (26.8.1993) by [The Social Security (Disability Living Allowance) (Amendment) Regulations 1993 (S.I. 1993/1939)](https://www.legislation.gov.uk/uksi/1993/1939) , [regs. 1(1)](https://www.legislation.gov.uk/uksi/1993/1939/regulation/1/1), [2(5)](https://www.legislation.gov.uk/uksi/1993/1939/regulation/2/5)
+
+[^key-6e4365c162c233b12518f1df2e017032]: Textual amendment: Sum in [Reg. 4(2)(a)](https://www.legislation.gov.uk/uksi/1991/2890/regulation/4/2/a) substituted (E.W.) (6.4.2026) by [The Social Security Benefits Up-rating Order 2026 (S.I. 2026/148)](https://www.legislation.gov.uk/uksi/2026/148), [arts. 1(3)(c)](https://www.legislation.gov.uk/uksi/2026/148/article/1/3/c), [14(d)](https://www.legislation.gov.uk/uksi/2026/148/article/14/d); (S.) (6.4.2026) by [The Social Security Up-rating (Scotland) Order 2026 (S.S.I. 2026/171)](https://www.legislation.gov.uk/ssi/2026/171), [arts. 1(3)](https://www.legislation.gov.uk/ssi/2026/171/article/1/3), [7(b)(i)](https://www.legislation.gov.uk/ssi/2026/171/article/7/b/i)
+
+[^key-bb498074251775f095fdd346af12970d]: Textual amendment: Sum in [Reg. 4(2)(b)](https://www.legislation.gov.uk/uksi/1991/2890/regulation/4/2/b) substituted (E.W.) (6.4.2026) by [The Social Security Benefits Up-rating Order 2026 (S.I. 2026/148)](https://www.legislation.gov.uk/uksi/2026/148), [arts. 1(3)(c)](https://www.legislation.gov.uk/uksi/2026/148/article/1/3/c), [14(e)](https://www.legislation.gov.uk/uksi/2026/148/article/14/e); (S.) (6.4.2026) by [The Social Security Up-rating (Scotland) Order 2026 (S.S.I. 2026/171)](https://www.legislation.gov.uk/ssi/2026/171), [arts. 1(3)](https://www.legislation.gov.uk/ssi/2026/171/article/1/3), [7(b)(ii)](https://www.legislation.gov.uk/ssi/2026/171/article/7/b/ii)
+
+[^key-f2ca0c97e1524ef708c2e8d4e29257b9]: Textual amendment: Reg. 5 revoked (1.9.1997) by [The Social Security (Miscellaneous Amendments) (No.2) Regulations 1997 (S.I. 1997/793)](https://www.legislation.gov.uk/uksi/1997/793) , [regs. 1(1)(e)](https://www.legislation.gov.uk/uksi/1997/793/regulation/1/1/e) , [19(c)](https://www.legislation.gov.uk/uksi/1997/793/regulation/19/c)
+
+[^M_F_6473e500-9a02-4387-941d-b72ab99ad5da]: Textual amendment: Reg. 5A revoked (18.10.99) by [S.I. 1999/2860](https://www.legislation.gov.uk/uksi/1999/2860) Sch. 7, para 3
+
+[^M_F_1130c826-b7c9-442c-baee-77ba0f4556cc]: Textual amendment: Reg. 5A-5C inserted (25.8.97) by [S.I. 1997/1839](https://www.legislation.gov.uk/uksi/1997/1839), [reg. 3](https://www.legislation.gov.uk/uksi/1997/1839/regulation/3), reg, 1
+
+[^M_F_d0333d7f-362c-4714-94a2-74e448452dae]: Textual amendment: Reg. 5B revoked (18.10.99) by [S.I. 1999/2860](https://www.legislation.gov.uk/uksi/1999/2860) Sch. 7, para 3
+
+[^M_F_cd54f8d4-4ec0-4eba-99f4-5c83a6bce51c]: Textual amendment: Reg. 5A-5C inserted (25.8.97) by [S.I. 1997/1839](https://www.legislation.gov.uk/uksi/1997/1839), [reg. 3](https://www.legislation.gov.uk/uksi/1997/1839/regulation/3), reg, 1
+
+[^M_F_52478022-dde6-45fc-c501-7f477e0a967d]: Textual amendment: Reg. 5C revoked (18.10.99) by [S.I. 1999/2860](https://www.legislation.gov.uk/uksi/1999/2860) Sch. 7, para 3
+
+[^M_F_850e5cff-3243-46ca-e24e-eec09102bfb8]: Textual amendment: Reg. 5A-5C inserted (25.8.97) by [S.I. 1997/1839](https://www.legislation.gov.uk/uksi/1997/1839), [reg. 3](https://www.legislation.gov.uk/uksi/1997/1839/regulation/3), reg, 1
+
+[^key-c62eb38661fd8be462955cfeae9de78e]: Textual amendment: Words in reg. 6(1) substituted (26.8.1993) by [The Social Security (Disability Living Allowance) (Amendment) Regulations 1993 (S.I. 1993/1939)](https://www.legislation.gov.uk/uksi/1993/1939) , [regs. 1(1)](https://www.legislation.gov.uk/uksi/1993/1939/regulation/1/1) , [2(4)](https://www.legislation.gov.uk/uksi/1993/1939/regulation/2/4)
+
+[^key-bcae87e9e73a41c0d8b499f78907da15]: Textual amendment: Words in [reg. 6(1)](https://www.legislation.gov.uk/uksi/1991/2890/regulation/6/1) inserted (21.3.2022) by [The Social Security (Disability Assistance for Working Age People) (Consequential Amendments) Order 2022 (S.I. 2022/177)](https://www.legislation.gov.uk/uksi/2022/177), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/177/article/1/2), [4(3)(a)](https://www.legislation.gov.uk/uksi/2022/177/article/4/3/a)
+
+[^key-8370e4550e4fbcff51ec5aa995ea53b0]: Textual amendment: Words in [reg. 6(1)](https://www.legislation.gov.uk/uksi/1991/2890/regulation/6/1) inserted (E.W.) (21.3.2025) by [The Social Security (Scotland) Act 2018 (Disability Assistance) (Consequential Amendments) Order 2025 (S.I. 2025/227)](https://www.legislation.gov.uk/uksi/2025/227), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/227/article/1/1), [3(4)](https://www.legislation.gov.uk/uksi/2025/227/article/3/4)
+
+[^key-1a101fa0f1a3e7e5ad3295fac3e81df7]: Textual amendment: Words in [reg. 6(1)](https://www.legislation.gov.uk/uksi/1991/2890/regulation/6/1) inserted (21.3.2022) by [The Social Security (Disability Assistance for Working Age People) (Consequential Amendments) Order 2022 (S.I. 2022/177)](https://www.legislation.gov.uk/uksi/2022/177), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/177/article/1/2), [4(3)(b)](https://www.legislation.gov.uk/uksi/2022/177/article/4/3/b)
+
+[^key-fbe41a51840034e851610eb9f3ff86b8]: Textual amendment: Words in reg. 6(1) substituted (26.8.1993) by [The Social Security (Disability Living Allowance) (Amendment) Regulations 1993 (S.I. 1993/1939)](https://www.legislation.gov.uk/uksi/1993/1939) , [regs. 1(1)](https://www.legislation.gov.uk/uksi/1993/1939/regulation/1/1) , [2(7)](https://www.legislation.gov.uk/uksi/1993/1939/regulation/2/7)
+
+[^key-95003f2e3afb1d44042ed7ea9409cdd2]: Textual amendment: Words in reg. 6(4)(a) substituted (26.8.1993) by [The Social Security (Disability Living Allowance) (Amendment) Regulations 1993 (S.I. 1993/1939)](https://www.legislation.gov.uk/uksi/1993/1939) , [regs. 1(1)](https://www.legislation.gov.uk/uksi/1993/1939/regulation/1/1) , [2(4)](https://www.legislation.gov.uk/uksi/1993/1939/regulation/2/4)
+
+[^key-e8d67e190e0dea89e35779e021f09a83]: Textual amendment: Words in reg. 6(4)(b) substituted (26.8.1993) by [The Social Security (Disability Living Allowance) (Amendment) Regulations 1993 (S.I. 1993/1939)](https://www.legislation.gov.uk/uksi/1993/1939) , [regs. 1(1)](https://www.legislation.gov.uk/uksi/1993/1939/regulation/1/1) , [2(5)](https://www.legislation.gov.uk/uksi/1993/1939/regulation/2/5)
+
+[^key-bed09ddcbd66706cf1d6f221dbeff977]: Textual amendment: Words in reg. 7(1) substituted (26.8.1993) by [The Social Security (Disability Living Allowance) (Amendment) Regulations 1993 (S.I. 1993/1939)](https://www.legislation.gov.uk/uksi/1993/1939) , [regs. 1(1)](https://www.legislation.gov.uk/uksi/1993/1939/regulation/1/1) , [2(8)(a)](https://www.legislation.gov.uk/uksi/1993/1939/regulation/2/8/a)
+
+[^key-121bfb8fda7e349fbedb6d68d25929ea]: Textual amendment: Words in reg. 7(2)(b) substituted (8.4.2013) by [The Social Security (Disability Living Allowance, Attendance Allowance and Carers Allowance) (Amendment) Regulations 2013 (S.I. 2013/389)](https://www.legislation.gov.uk/uksi/2013/389), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/389/regulation/1/2), [4(5)](https://www.legislation.gov.uk/uksi/2013/389/regulation/4/5)
+
+[^key-c335fa00f66d71234f0c01fc719eaccb]: Textual amendment: Reg. 7(3) substituted (26.8.1993) by [The Social Security (Disability Living Allowance) (Amendment) Regulations 1993 (S.I. 1993/1939)](https://www.legislation.gov.uk/uksi/1993/1939) , [regs. 1(1)](https://www.legislation.gov.uk/uksi/1993/1939/regulation/1/1) , [2(8)(b)](https://www.legislation.gov.uk/uksi/1993/1939/regulation/2/8/b)
+
+[^key-c0300268f4690b35ae77e8da4ba15c7c]: Textual amendment: Words in reg. 7(4) substituted (8.4.2013) by [The Social Security (Disability Living Allowance, Attendance Allowance and Carers Allowance) (Amendment) Regulations 2013 (S.I. 2013/389)](https://www.legislation.gov.uk/uksi/2013/389), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/389/regulation/1/2), [4(5)](https://www.legislation.gov.uk/uksi/2013/389/regulation/4/5)
+
+[^key-98ed0e160437353d1c2780e89983f8c2]: Textual amendment: Words in reg. 7(4) substituted (26.8.1993) by [The Social Security (Disability Living Allowance) (Amendment) Regulations 1993 (S.I. 1993/1939)](https://www.legislation.gov.uk/uksi/1993/1939) , [regs. 1(1)](https://www.legislation.gov.uk/uksi/1993/1939/regulation/1/1) , [2(8)(a)](https://www.legislation.gov.uk/uksi/1993/1939/regulation/2/8/a)
+
+[^key-dd14f8eec8d30a03d6e78a3ce3a57d9b]: Textual amendment: Reg. 8 title substituted (29.6.2016) by [The Social Security (Disability Living Allowance and Personal Independence Payment) (Amendment) Regulations 2016 (S.I. 2016/556)](https://www.legislation.gov.uk/uksi/2016/556), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/556/regulation/1/2), [2(2)(a)](https://www.legislation.gov.uk/uksi/2016/556/regulation/2/2/a)
+
+[^key-7cfd9dee4a55bdd9c484f86c17bc47a9]: Textual amendment: Words in reg. 8(1) inserted (29.6.2016) by [The Social Security (Disability Living Allowance and Personal Independence Payment) (Amendment) Regulations 2016 (S.I. 2016/556)](https://www.legislation.gov.uk/uksi/2016/556), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/556/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2016/556/regulation/2/2/b)
+
+[^key-eb81fef2c87ce4553e051cb665fa345d]: Textual amendment: Words in reg. 8(1)(a) substituted (8.4.2013) by [The Social Security (Disability Living Allowance, Attendance Allowance and Carer€™s Allowance) (Amendment) Regulations 2013 (S.I. 2013/389)](https://www.legislation.gov.uk/uksi/2013/389), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/389/regulation/1/2), [4(6)(a)](https://www.legislation.gov.uk/uksi/2013/389/regulation/4/6/a)
+
+[^key-4bb156cbe5a7d90f89234d8446714f0e]: Textual amendment: Reg. 8(2)(a)-(g) substituted (8.4.2013) by [The Social Security (Disability Living Allowance, Attendance Allowance and Carerâ€™s Allowance) (Amendment) Regulations 2013 (S.I. 2013/389)](https://www.legislation.gov.uk/uksi/2013/389), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/389/regulation/1/2), [4(6)(b)](https://www.legislation.gov.uk/uksi/2013/389/regulation/4/6/b)
+
+[^M_F_9ed7aba8-a0c9-4233-9a9c-4757a8328b5c]: Textual amendment: Reg. 8(2A) inserted (7.6.99) by [S.I. 1999/1326](https://www.legislation.gov.uk/uksi/1999/1326), [reg. 1](https://www.legislation.gov.uk/uksi/1999/1326/regulation/1), [4](https://www.legislation.gov.uk/uksi/1999/1326/regulation/4)
+
+[^key-69dae406e7cb91b555fbaec9edc1de22]: Textual amendment: Words in reg. 8(2A) inserted (19.6.2000) by [The Social Security (Attendance Allowance and Disability Living Allowance) (Amendment) Regulations 2000 (S.I. 2000/1401)](https://www.legislation.gov.uk/uksi/2000/1401), [regs. 1](https://www.legislation.gov.uk/uksi/2000/1401/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2000/1401/regulation/3/2)
+
+[^key-f63cb5486d433681a1b3105267167f67]: Textual amendment: Reg. 8(2B) added (29.6.2016) by [The Social Security (Disability Living Allowance and Personal Independence Payment) (Amendment) Regulations 2016 (S.I. 2016/556)](https://www.legislation.gov.uk/uksi/2016/556), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/556/regulation/1/2), [2(2)(c)](https://www.legislation.gov.uk/uksi/2016/556/regulation/2/2/c)
+
+[^key-85a024bf0e0bf6a662ef6d6374a5b54c]: Textual amendment: Reg. 9 substituted (29.10.2007) by [Social Security (Attendance Allowance and Disability Living Allowance) (Amendment) Regulations 2007 (S.I. 2007/2875)](https://www.legislation.gov.uk/uksi/2007/2875), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/2875/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2007/2875/regulation/3/2) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2007/2875/regulation/4/2))
+
+[^key-b1d76302da340e65ab6c37615871e85f]: Textual amendment: Words in reg. 9(2)(a)(ii) substituted (8.4.2013) by [The Social Security (Disability Living Allowance, Attendance Allowance and Carer€™s Allowance) (Amendment) Regulations 2013 (S.I. 2013/389)](https://www.legislation.gov.uk/uksi/2013/389), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/389/regulation/1/2), [4(7)(a)](https://www.legislation.gov.uk/uksi/2013/389/regulation/4/7/a)
+
+[^key-80d065f54c5965ac7d2de2bf9c6defc0]: Textual amendment: Word in reg. 9(2)(a)(v) omitted (1.11.2013) by virtue of [The Community Care, Services for Carers and Children's Services (Direct Payments) (England) (Amendment) Regulations 2013 (S.I. 2013/2270)](https://www.legislation.gov.uk/uksi/2013/2270), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2270/regulation/1/1), [6(a)](https://www.legislation.gov.uk/uksi/2013/2270/regulation/6/a)
+
+[^key-6da3dd13de2272fdc0be712a97562f02]: Textual amendment: Reg. 9(2)(a)(vi) inserted (1.11.2013) by [The Community Care, Services for Carers and Children's Services (Direct Payments) (England) (Amendment) Regulations 2013 (S.I. 2013/2270)](https://www.legislation.gov.uk/uksi/2013/2270), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2270/regulation/1/1), [6(b)](https://www.legislation.gov.uk/uksi/2013/2270/regulation/6/b)
+
+[^key-6330427b81b354d1e17f3af28cd492d5]: Textual amendment: Word in reg. 9(2)(a)(vi) omitted (1.4.2015) by virtue of [The Care Act 2014 (Consequential Amendments) (Secondary Legislation) Order 2015 (S.I. 2015/643)](https://www.legislation.gov.uk/uksi/2015/643), [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/643/article/1/2), [Sch. para. 7(a)](https://www.legislation.gov.uk/uksi/2015/643/schedule/paragraph/7/a) (with [art. 4](https://www.legislation.gov.uk/uksi/2015/643/article/4))
+
+[^key-c1b17564d3d92321e568a70cade40388]: Textual amendment: Reg. 9(2)(a)(vii) inserted (1.4.2015) by [The Care Act 2014 (Consequential Amendments) (Secondary Legislation) Order 2015 (S.I. 2015/643)](https://www.legislation.gov.uk/uksi/2015/643), [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/643/article/1/2), [Sch. para. 7(b)](https://www.legislation.gov.uk/uksi/2015/643/schedule/paragraph/7/b) (with [art. 4](https://www.legislation.gov.uk/uksi/2015/643/article/4))
+
+[^key-23f6cade65094007f712a8637c25dd36]: Textual amendment: Word in reg. 9(2)(a)(vii) omitted (3.11.2017) by virtue of [The Social Services and Well-being (Wales) Act 2014 and the Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments) Order 2017 (S.I. 2017/901)](https://www.legislation.gov.uk/uksi/2017/901), [art. 1](https://www.legislation.gov.uk/uksi/2017/901/article/1), [4(a)](https://www.legislation.gov.uk/uksi/2017/901/article/4/a)
+
+[^key-c186bda62c78d97841f4074e5e126734]: Textual amendment: Reg. 9(2)(a)(viii) inserted (3.11.2017) by [The Social Services and Well-being (Wales) Act 2014 and the Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments) Order 2017 (S.I. 2017/901)](https://www.legislation.gov.uk/uksi/2017/901), [art. 1](https://www.legislation.gov.uk/uksi/2017/901/article/1), [4(b)](https://www.legislation.gov.uk/uksi/2017/901/article/4/b)
+
+[^key-d937dfd54d279b9674a56d8ba5211897]: Textual amendment: Words in reg. 9(3)(b) omitted (8.4.2013) by virtue of [The Social Security (Disability Living Allowance, Attendance Allowance and Carer€™s Allowance) (Amendment) Regulations 2013 (S.I. 2013/389)](https://www.legislation.gov.uk/uksi/2013/389), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/389/regulation/1/2), [4(7)(b)(i)](https://www.legislation.gov.uk/uksi/2013/389/regulation/4/7/b/i)
+
+[^key-5257740e6e985b4680073728277b2396]: Textual amendment: Words in [reg. 9(3)(c)](https://www.legislation.gov.uk/uksi/1991/2890/regulation/9/3/c) inserted (1.8.2019) by [The Higher Education and Research Act 2017 (Further Implementation etc.) Regulations 2019 (S.I. 2019/1027)](https://www.legislation.gov.uk/uksi/2019/1027), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1027/regulation/1), [17](https://www.legislation.gov.uk/uksi/2019/1027/regulation/17)
+
+[^key-90eefec3a7688a2125b1dc0620ec4d18]: Textual amendment: Reg. 9(3)(d) omitted (8.4.2013) by virtue of [The Social Security (Disability Living Allowance, Attendance Allowance and Carer€™s Allowance) (Amendment) Regulations 2013 (S.I. 2013/389)](https://www.legislation.gov.uk/uksi/2013/389), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/389/regulation/1/2), [4(7)(b)(ii)](https://www.legislation.gov.uk/uksi/2013/389/regulation/4/7/b/ii)
+
+[^key-d394b8a590438fcf81558cb351481ad0]: Textual amendment: Word in reg. 9(4) omitted (3.11.2017) by virtue of [The Social Services and Well-being (Wales) Act 2014 and the Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments) Order 2017 (S.I. 2017/901)](https://www.legislation.gov.uk/uksi/2017/901), [art. 1](https://www.legislation.gov.uk/uksi/2017/901/article/1), [4(c)](https://www.legislation.gov.uk/uksi/2017/901/article/4/c)
+
+[^key-48154a5fe4c665abfca209e6b97354fe]: Textual amendment: Word in reg. 9(4)(a) inserted (3.11.2017) by [The Social Services and Well-being (Wales) Act 2014 and the Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments) Order 2017 (S.I. 2017/901)](https://www.legislation.gov.uk/uksi/2017/901), [art. 1](https://www.legislation.gov.uk/uksi/2017/901/article/1), [4(d)](https://www.legislation.gov.uk/uksi/2017/901/article/4/d)
+
+[^key-4fda9a5707658fe632e593d148fff1e0]: Textual amendment: Word in reg. 9(4)(b) inserted (3.11.2017) by [The Social Services and Well-being (Wales) Act 2014 and the Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments) Order 2017 (S.I. 2017/901)](https://www.legislation.gov.uk/uksi/2017/901), [art. 1](https://www.legislation.gov.uk/uksi/2017/901/article/1), [4(d)](https://www.legislation.gov.uk/uksi/2017/901/article/4/d)
+
+[^key-ee1d8c9a638e62829a2b1f1ad7b1a458]: Textual amendment: Reg. 9(4)(ba) inserted (3.11.2017) by [The Social Services and Well-being (Wales) Act 2014 and the Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments) Order 2017 (S.I. 2017/901)](https://www.legislation.gov.uk/uksi/2017/901), [art. 1](https://www.legislation.gov.uk/uksi/2017/901/article/1), [4(e)](https://www.legislation.gov.uk/uksi/2017/901/article/4/e)
+
+[^key-40b25a41e9adc641f883f055a2a668ab]: Textual amendment: Words in reg. 9(5) substituted (3.11.2017) by [The Social Services and Well-being (Wales) Act 2014 and the Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments) Order 2017 (S.I. 2017/901)](https://www.legislation.gov.uk/uksi/2017/901), [art. 1](https://www.legislation.gov.uk/uksi/2017/901/article/1), [4(f)](https://www.legislation.gov.uk/uksi/2017/901/article/4/f)
+
+[^key-23d050a56d5494cc2729ef08e45cdccd]: Textual amendment: Reg. 9(6)(f) omitted (8.4.2013) by virtue of [The Social Security (Disability Living Allowance, Attendance Allowance and Carer€™s Allowance) (Amendment) Regulations 2013 (S.I. 2013/389)](https://www.legislation.gov.uk/uksi/2013/389), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/389/regulation/1/2), [4(7)(c)](https://www.legislation.gov.uk/uksi/2013/389/regulation/4/7/c)
+
+[^key-66cf4e7ca8705fc2ed9b8fbbfdbb8b8e]: Textual amendment: Reg. 9A omitted (8.4.2002) by virtue of [Social Security Amendment (Residential Care and Nursing Homes) Regulations 2001 (S.I. 2001/3767)](https://www.legislation.gov.uk/uksi/2001/3767), [regs. 1](https://www.legislation.gov.uk/uksi/2001/3767/regulation/1), [4(b)](https://www.legislation.gov.uk/uksi/2001/3767/regulation/4/b)
+
+[^M_F_af245843-d6f7-4d13-ef8a-eb69c0de4e36]: Textual amendment: Words substituted (1.4.93) in reg. 10(1) by [S.I. 1992/3147](https://www.legislation.gov.uk/uksi/1992/3147), [reg. 7(2)(a)](https://www.legislation.gov.uk/uksi/1992/3147/regulation/7/2/a), [reg. 1](https://www.legislation.gov.uk/uksi/1992/3147/regulation/1)
+
+[^key-cd438815161e079bae0ef8863e329a07]: Textual amendment: Reg. 10(2) omitted (29.6.2016) by virtue of [The Social Security (Disability Living Allowance and Personal Independence Payment) (Amendment) Regulations 2016 (S.I. 2016/556)](https://www.legislation.gov.uk/uksi/2016/556), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/556/regulation/1/2), [2(3)(a)](https://www.legislation.gov.uk/uksi/2016/556/regulation/2/3/a)
+
+[^key-756ffedd4d12fd8a887c96546cbe8765]: Textual amendment: Words in reg. 10(3) omitted (29.6.2016) by virtue of [The Social Security (Disability Living Allowance and Personal Independence Payment) (Amendment) Regulations 2016 (S.I. 2016/556)](https://www.legislation.gov.uk/uksi/2016/556), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/556/regulation/1/2), [2(3)(b)](https://www.legislation.gov.uk/uksi/2016/556/regulation/2/3/b)
+
+[^M_F_a11e9265-9585-424c-e645-6dc302a93611]: Textual amendment: Reg. 10(4)(b) substituted (6.4.92) by [S.I. 1992/633](https://www.legislation.gov.uk/uksi/1992/633), [Reg. 2(4)](https://www.legislation.gov.uk/uksi/1992/633/regulation/2/4), [reg. 1](https://www.legislation.gov.uk/uksi/1992/633/regulation/1)
+
+[^key-35816498297a2b32aab62db3ad112adb]: Textual amendment: Words in reg. 10(5) substituted (29.6.2016) by [The Social Security (Disability Living Allowance and Personal Independence Payment) (Amendment) Regulations 2016 (S.I. 2016/556)](https://www.legislation.gov.uk/uksi/2016/556), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/556/regulation/1/2), [2(3)(c)](https://www.legislation.gov.uk/uksi/2016/556/regulation/2/3/c)
+
+[^M_F_25748392-f526-481a-84ca-8f68c477bde2]: Textual amendment: Reg. 10(6)-(8) inserted (1.4.93) by [S.I. 1992/3147](https://www.legislation.gov.uk/uksi/1992/3147) reg. 1,7
+
+[^key-464f2109814fc6e2cb0a37f67bd70510]: Textual amendment: Words in reg. 10(6) omitted (19.6.2000) by virtue of [The Social Security (Attendance Allowance and Disability Living Allowance) (Amendment) Regulations 2000 (S.I. 2000/1401)](https://www.legislation.gov.uk/uksi/2000/1401) , [regs. 1](https://www.legislation.gov.uk/uksi/2000/1401/regulation/1) , [3(4)(a)](https://www.legislation.gov.uk/uksi/2000/1401/regulation/3/4/a)
+
+[^M_F_69237700-bbd2-4fe8-b9e9-ebba89536b42]: Textual amendment: Words in reg. 10(6)(b) substituted (18.10.99) by [S.I. 1999/2860](https://www.legislation.gov.uk/uksi/1999/2860), [Sch. 7](https://www.legislation.gov.uk/uksi/1999/2860/schedule/7), [para 4](https://www.legislation.gov.uk/uksi/1999/2860/paragraph/4), [reg. 1](https://www.legislation.gov.uk/uksi/1999/2860/regulation/1)
+
+[^M_F_f9babef1-1049-443a-ecb0-82330f3212d6]: Textual amendment: Words in reg. 10(6)(c) substituted (18.10.99) by [S.I. 1999/2860](https://www.legislation.gov.uk/uksi/1999/2860), [Sch. 7](https://www.legislation.gov.uk/uksi/1999/2860/schedule/7), [para 4](https://www.legislation.gov.uk/uksi/1999/2860/paragraph/4), [reg. 1](https://www.legislation.gov.uk/uksi/1999/2860/regulation/1)
+
+[^M_F_dd928f74-9a00-47f4-bebe-759fdac7dcd9]: Textual amendment: Words inserted in reg. 10(7) (1.9.93) by [S.I. 1993/518](https://www.legislation.gov.uk/uksi/1993/518), [reg 3(3)(b)](https://www.legislation.gov.uk/uksi/1993/518/regulation/3/3/b), [reg. 1](https://www.legislation.gov.uk/uksi/1993/518/regulation/1)
+
+[^key-c31ad7d7ef6d7c4bb9b610f819d77739]: Textual amendment: Reg. 10(7)(a) omitted (8.4.2013) by virtue of [The Social Security (Disability Living Allowance, Attendance Allowance and Carer€™s Allowance) (Amendment) Regulations 2013 (S.I. 2013/389)](https://www.legislation.gov.uk/uksi/2013/389), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/389/regulation/1/2), [4(8)(a)](https://www.legislation.gov.uk/uksi/2013/389/regulation/4/8/a)
+
+[^key-c520d9b2ba663411c4db1b7c25559ef1]: Textual amendment: Reg. 10(7)(ba) - Reg. 10(7)(bb) inserted (8.4.2013) by [The Social Security (Disability Living Allowance, Attendance Allowance and Carer€™s Allowance) (Amendment) Regulations 2013 (S.I. 2013/389)](https://www.legislation.gov.uk/uksi/2013/389), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/389/regulation/1/2), [4(8)(b)](https://www.legislation.gov.uk/uksi/2013/389/regulation/4/8/b)
+
+[^key-eda634304be576a8e79da58cab00cb45]: Textual amendment: Reg. 10(8) substituted (29.10.2007) by [Social Security (Attendance Allowance and Disability Living Allowance) (Amendment) Regulations 2007 (S.I. 2007/2875)](https://www.legislation.gov.uk/uksi/2007/2875) , [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/2875/regulation/1/1) , [3(3)](https://www.legislation.gov.uk/uksi/2007/2875/regulation/3/3)
+
+[^key-b96e91859124bb467a5e02aeffcda4d6]: Textual amendment: Reg. 10(8A) inserted (8.4.2013) by [The Social Security (Disability Living Allowance, Attendance Allowance and Carer€™s Allowance) (Amendment) Regulations 2013 (S.I. 2013/389)](https://www.legislation.gov.uk/uksi/2013/389), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/389/regulation/1/2), [4(8)(c)](https://www.legislation.gov.uk/uksi/2013/389/regulation/4/8/c)
+
+[^key-297e66d88324554aa46e369fa490a7c5]: Textual amendment: Reg. 10(9) omitted (19.6.2000) by virtue of [The Social Security (Attendance Allowance and Disability Living Allowance) (Amendment) Regulations 2000 (S.I. 2000/1401)](https://www.legislation.gov.uk/uksi/2000/1401) , [regs. 1](https://www.legislation.gov.uk/uksi/2000/1401/regulation/1) , [3(4)(c)](https://www.legislation.gov.uk/uksi/2000/1401/regulation/3/4/c)
+
+[^M_F_2b6e9cc6-92c2-4f83-b595-dd84595c3646]: Textual amendment: Reg. 10A and 10B inserted (1.8.1994) by [S.I. 1994/1779](https://www.legislation.gov.uk/uksi/1994/1779) reg. 3(4)
+
+[^key-2955638960dd520ed87bb3b957cfae5f]: Textual amendment: Word in reg. 10A(1) substituted (8.4.2013) by [The Social Security (Disability Living Allowance, Attendance Allowance and Carers Allowance) (Amendment) Regulations 2013 (S.I. 2013/389)](https://www.legislation.gov.uk/uksi/2013/389), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/389/regulation/1/2), [4(9)(a)(i)](https://www.legislation.gov.uk/uksi/2013/389/regulation/4/9/a/i)
+
+[^key-8add354f5177c6344fafe82653797d85]: Textual amendment: Word in reg. 10A(1) substituted (8.4.2013) by [The Social Security (Disability Living Allowance, Attendance Allowance and Carers Allowance) (Amendment) Regulations 2013 (S.I. 2013/389)](https://www.legislation.gov.uk/uksi/2013/389), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/389/regulation/1/2), [4(9)(a)(ii)](https://www.legislation.gov.uk/uksi/2013/389/regulation/4/9/a/ii)
+
+[^key-114b06941ae33c43b35750795e8115e4]: Textual amendment: Word in reg. 10A(3) substituted (8.4.2013) by [The Social Security (Disability Living Allowance, Attendance Allowance and Carers Allowance) (Amendment) Regulations 2013 (S.I. 2013/389)](https://www.legislation.gov.uk/uksi/2013/389), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/389/regulation/1/2), [4(9)(b)](https://www.legislation.gov.uk/uksi/2013/389/regulation/4/9/b)
+
+[^key-3ab45057b7f10aa9d89a98368c62fda6]: Textual amendment: Reg. 10C inserted (25.9.2000) by [The Social Security (Attendance Allowance and Disability Living Allowance) (Amendment) (No. 2) Regulations 2000 (S.I. 2000/2313)](https://www.legislation.gov.uk/uksi/2000/2313), [regs. 1](https://www.legislation.gov.uk/uksi/2000/2313/regulation/1), [3](https://www.legislation.gov.uk/uksi/2000/2313/regulation/3)
+
+[^key-004b3f783246bffbf0179e6201c4a3de]: Textual amendment: Words in reg. 11 substituted (26.8.1993) by [The Social Security (Disability Living Allowance) (Amendment) Regulations 1993 (S.I. 1993/1939)](https://www.legislation.gov.uk/uksi/1993/1939) , [regs. 1(1)](https://www.legislation.gov.uk/uksi/1993/1939/regulation/1/1) , [2(5)](https://www.legislation.gov.uk/uksi/1993/1939/regulation/2/5)
+
+[^key-e7351f08b35d1656b8cfbd6a10b11988]: Textual amendment: Words in [reg. 11](https://www.legislation.gov.uk/uksi/1991/2890/regulation/11) inserted (21.3.2022) by [The Social Security (Disability Assistance for Working Age People) (Consequential Amendments) Order 2022 (S.I. 2022/177)](https://www.legislation.gov.uk/uksi/2022/177), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/177/article/1/2), [4(4)(a)](https://www.legislation.gov.uk/uksi/2022/177/article/4/4/a)
+
+[^key-2f3f31474be686edb900771958e6466d]: Textual amendment: Words in [reg. 11](https://www.legislation.gov.uk/uksi/1991/2890/regulation/11) inserted (E.W.) (21.3.2025) by [The Social Security (Scotland) Act 2018 (Disability Assistance) (Consequential Amendments) Order 2025 (S.I. 2025/227)](https://www.legislation.gov.uk/uksi/2025/227), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/227/article/1/1), [3(5)](https://www.legislation.gov.uk/uksi/2025/227/article/3/5)
+
+[^key-808bcac7c1f972ac684fff7bde9ec586]: Textual amendment: Words in [reg. 11](https://www.legislation.gov.uk/uksi/1991/2890/regulation/11) inserted (21.3.2022) by [The Social Security (Disability Assistance for Working Age People) (Consequential Amendments) Order 2022 (S.I. 2022/177)](https://www.legislation.gov.uk/uksi/2022/177), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/177/article/1/2), [4(4)(b)](https://www.legislation.gov.uk/uksi/2022/177/article/4/4/b)
+
+[^key-654b71eaba8739c120d3a56bef9251c3]: Textual amendment: Words in reg. 11 substituted (26.8.1993) by [The Social Security (Disability Living Allowance) (Amendment) Regulations 1993 (S.I. 1993/1939)](https://www.legislation.gov.uk/uksi/1993/1939) , [regs. 1(1)](https://www.legislation.gov.uk/uksi/1993/1939/regulation/1/1) , [2(7)](https://www.legislation.gov.uk/uksi/1993/1939/regulation/2/7)
+
+[^key-d4475ad0eee738b86563fd932ab89d6f]: Textual amendment: Reg. 12(1A) inserted (15.10.2010 for specified purposes, 11.4.2011 in so far as not already in force) by [The Social Security (Disability Living Allowance) (Amendment) Regulations 2010 (S.I. 2010/1651)](https://www.legislation.gov.uk/uksi/2010/1651), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/1651/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2010/1651/regulation/2/2)
+
+[^key-1d772cdb7b6c7f4211038a3aac8f96b9]: Textual amendment: Words in reg. 12 substituted (26.8.1993) by [The Social Security (Disability Living Allowance) (Amendment) Regulations 1993 (S.I. 1993/1939)](https://www.legislation.gov.uk/uksi/1993/1939) , [regs. 1(1)](https://www.legislation.gov.uk/uksi/1993/1939/regulation/1/1) , [2(5)](https://www.legislation.gov.uk/uksi/1993/1939/regulation/2/5)
+
+[^M_F_5406ed10-2289-4a20-b219-e87f26038a13]: Textual amendment: Words in reg. 12(2)(b) inserted (1.8.94) by [S.I. 1994/1779](https://www.legislation.gov.uk/uksi/1994/1779), [reg. 3(5)](https://www.legislation.gov.uk/uksi/1994/1779/regulation/3/5), [reg 1](https://www.legislation.gov.uk/uksi/1994/1779/regulation/1)
+
+[^key-fa9714effdf992d5245de56012e4ee37]: Textual amendment: Reg. 12(7) - Reg. 12(8) added (8.4.2002) by [Social Security (Disability Living Allowance) (Amendment) Regulations 2002 (S.I. 2002/648)](https://www.legislation.gov.uk/uksi/2002/648), [regs. 1](https://www.legislation.gov.uk/uksi/2002/648/regulation/1), [2](https://www.legislation.gov.uk/uksi/2002/648/regulation/2)
+
+[^M_F_44a3aaa4-55b7-4499-f443-742ae30ef981]: Textual amendment: Reg. 12A to 12C inserted (31.7.96) by [S.I. 1996/1436](https://www.legislation.gov.uk/uksi/1996/1436) reg. 1, 2
+
+[^key-84ac79ad695898bdc34e0bdbf01822dd]: Textual amendment: Words in reg. 12A inserted (29.6.2016) by [The Social Security (Disability Living Allowance and Personal Independence Payment) (Amendment) Regulations 2016 (S.I. 2016/556)](https://www.legislation.gov.uk/uksi/2016/556), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/556/regulation/1/2), [2(4)(a)](https://www.legislation.gov.uk/uksi/2016/556/regulation/2/4/a)
+
+[^key-1a0515dc6f4dffa358e8f03c93aecda6]: Textual amendment: Words in reg. 12A(1) inserted (29.6.2016) by [The Social Security (Disability Living Allowance and Personal Independence Payment) (Amendment) Regulations 2016 (S.I. 2016/556)](https://www.legislation.gov.uk/uksi/2016/556), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/556/regulation/1/2), [2(4)(b)](https://www.legislation.gov.uk/uksi/2016/556/regulation/2/4/b)
+
+[^key-60a54b39f567cba3e46f0a1ea02e8571]: Textual amendment: Words in reg. 12A(1)(a) substituted (8.4.2013) by [The Social Security (Disability Living Allowance, Attendance Allowance and Carer€™s Allowance) (Amendment) Regulations 2013 (S.I. 2013/389)](https://www.legislation.gov.uk/uksi/2013/389), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/389/regulation/1/2), [4(10)(a)](https://www.legislation.gov.uk/uksi/2013/389/regulation/4/10/a)
+
+[^key-9302cd81003522a29e00ac3012eda632]: Textual amendment: Regs. 12A(2)(a)-(g) substituted (8.4.2013) by [The Social Security (Disability Living Allowance, Attendance Allowance and Carer€™s Allowance) (Amendment) Regulations 2013 (S.I. 2013/389)](https://www.legislation.gov.uk/uksi/2013/389), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/389/regulation/1/2), [4(10)(b)](https://www.legislation.gov.uk/uksi/2013/389/regulation/4/10/b)
+
+[^M_F_153c53b5-c8da-4c84-9eed-c8ea3e34b9a5]: Textual amendment: Reg. 12A(2A) inserted (7.6.99) by [S.I. 1999/1326](https://www.legislation.gov.uk/uksi/1999/1326) reg. 1,4
+
+[^key-34aa19931d5787a9d3ba2450acd0c6a5]: Textual amendment: Words in reg. 12A(2A) inserted (19.6.2000) by [The Social Security (Attendance Allowance and Disability Living Allowance) (Amendment) Regulations 2000 (S.I. 2000/1401)](https://www.legislation.gov.uk/uksi/2000/1401), [regs. 1](https://www.legislation.gov.uk/uksi/2000/1401/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2000/1401/regulation/3/2)
+
+[^key-33205d48b014b355fb6d65c2b11499f3]: Textual amendment: Reg. 12A(3) added (29.6.2016) by [The Social Security (Disability Living Allowance and Personal Independence Payment) (Amendment) Regulations 2016 (S.I. 2016/556)](https://www.legislation.gov.uk/uksi/2016/556), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/556/regulation/1/2), [2(4)(c)](https://www.legislation.gov.uk/uksi/2016/556/regulation/2/4/c)
+
+[^key-c2e3897e4958466940a9bb78ca5e172f]: Textual amendment: Reg. 12B(1)(b) omitted (29.6.2016) by virtue of [The Social Security (Disability Living Allowance and Personal Independence Payment) (Amendment) Regulations 2016 (S.I. 2016/556)](https://www.legislation.gov.uk/uksi/2016/556), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/556/regulation/1/2), [2(5)(a)](https://www.legislation.gov.uk/uksi/2016/556/regulation/2/5/a)
+
+[^key-54dd5c9cf7c77dcb3a67923d2d933b05]: Textual amendment: Words in reg. 12B(3) substituted (8.4.2013) by [The Social Security (Disability Living Allowance, Attendance Allowance and Carers Allowance) (Amendment) Regulations 2013 (S.I. 2013/389)](https://www.legislation.gov.uk/uksi/2013/389), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/389/regulation/1/2), [4(11)(a)](https://www.legislation.gov.uk/uksi/2013/389/regulation/4/11/a)
+
+[^key-bc91eaf131c2b85e9181b09fb451974e]: Textual amendment: Words in reg. 12B(5) substituted (5.10.2005) by [The Mental Health (Care and Treatment) (Scotland) Act 2003 (Consequential Provisions) Order 2005 (S.I. 2005/2078)](https://www.legislation.gov.uk/uksi/2005/2078), [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/2078/article/1/1), [Sch. 2 para. 13(3)](https://www.legislation.gov.uk/uksi/2005/2078/schedule/2/paragraph/13/3)
+
+[^key-06a41506dd7bb1ce9ebe1b90e135d428]: Textual amendment: Words in reg. 12B(6)(a) substituted (5.10.2005) by [The Mental Health (Care and Treatment) (Scotland) Act 2003 (Consequential Provisions) Order 2005 (S.I. 2005/2078)](https://www.legislation.gov.uk/uksi/2005/2078), [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/2078/article/1/1), [Sch. 2 para. 13(3)](https://www.legislation.gov.uk/uksi/2005/2078/schedule/2/paragraph/13/3)
+
+[^key-4df59c31076a73eb610b95eac9882e44]: Textual amendment: Reg. 12B(7) substituted (8.4.2013) by [The Social Security (Disability Living Allowance, Attendance Allowance and Carers Allowance) (Amendment) Regulations 2013 (S.I. 2013/389)](https://www.legislation.gov.uk/uksi/2013/389), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/389/regulation/1/2), [4(11)(b)](https://www.legislation.gov.uk/uksi/2013/389/regulation/4/11/b)
+
+[^key-bf989c2262ab2af6db7c526a93cee87a]: Textual amendment: Words in reg. 12B(7) omitted (29.6.2016) by virtue of [The Social Security (Disability Living Allowance and Personal Independence Payment) (Amendment) Regulations 2016 (S.I. 2016/556)](https://www.legislation.gov.uk/uksi/2016/556), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/556/regulation/1/2), [2(5)(b)](https://www.legislation.gov.uk/uksi/2016/556/regulation/2/5/b)
+
+[^key-ff4f8ceb775b8153ef8a16d77d6d5ec3]: Textual amendment: Reg. 12B(8) substituted (8.4.2013) by [The Social Security (Disability Living Allowance, Attendance Allowance and Carers Allowance) (Amendment) Regulations 2013 (S.I. 2013/389)](https://www.legislation.gov.uk/uksi/2013/389), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/389/regulation/1/2), [4(11)(c)](https://www.legislation.gov.uk/uksi/2013/389/regulation/4/11/c)
+
+[^key-0c0964887c9a335ad87283d1cb32595f]: Textual amendment: Reg. 12B(8A) inserted (8.4.2013) by [The Social Security (Disability Living Allowance, Attendance Allowance and Carers Allowance) (Amendment) Regulations 2013 (S.I. 2013/389)](https://www.legislation.gov.uk/uksi/2013/389), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/389/regulation/1/2), [4(11)(d)](https://www.legislation.gov.uk/uksi/2013/389/regulation/4/11/d)
+
+[^key-d476d05b757ab91b0d75ba3deeaaebf1]: Textual amendment: Reg. 12B(8B) inserted (8.4.2013) by [The Social Security (Disability Living Allowance, Attendance Allowance and Carers Allowance) (Amendment) Regulations 2013 (S.I. 2013/389)](https://www.legislation.gov.uk/uksi/2013/389), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/389/regulation/1/2), [4(11)(e)](https://www.legislation.gov.uk/uksi/2013/389/regulation/4/11/e)
+
+[^key-71af47a1130e331a692dcbc361613c26]: Textual amendment: Reg. 12B(9) omitted (8.4.2013) by virtue of [The Social Security (Disability Living Allowance, Attendance Allowance and Carers Allowance) (Amendment) Regulations 2013 (S.I. 2013/389)](https://www.legislation.gov.uk/uksi/2013/389), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/389/regulation/1/2), [4(11)(f)](https://www.legislation.gov.uk/uksi/2013/389/regulation/4/11/f)
+
+[^M_F_7bd8c0d0-11e6-4722-e0fb-687e1335acd5]: Textual amendment: Reg. 12B(9A) inserted (31.7.96) by [S.I. 1996/1767](https://www.legislation.gov.uk/uksi/1996/1767) reg. 2(2), reg. 1
+
+[^M_F_6ad42f57-c0f1-4717-c43b-67810b4a8753]: Textual amendment: Words in reg. 12B(9A) (b) substituted (18.10.99) by [S.I. 1999/2860](https://www.legislation.gov.uk/uksi/1999/2860), [sch.7 para. 4](https://www.legislation.gov.uk/uksi/1999/2860/schedule/7/paragraph/4), [reg. 1](https://www.legislation.gov.uk/uksi/1999/2860/regulation/1)
+
+[^M_F_b811d3e9-84eb-487e-9576-c4e6e4ed8641]: Textual amendment: Words in reg. 12B(9A) (c) substituted (18.10.99) by [S.I. 1999/2860](https://www.legislation.gov.uk/uksi/1999/2860), [sch.7 para. 4](https://www.legislation.gov.uk/uksi/1999/2860/schedule/7/paragraph/4), [reg. 1](https://www.legislation.gov.uk/uksi/1999/2860/regulation/1)
+
+[^M_F_1dd97aba-24b2-46cb-d746-73b94f952ace]: Textual amendment: Reg. 12B(12)(za) inserted (31.7.96) by [S.I. 1996/1767](https://www.legislation.gov.uk/uksi/1996/1767) reg. 2(3), reg. 1
+
+[^M_F_c5527995-d095-462c-876f-1ad6b79039f9]: Textual amendment: Words in Sch.1, para. 1 heading substituted (18.10.99) by [S.I. 1999/2860](https://www.legislation.gov.uk/uksi/1999/2860). Sch. 7, para. 5(a), Reg.1
+
+[^M_F_da26fc52-05fe-42e1-a493-99667ac66b19]: Textual amendment: Words in Sch.1, para. 1(1)(c) substituted (18.10.99) by [S.I. 1999/2860](https://www.legislation.gov.uk/uksi/1999/2860). Sch. 7, para. 5(b), Reg.1
+
+[^M_F_600e8699-08b5-42f9-8436-4577bb9bf139]: Textual amendment: Words in Sch.1, para. 1(1)(d) substituted (18.10.99) by [S.I. 1999/2860](https://www.legislation.gov.uk/uksi/1999/2860). Sch. 7, para. 5(c), Reg.1
+
+[^M_F_9bf424c1-64bb-4146-9e6e-9c2d652ffc98]: Textual amendment: Words in Sch.1, para. 1(2) substituted (18.10.99) by [S.I. 1999/2860](https://www.legislation.gov.uk/uksi/1999/2860). Sch. 7, para. 5(d), Reg. 1
+
+[^M_F_11ee3a98-ccd0-49e4-afa5-35800cc0af6f]: Textual amendment: Words in Sch.1, para. 1(3) omitted (18.10.99) by [S.I. 1999/2860](https://www.legislation.gov.uk/uksi/1999/2860). Sch. 7, para. 5(e), Reg. 1
+
+[^M_F_2bc4df36-8cd4-404f-af07-f02c2b8b3745]: Textual amendment: Words in Sch.1, para. 1(3) substituted (18.10.99) by [S.I. 1999/2860](https://www.legislation.gov.uk/uksi/1999/2860). Sch. 7, para. 5(e), Reg. 1
+
+[^M_F_7291f1c6-dc84-46da-d9ab-686c8bd3aeeb]: Textual amendment: Words in Sch.1, para. 2 heading substituted (18.10.99) by S.I. 1999/2860. Sch. 7, para. 5(f), Reg.1
+
+[^M_F_083b2f73-bf2c-4f9f-ec02-9c6f7d8de460]: Textual amendment: Words in Sch.1, para. 2 substituted (18.10.99) by S.I. 1999/2860. Sch. 7, para. 5(g), Reg.1
+
+[^M_F_71fc0bc5-f7a8-4590-9455-9778b1c3f011]: Textual amendment: Words in Sch.1, para. 2 substituted (18.10.99) by S.I. 1999/2860. Sch. 7, para. 5(g), Reg.1
+
+[^M_F_d51b04eb-c1ea-44f4-9af2-f77a2d2287ae]: Textual amendment: Words in Sch.1, para. 2(b) substituted (18.10.99) by S.I. 1999/2860. Sch. 7, para. 5(h), Reg.1
+
+[^M_F_fcc94587-71c8-48fc-a9de-9973cd2aedff]: Textual amendment: Words in Sch.1, para. 3(1)(a) substituted (18.10.99) by [S.I. 1999/2860](https://www.legislation.gov.uk/uksi/1999/2860). Sch. 7, para. 5(i), Reg.1
+
+[^M_F_8d41e97e-8a4f-4c85-dc63-1e19ecf22813]: Textual amendment: Words in Sch.1, para. 3(2) substituted (18.10.99) by [S.I. 1999/2860](https://www.legislation.gov.uk/uksi/1999/2860). Sch. 7, para. 5(j), Reg.1
+
+[^key-c47a5f1c66fd134d707594613c93afce]: Textual amendment: Words in [Sch. 1 para. 3(2)](https://www.legislation.gov.uk/uksi/1991/2890/schedule/1/paragraph/3/2) inserted (E.W.) (21.3.2025) by [The Social Security (Scotland) Act 2018 (Disability Assistance) (Consequential Amendments) Order 2025 (S.I. 2025/227)](https://www.legislation.gov.uk/uksi/2025/227), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/227/article/1/1), [3(6)(a)](https://www.legislation.gov.uk/uksi/2025/227/article/3/6/a)
+
+[^key-f0aff5f84a3ea3e92ec251332a63912b]: Textual amendment: Words in Sch. 1 para. 3(2) substituted (26.8.1993) by [The Social Security (Disability Living Allowance) (Amendment) Regulations 1993 (S.I. 1993/1939)](https://www.legislation.gov.uk/uksi/1993/1939) , [regs. 1(1)](https://www.legislation.gov.uk/uksi/1993/1939/regulation/1/1) , [2(4)](https://www.legislation.gov.uk/uksi/1993/1939/regulation/2/4)
+
+[^key-955854ffd76295fa5e52e64eedfbe8f1]: Textual amendment: Words in [Sch. 1 para. 3(3)(a)](https://www.legislation.gov.uk/uksi/1991/2890/schedule/1/paragraph/3/3/a) inserted (E.W.) (21.3.2025) by [The Social Security (Scotland) Act 2018 (Disability Assistance) (Consequential Amendments) Order 2025 (S.I. 2025/227)](https://www.legislation.gov.uk/uksi/2025/227), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/227/article/1/1), [3(6)(b)](https://www.legislation.gov.uk/uksi/2025/227/article/3/6/b)
+
+[^c1852717]: Textual amendment: [1977 c.5](https://www.legislation.gov.uk/ukpga/1977/5) .
+
+[^key-e2895d2731ec7954b0738690ac73d55b]: Textual amendment: Words in Sch. 1 para. 4(b) substituted (8.4.2013) by [The Social Security (Disability Living Allowance, Attendance Allowance and Carers Allowance) (Amendment) Regulations 2013 (S.I. 2013/389)](https://www.legislation.gov.uk/uksi/2013/389), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/389/regulation/1/2), [4(12)](https://www.legislation.gov.uk/uksi/2013/389/regulation/4/12)
+
+[^key-281123bcd1c111cd2a61798503cfaea7]: Textual amendment: Words in Sch. 1 para. 4(2) substituted (26.8.1993) by [The Social Security (Disability Living Allowance) (Amendment) Regulations 1993 (S.I. 1993/1939)](https://www.legislation.gov.uk/uksi/1993/1939) , [regs. 1(1)](https://www.legislation.gov.uk/uksi/1993/1939/regulation/1/1) , [2(4)](https://www.legislation.gov.uk/uksi/1993/1939/regulation/2/4)
+
+[^key-666e375ccb96bdf550a0c0c03cd31919]: Textual amendment: Words in [Sch. 1 para. 5(1)](https://www.legislation.gov.uk/uksi/1991/2890/schedule/1/paragraph/5/1) inserted (E.W.) (21.3.2025) by [The Social Security (Scotland) Act 2018 (Disability Assistance) (Consequential Amendments) Order 2025 (S.I. 2025/227)](https://www.legislation.gov.uk/uksi/2025/227), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/227/article/1/1), [3(6)(c)](https://www.legislation.gov.uk/uksi/2025/227/article/3/6/c)
+
+[^key-3b5b5e728bdb71480dfe386ad081322c]: Textual amendment: Words in Sch. 1 para. 5(2) substituted (26.8.1993) by [The Social Security (Disability Living Allowance) (Amendment) Regulations 1993 (S.I. 1993/1939)](https://www.legislation.gov.uk/uksi/1993/1939) , [regs. 1(1)](https://www.legislation.gov.uk/uksi/1993/1939/regulation/1/1) , [2(5)](https://www.legislation.gov.uk/uksi/1993/1939/regulation/2/5)
+
+[^key-c0339911cfb92797e837a547457b7e44]: Textual amendment: Words in [Sch. 1 para. 5(3)(a)](https://www.legislation.gov.uk/uksi/1991/2890/schedule/1/paragraph/5/3/a) inserted (E.W.) (21.3.2025) by [The Social Security (Scotland) Act 2018 (Disability Assistance) (Consequential Amendments) Order 2025 (S.I. 2025/227)](https://www.legislation.gov.uk/uksi/2025/227), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/227/article/1/1), [3(6)(d)](https://www.legislation.gov.uk/uksi/2025/227/article/3/6/d)
+
+[^key-6041b8741486a4f00eb5b548cf80bf18]: Textual amendment: Words in [Sch. 1 para. 6(1)](https://www.legislation.gov.uk/uksi/1991/2890/schedule/1/paragraph/6/1) inserted (E.W.) (21.3.2025) by [The Social Security (Scotland) Act 2018 (Disability Assistance) (Consequential Amendments) Order 2025 (S.I. 2025/227)](https://www.legislation.gov.uk/uksi/2025/227), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/227/article/1/1), [3(6)(e)](https://www.legislation.gov.uk/uksi/2025/227/article/3/6/e)
+
+[^M_F_9218c108-7a80-4831-9819-4801eeafdcb9]: Textual amendment: Words in Sch. 1 para 6(1)(a) substituted (18.10.99) by [S.I. 1999/2860](https://www.legislation.gov.uk/uksi/1999/2860) art. 1, Sch. 7 para 5
+
+[^key-3b01fa2d2154fe4ef031a2e3a5d376a4]: Textual amendment: Words in Sch. 1 para. 6(2) substituted (26.8.1993) by [The Social Security (Disability Living Allowance) (Amendment) Regulations 1993 (S.I. 1993/1939)](https://www.legislation.gov.uk/uksi/1993/1939) , [regs. 1(1)](https://www.legislation.gov.uk/uksi/1993/1939/regulation/1/1) , [2(5)](https://www.legislation.gov.uk/uksi/1993/1939/regulation/2/5)
+
+[^key-12c7ca8c58b4797962f6dcf5a1e0024f]: Textual amendment: Words in [Sch. 1 para. 7(1)](https://www.legislation.gov.uk/uksi/1991/2890/schedule/1/paragraph/7/1) inserted (E.W.) (21.3.2025) by [The Social Security (Scotland) Act 2018 (Disability Assistance) (Consequential Amendments) Order 2025 (S.I. 2025/227)](https://www.legislation.gov.uk/uksi/2025/227), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/227/article/1/1), [3(6)(f)](https://www.legislation.gov.uk/uksi/2025/227/article/3/6/f)
+
+[^M_F_2ac38c50-a402-4f07-8aa7-44462e4c4975]: Textual amendment: Words in Sch. 1, para. 7(2) substituted (18.10.99) by [S.I. 1999/2860](https://www.legislation.gov.uk/uksi/1999/2860), [art 1](https://www.legislation.gov.uk/uksi/1999/2860/article/1), [sch. 7](https://www.legislation.gov.uk/uksi/1999/2860/schedule/7), [para. 5(K)](https://www.legislation.gov.uk/uksi/1999/2860/paragraph/5/K)
+
+[^key-2ce30d427408fe4b1817454ca6ad6318]: Textual amendment: Words in Sch. 1 para. 7(2) substituted (26.8.1993) by [The Social Security (Disability Living Allowance) (Amendment) Regulations 1993 (S.I. 1993/1939)](https://www.legislation.gov.uk/uksi/1993/1939) , [regs. 1(1)](https://www.legislation.gov.uk/uksi/1993/1939/regulation/1/1) , [2(4)](https://www.legislation.gov.uk/uksi/1993/1939/regulation/2/4)
+
+[^c1852718]: Textual amendment: [1977 c.5](https://www.legislation.gov.uk/ukpga/1977/5) ; section 13(1) is amended by the [Disability Living Allowance and Disability Working Allowance Act 1991 (c.21)](https://www.legislation.gov.uk/ukpga/1991/21) , [Schedule 2](https://www.legislation.gov.uk/ukpga/1991/21/schedule/2) , [paragraph 8](https://www.legislation.gov.uk/ukpga/1991/21/paragraph/8) .
+
+[^key-20cdb01924a530422117323ece71c4c2]: Textual amendment: Sch. 3 omitted (8.4.2002) by virtue of [Social Security Amendment (Residential Care and Nursing Homes) Regulations 2001 (S.I. 2001/3767)](https://www.legislation.gov.uk/uksi/2001/3767), [regs. 1](https://www.legislation.gov.uk/uksi/2001/3767/regulation/1), [4(c)](https://www.legislation.gov.uk/uksi/2001/3767/regulation/4/c)

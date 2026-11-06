@@ -1,0 +1,2663 @@
+---
+title: The Waste (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2019
+id: uksi/2019/188
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2019-01-31'
+text_date: '2020-12-31'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2019/188
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2019/188/pdfs/uksiem_20190188_en.pdf
+- http://www.legislation.gov.uk/uksi/2019/188/pdfs/uksi_20190188_en.pdf
+- http://www.legislation.gov.uk/uksi/2019/188/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Waste (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2019
+
+> Text as at 2020-12-31.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2019 No. 188
+
+Exiting The European Union
+
+Environmental Protection
+
+Health And Safety, England And Wales
+
+Waste
+
+The Waste (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2019
+
+Sift requirements satisfied
+
+16th January 2019
+
+Made
+
+31st January 2019
+
+Laid before Parliament
+
+7th February 2019
+
+Coming into force in accordance with regulation 1(2)
+
+The Secretary of State makes these Regulations in exercise of the powers conferred by—
+
+- (a) in relation to Part 1, the powers mentioned in paragraphs (b) and (c);
+- (b) in relation to Part 2, section 2(2) of the European Communities Act 1972 [^c23759751];
+- (c) in relation to the remainder of the Regulations, section 8(1) of, and paragraph 21 of Schedule 7 to, the European Union (Withdrawal) Act 2018 [^c23759761].
+
+The Secretary of State is a Minister designated for the purposes of section 2(2) of the European Communities Act 1972 in relation to—
+
+- (a) batteries and accumulators [^c23759771];
+- (b) matters relating to the prevention and recovery of waste electrical and electronic equipment [^c23759781];
+- (c) matters relating to the prevention of waste from vehicles and forms of recovery of end-of-life vehicles and their components [^c23759791];
+- (d) measures relating to the prevention, reduction and elimination of pollution caused by waste [^c23759801];
+- (e) measures relating to the prevention, reduction and elimination of pollution caused by waste and the management of packaging and packaging waste [^c23759811].
+
+The requirements of paragraph 3(2) of Schedule 7 to the European Union (Withdrawal) Act 2018 (relating to the appropriate Parliamentary procedure for these Regulations) have been satisfied.
+
+## PART 1 — Introductory
+
+### 1. Citation and commencement[^key-80aaf246703fbf37db3295f79ca281c5]
+
+(1) These Regulations may be cited as the Waste (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2019.
+
+(2) They come into force as follows—
+
+- (a) as regards this Part and Part 2, 21 days after the day on which they are laid;
+- (b) as regards the remainder, on exit day.
+
+### 1A. Extent[^key-e46607d9563745d05f455524ee6ba982]
+
+(1) Subject to paragraph (2), the amendments made by Parts 2 and 3 have the same extent as the Regulations being amended.
+
+(2) The amendments made by regulations 18 and 20 do not extend to Northern Ireland.
+
+## PART 2 — Amendment of out of date references
+
+### 2. The End-of-Life Vehicles Regulations 2003[^key-311c1c03e22eb9c972ce72dc4f5193d5]
+
+(1) The End-of-Life Vehicles Regulations 2003 [^c23759821] are amended as follows.
+
+(2) In regulation 2—
+
+- (a) for the definition of “authorised treatment facility” substitute—
+
+  > “**authorised treatment facility**” means any establishment or undertaking carrying out treatment operations which holds—
+  >
+  > - (a) in England or Wales, an environmental permit authorising those operations granted under regulation 13(1) of the Environmental Permitting (England and Wales) Regulations 2016 [^c23759831];
+  > - (b) in Scotland, a site licence that complies with the relevant provisions of regulation 3 to 6 of the End-of-Life Vehicles (Storage and Treatment) (Scotland) Regulations 2003 [^c23759841] or a permit issued under regulation 13 of the Pollution Prevention and Control (Scotland) Regulations 2012 [^c23759851];
+  > - (c) in Northern Ireland—
+  >   - (i) a site licence that meets the requirements of regulation 26 of, and Schedule 5 to, the Waste Management Licensing Regulations (Northern Ireland) 2003 [^c23759861];
+  >   - (ii) a permit granted under regulation 10 of the Pollution Prevention and Control (Industrial Emissions) Regulations (Northern Ireland) 2013 [^c23759871];
+
+  ;
+- (b) in the definition of “end-of-life vehicle”, as it extends to Northern Ireland, for “Article 1(a)” substitute “ Article 3(1) ”;
+- (c) in the definition of “recovery”, as it extends to Northern Ireland, for “Annex IIB” substitute “ Annex 2 ”.
+
+### 3. The End-of-Life Vehicles (Producer Responsibility) Regulations 2005[^key-d78ed6458910bdb55e80aad507de008b]
+
+(1) The End-of-Life Vehicles (Producer Responsibility) Regulations 2005 [^c23759881] are amended as follows.
+
+(2) In regulation 2—
+
+- (a) for the definition of “authorised treatment facility” substitute—
+
+  > “**authorised treatment facility**” means any establishment or undertaking carrying out treatment operations which holds—
+  >
+  > - (a) in England or Wales, an environmental permit authorising those operations granted under regulation 13(1) of the Environmental Permitting (England and Wales) Regulations 2016;
+  > - (b) in Scotland, a site licence that complies with the relevant provisions of regulations 3 to 6 of the End-of-Life Vehicles (Storage and Treatment) (Scotland) Regulations 2003 or a permit issued under regulation 13 of the Pollution Prevention and Control (Scotland) Regulations 2012;
+  > - (c) in Northern Ireland—
+  >   - (i) a site licence that meets the requirements of regulation 26 of, and Schedule 5 to, the Waste Management Licensing Regulations (Northern Ireland) 2003;
+  >   - (ii) a permit granted under regulation 10 of the Pollution Prevention and Control (Industrial Emissions) Regulations (Northern Ireland) 2013;
+
+  ;
+- (b) in the definition of “end-of-life vehicle”, as it extends to Northern Ireland, for “Article 1(a)” substitute “ Article 3(1) ”;
+- (c) in the definition of “recovery”, as it extends to Northern Ireland, for “Annex IIB” substitute “ Annex 2 ”.
+
+### 4. The Producer Responsibility Obligations (Packaging Waste) Regulations 2007[^key-3f287b7880cef55bc21cf6ff7bb7588c]
+
+(1) The Producer Responsibility Obligations (Packaging Waste) Regulations 2007 [^c23759891] are amended as follows.
+
+(2) In regulation 2(1)—
+
+- (a) in the definition of “the Packaging Waste Directive”, at the end insert “, as last amended by Directive (EU) 2015/720 [^c23759901];
+- (b) in the definition of “the Waste Directive”, as it extends to Scotland, at the end insert “ , as last amended by Council Regulation (EU) 2017/997 [^c23759911] ”.
+
+(3) In Schedule 5, in paragraph 1(r)—
+
+- (a) in paragraph (i), after “waste”, insert “ , as last amended by Commission Regulation (EU) 2015/2002 [^c23759921] ”;
+- (b) in paragraph (ii), after “apply”, insert “ , as last amended by Commission Regulation (EU) No 733/2014 [^c23759931] ”.
+
+### 5. The Batteries and Accumulators (Placing on the Market) Regulations 2008[^key-9f160e85668cd84d4db0d5c165aa491a]
+
+(1) The Batteries and Accumulators (Placing on the Market) Regulations 2008 [^c23759941] are amended as follows.
+
+(2) In regulation 7, in paragraph (3), for the words after “Article”, substitute “ 3(1) of Directive [2008/98/EC](https://www.legislation.gov.uk/eudr/2008/98) of the European Parliament and of the Council on waste, as last amended by Council Regulation (EU) 2017/997/EU [^c23759951] ”.
+
+### 6. The Waste Batteries and Accumulators Regulations 2009[^key-95cca3d86beee4f7b3e9957e7991e3d1]
+
+(1) The Waste Batteries and Accumulators Regulations 2009 [^c23759961] are amended as follows.
+
+(2) In regulation 2—
+
+- (a) in paragraph (1)—
+  - (i) for the definition of “best available techniques” substitute—
+
+    > best available techniques” has the meaning given in Article 2(2), as read with Article 2(3), of Decision 2012/134/EU establishing the best available techniques (BAT) conclusions under Directive 2010/75/EU of the European Parliament and of the Council on industrial emissions for the manufacture of glass [^c23759971];
+
+    ;
+  - (ii) in the definitions of “disposal” and “waste battery”, as those definitions extend to England and Wales and Scotland, for the words from “Directive [2008/98/EC](https://www.legislation.gov.uk/eudr/2008/98) [^c23759981]” to the end substitute “ the Waste Framework Directive ”;
+  - (iii) in the definition of “disposal”, as it extends to Northern Ireland, for the words from “Annex IIA” to the end substitute “ Annex 1 to the Waste Framework Directive ”;
+  - (iv) in the definition of “waste battery”, as it extends to Northern Ireland, for “Article 1(1)(a) of Directive [2006/12/EC](https://www.legislation.gov.uk/eudr/2006/12)” substitute “ Article 3(1) of the Waste Framework Directive ”;
+- (b) after paragraph (1) insert—
+
+  > (1A) In paragraph (1), “**the Waste Framework Directive**” means Directive [2008/98/EC](https://www.legislation.gov.uk/eudr/2008/98) of the European Parliament and of the Council on waste, as last amended by Council Regulation (EU) 2017/997/EU.
+
+  .
+
+(3) In regulation 56—
+
+- (a) in paragraph (3), for “Council Directive [1999/31/EC](https://www.legislation.gov.uk/eudr/1999/31) on the landfill of waste [^c23759991]” substitute “ the Landfill Directive ”;
+- (b) after paragraph (3) insert—
+
+  > (4) In paragraph (3), “**the Landfill Directive**” means Council Directive [1999/31/EC](https://www.legislation.gov.uk/eudr/1999/31) on the landfill of waste, as last amended by Council Directive 2011/97/EU [^c23760001].
+
+  .
+
+### 7. The Controlled Waste (England and Wales) Regulations 2012[^key-8b556e32f223867df065027ea6496c11]
+
+(1) The Controlled Waste (England and Wales) Regulations 2012 [^c23760011] are amended as follows.
+
+(2) In regulation 2—
+
+- (a) in the definition of “Directive waste”, in sub-paragraph (a), for “Directive [2008/98/EC](https://www.legislation.gov.uk/eudr/2008/98) of the European Parliament and of the Council on waste and repealing certain Directives” substitute “ the Waste Directive ”;
+- (b) at the end, insert—
+
+  > “**Waste Directive**” means Directive [2008/98/EC](https://www.legislation.gov.uk/eudr/2008/98) of the European Parliament and of the Council on waste, as last amended by Council Regulation (EU) 2017/997/EU.
+
+  .
+
+### 8. The Waste Electrical and Electronic Equipment Regulations 2013[^key-312bb64fe3e441dad280f7dfc9c8e41a]
+
+(1) The Waste Electrical and Electronic Equipment Regulations 2013 [^c23760021] are amended as follows.
+
+(2) In regulation 2—
+
+- (a) for the definition of “the Directive”, substitute—
+
+  > “**the Directive**” means Directive 2012/19/EU of the European Parliament and of the Council on waste electrical and electronic equipment (WEEE) [^c23760031], as it had effect immediately before 4th July 2018;
+
+  ;
+- (b) in the definition of “relevant authorisation”, in paragraph (a), for “regulation 11”, substitute “ regulation 13 ”.
+
+## PART 3 — Amendments to secondary legislation
+
+### 9. The End-of-Life Vehicles Regulations 2003[^key-916fdd06f4d0ff461aad19a8778a14f9]
+
+(1) The End-of-Life Vehicles Regulations 2003 are amended as follows.
+
+(2) In regulation 2—
+
+- (a) in the definition of “end-of-life vehicle” (as amended by regulation 2(2)(b)), at the end insert “ , as read with Articles 5 and 6 of that Directive ”;
+- (b) in the definition of “producer”, for “a member State” substitute “ the United Kingdom ”;
+- (c)[^key-e83ddbc7f244e31ee5db2278de2b2357] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d) in the definition of “the Waste Directive”, at the end insert “ , and read in accordance with regulation 2A ”.
+
+(3) After regulation 2, insert—
+
+> **2A. Modification of the Waste Directive**
+>
+> (1) For the purposes of these Regulations, the Waste Directive is to be read in accordance with this regulation.
+>
+> (2)[^key-12dc74fd7ce2cda0ca741287d22660fd] Article 5 is to be read as if—
+>
+> - (a) in paragraph 1, “Member States shall take appropriate measures to ensure that” were omitted;
+> - (b) after paragraph 1 there were inserted—
+>
+>   > **1A.** Any decision as to whether a substance or object is a by-product must be made—
+>   >
+>   > - (a) in accordance with any regulations setting out detailed criteria on the application of the conditions in paragraph 1 to specific substances or objects; and
+>   > - (b) having regard to any guidance published by the appropriate authority or the appropriate agency for the purposes of this Article.
+>
+>   ;
+> - (c) paragraphs 2 and 3 were omitted.
+>
+> (3) Article 6 is to be read as if—
+>
+> - (a) in paragraph 1, “Member States shall take appropriate measures to ensure that” were omitted;
+> - (b) after paragraph 1 there were inserted—
+>
+>   > **1A.** Any decision as to whether a substance or object has ceased to be waste must be made—
+>   >
+>   > - (a) in accordance with any regulations or retained direct EU legislation setting out detailed criteria on the application of the conditions in paragraph 1 to specific types of waste; and
+>   > - (b) having regard to any guidance published by the appropriate authority or the appropriate agency for the purposes of this Article.
+>
+>   ;
+> - (c) in paragraph 2—
+>   - (i) the first subparagraph were omitted;
+>   - (ii) in the second subparagraph, for “Those detailed criteria” there were substituted “Any detailed criteria set out in guidance as referred to in paragraph 1A”;
+>   - (iii) the third and fourth subparagraphs were omitted;
+> - (d) paragraph 3 were omitted;
+> - (e) in paragraph 4—
+>   - (i) in the first subparagraph—
+>     - (aa) in the first sentence, for the words from the beginning to “Member State”, there were substituted “Where criteria have not been set out as referred to in paragraph 1A(a), the appropriate agency”;
+>     - (bb) the second sentence were omitted;
+>   - (ii) in the second subparagraph—
+>     - (aa) for “Member States” there were substituted “The appropriate agency”;
+>     - (bb) “by competent authorities” were omitted.
+>
+> (4) In this regulation—
+>
+> - “appropriate agency” means—
+>   - (a) in relation to England, the Environment Agency;
+>   - (b) in relation to Wales, the Natural Resources Body for Wales;
+>   - (c) in relation to Scotland, the Scottish Environment Protection Agency;
+>   - (d) in relation to Northern Ireland, the Department of Agriculture, Environment and Rural Affairs;
+> - “appropriate authority” means—
+>   - (a) in relation to England, the Secretary of State;
+>   - (b) in relation to Wales, the Welsh Ministers;
+>   - (c) in relation to Scotland, the Scottish Ministers;
+>   - (d) in relation to Northern Ireland, the Department of Agriculture, Environment and Rural Affairs.
+
+.
+
+(4) In regulation 3(3), omit “EU or”.
+
+(5) In regulation 4—
+
+- (a) for the heading, substitute “ Existing legislation ”;
+- (b)[^key-0d32e039a8006be0d55826611ff4b935] for “existing EU legislation and relevant national legislation” substitute “any other relevant legislation”.
+
+(6)[^key-fd0558f82d250a5fc25423ec3c8b8e64] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(7) For regulation 15 substitute—
+
+> **15.**
+>
+> For the purposes of regulation 14, “**material and component coding standards**” means the nomenclature of the material and component coding standards for end-of-life vehicles set out in Schedule 2.
+
+.
+
+(8) In regulation 18(2), in the words before sub-paragraph (a), for “objectives in Article 7 of the Directive, that is to say” substitute “ following objectives ”.
+
+(9) In regulation 29, omit the words from “, which sets out” to the end.
+
+(10)[^key-58613188aaf292019aeaf6a02a2a43b0] In regulation 33—
+
+- (a) in paragraphs (a) and (b), for “another” substitute “ an ”;
+- (b) for the words after paragraph (b), substitute— “ and containing at least the information listed in Schedule 3 has legal effect, and all rights, powers, liabilities, obligations and restrictions arising out of or incidental to such certificates or their issue shall be recognised and available in law, and be enforced, allowed and followed accordingly. ”.
+
+(11) In Schedule 3—
+
+- (a) in the heading, omit the words from “issued” to the end;
+- (b) in paragraph 2, omit “(in accordance with Article 6(2) of the Directive)”.
+
+### 10. The End-of-Life Vehicles (Producer Responsibility) Regulations 2005[^key-bb6553536b94decdb8b1927365e71f56]
+
+(1) The End-of-Life Vehicles (Producer Responsibility) Regulations 2005 are amended as follows.
+
+(2) In regulation 2—
+
+- (a) in the definition of “the Directive”, at the end insert “ and as read in accordance with regulation 2A ”;
+- (b) after the definition of “the Directive”, insert—
+
+  > “**appropriate agency**” means—
+  >
+  > - (a) in relation to England, the Environment Agency,
+  > - (b) in relation to Wales, the Natural Resources Body for Wales,
+  > - (c) in relation to Scotland, the Scottish Environment Protection Agency,
+  > - (d) in relation to Northern Ireland, the Department of Agriculture, Environment and Rural Affairs;
+  >
+  > “**appropriate authority**” means—
+  >
+  > - (a) in relation to England, the Secretary of State,
+  > - (b) in relation to Wales, the Welsh Ministers,
+  > - (c) in relation to Scotland, the Scottish Ministers,
+  > - (d) in relation to Northern Ireland, the Department of Agriculture, Environment and Rural Affairs;
+
+  ;
+- (c) in the definition of “end-of-life vehicle” (as amended by regulation 3(2)(b)), at the end insert “ , as read with Articles 5 and 6 of that Directive ”;
+- (d) after the definition of “end-of-life vehicle” insert—
+
+  > “**local authority**” means—
+  >
+  > - (a) in England outside Greater London—
+  >   - (i) a district council,
+  >   - (ii) a county council, or
+  >   - (iii) the Council of the Isles of Scilly;
+  > - (b) in Greater London—
+  >   - (i) the council of a London borough,
+  >   - (ii) the Common Council of the City of London,
+  >   - (iii) the Sub-Treasurer of the Inner Temple, or
+  >   - (iv) the Under-Treasurer of the Middle Temple;
+  > - (c) in Wales—
+  >   - (i) a county council, or
+  >   - (ii) a county borough council;
+  > - (d) in Scotland, a council constituted under section 2 of the Local Government etc. (Scotland) Act 1994 [^c23760051];
+  > - (e) in Northern Ireland, a district council established under section 1 of the Local Government Act (Northern Ireland) 1972 [^c23760061];
+
+  .
+- (e)[^key-17802fe1dc73ef02b7a78c5ebe5f3059] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (f) in the definition of “the Waste Directive”, at the end insert “ , and as read in accordance with regulation 2B ”.
+
+(3) After regulation 2, insert—
+
+> **2A. Modification of the Directive**
+>
+> (1) For the purposes of these Regulations, the Directive is to be read in accordance with this regulation.
+>
+> (2) A reference to one or more member States in a provision imposing an obligation or conferring a discretion on a member State or member States is to be read as a reference to the appropriate authority, appropriate agency or local authority which, immediately before IP completion day[^key-41799106189968838184de21bacc30ec], was responsible for the United Kingdom's compliance with that obligation or able to exercise that discretion.
+>
+> (3) A term used in the Directive which is defined in regulation 2 has the same meaning as in regulation 2.
+>
+> (4) Article 2 is to be read as if paragraphs 1, 2, 5 and 8 were omitted.
+>
+> (5) Article 5 is to be read as if—
+>
+> - (a)[^key-21de4e1c1ece7dfef897f3785027c2db] in paragraph 3—
+>   - (i) in the first paragraph, for “Treatment facilities, which have obtained a permit in accordance with Article 6,” there were substituted “Authorised treatment facilities”;
+>   - (ii) in the third paragraph, the final sentence were omitted;
+> - (b) in paragraph 4, the fourth paragraph were omitted;
+> - (c) paragraph 5 were omitted.
+>
+> (6)[^key-535f27605fbd8b4bf07bae455b206e75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> **2B. Modification of the Waste Directive**
+>
+> (1) For the purposes of these Regulations, the Waste Directive is to be read in accordance with this regulation.
+>
+> (2) A reference to one or more member States in a provision imposing an obligation or conferring a discretion on a member State or member States is to be read as a reference to the appropriate authority, appropriate agency or local authority which, immediately before IP completion day[^key-a8a37ab11dd42d37942a4e0c63b75677], was responsible for the United Kingdom's compliance with that obligation or able to exercise that discretion.
+>
+> (3)[^key-337be701fbeeab7301c719e2c91b374d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> (4)[^key-8eaa6bec57774e1dfb4a53dbb6650635] Article 5 is to be read as if—
+>
+> - (a) in paragraph 1, “Member States shall take appropriate measures to ensure that” were omitted;
+> - (b) after paragraph 1 there were inserted—
+>
+>   > **1A.** Any decision as to whether a substance or object is a by-product must be made—
+>   >
+>   > - (a) in accordance with any regulations setting out detailed criteria on the application of the conditions in paragraph 1 to specific substances or objects; and
+>   > - (b) having regard to any guidance published by the appropriate authority or the appropriate agency for the purposes of this Article.
+>
+>   ;
+> - (c) paragraphs 2 and 3 were omitted.
+>
+> (5) Article 6 is to be read as if—
+>
+> - (a) in paragraph 1, “Member States shall take appropriate measures to ensure that” were omitted;
+> - (b) after paragraph 1 there were inserted—
+>
+>   > **1A.** Any decision as to whether a substance or object has ceased to be waste must be made—
+>   >
+>   > - (a) in accordance with any regulations or retained direct EU legislation setting out detailed criteria on the application of the conditions in paragraph 1 to specific types of waste; and
+>   > - (b) having regard to any guidance published by the appropriate authority or the appropriate agency for the purposes of this Article.
+>
+>   ;
+> - (c) in paragraph 2—
+>   - (i) the first subparagraph were omitted;
+>   - (ii) in the second subparagraph, for “Those detailed criteria” there were substituted “Any detailed criteria set out in guidance as referred to in paragraph 1A”;
+>   - (iii) the third and fourth subparagraphs were omitted;
+> - (d) paragraph 3 were omitted;
+> - (e) in paragraph 4—
+>   - (i) in the first subparagraph—
+>     - (aa) in the first sentence, for the words from the beginning to “Member State”, there were substituted “Where criteria have not been set out as referred to in paragraph 1A(a), the appropriate agency”;
+>     - (bb) the second sentence were omitted;
+>   - (ii) in the second subparagraph—
+>     - (aa) for “Member States” there were substituted “The appropriate agency”;
+>     - (bb) “by competent authorities” were omitted.
+>
+> (6) Article 7 is to be read as if—
+>
+> - (a) before paragraph 1 there were inserted—
+>
+>   > **A1.** In this Article, the “list of waste” means the list contained in the Annex to Commission [Decision 2000/532/EC](https://www.legislation.gov.uk/eudn/2000/0532), as that list has effect in England, Wales, Scotland or Northern Ireland (as the case may be).
+>
+>   ;
+> - (b) in paragraph 1—
+>   - (i) the first and second sentences were omitted;
+>   - (ii) for the third sentence there were substituted “The list of waste shall, except as provided in Commission [Decision 2000/532/EC](https://www.legislation.gov.uk/eudn/2000/0532), be binding as regards determination of the waste which is to be considered as hazardous waste or as non-hazardous waste.”;
+> - (c) paragraphs 2, 3, 6 and 7 were omitted.
+>
+> (7)[^key-c316cfadf35633e2819ec10bbfada23d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> (8)[^key-c316cfadf35633e2819ec10bbfada23d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> (9) Annex 3 is to read as if, in entry HP 9, in the second sentence, “in the Member States” were omitted.
+>
+> **.... ...[^key-103557420ec4d57a2b8b12945ba98ae2]**
+>
+> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+.
+
+(4)[^key-433c5fd092423c2f75c386c28422e4e2] In regulation 3(2), for “the appropriate Community or domestic provisions” substitute “any relevant legislation”.
+
+(5) In regulation 4—
+
+- (a) for the heading, substitute “ Existing legislation ”;
+- (b)[^key-6c388adc473c9f7110147e3a60c7bffa] for “existing EU legislation and relevant national legislation” substitute “any other relevant legislation”.
+
+(6) In regulation 5—
+
+- (a) after “apply to” insert “ vehicles approved as ”;
+- (b)[^key-cba5e9ba5d0c1ab392c113ae4b61f624] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(7)[^key-9c973d87271865840f05ddc3b7bf18a7] In regulation 12(1), for “the requirements of Article 6 and Annex I of the Directive” substitute “the requirements set out in Annex 1 to the Directive, and the general requirements referred to in Article 13 of the Waste Directive”.
+
+### 11. The Hazardous Waste (England and Wales) Regulations 2005[^key-bc43a127300c0ca9198048f48455d7c8]
+
+(1) The Hazardous Waste (England and Wales) Regulations 2005 are amended as follows.
+
+(2) In regulation 2(1)—
+
+- (a) in sub-paragraph (a), at the end insert “ , and as read in accordance with regulation 2A ”;
+- (b) in sub-paragraph (b)(i), at the end insert “ , as read with Articles 5 and 6 of that Directive ”.
+
+(3) After regulation 2 insert—
+
+> **2A. Modification of the Waste Directive**
+>
+> (1) For the purposes of these Regulations, the Waste Directive is to be read in accordance with this regulation.
+>
+> (2) A reference to one or more member States in a provision imposing an obligation or conferring a discretion on a member State or member States is to be read as a reference to the appropriate authority or local authority which, immediately before IP completion day[^key-816aa5b0cf1279aa0d6e98c07b62939a], was responsible for the United Kingdom's compliance with that obligation or able to exercise that discretion in respect of England.
+>
+> (3) Article 2 is to be read as if—
+>
+> - (a) in paragraph 2—
+>   - (i) in the words before point (a), for “other Community legislation” there were substituted “ retained EU law ”;
+>   - (ii) in points (b) and (c), for “Regulation [(EC) No 1774/2002](https://www.legislation.gov.uk/eur/2002/1774)” there were substituted “ Regulation [(EC) No 1069/2009](https://www.legislation.gov.uk/eur/2009/1069) ”;
+>   - (iii) in point (d), for the words from “Directive [2006/21/EC](https://www.legislation.gov.uk/eudr/2006/21) [^c23760221]” to the end there substituted “ the Mining Waste Directive ”;
+> - (b) in paragraph 3, the words from “Without prejudice” to “Community legislation,” were omitted;
+> - (c) paragraph 4 were omitted.
+>
+> (4)[^key-2bccecbbbf745e51f9f900511f321188] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> (5)[^key-a8b35c452c198d2494ff9d744afcbab0] Article 5 is to be read as if—
+>
+> - (a) in paragraph 1, “Member States shall take appropriate measures to ensure that” were omitted;
+> - (b) after paragraph 1 there were inserted—
+>
+>   > **1A.** Any decision as to whether a substance or object is a by-product must be made—
+>   >
+>   > - (a) in accordance with any regulations setting out detailed criteria on the application of the conditions in paragraph 1 to specific substances or objects; and
+>   > - (b) having regard to any guidance published by the appropriate authority for the purposes of this Article.
+>
+>   ;
+> - (c) paragraphs 2 and 3 were omitted.
+>
+> (6) Article 6 is to be read as if—
+>
+> - (a) in paragraph 1, “Member States shall take appropriate measures to ensure that” were omitted;
+> - (b) after paragraph 1 there were inserted—
+>
+>   > **1A.** Any decision as to whether a substance or object has ceased to be waste must be made—
+>   >
+>   > - (a) in accordance with any regulations or retained direct EU legislation setting out detailed criteria on the application of the conditions in paragraph 1 to specific types of waste; and
+>   > - (b) having regard to any guidance published by the appropriate authority for the purposes of this Article.
+>
+>   ;
+> - (c) in paragraph 2—
+>   - (i) the first subparagraph were omitted;
+>   - (ii) in the second subparagraph, for “Those detailed criteria” there were substituted “Any detailed criteria set out in guidance as referred to in paragraph 1A”;
+>   - (iii) the third and fourth subparagraphs were omitted;
+> - (d) paragraph 3 were omitted;
+> - (e) in paragraph 4—
+>   - (i) in the first subparagraph—
+>     - (aa) in the first sentence, for the words from the beginning to “Member State”, there were substituted “Where criteria have not been set out as referred to in paragraph 1A(a), the Agency”;
+>     - (bb) the second sentence were omitted;
+>   - (ii) in the second subparagraph—
+>     - (aa) for “Member States” there were substituted “The Agency”;
+>     - (bb) “by competent authorities” were omitted.
+>
+> (7) Article 7 is to be read as if—
+>
+> - (a) before paragraph 1 there were inserted—
+>
+>   > **A1.** In this Article, the “list of waste” means the list contained in the Annex to Commission [Decision 2000/532/EC](https://www.legislation.gov.uk/eudn/2000/0532), as that list has effect in England.
+>
+>   ;
+> - (b) in paragraph 1—
+>   - (i) the first and second sentences were omitted;
+>   - (ii) for the third sentence there were substituted “The list of waste shall, except as provided in Commission [Decision 2000/532/EC](https://www.legislation.gov.uk/eudn/2000/0532), be binding as regards determination of the waste which is to be considered as hazardous waste or as non-hazardous waste.”;
+> - (c) paragraphs 2, 3, 6 and 7 were omitted.
+>
+> (8) Article 19 is to be read as if—
+>
+> - (a) in paragraph 1, for “Community” there was substituted “ national ”;
+> - (b) in paragraph 2, for “a Member State” there were substituted “ England ”.
+>
+> (9) Annex 3 is to be read as if, in entry HP 9, in the second sentence, “in the Member States” were omitted.
+>
+> (10) In paragraph (2), “**local authority**” means—
+>
+> - (a) in England outside Greater London—
+>   - (i) a district council,
+>   - (ii) a county council, or
+>   - (iii) the Council of the Isles of Scilly;
+> - (b) in Greater London—
+>   - (i) the council of a London borough,
+>   - (ii) the Common Council of the City of London,
+>   - (iii) the Sub-Treasurer of the Inner Temple, or
+>   - (iv) the Under-Treasurer of the Middle Temple.
+>
+> **2B. Meaning of the “Mining Waste Directive” ...[^key-604d3681ee105e2be9473142b38a2e52]**
+>
+> (1) In regulation 2A(3)(a)(iii), “**the Mining Waste Directive**” means Directive [2006/21/EC](https://www.legislation.gov.uk/eudr/2006/21) of the European Parliament and of the Council on the management of waste from extractive industries, read in accordance with paragraphs (2) and (3).
+>
+> (2) Article 2 is to be read as if—
+>
+> - (a) in paragraph 2(c), the reference to Article 11(3)(j) of Directive [2000/60/EC](https://www.legislation.gov.uk/eudr/2000/60) [^c23760231] were a reference to that Article read in accordance with paragraph (7) of this regulation;
+> - (b) paragraphs 3 and 4 were omitted**.**
+>
+> (3) Article 3(1) is to be read as if, for “Article 1(a) of Directive [75/442/EEC](https://www.legislation.gov.uk/eudr/1975/442)” there were substituted “ Article 3(1) of the Waste Directive, as read with Articles 5 and 6 of that Directive ”.
+>
+> (4)[^key-a6472c919995dc912376fb0ef497eb83] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> (5)[^key-a6472c919995dc912376fb0ef497eb83] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> (6)[^key-a6472c919995dc912376fb0ef497eb83] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> (7) For the purposes of paragraph (2)(a), Article 11(3)(j) of Directive [2000/60/EC](https://www.legislation.gov.uk/eudr/2000/60) is to be read as if—
+>
+> - (a) the reference to “Member States” were a reference to the appropriate authority;
+> - (b) in the words after the final indent, “environmental objectives”—
+>   - (i) in relation to the Northumbria River Basin District, means the objectives referred to in the WFD Regulations as applied by regulation 5 of the Water Environment (Water Framework Directive) (Northumbria River Basin District) Regulations 2003 [^c23760251];
+>   - (ii) in relation to the Solway Tweed River Basin District, has the same meaning as in regulation 2 of the Water Environment (Water Framework Directive) (Solway Tweed River Basin District) Regulations 2004 [^c23760261];
+>   - (iii) in relation to a river basin district within the meaning of the WFD Regulations, has the same meaning as in those Regulations.
+>
+> (8) In paragraph (7)(b), “**the WFD Regulations**” means the Water Environment (Water Framework Directive) (England and Wales) Regulations 2017 [^c23760271].
+
+.
+
+(4) In regulation 5(1)—
+
+- (a) after the definition of “the Agency” insert—
+
+  > “**appropriate authority**” means the Secretary of State or the Agency;
+
+  ;
+- (b) after the definition of “hazardous waste” insert—
+
+  > - “Landfill Directive” means Council[^key-20abc6981aa8ceccf6968b6e295ccf54] [Directive 1999/31/EC](https://www.legislation.gov.uk/eudr/1999/0031) on the landfill of waste, as last amended by Directive (EU) 2018/850, and read as if—
+  >   - (a) in Article 2—
+  >     - (i) in point (a)—
+  >       - (aa) “‘waste’,” were omitted; and
+  >       - (bb) for “[Directive 2008/98/EC](https://www.legislation.gov.uk/eudr/2008/0098)” there were substituted “the Waste Framework Directive”;
+  >     - (ii) after point (a) there were inserted—
+  >
+  >       > - (aa) ‘waste’ has the meaning given by regulation 2(1)(b) of the Hazardous Waste (England and Wales) Regulations 2005;
+  >
+  >       ;
+  >   - (b) in Article 3—
+  >     - (i) in paragraph (2), “Without prejudice to existing Community legislation,” were omitted;
+  >     - (ii) for paragraph (3) there were substituted—
+  >
+  >       > **3.** The management of extractive waste, within the meaning given in regulation 2(1) of the Environmental Permitting Regulations, is excluded from the scope of this Directive where it falls within the scope of Schedule 20, or paragraph 8(a) or (b) of Schedule 22, to those Regulations.
+  >
+  >       .
+
+  .
+
+(5) In regulation 8—
+
+- (a) in paragraph (2)—
+  - (i) omit the words from “by the Welsh” to “may be,”;
+  - (ii) for “Article 7(2) of the Waste Directive” substitute “ paragraph (3) ”;
+- (b) after paragraph (2) insert—
+
+  > (3) For the purposes of paragraph (2), a specific batch of waste is determined to be hazardous—
+  >
+  > - (a) in relation to Wales if—
+  >   - (i) of a type listed in regulations made under section 62A(2) of the 1990 Act;
+  >   - (ii) it is the subject of a determination by the Welsh Ministers under regulation 8 of the Hazardous Waste (Wales) Regulations 2005;
+  > - (b) in relation to Northern Ireland, it is the subject of a determination by the Department of Agriculture, Environment and Rural Affairs under regulation 9 of the Hazardous Waste Regulations (Northern Ireland) 2005;
+  > - (c) in relation to Scotland, it is the subject of a determination by the Scottish Ministers, because the Scottish Ministers consider that the waste displays one or more of the hazardous properties listed in Annex III.
+
+  .
+
+(6) In regulation 9—
+
+- (a) in paragraph (2)—
+  - (i) omit the words from “by the Welsh” to “may be,”;
+  - (ii) for “Article 7(2) of the Waste Directive” substitute “ paragraph (3) ”;
+- (b) after paragraph (2) insert—
+
+  > (3) For the purposes of paragraph (2), a specific batch of waste is determined to be non-hazardous if it is the subject of a decision—
+  >
+  > - (a) in relation to Wales, by the Welsh Ministers under regulation 9 of the Hazardous Waste (Wales) Regulations 2005;
+  > - (b) in relation to Northern Ireland, by the Department of Agriculture, Environment and Rural Affairs under regulation 10 of the Hazardous Waste Regulations (Northern Ireland) 2005;
+  > - (c) in relation to Scotland, by the Scottish Ministers that the Scottish Ministers consider that the waste displays none of the hazardous properties listed in Annex III.
+
+  .
+
+(7) In regulations 47(5B) and 48(6B), for “Council Directive [1999/31/EC](https://www.legislation.gov.uk/eudr/1999/31) on the landfill of waste , as last amended by Directive (EU) 2018/850[^key-4f42e6bc5edb1bb3f2dfec09e9131925]” substitute “ the Landfill Directive ”.
+
+(8) In regulation 60(1), in the words before sub-paragraph (a), omit from “and” to “Directive”.
+
+### 12. The Producer Responsibility Obligations (Packaging Waste) Regulations 2007[^key-0442f4276498a4481569e9b72e1207b8]
+
+(1) The Producer Responsibility Obligations (Packaging Waste) Regulations 2007 are amended as follows.
+
+(2) In regulation 2—
+
+- (a) in paragraph (1)—
+  - (i) in the definition of “the Packaging Waste Directive”, at the end insert “ , and as read in accordance with regulation 2A ”;
+  - (ii) in the definition of “the Waste Directive”, at the end insert “ , and as read in accordance with regulation 2B ”;
+- (b) in paragraph (2)—
+  - (i)[^key-831640b626d27f87d5d5774c2a0dfbdf] in the definition of “appropriate authority”, in paragraph (a), for “regulation 4(7)” substitute “regulations 2A, 2B and 4(7)”;
+  - (ii) after the definition of “financial year” insert—
+
+    > “**local authority**” means—
+    >
+    > - (a) in England outside Greater London—
+    >   - (i) a district council,
+    >   - (ii) a county council, or
+    >   - (iii) the Council of the Isles of Scilly;
+    > - (b) in Greater London—
+    >   - (i) the council of a London borough,
+    >   - (ii) the Common Council of the City of London,
+    >   - (iii) the Sub-Treasurer of the Inner Temple, or
+    >   - (iv) the Under-Treasurer of the Middle Temple;
+    > - (c) in Wales—
+    >   - (i) a county council, or
+    >   - (ii) a county borough council;
+    > - (d) in Scotland, a council constituted under section 2 of the Local Government etc. (Scotland) Act 1994;
+
+    .
+
+(3) After regulation 2, insert—
+
+> **2A. Modifications to the Packaging Waste Directive**
+>
+> (1) For the purposes of these Regulations, the Packaging Waste Directive[^key-73e95ac441a1a06058d268d0f7e15995] is to be read in accordance with this regulation.
+>
+> (2) A reference to one or more member States in a provision imposing an obligation or conferring a discretion on a member State or member States is to be read as a reference to the appropriate authority, appropriate agency or local authority which, immediately before IP completion day[^key-45a221518d5366667f5dc01560e35f9c], was responsible for the United Kingdom's compliance with that obligation or able to exercise that discretion.
+>
+> (3)[^key-9426b2fb46b847288d88dd0ff41afa3d] Article 3 is to be read as if—
+>
+> - (a) in paragraph 2, for “Article 3 of [Directive 2008/98/EC](https://www.legislation.gov.uk/eudr/2008/0098)” there were substituted “Article 3(1) of the Waste Directive, as read with Articles 5 and 6 of that Directive;
+> - (b) in paragraph 2c, for “[Directive 2008/98/EC](https://www.legislation.gov.uk/eudr/2008/0098)” there were substituted “the Waste Directive”.
+>
+> (4)[^key-39aa8b1375fa96d96d176cc8c519f0da] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> **2B. Modifications to the Waste Directive**
+>
+> (1) For the purposes of these Regulations, the Waste Directive is to be read in accordance with this regulation.
+>
+> (2) A reference to one or more member States in a provision imposing an obligation or conferring a discretion on a member State or member States is to be read as a reference to the appropriate authority, appropriate agency or local authority which, immediately before IP completion day[^key-f7d8dccc922890a7c72af6b63c5a672e], was responsible for the United Kingdom's compliance with that obligation or able to exercise that discretion.
+>
+> (3)[^key-fc6941c036b850e5624625836066a47d] Article 5 is to be read as if—
+>
+> - (a) in paragraph 1, “Member States shall take appropriate measures to ensure that” were omitted;
+> - (b) after paragraph 1 there were inserted—
+>
+>   > **1A.** Any decision as to whether a substance or object is a by-product must be made—
+>   >
+>   > - (a) in accordance with any regulations setting out detailed criteria on the application of the conditions in paragraph 1 to specific substances or objects; and
+>   > - (b) having regard to any guidance published by the appropriate authority or the appropriate agency for the purposes of this Article.
+>
+>   ;
+> - (c) paragraphs 2 and 3 were omitted.
+>
+> (4) Article 6 is to be read as if—
+>
+> - (a) in paragraph 1, “Member States shall take appropriate measures to ensure that” were omitted;
+> - (b) after paragraph 1 there were inserted—
+>
+>   > **1A.** Any decision as to whether a substance or object has ceased to be waste must be made—
+>   >
+>   > - (a) in accordance with any regulations or retained direct EU legislation setting out detailed criteria on the application of the conditions in paragraph 1 to specific types of waste; and
+>   > - (b) having regard to any guidance published by the appropriate authority or the appropriate agency for the purposes of this Article.
+>
+>   ;
+> - (c) in paragraph 2—
+>   - (i) the first subparagraph were omitted;
+>   - (ii) in the second subparagraph, for “Those detailed criteria” there were substituted “Any detailed criteria set out in guidance as referred to in paragraph 1A”;
+>   - (iii) the third and fourth subparagraphs were omitted;
+> - (d) paragraph 3 were omitted;
+> - (e) in paragraph 4—
+>   - (i) in the first subparagraph—
+>     - (aa) in the first sentence, for the words from the beginning to “Member State”, there were substituted “Where criteria have not been set out as referred to in paragraph 1A(a), the appropriate agency”;
+>     - (bb) the second sentence were omitted;
+>   - (ii) in the second subparagraph—
+>     - (aa) for “Member States” there were substituted “The appropriate agency”;
+>     - (bb) “by competent authorities” were omitted.
+
+.
+
+(4)[^key-d033355f35a45e8dd0d110619d08d034] In regulation 24—
+
+- (a) in paragraph (3)(b)—
+  - (i) in paragraph (i)—
+    - (aa) for “European Union” substitute “United Kingdom”;
+    - (bb) for the words from “the requirements” to the end, substitute “any recovery or recycling operations taking place in each such site take place under conditions that are broadly equivalent to requirements applicable to reprocessing sites in the United Kingdom”;
+  - (ii) in paragraph (ii)—
+    - (aa) for “European Union” substitute “United Kingdom”;
+    - (bb) for “of Article 6(2) of that Directive” substitute “applicable to the shipment of waste from the United Kingdom”;
+- (b) omit paragraph (8);
+- (c) in paragraph (9)—
+  - (i) for “European Union” substitute “United Kingdom”;
+  - (ii) for “the requirements of Article 6(2) of the Packaging Waste Directive” substitute “requirements that are broadly equivalent to requirements applicable to reprocessing sites in the United Kingdom”.
+
+(4A)[^key-dd94813766509faf7304777493da1b90] In regulation 26(2), for the words from the beginning to “Directive”, substitute “Where the appropriate Agency has granted an accreditation to an exporter, and is no longer satisfied that the requirements in regulation 24(3)(b) or (9), which applied to that grant of accreditation,”.
+
+(5) After Part 11 insert—
+
+> **PART XII — Report**
+>
+> **43. Report**
+>
+> (1) The Secretary of State must publish, in a manner the Secretary of State considers appropriate, a report on the magnitude, characteristics and evolution of the packaging and packaging waste flows (including information on the toxicity or danger of packaging materials and components used for their manufacture).
+>
+> (2) The first report under this regulation must be published before the end of the period of 3 years beginning with the day after that on which IP completion day[^key-c23573ead8bea1c2b10949b7125e6679] falls.
+>
+> (3) Subsequent reports must be published at intervals not exceeding 3 years.
+
+.
+
+### 13. The Batteries and Accumulators (Placing on the Market) Regulations 2008[^key-400899e53d5cb09493f6e2be03147105]
+
+(1) The Batteries and Accumulators (Placing on the Market) Regulations 2008 are amended as follows.
+
+(2) In regulation 2(1)—
+
+- (a) in the definition of “appliance”, after “defined by” insert “ Article 3(1)(a) of ”;
+- (b)[^key-5df656fbe351eb9e66445a2784ab4d81] for the definition of “placing on the market” substitute—
+
+  > - “placing on the market”—
+  >   - (a) except in relation to a person in Northern Ireland, means supplying or making available, whether in return for payment or free of charge, to a third party within the United Kingdom;
+  >   - (b) in relation to a person in Northern Ireland, means supplying or making available, whether in return for payment or free of charge, to a third party within the United Kingdom or the European Economic Area, and includes import into the customs territory of the Union as defined in Article 4 of Regulation (EU) No 952/2013 of the European Parliament and of the Council laying down the Union Customs Code, as that Regulation applies in EU law;
+
+  ;
+
+(3)[^key-c7cd2650bbb9fbcf73bcd0c7adff72ba] In regulation 3—
+
+- (a) in paragraph (2)(a), for “the essential security interests of EEA states” substitute “essential security interests”;
+- (b) after paragraph (2) insert—
+
+  > (3) In paragraph (2)(a)—
+  >
+  > - (a) as it applies in England and Wales and Scotland, “essential security interests” means the essential security interests of the United Kingdom;
+  > - (b) as it applies in Northern Ireland, “essential security interests” means the essential security interests of the United Kingdom or EEA states.
+
+  .
+
+(4) In regulation 7—
+
+- (a) in paragraph (3) (as amended by regulation 5(2)), at the end insert “ , and as read with Articles 5 and 6 of that Directive ”;
+- (b) after paragraph (3) insert—
+
+  > (4) For the purposes of paragraph (3), Directive [2008/98/EC](https://www.legislation.gov.uk/eudr/2008/98) is to be read in accordance with paragraphs (5) and (6).
+  >
+  > (5)[^key-03bf8b8b407db72d46d6e2fa7539f4ab] Article 5 is to be read as if—
+  >
+  > - (a) in paragraph 1, “Member States shall take appropriate measures to ensure that” were omitted;
+  > - (b) after paragraph 1 there were inserted—
+  >
+  >   > **1A.** Any decision as to whether a substance or object is a by-product must be made—
+  >   >
+  >   > - (a) in accordance with any regulations setting out detailed criteria on the application of the conditions in paragraph 1 to specific substances or objects; and
+  >   > - (b) having regard to any guidance published by the appropriate authority or the appropriate agency for the purposes of this Article.
+  >
+  >   ;
+  > - (c) paragraphs 2 and 3 were omitted.
+  >
+  > (6) Article 6 is to be read as if—
+  >
+  > - (a) in paragraph 1, “Member States shall take appropriate measures to ensure that” were omitted;
+  > - (b) after paragraph 1 there were inserted—
+  >
+  >   > **1A.** Any decision as to whether a substance or object has ceased to be waste must be made—
+  >   >
+  >   > - (a) in accordance with any regulations or retained direct EU legislation setting out detailed criteria on the application of the conditions in paragraph 1 to specific types of waste; and
+  >   > - (b) having regard to any guidance published by the appropriate authority or the appropriate agency for the purposes of this Article.
+  >
+  >   ;
+  > - (c) in paragraph 2—
+  >   - (i) the first subparagraph were omitted;
+  >   - (ii) in the second subparagraph, for “Those detailed criteria” there were substituted “Any detailed criteria set out in guidance as referred to in paragraph 1A”;
+  >   - (iii) the third and fourth subparagraphs were omitted;
+  > - (d) paragraph 3 were omitted;
+  > - (e) in paragraph 4—
+  >   - (i) in the first subparagraph—
+  >     - (aa) in the first sentence, for the words from the beginning to “Member State”, there were substituted “Where criteria have not been set out as referred to in paragraph 1A(a), the appropriate agency”;
+  >     - (bb) the second sentence were omitted;
+  >   - (ii) in the second subparagraph—
+  >     - (aa) for “Member States” there were substituted “The appropriate agency”;
+  >     - (bb) “by competent authorities” were omitted.
+  >
+  > (7) In paragraphs (5) and (6)—
+  >
+  > - “appropriate agency” means—
+  >   - (a) in relation to England, the Environment Agency;
+  >   - (b) in relation to Wales, the Natural Resources Body for Wales;
+  >   - (c) in relation to Scotland, the Scottish Environment Protection Agency;
+  >   - (d) in relation to Northern Ireland, the Department of Agriculture, Environment and Rural Affairs;
+  > - “appropriate authority” means—
+  >   - (a) in relation to England, the Secretary of State;
+  >   - (b) in relation to Wales, the Welsh Ministers;
+  >   - (c) in relation to Scotland, the Scottish Ministers;
+  >   - (d) in relation to Northern Ireland, the Department of Agriculture, Environment and Rural Affairs.
+
+  .
+
+### 14. The Waste Batteries and Accumulators Regulations 2009[^key-06d86f98d5a62df8ef9c094236447a15]
+
+(1) The Waste Batteries and Accumulators Regulations 2009 are amended as follows.
+
+(2) In regulation 2—
+
+- (a) in paragraph (1)—
+  - (i) in the definition of “appliance”, after “defined by” insert “ Article 3(1)(a) of ”;
+  - (ii) in the definition of “disposal”, as it extends to Scotland, for “Article 3” substitute “ Article 3(19) ”;
+  - (iii) in the definition of “producer”, omit the words from “(and distance communication” to the end;
+  - (iv)[^key-ea93d9a336ed8f633515c0b6ec7f138f] after the definition of “waste disposal authority” insert—
+
+    > - “the Waste Framework Directive” means [Directive 2008/98/EC](https://www.legislation.gov.uk/eudr/2008/0098) of the European Parliament and of the Council on waste, as last amended by Directive (EU) 2018/851, and as read in accordance with regulation 2A;
+
+    ;
+- (b)[^key-a63477f40474b3b24619238a465d10f0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^key-819210eb70045f2fba3aea45b74740f8] omit paragraph (1A).
+
+(3) After regulation 2 insert—
+
+> **2A. Modifications to the Waste Framework Directive**
+>
+> (1) For the purposes of these Regulations, the Waste Framework Directive is to be read as follows.
+>
+> (2)[^key-1404b221bfd20aff2beb723f4369a2db] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> (3)[^key-cd60a4e935fe6e94525cec69b4e9bcc9] Article 5 is to be read as if—
+>
+> - (a) in paragraph 1, “Member States shall take appropriate measures to ensure that” were omitted;
+> - (b) after paragraph 1 there were inserted—
+>
+>   > **1A.** Any decision as to whether a substance or object is a by-product must be made—
+>   >
+>   > - (a) in accordance with any regulations setting out detailed criteria on the application of the conditions in paragraph 1 to specific substances or objects; and
+>   > - (b) having regard to any guidance published by the appropriate authority or the appropriate agency for the purposes of this Article.
+>
+>   ;
+> - (c) paragraphs 2 and 3 were omitted.
+>
+> (4) Article 6 is to be read as if—
+>
+> - (a) in paragraph 1, “Member States shall take appropriate measures to ensure that” were omitted;
+> - (b) after paragraph 1 there were inserted—
+>
+>   > **1A.** Any decision as to whether a substance or object has ceased to be waste must be made—
+>   >
+>   > - (a) in accordance with any regulations or retained direct EU legislation setting out detailed criteria on the application of the conditions in paragraph 1 to specific types of waste; and
+>   > - (b) having regard to any guidance published by the appropriate authority or the appropriate agency for the purposes of this Article.
+>
+>   ;
+> - (c) in paragraph 2—
+>   - (i) the first subparagraph were omitted;
+>   - (ii) in the second subparagraph, for “Those detailed criteria” there were substituted “Any detailed criteria set out in guidance as referred to in paragraph 1A”;
+>   - (iii) the third and fourth subparagraphs were omitted;
+> - (d) paragraph 3 were omitted;
+> - (e) in paragraph 4—
+>   - (i) in the first subparagraph—
+>     - (aa) in the first sentence, for the words from the beginning to “Member State”, there were substituted “Where criteria have not been set out as referred to in paragraph 1A(a), the appropriate agency”;
+>     - (bb) the second sentence were omitted;
+>   - (ii) in the second subparagraph—
+>     - (aa) for “Member States” there were substituted “The appropriate agency”;
+>     - (bb) “by competent authorities” were omitted.
+>
+> (5)[^key-f225c1b9d8a713b294fb803598f75657] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> (6)[^key-f225c1b9d8a713b294fb803598f75657] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> (7) In paragraphs (2) and (3)[^key-f372d82d8bbfa9c376737eed5d510dcb]—
+>
+> - “**appropriate authority**” means—
+>   - (a) in relation to England, the Secretary of State,
+>   - (b) in relation to Wales, the Welsh Ministers,
+>   - (c) in relation to Scotland, the Scottish Ministers,
+>   - (d) in relation to Northern Ireland, the Department of Agriculture, Environment and Rural Affairs;
+> - “**appropriate agency**” means—
+>   - (a) in relation to England, the Environment Agency,
+>   - (b) in relation to Wales, the Natural Resources Body for Wales,
+>   - (c) in relation to Scotland, the Scottish Environment Protection Agency,
+>   - (d) in relation to Northern Ireland, the Department of Agriculture, Environment and Rural Affairs;
+> - [^key-fe8f2cf4eeea8f3c2b332fd63d88015c]...
+
+.
+
+(3A)[^key-92da95e199ac285ecb8e9353e2541dfa] In regulation 6—
+
+- (a) in paragraph (2)(a), for “the essential security interests of EEA states” substitute “essential security interests”;
+- (b) after paragraph (2) insert—
+
+  > (3) In paragraph (2)(a)—
+  >
+  > - (a) as it applies in England and Wales and Scotland, “essential security interests” means the essential security interests of the United Kingdom;
+  > - (b) as it applies in Northern Ireland, “essential security interests” means the essential security interests of the United Kingdom or EEA states.
+
+  .
+
+(4) In regulations 8(2) and 12(1), at the end insert “ excluding any portable batteries and accumulators that have left the United Kingdom before being sold to end users ”.
+
+(5) In regulation 13, after paragraph (1) insert—
+
+> (1A) For the purposes of paragraph (1), the total amount of portable batteries placed on the market for the first time in the United Kingdom does not include any portable batteries and accumulators that have left the United Kingdom before being sold to end users.
+
+.
+
+(6) In regulation 16(5), at the end insert “ excluding any portable batteries and accumulators that have left the United Kingdom before being sold to end users ”.
+
+(7) In regulation 23, after paragraph (1) insert—
+
+> (1A) For the purposes of paragraph (1), the total amount of portable batteries placed on the market for the first time in the United Kingdom does not include any portable batteries and accumulators that have left the United Kingdom before being sold to end users.
+
+.
+
+(8) In regulation 56(4) (as inserted by regulation 6(3)(b)), at the end insert “ , and as read in accordance with regulation 56A ”.
+
+(9) After regulation 56 insert—
+
+> **56A. Modification of the Landfill Directive**
+>
+> (1) For the purposes of regulation 56(4), the Landfill Directive is to be read as follows.
+>
+> (2)[^key-46283d91a39d8a26d205269ccc11c5a8] Article 2 is to be read as if—
+>
+> - (a) in point (a)—
+>   - (i) “‘waste’,” were omitted; and
+>   - (ii) for “[Directive 2008/98/EC](https://www.legislation.gov.uk/eudr/2008/0098)” there were substituted “the Waste Framework Directive”;
+> - (b) after point (a) there were inserted—
+>
+>   > - (aa) ‘waste’ has the meaning given by Article 3(1) of the Waste Framework Directive, as read with Articles 5 and 6 of that Directive;
+>
+>   ;
+>
+> (3) Article 3(2) is to be read as if “Without prejudice to existing Community legislation,” were omitted.
+
+.
+
+(10) In regulation 70(3), in the definition of “collection rate”, at the end insert “ excluding any portable batteries and accumulators that have left the United Kingdom before being sold to end-users ”.
+
+(11) Omit regulation 72(c) (and the “and” immediately preceding it).
+
+(12) In regulation 81, after paragraph (1) insert—
+
+> (1A) For the purposes of paragraph (1), the total amount of portable batteries placed on the market for the first time in the United Kingdom does not include any portable batteries and accumulators that have left the United Kingdom before being sold to end users.
+
+.
+
+(13) In Schedule 4, in paragraph 10(3)(a)(ii), for “EU legislation” substitute “retained EU law and, in relation to Northern Ireland, EU legislation which has effect by virtue of the Protocol on Ireland/Northern Ireland in the EU withdrawal agreement[^key-bae7059b351d48139d3e551c5af55a4a]”.
+
+### 15. The Major Accident Off-site Emergency Plan (Management of Waste from Extractive Industries) (England and Wales) Regulations 2009[^key-ec54ea1ca3aa5709fff3ff1180f72ca2]
+
+(1) The Major Accident Off-site Emergency Plan (Management of Waste from Extractive Industries) (England and Wales) Regulations 2009 [^c23760281] are amended as follows.
+
+(2) In regulation 2—
+
+- (a) after the definition of “the 2016 Regulations” insert—
+
+  > “**appropriate agency**” means—
+  >
+  > - (a) in relation to England, the Environment Agency;
+  > - (b) in relation to Wales, the Natural Resources Body for Wales;
+  >
+  > appropriate authority” means—
+  >
+  > - (a) in relation to England, the Secretary of State;
+  > - (b) in relation to Wales, the Welsh Ministers;
+
+  ;
+- (b) after the definition of “emergency services” insert—
+
+  > “**EU-derived domestic legislation**” has the meaning given in section 2(2) of the European Union (Withdrawal) Act 2018;
+
+  ;
+- (c) after the definition of “health authority”
+
+  > “**local authority**” means—
+  >
+  > - (a) in England outside Greater London—
+  >   - (i) a district council,
+  >   - (ii) a county council, or
+  >   - (iii) the Council of the Isles of Scilly;
+  > - (b) in Greater London—
+  >   - (i) the council of a London borough,
+  >   - (ii) the Common Council of the City of London,
+  >   - (iii) the Sub-Treasurer of the Inner Temple, or
+  >   - (iv) the Under-Treasurer of the Middle Temple;
+  > - (c) in Wales—
+  >   - (i) a county council, or
+  >   - (ii) a county borough council.
+
+  .
+- (d) in the definition of “Mining Waste Directive”, at the end insert “ as read in accordance with regulation 2A. ”.
+
+(3) After regulation 2 insert—
+
+> **2A. Modifications to the Mining Waste Directive**
+>
+> (1) For the purposes of these Regulations, the Mining Waste Directive is to be read in accordance with this regulation.
+>
+> (2) A reference to one or more member States in a provision imposing an obligation or conferring a discretion on a member State or member States is to be read as a reference to the appropriate authority, appropriate agency or local authority which, immediately before IP completion day[^key-689466b2691b6aa08098ecec146142a1], was responsible for the United Kingdom's compliance with that obligation or able to exercise that discretion in respect of England or Wales.
+>
+> (3) Article 2 is to be read as if—
+>
+> - (a) in paragraph 2(c), the reference to Article 11(3)(j) of Directive [2000/60/EC](https://www.legislation.gov.uk/eudr/2000/60) were a reference to that Article read in accordance with regulation 2B;
+> - (b) paragraphs 3 and 4 were omitted**.**
+>
+> (4) Article 3 is to be read as if—
+>
+> - (a) in point (1), for “Article 1(a) of Directive [75/442/EEC](https://www.legislation.gov.uk/eudr/1975/442)” there were substituted “ Article 3(1) of the Waste Framework Directive, as read with Articles 5 and 6 of that Directive ”;
+> - (b) in point (2), for “Article 1(4) of Council Directive [91/689/EEC](https://www.legislation.gov.uk/eudr/1991/689) of 12 December 1991 on hazardous waste [^c23760291]” there were substituted “ Article 3(2) of the Waste Framework Directive ”;
+> - (c) in point (4), for the words from “the national law” to the end there were substituted “ national law ”;
+> - (d) in point (17), for “Directive [67/548/EEC](https://www.legislation.gov.uk/eudr/1967/548) [^c23760301] or Directive [1999/45/EC](https://www.legislation.gov.uk/eudr/1999/45) [^c23760311]” there were substituted “ Regulation [(EC) No 1272/2008](https://www.legislation.gov.uk/eur/2008/1272) of the European Parliament and of the Council on classification, labelling and packaging of substances and mixtures ”;
+> - (e) in point (18), for “Article 2(11) of Directive [96/61/EC](https://www.legislation.gov.uk/eudr/1996/61)” there were substituted “ Article 3(10) of the Industrial Emissions Directive ”;
+> - (f) in point (24), for the words from “the national law” to “takes place” there were substituted “ national law ”;
+> - (g) in point (26), for the words from “the national law” to “operates” there were substituted “ national law ”;
+> - (h) in point (27), for “which a Member State designates” there were substituted “ designated ”.
+>
+> (5) Article 5 is to be read as if—
+>
+> - (a) in paragraph 2(a)(iii) and (b), “at Community level” were omitted;
+> - (b) in paragraph 3(g), for “Directive [2000/60/EC](https://www.legislation.gov.uk/eudr/2000/60)” there were substituted “ the EU-derived domestic legislation which transposed Directive [2000/60/EC](https://www.legislation.gov.uk/eudr/2000/60) of the European Parliament and of the Council establishing a framework for Community action in the field of water policy in respect of England and Wales [^c23760321] ”;
+> - (c) in paragraph 5, “national or Community” were omitted.
+>
+> (6) Article 6(2) is to be read as if the words from “Without prejudice” to “92/104/EEC,” were omitted.
+>
+> (7) Article 7 is to be read as if—
+>
+> - (a) in paragraph 1, in the second subparagraph, “national or Community” were omitted;
+> - (b) in paragraph 2(e), the reference to Directive [85/337/EEC](https://www.legislation.gov.uk/eudr/1985/337) [^c23760331] were a reference to the EU-derived domestic legislation which transposed Directive 2011/92/EU of the European Parliament and of the Council on the assessment of the effects of certain public and private projects on the environment [^c23760341] in respect of England and Wales [^c23760351];
+> - (c) in paragraph 3(b), for “Article 7 of Directive [75/442/EEC](https://www.legislation.gov.uk/eudr/1975/442)” there were substituted “ Article 13 of the Waste Framework Directive ”;
+> - (d) in paragraph 4, the third indent were omitted;
+> - (e) in paragraph 5, “and Community” were omitted.
+>
+> (8) Article 10 is to be read as if paragraph 2 were omitted.
+>
+> (9) Article 11(2)(a) is to be read as if—
+>
+> - (a) “Community or” were omitted;
+> - (b) for “Directives [76/464/EEC](https://www.legislation.gov.uk/eudr/1976/464) [^c23760361], [80/68/EEC](https://www.legislation.gov.uk/eudr/1980/68) [^c23760371] and [2000/60/EC](https://www.legislation.gov.uk/eudr/2000/60)” there were substituted “ the EU-derived domestic legislation which transposed Directive [2000/60/EC](https://www.legislation.gov.uk/eudr/2000/60) in respect of England and Wales ”.
+>
+> (10) Article 12 is to be read as if—
+>
+> - (a) in paragraph 4, “national or Community” were omitted;
+> - (b) in paragraph 5, for the words from “Community” to “2000/60/EC” there were substituted “ retained EU law, in particular the EU-derived domestic legislation which transposed Directive 2000/60/EC in respect of England and Wales ”.
+>
+> (11) Article 13 is to be read as if—
+>
+> - (a) in paragraph 1, in the words before point (a)—
+>   - (i) “Community” were omitted;
+>   - (ii) for “Directive [2000/60/EC](https://www.legislation.gov.uk/eudr/2000/60)” there were substituted “ the EU-derived domestic legislation which transposed Directive [2000/60/EC](https://www.legislation.gov.uk/eudr/2000/60) in respect of England and Wales ”;
+> - (b) in paragraph 3, for “Directives [76/464/EEC](https://www.legislation.gov.uk/eudr/1976/464), [80/68/EEC](https://www.legislation.gov.uk/eudr/1980/68) or [2000/60/EC](https://www.legislation.gov.uk/eudr/2000/60)” there were substituted “ the EU-derived domestic legislation which transposed Directive [2000/60/EC](https://www.legislation.gov.uk/eudr/2000/60) in respect of England and Wales ”;
+> - (c) in paragraph 4, for “Directives [76/464/EEC](https://www.legislation.gov.uk/eudr/1976/464), [80/68/EEC](https://www.legislation.gov.uk/eudr/1980/68) and [2000/60/EC](https://www.legislation.gov.uk/eudr/2000/60)” there were substituted “ the EU-derived domestic legislation which transposed Directive [2000/60/EC](https://www.legislation.gov.uk/eudr/2000/60) in respect of England and Wales ”;
+> - (d) in paragraph 5, in the second sentence—
+>   - (i) for “Community” there were substituted “ retained EU law ”;
+>   - (ii) for “Directive [2000/60/EC](https://www.legislation.gov.uk/eudr/2000/60)” there were substituted “ the EU-derived domestic legislation which transposed Directive [2000/60/EC](https://www.legislation.gov.uk/eudr/2000/60) in respect of England and Wales ”.
+>
+> (12) Article 24(4) is to be read as if, in the first paragraph, in the second indent, “Community or” were omitted.
+>
+> (13) Annex 3 is to be read as if—
+>
+> - (a) in the second indent, for “Directive [91/689/EEC](https://www.legislation.gov.uk/eudr/1991/689)” there were substituted “ the Waste Framework Directive ”;
+> - (b) in the third indent, for “Directives [67/548/EEC](https://www.legislation.gov.uk/eudr/1967/548) or [1999/45/EC](https://www.legislation.gov.uk/eudr/1999/45)” there were substituted “ Regulation [(EC) 1272/2008](https://www.legislation.gov.uk/eur/2008/1272) of the European Parliament and of the Council on classification, labelling and packaging of substances and mixtures ”.
+>
+> **2B. Modifications to the Water Framework Directive**
+>
+> (1) For the purposes of regulation 2A(3)(a), Article 11(3)(j) of Directive [2000/60/EC](https://www.legislation.gov.uk/eudr/2000/60) of the European Parliament and of the Council establishing a framework for Community action in the field of water policy is to be read as if—
+>
+> - (a) the reference to “Member States” were a reference to the appropriate authority or appropriate agency;
+> - (b) in the words after the final indent, “environmental objectives”—
+>   - (i) in relation to the Northumbria River Basin District, means the objectives referred to in the WFD Regulations as applied by regulation 5 of the Water Environment (Water Framework Directive) (Northumbria River Basin District) Regulations 2003;
+>   - (ii) in relation to the Solway Tweed River Basin District, has the same meaning as in regulation 2 of the Water Environment (Water Framework Directive) (Solway Tweed River Basin District) Regulations 2004;
+>   - (iii) in relation to a river basin district within the meaning of the WFD Regulations, has the same meaning as in those Regulations.
+>
+> (2) In paragraph 1(b), “**the WFD Regulations**” means the Water Environment (Water Framework Directive) (England and Wales) Regulations 2017.
+>
+> **2C. Modifications to the Waste Framework Directive**
+>
+> (1) In these Regulations, the “**Waste Framework Directive**” means Directive [2008/98/EC](https://www.legislation.gov.uk/eudr/2008/98) of the European Parliament and of the Council on waste, as last amended by Directive (EU) 2018/851[^key-686fe48aad342f4a50838c67c69194b1], and read in accordance with this regulation.
+>
+> (2) A reference to one or more member States in a provision imposing an obligation or conferring a discretion on a member State or member States is to be read as a reference to the appropriate authority, appropriate agency or local authority which, immediately before IP completion day[^key-c59aba8e54619d222cf15b546673a9ee], was responsible for the United Kingdom's compliance with that obligation or able to exercise that discretion in respect of England or Wales.
+>
+> (3) Article 2 is to be read as if—
+>
+> - (a) in paragraph 2—
+>   - (i) in the words before point (a), for “other Community legislation” there were substitute “ retained EU law ”;
+>   - (ii) in points (b) and (c), for “Regulation [(EC) No 1774/2002](https://www.legislation.gov.uk/eur/2002/1774)” there were substituted “ Regulation [(EC) No 1069/2009](https://www.legislation.gov.uk/eur/2009/1069) ”;
+>   - (iii) in point (d), for the words from “Directive [2006/21/EC](https://www.legislation.gov.uk/eudr/2006/21)” to the end there were substituted “ the Mining Waste Directive ”;
+> - (b) in paragraph 3, the words from “Without prejudice” to “Community legislation,” were omitted;
+> - (c) paragraph 4 were omitted.
+>
+> (4)[^key-7ccbf26b51613b72432a5c6cd1d5724d] Article 5 is to be read as if—
+>
+> - (a) in paragraph 1, “Member States shall take appropriate measures to ensure that” were omitted;
+> - (b) after paragraph 1 there were inserted—
+>
+>   > **1A.** Any decision as to whether a substance or object is a by-product must be made—
+>   >
+>   > - (a) in accordance with any regulations setting out detailed criteria on the application of the conditions in paragraph 1 to specific substances or objects; and
+>   > - (b) having regard to any guidance published by the appropriate authority or the appropriate agency for the purposes of this Article.
+>
+>   ;
+> - (c) paragraphs 2 and 3 were omitted.
+>
+> (5) Article 6 is to be read as if—
+>
+> - (a) in paragraph 1, “Member States shall take appropriate measures to ensure that” were omitted;
+> - (b) after paragraph 1 there were inserted—
+>
+>   > **1A.** Any decision as to whether a substance or object has ceased to be waste must be made—
+>   >
+>   > - (a) in accordance with any regulations or retained direct EU legislation setting out detailed criteria on the application of the conditions in paragraph 1 to specific types of waste; and
+>   > - (b) having regard to any guidance published by the appropriate authority or the appropriate agency for the purposes of this Article.
+>
+>   ;
+> - (c) in paragraph 2—
+>   - (i) the first subparagraph were omitted;
+>   - (ii) in the second subparagraph, for “Those detailed criteria” there were substituted “Any detailed criteria set out in guidance as referred to in paragraph 1A”;
+>   - (iii) the third and fourth subparagraphs were omitted;
+> - (d) paragraph 3 were omitted;
+> - (e) in paragraph 4—
+>   - (i) in the first subparagraph—
+>     - (aa) in the first sentence, for the words from the beginning to “Member State”, there were substituted “Where criteria have not been set out as referred to in paragraph 1A(a), the appropriate agency”;
+>     - (bb) the second sentence were omitted;
+>   - (ii) in the second subparagraph—
+>     - (aa) for “Member States” there were substituted “The appropriate agency”;
+>     - (bb) “by competent authorities” were omitted.
+>
+> (6) Article 7 is to be read as if—
+>
+> - (a) before paragraph 1 there were inserted—
+>
+>   > **A1.** In this Article, the “list of waste” means the list contained in the Annex to Commission [Decision 2000/532/EC](https://www.legislation.gov.uk/eudn/2000/0532), as that list has effect in England or in Wales (as the case may be).
+>
+>   ;
+> - (b) in paragraph 1—
+>   - (i) the first and second sentences were omitted;
+>   - (ii) for the third sentence there were substituted “The list of waste shall, except as provided in Commission [Decision 2000/532/EC](https://www.legislation.gov.uk/eudn/2000/0532), be binding as regards determination of the waste which is to be considered as hazardous waste or as non-hazardous waste.”;
+> - (c) paragraphs 2, 3, 6 and 7 were omitted.
+>
+> (7) Annex 3 is to be read as if, in entry HP 9, in the second sentence, “in the Member States” were omitted.
+>
+> **2D. Modifications to the Industrial Emissions Directive**
+>
+> (1) In regulation 2A(4)(e), the “Industrial Emissions Directive means Directive 2010/75/EU of the European Parliament and of the Council on industrial emissions, read in accordance with paragraphs 2 and 3.
+>
+> (2) Article 3 is to be read as if—
+>
+> - (a) in point (1)(a), for the words from “Article 1” to the end there were substituted “ Article 4(78) of Council Directive 2013/59/Euratom laying down basic safety standards for protection against the dangers arising from exposure to ionising radiation ”;
+> - (b) in point (10)(b), for “Member State in question” there were substituted “ United Kingdom ”;
+> - (c) in point (23), for the words from “point 1” to the end there were substituted “ point 1 of the second subparagraph of Article 2 of Council Directive [2009/158/EC](https://www.legislation.gov.uk/eudr/2009/158) on animal health conditions governing intra-Community trade in, and imports from third countries of, poultry and hatching eggs ”;
+> - (d) in point (37), for “Directive [2008/98/EC](https://www.legislation.gov.uk/eudr/2008/98) of the European Parliament and of the Council of 19 November 2008 on waste” there were substituted “ the Waste Framework Directive, as read with Articles 5 and 6 of that Directive ”;
+> - (e) in point (38), for “Directive [2008/98/EC](https://www.legislation.gov.uk/eudr/2008/98)” there were substituted “ the Waste Framework Directive ”.
+>
+> (3) Annex 1 is to be read as if—
+>
+> - (a) in the words before point 1, the second paragraph were omitted;
+> - (b) in point 5.3—
+>   - (i) in point (a), in the words before point (i), for “Council Directive [91/271/EEC](https://www.legislation.gov.uk/eudr/1991/271) of 21 May 1991 concerning urban waste-water treatment” there were substituted “ the Urban Waste Water Treatment (England and Wales) Regulations 1994 ”;
+>   - (ii) in point (b), in the words before point (i), for “Directive [91/271/EEC](https://www.legislation.gov.uk/eudr/1991/271)” there were substituted “ the Urban Waste Water Treatment (England and Wales) Regulations 1994 ”;
+> - (c) in point 5.4, the reference to Council Directive [1999/31/EC](https://www.legislation.gov.uk/eudr/1999/31) of 26 April 1999 on the landfill of waste were a reference to the Landfill Directive;
+> - (d) in point 6.9, for “Directive [2009/31/EC](https://www.legislation.gov.uk/eudr/2009/31)” there were substituted “ the EU-derived domestic legislation which transposed Directive [2009/31/EC](https://www.legislation.gov.uk/eudr/2009/31) in respect of England and Wales ”;
+> - (e) in point 6.11, for “Directive [91/271/EEC](https://www.legislation.gov.uk/eudr/1991/271)” there were substituted “ the Urban Waste Water Treatment (England and Wales) Regulations 1994 ”.
+>
+> (4)[^key-2f2e11d7b512f7258bcc2082ca757e0c] In paragraph (3)(c), “the Landfill Directive” means Council [Directive 1999/31/EC](https://www.legislation.gov.uk/eudr/1999/0031) on the landfill of waste, as last amended by Directive (EU) 2018/850, and read as if, in Article 2—
+>
+> - (a) in point (a)—
+>   - (i) “‘waste’,” were omitted; and
+>   - (ii) for “[Directive 2008/98/EC](https://www.legislation.gov.uk/eudr/2008/0098)” there were substituted “the Waste Framework Directive”;
+> - (b) after point (a) there were inserted—
+>
+>   > - (aa) “waste” means anything that—
+>   >   - (i) is waste within the meaning of Article 3(1) of the Waste Framework Directive, as read with Articles 5 and 6 of that Directive, and
+>   >   - (ii) is not excluded from the scope of that Directive by Article 2(1), (2) or (3) of that Directive;
+>
+>   .
+
+.
+
+(4) Omit regulation 8(2) and (3).
+
+### 16. The Waste (England and Wales) Regulations 2011[^key-dc58e2838456f0c6a520c3f559492677]
+
+(1) The Waste (England and Wales) Regulations 2011 [^c23760381] are amended as follows.
+
+(2) In regulation 3(1)—
+
+- (a) after the definition of “controlled waste” insert—
+
+  > “**EU-derived domestic legislation**” has the meaning given by section 2(2) of the European Union (Withdrawal) Act 2018;
+
+  ;
+- (b) after the definition of “hazardous waste” insert—
+
+  > “**Industrial Emissions Directive**” means Directive [2010/75/EC](https://www.legislation.gov.uk/eudr/2010/75) of the European Parliament and of the Council on industrial emissions (integrated pollution prevention control), read in accordance with regulation 3A;
+  >
+  > “**Landfill Directive**” means Council Directive [1999/31/EC](https://www.legislation.gov.uk/eudr/1999/31) on the landfill of waste, as last amended by Directive (EU) 2018/850[^key-d8f7b6d035b2e0389d3459b36245977b], read in accordance with regulation 3B;
+  >
+  > “**local authority**” means—
+  >
+  > - (a) in England outside Greater London—
+  >   - (i) a district council,
+  >   - (ii) a county council, or
+  >   - (iii) the Council of the Isles of Scilly;
+  > - (b) in Greater London—
+  >   - (i) the council of a London borough,
+  >   - (ii) the Common Council of the City of London,
+  >   - (iii) the Sub-Treasurer of the Inner Temple, or
+  >   - (iv) the Under-Treasurer of the Middle Temple;
+  > - (c) in Wales—
+  >   - (i) a county council, or
+  >   - (ii) a county borough council;
+  >
+  > “**Mining Waste Directive**” means Directive [2006/21/EC](https://www.legislation.gov.uk/eudr/2006/21) of the European Parliament and of the Council on the management of waste from extractive industries, read in accordance with regulation 3C;
+
+  ;
+- (c) in the definition of “Waste Framework Directive”, at the end insert “ and as read in accordance with regulation 3D ”.
+
+(3) After regulation 3, insert—
+
+> **3A. Modification of the Industrial Emissions Directive**
+>
+> For the purposes of these Regulations, the Industrial Emissions Directive is to be read as if—
+>
+> - (a) in Article 3—
+>   - (i) in paragraph 1(a), for the words from “Article 1” to the end there were substituted “ Article 4(78) of Council Directive 2013/59/Euratom laying down basic safety standards for protection against the dangers arising from exposure to ionising radiation ”;
+>   - (ii) in paragraph 10(b), for “Member State in question” there were substituted “ United Kingdom ”;
+>   - (iii) in paragraph 23, for the words from “point 1” to the end there were substituted “ point 1 of the second subparagraph of Article 2 of Council Directive [2009/158/EC](https://www.legislation.gov.uk/eudr/2009/158) on animal health conditions governing intra-Community trade in, and imports from third countries of, poultry and hatching eggs ”;
+>   - (iv) in paragraph 37, for the words from “Directive [2008/98/EC](https://www.legislation.gov.uk/eudr/2008/98)” to the end there were substituted “ the Waste Framework Directive, read with Articles 5 and 6 of that Directive ”;
+> - (b) in Annex 1—
+>   - (i) in the words before point 1, the second paragraph were omitted;
+>   - (ii) in point 5.3—
+>     - (aa) in point (a), in the words before point (i), for “Council Directive [91/271/EEC](https://www.legislation.gov.uk/eudr/1991/271) of 21 May 1991 concerning urban waste-water treatment” there were substituted “ the Urban Waste Water Treatment (England and Wales) Regulations 1994 ”;
+>     - (bb) in point (b), in the words before point (i), for “Directive [91/271/EEC](https://www.legislation.gov.uk/eudr/1991/271)” there were substituted “ the Urban Waste Water Treatment (England and Wales) Regulations 1994 ”;
+>   - (ii) in point 5.4, the reference to Council Directive [1999/31/EC](https://www.legislation.gov.uk/eudr/1999/31) of 26 April 1999 on the landfill of waste were a reference to the Landfill Directive;
+>   - (iii) in point 6.9, for “Directive [2009/31/EC](https://www.legislation.gov.uk/eudr/2009/31)” there were substituted “ the EU-derived domestic legislation which transposed Directive [2009/31/EC](https://www.legislation.gov.uk/eudr/2009/31) ”;
+>   - (iv) in point 6.11, for “Directive [91/271/EEC](https://www.legislation.gov.uk/eudr/1991/271)” there were substituted “ the Urban Waste Water Treatment (England and Wales) Regulations 1994 ”.
+>
+> **3B. Modification of the Landfill Directive**
+>
+> (1) For the purposes of these Regulations, the Landfill Directive is to be read in accordance with this regulation.
+>
+> (2) Article 2 is to be read as if—
+>
+> - (a)[^key-182fe87b8429052be566d71bf2902fc7] in point (a)—
+>   - (i) “‘waste’,” were omitted; and
+>   - (ii) for “[Directive 2008/98/EC](https://www.legislation.gov.uk/eudr/2008/0098)” there were substituted “the Waste Framework Directive”;
+> - (aa) after point (a) there were inserted—
+>
+>   > - (aa) ‘waste’ means anything that—
+>   >   - (i) is waste within the meaning of Article 3(1) of the Waste Framework Directive, as read with Articles 5 and 6 of that Directive, and
+>   >   - (ii) is not excluded from the scope of that Directive by Article 2(1), (2) or (3) of that Directive;
+>
+>   ;
+> - (b) for point (c) there were substituted—
+>
+>   > - (c) ‘hazardous waste’ has the meaning given in Article 3(2) of the Waste Framework Directive.
+>
+>   .
+>
+> (3)[^key-14a987c98af5b568ef26f52b1abf4d83] Article 3 is to be read as if—
+>
+> - (a) in paragraph 2, “Without prejudice to existing Community legislation” were omitted;
+> - (b) for paragraph 3 there were substituted—
+>
+>   > **3.** The management of extractive waste, within the meaning given in regulation 2(1) of the Environmental Permitting (England and Wales) Regulations 2016, is excluded from the scope of this Directive where it falls within the scope of Schedule 20, or paragraph 8(a) or (b) of Schedule 22, to those Regulations.
+>
+>   .
+>
+> **3C. Modification of the Mining Waste Directive**
+>
+> (1) For the purposes of these Regulations, the Mining Waste Directive is to be read in accordance with this regulation.
+>
+> (2) A reference to one or more member States in a provision imposing an obligation or conferring a discretion on a member State or member States is to be read as a reference to the appropriate authority, appropriate body or local authority which, immediately before IP completion day[^key-8a8ff02152e0a36a6d12ba7321632b0b], was responsible for the United Kingdom's compliance with that obligation or able to exercise that discretion in England or Wales.
+>
+> (3) A reference to “competent authority” or “competent authorities” is to be read as a reference to the appropriate body.
+>
+> (4) Article 2 is to be read as if—
+>
+> - (a) in paragraph 2(c), the reference to Article 11(3)(j) of Directive [2000/60/EC](https://www.legislation.gov.uk/eudr/2000/60) of the European Parliament and of the Council establishing a framework for Community action in the field of water policy were a reference to that Article read in accordance with regulation 3E;
+> - (b) paragraphs 3 and 4 were omitted.
+>
+> (5) Article 3 is to be read as if—
+>
+> - (a) in point (1), for “Article 1(a) of Directive [75/442/EEC](https://www.legislation.gov.uk/eudr/1975/442)” there were substituted “ Article 3(1) of the Waste Framework Directive, as read with Articles 5 and 6 of that Directive ”;
+> - (b) in point (2), for “Article 1(4) of Council Directive [91/689/EEC](https://www.legislation.gov.uk/eudr/1991/689) of 12 December 1991 on hazardous waste” there were substituted “ Article 3(2) of the Waste Framework Directive ”;
+> - (c) in point (4), for the words from “the national law” to the end there were substituted “ national law ”;
+> - (d) in point (17), for “Directive [67/548/EEC](https://www.legislation.gov.uk/eudr/1967/548) or Directive [1999/45/EC](https://www.legislation.gov.uk/eudr/1999/45)” there were substituted “ Regulation [(EC) No 1272/2008](https://www.legislation.gov.uk/eur/2008/1272) of the European Parliament and of the Council on classification, labelling and packaging of substances and mixtures ”;
+> - (e) in point (18), for “Article 2(11) of Directive [96/61/EC](https://www.legislation.gov.uk/eudr/1996/61)” there were substituted “ Article 3(10) of the Industrial Emissions Directive ”;
+> - (f) in point (24), for the words from “the national law” to “takes place” there were substituted “ national law ”;
+> - (g) in point (26), for the words from “the national” to “operates,” there were substituted “ national law ”;
+> - (h) point (27) were omitted.
+>
+> (6) Article 5 is to be read as if—
+>
+> - (a) in paragraphs 2(a)(iii) and (b) “at Community level” were omitted;
+> - (b) in paragraph 3, in the first subparagraph, in point (g), for “Directive [2000/60/EC](https://www.legislation.gov.uk/eudr/2000/60)” there were substituted “ the EU-derived domestic legislation which transposed Directive [2000/60/EC](https://www.legislation.gov.uk/eudr/2000/60) of the European Parliament and of the Council in respect of England and Wales ”;
+> - (c) in paragraph 5, “or Community” were omitted;
+> - (d) paragraph 6 were omitted.
+>
+> (7) Article 6(2) is to be read as if the words from “Without” to “92/104/EEC,” were omitted.
+>
+> (8) Article 7 is to be read as if—
+>
+> - (a) in paragraph 1, in the second subparagraph, in the first sentence, “or Community” were omitted;
+> - (b) in paragraph 2(e), the reference to Directive [85/337/EEC](https://www.legislation.gov.uk/eudr/1985/337) were a reference to the EU-derived domestic legislation which transposed Directive 2011/92/EU of the European Parliament and of the Council on the assessment of the effects of certain public and private projects on the environment in respect of England and Wales;
+> - (c) in paragraph 3(b), for “Article 7 of Directive [75/442/EEC](https://www.legislation.gov.uk/eudr/1975/442)” there were substituted “ Article 13 of the Waste Framework Directive ”;
+> - (d) in paragraph 4, the third indent were omitted;
+> - (e) in paragraph 5, for “and Community” were omitted.
+>
+> (9) Article 10 is to be read as if paragraph 2 were omitted.
+>
+> (10) Article 11(2)(a) is to be read as if—
+>
+> - (a) “Community or” were omitted;
+> - (b) for “Directives [76/464/EEC](https://www.legislation.gov.uk/eudr/1976/464), [80/68/EEC](https://www.legislation.gov.uk/eudr/1980/68) and [2000/60/EC](https://www.legislation.gov.uk/eudr/2000/60)” there were substituted “ the EU-derived domestic legislation which transposed Directive [2000/60/EC](https://www.legislation.gov.uk/eudr/2000/60) in respect of England and Wales ”.
+>
+> (11) Article 12 is to be read as if—
+>
+> - (a) in paragraph 4, “national or Community” were omitted;
+> - (b) in paragraph 5, for the words from “Community” to “2000/60/EC” there were substituted “ retained EU law, in particular the EU-derived domestic legislation which transposed Directive 2000/60/EC in respect of England and Wales ”.
+>
+> (12) Article 13 is to be read as if—
+>
+> - (a) in paragraph 1, in the words before point (a)—
+>   - (i) “Community” were omitted;
+>   - (ii) for “Directive [2000/60/EC](https://www.legislation.gov.uk/eudr/2000/60)” there were substituted “ the EU-derived domestic legislation which transposed Directive [2000/60/EC](https://www.legislation.gov.uk/eudr/2000/60) in respect of England and Wales ”;
+> - (b) in paragraph 3, for “Directives [76/464/EEC](https://www.legislation.gov.uk/eudr/1976/464), [80/68/EEC](https://www.legislation.gov.uk/eudr/1980/68) or [2000/60/EC](https://www.legislation.gov.uk/eudr/2000/60)” there were substituted “ the EU-derived domestic legislation which transposed Directive [2000/60/EC](https://www.legislation.gov.uk/eudr/2000/60) in respect of England and Wales ”;
+> - (c) in paragraph 4, for “Directives [76/464/EEC](https://www.legislation.gov.uk/eudr/1976/464), [80/68/EEC](https://www.legislation.gov.uk/eudr/1980/68) and [2000/60/EC](https://www.legislation.gov.uk/eudr/2000/60)” there were substituted “ the EU-derived domestic legislation which transposed Directive [2000/60/EC](https://www.legislation.gov.uk/eudr/2000/60) in respect of England and Wales ”;
+> - (d) in paragraph 5, in the second sentence—
+>   - (i) for “Community” there were substituted “ retained EU law ”;
+>   - (ii) for “Directive [2000/60/EC](https://www.legislation.gov.uk/eudr/2000/60)” there were substituted “ the EU-derived domestic legislation which transposed Directive [2000/60/EC](https://www.legislation.gov.uk/eudr/2000/60) in respect of England and Wales ”.
+>
+> (13) Article 24(4) is to be read as if, in the second indent “Community or” were omitted.
+>
+> (14) Annex 3 is to be read as if—
+>
+> - (a) in the second indent, for “under Directive [91/689/EEC](https://www.legislation.gov.uk/eudr/1991/689)” there were substituted “ the Waste Framework Directive ”;
+> - (b) in the third indent, for “Directives [67/548/EEC](https://www.legislation.gov.uk/eudr/1967/548) or [1999/45/EC](https://www.legislation.gov.uk/eudr/1999/45)” there were substituted “ Regulation [(EC) No 1272/2008](https://www.legislation.gov.uk/eur/2008/1272) of the European Parliament and of the Council on classification, labelling and packaging of substances and mixtures ”.
+>
+> **3D. Modification of the Waste Framework Directive**
+>
+> (1) For the purposes of these Regulations, the Waste Framework Directive is to be read in accordance with this regulation.
+>
+> (2) A reference to one or more member States in a provision imposing an obligation or conferring a discretion on a member State or member States is to be read as a reference to the appropriate authority, appropriate body or local authority which, immediately before IP completion day[^key-e368de393df2953f2bbab4f068b4c576], was responsible for the United Kingdom's compliance with that obligation or able to exercise that discretion in England or Wales.
+>
+> (3) Article 2 is to be read as if—
+>
+> - (a) in paragraph 2—
+>   - (i) in the words before point (a), for “other Community legislation” there were substituted “ retained EU law ”;
+>   - (ii) in points (b) and (c), for “Regulation [(EC) No 1774/2002](https://www.legislation.gov.uk/eur/2002/1774)” there were substituted “ Regulation [(EC) No 1069/2009](https://www.legislation.gov.uk/eur/2009/1069) ”;
+>   - (iii) in point (d), for the words from “Directive [2006/21/EC](https://www.legislation.gov.uk/eudr/2006/21)” to the end, there was substituted “ the Mining Waste Directive ”;
+> - (b) in paragraph 3, the words from “Without prejudice” to “Community legislation,” were omitted;
+> - (c) paragraph 4 were omitted.
+>
+> (4) Article 3 is to be read as if, in point (2), for “Article 2(11) of Directive [96/61/EC](https://www.legislation.gov.uk/eudr/1996/61)” there were substituted “ Article 3(10) of the Industrial Emissions Directive ”.
+>
+> (5)[^key-62485542dacce64fa88d377fb5a55819] Article 5 is to be read as if—
+>
+> - (a) in paragraph 1, “Member States shall take appropriate measures to ensure that” were omitted;
+> - (b) after paragraph 1 there were inserted—
+>
+>   > **1A.** Any decision as to whether a substance or object is a by-product must be made—
+>   >
+>   > - (a) in accordance with any regulations setting out detailed criteria on the application of the conditions in paragraph 1 to specific substances or objects; and
+>   > - (b) having regard to any guidance published by the appropriate authority or the appropriate body for the purposes of this Article.
+>
+>   ;
+> - (c) paragraphs 2 and 3 were omitted.
+>
+> (6) Article 6 is to be read as if—
+>
+> - (a) in paragraph 1, “Member States shall take appropriate measures to ensure that” were omitted;
+> - (b) after paragraph 1 there were inserted—
+>
+>   > **1A.** Any decision as to whether a substance or object has ceased to be waste must be made—
+>   >
+>   > - (a) in accordance with any regulations or retained direct EU legislation setting out detailed criteria on the application of the conditions in paragraph 1 to specific types of waste; and
+>   > - (b) having regard to any guidance published by the appropriate authority or the appropriate body for the purposes of this Article.
+>
+>   ;
+> - (c) in paragraph 2—
+>   - (i) the first subparagraph were omitted;
+>   - (ii) in the second subparagraph, for “Those detailed criteria” there were substituted “Any detailed criteria set out in guidance as referred to in paragraph 1A”;
+>   - (iii) the third and fourth subparagraphs were omitted;
+> - (d) paragraph 3 were omitted;
+> - (e) in paragraph 4—
+>   - (i) in the first subparagraph—
+>     - (aa) in the first sentence, for the words from the beginning to “Member State”, there were substituted “Where criteria have not been set out as referred to in paragraph 1A(a), the appropriate body”;
+>     - (bb) the second sentence were omitted;
+>   - (ii) in the second subparagraph—
+>     - (aa) for “Member States” there were substituted “The appropriate body”;
+>     - (bb) “by competent authorities” were omitted.
+>
+> (7) Article 7 is to be read as if—
+>
+> - (a) before paragraph 1 there were inserted—
+>
+>   > **A1.** In this Article, the “list of waste” means the list contained in the Annex to Commission [Decision 2000/532/EC](https://www.legislation.gov.uk/eudn/2000/0532), as that list has effect in England or in Wales (as the case may be).
+>
+>   ;
+> - (b) in paragraph 1—
+>   - (i) the first and second sentences were omitted;
+>   - (ii) for the third sentence there were substituted “The list of waste shall, except as provided in Commission [Decision 2000/532/EC](https://www.legislation.gov.uk/eudn/2000/0532), be binding as regards determination of the waste which is to be considered as hazardous waste or as non-hazardous waste.”;
+> - (c) paragraphs 2, 3, 6 and 7 were omitted.
+>
+> (8) Article 16 is to be read as if—
+>
+> - (a) in paragraph 1, in the first subparagraph—
+>   - (i) the words from “, in cooperation with” to “advisable,” were omitted;
+>   - (ii) “, taking into account best available techniques” were omitted;
+> - (b) in paragraph 2—
+>   - (i)[^key-a0413e15b52a8dbf12b498e450ab87e2] for “Community as a whole to become” there were substituted “ United Kingdom as a whole to move towards becoming ”;
+>   - (ii) for the words from “and to enable” to “individually” were omitted.
+>
+> (9) Article 23(1) and (3) is to be read as if for “competent authority” there were substituted “ appropriate body ”.
+>
+> (10)[^key-b7e82772e32dcd1ab53961fb5bcd5276] Article 35(1) is to be read as if, for the second paragraph, there were substituted—
+>
+> > They shall make that data available to the appropriate body through any electronic registry established for the reporting of such data or, if no such registry is in operation, in such form and manner as the appropriate body may specify.
+>
+> .
+>
+> (11) Annex 3 is to be read as if, in entry HP 9, in the second sentence, “in the Member States” were omitted.
+>
+> (12) Annex 4 is to be read as if—
+>
+> - (a) in paragraph 3, “at Community level” were omitted;
+> - (b) in paragraph 6, for “this Directive and Directive [96/61/EC](https://www.legislation.gov.uk/eudr/1996/61)” there were substituted “ the Environmental Permitting (England and Wales) Regulations 2016 [^c23760391] ”;
+> - (c) in paragraph 7, for “Directive [96/61/EC](https://www.legislation.gov.uk/eudr/1996/61)”, there were substituted “ the Environmental Permitting (England and Wales) Regulations 2016 ”;
+> - (d) in paragraph 10, “EMAS and” were omitted.
+>
+> (13)[^key-96a7fef2ed8ae2eefae8f322f082876b] Annex 4a is to be read as if, in point 6, “including through Union funds” were omitted.
+>
+> **3E. Modification of Directive [2000/60/EC](https://www.legislation.gov.uk/eudr/2000/60) of the European Parliament and of the Council**
+>
+> (1) For the purposes of regulation 3C(4)(a), Article 11(3)(j) of Directive [2000/60/EC](https://www.legislation.gov.uk/eudr/2000/60) of the European Parliament and of the Council is to be read as if—
+>
+> - (a) the reference to “Member States” were a reference to the appropriate authority or appropriate body;
+> - (b) in the words after the sixth indent, “environmental objectives”—
+>   - (i) in relation to the Northumbria River Basin District, means the objectives referred to in the WFD Regulations as applied by regulation 5 of the Water Environment (Water Framework Directive) (Northumbria River Basin District) Regulations 2003;
+>   - (ii) in relation to the Solway Tweed River Basin District, has the same meaning as in regulation 2 of the Water Environment (Water Framework Directive) (Solway Tweed River Basin District) Regulations 2004;
+>   - (iii) in relation to a river basin district within the meaning of the WFD Regulations, has the same meaning as in those Regulations.
+>
+> (2) In paragraph (1)(b), “**the WFD Regulations**” means the Water Environment (Water Framework Directive) (England and Wales) Regulations 2017.
+
+.
+
+(4) In regulation 18(b), omit the words from “, ignoring” to the end.
+
+(5) In regulation 20—
+
+- (a) in paragraph (1)(a), for “Council Directive [1999/31/EC](https://www.legislation.gov.uk/eudr/1999/31) on the landfill of waste as last amended by Directive (EU) 2018/850[^key-9717b4731c7fc99ab5a062d50c026555]” substitute “ the Landfill Directive ”;
+- (b) in paragraph (2), in the words before sub-paragraph (a), for the words from “Directive [2006/21/EC](https://www.legislation.gov.uk/eudr/2006/21)” to “industries” substitute “ Mining Waste Directive ”;
+- (c) in paragraph (3)—
+  - (i) in the definition of “landfill”, for “Directive [1999/31/EC](https://www.legislation.gov.uk/eudr/1999/31) as last amended by Directive (EU) 2018/850[^key-d87b6b0a7dd37d7fe0d20e87ff33d973]” substitute “ the Landfill Directive ”;
+  - (ii) in the definition of “mining waste facility” for “Directive [2006/21/EC](https://www.legislation.gov.uk/eudr/2006/21)” substitute “ the Mining Waste Directive ”.
+
+(6) In Schedule 1—
+
+- (za)[^key-396ca7371ef8260b829d7af81070f2c1] in Part 1, in paragraph 4—
+  - (i) in sub-paragraph (1), omit “, taking into account best available techniques”;
+  - (ii) in sub-paragraph (2)—
+    - (aa) for “European Union as a whole to become” substitute “ United Kingdom as a whole to move towards becoming ”;
+    - (bb) omit “and to enable the United Kingdom to move towards that aim”;
+- (a)[^key-8b05b6700c90de22e26c281c806f83e8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) in Part 3, in paragraph 12(b), omit the words from “, taking into account” to the end.
+
+### 17. The Controlled Waste (England and Wales) Regulations 2012[^key-019c008eb62101109a8285e3b181c75f]
+
+(1) The Controlled Waste (England and Wales) Regulations 2012 are amended as follows.
+
+(2) In regulation 2—
+
+- (a) after the definition of “the Act”, insert—
+
+  > “**appropriate agency**” means—
+  >
+  > - (a) in relation to England, the Environment Agency;
+  > - (b) in relation to Wales, the Natural Resources Body for Wales;
+  >
+  > “**appropriate authority**” means—
+  >
+  > - (a) in relation to England, the Secretary of State;
+  > - (b) in relation to Wales, the Welsh Ministers;
+
+  ;
+- (aa)[^key-f68f8445ed36c6217c36432ae2defd8c] in the definition of “Directive waste”, in paragraph (a), after “Waste Directive” insert “as read with Articles 5 and 6 of that Directive”;
+- (b) after the definition of “Directive waste” insert—
+
+  > “**local authority**” means—
+  >
+  > - (a) in England outside Greater London—
+  >   - (i) a district council,
+  >   - (ii) a county council, or
+  >   - (iii) the Council of the Isles of Scilly;
+  > - (b) in Greater London—
+  >   - (i) the council of a London borough,
+  >   - (ii) the Common Council of the City of London,
+  >   - (iii) the Sub-Treasurer of the Inner Temple, or
+  >   - (iv) the Under-Treasurer of the Middle Temple;
+  > - (c) in Wales—
+  >   - (i) a county council, or
+  >   - (ii) a county borough council;
+  >
+  > “**Mining Waste Directive**” means Directive [2006/21/EC](https://www.legislation.gov.uk/eudr/2006/21) of the European Parliament and of the Council on the management of waste from extractive industries, as read in accordance with regulation 2B;
+
+  ;
+- (c) in the definition of “Waste Directive” (as inserted by regulation 7(2)(b)), at the end insert “ as read in accordance with regulation 2A ”.
+
+(3) After regulation 2, insert—
+
+> **2A. Modification of the Waste Directive**
+>
+> (1) For the purposes of these Regulations, the Waste Directive is to be read in accordance with this regulation.
+>
+> (2) A reference to one or more member States imposing an obligation or conferring a discretion on a member State or member States is to be read as a reference to the appropriate authority, appropriate agency or local authority which, immediately before IP completion day[^key-9bb7e91bfa26055a02acf836f0852f3a], was responsible for the United Kingdom's compliance with that obligation or able to exercise that discretion in respect of England or Wales.
+>
+> (3) Article 2 is to be read as if—
+>
+> - (a) in paragraph 2—
+>   - (i) in the words before point (a), for “other Community legislation” there were substituted “ retained EU law ”;
+>   - (ii) in points (b) and (c), for “Regulation [(EC) No 1774/2002](https://www.legislation.gov.uk/eur/2002/1774)” there were substituted “ Regulation [(EC) No 1069/2009](https://www.legislation.gov.uk/eur/2009/1069) ”;
+>   - (iii) in point (d), for the words from “Directive [2006/21/EC](https://www.legislation.gov.uk/eudr/2006/21)” to the end there were substituted “ the Mining Waste Directive ”;
+>   - (iv) in paragraph 3, the words from “Without prejudice” to “Community legislation,” were omitted;
+>   - (v) paragraph 4 were omitted.
+>
+> (4)[^key-8bff7f7a3a0273aac044d5f252bd283d] Article 5 is to be read as if—
+>
+> - (a) in paragraph 1, “Member States shall take appropriate measures to ensure that” were omitted;
+> - (b) after paragraph 1 there were inserted—
+>
+>   > **1A.** Any decision as to whether a substance or object is a by-product must be made—
+>   >
+>   > - (a) in accordance with any regulations setting out detailed criteria on the application of the conditions in paragraph 1 to specific substances or objects; and
+>   > - (b) having regard to any guidance published by the appropriate authority or the appropriate agency for the purposes of this Article.
+>
+>   ;
+> - (c) paragraphs 2 and 3 were omitted.
+>
+> (5) Article 6 is to be read as if—
+>
+> - (a) in paragraph 1, “Member States shall take appropriate measures to ensure that” were omitted;
+> - (b) after paragraph 1 there were inserted—
+>
+>   > **1A.** Any decision as to whether a substance or object has ceased to be waste must be made—
+>   >
+>   > - (a) in accordance with any regulations or retained direct EU legislation setting out detailed criteria on the application of the conditions in paragraph 1 to specific types of waste; and
+>   > - (b) having regard to any guidance published by the appropriate authority or the appropriate agency for the purposes of this Article.
+>
+>   ;
+> - (c) in paragraph 2—
+>   - (i) the first subparagraph were omitted;
+>   - (ii) in the second subparagraph, for “Those detailed criteria” there were substituted “Any detailed criteria set out in guidance as referred to in paragraph 1A”;
+>   - (iii) the third and fourth subparagraphs were omitted;
+> - (d) paragraph 3 were omitted;
+> - (e) in paragraph 4—
+>   - (i) in the first subparagraph—
+>     - (aa) in the first sentence, for the words from the beginning to “Member State”, there were substituted “Where criteria have not been set out as referred to in paragraph 1A(a), the appropriate agency”;
+>     - (bb) the second sentence were omitted;
+>   - (ii) in the second subparagraph—
+>     - (aa) for “Member States” there were substituted “The appropriate agency”;
+>     - (bb) “by competent authorities” were omitted.
+>
+> (6) Article 7 is to be read as if—
+>
+> - (a) before paragraph 1 there were inserted—
+>
+>   > **A1.** In this Article, the “list of waste” means the list contained in the Annex to Commission [Decision 2000/532/EC](https://www.legislation.gov.uk/eudn/2000/0532), as that list has effect in England or in Wales (as the case may be).
+>
+>   ;
+> - (b) in paragraph 1—
+>   - (i) the first and second sentences were omitted;
+>   - (ii) for the third sentence there were substituted “The list of waste shall, except as provided in Commission [Decision 2000/532/EC](https://www.legislation.gov.uk/eudn/2000/0532), be binding as regards determination of the waste which is to be considered as hazardous waste or as non-hazardous waste.”;
+> - (c) paragraphs 2, 3, 6 and 7 were omitted.
+>
+> (7) Annex 3 is to be read as if, in entry HP 9, in the second sentence, “in the Member States” were omitted.
+>
+> **2B. Modification of the Mining Waste Directive**
+>
+> (1) For the purposes of these Regulations, the Mining Waste Directive is to be read as follows.
+>
+> (2) A reference to one or more member States imposing an obligation or conferring a discretion on a member State or member States is to be read as a reference to the appropriate authority, appropriate agency or local authority which, immediately before IP completion day[^key-098be2e99ed042e377d9fd3b55e5f408], was responsible for the United Kingdom's compliance with that obligation or able to exercise that discretion in respect of England or Wales.
+>
+> (3) Article 2 is to be read as if—
+>
+> - (a) in paragraph 2(c), the reference to Article 11(3)(j) of Directive [2000/60/EC](https://www.legislation.gov.uk/eudr/2000/60) were a reference to that Article read in accordance with regulation 2C;
+> - (b) paragraphs 3 and 4 were omitted.
+>
+> (4) Article 3(1) is to be read as if, for “Article 1(a) of Directive [75/442/EC](https://www.legislation.gov.uk/eudr/1975/442)” there were substituted “ Article 3(1) of the Waste Directive, as read with Articles 5 and 6 of that Directive ”.
+>
+> **2C. Modifications to the Water Framework Directive**
+>
+> (1) For the purposes of regulation 2B(3)(a), Article 11(3)(j) of Directive [2000/60/EC](https://www.legislation.gov.uk/eudr/2000/60) of the European Parliament and of the Council establishing a framework for Community action in the field of water policy is to be read as if—
+>
+> - (a) the reference to “Member States” were a reference to the appropriate authority or appropriate agency;
+> - (b) in the words after the final indent, “environmental objectives”—
+>   - (i) in relation to the Northumbria River Basin District, means the environmental objectives referred to in the WFD Regulations as applied by regulation 5 of the Water Environment (Water Framework Directive) (Northumbria River Basin District) Regulations 2003;
+>   - (ii) in relation to the Solway Tweed River Basin District, has the same meaning as in regulation 2 of the Water Environment (Water Framework Directive) (Solway Tweed River Basin District) Regulations 2004;
+>   - (iii) in relation to a river basin district within the meaning of the WFD Regulations, has the same meaning as in those regulations.
+>
+> (2) In paragraph (1)(b), “**the WFD Regulations**” means the Water Environment (Water Framework Directive) (England and Wales) Regulations 2017.
+
+.
+
+### 18. The Restriction of the Use of Certain Hazardous Substances in Electrical and Electronic Equipment Regulations 2012[^key-8be036e8d132d7ac86ef5a8871951774]
+
+(1) The Restriction of the Use of Certain Hazardous Substances in Electrical and Electronic Equipment Regulations 2012 [^c23760411] are amended as follows.
+
+(2) In regulation 2—
+
+- (a) Omit the definition of “CE marking”;
+- (b) after the definition of “conformity assessment” insert—
+
+  > “**designated standard**” has the meaning given in regulation 2A;
+
+  ;
+- (c)[^key-3870e3072e5a2e1d15c96c1935eb16b4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d) omit the definition of “harmonised standard”;
+- (e)[^key-8f160837dfa108074170f5f44c45c084] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (f)[^key-0f55fba2574976455f5f2e80f30bcd91] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (g) for the definition of “technical documentation” substitute—
+
+  > “**technical documentation**” means the documentation referred to in paragraph 2 of Part 4 of Schedule 1;
+- (h) after the definition of “technical documentation” insert—
+
+  > “**UK marking**” means a marking by which a manufacturer indicates that a product complies with the applicable requirements set out in these Regulations and which takes the form published in accordance with Article 30(1) of RAMS;
+
+  .
+
+(3) After regulation 2, insert—
+
+> **2A. Interpretation: designated standard**
+>
+> (1) In these Regulations a “**designated standard**” means a technical specification which is—
+>
+> - (a) adopted by a recognised standardisation body, for repeated or continuous application, with which compliance is not compulsory; and
+> - (b) designated and published by the Secretary of State in accordance with paragraphs (3) to (5).
+>
+> (2) In this regulation, a “**technical specification**” means a document that prescribes technical requirements to be fulfilled by a product, process, service or system and which lays down one or more of the following—
+>
+> - (a) the characteristics required of a product, including—
+>   - (i) levels of quality, performance, interoperability, environmental protection, health, safety or dimensions, and
+>   - (ii) the requirements applicable to the product as regards the name under which the product is sold, terminology, symbols, testing and test methods, packaging, marking or labelling and conformity assessment procedures; and
+> - (b) production methods and processes relating to the product, where these have an effect on the characteristics of the product.
+>
+> (3) Before designating the reference to a technical specification adopted by the British Standards Institution, the Secretary of State must have regard to whether the technical specification is consistent with technical specifications adopted by the other recognised standardisation bodies.
+>
+> (4) The Secretary of State must publish a reference to a designated technical specification in a manner which the Secretary of State considers appropriate to draw the standard to the attention of any person who may have an interest in the standard.
+>
+> (5) The Secretary of State may withdraw the designation of a technical specification, and as soon as reasonably practicable after doing so must publish notice of that withdrawal in a manner which the Secretary of State considers appropriate to draw that withdrawal to the attention of any person who may have an interest in it.
+>
+> (6) In paragraph (2), a reference to a “**product**” is a reference to any materials, components and EEE to which these Regulations apply.
+>
+> (7) In this regulation, a “**recognised standardisation body**” means any one of the following organisations—
+>
+> - (a) the European Committee for Standardisation (CEN);
+> - (b) the European Committee for Electrotechnical Standardisation (Cenelec);
+> - (c) the European Telecommunications Standards Institute (ETSI);
+> - (d) the British Standards Institution (BSI).
+>
+> **2B. Modifications to the Directive**
+>
+> (1) For the purposes of these Regulations, except regulation 34A, the Directive is to be read in accordance with this regulation.
+>
+> (2) A term which is used in the Directive and which is defined in Part 1 of these Regulations is to be read as having the meaning given by Part 1.
+>
+> (3) Article 3 is to be read as if points (1), (2), (5), (11), (12), (21), (22), (24) and (27) were omitted.
+>
+> (4) Article 4 is to be read as if—
+>
+> - (a) in paragraph 1, for “Member States” there was substituted “ the Secretary of State ”;
+> - (b) in paragraph 2, the second sentence were omitted.
+>
+> (5) Annex 3 is to be read as if, in entry 41 of the table, in the second column, for the words “classes SH:1” to the end, substitute “category NRSh' of Article 4(1), point 3 of Regulation (EU) 2016/1628 of the European Parliament and of the Council on requirements relating to gaseous and particulate pollutant emission limits and type-approval for internal combustion engines for non-road mobile [^c23760421]”.
+>
+> (6) Annex 4 is to be read as if—
+>
+> - (a) in points 21 and 30, “EU” were omitted;
+> - (b) in point 33, for the words from “Directive [93/42/EEC](https://www.legislation.gov.uk/eudr/1993/42)” to “defibrillators” there were substituted “mobile medical devices (other than portable emergency defibrillators) that are classified as belonging to Class IIa or IIb for the purposes of the Medical Devices Regulations 2002 [^c23760431]”.
+
+.
+
+(4) In regulation 8—
+
+- (a) for the words “existing EU legislation or legislation giving effect to EU legislation”, substitute “ retained EU law ”;
+- (b) in sub-paragraph (c), for the words “EU waste management legislation”, substitute “ retained EU law on waste management ”.
+
+(5) In regulation 9—
+
+- (a) in paragraph (1), for “CE” substitute “ UK ”;
+- (b) in paragraph (2), for “harmonised standards” substitute “ a designated standard ”.
+
+(6) In regulation 10(2)(c)—
+
+- (a) omit “EU”;
+- (b) for “CE” substitute “ UK ”.
+
+(7) In regulation 12—
+
+- (a) in paragraph (1), in the words after sub-paragraph (b), for the words from “Module A” to the end, substitute “ Part 4 of Schedule 1 ”;
+- (b) in paragraph (2), for “EU legislation or legislation giving effect to EU legislation” substitute “ retained EU law ”.
+
+(8) In regulation 13—
+
+- (a) in the heading—
+  - (i) omit “EU”;
+  - (ii) for “CE” substitute “ UK ”;
+- (b) in sub-paragraph (a), for “an EU” substitute “ a ”;
+- (c) in sub-paragraph (b), for “CE” substitute “ UK ”.
+
+(9) In regulation 14—
+
+- (a) omit “EU” in each place it occurs;
+- (b) in paragraph (2), for “Annex VI to the Directive” substitute “ Schedule 1A ”;
+- (c) omit paragraph (4);
+- (d) in paragraph (5)—
+  - (i) for “An” substitute “ A ”;
+  - (ii) after “English”, insert “ or any other language agreed by the market surveillance authority ”.
+
+(10) In regulation 15, omit “EU” in both places it occurs (including the heading).
+
+(11) In regulation 16, for “CE” in each place it occurs (including the heading) substitute “ UK ”.
+
+(12) In regulation 17(2)(b)—
+
+- (a) for “harmonised standards” substitute “ designated standards ”;
+- (b) omit “EU”.
+
+(13) In regulation 18(3), for “EU legislation or legislation giving effect to EU legislation” substitute “ retained EU law ”.
+
+(14) In regulation 20(b), omit the words from “and the competent” to “available”.
+
+(15) In regulation 22—
+
+- (a) in paragraph (1), for “EU” substitute “ United Kingdom ”;
+- (b) in paragraph (2)(a), omit “EU”.
+
+(16) In regulation 23(b)(ii), for “CE” in both places it occurs substitute “ UK ”.
+
+(17) In regulation 24(3), for “EU legislation or legislation giving effect to EU legislation” substitute “ retained EU law ”.
+
+(18) In regulation 26(2)(b), omit the words from “and the competent” to “available”.
+
+(19) In regulation 27(1)(a), omit “EU”.
+
+(20) In regulation 29(1)—
+
+- (a) in sub-paragraph (a), for “CE” substitute “ UK ”;
+- (b) in sub-paragraph (b), for the words from “Member State” to the end substitute “ United Kingdom ”.
+
+(21) In regulation 30(2)(b), omit the words from “and the competent” to “available”.
+
+(22) In regulation 34, for “CE” in each place it occurs (including the heading) substitute “ UK ”.
+
+(23) After regulation 34, insert—
+
+> **34A. Obligations which are met by complying with obligations in the Directive**
+>
+> (1) This regulation makes provision for obligations on manufacturers, importers and distributors in these Regulations for placing, or making available, EEE on the market to be met by complying with obligations in the Directive for placing, or making available, EEE on the market.
+>
+> (2) In this regulation—
+>
+> - (a) any reference to an Article or an Annex is a reference to an Article or an Annex of the Directive;
+> - (b) “**CE marking**” has the meaning given to it in Article 3(15);
+> - (c) “**harmonised standard**” has the meaning given to it in Article 3(13).
+>
+> (3) Paragraph (4) applies where, before placing EEE on the market, the manufacturer—
+>
+> - (a) ensures the EEE has been designed and manufactured in accordance with the requirements set out in Articles 4 and 7;
+> - (b) ensures that the conformity assessment procedure that applies to the EEE in accordance with Article 7(b) has been carried out;
+> - (c) affixes a CE marking, in accordance with Articles 7(c) and 15(1) and (2);
+> - (d) draws up an EU declaration of conformity, in accordance with Article 13; and
+> - (e) ensures that the EU declaration of conformity is prepared in or translated into English.
+>
+> (4) Where this paragraph applies—
+>
+> - (a) the requirements of regulations 12(1), 13 and 14(1), (2), (5) and (6) are satisfied in respect of that EEE;
+> - (b) regulations 12(1), 13, 14(1), (2), (5) and (6) apply to that EEE subject to the modifications in paragraph (9).
+>
+> (5) Paragraph (6) applies where, before placing EEE on the market, the importer ensures that—
+>
+> - (a) the conformity assessment procedure that applies to that EEE in accordance with Article 7(b) has been carried out;
+> - (b) the manufacturer has drawn up the technical documentation referred to in Article 7(b); and
+> - (c) the EEE bears the CE marking and inscriptions referred to in Article 13.
+>
+> (6) Where this paragraph applies—
+>
+> - (a) the requirements of regulation 23(b) are satisfied in respect of that EEE;
+> - (b) regulation 23(b) applies to that EEE subject to the modifications in paragraph (9).
+>
+> (7) Paragraph (8) applies where, before making EEE available on the market, a distributor ensures that the EEE bears the CE marking and inscriptions referred to Article 13.
+>
+> (8) Where this paragraph applies—
+>
+> - (a) the requirements of regulation 29(1)(a) are satisfied in respect of that EEE;
+> - (b) regulation 29(1)(a) applies to that EEE subject to the modifications in paragraph (9).
+>
+> (9) The modifications referred to in paragraphs (4)(b), (6)(b) and (8)(b) are that—
+>
+> - (a) any reference to “declaration of conformity” is to be read as a reference to the EU declaration of conformity;
+> - (b) any reference to “UK marking” is to be read as a reference to the CE marking;
+> - (c) any reference to “designated standard” is to be read as a reference to a harmonised standard;
+> - (d) any reference to an “internal control procedure” is to be read as a reference to Module A of Annex 2 to Decision [768/2008/EC](https://www.legislation.gov.uk/eudn/19768/2008) of the European Parliament and of the Council on a common framework for the marketing of products [^c23760441] as it has effect in EU law, as amended from time to time;
+> - (e) any reference to “**technical documentation**” is a reference to the technical documentation referred to in Article 7(b).
+
+.
+
+(24) In regulation 37—
+
+- (a) in paragraph (1)(b), omit “EU”;
+- (b) in paragraphs (5) and (6), for “CE” in each place it occurs substitute “ UK ”.
+
+(25) In Schedule 1—
+
+- (a) in the shoulder reference, at the end insert “ and regulation 12(1) ”;
+- (b) in Part 2, in paragraph 12, for “member States” substitute “ the United Kingdom ”;
+- (c) after Part 3, insert—
+
+  > **PART 4 — Internal Production Control Procedure**
+  >
+  > **25.**
+  >
+  > The internal production control procedure is a conformity assessment procedure whereby a manufacturer must ensure EEE is manufactured in compliance with the technical documentation and with the applicable requirements of these Regulations.
+  >
+  > **26.**
+  >
+  > The technical documentation must—
+  >
+  > - (a) make it possible to assess the EEE's conformity with the applicable requirements of these Regulations, and must include an adequate analysis and assessment of the risks;
+  > - (b) specify the applicable requirements and cover, as far as relevant for the assessment, the design, manufacture and operation of the EEE;
+  > - (c) contain, where applicable, at least the following elements—
+  >   - (i) a general description of the EEE;
+  >   - (ii) conceptual design and manufacturing drawings and schemes of components, sub-assemblies;
+  >   - (iii) descriptions and explanations necessary for the understanding of those drawings and schemes, and the operation of the EEE;
+  >   - (iv) a list of the designated standards applied in full or in part (where applicable specifying the parts which have been applied);
+  >   - (v) where designated standards have not been applied, descriptions of the solutions adopted to meet the essential requirements, including a list of other relevant technical specifications applied;
+  >   - (vi)[^key-ab38a15ef9252821bcbf2050894e4b9d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  >   - (vii) results of design calculations made, examinations carried out and
+  >   - (viii) test reports.
+
+  .
+
+(26) After Schedule 1, insert—
+
+> **SCHEDULE 1A — Declaration of conformity**
+>
+> Regulation 14(2)
+>
+> **1.** Declaration of conformity (unique identification of the EEE):
+>
+> **2.** Name and address of the manufacturer or, where applicable, authorised representative:
+>
+> **3.** This declaration of conformity is issued under the sole responsibility of the manufacturer (or installer):
+>
+> **4.** Object of the declaration (identification of EEE allowing traceability: it may include a photograph, where appropriate):
+>
+> **5.** The object of the declaration described above is in conformity with relevant statutory requirements:
+>
+> **6.** Where applicable, references to the relevant designated standards used or references to the technical specifications in relation to which conformity is declared:
+>
+> **7.** Additional information:
+>
+> Signed for and on behalf of:
+>
+> place and date of issue:
+>
+> name, function) (signature:
+
+.
+
+(27) In Schedule 2, omit paragraph 2(4)(a)(ii).
+
+### 19. The Waste Electrical and Electronic Equipment Regulations 2013[^key-810219dc6502bc889da633d6da106e64]
+
+(1) The Waste Electrical and Electronic Equipment Regulations 2013 are amended as follows.
+
+(2) In regulation 2—
+
+- (a) in the definition of “the Directive” (as substituted by regulation 8(2)), at the end insert “ , as read in accordance with regulation 2A ”;
+- (b) in the definition of “the Waste Directive”, at the end insert “ and as read in accordance with regulation 2B ”;
+- (c) in the definition of “active implantable medical device”, for the words from “point (c)” to “devices”, substitute “ regulation 2(1) of the Medical Devices Regulations 2002 [^c23760451] ”;
+- (d) in the definition of “in vitro diagnostic medical device”, for the words from “within the meaning of” to the end, substitute “ within the meaning of regulation 2(1) of the Medical Devices Regulations 2002, which is EEE ”;
+- (e) in the definition of “making available on the market”, for “a Member State” substitute “ the United Kingdom ”;
+- (f) in the definition of “medical device”, for the words from “within the meaning of” to the end, substitute “ within the meaning of regulation 2(1) of the Medical Devices Regulations 2002, which is WEEE ”;
+- (g) omit the definition of “Member State”;
+- (ga)[^key-1c4b8d353a63c90a0a61c9ad81e97b53] before the definition of “Natural Resources Body for Wales” insert—
+
+  > - “national authority” means—
+  >   - (a) in relation to England, the Secretary of State;
+  >   - (b) in relation to Wales, the Welsh Ministers;
+  >   - (c) in relation to Scotland, the Scottish Ministers;
+  >   - (d) in relation to Northern Ireland, the Department of Agriculture, Environment and Rural Affairs;
+
+  ;
+- (h) in the definition of “placing on the market”, omit “within the territory of a Member State”;
+- (i) in the definition of “producer”—
+  - (i) in the words before sub-paragraph (a), omit the words from “in accordance” to “consumer rights”;
+  - (ii) in sub-paragraphs (a) and (b)—
+    - (aa) for “a Member State” substitute “ the United Kingdom ”;
+    - (bb) for “territory of that Member State” substitute “ United Kingdom ”;
+  - (iii) for sub-paragraphs (c) and (d) substitute—
+
+    > - (c) is established in the United Kingdom and places on the market, on a professional basis, EEE from a country other than the United Kingdom; or
+    > - (d) sells EEE by means of distance communication directly to private households or to users other than private households in the United Kingdom and is established in a country other than the United Kingdom.
+
+    ;
+- (j)[^key-b846d9df7670aeb13a020b2e568f7a98] in the definition of “waste electrical and electronic equipment”, after “Waste Directive” insert “, as read with Articles 5 and 6 of that Directive,”.
+
+(3) After regulation 2, insert—
+
+> **2A. Modification of the Directive**
+>
+> (1) For the purposes of these Regulations, the Directive is to be read in accordance with this regulation.
+>
+> (2) A reference to one or more member States or the competent authorities in a provision imposing an obligation or conferring a discretion on a member State, member States or competent authority is to be read as a reference to the national authority or appropriate authority which, immediately before IP completion day[^key-9a140d3450a41ac5cf026a4b50703f2f], was responsible for the United Kingdom's compliance with that obligation or able to exercise that discretion.
+>
+> (3) A reference to a term in the Directive which is defined in regulation 2 to these Regulations is to be read as if it had the meaning given in regulation 2.
+>
+> (4) Article 3 is to be read as if paragraphs 1(e), (f) and (l) and (2) were omitted.
+>
+> (5) Article 5(2)(e) is to be read as if “and Union” were omitted.
+>
+> (6) Article 8 is to be read as if—
+>
+> - (a) paragraph 4 were omitted;
+> - (b) in paragraph 5, the second to fifth subparagraphs were omitted.
+>
+> (7) Article 9 is to be read as if—
+>
+> - (a) in paragraphs 1 and 2, for “Directive [2008/98/EC](https://www.legislation.gov.uk/eudr/2008/98)” there were substituted “ the Waste Directive ”;
+> - (b) in paragraph 3, for the words “Article 11” there were substituted “paragraphs 23 and 24 of Schedule 11 to the Waste Electrical and Electronic Equipment Regulations 2013;
+> - (c) after paragraph 3, there were inserted—
+>
+>   > **4.**
+>   >
+>   > In paragraph 3, “permit”—
+>   >
+>   > - (a) in relation to England and Wales, means an environmental permit issued under regulation 13(1) of the Environmental Permitting Regulations 2016;
+>   > - (b) in relation to Northern Ireland, means—
+>   >   - (i) a waste management licence granted under Article 6 of the Waste and Contaminated Land (Northern Ireland) Order 1997 [^c23760461], or
+>   >   - (ii) a permit granted under regulation 10 of the Pollution Prevention and Control (Industrial Emissions) Regulations (Northern Ireland) 2013 [^c23760471];
+>   > - (c) in relation to Scotland, means a site licence issued under section 35 of the Environmental Protection Act 1990 [^c23760481] or a permit issued under regulation 13 of the Pollution Prevention and Control (Scotland) Regulations 2012.
+>
+>   .
+>
+> (8) Article 11 is to be read as if paragraphs 3 and 6 were omitted.
+>
+> (9) Annex 7 is to be read as if, in paragraph 1—
+>
+> - (a) in the first subparagraph—
+>   - (i) in the first indent, for the words from “Council Directive [96/59/EC](https://www.legislation.gov.uk/eudr/1996/59) [^c23760491]”to the end there were substituted “ the relevant PCB legislation ”;
+>   - (ii) in the thirteenth indent, for the words from “Commission Directive [97/69/EC](https://www.legislation.gov.uk/eudr/1997/69) [^c23760501]” to the end there were substituted “ Regulation [(EC) No 1272/2008](https://www.legislation.gov.uk/eur/2008/1272) of the European Parliament and of the Council on classification, labelling and packaging of substances and mixtures ”;
+>   - (iii) in the fourteenth indent, for the words from “Article 3” to the end there were substituted “ Annex 7 to the Basic Safety Standards Directive ”;
+> - (b) in the second subparagraph, for “Directive [2008/98/EC](https://www.legislation.gov.uk/eudr/2008/98)” there were substituted “ the Waste Directive ”.
+>
+> (10) Annex 8 is to be read as if, in paragraph 1, in the words before the first indent, the words from “(without prejudice” to “landfill of waste)” were omitted.
+>
+> (11) In paragraph (8)(a)(i), the “**relevant PCB legislation**” means—
+>
+> - (a) in relation to England and Wales, the Environmental Protection (Disposal of Polychlorinated Biphenyls and other Dangerous Substances) (England and Wales) Regulations 2000 [^c23760511];
+> - (b) in relation to Scotland, the Environmental Protection (Disposal of Polychlorinated Biphenyls and other Dangerous Substances) (Scotland) Regulations 2000 [^c23760521];
+> - (c) in relation to Northern Ireland, the Environmental Protection (Disposal of Polychlorinated Biphenyls and other Dangerous Substances) Regulations (Northern Ireland) 2000 [^c23760531].
+>
+> **2B. Modification of the Waste Directive**
+>
+> (1) For the purposes of these Regulations, the Waste Directive is to be read in accordance with this regulation.
+>
+> (2) A reference to one or more member States or a competent authority in a provision imposing an obligation or conferring a discretion on a member State, member States or competent authority is to be read as a reference to the national authority or appropriate authority which, immediately before IP completion day[^key-259e38cff5d903761190348262410c48], was responsible for the United Kingdom's compliance with that obligation or able to exercise that discretion.
+>
+> (3) Article 3(20) is to be read as if for “Article 2(11) of Directive [96/61/EC](https://www.legislation.gov.uk/eudr/1996/61)” there were substituted “ Article 3(10) of the Industrial Emissions Directive ”.
+>
+> (4)[^key-e96be9a61eceb0c9e0eb4a29736b53c9] Article 5 is to be read as if—
+>
+> - (a) in paragraph 1, “Member States shall take appropriate measures to ensure that” were omitted;
+> - (b) after paragraph 1 there were inserted—
+>
+>   > **1A.** Any decision as to whether a substance or object is a by-product must be made—
+>   >
+>   > - (a) in accordance with any regulations setting out detailed criteria on the application of the conditions in paragraph 1 to specific substances or objects; and
+>   > - (b) having regard to any relevant guidance published by the national authority or the appropriate authority.
+>
+>   ;
+> - (c) paragraphs 2 and 3 were omitted.
+>
+> (5) Article 6 is to be read as if—
+>
+> - (a) in paragraph 1, “Member States shall take appropriate measures to ensure that” were omitted;
+> - (b) after paragraph 1 there were inserted—
+>
+>   > **1A.** Any decision as to whether a substance or object has ceased to be waste must be made—
+>   >
+>   > - (a) in accordance with any regulations or retained direct EU legislation setting out detailed criteria on the application of the conditions in paragraph 1 to specific types of waste; and
+>   > - (b) having regard to any relevant guidance published by the national authority or the appropriate authority.
+>
+>   ;
+> - (c) in paragraph 2—
+>   - (i) the first subparagraph were omitted;
+>   - (ii) in the second subparagraph, for “Those detailed criteria” there were substituted “Any detailed criteria set out in guidance as referred to in paragraph 1A”;
+>   - (iii) the third and fourth subparagraphs were omitted;
+> - (d) paragraph 3 were omitted;
+> - (e) in paragraph 4—
+>   - (i) in the first subparagraph—
+>     - (aa) in the first sentence, for the words from the beginning to “Member State”, there were substituted “Where criteria have not been set out as referred to in paragraph 1A(a), the appropriate authority”;
+>     - (bb) the second sentence were omitted;
+>   - (ii) in the second subparagraph—
+>     - (aa) for “Member States” there were substituted “The appropriate authority”;
+>     - (bb) “by competent authorities” were omitted.
+>
+> (6) Article 7 is to be read as if—
+>
+> - (a) before paragraph 1 there were inserted—
+>
+>   > **A1.** In this Article, the “list of waste” means the list contained in the Annex to Commission [Decision 2000/532/EC](https://www.legislation.gov.uk/eudn/2000/0532), as that list has effect in England, Wales, Scotland or Northern Ireland (as the case may be).
+>
+>   ;
+> - (b) in paragraph 1—
+>   - (i) the first and second sentences were omitted;
+>   - (ii) for the third sentence there were substituted “The list of waste shall, except as provided in Commission [Decision 2000/532/EC](https://www.legislation.gov.uk/eudn/2000/0532), be binding as regards determination of the waste which is to be considered as hazardous waste or as non-hazardous waste.”;
+> - (c) paragraphs 2, 3, 6 and 7 were omitted.
+>
+> (7) Article 23 is to be read as if in paragraph 5, “or Community” were omitted.
+>
+> (7A)[^key-53736ab5c432b533aac8b634772e7d9d] Article 25 is to be read as if paragraph 3 were omitted.
+>
+> (8) Annex 3 is to read as if, in entry HP 9, in the second sentence, “in the Member States” were omitted.
+>
+> **2C. Meaning of “the Basic Safety Standards Directive” and “the Industrial Emissions Directive”**
+>
+> (1) In regulation 2A(8)(a)(iii) and this regulation, “**the Basic Safety Standards Directive**” means Council Directive 2013/59/Euratom laying down basic safety standards for protection against the dangers arising from exposure to ionising radiation, read in accordance with paragraphs (2) to (4).
+>
+> (2) A reference to one or more member States or a competent authority in a provision imposing an obligation or conferring a discretion on a member State, member States or competent authority is to be read as a reference to the national authority or appropriate authority which, immediately before IP completion day[^key-834431849d99ea1d86ef30546a8ba67c], was responsible for the United Kingdom's compliance with that obligation or able to exercise that discretion.
+>
+> (3) Article 4(79) is to be read as if “under the legislative and regulatory framework of the Member State” there were substituted “in the United Kingdom”.
+>
+> (4) Annex 7 is to be read as if, in section 2—
+>
+> - (a) in points (c) and (d), “Community” were omitted;
+> - (b) in point (e), in the second sentence, for “Article 75” there were substituted “ regulation 7 of the Ionising Radiation (Basic Safety Standards) (Miscellaneous Provisions) Regulations 2018 [^c23760541] ”.
+>
+> (5) In regulation 2B(3), “**the Industrial Emissions Directive**” means Directive 2010/75/EU of the European Parliament and of the Council on industrial emissions (integrated pollution prevention and control), read in accordance with paragraphs (6) and (7).
+>
+> (6) Article 3 is to be read as if—
+>
+> - (a) in point (1)(a), for the words from “Article 1” to the end there were substituted “ Article 4(78) of the Basic Safety Standards Directive ”;
+> - (b) in point (10)(b), for “Member State in question” there were substituted “ United Kingdom ”;
+> - (c) in point (23), for the words from “point 1” to the end there were substituted “ point 1 of the second subparagraph of Article 2 of Council Directive [2009/158/EC](https://www.legislation.gov.uk/eudr/2009/158) on animal health conditions governing intra-Community trade in, and imports from third countries of, poultry and hatching eggs ”;
+> - (d) in point (37), for the words from “of the European” to the end there were substituted “ , read with Articles 5 and 6 of that Directive ”.
+>
+> (7) Annex 1 is to be read as if—
+>
+> - (a) in the words before point 1, the second paragraph were omitted;
+> - (b) in point 5.3—
+>   - (i) in point (a), in the words before point (i), for “Council Directive [91/271/EEC](https://www.legislation.gov.uk/eudr/1991/271) of 21 May 1991 concerning urban waste-water treatment” there were substituted “ the urban waste water treatment legislation ”;
+>   - (ii) in point (b), in the words before point (i), for “Directive [91/271/EEC](https://www.legislation.gov.uk/eudr/1991/271)” there were substituted “ the urban waste water treatment legislation ”;
+> - (c) in point 5.4, the reference to Council Directive [1999/31/EC](https://www.legislation.gov.uk/eudr/1999/31) of 26 April 1999 on the landfill of waste were a reference to the Landfill Directive;
+> - (d) in point 6.9, for “Directive [2009/31/EC](https://www.legislation.gov.uk/eudr/2009/31)” there were substituted “ the EU-derived domestic legislation which transposed Directive [2009/31/EC](https://www.legislation.gov.uk/eudr/2009/31) ”;
+> - (e) in point 6.11, for “Directive [91/271/EEC](https://www.legislation.gov.uk/eudr/1991/271)” there were substituted “ the urban waste water treatment legislation ”.
+>
+> (8) In paragraph (7)(b) and (e), “**the urban waste water treatment legislation**” means—
+>
+> - (a) in England and Wales, the Urban Waste Water Treatment (England and Wales) Regulations 1994;
+> - (b) in Scotland, the Urban Waste Water Treatment (Scotland) Regulations 1994;
+> - (c) in Northern Ireland, the Urban Waste Water Treatment Regulations (Northern Ireland) 2007.
+>
+> (9)[^key-d3e7d4ec8c59452dd191b78d42a317be] In paragraph (7)(c), “the Landfill Directive” means Council [Directive 1999/31/EC](https://www.legislation.gov.uk/eudr/1999/0031) on the landfill of waste, as last amended by Directive (EU) 2018/850, and read as if, in Article 2—
+>
+> - (a) in point (a) “‘waste’,” were omitted; and
+> - (b) after point (a) there were inserted—
+>
+>   > - (aa) “waste” means anything that—
+>   >   - (i) is waste within the meaning of Article 3(1) of [Directive 2008/98/EC](https://www.legislation.gov.uk/eudr/2008/0098), as read with Articles 5 and 6 of that Directive, and
+>   >   - (ii) is not excluded from the scope of that Directive by Article 2(1), (2) or (3) of that Directive;
+>
+>   .
+
+.
+
+(4) In regulation 7—
+
+- (a) in paragraph (a), for “Member States” substitute “ the United Kingdom ”;
+- (b) in paragraph (b), for “this Directive” substitute “ these Regulations ”.
+
+(5) In regulation 10—
+
+- (a) for the heading substitute “Retained EU law etc[^key-65542bd56f655e444b4bb58052dbced7]”;
+- (b) for “existing EU legislation” substitute “retained EU law and, in relation to Northern Ireland, EU legislation which has effect by virtue of the Protocol on Ireland/Northern Ireland in the EU withdrawal agreement,[^key-f61cbeebe01add2c8fdc80ddf0383280]”.
+
+(6) Omit regulation 13.
+
+(7) In regulation 14(1A), for “Member State” substitute “ country ”.
+
+(8) In regulation 44(a), for “requirement on each Member State under Article 5(1) of the Directive” substitute “ need ”.
+
+(9) In regulation 71, in paragraph (1)—
+
+- (a) after sub-paragraph (a), omit “or”;
+- (b) omit sub-paragraph (b).
+
+(10) In regulation 74(2)(a), for the words “the framework”, substitute “ accordance with Article 1(1) ”.
+
+(11) In Schedule 8—
+
+- (a) in paragraph 7, omit “European or”;
+- (b) in paragraphs 26 and 31—
+  - (i) in sub-paragraph (c), for “a Member State” substitute “ the United Kingdom ”;
+  - (ii) in sub-paragraph (d), for “another destination within or outside the Union” substitute “ a destination outside the United Kingdom ”.
+
+(12) In Schedule 9—
+
+- (a) in paragraph 1—
+  - (i) in the words before sub-paragraph (a), for “Member States shall require the holder to” substitute “ the holder must ”;
+  - (ii) in sub-paragraph (c), at the end insert “ , as read with Articles 5 and 6 of that Directive ”;
+- (b) in paragraph 3—
+  - (i) for “, Member States” substitute “ the appropriate authority ”;
+  - (ii) in sub-paragraph (d)(i), for the words from “Annex II” to “Annex III” substitute “ Schedule 2 or Schedule 4, as appropriate, and category set out in Schedule 1 or Schedule 2 ”;
+- (c) in paragraph 5, for “Member State authorities” substitute “ the appropriate authority ”.
+
+### 20. The Packaging (Essential Requirements) Regulations 2015[^key-7eebaddbb26cd650db36af88844df14f]
+
+(1) The Packaging (Essential Requirements) Regulations 2015 [^c23760551] are amended as follows.
+
+(2) In regulation 2—
+
+- (a) in paragraph (1)—
+  - (i) omit the definitions of “the Directive” and “the Commission”;
+  - (ii) in the definition of “essential requirements”, omit “in Annex II of the Directive and which are”;
+  - (iii) in the definition of “packaging waste”, after “Directive” insert “ , as read with Articles 5 and 6 of that Directive, ”;
+  - (iv) in the definition of “responsible person”, for “European Union” substitute “ United Kingdom ”;
+  - (v) in the definition of “the Waste Directive, at the end insert “ , and as read in accordance with regulation 2A ”;
+- (b) omit paragraph (2).
+
+(3) After regulation 2 insert—
+
+> **2A. Modification of the Waste Directive**
+>
+> (1) For the purposes of these Regulations, the Waste Directive is to be read in accordance with this regulation.
+>
+> (2)[^key-b61e773985e17d8acc40e9331516430e] Article 5 is to be read as if—
+>
+> - (a) in paragraph 1, “Member States shall take appropriate measures to ensure that” were omitted;
+> - (b) after paragraph 1 there were inserted—
+>
+>   > **1A.** Any decision as to whether a substance or object is a by-product must be made—
+>   >
+>   > - (a) in accordance with any regulations setting out detailed criteria on the application of the conditions in paragraph 1 to specific substances or objects; and
+>   > - (b) having regard to any guidance published by the appropriate authority or the appropriate agency for the purposes of this Article.
+>
+>   ;
+> - (c) paragraphs 2 and 3 were omitted.
+>
+> (3) Article 6 is to be read as if—
+>
+> - (a) in paragraph 1, “Member States shall take appropriate measures to ensure that” were omitted;
+> - (b) after paragraph 1 there were inserted—
+>
+>   > **1A.** Any decision as to whether a substance or object has ceased to be waste must be made—
+>   >
+>   > - (a) in accordance with any regulations or retained direct EU legislation setting out detailed criteria on the application of the conditions in paragraph 1 to specific types of waste; and
+>   > - (b) having regard to any guidance published by the appropriate authority or the appropriate agency for the purposes of this Article.
+>
+>   ;
+> - (c) in paragraph 2—
+>   - (i) the first subparagraph were omitted;
+>   - (ii) in the second subparagraph, for “Those detailed criteria” there were substituted “Any detailed criteria set out in guidance as referred to in paragraph 1A”;
+>   - (iii) the third and fourth subparagraphs were omitted;
+> - (d) paragraph 3 were omitted;
+> - (e) in paragraph 4—
+>   - (i) in the first subparagraph—
+>     - (aa) in the first sentence, for the words from the beginning to “Member State”, there were substituted “Where criteria have not been set out as referred to in paragraph 1A(a), the appropriate agency”;
+>     - (bb) the second sentence were omitted;
+>   - (ii) in the second subparagraph—
+>     - (aa) for “Member States” there were substituted “The appropriate agency”;
+>     - (bb) “by competent authorities” were omitted.
+>
+> (4) In this regulation—
+>
+> - “appropriate agency” means—
+>   - (a) in relation to England, the Environment Agency;
+>   - (b) in relation to Wales, the Natural Resources Body for Wales;
+>   - (c) in relation to Scotland, the Scottish Environment Protection Agency;
+> - “appropriate authority” means—
+>   - (a) in relation to England, the Secretary of State;
+>   - (b) in relation to Wales, the Welsh Ministers;
+>   - (c) in relation to Scotland, the Scottish Ministers.
+
+.
+
+(4) In regulation 3(4), omit the words from “referred to in” to the end.
+
+(5) In regulation 4—
+
+- (a)[^key-0c533aaaff242cba3172cd217989dcdf] in paragraph (1), for “EU market” substitute “market of Great Britain”;
+- (b) for paragraphs (3) and (4), substitute—
+
+  > (3) Packaging complies with the essential requirements if it—
+  >
+  > - (a) satisfies a harmonised standard; or
+  > - (b) where there are no harmonised standards, satisfies a recognised quality standard.
+  >
+  > (4) In paragraph (3)—
+  >
+  > - “**harmonised standard**” means a harmonising standard produced by the Comité Européen de Normalisation (CEN) [^c23760561], which—
+  >   - (a) relates to packaging and packaging waste; and
+  >   - (b) is published in (and not withdrawn from) the Official Journal of the European Union;
+  > - “**recognised quality standard**” means a standard produced by a member State—
+  >   - (a) that relates to packaging and packaging waste; and
+  >   - (b) the reference number to which is published in (and not withdrawn from) the Official Journal of the European Union.
+
+  .
+
+(6)[^key-6ede838f6f55e5dd358e2aba5dfa2ade] In regulation 5(1), for “EU market” substitute “market of Great Britain”.
+
+(7) Omit regulation 12(2).
+
+(8) In Schedule 1—
+
+- (a) in the heading, omit “(Annex II to the Directive)”;
+- (b) in paragraph 3(1), for “the European Union” substitute “ retained EU law ”.
+
+(9) In Schedule 2, in paragraph 2—
+
+- (a) for “European Union” in both places it occurs substitute “ United Kingdom ”;
+- (b) in sub-paragraph (2), in the words after paragraph (b), for “EU” substitute “ United Kingdom ”.
+
+(10) In Schedule 3, in paragraph 2(1), for “EU” substitute “ United Kingdom ”.
+
+Thérèse Coffey
+
+Parliamentary Under Secretary of State
+
+Department for Environment, Food and Rural Affairs
+
+*(This note is not part of the Regulations)*
+
+These Regulations make amendments to subordinate legislation in the field of waste, and, in particular, amend legislation in relation to end-of-life vehicles, hazardous waste, controlled waste, waste batteries and accumulators, the management of waste from extractive industries, waste electrical and electronic equipment, and packaging waste,
+
+Part 2 of these Regulations updates out of date references.
+
+Part 3 of these Regulations is made in exercise of the powers in section 8(1) of, and paragraph 21 of Schedule 7 to, the European Union (Withdrawal) Act 2018 (c. 16) in order to address failures to operate effectively and other deficiencies (in particular under section 8(2)(a), (b), (d) and (g)) arising from the withdrawal of the United Kingdom from the European Union.
+
+An impact assessment has not been produced for this instrument as no, or no significant, impact on the private or voluntary sector is foreseen.
+
+## Annotations
+
+[^c23759751]: Marginal citation: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68). Section 2(2) was amended by the [Legislative and Regulatory Reform Act 2006 (c. 51)](https://www.legislation.gov.uk/ukpga/2006/51), [section 27(1)(a)](https://www.legislation.gov.uk/ukpga/2006/51/section/27/1/a) and the [European Union (Amendment) Act 2008 (c. 7)](https://www.legislation.gov.uk/ukpga/2008/7), the Schedule, Part 1. It is prospectively repealed by the [European Union (Withdrawal) Act 2018 (c. 16)](https://www.legislation.gov.uk/ukpga/2018/16), [section 1](https://www.legislation.gov.uk/ukpga/2018/16/section/1) from exit day (see [section 20](https://www.legislation.gov.uk/ukpga/2018/16/section/20) of that Act). Under section 57(1) of the [Scotland Act 1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46), despite the transfer to Scottish Ministers of functions in relation to implementing obligations under EU law in relation to devolved matters, the Secretary of State retains power to exercise such functions as regards Scotland. Under paragraph 5 of Schedule 3 to the [Government of Wales Act 2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32), despite the transfer to the Welsh Ministers of functions in relation to implementing obligations under EU law in relation to devolved matters, the Secretary of State retains power to exercise such functions as regards Wales.
+
+[^c23759761]: Marginal citation: [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16).
+
+[^c23759771]: Marginal citation: [S.I. 2007/3471](https://www.legislation.gov.uk/uksi/2007/3471), to which there are amendments not relevant to these Regulations.
+
+[^c23759781]: Marginal citation: [S.I. 2004/706](https://www.legislation.gov.uk/uksi/2004/706), to which there are amendments not relevant to these Regulations.
+
+[^c23759791]: Marginal citation: [S.I. 2001/3495](https://www.legislation.gov.uk/uksi/2001/3495), to which there are amendments not relevant to these Regulations.
+
+[^c23759801]: Marginal citation: [S.I. 1992/2870](https://www.legislation.gov.uk/uksi/1992/2870), to which there are amendments not relevant to these Regulations.
+
+[^c23759811]: Marginal citation: [S.I. 1996/266](https://www.legislation.gov.uk/uksi/1996/266), to which there are amendments not relevant to these Regulations.
+
+[^key-80aaf246703fbf37db3295f79ca281c5]: Commencement: Reg. 1 in force at 28.2.2019, see reg. 1(2)(a)
+
+[^key-e46607d9563745d05f455524ee6ba982]: Textual amendment: Reg. 1A inserted (31.12.2020 immediately before IP completion day) by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/3), [11(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/2)
+
+[^key-311c1c03e22eb9c972ce72dc4f5193d5]: Commencement: Reg. 2 in force at 28.2.2019, see reg. 1(2)(a)
+
+[^c23759821]: Marginal citation: [S.I. 2003/2635](https://www.legislation.gov.uk/uksi/2003/2635), amended by [S.I. 2005/263](https://www.legislation.gov.uk/uksi/2005/263), 2007/3538, 2010/1094, 2011/988, 1043, 2016/738, 2018/235 and 942, and by [S.S.I. 2011/226](https://www.legislation.gov.uk/ssi/2011/226).
+
+[^c23759831]: Marginal citation: [S.I. 2016/1154](https://www.legislation.gov.uk/uksi/2016/1154), to which there are amendments not relevant to these Regulations.
+
+[^c23759841]: Marginal citation: [S.S.I. 2003/593](https://www.legislation.gov.uk/ssi/2003/593), to which there are amendments not relevant to these Regulations.
+
+[^c23759851]: Marginal citation: [S.S.I. 2012/360](https://www.legislation.gov.uk/ssi/2012/360), amended by [S.S.I. 2014/267](https://www.legislation.gov.uk/ssi/2014/267), 2015/438 and 2017/446; there are other amending instruments but none are relevant.
+
+[^c23759861]: Marginal citation: S.R. [2003 No. 493](https://www.legislation.gov.uk/ukcm/2003/493), amended by S.R. [2011 No. 127](https://www.legislation.gov.uk/ukcm/2011/127); there are other amending instruments but none is relevant.
+
+[^c23759871]: Marginal citation: S.R. [2013 No. 160](https://www.legislation.gov.uk/ukcm/2013/160), amended by S.R. [2014 No. 304](https://www.legislation.gov.uk/ukcm/2014/304); there are other amending instruments but none is relevant.
+
+[^key-d78ed6458910bdb55e80aad507de008b]: Commencement: Reg. 3 in force at 28.2.2019, see reg. 1(2)(a)
+
+[^c23759881]: Marginal citation: [S.I. 2005/263](https://www.legislation.gov.uk/uksi/2005/263), amended by [S.I. 2010/1095](https://www.legislation.gov.uk/uksi/2010/1095), 2011/988, 1043, 2013/755 (W. 90), 2016/738, 2018/235 and 942, and by S.S.I 2011/226.
+
+[^key-3f287b7880cef55bc21cf6ff7bb7588c]: Commencement: Reg. 4 in force at 28.2.2019, see reg. 1(2)(a)
+
+[^c23759891]: Marginal citation: [S.I. 2007/871](https://www.legislation.gov.uk/uksi/2007/871); relevant amending instruments are [S.I. 2008/1941](https://www.legislation.gov.uk/uksi/2008/1941), 2010/2849, 2011/1043, 2016/738, 2018/575,
+
+    721
+
+    .
+
+[^c23759901]: Marginal citation: OJ No L 115, 6.5.2015, p. 11.
+
+[^c23759911]: Marginal citation: OJ No L 150, 14.6.2017, p. 1.
+
+[^c23759921]: Marginal citation: OJ No L 294, 11.11.2015, p.1.
+
+[^c23759931]: Marginal citation: OJ No L 197, 4.7.2014, p. 10.
+
+[^key-9f160e85668cd84d4db0d5c165aa491a]: Commencement: Reg. 5 in force at 28.2.2019, see reg. 1(2)(a)
+
+[^c23759941]: Marginal citation: [S.I. 2008/2164](https://www.legislation.gov.uk/uksi/2008/2164): relevant amending instruments are [S.I. 2011/988](https://www.legislation.gov.uk/uksi/2011/988), 2011/1043, 2015/1360 and S.S.S.I 2011/226
+
+    .
+
+[^c23759951]: Marginal citation: OJ No L 150, 14.6.2017, p.1.
+
+[^key-95cca3d86beee4f7b3e9957e7991e3d1]: Commencement: Reg. 6 in force at 28.2.2019, see reg. 1(2)(a)
+
+[^c23759961]: Marginal citation: [S.I. 2009/890](https://www.legislation.gov.uk/uksi/2009/890); relevant amending instruments are [S.I. 2011/988](https://www.legislation.gov.uk/uksi/2011/988),
+
+    1043, 2013/3134 and 2015/1360 and [S.S.I. 2011/226](https://www.legislation.gov.uk/ssi/2011/226).
+
+[^c23759971]: Marginal citation: OJ No L 70, 8.3.2012, p 1.
+
+[^c23759981]: Marginal citation: OJ No L 312, 22.11.08, p.3.
+
+[^c23759991]: Marginal citation: OJ No L 182, 16.7.1999, p 1.
+
+[^c23760001]: Marginal citation: OJ No L 328, 10.12.2011, p 49.
+
+[^key-8b556e32f223867df065027ea6496c11]: Commencement: Reg. 7 in force at 28.2.2019, see reg. 1(2)(a)
+
+[^c23760011]: Marginal citation: [S.I. 2012/811](https://www.legislation.gov.uk/uksi/2012/811), amended by [S.I. 2012/2320](https://www.legislation.gov.uk/uksi/2012/2320): there are other amending instruments but none are relevant.
+
+[^key-312bb64fe3e441dad280f7dfc9c8e41a]: Commencement: Reg. 8 in force at 28.2.2019, see reg. 1(2)(a)
+
+[^c23760021]: Marginal citation: [S.I. 2013/3113](https://www.legislation.gov.uk/uksi/2013/3113); relevant amending instruments are [S.I. 2015/1968](https://www.legislation.gov.uk/uksi/2015/1968), 2016/738, 2018/942.
+
+[^c23760031]: Marginal citation: OJ No L 197, 24.7.2012, p. 38.
+
+[^key-916fdd06f4d0ff461aad19a8778a14f9]: Commencement: Reg. 9 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)(b)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2/b)
+
+[^key-e83ddbc7f244e31ee5db2278de2b2357]: Textual amendment: Reg. 9(2)(c) omitted (1.9.2020) by virtue of [The Road Vehicles (Approval) Regulations 2020 (S.I. 2020/818)](https://www.legislation.gov.uk/uksi/2020/818), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/818/regulation/1/b), [Sch. 6 para. 36(2)(a)](https://www.legislation.gov.uk/uksi/2020/818/schedule/6/paragraph/36/2/a) (with [Sch. 4 paras. 16](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/16), [17](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/17))
+
+[^key-12dc74fd7ce2cda0ca741287d22660fd]: Textual amendment: Words in [reg. 9(3)](https://www.legislation.gov.uk/uksi/2019/188/regulation/9/3) substituted (31.12.2020 immediately before IP completion day) by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/3), [11(3)(a)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/3/a)
+
+[^key-0d32e039a8006be0d55826611ff4b935]: Textual amendment: [Reg. 9(5)(b)](https://www.legislation.gov.uk/uksi/2019/188/regulation/9/5/b) substituted (31.12.2020 immediately before IP completion day) by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/3), [11(3)(b)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/3/b)
+
+[^key-fd0558f82d250a5fc25423ec3c8b8e64]: Textual amendment: Reg. 9(6) omitted (1.9.2020) by virtue of [The Road Vehicles (Approval) Regulations 2020 (S.I. 2020/818)](https://www.legislation.gov.uk/uksi/2020/818), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/818/regulation/1/b), [Sch. 6 para. 36(2)(b)](https://www.legislation.gov.uk/uksi/2020/818/schedule/6/paragraph/36/2/b) (with [Sch. 4 paras. 16](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/16), [17](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/17))
+
+[^key-58613188aaf292019aeaf6a02a2a43b0]: Textual amendment: [Reg. 9(10)](https://www.legislation.gov.uk/uksi/2019/188/regulation/9/10) substituted (31.12.2020 immediately before IP completion day) by [The Environment and Rural Affairs (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1078)](https://www.legislation.gov.uk/uksi/2019/1078), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1078/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/2019/1078/regulation/4/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-bb6553536b94decdb8b1927365e71f56]: Commencement: Reg. 10 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)(b)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2/b)
+
+[^c23760051]: Marginal citation: [1994 c. 39](https://www.legislation.gov.uk/ukpga/1994/39).
+
+[^c23760061]: Marginal citation: 1972\. c. 9 (N.I.); section 1 was amended by the [Local Government (Boundaries) Act (Northern Ireland) 2008 (c. 7)](https://www.legislation.gov.uk/nia/2008/7) (N.I.), section 3(1) and [S.I. 1985/454](https://www.legislation.gov.uk/uksi/1985/454).
+
+[^key-17802fe1dc73ef02b7a78c5ebe5f3059]: Textual amendment: Reg. 10(2)(e) omitted (1.9.2020) by virtue of [The Road Vehicles (Approval) Regulations 2020 (S.I. 2020/818)](https://www.legislation.gov.uk/uksi/2020/818), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/818/regulation/1/b), [Sch. 6 para. 36(3)(a)](https://www.legislation.gov.uk/uksi/2020/818/schedule/6/paragraph/36/3/a) (with [Sch. 4 paras. 16](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/16), [17](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/17))
+
+[^key-41799106189968838184de21bacc30ec]: Textual amendment: Words in reg. 10(3) substituted (31.12.2020 immediately before IP completion day) by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/3), [11(4)(a)(i)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/4/a/i)
+
+[^key-21de4e1c1ece7dfef897f3785027c2db]: Textual amendment: Words in reg. 10(3) substituted (31.12.2020 immediately before IP completion day) by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/3), [11(4)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/4/a/ii)
+
+[^key-535f27605fbd8b4bf07bae455b206e75]: Textual amendment: Words in reg. 10(3) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/3), [11(4)(a)(iii)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/4/a/iii)
+
+[^key-a8a37ab11dd42d37942a4e0c63b75677]: Textual amendment: Words in reg. 10(3) substituted (31.12.2020 immediately before IP completion day) by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/3), [11(4)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/4/b/i)
+
+[^key-337be701fbeeab7301c719e2c91b374d]: Textual amendment: Words in reg. 10(3) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/3), [11(4)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/4/b/ii)
+
+[^key-8eaa6bec57774e1dfb4a53dbb6650635]: Textual amendment: Words in reg. 10(3) substituted (31.12.2020 immediately before IP completion day) by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/3), [11(4)(b)(iii)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/4/b/iii)
+
+[^key-c316cfadf35633e2819ec10bbfada23d]: Textual amendment: Words in reg. 10(3) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/3), [11(4)(b)(iv)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/4/b/iv)
+
+[^key-103557420ec4d57a2b8b12945ba98ae2]: Textual amendment: Words in reg. 10(3) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/3), [11(4)(c)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/4/c)
+
+[^key-433c5fd092423c2f75c386c28422e4e2]: Textual amendment: Reg. 10(4) substituted (31.12.2020 immediately before IP completion day) by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/3), [11(4)(d)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/4/d)
+
+[^key-6c388adc473c9f7110147e3a60c7bffa]: Textual amendment: Reg. 10(5)(b) substituted (31.12.2020 immediately before IP completion day) by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/3), [11(4)(e)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/4/e)
+
+[^key-cba5e9ba5d0c1ab392c113ae4b61f624]: Textual amendment: Reg. 10(6)(b) omitted (1.9.2020) by virtue of [The Road Vehicles (Approval) Regulations 2020 (S.I. 2020/818)](https://www.legislation.gov.uk/uksi/2020/818), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/818/regulation/1/b), [Sch. 6 para. 36(3)(b)](https://www.legislation.gov.uk/uksi/2020/818/schedule/6/paragraph/36/3/b) (with [Sch. 4 paras. 16](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/16), [17](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/17))
+
+[^key-9c973d87271865840f05ddc3b7bf18a7]: Textual amendment: Reg. 10(7) inserted (31.12.2020 immediately before IP completion day) by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/3), [11(4)(f)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/4/f)
+
+[^key-bc43a127300c0ca9198048f48455d7c8]: Commencement: Reg. 11 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)(b)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2/b)
+
+[^key-816aa5b0cf1279aa0d6e98c07b62939a]: Textual amendment: Words in reg. 11(3) substituted (31.12.2020 immediately before IP completion day) by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/3), [11(5)(a)(i)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/5/a/i)
+
+[^c23760221]: Marginal citation: OJ No L 102, 11.4.2006, p 15, as amended by Regulation (EC) No 596/2009 of the European Parliament and of the Council (OJ No L 188, 18.7.2009, p 14).
+
+[^key-2bccecbbbf745e51f9f900511f321188]: Textual amendment: Words in reg. 11(3) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/3), [11(5)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/5/a/ii)
+
+[^key-a8b35c452c198d2494ff9d744afcbab0]: Textual amendment: Words in reg. 11(3) substituted (31.12.2020 immediately before IP completion day) by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/3), [11(5)(a)(iii)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/5/a/iii)
+
+[^key-604d3681ee105e2be9473142b38a2e52]: Textual amendment: Words in reg. 11(3) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/3), [11(5)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/5/b/i)
+
+[^c23760231]: Marginal citation: OJ No L 327, 22.12.2000, p 1, as last amended by Commission Directive 2014/101/EU (OJ No L 311, 31.10.2014, p 32).
+
+[^key-a6472c919995dc912376fb0ef497eb83]: Textual amendment: Words in reg. 11(3) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/3), [11(5)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/5/b/ii)
+
+[^c23760251]: Marginal citation: [S.I. 2003/3245](https://www.legislation.gov.uk/uksi/2003/3245), amended by [S.I. 2016/139](https://www.legislation.gov.uk/uksi/2016/139) and 2017/407.
+
+[^c23760261]: Marginal citation: [S.I. 2004/99](https://www.legislation.gov.uk/uksi/2004/99), amended by [S.I. 2016/139](https://www.legislation.gov.uk/uksi/2016/139); there are other amending instruments but none is relevant.
+
+[^c23760271]: Marginal citation: [S.I. 2017/407](https://www.legislation.gov.uk/uksi/2017/407), to which there are amendments not relevant to these Regulations.
+
+[^key-20abc6981aa8ceccf6968b6e295ccf54]: Textual amendment: Words in reg. 11(4)(b) substituted (31.12.2020 immediately before IP completion day) by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/3), [11(5)(c)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/5/c)
+
+[^key-4f42e6bc5edb1bb3f2dfec09e9131925]: Textual amendment: Words in reg. 11(7) inserted (31.12.2020 immediately before IP completion day) by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/3), [11(5)(d)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/5/d)
+
+[^key-0442f4276498a4481569e9b72e1207b8]: Commencement: Reg. 12 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)(b)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2/b)
+
+[^key-831640b626d27f87d5d5774c2a0dfbdf]: Textual amendment: [Reg. 12(2)(b)(i)](https://www.legislation.gov.uk/uksi/2019/188/regulation/12/2/b/i) substituted (31.12.2020 immediately before IP completion day) by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/3), [11(6)(a)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/6/a)
+
+[^key-73e95ac441a1a06058d268d0f7e15995]: Textual amendment: Words in [reg. 12(3)](https://www.legislation.gov.uk/uksi/2019/188/regulation/12/3) substituted (31.12.2020 immediately before IP completion day) by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/3), [11(6)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/6/b/i)
+
+[^key-45a221518d5366667f5dc01560e35f9c]: Textual amendment: Words in [reg. 12(3)](https://www.legislation.gov.uk/uksi/2019/188/regulation/12/3) substituted (31.12.2020 immediately before IP completion day) by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/3), [11(6)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/6/b/ii)
+
+[^key-9426b2fb46b847288d88dd0ff41afa3d]: Textual amendment: Words in [reg. 12(3)](https://www.legislation.gov.uk/uksi/2019/188/regulation/12/3) substituted (31.12.2020 immediately before IP completion day) by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/3), [11(6)(b)(iii)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/6/b/iii)
+
+[^key-39aa8b1375fa96d96d176cc8c519f0da]: Textual amendment: Words in [reg. 12(3)](https://www.legislation.gov.uk/uksi/2019/188/regulation/12/3) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/3), [11(6)(b)(iv)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/6/b/iv)
+
+[^key-f7d8dccc922890a7c72af6b63c5a672e]: Textual amendment: Words in [reg. 12(3)](https://www.legislation.gov.uk/uksi/2019/188/regulation/12/3) substituted (31.12.2020 immediately before IP completion day) by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/3), [11(6)(c)(i)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/6/c/i)
+
+[^key-fc6941c036b850e5624625836066a47d]: Textual amendment: Words in [reg. 12(3)](https://www.legislation.gov.uk/uksi/2019/188/regulation/12/3) substituted (31.12.2020 immediately before IP completion day) by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/3), [11(6)(c)(ii)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/6/c/ii)
+
+[^key-d033355f35a45e8dd0d110619d08d034]: Textual amendment: [Reg. 12(4)](https://www.legislation.gov.uk/uksi/2019/188/regulation/12/4) substituted (31.12.2020 immediately before IP completion day) by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/3), [11(6)(d)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/6/d)
+
+[^key-dd94813766509faf7304777493da1b90]: Textual amendment: [Reg. 12(4A)](https://www.legislation.gov.uk/uksi/2019/188/regulation/12/4A) inserted (31.12.2020 immediately before IP completion day) by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/3), [11(6)(e)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/6/e)
+
+[^key-c23573ead8bea1c2b10949b7125e6679]: Textual amendment: Words in [reg. 12(5)](https://www.legislation.gov.uk/uksi/2019/188/regulation/12/5) substituted (31.12.2020 immediately before IP completion day) by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/3), [11(6)(f)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/6/f)
+
+[^key-400899e53d5cb09493f6e2be03147105]: Commencement: Reg. 13 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)(b)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2/b)
+
+[^key-5df656fbe351eb9e66445a2784ab4d81]: Textual amendment: [Reg. 13(2)(b)](https://www.legislation.gov.uk/uksi/2019/188/regulation/13/2/b) substituted (31.12.2020 immediately before IP completion day) by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/3), [11(7)(a)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/7/a)
+
+[^key-c7cd2650bbb9fbcf73bcd0c7adff72ba]: Textual amendment: [Reg. 13(3)](https://www.legislation.gov.uk/uksi/2019/188/regulation/13/3) substituted (31.12.2020 immediately before IP completion day) by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/3), [11(7)(b)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/7/b)
+
+[^key-03bf8b8b407db72d46d6e2fa7539f4ab]: Textual amendment: Words in [reg. 13(4)(b)](https://www.legislation.gov.uk/uksi/2019/188/regulation/13/4/b) substituted (31.12.2020 immediately before IP completion day) by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/3), [11(7)(c)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/7/c)
+
+[^key-06d86f98d5a62df8ef9c094236447a15]: Commencement: Reg. 14 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)(b)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2/b)
+
+[^key-ea93d9a336ed8f633515c0b6ec7f138f]: Textual amendment: [Reg. 14(2)(a)(iv)](https://www.legislation.gov.uk/uksi/2019/188/regulation/14/2/a/iv) inserted (31.12.2020 immediately before IP completion day) by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/3), [11(8)(a)(i)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/8/a/i)
+
+[^key-a63477f40474b3b24619238a465d10f0]: Textual amendment: [Reg. 14(2)(b)](https://www.legislation.gov.uk/uksi/2019/188/regulation/14/2/b) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Environment and Rural Affairs (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1078)](https://www.legislation.gov.uk/uksi/2019/1078), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1078/regulation/1), [4(3)](https://www.legislation.gov.uk/uksi/2019/1078/regulation/4/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-819210eb70045f2fba3aea45b74740f8]: Textual amendment: [Reg. 14(2)(c)](https://www.legislation.gov.uk/uksi/2019/188/regulation/14/2/c) substituted (31.12.2020 immediately before IP completion day) by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/3), [11(8)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/8/a/ii)
+
+[^key-1404b221bfd20aff2beb723f4369a2db]: Textual amendment: Words in [reg. 14(3)](https://www.legislation.gov.uk/uksi/2019/188/regulation/14/3) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/3), [11(8)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/8/b/i)
+
+[^key-cd60a4e935fe6e94525cec69b4e9bcc9]: Textual amendment: Words in [reg. 14(3)](https://www.legislation.gov.uk/uksi/2019/188/regulation/14/3) substituted (31.12.2020 immediately before IP completion day) by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/3), [11(8)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/8/b/ii)
+
+[^key-f225c1b9d8a713b294fb803598f75657]: Textual amendment: Words in [reg. 14(3)](https://www.legislation.gov.uk/uksi/2019/188/regulation/14/3) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/3), [11(8)(b)(iii)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/8/b/iii)
+
+[^key-f372d82d8bbfa9c376737eed5d510dcb]: Textual amendment: Words in [reg. 14(3)](https://www.legislation.gov.uk/uksi/2019/188/regulation/14/3) substituted (31.12.2020 immediately before IP completion day) by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/3), [11(8)(b)(iv)(aa)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/8/b/iv/aa)
+
+[^key-fe8f2cf4eeea8f3c2b332fd63d88015c]: Textual amendment: Words in [reg. 14(3)](https://www.legislation.gov.uk/uksi/2019/188/regulation/14/3) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/3), [11(8)(b)(iv)(bb)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/8/b/iv/bb)
+
+[^key-92da95e199ac285ecb8e9353e2541dfa]: Textual amendment: [Reg. 14(3A)](https://www.legislation.gov.uk/uksi/2019/188/regulation/14/3A) inserted (31.12.2020 immediately before IP completion day) by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/3), [11(8)(c)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/8/c)
+
+[^key-46283d91a39d8a26d205269ccc11c5a8]: Textual amendment: Words in [reg. 14(9)](https://www.legislation.gov.uk/uksi/2019/188/regulation/14/9) substituted (31.12.2020 immediately before IP completion day) by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/3), [11(8)(d)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/8/d)
+
+[^key-bae7059b351d48139d3e551c5af55a4a]: Textual amendment: Words in [reg. 14(13)](https://www.legislation.gov.uk/uksi/2019/188/regulation/14/13) inserted (31.12.2020 immediately before IP completion day) by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/3), [11(8)(e)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/8/e)
+
+[^key-ec54ea1ca3aa5709fff3ff1180f72ca2]: Commencement: Reg. 15 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)(b)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2/b)
+
+[^c23760281]: Marginal citation: [S.I. 2009/1927](https://www.legislation.gov.uk/uksi/2009/1927), amended by [S.I. 2016/1154](https://www.legislation.gov.uk/uksi/2016/1154); there are other amending instruments but none is relevant.
+
+[^key-689466b2691b6aa08098ecec146142a1]: Textual amendment: Words in [reg. 15(3)](https://www.legislation.gov.uk/uksi/2019/188/regulation/15/3) substituted (31.12.2020 immediately before IP completion day) by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/3), [11(9)(a)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/9/a)
+
+[^c23760291]: Marginal citation: OJ No L 377, 31.12.1991, p 20, repealed by Directive 2008/98/EC of the European Parliament and of the Council (OJ No L 312, 22.11.2008, p 3).
+
+[^c23760301]: Marginal citation: OJ No 196, 16.8.1967, p 1 (Special Edition Series I Volume 1967 p 234), repealed by Regulation (EC) No 1272/2008 of the European Parliament and of the Council (OJ No L 353, 31.12.2008, p 1).
+
+[^c23760311]: Marginal citation: OJ No L 200, 30.7.1999, p 1, repealed by Regulation (EC) No 1272/2008 of the European Parliament and of the Council (OJ No L 353, 31.12.2008, p 1).
+
+[^c23760321]: Marginal citation: See for example the [Coastal Protection Act 1949 (c.74)](https://www.legislation.gov.uk/ukpga/1949/74), the [Salmon and Freshwater Fisheries Act 1975 (c.51)](https://www.legislation.gov.uk/ukpga/1975/51), the [Food and Environment Protection Act 1985 (c.48)](https://www.legislation.gov.uk/ukpga/1985/48), the [Environmental Protection Act 1990 (c.43)](https://www.legislation.gov.uk/ukpga/1990/43), the [Water Industry Act 1991 (c.56)](https://www.legislation.gov.uk/ukpga/1991/56), the [Water Resources Act 1991 (c.57)](https://www.legislation.gov.uk/ukpga/1991/57), the [Land Drainage Act 1991 (c.59)](https://www.legislation.gov.uk/ukpga/1991/59), the [Environment Act 1995 (c.25)](https://www.legislation.gov.uk/ukpga/1995/25), the [Water Act 2003 (c.37)](https://www.legislation.gov.uk/ukpga/2003/37), the [Marine and Coastal Access Act 2009 (c.23)](https://www.legislation.gov.uk/ukpga/2009/23), and [S.I. 1986/1510](https://www.legislation.gov.uk/uksi/1986/1510), 1989/1263, 1994/2941, 2001/2954, 2003/3245, 2004/99, 2007/1518, 2009/995 (W 81), 3104, 2010/639,
+
+    740, 1493 (W 136),
+
+    2011/735, 2015/483, 668, 810, 2016/614, 2017/407, 2018/151
+
+[^c23760331]: Marginal citation: OJ No L 175, 5.7.1985, p 40, repealed by Directive 2011/92/EU of the European Parliament and of the Council (OJ No L 26, 28.1.2012, p 1).
+
+[^c23760341]: Marginal citation: OJ No L 26, 28.1.2012, p 1, as amended by Directive 2014/52/EU of the European Parliament and of the Council (OJ No L 124, 25.4.2014, p 1).
+
+[^c23760351]: Marginal citation: See for example [S.I. 2012/698](https://www.legislation.gov.uk/uksi/2012/698), 2014/557,
+
+    615, 2015/398, 446, 660, 810, 1937 (W 291), 2017/280 (W 74), 407, 565 (W 134), 567 (W 136), 571, 572,
+
+    580, 582, 583, 585, 588, 592, 593, 1070,
+
+    2018/695, 798, 834.
+
+[^c23760361]: Marginal citation: OJ No L 129, 18.5.1976, p 23, repealed by Directive 2006/11/EC of the European Parliament and of the Council (OJ No L 64, 4.3.2006, p 52).
+
+[^c23760371]: Marginal citation: OJ No L 20, 26.1.1980, p 43, repealed by Directive 2000/60/EC of the European Parliament and of the Council (OJ No L 327, 22.12.2000, p 1).
+
+[^key-686fe48aad342f4a50838c67c69194b1]: Textual amendment: Words in [reg. 15(3)](https://www.legislation.gov.uk/uksi/2019/188/regulation/15/3) substituted (31.12.2020 immediately before IP completion day) by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/3), [11(9)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/9/b/i)
+
+[^key-c59aba8e54619d222cf15b546673a9ee]: Textual amendment: Words in [reg. 15(3)](https://www.legislation.gov.uk/uksi/2019/188/regulation/15/3) substituted (31.12.2020 immediately before IP completion day) by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/3), [11(9)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/9/b/ii)
+
+[^key-7ccbf26b51613b72432a5c6cd1d5724d]: Textual amendment: Words in [reg. 15(3)](https://www.legislation.gov.uk/uksi/2019/188/regulation/15/3) substituted (31.12.2020 immediately before IP completion day) by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/3), [11(9)(b)(iii)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/9/b/iii)
+
+[^key-2f2e11d7b512f7258bcc2082ca757e0c]: Textual amendment: Words in [reg. 15(3)](https://www.legislation.gov.uk/uksi/2019/188/regulation/15/3) substituted (31.12.2020 immediately before IP completion day) by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/3), [11(9)(c)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/9/c)
+
+[^key-dc58e2838456f0c6a520c3f559492677]: Commencement: Reg. 16 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)(b)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2/b)
+
+[^c23760381]: Marginal citation: [S.I. 2011/988](https://www.legislation.gov.uk/uksi/2011/988); relevant amending instruments are [S.I. 2016/728](https://www.legislation.gov.uk/uksi/2016/728),
+
+    691 (W.189), 2018/575, 721 (W.140).
+
+[^key-d8f7b6d035b2e0389d3459b36245977b]: Textual amendment: Words in [reg. 16(2)(b)](https://www.legislation.gov.uk/uksi/2019/188/regulation/16/2/b) substituted (31.12.2020 immediately before IP completion day) by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/3), [11(10)(a)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/10/a)
+
+[^key-182fe87b8429052be566d71bf2902fc7]: Textual amendment: Words in [reg. 16(3)](https://www.legislation.gov.uk/uksi/2019/188/regulation/16/3) substituted (31.12.2020 immediately before IP completion day) by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/3), [11(10)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/10/b/i)
+
+[^key-14a987c98af5b568ef26f52b1abf4d83]: Textual amendment: Words in [reg. 16(3)](https://www.legislation.gov.uk/uksi/2019/188/regulation/16/3) substituted (31.12.2020 immediately before IP completion day) by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/3), [11(10)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/10/b/ii)
+
+[^key-8a8ff02152e0a36a6d12ba7321632b0b]: Textual amendment: Words in [reg. 16(3)](https://www.legislation.gov.uk/uksi/2019/188/regulation/16/3) substituted (31.12.2020 immediately before IP completion day) by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/3), [11(10)(c)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/10/c)
+
+[^key-e368de393df2953f2bbab4f068b4c576]: Textual amendment: Words in [reg. 16(3)](https://www.legislation.gov.uk/uksi/2019/188/regulation/16/3) substituted (31.12.2020 immediately before IP completion day) by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/3), [11(10)(d)(i)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/10/d/i)
+
+[^key-62485542dacce64fa88d377fb5a55819]: Textual amendment: Words in [reg. 16(3)](https://www.legislation.gov.uk/uksi/2019/188/regulation/16/3) substituted (31.12.2020 immediately before IP completion day) by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/3), [11(10)(d)(ii)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/10/d/ii)
+
+[^key-a0413e15b52a8dbf12b498e450ab87e2]: Textual amendment: Words in [reg. 16(3)](https://www.legislation.gov.uk/uksi/2019/188/regulation/16/3) inserted (31.12.2020 immediately before IP completion day) by [The Environment and Rural Affairs (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1078)](https://www.legislation.gov.uk/uksi/2019/1078), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1078/regulation/1), [4(4)(a)](https://www.legislation.gov.uk/uksi/2019/1078/regulation/4/4/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-b7e82772e32dcd1ab53961fb5bcd5276]: Textual amendment: Words in [reg. 16(3)](https://www.legislation.gov.uk/uksi/2019/188/regulation/16/3) substituted (31.12.2020 immediately before IP completion day) by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/3), [11(10)(d)(iii)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/10/d/iii)
+
+[^c23760391]: Marginal citation: [S.I. 2016/1154](https://www.legislation.gov.uk/uksi/2016/1154), to which there are amendments not relevant to these Regulations.
+
+[^key-96a7fef2ed8ae2eefae8f322f082876b]: Textual amendment: Words in [reg. 16(3)](https://www.legislation.gov.uk/uksi/2019/188/regulation/16/3) inserted (31.12.2020 immediately before IP completion day) by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/3), [11(10)(d)(iv)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/10/d/iv)
+
+[^key-9717b4731c7fc99ab5a062d50c026555]: Textual amendment: Words in [reg. 16(5)(a)](https://www.legislation.gov.uk/uksi/2019/188/regulation/16/5/a) inserted (31.12.2020 immediately before IP completion day) by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/3), [11(10)(e)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/10/e)
+
+[^key-d87b6b0a7dd37d7fe0d20e87ff33d973]: Textual amendment: Words in [reg. 16(5)(c)(i)](https://www.legislation.gov.uk/uksi/2019/188/regulation/16/5/c/i) inserted (31.12.2020 immediately before IP completion day) by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/3), [11(10)(e)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/10/e)
+
+[^key-396ca7371ef8260b829d7af81070f2c1]: Textual amendment: [Reg. 16(6)(za)](https://www.legislation.gov.uk/uksi/2019/188/regulation/16/6/za) inserted (31.12.2020 immediately before IP completion day) by [The Environment and Rural Affairs (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1078)](https://www.legislation.gov.uk/uksi/2019/1078), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1078/regulation/1), [4(4)(b)](https://www.legislation.gov.uk/uksi/2019/1078/regulation/4/4/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-8b05b6700c90de22e26c281c806f83e8]: Textual amendment: [Reg. 16(6)(a)](https://www.legislation.gov.uk/uksi/2019/188/regulation/16/6/a) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/3), [11(10)(f)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/10/f)
+
+[^key-019c008eb62101109a8285e3b181c75f]: Commencement: Reg. 17 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)(b)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2/b)
+
+[^key-f68f8445ed36c6217c36432ae2defd8c]: Textual amendment: Reg. 17(2)(aa) inserted (31.12.2020 immediately before IP completion day) by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/3), [11(11)(a)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/11/a)
+
+[^key-9bb7e91bfa26055a02acf836f0852f3a]: Textual amendment: Words in reg. 17(3) substituted (31.12.2020 immediately before IP completion day) by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/3), [11(11)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/11/b/i)
+
+[^key-8bff7f7a3a0273aac044d5f252bd283d]: Textual amendment: Words in reg. 17(3) substituted (31.12.2020 immediately before IP completion day) by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/3), [11(11)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/11/b/ii)
+
+[^key-098be2e99ed042e377d9fd3b55e5f408]: Textual amendment: Words in reg. 17(3) substituted (31.12.2020 immediately before IP completion day) by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/3), [11(11)(c)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/11/c)
+
+[^key-8be036e8d132d7ac86ef5a8871951774]: Commencement: Reg. 18 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)(b)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2/b)
+
+[^c23760411]: Marginal citation: [S.I. 2012/3032](https://www.legislation.gov.uk/uksi/2012/3032), amended by [S.I. 2018/942](https://www.legislation.gov.uk/uksi/2018/942); there are other amending instruments but none is relevant.
+
+[^key-3870e3072e5a2e1d15c96c1935eb16b4]: Textual amendment: [Reg. 18(2)(c)](https://www.legislation.gov.uk/uksi/2019/188/regulation/18/2/c) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Hazardous Substances and Packaging (Legislative Functions and Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1647)](https://www.legislation.gov.uk/uksi/2020/1647), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1647/regulation/1/2), [16(2)](https://www.legislation.gov.uk/uksi/2020/1647/regulation/16/2)
+
+[^key-8f160837dfa108074170f5f44c45c084]: Textual amendment: [Reg. 18(2)(e)](https://www.legislation.gov.uk/uksi/2019/188/regulation/18/2/e) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Hazardous Substances and Packaging (Legislative Functions and Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1647)](https://www.legislation.gov.uk/uksi/2020/1647), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1647/regulation/1/2), [16(2)](https://www.legislation.gov.uk/uksi/2020/1647/regulation/16/2)
+
+[^key-0f55fba2574976455f5f2e80f30bcd91]: Textual amendment: [Reg. 18(2)(f)](https://www.legislation.gov.uk/uksi/2019/188/regulation/18/2/f) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Hazardous Substances and Packaging (Legislative Functions and Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1647)](https://www.legislation.gov.uk/uksi/2020/1647), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1647/regulation/1/2), [16(2)](https://www.legislation.gov.uk/uksi/2020/1647/regulation/16/2)
+
+[^c23760421]: Marginal citation: OJ No L, 252, 16.9.2016, p. 53.
+
+[^c23760431]: Marginal citation: S.I 2002/618, amended by [S.I. 2003/1697](https://www.legislation.gov.uk/uksi/2003/1697) and 2007/400: there are other amending instruments but none is relevant.
+
+[^c23760441]: Marginal citation: OJ No L 218, 13.8.2008, p.82.
+
+[^key-ab38a15ef9252821bcbf2050894e4b9d]: Textual amendment: Words in [reg. 18(25)(c)](https://www.legislation.gov.uk/uksi/2019/188/regulation/18/25/c) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Environment and Rural Affairs (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1078)](https://www.legislation.gov.uk/uksi/2019/1078), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1078/regulation/1), [4(5)](https://www.legislation.gov.uk/uksi/2019/1078/regulation/4/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-810219dc6502bc889da633d6da106e64]: Commencement: Reg. 19 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)(b)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2/b)
+
+[^c23760451]: Marginal citation: [S.I. 2002/618](https://www.legislation.gov.uk/uksi/2002/618), amended by [S.I. 2008/2936](https://www.legislation.gov.uk/uksi/2008/2936): there are other amending instruments but none is relevant.
+
+[^key-1c4b8d353a63c90a0a61c9ad81e97b53]: Textual amendment: Reg. 19(2)(ga) inserted (31.12.2020 immediately before IP completion day) by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/3), [11(12)(a)(i)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/12/a/i)
+
+[^key-b846d9df7670aeb13a020b2e568f7a98]: Textual amendment: Reg. 19(2)(j) inserted (31.12.2020 immediately before IP completion day) by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/3), [11(12)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/12/a/ii)
+
+[^key-9a140d3450a41ac5cf026a4b50703f2f]: Textual amendment: Words in reg. 19(3) substituted (31.12.2020 immediately before IP completion day) by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/3), [11(12)(b)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/12/b)
+
+[^c23760461]: Marginal citation: [S.I. 1997/2778 (N.I. 19)](https://www.legislation.gov.uk/nisi/1997/2778).
+
+[^c23760471]: Marginal citation: S.R. [2013 No. 160](https://www.legislation.gov.uk/ukcm/2013/160), amended by S.R. [2014 No. 304](https://www.legislation.gov.uk/ukcm/2014/304); there are other amending instruments but none is relevant.
+
+[^c23760481]: Marginal citation: Section 35 was amended by paragraph 66(2) of Schedule 22 to the [Environment Act 1995 (c.25)](https://www.legislation.gov.uk/ukpga/1995/25), by paragraph 3(20 of Part 1 of Schedule 3 to the [Regulatory Reform (Scotland) Act 2014 (asp 3)](https://www.legislation.gov.uk/asp/2014/3) and by [S.S.I. 2000/323](https://www.legislation.gov.uk/ssi/2000/323) and 2011/226.
+
+[^c23760491]: Marginal citation: OJ No L 243, 24.9.1996, p 31, as amended by Regulation (EC) No 596/2009 of the European Parliament and of the Council (OJ No L 188, 18.7.2009, p 14).
+
+[^c23760501]: Marginal citation: OJ No L 343, 13.12.1997, p 19, repealed by Regulation (EC) No 1272/2008 of the European Parliament and of the Council (OJ No L 353, 31.12.2008, p 1).
+
+[^c23760511]: Marginal citation: [S.I. 2000/1043](https://www.legislation.gov.uk/uksi/2000/1043), amended by [S.I. 2000/3359](https://www.legislation.gov.uk/uksi/2000/3359), 2005/894, 1806 (W 138), 2010/1159, 1820 (W 177), 2011/988, 2013/755 (W 90).
+
+[^c23760521]: Marginal citation: S.S.I 2000/95, to which there are amendments not relevant to these Regulations.
+
+[^c23760531]: Marginal citation: S.R. [2000 No. 232](https://www.legislation.gov.uk/ukcm/2000/232), to which there are amendments not relevant to these Regulations.
+
+[^key-259e38cff5d903761190348262410c48]: Textual amendment: Words in reg. 19(3) substituted (31.12.2020 immediately before IP completion day) by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/3), [11(12)(c)(i)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/12/c/i)
+
+[^key-e96be9a61eceb0c9e0eb4a29736b53c9]: Textual amendment: Words in reg. 19(3) substituted (31.12.2020 immediately before IP completion day) by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/3), [11(12)(c)(ii)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/12/c/ii)
+
+[^key-53736ab5c432b533aac8b634772e7d9d]: Textual amendment: Words in reg. 19(3) inserted (31.12.2020 immediately before IP completion day) by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/3), [11(12)(c)(iii)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/12/c/iii)
+
+[^key-834431849d99ea1d86ef30546a8ba67c]: Textual amendment: Words in reg. 19(3) substituted (31.12.2020 immediately before IP completion day) by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/3), [11(12)(d)(i)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/12/d/i)
+
+[^c23760541]: Marginal citation: [S.I. 2018/482](https://www.legislation.gov.uk/uksi/2018/482).
+
+[^key-d3e7d4ec8c59452dd191b78d42a317be]: Textual amendment: Words in reg. 19(3) substituted (31.12.2020 immediately before IP completion day) by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/3), [11(12)(d)(ii)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/12/d/ii)
+
+[^key-65542bd56f655e444b4bb58052dbced7]: Textual amendment: Word in reg. 19(5)(a) inserted (31.12.2020 immediately before IP completion day) by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/3), [11(12)(e)(i)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/12/e/i)
+
+[^key-f61cbeebe01add2c8fdc80ddf0383280]: Textual amendment: Words in reg. 19(5)(b) inserted (31.12.2020 immediately before IP completion day) by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/3), [11(12)(e)(ii)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/12/e/ii)
+
+[^key-7eebaddbb26cd650db36af88844df14f]: Commencement: Reg. 20 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)(b)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2/b)
+
+[^c23760551]: Marginal citation: [S.I. 2015/1640](https://www.legislation.gov.uk/uksi/2015/1640), amended by [S.I. 2018/942](https://www.legislation.gov.uk/uksi/2018/942).
+
+[^key-b61e773985e17d8acc40e9331516430e]: Textual amendment: Words in [reg. 20(3)](https://www.legislation.gov.uk/uksi/2019/188/regulation/20/3) substituted (31.12.2020 immediately before IP completion day) by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/3), [11(13)(a)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/13/a)
+
+[^key-0c533aaaff242cba3172cd217989dcdf]: Textual amendment: [Reg. 20(5)(a)](https://www.legislation.gov.uk/uksi/2019/188/regulation/20/5/a) substituted (31.12.2020 immediately before IP completion day) by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/3), [11(13)(b)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/13/b)
+
+[^c23760561]: Marginal citation: www.cenorm.be.
+
+[^key-6ede838f6f55e5dd358e2aba5dfa2ade]: Textual amendment: [Reg. 20(6)](https://www.legislation.gov.uk/uksi/2019/188/regulation/20/6) substituted (31.12.2020 immediately before IP completion day) by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/3), [11(13)(c)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/13/c)

@@ -1,0 +1,133 @@
+---
+title: The Cremation (England and Wales) (Amendment) Regulations 2022
+id: uksi/2022/218
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2022-03-02'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2022/218
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2022/218/pdfs/uksiem_20220218_en.pdf
+- http://www.legislation.gov.uk/uksi/2022/218/pdfs/uksi_20220218_en.pdf
+- http://www.legislation.gov.uk/uksi/2022/218/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Cremation (England and Wales) (Amendment) Regulations 2022
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2022 No. 218
+
+Cremation, England And Wales
+
+The Cremation (England and Wales) (Amendment) Regulations 2022
+
+Made
+
+2nd March 2022
+
+Laid before Parliament
+
+4th March 2022
+
+Coming into force
+
+25th March 2022
+
+The Secretary of State makes the following Regulations in exercise of the powers conferred by section 7 of the Cremation Act 1902[^f00001]:
+
+## 1. Citation and Commencement
+
+These Regulations may be cited as the Cremation (England and Wales) (Amendment) Regulations 2022 and come into force on 25th March 2022.
+
+## 2. Amendment of the Cremation (England and Wales) Regulations 2008
+
+The Cremation (England and Wales) Regulations 2008[^f00002] are amended as follows.
+
+## 3. Amendment of regulation 2 (interpretation)
+
+In regulation 2(1), for the definition commencing “medical certificate” and including “confirmatory medical certificate” substitute with—
+
+> (1) “**medical certificate**” is a reference to the certificate so named given in accordance with regulation 17(1);
+
+## 4. Amendment of regulation 12 (supplementary powers of medical referee)
+
+In regulation 12, omit sub-paragraph (a).
+
+## 5. Amendment of regulation 14 (forms)
+
+In regulation 14(2)(b)(i), omit “the confirmatory medical certificate,”.
+
+## 6. Amendment of regulation 16
+
+In regulation 16(1)(c)(i) —
+
+- (a) for “and, subject to regulation 17(3), a confirmatory medical certificate are” substitute “is”, and
+- (b) omit “and (2) respectively”.
+
+## 7. Amendment of regulation 17 (medical certificate and confirmatory medical certificate)
+
+In regulation 17—
+
+- (a) in the heading omit “and confirmatory medical certificate”, and
+- (b) omit paragraphs (2), (3) and (4).
+
+## 8. Amendment of regulation 22 (right to inspect medical certificate and confirmatory medical certificate)
+
+In regulation 22—
+
+- (a) in the heading omit “and confirmatory medical certificate”,
+- (b) in paragraph 1(a)(i) omit “and confirmatory medical certificate”,
+- (c) in paragraph 1(a)(ii) for “those certificates” substitute “that certificate”,
+- (d) in paragraph (2) omit “and confirmatory medical certificate” and for “those certificates” substitute “that certificate”,
+- (e) in paragraph (3)(a) omit “and confirmatory medical certificate”, and
+- (f) in paragraph (3)(b) for “such a” substitute “the”.
+
+## 9. Amendment of regulation 23 (authorisation of cremation of the remains of a deceased person by medical referee)
+
+In regulation 23—
+
+- (a) in paragraph (1)(d)(ii), for “certificates have”, substitute “a certificate has”, and
+- (b) in paragraph (2), omit, “and confirmatory medical certificate”.
+
+## 10. Amendment of regulation 24 (medical referee not satisfied about the cause of death of the deceased person)
+
+In regulation 24(4)(b), omit “or confirmatory medical certificate”.
+
+## 11. Amendment of regulation 33 (register kept by registrar)
+
+In regulation 33(2)(k), omit “and confirmatory medical certificate”.
+
+## 12. Amendment of Schedule 1 (Forms)
+
+In Schedule 1, omit the Cremation 5 Form which is headed “Confirmatory medical certificate”.
+
+Tom Pursglove
+
+Parliamentary Under Secretary of State
+
+Ministry of Justice
+
+2nd March 2022
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+The Cremation (England and Wales) Regulations 2008 set out the conditions that must be met before the body of a deceased person may be cremated.
+
+This instrument amends those Regulations by making permanent the changes introduced on 26th March 2020 by section 19 of the Coronavirus Act [2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7) and which removed the need for a confirmatory medical certificate. This change was made to allow cremations to take place without the need for additional medical practitioner oversight so as to reduce the burden on healthcare professions; and free them to support the response to the pandemic. It was also intended to reduce the likelihood of delays to families who were making cremation arrangements.
+
+When the Coronavirus Act 2020 reaches its sunset date of 24th March 2022, without these amending Regulations, the Regulations would revert to their pre-26th March 2020 form and a confirmatory medical certificate would be required from that date. The role of the medical examiner, as provided for under sections 19 and 20 of the Coroners and Justice Act [2009 (c. 25)](https://www.legislation.gov.uk/ukpga/2009/25), is expected to be extended in 2022, thus rendering the confirmatory medical certificate unnecessary. To avoid possible confusion in the funeral sector in the intervening months, the need for a confirmatory medical certificate will not be reintroduced.
+
+## Annotations
+
+[^f00001]: Footnote: [1902 c. 8](https://www.legislation.gov.uk/ukpga/1902/8). Section 7 was amended by Part 5 of Schedule 11 to the Finance Act [1949 (c. 47)](https://www.legislation.gov.uk/ukpga/1949/47) And by section 2(1) and (2) of the Cremation Act [1952 (c. 31)](https://www.legislation.gov.uk/ukpga/1952/31). By virtue of section 10 of the Births and Deaths Registration Act [1926 (c. 48)](https://www.legislation.gov.uk/ukpga/1926/48), the power to make regulations under section 7 of the Cremation Act 1902 includes a power to make regulations for the purpose of applying the provisions of the Births and Deaths Registration Act 1926 to cases where human remains are disposed of by cremation
+
+[^f00002]: Footnote: [S.I. 2008/2841](https://www.legislation.gov.uk/uksi/2008/2841), as amended by [S.I.2013/1869](https://www.legislation.gov.uk/uksi/2013/1869), [2015/1360](https://www.legislation.gov.uk/uksi/2015/1360), [2016/883](https://www.legislation.gov.uk/uksi/2016/883), [2016/1154](https://www.legislation.gov.uk/uksi/2016/1154) and [2017/1238](https://www.legislation.gov.uk/uksi/2017/1238).

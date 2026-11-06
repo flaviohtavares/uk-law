@@ -1,0 +1,96 @@
+---
+title: The Council Tax (Dwellings) (Scotland) Regulations 1997
+id: uksi/1997/673
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '1997-03-05'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1997/673
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1997/673/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Council Tax (Dwellings) (Scotland) Regulations 1997
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+1997 No. 673 (S.43)
+
+COUNCIL TAX, SCOTLAND
+
+The Council Tax (Dwellings) (Scotland) Regulations 1997
+
+Made
+
+5th March 1997
+
+Laid before Parliament
+
+10th March 1997
+
+Coming into force
+
+1st April 1997
+
+The Secretary of State, in exercise of the powers conferred on him by sections 72(4) and 116(1) of the Local Government Finance Act 1992[^f00001] and of all other powers enabling him in that behalf, hereby makes the following Regulations:
+
+## 1. Citation, commencement and interpretation
+
+(1) These Regulations may be cited as the Council Tax (Dwellings) (Scotland) Regulations 1997 and shall come into force on 1st April 1997.
+
+(2) In these Regulations–
+
+- “the Act” means the Local Government Finance Act 1992;
+- “prison” includes a remand centre provided under paragraph (a) of subsection (1) of section 19 of the Prisons (Scotland) Act 1989[^f00002] and a young offenders institution provided under paragraph (b) of that subsection, but does not include a naval, military or air force prison.
+
+## 2. Variation of definition of dwelling
+
+(1) The definition of dwelling in section 72(2) of the Act is hereby further varied[^f00003] by including as a dwelling, subject to paragraph (2) below, any lands and heritages or parts thereof–
+
+- (a) which constitute, or form part of, a prison;
+- (b) which are used as one or more of the following:–
+  - (i) a cell (other than a special punishment cell);
+  - (ii) a common recreational area (other than a sports hall or an uncovered area);
+  - (iii) a library;
+  - (iv) a chapel;
+  - (v) a kitchen;
+  - (vi) a dining room;
+  - (vii) toilets;
+  - (viii) personal washing facilities;
+  - (ix) a laundry for the exclusive use of prisoners;
+  - (x) a storage area which is within a cell block and which is used in connection with other premises covered by this sub-paragraph;
+  - (xi) a corridor linking premises covered by this sub-paragraph; and
+  - (xii) boiler or plant room which to any extent serves other premises covered by this sub-paragraph; and
+- (c) which would, but for the provisions of section 73(1) of the Act–
+  - (i) be entered separately in the valuation roll; or
+  - (ii) in the case of parts of lands and heritages, form part of a separate entry in the valuation roll.
+
+(2) There shall not be included as a dwelling, or part of a dwelling, any kitchen, dining room, toilets or personal washing facilities which are provided for the exclusive use of persons employed in the prison in question.
+
+George Kynoch
+
+Parliamentary Under Secretary of State, Scottish Office
+
+St Andrew’s House,
+
+Edinburgh
+
+5th March 1997
+
+(This note is not part of the Regulations)
+
+These Regulations make provision as to how prisons in Scotland are to be treated, as from 1st April 1997, for the purposes of local taxation. Regulation 2(1)(b) specifies those parts of a prison which are to be treated as “a dwelling”. These parts will give rise to a liability for council tax. The remaining parts of a prison will give rise to a liability for non-domestic rates.
+
+## Annotations
+
+[^f00001]: Footnote: [1992 c. 14](https://www.legislation.gov.uk/ukpga/1992/14); section 116(1) contains a definition of “prescribed” relevant to the exercise of the statutory powers under which these Regulations are made.
+
+[^f00002]: Footnote: [1989 c. 45](https://www.legislation.gov.uk/ukpga/1989/45).
+
+[^f00003]: Footnote: The definition of dwelling was previously varied by S.I. [1992/1334](https://www.legislation.gov.uk/uksi/1992/1334) and [2955](https://www.legislation.gov.uk/uksi/1992/2955) and [1993/526](https://www.legislation.gov.uk/uksi/1993/526).

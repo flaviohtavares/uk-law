@@ -1,0 +1,100 @@
+---
+title: The Criminal Justice Act 1982 (Isle of Man) Order 1992
+id: uksi/1992/2670
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '1992-10-28'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1992/2670
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1992/2670/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Criminal Justice Act 1982 (Isle of Man) Order 1992
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+1992 No. 2670
+
+CRIMINAL LAW, ENGLAND AND WALES
+
+The Criminal Justice Act 1982 (Isle of Man) Order 1992
+
+Made
+
+28th October 1992
+
+Coming into force
+
+1st December 1992
+
+At the Court at Buckingham Palace, the 28th day of October 1992
+
+Present,
+
+The Queen’s Most Excellent Majesty in Council
+
+Her Majesty, in pursuance of section 81(11) of the Criminal Justice Act 1982[^f00001] and section 102(7) of the Criminal Justice Act 1991[^f00002], is pleased, by and with the advice of Her Privy Council, to order, and it is hereby ordered, as follows:
+
+**1.** This Order may be cited as the Criminal Justice Act 1982 (Isle of Man) Order 1992 and shall come into force on 1st December 1992.
+
+**2.** It is hereby directed that–
+
+- (a) section 37 of the Criminal Justice Act 1982 as amended by section 17(1) of the Criminal Justice Act 1991; and
+- (b) section 32 of the Magistrates' Courts Act 1980[^f00003] as amended by section 17(2) of the Criminal Justice Act 1991,
+
+shall extend to the Isle of Man subject to the modifications specified in the Schedule to this Order.
+
+**3.** Article 2 of and paragraphs 2 and 4 of Schedule 1 to the Criminal Justice Act 1982 (Isle of Man) Order 1983[^f00004] are hereby revoked to the extent that they relate to section 37 of the Criminal Justice Act 1982 and section 32 of the Magistrates' Courts Act 1980.
+
+G. I. de Deney
+
+Clerk of the Privy Council
+
+## SCHEDULE — MODIFICATIONS IN THE EXTENSION OF PROVISIONS TO THE ISLE OF MAN
+
+Article 2
+
+**1.** In section 37(3) of the Criminal Justice Act 1982, for all the words from the beginning to “after this Act)” there shall be substituted the words “Where any enactment contained in an Act of Parliament and extending to the Isle of Man (whether that Act was passed before or after this Act)”.
+
+**2.** In section 32 of the Magistrates' Courts Act 1980–
+
+- (a) for subsection (1) there shall be substituted the following subsection:
+
+  > (1) On summary conviction of any offence under section 3 of the Submarine Telegraph Act 1885[^f00005] (damaging submarine cables) a person shall be liable to imprisonment for a term not exceeding 6 months or to a fine not exceeding the prescribed sum or both.
+
+  ;
+- (b) in subsection (2), for the words “listed in Schedule 1 to this Act, being” there shall be substituted the words “an offence mentioned in subsection (1) above but which is”;
+- (c) subsections (5) and (8) shall be omitted;
+- (d) in subsection (9), after the words “In this section” there shall be inserted the following definition:
+
+  > “enactment” means an enactment contained in an Act of Parliament and extending to the Isle of Man
+
+  ; and
+- (e) in subsection (9), after the definition of “fine” there shall be inserted the following definition:
+
+  > “offence triable either way” means an offence under an enactment, being an offence triable either on information or summarily;
+
+  .
+
+(This note is not part of the Order)
+
+This Order extends to the Isle of Man, subject to modifications, provisions of the Magistrates' Courts Act 1980 and the Criminal Justice Act 1982 which impose maximum levels on certain fines and create a standard scale of fines respectively; those provisions are extended as amended by section 17 of the Criminal Justice Act 1991, which increased the levels. An earlier Order extending those provisions is revoked in part.
+
+## Annotations
+
+[^f00001]: Footnote: [1982 c. 48](https://www.legislation.gov.uk/ukpga/1982/48).
+
+[^f00002]: Footnote: [1991 c. 53](https://www.legislation.gov.uk/ukpga/1991/53).
+
+[^f00003]: Footnote: [1980 c. 43](https://www.legislation.gov.uk/ukpga/1980/43).
+
+[^f00004]: Footnote: S.I. [1983/1898](https://www.legislation.gov.uk/uksi/1983/1898).
+
+[^f00005]: Footnote: [1885 c. 49](https://www.legislation.gov.uk/ukpga/1885/49).

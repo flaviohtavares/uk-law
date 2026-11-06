@@ -1,0 +1,1566 @@
+---
+title: The Branded Health Service Medicines (Costs) Regulations 2018
+id: uksi/2018/345
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2018-03-08'
+text_date: '2026-07-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2018/345
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2018/345/pdfs/uksiem_20180345_en.pdf
+- http://www.legislation.gov.uk/uksi/2018/345/pdfs/uksi_20180345_en.pdf
+- http://www.legislation.gov.uk/uksi/2018/345/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Branded Health Service Medicines (Costs) Regulations 2018
+
+> Text as at 2026-07-01.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2018 No. 345
+
+National Health Service, England And Wales
+
+National Health Service, Scotland
+
+Health And Personal Social Services, Northern Ireland
+
+The Branded Health Service Medicines (Costs) Regulations 2018
+
+Made
+
+8th March 2018
+
+Laid before Parliament
+
+9th March 2018
+
+Coming into force
+
+1st April 2018
+
+The Secretary of State for Health and Social Care makes the following Regulations in exercise of the powers in sections 263(1), (2), (4), (5A) and (6), 264A(2), (5) and (7), 265(1), (3), (4), (5) and (5A), 266(1) and (2) and 272(7) and (8) of the National Health Service Act 2006 [^c22928981] and in accordance with sections 266(3), (4) and (4A) of that Act.
+
+The Secretary of State has consulted in accordance with sections 263(1), 263(1A), 264C(1) and 265(9) of the National Health Service Act 2006.
+
+## 1. Citation, commencement and interpretation
+
+(1) These Regulations may be cited as the Branded Health Service Medicines (Costs) Regulations 2018 and come into force on 1st April 2018.
+
+(2) In these Regulations—
+
+- “**the 1978 Act**” means the National Health Service (Scotland) Act 1978 [^c22928991];
+- “**the 2006 Act**” means the National Health Service Act 2006;
+- “**the 2006 Wales Act**” means the National Health Service (Wales) Act 2006 [^c22929001];
+- “**the 2008 Regulations**” means the Health Service Branded Medicines (Control of Prices and Supply of Information)(No.2) Regulations 2008 [^c22929011];
+- “**the 2012 Regulations**” means the Human Medicines Regulations 2012 [^c22929021];
+- “**accounting reference date**” has the meaning given to it under section 391 of the Companies Act 2006 [^c22929031];
+- “**accounting reference period**” has the meaning given to it under section 391 of the Companies Act 2006;
+- “**audited sales report**” means a sales report audited in accordance with regulation 23(1);
+- “biological medicinal product” has the meaning given to it by regulation 8(1) of the 2012 Regulations;[^key-d8bda40888bb4616a31c7c0de5d05e5c]
+- “**branded medicine**” means a medicinal product to which a brand name has been applied that enables the medicine to be identified without reference to the common name;
+- “[^key-67d68eb0b9fda733a330b0d1c6bd93e5]**calendar quarter**” means a period of three months beginning on—
+  - (a) 1st January;
+  - (b) 1st April;
+  - (c) 1st July; or
+  - (d) 1st October;
+- “**calendar year**” means a period of 12 months beginning on 1st January;
+- “**combination medicine**” is to be construed in accordance with regulation 3B(8);
+- “common name” in respect of a medicinal product means the non-proprietary name or if one does not exist, the usual common name;
+- “**contracting authority**” in relation to a contract based on a framework agreement has the meaning given to it by section 2(1)(a) of the Procurement Act 2023 (but as if section 2(5)(b), and the reference to paragraph (b) in section 2(5)(d)(ii), were omitted),[^key-3cd4435b42dc2095f20cdb0e00b057f8] regulation 3 of the Public Contracts Regulations 2006 [^c22929041], regulation 3 of the Public Contracts (Scotland) Regulations 2012 [^c22929051], regulation 2 of the Public Contracts Regulations 2015 [^c22929061] or regulation 2 of the Public Contracts (Scotland) Regulations 2015 [^c22929071] under which the relevant framework agreement was concluded;
+- “**duration of supplementary certificate**” is to be construed in accordance with article 13 of Regulation [(EC) 469/2009](https://www.legislation.gov.uk/european/regulation/2009/0469) of the European Parliament and of the Council of 6th May 2009 concerning the supplementary protection certificate for medicinal products [^c22929081];
+- “**final quarter**” means the last quarter in a financial year;
+- “**financial year**” has the meaning given to it under section 390 of the Companies Act 2006;
+- “[^key-38fcc0cdc1426eb87b072e124e7b2ba0]**framework agreement**” means—
+  - (a) a framework as defined in section 45(2) of the Procurement Act 2023, where the framework was awarded under that Act;
+  - (b) a framework agreement as defined in—
+    - (i) regulation 2 of the Public Contracts Regulations 2006,
+    - (ii) regulation 2 of the Public Contracts (Scotland) Regulations 2012,
+    - (iii) regulation 33(2) of the Public Contracts Regulations 2015, or
+    - (iv) regulation 2 of the Public Contracts (Scotland) Regulations 2015,
+
+    where the relevant agreement was concluded under those regulations;
+- “**gross sales income**” means income from sales, excluding value added taxes, and before deduction of all trade and other discounts (howsoever named) including settlement discounts, rebates or deduction of any payments, including penalties, made under these Regulations;
+- “**group**” has the meaning given to it under section 474(1) of the Companies Act 2006;
+- “**health service use**” means used to any extent for the purposes of—
+  - (a) the health service continued under section 1(1) of the 2006 Act;
+  - (b) health care provided by virtue of Health and Social Care (Reform) Act (Northern Ireland) 2009 [^c22929091];
+  - (c) the health service within the meaning of the 1978 Act; or
+  - (d) the health service continued under section 1(1) of the 2006 Wales Act;
+- “**individual accounts**” means accounts of the manufacturer or supplier prepared in accordance with section 394 of the Companies Act 2006;
+- “invented name” is a name which is not the common name and is not liable to be confused with the common name;
+- “**licensing authority**” has the meaning given to it in regulation 3(5H);
+- “**low cost presentation**” means a presentation which has a maximum price, as determined by regulation 8, for each item of presentation of less than £2.00;
+- “**marketing authorisation**” has the meaning given by regulation 8(1) of the 2012 Regulations;
+- “**marketing authorisation holder**” means a manufacturer or supplier that holds a marketing authorisation;
+- “**medicines information standard**” means the inter-operability standard for the transfer of medicines information that is published by NHS BSA in the document known as the dictionary of medicines and devices;
+- “**net sales income**” means income from sales, excluding value added taxes, and after deduction of all trade and other discounts (howsoever named) including settlement discounts and rebates but before deduction of any payments, including penalties, made under these Regulations;
+- “**new manufacturer or supplier**” means a manufacturer or supplier that is within its first accounting reference period;
+- “**newer presentation**” is to be construed in accordance with regulation 3B;
+- “**NHS BSA**” means the NHS Business Services Authority established by the NHS Business Services Authority (Awdurdod Gwasanaethau Busnes y GIG) (Establishment and Constitution) Order 2005 [^c22929101];
+- “**NHS chemist**” means any person who—
+  - (a) provides pharmaceutical or local pharmaceutical services under Part 7 of the 2006 Act or as mentioned in section 264A(9) of that Act [^c22929111]; and
+  - (b) is not also a primary medical services provider;
+- “**non-proprietary name**” means a name which is, or which is a permitted variation of—
+  - (a) an International Non-proprietary Name (INN);
+  - (b) an International Non-proprietary Name Modified (INNM);
+  - (c) a British Approved Name (BAN);
+  - (d) a British Approved Name Modified (BANM); or
+  - (e) an approved name,
+
+  and for this purpose these names (and their permitted variations) have the same meanings as in a list of names [^c22929121] which has been prepared and published under regulation 318 of the 2012 Regulations (list of names) and which is in force;
+- “**older presentation**” is to be construed in accordance with regulation 3B(4) and (5);
+- “**originator**” means, in relation to an active ingredient, or in the case of a combination medicine the combination of active ingredients, of a relevant medicine for a presentation—
+  - (a) the person who—
+    - (i) received the first marketing authorisation for the virtual therapeutic moiety of that active ingredient or combination of active ingredients, or
+    - (ii) is not the same as the person specified in paragraph (i) but who holds a valid supplementary protection certificate for the active ingredient or combination of active ingredients; or
+  - (b) a person who acquires the ownership of the presentation from a person specified in sub-paragraph (a);
+- “**originator licensee**” means a person, other than an originator, who is marketing a presentation and, during the period the presentation was a newer presentation, was—
+  - (a) doing so under a licence from the originator permitting marketing of the relevant medicine; or
+  - (b) in the same group as the originator for the relevant medicine;
+- “**parallel distributed presentation**” means a presentation in respect of which a parallel distribution notice [^c22929131] with the United Kingdom as the Member State of destination has been given;
+- “**patent protection period**” means the total period of the term of patent and if a supplementary protection certificate has been granted, the duration of the supplementary protection certificate;
+- “**prescription only medicine**” is to be construed in accordance with regulation 5 of the 2012 Regulations;
+- “**presentation**” means a particular form of a relevant medicine which may be distinguished from other forms of the medicine by reference to its active ingredients, strength and excipients, pack size, method of administration or formulation;
+- “**presentation report**” is to be construed in accordance with the requirements of regulation 22;
+- “**primary medical services provider**” means any person who provides primary medical services (who may be a provider of pharmaceutical services as well as primary medical services) under—
+  - (a) Part 4 of the 2006 Act;
+  - (b) Part 4 of the 2006 Wales Act;
+  - (c) section 2C of the 1978 Act [^c22929141], a contract under section 17J of the 1978 Act [^c22929151] or an agreement under section 17C of the 1978 Act [^c22929161]; or
+  - (d) Part 2 or 6 of the Health and Personal Social Services (Northern Ireland) Order 1972 [^c22929171];
+- “[^key-425b3bf1a36225fc4920a4dfe1dc1e0c]**public contract**” means—
+  - (a) a contract of a kind specified in section 3(2) of the Procurement Act 2023, where the contract was awarded under that Act;
+  - (b) a public contract as defined in—
+    - (i) regulation 2 of the Public Contracts Regulations 2006,
+    - (ii) regulation 2 of the Public Contracts (Scotland) Regulations 2012,
+    - (iii) regulation 2 of the Public Contracts Regulations 2015, or
+    - (iv) regulation 2 of the Public Contracts (Scotland) Regulations 2015,
+
+    where the relevant contract was awarded under those regulations;
+- “**quarter**” means, in relation to a financial year which is of at least three months duration, the three month period beginning on the first day of the financial year, and every subsequent three month period in that year even if there are more than four such periods in that financial year;
+- “**relevant medicine**” means a health service medicine—
+  - (a) which is a branded medicine or a biological medicinal product (whether or not it is a branded medicine)[^key-97706a955f72e8834e7a611fc5a426d4];
+  - (b) which is a medicine in respect of which a marketing authorisation has been granted;
+  - (c) which is a prescription only medicine; and
+  - (d) which is not—
+    - (i) in relation to England, listed in Schedule 1 to the National Health Service (General Medical Services Contracts) (Prescription of Drugs etc.) Regulations 2004 [^c22929191],
+    - (ii) in relation to Scotland, specified in any directions given by the Scottish Ministers under section 17N(6) (other mandatory contract terms) of the 1978 Act [^c22929201] as being drugs, medicines or other substances which may not be ordered by a contractor made under section 17J for patients in the provision of primary medical services under a general medical services contract made under section 17J (health boards power to enter into general medical services contracts) of the 1978 Act [^c22929211] in relation to Scotland,
+    - (iii) in relation to Northern Ireland, listed in Schedule 1 to the Health and Personal Social Services (General Medical Services Contracts) (Prescription of Drugs Etc.) Regulations (Northern Ireland) 2004 [^c22929221], or
+    - (iv) in relation to Wales, listed in Schedule 1 to the National Health Service (General Medical Services Contracts) (Prescription of Drugs Etc.) (Wales) Regulations 2004 [^c22929231];
+- “**relevant NHS BSA online gateway**” means the service provided for on the NHS BSA website for receiving information for the purpose in question [^c22929241];
+- “**relevant UK hospital**” means—
+  - (a) a UK health service hospital; or
+  - (b) any other body (not being a public authority) that is responsible, under the arrangements for managing a hospital that supplies UK health service products to patients, for purchasing those health service products;
+- “**remaining period**” means—
+  - (a) in relation to a financial year which is of less than three months' duration, the entire financial year [^c22929251];
+  - (b) in relation to a financial year which is of more than three months' duration, any part of that financial year, which cannot be more than three months, falling after the final quarter;
+- “**sales report**” is to be construed in accordance with the requirements of regulation 21(1);
+- “**small manufacturer or supplier**” is to be construed in accordance with Schedule 2;
+- “**statutory audited accounts**” means—
+  - (a) in relation to individual accounts of the manufacturer or supplier required to be audited in accordance with Part 16 of the Companies Act 2006, the individual accounts audited in accordance with Part 16 of that Act;
+  - (b) in relation to individual accounts of the manufacturer or supplier exempt from audit under Part 16 of the Companies Act 2006 in accordance with section 477 of that Act, the individual accounts of the manufacturer or supplier;
+  - (c) in relation to individual accounts of the manufacturer or supplier exempt from audit under Part 16 of the Companies Act 2006 in accordance with section 479A of that Act, the consolidated accounts of the parent undertaking in the same group as the manufacturer or supplier as referred to in subsection (2)(c) of that section;
+- “**supplementary protection certificate**” has the meaning given by section 128B(2) of the Patents Act 1977[^key-ab1ecf931efaf7c978b66b46c6750c46];
+- “**supply**” means supply by way of sale unless the context otherwise requires;
+- “**term of patent**” is to be construed in accordance with section 25 of the Patents Act 1977 [^c22929261];
+- “**unbranded generic health service medicine**” means a health service medicine the labelling of which includes the common name of the medicinal product but does not include an invented name;
+- “**UK health service hospital**” means a body which —
+  - (a) is mentioned in Part 3 of Schedule 1 to the Freedom of Information Act 2000 [^c22929271] and is responsible, under the arrangements for managing a hospital that supplies UK health service products to patients, for purchasing those health service products; or
+  - (b) is mentioned in Part 4 of Schedule 1 to the Freedom of Information (Scotland) Act 2002 [^c22929281] and is responsible, under the arrangements for managing a hospital that supplies UK health service products to patients, for purchasing those health service products;
+- “**vaccine originator**” means, in relation to an active ingredient or a combination of active ingredients of a relevant medicine for a presentation that is a vaccine—
+  - (a) the person who—
+    - (i) received the first marketing authorisation of any presentation for the applicable virtual therapeutic moiety,
+    - (ii) is not the same person specified in paragraph (i) but who holds a valid supplementary protection certificate for the active ingredient or combination of active ingredients, or
+    - (iii) if different from the persons specified in paragraph (i) or (ii), was the first person to place the relevant medicine on the market for health service use and, at the time, the licensing authority designated the presentation to include a new active substance; or
+  - (b) a person who acquires the ownership of the presentation from a person specified in sub-paragraph (a);
+- “**vaccine originator licensee**” means a person, other than a vaccine originator, who is marketing a vaccine and was, during the period the presentation is a newer presentation—
+  - (a) doing so under a licence from the vaccine originator permitting the marketing of the relevant medicine; or
+  - (b) in the same group as the vaccine originator for the relevant medicine;
+- “**virtual therapeutic moiety**” means the abstract representation of an active ingredient or active ingredients of a relevant medicine formulated in the medicines information standard as—
+  - (a) a medicinal product; or
+  - (b) in the case of a vaccine, an indication or indications;
+- “**voluntary scheme**” means a scheme referred to in section 261(1) of the 2006 Act [^c22929291];
+- “**voluntary scheme presentation**” means a presentation covered by a voluntary scheme at the time of supply of that presentation;
+- “**wholesale dealer's licence**” is to be construed in accordance with regulation 18 (wholesale dealing in medicinal products) of the 2012 Regulations; and
+- “**wholesaler**” means a person who—
+  - (a) is a holder of a wholesale dealer's licence; and
+  - (b) is not a primary medical services provider, NHS chemist or UK health service hospital.
+
+(3) Where, under these Regulations, something is to be done within a specified number of—
+
+- (a) days of an occurrence, that number of days includes the day of the occurrence; or
+- (b) months of an occurrence, the first month starts on and includes the day of the occurrence (so a three month period starting on the 1st January ends on 31st March).
+
+(4) Where, under these Regulations, the amount of interest on, or a penalty for, an unpaid amount that is overdue is calculated by reference to a number of days—
+
+- (a) the day on which payment in full is received does not count towards the calculation of that number of days; and
+- (b) in the event of part payment, interest on the outstanding amount is to be recalculated from the start of the day of the part payment.
+
+(5) Where under these Regulations, information in any form is required to be provided via a relevant NHS BSA online gateway, unless the contrary is proved—
+
+- (a) the use of that online gateway is presumed to have resulted in the information being successfully provided only if the information has been successfully recorded by the NHS BSA;
+- (b) the time of providing that information is presumed to be the time recorded by the NHS BSA as being the time it was provided;
+- (c) the person providing the information is presumed to be the person identified as such in any information recorded by the NHS BSA; and
+- (d) a return made on behalf of a body corporate is presumed to be a return made with the authority of that body corporate.
+
+## 2. Application
+
+These Regulations do not apply to any manufacturer or supplier to whom a voluntary scheme applies (all of whose relevant medicines are covered by that scheme).
+
+## PART 1 — PAYMENT SCHEME
+
+### 3. Payment scheme[^key-72fd0be2e511a82f7d761c24d04b9c03]
+
+(1) Subject to paragraphs (1AA), (1AB), (4) and (5A)[^key-0a4dd0ce04e981641a9ccf006b1b68e8], the manufacturer or supplier that is responsible for the first relevant supply of an item of presentation must pay for the applicable period specified in the first column of the table below the payment percentage specified in the—
+
+- (a) second column for each newer presentation; or
+- (b) third column for each older presentation,
+
+of that table of the net sales income received in respect of that supply to the Secretary of State in accordance with Schedule 1.
+
+Table[^key-ee943cd97302c0034522d99c5740e393]
+
+| Applicable Period | Newer presentation payment percentage | Older presentation payment percentage |
+| --- | --- | --- |
+| 1st July 2026 to the end of 2026 | 16.5% | 11% |
+| 1st January 2027 to the end of 2027 and any subsequent calendar year | 16.5% | 10.9% |
+
+(1A)[^key-674d64f8812942e6575272fc7d893f1d] Where, in respect of an applicable period, as a consequence of an amendment to these Regulations, there is an amendment (in any manner) of a payment percentage specified in the second column of the table, the applicable payment percentage for payments payable under paragraph (1) in respect of supplies of an item of presentation under any contract entered into on or after 1st January 2019, including—
+
+- (a) a contract with a contracting authority based on a framework agreement where that framework agreement was entered into following a tender which closed on or after 1st<sup></sup>January 2019; or
+- (b) a public contract entered into following a tender which closed on or after 1st January 2019,
+
+is, for that applicable period, the amended percentage.
+
+(1AA)[^key-c30fa0bc330047731e01934b8c5e56c8] Subject to paragraph (4A), in addition to any sum that may be required to be paid under paragraph (1)(b), the manufacturer or supplier that is responsible for the first relevant supply of an item of presentation that is an older presentation must pay the payment percentage calculated in accordance with regulation 3A of the net sales income received in respect of that supply to the Secretary of State in accordance with Schedule 1.
+
+(1AB)[^key-3abe3affa917abf0530f0c3349b15f27] Where paragraph (1AC) applies, the newer presentation payment percentage referred to in paragraph (1) for the period beginning on 1st July 2026 and ending at the end of 2026[^key-f9100db9564c63bf46bfbbc98f630e48] is 8.7% and not 16.5%[^key-36b4746f9bfa936ac88548b5772e7a35].
+
+(1AC) This paragraph applies in the case of the payments payable under paragraph (1) by a manufacturer or supplier in respect of supplies during the period beginning on 1st July 2026 and ending at the end of 2026[^key-da53a3a5532e8a520bea5138701453b2], if, in respect of any supply of an item of presentation that was a newer presentation of that manufacturer or supplier—
+
+- (a) a payment was payable under paragraph (1) in respect of a supply during the period beginning on 1st January 2026 and ending at the end of 30 June 2026[^key-029fa565124de95a2a9514dc6471ab13]; and
+- (b) the applicable payment percentage was 24.3%[^key-8b99d2ce22cc59a143133fda465391bd].
+
+(1B)[^key-ce357121af02dc6ed455019a436b79e8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(1C)[^key-5add6507ee71b525bc7e84ee66c5ae2b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) Subject to paragraph (3), for these purposes the first relevant supply is the first occasion on which that item of presentation is supplied by any manufacturer or supplier having a place of business in the United Kingdom (MS1) to another person having a place of business in the United Kingdom (MS2) that is not in the same group as MS1.
+
+(3) If MS2 is—
+
+- (a) the marketing authorisation holder (MAH) in respect of that item of presentation; or
+- (b) a manufacturer or supplier in the same group as MAH,
+
+the first relevant supply is the next supply of that item of presentation to a person having a place of business in the United Kingdom that is not in the same group as MS2.
+
+(4) Subject to paragraph (5), paragraphs (1) and (1AA) do[^key-7cb5d732f19a1717d1364417c1746eb1] not apply to the net sales income received in respect of the supply of—
+
+- (a) any item of presentation which was in respect of that supply, supplied under—
+  - (i) a contract with a contracting authority based on a framework agreement where that framework agreement was entered into on or before the date of the coming into force of these Regulations or was entered into following a tender which closed on or before the date of the coming into force of these Regulations,
+  - (ii) a public contract entered into on or before the date of the coming into force of these Regulations or was entered into following a tender which closed on or before the date of the coming into force of these Regulations;
+- (b) any item of low cost presentation;
+- (c) any item of parallel distributed presentation;
+- (d) any item of voluntary scheme presentation;[^key-e084a0008f1726a01cc91d6b666f6f02]
+- (e)[^key-22b999e867bed8873f07b363353d8ee6] any item of new active substance presentation during the period beginning on the date on which the marketing authorisation is granted for the first therapeutic indication of the presentation and ending on the last day of the 36th month after that date;
+- (f) any item of presentation which is a line extension of a new active substance presentation to which sub-paragraph (e) applies which is supplied during the period referred to in sub-paragraph (e) for the new active substance presentation;
+- (g) any item of exceptional centrally procured presentation;
+- (h) any item of centrally procured vaccine presentation.
+
+(4A)[^key-9da459408de3725195b9cb3757b69520] Paragraph (1AA) does not apply to the net sales income received by a manufacturer or supplier in respect of the supply of—
+
+- (a) any item of presentation that is a plasma derived medicinal product; or
+- (b) any item of presentation that is an older presentation where the cumulative net sales income from all older presentations with a common relevant virtual therapeutic moiety that the manufacturer or supplier supplies for health service use does not exceed £1,500,000 during a relevant calendar year.
+
+(5) Paragraph (4)(a) does not apply to any item of presentation added to a framework agreement or public contract after the coming into force of these Regulations.
+
+(5A)[^key-0e60b66495e4c7ff5db767fb3de62c68] Where paragraph (5B) applies, the payment percentage referred to in paragraph (1) for the applicable period is 7.80% and not the percentage specified in the corresponding entry for that applicable period in the second column of the table.
+
+(5B) Subject to paragraph (5C), this paragraph applies in respect of payments payable under paragraph (1) in respect of supplies of an item of presentation under—
+
+- (a) a contract with a contracting authority based on a framework agreement where that framework agreement was entered into on or after 1st April 2018 but before 1st January 2019, or was entered into following a tender which closed on or after 1st April 2018 but before 1st January 2019;
+- (b) a public contract entered into on or after 1st April 2018 but before 1st January 2019 or was entered into following a tender which closed on or after 1st April 2018 but on or before 1st January 2019.
+
+(5C) Paragraph (5B) does not apply to payments payable in respect of supplies of any item of presentation added to a framework agreement or public contract that falls within paragraph (5B)(a) or (b) where that item is added on or after 1st January 2019.
+
+(5D)[^key-a60194815cd44a68c7e9dffaf98f7362] For the purposes of paragraph (4)(e)—
+
+- (a) “**new active substance presentation**” means a presentation containing a new active substance with a marketing authorisation incorporating the first therapeutic indication for that active substance, but not other presentations marketed under a different brand name which nevertheless contain that new active substance (whether alone or in combination with other active substances); and
+- (b) a presentation is only to be considered to contain a new active substance where confirmation that the presentation contains a new active substance is provided by—
+  - (i) a European Public Assessment Report published by the European Medicines Agency in relation to the presentation in accordance with Article 13.3 of the Regulation [(EC) 726/2004](https://www.legislation.gov.uk/european/regulation/2004/0726) of the European Parliament and of the Council of 31st March 2004 laying down Community procedures for the authorisation and supervision of medicinal products for human and veterinary use and establishing a European Medicines Agency, or
+  - (ii) a assessment report published by the licensing authority in accordance with regulation 64(6) of the 2012 Regulations.
+
+(5E) For the purposes of paragraph (4)(f), “**line extension**” means a new presentation with the same active substance as another presentation which is marketed under the same brand name and by the same manufacturer or supplier but is distinguishable by reference to its strength, an excipient, its pack size, its method of administration or its formulation.
+
+(5F) For the purposes of paragraph (4)(g), “**exceptional centrally procured presentation**” means a presentation which—
+
+- (a) is part of stock procured by the Secretary of State;
+- (b) is procured for the purpose of emergency preparedness or stockpiling for national security or pandemic preparedness; and
+- (c) either—
+  - (i) UKHSA manages the stockpiling and distribution of the relevant presentation, or
+  - (ii) the Secretary of State gives a direction to the manufacturer or supplier to the effect that paragraph (i) need not be satisfied in relation to the relevant presentation.
+
+(5G) For the purposes of paragraph (4)(h), “**centrally procured vaccine presentation**” means a presentation which—
+
+- (a) is part of stock procured by the Secretary of State;
+- (b) is a vaccine procured in accordance with a recommendation made or advice given by the Joint Committee on Vaccination and Immunisation—
+  - (i) for a national vaccination programme, or
+  - (ii) for a branded medicine to be included in a national vaccination programme; and
+- (c) either—
+  - (i) UKHSA manages the distribution of the vaccine as part of a national vaccination programme, or
+  - (ii) the Secretary of State gives a direction to the manufacturer or supplier to the effect that paragraph (i) need not be satisfied in relation to the relevant presentation.
+
+(5H) In this regulation—
+
+- “**active substance**” has the meaning given in regulation 8(1) of the 2012 Regulations;
+- “**licensing authority**” is to be construed in accordance with regulation 6 of the 2012 Regulations;
+- “[^key-8236537b07d1e013fe05783a4b38aa77]**plasma derived medicinal product**” means a presentation that includes an active ingredient from any of the following virtual therapeutic moieties—
+  - (a) albumin human;
+  - (b) anti-D immunoglobulin;
+  - (c) C1- esterase inhibitor;
+  - (d) factor VIII plus von Willebrand factor;
+  - (e) factor X;
+  - (f) factor XIII;
+  - (g) fibrinogen;
+  - (h) high purity factor IX;
+  - (i) human alpha<sub>1</sub> -proteinase inhibitor;
+  - (j) human prothrombin complex concentrate;
+  - (k) normal immunoglobulin human;
+  - (l) protein C human; or
+  - (m) von Willebrand factor;
+- “**UKHSA**” means the executive agency of the Department of Health and Social Care known as the United Kingdom Health Security Agency; and
+- “**vaccine**” has the meaning given in regulation 8(1) of the 2012 Regulations.
+
+(6) This regulation does not apply to a small manufacturer or supplier.
+
+### 3A. Older presentation additional payments[^key-c13ae20e262664ba08b8b2c971814f47]
+
+(1) Subject to paragraphs (2) to (4), the manufacturer or supplier responsible for the first relevant supply of an item of presentation that is an older presentation must pay in relation to the observed price decline specified in the first column of the table below, the payment percentage specified in the corresponding entry in the second column of that table of the net sales income for that item of presentation during the relevant period.
+
+Table 1
+
+| Observed price decline | Payment percentage |
+| --- | --- |
+| 10% or less | 25% |
+| 11% | 24% |
+| 12% | 23% |
+| 13% | 22% |
+| 14% | 21% |
+| 15% | 20% |
+| 16% | 19% |
+| 17% | 18% |
+| 18% | 17% |
+| 19% | 16% |
+| 20% | 15% |
+| 21% | 14% |
+| 22% | 13% |
+| 23% | 12% |
+| 24% | 11% |
+| 25% | 10% |
+| 26% | 9% |
+| 27% | 8% |
+| 28% | 7% |
+| 29% | 6% |
+| 30% | 5% |
+| 31% | 4% |
+| 32% | 3% |
+| 33% | 2% |
+| 34% | 1% |
+| 35% or more | 0% |
+
+(2) Subject to paragraphs (3) and (4), the observed price decline for a relevant supply made by a manufacturer or supplier of an item of presentation that is an older presentation, where the average presentation selling price for the relevant period is lower than the reference price, is one minus the quotient of the average presentation selling price for that relevant period divided by the reference price expressed as a percentage rounded to the nearest whole number.
+
+(3) If the average presentation selling price of an item of presentation that is an older presentation is higher than the reference price for a relevant period, the observed price decline for that relevant period is to be 10% or less and the corresponding payment percentage in the second column of the table in paragraph (1) is to apply to the net sales income of the presentation for the relevant period.
+
+(4) Where—
+
+- (a) there is a commercial relationship in relation to an item of presentation that is an older presentation supplied by a manufacturer or supplier who is not an originator, originator licensee, vaccine originator or vaccine originator licensee; and
+- (b) that commercial relationship is between that person and a manufacturer or supplier who is an originator, originator licensee, vaccine originator or vaccine originator licensee,
+
+the payment percentage in Table 1 applicable to the relevant item of presentation supplied by the manufacturer or supplier in accordance with regulation 3(1AA) is to be no less than that which would apply to the originator, originator licensee, vaccine originator or vaccine originator licensee had they made the supply.
+
+(5) The “**relevant period**” in relation to the supply of an item of presentation that is an older presentation is the calendar year in which the supply is made except if, part way through the calendar year—
+
+- (a) the presentation becomes an older presentation, in which case the relevant period is to be from the start of the next calendar quarter following the day on which the item of presentation ceased to be a newer presentation and runs to the end of that calendar year then (subject to any further application of this paragraph) each subsequent calendar year thereafter;
+- (b) the supply is the first relevant supply by a manufacturer or supplier who is not an originator, originator licensee, vaccine originator or vaccine originator licensee, in which case the relevant period starts on the day of the first relevant supply of the item of presentation and runs to the end of the calendar year then (subject to any further application of this paragraph) is each subsequent calendar year thereafter; or
+- (c) the manufacturer or supplier becomes liable to make a payment in accordance with regulation 3 for the first time, in which case the relevant period starts on the day after the manufacturer or supplier becomes liable to make a payment and runs to the end of that calendar year then (subject to any further application of this paragraph) is each subsequent calendar year thereafter.
+
+(6) In this regulation—
+
+- “**average presentation selling price**” means, in relation to the supply of an item of presentation by a manufacturer or supplier during a relevant period, the quotient of the total net sales income during the relevant period divided by total quantity supplied during the relevant period (the calculation is to be based on information in the relevant presentation report, provided that the Secretary of State considers that information is accurate);
+- “**commercial relationship**” means a contractual or other business relationship, whether or not legally enforceable, regarding the manufacturing or supplying of an item of presentation including, but not limited to, licensing;
+- “**reference price**” has the meaning given to it in regulation 3C(9).
+
+### 3B. Meaning of newer presentation and older presentation[^key-ca8e227d9beef6f59fb86de91245f80a]
+
+(1) Paragraphs (2) and (3) set out different conditions for items of presentation that are combination medicines and vaccines, but subject to those paragraphs, a newer presentation is an item of presentation supplied for health service use by a manufacturer or supplier who is an originator or originator licensee in respect of that presentation—
+
+- (a) during the period of time there is an extant supplementary protection certificate for the active ingredient of any relevant medicine with the same relevant virtual therapeutic moiety as the presentation; or
+- (b) where no supplementary protection certificate has been granted in respect of the active ingredient of any relevant medicine with the same relevant virtual therapeutic moiety as the presentation, during the period of 12 years beginning on the date on which the first marketing authorisation was granted for any relevant medicine supplied for health service use that contains the active ingredient with the same relevant virtual therapeutic moiety as the presentation.
+
+(2) A presentation that is a combination medicine is a newer presentation when that item of presentation is supplied for health service use by a manufacturer or supplier who is an originator or originator licensee in respect of that presentation and—
+
+- (a) during the period of time there is at least one extant supplementary protection certificate for the same combination of active ingredients as the unique virtual therapeutic moiety for that combination medicine; or
+- (b) where no supplementary protection certificate has been granted in respect of the combination medicine—
+  - (i) during the period of time there is an extant supplementary protection certificate for a relevant medicine that is supplied for health service use containing a constituent active ingredient or combination of constituent active ingredients of the combination medicine, or
+  - (ii) where no supplementary protection certificate has been granted for a constituent active ingredient or combination of constituent active ingredients of the combination medicine, during the period of 12 years beginning on the date on which the latest presentation (P1) containing any of those constituent active ingredients was granted a marketing authorisation (that marketing authorisation being the first marketing authorisation granted for a presentation containing it or them), a relevant medicine of P1 also being the first with a marketing authorisation for the virtual therapeutic moiety of that active ingredient.
+
+(3) A presentation that is a vaccine is a newer presentation when that item of presentation is supplied for health service use by a manufacturer or supplier who is a vaccine originator or vaccine originator licensee in respect of that presentation—
+
+- (a) during the period of time there is at least one extant supplementary protection certificate for the vaccine;
+- (b) if no supplementary protection certificate has been granted in respect of an active ingredient of the vaccine and—
+  - (i) the vaccine was the first presentation for the relevant virtual therapeutic moiety to be granted a marketing authorisation, during the period of 12 years beginning on the date the first marketing authorisation is granted for the presentation, or
+  - (ii) the licensing authority designates an active ingredient of the vaccine as a new active substance, for a period of 12 years from the date the vaccine is first placed on the market for health service use; or
+- (c) if it is a line extension of a presentation to which sub-paragraph (a) or (b) applies, during the period that sub-paragraph (a) or (b) applies to the relevant presentation.
+
+(4) An older presentation is any item of presentation that is not a newer presentation.
+
+(5) A newer presentation becomes an older presentation on the day after that presentation is no longer capable of satisfying the conditions for being a newer presentation in accordance with paragraphs (1), (2) or (3).
+
+(6) Where a presentation is a newer presentation because paragraph (1)(a), (2)(a), (2)(b)(i) or (3)(a) applies, if the relevant supplementary protection certificate—
+
+- (a) is invalidated for any reason, paragraph (5) applies from the day following the day on which it would have ceased to satisfy the conditions for being a newer presentation in accordance with paragraphs (1), (2) or (3) otherwise than in reliance on the invalidated supplementary protection certificate;
+- (b) lapses as a consequence of the marketing authorisation to which that supplementary protection certificate relates being withdrawn, paragraph (5) applies for the period beginning on the day following the day on which the relevant marketing authorisation was withdrawn and ending on the day before the day on which the relevant marketing authorisation or supplementary protection certificate is reinstated (and so the presentation becomes a newer presentation); or
+- (c) is surrendered, paragraph (5) applies from the day following the day on which the relevant supplementary protection certificate is surrendered.
+
+(7) The Secretary of State may, by giving an information notice, require a manufacturer or supplier to provide information to evidence that a presentation has been correctly classified as a newer presentation, older presentation or combination medicine in accordance with this regulation, including to provide any supplementary protection certificate and marketing authorisation data.
+
+(8) For the purposes of these Regulations, a combination medicine is a relevant medicine containing two or more active ingredients—
+
+- (a) that has a unique virtual therapeutic moiety that is distinct from all other virtual therapeutic moieties of any of the constituent active ingredients of the relevant medicine; or
+- (b) in respect of which there is no unique virtual therapeutic moiety specified in the medicines information standard, but the Secretary of State determines, by direction, the relevant medicine is a combination medicine despite not satisfying sub-paragraph (a) for the purpose of determining payments due or other pricing matters in connection with these Regulations to a manufacturer or supplier who supplies the presentation for health service use.
+
+(9) In this regulation—
+
+- “**period of time**” in relation to a supplementary protection certificate, means the period of time beginning on the day on which the supplementary protection certificate came into force and ending on the day on which the certificate lapses or is surrendered or is invalidated for any reason;
+- “**relevant virtual therapeutic moiety**” means—
+  - (a) the virtual therapeutic moiety associated with an active ingredient, combination of active ingredients or combination medicine, as applicable, for a particular presentation; or
+  - (b) where there is no suitable virtual therapeutic moiety in the medicines information standard for the active ingredient or combination of active ingredients for a particular presentation, the Secretary of State may, by direction, give an approximation of a virtual therapeutic moiety for the purpose of determining payments due or other pricing matters in connection with these Regulations to a manufacturer or supplier who supplies the presentation for health service use.
+
+(10) This regulation does not apply to a small manufacturer or supplier.
+
+### 3C. Reference prices for older presentations[^key-9389b2d7a0bf8d2784a13db9762a977f]
+
+(1) The Secretary of State must, by direction, determine the reference price of each older presentation to the manufacturer or supplier who has supplied that item of presentation and is liable to make a payment in accordance with regulation 3(1AA).
+
+(2) Whether or not the Secretary of State has received a request under paragraph (3)—
+
+- (a) the Secretary of State may, by direction, to the manufacturer or supplier who has supplied the item of presentation, change or alter a reference price if the Secretary of State considers it is reasonable to do so; and
+- (b) the changed or altered reference price is to apply, unless stated otherwise in the direction, from the date of the relevant direction.
+
+(3) Except where a direction under paragraphs (1) or (2) has previously been given to the manufacturer or supplier, a manufacturer or supplier who may be required to make a payment under regulation 3 during a relevant period must make a request to the Secretary of State for a reference price for each older presentation—
+
+- (a) where the circumstances in regulation 9(1) apply, at the same time as they are required to make a notification under regulation 9(2); or
+- (b) in any other circumstance where the manufacturer or supplier does not have a direction specifying the reference price for a particular older presentation, within 30 days of the manufacturer or supplier becoming aware they may be liable to make a payment under regulation 3(1AA) in respect of the presentation.
+
+(4) A request made under paragraph (3) must—
+
+- (a) be made in writing;
+- (b) specify the details of the presentation in respect of which the request is made; and
+- (c) include any relevant information relating to the factors set out in regulation 3D(5).
+
+(5) Subject to paragraph (6), the Secretary of State must, by direction, within a period of 90 days following receipt of the information to be included in a request under paragraph (3) or paragraph (7), determine the reference price of the item of presentation to the relevant manufacturer or supplier.
+
+(6) Where the number of requests received by the Secretary of State under paragraph (3) makes it impracticable for the Secretary of State to determine the reference price to a manufacturer or supplier in accordance with paragraph (5), or insufficient information has been provided, the Secretary of State may extend that period for a further 60 days and must notify the manufacturer or supplier within the 90 day period.
+
+(7) Within 28 days of receiving the information to be included in a request under paragraph (3), where further information is required in order to determine the reference price, the Secretary of State must give the manufacturer or supplier an information notice specifying the further information that is required.
+
+(8) The Secretary of State may, by giving an information notice, require a manufacturer or supplier to provide information—
+
+- (a) to assist in the determination of a reference price under paragraph (1) or (2) in accordance with regulation 3D;
+- (b) within 28 days of receiving the information under paragraph (7) where the Secretary of State considers that further information is required to determine the reference price for a presentation; or
+- (c) where the Secretary of State considers that the average selling price, maximum price or other relevant pricing information of any relevant medicine has been altered or otherwise manipulated solely or mainly for the purpose of affecting the reference price that may be applied to an older presentation.
+
+(9) In this regulation and regulation 3D—
+
+- “**reference price**” means the price assigned to an item of presentation in a direction given in accordance with paragraph (1), (2)(a) or (5);
+- “**relevant period**” has the meaning given to it in regulation 3A(5);
+- “**relevant virtual therapeutic moiety**” has the meaning given to it in regulation 3B(9).
+
+### 3D. Determination of reference prices[^key-e5f50500aeca0687a89bf15e76b12b2a]
+
+(1) The Secretary of State must determine the reference price for an older presentation in accordance with this regulation.
+
+(2) The reference price for a presentation that was an older presentation on or after 1st January 2015 and is supplied for health service use by a manufacturer or supplier who is an originator, originator licensee, vaccine originator or vaccine originator licensee or a person who is in the same group as the originator, originator licensee, vaccine originator or vaccine originator licensee in relation to that presentation, where it was first made available for health service use—
+
+- (a) before the reference anchor date, is the average selling price of the presentation during the full calendar year before the presentation became an older presentation; or
+- (b) on or after the reference anchor date, is the average selling price during the full year before the presentation became an older presentation of the most relevant comparator with the same virtual therapeutic moiety as the presentation that was first made available for health service use on or before the reference anchor date.
+
+(3) The reference price for a presentation which was an older presentation before 1st January 2015 and is supplied for health service use by a manufacturer or supplier who is an originator, originator licensee, vaccine originator or vaccine originator licensee or by a person in the same group as the originator, originator licensee, vaccine originator or vaccine originator licensee in relation to that presentation, where it was first made available for health service use—
+
+- (a) before the reference anchor date, is the maximum price of the presentation on the reference anchor date reduced by 12.5%; or
+- (b) on or after the reference anchor date, is to be determined based on the maximum price of the most relevant comparator for the same virtual therapeutic moiety as the presentation that had been made available for sale for health service use on or before the reference anchor date, reduced by 12.5%.
+
+(4) The reference price for a presentation which is an older presentation and is supplied for health service use by a manufacturer or supplier who is not an originator, originator licensee, vaccine originator or vaccine originator licensee or a person in the same group as the originator, originator licensee, vaccine originator or vaccine originator licensee in relation to that presentation, where it was first made available for sale for health service use—
+
+- (a) before the reference anchor date and—
+  - (i) there is an alternate presentation with the same virtual medicinal product pack available before the reference anchor date which was supplied for health service use by an originator, originator licensee, vaccine originator or vaccine originator licensee, is the maximum price of the alternate presentation on the date the presentation was first made available for sale for health service use, reduced by 12.5%, or
+  - (ii) there is no alternate presentation with the same virtual medicinal product pack supplied for health service use by an originator, originator licensee, vaccine originator or vaccine originator licensee on or before the reference anchor date, is to be determined based on the most relevant comparator maximum price with the same virtual therapeutic moiety as the presentation on the date the presentation was first made available for sale for health service use, reduced by 12.5%; or
+- (b) on or after the reference anchor date and—
+  - (i) there is an alternate presentation with the same virtual medicinal product pack available before the reference anchor date which was supplied for health service use by an originator, originator licensee, vaccine originator or vaccine originator licensee, is the maximum price of the alternate presentation on the reference anchor date reduced by 12.5%, or
+  - (ii) there is no alternate presentation with the same virtual medicinal product pack supplied for health service use by an originator, originator licensee, vaccine originator or vaccine originator licensee before the reference anchor date, is to be determined based on the maximum price of the most relevant comparator with the same virtual therapeutic moiety as the presentation that had been made available for sale for health service use on or before the reference anchor date, reduced by 12.5%.
+
+(5) When determining the reference price the Secretary of State may have regard, among other factors, to any one or more of the following—
+
+- (a) available presentations or maximum prices for presentations supplied by the manufacturer or supplier of the applicable presentation;
+- (b) available presentations or maximum prices for presentations supplied by a different manufacturer or supplier;
+- (c) the active ingredients, strength, excipients, pack size, method of administration or formulation of an applicable presentation;
+- (d) the virtual therapeutic moiety or the virtual medicinal product pack, as applicable, of an applicable presentation;
+- (e) the similarities and differences between applicable presentations to be compared; and
+- (f) the period an applicable presentation has been made available for health service use before or after the relevant reference anchor date.
+
+(6) Where there is no or incomplete average selling price or maximum price information available for a relevant date or period for an applicable presentation, the Secretary of State may rely on any available information the Secretary of State considers appropriate for comparison purposes, including—
+
+- (a) the closest available data for calculating average selling prices for the applicable calendar year; and
+- (b) the maximum price that is the closest in date to the 1st January of the relevant calendar year as published in the medicines information standard.
+
+(7) In this regulation—
+
+- “**applicable presentation**” means the presentation for which a reference price is to be applied or an alternate presentation to be relied on as a comparator, as the case may be;
+- “**reference anchor date**” means in relation to—
+  - (a) an older presentation supplied by a manufacturer or supplier who is an originator, originator licensee, vaccine originator or vaccine originator licensee of that presentation, is the 1st January of the year before that presentation finally ceased to be a newer presentation in accordance with regulation 3B; or
+  - (b) an older presentation supplied by a manufacturer or supplier who is not an originator, originator licensee, vaccine originator or vaccine originator licensee of that relevant medicine, is the 1st January of the year before the earliest supply of a presentation for health service use by an originator, originator licensee, vaccine originator or vaccine originator licensee with the same relevant virtual therapeutic moiety as the presentation which has finally ceased to be a newer presentation; and
+- “**virtual medicinal product pack**” means an abstract representation of a relevant medicine as formulated in the medicines information standard which has any one or more of the characteristics of active ingredients, strength, excipients, pack size, method of administration or formulation in common with similar presentations which have been placed on the market for health service use by any manufacturer or supplier.
+
+### 4. Direction to make a payment
+
+(1) This regulation applies where the Secretary of State considers that a manufacturer or supplier has entered into an arrangement whose main purpose or one of whose main purposes is to reduce or avoid a payment in respect of a sale of any item of presentation that either that or another manufacturer or supplier would otherwise be liable to make under regulation 3 or 3A[^key-0ce58fb2e8630435efd884dfd2419a0d].
+
+(2) Where this regulation applies the Secretary of State may give a direction to any manufacturer or supplier that has entered into such an arrangement to do either or both of the following—
+
+- (a) pay the amount so reduced or avoided in relation to such a sale;
+- (b) pay the relevant payment percentage referred to in[^key-70617f4fba829e98f3c5ca29a1b30198] regulation 3(1), (1AA), (1AB) or (5A)[^key-447c6cbc8fe933f32b5dca1fd2f10ce8] in respect of any future sale of any item of that presentation under that arrangement in accordance with Schedule 1.
+
+(3) Any direction given under paragraph (2) must specify—
+
+- (a) the reason why the Secretary of State considers that the manufacturer or supplier should pay the amount;
+- (b) the reduced or avoided amount of payment that the manufacturer or supplier must pay to the Secretary of State in relation to the sale referred to in paragraph (2)(a) and the period within which it must be paid;
+- (c) whether the manufacturer or supplier is required to pay the relevant payment percentage referred to in[^key-f47774a13065774aa976298620065c6d] regulation 3(1), (1AA), (1AB) or (5A)[^key-f542b490884a22f55f7e8b0b3f343fd1] in respect of the sale referred to in paragraph (2)(b); and
+- (d) the manufacturer's or supplier's appeal rights.
+
+(4) In this regulation—
+
+- “**an arrangement**” includes any scheme, arrangement or understanding, whether or not legally enforceable;
+- “**supplier**” means any person who supplied any item of presentation and is not limited to circumstances where that supply is by way of sale.
+
+(5) This regulation does not apply to a small manufacturer or supplier.
+
+### 5. Interest payable on late payment
+
+(1) Paragraph (2) applies where—
+
+- (a) the whole or any part of the amount required to be paid by a manufacturer or supplier under regulation 3 is not paid in accordance with table 1 of Schedule 1 and so an amount is overdue; or
+- (b) the whole or any part of the amount required to be paid by a manufacturer or supplier under a direction given under regulation 4 is not paid in accordance with that direction, and so an amount is overdue.
+
+(2) Where this paragraph applies, the manufacturer or supplier is liable to pay to the Secretary of State interest, calculated in accordance with paragraph (3) read with regulation 1(4) and 7(4), on the amount referred to in paragraph (1)(a) or (b) which is overdue until that amount is paid.
+
+(3) The interest payable under paragraph (2) shall be simple interest calculated from day to day at a rate of 2.5 per cent per annum over the Bank of England base rate as it may be from time to time and applied to any amount outstanding on that day.
+
+(4) For the purpose of this regulation—
+
+the “**Bank of England base rate**” means—
+
+- (a) the rate announced from time to time by the Monetary Policy Committee of the Bank of England as the official dealing rate, being the rate at which the Bank is willing to enter into transactions for providing short term liquidity in the money markets; or
+- (b) where an order under section 19 of the Bank of England Act 1998 [^c22929301] (reserve powers) is in force, any equivalent rate determined by the Treasury under that section.
+
+### 6. Penalties
+
+(1) Paragraph (2) applies where—
+
+- (a) the whole or any part of the amount required to be paid by a manufacturer or supplier under regulation 3 is not paid in accordance with table 1 of Schedule 1 and so an amount is overdue; or
+- (b) the whole or any part of the amount required to be paid by a manufacturer or supplier under a direction given under regulation 4 is not paid in accordance with that direction, and so an amount is overdue.
+
+(2) Where this paragraph applies, the manufacturer or supplier is liable to pay to the Secretary of State a penalty, calculated on a daily basis in accordance with Schedule 5 read with regulations 1(4) and 7(4), until the overdue amount referred to in paragraph (1)(a) or (b) is paid.
+
+### 7. Demands and appeals
+
+(1) Paragraph (2) applies where—
+
+- (a) the whole or any part of the amount required to be paid by a manufacturer or supplier under regulation 3 is not paid in accordance with table 1 of Schedule 1 and so an amount is overdue; or
+- (b) the whole or any part of the amount required to be paid by a manufacturer or supplier under a direction given under regulation 4 is not paid in accordance with that direction, and so an amount is overdue.
+
+(2) Where this paragraph applies the Secretary of State may make a demand for payment from the manufacturer or supplier in respect of the overdue amount.
+
+(3) A demand made under paragraph (2) must be issued by way of a written notice to that manufacturer or supplier and must state—
+
+- (a) the overdue amount referred to in paragraph (1)(a) or (b);
+- (b) the amount of interest calculated in accordance with regulation 5(3) up to the date on which the demand is made;
+- (c) the amount of penalty calculated in accordance with regulation 6(2) up to the date on which the demand is made;
+- (d) the daily rate at which the interest and penalty continues to accrue for as long as the amount referred to in paragraph (1)(a) or (b) continues to be overdue; and
+- (e) the manufacturer's or supplier's appeal rights.
+
+(4) If a manufacturer or supplier sends a notice of an appeal to the Tribunal in accordance with regulation 4 of the Health Service Medicines (Price Control Appeal) Regulations 2000 [^c22929311], in respect of a demand issued by way of a written notice under paragraph (3), the period beginning on the date that the notice is received by the Tribunal to the date on which the appeal is finally determined or is withdrawn is discounted for the purposes of the calculation of the number of days in respect of which an amount referred to in paragraph (1)(a) or (b) is overdue.
+
+## PART 2 — MAXIMUM PRICES
+
+### 8. Maximum price
+
+(1) Subject to paragraphs (2) and (4), the maximum price which may be charged by a manufacturer or supplier for the supply of each item of a presentation is the maximum price set out in the most recent direction given under paragraph (3) or regulation 9(5), (7), 10(1), 11(2), 12(2) or 13(1) in respect of that presentation.
+
+(2) Where, in respect of a presentation, there is no direction as referred to in paragraph (1), the maximum price which may be charged by a manufacturer or supplier for the supply of each item of a presentation is—
+
+- (a) where a presentation was on sale for health service use before 1st December 2013—
+  - (i) the price, as determined by the Secretary of State, at which an item of that presentation was on sale for health service use without regard to any discount or variation of that price which did not have general application on that date, or
+  - (ii) where the Secretary of State specified an increase in the price of an item of presentation in accordance with regulation 6 of the 2008 Regulations, the specified increased price;
+- (b) where the presentation was first made available for sale for health service use on or after 1st December 2013—
+  - (i) the price, as specified by the Secretary of State in accordance with regulation 3 of the 2008 Regulations, or
+  - (ii) where the Secretary of State specified an increase in the price of an item of presentation in accordance with regulation 6 of the 2008 Regulations, the specified increased price.
+
+(3) Where the price of a presentation first made available for sale for health service use on or after 1st<sup></sup>December 2013 was not specified by the Secretary of State as set out in paragraph (2)(b)(i), the Secretary of State may specify the maximum price which may be charged by a manufacturer or supplier for the supply of each item of that presentation by direction to a specific manufacturer or supplier.
+
+(4) Subject to paragraph (5), with respect to the supply of any item of presentation supplied under a contract with a contracting authority based on a framework agreement or supplied under a public contract—
+
+- (a) paragraph (1) does not apply where the framework agreement or public contract was entered into before the date that the direction under paragraph (3) or regulation 9(5), (7), 10(1), 11(2), 12(2) or 13(1) was given, or was entered into following a tender which closed on or before that date;
+- (b) paragraph (2) does not apply where the framework agreement or public contract was entered into before the date of the coming into force of these Regulations or was entered into following a tender which closed on or before that date.
+
+(5) Paragraph (4) does not apply to any item of presentation added to a framework agreement or public contract after the date referred to in each corresponding sub-paragraph of paragraph (4).
+
+### 9. New presentation
+
+(1) A manufacturer or supplier intending to place on the market a new presentation must record and keep for a period of 6 years information required under this regulation.
+
+(2) At least 60 days prior to the proposed date on which a manufacturer or supplier is intending to place on the market a new presentation, the manufacturer or supplier must notify the Secretary of State of its intention to do so.
+
+(3) A notification under paragraph (2) by a manufacturer or supplier to the Secretary of State must be made in writing and must—
+
+- (a) specify the presentation in respect of which the notification is made;
+- (b) include the summary of product characteristics;
+- (c) specify the proposed date for placing on the market the new presentation;
+- (d) specify the proposed maximum price; and
+- (e) include any relevant information relating to the factors set out under paragraphs (8)(a) to (g).
+
+(4) Within 28 days of receiving a notification in accordance with paragraph (3), the Secretary of State must give the manufacturer or supplier an information notice specifying the information required in relation to any of the relevant factors set out under paragraphs (8)(h) and (i).
+
+(5) Unless further information relating to the factors listed at paragraph (8) is requested, the Secretary of State must specify the maximum price at which that new presentation may be supplied by direction to the manufacturer or supplier within a period of 28 days of receiving the information under paragraph (4).
+
+(6) Where further information relating to the factors listed at paragraph (8) is required, the Secretary of State must within 28 days of receiving the information under paragraph (4), notify and where appropriate, by giving an information notice, the manufacturer or supplier that further information is required, and inform the manufacturer or supplier of the maximum price within 28 days of receiving that further information.
+
+(7) Where a manufacturer or supplier fails to notify the Secretary of State of its intention to place the presentation on the market within the 60 day period referred to in paragraph (2) or provide the Secretary of State with the information that the Secretary of State requires to determine the maximum price, the Secretary of State may, by direction, specify the maximum price of that presentation.
+
+(8) The maximum price for an item of a new presentation to which this regulation applies may be determined by the Secretary of State, having regard to, among other factors, the following factors—
+
+- (a) the clinical need for the new presentation at the time that the notification under paragraph (2) is made and during the period that the notification is being considered by the Secretary of State;
+- (b) the price and associated operational costs of therapeutically equivalent or comparable medicines to that new presentation at the time that the notification under paragraph (2) is made and during the period that the notification is being considered by the Secretary of State;
+- (c) the price and associated operational costs of the new presentation in the European Economic Area and any other markets if it is available elsewhere in the world at the time that notification under paragraph (2) is made and during the period that the notification is being considered by the Secretary of State;
+- (d) whether the presentation contains a new active substance;
+- (e) the date on which the patent protection period for each indication of the new presentation expires;
+- (f) the total profit of the manufacturer or supplier before interest charges and taxes for their previous accounting reference period as set out in the manufacturer's or supplier's individual accounts;
+- (g) the estimated total quantity to be supplied and estimated total net sales income of the new presentation over the period of the first five financial years of the manufacturer's or supplier's sales of the new presentation, or where the patent protection period expires before the end of the first five financial years, the period until the date of the expiration of the patent protection period;
+- (h) the reasonableness of the estimated costs of the presentation over the period of the first five financial years of the manufacturer's or supplier's sales of the new presentation, or where the patent protection period expires before the end of the first five financial years, the period until the date of the expiration of the patent protection period, including—
+  - (i) manufacturing and supply costs,
+  - (ii) research and development costs,
+  - (iii) operational costs, and
+  - (iv) any other costs;
+- (i) the price at which the manufacturer's or supplier's reasonable costs for that presentation, as determined by the Secretary of State would be met.
+
+(9) For the purposes of this regulation, where there is more than one patent protection period, the patent protection period which expires on the latest date will apply.
+
+(10) For the purposes of paragraph (8)(d) a presentation will only be considered to contain a “new active substance”, where—
+
+- (a) the European Public Assessment Report published by the European Medicines Agency [^c22929321] in relation to the presentation in accordance with Article 13.3 of the Regulation [(EC) 726/2004](https://www.legislation.gov.uk/european/regulation/2004/0726) of the European Parliament and of the Council of 31st March 2004 laying down Community procedures for the authorisation and supervision of medicinal products for human and veterinary use and establishing a European Medicines Agency confirms that the presentation contains a new active substance; or
+- (b) the Assessment Report published by the licensing authority in relation to the presentation in accordance with Article 21 or regulation 64(6) of the 2012 Regulations[^key-1f0436bbfaa61acaa090f829ea009ccb] of the Directive [2001/83/EC](https://www.legislation.gov.uk/european/directive/2001/0083) of the European Parliament and of the Council of 6th November 2001 on the Community code relating to medicinal products for human use [^c22929331] confirms that the presentation contains a new active substance.
+
+(11) In these Regulations “**new presentation**” means a presentation which at the time the notification under paragraph (3) must be made, is not subject to a maximum price under regulation 8(2) or under a direction made under regulation 8(3), 10(1), 11(2), 12(2), or 13(1).
+
+(12) In this regulation—
+
+- “**licensing authority**” is to be construed in accordance with regulation 6 of the 2012 Regulations; and
+- “**summary of product characteristics**” is to be construed in accordance with regulation 8(1) of the 2012 Regulations.
+
+### 10. Temporary exemptions
+
+(1) The Secretary of State may by direction, exempt for such temporary period as the Secretary of State may determine a presentation from the effect of regulation 8(1) or (2) where the Secretary of State considers that a temporary exemption is necessary to ensure adequate supplies of that presentation for health service purposes.
+
+(2) The Secretary of State must specify in any direction given under paragraph (1)—
+
+- (a) the new temporary maximum price at which an item of presentation may be supplied for health service use; and
+- (b) the period during which the new temporary maximum price will apply.
+
+(3) The power to issue a direction under paragraph (1) may be exercised on application by a manufacturer or supplier of a presentation or on the Secretary of State's own motion.
+
+### 11. Increases
+
+(1) A manufacturer or supplier intending to make an application for a price increase under this regulation must record and keep for a period of six years the information required for such an application under this regulation.
+
+(2) Subject to paragraph (3), the Secretary of State must within a period of 90 days, following an application made under paragraphs (4) to (6), confirm or increase the maximum price of a presentation by direction to that manufacturer or supplier.
+
+(3) Where the number of applications received by the Secretary of State under this regulation makes it impracticable for the Secretary of State to confirm or increase the maximum price, the Secretary of State may extend that period for a further 60 days and must notify the manufacturer or supplier if this is the case within the 90 day period.
+
+(4) A request by a manufacturer or supplier to the Secretary of State for an increase of the maximum price of a presentation must be made in writing and must—
+
+- (a) specify the presentation in respect of which the request is made;
+- (b) state the reasons for the request;
+- (c) specify the proposed increased maximum price; and
+- (d) include any relevant information relating to the factors set out under paragraphs (7)(a) to (e), (f)(i), (f)(ii), (g)(i), (g)(ii) and (h).
+
+(5) Within 28 days of receiving the information set out at paragraph (4), the Secretary of State must give the manufacturer or supplier an information notice specifying the information required in relation to any of the relevant factors set out under paragraph (7)(f)(iii), (f)(iv), (g)(iii) and (g)(iv).
+
+(6) Where further information relating to factors listed at paragraph (7) is required, the Secretary of State must within 28 days of receiving the information under paragraph (5) notify, and where appropriate, by giving an information notice, the manufacturer or supplier that further information is required.
+
+(7) In determining whether to increase the maximum price for a presentation under this regulation, the Secretary of State may have regard to, amongst other factors, the following factors—
+
+- (a) the clinical need for the presentation at the time that the application under paragraph (4) is received by the Secretary of State and during the period that the application is being considered by the Secretary of State;
+- (b) the price and associated operational costs of therapeutically equivalent or comparable medicines to that presentation at the time that the application under paragraph (4) is received by the Secretary of State and during the period that the application is being considered by the Secretary of State;
+- (c) the price and associated operational costs of the presentation in the European Economic Area and any other markets if it is available elsewhere in the world at the time that the application under paragraph (4) is received by the Secretary of State and during the period that the application is being considered by the Secretary of State;
+- (d) the date on which the patent protection period for each indication of the presentation expires;
+- (e) the total profit of the manufacturer or supplier before interest charges and taxes for their previous accounting reference period as set out in the manufacturer's or supplier's individual accounts;
+- (f) in respect of the presentation—
+  - (i) for the latest complete financial year, or where the application is made by a new manufacturer or supplier, up to the latest complete month in the current financial year, the total quantity of items supplied and the total net sales income,
+  - (ii) for the three financial years which follow the most recent one referred to in sub-paragraph (f)(i), estimates of the total quantity to be supplied and the total net sales income,
+  - (iii) the reasonableness of the estimated costs for the latest complete financial year, or where the application is made by a new manufacturer or supplier, the reasonableness of the estimated costs up to the latest complete month in the current financial year, including—
+    - (aa) manufacturing and supply costs,
+    - (bb) research and development costs,
+    - (cc) operational costs, and
+    - (dd) any other costs,
+  - (iv) the reasonableness of the estimated costs over the period of the first three financial years which follow the most recent one referred to in sub-paragraph (f)(iii), or where the patent protection period expires before the end of the three financial years, the period until the date of the expiration of the patent protection period from the first financial year following the most recent one referred to in subparagraph (f)(iii), including—
+    - (aa) manufacturing and supply costs,
+    - (bb) research and development costs,
+    - (cc) operational costs, and
+    - (dd) any other costs;
+- (g) in respect of all of the manufacturer's or supplier's presentations—
+  - (i) for the latest complete financial year, or where the application is made by a new manufacturer or supplier, until the end of the latest complete month in the current financial year, the total quantity of items supplied and the total net sales income,
+  - (ii) for the first three financial years which follow the most recent one referred to in sub-paragraph (g)(i), estimates of the total quantity of items to be supplied and the total net sales income,
+  - (iii) the reasonableness of the estimated costs for the latest complete financial year, or where the application is made by a new manufacturer or supplier, the reasonableness of the estimated costs up to the latest complete month in the current financial year, including—
+    - (aa) manufacturing and supply costs,
+    - (bb) research and development costs,
+    - (cc) operational costs, and
+    - (dd) any other costs,
+  - (iv) the reasonableness of the estimated costs over the period of the first three financial years which follow the most recent one referred to in sub-paragraph (g)(iii), or where the patent protection period of the presentation with respect to the presentation that the application is made under this regulation expires before the end of the three financial years, the period until the date of the expiration of the patent protection period from the first financial year following the most recent one referred to in paragraph (g)(iii), including—
+    - (aa) manufacturing and supply costs,
+    - (bb) research and development costs,
+    - (cc) operational costs, and
+    - (dd) any other costs;
+- (h) the price at which the manufacturer's or supplier's reasonable costs for the presentation, as determined by the Secretary of State would be met;
+- (i) the estimated total net sales income after deduction of reasonable costs as determined by the Secretary of State over the most recent complete financial year, or where the application is made by a new manufacturer or supplier, until the end of the latest complete month in the current financial year, and the following three financial years—
+  - (i) if the presentation was supplied at its current maximum price, and
+  - (ii) if the presentation was supplied at the proposed increase in maximum price.
+
+(8) For the purposes of this regulation, where there is more than one patent protection period with respect to the presentation that the application under this regulation is made, the patent protection period which expires on the latest date will apply.
+
+### 12. Decreases
+
+(1) A manufacturer or supplier intending to make an application for a price decrease under paragraph (4) must record and keep for a period of six years the information required for such an application under this regulation.
+
+(2) Subject to paragraph (3), the Secretary of State must within a period of 28 days, on receipt of all of the information required as part of an application made by a manufacturer or supplier in accordance with paragraph (4), confirm or decrease the maximum price of a presentation by direction to that manufacturer or supplier.
+
+(3) Where the number of applications received by the Secretary of State under this regulation makes it impracticable for the Secretary of State to reply to all or any of the applications within the 28 day period, the Secretary of State may extend that period for a further 28 days and must notify the manufacturer or supplier if this is the case within the 28 day period.
+
+(4) A request by a manufacturer or supplier to the Secretary of State for a reduction of the maximum price of an item of presentation must be made in writing and must—
+
+- (a) specify the presentation in respect of which the request is made;
+- (b) state the reasons for the request; and
+- (c) specify the proposed reduced maximum price.
+
+### 13. Former voluntary scheme members
+
+(1) Where these Regulations apply to a manufacturer or supplier after they have left a voluntary scheme the maximum price which may be charged for an item of presentation by a manufacturer or supplier will be the price as determined by the Secretary of State by direction.
+
+(2) When making a direction under paragraph (1) the Secretary of State may take into account the following factors—
+
+- (a) any permanent reductions of price under the relevant voluntary scheme;
+- (b) any permanent increases of price under that scheme; and
+- (c) any other relevant factors.
+
+### 14. Recoverable sum
+
+(1) Paragraph (2) applies where a manufacturer or supplier supplies an item of presentation at a price in excess of the maximum price permitted by regulation 8.
+
+(2) Where this paragraph applies, the manufacturer or supplier is liable to pay to the Secretary of State a recoverable sum, calculated in accordance with Schedule 4, until the maximum price that the manufacturer or supplier charges for an item of the presentation is the maximum price permitted by regulation 8.
+
+### 15. Interest payable on late payment of the recoverable sum
+
+(1) Paragraph (2) applies where any amount of the recoverable sum notified to the manufacturer or supplier under regulation 17 is not paid in accordance with that notice and so is overdue.
+
+(2) Where this paragraph applies, the manufacturer or supplier is liable to pay to the Secretary of State interest, calculated in accordance with paragraph (3) read with regulation 1(4) and 17(5), on the amount of the recoverable sum which is overdue until that sum is paid.
+
+(3) The interest payable under paragraph (2) shall be simple interest calculated from day to day at a rate of 2.5 per cent per annum over the Bank of England base rate as it may be from time to time applied to any amount outstanding on that day.
+
+(4) For the purpose of this regulation the “**Bank of England base rate**” means—
+
+- (a) the rate announced from time to time by the Monetary Policy Committee of the Bank of England as the official dealing rate, being the rate at which the Bank is willing to enter into transactions for providing short term liquidity in the money markets; or
+- (b) where an order under section 19 of the Bank of England Act 1998 (reserve powers) is in force, any equivalent rate determined by the Treasury under that section.
+
+### 16. Penalties
+
+(1) Paragraph (2) applies where a manufacturer or supplier supplies an item of presentation at a price in excess of the maximum price permitted by regulation 8.
+
+(2) Where this paragraph applies, the manufacturer or supplier is liable to pay to the Secretary of State a penalty, calculated on a daily basis in accordance with Schedule 5 read with regulation 17(5) and (6), until the maximum price that the manufacturer or supplier charges for an item of that presentation is the maximum price permitted by regulation 8.
+
+(3) Paragraph (4) applies where a manufacturer or supplier contravenes regulation 9(2).
+
+(4) Where this paragraph applies, the manufacturer or supplier is liable to pay to the Secretary of State a single penalty not exceeding £100,000.
+
+(5) The level of penalty referred to in paragraph (4) is to be determined by the Secretary of State, having regard to, among other factors, the following factors—
+
+- (a) whether the manufacturer or supplier has previously contravened regulation 8;
+- (b) the total net sales income of the manufacturer or supplier;
+- (c) the estimated quantity of supply of the presentation; and
+- (d) the difference between the gross sales income that the manufacturer or supplier received for the supply of the presentation prior to the determination of the maximum price by the Secretary of State and the maximum price as determined by the Secretary of State.
+
+### 17. Demands and appeals
+
+(1) Where a manufacturer or supplier is liable to pay a recoverable sum under regulation 14(2) the Secretary of State may make a demand for payment from the manufacturer or supplier.
+
+(2) A demand made under paragraph (1) must be made by way of issuing a written notice to that manufacturer or supplier and must state—
+
+- (a) the amount of the recoverable sum calculated up to the date on which the demand is made;
+- (b) the date before the end of which the recoverable sum must be paid;
+- (c) the daily rate at which the interest, calculated in accordance with regulation 15(2) and payable once the recoverable sum is overdue, is to accrue for as long as the recoverable sum continues to be overdue; and
+- (d) the manufacturer's or supplier's appeal rights.
+
+(3) Where a manufacturer or supplier is liable to pay a penalty under regulation 16(2) or (4), the Secretary of State may make a demand for payment of the penalty from the manufacturer or supplier.
+
+(4) A demand made under paragraph (3) must be made by way of issuing a written notice to that manufacturer or supplier and must state—
+
+- (a) either or both of the following—
+  - (i) the amount of penalty calculated in accordance with regulation 16(2) up to the date on which the demand is made,
+  - (ii) the amount of penalty determined by the Secretary of State in accordance with regulation 16(5);
+- (b) the date before which the amounts referred to in sub-paragraph (a)(i) or (ii) must be paid;
+- (c) with respect to a penalty calculated in accordance with regulation 16(2) the daily rate at which the penalty continues to accrue until the maximum price that that manufacturer or supplier charges for an item of the presentation is the maximum price permitted by regulation 8;
+- (d) the manufacturer's or supplier's appeal rights.
+
+(5) If a manufacturer or supplier sends a notice of an appeal to the Tribunal in accordance with regulation 4 of the Health Service Medicines (Price Control Appeal) Regulations 2000, in respect of a demand issued by way of a notice under paragraph (2) or (4), the period beginning on the date that the notice is received by the Tribunal to the date on which the appeal is finally determined or is withdrawn is discounted for the purposes of the calculation of the number of days in respect of which—
+
+- (a) the recoverable sum is overdue; or
+- (b) the manufacturer or supplier supplies an item of presentation in excess of the maximum price permitted by regulation 8.
+
+(6) For the purposes of calculating the amount of penalty by reference to a number of days, the day on which the manufacturer or supplier charges the maximum price permitted by regulation 8 for that presentation does not count towards the calculation of that number of days.
+
+## PART 3 — INFORMATION REQUIREMENTS
+
+### 18. Provision of information for payment scheme
+
+(1) A manufacturer or supplier required to make payments under regulation 3 or under a direction given under regulation 4(2)(b), must record and keep for a period of six years the information required under Schedule 1 and provide that information to the Secretary of State in accordance with Schedule 1.
+
+(2) This regulation does not apply to a small manufacturer or supplier or a new manufacturer or supplier.
+
+### 19. New manufacturer or supplier
+
+(1) A new manufacturer or supplier required to make payments under regulation 3 or under a direction given under regulation 4(2)(b) must record and keep for a period of six years the information required under Schedule 3 and provide that information to the Secretary of State in accordance with Schedule 3.
+
+(2) This regulation does not apply to a small manufacturer or supplier.
+
+### 20. Small manufacturer or supplier
+
+(1) A small manufacturer or supplier must record and keep the information required under Schedule 2 and provide that information to the Secretary of State in accordance with Schedule 2.
+
+(2) Where a manufacturer or supplier has provided information in accordance with paragraphs 4 or 5 of Schedule 2, the Secretary of State may, for the purposes of verifying the information provided, request the manufacturer or supplier to provide that information in an audited form.
+
+(3) A request under paragraph (2)—
+
+- (a) must be made within 12 months of receipt of the information provided in accordance with paragraphs 4 or 5 of Schedule 2;
+- (b) must require the audited sales report to be provided within a period of not less than 3 months and not more than 12 months of the date on which the Secretary of State made the request; and
+- (c) must not require the audited sales report to be provided before the completion of the first 9 months following the last day of the manufacturer's or supplier's financial year.
+
+### 21. Sales report
+
+(1) Where a manufacturer or supplier is required to provide the Secretary of State with a “sales report” by these Regulations, the sales report must be provided via the relevant NHS BSA online gateway and must set out—
+
+- (a) the total of the net sales income of the manufacturer or supplier;
+- (b) the total of the net sales income received for the total supply of all presentations in respect of which that manufacturer or supplier is required to make a payment under regulation 3 and any direction given under regulation 4;
+- (ba)[^key-ff16cf7244ed32296522b317d6193fc4] the total of the net sales income received for the total supply of presentations which are newer presentations and older presentations in respect of which that manufacturer or supplier is required to make a payment in accordance with regulation 3 and any direction given under regulation 4;
+- (c) the total payments required from the manufacturer or supplier in accordance with regulation 3 and any direction given under regulation 4;
+- (ca)[^key-17870085889d3df5bdd1f3d8f9d84d6b] the total payments for newer presentations and older presentations required to be paid by the manufacturer or supplier in accordance with regulation 3 and any direction given under regulation 4;
+- (d) with respect to a contract with a contracting authority based on a framework agreement under which the item of presentation supplied is excluded from the calculation of net sales income in accordance with regulation 3(4)(a)(i), details of the contract with the contracting authority, the framework agreement on which that contract is based and the item of presentation so supplied;
+- (e) with respect to a public contract under which the item of presentation supplied is excluded from the calculation of net sales income in accordance with regulation 3(4)(a)(ii), details of the public contract and the item of presentation so supplied;
+- (f) the total of the net sales income received in respect of the total supply of all of the items of presentations in sub-paragraphs (d) and (e);
+- (fa)[^key-2f6ddcebbd036850c326a984920ada73] with respect to the net sales income received in respect of the supply of an item of presentation under a contract with a contracting authority based on a framework agreement to which a payment percentage is determined in accordance with regulation 3(5A), details of the contract with the contracting authority, the framework agreement on which that contract is based and the item of presentation so supplied;
+- (fb) with respect to the net sales income received in respect of the supply of an item of presentation under a public contract to which a payment percentage is determined in accordance with regulation 3(5A), details of the public contract and item of presentation so supplied;
+- (fc) the total of the net sales income received in respect of the total supply of all of the items of presentations referred to in sub-paragraphs (fa) and (fb);
+- (g) the items of low cost presentation supplied and the total of the net sales income received in respect of the total supply of all of those presentations;
+- (ga)[^key-289b8c8aaca5e192758edc4fd81ae011] each item of new active substance presentation supplied and the total of the net sales income received in respect of the total supply of all of those presentations;
+- (gb) each item which is a line extension to which regulation 3(4)(f) applies that is supplied and the total of the net sales income received in respect of the total supply of all those presentations;
+- (gc) each item of exceptional central procurement presentation supplied and the total of the net sales income received in respect of the total supply of all of those presentations;
+- (gd) each item of centrally procured vaccine presentation supplied and the total of the net sales income received in respect of the total supply of all of those presentations;
+- (ge) each item of presentation of plasma derived medicinal products supplied and the total of the net sales income received in respect of the total supply of all of those presentations;
+- (gf) each item of presentation to which regulation 3(4A)(b) applies that is supplied and the total of the net sales income received in respect of the total supply of all of those presentations;
+- (h) the items of parallel distribution presentation supplied and the total of the net sales income received in respect of the total supply of all of those presentations;
+- (i) the items of voluntary scheme presentation supplied and the total of the net sales income received in respect of the total supply of all of those presentations;
+- (j) information which verifies that the items of presentation in sub-paragraph (i) are items of voluntary scheme presentation;
+- (k) the products other than medicinal products supplied and the total of the net sales income received in respect of the total supply of all of those products;
+- (l) the Non United Kingdom medicinal products supplied and the total of the net sales income received in respect of the total supply of all of those products;
+- (m) except the medicinal products listed at sub-paragraphs (o) and (p), the medicinal products supplied for purposes other than for health service use and the total of the net sales income received in respect of the total supply of all of those medicinal products;
+- (n) to the extent not already required by paragraph (b),[^key-6b57841826bea22dcc3f0609275cdf97] the unbranded generic health service medicines supplied and the total of the net sales income received in respect of the total supply of all of those unbranded generic health service medicines;
+- (o) the medicinal products subject to general sale supplied and the total of the net sales income received in respect of the total supply of all of those medicinal products; and
+- (p) the pharmacy medicines supplied and the total of the net sales income received in respect of the total supply of all of those pharmacy medicines.
+
+(1A)[^key-66dff6988f9a26037adb3fba46f181c6] Each manufacturer or supplier must provide information in a manner that supports a best estimate calculation of any payments due under regulation 3(1AA) for the period a sales report covers and an explanation to the satisfaction of the Secretary of State of the method of calculating that best estimate with the relevant sales report.
+
+(2) Paragraph (3) applies where it is not possible to distinguish, in information relating to net sales income, between—
+
+- (a) medicinal products that are or were for health service use and medicinal products that are not or were not for health service use;
+- (b) medicinal products that are or were for use outside the United Kingdom and medicinal products that are not or were not for use outside of the United Kingdom.
+
+(3) Where this paragraph applies, a manufacturer or supplier must provide information on the basis of a best estimate of the net sales income for medicinal products that are or were likely to be for health service use, or that are or were for use outside of the United Kingdom, as the case may be, but only if, when it provides the information to the Secretary of State, the producer explains to the satisfaction of the Secretary of State—
+
+- (a) the method of calculating the best estimate; and
+- (b) why the information could only be provided on the basis of a best estimate of the net sales income for medicinal products that are likely to be for health service use or that are likely to be for use outside of the United Kingdom, as the case may be.
+
+(4) In this regulation—
+
+- “**medicinal products subject to general sale**” is to be construed in accordance with regulation 5 of the 2012 Regulations;
+- “**Non United Kingdom medicinal products**” means a medicinal product—
+  - (a) which is a branded medicine;
+  - (b) which is a prescription only medicine; and
+  - (c) which is for use outside of the United Kingdom; and
+- “**pharmacy medicines**” is to be construed in accordance with regulation 5 of the 2012 Regulations.
+
+### 22. Presentation report
+
+Where a manufacturer or supplier is required to provide the Secretary of State with a “presentation report” by these Regulations, the presentation report must be provided via the relevant NHS BSA online gateway and, with respect to each presentation, separately set out—
+
+- (a) the name of each presentation supplied and whether it is a newer presentation or an older presentation[^key-a1c916707486bb9900e82e9aeb9ea227];
+- (b) except in relation to the supply of items of presentation specified in regulation 3(4)(a), (b), (c), (d), (g) and (h)[^key-e28ffc6b4431d1768380a88c5d833195], the quantity of each presentation supplied to—
+  - (i) wholesalers,
+  - (ii) primary medical services providers,
+  - (iii) NHS chemists,
+  - (iv) relevant UK hospitals, and
+  - (v) any other persons or bodies;
+- (c) except in relation to the supply of items of presentations specified in regulation 3(4)(a), (b), (c), (d), (g) and (h)[^key-42fde6d460097f434dc8db77bdc1b693], the total gross sales income and total net sales income received for the supply of each presentation to each of the categories listed in paragraph (b);
+- (d) with respect to a contract with a contracting authority based on a framework agreement under which the item of presentation supplied is excluded from the calculation of net sales income in accordance with regulation 3(4)(a)(i), details of the contract with the contracting authority, the framework agreement on which that contract is based and the item of presentation so supplied;
+- (e) with respect to a public contract under which the item of presentation supplied is excluded from the calculation of net sales income in accordance with regulation 3(4)(a)(ii), details of the public contract and the item of presentation so supplied;
+- (f) the quantity supplied and the total gross sales income and total net sales income received for the supply of—
+  - (i) each presentation which was supplied under a contract with a contracting authority based on a framework agreement, where the framework agreement was entered into on or before the date of coming into force of these Regulations or was entered into following a tender which closed on or before the date of coming into force of these Regulations, and
+  - (ii) each presentation which was supplied under a public contract entered into before the date of the coming into force of these Regulations or was entered into following a tender which closed on or before the date of the coming into force of these Regulations;
+- (fa)[^key-71e260868331f2231af4fbd8e34b5666] with respect to the net sales income received in respect of the supply of an item of presentation under a contract with a contracting authority based on a framework agreement to which a payment percentage is determined in accordance with regulation 3(5A), details of the contract with the contracting authority, the framework agreement on which that contract is based and the item of presentation so supplied;
+- (fb) with respect to the net sales income received in respect of the supply of an item of presentation under a public contract to which a payment percentage is determined in accordance with regulation 3(5A), details of the public contract and the item of presentation so supplied;
+- (fc) the quantity supplied and the total gross sales income and total net sales income received in respect of the supply of—
+  - (i) each presentation which was supplied under a contract with a contracting authority based on a framework agreement, where the framework agreement was entered into on or after 1st April 2018 but before 1st January 2019 or was entered into following a tender which closed on or after 1st April 2018 but before 1st January 2019, and
+  - (ii) each presentation which was supplied under a public contract entered into on or after 1st April 2018 but before 1st January 2019, or was entered into following a tender which closed on or after 1st April 2018 but before 1st January 2019;
+- (g) the quantity supplied and the total gross sales income and the total net sales income received for the supply of each low cost presentation;
+- (ga)[^key-1eda0623adf188b5b042df3f5687533b] the quantity supplied and the total gross sales income and the total net sales income received for the supply of each item of new active substance presentation supplied;
+- (gb) the quantity supplied and the total gross sales income and the total net sales income received for the supply of each item which is a line extension to which regulation 3(4)(f) applies that is supplied;
+- (gc) the quantity supplied and the total gross sales income and the total net sales income received for the supply of each item of exceptional central procurement presentation supplied;
+- (gd) the quantity supplied and the total gross sales income and the total net sales income received for the supply of each item of centrally procured vaccine presentation supplied;
+- (ge) the quantity supplied and the total gross sales income and the total net sales income received for the supply of each item of presentation of plasma derived medicinal products;
+- (gf) the quantity supplied and the total gross sales income and the total net sales income received for the supply of each item of presentation to which regulation 3(4A)(b) applies that is supplied;
+- (h) the quantity supplied and the total gross sales income and the total net sales income received for the supply of each parallel distributed presentation;
+- (i) the quantity supplied and the total gross sales income and the total net sales income received for the supply of each voluntary scheme presentation; and
+- (j) for the purposes of paragraph (i), information which verifies that the relevant presentation is a voluntary scheme presentation.
+
+### 23. Audited information
+
+(1) Any information required to be audited by these Regulations, including an audited sales report, must be prepared and approved by the manufacturer or supplier and audited by a qualified independent auditor and must be accompanied by—
+
+- (a) a statement from the qualified independent auditor that the audited sales report or audited information has been audited in accordance with applicable auditing standards;
+- (b) details of the specific applicable auditing standards relied on by the qualified independent auditor;
+- (c) a report by the qualified independent auditor and signed by the qualified independent auditor which provides a reasonable assurance (as provided for in the applicable auditing standards) that the information in the audited sales report or audited information has not been materially misstated; and
+- (d) the final audit plan prepared in accordance with the applicable auditing standards.
+
+(1A)[^key-d77b5c5204d0d5b9c6c96743db0a558a] Where a manufacturer or supplier has provided information under regulation 21 or 22, the Secretary of State may, for the purposes of verifying the information provided, request the manufacturer or supplier to provide that information in an audited form.
+
+(1B) A request made under paragraph (1A)—
+
+- (a) must be made within 12 months of receipt of the information provided in accordance with the relevant report; and
+- (b) must require the audited report to be provided within a period of not less than 3 months and not more than 12 months from the date on which the Secretary of State makes the request.
+
+(1C)[^key-2e18fb87298f7a2548629b4d508ef40d] A manufacturer or supplier who provides a presentation report to the Secretary of State in accordance with Schedule 1 or Schedule 3 must, at the same time as providing an audited sales report, provide the Secretary of State with—
+
+- (a) a statement from the manufacturer or supplier that the most recently submitted presentation report has been subject to procedures agreed between the manufacturer or supplier and a qualified independent auditor in accordance with an applicable related services standard; and
+- (b) the relevant report of the qualified independent auditor produced in accordance with the applicable related services standard.
+
+(2) In this regulation—
+
+- “**applicable auditing standards**” means any relevant International Standard on Auditing and related Statements or Standards produced by the Financial Reporting Council Limited [^c22929341]; [^key-9b0a6f11643f71549effcfd011d567b3]...
+- “[^key-51b2e7a885a761c49e0f1eb851eb71ec]**applicable related services standard**” means any relevant International Standard on Related Services recognised by, or equivalent standard produced by, the Financial Reporting Council Limited; and
+- “**qualified independent auditor**” means the auditor of the manufacturer's or supplier's statutory audited accounts, or with the agreement of the Secretary of State, another suitably qualified auditor.
+
+### 24. Written declaration of approval
+
+(1) Where a manufacturer or supplier is required to provide any information by these Regulations the information must be accompanied by a written declaration of approval from—
+
+- (a) the director of the manufacturer or supplier; or
+- (b) in the case of a small manufacturer or supplier, a designated senior official.
+
+(2) For the purposes of paragraph (1)(b) a designated senior official cannot provide a written declaration of approval unless the director or the board of the manufacturer or supplier has provided written authority specifying that the designated senior official has authority to approve the information required by these Regulations.
+
+(3) For the purposes of paragraph (1) a director or senior official of a manufacturer or supplier must not approve information unless they are satisfied that the information gives a true and fair account of the information required and must include a statement to that effect in the written declaration of approval.
+
+### 25. Review
+
+(1) If on a review of any information provided to the Secretary of State under these Regulations the Secretary of State considers that a manufacturer or supplier has paid an amount different to the amount required by regulation 3 or by a direction given under regulation 4, the Secretary of State may—
+
+- (a) by way of issuing a notice to the manufacturer or supplier require that person to pay an additional amount; or
+- (b) pay an amount to the manufacturer or supplier.
+
+(2) The Secretary of State is to determine the amount referred to in paragraph (1) by determining the difference between the amount the manufacturer or supplier should have paid had the payment been made in accordance with regulation 3 or a direction given under regulation 4 and the amount actually received by the Secretary of State.
+
+(3) In determining the amount under paragraph (1) the Secretary of State may take into account any information on medicinal products, whether or not the Secretary of State obtained that information under these Regulations.
+
+(4) A notice made under paragraph (1)(a) must be in writing and must specify—
+
+- (a) the period to which the amount to be paid relates;
+- (b) the amount to be paid referred to in paragraph (1);
+- (c) the period, which must not be less than 28 days from the date that the notice is issued by the Secretary of State, within which the payment must be made; and
+- (d) the manufacturer's or supplier's appeal rights.
+
+(5) Where the Secretary of State considers that the information provided by a manufacturer or supplier under these Regulations does not reflect the information that is required to be kept and recorded by these Regulations, the Secretary of State may require that the manufacturer or supplier record and keep for a period of six years what the Secretary of State considers to be the correct information and provide that information or part of that information to the Secretary of State on request.
+
+(6) In this regulation, “**review of any information provided to the Secretary of State**” includes review of estimated or audited information.
+
+### 26. Penalties, demands and appeals
+
+(1) If the Secretary of State considers that the information provided or to be provided by a manufacturer or supplier under regulation 3B(7) or 3C(3) or (7) or this Part is incomplete (“[^key-da355dccfb5f4bd4f9107b5c6b60a923]**incomplete**” includes circumstances where no information has been provided, notwithstanding the obligation to provide it), he may write to the manufacturer or supplier, and where appropriate by giving an information notice, to request complete information from the manufacturer or supplier be provided within a period of 30 days.
+
+(2) In making a determination under paragraph (1), the Secretary of State may take into account any information on medicinal products, whether or not the Secretary of State obtained the information under these Regulations.
+
+(3) Paragraph (4) applies where a manufacturer or supplier contravenes regulation 18, 19, 20, 21, 22, 23, 24 or 25 or paragraph (1) of this regulation.
+
+(4) Where this paragraph applies, the manufacturer or supplier is liable to pay to the Secretary of State a penalty, calculated on a daily basis in accordance with Schedule 5 read with paragraph (8) and (9), until the manufacturer or supplier complies with the relevant regulation (except to the extent that it is no longer possible to meet a deadline because the deadline has passed).
+
+(5) Where a manufacturer or supplier is liable to pay a penalty, the Secretary of State may make a demand for payment from the manufacturer or supplier.
+
+(6) A demand made under paragraph (5) must be made by way of issuing a written notice to that manufacturer or supplier and must state—
+
+- (a) the amount of the penalty calculated in accordance with paragraph (4) up to the date on which the demand is made;
+- (b) the date before which the penalty must be paid;
+- (c) the daily rate at which the penalty continues to accrue until the manufacturer or supplier complies with the relevant regulation (except to the extent that it is no longer possible to meet the deadline because the deadline has passed); and
+- (d) the manufacturer's or supplier's appeal rights.
+
+(7) Where a manufacturer or supplier is liable to pay a penalty under regulation 6 and liable to pay a penalty under this regulation for failing to provide a sales report in respect of the same period in accordance with Schedule 1 or 3, as the case may be, the Secretary of State may make a demand for the payment of a penalty under regulation 7(3) or under paragraph (5) but not under both.
+
+(8) If a manufacturer or supplier sends a notice of an appeal to the Tribunal in accordance with regulation 4 of the Health Service Medicines (Price Control Appeal) Regulations 2000 [^c22929351], in respect of a demand made under paragraph (4), the period beginning on the date that the notice is received by the Tribunal to the date on which the appeal is finally determined or is withdrawn is discounted for the purposes of the calculation of the number of days in respect of which the manufacturer or supplier contravenes regulation 18, 19, 20, 21, 22, 23, 24 or 25 or paragraph (1) of this regulation, as the case may be.
+
+(9) For the purposes of calculating the amount of penalty by reference to a number of days, the day on which the manufacturer or supplier starts to comply with the relevant regulation, does not count towards the calculation of that number of days.
+
+## PART 4 — GENERAL PROVISIONS
+
+### 27. Appeals
+
+Any manufacturer or supplier in respect of whom the Secretary of State has made an enforcement decision [^c22929361] under these Regulations has a right of appeal against that decision in accordance with the Health Service Medicines (Price Control Appeal) Regulations 2000.
+
+### 28. Revocation, saving and transitional provisions
+
+(1) Subject to paragraph (2), the Health Service Medicines (Information Relating to Sales of Branded Medicines etc.) Regulations 2007 [^c22929371] and the 2008 Regulations are revoked.
+
+(2) In respect of any liability of a person to pay amounts to the Secretary of State in relation to a breach of the Health Service Medicines (Information Relating to Sales of Branded Medicines etc.) Regulations 2007 or the 2008 Regulations arising under those Regulations prior to the date of the coming into force of these Regulations, those Regulations continue to apply.
+
+### 29. Annual review
+
+(1) Before the end of the review period, the Secretary of State must—
+
+- (a) carry out a review of these Regulations;
+- (b) set out the conclusions of the review in a report; and
+- (c) publish the report.
+
+(2) The report must in particular—
+
+- (a) set out the objectives intended to be achieved by the scheme established by these Regulations;
+- (b) assess the extent to which these objectives are achieved; and
+- (c) assess whether those objectives remain appropriate and, if so, the extent to which they could be achieved with a system that imposes less regulation.
+
+(3) Under this regulation, “**review period**” means the period of one year beginning on the date of the coming into force of these Regulations.
+
+Signed by the authority of the Secretary of State for Health and Social Care.
+
+O'Shaughnessy
+
+Parliamentary Under-Secretary of State,
+
+Department of Health and Social Care
+
+SCHEDULES
+
+## SCHEDULE 1 — General provisions for payment scheme
+
+Regulations 3, 4 and 18
+
+### 1. Payment scheme requirements
+
+Any payments required to be made by regulation 3(1)[^key-e6eea27332f84c9c7e8ccb5a98fb7cc6] or by a direction given under regulation 4(2)(b) by a manufacturer or supplier to whom this Schedule applies must—
+
+- (a) be paid in accordance with table 1 so that they are made in respect of the period specified in column (1) within the period specified in column (2);
+- (b) be paid by electronic transfer no later than the last day of the period within which payment must be made; and
+- (c) be calculated, where relevant, in accordance with the rules in paragraphs 3 to 9[^key-bb54f13e684c11774a179ca24c43c50a].
+
+  Table 1
+
+  | *Column (1)**Period to cover* | *Column (2)**Period within which payment must be made* |
+  | --- | --- |
+  | Each quarter | Within 30 days of the last day of that quarter |
+  | Each remaining period | Within 30 days of the last day of that remaining period |
+
+**1A.**[^key-ce0b5175a88cf17a51debcd0fef29e91] Any payment required to be made under regulation 3(1AA) by a manufacturer or supplier to whom this Schedule applies must—
+
+- (a) be paid annually at the same time as the relevant presentation report is due;
+- (b) be paid by electronic transfer no later than the last day of the period within which the payment must be made; and
+- (c) be calculated, where relevant, in accordance with the rules in paragraphs 3 to 9.
+
+### 2. Information requirements
+
+Information required by regulation 18 must be—
+
+- (a) provided in accordance with table 2 so that for the period specified in column (1), the information specified in column (2) must be provided within the period specified in column (3); and
+- (b) provided, where relevant, in accordance with the rules in paragraphs 3 to 9[^key-d6633be69e5ba0e9d3411dee8468916c].
+
+  Table 2
+
+  | *Column (1)**Period to cover* | *Column (2)**Information required* | *Column (3)**Period within which information must be supplied* |
+  | --- | --- | --- |
+  | Each quarter | Sales report | Within 30 days of the last day of that quarter |
+  | Each remaining period | Sales report | Within 30 days of the last day of that quarter |
+  | Each calendar[^key-f90a32a41f24b517560796784d1eb790] year | Presentation report | Within 3 months[^key-e74ed27078d3337a56c7cd891ff51da5] of the last day of that calendar[^key-aa9593070dc9a4a1431e38ecc6b1009c] year |
+  | Each financial year | Audited sales report | Within 9 months of the last day of that financial year |
+  | Each financial year | Statutory audited accounts | Within 9 months of the last day of that financial year |
+
+### 3. Rules
+
+The end date of the final period in the manufacturer's or supplier's financial year, be that the final quarter or remaining period, must be treated as extended or reduced by not more than seven days before or after that period, if the end date of the supplier's or manufacturer's financial year has, in accordance with section 390(2)(b) of the Companies Act 2006, also been reduced or extended by the same period.
+
+**4.** Where the requirement to make a payment set out in regulation 3(1) or (1AA) or[^key-24ed7571a71b731835fe981b44e8d598] under a direction given under regulation 4(2)(b) begins to apply to a manufacturer or supplier part way through any of their quarters, remaining period or financial year, the manufacturer or supplier must—
+
+- (a) in respect of that quarter or remaining period, calculate the payment and provide the sales report for the period from the date on which the requirement to make a payment in regulation 3(1) or (1AA) or under a direction given under regulation 4(2)(b) begins to apply until the end of the relevant quarter or remaining period; and
+- (b) in respect of that financial year provide the audited sales report and presentation report for the period from the date on which the requirement to make a payment in regulation 3(1) or (1AA) or a direction given under regulation 4(2)(b) begins to apply until the end of the financial year.
+
+**5.** Where the requirement to make a payment set out in regulation 3(1) or (1AA) or[^key-c28ed362aa353036cc90dbf312bec110] under a direction given under regulation 4(2)(b) stops applying to a manufacturer or supplier part way through any of their quarters, remaining period or financial year, the manufacturer or supplier must—
+
+- (a) in respect of that quarter or remaining period, calculate the payment and provide the sales report, for the period from the beginning of the quarter or remaining period to the date the requirement to make a payment in regulation 3(1) or (1AA) or under a direction given under regulation 4(2)(b) stops applying; and
+- (b) in respect of that financial year provide the audited sales report and presentation report for the period from the beginning of the financial year to the date that the requirement to make a payment in regulation 3(1) or (1AA) or under a direction given under regulation 4(2)(b) stops applying.
+
+**6.** Where a manufacturer or supplier changes the length of their current or previous accounting reference date under section 392 of the Companies Act 2006 so as to extend or shorten its current or previous accounting reference period, the manufacturer or supplier must in writing notify the Secretary of State of the new date of its accounting reference period and provide the Secretary of State with the relevant documents which show that the accounting reference period has changed within 30 days of the change.
+
+**7.** A manufacturer's or supplier's “**previous accounting reference period**” means the one immediately preceding its current accounting reference period.
+
+**8.**[^key-656a9acf92f792fd19a83bf82c71aa88] A manufacturer or supplier whose financial year does not end on 31st December must, in addition to the reports required to be provided in table 1, provide two or more audited sales reports or presentation reports to cover the period of 1st January to the last day of the relevant accounting reference period and from the first day of the subsequent accounting reference period to the end of 31st December of that calendar year so that, when taken together, the separate reports cover the entire calendar year.
+
+**9.** A manufacturer or supplier must provide two or more separate sales reports, audited sales reports or presentation reports for the period the applicable report covers in which a change to the payment percentages under regulation 3 or 3A occurs so that information concerning supplies of presentations made before and after that change are contained in separate reports and, when taken together, those reports cover the entire calendar quarter, financial year and, where paragraph 8 applies, the calendar year, as applicable.
+
+## SCHEDULE 2 — Small manufacturer or supplier
+
+Regulation 20
+
+### 1. Determination of small manufacturer or supplier
+
+A small manufacturer or supplier means—
+
+- (a) with respect to a manufacturer or supplier referred to in paragraph 2, a manufacturer or supplier that, as determined by the Secretary of State, is likely to receive in respect of the total supply of all presentations, a total net sales income below the thresholds set out in column (2) of table 1 where it satisfies the corresponding description of the manufacturer's or supplier's current accounting reference period specified in column (1) of the table; or
+- (b) with respect to a manufacturer or supplier referred to in paragraph 3, a manufacturer or supplier that has received in respect of the total supply of all presentations, a total of net sales income below the thresholds set out in column (2) of table 2 where it satisfies the corresponding description of the manufacturer's or supplier's previous accounting reference period specified in column (1) of the table.
+
+**2.** The manufacturer or supplier referred to in paragraph 1(a) is a manufacturer or supplier that would be required to make payments under regulation 3 or under a direction given under regulation 4 for a period of less than one of their complete accounting reference periods were it not for the fact that regulation 3(6) or 4(5) applied.
+
+**3.** The manufacturer or supplier referred to in paragraph 1(b) is a manufacturer or supplier that would be required to make payments under regulation 3 or under a direction given under regulation 4 for a period of one or more of their complete accounting reference periods were it not for the fact that regulation 3(6) or 4(5) applied.
+
+Table 1
+
+| *Column (1)**Length of current accounting reference period* | *Column (2)**Likely net sales income* |
+| --- | --- |
+| Twelve months | £6 million[^key-b44f902dfe983d70d99dd2d70b15107f] |
+| Less than twelve months | £6 million as proportionately reduced to the number of months in the manufacturer's or supplier's accounting reference period |
+| More than twelve months | £6 million as proportionately increased to the number of months in the manufacturer's or supplier's accounting reference period |
+
+Table 2
+
+| *Column (1)**Length of previous accounting reference period* | *Column (2)**Net sales income* |
+| --- | --- |
+| Twelve months | £6 million[^key-153e377e3af1d6739a8f4bfb3cb8d365] |
+| Less than twelve months | £6 million as proportionately reduced to the number of months in the manufacturer's or supplier's accounting reference period |
+| More than twelve months | £6 million as proportionately increased to the number of months in the manufacturer's or supplier's accounting reference period |
+
+### 4. Information requirements
+
+A manufacturer or supplier referred to in paragraph 2 that considers that it is likely to receive in respect of the total supply of all presentations, a total net sales income below the thresholds set out in column (2) of table 1 where it satisfies the corresponding description of the manufacturer's or supplier's current accounting reference period specified in column (1) of table 1, must provide in writing to the Secretary of State information setting out—
+
+- (a) an estimate of the total net sales income it is likely to receive in respect of the total supply of all presentations for its current financial year within 30 days of the date on which the requirement to make payments under regulation 3 or under a direction given under regulation 4(2)(b) would begin to apply were it not for the fact that regulation 3(6) or 4(5) applied;
+- (b) the total net sales income in respect of the total supply of all presentations for its previous financial year within 30 days of the completion of the first financial year during which the requirement to make payments under regulation 3 or under a direction given under regulation 4(2)(b) would have first applied were it not for the fact that regulation 3(6) or 4(5) applied.
+
+**5.** A manufacturer or supplier referred to in paragraph 3 must provide, in writing, information setting out its total net sales income in respect of the total supply of all presentations for each complete financial year within 30 days of each financial year that the manufacturer or supplier remains a small manufacturer or supplier.
+
+### 6. Rules
+
+This Schedule must be construed in accordance with the following rules.
+
+**7.** The end date of the final period in the manufacturer's or supplier's financial year, be that the final quarter or remaining period, must be treated as extended or reduced by not more than seven days before or after that period, if the end date of the supplier's or manufacturer's financial year has, in accordance with section 390(2)(b) of the Companies Act 2006, also been reduced or extended by the same period.
+
+**8.** Where a manufacturer or supplier changes the length of their current or previous accounting reference date under section 392 of the Companies Act 2006 so as to extend or shorten its current or previous accounting reference period, the new manufacturer or supplier must in writing notify the Secretary of State of the new date of its accounting reference period and provide the Secretary of State with the relevant documents which show that the accounting reference period has changed within 30 days of the change.
+
+**9.** A manufacturer's or supplier's “**previous accounting reference period**” means the one immediately preceding its current accounting reference period.
+
+## SCHEDULE 3 — New manufacturer or supplier
+
+Regulation 19
+
+### 1. Information requirements
+
+A new manufacturer or supplier required to make payments under regulation 3 or a direction given under regulation 4(2) must provide in writing to the Secretary of State an estimate of the total of net sales income it is likely to receive in respect of the total supply of its presentations for its first financial year within 30 days of the date on which the requirement to make a payment under regulation 3 or a direction under regulation 4(2) begins to apply to the new manufacturer or supplier.
+
+**2.** Where the new manufacturer or supplier is not a small manufacturer or supplier, the new manufacturer or supplier must provide to the Secretary of State information in column (2) of the table in respect of each corresponding quarter, remaining period or financial year specified in column (1) of that table no later than within the corresponding time in column (3) of that table.
+
+Table
+
+| *Column (1)* *Period to cover* | *Column (2)* *Information to be provided* | *Column (3)* *Period within which information must be supplied* |
+| --- | --- | --- |
+| Each quarter | Sales report | Within 30 days of the last day of that quarter |
+| Each remaining period | Sales report | Within 30 days of the last day of that remaining period |
+| Each financial year | Presentation report | Within 2 months of the last day of that financial year |
+| Each financial year | Audited sales report | Within 9 months of the last day of that financial year |
+| Each financial year | Statutory audited accounts | Within 9 months of the last day of that financial year |
+
+### 3. Rules
+
+This Schedule must be construed in accordance with the following rules.
+
+**4.** The end date of the final period in a manufacturer's or supplier's financial year, be that the final quarter or remaining period, must be treated as extended or reduced by not more than seven days before or after that period, if the end date of the supplier's or manufacturer's financial year has, in accordance with section 390(2)(b) of the Companies Act 2006, also been reduced or extended by the same period.
+
+**5.** Where the requirement to make a payment set out in regulation 3(1) or under a direction given under regulation 4(2)(b) begins to apply to a manufacturer or supplier part way through any of their quarters, remaining period or financial year the manufacturer or supplier must—
+
+- (a) in respect of that quarter or remaining period, calculate the payment and provide the sales report for the period from the date on which the requirement to make a payment in regulation 3(1) or a direction given under regulation 4(2)(b) begins to apply until the end of the relevant quarter or remaining period; and
+- (b) in respect of that financial year provide the audited sales report and presentation report for the period from the date on which the requirement to make a payment in regulation 3(1) or a direction given under regulation 4(2)(b) begins to apply until the end of the financial year.
+
+**6.** Where the requirement to make a payment set out in regulation 3(1) or under a direction given under regulation 4(2)(b) stops applying to a manufacturer or supplier part way through any of their quarters, remaining period or financial year the manufacturer or supplier must—
+
+- (a) in respect of that quarter or remaining period, calculate the payment and provide the sales report, for the period from the beginning of the quarter or remaining period to the date the requirement to make a payment in regulation 3(1) or under a direction given under regulation 4(2)(b) stops applying; and
+- (b) in respect of that financial year provide the audited sales report and presentation report for the period from the beginning of the financial year to the date that the requirement to make a payment in regulation 3(1) or under a direction given under regulation 4(2)(b) stops applying.
+
+**7.** Where a manufacturer or supplier changes the length of their current or previous accounting reference date under section 392 of the Companies Act 2006 so as to extend or shorten its current or previous accounting reference period, the new manufacturer or supplier must in writing notify the Secretary of State of the new date of its accounting reference period and provide the Secretary of State with the relevant documents which show that the accounting reference period has changed within 30 days of the change.
+
+**8.** A manufacturer's or supplier's “**previous accounting reference period**” means the one immediately preceding its current accounting reference period.
+
+## SCHEDULE 4 — Recoverable Sums
+
+Regulation 14
+
+**1.** For the purposes of regulation 14, the recoverable sum will be the sum of—
+
+- (a) the difference between the amount which the manufacturer or supplier would have received in any month where there is a contravention (that month starting on the date of the first contravention that relates to the presentation) had the product been supplied at the maximum price and the amount that the manufacturer or supplier actually received; and
+- (b) the amount calculated by multiplying that difference by the appropriate additional percentage specified in the table.
+
+**2.** In respect of a contravention described in column (1) of the following table, the appropriate additional percentage is specified opposite in column (2).
+
+Table
+
+| *Column (1)* *Contravention* | *Column (2)* *Additional percentage* |
+| --- | --- |
+| First contravention | 5% |
+| Second contravention | 15% |
+| Third contravention | 25% |
+| Fourth contravention | 35% |
+| Fifth or subsequent contravention | 50% |
+
+**3.** For the purposes of this Schedule—
+
+- (a) “second contravention” occurs where a presentation continues to be supplied in contravention of these Regulations for a period of two months after the first contravention which relates to that presentation;
+- (b) each subsequent contravention occurs where the same presentation continues to be supplied for a further period of one month from the date of a previous contravention which relates to that presentation;
+- (c) if the period between contraventions means that the amount calculated under paragraph 1(a) is zero, the next month for which there is an amount calculated under paragraph 1(a) that is greater than zero in respect of that presentation is treated as a new first contravention for the purposes of paragraph 2.
+
+## SCHEDULE 5 — Penalties
+
+Regulations 6, 16 and 26
+
+**1.** Subject to paragraph 2, the daily penalty payable by a manufacturer or supplier must be calculated by reference to—
+
+- (a) the entry in column (1) of table 1 within which the total value of its net sales income for total supply of all presentations falls;
+- (b) the amount specified in column (2) opposite that entry in respect of each day of the contravention; and
+- (c) the amount specified in column (3) opposite that entry in respect of each subsequent day of that contravention.
+
+  Table 1
+
+  | *Column (1)* *Total values of its net sales income for the total supply of all presentations in most recent complete financial year or if not available, total estimate value of its net sales income for its current financial year* | *Column (2)* *Daily penalty for first 14 days* | *Column (3)* *Daily penalty for subsequent days* |
+  | --- | --- | --- |
+  | Less than £100 million | £2,500 | £5,000 |
+  | £100 million or more | £5,000 | £10,000 |
+
+**2.** Where the Secretary of State is unable to reasonably determine the net sales income specified in the first column of table 1, the daily penalty payable by a manufacturer or supplier must be calculated by reference to—
+
+- (a) the manufacturer or supplier's Total United Kingdom sales in column (1) of table 2;
+- (b) the amount specified in column (2) opposite that entry in respect of each day of the contravention; and
+- (c) the amount specified in column (3) opposite that entry in respect of each subsequent day of that contravention.
+
+  Table 2
+
+  | *Column (1)* *Total United Kingdom sales* | *Column (2)* *Daily penalty for first 14 days* | *Column (3)* *Daily penalty for subsequent days* |
+  | --- | --- | --- |
+  | Less than £100 million | £2,500 | £5,000 |
+  | £100 million or more | £5,000 | £10,000 |
+
+**3.** Subject to paragraph 4, for the purposes of table 2, the Total United Kingdom sales will be calculated at the time the penalty becomes payable by reference to the manufacturer's or supplier's total sales in the United Kingdom as shown in its statutory audited accounts or where the manufacturer or supplier does not have statutory audited accounts, its individual accounts, for its most recent complete financial year.
+
+**4.** For the purposes of table 2, the Total United Kingdom sales of a new manufacturer or supplier will be assumed to be less than £100 million.
+
+*(This note is not part of the Regulations)*
+
+These Regulations, which apply to the United Kingdom, make a statutory scheme for the purposes of requiring specified manufacturers and suppliers who supply an item of presentation to pay to the Secretary of State an amount calculated by reference to the net sales income or where specified, estimated net sales income received for the supply of that item of presentation. These Regulations also make a statutory scheme for the purpose of limiting the price which may be charged by manufacturers and suppliers for the supply of an item of presentation.
+
+These Regulations require specified manufacturers and suppliers to record, keep and provide information to the Secretary of State for the purposes of operating the statutory scheme.
+
+Regulation 1 provides for citation, commencement and interpretation and includes a definition of relevant medicines, presentation, net sales income and unbranded generic health service medicines.
+
+Regulation 2 provides that the statutory scheme made under these Regulations does not apply to a manufacturer or supplier to whom, a voluntary scheme applies.
+
+Part I of these Regulations concerns the operation of the payment mechanism.
+
+Regulation 3 requires the specified manufacturer or supplier to pay to the Secretary of State 7.80% of its net sales income received for the supply of an item presentation in accordance with Schedule 1.
+
+Regulation 4 provides for the Secretary of State to give a direction to a manufacturer or supplier to make a payment, where a manufacturer or supplier has entered into arrangements whose main purpose or one of whose main purposes is to reduce or avoid a payment due under regulation 3.
+
+Regulation 5 provides that a manufacturer or supplier is liable to interest where an amount due under regulation 3 or under a direction given under regulation 4 is overdue.
+
+Regulation 6 provides that a manufacturer or supplier is liable to pay a penalty calculated in accordance with Schedule 5 with respect to an amount due under regulations 3 or under a direction given under regulation 4 is overdue.
+
+Regulation 7 makes provision for the Secretary of State to issue a written notice to demand payment of the interest referred to in regulation 5 or the penalty referred to in regulation 6.
+
+[^c22929381]Part II of these Regulations makes provision for the maximum price which may be charged by a manufacturer or supplier for the supply of an item of a presentation .
+
+Regulation 8 specifies that except where a direction has been given by the Secretary of State in accordance with these Regulations, the maximum price will be as follows. With respect to presentations launched before 1<sup>st</sup> December 2013, the maximum price will be the price at which that presentation was on sale for health service purposes on 1<sup>st</sup> December 2013, as determined by the Secretary of State, or where a price increase was agreed by the Secretary of State in accordance with regulation 6 of the Health Service Branded Medicines (Control of Prices and Supply of Information) (No.2) Regulations 2008, that increased price. Where the presentation was launched after 1<sup>st</sup> December 2013, the maximum price will be the price as specified by the Secretary of State in accordance with regulation 3 of the Health Service Branded Medicines (Control of Prices and Supply of Information)(No.2) Regulations 2008, or where a price was agreed by the Secretary of State in accordance with regulation 6 of those Regulations, that increased price.
+
+Regulation 9 makes provision for the Secretary of State to specify the maximum price by direction where that presentation is a new presentation.
+
+Regulation 10 makes provision for the Secretary of State to exempt presentations from the maximum price by direction where it is necessary to ensure adequate supplies of that presentation for health service use.
+
+Regulation 11 makes provision for the Secretary of State to increase the maximum price of a presentation by direction.
+
+Regulation 12 makes provision for the Secretary of State to decrease the maximum price of a presentation by direction.
+
+Regulation 13 makes provision for the Secretary of State to specify the maximum price of a presentation where a manufacturer or supplier has left a voluntary scheme.
+
+Regulations 14 to 17 make provision for enforcement of the controls on the prices of presentations. Regulation 14 provides that a manufacturer or supplier will be liable to a recoverable sum calculated in accordance with Schedule 4, regulation 15 provides that a manufacturer or supplier will be liable to interest where the payment of that recoverable sum is overdue and regulation 16 provides that a manufacturer or supplier is liable to pay a penalty where a manufacturer or supplier supplies an item of presentation at a price in excess of the maximum price permitted by regulation 8. Regulation 17 makes provision for the Secretary of State to issue a written notice demanding payment of the recoverable sum, interest or penalty.
+
+Part III of these Regulations concerns the provision of information.
+
+Regulation 18 provides for a manufacturer or supplier required to make payments under regulation 3 or a direction given under regulation 4 to record, keep and provide information in accordance with Schedule 1.
+
+Regulation 19 makes provision for new manufacturers or suppliers required to make payments under regulation 3 or a direction given under regulation 4 to record, keep and provide information in accordance with Schedule 3.
+
+Regulation 20 makes provision for small manufacturers or suppliers to record, keep and provide information in accordance with Schedule 2.
+
+Regulation 21 specifies the information that needs to be provided by a manufacturer or supplier where a manufacturer or supplier is required to provide a sales report.
+
+Regulation 22 specifies the information that needs to be provided by a manufacturer or supplier where a manufacturer or supplier is required to provide a presentation report.
+
+Regulation 23 sets out the form in which information which is required to be audited needs to be provided.
+
+Regulation 24 specifies that information provided to the Secretary of State needs to be accompanied by a written declaration of approval.
+
+Regulation 25 makes provision for the Secretary of State to specify the amount due and the information required on review of information provided by a manufacturer or supplier.
+
+Regulation 26 and Schedule 5 makes provision for enforcement of the information provisions.
+
+Part VI concerns the general provision of the statutory scheme.
+
+Regulation 27 makes provision for appeals against enforcement decisions made by the Secretary of State.
+
+Regulation 28 revokes the Health Service Medicines (Information Relating to Sales of Branded Medicines etc.) Regulation 2007 and the Health Service Branded Medicines (Control of Prices and Supply of Information)(No.2) Regulations 2008 except in relation to any liability of a person to make payments under those Regulations which existed before the coming into force date of these Regulations.
+
+Regulation 29 requires the Secretary of State to review the operation and effect of these Regulations and publish a report setting out the conclusions of that review a year after the commencement of these Regulations and annually after that.
+
+An impact assessment relating to this instrument has been prepared and copies can be obtained from the Department of Health and Social Care, 39 Victoria Street, London, SW1H 0EU.
+
+## Annotations
+
+[^c22928981]: Marginal citation: [2006 c. 41](https://www.legislation.gov.uk/ukpga/2006/41); [section 263](https://www.legislation.gov.uk/uksi/2018/345/section/263) was amended by the [Health Service Medical Supplies (Costs) Act 2017 (c.23)](https://www.legislation.gov.uk/ukpga/2017/23) (“**the 2017 Act**”), section 5 and 10(5). Section 264A was inserted by the 2017 Act, section 8. Section 265 was amended by the 2017 Act, section 6, 7 and 10. Section 266 was amended by the 2017 Act, section 6 and 7(6). *See* section 275(1) of the National Health Service Act 2006 (“**the 2006 Act**”) for the definition of “prescribed” and “regulations” that are relevant to the powers being exercised.
+
+[^c22928991]: Marginal citation: [1978 c. 29](https://www.legislation.gov.uk/ukpga/1978/29).
+
+[^c22929001]: Marginal citation: [2006 c. 42](https://www.legislation.gov.uk/ukpga/2006/42).
+
+[^c22929011]: Marginal citation: [S.I. 2008/3258](https://www.legislation.gov.uk/uksi/2008/3258) amended by [S.I. 2012/1916](https://www.legislation.gov.uk/uksi/2012/1916), 2013/2881 and 2015/233, revoked with a saving provision by the coming into force of regulation 28 of these Regulations.
+
+[^c22929021]: Marginal citation: [S.I. 2012/1916](https://www.legislation.gov.uk/uksi/2012/1916) to which there are amendments not relevant to these Regulations.
+
+[^c22929031]: Marginal citation: [2006 c. 46](https://www.legislation.gov.uk/ukpga/2006/46).
+
+[^key-d8bda40888bb4616a31c7c0de5d05e5c]: Textual amendment: Words in reg. 1 inserted (1.1.2019) by [The Branded Health Service Medicines (Costs) (Amendment) Regulations 2018 (S.I. 2018/1255)](https://www.legislation.gov.uk/uksi/2018/1255), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1255/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2018/1255/regulation/2/2/a)
+
+[^key-67d68eb0b9fda733a330b0d1c6bd93e5]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/345/regulation/1/2) inserted (1.1.2025) by [The Branded Health Service Medicines (Costs) (Amendment) Regulations 2024 (S.I. 2024/1277)](https://www.legislation.gov.uk/uksi/2024/1277), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1277/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2024/1277/regulation/3)
+
+[^key-3cd4435b42dc2095f20cdb0e00b057f8]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/345/regulation/1/2) inserted (24.2.2025) by [The Procurement Act 2023 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/163)](https://www.legislation.gov.uk/uksi/2025/163), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2), [23(2)(a)](https://www.legislation.gov.uk/uksi/2025/163/regulation/23/2/a)
+
+[^c22929041]: Marginal citation: [S.I. 2006/5](https://www.legislation.gov.uk/uksi/2006/5) revoked by regulation 116 of the [Public Contracts Regulations 2015 (S.I. 2015/102)](https://www.legislation.gov.uk/uksi/2015/102).
+
+[^c22929051]: Marginal citation: [S.S.I. 2012/88](https://www.legislation.gov.uk/ssi/2012/88) revoked by regulation 97 of the [Public Contracts (Scotland) Regulations 2015 (S.S.I. 2015/446)](https://www.legislation.gov.uk/ssi/2015/446).
+
+[^c22929061]: Marginal citation: [S.I. 2015/102](https://www.legislation.gov.uk/uksi/2015/102) to which there are amendments not relevant to this definition.
+
+[^c22929071]: Marginal citation: [S.S.I. 2015/446](https://www.legislation.gov.uk/ssi/2015/446) to which there are amendments not relevant to these Regulations.
+
+[^c22929081]: Marginal citation: OJ No L 152, 16.06.2009, p1 amended by the Treaty of Accession of Croatia (OJ No L 112, 24.4.2012, p10).
+
+[^key-38fcc0cdc1426eb87b072e124e7b2ba0]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/345/regulation/1/2) substituted (24.2.2025) by [The Procurement Act 2023 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/163)](https://www.legislation.gov.uk/uksi/2025/163), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2), [23(2)(b)](https://www.legislation.gov.uk/uksi/2025/163/regulation/23/2/b)
+
+[^c22929091]: Marginal citation: [2009 c. 1 (N.I.)](https://www.legislation.gov.uk/nia/2009/1).
+
+[^c22929101]: Marginal citation: [S.I. 2005/2414](https://www.legislation.gov.uk/uksi/2005/2414).
+
+[^c22929111]: Marginal citation: *See also* section 264A(16), which contains a transitional provision which applies until the coming into force of the repeal of section 27 of the National Health Service (Scotland) Act 1978 by Schedule 3 of the Smoking, Health and Social Care (Scotland) Act 2005 and which relates to the provision of pharmaceutical services in Scotland.
+
+[^c22929121]: Marginal citation: Copies can be obtained from https://www.pharmacopoeia.com/what-is-the-ban-book or the Stationery Office, PO Box 29, Norwich, NR3 1GN.
+
+[^c22929131]: Marginal citation: *See* Article 57(1)(o) of Regulation (EC) 726/2004 of the European Parliament and of the Council of 31 March 2004 laying down Community procedures for the authorisation and supervision of medicinal products for human and veterinary use and establishing a European Medicines Agency (OJ No L 136, 30.04.2004, p1) as last amended by Regulation No 1072/2012 of the European Parliament and of the Council of 25 October 2012 (OJ No L316 14.11.2012, p38).
+
+[^c22929141]: Marginal citation: [Section 2C](https://www.legislation.gov.uk/uksi/2018/345/section/2C) was inserted by the [Primary Medical Services (Scotland) Act 2004 (asp 1)](https://www.legislation.gov.uk/asp/2004/1) section 1(2), and has been amended by: the [National Health Service Reform (Scotland) Act 2004 (asp 7)](https://www.legislation.gov.uk/asp/2004/7), [Schedule 1](https://www.legislation.gov.uk/asp/2004/7/schedule/1), [paragraph 1(3)](https://www.legislation.gov.uk/asp/2004/7/paragraph/1/3); the [Tobacco and Primary Medical Services (Scotland) Act 2010 (asp 3)](https://www.legislation.gov.uk/asp/2010/3), [section 37](https://www.legislation.gov.uk/asp/2010/3/section/37); and SSI 2010/283.
+
+[^c22929151]: Marginal citation: [Section 17J](https://www.legislation.gov.uk/uksi/2018/345/section/17J) was inserted by the [Primary Medical Services (Scotland) Act 2004 (asp 1)](https://www.legislation.gov.uk/asp/2004/1), [section 4](https://www.legislation.gov.uk/asp/2004/1/section/4).
+
+[^c22929161]: Marginal citation: [Section 17C](https://www.legislation.gov.uk/uksi/2018/345/section/17C) was inserted by the [National Health Service (Primary Care) Act 1997 (c. 46)](https://www.legislation.gov.uk/ukpga/1997/46), [section 21(2)](https://www.legislation.gov.uk/ukpga/1997/46/section/21/2), and has been amended by: the [Primary Medical Services (Scotland) Act 2004 (asp 1)](https://www.legislation.gov.uk/asp/2004/1), [section 2(2)](https://www.legislation.gov.uk/asp/2004/1/section/2/2); and the [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [Schedule 21](https://www.legislation.gov.uk/ukpga/2012/7/schedule/21), [paragraph 3(2)(a)](https://www.legislation.gov.uk/ukpga/2012/7/paragraph/3/2/a).
+
+[^c22929171]: Marginal citation: [S.I. 1972/1265 (N.I. 14)](https://www.legislation.gov.uk/nisi/1972/1265).
+
+[^key-425b3bf1a36225fc4920a4dfe1dc1e0c]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/345/regulation/1/2) substituted (24.2.2025) by [The Procurement Act 2023 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/163)](https://www.legislation.gov.uk/uksi/2025/163), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2), [23(2)(c)](https://www.legislation.gov.uk/uksi/2025/163/regulation/23/2/c)
+
+[^key-97706a955f72e8834e7a611fc5a426d4]: Textual amendment: Words in reg. 1 inserted (1.1.2019) by [The Branded Health Service Medicines (Costs) (Amendment) Regulations 2018 (S.I. 2018/1255)](https://www.legislation.gov.uk/uksi/2018/1255), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1255/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2018/1255/regulation/2/2/b)
+
+[^c22929191]: Marginal citation: [S.I. 2004/629](https://www.legislation.gov.uk/uksi/2004/629).
+
+[^c22929201]: Marginal citation: [1978 c. 29](https://www.legislation.gov.uk/ukpga/1978/29); [section 17N](https://www.legislation.gov.uk/uksi/2018/345/section/17N) was inserted by section 4 of the [Primary Medical Services (Scotland) Act 2004 (asp 1)](https://www.legislation.gov.uk/asp/2004/1).
+
+[^c22929211]: Marginal citation: [1978 c. 29](https://www.legislation.gov.uk/ukpga/1978/29); [section 17J](https://www.legislation.gov.uk/uksi/2018/345/section/17J) was inserted by section 4 of the [Primary Medical Services (Scotland) Act 2004 (asp 1)](https://www.legislation.gov.uk/asp/2004/1).
+
+[^c22929221]: Marginal citation: S.R. (NI) [2004 No. 142](https://www.legislation.gov.uk/ukcm/2004/142).
+
+[^c22929231]: Marginal citation: [S.I. 2004/1022](https://www.legislation.gov.uk/uksi/2004/1022).
+
+[^c22929241]: Marginal citation: The website address is https://apps.nhsbsa.nhs.uk/infosystems/welcome.
+
+[^c22929251]: Marginal citation: [Sections 390](https://www.legislation.gov.uk/uksi/2018/345/section/390), [391](https://www.legislation.gov.uk/uksi/2018/345/section/391) and 392 of the [Companies Act 2006 (c. 46)](https://www.legislation.gov.uk/ukpga/2006/46) provide that a company can have a financial year of any period between 1 day up to a maximum of 18 months, plus or minus seven days.
+
+[^key-ab1ecf931efaf7c978b66b46c6750c46]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/345/regulation/1/2) substituted (31.12.2020) by virtue of [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [reg. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [Sch. 8 para. 16(2)(e)](https://www.legislation.gov.uk/uksi/2019/775/schedule/8/paragraph/16/2/e); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c22929261]: Marginal citation: [1977 c. 37](https://www.legislation.gov.uk/ukpga/1977/37); [section 25(3)](https://www.legislation.gov.uk/uksi/2018/345/section/25/3) was amended subject to transitional provisions specified in article 3 of [S.I. 2005/2471](https://www.legislation.gov.uk/uksi/2005/2471) of the [Patents Act 2004 (c.16)](https://www.legislation.gov.uk/ukpga/2004/16), [section 8(1)](https://www.legislation.gov.uk/ukpga/2004/16/section/8/1). Section 25(4) was amended by the [Patents Act 2004 (c.16)](https://www.legislation.gov.uk/ukpga/2004/16), [section 8(2)](https://www.legislation.gov.uk/ukpga/2004/16/section/8/2).
+
+[^c22929271]: Marginal citation: [2000 c. 36](https://www.legislation.gov.uk/ukpga/2000/36).
+
+[^c22929281]: Marginal citation: [2002 asp 13](https://www.legislation.gov.uk/asp/2002/13).
+
+[^c22929291]: Marginal citation: [2006 c. 41](https://www.legislation.gov.uk/ukpga/2006/41); [section 261(1)](https://www.legislation.gov.uk/uksi/2018/345/section/261/1) was amended by the [Health Service Medical Supplies (Costs) Act 2017 (c.23)](https://www.legislation.gov.uk/ukpga/2017/23), [section 3(2)(a)](https://www.legislation.gov.uk/ukpga/2017/23/section/3/2/a).
+
+[^key-72fd0be2e511a82f7d761c24d04b9c03]: Textual amendment: [Reg. 3(1)](https://www.legislation.gov.uk/uksi/2018/345/regulation/3/1) substituted (1.1.2025) by [The Branded Health Service Medicines (Costs) (Amendment) Regulations 2024 (S.I. 2024/1277)](https://www.legislation.gov.uk/uksi/2024/1277), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1277/regulation/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2024/1277/regulation/4/2)
+
+[^key-0a4dd0ce04e981641a9ccf006b1b68e8]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2018/345/regulation/3/1) substituted (1.7.2025) by [The Branded Health Service Medicines (Costs) (Amendment) Regulations 2025 (S.I. 2025/667)](https://www.legislation.gov.uk/uksi/2025/667), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/667/regulation/1/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2025/667/regulation/3/2/a)
+
+[^key-ee943cd97302c0034522d99c5740e393]: Textual amendment: [Reg. 3(1)](https://www.legislation.gov.uk/uksi/2018/345/regulation/3/1) Table substituted (1.7.2026) by [The Branded Health Service Medicines (Costs) (Amendment) Regulations 2026 (S.I. 2026/614)](https://www.legislation.gov.uk/uksi/2026/614), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/614/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2026/614/regulation/2/2)
+
+[^key-674d64f8812942e6575272fc7d893f1d]: Textual amendment: Reg. 3(1A) inserted (1.1.2019) by [The Branded Health Service Medicines (Costs) (Amendment) Regulations 2018 (S.I. 2018/1255)](https://www.legislation.gov.uk/uksi/2018/1255), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1255/regulation/1), [2(3)(c)](https://www.legislation.gov.uk/uksi/2018/1255/regulation/2/3/c)
+
+[^key-c30fa0bc330047731e01934b8c5e56c8]: Textual amendment: [Reg. 3(1AA)](https://www.legislation.gov.uk/uksi/2018/345/regulation/3/1AA) inserted (1.1.2025) by [The Branded Health Service Medicines (Costs) (Amendment) Regulations 2024 (S.I. 2024/1277)](https://www.legislation.gov.uk/uksi/2024/1277), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1277/regulation/1/1), [4(3)](https://www.legislation.gov.uk/uksi/2024/1277/regulation/4/3)
+
+[^key-3abe3affa917abf0530f0c3349b15f27]: Textual amendment: [Reg. 3(1AB)](https://www.legislation.gov.uk/uksi/2018/345/regulation/3/1AB)[(1AC)](https://www.legislation.gov.uk/uksi/2018/345/regulation/3/1AC) inserted (1.7.2025) by [The Branded Health Service Medicines (Costs) (Amendment) Regulations 2025 (S.I. 2025/667)](https://www.legislation.gov.uk/uksi/2025/667), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/667/regulation/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2025/667/regulation/3/3)
+
+[^key-f9100db9564c63bf46bfbbc98f630e48]: Textual amendment: Words in [reg. 3(1AB)](https://www.legislation.gov.uk/uksi/2018/345/regulation/3/1AB) substituted (1.7.2026) by [The Branded Health Service Medicines (Costs) (Amendment) Regulations 2026 (S.I. 2026/614)](https://www.legislation.gov.uk/uksi/2026/614), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/614/regulation/1/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2026/614/regulation/2/3/a)
+
+[^key-36b4746f9bfa936ac88548b5772e7a35]: Textual amendment: Words in [reg. 3(1AB)](https://www.legislation.gov.uk/uksi/2018/345/regulation/3/1AB) substituted (1.7.2026) by [The Branded Health Service Medicines (Costs) (Amendment) Regulations 2026 (S.I. 2026/614)](https://www.legislation.gov.uk/uksi/2026/614), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/614/regulation/1/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2026/614/regulation/2/3/b)
+
+[^key-da53a3a5532e8a520bea5138701453b2]: Textual amendment: Words in [reg. 3(1AC)](https://www.legislation.gov.uk/uksi/2018/345/regulation/3/1AC) substituted (1.7.2026) by [The Branded Health Service Medicines (Costs) (Amendment) Regulations 2026 (S.I. 2026/614)](https://www.legislation.gov.uk/uksi/2026/614), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/614/regulation/1/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/2026/614/regulation/2/4/a)
+
+[^key-029fa565124de95a2a9514dc6471ab13]: Textual amendment: Words in [reg. 3(1AC)(a)](https://www.legislation.gov.uk/uksi/2018/345/regulation/3/1AC/a) substituted (1.7.2026) by [The Branded Health Service Medicines (Costs) (Amendment) Regulations 2026 (S.I. 2026/614)](https://www.legislation.gov.uk/uksi/2026/614), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/614/regulation/1/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/2026/614/regulation/2/4/b)
+
+[^key-8b99d2ce22cc59a143133fda465391bd]: Textual amendment: Word in [reg. 3(1AC)(b)](https://www.legislation.gov.uk/uksi/2018/345/regulation/3/1AC/b) substituted (1.7.2026) by [The Branded Health Service Medicines (Costs) (Amendment) Regulations 2026 (S.I. 2026/614)](https://www.legislation.gov.uk/uksi/2026/614), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/614/regulation/1/1), [2(4)(c)](https://www.legislation.gov.uk/uksi/2026/614/regulation/2/4/c)
+
+[^key-ce357121af02dc6ed455019a436b79e8]: Textual amendment: [Reg. 3(1B)](https://www.legislation.gov.uk/uksi/2018/345/regulation/3/1B) omitted (1.1.2024) by virtue of [The Branded Health Service Medicines (Costs) (Amendment) (No. 2) Regulations 2023 (S.I. 2023/1307)](https://www.legislation.gov.uk/uksi/2023/1307), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1307/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2023/1307/regulation/2/2/b)
+
+[^key-5add6507ee71b525bc7e84ee66c5ae2b]: Textual amendment: [Reg. 3(1C)](https://www.legislation.gov.uk/uksi/2018/345/regulation/3/1C) omitted (1.1.2024) by virtue of [The Branded Health Service Medicines (Costs) (Amendment) (No. 2) Regulations 2023 (S.I. 2023/1307)](https://www.legislation.gov.uk/uksi/2023/1307), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1307/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2023/1307/regulation/2/2/b)
+
+[^key-7cb5d732f19a1717d1364417c1746eb1]: Textual amendment: Words in [reg. 3(4)](https://www.legislation.gov.uk/uksi/2018/345/regulation/3/4) substituted (1.1.2025) by [The Branded Health Service Medicines (Costs) (Amendment) Regulations 2024 (S.I. 2024/1277)](https://www.legislation.gov.uk/uksi/2024/1277), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1277/regulation/1/1), [4(4)](https://www.legislation.gov.uk/uksi/2024/1277/regulation/4/4)
+
+[^key-e084a0008f1726a01cc91d6b666f6f02]: Textual amendment: Word in [reg. 3(4)(d)](https://www.legislation.gov.uk/uksi/2018/345/regulation/3/4/d) substituted (1.1.2024) by [The Branded Health Service Medicines (Costs) (Amendment) (No. 2) Regulations 2023 (S.I. 2023/1307)](https://www.legislation.gov.uk/uksi/2023/1307), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1307/regulation/1/1), [2(2)(c)](https://www.legislation.gov.uk/uksi/2023/1307/regulation/2/2/c)
+
+[^key-22b999e867bed8873f07b363353d8ee6]: Textual amendment: [Reg. 3(4)(e)-(h)](https://www.legislation.gov.uk/uksi/2018/345/regulation/3/4/e) inserted (1.1.2024) by [The Branded Health Service Medicines (Costs) (Amendment) (No. 2) Regulations 2023 (S.I. 2023/1307)](https://www.legislation.gov.uk/uksi/2023/1307), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1307/regulation/1/1), [2(2)(c)](https://www.legislation.gov.uk/uksi/2023/1307/regulation/2/2/c)
+
+[^key-9da459408de3725195b9cb3757b69520]: Textual amendment: [Reg. 3(4A)](https://www.legislation.gov.uk/uksi/2018/345/regulation/3/4A) inserted (1.1.2025) by [The Branded Health Service Medicines (Costs) (Amendment) Regulations 2024 (S.I. 2024/1277)](https://www.legislation.gov.uk/uksi/2024/1277), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1277/regulation/1/1), [4(5)](https://www.legislation.gov.uk/uksi/2024/1277/regulation/4/5)
+
+[^key-0e60b66495e4c7ff5db767fb3de62c68]: Textual amendment: Reg. 3(5A)-(5C) inserted (1.1.2019) by [The Branded Health Service Medicines (Costs) (Amendment) Regulations 2018 (S.I. 2018/1255)](https://www.legislation.gov.uk/uksi/2018/1255), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1255/regulation/1), [2(3)(d)](https://www.legislation.gov.uk/uksi/2018/1255/regulation/2/3/d)
+
+[^key-a60194815cd44a68c7e9dffaf98f7362]: Textual amendment: [Reg. 3(5D)-(5H)](https://www.legislation.gov.uk/uksi/2018/345/regulation/3/5D) inserted (1.1.2024) by [The Branded Health Service Medicines (Costs) (Amendment) (No. 2) Regulations 2023 (S.I. 2023/1307)](https://www.legislation.gov.uk/uksi/2023/1307), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1307/regulation/1/1), [2(2)(d)](https://www.legislation.gov.uk/uksi/2023/1307/regulation/2/2/d)
+
+[^key-8236537b07d1e013fe05783a4b38aa77]: Textual amendment: Words in [reg. 3(5H)](https://www.legislation.gov.uk/uksi/2018/345/regulation/3/5H) inserted (1.1.2025) by [The Branded Health Service Medicines (Costs) (Amendment) Regulations 2024 (S.I. 2024/1277)](https://www.legislation.gov.uk/uksi/2024/1277), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1277/regulation/1/1), [4(6)](https://www.legislation.gov.uk/uksi/2024/1277/regulation/4/6)
+
+[^key-c13ae20e262664ba08b8b2c971814f47]: Textual amendment: Reg. 3A inserted (1.1.2025) by [The Branded Health Service Medicines (Costs) (Amendment) Regulations 2024 (S.I. 2024/1277)](https://www.legislation.gov.uk/uksi/2024/1277), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1277/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2024/1277/regulation/5)
+
+[^key-ca8e227d9beef6f59fb86de91245f80a]: Textual amendment: Reg. 3B inserted (1.1.2025) by [The Branded Health Service Medicines (Costs) (Amendment) Regulations 2024 (S.I. 2024/1277)](https://www.legislation.gov.uk/uksi/2024/1277), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1277/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2024/1277/regulation/6)
+
+[^key-9389b2d7a0bf8d2784a13db9762a977f]: Textual amendment: Reg. 3C inserted (1.1.2025) by [The Branded Health Service Medicines (Costs) (Amendment) Regulations 2024 (S.I. 2024/1277)](https://www.legislation.gov.uk/uksi/2024/1277), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1277/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2024/1277/regulation/7)
+
+[^key-e5f50500aeca0687a89bf15e76b12b2a]: Textual amendment: Reg. 3D inserted (1.1.2025) by [The Branded Health Service Medicines (Costs) (Amendment) Regulations 2024 (S.I. 2024/1277)](https://www.legislation.gov.uk/uksi/2024/1277), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1277/regulation/1/1), [8](https://www.legislation.gov.uk/uksi/2024/1277/regulation/8)
+
+[^key-0ce58fb2e8630435efd884dfd2419a0d]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/uksi/2018/345/regulation/4/1) substituted (1.1.2025) by [The Branded Health Service Medicines (Costs) (Amendment) Regulations 2024 (S.I. 2024/1277)](https://www.legislation.gov.uk/uksi/2024/1277), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1277/regulation/1/1), [9](https://www.legislation.gov.uk/uksi/2024/1277/regulation/9)
+
+[^key-70617f4fba829e98f3c5ca29a1b30198]: Textual amendment: Words in reg. 4(2)(b) substituted (1.1.2019) by [The Branded Health Service Medicines (Costs) (Amendment) Regulations 2018 (S.I. 2018/1255)](https://www.legislation.gov.uk/uksi/2018/1255), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1255/regulation/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/2018/1255/regulation/2/4/a)
+
+[^key-447c6cbc8fe933f32b5dca1fd2f10ce8]: Textual amendment: Words in [reg. 4(2)(b)](https://www.legislation.gov.uk/uksi/2018/345/regulation/4/2/b) substituted (1.7.2025) by [The Branded Health Service Medicines (Costs) (Amendment) Regulations 2025 (S.I. 2025/667)](https://www.legislation.gov.uk/uksi/2025/667), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/667/regulation/1/1), [4(a)](https://www.legislation.gov.uk/uksi/2025/667/regulation/4/a)
+
+[^key-f47774a13065774aa976298620065c6d]: Textual amendment: Words in reg. 4(3)(c) substituted (1.1.2019) by [The Branded Health Service Medicines (Costs) (Amendment) Regulations 2018 (S.I. 2018/1255)](https://www.legislation.gov.uk/uksi/2018/1255), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1255/regulation/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/2018/1255/regulation/2/4/b)
+
+[^key-f542b490884a22f55f7e8b0b3f343fd1]: Textual amendment: Words in [reg. 4(3)(c)](https://www.legislation.gov.uk/uksi/2018/345/regulation/4/3/c) substituted (1.7.2025) by [The Branded Health Service Medicines (Costs) (Amendment) Regulations 2025 (S.I. 2025/667)](https://www.legislation.gov.uk/uksi/2025/667), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/667/regulation/1/1), [4(b)](https://www.legislation.gov.uk/uksi/2025/667/regulation/4/b)
+
+[^c22929301]: Marginal citation: [1998 c. 11](https://www.legislation.gov.uk/ukpga/1998/11).
+
+[^c22929311]: Marginal citation: [S.I. 2000/124](https://www.legislation.gov.uk/uksi/2000/124) as amended by [S.I. 2000/870](https://www.legislation.gov.uk/uksi/2000/870) and 2007/1898.
+
+[^c22929321]: Marginal citation: As established under Regulation (EC) 726/2004 of the European Parliament and of the Council of 31 March 2004 laying down Community procedures for the authorisation and supervision of medicinal products for human and veterinary use and establishing a European Medicines Agency (OJ No L 136, 30.04.2004, p 1).
+
+[^key-1f0436bbfaa61acaa090f829ea009ccb]: Textual amendment: Words in reg. 9(10)(b) inserted (31.12.2020) by [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775), [Sch. 8 para. 16(4)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/775/schedule/8/paragraph/16/4/a/ii) (as substituted by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 194(d)(iv)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/194/d/iv)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c22929331]: Marginal citation: OJ No L 311, 28.11.2001, p.67; [article 21](https://www.legislation.gov.uk/uksi/2018/345/article/21) was amended by Directive 2011/62/EU of the European Parliament and of the Council of 15 December 2010 (OJ No. L 348 31.12.2010, p 74).
+
+[^key-ff16cf7244ed32296522b317d6193fc4]: Textual amendment: Reg. 21(1)(ba) inserted (1.1.2025) by [The Branded Health Service Medicines (Costs) (Amendment) Regulations 2024 (S.I. 2024/1277)](https://www.legislation.gov.uk/uksi/2024/1277), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1277/regulation/1/1), [10(2)(a)](https://www.legislation.gov.uk/uksi/2024/1277/regulation/10/2/a)
+
+[^key-17870085889d3df5bdd1f3d8f9d84d6b]: Textual amendment: Reg. 21(1)(ca) inserted (1.1.2025) by [The Branded Health Service Medicines (Costs) (Amendment) Regulations 2024 (S.I. 2024/1277)](https://www.legislation.gov.uk/uksi/2024/1277), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1277/regulation/1/1), [10(2)(b)](https://www.legislation.gov.uk/uksi/2024/1277/regulation/10/2/b)
+
+[^key-2f6ddcebbd036850c326a984920ada73]: Textual amendment: Reg. 21(1)(fa)-(fc) inserted (1.1.2019) by [The Branded Health Service Medicines (Costs) (Amendment) Regulations 2018 (S.I. 2018/1255)](https://www.legislation.gov.uk/uksi/2018/1255), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1255/regulation/1), [2(5)(a)](https://www.legislation.gov.uk/uksi/2018/1255/regulation/2/5/a)
+
+[^key-289b8c8aaca5e192758edc4fd81ae011]: Textual amendment: Reg. 21(1)(ga)-(gf) inserted (1.1.2025) by [The Branded Health Service Medicines (Costs) (Amendment) Regulations 2024 (S.I. 2024/1277)](https://www.legislation.gov.uk/uksi/2024/1277), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1277/regulation/1/1), [10(2)(c)](https://www.legislation.gov.uk/uksi/2024/1277/regulation/10/2/c)
+
+[^key-6b57841826bea22dcc3f0609275cdf97]: Textual amendment: Words in reg. 21(1)(n) inserted (1.1.2019) by [The Branded Health Service Medicines (Costs) (Amendment) Regulations 2018 (S.I. 2018/1255)](https://www.legislation.gov.uk/uksi/2018/1255), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1255/regulation/1), [2(5)(b)](https://www.legislation.gov.uk/uksi/2018/1255/regulation/2/5/b)
+
+[^key-66dff6988f9a26037adb3fba46f181c6]: Textual amendment: Reg. 21(1A) inserted (1.1.2025) by [The Branded Health Service Medicines (Costs) (Amendment) Regulations 2024 (S.I. 2024/1277)](https://www.legislation.gov.uk/uksi/2024/1277), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1277/regulation/1/1), [10(3)](https://www.legislation.gov.uk/uksi/2024/1277/regulation/10/3)
+
+[^key-a1c916707486bb9900e82e9aeb9ea227]: Textual amendment: Words in [reg. 22(a)](https://www.legislation.gov.uk/uksi/2018/345/regulation/22/a) inserted (1.1.2025) by [The Branded Health Service Medicines (Costs) (Amendment) Regulations 2024 (S.I. 2024/1277)](https://www.legislation.gov.uk/uksi/2024/1277), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1277/regulation/1/1), [11(a)](https://www.legislation.gov.uk/uksi/2024/1277/regulation/11/a)
+
+[^key-e28ffc6b4431d1768380a88c5d833195]: Textual amendment: Words in [reg. 22(b)](https://www.legislation.gov.uk/uksi/2018/345/regulation/22/b) substituted (1.1.2025) by [The Branded Health Service Medicines (Costs) (Amendment) Regulations 2024 (S.I. 2024/1277)](https://www.legislation.gov.uk/uksi/2024/1277), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1277/regulation/1/1), [11(b)](https://www.legislation.gov.uk/uksi/2024/1277/regulation/11/b)
+
+[^key-42fde6d460097f434dc8db77bdc1b693]: Textual amendment: Words in [reg. 22(c)](https://www.legislation.gov.uk/uksi/2018/345/regulation/22/c) substituted (1.1.2025) by [The Branded Health Service Medicines (Costs) (Amendment) Regulations 2024 (S.I. 2024/1277)](https://www.legislation.gov.uk/uksi/2024/1277), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1277/regulation/1/1), [11(b)](https://www.legislation.gov.uk/uksi/2024/1277/regulation/11/b)
+
+[^key-71e260868331f2231af4fbd8e34b5666]: Textual amendment: Reg. 22(fa)-(fc) inserted (1.1.2019) by [The Branded Health Service Medicines (Costs) (Amendment) Regulations 2018 (S.I. 2018/1255)](https://www.legislation.gov.uk/uksi/2018/1255), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1255/regulation/1), [2(6)](https://www.legislation.gov.uk/uksi/2018/1255/regulation/2/6)
+
+[^key-1eda0623adf188b5b042df3f5687533b]: Textual amendment: Regs. 22(ga)-(gf) inserted (1.1.2025) by [The Branded Health Service Medicines (Costs) (Amendment) Regulations 2024 (S.I. 2024/1277)](https://www.legislation.gov.uk/uksi/2024/1277), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1277/regulation/1/1), [11(c)](https://www.legislation.gov.uk/uksi/2024/1277/regulation/11/c)
+
+[^key-d77b5c5204d0d5b9c6c96743db0a558a]: Textual amendment: Reg. 23(1A)(1B) inserted (1.1.2025) by [The Branded Health Service Medicines (Costs) (Amendment) Regulations 2024 (S.I. 2024/1277)](https://www.legislation.gov.uk/uksi/2024/1277), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1277/regulation/1/1), [12](https://www.legislation.gov.uk/uksi/2024/1277/regulation/12)
+
+[^key-2e18fb87298f7a2548629b4d508ef40d]: Textual amendment: [Reg. 23(1C)](https://www.legislation.gov.uk/uksi/2018/345/regulation/23/1C) inserted (1.7.2025) by [The Branded Health Service Medicines (Costs) (Amendment) Regulations 2025 (S.I. 2025/667)](https://www.legislation.gov.uk/uksi/2025/667), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/667/regulation/1/1), [5(a)](https://www.legislation.gov.uk/uksi/2025/667/regulation/5/a)
+
+[^c22929341]: Marginal citation: Registered Number 02486368. Copies of the relevant statements and standards can be obtained from the Financial Reporting Council Limited, 8th Floor, 125 London Wall, London, EC2Y 5AS or at https://www.frc.org.uk/auditors/audit-assurance/standards-and-guidance.
+
+[^key-9b0a6f11643f71549effcfd011d567b3]: Textual amendment: Words in [reg. 23(2)](https://www.legislation.gov.uk/uksi/2018/345/regulation/23/2) omitted (1.7.2025) by virtue of [The Branded Health Service Medicines (Costs) (Amendment) Regulations 2025 (S.I. 2025/667)](https://www.legislation.gov.uk/uksi/2025/667), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/667/regulation/1/1), [5(b)](https://www.legislation.gov.uk/uksi/2025/667/regulation/5/b)
+
+[^key-51b2e7a885a761c49e0f1eb851eb71ec]: Textual amendment: Words in [reg. 23(2)](https://www.legislation.gov.uk/uksi/2018/345/regulation/23/2) inserted (1.7.2025) by [The Branded Health Service Medicines (Costs) (Amendment) Regulations 2025 (S.I. 2025/667)](https://www.legislation.gov.uk/uksi/2025/667), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/667/regulation/1/1), [5(b)](https://www.legislation.gov.uk/uksi/2025/667/regulation/5/b)
+
+[^key-da355dccfb5f4bd4f9107b5c6b60a923]: Textual amendment: Words in [reg. 26(1)](https://www.legislation.gov.uk/uksi/2018/345/regulation/26/1) substituted (1.1.2025) by [The Branded Health Service Medicines (Costs) (Amendment) Regulations 2024 (S.I. 2024/1277)](https://www.legislation.gov.uk/uksi/2024/1277), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1277/regulation/1/1), [13](https://www.legislation.gov.uk/uksi/2024/1277/regulation/13)
+
+[^c22929351]: Marginal citation: [S.I. 2000/124](https://www.legislation.gov.uk/uksi/2000/124) amended by [S.I. 2000/870](https://www.legislation.gov.uk/uksi/2000/870) and 2007/1898.
+
+[^c22929361]: Marginal citation: *See* section 265(7) of the 2006 Act for the definition of enforcement decision, which includes any decision relating to information that is required by virtue of an information notice under section 264A(5) of the 2006 Act.
+
+[^c22929371]: Marginal citation: [S.I. 2007/1320](https://www.legislation.gov.uk/uksi/2007/1320) amended by [S.I. 2008/1938](https://www.legislation.gov.uk/uksi/2008/1938) and 3258, 2013/325 and 2881 and 2015/233.
+
+[^key-e6eea27332f84c9c7e8ccb5a98fb7cc6]: Textual amendment: Words in [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2018/345/schedule/1/paragraph/1) substituted (1.1.2025) by [The Branded Health Service Medicines (Costs) (Amendment) Regulations 2024 (S.I. 2024/1277)](https://www.legislation.gov.uk/uksi/2024/1277), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1277/regulation/1/1), [14(2)(a)](https://www.legislation.gov.uk/uksi/2024/1277/regulation/14/2/a)
+
+[^key-bb54f13e684c11774a179ca24c43c50a]: Textual amendment: Words in [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2018/345/schedule/1/paragraph/1) substituted (1.1.2025) by [The Branded Health Service Medicines (Costs) (Amendment) Regulations 2024 (S.I. 2024/1277)](https://www.legislation.gov.uk/uksi/2024/1277), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1277/regulation/1/1), [14(2)(b)](https://www.legislation.gov.uk/uksi/2024/1277/regulation/14/2/b)
+
+[^key-ce0b5175a88cf17a51debcd0fef29e91]: Textual amendment: Sch. 1 para. 1A inserted (1.1.2025) by [The Branded Health Service Medicines (Costs) (Amendment) Regulations 2024 (S.I. 2024/1277)](https://www.legislation.gov.uk/uksi/2024/1277), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1277/regulation/1/1), [14(3)](https://www.legislation.gov.uk/uksi/2024/1277/regulation/14/3)
+
+[^key-d6633be69e5ba0e9d3411dee8468916c]: Textual amendment: Words in [Sch. 1 para. 2(b)](https://www.legislation.gov.uk/uksi/2018/345/schedule/1/paragraph/2/b) substituted (1.1.2025) by [The Branded Health Service Medicines (Costs) (Amendment) Regulations 2024 (S.I. 2024/1277)](https://www.legislation.gov.uk/uksi/2024/1277), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1277/regulation/1/1), [14(4)(a)](https://www.legislation.gov.uk/uksi/2024/1277/regulation/14/4/a)
+
+[^key-f90a32a41f24b517560796784d1eb790]: Textual amendment: Word in [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2018/345/schedule/1/paragraph/2) Table 2 substituted (1.1.2025) by [The Branded Health Service Medicines (Costs) (Amendment) Regulations 2024 (S.I. 2024/1277)](https://www.legislation.gov.uk/uksi/2024/1277), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1277/regulation/1/1), [14(4)(b)(i)](https://www.legislation.gov.uk/uksi/2024/1277/regulation/14/4/b/i)
+
+[^key-e74ed27078d3337a56c7cd891ff51da5]: Textual amendment: Words in [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2018/345/schedule/1/paragraph/2) Table 2 substituted (1.1.2025) by [The Branded Health Service Medicines (Costs) (Amendment) Regulations 2024 (S.I. 2024/1277)](https://www.legislation.gov.uk/uksi/2024/1277), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1277/regulation/1/1), [14(4)(b)(ii)](https://www.legislation.gov.uk/uksi/2024/1277/regulation/14/4/b/ii)
+
+[^key-aa9593070dc9a4a1431e38ecc6b1009c]: Textual amendment: Word in [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2018/345/schedule/1/paragraph/2) substituted (1.1.2025) by [The Branded Health Service Medicines (Costs) (Amendment) Regulations 2024 (S.I. 2024/1277)](https://www.legislation.gov.uk/uksi/2024/1277), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1277/regulation/1/1), [14(4)(b)(ii)](https://www.legislation.gov.uk/uksi/2024/1277/regulation/14/4/b/ii)
+
+[^key-24ed7571a71b731835fe981b44e8d598]: Textual amendment: Words in [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2018/345/schedule/1/paragraph/4) inserted (1.1.2025) by [The Branded Health Service Medicines (Costs) (Amendment) Regulations 2024 (S.I. 2024/1277)](https://www.legislation.gov.uk/uksi/2024/1277), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1277/regulation/1/1), [14(5)](https://www.legislation.gov.uk/uksi/2024/1277/regulation/14/5)
+
+[^key-c28ed362aa353036cc90dbf312bec110]: Textual amendment: Words in [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2018/345/schedule/1/paragraph/5) inserted (1.1.2025) by [The Branded Health Service Medicines (Costs) (Amendment) Regulations 2024 (S.I. 2024/1277)](https://www.legislation.gov.uk/uksi/2024/1277), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1277/regulation/1/1), [14(5)](https://www.legislation.gov.uk/uksi/2024/1277/regulation/14/5)
+
+[^key-656a9acf92f792fd19a83bf82c71aa88]: Textual amendment: Sch. 1 paras. 8, 9 inserted (1.1.2025) by [The Branded Health Service Medicines (Costs) (Amendment) Regulations 2024 (S.I. 2024/1277)](https://www.legislation.gov.uk/uksi/2024/1277), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1277/regulation/1/1), [14(6)](https://www.legislation.gov.uk/uksi/2024/1277/regulation/14/6)
+
+[^key-b44f902dfe983d70d99dd2d70b15107f]: Textual amendment: Sum in [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2018/345/schedule/2/paragraph/3) Table 1 substituted (1.1.2025) by [The Branded Health Service Medicines (Costs) (Amendment) Regulations 2024 (S.I. 2024/1277)](https://www.legislation.gov.uk/uksi/2024/1277), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1277/regulation/1/1), [15](https://www.legislation.gov.uk/uksi/2024/1277/regulation/15)
+
+[^key-153e377e3af1d6739a8f4bfb3cb8d365]: Textual amendment: Sum in [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2018/345/schedule/2/paragraph/3) Table 2 substituted (1.1.2025) by [The Branded Health Service Medicines (Costs) (Amendment) Regulations 2024 (S.I. 2024/1277)](https://www.legislation.gov.uk/uksi/2024/1277), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1277/regulation/1/1), [15](https://www.legislation.gov.uk/uksi/2024/1277/regulation/15)
+
+[^c22929381]: Marginal citation: A record of the decisions of maximum prices which may be charged for the supply of presentations is available on a list published by the Department of Health and Social Care at https://dhexchange.kahootz.com/connect.ti/PPRS/groupHome. Copies of the list can be obtained from the Department of Health and Social Care at 39 Victoria Street, London, SW1H 0EU.

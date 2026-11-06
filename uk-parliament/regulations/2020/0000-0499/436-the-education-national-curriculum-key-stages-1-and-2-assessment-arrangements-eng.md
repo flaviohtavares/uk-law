@@ -1,0 +1,106 @@
+---
+title: The Education (National Curriculum) (Key Stages 1 and 2 Assessment Arrangements) (England) (Coronavirus) (Amendment) Order 2020
+id: uksi/2020/436
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2020-04-17'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2020/436
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2020/436/pdfs/uksi_20200436_en.pdf
+- http://www.legislation.gov.uk/uksi/2020/436/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Education (National Curriculum) (Key Stages 1 and 2 Assessment Arrangements) (England) (Coronavirus) (Amendment) Order 2020
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2020 No. 436
+
+Education, England
+
+The Education (National Curriculum) (Key Stages 1 and 2 Assessment Arrangements) (England) (Coronavirus) (Amendment) Order 2020
+
+Made
+
+17th April 2020
+
+Coming into force
+
+20th April 2020
+
+The Secretary of State makes the following Order in exercise of the powers conferred by sections 87(3)(c), (7) and (10) and 210(7) of the Education Act 2002[^f00001].
+
+The Secretary of State has consulted the Office of Qualifications and Examinations Regulation and other persons the Secretary of State considered appropriate in accordance with section 87(6A)[^f00002].
+
+## 1. Citation and commencement
+
+(1) This order may be cited as the Education (National Curriculum) (Key Stages 1 and 2 Assessment Arrangements) (England) (Coronavirus) (Amendment) Order 2020.
+
+(2) The provisions of this order come into force on 20th April 2020.
+
+## 2. Amendment of the Education (National Curriculum) (Key Stage 2 Assessment Arrangements) (England) Order 2003
+
+(1) The Education (National Curriculum) (Key Stage 2 Assessment Arrangements) (England) Order 2003[^f00003] is amended as follows.
+
+(2) In article 1(2), after “Order” insert “subject to paragraphs (4) and (5)”.
+
+(3) After article 1(3) insert—
+
+> (4) Articles 4 to 6 of this order do not apply in relation to the 2019-20 school year.
+>
+> (5) In calculating the period of four years referred to in article 5B(3), the 2019-20 school year is to be disregarded.
+
+.
+
+## 3. Amendment of the Education (National Curriculum) (Key Stage 1 Assessment Arrangements) (England) Order 2004
+
+(1) The Education (National Curriculum) (Key Stage 1 Assessment Arrangements) (England) Order 2004[^f00004] is amended as follows.
+
+(2) In article 1(2), after “Order” insert “subject to paragraphs (4) to (6).”.
+
+(3) After article 1(3) insert—
+
+> (4) Articles 4 to 6A of this order do not apply in relation to the 2019-20 school year.
+>
+> (5)  In applying article 6(2)(b), where the preceding school year is the 2019-20 school year, that school year should be disregarded and the moderating authority should have regard to the results of the moderation that took place in the 2018-19 school year.
+>
+> (6) In calculating the period of four years referred to in article 6(3)(b), the 2019-20 school year is to be disregarded.
+
+.
+
+Nick Gibb
+
+Minister of State
+
+Department for Education
+
+17th April 2020
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order makes amendments to the secondary legislation relating to primary school assessments.
+
+Articles 2 and 3 respectively disapply all those provisions of the Education (National Curriculum) (Key Stage 2 Assessment Arrangements) (England) Order 2003 and of the Education (National Curriculum) (Key Stage 1 Assessment Arrangements) (England) Order 2004 which place duties or obligations on head teachers, governing bodies and local authorities in relation to the Key Stages 1 and 2 assessments, checks and tests due to take place in school year 2019-20.
+
+This has the effect that the Key Stages 1 and 2 assessments, checks and tests (and related obligations) which would otherwise have taken place in, or in relation to, academic year 2019-20 are no longer legally required.
+
+An impact assessment has not been produced for this instrument as no, or no significant, impact on the private or voluntary sector is foreseen.
+
+## Annotations
+
+[^f00001]: Footnote: [2002 c. 32](https://www.legislation.gov.uk/ukpga/2002/32). Section 87(7) was amended by paragraph 35 (1) and (3) of Schedule 12 and Part 4 of Schedule 16 to the Apprenticeships, Skills, Children and Learning Act [2009 (c. 22)](https://www.legislation.gov.uk/ukpga/2009/22); paragraphs 11 and 13 of Schedule 8 to the Education Act [2011 (c.21)](https://www.legislation.gov.uk/ukpga/2011/21) and [S.I. 2010/1158](https://www.legislation.gov.uk/uksi/2010/1158).
+
+[^f00002]: Footnote: Section 87(6A) was inserted by section 159(1) and (2) of the Apprenticeships, Skills, Children and Learning Act [2009 (c.22)](https://www.legislation.gov.uk/ukpga/2009/22).
+
+[^f00003]: Footnote: [S.I. 2003/1038](https://www.legislation.gov.uk/uksi/2003/1038). This order was amended by [S.I. 2009/1585](https://www.legislation.gov.uk/uksi/2009/1585), [2010/290](https://www.legislation.gov.uk/uksi/2010/290), [2010/1172](https://www.legislation.gov.uk/uksi/2010/1172), [2011/2392](https://www.legislation.gov.uk/uksi/2011/2392), [2012/838](https://www.legislation.gov.uk/uksi/2012/838), [2013/1513](https://www.legislation.gov.uk/uksi/2013/1513), [2015/900](https://www.legislation.gov.uk/uksi/2015/900) and [2018/452](https://www.legislation.gov.uk/uksi/2018/452); there are other amending instruments but none is relevant.
+
+[^f00004]: Footnote: [S.I. 2004/2783](https://www.legislation.gov.uk/uksi/2004/2783). This order was amended by [S.I. 2010/1172](https://www.legislation.gov.uk/uksi/2010/1172), [2011/3057](https://www.legislation.gov.uk/uksi/2011/3057), [2013/1513](https://www.legislation.gov.uk/uksi/2013/1513), [2015/900](https://www.legislation.gov.uk/uksi/2015/900); there are other amending instruments but none is relevant.

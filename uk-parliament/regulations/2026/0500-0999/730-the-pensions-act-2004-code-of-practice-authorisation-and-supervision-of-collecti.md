@@ -1,0 +1,76 @@
+---
+title: The Pensions Act 2004 (Code of Practice) (Authorisation and Supervision of Collective Defined Contribution Schemes) Appointed Day and Revocation Order 2026
+id: uksi/2026/730
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2026-07-02'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2026/730
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2026/730/pdfs/uksi_20260730_en.pdf
+- http://www.legislation.gov.uk/uksi/2026/730/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Pensions Act 2004 (Code of Practice) (Authorisation and Supervision of Collective Defined Contribution Schemes) Appointed Day and Revocation Order 2026
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2026 No. 730
+
+PENSIONS
+
+The Pensions Act 2004 (Code of Practice) (Authorisation and Supervision of Collective Defined Contribution Schemes) Appointed Day and Revocation Order 2026
+
+Made
+
+at 10.00 a.m. on 2nd July 2026
+
+The Secretary of State makes this Order in exercise of the powers conferred by section 91(9) of the Pensions Act 2004[^f00001].
+
+## 1. Citation and extent
+
+(1) This Order may be cited as the Pensions Act 2004 (Code of Practice) (Authorisation and Supervision of Collective Defined Contribution Schemes) Appointed Day and Revocation Order 2026.
+
+(2) This Order extends to England and Wales and Scotland.
+
+## 2. Appointed day
+
+The day appointed for the coming into effect of the Pensions Regulator’s Code of Practice: Authorisation and supervision of collective defined contribution (CDC) schemes is 31st July 2026.
+
+## 3. Revocation
+
+The Pensions Act 2004 (Code of Practice) (Authorisation and Supervision of Collective Defined Contribution Schemes) Appointed Day Order 2022[^f00002] is revoked with effect from 31st July 2026.
+
+Signed by authority of the Secretary of State for Work and Pensions
+
+Torsten Bell
+
+Parliamentary Under-Secretary of State
+
+Department for Work and Pensions
+
+at 10.00 a.m. on 2nd July 2026
+
+Explanatory Note
+
+(This note is not part of the Order)
+
+This Order appoints 31st July 2026 as the day on which the Pensions Regulator’s Code of Practice: Authorisation and supervision of collective defined contribution (CDC) schemes (“**the Code**”) comes into effect.
+
+A copy of the Code can be obtained by post from the Pensions Regulator, Telecom House, 125-135 Preston Road, Brighton, BN1 6AF.
+
+This Order also revokes the Pensions Act 2004 (Code of Practice) (Authorisation and Supervision of Collective Defined Contribution Schemes) Appointed Day Order 2022 ([S.I. 2022/855](https://www.legislation.gov.uk/uksi/2022/855)). This brought into effect the preceding code, the Pensions Regulator’s Code of Practice: Authorisation and supervision of collective defined contribution schemes, which is revoked with effect from 31st July 2026 by the Pensions Act 2004 (Codes of Practice) (Revocation) Order 2026 ([S.I. 2026/709](https://www.legislation.gov.uk/uksi/2026/709)).
+
+A full impact assessment has not been produced for this instrument as no, or no significant, impact on the private, voluntary or public sectors is foreseen.
+
+## Annotations
+
+[^f00001]: Footnote: [2004 c. 35](https://www.legislation.gov.uk/ukpga/2004/35).
+
+[^f00002]: Footnote: [S.I. 2022/855](https://www.legislation.gov.uk/uksi/2022/855).

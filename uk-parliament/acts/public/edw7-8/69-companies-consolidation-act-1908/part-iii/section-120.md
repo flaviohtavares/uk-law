@@ -1,0 +1,23 @@
+---
+title: Companies (Consolidation) Act 1908, section 120
+act: Companies (Consolidation) Act 1908
+section: '120'
+status: as-enacted
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/ukpga/Edw7/8/69/section/120
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Companies (Consolidation) Act 1908, section 120
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+## 120. Power to compromise with creditors and members.
+
+(1) Where a compromise or arrangement is proposed between a company and its creditors or any class of them, or between the company and its members or any class of them, the court may, on the application in a summary way of the company or of any creditor or member of the company or, in the case of a company being wound up, of the liquidator, order a meeting of the creditors or class of creditors, or of the members of the company or class of members, as the case may be, to be summoned in such manner as the court directs.
+
+(2) If a majority in number representing three-fourths in value of the creditors or class of creditors, or members or class of members, as the case may be, present either in person or by proxy at the meeting, agree to any compromise or arrangement, the compromise or arrangement shall, if sanctioned by the court, be binding on all the creditors or the class of creditors, or on the members or class of members, as the case may be, and also on the company or, in the case of a company in the course of being wound up, on the liquidator and contributories of the company.
+
+(3) In this section the expression “**company**” means any company liable to be wound up under this Act.

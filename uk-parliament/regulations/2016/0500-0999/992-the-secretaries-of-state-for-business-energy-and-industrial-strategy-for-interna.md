@@ -1,0 +1,914 @@
+---
+title: The Secretaries of State for Business, Energy and Industrial Strategy, for International Trade and for Exiting the European Union and the Transfer of Functions (Education and Skills) Order 2016
+id: uksi/2016/992
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2016-10-12'
+text_date: '2020-04-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2016/992
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2016/992/pdfs/uksiem_20160992_en.pdf
+- http://www.legislation.gov.uk/uksi/2016/992/pdfs/uksi_20160992_en.pdf
+- http://www.legislation.gov.uk/uksi/2016/992/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Secretaries of State for Business, Energy and Industrial Strategy, for International Trade and for Exiting the European Union and the Transfer of Functions (Education and Skills) Order 2016
+
+> Text as at 2020-04-01.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2016 No. 992
+
+Ministers Of The Crown
+
+The Secretaries of State for Business, Energy and Industrial Strategy, for International Trade and for Exiting the European Union and the Transfer of Functions (Education and Skills) Order 2016
+
+Made
+
+12th October 2016
+
+Laid before Parliament
+
+19th October 2016
+
+Coming into force
+
+9th November 2016
+
+At the Court at Buckingham Palace, the 12th day of October 2016
+
+Present,
+
+The Queen’s Most Excellent Majesty in Council
+
+Her Majesty, in exercise of the powers conferred by sections 1 and 2 of the Ministers of the Crown Act 1975[^f00001], is pleased, by and with the advice of Her Privy Council, to order as follows:
+
+## 1. Citation and commencement[^key-f8840b66e1b8ee74ede3ec7e3648ec02]
+
+(1) This Order may be cited as the Secretaries of State for Business, Energy and Industrial Strategy, for International Trade and for Exiting the European Union and the Transfer of Functions (Education and Skills) Order 2016.
+
+(2) This Order comes into force on 9th November 2016.
+
+## 2. Interpretation[^key-9ccec3fd6363e024faee43218910f416]
+
+(1) In this Order “instrument” includes Royal Charters, Royal Warrants, Orders in Council, Letters Patent, judgments, decrees, orders, rules, regulations, schemes, bye-laws, awards, licences, authorisations, consents, approvals, contracts and other agreements, memoranda and articles of association, certificates, deeds and other documents.
+
+(2) For the purposes of this Order, a function is a “former BIS function” so far as—
+
+- (a) it is transferred by article 6(1), or
+- (b) it was entrusted to the Secretary of State for Business, Innovation and Skills immediately before 13th July 2016 and has before the making of this Order been entrusted to the Secretary of State for Business, Energy and Industrial Strategy.
+
+(3) For the purposes of this Order, a function is a “former DECC function” so far as—
+
+- (a) it is transferred by article 6(2), or
+- (b) it was entrusted to the Secretary of State for Energy and Climate Change immediately before 13th July 2016 and has before the making of this Order been entrusted to the Secretary of State for Business, Energy and Industrial Strategy.
+
+(4) Paragraph (3)(b) does not apply to a function which, after the entrusting of the function to the Secretary of State for Business, Energy and Industrial Strategy but before the making of this Order, is transferred to the Oil and Gas Authority by Schedule 1 to the Energy Act 2016[^f00002] or by regulations under section 2(2) of that Act.
+
+## 3. Incorporation of the Secretary of State for Business, Energy and Industrial Strategy[^key-2244102b8b6238305d2bbb87f0475be8]
+
+(1) The person who at the coming into force of this Order is the Secretary of State for Business, Energy and Industrial Strategy and any successor to that person is by that name a corporation sole.
+
+(2) The corporate seal of the Secretary of State for Business, Energy and Industrial Strategy—
+
+- (a) is to be authenticated by the signature of a Secretary of State or a person authorised by a Secretary of State to act in that behalf, and
+- (b) is to be officially and judicially noticed.
+
+(3) Every document purporting to be an instrument made or issued by the Secretary of State for Business, Energy and Industrial Strategy and to be—
+
+- (a) sealed with the corporate seal of that Secretary of State authenticated in the manner provided for by paragraph (2), or
+- (b) signed or executed by a person authorised by a Secretary of State to act in that behalf,
+
+is to be received in evidence and to be deemed to be so made or issued without further proof, unless the contrary is shown.
+
+(4) A certificate signed by the Secretary of State for Business, Energy and Industrial Strategy that an instrument purporting to be made or issued by—
+
+- (a) the Secretary of State for Business, Energy and Industrial Strategy,
+- (b) the Secretary of State for Business, Innovation and Skills,
+- (c) the Secretary of State for Energy and Climate Change,
+- (d) the Secretary of State for Business, Enterprise and Regulatory Reform,
+- (e) the Secretary of State for Innovation, Universities and Skills, or
+- (f) the Secretary of State for Trade and Industry,
+
+was so made or issued is conclusive evidence of that fact.
+
+(5) The Documentary Evidence Act 1868[^f00003] applies in relation to the Secretary of State for Business, Energy and Industrial Strategy—
+
+- (a) as if references to regulations and orders included references to any document, and
+- (b) as if the officers mentioned in column 2 of the Schedule included any officer authorised to act on behalf of the Secretary of State.
+
+## 4. Incorporation of the Secretary of State for International Trade[^key-8ee07ec44aa06bcc57d7d60309ba7665]
+
+(1) The person who at the coming into force of this Order is the Secretary of State for International Trade and any successor to that person is by that name a corporation sole.
+
+(2) The corporate seal of the Secretary of State for International Trade—
+
+- (a) is to be authenticated by the signature of a Secretary of State or a person authorised by a Secretary of State to act in that behalf, and
+- (b) is to be officially and judicially noticed.
+
+(3) Every document purporting to be an instrument made or issued by the Secretary of State for International Trade and to be—
+
+- (a) sealed with the corporate seal of that Secretary of State authenticated in the manner provided for by paragraph (2), or
+- (b) signed or executed by a person authorised by a Secretary of State to act in that behalf,
+
+is to be received in evidence and to be deemed to be so made or issued without further proof, unless the contrary is shown.
+
+(4) A certificate signed by the Secretary of State for International Trade that an instrument purporting to be made or issued by—
+
+- (a) the Secretary of State for International Trade,
+- (b) the Secretary of State for Business, Innovation and Skills,
+- (c) the Secretary of State for Business, Enterprise and Regulatory Reform,
+- (d) the Secretary of State for Innovation, Universities and Skills, or
+- (e) the Secretary of State for Trade and Industry,
+
+was so made or issued is conclusive evidence of that fact.
+
+(5) The Documentary Evidence Act 1868 applies in relation to the Secretary of State for International Trade—
+
+- (a) as if references to regulations and orders included references to any document, and
+- (b) as if the officers mentioned in column 2 of the Schedule included any officer authorised to act on behalf of the Secretary of State.
+
+## 5. Incorporation of the Secretary of State for Exiting the European Union[^key-456972ccf0f06db09fef6d55f8994197]
+
+(1) The person who at the coming into force of this Order is the Secretary of State for Exiting the European Union and any successor to that person is by that name a corporation sole.
+
+(2) The corporate seal of the Secretary of State for Exiting the European Union—
+
+- (a) is to be authenticated by the signature of a Secretary of State or a person authorised by a Secretary of State to act in that behalf, and
+- (b) is to be officially and judicially noticed.
+
+(3) Every document purporting to be an instrument made or issued by the Secretary of State for Exiting the European Union and to be—
+
+- (a) sealed with the corporate seal of that Secretary of State authenticated in the manner provided for by paragraph (2), or
+- (b) signed or executed by a person authorised by a Secretary of State to act in that behalf,
+
+is to be received in evidence and to be deemed to be so made or issued without further proof, unless the contrary is shown.
+
+(4) A certificate signed by the Secretary of State for Exiting the European Union that an instrument purporting to be made or issued by that Secretary of State was so made or issued is conclusive evidence of that fact.
+
+(5) The Documentary Evidence Act 1868 applies in relation to the Secretary of State for Exiting the European Union—
+
+- (a) as if references to regulations and orders included references to any document, and
+- (b) as if the officers mentioned in column 2 of the Schedule included any officer authorised to act on behalf of the Secretary of State.
+
+## 6. Transfer of functions to the Secretary of State for Business, Energy and Industrial Strategy[^key-058e689b47978cb775f521feeb59f0fc]
+
+(1) The functions of the Secretary of State for Business, Innovation and Skills (other than the function mentioned in article 10) are transferred to the Secretary of State for Business, Energy and Industrial Strategy.
+
+(2) The functions of the Secretary of State for Energy and Climate Change are transferred to the Secretary of State for Business, Energy and Industrial Strategy.
+
+## 7. Transfers of property, rights and liabilities to the Secretary of State for Business, Energy and Industrial Strategy[^key-97d6f03dff1878d56f093e0379ed8eb3]
+
+(1) There are transferred to the Secretary of State for Business, Energy and Industrial Strategy all property, rights and liabilities to which the Secretary of State for Business, Innovation and Skills is entitled or subject at the coming into force of this Order (other than property, rights and liabilities transferred by article 9(2), 11(3) or 12(2)).
+
+(2) There are transferred to the Secretary of State for Business, Energy and Industrial Strategy all property, rights and liabilities to which the Secretary of State for Energy and Climate Change is entitled or subject at the coming into force of this Order.
+
+## 8. Secretary of State for Business, Energy and Industrial Strategy: supplementary[^key-8d035d5b85e67035dbd8af4cc1e75158]
+
+(1) In this article, “the transferor” means—
+
+- (a) in relation to a former BIS function or anything transferred by article 7(1), the Secretary of State for Business, Innovation and Skills, and
+- (b) in relation to a former DECC function or anything transferred by article 7(2), the Secretary of State for Energy and Climate Change.
+
+(2) Anything (including legal proceedings) which, at the coming into force of this Order, is in the process of being done by or in relation to the transferor may, so far as it relates to a former BIS function, a former DECC function or anything transferred by article 7, be continued by or in relation to the Secretary of State for Business, Energy and Industrial Strategy.
+
+(3) Anything done (or having effect as if done) by or in relation to the transferor in connection with a former BIS function, a former DECC function or anything transferred by article 7 has effect, so far as necessary for continuing its effect after the coming into force of this Order, as if done by or in relation to the Secretary of State for Business, Energy and Industrial Strategy.
+
+(4) Documents or forms printed for use in connection with a former BIS function or a former DECC function may be used in connection with that function even though they contain, or are to be read as containing, references to the transferor; and for the purposes of the use of any such documents or forms after the coming into force of this Order, those references are to be read as references to the Secretary of State for Business, Energy and Industrial Strategy.
+
+(5) Any enactment or instrument passed or made before the coming into force of this Order has effect, so far as is necessary for the purposes of or in consequence of—
+
+- (a) the transfer or entrusting to the Secretary of State for Business, Energy and Industrial Strategy of a former BIS function or a former DECC function, or
+- (b) the transfer of anything by article 7,
+
+as if references to (and references which are to be read as references to) the transferor were or included references to the Secretary of State for Business, Energy and Industrial Strategy.
+
+(6) In paragraphs (2) to (5), references to the transferor include references to the department or an officer of the transferor; and references to the Secretary of State for Business, Energy and Industrial Strategy are to be read accordingly.
+
+## 9. Functions passing to the Secretary of State for International Trade: supplementary[^key-c384ca57737fd748873dc1fc4c34b558]
+
+(1) For the purposes of this article, a function is a “trade function” so far as it was entrusted to the Secretary of State for Business, Innovation and Skills immediately before 13th July 2016 and has before the making of this Order been entrusted to the Secretary of State for International Trade.
+
+(2) There are transferred to the Secretary of State for International Trade all property, rights and liabilities to which the Secretary of State for Business, Innovation and Skills is entitled or subject at the coming into force of this Order in connection with a trade function.
+
+(3) Anything (including legal proceedings) which, at the coming into force of this Order, is in the process of being done by or in relation to the Secretary of State for Business, Innovation and Skills may, so far as it relates to a trade function or anything transferred by paragraph (2), be continued by or in relation to the Secretary of State for International Trade.
+
+(4) Anything done (or having effect as if done) by or in relation to the Secretary of State for Business, Innovation and Skills in connection with a trade function or anything transferred by paragraph (2) has effect, so far as necessary for continuing its effect after the coming into force of this Order, as if done by or in relation to the Secretary of State for International Trade.
+
+(5) Documents or forms printed for use in connection with a trade function may be used in connection with that function even though they contain, or are to be read as containing, references to the Secretary of State for Business, Innovation and Skills; and for the purposes of the use of any such documents or forms after the coming into force of this Order, those references are to be read as references to the Secretary of State for International Trade.
+
+(6) Any enactment or instrument passed or made before the coming into force of this Order has effect, so far as is necessary for the purposes of or in consequence of—
+
+- (a) the entrusting to the Secretary of State for International Trade of a trade function, or
+- (b) the transfer of anything by paragraph (2),
+
+as if references to (and references which are to be read as references to) the Secretary of State for Business, Innovation and Skills were or included references to the Secretary of State for International Trade.
+
+(7) In paragraphs (3) to (6), references to the Secretary of State for Business, Innovation and Skills include references to the department or an officer of the Secretary of State for Business, Innovation and Skills; and references to the Secretary of State for International Trade are to be read accordingly.
+
+## 10. Transfer of functions to the Secretary of State for Education[^key-0dac20e2376e0388a36c80cf49b4aa26]
+
+The function of the Secretary of State for Business, Innovation and Skills under regulation 3 of the Charities Act 2011 (Principal Regulators of Exempt Charities) Regulations 2013[^f00004] is transferred to the Secretary of State for Education.
+
+## 11. Supplementary provision in relation to the Secretary of State for Education[^key-7d82aba72c4c17ef34a38b922743b94c]
+
+(1) For the purposes of this article, a function is a “relevant education or skills function” so far as—
+
+- (a) it is transferred by article 10, or
+- (b) it was entrusted to the Secretary of State for Business, Innovation and Skills immediately before 13th July 2016 and has, before the making of this Order, been entrusted to the Secretary of State for Education.
+
+(2) Paragraph (1)(b) does not apply to an education or training (adult detention) function (as defined by article 12(1)).
+
+(3) There are transferred to the Secretary of State for Education all property, rights and liabilities to which the Secretary of State for Business, Innovation and Skills is entitled or subject at the coming into force of this Order in connection with a relevant education or skills function.
+
+(4) Anything (including legal proceedings) which, at the coming into force of this Order, is in the process of being done by or in relation to the Secretary of State for Business, Innovation and Skills may, so far as it relates to a relevant education or skills function or anything transferred by paragraph (3), be continued by or in relation to the Secretary of State for Education.
+
+(5) Anything done (or having effect as if done) by or in relation to the Secretary of State for Business, Innovation and Skills in connection with a relevant education or skills function or anything transferred by paragraph (3) has effect, so far as necessary for continuing its effect after the coming into force of this Order, as if done by or in relation to the Secretary of State for Education.
+
+(6) Documents or forms printed for use in connection with a relevant education or skills function may be used in connection with that function even though they contain, or are to be read as containing, references to the Secretary of State for Business, Innovation and Skills; and for the purposes of the use of any such documents or forms after the coming into force of this Order, those references are to be read as references to the Secretary of State for Education.
+
+(7) Any enactment or instrument passed or made before the coming into force of this Order has effect, so far as is necessary for the purposes of or in consequence of—
+
+- (a) the transfer or entrusting to the Secretary of State for Education of a relevant education or skills function, or
+- (b) the transfer of anything by paragraph (3),
+
+as if references to (and references which are to be read as references to) the Secretary of State for Business, Innovation and Skills were or included references to the Secretary of State for Education.
+
+(8) In paragraphs (4) to (7), references to the Secretary of State for Business, Innovation and Skills include references to the department or an officer of the Secretary of State for Business, Innovation and Skills; and references to the Secretary of State for Education are to be read accordingly.
+
+## 12. Functions passing to the Secretary of State for Justice: supplementary[^key-4b91762a826033dfcd2f0eaecc0012b0]
+
+(1) For the purposes of this article, a function is an “education or training (adult detention) function” so far as—
+
+- (a) the function was entrusted to the Secretary of State for Business, Innovation and Skills immediately before 13th July 2016,
+- (b) at any time after that date, but before the making of this Order, the function was entrusted to the Secretary of State for Education, and
+- (c) the function has, since the date it was entrusted to the Secretary of State for Education but before the making of this Order, been entrusted to the Secretary of State for Justice.
+
+(2) There are transferred to the Secretary of State for Justice all property, rights and liabilities to which the Secretary of State for Business, Innovation and Skills or the Secretary of State for Education is entitled or subject at the coming into force of this Order in connection with an education or training (adult detention) function.
+
+(3) Anything (including legal proceedings) which, at the coming into force of this Order, is in the process of being done by or in relation to the Secretary of State for Business, Innovation and Skills may, so far as it relates to an education or training (adult detention) function or anything transferred by paragraph (2), be continued by or in relation to the Secretary of State for Justice.
+
+(4) Anything done (or having effect as if done) by or in relation to the Secretary of State for Business, Innovation and Skills in connection with an education or training (adult detention) function or anything transferred by paragraph (2) has effect, so far as necessary for continuing its effect after the coming into force of this Order, as if done by or in relation to the Secretary of State for Justice.
+
+(5) Documents or forms printed for use in connection with an education or training (adult detention) function may be used in connection with that function even though they contain, or are to be read as containing, references to the Secretary of State for Business, Innovation and Skills; and for the purposes of the use of any such documents or forms after the coming into force of this Order, those references are to be read as references to the Secretary of State for Justice.
+
+(6) Any enactment or instrument passed or made before the coming into force of this Order has effect, so far as is necessary for the purposes of or in consequence of—
+
+- (a) the entrusting to the Secretary of State for Justice of an education or training (adult detention) function, or
+- (b) the transfer of anything by paragraph (2),
+
+as if references to (and references which are to be read as references to) the Secretary of State for Business, Innovation and Skills were or included references to the Secretary of State for Justice.
+
+(7) In paragraphs (3) to (6), references to the Secretary of State for Business, Innovation and Skills include references to the department of or an officer of the Secretary of State for Business, Innovation and Skills; and references to the Secretary of State for Justice are to be read accordingly.
+
+(8) References in paragraphs (3) to (7) to the Secretary of State for Business, Innovation and Skills are to be read, in relation to the period during which an education or training (adult detention) function was entrusted to the Secretary of State for Education, as if they were or included references to the Secretary of State for Education.
+
+## 13. Validity of things done before coming into force of Order[^key-0e6f80d3c05c87809ab7ede57b4972e7]
+
+(1) This Order does not affect the validity of anything done (or having effect as if done) by or in relation to the Secretary of State for Business, Innovation and Skills, the Secretary of State for Energy and Climate Change or the Secretary of State for Education before the coming into force of this Order.
+
+(2) In paragraph (1), the reference to a Secretary of State includes a reference to the department or an officer of that Secretary of State.
+
+## 14. Consequential amendments[^key-b07bf78671735fb25ebeaf88f4b91bc6]
+
+The Schedule has effect.
+
+Richard Tilbrook
+
+Clerk of the Privy Council
+
+## SCHEDULE — CONSEQUENTIAL AMENDMENTS
+
+Article 14
+
+### PART 1 — Primary legislation
+
+#### 1. Public Records Act [1958 (c. 51)](https://www.legislation.gov.uk/ukpga/1958/51)[^key-b548404d43d3552806a4c83c2d050e7a]
+
+ In Schedule 1 to the Public Records Act 1958 (definition of public records), in Part 1 of the Table at the end of paragraph 3, in the entry for the Meteorological Office[^f00005], for “Department for Business, Innovation and Skills” substitute “Department for Business, Energy and Industrial Strategy”.
+
+#### 2. Parliamentary Commissioner Act [1967 (c. 13)](https://www.legislation.gov.uk/ukpga/1967/13)[^key-d7d9b0409146c1fbfe453beb9b73513c]
+
+In Schedule 2 to the Parliamentary Commissioner Act 1967 (Departments etc subject to investigation)[^f00006]—
+
+- (a) omit “Department for Business, Innovation and Skills” and “Department of Energy and Climate Change”, and
+- (b) at the appropriate places insert “Department for Business, Energy and Industrial Strategy” and “Department for International Trade”.
+
+#### 3. Coinage Act [1971 (c. 24)](https://www.legislation.gov.uk/ukpga/1971/24)[^key-11b026955a97f6ab1d3fae576194c08f]
+
+(1) The Coinage Act 1971 is amended as follows.
+
+(2) In section 6(3) (standard trial plates)[^f00007], for “the National Weights and Measures Laboratory of the Department for Business, Innovation and Skills” substitute “the Regulatory Delivery Directorate of the Department for Business, Energy and Industrial Strategy”.
+
+(3) In section 8(2)(d) (trial of the pyx)[^f00008], for “the Department for Business, Innovation and Skills” substitute “the Department for Business, Energy and Industrial Strategy”.
+
+#### 4. Police and Criminal Evidence Act [1984 (c. 60)](https://www.legislation.gov.uk/ukpga/1984/60)[^key-340abbdeced220441908cf9e7149cb5e]
+
+In section 114A(2)(a) of the Police and Criminal Evidence Act 1984 (power to apply Act to officers of the Secretary of State etc)[^f00009], for “the Secretary of State for Business, Innovation and Skills” substitute “the Secretary of State for Business, Energy and Industrial Strategy”.
+
+#### 5. Weights and Measures Act [1985 (c. 72)](https://www.legislation.gov.uk/ukpga/1985/72)[^key-58ab9fd1184ab7acddd8a82f433e7922]
+
+(1) The Weights and Measures Act 1985 is amended as follows.
+
+(2) In section 3(1) and (5) (secondary, tertiary and coinage standards)[^f00010], for “Department for Business, Innovation and Skills standards” substitute “Department for Business, Energy and Industrial Strategy standards”.
+
+(3) In section 94(1) (interpretation)[^f00011], for “Department for Business, Innovation and Skills standards” substitute “Department for Business, Energy and Industrial Strategy standards”.
+
+(4) In Part 5 of Schedule 2 (authorised copies of UK standards of the yard and pound), in paragraph (e)[^f00012], for “National Weights and Measures Laboratory of the Department for Business, Innovation and Skills” substitute “Regulatory Delivery Directorate of the Department for Business, Energy and Industrial Strategy”.
+
+#### 6. Transport and Works Act [1992 (c. 42)](https://www.legislation.gov.uk/ukpga/1992/42)[^key-4ccb703e9baa54cafae1ffe5a5fb0ff4]
+
+In section 23(10) of the Transport of Works Act 1992 (exercise of Secretary of State’s functions by appointed person)[^f00013], for “the Department of Energy and Climate Change” in each place substitute “the Department for Business, Energy and Industrial Strategy”.
+
+#### 7. Channel Tunnel Rail Link Act [1996 (c. 61)](https://www.legislation.gov.uk/ukpga/1996/61)[^key-c26d009049ca41e18eeb8615cfab3a6d]
+
+In the following provisions of the Channel Tunnel Rail Link Act 1996, for “the Secretary of State for Energy and Climate Change” substitute “the Secretary of State for Business, Energy and Industrial Strategy”—
+
+- (a) section 50(5)(b) (overhead lines)[^f00014];
+- (b) paragraph 13 of Schedule 14 (overhead lines: consent)[^f00015];
+- (c) paragraph 2(4)(a) of Part 2 of Schedule 15 (protection for electricity, gas, water and sewerage undertakers)[^f00016].
+
+#### 8. Regulation of Investigatory Powers Act [2000 (c. 23)](https://www.legislation.gov.uk/ukpga/2000/23)[^key-d620629af22343c9bc079a17f895d8d1]
+
+In Part 1 of Schedule 1 to the Regulation of Investigatory Powers Act 2000 (relevant public authorities)[^f00017]—
+
+- (a) before paragraph 9A insert—
+
+  > **9ZC.** The Department for Business, Energy and Industrial Strategy.
+
+  , and
+- (b) omit paragraph 9ZB (Department for Business, Innovation and Skills) and the entry in paragraph 10ZA for the Department of Energy and Climate Change.
+
+#### 9. Domestic Violence, Crime and Victims Act [2004 (c. 28)](https://www.legislation.gov.uk/ukpga/2004/28)[^key-a76a78ee2cb86552a30b74ccdfa457e8]
+
+In Schedule 9 to the Domestic Violence, Crime and Victims Act 2004 (authorities within remit of Commissioner for Victims and Witnesses)[^f00018]—
+
+- (a) at the beginning of the list of government departments insert—
+
+  > **1VA.** The Department for Business, Energy and Industrial Strategy.
+
+  , and
+- (b) omit paragraph 1WA (Department for Business, Innovation and Skills).
+
+#### 10. Serious Organised Crime and Police Act [2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15)[^key-c60a40a8225cea6184b594c3a3ee05ba]
+
+In section 71[^f00019] of the Serious Organised Crime and Police Act 2005 (assistance by offender: immunity from prosecution), in subsections (4)(db), (6A) and (6C), for “Secretary of State for Business, Innovation and Skills” substitute “Secretary of State for Business, Energy and Industrial Strategy”.
+
+#### 11. Natural Environment and Rural Communities Act [2006 (c. 16)](https://www.legislation.gov.uk/ukpga/2006/16)[^key-8af46b80cf4ecddc562198088411a431]
+
+(1) The Natural Environment and Rural Communities Act 2006 is amended as follows.
+
+(2) In the following provisions[^f00020], for “or DECC” substitute “or BEIS”—
+
+- (a) section 78(1) (agreement between Secretary of State and designated body);
+- (b) section 79(1) (agreement between designated bodies);
+- (c) section 80(3) (designated bodies);
+- (d) section 82(a) and (b) (maximum duration of agreement);
+- (e) section 86(2) (interpretation);
+- (f) section 98(1) and (5) (financial assistance).
+
+(3) In section 86—
+
+- (a) in subsection (2)(b), for “Department of Energy and Climate Change” substitute “Department for Business, Energy and Industrial Strategy”, and
+- (b) in subsection (2A)[^f00021], after “2009” insert “(and see also the Secretaries of State for Business, Energy and Industrial Strategy, for International Trade and for Exiting the European Union and the Transfer of Functions (Education and Skills) Order 2016)”.
+
+(4) In section 98—
+
+- (a) in subsection (5)(b), for “Department of Energy and Climate Change” substitute “Department for Business, Energy and Industrial Strategy ”, and
+- (b) in subsection (5A)[^f00022], after “2009” insert “(and see also the Secretaries of State for Business, Energy and Industrial Strategy, for International Trade and for Exiting the European Union and the Transfer of Functions (Education and Skills) Order 2016)”.
+
+#### 12. Corporate Manslaughter and Corporate Homicide Act [2007 (c. 19)](https://www.legislation.gov.uk/ukpga/2007/19)[^key-f822b4a0d3edf8ee015cb7b94c95f6a6]
+
+In Schedule 1 to the Corporate Manslaughter and Corporate Homicide Act 2007 (list of government departments etc)[^f00023]—
+
+- (a) at the appropriate place insert “Department for Business, Energy and Industrial Strategy”,
+- (b) omit “Department for Business, Innovation and Skills” and “Department of Energy and Climate Change”.
+
+#### 13. Crossrail Act [2008 (c. 18)](https://www.legislation.gov.uk/ukpga/2008/18)[^key-5fcf473876291dd65b65858c9096393a]
+
+In the following provisions of the Crossrail Act 2008[^f00024], for “the Secretary of State for Energy and Climate Change” substitute “the Secretary of State for Business, Energy and Industrial Strategy”—
+
+- (a) section 4(5)(b) (overhead lines),
+- (b) paragraph 12 of Schedule 4 (overhead lines: consent), and
+- (c) paragraphs 2(4) and 13(3) of Part 2 of Schedule 17 (protection for electricity, gas, water and sewerage undertakers).
+
+### PART 2 — Secondary legislation
+
+#### 14. Housing (Right to Buy) (Service Charges) Order 1986 ([S.I. 1986/2195](https://www.legislation.gov.uk/uksi/1986/2195))[^key-72750a4ffe38dd10228f44674f40a2b6]
+
+In article 2 of the Housing (Right to Buy) (Service Charges) Order 1986 (interpretation), in the definition of “index figure”[^f00025]—
+
+- (a) for “BIS” in each place substitute “BEIS”, and
+- (b) for “Department for Business, Innovation and Skills” substitute “Department for Business, Energy and Industrial Strategy”.
+
+#### 15. Insolvency Rules 1986 ([S.I. 1986/1925](https://www.legislation.gov.uk/uksi/1986/1925))[^key-c480012b4863fd5b26fe66e0f9e1db63]
+
+In rule 13.13(2) of the Insolvency Rules 1986 (expressions used generally)[^f00026], for “the Department for Business, Innovation and Skills” substitute “the Department for Business, Energy and Industrial Strategy”.
+
+#### 16. Companies House Trading Fund Order 1991 ([S.I. 1991/1795](https://www.legislation.gov.uk/uksi/1991/1795))[^key-edda2411b5052a2016b419a6748d0499][^key-1fd87abe1d0206056f7f1553614ced6b]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 17. Patent Office Trading Fund Order 1991 ([S.I. 1991/1796](https://www.legislation.gov.uk/uksi/1991/1796))[^key-fb40f8ca6276a8ccd7c48cf772c81568]
+
+(1) The Patent Office Trading Fund Order is amended as follows.
+
+(2) At the end of article 2 (establishment of the fund)[^f00029] insert—
+
+> From the coming into force of the Secretaries of State for Business, Energy and Industrial Strategy, for International Trade and for Exiting the European Union and the Transfer of Functions (Education and Skills) Order 2016, the fund is to be for the operations of that part of the Department for Business, Energy and Industrial Strategy known as the Patent Office so far as those operations correspond to those described in Schedule 1 to this Order.
+
+(3) In article 3 (source of loans)[^f00030], for “for Business, Innovation and Skills” substitute “for Business, Energy and Industrial Strategy”.
+
+#### 18. Bail (Amendment) Act 1993 (Prescription of Prosecuting Authorities) Order 1994 ([S.I. 1994/1438](https://www.legislation.gov.uk/uksi/1994/1438))[^key-79eaf6dd64c4f0b5402a9abe3e8513a6]
+
+In the Schedule[^f00031] to the Bail (Amendment) Act 1993 (Prescription of Prosecuting Authorities) Order 1994, for “The Secretary of State for Business, Innovation and Skills” substitute “The Secretary of State for Business, Energy and Industrial Strategy”.
+
+#### 19. Insolvency Regulations 1994 ([S.I. 1994/2507](https://www.legislation.gov.uk/uksi/1994/2507))[^key-94b0f14d95277488ff9454e724b3deef]
+
+In regulation 3(3) of the Insolvency Regulations 1994 (interpretation and application)[^f00032], for “the Department for Business, Innovation and Skills” substitute “the Department for Business, Energy and Industrial Strategy”.
+
+#### 20. Meteorological Office Trading Fund Order 1996 ([S.I. 1996/774](https://www.legislation.gov.uk/uksi/1996/774))[^key-006c2019721b5798fcd3d1c79d6403b2]
+
+(1) The Meteorological Office Trading Fund Order 1996 is amended as follows.
+
+(2) In article 3 (source of loans)[^f00033], for “Secretary of State for Business, Innovation and Skills” substitute “Secretary of State for Business, Energy and Industrial Strategy”.
+
+(3) In Schedule 1 (funded operations)[^f00034], for “Department for Business, Innovation and Skills” substitute “Department for Business, Energy and Industrial Strategy”.
+
+#### 21. Chemical Weapons (Notification) Regulations 1996 ([S.I. 1996/2503](https://www.legislation.gov.uk/uksi/1996/2503))[^key-71d0c029568f8e1d783c91bead11eff6]
+
+In regulation 3(3) of the Chemical Weapons (Notification) Regulations 1996 (notification to the Secretary of State)[^f00035], for the words from “, Department of” to the end substitute “at the address given on its website as its postal address, or sent by means of an electronic communications network to the address given on the Authority’s website as its address for electronic communications”.
+
+#### 22. Merchant Shipping (Oil Pollution Preparedness, Response and Co-operation Convention) Regulations 1998 ([S.I. 1998/1056](https://www.legislation.gov.uk/uksi/1998/1056))[^key-50a262e33749924bd4a25a855290e1be]
+
+In regulation 4(7) of the Merchant Shipping (Oil Pollution Preparedness, Response and Co-operation Convention) Regulations 1998 (oil pollution emergency plans)[^f00036], for “the Secretary of State for Energy and Climate Change” substitute “the Secretary of State for Business, Energy and Industrial Strategy”.
+
+#### 23. Trial of the Pyx Order 1998 ([S.I. 1998/1764](https://www.legislation.gov.uk/uksi/1998/1764))[^key-84c79d100d9d586de626eb68f0a55254]
+
+In articles 4(4)[^f00037] and 15(2)[^f00038] of the Trial of the Pyx Order 1998, for “the Department for Business, Innovation and Skills” substitute “the Department for Business, Energy and Industrial Strategy”.
+
+#### 24. Building Societies (Business Names) Regulations 1998 ([S.I. 1998/3186](https://www.legislation.gov.uk/uksi/1998/3186))[^key-20cc41dc44f2cabadbe3dc95685bf8b2]
+
+In column (2) of the Schedule to the Building Societies (Business Names) Regulations 1998 (specification of relevant bodies etc)[^f00039], for “Department for Business, Innovation and Skills” substitute “Department for Business, Energy and Industrial Strategy”.
+
+#### 25. Railway Administration Order Rules 2001 ([S.I. 2001/3352](https://www.legislation.gov.uk/uksi/2001/3352))[^key-dbe0b7d528248224ef03096f2fabe7d5]
+
+In rule 1.2(1) of the Railway Administration Order Rules 2001 (construction and interpretation)[^f00040], in the definition of “the Department”, for “the Department for Business, Innovation and Skills” substitute “the Department for Business, Energy and Industrial Strategy”.
+
+#### 26. Police and Criminal Evidence Act 1984 (Department of Trade and Industry Investigations) Order 2002 ([S.I. 2002/2326](https://www.legislation.gov.uk/uksi/2002/2326))[^key-ae69237b2a0842a1286eb392d8524cfe]
+
+(1) The Police and Criminal Evidence Act 1984 (Department of Trade and Industry Investigations) Order 2002 is amended as follows.
+
+(2) In article 2 (definitions)[^f00041]—
+
+- (a) for “BIS investigator” in each place substitute “BEIS investigator”,
+- (b) for “the Secretary of State for Business, Innovation and Skills” substitute “the Secretary of State for Business, Energy and Industrial Strategy”, and
+- (c) for “BIS investigation” substitute “BEIS investigation”.
+
+(3) In article 3(1)(b) and in the heading to article 3 (application of certain provisions of 1984 Act to investigations)[^f00042], for “BIS investigations” in each place substitute “BEIS investigations”.
+
+(4) In article 4 (modifications)[^f00043]—
+
+- (a) for “BIS investigator” in each place substitute “BEIS investigator”, and
+- (b) in paragraph (5)(b), (c) and (d), for “the Secretary of State for Business, Innovation and Skills” substitute “the Secretary of State for Business, Energy and Industrial Strategy”.
+
+#### 27. Community Investment Tax Relief (Accreditation of Community Development Finance Institutions) Regulations 2003 ([S.I. 2003/96](https://www.legislation.gov.uk/uksi/2003/96))[^key-84a21bc0c1811088499dd1db5ab9f060]
+
+In the Community Investment Tax Relief (Accreditation of Community Development Finance Institutions) Regulations 2003, in the following provisions[^f00044] for “Department for Business, Innovation and Skills” substitute “Department for Business, Energy and Industrial Strategy”—
+
+- (a) regulation 7(4);
+- (b) regulation 12A(2)[^f00045];
+- (c) regulation 13(1) and (4);
+- (d) regulation 15(2)(b)(ii);
+- (e) regulation 16(3)(b).
+
+#### 28. Land Registration Rules 2003 ([S.I. 2003/1417](https://www.legislation.gov.uk/uksi/2003/1417))[^key-b112b3355803c3740cf2ec9d80fbea3f]
+
+(1) In the Land Registration Rules 2003, in the following provisions for “the Secretary of State for Business, Innovation and Skills” in each place substitute “the Secretary of State for Business, Energy and Industrial Strategy”—
+
+- (a) form CIT in Schedule 1[^f00046];
+- (b) column 1 of Schedule 5[^f00047].
+
+(2) Forms of the kind mentioned in paragraph (1)(a) may be used after the coming into force of this Order even though they contain, or are to be read as containing, references to the Secretary of State for Business, Innovation and Skills; and those references are to be read as references to the Secretary of State for Business, Energy and Industrial Strategy.
+
+#### 29. Crime (International Co-operation) Act 2003 (Designation of Prosecuting Authorities) Order 2004 ([S.I. 2004/1034](https://www.legislation.gov.uk/uksi/2004/1034))[^key-c74ce26f6f2931d0b8c4d06c1941b17b]
+
+In article 2(2)[^f00048] of the Crime (International Co-operation) Act 2003 (Designation of Prosecuting Authorities) Order 2004, for “the Secretary of State for Business, Innovation and Skills” substitute “the Secretary of State for Business, Energy and Industrial Strategy”.
+
+#### 30. Measuring Instruments (EEC Requirements) (Fees) Regulations 2004 ([S.I. 2004/1300](https://www.legislation.gov.uk/uksi/2004/1300))[^key-1a2299279ccb3b795478b0f803078ea9]
+
+In paragraph (b) of Schedule 1 to the Measuring Instruments (EEC Requirements) (Fees) Regulations 2004 (calculation of variable fee)[^f00049], for “the Department for Business, Innovation and Skills” substitute “the Department for Business, Energy and Industrial Strategy”.
+
+#### 31. Electricity (Fuel Mix Disclosure) Regulations 2005 ([S.I. 2005/391](https://www.legislation.gov.uk/uksi/2005/391))[^key-a861a9ef5d6b44617815593166b83a13]
+
+In paragraph 1 of the condition[^f00050] set out in the Schedule to the Electricity (Fuel Mix Disclosure) Regulations 2005, in the definition of “fuel mix disclosure data table”, for “the Department of Energy and Climate Change” substitute “the Department for Business, Energy and Industrial Strategy”.
+
+#### 32. Damages (Government and Health Service Bodies) Order 2005 ([S.I. 2005/474](https://www.legislation.gov.uk/uksi/2005/474))[^key-6e6ee9d1941d7aa3355c5eef8cec423f]
+
+In Part 1 of the Schedule[^f00051] to the Damages (Government and Health Service Bodies) Order 2005—
+
+- (a) omit “Department of Energy and Climate Change”, and
+- (b) for “Department for Business, Innovation and Skills” substitute “Department for Business, Energy and Industrial Strategy”.
+
+#### 33. Energy Administration Rules 2005 ([S.I. 2005/2483](https://www.legislation.gov.uk/uksi/2005/2483))[^key-f65d80c1ee6755b23460c8b336e02762]
+
+In rule 186(2) of the Energy Administration Rules 2005 (expressions used generally)[^f00052], for “the Department for Business, Innovation and Skills” substitute “the Department for Business, Energy and Industrial Strategy”.
+
+#### 34. Accession (Immigration and Worker Authorisation) Regulations 2006 ([S.I. 2006/3317](https://www.legislation.gov.uk/uksi/2006/3317))[^key-0671f3419f9e196586d2504a0ce9e8bb]
+
+In Schedule 1 to the Accession (Immigration and Worker Authorisation) Regulations 2006, in the column 2 entry relating to “Teacher or language assistant”[^f00053], for “the Department for Business, Innovation and Skills” substitute “the Department for Business, Energy and Industrial Strategy”.
+
+#### 35. Guarantees of Origin of Electricity Produced from High-efficiency Cogeneration Regulations 2007 ([S.I. 2007/292](https://www.legislation.gov.uk/uksi/2007/292))[^key-317ed68f1d5786a0358b0b91a7463f50]
+
+In the following provisions[^f00054] of the Guarantees of Origin of Electricity Produced from High-efficiency Cogeneration Regulations 2007, for “Secretary of State for Energy and Climate Change” substitute “Secretary of State for Business, Energy and Industrial Strategy”—
+
+- (a) the definition of “the competent authority” in regulation 2(1) (interpretation);
+- (b) regulation 3(2) (issue of guarantees).
+
+#### 36. Regulation of Investigatory Powers (Authorisations Extending to Scotland) Order 2007 ([S.I. 2007/934](https://www.legislation.gov.uk/uksi/2007/934))[^key-68a6f028850d92cce4ce06106d8836c8]
+
+In column 1 of the Schedule[^f00055] to the Regulation of Investigatory Powers (Authorisations Extending to Scotland) Order 2007, for “The Department for Business, Innovation and Skills” substitute “The Department for Business, Energy and Industrial Strategy”.
+
+#### 37. Political Parties, Elections and Referendums Act 2000 (Northern Ireland Political Parties) Order 2007 ([S.I. 2007/2501](https://www.legislation.gov.uk/uksi/2007/2501))[^key-c9b7122a4419dd82e9c32f96ad6507ed]
+
+In article 11(g) of the Political Parties, Elections and Referendums Act 2000 (Northern Ireland Political Parties) Order 2007 (disclosure of information)[^f00056], for “the Department for Business, Innovation and Skills” substitute “the Department for Business, Energy and Industrial Strategy”.
+
+#### 38. Petroleum Licensing (Production) (Seaward Areas) Regulations 2008 ([S.I. 2008/225](https://www.legislation.gov.uk/uksi/2008/225))[^key-7ca3236a4cb5cb6238130213a55790c2]
+
+In clause 1(1) of the model clauses in the Schedule to the Petroleum Licensing (Production) (Seaward Areas) Regulations 2008[^f00057], in the definition of “the Minister”, for “the Secretary of State for Energy and Climate Change” substitute “the Secretary of State for Business, Energy and Industrial Strategy”.
+
+#### 39. Political Parties, Elections and Referendums Act 2000 (Northern Ireland Political Parties) Order 2008 ([S.I. 2008/1737](https://www.legislation.gov.uk/uksi/2008/1737))[^key-f906477536b4dba50df42394828750e5]
+
+In article 11(g) of the Political Parties, Elections and Referendums Act 2000 (Northern Ireland Political Parties) Order 2008 (disclosure of information)[^f00058], for “the Department for Business, Innovation and Skills” substitute “the Department for Business, Energy and Industrial Strategy”.
+
+#### 40. Export Control Order 2008 ([S.I. 2008/3231](https://www.legislation.gov.uk/uksi/2008/3231))[^key-9eef31bd820fe91678a42e94f3bb15be]
+
+In articles 33(5), 33A(3) and 44 of the Export Control Order 2008[^f00059], for “Department for Business, Innovation and Skills” substitute “Department for International Trade”.
+
+#### 41. Offshore Gas Storage and Unloading (Licensing) Regulations 2009 ([S.I. 2009/2813](https://www.legislation.gov.uk/uksi/2009/2813))[^key-dfd61ec72e3987fe5f9370d1e9f55ccc]
+
+In clause 1(1) of the model clauses in the Schedule to the Offshore Gas Storage and Unloading (Licensing) Regulations 2009[^f00060], in the definition of “the Minister”, for “Secretary of State for Energy and Climate Change” substitute “Secretary of State for Business, Energy and Industrial Strategy”.
+
+#### 42. Offshore Exploration (Petroleum, and Gas Storage and Unloading) (Model Clauses) Regulations 2009 ([S.I. 2009/2814](https://www.legislation.gov.uk/uksi/2009/2814))[^key-593a3f44d79279253318a49afeaaf41f]
+
+In clause 1(1) of the model clauses in the Schedule to the Offshore Exploration (Petroleum, and Gas Storage and Unloading) (Model Clauses) Regulations 2009[^f00061], in the definition of “the Minister”, for “Secretary of State for Energy and Climate Change” substitute “Secretary of State for Business, Energy and Industrial Strategy”.
+
+#### 43. Regulation of Investigatory Powers (Directed Surveillance and Covert Human Intelligence Sources) Order 2010 ([S.I. 2010/521](https://www.legislation.gov.uk/uksi/2010/521))[^key-0f2ced7f075e5429a31dd6acfde465d8]
+
+In Part 1 of the Schedule to the Regulation of Investigatory Powers (Directed Surveillance and Covert Human Intelligence Sources) Order 2010, in column (1), for “The Department for Business, Innovation and Skills” substitute “The Department for Business, Energy and Industrial Strategy”.
+
+#### 44. South Gloucestershire and Stroud College (Government) Regulations 2011 ([S.I. 2011/2975](https://www.legislation.gov.uk/uksi/2011/2975))[^key-4aef68916d193babecd282a879ac497a]
+
+In the following provisions of the South Gloucestershire and Stroud College (Government) Regulations 2011, for “Secretary of State for Business, Innovation and Skills” substitute “Secretary of State for Education”—
+
+- (a) clause 1(k) of Schedule 1 (instrument of government);
+- (b) clause 1(h) of Schedule 2 (articles of government).
+
+#### 45. Criminal Justice Act 2003 (Commencement No. 26) Order 2011 ([S.I. 2011/2188](https://www.legislation.gov.uk/uksi/2011/2188))[^key-24fcce674744b7f4006eaf2dae005e86]
+
+In article 3(b) of the Criminal Justice Act 2003 (Commencement No. 26) Order 2011, for “Secretary of State for Business, Innovation and Skills” substitute “Secretary of State for Business, Energy and Industrial Strategy”.
+
+#### 46. Easton and Otley College (Government) Regulations 2012 ([S.I. 2012/1749](https://www.legislation.gov.uk/uksi/2012/1749))[^key-ba85f51729b07ec9f6cd9226c8f83e58]
+
+In paragraph 1(i) of Schedule 1 to the Easton and Otley College (Government) Regulations 2012 (instrument of government), for “Secretary of State for Business, Innovation and Skills” substitute “Secretary of State for Education”.
+
+#### 47. Hinkley Point C (Nuclear Generating Station) Order 2013 ([S.I. 2013/648](https://www.legislation.gov.uk/uksi/2013/648))[^key-95fcbe2017f9af2c1323c0f7a5d04391]
+
+In paragraph 6 of Schedule 15 to the Hinkley Point C (Nuclear Generating Station) Order 2013 (provisions for protection of the Environment Agency), for “Secretary of State for Energy and Climate Change” substitute “Secretary of State for Business, Energy and Industrial Strategy”.
+
+#### 48. Charities Act 2011 (Principal Regulators of Exempt Charities) Regulations 2013 ([S.I. 2013/1764](https://www.legislation.gov.uk/uksi/2013/1764))[^key-ae6239b3a6a125e9dae7206b063425f2]
+
+In the following provisions of the Charities Act 2011 (Principal Regulators of Exempt Charities) Regulations 2013, for “Secretary of State for Business, Innovation and Skills” in each place substitute “Secretary of State for Education”—
+
+- (a) regulation 3 (appointment of principal regulator);
+- (b) regulation 5(1) (definition of “responsible person”).
+
+#### 49. Energy Savings Opportunity Scheme Regulations 2014 ([S.I. 2014/1643](https://www.legislation.gov.uk/uksi/2014/1643))[^key-dbd544f1d77f737c8cab6c336a3197cc]
+
+In the following provisions of the Energy Savings Opportunity Scheme Regulations 2014, for “Secretary of State for Energy and Climate Change” substitute “Secretary of State for Business, Energy and Industrial Strategy”—
+
+- (a) regulation 6(1)(e) (compliance bodies);
+- (b) regulation 48(2)(a) (appeals).
+
+#### 50. Public Interest Disclosure (Prescribed Persons) Order 2014 ([S.I. 2014/2418](https://www.legislation.gov.uk/uksi/2014/2418))[^key-963f8690b1f1138fa0b8951286707971]
+
+In the Schedule to the Public Interest Disclosure (Prescribed Persons) Order 2014, in the first column, for “Secretary of State for Business, Innovation and Skills.” substitute “Secretary of State for Business, Energy and Industrial Strategy.”
+
+#### 51. Company, Limited Liability Partnership and Business Names (Sensitive Words and Expressions) Regulations 2014 ([S.I. 2014/3140](https://www.legislation.gov.uk/uksi/2014/3140))[^key-1e32c31bae86d4e140905adb6ca3262d]
+
+(1) The Company, Limited Liability Partnership and Business Names (Sensitive Words and Expressions) Regulations 2014 are amended as follows.
+
+(2) In column (2) in Part 1 of Schedule 2 (list of government departments etc whose views must be sought)—
+
+- (a) in relation to the entries in column (1) for “Accredit”, “Accreditation”, “Accredited” and “Accrediting”, for “Department for Business, Innovation & Skills” substitute “Department for Business, Energy and Industrial Strategy”, and
+- (b) in relation to the entry in column (1) for “Polytechnic”, for “Department for Business, Innovation & Skills” substitute “Department for Education”.
+
+(3) In column (2) of Part 2 of Schedule 2 (applications where situation of registered office or principal place of business is relevant), in relation to the entry in column (1) for “University”, for “Department for Business, Innovation & Skills” substitute “Department for Education”.
+
+#### 52. Criminal Justice and Data Protection (Protocol No. 36) Regulations 2014 ([S.I. 2014/3141](https://www.legislation.gov.uk/uksi/2014/3141))[^key-5895179f2f67564449c3c02e84ee12bc]
+
+In Part 1 of Schedule 4 to the Criminal Justice and Data Protection (Protocol No. 36) Regulations 2014 (UK competent authorities)—
+
+- (a) at the appropriate place insert “The Secretary of State for Business, Energy and Industrial Strategy”, and
+- (b) omit “The Secretary of State for Energy and Climate Change”.
+
+#### 53. Proceeds of Crime Act 2002 (References to Financial Investigators) (England and Wales) Order 2015 ([S.I. 2015/1853](https://www.legislation.gov.uk/uksi/2015/1853))[^key-bee845163be0898ada989086e1d5cf0b]
+
+In column 2 of the Schedule to the Proceeds of Crime Act 2002 (References to Financial Investigators) (England and Wales) Order 2015, for “the Department for Business, Innovation and Skills” in each place substitute “the Department for Business, Energy and Industrial Strategy”.
+
+#### 54. Renewables Obligation Order 2015 ([S.I. 2015/1947](https://www.legislation.gov.uk/uksi/2015/1947))[^key-f2ab2e56e1aeffe21b9678db833cf053]
+
+In regulation 79(3) of the Renewables Obligation Order 2015 (provision of information), for “Department of Energy and Climate Change” substitute “Department for Business, Energy and Industrial Strategy”.
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order in Council is made under sections 1 and 2 of the Ministers of the Crown Act 1975. It makes provision in connection with the establishment of the Departments for Business, Energy and Industrial Strategy, for International Trade and for Exiting the European Union and the transfer of certain functions to the Department for Education.
+
+The responsibilities entrusted to the Secretary of State for Business, Energy and Industrial Strategy were described in the Cabinet Office paper “Machinery of Government: Merging the Department of Energy and Climate Change with the Department for Business, Innovation and Skills to create the Department for Business, Energy and Industrial Strategy”. The responsibilities entrusted to the Secretary of State for International Trade were described in the Cabinet Office paper “Machinery of Government: Creation of a new Department for International Trade”. The responsibilities entrusted to the Secretary of State for Exiting the European Union were described in the Cabinet Office paper “Machinery of Government: Creating a new Department for Exiting the European Union”. The transfer of functions to the Department for Education was described in the Cabinet Office paper “Machinery of Government: Moving higher and further education, apprenticeships and skills policy from the former Department for Business, Innovation and Skills to the Department for Education”. The papers were placed in the Libraries of both Houses of Parliament and were referred to in the Prime Minister’s written statement to Parliament dated 18th July 2016: see Hansard (House of Commons) 18th July 2016 at column \[94\], available at www.parliament.uk.
+
+*Articles 3, 4 and 5* provide for the incorporation of the Secretary of State for Business, Energy and Industrial Strategy, the Secretary of State for International Trade and the Secretary of State for Exiting the European Union as corporations sole, and for the authentication of their corporate seals and the execution and certification of documents.
+
+*Article 6* transfers certain functions of the Secretary of State for Business, Innovation and Skills and functions of the Secretary of State for Energy and Climate Change to the Secretary of State for Business, Energy and Industrial Strategy. *Article 7* makes provision for the transfer of property, rights and liabilities to the Secretary of State for Business, Energy and Industrial Strategy. *Article 8* makes other supplemental provision in connection with the transfer or entrusting of functions to the Secretary of State for Business, Energy and Industrial Strategy.
+
+*Article 9* makes supplementary provision (including provision for the transfer of property, rights and liabilities) in connection with the entrusting of functions to the Secretary of State for International Trade.
+
+*Article 10* transfers certain functions of the Secretary of State for Business, Innovation and Skills to the Secretary of State for Education, and *article 11* makes supplementary provision (including provision for the transfer of property, rights and liabilities) in connection with the transfer and entrusting of certain education and skills functions to the Secretary of State for Education.
+
+Article 12 makes supplementary provision (including provision for the transfer of property, rights and liabilities) in connection with the transfer and entrusting of education or training (adult detention) functions to the Secretary of State for Justice.
+
+*Article 13* makes provision preserving the validity of anything done by or in relation to the Secretary of State for Business, Innovation and Skills, the Secretary of State for Energy and Climate Change or the Secretary of State for Education before the coming into force of this Order.
+
+*Article 14 and the Schedule* make consequential amendments to Acts of Parliament and subordinate legislation.
+
+Nothing in this Order alters the functions of the Welsh Ministers, the Scottish Ministers or the devolved authorities in Northern Ireland.
+
+A full impact assessment has not been produced for this instrument as no impact on the private or voluntary sectors is foreseen.
+
+## Annotations
+
+[^f00001]: Footnote: [1975 c. 26](https://www.legislation.gov.uk/ukpga/1975/26). Section 1 was amended by section 20 of the Constitutional Reform Act [2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4).
+
+[^key-f8840b66e1b8ee74ede3ec7e3648ec02]: Commencement: Art. 1 in force at 9.11.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/992/article/1/2)
+
+[^key-9ccec3fd6363e024faee43218910f416]: Commencement: Art. 2 in force at 9.11.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/992/article/1/2)
+
+[^f00002]: Footnote: [2016 c. 20](https://www.legislation.gov.uk/ukpga/2016/20).
+
+[^key-2244102b8b6238305d2bbb87f0475be8]: Commencement: Art. 3 in force at 9.11.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/992/article/1/2)
+
+[^f00003]: Footnote: [1868 c. 37](https://www.legislation.gov.uk/ukpga/1868/37).
+
+[^key-8ee07ec44aa06bcc57d7d60309ba7665]: Commencement: Art. 4 in force at 9.11.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/992/article/1/2)
+
+[^key-456972ccf0f06db09fef6d55f8994197]: Commencement: Art. 5 in force at 9.11.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/992/article/1/2)
+
+[^key-058e689b47978cb775f521feeb59f0fc]: Commencement: Art. 6 in force at 9.11.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/992/article/1/2)
+
+[^key-97d6f03dff1878d56f093e0379ed8eb3]: Commencement: Art. 7 in force at 9.11.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/992/article/1/2)
+
+[^key-8d035d5b85e67035dbd8af4cc1e75158]: Commencement: Art. 8 in force at 9.11.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/992/article/1/2)
+
+[^key-c384ca57737fd748873dc1fc4c34b558]: Commencement: Art. 9 in force at 9.11.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/992/article/1/2)
+
+[^key-0dac20e2376e0388a36c80cf49b4aa26]: Commencement: Art. 10 in force at 9.11.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/992/article/1/2)
+
+[^f00004]: Footnote: [S.I. 2013/1764](https://www.legislation.gov.uk/uksi/2013/1764).
+
+[^key-7d82aba72c4c17ef34a38b922743b94c]: Commencement: Art. 11 in force at 9.11.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/992/article/1/2)
+
+[^key-4b91762a826033dfcd2f0eaecc0012b0]: Commencement: Art. 12 in force at 9.11.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/992/article/1/2)
+
+[^key-0e6f80d3c05c87809ab7ede57b4972e7]: Commencement: Art. 13 in force at 9.11.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/992/article/1/2)
+
+[^key-b07bf78671735fb25ebeaf88f4b91bc6]: Commencement: Art. 14 in force at 9.11.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/992/article/1/2)
+
+[^key-b548404d43d3552806a4c83c2d050e7a]: Commencement: Sch. para. 1 in force at 9.11.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/992/article/1/2)
+
+[^f00005]: Footnote: The reference in the entry for the Meteorological Office to the Department for Business, Innovation and Skills was substituted by [S.I. 2011/2436](https://www.legislation.gov.uk/uksi/2011/2436), Sch. 2.
+
+[^key-d7d9b0409146c1fbfe453beb9b73513c]: Commencement: Sch. para. 2 in force at 9.11.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/992/article/1/2)
+
+[^f00006]: Footnote: Schedule 2 was substituted by [S.I. 2011/2986](https://www.legislation.gov.uk/uksi/2011/2986), Sch. Other amendments have been made to Schedule 2 which are not relevant to this Order.
+
+[^key-11b026955a97f6ab1d3fae576194c08f]: Commencement: Sch. para. 3 in force at 9.11.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/992/article/1/2)
+
+[^f00007]: Footnote: Section 6(3) was amended by [S.I. 2007/3224](https://www.legislation.gov.uk/uksi/2007/3224), Sch. and by [S.I. 2009/2748](https://www.legislation.gov.uk/uksi/2009/2748), Sch.
+
+[^f00008]: Footnote: Section 8(2) was amended by [S.I. 2007/3224](https://www.legislation.gov.uk/uksi/2007/3224), Sch. and by [S.I. 2009/2748](https://www.legislation.gov.uk/uksi/2009/2748), Sch.
+
+[^key-340abbdeced220441908cf9e7149cb5e]: Commencement: Sch. para. 4 in force at 9.11.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/992/article/1/2)
+
+[^f00009]: Footnote: Section 114A was inserted by section 85 of the Criminal Justice and Police Act [2001 (c. 16)](https://www.legislation.gov.uk/ukpga/2001/16) and amended by [S.I. 2007/3224](https://www.legislation.gov.uk/uksi/2007/3224), Sch. and by [S.I. 2009/2748](https://www.legislation.gov.uk/uksi/2009/2748), Sch. Other amendments have been made to section 114A which are not relevant to this Order.
+
+[^key-58ab9fd1184ab7acddd8a82f433e7922]: Commencement: Sch. para. 5 in force at 9.11.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/992/article/1/2)
+
+[^f00010]: Footnote: Section 3(1) and (5) were amended by [S.I. 2007/3224](https://www.legislation.gov.uk/uksi/2007/3224), Sch. and by [S.I. 2009/2748](https://www.legislation.gov.uk/uksi/2009/2748), Sch.
+
+[^f00011]: Footnote: The definition of “Department for Business, Innovation and Skills standards” was substituted by [S.I. 2009/2748](https://www.legislation.gov.uk/uksi/2009/2748), Sch.
+
+[^f00012]: Footnote: Paragraph (e) was amended by [S.I. 2007/3224](https://www.legislation.gov.uk/uksi/2007/3224), Sch. and by [S.I. 2009/2748](https://www.legislation.gov.uk/uksi/2009/2748), Sch.
+
+[^key-4ccb703e9baa54cafae1ffe5a5fb0ff4]: Commencement: Sch. para. 6 in force at 9.11.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/992/article/1/2)
+
+[^f00013]: Footnote: Section 23(10) was amended by [S.I. 2007/3224](https://www.legislation.gov.uk/uksi/2007/3224), Sch. and by [S.I. 2009/229](https://www.legislation.gov.uk/uksi/2009/229), Sch. 2. Other amendments have been made to section 23(10) which are not relevant to this Order.
+
+[^key-c26d009049ca41e18eeb8615cfab3a6d]: Commencement: Sch. para. 7 in force at 9.11.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/992/article/1/2)
+
+[^f00014]: Footnote: Section 50(5) was amended by [S.I. 2002/2626](https://www.legislation.gov.uk/uksi/2002/2626), Sch. 2, by [S.I. 2007/3224](https://www.legislation.gov.uk/uksi/2007/3224), Sch. and by [S.I. 2009/229](https://www.legislation.gov.uk/uksi/2009/229), Sch. 2.
+
+[^f00015]: Footnote: Paragraph 13 was amended by [S.I. 2002/2626](https://www.legislation.gov.uk/uksi/2002/2626), Sch. 2 by [S.I. 2007/3224](https://www.legislation.gov.uk/uksi/2007/3224), Sch. and by [S.I. 2009/229](https://www.legislation.gov.uk/uksi/2009/229), Sch. 2.
+
+[^f00016]: Footnote: Paragraph 2(4) was substituted by [S.I. 1997/2971](https://www.legislation.gov.uk/uksi/1997/2971), Sch. and amended by [S.I. 2002/2626](https://www.legislation.gov.uk/uksi/2002/2626), Sch. 2, by [S.I. 2007/3224](https://www.legislation.gov.uk/uksi/2007/3224), Sch. and by [S.I. 2009/229](https://www.legislation.gov.uk/uksi/2009/229), Sch. 2.
+
+[^key-d620629af22343c9bc079a17f895d8d1]: Commencement: Sch. para. 8 in force at 9.11.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/992/article/1/2)
+
+[^f00017]: Footnote: Schedule 1 was amended by [S.I. 2007/3224](https://www.legislation.gov.uk/uksi/2007/3224), Sch., by [S.I. 2009/229](https://www.legislation.gov.uk/uksi/2009/229), Sch. 2 and by [S.I. 2009/2748](https://www.legislation.gov.uk/uksi/2009/2748), Sch. Paragraph 9ZB was inserted by [S.I. 2009/2748](https://www.legislation.gov.uk/uksi/2009/2748), Sch. Other amendments have been made to Schedule 1 which are not relevant to this Order.
+
+[^key-a76a78ee2cb86552a30b74ccdfa457e8]: Commencement: Sch. para. 9 in force at 9.11.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/992/article/1/2)
+
+[^f00018]: Footnote: Schedule 9 was amended by [S.I. 2007/3224](https://www.legislation.gov.uk/uksi/2007/3224), Sch. and by [S.I. 2009/2748](https://www.legislation.gov.uk/uksi/2009/2748), Sch. Other amendments have been made to Schedule 9 which are not relevant to this Order.
+
+[^key-c60a40a8225cea6184b594c3a3ee05ba]: Commencement: Sch. para. 10 in force at 9.11.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/992/article/1/2)
+
+[^f00019]: Footnote: Subsections (4)(db), (6A) and (6C) were inserted by section 113 of the Coroners and Justice Act [2009 (c. 25)](https://www.legislation.gov.uk/ukpga/2009/25). Other amendments have been made to section 71 which are not relevant to this Order.
+
+[^key-8af46b80cf4ecddc562198088411a431]: Commencement: Sch. para. 11 in force at 9.11.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/992/article/1/2)
+
+[^f00020]: Footnote: Each of the provisions amended by sub-paragraph (2) was amended by [S.I. 2009/229](https://www.legislation.gov.uk/uksi/2009/229), Sch. 2.
+
+[^f00021]: Footnote: Subsection (2A) was substituted by [S.I. 2009/229](https://www.legislation.gov.uk/uksi/2009/229), Sch. 2.
+
+[^f00022]: Footnote: Subsection (5A) was substituted by [S.I. 2009/229](https://www.legislation.gov.uk/uksi/2009/229), Sch. 2.
+
+[^key-f822b4a0d3edf8ee015cb7b94c95f6a6]: Commencement: Sch. para. 12 in force at 9.11.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/992/article/1/2)
+
+[^f00023]: Footnote: Schedule 1 was amended by [S.I. 2008/396](https://www.legislation.gov.uk/uksi/2008/396), art. 2, by [S.I. 2009/229](https://www.legislation.gov.uk/uksi/2009/229), Sch. 2 and by [S.I. 2009/2748](https://www.legislation.gov.uk/uksi/2009/2748), Sch. Other amendments have been made to Schedule 1 which are not relevant to this Order.
+
+[^key-5fcf473876291dd65b65858c9096393a]: Commencement: Sch. para. 13 in force at 9.11.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/992/article/1/2)
+
+[^f00024]: Footnote: Each of the provisions amended by this paragraph was amended by [S.I. 2009/229](https://www.legislation.gov.uk/uksi/2009/229), Sch. 2.
+
+[^key-72750a4ffe38dd10228f44674f40a2b6]: Commencement: Sch. para. 14 in force at 9.11.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/992/article/1/2)
+
+[^f00025]: Footnote: The definition of “index figure” was substituted by [S.I. 2010/2769](https://www.legislation.gov.uk/uksi/2010/2769), art. 2.
+
+[^key-c480012b4863fd5b26fe66e0f9e1db63]: Commencement: Sch. para. 15 in force at 9.11.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/992/article/1/2)
+
+[^f00026]: Footnote: Rule 13.13(2) was amended by [S.I. 2007/3224](https://www.legislation.gov.uk/uksi/2007/3224), Sch. and by [S.I. 2009/2478](https://www.legislation.gov.uk/uksi/2009/2478), Sch.
+
+[^key-edda2411b5052a2016b419a6748d0499]: Textual amendment: [Sch. para. 16](https://www.legislation.gov.uk/uksi/2016/992/schedule/paragraph/16) revoked (1.4.2020) by [The Companies House Trading Fund (Revocation) Order 2019 (S.I. 2019/1337)](https://www.legislation.gov.uk/uksi/2019/1337), [art. 1(2)](https://www.legislation.gov.uk/uksi/2019/1337/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2019/1337/schedule)
+
+[^key-1fd87abe1d0206056f7f1553614ced6b]: Commencement: Sch. para. 16 in force at 9.11.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/992/article/1/2)
+
+[^key-fb40f8ca6276a8ccd7c48cf772c81568]: Commencement: Sch. para. 17 in force at 9.11.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/992/article/1/2)
+
+[^f00029]: Footnote: Article 2 was amended by [S.I. 2007/3224](https://www.legislation.gov.uk/uksi/2007/3224), Sch. and by [S.I. 2009/2748](https://www.legislation.gov.uk/uksi/2009/2748), Sch.
+
+[^f00030]: Footnote: Article 3 was amended by [S.I. 2007/3224](https://www.legislation.gov.uk/uksi/2007/3224), Sch. and by [S.I. 2009/2748](https://www.legislation.gov.uk/uksi/2009/2748), Sch.
+
+[^key-79eaf6dd64c4f0b5402a9abe3e8513a6]: Commencement: Sch. para. 18 in force at 9.11.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/992/article/1/2)
+
+[^f00031]: Footnote: The Schedule was amended by [S.I. 2007/3224](https://www.legislation.gov.uk/uksi/2007/3224), Sch. and by [S.I. 2009/2748](https://www.legislation.gov.uk/uksi/2009/2748), Sch. Other amendments have been made to the Schedule which are not relevant to this Order.
+
+[^key-94b0f14d95277488ff9454e724b3deef]: Commencement: Sch. para. 19 in force at 9.11.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/992/article/1/2)
+
+[^f00032]: Footnote: Regulation 3(3) was amended by [S.I. 2007/3224](https://www.legislation.gov.uk/uksi/2007/3224), Sch. and by [S.I. 2009/2748](https://www.legislation.gov.uk/uksi/2009/2748), Sch.
+
+[^key-006c2019721b5798fcd3d1c79d6403b2]: Commencement: Sch. para. 20 in force at 9.11.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/992/article/1/2)
+
+[^f00033]: Footnote: Article 3 was amended by [S.I. 2011/2436](https://www.legislation.gov.uk/uksi/2011/2436), Sch. 2.
+
+[^f00034]: Footnote: Schedule 1 was amended by [S.I. 2011/2436](https://www.legislation.gov.uk/uksi/2011/2436), Sch. 2.
+
+[^key-71d0c029568f8e1d783c91bead11eff6]: Commencement: Sch. para. 21 in force at 9.11.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/992/article/1/2)
+
+[^f00035]: Footnote: Regulation 3(3) was substituted by [S.I. 2004/2406](https://www.legislation.gov.uk/uksi/2004/2406), reg. 2 and amended by [S.I. 2007/3224](https://www.legislation.gov.uk/uksi/2007/3224), Sch. and by [S.I. 2009/229](https://www.legislation.gov.uk/uksi/2009/229), Sch. 2.
+
+[^key-50a262e33749924bd4a25a855290e1be]: Commencement: Sch. para. 22 in force at 9.11.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/992/article/1/2)
+
+[^f00036]: Footnote: Regulation 4(7) was amended by [S.I. 2007/3224](https://www.legislation.gov.uk/uksi/2007/3224), Sch., by [S.I. 2009/229](https://www.legislation.gov.uk/uksi/2009/229), Sch.2 and by [S.I. 2015/386](https://www.legislation.gov.uk/uksi/2015/386), reg. 3.
+
+[^key-84c79d100d9d586de626eb68f0a55254]: Commencement: Sch. para. 23 in force at 9.11.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/992/article/1/2)
+
+[^f00037]: Footnote: Article 4(4) was amended by [S.I. 2007/3224](https://www.legislation.gov.uk/uksi/2007/3224), Sch. and by [S.I. 2009/2748](https://www.legislation.gov.uk/uksi/2009/2748), Sch.
+
+[^f00038]: Footnote: Article 15(2) was amended by [S.I. 2007/3224](https://www.legislation.gov.uk/uksi/2007/3224), Sch. and by [S.I. 2009/2748](https://www.legislation.gov.uk/uksi/2009/2748), Sch. Other amendments have been made to article 15(2) which are not relevant to this Order.
+
+[^key-20cc41dc44f2cabadbe3dc95685bf8b2]: Commencement: Sch. para. 24 in force at 9.11.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/992/article/1/2)
+
+[^f00039]: Footnote: The Schedule was amended by [S.I. 2007/3224](https://www.legislation.gov.uk/uksi/2007/3224), Sch. and the entry relating to “Polytechnic” was amended by [S.I. 2009/2748](https://www.legislation.gov.uk/uksi/2009/2748), Sch. Other amendments have been made to the Schedule which are not relevant to this Order.
+
+[^key-dbe0b7d528248224ef03096f2fabe7d5]: Commencement: Sch. para. 25 in force at 9.11.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/992/article/1/2)
+
+[^f00040]: Footnote: The definition of “the Department” was amended by [S.I. 2007/3224](https://www.legislation.gov.uk/uksi/2007/3224), Sch. and by [S.I. 2009/2748](https://www.legislation.gov.uk/uksi/2009/2748), Sch.
+
+[^key-ae69237b2a0842a1286eb392d8524cfe]: Commencement: Sch. para. 26 in force at 9.11.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/992/article/1/2)
+
+[^f00041]: Footnote: Article 2 was amended by [S.I. 2007/3224](https://www.legislation.gov.uk/uksi/2007/3224), Sch. and by [S.I. 2009/2748](https://www.legislation.gov.uk/uksi/2009/2748), Sch. Other amendments have been made to article 2 which are not relevant to this Order.
+
+[^f00042]: Footnote: Article 3(1)(b) was amended by [S.I. 2007/3224](https://www.legislation.gov.uk/uksi/2007/3224), Sch. and by [S.I. 2009/2748](https://www.legislation.gov.uk/uksi/2009/2748), Sch.
+
+[^f00043]: Footnote: Article 4 was amended by [S.I. 2007/3224](https://www.legislation.gov.uk/uksi/2007/3224), Sch. and by [S.I. 2009/2748](https://www.legislation.gov.uk/uksi/2009/2748), Sch.
+
+[^key-84a21bc0c1811088499dd1db5ab9f060]: Commencement: Sch. para. 27 in force at 9.11.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/992/article/1/2)
+
+[^f00044]: Footnote: The provisions were amended by [S.I. 2008/383](https://www.legislation.gov.uk/uksi/2008/383) and by [S.I. 2009/2748](https://www.legislation.gov.uk/uksi/2009/2748), Sch.
+
+[^f00045]: Footnote: Regulation 12A was inserted by [S.I. 2013/417](https://www.legislation.gov.uk/uksi/2013/417), reg. 7.
+
+[^key-b112b3355803c3740cf2ec9d80fbea3f]: Commencement: Sch. para. 28 in force at 9.11.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/992/article/1/2)
+
+[^f00046]: Footnote: Schedule 1 was substituted by [S.I. 2008/1919](https://www.legislation.gov.uk/uksi/2008/1919), Sch. 2 and amended by [S.I. 2009/2748](https://www.legislation.gov.uk/uksi/2009/2748), Sch.
+
+[^f00047]: Footnote: Schedule 5 was amended by [S.I. 2009/2748](https://www.legislation.gov.uk/uksi/2009/2748), Sch. Other amendments have been made to Schedule 5 which are not relevant to this Order.
+
+[^key-c74ce26f6f2931d0b8c4d06c1941b17b]: Commencement: Sch. para. 29 in force at 9.11.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/992/article/1/2)
+
+[^f00048]: Footnote: Article 2(2) was amended by [S.I. 2007/3224](https://www.legislation.gov.uk/uksi/2007/3224), Sch. and by [S.I. 2009/2748](https://www.legislation.gov.uk/uksi/2009/2748), Sch. Other amendments have been made to article 2 which are not relevant to this Order.
+
+[^key-1a2299279ccb3b795478b0f803078ea9]: Commencement: Sch. para. 30 in force at 9.11.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/992/article/1/2)
+
+[^f00049]: Footnote: Schedule 1 was amended by [S.I. 2007/3224](https://www.legislation.gov.uk/uksi/2007/3224), Sch. and by [S.I. 2009/2748](https://www.legislation.gov.uk/uksi/2009/2748), Sch. Other amendments have been made to Schedule 1 which are not relevant to this Order.
+
+[^key-a861a9ef5d6b44617815593166b83a13]: Commencement: Sch. para. 31 in force at 9.11.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/992/article/1/2)
+
+[^f00050]: Footnote: Paragraph 1 of the condition was amended by [S.I. 2007/3224](https://www.legislation.gov.uk/uksi/2007/3224), Sch. and by [S.I. 2009/229](https://www.legislation.gov.uk/uksi/2009/229), Sch. 2.
+
+[^key-6e6ee9d1941d7aa3355c5eef8cec423f]: Commencement: Sch. para. 32 in force at 9.11.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/992/article/1/2)
+
+[^f00051]: Footnote: Part 1 of the Schedule was amended by [S.I. 2007/3224](https://www.legislation.gov.uk/uksi/2007/3224), Sch. and by [S.I. 2009/2748](https://www.legislation.gov.uk/uksi/2009/2748), Sch. Other amendments have been made to the Schedule which are not relevant to this Order.
+
+[^key-f65d80c1ee6755b23460c8b336e02762]: Commencement: Sch. para. 33 in force at 9.11.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/992/article/1/2)
+
+[^f00052]: Footnote: Rule 186 was amended by [S.I. 2007/3224](https://www.legislation.gov.uk/uksi/2007/3224), Sch. and by [S.I. 2009/2748](https://www.legislation.gov.uk/uksi/2009/2748), Sch.
+
+[^key-0671f3419f9e196586d2504a0ce9e8bb]: Commencement: Sch. para. 34 in force at 9.11.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/992/article/1/2)
+
+[^f00053]: Footnote: The entry relating to “Teacher or language assistant” was amended by [S.I. 2007/3224](https://www.legislation.gov.uk/uksi/2007/3224), Sch., by [S.I. 2009/2748](https://www.legislation.gov.uk/uksi/2009/2748), Sch. and by [S.I. 2010/1836](https://www.legislation.gov.uk/uksi/2010/1836), Sch.
+
+[^key-317ed68f1d5786a0358b0b91a7463f50]: Commencement: Sch. para. 35 in force at 9.11.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/992/article/1/2)
+
+[^f00054]: Footnote: The provisions amended by this paragraph were amended by [S.I. 2009/229](https://www.legislation.gov.uk/uksi/2009/229), Sch. 2.
+
+[^key-68a6f028850d92cce4ce06106d8836c8]: Commencement: Sch. para. 36 in force at 9.11.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/992/article/1/2)
+
+[^f00055]: Footnote: The Schedule was amended by [S.I. 2007/3224](https://www.legislation.gov.uk/uksi/2007/3224), Sch. and by [S.I. 2009/2748](https://www.legislation.gov.uk/uksi/2009/2748), Sch.
+
+[^key-c9b7122a4419dd82e9c32f96ad6507ed]: Commencement: Sch. para. 37 in force at 9.11.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/992/article/1/2)
+
+[^f00056]: Footnote: Article 11(g) was amended by [S.I. 2009/2748](https://www.legislation.gov.uk/uksi/2009/2748), Sch.
+
+[^key-7ca3236a4cb5cb6238130213a55790c2]: Commencement: Sch. para. 38 in force at 9.11.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/992/article/1/2)
+
+[^f00057]: Footnote: The Schedule was amended by [S.I. 2016/912](https://www.legislation.gov.uk/uksi/2016/912), reg. 13. The definition of “the Minister” in clause 1(1) of the model clauses was amended by [S.I. 2009/229](https://www.legislation.gov.uk/uksi/2009/229), Sch. 2.
+
+[^key-f906477536b4dba50df42394828750e5]: Commencement: Sch. para. 39 in force at 9.11.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/992/article/1/2)
+
+[^f00058]: Footnote: Article 11(g) was amended by [S.I. 2009/2748](https://www.legislation.gov.uk/uksi/2009/2748), Sch.
+
+[^key-9eef31bd820fe91678a42e94f3bb15be]: Commencement: Sch. para. 40 in force at 9.11.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/992/article/1/2)
+
+[^f00059]: Footnote: Articles 33(5) and 44 were amended by [S.I. 2009/2748](https://www.legislation.gov.uk/uksi/2009/2748). Article 33A was inserted by [S.I. 2012/1910](https://www.legislation.gov.uk/uksi/2012/1910), Sch.
+
+[^key-dfd61ec72e3987fe5f9370d1e9f55ccc]: Commencement: Sch. para. 41 in force at 9.11.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/992/article/1/2)
+
+[^f00060]: Footnote: The Schedule was amended by [S.I. 2016/912](https://www.legislation.gov.uk/uksi/2016/912), reg. 14.
+
+[^key-593a3f44d79279253318a49afeaaf41f]: Commencement: Sch. para. 42 in force at 9.11.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/992/article/1/2)
+
+[^f00061]: Footnote: The Schedule was amended by [S.I. 2016/912](https://www.legislation.gov.uk/uksi/2016/912), reg. 15.
+
+[^key-0f2ced7f075e5429a31dd6acfde465d8]: Commencement: Sch. para. 43 in force at 9.11.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/992/article/1/2)
+
+[^key-4aef68916d193babecd282a879ac497a]: Commencement: Sch. para. 44 in force at 9.11.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/992/article/1/2)
+
+[^key-24fcce674744b7f4006eaf2dae005e86]: Commencement: Sch. para. 45 in force at 9.11.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/992/article/1/2)
+
+[^key-ba85f51729b07ec9f6cd9226c8f83e58]: Commencement: Sch. para. 46 in force at 9.11.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/992/article/1/2)
+
+[^key-95fcbe2017f9af2c1323c0f7a5d04391]: Commencement: Sch. para. 47 in force at 9.11.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/992/article/1/2)
+
+[^key-ae6239b3a6a125e9dae7206b063425f2]: Commencement: Sch. para. 48 in force at 9.11.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/992/article/1/2)
+
+[^key-dbd544f1d77f737c8cab6c336a3197cc]: Commencement: Sch. para. 49 in force at 9.11.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/992/article/1/2)
+
+[^key-963f8690b1f1138fa0b8951286707971]: Commencement: Sch. para. 50 in force at 9.11.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/992/article/1/2)
+
+[^key-1e32c31bae86d4e140905adb6ca3262d]: Commencement: Sch. para. 51 in force at 9.11.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/992/article/1/2)
+
+[^key-5895179f2f67564449c3c02e84ee12bc]: Commencement: Sch. para. 52 in force at 9.11.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/992/article/1/2)
+
+[^key-bee845163be0898ada989086e1d5cf0b]: Commencement: Sch. para. 53 in force at 9.11.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/992/article/1/2)
+
+[^key-f2ab2e56e1aeffe21b9678db833cf053]: Commencement: Sch. para. 54 in force at 9.11.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/992/article/1/2)

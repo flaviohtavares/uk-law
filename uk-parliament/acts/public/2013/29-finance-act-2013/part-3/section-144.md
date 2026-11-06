@@ -1,0 +1,53 @@
+---
+title: Finance Act 2013, section 144
+act: Finance Act 2013
+section: '144'
+status: revised-with-pending-changes
+text_date: '2026-04-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2013/29/section/144
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Finance Act 2013, section 144
+
+> **Warning: changes not yet applied to this text (2).** Text as at 2026-04-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2013/29
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 144. Section 143: supplementary
+
+*Extent: E+W+S+N.I.*
+
+(1) Subsection (2) applies if on a day in a chargeable period—
+
+- (a) a financial institution that carries on a business involving the lending of money is entitled to a single-dwelling interest that has been acquired by it as mentioned in section 143(1)(b), and
+- (b) a non-qualifying individual is permitted to occupy the dwelling.
+
+(2) No subsequent day is relievable in the case of the single-dwelling interest by virtue of section 143(1) if—
+
+- (a) the day falls within that chargeable period, or any of the subsequent 3 chargeable periods, and
+- (b) there is continuity of ownership on that day.
+
+(3) There is continuity of ownership on a day on which—
+
+- (a) the financial institution is entitled to the single-dwelling interest, or
+- (b) if the financial institution carried on the business mentioned in subsection (1)(a) in partnership, another member of the partnership is entitled to the interest.
+
+(4) Subsection (5) applies if—
+
+- (a) on a day in a chargeable period (“the day of non-qualifying occupation”) a person who is a non-qualifying individual in relation to a single-dwelling interest is occupying the dwelling in question, and
+- (b) on an earlier day in that, or the preceding, chargeable period (“the earlier day”) the conditions in section 143(1)(a) to (c) are met in relation to the same single-dwelling interest.
+
+(5) The earlier day is not relievable by virtue of section 143(1) in the case of the single-dwelling interest if—
+
+- (a) a person who is entitled to the interest on the earlier day is also entitled to it on the day of non-qualifying occupation, or
+- (b) if the business mentioned in section 143(1) is carried on in partnership, a person who has at any time carried that business on in partnership is entitled to the interest on the day of non-qualifying ownership.
+
+(6) Subsection (5) does not apply in relation to the earlier day if a day that is relievable by virtue of section 133(1)(a) falls between the earlier day and the day of non-qualifying occupation.
+
+(7) For the purposes of this section and section 143—
+
+- (a) “**non-qualifying individual**” has the meaning given by section 136(1);
+- (b) occupation of any part of a dwelling is regarded as occupation of the dwelling.

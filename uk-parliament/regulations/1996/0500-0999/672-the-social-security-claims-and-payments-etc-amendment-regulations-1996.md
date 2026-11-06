@@ -1,0 +1,120 @@
+---
+title: The Social Security (Claims and Payments Etc.) Amendment Regulations 1996
+id: uksi/1996/672
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '1996-03-07'
+text_date: '2006-04-10'
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1996/672
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1996/672/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Social Security (Claims and Payments Etc.) Amendment Regulations 1996
+
+> Text as at 2006-04-10.
+
+1996 No. 672
+
+SOCIAL SECURITY
+
+TERMS AND CONDITIONS OF EMPLOYMENT
+
+The Social Security (Claims and Payments Etc.) Amendment Regulations 1996
+
+Made
+
+7th March 1996
+
+Laid before Parliament
+
+14th March 1996
+
+Coming into force
+
+4th April 1996
+
+The Secretary of State for Social Security, in exercise of the powers conferred by sections 5(1)(i) and (p), and (5), 15A(2), 71(8), 81(1) and 189(1), (4), (5) and (6) of the Social Security Administration Act 1992[^c1773338], and of all other powers enabling him in that behalf, after agreement by the Social Security Advisory Committee that proposals to make these Regulations should not be referred to it[^c1773339], hereby makes the following Regulations:
+
+## 1. Citation and commencement
+
+These Regulations may be cited as the Social Security (Claims and Payments Etc.) Amendment Regulations 1996 and shall come into force on 4th April 1996.
+
+## 2. Amendment of the Social Security (Claims and Payments) Regulations 1987[^key-b14d11762407bbd9a52db19152d08e06]
+
+(1) The Social Security (Claims and Payments) Regulations 1987 [^c1773340] are amended in accordance with the following provisions of this regulation.
+
+(2)[^key-9654c9fb8631cd37c12499bbe673e801] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) In regulation 21—
+
+- (a) in paragraph (1) the words “to which this regulation applies"; and
+- (b) paragraph (6),
+
+shall be omitted.
+
+(4) For regulation 29 there is substituted the following regulation—
+
+> **29. Payments to persons under age 18**
+>
+> Where benefit is paid to a person under the age of 18 (whether on his own behalf or on behalf of another) the receipt of that person shall be a sufficient discharge to the Secretary of State.
+
+.
+
+(5)[^key-94b35b125b08bcdc17113eba3b10a97d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(6)[^key-94b35b125b08bcdc17113eba3b10a97d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(7)[^key-94b35b125b08bcdc17113eba3b10a97d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(8)[^key-94b35b125b08bcdc17113eba3b10a97d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 3. Amendment of the Statutory Sick Pay (General) Regulations 1982
+
+In regulation 9C of the Statutory Sick Pay (General) Regulations 1982 (payments by the Secretary of State) [^c1773342], after the words “instrument of payment" there are inserted the words “, instrument for benefit payment".
+
+## 4. Amendment of the Social Security (Payments on Account, Overpayments and Recovery) Regulations 1988[^key-0e80ba1f158b9f8dc346c6d2f1198987]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 5. Amendment of the Social Security (Recoupment) Regulations 1990[^key-0e80ba1f158b9f8dc346c6d2f1198987]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Signed by authority of the Secretary of State for Social Security.
+
+Oliver Heald
+
+Parliamentary Under-Secretary of State,
+
+Department of Social Security
+
+(This note is not part of the Regulations)
+
+These Regulations amend the Social Security (Claims and Payments) Regulations 1987, the Statutory Sick Pay (General) Regulations 1982, the Social Security (Payments on Account, Overpayments and Recovery) Regulations 1988 and the Social Security (Recoupment) Regulations 1990 to make further provision for the payment of benefit by means of a benefit payment card described as an instrument for benefit payment. In particular, provision is made for the circumstances in which agents and receivers etc. may use the benefit payment card to collect benefit on the beneficiary’s behalf (regulation 2(2)(a) and (c)) and in which they or the beneficiary may be required to accept payment by this means of all the benefits then due (regulation 2(2)(d)).
+
+These Regulations do not impose any costs on business.
+
+## Annotations
+
+[^c1773338]: Marginal citation: [1992 c.5](https://www.legislation.gov.uk/ukpga/1992/5).
+
+[^c1773339]: Marginal citation: *See* section 173(1) of the Social Security Administration Act 1992.
+
+[^key-b14d11762407bbd9a52db19152d08e06]: Modification: Reg. 2 modified (7.4.2003 for specified purposes) by [The Child Benefit and Guardian’s Allowance (Administration) Regulations 2003 (S.I. 2003/492)](https://www.legislation.gov.uk/uksi/2003/492), [regs. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1), [43](https://www.legislation.gov.uk/uksi/2003/492/regulation/43), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2003/492/schedule/3/part/1) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/2), [44](https://www.legislation.gov.uk/uksi/2003/492/regulation/44))
+
+[^c1773340]: Marginal citation: [S.I. 1987/1968](https://www.legislation.gov.uk/uksi/1987/1968). The relevant amending instruments are [S.I. 1989/1686](https://www.legislation.gov.uk/uksi/1989/1686), 1992/247 and 1026, 1993/1113, 1994/2319, 2943 and 3196.
+
+[^key-9654c9fb8631cd37c12499bbe673e801]: Textual amendment: Reg. 2(2) revoked (10.4.2006) by [The Social Security (Miscellaneous Amendments) (No. 2) Regulations 2006 (S.I. 2006/832)](https://www.legislation.gov.uk/uksi/2006/832), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/832/regulation/1/2), [7(b)](https://www.legislation.gov.uk/uksi/2006/832/regulation/7/b)
+
+[^key-94b35b125b08bcdc17113eba3b10a97d]: Textual amendment: Reg. 2(5)-(8) revoked (10.4.2006) by [The Social Security (Miscellaneous Amendments) (No. 2) Regulations 2006 (S.I. 2006/832)](https://www.legislation.gov.uk/uksi/2006/832), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/832/regulation/1/2), [7(b)](https://www.legislation.gov.uk/uksi/2006/832/regulation/7/b)
+
+[^c1773342]: Marginal citation: [S.I. 1982/894](https://www.legislation.gov.uk/uksi/1982/894). Regulation 9C was inserted by [S.I. 1987/372](https://www.legislation.gov.uk/uksi/1987/372), [regulation 2](https://www.legislation.gov.uk/uksi/1987/372/regulation/2).
+
+[^key-0e80ba1f158b9f8dc346c6d2f1198987]: Textual amendment: Reg. 4, 5 revoked (10.4.2006) by [The Social Security (Miscellaneous Amendments) (No. 2) Regulations 2006 (S.I. 2006/832)](https://www.legislation.gov.uk/uksi/2006/832), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/832/regulation/1/2), [7(b)](https://www.legislation.gov.uk/uksi/2006/832/regulation/7/b)

@@ -1,0 +1,103 @@
+---
+title: The Pneumoconiosis, Byssinosis and Miscellaneous Diseases Benefit (Amendment) Scheme 1983
+id: uksi/1983/504
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '1983-03-30'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1983/504
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1983/504/pdfs/uksi_19830504_en.pdf
+- http://www.legislation.gov.uk/uksi/1983/504/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Westlaw UK derived from Crown Copyright material and contributed to legislation.gov.uk
+summary: ''
+---
+
+# The Pneumoconiosis, Byssinosis and Miscellaneous Diseases Benefit (Amendment) Scheme 1983
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+1983 No. 504
+
+SOCIAL SECURITY
+
+The Pneumoconiosis, Byssinosis and Miscellaneous Diseases Benefit (Amendment) Scheme 1983
+
+Laid before Parliament in draft
+
+Made
+
+30th March 1983
+
+Coming into Operation
+
+6th April 1983
+
+Whereas a draft of the following scheme was laid before Parliament and approved by a resolution of each House of Parliament:
+
+Now, therefore, the Secretary of State for Social Services, with the consent of the Treasury, in exercise of his powers under section 5 of the Industrial Injuries and Diseases (Old Cases) Act 1975 and of all other powers enabling him in that behalf, hereby makes the following scheme:—
+
+## 1. Citation, interpretation and commencement
+
+This scheme, which may be cited as the Pneumoconiosis, Byssinosis and Miscellaneous Diseases Benefit (Amendment) Scheme 1983, shall be read as one with the Pneumoconiosis, Byssinosis and Miscellaneous Diseases Benefit Scheme 1983 (hereinafter referred to as “the principal scheme”) and shall come into operation on 6th April 1983.
+
+## 2. Amendment of article 4 of the principal scheme
+
+For paragraph (4) of article 4 of the principal scheme there is substituted the following paragraph—
+
+> (4) An increase of allowance under the provisions of article 5, 6, 7 or 8 shall not be payable for any period during which the person entitled to the allowance is absent from the United Kingdom except that—
+>
+> - (a) a person shall not be disqualified from receiving an increase of allowance under article 5 or 6 by reason of being temporarily absent from the United Kingdom during a period in which that person is entitled to receive an increase of allowance on account of unemployability under article 7;
+> - (b) a person shall not be disqualified from receiving an increase of allowance under article 8 by reason of being temporarily absent from the United Kingdom during the period of 6 months from the date on which such absence commences or during such longer period as the Secretary of State may, having regard to the purposes of the absence and any other factors which appear to him to be relevant, allow;
+> - (c) a person shall not be disqualified from receiving an increase of allowance under article 7 by reason of being temporarily absent from the United Kingdom.
+
+.
+
+## 3. Amendment of article 5 of the principal scheme
+
+(1) Article 5 of the principal scheme is amended in accordance with the provisions of this article.
+
+(2) In paragraph (2), for the words “paragraph 11 of Part V” there are substituted the words “paragraph 1(a) of Part IV”.
+
+(3) In paragraph (4), after the words “paragraph 12”, there are inserted the words “of Part V”, and for the words “paragraph 11” there are substituted the words “paragraph 1(a) of Part IV”.
+
+## 4. Amendment of article 6 of the principal scheme
+
+For paragraph (1) of article 6 of the principal scheme there is substituted the following paragraph—
+
+> (1) Subject to the provisions of paragraph (2), for any period during which a person is entitled to child benefit in respect of a child or children the weekly rate of the allowance payable to that person shall be increased by an amount equal to the increase (if any) which would be payable to him in respect of that child or those children—
+>
+> - (a) under section 41 of the Social Security Act if, in the case of a person entitled to an allowance in respect of total disablement but not to an increase of allowance under the provisions of article 7(1), he were under pensionable age and entitled to sickness benefit;
+> - (b) under section 64 of the Social Security Act if, in the case of a person entitled to an increase of allowance under the provisions of article 7(1), he were entitled to a disablement pension plus unemployability supplement.
+
+Signed by authority of the Secretary of State for Social Services.
+
+Hugh Rossi
+
+Minister of State
+
+Department of Health and Social Security
+
+30th March 1983
+
+We consent.
+
+P.L. Brooke
+
+Donald Thompson
+
+Two of the Lords Commissioners of Her Majesty's Treasury
+
+30th March 1983
+
+EXPLANATORY NOTE
+
+This Scheme amends the Pneumoconiosis, Byssinosis and Miscellaneous Diseases Benefit Scheme 1983 (which consolidated earlier schemes).
+
+Article 2 amends article 4 of the principal scheme to provide for changes in the periods for which a person in receipt of an increase of allowance under the provisions of article 5, 6, 7 or 8 of the principal regulations is not disqualified from receipt of benefit during a temporary absence from the United Kingdom.
+
+articles 3 and 4 are in consequence of section 39 of the Social Security and Housing Benefits Act 1982 (c. 24) under which injury benefit is abolished. Under the principal scheme certain persons were entitled to increases of allowances in respect of wives or children, the increases being expressed as equal to increases of injury benefit payable under the Social Security Act 1975 (c. 14). That scheme is amended by articles 3 and 4 of this scheme so that the increases are expressed as equal to increases of sickness benefit payable under that Act.

@@ -1,0 +1,550 @@
+---
+title: The Merchant Shipping and Fishing Vessels (Port Waste Reception Facilities) Regulations 2003
+id: uksi/2003/1809
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2003-07-14'
+text_date: '2025-10-16'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2003/1809
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2003/1809/pdfs/uksi_20031809_en.pdf
+- http://www.legislation.gov.uk/uksi/2003/1809/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Merchant Shipping and Fishing Vessels (Port Waste Reception Facilities) Regulations 2003
+
+> Text as at 2025-10-16.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2003 No. 1809
+
+MERCHANT SHIPPING
+
+The Merchant Shipping and Fishing Vessels (Port Waste Reception Facilities) Regulations 2003
+
+Made
+
+14th July 2003
+
+Coming into force
+
+15th July 2003
+
+Whereas the Secretary of State is a Minister designated for the purposes of section 2(2) of the European Communities Act 1972 [^c5062031] in relation to measures relating to the prevention, reduction and elimination of pollution of water and to maritime transport [^c5062041]:
+
+And whereas, in so far as the following Regulations are made in exercise of the powers conferred by section 130A of the Merchant Shipping Act 1995 [^c5062051], the Secretary of State has consulted the organisations referred to in section 306(4) of that Act,
+
+Now, therefore, the Secretary of State, in exercise of the powers conferred upon him by section 2(2) of the European Communities Act 1972 and sections 130A(1) and (2), 130B(1), (2) and (5) to (7), 130C(2) and (7) and 130D(1) and (2) of the Merchant Shipping Act 1995 and of all other powers enabling him in that behalf, hereby makes the following Regulations:[^key-c7b5ceee38c379e2dd23f9aa1841517d]
+
+## 1. Citation, commencement and revocation
+
+(1) These Regulations may be cited as the Merchant Shipping and Fishing Vessels (Port Waste Reception Facilities) Regulations 2003 and shall come into force on the day after the day on which they are made.
+
+(2) The Merchant Shipping (Port Waste Reception Facilities) Regulations 1997 [^c5062061] are revoked.
+
+## 2. Interpretation, etc.
+
+(1) In these Regulations—
+
+- “**the Act**” means the Merchant Shipping Act 1995;
+- “**cargo residues**” means the remnants of any cargo material on board in cargo holds or tanks which remain after unloading procedures and cleaning operations are completed and includes excesses and spillage from loading or unloading;
+- “**Category A, B, C or D substance**” means any substance listed and identified as falling into Category A, B, C or D in column “c” in Chapter 17 and Chapter 18 of the IBC Code; and any substance which is provisionally assessed as a Category A, B, C or D substance; and a reference to any such substance shall include a reference to any mixture containing such substance;
+- “**the Convention**” means the International Convention for the Prevention of Pollution from Ships 1973 [^c5062071] as revised from time to time;
+- “**crude oil**” means any liquid hydrocarbon mixture occurring naturally in the earth, whether or not treated to render it suitable for transportation, and includes—
+  - (a) crude oil from which certain distillate fractions may have been removed; and
+  - (b) crude oil to which certain distillate fractions may have been added;
+- “the Directive” means[^key-fcc948b2aeefcf713e1ac60c853a2cee] [Directive 2000/59/EC](https://www.legislation.gov.uk/eudr/2000/0059) of the European Parliament and Council on port reception facilities for ship-generated waste and cargo residues as amended;
+- “**fishing vessel**” means any ship equipped or used commercially for catching fish or other living resources of the sea;
+- “**fuel oil**” means any oil used as fuel in connection with the propulsion and auxiliary machinery of the ship in which such oil is carried;
+- “**IBC Code**” means the 1998 Edition of the International Code for the Construction and Equipment of Ships Carrying Dangerous Chemicals in Bulk published by the International Maritime Organization;
+- “**Maritime and Coastguard Agency**” means the Maritime and Coastguard Agency, an executive agency of the Department for Transport;
+- “master”, in the application of these Regulations to hovercraft, includes the captain of a hovercraft;
+- “**Merchant Shipping Notice**” means a Notice described as such and issued by the Maritime and Coastguard Agency; and any reference to a particular Merchant Shipping Notice includes a reference to any document amending or replacing that Notice which is considered by the Secretary of State to be relevant from time to time;
+- “**noxious liquid substance**” means either a substance listed as such in MEPC Circular 2/CIRC.1 or a Category A, B, C or D substance, but does not include cargo residues; and for this purpose “**MEPC Circular**” means a circular of that description issued by the Marine Environment Protection Committee of the International Maritime Organization;
+- “**oil**” means petroleum in any form including crude oil, fuel oil, sludge, oil refuse and refined products, other than oil-like substances which are subject to the Merchant Shipping (Prevention of Pollution from Noxious Liquid Substances in Bulk) Regulations 2018[^key-d2d0f37af8d05c68c1de7d6a479584c0];
+- “**oily mixture**” means a mixture with any oil content;
+- “**operational waste**” means all cargo-associated waste and maintenance waste; and for this purpose “**cargo-associated waste**” means all materials which have become wastes as a result of use on board a ship for cargo stowage and handling and includes dunnage, shoring, pallets, lining and packing materials, plywood, paper, cardboard, wire and steel strapping;
+- “**owner**” means the owner, charterer, manager or operator of a ship;
+- “**passenger**” means any person carried in a ship except—
+  - (a) a person employed or engaged in any capacity on board the ship on the business of the ship,
+  - (b) a person on board the ship either in pursuance of the obligation laid upon the master to carry shipwrecked, distressed or other persons, or by reason of any circumstances that neither the master nor the company could have prevented, and
+  - (c) a child under one year of age;
+- “**prescribed wastes**” means any waste of the following descriptions—
+  - (a) cargo residues;
+  - (b) noxious liquid substances; and
+  - (c) ship-generated waste;
+- “**recreational craft**” means a ship of any type, regardless of the means of propulsion, which is intended for sports or leisure purposes;
+- “**relevant inspector**” means a person mentioned in paragraphs (a), (b) or (c) of section 258(1) of the Act;
+- “sewage” means—[^key-8c7df8fdea233c5048b2468343814aed]
+  - (a) drainage and other wastes from any form of toilets and urinals,
+  - (b) drainage from medical premises (including, for example, a dispensary or sick bay) via wash basins, wash tubs and scuppers located in such premises,
+  - (c) drainage from spaces containing living animals, or
+  - (d) other waste waters when mixed with any drainage referred to in paragraph (a), (b) or (c);
+- “**ship**” means a sea-going vessel of any type whatsoever (including hydrofoils, hovercraft, submersibles and floating craft) operating in the marine environment beyond the limits of waters of categories A and B as categorised in Merchant Shipping Notice No. MSN 1776(M); and
+- “**ship-generated waste**” means all waste and residues which are generated during the service of a ship and which fall within the definitions of garbage, sewage,[^key-c607ee682ce72b9787de0a6e2ab9de9d] oil and oily mixtures, but does not include cargo residues; and for this purpose “**garbage**” means all kinds of victual, domestic and operational waste excluding fresh fish and parts thereof, generated during the normal operation of the ship and liable to be disposed of continuously or periodically, except sewage [^key-1189aab77a37df864b12a7483af61ebb]....
+
+(2) For the purposes of these Regulations the “competent authority” shall be—
+
+- (a) in relation to the United Kingdom, the Maritime and Coastguard Agency;
+- (b) in relation to an[^key-767a19dd71d670428dfd1e6a16799db9] EEA[^key-7f7cf0809623698b0d5a83cd831277b4] State, the national maritime administration maintained by that State for the inspection of ships; and
+- (c) in relation to a state other than a an[^key-beff0928516f71f83c9416184bd1ccf2] EEA State, any authority designated as such by that State.
+
+(3) Words and expressions used in these Regulations which are defined in the Act shall bear those meanings throughout these Regulations.
+
+(4) Any direction given under these Regulations shall be in writing.
+
+(5)[^key-e4219326fcf52eea4d87bd16a6f2a945] Any power under these Regulations to give a direction includes power to vary or revoke the direction by a subsequent direction.
+
+## 3. Application
+
+(1) These Regulations apply to any harbour or terminal within a harbour in the United Kingdom.
+
+(2) Subject to paragraphs (3) and (4) these Regulations apply to all ships calling at or operating within a harbour or terminal to which these Regulations apply.
+
+(3) These Regulations do not apply to any warship, naval auxiliary or other ship owned or operated by a State and used, for the time being, only on government non-commercial service.
+
+(4) Regulations 11 and 13 do not apply to a ship which is—
+
+- (a) a fishing vessel, or
+- (b) a recreational craft authorised to carry, or designed to carry, no more than 12 passengers.
+
+## 4. Requirement to provide adequate waste reception facilities
+
+(1) Every harbour authority and terminal operator shall provide waste reception facilities adequate to meet the needs of ships normally using the harbour or terminal in question without causing undue delay to ships.
+
+(2) In paragraph (1) “**adequate**” means capable of receiving the types and quantities of prescribed wastes from ships normally using that harbour or terminal taking into account the operational needs of the users of the harbour or terminal, its size and geographical location, the types of ships calling there and any exemptions provided for under regulation 15.
+
+(3) A harbour authority or terminal operator may, in discharging their duty under paragraph (1), join with any other person in providing the waste reception facilities, and references in these Regulations to the provision of such facilities by a harbour authority or terminal operator shall be construed accordingly; and any such power shall also include power to arrange for the provision of such reception facilities by any other person.
+
+(4) This regulation is subject to regulation 15(1).
+
+## 5. Direction to provide adequate waste reception facilities
+
+Where in respect of any harbour or terminal it appears to the Secretary of State, after consultation with the relevant harbour authority or terminal operator, that—
+
+- (a) the harbour or terminal has no waste reception facilities; or
+- (b) if the harbour or terminal has such facilities, those facilities are not adequate within the meaning in regulation 4,
+
+the Secretary of State may direct the harbour authority or terminal operator to provide, or arrange for the provision of, such waste reception facilities as may be specified in the direction.
+
+## 6. Requirements regarding waste management plans
+
+(1) Subject to paragraph (3), every harbour authority shall prepare a waste management plan with respect to the provision and use of waste reception facilities in the harbour and the use of those facilities by ships using the harbour and shall submit the plan to the Secretary of State for approval.
+
+(2) The Secretary of State may direct that a terminal operator shall prepare a waste management plan with respect to the provision and use of waste reception facilities for any terminal operated by the terminal operator within a harbour and specified in the direction and submit it to the Secretary of State for approval.
+
+(3) Where the Secretary of State gives a direction under paragraph (2), in preparing a waste management plan under paragraph (1) the harbour authority for the harbour in which the terminal in question is situated shall not be required to deal with the provision and use of waste reception facilities for that terminal in the waste management plan which it prepares.
+
+(4) In preparing a waste management plan the harbour authority or terminal operator shall consult—
+
+- (a) persons appearing to the harbour authority or terminal operator to represent the interests of—
+  - (i) persons using the harbour or terminal,
+  - (ii) persons using the waste reception facilities at the harbour or terminal; and
+- (b) such other persons (if any) as the harbour authority or terminal operator thinks fit.
+
+(5) A plan prepared under this regulation shall comply with the requirements in Schedule 1 to these Regulations.
+
+(6) A harbour authority may, in discharging their duty under paragraph (1) and where required for reasons of efficiency, join with one or more other harbour authorities to prepare a waste management plan with respect to the provision and use of waste reception facilities at the harbours in question.
+
+(7) Where a plan is prepared under paragraph (6) the need for, and availability of, waste reception facilities shall be specified for each individual harbour.
+
+(8) This regulation is subject to regulation 15(2).
+
+## 7. Requirements regarding waste management plans: time for submission of first and subsequent plans
+
+(1) Subject to paragraph (2), a harbour authority or terminal operator shall submit its first waste management plan to the Secretary of State for approval in accordance with regulation 6(1) or (2), as the case may be—
+
+- (a) within three years of the date on which the Secretary of State approved a waste management plan for the harbour or terminal in question under regulation 10(2)(b) of the Merchant Shipping (Port Waste Reception Facilities) Regulations 1997; or
+- (b) within three years of the date on which the Secretary of State prepared such a plan for the harbour or terminal in question pursuant to regulation 11 of those Regulations.
+
+(2) A harbour authority for a new harbour, or a terminal operator for a new terminal to which a direction under regulation 6(2) applies, shall submit a waste management plan to the Secretary of State for approval in accordance with regulation 6(1) or (2), as the case may be, within nine months of the date on which the new harbour or terminal was opened; and for this purpose “**new**”, in relation to a harbour or terminal, means a facility which commences operations after the coming into force of these Regulations.
+
+(3) A harbour authority or terminal operator shall submit subsequent waste management plans to the Secretary of State for approval in accordance with regulation 6(1)—
+
+- (a) within nine months of any significant change to the operation of the harbour or terminal since the most recent plan was approved by the Secretary of State pursuant to regulation 8(1) or prepared by him pursuant to regulation 9; or
+- (b) no later than three years after the most recent plan was approved by the Secretary of State pursuant to regulation 8(1) or prepared by him pursuant to regulation 9,
+
+whichever is the sooner.
+
+## 8. Approval and implementation of waste management plans
+
+(1) The Secretary of State may either—
+
+- (a) reject a plan submitted in accordance with regulation 6; or
+- (b) approve the plan with or without modifications.
+
+(2) A plan which has been approved by the Secretary of State pursuant to paragraph (1) or prepared by the Secretary of State pursuant to regulation 9 shall be implemented by the harbour authority or the terminal operator for the harbour or terminal to which the plan relates.
+
+## 9. Power of the Secretary of State to prepare a waste management plan
+
+If the Secretary of State is satisfied that a person who is required to prepare a waste management plan is not taking any steps necessary in connection with the preparation of the plan the Secretary of State may prepare such a plan.
+
+## 10. Direction to implement a waste management plan
+
+The Secretary of State may direct any harbour authority or terminal operator to take such steps as are specified for the purposes of securing the implementation of a waste management plan in respect of the harbour or terminal in question which has been approved by him pursuant to regulation 8(1) or prepared by him pursuant to regulation 9.
+
+## 11. Notification
+
+(1) The master of a ship bound for a harbour or terminal shall complete a notice in the form set out in Schedule 2 to these Regulations.
+
+(2) Subject to paragraph (3), the information in the notice referred to in paragraph (1) shall be notified by the master to the harbour authority for the harbour or terminal in question—
+
+- (a) where it is known at which harbour or terminal the ship will be calling, at least 24 hours before the arrival of the ship;
+- (b) if the harbour or terminal at which the ship will be calling is not known until less than 24 hours before the arrival of the ship at that harbour or terminal, as soon as possible after the harbour or terminal is known; or
+- (c) where the duration of the voyage is less than 24 hours, at the latest upon departure from the previous port.
+
+(3) Where a waste management plan approved by the Secretary of State pursuant to regulation 8(1) or prepared by him pursuant to regulation 9 specifies that in relation to a specified terminal the information in the notice referred to in paragraph (1) is to be notified to the terminal operator rather than the harbour authority, that information shall be notified by the master to the terminal operator for the terminal in question—
+
+- (a) where it is known that the ship will be calling at the terminal, at least 24 hours before the arrival of the ship;
+- (b) if it is not known that the ship will be calling at the terminal until less than 24 hours before the arrival of the ship, as soon as possible after it is known the ship will be calling at the terminal; or
+- (c) where the duration of the voyage is less than 24 hours, at the latest upon departure from the previous port.
+
+(4) A copy of the notice referred to in paragraph (1) shall be retained on board the ship until at least the next port of call is reached.
+
+(5) The master of a ship bound for a harbour or terminal in the United Kingdom shall—
+
+- (a) if the previous port of call of the ship was a port in an[^key-f6c04a115bd750b414c8dfbd949f4c46] EEA State, and
+- (b) the Maritime and Coastguard Agency request it,
+
+produce to the Agency, immediately on request, a copy of the notice retained in accordance with paragraph (4).
+
+(6)[^key-b29343d59b5245c82b00839b5ed26e3e] Where the previous port of call of a United Kingdom ship was a port in an EEA State, the master of that ship calling at a port of another EEA State shall, immediately on request by the competent authority of the latter State, produce to that authority a copy of the notice retained in accordance with paragraph (4).
+
+## 12. Delivery of ship-generated waste
+
+(1) Subject to paragraph (2), the master of a ship calling at a harbour or terminal shall ensure that before the ship leaves the harbour or terminal all ship-generated waste is delivered to a waste reception facility.
+
+(2)[^key-04c5e1900a86d6b3d31767f83577586e] A ship may proceed to the next port of call without delivering ship-generated waste if—
+
+- (a) the ship-generated waste in question is sewage, and the master of the ship is not required under regulation 11 to notify information about that waste, or
+- (b) subject to paragraph (3), it follows from the information notified under regulation 11(2) or (3) that there is sufficient dedicated storage capacity on board the ship to hold all the ship-generated waste that has been accumulated and all the ship-generated waste that will be accumulated during the intended voyage of the ship to the port of delivery.
+
+(3) Where—
+
+- (a) the Secretary of State is not satisfied that there is sufficient dedicated storage capacity for all ship-generated waste that has been accumulated and which will accumulate during the intended voyage of a ship to the port of delivery,
+- (b) there are good reasons to believe that adequate facilities are not available at the intended port of delivery, or
+- (c) the intended port of delivery is not known to the Secretary of State,
+
+he may give a direction to the master or owner of the ship requiring the ship-generated waste to be delivered before the ship leaves the harbour or terminal.
+
+## 13. Charges for ship-generated waste
+
+(1) Subject to paragraph (2), a harbour authority shall make charges (“waste charges”) in respect of ships to which this regulation applies.
+
+(2) Where a waste management plan approved by the Secretary of State pursuant to regulation 8(1) or prepared by him pursuant to regulation 9 specifies that in relation to a specified terminal the charges under this regulation are to be made by the terminal operator rather than the harbour authority, the terminal operator shall make charges for ships to which this regulation applies.
+
+(3) A harbour authority or terminal operator (as the case may be) shall arrange for the amount of the charges made by it, and the basis on which they have been calculated, to be published in such manner as will bring them to the notice of persons likely to be affected.
+
+(4) Any ship using a harbour or terminal shall pay the charges made under paragraph (1) or (2) to the harbour authority or terminal operator, as the case may be.
+
+## 14. Charges for ship-generated waste: further provisions
+
+(1) Waste charges shall be made at such level as will—
+
+- (a) ensure that each ship to which regulation 13 applies makes a significant contribution to the costs of waste reception facilities for ship-generated waste in the harbour or terminal, as the case may be (including the costs of the treatment and disposal of waste), irrespective of actual use of the facilities; and
+- (b) provide no incentive for ships to discharge ship-generated waste into the sea.
+
+(2) In making waste charges for ships a harbour authority or terminal operator may take into account the category, type and size of the ship.
+
+(3) A harbour authority or terminal operator may make lower waste charges for any ship the environmental management, design, equipment and operation of which are such that the master can demonstrate the ship produces reduced quantities of ship-generated waste.
+
+(4) In making waste charges under regulation 13(1) a harbour authority may make the charges in a combined charge under section 27A of the Harbours Act 1964 [^c5062101] or as a separate charge.
+
+(5) Subsections (2) to (12) of section 31 of the Harbours Act 1964, or in Northern Ireland subsections (1) and (3) to (11) of section 7 of the Harbours Act (Northern Ireland) 1970 (right of objection to ship, passenger and goods dues) shall apply as respects charges made by a harbour authority by virtue of regulation 13(1) as they apply as respects charges to which section 31 or, as the case may be, section 7 applies but—
+
+- (a) with the substitution for the references to the persons mentioned in section 31(2)(a) and (b) and (3)(b) or, as the case may be, section 7(1)(a) and (b) and (3)(b) of references to—
+  - (i) the owners of ships which customarily navigate in the harbour in question;
+  - (ii) any persons who carry on harbour operations within that harbour; and
+  - (iii) any other harbour authority to whose harbour ships obtain access through that harbour,
+
+  or, in any of those cases, persons representative of them; and
+- (b) with the omission of section 31(2)(iii) or, as the case may be, section 7(1)(iii).
+
+(6) Subsections (2) to (12) of section 31 of the Harbours Act 1964, or in Northern Ireland subsections (1) and (3) to (11) of section 7 of the Harbours Act (Northern Ireland) 1970 (right of objection to ship, passenger and goods dues) shall apply as respects charges made by a terminal operator by virtue of regulation 13(2) as they apply as respects charges made by a harbour authority to which section 31 or, as the case may be, section 7 applies but—
+
+- (a) with the substitution for the words “by a harbour authority at a harbour which, in the exercise of and performance of statutory powers and duties, they are engaged in improving, maintaining or managing” in section 31(2) of the words “ by a terminal operator at a terminal which they operate ”;
+- (b) with the substitution for the references to the persons mentioned in section 31(2)(a) and (b) and (3)(b) or, as the case may be, section 7(1)(a) and (b) and (3)(b) of references to any persons who customarily use the terminal in question; and
+- (c) with the omission of section 31(2)(iii) and the words “passengers or goods” in section 31(2)(iv) or, as the case may be, section 7(1)(iii) and the words “passengers or goods” in section 7(1)(iv).
+
+## 15. Exemptions
+
+(1) The Secretary of State may grant an exemption from regulation 4 in respect of any harbour authority or terminal operator to the extent that that regulation requires the harbour authority or terminal operator to provide waste reception facilities for noxious liquid substances.
+
+(2) The Secretary of State may grant an exemption from regulation 6 in respect of any harbour authority or terminal operator to the extent that that regulation requires the harbour authority or terminal operator to prepare a waste management plan with respect to the provision of waste reception facilities for noxious liquid substances.
+
+(3) The Secretary of State may grant an exemption from regulations 11, 12 and 13 in respect of any ship where—
+
+- (a) the ship is engaged in scheduled traffic with frequent and regular port calls; and
+- (b) there is sufficient evidence of an arrangement ensuring the delivery of ship-generated waste and payment of charges in a port along the ship’s route.
+
+(4) Any exemption granted under this regulation shall be given in writing.
+
+(5) The Secretary of State may, on giving reasonable notice, alter or cancel any exemption granted under this regulation.
+
+## 16. Delivery of cargo residues
+
+(1) The master of a ship calling at a harbour or terminal shall ensure that cargo residues are delivered to a waste reception facility in accordance with the Convention.
+
+(2) Any charges made for such delivery shall be payable by the user of the facility.
+
+## 17. Non-compliance or suspected non-compliance
+
+(1) Where—
+
+- (a) the master of a ship has not complied with the requirement in regulation 11(2) or (3) to notify a harbour authority or terminal operator, as the case may be; or
+- (b) a harbour authority or terminal operator has clear evidence that a ship has proceeded to sea without the master having complied with regulation 12(1) or 16(1), as the case may be,
+
+the harbour authority or terminal operator shall immediately inform the Maritime and Coastguard Agency.
+
+(2) Where there is clear evidence that a ship has proceeded to sea without having complied with regulation 12(1) or 16(1) the Secretary of State shall, if the next port of call of the ship is a port of an[^key-a254601930ced657c580c19c3f948d20] EEA[^key-1db96b08219a16d2a73cc7f6e3fbfdac] State, inform the competent authority of the State in which the port is situated about the ship and the evidence.
+
+(3) Where the Maritime and Coastguard Agency has been informed by another competent authority of a ship in respect of which there is clear evidence of the type mentioned in paragraph (1) the Agency shall inspect the ship at the earliest opportunity.
+
+## 18. Offences and penalties
+
+(1) Any harbour authority or terminal operator which fails to comply with—
+
+- (a) any requirement of regulation 4 in relation to the provision of waste reception facilities;
+- (b) any requirement of regulation 6 or 7 to prepare a waste management plan or to submit such a plan to the Secretary of State for approval; or
+- (c) any direction given under regulation 5 or 10 in relation to the provision of waste reception facilities or the implementation of a waste management plan,
+
+shall be guilty of an offence and liable on summary conviction to a fine not exceeding the statutory maximum and on conviction on indictment to a fine.
+
+(2) Any master who fails to comply with—
+
+- (a) any requirement of regulation 11(2), (3), (5) or (6);
+- (b) the requirement under regulation 12(1);
+- (c) any direction given under regulation 12(3); or
+- (d) the requirement under regulation 16(1),
+
+shall be guilty of an offence and liable on summary conviction to a fine not exceeding the statutory maximum and on conviction on indictment to a fine.
+
+(3) Where the master of a ship, in complying with regulation 11(2) or (3), notifies information which is false in a material particular, the owner of that ship and the master shall each be guilty of an offence and liable on summary conviction to a fine not exceeding the statutory maximum and on conviction on indictment to a fine.
+
+(4) Where there is a contravention of—
+
+- (a) any requirement of regulation 11(2), (3), (5) or (6);
+- (b) the requirement under regulation 12(1);
+- (c) any direction given under regulation 12(3); or
+- (d) the requirement under regulation 16(1),
+
+in respect of a ship the owner of that ship shall be guilty of an offence and liable on summary conviction to a fine not exceeding the statutory maximum and on conviction on indictment to a fine.
+
+(5) In any proceedings for an offence under these Regulations it shall be a defence for the defendant to show that all reasonable steps had been taken by him to avoid committing the offence.
+
+## 19. Offences by body corporate
+
+(1) Where a body corporate is guilty of an offence under these Regulations and that offence is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, any director, manager, secretary or other similar officer of the body corporate or a person who was purporting to act in any such capacity, he as well as the body corporate shall be guilty of that offence and shall be liable to be proceeded against and punished accordingly.
+
+(2) Where the affairs of a body corporate are managed by its members, paragraph (1) shall apply in relation to the acts and defaults of a member in connection with his functions of management as if he were a director of the body corporate.
+
+(3) Where an offence under these Regulations committed by a Scottish partnership is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, a partner, he as well as the partnership shall be guilty of that offence and shall be liable to be proceeded against and punished accordingly.
+
+## 20. Inspection and detention of a United Kingdom ship
+
+(1) A relevant inspector may inspect any United Kingdom ship.
+
+(2) If the inspector is satisfied that ship-generated waste or cargo residues have not been delivered in accordance with regulation 12(1) or 16(1), he may detain the ship until such waste or residues have been delivered in accordance with those regulations.
+
+(3) If there is clear evidence that the ship has proceeded to sea without having complied with article 7 or 10 of the Directive the inspector shall detain the ship until a more detailed assessment of factors relating to the ship’s compliance with these Regulations (such as the accuracy of any information provided in accordance with regulation 11), has taken place.
+
+(3A)[^key-3bc2f2b3afcaeda78a3d7e593b475eb5] For the purposes of regulation 20(3), articles 7 and 10 of the Directive are to be read as if a reference to a ‘Community port’ includes a port within the United Kingdom.
+
+(4) The relevant inspector shall not in the exercise of his power under this regulation detain or delay the ship unreasonably.
+
+## 21. Inspection and detention of ships other than United Kingdom ships
+
+(1) A relevant inspector may inspect any ship which is not a United Kingdom ship when the ship is in a United Kingdom port and, if he is satisfied that ship-generated waste or cargo residues have not been delivered in accordance with regulation 12(1) or 16(1) he may—
+
+- (a) send a report to the government of the country in which the ship is registered; and
+- (b) detain the ship until such waste or residues have been delivered in accordance with those regulations,
+
+when the ship has called at a United Kingdom port in the normal course of business or for operational reasons.
+
+(2) If there is clear evidence that the ship has proceeded to sea without having complied with article 7 or 10 of the Directive the inspector shall detain the ship until a more detailed assessment of factors relating to the ship’s compliance with these Regulations (such as the accuracy of any information provided in accordance with regulation 11), has taken place.
+
+(2A)[^key-7b8d9a4c68c2f61e778686f724f15bcd] For the purposes of regulation 21(2), articles 7 and 10 of the Directive are to be read as if a reference to a ‘Community port’ includes a port within the United Kingdom.
+
+(3) If the ship is detained the relevant inspector shall forthwith notify the nearest maritime, consular or diplomatic representative of the State whose flag the ship is entitled to fly.
+
+(4) The relevant inspector shall not in the exercise of his power under this regulation detain or delay the ship unreasonably.
+
+## 22. Enforcement of detention
+
+Where a ship is liable to be detained under these Regulations, section 284 of the Act [^c5062111] (which relates to the detention of a ship) shall apply as if for the words “this Act”, wherever they appear, there were substituted “ the Merchant Shipping and Fishing Vessels (Port Waste Reception Facilities) Regulations 2003 ”.
+
+## 23. Arbitration and compensation
+
+(1) Sections 96 and 97 of the Act (arbitration and compensation) shall apply in relation to a detention notice under section 284 of the Act (as applied by regulation 22) as they apply to a detention notice under section 95(3) of the Act subject to the modifications in paragraph (2).
+
+(2) The modifications referred to in paragraph (1) are—
+
+- (a) references to “**relevant inspector**” means a person making an inspection under these Regulations;
+- (b) section 96 shall apply as if the following words were omitted—
+  - (i) in subsection (1) “in pursuance of section 95(3)(b)”;
+  - (ii) in subsection (3), “to whether the ship was or was not a dangerously unsafe ship”; and
+  - (iii) in subsection (5), “as a dangerously unsafe ship”.
+
+## 24. Review[^key-a585583557b5a5d7f8701fcc24989ac0]
+
+(1) The Secretary of State must from time to time—
+
+- (a) carry out a review of the operation and effect of regulation 11(1) and Schedule 2;
+- (b) set out the conclusions of the review in a report; and
+- (c) publish the report.
+
+(2) In carrying out the review the Secretary of State must, so far as is reasonable, have regard to how Commission Directive (EU) 2015/2087 (which is implemented by means of regulation 11(1) and Schedule 2) is implemented in other Member States.
+
+(3) The report must in particular—
+
+- (a) set out the objectives intended to be achieved by the regulatory system established by regulation 11(1) and Schedule 2;
+- (b) assess the extent to which those objectives are achieved; and
+- (c) assess whether those objectives remain appropriate and, if so, the extent to which they could be achieved with a system that imposes less regulation.
+
+(4) The first report under this regulation must be published before the end of the period of five years beginning with the day on which this regulation comes into force.
+
+(5) Reports under this regulation are afterwards to be published at intervals not exceeding five years.
+
+Signed by authority of the Secretary of State for Transport
+
+David Jamieson
+
+Parliamentary Under Secretary of State,
+
+Department for Transport
+
+## SCHEDULE 1 — REQUIREMENTS FOR WASTE MANAGEMENT PLANS
+
+Regulation 6(5)
+
+**1.** Waste management plans shall cover all types of prescribed wastes originating from ships normally visiting the harbour or terminal and shall be developed according to the size of the harbour or terminal and the types of ship calling at that harbour or terminal.
+
+**2.** A waste management plan shall address the following elements—
+
+- (a) an assessment of the need for waste reception facilities, in the light of the need of the ships normally visiting the harbour or terminal;
+- (b) a description of the type and capacity of waste reception facilities;
+- (c) a detailed description of the procedures for the reception and collection of prescribed wastes;
+- (d) a description of the charging system;
+- (e) procedures for reporting alleged inadequacies of waste reception facilities;
+- (f) procedures for on-going consultations with persons using the harbour or terminal, waste contractors and other interested parties; and
+- (g) the type and quantities of prescribed wastes received and handled.
+
+**3.** A waste management plan shall also include—
+
+- (a) a summary of relevant legislation and formalities for delivery;
+- (b) identification of a person or persons to be responsible for the implementation of the waste management plan;
+- (c) a description of the pre-treatment equipment and processes in the harbour or terminal, if any;
+- (d) a description of methods of recording actual use of the waste reception facilities;
+- (e) a description of methods of recording amounts of prescribed wastes received;
+- (f) a description of how the prescribed wastes are disposed of.
+
+**4.** The procedures for reception, collection, storage, treatment and disposal should conform in all respects to an environmental management scheme suitable for the progressive reduction of the environmental impact of these activities. Such conformity shall be presumed if the procedures are in compliance with Regulation [(EC) No. 761/2001](https://www.legislation.gov.uk/european/regulation/2001/0761) of the European Parliament and of the Council of 19 March 2001 allowing voluntary participation by organisations in a Community eco-management and audit scheme (EMAS) [^c5062121].
+
+**5.** The waste management plan shall provide for the following information to be made available to persons using the harbour or terminal—
+
+- (a) brief reference to fundamental importance of proper delivery of prescribed wastes;
+- (b) location of waste reception facilities applicable to each berth, with a diagram or map;
+- (c) list of prescribed wastes normally dealt with;
+- (d) list of contact points, the operators and the services offered;
+- (e) description of procedures for delivery;
+- (f) description of charging system; and
+- (g) procedures for reporting alleged inadequacies of waste reception facilities.
+
+## SCHEDULE 2 — INFORMATION TO BE NOTIFIED
+
+Regulation 11(1)
+
+ [^key-baeffcfc42d6e964bd3cccc030126628]
+
+ 
+
+*(This note is not part of the Regulations)*
+
+These Regulations revoke and replace with amendments the Merchant Shipping (Port Waste Reception Facilities) Regulations 1997, and give effect to Directive [2000/59/EC](https://www.legislation.gov.uk/european/directive/2000/0059) of the European Parliament and of the Council (O.J. L 332, 28.12.2000, p.81), as amended by Directive [2002/84/EC](https://www.legislation.gov.uk/european/directive/2002/0084) of the European Parliament and of the Council (O.J. L 324, 29.11.2002, p.53). In addition to minor amendments, the significant differences are in the inclusion of (i) a duty to deliver waste to reception facilities in the harbour or terminal, (ii) a requirement to notify the harbour or terminal in advance of a ship’s arrival, and (iii) a duty for harbour authorities and terminal operators to impose charges to cover the costs of waste reception facilities for ship-generated waste.
+
+The Regulations are made under sections 130A to 130D of the Merchant Shipping Act 1995, except in so far as they relate to the requirement to provide information to a harbour or terminal in advance of a ship’s arrival, the requirement on harbour authorities and terminal operators to charge for reception facilities and the application of the Regulations to hovercraft, where the power is provided by section 2(2) of the European Communities Act 1972.
+
+Regulation 4 requires all harbour authorities and terminal operators to provide waste reception facilities which are adequate to deal with waste of types covered by the Regulations from ships normally using the harbour or terminal.
+
+Regulations 5 to 8 are concerned with waste management plans for harbours and terminals; such plans are to be prepared and submitted to the Secretary of State for his approval. A harbour authority (or terminal operator, where the operator has prepared the plan) is required to implement an approved plan.
+
+There are direction-making and default powers for the Secretary of State in regulations 5, 9 and 10.
+
+Regulation 11 contains a requirement for the master of a ship bound for a harbour (or terminal, where the waste management plan so provides) to provide the harbour authority or terminal operator (as the case may be) with information concerning waste, including the quantities of waste to be delivered and the waste-storage capacity of the ship.
+
+Regulations 12 and 16 require ship-generated waste and cargo residues, respectively, to be delivered to a waste reception facility; regulations 13 and 14 are concerned with charges to be imposed for the delivery of waste.
+
+Regulation 15 contains powers for the Secretary of State to grant exemptions from some provisions of the Regulations.
+
+There are provisions for inspection and detention, and the penalties to apply in cases of non-compliance.
+
+A Regulatory Impact Assessment has been produced and a copy placed in the library of both Houses of Parliament. Copies may be obtained from Shipping Policy 2 Division, Department for Transport, 76 Marsham Street, London SW1P 4DR (telephone number 020 7944 3436).
+
+A transposition note has been prepared and copies may be obtained from the Department for Transport at the address above.
+
+Merchant Shipping Notices are published by the Maritime and Coastguard Agency. Copies may be obtained from Mail Marketing (Scotland), Bloomsgrove Industrial Estate, Norton Street, Nottingham NG7 3JG (telephone number 0115 9013336; fax 0115 9013334; e-mail mca@promo-solution.com). The Code and Circulars referred to in the Regulations can be obtained from the International Maritime Organization, 4 Albert Embankment, London SE1 7SR.
+
+## Annotations
+
+[^c5062031]: Marginal citation: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68).
+
+[^c5062041]: Marginal citation: [S.I. 1989/2393](https://www.legislation.gov.uk/uksi/1989/2393) and [S.I. 1994/757](https://www.legislation.gov.uk/uksi/1994/757).
+
+[^c5062051]: Marginal citation: [1995 c. 21](https://www.legislation.gov.uk/ukpga/1995/21). Sections 130A, 130B and 130D were inserted by the [Merchant Shipping and Maritime Security Act 1997 (c. 28)](https://www.legislation.gov.uk/ukpga/1997/28), [section 5](https://www.legislation.gov.uk/ukpga/1997/28/section/5).
+
+[^key-c7b5ceee38c379e2dd23f9aa1841517d]: Modification: Regulations extended (with modifications) (16.10.2025) by [S.I. 1989/1350](https://www.legislation.gov.uk/uksi/1989/1350), [art. 3](https://www.legislation.gov.uk/uksi/1989/1350/article/3) (as amended by [The Hovercraft (Application of Enactments) (Amendment) Order 2025 (S.I. 2025/1094)](https://www.legislation.gov.uk/uksi/2025/1094), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/1094/article/1/2), [2(3)(e)(f)](https://www.legislation.gov.uk/uksi/2025/1094/article/2/3/e/f))
+
+[^c5062061]: Marginal citation: [S.I. 1997/3018](https://www.legislation.gov.uk/uksi/1997/3018), amended by [S.I. 1998/531](https://www.legislation.gov.uk/uksi/1998/531).
+
+[^c5062071]: Marginal citation: Cmnd. 5748; amended by the Protocol of 1978 (Cmnd. 7347).
+
+[^key-fcc948b2aeefcf713e1ac60c853a2cee]: Textual amendment: Words in reg. 2(1) substituted (13.1.2017) by [The Merchant Shipping and Fishing Vessels (Port Waste Reception Facilities) (Amendment) Regulations 2016 (S.I. 2016/1211)](https://www.legislation.gov.uk/uksi/2016/1211), [regs. 1](https://www.legislation.gov.uk/uksi/2016/1211/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2016/1211/regulation/2/2)
+
+[^key-d2d0f37af8d05c68c1de7d6a479584c0]: Textual amendment: Words in reg. 2(1) substituted (12.3.2018) by [The Merchant Shipping (Prevention of Pollution from Noxious Liquid Substances in Bulk) Regulations 2018 (S.I. 2018/68)](https://www.legislation.gov.uk/uksi/2018/68), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/68/regulation/1/1), [Sch. Pt 1 para. 2](https://www.legislation.gov.uk/uksi/2018/68/schedule/part/1/paragraph/2) (with [reg. 5](https://www.legislation.gov.uk/uksi/2018/68/regulation/5))
+
+[^key-8c7df8fdea233c5048b2468343814aed]: Textual amendment: Words in reg. 2(1) inserted (16.5.2009) by [The Merchant Shipping and Fishing Vessels (Port Waste Reception Facilities) (Amendment) Regulations 2009 (S.I. 2009/1176)](https://www.legislation.gov.uk/uksi/2009/1176), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1176/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2009/1176/regulation/2/2/a)
+
+[^key-c607ee682ce72b9787de0a6e2ab9de9d]: Textual amendment: Word in reg. 2(1) inserted (16.5.2009) by [The Merchant Shipping and Fishing Vessels (Port Waste Reception Facilities) (Amendment) Regulations 2009 (S.I. 2009/1176)](https://www.legislation.gov.uk/uksi/2009/1176), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1176/regulation/1), [2(2)(b)(i)](https://www.legislation.gov.uk/uksi/2009/1176/regulation/2/2/b/i)
+
+[^key-1189aab77a37df864b12a7483af61ebb]: Textual amendment: Words in reg. 2(1) omitted (16.5.2009) by virtue of [The Merchant Shipping and Fishing Vessels (Port Waste Reception Facilities) (Amendment) Regulations 2009 (S.I. 2009/1176)](https://www.legislation.gov.uk/uksi/2009/1176), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1176/regulation/1), [2(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2009/1176/regulation/2/2/b/ii)
+
+[^key-767a19dd71d670428dfd1e6a16799db9]: Textual amendment: Word in reg. 2(2)(b) substituted (31.12.2020) by [The Merchant Shipping (Miscellaneous Provisions) (Amendments etc.) (EU Exit) Regulations 2018 (S.I. 2018/1221)](https://www.legislation.gov.uk/uksi/2018/1221), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/b), [Sch. para. 18(2)](https://www.legislation.gov.uk/uksi/2018/1221/schedule/paragraph/18/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-7f7cf0809623698b0d5a83cd831277b4]: Textual amendment: Words in reg. 2(2)(b) substituted (16.5.2009) by [The Merchant Shipping and Fishing Vessels (Port Waste Reception Facilities) (Amendment) Regulations 2009 (S.I. 2009/1176)](https://www.legislation.gov.uk/uksi/2009/1176), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1176/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2009/1176/regulation/2/3/a)
+
+[^key-beff0928516f71f83c9416184bd1ccf2]: Textual amendment: Words in reg. 2(2)(c) substituted (16.5.2009) by [The Merchant Shipping and Fishing Vessels (Port Waste Reception Facilities) (Amendment) Regulations 2009 (S.I. 2009/1176)](https://www.legislation.gov.uk/uksi/2009/1176), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1176/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2009/1176/regulation/2/3/b)
+
+[^key-e4219326fcf52eea4d87bd16a6f2a945]: Textual amendment: Reg. 2(5) added (16.5.2009) by [The Merchant Shipping and Fishing Vessels (Port Waste Reception Facilities) (Amendment) Regulations 2009 (S.I. 2009/1176)](https://www.legislation.gov.uk/uksi/2009/1176), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1176/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2009/1176/regulation/2/4)
+
+[^key-f6c04a115bd750b414c8dfbd949f4c46]: Textual amendment: Words in reg. 11(5)(a) substituted (16.5.2009) by [The Merchant Shipping and Fishing Vessels (Port Waste Reception Facilities) (Amendment) Regulations 2009 (S.I. 2009/1176)](https://www.legislation.gov.uk/uksi/2009/1176), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1176/regulation/1), [2(5)(a)](https://www.legislation.gov.uk/uksi/2009/1176/regulation/2/5/a)
+
+[^key-b29343d59b5245c82b00839b5ed26e3e]: Textual amendment: Reg. 11(6) substituted (16.5.2009) by [The Merchant Shipping and Fishing Vessels (Port Waste Reception Facilities) (Amendment) Regulations 2009 (S.I. 2009/1176)](https://www.legislation.gov.uk/uksi/2009/1176), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1176/regulation/1), [2(5)(b)](https://www.legislation.gov.uk/uksi/2009/1176/regulation/2/5/b)
+
+[^key-04c5e1900a86d6b3d31767f83577586e]: Textual amendment: Reg. 12(2) substituted (16.5.2009) by [The Merchant Shipping and Fishing Vessels (Port Waste Reception Facilities) (Amendment) Regulations 2009 (S.I. 2009/1176)](https://www.legislation.gov.uk/uksi/2009/1176), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1176/regulation/1), [2(6)](https://www.legislation.gov.uk/uksi/2009/1176/regulation/2/6)
+
+[^c5062101]: Marginal citation: [1964 c. 40](https://www.legislation.gov.uk/ukpga/1964/40). Section 27A was inserted by paragraph 8(1) of Schedule 6 to the [Transport Act 1981 (c. 56)](https://www.legislation.gov.uk/ukpga/1981/56).
+
+[^key-a254601930ced657c580c19c3f948d20]: Textual amendment: Word in [reg. 17(2)](https://www.legislation.gov.uk/uksi/2003/1809/regulation/17/2) substituted (31.12.2020) by [The Merchant Shipping (Miscellaneous Provisions) (Amendments etc.) (EU Exit) Regulations 2018 (S.I. 2018/1221)](https://www.legislation.gov.uk/uksi/2018/1221), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/b), [Sch. para. 18(3)](https://www.legislation.gov.uk/uksi/2018/1221/schedule/paragraph/18/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-1db96b08219a16d2a73cc7f6e3fbfdac]: Textual amendment: Words in reg. 17(2) substituted (16.5.2009) by [The Merchant Shipping and Fishing Vessels (Port Waste Reception Facilities) (Amendment) Regulations 2009 (S.I. 2009/1176)](https://www.legislation.gov.uk/uksi/2009/1176), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1176/regulation/1), [2(7)](https://www.legislation.gov.uk/uksi/2009/1176/regulation/2/7)
+
+[^key-3bc2f2b3afcaeda78a3d7e593b475eb5]: Textual amendment: [Reg. 20(3A)](https://www.legislation.gov.uk/uksi/2003/1809/regulation/20/3A) inserted (31.12.2020) by [The Merchant Shipping (Miscellaneous Provisions) (Amendments etc.) (EU Exit) Regulations 2018 (S.I. 2018/1221)](https://www.legislation.gov.uk/uksi/2018/1221), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/b), [Sch. para. 18(4)](https://www.legislation.gov.uk/uksi/2018/1221/schedule/paragraph/18/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-7b8d9a4c68c2f61e778686f724f15bcd]: Textual amendment: [Reg. 21(2A)](https://www.legislation.gov.uk/uksi/2003/1809/regulation/21/2A) inserted (31.12.2020) by [The Merchant Shipping (Miscellaneous Provisions) (Amendments etc.) (EU Exit) Regulations 2018 (S.I. 2018/1221)](https://www.legislation.gov.uk/uksi/2018/1221), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/b), [Sch. para. 18(5)](https://www.legislation.gov.uk/uksi/2018/1221/schedule/paragraph/18/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c5062111]: Marginal citation: Section 284 was amended by the Merchant Shipping and Maritime Security Act 1997, Schedule 1, paragraph 5 (c.28).
+
+[^key-a585583557b5a5d7f8701fcc24989ac0]: Textual amendment: [Reg. 24](https://www.legislation.gov.uk/uksi/2003/1809/regulation/24) inserted (13.1.2017) by [The Merchant Shipping and Fishing Vessels (Port Waste Reception Facilities) (Amendment) Regulations 2016 (S.I. 2016/1211)](https://www.legislation.gov.uk/uksi/2016/1211), [regs. 1](https://www.legislation.gov.uk/uksi/2016/1211/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2016/1211/regulation/2/3)
+
+[^c5062121]: Marginal citation: O.J. L114, 24.4.2001, p.1.
+
+[^key-baeffcfc42d6e964bd3cccc030126628]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/2003/1809/schedule/2) substituted (13.1.2017) by [The Merchant Shipping and Fishing Vessels (Port Waste Reception Facilities) (Amendment) Regulations 2016 (S.I. 2016/1211)](https://www.legislation.gov.uk/uksi/2016/1211), [regs. 1](https://www.legislation.gov.uk/uksi/2016/1211/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2016/1211/regulation/2/4), [Sch.](https://www.legislation.gov.uk/uksi/2016/1211/schedule)

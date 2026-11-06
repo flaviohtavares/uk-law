@@ -1,0 +1,195 @@
+---
+title: Public Services (Social Value) Act 2012
+id: ukpga/2012/3
+type: UnitedKingdomPublicGeneralAct
+category: primary
+status: revised
+made_date: '2012-03-08'
+text_date: '2025-02-24'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/2012/3
+pdf_urls:
+- http://www.legislation.gov.uk/ukpga/2012/3/pdfs/ukpgaen_20120003_en.pdf
+- http://www.legislation.gov.uk/ukpga/2012/3/pdfs/ukpga_20120003_en.pdf
+- http://www.legislation.gov.uk/ukpga/2012/3/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Public Services (Social Value) Act 2012
+
+> Text as at 2025-02-24.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+Public Services (Social Value) Act 2012
+
+2012 c. 3
+
+An Act to require public authorities to have regard to economic, social and environmental well-being in connection with public services contracts; and for connected purposes.
+
+\[8th March 2012\]
+
+Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
+
+## 1. Contracts of relevant authorities[^key-ae3f2e95694bafa5cc9fc373a9aa6fc1]
+
+(1) If a relevant authority proposes to procure or make arrangements for procuring the provision of services, or the provision of services together with the purchase or hire of goods or the carrying out of works, by—
+
+- (a) entering into a public services contract that is not a contract based on a framework[^key-7c8f0bd1e812eab9780b286ea382345e], or
+- (b) concluding a framework[^key-23646835920b21c757197d5d1357151e] as regards which public services contracts are likely to constitute the greater part by value of the contracts based on the framework[^key-20f7fa4ab3254d9bbe16a0c23a6a3c34],
+
+it must comply with the requirements in subsections (3), (6) and (7) before starting the process of procurement.
+
+(2) The authority is to be treated for the purposes of subsection (1) as having started the process of procurement as regards what is proposed to be procured as soon as it takes whichever of the following steps is the first to occur—
+
+- (a) publishing a notice under the Procurement Act 2023[^key-ad20940465318bbeaaab9e8acc9679b4] for the purpose of inviting tenders, requests to be selected to tender or to negotiate or requests to participate in relation to a public services contract or framework[^key-d33f0948b372e9f896d23f7b2d1503ba] relating to what is proposed to be procured;
+- (b) publishing an advertisement seeking offers or expressions of interest in relation to such a contract or framework[^key-27794f722ed386b2dd6401a7ef27c4f8];
+- (c) contacting a person in order to seek an offer or expression of interest in relation to such a contract or framework[^key-051b5053d2aec95fb92e2b2e948154a5];
+- (d) contacting a person in order to respond to an unsolicited offer or expression of interest in relation to such a contract or framework[^key-92b5f6487373fdcc6b813deee4f437f8];
+- (e) entering into such a contract or concluding such a framework[^key-f6c87d2b08bce3cdf21291a4d7c4104d].
+
+(3) The authority must consider—
+
+- (a) how what is proposed to be procured might improve the economic, social and environmental well-being of the relevant area, and
+- (b) how, in conducting the process of procurement, it might act with a view to securing that improvement.
+
+(4) In subsection (3) “**the relevant area**” means the area consisting of the area or areas of the one or more relevant authorities on whose behalf a public services contract is, or contracts based on a framework[^key-e611bd1b6f65ac13b8c52401355245fa] are, intended to be made.
+
+(5) For the purposes of subsection (4) the area of a relevant authority is an area consisting of the area or areas by reference to which the authority primarily exercises its functions, disregarding any areas outside the United Kingdom.
+
+(6) The authority must consider under subsection (3)(b) only matters that are relevant to what is proposed to be procured and, in doing so, must consider the extent to which it is proportionate in all the circumstances to take those matters into account.
+
+(7) The authority must consider whether to undertake any consultation as to the matters that fall to be considered under subsection (3).
+
+(8) If an urgent need to arrange the procurement in question makes it impractical to comply with the requirements in subsections (3), (6) and (7) before the time indicated by subsection (1), a relevant authority may disregard the requirements to the extent that it is not practical to comply with them.
+
+(9) Subsection (8) does not apply to the extent that the time available is reduced by undue delay on the part of the authority after this section has come into force.
+
+(10) Failure to comply with subsection (1), (3), (6) or (7) does not affect the validity of anything done in order to comply with the Procurement Act 2023[^key-a1351b1045096b303719d839149e6457].
+
+(11) The following are not required to comply with subsections (1), (3), (6) and (7)—
+
+- (a) the Welsh Ministers;
+- (b) the First Minister for Wales;
+- (c) the Counsel General to the Welsh Assembly Government;
+- (d) the National Assembly for Wales Commission;
+- (e) a relevant authority whose functions are wholly or mainly Welsh devolved functions.
+
+(12) For the purposes of subsection (11) a function of a relevant authority is a Welsh devolved function if—
+
+- (a) provision conferring or imposing that function upon the authority is within the legislative competence of the National Assembly for Wales, or
+- (b) provision conferring or imposing that function upon the authority is made by the Welsh Ministers.
+
+(13)[^key-a3e8dfb6ddc0edf089cb13d8bdeb7e7f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(14) If anything done before the commencement of this section would to any extent have satisfied the requirements in subsections (1), (3), (6) and (7) if done after that commencement, the requirements are to that extent to be treated as satisfied.
+
+(15) In this section—
+
+- “central government authority” has the same meaning as in the[^key-7579b9449a957a3069f6b32f0341189b] Procurement Act 2023 (see Schedule 1 to that Act) (even though the Act does not apply)[^key-8829a0399204d204a0dab14ff7b04323];
+- “[^key-e2ff6cfb3a797488d9556619b9c023e8]**concession contract**” has the same meaning as in the Procurement Act 2023 (see section 8 of that Act);
+- “**defence and security contract**” has the same meaning as in the Procurement Act 2023 (see section 7 of that Act);
+- “**exempted contract**” is a contract that would be considered an exempted contract for the purposes of Schedule 2 (exempted contracts) to the Procurement Act 2023 (even though that Act does not apply);
+- “**framework**” has the same meaning as in the Procurement Act 2023 (see section 45 of that Act) (whether or not the Act applies), and a reference to a contract based on a framework is a reference to a contract entered into on terms established by such an arrangement;
+- “**light touch contract**” has the same meaning as in the Procurement Act 2023 (see section 9 of that Act) (even though the Act does not apply);
+- “**public contract**” has the same meaning as in the Procurement Act 2023 (see section 3 of that Act);
+- [^key-5496f376274774ef5174baecfbd2f2bf]...
+- [^key-e8c173b3321b0aee506a47f37578baa1]...
+- [^key-da95c771c526c16c108c33495df479db]...
+- “**relevant authority**” means a person or body that is a contracting authority within the meaning of the[^key-436cf3bd21064ac03fe2fb19463bfd39] Procurement Act 2023 (see section 2 of that Act) (whether or not the Act applies)[^key-329166fe48e757974de28daf7002f02f].
+- “[^key-dcf2984daa01c7674f06d8d8944741ad]**sub-central government authority**” has the same meaning as in the Procurement Act 2023 (see Schedule 1 to that Act) (even though the Act does not apply);
+- “**utilities contract**” has the same meaning as in the Procurement Act 2023 (see section 6 of that Act)
+- [^key-5cad14159ace951e534c4d3129dd46bf]...
+- [^key-3fcd2f90cf5b6a60177fd2b6693e7974]...
+
+(16)[^key-ef473f396257fa9d7a941662387139a1] For the purposes of this section references to a public services contract are to—
+
+- (a) a public contract for the supply of services to which the Procurement Act 2023 applies (or which is treated as such a contract by that Act), other than a utilities contract, defence and security contract or concession contract;
+- (b) a contract, not being a contract within paragraph (a), which—
+  - (i) is a light touch contract,
+  - (ii) is not an exempted contract, a utilities contract, a defence and security contract or a concession contract, and
+  - (iii) falls within subsection (17).
+
+(17) A contract falls within this subsection if—
+
+- (a) it is awarded by a central government authority and is estimated to be of a value equal to or greater than the threshold amount mentioned in row 11 of the table in paragraph 1(1) of Schedule 1 to the Procurement Act 2023, or
+- (b) it is awarded by a sub-central government authority and is estimated to be of a value equal to or greater than the threshold amount mentioned in row 12 of that table.
+
+## 2. Local authority contracts[^key-eb593d4ca774fb29094779dbe00801a5]
+
+In section 17 of the Local Government Act 1988 (exclusion of non-commercial considerations in the case of local and other public authority contracts), after subsection (10) insert—
+
+> (11) This section does not prevent a public authority to which it applies from exercising any function regulated by this section with reference to a non-commercial matter to the extent that the authority considers it necessary or expedient to do so to enable or facilitate compliance with a duty imposed on it by section 1 of the Public Services (Social Value) Act 2012.
+
+## 3. Financial provisions
+
+There is to be paid out of money provided by Parliament any expenditure incurred in consequence of this Act by a Minister of the Crown, government department or other public authority.
+
+## 4. Short title, commencement and extent
+
+(1) This Act may be cited as the Public Services (Social Value) Act 2012.
+
+(2) Section 3 and this section come into force on the day on which this Act is passed.
+
+(3) Sections 1 and 2 come into force on such day as a Minister of the Crown may by order made by statutory instrument appoint.
+
+(4) This Act extends to England and Wales.
+
+## Annotations
+
+[^key-ae3f2e95694bafa5cc9fc373a9aa6fc1]: Commencement: S. 1 in force at 31.1.2013 by [S.I. 2012/3173](https://www.legislation.gov.uk/uksi/2012/3173) , [art. 2](https://www.legislation.gov.uk/uksi/2012/3173/article/2)
+
+[^key-7c8f0bd1e812eab9780b286ea382345e]: Textual amendment: Word in s. 1(1)(a) substituted (24.2.2025) by [The Procurement Act 2023 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/163)](https://www.legislation.gov.uk/uksi/2025/163), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2), [7(2)(a)(i)](https://www.legislation.gov.uk/uksi/2025/163/regulation/7/2/a/i)
+
+[^key-23646835920b21c757197d5d1357151e]: Textual amendment: Word in s. 1(1)(b) substituted (24.2.2025) by [The Procurement Act 2023 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/163)](https://www.legislation.gov.uk/uksi/2025/163), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2), [7(2)(a)(ii)(aa)](https://www.legislation.gov.uk/uksi/2025/163/regulation/7/2/a/ii/aa)
+
+[^key-20f7fa4ab3254d9bbe16a0c23a6a3c34]: Textual amendment: Words in s. 1(1)(b) substituted (24.2.2025) by [The Procurement Act 2023 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/163)](https://www.legislation.gov.uk/uksi/2025/163), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2), [7(2)(a)(ii)(bb)](https://www.legislation.gov.uk/uksi/2025/163/regulation/7/2/a/ii/bb)
+
+[^key-ad20940465318bbeaaab9e8acc9679b4]: Textual amendment: Words in s. 1(2)(a) substituted (24.2.2025) by [The Procurement Act 2023 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/163)](https://www.legislation.gov.uk/uksi/2025/163), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2), [7(2)(b)(i)(aa)](https://www.legislation.gov.uk/uksi/2025/163/regulation/7/2/b/i/aa)
+
+[^key-d33f0948b372e9f896d23f7b2d1503ba]: Textual amendment: Word in s. 1(2)(a) substituted (24.2.2025) by [The Procurement Act 2023 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/163)](https://www.legislation.gov.uk/uksi/2025/163), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2), [7(2)(b)(i)(bb)](https://www.legislation.gov.uk/uksi/2025/163/regulation/7/2/b/i/bb)
+
+[^key-27794f722ed386b2dd6401a7ef27c4f8]: Textual amendment: Word in s. 1(2)(b) substituted (24.2.2025) by [The Procurement Act 2023 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/163)](https://www.legislation.gov.uk/uksi/2025/163), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2), [7(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2025/163/regulation/7/2/b/ii)
+
+[^key-051b5053d2aec95fb92e2b2e948154a5]: Textual amendment: Word in s. 1(2)(c) substituted (24.2.2025) by [The Procurement Act 2023 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/163)](https://www.legislation.gov.uk/uksi/2025/163), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2), [7(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2025/163/regulation/7/2/b/ii)
+
+[^key-92b5f6487373fdcc6b813deee4f437f8]: Textual amendment: Word in s. 1(2)(d) substituted (24.2.2025) by [The Procurement Act 2023 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/163)](https://www.legislation.gov.uk/uksi/2025/163), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2), [7(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2025/163/regulation/7/2/b/ii)
+
+[^key-f6c87d2b08bce3cdf21291a4d7c4104d]: Textual amendment: Word in s. 1(2)(e) substituted (24.2.2025) by [The Procurement Act 2023 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/163)](https://www.legislation.gov.uk/uksi/2025/163), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2), [7(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2025/163/regulation/7/2/b/ii)
+
+[^key-e611bd1b6f65ac13b8c52401355245fa]: Textual amendment: Word in s. 1(4) substituted (24.2.2025) by [The Procurement Act 2023 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/163)](https://www.legislation.gov.uk/uksi/2025/163), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2), [7(2)(c)](https://www.legislation.gov.uk/uksi/2025/163/regulation/7/2/c)
+
+[^key-a1351b1045096b303719d839149e6457]: Textual amendment: Words in s. 1(10) substituted (24.2.2025) by [The Procurement Act 2023 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/163)](https://www.legislation.gov.uk/uksi/2025/163), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2), [7(2)(d)](https://www.legislation.gov.uk/uksi/2025/163/regulation/7/2/d)
+
+[^key-a3e8dfb6ddc0edf089cb13d8bdeb7e7f]: Textual amendment: S. 1(13) omitted (26.2.2015) by virtue of [The Public Contracts Regulations 2015 (S.I. 2015/102)](https://www.legislation.gov.uk/uksi/2015/102), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/102/regulation/1/2) , [Sch. 6 para. 8(3)](https://www.legislation.gov.uk/uksi/2015/102/schedule/6/paragraph/8/3)
+
+[^key-7579b9449a957a3069f6b32f0341189b]: Textual amendment: Words in s. 1(15) inserted (18.4.2016) by [The Public Procurement (Amendments, Repeals and Revocations) Regulations 2016 (S.I. 2016/275)](https://www.legislation.gov.uk/uksi/2016/275), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/275/regulation/1/1) , [Sch. 1 para. 8(2)](https://www.legislation.gov.uk/uksi/2016/275/schedule/1/paragraph/8/2) (with [reg. 5](https://www.legislation.gov.uk/uksi/2016/275/regulation/5))
+
+[^key-8829a0399204d204a0dab14ff7b04323]: Textual amendment: Words in s. 1(15) substituted (24.2.2025) by [The Procurement Act 2023 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/163)](https://www.legislation.gov.uk/uksi/2025/163), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2), [7(2)(e)(i)](https://www.legislation.gov.uk/uksi/2025/163/regulation/7/2/e/i)
+
+[^key-e2ff6cfb3a797488d9556619b9c023e8]: Textual amendment: Words in s. 1(15) inserted (24.2.2025) by [The Procurement Act 2023 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/163)](https://www.legislation.gov.uk/uksi/2025/163), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2), [7(2)(e)(ii)](https://www.legislation.gov.uk/uksi/2025/163/regulation/7/2/e/ii)
+
+[^key-5496f376274774ef5174baecfbd2f2bf]: Textual amendment: Words in s. 1(15) omitted (24.2.2025) by virtue of [The Procurement Act 2023 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/163)](https://www.legislation.gov.uk/uksi/2025/163), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2), [7(2)(e)(v)(aa)](https://www.legislation.gov.uk/uksi/2025/163/regulation/7/2/e/v/aa)
+
+[^key-e8c173b3321b0aee506a47f37578baa1]: Textual amendment: Words in s. 1(15) omitted (26.2.2015) by virtue of [The Public Contracts Regulations 2015 (S.I. 2015/102)](https://www.legislation.gov.uk/uksi/2015/102), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/102/regulation/1/2) , [Sch. 6 para. 8(4)(b)](https://www.legislation.gov.uk/uksi/2015/102/schedule/6/paragraph/8/4/b)
+
+[^key-da95c771c526c16c108c33495df479db]: Textual amendment: Words in s. 1(15) omitted (24.2.2025) by virtue of [The Procurement Act 2023 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/163)](https://www.legislation.gov.uk/uksi/2025/163), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2), [7(2)(e)(v)(bb)](https://www.legislation.gov.uk/uksi/2025/163/regulation/7/2/e/v/bb)
+
+[^key-436cf3bd21064ac03fe2fb19463bfd39]: Textual amendment: Words in s. 1(15) substituted (26.2.2015) by [The Public Contracts Regulations 2015 (S.I. 2015/102)](https://www.legislation.gov.uk/uksi/2015/102), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/102/regulation/1/2) , [Sch. 6 para. 8(4)(d)](https://www.legislation.gov.uk/uksi/2015/102/schedule/6/paragraph/8/4/d)
+
+[^key-329166fe48e757974de28daf7002f02f]: Textual amendment: Words in s. 1(15) substituted (24.2.2025) by [The Procurement Act 2023 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/163)](https://www.legislation.gov.uk/uksi/2025/163), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2), [7(2)(e)(iii)](https://www.legislation.gov.uk/uksi/2025/163/regulation/7/2/e/iii)
+
+[^key-dcf2984daa01c7674f06d8d8944741ad]: Textual amendment: Words in s. 1(15) inserted (24.2.2025) by [The Procurement Act 2023 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/163)](https://www.legislation.gov.uk/uksi/2025/163), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2), [7(2)(e)(iv)](https://www.legislation.gov.uk/uksi/2025/163/regulation/7/2/e/iv)
+
+[^key-5cad14159ace951e534c4d3129dd46bf]: Textual amendment: Words in s. 1(15) omitted (24.2.2025) by virtue of [The Procurement Act 2023 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/163)](https://www.legislation.gov.uk/uksi/2025/163), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2), [7(2)(e)(v)(cc)](https://www.legislation.gov.uk/uksi/2025/163/regulation/7/2/e/v/cc)
+
+[^key-3fcd2f90cf5b6a60177fd2b6693e7974]: Textual amendment: Words in s. 1(15) omitted (24.2.2025) by virtue of [The Procurement Act 2023 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/163)](https://www.legislation.gov.uk/uksi/2025/163), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2), [7(2)(e)(v)(dd)](https://www.legislation.gov.uk/uksi/2025/163/regulation/7/2/e/v/dd)
+
+[^key-ef473f396257fa9d7a941662387139a1]: Textual amendment: S. 1(16)(17) substituted for s. 1(16) (24.2.2025) by [The Procurement Act 2023 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/163)](https://www.legislation.gov.uk/uksi/2025/163), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2), [7(2)(f)](https://www.legislation.gov.uk/uksi/2025/163/regulation/7/2/f)
+
+[^key-eb593d4ca774fb29094779dbe00801a5]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2012/3/section/2) in force at 31.1.2013 by [S.I. 2012/3173](https://www.legislation.gov.uk/uksi/2012/3173), [art. 2](https://www.legislation.gov.uk/uksi/2012/3173/article/2)

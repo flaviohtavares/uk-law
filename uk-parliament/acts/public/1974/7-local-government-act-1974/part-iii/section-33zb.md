@@ -1,0 +1,46 @@
+---
+title: Local Government Act 1974, section 33ZB
+act: Local Government Act 1974
+section: 33ZB
+status: revised-with-pending-changes
+text_date: '2026-10-05'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/1974/7/section/33ZB
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Local Government Act 1974, section 33ZB
+
+> **Warning: changes not yet applied to this text (50).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1974/7
+>
+> Extent: England, Wales.
+
+## 33ZB. Arrangements for provision of administrative and other services[^key-572cccbd886d7707ec061647ba6aeac9]
+
+*Extent: E+W*
+
+(1) Arrangements involving the Commission may be entered into by persons within subsection (4) for the provision of administrative, professional or technical services by any one or more of the parties for any one or more of the parties, whether for consideration or otherwise.
+
+(2) For the purposes of subsection (1), arrangements for the provision of services involve the Commission if the Commission is one of the parties to the arrangements and at least one of the following conditions is met—
+
+- (a) the Commission is the party, or one of the parties, by whom the services are to be provided;
+- (b) the Commission is the party, or one of the parties, to whom the services are to be provided.
+
+(3) The arrangements that may be entered into under subsection (1) include arrangements for—
+
+- (a) the Commission, or
+- (b) the Commission jointly with any one or more of the parties,
+
+to have the function of discharging, on behalf of a party, any function of that party which is of an administrative, professional or technical nature.
+
+(4) The persons within this subsection are—
+
+- (a) the Commission,
+- (b) the Parliamentary Commissioner,
+- (c) the Health Service Commissioner for England, and
+- (d) the person administering a scheme approved under Schedule 2 to the Housing Act 1996 (scheme for enabling complaints to be investigated by a housing ombudsman).
+
+## Annotations
+
+[^key-572cccbd886d7707ec061647ba6aeac9]: Textual amendment: S. 33ZB inserted (15.1.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 44(1)](https://www.legislation.gov.uk/ukpga/2011/20/section/44/1), [240(1)(c)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/1/c)

@@ -1,0 +1,703 @@
+---
+title: The Income Support (Transitional) Regulations 1987
+id: uksi/1987/1969
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised-with-pending-changes
+made_date: '1987-11-20'
+text_date: '2026-04-06'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/1987/1969
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1987/1969/pdfs/uksi_19871969_301114_en.pdf
+- http://www.legislation.gov.uk/uksi/1987/1969/data.pdf
+pending_changes: 1
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Income Support (Transitional) Regulations 1987
+
+> **Warning: changes not yet applied to this text (1).** Text as at 2026-04-06. See https://www.legislation.gov.uk/changes/affected/uksi/1987/1969
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+1987 No. 1969
+
+SOCIAL SECURITY
+
+The Income Support (Transitional) Regulations 1987
+
+Made
+
+20th November 1987
+
+Laid before Parliament
+
+20th November 1987
+
+Coming into force
+
+23rd November 1987
+
+The Secretary of State for Social Services in exercise of powers conferred on him by sections 84(1) and 89(1) of the Social Security Act 1986 [^c2180910] and of all other powers enabling him in that behalf, by this instrument, which contains only provisions consequential on sections 20 to 23 and 51 of that Act in their application to income support and Regulations made under those sections and is made before the end of a period of 12 months from the commencement of those sections, makes the following Regulations:–[^key-d2f99d56abf46520cb8d94e3895a341c]
+
+## 1. Citation and commencement
+
+These Regulations may be cited as the Income Support (Transitional) Regulations 1987 and shall come into force on 23rd November 1987.
+
+## 2. Interpretation
+
+(1) In these Regulations, unless the context otherwise requires–
+
+- “**the Act**” means the Social Security Act 1986;
+- “**adjudicating authority**” means any person or body with responsibility under the Social Security Acts 1975 to 1986, and regulations made thereunder, for the determination of claims for any benefit under those Acts and questions arising in connection with a claim for, or award of, or disqualification for receiving such benefit;
+- “benefit week”–
+  - (a) in relation to supplementary benefit, has the meaning given to it in regulation 7 of the Supplementary Benefit (Determination of Questions) Regulations 1980 [^c2180911];
+  - (b) in relation to income support, has the meaning given to it by paragraph 4 of Schedule 7 to the Social Security (Claims and Payments) Regulations 1987 [^c2180912];
+- “**domestic assistance addition**” means an additional requirement under paragraph 15 of Schedule 4 to the Requirements Regulations;
+- “**first benefit week**” means the benefit week beginning on a day during the period of 7 days commencing on 4th April 1988;
+- “**former beneficiary**” means a person who, for a period immediately preceding 11th April 1988, is entitled to supplementary benefit;
+- “**former housing benefit supplement recipient**” means a person in respect of whom an amount is applicable under regulation 19 of the Requirements Regulations for a period immediately preceding 4th April 1988;
+- “**General Regulations**” means the Income Support (General) Regulations 1987 [^c2180913];
+- “**income support**” means income support under Part II of the Act;
+- “**Requirements Regulations**” means the Supplementary Benefit (Requirements) Regulations 1983 [^c2180914];
+- “**second benefit week**” means the benefit week beginning on a day during the period of 7 days commencing on 11th April 1988;
+- “**Social Security Act**” means the Social Security Act 1975 [^c2180915];
+- “**patient**” has the same meaning as in regulation 21(3) of the General Regulations;
+- “**personal expenses addition**” means an amount of income support payable in accordance with regulation 13 in addition to any income support to which a person may be entitled under Part II of the Act;
+- “**special transitional addition**” means an amount of income support payable in accordance with regulation 15 in addition to any income support to which a person may be entitled under Part II of the Act;
+- “**supplementary benefit**” means a supplementary pension or allowance under the Supplementary Benefits Act 1976 [^c2180916];
+- “**transitional addition**” means an amount of income support payable in accordance with regulations 10 to 13 in addition to any income support to which a person may be entitled under Part II of the Act;
+- “**unemployed person**” means a person who is or is required to be available for employment;
+- and other expressions have the same meaning as in the General Regulations.
+
+(2) Unless the context otherwise requires, any reference in these Regulations to a numbered regulation or Part is a reference to the regulation or Part bearing that number in these Regulations, and any reference in a regulation to a numbered paragraph is a reference to the paragraph bearing that number in that regulation.
+
+(3)[^M_F_a2613cde-c811-441b-ca07-ec67a97f7613] In these Regulations the expressions “transitional addition” and “special transitional addition” include any amount payable by virtue of regulation 87(1) of the Jobseeker’s Allowance Regulations 1996.
+
+## PART I — TRANSITIONAL ARRANGEMENTS
+
+### 2A. Permitted period[^key-71924f301be4995a7e2182dafc99d186][^M_F_475601d8-0ad1-4d16-d084-7d5592c9e0c6]
+
+(1) For the purposes of regulations 14 and 15 (reduction and termination of transitional addition and special transitional addition) where a claimant has ceased to be entitled to income support–
+
+- (a) because he or his partner becomes engaged in remunerative work the permitted period subject to paragraph (2A)[^M_F_c4ea68ae-4ea2-45e9-dd29-d4d6b15e68b2], [^M_F_9e751258-5dd3-47e0-a709-14b2e0db9f71] ... shall be 12 weeks; or
+- (b) for any other reason, the permitted period shall be eight weeks.
+
+(2A)[^M_F_7b936d3a-6485-413c-b016-926101b54ccf] Subject to paragraph (2B) where the claimant or his partner has ceased to be engaged in remunerative work, the permitted period shall be 8 weeks if—
+
+- (a) a jobseeker’s allowance was not payable to the claimant in the circumstances mentioned in section 19(2)(a) or (b)[^key-badbf3516b7dd11f6d7eeb17101e0826] of the Jobseekers Act 1995 (employment left voluntarily or lost through misconduct); or
+- (b) the claimant or his partner has ceased to be engaged in that work within 4 weeks of beginning it; or
+- (c) at any time during the period of 13 weeks immediately preceding the beginning of that work, the person who has ceased to be engaged in it—
+  - (i) was engaged in remunerative work; or
+  - (ii) was in relevant education; or
+  - (iii) was a student.
+
+(2B) Paragraph (2)(b) or (2)(c) shall not apply in the case of a person who, by virtue of regulation 74 of the Jobseeker’s Allowance Regulations 1996, is a person to whom section 19(2)(b)[^M_F_e0f97eb8-4fb0-4168-ddbc-9a6727b993b8] of the Jobseekers Act 1995 does not apply.
+
+(2C) In this regulation, “remunerative work” means remunerative work for the purposes of the Jobseekers Act 1995.
+
+(2)[^M_F_a1be1c2d-3797-47b4-d709-d0dfdd1a4314] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3)[^M_F_1995ab0b-3ab2-44fe-ccda-aa597d7e1e6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 3. Claims for income support made before 11th April 1988
+
+(1) A claim for income support may be made on or after 14th March 1988 and before 11th April 1988, and a claim for supplementary benefit made during that period may be treated in addition as a claim for income support.
+
+(2) Paragraph (1) and regulation 4 (deeming of claims for income support by former beneficiaries) shall not apply in the case of a person affected by a trade dispute (that is to say a person in respect of whom the applicable amount or a proportion of the applicable amount falls to be disregarded by virtue of section 23 of the Act).
+
+(3) Subject to the provisions of this regulation, any claim for income support made or treated as made in accordance with paragraph (1) may be determined before 11th April 1988 in accordance with the Act and Regulations made under that Act as if those provisions were in force.
+
+(4) Any claim made or treated as made in accordance with paragraph (1) shall be treated as made for a period commencing on 11th April 1988.
+
+(5) A decision which is given awarding income support on such a claim as is referred to in paragraph (1)–
+
+- (a) may award the benefit from 11th April 1988 if it appears probable that the conditions for entitlement to income support for the person who made that claim will be satisfied;
+- (b) shall be subject to the conditions for entitlement being so satisfied on the date from which the benefit is awarded;
+- (c) may be reviewed if any question arises as to the satisfaction of those conditions.
+
+### 4. Deeming of claims for income support by former beneficiaries
+
+(1) Notwithstanding the provisions of section 165A of the Social Security Act [^c2180917],, but subject to regulation 3(2) (persons affected by a trade dispute), in the case of a former beneficiary or a former housing benefit supplement recipient it shall not be a condition of entitlement to income support for a period commencing in the week beginning 11th April 1988 that he makes a claim for such benefit and the provisions of the Act and Regulations made thereunder shall apply, subject to the following provisions of this Part, as if a claim for that benefit had been duly made by the former beneficiary or the former housing benefit supplement recipient in respect of a period commencing on the first day of his second benefit week.
+
+(2) Where by virtue of paragraph (1) a person's entitlement to income support falls to be determined as if a claim for it had been duly made, the claimant's entitlement in respect of a period commencing in the week beginning 11th April 1988 may nevertheless be determined at an earlier date if the claimant is entitled to supplementary benefit at the date of the determination; and any such claim shall be determined in accordance with the Act and Regulations made under that Act as if those provisions were in force.
+
+(3) A decision which is given awarding income support on a determination made under this regulation–
+
+- (a) may award the benefit from the first day of his second benefit week if it appears probable that the conditions for entitlement to income support will be satisfied;
+- (b) shall be subject to the conditions for entitlement being so satisfied on the date from which the benefit is awarded;
+- (c) may be reviewed if any question arises as to the satisfaction of those conditions.
+
+### 4A. Payments on account of income support[^M_F_47124484-af30-4a14-bc77-ea0d83397bb3]
+
+(1) Where, by virtue of regulation 4 (deeming of claims by former beneficiaries), a person’s entitlement to income support, for a period commencing in the week beginning 11th April 1988, falls to be determined as if a claim for it had been duly made and no determination has been made by that date, the Secretary of State may make a payment on account of income support and the amount of such payment shall be offset by the adjudicating authority in reduction of any income support, any transitional payment of income support under regulation 7 (transitional payments for former beneficiaries) and any addition under Part II, subsequently awarded.
+
+(2) Where a payment on account has been made under paragraph (1) and the adjudicating authority determines that there is no entitlement to income support, or that the entitlement is less than the amount of the payment on account, that authority shall determine the amount of the overpayment.
+
+(3) The amount of any overpayment determined under paragraph (2) shall be recoverable by the Secretary of State by the same procedures and subject to the same conditions as if it were recoverable under section 53(1) of the Act (overpayments).
+
+(4) A payment on account under this regulation may be made by means of an instrument of payment or such other means as appears to the Secretary of State to be appropriate in the circumstances of any particular case and, notwithstanding the repeal of any enactment, may be made by an instrument of payment or book of serial orders issued for the purpose of paying supplementary benefit.
+
+### 5. Questions deemed to have been determined and treatment of income
+
+(1) Where, for a period commencing on or after 11th April 1988, it appears that the entitlement of a former beneficiary to income support, or the amount of such benefit to which he is entitled, depends upon the determination of any question by an adjudicating authority and such a question has been so determined in respect of that former beneficiary's entitlement to supplementary benefit immediately before 11th April 1988, that question shall be deemed to have been so determined for the purposes of the said entitlement to income support.
+
+(2) For the purposes of determining a claimant's entitlement to income support for a period commencing on or after 11th April 1988, any earnings paid before that date on the termination or interruption of–
+
+- (a) the claimant's employment shall be taken into account in accordance with Part V of the General Regulations (income and capital) as if that Part were in force at the date of the termination or interruption of the employment and, except in the case of a claimant who was not treated as engaged in remunerative full-time work within the meaning of regulation 9(1)(a) of the Supplementary Benefit (Conditions of Entitlement) Regulations 1981 [^c2180918] (circumstances in which persons are to be treated as engaged in remunerative full-time work), the claimant shall be treated as being engaged in remunerative work for that part of the period (if any), falling on or after 11th April 1988, for which those earnings are to be taken into account;
+- (b) the employment of the partner of a former beneficiary, except where the partner was engaged in that employment for less than 30 hours per week, shall notwithstanding the revocation of the Supplementary Benefit (Resources) Regulations 1981 [^c2180919], be taken into account in accordance with those Regulations as if they were still in force.
+
+(3) Except in the case of earnings to which paragraph (2) applies or would, but for the exception specified in sub-paragraph (b) thereof, apply, where in the case of a former beneficiary to whom regulation 4 applies a payment of income would, but for this paragraph, fall to be treated as paid under regulation 31(1)(a) of the General Regulations (date on which income treated as paid) before the first day of the benefit week in which he is first entitled to income support, that payment shall be treated as paid on that day and any part of the payment which has been taken into account in determining the former beneficiary's entitlement to supplementary benefit shall, notwithstanding Part V of the General Regulations, be disregarded in determining his entitlement to income support.
+
+(4) Where an adjudicating authority has determined that payment of an amount of supplementary benefit awarded to a former beneficiary for a period immediately preceding 11th April 1988 should be paid to another person or body, such determination shall be deemed also to have been made for the purposes of income support to which the former beneficiary is entitled on or after 11th April 1988.
+
+(5) For the purpose of the application of paragraph 14 of Schedule 4 to the General Regulations (applicable amounts of persons in residential care and nursing homes), or paragraph 12 of Schedule 5 to those Regulations (applicable amounts of persons in board and lodging accommodation), to a former beneficiary in respect of whom income support becomes payable for a period immediately following a period in respect of which supplementary benefit was payable, the expression “ close relative ” shall, for so long as he continues to be entitled without interruption to income support, be given the meaning assigned to it immediately before 11th April 1988 by regulation 2 of the Requirements Regulations[^c2180920] (interpretation).
+
+(6)[^M_F_3b227099-305f-41f8-cb20-0fd175cd7dd9] For the purposes of determining a claimant’s entitlement to income support for a period commencing on or after 11th April 1988, regulation 43 of the General Regulations (notional earnings of seasonal workers) shall apply for the purposes of determining a person’s earnings in the period of his off-season or last period of normal employment beginning before that date as if that regulation and Parts IV and V of the General Regulations (applicable amounts and income and capital) were in force throughout that period.
+
+### 6. Appointments for former beneficiaries unable to act
+
+Where the Secretary of State has made an appointment under regulation 26 of the Supplementary Benefit (Claims and Payments) Regulations 1981 [^c2180921] (persons unable to act) of a person to exercise any right to which a former beneficiary may be entitled under the Supplementary Benefits Act 1976 and to receive and deal on his behalf with any sums payable to that former beneficiary under or by virtue of that Act, and such appointment has not, before 11th April 1988, been revoked by the Secretary of State or terminated by the resignation of the person appointed, that appointment shall be deemed, for the purposes of income support for that former beneficiary, to be an appointment made under regulation 33 of the Social Security (Claims and Payments) Regulations 1987 (persons unable to act).
+
+### 7. Transitional payments for former beneficiaries
+
+(1) Where a former beneficiary is entitled to income support on the first day of his second benefit week–
+
+- (a) he shall, notwithstanding the repeal or revocation of any enactment, be entitled to and be paid supplementary benefit for the period commencing on 11th April 1988 and ending with the day 6 days after the first day of his first benefit week except where that benefit week commences on 4th April 1988;
+- (b) if the former beneficiary is a person to whom income support is payable in arrears, he shall also be entitled to a transitional payment of income support in respect of a period of, or two consecutive periods of, 7 days determined in accordance with paragraph (2).
+
+(2) For the purposes of paragraph (1)(b)–
+
+- (a) in the case of a former beneficiary who is an unemployed person whose supplementary benefit had been paid by means of a book of serial orders or who is not an unemployed person, the transitional payment shall be in respect of the period of 7 days commencing with the day following the last day in respect of which supplementary benefit is payable in his case;
+- (b) in any other case, the transitional payment shall be in respect of two consecutive periods of 7 days commencing with the day following the last day in respect of which supplementary benefit is payable in his case.
+
+(3) The amount of the transitional payment in respect of any such period shall be equal to the amount of income support payable in arrears for the benefit week or, in the case of a claimant whose entitlement to income support is for a period of less than a benefit week the amount which would have been payable had he been entitled to income support for the benefit week, commencing in the same calendar week as the period of seven days in respect of which the transitional payment is made.
+
+(4) The transitional payment shall be made in advance and, in a case to which paragraph (2)(b) applies, the transitional payment may be made in two instalments if it appears to the Secretary of State to be appropriate in the circumstances of the particular case.
+
+(5) In calculating the income of a former beneficiary for the purpose of determining his entitlement to income support in respect of any day for which that benefit becomes payable to him in arrears there shall be disregarded any supplementary benefit or any transitional payment payable to him under this regulation.
+
+(6) Where a former beneficiary is not entitled to income support on the first day of his second benefit week he shall, notwithstanding the repeal or revocation of any enactment, be entitled to and be paid supplementary benefit for the period commencing on 11th April 1988 and ending with the day 6 days after the first day of his first benefit week except where that benefit week commences on 4th April 1988.
+
+### 7A. Transitional payments for persons claiming supplementary benefit[^M_F_72cec64b-5309-42e6-8716-a3c4e19e22da]
+
+(1) Except where regulation 7 applies (transitional payments for former beneficiaries), where a person makes a claim for supplementary benefit in the week commencing 4th April 1988 and, but for regulation 7(1)(a) of the Supplementary Benefit (Determination of Questions) Regulations 1980 (date of commencement of entitlement), he would have been entitled to supplementary benefit for a week beginning with the day on which the claim is made, he shall, if —
+
+- (a) he is entitled to income support on the first day of his second benefit week; and
+- (b) he is a person to whom income support is payable in arrears,
+
+be entitled to a transitional payment of income support in respect of a period of, or two consecutive periods of, 7 days determined in accordance with paragraph (2).
+
+(2) For the purposes of paragraph (1) —
+
+- (a) in the case of an unemployed person, the transitional payment shall be in respect of two consecutive periods of 7 days commencing with the first day of his second benefit week;
+- (b) in any other case, the transitional payment shall be in respect of the period of 7 days commencing with the first day of his second benefit week.
+
+(3) Subject to paragraph (4), the amount of the transitional payment in respect of any such period shall be equal to the amount of income support payable in arrears for the benefit week or, in the case of a claimant whose entitlement to income support is for a period of less than a benefit week, the amount which would have been payable had he been entitled to income support for the benefit week, commencing in the same calendar week as the period of seven days in respect of which the transitional payment is made.
+
+(4) Where a person is entitled to income support for a period falling before the first day of his second benefit week, the amount of the transitional payment shall be reduced by the amount of income support payable for that period.
+
+(5) The transitional payment shall be made in advance and, in a case to which paragraph (2)(a) applies, the transitional payment may be made in two instalments if it appears to the Secretary of State to be appropriate in the circumstances of the particular case.
+
+(6) In calculating the income of a person entitled to a transitional payment under this regulation for the purpose of determining his entitlement to income support in respect of any day for which income support becomes payable to him in arrears there shall be disregarded any transitional payment payable to him under this regulation.
+
+(7) Where a person is entitled to a transitional payment under this regulation or, but for his being a person to whom income support is payable in advance, would have been so entitled, Part II shall apply to him —
+
+- (a) as if he were a former beneficiary who had been entitled to supplementary benefit in the first benefit week; and
+- (b) as if that benefit week began on the day on which the claim for supplementary benefit was made.
+
+(8) Where paragraph (7) applies, the amount of supplementary benefit to which that person is, for the purposes of Part II, to be treated as entitled shall be equal to the amount which would have been payable in the first benefit week had he been entitled to supplementary benefit for that week.
+
+### 8. Treatment for income support purposes of periods relating to supplementary benefit
+
+(1) For the purpose of determining under regulation 4(1) of the General Regulations (temporary absence from Great Britain) whether a claimant is entitled to income support during a period of absence, that provision shall be construed as though there were inserted immediately after the words “entitled to income support” the words “or supplementary benefit”.
+
+(2) For the purpose of determining under regulation 21(4)(b)(ii) of the General Regulations (special cases) whether a local authority has accepted in relation to a former beneficiary the responsibility therein referred to for a period of not less than 2 years immediately before that person attained pensionable age, that provision shall be construed as though there were inserted immediately after the words “under and by virtue of that regulation” the words “or under or by virtue of the Supplementary Benefits Act 1976”.
+
+(3) Where, in relation to supplementary benefit for a former beneficiary in respect of a period immediately before 11th April 1988, his normal requirements fell to be reduced by virtue of regulation 8 of the Requirements Regulations (actual or notional unemployment benefit disqualification), regulation 22 of the General Regulations (reduction of applicable amount in cases of voluntary unemployment) shall apply to the calculation of that former beneficiary's applicable amount on 11th April 1988 with the modification that the relevant period specified in paragraph (6) of that regulation shall be reduced by the number of whole benefit weeks corresponding to the number of such weeks immediately preceding that date during which his normal requirements had been so reduced.
+
+(4) For the purpose of determining whether, in any case, the additional condition for higher pensioner premium or disability premium, specified in paragraph 12(1)(b) of Schedule 2 to the General Regulations (applicable amounts), is satisfied for any period before 24th October 1988, that provision shall be construed as though there were inserted therein, immediately after the reference to the Social Security Act, a reference to the Supplementary Benefits Act 1976.
+
+(5) For the purposes of paragraph 7 of Schedule 3 to the General Regulations (housing costs) any reference to income support shall be construed as if it included a reference to supplementary benefit and in sub-paragraph (2)(a) of that paragraph references to a claimant's income and applicable amount shall be construed as if they included references to his resources and requirements determined for the purposes of entitlement to supplementary benefit.
+
+(6) Where, in relation to supplementary benefit for a former beneficiary in respect of a period immediately before 11th April 1988, his housing requirements fell to be restricted by virtue of regulation 20 or 21 of the Requirements Regulations (special cases and restrictions where amounts are excessive)–
+
+- (a) paragraph 10 of Schedule 3 to the General Regulations (housing costs) shall apply to the calculation of that former beneficiary's applicable amount in his second benefit week with the modification that the references in paragraph 10(2)(a) and (6) of that Schedule to income support shall be construed as if they included a reference to supplementary benefit; and
+- (b) in computing the 8 week period referred to in paragraph 10(2)(c) of that Schedule any week falling before 11th April 1988 which is within that 8 week period and during which supplementary benefit was payable shall be treated as a week in which income support was payable.
+
+## PART II — TRANSITIONAL PROTECTION
+
+### 9. Total benefit income
+
+(1) In this Part a person's total benefit income in his first benefit week means, subject to paragraphs (2) to (5) and (7), and regulation 13(1) (special provisions for persons in residential care and nursing homes), the aggregate of the amount of any of the following benefits or payments to which he or his partner was, or both were, entitled in respect of that week–
+
+- (a) supplementary benefit;
+- (b) family income supplement;
+- (c) child benefit;
+- (d) any benefit under the Social Security Act;
+- (e) war disablement pension;
+- (f) war widow's pension;
+- (g) any payment made under a scheme made under the Industrial Injuries and Diseases (Old Cases) Act 1975 [^c2180922];
+- (h) statutory maternity pay under Part V of the Act;
+- (i) statutory sick pay under Part I of the Social Security and Housing Benefits Act 1982 [^c2180923];
+- (j) any payment made otherwise than in accordance with any of the Acts under which the benefits or payments specified in sub-paragraphs (a) to (g) are made under arrangements made by the Secretary of State with the consent of the Treasury which is charged to the National Insurance Fund or to a Departmental Expenditure Vote to which payments of any benefit or payment specified in those sub-paragraphs are charged.
+
+(2) Where a change of circumstances takes effect in a person's second benefit week which, had it taken effect in his first benefit week, would have resulted in a lesser amount of supplementary benefit being payable in respect of that week, the amount of supplementary benefit to be taken into account for the purpose of calculating his total benefit income in his first benefit week shall be the amount (if any) that would have been payable had the change of circumstances taken effect in that week but this paragraph shall not apply where the change of circumstances is the admission to hospital of the person in his second benefit week[^M_F_be324e10-b905-4b64-c2ac-978bc663c570].
+
+(3) If a former beneficiary's requirements for the purpose of calculating his entitlement to supplementary benefit in respect of his first benefit week include an amount in respect of housing requirements under Part IV of the Requirements Regulations to which he is entitled by virtue of regulation 14(4) of those Regulations (housing requirements) and, in a case to which sub-paragraph (a) of that provision applies, if in that week he has been absent from his home for 52 weeks or more, the amount of supplementary benefit taken into account for the purpose of calculating his total benefit income in that benefit week shall be reduced by the amount of those housing requirements.
+
+(4) If, in respect of his first benefit week, a former beneficiary who is entitled to supplementary benefit in respect of that benefit week is also entitled to housing benefit in the form of a rate rebate, his total benefit income in that benefit week shall be increased by–
+
+- (a) if he is a single claimant aged under 25, £1.00;
+- (b) in any other case, £1.30.
+
+(5) Where a claimant, other than one whose requirements were modified under regulation 10 (2) or (3) of the Requirements Regulations (modifications of normal requirements in special cases), is–
+
+- (a) a member of a couple and either he or his partner has been in hospital immediately before 11th April 1988 for at least 6, but not more than 9, weeks; or
+- (b) a lone parent who immediately before that date has been in hospital for at least 6 weeks,
+
+the amount of supplementary benefit to be taken into account for the purpose of calculating his total benefit income in his first benefit week shall be the amount (if any) that would have been payable had his requirements fallen to be determined in accordance with paragraph 2 of Schedule 3 to the Requirements Regulations (modifications in the case of patients).
+
+(6) In this Part a person's total benefit income in relation to his second and any subsequent benefit week means, subject to paragraph (7) and regulation 13(1) (persons in residential care and nursing homes), the aggregate of the following amounts–
+
+- (a) the amount of any income support, family credit and child benefit to which he or his partner is, or both are, entitled in respect of that week;
+- (b) where he or his partner is, or both are, entitled in respect of that week to any benefit or payment specified in paragraph (1)(d) to (i), the amount of the weekly rate of that benefit to which he is normally entitled as increased, if appropriate, by any order made by the Secretary of State under section 63 of the Act with effect from 11th April 1988;
+- (c) any payment referred to in paragraph (1)(j) which he or his partner receives, or both receive, in respect of that week.
+
+(7) The amount of any of the benefits specified in sub-paragraphs (a) to (c) of this paragraph shall, to the extent that it is disregarded for the purpose of calculating a person's resources under the Supplementary Benefit (Resources) Regulations 1981 [^c2180924] or a person's income under the General Regulations, be disregarded for the purpose of calculating a person's total benefit income in his first, second or any subsequent benefit week–
+
+- (a) mobility allowance;
+- (b) mobility supplement; and
+- (c) attendance allowance.
+
+(8) In this Part references to a person's income in a benefit week subsequent to his first benefit week are references to his income, and the income of any member of his family which would be treated as his under section 22(5) of the Act, calculated under Part V of the General Regulations (income and capital).
+
+(9)[^M_F_3f8255be-3c53-467f-cf85-512d53a499f4] For the purposes of paragraph (1)(a) or (6)(a), where a claimant is a person to whom regulation 8 of the Requirements Regulations or regulation 22 of the General Regulations (reductions in certain cases of unemployment disqualification) applies, the amount of supplementary benefit or income support to be taken into account shall be the amount to which the claimant would have been entitled but for that regulation.
+
+### 10. Transitional addition
+
+(1) Except in a case to which regulation 11 or 12 applies (special provisions for patients and persons in board and lodging accommodation or hostels) and subject to the following provisions of this Part, where–
+
+- (a) a former beneficiary was entitled to supplementary benefit in respect of his first benefit week; and
+- (b) either–
+  - (i) he is awarded income support in respect of his second benefit week; or
+  - (ii) he is not entitled to income support in respect of that week only because his applicable amount calculated in accordance with the General Regulations does not exceed his income; and
+- (c) his total benefit income in his second benefit week is less than his total benefit income in his first benefit week,
+
+he shall be entitled to a transitional addition.
+
+(2) Subject to regulation 12(2), 13(5) or 14 (special provision for persons in residential care or nursing homes and reduction and termination of transitional and personal expenses addition), and except in a case to which paragraph (3) applies, the amount of the transitional addition to which a former beneficiary is entitled under paragraph (1) shall be the difference between his total benefit income in his first and second benefit weeks.
+
+(3) Subject to regulation 14 the amount of the transitional addition applicable to a former beneficiary who in respect of his first benefit week was entitled to a domestic assistance addition of £10 or more shall be the amount (if any) obtained by subtracting from his total benefit income in his first benefit week the amount of his domestic assistance addition, the sum determined under paragraph (4) and, where applicable, (5).
+
+(4) The sum for the purposes of paragraph (3) shall be–
+
+- (a) in a case where in his second benefit week a severe disability premium is applicable to the former beneficiary for the purpose of calculating his applicable amount under Part IV of the General Regulations (applicable amounts), his total benefit income in his second benefit week less the amount of that premium;
+- (b) in any other case, his total benefit income in his second benefit week.
+
+(5) If the amount of the former beneficiary's domestic assistance addition is less than the amount of his severe disability premium, the sum for the purposes of paragraph (3) shall be the amount of the difference between the addition and the premium.
+
+### 11. Special provisions for patients
+
+(1) Where, immediately before 11th April 1988–
+
+- (a) a claimant was a member of a married or unmarried couple for the purposes of paragraph 3(1) of Schedule 1 to the Supplementary Benefits Act 1976 or a spouse of a polygamous marriage; and
+- (b) he or any partner was entitled to supplementary benefit; and
+- (c) he was not himself a patient but any partner of his had been a patient for a period of 52 weeks or more,
+
+he shall, subject to regulations 12 to 14 and 16 (special cases and reduction and termination of, and persons not entitled to, transitional additions), be entitled to a transitional addition calculated in accordance with paragraph (2).
+
+(2) Subject to regulation 14, the amount of the transitional addition to which a claimant is entitled under paragraph (1) shall be the amount (if any) obtained by subtracting from his total benefit income in his first benefit week the amount of his total benefit income in his second benefit week and the amount of his partner’s total benefit income in his partner’s second benefit week[^M_F_308269d2-e234-42cf-83a3-827568bb90e2].
+
+(3) In this regulation, references to a claimant's partner are references to the person who, immediately before 11th April 1988 was the other member of a married or unmarried couple for the purposes of paragraph 3(1) of Schedule 1 to the Supplementary Benefits Act 1976 or was a spouse to whom the former beneficiary was polygamously married.
+
+### 12. Special provisions for persons in board and lodging accommodation and hostels
+
+(1) Where a claimant is temporarily absent for a period not exceeding 13 weeks which includes his first or second benefit week (or both)[^M_F_2d83b361-e895-43cf-d7cc-588d84ac761a] from his board and lodging accommodation or his hostel and, in the case of board and lodging accommodation was immediately before his absence entitled to an increase under regulation 9(7) of the Requirements Regulations [^c2180925] (modifications of requirements of boarders), he shall, notwithstanding regulation 14 (reduction and termination of transitional addition), on his return to that accommodation be entitled to a transitional addition of an amount equal to the difference between–
+
+- (a) the amount that his total benefit income in his first benefit week would have been had he been entitled in respect of that week to supplementary benefit on the basis that he was in that board and lodging accommodation or hostel; and, if less,
+- (b) the amount of his total benefit income in the first complete benefit week in respect of which his applicable amount for the purpose of calculating his entitlement to income support is to be calculated under Schedule 5 to the General Regulations (applicable amounts for persons in board and lodging accommodation and hostels).
+
+(2) If a claimant becomes entitled to a transitional addition under paragraph (1) he shall cease to be entitled to any transitional addition to which he would, but for this provision, be entitled under regulation 10 (transitional addition) while not in board and lodging accommodation or a hostel.
+
+(3) Where a claimant who is in board and lodging accommodation or a hostel and who is entitled to a transitional addition under paragraph (1) or regulation 10 (transitional addition) temporarily leaves his board and lodging accommodation or a hostel for a period of 8 weeks or less or, if he becomes a patient, for a period of 14 weeks or less and, in the case of board and lodging accommodation he is entitled to an increase under paragraph 7 of Schedule 5 to the General Regulations, any increase in his applicable amount for the purpose of calculating his entitlement to income support on his return to that accommodation shall be disregarded for the purpose of regulation 14(1) (reduction in transitional addition).
+
+(4) Regulation 14(3) and (4)[^M_F_8423299a-edc8-455f-d18b-08d7d5e82d3f] (re-entitlement to a transitional addition after periods of 8 weeks or less) shall apply to a claimant who is in board and lodging accommodation and entitled to an increase under paragraph 7 of Schedule 5 to the General Regulations, or in a hostel and who, in either case was immediately before the period of 8 weeks, entitled to a transitional addition under paragraph (1) or regulation 10 notwithstanding that the amount of the transitional addition to which he is entitled is less than £10.
+
+### 13. Special provisions for persons in residential care and nursing homes
+
+(1) For the purpose of calculating the total benefit income of a former beneficiary who is in a residential care or nursing home, where in his first benefit week an allowance for personal expenses is applicable under regulation 9(17)(e) of the Requirements Regulations [^c2180926] (personal expenses for boarders)–
+
+- (a) in that benefit week, the amount of that allowance shall be deducted from the amount of supplementary benefit to which he is entitled in respect of that week; and
+- (b) in his second benefit week, the amount in respect of personal expenses applicable in his case under paragraph 13 of Schedule 4 to the General Regulations (applicable amounts of persons in residential care or nursing homes) shall be deducted from the amount of income support to which he is entitled in respect of that week.
+
+(2) Subject to paragraph (3) and to regulation 16(1) (persons not entitled to personal expenses addition), a former beneficiary to whom paragraph (1) applies shall be entitled, in addition to any transitional addition to which he may be entitled under paragraph (5) or regulation 10 (transitional addition), to a personal expenses addition of an amount equal to the difference between the amount of the allowance for personal expenses under regulation 9(17)(e) of the Requirements Regulations referred to in paragraph (1) and, if less, the amount of the allowance for personal expenses referred to in paragraph (1)(b).
+
+(3) The amount of the personal expenses addition under paragraph (2), (6) or (8)[^M_F_01d926dd-6594-4e53-df88-9ca38822c85e] shall be reduced by the amount of any increase in the amount in respect of personal expenses referred to in paragraph (1)(b).
+
+(4) Subject to paragraphs (5) and (8), a claimant who ceases to reside or, if he is a member of a family, who and whose family cease to reside, in a residential care or nursing home [^M_F_f3d9f1ab-ad7b-49ee-84b7-52e1b908f7dd]..., shall cease to be entitled to any transitional addition and personal expenses addition under this Part except where he ceases or, as the case may be, he and his family cease, to reside in the home in the circumstances specified in paragraph 16 or 18 of column (1) of Schedule 7 to the General Regulations (applicable amounts in special cases) and he intends or, as the case may be, they intend to return to the home[^M_F_af98e8d6-2072-4de6-e10c-77c81c7b36b8].
+
+(5) Notwithstanding regulation 14 (reduction and termination of transitional and personal expenses addition), where a claimant is temporarily absent from his residential care or nursing home for a period which includes his first or second benefit week (or both)[^M_F_5099ae7e-da8f-42b9-b7b4-0c4ad78178a1], he shall be entitled on his return to a residential care or nursing home to a transitional addition of an amount equal to the difference between–
+
+- (a) the amount that his total benefit income in his first benefit week would have been had he been entitled in respect of that week to supplementary benefit calculated on the basis that he was a boarder in that residential care or nursing home for that week; and, if less,
+- (b) the amount of his total benefit income in the first complete week in respect of which his applicable amount for the purpose of calculating his entitlement to income support is to be calculated in accordance with Schedule 4 to the General Regulations (applicable amounts for claimants in residential care and nursing homes).
+
+(6) A claimant to whom paragraph (5) applies and to whom in respect of his first benefit week an allowance for personal expenses would have been applicable under regulation 9(17)(e) of the Requirements Regulations shall also be entitled to a personal expenses addition of an amount equal to the difference between the amount that his personal expenses allowance would have been in respect of his first benefit week and, if less, the amount in respect of personal expenses applicable under paragraph 13 of Schedule 4 to the General Regulations.
+
+(7) If a claimant becomes entitled to a transitional addition under paragraph (5) he shall cease to be entitled to any transitional addition to which he would, but for this provision, be entitled under regulation 10 (transitional addition) while not in a residential care or nursing home.
+
+(8) Notwithstanding regulation 14 (reduction and termination of transitional and personal expenses addition), where a claimant is temporarily absent from his residential care or nursing home for a period after his second benefit week (whether or not he thereby ceases to be entitled to income support), he shall be entitled on his return to a residential care or nursing home to —[^M_F_a55c8137-c790-44cd-c18d-094ddf65c971]
+
+- (a) a transitional addition equal to the amount to which he was entitled immediately before his period of temporary absence less, if his applicable amount would have increased had he not been absent, the amount of the increase; and for the purposes of this sub-paragraph, any increase in the amount of personal expenses where a personal expenses addition is in payment shall be disregarded;
+- (b) a personal expenses addition equal to the amount to which he was entitled immediately before his period of temporary absence less, if the amount of personal expenses applicable in his case under paragraph 13 of Schedule 4 to the General Regulations would have increased had he not been absent, the amount of that increase.
+
+(9) For the purposes of paragraphs (5), (8) and (10) a claimant is temporarily absent only if the period of his temporary absence does not exceed–
+
+- (a) in the case of a person who is of pensionable age, 52 weeks; or
+- (b) in any other case, 13 weeks.
+
+(10) Where a claimant–
+
+- (a) was in receipt of supplementary benefit as a boarder in a residential care or nursing home within the meaning of regulation 9 of the Requirements Regulations (boarders) and immediately before 11th April 1988 his requirements fell to be determined in accordance with paragraph (17)(a) to (e) or (i) to (k) of that regulation (protected amounts); or
+- (b) would have satisfied the conditions in sub-paragraph (a) above but for his being temporarily absent from such a home,
+
+and he ceases to be entitled to income support and a transitional addition or personal expenses addition or both, he shall notwithstanding regulation 14, if he becomes re-entitled to income support, become re-entitled to such an addition of the same amount as he would have been entitled to had he not ceased to be entitled to income support, provided that he has continued since that date to be resident in a residential care or nursing home.
+
+(11) Where–
+
+- (a) the claimant's partner has died; and
+- (b) immediately before his death the partner was entitled to a transitional addition or personal expenses addition or both under this Part; and
+- (c) after the partner's death the claimant has continued to be a resident in the same accommodation as he and his partner occupied immediately before the partner's death,
+
+the claimant shall be entitled to a transitional addition or personal expenses addition or both equal to one-half of the amount to which his partner was entitled immediately before his death.
+
+### 14. Reduction and termination of transitional and personal expenses addition
+
+(1) The amount of a claimant's transitional addition shall be reduced–
+
+- (a) if, in respect of any benefit week subsequent to his second benefit week, he is entitled to income support as well as a transitional addition and his applicable amount under Part IV or[^M_F_35254463-dda7-45fa-b67f-68ff96c89a52] VI of the General Regulations increases, by the amount of that increase but this sub-paragraph shall not apply to an increase to which regulation 13(3) applies (increase in personal expenses)[^M_F_fb63ea36-b823-492d-8e95-e2f843eeaffc];
+- (b) if, in respect of any benefit week subsequent to his second benefit week, he is entitled only to a transitional addition or, as the case may be, to a transitional addition and special transitional addition[^M_F_c0d42da2-edb4-452a-ed94-3d4b5bcdc2a1], by the amount of any increase in his income.
+- (c) if, in respect of any benefit week subsequent to his second benefit week, he is entitled only to a transitional addition and personal expenses addition under regulation 13(2) (special provision for persons in residential care or nursing homes), by the amount of any increase in his income;
+- (d) if, in respect of any benefit week subsequent to his second benefit week he becomes entitled to income support as a result of an increase in his applicable amount under Part IV or[^M_F_abd07adf-876a-4eec-c105-19be1471906d] VI of the General Regulations and immediately before that increase he was entitled only to a transitional addition, by the amount of that increase less the amount by which his income exceeded his applicable amount prior to that increase;
+- (e) if, in respect of any benefit week subsequent to his second benefit week he ceases to be entitled to income support because his income exceeds his applicable amount, by the amount by which his income exceeds the applicable amount.
+
+(1A)[^M_F_be25c6e0-f221-4a40-ecb5-5d2b22e1db0d] Notwithstanding paragraph (1)(a) or (d) where regulation 21A or 22[^M_F_8bab20d8-5da6-480f-e777-09c3a573b236] of the General Regulations (reductions in applicable amounts) ceases to apply to the claimant and as a result his applicable amount increases, his transitional addition shall not be reduced by the amount of that increase.
+
+(1B) Notwithstanding paragraph (1) (a) or (d) where a person has entered accommodation referred to in any of sub-paragraphs (a) to (d) of the definition of residential accommodation in regulation 21(3) of the General Regulations (special cases), or a residential care home or nursing home, for a period of 8 weeks or less and as a result his applicable amount increases, his transitional addition shall not be reduced by the amount of that increase.
+
+(1C)[^M_F_009427bb-ada7-4a07-ae47-bf2fd5e1f5ba] Notwithstanding paragraph (1)(b), (c) or (e) the amount of a claimant’s transitional addition shall not be reduced if, and to the extent that, the increase in his income or, as the case may be, the reason his income exceeds his applicable amount, is attributable to the receipt of a training allowance.
+
+(1CA)[^M_F_e87dd7bc-5f7f-4068-fa80-7cdce234395b] Notwithstanding paragraph (1)(b), (c) or (e) the amount of a claimant’s transitional addition shall not be reduced if, and to the extent that, the increase in his income or, as the case may be, the reason his income exceeds his applicable amount is attributable to the amendments made by regulation 2 of the Child Benefit and Social Security (Fixing and Adjustment of Rates) Amendment No. 2 Regulations 1991.
+
+(1D)[^M_F_a6525873-e66a-4982-d6f7-4056aa447c4b] Notwithstanding paragraph (1)(a) or (d), the amount of a claimant’s transitional addition shall not be reduced if, and to the extent that, the increase in his applicable amount is attributable to the amendments made by regulation 5(a) and (c) of the Income Support (General) Amendment Regulations 1989 and that increase in his applicable amount takes effect in his benefit week beginning on a day during the period of 7 days commencing on 9th October 1989.
+
+(1DA)[^M_F_0ae67cf2-457b-41d1-b540-7d71834e72cf] Notwithstanding paragraph (1)(a) or (d), the amount of a claimant’s transitional addition shall not be reduced if, and to the extent that, the increase in his applicable amount is attributable to the amendments made by regulation 15(a), (b) or (c) of the Income Support (General) Amendment No.4 Regulations 1991 and that increase in his applicable amount takes effect in his benefit week beginning on a day during the period of 7 days commencing on 1st October 1991.
+
+(1DZA)[^M_F_38af3f82-5533-44fb-dde7-1399cd04cc44] Notwithstanding paragraph (1)(a) or (d), the amount of a claimant’s transitional addition shall not be reduced if, and to the extent that, the increase in his applicable amount is attributable to the amendments made by regulation 3(1) and (2) of the Income-Related Benefits Amendment Regulations 1992 and that increase in his applicable amount takes effect in his benefit week beginning on a day during the period of 7 days commencing on 5th October 1992.
+
+(1E) Notwithstanding paragraph (1)(a) or (d), where a claimant’s applicable amount increases by virtue of his or his partner’s participation or ceasing to participate in arrangements for training made under section 2 of the Employment and Training Act 1973 or section 2 of the Enterprise and New Towns (Scotland) Act 1990[^key-256a8ba7842da9bc49252c076ddabd55] or his or his partner’s attendance or ceasing to attend at a course at an employment rehabilitation centre established under that section of the 1973 Act[^key-8b04fd89e386b887624abc514375e932], his transitional addition shall not be reduced by the amount of that increase.
+
+(1F) Notwithstanding paragraph (1)(a) or (d), where–
+
+- (a) a claimant has ceased to be entitled to a transitional addition because he or his partner becomes engaged in remunerative work and immediately before he so ceased a higher pensioner premium or a disability premium was applicable to him under paragraph 10 or, as the case may be, 11 of Schedule 2 to the General Regulations (applicable amounts); and
+- (b) he becomes re-entitled to that addition by virtue of paragraph (3A) or (4A) or regulation 15(4) (special transitional addition), his transitional addition shall not be reduced if the higher pensioner premium or the disability premium again becomes applicable to him to the extent that any increase in his applicable amount is attributable to that premium.
+
+(1G)[^M_F_09ac531e-f924-45c8-b481-b210b482f2f1] Notwithstanding paragraph (1)(a) or (d), where a claimant’s applicable amount increases because a child or young person mentioned in paragraph (5)(c) of regulation 16 of the General Regulations (circumstances in which a person is treated or not treated as a member of the household) is treated as a member of the claimant’s household under paragraph (6) of that regulation, the claimant’s transitional addition shall not be reduced by the amount of that increase unless the child or young person has been treated as a member of the household for a continuous period which exceeds eight weeks.
+
+(2) A claimant shall cease to be entitled to a transitional addition if–
+
+- (a) in the case of a claimant who is entitled to income support as well as a transitional addition–
+  - (i) subject to regulation 15(4) (special transitional addition), he ceases to be entitled to income support for a reason other than that his applicable amount under Part IV of the General Regulations (applicable amounts) does not exceed his income; or
+  - (ii) the amount of his transitional addition is reduced to nil by virtue of paragraph (1); or
+- (b) in the case of a claimant to whom paragraph (1)(b), (c) or (e) applies–
+  - (i) subject to regulation 15(4), he would no longer, if he claimed, be entitled to income support for a reason other than that his applicable amount under Part IV of the General Regulations does not exceed his income; or
+  - (ii) the amount of his transitional addition is reduced to nil by virtue of paragraph (1).
+
+(3) Except where paragraph (3A) applies,[^M_F_c6c31d71-e667-45db-a3ea-4a6a42168af5] a claimant who either–
+
+- (a) has ceased to be entitled to income support but remained entitled to a transitional addition; or
+- (b) has ceased to be entitled to income support and a transitional addition,
+
+and immediately before he so ceased he was entitled to a transitional addition of £10 or more shall, if he becomes re-entitled to income support not more than 8 weeks after the day on which he has ceased to be so entitled, in the benefit week in which he becomes re-entitled, be re-entitled to a transitional addition of an amount equal to the amount of the transitional addition to which he was previously entitled subject to any reduction in that amount which would have occurred under paragraph (1)(a) had he remained entitled to income support.[^M_F_6e39293b-8fc3-4d1e-f09e-e27a973336e5]
+
+(3A)[^M_F_c3f26b88-19e2-4f6c-c736-09a8a9390321] A claimant who has ceased to be entitled to income support and a transitional addition because he or his partner has become engaged in remunerative work shall, if during the permitted period determined in accordance with regulation 2A (permitted period) beginning with the day after the day on which he ceased to be so entitled he or his partner has ceased to be engaged in that work, be re-entitled to a transitional addition of an amount equal to the amount of the transitional addition to which he was previously entitled subject to any reduction in that amount which would have occurred under paragraph (1)(a) had he remained entitled to income support.
+
+(4) Except where paragraph (4A) applies,[^M_F_e0e7ca3a-093d-4097-b781-3ad0cf9982e6] a claimant who, was entitled only to a transitional addition of £10 or more and who has ceased to be entitled to such an addition–
+
+- (a) for a reason other than that his income exceeds his applicable amount; or
+- (b) because his income exceeds his applicable amount and the amount of his transitional addition,
+
+shall, if not more than 8 weeks after the day on which he ceased to be so entitled neither the reason in sub-paragraph (a) nor (b) applies to him, be re-entitled to a transitional addition of an amount equal to the amount by which his total benefit income in his first benefit week exceeds his total benefit income in the benefit week in which neither sub-paragraph applies to him, or the amount to which he was previously entitled, whichever is the lower.[^M_F_7b0571a5-d34d-49b6-d739-839916c675f9]
+
+(4A)[^M_F_0bb88cbb-fa74-4c35-8d49-e8338157831c] A claimant who was entitled only to a transitional addition and who has ceased to be entitled to such an addition because he or his partner became engaged in remunerative work shall, if during the permitted period determined in accordance with regulation 2A beginning with the day after the day on which he has ceased to be so entitled he or his partner ceased to be engaged in that work, be re-entitled to a transitional addition of an amount equal to the amount by which his total benefit income in his first benefit week exceeds his total benefit income in the benefit week in which he becomes re-entitled, or the amount to which he was previously entitled, whichever is the lower.
+
+(5) The amount of a claimant's personal expenses addition shall be reduced if, in any benefit week, he is entitled only to a personal expenses addition, by the amount of any increase in his income but not if, and to the extent that, the increase is attributable to the receipt of a training allowance[^M_F_64c19e88-64e7-4b31-d7c7-1bc9ad7f9bc7].
+
+(6) A claimant shall cease to be entitled to a personal expenses addition if–
+
+- (a) in the case of a claimant who is entitled to income support as well as a personal expenses addition–
+  - (i) he ceases to be entitled to income support for a reason other than that his applicable amount under Part IV of the General Regulations (applicable amounts) does not exceed his income; or
+  - (ii) the amount of his personal expenses addition is reduced to nil by virtue of paragraph (5) or regulation 13(3).
+- (b) in the case of a claimant who is entitled only to a personal expenses addition–
+  - (i) he would no longer, if he claimed, be entitled to income support for a reason other than that his applicable amount under Part IV of the General Regulations does not exceed his income; or
+  - (ii) the amount of his personal expenses addition is reduced to nil by virtue of paragraph (5) or regulation 13(3).
+
+### 15. Special transitional addition[^key-90367fddd2e1dce16ce79ccdd3b09923][^key-2059b6eafeaf02814d6318a032b8971b][^key-81d7c9fcc8f2d8007acded4887dfb55a][^key-afaf490346a210175abb5cffbb831ef6][^key-8e365b76953253460be180f6e8cc0edb][^key-1f1dd7d0b0d9e95f851299a4843df483][^key-28e683c76fe39f142905d074052c47b0][^key-e916c20195ab3ddf8c696697353d009d][^key-edb2ae518c78640ded1b1ec8d2e27af9][^key-b5474013de673d65b689d8bc8f26ec6b][^key-e42f4855ffac2bf98f5b17d9ef9eb267][^key-a8c385ac690e396ff8364d3f5b098674][^key-9bda0f40642bd26a8c85127dcf1650af][^key-668748b98e71b3fde229bb8d6ca684da][^key-a72b834aeb19d3513e28a19b55ce2355][^key-90e2600773ca6ccfab6d49deb8cfae7a][^key-c34eae4ce8d820c63dccc6e6254ff342][^key-d484af913787f56e689cd33a2027619b][^key-7e21ca7c1f84b4f9bb6a06fc9fe3f3ea][^key-5e6dbd059379a2a237b66eb109c9e074][^key-fbbf742b1b0baa40a8dfa0f0a74a56d4][^key-c62878cb3d33b30c9f998b816083e622][^key-2f841f8772e1bad265d95c5fb594f400][^key-8339fe9815418418cf288c96b19a5986][^key-5cf481172a10148e9a4aaeb814cc6dcb][^key-8ddf5e3273552cd4c8e1a2c21d6c0c9f][^key-0386138823cba3fa2d47e440b8c7e1df][^key-f093b7c1ce296177f0f4745bb23efa88]
+
+(1) Subject to regulation 16 (persons not entitled to transitional additions), where the amount of a claimant's domestic assistance addition in respect of his first benefit week is £10 or more and is greater than the amount (if any) of the severe disability premium for the purpose of calculating his applicable amount under Part IV of the General Regulations (applicable amounts) in his second benefit week[^M_F_fc1e57d6-235c-49b9-ac82-dfdfd6b54aaa], he shall be entitled to a special transitional addition of an amount equal to the difference between his domestic assistance addition and the severe disability premium (if any)[^M_F_07c74d9b-76a2-4de1-86d6-2459f363488a].
+
+(2) Where a claimant is not entitled to income support or a transitional addition, the amount of a special transitional addition under paragraph (1) to which he is entitled shall be reduced by the amount of any increase in his income but not if, and to the extent that, the increase is attributable to the receipt of a training allowance[^M_F_2f8bf49d-ebb8-4153-9c6f-eb9d9ef3a240] or to the receipt of an increase in the weekly rate of child benefit which is attributable to the amendments made by regulation 2 of the Child Benefit and Social Security (Fixing and Adjustment of Rates) Amendment No.2 Regulations 1991.[^M_F_27fa218e-f144-4871-f491-7cf8982dd738]
+
+(3) Subject to paragraph (4) a claimant shall cease to be entitled to a special transitional addition under paragraph (1) if–
+
+- (a) he ceases to be entitled to income support for a reason other than that his applicable amount under Part IV of the General Regulations (applicable amounts) does not exceed his income; or
+- (b) his applicable amount for the purposes of calculating his entitlement to income support falls to be determined under Schedule 4 to, or paragraphs 1 to 4, 13 and 18 of Schedule 7 to, the General Regulations (applicable amounts for persons in residential care and nursing homes or residential accommodation or hospital patients); or[^M_F_c3ca881a-1ee7-4503-fd53-5a29d44e325a]
+- (c) in the case of a claimant who is entitled to income support as well as a transitional addition he ceases to be entitled to income support and a transitional addition for a reason other than that his applicable amount under Part IV of the General Regulations does not exceed his income; or
+- (d) in the case of a claimant who is entitled to a transitional addition and a special transitional addition he would not, if he claimed, be entitled to income support for a reason other than that his applicable amount under Part IV of the General Regulations does not exceed his income; or
+- (e) he would, but for this sub-paragraph, be entitled only to a special transitional addition and he would not, if he claimed, be entitled to income support for a reason other than that his applicable amount does not exceed his income; or
+- (f) the amount of his special transitional addition is reduced to nil by virtue of paragraph (2).
+
+(4) Where a claimant ceases to be entitled to a special transitional addition–
+
+- (a)[^M_F_147c51c0-e48a-407c-fcc5-8c4d75b829e8] by virtue of paragraph (3)(a), (c), (d) or (e) he shall be re-entitled to such an addition of the same amount as previously if, during the permitted period determined in accordance with regulation 2A (permitted period) beginning with the day after[^M_F_3de41f19-10ce-4600-8874-a9f2002a2a9e] the day on which he ceased to be so entitled, he becomes re-entitled to income support or a transitional addition;
+- (b) by virtue of paragraph (3)(b) he shall be re-entitled to such an addition of the same amount as previously if, during the permitted period determined in accordance with regulation 2A (permitted period) beginning with the day after[^M_F_13c9af25-99f0-49c6-af98-d8739a633a7a][^M_F_f4b76373-fea1-48cd-91a6-b8ad3d157d88] the day on which his applicable amount fell to be determined under the provisions of the General Regulations referred to in paragraph (3)(b), those provisions ceased to apply to him.
+- (c)[^M_F_d8cd4ae0-ed85-437a-c901-99933bad626e] by virtue of paragraph (3)(f) he shall be re-entitled to such an addition of the same amount as previously if during the permitted period determined in accordance with regulation 2A (permitted period) beginning with the day after[^M_F_5470e314-61b2-44a1-d3e5-da8cd427dde1] the day on which he ceased to be so entitled the reason for the cessation ceased to apply to him.
+
+### 16. Persons not entitled to transitional additions
+
+(1) A person without accommodation shall not be entitled to a transitional addition, personal expenses addition or a special transitional addition.
+
+(2) A person who is in board and lodging accommodation or a hostel shall not be entitled to a special transitional addition.
+
+(3)[^M_F_2a7d980c-b90c-48dd-b9f4-7fb9d262bd73] A prisoner within the meaning of regulation 21(3) of the General Regulations (special cases) shall not be entitled to a transitional addition, personal expenses addition or special transitional addition.
+
+Signed by authority of the Secretary of State for Social Services
+
+Nicholas Scott
+
+Minister of State,
+
+Department of Health and Social Security
+
+*(This note is not part of the Regulations)*
+
+These Regulations make transitional provisions consequential on the winding up of supplementary benefit and the introduction of income support on 11th April 1988.
+
+Part 1 contains provisions as to the making and deeming of claims, and for the determination of such claims, before 11th April 1988 (regulations 3 and 4). Provision is also made for deeming certain questions determined for supplementary benefit as determined for income support and for the treatment of earnings paid on termination of employment, and of other income paid, before 11th April (regulation 5); for the continuance after that date of appointments made in relation to persons unable to act (regulation 6), and for the treatment for income support purposes of certain periods relating to supplementary benefit (regulation 8). The Regulations also make arrangements for continuing payment of supplementary benefit for a maximum of 7 days after 11th April 1988 and for transitional payments of income support to those becoming entitled to payment in arrears of income support immediately following a period of being entitled to payments in advance of supplementary benefit (regulation 7).
+
+Part II makes provision for persons whose total benefit income in the week before 11th April 1988 is in excess of their benefit income in the following week to be entitled, in addition to income support, to an amount of benefit equal to the difference (“a transitional addition”) and provides for a person's benefit income in the week before 11th April to be increased if before that date he is entitled to a rate rebate (regulations 9 and 10). Certain modifications are made in the case of claimants whose partners are patients (regulation 11); persons temporarily absent from board and lodging accommodation or hostels (regulation 12); and persons in residential care and nursing homes and provision is also made for a personal expenses addition equal to the difference in the personal allowances pre and post 11th April 1988 to be paid in such a case (regulation 13).
+
+The Regulations provide for a reduction in the transitional addition where there is an increase in the claimant's income; and for its termination where it is reduced to nil or the claimant ceases to be entitled to income support otherwise than on the basis of his income (regulation 14). In addition, they make provision for a special transitional addition, for certain groups entitled before 11th April 1988 to a domestic assistance addition of £10.00 or more, equal to the difference between the addition and the severe disability premium (regulation 15); and preclude from entitlement to any addition under Part II a person without accommodation (regulation 16).
+
+These Regulations contain only provisions consequential on sections 20 to 23 and 51 of the Social Security Act 1986 in their application to income support and are made before the expiry of 12 months from the commencement of those sections. Accordingly, the Regulations are exempt, by section 61(5) of that Act from reference to the Social Security Advisory Committee and have not been so referred.
+
+## Annotations
+
+[^c2180910]: Marginal citation: [1986 c. 50](https://www.legislation.gov.uk/ukpga/1986/50); [section 84(1)](https://www.legislation.gov.uk/uksi/1987/1969/section/84/1) is cited because of the meaning assigned to the word “regulations”.
+
+[^key-d2f99d56abf46520cb8d94e3895a341c]: Modification: [Instrument](https://www.legislation.gov.uk/uksi/1987/1969) excluded (with effect in accordance with reg. 22 of the amending S.I.) by [The Employment and Support Allowance (Transitional Provisions, Housing Benefit and Council Tax Benefit) (Existing Awards) (No. 2) Regulations 2010 (S.I. 2010/1907)](https://www.legislation.gov.uk/uksi/2010/1907), [reg. 22(d)](https://www.legislation.gov.uk/uksi/2010/1907/regulation/22/d) (with [reg. 3](https://www.legislation.gov.uk/uksi/2010/1907/regulation/3))
+
+[^c2180911]: Marginal citation: [S.I. 1980/1643](https://www.legislation.gov.uk/uksi/1980/1643); the relevant amending instruments are [S.I. 1981/815](https://www.legislation.gov.uk/uksi/1981/815), 1982/907, 1983/337 and 1984/458.
+
+[^c2180912]: Marginal citation: [S.I. 1987/1968](https://www.legislation.gov.uk/uksi/1987/1968).
+
+[^c2180913]: Marginal citation: [S.I. 1987/1967](https://www.legislation.gov.uk/uksi/1987/1967).
+
+[^c2180914]: Marginal citation: 1983/1399, as amended by [S.I. 1984/282](https://www.legislation.gov.uk/uksi/1984/282), 1102, 1103, 2034, 1985/1247, 1835, 1986/1173, 1292, 1987/17, 49, 659, 1325.
+
+[^c2180915]: Marginal citation: [1975 c. 14](https://www.legislation.gov.uk/ukpga/1975/14).
+
+[^c2180916]: Marginal citation: [1976 c. 71](https://www.legislation.gov.uk/ukpga/1976/71), as amended by section 6(1) of, and Part I of Schedule 2 to, the [Social Security Act 1980 (c. 30)](https://www.legislation.gov.uk/ukpga/1980/30).
+
+[^M_F_a2613cde-c811-441b-ca07-ec67a97f7613]: Textual amendment: Reg. 2(3) added (7.10.1996) by The Jobseeker’s Allowance Regulations 1996, [S.I. 1996/207](https://www.legislation.gov.uk/uksi/1996/207), [reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/207/regulation/1/2), [29(2)](https://www.legislation.gov.uk/uksi/1996/207/regulation/29/2)
+
+[^key-71924f301be4995a7e2182dafc99d186]: Modification: Reg. 2A modified by S.I. 1996/207, reg. 87(7) (as amended (7.10.1996) by [The Jobseeker’s Allowance and Income Support (General) (Amendment) Regulations 1996 (S.I. 1996/1517)](https://www.legislation.gov.uk/uksi/1996/1517), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1996/1517/regulation/1/1), [20](https://www.legislation.gov.uk/uksi/1996/1517/regulation/20))
+
+[^M_F_475601d8-0ad1-4d16-d084-7d5592c9e0c6]: Textual amendment: Reg. 2A inserted (9.10.1989) by [The Income Support (Transitional) Amendment Regulations 1989 (S.I. 1989/1626)](https://www.legislation.gov.uk/uksi/1989/1626), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1989/1626/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/1989/1626/regulation/2)
+
+[^M_F_c4ea68ae-4ea2-45e9-dd29-d4d6b15e68b2]: Textual amendment: Words in reg. 2A(1)(a) inserted (7.10.1996) by ([The Jobseeker’s Allowance Regulations 1996, S.I. 1996/207](https://www.legislation.gov.uk/uksi/1996/207)), reg. 1(2), 87(7)(a) (as amended (7.10.1996) by [The Jobseeker’s Allowance and Income Support (General) (Amendment) Regulations 1996 (S.I. 1996/1517)](https://www.legislation.gov.uk/uksi/1996/1517), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1996/1517/regulation/1/1), [20](https://www.legislation.gov.uk/uksi/1996/1517/regulation/20))
+
+[^M_F_9e751258-5dd3-47e0-a709-14b2e0db9f71]: Textual amendment: Words in reg. 2A(1)(a) revoked (7.10.1996) by ([The Jobseeker’s Allowance Regulations 1996, S.I. 1996/207](https://www.legislation.gov.uk/uksi/1996/207)), reg. 1(2), 29(3)(a)
+
+[^M_F_7b936d3a-6485-413c-b016-926101b54ccf]: Textual amendment: Reg. 2A(2A)-(2C) inserted (7.10.1996) by The Jobseeker’s Allowance Regulations 1996, ([S.I. 1996/207](https://www.legislation.gov.uk/uksi/1996/207)), reg. 1(2), 87(7)(a) (as amended (7.10.1996) by [The Jobseeker’s Allowance and Income Support (General) (Amendment) Regulations 1996 (S.I. 1996/1517)](https://www.legislation.gov.uk/uksi/1996/1517), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1996/1517/regulation/1/1), [20](https://www.legislation.gov.uk/uksi/1996/1517/regulation/20))
+
+[^key-badbf3516b7dd11f6d7eeb17101e0826]: Textual amendment: Words in [Reg. 2A](https://www.legislation.gov.uk/uksi/1987/1969/regulation/2A)(2A) substituted amendment to earlier affecting provision S.I. 1996/207, reg. 87(7) (22.10.2012) by [The Jobseekers Allowance (Sanctions) (Amendment) Regulations 2012 (S.I. 2012/2568)](https://www.legislation.gov.uk/uksi/2012/2568), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/2568/regulation/1/1), [5(19)](https://www.legislation.gov.uk/uksi/2012/2568/regulation/5/19)(a)
+
+[^M_F_e0f97eb8-4fb0-4168-ddbc-9a6727b993b8]: Textual amendment: Words in [Reg. 2A](https://www.legislation.gov.uk/uksi/1987/1969/regulation/2A)(2B) substituted amendment to earlier affecting provision S.I. 1996/207, reg. 87(7) (22.10.2012) by [The Jobseekers Allowance (Sanctions) (Amendment) Regulations 2012 (S.I. 2012/2568)](https://www.legislation.gov.uk/uksi/2012/2568), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/2568/regulation/1/1), [5(19)](https://www.legislation.gov.uk/uksi/2012/2568/regulation/5/19)(b)
+
+[^M_F_a1be1c2d-3797-47b4-d709-d0dfdd1a4314]: Textual amendment: Reg. 2A(2) revoked (7.10.1996) by ([The Jobseeker’s Allowance Regulations 1996, S.I. 1996/207](https://www.legislation.gov.uk/uksi/1996/207)), reg. 1(2), 29(3)(b)
+
+[^M_F_1995ab0b-3ab2-44fe-ccda-aa597d7e1e6d]: Textual amendment: Reg. 2A(3) revoked (7.10.1996) by ([S.I. The Jobseeker’s Allowance Regulations 1996, 1996/207](https://www.legislation.gov.uk/uksi/1996/207)), reg. 1(2), 29(3)(b)
+
+[^c2180917]: Marginal citation: Section 165A applied by the Act, Schedule 10, paragraph 48.
+
+[^M_F_47124484-af30-4a14-bc77-ea0d83397bb3]: Textual amendment: Reg. 4A inserted (11.4.1988) by [The Income Support (Transitional) Amendment Regulations 1988 (S.I. 1988/521)](https://www.legislation.gov.uk/uksi/1988/521), regs. 1(1), 2
+
+[^c2180918]: Marginal citation: [S.I. 1981/1526](https://www.legislation.gov.uk/uksi/1981/1526).
+
+[^c2180919]: Marginal citation: [S.I. 1981/1527](https://www.legislation.gov.uk/uksi/1981/1527), as amended by [S.I. 1982/1125](https://www.legislation.gov.uk/uksi/1982/1125), 1126, 1127, 1983/503, 1240, 1984/1102, 1985/614, 1246, 1835, 1986/1292, 1293, 1987/17, 659, 660, 1325.
+
+[^c2180920]: Marginal citation: [S.I. 1983/1399](https://www.legislation.gov.uk/uksi/1983/1399); the relevant amending instrument is [S.I. 1985/1835](https://www.legislation.gov.uk/uksi/1985/1835).
+
+[^M_F_3b227099-305f-41f8-cb20-0fd175cd7dd9]: Textual amendment: Reg. 5(6) inserted (11.4.1988) by [The Income Support (Transitional) Amendment Regulations 1988 (S.I. 1988/521)](https://www.legislation.gov.uk/uksi/1988/521), regs. 1(1), 3
+
+[^c2180921]: Marginal citation: [S.I. 1981/1525](https://www.legislation.gov.uk/uksi/1981/1525).
+
+[^M_F_72cec64b-5309-42e6-8716-a3c4e19e22da]: Textual amendment: Reg. 7A inserted (11.4.1988) by [The Income Support (Transitional) Amendment Regulations 1988 (S.I. 1988/521)](https://www.legislation.gov.uk/uksi/1988/521), regs. 1(1), 4
+
+[^c2180922]: Marginal citation: [1975 c. 16](https://www.legislation.gov.uk/ukpga/1975/16).
+
+[^c2180923]: Marginal citation: [1982 c. 24](https://www.legislation.gov.uk/ukpga/1982/24).
+
+[^M_F_be324e10-b905-4b64-c2ac-978bc663c570]: Textual amendment: Words in reg. 9(2) added (11.4.1988) by [The Income Support (Transitional) Amendment Regulations 1988 (S.I. 1988/521)](https://www.legislation.gov.uk/uksi/1988/521), regs. 1(1), 5(a)
+
+[^c2180924]: Marginal citation: [S.I. 1981/1527](https://www.legislation.gov.uk/uksi/1981/1527).
+
+[^M_F_3f8255be-3c53-467f-cf85-512d53a499f4]: Textual amendment: Reg. 9(9) inserted (11.4.1988) by [The Income Support (Transitional) Amendment Regulations 1988 (S.I. 1988/521)](https://www.legislation.gov.uk/uksi/1988/521), regs. 1(1), 5(b)
+
+[^M_F_308269d2-e234-42cf-83a3-827568bb90e2]: Textual amendment: Words in reg. 11(2) added (11.4.1988) by [The Income Support (Transitional) Amendment Regulations 1988 (S.I. 1988/521)](https://www.legislation.gov.uk/uksi/1988/521), regs. 1(1), 6
+
+[^M_F_2d83b361-e895-43cf-d7cc-588d84ac761a]: Textual amendment: Words in reg. 12(1) substituted (11.4.1988) by [The Income Support (Transitional) Amendment Regulations 1988 (S.I. 1988/521)](https://www.legislation.gov.uk/uksi/1988/521), regs. 1(1), 7(a)
+
+[^c2180925]: Marginal citation: [S.I. 1983/1399](https://www.legislation.gov.uk/uksi/1983/1399); the relevant amending instruments are [S.I. 1985/1835](https://www.legislation.gov.uk/uksi/1985/1835) and 1986/1292.
+
+[^M_F_8423299a-edc8-455f-d18b-08d7d5e82d3f]: Textual amendment: Words in reg. 12(4) inserted (11.4.1988) by [The Income Support (Transitional) Amendment Regulations 1988 (S.I. 1988/521)](https://www.legislation.gov.uk/uksi/1988/521), regs. 1(1), 7(b)
+
+[^c2180926]: Marginal citation: [S.I. 1983/1399](https://www.legislation.gov.uk/uksi/1983/1399); the relevant amending instrument is [S.I. 1985/1835](https://www.legislation.gov.uk/uksi/1985/1835).
+
+[^M_F_01d926dd-6594-4e53-df88-9ca38822c85e]: Textual amendment: Words in reg. 13(3) inserted (11.4.1988) by [The Income Support (Transitional) Amendment Regulations 1988 (S.I. 1988/521)](https://www.legislation.gov.uk/uksi/1988/521), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1988/521/regulation/1/1), [8(a)](https://www.legislation.gov.uk/uksi/1988/521/regulation/8/a)
+
+[^M_F_f3d9f1ab-ad7b-49ee-84b7-52e1b908f7dd]: Textual amendment: Words in reg. 13(4) omitted (11.4.1988) by [The Income Support (Transitional) Amendment Regulations 1988 (S.I. 1988/521)](https://www.legislation.gov.uk/uksi/1988/521), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1988/521/regulation/1/1), [8(b)(i)](https://www.legislation.gov.uk/uksi/1988/521/regulation/8/b/i)
+
+[^M_F_af98e8d6-2072-4de6-e10c-77c81c7b36b8]: Textual amendment: Words in reg. 13(4) added (11.4.1988) by [The Income Support (Transitional) Amendment Regulations 1988 (S.I. 1988/521)](https://www.legislation.gov.uk/uksi/1988/521), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1988/521/regulation/1/1), [8(b)(ii)](https://www.legislation.gov.uk/uksi/1988/521/regulation/8/b/ii)
+
+[^M_F_5099ae7e-da8f-42b9-b7b4-0c4ad78178a1]: Textual amendment: Words in reg. 13(5) substituted (11.4.1988) by [The Income Support (Transitional) Amendment Regulations 1988 (S.I. 1988/521)](https://www.legislation.gov.uk/uksi/1988/521), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1988/521/regulation/1/1), [8(c)](https://www.legislation.gov.uk/uksi/1988/521/regulation/8/c)
+
+[^M_F_a55c8137-c790-44cd-c18d-094ddf65c971]: Textual amendment: Reg. 13(8)(a)(b) substituted for words (11.4.1988) by [The Income Support (Transitional) Amendment Regulations 1988 (S.I. 1988/521)](https://www.legislation.gov.uk/uksi/1988/521), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1988/521/regulation/1/1), [8(c)](https://www.legislation.gov.uk/uksi/1988/521/regulation/8/c)
+
+[^M_F_35254463-dda7-45fa-b67f-68ff96c89a52]: Textual amendment: Words in reg. 14(1)(a) inserted (9.10.1989) by [The Income Support (Transitional) Amendment Regulations 1989 (S.I. 1989/1626)](https://www.legislation.gov.uk/uksi/1989/1626), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1989/1626/regulation/1/1), [3(a)](https://www.legislation.gov.uk/uksi/1989/1626/regulation/3/a)
+
+[^M_F_fb63ea36-b823-492d-8e95-e2f843eeaffc]: Textual amendment: Words in reg. 14(1)(a) added (11.4.1988) by [The Income Support (Transitional) Amendment Regulations 1988 (S.I. 1988/521)](https://www.legislation.gov.uk/uksi/1988/521), regs. 1(1), 9(a)
+
+[^M_F_c0d42da2-edb4-452a-ed94-3d4b5bcdc2a1]: Textual amendment: Words in reg. 14(1)(b) inserted (11.4.1988) by [The Income Support (Transitional) Amendment Regulations 1988 (S.I. 1988/521)](https://www.legislation.gov.uk/uksi/1988/521), regs. 1(1), 9(b)
+
+[^M_F_abd07adf-876a-4eec-c105-19be1471906d]: Textual amendment: Words in reg. 14(1)(d) inserted (9.10.1989) by [The Income Support (Transitional) Amendment Regulations 1989 (S.I. 1989/1626)](https://www.legislation.gov.uk/uksi/1989/1626), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1989/1626/regulation/1/1), [3(a)](https://www.legislation.gov.uk/uksi/1989/1626/regulation/3/a)
+
+[^M_F_be25c6e0-f221-4a40-ecb5-5d2b22e1db0d]: Textual amendment: Reg. 14(1A)(1B) added (11.4.1988) by [The Income Support (Transitional) Amendment Regulations 1988 (S.I. 1988/521)](https://www.legislation.gov.uk/uksi/1988/521), regs. 1(1), 9(c)
+
+[^M_F_8bab20d8-5da6-480f-e777-09c3a573b236]: Textual amendment: Words in reg. 14(1A) substituted (17.12.1990) by [The Income Support (General and Transitional) Amendment Regulations 1990 (S.I. 1990/2324)](https://www.legislation.gov.uk/uksi/1990/2324), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1990/2324/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/1990/2324/regulation/6)
+
+[^M_F_009427bb-ada7-4a07-ae47-bf2fd5e1f5ba]: Textual amendment: Reg. 14(1C) added (11.4.1988) by [The Income Support (Transitional) Amendment No. 2 Regulations 1988 (S.I. 1988/670)](https://www.legislation.gov.uk/uksi/1988/670), regs. 1(1), 2(2)(a)
+
+[^M_F_e87dd7bc-5f7f-4068-fa80-7cdce234395b]: Textual amendment: Reg. 14(1CA) inserted (7.10.1991) by [The Income Support (Transitional) Amendment Regulations 1991 (S.I. 1991/1600)](https://www.legislation.gov.uk/uksi/1991/1600), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1991/1600/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/1991/1600/regulation/2/2)
+
+[^M_F_a6525873-e66a-4982-d6f7-4056aa447c4b]: Textual amendment: Reg. 14(1D)-(1F) inserted (9.10.1989) by [The Income Support (Transitional) Amendment Regulations 1989 (S.I. 1989/1626)](https://www.legislation.gov.uk/uksi/1989/1626), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1989/1626/regulation/1/1), [3(b)](https://www.legislation.gov.uk/uksi/1989/1626/regulation/3/b)
+
+[^M_F_0ae67cf2-457b-41d1-b540-7d71834e72cf]: Textual amendment: Reg. 14(1DA) inserted (7.10.1991) by [The Income Support (Transitional) Amendment Regulations 1991 (S.I. 1991/1600)](https://www.legislation.gov.uk/uksi/1991/1600), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1991/1600/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/1991/1600/regulation/2/3)
+
+[^M_F_38af3f82-5533-44fb-dde7-1399cd04cc44]: Textual amendment: Reg. 14(1DZA) inserted (5.10.1992) by [The Income-Related Benefits Amendment Regulations 1992 (S.I. 1992/1326)](https://www.legislation.gov.uk/uksi/1992/1326), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1989/1626/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/1989/1626/regulation/4)
+
+[^key-256a8ba7842da9bc49252c076ddabd55]: Textual amendment: Words in reg. 14(1E) inserted (1.4.1991) by [The Enterprise (Scotland) Consequential Amendments Order 1991 (S.I. 1991/387)](https://www.legislation.gov.uk/uksi/1991/387), [arts. 1](https://www.legislation.gov.uk/uksi/1991/387/article/1), [2](https://www.legislation.gov.uk/uksi/1991/387/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1991/387/schedule)
+
+[^key-8b04fd89e386b887624abc514375e932]: Textual amendment: Words in reg. 14(1E) added (1.4.1991) by [The Enterprise (Scotland) Consequential Amendments Order 1991 (S.I. 1991/387)](https://www.legislation.gov.uk/uksi/1991/387), [arts. 1](https://www.legislation.gov.uk/uksi/1991/387/article/1), [10](https://www.legislation.gov.uk/uksi/1991/387/article/10)
+
+[^M_F_09ac531e-f924-45c8-b481-b210b482f2f1]: Textual amendment: Reg. 14(1G) inserted (14.12.1989) by The Income Support (Transitional) Amendment No. 2 Regulations 1989 ([S.I. 1989/2340](https://www.legislation.gov.uk/uksi/1989/2340)), regs. 1(1), 2
+
+[^M_F_c6c31d71-e667-45db-a3ea-4a6a42168af5]: Textual amendment: Words in reg. 14(3) inserted (9.10.1989) by [The Income Support (Transitional) Amendment Regulations 1989 (S.I. 1989/1626)](https://www.legislation.gov.uk/uksi/1989/1626), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1989/1626/regulation/1/1), [3(c)](https://www.legislation.gov.uk/uksi/1989/1626/regulation/3/c)
+
+[^M_F_6e39293b-8fc3-4d1e-f09e-e27a973336e5]: Textual amendment: Words in reg. 14(3) substituted (11.4.1988) by [The Income Support (Transitional) Amendment Regulations 1988 (S.I. 1988/521)](https://www.legislation.gov.uk/uksi/1988/521), regs. 1(1), 9(d)
+
+[^M_F_c3f26b88-19e2-4f6c-c736-09a8a9390321]: Textual amendment: Reg. 14(3A) inserted (9.10.1989) by [The Income Support (Transitional) Amendment Regulations 1989 (S.I. 1989/1626)](https://www.legislation.gov.uk/uksi/1989/1626), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1988/521/regulation/1/1), [3(d)](https://www.legislation.gov.uk/uksi/1988/521/regulation/3/d)
+
+[^M_F_e0e7ca3a-093d-4097-b781-3ad0cf9982e6]: Textual amendment: Words in reg. 14(4) inserted (9.10.1989) by [The Income Support (Transitional) Amendment Regulations 1989 (S.I. 1989/1626)](https://www.legislation.gov.uk/uksi/1989/1626), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1989/1626/regulation/1/1), [3(e)](https://www.legislation.gov.uk/uksi/1989/1626/regulation/3/e)
+
+[^M_F_7b0571a5-d34d-49b6-d739-839916c675f9]: Textual amendment: Words in reg. 14(4) substituted (11.4.1988) by [The Income Support (Transitional) Amendment Regulations 1988 (S.I. 1988/521)](https://www.legislation.gov.uk/uksi/1988/521), regs. 1(1), 9(e)
+
+[^M_F_0bb88cbb-fa74-4c35-8d49-e8338157831c]: Textual amendment: Reg. 14(4A) inserted (9.10.1989) by [The Income Support (Transitional) Amendment Regulations 1989 (S.I. 1989/1626)](https://www.legislation.gov.uk/uksi/1989/1626), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1989/1626/regulation/1/1), [3(f)](https://www.legislation.gov.uk/uksi/1989/1626/regulation/3/f)
+
+[^M_F_64c19e88-64e7-4b31-d7c7-1bc9ad7f9bc7]: Textual amendment: Words in reg. 14(5) added (11.4.1988) by [The Income Support (Transitional) Amendment No. 2 Regulations 1988 (S.I. 1988/670)](https://www.legislation.gov.uk/uksi/1988/670), regs. 1(1), 2(2)(b)
+
+[^key-90367fddd2e1dce16ce79ccdd3b09923]: Modification: Reg. 15 sums amended (10.4.1989 coming into force in accordance with art. 1(3)) by [The Social Security Benefits Up-rating Order 1989 (S.I. 1989/43)](https://www.legislation.gov.uk/uksi/1989/43), [arts. 1(3)](https://www.legislation.gov.uk/uksi/1989/43/article/1/3), [16](https://www.legislation.gov.uk/uksi/1989/43/article/16) (with [art. 20](https://www.legislation.gov.uk/uksi/1989/43/article/20))
+
+[^key-2059b6eafeaf02814d6318a032b8971b]: Modification: Reg. 15 sums amended (1.4.1990 for specified purposes, 2.4.1990) by [The Social Security Benefits Up-rating Order 1990 (S.I. 1990/320)](https://www.legislation.gov.uk/uksi/1990/320), [arts. 1(2)(g)](https://www.legislation.gov.uk/uksi/1990/320/article/1/2/g), [15](https://www.legislation.gov.uk/uksi/1990/320/article/15)
+
+[^key-81d7c9fcc8f2d8007acded4887dfb55a]: Modification: Reg. 15 sums amended (8.4.1991 for specified purposes) by [The Social Security Benefits Up-rating Order 1991 (S.I. 1991/503)](https://www.legislation.gov.uk/uksi/1991/503), [arts. 1(2)(f)](https://www.legislation.gov.uk/uksi/1991/503/article/1/2/f), [15](https://www.legislation.gov.uk/uksi/1991/503/article/15)
+
+[^key-afaf490346a210175abb5cffbb831ef6]: Modification: Reg. 15 modified (for specified purposes and with effect in accordance with art. 1(2)(f) of the amending S.I.) by [The Social Security Benefits Up-rating Order 1994 (S.I. 1994/542)](https://www.legislation.gov.uk/uksi/1994/542), [art. 17](https://www.legislation.gov.uk/uksi/1994/542/article/17)
+
+[^key-8e365b76953253460be180f6e8cc0edb]: Modification: Reg. 15 sums amended (with effect in accordance with art. 1(2)(g) of the amending S.I.) by [The Social Security Benefits Up-rating Order 1995 (S.I. 1995/559)](https://www.legislation.gov.uk/uksi/1995/559), [arts. 1(2)(g)](https://www.legislation.gov.uk/uksi/1995/559/article/1/2/g), [19](https://www.legislation.gov.uk/uksi/1995/559/article/19)
+
+[^key-1f1dd7d0b0d9e95f851299a4843df483]: Modification: Reg. 15 sums amended (with effect in accordance with art. 1(2)(g) of the amending S.I.) by [The Social Security Benefits Up-rating Order 2000 (S.I. 2000/440)](https://www.legislation.gov.uk/uksi/2000/440), [arts. 1(2)(g)](https://www.legislation.gov.uk/uksi/2000/440/article/1/2/g), [17](https://www.legislation.gov.uk/uksi/2000/440/article/17)
+
+[^key-28e683c76fe39f142905d074052c47b0]: Modification: Reg. 15 modified (with effect in accordance with art. 1(2)(g) of the amending S.I.) by [Social Security Benefits Up-rating (No.2) Order 2000 2001 (S.I. 2001/207)](https://www.legislation.gov.uk/uksi/2001/207), [arts. 1(2)(g)](https://www.legislation.gov.uk/uksi/2001/207/article/1/2/g), [17](https://www.legislation.gov.uk/uksi/2001/207/article/17)
+
+[^key-e916c20195ab3ddf8c696697353d009d]: Modification: Reg. 15 modified (for specified purposes and with application in accordance with art. 1(2)(g) of the amending S.I.) by [Social Security Benefits Up-rating Order 2002 (S.I. 2002/668)](https://www.legislation.gov.uk/uksi/2002/668), [arts. 1(2)(g)](https://www.legislation.gov.uk/uksi/2002/668/article/1/2/g), [17](https://www.legislation.gov.uk/uksi/2002/668/article/17)
+
+[^key-edb2ae518c78640ded1b1ec8d2e27af9]: Modification: Reg. 15 modified (for specified purposes and with effect in accordance with art. 1(2)(g) of the amending S.I.) by [Social Security Benefits Up-rating Order 2003 (S.I. 2003/526)](https://www.legislation.gov.uk/uksi/2003/526), [arts. 1(2)(g)](https://www.legislation.gov.uk/uksi/2003/526/article/1/2/g), [18](https://www.legislation.gov.uk/uksi/2003/526/article/18)
+
+[^key-b5474013de673d65b689d8bc8f26ec6b]: Modification: Reg. 15 sums amended (12.4.2004 art. 1(2)(g)) by [Social Security Benefits Up-Rating Order 2004 (S.I. 2004/552)](https://www.legislation.gov.uk/uksi/2004/552), [art. 17](https://www.legislation.gov.uk/uksi/2004/552/article/17)
+
+[^key-e42f4855ffac2bf98f5b17d9ef9eb267]: Modification: Reg. 15 sums amended (11.4.2005 art. 1(2)(h)) by [The Social Security Benefits Up-rating Order 2005 (S.I. 2005/522)](https://www.legislation.gov.uk/uksi/2005/522), [art. 17](https://www.legislation.gov.uk/uksi/2005/522/article/17)
+
+[^key-a8c385ac690e396ff8364d3f5b098674]: Modification: Reg. 15 modified (for specified purposes and with effect in accordance with art. 1(2)(i) of the amending S.I.) by [Social Security Benefits Up-rating Order 2006 (S.I. 2006/645)](https://www.legislation.gov.uk/uksi/2006/645), [arts. 1(2)(i)](https://www.legislation.gov.uk/uksi/2006/645/article/1/2/i), [17](https://www.legislation.gov.uk/uksi/2006/645/article/17)
+
+[^key-9bda0f40642bd26a8c85127dcf1650af]: Modification: Reg. 15 modified (7.3.2007 for specified purposes and ) by [The Social Security Benefits Up-rating Order 2007 (S.I. 2007/688)](https://www.legislation.gov.uk/uksi/2007/688), [arts. 1(2)(i)](https://www.legislation.gov.uk/uksi/2007/688/article/1/2/i), [17](https://www.legislation.gov.uk/uksi/2007/688/article/17)
+
+[^key-668748b98e71b3fde229bb8d6ca684da]: Modification: Reg. 15 modified (with effect in accordance with art. 1(2)(h) (3)(a) 6 of the amending S.I.) by [The Social Security Benefits Up-rating Order 2009 (S.I. 2009/497)](https://www.legislation.gov.uk/uksi/2009/497), [arts. 1(2)(h)](https://www.legislation.gov.uk/uksi/2009/497/article/1/2/h), [17](https://www.legislation.gov.uk/uksi/2009/497/article/17)
+
+[^key-a72b834aeb19d3513e28a19b55ce2355]: Modification: Reg. 15 modified (12.4.2010 coming into force in accordance with art. 1(2)(i)) by [The Social Security Benefits Up-rating Order 2010 (S.I. 2010/793)](https://www.legislation.gov.uk/uksi/2010/793), [arts. 1(2)(i)](https://www.legislation.gov.uk/uksi/2010/793/article/1/2/i), [17](https://www.legislation.gov.uk/uksi/2010/793/article/17)
+
+[^key-90e2600773ca6ccfab6d49deb8cfae7a]: Modification: Reg. 15 sum amended (9.4.2012 coming into force in accordance with art. 1(2)(i)) by [The Social Security Benefits Up-rating Order 2012 (S.I. 2012/780)](https://www.legislation.gov.uk/uksi/2012/780), [arts. 1(2)(i)](https://www.legislation.gov.uk/uksi/2012/780/article/1/2/i), [18](https://www.legislation.gov.uk/uksi/2012/780/article/18)
+
+[^key-c34eae4ce8d820c63dccc6e6254ff342]: Modification: Reg. 15 sums amended (8.4.2013 coming into force in accordance with art. 1(2)(i)) by [The Social Security Benefits Up-rating Order 2013 (S.I. 2013/574)](https://www.legislation.gov.uk/uksi/2013/574), [arts. 1(2)(i)](https://www.legislation.gov.uk/uksi/2013/574/article/1/2/i), [17](https://www.legislation.gov.uk/uksi/2013/574/article/17)
+
+[^key-d484af913787f56e689cd33a2027619b]: Modification: Reg. 15 sum amended (7.4.2014 coming into force in accordance with art. 1(2)(f)) by [The Social Security Benefits Up-rating Order 2014 (S.I. 2014/516)](https://www.legislation.gov.uk/uksi/2014/516), [arts. 1(2)(f)](https://www.legislation.gov.uk/uksi/2014/516/article/1/2/f), [15](https://www.legislation.gov.uk/uksi/2014/516/article/15)
+
+[^key-7e21ca7c1f84b4f9bb6a06fc9fe3f3ea]: Modification: Reg. 15 sum amended (E.W.S.) (6.4.2015 coming into force in accordance with art. 1(2)(f)) by [The Social Security Benefits Up-rating Order 2015 (S.I. 2015/457)](https://www.legislation.gov.uk/uksi/2015/457), [arts. 1(2)(f)](https://www.legislation.gov.uk/uksi/2015/457/article/1/2/f), [15](https://www.legislation.gov.uk/uksi/2015/457/article/15)
+
+[^key-5e6dbd059379a2a237b66eb109c9e074]: Modification: Reg. 15 sums amended (10.4.2017 coming into force in accordance with art. 1(2)(i)) by [The Social Security Benefits Up-rating Order 2017 (S.I. 2017/260)](https://www.legislation.gov.uk/uksi/2017/260), [art. 21](https://www.legislation.gov.uk/uksi/2017/260/article/21)
+
+[^key-fbbf742b1b0baa40a8dfa0f0a74a56d4]: Modification: Reg. 15 sums amended (coming into force in accordance with of the amending S.I.) by [The Social Security Benefits Up-rating Order 2018 (S.I. 2018/281)](https://www.legislation.gov.uk/uksi/2018/281), [arts. 1(2)(g)](https://www.legislation.gov.uk/uksi/2018/281/article/1/2/g), [22](https://www.legislation.gov.uk/uksi/2018/281/article/22)
+
+[^key-c62878cb3d33b30c9f998b816083e622]: Modification: Reg. 15 sums amended (coming into force in accordance with art. 1(3)(h) of the amending S.I.) by [The Social Security Benefits Up-rating Order 2019 (S.I. 2019/480)](https://www.legislation.gov.uk/uksi/2019/480), [art. 22](https://www.legislation.gov.uk/uksi/2019/480/article/22)
+
+[^key-2f841f8772e1bad265d95c5fb594f400]: Modification: Reg. 15 sums amended (coming into force in accordance with art. 1(3)(h) of the amending S.I.) by [The Social Security Benefits Up-rating Order 2020 (S.I. 2020/234)](https://www.legislation.gov.uk/uksi/2020/234), [art. 22](https://www.legislation.gov.uk/uksi/2020/234/article/22)
+
+[^key-8339fe9815418418cf288c96b19a5986]: Modification: Reg. 15 sums amended (with effect in accordance with art. 1(3)(i) of the amending S.I.) by [The Social Security Benefits Up-rating Order 2021 (S.I. 2021/162)](https://www.legislation.gov.uk/uksi/2021/162), [art. 22](https://www.legislation.gov.uk/uksi/2021/162/article/22)
+
+[^key-5cf481172a10148e9a4aaeb814cc6dcb]: Modification: [Reg. 15](https://www.legislation.gov.uk/uksi/1987/1969/regulation/15) sums modified (with effect in accordance with art. 1(3)(i) of the amending S.I.) by [The Social Security Benefits Up-rating Order 2022 (S.I. 2022/292)](https://www.legislation.gov.uk/uksi/2022/292), [art. 22](https://www.legislation.gov.uk/uksi/2022/292/article/22)
+
+[^key-8ddf5e3273552cd4c8e1a2c21d6c0c9f]: Modification: [Reg. 15](https://www.legislation.gov.uk/uksi/1987/1969/regulation/15) sums amended (coming into force in accordance with art. 1(3)(i) of the amending S.I.) by [The Social Security Benefits Up-rating Order 2023 (S.I. 2023/316)](https://www.legislation.gov.uk/uksi/2023/316), [arts. 1(3)(i)](https://www.legislation.gov.uk/uksi/2023/316/article/1/3/i), [22](https://www.legislation.gov.uk/uksi/2023/316/article/22)
+
+[^key-0386138823cba3fa2d47e440b8c7e1df]: Modification: [Reg. 15](https://www.legislation.gov.uk/uksi/1987/1969/regulation/15) sums amended (coming into force in accordance with art. 1(3)(h) of the amending S.I.) by [The Social Security Benefits Up-rating Order 2024 (S.I. 2024/242)](https://www.legislation.gov.uk/uksi/2024/242), [arts. 1(3)(h)](https://www.legislation.gov.uk/uksi/2024/242/article/1/3/h), [21](https://www.legislation.gov.uk/uksi/2024/242/article/21)
+
+[^key-f093b7c1ce296177f0f4745bb23efa88]: Modification: [Reg. 15](https://www.legislation.gov.uk/uksi/1987/1969/regulation/15): sums amended (coming into force in accordance with art. 1(3)(g) of the amending S.I.) by [The Social Security Benefits Up-rating Order 2026 (S.I. 2026/148)](https://www.legislation.gov.uk/uksi/2026/148), [arts. 1(3)(g)](https://www.legislation.gov.uk/uksi/2026/148/article/1/3/g), [21](https://www.legislation.gov.uk/uksi/2026/148/article/21)
+
+[^M_F_fc1e57d6-235c-49b9-ac82-dfdfd6b54aaa]: Textual amendment: Words in reg. 15(1) inserted (11.4.1988) by [The Income Support (Transitional) Amendment Regulations 1988 (S.I. 1988/521)](https://www.legislation.gov.uk/uksi/1988/521), regs. 1(1), 10(a)(i)
+
+[^M_F_07c74d9b-76a2-4de1-86d6-2459f363488a]: Textual amendment: Words in reg. 15(1) added (11.4.1988) by [The Income Support (Transitional) Amendment Regulations 1988 (S.I. 1988/521)](https://www.legislation.gov.uk/uksi/1988/521), regs. 1(1), 10(a)(ii)
+
+[^M_F_2f8bf49d-ebb8-4153-9c6f-eb9d9ef3a240]: Textual amendment: Words in reg. 15(2) added (11.4.1988) by [The Income Support (Transitional) Amendment No. 2 Regulations 1988 (S.I. 1988/670)](https://www.legislation.gov.uk/uksi/1988/670), regs. 1, 2(3)
+
+[^M_F_27fa218e-f144-4871-f491-7cf8982dd738]: Textual amendment: Words in reg. 15(2) added (7.10.1991) by [The Income Support (Transitional) Amendment Regulations 1991 (S.I. 1991/1600)](https://www.legislation.gov.uk/uksi/1991/1600), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1988/670/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/1988/670/regulation/3)
+
+[^M_F_c3ca881a-1ee7-4503-fd53-5a29d44e325a]: Textual amendment: Reg. 15(3)(c)-(f) and preceding word added (11.4.1988) by [The Income Support (Transitional) Amendment Regulations 1988 (S.I. 1988/521)](https://www.legislation.gov.uk/uksi/1988/521), regs. 1(1), 10(b)
+
+[^M_F_147c51c0-e48a-407c-fcc5-8c4d75b829e8]: Textual amendment: Reg. 15(4)(a) substituted (11.4.1988) by [The Income Support (Transitional) Amendment Regulations 1988 (S.I. 1988/521)](https://www.legislation.gov.uk/uksi/1988/521), regs. 1(1), 10(c)(i)
+
+[^M_F_3de41f19-10ce-4600-8874-a9f2002a2a9e]: Textual amendment: Words in reg. 15(4)(a) substituted (9.10.1989) by [The Income Support (Transitional) Amendment Regulations 1989 (S.I. 1989/1626)](https://www.legislation.gov.uk/uksi/1989/1626), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1988/670/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/1988/670/regulation/4)
+
+[^M_F_13c9af25-99f0-49c6-af98-d8739a633a7a]: Textual amendment: Words in reg. 15(4)(b) substituted (9.10.1989) by [The Income Support (Transitional) Amendment Regulations 1989 (S.I. 1989/1626)](https://www.legislation.gov.uk/uksi/1989/1626), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1989/1626/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/1989/1626/regulation/4)
+
+[^M_F_f4b76373-fea1-48cd-91a6-b8ad3d157d88]: Textual amendment: Words in reg. 15(4)(b) substituted (11.4.1988) by [The Income Support (Transitional) Amendment Regulations 1988 (S.I. 1988/521)](https://www.legislation.gov.uk/uksi/1988/521), regs. 1(1), 10(c)(ii)
+
+[^M_F_d8cd4ae0-ed85-437a-c901-99933bad626e]: Textual amendment: Reg. 15(4)(c) added (11.4.1988) by [The Income Support (Transitional) Amendment Regulations 1988 (S.I. 1988/521)](https://www.legislation.gov.uk/uksi/1988/521), regs. 1(1), 10(c)(iii)
+
+[^M_F_5470e314-61b2-44a1-d3e5-da8cd427dde1]: Textual amendment: Words in reg. 15(4)(c) substituted (9.10.1989) by [The Income Support (Transitional) Amendment Regulations 1989 (S.I. 1989/1626)](https://www.legislation.gov.uk/uksi/1989/1626), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1989/1626/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/1989/1626/regulation/4)
+
+[^M_F_2a7d980c-b90c-48dd-b9f4-7fb9d262bd73]: Textual amendment: Reg. 16(3) added (11.4.1988) by [The Income Support (Transitional) Amendment Regulations 1988 (S.I. 1988/521)](https://www.legislation.gov.uk/uksi/1988/521), regs. 1(1), 11

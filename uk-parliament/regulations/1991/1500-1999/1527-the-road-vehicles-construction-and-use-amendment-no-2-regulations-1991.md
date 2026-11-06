@@ -1,0 +1,154 @@
+---
+title: The Road Vehicles (Construction and Use) (Amendment) (No. 2) Regulations 1991
+id: uksi/1991/1527
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '1991-07-04'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1991/1527
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1991/1527/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Road Vehicles (Construction and Use) (Amendment) (No. 2) Regulations 1991
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+1991 No. 1527
+
+ROAD TRAFFIC
+
+The Road Vehicles (Construction and Use) (Amendment) (No. 2) Regulations 1991
+
+Made
+
+4th July 1991
+
+Laid before Parliament
+
+10th July 1991
+
+Coming into force
+
+1st August 1991
+
+The Secretary of State for Transport, in exercise of the powers conferred by section 41(1) and (5) of the Road Traffic Act 1988[^f00001] (“the 1988 Act”) and being a Minister designated[^f00002] for the purposes of section 2(2) of the European Communities Act 1972[^f00003] in relation to the construction and equipment of vehicles and of components of vehicles, and of all other enabling powers, and after consultation with representative organisations in accordance with section 195(2) of the 1988 Act, hereby makes the following Regulations:–
+
+## 1. Citation and commencement
+
+These Regulations may be cited as the Road Vehicles (Construction and Use) (Amendment) (No. 2) Regulations 1991 and shall come into force on 1st August 1991.
+
+**2.** The Road Vehicles (Construction and Use) Regulations 1986[^f00004] shall be further amended in accordance with the following provisions of these Regulations.
+
+## 3. Speed Limiters for Goods Vehicles
+
+(1) After regulation 36A (speed limiters), there shall be inserted the following new regulation–
+
+> **36B.** (1) Subject to paragraph (6), this regulation applies to every motor vehicle which–
+>
+> - (a) is a goods vehicle;
+> - (b) has a maximum gross weight exceeding 7500 kg;
+> - (c) is first used on or after 1st August 1992; and
+> - (d) has, or if a speed limiter were not fitted to it would have, a relevant speed exceeding 60 mph.
+>
+> (2) A vehicle to which this regulation applies shall not be used on a road unless it has been fitted with a speed limiter.
+>
+> (3) Every speed limiter fitted in accordance with paragraph (2) shall–
+>
+> - (a) comply with Part I of the British Standard;
+> - (b) be calibrated to a set speed not exceeding 60 mph;
+> - (c) be sealed in such a manner as to protect the limiter against any improper interference or adjustment and against any interruption of its power supply; and
+> - (d) be maintained in good and efficient working order.
+>
+> (4) Sub-paragraphs (a) and (b) of paragraph (3) shall not apply to a speed limiter which complies with a standard or a technical regulation of another Member State or an international standard recognised in another Member State, which offers equivalent guarantees of safety, suitability and fitness for the purpose, and which is calibrated to a speed not exceeding 60 mph.
+>
+> (5) A vehicle to which a speed limiter has been fitted shall not be driven on a road unless the speed limiter is functioning except for the purpose of–
+>
+> - (a) completing a journey in the course of which the speed limiter has accidentally ceased to function; or
+> - (b) taking the vehicle to a place where the speed limiter is to be repaired or replaced.
+>
+> (6) This regulation does not apply to a vehicle–
+>
+> - (a) which is being taken to a place where a speed limiter is to be installed or calibrated;
+> - (b) owned by the Secretary of State for Defence and used for naval, military or air force purposes;
+> - (c) used for naval, military or air force purposes while being driven by a person for the time being subject to the orders of a member of the armed forces of the Crown;
+> - (d) while it is being used for fire brigade, ambulance or police purposes; or
+> - (e) if and so long as it is exempt from vehicle excise duty by section 7(1) of the Vehicles (Excise) Act 1971[^f00005].
+>
+> (7) In this regulation–
+>
+> - “Member State” shall be construed in accordance with Schedule I to the European Communities Act 1972;
+> - “Part I of the British Standard”, “set speed” and “speed limiter” have the same meanings respectively as in regulation 36A; and
+> - “relevant speed” means the speed which a vehicle is incapable, by reason of its construction, of exceeding on the level under its own power when unladen.
+
+.
+
+(2) After regulation 70A (speed limiters – plates), there shall be inserted the following new regulation–
+
+> **70B.** (1) Paragraph (2) applies to every vehicle to which regulation 36B applies and which is fitted with a speed limiter which complies with Part I of the British Standard or with a relevant standard.
+>
+> (2) Every vehicle to which this paragraph applies shall be equipped with a plate which is in a conspicuous and readily accessible position within the driving compartment and which–
+>
+> - (a) if the speed limiter fitted to the vehicle complies with Part I of the British Standard, satisfies the requirements of paragraph (3), or
+> - (b) whether that speed limiter complies with Part I of the British Standard or not, satisfies the requirements of paragraph (4),
+>
+> in relation to that speed limiter.
+>
+> (3) In order to satisfy the requirements of this paragraph, a plate must show clearly and indelibly the particulars specified in clause 10 of Part I of the British Standard and the words “SPEED LIMITER FITTED”.
+>
+> (4) In order to satisfy the requirements of this paragraph, a plate must show clearly and indelibly–
+>
+> - (a) details of a relevant standard with which the speed limiter complies,
+> - (b) the name or trade mark of the calibrator,
+> - (c) the speed at which the speed limiter has been set, and
+> - (d) the words “SPEED LIMITER FITTED”.
+>
+> (5) In this regulation–
+>
+> - “calibrator”, in relation to a speed limiter fitted to a vehicle means–
+>   - (a) if the person who carried out the final check of the installation and calibration of the speed limiter was employed to do so by another person, his employer; or
+>   - (b) in any other case, the person who carried out that final check.
+> - “Member State” shall be construed in accordance with Schedule I to the European Communities Act 1972;
+> - “Part I of the British Standard” and “speed limiter” have the same meaning respectively as in regulation 36A;
+> - “relevant standard” means a standard or a technical regulation of another Member State or an international standard recognised in another Member State, which offers equivalent guarantees of safety, suitability and fitness for the purpose; and
+> - “trade mark” has the same meaning as in Regulation 70A.
+
+.
+
+Signed by authority of the Secretary of State for Transport
+
+Christopher Chope
+
+Parliamentary Under Secretary of State,
+
+Department of Transport
+
+4th July 1991
+
+(This note is not part of the Regulations)
+
+These Regulations amend the provisions of the Road Vehicles (Construction and Use) Regulations 1986.
+
+A new regulation 36B is introduced, which provides for goods vehicles, having a maximum gross weight exceeding 7500 kg and which would otherwise be capable of exceeding 60 mph when unladen, to be fitted with speed limiters set to a maximum speed no higher than 60 mph. Subject to certain exemptions, the new provisions will apply to all such vehicles first used on or after 1st August 1992. Any speed limiter fitted to such a vehicle will need to comply with Part I of the relevant British Standard (BS AU 217: Part I: 1987) as amended by Amendment Slip No. 1 under the number AMD 5969 which was published and came into effect on 30th June 1988 unless it complies with equivalent technical standards recognised by another Member State. Provision is made for such a vehicle to complete its journey if the speed limiter has accidentally ceased to function or for it to be taken to a place where the speed limiter is to be repaired.
+
+A new regulation 70B provides that every goods vehicle to which the regulations apply must bear a plate to show that it is fitted with a speed limiter. The plate must show the speed at which the speed limiter has been set and other information relating to the speed limiter.
+
+British Standard publications can be obtained by calling personally at the British Standards Institution (BSI), 61 Green Street, London W1Y 3RH (Tel. 071–629–9000) or by post from BSI Sales, Linford Wood, Milton Keynes, MK 14 6LE (Tel. 0908–221166).
+
+## Annotations
+
+[^f00001]: Footnote: [1988 c. 52](https://www.legislation.gov.uk/ukpga/1988/52).
+
+[^f00002]: Footnote: [S.I. 1972/1811](https://www.legislation.gov.uk/uksi/1972/1811).
+
+[^f00003]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68).
+
+[^f00004]: Footnote: [S.I. 1986/1078](https://www.legislation.gov.uk/uksi/1986/1078); relevant amending instruments are [S.I. 1988/271](https://www.legislation.gov.uk/uksi/1988/271) and [1524](https://www.legislation.gov.uk/uksi/1988/1524).
+
+[^f00005]: Footnote: [1971 c. 10](https://www.legislation.gov.uk/ukpga/1971/10).

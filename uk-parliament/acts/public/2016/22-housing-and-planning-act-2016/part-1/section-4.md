@@ -1,0 +1,43 @@
+---
+title: Housing and Planning Act 2016, section 4
+act: Housing and Planning Act 2016
+section: '4'
+status: not-yet-in-force
+text_date: '2026-09-14'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/2016/22/section/4
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Housing and Planning Act 2016, section 4
+
+> This provision is not yet in force.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 4. General duty to promote supply of starter homes
+
+*Extent: E+W*
+
+**Not yet in force.**
+
+(1) An English planning authority must carry out its relevant planning functions with a view to promoting the supply of starter homes in England.
+
+(2) A local planning authority in England must have regard to any guidance given by the Secretary of State in carrying out that duty.
+
+(3) “**English planning authority**” means—
+
+- (a) a local planning authority in England, or
+- (b) the Secretary of State when exercising a function relating to the grant of planning permission on an application in respect of land in England.
+
+(4) “**Relevant planning functions**” means—
+
+- (a) functions under Part 3 of the Town and Country Planning Act 1990, other than functions relating to the grant of permission in principle;
+- (b) functions under Part 8 of the Greater London Authority Act 1999;
+- (c) functions under Part 2 of the Planning and Compulsory Purchase Act 2004.
+
+(5) The Secretary of State may by regulations—
+
+- (a) amend the definition of “English planning authority” in subsection (3);
+- (b) amend the definition of “relevant planning functions” in subsection (4).

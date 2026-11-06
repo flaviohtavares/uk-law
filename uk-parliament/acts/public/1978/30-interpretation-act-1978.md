@@ -1,0 +1,1243 @@
+---
+title: Interpretation Act 1978
+id: ukpga/1978/30
+type: UnitedKingdomPublicGeneralAct
+category: primary
+status: revised-with-pending-changes
+made_date: '1978-07-20'
+text_date: '2026-01-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/1978/30
+pdf_urls:
+- http://www.legislation.gov.uk/ukpga/1978/30/pdfs/ukpga_19780030_en.pdf
+- http://www.legislation.gov.uk/ukpga/1978/30/data.pdf
+pending_changes: 1
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Interpretation Act 1978
+
+> **Warning: changes not yet applied to this text (1).** Text as at 2026-01-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1978/30
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+Interpretation Act 1978
+
+1978 c.30
+
+[^c11097061][^c11097051][^c11097071][^c11097081][^M_C_8e404e9d-5335-45db-b515-31b39621f50f][^c19736941][^c19948371]An Act to consolidate the Interpretation Act 1889 and certain other enactments relating to the construction and operation of Acts of Parliament and other instruments, with amendments to give effect to recommendations of the Law Commission and the Scottish Law Commission.
+
+\[20th July 1978\][^key-f245ab15e2fdf68c32cdb88d1c82bbb3][^key-243f8e807421eff9d46a087549b2de7d][^key-7786735a108c0dafeac8254b125005cb][^key-05736faa9a4cc1d2ab049bee3daa413f]
+
+## General provisions as to enactment and operation
+
+### 1. Words of enactment.
+
+Every section of an Act takes effect as a substantive enactment without introductory words.
+
+### 2. Amendment or repeal in same Session.
+
+Any Act may be amended or repealed in the Session of Parliament in which it is passed.
+
+### 3. Judicial notice.
+
+Every Act is a public Act to be judicially noticed as such, unless the contrary is expressly provided by the Act.
+
+### 4. Time of commencement.
+
+An Act or provision of an Act comes into force—
+
+- (a) where provision is made for it to come into force on a particular day, at the beginning of that day;
+- (b) where no provision is made for its coming into force, at the beginning of the day on which the Act receives the Royal Assent.
+
+## Interpretation and construction
+
+### 5. Definitions.
+
+In any Act, unless the contrary intention appears, words and expressions listed in Schedule 1 to this Act are to be construed according to that Schedule.
+
+### 6. Gender and number.
+
+In any Act, unless the contrary intention appears,—
+
+- (a)[^c11097091] words importing the masculine gender include the feminine;
+- (b)[^c11097101][^c11097111] words importing the feminine gender include the masculine;
+- (c) words in the singular include the plural and words in the plural include the singular.
+
+### 7. References to service by post.[^c11097151][^c18358971]
+
+Where an Act authorises or requires any document to be served by post (whether the expression “serve” or the expression “give” or “send” or any other expression is used) then, unless the contrary intention appears, the service is deemed to be effected by properly addressing, pre-paying and posting a letter containing the document and, unless the contrary is proved, to have been effected at the time at which the letter would be delivered in the ordinary course of post.
+
+### 8. References to distance.
+
+In the measurement of any distance for the purposes of an Act, that distance shall, unless the contrary intention appears, be measured in a straight line on a horizontal plane.
+
+### 9. References to time of day.
+
+Subject to section 3 of the [^c11097161]Summer Time Act 1972 (construction of references to points of time during the period of summer time), whenever an expression of time occurs in an Act, the time referred to shall, unless it is otherwise specifically stated, be held to be Greenwich mean time.
+
+### 10. References to the Sovereign.
+
+In any Act a reference to the Sovereign reigning at the time of the passing of the Act is to be construed, unless the contrary intention appears, as a reference to the Sovereign for the time being.
+
+### 11. Construction of subordinate legislation.[^c19783671][^c11097181][^c11097171][^c19737451][^c19737321][^c21790271]
+
+Where an Act confers power to make subordinate legislation, expressions used in that legislation have, unless the contrary intention appears, the meaning which they bear in the Act.
+
+## Statutory powers and duties
+
+### 12. Continuity of powers and duties.
+
+(1) Where an Act confers a power or imposes a duty it is implied, unless the contrary intention appears, that the power may be exercised, or the duty is to be performed, from time to time as occasion requires.
+
+(2) Where an Act confers a power or imposes a duty on the holder of an office as such, it is implied, unless the contrary intention appears, that the power may be exercised, or the duty is to be performed, by the holder for the time being of the office.
+
+### 13. Anticipatory exercise of powers.
+
+Where an Act which (or any provision of which) does not come into force immediately on its passing confers power to make subordinate legislation, or to make appointments, give notices, prescribe forms or do any other thing for the purposes of the Act, then, unless the contrary intention appears, the power may be exercised, and any instrument made thereunder may be made so as to come into force, at any time after the passing of the Act so far as may be necessary or expedient for the purpose—
+
+- (a) of bringing the Act or any provision of the Act into force; or
+- (b) of giving full effect to the Act or any such provision at or after the time when it comes into force.
+
+### 14. Implied power to amend.[^c11097201][^c11097211][^c11097221][^key-91769c74d068748dd651689e8d158aea][^key-c399b92a875cacd9b3ddd2e9c257a96d][^key-5f1591056f118584edb5c1de4e4bbeec][^key-5870bf9f10f40a7b14f4ac58836078ab]
+
+Where an Act confers power to make—
+
+- (a) rules, regulations or byelaws; or
+- (b) Orders in Council, orders or other subordinate legislation to be made by statutory instrument,
+
+it implies, unless the contrary intention appears, a power, exercisable in the same manner and subject to the same conditions or limitations, to revoke, amend or re-enact any instrument made under the power.
+
+### 14A. Power to include sunset and review provisions in subordinate legislation[^c21792411]
+
+(1) This section applies where an Act confers a power or a duty on a person to make subordinate legislation except to the extent that—
+
+- (a) the power or duty is exercisable by the Scottish Ministers, or
+- (b) the power or duty is exercisable by any other person within devolved competence (within the meaning of the Scotland Act 1998).
+
+(2) The subordinate legislation may include—
+
+- (a) provision requiring the person to review the effectiveness of the legislation within a specified period or at the end of a specified period;
+- (b) provision for the legislation to cease to have effect at the end of a specified day or a specified period;
+- (c) if the power or duty is being exercised to amend other subordinate legislation, provision of the kind mentioned in paragraph (a) or (b) in relation to that other legislation.
+
+(3) The provision that may be made by virtue of subsection (2)(a) includes provision requiring the person to consider whether the objectives which it was the purpose of the legislation to achieve remain appropriate and, if so, whether they could be achieved in another way.
+
+(4) Subordinate legislation including provision of a kind mentioned in subsection (2) may make such provision generally or only in relation to specified provisions of the legislation or specified cases or circumstances.
+
+(5) Subordinate legislation including provision of a kind mentioned in subsection (2) may make transitional, consequential, incidental or supplementary provision or savings in connection with such provision.
+
+(6) In this section, “**specified**” means specified in the subordinate legislation.
+
+## Repealing enactments
+
+### 15. Repeal of repeal.
+
+Where an Act repeals a repealing enactment, the repeal does not revive any enactment previously repealed unless words are added reviving it.
+
+### 16. General savings.[^c11097291][^c11097301][^key-af7afb29dcfa492c5b78980163491a62][^key-3aeefd10df8ddd5d3ca608d2067fb3ee][^key-f22ad4673a1a6afa9ca5e5da7d6b7819][^key-8eafd90bd6fdee163b0d7dd4b6ec611d][^key-04f71cf5b9387340a36921b5f9a5f8a0][^key-8f681b237b4a8fe299310e74daab288c][^key-378afbb47f582952ff78274464851243][^key-bca1d2501c63a0e01f290bb9afcdc2f1][^key-2f8a67973ca0aea053933b9ff00360ac][^key-cf08201b29fece7acb204ae000c418ae][^key-1a36b9ee89bff5f8890f55a9c1d334cf][^key-0143bd83efecd2a821f15397f2af1c68][^key-3a6e96f92d4eb264f02b5a45bf751e85][^M_C_42a58760-0b6e-4d69-baaa-c135defa4a78]
+
+(1)[^c11097311][^c18367421][^c19737831][^c19948491][^c19948441][^c20266661][^c21790281][^c21790291][^c21790301][^key-85408a93fdc4fa4e7eeec805396d7a54] Without prejudice to section 15, where an Act repeals an enactment, the repeal does not, unless the contrary intention appears,—
+
+- (a) revive anything not in force or existing at the time at which the repeal takes effect;
+- (b) affect the previous operation of the enactment repealed or anything duly done or suffered under that enactment;
+- (c) affect any right, privilege, obligation or liability acquired, accrued or incurred under that enactment;
+- (d) affect any penalty, forfeiture or punishment incurred in respect of any offence committed against that enactment;
+- (e) affect any investigation, legal proceeding or remedy in respect of any such right, privilege, obligation, liability, penalty, forfeiture or punishment;
+
+and any such investigation, legal proceeding or remedy may be instituted, continued or enforced, and any such penalty, forfeiture or punishment may be imposed, as if the repealing Act had not been passed.
+
+(2) This section applies to the expiry of a temporary enactment as if it were repealed by an Act.
+
+### 17. Repeal and re-enactment.[^c18814001][^c11097331][^c21791631]
+
+(1) Where an Act repeals a previous enactment and substitutes provisions for the enactment repealed, the repealed enactment remains in force until the substituted provisions come into force.
+
+(2)[^c11097341][^c21791641][^c21791651][^key-b103c352e4810a67ded9359eb72605ba][^key-781e121dca0d34e437fd34e9612a8aa7][^key-a74a2ba59be32e589d0685b160dbe991][^key-edf8ef54546f90eeac238334b48ce77d][^M_C_24080f7d-6eec-4be4-f109-9047681e47ab][^key-1f91ae7f2062ebf5d0edec1b4c089d5a][^key-29947b8779ebdd9f8c082aa49839a533] Where an Act repeals and re-enacts, with or without modification, a previous enactment then, unless the contrary intention appears,—
+
+- (a)[^c11097351] any reference in any other enactment to the enactment so repealed shall be construed as a reference to the provision re-enacted;
+- (b)[^c11097361] in so far as any subordinate legislation made or other thing done under the enactment so repealed, or having effect as if so made or done, could have been made or done under the provision re-enacted, it shall have effect as if made or done under that provision.
+
+## Miscellaneous
+
+### 18. Duplicated offences.
+
+Where an act or omission constitutes an offence under two or more Acts, or both under an Act and at common law, the offender shall, unless the contrary intention appears, be liable to be prosecuted and punished under either or any of those Acts or at common law, but shall not be liable to be punished more than once for the same offence.
+
+### 19. Citation of other Acts.
+
+(1) Where an Act cites another Act by year, statute, session or chapter, or a section or other portion of another Act by number or letter, the reference shall, unless the contrary intention appears, be read as referring—
+
+- (a) in the case of Acts included in any revised edition of the statutes printed by authority, to that edition;
+- (b) in the case of Acts not so included but included in the edition prepared under the direction of the Record Commission, to that edition;
+- (c) in any other case, to the Acts printed by the Queen’s Printer, or under the superintendence or authority of Her Majesty’s Stationery Office.
+
+(2) An Act may continue to be cited by the short title authorised by any enactment notwithstanding the repeal of that enactment.
+
+### 20. References to other enactments etc..[^key-84365804bf356dcc434369187b5f2913]
+
+(1) Where an Act describes or cites a portion of an enactment by referring to words, sections or other parts from or to which (or from and to which) the portion extends, the portion described or cited includes the words, sections or other parts referred to unless the contrary intention appears.
+
+(2)[^c18367031][^c18814461] Where an Act refers to an enactment, the reference, unless the contrary intention appears, is a reference to that enactment as amended, and includes a reference thereto as extended or applied, by or under any other enactment, including any other provision of that Act.
+
+(2A)[^key-6d2e1957f6779b22458309819b5f5847] Where—
+
+- (a) an Act passed on or after IP completion day refers to any treaty relating to the EU or any instrument or other document of an EU entity, and
+- (b) the treaty, instrument or document has effect by virtue of section 7A or 7B of the European Union (Withdrawal) Act 2018 (general implementation of remainder of EU withdrawal agreement etc.),
+
+the reference, unless the contrary intention appears and so far as required for the purposes of relevant separation agreement law, is a reference to the treaty, instrument or document as it so has effect (including, so far as so required, as it has effect from time to time).
+
+(3)[^key-8d3936e52acce23a357d173ca70a4300] Subject to subsection (2A), where[^key-99ade20bfe00fc29af11538dee0549fd] an Act passed on or after IP completion day[^key-82a968042816392d9e5657a55fba4bca] refers to any EU regulation, EU decision, EU tertiary legislation or provision of the EEA agreement, the reference, unless the contrary intention appears, is a reference to the EU regulation, EU decision, EU tertiary legislation or provision of the EEA agreement as it forms part of domestic law by virtue of section 3 of the European Union (Withdrawal) Act 2018 or section 1 of the Direct Payments to Farmers (Legislative Continuity) Act 2020.
+
+(4) Subsection (3) does not determine any question as to whether the reference is to be read as a reference to the EU regulation, EU decision, EU tertiary legislation or provision of the EEA agreement as modified by domestic law (and, accordingly, is without prejudice to subsection (2)).
+
+(5) Any expression in subsections (2A) to[^key-2dc7eaf80a642000bc3dad370cd2adb9] (4) which is defined in the European Union (Withdrawal) Act 2018 has the same meaning in the subsection concerned[^key-95d40f9fa37b537df35029b310f34b65] as in that Act.
+
+(6)[^key-7c80829e808d8793c3ffcfe2116ee5ec] In this section, “treaty” includes any international agreement (and any protocol or annex to a treaty or international agreement).
+
+### 20A. References to certain EU instruments[^c18370301][^key-01b5d7410483404fefbc3199c921a90b][^c19948511]
+
+Where an Act passed after the commencement of this section refers to a EU[^c19948531] instrument that has been amended, extended or applied by another such instrument, the reference, unless the contrary intention appears, is a reference to that instrument as so amended, extended or applied.
+
+## Supplementary
+
+### 21. Interpretation etc.
+
+(1) In this Act “**Act**” includes a local and personal or private Act; and “**subordinate legislation**” means Orders in Council, orders, rules, regulations, schemes, warrants, byelaws and other instruments made or to be made under any Act or made or to be made on or after[^key-d69c4b733c0b5dd5ae2acff7d373f070] IP completion day under any[^key-d2da8e0cd3415f3b236459dff7a5f584] assimilated direct[^key-7f7b5d754ab29aa3635535f55ffb33fe] legislation other than assimilated direct CAP legislation as so defined or made or to be made on or after exit day under[^key-7b39e22664de31530496e1552ba46b33] assimilated direct CAP legislation as defined in section 2 of the Direct Payments to Farmers (Legislative Continuity) Act 2020.
+
+(2) This Act binds the Crown.
+
+### 22. Application to Acts and Measures.
+
+(1) This Act applies to itself, to any Act passed after the commencement of this Act (subject[^c18370541] , in the case of section[^key-d263950c5dad617ea545c556d51dffeb] 20(2A) to (6)[^key-64e19b8f4cac56c2da79734e56be7e9d], to the provision made in section 20(2A) or (3)[^key-3dd44e945c669f4637020ae0d2301805] and, in the case of section 20A, to the provision made in that section) and, to the extent specified in Part I of Schedule 2, to Acts passed before the commencement of this Act.
+
+(2) In any of the foregoing provisions of this Act a reference to an Act is a reference to an Act to which that provision applies; but this does not affect the generality of references to enactments or of the references in section 19(1) to other Acts.
+
+(3) This Act applies to Measures of the General Synod of the Church of England (and, so far as it relates to Acts passed before the commencement of this Act, to Measures of the Church Assembly passed after 28th May 1925) as it applies to Acts.
+
+### 23. Application to other instruments.
+
+(1)[^c11097371] The provisions of this Act, except sections 1 to 3 and 4(b), apply, so far as applicable and unless the contrary intention appears, to subordinate legislation made after the commencement of this Act and, to the extent specified in Part II of Schedule 2, to subordinate legislation made before the commencement of this Act, as they apply to Acts.
+
+(2)[^c11097371] In the application of this Act to Acts passed or subordinate legislation made after the commencement of this Act, all references to an enactment include an enactment comprised in subordinate legislation whenever made, and references to the passing or repeal of an enactment are to be construed accordingly.
+
+(3)[^c11097391] Sections 9 and 19(1) also apply to deeds and other instruments and documents as they apply to Acts and subordinate legislation; and in the application of section 17(2)(a) to Acts passed or subordinate legislation made after the commencement of this Act, the reference to any other enactment includes any deed or other instrument or document.
+
+(4) Subsections (1) and (2) of this section do not apply to Orders in Council made under section 5 of the [^c11097401]Statutory Instruments Act 1946, section 1(3) of the [^c11097411]Northern Ireland (Temporary Provisions) Act 1972 or Schedule 1 to the [^c11097421]Northern Ireland Act 1974.
+
+### 23ZA. Assimilated direct legislation[^key-085acc3e55e30a0334e305e09ad5e90a][^key-13c4a95cddd705a3dea65a223f3314c9]
+
+(1) The provisions of this Act (except sections 1 to 4, 13 and 19(2)) apply, so far as applicable and unless the contrary intention appears, to any assimilated direct[^key-8f09e5e73923155d3864c473141a6a8d] legislation so far as it—
+
+- (a) is amended by an Act, subordinate legislation or devolution legislation, and
+- (b) is not subordinate legislation,
+
+as they apply to an Act passed at the corresponding time.
+
+(2) In their application by virtue of subsection (1)—
+
+- (a) section 10 has effect as if the reference to the passing of the Act were a reference to the corresponding time,
+- (b) section 11 has effect as if the second reference to an Act included a reference to the assimilated direct legislation so far as unamended (as well as a reference to that legislation so far as amended), and
+- (c) section 16(1) has effect as if the reference to the repealing Act not being passed were a reference to the repeal not having been made.
+
+(3) References in this Act to the repeal of an enactment are to be read, in the case of an enactment which is assimilated direct legislation, as references to the revocation of the enactment.
+
+(4) In Schedule 1—
+
+- (a) in the definition of “Commencement”, the references to an enactment do not include any assimilated direct legislation other than—
+  - (i) any such legislation to which subsection (1) applies, [^key-472d2265b855f5ecba955dfa6924f416]...
+  - (ia)[^key-a68245f420894530675afd31ae17c478] any instrument made on or after exit day under assimilated direct CAP legislation as defined in section 2 of the Direct Payments to Farmers (Legislative Continuity) Act 2020, or
+  - (ii) any instrument , not falling within sub-paragraph (ia),[^key-b352eaf36ed66ac9d6445148bd004d66] made on or after IP completion day[^key-21e7661fceaf72ad96dbf51a97dc0c48] under any assimilated direct legislation, and
+- (b) in the definitions of “The Corporation Tax Acts” and “The Income Tax Acts”, the references to an enactment do not include any assimilated direct legislation.
+
+(5) For the application of this Act to assimilated direct legislation which is subordinate legislation, see section 23(1) and (2).
+
+(6) In this section—
+
+- “**corresponding time**” means the time when the amending Act, subordinate legislation or devolution legislation was passed or (as the case may be) made, and
+- “**devolution legislation**” means—
+  - (a) an Act of the Scottish Parliament,
+  - (b) a Measure or Act of the National Assembly for Wales,
+  - (c) Northern Ireland legislation (for the meaning of which see section 24(5)), or
+  - (d) an instrument made under anything falling within paragraph (a), (b) or (c).
+
+### 23A. Acts of the Scottish Parliament etc.[^c11097431]
+
+(1) This Act applies in relation to an Act of the Scottish Parliament and an instrument made under such an Act only to the extent provided in this section.
+
+(2) Except as provided in subsection (3) below, sections 15 to 18 apply to—
+
+- (a) an Act of the Scottish Parliament as they apply to an Act,
+- (b) an instrument made under an Act of the Scottish Parliament as they apply to subordinate legislation.
+
+(3) In the application of those sections to an Act and to subordinate legislation—
+
+- (a) references to an enactment include an enactment comprised in, or in an instrument made under, an Act of the Scottish Parliament, and
+- (b) the reference in section 17(2)(b) to subordinate legislation includes an instrument made under an Act of the Scottish Parliament.
+
+(4) In the application of section 20 to an Act and to subordinate legislation, references to an enactment include an enactment comprised in, or in an instrument made under, an Act of the Scottish Parliament.
+
+### 23B. Application of this Act to Welsh legislation[^key-d6611e3b4ff1cc9a5dbf8129043455f9]
+
+(1) The provisions of this Act, except sections 1 to 3, apply to the following as they apply to an Act—
+
+- (a) a Measure of the National Assembly for Wales, and
+- (b) an Act of the National Assembly for Wales, other than the Legislation (Wales) Act 2019, which receives Royal Assent before 1 January 2020 (the day on which Part 2 of that Act comes fully into force)[^key-fb81c981d87323fa654ac7285734cea4].
+
+(2) The provisions of this Act apply to an instrument—
+
+- (a) made under a Measure or Act of the National Assembly for Wales, and
+- (b) made before 1 January 2020[^key-d3bb552a5c66084158a769432ce7b354],
+
+as they apply to other subordinate legislation.
+
+(3) The provisions of this Act apply to an instrument made under an Act of Parliament or assimilated direct[^key-bccb6f45001afc5d2d22cc497194ae29] legislation, and made by the Welsh Ministers or any other devolved Welsh authority, only if—
+
+- (a) the instrument is made before 1 January 2020[^key-9c4991941f6ddcbf922ebf2d80839094],
+- (b) the instrument is made (at any time) with any other person who is not a devolved Welsh authority, or
+- (c) the instrument contains any provision that applies otherwise than in relation to Wales.
+
+(4) Nothing in subsection (2) or (3) limits the operation of sections 12 to 14A in relation to a power or duty to make an instrument to which Part 2 of the Legislation (Wales) Act 2019 applies, but section 11 does not apply in relation to such an instrument.
+
+(5) In the application of this Act to a Measure or Act of the National Assembly for Wales, references to the passing of an Act or an enactment are to be read as references to the enactment of the Measure or Act.
+
+(6) In this section, “**devolved Welsh authority**” , “Welsh zone” and (subject to subsection (7)) “Wales”[^key-9c4eea4ea5cc458eda69bb6320a6f732] have the same meanings as in the Government of Wales Act 2006 (see sections 157A and 158 of that Act).
+
+(7)[^key-de824a4b7492cb0c294dff8ee0d17f30] In relation to a provision that—
+
+- (a) relates to fishing, fisheries or fish health, and
+- (b) is contained in an instrument made after section 45 of the Fisheries Act 2020 comes into force,
+
+“Wales” includes the area of the Welsh zone beyond the seaward limit of the territorial sea.
+
+### 23C. Interpretation of this Act in relation to Welsh legislation
+
+(1) In this Act, references to an enactment include an enactment comprised in—
+
+- (a) a Measure of the National Assembly for Wales,
+- (b) an Act of the National Assembly for Wales (whenever the Act receives Royal Assent),
+- (c) an instrument made under such an Act or Measure (whenever the instrument is made), or
+- (d) an instrument made under an Act of Parliament or assimilated direct[^key-a7d66343022bb3ee5baf8b7d4d5e4988] legislation, and made by the Welsh Ministers or any other devolved Welsh authority (whenever the instrument is made, and whether or not it is made with any other person),
+
+but the reference in section 16(2) to a temporary enactment does not include an enactment comprised in legislation to which Part 2 of the Legislation (Wales) Act 2019 applies (see section 3(1) of that Act).
+
+(1A)[^key-af2afbe0fae33e3ff8abbe1a50d32248] In section 14(b), the reference to a statutory instrument includes a Welsh statutory instrument.
+
+(2) In section 17(2)(b), the reference to subordinate legislation includes an instrument to which Part 2 of the Legislation (Wales) Act 2019 applies.
+
+(3) In section 18, the reference to an act or omission which constitutes an offence under two or more Acts includes an act or omission which constitutes an offence under—
+
+- (a) any legislation to which that section applies, and
+- (b) any legislation to which Part 2 of the Legislation (Wales) Act 2019 applies,
+
+and the reference to “those Acts” is to be read accordingly.
+
+(4) In section 19(1), references to “another Act” include—
+
+- (a) a Measure of the National Assembly for Wales, and
+- (b) an Act of the National Assembly for Wales (whenever the Act receives Royal Assent),
+
+and the reference in paragraph (c) to “Acts” is to be read accordingly.
+
+### 24. Application to Northern Ireland.[^c11097501]
+
+(1) This Act extends to Northern Ireland so far as it applies to Acts or subordinate legislation which so extend.
+
+(2) In the application of this Act to Acts passed or subordinate legislation made after the commencement of this Act, all references to an enactment include an enactment comprised in Northern Ireland legislation whenever passed or made; and in relation to such legislation references to the passing or repeal of an enactment include the making or revocation of an Order in Council.
+
+(3) In the application of section 14 to Acts passed after the commencement of this Act which extend to Northern Ireland, “statutory instrument” includes statutory rule for the purposes of the [^c11097521]Statutory Rules (Northern Ireland) Order 1979[^c11097511].
+
+(3A)[^c18370641] Section 20A applies to Northern Ireland legislation as it applies to Acts.
+
+(4) The following definitions contained in Schedule 1, namely those of—
+
+- [^c11097531]...
+- The Communities [^key-8a7e5cee77f661d3332ea83e8e2df241]...;
+- The Corporation Tax Acts;
+- E.C.S.C. Treaty;[^key-ee9bb012791f68dc429bcad4b662988d]
+- E.E.C. Treaty;
+- EEA[^c18370671] agreement and EEA state;
+- Entry date;[^key-34e595ab551a5b4aeb26786cce8a4bbe]
+- The EU or the European Union;
+- EU institution;
+- EU instrument;
+- Euratom, Economic Community and Coal and Steel Community;
+- Euratom Treaty;
+- European Court;
+- The Income Tax Acts;
+- Member (in the expression “member State”);[^key-b533f1a90c997ffba0fd2d0f2fa450c8]
+- The Tax Acts ;[^key-ea4549e861a8ce117704c5798c3aaa43]
+- The Treaties or the EU Treaties,
+
+apply, unless the contrary intention appears, to Northern Ireland legislation as they apply to Acts.
+
+(5) In this section “**Northern Ireland legislation**” means—
+
+- (a) Acts of the Parliament of Ireland;
+- (b) Acts of the Parliament of Northern Ireland;
+- (c) Orders in Council under section 1(3) of the [^c11097541]Northern Ireland (Temporary Provisions) Act 1972;
+- (d)[^c11097551] Measures of the Northern Ireland Assembly established under section 1 of the [^c11097561]Northern Ireland Assembly Act 1973;
+- (e) Orders in Council under Schedule 1 to the [^c11097571]Northern Ireland Act 1974;
+- (f) Acts of the Northern Ireland Assembly; and
+- (g) Orders in Council under section 85 of the Northern Ireland Act 1998.
+
+### 25. Repeals and savings.
+
+(1)[^c11097581] The enactments described in Schedule 3 are repealed to the extent specified in the third column of that Schedule.
+
+(2) Without prejudice to section 17(2)(a), a reference to the [^c11097591]Interpretation Act 1889, to any provision of that Act or to any other enactment repealed by this Act, whether occurring in another Act, in subordinate legislation, in Northern Ireland legislation or in any deed or other instrument or document, shall be construed as referring to this Act, or to the corresponding provision of this Act, as it applies to Acts passed at the time of the reference.
+
+(3) The provisions of this Act relating to Acts passed after any particular time do not affect the construction of Acts passed before that time, though continued or amended by Acts passed thereafter.
+
+### 26. Commencement.
+
+This Act shall come into force on 1st January 1979.
+
+### 27. Short title.
+
+This Act may be cited as the Interpretation Act 1978.
+
+SCHEDULES
+
+## SCHEDULE 1 — Words and Expressions Defined[^c18371271]
+
+Section 5.
+
+*Note:* The years or dates which follow certain entries in this Schedule are relevant for the purposes of paragraph 4 of Schedule 2 (application to existing enactments).
+
+### Definitions
+
+-
+  - “[^c18819761]**Act**” means an Act of Parliament.
+  - “**Associated state**” means a territory maintaining a status of association with the United Kingdom in accordance with the [^c18817271]West Indies Act 1967. \[16th February 1967\]
+  - “**Bank of England**” means, as the context requires, the Governor and Company of the Bank of England or the bank of the Governor and Company of the Bank of England.
+  - “**Bank of Ireland**” means, as the context requires, the Governor and Company of the Bank of Ireland or the bank of the Governor and Company of the Bank of Ireland.
+  - “**British Islands**” means the United Kingdom, the Channel Islands and the Isle of Man. \[1889\]
+  - “[^c18819821]**British overseas territory**” has the same meaning as in the British Nationality Act 1981;
+  - “**British possession**” means any part of Her Majesty’s dominions outside the United Kingdom; and where parts of such dominions are under both a central and a local legislature, all parts under the central legislature are deemed, for the purposes of this definition, to be one British possession. \[1889\]
+  - [^c18817281]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - “**Building regulations**”, in relation to England and Wales, has the meaning given by section 122 of the Building Act 1984[^c18817301]
+  - “**Central funds**”, in an enactment providing in relation to England and Wales for the payment of costs out of central funds, means money provided by Parliament.
+  - “[^c21792141]**Charity Commission**” means the Charity Commission for England and Wales (see section 13 of the Charities Act 2011).
+  - “**Church Commissioners**” means the Commissioners constituted by the [^c18817321]Church Commissioners Measure 1947.
+  - “[^c18823871]**Civil partnership**” means a civil partnership which exists under or by virtue of the Civil Partnership Act 2004 (and any reference to a civil partner is to be read accordingly).
+  - “**Colonial legislature**”, and “**legislature**” in relation to a British possession, mean the authority, other than the Parliament of the United Kingdom or Her Majesty in Council, competent to make laws for the possession. \[1889\]
+  - “**Colony**” means any part of Her Majesty’s dominions outside the British Islands except—
+    - (a) countries having fully responsible status within the Commonwealth;
+    - (b) territories for whose external relations a country other than the United Kingdom is responsible;
+    - (c) associated states:
+
+    and where parts of such dominions are under both a central and a local legislature, all parts under the central legislature are deemed for the purposes of this definition to be one colony. \[1889\]
+  - “**Commencement**”, in relation to an Act or enactment, means the time when the Act or enactment comes into force.
+  - “**Committed for trial**” means—
+    - (a) [^c21792271]...
+    - (b) in relation to Northern Ireland, committed in custody or on bail by a magistrates’ court pursuant to Article 37 of the Magistrates’ Courts (Northern Ireland) Order 1981[^c18817391], or by a court, judge, resident magistrate [^c18820341]... or other authority having power to do so, with a view to trial on indictment. \[1st January 1979\]
+  - [^key-5cd4fe2aa416937340a36368148cc3c8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - “**Comptroller and Auditor General**” means the Comptroller-General of the receipt and issue of Her Majesty’s Exchequer and Auditor-General of Public Accounts [^c22717901]....
+  - “**Consular officer**” has the meaning assigned by Article 1 of the Vienna Convention set out in Schedule 1 to the [^c18817461]Consular Relations Act 1968.
+  - “[^c18817471]**The Corporation Tax Acts**” means the enactments relating to the taxation of the income and chargeable gains of companies and of company distributions (including provisions relating to income tax);
+  - “**County court**” means—
+    - (a) in relation to England and Wales, the county court established under section A1 of[^key-5b6240603263f4e5a9a99196b6384834] the County Courts Act 1984[^c18817481]; \[1846\]
+    - (b) in relation to Northern Ireland, a court held for a division *(Extent: N.I.)* *(affected by repeal, see note)*[^key-f8502e2f7c7c59f4834ab3aca9677a16] under the County Courts (Northern Ireland) Order 1980[^c18817511]. \[1889\]
+  - “**Court of Appeal**” means—
+    - (a) in relation to England and Wales, Her Majesty’s Court of Appeal in England;
+    - (b) in relation to Northern Ireland, Her Majesty’s Court of Appeal in Northern Ireland.
+  - “[^c18824031]**Court of Judicature**” means the Court of Judicature of Northern Ireland.
+  - “**Court of summary jurisdiction**”, “**summary conviction**” and “**Summary Jurisdiction Acts**”, in relation to Northern Ireland, have the same meanings as in Measures of the Northern Ireland Assembly and Acts of the Parliament of Northern Ireland.
+  - “**Crown Court**” means—
+    - (a) in relation to England and Wales, the Crown Court constituted by section 4 of the [^c18817521]Crown Courts Act 1971;
+    - (b) in relation to Northern Ireland, the Crown Court constituted by section 4 of the [^c18817531]Judicature (Northern Ireland) Act 1978.
+  - “**Crown Estate Commissioners**” means the Commissioners referred to in section 1 of the [^c18817541]Crown Estate Act 1961.
+  - [^key-d2f8782d184390ad491f1da44697bba9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - [^key-576aaedacb618834ad84813afbedd886]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - “[^c18819771]**Enactment**” includes any[^key-68784ec0c7b1fe909e9c005b57fd6629] assimilated direct[^key-54c3cde96c738a82cb15221525b0e02d] legislation but does not include an enactment comprised in, or in an instrument made under, an Act of the Scottish Parliament.
+  - “**England**” means, subject to any alteration of boundaries under Part IV of the [^c18817551]Local Government Act 1972, the area consisting of the counties established by section 1 of that Act, Greater London and the Isles of Scilly. \[1st April 1974\].
+  - “**Financial year**” means, in relation to matters relating to the Consolidated Fund, the National Loans Fund, or moneys provided by Parliament, or to the Exchequer or to central taxes or finance, the twelve months ending with 31st March. \[1889\]
+  - “**Governor-General**” includes any person who for the time being has the powers of the Governor-General, and “**Governor**”, in relation to any British possession, includes the officer for the time being administering the government of that possession. \[1889\]
+  - “[^c18823681]**Her Majesty’s Revenue and Customs**” has the meaning given by section 4 of the Commissioners for Revenue and Customs Act 2005.
+  - “**High Court**” means—
+    - (a) in relation to England and Wales, Her Majesty’s High Court of Justice in England;
+    - (b) in relation to Northern Ireland, Her Majesty’s High Court of Justice in Northern Ireland.
+  - “[^c18823951]**The Immigration Acts**” has the meaning given by section 61 of the[^c19738011] UK Borders Act 2007.
+  - “**The Income Tax Acts**” means all enactments relating to income tax, including any provisions of the Corporation Tax Acts which relate to income tax.
+  - “**Land**” includes building and other structures, land covered with water, and any estate, interest, easement, servitude or right in or over land. \[1st January 1979\].
+  - “**Lands Clauses Acts**” means—
+    - (a) in relation to England and Wales, the [^c18817561]Lands Clauses Consolidation Act 1845 and the [^c18817571]Lands Clauses Consolidation Acts Amendment Act 1860, and any Acts for the time being in force amending those Acts; \[1889\]
+    - (b) in relation to Scotland, the [^c18817581]Lands Clauses Consolidation (Scotland) Act 1845 and the [^c18817601]Lands Clauses Consolidation Acts Amendment Act 1860, and any Acts for the time being in force amending those Acts; \[1889\]
+    - (c) in relation to Northern Ireland, the enactments defined as such by section 46(1) of the [^c18817651]Interpretation Act Northern Ireland) 1954. \[1889\]
+  - “**Local land charges register**”, in relation to England and Wales, means the register[^key-c594712b8219765a602509ed46355658] kept pursuant to section 3 of the [^c18817661]Local Land Charges Act 1975, [^key-201bf39ff0f136d749772ab70d648ff2]...
+  - “[^c21792041]**Local policing body**” has the meaning given by section 101(1) of the Police Act 1996.
+  - “**London borough**” means a borough described in Schedule 1 to the [^c18817681]London Government Act 1963, “**inner London borough**” means one of the boroughs so described and numbered from 1 to 12 and “**outer London borough**” means one of the boroughs so described and numbered from 13 to 32, subject (in each case) to any alterations made under Part IV of the [^c18817691]Local Government Act 1972 , Part 2 of the Local Government Act 1992 or Part 1 of the Local Government and Public Involvement in Health Act 2007[^c19783681].
+  - “**Lord Chancellor**” means the Lord High Chancellor of Great Britain.
+  - “**Magistrates’ court**” has the meaning assigned to it—
+    - (a) in relation to England and Wales, by section 148 of the Magistrates’ Courts Act 1980[^c18817711];
+    - (b) in relation to Northern Ireland, by Article 2(2) of the Magistrates’ Courts (Northern Ireland) Order 1981[^c18817721].
+  - “**Month**” means calendar month. \[1850\]
+  - “**National Debt Commissioners**” means the Commissioners for the Reduction of the National Debt.
+  - “**Northern Ireland legislation**” has the meaning assigned by section 24(5) of this Act. \[1st January 1979\]
+  - “**Oath**” and “**affidavit**” include affirmation and declaration, and “**swear**” includes affirm and declare.
+  - “[^c19738671]**Officer of a provider of probation services**” in relation to England and Wales, has the meaning given by section 9(1) of the Offender Management Act 2007;” and
+  - “[^c18823671]**Officer of Revenue and Customs**” has the meaning given by section 2(1) of the Commissioners for Revenue and Customs Act 2005.
+  - “**Ordnance Map**” means a map made under powers conferred by the [^c18817731]Ordnance Survey Act 1841 or the [^c18817741]Boundary Survey (Ireland) Act 1854.
+  - “**Parliamentary Election**” means the election of a Member to serve in Parliament for a constituency. \[1889\]
+  - “[^c18820141]**PAYE income**” has the meaning given by section 683 of the Income Tax (Earnings and Pensions) Act 2003.
+  - “**PAYE regulations**” means regulations under section 684 of that Act.
+  - “**Person**” includes a body of persons corporate or unincorporate. \[1889\]
+  - “[^c22717921]**Police and crime commissioner**” means a police and crime commissioner established under section 1 of the Police Reform and Social Responsibility Act 2011.
+  - “**Police area**” [^c21792061]... and other expressions relating to the police have the meaning or effect described—
+    - (a) in relation to England and Wales, by section 101(1) of the Police Act 1996[^c18819711];
+    - (b) [^c22717931]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - [^c22717951]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - “[^c18819801]**Police Service of Northern Ireland**” and “**Police Service of Northern Ireland Reserve**” have the same meaning as in the Police (Northern Ireland) Act 2000;
+  - “**The Privy Council**” means the Lords and others of Her Majesty’s Most Honourable Privy Council.
+  - “[^c19738721]**Provider of probation services**”, in relation to England and Wales, has the meaning given by section 3(6) of the Offender Management Act 2007;”.
+  - “Registered” in relation to nurses, to midwives or to nursing associates, means registered in the register maintained under article 5 of the Nursing and Midwifery Order 2001 by virtue of a qualification which is an approved qualification for the purposes of registration in the relevant part of that register.[^key-8f952bf941c926410ddefb094c7ed051]
+  - “[^c18819871]**Registered medical practitioner**” means a fully registered person within the meaning of the Medical Act 1983 who holds a licence to practise under that Act.
+  - “Registered provider of social housing” and “private registered provider of social housing” have the meanings given by section 80 of the Housing and Regeneration Act 2008 (and “non-profit” and “profit-making” in connection with a registered provider are to be read in accordance with section 115 of that Act).[^c21791921]
+  - “**Rules of Court**” in relation to any court means rules made by the authority having power to make rules or orders regulating the practice and procedure of that court, and in Scotland includes Acts of Adjournal and Acts of Sederunt; and the power of the authority to make rules of court (as above defined) includes power to make such rules for the purpose of any Act which directs or authorises anything to be done by rules of court. \[1889\]
+  - “**Secretary of State**” means one of Her Majesty’s Principal Secretaries of State.
+  - “[^c18824041]**Senior Courts**” means the Senior Courts of England and Wales.
+  - “[^c18823861]**Sent for trial**” means, in relation to England and Wales, sent by a magistrates' court to the Crown Court for trial pursuant tosection 51 or 51A of the Crime and Disorder Act 1998.
+  - “[^key-20f307411d7587eb50700ae0aaf2b4f5]**The Sentencing Code**” means the code contained in the Sentencing Act 2020 (see section 1 of that Act).
+  - “[^c18817831]**Sewerage undertaker**”, in relation to England and Wales, shall be construed in accordance with section 6 of the Water Industry Act 1991.
+  - “Sheriff” is to be construed in accordance with section 134(2) and (3) of the Courts Reform (Scotland) Act 2014.[^key-7fa72327b853f644c4158f86781a479e]
+  - “[^c18817841]**The standard scale**”, with reference to a fine or penalty for an offence triable only summarily,—
+    - (a) in relation to England and Wales, has the meaning given by section 122 of the Sentencing Code (or, in the case of an offence of which the offender was convicted before that Act came into force, section 37 of the Criminal Justice Act 1982)[^key-318232fdb01ed45e549723c29bba49b6];
+    - (b) in relation to Scotland, has the meaning given by section 225(1) of the Criminal Procedure (Scotland) Act 1995;
+    - (c) in relation to Northern Ireland, has the meaning given by Article 5 of the [^c18817871]Fines and Penalties (Northern Ireland) Order 1984.
+  - “**Statutory declaration**” means a declaration made by virtue of the [^c18817881]Statutory Declarations Act 1835.
+  - “[^c18817891]**Statutory maximum**”, with reference to a fine or penalty on summary conviction for an offence,—
+    - (a) in relation to England and Wales, means the prescribed sum within the meaning of section 32 of the [^c18817901]Magistrates’ Courts Act 1980;
+    - (b) in relation to Scotland, means the prescribed sum within the meaning of section 225(8) of the Criminal Procedure (Scotland) Act 1995; and
+    - (c) in relation to Northern Ireland, means the prescribed sum within the meaning of Article 4 of the Fines and Penalties (Northern Ireland) Order 1984.
+  - “[^c18824021]**Supreme Court**” means the Supreme Court of the United Kingdom.
+  - “[^c18817921]**The Tax Acts**” means the Income Tax Acts and the Corporation Tax Acts.
+  - “**The Treasury**” means the Commissioners of Her Majesty’s Treasury.
+  - “[^c18819721]**Trust of land**” and “**trustees of land**”, in relation to England and Wales, have the same meanings as in the Trusts of Land and Appointment of Trustees Act 1996.
+  - “**United Kingdom**” means Great Britain and Northern Ireland. \[12th April 1927\]
+  - “[^c18818361]**Wales**” means the combined area of the counties which were created by section 20 of the [^c18818371]Local Government Act 1972, as originally enacted, but subject to any alteration made under section 73 of that Act (consequential alteration of boundary following alteration of watercourse).
+  - “[^c18817971]**Water undertaker**”, in relation to England and Wales, shall be construed in accordance with section 6 of the Water Industry Act 1991.
+  - “**Writing**” includes typing, printing, lithography, photography and other modes of representing or reproducing words in a visible form, and expressions referring to writing are construed accordingly.
+
+### ...[^c11103711]
+
+[^c11103731]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Construction of certain expressions relating to offences
+
+In relation to England and Wales—
+
+- (a) “**indictable offence**” means an offence which, if committed by an adult, is triable on indictment, whether it is exclusively so triable or triable either way;
+- (b) “**summary offence**” means an offence which, if committed by an adult, is triable only summarily;
+- (c) “**offence triable either way**” means an offence , other than an offence triable on indictment only by virtue of Part V of the Criminal Justice Act 1988[^c11103741] which, if committed by an adult, is triable either on indictment or summarily;
+
+and the terms “indictable”, “summary” and “triable either way”, in their application to offences, are to be construed accordingly.
+
+In the above definitions references to the way or ways in which an offence is triable are to be construed without regard to the effect, if any, of section 22 of the Magistrates’ Courts Act 1980[^c11103751] on the mode of trial in a particular case.
+
+In relation to a term of imprisonment in respect of an offence triable either way under the law of England and Wales, “[^key-2b9d4291fbcb1df35c6bc8dded16a83b]**general limit in a magistrates’ court**” means the limit laid down in respect of the offence by section 224(1) of the Sentencing Code (as it has effect from time to time).
+
+### Construction of certain references to relationships[^c11103761]
+
+[^c11103771]In relation to England and Wales—
+
+(a) references (however expressed) to any relationship between two persons;
+
+(b) references to a person whose father and mother were or were not married to , or civil partners of,[^key-fbb9d82675c9cdc72c51baada36bb7ed] each other at the time of his birth; and
+
+(c) references cognate with references falling within paragraph (b) above,
+
+shall be construed in accordance with section 1 of the Family Law Reform Act 1987. \[The date of the coming into force of that section\]
+
+### Construction of certain expressions relating to the police: Scotland[^c22718031]
+
+In relation to Scotland—
+
+- (a) references to a police force include references to the Police Service of Scotland;
+- (b) references to a chief officer of police include references to the chief constable of the Police Service of Scotland;
+- (c) “**police authority**” means the Scottish Police Authority;
+- (d) the “police area” of the Police Service of Scotland is Scotland and references to a police force or police authority for any area include references to the Police Service of Scotland or, as the case may be, the Scottish Police Authority;
+- (e) references to a constable or chief constable of, or appointed for, any area are to be construed as references to a constable or, as the case may be, the chief constable of, or appointed for, the Police Service of Scotland.
+
+### Definitions relating to the EU and the United Kingdom's withdrawal[^key-a84e4adeb79fc2eff6c6ee0545dd93f0]
+
+- “[^key-385f4206f3e080d9796c8ec5b957c91f]**Assimilated law**”, “**assimilated direct legislation**”, “**assimilated direct minor legislation**” and “**assimilated direct principal legislation**” have the same meaning as in the European Union (Withdrawal) Act 2018 (see sections 6(7) and 20(1) of that Act) (see also paragraph 7 of Schedule 1 to the Direct Payments to Farmers (Legislative Continuity) Act 2020 and section 5 of the Retained EU Law (Revocation and Reform) Act 2023).
+- “**Assimilated obligation**” means an obligation that—
+  - (a) was created or arose by or under the EU Treaties before IP completion day, and
+  - (b) forms part of assimilated law,
+
+  as modified from time to time.
+- “**The Communities**” means Euratom, the Economic Community and the Coal and Steel Community, but a reference to any or all of those Communities is to be treated as being or including (as the context requires) a reference to the EU.
+- “**E.C.S.C. Treaty**” means the Treaty establishing the European Coal and Steel Community, signed at Paris on 18 April 1951.
+- “**EEA agreement**” means the agreement on the European Economic Area signed at Oporto on 2 May 1992, together with the Protocol adjusting that Agreement signed at Brussels on 17 March 1993, as modified or supplemented from time to time, but does not include any assimilated direct[^key-d8f0833e13a2b40c5049d6b9e8b8b374] legislation. \[8 January 2007\]
+- “**EEA state**”, in relation to a time, means—
+  - (a) a state which at that time is a member State, or
+  - (b) any other state which at that time is a party to the EEA agreement. \[8 January 2007\]
+- “**E.E.C. Treaty**” means the Treaty establishing the European Economic Community, signed at Rome on 25 March 1957.
+- “**Entry date**” means the date on which the United Kingdom became a member of the Communities (which neither includes nor is a reference to the EU).
+- “The EU” or “**the European Union**” means the European Union, being the Union established by the Treaty on European Union signed at Maastricht on 7 February 1992 (as amended by any later Treaty); and includes, so far as the context permits or requires, Euratom.
+- “**EU institution**” means any institution of the EU.
+- “**EU instrument**” means any instrument issued by an EU institution other than any assimilated direct[^key-33470f67111ee544403326f589b327d8] legislation.
+- “Euratom”, “Economic Community” and “Coal and Steel Community” mean respectively the European Atomic Energy Community, the European Economic Community and the European Coal and Steel Community (but see the definition of “the Communities” for provision as to the construction of references to those Communities).
+- “**Euratom Treaty**” means the Treaty establishing the European Atomic Energy Community, signed at Rome on 25 March 1957.
+- “**European Court**” means the Court of Justice of the European Union.
+- “EU withdrawal agreement” means the withdrawal agreement within the meaning of the European Union (Withdrawal Agreement) Act 2020 (see section 39(1) and (6) of that Act).[^key-b0e2c8db4156fc2ec22843c5e97938cd]
+- “Exit day” (and related expressions) have the same meaning as in the European Union (Withdrawal) Act 2018 (see section 20(1) to (5) of that Act).
+- “IP completion day” (and related expressions) have the same meaning as in the European Union (Withdrawal Agreement) Act 2020 (see section 39(1) to (5) of that Act).[^key-0c16d86f919e9463a9b4f26d18d363b4]
+- “Member”, in the expression “member State”, refers to membership of the EU.
+- [^key-6604378262e348a2c59e3c00c3920931]...
+- [^key-2bad1dd7f507b98e88acadc96c5f1f22]...
+- “The Treaties” or “**the EU Treaties**” means the Treaties or EU Treaties as at immediately before IP completion day and[^key-c5ff7710035b360dee194c5d8489d3f4] within the meaning given by section 1(2) of the European Communities Act 1972 as that Act had effect immediately before IP completion day[^key-9bfe268fb822fac44c6ce619c5968c13].
+
+## SCHEDULE 2 — Application of Act to Existing Enactments
+
+Sections 22, 23.
+
+### Part I — Acts
+
+**1.** The following provisions of this Act apply to Acts whenever passed:—
+
+- Section 6(a) and (c) so far as applicable to enactments relating to offences punishable on indictment or on summary conviction
+- Section 9
+- Section 10
+- Section 11 so far as it relates to subordinate legislation made after the year 1889
+- Section 14A[^c21792321]
+- Section 18
+- Section 19(2).
+
+**2.** The following apply to Acts passed after the year 1850:—
+
+- Section 1
+- Section 2
+- Section 3
+- Section 6(a) and (c) so far as not applicable to such Acts by virtue of paragraph 1
+- Section 15
+- Section 17(1).
+
+**3.** The following apply to Acts passed after the year 1889:—
+
+- Section 4
+- Section 7
+- Section 8
+- Section 12
+- Section 13
+- Section 14 so far as it relates to rules, regulations or byelaws
+- Section 16(1)
+- Section 17(2)(a)
+- Section 19(1)
+- Section 20(1).
+
+**4.** (1) Subject to the following provisions of this paragraph—
+
+- (a) paragraphs of Schedule 1 at the end of which a year or date [^c11103851]. . . is specified or described[^c11103861] apply, so far as applicable, to Acts passed on or after the date, or after the year, so specified or described: and
+- (b) paragraphs of that Schedule at the end of which no year or date is specified or described apply, so far as applicable, to Acts passed at any time.
+
+(2) The definition of “British Islands”, in its application to Acts passed after the establishment of the Irish Free State but before the commencement of this Act, includes the Republic of Ireland.
+
+(3) The definition of “colony”, in its application to an Act passed at any time before the commencement of this Act, includes—
+
+- (a) any colony within the meaning of section 18(3) of the [^c11103891]Interpretation Act 1889 which was excluded, but in relation only to Acts passed at a later time, by any enactment repealed by this Act;
+- (b) any country or territory which ceased after that time to be part of Her Majesty’s dominions but subject to a provision for the continuation of existing law as if it had not so ceased;
+
+and paragraph (b) of the definition does not apply.
+
+(4) The definition of “Lord Chancellor” does not apply to Acts passed before 1st October 1921 in which that expression was used in relation to Ireland only.
+
+(5) The definition of “person”, so far as it includes bodies corporate, applies to any provision of an Act whenever passed relating to an offence punishable on indictment or on summary conviction.
+
+(6) This paragraph applies to [^c11103901]. . . the [^c11103911]Water Act 1973 as if they were passed after 1st April 1974.
+
+**5.** The following definitions shall be treated as included in Schedule 1 for the purposes specified in this paragraph—
+
+- (a) in any Act passed before 1st April 1974, a reference to England includes Berwick upon Tweed and Monmouthshire and, in the case of an Act passed before the [^c11103921]Welsh Language Act 1967, Wales;
+- (b) in any Act passed before the commencement of this Act and after the year 1850, “**land**” includes messuages, tenements and hereditaments, houses and buildings of any tenure;
+- (c) in any Act passed before the commencement of the [^c11103931]Criminal Procedure (Scotland) Act 1975, “**the Summary Jurisdiction (Scotland) Acts**” means Part II of that Act.
+
+### Part II — Subordinate Legislation
+
+**6.** Sections 4(a), 9 and 19(1), and so much of Schedule 1 as defines the following expressions, namely—
+
+- [^c11103941]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- England;
+- Local land charges register and appropriate local land charges register;
+- in relation to Scotland, expressions relating to the police;[^c22718001]
+- United Kingdom;
+- Wales,
+
+apply to subordinate legislation made at any time before the commencement of this Act as they apply to Acts passed at that time.
+
+**7.** The definition in Schedule 1 of “**county court**”, in relation to England and Wales, applies to Orders in Council made after the year 1846.
+
+**8.**[^key-c6c0b9cad2d7087536f92206f5124759] The definition in Schedule 1 of “enactment”, in so far as it relates to assimilated direct[^key-b00e21e85436c7b1a4ac1d72cc148199] legislation, applies to subordinate legislation made at any time before the commencement of this Act as it applies to Acts passed at that time.
+
+## SCHEDULE 3 — ENACTMENTS REPEALED[^c11103951]
+
+Section 25.
+
+[image: see source](https://www.legislation.gov.uk/ukpga/1978/30/images/ukpga_19780030_en_sld_001)[image: see source](https://www.legislation.gov.uk/ukpga/1978/30/images/ukpga_19780030_en_sld_002)[image: see source](https://www.legislation.gov.uk/ukpga/1978/30/images/ukpga_19780030_en_sld_003)
+
+## Annotations
+
+[^c11097061]: Commencement: Act wholly in force at 1.1.1979, see s. 26
+
+[^c11097051]: Modification: Act modified (E.W.S.) by [Road Traffic Regulation Act 1984 (c. 27, SIF 107:1)](https://www.legislation.gov.uk/ukpga/1984/27), [s. 144](https://www.legislation.gov.uk/ukpga/1984/27/section/144), [Sch. 10 para. 19](https://www.legislation.gov.uk/ukpga/1984/27/schedule/10/paragraph/19)
+
+[^c11097071]: Modification: Act: definition of "subordinate legislation" applied (E.W.) (1.12.1991) by [Water Industry Act 1991 (c. 56, SIF 130)](https://www.legislation.gov.uk/ukpga/1991/56), [ss. 219(1)](https://www.legislation.gov.uk/ukpga/1991/56/section/219/1), [223(2)](https://www.legislation.gov.uk/ukpga/1991/56/section/223/2) (with [ss. 82(3)](https://www.legislation.gov.uk/ukpga/1991/56/section/82/3), [186(1)](https://www.legislation.gov.uk/ukpga/1991/56/section/186/1), [222(1)](https://www.legislation.gov.uk/ukpga/1991/56/section/222/1), [Sch. 13 paras. 1](https://www.legislation.gov.uk/ukpga/1991/56/schedule/13/paragraph/1), [2](https://www.legislation.gov.uk/ukpga/1991/56/schedule/13/paragraph/2), [Sch. 14 para. 6](https://www.legislation.gov.uk/ukpga/1991/56/schedule/14/paragraph/6))
+
+    Act: definition of "subordinate legislation" applied (E.W.) (1.12.1991) by [Water Resources Act 1991 (c. 57, SIF 130)](https://www.legislation.gov.uk/ukpga/1991/57), [ss. 221(1)](https://www.legislation.gov.uk/ukpga/1991/57/section/221/1), [225(1)](https://www.legislation.gov.uk/ukpga/1991/57/section/225/1)
+
+[^c11097081]: Modification: Act applied (1.4.1995) by [S.R. 1995/71](https://www.legislation.gov.uk/nisr/1995/71), [arts. 1(1)(a)](https://www.legislation.gov.uk/nisr/1995/71/article/1/1/a), [2(2)](https://www.legislation.gov.uk/nisr/1995/71/article/2/2)
+
+    Act applied (with modifications) (27.9.1999) by [S.I. 1999/2453](https://www.legislation.gov.uk/uksi/1999/2453), [reg. 3](https://www.legislation.gov.uk/uksi/1999/2453/regulation/3)
+
+    Act applied (1.1.2001) by [S.I. 2000/2047](https://www.legislation.gov.uk/uksi/2000/2047), [rule 2(2)](https://www.legislation.gov.uk/uksi/2000/2047/rule/2/2)
+
+    Act applied (1.7.2001) by [S.I. 2000/2048](https://www.legislation.gov.uk/uksi/2000/2048), [rules 1](https://www.legislation.gov.uk/uksi/2000/2048/rule/1), [2(2)](https://www.legislation.gov.uk/uksi/2000/2048/rule/2/2); [Instrument dated 21.6.2001 made by the Archbishops of Canterbury and York](https://www.legislation.gov.uk/ukci/2001-06-21)
+
+    Act applied (27.9.2001) by [S.I. 2001/3057](https://www.legislation.gov.uk/uksi/2001/3057), [Sch. para. 5(2)](https://www.legislation.gov.uk/uksi/2001/3057/schedule/paragraph/5/2)
+
+    Act applied (1.6.2004) by [The Veterinary Surgeons and Veterinary Practitioners (Disciplinary Committee) (Procedure and Evidence) Rules Order of Council 2004 (S.I. 2004/1680)](https://www.legislation.gov.uk/uksi/2004/1680), [art. 2](https://www.legislation.gov.uk/uksi/2004/1680/article/2), [Sch. rule 2](https://www.legislation.gov.uk/uksi/2004/1680/schedule/rule/2).3
+
+[^M_C_8e404e9d-5335-45db-b515-31b39621f50f]: Modification: Act applied (6.4.2005) by [The Armed Forces Pension Scheme Order 2005 (S.I. 2005/438)](https://www.legislation.gov.uk/uksi/2005/438), [arts. 1](https://www.legislation.gov.uk/uksi/2005/438/article/1), [2](https://www.legislation.gov.uk/uksi/2005/438/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/438/schedule/1) rule A.1(3)
+
+[^c19736941]: Modification: Act applied in part (1.3.2007) by [The Social Security Investigation Powers (Arrangements with Northern Ireland) Regulations 2007 (S.I. 2007/271)](https://www.legislation.gov.uk/uksi/2007/271), [reg. 3(1)](https://www.legislation.gov.uk/uksi/2007/271/regulation/3/1), [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2007/271/schedule/1/paragraph/5)
+
+[^c19948371]: Modification: Act applied (26.11.2008) by [Pensions Act 2008 (c. 30)](https://www.legislation.gov.uk/ukpga/2008/30), [ss. 73(1)](https://www.legislation.gov.uk/ukpga/2008/30/section/73/1), [149(2)(a)](https://www.legislation.gov.uk/ukpga/2008/30/section/149/2/a)
+
+[^key-f245ab15e2fdf68c32cdb88d1c82bbb3]: Modification: Act applied (N.I.) (6.4.2016) by [The Social Security (Reciprocal Agreement) (Isle of Man) Order (Northern Ireland) 2016 (S.R. 2016/189)](https://www.legislation.gov.uk/nisr/2016/189), [Sch. para. 1(3)](https://www.legislation.gov.uk/nisr/2016/189/schedule/paragraph/1/3)
+
+[^key-243f8e807421eff9d46a087549b2de7d]: Modification: Act applied (E.W.S.) (6.4.2016) by [The Social Security (Northern Ireland Reciprocal Arrangements) Regulations 2016 (S.I. 2016/287)](https://www.legislation.gov.uk/uksi/2016/287), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2016/287/regulation/2/1), [Sch. para. 1(3)](https://www.legislation.gov.uk/uksi/2016/287/schedule/paragraph/1/3)
+
+[^key-7786735a108c0dafeac8254b125005cb]: Modification: Act applied (E.W.S.) (6.4.2016) by [The Social Security (Reciprocal Agreement) (Isle of Man) Order 2016 (S.I. 2016/157)](https://www.legislation.gov.uk/uksi/2016/157), [Sch. para. 1(3)](https://www.legislation.gov.uk/uksi/2016/157/schedule/paragraph/1/3)
+
+[^key-05736faa9a4cc1d2ab049bee3daa413f]: Modification: Act applied (24.7.2020) by [The Universal Credit (Northern Ireland Reciprocal Arrangements) Regulations 2020 (S.I. 2020/677)](https://www.legislation.gov.uk/uksi/2020/677), [Sch. para. 1(3)](https://www.legislation.gov.uk/uksi/2020/677/schedule/paragraph/1/3)
+
+[^c11097091]: Modification: [S. 6(a)](https://www.legislation.gov.uk/ukpga/1978/30/section/6/a) excluded (E.W.) by [Sexual Offences Act 1985 (c. 44, SIF 39:5)](https://www.legislation.gov.uk/ukpga/1985/44), [ss. 4(3)](https://www.legislation.gov.uk/ukpga/1985/44/section/4/3), [5(5)](https://www.legislation.gov.uk/ukpga/1985/44/section/5/5)
+
+[^c11097101]: Modification: [S. 6(b)](https://www.legislation.gov.uk/ukpga/1978/30/section/6/b) excluded (E.W.) by [Sexual Offences Act 1985 (c. 44, SIF 39:5)](https://www.legislation.gov.uk/ukpga/1985/44), [ss. 4(3)](https://www.legislation.gov.uk/ukpga/1985/44/section/4/3), [5(5)](https://www.legislation.gov.uk/ukpga/1985/44/section/5/5)
+
+[^c11097111]: Modification: [S. 6(b)](https://www.legislation.gov.uk/ukpga/1978/30/section/6/b) excluded (E.W.S.) by [Employment Act 1989 (c. 38, SIF 43:1)](https://www.legislation.gov.uk/ukpga/1989/38), [ss. 5(4)(7)](https://www.legislation.gov.uk/ukpga/1989/38/section/5/4/7), [29(6)](https://www.legislation.gov.uk/ukpga/1989/38/section/29/6), [Sch. 9 para. 4(1)](https://www.legislation.gov.uk/ukpga/1989/38/schedule/9/paragraph/4/1)
+
+[^c11097151]: Modification: S. 7 modified (E.W.) (1.7.1995) by [1994 c. 36](https://www.legislation.gov.uk/ukpga/1994/36), [s. 17(2)(3)](https://www.legislation.gov.uk/ukpga/1994/36/section/17/2/3) (with [s. 20](https://www.legislation.gov.uk/ukpga/1994/36/section/20)); [S.I. 1995/1317](https://www.legislation.gov.uk/uksi/1995/1317), [art. 2](https://www.legislation.gov.uk/uksi/1995/1317/article/2)
+
+[^c18358971]: Modification: S. 7 excluded by [Insurance Companies Act 1982 (c. 50, SIF 67)](https://www.legislation.gov.uk/ukpga/1982/50), [s. 77(4)](https://www.legislation.gov.uk/ukpga/1982/50/section/77/4)
+
+    S. 7 excluded (E.W.) by [Enduring Powers of Attorney Act 1985 (c. 29, SIF 1)](https://www.legislation.gov.uk/ukpga/1985/29), [s. 4(3)](https://www.legislation.gov.uk/ukpga/1985/29/section/4/3), [Sch. 1 Pt. IV para. 8(2)](https://www.legislation.gov.uk/ukpga/1985/29/schedule/1/part/IV/paragraph/8/2)
+
+    S. 7 excluded by [Public Order Act 1986 (c. 64, SIF 39:2)](https://www.legislation.gov.uk/ukpga/1986/64), [s. 11(5)](https://www.legislation.gov.uk/ukpga/1986/64/section/11/5)
+
+    S. 7 excluded (20.6.2003) by [The Enterprise Act 2002 (Merger Prenotification) Regulations 2003 (S.I. 2003/1369)](https://www.legislation.gov.uk/uksi/2003/1369), [regs. 5](https://www.legislation.gov.uk/uksi/2003/1369/regulation/5), [11](https://www.legislation.gov.uk/uksi/2003/1369/regulation/11), [12](https://www.legislation.gov.uk/uksi/2003/1369/regulation/12), [13(5)](https://www.legislation.gov.uk/uksi/2003/1369/regulation/13/5)
+
+    S. 7 excluded (E.W.) (1.7.2005 for certain purposes and 1.8.2005 otherwise) by [Serious Organised Crime Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [ss. 133(6)](https://www.legislation.gov.uk/ukpga/2005/15/section/133/6), [178](https://www.legislation.gov.uk/ukpga/2005/15/section/178); [S.I. 2005/1521](https://www.legislation.gov.uk/uksi/2005/1521), [arts. 3(1)(p)](https://www.legislation.gov.uk/uksi/2005/1521/article/3/1/p), [4(1)](https://www.legislation.gov.uk/uksi/2005/1521/article/4/1)
+
+    S. 7 excluded (E.W.) (1.10.2007) by [The Mental Capacity Act 2005 (c. 9)](https://www.legislation.gov.uk/ukpga/2005/9), [ss. 66(3)](https://www.legislation.gov.uk/ukpga/2005/9/section/66/3), [68(1)](https://www.legislation.gov.uk/ukpga/2005/9/section/68/1), [Sch. 4 para. 12](https://www.legislation.gov.uk/ukpga/2005/9/schedule/4/paragraph/12) (with [ss. 27-29](https://www.legislation.gov.uk/ukpga/2005/9/section/27), [62](https://www.legislation.gov.uk/ukpga/2005/9/section/62)); [S.I. 2007/1897](https://www.legislation.gov.uk/uksi/2007/1897), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2007/1897/article/2/1/d)
+
+[^c11097161]: Marginal citation: [1972 c. 6](https://www.legislation.gov.uk/ukpga/1972/6).
+
+[^c19783671]: Modification: [S. 11](https://www.legislation.gov.uk/ukpga/1978/30/section/11) applied (1.1.1995) by [S.I. 1994/3144](https://www.legislation.gov.uk/uksi/1994/3144), [reg. 1(6)](https://www.legislation.gov.uk/uksi/1994/3144/regulation/1/6)
+
+[^c11097181]: Modification: [S. 11](https://www.legislation.gov.uk/ukpga/1978/30/section/11) excluded (E.W.) (1.9.1997) by [S.I. 1997/1972](https://www.legislation.gov.uk/uksi/1997/1972), [reg. 2(3)](https://www.legislation.gov.uk/uksi/1997/1972/regulation/2/3)
+
+[^c11097171]: Modification: [S. 11](https://www.legislation.gov.uk/ukpga/1978/30/section/11) applied (30.10.2005) by [The Medicines (Traditional Herbal Medicinal Products for Human Use) Regulations 2005 (S.I. 2005/2750)](https://www.legislation.gov.uk/uksi/2005/2750), [regs. 1](https://www.legislation.gov.uk/uksi/2005/2750/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2005/2750/regulation/2/3) (with transitional provisions in [reg. 12](https://www.legislation.gov.uk/uksi/2005/2750/regulation/12), [Sch. 6](https://www.legislation.gov.uk/uksi/2005/2750/schedule/6))
+
+[^c19737451]: Modification: [S. 11](https://www.legislation.gov.uk/ukpga/1978/30/section/11) excluded (S.) (1.8.2007) by [The Education (Fees and Awards) (Scotland) Regulations 2007 (S.S.I. 2007/152)](https://www.legislation.gov.uk/ssi/2007/152), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2007/152/regulation/2/2)
+
+[^c19737321]: Modification: [S. 11](https://www.legislation.gov.uk/ukpga/1978/30/section/11) excluded (W.) (31.8.2007) by [The Education (Fees and Awards) (Wales) Regulations 2007 (S.I. 2007/2310)](https://www.legislation.gov.uk/uksi/2007/2310), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2007/2310/regulation/2/2)
+
+[^c21790271]: Modification: [S. 11](https://www.legislation.gov.uk/ukpga/1978/30/section/11) excluded (S.) (1.8.2012) by [The Education (Fees) (Scotland) Regulations 2011 (S.S.I. 2011/389)](https://www.legislation.gov.uk/ssi/2011/389), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2011/389/regulation/1/1), [2(2)](https://www.legislation.gov.uk/ssi/2011/389/regulation/2/2)
+
+[^c11097201]: Modification: [S. 14](https://www.legislation.gov.uk/ukpga/1978/30/section/14) applied (E.W.) by [Water Resources Act 1991 (c. 57, SIF 130)](https://www.legislation.gov.uk/ukpga/1991/57), [ss. 138(6)](https://www.legislation.gov.uk/ukpga/1991/57/section/138/6), [225(2)](https://www.legislation.gov.uk/ukpga/1991/57/section/225/2)
+
+    [S. 14](https://www.legislation.gov.uk/ukpga/1978/30/section/14) saved (E.W.) (6.3.1992) by [School Teachers' Pay and Conditions Act 1991 (c. 49, SIF 41:1)](https://www.legislation.gov.uk/ukpga/1991/49), [s. 2(8)](https://www.legislation.gov.uk/ukpga/1991/49/section/2/8); [S.I. 1992/532](https://www.legislation.gov.uk/uksi/1992/532), [art. 3](https://www.legislation.gov.uk/uksi/1992/532/article/3)
+
+[^c11097211]: Modification: [S. 14](https://www.legislation.gov.uk/ukpga/1978/30/section/14) extended (E.W.) (10.11.1993) by [1993 c. 28](https://www.legislation.gov.uk/ukpga/1993/28), [s. 170(5)](https://www.legislation.gov.uk/ukpga/1993/28/section/170/5); [S.I. 1993/2762](https://www.legislation.gov.uk/uksi/1993/2762), [art. 3](https://www.legislation.gov.uk/uksi/1993/2762/article/3)
+
+[^c11097221]: Modification: [S. 14](https://www.legislation.gov.uk/ukpga/1978/30/section/14) excluded (15.2.1999) by [1998 c. 17](https://www.legislation.gov.uk/ukpga/1998/17), [s. 25(9)](https://www.legislation.gov.uk/ukpga/1998/17/section/25/9), (with Sch. 3 para. 5(1)); [S.I. 1999/161](https://www.legislation.gov.uk/uksi/1999/161), [art. 2](https://www.legislation.gov.uk/uksi/1999/161/article/2)
+
+    [S. 14](https://www.legislation.gov.uk/ukpga/1978/30/section/14) excluded (19.11.1998) by [1998 c. 46](https://www.legislation.gov.uk/ukpga/1998/46), [s. 115](https://www.legislation.gov.uk/ukpga/1998/46/section/115), [Sch. 7 para. 5](https://www.legislation.gov.uk/ukpga/1998/46/schedule/7/paragraph/5) (with [s. 126(3)-(11)](https://www.legislation.gov.uk/ukpga/1998/46/section/126/3))
+
+    [S. 14](https://www.legislation.gov.uk/ukpga/1978/30/section/14) excluded (28.7.2000) by [2000 c. 26](https://www.legislation.gov.uk/ukpga/2000/26), [s. 122(11)](https://www.legislation.gov.uk/ukpga/2000/26/section/122/11)
+
+[^key-91769c74d068748dd651689e8d158aea]: Modification: [S. 14](https://www.legislation.gov.uk/ukpga/1978/30/section/14) excluded (E.W.) (7.6.2018) by [Law Derived from the European Union (Wales) Act 2018 (anaw 3)](https://www.legislation.gov.uk/anaw/2018/3), [s. 21](https://www.legislation.gov.uk/anaw/2018/3/section/21), [Sch. 2 para. 5](https://www.legislation.gov.uk/anaw/2018/3/schedule/2/paragraph/5)
+
+[^key-c399b92a875cacd9b3ddd2e9c257a96d]: Modification: [S. 14](https://www.legislation.gov.uk/ukpga/1978/30/section/14) excluded (26.6.2018) by [European Union (Withdrawal) Act 2018 (c. 16)](https://www.legislation.gov.uk/ukpga/2018/16), [s. 25(1)(e)](https://www.legislation.gov.uk/ukpga/2018/16/section/25/1/e), [Sch. 7 para. 37](https://www.legislation.gov.uk/ukpga/2018/16/schedule/7/paragraph/37) (with [s. 19](https://www.legislation.gov.uk/ukpga/2018/16/section/19), [Sch. 8 para. 37](https://www.legislation.gov.uk/ukpga/2018/16/schedule/8/paragraph/37))
+
+[^key-5f1591056f118584edb5c1de4e4bbeec]: Modification: [S. 14](https://www.legislation.gov.uk/ukpga/1978/30/section/14) excluded (22.11.2018) by [Sanctions and Anti-Money Laundering Act 2018 (c. 13)](https://www.legislation.gov.uk/ukpga/2018/13), [ss. 45(7)](https://www.legislation.gov.uk/ukpga/2018/13/section/45/7), [64(2)](https://www.legislation.gov.uk/ukpga/2018/13/section/64/2) (with [ss. 52(3)](https://www.legislation.gov.uk/ukpga/2018/13/section/52/3), [53](https://www.legislation.gov.uk/ukpga/2018/13/section/53), [58](https://www.legislation.gov.uk/ukpga/2018/13/section/58)); [S.I. 2018/1213](https://www.legislation.gov.uk/uksi/2018/1213), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1213/regulation/2/b)
+
+[^key-5870bf9f10f40a7b14f4ac58836078ab]: Modification: [S. 14](https://www.legislation.gov.uk/ukpga/1978/30/section/14) excluded (31.12.2020) by [European Union (Future Relationship) Act 2020 (c. 29)](https://www.legislation.gov.uk/ukpga/2020/29), [s. 40(6)(e)](https://www.legislation.gov.uk/ukpga/2020/29/section/40/6/e), [Sch. 5 para. 33](https://www.legislation.gov.uk/ukpga/2020/29/schedule/5/paragraph/33)
+
+[^c21792411]: Textual amendment: [S. 14A](https://www.legislation.gov.uk/ukpga/1978/30/section/14A) inserted (25.4.2013) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [ss. 59(2)](https://www.legislation.gov.uk/ukpga/2013/24/section/59/2), [103(1)(e)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/1/e)
+
+[^c11097291]: Modification: S. 16 excluded (E.W.) by [Mineral Workings Act 1985 (c. 12, SIF 86)](https://www.legislation.gov.uk/ukpga/1985/12), [ss. 3(3)](https://www.legislation.gov.uk/ukpga/1985/12/section/3/3), [6(2)](https://www.legislation.gov.uk/ukpga/1985/12/section/6/2)
+
+    S. 16 excluded by [Agricultural Holdings Act 1986 (c. 5, SIF 2:3)](https://www.legislation.gov.uk/ukpga/1986/5), [s. 99](https://www.legislation.gov.uk/ukpga/1986/5/section/99), [Sch. 13 paras. 3](https://www.legislation.gov.uk/ukpga/1986/5/schedule/13/paragraph/3), [8](https://www.legislation.gov.uk/ukpga/1986/5/schedule/13/paragraph/8)
+
+    S. 16 excluded (S.) (25.9.1991) by [Agricultural Holdings (Scotland) Act 1991 (c. 55, SIF 2:3)](https://www.legislation.gov.uk/ukpga/1991/55), [ss. 87](https://www.legislation.gov.uk/ukpga/1991/55/section/87), [89(2)](https://www.legislation.gov.uk/ukpga/1991/55/section/89/2), [Sch. 12 para. 5](https://www.legislation.gov.uk/ukpga/1991/55/schedule/12/paragraph/5)
+
+[^c11097301]: Modification: S. 16 saved (E.W.) (1.12.1991) by [Water Industry Act 1991 (c. 56, SIF 130)](https://www.legislation.gov.uk/ukpga/1991/56), [ss.140](https://www.legislation.gov.uk/ukpga/1991/56/section/140), [223(2)](https://www.legislation.gov.uk/ukpga/1991/56/section/223/2) (with [ss. 82(3)](https://www.legislation.gov.uk/ukpga/1991/56/section/82/3), [186(1)](https://www.legislation.gov.uk/ukpga/1991/56/section/186/1), [222(1)](https://www.legislation.gov.uk/ukpga/1991/56/section/222/1), [Sch. 13 paras. 1](https://www.legislation.gov.uk/ukpga/1991/56/schedule/13/paragraph/1), [2](https://www.legislation.gov.uk/ukpga/1991/56/schedule/13/paragraph/2), [Sch. 14 para. 6](https://www.legislation.gov.uk/ukpga/1991/56/schedule/14/paragraph/6))
+
+[^key-af7afb29dcfa492c5b78980163491a62]: Modification: S. 16 applied (E.W.) (21.12.2017) by [The Regulation and Inspection of Social Care (Wales) Act 2016 (Commencement No. 5, Savings, Transitory and Transitional Provisions) Order 2017 (S.I. 2017/1326)](https://www.legislation.gov.uk/wsi/2017/1326), [art. 6(2)](https://www.legislation.gov.uk/wsi/2017/1326/article/6/2)
+
+[^key-3aeefd10df8ddd5d3ca608d2067fb3ee]: Modification: S. 16 applied (E.W.) (29.4.2019) by [The Regulation and Inspection of Social Care (Wales) Act 2016 (Commencement No. 6, Savings and Transitional Provisions) Order 2019 (S.I. 2019/864)](https://www.legislation.gov.uk/wsi/2019/864), [art. 7(3)](https://www.legislation.gov.uk/wsi/2019/864/article/7/3)
+
+[^key-f22ad4673a1a6afa9ca5e5da7d6b7819]: Modification: S. 16 applied (temp.) (8.6.2020) by [The Health Protection (Coronavirus, Public Health Information for Passengers Travelling to England) Regulations 2020 (S.I. 2020/567)](https://www.legislation.gov.uk/uksi/2020/567), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/567/regulation/1/2), [5(4)](https://www.legislation.gov.uk/uksi/2020/567/regulation/5/4) (with [reg. 10](https://www.legislation.gov.uk/uksi/2020/567/regulation/10))
+
+[^key-8eafd90bd6fdee163b0d7dd4b6ec611d]: Modification: S. 16 applied (temp.) (4.7.2020) by [The Health Protection (Coronavirus, Restrictions) (Leicester) Regulations 2020 (S.I. 2020/685)](https://www.legislation.gov.uk/uksi/2020/685), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/685/regulation/1/1), [2(5)](https://www.legislation.gov.uk/uksi/2020/685/regulation/2/5) (with [reg. 12](https://www.legislation.gov.uk/uksi/2020/685/regulation/12))
+
+[^key-04f71cf5b9387340a36921b5f9a5f8a0]: Modification: S. 16 applied (temp.) (4.7.2020 at 00.01 a.m.) by [The Health Protection (Coronavirus, Restrictions) (No. 2) (England) Regulations 2020 (S.I. 2020/684)](https://www.legislation.gov.uk/uksi/2020/684), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/684/regulation/1/2/b), [3(5)](https://www.legislation.gov.uk/uksi/2020/684/regulation/3/5) (with [reg. 11](https://www.legislation.gov.uk/uksi/2020/684/regulation/11))
+
+[^key-8f681b237b4a8fe299310e74daab288c]: Modification: S. 16 applied (temp.) (25.7.2020) by [The Health Protection (Coronavirus, Restrictions) (Blackburn with Darwen and Luton) Regulations 2020 (S.I. 2020/800)](https://www.legislation.gov.uk/uksi/2020/800), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/800/regulation/1/2), [2(5)](https://www.legislation.gov.uk/uksi/2020/800/regulation/2/5) (with [reg. 10](https://www.legislation.gov.uk/uksi/2020/800/regulation/10))
+
+[^key-378afbb47f582952ff78274464851243]: Modification: S. 16 applied (temp.) (1.8.2020) by [The Health Protection (Coronavirus, Restrictions) (Blackburn with Darwen and Bradford) Regulations 2020 (S.I. 2020/822)](https://www.legislation.gov.uk/uksi/2020/822), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/822/regulation/1/2), [2(5)](https://www.legislation.gov.uk/uksi/2020/822/regulation/2/5) (with [reg. 12](https://www.legislation.gov.uk/uksi/2020/822/regulation/12))
+
+[^key-bca1d2501c63a0e01f290bb9afcdc2f1]: Modification: S. 16 applied (temp.) (3.8.2020) by [The Health Protection (Coronavirus, Restrictions) (Leicester) (No. 2) Regulations 2020 (S.I. 2020/824)](https://www.legislation.gov.uk/uksi/2020/824), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/824/regulation/1/2), [3(5)](https://www.legislation.gov.uk/uksi/2020/824/regulation/3/5) (with [reg. 15](https://www.legislation.gov.uk/uksi/2020/824/regulation/15))
+
+[^key-2f8a67973ca0aea053933b9ff00360ac]: Modification: S. 16 applied (temp.) (5.8.2020) by [The Health Protection (Coronavirus, Restrictions on Gatherings) (North of England) Regulations 2020 (S.I. 2020/828)](https://www.legislation.gov.uk/uksi/2020/828), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/828/regulation/1/2), [4(6)](https://www.legislation.gov.uk/uksi/2020/828/regulation/4/6) (with [reg. 19](https://www.legislation.gov.uk/uksi/2020/828/regulation/19))
+
+[^key-cf08201b29fece7acb204ae000c418ae]: Modification: S. 16 applied (temp.) (28.8.2020) by [The Health Protection (Coronavirus, Restrictions) (Directions by Local Authorities) (Scotland) Regulations 2020 (S.S.I. 2020/262)](https://www.legislation.gov.uk/ssi/2020/262), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/262/regulation/1/2), [3(4)](https://www.legislation.gov.uk/ssi/2020/262/regulation/3/4) (with [reg. 15](https://www.legislation.gov.uk/ssi/2020/262/regulation/15))
+
+[^key-1a36b9ee89bff5f8890f55a9c1d334cf]: Modification: S. 16 applied (temp.) (10.9.2020 at 6.00 p.m.) by [The Health Protection (Coronavirus, Restrictions) (Bolton) Regulations 2020 (S.I. 2020/974)](https://www.legislation.gov.uk/uksi/2020/974), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/974/regulation/1/1), [2(5)](https://www.legislation.gov.uk/uksi/2020/974/regulation/2/5) (with [reg. 12](https://www.legislation.gov.uk/uksi/2020/974/regulation/12))
+
+[^key-0143bd83efecd2a821f15397f2af1c68]: Modification: S. 16 applied (temp.) (15.9.2020) by [The Health Protection (Coronavirus, Restrictions) (Birmingham, Sandwell and Solihull) Regulations 2020 (S.I. 2020/988)](https://www.legislation.gov.uk/uksi/2020/988), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/988/regulation/1/2), [4(6)](https://www.legislation.gov.uk/uksi/2020/988/regulation/4/6) (with [reg. 18](https://www.legislation.gov.uk/uksi/2020/988/regulation/18))
+
+[^key-3a6e96f92d4eb264f02b5a45bf751e85]: Modification: S. 16 applied (temp.) (18.9.2020) by [The Health Protection (Coronavirus, Restrictions) (North East of England) Regulations 2020 (S.I. 2020/1010)](https://www.legislation.gov.uk/uksi/2020/1010), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1010/regulation/1/1), [2(6)](https://www.legislation.gov.uk/uksi/2020/1010/regulation/2/6) (with [reg. 12](https://www.legislation.gov.uk/uksi/2020/1010/regulation/12))
+
+[^M_C_42a58760-0b6e-4d69-baaa-c135defa4a78]: Modification: S. 16 applied (temp.) (18.7.2020 at 12.01 a.m.) by [The Health Protection (Coronavirus, Restrictions) (England) (No. 3) Regulations 2020 (S.I. 2020/750)](https://www.legislation.gov.uk/uksi/2020/750), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/750/regulation/1/2), [2(5)](https://www.legislation.gov.uk/uksi/2020/750/regulation/2/5) (with [reg. 19](https://www.legislation.gov.uk/uksi/2020/750/regulation/19)) (as amended by [S.I. 2021/705](https://www.legislation.gov.uk/uksi/2021/705), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/705/regulation/1/2), [4(1)](https://www.legislation.gov.uk/uksi/2021/705/regulation/4/1) and [S.I. 2021/848](https://www.legislation.gov.uk/uksi/2021/848), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/848/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2021/848/regulation/4))
+
+[^c11097311]: Modification: S. 16(1) applied (E.) (temp. from 27.11.2001 until 27.7.2002) by [S.I. 2001/3576](https://www.legislation.gov.uk/uksi/2001/3576), [art. 3(2)](https://www.legislation.gov.uk/uksi/2001/3576/article/3/2)
+
+    S. 16(1) applied (27.11.2001) by [S.I. 2001/3577](https://www.legislation.gov.uk/uksi/2001/3577), [art. 3(2)](https://www.legislation.gov.uk/uksi/2001/3577/article/3/2)
+
+    S. 16(1) applied (27.11.2001) by [S.I. 2001/3578](https://www.legislation.gov.uk/uksi/2001/3578), [art. 3(2)](https://www.legislation.gov.uk/uksi/2001/3578/article/3/2)
+
+[^c18367421]: Modification: S. 16(1) disapplied (W.) (1.9.2004) by [The Conduct of Members (Model Code of Conduct) (Wales) Order 2001 (S.I. 2001/2289)](https://www.legislation.gov.uk/uksi/2001/2289), [art. 4](https://www.legislation.gov.uk/uksi/2001/2289/article/4) (as inserted by [The Conduct of Members (Model Code of Conduct) (Wales) (Amendment) (No. 2) Order 2004 (S.I. 2004/1510)](https://www.legislation.gov.uk/uksi/2004/1510), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2004/1510/article/1/2), [3](https://www.legislation.gov.uk/uksi/2004/1510/article/3))
+
+[^c19737831]: Modification: S. 16(1) applied (with modifications) by [The Virgin Islands Constitution Order 2007 (S.I. 2007/1678)](https://www.legislation.gov.uk/uksi/2007/1678), [s. 80(3)](https://www.legislation.gov.uk/uksi/2007/1678/section/80/3) (the amendment coming into force in accordance with s. 1(2) of the amending S.I.)
+
+[^c19948491]: Modification: S. 16(1) applied (W.) (18.4.2008) by [The Local Authorities (Model Code of Conduct) (Wales) Order 2008 (S.I. 2008/788)](https://www.legislation.gov.uk/uksi/2008/788), [art. 4(3)](https://www.legislation.gov.uk/uksi/2008/788/article/4/3)
+
+[^c19948441]: Modification: S. 16(1) applied by [The Falkland Islands Constitution Order 2008 (S.I. 2008/2846)](https://www.legislation.gov.uk/uksi/2008/2846), [Sch. ss. 54(3)](https://www.legislation.gov.uk/uksi/2008/2846/schedule/section/54/3), [55(5)](https://www.legislation.gov.uk/uksi/2008/2846/schedule/section/55/5) (the application coming into force in accordance with arts. 1(3), 2(1) of the applying S.I.)
+
+[^c20266661]: Modification: S. 16(1) applied (with modifications) by The St Helena, Ascension and Tristan da [Cunha Constitution Order 2009 (S.I. 2009/1751)](https://www.legislation.gov.uk/uksi/2009/1751), [arts. 75(3)](https://www.legislation.gov.uk/uksi/2009/1751/article/75/3), [152(3)](https://www.legislation.gov.uk/uksi/2009/1751/article/152/3), [217(3)](https://www.legislation.gov.uk/uksi/2009/1751/article/217/3) (the amendments coming into force in accordance with art. 1(3) of the amending S.I.)
+
+[^c21790281]: Modification: S. 16(1) applied by [The Pitcairn Constitution Order 2010 (S.I. 2010/244)](https://www.legislation.gov.uk/uksi/2010/244), [arts. 2](https://www.legislation.gov.uk/uksi/2010/244/article/2), [4](https://www.legislation.gov.uk/uksi/2010/244/article/4), [Sch. 2 section 41(3)](https://www.legislation.gov.uk/uksi/2010/244/schedule/2/section/41/3) (the amendment coming into force in accordance with arts. 1(2), 2 of the amending S.I.)
+
+[^c21790291]: Modification: S. 16(1) applied (11.11.2010) by [Constitutional Reform and Governance Act 2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25), [ss. 19](https://www.legislation.gov.uk/ukpga/2010/25/section/19), [52](https://www.legislation.gov.uk/ukpga/2010/25/section/52), [Sch. 2 para. 38](https://www.legislation.gov.uk/ukpga/2010/25/schedule/2/paragraph/38); [S.I. 2010/2703](https://www.legislation.gov.uk/uksi/2010/2703), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/2703/article/2/a)
+
+[^c21790301]: Modification: S. 16(1) modified (17.12.2010) by [Terrorist Asset-Freezing etc. Act 2010 (c. 38)](https://www.legislation.gov.uk/ukpga/2010/38), [ss. 46(4)](https://www.legislation.gov.uk/ukpga/2010/38/section/46/4), [55(1)](https://www.legislation.gov.uk/ukpga/2010/38/section/55/1) (with [s. 44](https://www.legislation.gov.uk/ukpga/2010/38/section/44))
+
+[^key-85408a93fdc4fa4e7eeec805396d7a54]: Modification: S. 16(1) applied (25.3.2020) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [ss. 87(1)](https://www.legislation.gov.uk/ukpga/2020/7/section/87/1), [88(2)](https://www.legislation.gov.uk/ukpga/2020/7/section/88/2)
+
+[^c18814001]: Modification: S. 17 saved (E.W.) (1.12.1991) by [Water Industry Act 1991 (c. 56, SIF 130)](https://www.legislation.gov.uk/ukpga/1991/56), [ss. 140](https://www.legislation.gov.uk/ukpga/1991/56/section/140), [223(2)](https://www.legislation.gov.uk/ukpga/1991/56/section/223/2)
+
+[^c11097331]: Modification: S. 17 excluded (S.) (1.7.2005) by [The Cereal Seed (Scotland) Regulations 2005 (S.S.I. 2005/328)](https://www.legislation.gov.uk/ssi/2005/328), [reg. 28(2)](https://www.legislation.gov.uk/ssi/2005/328/regulation/28/2)
+
+    S. 17 excluded (S.) (1.7.2005) by [The Fodder Plant Seed (Scotland) Regulations 2005 (S.S.I. 2005/329)](https://www.legislation.gov.uk/ssi/2005/329), [reg. 28(2)](https://www.legislation.gov.uk/ssi/2005/329/regulation/28/2)
+
+    S. 17 excluded (W.) (18.11.2005) by [The Vegetable Seed (Wales) Regulations 2005 (S.I. 2005/3035)](https://www.legislation.gov.uk/uksi/2005/3035), [reg. 32(2)](https://www.legislation.gov.uk/uksi/2005/3035/regulation/32/2)
+
+    S. 17 excluded (W.) (18.11.2005) by [The Cereal Seed (Wales) Regulations 2005 (S.I. 2005/3036)](https://www.legislation.gov.uk/uksi/2005/3036), [reg. 32(2)](https://www.legislation.gov.uk/uksi/2005/3036/regulation/32/2)
+
+    S. 17 excluded (W.) (18.11.2005) by [The Beet Seed (Wales) Regulations 2005 (S.I. 2005/3037)](https://www.legislation.gov.uk/uksi/2005/3037), [reg. 29(2)](https://www.legislation.gov.uk/uksi/2005/3037/regulation/29/2)
+
+[^c21791631]: Modification: S. 17 excluded (S.) (20.4.2010) by [The Beet Seed (Scotland) Regulations 2010 (S.S.I. 2010/67)](https://www.legislation.gov.uk/ssi/2010/67), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2010/67/regulation/1/1), [25(2)](https://www.legislation.gov.uk/ssi/2010/67/regulation/25/2) (which amending S.S.I. was revoked by [S.S.I. 2010/148](https://www.legislation.gov.uk/ssi/2010/148), [reg. 25(1)](https://www.legislation.gov.uk/ssi/2010/148/regulation/25/1)) and s. 17 excluded (S.) (20.4.2010) by [The Beet Seed (Scotland) (No. 2) Regulations 2010 (S.S.I. 2010/148)](https://www.legislation.gov.uk/ssi/2010/148), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2010/148/regulation/1/2), [25(3)](https://www.legislation.gov.uk/ssi/2010/148/regulation/25/3)
+
+[^c11097341]: Modification: S. 17(2) excluded (22.8.1996) by [1996 c. 16](https://www.legislation.gov.uk/ukpga/1996/16), [ss. 103](https://www.legislation.gov.uk/ukpga/1996/16/section/103), [104(1)](https://www.legislation.gov.uk/ukpga/1996/16/section/104/1), [Sch. 8 Pt. I para. 1(6)(7)](https://www.legislation.gov.uk/ukpga/1996/16/schedule/8/part/I/paragraph/1/6/7)
+
+    S. 17(2) excluded (E.W.S.) (22.8.1996) by [1996 c. 17](https://www.legislation.gov.uk/ukpga/1996/17), [ss. 44](https://www.legislation.gov.uk/ukpga/1996/17/section/44), [46](https://www.legislation.gov.uk/ukpga/1996/17/section/46), [Sch. 2 Pt. I paras. 1-5](https://www.legislation.gov.uk/ukpga/1996/17/schedule/2/part/I/paragraph/1) (with [s. 38](https://www.legislation.gov.uk/ukpga/1996/17/section/38))
+
+    S. 17(2) excluded (E.W.S.) (22.8.1996) by [1996 c. 18](https://www.legislation.gov.uk/ukpga/1996/18), [ss. 241](https://www.legislation.gov.uk/ukpga/1996/18/section/241), [243](https://www.legislation.gov.uk/ukpga/1996/18/section/243), [Sch. 2 Pt. I paras. 1-5](https://www.legislation.gov.uk/ukpga/1996/18/schedule/2/part/I/paragraph/1) (with [ss. 191-195](https://www.legislation.gov.uk/ukpga/1996/18/section/191), [202](https://www.legislation.gov.uk/ukpga/1996/18/section/202))
+
+    S. 17(2) excluded (21.7.1997) by [1997 c. 22](https://www.legislation.gov.uk/ukpga/1997/22), [s. 27](https://www.legislation.gov.uk/ukpga/1997/22/section/27), [Sch. 2 paras. 1-5](https://www.legislation.gov.uk/ukpga/1997/22/schedule/2/paragraph/1); [S.I. 1997/1672](https://www.legislation.gov.uk/uksi/1997/1672), [art. 2](https://www.legislation.gov.uk/uksi/1997/1672/article/2)
+
+    S. 17(2) excluded (E.W.) (19.6.1997) by [1997 c. 25](https://www.legislation.gov.uk/ukpga/1997/25), [ss. 73(1)](https://www.legislation.gov.uk/ukpga/1997/25/section/73/1), [74(1)](https://www.legislation.gov.uk/ukpga/1997/25/section/74/1), [Sch. 4 Pt. I para. 1(6)](https://www.legislation.gov.uk/ukpga/1997/25/schedule/4/part/I/paragraph/1/6)
+
+    S. 17(2) excluded (E.W.) (11.9.1998) by [1998 c. 18](https://www.legislation.gov.uk/ukpga/1998/18), [ss. 54(2)](https://www.legislation.gov.uk/ukpga/1998/18/section/54/2), [55(2)](https://www.legislation.gov.uk/ukpga/1998/18/section/55/2), [Sch. 4 para. 6](https://www.legislation.gov.uk/ukpga/1998/18/schedule/4/paragraph/6)
+
+    S. 17(2) excluded (E.W.) (25.8.2000) by [2000 c. 6](https://www.legislation.gov.uk/ukpga/2000/6), [ss. 165(3)](https://www.legislation.gov.uk/ukpga/2000/6/section/165/3), [168(1)](https://www.legislation.gov.uk/ukpga/2000/6/section/168/1), [Sch. 11 Pt. I para. 1(5)](https://www.legislation.gov.uk/ukpga/2000/6/schedule/11/part/I/paragraph/1/5)
+
+    S. 17(2) excluded (22.3.2001 with effect in accordance with s. 579(1) of the excluding Act) by [2001 c. 2](https://www.legislation.gov.uk/ukpga/2001/2), [s. 579](https://www.legislation.gov.uk/ukpga/2001/2/section/579), [Sch. 3 Pt. I para. 6](https://www.legislation.gov.uk/ukpga/2001/2/schedule/3/part/I/paragraph/6)
+
+    S. 17(2) excluded (24.10.2002) by [2002 c. 24](https://www.legislation.gov.uk/ukpga/2002/24), [ss. 14](https://www.legislation.gov.uk/ukpga/2002/24/section/14), [18(2)](https://www.legislation.gov.uk/ukpga/2002/24/section/18/2), [Sch. 2 para. 5](https://www.legislation.gov.uk/ukpga/2002/24/schedule/2/paragraph/5)
+
+    S. 17(2) excluded (6.4.2003 with effect in accordance with s. 723(1)(a)(b) of the excluding Act) by [The Income Tax (Earnings and Pensions) Act 2003 (c. 1)](https://www.legislation.gov.uk/ukpga/2003/1), [s. 723](https://www.legislation.gov.uk/ukpga/2003/1/section/723), [Sch. 7 para. 6](https://www.legislation.gov.uk/ukpga/2003/1/schedule/7/paragraph/6) (subject to [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/1/schedule/7))
+
+    S. 17(2) excluded (6.4.2005 with effect in accordance with s. 883(1)(a)(b) of the excluding Act) by [The Income Tax (Trading and other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [s. 883](https://www.legislation.gov.uk/ukpga/2005/5/section/883), [Sch. 2 para. 6(1)](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2/paragraph/6/1)
+
+    S. 17(2) excluded (8.2.2007) by [The Wireless Telegraphy Act 2006 (c. 36)](https://www.legislation.gov.uk/ukpga/2006/36), [ss. 124](https://www.legislation.gov.uk/ukpga/2006/36/section/124), [126](https://www.legislation.gov.uk/ukpga/2006/36/section/126), [Sch. 8 para. 5](https://www.legislation.gov.uk/ukpga/2006/36/schedule/8/paragraph/5)
+
+    S. 17(2) excluded (1.3.2007) by [The National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [ss. 4](https://www.legislation.gov.uk/ukpga/2006/43/section/4), [8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 2 para. 1(8)](https://www.legislation.gov.uk/ukpga/2006/43/schedule/2/paragraph/1/8) (with [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/3/part/1))
+
+    S. 17(2) excluded (1.4.2007) by [The Parliamentary Costs Act 2006 (c. 37)](https://www.legislation.gov.uk/ukpga/2006/37), [ss. 17(7)](https://www.legislation.gov.uk/ukpga/2006/37/section/17/7), [19](https://www.legislation.gov.uk/ukpga/2006/37/section/19), [Sch. 2 para. 6](https://www.legislation.gov.uk/ukpga/2006/37/schedule/2/paragraph/6)
+
+[^c21791641]: Modification: S. 17(2) excluded (E.W.) (14.3.2012) by [Charities Act 2011 (c. 25)](https://www.legislation.gov.uk/ukpga/2011/25), [ss. 354](https://www.legislation.gov.uk/ukpga/2011/25/section/354), [355](https://www.legislation.gov.uk/ukpga/2011/25/section/355), [Sch. 8 para. 5](https://www.legislation.gov.uk/ukpga/2011/25/schedule/8/paragraph/5) (with [s. 20(2)](https://www.legislation.gov.uk/ukpga/2011/25/section/20/2))
+
+[^c21791651]: Modification: S. 17(2) excluded (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [ss. 147](https://www.legislation.gov.uk/ukpga/2012/14/section/147), [177](https://www.legislation.gov.uk/ukpga/2012/14/section/177), [Sch. 17 para. 36(8)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/17/paragraph/36/8), [Sch. 19 para. 2(8)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/19/paragraph/2/8)
+
+[^key-b103c352e4810a67ded9359eb72605ba]: Modification: S. 17(2) excluded (1.10.2015) by [The Consumer Rights Act 2015 (Commencement No. 3, Transitional Provisions, Savings and Consequential Amendments) Order 2015 (S.I. 2015/1630)](https://www.legislation.gov.uk/uksi/2015/1630), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1630/article/1), [8(7)](https://www.legislation.gov.uk/uksi/2015/1630/article/8/7)
+
+[^key-781e121dca0d34e437fd34e9612a8aa7]: Modification: S. 17(2) excluded (11.1.2017) by [The Consumer Rights (Enforcement and Amendments) Order 2016 (S.I. 2016/1259)](https://www.legislation.gov.uk/uksi/2016/1259), [arts. 1](https://www.legislation.gov.uk/uksi/2016/1259/article/1), [4](https://www.legislation.gov.uk/uksi/2016/1259/article/4)
+
+[^key-a74a2ba59be32e589d0685b160dbe991]: Modification: S. 17(2) excluded (1.9.2018) by [Ecclesiastical Jurisdiction and Care of Churches Measure 2018 (No. 3)](https://www.legislation.gov.uk/ukcm/2018/3), [s. 99(2)](https://www.legislation.gov.uk/ukcm/2018/3/section/99/2), [Sch. 4 para. 5](https://www.legislation.gov.uk/ukcm/2018/3/schedule/4/paragraph/5) (with [Sch. 4 Pt. 1](https://www.legislation.gov.uk/ukcm/2018/3/schedule/4/part/1)); [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)
+
+[^key-edf8ef54546f90eeac238334b48ce77d]: Modification: S. 17(2) excluded (1.3.2019) by [Church Property Measure 2018 (No. 8)](https://www.legislation.gov.uk/ukcm/2018/8), [s. 53(2)](https://www.legislation.gov.uk/ukcm/2018/8/section/53/2), [Sch. 2 para. 5](https://www.legislation.gov.uk/ukcm/2018/8/schedule/2/paragraph/5); [S.I. 2019/97](https://www.legislation.gov.uk/uksi/2019/97), [art. 2](https://www.legislation.gov.uk/uksi/2019/97/article/2)
+
+[^M_C_24080f7d-6eec-4be4-f109-9047681e47ab]: Modification: S. 17(2) excluded (with effect and application in accordance with Sch. 1 paras. 120, 123(1)-(6) of the excluding Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 1 para. 123(7)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/1/paragraph/123/7)
+
+[^key-1f91ae7f2062ebf5d0edec1b4c089d5a]: Modification: S. 17(2) excluded (1.1.2020) by [Church Representation and Ministers Measure 2019 (No. 1)](https://www.legislation.gov.uk/ukcm/2019/1), [s. 1(3)](https://www.legislation.gov.uk/ukcm/2019/1/section/1/3), [Sch. 3 para. 13](https://www.legislation.gov.uk/ukcm/2019/1/schedule/3/paragraph/13); [S.I. 2019/1460](https://www.legislation.gov.uk/uksi/2019/1460), [art. 2](https://www.legislation.gov.uk/uksi/2019/1460/article/2)
+
+[^key-29947b8779ebdd9f8c082aa49839a533]: Modification: [S. 17(2)](https://www.legislation.gov.uk/ukpga/1978/30/section/17/2) excluded (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 27 para. 5](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27/paragraph/5); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+
+[^c11097351]: Modification: S. 17(2)(a) excluded by [Insurance Companies Act 1982 (c. 50, SIF 67)](https://www.legislation.gov.uk/ukpga/1982/50), [s. 99(1)](https://www.legislation.gov.uk/ukpga/1982/50/section/99/1), [Sch. 4 para. 17](https://www.legislation.gov.uk/ukpga/1982/50/schedule/4/paragraph/17)
+
+[^c11097361]: Modification: S. 17(2)(b) excluded (24.7.2002) by [2002 c. 23](https://www.legislation.gov.uk/ukpga/2002/23), [s. 20(4)](https://www.legislation.gov.uk/ukpga/2002/23/section/20/4)
+
+[^key-84365804bf356dcc434369187b5f2913]: Textual amendment: Word in s. 20 heading inserted (31.12.2020) by [The European Union Withdrawal (Consequential Modifications) (EU Exit) Regulations 2020 (S.I. 2020/1447)](https://www.legislation.gov.uk/uksi/2020/1447), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1447/regulation/1/3), [2(2)(a)](https://www.legislation.gov.uk/uksi/2020/1447/regulation/2/2/a)
+
+[^c18367031]: Modification: [S. 20(2)](https://www.legislation.gov.uk/ukpga/1978/30/section/20/2) applied (5.6.2003) by [The Immigration (Jersey) Order 1993 (S.I. 1993/1797)](https://www.legislation.gov.uk/uksi/1993/1797), [art. 4(1)](https://www.legislation.gov.uk/uksi/1993/1797/article/4/1) (as amended by [The Immigration and Asylum Act 1999 (Jersey) Order 2003 (S.I. 2003/1252)](https://www.legislation.gov.uk/uksi/2003/1252), [art. 3(a)](https://www.legislation.gov.uk/uksi/2003/1252/article/3/a))
+
+[^c18814461]: Modification: [S. 20(2)](https://www.legislation.gov.uk/ukpga/1978/30/section/20/2) excluded (8.7.2003) by [National Minimum Wage (Enforcement Notices) Act 2003 (c. 8)](https://www.legislation.gov.uk/ukpga/2003/8), [s. 2(2)(4)](https://www.legislation.gov.uk/ukpga/2003/8/section/2/2/4)
+
+[^key-6d2e1957f6779b22458309819b5f5847]: Textual amendment: S. 20(2A) inserted (31.12.2020) by [The European Union Withdrawal (Consequential Modifications) (EU Exit) Regulations 2020 (S.I. 2020/1447)](https://www.legislation.gov.uk/uksi/2020/1447), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1447/regulation/1/3), [2(2)(b)](https://www.legislation.gov.uk/uksi/2020/1447/regulation/2/2/b)
+
+[^key-8d3936e52acce23a357d173ca70a4300]: Textual amendment: S. 20(3)-(5) inserted (31.12.2020) by [The European Union (Withdrawal) Act 2018 (Consequential Modifications and Repeals and Revocations) (EU Exit) Regulations 2019 (S.I. 2019/628)](https://www.legislation.gov.uk/uksi/2019/628), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/628/regulation/1/3), [3(2)](https://www.legislation.gov.uk/uksi/2019/628/regulation/3/2) (as amended by [S.I. 2020/463](https://www.legislation.gov.uk/uksi/2020/463), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/463/regulation/1/1), [10(4)](https://www.legislation.gov.uk/uksi/2020/463/regulation/10/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-99ade20bfe00fc29af11538dee0549fd]: Textual amendment: Words in s. 20(3) substituted (31.12.2020) by [The European Union Withdrawal (Consequential Modifications) (EU Exit) Regulations 2020 (S.I. 2020/1447)](https://www.legislation.gov.uk/uksi/2020/1447), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1447/regulation/1/3), [2(2)(c)](https://www.legislation.gov.uk/uksi/2020/1447/regulation/2/2/c)
+
+[^key-82a968042816392d9e5657a55fba4bca]: Textual amendment: Words in s. 20(3) substituted (31.12.2020) by [European Union (Withdrawal Agreement) Act 2020 (c. 1)](https://www.legislation.gov.uk/ukpga/2020/1), [s. 42(7)](https://www.legislation.gov.uk/ukpga/2020/1/section/42/7), [Sch. 5 para. 9](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/9) (with [s. 38(3)](https://www.legislation.gov.uk/ukpga/2020/1/section/38/3)); [S.I. 2020/1622](https://www.legislation.gov.uk/uksi/2020/1622), [reg. 5(j)](https://www.legislation.gov.uk/uksi/2020/1622/regulation/5/j)
+
+[^key-2dc7eaf80a642000bc3dad370cd2adb9]: Textual amendment: Words in s. 20(5) substituted (31.12.2020) by [The European Union Withdrawal (Consequential Modifications) (EU Exit) Regulations 2020 (S.I. 2020/1447)](https://www.legislation.gov.uk/uksi/2020/1447), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1447/regulation/1/3), [2(2)(d)(i)](https://www.legislation.gov.uk/uksi/2020/1447/regulation/2/2/d/i)
+
+[^key-95d40f9fa37b537df35029b310f34b65]: Textual amendment: Words in s. 20(5) substituted (31.12.2020) by [The European Union Withdrawal (Consequential Modifications) (EU Exit) Regulations 2020 (S.I. 2020/1447)](https://www.legislation.gov.uk/uksi/2020/1447), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1447/regulation/1/3), [2(2)(d)(ii)](https://www.legislation.gov.uk/uksi/2020/1447/regulation/2/2/d/ii)
+
+[^key-7c80829e808d8793c3ffcfe2116ee5ec]: Textual amendment: S. 20(6) inserted (31.12.2020) by [The European Union Withdrawal (Consequential Modifications) (EU Exit) Regulations 2020 (S.I. 2020/1447)](https://www.legislation.gov.uk/uksi/2020/1447), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1447/regulation/1/3), [2(2)(e)](https://www.legislation.gov.uk/uksi/2020/1447/regulation/2/2/e)
+
+[^c18370301]: Textual amendment: S. 20A inserted (8.1.2007) by [Legislative and Regulatory Reform Act 2006 (c. 51)](https://www.legislation.gov.uk/ukpga/2006/51), [ss. 25(1)](https://www.legislation.gov.uk/ukpga/2006/51/section/25/1), [33](https://www.legislation.gov.uk/ukpga/2006/51/section/33)
+
+[^key-01b5d7410483404fefbc3199c921a90b]: Textual amendment: Word in s. 20A heading inserted (31.12.2020) by [The European Union Withdrawal (Consequential Modifications) (EU Exit) Regulations 2020 (S.I. 2020/1447)](https://www.legislation.gov.uk/uksi/2020/1447), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1447/regulation/1/3), [2(3)](https://www.legislation.gov.uk/uksi/2020/1447/regulation/2/3)
+
+[^c19948511]: Textual amendment: Words in s. 20A heading substituted (1.12.2009) by [European Union (Amendment) Act 2008 (c. 7)](https://www.legislation.gov.uk/ukpga/2008/7), [ss. 3](https://www.legislation.gov.uk/ukpga/2008/7/section/3), [8](https://www.legislation.gov.uk/ukpga/2008/7/section/8), [Sch. Pt. 2](https://www.legislation.gov.uk/ukpga/2008/7/schedule/part/2); [S.I. 2009/3143](https://www.legislation.gov.uk/uksi/2009/3143), [art. 2](https://www.legislation.gov.uk/uksi/2009/3143/article/2)
+
+[^c19948531]: Textual amendment: Words in s. 20A substituted (1.12.2009) by [European Union (Amendment) Act 2008 (c. 7)](https://www.legislation.gov.uk/ukpga/2008/7), [ss. 3](https://www.legislation.gov.uk/ukpga/2008/7/section/3), [8](https://www.legislation.gov.uk/ukpga/2008/7/section/8), [Sch. Pt. 2](https://www.legislation.gov.uk/ukpga/2008/7/schedule/part/2); [S.I. 2009/3143](https://www.legislation.gov.uk/uksi/2009/3143), [art. 2](https://www.legislation.gov.uk/uksi/2009/3143/article/2)
+
+[^key-d69c4b733c0b5dd5ae2acff7d373f070]: Textual amendment: Words in s. 21(1) inserted (31.12.2020) by [European Union (Withdrawal) Act 2018 (c. 16)](https://www.legislation.gov.uk/ukpga/2018/16), [s. 25(4)](https://www.legislation.gov.uk/ukpga/2018/16/section/25/4), [Sch. 8 para. 19](https://www.legislation.gov.uk/ukpga/2018/16/schedule/8/paragraph/19) (with [s. 19](https://www.legislation.gov.uk/ukpga/2018/16/section/19), [Sch. 7 para. 26](https://www.legislation.gov.uk/ukpga/2018/16/schedule/7/paragraph/26), [Sch. 8 para. 37](https://www.legislation.gov.uk/ukpga/2018/16/schedule/8/paragraph/37)) (as amended by [S.I. 2020/463](https://www.legislation.gov.uk/uksi/2020/463), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/463/regulation/1/1), [8](https://www.legislation.gov.uk/uksi/2020/463/regulation/8)); [S.I. 2020/1622](https://www.legislation.gov.uk/uksi/2020/1622), [reg. 3(n)](https://www.legislation.gov.uk/uksi/2020/1622/regulation/3/n)
+
+[^key-d2da8e0cd3415f3b236459dff7a5f584]: Textual amendment: Words in s. 21(1) substituted (31.12.2020) by [European Union (Withdrawal Agreement) Act 2020 (c. 1)](https://www.legislation.gov.uk/ukpga/2020/1), [s. 42(7)](https://www.legislation.gov.uk/ukpga/2020/1/section/42/7), [Sch. 5 para. 10](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/10) (with [s. 38(3)](https://www.legislation.gov.uk/ukpga/2020/1/section/38/3)) (as amended by [S.I. 2020/463](https://www.legislation.gov.uk/uksi/2020/463), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/463/regulation/1/1), [9](https://www.legislation.gov.uk/uksi/2020/463/regulation/9)); [S.I. 2020/1622](https://www.legislation.gov.uk/uksi/2020/1622), [reg. 5(j)](https://www.legislation.gov.uk/uksi/2020/1622/regulation/5/j)
+
+[^key-7f7b5d754ab29aa3635535f55ffb33fe]: Textual amendment: Words in [s. 21](https://www.legislation.gov.uk/ukpga/1978/30/section/21) substituted (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [s. 22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 2 para. 2(2)](https://www.legislation.gov.uk/ukpga/2023/28/schedule/2/paragraph/2/2) (with [s. 22(6)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/6)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2023/1363/regulation/3/e)
+
+[^key-7b39e22664de31530496e1552ba46b33]: Textual amendment: Words in s. 21(1) inserted (30.4.2020) by [The Direct Payments to Farmers (Legislative Continuity) Act 2020 (Consequential Amendments) Regulations 2020 (S.I. 2020/463)](https://www.legislation.gov.uk/uksi/2020/463), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/463/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2020/463/regulation/2/2)
+
+[^c18370541]: Textual amendment: Words in s. 22(1) inserted (8.1.2007) by [Legislative and Regulatory Reform Act 2006 (c. 51)](https://www.legislation.gov.uk/ukpga/2006/51), [ss. 25(2)](https://www.legislation.gov.uk/ukpga/2006/51/section/25/2), [33](https://www.legislation.gov.uk/ukpga/2006/51/section/33)
+
+[^key-d263950c5dad617ea545c556d51dffeb]: Textual amendment: Words in s. 22(1) inserted (31.12.2020) by [The European Union (Withdrawal) Act 2018 (Consequential Modifications and Repeals and Revocations) (EU Exit) Regulations 2019 (S.I. 2019/628)](https://www.legislation.gov.uk/uksi/2019/628), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/628/regulation/1/3), [3(3)](https://www.legislation.gov.uk/uksi/2019/628/regulation/3/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-64e19b8f4cac56c2da79734e56be7e9d]: Textual amendment: Words in s. 22(1) substituted (31.12.2020) by [The European Union Withdrawal (Consequential Modifications) (EU Exit) Regulations 2020 (S.I. 2020/1447)](https://www.legislation.gov.uk/uksi/2020/1447), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1447/regulation/1/3), [2(4)(a)](https://www.legislation.gov.uk/uksi/2020/1447/regulation/2/4/a)
+
+[^key-3dd44e945c669f4637020ae0d2301805]: Textual amendment: Words in s. 22(1) substituted (31.12.2020) by [The European Union Withdrawal (Consequential Modifications) (EU Exit) Regulations 2020 (S.I. 2020/1447)](https://www.legislation.gov.uk/uksi/2020/1447), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1447/regulation/1/3), [2(4)(b)](https://www.legislation.gov.uk/uksi/2020/1447/regulation/2/4/b)
+
+[^c11097371]: Modification: S. 23(1)(2) excluded by [Northern Ireland Act 1982 (c. 38, SIF 29:3)](https://www.legislation.gov.uk/ukpga/1982/38), [s. 6](https://www.legislation.gov.uk/ukpga/1982/38/section/6), [Sch. 2 para. 7(2)](https://www.legislation.gov.uk/ukpga/1982/38/schedule/2/paragraph/7/2)
+
+[^c11097391]: Modification: S. 23(3) excluded by [Companies Act 1989 (c. 40, SIF 27)](https://www.legislation.gov.uk/ukpga/1989/40), [s. 144(6)](https://www.legislation.gov.uk/ukpga/1989/40/section/144/6)
+
+    S. 23(3) excluded (6.4.2008 for specified purposes and otherwise 1.10.2009) by [Companies Act 2006 (c. 46)](https://www.legislation.gov.uk/ukpga/2006/46), [ss. 1160(4)](https://www.legislation.gov.uk/ukpga/2006/46/section/1160/4), [1300(2)](https://www.legislation.gov.uk/ukpga/2006/46/section/1300/2); [S.I. 2007/3495](https://www.legislation.gov.uk/uksi/2007/3495), [art. 3(4)](https://www.legislation.gov.uk/uksi/2007/3495/article/3/4) (subject to [art. 6](https://www.legislation.gov.uk/uksi/2007/3495/article/6), [Sch. 1](https://www.legislation.gov.uk/uksi/2007/3495/schedule/1)); [S.I. 2008/2860](https://www.legislation.gov.uk/uksi/2008/2860), [art. 3(u)](https://www.legislation.gov.uk/uksi/2008/2860/article/3/u) (with [arts. 5](https://www.legislation.gov.uk/uksi/2008/2860/article/5), [7](https://www.legislation.gov.uk/uksi/2008/2860/article/7), [8](https://www.legislation.gov.uk/uksi/2008/2860/article/8), [Sch. 2](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2) (as amended by [S.I. 2009/1802](https://www.legislation.gov.uk/uksi/2009/1802), [art. 18](https://www.legislation.gov.uk/uksi/2009/1802/article/18), [Sch. 2](https://www.legislation.gov.uk/uksi/2009/1802/schedule/2) and [S.I. 2009/2476](https://www.legislation.gov.uk/uksi/2009/2476), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2009/2476/regulation/2/3))
+
+[^c11097401]: Marginal citation: [1946 c. 36](https://www.legislation.gov.uk/ukpga/1946/36).
+
+[^c11097411]: Marginal citation: [1972 c. 22](https://www.legislation.gov.uk/ukpga/1972/22).
+
+[^c11097421]: Marginal citation: [1974 c. 28](https://www.legislation.gov.uk/ukpga/1974/28).
+
+[^key-085acc3e55e30a0334e305e09ad5e90a]: Textual amendment: S. 23ZA inserted (4.7.2018) by [European Union (Withdrawal) Act 2018 (c. 16)](https://www.legislation.gov.uk/ukpga/2018/16), [s. 25(4)](https://www.legislation.gov.uk/ukpga/2018/16/section/25/4), [Sch. 8 para. 20](https://www.legislation.gov.uk/ukpga/2018/16/schedule/8/paragraph/20) (with [s. 19](https://www.legislation.gov.uk/ukpga/2018/16/section/19), [Sch. 7 para. 26](https://www.legislation.gov.uk/ukpga/2018/16/schedule/7/paragraph/26), [Sch. 8 para. 37](https://www.legislation.gov.uk/ukpga/2018/16/schedule/8/paragraph/37)); [S.I. 2018/808](https://www.legislation.gov.uk/uksi/2018/808), [reg. 3(g)(ii)](https://www.legislation.gov.uk/uksi/2018/808/regulation/3/g/ii)
+
+[^key-13c4a95cddd705a3dea65a223f3314c9]: Textual amendment: Words in [s. 23ZA](https://www.legislation.gov.uk/ukpga/1978/30/section/23ZA) heading substituted (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [s. 22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 2 para. 2(3)(a)](https://www.legislation.gov.uk/ukpga/2023/28/schedule/2/paragraph/2/3/a) (with [s. 22(6)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/6)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2023/1363/regulation/3/e)
+
+[^key-8f09e5e73923155d3864c473141a6a8d]: Textual amendment: Words in [s. 23ZA](https://www.legislation.gov.uk/ukpga/1978/30/section/23ZA) substituted (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [s. 22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 2 para. 2(3)(b)](https://www.legislation.gov.uk/ukpga/2023/28/schedule/2/paragraph/2/3/b) (with [s. 22(6)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/6)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2023/1363/regulation/3/e)
+
+[^key-472d2265b855f5ecba955dfa6924f416]: Textual amendment: Word in s. 23ZA(4)(a)(i) omitted (30.4.2020) by virtue of [The Direct Payments to Farmers (Legislative Continuity) Act 2020 (Consequential Amendments) Regulations 2020 (S.I. 2020/463)](https://www.legislation.gov.uk/uksi/2020/463), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/463/regulation/1/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2020/463/regulation/2/3/a)
+
+[^key-a68245f420894530675afd31ae17c478]: Textual amendment: S. 23ZA(4)(a)(ia) inserted (30.4.2020) by [The Direct Payments to Farmers (Legislative Continuity) Act 2020 (Consequential Amendments) Regulations 2020 (S.I. 2020/463)](https://www.legislation.gov.uk/uksi/2020/463), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/463/regulation/1/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2020/463/regulation/2/3/b)
+
+[^key-b352eaf36ed66ac9d6445148bd004d66]: Textual amendment: Words in s. 23ZA(4)(a)(ii) inserted (30.4.2020) by [The Direct Payments to Farmers (Legislative Continuity) Act 2020 (Consequential Amendments) Regulations 2020 (S.I. 2020/463)](https://www.legislation.gov.uk/uksi/2020/463), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/463/regulation/1/1), [2(3)(c)](https://www.legislation.gov.uk/uksi/2020/463/regulation/2/3/c)
+
+[^key-21e7661fceaf72ad96dbf51a97dc0c48]: Textual amendment: Words in s. 23ZA(4)(a)(ii) substituted (31.1.2020) by [European Union (Withdrawal Agreement) Act 2020 (c. 1)](https://www.legislation.gov.uk/ukpga/2020/1), [s. 42(7)](https://www.legislation.gov.uk/ukpga/2020/1/section/42/7), [Sch. 5 para. 11](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/11) (with [s. 38(3)](https://www.legislation.gov.uk/ukpga/2020/1/section/38/3)); [S.I. 2020/75](https://www.legislation.gov.uk/uksi/2020/75), [reg. 4(n)(iii)](https://www.legislation.gov.uk/uksi/2020/75/regulation/4/n/iii)
+
+[^c11097431]: Textual amendment: S. 23A and sidenote inserted (1.7.1999) by [1998 c. 46](https://www.legislation.gov.uk/ukpga/1998/46), [s. 125](https://www.legislation.gov.uk/ukpga/1998/46/section/125), [Sch. 8 para. 16(2)](https://www.legislation.gov.uk/ukpga/1998/46/schedule/8/paragraph/16/2) (with [s. 126(3)-(11)](https://www.legislation.gov.uk/ukpga/1998/46/section/126/3)); [S.I. 1998/3178](https://www.legislation.gov.uk/uksi/1998/3178), [art. 2](https://www.legislation.gov.uk/uksi/1998/3178/article/2)
+
+[^key-d6611e3b4ff1cc9a5dbf8129043455f9]: Textual amendment: Ss. 23B, 23C substituted (E.W.) (11.9.2019) for s. 23B by [Legislation (Wales) Act 2019 (anaw 4)](https://www.legislation.gov.uk/anaw/2019/4), [s. 44(1)(e)](https://www.legislation.gov.uk/anaw/2019/4/section/44/1/e), [Sch. 2 para. 1](https://www.legislation.gov.uk/anaw/2019/4/schedule/2/paragraph/1)
+
+[^key-fb81c981d87323fa654ac7285734cea4]: Textual amendment: Words in s. 23B(1)(b) substituted (E.W.) (11.10.2019) by [The Legislation (Wales) Act 2019 (Commencement) Order 2019 (S.I. 2019/1333)](https://www.legislation.gov.uk/wsi/2019/1333), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2019/1333/article/1/2), [4(a)](https://www.legislation.gov.uk/wsi/2019/1333/article/4/a)
+
+[^key-d3bb552a5c66084158a769432ce7b354]: Textual amendment: Words in s. 23B(2)(b) substituted (E.W.) (11.10.2019) by [The Legislation (Wales) Act 2019 (Commencement) Order 2019 (S.I. 2019/1333)](https://www.legislation.gov.uk/wsi/2019/1333), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2019/1333/article/1/2), [4(b)](https://www.legislation.gov.uk/wsi/2019/1333/article/4/b)
+
+[^key-bccb6f45001afc5d2d22cc497194ae29]: Textual amendment: Words in [s. 23B(3)](https://www.legislation.gov.uk/ukpga/1978/30/section/23B/3) substituted (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [s. 22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 2 para. 2(4)](https://www.legislation.gov.uk/ukpga/2023/28/schedule/2/paragraph/2/4) (with [s. 22(6)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/6)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2023/1363/regulation/3/e)
+
+[^key-9c4991941f6ddcbf922ebf2d80839094]: Textual amendment: Words in s. 23B(3)(a) substituted (E.W.) (11.10.2019) by [The Legislation (Wales) Act 2019 (Commencement) Order 2019 (S.I. 2019/1333)](https://www.legislation.gov.uk/wsi/2019/1333), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2019/1333/article/1/2), [4(b)](https://www.legislation.gov.uk/wsi/2019/1333/article/4/b)
+
+[^key-9c4eea4ea5cc458eda69bb6320a6f732]: Textual amendment: Words in s. 23B(6) substituted (23.1.2021) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [ss. 46(2)](https://www.legislation.gov.uk/ukpga/2020/22/section/46/2), [54(2)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/2) (with [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+
+[^key-de824a4b7492cb0c294dff8ee0d17f30]: Textual amendment: S. 23B(7) inserted (23.1.2021) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [ss. 46(3)](https://www.legislation.gov.uk/ukpga/2020/22/section/46/3), [54(2)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/2) (with [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+
+[^key-a7d66343022bb3ee5baf8b7d4d5e4988]: Textual amendment: Words in [s. 23C(1)(d)](https://www.legislation.gov.uk/ukpga/1978/30/section/23C/1/d) substituted (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [s. 22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 2 para. 2(5)](https://www.legislation.gov.uk/ukpga/2023/28/schedule/2/paragraph/2/5) (with [s. 22(6)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/6)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2023/1363/regulation/3/e)
+
+[^key-af2afbe0fae33e3ff8abbe1a50d32248]: Textual amendment: [S. 23C(1A)](https://www.legislation.gov.uk/ukpga/1978/30/section/23C/1A) inserted (1.1.2026) by [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(4)](https://www.legislation.gov.uk/asc/2025/3/section/9/4), [Sch. 3 para. 4](https://www.legislation.gov.uk/asc/2025/3/schedule/3/paragraph/4); [S.I. 2025/1160](https://www.legislation.gov.uk/wsi/2025/1160), [art. 2(e)](https://www.legislation.gov.uk/wsi/2025/1160/article/2/e)
+
+[^c11097501]: Modification: S. 24 extended by [Northern Ireland Act 1982 (c. 38, SIF 29:3)](https://www.legislation.gov.uk/ukpga/1982/38), [s. 6](https://www.legislation.gov.uk/ukpga/1982/38/section/6), [Sch. 2 para. 7(2)](https://www.legislation.gov.uk/ukpga/1982/38/schedule/2/paragraph/7/2)
+
+[^c11097521]: Marginal citation: [S.I. 1979/1573 (N.I. 12)](https://www.legislation.gov.uk/nisi/1979/1573).
+
+[^c11097511]: Textual amendment: Words substituted by [S.I. 1979/1573 (N.I. 12)](https://www.legislation.gov.uk/nisi/1979/1573), [Sch. 4 para. 25](https://www.legislation.gov.uk/nisi/1979/1573/schedule/4/paragraph/25)
+
+[^c18370641]: Textual amendment: S. 24(3A) inserted (8.1.2007) by [Legislative and Regulatory Reform Act 2006 (c. 51)](https://www.legislation.gov.uk/ukpga/2006/51), [ss. 25(3)](https://www.legislation.gov.uk/ukpga/2006/51/section/25/3), [33](https://www.legislation.gov.uk/ukpga/2006/51/section/33)
+
+[^c11097531]: Textual amendment: Words repealed by [British Nationality Act 1981 (c. 61, SIF 87)](https://www.legislation.gov.uk/ukpga/1981/61), [s. 52(8)](https://www.legislation.gov.uk/ukpga/1981/61/section/52/8), [Sch. 9](https://www.legislation.gov.uk/ukpga/1981/61/schedule/9)
+
+[^key-8a7e5cee77f661d3332ea83e8e2df241]: Textual amendment: Words in s. 24(4) omitted (31.12.2020) by virtue of [European Union (Withdrawal) Act 2018 (c. 16)](https://www.legislation.gov.uk/ukpga/2018/16), [s. 25(4)](https://www.legislation.gov.uk/ukpga/2018/16/section/25/4), [Sch. 8 para. 21(a)](https://www.legislation.gov.uk/ukpga/2018/16/schedule/8/paragraph/21/a) (with [s. 19](https://www.legislation.gov.uk/ukpga/2018/16/section/19), [Sch. 7 para. 26](https://www.legislation.gov.uk/ukpga/2018/16/schedule/7/paragraph/26), [Sch. 8 para. 37](https://www.legislation.gov.uk/ukpga/2018/16/schedule/8/paragraph/37)); [S.I. 2020/1622](https://www.legislation.gov.uk/uksi/2020/1622), [reg. 3(n)](https://www.legislation.gov.uk/uksi/2020/1622/regulation/3/n) (with [reg. 22](https://www.legislation.gov.uk/uksi/2020/1622/regulation/22))
+
+[^key-ee9bb012791f68dc429bcad4b662988d]: Textual amendment: Words in s. 24(4) inserted (31.12.2020) by [European Union (Withdrawal) Act 2018 (c. 16)](https://www.legislation.gov.uk/ukpga/2018/16), [s. 25(4)](https://www.legislation.gov.uk/ukpga/2018/16/section/25/4), [Sch. 8 para. 21(b)](https://www.legislation.gov.uk/ukpga/2018/16/schedule/8/paragraph/21/b) (with [s. 19](https://www.legislation.gov.uk/ukpga/2018/16/section/19), [Sch. 7 para. 26](https://www.legislation.gov.uk/ukpga/2018/16/schedule/7/paragraph/26), [Sch. 8 para. 37](https://www.legislation.gov.uk/ukpga/2018/16/schedule/8/paragraph/37)); [S.I. 2020/1622](https://www.legislation.gov.uk/uksi/2020/1622), [reg. 3(n)](https://www.legislation.gov.uk/uksi/2020/1622/regulation/3/n)
+
+[^c18370671]: Textual amendment: Words in s. 24(4) inserted (8.1.2007) by [Legislative and Regulatory Reform Act 2006 (c. 51)](https://www.legislation.gov.uk/ukpga/2006/51), [ss. 26(2)](https://www.legislation.gov.uk/ukpga/2006/51/section/26/2), [33](https://www.legislation.gov.uk/ukpga/2006/51/section/33)
+
+[^key-34e595ab551a5b4aeb26786cce8a4bbe]: Textual amendment: Words in s. 24(4) inserted (31.12.2020) by [European Union (Withdrawal) Act 2018 (c. 16)](https://www.legislation.gov.uk/ukpga/2018/16), [s. 25(4)](https://www.legislation.gov.uk/ukpga/2018/16/section/25/4), [Sch. 8 para. 21(c)](https://www.legislation.gov.uk/ukpga/2018/16/schedule/8/paragraph/21/c) (with [s. 19](https://www.legislation.gov.uk/ukpga/2018/16/section/19), [Sch. 7 para. 26](https://www.legislation.gov.uk/ukpga/2018/16/schedule/7/paragraph/26), [Sch. 8 para. 37](https://www.legislation.gov.uk/ukpga/2018/16/schedule/8/paragraph/37)); [S.I. 2020/1622](https://www.legislation.gov.uk/uksi/2020/1622), [reg. 3(n)](https://www.legislation.gov.uk/uksi/2020/1622/regulation/3/n)
+
+[^key-b533f1a90c997ffba0fd2d0f2fa450c8]: Textual amendment: Words in s. 24(4) inserted (31.12.2020) by [European Union (Withdrawal) Act 2018 (c. 16)](https://www.legislation.gov.uk/ukpga/2018/16), [s. 25(4)](https://www.legislation.gov.uk/ukpga/2018/16/section/25/4), [Sch. 8 para. 21(d)](https://www.legislation.gov.uk/ukpga/2018/16/schedule/8/paragraph/21/d) (with [s. 19](https://www.legislation.gov.uk/ukpga/2018/16/section/19), [Sch. 7 para. 26](https://www.legislation.gov.uk/ukpga/2018/16/schedule/7/paragraph/26), [Sch. 8 para. 37](https://www.legislation.gov.uk/ukpga/2018/16/schedule/8/paragraph/37)); [S.I. 2020/1622](https://www.legislation.gov.uk/uksi/2020/1622), [reg. 3(n)](https://www.legislation.gov.uk/uksi/2020/1622/regulation/3/n)
+
+[^key-ea4549e861a8ce117704c5798c3aaa43]: Textual amendment: Words in s. 24(4) inserted (31.12.2020) by [European Union (Withdrawal) Act 2018 (c. 16)](https://www.legislation.gov.uk/ukpga/2018/16), [s. 25(4)](https://www.legislation.gov.uk/ukpga/2018/16/section/25/4), [Sch. 8 para. 21(e)](https://www.legislation.gov.uk/ukpga/2018/16/schedule/8/paragraph/21/e) (with [s. 19](https://www.legislation.gov.uk/ukpga/2018/16/section/19), [Sch. 7 para. 26](https://www.legislation.gov.uk/ukpga/2018/16/schedule/7/paragraph/26), [Sch. 8 para. 37](https://www.legislation.gov.uk/ukpga/2018/16/schedule/8/paragraph/37)); [S.I. 2020/1622](https://www.legislation.gov.uk/uksi/2020/1622), [reg. 3(n)](https://www.legislation.gov.uk/uksi/2020/1622/regulation/3/n)
+
+[^c11097541]: Marginal citation: [1972 c. 22](https://www.legislation.gov.uk/ukpga/1972/22).
+
+[^c11097551]: Textual amendment: S. 24(5)(d)-(g) substituted for s. 24(5)(d)(e) (2.12.1999) by [1998 c. 47](https://www.legislation.gov.uk/ukpga/1998/47), [s. 99](https://www.legislation.gov.uk/ukpga/1998/47/section/99), [Sch. 13 para. 3](https://www.legislation.gov.uk/ukpga/1998/47/schedule/13/paragraph/3) (with [s. 95](https://www.legislation.gov.uk/ukpga/1998/47/section/95)); [S.I. 1999/3209](https://www.legislation.gov.uk/uksi/1999/3209), [art. 2](https://www.legislation.gov.uk/uksi/1999/3209/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1999/3209/schedule)
+
+[^c11097561]: Marginal citation: [1973 c.17](https://www.legislation.gov.uk/ukpga/1973/17).
+
+[^c11097571]: Marginal citation: [1974 c.28](https://www.legislation.gov.uk/ukpga/1974/28).
+
+[^c11097581]: Editorial: The text of s. 25(1), Sch. 3 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any repeals or amendments which may have been made prior to 1.2.1991
+
+[^c11097591]: Marginal citation: [1889 c. 63](https://www.legislation.gov.uk/ukpga/1889/63).
+
+[^c18371271]: Modification: Sch. 1 excluded in part (6.4.2003 with effect in accordance with s. 723(1) of the excluding Act) by [Income Tax (Earnings and Pensions) Act 2003 (c. 1)](https://www.legislation.gov.uk/ukpga/2003/1), [s. 721(6)(b)](https://www.legislation.gov.uk/ukpga/2003/1/section/721/6/b) (subject to [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/1/schedule/7))
+
+[^c18819761]: Textual amendment: In Sch. 1 definition of "Act" inserted (1.7.1999) by [1998 c. 46](https://www.legislation.gov.uk/ukpga/1998/46), [s. 125](https://www.legislation.gov.uk/ukpga/1998/46/section/125), [Sch. 8 para. 16(3)](https://www.legislation.gov.uk/ukpga/1998/46/schedule/8/paragraph/16/3) (with [s. 126(3)-(11)](https://www.legislation.gov.uk/ukpga/1998/46/section/126/3)); [S.I. 1998/3178](https://www.legislation.gov.uk/uksi/1998/3178), [art. 2](https://www.legislation.gov.uk/uksi/1998/3178/article/2)
+
+[^c18817271]: Marginal citation: [1967 c. 4](https://www.legislation.gov.uk/ukpga/1967/4).
+
+[^c18819821]: Textual amendment: Sch. 1: definition of "British overseas territory" inserted (26.2.2002) by [2002 c. 8](https://www.legislation.gov.uk/ukpga/2002/8), [s. 1(3)](https://www.legislation.gov.uk/ukpga/2002/8/section/1/3)
+
+[^c18817281]: Textual amendment: Entry repealed by [British Nationality Act 1981 (c. 61, SIF 87)](https://www.legislation.gov.uk/ukpga/1981/61), [s. 52(8)](https://www.legislation.gov.uk/ukpga/1981/61/section/52/8), [Sch. 9](https://www.legislation.gov.uk/ukpga/1981/61/schedule/9)
+
+[^c18817301]: Textual amendment: Words substituted by [Building Act 1984 (c. 55, SIF 15)](https://www.legislation.gov.uk/ukpga/1984/55), [s. 133(1)](https://www.legislation.gov.uk/ukpga/1984/55/section/133/1), [Sch. 6 para. 19](https://www.legislation.gov.uk/ukpga/1984/55/schedule/6/paragraph/19)
+
+[^c21792141]: Textual amendment: Sch. 1: definition of "Charity Commission" substituted (14.3.2012) by [Charities Act 2011 (c. 25)](https://www.legislation.gov.uk/ukpga/2011/25), [ss. 354](https://www.legislation.gov.uk/ukpga/2011/25/section/354), [355](https://www.legislation.gov.uk/ukpga/2011/25/section/355), [Sch. 7 para. 35](https://www.legislation.gov.uk/ukpga/2011/25/schedule/7/paragraph/35) (with [s. 20(2)](https://www.legislation.gov.uk/ukpga/2011/25/section/20/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/25/schedule/8))
+
+[^c18817321]: Marginal citation: 1947 C.A.M. No. 2.
+
+[^c18823871]: Textual amendment: In Sch. 1 definition of "civil partnership" inserted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [ss. 261(1)](https://www.legislation.gov.uk/ukpga/2004/33/section/261/1), [263(10)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/10), [Sch. 27 para. 59](https://www.legislation.gov.uk/ukpga/2004/33/schedule/27/paragraph/59); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/2)
+
+[^c21792271]: Textual amendment: Sch. 1: words repealed (18.6.2012 for specified purposes, 5.11.2012 for specified purposes, 28.5.2013 for specified purposes) by [Criminal Justice Act 2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), [ss. 41](https://www.legislation.gov.uk/ukpga/2003/44/section/41), [332](https://www.legislation.gov.uk/ukpga/2003/44/section/332), [336(3)(4)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/3/4), [Sch. 3 para. 49(a)](https://www.legislation.gov.uk/ukpga/2003/44/schedule/3/paragraph/49/a), [Sch. 37 Pt. 4](https://www.legislation.gov.uk/ukpga/2003/44/schedule/37/part/4); [S.I. 2012/1320](https://www.legislation.gov.uk/uksi/2012/1320), [art. 4(1)(c)(d)(2)(3)](https://www.legislation.gov.uk/uksi/2012/1320/article/4/1/c/d/2/3) (with [art. 5](https://www.legislation.gov.uk/uksi/2012/1320/article/5)); [S.I. 2012/2574](https://www.legislation.gov.uk/uksi/2012/2574), [art. 2(c)(d)(2)(3)](https://www.legislation.gov.uk/uksi/2012/2574/article/2/c/d/2/3), [Sch.](https://www.legislation.gov.uk/uksi/2012/2574/schedule) (with [arts. 3](https://www.legislation.gov.uk/uksi/2012/2574/article/3), [4](https://www.legislation.gov.uk/uksi/2012/2574/article/4)) (as amended (4.11.2012) by [S.I. 2012/2761](https://www.legislation.gov.uk/uksi/2012/2761), [art. 2](https://www.legislation.gov.uk/uksi/2012/2761/article/2)) (with [S.I. 2013/1103](https://www.legislation.gov.uk/uksi/2013/1103), [art. 4](https://www.legislation.gov.uk/uksi/2013/1103/article/4)); [S.I. 2013/1103](https://www.legislation.gov.uk/uksi/2013/1103), [art. 2(1)(c)(d)(2)(3)](https://www.legislation.gov.uk/uksi/2013/1103/article/2/1/c/d/2/3) (with [arts. 3](https://www.legislation.gov.uk/uksi/2013/1103/article/3), [4](https://www.legislation.gov.uk/uksi/2013/1103/article/4))
+
+[^c18817391]: Textual amendment: Words substituted by [S.I. 1981/1675 (N.I. 26)](https://www.legislation.gov.uk/nisi/1981/1675), [s. 170(2)](https://www.legislation.gov.uk/nisi/1981/1675/section/170/2), [Sch. 6 para. 56(a)](https://www.legislation.gov.uk/nisi/1981/1675/schedule/6/paragraph/56/a)
+
+[^c18820341]: Textual amendment: In Sch. 1 in paragraph (b) of definition of "committed for trial" words repealed (1.4.2005) by [Justice (Northern Ireland) Act 2002 (c. 26)](https://www.legislation.gov.uk/ukpga/2002/26), [ss. 86](https://www.legislation.gov.uk/ukpga/2002/26/section/86), [87](https://www.legislation.gov.uk/ukpga/2002/26/section/87), [Sch. 13](https://www.legislation.gov.uk/ukpga/2002/26/schedule/13); [S.R. 2005/109](https://www.legislation.gov.uk/nisr/2005/109), [art. 2](https://www.legislation.gov.uk/nisr/2005/109/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2005/109/schedule)
+
+[^key-5cd4fe2aa416937340a36368148cc3c8]: Textual amendment: Words in Sch. 1 omitted (31.12.2020) by virtue of [European Union (Withdrawal) Act 2018 (c. 16)](https://www.legislation.gov.uk/ukpga/2018/16), [s. 25(4)](https://www.legislation.gov.uk/ukpga/2018/16/section/25/4), [Sch. 8 para. 22(a)](https://www.legislation.gov.uk/ukpga/2018/16/schedule/8/paragraph/22/a) (with [s. 19](https://www.legislation.gov.uk/ukpga/2018/16/section/19), [Sch. 7 para. 26](https://www.legislation.gov.uk/ukpga/2018/16/schedule/7/paragraph/26), [Sch. 8 para. 37](https://www.legislation.gov.uk/ukpga/2018/16/schedule/8/paragraph/37)); [S.I. 2020/1622](https://www.legislation.gov.uk/uksi/2020/1622), [reg. 3(n)](https://www.legislation.gov.uk/uksi/2020/1622/regulation/3/n) (with [regs. 7](https://www.legislation.gov.uk/uksi/2020/1622/regulation/7), [22](https://www.legislation.gov.uk/uksi/2020/1622/regulation/22))
+
+[^c22717901]: Textual amendment: Words in Sch. 1 repealed (1.4.2012) by [Budget Responsibility and National Audit Act 2011 (c. 4)](https://www.legislation.gov.uk/ukpga/2011/4), [s. 29](https://www.legislation.gov.uk/ukpga/2011/4/section/29), [Sch. 5 para. 12](https://www.legislation.gov.uk/ukpga/2011/4/schedule/5/paragraph/12); [S.I. 2011/2576](https://www.legislation.gov.uk/uksi/2011/2576), [art. 5](https://www.legislation.gov.uk/uksi/2011/2576/article/5)
+
+[^c18817461]: Marginal citation: [1968 c. 18](https://www.legislation.gov.uk/ukpga/1968/18).
+
+[^c18817471]: Textual amendment: Definition substituted by [Finance Act 1987 (c. 16, SIF 63:1)](https://www.legislation.gov.uk/ukpga/1987/16), [ss. 2(8)](https://www.legislation.gov.uk/ukpga/1987/16/section/2/8), [71](https://www.legislation.gov.uk/ukpga/1987/16/section/71), [Sch. 15 para. 12](https://www.legislation.gov.uk/ukpga/1987/16/schedule/15/paragraph/12)
+
+[^key-5b6240603263f4e5a9a99196b6384834]: Textual amendment: Words in Sch. 1 substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 94](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/94); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+
+[^c18817481]: Textual amendment: Words substituted by [County Courts Act 1984 (c. 28, SIF 34)](https://www.legislation.gov.uk/ukpga/1984/28), [s. 148(1)](https://www.legislation.gov.uk/ukpga/1984/28/section/148/1), [Sch. 2 Pt. V para. 68](https://www.legislation.gov.uk/ukpga/1984/28/schedule/2/part/V/paragraph/68)
+
+[^key-f8502e2f7c7c59f4834ab3aca9677a16]: Textual amendment: Words in Sch. 1 repealed (N.I.) (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 75](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/75), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/l) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
+
+[^c18817511]: Textual amendment: Words substituted by [S.I. 1980/397 (N.I. 3)](https://www.legislation.gov.uk/nisi/1980/397), [Sch. 1 Pt. II](https://www.legislation.gov.uk/nisi/1980/397/schedule/1/part/II)
+
+[^c18824031]: Textual amendment: In Sch. 1 definition of "Court of Judicature" inserted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [ss. 59(5)](https://www.legislation.gov.uk/ukpga/2005/4/section/59/5), [148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 11 para. 24(b)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/11/paragraph/24/b); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2](https://www.legislation.gov.uk/uksi/2009/1604/article/2)
+
+[^c18817521]: Marginal citation: [1971 c. 23](https://www.legislation.gov.uk/ukpga/1971/23).
+
+[^c18817531]: Marginal citation: [1978 c. 23](https://www.legislation.gov.uk/ukpga/1978/23).
+
+[^c18817541]: Marginal citation: [1961 c. 55](https://www.legislation.gov.uk/ukpga/1961/55).
+
+[^key-d2f8782d184390ad491f1da44697bba9]: Textual amendment: Words in Sch. 1 omitted (31.12.2020) by virtue of [European Union (Withdrawal) Act 2018 (c. 16)](https://www.legislation.gov.uk/ukpga/2018/16), [s. 25(4)](https://www.legislation.gov.uk/ukpga/2018/16/section/25/4), [Sch. 8 para. 22(b)](https://www.legislation.gov.uk/ukpga/2018/16/schedule/8/paragraph/22/b) (with [s. 19](https://www.legislation.gov.uk/ukpga/2018/16/section/19), [Sch. 7 para. 26](https://www.legislation.gov.uk/ukpga/2018/16/schedule/7/paragraph/26), [Sch. 8 para. 37](https://www.legislation.gov.uk/ukpga/2018/16/schedule/8/paragraph/37)); [S.I. 2020/1622](https://www.legislation.gov.uk/uksi/2020/1622), [reg. 3(n)](https://www.legislation.gov.uk/uksi/2020/1622/regulation/3/n) (with [regs. 7](https://www.legislation.gov.uk/uksi/2020/1622/regulation/7), [22](https://www.legislation.gov.uk/uksi/2020/1622/regulation/22))
+
+[^key-576aaedacb618834ad84813afbedd886]: Textual amendment: Words in Sch. 1 omitted (31.12.2020) by virtue of [European Union (Withdrawal) Act 2018 (c. 16)](https://www.legislation.gov.uk/ukpga/2018/16), [s. 25(4)](https://www.legislation.gov.uk/ukpga/2018/16/section/25/4), [Sch. 8 para. 22(c)](https://www.legislation.gov.uk/ukpga/2018/16/schedule/8/paragraph/22/c) (with [s. 19](https://www.legislation.gov.uk/ukpga/2018/16/section/19), [Sch. 7 para. 26](https://www.legislation.gov.uk/ukpga/2018/16/schedule/7/paragraph/26), [Sch. 8 para. 37](https://www.legislation.gov.uk/ukpga/2018/16/schedule/8/paragraph/37)); [S.I. 2020/1622](https://www.legislation.gov.uk/uksi/2020/1622), [reg. 3(n)](https://www.legislation.gov.uk/uksi/2020/1622/regulation/3/n) (with [regs. 7](https://www.legislation.gov.uk/uksi/2020/1622/regulation/7), [22](https://www.legislation.gov.uk/uksi/2020/1622/regulation/22))
+
+[^c18819771]: Textual amendment: In Sch. 1 definition of "enactment" inserted (1.7.1999) by [1998 c. 46](https://www.legislation.gov.uk/ukpga/1998/46), [s. 125](https://www.legislation.gov.uk/ukpga/1998/46/section/125), [Sch. 8 para. 16(3)](https://www.legislation.gov.uk/ukpga/1998/46/schedule/8/paragraph/16/3) (with [s. 126(3)-(11)](https://www.legislation.gov.uk/ukpga/1998/46/section/126/3)); [S.I. 1998/3178](https://www.legislation.gov.uk/uksi/1998/3178), [art. 2](https://www.legislation.gov.uk/uksi/1998/3178/article/2)
+
+[^key-68784ec0c7b1fe909e9c005b57fd6629]: Textual amendment: Words in Sch. 1 inserted (4.7.2018 for specified purposes) by [European Union (Withdrawal) Act 2018 (c. 16)](https://www.legislation.gov.uk/ukpga/2018/16), [s. 25(4)](https://www.legislation.gov.uk/ukpga/2018/16/section/25/4), [Sch. 8 para. 22(d)](https://www.legislation.gov.uk/ukpga/2018/16/schedule/8/paragraph/22/d) (with [s. 19](https://www.legislation.gov.uk/ukpga/2018/16/section/19), [Sch. 7 para. 26](https://www.legislation.gov.uk/ukpga/2018/16/schedule/7/paragraph/26), [Sch. 8 para. 37](https://www.legislation.gov.uk/ukpga/2018/16/schedule/8/paragraph/37)); [S.I. 2018/808](https://www.legislation.gov.uk/uksi/2018/808), [reg. 3(g)(iii)](https://www.legislation.gov.uk/uksi/2018/808/regulation/3/g/iii)
+
+[^key-54c3cde96c738a82cb15221525b0e02d]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/ukpga/1978/30/schedule/1) substituted (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [s. 22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 2 para. 2(6)(a)](https://www.legislation.gov.uk/ukpga/2023/28/schedule/2/paragraph/2/6/a) (with [s. 22(6)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/6)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2023/1363/regulation/3/e)
+
+[^c18817551]: Marginal citation: [1972 c. 70](https://www.legislation.gov.uk/ukpga/1972/70).
+
+[^c18823681]: Textual amendment: In Sch. 1 definition of "Her Majesty's Revenue and Customs" inserted (7.4.2005 at 5.45 p.m.) by [Commissioners for Revenue and Customs Act 2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11), [ss. 4(3)](https://www.legislation.gov.uk/ukpga/2005/11/section/4/3), [53](https://www.legislation.gov.uk/ukpga/2005/11/section/53); [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2](https://www.legislation.gov.uk/uksi/2005/1126/article/2)
+
+[^c18823951]: Textual amendment: In Sch. 1 definition of "the immigration acts" inserted (30.3.2006) by [Immigration, Asylum and Nationality Act 2006 (c. 13)](https://www.legislation.gov.uk/ukpga/2006/13), [s. 64(4)](https://www.legislation.gov.uk/ukpga/2006/13/section/64/4)
+
+[^c19738011]: Textual amendment: Sch. 1: words in definition of "The Immigration Acts" substituted (30.10.2007) by [UK Borders Act 2007 (c. 30)](https://www.legislation.gov.uk/ukpga/2007/30), [ss. 59(2)](https://www.legislation.gov.uk/ukpga/2007/30/section/59/2), [61(4)](https://www.legislation.gov.uk/ukpga/2007/30/section/61/4)
+
+[^c18817561]: Marginal citation: [1845 c. 18](https://www.legislation.gov.uk/ukpga/1845/18).
+
+[^c18817571]: Marginal citation: [1860 c. 106](https://www.legislation.gov.uk/ukpga/1860/106).
+
+[^c18817581]: Marginal citation: [1845 c. 19](https://www.legislation.gov.uk/ukpga/1845/19).
+
+[^c18817601]: Marginal citation: [1860 c. 106](https://www.legislation.gov.uk/ukpga/1860/106).
+
+[^c18817651]: Marginal citation: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
+
+[^key-c594712b8219765a602509ed46355658]: Textual amendment: Words in Sch. 1 substituted (12.4.2015) by [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7), [s. 57(5)(e)](https://www.legislation.gov.uk/ukpga/2015/7/section/57/5/e), [Sch. 5 para. 34(a)](https://www.legislation.gov.uk/ukpga/2015/7/schedule/5/paragraph/34/a) (with [Sch. 5 Pt. 4](https://www.legislation.gov.uk/ukpga/2015/7/schedule/5/part/4))
+
+[^c18817661]: Marginal citation: [1975 c. 76](https://www.legislation.gov.uk/ukpga/1975/76).
+
+[^key-201bf39ff0f136d749772ab70d648ff2]: Textual amendment: Words in Sch. 1 omitted (12.4.2015) by virtue of [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7), [s. 57(5)(e)](https://www.legislation.gov.uk/ukpga/2015/7/section/57/5/e), [Sch. 5 para. 34(b)](https://www.legislation.gov.uk/ukpga/2015/7/schedule/5/paragraph/34/b) (with [Sch. 5 Pt. 4](https://www.legislation.gov.uk/ukpga/2015/7/schedule/5/part/4))
+
+[^c21792041]: Textual amendment: Sch. 1: definition inserted (16.1.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [ss. 97(2)](https://www.legislation.gov.uk/ukpga/2011/13/section/97/2), [157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1); [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)
+
+[^c18817681]: Marginal citation: [1963 c. 33](https://www.legislation.gov.uk/ukpga/1963/33).
+
+[^c18817691]: Marginal citation: [1972 c. 70](https://www.legislation.gov.uk/ukpga/1972/70).
+
+[^c19783681]: Textual amendment: Sch. 1: words in definition of "London borough" substituted (1.11.2007 with application as mentioned in art. 1(1) of the commencing S.I.) by Local Government and Public Involvement in [Health Act 2007 (c. 28)](https://www.legislation.gov.uk/ukpga/2007/28), [ss. 22](https://www.legislation.gov.uk/ukpga/2007/28/section/22), [245](https://www.legislation.gov.uk/ukpga/2007/28/section/245), [Sch. 1 para. 14](https://www.legislation.gov.uk/ukpga/2007/28/schedule/1/paragraph/14); [S.I. 2007/3136](https://www.legislation.gov.uk/uksi/2007/3136), [art. 2](https://www.legislation.gov.uk/uksi/2007/3136/article/2) (subject to [art. 3](https://www.legislation.gov.uk/uksi/2007/3136/article/3))
+
+[^c18817711]: Textual amendment: Words substituted by [Magistrates' Courts Act 1980 (c. 43, SIF 82)](https://www.legislation.gov.uk/ukpga/1980/43), [s. 154](https://www.legislation.gov.uk/ukpga/1980/43/section/154), [Sch. 7 para. 169(b)](https://www.legislation.gov.uk/ukpga/1980/43/schedule/7/paragraph/169/b)
+
+[^c18817721]: Textual amendment: Words substituted by [S.I. 1981/1675 (N.I. 26)](https://www.legislation.gov.uk/nisi/1981/1675), [s. 170(2)](https://www.legislation.gov.uk/nisi/1981/1675/section/170/2), [Sch. 6 para. 56(b)](https://www.legislation.gov.uk/nisi/1981/1675/schedule/6/paragraph/56/b)
+
+[^c19738671]: Textual amendment: Sch. 1: definition of "Officer of a provider of probation services" inserted (1.4.2008) by [Offender Management Act 2007 (c. 21)](https://www.legislation.gov.uk/ukpga/2007/21), [ss. 39](https://www.legislation.gov.uk/ukpga/2007/21/section/39), [41(1)](https://www.legislation.gov.uk/ukpga/2007/21/section/41/1), [Sch. 3 para. 2](https://www.legislation.gov.uk/ukpga/2007/21/schedule/3/paragraph/2); [S.I. 2008/504](https://www.legislation.gov.uk/uksi/2008/504), [art. 3(k)(l)](https://www.legislation.gov.uk/uksi/2008/504/article/3/k/l)
+
+[^c18823671]: Textual amendment: In Sch. 1 definition of "Officer of Revenue and Customs" inserted (7.4.2005 at 5.45 p.m.) by [Commissioners for Revenue and Customs Act 2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11), [ss. 2(7)](https://www.legislation.gov.uk/ukpga/2005/11/section/2/7), [53](https://www.legislation.gov.uk/ukpga/2005/11/section/53); [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2](https://www.legislation.gov.uk/uksi/2005/1126/article/2)
+
+[^c18817731]: Marginal citation: [1841 c. 30](https://www.legislation.gov.uk/ukpga/1841/30).
+
+[^c18817741]: Marginal citation: [1854 c. 17](https://www.legislation.gov.uk/ukpga/1854/17).
+
+[^c18820141]: Textual amendment: In Sch. 1 definitions of "PAYE income" and "PAYE regulations" inserted (6.4.2003 with effect as mentioned in s. 723(1)(a)(b) of amending Act) by [Income Tax (Earnings and Pensions) Act 2003 (c. 1)](https://www.legislation.gov.uk/ukpga/2003/1), [ss. 722](https://www.legislation.gov.uk/ukpga/2003/1/section/722), [723](https://www.legislation.gov.uk/ukpga/2003/1/section/723), [Sch. 6 Pt. 2 para. 148](https://www.legislation.gov.uk/ukpga/2003/1/schedule/6/part/2/paragraph/148) (subject to [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/1/schedule/7))
+
+[^c22717921]: Textual amendment: Words in Sch. 1 inserted (22.11.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [s. 97(3)](https://www.legislation.gov.uk/ukpga/2011/13/section/97/3), [157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1); [S.I. 2012/2892](https://www.legislation.gov.uk/uksi/2012/2892), [art. 2(a)](https://www.legislation.gov.uk/uksi/2012/2892/article/2/a)
+
+[^c21792061]: Textual amendment: Sch. 1: words omitted (16.1.2012) by virtue of [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [ss. 97(4)](https://www.legislation.gov.uk/ukpga/2011/13/section/97/4), [157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1); [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)
+
+[^c18819711]: Textual amendment: In Sch. 1 in definition of "police area" words substituted (22.8.1996) by [1996 c. 16](https://www.legislation.gov.uk/ukpga/1996/16), [ss. 103](https://www.legislation.gov.uk/ukpga/1996/16/section/103), [104(1)](https://www.legislation.gov.uk/ukpga/1996/16/section/104/1), [Sch. 7 Pt. II para. 32](https://www.legislation.gov.uk/ukpga/1996/16/schedule/7/part/II/paragraph/32)
+
+[^c22717931]: Textual amendment: Words in Sch. 1 omitted (1.4.2013) by virtue of [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 2 para. 15(2)(a)](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/15/2/a)
+
+[^c22717951]: Textual amendment: Words in Sch. 1 omitted (1.4.2013) by virtue of [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 2 para. 15(2)(b)](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/15/2/b)
+
+[^c18819801]: Textual amendment: Sch. 1: definitions of "Police Service of Northern Ireland" and "Police Service of Northern Ireland Reserve" inserted (4.11.2001) by [2000 c. 32](https://www.legislation.gov.uk/ukpga/2000/32), [s. 74](https://www.legislation.gov.uk/ukpga/2000/32/section/74), [Sch. 6](https://www.legislation.gov.uk/ukpga/2000/32/schedule/6), [para. 5](https://www.legislation.gov.uk/ukpga/2000/32/paragraph/5); [S.R. 2001/396](https://www.legislation.gov.uk/nisr/2001/396), [art. 2](https://www.legislation.gov.uk/nisr/2001/396/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2001/396/schedule)
+
+[^c19738721]: Textual amendment: Sch. 1: definition of "Provider of probation services" inserted (1.4.2008) by [Offender Management Act 2007 (c. 21)](https://www.legislation.gov.uk/ukpga/2007/21), [ss. 39](https://www.legislation.gov.uk/ukpga/2007/21/section/39), [41(1)](https://www.legislation.gov.uk/ukpga/2007/21/section/41/1), [Sch. 3 para. 2](https://www.legislation.gov.uk/ukpga/2007/21/schedule/3/paragraph/2); [S.I. 2008/504](https://www.legislation.gov.uk/uksi/2008/504), [art. 3(k)(l)](https://www.legislation.gov.uk/uksi/2008/504/article/3/k/l)
+
+[^key-8f952bf941c926410ddefb094c7ed051]: Textual amendment: Words in Sch. 1 substituted (28.1.2019) by [The Nursing and Midwifery (Amendment) Order 2018 (S.I. 2018/838)](https://www.legislation.gov.uk/uksi/2018/838), [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/838/article/1/3), [Sch. 3 para. 1](https://www.legislation.gov.uk/uksi/2018/838/schedule/3/paragraph/1)
+
+[^c18819871]: Textual amendment: Sch. 1: definition of "registered medical practitioner" substituted by [S.I. 2002/3135](https://www.legislation.gov.uk/uksi/2002/3135), [art. 16(1)](https://www.legislation.gov.uk/uksi/2002/3135/article/16/1), [Sch. 1 para. 10](https://www.legislation.gov.uk/uksi/2002/3135/schedule/1/paragraph/10) (with transitional provisions in [Sch. 2](https://www.legislation.gov.uk/uksi/2002/3135/schedule/2)) (the amendment coming into force in accordance with art. 1(2)(3) of the amending S.I.)
+
+[^c21791921]: Textual amendment: Sch. 1: definition of "registered provider of social housing" inserted (1.4.2010) by [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), [ss. 277](https://www.legislation.gov.uk/ukpga/2008/17/section/277), [325(1)](https://www.legislation.gov.uk/ukpga/2008/17/section/325/1), [Sch. 9 para. 5](https://www.legislation.gov.uk/ukpga/2008/17/schedule/9/paragraph/5); [S.I. 2010/862](https://www.legislation.gov.uk/uksi/2010/862), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2010/862/article/1/2), [2](https://www.legislation.gov.uk/uksi/2010/862/article/2) (subject to [Sch.](https://www.legislation.gov.uk/uksi/2010/862/schedule)); and definition of "registered provider of social housing" and "private registered provider of social housing" immediately substituted (1.4.2010) for that definition by [The Housing and Regeneration Act 2008 (Registration of Local Authorities) Order 2010 (S.I. 2010/844)](https://www.legislation.gov.uk/uksi/2010/844), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2010/844/article/1/2), [6](https://www.legislation.gov.uk/uksi/2010/844/article/6), [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2010/844/schedule/2/paragraph/1)
+
+[^c18824041]: Textual amendment: In Sch. 1 definition of "Senior Courts" inserted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [ss. 59(5)](https://www.legislation.gov.uk/ukpga/2005/4/section/59/5), [148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 11 para. 24(b)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/11/paragraph/24/b); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2](https://www.legislation.gov.uk/uksi/2009/1604/article/2)
+
+[^c18823861]: Textual amendment: In Sch. 1 definition of "sent for trial" inserted (9.5.2005 for specified purposes, 18.6.2012 for specified purposes, 5.11.2012 for specified purposes, 28.5.2013 for specified purposes) by [Criminal Justice Act 2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), [ss. 41](https://www.legislation.gov.uk/ukpga/2003/44/section/41), [336(3)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/3), [Sch. 3 Pt. 2 para. 49(b)](https://www.legislation.gov.uk/ukpga/2003/44/schedule/3/part/2/paragraph/49/b); [S.I. 2005/1267](https://www.legislation.gov.uk/uksi/2005/1267), [art. 2](https://www.legislation.gov.uk/uksi/2005/1267/article/2), [Sch. Pt. 1 para. 1(1)(h)](https://www.legislation.gov.uk/uksi/2005/1267/schedule/part/1/paragraph/1/1/h); [S.I. 2012/1320](https://www.legislation.gov.uk/uksi/2012/1320), [art. 4(1)(c)(2)(3)](https://www.legislation.gov.uk/uksi/2012/1320/article/4/1/c/2/3) (with [art. 5](https://www.legislation.gov.uk/uksi/2012/1320/article/5)) (see [S.I](https://www.legislation.gov.uk/uksi/2012/1320/section/I). 2012/2574, art. 4(2) and [S.I. 2013/1103](https://www.legislation.gov.uk/uksi/2013/1103), [art. 4](https://www.legislation.gov.uk/uksi/2013/1103/article/4)); [S.I. 2012/2574](https://www.legislation.gov.uk/uksi/2012/2574), [art. 2(c)(2)(3)](https://www.legislation.gov.uk/uksi/2012/2574/article/2/c/2/3), [Sch.](https://www.legislation.gov.uk/uksi/2012/2574/schedule) (with [arts. 3](https://www.legislation.gov.uk/uksi/2012/2574/article/3), [4](https://www.legislation.gov.uk/uksi/2012/2574/article/4)) (as amended (4.11.2012) by [S.I. 2012/2761](https://www.legislation.gov.uk/uksi/2012/2761), [art. 2](https://www.legislation.gov.uk/uksi/2012/2761/article/2)) (with [S.I. 2013/1103](https://www.legislation.gov.uk/uksi/2013/1103), [art. 4](https://www.legislation.gov.uk/uksi/2013/1103/article/4)); [S.I. 2013/1103](https://www.legislation.gov.uk/uksi/2013/1103), [art. 2(1)(c)(2)(3)](https://www.legislation.gov.uk/uksi/2013/1103/article/2/1/c/2/3) (with [arts. 3](https://www.legislation.gov.uk/uksi/2013/1103/article/3), [4](https://www.legislation.gov.uk/uksi/2013/1103/article/4))
+
+[^key-20f307411d7587eb50700ae0aaf2b4f5]: Textual amendment: Words in Sch. 1 inserted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 39(2)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/39/2) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+
+[^c18817831]: Textual amendment: Definition inserted (E.W.) by [Water Act 1989 (c. 15, SIF 130)](https://www.legislation.gov.uk/ukpga/1989/15), [ss. 58(7)](https://www.legislation.gov.uk/ukpga/1989/15/section/58/7), [101(1)](https://www.legislation.gov.uk/ukpga/1989/15/section/101/1), [141(6)](https://www.legislation.gov.uk/ukpga/1989/15/section/141/6), [160(1)(2)(4)](https://www.legislation.gov.uk/ukpga/1989/15/section/160/1/2/4), [163](https://www.legislation.gov.uk/ukpga/1989/15/section/163), [189(4)-(10)](https://www.legislation.gov.uk/ukpga/1989/15/section/189/4), [190](https://www.legislation.gov.uk/ukpga/1989/15/section/190), [193(1)](https://www.legislation.gov.uk/ukpga/1989/15/section/193/1), [Sch. 25 para. 55(2)](https://www.legislation.gov.uk/ukpga/1989/15/schedule/25/paragraph/55/2), [Sch. 26 paras. 3(1)(2)](https://www.legislation.gov.uk/ukpga/1989/15/schedule/26/paragraph/3/1/2), [17](https://www.legislation.gov.uk/ukpga/1989/15/schedule/26/paragraph/17), [40(4)](https://www.legislation.gov.uk/ukpga/1989/15/schedule/26/paragraph/40/4), [57(6)](https://www.legislation.gov.uk/ukpga/1989/15/schedule/26/paragraph/57/6), [58](https://www.legislation.gov.uk/ukpga/1989/15/schedule/26/paragraph/58)
+
+[^key-7fa72327b853f644c4158f86781a479e]: Textual amendment: Words in Sch. 1 substituted (1.4.2015) by [The Courts Reform (Scotland) Act 2014 (Consequential Provisions and Modifications) Order 2015 (S.I. 2015/700)](https://www.legislation.gov.uk/uksi/2015/700), [art. 1(11)(h)](https://www.legislation.gov.uk/uksi/2015/700/article/1/11/h), [Sch. para. 10](https://www.legislation.gov.uk/uksi/2015/700/schedule/paragraph/10)
+
+[^c18817841]: Textual amendment: Definition inserted by [Criminal Justice Act 1988 (c. 33, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1988/33), [ss. 123(6)](https://www.legislation.gov.uk/ukpga/1988/33/section/123/6), [170(1)](https://www.legislation.gov.uk/ukpga/1988/33/section/170/1), [Sch. 8 para. 16](https://www.legislation.gov.uk/ukpga/1988/33/schedule/8/paragraph/16), [Sch. 15 para. 58(a)](https://www.legislation.gov.uk/ukpga/1988/33/schedule/15/paragraph/58/a)
+
+[^key-318232fdb01ed45e549723c29bba49b6]: Textual amendment: Words in Sch. 1 substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 39(3)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/39/3) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+
+[^c18817871]: Marginal citation: [S.I. 1984/703 (N.I. 3)](https://www.legislation.gov.uk/nisi/1984/703).
+
+[^c18817881]: Marginal citation: [1835 c. 62](https://www.legislation.gov.uk/ukpga/1835/62).
+
+[^c18817891]: Textual amendment: Definition inserted by [Criminal Justice Act 1988 (c. 33, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1988/33), [ss. 123(6)](https://www.legislation.gov.uk/ukpga/1988/33/section/123/6), [170(1)](https://www.legislation.gov.uk/ukpga/1988/33/section/170/1), [Sch. 8 para. 16](https://www.legislation.gov.uk/ukpga/1988/33/schedule/8/paragraph/16), [Sch. 15 para. 58(b)](https://www.legislation.gov.uk/ukpga/1988/33/schedule/15/paragraph/58/b)
+
+[^c18817901]: Marginal citation: [1980 c. 43 (82)](https://www.legislation.gov.uk/ukpga/1980/43).
+
+[^c18824021]: Textual amendment: In Sch. 1 definition of "Supreme Court" substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [ss. 59(5)](https://www.legislation.gov.uk/ukpga/2005/4/section/59/5), [148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 11 para. 24(a)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/11/paragraph/24/a); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2](https://www.legislation.gov.uk/uksi/2009/1604/article/2)
+
+[^c18817921]: Textual amendment: Definition substituted by [Finance Act 1987 (c. 16, SIF 63:1)](https://www.legislation.gov.uk/ukpga/1987/16), [ss. 2(8)](https://www.legislation.gov.uk/ukpga/1987/16/section/2/8), [71](https://www.legislation.gov.uk/ukpga/1987/16/section/71), [Sch. 15 para. 12](https://www.legislation.gov.uk/ukpga/1987/16/schedule/15/paragraph/12)
+
+[^c18819721]: Textual amendment: In Sch. 1 definitions of "trust of land" and "trustees of land" inserted (E.W.) (1.1.1997) by [1996 c. 47](https://www.legislation.gov.uk/ukpga/1996/47), [s. 25(1)](https://www.legislation.gov.uk/ukpga/1996/47/section/25/1), [Sch. 3 para. 16](https://www.legislation.gov.uk/ukpga/1996/47/schedule/3/paragraph/16) (with [ss. 24(2)](https://www.legislation.gov.uk/ukpga/1996/47/section/24/2), [25(4)(5)](https://www.legislation.gov.uk/ukpga/1996/47/section/25/4/5)); [S.I. 1996/2974](https://www.legislation.gov.uk/uksi/1996/2974), [art. 2](https://www.legislation.gov.uk/uksi/1996/2974/article/2)
+
+[^c18818361]: Textual amendment: Definition of "Wales" in Sch. 1 substituted (3.4.1995) by [1994 c. 19](https://www.legislation.gov.uk/ukpga/1994/19), [s. 1(3)](https://www.legislation.gov.uk/ukpga/1994/19/section/1/3), [Sch. 2 para. 9](https://www.legislation.gov.uk/ukpga/1994/19/schedule/2/paragraph/9) (with [ss. 54(5)(7)](https://www.legislation.gov.uk/ukpga/1994/19/section/54/5/7), [55(5)](https://www.legislation.gov.uk/ukpga/1994/19/section/55/5), [Sch. 17 para. 22(1)](https://www.legislation.gov.uk/ukpga/1994/19/schedule/17/paragraph/22/1), [23(2)](https://www.legislation.gov.uk/ukpga/1994/19/schedule/17/paragraph/23/2)); [S.I. 1995/852](https://www.legislation.gov.uk/uksi/1995/852), [art. 3](https://www.legislation.gov.uk/uksi/1995/852/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/1995/852/schedule/1)
+
+[^c18818371]: Marginal citation: [1972 c. 70](https://www.legislation.gov.uk/ukpga/1972/70).
+
+[^c18817971]: Textual amendment: Definition substituted by [Water Act 1989 (c. 15, SIF 130)](https://www.legislation.gov.uk/ukpga/1989/15), [ss. 58(7)](https://www.legislation.gov.uk/ukpga/1989/15/section/58/7), [101(1)](https://www.legislation.gov.uk/ukpga/1989/15/section/101/1), [141(6)](https://www.legislation.gov.uk/ukpga/1989/15/section/141/6), [160(1)(2)(4)](https://www.legislation.gov.uk/ukpga/1989/15/section/160/1/2/4), [163](https://www.legislation.gov.uk/ukpga/1989/15/section/163), [189(4)-(10)](https://www.legislation.gov.uk/ukpga/1989/15/section/189/4), [190](https://www.legislation.gov.uk/ukpga/1989/15/section/190), [193(1)](https://www.legislation.gov.uk/ukpga/1989/15/section/193/1), [Sch. 25 para. 55(3)](https://www.legislation.gov.uk/ukpga/1989/15/schedule/25/paragraph/55/3), [Sch. 26 paras. 3(1)(2)](https://www.legislation.gov.uk/ukpga/1989/15/schedule/26/paragraph/3/1/2), [17](https://www.legislation.gov.uk/ukpga/1989/15/schedule/26/paragraph/17), [40(4)](https://www.legislation.gov.uk/ukpga/1989/15/schedule/26/paragraph/40/4), [57(6)](https://www.legislation.gov.uk/ukpga/1989/15/schedule/26/paragraph/57/6), [58](https://www.legislation.gov.uk/ukpga/1989/15/schedule/26/paragraph/58)
+
+[^c11103711]: Textual amendment: Entry repealed (E.W.) (14.10.1991) by [Children Act 1989 (c. 41, SIF 20)](https://www.legislation.gov.uk/ukpga/1989/41), [s. 108(6)(7)](https://www.legislation.gov.uk/ukpga/1989/41/section/108/6/7), [Sch.15](https://www.legislation.gov.uk/ukpga/1989/41/schedule/15) (Sch. 14 paras. 1(1), 27(4)); [S.I. 1991/828](https://www.legislation.gov.uk/uksi/1991/828), [art. 3(2)](https://www.legislation.gov.uk/uksi/1991/828/article/3/2)
+
+[^c11103731]: Textual amendment: Entry repealed (E.W) (14.10.1991) by [Children Act 1989 (c. 41, SIF 20)](https://www.legislation.gov.uk/ukpga/1989/41), [s. 108](https://www.legislation.gov.uk/ukpga/1989/41/section/108) (6)(7) (Sch. 14 paras. 1(1), 27(4)) Sch.15; [S.I. 1991/828](https://www.legislation.gov.uk/uksi/1991/828), [art. 3(2)](https://www.legislation.gov.uk/uksi/1991/828/article/3/2).
+
+[^c11103741]: Textual amendment: Words inserted by [Criminal Justice Act 1988 (c. 33, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1988/33), [ss. 123(6)](https://www.legislation.gov.uk/ukpga/1988/33/section/123/6), [170](https://www.legislation.gov.uk/ukpga/1988/33/section/170), [Sch. 8 para. 16](https://www.legislation.gov.uk/ukpga/1988/33/schedule/8/paragraph/16), [Sch. 15 para. 59](https://www.legislation.gov.uk/ukpga/1988/33/schedule/15/paragraph/59)
+
+[^c11103751]: Textual amendment: Words substituted by [Magistrates' Courts Act 1980 (c. 43, SIF 82)](https://www.legislation.gov.uk/ukpga/1980/43), [s. 154](https://www.legislation.gov.uk/ukpga/1980/43/section/154), [Sch. 7 para. 169](https://www.legislation.gov.uk/ukpga/1980/43/schedule/7/paragraph/169)(*c*)
+
+[^key-2b9d4291fbcb1df35c6bc8dded16a83b]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/ukpga/1978/30/schedule/1) inserted (28.4.2022) by [Judicial Review and Courts Act 2022 (c. 35)](https://www.legislation.gov.uk/ukpga/2022/35), [ss. 13(3)](https://www.legislation.gov.uk/ukpga/2022/35/section/13/3), [51(1)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/1)
+
+[^c11103761]: Textual amendment: Entry added (E.W.) by [Family Law Reform Act 1987 (c. 42, SIF 49:7)](https://www.legislation.gov.uk/ukpga/1987/42), [s. 33(1)(2)](https://www.legislation.gov.uk/ukpga/1987/42/section/33/1/2), [Sch. 2 para. 73](https://www.legislation.gov.uk/ukpga/1987/42/schedule/2/paragraph/73), [Sch. 3 paras. 1](https://www.legislation.gov.uk/ukpga/1987/42/schedule/3/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/1987/42/schedule/3/paragraph/6)
+
+[^c11103771]: Modification: Paragraph excluded by [Income and Corporation Taxes Act 1988 (c. 1, SIF 63:1)](https://www.legislation.gov.uk/ukpga/1988/1), [s. 831(4)](https://www.legislation.gov.uk/ukpga/1988/1/section/831/4)
+
+[^key-fbb9d82675c9cdc72c51baada36bb7ed]: Textual amendment: Words in Sch. 1 inserted (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [Sch. 3 para. 6](https://www.legislation.gov.uk/uksi/2019/1458/schedule/3/paragraph/6)
+
+[^c22718031]: Textual amendment: Words in Sch. 1 inserted (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 2 para. 15(3)](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/15/3)
+
+[^key-a84e4adeb79fc2eff6c6ee0545dd93f0]: Textual amendment: Words in Sch. 1 inserted (4.7.2018 for specified purposes) by [European Union (Withdrawal) Act 2018 (c. 16)](https://www.legislation.gov.uk/ukpga/2018/16), [s. 25(4)](https://www.legislation.gov.uk/ukpga/2018/16/section/25/4), [Sch. 8 para. 22(e)](https://www.legislation.gov.uk/ukpga/2018/16/schedule/8/paragraph/22/e) (with [s. 19](https://www.legislation.gov.uk/ukpga/2018/16/section/19), [Sch. 7 para. 26](https://www.legislation.gov.uk/ukpga/2018/16/schedule/7/paragraph/26), [Sch. 8 para. 37](https://www.legislation.gov.uk/ukpga/2018/16/schedule/8/paragraph/37)); [S.I. 2018/808](https://www.legislation.gov.uk/uksi/2018/808), [reg. 3(g)(iv)](https://www.legislation.gov.uk/uksi/2018/808/regulation/3/g/iv)
+
+[^key-385f4206f3e080d9796c8ec5b957c91f]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/ukpga/1978/30/schedule/1) inserted (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [s. 22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 2 para. 2(6)(b)](https://www.legislation.gov.uk/ukpga/2023/28/schedule/2/paragraph/2/6/b) (with [s. 22(6)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/6)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2023/1363/regulation/3/e)
+
+[^key-d8f0833e13a2b40c5049d6b9e8b8b374]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/ukpga/1978/30/schedule/1) substituted (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [s. 22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 2 para. 2(6)(c)](https://www.legislation.gov.uk/ukpga/2023/28/schedule/2/paragraph/2/6/c) (with [s. 22(6)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/6)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2023/1363/regulation/3/e)
+
+[^key-33470f67111ee544403326f589b327d8]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/ukpga/1978/30/schedule/1) substituted (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [s. 22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 2 para. 2(6)(d)](https://www.legislation.gov.uk/ukpga/2023/28/schedule/2/paragraph/2/6/d) (with [s. 22(6)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/6)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2023/1363/regulation/3/e)
+
+[^key-b0e2c8db4156fc2ec22843c5e97938cd]: Textual amendment: Words in Sch. 1 inserted (23.1.2020) by [European Union (Withdrawal Agreement) Act 2020 (c. 1)](https://www.legislation.gov.uk/ukpga/2020/1), [s. 42(6)(e)(v)](https://www.legislation.gov.uk/ukpga/2020/1/section/42/6/e/v), [Sch. 5 para. 12(a)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/12/a) (with [s. 38(3)](https://www.legislation.gov.uk/ukpga/2020/1/section/38/3))
+
+[^key-0c16d86f919e9463a9b4f26d18d363b4]: Textual amendment: Words in Sch. 1 inserted (23.1.2020) by [European Union (Withdrawal Agreement) Act 2020 (c. 1)](https://www.legislation.gov.uk/ukpga/2020/1), [s. 42(6)(e)(v)](https://www.legislation.gov.uk/ukpga/2020/1/section/42/6/e/v), [Sch. 5 para. 12(b)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/12/b) (with [s. 38(3)](https://www.legislation.gov.uk/ukpga/2020/1/section/38/3))
+
+[^key-6604378262e348a2c59e3c00c3920931]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/ukpga/1978/30/schedule/1) omitted (1.1.2024) by virtue of [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [s. 22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 2 para. 2(6)(e)](https://www.legislation.gov.uk/ukpga/2023/28/schedule/2/paragraph/2/6/e) (with [s. 22(6)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/6)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2023/1363/regulation/3/e)
+
+[^key-2bad1dd7f507b98e88acadc96c5f1f22]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/ukpga/1978/30/schedule/1) omitted (1.1.2024) by virtue of [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [s. 22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 2 para. 2(6)(f)](https://www.legislation.gov.uk/ukpga/2023/28/schedule/2/paragraph/2/6/f) (with [s. 22(6)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/6)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2023/1363/regulation/3/e)
+
+[^key-c5ff7710035b360dee194c5d8489d3f4]: Textual amendment: Words in Sch. 1 substituted (31.12.2020) by [European Union (Withdrawal Agreement) Act 2020 (c. 1)](https://www.legislation.gov.uk/ukpga/2020/1), [s. 42(7)](https://www.legislation.gov.uk/ukpga/2020/1/section/42/7), [Sch. 5 para. 12(d)(i)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/12/d/i) (with [s. 38(3)](https://www.legislation.gov.uk/ukpga/2020/1/section/38/3)); [S.I. 2020/1622](https://www.legislation.gov.uk/uksi/2020/1622), [reg. 5(j)](https://www.legislation.gov.uk/uksi/2020/1622/regulation/5/j)
+
+[^key-9bfe268fb822fac44c6ce619c5968c13]: Textual amendment: Words in Sch. 1 substituted (31.12.2020) by [European Union (Withdrawal Agreement) Act 2020 (c. 1)](https://www.legislation.gov.uk/ukpga/2020/1), [s. 42(7)](https://www.legislation.gov.uk/ukpga/2020/1/section/42/7), [Sch. 5 para. 12(d)(ii)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/12/d/ii) (with [s. 38(3)](https://www.legislation.gov.uk/ukpga/2020/1/section/38/3)); [S.I. 2020/1622](https://www.legislation.gov.uk/uksi/2020/1622), [reg. 5(j)](https://www.legislation.gov.uk/uksi/2020/1622/regulation/5/j)
+
+[^c21792321]: Textual amendment: Words in [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/1978/30/schedule/2/paragraph/1) inserted (25.4.2013) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [ss. 59(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/59/3), [103(1)(e)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/1/e)
+
+[^c11103851]: Textual amendment: Words repealed by [Family Law Reform Act 1987 (c. 42, SIF 49:7)](https://www.legislation.gov.uk/ukpga/1987/42), [s. 33(1)(2)(4)](https://www.legislation.gov.uk/ukpga/1987/42/section/33/1/2/4), [Sch. 2 para. 74](https://www.legislation.gov.uk/ukpga/1987/42/schedule/2/paragraph/74), [Sch. 3 paras. 1](https://www.legislation.gov.uk/ukpga/1987/42/schedule/3/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/1987/42/schedule/3/paragraph/6), [Sch. 4](https://www.legislation.gov.uk/ukpga/1987/42/schedule/4)
+
+[^c11103861]: Textual amendment: Words inserted by [Family Law Reform Act 1987 (c. 42, SIF 49:7)](https://www.legislation.gov.uk/ukpga/1987/42), [s. 33(1)(2)](https://www.legislation.gov.uk/ukpga/1987/42/section/33/1/2), [Sch. 2 para. 74](https://www.legislation.gov.uk/ukpga/1987/42/schedule/2/paragraph/74), [Sch. 3 paras. 1](https://www.legislation.gov.uk/ukpga/1987/42/schedule/3/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/1987/42/schedule/3/paragraph/6)
+
+[^c11103891]: Marginal citation: [1889 c. 63](https://www.legislation.gov.uk/ukpga/1889/63).
+
+[^c11103901]: Textual amendment: Words in [Sch. 2 Pt. I para. 4(6)](https://www.legislation.gov.uk/ukpga/1978/30/schedule/2/part/I/paragraph/4/6) repealed (1.4.1996) by [1995 c. 17](https://www.legislation.gov.uk/ukpga/1995/17), [s. 5](https://www.legislation.gov.uk/ukpga/1995/17/section/5), [Sch. 3](https://www.legislation.gov.uk/ukpga/1995/17/schedule/3) (with [Sch. 2 paras. 6](https://www.legislation.gov.uk/ukpga/1995/17/schedule/2/paragraph/6), [16](https://www.legislation.gov.uk/ukpga/1995/17/schedule/2/paragraph/16))
+
+[^c11103911]: Marginal citation: [1973 c. 37](https://www.legislation.gov.uk/ukpga/1973/37).
+
+[^c11103921]: Marginal citation: [1967 c. 66](https://www.legislation.gov.uk/ukpga/1967/66).
+
+[^c11103931]: Marginal citation: [1975 c. 21](https://www.legislation.gov.uk/ukpga/1975/21).
+
+[^c11103941]: Textual amendment: Words repealed by [British Nationality Act 1981 (c. 61, SIF 87)](https://www.legislation.gov.uk/ukpga/1981/61), [s. 52(8)](https://www.legislation.gov.uk/ukpga/1981/61/section/52/8), [Sch. 9](https://www.legislation.gov.uk/ukpga/1981/61/schedule/9)
+
+[^c22718001]: Textual amendment: Words in Sch. 2 para. 6 substituted (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 2 para. 15(4)](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/15/4)
+
+[^key-c6c0b9cad2d7087536f92206f5124759]: Textual amendment: Sch. 2 para. 8 inserted (31.12.2020) by [The European Union Withdrawal (Consequential Modifications) (EU Exit) Regulations 2020 (S.I. 2020/1447)](https://www.legislation.gov.uk/uksi/2020/1447), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1447/regulation/1/3), [2(5)](https://www.legislation.gov.uk/uksi/2020/1447/regulation/2/5)
+
+[^key-b00e21e85436c7b1a4ac1d72cc148199]: Textual amendment: Words in [Sch. 2 para. 8](https://www.legislation.gov.uk/ukpga/1978/30/schedule/2/paragraph/8) substituted (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [s. 22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 2 para. 2(7)](https://www.legislation.gov.uk/ukpga/2023/28/schedule/2/paragraph/2/7) (with [s. 22(6)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/6)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2023/1363/regulation/3/e)
+
+[^c11103951]: Editorial: The text of s. 25(1), Sch. 3 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any repeals or amendments which may have been made prior to 1.2.1991

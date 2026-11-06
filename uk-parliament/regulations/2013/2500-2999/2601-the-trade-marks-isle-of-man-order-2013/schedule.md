@@ -1,0 +1,2208 @@
+---
+title: The Trade Marks (Isle of Man) Order 2013, SCHEDULE
+act: The Trade Marks (Isle of Man) Order 2013
+section: schedule
+status: revised
+text_date: '2025-07-10'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2013/2601/schedule
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Trade Marks (Isle of Man) Order 2013, SCHEDULE
+
+> Text as at 2025-07-10.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## SCHEDULE — Exceptions to and modifications of the Trade Marks Act 1994 in its application to the Isle of Man
+
+*Extent: E+W+S+N.I.*
+
+Article 2
+
+**1.**[^key-cb49d70ef40e5ddc7dc6d562af781420] (1) Any reference to an Act of Parliament (including the Trade Marks Act 1994) or to a provision of such an Act shall be construed as a reference to that Act or provision as it has effect in the Isle of Man.
+
+(2) Any reference to an Act of Tynwald shall be construed as a reference to it as amended or replaced by or under any other such enactment.
+
+**1A.**[^key-bca1d62d55e6e5bce717dbc032f1a139] In section 1 (trade marks), for subsection (1) substitute—
+
+> (1) In this Act “trade mark” means any sign which is capable—
+>
+> - (a) of being represented in the register in a manner which enables the registrar and other competent authorities and the public to determine the clear and precise subject matter of the protection afforded to the proprietor, and
+> - (b) of distinguishing goods or services of one undertaking from those of other undertakings.
+>
+> A trade mark may, in particular, consist of words (including personal names), designs, letters, numerals, colours, sounds or the shape of goods or their   packaging.
+
+.
+
+**2.**[^key-33aab7fa50cb798c454e8876e5f25010] (1) Section 3 (absolute grounds for refusal of registration) is amended as follows.
+
+(2) In subsection (2), after “the shape” in each place insert “, or another characteristic,”.
+
+(3)[^key-c111cc8cc22f7e26f76ebe7d07de6e7c] In subsection (4), for “or by any provision of Community law” substitute “other than law relating to trade marks”;
+
+(4) After subsection (4), insert—
+
+> (4A) A trade mark is not to be registered if its registration is prohibited by or under—
+>
+> - (a) any enactment or rule of law, or[^key-3bfd23d948e72aea9af574b376948b12]
+> - (b)[^key-6b500ecfa74dbf2722a0425a8a086110] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> - (c) any international agreement to which the United Kingdom [^key-051adc242ddb560776ae5dbdfac2d741]... is a party,
+>
+> providing for the protection of designations of origin or geographical indications.
+>
+> (4B)[^key-17149709afca059e97d35919796f1cd5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> (4C) A trade mark is not to be registered if it—
+>
+> - (a) consists of, or reproduces in its essential elements, an earlier plant variety denomination registered as mentioned in subsection (4D), and
+> - (b) is in respect of plant varieties of the same or closely related species.
+>
+> (4D) Subsection (4C)(a) refers to registration in accordance with any—
+>
+> - (a) enactment or rule of law, or[^key-fc1a250e5b6e49002be9267b0ceb4b93]
+> - (b)[^key-14b2d48b1d61b7ccfb362307ee64a798] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> - (c) international agreement to which the United Kingdom [^key-1c2fd0584f0ada9622df4c413bf1c925]... is a party,
+>
+> providing for the protection of plant variety rights.
+
+.
+
+**3.**[^key-ee4c7c17d9998988d0f16a3193233fcb] (1) Section 5 (relative grounds for refusal of registration) is amended as follows.
+
+(2) In subsection (3)—
+
+- (a) omit paragraph (b) and the word “and” immediately before it;
+- (b)[^key-2a08f8d85973a99ca048aaea8b056e43] omit “(or, in the case of a Community trade mark, in the European Community)”.
+
+(3) After subsection (3), insert—
+
+> (3A) Subsection (3) applies irrespective of whether the goods and services for which the trade mark is to be registered are identical with, similar to or not similar to those for which the earlier trade mark is protected.
+
+.
+
+(4) In subsection (4)(a), for “trade, or” substitute “trade, where the condition in subsection (4A) is met,”.
+
+(5) In subsection (4), after paragraph (a) insert—
+
+> - (aa) by virtue of [^key-b2ec7ae118440e65262bac1949be13a4]... any enactment or rule of law, providing for protection of designations of origin or geographical indications, where the condition in subsection (4B) is met, or
+
+.
+
+(6) In subsection (4)(b)—
+
+- (a) after “paragraph (a)” insert “or (aa)”; and
+- (b) omit “, design right or registered designs” and substitute “or the law relating to industrial property rights”.
+
+(7) After subsection (4), insert—
+
+> (4A) The condition mentioned in subsection (4)(a) is that the rights to the unregistered trade mark or other sign were acquired prior to the date of application for registration of the trade mark or date of the priority claimed for that application.
+>
+> (4B) The condition mentioned in subsection 4(aa) is that—
+>
+> - (a) an application for a designation of origin or a geographical indication has been submitted prior to the date of application for registration of the trade mark or the date of the priority claimed for that application, and
+> - (b) the designation of origin or (as the case may be) geographical indication is subsequently registered.
+
+.
+
+(8) After subsection (5) insert—
+
+> (6) Where an agent or representative (“R”) of the proprietor of a trade mark applies, without the proprietor’s consent, for the registration of the trade mark in R’s own name, the application is to be refused unless R justifies that action.
+
+.
+
+**3A.** After section 5 (relative grounds for refusal of registration), insert—
+
+> **5A. Grounds for refusal relating to only some of the goods or services**
+>
+> Where grounds for refusal of an application for registration of a trade mark exist in respect of only some of the goods or services in respect of which the trade mark is applied for, the application is to be refused in relation to those goods and services only.
+
+.
+
+**4.**[^key-d749b5b10d70b2d362558de3cd9a7b35] (1) Section 6 (meaning of “earlier trade mark”) is amended as follows.
+
+(2) In subsection (1)—
+
+- (a)[^key-cbcf791561ff32fa797993c0220a7232] in paragraph (a)—
+  - (i) after “registered trade mark” omit “,” and insert “or”;
+  - (ii) omit “or Community trade mark;
+- (aa)[^key-79102667b82b6fdda0a14cb15ffb8da4] after paragraph (a) insert—
+
+  > - (aa) a comparable trade mark (EU) or a trade mark registered pursuant to an application made under paragraph 25 of Schedule 2A which has a valid claim to seniority of an earlier registered trade mark or protected international trade mark (UK) even where the earlier trade mark has been surrendered or its registration has expired;
+  > - (ab) a comparable trade mark (IR) or a trade mark registered pursuant to an application made under paragraph 28, 29 or 33 of Schedule 2B which has a valid claim to seniority of an earlier registered trade mark or protected international trade mark (UK) even where the earlier trade mark has been surrendered or its registration has expired;
+
+  .
+- (b) for paragraph (b) substitute―
+
+  > - (b)[^key-0bfc5a2406c1960a351e5d14b29ed7e6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  > - (ba) a registered trade mark or international trade mark (UK) which—
+  >   - (i) prior to exit day[^key-1e45fe318163f05b0574e6980a73b9ef] has been converted from a European Union trade mark or international trade mark (EC) which itself had a valid claim to seniority of an earlier registered trade mark or protected international trade mark (UK) even where the earlier trade mark has been surrendered or its registration has expired[^key-4b90fc171eab899baf5ec90f73750b55], and
+  >   - (ii) accordingly has the same claim to seniority, or;
+
+  ; and
+- (c) in paragraph (c), after “Paris Convention” insert “or the WTO agreement”.
+
+(2A)[^key-6cd8ac3dd2b1b7af7945cf6d767716f7] After subsection (1) insert—
+
+> (1A) In subsection (1), “protected international trade mark (UK)” has the same meaning as in the Trade Marks (International Registration) Order 2008.
+
+.
+
+(2B) In subsection (2)—
+
+- (a) omit “or (b)”;
+- (b) at the end, insert “(taking account of subsection (2C))”.
+
+(2C) After subsection (2) insert—
+
+> (2A) References in this Act to an earlier trade mark include a trade mark in respect of which an application for registration has been made pursuant to paragraph 25 of Schedule 2A and which if registered would be an earlier trade mark by virtue of subsection (1)(aa), subject to its being so registered.
+>
+> (2B) References in this Act to an earlier trade mark include a trade mark in respect of which an application for registration has been made pursuant to paragraph 28, 29 or 33 of Schedule 2B and which if registered would be an earlier trade mark by virtue of subsection (1)(ab), subject to its being so registered.
+>
+> (2C) Where an application for registration of a trade mark has been made pursuant to paragraph 25 of Schedule 2A or paragraph 28, 29 or 33 of Schedule 2B, subsection (l)(a) is to apply as if the date of application for registration of the trade mark were—
+>
+> - (a) in the case of an application made pursuant to paragraph 25 of Schedule 2A, the relevant date referred to in paragraph 25(2) in respect of that application;
+> - (b) in the case of an application made pursuant to paragraph 28 of Schedule 2B, the relevant date referred to in paragraph 28(2) in respect of that application (taking account of paragraph 28(5));
+> - (c) in the case of an application made pursuant to paragraph 29 of Schedule 2B, the relevant date referred to in paragraph 29(2) in respect of that application (taking account of paragraph 29(4));
+> - (d) in the case of an application made pursuant to paragraph 33 of Schedule 2B, the relevant date referred to in paragraph 33(2) or (3) (as the case may be) in respect of that application (taking account of paragraph 33(4)).
+
+.
+
+(3) Omit subsection (3).
+
+**5.**[^key-35f3e21f13492af07282e4742ce41e3c] After section 6 insert—
+
+> **6A. Raising of relative grounds in opposition proceedings in case of non-use**
+>
+> (1) This section applies where—
+>
+> - (a) an application for registration of a trade mark has been published,
+> - (b) there is an earlier trade mark of a kind falling within section 6(1)(a), (b) or (ba) in relation to which the conditions set out in section 5(1), (2) or (3) obtain, and
+> - (c) the registration procedure for the earlier trade mark was completed before the start of the relevant period[^key-aba8f06e8b127d6cc8902888002e8369].
+>
+> (1A)[^key-4b99957e3ef7397b11c3f9e5246ea39d] In this section “the relevant period” means the period of 5 years ending with the date of the application for registration mentioned in subsection (1)(a) or (where applicable) the date of the priority claimed for that application.
+>
+> (2) In opposition proceedings, the registrar shall not refuse to register the trade mark by reason of the earlier trade mark unless the use conditions are met.
+>
+> (3) The use conditions are met if—
+>
+> - (a) within the relevant period[^key-ded902d690497b9e248ed2e1596321e5] the earlier trade mark has been put to genuine use in the United Kingdom by the proprietor or with his consent in relation to the goods or services for which it is registered, or
+> - (b) the earlier trade mark has not been so used, but there are proper reasons for non-use.
+>
+> (4) For these purposes—
+>
+> - (a) use of a trade mark includes use in a form (the “variant form”)[^key-cf6b378e768aafa93513c2716c1056db] differing in elements which do not alter the distinctive character of the mark in the form in which it was registered (regardless of whether or not the trade mark in the variant form is also registered in the name of the proprietor)[^key-846a52b8f7b9fc2ca2e412f38bf664df], and
+> - (b) use in the United Kingdom includes affixing the trade mark to goods or to the packaging of goods in the United Kingdom solely for export purposes.
+>
+> (5) In relation to a European Union trade mark[^key-554ea65d7671dd864da9f7110aca75a7] or international trade mark (EC), any reference in subsection (3) or (4) to the United Kingdom shall be construed as a reference to the European Union.
+>
+> (5A)[^key-55c41c26b45f637f3d811900def43a4c] In relation to an international trade mark (EC) the reference in subsection (1)(c) to the completion of the registration procedure is to be construed as a reference to the publication by the European Union Intellectual Property Office of the matters referred to in Article 190(2) of the European Union Trade Mark Regulation.
+>
+> (6) Where an earlier trade mark satisfies the use conditions in respect of some only of the goods or services for which it is registered, it shall be treated for the purposes of this section as if it were registered only in respect of those goods or services.
+>
+> (7) Nothing in this section affects—
+>
+> - (a) the refusal of registration on the grounds mentioned in section 3 (absolute grounds for refusal) or section 5(4) (relative grounds of refusal on the basis of an earlier right), or
+> - (b) the making of an application for a declaration of invalidity under section 47(2) (application on relative grounds where no consent to registration).
+
+.
+
+**5A.**[^key-0d5774bb22d67a54ac7e182aab2a296b] In section 8(5) (power to require that relative grounds be raised in opposition proceedings), for “the Community Trade Mark Regulation” substitute “Council Regulation [(EC) No 40/94](https://www.legislation.gov.uk/european/regulation/1994/0040) of 20th December 1993 on the Community trade mark.
+
+**5B.** (1) Section 9 (rights conferred by registered trade mark) is amended as follows.
+
+(2) In subsection (1) before “section 10” insert “subsections (1) to (3) of”.
+
+(3) After subsection (1) insert—
+
+> (1A) See subsection (3B) of section 10 for provision about certain other acts amounting to infringement of a registered trade mark.
+>
+> (1B) Subsection (1) is without prejudice to the rights of proprietors acquired before the date of filing of the application for registration or (where applicable) the date of the priority claimed in respect of that application.
+
+.
+
+(4) In subsection (2)—
+
+- (a) omit “such”, and
+- (b) at the end insert “such as is mentioned in subsection (1) or (1A)”.
+
+**6.**[^key-54ee22b36859353b7bba0950b398826b] (1) Section 10 (infringement of registered trade mark) is amended as follows.
+
+(2) In subsection (3)—
+
+- (a) after “course of trade” insert “, in relation to goods or services,”; and
+- (b) omit paragraph (b) and the word “and” immediately before it.
+
+(3) After subsection (3) insert—
+
+> (3A) Subsection (3) applies irrespective of whether the goods and services in relation to which the sign is used are identical with, similar to or not similar to those for which the trade mark is registered.
+>
+> (3B) Where the risk exists that the packaging, labels, tags, security or authenticity features or devices, or any other means to which the trade mark is affixed could be used in relation to goods or services and that use would constitute an infringement of the rights of the proprietor of the trade mark, a person infringes a registered trade mark if the person carries out in the course of trade any of the following acts—
+>
+> - (a) affixing a sign identical with, or similar to, the trade mark on packaging, labels, tags, security or authenticity features or devices, or any other means to which the mark may be affixed; or
+> - (b) offering or placing on the market, or stocking for those purposes, or importing or exporting, packaging, labels, tags, security or authenticity features or devices, or any other means to which the mark is affixed.
+
+.
+
+(4) In subsection (4)(c), after “under the sign;” omit “or”.
+
+(5) After subsection (4)(c), insert—
+
+> - (ca) uses the sign as a trade or company name or part of a trade or company name;
+
+.
+
+(6) In subsection (4)(d)—
+
+- (a) for “or” substitute “and”; and
+- (b) after “advertising” insert “; or”.
+
+(7) Omit subsections (5) and (6).
+
+**6A.** After section 10, insert—
+
+> **10A. Right to prevent goods entering the UK without being released for free circulation**
+>
+> (1) The proprietor of a registered trade mark is entitled to prevent third parties from bringing goods into the United Kingdom in the course of trade without being released for free circulation if they are goods for which the trade mark is registered which—
+>
+> - (a) come from outside the customs territory of the United Kingdom[^key-fd2d93509e6a40f9f2f269d89b3e3861]; and
+> - (b) bear without authorisation a sign which is identical with the trade mark or cannot be distinguished in its essential aspects from the trade mark.
+>
+> (2) In subsection (1) the reference to goods for which the trade mark is registered includes a reference to the packaging of goods for which the trade mark is registered.
+>
+> (3) Subsection (1) is without prejudice to the rights of proprietors acquired before the date of application for registration of the trade mark, or (where applicable) the date of the priority claimed in respect of that application.
+>
+> (4) The entitlement of the proprietor under subsection (1) is to lapse if—
+>
+> - (a) proceedings are initiated in accordance with the European Customs Enforcement Regulation to determine whether the trade mark has been infringed; and
+> - (b) during those proceedings evidence is provided by the declarant or the holder of the goods that the proprietor of the trade mark is not entitled to prohibit the placing of the goods on the market in the country of final destination.
+>
+> (5) References in this Act to the “European Customs Enforcement Regulation” are references to Regulation (EU) No 608/2013 of the European Parliament and of the Council of 12 June 2013 concerning customs enforcement of intellectual property rights as amended from time to time[^key-6ab216fb5511b0cba34765b904b9a582].
+>
+> **10B. Prohibition on the use of a trade mark registered in the name of an agent or representative**
+>
+> (1) Subsection (2) applies where a trade mark is registered in the name of an agent or representative of a person (“P”) who is the proprietor of the trade mark, without P’s consent.
+>
+> (2) Unless the agent or representative justifies the action mentioned in subsection (1), P may do either or both of the following—
+>
+> - (a) prevent the use of the trade mark by the agent or representative (notwithstanding the rights conferred by this Act in relation to a registered trade mark);
+> - (b) apply for the rectification of the register so as to substitute P’s name as the proprietor of the registered trade mark.
+
+.
+
+**6B.** (1) Section 11 (limits on effect of registered trade mark) is amended as follows.
+
+(2) In subsection (1) omit “another registered trade mark in relation to goods and services for which the latter is registered (but see section 47(6) (effect of declaration of invalidity of registration))” and substitute “a later registered trade mark where that later registered trade mark would not be declared invalid pursuant to section 47(2A) or (2G) or section 48(1)”.
+
+(3) After subsection (1) insert—
+
+> (1A)[^key-1c9e3913601b295a91fbe0120a90fe98] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> (1B) Where subsection (1) [^key-69b8c15024b7368f9cc5edb328f104fb]... applies, the later registered trade mark is not infringed by the use of the earlier trade mark even though the earlier trade mark may no longer be invoked against the later registered trade mark.
+
+.
+
+(4) In subsection (2)(a) for “a person” substitute “an individual”.
+
+(5) In subsection (2)(b) for “indications concerning” substitute “signs or indications which are not distinctive or which concern”.
+
+(6) In subsection (2)(c) for “where it” substitute “for the purpose of identifying or referring to goods or services as those of the proprietor of that trade mark, in particular where that use”.
+
+**6C.** After section 11, insert—
+
+> **11A. Non-use as defence in infringement proceedings**
+>
+> (1) The proprietor of a trade mark is entitled to prohibit the use of a sign only to the extent that the registration of the trade mark is not liable to be revoked pursuant to section 46(1)(a) or (b) (revocation on basis of non-use) at the date the action for infringement is brought.
+>
+> (2) Subsection (3) applies in relation to an action for infringement of a registered trade mark where the registration procedure for the trade mark was completed before the start of the period of five years ending with the date the action is brought.
+>
+> (3) If the defendant so requests, the proprietor of the trade mark must furnish proof—
+>
+> - (a) that during the five-year period preceding the date the action for infringement is brought, the trade mark has been put to genuine use in the United Kingdom by or with the consent of the proprietor in relation to the goods and services for which it is registered and which are cited as justification for the action, or
+> - (b) that there are proper reasons for non-use.
+>
+> (4) Nothing in subsections (2) and (3) overrides any provision of section 46, as applied by subsection (1) (including the words from “Provided that” to the end of subsection (3)).
+
+.
+
+**6D.**[^key-eb4c203e845e76a2e5a59e66778a4d46] In section 12 (exhaustion of rights conferred by a registered trade mark), in subsection (1), after “market in” insert “the United Kingdom or”.
+
+**7.**[^key-9a5d847bc5a8c45775881fc55110f747] After section 14(2) (action for infringement) insert—
+
+> (2A) Where in an action for infringement of a registered trade mark it is shown that the defendant knew, or had reason to believe, that he was committing an infringement, the damages awarded to the claimant shall be appropriate to the actual prejudice he suffered as a result of the infringement.
+>
+> (2B) The court—
+>
+> - (a) in awarding such damages shall take into account all appropriate aspects, including in particular—
+>   - (i) the negative economic consequences, including any lost profits, which the claimant has suffered;
+>   - (ii) any unfair profits made by the defendant; and
+>   - (iii) elements other than economic factors, including the moral prejudice caused to the claimant by the infringement; or
+> - (b) may where appropriate award such damages on the basis of the royalties or fees which would have been due had the defendant obtained a licence.
+
+.
+
+**8.**[^key-9ac606e48b89733f6607d98dd6f90039] In section 17 (meaning of infringing goods), in subsection (3), for “an enforceable Community right” substitute “anything which forms part of retained EU law as a result of section 3 or 4 of the European Union (Withdrawal) Act 2018.
+
+**9.**[^key-de7d0f2635bed2bebdb5c6341830628b] In section 18(3) (period after which remedy of delivery up not available), at the end insert―
+
+> - (d) in the Isle of Man, has the same meaning as in the Limitation Act 1984 (an Act of Tynwald)[^f00005].
+
+.
+
+**10.**[^key-f78cf9f5b8a08cf454a48990b4415b73] In section 19(6) (order as to disposal of infringing goods etc.), for the words from “this section or” onwards substitute—
+
+> - (a) this section [^key-9c69b57175a86daa6777932a9997fe0a]...;
+> - (b) section 24D of the Registered Designs Act 1949[^f00006];
+> - (c) section 113 of the Copyright Act 1991 (an Act of Tynwald)[^f00007];
+> - (d) section 19 of the Design Right Act 1991 (an Act of Tynwald)[^f00008];
+> - (e) section 26 of the Performers’ Protection Act 1996 (an Act of Tynwald)[^f00009]; or
+> - (f) any corresponding statutory provision relating to Community designs and having effect in the Isle of Man.
+
+.
+
+**10A.**[^key-95d9b1a61ea05b033cb4f3468c1a6b95] (1) Section 24 (assignment, &c of registered trade mark) is amended as follows.
+
+(2) After subsection (1) insert—
+
+> (1A) A contractual obligation to transfer a business is to be taken to include an obligation to transfer any registered trade mark, except where there is agreement to the contrary or it is clear in all the circumstances that this presumption should not apply.
+
+.
+
+**11.**[^key-185272e7ab11cc51427bda00e75c4a80] In section 25(4) (registration of transactions), for the words from “then unless” onwards substitute—
+
+> and the mark is infringed before the prescribed particulars of the transaction are registered, in proceedings for such an infringement, the court shall not award him costs unless—
+>
+> - (a) an application for registration of the prescribed particulars of the transaction is made before the end of the period of six months beginning with its date, or
+> - (b) the court is satisfied that it was not practicable for such an application to be made before the end of that period and that an application was made as soon as practicable thereafter.
+
+.
+
+**11A.**[^key-071f089c288cf6bebfd39321d1374980] (1) Section 27 (application for registration of trade mark as an object of property) is amended as follows.
+
+(2) In subsection (1) after “sections 22 to 26 (which relate to a registered trade mark as an object of property)” insert “and sections 28 to 31 (which relate to licensing)”.
+
+**11B.** (1) Section 28 (licensing of registered trade mark) is amended as follows.
+
+(2) After subsection (4) insert—
+
+> (5) The proprietor of a registered trade mark may invoke the rights conferred by that trade mark against a licensee who contravenes any provision in the licence with regard to—
+>
+> - (a) its duration,
+> - (b) the form covered by the registration in which the trade mark may be used,
+> - (c) the scope of the goods or services for which the licence is granted,
+> - (d) the territory in which the trade mark may be affixed, or
+> - (e) the quality of the goods manufactured or of the services provided by the licensee.
+
+.
+
+**11C.** (1) Section 30 is amended as follows.
+
+(2) After subsection (1) insert—
+
+> (1A) Except so far as the licence provides otherwise a licensee may only bring proceedings for infringement of the registered trade mark with the consent of the proprietor (but see subsections (2) and (3)).
+
+.
+
+(3) In subsection (2), for “A licensee is entitled, unless his licence or any licence through which his interest is derived, provides otherwise, to” substitute “An exclusive licensee may”.
+
+(4) In subsection (3) after “If the proprietor” insert “mentioned in subsection (2)” and before “licensee” insert “exclusive”.
+
+(5) In subsection (4), after “by virtue of this section” insert “or with the consent of the proprietor or pursuant to the licence”.
+
+(6) After subsection (6), insert—
+
+> (6A) Where the proprietor of a registered trade mark brings infringement proceedings, a licensee who has suffered loss is entitled to intervene in the proceedings for the purpose of obtaining compensation for that loss.
+
+.
+
+**11D.** (1) Section 32 (application for registration) is amended as follows.
+
+(2) In subsection (2)(d) after “mark” insert “, which is capable of being represented in the register in a manner which enables the registrar and other competent authorities and the public to determine the clear and precise subject matter of the protection afforded to the proprietor”.
+
+**11E.** Section 38 (publication, opposition proceedings and observations) is amended as follows.
+
+(2) After subsection (2) insert—
+
+> (2A) Where a notice of opposition is filed on the basis of one or more earlier trade marks or other earlier rights—
+>
+> - (a) the rights (if plural) must all belong to the same proprietor;
+> - (b) the notice may be filed on the basis of part, or the totality, of the goods or services in respect of which the earlier right is protected or applied for.
+>
+> (2B) A notice of opposition may be directed against part or the totality of the goods or services in respect of which the contested mark is applied for.
+
+.
+
+**12.**[^key-91f68604ddc70443d2d9710e28dd2902] In section 40 (registration), in subsection (1), for the words from “since he accepted” onwards substitute “since the application was accepted that the registration requirements (other than those mentioned in section 5(1), (2) or (3)) were not met at that time.”.
+
+**12A.**[^key-b29a15bf20474a526875afb2a3d6ab86] (1) Section 41 (registration: supplementary provisions) is amended as follows.
+
+(2) After subsection (1)(a) insert—
+
+> - (aa) the division of a registration of a trade mark into several registrations;
+
+.
+
+(3) In subsection (3)(b), after each reference to “application” insert “or registration” and after “applications” insert “or registrations”.
+
+**12B.** (1) Section 43 (renewal of registration) is amended as follows.
+
+(2) After subsection (3) insert—
+
+> (3A) If a request for renewal is made or the renewal fee is paid in respect of only some of the goods or services for which the trade mark is registered, the registration is to be renewed for those goods or services only.
+
+.
+
+**12C.** (1) Section 46 (revocation of registration) is amended as follows.
+
+(2) In subsection (2)—
+
+- (a) after “a form” insert “(the “variant form”)”; and
+- (b) after “in which it was registered” insert “(regardless of whether or not the trade mark in the variant form is also registered in the name of the proprietor)”.
+
+**13.**[^key-3964d932e330e0868b7a0cc2290c2c9b] (1) Section 47 (grounds for invalidity of registration) is amended as follows.
+
+(2) At the beginning of subsection (2) insert “Subject to subsections (2A) and (2G),”.
+
+(3) After subsection (2) insert—
+
+> (2ZA) The registration of a trade mark may be declared invalid on the ground that the trade mark was registered in breach of section 5(6).
+>
+> (2A) The registration of a trade mark may not be declared invalid on the ground that there is an earlier trade mark unless—
+>
+> - (a) the registration procedure for the earlier trade mark was completed within the period of five years ending with the date of the application for the declaration,
+> - (b) the registration procedure for the earlier trade mark was not completed before that date,
+> - (c) the use conditions are met.
+>
+> (2B) The use conditions are met if—
+>
+> - (a) the earlier trade mark has been put to genuine use in the United Kingdom by the proprietor or with their consent in relation to the goods or services for which it is registered—
+>   - (i) within the period of 5 years ending with the date of application for the declaration, and
+>   - (ii) within the period of 5 years ending with the date of filing of the application for registration of the later trade mark or (where applicable) the date of the priority claimed in respect of that application where, at that date, the five year period within which the earlier trade mark should have been put to genuine use as provided in section 46(1)(a) has expired, or
+> - (b) it has not been so used, but there are proper reasons for non-use.
+>
+> (2C) For these purposes—
+>
+> - (a) use of a trade mark includes use in a form (the “variant form”) differing in elements which do not alter the distinctive character of the mark in the form in which it was registered (regardless of whether or not the trade mark in the variant form is also registered in the name of the proprietor), and
+> - (b) use in the United Kingdom includes affixing the trade mark to goods or to the packaging of goods in the United Kingdom solely for export purposes.
+>
+> (2D)[^key-6b45332765084ce0f4d65c4068a62751] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> (2DA)[^key-6b45332765084ce0f4d65c4068a62751] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> (2E) Where an earlier trade mark satisfies the use conditions in respect of some only of the goods or services for which it is registered, it shall be treated for the purposes of this section as if it were registered only in respect of those goods or services.
+>
+> (2F) Subsection (2A) does not apply where the earlier trade mark is a trade mark within section 6(1)(c).
+>
+> (2G) An application for a declaration of invalidity on the basis of an earlier trade mark must be refused if it would have been refused, for any of the reasons set out in subsection (2H), had the application for the declaration been made on the date of filing of the application for registration of the later trade mark or (where applicable) the date of the priority claimed in respect of that application.
+>
+> (2H) The reasons referred to in subsection (2G) are—
+>
+> - (a) that on the date in question the earlier trade mark was liable to be declared invalid by virtue of section 3(1)(b), (c) or (d), (and had not yet acquired a distinctive character as mentioned in the words after paragraph (d) in section 3(1));
+> - (b) that the application for a declaration of invalidity is based on section 5(2) and the earlier trade mark had not yet become sufficiently distinctive to support a finding of likelihood of confusion within the meaning of section 5(2);
+> - (c) that the application for a declaration of invalidity is based on section 5(3)(a) and the earlier trade mark had not yet acquired a reputation within the meaning of section 5(3).
+
+.
+
+(4) After subsection (5) insert—
+
+> (5A) An application for a declaration of invalidity may be filed on the basis of one or more earlier trade marks or other earlier rights provided they all belong to the same proprietor.
+
+.
+
+**13A.** (1) Section 49 (collective marks) is amended as follows.
+
+(2) For subsection (1) substitute—
+
+> (1) A collective mark is a mark which is described as such when it is applied for and is capable of distinguishing the goods and services of members of the association which is the proprietor of the mark from those of other undertakings.
+>
+> (1A) The following may be registered as the proprietor of a collective mark—
+>
+> - (a) an association of manufacturers, producers, suppliers of services or traders which has the capacity in its own name to enter into contracts and to sue or be sued; and
+> - (b) a legal person governed by public law.
+
+.
+
+**13B.** (1) Section 50 (certification marks) is amended as follows.
+
+(2) In subsection (1) for “indicating” substitute “which is described as such when the mark is applied for and indicates”.
+
+**13C.** In the heading of Part II and in the italic heading before section 51, for “Community” substitute “European Union”.
+
+**13D.** For section 51 (meaning of “Community trade mark”) substitute—
+
+> **51. Meaning of “European Union trade mark”**
+>
+> In this Act—
+>
+> - “European Union trade mark” has the meaning given by Article 1(1) of the European Union Trade Mark Regulation; and
+> - “the European Union Trade Mark Regulation” means Regulation (EU) 2017/1001 of the European Parliament and of the Council of 14 June 2017 on the European Union Trade Mark (as it had effect immediately before exit day)[^key-e14f5565dc07d1d8c423a60b926e7c57]
+
+.
+
+**14.**[^key-0d2cde4bd5f7dd0780da32b10d5e529a] Omit section 52 (power to make provision in connection with Community Trade Mark Regulation).
+
+**14A.**[^key-565cda6cc6ebc2c09bf20e1dd76f0bac] Before the italic heading before section 53, insert—
+
+> **52A. Certain trade marks registered as European Union trade marks to be treated as registered trade marks**
+>
+> Schedule 2A makes provision for European Union trade marks (including certain expired and removed marks) to be treated as registered trade marks with effect from exit day and about certain applications for a European Union trade mark made before exit day.
+
+.
+
+**15.**[^key-ee0c920bc6efe15132f9145a1ba5095f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**15A.**[^key-a032d75a2b8fdeaca8388e00aa58d600] After section 54 (and before the italic heading before section 55), insert—
+
+> **54A. Certain international trade marks protected in the European Union to be treated as registered trade marks**
+>
+> Schedule 2B makes provision for international trade marks protected in the European Union (including certain expired marks) to be treated as registered trade marks with effect from exit day and about certain applications for the protection of an international trade mark in the European Union and transformation applications made before exit day.
+
+.
+
+**16.**[^key-4b0fbc4b84e2d89943bdba7467adb6c1] In section 55(1) (the Paris Convention)―
+
+- (a) in paragraph (a), at the end omit “and”;
+- (b) after paragraph (a) insert—
+
+  > - (aa) “the WTO agreement” means the Agreement establishing the World Trade Organisation signed at Marrakesh on 15th April 1994, and
+
+  ;
+- (c) in paragraph (b), at the end insert “or to that Agreement”.
+
+(2) In section 55(2), after “Paris Convention” insert “or the WTO agreement”.
+
+**17.**[^key-414c79defb258aa3d5eef25bc4cbac11] (1) In section 56(1) (protection of well-known trade marks)—
+
+- (a) after “Paris Convention” insert “or the WTO agreement”;
+- (b) in paragraph (a), after “national of” insert “the United Kingdom or”;
+- (c) in paragraph (b), after “establishment in,” insert “the United Kingdom or”.
+
+(2) In section 56(2)—
+
+- (a) after “Paris Convention” insert “or the WTO agreement”;
+- (b) for the words from “his mark” to “confusion” substitute—
+
+  > the well known trade mark—
+  >
+  > - (a) in relation to identical or similar goods or services, where the use is likely to cause confusion, or
+  > - (b) where the well known trade mark has a reputation in the United Kingdom and the use of the other trade mark—
+  >   - (i) is without due cause, and
+  >   - (ii) takes unfair advantage of, or is detrimental to, the distinctive character or the repute of the well known trade mark
+
+  .
+
+(3) After section 56(2) insert—
+
+> (2A) Subsection (2)(b) applies irrespective of whether the goods or services in relation to which the other trade mark is used are identical with, similar to or not similar to those for which the well known trade mark is entitled to protection.
+
+.
+
+**17A.** In sections 57(2) and (3) (national emblems etc. of Convention countries) and 58(2) (emblems etc. of certain international organisations) after “Paris Convention” insert “or the WTO agreement”.
+
+**18.**[^key-5707b17a26bc937633312e823f1bb2a0] In section 59 (notification under Article 6ter of the Convention), at the end insert―
+
+> (5) Any reference in this section to Article 6*ter* of the Paris Convention shall be construed as including a reference to that Article as applied by the WTO agreement.
+
+.
+
+**18A.**[^key-1e3b9afa83bcee372a3e8ae312fd780b] Omit section 60 (acts of agent or representative: Article 6septies).
+
+**18B.** At the end of Part 2 insert—
+
+> **Nice Classification**
+>
+> **60A. Similarity of goods and services**
+>
+> (1) For the purposes of this Act goods and services—
+>
+> - (a) are not to be regarded as being similar to each other on the ground that they appear in the same class under the Nice Classification;
+> - (b) are not to be regarded as being dissimilar from each other on the ground that they appear in different classes under the Nice Classification.
+>
+> (2) In subsection (1), the “Nice Classification” means the system of classification under the Nice Agreement Concerning the International Classification of Goods and Services for the Purposes of the Registration of Marks of 15 June 1957, which was last amended on 28 September 1979[^f00006].
+
+.
+
+**19.**[^key-877086459794854c7b01a3b865eafdb6] Omit section 61 (stamp duty).
+
+**20.**[^key-376435835f89c2136212c07aa848d318] In section 68(2) (costs and security for costs), at the end insert―
+
+> - (c) in the Isle of Man, in the same way as an order of the court.
+
+.
+
+**21.**[^key-911d436354d0e17a25a38c6fb40df87e] In section 75 (the court)―
+
+- (a) in paragraph (a), at the end omit “and”;
+- (b) after paragraph (b) insert—
+
+  > and
+  >
+  > - (c) in the Isle of Man, the High Court of Justice of the Isle of Man.
+
+  .
+
+**22.**[^key-8c6f8ebdb733bd647198546938a59988] (1) Section 77 (persons appointed to hear appeals) is amended as follows.
+
+(2) In subsection (2)—
+
+- (a) for paragraph (a) substitute—
+
+  > - (a) he satisfies the judicial-appointment eligibility condition on a 5-year basis;
+
+  ;
+- (b) after paragraph (b) insert—
+
+  > - (ba) he is an advocate in the Isle of Man of at least 5 years’ standing;
+
+  ; and
+- (c) in paragraphs (b) and (c), for “7” substitute “5”.
+
+(3) In subsection (4) for “Lord Advocate” substitute “Secretary of State”.
+
+**23.**[^key-a44259533037cbbd4509c24974f0bbb2] In section 83A(7)[^f00010] (regulation of trade mark attorneys), in paragraph (a) of the definition of “trade mark agency work”, after “United Kingdom” insert “or elsewhere”.
+
+**24.**[^key-fc9d069e26c5a564420e74076eb84a2b] In section 86(2) (use of the term “trade mark attorney”), after “1980” insert “, section 1 of the Legal Practitioners Registration Act 1986 (an Act of Tynwald)[^f00011]”.
+
+**25.**[^key-6e1099524960920bc4c3b98e835c4293] In section 87 (privilege for communications)—
+
+- (a) in subsection (2), for “solicitor” substitute “advocate”;
+- (b) in subsection (3)—
+  - (i) at the of paragraph (c) insert “or”;
+  - (ii) after paragraph (c) insert—
+
+    > - (d) a person whose name appears on the list of professional representatives for trade mark matters maintained by the European Union Intellectual Property Office referred to in Article 120 of the European Union Trade Mark Regulation.
+
+    ;
+- (c) after subsection (3) insert—
+
+  > (4) Where a trade mark attorney is a person falling within subsection (3)(d), subsection (2) applies as if the reference to a matter mentioned in subsection (1) were a reference to a matter relating to the protection of a trade mark.
+
+  .
+
+**25A.**[^key-e8367bb5a44665a35898b2fca498b82c] (1) Section 88 (power of registrar to refuse to deal with certain agents) is amended as follows.
+
+(2) In subsection (1)(b) for “an individual” substitute “a person”.
+
+(3) In subsection (1)(c) for—
+
+- (a) “an individual” substitute “a person”;
+- (b) “him” substitute “the person”; and
+- (c) “his” substitute “the person’s”.
+
+**26.**[^key-ed666b893c09b11f2acb515d377701c9] (1) In section 89(1) (infringing goods etc. may be treated as prohibited goods)―
+
+- (a) for “Commissioners of Customs and Excise” substitute “Treasury”;
+- (b) in paragraph (b), for “United Kingdom” substitute “Isle of Man”;
+- (c) in paragraph (c), for “Commissioners” substitute “Treasury”.
+
+(2) For section 89(3) substitute―
+
+> (3) This section does not apply to goods placed in, or expected to be placed in, one of the situations referred to in Article 3 of the European Customs Enforcement Regulation[^key-e226ce231ceff7ff5340050079b53fc7].
+>
+> (4) In this section and sections 90 and 91, “the Treasury” means the Department of that name established under the Government Departments Act 1987 (an Act of Tynwald)[^f00014].
+
+.
+
+**27.**[^key-4de051fb0a4eaee618de8fdcc5b6f11e] (1) In the side note to section 90 (powers of Commissioners to make regulations) and in section 90(1), (2) and (3), for “Commissioners of Customs and Excise” and “Commissioners” (in each place) substitute “Treasury”.
+
+(2) For section 90(4) substitute―
+
+> (4) Regulations under this section shall not have effect unless they are approved by Tynwald.
+
+.
+
+**28.**[^key-2702b62f30c779db7b3c98dabaf056af] In section 91[^f00015] (power of Commissioners to disclose information)―
+
+- (a) in the side note, for “Commissioners for Revenue and Customs” substitute “Treasury”;
+- (b) for “Commissioners for Her Majesty’s Revenue and Customs” substitute “Treasury”;
+- (c) for “functions of Her Majesty’s Revenue and Customs” substitute “its functions”;
+- (d) for “Commissioners may authorise” substitute “Treasury may authorise”;
+- (e) for “Trade Descriptions Act 1968” substitute “Consumer Protection (Trade Descriptions) Act 1970 (an Act of Tynwald)[^f00016]”.
+
+**29.**[^key-5e72f06755eabc93f6208f334929f916] In section 92(6) (unauthorised use of trade mark, &c in relation to goods)—
+
+- (a) for “imprisonment” (in each place) substitute “custody”;
+- (b) in paragraph (a), for “the statutory maximum” substitute “the prescribed sum within the meaning of section 32 of the Magistrates’ Courts Act 1980[^f00017]”;
+- (c) in paragraph (b), for “indictment” substitute “information”.
+
+**30.**[^key-936ed4e9a65d545fb9bd0b1e84b33833] (1) After section 92A(2)[^f00018] insert―
+
+> (2A) The power conferred by subsection (1) does not, in the Isle of Man, extend to authorising a search for material of the kinds mentioned in section 10(2) of the Police Powers and Procedures Act 1988 (an Act of Tynwald)[^f00019] (certain classes of personal or confidential material).
+
+.
+
+(2) In section 92A(3)(b), for “28 days” substitute “3 months”.
+
+**31.**[^key-520946c4d53883496db082fa284eba03] Omit section 93 (enforcement function of local weights and measures authority).
+
+**32.**[^key-5878f6eb9089e2654fa66e8803240d9f] In section 94(3) (falsification of register)—
+
+- (a) for “imprisonment” (in each place) substitute “custody”;
+- (b) in paragraph (a), for “indictment” substitute “information”;
+- (c) in paragraph (b), for “the statutory maximum” substitute “the prescribed sum within the meaning of section 32 of the Magistrates’ Courts Act 1980”.
+
+**33.**[^key-95f067e56147a68d8f6308ecab0344f0] (1) In section 97 (forfeiture: England and Wales or Northern Ireland), in the side note and subsection (1), for “or Northern Ireland” substitute “, Northern Ireland or the Isle of Man”.
+
+(2) In section 97(2)(b), after “magistrates’ court” insert “or, in the Isle of Man, a court of summary jurisdiction”.
+
+(3) In section 97(5)―
+
+- (a) after “magistrates’ court” insert “or, in the Isle of Man, a court of summary jurisdiction,”;
+- (b) after paragraph (b) insert—
+
+  > - (c) in the Isle of Man, to the court;
+
+  ;
+- (c) after “1981” insert “or section 109 of the Summary Jurisdiction Act 1989 (an Act of Tynwald)[^f00020]”.
+
+(4) In section 97(8), for “Trade Descriptions Act 1968” substitute “Consumer Protection (Trade Descriptions) Act 1970 (an Act of Tynwald)”.
+
+**33A.**[^key-61dd803a65c3d338fa6e38229c0e6cc6] After section 99 (unauthorised use of Royal arms, &c.), insert—
+
+> **99A. Reproduction of trade marks in dictionaries, encyclopaedias etc.**
+>
+> (1) Subsection (2) applies if the reproduction of a trade mark in a dictionary, encyclopaedia or similar reference work, in print or electronic form, gives the impression that it constitutes the generic name of the goods or services for which the trade mark is registered.
+>
+> (2) The publisher of the work must, at the request in writing of the proprietor of the trade mark, ensure that the reproduction of the trade mark is accompanied by an indication that it is a registered trade mark.
+>
+> (3) The action required by subsection (2) must be taken—
+>
+> - (a) without delay, and
+> - (b) in the case of works in printed form, at the latest in the next edition of the publication.
+>
+> (4) If the publisher fails to take any action required by subsection (2) the court may, on an application by the proprietor—
+>
+> - (a) order the publisher to take the action concerned;
+> - (b) if the work is in printed form, order the publisher to erase or amend the reproduction of the trade mark or secure the destruction of copies of the work in the publisher’s possession, custody or control; or
+> - (c) grant such other order as the court in the circumstances considers appropriate.
+
+.
+
+**34.**[^key-8bf199031016b06e6060a33c74d39fa7] In section 101(2)(b) (offences committed by partnerships and bodies corporate)―
+
+- (a) for “or Northern Ireland” substitute “, Northern Ireland or the Isle of Man”;
+- (b) after “1981” insert “or section 32 of the Summary Jurisdiction Act 1989 (an Act of Tynwald)”.
+
+**35.**[^key-070b93ddbbbee32d1d55a7f33ad5da61] In section 103 (minor definitions), omit subsection (3).
+
+**36.**[^key-44dc771123e8e4cdc8216e5c7d6424c6] (1) Section 104 (index of defined expressions) is amended at follows.
+
+(2) Omit the entries in the table for “Community trade mark” and “Community Trade Mark Regulation”.
+
+(2A)[^key-71eedc73ae0da2dd5dfa4e8930bea1c4] After the entry in the table for “commencement (of this Act)” insert—
+
+> |  |  |
+> | --- | --- |
+> | comparable trade mark (EU) | Schedule 2A, paragraph 1(2) |
+> | comparable trade mark (IR) | Schedule 2B, paragraph 1(4) |
+
+(2C) After the entry in the table for “date of application” insert—
+
+> |  |  |
+> | --- | --- |
+> | date of application (comparable trade mark (EU)) | Schedule 2A, paragraph 1(8)(b) |
+> | date of application (comparable trade mark (IR)) | Schedule 2B, paragraph 1(10)(b) |
+
+(2C) After the entry in the table for “date of filing” insert—
+
+> |  |  |
+> | --- | --- |
+> | date of filing (comparable trade mark (EU)) | Schedule 2A, paragraph 1(8)(a) |
+> | date of filing (comparable trade mark (IR)) | Schedule 2B, paragraph 1(10)(a) |
+
+(2D) After the entry in the table for “date of registration” insert—
+
+> |  |  |
+> | --- | --- |
+> | date of registration (comparable trade mark (EU)) | Schedule 2A, paragraph 1(4) |
+> | date of registration (comparable trade mark (IR)) | Schedule 2B, paragraph 1(6) |
+
+(2E) Before the entry in the table for “United Kingdom (references include Isle of Man)” insert—
+
+> |  |  |
+> | --- | --- |
+> | the Treasury | section 89(4) |
+
+(3) After the entry in the table for “earlier trade mark” insert—
+
+> |  |  |
+> | --- | --- |
+> | European Customs Enforcement Regulation | section 10A |
+> | European Union trade mark | section 51 |
+> | European Union Trade Mark Regulation | section 51 |
+
+.
+
+**37.**[^key-017debceeb32a63d979b35541496b86a] (1) Omit section 106 (consequential amendments and repeals) and Schedules 4 and 5.
+
+(2) Sub-paragraph (1), and the revocation (by article 3) of the Trade Marks Act 1994 (Isle of Man) Order 1996, do not affect any amendment or repeal effected by section 106 and Schedules 4 and 5 before the coming into operation of this Order.
+
+**38.**[^key-cf15fc019788b3169d56e9bf93795063] (1) Schedule 1 (collective marks) is amended as follows.
+
+(2) In paragraph 5—
+
+- (a) in sub-paragraph (2) omit “, where they exist,”;
+- (b) the second sentence of sub-paragraph (2) is renumbered as sub-paragraph (4), and
+- (c) before sub-paragraph (4) insert—
+
+  > (3) Where the regulations govern use of a mark referred to in paragraph 3(1), they must authorise any person whose goods or services originate in the geographical area concerned to become a member of the association which is the proprietor of the mark, provided that the person fulfils all the other conditions of the regulations.
+
+  .
+
+(3) In paragraph 6(1)(a) after “paragraph 5(2)” insert “and (3)”.
+
+(4) In paragraph 11(c) for “Commissioners of Customs and Excise” substitute “the Treasury”.
+
+(5) In paragraph 12—
+
+- (a) for sub-paragraph (2), substitute—
+
+  > (2) Subject to any agreement to the contrary between the authorised user and the proprietor, an authorised user may only bring proceedings for infringement of a registered collective mark with the consent of the proprietor.
+
+  ;
+- (b) omit sub-paragraph (3);
+- (c) in sub-paragraph (4), omit “Where infringement proceedings are brought by virtue of this paragraph” and substitute “Where proceedings are brought by an authorised user for infringement of a registered collective mark (with the consent of the proprietor or pursuant to any agreement referred to in sub-paragraph (2))”;
+- (d) after sub-paragraph (6), insert—
+
+  > (7) Where the proprietor of a registered collective mark brings infringement proceedings, an authorised user who has suffered loss is entitled to intervene in the proceedings for the purpose of obtaining compensation for that loss.
+
+  .
+
+(6) In paragraph 13—
+
+- (a) in sub-paragraph (a), for “proprietor” substitute “persons authorised to use it”;
+- (b) in sub-paragraph (b)—
+  - (i) for “has failed to observe, or to secure the observance of,” substitute “has not taken reasonable steps to prevent the mark being used in a manner that is incompatible with the conditions of use laid down in”; and
+  - (ii) after “mark” insert “(as amended from time to time)”;
+- (c) in sub-paragraph (c)(i), after “paragraph 5(2)” insert “and (3)”.
+
+(7) In paragraph 14—
+
+- (a) for “may” substitute “shall”;
+- (b) after “the provisions of” insert “section 49(1A) (definition of who may be registered as the proprietor of a certification mark) or”;
+- (c) after “6(1)” insert “unless the breach was only of paragraph 6(1) and the proprietor of the mark, by amending the regulations governing use, complies with the requirements of paragraph 6(1).
+
+**39.**[^key-ce80872d541378654ee45a66cd3f0c43] In Schedule 2, in paragraph 13(c) for “Commissioners of Customs and Excise” substitute “the Treasury”.
+
+**40.**[^key-40d6474ecbca45e8248c47b479dc8615] After Schedule 2, insert—
+
+> **SCHEDULE 2A — EUROPEAN UNION TRADE MARKS**
+>
+> Section 52A
+>
+> **PART 1 — Existing European Union Trade Marks**
+>
+> **1. A trade mark registered as an existing EUTM to be treated as registered under this Act**
+>
+> (1) A trade mark which is registered in the EUTM Register immediately before exit day (an “existing EUTM”) is to be treated on and after exit day as if an application had been made, and the trade mark had been registered, under this Act in respect of the same goods or services as the existing EUTM is registered in the EUTM Register.
+>
+> (2) A registered trade mark which comes into being by virtue of sub-paragraph (1) is referred to in this Act as a comparable trade mark (EU).
+>
+> (3) This Act applies to a comparable trade mark (EU) as it applies to other registered trade marks except as otherwise provided in this Schedule.
+>
+> (4) A comparable trade mark (EU) is deemed for the purposes of this Act to be registered as of the filing date accorded pursuant to Article 32 to the application which resulted in the registration of the corresponding EUTM and that date is deemed for the purposes of this Act to be the date of registration.
+>
+> (5) Section 40(3) and (4) does not apply to the registration of a comparable trade mark (EU) under this Part.
+>
+> (6) Section 67(1) applies in relation to the provision of information and the inspection of documents relating to a comparable trade mark (EU) notwithstanding that there will have been no application under this Act for the registration of the trade mark (and so no publication of an application).
+>
+> (7) Any fee provided for by regulations under Schedule 4 to the European Union (Withdrawal) Act 2018 in respect of any matter relating to a comparable trade mark (EU) in the Isle of Man in respect of that matter.
+>
+> (8) For the purposes of this Act—
+>
+> - (a) the date of filing of an application for registration of a comparable trade mark (EU) is the filing date accorded pursuant to Article 32 to the application which resulted in the registration of the corresponding EUTM;
+> - (b) references to the date of application for registration of a comparable trade mark (EU) are to the date of filing of the application;
+> - (c) where an earlier trade mark is a comparable trade mark (EU), references to the completion of the registration procedure for the earlier trade mark are to the completion of the registration procedure in respect of the corresponding EUTM.
+>
+> (9) In this Schedule—
+>
+> - (a) “corresponding EUTM”, in relation to a comparable trade mark (EU), means the existing EUTM from which the comparable trade mark (EU) derives;
+> - (b) “the EUTM Register” means the register of European Union trade marks maintained by the European Union Intellectual Property Office.
+>
+> **2. Opt out**
+>
+> (1) Subject to sub-paragraph (2), the proprietor of an existing EUTM may, at any time on or after exit day, serve notice on the registrar that the trade mark is not to be treated as if the trade mark had been registered under this Act (an “opt out notice”).
+>
+> (2) An opt out notice may not be served where on or after exit day—
+>
+> - (a) the comparable trade mark (EU) has been put to use in the United Kingdom by the proprietor or with the proprietor’s consent (which use includes affixing the trade mark to goods or to the packaging of goods in the United Kingdom solely for export purposes);
+> - (b) the comparable trade mark (EU) (or any right in or under it) has been made the subject of an assignment, licence, security interest or any other agreement or document except for an assent by personal representatives in relation to the comparable trade mark (EU); or
+> - (c) proceedings based on the comparable trade mark (EU) have been initiated by the proprietor or with the proprietor’s consent.
+>
+> (3) An opt out notice must—
+>
+> - (a) identify the existing EUTM; and
+> - (b) include the name and address of any person having an interest in the existing EUTM which had effect before exit day in the United Kingdom, and in respect of which an entry was recorded in the EUTM Register.
+>
+> (4) An opt out notice is of no effect unless the proprietor in that notice certifies that any such person—
+>
+> - (a) has been given not less than three months’ notice of the proprietor’s intention to serve an opt out notice; or
+> - (b) is not affected or if affected, consents to the opt out.
+>
+> (5) Where a notice has been served in accordance with this paragraph—
+>
+> - (a) the comparable trade mark (EU) which derives from the existing EUTM ceases with effect from exit day to be treated as if it had been registered under this Act; and
+> - (b) the registrar must, where particulars of the comparable trade mark (EU) have been entered in the register, remove the comparable trade mark (EU) from the register.
+>
+> **3. Entries to be made in the register in relation to a comparable trade mark (EU)**
+>
+> (1) The registrar must as soon as reasonably practicable after exit day enter a comparable trade mark (EU) in the register.
+>
+> (2) The particulars of the goods or services in respect of which the comparable trade mark (EU) is treated as if it had been registered must be taken from the English language version of the entry for the corresponding EUTM in the EUTM Register.
+>
+> (3) Where—
+>
+> - (a) the application for registration of the corresponding EUTM was not filed in English; or
+> - (b) the second language indicated by the applicant pursuant to Article 146(3) was a language other than English,
+>
+> a person having a sufficient interest who considers that the English language version is inaccurate may apply to the registrar for rectification of the register by the substitution of an English translation of the relevant authentic text (as determined in accordance with Article 147(3)) verified to the satisfaction of the registrar as corresponding to the authentic text.
+>
+> **4. Comparable trade mark (EU) which derives from an EU Collective Mark or EU Certification Mark**
+>
+> (1) This paragraph applies where the European Union trade mark from which a comparable trade mark (EU) derives is an EU collective mark or an EU certification mark.
+>
+> (2) The comparable trade mark (EU) is to be treated as either a collective mark or a certification mark, as the case may be.
+>
+> (3) The proprietor of the comparable trade mark (EU) must, following notice from the registrar, file with the registrar regulations governing the use of the European Union trade mark, submitted pursuant to the European Union Trade Mark Regulation, which had effect immediately before exit day.
+>
+> (4) Where the regulations referred to in sub-paragraph (3) are in a language other than English they must be filed together with a translation into English verified to the satisfaction of the registrar as corresponding to the original text.
+>
+> (5) Paragraph 9 of Schedule 1 and paragraph 10 of Schedule 2 apply in relation to the translation referred to in sub-paragraph (4) as they apply in relation to the regulations referred to in sub-paragraph (3).
+>
+> (6) Where the regulations or any translation are not filed in accordance with the above provisions—
+>
+> - (a) the registrar must remove the comparable trade mark (EU) from the register; and
+> - (b) the rights of the proprietor shall be deemed to have ceased as from the date of removal.
+>
+> **5. Renewal of a comparable trade mark (EU) which expires within six months after exit day**
+>
+> (1) This paragraph applies to the renewal of the registration of a comparable trade mark (EU) which expires within the period beginning with exit day and ending with the end of the relevant period (and accordingly section 43(1) to (3A) does not apply).
+>
+> (2) The registration of the comparable trade mark (EU) may be renewed at the request of the proprietor before the expiry of the registration.
+>
+> (3) Where the registration of the comparable trade mark (EU) is not renewed in accordance with sub-paragraph (2)—
+>
+> - (a) on, or as soon as reasonably practicable after, the expiry of the registration, the registrar must notify the proprietor that the registration has expired and of the manner in which the registration may be renewed; and
+> - (b) a request for renewal must be made within the period of six months beginning with the date of the notice.
+>
+> (4) If a request for renewal is made in respect of only some of the goods or services for which the comparable trade mark (EU) is registered, the registration is to be renewed for those goods or services only.
+>
+> (5) If the registration is not renewed in accordance with the above provisions, the registrar must remove the comparable trade mark (EU) from the register.
+>
+> (6) Section 43(4) and (6) applies to the registration of a comparable trade mark (EU) which is renewed in accordance with the above provisions.
+>
+> (7) In paragraph (1), the “relevant period” means the period of six months beginning with the day after that on which exit day falls.
+>
+> **6. Restoration of a comparable trade mark (EU)**
+>
+> Where a comparable trade mark (EU) is removed from the register pursuant to paragraph 5, the rules relating to the restoration of the registration of a trade mark (referred to in section 43(5)) apply in relation to the restoration of the comparable trade mark (EU) to the register.
+>
+> **7. Raising of relative grounds in opposition proceedings in case of non-use**
+>
+> (1) Section 6A applies where an earlier trade mark is a comparable trade mark (EU), subject to the modifications set out below.
+>
+> (2) Where the relevant period referred to in section 6A(3)(a) (the “five-year period”) has expired before exit day—
+>
+> - (a) the references in section 6A(3) and (6) to the earlier trade mark are to be treated as references to the corresponding EUTM; and
+> - (b) the references in section 6A(3) and (4) to the United Kingdom include the European Union.
+>
+> (3) Where exit day falls within the five-year period, in respect of that part of the five-year period which falls before exit day—
+>
+> - (a) the references in section 6A(3) and (6) to the earlier trade mark are to be treated as references to the corresponding EUTM ; and
+> - (b) the references in section 6A to the United Kingdom include the European Union.
+>
+> **8. Non-use as defence in infringement proceedings and revocation of registration of a comparable trade mark (EU)**
+>
+> (1) Sections 11A and 46 apply in relation to a comparable trade mark (EU), subject to the modifications set out below.
+>
+> (2) Where the period of five years referred to in sections 11A(3)(a) and 46(1)(a) or (b) (the “five-year period”) has expired before exit day—
+>
+> - (a) the references in sections 11A(3) and (insofar as they relate to use of a trade mark) 46 to a trade mark are to be treated as references to the corresponding EUTM; and
+> - (b) the references in sections 11A and 46 to the United Kingdom include the European Union.
+>
+> (3) Where exit day falls within the five-year period, in respect of that part of the five-year period which falls before exit day—
+>
+> - (a) the references in sections 11A(3) and (insofar as they relate to use of a trade mark) 46 to a trade mark, are to be treated as references to the corresponding EUTM ; and
+> - (b) the references in sections 11A and 46 to the United Kingdom include the European Union.
+>
+> **9. Grounds for invalidity of registration of a trade mark based upon an earlier comparable trade mark (EU)**
+>
+> (1) Section 47 applies where an earlier trade mark is a comparable trade mark (EU), subject to the modifications set out below.
+>
+> (2) Where the period of five years referred to in sections 47(2A)(a) and 47(2B) (the “five year period”) has expired before exit day—
+>
+> - (a) the references in section 47(2B) and (2E) to the earlier trade mark are to be treated as references to the corresponding EUTM ; and
+> - (b) the references in section 47 to the United Kingdom include the European Union.
+>
+> (3) Where exit day falls within the five-year period, in respect of that part of the five-year period which falls before exit day—
+>
+> - (a) the references in section 47(2B) and (2E) to the earlier trade mark are to be treated as references to the corresponding EUTM; and
+> - (b) the references in section 47 to the United Kingdom include the European Union.
+>
+> **10. Reputation of a comparable trade mark (EU)**
+>
+> (1) Sections 5 and 10 apply in relation to a comparable trade mark (EU), subject to the modifications set out below.
+>
+> (2) Where the reputation of a comparable trade mark (EU) falls to be considered in respect of any time before exit day, references in sections 5(3) and 10(3) to—
+>
+> - (a) the reputation of the mark are to be treated as references to the reputation of the corresponding EUTM; and
+> - (b) the United Kingdom include the European Union.
+>
+> **11. Rights conferred by registered trade mark**
+>
+> Section 9 applies in relation to a comparable trade mark (EU) but as if—
+>
+> - (a) the words in brackets in subsection (3) referring to section 40(3) were replaced with a reference to paragraph 1(4) of this Schedule; and
+> - (b) the proviso in subsection (3) were omitted.
+>
+> **12. Effect of claim of priority**
+>
+> (1) This paragraph applies where—
+>
+> - (a) the proprietor of an existing EUTM has claimed a right of priority in accordance with Article 35; and
+> - (b) immediately before exit day there is an entry in the EUTM Register containing particulars of that claim of priority (a “claim of priority”).
+>
+> (2) The proprietor of the comparable trade mark (EU) which derives from the existing EUTM is to be treated on and after exit day as having the same claim of priority.
+>
+> (3) Accordingly, the relevant date for the purposes of establishing, in relation to the comparable trade mark (EU), which rights take precedence is the date of filing of the application for a trade mark in a Convention country which formed the basis for the claim of priority.
+>
+> **13. Effect of seniority claim**
+>
+> (1) This paragraph applies where immediately before exit day an existing EUTM has a valid claim to seniority of a trade mark which trade mark (the “senior mark”) is a registered trade mark or a protected international trade mark (UK).
+>
+> (2) The comparable trade mark (EU) which derives from the existing EUTM is to be treated on and after exit day as if it had a valid claim to seniority of the senior mark.
+>
+> (3) Accordingly, where the proprietor of the comparable trade mark (EU) surrenders the senior mark or allows it to lapse (whether wholly or partially), subject to paragraph 14, the proprietor of the comparable trade mark (EU) is deemed to continue to have the same rights as the proprietor would have had if the senior mark had continued to be registered in respect of all the goods or services for which it was registered prior to the surrender or lapse.
+>
+> (4) An existing EUTM has a valid claim to seniority of a trade mark where—
+>
+> - (a) a claim has been filed in accordance with Article 39 or 40; and
+> - (b) the seniority claimed for the existing EUTM has not lapsed in the circumstances referred to in Article 39.
+>
+> **14. Determination of invalidity and liability to revocation in relation to claims of seniority**
+>
+> (1) Where pursuant to paragraph 13 a comparable trade mark (EU) is treated as if it had a valid claim to seniority of a registered trade mark which has been—
+>
+> - (a) removed from the register under section 43; or
+> - (b) surrendered under section 45,
+>
+> any person may apply to the registrar or to the court for the declaration set out in subparagraph (2).
+>
+> (2) The declaration is that if the trade mark had not been so removed or surrendered, the registration of the trade mark would have been liable to be revoked under section 46 with effect from a date specified in the declaration or declared invalid under section 47.
+>
+> (3) Where the declaration is that had the trade mark not been so removed or surrendered the registration of it would have been liable to be—
+>
+> - (a) revoked under section 46 with effect from a date prior to—
+>   - (i) the filing date accorded pursuant to Article 32 to the application which resulted in the registration of the existing EUTM from which the comparable trade mark (EU) derives where there has been no claim of priority; or
+>   - (ii) the priority date (if any) accorded pursuant to a right of priority claimed pursuant to Article 35 in respect of the existing EUTM from which the comparable trade mark (EU) derives where there has been a claim of priority; or
+> - (b) declared invalid under section 47,
+>
+> the seniority claimed for the comparable trade mark (EU) is to be treated as if it never had effect.
+>
+> (4) Where pursuant to paragraph 13 a comparable trade mark (EU) is treated as if it had a valid claim to seniority of a protected international trade mark (UK) which has been—
+>
+> - (a) removed from the register of trade marks maintained by the International Bureau for the purposes of the Madrid Protocol; or
+> - (b) surrendered under the Madrid Protocol,
+>
+> any person may apply to the registrar or to the court for the declaration set out in subparagraph (5).
+>
+> (5) The declaration is that, if the trade mark had not been so removed or surrendered, the protection of the mark in the United Kingdom would have been liable to be revoked under section 46 with effect from a date specified in the declaration or declared invalid under section 47.
+>
+> (6) Where the declaration is that had the trade mark not been so removed or surrendered the protection of the mark in the United Kingdom would have been liable to be—
+>
+> - (a) revoked under section 46 with effect from a date prior to—
+>   - (i) the filing date accorded pursuant to Article 32 to the application which resulted in the registration of the existing EUTM from which the comparable trade mark (EU) derives where there has been no claim of priority; or
+>   - (ii) the priority date (if any) accorded pursuant to a right of priority claimed pursuant to Article 35 in respect of the existing EUTM from which the comparable trade mark (EU) derives where there has been a claim of priority; or
+> - (b) declared invalid under section 47,
+>
+> the seniority claimed for the comparable trade mark (EU) is to be treated as if it never had effect.
+>
+> (7) References in sub-paragraphs (5) and (6) to sections 46 and 47 are to those sections as they apply to a protected international trade mark (UK) under an order made pursuant to section 54.
+>
+> (8) Where a trade mark has been surrendered or allowed to lapse in respect of some only of the goods or services for which it is registered, the declaration in sub-paragraphs (2) and (5) is that if the goods or services had not been removed from the registration, the registration of the trade mark would have been liable to be revoked under section 46 with effect from a date specified in the declaration or declared invalid under section 47 and subparagraphs (3) and (6) shall be construed accordingly.
+>
+> **15. Procedure for declaration that trade mark would have been liable to be revoked or declared invalid**
+>
+> (1) In the case of proceedings on an application under paragraph 14 before the registrar, the rules relating to applications for and proceedings relating to the revocation or invalidation of a trade mark apply, with necessary modifications.
+>
+> (2) In the case of proceedings on an application under paragraph 14 before the court, section 74 applies to the proceedings as it applies to proceedings involving an application of the type referred to in section 74(1)(a) to (c).
+>
+> **16. Assignment of an existing EUTM not registered on exit day**
+>
+> (1) This paragraph applies where before exit day an existing EUTM (or any right in it) is the subject of an assignment (a “relevant assignment”) which immediately before exit day is not recorded in the EUTM Register.
+>
+> (2) Section 25 applies in relation to a relevant assignment as if it were a registrable transaction affecting a comparable trade mark (EU), subject to the modification set out below.
+>
+> (3) An application under section 25(1) may only be made by—
+>
+> - (a) a person claiming to be entitled to an interest in or under a comparable trade mark (EU) by virtue of a relevant assignment of the corresponding EUTM; or
+> - (b) the proprietor of the comparable trade mark (EU).
+>
+> **17. Effect of a licence of an existing EUTM**
+>
+> (1) This paragraph applies where immediately before exit day an existing EUTM is the subject of a licence (a “relevant licence”) which—
+>
+> - (a) authorises the doing of acts in the United Kingdom which would otherwise infringe the European Union trade mark; and
+> - (b) does not expire on exit day.
+>
+> (2) Subject to any agreement to the contrary between the licensee and the licensor, a relevant licence continues to authorise the doing of acts in the United Kingdom which would otherwise infringe the comparable trade mark (EU) which derives from the existing EUTM.
+>
+> (3) Sub-paragraph (2) is subject to—
+>
+> - (a) the terms on which the relevant licence was granted; and
+> - (b) such modifications to the terms referred to in paragraph (a) as are necessary for their application in the United Kingdom.
+>
+> (4) Section 25 applies in relation to a relevant licence as if it were a registrable transaction affecting a comparable trade mark (EU), subject to the modifications set out below.
+>
+> (5) An application under section 25(1) may only be made by—
+>
+> - (a) a person claiming to be a licensee by virtue of the relevant licence; or
+> - (b) the proprietor of the comparable trade mark (EU).
+>
+> (6) Where immediately before exit day there is an entry in the EUTM Register relating to a relevant licence—
+>
+> - (a) section 25(3) and (4) does not apply until after the expiry of the relevant period; and
+> - (b) section 25(4)(a) applies after the expiry of the relevant period but as if the reference to six months beginning with the date of the transaction were a reference to eighteen months beginning with exit day.
+>
+> (7) In paragraph (6)(a), the “relevant period” means the period of twelve months beginning with the day after that on which exit day falls.
+>
+> **18. Effect of a security interest in an existing EUTM**
+>
+> (1) This paragraph applies where immediately before exit day an existing EUTM (or any right in or under it) is the subject of a security interest (a “relevant security interest”) which does not terminate on exit day.
+>
+> (2) References to the existing EUTM in any document which grants or refers to the relevant security interest are to be read as including references to the comparable trade mark (EU) which derives from the existing EUTM.
+>
+> (3) Section 25 applies in relation to a relevant security interest as if it were a registrable transaction affecting a comparable trade mark (EU), subject to the modifications set out below.
+>
+> (4) An application under section 25(1) may only be made by—
+>
+> - (a) a person claiming to be entitled to an interest in or under a comparable trade mark (EU) by virtue of the relevant security interest; or
+> - (b) the proprietor of the comparable trade mark (EU).
+>
+> (5) Where immediately before exit day there is an entry in the EUTM Register relating to a relevant security interest—
+>
+> - (a) section 25(3) and (4) do not apply until after the expiry of the relevant period; and
+> - (b) section 25(4)(a) applies after the expiry of the relevant period but as if the reference to six months beginning with the date of the transaction were a reference to eighteen months beginning with exit day.
+>
+> (6) In paragraph (5)(a), the “relevant period” means the period of twelve months beginning with the day after that on which exit day falls.
+>
+> **19. Continuity of rights in relation to a comparable trade mark (EU)**
+>
+> (1) References to an existing EUTM or the registration of an existing EUTM in any document made before exit day shall, unless there is evidence that the document was not intended to have effect in the United Kingdom, be read on and after exit day as including references to the comparable trade mark (EU) or the registration of the comparable trade mark (EU) which derives from the existing EUTM.
+>
+> (2) Subject to any agreement to the contrary, a consent granted before exit day by the proprietor of an existing EUTM to the doing on or after exit day of an act in the United Kingdom which would otherwise infringe the comparable trade mark (EU) which derives from the existing EUTM is to be treated for the purposes of section 9 as a consent to the doing of that act.
+>
+> **20. Existing EUTM: pending proceedings**
+>
+> (1) This paragraph applies where on exit day an existing EUTM is the subject of proceedings which are pending (“pending proceedings”) before a court in the United Kingdom designated for the purposes of Article 123 (“EU trade mark court”).
+>
+> (2) Subject to sub-paragraphs (3) and (4), the provisions contained or referred to in Chapter 10 of the European Union Trade Mark Regulation (with the exception of Articles 128(2), (4), (6) and (7) and 132) continue to apply to the pending proceedings as if the United Kingdom were still a Member State with effect from exit day.
+>
+> (3) Where the pending proceedings involve a claim for infringement of an existing EUTM, without prejudice to any other relief by way of damages, accounts or otherwise available to the proprietor of the existing EUTM, the EU trade mark court may grant an injunction to prohibit unauthorised use of the comparable trade mark (EU) which derives from the existing EUTM.
+>
+> (4) Where the pending proceedings involve a counterclaim for the revocation of, or a declaration of invalidity in relation to, an existing EUTM, the EU trade mark court may revoke the registration of the comparable trade mark (EU) which derives from the existing EUTM or declare the registration of the comparable trade mark (EU) which derives from the existing EUTM to be invalid.
+>
+> (5) Where the grounds for revocation or invalidity exist in respect of only some of the goods or services for which the existing EUTM is registered, the revocation or declaration of invalidity in respect of the registration of the comparable trade mark (EU) which derives from the existing EUTM relates to those goods or services only.
+>
+> (6) Where (by virtue of sub-paragraph (4)) the registration of a comparable trade mark (EU) is revoked to any extent, the rights of the proprietor are deemed to have ceased to that extent as from—
+>
+> - (a) the date of the counterclaim for revocation, or
+> - (b) if the court is satisfied that the grounds for revocation existed at an earlier date, that date.
+>
+> (7) Where (by virtue of sub-paragraph (4)) the registration of a comparable trade mark (EU) is declared invalid to any extent, the registration is to that extent to be deemed never to have been made, provided that this does not affect transactions past and closed.
+>
+> (8) For the purposes of this paragraph proceedings are treated as pending on exit day if they were instituted but not finally determined before exit day.
+>
+> **21. Existing EUTM: effect of injunction**
+>
+> (1) This paragraph applies where immediately before exit day an injunction is in force prohibiting the performance of acts in the United Kingdom which infringe or would infringe an existing EUTM (a “relevant injunction”).
+>
+> (2) Subject to any order of the court to the contrary, a relevant injunction will have effect and be enforceable to prohibit the performance of acts which infringe or would infringe a comparable trade mark (EU) to the same extent as in relation to the European Union trade mark from which the comparable trade mark (EU) derives as if it were an injunction granted by the court.
+>
+> **PART 2 — Treatment of European Union trade marks which expire during the period of six months ending on exit day**
+>
+> **22. Registration of certain expired European Union trade marks**
+>
+> (1) This Part applies to a trade mark which was registered in the EUTM Register immediately before the transitional period but which, as a result of the expiry of the registration of the European Union trade mark during the transitional period, does not fall within paragraph 1(1) (an “expired EUTM”).
+>
+> (2) An expired EUTM is to be treated as if it were an existing EUTM.
+>
+> (3) The provisions of Part 1 of this Schedule apply to an expired EUTM as they apply to an existing EUTM subject to the provisions of this Part of the Schedule.
+>
+> (4) Notwithstanding the entry in the register (under paragraph 3, as applied by subparagraph (3)) of a comparable trade mark (EU) which derives from an expired EUTM, the registration of the comparable trade mark (EU) is expired until it is renewed in accordance with paragraph 23 (or the comparable trade mark (EU) is removed from the register in accordance with paragraph 23(4)).
+>
+> (5) In this paragraph, “transitional period” means the period of six months ending with exit day.
+>
+> **23. Renewal of an expired EUTM**
+>
+> (1) Where the registration of an expired EUTM is renewed in accordance with Article 53 of the Continuing EUTM Regulation the registrar must, as soon as reasonably practicable after the date of such renewal, renew the registration of the comparable trade mark (EU) which derives from the expired EUTM.
+>
+> (2) A comparable trade mark (EU) which is renewed under sub-paragraph (1) shall be renewed for a period of ten years from the expiry of the registration of the expired EUTM.
+>
+> (3) If the registration of an expired EUTM is renewed in respect of only some of the goods or services in respect of which the expired EUTM was registered before its registration expired, the registration of the comparable trade mark (EU) under subparagraph (1) is to be renewed for those goods or services only.
+>
+> (4) If the registration of an expired EUTM is not renewed within the time period permitted by Article 53 of the Continuing EUTM Regulation—
+>
+> - (a) the registrar must remove from the register the comparable trade mark (EU) which derives from the expired EUTM; and
+> - (b) the comparable trade mark (EU) ceases with effect from exit day to be treated as if it had been registered under this Act.
+>
+> (5) In this Schedule, the “Continuing EUTM Regulation” means Regulation (EU) 2017/1001 of the European Parliament and of the Council of 14 June 2017 on the European Union Trade Mark(a) as it has effect in EU law.
+>
+> **PART 3 — Applications for European Union trade marks which are pending on exit day**
+>
+> **24. Application of Part**
+>
+> (1) This Part applies to an application for registration of a trade mark under the EUTM Regulation in respect of which the conditions in sub-paragraph (2) are satisfied (an “existing EUTM application”).
+>
+> (2) The conditions referred to in sub-paragraph (1) are—
+>
+> - (a) the application has been accorded a filing date pursuant to Article 32; and
+> - (b) as at the time immediately before exit day, the application has been neither granted nor refused by the European Union Intellectual Property Office.
+>
+> **25. Application for registration under this Act based upon an existing EUTM application**
+>
+> (1) This paragraph applies where a person who has filed an existing EUTM application or a successor in title of that person applies for registration of the same trade mark under this Act for some or all of the same goods or services.
+>
+> (2) Where an application for registration referred to in sub-paragraph (1) is made within a period beginning with exit day and ending with the end of the relevant period—
+>
+> - (a) the relevant date for the purposes of establishing which rights take precedence is the earliest of—
+>   - (i) the filing date accorded pursuant to Article 32 to the existing EUTM application;
+>   - (ii) the date of priority (if any) accorded pursuant to a right of priority claimed pursuant to Article 35 in respect of the existing EUTM application; and
+> - (b) the registrability of the trade mark shall not be affected by any use of the mark in the United Kingdom which commenced in the period between the date referred to in paragraph (a) and the date of the application under this Act.
+>
+> (3) In paragraph (2), the “relevant period” means the period of nine months beginning with the day after that on which exit day falls.
+>
+> **26. Right to claim seniority where seniority has been claimed by an existing EUTM application**
+>
+> (1) Where an existing EUTM application claims seniority of a trade mark which trade mark (“the senior mark”) is a registered trade mark or a protected international trade mark (UK), the applicant may claim seniority of the senior mark in an application for registration of a trade mark (“a relevant mark”) pursuant to this Part.
+>
+> (2) The effect of a seniority claim made pursuant to sub-paragraph (1) is that where following the registration of the relevant mark the proprietor of that mark surrenders the senior mark or allows it to lapse (wholly or partially), subject to paragraph 27, the proprietor of the relevant mark is deemed to continue to have the same rights as the proprietor would have had if the senior mark had continued to be registered in respect of all the goods or services for which it was registered prior to the surrender or lapse.
+>
+> (3) Provision may be made by rules as to the manner of claiming seniority pursuant to this paragraph.
+>
+> **27. Determination of invalidity and liability to revocation in relation to claim of seniority under paragraph 26**
+>
+> (1) Where a relevant mark has claimed seniority of a registered trade mark which has been—
+>
+> - (a) removed from the register under section 43; or
+> - (b) surrendered under section 45,
+>
+> any person may apply to the registrar or to the court for the declaration set out in subparagraph (2)
+>
+> (2) The declaration is that, if the trade mark had not been so removed or surrendered, the registration of the trade mark would have been liable to be revoked under section 46 with effect from a date specified in the declaration or declared invalid under section 47.
+>
+> (3) Where the declaration is that had the trade mark not been so removed or surrendered, the registration of it would have been liable to be—
+>
+> - (a) revoked under section 46 with effect from a date prior to—
+>   - (i) the filing date accorded pursuant to Article 32 to the existing EUTM application on which the application for registration of a relevant mark is based where there has been no claim of priority; or
+>   - (ii) the priority date (if any) accorded pursuant to a right of priority claimed pursuant to Article 35 in respect of the existing EUTM application on which the registration of a relevant mark is based where there has been a claim of priority; or
+> - (b) declared invalid under section 47,
+>
+> the seniority claimed for the relevant mark is to be treated as if it never had effect.
+>
+> (4) Where a relevant mark has claimed seniority of a protected international trade mark (UK) which has been—
+>
+> - (a) removed from the register of trade marks maintained by the International Bureau for the purposes of the Madrid Protocol; or
+> - (b) surrendered under the Madrid Protocol,
+>
+> any person may apply to the registrar or to the court for the declaration set out in subparagraph (5).
+>
+> (5) The declaration is that, if the trade mark had not been so removed or surrendered, the protection of the trade mark in the United Kingdom would have been liable to be revoked under section 46 with effect from a date specified in the declaration or declared invalid under section 47.
+>
+> (6) Where the declaration is that had the trade mark not been so removed or surrendered, the registration of it would have been liable to be—
+>
+> - (a) revoked under section 46 with effect from a date prior to—
+>   - (i) the filing date accorded pursuant to Article 32 to the existing EUTM application on which the application for registration of a relevant mark is based where there has been no claim of priority; or
+>   - (ii) the priority date (if any) accorded pursuant to a right of priority claimed pursuant to Article 35 in respect of the existing EUTM application on which the registration of a relevant mark is based where there has been a claim of priority; or
+> - (b) declared invalid under section 47,
+>
+> the seniority claimed for the relevant mark is to be treated as if it never had effect.
+>
+> (7) References in sub-paragraphs (5) and (6) to sections 46 and 47 are to those sections as they apply to a protected international trade mark (UK) under an order made pursuant to section 54.
+>
+> (8) Where a trade mark has been surrendered or allowed to lapse in respect of only some of the goods or services for which it is registered, the declaration in sub-paragraphs (2) and (5) is that if the goods or services had not been removed from the registration, the registration of the trade mark would have been liable to be revoked under section 46 with effect from a date specified in the declaration or declared invalid under section 47 and subparagraphs (3) and (6) shall be construed accordingly.
+>
+> (9) The provisions of paragraph 15 apply in relation to an application under this paragraph as they apply to an application under paragraph 14.
+>
+> **PART 4 — Restoration of European Union trade mark registrations and applications**
+>
+> **28. Restoration of a European Union trade mark to the EUTM Register**
+>
+> (1) This paragraph applies where—
+>
+> - (a) before exit day a trade mark is removed from the EUTM Register pursuant to the European Union Trade Mark Regulation; and
+> - (b) on or after exit day the trade mark is restored to the EUTM Register pursuant to the Continuing EUTM Regulation.
+>
+> (2) Where the proprietor of a European Union trade mark referred to in sub-paragraph (1)(b) files a request with the registrar within the period of six months beginning with the date of such restoration—
+>
+> - (a) the trade mark will be treated as if it was an existing EUTM on exit day; and
+> - (b) the provisions of Part 1 apply to the comparable trade mark (EU) which derives from the existing EUTM.
+>
+> **29. Restoration of an application for a European Union trade mark**
+>
+> (1) This paragraph applies where—
+>
+> - (a) before exit day an application for a European Union trade mark is refused pursuant to the European Union Trade Mark Regulation; and
+> - (b) on or after exit day the application (a “relevant application”) is restored pursuant to the Continuing EUTM Regulation.
+>
+> (2) Where a person who has filed a relevant application or a successor in title of that person applies for registration of the same trade mark under this Act for some or all of the same goods or services, the provisions of paragraphs 25, 26 and 27 apply to the relevant application as if it were an existing EUTM application but as if the “relevant period” in paragraph 25(2) meant the period of nine months beginning with the date on which the relevant application is restored as referred to in sub-paragraph (1)(b).
+>
+> **PART 5 — Interpretation**
+>
+> **30. Interpretation**
+>
+> (1) In this Schedule—
+>
+> - “comparable trade mark (EU)” has the meaning given by paragraph 1(2);
+> - “the Continuing EUTM Regulation” has the meaning given by paragraph 23(5);
+> - “corresponding EUTM” has the meaning given by paragraph 1(9)(a);
+> - “the EUTM Register” has the meaning given by paragraph 1(9)(b);
+> - “existing EUTM” has the meaning given by paragraph 1(1);
+> - “existing EUTM application” has the meaning given by paragraph 24(1);
+> - “expired EUTM” has the meaning given by paragraph 22(1);
+> - “the previous EUTM Regulations” means Council Regulation [(EC) No 207/2009](https://www.legislation.gov.uk/european/regulation/2009/0207) of 26th February 2009 on the European Union trade mark[^f00016] and Council Regulation [(EC) No 40/94](https://www.legislation.gov.uk/european/regulation/1994/0040) of 20th December 1993 on the Community trade mark[^f00017];
+> - “protected international trade mark (UK)” has the same meaning as in the Trade Marks (International Registration) Order 2008[^f00018].
+>
+> (2) References in this Schedule to—
+>
+> - (a) an “Article” are to an Article of the European Union Trade Mark Regulation and include references to any equivalent Article contained in the previous EUTM Regulations;
+> - (b) the European Union Trade Mark Regulation include references to the previous EUTM Regulations;
+>
+> a European Union trade mark include references to an EU collective mark and an EU certification mark as defined in Articles 74 and 83.
+>
+> **SCHEDULE 2B — INTERNATIONAL TRADE MARKS PROTECTED IN THE EUROPEAN UNION**
+>
+> Section 54A
+>
+> **PART 1 — Existing international trade marks protected in the European Union**
+>
+> **1. An international trade mark protected in the European Union to be treated as registered under this Act**
+>
+> (1) A trade mark which, immediately before exit day, is an international trade mark which is protected in the European Union in accordance with Article 189(2) of the European Union Trade Mark Regulation (an “existing IR(EU)”) is to be treated on and after exit day as if an application had been made, and the trade mark had been registered, under this Act in respect of the same goods or services in respect of which the international trade mark is protected in the European Union.
+>
+> (2) Where the international registration to which an international trade mark is subject is sub-divided to reflect the making of more than one request for territorial extension to the European Union under Article 3ter there is to be deemed for the purposes of sub-paragraph (1) to be a separate trade mark in respect of the goods or services covered by each subdivision of the registration.
+>
+> (3) Where the international registration to which an international trade mark is subject has been created by virtue of Rule 27(2) (recording of partial change in ownership) (a “separate international registration”), it is irrelevant for the purposes of the application of subparagraph (2) to that separate international registration that the requests for territorial extension were made before the separate international registration was created.
+>
+> (4) A registered trade mark which comes into being by virtue of sub-paragraph (1) is referred to in this Act as a comparable trade mark (IR).
+>
+> (5) This Act applies to a comparable trade mark (IR) as it applies to other registered trade marks except as otherwise provided in this Schedule.
+>
+> (6) A comparable trade mark (IR) is deemed for the purposes of this Act to be registered as of—
+>
+> - (a) where the protection in the European Union of the existing IR(EU) from which the comparable trade mark (IR) derives resulted from a request for territorial extension under Article 3*ter*(1) (request mentioned in original application), the date of registration of the existing IR(EU) accorded pursuant to Article 3(4); or
+> - (b) where the protection in the European Union of the existing IR(EU) from which the comparable trade mark (IR) derives resulted from a request for territorial extension under Article 3*ter*(2) (subsequent request), the date on which the request was recorded in the International Register,
+>
+> and that date is deemed for the purposes of this Act to be the date of registration.
+>
+> (7) Section 40(3) and (4) does not apply to the registration of a comparable trade mark (IR) under this Part.
+>
+> (8) Section 67(1) applies in relation to the provision of information and the inspection of documents relating to a comparable trade mark (IR) notwithstanding that there will have been no application under this Act for the registration of the trade mark (and so no publication of an application).
+>
+> (9) Any fee provided for by regulations under Schedule 4 to the European Union (Withdrawal) Act 2018 in respect of any matter relating to a comparable trade mark (IR) applies in the Isle of Man in respect of that matter.
+>
+> (10) For the purposes of this Act—
+>
+> - (a) the date of filing of an application for registration of a comparable trade mark (IR) is the same date as the deemed date of registration of the comparable trade mark (IR) under sub-paragraph (6);
+> - (b) references to the date of application for registration of a comparable trade mark (IR) are to the date of filing of the application;
+> - (c) where an earlier trade mark is a comparable trade mark (IR), references to the completion of the registration procedure for the earlier trade mark are to publication by the European Union Intellectual Property Office of the matters referred to in Article 190(2) of the European Union Trade Mark Regulation in respect of the existing IR(EU) from which the comparable trade mark (IR) derives.
+>
+> (11) In this Schedule—
+>
+> - (a) “the International Register” means the register of trade marks maintained by the International Bureau for the purposes of the Madrid Protocol;
+> - (b) “international registration” means a registration made in the International Register in accordance with the Madrid Protocol;
+> - (c) “international trade mark” means a trade mark which is the subject of an international registration.
+>
+> **2. Opt out**
+>
+> (1) Subject to sub-paragraphs (2) and (6), the proprietor of an existing IR(EU) may, at any time on or after exit day, serve notice on the registrar that the trade mark is not to be treated as if the trade mark had been registered under this Act (an “opt out notice”).
+>
+> (2) An opt out notice may not be served where on or after exit day—
+>
+> - (a) the comparable trade mark (IR) has been put to use in the United Kingdom by the proprietor or with the proprietor’s consent (which use includes affixing the trade mark to goods or to the packaging of goods in the United Kingdom solely for export purposes);
+> - (b) the comparable trade mark (IR) (or any right in or under it) has been made the subject of an assignment, licence, security interest or any other agreement or document except for an assent by personal representatives in relation to the comparable trade mark (IR); or
+> - (c) proceedings based on the comparable trade mark (IR) have been initiated by the proprietor or with the proprietor’s consent.
+>
+> (3) An opt out notice must—
+>
+> - (a) identify the number of the international registration to which the existing IR(EU) to which the notice relates is subject; and
+> - (b) include the name and address of any person having an interest in the existing IR(EU) which had effect before exit day in the United Kingdom, and in respect of which an entry was recorded in the International Register.
+>
+> (4) An opt out notice is of no effect unless the proprietor in that notice certifies that any such person—
+>
+> - (a) has been given not less than three months’ notice of the proprietor’s intention to serve an opt out notice; or
+> - (b) is not affected or if affected, consents to the opt out.
+>
+> (5) Where a notice has been served in accordance with this paragraph—
+>
+> - (a) the comparable trade mark (IR) which derives from the existing IR(EU) ceases with effect from exit day to be treated as if it had been registered under this Act; and
+> - (b) the registrar must, where particulars of the comparable trade mark (IR) have been entered in the register, remove the comparable trade mark (IR) from the register.
+>
+> (6) Where an international trade mark which is protected in the European Union is treated as being more than one trade mark by virtue of paragraph 1(2)—
+>
+> - (a) an opt out notice must relate to all of the existing IR(EU)s which (by virtue of paragraph 1(2)) derive from the international trade mark;
+> - (b) the references in sub-paragraph (2) to the comparable trade mark (IR) are to be read as references to any of the comparable trade marks (IR) which derive from the existing IR(EU)s to which the opt out notice relates; and
+> - (c) the references in sub-paragraph (5) to the comparable trade mark (IR) are to be read as references to all of the comparable trade marks (IR) which derive from the existing IR(EU)s to which the notice relates.
+>
+> **3. Entries to be made in the register in relation to a comparable trade mark (IR)**
+>
+> (1) The registrar must as soon as reasonably practicable after exit day enter a comparable trade mark (IR) in the register.
+>
+> (2) The particulars of the goods or services in respect of which the comparable trade mark (IR) is treated as if it had been registered must be taken from the English language version of the entry in the International Register for the corresponding (IR).
+>
+> (3) Where on or after exit day the entry in the International Register containing the particulars referred to in sub-paragraph (2) is modified to correct an error pursuant to Rule 28, a person having a sufficient interest may apply to the registrar for rectification of the register by the substitution of the English language version of the entry for the corresponding (IR) in the International Register as modified.
+>
+> (4) In this Schedule, the “corresponding (IR)”, in relation to a comparable trade mark (IR), means the existing IR(EU) from which the comparable trade mark (IR) derives.
+>
+> **4. Comparable trade mark (IR) which derives from a mark treated as an EU Collective Mark or EU Certification Mark**
+>
+> (1) This paragraph applies where the existing IR(EU) from which a comparable trade mark (IR) derives is dealt with for the purposes of the European Union Trade Mark Regulation as an EU collective mark or an EU certification mark.
+>
+> (2) The comparable trade mark (IR) is to be treated as either a collective mark or a certification mark, as the case may be.
+>
+> (3) The proprietor of the comparable trade mark (IR) must, following notice from the registrar, file with the registrar regulations governing the use of the international trade mark, submitted pursuant to the European Union Trade Mark Regulation, which had effect immediately before exit day.
+>
+> (4) Where the regulations referred to in sub-paragraph (3) are in a language other than English they must be filed together with a translation into English verified to the satisfaction of the registrar as corresponding to the original text.
+>
+> (5) Paragraph 9 of Schedule 1 and paragraph 10 of Schedule 2 apply in relation to the translation referred to in sub-paragraph (4) as they apply in relation to the regulations referred to in sub-paragraph (3).
+>
+> (6) Where the regulations or any translation are not filed in accordance with the above provisions—
+>
+> - (a) the registrar must remove the comparable trade mark (IR) from the register; and
+> - (b) the rights of the proprietor shall be deemed to have ceased as from the date of removal.
+>
+> **5. Renewal of a comparable trade mark (IR) which expires within six months after exit day**
+>
+> (1) This paragraph applies to the renewal of the registration of a comparable trade mark (IR) which expires within the period beginning with exit day and ending with the end of the relevant period (and accordingly section 43(1) to (3A) does not apply).
+>
+> (2) The registration of the comparable trade mark (IR) may be renewed at the request of the proprietor before the expiry of the registration.
+>
+> (3) Where the registration of the comparable trade mark (IR) is not renewed in accordance with sub-paragraph (2)—
+>
+> - (a) on, or as soon as reasonably practicable after, the expiry of the registration, the registrar must notify the proprietor that the registration has expired and of the manner in which the registration may be renewed; and
+> - (b) a request for renewal must be made within the period of six months beginning with the date of the notice.
+>
+> (4) If a request for renewal is made in respect of only some of the goods or services for which the comparable trade mark (IR) is registered, the registration is to be renewed for those goods or services only.
+>
+> (5) If the registration is not renewed in accordance with the above provisions, the registrar must remove the comparable trade mark (IR) from the register.
+>
+> (6) Section 43(4) and (6) applies to the registration of a comparable trade mark (IR) which is renewed in accordance with the above provisions.
+>
+> (7) In sub-paragraph (1), the “relevant period” means the period of six months beginning with the day after that on which exit day falls.
+>
+> **6. Restoration of a comparable trade mark (IR)**
+>
+> Where a comparable trade mark (IR) is removed from the register pursuant to paragraph 5, the rules relating to the restoration of the registration of a trade mark (referred to in section 43(5)) apply in relation to the restoration of the comparable trade mark (IR) to the register.
+>
+> **7. Raising of relative grounds in opposition proceedings in case of non-use**
+>
+> (1) Section 6A applies where an earlier trade mark is a comparable trade mark (IR), subject to the modifications set out below.
+>
+> (2) Where the relevant period referred to in section 6A(3)(a) (the “five-year period”) has expired before exit day—
+>
+> - (a) the references in section 6A(3) and (6) to the earlier trade mark are to be treated as references to the corresponding (IR); and
+> - (b) the references in section 6A(3) and (4) to the United Kingdom include the European Union.
+>
+> (3) Where exit day falls within the five-year period, in respect of that part of the five-year period which falls before exit day—
+>
+> - (a) the references in section 6A(3) and (6) to the earlier trade mark are to be treated as references to the corresponding (IR); and
+> - (b) the references in section 6A to the United Kingdom include the European Union.
+>
+> **8. Non-use as defence in infringement proceedings and revocation of registration of a comparable trade mark (IR)**
+>
+> (1) Sections 11A and 46 apply in relation to a comparable trade mark (IR), subject to the modifications set out below.
+>
+> (2) Where the period of five years referred to in sections 11A(3)(a) and 46(1)(a) or (b) (the “five-year period”) has expired before exit day—
+>
+> - (a) the references in sections 11A(3) and (insofar as they relate to use of a trade mark) 46 to a trade mark are to be treated as references to the corresponding (IR); and
+> - (b) the references in sections 11A and 46 to the United Kingdom include the European Union.
+>
+> (3) Where exit day falls within the five-year period, in respect of that part of the five-year period which falls before exit day—
+>
+> - (a) the references in sections 11A(3) and (insofar as they relate to use of a trade mark) 46 to a trade mark, are to be treated as references to the corresponding (IR); and
+> - (b) the references in sections 11A and 46 to the United Kingdom include the European Union.
+>
+> **9. Grounds for invalidity of registration of a trade mark based upon an earlier comparable trade mark (IR)**
+>
+> (1) Section 47 applies where an earlier trade mark is a comparable trade mark (IR), subject to the modifications set out below.
+>
+> (2) Where the period of five years referred to in sections 47(2A)(a) and 47(2B) (the “five-year period”) has expired before exit day—
+>
+> - (a) the references in section 47(2B) and (2E) to the earlier trade mark are to be treated as references to the corresponding (IR); and
+> - (b) the references in section 47 to the United Kingdom include the European Union.
+>
+> (3) Where exit day falls within the five-year period, in respect of that part of the five-year period which falls before exit day—
+>
+> - (a) the references in section 47(2B) and (2E) to the earlier trade mark are to be treated as references to the corresponding (IR); and
+> - (b) the references in section 47 to the United Kingdom include the European Union.
+>
+> **10. Reputation of a comparable trade mark (IR)**
+>
+> (1) Sections 5 and 10 apply in relation to a comparable trade mark (IR), subject to the modifications set out below.
+>
+> (2) Where the reputation of a comparable trade mark (IR) falls to be considered in respect of any time before exit day, references in sections 5(3) and 10(3) to—
+>
+> - (a) the reputation of the mark are to be treated as references to the reputation of the corresponding (IR); and
+> - (b) the United Kingdom include the European Union.
+>
+> **11. Rights conferred by registered trade mark**
+>
+> Section 9 applies in relation to a comparable trade mark (IR) but as if—
+>
+> - (a) the words in brackets in subsection (3) referring to section 40(3) were replaced with a reference to paragraph 1(6) of this Schedule; and
+> - (b) the proviso in subsection (3) were omitted.
+>
+> **12. Effect of disclaimer**
+>
+> Where, immediately before exit day, the protection in the European Union of an existing IR(EU) is subject to a disclaimer recorded in the International Register, the registration of the comparable trade mark (IR) which derives from the existing IR(EU) is to be treated on and after exit day as subject to the same disclaimer (and section 13 applies accordingly but as if the reference to “publication” in subsection (2) was omitted).
+>
+> **13. Effect of claim of priority**
+>
+> (1) This paragraph applies where—
+>
+> - (a) a right of priority was claimed in respect of an international application for protection of a trade mark in accordance with Rule 9(4)(iv);
+> - (b) immediately before exit day there is an entry in the International Register in respect of that trade mark containing particulars of that claim of priority (a “claim of priority”);
+> - (c) the trade mark is an existing IR(EU).
+>
+> (2) Subject to sub-paragraph (4), the proprietor of the comparable trade mark (IR) which derives from the existing IR(EU) is to be treated on and after exit day as having the same claim of priority.
+>
+> (3) Accordingly, the relevant date for the purposes of establishing, in relation to the comparable trade mark (IR), which rights take precedence is the date of filing of the application for a trade mark in a Convention country which formed the basis for the claim of priority.
+>
+> (4) Where the protection in the European Union of the existing IR(EU) resulted from a request for territorial extension under Article 3ter(2), the proprietor of the comparable trade mark (IR) which derives from the existing IR(EU) is to be treated on and after exit day as having the same claim of priority only where the request for territorial extension was recorded in the International Register within a period of six months beginning with the day after the priority date recorded in the International Register in respect of the international application referred to in sub-paragraph (1)(a).
+>
+> **14. Effect of seniority claim**
+>
+> (1) This paragraph applies where immediately before exit day an existing IR(EU) has a valid claim to seniority of a trade mark which trade mark (the “senior mark”) is a registered trade mark or a protected international trade mark (UK).
+>
+> (2) The comparable trade mark (IR) which derives from the existing IR(EU) is to be treated on and after exit day as if it had a valid claim to seniority of the senior mark.
+>
+> (3) Accordingly, where the proprietor of the comparable trade mark (IR) surrenders the senior mark or allows it to lapse (whether wholly or partially), subject to paragraph 15, the proprietor of the comparable trade mark (IR) is deemed to continue to have the same rights as the proprietor would have had if the senior mark had continued to be registered in respect of all the goods or services for which it was registered prior to the surrender or lapse.
+>
+> (4) An existing IR(EU) has a valid claim to seniority of a trade mark where—
+>
+> - (a) a claim has been filed in accordance with Article 191 or 192 of the European Union Trade Mark Regulation in respect of the international registration to which the existing IR(EU) is subject; and
+> - (b) the seniority so claimed has not lapsed in the circumstances referred to in Article 39 of that Regulation (as it applies to international registrations under Article 182 of that Regulation).
+>
+> **15. Determination of invalidity and liability to revocation in relation to claims of seniority**
+>
+> (1) Where pursuant to paragraph 14 a comparable trade mark (IR) is treated as if it had a valid claim to seniority of a registered trade mark which has been—
+>
+> - (a) removed from the register under section 43; or
+> - (b) surrendered under section 45,
+>
+> any person may apply to the registrar or to the court for the declaration set out in subparagraph (2).
+>
+> (2) The declaration is that if the trade mark had not been so removed or surrendered, the registration of the trade mark would have been liable to be revoked under section 46 with effect from a date specified in the declaration or declared invalid under section 47.
+>
+> (3) Where the declaration is that had the trade mark not been so removed or surrendered the registration of it would have been liable to be—
+>
+> - (a) revoked under section 46 with effect from a date prior to—
+>   - (i) where there has been no claim of priority pursuant to Article 35 of the European Union Trade Mark Regulation (as it applies to international registrations under Article 182 of that Regulation) in respect of the existing IR(EU) from which the comparable trade mark (IR) derives, the deemed date of registration of the comparable trade mark (IR); or
+>   - (ii) where there has been a claim of priority, the priority date accorded pursuant to a right of priority claimed pursuant to Article 35 of the European Union Trade Mark Regulation in respect of the existing IR(EU) from which the comparable trade mark (IR) derives; or
+> - (b) declared invalid under section 47,
+>
+> the seniority claimed for the comparable trade mark (IR) is to be treated as if it never had effect.
+>
+> (4) Where pursuant to paragraph 14 a comparable trade mark (IR) is treated as if it had a valid claim to seniority of a protected international trade mark (UK) which has been—
+>
+> - (a) removed from the International Register; or
+> - (b) surrendered under the Madrid Protocol,
+>
+> any person may apply to the registrar or to the court for the declaration set out in subparagraph (5).
+>
+> (5) The declaration is that, if the trade mark had not been so removed or surrendered, the protection of the mark in the United Kingdom would have been liable to be revoked under section 46 with effect from a date specified in the declaration or declared invalid under section 47.
+>
+> (6) Where the declaration is that had the trade mark not been so removed or surrendered the protection of the mark in the United Kingdom would have been liable to be—
+>
+> - (a) revoked under section 46 with effect from a date prior to—
+>   - (i) where there has been no claim of priority pursuant to Article 35 of the European Union Trade Mark Regulation (as it applies to international registrations under Article 182 of that Regulation) in respect of the existing IR(EU) from which the comparable trade mark (IR) derives, the deemed date of registration of the comparable trade mark (IR); or
+>   - (ii) where there has been a claim of priority, the priority date accorded pursuant to a right of priority claimed pursuant to Article 35 of the European Union Trade Mark Regulation in respect of the existing IR(EU) from which the comparable trade mark (IR) derives; or
+> - (b) declared invalid under section 47,
+>
+> the seniority claimed for the comparable trade mark (IR) is to be treated as if it never had effect.
+>
+> (7) Where the protection in the European Union of an existing IR(EU) resulted from a request for territorial extension under Article 3ter(2), a right of priority claimed pursuant to Article 35 of the European Union Trade Mark Regulation in respect of the existing IR(EU) is to be disregarded for the purposes of sub-paragraphs (3)(a)(ii) and (6)(a)(ii) unless the request for territorial extension was recorded in the International Register within a period of six months beginning with the day after the priority date recorded in the International Register in respect of the international application for protection of the trade mark which is the same as the one in respect of which the request for territorial extension was filed.
+>
+> (8) References in sub-paragraphs (5) and (6) to sections 46 and 47 are to those sections as they apply to a protected international trade mark (UK) under an order made pursuant to section 54.
+>
+> (9) Where a trade mark has been surrendered or allowed to lapse in respect of some only of the goods or services for which it is registered, the declaration in sub-paragraphs (2) and (5) is that if the goods or services had not been removed from the registration, the registration of the trade mark would have been liable to be revoked under section 46 with effect from a date specified in the declaration or declared invalid under section 47 and subparagraphs (3) and (6) shall be construed accordingly.
+>
+> **16. Procedure for declaration that trade mark would have been liable to be revoked or declared invalid**
+>
+> (1) In the case of proceedings on an application under paragraph 15 before the registrar, the rules relating to applications for and proceedings relating to the revocation or invalidation of a trade mark apply, with necessary modifications.
+>
+> (2) In the case of proceedings on an application under paragraph 15 before the court, section 74 applies to the proceedings as it applies to proceedings involving an application of the type referred to in section 74(1)(a) to (c).
+>
+> **17. Assignment of an existing IR(EU) not registered on exit day**
+>
+> (1) This paragraph applies where before exit day an existing IR(EU) (or any right in it) is the subject of an assignment (a “relevant assignment”) which immediately before exit day is not recorded in the International Register.
+>
+> (2) Section 25 applies in relation to a relevant assignment as if it were a registrable transaction affecting a comparable trade mark (IR), subject to the modification set out below.
+>
+> (3) An application under section 25(1) may only be made by—
+>
+> - (a) a person claiming to be entitled to an interest in or under a comparable trade mark (IR) by virtue of a relevant assignment of the corresponding (IR); or
+> - (b) the proprietor of the comparable trade mark (IR).
+>
+> **18. Effect of a licence of an existing IR(EU)**
+>
+> (1) This paragraph applies where immediately before exit day an existing IR(EU) is the subject of a licence (a “relevant licence”) which—
+>
+> - (a) authorises the doing of acts in the United Kingdom which would otherwise infringe the international trade mark; and
+> - (b) does not expire on exit day.
+>
+> (2) Subject to any agreement to the contrary between the licensee and the licensor, relevant licence continues to authorise the doing of acts in the United Kingdom which would otherwise infringe the comparable trade mark (IR) which derives from the existing IR(EU).
+>
+> (3) Sub-paragraph (2) is subject to—
+>
+> - (a) the terms on which the relevant licence was granted; and
+> - (b) such modifications to the terms referred to in paragraph (a) as are necessary for their application in the United Kingdom.
+>
+> (4) Section 25 applies in relation to a relevant licence as if it were a registrable transaction affecting a comparable trade mark (IR), subject to the modifications set out below.
+>
+> (5) An application under section 25(1) may only be made by—
+>
+> - (a) a person claiming to be a licensee by virtue of the relevant licence; or
+> - (b) the proprietor of the comparable trade mark (IR).
+>
+> (6) Where immediately before exit day there is an entry in the International Register relating to a relevant licence—
+>
+> - (a) section 25(3) and (4) does not apply until after the expiry of the relevant period; and
+> - (b) section 25(4)(a) applies after the expiry of the relevant period but as if the reference to six months beginning with the date of the transaction were a reference to eighteen months beginning with exit day.
+>
+> (7) In sub-paragraph (6)(a), the “relevant period” means the period of twelve months beginning with the day after that on which exit day falls.
+>
+> **19. Effect of a security interest in an existing IR(EU)**
+>
+> (1) This paragraph applies where immediately before exit day an existing IR(EU) (or any right in or under it) is the subject of a security interest (a “relevant security interest”) which—
+>
+> - (a) restricts the proprietor’s right to dispose in the European Union of the existing IR(EU); and
+> - (b) does not terminate on exit day.
+>
+> (2) References to the existing IR(EU), or the international registration to which the existing IR(EU) is subject, in any document which grants or refers to the relevant security interest are to be read as including references to the comparable trade mark (IR) which derives from the existing IR(EU).
+>
+> (3) Section 25 applies in relation to a relevant security interest as if it were a registrable transaction affecting a comparable trade mark (IR), subject to the modifications set out below.
+>
+> (4) An application under section 25(1) may only be made by—
+>
+> - (a) a person claiming to be entitled to an interest in or under a comparable trade mark (IR) by virtue of the relevant security interest; or
+> - (b) the proprietor of the comparable trade mark (IR).
+>
+> (5) Where immediately before exit day there is an entry in the International Register relating to a relevant security interest—
+>
+> - (a) section 25(3) and (4) do not apply until after the expiry of the relevant period; and
+> - (b) section 25(4)(a) applies after the expiry of the relevant period but as if the reference to six months beginning with the date of the transaction were a reference to eighteen months beginning with exit day.
+>
+> (6) In sub-paragraph (5)(a), the “relevant period” means the period of twelve months beginning with the day after that on which exit day falls.
+>
+> **20. Continuity of rights in relation to a comparable trade mark (IR)**
+>
+> (1) References to an existing IR(EU), or the international registration to which an existing IR(EU) is subject, in any document made before exit day shall, unless there is evidence that the document was not intended to have effect in the United Kingdom, be read on and after exit day as including references to the comparable trade mark (IR) or the registration of the comparable trade mark (IR) which derives from the existing IR(EU).
+>
+> (2) Subject to any agreement to the contrary, a consent granted before exit day by the proprietor of an existing IR(EU) to the doing on or after exit day of an act in the United Kingdom which would otherwise infringe the comparable trade mark (IR) which derives from the existing IR(EU) is to be treated for the purposes of section 9 as a consent to the doing of that act.
+>
+> **21. Existing IR(EU): pending proceedings**
+>
+> (1) This paragraph applies where on exit day an existing IR(EU) is the subject of proceedings which are pending (“pending proceedings”) before a court in the United Kingdom designated for the purposes of Article 123 of the European Union Trade Mark Regulation (“EU trade mark court”).
+>
+> (2) Subject to sub-paragraphs (3) and (4), the provisions contained or referred to in Chapter 10 of the European Union Trade Mark Regulation (with the exception of Articles 128(2), (4), (6) and (7) and 132) continue to apply to the pending proceedings as if the United Kingdom were still a Member State with effect from exit day.
+>
+> (3) Where the pending proceedings involve a claim for infringement of an existing IR(EU), without prejudice to any other relief by way of damages, accounts or otherwise available to the proprietor of the existing IR(EU), the EU trade mark court may grant an injunction to prohibit unauthorised use of the comparable trade mark (IR) which derives from the existing IR(EU).
+>
+> (4) Where the pending proceedings involve a counterclaim for the revocation of, or a declaration of invalidity in relation to, an existing IR(EU), the EU trade mark court may revoke the registration of the comparable trade mark (IR) which derives from the existing IR(EU) or declare the registration of the comparable trade mark (IR) which derives from the existing IR(EU) to be invalid.
+>
+> (5) Where the grounds for revocation or invalidity exist in respect of only some of the goods or services for which the existing IR(EU) is registered, the revocation or declaration of invalidity in respect of the registration of the comparable trade mark (IR) which derives from the existing IR(EU) relates to those goods or services only.
+>
+> (6) Where (by virtue of sub-paragraph (4)) the registration of a comparable trade mark (IR) is revoked to any extent, the rights of the proprietor are deemed to have ceased to that extent as from—
+>
+> - (a) the date of the counterclaim for revocation, or
+> - (b) if the court is satisfied that the grounds for revocation existed at an earlier date, that date.
+>
+> (7) Where (by virtue of sub-paragraph (4)) the registration of a comparable trade mark (IR) is declared invalid to any extent, the registration is to that extent to be deemed never to have been made, provided that this does not affect transactions past and closed.
+>
+> (8) For the purposes of this paragraph proceedings are treated as pending on exit day if they were instituted but not finally determined before exit day.
+>
+> **22. Existing IR(EU): effect of injunction**
+>
+> (1) This paragraph applies where immediately before exit day an injunction is in force prohibiting the performance of acts in the United Kingdom which infringe or would infringe an existing IR(EU) (a “relevant injunction”).
+>
+> (2) Subject to any order of the court to the contrary, a relevant injunction will have effect and be enforceable to prohibit the performance of acts which infringe or would infringe a comparable trade mark (IR) to the same extent as in relation to the existing IR(EU) from which the comparable trade mark (IR) derives as if it were an injunction granted by the court.
+>
+> **PART 2 — Treatment of international trade marks protected in the European Union which expire during the period of six months ending on exit day**
+>
+> **23. Registration of certain expired international trade marks**
+>
+> (1) This Part applies to an international trade mark which, immediately before the transitional period, was protected in the European Union in accordance with Article 189(2) of the European Union Trade Mark Regulation but which, as a result of the expiry of the registration of the international trade mark during the transitional period, does not fall within paragraph 1(1) (an “expired IR(EU)”).
+>
+> (2) Where the international registration to which an international trade mark is subject has been sub-divided as referred to in paragraph 1(2), there is to be deemed for the purposes of sub-paragraph (1) to be a separate expired trade mark in respect of the goods or services covered by each sub-division of the registration.
+>
+> (3) An expired IR(EU) is to be treated as if it were an existing IR(EU).
+>
+> (4) The provisions of Part 1 of this Schedule apply to an expired IR(EU) as they apply to an existing IR(EU) subject to the provisions of this Part of the Schedule.
+>
+> (5) Notwithstanding the entry in the register (under paragraph 3, as applied by subparagraph (4)) of a comparable trade mark (IR) which derives from an expired IR(EU), the registration of the comparable trade mark (IR) is expired until the proprietor gives notice to the registrar in accordance with paragraph 24(1)(b) (or the comparable trade mark (IR) is removed from the register in accordance with paragraph 24(2)).
+>
+> (6) In this paragraph, “transitional period” means the period of six months ending with exit day.
+>
+> **24. Renewal of an expired IR(EU)**
+>
+> (1) Where within the period beginning with exit day and ending with the end of the relevant period—
+>
+> - (a) the international registration to which an expired IR(EU) is subject is renewed in accordance with Article 7; and
+> - (b) the proprietor of the expired IR(EU) notifies the registrar of such renewal (a “renewal notice”),
+>
+> paragraphs 25 and 26 apply to the renewal of the registration of the comparable trade mark (IR) which derives from the expired IR(EU).
+>
+> (2) If within the period referred to in sub-paragraph (1) the proprietor fails to notify the registrar in accordance with sub-paragraph (1)(b)—
+>
+> - (a) the registrar must remove from the register the comparable trade mark (IR) which derives from the expired IR(EU); and
+> - (b) the comparable trade mark (IR) ceases with effect from exit day to be treated as if it had been registered under this Act.
+>
+> (3) In sub-paragraph (1), the “relevant period” means the period of nine months beginning with the day after that on which exit day falls.
+>
+> **25. Renewal of an expired IR(EU): territorial extension under Article 3 ter(1)**
+>
+> (1) Where the protection in the European Union of an expired IR(EU) resulted from a request for territorial extension under Article 3*ter*(1), the registrar must, as soon as reasonably practicable following receipt of the renewal notice, renew the registration of the comparable trade mark (IR) which derives from the expired IR(EU).
+>
+> (2) A comparable trade mark (IR) which is renewed under sub-paragraph (1) shall be renewed for a period of ten years from the expiry of the international registration to which the expired IR(EU) is subject.
+>
+> (3) Section 43(6) applies to the registration of a comparable trade mark (IR) which is renewed in accordance with this paragraph.
+>
+> **26. Renewal of an expired IR(EU): territorial extension under Article 3 ter(2)**
+>
+> (1) This paragraph applies where the protection in the European Union of an expired IR(EU) resulted from a request for territorial extension under Article 3*ter*(2).
+>
+> (2) The relevant date for the purposes of determining the date of renewal of the registration of the comparable trade mark (IR) which derives from the expired IR(EU) (the “relevant renewal date”) shall be—
+>
+> - (a) the date of expiry of the period of ten years from the date on which the request for territorial extension was recorded in the International Register; or
+> - (b) where the international registration to which the expired IR(EU) is subject has been renewed since the date referred to in paragraph (a), the anniversary of that date, computed by reference to periods of ten years, following the last renewal of the registration prior to the date of the renewal notice (the “notice date”).
+>
+> (3) Where the relevant renewal date of a comparable trade mark (IR) falls prior to the notice date, the registrar must, as soon as reasonably practicable following receipt of a renewal notice, renew the registration of the comparable trade mark (IR) which derives from the expired IR(EU).
+>
+> (4) Where the relevant renewal date of a comparable trade mark (IR) falls before the expiry of the period of six months beginning with the notice date, sub-paragraphs (5) and (6) apply (and accordingly section 43(1) to (3A) does not apply).
+>
+> (5) The registration of the comparable trade mark (IR) may be renewed at the request of the proprietor before the relevant renewal date.
+>
+> (6) Where the registration of the comparable trade mark (IR) is not renewed in accordance with sub-paragraph (5)—
+>
+> - (a) on, or as soon as reasonably practicable after, the relevant renewal date, the registrar must notify the proprietor that the registration of the comparable trade mark (IR) has expired and of the manner in which registration may be renewed; and
+> - (b) a request for renewal must be made within a period of six months beginning with the date of the notice.
+>
+> (7) If a request for renewal is made in respect of only some of the goods or services for which the comparable trade mark (IR) is registered, the registration is to be renewed for those goods or services only.
+>
+> (8) A comparable trade mark (IR) which is renewed under sub-paragraph (3) or pursuant to a request for renewal in accordance with sub-paragraph (5) or (6) shall be renewed for a period of ten years from the relevant renewal date (and accordingly, section 43(4) does not apply).
+>
+> (9) Where sub-paragraphs (5) and (6) apply to the renewal of the registration of a comparable trade mark (IR) and the registration is not renewed in accordance with those provisions, the registrar must remove the comparable trade mark (IR) from the register.
+>
+> (10) Section 43(6) applies to the registration of a comparable trade mark (IR) which is renewed in accordance with this paragraph.
+>
+> (11) Where a comparable trade mark (IR) is removed from the register pursuant to subparagraph (9), the rules relating to the restoration of the registration of a trade mark (referred to in section 43(5)) apply in relation to the restoration of the comparable trade mark (IR) to the register.
+>
+> (12) Where the relevant renewal date of a comparable trade mark (IR) falls on or after the expiry of the period of six months beginning with the notice date, section 43 applies to the renewal of the registration of the comparable trade mark (IR) and references to the expiry of the registration are to be treated as references to the relevant renewal date of the comparable trade mark (IR).
+>
+> **PART 3 — Applications for the extension of protection of international registrations to the European Union which are pending on exit day**
+>
+> **27. Interpretation**
+>
+> (1) In this Part—
+>
+> - (a) references to an “existing ITM application” are to an international application which contains a request for extension of the protection resulting from an international registration to the European Union under Article 3*ter*(1) in respect of which the conditions in sub-paragraph (2) are satisfied;
+> - (b) references to an “existing request for EU extension” are to a request for extension to the European Union of the protection resulting from an international registration made subsequent to the international registration pursuant to Article 3ter(2) in respect of which the conditions in sub-paragraph (3) are satisfied;
+> - (c) references to an “international application” are to an application to the International Bureau under Article 2(2) for the registration of a trade mark in the International Register.
+>
+> (2) The conditions referred to in sub-paragraph (1)(a) are—
+>
+> - (a) the international application was filed before exit day with the Office of origin in accordance with Article 2(2); and
+> - (b) as at the time immediately before exit day, the request for extension of protection to the European Union mentioned in the international application has been neither granted nor refused by the European Union Intellectual Property Office.
+>
+> (3) The conditions referred to in sub-paragraph (1)(b) are—
+>
+> - (a) the request for extension of protection to the European Union was filed before exit day with the Office of origin or the International Bureau (as the case may be) in accordance with Rule 24(2); and
+> - (b) as at the time immediately before exit day, the request for extension of protection to the European Union has been neither granted nor refused by the European Union Intellectual Property Office under the European Union Trade Mark Regulation.
+>
+> (4) In sub-paragraphs (2)(b) and (3)(b) —
+>
+> - (a) the reference to the request for extension of protection to the European Union being “granted” means the European Union Intellectual Property Office having sent to the International Bureau a statement to the effect that protection is granted to the mark in the European Union in accordance with Rule 18*ter*; and
+> - (b) the reference to the request for extension of protection to the European Union being “refused” means the European Union Intellectual Property Office having sent to the International Bureau a notification of refusal in accordance with Article 5(1) or (2) which refusal has not been subsequently withdrawn.
+>
+> **28. Application for registration under this Act based upon an existing ITM application or an existing request for EU extension recorded in the International Register prior to exit day**
+>
+> (1) This paragraph applies where—
+>
+> - (a) either—
+>   - (i) an existing ITM application has been filed with the International Bureau in respect of a trade mark and the date accorded to the international registration of the trade mark pursuant to Article 3(4) is a date prior to exit day; or
+>   - (ii) an existing request for EU extension in respect of a trade mark has been filed with the International Bureau and the date on which it was recorded in the International Register pursuant to Article 3ter(2) is a date prior to exit day;
+> - (b) the person who filed the existing ITM application or (as the case may be) the existing request for EU extension, or a successor in title of that person, applies for registration of the same trade mark under this Act for some or all of the same goods or services, and
+> - (c) the application under this Act is made within a period beginning with exit day and ending with the end of the period referred to in sub-paragraph (4).
+>
+> (2) Where this paragraph applies, the relevant date for the purposes of establishing which rights take precedence is the earliest of—
+>
+> - (a) the date accorded to the international trade mark the subject of the existing ITM application pursuant to Article 3(4) or, in the case of an existing request for EU extension, the date on which the request was recorded in the International Register pursuant to Article 3*ter*(2);
+> - (b) the date of priority (if any) accorded pursuant to a right of priority claimed pursuant to Article 4 of the Paris Convention in respect of the existing ITM application or the existing request for EU extension (as the case may be).
+>
+> (3) The registrability of the trade mark the subject of an application under this Act of the type mentioned in sub-paragraph (1)(b) and made within the period mentioned in subparagraph (1)(c) shall not be affected by any use of the mark in the United Kingdom which commenced in the period between the date referred to in sub-paragraph (2) and the date of the application under this Act.
+>
+> (4) In sub-paragraph (1)(c), the period referred to is the period of nine months beginning with the day after that on which exit day falls.
+>
+> (5) A right of priority claimed pursuant to Article 4 of the Paris Convention in respect of an existing request for EU extension is to be disregarded for the purposes of sub-paragraph (2)(b) unless the existing request for EU extension was recorded in the International Register within a period of six months beginning with the day after the priority date recorded in the International Register in respect of the international application for protection of the trade mark which is the same as the one in respect of which the existing request for EU extension was filed.
+>
+> **29. Application for registration under this Act based upon an existing ITM application or an existing request for EU extension recorded in the International Register on or after exit day**
+>
+> (1) This paragraph applies where—
+>
+> - (a) either—
+>   - (i) an existing ITM application has been filed with the International Bureau in respect of a trade mark and the date accorded to the international registration of the trade mark pursuant to Article 3(4) is a date on or after exit day; or
+>   - (ii) an existing request for EU extension in respect of a trade mark has been filed with the International Bureau and the date on which it was recorded in the International Register pursuant to Article 3ter(2) is a date on or after exit day;
+> - (b) the person who filed the existing ITM application or (as the case may be) the existing request for EU extension, or a successor in title of that person, applies for registration of the same trade mark under this Act for some or all of the same goods or services; and
+> - (c) the application under this Act is made within the period of nine months beginning with the date referred to in sub-paragraph (a)(i) or (ii) (as the case may be).
+>
+> (2) Where this paragraph applies, the relevant date for the purposes of establishing which rights take precedence is the earliest of—
+>
+> - (a) the date accorded to the international trade mark the subject of the existing ITM application pursuant to Article 3(4) or, in the case of an existing request for EU extension, the date on which the request was recorded in the International Register pursuant to Article 3ter(2);
+> - (b) the date of priority (if any) accorded pursuant to a right of priority claimed pursuant to Article 4 of the Paris Convention in respect of the existing ITM application or the existing request for EU extension (as the case may be).
+>
+> (2) The registrability of the trade mark the subject of an application under this Act of the type mentioned in sub-paragraph (1)(b) and made within the period mentioned in subparagraph (1)(c) shall not be affected by any use of the mark in the United Kingdom which commenced in the period between the date referred to in sub-paragraph (2) and the date of the application under this Act.
+>
+> (3) A right of priority claimed pursuant to Article 4 of the Paris Convention in respect of an existing request for EU extension is to be disregarded for the purposes of sub-paragraph (2)(b) unless the existing request for EU extension was recorded in the International Register within a period of six months beginning with the day after the priority date recorded in the International Register in respect of the international application for protection of the trade mark which is the same as the one in respect of which the existing request for EU extension was filed.
+>
+> **30. Right to claim seniority where seniority has been claimed by an existing ITM application or an existing request for EU extension**
+>
+> (1) Where an existing ITM application or an existing request for EU extension claims seniority of a trade mark which trade mark (“the senior mark”) is a registered trade mark or a protected international trade mark (UK), the applicant may claim seniority of the senior mark in an application for registration of a trade mark (a “relevant mark”) pursuant to this Part.
+>
+> (2) The effect of a seniority claim made pursuant to sub-paragraph (1) is that where following the registration of the relevant mark the proprietor of that mark surrenders the senior mark or allows it to lapse (wholly or partially), subject to paragraph 31, the proprietor of the relevant mark is deemed to continue to have the same rights as the proprietor would have had if the senior mark had continued to be registered in respect of all the goods or services for which it was registered prior to the surrender or lapse.
+>
+> (3) Provision may be made by rules as to the manner of claiming seniority pursuant to this paragraph.
+>
+> (4) In sub-paragraph (1), an application for registration of a trade mark “pursuant to this Part” means an application that is of the type mentioned in paragraph 28(1)(b) or 29(1)(b) and that is made within the period mentioned in paragraph 28(1)(c) or 29(1)(c) (as the case may be).
+>
+> **31. Determination of invalidity and liability to revocation in relation to claim of seniority under paragraph 30**
+>
+> (1) Where a relevant mark has claimed seniority of a registered trade mark which has been—
+>
+> - (a) removed from the register under section 43; or
+> - (b) surrendered under section 45,
+>
+> any person may apply to the registrar or to the court for the declaration set out in subparagraph (2).
+>
+> (2) The declaration is that, if the trade mark had not been so removed or surrendered, the registration of the trade mark would have been liable to be revoked under section 46 with effect from a date specified in the declaration or declared invalid under section 47.
+>
+> (3) Where the declaration is that had the trade mark not been so removed or surrendered, the registration of it would have been liable to be—
+>
+> - (a) revoked under section 46 with effect from a date prior to—
+>   - (i) where the application for registration of the relevant mark was based on an existing ITM application and there has been no claim of priority, the date of registration accorded pursuant to Article 3(4) to the international trade mark the subject of the existing ITM application;
+>   - (ii) where the application for registration of the relevant mark was based on an existing request for EU extension and there has been no claim of priority, the date on which the request was recorded in the International Register pursuant to Article 3*ter*(2);
+>   - (iii) where the application for registration of the relevant mark was based on an existing ITM application or an existing request for EU extension and there has been a claim of priority, the priority date accorded pursuant to a right of priority claimed pursuant to Article 4 of the Paris Convention; or
+> - (b) declared invalid under section 47,
+>
+> the seniority claimed for the relevant mark is to be treated as if it never had effect.
+>
+> (4) Where a relevant mark has claimed seniority of a protected international trade mark (UK) which has been—
+>
+> - (a) removed from the International Register; or
+> - (b) surrendered under the Madrid Protocol,
+>
+> any person may apply to the registrar or to the court for the declaration set out in subparagraph (5).
+>
+> (5) The declaration is that, if the trade mark had not been so removed or surrendered, the protection of the trade mark in the United Kingdom would have been liable to be revoked under section 46 with effect from a date specified in the declaration or declared invalid under section 47.
+>
+> (6) Where the declaration is that had the trade mark not been so removed or surrendered, the registration of it would have been liable to be—
+>
+> - (a) revoked under section 46 with effect from a date prior to—
+>   - (i) where the application for registration of the relevant mark was based on an existing ITM application and there has been no claim of priority, the date of registration accorded pursuant to Article 3(4) to the international trade mark the subject of the existing ITM application;
+>   - (ii) where the application for registration of the relevant mark was based on an existing request for EU extension and there has been no claim of priority, the date on which the request was recorded in the International Register pursuant to Article 3ter(2);
+>   - (iii) where the application for registration of the relevant mark was based on an existing ITM application or an existing request for EU extension and there has been a claim of priority, the priority date accorded pursuant to a right of priority claimed pursuant to Article 4 of the Paris Convention; or
+> - (b) declared invalid under section 47,
+>
+> the seniority claimed for the relevant mark is to be treated as if it never had effect.
+>
+> (7) Where the application for registration of the relevant mark was based on an existing request for EU extension a right of priority claimed pursuant to Article 35 of the European Union Trade Mark Regulation in respect of the request for EU extension is to be disregarded for the purposes of sub-paragraphs (3)(a)(iii) and (6)(a)(iii) unless the request for territorial extension was recorded in the International Register within a period of six months beginning with the day after the priority date recorded in the International Register in respect of the international application for protection of the trade mark which is the same as the one in respect of which the request for EU extension was filed.
+>
+> (8) References in sub-paragraphs (5) and (6) to sections 46 and 47 are to those sections as they apply to a protected international trade mark (UK) under an order made pursuant to section 54.
+>
+> (9) Where a trade mark has been surrendered or allowed to lapse in respect of only some of the goods or services for which it is registered, the declaration in sub-paragraphs (2) and (5) is that if the goods or services had not been removed from the registration, the registration of the trade mark would have been liable to be revoked under section 46 with effect from a date specified in the declaration or declared invalid under section 47 and subparagraphs (3) and (6) shall be construed accordingly.
+>
+> (10) The provisions of paragraph 16 apply in relation to an application under this paragraph as they apply to an application under paragraph 15.
+>
+> **PART 4 — Transformation applications which are pending on exit day**
+>
+> **32. Transformation applications**
+>
+> (1) In this Part, references to a “transformation application” are to an application for transformation of an international registration which has been cancelled (a “cancelled international registration”) into an application for registration of a European Union trade mark filed under Article 204 of the European Union Trade Mark Regulation in respect of which the conditions in sub-paragraph (2) are satisfied.
+>
+> (2) The conditions referred to in sub-paragraph (1) are—
+>
+> - (a) the transformation application was filed before exit day with the European Union Intellectual Property Office;
+> - (b) as at the time immediately before exit day the transformation application has neither been granted nor refused by the European Union Intellectual Property Office under the European Union Trade Mark Regulation; and
+> - (c) the international registration was not cancelled at the request of the Patent Office as Office of origin for the international registration of the trade mark.
+>
+> (3) In sub-paragraph (2)(b)—
+>
+> - (a) the reference to the transformation application being “granted” means a European Union trade mark being registered under the European Union Trade Mark Regulation pursuant to the transformation application; and
+> - (b) the reference to the transformation application being “refused” means the transformation application being subject to the provisions in Article 204(5) of the European Union Trade Mark Regulation.
+>
+> **33. Application for registration based upon a cancelled international registration**
+>
+> (1) This paragraph applies where—
+>
+> - (a) a person who has filed a transformation application in respect of a cancelled international registration, or a successor in title of that person, applies for registration under this Act of a trade mark which is the same as the trade mark which was the subject of the cancelled international registration and in respect of some or all of the same goods or services included in the international registration;
+> - (b) the application for registration under this Act is made within the period beginning with exit day and ending with the end of the relevant period; and
+> - (c) on or before the date of the transformation application on which the application for registration under this Act is based the trade mark that was the subject of the cancelled international registration—
+>   - (i) was protected in the European Union in accordance with Article 189(2) of the European Union Trade Mark Regulation; or
+>   - (ii) was the subject of an existing ITM application or an existing request for EU extension which, as at that date, had neither been granted nor refused by the European Union Intellectual Property Office (the references to “granted” and “refused” having the same meaning as given by paragraph 27(4)).
+>
+> (2) Where this paragraph applies by virtue of sub-paragraph (1)(c)(i), the relevant date for the purposes of establishing which rights take precedence is the earliest of—
+>
+> - (a) where—
+>   - (i) the protection in the European Union of the trade mark that was the subject of the cancelled international registration resulted from a request for territorial extension under Article 3*ter*(1), the date of registration accorded to the international registration pursuant to Article 3(4); or
+>   - (ii) the protection in the European Union of the trade mark that was the subject of the cancelled international registration resulted from a request for territorial extension under Article 3*ter*(2), the date on which the request was recorded in the International Register; and
+> - (b) the date of priority (if any) accorded pursuant to a right of priority claimed pursuant to Article 4 of the Paris Convention in respect of the request referred to in paragraph (a)(i) or (ii).
+>
+> (3) Where this paragraph applies by virtue of sub-paragraph (1)(c)(ii), the relevant date for the purposes of establishing which rights take precedence is the earliest of—
+>
+> - (a) the date accorded to the trade mark that was the subject of the existing ITM application pursuant to Article 3(4) or, in the case of an existing request for EU extension, the date on which the request was recorded in the International Register pursuant to Article 3*ter*(2); and
+> - (b) the date of priority (if any) accorded pursuant to a right of priority claimed pursuant to Article 4 of the Paris Convention in respect of the request referred to in paragraph (a).
+>
+> (4) A right of priority claimed pursuant to Article 4 of the Paris Convention in respect of a request for territorial extension to the European Union made under Article 3*ter*(2) is to be disregarded for the purposes of sub-paragraphs (2)(b) and (3)(b) unless the request for extension was recorded in the International Register within a period of six months beginning with the day after the priority date recorded in the International Register in respect of the international application for protection of the trade mark which is the same as the one in respect of which the request for extension was filed.
+>
+> (5) The registrability of the trade mark the subject of an application under this Act of the type mentioned in sub-paragraph (1)(a) and made within the period mentioned in subparagraph (1)(b) shall not be affected by any use of the mark in the United Kingdom which commenced in the period between the date referred to in sub-paragraph (2) or (3) (as the case may be) and the date of the application for registration of the trade mark under this Act.
+>
+> (6) Paragraphs 30 and 31 apply in relation to an application for a trade mark under this Act of the type mentioned in sub-paragraph (1)(a) and made within the period mentioned in sub-paragraph (1)(b), as they apply in relation to an application for registration of a trade mark pursuant to Part 3, but as if—
+>
+> - (a) the references to an existing ITM application or an existing request for EU extension and an existing ITM application and an existing request for EU extension had the same meaning as they have in this paragraph; and
+> - (b) the references to an existing ITM application included references to a “protected EU designation”.
+>
+> (7) In this paragraph—
+>
+> - (a) an “existing ITM application” means an international application which contains a request for extension of the protection resulting from an international registration to the European Union under Article 3*ter*(1) which has been filed with the Office of origin in accordance with Article 2(2);
+> - (b) an “existing request for EU extension” means a request for extension to the European Union of the protection resulting from an international registration made subsequent to the international registration pursuant to Article 3ter(2) which has been filed with the Office of origin or the International Bureau (as the case may be) in accordance with Rule 24(2);
+> - (c) the “relevant period” means the period of nine months beginning with the day after that on which exit day falls;
+> - (d) a “protected EU designation” means an international registration which prior to its cancellation was protected in the European Union in accordance with Article 189(2) of the European Union Trade Mark Regulation.
+>
+> **PART 5 — Interpretation**
+>
+> **34. Interpretation**
+>
+> (1) In this Schedule—
+>
+> - “comparable trade mark (IR)” has the meaning given by paragraph 1(4);
+> - “the Common Regulations” means the Common Regulations under the Madrid Agreement concerning the international registration of marks and the Madrid Protocol in force on 1st November 2017(a);
+> - “corresponding (IR)” has the meaning given by paragraph 3(4);
+> - “existing IR(EU)” has the meaning given by paragraph 1(1);
+> - “expired IR(EU)” has the meaning given by paragraph 23(1);
+> - “international application” has the meaning given by paragraph 27(1)(c);
+> - “the International Register” has the meaning given by paragraph 1(11)(a);
+> - “international registration” has the meaning given by paragraph 1(11)(b);
+> - “international trade mark” has the meaning given by paragraph 1(11)(c);
+> - “Office of origin” has the meaning given by Article 2(2);
+> - “the previous EUTM Regulations” means Council Regulation [(EC) No 207/2009](https://www.legislation.gov.uk/european/regulation/2009/0207) of 26th February 2009 on the European Union trade mark(a) and Council Regulation [(EC) No 40/94](https://www.legislation.gov.uk/european/regulation/1994/0040) of 20th December 1993 on the Community trade mark(b);
+> - “protected international trade mark (UK)” has the same meaning as in the Trade Marks (International Registration) Order 2008(c);
+>
+> (2) References in this Schedule to—
+>
+> - (a) an “Article” are to an Article of the Madrid Protocol;
+> - (b) an Article of the European Union Trade mark Regulation include references to any equivalent Article contained in the previous EUTM Regulations;
+> - (c) the European Union Trade Mark Regulation include references to the previous EUTM Regulations;
+> - (d) an international trade mark include references to an international trade mark which is dealt with for the purposes of the European Union Trade Mark Regulation as an EU collective mark or an EU certification mark;
+> - (e) a “Rule” are to a Rule of the Common Regulations.
+>
+> (3) In this Schedule, references to a request for territorial extension, in relation to an existing IR(EU) which is the subject of a separate international registration within the meaning of paragraph 1(3), are to the request made before the separate international registration was created.
+
+.
+
+## Annotations
+
+[^key-cb49d70ef40e5ddc7dc6d562af781420]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/1) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2601/article/1)
+
+[^key-bca1d62d55e6e5bce717dbc032f1a139]: Textual amendment: [Sch. para. 1A](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/1A) inserted (14.1.2019) by [The Trade Marks (Isle of Man) (Amendment) Order 2018 (S.I. 2018/1157)](https://www.legislation.gov.uk/uksi/2018/1157), [art. 1](https://www.legislation.gov.uk/uksi/2018/1157/article/1), [Sch. para. 2](https://www.legislation.gov.uk/uksi/2018/1157/schedule/paragraph/2)
+
+[^key-33aab7fa50cb798c454e8876e5f25010]: Textual amendment: [Sch. para. 2](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/2) substituted (14.1.2019) by [The Trade Marks (Isle of Man) (Amendment) Order 2018 (S.I. 2018/1157)](https://www.legislation.gov.uk/uksi/2018/1157), [art. 1](https://www.legislation.gov.uk/uksi/2018/1157/article/1), [Sch. para. 3](https://www.legislation.gov.uk/uksi/2018/1157/schedule/paragraph/3)
+
+[^key-c111cc8cc22f7e26f76ebe7d07de6e7c]: Textual amendment: [Sch. para. 2(3)](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/2/3) substituted (31.12.2020) by [The Registered Designs and Trade Marks (Isle of Man) (Amendment) (EU Exit) Order 2019 (S.I. 2019/1335)](https://www.legislation.gov.uk/uksi/2019/1335), [art. 1](https://www.legislation.gov.uk/uksi/2019/1335/article/1), [Sch. 2 para. 2(a)](https://www.legislation.gov.uk/uksi/2019/1335/schedule/2/paragraph/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-3bfd23d948e72aea9af574b376948b12]: Textual amendment: Word in [Sch. para. 2(4)](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/2/4) inserted (31.12.2020) by [The Registered Designs and Trade Marks (Isle of Man) (Amendment) (EU Exit) Order 2019 (S.I. 2019/1335)](https://www.legislation.gov.uk/uksi/2019/1335), [art. 1](https://www.legislation.gov.uk/uksi/2019/1335/article/1), [Sch. 2 para. 2(b)(i)(aa)](https://www.legislation.gov.uk/uksi/2019/1335/schedule/2/paragraph/2/b/aa); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-6b500ecfa74dbf2722a0425a8a086110]: Textual amendment: Words in [Sch. para. 2(4)](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/2/4) omitted (31.12.2020) by virtue of [The Registered Designs and Trade Marks (Isle of Man) (Amendment) (EU Exit) Order 2019 (S.I. 2019/1335)](https://www.legislation.gov.uk/uksi/2019/1335), [art. 1](https://www.legislation.gov.uk/uksi/2019/1335/article/1), [Sch. 2 para. 2(b)(i)(bb)](https://www.legislation.gov.uk/uksi/2019/1335/schedule/2/paragraph/2/b/bb); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-051adc242ddb560776ae5dbdfac2d741]: Textual amendment: Words in [Sch. para. 2(4)](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/2/4) omitted (31.12.2020) by virtue of [The Registered Designs and Trade Marks (Isle of Man) (Amendment) (EU Exit) Order 2019 (S.I. 2019/1335)](https://www.legislation.gov.uk/uksi/2019/1335), [art. 1](https://www.legislation.gov.uk/uksi/2019/1335/article/1), [Sch. 2 para. 2(b)(i)(cc)](https://www.legislation.gov.uk/uksi/2019/1335/schedule/2/paragraph/2/b/cc); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-17149709afca059e97d35919796f1cd5]: Textual amendment: Words in [Sch. para. 2(4)](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/2/4) omitted (31.12.2020) by virtue of [The Registered Designs and Trade Marks (Isle of Man) (Amendment) (EU Exit) Order 2019 (S.I. 2019/1335)](https://www.legislation.gov.uk/uksi/2019/1335), [art. 1](https://www.legislation.gov.uk/uksi/2019/1335/article/1), [Sch. 2 para. 2(b)(ii)](https://www.legislation.gov.uk/uksi/2019/1335/schedule/2/paragraph/2/b/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-fc1a250e5b6e49002be9267b0ceb4b93]: Textual amendment: Word in [Sch. para. 2(4)](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/2/4) inserted (31.12.2020) by [The Registered Designs and Trade Marks (Isle of Man) (Amendment) (EU Exit) Order 2019 (S.I. 2019/1335)](https://www.legislation.gov.uk/uksi/2019/1335), [art. 1](https://www.legislation.gov.uk/uksi/2019/1335/article/1), [Sch. 2 para. 2(b)(iii)(aa)](https://www.legislation.gov.uk/uksi/2019/1335/schedule/2/paragraph/2/b/aa); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-14b2d48b1d61b7ccfb362307ee64a798]: Textual amendment: Words in [Sch. para. 2(4)](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/2/4) omitted (31.12.2020) by virtue of [The Registered Designs and Trade Marks (Isle of Man) (Amendment) (EU Exit) Order 2019 (S.I. 2019/1335)](https://www.legislation.gov.uk/uksi/2019/1335), [art. 1](https://www.legislation.gov.uk/uksi/2019/1335/article/1), [Sch. 2 para. 2(b)(iii)(bb)](https://www.legislation.gov.uk/uksi/2019/1335/schedule/2/paragraph/2/b/bb); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-1c2fd0584f0ada9622df4c413bf1c925]: Textual amendment: Words in [Sch. para. 2(4)](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/2/4) omitted (31.12.2020) by virtue of [The Registered Designs and Trade Marks (Isle of Man) (Amendment) (EU Exit) Order 2019 (S.I. 2019/1335)](https://www.legislation.gov.uk/uksi/2019/1335), [art. 1](https://www.legislation.gov.uk/uksi/2019/1335/article/1), [Sch. 2 para. 2(b)(iii)(cc)](https://www.legislation.gov.uk/uksi/2019/1335/schedule/2/paragraph/2/b/cc); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-ee4c7c17d9998988d0f16a3193233fcb]: Textual amendment: Sch. paras. 3, 3A substituted for Sch. para. 3 (14.1.2019) by [The Trade Marks (Isle of Man) (Amendment) Order 2018 (S.I. 2018/1157)](https://www.legislation.gov.uk/uksi/2018/1157), [art. 1](https://www.legislation.gov.uk/uksi/2018/1157/article/1), [Sch. para. 4](https://www.legislation.gov.uk/uksi/2018/1157/schedule/paragraph/4)
+
+[^key-2a08f8d85973a99ca048aaea8b056e43]: Textual amendment: [Sch. para. 3(2)(b)](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/3/2/b) substituted for [Sch.](https://www.legislation.gov.uk/uksi/2013/2601/schedule) [para. 3(2)(b)(c)](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/3/2/b) (31.12.2020) by [The Registered Designs and Trade Marks (Isle of Man) (Amendment) (EU Exit) Order 2019 (S.I. 2019/1335)](https://www.legislation.gov.uk/uksi/2019/1335), [art. 1](https://www.legislation.gov.uk/uksi/2019/1335/article/1), [Sch. 2 para. 3(a)](https://www.legislation.gov.uk/uksi/2019/1335/schedule/2/paragraph/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-b2ec7ae118440e65262bac1949be13a4]: Textual amendment: Words in [Sch. para. 3(5)](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/3/5) omitted (31.12.2020) by virtue of [The Registered Designs and Trade Marks (Isle of Man) (Amendment) (EU Exit) Order 2019 (S.I. 2019/1335)](https://www.legislation.gov.uk/uksi/2019/1335), [art. 1](https://www.legislation.gov.uk/uksi/2019/1335/article/1), [Sch. 2 para. 3(b)](https://www.legislation.gov.uk/uksi/2019/1335/schedule/2/paragraph/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-d749b5b10d70b2d362558de3cd9a7b35]: Textual amendment: [Sch. para. 4](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/4) substituted (14.1.2019) by [The Trade Marks (Isle of Man) (Amendment) Order 2018 (S.I. 2018/1157)](https://www.legislation.gov.uk/uksi/2018/1157), [art. 1](https://www.legislation.gov.uk/uksi/2018/1157/article/1), [Sch. para. 5](https://www.legislation.gov.uk/uksi/2018/1157/schedule/paragraph/5)
+
+[^key-cbcf791561ff32fa797993c0220a7232]: Textual amendment: [Sch. para. 4(2)(a)](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/4/2/a) substituted (31.12.2020) by [The Registered Designs and Trade Marks (Isle of Man) (Amendment) (EU Exit) Order 2019 (S.I. 2019/1335)](https://www.legislation.gov.uk/uksi/2019/1335), [art. 1](https://www.legislation.gov.uk/uksi/2019/1335/article/1), [Sch. 2 para. 4(a)](https://www.legislation.gov.uk/uksi/2019/1335/schedule/2/paragraph/4/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-79102667b82b6fdda0a14cb15ffb8da4]: Textual amendment: [Sch. para. 4(2)(aa)](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/4/2/aa) inserted (31.12.2020) by [The Registered Designs and Trade Marks (Isle of Man) (Amendment) (EU Exit) Order 2019 (S.I. 2019/1335)](https://www.legislation.gov.uk/uksi/2019/1335), [art. 1](https://www.legislation.gov.uk/uksi/2019/1335/article/1), [Sch. 2 para. 4(b)](https://www.legislation.gov.uk/uksi/2019/1335/schedule/2/paragraph/4/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-0bfc5a2406c1960a351e5d14b29ed7e6]: Textual amendment: Words in [Sch. para. 4(2)(b)](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/4/2/b) omitted (31.12.2020) by virtue of [The Registered Designs and Trade Marks (Isle of Man) (Amendment) (EU Exit) Order 2019 (S.I. 2019/1335)](https://www.legislation.gov.uk/uksi/2019/1335), [art. 1](https://www.legislation.gov.uk/uksi/2019/1335/article/1), [Sch. 2 para. 4(c)(i)](https://www.legislation.gov.uk/uksi/2019/1335/schedule/2/paragraph/4/c/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-1e45fe318163f05b0574e6980a73b9ef]: Textual amendment: Words in [Sch. para. 4(2)(b)](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/4/2/b) inserted (31.12.2020) by [The Registered Designs and Trade Marks (Isle of Man) (Amendment) (EU Exit) Order 2019 (S.I. 2019/1335)](https://www.legislation.gov.uk/uksi/2019/1335), [art. 1](https://www.legislation.gov.uk/uksi/2019/1335/article/1), [Sch. 2 para. 4(c)(ii)(aa)](https://www.legislation.gov.uk/uksi/2019/1335/schedule/2/paragraph/4/c/aa); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-4b90fc171eab899baf5ec90f73750b55]: Textual amendment: Words in [Sch. para. 4(2)(b)](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/4/2/b) substituted (31.12.2020) by [The Registered Designs and Trade Marks (Isle of Man) (Amendment) (EU Exit) Order 2019 (S.I. 2019/1335)](https://www.legislation.gov.uk/uksi/2019/1335), [art. 1](https://www.legislation.gov.uk/uksi/2019/1335/article/1), [Sch. 2 para. 4(c)(ii)(bb)](https://www.legislation.gov.uk/uksi/2019/1335/schedule/2/paragraph/4/c/bb); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-6cd8ac3dd2b1b7af7945cf6d767716f7]: Textual amendment: [Sch. para. 4(2A)-(2C)](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/4/2A) inserted (31.12.2020) by [The Registered Designs and Trade Marks (Isle of Man) (Amendment) (EU Exit) Order 2019 (S.I. 2019/1335)](https://www.legislation.gov.uk/uksi/2019/1335), [art. 1](https://www.legislation.gov.uk/uksi/2019/1335/article/1), [Sch. 2 para. 4(d)](https://www.legislation.gov.uk/uksi/2019/1335/schedule/2/paragraph/4/d); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-35f3e21f13492af07282e4742ce41e3c]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/5) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2601/article/1)
+
+[^key-aba8f06e8b127d6cc8902888002e8369]: Textual amendment: Words in [Sch. para. 5](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/5) substituted (14.1.2019) by [The Trade Marks (Isle of Man) (Amendment) Order 2018 (S.I. 2018/1157)](https://www.legislation.gov.uk/uksi/2018/1157), [art. 1](https://www.legislation.gov.uk/uksi/2018/1157/article/1), [Sch. para. 6(2)(a)](https://www.legislation.gov.uk/uksi/2018/1157/schedule/paragraph/6/2/a)
+
+[^key-4b99957e3ef7397b11c3f9e5246ea39d]: Textual amendment: Words in [Sch. para. 5](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/5) inserted (14.1.2019) by [The Trade Marks (Isle of Man) (Amendment) Order 2018 (S.I. 2018/1157)](https://www.legislation.gov.uk/uksi/2018/1157), [art. 1](https://www.legislation.gov.uk/uksi/2018/1157/article/1), [Sch. para. 6(2)(b)](https://www.legislation.gov.uk/uksi/2018/1157/schedule/paragraph/6/2/b)
+
+[^key-ded902d690497b9e248ed2e1596321e5]: Textual amendment: Words in [Sch. para. 5](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/5) substituted (14.1.2019) by [The Trade Marks (Isle of Man) (Amendment) Order 2018 (S.I. 2018/1157)](https://www.legislation.gov.uk/uksi/2018/1157), [art. 1](https://www.legislation.gov.uk/uksi/2018/1157/article/1), [Sch. para. 6(2)(c)](https://www.legislation.gov.uk/uksi/2018/1157/schedule/paragraph/6/2/c)
+
+[^key-cf6b378e768aafa93513c2716c1056db]: Textual amendment: Words in [Sch. para. 5](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/5) inserted (14.1.2019) by [The Trade Marks (Isle of Man) (Amendment) Order 2018 (S.I. 2018/1157)](https://www.legislation.gov.uk/uksi/2018/1157), [art. 1](https://www.legislation.gov.uk/uksi/2018/1157/article/1), [Sch. para. 6(2)(d)(i)](https://www.legislation.gov.uk/uksi/2018/1157/schedule/paragraph/6/2/d/i)
+
+[^key-846a52b8f7b9fc2ca2e412f38bf664df]: Textual amendment: Words in [Sch. para. 5](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/5) inserted (14.1.2019) by [The Trade Marks (Isle of Man) (Amendment) Order 2018 (S.I. 2018/1157)](https://www.legislation.gov.uk/uksi/2018/1157), [art. 1](https://www.legislation.gov.uk/uksi/2018/1157/article/1), [Sch. para. 6(2)(d)(ii)](https://www.legislation.gov.uk/uksi/2018/1157/schedule/paragraph/6/2/d/ii)
+
+[^key-554ea65d7671dd864da9f7110aca75a7]: Textual amendment: Words in [Sch. para. 5](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/5) substituted (14.1.2019) by [The Trade Marks (Isle of Man) (Amendment) Order 2018 (S.I. 2018/1157)](https://www.legislation.gov.uk/uksi/2018/1157), [art. 1](https://www.legislation.gov.uk/uksi/2018/1157/article/1), [Sch. para. 6(2)(e)](https://www.legislation.gov.uk/uksi/2018/1157/schedule/paragraph/6/2/e)
+
+[^key-55c41c26b45f637f3d811900def43a4c]: Textual amendment: Words in [Sch. para. 5](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/5) inserted (14.1.2019) by [The Trade Marks (Isle of Man) (Amendment) Order 2018 (S.I. 2018/1157)](https://www.legislation.gov.uk/uksi/2018/1157), [art. 1](https://www.legislation.gov.uk/uksi/2018/1157/article/1), [Sch. para. 6(2)(f)](https://www.legislation.gov.uk/uksi/2018/1157/schedule/paragraph/6/2/f)
+
+[^key-0d5774bb22d67a54ac7e182aab2a296b]: Textual amendment: [Sch. paras. 5A](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/5A), [5B](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/5B) inserted (14.1.2019) by [The Trade Marks (Isle of Man) (Amendment) Order 2018 (S.I. 2018/1157)](https://www.legislation.gov.uk/uksi/2018/1157), [art. 1](https://www.legislation.gov.uk/uksi/2018/1157/article/1), [Sch. para. 7](https://www.legislation.gov.uk/uksi/2018/1157/schedule/paragraph/7)
+
+[^key-54ee22b36859353b7bba0950b398826b]: Textual amendment: [Sch. paras. 6-6C](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/6) substituted for [Sch.](https://www.legislation.gov.uk/uksi/2013/2601/schedule) [para. 6](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/6) (14.1.2019) by [The Trade Marks (Isle of Man) (Amendment) Order 2018 (S.I. 2018/1157)](https://www.legislation.gov.uk/uksi/2018/1157), [art. 1](https://www.legislation.gov.uk/uksi/2018/1157/article/1), [Sch. para. 8](https://www.legislation.gov.uk/uksi/2018/1157/schedule/paragraph/8)
+
+[^key-fd2d93509e6a40f9f2f269d89b3e3861]: Textual amendment: Words in [Sch. para. 6A](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/6A) substituted (31.12.2020) by [The Registered Designs and Trade Marks (Isle of Man) (Amendment) (EU Exit) Order 2019 (S.I. 2019/1335)](https://www.legislation.gov.uk/uksi/2019/1335), [art. 1](https://www.legislation.gov.uk/uksi/2019/1335/article/1), [Sch. 2 para. 6(a)](https://www.legislation.gov.uk/uksi/2019/1335/schedule/2/paragraph/6/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-6ab216fb5511b0cba34765b904b9a582]: Textual amendment: Words in [Sch. para. 6A](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/6A) inserted (31.12.2020) by [The Registered Designs and Trade Marks (Isle of Man) (Amendment) (EU Exit) Order 2019 (S.I. 2019/1335)](https://www.legislation.gov.uk/uksi/2019/1335), [art. 1](https://www.legislation.gov.uk/uksi/2019/1335/article/1), [Sch. 2 para. 6(b)](https://www.legislation.gov.uk/uksi/2019/1335/schedule/2/paragraph/6/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-1c9e3913601b295a91fbe0120a90fe98]: Textual amendment: Words in [Sch. para. 6B](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/6B) omitted (31.12.2020) by virtue of [The Registered Designs and Trade Marks (Isle of Man) (Amendment) (EU Exit) Order 2019 (S.I. 2019/1335)](https://www.legislation.gov.uk/uksi/2019/1335), [art. 1](https://www.legislation.gov.uk/uksi/2019/1335/article/1), [Sch. 2 para. 7(a)](https://www.legislation.gov.uk/uksi/2019/1335/schedule/2/paragraph/7/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-69b8c15024b7368f9cc5edb328f104fb]: Textual amendment: Words in [Sch. para. 6B](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/6B) omitted (31.12.2020) by virtue of [The Registered Designs and Trade Marks (Isle of Man) (Amendment) (EU Exit) Order 2019 (S.I. 2019/1335)](https://www.legislation.gov.uk/uksi/2019/1335), [art. 1](https://www.legislation.gov.uk/uksi/2019/1335/article/1), [Sch. 2 para. 7(b)](https://www.legislation.gov.uk/uksi/2019/1335/schedule/2/paragraph/7/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-eb4c203e845e76a2e5a59e66778a4d46]: Textual amendment: [Sch. para. 6D](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/6D) inserted (31.12.2020) by [The Registered Designs and Trade Marks (Isle of Man) (Amendment) (EU Exit) Order 2019 (S.I. 2019/1335)](https://www.legislation.gov.uk/uksi/2019/1335), [art. 1](https://www.legislation.gov.uk/uksi/2019/1335/article/1), [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2019/1335/schedule/2/paragraph/8); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-9a5d847bc5a8c45775881fc55110f747]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/7) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2601/article/1)
+
+[^key-9ac606e48b89733f6607d98dd6f90039]: Textual amendment: [Sch. para. 8](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/8) substituted (31.12.2020) by [The Registered Designs and Trade Marks (Isle of Man) (Amendment) (EU Exit) Order 2019 (S.I. 2019/1335)](https://www.legislation.gov.uk/uksi/2019/1335), [art. 1](https://www.legislation.gov.uk/uksi/2019/1335/article/1), [Sch. 2 para. 9](https://www.legislation.gov.uk/uksi/2019/1335/schedule/2/paragraph/9); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-de7d0f2635bed2bebdb5c6341830628b]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/9) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2601/article/1)
+
+[^f00005]: Footnote: [1984 c.18](https://www.legislation.gov.uk/ukpga/1984/18) (Isle of Man).
+
+[^key-f78cf9f5b8a08cf454a48990b4415b73]: Commencement: [Sch. para. 10](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/10) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2601/article/1)
+
+[^key-9c69b57175a86daa6777932a9997fe0a]: Textual amendment: Words in [Sch. para. 10](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/10) omitted (31.12.2020) by virtue of [The Registered Designs and Trade Marks (Isle of Man) (Amendment) (EU Exit) Order 2019 (S.I. 2019/1335)](https://www.legislation.gov.uk/uksi/2019/1335), [art. 1](https://www.legislation.gov.uk/uksi/2019/1335/article/1), [Sch. 2 para. 10](https://www.legislation.gov.uk/uksi/2019/1335/schedule/2/paragraph/10); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^f00006]: Footnote: [1949 c.88](https://www.legislation.gov.uk/ukpga/1949/88). Section 24D is inserted in the Registered Designs Act 1949, as that Act has effect in the Isle of Man, by the Registered Designs (Isle of Man) Order 2013 ([S.I. 2013/1234](https://www.legislation.gov.uk/uksi/2013/1234)) Schedule 1 paragraph 28.
+
+[^f00007]: Footnote: [1991 c.8](https://www.legislation.gov.uk/ukpga/1991/8) (Isle of Man).
+
+[^f00008]: Footnote: [1991 c.9](https://www.legislation.gov.uk/ukpga/1991/9) (Isle of Man).
+
+[^f00009]: Footnote: [1996 c.12](https://www.legislation.gov.uk/ukpga/1996/12) (Isle of Man).
+
+[^key-95d9b1a61ea05b033cb4f3468c1a6b95]: Textual amendment: [Sch. para. 10A](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/10A) inserted (14.1.2019) by [The Trade Marks (Isle of Man) (Amendment) Order 2018 (S.I. 2018/1157)](https://www.legislation.gov.uk/uksi/2018/1157), [art. 1](https://www.legislation.gov.uk/uksi/2018/1157/article/1), [Sch. para. 9](https://www.legislation.gov.uk/uksi/2018/1157/schedule/paragraph/9)
+
+[^key-185272e7ab11cc51427bda00e75c4a80]: Commencement: [Sch. para. 11](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/11) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2601/article/1)
+
+[^key-071f089c288cf6bebfd39321d1374980]: Textual amendment: [Sch. paras. 11A-11E](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/11A) inserted (14.1.2019) by [The Trade Marks (Isle of Man) (Amendment) Order 2018 (S.I. 2018/1157)](https://www.legislation.gov.uk/uksi/2018/1157), [art. 1](https://www.legislation.gov.uk/uksi/2018/1157/article/1), [Sch. para. 10](https://www.legislation.gov.uk/uksi/2018/1157/schedule/paragraph/10)
+
+[^key-91f68604ddc70443d2d9710e28dd2902]: Commencement: [Sch. para. 12](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/12) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2601/article/1)
+
+[^key-b29a15bf20474a526875afb2a3d6ab86]: Textual amendment: [Sch. paras. 12A-12C](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/12A) inserted (14.1.2019) by [The Trade Marks (Isle of Man) (Amendment) Order 2018 (S.I. 2018/1157)](https://www.legislation.gov.uk/uksi/2018/1157), [art. 1](https://www.legislation.gov.uk/uksi/2018/1157/article/1), [Sch. para. 11](https://www.legislation.gov.uk/uksi/2018/1157/schedule/paragraph/11)
+
+[^key-3964d932e330e0868b7a0cc2290c2c9b]: Textual amendment: [Sch. paras. 13-13D](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/13) substituted for [Sch.](https://www.legislation.gov.uk/uksi/2013/2601/schedule) [para. 13](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/13) (14.1.2019) by [The Trade Marks (Isle of Man) (Amendment) Order 2018 (S.I. 2018/1157)](https://www.legislation.gov.uk/uksi/2018/1157), [art. 1](https://www.legislation.gov.uk/uksi/2018/1157/article/1), [Sch. para. 12](https://www.legislation.gov.uk/uksi/2018/1157/schedule/paragraph/12)
+
+[^key-6b45332765084ce0f4d65c4068a62751]: Textual amendment: Words in [Sch. para. 13(3)](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/13/3) omitted (31.12.2020) by virtue of [The Registered Designs and Trade Marks (Isle of Man) (Amendment) (EU Exit) Order 2019 (S.I. 2019/1335)](https://www.legislation.gov.uk/uksi/2019/1335), [art. 1](https://www.legislation.gov.uk/uksi/2019/1335/article/1), [Sch. 2 para. 11](https://www.legislation.gov.uk/uksi/2019/1335/schedule/2/paragraph/11); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-e14f5565dc07d1d8c423a60b926e7c57]: Textual amendment: Words in [Sch. para. 13D](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/13D) inserted (31.12.2020) by [The Registered Designs and Trade Marks (Isle of Man) (Amendment) (EU Exit) Order 2019 (S.I. 2019/1335)](https://www.legislation.gov.uk/uksi/2019/1335), [art. 1](https://www.legislation.gov.uk/uksi/2019/1335/article/1), [Sch. 2 para. 12](https://www.legislation.gov.uk/uksi/2019/1335/schedule/2/paragraph/12); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-0d2cde4bd5f7dd0780da32b10d5e529a]: Commencement: [Sch. para. 14](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/14) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2601/article/1)
+
+[^key-565cda6cc6ebc2c09bf20e1dd76f0bac]: Textual amendment: [Sch. para. 14A](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/14A) inserted (31.12.2020) by [The Registered Designs and Trade Marks (Isle of Man) (Amendment) (EU Exit) Order 2019 (S.I. 2019/1335)](https://www.legislation.gov.uk/uksi/2019/1335), [art. 1](https://www.legislation.gov.uk/uksi/2019/1335/article/1), [Sch. 2 para. 13](https://www.legislation.gov.uk/uksi/2019/1335/schedule/2/paragraph/13); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-ee0c920bc6efe15132f9145a1ba5095f]: Textual amendment: [Sch. para. 15](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/15) omitted (31.12.2020) by virtue of [The Registered Designs and Trade Marks (Isle of Man) (Amendment) (EU Exit) Order 2019 (S.I. 2019/1335)](https://www.legislation.gov.uk/uksi/2019/1335), [art. 1](https://www.legislation.gov.uk/uksi/2019/1335/article/1), [Sch. 2 para. 14](https://www.legislation.gov.uk/uksi/2019/1335/schedule/2/paragraph/14); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-a032d75a2b8fdeaca8388e00aa58d600]: Textual amendment: [Sch. para. 15A](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/15A) inserted (31.12.2020) by [The Registered Designs and Trade Marks (Isle of Man) (Amendment) (EU Exit) Order 2019 (S.I. 2019/1335)](https://www.legislation.gov.uk/uksi/2019/1335), [art. 1](https://www.legislation.gov.uk/uksi/2019/1335/article/1), [Sch. 2 para. 15](https://www.legislation.gov.uk/uksi/2019/1335/schedule/2/paragraph/15); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-4b0fbc4b84e2d89943bdba7467adb6c1]: Commencement: [Sch. para. 16](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/16) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2601/article/1)
+
+[^key-414c79defb258aa3d5eef25bc4cbac11]: Textual amendment: Sch. paras. 17, 17A substituted for Sch. para 17 (10.7.2025) by [The Trade Marks (Isle of Man) (Amendment) Order 2025 (S.I. 2025/679)](https://www.legislation.gov.uk/uksi/2025/679), [art. 1](https://www.legislation.gov.uk/uksi/2025/679/article/1), [Sch. para. 2](https://www.legislation.gov.uk/uksi/2025/679/schedule/paragraph/2)
+
+[^key-5707b17a26bc937633312e823f1bb2a0]: Commencement: [Sch. para. 18](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/18) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2601/article/1)
+
+[^key-1e3b9afa83bcee372a3e8ae312fd780b]: Textual amendment: [Sch. paras. 18A](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/18A), [18B](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/18B) inserted (14.1.2019) by [The Trade Marks (Isle of Man) (Amendment) Order 2018 (S.I. 2018/1157)](https://www.legislation.gov.uk/uksi/2018/1157), [art. 1](https://www.legislation.gov.uk/uksi/2018/1157/article/1), [Sch. para. 13](https://www.legislation.gov.uk/uksi/2018/1157/schedule/paragraph/13)
+
+[^key-877086459794854c7b01a3b865eafdb6]: Commencement: [Sch. para. 19](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/19) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2601/article/1)
+
+[^key-376435835f89c2136212c07aa848d318]: Commencement: [Sch. para. 20](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/20) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2601/article/1)
+
+[^key-911d436354d0e17a25a38c6fb40df87e]: Commencement: [Sch. para. 21](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/21) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2601/article/1)
+
+[^key-8c6f8ebdb733bd647198546938a59988]: Textual amendment: [Sch. para. 22](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/22) substituted (14.1.2019) by [The Trade Marks (Isle of Man) (Amendment) Order 2018 (S.I. 2018/1157)](https://www.legislation.gov.uk/uksi/2018/1157), [art. 1](https://www.legislation.gov.uk/uksi/2018/1157/article/1), [Sch. para. 14](https://www.legislation.gov.uk/uksi/2018/1157/schedule/paragraph/14)
+
+[^key-a44259533037cbbd4509c24974f0bbb2]: Commencement: [Sch. para. 23](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/23) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2601/article/1)
+
+[^f00010]: Footnote: Section 83A was inserted by section 184(1) and (3) of the Legal Services Act [2007(c.29)](https://www.legislation.gov.uk/ukpga/2007/29) and amended by article 2 of [S.I. 2009/3339](https://www.legislation.gov.uk/uksi/2009/3339).
+
+[^key-fc9d069e26c5a564420e74076eb84a2b]: Commencement: [Sch. para. 24](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/24) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2601/article/1)
+
+[^f00011]: Footnote: [1986 c.15](https://www.legislation.gov.uk/ukpga/1986/15) (Isle of Man).
+
+[^key-6e1099524960920bc4c3b98e835c4293]: Textual amendment: [Sch. para. 25](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/25) substituted (31.12.2020) by [The Registered Designs and Trade Marks (Isle of Man) (Amendment) (EU Exit) Order 2019 (S.I. 2019/1335)](https://www.legislation.gov.uk/uksi/2019/1335), [art. 1](https://www.legislation.gov.uk/uksi/2019/1335/article/1), [Sch. 2 para. 16](https://www.legislation.gov.uk/uksi/2019/1335/schedule/2/paragraph/16); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-e8367bb5a44665a35898b2fca498b82c]: Textual amendment: [Sch. para. 25A](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/25A) inserted (14.1.2019) by [The Trade Marks (Isle of Man) (Amendment) Order 2018 (S.I. 2018/1157)](https://www.legislation.gov.uk/uksi/2018/1157), [art. 1](https://www.legislation.gov.uk/uksi/2018/1157/article/1), [Sch. para. 15](https://www.legislation.gov.uk/uksi/2018/1157/schedule/paragraph/15)
+
+[^key-ed666b893c09b11f2acb515d377701c9]: Commencement: [Sch. para. 26](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/26) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2601/article/1)
+
+[^key-e226ce231ceff7ff5340050079b53fc7]: Textual amendment: Words in [Sch. para. 26(2)](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/26/2) substituted (14.1.2019) by [The Trade Marks (Isle of Man) (Amendment) Order 2018 (S.I. 2018/1157)](https://www.legislation.gov.uk/uksi/2018/1157), [art. 1](https://www.legislation.gov.uk/uksi/2018/1157/article/1), [Sch. para. 16](https://www.legislation.gov.uk/uksi/2018/1157/schedule/paragraph/16)
+
+[^f00014]: Footnote: [1987 c.13](https://www.legislation.gov.uk/ukpga/1987/13) (Isle of Man).
+
+[^key-4de051fb0a4eaee618de8fdcc5b6f11e]: Commencement: [Sch. para. 27](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/27) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2601/article/1)
+
+[^key-2702b62f30c779db7b3c98dabaf056af]: Commencement: [Sch. para. 28](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/28) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2601/article/1)
+
+[^f00015]: Footnote: Section 91 was amended by section 50(6) of and paragraph 58 of Schedule 4 to the Commissioners for Revenue and Customs Act [2005 (c.11)](https://www.legislation.gov.uk/ukpga/2005/11).
+
+[^f00016]: Footnote: [1970 c.2](https://www.legislation.gov.uk/ukpga/1970/2) (Isle of Man).
+
+[^key-5e72f06755eabc93f6208f334929f916]: Commencement: [Sch. para. 29](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/29) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2601/article/1)
+
+[^f00017]: Footnote: [1980 c.43](https://www.legislation.gov.uk/ukpga/1980/43).
+
+[^key-936ed4e9a65d545fb9bd0b1e84b33833]: Commencement: [Sch. para. 30](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/30) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2601/article/1)
+
+[^f00018]: Footnote: Section 92A was inserted by section 6 of the.Copyright, etc. and Trade Marks (Offences and Enforcement) Act [2002 (c.25)](https://www.legislation.gov.uk/ukpga/2002/25).
+
+[^f00019]: Footnote: [1998 c.9](https://www.legislation.gov.uk/ukpga/1998/9) (Isle of Man).
+
+[^key-520946c4d53883496db082fa284eba03]: Commencement: [Sch. para. 31](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/31) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2601/article/1)
+
+[^key-5878f6eb9089e2654fa66e8803240d9f]: Commencement: [Sch. para. 32](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/32) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2601/article/1)
+
+[^key-95f067e56147a68d8f6308ecab0344f0]: Commencement: [Sch. para. 33](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/33) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2601/article/1)
+
+[^f00020]: Footnote: [1989 c.15](https://www.legislation.gov.uk/ukpga/1989/15) (Isle of Man).
+
+[^key-61dd803a65c3d338fa6e38229c0e6cc6]: Textual amendment: [Sch. para. 33A](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/33A) inserted (14.1.2019) by [The Trade Marks (Isle of Man) (Amendment) Order 2018 (S.I. 2018/1157)](https://www.legislation.gov.uk/uksi/2018/1157), [art. 1](https://www.legislation.gov.uk/uksi/2018/1157/article/1), [Sch. para. 17](https://www.legislation.gov.uk/uksi/2018/1157/schedule/paragraph/17)
+
+[^key-8bf199031016b06e6060a33c74d39fa7]: Commencement: [Sch. para. 34](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/34) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2601/article/1)
+
+[^key-070b93ddbbbee32d1d55a7f33ad5da61]: Textual amendment: [Sch. para. 35](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/35) substituted (31.12.2020) by [The Registered Designs and Trade Marks (Isle of Man) (Amendment) (EU Exit) Order 2019 (S.I. 2019/1335)](https://www.legislation.gov.uk/uksi/2019/1335), [art. 1](https://www.legislation.gov.uk/uksi/2019/1335/article/1), [Sch. 2 para. 17](https://www.legislation.gov.uk/uksi/2019/1335/schedule/2/paragraph/17); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-44dc771123e8e4cdc8216e5c7d6424c6]: Textual amendment: [Sch. para. 36](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/36) substituted (14.1.2019) by [The Trade Marks (Isle of Man) (Amendment) Order 2018 (S.I. 2018/1157)](https://www.legislation.gov.uk/uksi/2018/1157), [art. 1](https://www.legislation.gov.uk/uksi/2018/1157/article/1), [Sch. para. 18](https://www.legislation.gov.uk/uksi/2018/1157/schedule/paragraph/18)
+
+[^key-71eedc73ae0da2dd5dfa4e8930bea1c4]: Textual amendment: [Sch. para. 36(2A)-(2E)](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/36/2A) inserted (31.12.2020) by [The Registered Designs and Trade Marks (Isle of Man) (Amendment) (EU Exit) Order 2019 (S.I. 2019/1335)](https://www.legislation.gov.uk/uksi/2019/1335), [art. 1](https://www.legislation.gov.uk/uksi/2019/1335/article/1), [Sch. 2 para. 18](https://www.legislation.gov.uk/uksi/2019/1335/schedule/2/paragraph/18); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-017debceeb32a63d979b35541496b86a]: Commencement: [Sch. para. 37](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/37) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2601/article/1)
+
+[^key-cf15fc019788b3169d56e9bf93795063]: Textual amendment: [Sch. para. 38](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/38) substituted (14.1.2019) by [The Trade Marks (Isle of Man) (Amendment) Order 2018 (S.I. 2018/1157)](https://www.legislation.gov.uk/uksi/2018/1157), [art. 1](https://www.legislation.gov.uk/uksi/2018/1157/article/1), [Sch. para. 19](https://www.legislation.gov.uk/uksi/2018/1157/schedule/paragraph/19)
+
+[^key-ce80872d541378654ee45a66cd3f0c43]: Commencement: [Sch. para. 39](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/39) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2601/article/1)
+
+[^key-40d6474ecbca45e8248c47b479dc8615]: Textual amendment: [Sch. para. 40](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/40) inserted (31.12.2020) by [The Registered Designs and Trade Marks (Isle of Man) (Amendment) (EU Exit) Order 2019 (S.I. 2019/1335)](https://www.legislation.gov.uk/uksi/2019/1335), [art. 1](https://www.legislation.gov.uk/uksi/2019/1335/article/1), [Sch. 2 para. 19](https://www.legislation.gov.uk/uksi/2019/1335/schedule/2/paragraph/19); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

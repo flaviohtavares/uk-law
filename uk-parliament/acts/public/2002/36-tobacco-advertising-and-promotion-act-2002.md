@@ -1,0 +1,813 @@
+---
+title: Tobacco Advertising and Promotion Act 2002
+id: ukpga/2002/36
+type: UnitedKingdomPublicGeneralAct
+category: primary
+status: revised-with-pending-changes
+made_date: '2002-11-07'
+text_date: '2026-10-29'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2002/36
+pdf_urls:
+- http://www.legislation.gov.uk/ukpga/2002/36/pdfs/ukpga_20020036_en.pdf
+- http://www.legislation.gov.uk/ukpga/2002/36/data.pdf
+pending_changes: 1
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Tobacco Advertising and Promotion Act 2002
+
+> **Warning: changes not yet applied to this text (1).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2002/36
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+Tobacco Advertising and Promotion Act 2002
+
+2002 c. 36
+
+An Act to control the advertising and promotion of tobacco products; and for connected purposes.
+
+\[7th November 2002\]
+
+Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-26755b4fcb4284287bb69e2420f4e1db]
+
+## 1. Meaning of “tobacco advertisement” and “tobacco product”[^c1056594]
+
+In this Act—
+
+- “**tobacco advertisement**” means an advertisement—
+  - (a) whose purpose is to promote a tobacco product, or
+  - (b) whose effect is to do so, and
+- “[^key-27f5e7aa6528c97cd98e5cc13de6d372]**tobacco product**” means a product consisting wholly or partly of tobacco and intended to be smoked, sniffed, sucked, chewed or consumed in any other way.
+
+## 2. Prohibition of tobacco advertising[^c1056595][^key-a94c2de35fc0a9a11454fc17933105a5][^key-1a8f162895f0a43f78f8a5dcc2161e22][^key-c2404dd687aea5545f6a9a4d7d5efac2][^key-07f9009ba48d55d69059910b38dd899c][^key-9c33bfa42c4d63665053dd40044a5990][^key-e84280e3f1a9b2c18ea76b9387a70c38][^key-e83050732969ac9afdb9824129e42ca6][^key-8a355f8eb90bee31f11de6cee6bc8a61]
+
+(1) A person who in the course of a business publishes a tobacco advertisement, or causes one to be published, in the United Kingdom is guilty of an offence.
+
+(2) A person who in the course of a business prints, devises or distributes in the United Kingdom a tobacco advertisement which is published in the United Kingdom, or causes such a tobacco advertisement to be so printed, devised or distributed, is guilty of an offence.
+
+(3) Distributing a tobacco advertisement includes transmitting it in electronic form, participating in doing so, and providing the means of transmission.
+
+(4)[^key-68e518b16f6b9d2de428bde634924754] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 3. Advertising: newspapers, periodicals etc[^c1056596]
+
+If a newspaper, periodical or other publication (“**the publication**”) containing a tobacco advertisement is in the course of a business published in the United Kingdom—
+
+- (a) any proprietor or editor of the publication is guilty of an offence,
+- (b) any person who (directly or indirectly) procured the inclusion of the advertisement in the publication is guilty of an offence, and
+- (c) any person who sells the publication, or offers it for sale, or otherwise makes it available to the public, is guilty of an offence.
+
+## 3A. Advertising: information society services[^key-4e36619ee714b517877af5d79db6d1d9]
+
+(1) This subsection applies where by means of an information society service, provided in the course of a business, a tobacco advertisement is published—
+
+- (a) in the United Kingdom, [^key-239258b2f553ea7a08527b9ee4f6ba92]...
+- (b)[^key-057fe9f9513fedf49bed5aa8aadeda27] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) Where subsection (1) applies—
+
+- (a) any proprietor of the information society service or any editor of the information contained in the information society service is guilty of an offence, and
+- (b) any person who (directly or indirectly) procured the inclusion of the tobacco advertisement in the information contained in the information society service is guilty of an offence.
+
+## 4. Advertising: exclusions[^c1056597]
+
+(1) No offence is committed under section 2, 3 or 3A[^key-0f4a22ac2acd8212202a5c7eee46bfb1] in relation to a tobacco advertisement—
+
+- (a) if it is, or is contained in, a communication made in the course of a business which is part of the tobacco trade, and for the purposes of that trade, and directed solely at persons who—
+  - (i) are engaged in, or employed by, a business which is also part of that trade, and
+  - (ii) fall within subsection (2),
+
+  in their capacity as such persons,
+- (b) if it is, or is contained in, the communication made in reply to a particular request by an individual for information about a tobacco product, or
+- (c)[^key-2123f9070832666ae84e22f714a7c724] if it is contained in a publication (other than in an in-flight magazine)–
+  - (i) which is printed outside the United Kingdom[^key-c367eb0f964ee20fad2630ad8221198a], and
+  - (ii) whose principal market is not the United Kingdom (or any part of the United Kingdom)[^key-3fa1f6b1a1f9e5eaa0f349cea50abeaf] .
+- (d)[^key-ae78901f81e15b4826b44bf0170af636] if it is published by means of an information society service by a person who does not carry on business in the United Kingdom[^key-e0c6df8d74857bd7f2f9d0128243f330] and it is not intended to be accessed principally by persons in the United Kingdom (or any part of the United Kingdom)[^key-d6f668d050493c89f693210735ed50e6].
+
+(1A)[^key-c9fa18074b14f6b53d23030d9b471689] Subsection (1)(b) applies to a communication made by means of an information society service only if the request was made—
+
+- (a) by means of an information society service which does not advertise any tobacco product to persons—
+  - (i) who have not made such a request, or
+  - (ii) who have not initiated a process by which a tobacco product may be purchased by means of that service; or
+- (b) without using an information society service.
+
+(1B) The supply of information to an individual is not a tobacco advertisement if—
+
+- (a) an information society service provides a means by which tobacco products may be purchased which includes the provision of information about a tobacco product, and
+- (b) the information becomes available only after the individual has initiated the process of making the purchase.
+
+(2) A person falls within this subsection if—
+
+- (a) he is responsible for making decisions on behalf of the business referred to in subsection (1)(a)(i) about the purchase of tobacco products which are to be sold in the course of that business,
+- (b) he occupies a position in the management structure of the business in question which is equivalent in seniority to, or of greater seniority than, that of any such person, or
+- (c) he is the person who, or is a member of the board of directors or other body of persons (however described) which, is responsible for the conduct of the business in question.
+
+(3)[^key-4f32701300adfad3eb6e323c3e50c5d2][^key-850e3cd31875c45859c92ff3317e6c0a] The appropriate Minister may provide in regulations that no offence is committed under section 2 in relation to a tobacco advertisement which—
+
+- (a) is in a place or [^key-d1e92d9e60e6575b4a8b05cb9a8516e6]... where tobacco products are offered for sale, and
+- (b) complies with requirements specified in the regulations.
+
+(4)[^key-4f32701300adfad3eb6e323c3e50c5d2][^key-850e3cd31875c45859c92ff3317e6c0a] The regulations may, in particular, provide for the meaning of “**place**” in subsection (3)(a).
+
+(5)[^key-16e178aa2e048d7365266239455d6bc1] The Schedule has effect in relation to the liability of information society service providers.
+
+## 5. Advertising: defences[^c1056598]
+
+(1) A person does not commit an offence under section 2 , section 3(a) or (b) or section 3A(1)(a)[^key-b7d4db4028a3aa06d79f2c67d713e1de] [^key-1ea4464ded3e49e390bc02bede0f3c9a]..., in connection with an advertisement whose purpose is to promote a tobacco product, if he did not know, and had no reason to suspect, that the purpose of the advertisement was to promote a tobacco product.
+
+(2) A person does not commit such an offence in connection with an advertisement whose effect is to promote a tobacco product if he could not reasonably have foreseen that that would be the effect of the advertisement.
+
+(3) A person does not commit an offence under section 2(2) , 3(a) or (b) or 3A(1)(a)[^key-20f024176e204d50601955faba26f161] if he did not know, and had no reason to suspect, that the tobacco advertisement would be published in the United Kingdom.
+
+(3A)[^key-9ee3bc81f85f7bd5239a1e86446ca42a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) A person does not commit an offence under section 2(2) of distributing or causing the distribution of a tobacco advertisement, otherwise than as mentioned in section 2(3), if he did not know, and had no reason to suspect, that what he distributed or caused to be distributed was, or contained, a tobacco advertisement.
+
+(5) In relation to a tobacco advertisement which is distributed as mentioned in section 2(3), a person does not commit an offence under section 2(2) of distributing it or causing its distribution if—
+
+- (a) he was unaware that what he distributed or caused to be distributed was, or contained, a tobacco advertisement,
+- (b) having become aware of it, it was not reasonably practicable for him to prevent its further distribution, [^key-6db3e11b88b5cefd9af582f82976da9a]...
+- (c)[^key-6a8e191fd115a04e510927af60bf9735] in relation to transmission by means of information society services, he did not carry on business in the United Kingdom[^key-f87d622532e908f993310a7d9d07a6d3] at the relevant time, or
+- (d) in relation to transmission by any other means of electronic transmission, he did not carry on business in the United Kingdom at the relevant time.
+
+(5A)[^key-301f91ad6851a8ceb4cbb103c8f0c99b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(6) A person does not commit an offence under section 3(c) if he did not know, and had no reason to suspect, that the publication contained a tobacco advertisement.
+
+## 6. Specialist tobacconists[^c1056599]
+
+(A1)[^key-5ca1b4ed3dd46d834614fffac69b9aba] The appropriate Minister may provide in regulations that no offence is committed under section 2 if the tobacco advertisement—
+
+- (a) is in, or fixed to the outside of premises of, a specialist tobacconist in England and Wales or Northern Ireland,
+- (b) is not for cigarettes or hand-rolling tobacco, and
+- (c) complies with any requirements specified in the regulations.
+
+(1) A person does not commit an offence under section 2 if the tobacco advertisement—
+
+- (a) was in, or fixed to the outside of the premises of, *(Extent: S)* *(affected by repeal, see note)*[^key-75c0c48cbca537b71746891e2b4c3944] a specialist tobacconist,in Scotland[^key-c076e155d7b147e45f52fa8ce238b4df]
+- (b) was not for cigarettes or hand-rolling tobacco, and
+- (c) complied with any requirements specified by the appropriate Minister in regulations in relation to tobacco advertisements on the premises of specialist tobacconists.
+
+(2) A specialist tobacconist is a shop selling tobacco products by retail (whether or not it also sells other things) more than half of whose sales on the premises in question derive from the sale of cigars, snuff, pipe tobacco and smoking accessories.
+
+(3) The sales referred to in subsection (2) are to be measured by sale price—
+
+- (a) during the most recent period of twelve months for which accounts are available, or
+- (b) during the period for which the shop has been established, if it has not been established long enough for twelve months’ accounts to be available.
+
+(4) “**Shop**”, in subsections (2) and (3), includes a self-contained part of a shop; and, in that case, “**premises**” in subsections(A1),[^key-1889f635056cb1f33d1c4bbc80b604ad] (1) and (2) means that self-contained part of the shop.
+
+## 7. Developments in technology[^c1056600]
+
+The Secretary of State may by order amend any provision of this Act if he considers it appropriate to do so in consequence of any developments in technology relating to publishing or distributing by electronic means.
+
+## 7A. Prohibition of tobacco displays[^key-a129d2f2df0e36d3005adefeceb22ef8]
+
+(1)[^key-16f7654a9905815e560c09e989afe1e2][^key-26b71e6ca1b0993e6c5f6936d89d1ba6] A person who in the course of a business displays tobacco products, or causes tobacco products to be displayed, in a place in England and Wales or Northern Ireland is guilty of an offence.
+
+(2) The appropriate Minister may by regulations provide for the meaning of “place” in this section.
+
+(3) The appropriate Minister may by regulations make provision for a display in a place which also amounts to an advertisement to be treated for the purposes of offences in England and Wales or Northern Ireland under this Act—
+
+- (a) as an advertisement and not as a display, or
+- (b) as a display and not as an advertisement.
+
+## 7B. Tobacco displays: exclusions and defence
+
+(1) No offence is committed under section 7A if—
+
+- (a) the tobacco products are displayed in the course of a business which is part of the tobacco trade,
+- (b) they are displayed for the purposes of that trade, and
+- (c) the display is accessible only to persons who are engaged in, or employed by, a business which is also part of that trade.
+
+(2) No offence is committed under section 7A if the display is a requested display to an individual aged 18 or over.
+
+(3) The appropriate Minister may provide in regulations that no offence is committed under section 7A if the display complies with requirements specified in the regulations.
+
+(4) Subsections (5) and (7) apply where a person (“D”) is charged with an offence under section 7A in a case where the display is a requested display to an individual aged under 18.
+
+(5) Where D is charged by reason of D having displayed the tobacco product it is a defence that—
+
+- (a) D believed that the individual was aged 18 or over, and
+- (b) either—
+  - (i) D had taken all reasonable steps to establish the individual's age, or
+  - (ii) from the individual's appearance nobody could reasonably have suspected that the individual was aged under 18.
+
+(6) For the purposes of subsection (5), a person is treated as having taken all reasonable steps to establish an individual's age if—
+
+- (a) the person asked the individual for evidence of the individual's age, and
+- (b) the evidence would have convinced a reasonable person.
+
+(7) Where D is charged by reason of D having caused the display of the tobacco product it is a defence that D exercised all due diligence to avoid committing the offence.
+
+(8) In this section “ **a requested display** ” means a display to an individual following a particular request by the individual to purchase a tobacco product, or for information about a tobacco product.
+
+## 7C. Displays: prices of tobacco products
+
+(1) The appropriate Minister may by regulations make provision imposing requirements in relation to the display in a place in England and Wales or Northern Ireland in the course of a business of prices of tobacco products.
+
+(2) A person who displays or causes to be displayed prices of tobacco products in breach of a requirement contained in the regulations is guilty of an offence.
+
+(3) The regulations may, in particular, provide for the meaning of “place” in this section.
+
+(4) The regulations may make provision for a display of prices in a place which also amounts to an advertisement to be treated for the purposes of offences in England and Wales or Northern Ireland under this Act—
+
+- (a) as an advertisement and not as a display of prices, or
+- (b) as a display of prices and not as an advertisement.
+
+## 7D. Displays on a website
+
+(1) The Secretary of State may by regulations make provision imposing requirements in relation to the display in England and Wales or Northern Ireland in the course of a business of tobacco products or their prices on a website where tobacco products are offered for sale.
+
+(2) A person who displays or causes to be displayed tobacco products or their prices in breach of a requirement contained in the regulations is guilty of an offence.
+
+(3)[^key-d145f7e22526e319f45c3be8fb3bb1ab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) Nothing in subsection (2) makes it an offence for a service provider established outside the United Kingdom to do anything in the course of providing information society services.
+
+(5) The regulations may make provision for a relevant display of tobacco products or their prices which also amounts to an advertisement to be treated for the purposes of offences in England and Wales or Northern Ireland under this Act—
+
+- (a) as an advertisement and not as a display, or
+- (b) as a display and not as an advertisement.
+
+(6) In subsection (5) a “ **relevant display** ” means a display on a website where tobacco products are offered for sale.
+
+## 8. Displays: Scotland[^c1056601][^key-e463d862c774cf857ad868a1e59e949f]
+
+(1) A person who in the course of a business displays or causes to be displayed in Scotland[^key-663d33b53eef1d0f9f4bcae53c2013e6] tobacco products or their prices in a place or *(Extent: S)* *(affected by repeal, see note)*[^key-9c6e7a3793685b288494b3863c47f7f4] on a website where tobacco products are offered for sale is guilty of an offence if the display does not comply with such requirements (if any) as may be specified by the appropriate Minister in regulations.
+
+(1A)[^key-270eb9fd20869169b9e578257e4c5b36] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2)[^key-c0e9ba672cd31553f4dddee30cc95d7e] Nothing in subsection (1) makes it an offence for a service provider established outside the United Kingdom to do anything in the course of providing information society services.
+
+(3) The regulations may, in particular, provide for the meaning of “ *(Extent: S)* *(affected by repeal, see note)*[^key-4b5cdaee510d59a021e34a8b76a991f0] **place *(Extent: S)* *(affected by repeal, see note)*[^key-4b5cdaee510d59a021e34a8b76a991f0]** ” in subsection (1). *(Extent: S)* *(affected by repeal, see note)*[^key-4b5cdaee510d59a021e34a8b76a991f0]
+
+(4) The regulations must make provision for a display which also amounts to an advertisement to be treated for the purpose of offences under this Act—
+
+- (a) as an advertisement and not as a display, or
+- (b) as a display and not as an advertisement.
+
+## 9. Prohibition of free distributions[^key-4e6856b5a4b6f4e995387cac1cdc78bb]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 10. Prohibition of sponsorship[^c1056603][^key-03d3a111bf007096c10f99edc6c067cd][^key-1fb29a8f8f265f605f772f4d3621b4ee]
+
+(1) A person who is party to a sponsorship agreement is guilty of an offence if the purpose or effect of anything done as a result of the agreement is to promote a tobacco product in the United Kingdom.
+
+(2) A sponsorship agreement is an agreement under which, in the course of a business, a party to it makes a contribution towards something, whether the contribution is in money or takes any other form (for example, the provision of services or of contributions in kind).
+
+(3) A person does not commit an offence under this section—
+
+- (a) where it is alleged that the purpose of what was done as a result of the agreement was to promote a tobacco product in the United Kingdom, if he did not know, and had no reason to suspect, that that was its purpose, or
+- (b) where it is alleged that the effect of what was done as a result of the agreement was to promote a tobacco product in the United Kingdom, if he could not reasonably have foreseen that that would be its effect.
+
+(4) A person does not commit an offence under this section if he did not know and had no reason to suspect that the contribution referred to in subsection (2) was made in the course of a business.
+
+## 11. Brandsharing[^c1056604]
+
+(1)[^key-94c4d8388040cd1fb5ce9fd386fe9a98][^key-2ced969b0d45b18e764ff1f877f018ca] The Secretary of State may by regulations make provision prohibiting or restricting, in such circumstances and subject to such exceptions as may be specified in the regulations, the use—
+
+- (a) in connection with any service or product (other than a tobacco product), of any name, emblem or other feature of a description specified in the regulations which is the same as, or similar to, a name, emblem or other feature so specified which is connected with a tobacco product, or
+- (b) in connection with any tobacco product, of any name, emblem or other feature of a description specified in the regulations which is the same as, or similar to, a name, emblem or other feature so specified which is connected with any service or product other than a tobacco product.
+
+(2)[^key-94c4d8388040cd1fb5ce9fd386fe9a98][^key-2ced969b0d45b18e764ff1f877f018ca] Provision made by virtue of subsection (1) may prohibit or restrict only that use whose purpose is to promote a tobacco product, or whose effect is to do so.
+
+(3)[^key-94c4d8388040cd1fb5ce9fd386fe9a98][^key-2ced969b0d45b18e764ff1f877f018ca] If regulations under this section provide for a prohibition or restriction to be subject to an exception, the regulations may also make such provision as the Secretary of State considers appropriate for a corresponding exception to have effect for the purposes of offences under section 2, 3,3A, 7A, 7C, 7D,[^key-70c0e4e5d7b32f8f6f97b4cf0faca115] 8, 9 or 10.
+
+(4) A person who contravenes a prohibition or restriction contained in regulations made under this section is guilty of an offence.
+
+(5)[^key-ec240e70cdb96d1b004128d2ff52e148][^key-b1f897f88705159b1ce3d3fb2639c2a4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(6) Nothing in subsection (4) makes it an offence for a service provider established outside the United Kingdom to do anything in the course of providing information society services.
+
+## 12. Television and radio broadcasting[^c1056605]
+
+(1) In this section “**the 1990 Act**” means the Broadcasting Act 1990 (c. 42) and “**the 1996 Act**” means the Broadcasting Act 1996 (c. 55).
+
+(2) This Act does not apply in relation to anything included in a service to which any of subsections (3) to (6) apply.
+
+(3)[^key-b368d972f59772707d7e274b38739d80] This subsection applies to —
+
+- (a) a service falling within section 211(1) of the Communications Act 2003 (independent television services regulated by the Office of Communications) which is not an additional television service (within the meaning of Part 3 of that Act); [^key-bb23f99393b1998bf93c82a6b56ef027]...
+- (b)[^key-bb23f99393b1998bf93c82a6b56ef027] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4)[^key-95cdf705e682342fe5a0560726e5696c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5)[^key-5ba58c52c8cf94581037dd9c5aab5563] This subsection applies to a service which—
+
+- (a) falls within section 245(1) of the Communications Act 2003 (independent radio services regulated by the Office of Communications); but
+- (b) is not a digital additional sound service (within the meaning of Part 3 of that Act).
+
+(6) This subsection applies to a service provided by the British Broadcasting Corporation or Sianel Pedwar Cymru (the body corporate so named by[^key-0c8b9043bc8c35ef0c22ccf7e275aa37] section 56 of the 1990 Act).
+
+## 13. Enforcement[^c1056606][^key-81698cf37319eb7e7cd98780c02cfcce][^key-8a8149dc8efd2973ce6043afd70b1f43]
+
+(1) For the purposes of this Act “**enforcement authority**” means—
+
+- (a) in England and Wales, a local[^key-f30ffcf4b3b695924713cce5eb152f02] weights and measures authority,
+- (b) in Scotland, a local weights and measures authority, and
+- (c) in Northern Ireland, a district council.
+
+(2) It is the duty of an enforcement authority to enforce within its area the provisions of this Act and regulations made under it.
+
+(3) The appropriate Minister may direct, in relation to cases of a particular description or a particular case, that any duty imposed on an enforcement authority in England and Wales , Northern Ireland[^key-65f5cbde858ab8fcae57adaf623281c6] or Scotland by subsection (2) shall be discharged by the appropriate Minister and not by the enforcement authority.
+
+(4)[^key-44849238560f0c1db654d167153b4b51] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5) The Secretary of State may take over the conduct of any proceedings which are—[^key-246d7ae98a8abc7a10a56c8c0905a2fd]
+
+- (a) in respect of an offence committed in England, and
+- (b) instituted in England and Wales by another person under any provision of this Act or regulations made under it.
+
+(5A)[^key-609604f93ff461919b5764c4ec12b5d7] The Welsh Ministers may take over the conduct of any proceedings which are—
+
+- (a) in respect of an offence committed in Wales, and
+- (b) instituted in England and Wales by another person under any provision of this Act or regulations made under it.
+
+(6) The Department of Health, Social Services and Public Safety may take over the conduct of any proceedings instituted in Northern Ireland by another person under any provision of this Act or regulations made under it.
+
+(7) For the purposes of the trying of offences under this Act or regulations made under it—
+
+- (a) any such offence committed in England or Wales may be treated as having been committed in any place in England or Wales, so that any magistrates’ court in England or Wales has jurisdiction to try the offence, and
+- (b) any such offence committed in Northern Ireland may be treated as having been committed in any place in Northern Ireland, so that any magistrates’ court in Northern Ireland has jurisdiction to hear and determine a complaint charging the offence.
+
+## 14. Powers of entry, etc[^c1056607][^key-dd0b5ec039572d1116794a69a61e6d9c][^key-5634fe9c9e6b4860e27f728757710239]
+
+(1) A duly authorised officer of an enforcement authority has the right, on producing, if so required, his written authority—
+
+- (a) at any reasonable hour to enter any premises, other than premises used only as a private dwelling house, which he considers it is necessary for him to enter for the purpose of the proper exercise of his functions under this Act,
+- (b) to carry out on those premises such inspections and examinations as he considers necessary for that purpose,
+- (c) where he considers it necessary for that purpose, to require the production of any book, document, data, record (in whatever form it is held) or product and inspect it, and take copies of or extracts from it,
+- (d) to take possession of any book, document, data, record (in whatever form it is held) or product which is on the premises and retain it for as long as he considers necessary for that purpose,
+- (e) to require any person to give him such information, or afford him such facilities and assistance, as he considers necessary for that purpose.
+
+(2) A duly authorised officer of an enforcement authority may make such purchases and secure the provision of such services as he considers necessary for the purpose of the proper exercise of his functions under this Act.
+
+(3) A person is not obliged by subsection (1) to answer any question or produce any document which he would be entitled to refuse to answer or to produce—
+
+- (a) in or for the purposes of proceedings in a court in England and Wales, where the question is asked or the document is required by a duly authorised officer of an enforcement authority in England and Wales,
+- (b) in or for the purposes of proceedings in a court in Northern Ireland, where the question is asked or the document is required by a duly authorised officer of an enforcement authority in Northern Ireland,
+- (c) in or for the purposes of proceedings in a court in Scotland, where the question is asked or the document is required by a duly authorised officer of an enforcement authority in Scotland.
+
+(4) If a justice of the peace is satisfied by any written information on oath that for the purpose of the proper exercise of the functions of an enforcement authority under this Act there are reasonable grounds for entry into any premises, other than premises used only as a private dwelling house, and—
+
+- (a) that admission to the premises has been or is likely to be refused and that notice of intention to apply for a warrant under this subsection has been given to the occupier, or
+- (b) that an application for admission, or the giving of such notice, would defeat the object of the entry or that the premises are unoccupied or that the occupier is temporarily absent and it might defeat the object of the entry to await his return,
+
+the justice may by warrant signed by him, which shall continue in force until the end of the period of one month beginning with the date on which he signs it, authorise any duly authorised officer of an enforcement authority to enter the premises, if need be by force.
+
+(5) A duly authorised officer entering any premises by virtue of subsection (1) or of a warrant under subsection (4) may take with him when he enters those premises such other persons and such equipment as he considers necessary.
+
+(6) On leaving any premises which a duly authorised officer is authorised to enter by a warrant under subsection (4), that officer shall, if the premises are unoccupied or the occupier is temporarily absent, leave the premises as effectively secured against trespassers as he found them.
+
+(7) Where by virtue of subsection (1)(d) a duly authorised officer takes possession of any item, he shall leave on the premises from which the item was removed a statement giving particulars of what he has taken and stating that he has taken possession of it.
+
+(8) In the application of this section to Northern Ireland, the reference in subsection (4) to any information on oath shall be construed as a reference to any complaint on oath.
+
+(9) In the application of this section to Scotland, the reference in subsection (4) to a justice of the peace shall be construed as a reference to a sheriff.
+
+(10) Where a direction of the appropriate Minister has effect under section 13(3), this section and section 15 have effect, in relation to any case or case of a description specified in the direction, as if references to a duly authorised officer of an enforcement authority were references to a person acting on behalf of the appropriate Minister.
+
+(11)[^key-b4ddc6ed72d4949437707f713a9fdc7c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(12) Where—
+
+- (a) the Secretary of State takes over any proceedings by virtue of section 13(5), [^key-99eb2e0a55488c8fdd61183084758ea5]...
+- (b) the Department of Health, Social Services and Public Safety takes over the conduct of any proceedings by virtue of section 13(6),
+- (aa)[^key-2f00ef0b838e908cce5001323790f877] the Welsh Ministers take over any proceedings by virtue of section 13(5A), or
+
+this section and section 15 have effect, in relation to any case which is the subject of such proceedings, as if references to a duly authorised officer of an enforcement authority were references to a person acting on behalf of the Secretary of State or (as the case may be)the Welsh Ministers or[^key-6946fb2a094ef35a5887c42714c031f8] the Department.
+
+## 15. Obstruction, etc of officers[^c1056608][^key-a52ab8c46e719cabb98421c8cb45f6e2][^key-f8f39cecbf9e9223b5dec66f3efcc067]
+
+(1) A person who—
+
+- (a) intentionally obstructs a duly authorised officer of an enforcement authority who is acting in the proper exercise of his functions under this Act, or
+- (b) without reasonable cause fails to comply with any requirement made of him by such an officer who is so acting,
+
+is guilty of an offence.
+
+(2) A person who, in giving any information which is properly required of him by a duly authorised officer of an enforcement authority, makes a statement which is false in a material particular is guilty of an offence.
+
+(3) A person does not commit an offence under subsection (2) if—
+
+- (a) he did not know the material particular was false, and
+- (b) he had reasonable grounds to believe that it was true.
+
+## 16. Penalties[^c1056609]
+
+(1) A person guilty of an offence under section 15(1) is liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+
+(1A)[^key-2af34b5e1c9585830ce63b87ecc1429c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) A person guilty of an offence under or by virtue of any other provision of this Act is liable—
+
+- (a) on summary conviction to imprisonment for a term not exceeding six months, or a fine not exceeding the statutory maximum[^key-413ce950ca4b678ebf1b97925f2c3875], or both, or
+- (b) on conviction on indictment to imprisonment for a term not exceeding 2 years, or a fine, or both.
+
+## 17. Defences: burden of proof[^c1056610]
+
+(1) This section applies where a person charged with an offence under this Act relies on a defence under any of sections 5(1) to (6), 6(1), 7B(5) and (7),[^key-36f8a349d8583e8fcaa9f663dd531e64] [^key-1a3f5377f076a5c979b0af709abfab1f]... 10(3) and (4) and 15(3).
+
+(2) Where evidence is adduced which is sufficient to raise an issue with respect to that defence, the court or jury shall assume that the defence is satisfied unless the prosecution proves beyond reasonable doubt that it is not.
+
+## 18. Offences by bodies corporate and Scottish partnerships[^c1056611]
+
+(1) If an offence under any provision of this Act committed by a body corporate is proved—
+
+- (a) to have been committed with the consent or connivance of an officer, or
+- (b) to be attributable to any neglect on his part,
+
+the officer as well as the body corporate is guilty of the offence and liable to be proceeded against and punished accordingly.
+
+(2) In subsection (1) “**officer**”, in relation to a body corporate, means a director, manager, secretary or other similar officer of the body, or a person purporting to act in any such capacity.
+
+(3) If the affairs of a body corporate are managed by its members, subsection (1) applies in relation to the acts and defaults of a member in connection with his functions of management as if he were a director of the body corporate.
+
+(4) If an offence under any provision of this Act committed by a partnership in Scotland is proved—
+
+- (a) to have been committed with the consent or connivance of a partner, or
+- (b) to be attributable to any neglect on his part,
+
+the partner as well as the partnership is guilty of the offence and liable to be proceeded against and punished accordingly.
+
+(5) In subsection (4) “**partner**” includes a person purporting to act as a partner.
+
+## 19. Regulations[^c1056612][^key-2eb4a8cde1fc4f57085b6d2846a2a316][^key-7775b04857645fbf7f86194a64b00cbc]
+
+(1) Powers of the Secretary of State, the Welsh Ministers and the Scottish Ministers[^key-62af330bccc1ec6aff1e45deddd50b3f] to make regulations and orders under this Act are exercisable by statutory instrument.
+
+(1A)[^key-1628664a8efeba0aa99bc4e4830c95ae] Powers of the Department of Health, Social Services and Public Safety to make regulations under this Act are exercisable by statutory rule for the purposes of the Statutory Rules (Northern Ireland) Order 1979.
+
+(2) Regulations, and orders under section 7, may make—
+
+- (a) different provision for different cases or circumstances, and
+- (b) any supplementary, consequential or transitional provision which the appropriate Minister (or the Secretary of State) considers necessary or desirable.
+
+(3)[^key-6497641a66a2e5155bb7dda13ad0fd5a] No statutory instrument containing an order under section 7 or regulations under sections 7C, 7D, 8, 9 or 11 is to be made—
+
+- (a) by the Secretary of State unless a draft of the instrument has been laid before and approved by a resolution of each House of Parliament;
+- (b) by the Welsh Ministers unless a draft of the instrument has been laid before and approved by a resolution of the National Assembly for Wales;
+- (c) by the Scottish Ministers unless a draft of the instrument has been laid before and approved by a resolution of the Scottish Parliament.
+
+(4) In any other case, a statutory instrument containing regulations made under this Act—
+
+- (a) by the Secretary of State is subject to annulment in pursuance of a resolution of either House of Parliament;
+- (b) by the Welsh Ministers is subject to annulment in pursuance of a resolution of the National Assembly for Wales;
+- (c) by the Scottish Ministers is subject to annulment in pursuance of a resolution of the Scottish Parliament.
+
+(5) The Department of Health, Social Services and Public Safety may not make regulations under section 7C unless a draft of the regulations has been laid before, and approved by a resolution of, the Northern Ireland Assembly.
+
+(6) In any other case, regulations made by the Department of Health, Social Services and Public Safety under this Act are to be subject to negative resolution within the meaning of section 41(6) of the Interpretation Act (Northern Ireland) 1954 as if they were a statutory instrument within the meaning of that Act.
+
+## 20. Transitional provisions: sponsorship[^c1056613][^key-f353e891e44bb32d22c9617d89577fae][^key-2432095d5647666da46116b0bf8f2226]
+
+(1) The appropriate Minister may make regulations providing that, subject to the satisfaction (or continuing satisfaction) of any conditions specified in the regulations, section 10 is not to apply before a date so specified to a sponsorship agreement of a description so specified.
+
+(2) The date specified may not be later than 1st October 2006.
+
+(3) If, by virtue of regulations under this section, section 10 does not apply to a sponsorship agreement, the doing of anything as a result of that agreement is not an offence under any provision of this Act.
+
+## 21. Interpretation[^c1056614][^key-8e9ec96e57a9daa64d712d9787c848b0][^key-6938099734b4bdc6c678c8e8b35b611c]
+
+(1)[^key-e2b88c00ce12717735f3dd6c913a1c33] In this Act—
+
+- “appropriate Minister”—[^key-54fd44c733d393c36a770145293d1b2b]
+  - (a) in relation to England, means the Secretary of State,
+  - (b) in relation to Wales, means the Welsh Ministers,
+  - (c) in relation to Northern Ireland, means the Department of Health, Social Services and Public Safety, and
+  - (d) in relation to Scotland, means the Scottish Ministers,
+- “the Directive” means Directive[^key-7524f054e7d6e91fab4adf5089d93916] [2000/31/ EC](https://www.legislation.gov.uk/eudr/2000/31) of the European Parliament and of the Council of 8th June 2000 on certain legal aspects of information society services, in particular electronic commerce, in the Internal Market (Directive on electronic commerce);
+- [^key-dec553cac7c23cb9ade64048f3a83927]...
+- “information society services”–
+  - (a) has the meaning set out in Article 2(a) of the Directive (which refers to Article 1(2) of Directive [98/34/ EC](https://www.legislation.gov.uk/eudr/1998/34) of the European Parliament and of the Council of 22nd June 1998 laying down a procedure for the provision of information in the field of technical standards and regulations, as amended by Directive [98/48/ EC](https://www.legislation.gov.uk/eudr/1998/48) of 20th July 1998); and
+  - (b) is summarised in recital 17 of the Directive as covering ‘any service normally provided for remuneration, at a distance, by means of electronic equipment for the processing (including digital compression) and storage of data, and at the individual request of a recipient of a service’;
+- “**public**” means the public generally, any section of the public or individually selected members of the public,
+- “**purpose**” includes one of a number of purposes, and
+- “service provider” means a person providing an information society service;
+- “**tobacco advertisement**” and “**tobacco product**” have the meaning given in section 1,
+
+and references to publishing include any means of publishing (and include, in particular, publishing by any electronic means, for example by means of the internet).
+
+(2)[^key-18d285be4435023bda3913265c21cda4] For the purposes of this Act—
+
+- (a) an establishment, in connection with an information society service, is the place at which the service provider effectively pursues an economic activity for an indefinite period;
+- (b) the presence or use in a particular place of equipment or other technical means of providing an information society service does not, of itself, constitute that place as an establishment of the kind mentioned in paragraph (a);
+- (c) where it cannot be determined from which of a number of establishments a given information society service is provided, that service is to be regarded as provided from the establishment where the service provider has the centre of his activities relating to the service,
+
+and references to a person being established in any place must be construed accordingly.
+
+## 22. Commencement, short title and extent
+
+(1)[^c1056615] Apart from this section, this Act comes into force on such day as the appropriate Minister may by order appoint.
+
+(2)[^c1056615] Different days may be appointed under subsection (1) for different provisions and for different purposes.
+
+(3)[^c1056615] Such an order may include such transitional provisions and savings as the appropriate Minister considers appropriate.
+
+(4) This Act may be cited as the Tobacco Advertising and Promotion Act 2002.
+
+(5) This Act extends to Northern Ireland.
+
+## SCHEDULE — INFORMATION SOCIETY SERVICE PROVIDERS[^key-ca003de332f461b904a1d9aead883416]
+
+Section 4(5)
+
+### Interpretation
+
+**1.** In this Schedule—
+
+- “recipient of the service” means any person who, for professional ends or otherwise, uses an information society service, in particular for the purposes of seeking information or making it accessible; and
+- “relevant offence” is an offence under section 2, 3A , 7D, 8, 9 or 11[^key-3dee76475c4c88a383628cc4898de013].
+
+### Exceptions for mere conduits
+
+**2.** (1) A service provider is not capable of being guilty of a relevant offence in respect of anything done in the course of providing so much of an information society service as consists in—
+
+- (a) the provision of access to a communication network, or
+- (b) the transmission in a communication network of information provided by a recipient of the service,
+
+if the transmission condition is satisfied.
+
+(2) The transmission condition is that the service provider does not—
+
+- (a) initiate the transmission,
+- (b) select the recipient of the transmission, or
+- (c) select or modify the information contained in the transmission.
+
+(3) Sub-paragraph (1)(b) does not apply if the information is information to which paragraph 3 applies.
+
+(4) For the purposes of this paragraph, the provision of access to a communication network and the transmission of information in the network includes automatic, intermediate and transient storage of information for the purpose of carrying out the transmission in the network.
+
+(5) Sub-paragraph (4) does not apply if the information is stored for longer than is reasonably necessary for the transmission.
+
+### Exception for caching
+
+**3.** (1) This paragraph applies to information which—
+
+- (a) is provided by a recipient of an information society service, and
+- (b) is the subject of automatic, intermediate and temporary storage which is solely for the purpose of making the onward transmission of the information to other recipients of the service at their request more efficient.
+
+(2) A service provider is not capable of being guilty of a relevant offence in respect of anything done in the course of providing so much of an information society service as consists in the transmission in a communication network of information to which this paragraph applies if—
+
+- (a) the service provider does not modify the information;
+- (b) he complies with any conditions attached to having access to the information;
+- (c) in a case to which sub-paragraph (3) applies, the service provider expeditiously removes the information or disables access to it.
+
+(3) This sub-paragraph applies if the service provider obtains actual knowledge that—
+
+- (a) the information at the initial source of the transmission has been removed from the network, or
+- (b) access to it has been disabled.
+
+### Exception for hosting
+
+**4.** (1) A service provider is not capable of being guilty of a relevant offence in respect of anything done in the course of providing so much of an information society service as consists in the storage of information provided by a recipient of the service if—
+
+- (a) the service provider did not know when the information was provided that it contained offending material, or
+- (b) upon obtaining actual knowledge that the information contained offending material, the service provider expeditiously removed the information or disabled access to it.
+
+(2) Offending material is material the storage of which would constitute a relevant offence.
+
+## Annotations
+
+[^key-26755b4fcb4284287bb69e2420f4e1db]: Modification: Act modified (S.) (29.4.2013 for specified purposes) by [The Sale of Tobacco (Display of Tobacco Products and Prices etc.) (Scotland) Regulations 2013 (S.S.I. 2013/85)](https://www.legislation.gov.uk/ssi/2013/85), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2013/85/regulation/1/1), [17](https://www.legislation.gov.uk/ssi/2013/85/regulation/17)
+
+[^c1056594]: Commencement: S. 1 wholly in force at 14.2.2003; s. 1 not in force at Royal Assent see s. 22(1)(2); s. 1 in force for the purpose of making regulations at 20.11.2002 by [S.I. 2002/2865](https://www.legislation.gov.uk/uksi/2002/2865), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2002/2865/article/2/1/a); [S.S.I. 2002/512](https://www.legislation.gov.uk/ssi/2002/512), [art. 2(1)(a)](https://www.legislation.gov.uk/ssi/2002/512/article/2/1/a); s. 1 in force in so far as not already in force at 14.2.2003 by [S.I. 2002/2865](https://www.legislation.gov.uk/uksi/2002/2865), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2002/2865/article/2/2/a); [S.S.I. 2002/512](https://www.legislation.gov.uk/ssi/2002/512), [art. 2(2)(a)](https://www.legislation.gov.uk/ssi/2002/512/article/2/2/a)
+
+[^key-27f5e7aa6528c97cd98e5cc13de6d372]: Textual amendment: Words in [s. 1](https://www.legislation.gov.uk/ukpga/2002/36/section/1) substituted (29.4.2026) by [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [ss. 138](https://www.legislation.gov.uk/ukpga/2026/18/section/138), [176(2)(a)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/2/a) (with [ss. 140](https://www.legislation.gov.uk/ukpga/2026/18/section/140), [166](https://www.legislation.gov.uk/ukpga/2026/18/section/166))
+
+[^c1056595]: Commencement: S. 2 partly in force; s. 2 not in force at Royal Assent see s. 22(1)(2); s. 2 in force for certain purposes at 14.2.2003 and for certain further purposes at 14.5.2003 by [S.I. 2002/2865](https://www.legislation.gov.uk/uksi/2002/2865), [art. 2(2)(b)(3)(a)](https://www.legislation.gov.uk/uksi/2002/2865/article/2/2/b/3/a) (with [art. 3](https://www.legislation.gov.uk/uksi/2002/2865/article/3)) (as amended by [S.I. 2003/258](https://www.legislation.gov.uk/uksi/2003/258), [art. 2(3)-(6)](https://www.legislation.gov.uk/uksi/2003/258/article/2/3)) and [S.S.I. 2002/512](https://www.legislation.gov.uk/ssi/2002/512), [art. 2(2)(b)(3)(a)](https://www.legislation.gov.uk/ssi/2002/512/article/2/2/b/3/a) (with [art. 3](https://www.legislation.gov.uk/ssi/2002/512/article/3)) (as amended by [S.S.I. 2003/80](https://www.legislation.gov.uk/ssi/2003/80), [art. 2(3)-(6)](https://www.legislation.gov.uk/ssi/2003/80/article/2/3))
+
+[^key-a94c2de35fc0a9a11454fc17933105a5]: Commencement: S. 2 in force at 21.12.2004 for specified purposes for S. by [S.S.I. 2004/546](https://www.legislation.gov.uk/ssi/2004/546), [art. 2(1)](https://www.legislation.gov.uk/ssi/2004/546/article/2/1)
+
+[^key-1a8f162895f0a43f78f8a5dcc2161e22]: Commencement: S. 2 in force at 21.12.2004 for specified purposes for E.W.N.I. by [S.I. 2004/3138](https://www.legislation.gov.uk/uksi/2004/3138), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/3138/article/2/1)
+
+[^key-c2404dd687aea5545f6a9a4d7d5efac2]: Commencement: S. 2 in force at 31.7.2005 for specified purposes for E.W.N.I. by [S.I. 2004/3138](https://www.legislation.gov.uk/uksi/2004/3138), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2004/3138/article/2/2/a)
+
+[^key-07f9009ba48d55d69059910b38dd899c]: Commencement: S. 2 in force at 31.7.2005 for specified purposes for S. by [S.S.I. 2004/546](https://www.legislation.gov.uk/ssi/2004/546), [art. 2(2)(a)](https://www.legislation.gov.uk/ssi/2004/546/article/2/2/a)
+
+[^key-9c33bfa42c4d63665053dd40044a5990]: Commencement: S. 2 in force at 26.9.2006 for E.W.N.I. so far as not already in force by [S.I. 2006/2372](https://www.legislation.gov.uk/uksi/2006/2372), [art. 2](https://www.legislation.gov.uk/uksi/2006/2372/article/2)
+
+[^key-e84280e3f1a9b2c18ea76b9387a70c38]: Commencement: S. 2 in force at 28.9.2006 for S. so far as not already in force by [S.S.I. 2006/473](https://www.legislation.gov.uk/ssi/2006/473), [art. 2](https://www.legislation.gov.uk/ssi/2006/473/article/2)
+
+[^key-e83050732969ac9afdb9824129e42ca6]: Modification: S. 2 restricted (31.10.2012 for specified purposes, 6.4.2015 in so far as not already in force) by [The Tobacco Advertising and Promotion (Display) Regulations (Northern Ireland) 2012 (S.R. 2012/246)](https://www.legislation.gov.uk/nisr/2012/246), [art. 1(1)](https://www.legislation.gov.uk/nisr/2012/246/article/1/1)[reg. 9](https://www.legislation.gov.uk/nisr/2012/246/regulation/9) (with [reg. 1(2)](https://www.legislation.gov.uk/nisr/2012/246/regulation/1/2))
+
+[^key-8a355f8eb90bee31f11de6cee6bc8a61]: Modification: S. 2 restricted (N.I.) (6.4.2015) by [The Tobacco Advertising and Promotion (Specialist Tobacconists) Regulations (Northern Ireland) 2012 (S.R. 2012/244)](https://www.legislation.gov.uk/nisr/2012/244), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2012/244/regulation/1/1), [2](https://www.legislation.gov.uk/nisr/2012/244/regulation/2) (with [reg. 4](https://www.legislation.gov.uk/nisr/2012/244/regulation/4))
+
+[^key-68e518b16f6b9d2de428bde634924754]: Textual amendment: S. 2(4) omitted (31.12.2020) by virtue of [The Tobacco Products and Nicotine Inhaling Products (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/41)](https://www.legislation.gov.uk/uksi/2019/41), [regs. 1](https://www.legislation.gov.uk/uksi/2019/41/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/41/regulation/2/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c1056596]: Commencement: S. 3 wholly in force at 14.2.2003; s. 3 not in force at Royal Assent see s. 22(1)(2); s. 3 wholly in force at 14.2.2003 by [S.I. 2002/2865](https://www.legislation.gov.uk/uksi/2002/2865), [art. 2(2)(c)](https://www.legislation.gov.uk/uksi/2002/2865/article/2/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2002/2865/article/3)) (as amended by [S.I. 2003/258](https://www.legislation.gov.uk/uksi/2003/258), [art. 2(3)-(6)](https://www.legislation.gov.uk/uksi/2003/258/article/2/3)) and [S.S.I. 2002/512](https://www.legislation.gov.uk/ssi/2002/512), [art. 2(2)(c)](https://www.legislation.gov.uk/ssi/2002/512/article/2/2/c) (with [art. 3](https://www.legislation.gov.uk/ssi/2002/512/article/3)) (as amended by [S.S.I. 2003/80](https://www.legislation.gov.uk/ssi/2003/80), [art. 2(3)-(6)](https://www.legislation.gov.uk/ssi/2003/80/article/2/3))
+
+[^key-4e36619ee714b517877af5d79db6d1d9]: Textual amendment: S. 3A inserted (28.9.2006) by [Tobacco Advertising and Promotion Act 2002 (Amendment) Regulations 2006 (S.I. 2006/2369)](https://www.legislation.gov.uk/uksi/2006/2369), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/2369/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2006/2369/regulation/3)
+
+[^key-239258b2f553ea7a08527b9ee4f6ba92]: Textual amendment: Word in [s. 3A(1)(a)](https://www.legislation.gov.uk/ukpga/2002/36/section/3A/1/a) omitted (31.12.2020) by virtue of [The Tobacco Products and Nicotine Inhaling Products (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/41)](https://www.legislation.gov.uk/uksi/2019/41), [regs. 1](https://www.legislation.gov.uk/uksi/2019/41/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2019/41/regulation/2/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-057fe9f9513fedf49bed5aa8aadeda27]: Textual amendment: [S. 3A(1)(b)](https://www.legislation.gov.uk/ukpga/2002/36/section/3A/1/b) omitted (31.12.2020) by virtue of [The Tobacco Products and Nicotine Inhaling Products (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/41)](https://www.legislation.gov.uk/uksi/2019/41), [regs. 1](https://www.legislation.gov.uk/uksi/2019/41/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2019/41/regulation/2/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c1056597]: Commencement: S. 4 not in force at Royal Assent see s. 22(1)(2); s. 4(3)(4) in force for the purpose of making regulations at 20.11.2002 by [S.I. 2002/2865](https://www.legislation.gov.uk/uksi/2002/2865), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2002/2865/article/2/1/b); [S.S.I. 2002/512](https://www.legislation.gov.uk/ssi/2002/512), [art. 2(1)(b)](https://www.legislation.gov.uk/ssi/2002/512/article/2/1/b); s. 4(1)(2) in force at 14.2.2003 by [S.I. 2002/2865](https://www.legislation.gov.uk/uksi/2002/2865), [art. 2(2)(d)](https://www.legislation.gov.uk/uksi/2002/2865/article/2/2/d); [S.S.I. 2002/512](https://www.legislation.gov.uk/ssi/2002/512), [art. 2(2)(d)](https://www.legislation.gov.uk/ssi/2002/512/article/2/2/d)
+
+[^key-0f4a22ac2acd8212202a5c7eee46bfb1]: Textual amendment: Words in s. 4(1) substituted (28.9.2006) by [Tobacco Advertising and Promotion Act 2002 (Amendment) Regulations 2006 (S.I. 2006/2369)](https://www.legislation.gov.uk/uksi/2006/2369), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/2369/regulation/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2006/2369/regulation/4/2)
+
+[^key-2123f9070832666ae84e22f714a7c724]: Textual amendment: S. 4(1)(c) substituted (28.9.2006) by [Tobacco Advertising and Promotion Act 2002 (Amendment) Regulations 2006 (S.I. 2006/2369)](https://www.legislation.gov.uk/uksi/2006/2369), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/2369/regulation/1/1), [4(3)](https://www.legislation.gov.uk/uksi/2006/2369/regulation/4/3)
+
+[^key-c367eb0f964ee20fad2630ad8221198a]: Textual amendment: Words in s. 4(1)(c) substituted (31.12.2020) by [The Tobacco Products and Nicotine Inhaling Products (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/41)](https://www.legislation.gov.uk/uksi/2019/41), [regs. 1](https://www.legislation.gov.uk/uksi/2019/41/regulation/1), [2(4)(a)(i)](https://www.legislation.gov.uk/uksi/2019/41/regulation/2/4/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-3fa1f6b1a1f9e5eaa0f349cea50abeaf]: Textual amendment: Words in s. 4(1)(c) substituted (31.12.2020) by [The Tobacco Products and Nicotine Inhaling Products (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/41)](https://www.legislation.gov.uk/uksi/2019/41), [regs. 1](https://www.legislation.gov.uk/uksi/2019/41/regulation/1), [2(4)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/41/regulation/2/4/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-ae78901f81e15b4826b44bf0170af636]: Textual amendment: S. 4(1)(d) inserted (28.9.2006) by [Tobacco Advertising and Promotion Act 2002 (Amendment) Regulations 2006 (S.I. 2006/2369)](https://www.legislation.gov.uk/uksi/2006/2369), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/2369/regulation/1/1), [4(4)](https://www.legislation.gov.uk/uksi/2006/2369/regulation/4/4)
+
+[^key-e0c6df8d74857bd7f2f9d0128243f330]: Textual amendment: Words in s. 4(1)(d) substituted (31.12.2020) by [The Tobacco Products and Nicotine Inhaling Products (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/41)](https://www.legislation.gov.uk/uksi/2019/41), [regs. 1](https://www.legislation.gov.uk/uksi/2019/41/regulation/1), [2(4)(b)(i)](https://www.legislation.gov.uk/uksi/2019/41/regulation/2/4/b/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-d6f668d050493c89f693210735ed50e6]: Textual amendment: Words in s. 4(1)(d) substituted (31.12.2020) by [The Tobacco Products and Nicotine Inhaling Products (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/41)](https://www.legislation.gov.uk/uksi/2019/41), [regs. 1](https://www.legislation.gov.uk/uksi/2019/41/regulation/1), [2(4)(b)(ii)](https://www.legislation.gov.uk/uksi/2019/41/regulation/2/4/b/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-c9fa18074b14f6b53d23030d9b471689]: Textual amendment: S. 4(1A)(1B) inserted (28.9.2006) by [Tobacco Advertising and Promotion Act 2002 (Amendment) Regulations 2006 (S.I. 2006/2369)](https://www.legislation.gov.uk/uksi/2006/2369), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/2369/regulation/1/1), [4(5)](https://www.legislation.gov.uk/uksi/2006/2369/regulation/4/5)
+
+[^key-4f32701300adfad3eb6e323c3e50c5d2]: Commencement: S. 4(3)(4) in force at 25.2.2003 for S. so far as not already in force by [S.S.I. 2003/113](https://www.legislation.gov.uk/ssi/2003/113), [art. 2(a)](https://www.legislation.gov.uk/ssi/2003/113/article/2/a)
+
+[^key-850e3cd31875c45859c92ff3317e6c0a]: Commencement: S. 4(3)(4) in force at 26.2.2003 for E.W.N.I. so far as not already in force by [S.I. 2003/396](https://www.legislation.gov.uk/uksi/2003/396), [art. 2(a)](https://www.legislation.gov.uk/uksi/2003/396/article/2/a)
+
+[^key-d1e92d9e60e6575b4a8b05cb9a8516e6]: Textual amendment: Words in s. 4(3) omitted (28.9.2006) by virtue of [Tobacco Advertising and Promotion Act 2002 (Amendment) Regulations 2006 (S.I. 2006/2369)](https://www.legislation.gov.uk/uksi/2006/2369), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/2369/regulation/1/1), [4(6)](https://www.legislation.gov.uk/uksi/2006/2369/regulation/4/6)
+
+[^key-16e178aa2e048d7365266239455d6bc1]: Textual amendment: S. 4(5) inserted (28.9.2006) by [Tobacco Advertising and Promotion Act 2002 (Amendment) Regulations 2006 (S.I. 2006/2369)](https://www.legislation.gov.uk/uksi/2006/2369), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/2369/regulation/1/1), [4(7)](https://www.legislation.gov.uk/uksi/2006/2369/regulation/4/7)
+
+[^c1056598]: Commencement: S. 5 wholly in force at 14.2.2003; s. 5 not in force at Royal Assent see s. 22(1)(2); s. 5 wholly in force at 14.2.2003 by [S.I. 2002/2865](https://www.legislation.gov.uk/uksi/2002/2865), [art. 2(2)(e)](https://www.legislation.gov.uk/uksi/2002/2865/article/2/2/e); [S.S.I. 2002/512](https://www.legislation.gov.uk/ssi/2002/512), [art. 2(2)(e)](https://www.legislation.gov.uk/ssi/2002/512/article/2/2/e)
+
+[^key-b7d4db4028a3aa06d79f2c67d713e1de]: Textual amendment: Words in s. 5(1) substituted (28.9.2006) by [Tobacco Advertising and Promotion Act 2002 (Amendment) Regulations 2006 (S.I. 2006/2369)](https://www.legislation.gov.uk/uksi/2006/2369), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/2369/regulation/1/1), [5(2)](https://www.legislation.gov.uk/uksi/2006/2369/regulation/5/2)
+
+[^key-1ea4464ded3e49e390bc02bede0f3c9a]: Textual amendment: Words in s. 5(1) omitted (31.12.2020) by virtue of [The Tobacco Products and Nicotine Inhaling Products (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/41)](https://www.legislation.gov.uk/uksi/2019/41), [regs. 1](https://www.legislation.gov.uk/uksi/2019/41/regulation/1), [2(5)(a)](https://www.legislation.gov.uk/uksi/2019/41/regulation/2/5/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-20f024176e204d50601955faba26f161]: Textual amendment: Words in s. 5(3) substituted (28.9.2006) by [Tobacco Advertising and Promotion Act 2002 (Amendment) Regulations 2006 (S.I. 2006/2369)](https://www.legislation.gov.uk/uksi/2006/2369), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/2369/regulation/1/1), [5(3)](https://www.legislation.gov.uk/uksi/2006/2369/regulation/5/3)
+
+[^key-9ee3bc81f85f7bd5239a1e86446ca42a]: Textual amendment: S. 5(3A) omitted (31.12.2020) by virtue of [The Tobacco Products and Nicotine Inhaling Products (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/41)](https://www.legislation.gov.uk/uksi/2019/41), [regs. 1](https://www.legislation.gov.uk/uksi/2019/41/regulation/1), [2(5)(b)](https://www.legislation.gov.uk/uksi/2019/41/regulation/2/5/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-6db3e11b88b5cefd9af582f82976da9a]: Textual amendment: Word in s. 5(5) omitted (28.9.2006) by virtue of [Tobacco Advertising and Promotion Act 2002 (Amendment) Regulations 2006 (S.I. 2006/2369)](https://www.legislation.gov.uk/uksi/2006/2369), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/2369/regulation/1/1), [5(5)(a)](https://www.legislation.gov.uk/uksi/2006/2369/regulation/5/5/a)
+
+[^key-6a8e191fd115a04e510927af60bf9735]: Textual amendment: S. 5(5)(c)(d) substituted (28.9.2006) for s. 5(5)(c) by [Tobacco Advertising and Promotion Act 2002 (Amendment) Regulations 2006 (S.I. 2006/2369)](https://www.legislation.gov.uk/uksi/2006/2369), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/2369/regulation/1/1), [5(5)(b)](https://www.legislation.gov.uk/uksi/2006/2369/regulation/5/5/b)
+
+[^key-f87d622532e908f993310a7d9d07a6d3]: Textual amendment: Words in s. 5(5)(c) substituted (31.12.2020) by [The Tobacco Products and Nicotine Inhaling Products (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/41)](https://www.legislation.gov.uk/uksi/2019/41), [regs. 1](https://www.legislation.gov.uk/uksi/2019/41/regulation/1), [2(5)(c)](https://www.legislation.gov.uk/uksi/2019/41/regulation/2/5/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-301f91ad6851a8ceb4cbb103c8f0c99b]: Textual amendment: S. 5(5A) omitted (31.12.2020) by virtue of [The Tobacco Products and Nicotine Inhaling Products (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/41)](https://www.legislation.gov.uk/uksi/2019/41), [regs. 1](https://www.legislation.gov.uk/uksi/2019/41/regulation/1), [2(5)(d)](https://www.legislation.gov.uk/uksi/2019/41/regulation/2/5/d); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c1056599]: Commencement: S. 6 wholly in force at 14.2.2003; s. 6 not in force at Royal Assent see s. 22(1)(2); s. 6 wholly in force at 14.2.2003 by [S.I. 2002/2865](https://www.legislation.gov.uk/uksi/2002/2865), [art. 2(2)(e)](https://www.legislation.gov.uk/uksi/2002/2865/article/2/2/e); [S.S.I. 2002/512](https://www.legislation.gov.uk/ssi/2002/512), [art. 2(2)(e)](https://www.legislation.gov.uk/ssi/2002/512/article/2/2/e)
+
+[^key-5ca1b4ed3dd46d834614fffac69b9aba]: Textual amendment: S. 6(A1) inserted (12.11.2009 for specified purposes, 6.4.2015 in so far as not already in force) by [Health Act 2009 (c. 21)](https://www.legislation.gov.uk/ukpga/2009/21), [ss. 20](https://www.legislation.gov.uk/ukpga/2009/21/section/20), [40(1)](https://www.legislation.gov.uk/ukpga/2009/21/section/40/1), [40(6)(b)](https://www.legislation.gov.uk/ukpga/2009/21/section/40/6/b); [S.I. 2010/1068](https://www.legislation.gov.uk/uksi/2010/1068), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2010/1068/article/2/2/a) (as amended (9.5.2011) by [S.I. 2011/1255](https://www.legislation.gov.uk/uksi/2011/1255), art. 2(c)); [S.R. 2012/389](https://www.legislation.gov.uk/nisr/2012/389), [art. 2(2)(a)](https://www.legislation.gov.uk/nisr/2012/389/article/2/2/a); [S.I. 2012/1288](https://www.legislation.gov.uk/wsi/2012/1288), [art. 3(a)](https://www.legislation.gov.uk/wsi/2012/1288/article/3/a)
+
+[^key-75c0c48cbca537b71746891e2b4c3944]: Textual amendment: Words in s. 6(1)(a) repealed (S.) (3.3.2010) by [Tobacco and Primary Medical Services (Scotland) Act 2010 (asp 3)](https://www.legislation.gov.uk/asp/2010/3), [s. 43(2)](https://www.legislation.gov.uk/asp/2010/3/section/43/2), [Sch. 2 para. 3](https://www.legislation.gov.uk/asp/2010/3/schedule/2/paragraph/3)
+
+[^key-c076e155d7b147e45f52fa8ce238b4df]: Textual amendment: Words in s. 6(1)(a) inserted (6.4.2015) by [Health Act 2009 (c. 21)](https://www.legislation.gov.uk/ukpga/2009/21), [s. 40(1)](https://www.legislation.gov.uk/ukpga/2009/21/section/40/1), [Sch. 4 para. 3(2)](https://www.legislation.gov.uk/ukpga/2009/21/schedule/4/paragraph/3/2); [S.I. 2010/1068](https://www.legislation.gov.uk/uksi/2010/1068), [art. 2(2)(c)(ii)](https://www.legislation.gov.uk/uksi/2010/1068/article/2/2/c/ii) (as amended (9.5.2011) by [S.I. 2011/1255](https://www.legislation.gov.uk/uksi/2011/1255), art. 2(c)); [S.R. 2012/389](https://www.legislation.gov.uk/nisr/2012/389), [art. 2(2)(c)(ii)](https://www.legislation.gov.uk/nisr/2012/389/article/2/2/c/ii); [S.I. 2012/1288](https://www.legislation.gov.uk/wsi/2012/1288), [art. 3(c)(ii)](https://www.legislation.gov.uk/wsi/2012/1288/article/3/c/ii)
+
+[^key-1889f635056cb1f33d1c4bbc80b604ad]: Textual amendment: Word in s. 6(4) inserted (6.4.2015) by [Health Act 2009 (c. 21)](https://www.legislation.gov.uk/ukpga/2009/21), [s. 40(1)](https://www.legislation.gov.uk/ukpga/2009/21/section/40/1), [Sch. 4 para. 3(3)](https://www.legislation.gov.uk/ukpga/2009/21/schedule/4/paragraph/3/3); [S.I. 2010/1068](https://www.legislation.gov.uk/uksi/2010/1068), [art. 2(2)(c)(ii)](https://www.legislation.gov.uk/uksi/2010/1068/article/2/2/c/ii) (as amended (9.5.2011) by [S.I. 2011/1255](https://www.legislation.gov.uk/uksi/2011/1255), art. 2(c)); [S.R. 2012/389](https://www.legislation.gov.uk/nisr/2012/389), [art. 2(2)(c)(ii)](https://www.legislation.gov.uk/nisr/2012/389/article/2/2/c/ii); [S.I. 2012/1288](https://www.legislation.gov.uk/wsi/2012/1288), [art. 3(c)(ii)](https://www.legislation.gov.uk/wsi/2012/1288/article/3/c/ii)
+
+[^c1056600]: Commencement: S. 7 wholly in force at 14.2.2003; s. 7 not in force at Royal Assent see s. 22(1)(2); s. 7 wholly in force at 14.2.2003 by [S.I. 2002/2865](https://www.legislation.gov.uk/uksi/2002/2865), [art. 2(2)(e)](https://www.legislation.gov.uk/uksi/2002/2865/article/2/2/e); [S.S.I. 2002/512](https://www.legislation.gov.uk/ssi/2002/512), [art. 2(2)(e)](https://www.legislation.gov.uk/ssi/2002/512/article/2/2/e)
+
+[^key-a129d2f2df0e36d3005adefeceb22ef8]: Textual amendment: Ss. 7A-7D inserted (12.11.2009 for specified purposes, 6.4.2012 for E. for specified purposes, 31.10.2012 for N.I. for specified purposes) by [Health Act 2009 (c. 21)](https://www.legislation.gov.uk/ukpga/2009/21), [ss. 21](https://www.legislation.gov.uk/ukpga/2009/21/section/21), [40(1)](https://www.legislation.gov.uk/ukpga/2009/21/section/40/1), [40(6)(b)](https://www.legislation.gov.uk/ukpga/2009/21/section/40/6/b); [S.I. 2010/1068](https://www.legislation.gov.uk/uksi/2010/1068), [art. 2(1A)(a)](https://www.legislation.gov.uk/uksi/2010/1068/article/2/1A/a) (as amended (9.5.2011) by [S.I. 2011/1255](https://www.legislation.gov.uk/uksi/2011/1255), art. 2(a)(b)); [S.R. 2012/389](https://www.legislation.gov.uk/nisr/2012/389), [art. 2(1)(a)](https://www.legislation.gov.uk/nisr/2012/389/article/2/1/a)
+
+[^key-16f7654a9905815e560c09e989afe1e2]: Modification: [S. 7A(1)](https://www.legislation.gov.uk/ukpga/2002/36/section/7A/1) restricted (N.I.) (31.10.2012 for specified purposes, 6.4.2015 in so far as not already in force) by [The Tobacco Advertising and Promotion (Display) Regulations (Northern Ireland) 2012 (S.R. 2012/246)](https://www.legislation.gov.uk/nisr/2012/246), [art. 1(1)](https://www.legislation.gov.uk/nisr/2012/246/article/1/1), [regs. 4-7](https://www.legislation.gov.uk/nisr/2012/246/regulation/4) (with [reg. 1(2)](https://www.legislation.gov.uk/nisr/2012/246/regulation/1/2))
+
+[^key-26b71e6ca1b0993e6c5f6936d89d1ba6]: Modification: S. 7A(1) restricted (N.I.) (6.4.2015) by [The Tobacco Advertising and Promotion (Specialist Tobacconists) Regulations (Northern Ireland) 2012 (S.R. 2012/244)](https://www.legislation.gov.uk/nisr/2012/244), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2012/244/regulation/1/1), [3](https://www.legislation.gov.uk/nisr/2012/244/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/nisr/2012/244/regulation/4))
+
+[^key-d145f7e22526e319f45c3be8fb3bb1ab]: Textual amendment: [S. 7D(3)](https://www.legislation.gov.uk/ukpga/2002/36/section/7D/3) omitted (31.12.2020) by virtue of [The Tobacco Products and Nicotine Inhaling Products (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/41)](https://www.legislation.gov.uk/uksi/2019/41), [regs. 1](https://www.legislation.gov.uk/uksi/2019/41/regulation/1), [2(6)](https://www.legislation.gov.uk/uksi/2019/41/regulation/2/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c1056601]: Commencement: S. 8 wholly in force at 14.2.2003; s. 8 not in force at Royal Assent see s. 22(1)(2); s. 8 wholly in force at 14.2.2003 by [S.I. 2002/2865](https://www.legislation.gov.uk/uksi/2002/2865), [art. 2(2)(e)](https://www.legislation.gov.uk/uksi/2002/2865/article/2/2/e); [S.S.I. 2002/512](https://www.legislation.gov.uk/ssi/2002/512), [art. 2(2)(e)](https://www.legislation.gov.uk/ssi/2002/512/article/2/2/e)
+
+[^key-e463d862c774cf857ad868a1e59e949f]: Textual amendment: Word in s. 8 heading inserted (6.4.2015) by [Health Act 2009 (c. 21)](https://www.legislation.gov.uk/ukpga/2009/21), [s. 40(1)](https://www.legislation.gov.uk/ukpga/2009/21/section/40/1), [Sch. 4 para. 4(5)](https://www.legislation.gov.uk/ukpga/2009/21/schedule/4/paragraph/4/5); [S.I. 2010/1068](https://www.legislation.gov.uk/uksi/2010/1068), [art. 2(2)(c)(iii)](https://www.legislation.gov.uk/uksi/2010/1068/article/2/2/c/iii) (as amended (9.5.2011) by [S.I. 2011/1255](https://www.legislation.gov.uk/uksi/2011/1255), art. 2(c)); [S.R. 2012/389](https://www.legislation.gov.uk/nisr/2012/389), [art. 2(2)(c)(iii)](https://www.legislation.gov.uk/nisr/2012/389/article/2/2/c/iii); [S.I. 2012/1288](https://www.legislation.gov.uk/wsi/2012/1288), [art. 3(c)(iii)](https://www.legislation.gov.uk/wsi/2012/1288/article/3/c/iii)
+
+[^key-663d33b53eef1d0f9f4bcae53c2013e6]: Textual amendment: Words in s. 8(1) inserted (6.4.2015 for E.) by [Health Act 2009 (c. 21)](https://www.legislation.gov.uk/ukpga/2009/21), [s. 40(1)](https://www.legislation.gov.uk/ukpga/2009/21/section/40/1), [Sch. 4 para. 4(2)](https://www.legislation.gov.uk/ukpga/2009/21/schedule/4/paragraph/4/2); [S.I. 2010/1068](https://www.legislation.gov.uk/uksi/2010/1068), [art. 2(2)(c)(iii)](https://www.legislation.gov.uk/uksi/2010/1068/article/2/2/c/iii) (as amended (9.5.2011) by [S.I. 2011/1255](https://www.legislation.gov.uk/uksi/2011/1255), art. 2(c))
+
+[^key-9c6e7a3793685b288494b3863c47f7f4]: Textual amendment: Words in s. 8(1) repealed (S.) (3.3.2010) by [Tobacco and Primary Medical Services (Scotland) Act 2010 (asp 3)](https://www.legislation.gov.uk/asp/2010/3), [s. 43(2)](https://www.legislation.gov.uk/asp/2010/3/section/43/2), [Sch. 2 para. 4(a)](https://www.legislation.gov.uk/asp/2010/3/schedule/2/paragraph/4/a)
+
+[^key-270eb9fd20869169b9e578257e4c5b36]: Textual amendment: S. 8(1A) omitted (31.12.2020) by virtue of [The Tobacco Products and Nicotine Inhaling Products (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/41)](https://www.legislation.gov.uk/uksi/2019/41), [regs. 1](https://www.legislation.gov.uk/uksi/2019/41/regulation/1), [2(7)](https://www.legislation.gov.uk/uksi/2019/41/regulation/2/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-c0e9ba672cd31553f4dddee30cc95d7e]: Textual amendment: S. 8(2) substituted (12.1.2010) by [Health Act 2009 (c. 21)](https://www.legislation.gov.uk/ukpga/2009/21), [s. 40(7)(b)](https://www.legislation.gov.uk/ukpga/2009/21/section/40/7/b), [Sch. 4 para. 4(4)](https://www.legislation.gov.uk/ukpga/2009/21/schedule/4/paragraph/4/4)
+
+[^key-4b5cdaee510d59a021e34a8b76a991f0]: Textual amendment: S. 8(3) repealed (S.) (3.3.2010) by [Tobacco and Primary Medical Services (Scotland) Act 2010 (asp 3)](https://www.legislation.gov.uk/asp/2010/3), [s. 43(2)](https://www.legislation.gov.uk/asp/2010/3/section/43/2), [Sch. 2 para. 4(b)](https://www.legislation.gov.uk/asp/2010/3/schedule/2/paragraph/4/b)
+
+[^key-4e6856b5a4b6f4e995387cac1cdc78bb]: Textual amendment: [S. 9](https://www.legislation.gov.uk/ukpga/2002/36/section/9) omitted (29.10.2026) by virtue of [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1), [Sch. 6 para. 9](https://www.legislation.gov.uk/ukpga/2026/18/schedule/6/paragraph/9) (with [s. 166](https://www.legislation.gov.uk/ukpga/2026/18/section/166))
+
+[^c1056603]: Commencement: S. 10 wholly in force at 14.2.2003; s. 10 not in force at Royal Assent see s. 22(1)(2); s. 10 wholly in force at 14.2.2003 by [S.I. 2002/2865](https://www.legislation.gov.uk/uksi/2002/2865), [art. 2(2)(g)](https://www.legislation.gov.uk/uksi/2002/2865/article/2/2/g) (with [art. 3](https://www.legislation.gov.uk/uksi/2002/2865/article/3)) (as amended by [S.I. 2003/258](https://www.legislation.gov.uk/uksi/2003/258), [art. 2(3)-(6)](https://www.legislation.gov.uk/uksi/2003/258/article/2/3)) and [S.S.I. 2002/512](https://www.legislation.gov.uk/ssi/2002/512), [art. 2(2)(g)](https://www.legislation.gov.uk/ssi/2002/512/article/2/2/g) (with [art. 3](https://www.legislation.gov.uk/ssi/2002/512/article/3)) (as amended by [S.S.I. 2003/80](https://www.legislation.gov.uk/ssi/2003/80), [art. 2(3)-(6)](https://www.legislation.gov.uk/ssi/2003/80/article/2/3))
+
+[^key-03d3a111bf007096c10f99edc6c067cd]: Modification: S. 10 restricted (E.W.N.I.) (14.2.2003) by [Tobacco Advertising and Promotion (Sponsorship) Transitional Regulations 2003 (S.I. 2003/77)](https://www.legislation.gov.uk/uksi/2003/77), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/77/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2003/77/regulation/3)
+
+[^key-1fb29a8f8f265f605f772f4d3621b4ee]: Modification: S. 10 restricted (S.) (14.2.2003) by [Tobacco Advertising and Promotion (Sponsorship Transitional Provisions) (Scotland) Regulations 2003 (S.S.I. 2003/34)](https://www.legislation.gov.uk/ssi/2003/34), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2003/34/regulation/1/1), [3(1)](https://www.legislation.gov.uk/ssi/2003/34/regulation/3/1)
+
+[^c1056604]: Commencement: S. 11 not in force at Royal Assent see s. 22(1)(2); s. 11(1)-(3) in force for the purpose of making regulations at 20.11.2002 by [S.I. 2002/2865](https://www.legislation.gov.uk/uksi/2002/2865), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2002/2865/article/2/1/c); [S.S.I. 2002/512](https://www.legislation.gov.uk/ssi/2002/512), [art. 2(1)(c)](https://www.legislation.gov.uk/ssi/2002/512/article/2/1/c); s. 11(4) in force at 14.2.2003 by [S.I. 2002/2865](https://www.legislation.gov.uk/uksi/2002/2865), [art. 2(2)(h)](https://www.legislation.gov.uk/uksi/2002/2865/article/2/2/h); [S.S.I. 2002/521](https://www.legislation.gov.uk/ssi/2002/521), [art. 2(2)(h)](https://www.legislation.gov.uk/ssi/2002/521/article/2/2/h)
+
+[^key-94c4d8388040cd1fb5ce9fd386fe9a98]: Commencement: S. 11(1)-(3) in force at 25.2.2003 for S. so far as not already in force by [S.S.I. 2003/113](https://www.legislation.gov.uk/ssi/2003/113), [art. 2(b)](https://www.legislation.gov.uk/ssi/2003/113/article/2/b)
+
+[^key-2ced969b0d45b18e764ff1f877f018ca]: Commencement: S. 11(1)-(3) in force at 26.2.2003 for E.W.N.I. so far as not already in force by [S.I. 2003/396](https://www.legislation.gov.uk/uksi/2003/396), [art. 2(b)](https://www.legislation.gov.uk/uksi/2003/396/article/2/b)
+
+[^key-70c0e4e5d7b32f8f6f97b4cf0faca115]: Textual amendment: Words in s. 11(3) inserted (6.4.2012 for E., 31.10.2012 for N.I., 3.12.2012 for W.) by [Health Act 2009 (c. 21)](https://www.legislation.gov.uk/ukpga/2009/21), [s. 40(1)](https://www.legislation.gov.uk/ukpga/2009/21/section/40/1), [Sch. 4 para. 6(2)](https://www.legislation.gov.uk/ukpga/2009/21/schedule/4/paragraph/6/2); [S.I. 2010/1068](https://www.legislation.gov.uk/uksi/2010/1068), [art. 2(1A)(b)(i)](https://www.legislation.gov.uk/uksi/2010/1068/article/2/1A/b/i) (as amended (9.5.2011) by [S.I. 2011/1255](https://www.legislation.gov.uk/uksi/2011/1255), art. 2(a)(b)); [S.R. 2012/389](https://www.legislation.gov.uk/nisr/2012/389), [art. 2(1)(b)(i)](https://www.legislation.gov.uk/nisr/2012/389/article/2/1/b/i); [S.I. 2012/1288](https://www.legislation.gov.uk/wsi/2012/1288), [art. 2(2)(b)(i)](https://www.legislation.gov.uk/wsi/2012/1288/article/2/2/b/i)
+
+[^key-ec240e70cdb96d1b004128d2ff52e148]: Textual amendment: [S. 11(5)](https://www.legislation.gov.uk/ukpga/2002/36/section/11/5) omitted (31.12.2020) by virtue of [The Tobacco Products and Nicotine Inhaling Products (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/41)](https://www.legislation.gov.uk/uksi/2019/41), [regs. 1](https://www.legislation.gov.uk/uksi/2019/41/regulation/1), [2(9)](https://www.legislation.gov.uk/uksi/2019/41/regulation/2/9); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-b1f897f88705159b1ce3d3fb2639c2a4]: Textual amendment: S. 11(5)(6) inserted (12.1.2010) by [Health Act 2009 (c. 21)](https://www.legislation.gov.uk/ukpga/2009/21), [s. 40(7)(b)](https://www.legislation.gov.uk/ukpga/2009/21/section/40/7/b), [Sch. 4 para. 6(3)](https://www.legislation.gov.uk/ukpga/2009/21/schedule/4/paragraph/6/3)
+
+[^c1056605]: Commencement: S. 12 wholly in force at 14.2.2003; s. 12 not in force at Royal Assent see s. 22(1)(2); s. 12 wholly in force at 14.2.2003 by [S.I. 2002/2865](https://www.legislation.gov.uk/uksi/2002/2865), [art. 2(2)(i)](https://www.legislation.gov.uk/uksi/2002/2865/article/2/2/i); [S.S.I. 2002/512](https://www.legislation.gov.uk/ssi/2002/512), [art. 2(2)(i)](https://www.legislation.gov.uk/ssi/2002/512/article/2/2/i)
+
+[^key-b368d972f59772707d7e274b38739d80]: Textual amendment: S. 12(3) substituted (29.12.2003) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [s. 411(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/2), [Sch. 17 para. 173(2)](https://www.legislation.gov.uk/ukpga/2003/21/schedule/17/paragraph/173/2) (with [Sch. 18](https://www.legislation.gov.uk/ukpga/2003/21/schedule/18)); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+
+[^key-bb23f99393b1998bf93c82a6b56ef027]: Textual amendment: Words in [s. 12(3)(b)](https://www.legislation.gov.uk/ukpga/2002/36/section/12/3/b) omitted (23.8.2024) by virtue of [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [s. 55(3)(a)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/a), [Sch. 2 para. 21](https://www.legislation.gov.uk/ukpga/2024/15/schedule/2/paragraph/21); [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(v)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/v)
+
+[^key-95cdf705e682342fe5a0560726e5696c]: Textual amendment: S. 12(4) repealed (29.12.2003) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [s. 411(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/2), [Sch. 19(1)](https://www.legislation.gov.uk/ukpga/2003/21/schedule/19/1), Note 1 (with [Sch. 18](https://www.legislation.gov.uk/ukpga/2003/21/schedule/18)); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+
+[^key-5ba58c52c8cf94581037dd9c5aab5563]: Textual amendment: S. 12(5) substituted (29.12.2003) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [s. 411(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/2), [Sch. 17 para. 173(3)](https://www.legislation.gov.uk/ukpga/2003/21/schedule/17/paragraph/173/3) (with [Sch. 18](https://www.legislation.gov.uk/ukpga/2003/21/schedule/18)); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+
+[^key-0c8b9043bc8c35ef0c22ccf7e275aa37]: Textual amendment: Words in [s. 12(6)](https://www.legislation.gov.uk/ukpga/2002/36/section/12/6) substituted (23.8.2024) by [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [s. 55(3)(c)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/c), [Sch. 4 para. 28](https://www.legislation.gov.uk/ukpga/2024/15/schedule/4/paragraph/28); [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(x)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/x)
+
+[^c1056606]: Commencement: S. 13 wholly in force at 14.2.2003; s. 13 not in force at Royal Assent see s. 22(1)(2); s. 13 wholly in force at 14.2.2003 by [S.I. 2002/2865](https://www.legislation.gov.uk/uksi/2002/2865), [art. 2(2)(i)](https://www.legislation.gov.uk/uksi/2002/2865/article/2/2/i); [S.S.I. 2002/512](https://www.legislation.gov.uk/ssi/2002/512), [art. 2(2)(i)](https://www.legislation.gov.uk/ssi/2002/512/article/2/2/i)
+
+[^key-81698cf37319eb7e7cd98780c02cfcce]: Modification: S. 13 applied by SI 1991/2872 (N.I. 25), art. 4A(5) (as inserted (12.11.2009 for specified purposes, 1.3.2012 in so far as not already in force) by [Health Act 2009 (c. 21)](https://www.legislation.gov.uk/ukpga/2009/21), [ss. 23](https://www.legislation.gov.uk/ukpga/2009/21/section/23), [40(1)](https://www.legislation.gov.uk/ukpga/2009/21/section/40/1), [40(6)(b)](https://www.legislation.gov.uk/ukpga/2009/21/section/40/6/b); [S.R. 2012/68](https://www.legislation.gov.uk/nisr/2012/68), [art. 2](https://www.legislation.gov.uk/nisr/2012/68/article/2))
+
+[^key-8a8149dc8efd2973ce6043afd70b1f43]: Modification: S. 13 applied by 1991 c. 23, s. 3A(5) (as inserted (12.11.2009 for specified purposes, 1.10.2011 for E., 1.2.2012 for W. in so far as not already in force) by [Health Act 2009 (c. 21)](https://www.legislation.gov.uk/ukpga/2009/21), [ss. 22(1)](https://www.legislation.gov.uk/ukpga/2009/21/section/22/1), [40(1)](https://www.legislation.gov.uk/ukpga/2009/21/section/40/1), [40(6)(b)](https://www.legislation.gov.uk/ukpga/2009/21/section/40/6/b)); [S.I. 2010/1068](https://www.legislation.gov.uk/uksi/2010/1068), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2010/1068/article/2/1/a) (as amended (9.5.2011) by [S.I. 2011/1255](https://www.legislation.gov.uk/uksi/2011/1255), art. 2(a)(b)); [S.I. 2011/2362](https://www.legislation.gov.uk/wsi/2011/2362), [art. 2](https://www.legislation.gov.uk/wsi/2011/2362/article/2))
+
+[^key-f30ffcf4b3b695924713cce5eb152f02]: Textual amendment: Word in s. 13(1)(a) inserted (12.1.2010) by [Health Act 2009 (c. 21)](https://www.legislation.gov.uk/ukpga/2009/21), [s. 40(7)(b)](https://www.legislation.gov.uk/ukpga/2009/21/section/40/7/b), [Sch. 4 para. 7(2)](https://www.legislation.gov.uk/ukpga/2009/21/schedule/4/paragraph/7/2)
+
+[^key-65f5cbde858ab8fcae57adaf623281c6]: Textual amendment: Words in s. 13(3) inserted (31.10.2012 for N.I.) by [Health Act 2009 (c. 21)](https://www.legislation.gov.uk/ukpga/2009/21), [s. 40(1)](https://www.legislation.gov.uk/ukpga/2009/21/section/40/1), [Sch. 4 para. 7(3)](https://www.legislation.gov.uk/ukpga/2009/21/schedule/4/paragraph/7/3); [S.R. 2012/389](https://www.legislation.gov.uk/nisr/2012/389), [art. 2(1)(b)(ii)](https://www.legislation.gov.uk/nisr/2012/389/article/2/1/b/ii)
+
+[^key-44849238560f0c1db654d167153b4b51]: Textual amendment: S. 13(4) repealed (31.12.2012) by [Health Act 2009 (c. 21)](https://www.legislation.gov.uk/ukpga/2009/21), [s. 40(1)](https://www.legislation.gov.uk/ukpga/2009/21/section/40/1), [Sch. 4 para. 7(4)](https://www.legislation.gov.uk/ukpga/2009/21/schedule/4/paragraph/7/4), [Sch. 6](https://www.legislation.gov.uk/ukpga/2009/21/schedule/6); [S.I. 2012/2647](https://www.legislation.gov.uk/uksi/2012/2647), [art. 2(b)](https://www.legislation.gov.uk/uksi/2012/2647/article/2/b)
+
+[^key-246d7ae98a8abc7a10a56c8c0905a2fd]: Textual amendment: Words in s. 13(5) inserted (6.4.2012 for E.) by [Health Act 2009 (c. 21)](https://www.legislation.gov.uk/ukpga/2009/21), [s. 40(1)](https://www.legislation.gov.uk/ukpga/2009/21/section/40/1), [Sch. 4 para. 7(5)](https://www.legislation.gov.uk/ukpga/2009/21/schedule/4/paragraph/7/5); [S.I. 2010/1068](https://www.legislation.gov.uk/uksi/2010/1068), [art. 2(1A)(b)(ii)](https://www.legislation.gov.uk/uksi/2010/1068/article/2/1A/b/ii) (as amended (9.5.2011) by [S.I. 2011/1255](https://www.legislation.gov.uk/uksi/2011/1255), art. 2(a)(b))
+
+[^key-609604f93ff461919b5764c4ec12b5d7]: Textual amendment: S. 13(5A) inserted (6.4.2012 for E., 1.6.2012 for W.) by [Health Act 2009 (c. 21)](https://www.legislation.gov.uk/ukpga/2009/21), [s. 40(1)](https://www.legislation.gov.uk/ukpga/2009/21/section/40/1), [Sch. 4 para. 7(6)](https://www.legislation.gov.uk/ukpga/2009/21/schedule/4/paragraph/7/6); [S.I. 2010/1068](https://www.legislation.gov.uk/uksi/2010/1068), [art. 2(1A)(b)(ii)](https://www.legislation.gov.uk/uksi/2010/1068/article/2/1A/b/ii) (as amended (9.5.2011) by [S.I. 2011/1255](https://www.legislation.gov.uk/uksi/2011/1255), art. 2(a)(b)); [S.I. 2012/1288](https://www.legislation.gov.uk/wsi/2012/1288), [art. 2(1)(a)](https://www.legislation.gov.uk/wsi/2012/1288/article/2/1/a)
+
+[^c1056607]: Commencement: S. 14 wholly in force at 14.2.2003; s. 14 not in force at Royal Assent see s. 22(1)(2); s. 14 wholly in force at 14.2.2003 by [S.I. 2002/2865](https://www.legislation.gov.uk/uksi/2002/2865), [art. 2(2)(i)](https://www.legislation.gov.uk/uksi/2002/2865/article/2/2/i); [S.S.I. 2002/512](https://www.legislation.gov.uk/ssi/2002/512), [art. 2(2)(i)](https://www.legislation.gov.uk/ssi/2002/512/article/2/2/i)
+
+[^key-dd0b5ec039572d1116794a69a61e6d9c]: Modification: S. 14 applied by SI 1991/2872 (N.I. 25), art. 4A(5) (as inserted (12.11.2009 for specified purposes, 1.3.2012 in so far as not already in force) by [Health Act 2009 (c. 21)](https://www.legislation.gov.uk/ukpga/2009/21), [ss. 23](https://www.legislation.gov.uk/ukpga/2009/21/section/23), [40(1)](https://www.legislation.gov.uk/ukpga/2009/21/section/40/1), [40(6)(b)](https://www.legislation.gov.uk/ukpga/2009/21/section/40/6/b); [S.R. 2012/68](https://www.legislation.gov.uk/nisr/2012/68), [art. 2](https://www.legislation.gov.uk/nisr/2012/68/article/2))
+
+[^key-5634fe9c9e6b4860e27f728757710239]: Modification: S. 14 applied by 1991 c. 23, s. 3A(5) (as inserted (12.11.2009 for specified purposes, 1.10.2011 for E., 1.2.2012 for W. in so far as not already in force) by [Health Act 2009 (c. 21)](https://www.legislation.gov.uk/ukpga/2009/21), [ss. 22(1)](https://www.legislation.gov.uk/ukpga/2009/21/section/22/1), [40(1)](https://www.legislation.gov.uk/ukpga/2009/21/section/40/1), [40(6)(b)](https://www.legislation.gov.uk/ukpga/2009/21/section/40/6/b); [S.I. 2010/1068](https://www.legislation.gov.uk/uksi/2010/1068), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2010/1068/article/2/1/a) (as amended (9.5.2011) by [S.I. 2011/1255](https://www.legislation.gov.uk/uksi/2011/1255), art. 2(a)(b)); [S.I. 2011/2362](https://www.legislation.gov.uk/wsi/2011/2362), [art. 2)](https://www.legislation.gov.uk/wsi/2011/2362/article/2)
+
+[^key-b4ddc6ed72d4949437707f713a9fdc7c]: Textual amendment: S. 14(11) repealed (31.10.2012 for N.I., 31.12.2012 in so far as not already in force) by [Health Act 2009 (c. 21)](https://www.legislation.gov.uk/ukpga/2009/21), [s. 40(1)](https://www.legislation.gov.uk/ukpga/2009/21/section/40/1), [Sch. 4 para. 8(2)](https://www.legislation.gov.uk/ukpga/2009/21/schedule/4/paragraph/8/2), [Sch. 6](https://www.legislation.gov.uk/ukpga/2009/21/schedule/6); [S.R. 2012/389](https://www.legislation.gov.uk/nisr/2012/389), [art. 2(1)(b)(iii)](https://www.legislation.gov.uk/nisr/2012/389/article/2/1/b/iii); [S.I. 2012/2647](https://www.legislation.gov.uk/uksi/2012/2647), [art. 2(b)](https://www.legislation.gov.uk/uksi/2012/2647/article/2/b)
+
+[^key-99eb2e0a55488c8fdd61183084758ea5]: Textual amendment: Word in s. 14(12)(a) repealed (6.4.2012) by [Health Act 2009 (c. 21)](https://www.legislation.gov.uk/ukpga/2009/21), [s. 40(1)](https://www.legislation.gov.uk/ukpga/2009/21/section/40/1), [Sch. 4 para. 8(3)(a)](https://www.legislation.gov.uk/ukpga/2009/21/schedule/4/paragraph/8/3/a), [Sch. 6](https://www.legislation.gov.uk/ukpga/2009/21/schedule/6); [S.I. 2010/1068](https://www.legislation.gov.uk/uksi/2010/1068), [art. 2(1A)(c)](https://www.legislation.gov.uk/uksi/2010/1068/article/2/1A/c) (as amended (9.5.2011) by [S.I. 2011/1255](https://www.legislation.gov.uk/uksi/2011/1255), art. 2(a)(b))
+
+[^key-2f00ef0b838e908cce5001323790f877]: Textual amendment: S. 14(12)(aa) inserted (1.6.2012 for W.) by [Health Act 2009 (c. 21)](https://www.legislation.gov.uk/ukpga/2009/21), [s. 40(1)](https://www.legislation.gov.uk/ukpga/2009/21/section/40/1), [Sch. 4 para. 8(3)(b)](https://www.legislation.gov.uk/ukpga/2009/21/schedule/4/paragraph/8/3/b); [S.I. 2012/1288](https://www.legislation.gov.uk/wsi/2012/1288), [art. 2(1)(b)](https://www.legislation.gov.uk/wsi/2012/1288/article/2/1/b)
+
+[^key-6946fb2a094ef35a5887c42714c031f8]: Textual amendment: Words in s. 14(12) inserted (1.6.2012 for W.) by [Health Act 2009 (c. 21)](https://www.legislation.gov.uk/ukpga/2009/21), [s. 40(1)](https://www.legislation.gov.uk/ukpga/2009/21/section/40/1), [Sch. 4 para. 8(3)(c)](https://www.legislation.gov.uk/ukpga/2009/21/schedule/4/paragraph/8/3/c); [S.I. 2012/1288](https://www.legislation.gov.uk/wsi/2012/1288), [art. 2(1)(b)](https://www.legislation.gov.uk/wsi/2012/1288/article/2/1/b)
+
+[^c1056608]: Commencement: S. 15 wholly in force at 14.2.2003; s. 15 not in force at Royal Assent see s. 22(1)(2); s. 15 wholly in force at 14.2.2003 by [S.I. 2002/2865](https://www.legislation.gov.uk/uksi/2002/2865), [art. 2(2)(i)](https://www.legislation.gov.uk/uksi/2002/2865/article/2/2/i); [S.S.I. 2002/512](https://www.legislation.gov.uk/ssi/2002/512), [art. 2(2)(i)](https://www.legislation.gov.uk/ssi/2002/512/article/2/2/i)
+
+[^key-a52ab8c46e719cabb98421c8cb45f6e2]: Modification: [S. 15](https://www.legislation.gov.uk/ukpga/2002/36/section/15) applied by SI 1991/2872 (N.I. 25), art. 4A(5) (as inserted (12.11.2009 for specified purposes, 1.3.2012 in so far as not already in force) by [Health Act 2009 (c. 21)](https://www.legislation.gov.uk/ukpga/2009/21), [ss. 23](https://www.legislation.gov.uk/ukpga/2009/21/section/23), [40(1)](https://www.legislation.gov.uk/ukpga/2009/21/section/40/1), [40(6)(b)](https://www.legislation.gov.uk/ukpga/2009/21/section/40/6/b); [S.R. 2012/68](https://www.legislation.gov.uk/nisr/2012/68), [art. 2](https://www.legislation.gov.uk/nisr/2012/68/article/2))
+
+[^key-f8f39cecbf9e9223b5dec66f3efcc067]: Modification: S. 15 applied by 1991 c. 23, s. 3A(5) (as inserted (12.11.2009 for specified purposes, 1.10.2011 for E., 1.2.2012 for W. in so far as not already in force) by [Health Act 2009 (c. 21)](https://www.legislation.gov.uk/ukpga/2009/21), [ss. 22(1)](https://www.legislation.gov.uk/ukpga/2009/21/section/22/1), [40(1)](https://www.legislation.gov.uk/ukpga/2009/21/section/40/1), [40(6)(b)](https://www.legislation.gov.uk/ukpga/2009/21/section/40/6/b); [S.I. 2010/1068](https://www.legislation.gov.uk/uksi/2010/1068), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2010/1068/article/2/1/a) (as amended (9.5.2011) by [S.I. 2011/1255](https://www.legislation.gov.uk/uksi/2011/1255), art. 2(a)(b)); [S.I. 2011/2362](https://www.legislation.gov.uk/wsi/2011/2362), [art. 2](https://www.legislation.gov.uk/wsi/2011/2362/article/2))
+
+[^c1056609]: Commencement: S. 16 wholly in force at 14.2.2003; s. 16 not in force at Royal Assent see s. 22(1)(2); s. 16 wholly in force at 14.2.2003 by [S.I. 2002/2865](https://www.legislation.gov.uk/uksi/2002/2865), [art. 2(2)(i)](https://www.legislation.gov.uk/uksi/2002/2865/article/2/2/i); [S.S.I. 2002/512](https://www.legislation.gov.uk/ssi/2002/512), [art. 2(2)(i)](https://www.legislation.gov.uk/ssi/2002/512/article/2/2/i)
+
+[^key-2af34b5e1c9585830ce63b87ecc1429c]: Textual amendment: S. 16(1A) repealed (12.11.2009) by [Health Act 2009 (c. 21)](https://www.legislation.gov.uk/ukpga/2009/21), [s. 40(5)(a)](https://www.legislation.gov.uk/ukpga/2009/21/section/40/5/a), [Sch. 4 para. 9(2)](https://www.legislation.gov.uk/ukpga/2009/21/schedule/4/paragraph/9/2), [Sch. 6](https://www.legislation.gov.uk/ukpga/2009/21/schedule/6) (with [Sch. 4 para. 9(4)](https://www.legislation.gov.uk/ukpga/2009/21/schedule/4/paragraph/9/4))
+
+[^key-413ce950ca4b678ebf1b97925f2c3875]: Textual amendment: Words in s. 16(2)(a) substituted (12.1.2010) by [Health Act 2009 (c. 21)](https://www.legislation.gov.uk/ukpga/2009/21), [s. 40(7)(b)](https://www.legislation.gov.uk/ukpga/2009/21/section/40/7/b), [Sch. 4 para. 9(3)](https://www.legislation.gov.uk/ukpga/2009/21/schedule/4/paragraph/9/3)
+
+[^c1056610]: Commencement: S. 17 wholly in force at 14.2.2003; s. 17 not in force at Royal Assent see s. 22(1)(2); s. 17 wholly in force at 14.2.2003 by [S.I. 2002/2865](https://www.legislation.gov.uk/uksi/2002/2865), [art. 2(2)(i)](https://www.legislation.gov.uk/uksi/2002/2865/article/2/2/i); [S.S.I. 2002/512](https://www.legislation.gov.uk/ssi/2002/512), [art. 2(2)(i)](https://www.legislation.gov.uk/ssi/2002/512/article/2/2/i)
+
+[^key-36f8a349d8583e8fcaa9f663dd531e64]: Textual amendment: Words in s. 17(1) inserted (6.4.2012 for E., 31.10.2012 for N.I., 3.12.2012 for W.) by [Health Act 2009 (c. 21)](https://www.legislation.gov.uk/ukpga/2009/21), [s. 40(1)](https://www.legislation.gov.uk/ukpga/2009/21/section/40/1), [Sch. 4 para. 10](https://www.legislation.gov.uk/ukpga/2009/21/schedule/4/paragraph/10); [S.I. 2010/1068](https://www.legislation.gov.uk/uksi/2010/1068), [art. 2(1A)(b)(iii)](https://www.legislation.gov.uk/uksi/2010/1068/article/2/1A/b/iii) (as amended (9.5.2011) by [S.I. 2011/1255](https://www.legislation.gov.uk/uksi/2011/1255), art. 2(a)(b)); [S.R. 2012/389](https://www.legislation.gov.uk/nisr/2012/389), [art. 2(1)(b)(iv)](https://www.legislation.gov.uk/nisr/2012/389/article/2/1/b/iv); [S.I. 2012/1288](https://www.legislation.gov.uk/wsi/2012/1288), [art. 2(2)(b)(ii)](https://www.legislation.gov.uk/wsi/2012/1288/article/2/2/b/ii)
+
+[^key-1a3f5377f076a5c979b0af709abfab1f]: Textual amendment: Word in [s. 17(1)](https://www.legislation.gov.uk/ukpga/2002/36/section/17/1) omitted (29.10.2026) by virtue of [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1), [Sch. 6 para. 10](https://www.legislation.gov.uk/ukpga/2026/18/schedule/6/paragraph/10) (with [s. 166](https://www.legislation.gov.uk/ukpga/2026/18/section/166))
+
+[^c1056611]: Commencement: S. 18 wholly in force at 14.2.2003; s. 18 not in force at Royal Assent see s. 22(1)(2); s. 18 wholly in force at 14.2.2003 by [S.I. 2002/2865](https://www.legislation.gov.uk/uksi/2002/2865), [art. 2(2)(i)](https://www.legislation.gov.uk/uksi/2002/2865/article/2/2/i); [S.S.I. 2002/512](https://www.legislation.gov.uk/ssi/2002/512), [art. 2(2)(i)](https://www.legislation.gov.uk/ssi/2002/512/article/2/2/i)
+
+[^c1056612]: Commencement: S. 19 not in force at Royal Assent see s. 22(1)(2); s. 19 in force for certain purposes at 20.11.2002 and in force so far as not already in force at 11.2.2003 for E.W.N.I. and 12.2.2003 for S. by [S.I. 2002/2865](https://www.legislation.gov.uk/uksi/2002/2865), [art. 2(1)(d)(1A)](https://www.legislation.gov.uk/uksi/2002/2865/article/2/1/d/1A) (as amended by [S.I. 2003/258](https://www.legislation.gov.uk/uksi/2003/258), [art. 2(2)](https://www.legislation.gov.uk/uksi/2003/258/article/2/2)) and [S.S.I. 2002/512](https://www.legislation.gov.uk/ssi/2002/512), [art. 2(1)(d)(1A)](https://www.legislation.gov.uk/ssi/2002/512/article/2/1/d/1A) (as amended by [S.S.I. 2003/80](https://www.legislation.gov.uk/ssi/2003/80), [art. 2(2)](https://www.legislation.gov.uk/ssi/2003/80/article/2/2))
+
+[^key-2eb4a8cde1fc4f57085b6d2846a2a316]: Commencement: S. 19 in force at 11.2.2003 for E.W.N.I. so far as not already in force by [S.I. 2002/2865](https://www.legislation.gov.uk/uksi/2002/2865), [art. 2(1A)](https://www.legislation.gov.uk/uksi/2002/2865/article/2/1A)
+
+[^key-7775b04857645fbf7f86194a64b00cbc]: Commencement: S. 19 in force at 12.2.2003 for S. so far as not already in force by [S.S.I. 2002/512](https://www.legislation.gov.uk/ssi/2002/512), [art. 2(1A)](https://www.legislation.gov.uk/ssi/2002/512/article/2/1A)
+
+[^key-62af330bccc1ec6aff1e45deddd50b3f]: Textual amendment: Words in [s. 19(1)](https://www.legislation.gov.uk/ukpga/2002/36/section/19/1) inserted (12.11.2009 for specified purposes, 6.4.2012 for E. in so far as not already in force, 31.10.2012 for N.I. in so far as not already in force, 3.12.2012 for W. in so far as not already in force) by [Health Act 2009 (c. 21)](https://www.legislation.gov.uk/ukpga/2009/21), [s. 40(1)](https://www.legislation.gov.uk/ukpga/2009/21/section/40/1)[(6)(c)](https://www.legislation.gov.uk/ukpga/2009/21/section/40/6/c), [Sch. 4 para. 11(2)](https://www.legislation.gov.uk/ukpga/2009/21/schedule/4/paragraph/11/2); [S.I. 2010/1068](https://www.legislation.gov.uk/uksi/2010/1068), [art. 2(1A)(b)(iv)](https://www.legislation.gov.uk/uksi/2010/1068/article/2/1A/b/iv) (as amended (9.5.2011) by [S.I. 2011/1255](https://www.legislation.gov.uk/uksi/2011/1255), art. 2(a)(b)); [S.R. 2012/389](https://www.legislation.gov.uk/nisr/2012/389), [art. 2(1)(b)(v)](https://www.legislation.gov.uk/nisr/2012/389/article/2/1/b/v); [S.I. 2012/1288](https://www.legislation.gov.uk/wsi/2012/1288), [art. 2(2)(b)(iii)](https://www.legislation.gov.uk/wsi/2012/1288/article/2/2/b/iii)
+
+[^key-1628664a8efeba0aa99bc4e4830c95ae]: Textual amendment: [S. 19(1A)](https://www.legislation.gov.uk/ukpga/2002/36/section/19/1A) inserted (12.11.2009 for specified purposes, 6.4.2012 for E. in so far as not already in force, 31.10.2012 for N.I. in so far as not already in force, 3.12.2012 for W. in so far as not already in force) by [Health Act 2009 (c. 21)](https://www.legislation.gov.uk/ukpga/2009/21), [s. 40(1)](https://www.legislation.gov.uk/ukpga/2009/21/section/40/1)[(6)(c)](https://www.legislation.gov.uk/ukpga/2009/21/section/40/6/c), [Sch. 4 para. 11(3)](https://www.legislation.gov.uk/ukpga/2009/21/schedule/4/paragraph/11/3); [S.I. 2010/1068](https://www.legislation.gov.uk/uksi/2010/1068), [art. 2(1A)(b)(iv)](https://www.legislation.gov.uk/uksi/2010/1068/article/2/1A/b/iv) (as amended (9.5.2011) by [S.I. 2011/1255](https://www.legislation.gov.uk/uksi/2011/1255), art. 2(a)(b)); [S.R. 2012/389](https://www.legislation.gov.uk/nisr/2012/389), [art. 2(1)(b)(v)](https://www.legislation.gov.uk/nisr/2012/389/article/2/1/b/v); [S.I. 2012/1288](https://www.legislation.gov.uk/wsi/2012/1288), [art. 2(2)(b)(iii)](https://www.legislation.gov.uk/wsi/2012/1288/article/2/2/b/iii)
+
+[^key-6497641a66a2e5155bb7dda13ad0fd5a]: Textual amendment: [S. 19(3)-(6)](https://www.legislation.gov.uk/ukpga/2002/36/section/19/3) substituted for s. 19(3)-(5) (12.11.2009 for specified purposes, 6.4.2012 for E. in so far as not already in force, 31.10.2012 for N.I. in so far as not already in force, 3.12.2012 for W. in so far as not already in force) by [Health Act 2009 (c. 21)](https://www.legislation.gov.uk/ukpga/2009/21), [s. 40(1)](https://www.legislation.gov.uk/ukpga/2009/21/section/40/1)[(6)(c)](https://www.legislation.gov.uk/ukpga/2009/21/section/40/6/c), [Sch. 4 para. 11(4)](https://www.legislation.gov.uk/ukpga/2009/21/schedule/4/paragraph/11/4); [S.I. 2010/1068](https://www.legislation.gov.uk/uksi/2010/1068), [art. 2(1A)(b)(iv)](https://www.legislation.gov.uk/uksi/2010/1068/article/2/1A/b/iv) (as amended (9.5.2011) by [S.I. 2011/1255](https://www.legislation.gov.uk/uksi/2011/1255), art. 2(a)(b)); [S.R. 2012/389](https://www.legislation.gov.uk/nisr/2012/389), [art. 2(1)(b)(v)](https://www.legislation.gov.uk/nisr/2012/389/article/2/1/b/v); [S.I. 2012/1288](https://www.legislation.gov.uk/wsi/2012/1288), [art. 2(2)(b)(iii)](https://www.legislation.gov.uk/wsi/2012/1288/article/2/2/b/iii)
+
+[^c1056613]: Commencement: S. 20 not in force at Royal Assent see s. 22(1)(2); s. 20 in force for the purpose of making regulations at 20.11.2002 by [S.I. 2002/2865](https://www.legislation.gov.uk/uksi/2002/2865), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2002/2865/article/2/1/d); [S.S.I. 2002/512](https://www.legislation.gov.uk/ssi/2002/512), [art. 2(1)(d)](https://www.legislation.gov.uk/ssi/2002/512/article/2/1/d)
+
+[^key-f353e891e44bb32d22c9617d89577fae]: Commencement: S. 20 in force at 25.2.2003 for S. so far as not already in force by [S.S.I. 2003/113](https://www.legislation.gov.uk/ssi/2003/113), [art. 2(c)](https://www.legislation.gov.uk/ssi/2003/113/article/2/c)
+
+[^key-2432095d5647666da46116b0bf8f2226]: Commencement: S. 20 in force at 26.2.2003 for E.W.N.I. so far as not already in force by [S.I. 2003/396](https://www.legislation.gov.uk/uksi/2003/396), [art. 2(c)](https://www.legislation.gov.uk/uksi/2003/396/article/2/c)
+
+[^c1056614]: Commencement: S. 21 wholly in force at 14.2.2003; s. 21 not in force at Royal Assent see s. 22(1)(2); s. 21 in force for certain purposes at 20.11.2002 by [S.I. 2002/2865](https://www.legislation.gov.uk/uksi/2002/2865), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2002/2865/article/2/1/d); [S.S.I. 2002/512](https://www.legislation.gov.uk/ssi/2002/512), [art. 2(1)(d)](https://www.legislation.gov.uk/ssi/2002/512/article/2/1/d); s. 21 in force in so far as not already in force at 14.2.2003 by [S.I. 2002/2865](https://www.legislation.gov.uk/uksi/2002/2865), [art. 2(2)(j)](https://www.legislation.gov.uk/uksi/2002/2865/article/2/2/j); [S.S.I. 2002/521](https://www.legislation.gov.uk/ssi/2002/521), [art. 2(2)(j)](https://www.legislation.gov.uk/ssi/2002/521/article/2/2/j)
+
+[^key-8e9ec96e57a9daa64d712d9787c848b0]: Commencement: S. 21 in force at 14.2.2003 for S. so far as not already in force by [S.S.I. 2002/512](https://www.legislation.gov.uk/ssi/2002/512), [art. 2(2)(j)](https://www.legislation.gov.uk/ssi/2002/512/article/2/2/j)
+
+[^key-6938099734b4bdc6c678c8e8b35b611c]: Commencement: S. 21 in force at 14.2.2003 for E.W.N.I. so far as not already in force by [S.I. 2002/2865](https://www.legislation.gov.uk/uksi/2002/2865), [art. 2(2)(j)](https://www.legislation.gov.uk/uksi/2002/2865/article/2/2/j)
+
+[^key-e2b88c00ce12717735f3dd6c913a1c33]: Textual amendment: S. 21 renumbered as s. 21(1) (28.9.2006) by [Tobacco Advertising and Promotion Act 2002 (Amendment) Regulations 2006 (S.I. 2006/2369)](https://www.legislation.gov.uk/uksi/2006/2369), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/2369/regulation/1/1), [8(2)](https://www.legislation.gov.uk/uksi/2006/2369/regulation/8/2)
+
+[^key-54fd44c733d393c36a770145293d1b2b]: Textual amendment: Words in s. 21(1) substituted (12.11.2009 for specified purposes, 6.4.2012 for E. in so far as not already in force, 31.10.2012 for N.I. in so far as not already in force, 3.12.2012 for W. in so far as not already in force) by [Health Act 2009 (c. 21)](https://www.legislation.gov.uk/ukpga/2009/21), [s. 40(1)](https://www.legislation.gov.uk/ukpga/2009/21/section/40/1)[(6)(c)](https://www.legislation.gov.uk/ukpga/2009/21/section/40/6/c), [Sch. 4 para. 12](https://www.legislation.gov.uk/ukpga/2009/21/schedule/4/paragraph/12); [S.I. 2010/1068](https://www.legislation.gov.uk/uksi/2010/1068), [art. 2(1A)(b)(iv)](https://www.legislation.gov.uk/uksi/2010/1068/article/2/1A/b/iv) (as amended (9.5.2011) by [S.I. 2011/1255](https://www.legislation.gov.uk/uksi/2011/1255), art. 2(a)(b)); [S.R. 2012/389](https://www.legislation.gov.uk/nisr/2012/389), [art. 2(1)(b)(v)](https://www.legislation.gov.uk/nisr/2012/389/article/2/1/b/v); [S.I. 2012/1288](https://www.legislation.gov.uk/wsi/2012/1288), [art. 2(2)(b)(iii)](https://www.legislation.gov.uk/wsi/2012/1288/article/2/2/b/iii)
+
+[^key-7524f054e7d6e91fab4adf5089d93916]: Textual amendment: Words in s. 21(1) inserted (28.9.2006) by [Tobacco Advertising and Promotion Act 2002 (Amendment) Regulations 2006 (S.I. 2006/2369)](https://www.legislation.gov.uk/uksi/2006/2369), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/2369/regulation/1/1), [8(3)](https://www.legislation.gov.uk/uksi/2006/2369/regulation/8/3)
+
+[^key-dec553cac7c23cb9ade64048f3a83927]: Textual amendment: Words in [s. 21(1)](https://www.legislation.gov.uk/ukpga/2002/36/section/21/1) omitted (31.12.2020) by virtue of [The Tobacco Products and Nicotine Inhaling Products (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/41)](https://www.legislation.gov.uk/uksi/2019/41), [regs. 1](https://www.legislation.gov.uk/uksi/2019/41/regulation/1), [2(10)](https://www.legislation.gov.uk/uksi/2019/41/regulation/2/10); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-18d285be4435023bda3913265c21cda4]: Textual amendment: S. 21(2) inserted (28.9.2006) by [Tobacco Advertising and Promotion Act 2002 (Amendment) Regulations 2006 (S.I. 2006/2369)](https://www.legislation.gov.uk/uksi/2006/2369), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/2369/regulation/1/1), [8(4)](https://www.legislation.gov.uk/uksi/2006/2369/regulation/8/4)
+
+[^c1056615]: Subordinate legislation: S. 22(1)-(3) power partly exercised: different dates appointed for specified provisions by [S.S.I. 2002/512](https://www.legislation.gov.uk/ssi/2002/512), [art. 2](https://www.legislation.gov.uk/ssi/2002/512/article/2)
+
+    S. 22(1)-(3) power partly exercised: different dates appointed for specified provisions by [S.I. 2002/2865](https://www.legislation.gov.uk/uksi/2002/2865), [art. 2](https://www.legislation.gov.uk/uksi/2002/2865/article/2)
+
+[^key-ca003de332f461b904a1d9aead883416]: Textual amendment: Sch. inserted (28.9.2006) by [Tobacco Advertising and Promotion Act 2002 (Amendment) Regulations 2006 (S.I. 2006/2369)](https://www.legislation.gov.uk/uksi/2006/2369), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/2369/regulation/1/1), [9](https://www.legislation.gov.uk/uksi/2006/2369/regulation/9)
+
+[^key-3dee76475c4c88a383628cc4898de013]: Textual amendment: Words in [Sch. para. 1](https://www.legislation.gov.uk/ukpga/2002/36/schedule/paragraph/1) substituted (12.1.2010 for specified purposes) by [Health Act 2009 (c. 21)](https://www.legislation.gov.uk/ukpga/2009/21), [s. 40(1)](https://www.legislation.gov.uk/ukpga/2009/21/section/40/1)[(7)(c)](https://www.legislation.gov.uk/ukpga/2009/21/section/40/7/c), [Sch. 4 para. 13](https://www.legislation.gov.uk/ukpga/2009/21/schedule/4/paragraph/13)

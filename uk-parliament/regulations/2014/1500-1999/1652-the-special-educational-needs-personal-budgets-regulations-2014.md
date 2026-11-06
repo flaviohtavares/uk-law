@@ -1,0 +1,420 @@
+---
+title: The Special Educational Needs (Personal Budgets) Regulations 2014
+id: uksi/2014/1652
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised-with-pending-changes
+made_date: '2014-06-24'
+text_date: '2020-12-01'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2014/1652
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2014/1652/pdfs/uksiem_20141652_en.pdf
+- http://www.legislation.gov.uk/uksi/2014/1652/pdfs/uksi_20141652_en.pdf
+- http://www.legislation.gov.uk/uksi/2014/1652/data.pdf
+pending_changes: 1
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Special Educational Needs (Personal Budgets) Regulations 2014
+
+> **Warning: changes not yet applied to this text (1).** Text as at 2020-12-01. See https://www.legislation.gov.uk/changes/affected/uksi/2014/1652
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2014 No. 1652
+
+Education, England
+
+The Special Educational Needs (Personal Budgets) Regulations 2014
+
+Made
+
+24th June 2014
+
+Coming into force
+
+1st September 2014
+
+The Secretary of State for Education makes the following Regulations in exercise of the powers conferred by sections 49(3) and (4) of the Children and Families Act 2014 [^c22147361].
+
+In accordance with section 135(6)(a) of that Act, a draft of this instrument was laid before Parliament and approved by resolution of each House of Parliament.
+
+## 1. Citation and commencement
+
+These Regulations may be cited as the Special Educational Needs (Personal Budgets) Regulations 2014 and come into force on 1st September 2014.
+
+## 2. Interpretation
+
+In these Regulations—
+
+- “**the 2005 Act**” means the Mental Capacity Act 2005 [^c22147371];
+- “**the 2014 Act**” means the Children and Families Act 2014;
+- “**agreed provision**” means the goods or services specified in the local authority's notice under regulation 8(2)(b);
+- “**nominee**” means a person nominated in accordance with regulation 5(1)(c);
+- “**recipient**” means a person to whom direct payments are, or are proposed to be, made under regulation 5(1)[^key-c41a7e08a7dbeea115c59d4f0d9ab750].
+
+## 2A. Relaxation of time period due to coronavirus exception[^key-ec64907db6679e7ffa99e782c79a2c15]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 3. Information, advice and support
+
+Where a local authority maintains an EHC plan or is securing the preparation of an EHC plan for a child or young person, it must make arrangements for the provision to the child's parent or young person of the following information—
+
+- (a) the provision for which a personal budget may be available;
+- (b) details of organisations that provide advice and assistance in connection with personal budgets; and
+- (c) the conditions which must be met before direct payments may be made.
+
+## 4. Request for a personal budget including direct payments
+
+(1) A child's parent or a young person may make a request to a local authority for a personal budget, including a request for direct payments, at any time during the period in which—
+
+- (a) the draft EHC plan is being prepared in accordance with section 38 of the 2014 Act; or
+- (b) the EHC plan is being reviewed or re-assessed under section 44 of the 2014 Act.
+
+(2) Where a request for direct payments has been made, a local authority must consider that request.
+
+## 4A. Provision for which a local authority is not required to prepare a personal budget[^key-0507d213e4bec1ee197ce7f3f9ad1c81]
+
+(1) For the purposes of section 49(2), the particular provision to be secured by an amount identified in a personal budget does not include provision that is specified, or proposed to be specified, in an EHC plan (the “specified provision”)—
+
+- (a) which the local authority secures, or proposes to secure, under arrangements within the meaning of paragraph (2); and
+- (b) where the conditions in paragraph (3) apply.
+
+(2) “Arrangements” for the purposes of this regulation means any arrangements between the local authority and a third party under which the local authority pays an aggregate sum for special educational provision which includes the specified provision.
+
+(3) The conditions are that—
+
+- (a) the aggregate sum paid by the local authority under the arrangements includes a notional amount for the specified provision; and
+- (b) the notional amount cannot be disaggregated from the aggregate sum because the disaggregation—
+  - (i) would have an adverse impact on other services provided or arranged by the local authority for children or young people with an EHC plan; or
+  - (ii) would not be an efficient use of the local authority’s resources.
+
+## 5. Persons to whom direct payments may be made
+
+(1) A local authority may make direct payments, as appropriate, to—
+
+- (a) the child's parent;
+- (b) the young person; or
+- (c) a person nominated in writing by the child's parent or the young person to receive direct payments on their behalf.
+
+(2) Direct payments may only be made to an intended recipient if the person—
+
+- (a) appears to the local authority to be capable of managing direct payments without assistance or with such assistance as may be available to them;
+- (b) where the recipient is an individual, is over compulsory school age;
+- (c) does not lack capacity within the meaning of the 2005 Act to consent to the making of direct payments to them or to secure the agreed provision with any direct payment; and
+- (d) is not a person described in the Schedule.
+
+(3) Where a nominee has been appointed in accordance with paragraph (1)(c), if the child's parent or young person notifies the local authority in writing that they wish to withdraw or change their nomination, the local authority must stop making direct payments to the nominee as soon as reasonably practicable and, where applicable, consider whether to make direct payments to the alternative nominee.
+
+## 6. Decision to make direct payments
+
+(1) A local authority may only make direct payments where a request has been made for direct payments to be made and the authority is satisfied that—
+
+- (a) the recipient will use them to secure the agreed provision in an appropriate way;
+- (b) where the recipient is the child's parent or a nominee, that person will act in the best interests of the child or the young person when securing the proposed agreed provision;
+- (c) the direct payments will not have an adverse impact on other services which the local authority provides or arranges for children and young people with an EHC plan which the authority maintains; and
+- (d) securing the proposed agreed provision by direct payments is an efficient use of the authority's resources.
+
+(2) A local authority may only make direct payments in respect of the special educational provision specified in an EHC plan, and may not make direct payments for the purpose of funding a place at a school or post-16 institution.
+
+## 7. Decisions not to make direct payments
+
+Where a local authority decides not to make direct payments it must—
+
+- (a) inform in writing the child's parent or the young person of—
+  - (i) its decision;
+  - (ii) the reasons for its decision; and
+  - (iii) the right to request a review of the decision;
+- (b) where requested to do so, review its decision and in carrying out the review consider any representations made by the child's parent or the young person; and
+- (c) inform in writing the child's parent or the young person of the outcome of the review , giving reasons.
+
+## 8. Conditions for direct payments
+
+(1) A local authority may not make direct payments unless the requirements set out in paragraphs (2) to (4) have been satisfied.
+
+(2) The local authority must provide written notice to the recipient, specifying the following—
+
+- (a) the name of the child or young person in respect of whom direct payments are to be made;
+- (b) the goods or services which are to be secured by direct payments;
+- (c) the proposed amount of direct payments;
+- (d) any conditions on how direct payments may be spent;
+- (e) the dates for payments into the bank account approved by the local authority.
+
+(3) Upon receipt of a notice under paragraph (2), the recipient must notify the local authority in writing that they agree to—
+
+- (a) receive the direct payments;
+- (b) use the direct payments only to secure the agreed provision;
+- (c) comply with any conditions specified in the notice under paragraph (2)(d);
+- (d) notify the local authority of any changes in circumstances which might affect the need for the agreed provision;
+- (e) use the bank account approved by the local authority solely for the purposes of one or more of the following—
+  - (i) these direct payments;
+  - (ii) direct payments made pursuant to the Community Care, Services for Carers and Children's Services (Direct Payments) (England) Regulations 2009 [^c22147381];
+  - (iii) direct payments made pursuant to the National Health Service (Direct Payment) Regulations 2013 [^c22147391];
+- (f) ensure that the bank account approved by the local authority is only accessible by the recipient or any other person approved in writing by the local authority; and
+- (g) keep a record of money paid in and withdrawn from the bank account approved by the local authority and, on request, or at intervals specified by the local authority, provide the local authority with information or evidence relating to—
+  - (i) the account; and
+  - (ii) the agreed provision.
+
+(4) Where the recipient is a nominee—
+
+- (a) the child's parent or young person must provide written consent to the local authority to direct payments being used to secure the agreed provision; and
+- (b) the nominee must provide written confirmation to the local authority that he or she is responsible as a principal for all contractual arrangements entered into for the benefit of the child or young person and secured by means of direct payments.
+
+## 9. Permission of school etc
+
+(1) A local authority may not make direct payments in respect of any goods or services which are to be used or provided in a school [^c22147401] or post-16 institution without the written consent of the head teacher, principal or the person occupying an equivalent position.
+
+(2) A local authority may not make direct payments in respect of any goods or services which are to be used or provided on premises where relevant early years education is provided without the written consent of the provider of the relevant early years education.
+
+## 10. The amount of direct payments
+
+(1) The local authority must ensure that the amount of direct payments is sufficient to secure the agreed provision.
+
+(2) The local authority may increase or reduce the amount of direct payments provided that the authority is satisfied that the new amount is sufficient to secure the agreed provision.
+
+(3) The local authority may reduce the amount of direct payments where—
+
+- (a) payments remain unused; and
+- (b) the local authority considers that it is reasonable to offset unused direct payments against the outstanding amount to be paid.
+
+## 11. Monitoring and review of direct payments
+
+(1) The local authority must monitor the use of direct payments by the recipient.
+
+(2) The local authority must review the making and use of direct payments—
+
+- (a) at least once within the first three months of direct payments being made; and
+- (b) when conducting a review or a re-assessment of an EHC plan under section 44 of the 2014 Act.
+
+(3) When carrying out a review, a local authority must consider whether—
+
+- (a) it should continue to secure the agreed provision by means of direct payments;
+- (b) the direct payments have been used effectively;
+- (c) the amount of direct payments continues to be sufficient to secure the agreed provision;
+- (d) it is still satisfied as to the matters set out in regulation 6; and
+- (e) the recipient has complied with the conditions set out in regulation 8(3).
+
+(4) A recipient may make a request for the local authority to review the making and use of direct payments and the local authority—
+
+- (a) must then consider whether to carry out a review; and
+- (b) if it decides to carry out a review, must consider the matters set out in paragraph (3).
+
+(5) Following a review the local authority may —
+
+- (a) substitute the person receiving direct payments with a nominee, the child's parent or the young person, as appropriate, where regulation 8 has been complied with in respect of that person;
+- (b) increase, maintain or reduce the amount of direct payments;
+- (c) require the recipient to comply with either or both of the following conditions—
+  - (i) the person must not secure a service from a particular person,
+  - (ii) the person must provide such information as the local authority considers necessary;
+- (d) stop making direct payments.
+
+## 12. Reducing the amount of direct payments
+
+(1) Where a local authority decides to reduce the amount of direct payments it must provide reasonable notice to the recipient, and must set out in the notice the reasons for its decision.
+
+(2) The local authority must reconsider its decision, where requested to do so by the recipient.
+
+(3) When conducting its reconsideration, the local authority must consider the representations made by the recipient (and where the recipient is a nominee, any representations made by the child's parent or the young person) and must then provide written reasons to the recipient (and to the child's parent or young person, where the recipient is a nominee) of its decision following the reconsideration.
+
+(4) A local authority may not be required to undertake more than one reconsideration of a decision made under paragraph (1).
+
+(5) The local authority may reduce direct payments following reasonable notice despite the fact that a request for reconsideration has been made under paragraph (2).
+
+## 13. Repayment and recovery of direct payments
+
+(1) A local authority may require the recipient to repay part or all of the direct payments, where—
+
+- (a) the circumstances of the child or young person have changed in a manner which has an impact on the appropriateness of the agreed provision;
+- (b) all or part of the direct payments have not been used to secure the agreed provision;
+- (c) theft, fraud or another offence may have occurred in connection with the direct payments;
+- (d) the child or young person has died.
+
+(2) The local authority may only seek repayment of any portion of the direct payments that has not already been spent on the agreed provision.
+
+(3) Where a local authority decides that all or part of the direct payments must be repaid, the local authority must give notice in writing to the recipient, setting out—
+
+- (a) the reasons for the decision;
+- (b) the amount to be repaid; and
+- (c) a reasonable timescale within which the amount must be repaid.
+
+(4) The local authority must reconsider its decision where requested to do so by the recipient.
+
+(5) When conducting its reconsideration, the local authority must consider the representations made by the recipient (and where the recipient is a nominee, any representations made by the child's parent or young person) and must then provide written reasons of its decision following the reconsideration to the recipient (and to the child's parent or young person, where the recipient is a nominee).
+
+(6) Where the local authority determines that direct payments must be repaid, then the written reasons must include the information in paragraphs (3)(b) and (c).
+
+(7) The local authority may not be required to undertake more than one reconsideration of a decision under paragraph (1).
+
+(8) Where the local authority requires all of part of the direct payments to be repaid, that sum may be recovered as a debt due to the local authority.
+
+## 14. Stopping making direct payments
+
+(1) A local authority must stop making direct payments if—
+
+- (a) the recipient has notified the local authority in writing that he or she no longer consents to receive the direct payments;
+- (b) the recipient ceases to be a person to whom a direct payments may be made under regulation 5(2);
+- (c) following a review under regulation 11, it appears to the local authority that—
+  - (i) the recipient is not using the payment to secure the agreed provision;
+  - (ii) the agreed provision can no longer be secured by means of direct payments;
+- (d) at any point the local authority becomes aware that the making of direct payments is—
+  - (i) having an adverse impact on other services which the local authority provides or arranges for children and young people with an EHC plan which the authority maintains; or
+  - (ii) no longer compatible with the authority's efficient use of its resources;
+- (e) it has taken reasonable steps under regulation 15(1) to ascertain whether the young person consents to direct payments and the young person has not notified the local authority that he or she consents to receive direct payments.
+
+(2) A local authority may stop making direct payments if the recipient has failed to comply with any of the conditions set out in regulation 8(3).
+
+(3) Where a local authority decides to stop making direct payments, the local authority must first give notice in writing to the recipient setting out the reasons for its decision.
+
+(4) The local authority must reconsider its decision where requested to do so by the recipient.
+
+(5) When conducting its reconsideration, the local authority must consider the representations made by the recipient (and where the recipient is a nominee, any representations made by the child's parent or young person) and must then provide written reasons of its decision following the reconsideration to the recipient (and to the child's parent or young person, where the recipient is a nominee).
+
+(6) The local authority may not be required to undertake more than one reconsideration of its decision following the reconsideration.
+
+(7) Any right or liability of the recipient to a third party acquired or incurred in respect of a service secured by means of direct payments transfers to the local authority when the local authority stops making direct payments under paragraph (1).
+
+(8) The transfer of the liability under paragraph (7)[^key-16b152bb418fb31296b6171b15fcba5d] is binding on third parties, even though apart from this paragraph it would have required the consent of the third party.
+
+## 15. Transition: when a child becomes a young person
+
+(1) Where a child in respect of whom direct payments are being made becomes a young person, the local authority must take reasonable steps to ascertain whether the young person consents to receive direct payments.
+
+(2) Where the young person has notified the local authority in writing that he or she wishes to receive direct payments, the local authority must make direct payments where the making of such payments is in accordance with regulations 5 and 6.
+
+(3) Where the young person consents in writing that the local authority continues to make direct payments to the young person's parent or the nominee, the local authority must do so.
+
+(4) Where the young person notifies the local authority in writing that they do not consent to the making of direct payments, the authority must stop direct payments as soon as reasonably practicable.
+
+## 16. Capacity
+
+(1) Where the parent of a child for whom the local authority maintains an EHC plan lacks capacity within the meaning of the 2005 Act at the relevant time, references to a child's parent in these Regulations are to be read as references to a representative of the parent within the meaning of section 80(6) of the 2014 Act.
+
+(2) Where a young person lacks capacity within the meaning of the 2005 Act at the relevant time, references to a young person in these Regulations are to be read as references to a representative of the young person within the meaning of section 80(6) of the 2014 Act, other than the following references—
+
+- (a) regulation 6(b),
+- (b) regulation 8(2)(a) and (4)(b),
+- (c) regulation 13(1)(a) and (d), and
+- (d) regulation 15(1) (first reference).
+
+Edward Timpson
+
+Parliamentary Under Secretary of State
+
+Department for Education
+
+24th June 2014
+
+## SCHEDULE — Persons to whom direct payments may not be made
+
+Regulation 5(2)(d)
+
+The following persons may not receive direct payments—
+
+- (a) a person who is subject to a drug rehabilitation requirement, as defined by section 209 of the Criminal Justice Act 2003[^c22147411] or paragraph 19 of Schedule 9 to the Sentencing Code[^key-5c21c346fca9f2899b924a5f1bc25739], imposed by a community order within the meaning of section 177 of that Act[^c22147421] or section 200 of that Code[^key-2cbc784d0de548ee01ed8123eaf0ad87] or by a suspended sentence order within the meaning of section 189 of that Act[^c22147431] or section 286 of that Code[^key-278ff0f713a3b69cd01c152a90ffcc3c];
+- (b) a person who is subject to an alcohol treatment requirement, as defined by section 212 of the Criminal Justice Act 2003[^c22147441] or paragraph 23 of Schedule 9 to the Sentencing Code[^key-dd55522232a048fce198d5214b25bea7], imposed by a community order within the meaning of section 177 of that Act or section 200 of that Code[^key-44f4d88af647aec1a1d7c2d5777c8015] or by a suspended sentence order within the meaning of section 189 of that Act or section 286 of that Code[^key-adb9736b93fc59a2e88b9da9f575fe93];
+- (c) a person who is released on licence under Part 2 of the Criminal Justice Act 1991 [^c22147451], Chapter 6 of Part 12 of the Criminal Justice Act 2003 [^c22147461] or Chapter 2 of Part 2 of the Crime (Sentences) Act 1997 [^c22147471] subject to a licence condition requiring the offender to undertake offending behaviour work to address drug-related or alcohol related behaviour;
+- (d) a person who is required to submit to treatment for their drug or alcohol dependency by virtue of a community rehabilitation order within the meaning of section 41 of the Powers of Criminal Courts (Sentencing) Act 2000 [^c22147481] or a community punishment and rehabilitation order within the meaning of section 51 of that Act [^c22147491];
+- (e) a person who is subject to a drug treatment and testing order imposed under section 52 of the Powers of Criminal Courts (Sentencing) Act 2000 [^c22147501];
+- (f) a person who is subject to a youth rehabilitation order imposed in accordance with paragraph 22 (drug treatment requirement) of Schedule 1 to the Criminal Justice and Immigration Act 2008[^c22147511] paragraph 22 of Schedule 1 to the Criminal Justice and Immigration Act 2008 or Part 13 of Schedule 6 to the Sentencing Code (drug treatment requirement)[^key-fc005363c6c9967a5deb71915daf13dc] which requires the person to submit to treatment pursuant to a drug treatment requirement;
+- (g) a person who is subject to a youth rehabilitation order imposed in accordance with paragraph 23 (drug testing requirement) of Schedule 1 to the Criminal Justice and Immigration Act 2008 or Part 14 of Schedule 6 to the Sentencing Code[^key-42406488252f67e9d7dabed6a7220bff] which includes a drug testing requirement;
+- (h) a person who is subject to a youth rehabilitation order imposed in accordance with paragraph 24 (intoxicating substance treatment requirement) of Schedule 1 to the Criminal Justice and Immigration Act 2008 paragraph 24 of Schedule 1 to the Criminal Justice and Immigration Act 2008 or Part 15 of Schedule 6 to the Sentencing Code (intoxicating substance treatment requirement)[^key-0bb1f02a1b730c4f66f210cb96fab3e2] which requires the person to submit to treatment pursuant to an intoxicating substance treatment requirement.
+
+*(This note is not part of the Regulations)*
+
+These Regulations make provision for personal budgets under Part 3 of the Children and Families Act 2014 for children and young people with special educational needs, for whom the local authority maintains an EHC plan.
+
+Regulation 3 requires a local authority to make arrangements to ensure information, advice and support is available in relation to personal budgets.
+
+Regulation 4 sets out when a request for a personal budget or direct payments may be made by the child's parent or the young person.
+
+Regulation 5 sets out to whom direct payments may be made and the criteria which must be considered by the local authority when considering the appropriateness of the intended recipient.
+
+Regulation 6 sets out the criteria which must be satisfied before the local authority can make direct payments.
+
+When a local authority decides not to make direct payments, regulation 7 requires the local authority to provide the written reasons for its decision and to provide the child's parent or young person with a right to ask the local authority to review the decision.
+
+When making direct payments, regulation 8 requires the local authority to provide written notice to the recipient, setting out the details of how the direct payments will secure the agreed provision and any conditions in relation to direct payments.
+
+Regulation 9 provides that a local authority cannot make direct payments in respect provision which will take place in a school or post-16 institution or early years provider, without the written consent of the head teacher or person who holds an equivalent role.
+
+Regulation 10 requires the local authority to ensure that the amount of direct payments is adequate to secure the agreed provision. The local authority may adjust the direct payments to ensure this.
+
+Once the local authority has decided to make direct payments, regulation 11 sets out when the arrangements must be reviewed by the local authority and what must happen during a review.
+
+Regulation 12 specifies what the local authority should do when it is looking at reducing the amount of direct payments. This includes a requirement for the local authority to provide notice to the recipient before decreasing the payments and providing the recipient with the right to ask the local authority to reconsider the decision.
+
+Regulation 13 provides that a local authority may require direct payments to be repaid. Where the local authority decides to recover all or part of the direct payments it must provide written notice of its decision and advise the recipient of their right to ask the local authority to reconsider its decision.
+
+Regulation 14 sets out the circumstances where a local authority must stop making direct payments, and states what happens to rights or liabilities which are incurred by the recipient because direct payments have stopped.
+
+Regulation 15 specifies what happens when a child, in respect of whom direct payments are being made, becomes a young person.
+
+Regulation 16 makes provision where a parent or young person lacks capacity.
+
+No regulatory impact assessment has been prepared for these Regulations as there is no impact on the private and voluntary sector. An Explanatory Memorandum is available alongside the instrument on www.legislation.gov.uk.
+
+## Annotations
+
+[^c22147361]: Marginal citation: [2014 c.6](https://www.legislation.gov.uk/ukpga/2014/6).
+
+[^c22147371]: Marginal citation: [2005 c.9](https://www.legislation.gov.uk/ukpga/2005/9).
+
+[^key-c41a7e08a7dbeea115c59d4f0d9ab750]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2014/1652/regulation/2) substituted (1.9.2014) by [The Special Educational Needs (Miscellaneous Amendments) Regulations 2014 (S.I. 2014/2096)](https://www.legislation.gov.uk/uksi/2014/2096), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2096/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2014/2096/regulation/2/2)
+
+[^key-ec64907db6679e7ffa99e782c79a2c15]: Textual amendment: [Reg. 2A](https://www.legislation.gov.uk/uksi/2014/1652/regulation/2A) inserted (temp. until 25.9.2020) (1.5.2020) by [The Special Educational Needs and Disability (Coronavirus) (Amendment) Regulations 2020 (S.I. 2020/471)](https://www.legislation.gov.uk/uksi/2020/471), [regs. 1](https://www.legislation.gov.uk/uksi/2020/471/regulation/1), [17](https://www.legislation.gov.uk/uksi/2020/471/regulation/17) (with [reg. 2(2)](https://www.legislation.gov.uk/uksi/2020/471/regulation/2/2))
+
+[^key-0507d213e4bec1ee197ce7f3f9ad1c81]: Textual amendment: [Reg. 4A](https://www.legislation.gov.uk/uksi/2014/1652/regulation/4A) inserted (1.9.2014) by [The Special Educational Needs (Miscellaneous Amendments) Regulations 2014 (S.I. 2014/2096)](https://www.legislation.gov.uk/uksi/2014/2096), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2096/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2014/2096/regulation/2/3)
+
+[^c22147381]: Marginal citation: [S.I. 2009/1887](https://www.legislation.gov.uk/uksi/2009/1887).
+
+[^c22147391]: Marginal citation: [S.I. 2013/1617](https://www.legislation.gov.uk/uksi/2013/1617).
+
+[^c22147401]: Marginal citation: [Sch](https://www.legislation.gov.uk/uksi/2014/1652/schedule)ool is defined in section 4 of the Education Act [1996 c.56](https://www.legislation.gov.uk/ukpga/1996/56) which is applied by section 83(7) of the 2014 Act.
+
+[^key-16b152bb418fb31296b6171b15fcba5d]: Textual amendment: Words in [reg. 14(8)](https://www.legislation.gov.uk/uksi/2014/1652/regulation/14/8) substituted (1.9.2014) by [The Special Educational Needs (Miscellaneous Amendments) Regulations 2014 (S.I. 2014/2096)](https://www.legislation.gov.uk/uksi/2014/2096), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2096/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2014/2096/regulation/2/4)
+
+[^c22147411]: Marginal citation: [2003 c.44](https://www.legislation.gov.uk/ukpga/2003/44); [section 209](https://www.legislation.gov.uk/uksi/2014/1652/section/209) has been amended by section 6(2) of, and paragraphs 71 and 88 of Schedule 4 to the [Criminal Justice and Immigration Act 2008 (c.4)](https://www.legislation.gov.uk/ukpga/2008/4) (“the Criminal Justice Act 2008”) and section 74(1) of the [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c.10)](https://www.legislation.gov.uk/ukpga/2012/10) (“**the Legal Aid Act**”).
+
+[^key-5c21c346fca9f2899b924a5f1bc25739]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2014/1652/schedule) inserted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 422(2)(a)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/422/2/a) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+
+[^c22147421]: Marginal citation: [Section 177](https://www.legislation.gov.uk/uksi/2014/1652/section/177) has been amended by section 6(2) of, and paragraphs 71 and 88 of Schedule 4 to the Criminal Justice Act 2008; [sections 66](https://www.legislation.gov.uk/uksi/2014/1652/section/66), [70](https://www.legislation.gov.uk/uksi/2014/1652/section/70), [72](https://www.legislation.gov.uk/uksi/2014/1652/section/72) and 76 of the Legal Aid Act; and section 44 of and Schedule 16 to the [Crime and Courts Act 2013 (c.22)](https://www.legislation.gov.uk/ukpga/2013/22).
+
+[^key-2cbc784d0de548ee01ed8123eaf0ad87]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2014/1652/schedule) inserted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 422(2)(b)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/422/2/b) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+
+[^c22147431]: Marginal citation: [Section 189](https://www.legislation.gov.uk/uksi/2014/1652/section/189) has been amended by [S.I. 2005/643](https://www.legislation.gov.uk/uksi/2005/643), and section 68 of the Legal Aid Act.
+
+[^key-278ff0f713a3b69cd01c152a90ffcc3c]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2014/1652/schedule) inserted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 422(2)(c)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/422/2/c) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+
+[^c22147441]: Marginal citation: [Section 212](https://www.legislation.gov.uk/uksi/2014/1652/section/212) has been amended by section 75 of the Legal Aid Act.
+
+[^key-dd55522232a048fce198d5214b25bea7]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2014/1652/schedule) inserted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 422(3)(a)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/422/3/a) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+
+[^key-44f4d88af647aec1a1d7c2d5777c8015]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2014/1652/schedule) inserted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 422(3)(b)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/422/3/b) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+
+[^key-adb9736b93fc59a2e88b9da9f575fe93]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2014/1652/schedule) inserted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 422(3)(c)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/422/3/c) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+
+[^c22147451]: Marginal citation: [1991 c.53](https://www.legislation.gov.uk/ukpga/1991/53). Sections 34A and 35 have been repealed, with savings, by sections 303 and 332 of, and Schedule 37 to the [Criminal Justice Act 2003 (c.44)](https://www.legislation.gov.uk/ukpga/2003/44) (“**the 2003 Act**”).
+
+[^c22147461]: Marginal citation: Heading to Chapter 6 of Part 12 substituted by section 111 of, and Schedule 14 to the Legal Aid Act. Section 244 has been amended by section 31 of, and Schedule 6 to the [Domestic Violence and Crime Act 2004 (c.28)](https://www.legislation.gov.uk/ukpga/2004/28); [sections 89](https://www.legislation.gov.uk/uksi/2014/1652/section/89),111, 114, 120, 121 and 125 of, and Schedules 10, 14, 15, and 17 to, the Legal Aid Act. Section 246, has been amended by section 378 of, and Schedule 16 to, the [Armed Forces Act 2006 (c.52)](https://www.legislation.gov.uk/ukpga/2006/52), [section 24](https://www.legislation.gov.uk/ukpga/2006/52/section/24) of the Criminal Justice Act 2008; [sections 89](https://www.legislation.gov.uk/uksi/2014/1652/section/89), [110](https://www.legislation.gov.uk/uksi/2014/1652/section/110), [111](https://www.legislation.gov.uk/uksi/2014/1652/section/111), [112](https://www.legislation.gov.uk/uksi/2014/1652/section/112), [120](https://www.legislation.gov.uk/uksi/2014/1652/section/120) and 125 of, and Schedules 10, 14, 15 and 20 to, the Legal Aid Act. Section 246A was inserted by section 125 of the Legal Aid Act. Section 247 has been amended by sections 25, 121 and 149 of, and Schedules 17 and 28 to the Criminal Justice Act 2008.
+
+[^c22147471]: Marginal citation: [1997 c.43](https://www.legislation.gov.uk/ukpga/1997/43). Subsections (1A), (1B) and (5)(a) of section 28 substituted for subsections (1) to (5)(a) as originally enacted by section 74 of, and Schedule 7 to the [Criminal Justice and Court Services Act 2000 (c.43)](https://www.legislation.gov.uk/ukpga/2000/43) and further substituted by section 275 of the 2003 Act. Subsection (7)(c) has been amended by section 119 and Schedule 8 to, the Crime and Disorder Act 1998. Subsection (8A) was inserted by section 275 of the 2003 Act. Section 28(1B) has been modified by section 74 of, and paragraphs 146, 147 and 148 of Schedule 7 to the Criminal Justice and Court Services Act 2000. Section 29 was repealed by sections 303 and 332 of, and Schedule 37 to, the 2003 Act.
+
+[^c22147481]: Marginal citation: [2000 c.6](https://www.legislation.gov.uk/ukpga/2000/6). Section 41 has been repealed, with savings, by sections 303 and 332 of, and Schedule 37 to the 2003 Act.
+
+[^c22147491]: Marginal citation: [Section 51](https://www.legislation.gov.uk/uksi/2014/1652/section/51) has been repealed, with savings, by sections 303 and 332 of, and Schedule 37 to the 2003 Act.
+
+[^c22147501]: Marginal citation: [Section 52](https://www.legislation.gov.uk/uksi/2014/1652/section/52) was repealed, with savings, by sections 303 and 332 of, and Schedule 37 to the 2003 Act.
+
+[^c22147511]: Marginal citation: [2008 c.4](https://www.legislation.gov.uk/ukpga/2008/4).
+
+[^key-fc005363c6c9967a5deb71915daf13dc]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2014/1652/schedule) substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 422(4)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/422/4) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+
+[^key-42406488252f67e9d7dabed6a7220bff]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2014/1652/schedule) inserted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 422(5)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/422/5) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+
+[^key-0bb1f02a1b730c4f66f210cb96fab3e2]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2014/1652/schedule) substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 422(6)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/422/6) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

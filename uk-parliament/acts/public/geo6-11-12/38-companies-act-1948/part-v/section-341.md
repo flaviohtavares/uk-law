@@ -1,0 +1,28 @@
+---
+title: Companies Act 1948, section 341
+act: Companies Act 1948
+section: '341'
+status: as-enacted
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/ukpga/Geo6/11-12/38/section/341
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Companies Act 1948, section 341
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+## 341. Disposal of books and papers of company.
+
+(1) When a company has been wound up and is about to be dissolved, the books and papers of the company and of the liquidators may be disposed of as follows, that is to say:—
+
+- (a) in the case of a winding up by or subject to the supervision of the court, in such way as the court directs;
+- (b) in the case of a members' voluntary winding up, in such way as the company by extraordinary resolution directs, and, in the case of a creditors' voluntary winding up, in such way as the committee of inspection or, if there is no such committee, as the creditors of the company, may direct.
+
+(2) After five years from the dissolution of the company no responsibility shall rest on the company, the liquidators, or any person to whom the custody of the books and papers has been committed, by reason of any book or paper not being forthcoming to any person claiming to be interested therein.
+
+(3) Provision may be made by general rules for enabling the Board of Trade to prevent, for such period (not exceeding five years from the dissolution of the company) as the Board think proper, the destruction of the books and papers of a company which has been wound up, and for enabling any creditor or contributory of the company to make representations to the Board and to appeal to the court from any direction which may be given by the Board in the matter.
+
+(4) If any person acts in contravention of any general rules made for the purposes of this section or of any direction of the Board thereunder, he shall be liable to a fine not exceeding one hundred pounds.

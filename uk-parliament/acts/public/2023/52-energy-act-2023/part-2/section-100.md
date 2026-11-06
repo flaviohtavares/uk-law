@@ -1,0 +1,50 @@
+---
+title: Energy Act 2023, section 100
+act: Energy Act 2023
+section: '100'
+status: revised
+text_date: '2026-09-30'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2023/52/section/100
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Energy Act 2023, section 100
+
+> Text as at 2026-09-30.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 100. Duties with regard to considerations in the statement[^key-ee2a41fbe4ec8c960508b446cd009446]
+
+*Extent: E+W+S+N.I.*
+
+(1) The economic regulator must have regard to the strategic priorities set out in the CCUS strategy and policy statement when carrying out CCUS-related functions under this Part or Part 1.
+
+(2) The Secretary of State and the economic regulator must carry out their respective CCUS-related functions under Part 1 and this Part in the manner which the Secretary of State or the economic regulator (as the case may be) considers is best calculated to further the delivery of the policy outcomes.
+
+(3) Subsection (2) is subject to the application of the principal objectives in the carrying out of any such function.
+
+(4) Subsections (1) and (2) do not apply to anything done by the economic regulator—
+
+- (a) in the exercise of functions relating to the determination of disputes;
+- (b) in the exercise of functions under section 36(1) or 37(1).
+
+(5) The duties imposed by subsections (1) and (2) do not affect the obligation of the economic regulator or the Secretary of State to perform or comply with any other duty or requirement (whether arising under this Act or another enactment or otherwise).
+
+(6) The economic regulator must give notice to the Secretary of State if at any time the economic regulator concludes that a policy outcome contained in the strategy and policy statement is not realistically achievable.
+
+(7) A notice under subsection (6) must include—
+
+- (a) the grounds on which the conclusion was reached;
+- (b) what (if anything) the economic regulator is doing, or proposes to do, for the purpose of furthering the delivery of the outcome so far as reasonably practicable.
+
+(8) In this section—
+
+- “**CCUS-related functions**” means functions to which the strategic priorities are relevant (not including functions under sections 69 to 72, 84(1) or (2) or 89, or other functions so far as carried out in connection with those functions);
+- “**principal objectives**” means the principal objectives of the Secretary of State and the economic regulator set out in section 1(1).
+
+## Annotations
+
+[^key-ee2a41fbe4ec8c960508b446cd009446]: Commencement: [S. 100](https://www.legislation.gov.uk/ukpga/2023/52/section/100) in force at 26.12.2023, see [s. 334(3)(b)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/b)

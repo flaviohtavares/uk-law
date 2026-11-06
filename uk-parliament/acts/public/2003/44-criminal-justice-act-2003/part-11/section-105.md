@@ -1,0 +1,48 @@
+---
+title: Criminal Justice Act 2003, section 105
+act: Criminal Justice Act 2003
+section: '105'
+status: revised-with-pending-changes
+text_date: '2026-10-01'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/2003/44/section/105
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Criminal Justice Act 2003, section 105
+
+> **Warning: changes not yet applied to this text (151).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/44
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 105. “Evidence to correct a false impression”
+
+*Extent: E+W*
+
+(1) For the purposes of section 101(1)(f)—
+
+- (a) the defendant gives a false impression if he is responsible for the making of an express or implied assertion which is apt to give the court or jury a false or misleading impression about the defendant;
+- (b) evidence to correct such an impression is evidence which has probative value in correcting it.
+
+(2) A defendant is treated as being responsible for the making of an assertion if—
+
+- (a) the assertion is made by the defendant in the proceedings (whether or not in evidence given by him),
+- (b) the assertion was made by the defendant—
+  - (i) on being questioned under caution, before charge, about the offence with which he is charged, or
+  - (ii) on being charged with the offence or officially informed that he might be prosecuted for it,
+
+  and evidence of the assertion is given in the proceedings,
+- (c) the assertion is made by a witness called by the defendant,
+- (d) the assertion is made by any witness in cross-examination in response to a question asked by the defendant that is intended to elicit it, or is likely to do so, or
+- (e) the assertion was made by any person out of court, and the defendant adduces evidence of it in the proceedings.
+
+(3) A defendant who would otherwise be treated as responsible for the making of an assertion shall not be so treated if, or to the extent that, he withdraws it or disassociates himself from it.
+
+(4) Where it appears to the court that a defendant, by means of his conduct (other than the giving of evidence) in the proceedings, is seeking to give the court or jury an impression about himself that is false or misleading, the court may if it appears just to do so treat the defendant as being responsible for the making of an assertion which is apt to give that impression.
+
+(5) In subsection (4) “**conduct**” includes appearance or dress.
+
+(6) Evidence is admissible under section 101(1)(f) only if it goes no further than is necessary to correct the false impression.
+
+(7) Only prosecution evidence is admissible under section 101(1)(f).

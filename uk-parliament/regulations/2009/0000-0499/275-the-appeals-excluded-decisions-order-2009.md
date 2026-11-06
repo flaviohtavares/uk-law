@@ -1,0 +1,142 @@
+---
+title: The Appeals (Excluded Decisions) Order 2009
+id: uksi/2009/275
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2009-02-05'
+text_date: '2020-12-31'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2009/275
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2009/275/pdfs/uksiem_20090275_en.pdf
+- http://www.legislation.gov.uk/uksi/2009/275/pdfs/uksi_20090275_en.pdf
+- http://www.legislation.gov.uk/uksi/2009/275/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Appeals (Excluded Decisions) Order 2009
+
+> Text as at 2020-12-31.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2009 No. 275
+
+Tribunals And Inquiries
+
+The Appeals (Excluded Decisions) Order 2009
+
+Made
+
+5th February 2009
+
+Laid before Parliament
+
+13th February 2009
+
+Coming into force
+
+1st April 2009
+
+The Lord Chancellor makes the following Order in exercise of the power conferred by sections 11(5)(f) and 13(8)(f) of the Tribunals, Courts and Enforcement Act 2007[^f00001].
+
+## 1. Citation and commencement[^key-d0dd3f42f0e4d121482845a1c3a7bca5]
+
+This Order may be cited as the Appeals (Excluded Decisions) Order 2009 and comes into force on 1st April 2009.
+
+## 2. Excluded decisions[^key-62c6f740ef0bad61076f16aaf6f05c86]
+
+For the purposes of section 11(1) of the Tribunals, Courts and Enforcement Act 2007, the following decisions of the First-tier Tribunal are excluded decisions—
+
+- (a) a decision under section 103 of the Immigration and Asylum Act 1999 (appeals); and
+- (b)[^key-6ad5983300eaea90db29b4ffb5e57dc1] a decision under paragraphs 1, 5, 6, and 10(12) and (13) of Schedule 10 to the Immigration Act 2016.
+
+**3.**[^key-32b3601d332cf48d88e9d8ea1b696d01] For the purposes of sections 11(1) and 13(1) of the Tribunals, Courts and Enforcement Act 2007, the following decisions of the First-tier Tribunal or the Upper Tribunal are excluded decisions—
+
+- (a) any decision under section 20(7), (8B) or (8G)(b) (power to call for documents of taxpayer and others), 20B(1B) or (6) (restrictions on powers under sections 20 and 20A) or 20BB(2)(a) (falsification etc. of documents) of the Taxes Management Act 1970[^f00003];
+- (b) any decision under section 35A(2) (variation of undertakings), 79A(2) (variation of undertakings) or 219(1A) (power to require information) of the Inheritance Tax Act 1984[^f00004];
+- (c) any decision under section 152(5) (notification of taxable amount of certain benefits) or 215(7) (advance clearance by Board of distributions and payments) of the Income and Corporation Taxes Act 1988[^f00005];
+- (d) any decision under section 138(4) of the Taxation of Chargeable Gains Act 1992[^f00006] (procedure for clearance in advance);
+- (e) any decision under section 187(5) or (6) (returns and information) of, or paragraph 3(2) or 6(2) of Schedule 21 (restrictions on powers under section 187) to, the Finance Act 1993[^f00007];
+- (f) any decision under paragraph 91(5) of Schedule 15 to the Finance Act 2000[^f00008] (corporate venturing scheme: advance clearance);
+- (g) any decision under paragraph 88(5) of Schedule 29 to the Finance Act 2002[^f00009] (gains and losses from intangible fixed assets: transfer of business or trade);
+- (h) any decision under paragraph 2, 4, 7, 9, 10, 11 or 24 of Schedule 13 to the Finance Act 2003[^f00010] (stamp duty land tax: information powers);
+- (i) any decision under section 306A (doubt as to notifiability), 308A (supplemental information), 313B (reasons for non-disclosure: supporting information) or 314A (order to disclose) of the Finance Act 2004[^f00011];
+- (j) any decision under section 697(4) of the Income Tax Act 2007[^f00012] (opposed notifications: determinations by tribunal);
+- (k) any decision under regulation 10(3) of the Venture Capital Trust (Winding up and Mergers) (Tax) Regulations 2004[^f00013] (procedure for Board’s approval);
+- (l) any decision under regulation 5A (doubt as to notifiability), 7A (supplemental information), 12B (reasons for non-disclosure: supporting information) or 12C (order to disclose) of the National Insurance Contributions (Application of Part 7 of the Finance Act 2004) Regulations 2007[^f00014];
+- (m)[^key-2ebfbbdbe3c699a8d8e9266b352640f7] any procedural, ancillary or preliminary decision made in relation to an appeal against a decision under section 40A of the British Nationality Act 1981 or[^key-1deb1bb726604c9cce90403b55dcf3a9] section 82 [^key-2c42f2d274f6124dfd31bb93da159776]... of the Nationality, Immigration and Asylum Act 2002 [^key-62ffad49994543e8527389a37d9e8eed]....
+
+## 4. Revocations[^key-478e100f0b9d95a219ad69543634800e]
+
+The Appeals (Excluded Decisions) Order 2008[^f00015] and the Appeals (Excluded Decisions) (Amendment) Order 2008[^f00016] are revoked.
+
+By authority of the Lord Chancellor
+
+Bridget Prentice
+
+Parliamentary Under Secretary of State
+
+Ministry of Justice
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+Section 11 of the Tribunals, Courts and Enforcement Act 2007 provides that a party to a case has a right of appeal on a point of law from the First-tier Tribunal to the Upper Tribunal. Section 13 of that Act provides that a party to a case has a right of appeal on a point of law from the Upper Tribunal to the relevant appellate court (being the Court of Appeal in England and Wales, the Court of Session or the Court of Appeal in Northern Ireland). But there is no right of appeal under section 11 or 13 against an “excluded decision”. Excluded decisions are listed in sections 11(5) and 13(8). This Order lists additional decisions which are also excluded from a right of appeal from the First-tier Tribunal to the Upper Tribunal, or from the Upper Tribunal to the relevant appellate court, as the case may be. This Order revokes and replaces the previous order which listed additional excluded decisions.
+
+## Annotations
+
+[^f00001]: Footnote: [2007 c. 15](https://www.legislation.gov.uk/ukpga/2007/15).
+
+[^key-d0dd3f42f0e4d121482845a1c3a7bca5]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2009/275/article/1) in force at 1.4.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/275/article/1)
+
+[^key-62c6f740ef0bad61076f16aaf6f05c86]: Textual amendment: [Art. 2](https://www.legislation.gov.uk/uksi/2009/275/article/2) substituted (15.2.2010) by [The Tribunals, Courts and Enforcement Act 2007 (Miscellaneous Provisions) Order 2010 (S.I. 2010/41)](https://www.legislation.gov.uk/uksi/2010/41), [arts. 1](https://www.legislation.gov.uk/uksi/2010/41/article/1), [3](https://www.legislation.gov.uk/uksi/2010/41/article/3)
+
+[^key-6ad5983300eaea90db29b4ffb5e57dc1]: Textual amendment: [Art. 2(b)](https://www.legislation.gov.uk/uksi/2009/275/article/2/b) substituted (15.1.2018) by [The Immigration Act 2016 (Consequential Amendments) (Immigration Bail) Regulations 2017 (S.I. 2017/1242)](https://www.legislation.gov.uk/uksi/2017/1242), [reg. 1](https://www.legislation.gov.uk/uksi/2017/1242/regulation/1), [Sch. para. 5](https://www.legislation.gov.uk/uksi/2017/1242/schedule/paragraph/5)
+
+[^key-32b3601d332cf48d88e9d8ea1b696d01]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2009/275/article/3) in force at 1.4.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/275/article/1)
+
+[^f00003]: Footnote: [1970 c. 9](https://www.legislation.gov.uk/ukpga/1970/9). Sections 20 to 20D were substituted by section 57(1) of, and Schedule 6 to, the Finance Act [1976 (c.40)](https://www.legislation.gov.uk/ukpga/1976/40). Section 20BB was inserted by section 145 of the Finance Act [1989 (c.26)](https://www.legislation.gov.uk/ukpga/1989/26). Sections 20, 20B and 20BB are amended from a date to be appointed by paragraphs 65 and 67 to 69 of Schedule 36 to the Finance Act [2008 (c.9)](https://www.legislation.gov.uk/ukpga/2008/9).
+
+[^f00004]: Footnote: [1984 c. 51](https://www.legislation.gov.uk/ukpga/1984/51). Sections 35A and 79A were inserted by paragraph 8 of Schedule 25 to the Finance Act [1998 (c.36)](https://www.legislation.gov.uk/ukpga/1998/36). Section 219(1A) was inserted by section 124 of the Finance Act [1990 (c.29)](https://www.legislation.gov.uk/ukpga/1990/29).
+
+[^f00005]: Footnote: [1988 c. 1](https://www.legislation.gov.uk/ukpga/1988/1).
+
+[^f00006]: Footnote: [1992 c. 12](https://www.legislation.gov.uk/ukpga/1992/12).
+
+[^f00007]: Footnote: [1993 c. 34](https://www.legislation.gov.uk/ukpga/1993/34).
+
+[^f00008]: Footnote: [2000 c. 17](https://www.legislation.gov.uk/ukpga/2000/17).
+
+[^f00009]: Footnote: [2002 c. 23](https://www.legislation.gov.uk/ukpga/2002/23).
+
+[^f00010]: Footnote: [2003 c. 14](https://www.legislation.gov.uk/ukpga/2003/14).
+
+[^f00011]: Footnote: [2004 c. 12](https://www.legislation.gov.uk/ukpga/2004/12). Sections 306A, 308A, 313B and 314A were inserted by section 108 of the Finance Act [2007 (c.11)](https://www.legislation.gov.uk/ukpga/2007/11).
+
+[^f00012]: Footnote: [2007 c. 3](https://www.legislation.gov.uk/ukpga/2007/3).
+
+[^f00013]: Footnote: [S.I. 2004/2199](https://www.legislation.gov.uk/uksi/2004/2199).
+
+[^f00014]: Footnote: [S.I. 2007/785](https://www.legislation.gov.uk/uksi/2007/785). Regulations 5A, 7A, 12B and 12C were inserted by regulations 2, 9, 12 and 16 of the National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2008 ([S.I. 2008/2678](https://www.legislation.gov.uk/uksi/2008/2678)).
+
+[^key-2ebfbbdbe3c699a8d8e9266b352640f7]: Textual amendment: [Art. 3(m)](https://www.legislation.gov.uk/uksi/2009/275/article/3/m) inserted (15.2.2010) by [The Tribunals, Courts and Enforcement Act 2007 (Miscellaneous Provisions) Order 2010 (S.I. 2010/41)](https://www.legislation.gov.uk/uksi/2010/41), [arts. 1](https://www.legislation.gov.uk/uksi/2010/41/article/1), [4](https://www.legislation.gov.uk/uksi/2010/41/article/4)
+
+[^key-1deb1bb726604c9cce90403b55dcf3a9]: Textual amendment: Words in [art. 3(m)](https://www.legislation.gov.uk/uksi/2009/275/article/3/m) substituted (31.12.2020) by [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2), [35(2)(a)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/35/2/a) (with [reg. 35(3)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/35/3)[(4)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/35/4))
+
+[^key-2c42f2d274f6124dfd31bb93da159776]: Textual amendment: Words in [art. 3(m)](https://www.legislation.gov.uk/uksi/2009/275/article/3/m) omitted (6.4.2015) by virtue of [The Immigration (Appeals) (Consequential Amendments and Saving Provision) Order 2015 (S.I. 2015/383)](https://www.legislation.gov.uk/uksi/2015/383), [arts. 1](https://www.legislation.gov.uk/uksi/2015/383/article/1), [3(2)](https://www.legislation.gov.uk/uksi/2015/383/article/3/2) (with [art. 5(2)](https://www.legislation.gov.uk/uksi/2015/383/article/5/2))
+
+[^key-62ffad49994543e8527389a37d9e8eed]: Textual amendment: Words in [art. 3(m)](https://www.legislation.gov.uk/uksi/2009/275/article/3/m) omitted (31.12.2020) by virtue of [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2), [35(2)(b)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/35/2/b) (with [reg. 35(3)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/35/3)[(4)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/35/4))
+
+[^key-478e100f0b9d95a219ad69543634800e]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2009/275/article/4) in force at 1.4.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/275/article/1)
+
+[^f00015]: Footnote: [S.I. 2008/2707](https://www.legislation.gov.uk/uksi/2008/2707).
+
+[^f00016]: Footnote: [S.I. 2008/2780](https://www.legislation.gov.uk/uksi/2008/2780).

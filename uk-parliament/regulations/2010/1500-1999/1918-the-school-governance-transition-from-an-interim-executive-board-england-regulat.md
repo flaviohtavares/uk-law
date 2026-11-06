@@ -1,0 +1,426 @@
+---
+title: The School Governance (Transition from an Interim Executive Board) (England) Regulations 2010
+id: uksi/2010/1918
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2010-07-27'
+text_date: '2015-09-01'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2010/1918
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2010/1918/pdfs/uksiem_20101918_en.pdf
+- http://www.legislation.gov.uk/uksi/2010/1918/pdfs/uksi_20101918_en.pdf
+- http://www.legislation.gov.uk/uksi/2010/1918/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The School Governance (Transition from an Interim Executive Board) (England) Regulations 2010
+
+> Text as at 2015-09-01.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2010 No. 1918
+
+Education, England
+
+The School Governance (Transition from an Interim Executive Board) (England) Regulations 2010
+
+Made
+
+27th July 2010
+
+Laid before Parliament
+
+30th July 2010
+
+Coming into force
+
+1st September 2010
+
+The Secretary of State makes the following Regulations in exercise of the powers conferred by paragraph 19(2) and (3) of Schedule 6 to the Education and Inspections Act 2006[^f00001]:
+
+## PART 1 — Introduction
+
+### 1. Citation, commencement and application[^key-165e4f33725e6e35de82e029bc3db5e0]
+
+(1) These Regulations may be cited as the School Governance (Transition from an Interim Executive Board) (England) Regulations 2010 and come into force on 1st September 2010 .
+
+(2) These Regulations apply only in relation to England.
+
+### 2. Revocation[^key-0e7da4ace1d229f2fa7cd8ca0d1a11f2]
+
+The School Governance (Transition from an Interim Executive Board) (England) Regulations 2004[^f00002] are revoked.
+
+### 3. Interpretation[^key-88084ad461734e8ea7bee5b25a338401]
+
+In these Regulations—
+
+- “SSFA 1998” means the School Standards and Framework Act 1998[^f00003];
+- “EA 2002” means the Education Act 2002[^f00004];
+- “the Act” means the Education and Inspections Act 2006[^f00005];
+- “the Constitution Regulations” means the School Governance (Constitution) (England) Regulations 2007[^f00006];
+- “interim executive board” means a governing body constituted in accordance with Schedule 6 to the Act (governing bodies consisting of Interim Executive Members);
+- “interim executive member” means a member of the governing body constituted in accordance with Schedule 6 to the Act;
+- “local authority” means the local authority by which a maintained school is maintained;
+- “normally constituted governing body” means a governing body constituted in accordance with regulations made by virtue of section 19 of EA 2002;
+- “qualifying foundation school” means a foundation or a foundation special school which has a foundation established otherwise than under SSFA 1998, and whose instrument of government provides for the majority of governors to be foundation governors appointed by the foundation;
+- “shadow governing body” and “shadow governors” have the meaning given in regulation 11(3);
+- “transfer date” means the day on which the interim executive members cease to hold office in accordance with paragraph 18(1) of Schedule 6 to the Act.
+
+### 4. Exclusion of certain provisions[^key-851f811df2e57f609669548c39bcec95]
+
+(1) Regulations made by virtue of subsection (2) or (3) of section 19, or section 23 of EA 2002 do not apply in relation to the shadow governing body.
+
+(2) The instrument of government of the school does not have effect in relation to the constitution of the shadow governing body.
+
+## PART 2 — Categories of Shadow Governors
+
+### 5. Shadow parent governor[^key-71a661c31f310e6ad65d7f0c9a0012bf]
+
+(1)[^key-a28b5ca7114645a0b83c220166b66d62] In these Regulations “shadow parent governor” means a person who is appointed as such by the local authority to be a member of the shadow governing body and who is—
+
+- (a) a parent of a registered pupil at the school, or where such an appointment is not practicable,
+  - (i) a parent of a former registered pupil at the school, or
+  - (ii) a parent of a child of compulsory school age or under, or
+- (b) where the school is a community special school or a foundation special school a parent of a registered pupil at the school, or where such an appointment is not practicable,
+  - (i) a parent of a former registered pupil at the school;
+  - (ii) a parent of a child of compulsory school age or under with special educational needs;
+  - (iii) a parent with experience of educating a child with special educational needs.
+
+(2)[^key-371de6691d3a4ceda87094cffc11b2b3] A local authority may only appoint as a shadow parent governor a person who has, in the opinion of the local authority, the skills required to contribute to the effective governance and success of the school.
+
+### 6. Shadow partnership governor[^key-5dbeb60abed6d1b99aa8c7d5087d78dc]
+
+(1) In these Regulations “shadow partnership governor” means a person who is appointed as such by the local authority to be a member of the shadow governing body and who is—
+
+- (a) where the school has a religious character[^f00007], appointed for the purpose of securing that such religious character is preserved and developed; and
+- (b) in any other case, such other person in the community served by the school as they consider appropriate [^key-e7f5245250412e648c582a9336b5454d]....
+
+(2) The local authority may not appoint as a shadow partnership governor a person who is—
+
+- (a) a parent of a registered pupil at the school;
+- (b) eligible to be a shadow staff governor of the school;
+- (c) an elected member of the local authority; or
+- (d) employed by the local authority in connection with their education functions.
+
+(3)[^key-b2bb8b65d588e6f7905328b4e0bed339] A local authority may only appoint as a shadow partnership governor a person who has, in the opinion of the local authority, the skills required to contribute to the effective governance and success of the school.
+
+### 7. Shadow staff governor[^key-d971b9be157a4ba8fad65f9c081e95a1]
+
+(1) In these Regulations “shadow staff governor” means a person who is appointed as such by the local authority to be a member of the shadow governing body and who is—
+
+- (a) a person who is paid to work at the school and is so working at the time of the person’s appointment,
+- (b)[^key-e4c7de51ea7e10dbcb3940345496af0b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2)[^key-e51a3c2cf9d7671c07707df43df241b9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3)[^key-c1c98891b4c0649f7fc5c71a860cb8aa] No person may be appointed as a shadow staff governor unless that person has, in the opinion of the local authority, the skills required to contribute to the effective governance and success of the school.
+
+### 8. Shadow local authority governor[^key-21e810541370ec1cb5ff292b0442f65d]
+
+(1)[^key-8e52596fbf0b7b7f68a491dec89e634c] In these Regulations “shadow local authority governor” means a person who is appointed as such by the local authority to be a member of the shadow governing body.
+
+(2)[^key-4187288079514c5ea33177b8b5f30f96] No person may be appointed as a shadow local authority governor unless that person, in the opinion of the local authority making the appointment—
+
+- (a) has the skills required to contribute to the effective governance and success of the school; and
+- (b) has met any additional eligibility criteria set by the local authority.
+
+### 9. Shadow community governor[^key-2db2bfca643d181bef67d0d2bde39801]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 10. Shadow foundation governor[^key-d5cc24eb5115561c4f9366f87fb5d0ed]
+
+(1)[^key-b49c98faad05eb803bb72022f2d0107f] In these Regulations “shadow foundation governor” means a person who is appointed as such by the local authority to be a member of the shadow governing body and who is—
+
+- (a) appointed for the purposes of securing that the character of the school, including where the school has a particular religious character[^f00008] such religious character, is preserved and developed, and
+- (b) where the school has a foundation, appointed for the purpose of securing that the school is conducted in accordance with the foundation’s governing documents, including, where appropriate , any trust deed relating to the school.
+
+(2)[^key-bd5a703f0ea0a17a4ffc791634369227] No person may be appointed as a shadow foundation governor unless that person has, in the opinion of the local authority, the skills required to contribute to the effective governance and success of the school.
+
+## PART 3 — Establishment of a Shadow Governing Body
+
+### 11. Arrangements for the establishment and removal of a shadow governing body[^key-94ad99c63bfb7e74d38b6b57b72b2e14]
+
+(1) Where the notice given under section 65(1) or 69(1) of the Act specifies the duration of the period at the end of which the governing body will become a normally constituted governing body, the local authority may at least six months before the end of that period make arrangements providing for the establishment of a governing body for the school in anticipation of the transition to a normally constituted governing body.
+
+(2) Where the notice given under section 65(1) or 69(1) of the Act does not specify the duration of that period and a notice has been given under paragraph 17(1) of Schedule 6 to the Act , the local authority may at least six months before the date given in the notice on which the governing body are to become a normally constituted governing body, make arrangements providing for the establishment of a governing body for the school in anticipation of the transition to a normally constituted governing body.
+
+(3) In these Regulations, a governing body so established is referred to as a shadow governing body and members of the shadow governing body are referred to as shadow governors.
+
+(4) Nothing in these Regulations prevents the appointment of an interim executive member as a shadow governor.
+
+(5) Before appointing a person to be a shadow partnership governor under Regulation 6(1)(a) or a shadow foundation governor under Regulation 10(a), the local authority must consult—
+
+- (a) any person who would be entitled to appoint a partnership governor or a foundation governor under the instrument of government of the school if the governing body were a normally constituted governing body, and
+- (b) in the case of a Church of England school or a Roman Catholic school, the appropriate diocesan authority (if different).
+
+(6) Before appointing a person to be a shadow foundation governor in accordance with Regulation 10(b) the local authority must consult—
+
+- (a) the trustees of any foundation relating to the school, and
+- (b) any other person who would be entitled to appoint foundation governors or partnership governors under the instrument of government of the school if the governing body were a normally constituted governing body.
+
+(7)[^key-50c5596fb23fc9b42afc68bee228f1db] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**12.**[^key-55771128c5bb3a773f51436fb87e0e7d] A shadow governor may at any time be removed from office by the local authority for incapacity or misbehaviour.
+
+## PART 4 — Composition of a Shadow Governing Body[^key-d6a4ef2c2fb280c61c1c6b410a5de34b]
+
+### 13. Composition of shadow governing bodies
+
+(1) Subject to the following provisions of this regulation and to regulation 14, the size of the shadow governing body must be determined by the local authority.
+
+(2) The shadow governing body must include at least seven shadow governors.
+
+(3) The shadow governing body of a maintained school must include—
+
+- (a) at least two shadow parent governors;
+- (b) the head teacher, unless the head teacher resigns the position;
+- (c) one shadow staff governor; and
+- (d) one shadow local authority governor.
+
+(4) The shadow governing body may, in addition, appoint as a member of the shadow governing body one or more persons who, in the opinion of the shadow governing body, have the skills required to contribute to the effective governance and success of the school.
+
+(5) In this regulation, a person who is appointed under paragraph (4) is to be known as a “shadow co-opted governor”.
+
+(6) The total number of shadow co-opted governors within paragraph (7), when counted with the shadow staff governor and the head teacher, must not exceed one third of the total membership of the shadow governing body.
+
+(7) A shadow co-opted governor is within this paragraph if he or she is eligible to be elected as a shadow staff governor.
+
+### 14. Additional requirements for foundation and voluntary schools
+
+(1) The shadow governing body of a foundation school or a foundation special school which, in either case, does not have a foundation, must include at least two (but no more than one quarter of the total) shadow partnership governors.
+
+(2) The shadow governing body of a foundation school or a foundation special school which, in either case, has a foundation but which is not a qualifying foundation school, must also include at least two (but no more than 45% of the total) shadow foundation governors.
+
+(3) The shadow governing body of a qualifying foundation school must include such number of shadow foundation governors as to outnumber all the other shadow governors by one or two.
+
+(4) The shadow governing body of a voluntary aided school must include such number of shadow foundation governors as to outnumber all the other shadow governors by two.
+
+(5) The shadow governing body of a voluntary controlled school must include at least two (but no more than one quarter of the total) shadow foundation governors.
+
+### 15. Foundation and foundation special schools which have a foundation but which are not qualifying foundation schools[^key-d6a4ef2c2fb280c61c1c6b410a5de34b]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 16. Qualifying foundation schools[^key-d6a4ef2c2fb280c61c1c6b410a5de34b]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 17. Voluntary controlled schools[^key-d6a4ef2c2fb280c61c1c6b410a5de34b]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 18. Voluntary aided schools[^key-d6a4ef2c2fb280c61c1c6b410a5de34b]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART 5 — Conduct of a Shadow Governing Body
+
+### 19. Chair and vice-chair of the shadow governing body[^key-bec8046f092471f714ea1b5bfab1c2a3]
+
+(1) The shadow governing body must, at their first meeting, elect a chair and vice-chair of the shadow governing body from among their number.
+
+(2) A person employed to work at the school may not be elected as chair or vice-chair, however nothing in this regulation prevents an interim executive member from being elected as chair or vice-chair.
+
+(3) The chair or vice-chair of the shadow governing body may, at any time, resign that office by giving notice in writing to the clerk to the shadow governing body.
+
+(4) The chair or vice-chair of the shadow governing body ceases to hold office if that person ceases to be a shadow governor, or becomes employed to work at the school.
+
+(5) Where a vacancy arises in the office of chair or vice-chair, the shadow governing body must at their next meeting elect one of their number to fill that vacancy.
+
+(6) Where the chair is absent from any meeting or there is at the time a vacancy in the office of the chair, the vice-chair must act as the chair for all purposes.
+
+### 20. Appointment of the clerk to the shadow governing body[^key-8a13bdeee8a71f0f885c3e57fdbe0b37]
+
+(1) The local authority must appoint the clerk to the shadow governing body.
+
+(2) The clerk to the shadow governing body must not be:
+
+- (a) a shadow governor; or
+- (b) the head teacher of the school.
+
+(3) Despite paragraph (2), the shadow governing body may, where the clerk fails to attend a meeting of theirs, appoint any one of their number to act as clerk for the purposes of that meeting.
+
+### 21. Proceedings of the shadow governing body[^key-cac97ebf824b2e6bbc5ce8f028aad7fa]
+
+The shadow governing body may determine their own procedure, subject to regulations 23 and 24.
+
+### 22. Delegation of functions[^key-61dd930480276c5ea47c641027e0eb08]
+
+The shadow governing body must exercise any functions which have been delegated to them by the interim executive board [^f00010].
+
+### 23. Functions of the clerk to the shadow governing body[^key-38b4773d070ea1fcf39afc98d01bcede]
+
+The clerk to the shadow governing body must:
+
+- (a) attend meetings of the shadow governing body and ensure that minutes of the proceedings are produced and signed (subject to the approval of the shadow governing body) by the chair of the meeting; and
+- (b) perform such other functions determined by the shadow governing body from time to time.
+
+### 23A. Attendance and voting at meetings[^key-d4bc3473d81b6fbbe50aa4b518b85c04]
+
+The shadow governing body may make arrangements for its members to participate or vote at meetings of the shadow governing body including, but not limited to, by telephone or video conference.
+
+### 24. Minutes of the shadow governing body[^key-e9d069e41f617ede9c08b8618b1f654a]
+
+(1) Subject to paragraph (2), the shadow governing body must, as soon as reasonably practicable, make available for inspection a copy of—
+
+- (a) the agenda for every meeting;
+- (b) the signed minutes of every meeting; and
+- (c) any report or other paper considered at the meeting.
+
+(2) There may be excluded from any item required to be made available in pursuance of sub-paragraph (1) any material relating to—
+
+- (a) a named person who works, or it is proposed should work, at the school;
+- (b) a named pupil at or candidate for admission to the school; or
+- (c) any other matter that, by reason of its nature, the shadow governing body is satisfied should remain confidential.
+
+## PART 6 — Transition to a Normally Constituted Governing Body
+
+### 25. End of the interim period[^key-0b13f78a58b41f2245d29f785cc4ee12]
+
+From the transfer date—
+
+- (a) the shadow governing body are to be treated as if they were a normally constituted governing body; and
+- (b) despite regulation 4(1), Part 5 of the Constitution Regulations applies to the shadow governing body as if they were the governing body of the school.
+
+### 26. Constitution of the governing body in accordance with the instrument of government[^key-85885ef62ab5e19c35e5f42efeb3269c]
+
+(1) The local authority must give one term’s notice of a date (“the constitution date”), no later than 13 months after the transfer date, on which—
+
+- (a) the shadow governors vacate office; and
+- (b) the governing body of the school are to be constituted as a normally constituted governing body.
+
+(2) Sub-paragraph (1) (a) does not prevent the appointment of a shadow governor as a governor of the normally constituted governing body.
+
+(3) The local authority must secure that the required appointment or election of governors takes place in accordance with the instrument of government before the constitution date and takes effect on that date.
+
+**27.**[^key-e4768ef2ff9656de2a13462a504244f6] Where a local authority have not appointed a shadow governing body, they must secure that:
+
+- (a) a new instrument of government is made for the school in accordance with Part 5 of the Constitution Regulations; and
+- (b) on the transfer date the governing body of the school are constituted as a normally constituted governing body in accordance with that new instrument of government.
+
+Jonathan Hill
+
+Parliamentary Under Secretary of State
+
+Department for Education
+
+27th July 2010
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations make provisions with respect to the transition of a governing body constituted as an interim executive board in accordance with Schedule 6 to the Act to a normally constituted governing body in accordance with section 19(1) of the Education Act 2002. They replace the School Governance (Transition from an Interim Executive Board) (England) Regulations which are revoked.
+
+Part 1 provides for the Regulations to come into force on 1st September 2010, sets out the regulations that are to be revoked and contains the interpretation provisions. Under regulation 4 certain statutory provisions relating to the constitution of a governing body and the school’s instrument of government in so far as they relate to the constitution of the governing body do not apply to the shadow governing body.
+
+Part 2 provides for a shadow governing body to be appointed by the local authority and describes the various categories of shadow governors that may be appointed.
+
+Part 3 sets out that a local authority may establish a shadow governing body at least six months before the interim executive board is to become a normally constituted governing body. It also provides that a local authority may remove a shadow governor at anytime for incapacity or misbehaviour.
+
+Part 4 sets out the composition of a shadow governing body for each category of school.
+
+Part 5 deals with the conduct of a shadow governing body and provides for the appointment of a chair, a vice-chair and clerk. The clerk must attend meetings of the shadow governing body and ensure that minutes are taken and signed by the chair. For each meeting of the shadow governing body a copy of the agenda, the signed minutes and any report or papers considered, must be made available for inspection as soon as reasonably practicable. In all other respects the shadow governing body determines their own procedure.
+
+Part 6 sets out the procedure for the transition from an interim executive board to a normally constituted governing body. Where a shadow governing body has been appointed by a local authority, when the interim executive members vacate office, the shadow governing body are to be treated as if they are a normally constituted governing body until a date determined by the local authority when they will vacate office and the governing body must be constituted in accordance with regulations made by virtue of section 19 of the EA 2002 and in accordance with the school’s instrument of government.
+
+Under regulation 27, where a shadow governing body has not been appointed by the local authority, the local authority must ensure that a new instrument of government is made, and from the day the interim executive members cease to hold office, the governing body are constituted as a normally constituted governing body in accordance with regulations made by virtue of section 19 of the EA 2002.
+
+## Annotations
+
+[^f00001]: Footnote: [2006 c.40](https://www.legislation.gov.uk/ukpga/2006/40).
+
+[^key-165e4f33725e6e35de82e029bc3db5e0]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2010/1918/regulation/1) in force at 1.9.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/1918/regulation/1/1)
+
+[^key-0e7da4ace1d229f2fa7cd8ca0d1a11f2]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2010/1918/regulation/2) in force at 1.9.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/1918/regulation/1/1)
+
+[^f00002]: Footnote: [S.I.2004/530](https://www.legislation.gov.uk/uksi/2004/530).
+
+[^key-88084ad461734e8ea7bee5b25a338401]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2010/1918/regulation/3) in force at 1.9.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/1918/regulation/1/1)
+
+[^f00003]: Footnote: [1998 c.31](https://www.legislation.gov.uk/ukpga/1998/31).
+
+[^f00004]: Footnote: [2002 c.32](https://www.legislation.gov.uk/ukpga/2002/32).
+
+[^f00005]: Footnote: [2006 c.40](https://www.legislation.gov.uk/ukpga/2006/40).
+
+[^f00006]: Footnote: [S.I 2007/957](https://www.legislation.gov.uk/uksi/2007/957) as amended by [S.I.2010/1172](https://www.legislation.gov.uk/uksi/2010/1172), there are other amending instruments but none are relevant.
+
+[^key-851f811df2e57f609669548c39bcec95]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2010/1918/regulation/4) in force at 1.9.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/1918/regulation/1/1)
+
+[^key-71a661c31f310e6ad65d7f0c9a0012bf]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2010/1918/regulation/5) in force at 1.9.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/1918/regulation/1/1)
+
+[^key-a28b5ca7114645a0b83c220166b66d62]: Textual amendment: Reg. 5 renumbered as reg. 5(1) (1.9.2015) by [The School Governance (Miscellaneous Amendments) (England) Regulations 2015 (S.I. 2015/883)](https://www.legislation.gov.uk/uksi/2015/883), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/883/regulation/1/1), [6(2)(a)](https://www.legislation.gov.uk/uksi/2015/883/regulation/6/2/a) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/883/regulation/1/2))
+
+[^key-371de6691d3a4ceda87094cffc11b2b3]: Textual amendment: Reg. 5(2) inserted (1.9.2015) by [The School Governance (Miscellaneous Amendments) (England) Regulations 2015 (S.I. 2015/883)](https://www.legislation.gov.uk/uksi/2015/883), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/883/regulation/1/1), [6(2)(b)](https://www.legislation.gov.uk/uksi/2015/883/regulation/6/2/b) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/883/regulation/1/2))
+
+[^key-5dbeb60abed6d1b99aa8c7d5087d78dc]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2010/1918/regulation/6) in force at 1.9.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/1918/regulation/1/1)
+
+[^f00007]: Footnote: As designated by Order of the Secretary of State under section 69(3) of SSFA 1998.
+
+[^key-e7f5245250412e648c582a9336b5454d]: Textual amendment: Words in [reg. 6(1)(b)](https://www.legislation.gov.uk/uksi/2010/1918/regulation/6/1/b) omitted (1.9.2015) by virtue of [The School Governance (Miscellaneous Amendments) (England) Regulations 2015 (S.I. 2015/883)](https://www.legislation.gov.uk/uksi/2015/883), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/883/regulation/1/1), [6(3)(a)](https://www.legislation.gov.uk/uksi/2015/883/regulation/6/3/a) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/883/regulation/1/2))
+
+[^key-b2bb8b65d588e6f7905328b4e0bed339]: Textual amendment: [Reg. 6(3)](https://www.legislation.gov.uk/uksi/2010/1918/regulation/6/3) inserted (1.9.2015) by [The School Governance (Miscellaneous Amendments) (England) Regulations 2015 (S.I. 2015/883)](https://www.legislation.gov.uk/uksi/2015/883), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/883/regulation/1/1), [6(3)(b)](https://www.legislation.gov.uk/uksi/2015/883/regulation/6/3/b) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/883/regulation/1/2))
+
+[^key-d971b9be157a4ba8fad65f9c081e95a1]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2010/1918/regulation/7) in force at 1.9.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/1918/regulation/1/1)
+
+[^key-e4c7de51ea7e10dbcb3940345496af0b]: Textual amendment: [Reg. 7(1)(b)](https://www.legislation.gov.uk/uksi/2010/1918/regulation/7/1/b) omitted (1.9.2015) by virtue of [The School Governance (Miscellaneous Amendments) (England) Regulations 2015 (S.I. 2015/883)](https://www.legislation.gov.uk/uksi/2015/883), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/883/regulation/1/1), [6(4)(a)](https://www.legislation.gov.uk/uksi/2015/883/regulation/6/4/a) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/883/regulation/1/2))
+
+[^key-e51a3c2cf9d7671c07707df43df241b9]: Textual amendment: [Reg. 7(2)](https://www.legislation.gov.uk/uksi/2010/1918/regulation/7/2) omitted (1.9.2015) by virtue of [The School Governance (Miscellaneous Amendments) (England) Regulations 2015 (S.I. 2015/883)](https://www.legislation.gov.uk/uksi/2015/883), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/883/regulation/1/1), [6(4)(a)](https://www.legislation.gov.uk/uksi/2015/883/regulation/6/4/a) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/883/regulation/1/2))
+
+[^key-c1c98891b4c0649f7fc5c71a860cb8aa]: Textual amendment: [Reg. 7(3)](https://www.legislation.gov.uk/uksi/2010/1918/regulation/7/3) inserted (1.9.2015) by [The School Governance (Miscellaneous Amendments) (England) Regulations 2015 (S.I. 2015/883)](https://www.legislation.gov.uk/uksi/2015/883), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/883/regulation/1/1), [6(4)(b)](https://www.legislation.gov.uk/uksi/2015/883/regulation/6/4/b) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/883/regulation/1/2))
+
+[^key-21e810541370ec1cb5ff292b0442f65d]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2010/1918/regulation/8) in force at 1.9.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/1918/regulation/1/1)
+
+[^key-8e52596fbf0b7b7f68a491dec89e634c]: Textual amendment: Reg. 8 renumbered as reg. 8(1) (1.9.2015) by [The School Governance (Miscellaneous Amendments) (England) Regulations 2015 (S.I. 2015/883)](https://www.legislation.gov.uk/uksi/2015/883), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/883/regulation/1/1), [6(5)(a)](https://www.legislation.gov.uk/uksi/2015/883/regulation/6/5/a) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/883/regulation/1/2))
+
+[^key-4187288079514c5ea33177b8b5f30f96]: Textual amendment: Reg. 8(2) inserted (1.9.2015) by [The School Governance (Miscellaneous Amendments) (England) Regulations 2015 (S.I. 2015/883)](https://www.legislation.gov.uk/uksi/2015/883), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/883/regulation/1/1), [6(5)(b)](https://www.legislation.gov.uk/uksi/2015/883/regulation/6/5/b) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/883/regulation/1/2))
+
+[^key-2db2bfca643d181bef67d0d2bde39801]: Textual amendment: [Reg. 9](https://www.legislation.gov.uk/uksi/2010/1918/regulation/9) omitted (1.9.2015) by virtue of [The School Governance (Miscellaneous Amendments) (England) Regulations 2015 (S.I. 2015/883)](https://www.legislation.gov.uk/uksi/2015/883), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/883/regulation/1/1), [6(6)](https://www.legislation.gov.uk/uksi/2015/883/regulation/6/6) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/883/regulation/1/2))
+
+[^key-d5cc24eb5115561c4f9366f87fb5d0ed]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2010/1918/regulation/10) in force at 1.9.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/1918/regulation/1/1)
+
+[^key-b49c98faad05eb803bb72022f2d0107f]: Textual amendment: Reg. 10 renumbered as reg. 10(1) (1.9.2015) by [The School Governance (Miscellaneous Amendments) (England) Regulations 2015 (S.I. 2015/883)](https://www.legislation.gov.uk/uksi/2015/883), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/883/regulation/1/1), [6(7)(a)](https://www.legislation.gov.uk/uksi/2015/883/regulation/6/7/a) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/883/regulation/1/2))
+
+[^f00008]: Footnote: As designated by Order of the Secretary of State under section 69(3) of SSFA 1998.
+
+[^key-bd5a703f0ea0a17a4ffc791634369227]: Textual amendment: Reg. 10(2) inserted (1.9.2015) by [The School Governance (Miscellaneous Amendments) (England) Regulations 2015 (S.I. 2015/883)](https://www.legislation.gov.uk/uksi/2015/883), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/883/regulation/1/1), [6(7)(b)](https://www.legislation.gov.uk/uksi/2015/883/regulation/6/7/b) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/883/regulation/1/2))
+
+[^key-94ad99c63bfb7e74d38b6b57b72b2e14]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2010/1918/regulation/11) in force at 1.9.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/1918/regulation/1/1)
+
+[^key-50c5596fb23fc9b42afc68bee228f1db]: Textual amendment: [Reg. 11(7)](https://www.legislation.gov.uk/uksi/2010/1918/regulation/11/7) omitted (1.9.2015) by virtue of [The School Governance (Miscellaneous Amendments) (England) Regulations 2015 (S.I. 2015/883)](https://www.legislation.gov.uk/uksi/2015/883), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/883/regulation/1/1), [6(8)](https://www.legislation.gov.uk/uksi/2015/883/regulation/6/8) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/883/regulation/1/2))
+
+[^key-55771128c5bb3a773f51436fb87e0e7d]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2010/1918/regulation/12) in force at 1.9.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/1918/regulation/1/1)
+
+[^key-d6a4ef2c2fb280c61c1c6b410a5de34b]: Textual amendment: [Pt. 4](https://www.legislation.gov.uk/uksi/2010/1918/part/4) substituted (1.9.2015) by [The School Governance (Miscellaneous Amendments) (England) Regulations 2015 (S.I. 2015/883)](https://www.legislation.gov.uk/uksi/2015/883), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/883/regulation/1/1), [6(9)](https://www.legislation.gov.uk/uksi/2015/883/regulation/6/9) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/883/regulation/1/2))
+
+[^key-bec8046f092471f714ea1b5bfab1c2a3]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2010/1918/regulation/19) in force at 1.9.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/1918/regulation/1/1)
+
+[^key-8a13bdeee8a71f0f885c3e57fdbe0b37]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2010/1918/regulation/20) in force at 1.9.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/1918/regulation/1/1)
+
+[^key-cac97ebf824b2e6bbc5ce8f028aad7fa]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2010/1918/regulation/21) in force at 1.9.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/1918/regulation/1/1)
+
+[^key-61dd930480276c5ea47c641027e0eb08]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2010/1918/regulation/22) in force at 1.9.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/1918/regulation/1/1)
+
+[^f00010]: Footnote: An interim executive board may make such arrangements as they think fit for the discharge of their functions by any other person under paragraph 11(2) of Schedule 6 to the Act.
+
+[^key-38b4773d070ea1fcf39afc98d01bcede]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/2010/1918/regulation/23) in force at 1.9.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/1918/regulation/1/1)
+
+[^key-d4bc3473d81b6fbbe50aa4b518b85c04]: Textual amendment: [Reg. 23A](https://www.legislation.gov.uk/uksi/2010/1918/regulation/23A) inserted (1.9.2015) by [The School Governance (Miscellaneous Amendments) (England) Regulations 2015 (S.I. 2015/883)](https://www.legislation.gov.uk/uksi/2015/883), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/883/regulation/1/1), [6(10)](https://www.legislation.gov.uk/uksi/2015/883/regulation/6/10) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/883/regulation/1/2))
+
+[^key-e9d069e41f617ede9c08b8618b1f654a]: Commencement: [Reg. 24](https://www.legislation.gov.uk/uksi/2010/1918/regulation/24) in force at 1.9.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/1918/regulation/1/1)
+
+[^key-0b13f78a58b41f2245d29f785cc4ee12]: Commencement: [Reg. 25](https://www.legislation.gov.uk/uksi/2010/1918/regulation/25) in force at 1.9.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/1918/regulation/1/1)
+
+[^key-85885ef62ab5e19c35e5f42efeb3269c]: Commencement: [Reg. 26](https://www.legislation.gov.uk/uksi/2010/1918/regulation/26) in force at 1.9.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/1918/regulation/1/1)
+
+[^key-e4768ef2ff9656de2a13462a504244f6]: Commencement: [Reg. 27](https://www.legislation.gov.uk/uksi/2010/1918/regulation/27) in force at 1.9.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/1918/regulation/1/1)

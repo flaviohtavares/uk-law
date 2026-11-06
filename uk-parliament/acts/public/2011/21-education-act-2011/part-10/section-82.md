@@ -1,0 +1,53 @@
+---
+title: Education Act 2011, section 82
+act: Education Act 2011
+section: '82'
+status: revised-with-pending-changes
+text_date: '2018-07-09'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2011/21/section/82
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Education Act 2011, section 82
+
+> **Warning: changes not yet applied to this text (2).** Text as at 2018-07-09. See https://www.legislation.gov.uk/changes/affected/ukpga/2011/21
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 82. Commencement
+
+*Extent: E+W+S+N.I.*
+
+(1) The following provisions come into force on the day on which this Act is passed—
+
+- (a) section 33;
+- (b) section 40(1) to (3) and (5) to (9);
+- (c) section 41;
+- (d) section 42(1) to (7) and (9) to (11);
+- (e) section 58;
+- (f) section 75;
+- (g) sections 76 and 77;
+- (h) this Part.
+
+(2) The following provisions come into force at the end of two months beginning with the day on which this Act is passed—
+
+- (a) section 6;
+- (b) sections 30 and 31;
+- (c) section 47;
+- (d) section 48;
+- (e) section 61.
+
+(3) The other provisions of this Act come into force on such day as the Secretary of State may by order appoint.
+
+(4) The Secretary of State must exercise the power conferred by subsection (3) so as to secure that, subject to any provision made by virtue of subsection (7), sections 69 and 70 and Schedule 18 are in force no later than the day after the day which is the school leaving date for 2013.
+
+(5) Before making an order bringing section 13 into force, the Secretary of State must consult the Welsh Ministers.
+
+(6) Before making an order bringing sections 14 to 17 into force, the Secretary of State must obtain the consent of the Welsh Ministers.
+
+(7) An order under this section may—
+
+- (a) appoint different days for different purposes (including different areas);
+- (b) contain transitional, transitory or saving provision in connection with the coming into force of this Act.

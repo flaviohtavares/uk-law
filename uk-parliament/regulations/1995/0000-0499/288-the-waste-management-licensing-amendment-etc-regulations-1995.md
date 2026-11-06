@@ -1,0 +1,136 @@
+---
+title: The Waste Management Licensing (Amendment etc.) Regulations 1995
+id: uksi/1995/288
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '1995-02-08'
+text_date: '2025-11-01'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/uksi/1995/288
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1995/288/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Waste Management Licensing (Amendment etc.) Regulations 1995
+
+> Text as at 2025-11-01.
+>
+> Extent: England, Wales, Scotland.
+
+*Extent: E+W+S*
+
+1995 No. 288
+
+ENVIRONMENTAL PROTECTION
+
+The Waste Management Licensing (Amendment etc.) Regulations 1995 *(Extent: E+W)* *(affected by repeal, see note)*[^key-d4dab315047a79b67f0a700787bd055a]
+
+Made *(Extent: E+W)* *(affected by repeal, see note)*[^key-d4dab315047a79b67f0a700787bd055a]
+
+8th February 1995 *(Extent: E+W)* *(affected by repeal, see note)*[^key-d4dab315047a79b67f0a700787bd055a]
+
+Laid before Parliament *(Extent: E+W)* *(affected by repeal, see note)*[^key-d4dab315047a79b67f0a700787bd055a]
+
+9th February 1995 *(Extent: E+W)* *(affected by repeal, see note)*[^key-d4dab315047a79b67f0a700787bd055a]
+
+Coming into force *(Extent: E+W)* *(affected by repeal, see note)*[^key-d4dab315047a79b67f0a700787bd055a]
+
+1st April 1995 *(Extent: E+W)* *(affected by repeal, see note)*[^key-d4dab315047a79b67f0a700787bd055a]
+
+The Secretary of State for the Environment as respects England, the Secretary of State for Wales as respects Wales and the Secretary of State for Scotland as respects Scotland, being Ministers designated *(Extent: E+W)* *(affected by repeal, see note)*[^key-d4dab315047a79b67f0a700787bd055a][^f00001] for the purposes of section 2(2) of the European Communities Act 1972 *(Extent: E+W)* *(affected by repeal, see note)*[^key-d4dab315047a79b67f0a700787bd055a][^f00002] in relation to measures relating to the prevention, reduction and elimination of pollution caused by waste, in exercise of the powers conferred on them by section 2(2) of that Act, sections 29(10), 33(3), 74(6) and 75(8) of the Environmental Protection Act 1990 *(Extent: E+W)* *(affected by repeal, see note)*[^key-d4dab315047a79b67f0a700787bd055a][^f00003] (having in particular had regard in exercising their powers under section 33(3) of that Act to the matters specified in section 33(4) of that Act), and of all other powers enabling them in that behalf, hereby make the following Regulations: *(Extent: E+W)* *(affected by repeal, see note)*[^key-d4dab315047a79b67f0a700787bd055a]
+
+## 1 (Extent: E+W) (affected by repeal, see note). Citation, commencement and interpretation (Extent: E+W) (affected by repeal, see note)[^key-83694e0eb836146651562039bd61e261][^key-d4dab315047a79b67f0a700787bd055a][^key-d4dab315047a79b67f0a700787bd055a]
+
+(1 (Extent: E+W) (affected by repeal, see note))[^key-d4dab315047a79b67f0a700787bd055a] These Regulations may be cited as the Waste Management Licensing (Amendment etc.) Regulations 1995 and shall come into force on 1st April 1995. *(Extent: E+W)* *(affected by repeal, see note)*[^key-d4dab315047a79b67f0a700787bd055a]
+
+(2 (Extent: E+W) (affected by repeal, see note))[^key-d4dab315047a79b67f0a700787bd055a] In these Regulations, unless the context otherwise requires— *(Extent: E+W)* *(affected by repeal, see note)*[^key-d4dab315047a79b67f0a700787bd055a]
+
+- “the 1990 Act” means the Environmental Protection Act 1990; *(Extent: E+W)* *(affected by repeal, see note)*[^key-d4dab315047a79b67f0a700787bd055a]
+- “the 1991 Regulations” means the Environmental Protection (Prescribed Processes and Substances) Regulations 1991 *(Extent: E+W)* *(affected by repeal, see note)*[^key-d4dab315047a79b67f0a700787bd055a][^f00004]; and *(Extent: E+W)* *(affected by repeal, see note)*[^key-d4dab315047a79b67f0a700787bd055a]
+- “the Principal Regulations” means the Waste Management Licensing Regulations 1994 *(Extent: E+W)* *(affected by repeal, see note)*[^key-d4dab315047a79b67f0a700787bd055a][^f00005]. *(Extent: E+W)* *(affected by repeal, see note)*[^key-d4dab315047a79b67f0a700787bd055a]
+
+## 2 (Extent: E+W) (affected by repeal, see note). Amendment of the Controlled Waste Regulations 1992 (Extent: E+W) (affected by repeal, see note)[^key-0cf09a1f61467f059ebbc8ec488a78f6][^key-d4dab315047a79b67f0a700787bd055a][^key-d4dab315047a79b67f0a700787bd055a]
+
+(1 (Extent: E+W) (affected by repeal, see note))[^key-d4dab315047a79b67f0a700787bd055a] In paragraph (2) of each of regulations 3 and 7 of the Controlled Waste Regulations 1992 *(Extent: E+W)* *(affected by repeal, see note)*[^key-d4dab315047a79b67f0a700787bd055a][^f00006] (scrap metal not to be treated as household or, as the case may be, industrial or commercial waste for the purposes of section 34 of the 1990 Act), for the words from “the day appointed” to the end of the paragraph there shall be substituted “1st October 1995”. *(Extent: E+W)* *(affected by repeal, see note)*[^key-d4dab315047a79b67f0a700787bd055a]
+
+(2 (Extent: E+W) (affected by repeal, see note))[^key-d4dab315047a79b67f0a700787bd055a] In regulation 7(1)(c) of the Controlled Waste Regulations 1992 (septic tank sludge in certain circumstances not to be treated as industrial or commercial waste), for “in accordance with” there shall be substituted “on agricultural land within the meaning of”. *(Extent: E+W)* *(affected by repeal, see note)*[^key-d4dab315047a79b67f0a700787bd055a]
+
+(3 (Extent: E+W) (affected by repeal, see note))[^key-d4dab315047a79b67f0a700787bd055a] Regulation 9(1)(a) of the Controlled Waste Regulations 1992 (exceptions in certain cases from section 33(1) of the 1990 Act) is hereby revoked. *(Extent: E+W)* *(affected by repeal, see note)*[^key-d4dab315047a79b67f0a700787bd055a]
+
+## 3 (Extent: E+W) (affected by repeal, see note). Amendment of the Waste Management Licensing Regulations 1994 (Extent: E+W) (affected by repeal, see note)[^key-a97f3208c0faf675ae16a15953fe0792][^key-d4dab315047a79b67f0a700787bd055a][^key-d4dab315047a79b67f0a700787bd055a]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . *(Extent: E+W)* *(affected by repeal, see note)*[^key-d4dab315047a79b67f0a700787bd055a]
+
+## 4 (Extent: E+W) (affected by repeal, see note). Technical competence—transitional provisions (Extent: E+W) (affected by repeal, see note)[^key-a97f3208c0faf675ae16a15953fe0792][^key-d4dab315047a79b67f0a700787bd055a][^key-d4dab315047a79b67f0a700787bd055a]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . *(Extent: E+W)* *(affected by repeal, see note)*[^key-d4dab315047a79b67f0a700787bd055a]
+
+John Selwyn Gummer
+
+Secretary of State for the Environment
+
+7th February 1995
+
+John Redwood
+
+Secretary of State for Wales
+
+4th February 1995
+
+Hector Munro
+
+Parliamentary Under Secretary of State, Scottish Office
+
+8th February 1995
+
+(This note is not part of the Regulations)
+
+These Regulations amend—
+
+- (a) the Waste Management Licensing Regulations 1994 (“the Principal Regulations”); and
+- (b) the Controlled Waste Regulations 1992.
+
+Regulation 2 amends the Controlled Waste Regulations 1992. In particular, regulation 2(1) provides that scrap metal will become controlled waste for the purposes of section 34 (duty of care) of the Environmental Protection Act 1990 (“the 1990 Act”) on 1st October 1995.
+
+Regulation 3 amends the Principal Regulations. Regulation 3(2) and (22) makes provision for the service of notices. Regulation 3(3) substitutes a new regulation 12 and has effect to prescribe additional descriptions of mobile plant for the purposes of Part II of the 1990 Act.
+
+Regulation 3(16) inserts new paragraphs 44 and 45 into Schedule 3 to the Principal Regulations. The new paragraph 45 confers exemptions (subject to conditions which include the payment of an annual fee of £100) from waste management licensing in respect of the carrying out of certain activities in relation to scrap metal and waste motor vehicles, but regulation 3(6) limits the exemptions to cases where the occupier’s consent has been given or there is other entitlement to use the land. Regulation 3(13) restricts certain existing exemptions insofar as they relate to waste storage at places designed or adapted for the recovery of scrap metal or the dismantling of waste motor vehicles. Regulation 3(5) provides that the new paragraph 45 exemptions do not apply where the activities are carried on under a licence applied for after 31st March 1995. Regulation 3(7) to (10) amends regulation 18 of the Principal Regulations so as to make special provision for registration (including the payment of an initial fee of £300) in connection with the new exemptions in paragraph 45(1) and (2). Regulation 3(17) to (21) makes related amendments to paragraphs 13 and 14 of Part I of Schedule 4 to the Principal Regulations (periodic inspection and record keeping).
+
+Regulation 3(7) and (8) also amends regulation 18 of the Principal Regulations to make it clear that registration does not apply to the carrying on, by a waste disposal authority in Scotland, of an exempt activity to which a resolution under section 54 of the 1990 Act relates.
+
+Regulation 3(11) amends regulation 18(6) of the Principal Regulations (penalty for failure to register in connection with exempt activity) so as to reduce the penalty from level 2 on the standard scale to £10 except in the case of an exempt activity falling within the new paragraph 45(1) or (2) of Schedule 3 to the Principal Regulations (exempt scrap metal etc. activities).
+
+Regulation 3(12), and regulation 3(16) (insofar as it inserts a new paragraph 44 into Schedule 3 to the Principal Regulations), makes amendments consequential upon the provisions of the Environmental Protection (Prescribed Processes and Substances etc.) (Amendment) Regulations 1994. In particular, the new paragraph 44 inserted into Schedule 3 to the Principal Regulations confers an exemption from waste management licensing under Part II of the 1990 Act for certain heating processes for the decontamination of waste metal.
+
+Regulation 3(4) has effect to confer an exemption from waste management licensing for any non-final deposit of waste which does not amount to the recovery or disposal of waste and which is part of a process designated for central control and authorised under Part I of the 1990 Act.
+
+Regulation 3(14) extends a transitional exemption from waste management licensing for certain activities involving scrap metal (paragraph 42 of Schedule 3 to the Principal Regulations) and has effect to confer an exemption on those who, on 1st April 1995, have pending licence applications under Part I of the Control of Pollution Act 1974 for such activities. Regulation 3(15) extends a transitional exemption from waste management licensing for those carrying on, since before 1st May 1994, activities which were not subject to licensing under Part I of the 1974 Act.
+
+Regulation 4 of these Regulations provides that regulation 4 of the Principal Regulations (persons only to be treated as technically competent to manage certain waste facilities if holding a relevant certificate of technical competence awarded by the Waste Management Industry Training and Advisory Board) shall, for a transitional period, not apply to persons with certain specified experience and qualifications. It further provides that such persons, for that period, are to be treated as technically competent for the purposes of section 74(3)(b) of the 1990 Act.
+
+## Annotations
+
+[^key-d4dab315047a79b67f0a700787bd055a]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/1995/288) revoked (E.W.) (6.4.2012) by [The Controlled Waste (England and Wales) Regulations 2012 (S.I. 2012/811)](https://www.legislation.gov.uk/uksi/2012/811), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2012/811/regulation/1/3), [7(a)](https://www.legislation.gov.uk/uksi/2012/811/regulation/7/a)
+
+[^f00001]: Footnote: S.I. [1992/2870](https://www.legislation.gov.uk/uksi/1992/2870).
+
+[^f00002]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68).
+
+[^f00003]: Footnote: [1990 c. 43](https://www.legislation.gov.uk/ukpga/1990/43).
+
+[^key-83694e0eb836146651562039bd61e261]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/1995/288/regulation/1) in force at 1.4.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/288/regulation/1/1)
+
+[^f00004]: Footnote: S.I. [1991/472](https://www.legislation.gov.uk/uksi/1991/472), amended by S.I. [1991/836](https://www.legislation.gov.uk/uksi/1991/836), [1992/614](https://www.legislation.gov.uk/uksi/1992/614), [1993/1749](https://www.legislation.gov.uk/uksi/1993/1749), [1993/2405](https://www.legislation.gov.uk/uksi/1993/2405), [1994/1271](https://www.legislation.gov.uk/uksi/1994/1271), [1994/1329](https://www.legislation.gov.uk/uksi/1994/1329).
+
+[^f00005]: Footnote: S.I. [1994/1056](https://www.legislation.gov.uk/uksi/1994/1056).
+
+[^key-0cf09a1f61467f059ebbc8ec488a78f6]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/1995/288/regulation/2) in force at 1.4.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/288/regulation/1/1)
+
+[^f00006]: Footnote: S.I. [1992/588](https://www.legislation.gov.uk/uksi/1992/588); regulations 3(2) and 7(2) are amended by S.I. [1993/566](https://www.legislation.gov.uk/uksi/1993/566).
+
+[^key-a97f3208c0faf675ae16a15953fe0792]: Textual amendment: Regs. 3, 4 omitted (E.W.) (6.4.2008) by virtue of [The Environmental Permitting (England and Wales) Regulations 2007 (S.I. 2007/3538)](https://www.legislation.gov.uk/uksi/2007/3538), [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2007/3538/regulation/1/1/b), [Sch. 21 para. 36](https://www.legislation.gov.uk/uksi/2007/3538/schedule/21/paragraph/36) (with [regs. 69-72](https://www.legislation.gov.uk/uksi/2007/3538/regulation/69)); and revoked (S.) (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 21 para. 2](https://www.legislation.gov.uk/ssi/2025/165/schedule/21/paragraph/2) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))

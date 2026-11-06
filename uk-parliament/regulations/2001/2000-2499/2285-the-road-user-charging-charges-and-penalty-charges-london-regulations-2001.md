@@ -1,0 +1,387 @@
+---
+title: The Road User Charging (Charges and Penalty Charges) (London) Regulations 2001
+id: uksi/2001/2285
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2001-06-22'
+text_date: '2008-07-22'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2001/2285
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2001/2285/pdfs/uksi_20012285_en.pdf
+- http://www.legislation.gov.uk/uksi/2001/2285/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Road User Charging (Charges and Penalty Charges) (London) Regulations 2001
+
+> Text as at 2008-07-22.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2001 No. 2285
+
+LONDON GOVERNMENT
+
+ROAD TRAFFIC
+
+The Road User Charging (Charges and Penalty Charges) (London) Regulations 2001
+
+Made
+
+22nd June 2001
+
+Laid before Parliament
+
+25th June 2001
+
+Coming into force
+
+16th July 2001
+
+The Secretary of State for Transport, Local Government and the Regions, in exercise of the powers conferred by paragraphs 12(1) and (2), 13(b), 26 and 27 of Schedule 23 to the Greater London Authority Act 1999[^f00001] and by section 420(1) of that Act and of all other powers enabling him in that behalf, hereby makes the following Regulations:—
+
+## PART I — PRELIMINARY
+
+### 1. Citation and commencement[^key-60cc571bf8d90a99ae3c2a73eeae06f3]
+
+These Regulations may be cited as the Road User Charging (Charges and Penalty Charges) (London) Regulations 2001 and shall come into force on 16th July 2001.
+
+### 2. Interpretation[^key-d4e6e2fab0e1e303ae74b0207fff216f]
+
+(1) In these Regulations—
+
+- “authorised person” means, subject to regulation 3, a local authority, an employee of a local authority or of Transport for London, a constable or any other person authorised in writing by a charging authority to act as an authorised person for the purposes of these Regulations;
+- “custodian” in relation to a vehicle removed under these Regulations means—
+  - (a) if the vehicle has in accordance with regulation 12(2) been delivered to the charging authority, that authority; or
+  - (b) if the vehicle has been so delivered to another person authorised by the charging authority to keep vehicles so removed in his custody, that other person;
+- “the[^key-224ad140793032b53a02edc3e6384ee7] Enforcement Regulations” means the Road User Charging (Enforcement and Adjudication) (London) Regulations 2001;
+- “hiring agreement” has the same meaning as in section 66 of the Road Traffic Offenders Act 1988[^f00002];
+- “outstanding” in relation to a penalty charge shall be construed in accordance with regulation 11(2);
+- “penalty charge” means a charge imposed by a charging scheme by virtue of regulation 4;
+- “the Registration and Licensing Regulations 2002” means the Road Vehicles (Registration and Licensing) Regulations 2002[^key-486145f2f200089e2fb467f93bd46034];
+- “vehicle” means motor vehicle; and
+- “vehicle-hire firm” has the same meaning as in section 66 of the Road Traffic Offenders Act 1988.
+
+(2) For the purposes of these Regulations the registered keeper shall be presumed to be the owner of a vehicle registered under the Vehicle Excise and Registration Act 1994[^f00003].
+
+### 3. Authorised persons[^key-8a1716f705d230b67f33b169d9e0bc71]
+
+(1) An authorised person who is about to exercise, is in course of exercising or has exercised, any power conferred on him under these Regulations shall, if so requested, produce his authority.
+
+(2) A person authorised only for particular purposes under these Regulations shall not be taken to be an authorised person in relation to any other purpose.
+
+## PART II — PENALTY CHARGES
+
+### 4. Imposition of penalty charges[^key-eb783e909c23c1a660534af3c291e308]
+
+(1) A charging scheme may provide that a penalty charge shall be imposed in respect of a vehicle where—
+
+- (a) the vehicle has been used or kept on a road in the charging area to which the scheme applies;
+- (b) the vehicle falls within a class in respect of which a charge is imposed by the charging scheme;
+- (c) the road is a road in respect of which a charge is imposed by the charging scheme;
+- (d) events have occurred by reference to the happening of which a charge is imposed by the charging scheme; and
+- (e) the charge has not been paid in full within the time and in the manner in which it is required by the charging scheme to be paid.
+
+(2) A charging scheme may further provide that penalty charges shall be imposed in respect of—
+
+- (a) the release of a vehicle from an immobilisation device fixed to it in accordance with regulation 11;
+- (b) the removal of a vehicle in accordance with regulation 12;
+- (c) the storage and release from storage of a vehicle so removed; or
+- (d) the sale or destruction of a vehicle so removed.
+
+(3) If a charging scheme so provides a penalty charge shall be payable.
+
+(4)[^key-75840a35e8f64f0b1e6eedc33c8f656c] A charging scheme shall specify the time in which any penalty charge imposed by it under paragraph (1) is to be paid and shall provide that the amount of such a penalty charge—
+
+- (a) is to be reduced by the amount or proportion and to the sum specified in that behalf in the scheme if it is duly paid within such shorter time as is so specified; and
+- (b) is to be increased by the amount or proportion and to the sum so specified if not duly paid before the end of the relevant period as defined by regulation 17(2) or (3), as the case may be, of the Enforcement Regulations.
+
+### 5. Setting the rates of penalty charges[^key-495881ab6fa7994c7b9341ca6b24d73d]
+
+(1) The rates of penalty charges (which may be no charge) imposed by a charging scheme shall be specified in the scheme.
+
+(2) Different rates of penalty charges may be specified for—
+
+- (a) different classes of penalty charge;
+- (b) different days;
+- (c) different times of day;
+- (d) different parts of a charging area;
+- (e) different distances travelled;
+- (f) different classes of vehicles; or
+- (g) different circumstances in which penalty charges are imposed.
+
+### 6. Liability for charges and penalty charges[^key-7964b72c8d4fc3e4f621f3e7e24a2aab]
+
+(1) In this regulation—
+
+- (a) “relevant vehicle” means a vehicle in respect of which charges or penalty charges are imposed by a charging scheme arising out of its having been used or kept on a road in a charging area designated by the scheme as a road in respect of which a charge is imposed; and
+- (b) “relevant time” means the time at which a relevant vehicle was so used or kept on that road.
+
+(2) The circumstances in which, and the persons by whom, charges and penalty charges imposed in respect of a relevant vehicle by a charging scheme are to be payable otherwise than by the registered keeper are those specified in paragraphs (3) to (6).
+
+(3) Where the relevant vehicle is not registered under the Vehicle Excise and Registration Act 1994, charges and penalty charges shall be payable by the person by whom the relevant vehicle was used or kept on a road at the relevant time.
+
+(4) Where at the relevant time the relevant vehicle was kept by a person who was a vehicle trader as defined by regulation 20(6) of the Registration and Licensing Regulations 2002[^key-63b76b8bfe41f5a6c032f8f6ba9f118a] and that person was not the registered keeper, charges and penalty charges shall be payable by that person.
+
+(5) Where before the relevant time the registered keeper had notified the Secretary of State in writing, in accordance with regulation 21, 22, 23, 24 or 25 of the Registration and Licensing Regulations 2002[^key-d7afa8fe9cefbbd54f0551560b02062a], that there had been a change of ownership of the relevant vehicle so that it was no longer kept by him, charges and penalty charges shall be payable by the person by whom the vehicle was kept at the relevant time.
+
+(6) Where at the relevant time—
+
+- (a) the registered keeper of the relevant vehicle was a vehicle-hire firm;
+- (b) the relevant vehicle was hired from that firm under a hiring agreement;
+- (c) the person hiring it signed a statement of liability acknowledging his liability for any charges or penalty charges incurred under a charging scheme during the currency of the hiring agreement,
+
+charges and penalty charges shall be payable by the hirer of the vehicle.
+
+(7) The date on which the registered keeper shall be taken for the purposes of these Regulations to have notified the Secretary of State as mentioned in paragraph (5) shall be the date on which service on the Secretary of State is to be taken to have been effected in accordance with section 7 of the Interpretation Act 1978[^f00005] of—
+
+- (a)[^key-5b8cc05ed35e7df1f43d2d07c75df3d5] in a case where regulation 21 of the Registration and Licensing Regulations 2002 applies, the information specified in regulation 21(2)(b) of those Regulations;
+- (b) in a case where regulation 22 of the Registration and Licensing Regulations 2002 applies, parts of the registration document in accordance with regulation 22(2)(b);
+- (c) in a case where regulation 23 of the Registration and Licensing Regulations 2002 applies, notification in accordance with regulation 23(2);
+- (d) in a case where regulation 24 of the Registration and Licensing Regulations 2002 applies, the information and declarations in accordance with regulation 24(5)(a); or
+- (e) in a case where regulation 25 of the Registration and Licensing Regulations 2002 applies, notification in accordance with regulation 25(1)(a).
+
+## PART III — EXAMINATION OF VEHICLES ETC.
+
+### 7. Examining vehicles[^key-fa270bd6dfde0ada5e854ccb03ad4049]
+
+(1) An authorised person may examine a vehicle for the purpose of ascertaining whether any document required by a charging scheme to be displayed while a vehicle is on a road in a charging area is so displayed.
+
+(2) An authorised person may examine a vehicle for the purpose of ascertaining—
+
+- (a) whether any equipment required by a charging scheme to be carried in or fitted to a vehicle while the vehicle is on a road in a charging area—
+  - (i) is so carried or fitted,
+  - (ii) is in proper working order, or
+  - (iii) has been interfered with with intent to avoid payment of, or being identified as having failed to pay, a charge; or
+- (b) whether any conditions relating to the use of such equipment are satisfied.
+
+### 8. Entering vehicles[^key-7bd727a35906afba9cb231f054024967][^key-767a5aa467b689b023ab8ba0b015ea16]
+
+(1) An authorised person may enter a vehicle which is on a road where he has reasonable grounds for suspecting that—
+
+- (a) any equipment required to be carried in or fitted to the vehicle while it is on a road in respect of which charges are imposed has been interfered with by a person who intends to avoid payment of, or to be identified as having failed to pay, a charge imposed by the charging scheme; or
+- (b) there is in the vehicle a false document which has been made or used by a person who intends to avoid payment of, or to be identified as having failed to pay, such a charge.
+
+(2) The power conferred by paragraph (1) shall not be exercised by an authorised person who is not a constable, except in the presence of a constable.
+
+### 9. Power of seizure[^key-e52b6ba186273a0b261756600c478627]
+
+(1) An authorised person may seize anything (if necessary by detaching it from a vehicle) and detain it as evidence of commission of an offence under paragraph 25 of Schedule 23 to the Greater London Authority Act 1999.
+
+(2) The power conferred by paragraph (1) shall not be exercised by an authorised person who is not a constable, except in the presence of a constable.
+
+## PART IV — IMMOBILISATION AND REMOVAL OF VEHICLES
+
+### 10. Power to immobilise vehicles[^key-58a512842c2ff383b5d1aeadbfad2474][^key-c8339a25cfbc14a917adc3915486a8b8]
+
+(1) As mentioned in paragraph (2), a charging scheme may make provision for any case in which an authorised person has reason to believe that, in respect of a vehicle which is stationary on a road in a charging area—
+
+- (a) the vehicle is being used or kept on that road in contravention of the scheme; or
+- (b) there are such number of penalty charges outstanding with respect to the vehicle as may be specified in that behalf in the scheme,
+
+and that such other circumstances apply as may be specified in the scheme.
+
+(2) The scheme may provide that an authorised person or a person acting under his direction may—
+
+- (a) fit an immobilisation device to the vehicle while it remains in the place where it is found; or
+- (b) move it, or require it to be moved, to another place on that road or another road and fit an immobilisation device to the vehicle in that other place.
+
+(3) Where an immobilisation device is fitted to a vehicle in accordance with this regulation, the person fitting the device shall also fix to the vehicle an immobilisation notice—
+
+- (a) indicating that the device has been fixed to the vehicle and warning that no attempt should be made to drive it or otherwise put it in motion until it has been released from the device;
+- (b) stating that the vehicle may only be released from the device by or under the direction of an authorised person;
+- (c) stating that the notice must not be removed or interfered with except by or on the authority of an authorised person; and
+- (d) specifying the steps to be taken to secure its release including the penalty charges payable under the charging scheme and the person to whom and the means by which those charges may be paid.
+
+### 11. Release of immobilised vehicles[^key-9a1366f2eb88b34678c5c3c2eafb2e26]
+
+(1) Where a charging scheme makes provision for the immobilisation of vehicles the scheme shall provide that, where an immobilisation device is fitted to a vehicle in accordance with the scheme, the person fitting the device shall also fix to the vehicle an immobilisation notice indicating that the vehicle shall be released—
+
+- (a) if all outstanding penalty charges, or such outstanding penalty charges as the relevant charging scheme may prescribe for the purposes of this sub-paragraph, are paid to the charging authority;
+- (b) if any penalty charge imposed by the relevant charging scheme for the release of the vehicle from the immobilisation device is paid; and
+- (c) where at the time the device is fitted the vehicle is being kept on a road in the charging area in circumstances where a charge is payable, if that charge is also paid to the charging authority.
+
+(2)[^key-e6ffa9923601c7bb6518d4ee53aa0f58] For the purposes of these Regulations a penalty charge is outstanding in relation to a vehicle if—
+
+- (a) it is a penalty charge imposed by a charging scheme in respect of the use or keeping of the vehicle in the charging area to which the scheme relates;
+- (b) it has either not been paid before the end of the relevant period as defined by regulation 17(2) or (3) as the case maybe, of the Enforcement Regulations or it has not been cancelled; and
+- (c) it is not the subject of an outstanding appeal.
+
+(3) For the purposes of paragraph (2)(c), a penalty charge is to be treated as being the subject of an outstanding appeal if—
+
+- (a) no representations against the penalty charge notice have been made to the charging authority as mentioned in regulation 13(1) of the Enforcement Regulations, but the period specified in regulation 13(2) of the Enforcement Regulations has not ended;
+- (b) such representations have been made and the charging authority has not served notice in accordance with regulation 13(6) of the Enforcement Regulations of their decision as to whether or not they accept that the ground on which the representations were made has been established;
+- (c) such representations have been made and the charging authority has served notice under regulation 13(6) of the Enforcement Regulations that they do not accept that the ground on which the representations were made has been established and no appeal to an adjudicator has been made, but the period for making an appeal to an adjudicator specified in regulation 16(1)(a) of those Regulations has not ended; or
+- (d) such an appeal has been made but has not been determined.
+
+### 12. Power to remove vehicles[^key-8dd51044e0bc558945ce2110b395fa5e][^key-ee1555ef17cbf6154d910e39ef498b35]
+
+(1) As mentioned in paragraph (2), a charging scheme may make provision for any case where an authorised person has reason to believe that in respect of a motor vehicle which is stationary on a road in a charging area—
+
+- (a) the vehicle is being used or kept on that road in contravention of the scheme;
+- (b) there are such number of penalty charges outstanding with respect to the vehicle as may be specified in that behalf in the scheme; or
+- (c) an immobilisation device has been fixed to the vehicle in accordance with regulation 10 and the outstanding penalty charges have not been paid in accordance with regulation 11,
+
+and that such other circumstances apply as may be specified in the scheme.
+
+(2) A charging scheme may provide that, in such a case, the authorised person or a person acting under his direction, may remove the vehicle and deliver it to the charging authority or to a person authorised by that authority to keep vehicles so removed.
+
+(3) A vehicle removed by virtue of paragraph (2) may be driven, towed or removed by an authorised person, or a person acting under his direction, by such means as are reasonable in the circumstances and any necessary steps may be taken in relation to the vehicle in order to facilitate its removal.
+
+(4) The contents of a vehicle removed by virtue of this regulation may be removed by an authorised person, or a person acting under his direction, from the vehicle where—
+
+- (a) it is reasonable to do so to facilitate removal of the vehicle;
+- (b) there is good reason for storing them at a different place from the vehicle; or
+- (c) their condition requires them to be disposed of without delay.
+
+### 13. Disposal of removed vehicles and contents[^key-997332c8d3f23cdd95ddd231b9c7e8c2]
+
+(1) Subject to the provisions of this regulation, the custodian of a vehicle delivered to him as mentioned in regulation 12(2) may dispose of the vehicle or its contents by selling them or dealing with them as scrap, as he thinks fit.
+
+(2) Where the owner of a vehicle has disclaimed all rights of ownership of a vehicle or its contents, they may be disposed of pursuant to this regulation at any time.
+
+(3) In a case not falling within paragraph (2), a vehicle or its contents shall not be disposed of pursuant to this regulation before the end of the period of five weeks beginning with the date on which the vehicle was removed as mentioned in regulation 12(2) and until the custodian has, for the purpose of ascertaining the owner of the vehicle, taken such of the steps specified in paragraph (4) as are applicable to the vehicle and either—
+
+- (a) he has failed to ascertain the name and address of the owner, or
+- (b) the owner has failed to comply with a notice complying with paragraph (5) served on him by post or such other means as agreed by the parties.
+
+(4) The steps referred to in paragraph (3) are—
+
+- (a) if the vehicle carries a United Kingdom registration mark, the custodian shall ascertain from the records kept by the Secretary of State under the Vehicle Excise and Registration Act 1994 the name and address of the person by whom the vehicle is kept;
+- (b) if the vehicle does not carry such a registration mark, the custodian shall make such inquiries as appear to him to be practicable to ascertain the identity of the owner of the vehicle.
+
+(5) A notice under paragraph (3)(b) shall be a notice addressed to the owner which—
+
+- (a) states—
+  - (i) the outstanding penalty charges payable in respect of the vehicle;
+  - (ii) the registration mark and make of the vehicle;
+  - (iii) the place where the vehicle was found before it was removed;
+  - (iv) the place to which the vehicle has been removed;
+  - (v) the steps to be taken to obtain possession of the vehicle in accordance with regulation 15;
+  - (vi) that unless the vehicle is removed by the owner on or before the date specified under sub-paragraph (b), the custodian intends to dispose of it; and
+- (b) requires the owner to remove the vehicle from the custody of the custodian within 21 days of the date on which the notice was served.
+
+(6) The custodian shall be entitled to treat the registered keeper of the vehicle as the person entitled to its contents unless and to the extent that some other person satisfies him of their claim to all or part of them.
+
+(7) Where there is more than one claim to the vehicle or its contents, the custodian shall determine which person is entitled to the vehicle or its contents on the basis of the evidence provided to him.
+
+### 14. Recovery of penalty charges in relation to removed vehicles[^key-8572665f8cfd70156f8255f6447d299a]
+
+(1) Where a vehicle has been removed and delivered into the custody of a custodian in accordance with regulation 12(2), the charging authority or the custodian may (whether or not any claim is made under regulation 15 or 16) recover from the person who was the owner of the vehicle when the vehicle was removed the charges prescribed by the scheme for—
+
+- (a) its removal and storage; and
+- (b) if the vehicle has been disposed of, its disposal.
+
+(2) Where, by virtue of paragraph (1)(a), any sum is recoverable in respect of a vehicle by a custodian, the authority or the custodian shall be entitled to retain custody of it until that sum is paid.
+
+### 15. Taking possession of a vehicle[^key-f6ebe8cfaff0be247aa089d387b1a67a]
+
+(1) A person (“the claimant”) may take possession of a vehicle (with its contents) which has been removed and delivered to a custodian and has not been disposed of under regulation 13, if the conditions specified in paragraph (2) are satisfied.
+
+(2) The conditions are that—
+
+- (a) the claimant satisfies the custodian that he is the owner of the vehicle or that he is authorised by the owner to take possession of the vehicle;
+- (b) all outstanding penalty charges in respect of the vehicle are paid to the charging authority; and
+- (c) any penalty charges imposed by the charging scheme in respect of the removal, storage or release from storage of the vehicle are paid.
+
+(3) On giving the claimant possession of a vehicle pursuant to this regulation, the charging authority or custodian shall give the claimant a statement of the right of the owner (or the person in charge of the vehicle at the time it was immobilised or, where it was not immobilised, it was removed) to appeal pursuant to regulations made by the Lord Chancellor under paragraphs 12(3) and 28 of Schedule 23 to the Greater London Authority Act 1999, of the steps to be taken in order to appeal and of the address to which representations made as mentioned in those Regulations should be sent.
+
+### 16. Claim by the owner of a vehicle after its disposal[^key-f4718af397b8d15957f3cb4cba440387]
+
+(1) If, after a vehicle has been disposed of by a custodian pursuant to regulation 13, a person claims to have been the owner of the vehicle at the time when it was disposed of and the conditions specified in paragraph (2) are fulfilled, there shall be payable to him by the custodian a sum calculated in accordance with paragraph (3).
+
+(2) The conditions are that—
+
+- (a) the person claiming satisfies the custodian that he was the owner of the vehicle at the time it was disposed of; and
+- (b) the claim is made before the end of the period of one year beginning with the date on which the vehicle was disposed of.
+
+(3) The sum payable under paragraph (1) shall be calculated by deducting from the proceeds of sale the sums that would have been payable under regulation 15(2) had the vehicle been claimed by the owner immediately before its disposal together with such penalty charge as may be imposed by the charging scheme in respect of the disposal of a vehicle.
+
+Signed by authority of the Secretary of State for Transport, Local Government and the Regions
+
+David Jamieson
+
+Parliamentary Under-Secretary of State,
+
+Department for Transport, Local Government and the Regions
+
+22nd June 2001
+
+(This note is not part of the Regulations)
+
+These Regulations deal with the procedures relating to the imposition of charges and penalty charges for road user charging in Greater London under Schedule 23 to the Greater London Authority Act 1999. The Regulations cover requirements about the imposition, setting and liability for charges and penalty charges, examination of, and entry to vehicles, powers of seizure, powers of immobilisation, removal and disposal of vehicles, recovery of penalty charges in relation to removed vehicles, taking possession of vehicles and claims by owners of vehicles after their disposal.
+
+Part II (regulations 4 to 6) covers the imposition, setting and liability for charges and penalty charges.
+
+Part III (regulations 7 to 9) specify powers for an authorised person to examine vehicles, to enter vehicles and to seize items in accordance with prescribed conditions.
+
+Part IV (regulations 10 to 16) concerns powers for the immobilisation of vehicles, the release of immobilised vehicles, removal of vehicles, disposal of removed vehicles, recovery of penalty charges in relation to removed vehicles, claimants' entitlement to take possession of vehicles and claims by owners of vehicles after their disposal.
+
+## Annotations
+
+[^f00001]: Footnote: [1999 c. 29](https://www.legislation.gov.uk/ukpga/1999/29); relevant amendments to Schedule 23 to the Greater London Authority Act 1999 were made by Schedule 13 to the Transport Act [2000 (c. 38)](https://www.legislation.gov.uk/ukpga/2000/38).
+
+[^key-60cc571bf8d90a99ae3c2a73eeae06f3]: Commencement: Reg. 1 in force at 16.7.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/2285/regulation/1)
+
+[^key-d4e6e2fab0e1e303ae74b0207fff216f]: Commencement: Reg. 2 in force at 16.7.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/2285/regulation/1)
+
+[^key-224ad140793032b53a02edc3e6384ee7]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2001/2285/regulation/2/1) inserted (17.2.2003) by [The Road User Charging (Charges and Penalty Charges) (London) (Amendment) Regulations 2003 (S.I. 2003/109)](https://www.legislation.gov.uk/uksi/2003/109), [regs. 1](https://www.legislation.gov.uk/uksi/2003/109/regulation/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2003/109/regulation/3/2/a)
+
+[^f00002]: Footnote: [1988 c. 53](https://www.legislation.gov.uk/ukpga/1988/53).
+
+[^key-486145f2f200089e2fb467f93bd46034]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2001/2285/regulation/2/1) inserted (17.2.2003) by [The Road User Charging (Charges and Penalty Charges) (London) (Amendment) Regulations 2003 (S.I. 2003/109)](https://www.legislation.gov.uk/uksi/2003/109), [regs. 1](https://www.legislation.gov.uk/uksi/2003/109/regulation/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2003/109/regulation/3/2/b)
+
+[^f00003]: Footnote: [1994 c. 22](https://www.legislation.gov.uk/ukpga/1994/22).
+
+[^key-8a1716f705d230b67f33b169d9e0bc71]: Commencement: Reg. 3 in force at 16.7.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/2285/regulation/1)
+
+[^key-eb783e909c23c1a660534af3c291e308]: Commencement: Reg. 4 in force at 16.7.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/2285/regulation/1)
+
+[^key-75840a35e8f64f0b1e6eedc33c8f656c]: Textual amendment: [Reg. 4(4)](https://www.legislation.gov.uk/uksi/2001/2285/regulation/4/4) substituted (17.2.2003) by [The Road User Charging (Charges and Penalty Charges) (London) (Amendment) Regulations 2003 (S.I. 2003/109)](https://www.legislation.gov.uk/uksi/2003/109), [regs. 1](https://www.legislation.gov.uk/uksi/2003/109/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/2003/109/regulation/4/2)
+
+[^key-495881ab6fa7994c7b9341ca6b24d73d]: Commencement: Reg. 5 in force at 16.7.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/2285/regulation/1)
+
+[^key-7964b72c8d4fc3e4f621f3e7e24a2aab]: Commencement: Reg. 6 in force at 16.7.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/2285/regulation/1)
+
+[^key-63b76b8bfe41f5a6c032f8f6ba9f118a]: Textual amendment: Words in [reg. 6(4)](https://www.legislation.gov.uk/uksi/2001/2285/regulation/6/4) substituted (17.2.2003) by [The Road User Charging (Charges and Penalty Charges) (London) (Amendment) Regulations 2003 (S.I. 2003/109)](https://www.legislation.gov.uk/uksi/2003/109), [regs. 1](https://www.legislation.gov.uk/uksi/2003/109/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2003/109/regulation/5/2)
+
+[^key-d7afa8fe9cefbbd54f0551560b02062a]: Textual amendment: Words in [reg. 6(5)](https://www.legislation.gov.uk/uksi/2001/2285/regulation/6/5) substituted (17.2.2003) by [The Road User Charging (Charges and Penalty Charges) (London) (Amendment) Regulations 2003 (S.I. 2003/109)](https://www.legislation.gov.uk/uksi/2003/109), [regs. 1](https://www.legislation.gov.uk/uksi/2003/109/regulation/1), [5(3)](https://www.legislation.gov.uk/uksi/2003/109/regulation/5/3)
+
+[^f00005]: Footnote: [1978 c. 30](https://www.legislation.gov.uk/ukpga/1978/30).
+
+[^key-5b8cc05ed35e7df1f43d2d07c75df3d5]: Textual amendment: [Reg. 6(7)(a)-(e)](https://www.legislation.gov.uk/uksi/2001/2285/regulation/6/7/a) substituted for reg. 6(7)(a)(b) (17.2.2003) by [The Road User Charging (Charges and Penalty Charges) (London) (Amendment) Regulations 2003 (S.I. 2003/109)](https://www.legislation.gov.uk/uksi/2003/109), [regs. 1](https://www.legislation.gov.uk/uksi/2003/109/regulation/1), [5(4)](https://www.legislation.gov.uk/uksi/2003/109/regulation/5/4)
+
+[^key-fa270bd6dfde0ada5e854ccb03ad4049]: Commencement: Reg. 7 in force at 16.7.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/2285/regulation/1)
+
+[^key-7bd727a35906afba9cb231f054024967]: Commencement: Reg. 8 in force at 16.7.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/2285/regulation/1)
+
+[^key-767a5aa467b689b023ab8ba0b015ea16]: Modification: [Reg. 8](https://www.legislation.gov.uk/uksi/2001/2285/regulation/8) modified (22.7.2008) by [Transport for London Act 2008 (c. i)](https://www.legislation.gov.uk/ukla/2008/1), [ss. 1(1)](https://www.legislation.gov.uk/ukla/2008/1/section/1/1), [6(3)(a)](https://www.legislation.gov.uk/ukla/2008/1/section/6/3/a)
+
+[^key-e52b6ba186273a0b261756600c478627]: Commencement: Reg. 9 in force at 16.7.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/2285/regulation/1)
+
+[^key-58a512842c2ff383b5d1aeadbfad2474]: Commencement: Reg. 10 in force at 16.7.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/2285/regulation/1)
+
+[^key-c8339a25cfbc14a917adc3915486a8b8]: Modification: [Reg. 10](https://www.legislation.gov.uk/uksi/2001/2285/regulation/10) modified (22.7.2008) by [Transport for London Act 2008 (c. i)](https://www.legislation.gov.uk/ukla/2008/1), [ss. 1(1)](https://www.legislation.gov.uk/ukla/2008/1/section/1/1), [6(3)(b)-(d)](https://www.legislation.gov.uk/ukla/2008/1/section/6/3/b)
+
+[^key-9a1366f2eb88b34678c5c3c2eafb2e26]: Commencement: Reg. 11 in force at 16.7.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/2285/regulation/1)
+
+[^key-e6ffa9923601c7bb6518d4ee53aa0f58]: Textual amendment: [Reg. 11(2)](https://www.legislation.gov.uk/uksi/2001/2285/regulation/11/2)[(3)](https://www.legislation.gov.uk/uksi/2001/2285/regulation/11/3) substituted (17.2.2003) by [The Road User Charging (Charges and Penalty Charges) (London) (Amendment) Regulations 2003 (S.I. 2003/109)](https://www.legislation.gov.uk/uksi/2003/109), [regs. 1](https://www.legislation.gov.uk/uksi/2003/109/regulation/1), [6](https://www.legislation.gov.uk/uksi/2003/109/regulation/6)
+
+[^key-8dd51044e0bc558945ce2110b395fa5e]: Commencement: Reg. 12 in force at 16.7.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/2285/regulation/1)
+
+[^key-ee1555ef17cbf6154d910e39ef498b35]: Modification: [Reg. 12](https://www.legislation.gov.uk/uksi/2001/2285/regulation/12) modified (22.7.2008) by [Transport for London Act 2008 (c. i)](https://www.legislation.gov.uk/ukla/2008/1), [ss. 1(1)](https://www.legislation.gov.uk/ukla/2008/1/section/1/1), [6(3)(b)](https://www.legislation.gov.uk/ukla/2008/1/section/6/3/b)[(c)](https://www.legislation.gov.uk/ukla/2008/1/section/6/3/c)
+
+[^key-997332c8d3f23cdd95ddd231b9c7e8c2]: Commencement: Reg. 13 in force at 16.7.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/2285/regulation/1)
+
+[^key-8572665f8cfd70156f8255f6447d299a]: Commencement: Reg. 14 in force at 16.7.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/2285/regulation/1)
+
+[^key-f6ebe8cfaff0be247aa089d387b1a67a]: Commencement: Reg. 15 in force at 16.7.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/2285/regulation/1)
+
+[^key-f4718af397b8d15957f3cb4cba440387]: Commencement: Reg. 16 in force at 16.7.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/2285/regulation/1)

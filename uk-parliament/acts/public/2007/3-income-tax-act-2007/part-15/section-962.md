@@ -1,0 +1,45 @@
+---
+title: Income Tax Act 2007, section 962
+act: Income Tax Act 2007
+section: '962'
+status: revised-with-pending-changes
+text_date: '2026-09-16'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2007/3/section/962
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Income Tax Act 2007, section 962
+
+> **Warning: changes not yet applied to this text (14).** Text as at 2026-09-16. See https://www.legislation.gov.uk/changes/affected/ukpga/2007/3
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 962. Power to make regulations modifying Chapter
+
+*Extent: E+W+S+N.I.*
+
+(1) The Commissioners for Her Majesty's Revenue and Customs may by regulations modify, replace or supplement any of the provisions of this Chapter for the purpose of regulating the time and manner in which persons making section 946 payments—
+
+- (a) are to account for and pay income tax which is to be collected from them in respect of those payments, and
+- (b) are to be repaid income tax in respect of payments received by them.
+
+(2) In particular, regulations under this section may, in relation to income tax for which a person is liable to account,—
+
+- (a) modify any provision of Parts 2 to 6 of TMA 1970, or
+- (b) apply any such provision with or without modifications.
+
+(3) Regulations under this section may—
+
+- (a) make different provision for different kinds of payer,
+- (b) make different provision for different circumstances, and
+- (c) authorise the Commissioners for Her Majesty's Revenue and Customs, if they think there are special circumstances justifying it, to make special arrangements in relation to—
+  - (i) income tax for which a person is liable to account, or
+  - (ii) the repayment of income tax suffered by a person.
+
+(4) Regulations under this section may contain incidental, supplemental, consequential and transitional provision and savings.
+
+(5) The Commissioners for Her Majesty's Revenue and Customs must not make any regulations under this section unless a draft of them has been laid before and approved by a resolution of the House of Commons.
+
+(6) References in this Act and in any other enactment to any of the provisions of this Chapter are to be read as references to those provisions as modified, replaced or supplemented by provision made by regulations under this section.

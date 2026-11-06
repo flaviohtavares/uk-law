@@ -1,0 +1,377 @@
+---
+title: The Weights and Measures (Intoxicating Liquor) Order 1988
+id: uksi/1988/2039
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '1988-11-16'
+text_date: '2024-09-19'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/uksi/1988/2039
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1988/2039/pdfs/uksi_19882039_en.pdf
+- http://www.legislation.gov.uk/uksi/1988/2039/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Weights and Measures (Intoxicating Liquor) Order 1988
+
+> Text as at 2024-09-19.
+>
+> Extent: England, Wales, Scotland.
+
+*Extent: E+W+S*
+
+1988 No. 2039
+
+WEIGHTS AND MEASURES
+
+The Weights and Measures (Intoxicating Liquor) Order 1988
+
+Approved by both Houses of Parliament
+
+Made
+
+16th November 1988
+
+Coming into force
+
+1st January 1989
+
+Whereas the Secretary of State pursuant to section 86(2) of the Weights and Measures Act 1985[^f00001] has consulted with organisations appearing to him to be representative of interests substantially affected by this Order and considered the representations made to him by such organisations with respect to the subject matter of this Order:
+
+And whereas a draft of this Order has been laid before Parliament and approved by resolution of each House of Parliament pursuant to section 86(5) of that Act:
+
+Now, therefore, the Secretary of State, in exercise of the powers conferred on him by sections 22(1) and (2), 24(1) and 86(1) of that Act and of all other powers enabling him in that behalf, hereby makes the following Order:—
+
+## 1.[^key-5f77f326851eaaa4b3e6cbe629fa2fa6]
+
+(1) This Order may be cited as the Weights and Measures (Intoxicating Liquor) Order 1988 and shall come into force on 1st January 1989.
+
+(2)[^key-a883de86de9e48ad8c16551cdfbbb2cd] In this Order, except where the context expressly otherwise requires—
+
+- “the 1979 Act” means the Alcoholic Liquor Duties Act 1979;
+- “beer” and “cider” have the same meanings respectively as in section 1 of the 1979 Act but, in the case of “cider”, as if the definition in section 1(6) did not include the words “(or perry)” in either place where they occur or “or pear”;
+- “CN code” means a code comprised in the Combined Nomenclature;
+- “the Combined Nomenclature” means the Combined Nomenclature of the European Community;
+- “made-wine” and “wine” have the same meanings respectively as in section 1 of the 1979 Act;
+- “single distilled shochu” means the spirit drink known as single distilled shochu which is single distilled, produced by pot still and bottled in Japan;[^key-5c8f89837620ccf8e85c50ab8fde1c7d] and
+
+references to a subheading are to a subheading of the Combined Nomenclature.
+
+(3) The Orders specified in column 1 of Schedule 2 hereto are hereby revoked to the extent specified in column 3 of that Schedule.
+
+## 2.[^key-df5a7696126267e603c1d5506a28fc9a]
+
+(1) Unless pre-packed in a securely closed container and except when sold as a constituent of a mixture of two or more liquids, beer or cider shall be sold by retail—
+
+- (a) only in a quantity of ⅓ pint, ½ pint , 2/3 pint[^key-17166f2e2ae2544204107d3c0442c6af] or a multiple of ½ pint; and
+- (b) subject to paragraph (2) below, where sold for consumption on the premises of the seller, only in a capacity measure of the quantity in question.
+
+(2) Paragraph (1)(b) above shall not apply where—
+
+- (a) the quantity of the intoxicating liquor the subject of the sale is ascertained by means of measuring equipment stamped in accordance with regulation 16(2) of the Measuring Equipment (Intoxicating Liquor) Regulations 1983[^f00004];
+- (b) the liquor in question is delivered directly from the measuring equipment into the container in which it is intended the buyer should receive it;
+- (c) the liquor in question is so delivered after the buyer has ordered it; and
+- (d) the measuring equipment (or that part of it from which the liquor is delivered) is installed in such a position that the delivery of the liquor into the container can readily be seen by customers in that part of the premises where the buyer ordered the liquor.
+
+## 3.[^key-4274d137a6e218d454cf484e5cfe1901]
+
+(1) Subject to paragraphs (2) and (3) below, unless pre-packed in a securely closed container, intoxicating liquor of any of the following descriptions, that is to say, gin, rum, vodka and whisky, shall be sold by retail for consumption on the premises at which it is sold only—
+
+- (a) in, or in a multiple of, one of the following quantities, which shall be the same for those parts of any licensed premises or licensed canteen within the meaning of the Licensing Act 1964[^f00005] or the Licensing (Scotland) Act 1976[^f00006] of which any person is the licensee and for all those liquors, that is to say, ¼ gill, ⅕ gill , ⅙ gill, 25 ml or 35 ml[^key-7dfbdc59b4c4941c90bbc211bbe25086]; and
+- (b) if there is displayed on those premises, in such a position and manner as to be readily available without special request for inspection by the buyer before the sale is made, a statement in writing showing in which of those quantities those liquors are offered for sale on those premises.
+
+Provided that the quantities of 1/4 gill, 1/5 gill and 1/6 gill referred to in subparagraph (a) of this paragraph shall not be permitted after 31st December 1994.[^key-d675ef04d3035fbc4de08978e5d22513]
+
+(2) Any such liquor shall be exempted from the requirements of this article when it forms a constituent of a mixture of three or more liquids.
+
+(3) Nothing in this article shall make unlawful the sale at the express request of the buyer of any mixture of liquids containing any of those liquors in a quantity not otherwise permitted by this article.
+
+## 3A.[^key-322dff72b021492256847c33f75d3fe9]
+
+*Extent: E+W+S+NI*
+
+(1) Subject to paragraph (2), the intoxicating liquors specified in column 1 of Schedule A1 to this Order may be pre-packed only if they are made up in one of the quantities specified in column 3, subject to the exceptions specified in column 4.
+
+(2) Paragraph (1) does not apply to the intoxicating liquors specified in column 1 of Schedule A1 to this Order when they are sold duty-free for consumption outside the United Kingdom[^key-d787ccf85165785011e4aaeca103bbf4].
+
+(3) Where two or more pre-packages make up a multi-pack, the quantities specified in column 3 of Schedule A1 to this Order apply to each pre-package.
+
+(4) For the purposes of this article—
+
+- (a) “pre-package” means a combination of a product and the individual package in which it is pre-packed; and
+- (b) “pre-packed” means made up in advance ready for retail sale or wholesale in a securely closed container.
+
+## 4.[^key-3dc42060e100597cbe2f25e0afb4064b]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 5.[^key-05b690b1363c0a8c2ba01840c9988f50]
+
+(1) Subject to paragraph (2) of this article, wine and made-wine for consumption on the premises at which it is sold shall—
+
+- (a)[^key-14593c1d6f18c132fce7cc56f23fed7d] be pre–packed only in one of the following quantities, that is to say, 25 cl, 50 cl, 75 cl or 1 L;
+- (b) when not pre-packed, be sold only in those quantities; and
+- (c) whether pre-packed or not, be sold only if a statement in writing showing the quantities in which wine or made-wine is for sale is either displayed on those premises in such a position and manner as to be readily available without special request for inspection by the buyer before the sale is made, or is contained in every winelist and menu which is available to the buyer on those premises before the sale is made and which indicates that wine or made-wine is for sale for consumption on those premises.
+
+(2) Paragraph (1) above shall not apply in the case of wine or made-wine which—
+
+- (a) is pre-packed in a securely closed container whether or not it is to be decanted at the request of the buyer before being served; or
+- (b) subject to article 5A below,[^key-2fbf67d1b91e8e3f19de984a0a42ad8b] is sold in the glass or other vessel from which it is intended to be drunk.
+
+## 5A.[^key-ebf9268c126bd26b15123d70e048df52]
+
+(1) For the purposes of this article—
+
+- (a) “wine” (except when used in the expression “wine fortified for distillation”) means the intoxicating liquor and other liquids specified in column 1 of Part 1 of Schedule 1 to this Order, other than wine fortified for distillation; and
+- (b) “wine fortified for distillation” has the same meaning as in the additional notes to Chapter 22 of the Combined Nomenclature.
+
+(2) Subject to paragraph (3), when sold in the glass or other vessel from which it is intended to be drunk, for consumption on the premises at which it is sold—
+
+- (a) wine shall be sold only in, or in a multiple of, the following quantities, that is to say, 125 ml and 175 ml; and
+- (b) wine fortified for distillation shall be sold only in, or in a multiple of, the following quantities, that is to say, 50 ml and 70 ml,
+
+and, in either case, only if a statement in writing of the kind required by subparagraph (c) of article 5(1) is displayed or otherwise provided as required by that sub-paragraph.
+
+(3) Nothing in this article shall make unlawful the sale—
+
+- (a) at the express request of the buyer, of any mixture of liquids containing, in a quantity not permitted by this article—
+  - (i) wine; or
+  - (ii) wine fortified for distillation; or
+- (b) of wine in a quantity of less than 75 ml, without the display or provision of a statement in writing of the kind referred to in paragraph (2).
+
+## 6.[^key-ac0f2421064d2a38eb0113b8f9f82f58]
+
+(1)[^key-87c87fab23276077d57942251c127fc4] Where intoxicating liquor or other liquids specified in column 1 of Schedule 1—
+
+- (a) are pre-packed in a closed container for direct sale (within the meaning of Article 2(2)(e) of the FIC Regulation); or
+- (b) are, in the case of those specified in Part III of Schedule 1, made up in a closed container for relevant wholesale,
+
+the container must, subject to the exemptions specified in column 4 of Schedule 1, be marked with an indication of quantity by volume.
+
+(2) Intoxicating liquor of any other description shall be pre-packed for direct sale (within the meaning of Article 2(2)(e) of the FIC Regulation)[^key-74fcfc1a32b8a5a9269bc604afc3f2ff] in a closed container in a quantity of 5 ml or more but not exceeding 5 L only if the container is marked with an indication of quantity by volume.
+
+(3)[^key-fff56c7b39bc20b0ff052a8675f186a6] For the purposes of this article—
+
+- (a) “mass caterer” means any establishment (including a vehicle or a fixed or mobile stall), such as restaurants, canteens, schools, hospitals and catering enterprises in which, in the course of a business, food is prepared to be ready for consumption by the final consumer; and
+- (b) “relevant wholesale”, in relation to food to which this article applies, means a sale by way of wholesale, but does not include any of the following:
+  - (i) a sale to a mass caterer;
+  - (ii) a supply of food that is prepacked food within the meaning of the FIC Regulation intended for sale to the final consumer or to a mass caterer, or any other supply of food that is made up in advance ready for retail sale in an open container; or
+  - (iii) a supply to which Article 8(8) of the FIC Regulation applies;
+
+## 7.[^key-5f4fb75e761b085c3522668c88bc86b7]
+
+(1) Without prejudice to the provisions of section 25 of the Weights and Measures Act 1985[^key-52c500efaff8f713e914f2ddbd99beb0], if article 2(1)(b), 3(1)(b) , 5(1)(c) or 5A(2)(b)[^key-43214f4cb2215d6171012cb789d34d10] above is contravened, the occupier of the premises in question shall be guilty of an offence.
+
+(2) Any person guilty of an offence under paragraph (1) above shall be liable on summary conviction to a fine not exceeding £2,000.
+
+## 8.[^key-9d5adee8e69ecae348524b891bab6ee4]
+
+Nothing in this Order shall require any container to be marked with any information or to enclose intoxicating liquor or other liquids of a particular quantity if all the following provisions are satisfied:—
+
+- (a) the contents of the container in which any intoxicating liquor or other liquids is pre-packed consist of two or more packs of goods;
+- (b) where the goods in any pack, if sold individually, would be required by the Order to be made up in a specified quantity, the goods in any such pack are so made up;
+- (c) where any pack, if sold individually, would be required by the Order to be marked with an indication as to the quantity of the goods, the pack is so marked;
+- (d)
+  - (i) the container is marked with a description of the goods in each pack, the total number of packs containing goods of each description and, where paragraph (c) above applies, with an indication as to the quantity of the goods in each such pack; or
+  - (ii) where each pack to which paragraph (c) above applies contains the same quantity of identical goods, an indication as to the quantity of the goods in at least one such pack is clearly visible, and the total number of such packs is clearly visible and capable of being easily counted, through the container; or
+  - (iii) where each pack does not contain goods of the same description or does contain such goods but does not contain them in the same quantity, an indication as to the quantity of any goods in each pack to which paragraph (c) above applies, or, if there are two or more identical such packs, an indication as to the quantity of the goods in at least one of them is clearly visible, and the total number of such packs of each description is clearly visible and capable of being easily counted, through the container.
+
+Eric Forth
+
+Parliamentary Under-Secretary of State,
+
+Department of Trade and Industry
+
+## SCHEDULE A1[^key-92600052751bb6d3914e0ae5b1acee81]
+
+*Extent: E+W+S+NI*
+
+<table>
+<thead>
+<tr><th><em>(1)</em><br><em>Product</em></th><th colspan="2"><em>(2)</em><br><em>Product Definition</em></th><th colspan="2"><em>(3)</em><br><em>Specified Quantities</em></th><th colspan="2"><em>(4)</em><br><em>Exceptions</em></th></tr>
+</thead>
+<tbody>
+<tr><td rowspan="2">Still wine</td><td colspan="2" rowspan="2">wine as defined in point(1) of Part II of Annex VII to the Regulation of the European Parliament and of the Council adopted on 16 December 2013 establishing a common organisation of the markets in agricultural products and repealing Council Regulations <a href="https://www.legislation.gov.uk/european/regulation/1972/0922">(EEC) No 922/72</a>, <a href="https://www.legislation.gov.uk/european/regulation/1979/0234">(EEC) No 234/79</a>, <a href="https://www.legislation.gov.uk/european/regulation/2001/1037">(EC) No 1037/2001</a> and <a href="https://www.legislation.gov.uk/european/regulation/2007/1234">(EC) No 1234/2007</a>, as amended from time to time</td><td colspan="2">Only the following specified quantities:</td><td colspan="2" rowspan="2">Containers of a capacity of less than 100 ml or more than 1500 ml</td></tr>
+<tr><td></td><td>100 ml 187 ml 200 ml 250 ml 375 ml 500 ml 568 ml 750 ml 1000 ml 1500 ml</td></tr>
+<tr><td rowspan="2">Yellow wine</td><td colspan="2" rowspan="2">wine using the traditional term “vin jaune” listed and defined in the “E-Bacchus” database in accordance with Article 40(1) of <a href="https://www.legislation.gov.uk/european/regulation/2009/0607">Commission Regulation (EC) No 607/2009</a> laying down certain detailed rules for the implementation of Council Regulation (EC) No 479/2008 as regards protected designations of origin and geographical indications, traditional terms, labelling and presentation of certain wine sector products</td><td colspan="2">Only the following specified quantity:</td><td colspan="2" rowspan="2">Containers of a capacity of less than 100 ml or more than 1500 ml</td></tr>
+<tr><td></td><td>620 ml</td></tr>
+<tr><td colspan="2"></td><td></td><td colspan="2"></td><td colspan="2"></td></tr>
+<tr><td rowspan="2">sparkling wine, quality sparkling wine, quality aromatic sparkling wine, aerated sparkling wine, semi-sparkling wine and aerated semi-sparkling wine</td><td colspan="2" rowspan="2">as those wines are defined (respectively) in points (4) to (9) of Part II of Annex VII to the Regulation of the European Parliament and of the Council adopted on 16 December 2013 establishing a common organisation of the markets in agricultural products and repealing Council Regulations <a href="https://www.legislation.gov.uk/european/regulation/1972/0922">(EEC) No 922/72</a>, <a href="https://www.legislation.gov.uk/european/regulation/1979/0234">(EEC) No 234/79</a>, <a href="https://www.legislation.gov.uk/european/regulation/2001/1037">(EC) No 1037/2001</a> and <a href="https://www.legislation.gov.uk/european/regulation/2007/1234">(EC) No 1234/2007</a>, as amended from time to time</td><td colspan="2">Only the following specified quantities:</td><td colspan="2" rowspan="2">Containers of a capacity of less than 125 ml or more than 1500 ml</td></tr>
+<tr><td></td><td>125 ml 200 ml 375 ml 500 ml 568 ml 750 ml 1500 ml</td></tr>
+<tr><td rowspan="2">Liqueur wine</td><td colspan="2" rowspan="2">Liqueur wine as defined in point (3) of Part II of Annex VII to the Regulation of the European Parliament and of the Council adopted on 16 December 2013 establishing a common organisation of the markets in agricultural products and repealing Council Regulations <a href="https://www.legislation.gov.uk/european/regulation/1972/0922">(EEC) No 922/72</a>, <a href="https://www.legislation.gov.uk/european/regulation/1979/0234">(EEC) No 234/79</a>, <a href="https://www.legislation.gov.uk/european/regulation/2001/1037">(EC) No 1037/2001</a> and <a href="https://www.legislation.gov.uk/european/regulation/2007/1234">(EC) No 1234/2007</a>, as amended from time to time</td><td colspan="2">Only the following specified quantities:</td><td colspan="2" rowspan="2">Containers of a capacity of less than 100 ml or more than 1500 ml</td></tr>
+<tr><td></td><td>100 ml<br>200 ml<br>375 ml<br>500 ml<br>750 ml<br>1000 ml<br>1500 ml</td></tr>
+<tr><td rowspan="2">Aromatised wine</td><td colspan="2" rowspan="2">Aromatised wine as defined in Article 2(1)(a) of <a href="https://www.legislation.gov.uk/european/regulation/1991/1601">Council Regulation (EEC) No 1601/91</a> of 10 June 1991 laying down general rules on the definition, description and presentation of aromatised wines, aromatised wine-based drinks and aromatised wine-product cocktails (OJ L 149, 14.6.1991, p.1) as last amended by the Treaty concerning the accession of the Republic of Bulgaria and Romania to the European Union (OJ L 157, 21.6.2005, p.1) (CN code 2205).</td><td colspan="2">Only the following specified quantities:</td><td colspan="2" rowspan="2">Containers of a capacity of less than 100 ml or more than 1500 ml</td></tr>
+<tr><td></td><td>100 ml<br>200 ml<br>375 ml<br>500 ml<br>750 ml<br>1000 ml<br>1500 ml</td></tr>
+<tr><td rowspan="2">Spirit drinks</td><td colspan="2" rowspan="2">Spirit drinks as defined in Article 1(2) of <a href="https://www.legislation.gov.uk/european/regulation/1989/1576">Council Regulation (EEC) No 1576/89</a> of 29 May 1989 laying down general rules on the definition, description and presentation of spirit drinks (OJ L 160, 12.6.1989, p.1) as last amended by the Treaty concerning the accession of the Republic of Bulgaria and Romania to the European Union (OJ L 157, 21.6.2005, p.1) (CN code 2208).</td><td colspan="2">Only the following specified quantities:</td><td colspan="2" rowspan="2">Containers of a capacity of less than 100 ml or more than 2000 ml , or single distilled shochu in containers of a capacity of 720 ml, 900 ml or 1800 ml</td></tr>
+<tr><td></td><td>100 ml<br>200 ml<br>350 ml<br>500 ml<br>700 ml<br>1000 ml<br>1500 ml<br>1750 ml<br>2000 ml</td></tr>
+<tr><td></td><td colspan="2"></td><td></td><td colspan="2"></td><td></td></tr>
+</tbody>
+</table>
+
+[^key-fa95696cdf6713e53bd854a8632454a2][^key-3dc9ac30d860fcb9efd1a1ae0610b409][^key-f19445d1f1b711f561a8f93ef4aa235e][^key-e24b70b22a78e3f666c42aa5c945b6b9][^key-5484d1d7d127cec1ee1819042b56927a][^key-24fb2912cfb32e88c71632dda974a8ae][^key-668e0600caef2bdeae4b8e315e5d2d92][^key-6fd73918619c0876f8664b4a79a958d2][^key-1e2f51113d73c8ad75ee61c9bcda78be][^key-32b16a4728cb2ac79d6d6fb34d56d61a][^key-666614567418ab4141df407eec611b0d]
+
+## SCHEDULE 1
+
+Articles 4 and 6
+
+### PART I[^key-ed4f008483203d87d96b3d6943380251]
+
+<table>
+<thead>
+<tr><th><em>(1)</em></th><th><em>(2)</em></th><th><em>(3)</em></th><th><em>(4)</em></th></tr>
+<tr><th>Description and subheading</th><th>...</th><th>...</th><th>Exemptions from quantity marking</th></tr>
+</thead>
+<tbody>
+<tr><td>Wine of fresh grapes; grape must with fermentation prevented or arrested by the addition of alcohol, including wine made of unfermented grape juice blended with alcohol, grape must in fermentation or with fermentation arrested otherwise than by the addition of alcohol, of subheadings 2204 21 21 to 2204 21 39 inclusive, 2204 29 21 to 2204 29 39 inclusive and 2204 30 10</td><td>. . .</td><td rowspan="2">. . .</td><td rowspan="2">less than 5 ml, more than 10 L</td></tr>
+<tr><td>“Yellow” wines entitled to use the following designations of origin:<br>“Côtes du Jura”,<br>“Arbois”,<br>“L'Étoile” and<br>“Château-Chalon”</td><td>. . .</td></tr>
+</tbody>
+</table>
+
+[^key-80b7ef3f7450e59333931d44df3d1a44][^key-80b7ef3f7450e59333931d44df3d1a44][^key-80b7ef3f7450e59333931d44df3d1a44][^key-80b7ef3f7450e59333931d44df3d1a44][^key-80b7ef3f7450e59333931d44df3d1a44]
+
+### PART II[^key-ef318a3e8ea377f47ee5720167990d08]
+
+<table>
+<thead>
+<tr><th><em>(1)</em></th><th><em>(2)</em></th><th><em>(3)</em></th><th><em>(4)</em></th></tr>
+<tr><th>Description and subheading</th><th>...</th><th>...</th><th>Exemptions from quantity marking</th></tr>
+</thead>
+<tbody>
+<tr><td>Sparkling wine and wine in bottles with “mushroom” stoppers held in place by ties or fastenings, and wine otherwise made up with an excess pressure of not less than one bar but less than three bar, measured at a temperature of 20°C, of subheadings 2204 10 11, 2204 10 19, 2204 10 90, 2204 21 10 and 2204 29 10</td><td>. . .</td><td>. . .</td><td>less than 5 ml, more than 10 L</td></tr>
+</tbody>
+</table>
+
+[^key-80b7ef3f7450e59333931d44df3d1a44][^key-80b7ef3f7450e59333931d44df3d1a44][^key-80b7ef3f7450e59333931d44df3d1a44][^key-80b7ef3f7450e59333931d44df3d1a44]
+
+### PART III[^key-0736db0c52fd91bca7c241d3246cad7a]
+
+<table>
+<thead>
+<tr><th><em>(1)</em></th><th><em>(2)</em></th><th><em>(3)</em></th><th><em>(4)</em></th></tr>
+<tr><th>Description and subheading</th><th>...</th><th>...</th><th>Exemptions from quantity marking</th></tr>
+</thead>
+<tbody>
+<tr><td>Spirits, liqueurs and other spirituous beverages and compound alcoholic preparations of a kind used for the manufacture of beverages, of subheadings 2208 10 10 to 2208 90 79 inclusive</td><td>. . .</td><td>. . .</td><td>less than 5 ml, more than 10 L</td></tr>
+</tbody>
+</table>
+
+[^key-80b7ef3f7450e59333931d44df3d1a44][^key-80b7ef3f7450e59333931d44df3d1a44][^key-80b7ef3f7450e59333931d44df3d1a44][^key-80b7ef3f7450e59333931d44df3d1a44]
+
+## SCHEDULE 2[^key-e28a6c73370ad8b9c99ccb1b4064a7da]
+
+Article 1(3)
+
+<table>
+<thead>
+<tr><th>Orders revoked</th><th>References</th><th>Extent of revocation</th></tr>
+<tr><th><em>(1)</em></th><th><em>(2)</em></th><th><em>(3)</em></th></tr>
+</thead>
+<tbody>
+<tr><td>The Weights and Measures Act 1963 (Intoxicating Liquor) Order 1984.</td><td>S.I. <a href="https://www.legislation.gov.uk/uksi/1984/1314">1984/1314</a>.</td><td>The whole Order.</td></tr>
+<tr><td>The Weights and Measures Act 1963 (Various Foods) (Amendment No. 2) Order 1985.</td><td>S.I. <a href="https://www.legislation.gov.uk/uksi/1985/1980">1985/1980</a>.</td><td>Article 2.</td></tr>
+</tbody>
+</table>
+
+(This note is not part of the Order)
+
+This Order consolidates and amends the Weights and Measures Act 1963 (Intoxicating Liquor) Order 1984 as amended and implements Council Directive [88/316/EEC](https://www.legislation.gov.uk/european/directive/1988/0316) (OJ No. L 143, 10.6.1988, p. 26). Article 4 prescribes a range of quantities listed in Schedule 1 to this Order in which intoxicating liquor and certain other liquids may only be pre-packed. The principal changes introduced by this Order are as follows:—
+
+- (a) with effect from 1st January 1992, spirits and liqueurs are added to the list of items to be pre-packed in prescribed quantities except when pre-packed for consumption on board aircraft, ships and trains, or for sale duty-free; and the requirement to quantity mark is extended from 5 L to 10 L with effect from 1st January 1989;
+- (b) certain wines known as table wines and grape must are excluded from the list of items to be pre-packed in prescribed quantities if made up in securely closed containers before 1st January 1989; and the requirement to quantity mark is extended from 5 L to 10 L;
+- (c) with effect from 1st January 1991, sparkling wines are added to the list of items to be pre-packed in prescribed quantities except when pre-packed for consumption on board aircraft, ships and trains or for sale duty-free; and the requirement to quantity mark is extended from 5 L to 10 L with effect from 1st January 1989;
+- (d) the Order takes account of the Harmonised Commodity Description and Coding System of the European Economic Community, known as the “harmonised system” which includes a Combined Nomenclature replacing the previous Common Customs Tariff Nomenclature.
+
+## Annotations
+
+[^f00001]: Footnote: [1985 c. 72](https://www.legislation.gov.uk/ukpga/1985/72).
+
+[^key-5f77f326851eaaa4b3e6cbe629fa2fa6]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/1988/2039/article/1) in force at 1.1.1989, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1988/2039/article/1/1)
+
+[^key-a883de86de9e48ad8c16551cdfbbb2cd]: Textual amendment: [Art. 1(2)](https://www.legislation.gov.uk/uksi/1988/2039/article/1/2) substituted (11.4.2009) by [The Weights and Measures (Specified Quantities) (Pre-packed Products) Regulations 2009 (S.I. 2009/663)](https://www.legislation.gov.uk/uksi/2009/663), [regs. 1](https://www.legislation.gov.uk/uksi/2009/663/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/2009/663/regulation/4/2)
+
+[^key-5c8f89837620ccf8e85c50ab8fde1c7d]: Textual amendment: Words in [art. 1(2)](https://www.legislation.gov.uk/uksi/1988/2039/article/1/2) inserted (19.6.2021) by [The Conformity Assessment (Mutual Recognition Agreements) and Weights and Measures (Intoxicating Liquor) (Amendment) Regulations 2021 (S.I. 2021/730)](https://www.legislation.gov.uk/uksi/2021/730), [regs. 1](https://www.legislation.gov.uk/uksi/2021/730/regulation/1), [8(2)](https://www.legislation.gov.uk/uksi/2021/730/regulation/8/2)
+
+[^key-df5a7696126267e603c1d5506a28fc9a]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/1988/2039/article/2) in force at 1.1.1989, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1988/2039/article/1/1)
+
+[^key-17166f2e2ae2544204107d3c0442c6af]: Textual amendment: Words in [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/1988/2039/article/2/1/a) inserted (1.10.2011) by [The Weights and Measures (Specified Quantities) (Unwrapped Bread and Intoxicating Liquor) Order 2011 (S.I. 2011/2331)](https://www.legislation.gov.uk/uksi/2011/2331), [arts. 1](https://www.legislation.gov.uk/uksi/2011/2331/article/1), [4(2)](https://www.legislation.gov.uk/uksi/2011/2331/article/4/2)
+
+[^f00004]: Footnote: S.I. [1983/1656](https://www.legislation.gov.uk/uksi/1983/1656), to which there are amendments not relevant to this Order.
+
+[^key-4274d137a6e218d454cf484e5cfe1901]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/1988/2039/article/3) in force at 1.1.1989, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1988/2039/article/1/1)
+
+[^f00005]: Footnote: [1964 c. 26](https://www.legislation.gov.uk/ukpga/1964/26).
+
+[^f00006]: Footnote: [1976 c. 66](https://www.legislation.gov.uk/ukpga/1976/66).
+
+[^key-7dfbdc59b4c4941c90bbc211bbe25086]: Textual amendment: Words in [art. 3(1)(a)](https://www.legislation.gov.uk/uksi/1988/2039/article/3/1/a) substituted (14.7.1994) by [The Weights and Measures (Intoxicating Liquor) (Amendment) Order 1994 (S.I. 1994/1883)](https://www.legislation.gov.uk/uksi/1994/1883), [arts. 1](https://www.legislation.gov.uk/uksi/1994/1883/article/1), [3](https://www.legislation.gov.uk/uksi/1994/1883/article/3)
+
+[^key-d675ef04d3035fbc4de08978e5d22513]: Textual amendment: [Words in art. 3(1)](https://www.legislation.gov.uk/uksi/1988/2039/article/3/1) added (27.7.1990) by [The Weights and Measures (Various Foods) (Amendment) Order 1990 (S.I. 1990/1550)](https://www.legislation.gov.uk/uksi/1990/1550), [arts. 1(1)](https://www.legislation.gov.uk/uksi/1990/1550/article/1/1), [2(b)(ii)](https://www.legislation.gov.uk/uksi/1990/1550/article/2/b/ii)
+
+[^key-322dff72b021492256847c33f75d3fe9]: Textual amendment: [Art. 3A](https://www.legislation.gov.uk/uksi/1988/2039/article/3A) inserted (11.4.2009) by [The Weights and Measures (Specified Quantities) (Pre-packed Products) Regulations 2009 (S.I. 2009/663)](https://www.legislation.gov.uk/uksi/2009/663), [regs. 1](https://www.legislation.gov.uk/uksi/2009/663/regulation/1), [4(3)](https://www.legislation.gov.uk/uksi/2009/663/regulation/4/3)
+
+[^key-d787ccf85165785011e4aaeca103bbf4]: Textual amendment: Words in [art. 3A(2)](https://www.legislation.gov.uk/uksi/1988/2039/article/3A/2) substituted (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 6 para. 2](https://www.legislation.gov.uk/uksi/2019/696/schedule/6/paragraph/2) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-3dc42060e100597cbe2f25e0afb4064b]: Textual amendment: [Art. 4](https://www.legislation.gov.uk/uksi/1988/2039/article/4) revoked (11.4.2009) by [The Weights and Measures (Specified Quantities) (Pre-packed Products) Regulations 2009 (S.I. 2009/663)](https://www.legislation.gov.uk/uksi/2009/663), [regs. 1](https://www.legislation.gov.uk/uksi/2009/663/regulation/1), [4(4)](https://www.legislation.gov.uk/uksi/2009/663/regulation/4/4)
+
+[^key-05b690b1363c0a8c2ba01840c9988f50]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/1988/2039/article/5) in force at 1.1.1989, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1988/2039/article/1/1)
+
+[^key-14593c1d6f18c132fce7cc56f23fed7d]: Textual amendment: [Art. 5(1)(a)](https://www.legislation.gov.uk/uksi/1988/2039/article/5/1/a) substituted (1.10.1995) by [The Weights and Measures (Metrication) (Miscellaneous Goods) (Amendment) Order 1994 (S.I. 1994/2868)](https://www.legislation.gov.uk/uksi/1994/2868), [art. 2](https://www.legislation.gov.uk/uksi/1994/2868/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1994/2868/schedule)
+
+[^key-2fbf67d1b91e8e3f19de984a0a42ad8b]: Textual amendment: Words in [art. 5(2)(b)](https://www.legislation.gov.uk/uksi/1988/2039/article/5/2/b) inserted (27.7.1990) by [The Weights and Measures (Various Foods) (Amendment) Order 1990 (S.I. 1990/1550)](https://www.legislation.gov.uk/uksi/1990/1550), [arts. 1(1)](https://www.legislation.gov.uk/uksi/1990/1550/article/1/1), [2(c)](https://www.legislation.gov.uk/uksi/1990/1550/article/2/c)
+
+[^key-ebf9268c126bd26b15123d70e048df52]: Textual amendment: [Art. 5A](https://www.legislation.gov.uk/uksi/1988/2039/article/5A) substituted (1.10.2011) by [The Weights and Measures (Specified Quantities) (Unwrapped Bread and Intoxicating Liquor) Order 2011 (S.I. 2011/2331)](https://www.legislation.gov.uk/uksi/2011/2331), [arts. 1](https://www.legislation.gov.uk/uksi/2011/2331/article/1), [4(3)](https://www.legislation.gov.uk/uksi/2011/2331/article/4/3)
+
+[^key-ac0f2421064d2a38eb0113b8f9f82f58]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/1988/2039/article/6) in force at 1.1.1989, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1988/2039/article/1/1)
+
+[^key-87c87fab23276077d57942251c127fc4]: Textual amendment: [Art. 6(1)](https://www.legislation.gov.uk/uksi/1988/2039/article/6/1) substituted (13.12.2014) by [The Weights and Measures (Food) (Amendment) Regulations 2014 (S.I. 2014/2975)](https://www.legislation.gov.uk/uksi/2014/2975), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2975/regulation/1), [34(a)](https://www.legislation.gov.uk/uksi/2014/2975/regulation/34/a)
+
+[^key-74fcfc1a32b8a5a9269bc604afc3f2ff]: Textual amendment: Words in [art. 6(2)](https://www.legislation.gov.uk/uksi/1988/2039/article/6/2) inserted (13.12.2014) by [The Weights and Measures (Food) (Amendment) Regulations 2014 (S.I. 2014/2975)](https://www.legislation.gov.uk/uksi/2014/2975), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2975/regulation/1), [34(b)](https://www.legislation.gov.uk/uksi/2014/2975/regulation/34/b)
+
+[^key-fff56c7b39bc20b0ff052a8675f186a6]: Textual amendment: [Art. 6(3)](https://www.legislation.gov.uk/uksi/1988/2039/article/6/3) inserted (13.12.2014) by [The Weights and Measures (Food) (Amendment) Regulations 2014 (S.I. 2014/2975)](https://www.legislation.gov.uk/uksi/2014/2975), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2975/regulation/1), [34(c)](https://www.legislation.gov.uk/uksi/2014/2975/regulation/34/c)
+
+[^key-5f4fb75e761b085c3522668c88bc86b7]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/1988/2039/article/7) in force at 1.1.1989, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1988/2039/article/1/1)
+
+[^key-52c500efaff8f713e914f2ddbd99beb0]: Textual amendment: Words in [art. 7](https://www.legislation.gov.uk/uksi/1988/2039/article/7) substituted (11.4.2009) by [The Weights and Measures (Specified Quantities) (Pre-packed Products) Regulations 2009 (S.I. 2009/663)](https://www.legislation.gov.uk/uksi/2009/663), [regs. 1](https://www.legislation.gov.uk/uksi/2009/663/regulation/1), [4(5)](https://www.legislation.gov.uk/uksi/2009/663/regulation/4/5)
+
+[^key-43214f4cb2215d6171012cb789d34d10]: Textual amendment: Words in [art. 7(1)](https://www.legislation.gov.uk/uksi/1988/2039/article/7/1) substituted (27.7.1990) by [The Weights and Measures (Various Foods) (Amendment) Order 1990 (S.I. 1990/1550)](https://www.legislation.gov.uk/uksi/1990/1550), [arts. 1(1)](https://www.legislation.gov.uk/uksi/1990/1550/article/1/1), [2(e)](https://www.legislation.gov.uk/uksi/1990/1550/article/2/e)
+
+[^key-9d5adee8e69ecae348524b891bab6ee4]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/1988/2039/article/8) in force at 1.1.1989, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1988/2039/article/1/1)
+
+[^key-92600052751bb6d3914e0ae5b1acee81]: Textual amendment: Sch. A1 inserted (11.4.2009) by [The Weights and Measures (Specified Quantities) (Pre-packed Products) Regulations 2009 (S.I. 2009/663)](https://www.legislation.gov.uk/uksi/2009/663), [regs. 1](https://www.legislation.gov.uk/uksi/2009/663/regulation/1), [4(6)](https://www.legislation.gov.uk/uksi/2009/663/regulation/4/6), [Sch.](https://www.legislation.gov.uk/uksi/2009/663/schedule)
+
+[^key-fa95696cdf6713e53bd854a8632454a2]: Textual amendment: Words in Sch. A1 substituted (30.12.2011) by [The Wine Regulations 2011 (S.I. 2011/2936)](https://www.legislation.gov.uk/uksi/2011/2936), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/2936/regulation/1/2), [19(1)(b)(i)](https://www.legislation.gov.uk/uksi/2011/2936/regulation/19/1/b/i) (with [reg. 3(9)](https://www.legislation.gov.uk/uksi/2011/2936/regulation/3/9))
+
+[^key-3dc9ac30d860fcb9efd1a1ae0610b409]: Textual amendment: Words in Sch. A1 substituted (1.1.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations 2013 (S.I. 2013/3235)](https://www.legislation.gov.uk/uksi/2013/3235), [regs. 1](https://www.legislation.gov.uk/uksi/2013/3235/regulation/1), [12(2)(a)](https://www.legislation.gov.uk/uksi/2013/3235/regulation/12/2/a)
+
+[^key-f19445d1f1b711f561a8f93ef4aa235e]: Textual amendment: Words in Sch. A1 substituted (19.9.2024) by [The Weights and Measures (Intoxicating Liquor) (Amendment) Regulations 2024 (S.I. 2024/641)](https://www.legislation.gov.uk/uksi/2024/641), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/641/regulation/1/2), [2(a)](https://www.legislation.gov.uk/uksi/2024/641/regulation/2/a)
+
+[^key-e24b70b22a78e3f666c42aa5c945b6b9]: Textual amendment: Words in Sch. A1 substituted (30.12.2011) by [The Wine Regulations 2011 (S.I. 2011/2936)](https://www.legislation.gov.uk/uksi/2011/2936), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/2936/regulation/1/2), [19(1)(b)(ii)](https://www.legislation.gov.uk/uksi/2011/2936/regulation/19/1/b/ii) (with [reg. 3(9)](https://www.legislation.gov.uk/uksi/2011/2936/regulation/3/9))
+
+[^key-5484d1d7d127cec1ee1819042b56927a]: Textual amendment: Words in Sch. A1 substituted (30.12.2011) by [The Wine Regulations 2011 (S.I. 2011/2936)](https://www.legislation.gov.uk/uksi/2011/2936), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/2936/regulation/1/2), [19(1)(a)](https://www.legislation.gov.uk/uksi/2011/2936/regulation/19/1/a) (with [reg. 3(9)](https://www.legislation.gov.uk/uksi/2011/2936/regulation/3/9))
+
+[^key-24fb2912cfb32e88c71632dda974a8ae]: Textual amendment: Words in Sch. A1 substituted (30.12.2011) by [The Wine Regulations 2011 (S.I. 2011/2936)](https://www.legislation.gov.uk/uksi/2011/2936), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/2936/regulation/1/2), [19(1)(b)(iii)](https://www.legislation.gov.uk/uksi/2011/2936/regulation/19/1/b/iii) (with [reg. 3(9)](https://www.legislation.gov.uk/uksi/2011/2936/regulation/3/9))
+
+[^key-668e0600caef2bdeae4b8e315e5d2d92]: Textual amendment: Words in Sch. A1 substituted (1.1.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations 2013 (S.I. 2013/3235)](https://www.legislation.gov.uk/uksi/2013/3235), [regs. 1](https://www.legislation.gov.uk/uksi/2013/3235/regulation/1), [12(2)(b)](https://www.legislation.gov.uk/uksi/2013/3235/regulation/12/2/b)
+
+[^key-6fd73918619c0876f8664b4a79a958d2]: Textual amendment: Words in Sch. A1 substituted (19.9.2024) by [The Weights and Measures (Intoxicating Liquor) (Amendment) Regulations 2024 (S.I. 2024/641)](https://www.legislation.gov.uk/uksi/2024/641), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/641/regulation/1/2), [2(b)](https://www.legislation.gov.uk/uksi/2024/641/regulation/2/b)
+
+[^key-1e2f51113d73c8ad75ee61c9bcda78be]: Textual amendment: Words in Sch. A1 substituted (30.12.2011) by [The Wine Regulations 2011 (S.I. 2011/2936)](https://www.legislation.gov.uk/uksi/2011/2936), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/2936/regulation/1/2), [19(1)(b)(iv)](https://www.legislation.gov.uk/uksi/2011/2936/regulation/19/1/b/iv) (with [reg. 3(9)](https://www.legislation.gov.uk/uksi/2011/2936/regulation/3/9))
+
+[^key-32b16a4728cb2ac79d6d6fb34d56d61a]: Textual amendment: Words in Sch. A1 substituted (1.1.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations 2013 (S.I. 2013/3235)](https://www.legislation.gov.uk/uksi/2013/3235), [regs. 1](https://www.legislation.gov.uk/uksi/2013/3235/regulation/1), [12(2)(c)](https://www.legislation.gov.uk/uksi/2013/3235/regulation/12/2/c)
+
+[^key-666614567418ab4141df407eec611b0d]: Textual amendment: Words in Sch. A1 inserted (19.6.2021) by [The Conformity Assessment (Mutual Recognition Agreements) and Weights and Measures (Intoxicating Liquor) (Amendment) Regulations 2021 (S.I. 2021/730)](https://www.legislation.gov.uk/uksi/2021/730), [regs. 1](https://www.legislation.gov.uk/uksi/2021/730/regulation/1), [8(3)](https://www.legislation.gov.uk/uksi/2021/730/regulation/8/3)
+
+[^key-ed4f008483203d87d96b3d6943380251]: Commencement: [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/1988/2039/schedule/1/part/I) in force at 1.1.1989, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1988/2039/article/1/1)
+
+[^key-80b7ef3f7450e59333931d44df3d1a44]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/1988/2039/schedule/1) omitted (11.4.2009) by virtue of [The Weights and Measures (Specified Quantities) (Pre-packed Products) Regulations 2009 (S.I. 2009/663)](https://www.legislation.gov.uk/uksi/2009/663), [regs. 1](https://www.legislation.gov.uk/uksi/2009/663/regulation/1), [4(7)](https://www.legislation.gov.uk/uksi/2009/663/regulation/4/7)
+
+[^key-ef318a3e8ea377f47ee5720167990d08]: Commencement: [Sch. 1 Pt. II](https://www.legislation.gov.uk/uksi/1988/2039/schedule/1/part/II) in force at 1.1.1989, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1988/2039/article/1/1)
+
+[^key-0736db0c52fd91bca7c241d3246cad7a]: Commencement: [Sch. 1 Pt. III](https://www.legislation.gov.uk/uksi/1988/2039/schedule/1/part/III) in force at 1.1.1989, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1988/2039/article/1/1)
+
+[^key-e28a6c73370ad8b9c99ccb1b4064a7da]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/1988/2039/schedule/2) in force at 1.1.1989, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1988/2039/article/1/1)

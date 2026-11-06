@@ -1,0 +1,29 @@
+---
+title: New Roads and Street Works Act 1991, section 31
+act: New Roads and Street Works Act 1991
+section: '31'
+status: revised-with-pending-changes
+text_date: '2026-10-30'
+extent: S
+source_url: https://www.legislation.gov.uk/ukpga/1991/22/section/31
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# New Roads and Street Works Act 1991, section 31
+
+> **Warning: changes not yet applied to this text (403).** Text as at 2026-10-30. See https://www.legislation.gov.uk/changes/affected/ukpga/1991/22
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 31. Amount of tolls chargeable.
+
+*Extent: S*
+
+(1) Where a toll order does not authorise a special road authority to assign their rights under the order to charge and to collect tolls, the toll order shall in every case specify the maximum tolls which may be charged for the use of the road or any length of the road in respect of which tolls are charged.
+
+(2) The order may specify different maxima for different descriptions of traffic (which need not correspond with the classes of traffic prescribed by the special road scheme) and may provide for the amounts to be varied in accordance with a formula specified in the order.
+
+(3) Subject to section 32, where a toll order does authorise a special road authority to assign their rights under the order to charge and to collect tolls, it shall not specify any maximum in respect of tolls which may be charged by the concessionaire.
+
+(4) Where a special road authority has authority to assign as described in subsection (3) but no such assignation is made, they shall not charge any tolls in respect of that road unless an extension toll order is made in respect of that road.

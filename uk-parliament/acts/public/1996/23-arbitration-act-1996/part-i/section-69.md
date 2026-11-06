@@ -1,0 +1,74 @@
+---
+title: Arbitration Act 1996, section 69
+act: Arbitration Act 1996
+section: '69'
+status: revised
+text_date: '2025-08-01'
+extent: E+W+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/1996/23/section/69
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Arbitration Act 1996, section 69
+
+> Text as at 2025-08-01.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 69. Appeal on point of law.[^c833523][^c2085245][^c2085671][^c2085777][^c2086252][^key-e1c5d4c099d9f98379ca93dd5a251060]
+
+*Extent: E+W+N.I.*
+
+(1) Unless otherwise agreed by the parties, a party to arbitral proceedings may (upon notice to the other parties and to the tribunal) appeal to the court on a question of law arising out of an award made in the proceedings.
+
+An agreement to dispense with reasons for the tribunal’s award shall be considered an agreement to exclude the court’s jurisdiction under this section.
+
+(2) An appeal shall not be brought under this section except—
+
+- (a) with the agreement of all the other parties to the proceedings, or
+- (b) with the leave of the court.
+
+The right to appeal is also subject to the restrictions in section 70(2) and (3).
+
+(3) Leave to appeal shall be given only if the court is satisfied—
+
+- (a) that the determination of the question will substantially affect the rights of one or more of the parties,
+- (b) that the question is one which the tribunal was asked to determine,
+- (c) that, on the basis of the findings of fact in the award—
+  - (i) the decision of the tribunal on the question is obviously wrong, or
+  - (ii) the question is one of general public importance and the decision of the tribunal is at least open to serious doubt, and
+- (d) that, despite the agreement of the parties to resolve the matter by arbitration, it is just and proper in all the circumstances for the court to determine the question.
+
+(4) An application for leave to appeal under this section shall identify the question of law to be determined and state the grounds on which it is alleged that leave to appeal should be granted.
+
+(5) The court shall determine an application for leave to appeal under this section without a hearing unless it appears to the court that a hearing is required.
+
+(6) The leave of the court is required for any appeal from a decision of the court under this section to grant or refuse leave to appeal.
+
+(7) On an appeal under this section the court may by order—
+
+- (a) confirm the award,
+- (b) vary the award,
+- (c) remit the award to the tribunal, in whole or in part, for reconsideration in the light of the court’s determination, or
+- (d) set aside the award in whole or in part.
+
+The court shall not exercise its power to set aside an award, in whole or in part, unless it is satisfied that it would be inappropriate to remit the matters in question to the tribunal for reconsideration.
+
+(8) The decision of the court on an appeal under this section shall be treated as a judgment of the court for the purposes of a further appeal.
+
+But no such appeal lies without the leave of the court which shall not be given unless the court considers that the question is one of general importance or is one which for some other special reason should be considered by the Court of Appeal.
+
+## Annotations
+
+[^c833523]: Modification: S. 69 applied (with modifications) (E.W.) (21.5.2001) by [S.I. 2001/1185](https://www.legislation.gov.uk/uksi/2001/1185), [arts. 2](https://www.legislation.gov.uk/uksi/2001/1185/article/2), [3](https://www.legislation.gov.uk/uksi/2001/1185/article/3), [Sch. para. 164(1)](https://www.legislation.gov.uk/uksi/2001/1185/schedule/paragraph/164/1) (which amending S.I. was revoked (6.4.2004) by [S.I. 2004/753](https://www.legislation.gov.uk/uksi/2004/753), [art. 3](https://www.legislation.gov.uk/uksi/2004/753/article/3) (subject to [art. 8](https://www.legislation.gov.uk/uksi/2004/753/article/8)))
+
+[^c2085245]: Modification: S. 69 applied (with modifications) (E.W.) (6.4.2003) by [The ACAS (Flexible Working) Arbitration Scheme (England and Wales) Order 2003 (S.I. 2003/694)](https://www.legislation.gov.uk/uksi/2003/694), [art. 2](https://www.legislation.gov.uk/uksi/2003/694/article/2), [Sch. para. 115](https://www.legislation.gov.uk/uksi/2003/694/schedule/paragraph/115) (which amending S.I. was revoked (1.10.2004) by [S.I. 2004/2333](https://www.legislation.gov.uk/uksi/2004/2333), [art. 3](https://www.legislation.gov.uk/uksi/2004/2333/article/3) (subject to [art. 6](https://www.legislation.gov.uk/uksi/2004/2333/article/6)))
+
+[^c2085671]: Modification: S. 69 applied (with modifictaions) (E.W.) (6.4.2004) by [The ACAS Arbitration Scheme (Great Britain) Order 2004 (S.I. 2004/753)](https://www.legislation.gov.uk/uksi/2004/753), [art. 1](https://www.legislation.gov.uk/uksi/2004/753/article/1), [Sch. para. 200EW](https://www.legislation.gov.uk/uksi/2004/753/schedule/paragraph/200EW)
+
+[^c2085777]: Modification: S. 69 applied (with modifications) (E.W.) (1.10.2004) by [The ACAS (Flexible Working) Arbitration Scheme (Great Britain) Order 2004 (S.I. 2004/2333)](https://www.legislation.gov.uk/uksi/2004/2333), [art. 4](https://www.legislation.gov.uk/uksi/2004/2333/article/4), [Sch. para. 151EW](https://www.legislation.gov.uk/uksi/2004/2333/schedule/paragraph/151EW) (with [art. 6](https://www.legislation.gov.uk/uksi/2004/2333/article/6))
+
+[^c2086252]: Modification: S. 69 applied (with modifications) (N.I.) (21.5.2006) by [The Labour Relations Agency (Flexible Working) Arbitration Scheme Order (Northern Ireland) 2006 (S.R. 2006/206)](https://www.legislation.gov.uk/nisr/2006/206), [arts. 2](https://www.legislation.gov.uk/nisr/2006/206/article/2), [3](https://www.legislation.gov.uk/nisr/2006/206/article/3), [Sch. para. 115](https://www.legislation.gov.uk/nisr/2006/206/schedule/paragraph/115)
+
+[^key-e1c5d4c099d9f98379ca93dd5a251060]: Modification: S. 69 applied (with modifications) (N.I.) (27.9.2012) by [The Labour Relations Agency Arbitration Scheme Order (Northern Ireland) 2012 (S.R. 2012/301)](https://www.legislation.gov.uk/nisr/2012/301), [art. 1](https://www.legislation.gov.uk/nisr/2012/301/article/1), [Sch. para. 112](https://www.legislation.gov.uk/nisr/2012/301/schedule/paragraph/112)

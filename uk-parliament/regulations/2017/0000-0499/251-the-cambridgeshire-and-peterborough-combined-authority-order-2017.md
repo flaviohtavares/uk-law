@@ -1,0 +1,552 @@
+---
+title: The Cambridgeshire and Peterborough Combined Authority Order 2017
+id: uksi/2017/251
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2017-03-02'
+text_date: '2026-07-22'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2017/251
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2017/251/pdfs/uksiem_20170251_en.pdf
+- http://www.legislation.gov.uk/uksi/2017/251/pdfs/uksi_20170251_en.pdf
+- http://www.legislation.gov.uk/uksi/2017/251/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Cambridgeshire and Peterborough Combined Authority Order 2017
+
+> Text as at 2026-07-22.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2017 No. 251
+
+Local Government, England
+
+Transport, England
+
+The Cambridgeshire and Peterborough Combined Authority Order 2017
+
+Made
+
+2nd March 2017
+
+Coming into force in accordance with article 1
+
+This Order is made in exercise of the powers conferred by sections 103(1), 104(1)(a), 105(1) and (3), 105A(1)(a), (2) and (3)(b), 107A(1) and (2), 107D(1), (7)(a), (b), (c), (d) and (e), and (8)(b), 107G(1), 113D(1), 114(1) and (3) and 117(5) of, and paragraph 3 of Schedule 5A to and paragraph 3 of Schedule 5B to, the Local Democracy, Economic Development and Construction Act 2009[^f00001] (“the 2009 Act”).
+
+The Secretary of State, having had regard to the scheme prepared and published under section 109 of the 2009 Act, considers that—
+
+- (a) the making of this Order is likely to improve the exercise of statutory functions in the area to which this Order relates, and
+- (b) the consultation required by section 110(2) of the 2009 Act has been carried out.
+
+The Secretary of State is satisfied that the area to which this Order relates meets the conditions set out in section 103(2) and (5) of the 2009 Act[^f00002].
+
+In making this Order, the Secretary of State has had regard to the need to reflect the identities and interests of local communities, and to secure effective and convenient local government[^f00003].
+
+In accordance with sections 104(10), 105(3A), 105B(2) and 113D(2) of the 2009 Act[^f00004], the councils for the local government areas of Cambridge, Cambridgeshire, East Cambridgeshire, Fenland, Huntingdonshire, Peterborough and South Cambridgeshire have consented to the making of this Order.
+
+In accordance with section 105B(9) of the 2009 Act, the Secretary of State has laid before Parliament a report explaining the effect of this Order and why the Secretary of State considers it appropriate to make this Order.
+
+A draft of this instrument has been laid before, and approved by a resolution of, each House of Parliament pursuant to section 117(2) of the 2009 Act.
+
+Accordingly, the Secretary of State makes the following Order:
+
+## PART 1 — General
+
+### 1. Citation and commencement[^key-adccba73e53e3612454aae1709e558e9]
+
+(1) This Order may be cited as the Cambridgeshire and Peterborough Combined Authority Order 2017.
+
+(2) Save as provided in paragraph (3), this Order comes into force on—
+
+- (a) 1st February 2017; or
+- (b) if the Order is made on or after 1st February 2017, on the day after the day on which it is made.
+
+(3) Articles 7 and 12 come into force on 8th May 2017.
+
+### 2. Interpretation[^key-ac38f9c4b581bfc259bdadb9bb635b07]
+
+In this Order—
+
+- “the 1980 Act” means the Highways Act 1980[^f00005];
+- [^key-74aa8054b096535601204207af76d6d0]...
+- [^key-70128797143917ff55109ffa7cdee240]...
+- [^key-9b288417df5f57dc6fe1b90fcf7d6b25]...
+- “[^key-1b34bb98e5c59380694c27b3350873b4]**the 2009 Act**” means the Local Democracy, Economic Development and Construction Act 2009;
+- “Area” means the area consisting of the areas of the constituent councils;
+- “Combined Authority” means the Cambridgeshire and Peterborough Combined Authority as constituted by article 3;
+- “constituent councils” means the councils for the local government areas of Cambridge, Cambridgeshire, East Cambridgeshire, Fenland, Huntingdonshire, Peterborough and South Cambridgeshire;
+- “Local Enterprise Partnership” means the board of the Greater Cambridge Greater Peterborough Enterprise Partnership Limited[^f00009];
+- “Mayor” means the mayor for the Combined Authority as provided for by article 5; and
+- “upper-tier authority” means Cambridgeshire County Council or Peterborough City Council.
+
+## PART 2 — Establishment of a combined authority for Cambridgeshire and Peterborough
+
+### 3. Establishment[^key-afb331cd3c983b164ae28ab418094d4e]
+
+(1) There is established as a body corporate a combined authority for the areas of the constituent councils.
+
+(2) The combined authority is to be known as the Cambridgeshire and Peterborough Combined Authority.
+
+(3) The functions of the combined authority are those functions conferred or imposed upon it by this Order or by any other enactment (whenever passed or made), or as may be delegated to it by or under this Order or any other enactment (whenever passed or made).
+
+### 4. Constitution[^key-5e06dd0643ffb4b61fc2ba4abfc4c7d1]
+
+The Schedule (which makes provision about the constitution of the Combined Authority) has effect.
+
+### 5. Mayor[^key-55ab6834e009b1a35c059f7f00f222fa]
+
+(1) There is to be a mayor for the Area.
+
+(2) The first election for the return of a mayor is to take place on 4th May 2017.
+
+(3) Subsequent elections for the return of a mayor for the Area are to take place—
+
+- (a) on the ordinary day of election in 2021, and
+- (b) in every fourth year thereafter on the same day as the ordinary day of election.
+
+(4) The term of office of the mayor returned at an election for the return of a mayor for the Area—
+
+- (a) begins with the fourth day after the day of the poll at the election for the return of a mayor for the Area, and
+- (b) ends with the third day after the day of the poll at the next election for the return of a mayor for the Area.
+
+(5) In this article, “the ordinary day of election”, in relation to any year, means the day which is the ordinary day of election in that year of councillors for counties and districts in England as determined in accordance with sections 37 and 37A of the Representation of the People Act 1983[^f00010].
+
+### 6. Funding[^key-89cc22ac9ce852956f8a884c97ff7c4c]
+
+(1) The constituent councils must meet any reasonably incurred costs of the Combined Authority, other than the costs mentioned in paragraph (2), to the extent that the Combined Authority has not decided to meet these costs from other resources available to the Combined Authority.
+
+(2) Subject to paragraph (4), the constituent councils must meet the costs of the expenditure reasonably attributable to the exercise of any mayoral function[^key-be5f1be1101bd64a2f9fa99eae68a09c], to the extent that the Mayor has not decided to meet these costs from other resources available to the Combined Authority.
+
+(3) Any amount payable by each of the constituent councils to ensure that the costs of the Combined Authority referred to in paragraphs (1) and (2) are met is to be determined by apportioning such costs between the constituent councils in such proportions as they may agree or, in default of such agreement, in equal proportions.
+
+(4) In relation to the expenditure mentioned in paragraph (2)—
+
+- (a) to the extent to which such expenditure is met by amounts payable under arrangements made under paragraph (3)—
+  - (i) the Mayor must agree with the Combined Authority the total expenditure mentioned in paragraph (2) in advance of incurring this expenditure; and
+  - (ii) in the absence of the agreement specified in paragraph (i), no such expenditure may be incurred; and
+- (b) any precept issued in relation to such expenditure under section 40 of the Local Government Finance Act 1992 (issue of precepts by major precepting authorities)[^f00011] is to be disregarded in any calculation of the costs of that expenditure.
+
+## PART 3 — Transport
+
+### 7. Power to pay grant[^key-aadec55e99e666717d4df523f4e7fccc]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 8. Local transport[^key-2cbe183a9fc0ae32d32550011a2d5fe2]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 9. Agreements between authorities[^key-fcc8683ceb3e353a552ea06c05a2a85f]
+
+(1)[^key-93c1c1363381a231f37580c69ad92148] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) The functions of the upper-tier authorities as local highway authorities specified in the following provisions of the 1980 Act are exercisable by the Combined Authority in relation to the Area—
+
+- (a)[^key-dc73bd940d9eb5c50a6612e5cfc04e9b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) section 62 (general power of improvement)[^f00017];
+- (c) section 64 (dual carriageways and roundabouts)[^f00018];
+- (d) section 65 (cycle tracks);
+- (e) section 66 (footways and guard-rails etc for publicly maintainable highways)[^f00019];
+- (f) section 68 (refuges);
+- (g) section 69 (subways)[^f00020];
+- (h) section 70 (footbridges over highways);
+- (i) section 73 (power to prescribe improvement line for widening street) [^f00021];
+- (j) section 74 (power to prescribe a building line)[^f00022];
+- (k) section 75 (variation of widths of carriageways and footways);
+- (l) section 76 (levelling of highways);
+- (m) section 77 (alteration of levels);
+- (n) section 78 (cutting off of corners);
+- (o) section 79 (prevention of obstruction to view at corners)[^f00023];
+- (p) section 80 (power to fence highways)[^f00024];
+- (q) section 81 (provision of highway boundary posts);
+- (r) section 91 (construction of bridge to carry existing highway maintainable at public expense);
+- (s) section 92 (reconstruction of bridge maintainable at public expense);
+- (t) section 93 (power to make orders as to reconstruction, improvement, etc of privately maintainable bridges)[^f00025];
+- (u) section 94 (powers of highway authorities and bridge owners to enter into agreements);
+- (v) section 96 (powers of highway and local authorities to plant trees, lay out grass verges etc);
+- (w) section 97 (lighting of highways)[^f00026];
+- (x) section 98 (delegation of lighting functions of highway authority);
+- (y) section 99 (metalling of highways);
+- (z) section 100 (drainage of highways)[^f00027]; and
+- (aa) section 101 (power to fill in roadside ditches etc).
+
+(3) The functions specified in paragraph (2)[^key-321c593711a43438ffba00e7992ec584] are exercisable by the Combined Authority concurrently with the constituent councils.
+
+(4) In this article, “local highway authority” has the meaning given by section 329(1) of the 1980 Act (further provision as to interpretation)[^f00028].
+
+## PART 4 — Additional functions
+
+### 10. Economic development and regeneration functions[^key-2086ecf87ddef1e6c591cfb226de9b83]
+
+The functions of the constituent councils specified in the following provisions are exercisable by the Combined Authority in relation to the Area—
+
+- (a)[^key-ec3512ffcf84ffe6fab039f24b0a6945] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) sections [^key-0b67ab6c68eb58fd69563634a44a23e4]... 17, 18A(1)(b), 514A and 560A of the Education Act 1996 (duties and powers related to the provision of education and training for persons over compulsory school age)[^f00030].
+
+### 11. General power of competence[^key-1b1b92cf1a9e3c79c631c0cf24b5d736]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 12. General functions of the Combined Authority exercisable only by the Mayor[^key-e364f95c807113505008f1a196256efb]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 13. Incidental provisions[^key-6a79e3f4067f7076ecfd1ad88b2659e2]
+
+The following provisions have effect in relation to the Combined Authority as if it were a local authority—
+
+- (a) section 113 of the Local Government Act 1972(power to place staff at the disposal of other local authorities)[^f00033];
+- (b)[^key-4886a246f918a966ec877bcaf54c032c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^key-77efda9944a7a193ebe32ba604244635] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 14.[^key-9aaa3bba6b5fc12585c8a8a0062d0ef6]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 15.[^key-cd6263081e0e84a9326a0545d66ef6d3]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 16.[^key-c27554bb2b9a911f40cb4e9cbb28f12a]
+
+In Part 2 of Schedule 3 (pension funds) to the Local Government Pension Scheme Regulations 2013[^f00038], at the end of the table insert—
+
+> |  |  |
+> | --- | --- |
+> | An employee of the Cambridgeshire and Peterborough Combined Authority established by the Cambridgeshire and Peterborough Combined Authority Order 2017 | Cambridgeshire County Council. |
+
+Signed by authority of the Secretary of State for Communities and Local Government
+
+Bourne of Aberystwyth
+
+Parliamentary Under Secretary of State
+
+Department for Communities and Local Government
+
+2nd March 2017
+
+## SCHEDULE — Constitution
+
+Article 4
+
+### 1. Membership[^key-65d34213c7b8c23d2d6faac077c91970]
+
+(1) Each constituent council must appoint one of its elected members to be a member of the Combined Authority.
+
+(2) Each constituent council must appoint another of its elected members to act as a member of the Combined Authority in the absence of the member appointed under sub-paragraph (1) (“the substitute member”).
+
+(3) The Local Enterprise Partnership must nominate one of its members to be a member of the Combined Authority.
+
+(4) The Local Enterprise Partnership must nominate another of its members to act as a member of the Combined Authority in the absence of the member appointed under sub-paragraph (3) (“the substitute member”).
+
+(5) The Combined Authority must appoint the member nominated by the Local Enterprise Partnership under sub-paragraph (3) as a member of the Combined Authority (“Local Enterprise Partnership Member”).
+
+(6) The Combined Authority must appoint the member nominated by the Local Enterprise Partnership under sub-paragraph (4) to act as a member of the Combined Authority in the absence of the member appointed under sub-paragraph (5) (“the substitute member”).
+
+(7) A person ceases to be a member or substitute member of the Combined Authority if they cease to be a member of—
+
+- (a) the constituent council that appointed them; or
+- (b) the Local Enterprise Partnership that nominated them.
+
+(8) A person may resign as a member or substitute member of the Combined Authority by written notice served on the proper officer of the constituent council that appointed them or, as the case may be, the chair or vice-chair of the Local Enterprise Partnership that nominated them, and the resignation takes effect on receipt of the notice by the proper officer of the council or chair or vice-chair of the Local Enterprise Partnership (as the case may be).
+
+(9) Where a member or substitute member of the Combined Authority’s appointment ceases by virtue of sub-paragraph (7) or (8)—
+
+- (a) the constituent council that made the appointment must, as soon as practicable, give written notice of that fact to the Combined Authority and appoint another of its elected members in that person’s place;
+- (b) the Local Enterprise Partnership must, as soon as practicable, give written notice of that fact to the Combined Authority and nominate another of its members in that person’s place, such nomination to take effect from the date on which the written notice of nomination is received by the Combined Authority.
+
+(10) A constituent council may at any time terminate the appointment of a member or substitute member appointed by it to the Combined Authority and appoint another one of its elected members in that person’s place.
+
+(11) Where a constituent council exercises its power under sub-paragraph (10), it must give written notice of the new appointment and the termination of the previous appointment to the Combined Authority and the new appointment shall take effect and the previous appointment terminate at the end of 14 days beginning with the day after the date on which the notice is given or such longer period not exceeding one month as is specified in the notice.
+
+(12) The Local Enterprise Partnership may at any time terminate the appointment of a Local Enterprise Partnership Member or substitute member nominated by it to the Combined Authority and nominate another of its members in that person’s place.
+
+(13) Where the Local Enterprise Partnership exercises its power under sub-paragraph (12), it must give written notice of the new nomination and the termination of the previous appointment to the Combined Authority.
+
+(14) The Combined Authority must appoint a Local Enterprise Partnership Member nominated under sub-paragraph (13) and the new appointment shall take effect and the previous appointment terminate at the end of one week beginning with that day after the date on which the notice is given or such longer period not exceeding one month as is specified in the notice.
+
+(15) The Combined Authority must appoint a Local Enterprise Partnership Member nominated under sub-paragraph (9)(b) or sub-paragraph (13) at the next meeting of the Combined Authority.
+
+### 2. Chair and vice-chair[^key-de6761a7740717710124cf365ee6fb05]
+
+(1) The Combined Authority must appoint a chair from among its constituent council members and the appointment is to be the first business transacted after the appointment of members of the Combined Authority, at the first meeting of the Combined Authority.
+
+(2) A person ceases to be chair of the Combined Authority if they cease to be a member of the Combined Authority.
+
+(3) If a vacancy arises in the office of chair, an appointment to fill the vacancy is to be made at the next ordinary meeting of the Combined Authority, or, if that meeting is to be held within 14 days of the vacancy arising, at the meeting following that meeting.
+
+(4) The chair of the Combined Authority ceases to hold office on 8th May 2017[^f00039].
+
+**3.**[^key-31462ffae059bf3e457ef6bd2add8afe] (1) The Combined Authority must appoint a vice-chair from among its members and the appointment is to be the first business transacted after the appointment of members of the Combined Authority and the chair of the Combined Authority, at the first meeting of the Combined Authority.
+
+(2) A person ceases to be vice-chair of the Combined Authority if they cease to be a member of the Combined Authority.
+
+(3) If a vacancy arises in the office of vice-chair, an appointment to fill the vacancy is to be made at the next ordinary meeting of the Combined Authority, or, if that meeting is to be held within 14 days of the vacancy arising, at the meeting following that meeting.
+
+(4) The vice-chair of the Combined Authority ceases to hold office on 8th May 2017.
+
+(5) The office of vice-chair of the Combined Authority is abolished with effect from 8th May 2017.
+
+### 4. Proceedings[^key-b2ec673a8cf382e747a60f9efd2ffa88]
+
+(1)[^key-3e2f7426b31c92537eb3bebadec7d1fb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) If the office of chair exists, no business is to be transacted at a meeting of the Combined Authority unless at least five members, including the chair or substitute members, appointed by the constituent councils are present at the meeting.
+
+(3) If the Mayor is in office, no business is to be transacted at a meeting of the Combined Authority unless at least five members are present at the meeting, and such members include—
+
+- (a) the Mayor, or the deputy Mayor acting in place of the Mayor, and
+- (b) at least four members appointed by the constituent councils, or substitute members.
+
+(4)[^key-c20d9c49953242abb776e06d04728b3a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5)[^key-bd7326e13e3fa5a0db47a61598d1b63d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(6) Members appointed from the Local Enterprise Partnership shall be non-voting members of the Combined Authority.
+
+(7) A decision on a question relating to the following matters requires a vote in favour at a meeting of the Combined Authority, at which all members of the Combined Authority are present, by a majority of at least two-thirds of all members appointed by the constituent councils to include the members appointed by the councils for the local government areas of Cambridgeshire and Peterborough, or substitute members acting in place of those members, present and voting on that question to be carried—
+
+- (a) the transport plan; and
+- (b) any spending plans or plans for the allocation of transport-related funding.
+
+(8) A decision to reject the mayoral budget, mayoral strategy or mayoral spending plan requires a vote in favour at a meeting of the Combined Authority, at which all members of the Combined Authority are present, by a majority of at least two-thirds of all members appointed by the constituent councils, or substitute members acting in place of those members, present and voting on that question to be carried.
+
+(9)[^key-f6889905c46385d75b63050abdf9cb9d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(10)[^key-d0269e1a433f6372153c480ff25705e4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(11) The provisions in the Schedule relating to the Mayor or deputy Mayor only have effect where the Mayor, or deputy Mayor, as the case may be, is in office.
+
+### 5. Overview and scrutiny committees[^key-d92bea53d2c067cc19f1614cafc52af0]
+
+(1) The Combined Authority must appoint at least one member of each of the constituent councils to the overview and scrutiny committee appointed by the Combined Authority, so that the members of the committee taken as a whole reflect so far as reasonably practicable the balance of political parties for the time being prevailing among members of the constituent councils.
+
+(2) An overview and scrutiny committee appointed by the Combined Authority may not include any substitute member of the Combined Authority.
+
+(3) The Combined Authority must appoint an appropriate person[^f00040] who is a member of one of the constituent councils to be the chair of the overview and scrutiny committee appointed by the Combined Authority.
+
+### 6. Records[^key-085a11b6cd14e09b21be28df1114d3fd]
+
+(1) The Combined Authority must make arrangements for the names of members and substitute members present at any meeting to be recorded.
+
+(2) Minutes of the proceedings of a meeting of the Combined Authority, or any committee or sub-committee of the Combined Authority, are to be kept in such form as the Combined Authority may determine.
+
+(3) Any such minutes are to be signed at the same or next suitable meeting of the Combined Authority, committee or sub-committee as the case may be, by the person presiding at that meeting.
+
+(4) Any minute purporting to be signed as mentioned in sub-paragraph (3) is to be received in evidence without further proof.
+
+(5) Until the contrary is proved, a meeting of the Combined Authority, committee or sub-committee, a minute of whose proceedings has been signed in accordance with this paragraph, is deemed to have been duly convened and held, and all the members and substitute members present at the meeting are deemed to have been duly qualified.
+
+(6) For the purposes of sub-paragraph (3), the next suitable meeting is the next meeting or, where standing orders made by the Combined Authority provide for another meeting of the authority, committee or sub-committee, to be regarded as suitable, either the next meeting or that other meeting.
+
+### 7. Standing orders[^key-41630295294bcd521f171043e874fbf0]
+
+The Combined Authority may make standing orders for the regulation of its proceedings and business and may vary or revoke any such orders.
+
+### 8. Remuneration and pensions[^key-4685d256332a9a665f2d56ae9d0d88ca][^key-3a5d13feab4783b31e22f30d9b1b65f0][^key-a9967c9c4aee871828de409433d90215]
+
+(1)[^key-ff51b9b905a81cea2630666ef1f7158f] Save as provided for in sub-paragraphs (2) to (4), no remuneration is to be payable by the Combined Authority to its members or to members of a constituent council referred to in sub-paragraph (2)(b) and (c), other than—
+
+- (a) allowances for travel and subsistence paid in accordance with a scheme drawn up by the Combined Authority;
+- (b) allowances payable in accordance with a scheme made under section 113E of the 2009 Act.
+
+(2) The Combined Authority may pay an allowance to—
+
+- (a) the Mayor;
+- (b) a member of a constituent council who is appointed to an overview and scrutiny committee of the Combined Authority or to a sub-committee of that committee; or
+- (c) a member of the Combined Authority or to a member of a constituent council who is appointed to the audit committee of the Combined Authority.
+
+(3) The Combined Authority may only pay an allowance under sub-paragraph (2) if—
+
+- (a) the Combined Authority has considered a report published by an independent remuneration panel established in accordance with article 16 of the Combined Authorities (Overview and Scrutiny Committees, Access to Information and Audit Committees) Order 2017 which contains recommendations for such an allowance; and
+- (b) the allowance paid by the Combined Authority does not exceed the amount specified in the recommendation made by that panel.
+
+(4)[^key-2f2b35667a7c7b01df44834fa2852095] Where the Combined Authority pays a relevant allowance to a person—
+
+- (a) that person is entitled to a pension paid in accordance with a scheme established under section 1 of the Public Service Pensions Act 2013;
+- (b) that allowance is to be treated as an amount in respect of which such a pension is payable under that scheme; and
+- (c) the Combined Authority must make such payments as may be required in respect of pension payable to a person in relation to that allowance.
+
+(5)[^key-9e1c2fc84a29bd68670cb4b8154b0103] In sub-paragraph (4), “relevant allowance” means—
+
+- (a) an allowance payable under sub-paragraph (2) to any person referred to in that sub-paragraph, which is not an allowance for travel and subsistence;
+- (b) an allowance payable in accordance with a scheme made under section 113E of the 2009 Act.
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order establishes the Cambridgeshire and Peterborough Combined Authority.
+
+Part 6 of the Local Democracy, Economic Development and Construction Act 2009 (“the 2009 Act”) provides for the establishment of combined authorities for the areas of two or more local authorities in England. Combined authorities are bodies corporate which may be given power to exercise specified functions in their area.
+
+The Secretary of State may only establish a combined authority for an area where a scheme for such an authority has been published under section 109 of the 2009 Act. This Order has been made following the publication of such a scheme on 6th May 2015 by the constituent councils whose areas together make up the combined area of the new authority. The scheme is available at: https://www.peterborough.gov.uk/upload/www.peterborough.gov.uk/council/strategies-polices-and-plans/Devolution-CambridgeshireAndPeterboroughAuthoritiesGovernanceReview-AppendixB-17June2016.pdf?inline=true
+
+.
+
+Part 2 of the Order establishes the new authority, to be known as the Cambridgeshire and Peterborough Combined Authority (“the Combined Authority”), and makes provision for its constitution and funding.
+
+Article 4 of and the Schedule to the Order make provision for the constitution of the Combined Authority. This is supplemental to the provision that is made by Part 1A of Schedule 12 to the Local Government Act 1972 (see paragraph (6A) of that Schedule, as amended by the 2009 Act).
+
+Article 5 of the Order creates the office of Mayor for the area of the Combined Authority. This article further specifies the term of office for the Mayor for the area of the Combined Authority, and the dates on which elections for the return of a Mayor shall take place and the intervals between elections.
+
+Article 6 makes provision for the funding, by the constituent councils, of the costs of the Combined Authority and the elected Mayor.
+
+Part 3 concerns the transport functions of the Combined Authority. Article 7 provides for the Combined Authority to pay grant to Cambridgeshire County Council and Peterborough City Council. Articles 8 to 10 provide for the exercise of specified transport functions by the Combined Authority.
+
+Part 4 confers additional functions on the Combined Authority. Article 11 provides for the powers in sections 1 to 8 of the Localism Act 2011 (general powers of authorities) to have effect in relation to the Combined Authority as they have effect in relation to a local authority. Article 12 sets out the functions of the Combined Authority which are to be only exercisable by the Mayor. Articles 13 to 16 make some general, incidental provisions relating to the Combined Authority to enable it to carry out its functions effectively.
+
+A full regulatory impact assessment has not been prepared as this instrument will have no impact on the costs of business or the voluntary sector.
+
+## Annotations
+
+[^f00001]: Footnote: [2009 c. 20](https://www.legislation.gov.uk/ukpga/2009/20). Section 103 was amended by sections 12 and 14 of the Cities and Local Government Devolution Act [2016 (c. 1)](https://www.legislation.gov.uk/ukpga/2016/1) (“the 2016 Act”). Section 104 was amended by sections 8 and 14 of, and Schedule 5 to, the 2016 Act. Section 105 was amended by sections 6, 9 and 14 of the 2016 Act. Section 105A was inserted by section 7 of the 2016 Act. Section 107A was inserted by section 2 of the 2016 Act. Section 107D was inserted by section 4 of the 2016 Act. Section 107G was inserted by section 5 of the 2016 Act. Section 113D was inserted by section 10 of the 2016 Act. Section 114 was amended by Schedule 5 to the 2016 Act. Subsections (2), (2A) and (3) of section 117 were substituted by section 13 of the Localism Act [2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20) and section 117(5) was inserted by paragraph 29 of Schedule 5 to the 2016 Act. Schedules 5A and 5B were inserted by Schedules 3 and 1 respectively to the 2016 Act.
+
+[^f00002]: Footnote: Section 103 provides that the Secretary of State may by order establish as a body corporate a combined authority for an area on condition that the area consists of the whole of two or more local government areas in England and that no part of the area forms part of (a) the area of another combined authority, (b) the area of an Economic Prosperity Board, or (c) an integrated transport area.
+
+[^f00003]: Footnote: Section 110(4) of the 2009 Act requires the Secretary of State when making an order to establish a combined authority to have regard to the need to reflect the identities and interests of local communities, and to secure effective and convenient local government.
+
+[^f00004]: Footnote: Section 105B was inserted by section 7 of the 2016 Act.
+
+[^key-adccba73e53e3612454aae1709e558e9]: Commencement: Art. 1 in force at 3.3.2017, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2017/251/article/1/2/b)
+
+[^key-ac38f9c4b581bfc259bdadb9bb635b07]: Commencement: Art. 2 in force at 3.3.2017, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2017/251/article/1/2/b)
+
+[^f00005]: Footnote: [1980 c. 66](https://www.legislation.gov.uk/ukpga/1980/66).
+
+[^key-74aa8054b096535601204207af76d6d0]: Textual amendment: Words in art. 2 omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [2(2)(a)](https://www.legislation.gov.uk/uksi/2026/519/regulation/2/2/a)
+
+[^key-70128797143917ff55109ffa7cdee240]: Textual amendment: Words in art. 2 omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2026/519/regulation/2/2/b)
+
+[^key-9b288417df5f57dc6fe1b90fcf7d6b25]: Textual amendment: Words in art. 2 omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [2(2)(c)](https://www.legislation.gov.uk/uksi/2026/519/regulation/2/2/c)
+
+[^key-1b34bb98e5c59380694c27b3350873b4]: Textual amendment: Words in art. 2 inserted (22.7.2026) by [The Combined Authorities and Combined County Authorities (Remuneration Panels for Member Allowances and Consequential Amendments) Order 2026 (S.I. 2026/719)](https://www.legislation.gov.uk/uksi/2026/719), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/719/article/1/2), [10(2)](https://www.legislation.gov.uk/uksi/2026/719/article/10/2)
+
+[^f00009]: Footnote: The Greater Cambridge Greater Peterborough Enterprise Partnership is registered as a company limited by guarantee, Company No: 07553554.
+
+[^key-afb331cd3c983b164ae28ab418094d4e]: Commencement: Art. 3 in force at 3.3.2017, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2017/251/article/1/2/b)
+
+[^key-5e06dd0643ffb4b61fc2ba4abfc4c7d1]: Commencement: Art. 4 in force at 3.3.2017, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2017/251/article/1/2/b)
+
+[^key-55ab6834e009b1a35c059f7f00f222fa]: Commencement: Art. 5 in force at 3.3.2017, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2017/251/article/1/2/b)
+
+[^f00010]: Footnote: [1983 c. 2](https://www.legislation.gov.uk/ukpga/1983/2). Section 37 was amended by section 17 of, and Schedule 3 to, the Greater London Authority Act [1999 (c. 29)](https://www.legislation.gov.uk/ukpga/1999/29) and by section 60(1) of the Local Government and Public Involvement in Health Act [2007 (c. 28)](https://www.legislation.gov.uk/ukpga/2007/28). Section 37A was inserted by section 60(2) of the Local Government and Public Involvement in Health Act 2007.
+
+[^key-89cc22ac9ce852956f8a884c97ff7c4c]: Commencement: Art. 6 in force at 3.3.2017, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2017/251/article/1/2/b)
+
+[^key-be5f1be1101bd64a2f9fa99eae68a09c]: Textual amendment: Words in [art. 6(2)](https://www.legislation.gov.uk/uksi/2017/251/article/6/2) substituted (4.6.2026) by [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2026/519/regulation/2/3)
+
+[^f00011]: Footnote: [1992 c. 14](https://www.legislation.gov.uk/ukpga/1992/14). Section 40 was amended by section 83 of the Greater London Authority Act 1999, section 79 of and paragraph 7 of Schedule 17 to the 2011 Act and section 5 of the 2016 Act.
+
+[^key-aadec55e99e666717d4df523f4e7fccc]: Textual amendment: [Art. 7](https://www.legislation.gov.uk/uksi/2017/251/article/7) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [2(4)(a)(i)](https://www.legislation.gov.uk/uksi/2026/519/regulation/2/4/a/i)
+
+[^key-2cbe183a9fc0ae32d32550011a2d5fe2]: Textual amendment: [Art. 8](https://www.legislation.gov.uk/uksi/2017/251/article/8) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [2(4)(a)(ii)](https://www.legislation.gov.uk/uksi/2026/519/regulation/2/4/a/ii)
+
+[^key-fcc8683ceb3e353a552ea06c05a2a85f]: Commencement: Art. 9 in force at 3.3.2017, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2017/251/article/1/2/b)
+
+[^key-93c1c1363381a231f37580c69ad92148]: Textual amendment: [Art. 9(1)](https://www.legislation.gov.uk/uksi/2017/251/article/9/1) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [2(4)(b)(i)](https://www.legislation.gov.uk/uksi/2026/519/regulation/2/4/b/i)
+
+[^key-dc73bd940d9eb5c50a6612e5cfc04e9b]: Textual amendment: [Art. 9(2)(a)](https://www.legislation.gov.uk/uksi/2017/251/article/9/2/a) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [2(4)(b)(ii)](https://www.legislation.gov.uk/uksi/2026/519/regulation/2/4/b/ii)
+
+[^f00017]: Footnote: Section 62 was amended by Schedule 10 to the Transport Act [1981 (c. 56)](https://www.legislation.gov.uk/ukpga/1981/56), Schedule 17 to the Local Government Act [1985 (c. 51)](https://www.legislation.gov.uk/ukpga/1985/51), and section 1(1) of the Traffic Calming Act [1992 (c. 30)](https://www.legislation.gov.uk/ukpga/1992/30).
+
+[^f00018]: Footnote: Section 64 was amended by Schedule 17 to the Local Government Act 1985 and Schedule 9 to the New Roads and Street Works Act [1991 (c. 22)](https://www.legislation.gov.uk/ukpga/1991/22).
+
+[^f00019]: Footnote: Section 66 was amended by paragraph 17 of Schedule 4 to the Local Government Act 1985, section 70(1) of the Countryside and Rights of Way Act [2000 (c. 37)](https://www.legislation.gov.uk/ukpga/2000/37), and paragraph 23 of Schedule 1 to the Infrastructure Act [2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7).
+
+[^f00020]: Footnote: Section 69 was amended by Schedule 17 to the Local Government Act 1985, paragraph 7 of Schedule 7 to the Local Government (Wales) Act [1994 (c. 19)](https://www.legislation.gov.uk/ukpga/1994/19), and paragraph 24 of Schedule 1 to the Infrastructure Act [2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7).
+
+[^f00021]: Footnote: Section 73 was amended by sections 37 and 46 of the Criminal Justice Act [1982 (c. 48)](https://www.legislation.gov.uk/ukpga/1982/48) and paragraph 62 of Schedule 25 to the Water Act [1989 (c. 15)](https://www.legislation.gov.uk/ukpga/1989/15).
+
+[^f00022]: Footnote: Section 74 was amended by sections 37 and 46 of the Criminal Justice Act 1982 and paragraph 62 of Schedule 25 to the Water Act 1989.
+
+[^f00023]: Footnote: Section 79 was amended by paragraph 18 of Schedule 17 to the Local Government Act 1985, paragraph 8 of Schedule 7 to the Local Government (Wales) Act 1994, sections 37 and 46 of the Criminal Justice Act 1982, and paragraph 52 of Schedule 9 to the Crime and Courts Act [2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22).
+
+[^f00024]: Footnote: Section 80 was amended by paragraph 19 of Schedule 4 to the Local Government Act 1985, paragraph 45(4) of Schedule 2 to the Planning (Consequential Provisions) Act [1990 (c. 11)](https://www.legislation.gov.uk/ukpga/1990/11) and paragraph 25 of Schedule 1 to the Infrastructure Act [2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7).
+
+[^f00025]: Footnote: Section 93 was amended by paragraph 27 of Schedule 1 to the Infrastructure Act [2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7).
+
+[^f00026]: Footnote: Section 97 was amended by paragraph 29 of Schedule 1 to the Infrastructure Act [2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7).
+
+[^f00027]: Footnote: Section 100 was amended by paragraph 21 of Schedule 4 to the Local Government Act 1985, paragraph 62 of Schedule 25 to the Water Act 1989, paragraph 36(1) of Schedule 1 to the Water Consolidation (Consequential Provisions) Act 1991, and paragraph 9 of Schedule 7 to the Local Government (Wales) Act 1994.
+
+[^key-321c593711a43438ffba00e7992ec584]: Textual amendment: Words in [art. 9(3)](https://www.legislation.gov.uk/uksi/2017/251/article/9/3) substituted (4.6.2026) by [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [2(4)(b)(iii)](https://www.legislation.gov.uk/uksi/2026/519/regulation/2/4/b/iii)
+
+[^f00028]: Footnote: This definition in section 329(1) of the 1980 Act was amended by paragraph 60(1) of Schedule 1 to the Infrastructure Act [2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7).
+
+[^key-2086ecf87ddef1e6c591cfb226de9b83]: Commencement: Art. 10 in force at 3.3.2017, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2017/251/article/1/2/b)
+
+[^key-ec3512ffcf84ffe6fab039f24b0a6945]: Textual amendment: [Art. 10(a)](https://www.legislation.gov.uk/uksi/2017/251/article/10/a) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [2(5)(a)(i)](https://www.legislation.gov.uk/uksi/2026/519/regulation/2/5/a/i)
+
+[^key-0b67ab6c68eb58fd69563634a44a23e4]: Textual amendment: Words in [art. 10(b)](https://www.legislation.gov.uk/uksi/2017/251/article/10/b) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [2(5)(a)(ii)](https://www.legislation.gov.uk/uksi/2026/519/regulation/2/5/a/ii)
+
+[^f00030]: Footnote: [1996 c. 56](https://www.legislation.gov.uk/ukpga/1996/56). Sections 15ZA, 15ZB, 15ZC, 18A, 514A and 560A were inserted by sections 41, 42, 45 to 48 of the Apprenticeships, Skills, Children and Learning Act [2009 (c. 22)](https://www.legislation.gov.uk/ukpga/2009/22), and by [S.I. 2010/1158](https://www.legislation.gov.uk/uksi/2010/1158). Section 15ZA was amended by paragraph 5 of Schedule 3(1) to the Children and Families Act [2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), by paragraph 44 of Schedule 14(2) to the Deregulation Act 2015 and by [S.I. 2015/1852](https://www.legislation.gov.uk/uksi/2015/1852). Section 15ZC was amended by [S.I. 2015/1852](https://www.legislation.gov.uk/uksi/2015/1852). Section 18A was also amended by the Education Act [2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), sections 30 and 82 and by paragraph 8 of Schedule 3(1) to the Children and Families Act 2014. Section 514A was amended by paragraph 50 of Schedule 3(1) to the Children and Families Act 2014. Section 560A was amended by paragraph 54 of Schedule 3(1) to the Children and Families Act 2014.
+
+[^key-1b1b92cf1a9e3c79c631c0cf24b5d736]: Textual amendment: [Art. 11](https://www.legislation.gov.uk/uksi/2017/251/article/11) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [2(5)(b)(i)](https://www.legislation.gov.uk/uksi/2026/519/regulation/2/5/b/i)
+
+[^key-e364f95c807113505008f1a196256efb]: Textual amendment: [Art. 12](https://www.legislation.gov.uk/uksi/2017/251/article/12) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [2(5)(b)(ii)](https://www.legislation.gov.uk/uksi/2026/519/regulation/2/5/b/ii)
+
+[^key-6a79e3f4067f7076ecfd1ad88b2659e2]: Commencement: Art. 13 in force at 3.3.2017, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2017/251/article/1/2/b)
+
+[^f00033]: Footnote: [1972 c. 70](https://www.legislation.gov.uk/ukpga/1972/70). Section 113 was amended by paragraph 151 of Schedule 4 to the National Health Service Reorganisation Act [1973 (c. 32)](https://www.legislation.gov.uk/ukpga/1973/32); by section 66(1) of and paragraph 13 of Schedule 9 to the National Health Service and Community Care Act [1990 (c. 19)](https://www.legislation.gov.uk/ukpga/1990/19); by paragraph 18 of Schedule 4 to the Health and Social Care (Community Health and Standards) Act [2003 (c. 43)](https://www.legislation.gov.uk/ukpga/2003/43); by paragraph 51(a) of Schedule 1 to the National Health Service (Consequential Provisions) Act [2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43); by paragraph 17 of Schedule 5, paragraph 3 of Schedule 7, and paragraph 3 of Schedule 17 to the Health and Social Care Act [2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7); by [S.I. 2000/90](https://www.legislation.gov.uk/uksi/2000/90); by [S.I. 2002/2469](https://www.legislation.gov.uk/uksi/2002/2469); and by [S.I. 2007/961](https://www.legislation.gov.uk/uksi/2007/961).
+
+[^key-4886a246f918a966ec877bcaf54c032c]: Textual amendment: [Art. 13(b)](https://www.legislation.gov.uk/uksi/2017/251/article/13/b) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [2(5)(b)(iii)](https://www.legislation.gov.uk/uksi/2026/519/regulation/2/5/b/iii)
+
+[^key-77efda9944a7a193ebe32ba604244635]: Textual amendment: [Art. 13(c)](https://www.legislation.gov.uk/uksi/2017/251/article/13/c) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [2(5)(b)(iii)](https://www.legislation.gov.uk/uksi/2026/519/regulation/2/5/b/iii)
+
+[^key-9aaa3bba6b5fc12585c8a8a0062d0ef6]: Textual amendment: [Art. 14](https://www.legislation.gov.uk/uksi/2017/251/article/14) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [2(5)(b)(iv)](https://www.legislation.gov.uk/uksi/2026/519/regulation/2/5/b/iv)
+
+[^key-cd6263081e0e84a9326a0545d66ef6d3]: Textual amendment: [Art. 15](https://www.legislation.gov.uk/uksi/2017/251/article/15) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [2(5)(b)(iv)](https://www.legislation.gov.uk/uksi/2026/519/regulation/2/5/b/iv)
+
+[^key-c27554bb2b9a911f40cb4e9cbb28f12a]: Commencement: Art. 16 in force at 3.3.2017, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2017/251/article/1/2/b)
+
+[^f00038]: Footnote: [S.I. 2013/2356](https://www.legislation.gov.uk/uksi/2013/2356). Schedule 3 was amended by regulations 31 and 32 of [S.I. 2015/755](https://www.legislation.gov.uk/uksi/2015/755).
+
+[^key-65d34213c7b8c23d2d6faac077c91970]: Commencement: Sch. para. 1 in force at 3.3.2017, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2017/251/article/1/2/b)
+
+[^key-de6761a7740717710124cf365ee6fb05]: Commencement: Sch. para. 2 in force at 3.3.2017, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2017/251/article/1/2/b)
+
+[^f00039]: Footnote: Section 107A(6) of the 2009 Act provides that the mayor for the area of a combined authority is by virtue of that office a member of, and the chair of, the combined authority.
+
+[^key-31462ffae059bf3e457ef6bd2add8afe]: Commencement: Sch. para. 3 in force at 3.3.2017, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2017/251/article/1/2/b)
+
+[^key-b2ec673a8cf382e747a60f9efd2ffa88]: Commencement: Sch. para. 4 in force at 3.3.2017, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2017/251/article/1/2/b)
+
+[^key-3e2f7426b31c92537eb3bebadec7d1fb]: Textual amendment: [Sch. para. 4(1)](https://www.legislation.gov.uk/uksi/2017/251/schedule/paragraph/4/1) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [2(6)](https://www.legislation.gov.uk/uksi/2026/519/regulation/2/6)
+
+[^key-c20d9c49953242abb776e06d04728b3a]: Textual amendment: [Sch. para. 4(4)](https://www.legislation.gov.uk/uksi/2017/251/schedule/paragraph/4/4) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [2(6)](https://www.legislation.gov.uk/uksi/2026/519/regulation/2/6)
+
+[^key-bd7326e13e3fa5a0db47a61598d1b63d]: Textual amendment: [Sch. para. 4(5)](https://www.legislation.gov.uk/uksi/2017/251/schedule/paragraph/4/5) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [2(6)](https://www.legislation.gov.uk/uksi/2026/519/regulation/2/6)
+
+[^key-f6889905c46385d75b63050abdf9cb9d]: Textual amendment: [Sch. para. 4(9)](https://www.legislation.gov.uk/uksi/2017/251/schedule/paragraph/4/9) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [2(6)](https://www.legislation.gov.uk/uksi/2026/519/regulation/2/6)
+
+[^key-d0269e1a433f6372153c480ff25705e4]: Textual amendment: [Sch. para. 4(10)](https://www.legislation.gov.uk/uksi/2017/251/schedule/paragraph/4/10) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [2(6)](https://www.legislation.gov.uk/uksi/2026/519/regulation/2/6)
+
+[^key-d92bea53d2c067cc19f1614cafc52af0]: Commencement: Sch. para. 5 in force at 3.3.2017, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2017/251/article/1/2/b)
+
+[^f00040]: Footnote: See paragraph 3(5) of Schedule 5A to the 2009 Act.
+
+[^key-085a11b6cd14e09b21be28df1114d3fd]: Commencement: Sch. para. 6 in force at 3.3.2017, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2017/251/article/1/2/b)
+
+[^key-41630295294bcd521f171043e874fbf0]: Commencement: Sch. para. 7 in force at 3.3.2017, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2017/251/article/1/2/b)
+
+[^key-4685d256332a9a665f2d56ae9d0d88ca]: Commencement: Sch. para. 8 in force at 3.3.2017, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2017/251/article/1/2/b)
+
+[^key-3a5d13feab4783b31e22f30d9b1b65f0]: Textual amendment: Sch. para. 8 substituted (27.3.2024) by [The Combined Authorities (Overview and Scrutiny Committees, Access to Information and Audit Committees) (Amendment) Regulations 2024 (S.I. 2024/430)](https://www.legislation.gov.uk/uksi/2024/430), [regs. 1(2)(a)(iii)](https://www.legislation.gov.uk/uksi/2024/430/regulation/1/2/a/iii), [26](https://www.legislation.gov.uk/uksi/2024/430/regulation/26)
+
+[^key-a9967c9c4aee871828de409433d90215]: Textual amendment: Words in Sch. para. 8 heading inserted (11.5.2026) by [The Local Government Pension Scheme (Amendment) (Elected Member Pensions) Regulations 2026 (S.I. 2026/346)](https://www.legislation.gov.uk/uksi/2026/346), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/346/regulation/1/1), [16(a)](https://www.legislation.gov.uk/uksi/2026/346/regulation/16/a)
+
+[^key-ff51b9b905a81cea2630666ef1f7158f]: Textual amendment: Sch. para. 8(1) substituted (22.7.2026) by [The Combined Authorities and Combined County Authorities (Remuneration Panels for Member Allowances and Consequential Amendments) Order 2026 (S.I. 2026/719)](https://www.legislation.gov.uk/uksi/2026/719), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/719/article/1/2), [10(3)(a)](https://www.legislation.gov.uk/uksi/2026/719/article/10/3/a)
+
+[^key-2f2b35667a7c7b01df44834fa2852095]: Textual amendment: [Sch. para. 8(4)(5)](https://www.legislation.gov.uk/uksi/2017/251/schedule/paragraph/8/4/5) inserted (11.5.2026) by [The Local Government Pension Scheme (Amendment) (Elected Member Pensions) Regulations 2026 (S.I. 2026/346)](https://www.legislation.gov.uk/uksi/2026/346), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/346/regulation/1/1), [16(c)](https://www.legislation.gov.uk/uksi/2026/346/regulation/16/c)
+
+[^key-9e1c2fc84a29bd68670cb4b8154b0103]: Textual amendment: Sch. para. 8(5) substituted (22.7.2026) by [The Combined Authorities and Combined County Authorities (Remuneration Panels for Member Allowances and Consequential Amendments) Order 2026 (S.I. 2026/719)](https://www.legislation.gov.uk/uksi/2026/719), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/719/article/1/2), [10(3)(b)](https://www.legislation.gov.uk/uksi/2026/719/article/10/3/b)

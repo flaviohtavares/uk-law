@@ -1,0 +1,31 @@
+---
+title: The Financial Services and Markets Act 2000 (Consequential Amendments and Repeals) Order 2001, section 384
+act: The Financial Services and Markets Act 2000 (Consequential Amendments and Repeals) Order 2001
+section: '384'
+status: revised-with-pending-changes
+text_date: '2018-01-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2001/3649/section/384
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Financial Services and Markets Act 2000 (Consequential Amendments and Repeals) Order 2001, section 384
+
+> **Warning: changes not yet applied to this text (1).** Text as at 2018-01-01. See https://www.legislation.gov.uk/changes/affected/uksi/2001/3649
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 384. Exclusion of offences under section 397 of the Financial Services and Markets Act 2000[^key-81ef5a10885431587e3a267982466a73]
+
+*Extent: E+W+S+N.I.*
+
+After paragraph (5) of Article 13 of the Consumer Protection (Northern Ireland) Order 1987 (offence of giving misleading information) insert—
+
+> (5A) A person is not guilty of an offence under paragraph (1) or (2) above if, in giving the misleading indication which would otherwise constitute an offence under either of those paragraphs, he is guilty of an offence under section 397 of the Financial Services and Markets Act 2000 (misleading statements and practices).
+
+.
+
+## Annotations
+
+[^key-81ef5a10885431587e3a267982466a73]: Commencement: Art. 384 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

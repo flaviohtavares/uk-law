@@ -1,0 +1,768 @@
+---
+title: The Accounts and Audit Regulations 2015
+id: uksi/2015/234
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2015-02-12'
+text_date: '2024-09-30'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2015/234
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2015/234/pdfs/uksiem_20150234_en.pdf
+- http://www.legislation.gov.uk/uksi/2015/234/pdfs/uksi_20150234_en.pdf
+- http://www.legislation.gov.uk/uksi/2015/234/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Accounts and Audit Regulations 2015
+
+> Text as at 2024-09-30.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2015 No. 234
+
+Local Government, England And Wales
+
+The Accounts and Audit Regulations 2015
+
+Made
+
+12th February 2015
+
+Laid before Parliament
+
+17th February 2015
+
+Coming into force
+
+1st April 2015
+
+[^c22358371]The Secretary of State makes the following Regulations in exercise of the powers conferred by sections 32, 43(2) and 46 of the Local Audit and Accountability Act 2014 .
+
+In accordance with section 32(3) of the Act he has consulted the Comptroller and Auditor General, such representatives of relevant authorities as he thinks appropriate, and the recognised supervisory bodies.[^key-066b69ad7cbca6ba69ce78f823b12fcd][^key-2c29e5196db6e35e2872eb8211a31e39]
+
+## PART 1 — Introductory
+
+### 1. Citation, commencement and application
+
+(1) These Regulations may be cited as the Accounts and Audit Regulations 2015 and come into force on 1st April 2015.
+
+(2) Regulations 2 to 21 and Schedule 1 apply in relation to any financial year [^c22358381] beginning on or after 1st April 2015.
+
+(3) These Regulations apply to relevant authorities [^c22358391] other than health service bodies [^c22358401].
+
+### 2. Interpretation
+
+(1) In these Regulations—
+
+- “**the 1989 Act**” means the Local Government and Housing Act 1989 [^c22358411];
+- “**the 2011 Act**” means the Police Reform and Social Responsibility Act 2011 [^c22358421];
+- “**the Act**” means the Local Audit and Accountability Act 2014;
+- “**audit letter**” means the annual audit letter to the relevant authority by the local auditor sent pursuant to the Code of Audit Practice published by the National Audit Office, 157-197 Buckingham Palace Road, Victoria, London SW1W 9SP and dated January 2015. Reference number: 10495-001;
+- “[^key-3b990863f5f1d88caa3aea9db0a47106]**auditor’s annual report**” has the same meaning as in—
+  - (a) the Code of Audit Practice published by the National Audit Office and dated April 2020 with Reference number: 11868-002; or
+  - (b) the Code of Audit Practice published by the National Audit Office and dated September 2024 with Reference number: 013422;
+- “**Category 1 authority**” means a relevant authority that either—
+  - (a) is not a smaller authority [^c22358431]; or
+  - (b) is a smaller authority that has chosen to prepare its accounts for the purpose of a full audit in accordance with regulation 8 of the Smaller Authorities Regulations;
+- “**Category 2 authority**” means a smaller authority which is not a Category 1 authority;
+- “**Category 2 authority with exempt status**” means a Category 2 authority that has certified itself as exempt under regulation 9(1) of the Smaller Authorities Regulations;
+- “**period for the exercise of public rights**” means the period of time referred to in regulation 14 within which the rights of objection, inspection and questioning of the local auditor conferred by sections 26 and 27 of the Act may be exercised;
+- “**Smaller Authorities Regulations**” means the Local Audit (Smaller Authorities) Regulations 2015 [^c22358441];
+- “**working day**” means any day other than a Saturday, a Sunday, Christmas Day, Good Friday or a day which is a bank holiday in England under the Banking and Financial Dealings Act 1971 [^c22358451].
+
+(2) Any reference in these Regulations to the “**responsible financial officer**” means—
+
+- (a) the person who, by virtue of—
+  - (i) section 151 of the Local Government Act 1972 [^c22358461] (financial administration);
+  - (ii) section 17(1) of the Norfolk and Suffolk Broads Act 1988 [^c22358471] (accounts);
+  - (iii) section 112(1) of the Local Government Finance Act 1988 [^c22358481] (financial administration as to certain authorities);
+  - (iv) section 6(1) of the 1989 Act (officer responsible for financial administration of certain authorities);
+  - (v) paragraph 13(6) of Schedule 7 to the Environment Act 1995 [^c22358491] (National Park Authorities);
+  - (vi) section 127(2) of the Greater London Authority Act 1999 [^c22358501];
+  - (vii) paragraph 6(1)(b) of Schedule 1 to the 2011 Act (police and crime commissioners);
+  - (viii) paragraph 4(1) of Schedule 2 to the 2011 Act (chief constables);
+  - (ix) paragraph 1(1) of Schedule 4 to the 2011 Act (Commissioner of Police of the Metropolis);
+
+  as the case may be, is responsible for the administration of the financial affairs of a relevant authority or, if no person is so responsible, the person who is responsible for keeping the accounts of such an authority; or
+- (b) if the person referred to in sub-paragraph (a) (P) is unable to act owing to absence or illness, such member of P's staff as is nominated by P for the purposes of section 114 of the Local Government Finance Act 1988 [^c22358511] (functions of responsible officer as regards reports) or where that section does not apply to the relevant authority, such member of staff as is nominated by P for the purposes of these Regulations.
+
+(3) Where a relevant authority is a corporation sole, references to “members of the authority meeting as a whole” are to a holder of that office of corporation sole.
+
+(4) The references in these Regulations to a “local auditor” in—
+
+- (a) regulation 12(3)(b); and
+- (b) regulation 15(2)(b)(iii),
+
+must, where such a reference concerns a Category 2 authority with exempt status, which is also an opted in authority [^c22358521] within the meaning of the Smaller Authorities Regulations, be construed as a reference to the specified person under regulation 3 of those Regulations.
+
+(5) Any reference in these Regulations to publication on an authority's website must be construed as—
+
+- (a) in the case of a Category 2 authority without its own website, a reference to publication on any website, provided that information so published is accessible by any member of the public without registration or payment;
+- (b) in the case of a Category 2 authority which is a parish meeting, a reference to—
+  - (i) publication on a website of the type specified in paragraph (a); or
+  - (ii) displaying the information in question in a conspicuous place in the area of the authority for at least 14 days.
+
+## PART 2 — Internal control
+
+### 3. Responsibility for internal control
+
+A relevant authority must ensure that it has a sound system of internal control which—
+
+- (a) facilitates the effective exercise of its functions and the achievement of its aims and objectives;
+- (b) ensures that the financial and operational management of the authority is effective; and
+- (c) includes effective arrangements for the management of risk.
+
+### 4. Accounting records and control systems
+
+(1) Subject to paragraphs (3) and (4), and, in so far as they are not in conflict with those paragraphs, to any instructions given by a relevant authority to its responsible financial officer, that officer must determine, on behalf of the authority—
+
+- (a) the form of its accounting records and supporting records; and
+- (b) its financial control systems.
+
+(2) The responsible financial officer for a relevant authority must ensure on behalf of that authority that the financial control systems determined by that officer in accordance with sub-paragraph (1)(b) are observed and that the accounting records of the authority are kept up to date.
+
+(3) The accounting records must, in particular, contain—
+
+- (a) entries from day to day of all sums of money received and expended by the authority and the matters to which its income and expenditure or receipts and payments relate; and
+- (b) a record of the assets and liabilities of the authority.
+
+(4) The financial control systems determined in accordance with paragraph (1)(b) must include–
+
+- (a) measures—
+  - (i) to ensure that the financial transactions of the authority are recorded as soon as, and as accurately as, reasonably practicable;
+  - (ii) to enable the prevention and the detection of inaccuracies and fraud, and the reconstitution of any lost records; and
+  - (iii) to ensure that risk is appropriately managed;
+- (b) identification of the duties of officers dealing with financial transactions and division of responsibilities of those officers.
+
+### 5. Internal audit
+
+(1) A relevant authority must undertake an effective internal audit to evaluate the effectiveness of its risk management, control and governance processes, taking into account public sector internal auditing standards or guidance.
+
+(2) Any officer or member of a relevant authority must, if required to do so for the purposes of the internal audit—
+
+- (a) make available such documents and records; and
+- (b) supply such information and explanations;
+
+as are considered necessary by those conducting the internal audit.
+
+(3) In this regulation “**documents and records**” includes information recorded in an electronic form.
+
+### 6. Review of internal control system
+
+(1) A relevant authority must, each financial year—
+
+- (a) conduct a review of the effectiveness of the system of internal control required by regulation 3; and
+- (b) prepare an annual governance statement;
+
+(2) If the relevant authority referred to in paragraph (1) is a Category 1 authority, following the review, it must—
+
+- (a) consider the findings of the review required by paragraph (1)(a)—
+  - (i) by a committee; or
+  - (ii) by members of the authority meeting as a whole; and
+- (b) approve the annual governance statement prepared in accordance with paragraph (1)(b) by resolution of—
+  - (i) a committee; or
+  - (ii) members of the authority meeting as a whole.
+
+(3) If the relevant authority referred to in paragraph (1) is a Category 2 authority, following the review it must—
+
+- (a) consider the findings of the review by members of the authority meeting as a whole; and
+- (b) approve the annual governance statement prepared in accordance with paragraph (1)(b) by resolution of members of the authority meeting as a whole.
+
+(4) The annual governance statement, referred to in paragraph (1)(b) must be—
+
+- (a) approved in advance of the relevant authority approving the statement of accounts in accordance with regulations 9(2)(b) or 12(2)(b) (as the case may be); and
+- (b) prepared in accordance with proper practices in relation to accounts [^c22358531].
+
+## PART 3 — Published accounts and audit – Category 1 authorities
+
+### 7. Statement of accounts for Category 1 authorities[^key-ce5bb85420cbc6cfb122dda8770c72c2][^key-70035a21a3337ec5545e0c0a5ba2fd67]
+
+(1) A statement of accounts prepared by a Category 1 authority under section 3(3) of the Act must be prepared in accordance with—
+
+- (a) these Regulations; and
+- (b) proper practices in relation to accounts.
+
+(2) The statement referred to in paragraph (1) must include such of the following accounting statements as are relevant to that authority's functions—
+
+- (a) housing revenue account;
+- (b) collection fund;
+- (c) firefighters' pension fund;
+- (d) any other statements relating to each and every other fund in relation to which the authority is required by any statutory provision to keep a separate account.
+
+(3) The statement referred to in paragraph (1) must include a note setting out the matters referred to in Schedule 1 (employee and police officer remuneration).
+
+(4) The statement referred to in paragraph (1) must include a note demonstrating whether the Dedicated Schools Grant (made under section 14 (power of Secretary of State to give financial assistance for purposes related to education or children etc) of the Education Act 2002 [^c22358541]) has been deployed in accordance with regulations made under the following provisions of the School Standards and Framework Act 1998 [^c22358551]—
+
+- (a) section 45A (determination of specified budgets of local authority);
+- (b) section 45AA (power to require local authorities to make initial determination of schools budget);
+- (c) section 47 (determination of school's budget share);
+- (d) section 48(1) and (2) (local authorities' financial schemes);
+- (e) section 138(7) (orders and regulations); and
+- (f) paragraph 1(7)(b) of Schedule 14 (revision of local authority schemes).
+
+(5) In the case of a relevant authority which is required by section 74 [^c22358561] of the 1989 Act to keep a housing revenue account, the statement of accounts referred to in paragraph (1) must also include an account in respect of a reserve for major repairs to property of the authority to which section 74(1) of the 1989 Act for the time being applies (to be called a major repairs reserve), showing in particular—
+
+- (a) a credit of an amount in respect of any charge for depreciation included in the housing revenue account for that financial year under item 8 of Part 2 of Schedule 4 to the 1989 Act;
+- (b) a debit in respect of any capital expenditure, within the meaning of section 16 (capital expenditure) of the Local Government Act 2003 [^c22358571], which was—
+  - (i) incurred in that financial year,
+  - (ii) met by payments out of the major repairs reserve, and
+  - (iii) in respect of any land, houses or other property to which section 74(1) of the 1989 Act for the time being applies, other than capital expenditure for the purpose of demolition of any such property;
+- (c) a debit in respect of any repayment, made in that financial year, of the principal of any amount borrowed where the repayment was met by payments out of the major repairs reserve; and
+- (d) a debit in respect of the meeting of any liability, in that financial year, in respect of credit arrangements, other than any liability which, in accordance with proper practices in relation to accounts, must be charged to a revenue account, where the meeting of that liability was met by payments out of the major repairs reserve.
+
+### 8. Narrative statements[^key-dbaddea9a63f8e5c7c0b43ae13524f08]
+
+(1) A Category 1 authority must prepare a narrative statement in accordance with paragraph (2) in respect of each financial year.
+
+(2) A narrative statement prepared under paragraph (1) must include comment by the authority on its financial performance and economy, efficiency and effectiveness in its use of resources over the financial year.
+
+### 9. Signing and approval of statement of accounts for Category 1 authorities[^key-2b8e8514d89f0e830ab02f7d09f06c4b]
+
+(1) The responsible financial officer for a Category 1 authority must, on behalf of that authority, in the following order—
+
+- (a) sign and date the statement of accounts, and confirm that they are satisfied that it presents a true and fair view of—
+  - (i) the financial position of the authority at the end of the financial year to which it relates; and
+  - (ii) that authority's income and expenditure for that financial year;
+- (b) commence the period for the exercise of public rights in accordance with regulations 14 and 15; and
+- (c) notify the local auditor of the date on which that period was so commenced.
+
+(2) Subject to paragraph (3), a Category 1 authority must, following the conclusion of the period for the exercise of public rights in regulation 14, in the following order—
+
+- (a) consider, either by way of a committee or by the members meeting as a whole, the statement of accounts;
+- (b) approve the statement of accounts by a resolution of that committee or meeting;
+- (c) ensure that the statement of accounts is signed and dated by the person presiding at the committee or meeting at which that approval is given.
+
+(3) The responsible financial officer for a Category 1 authority must re-confirm on behalf of that authority that they are satisfied that the statement of accounts presents a true and fair view of—
+
+- (a) the financial position of the authority at the end of the financial year to which it relates; and
+- (b) that authority's income and expenditure for that financial year,
+
+before that authority approves it.
+
+### 9A. Publication of statement of accounts, annual governance statement and narrative statement for Category 1 authorities: financial years 2015-2028[^key-0318a4546f9cc50ca8c0cab123e0e5e5]
+
+(1) This regulation applies to Category 1 authorities for the financial years in the period beginning with 1st April 2015 and ending with 31st March 2028.
+
+(2) Subject to paragraph (4), where an authority has not published its accountability statements for a financial year beginning in 2015, 2016, 2017, 2018, 2019, 2020, 2021 or 2022, it must do so after approving the statement of accounts in accordance with regulation 9(2) but not later than 13th December 2024.
+
+(3) Subject to paragraph (4), for the financial years listed in the first column of the following table, after approving the statement of accounts in accordance with regulation 9(2), an authority must publish its accountability statements on or before the corresponding date in the second column—
+
+| Financial year beginning in— | Date |
+| --- | --- |
+| 2023 | 28th February 2025 |
+| 2024 | 27th February 2026 |
+| 2025 | 31st January 2027 |
+| 2026 | 30th November 2027 |
+| 2027 | 30th November 2028. |
+
+(4) Where paragraph (5) applies an authority must—
+
+- (a) on or as soon as reasonably practicable after the last publication date, publish a notice stating that it has not been able to publish its accountability statements and its reasons for this, and
+- (b) publish its accountability statements as soon as reasonably practicable.
+
+(5) This paragraph applies in relation to an authority where the local auditor has not entered its opinion on the statement of accounts for a financial year before the last publication date and—
+
+- (a) on the day before the last publication date—
+  - (i) the local auditor is considering an objection made under section 27 of the Act (right to make objections at audit),
+  - (ii) a person who has objected under section 27 of the Act may still appeal under section 28(3) of the Act (declaration that item of account is unlawful),
+  - (iii) the local auditor is considering whether to make an application to the court under section 28(1) of the Act, or
+  - (iv) an application has been made under section 28(1) or an appeal has been brought under section 28(3) of the Act and the court has not yet determined the application or appeal, or
+- (b) for a financial year listed in paragraph (3), on the day before the last publication date the local auditor is not yet satisfied that the authority has made proper arrangements for securing economy, efficiency and effectiveness in its use of resources.
+
+(6) Where paragraph (5) does not apply and a Category 1 authority fails to comply with paragraph (2) or (3) (as the case may be), the authority must—
+
+- (a) on or as soon as reasonably practicable after the last publication date, publish a notice stating—
+  - (i) that it has not been able to publish its accountability statements,
+  - (ii) its reasons for this, and
+  - (iii) that it acknowledges that it must publish its accountability statements as soon as reasonably practicable,
+- (b) on or as soon as reasonably practicable after the last publication date, send a copy of the notice mentioned in sub-paragraph (a) to the Secretary of State, and
+- (c) as soon as reasonably practicable publish its accountability statements.
+
+(7) When accountability statements are published under this regulation, an authority must—
+
+- (a) keep copies of those documents for purchase by any person on payment of a reasonable sum, and
+- (b) ensure that those documents remain available for public access for a period of not less than five years beginning with the date on which those documents were first published in accordance with this regulation.
+
+(8) Where an authority publishes any statement or notice in accordance with this regulation, this must include publication on the authority’s website.
+
+(9) In this regulation—
+
+- “**accountability statements**” means—
+  - (a) the statement of accounts together with the opinion and any certificate, entered by the local auditor in accordance with section 20(2) of the Act (general duties of auditors);
+  - (b) the annual governance statement approved in accordance with regulation 6(2);
+  - (c) the narrative statement prepared in accordance with regulation 8;
+- “**last publication date**”, in relation to a financial year, means the date on or before which the accountability statements must be published in accordance with paragraphs (2) or (3).
+
+### 10. Publication of statement of accounts, annual governance statement and narrative statement for Category 1 authorities : financial years 2028 onwards[^key-71f104dcc94ec68be94af349154c2d18]
+
+(1)[^key-f7e3816c239514a9b18e7d0a3648d053] For a financial year beginning in 2028 or later[^key-b11f86804468156940989b13d04ad05d] ,[^M_F_ed4505b0-300a-46d0-c819-40f8dd364007] a Category 1 authority must, after approving the statement of accounts in accordance with regulation 9(2) but not later than 31st July of the financial year immediately following the end of the financial year to which the statement relates, publish (which must include publication on the authority's website)—
+
+- (a) the statement of accounts together with the opinion and any certificate[^key-bc056f7ee9d89f735f4127d699c6372b], entered by the local auditor in accordance with section 20(2) of the Act;
+- (b) the annual governance statement approved in accordance with regulation 6(2); and
+- (c) the narrative statement prepared in accordance with regulation 8.
+
+(2) Where[^key-a013badf83b22bc22145c2737de3628f] an audit of accounts has not been concluded before the date specified in paragraph (1) an authority must—
+
+- (a) publish (which must include publication on the authority's website) as soon as reasonably practicable on or after that date a notice stating that it has not been able to publish the statement of accounts and its reasons for this; and
+- (b) comply with paragraph (1) as if for “but not later than 31st July of the financial year immediately following the end of the financial year to which the statement relates” there were substituted “ as soon as reasonably practicable after the receipt of any report from the auditor which contains the auditor's final findings from the audit which is issued before the conclusion of the audit ”.
+
+(3) Where documents are published under paragraph (1) an authority must—
+
+- (a) keep copies of those documents for purchase by any person on payment of a reasonable sum; and
+- (b) ensure that those documents remain available for public access for a period of not less than five years beginning with the date on which those documents were first published in accordance with that paragraph.
+
+(4)[^key-a1aeb2922500f6eb8919a0c38fd6bd9d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4A)[^key-a1aeb2922500f6eb8919a0c38fd6bd9d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4B)[^key-a1aeb2922500f6eb8919a0c38fd6bd9d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4C)[^key-a1aeb2922500f6eb8919a0c38fd6bd9d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5)[^key-a1aeb2922500f6eb8919a0c38fd6bd9d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(6)[^key-a1aeb2922500f6eb8919a0c38fd6bd9d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(6A)[^key-a1aeb2922500f6eb8919a0c38fd6bd9d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(6B)[^key-a1aeb2922500f6eb8919a0c38fd6bd9d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART 4 — Published accounts and audit – Category 2 authorities
+
+### 11. Statement of accounts for Category 2 authorities
+
+(1) A Category 2 authority must ensure that the statement of accounts required by section 3(3) of the Act is prepared in accordance with these Regulations.
+
+(2) Subject to paragraph (3), a statement of accounts prepared by a Category 2 authority under section 3(3) of the Act must take the form of—
+
+- (a) an income and expenditure account; and
+- (b) a statement of balances,
+
+prepared in accordance with, and in the form specified in any annual return required by, proper practices in relation to accounts.
+
+(3) Where, in relation to a Category 2 authority and a financial year, the gross income or expenditure (whichever is the higher) is not more than £200,000 for that financial year or for either of the two immediately preceding financial years, the statement of accounts may, instead of complying with paragraph (2), take the form of a record of receipts and payments of the authority in relation to that financial year.
+
+(4) A record prepared in accordance with paragraph (3) must be prepared in accordance with, and in the form specified in any annual return required by, proper practices in relation to accounts.
+
+### 12. Signing and approval of statement of accounts for Category 2 authorities
+
+(1) The responsible financial officer for a Category 2 authority must, on behalf of that authority—
+
+- (a) in a case where the authority has prepared a record of receipts and payments, sign and date that record, and confirm that they are satisfied that it properly presents that authority's receipts and payments for the financial year to which the record relates; or
+- (b) in any other case, sign and date the income and expenditure account and statement of balances, and confirm that they are satisfied that they present fairly—
+  - (i) the financial position of the authority at the end of the financial year to which they relate; and
+  - (ii) that authority's income and expenditure for that financial year.
+
+(2) When the responsible financial officer has complied with paragraph (1), a Category 2 authority must, in the following order—
+
+- (a) consider the statement of accounts by the members meeting as a whole;
+- (b) approve the statement of accounts by resolution; and
+- (c) ensure the statement of accounts is signed and dated by the person presiding at the meeting at which that approval is given.
+
+(3) The responsible financial officer for a Category 2 authority must, as soon as reasonably practicable after the date on which the authority complies with paragraph (2)(c), on behalf of that authority—
+
+- (a) commence the period for the exercise of public rights in accordance with regulation 14 and regulation 15; and
+- (b) notify the local auditor of the date on which that period was so commenced.
+
+### 13. Publication of statement of accounts and annual governance statement for Category 2 authorities
+
+(1) Subject to paragraphs (3) and (6),[^key-53089df782d58778165826640fa0a9a3] a Category 2 authority must, after the conclusion of the period for the exercise of public rights but not later than 30th September of the financial year immediately following the end of the financial year to which the statement relates, publish (which must include publication on that authority's website)—
+
+- (a) the statement of accounts together with any certificate or opinion entered by the local auditor in accordance with section 20(2) of the Act; and
+- (b) the annual governance statement approved in accordance with regulation 6(3).
+
+(2) Where documents are published under paragraph (1), the authority must—
+
+- (a) keep copies of those documents for purchase by any person on payment of a reasonable sum; and
+- (b) ensure that those documents remain available for public access for a period of not less than five years beginning with the date on which those documents were first published in accordance with that paragraph.
+
+(3) Paragraphs (1) and (2) do not apply to a Category 2 authority with exempt status.
+
+(4) A Category 2 authority with exempt status must—
+
+- (a) keep copies of its statement of accounts for purchase by any person on payment of a reasonable sum; and
+- (b) after the conclusion of the period for the exercise of public rights in regulation 14, ensure that the statement of accounts that was published on the authority's website in accordance with regulation 15(2) remains available for public access for a period of not less than five years beginning with the date of such publication.
+
+(5) In the case of a Category 2 authority which is a parish meeting, and where the authority has displayed its statement of accounts in a conspicuous place in accordance with regulation 2(5)(b)(ii), paragraph (4)(b) does not apply.
+
+(6)[^key-47e887ac327be66ed301857341cd8ef3] Paragraph (1) applies in relation to the publication of documents relating to the financial year beginning in 2019 as if for “30th September” there were substituted “30th November”.
+
+## PART 5 — Inspection and notice procedure
+
+### 14. Period for the exercise of public rights
+
+(1) Any rights of objection, inspection and questioning of the local auditor conferred by sections 26 and 27 of the Act may only be exercised within a single period of 30 working days.
+
+(2) The period referred to in paragraph (1) starts with the day on which the period for the exercise of public rights is treated as having been commenced in accordance with regulation 15(3).
+
+(3) During the period for the exercise of public rights a relevant authority must make the documents referred to in section 26(1) of the Act available for inspection on reasonable notice at all reasonable times.
+
+### 15. Commencement of the period for the exercise of public rights
+
+(1) Subject to[^key-5a065db5adac9d93df07f4d7a565e7af] paragraphs (5), (6) and (7)[^key-05cb6decc40a6f56bbf8893411540045] the responsible financial officer for a relevant authority must, on behalf of the authority, ensure that commencement of the period for the exercise of public rights under regulation 9(1)(b) or 12(3)(a) (as the case may be), takes place on such a day that ensures that the period referred to in regulation 14(1) includes—
+
+- (a)[^key-4cc07a5590abcc8e29a8822c1c02590b][^key-ebc2ae85d5622ccd3b470c4a00f8cb2f][^key-43c50b5c631e3eabcd0a361b69efa055][^key-935941baebeefb77873ad5925259f88b][^key-d6d43857e804e57d78c693a12d008839][^key-2e5e502b6cb7ebc454fa3f65c65f0a29] the first 10 working days of June of the financial year immediately following the end of the financial year to which the statement relates, where that authority is a Category 1 authority; or
+- (b) the first 10 working days of July of the financial year immediately following the end of the financial year to which the statement relates, where that authority is a Category 2 authority.
+
+(1A)[^key-9e5a9412a5d9102fa5e1db2157c8ff10] Where the period for the exercise of public rights has not been commenced in accordance with paragraph (1) a relevant authority must—
+
+- (a) publish (which must include publication on the authority’s website) as soon as reasonably practicable a notice stating that it has not been able to commence the period for the exercise of public rights and its reasons for this; and
+- (b) comply with paragraph (1) as if for “on such a day” to the end there were substituted “as soon as reasonably practicable.”
+
+(2) The responsible financial officer for a relevant authority must, on behalf of that authority, publish (which must include publication on the authority's website)—
+
+- (a) the statement of accounts, accompanied by—
+  - (i) a declaration, signed by that officer to the effect that—
+    - (aa) the status of the statement of accounts is unaudited and that the statement of accounts as published may be subject to change; or
+    - (bb) in the case of a Category 2 authority with exempt status, the statement of accounts will not be audited on account of that authority's self-certified status as exempt, unless either a request for an opportunity to question the auditor about the authority's accounting records under section 26(2) or an objection under section 27(1) of the Act, results in the involvement of the local auditor; and that in either of those circumstances the audit will be limited to that required by section 20 of the Act as modified by the Smaller Authorities Regulations [^c22358581];
+  - (ii) the annual governance statement prepared in accordance with regulation 6(1)(b), whether or not that statement has been approved in accordance with regulation 6(2)(b) or 6(3)(b) (as the case may be); and
+  - (iii) where the authority in question is a Category 1 authority, the narrative statement prepared in accordance with regulation 8;
+- (b) a statement that sets out—
+  - (i) the period for the exercise of public rights;
+  - (ii) details of the manner in which notice should be given of an intention to inspect the accounting records and other documents;
+  - (iii) the name and address of the local auditor;
+  - (iv) the provisions contained in section 26 (inspection of documents etc.) and section 27 (right to make objections at audit) of the Act, as they have effect in relation to the authority in question; and
+  - (v) in the case of a Category 2 authority with exempt status, the provisions contained in section 25 of the Act (inspection of documents etc.) as they have effect in relation to the authority in question.
+
+(3) The period for the exercise of public rights is treated as being commenced on the day following the day on which all of the obligations specified in paragraph (2) have been fulfilled, insofar as they are applicable to the authority in question.
+
+(4) In this regulation “**statement of accounts**” means—
+
+- (a) in relation to a Category 1 authority, a statement of accounts that has been signed, dated and confirmed in accordance with regulation 9(1)(a);
+- (b) in relation to a Category 2 authority, a statement of accounts that has been considered, approved, signed and dated in accordance with the procedure set out in regulation 12(2);
+
+but has not yet had entered on it a certificate in accordance with section 20(2)(a) of the Act that the auditor has completed the audit in accordance with the Act.
+
+(5)[^key-bd9dc5b36aa918dfcc9b6f4f05b8eb4d] Paragraph (1) applies in relation to accounts relating to the financial year beginning in 2019 as if for from “on such a day” to the end there were substituted “on or before the first working day of September 2020”.
+
+(6)[^key-1905339f8be14a187716159adb520721] Paragraph (1) applies in relation to accounts of a Category 1 authority[^key-fe5d4b86351d6024aeb0f9777b15c2fa] relating to the financial years beginning in 2020 and 2021 as if from “on such a day” to the end there were substituted “on or before the first working day of August of the financial year immediately following the end of the financial year to which the statement relates.”
+
+(7)[^key-48131d145350f3ab22f4741d3540b837] Paragraph (1) applies in relation to accounts of a Category 1 authority for the financial years beginning in 2024, 2025, 2026 and 2027 as if from “on such a day” to the end there were substituted “on or before the first working day of July of the financial year immediately following the end of the financial year to which the statement relates.”
+
+### 16. Notice of conclusion of audit
+
+(1) As soon as reasonably practicable after conclusion of an audit, a relevant authority must publish (which must include publication on the authority's website) a statement of the matters set out in paragraph (2).
+
+(2) The matters referred to in paragraph (1) are—
+
+- (a) a statement—
+  - (i) that the audit has been concluded and that the statement of accounts has been published; and
+  - (ii) of the rights of inspection conferred on local government electors by section 25 of the Act;
+- (b) the address at which, and the hours during which, those rights may be exercised.
+
+(3) This regulation does not apply to a Category 2 authority with exempt status.
+
+### 17. Written notice of objection
+
+Any written notice of objection given under section 27 of the Act must state—
+
+- (a) the facts on which the local government elector relies;
+- (b) the grounds on which the objection is being made; and
+- (c) so far as is possible, particulars of—
+  - (i) any item of account which is alleged to be contrary to law; and
+  - (ii) any matter in respect of which it is proposed that the auditor could make a public interest report under section 24 of, and paragraph 1 of Schedule 7 to, the Act.
+
+## PART 6 — Miscellaneous
+
+### 18. Summary statement of accounts— Greater London Authority
+
+The summary statement of accounts which the Greater London Authority (“**the Authority**”) is required to prepare under section 134 (summary statement of accounts of Authority and other bodies) of the Greater London Authority Act 1999 [^c22358591] must be prepared in accordance with proper practices in relation to accounts and must include—
+
+- (a) a summary of the income and expenditure of the Authority;
+- (b) a summary of the income and expenditure of each of the functional bodies [^c22358601] and the London Pensions Fund Authority;
+- (c) a summary of the capital expenditure of the Authority;
+- (d) a summary of the capital expenditure of each of the functional bodies and the London Pensions Fund Authority.
+
+### 19. Joint boards, combined authorities , combined county authorities and National Park authorities[^key-44a2198e66f9871a1bc32ec7c8247a1d]
+
+(1) Any joint board, combined authority , combined county authority[^key-bb761d53af7d4427b074fc6bb4de9cf2] or National Park authority to which these Regulations apply must deposit with each constituent authority—
+
+- (a) any documents it makes available for inspection under section 25(1) of the Act, as soon as reasonably practicable after notice has been given under regulation 16(1) or documents have been published under regulation 13(4) (as the case may be) in the case of a Category 2 authority with exempt status;
+- (b) the annual governance statement prepared in accordance with regulation 6(2) or (3) (as the case may be); and
+- (c) in the case of a Category 1 authority, the narrative statement prepared in accordance with regulation 8.
+
+(2) In this regulation, “**constituent authority**” means any county, district, London borough or parish council for the time being entitled to appoint members of the board or authority in question; and in relation to a National Park authority includes—
+
+- (a) the Secretary of State; and
+- (b) Natural England.
+
+### 20. Publication of annual audit letter or auditor’s annual report[^key-ea21742323b9b2d1b4c6c8456ba9bb77]
+
+(1) Where [^key-ea05ffbd70b0cf431648c4d7769488ef]... a relevant authority receives any audit letter or auditor’s annual report[^key-c9fe4f8ddf7266e69f9bb0a0e80ca515] from the local auditor, the members of the relevant authority, or, in the case of a Category 1 authority, a committee of that authority, must meet to consider that letter or report[^key-b868420126a8d97e17ab56c0c63d986e] as soon as reasonably practicable.
+
+(2) Following consideration of the letter or report[^key-ef1b94403b009f0d172b027eb65130cf] in accordance with paragraph (1) the authority must—
+
+- (a) publish (which must include publication on the authority's website) the audit letter or auditor’s annual report[^key-12d29692ee7beb8a8f9a1fda3ce282c5] received from the local auditor; and
+- (b) make copies available for purchase by any person on payment of such sum as the relevant authority may reasonably require.
+
+### 21. Transitory provisions
+
+In relation to the financial years beginning in 2015 and 2016, these Regulations apply with the following modifications—
+
+- (a) in regulation 10, paragraph (1) is to be read as if for “31st July” there were substituted “ 30th September ”;
+- (b) in regulation 15, paragraph (1)(a) is to be read as if for “June” there were substituted “ July ”.
+
+### 22. Revocation and savings
+
+(1) Subject to paragraph (2), the instruments specified in the first column of the table in Schedule 2 are revoked to the extent mentioned in the second column of that table.
+
+(2) Notwithstanding paragraph (1), the provisions revoked by that paragraph shall continue to have effect in relation to any financial year ending on or before 31st March 2015.
+
+Signed by authority of the Secretary of State for Communities and Local Government
+
+Kris Hopkins
+
+Parliamentary Under Secretary of State
+
+Department for Communities and Local Government
+
+## SCHEDULE 1 — Employee and police officer remuneration
+
+Regulation 7(3)
+
+### 1. Employees and senior police officers with annual remuneration of £50,000 or more
+
+(1) Subject to sub-paragraph (2), a Category 1 authority must include in its statement of accounts, a note of the number of employees or senior police officers in the financial year to which the accounts relate whose remuneration fell in each bracket of a scale in multiples of £5,000 starting with £50,000.
+
+(2) Sub-paragraph (1) does not apply in relation to persons to whom paragraph 2 (senior employees and relevant police officers) applies.
+
+### 2. Senior employees and relevant police officers
+
+(1) A Category 1 authority must include in its statement of accounts a note of the remuneration, set out according to the categories listed in sub-paragraph (2), and the relevant authority's contribution to the person's pension, by the relevant authority during the financial year to which the statement relates, of—
+
+- (a) senior employees, or
+- (b) relevant police officers,
+
+in respect of their employment by the relevant authority or in their capacity as a police officer, whether on a permanent or temporary basis, to be listed individually in relation to such persons who must nevertheless be identified by way of job title only (except for persons whose salary is £150,000 or more per year, who must also be identified by name).
+
+(2) The categories are—
+
+- (a) the total amount of salary, fees or allowances paid to or receivable by the person in the current and previous financial year;
+- (b) the total amount of bonuses so paid or receivable in the current and previous financial year;
+- (c) the total amount of sums paid by way of expenses allowance that are chargeable to United Kingdom income tax, and were paid to or receivable by the person;
+- (d) the total amount of any compensation for loss of employment paid to or receivable by the person, and any other payments made to or receivable by the person in connection with the termination of their employment by the relevant authority, or, in the case of a relevant police officer, the total amount of any payment made to a relevant police officer who ceases to hold office before the end of a fixed term appointment;
+- (e) the total estimated value of any benefits received by the person otherwise than in cash that do not fall within paragraphs (a) to (d) above, are emoluments of the person, and are received by the person in respect of their employment by the relevant authority or in their capacity as a police officer; and
+- (f) in relation to relevant police officers, any payments, whether made under the Police Regulations 2003 [^c22358611] or otherwise, which do not fall within paragraphs (a) to (e) above.
+
+### 3. Interpretation
+
+In this Schedule—
+
+- “**contribution to the person's pension**” means an amount to be calculated as follows—
+  - (a) in relation to contributions to the local government pension scheme established under section 1 of the Public Service Pensions Act 2013 [^c22358621], the sum of—
+    - (i) the primary rate of the employer's contribution specified in the rates and adjustment certificate prepared under regulation 62 (actuarial valuations of pension funds) of the Local Government Pension Scheme Regulations 2013 [^c22358631], being the amount appropriate for that authority calculated in accordance with the certificate and regulation 67(4) (employer's contributions) of those Regulations, multiplied by the person's pensionable pay; and
+    - (ii) if applicable, any additional contribution under regulations 16 or 68(3) of those Regulations;
+  - (b) in relation to contributions to the firefighters' pension scheme established under the Fire Services Acts 1947 and 1959 [^c22358641], the percentage of the aggregate of the pensionable pay calculated for the purposes of paragraph G2(3) and (4) of Schedule 2 to the Firemen's Pension Scheme Order 1992 [^c22358651], multiplied by the person's pensionable pay;
+  - (c) in relation to contributions to the firefighters' pension scheme established under the Fire and Rescue Services Act 2004 [^c22358661], the percentage of the aggregate of the pensionable pay calculated for the purposes of paragraphs (2) and (3) of Rule 2 of Part 13 of Schedule 1 to the Firefighters' Pension Scheme (England) Order 2006 [^c22358671], multiplied by the person's pensionable pay;
+  - (d) in relation to contributions to the firefighters' pension scheme established under the Firefighters' Pension Scheme (England) Regulations 2014 [^c22358681], the employer contribution rate on the member's pensionable earnings determined in accordance with regulation 117 of those Regulations, multiplied by the person's pensionable pay; or
+  - (e) in relation to contributions to police pension schemes established under the Police Pensions Regulations 1987 [^c22358691] or the Police Pensions Regulations 2006 [^c22358701], the percentage of pensionable pay specified in regulation 5(1) (police authority contributions) of the Police Pension Fund Regulations 2007 [^c22358711], multiplied by the person's pensionable pay;
+- “**employee**” includes a member of the relevant authority and a holder of an office under the relevant authority, but does not include a person who is an elected councillor, and “**employment**” is to be construed accordingly;
+- “**relevant police officer**” means—
+  - (a) in relation to a police force maintained under section 2 (maintenance of police forces) of the Police Act 1996 [^c22358721], the chief constable,
+  - (b) in relation to the metropolitan police force, the Commissioner of Police of the Metropolis,
+  - (c) in relation to the City of London police force, the Commissioner of Police for the City of London, and
+  - (d) any other senior police officer whose salary is £150,000 or more per year;
+- “**remuneration**” means all amounts paid to or receivable by a person, and includes sums due by way of expenses allowance (so far as those sums are chargeable to United Kingdom income tax), and the estimated money value of any other benefits received by an employee otherwise than in cash;
+- “**senior employee**” means an employee whose salary is £150,000 or more per year, or an employee whose salary is £50,000 or more per year (to be calculated pro rata for an employee employed for fewer than the usual full time hours for the relevant authority concerned) who falls within at least one of the following categories—
+  - (a) a person employed by a relevant authority to which section 2 (politically restricted posts) of the 1989 Act applies who—
+    - (i) has been designated as head of paid service under section 4(1)(a) of that Act;
+    - (ii) is a statutory chief officer within the meaning of section 2(6) [^c22358731] of that Act; or
+    - (iii) is a non-statutory chief officer within the meaning of section 2(7) of that Act;
+  - (b) a person who is the head of staff for any relevant authority to which section 4 of the 1989 Act does not apply; or
+  - (c) a person who has responsibility for the management of the relevant authority to the extent that the person has power to direct or control the major activities of the authority (in particular activities involving the expenditure of money), whether solely or collectively with other persons; and
+- “**senior police officer**” means a member of a police force holding a rank above that of superintendent.
+
+## SCHEDULE 2 — Revocations
+
+Regulation 22
+
+| *Instrument and Reference* | *Extent of revocation* |
+| --- | --- |
+| The Accounts and Audit (England) Regulations 2011 (S.I. 2011/817) | The whole Regulations. |
+| The Local Policing Bodies (Consequential Amendments) Regulations 2011 (S.I. 2011/3058) | Regulation 27. |
+| The Government Resources and Accounts Act 2000 (Audit of Public Bodies) Order 2012 (S.I. 2012/854) | Article 4(4). |
+| The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235) | In Schedule 2, paragraph 163. |
+
+*(This note is not part of the Regulations)*
+
+Section 3 of the Local Audit and Accountability Act 2014 (“**the Act**”) requires a relevant authority (as defined in Schedule 2 to the Act), other than a health service body, to keep adequate accounting records and to prepare a statement of accounts. Section 25 requires a relevant authority to make various documents available for inspection to local electors. Sections 26 and 27 grant various rights of inspection and objection and to question the local auditor to local electors and other interested persons.
+
+These Regulations set out the detailed requirements on a relevant authority in relation to the duties and rights set out above. In particular, there are detailed rules for the preparation, approval and publication of the statement of accounts.
+
+These Regulations revoke the Accounts and Audit Regulations 2011 (S.I. 2011/817), although those regulations continue to have effect in relation to financial years ending on or before 31st March 2015.
+
+Part 1 defines the relevant terms. In particular, it defines the distinction between a Category 1 and a Category 2 authority for the purpose of setting out the different procedures for the preparation, signing, approval and publication of the statement of accounts in respect of each.
+
+Part 2 sets out the requirements on all relevant authorities in relation to internal control, including requirements in respect of accounting records, internal audit and review of the system of internal control.
+
+Part 3 and Schedule 1 set out the specific requirements for a Category 1 authority in relation to the preparation, approval and publication of the statement of accounts required by section 3(3) of the Act. Part 4 sets out the equivalent requirements in relation to Category 2 authorities.
+
+Part 5 sets out the requirements on a relevant authority in relation to the exercise of public rights of inspection, objection and the questioning of the local auditor under sections 26 and 27 of the Act. It also prescribes the period during which the rights conferred by sections 26 and 27 of the Act may be exercised. In addition, it sets out the required content of a notice of objection given in pursuance of section 27 of the Act.
+
+Part 6 contains miscellaneous provisions including provisions concerning the Greater London Authority, joint boards, combined authorities and National Park authorities as well as in relation to the publication of an annual audit letter. It contains transitory provisions which allow Category 1 authorities additional time to publish the statement of accounts and commence the period for the exercise of public rights in the financial years commencing 1st April 2015 and 1st April 2016. It contains a provision revoking the Accounts and Audit Regulations 2011 along with various legislation amending those regulations. Finally it contains a saving provision.
+
+Schedule 1 contains a list of the required matters to be included in the statement of accounts for a Category 1 authority in relation to employee and police officer remuneration.
+
+Schedule 2 sets out a list of instruments revoked or partially revoked by these Regulations and the extent of those revocations.
+
+An impact assessment has not been produced for this instrument as no impact on the private or voluntary sectors is foreseen.
+
+## Annotations
+
+[^c22358371]: Marginal citation: [2014 c. 2](https://www.legislation.gov.uk/ukpga/2014/2); see also section 134(6) of the [Greater London Authority Act 1999 (c.29)](https://www.legislation.gov.uk/ukpga/1999/29) (amended by paragraph 43 of Schedule 12 to the Local Audit and Accountability Act 2014) and [S.I. 2015/179](https://www.legislation.gov.uk/uksi/2015/179) (C.11).
+
+[^key-066b69ad7cbca6ba69ce78f823b12fcd]: Modification: Regulations modified by S.I. 2009/276, reg. 9(4) (as substituted (E.) (5.9.2018) by [The Local Government (Structural Changes) (General) (Amendment) Regulations 2018 (S.I. 2018/930)](https://www.legislation.gov.uk/uksi/2018/930), [regs. 1](https://www.legislation.gov.uk/uksi/2018/930/regulation/1), [7(5)](https://www.legislation.gov.uk/uksi/2018/930/regulation/7/5))
+
+[^key-2c29e5196db6e35e2872eb8211a31e39]: Modification: Regulations modified by S.I. 2009/276, reg. 10(2) (as substituted (E.) (5.9.2018) by [The Local Government (Structural Changes) (General) (Amendment) Regulations 2018 (S.I. 2018/930)](https://www.legislation.gov.uk/uksi/2018/930), [regs. 1](https://www.legislation.gov.uk/uksi/2018/930/regulation/1), [7(6)](https://www.legislation.gov.uk/uksi/2018/930/regulation/7/6))
+
+[^c22358381]: Marginal citation: See section 3(2) of the Local Audit and Accountability Act 2014 for the definition of “financial year”.
+
+[^c22358391]: Marginal citation: See section 2 of and Schedule 2 to the Local Audit and Accountability Act 2014 for the definition of “relevant authority”.
+
+[^c22358401]: Marginal citation: See section 3(9) of the Local Audit and Accountability Act 2014 for the definition of “health service body”.
+
+[^c22358411]: Marginal citation: [1989 c. 42](https://www.legislation.gov.uk/ukpga/1989/42).
+
+[^c22358421]: Marginal citation: [2011 c. 13](https://www.legislation.gov.uk/ukpga/2011/13).
+
+[^key-3b990863f5f1d88caa3aea9db0a47106]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2015/234/regulation/2/1) inserted (30.9.2024) by [The Accounts and Audit (Amendment) Regulations 2024 (S.I. 2024/907)](https://www.legislation.gov.uk/uksi/2024/907), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/907/regulation/1/3), [2(2)](https://www.legislation.gov.uk/uksi/2024/907/regulation/2/2)
+
+[^c22358431]: Marginal citation: See section 6 of the Local Audit and Accountability Act 2014 for the definition of “smaller authority”.
+
+[^c22358441]: Marginal citation: [S.I. 2015/184](https://www.legislation.gov.uk/uksi/2015/184).
+
+[^c22358451]: Marginal citation: [1971 c. 80](https://www.legislation.gov.uk/ukpga/1971/80).
+
+[^c22358461]: Marginal citation: [1972 c. 70](https://www.legislation.gov.uk/ukpga/1972/70).
+
+[^c22358471]: Marginal citation: [1988 c. 4](https://www.legislation.gov.uk/ukpga/1988/4).
+
+[^c22358481]: Marginal citation: [1988 c. 41](https://www.legislation.gov.uk/ukpga/1988/41).
+
+[^c22358491]: Marginal citation: [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25).
+
+[^c22358501]: Marginal citation: [1999 c. 29](https://www.legislation.gov.uk/ukpga/1999/29).
+
+[^c22358511]: Marginal citation: [1988 c. 41](https://www.legislation.gov.uk/ukpga/1988/41). Section 114 was amended by section 130(1), and (2) of the Greater London Authority Act 1999, section 99 of and paragraphs 180 and 188 of Part 3 of Schedule 16 to the Police Reform and Social Responsibility Act 2011.
+
+[^c22358521]: Marginal citation: See regulation 2 of the Local Audit (Smaller Authorities) Regulations 2015, [S.I. 2015/184](https://www.legislation.gov.uk/uksi/2015/184) for the definition of “opted in authority”.
+
+[^c22358531]: Marginal citation: See section 21 of the [Local Government Act 2003 (c.26)](https://www.legislation.gov.uk/ukpga/2003/26) for the definition of “proper practices in relation to accounts”.
+
+[^key-ce5bb85420cbc6cfb122dda8770c72c2]: Modification: Reg. 7 modified (26.11.2018) by [The Local Government (Boundary Changes) Regulations 2018 (S.I. 2018/1128)](https://www.legislation.gov.uk/uksi/2018/1128), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/1/1), [21(2)(a)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/21/2/a) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/1/3))
+
+[^key-70035a21a3337ec5545e0c0a5ba2fd67]: Modification: Reg. 7 modified (26.11.2018) by [The Local Government (Boundary Changes) Regulations 2018 (S.I. 2018/1128)](https://www.legislation.gov.uk/uksi/2018/1128), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/1/1), [22(2)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/22/2) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/1/3))
+
+[^c22358541]: Marginal citation: [2002 c. 32](https://www.legislation.gov.uk/ukpga/2002/32). Section 14 has been amended by section 59 of the [Children Act 2004 (c. 31)](https://www.legislation.gov.uk/ukpga/2004/31) and paragraph 23 of Schedule 14 to the [Education Act 2005 (c. 18)](https://www.legislation.gov.uk/ukpga/2005/18).
+
+[^c22358551]: Marginal citation: [1998 c. 31](https://www.legislation.gov.uk/ukpga/1998/31). Section 45A was inserted by section 41 of the [Education Act 2002 (c. 32)](https://www.legislation.gov.uk/ukpga/2002/32), and was amended by paragraph 3 of Schedule 16 and Part 4 of Schedule 19 to the Education Act 2005, section 202 of the [Apprenticeships, Skills, Children and Learning Act 2009 (c. 22)](https://www.legislation.gov.uk/ukpga/2009/22), and [S.I. 2010/1158](https://www.legislation.gov.uk/uksi/2010/1158). Section 45AA was inserted by paragraph 4 of Schedule 16 to the Education Act 2005, and was amended by [S.I. 2010/1158](https://www.legislation.gov.uk/uksi/2010/1158). Section 47 was amended by paragraph 6 of Schedule 16 to the Education Act 2005, and [S.I. 2010/1158](https://www.legislation.gov.uk/uksi/2010/1158). Section 48 was amended by paragraph 3 of Schedule 5 and Part 6 of Schedule 18 to the [Education and Inspections Act 2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40), [paragraph 2](https://www.legislation.gov.uk/ukpga/2006/40/paragraph/2) of Schedule 3 to the Education Act 2002, paragraph 7 of Schedule 18 to the Education Act 2005, and [S.I. 2010/1158](https://www.legislation.gov.uk/uksi/2010/1158). Section 138(7) was amended by paragraph 3 of Schedule 17 to the Education and Inspections Act 2006. Paragraph 1(7) of Schedule 14 was substituted by paragraph 5 of Schedule 5 to the Education and Inspections Act 2006.
+
+[^c22358561]: Marginal citation: Section 74 was amended by paragraph 24 of Schedule 18 to the [Housing Act 1996 (c. 52)](https://www.legislation.gov.uk/ukpga/1996/52).
+
+[^c22358571]: Marginal citation: [2003 c. 26](https://www.legislation.gov.uk/ukpga/2003/26).
+
+[^key-dbaddea9a63f8e5c7c0b43ae13524f08]: Modification: [Reg. 8](https://www.legislation.gov.uk/uksi/2015/234/regulation/8) modified (26.11.2018) by [The Local Government (Boundary Changes) Regulations 2018 (S.I. 2018/1128)](https://www.legislation.gov.uk/uksi/2018/1128), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/1/1), [21(2)(b)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/21/2/b) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/1/3))
+
+[^key-2b8e8514d89f0e830ab02f7d09f06c4b]: Modification: [Reg. 9](https://www.legislation.gov.uk/uksi/2015/234/regulation/9) modified (26.11.2018) by [The Local Government (Boundary Changes) Regulations 2018 (S.I. 2018/1128)](https://www.legislation.gov.uk/uksi/2018/1128), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/1/1), [21(2)(c)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/21/2/c) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/1/3))
+
+[^key-0318a4546f9cc50ca8c0cab123e0e5e5]: Textual amendment: [Reg. 9A](https://www.legislation.gov.uk/uksi/2015/234/regulation/9A) inserted (30.9.2024) by [The Accounts and Audit (Amendment) Regulations 2024 (S.I. 2024/907)](https://www.legislation.gov.uk/uksi/2024/907), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/907/regulation/1/3), [2(3)](https://www.legislation.gov.uk/uksi/2024/907/regulation/2/3)
+
+[^key-71f104dcc94ec68be94af349154c2d18]: Textual amendment: Words in [reg. 10](https://www.legislation.gov.uk/uksi/2015/234/regulation/10) heading inserted (30.9.2024) by [The Accounts and Audit (Amendment) Regulations 2024 (S.I. 2024/907)](https://www.legislation.gov.uk/uksi/2024/907), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/907/regulation/1/3), [2(4)(a)](https://www.legislation.gov.uk/uksi/2024/907/regulation/2/4/a)
+
+[^key-f7e3816c239514a9b18e7d0a3648d053]: Modification: Reg. 10(1) modified (26.11.2018) by [The Local Government (Boundary Changes) Regulations 2018 (S.I. 2018/1128)](https://www.legislation.gov.uk/uksi/2018/1128), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/1/1), [21(2)(d)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/21/2/d) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/1/3))
+
+[^key-b11f86804468156940989b13d04ad05d]: Textual amendment: Words in [reg. 10(1)](https://www.legislation.gov.uk/uksi/2015/234/regulation/10/1) substituted (30.9.2024) by [The Accounts and Audit (Amendment) Regulations 2024 (S.I. 2024/907)](https://www.legislation.gov.uk/uksi/2024/907), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/907/regulation/1/3), [2(4)(b)(i)](https://www.legislation.gov.uk/uksi/2024/907/regulation/2/4/b/i)
+
+[^M_F_ed4505b0-300a-46d0-c819-40f8dd364007]: Textual amendment: Words in reg. 10(1) substituted (31.3.2021) by [The Accounts and Audit (Amendment) Regulations 2021 (S.I. 2021/263)](https://www.legislation.gov.uk/uksi/2021/263), [regs. 1](https://www.legislation.gov.uk/uksi/2021/263/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2021/263/regulation/2/2/a)
+
+[^key-bc056f7ee9d89f735f4127d699c6372b]: Textual amendment: Words in [reg. 10(1)](https://www.legislation.gov.uk/uksi/2015/234/regulation/10/1) substituted (30.9.2024) by [The Accounts and Audit (Amendment) Regulations 2024 (S.I. 2024/907)](https://www.legislation.gov.uk/uksi/2024/907), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/907/regulation/1/3), [2(4)(b)(ii)](https://www.legislation.gov.uk/uksi/2024/907/regulation/2/4/b/ii)
+
+[^key-a013badf83b22bc22145c2737de3628f]: Textual amendment: Word in [reg. 10(2)](https://www.legislation.gov.uk/uksi/2015/234/regulation/10/2) substituted (30.9.2024) by [The Accounts and Audit (Amendment) Regulations 2024 (S.I. 2024/907)](https://www.legislation.gov.uk/uksi/2024/907), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/907/regulation/1/3), [2(4)(c)](https://www.legislation.gov.uk/uksi/2024/907/regulation/2/4/c)
+
+[^key-a1aeb2922500f6eb8919a0c38fd6bd9d]: Textual amendment: [Reg. 10(4)-(6B)](https://www.legislation.gov.uk/uksi/2015/234/regulation/10/4) omitted (30.9.2024) by virtue of [The Accounts and Audit (Amendment) Regulations 2024 (S.I. 2024/907)](https://www.legislation.gov.uk/uksi/2024/907), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/907/regulation/1/3), [2(4)(d)](https://www.legislation.gov.uk/uksi/2024/907/regulation/2/4/d)
+
+[^key-53089df782d58778165826640fa0a9a3]: Textual amendment: Words in [reg. 13(1)](https://www.legislation.gov.uk/uksi/2015/234/regulation/13/1) substituted (30.4.2020) by [The Accounts and Audit (Coronavirus) (Amendment) Regulations 2020 (S.I. 2020/404)](https://www.legislation.gov.uk/uksi/2020/404), [regs. 1](https://www.legislation.gov.uk/uksi/2020/404/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2020/404/regulation/2/3/a)
+
+[^key-47e887ac327be66ed301857341cd8ef3]: Textual amendment: [Reg. 13(6)](https://www.legislation.gov.uk/uksi/2015/234/regulation/13/6) inserted (30.4.2020) by [The Accounts and Audit (Coronavirus) (Amendment) Regulations 2020 (S.I. 2020/404)](https://www.legislation.gov.uk/uksi/2020/404), [regs. 1](https://www.legislation.gov.uk/uksi/2020/404/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2020/404/regulation/2/3/b)
+
+[^key-5a065db5adac9d93df07f4d7a565e7af]: Textual amendment: Words in reg. 15(1) inserted (30.4.2020) by [The Accounts and Audit (Coronavirus) (Amendment) Regulations 2020 (S.I. 2020/404)](https://www.legislation.gov.uk/uksi/2020/404), [regs. 1](https://www.legislation.gov.uk/uksi/2020/404/regulation/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/2020/404/regulation/2/4/a)
+
+[^key-05cb6decc40a6f56bbf8893411540045]: Textual amendment: Words in [reg. 15(1)](https://www.legislation.gov.uk/uksi/2015/234/regulation/15/1) substituted (30.9.2024) by [The Accounts and Audit (Amendment) Regulations 2024 (S.I. 2024/907)](https://www.legislation.gov.uk/uksi/2024/907), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/907/regulation/1/3), [2(5)(a)](https://www.legislation.gov.uk/uksi/2024/907/regulation/2/5/a)
+
+[^key-4cc07a5590abcc8e29a8822c1c02590b]: Modification: Reg. 15(1)(a) modified (25.3.2017) by [The Greater Manchester Combined Authority (Transfer of Police and Crime Commissioner Functions to the Mayor) Order 2017 (S.I. 2017/470)](https://www.legislation.gov.uk/uksi/2017/470), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2017/470/article/1/3), [9(2)](https://www.legislation.gov.uk/uksi/2017/470/article/9/2)
+
+[^key-ebc2ae85d5622ccd3b470c4a00f8cb2f]: Modification: Reg. 15(1)(a) modified (25.3.2017) by [The Greater Manchester Combined Authority (Fire and Rescue Functions) Order 2017 (S.I. 2017/469)](https://www.legislation.gov.uk/uksi/2017/469), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2017/469/article/1/2), [11(2)](https://www.legislation.gov.uk/uksi/2017/469/article/11/2)
+
+[^key-43c50b5c631e3eabcd0a361b69efa055]: Modification: Reg. 15(1)(a) modified (30.1.2021) by [The West Yorkshire Combined Authority (Election of Mayor and Functions) Order 2021 (S.I. 2021/112)](https://www.legislation.gov.uk/uksi/2021/112), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/112/article/1/2), [41(2)](https://www.legislation.gov.uk/uksi/2021/112/article/41/2)[(3)](https://www.legislation.gov.uk/uksi/2021/112/article/41/3)
+
+[^key-935941baebeefb77873ad5925259f88b]: Modification: Reg. 15(1)(a) modified (20.12.2023) by [The York and North Yorkshire Combined Authority Order 2023 (S.I. 2023/1432)](https://www.legislation.gov.uk/uksi/2023/1432), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2), [39(1)](https://www.legislation.gov.uk/uksi/2023/1432/article/39/1)[(3)](https://www.legislation.gov.uk/uksi/2023/1432/article/39/3)
+
+[^key-d6d43857e804e57d78c693a12d008839]: Modification: Reg. 15(1)(a) modified (20.12.2023) by [The York and North Yorkshire Combined Authority Order 2023 (S.I. 2023/1432)](https://www.legislation.gov.uk/uksi/2023/1432), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2), [54(1)](https://www.legislation.gov.uk/uksi/2023/1432/article/54/1)[(3)](https://www.legislation.gov.uk/uksi/2023/1432/article/54/3)
+
+[^key-2e5e502b6cb7ebc454fa3f65c65f0a29]: Modification: [Reg. 15(1)(a)](https://www.legislation.gov.uk/uksi/2015/234/regulation/15/1/a) modified (21.3.2024) by [The South Yorkshire Mayoral Combined Authority (Election of Mayor and Transfer of Police and Crime Commissioner Functions) Order 2024 (S.I. 2024/414)](https://www.legislation.gov.uk/uksi/2024/414), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/414/article/1/2), [11(3)](https://www.legislation.gov.uk/uksi/2024/414/article/11/3)
+
+[^key-9e5a9412a5d9102fa5e1db2157c8ff10]: Textual amendment: Reg. 15(1A) inserted (31.3.2021) by [The Accounts and Audit (Amendment) Regulations 2021 (S.I. 2021/263)](https://www.legislation.gov.uk/uksi/2021/263), [regs. 1](https://www.legislation.gov.uk/uksi/2021/263/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2021/263/regulation/2/3/b)
+
+[^c22358581]: Marginal citation: See regulation 12 of the Smaller Authorities Regulations for the application of section 20 of the Act in relation to a Category 2 authority with exempt status.
+
+[^key-bd9dc5b36aa918dfcc9b6f4f05b8eb4d]: Textual amendment: Reg. 15(5) inserted (30.4.2020) by [The Accounts and Audit (Coronavirus) (Amendment) Regulations 2020 (S.I. 2020/404)](https://www.legislation.gov.uk/uksi/2020/404), [regs. 1](https://www.legislation.gov.uk/uksi/2020/404/regulation/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/2020/404/regulation/2/4/b)
+
+[^key-1905339f8be14a187716159adb520721]: Textual amendment: Reg. 15(6) inserted (31.3.2021) by [The Accounts and Audit (Amendment) Regulations 2021 (S.I. 2021/263)](https://www.legislation.gov.uk/uksi/2021/263), [regs. 1](https://www.legislation.gov.uk/uksi/2021/263/regulation/1), [2(3)(c)](https://www.legislation.gov.uk/uksi/2021/263/regulation/2/3/c)
+
+[^key-fe5d4b86351d6024aeb0f9777b15c2fa]: Textual amendment: Words in reg. 15(6) inserted (3.6.2021) by [The Accounts and Audit (Amendment No. 2) Regulations 2021 (S.I. 2021/565)](https://www.legislation.gov.uk/uksi/2021/565), [regs. 1](https://www.legislation.gov.uk/uksi/2021/565/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2021/565/regulation/2/2)
+
+[^key-48131d145350f3ab22f4741d3540b837]: Textual amendment: [Reg. 15(7)](https://www.legislation.gov.uk/uksi/2015/234/regulation/15/7) inserted (30.9.2024) by [The Accounts and Audit (Amendment) Regulations 2024 (S.I. 2024/907)](https://www.legislation.gov.uk/uksi/2024/907), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/907/regulation/1/3), [2(5)(b)](https://www.legislation.gov.uk/uksi/2024/907/regulation/2/5/b)
+
+[^c22358591]: Marginal citation: [1999 c. 29](https://www.legislation.gov.uk/ukpga/1999/29).
+
+[^c22358601]: Marginal citation: See section 424 of the [Greater London Authority Act 1999 (c. 29)](https://www.legislation.gov.uk/ukpga/1999/29) for the definition of “functional body”.
+
+[^key-44a2198e66f9871a1bc32ec7c8247a1d]: Textual amendment: Words in [reg. 19](https://www.legislation.gov.uk/uksi/2015/234/regulation/19) heading inserted (17.4.2024) by [The Levelling-up and Regeneration Act 2023 (Consequential Amendments) (England) Regulations 2024 (S.I. 2024/418)](https://www.legislation.gov.uk/uksi/2024/418), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/418/regulation/1/2), [4(a)](https://www.legislation.gov.uk/uksi/2024/418/regulation/4/a)
+
+[^key-bb761d53af7d4427b074fc6bb4de9cf2]: Textual amendment: Words in [reg. 19(1)](https://www.legislation.gov.uk/uksi/2015/234/regulation/19/1) inserted (17.4.2024) by [The Levelling-up and Regeneration Act 2023 (Consequential Amendments) (England) Regulations 2024 (S.I. 2024/418)](https://www.legislation.gov.uk/uksi/2024/418), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/418/regulation/1/2), [4(b)](https://www.legislation.gov.uk/uksi/2024/418/regulation/4/b)
+
+[^key-ea21742323b9b2d1b4c6c8456ba9bb77]: Textual amendment: Words in [reg. 20](https://www.legislation.gov.uk/uksi/2015/234/regulation/20) heading inserted (30.9.2024) by [The Accounts and Audit (Amendment) Regulations 2024 (S.I. 2024/907)](https://www.legislation.gov.uk/uksi/2024/907), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/907/regulation/1/3), [2(6)(a)](https://www.legislation.gov.uk/uksi/2024/907/regulation/2/6/a)
+
+[^key-ea05ffbd70b0cf431648c4d7769488ef]: Textual amendment: Words in [reg. 20(1)](https://www.legislation.gov.uk/uksi/2015/234/regulation/20/1) omitted (30.9.2024) by virtue of [The Accounts and Audit (Amendment) Regulations 2024 (S.I. 2024/907)](https://www.legislation.gov.uk/uksi/2024/907), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/907/regulation/1/3), [2(6)(b)(i)](https://www.legislation.gov.uk/uksi/2024/907/regulation/2/6/b/i)
+
+[^key-c9fe4f8ddf7266e69f9bb0a0e80ca515]: Textual amendment: Words in [reg. 20(1)](https://www.legislation.gov.uk/uksi/2015/234/regulation/20/1) inserted (30.9.2024) by [The Accounts and Audit (Amendment) Regulations 2024 (S.I. 2024/907)](https://www.legislation.gov.uk/uksi/2024/907), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/907/regulation/1/3), [2(6)(b)(ii)](https://www.legislation.gov.uk/uksi/2024/907/regulation/2/6/b/ii)
+
+[^key-b868420126a8d97e17ab56c0c63d986e]: Textual amendment: Words in [reg. 20(1)](https://www.legislation.gov.uk/uksi/2015/234/regulation/20/1) inserted (30.9.2024) by [The Accounts and Audit (Amendment) Regulations 2024 (S.I. 2024/907)](https://www.legislation.gov.uk/uksi/2024/907), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/907/regulation/1/3), [2(6)(b)(iii)](https://www.legislation.gov.uk/uksi/2024/907/regulation/2/6/b/iii)
+
+[^key-ef1b94403b009f0d172b027eb65130cf]: Textual amendment: Words in [reg. 20(2)](https://www.legislation.gov.uk/uksi/2015/234/regulation/20/2) inserted (30.9.2024) by [The Accounts and Audit (Amendment) Regulations 2024 (S.I. 2024/907)](https://www.legislation.gov.uk/uksi/2024/907), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/907/regulation/1/3), [2(6)(c)(i)](https://www.legislation.gov.uk/uksi/2024/907/regulation/2/6/c/i)
+
+[^key-12d29692ee7beb8a8f9a1fda3ce282c5]: Textual amendment: Words in [reg. 20(2)(a)](https://www.legislation.gov.uk/uksi/2015/234/regulation/20/2/a) inserted (30.9.2024) by [The Accounts and Audit (Amendment) Regulations 2024 (S.I. 2024/907)](https://www.legislation.gov.uk/uksi/2024/907), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/907/regulation/1/3), [2(6)(c)(ii)](https://www.legislation.gov.uk/uksi/2024/907/regulation/2/6/c/ii)
+
+[^c22358611]: Marginal citation: [S.I. 2003/527](https://www.legislation.gov.uk/uksi/2003/527) to which there are amendments not relevant to these Regulations.
+
+[^c22358621]: Marginal citation: [2013 c. 25](https://www.legislation.gov.uk/ukpga/2013/25). The Local Government Pension Scheme Regulations 2013 were made under section 7 of the Superannuation Act 1972. By virtue of section 28 of the Public Service Pensions Act 2013, they have effect as if they were a scheme established under section 1 of that Act to the extent that they make provision for the payment of pensions and other benefits in relation to a person's service after 1st April 2014.
+
+[^c22358631]: Marginal citation: [S.I. 2013/2356](https://www.legislation.gov.uk/uksi/2013/2356).
+
+[^c22358641]: Marginal citation: [1947 c. 41](https://www.legislation.gov.uk/ukpga/1947/41) and [1959 c. 44](https://www.legislation.gov.uk/ukpga/1959/44). Both these Acts have been repealed by the [Fire and Rescue Services Act 2004 (c. 21)](https://www.legislation.gov.uk/ukpga/2004/21) which contained savings in respect of pension schemes established under them.
+
+[^c22358651]: Marginal citation: [S.I. 1992/129](https://www.legislation.gov.uk/uksi/1992/129). Paragraphs G2(3) and (4) were inserted by article 2 of, and paragraph 38(b) of Schedule 1 to, the [Firefighters' Pension Scheme (Amendment) (England) Order 2006 (S.I. 2006/1810)](https://www.legislation.gov.uk/uksi/2006/1810). Article 4 of the [Firefighters' Pension Scheme (England and Scotland) Order 2004 (S.I. 2004/2306)](https://www.legislation.gov.uk/uksi/2004/2306) changed the name of the scheme from ‘Firemen's Pension Scheme’ to ‘Firefighters’ Pension Scheme'.
+
+[^c22358661]: Marginal citation: [2004 c. 21](https://www.legislation.gov.uk/ukpga/2004/21).
+
+[^c22358671]: Marginal citation: [S.I. 2006/3432](https://www.legislation.gov.uk/uksi/2006/3432).
+
+[^c22358681]: Marginal citation: [S.I. 2014/2848](https://www.legislation.gov.uk/uksi/2014/2848).
+
+[^c22358691]: Marginal citation: [S.I. 1987/257](https://www.legislation.gov.uk/uksi/1987/257).
+
+[^c22358701]: Marginal citation: [S.I. 2006/3415](https://www.legislation.gov.uk/uksi/2006/3415).
+
+[^c22358711]: Marginal citation: [S.I. 2007/1932](https://www.legislation.gov.uk/uksi/2007/1932). Regulation 5(1) was amended by [S.I. 2008/1887](https://www.legislation.gov.uk/uksi/2008/1887).
+
+[^c22358721]: Marginal citation: [1996 c. 16](https://www.legislation.gov.uk/ukpga/1996/16); [section 2](https://www.legislation.gov.uk/uksi/2015/234/section/2) was amended by section 99 of and Part 1 of Schedule 16 to the [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13).
+
+[^c22358731]: Marginal citation: [Section 2(6)](https://www.legislation.gov.uk/uksi/2015/234/section/2/6) was amended by section 18 of and paragraph 3 of Schedule 2 to the [Children Act 2004 (c. 31)](https://www.legislation.gov.uk/ukpga/2004/31), [paragraph 95](https://www.legislation.gov.uk/ukpga/2004/31/paragraph/95) of Schedule 37 to the [Education Act 1996 (c. 56)](https://www.legislation.gov.uk/ukpga/1996/56), and section 127 of the [Greater London Authority Act 1999 (c. 29)](https://www.legislation.gov.uk/ukpga/1999/29), and was partially repealed by section 180 of and Schedules 13 and 14 to the [Local Government etc (Scotland) Act 1994 (c. 39)](https://www.legislation.gov.uk/ukpga/1994/39) and Schedule 2 to the [Fire and Rescue Services Act 2004 (c. 21)](https://www.legislation.gov.uk/ukpga/2004/21).

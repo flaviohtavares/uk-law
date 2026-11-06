@@ -1,0 +1,130 @@
+---
+title: The Broadcasting (Independent Productions) (Amendment) Order 2003
+id: uksi/2003/1672
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2003-07-02'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2003/1672
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2003/1672/pdfs/uksi_20031672_en.pdf
+- http://www.legislation.gov.uk/uksi/2003/1672/made/data.pdf
+pending_changes: 1
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Broadcasting (Independent Productions) (Amendment) Order 2003
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2003 No. 1672
+
+BROADCASTING
+
+The Broadcasting (Independent Productions) (Amendment) Order 2003
+
+Made
+
+2nd July 2003
+
+Coming into force
+
+3rd July 2003
+
+Whereas a draft of this Order has been laid before and approved by resolution of each House of Parliament, pursuant to section 16(7) of the Broadcasting Act 1990[^f00001];
+
+Now, therefore, the Secretary of State, in exercise of the powers conferred upon her by section 16(5) of the Broadcasting Act 1990, and after consultation (in accordance with section 16(7) of that Act) with the Independent Television Commission and (in accordance with section 186(2) of that Act) with the British Broadcasting Corporation, hereby makes the following Order:
+
+## 1. Citation and commencement
+
+This Order may be cited as the Broadcasting (Independent Productions) (Amendment) Order 2003 and shall come into force on the day after the day on which it is made.
+
+## 2. Amendment of the Broadcasting (Independent Productions) Order 1991
+
+The Broadcasting (Independent Productions) Order 1991[^f00002] shall be amended in accordance with the following provisions of this Order.
+
+## 3. Extending the meaning of “independent producer”
+
+In article 3—
+
+- (a) in paragraph (4)(c), for “broadcaster” and “broadcasters” substitute respectively “UK broadcaster” and “UK broadcasters”;
+- (b) after paragraph (6) insert—
+
+  > (6A) For the purposes of this article, where a programme has been made by a producer (whether on his own or together with any other person) who would not, apart from this paragraph, be treated as an independent producer in relation to his part in the making of that programme, he shall be so treated if—
+  >
+  > - (a) he was commissioned to make the programme (whether on his own or together with any other person) by the relevant broadcaster,
+  > - (b) he was an independent producer when he was so commissioned,
+  > - (c) the relevant broadcaster so commissioned him in good faith in the expectation that he would be an independent producer when he performed his part in the making of the programme, and
+  > - (d) the programme was made within 2 years of the date on which he was so commissioned.
+  >
+  > In this paragraph, any reference to a programme, in relation to a programme to which sub-paragraph (c) of article 2(1) above applies, is to that part of the programme referred to in paragraph (iii) of that sub-paragraph.
+  >
+  > (6B) For the purposes of paragraph (6A) above, a producer is commissioned to make a programme on the date on which he becomes subject to a contractual obligation to make that programme (whether on his own or with another person) regardless whether that obligation is subsequently varied in any particular or supplemented by any further contractual provisions relating to the making of the programme.
+
+  ; and
+- (c) in paragraph (7)—
+  - (i) omit “and” where it occurs immediately after the definition of “control”;
+  - (ii) insert “; and” immediately after the definition of “producer”; and
+  - (iii) at the end of the paragraph insert the following definition—
+
+    > - “UK broadcaster” means any broadcaster who provides a television service intended for reception in, or in any area in, the United Kingdom (whether or not that service is also intended for reception elsewhere).
+
+## 4. Extending the meaning of “independent producer”: consequential amendments
+
+In article 1—
+
+- (a) in paragraph (2), in the definition of “relevant broadcaster”, for “article 2(4)” substitute “paragraph (5)”; and
+- (b) after paragraph (3) insert —
+
+  > (4) For the purposes of this Order, a programme shall not be prevented from being treated as having been commissioned by a broadcaster by reason only of the fact that it was intended to be first shown commercially in cinemas.
+  >
+  > (5) In the application of articles 2(1) and 3(6A) below to a regional Channel 3 service, references to the relevant broadcaster shall include references to the holder of another regional Channel 3 licence or any person acting on behalf of the holders of such licences.
+
+  .
+
+**5.** In article 2—
+
+- (a) in paragraph (1), for “paragraphs (2) to (4)” substitute “paragraph (2)”; and
+- (b) omit paragraphs (3) and (4).
+
+## 6. Television programme service
+
+(1) For “television broadcasting service”, wherever those words appear in the definition of “relevant broadcaster” in article 1(2) and in article 2(1) and (2)(a), substitute “television programme service”.
+
+(2) In article 1(2), for the definition of “television broadcasting service” substitute—
+
+> - “television programme service” has the same meaning as in Part I of the 1990 Act[^f00003].
+
+Tessa Jowell
+
+Secretary of State for Culture, Media and Sport
+
+2nd July 2003
+
+(This note is not part of the Order)
+
+This Order amends the Broadcasting (Independent Productions) Order 1991 (“the 1991 Order”). The 1991 Order, together with the provisions of the Broadcasting Act 1990 under which it is made, implements Council Directive ([89/552/EEC](https://www.legislation.gov.uk/european/directive/1989/0552)) of 3 October 1989 which, amongst other things, makes provision as to the proportion of a broadcaster’s programmes which are to consist of works created by producers who are independent of broadcasters.
+
+Articles 3 to 5 of the Order are concerned with making changes to the description of the persons who may be regarded as an “independent producer” for the purposes of Article 3 of the 1991 Order.
+
+Article 3(a) amends sub-paragraph (c) of article 3(4) of the 1991 Order so that the limits on share ownership referred to in that sub-paragraph only apply in respect of UK broadcasters and not broadcasters generally. Article 3(c) inserts a definition of the expression “UK broadcaster” in article 3(7) of the 1991 Order. “UK broadcaster” is defined to mean any broadcaster who provides a television service intended for reception in, or in any area in, the United Kingdom (whether or not that service is also intended for reception elsewhere).
+
+Article 3(b) inserts paragraphs (6A) and (6B) in article 3 of the 1991 Order. The effect of those paragraphs is to enable a person, who would not otherwise be regarded as an independent producer of a programme, to be so regarded if he was an independent producer on the date on which he was commissioned by the relevant broadcaster to make the programme. This is subject to the conditions that the relevant broadcaster must have commissioned him in good faith in the expectation that he would be an independent producer when the programme was made, and that the programme was made within 2 years of the date on which he was so commissioned.
+
+The amendments made by articles 4 and 5 of the Order are consequential on the changes made by article 3(b).
+
+Article 6 of the Order substitutes the term “television programme service” for “television broadcasting service” as a description of the television services to which the 1991 Order applies. Article 6 inserts a definition of “television programme service” in the 1991 Order under which that term is to have the same meaning as in Part I of the Broadcasting Act 1990. The effect of this amendment is to extend the scope of television services to which the 1991 Order applies.
+
+A Regulatory Impact Assessment has not been prepared in relation to this Order.
+
+## Annotations
+
+[^f00001]: Footnote: [1990 c. 42](https://www.legislation.gov.uk/ukpga/1990/42).
+
+[^f00002]: Footnote: [S.I. 1991/1408](https://www.legislation.gov.uk/uksi/1991/1408), amended by [S.I. 1995/1925](https://www.legislation.gov.uk/uksi/1995/1925).
+
+[^f00003]: Footnote: See section 71(1) which provides that, in Part I of the Broadcasting Act 1990, “television programme service” shall have the meaning given by section 2(4) of that Act. Section 2(4) was amended by paragraphs 1 and 12 of Schedule 10, and Part I of Schedule 11, to the Broadcasting Act [1996 (c. 55)](https://www.legislation.gov.uk/ukpga/1996/55), and by [S.I. 1997/1682](https://www.legislation.gov.uk/uksi/1997/1682).

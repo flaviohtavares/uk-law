@@ -1,0 +1,25 @@
+---
+title: The Special Educational Needs and Disability Regulations 2014, section 36
+act: The Special Educational Needs and Disability Regulations 2014
+section: '36'
+status: revised
+text_date: '2024-09-01'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2014/1530/section/36
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Special Educational Needs and Disability Regulations 2014, section 36
+
+> Text as at 2024-09-01.
+>
+> Extent: England, Wales.
+
+## 36. Mediation – no health care issues
+
+*Extent: E+W*
+
+(1) This regulation applies where a parent or young person has informed the local authority that he or she wishes to pursue mediation and the mediation issues do not relate to health care provision.
+
+(2) The local authority must arrange for mediation between it and the child's parent or young person, within 30 days from the date of on which it was informed by the child's parent or young person that he or she wished to pursue mediation.

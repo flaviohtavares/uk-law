@@ -1,0 +1,553 @@
+---
+title: The Lifting Operations and Lifting Equipment Regulations 1998
+id: uksi/1998/2307
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '1998-09-15'
+text_date: '2020-12-31'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/1998/2307
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1998/2307/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Lifting Operations and Lifting Equipment Regulations 1998
+
+> Text as at 2020-12-31.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+1998 No. 2307
+
+HEALTH AND SAFETY
+
+The Lifting Operations and Lifting Equipment Regulations 1998
+
+Made
+
+15th September 1998
+
+Laid before Parliament
+
+25th September 1998
+
+Coming into force
+
+5th December 1998
+
+The Secretary of State, in exercise of the powers conferred on him by sections 15(1), (2), (3)(a) and (5)(b), 49 and 82(3)(a) of, and paragraphs 1(1), (2) and (3), 14, 15(1) and 16 of Schedule 3 to, the Health and Safety at Work etc. Act 1974[^f00001] (“the 1974 Act”) and of all other powers enabling him in that behalf and for the purpose of giving effect without modifications to proposals submitted to him by the Health and Safety Commission under section 11(2)(d) of the 1974 Act after the carrying out by the said Commission of consultations in accordance with section 50(3) of that Act, hereby makes the following Regulations:
+
+## 1. Citation and commencement[^key-82ff03d9dc275649f453f92bff522b77]
+
+These Regulations may be cited as the Lifting Operations and Lifting Equipment Regulations 1998 and shall come into force on 5th December 1998.
+
+## 2. Interpretation[^key-1b7a0369ec0d1c5e6698ccf2035737f0]
+
+(1) In these Regulations, unless the context otherwise requires—
+
+- “the 1974 Act” means the Health and Safety at Work etc. Act 1974;
+- [^key-3227e909ae439154bc9653418b5c02b3]...
+- “accessory for lifting” means work *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-7dcddc6c1789d8d47dcf6e6f7ba72c35] lifting *(Extent: E+W+S)* equipment for attaching loads to machinery for lifting;
+- “EC *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-bb753925382be2b4d2707d2e5bfd6b64] declaration of conformity *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-bb753925382be2b4d2707d2e5bfd6b64] declaration of conformity *(Extent: E+W+S)*” means a declaration which complies with—
+  - (a) section A of part 1 of Part 2 of Schedule 2 to the Supply of Machinery (Safety) Regulations 2008[^key-5386efbd4e819de21b191fbba2c0ad12];
+  - (b) Article 12.1 of Council Directive *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-9ae5234f1a465e3cda91ccf5055c001a] [89/686/ *(Extent: E+W+S)* *(affected by repeal, see note)*EEC *(Extent: E+W+S)* *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/directive/1989/0686)[^key-9ae5234f1a465e3cda91ccf5055c001a][^key-9ae5234f1a465e3cda91ccf5055c001a][^f00003] on the approximation of the laws of the Member States relating to personal protective equipment; or *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-9ae5234f1a465e3cda91ccf5055c001a] the requirements for a declaration of conformity in Article 15 of Regulation (EU) 2016/425 of the European Parliament and of the Council of 9 March 2016 on personal protective equipment and repealing Council Directive *(Extent: E+W+S)* [89/686/EEC *(Extent: E+W+S)*](https://www.legislation.gov.uk/eudr/1989/686); or *(Extent: E+W+S)*
+  - (c) regulation 49 of the Lifts Regulations 2016[^key-e19056a13934452f5c2ecdd049691598][^f00004];
+- “employer” except in regulation 3(2) and (3) includes a person to whom the requirements imposed by these Regulations apply by virtue of regulation 3(3)(a) and (b);
+- “essential requirements” has the same meaning as in the Provision and Use of Work Equipment Regulations 1998[^f00005];
+- “examination scheme” means a suitable scheme drawn up by a competent person for such thorough examinations of lifting equipment at such intervals as may be appropriate for the purpose described in regulation 9(3);
+- “the Executive” means the Health and Safety Executive;
+- “lifting equipment” means work equipment for lifting or lowering loads and includes its attachments used for anchoring, fixing or supporting it;
+- “lifting operation” has the meaning given in regulation 8(2);
+- “load” includes a person;
+- “thorough examination” in relation to a thorough examination under paragraph (1), (2) or (3) of regulation 9—
+  - (a) means a thorough examination by a competent person;
+  - (b) where it is appropriate to carry out testing for the purpose described in the paragraph, includes such testing by a competent person as is appropriate for the purpose,
+
+  and “thoroughly examined” shall be construed accordingly;
+- “work equipment” means any machinery, appliance, apparatus, tool or installation for use at work (whether exclusively or not).
+
+(2) Unless the context otherwise requires, any reference in these Regulations to—
+
+- (a) a numbered regulation or Schedule is a reference to the regulation or Schedule in these Regulations so numbered; and
+- (b) a numbered paragraph is a reference to the paragraph so numbered in the regulation or Schedule in which the reference appears.
+
+## 3. Application[^key-31104e1e4e3eb341b81eb8a18cf01c5f]
+
+(1) These Regulations shall apply—
+
+- (a) in Great Britain; and
+- (b) outside Great Britain as sections 1 to 59 and 80 to 82 of the 1974 Act apply by virtue of the Health and Safety at Work etc. Act 1974 (Application outside Great Britain) Order 1995[^f00006] (“the 1995 Order”).
+
+(2) The requirements imposed by these Regulations on an employer in respect of lifting equipment shall apply in relation to lifting equipment provided for use or used by an employee of his at work.
+
+(3) The requirements imposed by these Regulations on an employer shall also apply—
+
+- (a) to a relevant self-employed person[^key-d4d241ed184c3e47ffb38654a0cc61f9], in respect of lifting equipment he uses at work;
+- (b) subject to paragraph (5), to a person who has control to any extent of—
+  - (i) lifting equipment;
+  - (ii) a person at work who uses or supervises or manages the use of lifting equipment; or
+  - (iii) the way in which lifting equipment is used,
+
+  and to the extent of his control.
+
+(4) Any reference in paragraph (5)(b) *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-ed7a1dc4095edd5b048b107e61e949be] (3)(b) *(Extent: E+W+S)* to a person having control is a reference to a person having control in connection with the carrying on by him of a trade, business or other undertaking (whether for profit or not).
+
+(5) The requirements imposed by these Regulations on an employer shall not apply to a person in respect of lifting equipment supplied by him by way of sale, agreement for sale or hire-purchase agreement.
+
+(6) Subject to paragraphs (7) to (10), these Regulations shall not impose any obligation in relation to a ship’s work equipment (whether that equipment is used on or off the ship).
+
+(7) Where merchant shipping requirements are applicable to a ship’s work equipment, paragraph (6) shall relieve the shore employer of his obligations under these Regulations in respect of that equipment only where he has taken all reasonable steps to satisfy himself that the merchant shipping requirements are being complied with in respect of that equipment.
+
+(8) In a case where the merchant shipping requirements are not applicable to the ship’s work equipment by reason only that for the time being there is no master, crew or watchman on the ship, those requirements shall nevertheless be treated for the purpose of paragraph (7) as if they were applicable.
+
+(9) Where the ship’s work equipment is used in a specified operation paragraph (6) shall not apply to regulations 6 and 8 (each as applied by regulation 3).
+
+(10) Paragraph (6) does not apply to a ship’s work equipment provided for use or used in an activity (whether carried on in or outside Great Britain) specified in the 1995 Order save that it does apply to—
+
+- (a) the loading, unloading, fuelling or provisioning of the ship; or
+- (b) the construction, reconstruction, finishing, refitting, repair, maintenance, cleaning or breaking up of the ship.
+
+(11) In this regulation—
+
+- “master” has the meaning assigned to it by section 313(1) of the Merchant Shipping Act 1995[^f00007];
+- “merchant shipping requirements” means the requirements of regulations 3 and 4 of the Merchant Shipping (Guarding of Machinery and Safety of Electrical Equipment) Regulations 1988[^f00008] and regulations 5 to 10 of the Merchant Shipping (Hatches and Lifting Plant) Regulations 1988[^f00009];
+- “relevant self-employed person” means a self-employed person who conducts an undertaking of a prescribed description for the purposes of section 3(2) of the[^key-5a81ae675227448b858560269abb01f6] 1974 Act;
+- “ship” has the meaning assigned to it by section 313(1) of the Merchant Shipping Act 1995 save that it does not include an offshore installation;
+- “shore employer” means an employer of persons (other than the master and crew of any ship) who are engaged in a specified operation;
+- “specified operation” means an operation in which the ship’s work equipment is used—
+  - (a) by persons other than the master and crew; or
+  - (b) where persons other than the master and crew are liable to be exposed to a risk to their health or safety from its use.
+
+## 4. Strength and stability[^key-b7fd12c8df0fe91ef5ebcb970b8001eb]
+
+Every employer shall ensure that—
+
+- (a) lifting equipment is of adequate strength and stability for each load, having regard in particular to the stress induced at its mounting or fixing point;
+- (b) every part of a load and anything attached to it and used in lifting it is of adequate strength.
+
+## 5. Lifting equipment for lifting persons[^key-acac8e56c88b99dc2d55f4306e7ce187]
+
+(1) Every employer shall ensure that lifting equipment for lifting persons—
+
+- (a) subject to sub-paragraph (b), is such as to prevent a person using it being crushed, trapped or struck or falling from the carrier;
+- (b) is such as to prevent so far as is reasonably practicable a person using it, while carrying out activities from the carrier, being crushed, trapped or struck or falling from the carrier;
+- (c) subject to paragraph (2), has suitable devices to prevent the risk of a carrier falling;
+- (d) is such that a person trapped in any carrier is not thereby exposed to danger and can be freed.
+
+(2) Every employer shall ensure that if the risk described in paragraph (1)(c) cannot be prevented for reasons inherent in the site and height differences—
+
+- (a) the carrier has an enhanced safety coefficient suspension rope or chain; and
+- (b) the rope or chain is inspected by a competent person every working day.
+
+## 6. Positioning and installation[^key-ba739dfbe9d573a60f7ce150f2e7d0bc]
+
+(1) Every employer shall ensure that lifting equipment is positioned or installed in such a way as to reduce to as low as is reasonably practicable the risk—
+
+- (a) of the lifting equipment or a load striking a person; or
+- (b) from a load—
+  - (i) drifting;
+  - (ii) falling freely; or
+  - (iii) being released unintentionally;
+
+  and it is otherwise safe.
+
+(2) Every employer shall ensure that there are suitable devices to prevent a person from falling down a shaft or hoistway.
+
+## 7. Marking of lifting equipment[^key-dd030cae6153e937f09c0c8ea64637ae]
+
+Every employer shall ensure that—
+
+- (a) subject to sub-paragraph (b), machinery and accessories for lifting loads are clearly marked to indicate their safe working loads;
+- (b) where the safe working load of machinery for lifting loads depends on its configuration—
+  - (i) the machinery is clearly marked to indicate its safe working load for each configuration; or
+  - (ii) information which clearly indicates its safe working load for each configuration is kept with the machinery;
+- (c) accessories for lifting are also marked in such a way that it is possible to identify the characteristics necessary for their safe use;
+- (d) lifting equipment which is designed for lifting persons is appropriately and clearly marked to this effect; and
+- (e) lifting equipment which is not designed for lifting persons but which might be so used in error is appropriately and clearly marked to the effect that it is not designed for lifting persons.
+
+## 8. Organisation of lifting operations[^key-32dfd92d103fa58415e4e4809be4aa61]
+
+(1) Every employer shall ensure that every lifting operation involving lifting equipment is—
+
+- (a) properly planned by a competent person;
+- (b) appropriately supervised; and
+- (c) carried out in a safe manner.
+
+(2) In this regulation “lifting operation” means an operation concerned with the lifting or lowering of a load.
+
+## 9. Thorough examination and inspection[^key-74cb51c4f3691a75b735f0b159207782]
+
+(1) Every employer shall ensure that before lifting equipment is put into service for the first time by him it is thoroughly examined for any defect unless either—
+
+- (a) the lifting equipment has not been used before; and
+- (b) in the case of lifting equipment for which an *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-c770ec33e17502a231b759090cf67a2c] EC *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-c770ec33e17502a231b759090cf67a2c] declaration of conformity *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-c770ec33e17502a231b759090cf67a2c] a declaration of conformity *(Extent: E+W+S)* could or (in the case of a declaration under the Lifts Regulations 2016[^key-16f05b8c86bbc90f6c4c1c2801901573]) should have been drawn up, the employer has received such declaration made not more than 12 months before the lifting equipment is put into service;
+
+or, if obtained from the undertaking of another person, it is accompanied by physical evidence referred to in paragraph (4).
+
+(2) Every employer shall ensure that, where the safety of lifting equipment depends on the installation conditions, it is thoroughly examined—
+
+- (a) after installation and before being put into service for the first time; and
+- (b) after assembly and before being put into service at a new site or in a new location,
+
+to ensure that it has been installed correctly and is safe to operate.
+
+(3) Subject to paragraph (6), every employer shall ensure that lifting equipment which is exposed to conditions causing deterioration which is liable to result in dangerous situations is—
+
+- (a) thoroughly examined—
+  - (i) in the case of lifting equipment for lifting persons or an accessory for lifting, at least every 6 months;
+  - (ii) in the case of other lifting equipment, at least every 12 months; or
+  - (iii) in either case, in accordance with an examination scheme; and
+  - (iv) each time that exceptional circumstances which are liable to jeopardise the safety of the lifting equipment have occurred; and
+- (b) if appropriate for the purpose, is inspected by a competent person at suitable intervals between thorough examinations,
+
+to ensure that health and safety conditions are maintained and that any deterioration can be detected and remedied in good time.
+
+(4) Every employer shall ensure that no lifting equipment—
+
+- (a) leaves his undertaking; or
+- (b) if obtained from the undertaking of another person, is used in his undertaking, unless it is accompanied by physical evidence that the last thorough examination required to be carried out under this regulation has been carried out.
+
+(5) This regulation does not apply to winding apparatus to which the Mines Regulations 2014[^key-9f517b2d8470c476d789fbfd5c222b14][^f00010] apply.
+
+(6) Where lifting equipment was before the coming into force of these Regulations required to be thoroughly examined by a provision specified in paragraph (7), the first thorough examination under paragraph (3) shall be made before the date by which a thorough examination would have been required by that provision had it remained in force.
+
+(7) The provisions referred to in paragraph (6) are—
+
+- (a) section 22(2), 25(2), 26(1)(d) and 27(2) of the Factories Act 1961[^f00011];
+- (b) regulations 34(2) and 37(1) of the Shipbuilding and Ship-repairing Regulations 1960 *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-a09282854d11b794f9b357e81097a275][^f00012]; *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-a09282854d11b794f9b357e81097a275]
+- (c) regulations 28(3), 40 and 46(1) of the Construction (Lifting Operations) Regulations 1961[^f00013];
+- (d) regulations 3(1) and (2) and 6(1) of the Offices, Shops and Railway Premises (Hoists and Lifts) Regulations 1968[^f00014];
+- (e) regulation 6(1)(c) of and Part III of Schedule 1 to the Offshore Installations (Operational Safety, Health and Welfare) Regulations 1976[^f00015];
+- (f) Regulation 15 of the Docks Regulations 1988[^f00016].
+
+## 10. Reports and defects[^key-f4cfe1364510f637941b7459e899e684]
+
+(1) A person making a thorough examination for an employer under regulation 9 shall—
+
+- (a) notify the employer forthwith of any defect in the lifting equipment which in his opinion is or could become a danger to persons;
+- (b) as soon as is practicable make a report of the thorough examination in writing authenticated by him or on his behalf by signature or equally secure means and containing the information specified in Schedule 1 to—
+  - (i) the employer; and
+  - (ii) any person from whom the lifting equipment has been hired or leased;
+- (c) where there is in his opinion a defect in the lifting equipment involving an existing or imminent risk of serious personal injury send a copy of the report as soon as is practicable to the relevant enforcing authority.
+
+(2) A person making an inspection for an employer under regulation 9 shall—
+
+- (a) notify the employer forthwith of any defect in the lifting equipment which in his opinion is or could become a danger to persons;
+- (b) as soon as is practicable make a record of the inspection in writing.
+
+(3) Every employer who has been notified under paragraph (1) shall ensure that the lifting equipment is not used—
+
+- (a) before the defect is rectified; or
+- (b) in a case to which sub-paragraph (c) of paragraph 8 of Schedule 1 applies, after a time specified under that sub-paragraph and before the defect is rectified.
+
+(4) In this regulation “relevant enforcing authority” means—
+
+- (a) where the defective lifting equipment has been hired or leased by the employer, the Executive; and
+- (b) otherwise, the enforcing authority for the premises in which the defective lifting equipment was thoroughly examined.
+
+## 11. Keeping of information[^key-7a296e9045e8b3ce3b4a9a168dcf6525]
+
+(1) Where, after the coming into force of these Regulations, an employer obtaining lifting equipment to which these Regulations apply receives an *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-f54a8c2f359899e592ea6a01d2043c7f] EC *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-f54a8c2f359899e592ea6a01d2043c7f] declaration of conformity *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-f54a8c2f359899e592ea6a01d2043c7f] a declaration of conformity *(Extent: E+W+S)* relating to it, he shall keep the declaration for so long as he operates the lifting equipment.
+
+(2) The employer shall ensure that the information contained in—
+
+- (a) every report made to him under regulation 10(1)(b) is kept available for inspection—
+  - (i) in the case of a thorough examination under paragraph (1) of regulation 9 of lifting equipment other than an accessory for lifting, until he ceases to use the lifting equipment;
+  - (ii) in the case of a thorough examination under paragraph (1) of regulation 9 of an accessory for lifting, for two years after the report is made;
+  - (iii) in the case of a thorough examination under paragraph (2) of regulation 9, until he ceases to use the lifting equipment at the place it was installed or assembled;
+  - (iv) in the case of a thorough examination under paragraph (3) of regulation 9, until the next report is made under that paragraph or the expiration of two years, whichever is later;
+- (b) every record made under regulation 10(2) is kept available until the next such record is made.
+
+## 12. Exemption for the armed forces[^key-162acf19ab119bec848caab90262a1b8]
+
+(1) The Secretary of State for Defence may, in the interests of national security, by a certificate in writing exempt any of the home forces, any visiting force or any headquarters from any of the requirements of these Regulations and any such exemption may be granted subject to conditions and to a limit of time and may be revoked by the said Secretary of State by a certificate in writing at any time.
+
+(2) In this regulation—
+
+- (a) “the home forces” has the same meaning as in section 12(1) of the Visiting Forces Act 1952[^f00017];
+- (b) “headquarters” has the same meaning as in article 3(2) of the Visiting Forces and International Headquarters (Application of Law) Order 1965[^f00018];
+- (c) “visiting force” has the same meaning as it does for the purposes of any provision of Part I of the Visiting Forces Act 1952.
+
+## 13. Amendment of the Shipbuilding and Ship-repairing Regulations 1960[^key-d7bae637d7db8c76acb7e5f536315fef]
+
+Regulation 2 (application) of the Shipbuilding and Ship-repairing Regulations 1960 is amended— *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-11b1d9c56680d5c9ab0e8fbcae5a1d63]
+
+- (a (Extent: E+W+S) (affected by repeal, see note))[^key-11b1d9c56680d5c9ab0e8fbcae5a1d63] in paragraph (2) by substituting for the word “31” wherever occurring the word “48”; and *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-11b1d9c56680d5c9ab0e8fbcae5a1d63]
+- (b (Extent: E+W+S) (affected by repeal, see note))[^key-11b1d9c56680d5c9ab0e8fbcae5a1d63] in paragraph (4) by omitting the word “32”. *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-11b1d9c56680d5c9ab0e8fbcae5a1d63]
+
+## 14. Amendment of the Docks Regulations 1988[^key-55ac2c79207372eda6ca150c340e41d9]
+
+The Docks Regulations 1988[^f00019] are amended—
+
+- (a) in regulation 13(4) by substituting the words “thorough examination under regulation 9 of the Lifting Operations and Lifting Equipment Regulations 1998” for the words “test under regulation 14”;
+- (b) by revoking regulations 14 and 15;
+- (c) by revoking paragraphs (3), (4), (5), (7) and (8) of regulation 16; and
+- (d) by revoking regulation 17.
+
+## 15. Repeal of provisions of the Factories Act 1961[^key-a7dbbb4adf9f7a87576ad39becc7e0b1]
+
+Sections 22, 23 and 25 to 27 of the Factories Act 1961[^f00020] are repealed.
+
+## 16. Repeal of section 85 of the Mines and Quarries Act 1954[^key-ae98c4bbfbef0eb540e082edac5cb5a1]
+
+Section 85 of the Mines and Quarries Act 1954[^f00021] is repealed.
+
+## 17. Revocation of instruments[^key-db70969fe1818d790fd5534a3af016c0]
+
+The instruments specified in column 1 of Schedule 2 are hereby revoked to the extent specified in column 3 of that Schedule.
+
+Signed by authority of the Secretary of State
+
+Alan Meale
+
+Parliamentary Under Secretary of State,
+
+Department of the Environment, Transport and the Regions
+
+## SCHEDULE 1 — INFORMATION TO BE CONTAINED IN A REPORT OF A THOROUGH EXAMINATION
+
+Regulation 10(1)
+
+**1.**[^key-25b47a469b7935f28d361ad17bf09f11] The name and address of the employer for whom the thorough examination was made.
+
+**2.**[^key-9bedded7ac9421c3fd731f5310e01d4d] The address of the premises at which the thorough examination was made.
+
+**3.**[^key-1ece2cbf6299c1a50e24658c032f090b] Particulars sufficient to identify the lifting equipment including where known its date of manufacture.
+
+**4.**[^key-6850012bfb7b709108822b5d769f05b9] The date of the last thorough examination.
+
+**5.**[^key-9134c3629b7ac8083901e12170272175] The safe working load of the lifting equipment or (where its safe working load depends on the configuration of the lifting equipment) its safe working load for the last configuration in which it was thoroughly examined.
+
+**6.**[^key-52dbec31f09c22b9d73d41ad9396f939] In relation to the first thorough examination of lifting equipment after installation or after assembly at a new site or in a new location—
+
+- (a) that it is such thorough examination;
+- (b) (if such be the case) that it has been installed correctly and would be safe to operate.
+
+**7.**[^key-4d81e4269413774368a9fc92d25b1a33] In relation to a thorough examination of lifting equipment other than a thorough examination to which paragraph 6 relates—
+
+- (a) whether it is a thorough examination—
+  - (i) within an interval of 6 months under regulation 9(3)(a)(i);
+  - (ii) within an interval of 12 months under regulation 9(3)(a)(ii);
+  - (iii) in accordance with an examination scheme under regulation 9(3)(a)(iii); or
+  - (iv) after the occurrence of exceptional circumstances under regulation 9(3)(a)(iv);
+- (b) (if such be the case) that the lifting equipment would be safe to operate.
+
+**8.**[^key-f1f0da0f1f9659b100ed068c50a42588] In relation to every thorough examination of lifting equipment—
+
+- (a) identification of any part found to have a defect which is or could become a danger to persons, and a description of the defect;
+- (b) particulars of any repair, renewal or alteration required to remedy a defect found to be a danger to persons;
+- (c) in the case of a defect which is not yet but could become a danger to persons—
+  - (i) the time by which it could become such danger;
+  - (ii) particulars of any repair, renewal or alteration required to remedy it;
+- (d) the latest date by which the next thorough examination must be carried out;
+- (e) where the thorough examination included testing, particulars of any test;
+- (f) the date of the thorough examination.
+
+**9.**[^key-1ab5b6c7d5fbe2f3e791839ae8f97685] The name, address and qualifications of the person making the report; that he is self-employed or, if employed, the name and address of his employer.
+
+**10.**[^key-53a5f8891bc68d8869e3c3245a8fc2b6] The name and address of a person signing or authenticating the report on behalf of its author.
+
+**11.**[^key-f3d1b3abbcb12bd86a95caa68ddf5df9] The date of the report.
+
+## SCHEDULE 2 — REVOCATION OF INSTRUMENTS[^key-fc5df53d49116b18eee5e6c0b699b72b]
+
+Regulation 17
+
+<table>
+<thead>
+<tr><th>(1)</th><th>(2)</th><th>(3)</th></tr>
+<tr><th>Title</th><th>Reference</th><th>Extent of revocation</th></tr>
+</thead>
+<tbody>
+<tr><td>The Quarries (General) Regulations 1956</td><td><a href="https://www.legislation.gov.uk/uksi/1956/1780">S.I. 1956/1780</a></td><td>Regulations 13 and 14.</td></tr>
+<tr><td>The Quarries (Ropeways and Vehicles) Regulations 1958</td><td><a href="https://www.legislation.gov.uk/uksi/1958/2110">S.I. 1958/2110</a></td><td>The whole Regulations.</td></tr>
+<tr><td>The Shipbuilding and Ship-repairing Regulations 1960 <em>(Extent: E+W+S)</em> <em>(affected by repeal, see note)</em></td><td><a href="https://www.legislation.gov.uk/uksi/1960/1932">S.I. 1960/1932 <em>(Extent: E+W+S)</em> <em>(affected by repeal, see note)</em></a></td><td>In regulation 3 the definitions of “lifting appliance” and “lifting gear”; regulations 21 and 31 to 47. <em>(Extent: E+W+S)</em> <em>(affected by repeal, see note)</em></td></tr>
+<tr><td>The Shipbuilding (Particulars of Annealing) Order 1961</td><td><a href="https://www.legislation.gov.uk/uksi/1961/117">S.I. 1961/117</a></td><td>The whole order.</td></tr>
+<tr><td>The Shipbuilding (Lifting Appliances, etc., Forms) Order 1961</td><td><a href="https://www.legislation.gov.uk/uksi/1961/431">S.I. 1961/431</a></td><td>The whole order.</td></tr>
+<tr><td>The Construction (Lifting Operations) Regulations 1961</td><td><a href="https://www.legislation.gov.uk/uksi/1961/1581">S.I. 1961/1581</a></td><td>The whole Regulations.</td></tr>
+<tr><td>The Construction (Lifting Operations) Reports Order 1962</td><td><a href="https://www.legislation.gov.uk/uksi/1962/225">S.I. 1962/225</a></td><td>The whole order.</td></tr>
+<tr><td>The Construction (Lifting Operations) Prescribed Particulars Order 1962</td><td><a href="https://www.legislation.gov.uk/uksi/1962/226">S.I. 1962/226</a></td><td>The whole order.</td></tr>
+<tr><td>The Hoists Exemption Order 1962</td><td><a href="https://www.legislation.gov.uk/uksi/1962/715">S.I. 1962/715</a></td><td>The whole order.</td></tr>
+<tr><td>The Hoists Exemption (Amendment) Order 1967</td><td><a href="https://www.legislation.gov.uk/uksi/1967/759">S.I. 1967/759</a></td><td>The whole order.</td></tr>
+<tr><td>The Offices, Shops and Railway Premises (Hoists and Lifts) Regulations 1968</td><td><a href="https://www.legislation.gov.uk/uksi/1968/849">S.I. 1968/849</a></td><td>The whole Regulations.</td></tr>
+<tr><td>The Offshore Installations (Operational Safety, Health and Welfare) Regulations 1976</td><td><a href="https://www.legislation.gov.uk/uksi/1976/1019">S.I. 1976/1019</a></td><td>The whole Regulations.</td></tr>
+<tr><td>The Hoists and Lifts (Metrication) Regulations 1983</td><td><a href="https://www.legislation.gov.uk/uksi/1983/1579">S.I. 1983/1579</a></td><td>The whole Regulations.</td></tr>
+<tr><td>The Construction (Metrication) Regulations 1984</td><td><a href="https://www.legislation.gov.uk/uksi/1984/1593">S.I. 1984/1593</a></td><td>The whole Regulations.</td></tr>
+<tr><td>The Health and Safety (Miscellaneous Modifications) Regulations 1989</td><td><a href="https://www.legislation.gov.uk/uksi/1989/1141">S.I. 1989/1141</a></td><td>The whole Regulations.</td></tr>
+<tr><td>The Lifting Plant and Equipment (Records of Test and Examination etc.) Regulations 1992</td><td><a href="https://www.legislation.gov.uk/uksi/1992/195">S.I. 1992/195</a></td><td>The whole Regulations.</td></tr>
+<tr><td>The Construction (Health, Safety and Welfare) Regulations 1996 <em>(Extent: E+W+S)</em> <em>(affected by repeal, see note)</em></td><td><a href="https://www.legislation.gov.uk/uksi/1996/1592">S.I. 1996/1592 <em>(Extent: E+W+S)</em> <em>(affected by repeal, see note)</em></a></td><td>Paragraph 3 of Schedule 9. <em>(Extent: E+W+S)</em> <em>(affected by repeal, see note)</em></td></tr>
+</tbody>
+</table>
+
+[^key-7ab59ec3bfca32d4a87f4ff9e627d916][^key-7ab59ec3bfca32d4a87f4ff9e627d916][^key-7ab59ec3bfca32d4a87f4ff9e627d916][^key-fc07253b6e08323264bf4da783c6d2c2][^key-fc07253b6e08323264bf4da783c6d2c2][^key-fc07253b6e08323264bf4da783c6d2c2]
+
+(This note is not part of the Regulations)
+
+**1.** These Regulations impose health and safety requirements with respect to lifting equipment, which is defined in *regulation 2(1)*.
+
+**2.** Save as regards the matters mentioned in paragraphs 4 and 5(b) the Regulations give effect as respects Great Britain to Article 4a in respect of lifting equipment, to point 3.2 of Annex I, and to the final paragraph of point 3.2.5 of Annex II, to Council Directive [89/655/EEC](https://www.legislation.gov.uk/european/directive/1989/0655) (OJ No. L393, 30.12.89, p.13) on the minimum health and safety requirements for the use of work equipment by workers at work (“the Directive”) as amended by Council Directive [95/63/EC](https://www.legislation.gov.uk/european/directive/1995/0063) (OJ No. L335, 30.12.95, p.28).
+
+**3.** Save in the case of regulation 10(1) and (2), the Regulations place duties on employers. In addition (not required by the Directive) Regulation 3 (application) places those duties on self-employed persons, and certain persons having control of lifting equipment, of persons at work who use or supervise or manage its use, or of the way it is used, to the extent of their control *(regulation 3(3) to (5))*.
+
+**4.** The Regulations have limited application to ships *(regulation 3(6) to (11))*.
+
+**5.** The Regulations make provision with respect to—
+
+- (a) the strength and stability of lifting equipment *(regulation 4)*;
+- (b) the safety of lifting equipment for lifting persons *(regulation 5)*;
+- (c) the way lifting equipment is positioned and installed *(regulation 6)*;
+- (d) the marking of machinery and accessories for lifting, and lifting equipment which is designed for lifting persons or which might so be used in error *(regulation 7)*;
+- (e) the organisation of lifting operations *(regulation 8)*;
+- (f) the thorough examination (defined in *(regulation 2(1))* and inspection of lifting equipment in specified circumstances, *(regulation 9(1) to (3))*;
+- (g) the evidence of examination to accompany it outside the undertaking *(regulation 9(4))*;
+- (h) the exception for winding apparatus at mines from regulation 9 *(regulation 9(5))*;
+- (i) transitional arrangements relating to regulation 9 *(regulation 9(6) and (7))*;
+- (j) the making of reports of thorough examinations and records of inspections *(regulation 10 and Schedule 1)*; and
+- (k) the keeping of information in the reports and records *(regulation 11)*.
+
+**6.** The Secretary of State for Defence may grant exemptions from the Regulations in the interests of national security *(regulation 12)*.
+
+**7.** Enactments and instruments replaced by these Regulations are repealed or revoked; consequential amendments are made *(regulations 13 to 17 and Schedule 2)*.
+
+**8.** A copy of the cost benefit assessment prepared in respect of these Regulations may be obtained from the Economic Adviser’s Unit, the Health and Safety Executive, Rose Court, 2 Southwark Bridge, London SE1 9HS.
+
+## Annotations
+
+[^f00001]: Footnote: [1974 c. 37](https://www.legislation.gov.uk/ukpga/1974/37). Sections 15 and 50 were amended by the Employment Protection Act [1975 (c. 71)](https://www.legislation.gov.uk/ukpga/1975/71) Schedule 15, paragraphs 6 and 16 respectively. The general purposes of the 1974 Act were extended by section 1(1) of the Offshore Safety Act [1992 (c. 15)](https://www.legislation.gov.uk/ukpga/1992/15). Section 51A was inserted by section 1, and sections 52 and 53 were amended by sections 2 and 6 respectively, of the Police (Health and Safety) Act [1997 (c. 42)](https://www.legislation.gov.uk/ukpga/1997/42).
+
+[^key-82ff03d9dc275649f453f92bff522b77]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/1998/2307/regulation/1) in force at 5.12.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2307/regulation/1)
+
+[^key-1b7a0369ec0d1c5e6698ccf2035737f0]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/1998/2307/regulation/2) in force at 5.12.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2307/regulation/1)
+
+[^key-3227e909ae439154bc9653418b5c02b3]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1998/2307/regulation/2/1) deleted (29.12.2009) by [The Supply of Machinery (Safety) Regulations 2008 (S.I. 2008/1597)](https://www.legislation.gov.uk/uksi/2008/1597), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1597/regulation/1/1), [Sch. 7 para. 2(a)](https://www.legislation.gov.uk/uksi/2008/1597/schedule/7/paragraph/2/a) (with [reg. 28](https://www.legislation.gov.uk/uksi/2008/1597/regulation/28))
+
+[^key-7dcddc6c1789d8d47dcf6e6f7ba72c35]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1998/2307/regulation/2/1) substituted (E.W.S.) (17.9.2002) by [The Health and Safety (Miscellaneous Amendments) Regulations 2002 (S.I. 2002/2174)](https://www.legislation.gov.uk/uksi/2002/2174), [regs. 1](https://www.legislation.gov.uk/uksi/2002/2174/regulation/1), [8(a)](https://www.legislation.gov.uk/uksi/2002/2174/regulation/8/a)
+
+[^key-bb753925382be2b4d2707d2e5bfd6b64]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1998/2307/regulation/2/1) substituted (E.W.S.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 7 para. 1(2)(a)](https://www.legislation.gov.uk/uksi/2019/696/schedule/7/paragraph/1/2/a) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-5386efbd4e819de21b191fbba2c0ad12]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1998/2307/regulation/2/1) substituted (29.12.2009) by [The Supply of Machinery (Safety) Regulations 2008 (S.I. 2008/1597)](https://www.legislation.gov.uk/uksi/2008/1597), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1597/regulation/1/1), [Sch. 7 para. 2(b)](https://www.legislation.gov.uk/uksi/2008/1597/schedule/7/paragraph/2/b) (with [reg. 28](https://www.legislation.gov.uk/uksi/2008/1597/regulation/28))
+
+[^key-9ae5234f1a465e3cda91ccf5055c001a]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1998/2307/regulation/2/1) substituted (E.W.S.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 7 para. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/696/schedule/7/paragraph/1/2/b) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^f00003]: Footnote: OJ No. L399. 30.12.89, p.18; printed in the Schedule to [S.I. 1992/3139](https://www.legislation.gov.uk/uksi/1992/3139).
+
+[^key-e19056a13934452f5c2ecdd049691598]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1998/2307/regulation/2/1) substituted (8.12.2016) by [The Lifts Regulations 2016 (S.I. 2016/1093)](https://www.legislation.gov.uk/uksi/2016/1093), [regs. 1](https://www.legislation.gov.uk/uksi/2016/1093/regulation/1), [83(8)(a)](https://www.legislation.gov.uk/uksi/2016/1093/regulation/83/8/a) (with [regs. 3-5](https://www.legislation.gov.uk/uksi/2016/1093/regulation/3))
+
+[^f00004]: Footnote: [S.I. 1997/831](https://www.legislation.gov.uk/uksi/1997/831).
+
+[^f00005]: Footnote: [S.I. 1998/2306](https://www.legislation.gov.uk/uksi/1998/2306).
+
+[^key-31104e1e4e3eb341b81eb8a18cf01c5f]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/1998/2307/regulation/3) in force at 5.12.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2307/regulation/1)
+
+[^f00006]: Footnote: [S.I. 1995/263](https://www.legislation.gov.uk/uksi/1995/263).
+
+[^key-d4d241ed184c3e47ffb38654a0cc61f9]: Textual amendment: Words in [reg. 3(3)(a)](https://www.legislation.gov.uk/uksi/1998/2307/regulation/3/3/a) substituted (1.10.2015) by [The Deregulation Act 2015 (Health and Safety at Work) (General Duties of Self-Employed Persons) (Consequential Amendments) Order 2015 (S.I. 2015/1637)](https://www.legislation.gov.uk/uksi/2015/1637), [art. 1](https://www.legislation.gov.uk/uksi/2015/1637/article/1), [Sch. para. 5(a)](https://www.legislation.gov.uk/uksi/2015/1637/schedule/paragraph/5/a)
+
+[^key-ed7a1dc4095edd5b048b107e61e949be]: Textual amendment: Word in [reg. 3(4)](https://www.legislation.gov.uk/uksi/1998/2307/regulation/3/4) substituted (E.W.S.) (17.9.2002) by [The Health and Safety (Miscellaneous Amendments) Regulations 2002 (S.I. 2002/2174)](https://www.legislation.gov.uk/uksi/2002/2174), [regs. 1](https://www.legislation.gov.uk/uksi/2002/2174/regulation/1), [8(b)](https://www.legislation.gov.uk/uksi/2002/2174/regulation/8/b)
+
+[^f00007]: Footnote: [1995 c. 21](https://www.legislation.gov.uk/ukpga/1995/21).
+
+[^f00008]: Footnote: [S.I. 1988/1636](https://www.legislation.gov.uk/uksi/1988/1636), amended by [S.I. 1988/2274](https://www.legislation.gov.uk/uksi/1988/2274).
+
+[^f00009]: Footnote: [S.I. 1988/1639](https://www.legislation.gov.uk/uksi/1988/1639), amended by [S.I. 1988/2274](https://www.legislation.gov.uk/uksi/1988/2274).
+
+[^key-5a81ae675227448b858560269abb01f6]: Textual amendment: Words in [reg. 3(11)](https://www.legislation.gov.uk/uksi/1998/2307/regulation/3/11) inserted (1.10.2015) by [The Deregulation Act 2015 (Health and Safety at Work) (General Duties of Self-Employed Persons) (Consequential Amendments) Order 2015 (S.I. 2015/1637)](https://www.legislation.gov.uk/uksi/2015/1637), [art. 1](https://www.legislation.gov.uk/uksi/2015/1637/article/1), [Sch. para. 5(b)](https://www.legislation.gov.uk/uksi/2015/1637/schedule/paragraph/5/b)
+
+[^key-b7fd12c8df0fe91ef5ebcb970b8001eb]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/1998/2307/regulation/4) in force at 5.12.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2307/regulation/1)
+
+[^key-acac8e56c88b99dc2d55f4306e7ce187]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/1998/2307/regulation/5) in force at 5.12.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2307/regulation/1)
+
+[^key-ba739dfbe9d573a60f7ce150f2e7d0bc]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/1998/2307/regulation/6) in force at 5.12.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2307/regulation/1)
+
+[^key-dd030cae6153e937f09c0c8ea64637ae]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/1998/2307/regulation/7) in force at 5.12.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2307/regulation/1)
+
+[^key-32dfd92d103fa58415e4e4809be4aa61]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/1998/2307/regulation/8) in force at 5.12.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2307/regulation/1)
+
+[^key-74cb51c4f3691a75b735f0b159207782]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/1998/2307/regulation/9) in force at 5.12.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2307/regulation/1)
+
+[^key-c770ec33e17502a231b759090cf67a2c]: Textual amendment: Words in [reg. 9(1)(b)](https://www.legislation.gov.uk/uksi/1998/2307/regulation/9/1/b) substituted (E.W.S.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 7 para. 1(3)](https://www.legislation.gov.uk/uksi/2019/696/schedule/7/paragraph/1/3) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-16f05b8c86bbc90f6c4c1c2801901573]: Textual amendment: Words in [reg. 9(1)(b)](https://www.legislation.gov.uk/uksi/1998/2307/regulation/9/1/b) substituted (8.12.2016) by [The Lifts Regulations 2016 (S.I. 2016/1093)](https://www.legislation.gov.uk/uksi/2016/1093), [regs. 1](https://www.legislation.gov.uk/uksi/2016/1093/regulation/1), [83(8)(b)](https://www.legislation.gov.uk/uksi/2016/1093/regulation/83/8/b) (with [regs. 3-5](https://www.legislation.gov.uk/uksi/2016/1093/regulation/3))
+
+[^key-9f517b2d8470c476d789fbfd5c222b14]: Textual amendment: Words in [reg. 9(5)](https://www.legislation.gov.uk/uksi/1998/2307/regulation/9/5) substituted (6.4.2015) by [The Mines Regulations 2014 (S.I. 2014/3248)](https://www.legislation.gov.uk/uksi/2014/3248), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2), [Sch. 5 para. 9](https://www.legislation.gov.uk/uksi/2014/3248/schedule/5/paragraph/9) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/3))
+
+[^f00010]: Footnote: [S.I. 1993/302](https://www.legislation.gov.uk/uksi/1993/302).
+
+[^f00011]: Footnote: [1961 c. 34](https://www.legislation.gov.uk/ukpga/1961/34); sections 22(2) and 27(2) were amended by [S.I. 1992/195](https://www.legislation.gov.uk/uksi/1992/195).
+
+[^key-a09282854d11b794f9b357e81097a275]: Textual amendment: [Reg. 9(7)(b)](https://www.legislation.gov.uk/uksi/1998/2307/regulation/9/7/b) revoked (E.W.S.) (6.4.2013) by [The Health and Safety (Miscellaneous Repeals, Revocations and Amendments) Regulations 2013 (S.I. 2013/448)](https://www.legislation.gov.uk/uksi/2013/448), [reg. 1](https://www.legislation.gov.uk/uksi/2013/448/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2013/448/schedule) Table 4
+
+[^f00012]: Footnote: [1960/1932](https://www.legislation.gov.uk/uksi/1960/1932); amended by [S.I. 1992/195](https://www.legislation.gov.uk/uksi/1992/195).
+
+[^f00013]: Footnote: [1961/1581](https://www.legislation.gov.uk/uksi/1961/1581); amended by [S.I. 1992/195](https://www.legislation.gov.uk/uksi/1992/195).
+
+[^f00014]: Footnote: [1968/849](https://www.legislation.gov.uk/uksi/1968/849); amended by [S.I. 1992/195](https://www.legislation.gov.uk/uksi/1992/195).
+
+[^f00015]: Footnote: [S.I. 1976/1019](https://www.legislation.gov.uk/uksi/1976/1019).
+
+[^f00016]: Footnote: [S.I. 1988/1655](https://www.legislation.gov.uk/uksi/1988/1655); amended by [S.I. 1992/195](https://www.legislation.gov.uk/uksi/1992/195).
+
+[^key-f4cfe1364510f637941b7459e899e684]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/1998/2307/regulation/10) in force at 5.12.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2307/regulation/1)
+
+[^key-7a296e9045e8b3ce3b4a9a168dcf6525]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/1998/2307/regulation/11) in force at 5.12.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2307/regulation/1)
+
+[^key-f54a8c2f359899e592ea6a01d2043c7f]: Textual amendment: Words in [reg. 11(1)](https://www.legislation.gov.uk/uksi/1998/2307/regulation/11/1) substituted (E.W.S.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 7 para. 1(4)](https://www.legislation.gov.uk/uksi/2019/696/schedule/7/paragraph/1/4) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-162acf19ab119bec848caab90262a1b8]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/1998/2307/regulation/12) in force at 5.12.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2307/regulation/1)
+
+[^f00017]: Footnote: [1952 c. 67](https://www.legislation.gov.uk/ukpga/1952/67).
+
+[^f00018]: Footnote: [S.I. 1965/1536](https://www.legislation.gov.uk/uksi/1965/1536), to which there are amendments not relevant to these Regulations.
+
+[^key-d7bae637d7db8c76acb7e5f536315fef]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/1998/2307/regulation/13) in force at 5.12.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2307/regulation/1)
+
+[^key-11b1d9c56680d5c9ab0e8fbcae5a1d63]: Textual amendment: [Reg. 13](https://www.legislation.gov.uk/uksi/1998/2307/regulation/13) revoked (E.W.S.) (6.4.2013) by [The Health and Safety (Miscellaneous Repeals, Revocations and Amendments) Regulations 2013 (S.I. 2013/448)](https://www.legislation.gov.uk/uksi/2013/448), [reg. 1](https://www.legislation.gov.uk/uksi/2013/448/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2013/448/schedule) Table 4
+
+[^key-55ac2c79207372eda6ca150c340e41d9]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/1998/2307/regulation/14) in force at 5.12.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2307/regulation/1)
+
+[^f00019]: Footnote: [S.I. 1988/1655](https://www.legislation.gov.uk/uksi/1988/1655), amended by [S.I. 1992/195](https://www.legislation.gov.uk/uksi/1992/195), [1992/3073](https://www.legislation.gov.uk/uksi/1992/3073).
+
+[^key-a7dbbb4adf9f7a87576ad39becc7e0b1]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/1998/2307/regulation/15) in force at 5.12.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2307/regulation/1)
+
+[^f00020]: Footnote: [1961 c. 34](https://www.legislation.gov.uk/ukpga/1961/34).
+
+[^key-ae98c4bbfbef0eb540e082edac5cb5a1]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/1998/2307/regulation/16) in force at 5.12.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2307/regulation/1)
+
+[^f00021]: Footnote: [1954 c. 70](https://www.legislation.gov.uk/ukpga/1954/70).
+
+[^key-db70969fe1818d790fd5534a3af016c0]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/1998/2307/regulation/17) in force at 5.12.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2307/regulation/1)
+
+[^key-25b47a469b7935f28d361ad17bf09f11]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/1998/2307/schedule/1/paragraph/1) in force at 5.12.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2307/regulation/1)
+
+[^key-9bedded7ac9421c3fd731f5310e01d4d]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/1998/2307/schedule/1/paragraph/2) in force at 5.12.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2307/regulation/1)
+
+[^key-1ece2cbf6299c1a50e24658c032f090b]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/1998/2307/schedule/1/paragraph/3) in force at 5.12.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2307/regulation/1)
+
+[^key-6850012bfb7b709108822b5d769f05b9]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/1998/2307/schedule/1/paragraph/4) in force at 5.12.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2307/regulation/1)
+
+[^key-9134c3629b7ac8083901e12170272175]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/1998/2307/schedule/1/paragraph/5) in force at 5.12.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2307/regulation/1)
+
+[^key-52dbec31f09c22b9d73d41ad9396f939]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/1998/2307/schedule/1/paragraph/6) in force at 5.12.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2307/regulation/1)
+
+[^key-4d81e4269413774368a9fc92d25b1a33]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/uksi/1998/2307/schedule/1/paragraph/7) in force at 5.12.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2307/regulation/1)
+
+[^key-f1f0da0f1f9659b100ed068c50a42588]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/1998/2307/schedule/1/paragraph/8) in force at 5.12.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2307/regulation/1)
+
+[^key-1ab5b6c7d5fbe2f3e791839ae8f97685]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/1998/2307/schedule/1/paragraph/9) in force at 5.12.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2307/regulation/1)
+
+[^key-53a5f8891bc68d8869e3c3245a8fc2b6]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/uksi/1998/2307/schedule/1/paragraph/10) in force at 5.12.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2307/regulation/1)
+
+[^key-f3d1b3abbcb12bd86a95caa68ddf5df9]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/uksi/1998/2307/schedule/1/paragraph/11) in force at 5.12.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2307/regulation/1)
+
+[^key-fc5df53d49116b18eee5e6c0b699b72b]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/1998/2307/schedule/2) in force at 5.12.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2307/regulation/1)
+
+[^key-7ab59ec3bfca32d4a87f4ff9e627d916]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/1998/2307/schedule/2) revoked (E.W.S.) (6.4.2013) by [The Health and Safety (Miscellaneous Repeals, Revocations and Amendments) Regulations 2013 (S.I. 2013/448)](https://www.legislation.gov.uk/uksi/2013/448), [reg. 1](https://www.legislation.gov.uk/uksi/2013/448/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2013/448/schedule) Table 4
+
+[^key-fc07253b6e08323264bf4da783c6d2c2]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/1998/2307/schedule/2) revoked (E.W.S.) (6.4.2007) by [The Construction (Design and Management) Regulations 2007 (S.I. 2007/320)](https://www.legislation.gov.uk/uksi/2007/320), [reg. 1](https://www.legislation.gov.uk/uksi/2007/320/regulation/1), [Sch. 4](https://www.legislation.gov.uk/uksi/2007/320/schedule/4) (with [reg. 3](https://www.legislation.gov.uk/uksi/2007/320/regulation/3))

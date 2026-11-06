@@ -1,0 +1,315 @@
+---
+title: The Electricity and Gas (Energy Company Obligation) (Amendment, Saving and Transitional Provisions) Order 2025
+id: uksi/2025/802
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2025-07-03'
+text_date: '2026-03-18'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/uksi/2025/802
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2025/802/pdfs/uksiem_20250802_en_001.pdf
+- http://www.legislation.gov.uk/uksi/2025/802/pdfs/uksi_20250802_en.pdf
+- http://www.legislation.gov.uk/uksi/2025/802/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Electricity and Gas (Energy Company Obligation) (Amendment, Saving and Transitional Provisions) Order 2025
+
+> Text as at 2026-03-18.
+>
+> Extent: England, Wales, Scotland.
+
+*Extent: E+W+S*
+
+2025 No. 802
+
+Electricity
+
+Gas
+
+The Electricity and Gas (Energy Company Obligation) (Amendment, Saving and Transitional Provisions) Order 2025
+
+Made
+
+3rd July 2025
+
+Laid before Parliament
+
+7th July 2025
+
+Coming into force
+
+29th July 2025
+
+The Secretary of State makes this Order in exercise of the powers conferred by section 33BD of the Gas Act 1986[^f00001] and section 41B of the Electricity Act 1989[^f00002] with the agreement of the Scottish Ministers[^f00003].
+
+Before making this Order, the Secretary of State consulted the Gas and Electricity Markets Authority, the National Association of Citizens Advice Bureaux, Consumer Scotland, electricity distributors, electricity suppliers, gas transporters, gas suppliers and such other persons as the Secretary of State considered appropriate.
+
+## PART 1 — Introduction
+
+### 1. Citation, commencement and extent[^key-c72b275bbb8dcdb3378955ae446fd5b0]
+
+(1) This Order may be cited as the Electricity and Gas (Energy Company Obligation) (Amendment, Saving and Transitional Provisions) Order 2025.
+
+(2) This Order comes into force on 29 July 2025.
+
+(3) This Order extends to England and Wales and Scotland.
+
+## PART 2 — Amendment to the Electricity and Gas (Energy Company Obligation) Order 2022
+
+### 2. Amendment to the Electricity and Gas (Energy Company Obligation) Order 2022[^key-25479e1c5af488b256b68648f61ada9f]
+
+The Electricity and Gas (Energy Company Obligation) Order 2022[^f00004] is amended in accordance with this Part.
+
+### 3. Amendment to article 2 (interpretation)[^key-71ef8021785f52814a8a2e026a95ff62]
+
+In article 2, in paragraph (1)—
+
+- (a) for the definition of “Reduced Data Standard Assessment Procedure” substitute—
+
+  > - “**Reduced Data Standard Assessment Procedure**” means the methodology set out in the document titled “BRE RdSAP10 Specification (February 2024)”[^f00005];
+
+  ;
+- (b) after the definition of “rural area” insert—
+
+  > - “SAP10.2” means the Government’s Standard Assessment Procedure for Energy Rating of Dwellings (2023 Edition, version 10.2)[^f00006];
+  > - “**SAP2012**” means the Government’s Standard Assessment Procedure for Energy Rating of Dwellings (2012 Edition, version 9.92)[^f00007];
+
+  ;
+- (c) for the definition of “Standard Assessment Procedure” substitute—
+
+  > - “Standard Assessment Procedure”, except in articles 39 and 70, means either of—
+  >   - (a) SAP2012, or
+  >   - (b) SAP10.2;
+
+  .
+
+### 4. Amendment to article 39 (approval as a data light measure or standard alternative methodology measure)[^key-c3e5cb27a5de2d82d3ff8084d3f22876]
+
+In article 39, after paragraph (4), insert—
+
+> (5) In this article, “**the Standard Assessment Procedure**” means—
+>
+> - (a) SAP2012, and
+> - (b) SAP10.2.
+
+.
+
+### 5. Amendment to article 49 (requirements for a full project score: overview)[^key-2854be41ac2fb40da29dae68e2006ebf]
+
+In article 49, in paragraph (3), in sub-paragraph (a)(i), after “premises” insert “using the same version of the Standard Assessment Procedure as the pre-project energy efficiency assessment”.
+
+### 6. Amendment to article 54 (publication of a methodology for determining ECO4 project cost savings)[^key-5564769dc5b2861df34a3031a817681f]
+
+In article 54, after paragraph (5), insert—
+
+> (6) On or after 31 July 2025, the Administrator may revise any methodology published under this article and must publish the revised methodology on its website.
+>
+> (7) Any revised methodology published under this article by the Administrator for the purpose of determining the annual cost savings of an ECO4 project pursuant to SAP10.2 is applicable only to measures that are completed on or after the date the methodology has been published.
+
+.
+
+### 7. Amendment to article 70 (partial project score for district heating connections)[^key-aa80e9c31caf21d11a4f7616cf898930]
+
+In article 70, after paragraph (5), insert—
+
+> (6) In this article, “**the Standard Assessment Procedure**” means—
+>
+> - (a) SAP2012, and
+> - (b) SAP10.2.
+
+.
+
+### 8. Amendment to article 76 (publication of annual cost savings methodology: other qualifying actions)[^key-1f83d56a8c12e65d82dd8bdd923d00ed]
+
+In article 76, after paragraph (4), insert—
+
+> (5) On or after 31 July 2025, the Administrator may revise any methodology published under this article and must publish the revised methodology on its website.
+>
+> (6) Any revised methodology published under this article by the Administrator for the purpose of determining the annual cost savings of a qualifying action pursuant to SAP10.2 is applicable only to measures that are completed on or after the date the methodology has been published.
+
+.
+
+## PART 3 — Amendment to the Electricity and Gas (Energy Company Obligation) Order 2023
+
+### 9. Amendment to the Electricity and Gas (Energy Company Obligation) Order 2023[^key-b6db4c97c21afb5284fe413d54959c56]
+
+The Electricity and Gas (Energy Company Obligation) Order 2023[^f00008] is amended in accordance with this Part.
+
+### 10. Amendment to article 2 (interpretation)[^key-592eaf20aaadf8c0cd104c5333268861]
+
+In article 2, in paragraph (2), for the definition of “Reduced Data Standard Assessment Procedure” substitute—
+
+> - “**Reduced Data Standard Assessment Procedure**” means the methodology set out in the document titled “BRE RdSAP10 Specification (February 2024)”[^f00009];
+
+.
+
+## PART 4 — Savings and Transitional Provisions
+
+### 11. Savings and transitional provisions[^key-d632f913fe743e1cff8b67cdec737ec3]
+
+(1) Despite the amendments to the 2022 Order made by Part 2 of this Order, where the 2022 Order provides for an RdSAP assessment to be performed as a pre-project energy efficiency assessment of domestic premises in relation to an ECO4 project, during the transition period, the assessment may be performed using RdSAP2012 instead of RdSAP10.
+
+(2) If RdSAP2012 is used in accordance with paragraph (1), RdSAP2012 must also be used for the purpose of performing the assessment referred to in article 49(3)(b) of the 2022 Order.
+
+(3) Paragraphs (1) and (2) do not apply in relation to an ECO4 project referred to in article 12(2)(b) of the 2022 Order with respect to novel data light measures.
+
+(4) Despite the amendments to the 2023 Order made by Part 3 of this Order, during the transition period, the assessment of domestic premises required by article 22(1)(a)(i) of the 2023 Order may be performed using RdSAP2012 instead of RdSAP10.
+
+(5) If RdSAP2012 is used in accordance with paragraph (4), RdSAP2012 must also be used for the purpose of performing the assessment required by article 22(1)(b) of the 2023 Order.
+
+(6) After the transition period, the post-assessment may be performed using RdSAP2012, where—
+
+- (a) the pre-assessment is performed using RdSAP2012, and
+- (b) the post-assessment is to be re-determined for the purpose of re-calculating the SAP rating of the premises.
+
+(7) Nothing in this Order affects an assessment of the energy efficiency of domestic premises performed using RdSAP2012 before this Order comes into force that is relied on by a participant for the purposes of the 2022 Order or the 2023 Order in relation to a measure installed at the premises.
+
+(8) In this article—
+
+- (a) “**the 2022 Order**” means the Electricity and Gas (Energy Company Obligation) Order 2022;
+- (b) “**the 2023 Order**” means the Electricity and Gas (Energy Company Obligation) Order 2023;
+- (c) “**participant**” has the same meaning as in article 4 of the 2022 Order, read with article 4 of the 2023 Order;
+- (d) “**post-assessment**” means the post-project energy efficiency assessment or the post-installation energy efficiency assessment;
+- (e) “**pre-assessment**” means the pre-project energy efficiency assessment or the pre-installation energy efficiency assessment;
+- (f) “**RdSAP10**” means the methodology set out in the document titled “BRE RdSAP10 Specification (February 2024)” ;
+- (g) “**RdSAP2012**” means the Reduced Data Standard Assessment Procedure for Energy Rating of Dwellings ;
+- (h) “**transition period**” means the period of six months beginning with the date on which this Order comes into force;
+- (i) the following expressions have the same meaning as in the 2022 Order—
+  - “domestic premises”;
+  - “ECO4 project”;
+  - “novel data light measure”;
+  - “pre-project energy efficiency assessment”;
+  - “RdSAP assessment”;
+  - “SAP rating”;
+- (j)[^key-7f11fb10b4eab57b57ac667a75d88720] “**post-project energy efficiency assessment**” has the same meaning as in Part 10 of the 2022 Order;
+- (k)[^key-68e5f3acd5854575daa00635dfbd3047] “**post-installation energy efficiency assessment**” means an assessment performed under article 22(1)(b) of the 2023 Order;
+- (l)[^key-2a46cb980fff28f9e46c3d2b11199fac] “**pre-installation energy efficiency assessment**” has the same meaning as in the 2023 Order;
+
+Miatta Fahnbulleh
+
+Parliamentary Under Secretary of State
+
+Department for Energy Security and Net Zero
+
+3rd July 2025
+
+The Scottish Ministers consent to the making of this Order
+
+Màiri McAllan
+
+A member of the Scottish Government
+
+26th June 2025
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order extends to Great Britain. Standard Assessment Procedure (“**SAP**”) and Reduced Data Standard Assessment Procedure (“RdSAP”) are methodologies used in both the Electricity and Gas (Energy Company Obligation) Order 2022 (“**the 2022 Order**”) and the Electricity and Gas (Energy Company Obligation) Order 2023 (“**the 2023 Order**”) to evidence the starting and finishing SAP ratings of existing domestic premises. Both SAP and RdSAP are published by the Building Research Establishment and have undergone updates. Therefore, the 2022 Order and the 2023 Order are being updated to align with the wider industry updates.
+
+Part 1 contains introductory provisions.
+
+Part 2 amends the 2022 Order. In Part 2—
+
+- (k) article 3 amends the definitions under article 2 of the 2022 Order as follows:
+  - (i) the definition of “Reduced Data Standard Assessment Procedure” to include only the new version of the RdSAP methodology, which is RdSAP10;
+  - (ii) the definition of “Standard Assessment Procedure” to include either version of the methodology, i.e., the old version, which is SAP2012 or the new version, which is SAP10.2;
+- (l) article 4 amends article 39 of the 2022 Order so that the Administrator may approve novel data light measure or standard alternative methodology measure where neither SAP2012 nor SAP10.2 contain a mechanism;
+- (m) article 5 amends article 49 of the 2022 Order to ensure that when calculating the full project score which requires a pre-project energy efficiency assessment and a post-project energy efficiency assessment to be performed, the same versions of the Standard Assessment Procedure are used for both pre- and post- assessments;
+- (n) article 6 amends article 54 of the 2022 Order so that (i) the Administrator is able to release a revised methodology on or after 31 July 2025 and (ii) the publication of any annual cost savings methodology for the purpose of determining the annual cost savings of an ECO4 project according to SAP10.2 will only be applicable to measures that are completed on or after the publication of that methodology
+- (o) article 7 amends article 70 of the 2022 Order so that the Administrator may approve novel data light measure or standard alternative methodology measure where neither SAP2012 nor SAP10.2 contain a mechanism;
+- (p) article 8 amends article 76 of the 2022 Order so that (i) the Administrator is able to release a revised methodology on or after 31 July 2025 and (ii) the publication of any annual cost savings methodology for the purpose of determining the annual cost savings of a qualifying action according to SAP10.2 will only be applicable to measures that are completed on or after the publication of that methodology.
+
+Part 3 amends the 2023 Order. In Part 3, article 10 amends the definitions under article 2 of the 2023 Order as follows:
+
+- (q) the definition of “Reduced Data Standard Assessment Procedure” is amended to the new version, which is RdSAP10.
+
+Part 4 makes saving and transitional provisions which apply to both Part 2 and Part 3 of this Order as follows—
+
+- (r) article 11(1) provides that under the 2022 Order, during the transition period, pre-assessment may be done using RdSAP2012 instead of RdSAP10;
+- (s) article 11(2) provides that if pre-assessment is done under the 2022 Order using RdSAP2012, then post-assessment must also be done in RdSAP2012;
+- (t) articles 11(3) excludes application of transitional provisions to novel data light measures under the 2022 Order;
+- (u) article 11(4) provides that under the 2023 Order, during the transition period, pre-assessment may be done using RdSAP2012 instead of RdSAP10;
+- (v) article 11(5) provides that if pre-assessment is done under the 2023 Order using RdSAP2012, then post-assessment must also be done in RdSAP2012;
+- (w) article 11(6) provides that where the SAP rating of the domestic premises is to be re-determined for compliance with the 2022 Order or the 2023 Order, RdSAP2012 may be used for the post-assessment if the pre-assessment has been performed using RdSAP2012;
+- (x) article 11(7) is the savings provision for any assessments done under RdSAP2012 in the 2022 Order and the 2023 Order before this Order comes into force.
+
+Hard copies of both versions of (i) the Standard Assessment Procedure and (ii) the Reduced Data Standard Assessment Procedure can be inspected by contacting the Energy Company Obligation Team, Department for Energy Security and Net Zero, 3-8 Whitehall Place, London, SW1A 2EG.
+
+An impact assessment of this instrument has been published and is available at www.legislation.gov.uk. Hard copies of the impact assessment can be obtained from the Energy Company Obligation Team, Department for Energy Security and Net Zero, 3-8 Whitehall Place, London, SW1A 2EG.
+
+[1986 c. 44](https://www.legislation.gov.uk/ukpga/1986/44). Section 33BD was inserted by section 68 of the Energy Act [2011 (c. 16)](https://www.legislation.gov.uk/ukpga/2011/16). Section 33BD(4) applies subsections (3), (5) to (8), (9A) and (10A) to (12B) of section 33BC of the Gas Act 1986 with modifications by substituting “carbon emissions reduction obligation” with “home-heating cost reduction obligation” in those subsections.
+
+[1989 c. 29](https://www.legislation.gov.uk/ukpga/1989/29). Section 41B was inserted by section 69 of the Energy Act 2011. Section 41B(4) applies subsections (3), (5) to (8), (9A) and (10A) to (12B) of section 41A of the Electricity Act 1989 with modifications by substituting “carbon emissions reduction obligation” with “home-heating cost reduction obligation” in those subsections.
+
+Notwithstanding section 33BDA of the Gas Act 1986 and section 41BA of the Electricity Act 1989, as inserted by section 59 of the Scotland Act [2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), the Secretary of State may, by virtue of section 33BDA(10) of the Gas Act 1986 and section 41BA(10) of the Electricity Act 1989, make provision under section 33BD of the Gas Act 1986 and section 41B of the Electricity Act 1989 for the purposes of obligations imposed under those sections in relation to Scotland (on gas and electricity suppliers), with the agreement of the Scottish Ministers.
+
+[S.I. 2022/875](https://www.legislation.gov.uk/uksi/2022/875), amended by [S.I. 2023/873](https://www.legislation.gov.uk/uksi/2023/873).
+
+This is version 10 of the methodology dated 12<sup>th</sup> February 2024. Copies can be accessed at https://bregroup.com/sap/sap10/. A copy can be inspected by contacting the Energy Company Obligation Team at the Department for Energy Security and Net Zero, 3-8 Whitehall Place, London, SW1A 2EG.
+
+Copies can be accessed at https://bregroup.com/sap/sap10/. A copy can be inspected by contacting the Energy Company Obligation Team at the Department for Energy Security and Net Zero, 3-8 Whitehall Place, London, SW1A 2EG.
+
+Copies can be accessed at https://bregroup.com/expertise/energy/sap/standard-assessment-procedure-2012. A copy can be inspected by contacting the Energy Company Obligation Team at the Department for Energy Security and Net Zero, 3-8 Whitehall Place, London, SW1A 2EG.
+
+[S.I. 2023/873](https://www.legislation.gov.uk/uksi/2023/873).
+
+This is version 10 of the methodology dated 12th February 2024. Copies can be accessed at https://bregroup.com/sap/sap10/. A copy can be inspected by contacting the Energy Company Obligation Team at the Department for Energy Security and Net Zero, 3-8 Whitehall Place, London, SW1A 2EG.
+
+This is version 10 of the methodology dated 12th February 2024. Copies can be accessed at https://bregroup.com/sap/sap10/. A copy can be inspected by contacting the Energy Company Obligation Team at the Department for Energy Security and Net Zero, 3-8 Whitehall Place, London, SW1A 2EG.
+
+This is version 9.94 of the 2012 Edition. Copies can be accessed at https://bregroup.com/expertise/energy/sap/standard-assessment-procedure-2012. A copy can be inspected by contacting the Energy Company Obligation Team at the Department for Energy Security and Net Zero, 3-8 Whitehall Place, London, SW1A 2EG.
+
+## Annotations
+
+[^f00001]: Footnote: [1986 c. 44](https://www.legislation.gov.uk/ukpga/1986/44). Section 33BD was inserted by section 68 of the Energy Act [2011 (c. 16)](https://www.legislation.gov.uk/ukpga/2011/16). Section 33BD(4) applies subsections (3), (5) to (8), (9A) and (10A) to (12B) of section 33BC of the Gas Act 1986 with modifications by substituting “carbon emissions reduction obligation” with “home-heating cost reduction obligation” in those subsections.
+
+[^f00002]: Footnote: [1989 c. 29](https://www.legislation.gov.uk/ukpga/1989/29). Section 41B was inserted by section 69 of the Energy Act 2011. Section 41B(4) applies subsections (3), (5) to (8), (9A) and (10A) to (12B) of section 41A of the Electricity Act 1989 with modifications by substituting “carbon emissions reduction obligation” with “home-heating cost reduction obligation” in those subsections.
+
+[^f00003]: Footnote: Notwithstanding section 33BDA of the Gas Act 1986 and section 41BA of the Electricity Act 1989, as inserted by section 59 of the Scotland Act [2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), the Secretary of State may, by virtue of section 33BDA(10) of the Gas Act 1986 and section 41BA(10) of the Electricity Act 1989, make provision under section 33BD of the Gas Act 1986 and section 41B of the Electricity Act 1989 for the purposes of obligations imposed under those sections in relation to Scotland (on gas and electricity suppliers), with the agreement of the Scottish Ministers.
+
+[^key-c72b275bbb8dcdb3378955ae446fd5b0]: Commencement: Art. 1 in force at 29.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/802/article/1/2)
+
+[^key-25479e1c5af488b256b68648f61ada9f]: Commencement: Art. 2 in force at 29.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/802/article/1/2)
+
+[^f00004]: Footnote: [S.I. 2022/875](https://www.legislation.gov.uk/uksi/2022/875), amended by [S.I. 2023/873](https://www.legislation.gov.uk/uksi/2023/873).
+
+[^key-71ef8021785f52814a8a2e026a95ff62]: Commencement: Art. 3 in force at 29.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/802/article/1/2)
+
+[^f00005]: Footnote: This is version 10 of the methodology dated 12<sup>th</sup> February 2024. Copies can be accessed at https://bregroup.com/sap/sap10/. A copy can be inspected by contacting the Energy Company Obligation Team at the Department for Energy Security and Net Zero, 3-8 Whitehall Place, London, SW1A 2EG.
+
+[^f00006]: Footnote: Copies can be accessed at https://bregroup.com/sap/sap10/. A copy can be inspected by contacting the Energy Company Obligation Team at the Department for Energy Security and Net Zero, 3-8 Whitehall Place, London, SW1A 2EG.
+
+[^f00007]: Footnote: Copies can be accessed at https://bregroup.com/expertise/energy/sap/standard-assessment-procedure-2012. A copy can be inspected by contacting the Energy Company Obligation Team at the Department for Energy Security and Net Zero, 3-8 Whitehall Place, London, SW1A 2EG.
+
+[^key-c3e5cb27a5de2d82d3ff8084d3f22876]: Commencement: Art. 4 in force at 29.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/802/article/1/2)
+
+[^key-2854be41ac2fb40da29dae68e2006ebf]: Commencement: Art. 5 in force at 29.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/802/article/1/2)
+
+[^key-5564769dc5b2861df34a3031a817681f]: Commencement: Art. 6 in force at 29.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/802/article/1/2)
+
+[^key-aa80e9c31caf21d11a4f7616cf898930]: Commencement: Art. 7 in force at 29.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/802/article/1/2)
+
+[^key-1f83d56a8c12e65d82dd8bdd923d00ed]: Commencement: Art. 8 in force at 29.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/802/article/1/2)
+
+[^key-b6db4c97c21afb5284fe413d54959c56]: Commencement: Art. 9 in force at 29.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/802/article/1/2)
+
+[^f00008]: Footnote: [S.I. 2023/873](https://www.legislation.gov.uk/uksi/2023/873).
+
+[^key-592eaf20aaadf8c0cd104c5333268861]: Commencement: Art. 10 in force at 29.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/802/article/1/2)
+
+[^f00009]: Footnote: This is version 10 of the methodology dated 12th February 2024. Copies can be accessed at https://bregroup.com/sap/sap10/. A copy can be inspected by contacting the Energy Company Obligation Team at the Department for Energy Security and Net Zero, 3-8 Whitehall Place, London, SW1A 2EG.
+
+[^key-d632f913fe743e1cff8b67cdec737ec3]: Commencement: Art. 11 in force at 29.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/802/article/1/2)
+
+[^key-7f11fb10b4eab57b57ac667a75d88720]: Textual amendment: Art. 11(8)(j) substituted (18.3.2026) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2026 (S.I. 2026/155)](https://www.legislation.gov.uk/uksi/2026/155), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/155/article/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2026/155/article/3/2)
+
+[^key-68e5f3acd5854575daa00635dfbd3047]: Textual amendment: Art. 11(8)(k) inserted (18.3.2026) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2026 (S.I. 2026/155)](https://www.legislation.gov.uk/uksi/2026/155), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/155/article/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2026/155/article/3/3)
+
+[^key-2a46cb980fff28f9e46c3d2b11199fac]: Textual amendment: Art. 11(8)(l) inserted (18.3.2026) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2026 (S.I. 2026/155)](https://www.legislation.gov.uk/uksi/2026/155), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/155/article/1/2), [3(4)](https://www.legislation.gov.uk/uksi/2026/155/article/3/4)

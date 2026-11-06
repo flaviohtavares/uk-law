@@ -1,0 +1,1479 @@
+---
+title: The Unregistered Companies Regulations 2009
+id: uksi/2009/2436
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2009-09-04'
+text_date: '2025-11-18'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2009/2436
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2009/2436/pdfs/uksiem_20092436_en.pdf
+- http://www.legislation.gov.uk/uksi/2009/2436/pdfs/uksi_20092436_en.pdf
+- http://www.legislation.gov.uk/uksi/2009/2436/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Unregistered Companies Regulations 2009
+
+> Text as at 2025-11-18.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2009 No. 2436
+
+Companies
+
+The Unregistered Companies Regulations 2009
+
+Made
+
+4th September 2009
+
+Laid before Parliament
+
+8th September 2009
+
+Coming into force
+
+1st October 2009
+
+The Secretary of State makes the following Regulations in exercise of the powers conferred by sections 1043, 1210(1)(h) and 1292(2) of the Companies Act 2006 [^c19851671].
+
+## 1. Citation and commencement
+
+(1) These Regulations may be cited as the Unregistered Companies Regulations 2009.
+
+(2) These Regulations come into force on 1st October 2009.
+
+## 2. Interpretation
+
+In these Regulations—
+
+- (a) “**unregistered company**” means a body corporate incorporated in, and having a principal place of business in, the United Kingdom, other than—
+  - (i) a body incorporated by, or registered under, a public general enactment,
+  - (ii) a body not formed for the purpose of carrying on a business that has for its object the acquisition of gain by the body or its individual members,
+  - (iii) a body for the time being exempted from section 1043 of the Companies Act 2006 by a direction of the Secretary of State under subsection (1)(c) of that section, [^key-053a7e22b2666eed8f6980fb3be35dc0]...
+  - (iv) an open-ended investment company; or[^key-8b443799d560b234424a17a2fc13e39c]
+  - (v)[^key-dc0a7065093f3f16be94ac38e2fba752] a protected cell company registered under Part 4 of the Risk Transformation Regulations 2017.
+- (b) “**instrument constituting or regulating the company**”, in relation to an unregistered company, means any enactment, royal charter, letters patent, deed of settlement, contract of partnership, or other instrument constituting or regulating the company.
+
+## 3. Application of provisions of the Companies Acts
+
+The provisions of the Companies Acts specified in Schedule 1 to these Regulations apply to an unregistered company as to a company within the meaning of section 1 of the Companies Act 2006, subject to any limitation, adaptation or modification specified in that Schedule.
+
+## 4. References to registered office and registration
+
+For the purposes of the application to an unregistered company of the provisions of the Companies Acts applying to it by virtue of these Regulations—
+
+- (a) any reference to the company's registered office shall be read as a reference to the company's principal office in the United Kingdom;
+- (b) any reference to the part of the United Kingdom in which the company is registered shall be read as a reference to the part of the United Kingdom in which the company's principal office is situated (and references to the registrar of companies shall be read accordingly);
+- (c) any reference to the company's registered number shall be read as a reference to the reference number allocated to the company by the registrar.
+
+## 5. Other general adaptations
+
+(1) In the application of any provision of the Companies Acts by virtue of these Regulations—
+
+- (a) any reference to a public company shall be read, in relation to an unregistered company, as referring to a company that has power under its constitution to offer its shares or debentures to the public;
+- (b) any reference to a private company shall be read, in relation to an unregistered company, as referring to a company that does not have power to offer its shares or debentures to the public;
+- (c) any reference to the company's constitution, or to its articles of association, shall be read, in relation to an unregistered company, as referring to any instrument constituting or regulating the company;
+- (d) any reference to the common seal of the company shall be read, in relation to an unregistered company, as referring to the common or authorised seal of the company.
+
+(2) In the application of any provision of the Companies Acts to an unregistered company by virtue of these Regulations an expression defined, or otherwise having a particular meaning or effect, in relation to a company within the meaning of section 1 of the Companies Act 2006, has effect with any adaptations necessary to ensure a corresponding meaning or effect in relation to an unregistered company.
+
+(3) Paragraphs (1) and (2) are subject to any specific adaptation or modification provided for in these Regulations.
+
+## 6. Application of provisions relating to statutory auditors
+
+For the purposes of section 1210(1)(h) of the Companies Act 2006 (meaning of “statutory auditor”)—
+
+- (a) an unregistered company is a prescribed person, and
+- (b) Part 16 of that Act (audit) as applied to unregistered companies by these Regulations is a prescribed enactment.
+
+(and accordingly a person appointed as auditor of an unregistered company under Part 16 of that Act as so applied is a statutory auditor).
+
+## 7. Saving
+
+Nothing in these Regulations affects the application of any provision to an unregistered company otherwise than by virtue of these Regulations.
+
+## 8. Revocations
+
+The following Regulations are revoked—
+
+- (a) the Companies (Unregistered Companies) Regulations 1985 [^c19851681],
+- (b) the Companies (Unregistered Companies) Regulations (Northern Ireland) 1986 [^c19851691], and
+- (c) the Companies Acts (Unregistered Companies) Regulations 2007 [^c19851701].
+
+## 9. Transitional provisions and savings
+
+Schedule 2 contains transitional provisions and savings.
+
+Davies of Abersoch
+
+Minister for Trade, Investment and Business
+
+Department for Business, Innovation and Skills
+
+## SCHEDULE 1 — PROVISIONS OF THE COMPANIES ACTS APPLYING TO UNREGISTERED COMPANIES
+
+Regulation 3
+
+### 1. A company's constitution
+
+Sections 26 and 27 of the Companies Act 2006 (filing obligations in connection with company's articles) apply to unregistered companies, modified so that they read as follows—
+
+> **26. Documents to be sent to the registrar on incorporation[^key-d3e8fa5535f4cee5903456f69f2e3d81]**
+>
+> (1)[^key-92b2e6a043dbd02e370c6dc2fe1cb6c2] A company must, not later than 15 days after the date of its incorporation, send to the registrar—
+>
+> - (a) a copy of every instrument constituting or regulating the company;
+> - (b) a statement of the company’s officers, and
+> - (c) a statement of initial significant control.
+>
+> (1A)[^key-9792f63c0e9b2770f3c3c39ce28c5999] The following requirements apply in relation to the statement under subsection (1)(b)—
+>
+> - (a) the statement must contain the required information about—
+>   - (i) any person who is a director or directors of the company, and
+>   - (ii) any person who is a secretary (or persons who are joint secretaries) of the company;
+> - (b) the statement must—
+>   - (i) be accompanied by a statement by the company that each person named as a director, as secretary or as one of joint secretaries has consented to act in the relevant capacity, and
+>   - (ii) in the case of each individual named as a director—
+>     - (A) confirm that the individual’s identity is verified within the meaning of section 1110A, and
+>     - (B) state the individual’s unique identifier;
+> - (c) the statement must also include a statement that no one named as a director is—
+>   - (i) disqualified under the directors disqualification legislation (see section 159A(2)), or
+>   - (ii) otherwise ineligible by virtue of any enactment for appointment as a director;
+> - (d) where any of the persons named as directors would be disqualified under the directors disqualification legislation but for the permission of a court to act, the statement must also include a statement to that effect, in respect of each of them, specifying—
+>   - (i) the person’s name,
+>   - (ii) the court by which permission was given, and
+>   - (iii) the date on which the permission was given;
+> - (e) where any of the persons named as directors would be disqualified under the directors disqualification legislation by virtue of section 11A of the Company Directors Disqualification Act [1986 (c. 46)](https://www.legislation.gov.uk/ukpga/1986/46) or article 15A of the Company Directors Disqualification (Northern Ireland) Order 2002 ([S.I. 2002/3150 (N.I. 4)](https://www.legislation.gov.uk/nisi/2002/3150) (designated persons under sanctions legislation) but for the authority of a licence of the kind mentioned in that section or article, the statement must also include a statement to that effect, in respect of each of them, specifying—
+>   - (i) the person’s name, and
+>   - (ii) the date on which the licence was issued and by whom it was issued.
+>
+> (1B) In subsection (1A), for the required information—
+>
+> - (a) in relation to directors, see sections 167J and 167K, and
+> - (b) in relation to secretaries or joint secretaries, see sections 279J and 279K.
+>
+> (1C) The following requirements apply in relation to the statement under subsection (1)(c)—
+>
+> - (a) the statement must—
+>   - (i) state whether there is anyone who is either a registrable person or a registrable relevant legal entity in relation to the company, and
+>   - (ii) include the required particulars of any such person;
+> - (b) if there is anyone who is a registrable person, or a registrable relevant legal entity, in relation to the company, the statement must also include—
+>   - (i) a statement that none of them is disqualified under the directors disqualification legislation (see section 159A(2)),
+>   - (ii) if any of them would be so disqualified but for the permission of a court to act, a statement to that effect, in respect of each of them, specifying—
+>     - (A) the person’s name,
+>     - (B) the court by which permission was given,
+>     - (C) the date on which permission was given, and
+>   - (iii) if any of them would be so disqualified by virtue of section 11A of the Company Directors Disqualification Act 1986 or article 15A of the Company Directors Disqualification (Northern Ireland) Order 2002 but for the authority of a licence of the kind mentioned in that section or article, a statement to that effect, in respect of each of them, specifying—
+>     - (A) the person’s name, and
+>     - (B) the date on which the licence was issued and by whom it was issued;
+> - (c) if the statement includes required particulars of an individual, it must also contain a statement that those particulars are included with the knowledge of that individual.
+>
+> (1D) It is not necessary to include under subsection (1C)(a)(ii) the date on which someone became a registrable person or a registrable relevant legal entity in relation to the company.
+>
+> (1E) Where a statement of initial significant control identifies a person who is a registrable person, or a registrable relevant legal entity, in relation to the company—
+>
+> - (a) in relation to any person who is a registrable person, the statement may include a statement that the person's identity is verified within the meaning of section 1110A;
+> - (b) if the option in paragraph (a) is exercised, the statement must also state the individual’s unique identifier;
+> - (c) if the option in paragraph (a) is not exercised, the registrar must, in writing, direct the registrable person to deliver to the registrar, within the period of 14 days beginning with the date of the direction, a statement—
+>   - (i) confirming that the person’s identity is verified within the meaning of section 1110A, and
+>   - (ii) stating the individual’s unique identifier;
+> - (d) where a direction is given under paragraph (c), the registrar may by further direction extend the period specified in that paragraph by up to 14 days at a time.
+>
+> (2) Where a company amends any instrument constituting or regulating the company, it must, not later than 15 days after the amendment takes effect, send to the registrar a copy of the instrument as amended.
+>
+> (3) If a company fails to comply with subsection (1) or (2) an offence is committed by—
+>
+> - (a) the company, and
+> - (b) every officer of the company who is in default.
+>
+> (4) A person guilty of an offence under this section is liable on summary conviction to a fine not exceeding level 3 on the standard scale and, for continued contravention, a daily default fine not exceeding one-tenth of level 3 on the standard scale.
+>
+> (5)[^key-e115156099c3a38fcb4f75979d8c83df] In this section—
+>
+> - “**permission of a court to act**” means permission of a court under a provision mentioned in column 2 of the table in section 159A(2);
+> - “**registrable person**”—
+>   - (a) in subsection (1C), has the meaning given by section 790C (see also section 790J);
+>   - (b) in subsection (1E), has the same meaning as in subsection (1C), except that it does not include a person mentioned in section 790C(12)(a) to (d);
+> - “**registrable relevant legal entity**” has the meaning given by section 790C (see also section 790J);
+> - “**required particulars**” has the meaning given by section 790K.
+>
+> **27. Registrar's notice to comply in case of failure with respect to company's constitution**
+>
+> (1) If it appears to the registrar that a company has failed to comply with—
+>
+> - (a) section 26(1) or (2) (registrar to be sent copy of company's constitution), or
+> - (b) any enactment requiring the company to send to the registrar—
+>   - (i) a document making or evidencing an alteration in any instrument constituting or regulating the company, or
+>   - (ii) a copy of any such instrument as amended,
+>
+> the registrar may give notice to the company requiring it to comply.
+>
+> (2) The notice must—
+>
+> - (a) state the date on which it is issued, and
+> - (b) require the company to comply within 28 days from that date.
+>
+> (3) If the company complies with the notice within the specified time, no criminal proceedings may be brought in respect of the failure mentioned in subsection (1).
+>
+> (4) If the company does not comply with the notice within the specified time, it is liable to a civil penalty of £200.
+>
+> (5) This is in addition to any liability to criminal proceedings in respect of the failure mentioned in subsection (1).
+>
+> (6) The penalty may be recovered by the registrar and is to be paid into the Consolidated Fund.
+
+.
+
+**2.** Sections 34 and 35 of the Companies Act 2006 (notice to registrar where company's constitution altered) apply to unregistered companies, modified so that they read as follows—
+
+> **34. Notice to registrar where company's constitution altered by enactment**
+>
+> (1) This section applies where the constitution of a company is altered by an enactment, other than an enactment amending the general law.
+>
+> (2) The company must give notice of the alteration to the registrar, specifying the enactment, not later than 15 days after the enactment comes into force.
+>
+> (3) In the case of a special enactment the notice must be accompanied by a copy of the enactment.
+>
+> (4) If the enactment amends any instrument constituting or regulating the company, the notice must be accompanied by a copy of the instrument in question, as amended.
+>
+> (5) A “**special enactment**” means an enactment that is not a public general enactment, and includes—
+>
+> - (a) an Act for confirming a provisional order,
+> - (b) any provision of a public general Act in relation to the passing of which any of the standing orders of the House of Lords or the House of Commons relating to Private Business applied, or
+> - (c) any enactment to the extent that it is incorporated in or applied for the purposes of a special enactment.
+>
+> (6) If a company fails to comply with this section an offence is committed by—
+>
+> - (a) the company, and
+> - (b) every officer of the company who is in default.
+>
+> (7) A person guilty of an offence under this section is liable on summary conviction to a fine not exceeding level 3 on the standard scale and, for continued contravention, a daily default fine not exceeding one-tenth of level 3 on the standard scale.
+>
+> **35. Notice to registrar where company's constitution altered by order**
+>
+> (1) Where the constitution of a company is altered by an order of a court or other authority, the company must give notice to the registrar of the alteration not later than 15 days after the alteration takes effect.
+>
+> (2) The notice must be accompanied by—
+>
+> - (a) a copy of the order, and
+> - (b) if the order amends any instrument constituting or regulating the company, a copy of the instrument in question, as amended.
+>
+> (3) If a company fails to comply with this section an offence is committed by—
+>
+> - (a) the company, and
+> - (b) every officer of the company who is in default.
+>
+> (4) A person guilty of an offence under this section is liable on summary conviction to a fine not exceeding level 3 on the standard scale and, for continued contravention, a daily default fine not exceeding one-tenth of level 3 on the standard scale.
+>
+> (5) This section does not apply where provision is made by another enactment for the delivery to the registrar of a copy of the order in question.
+
+.
+
+### 3. A company's capacity and related matters
+
+The following provisions of the Companies Act 2006 apply to unregistered companies—
+
+- (a) sections 39 and 40 (a company's capacity and power of directors to bind company);
+- (b) section 41 (constitutional limitations: transactions involving directors or their associates);
+- (c) section 42 (constitutional limitations: companies that are charities);
+- (d) sections 43, 44, 45(1) and 46 (formalities of doing business under the law of England and Wales or Northern Ireland);
+- (e) section 48 (execution of documents under the law of Scotland);
+- (f) section 50 (official seal for share certificates);
+- (g) section 51 (pre-incorporation contracts, deeds and obligations).
+
+### 4. Trading disclosures
+
+Sections 82 to 85 of the Companies Act 2006 (trading disclosures) apply to unregistered companies, modified so that they read as follows—
+
+> **82. Requirement to disclose company name and other particulars**
+>
+> (1) Every company must disclose its corporate name on—
+>
+> - (a) its business letters, notices and other official publications;
+> - (b) its bills of exchange, promissory notes, endorsements and order forms;
+> - (c) cheques purporting to be signed by or on behalf of the company;
+> - (d) orders for money, goods or services purporting to be signed by or on behalf of the company;
+> - (e) its bills of parcels, invoices and other demands for payment, receipts and letters of credit;
+> - (f) its applications for licences to carry on a trade or activity;
+> - (g) all other forms of its business correspondence and documentation; and
+> - (h) its websites.
+>
+> (2) Every company must disclose the further particulars set out in subsection (3) on—
+>
+> - (a) its business letters;
+> - (b) its order forms; and
+> - (c) its websites.
+>
+> (3) The further particulars required are—
+>
+> - (a) the part of the United Kingdom in which the company's principal office is situated;
+> - (b) the reference number allocated to the company by the registrar;
+> - (c) the address of the company's principal office;
+> - (d) the manner in which it was incorporated;
+> - (e) if it is—
+>   - (i) a limited company, or
+>   - (ii) an investment company within the meaning of section 833,
+>
+> that fact.
+>
+> (4) If, in the case of a company having a share capital, there is a reference to the amount of share capital on—
+>
+> - (a) its business letters,
+> - (b) its order forms, or
+> - (c) its websites,
+>
+> the reference must be to paid up share capital.
+>
+> (5) In relation to a company, a reference to “**its websites**” includes a reference to any part of a website relating to that company which that company has caused or authorised to appear.
+>
+> **83. Civil consequences of failure to make required disclosure**
+>
+> (1) This section applies to any legal proceedings brought by a company to enforce a right arising out of a contract made in the course of a business in respect of which the company was, at the time the contract was made, in breach of section 82 (requirement to disclose company name and other particulars).
+>
+> (2) The proceedings shall be dismissed if the defendant (in Scotland, the defender) to the proceedings shows—
+>
+> - (a) that he has a claim against the claimant (pursuer) arising out of the contract that he has been unable to pursue by reason of the latter's breach of section 82, or
+> - (b) that he has suffered some financial loss in connection with the contract by reason of the claimant's (pursuer's) breach of section 82,
+>
+> unless the court before which the proceedings are brought is satisfied that it is just and equitable to permit the proceedings to continue.
+>
+> (3) This section does not affect the right of any person to enforce such rights as he may have against another person in any proceedings brought by that person.
+>
+> **84. Criminal consequences of failure to make required disclosure**
+>
+> (1) Where a company fails, without reasonable excuse, to comply with any requirement of section 82, an offence is committed by—
+>
+> - (a) the company; and
+> - (b) every officer of the company who is in default.
+>
+> (2) A person guilty of an offence under this section is liable on summary conviction to—
+>
+> - (a) a fine not exceeding level 3 on the standard scale; and
+> - (b) for continued contravention, a daily default fine not exceeding one-tenth of level 3 on the standard scale.
+>
+> (3) For the purposes of this section a shadow director is to be treated as an officer of the company.
+>
+> **85. Minor variations in form of name to be left out of account**
+>
+> For the purposes of this Chapter, in considering the name of a company no account is to be taken of—
+>
+> - (a) whether upper or lower case characters (or a combination of the two) are used, or
+> - (b) whether diacritical marks or punctuation are present or absent,
+>
+> provided there is no real likelihood of names differing only in those respects being taken to be different names.
+
+.
+
+### 5. A company's principal office in the United Kingdom
+
+Sections 86 and 87 of the Companies Act 2006 (a company's registered office) apply to unregistered companies, modified so that they read as follows—
+
+> **86. A company's principal office**
+>
+> (1) Communications and notices may at all times be addressed to a company at its principal office in the United Kingdom.
+>
+> (2) A company must give notice to the registrar, not later than 15 days after the date of the incorporation of the company, of the address of its principal office in the United Kingdom.
+>
+> (3) If a company fails to comply with subsection (2) an offence is committed by—
+>
+> - (a) the company, and
+> - (b) every officer of the company who is in default.
+>
+> (4) A person guilty of an offence under subsection (2) is liable on summary conviction to a fine not exceeding level 3 on the standard scale and, for continued contravention, a daily default fine not exceeding one-tenth of level 3 on the standard scale.
+>
+> **87. Change of principal office**
+>
+> (1) Where a company changes its principal office in the United Kingdom, it must send notice of the new address to the registrar not later than 15 days after the change takes effect.
+>
+> (2) If a company fails to comply with subsection (1) an offence is committed by—
+>
+> - (a) the company, and
+> - (b) every officer of the company who is in default.
+>
+> (3) A person guilty of an offence under subsection (1) is liable on summary conviction to a fine not exceeding level 3 on the standard scale and, for continued contravention, a daily default fine not exceeding one-tenth of level 3 on the standard scale.
+>
+> (4) Until the end of the period of 14 days beginning with the date on which the new address is registered a person may validly serve any document on the company at the address previously registered.
+>
+> (5) For the purposes of any duty of a company—
+>
+> - (a) to keep available for inspection at its principal office in the United Kingdom any register or other document, or
+> - (b) to mention the address of that office in any document,
+>
+> a company that changes the address of its principal office in the United Kingdom may make the change as from such date as it may determine, but it is treated as failing to comply with that duty if it does not comply with subsection (1).
+>
+> (6) Where a company unavoidably ceases to perform at its principal office in the United Kingdom any such duty as is mentioned in subsection (5)(a) but—
+>
+> - (a) resumes performance of that duty at other premises as soon as practicable, and
+> - (b) gives notice to the registrar of a change in the address of its principal office in accordance with subsection (1),
+>
+> it is not to be treated as having failed to comply with that duty.
+
+.
+
+### 6. Directors and secretaries[^key-38122a9b139b9a8a654b35a6fb6efa06]
+
+(1) Sections 167G, 167H and 167J to 167N of the Companies Act 2006 (directors: duties relating to ID verification and notification) apply to unregistered companies, with the following modifications.
+
+(2) Read references to a company as references to an unregistered company.
+
+(3) In section 167G—
+
+- (a) in subsection (3)(c) after “(see section 1110A)” insert “, and a statement of that individual’s unique identifier”;
+- (b) for subsection (5) substitute—
+
+  > (5) Subsection (1)(a) does not require a company, when delivering the documents required under section 26 (documents to be sent to the registrar on incorporation), to give notice in relation to a person named as a director.
+
+  .
+
+(4) In section 167J—
+
+- (a) in subsection (1), omit “(or proposed director)”;
+- (b) in subsection (2)(b)(iii), after “regulations under section 1088(1)(a) or (b)” insert “, as applied to unregistered companies.”;
+- (c) omit subsections (5) and (6).
+
+(5) In section 167K—
+
+- (a) in subsection (1), omit “(or proposed director)”;
+- (aa)[^key-804faa9ed981df3324a909b50fb49084] omit subsection (1)(c);
+- (b) omit subsections (2) and (3).
+
+(6) In section 167L(1) for “section 167G, 167H or 167I” substitute “section 167G or 167H”.
+
+**7.**[^key-659bfd5299175d2a40f95bebfdeb1298] (1) Sections 240 to 246 of the Companies Act 2006 (directors’ residential addresses: protection from disclosure) apply to unregistered companies.
+
+(2) Section 243 (permitted disclosure by the registrar) applies with the following modifications—
+
+- (a) for subsection (3) substitute—
+
+  > (3) The provisions of the Companies (Disclosure of Address) Regulations 2009 ([S.I. 2009/214](https://www.legislation.gov.uk/uksi/2009/214)) relating to disclosure of protected information under this section apply.
+  >
+  > (3A) Those provisions are—
+  >
+  > - (a) Part 2 (disclosure of protected information),
+  > - (b) Part 4 (matters relating to applications), so far as relating to disclosure under this section, and
+  > - (c) any other provisions of the Regulations having effect for the purposes of those provisions.
+
+  ;
+- (b) omit subsections (4) to (6A) and (8).
+
+**8.**[^key-09ce60b5276a3d37a73bbb710e04c499] Sections 279G to 279M of the Companies Act 2006 (notification of information about secretaries) apply to unregistered companies with the modification that section 279K(1)(c) is omitted.
+
+### 9. Political donations and expenditure
+
+(1) Sections 362 to 379 of the Companies Act 2006 (control of political donations and expenditure) apply to unregistered companies, with the following modifications.
+
+(2) In section 369(5) (liability of directors to make good unauthorised donations or expenditure: interest), in paragraph (b) for “such rate as the Secretary of State may prescribe by regulations” substitute, “ the rate specified in the Companies (Interest Rate for Unauthorised Political Donations or Expenditure) Regulations 2007 (S.I. 2007/2242) ”.
+
+(3) In section 377 (exemption of certain political expenditure)—
+
+- (a) in subsection (1) for “an order of the Secretary of State under this section” substitute “ articles 3 and 4 of the Companies (Political Expenditure Exemption) Order 2007 (S.I. 2007/2081) ”;
+- (b) omit subsection (2);
+- (c) in subsection (3) for “an order under this section” substitute “ the articles mentioned in subsection (1) ”;
+- (d) omit subsection (4).
+
+### 10. Accounts
+
+(1)[^key-5651fd7065514896cbf549e908043c32] Sections 380 to 414, 415 to 416, 418 to 419A, 423 to 425, 430 to 438, 441 to 469 and 471 to 474 of the Companies Act 2006 (accounts and reports) apply to unregistered companies, with the following modifications.
+
+(2) In section 383(6)(a) (small companies: determination of net amounts), for “regulations under section 404” substitute “Part 1 of Schedule 4 to the Small Companies and Groups (Accounts and Directors' Report) Regulations 2008 (S.I. 2008/409) or Schedule 3 to the Large and Medium-sized Companies and Groups (Accounts and Directors' Reports) Regulations 2008 (S.I. 2008/410)”.
+
+(3) In section 396 (Companies Act individual accounts)—
+
+- (a) for subsection (3) (requirements as to form and content of accounts etc) substitute—
+
+  > (3) The accounts must comply with the provisions of—
+  >
+  > - (a) regulation 3 of the Small Companies and Groups (Accounts and Directors' Report) Regulations 2008 (S.I. 2008/409), or
+  > - (b) regulations 3 and 4 of the Large and Medium-sized Companies and Groups (Accounts and Directors' Reports) Regulations 2008 (S.I. 2008/410),
+  >
+  > as to the form and content of the balance sheet and profit and loss account, and additional information to be provided by way of notes to the accounts.
+
+  ;
+- (b) in subsection (4) (additional information) after “regulations” insert “ specified in subsection (3) ”.
+
+(4) In section 404 (Companies Act group accounts)—
+
+- (a) for subsection (3) (requirements as to form and content of accounts etc) substitute—
+
+  > (3) The accounts must comply with the provisions of—
+  >
+  > - (a) regulation 6 of the Small Companies and Groups (Accounts and Directors' Report) Regulations 2008 (S.I. 2008/409), or
+  > - (b) regulation 6 of the Large and Medium-sized Companies and Groups (Accounts and Directors' Reports) Regulations 2008 (S.I. 2008/410),
+  >
+  > as to the form and content of the consolidated balance sheet and consolidated profit and loss account, and additional information to be provided by way of notes to the accounts.
+
+  ;
+- (b) in subsection (4) (additional information) after “regulations” insert “ specified in subsection (3) ”.
+
+(5) In section 409 (information about related undertakings), for subsections (1) to (3) substitute—
+
+> (1) The notes to the company's annual accounts must contain the information about related undertakings required by—
+>
+> - (a) regulations 4 and 7 of the Small Companies and Groups (Accounts and Directors' Report) Regulations 2008 (S.I. 2008/409), or
+> - (b) regulation 5 of the Large and Medium-sized Companies and Groups (Accounts and Directors' Reports) Regulations 2008 (S.I. 2008/410).
+>
+> (2) That information need not be disclosed with respect to an undertaking that—
+>
+> - (a) is established under the law of a country outside the United Kingdom, or
+> - (b) carries on business outside the United Kingdom,
+>
+> if the following conditions are met.
+
+.
+
+(6) In section 412 (information about directors' benefits: remuneration)—
+
+- (a) for subsections (1) to (3) substitute—
+
+  > (1) The information about directors' remuneration required by—
+  >
+  > - (a) the Small Companies and Groups (Accounts and Directors' Report) Regulations 2008 (S.I. 2008/409), or
+  > - (b) the Large and Medium-sized Companies and Groups (Accounts and Directors' Reports) Regulations 2008 (S.I. 2008/410),
+  >
+  > must be given in notes to the company's annual accounts.
+
+  ;
+- (b) in subsection (4) for “and regulations made under it” substitute “ and the regulations specified in subsection (1) ”;
+- (c) in subsection (5) for “regulations under this section” substitute “ and the regulations specified in subsection (1) ”.
+
+(7) In section 416 (contents of directors' report: general), for subsection (4) substitute—
+
+> (4) The directors' report must comply with the provisions of—
+>
+> - (a) the Small Companies and Groups (Accounts and Directors' Report) Regulations 2008 (S.I. 2008/409), or
+> - (b) the Large and Medium-sized Companies and Groups (Accounts and Directors' Reports) Regulations 2008 (S.I. 2008/410),
+>
+> as to other matters to be included in the report.
+
+.
+
+(8)[^key-edeac18daf624d24164090d776a9ec9e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(9)[^key-edeac18daf624d24164090d776a9ec9e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(10)[^key-edeac18daf624d24164090d776a9ec9e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(11)[^key-edeac18daf624d24164090d776a9ec9e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(12) In section 444(3) (filing obligations of companies subject to small companies regime: copies of accounts and reports)—
+
+- (a) in paragraph (a) for “regulations made by the Secretary of State” substitute “ regulation 5 of the Small Companies and Groups (Accounts and Directors' Report) Regulations 2008 (S.I. 2008/409) ”;
+- (b) in paragraph (b) for “the regulations” substitute “ that regulation ”.
+
+(13) In section 445(3) (filing obligations of medium-sized companies: copies of accounts and reports)—
+
+- (a) in paragraph (a) for “regulations made by the Secretary of State” substitute “ regulation 4 of the Large and Medium-sized Companies and Groups (Accounts and Directors' Reports) Regulations 2008 (S.I. 2008/410) ”;
+- (b) in paragraph (b) for “the regulations” substitute “ that regulation ”.
+
+(14)[^key-d9ece2554474666274463f95b72cd3e6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(15)[^key-d9ece2554474666274463f95b72cd3e6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(16) In section 453 (civil penalty for failure to file accounts and reports)—
+
+- (a) in subsection (2) (determination of amount), for “regulations made by the Secretary of State” substitute “ the relevant provisions of the Companies (Late Filing Penalties) and Limited Liability Partnerships (Filing Periods and Late Filing Penalties) Regulations 2008 (S.I. 2008/497) ”;
+- (b) omit subsection (5).
+
+(17) In section 454 (voluntary revision of accounts), for subsections (3) to (5) substitute—
+
+> (3) The provisions of the Companies (Revision of Defective Accounts) Regulations 2008 (S.I. 2008/373) apply.
+
+.
+
+(18) In section 457 (other persons authorised to apply to the court)—
+
+- (a) for subsections (1) to (3) substitute—
+
+  > (1) The Companies (Defective Accounts and Directors' Reports) (Authorised Person) and Supervision of Accounts and Reports (Prescribed Body) Order 2008 (S.I. 2008/623) apply as regards—
+  >
+  > - (a) the persons authorised by the Secretary of State for the purposes of section 456 (application to court in respect of defective accounts or reports), and
+  > - (b) the requirements and other provisions applying to the exercise of functions as an authorised person.
+
+  ;
+- (b) omit subsections (5) to (7).
+
+(19) In section 464 (accounting standards)—
+
+- (a)[^key-97a64cb98b0cafd707c869d170654f0f] in subsection (1) for “such body or bodies as may be prescribed by regulations” substitute “ the Financial Reporting Council Limited ”.
+- (b) omit subsection (3).
+
+### 11. Audit
+
+(1) Sections 475 to 481 and 484 to 539 of the Companies Act 2006 (audit) apply to unregistered companies, with the following modifications.
+
+(2) Section 494 (disclosure of services provided by auditor or associates and related remuneration) is modified so that it reads as follows—
+
+> **494. Disclosure of services provided by auditor or associates and related remuneration**
+>
+> The Companies (Disclosure of Auditor Remuneration and Liability Limitation Agreements) Regulations 2008 (S.I. 2008/489) apply as regards the disclosure of—
+>
+> - (a) the nature of any services provided for a company by the company's auditor (whether in the capacity as auditor or otherwise) or by the auditor's associates;
+> - (b) the amount of any remuneration received or receivable by the auditor, or the auditor's associates, in respect of any such services.
+
+.
+
+(3) In section 504 (meaning of “senior statutory auditor”), in subsection (1)(b)(ii) for “by order of the Secretary of State” substitute “ by the Statutory Auditors (Delegation of Functions etc) Order 2008 (S.I. 2008/496) ”.
+
+(4) Section 538 (disclosure by company of liability limitation agreement) is modified so that it reads as follows—
+
+> **538. Disclosure of agreement by company**
+>
+> A company that has entered into a liability limitation agreement must make the disclosure in connection with the agreement required by the Companies (Disclosure of Auditor Remuneration and Liability Limitation Agreements) Regulations 2008 (S.I. 2008/489).
+
+.
+
+### 12. Share certificates
+
+(1) The following provisions of the Companies Act 2006 apply to unregistered companies—
+
+- (a) section 768 (share certificate to be evidence of title);
+- (b) section 778 (issue of certificates etc: allotment or transfer to financial institution).
+
+(2) In section 778 as it applies to unregistered companies, for “section 769(1) or 776(1) (duty of company as to issue of certificates etc)” substitute “ any provision of any instrument constituting or regulating the company ”.
+
+### 12A. Information about people with significant control[^key-6e0aeacff47bb089fd2ba6784c854047]
+
+(1) Sections 790C to 790I and[^key-f7abb3f60fc00201d4d0957dab43e2b9] 790K of the Companies Act 2006 apply to unregistered companies, with the following modifications.
+
+(2) In section 790C (key terms)—
+
+- (a) for subsection (7)(c) substitute—
+
+  > - (c) it is a company with voting shares admitted to trading on a market listed in Schedule 1 to the Register of People with Significant Control Regulations 2016 ([S.I. 2016/339](https://www.legislation.gov.uk/uksi/2016/339))
+
+  ;
+- (b) for subsection (7)(d) substitute—
+
+  > - (d) it is of a description specified in regulation 4 of and Schedule 1 to the Register of People with Significant Control Regulations 2016 ([S.I. 2016/339](https://www.legislation.gov.uk/uksi/2016/339)) which apply, together with any other provisions of those Regulations having effect for the purposes of these provisions.
+
+  ;
+- (c) omit subsections (11), (13) and (14).
+
+(3) In section 790D (company's duty to give notices to persons with significant control)[^key-55de50aad2964dec5f27a832cd25516a]—
+
+- (a) omit subsection (6)[^key-a67c472e9757e64a30bc99131598d13d];
+- (b) omit subsection (7)[^key-c15026879d9f84bb4ad13fbdaa541096].
+
+(3A)[^key-dd4a5f0d11ece0ee6acbda8e647128ba] In section 790DA (obtaining information from third parties) omit subsections (7) and (8).
+
+(4)[^key-fb90a7ba772b4ce217272f0482c84710] In section 790E (company’s duty to find out about changes in PSC information) omit subsections (5) and (6).
+
+(4A)[^key-5e150d7bd5ab2c3ce93ae5f4267f4ed4] In section 790EA (company’s duty to find out about persons ceasing to be PSCs) omit subsections (5) and (6).
+
+(5) In section 790K (required particulars)—
+
+- (za)[^key-1cd194d9eb2d8925df0ac8d8d2014289] omit subsection (3)(ba);
+- (a) for subsection (5) substitute—
+
+  > (5) Regulation 7 of and Schedule 2 to the Register of People with Significant Control Regulations 2016 ([S.I. 2016/339](https://www.legislation.gov.uk/uksi/2016/339)) apply, with any other provisions of the Regulations having effect for the purposes of these provisions.
+
+  ;
+- (b) omit subsection (6).
+
+**12B.**[^M_F_421cde2a-ef9a-4c80-ed6f-a33d27899d88] (1) Sections 790LA to 790LD, 790LF, 790LH and 790LJ to 790LT of the Companies Act 2006 (duty to notify registrar of persons with significant control and ID verification) apply to unregistered companies, with the following modifications
+
+(2) Read references to a company as references to an unregistered company.
+
+(3) In section 790LA, omit subsections (4) and (5).
+
+(4) In section 790LB, after subsection (3) insert—
+
+> (3A) If a notice under section 790LA(1) includes a statement under subsection (1) or subsection (2)(b), that statement must also include a statement of the individual’s unique identifier.
+>
+> (5) For section 790LC(4) substitute—
+>
+> > (4) Nothing in this section requires a company, when delivering the documents required under section 26, to give notice in relation to a person named as a director.
+>
+> .
+>
+> (6) Omit section 790LD(4).
+>
+> (7) For section 790LH(4) and (5) substitute—
+>
+> > (4) A company is not required to give a notice under this section if—
+> >
+> > - (a) it has delivered a statement of initial significant control stating that there is no person who is a registrable person or a registrable relevant legal entity in relation to the company, and
+> > - (b) the company has no cause to believe that at any time since delivering that statement any person has become a registrable person or a registrable relevant legal entity in relation to the company.
+> >
+> > (5) In this section “**statement of initial significant control**” means the statement referred to in section 26(1)(c) (documents to be sent to the registrar on incorporation).
+>
+> .
+>
+> (8) In section 790LJ(1)―
+>
+> - (a) omit “790LE,” and “, 790LG”;
+> - (b) omit “, or regulations under section 790LI,”.
+>
+> (9) In section 790LK(1)―
+>
+> - (a) omit “790LE,” and “, 790LG”;
+> - (b) omit “, or regulations under section 790LI,”;
+> - (c) omit subsection (5).
+>
+> (10) In section 790LL(5) after “section 1088,” insert “as applied to unregistered companies,”.
+>
+> (11) In section 790LM—
+>
+> - (a) for subsection (1) substitute—
+>
+>   > (1) This section applies where—
+>   >
+>   > - (a) the registrar is notified under section 790LA that a person has become a registrable person in relation to a company (“the registrable person”), and
+>   > - (b) the notice does not include a statement under section 790LB(1) or it appears to the registrar that the statement is false.
+>
+>   ;
+> - (b) in subsection (2), after “(see section 1110A)” insert “, and stating the individual’s unique identifier”.
+>
+> (12) In section 790LN―
+>
+> - (a) for subsection (1)(b) substitute—
+>
+>   > - (b) became a registrable person before the day on which section 790LB(1) came fully into force.
+>
+>   ;
+> - (b) in subsection (2), after “(see section 1110A)” insert “, and stating the individual’s unique identifier”;
+> - (c) in subsection (5) for the definition of “the appointed day” substitute—
+>
+>   > - “**the appointed day**” means such day as is appointed in regulations under this section as it applies to registrable persons of companies registered under the Companies Act 2006, except that any reference in those regulations to provisions of company law should be read as references to those provisions as applied to unregistered companies;
+>
+>   ;
+> - (d) omit subsection (6).
+>
+> (13) In section 790LQ(2)(a)—
+>
+> - (a) omit sub-paragraph (i);
+> - (b) in sub-paragraph (ii), omit “, in a case where the person became a registrable person after the incorporation of the company and such a statement was delivered to the registrar”.
+>
+> (14) In section 790LR—
+>
+> - (a) in subsection (2)(a)(i) omit “12B(3) or”;
+> - (b) in subsection (3)(a)—
+>   - (i) omit sub-paragraph (i);
+>   - (ii) in sub-paragraph (ii), omit “, in a case where the entity became a relevant registrable legal entity after the incorporation of the company and such a statement was delivered to the registrar”.
+
+.
+
+**12C.** (1) Sections 790ZF and 790ZG apply to unregistered companies, with the following modifications.
+
+(2)[^M_F_35bb1723-137f-4a2d-f3e7-6739b7e8c909] In section 790ZF(1), for “sections 240 to 244” substitute “sections 240 to 242 and 243(2) and (7)”;
+
+(2A)[^M_F_2ab6c320-b331-4b7d-f0f0-d4b1ddc5090e] Part 6 of the Register of People with Significant Control Regulations 2016 ([S.I. 2016/339](https://www.legislation.gov.uk/uksi/2016/339)) applies, with any other provisions of the Regulations having effect for the purposes of that Part.
+
+(3) For Section 790ZG as it applies to unregistered companies, substitute—
+
+> **790ZG. 790ZG Protection of secured information**
+>
+> (1) Part 7 of the Register of People with Significant Control Regulations 2016 ([S.I. 2016/339](https://www.legislation.gov.uk/uksi/2016/339)) applies, with any other provisions of the Regulations having effect for the purposes of that Part.
+>
+> (2) Nothing in the provisions referred to in subsection (1) affects the use or disclosure of particulars of a person in any other capacity (for example, the use or disclosure of particulars of a person in that person’s capacity as a member or director of the company).
+>
+> (3) In this section “secured information” means the required particulars (other than the particular required by section 790K(1)(i)) of a registrable person in relation to an unregistered company.
+
+### 13. Confirmation statement[^key-60379ac5065f6e2b48b0e9d1937a0b95]
+
+(1) Sections 853A to 853G and 853L[^key-f70837006989f0a73067260fb50fa9d0] of the Companies Act 2006 apply to unregistered companies.
+
+(1A)[^key-d0807593d1efc0bcd701e3bf90aba6d8] Section 853A (duty to deliver confirmation statements) applies with the following modifications—
+
+- (a) in subsection (1)(b)(ii), omit “, and”;
+- (b) omit subsection (1)(b)(iii);
+
+(2)[^key-70a22dd2181eddcccebd4bee3ea2d998] Section 853B (duties to notify a relevant event) applies with the following modifications—
+
+- (a) in paragraph (g), omit “790LE,” and “, 790LG”;
+- (b) omit paragraph (h).
+
+(3) Section 853C (duty to notify a change in company’s principal business activities) applies with the modification that in subsection (3), for “any prescribed system of classifying business activities.” substitute “the system of classifying business activities prescribed in regulation 7 of the Companies and Limited Liability Partnerships (Filing Requirements) Regulations 2016.
+
+### 14. Takeovers
+
+(A1)[^key-adb2e46f3ce3d1a87edd1b00cf21a6f3] Schedule 1C to the Companies Act 2006 applies to unregistered companies.
+
+(1) Sections 966 to 973 of the Companies Act 2006 (impediments to takeovers) apply to unregistered companies.
+
+(2) Sections 974 to 991 of that Act (“**squeeze-out**” and “**sell-out**”) apply to unregistered companies, but so far as relating to the offeree company only if the unregistered company has voting shares admitted to trading on a regulated market.
+
+### 15. Fraudulent trading
+
+Section 993 of the Companies Act 2006 (fraudulent trading) applies to an unregistered company.
+
+### 16. Company Investigations
+
+Parts 14 and 15 of the Companies Act 1985 [^c19851711] (company investigations etc) apply to unregistered companies.
+
+### 17. The registrar of companies
+
+(1) The application to unregistered companies by the following paragraphs of certain provisions of Part 35 of the Companies Act 2006 is without prejudice to the application in relation to unregistered companies of the provisions of that Part that are of general application.
+
+(2) Those provisions are—
+
+- (a) sections 1060(1) and (2) and 1061 to 1063 (the registrar),
+- (b) sections 1068 to 1071 (delivery of documents to the registrar),
+- (c) sections 1072 to 1076 (requirements for proper delivery),
+- (d) sections 1080(1), (4) and (5) and 1092 (keeping and production of records),
+- (da)[^key-323b6a1159f63a33baf45b0b575ff50b] section 1081A (registrar’s objectives to promote integrity of registers etc),
+- (e) section 1083 (preservation of original documents),
+- (ea)[^key-7a090f2e0177cb7b2d3348f7ec6ca25a] sections 1092A to 1092C (powers to require further information),
+- (f) sections 1108 to 1110 (language requirements: transliteration),
+- (fa)[^key-26984e7e0d5c67f40a911455cecfdee2] sections 1110E to 1110G (disclosure of information),
+- (g) sections 1111 and 1114 to 1119 (supplementary provisions).
+
+**18.** Section 1066 of the Companies Act 2006 (registered numbers) applies to unregistered companies, modified so that it reads as follows—
+
+> **1066. Companies' reference numbers**
+>
+> (1) The registrar shall allocate to every company a number, which shall be known as the company's reference number.
+>
+> (2) Companies' reference numbers shall be in such form, consisting of one or more sequences of figures or letters, as the registrar may determine.
+>
+> (3) The registrar may on adopting a new form of reference number make such changes of existing reference numbers as appear necessary.
+>
+> (4) A change of a company's reference number has effect from the date on which the company is notified by the registrar of the change.
+>
+> (5) For a period of three years beginning with that date any requirement to disclose the company's reference number imposed by section 82 (trading disclosures) is satisfied by the use of either the old number or the new.
+
+.
+
+**19.** Sections 1077 to 1079 of the Companies Act 2006 (public notice of receipt of certain documents) apply to unregistered companies, modified so that they read as follows—
+
+> **1077. Public notice of receipt of certain documents**
+>
+> (1) The registrar must cause to be published—
+>
+> - (a) in the Gazette, or
+> - (b) in accordance with section 1116 (alternative means of giving public notice),
+>
+> notice of the receipt by the registrar of any document specified in section 1078.
+>
+> (2) The notice must state the name and reference number of the company, the description of document and the date of receipt.
+>
+> (3) The registrar is not required to cause notice of the receipt of a document to be published before the date of incorporation of the company to which the document relates.
+>
+> **1078. The section 1077 documents**
+>
+> The following documents are specified for the purposes of section 1077—
+>
+> <table>
+> <tbody>
+> <tr><th colspan="2"><em>Constitutional documents</em></th></tr>
+> <tr><td colspan="2"></td></tr>
+> <tr><td>1.</td><td>Any instrument constituting or regulating the company.</td></tr>
+> <tr><td>2.</td><td>After any alteration of such an instrument, any copy of the instrument as amended.</td></tr>
+> <tr><td>3.</td><td>Any notice of the change of the company's name.</td></tr>
+> <tr><td colspan="2"></td></tr>
+> <tr><th colspan="2"><em>Accounts and reports etc.</em></th></tr>
+> <tr><td colspan="2"></td></tr>
+> <tr><td>1.</td><td>All documents required to be delivered to the registrar under section 441 (annual accounts).</td></tr>
+> <tr><td>1A</td><td>All documents delivered to the registrar under sections 394A(2)(e), 448A(2)(e) and 479A(2)(e) (qualifying subsidiaries: conditions for exemption from the audit, preparation and filing of individual accounts).</td></tr>
+> <tr><td colspan="2"></td></tr>
+> <tr><td>2.</td><td>Any confirmation statement delivered by the company.</td></tr>
+> <tr><td colspan="2"></td></tr>
+> <tr><th colspan="2"><em>Principal office</em></th></tr>
+> <tr><td colspan="2"></td></tr>
+> <tr><td colspan="2">Notification of any change of the company's principal office in the United Kingdom.</td></tr>
+> <tr><td colspan="2"></td></tr>
+> <tr><th colspan="2"><em>Winding up</em></th></tr>
+> <tr><td colspan="2"></td></tr>
+> <tr><td>1.</td><td>Copy of any winding-up order in respect of the company.</td></tr>
+> <tr><td colspan="2"></td></tr>
+> <tr><td>2.</td><td>Notice of the appointment of liquidators.</td></tr>
+> <tr><td colspan="2"></td></tr>
+> <tr><td>3.</td><td>Order for the dissolution of the company on a winding up.</td></tr>
+> <tr><td colspan="2"></td></tr>
+> <tr><td>4.</td><td>Return by a liquidator of the final meeting of the company on a winding up.</td></tr>
+> </tbody>
+> </table>
+>
+> [^key-7869a54202d0dd1ab21031d878b682f2][^key-4df9463dae663f352b421390d05a8d8d][^key-d1cbad648fec0a1eebdf754a0f458e7a]
+>
+> **1079. Effect of failure to give public notice**
+>
+> (1) A company is not entitled to rely against other persons on the happening of any event to which this section applies unless—
+>
+> - (a) the event has been officially notified at the material time, or
+> - (b) the company shows that the person concerned knew of the event at the material time.
+>
+> (2) The events to which this section applies are—
+>
+> - (a) (as regards service of any document on the company) a change of the company's principal office in the United Kingdom,
+> - (b) the making of a winding-up order in respect of the company, or
+> - (c) the appointment of a liquidator in a voluntary winding up of the company.
+>
+> (3) If the material time falls—
+>
+> - (a) on or before the 15th day after the date of official notification, or
+> - (b) where the 15th day was not a working day, on or before the next day that was,
+>
+> the company is not entitled to rely on the happening of the event as against a person who shows that he was unavoidably prevented from knowing of the event at that time.
+>
+> (4) “**Official notification**” means—
+>
+> - (a) in relation to anything stated in a document specified in section 1078, notification of that document in accordance with section 1077;
+> - (b) in relation to the appointment of a liquidator in a voluntary winding up, notification of that event in accordance with section 109 of the Insolvency Act 1986 (c. 45) or Article 95 of the Insolvency (Northern Ireland) Order 1989 (S.I. 1989/2405 (N.I. 19)).
+
+.
+
+**19A.**[^key-7f6e37062cadd81418f913da05f64aa6] Section 1079B of the Companies Act 2006 [^M_F_2f8259a9-811d-4b16-c1b9-d804c063363d] (duty to notify directors) applies to unregistered companies in cases where the document registered by the registrar is a notice under section 167 of the Companies Act 2006 of a person having become a director of a company.
+
+**20.** (1) The following provisions of the Companies Act 2006 apply to unregistered companies—
+
+- (a) section 1080(2) and (4) (meaning of “register” and form in which documents to be recorded and kept);
+- (aa)[^key-74a335caacd6d154675077391aa4714f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) sections 1085 and 1086 (inspection of the register and right to take copies on the register);
+- (c)[^key-ec9bece600a034d05f1303aca230a000] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (cza)[^key-051b04cfa0f07abd27e8a1cffdb9d99c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (ca)[^key-b7e3b263c1b0cf99ae26d3ea5594fb41] sections 1087A, 1087B(1) and (2) and 1087C (protection of date of birth information);
+- (d)[^key-59592adcca58f1f0dd4676ce48b30d77] sections 1089 and 1090 (form and manner of application for inspection or copy);
+- (e)[^key-59592adcca58f1f0dd4676ce48b30d77] section 1091 (certification of copies as accurate);
+- (f)[^key-e4f730262af006ec86f079be6f7e3e2b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(1ZA)[^key-fc4e8ed1f4285131a3bbd8a3b860fe12] Section 1081 (annotation of the register) applies to unregistered companies modified to read as follows—
+
+> **1081. Annotation of the register**
+>
+> (1) The registrar must place a note in the register recording—
+>
+> - (a) the date on which a document is delivered to the registrar;
+> - (b) if a document is replaced (whether or not material derived from it is removed), the fact that it has been replaced and the date of delivery of the replacement;
+> - (c) if material is removed—
+>   - (i) what was removed (giving a general description of its contents);
+>   - (ii) under what power, and
+>   - (iii) the date on which that was done.
+>
+> (2) Where it appears to the registrar that material on the register is misleading or confusing, the registrar may place a note in the register containing such information as appears to the registrar to be necessary to remedy, as far as possible, the misleading or confusing nature of the material.
+>
+> (3) The registrar may place a note in the register containing such information as appears to the registrar to be appropriate to address any confusion that may arise where material that was formerly considered by the registrar to form part of the register is no longer considered by the registrar to do so.
+>
+> (4) Where the registrar is aware that a person who appears in the register as a director of a company is a person who is subject to director disqualification sanctions within the meaning of section 11A(4) of the Company Directors Disqualification Act 1986 (c. 46), the registrar must place a note in the register specifying—
+>
+> - (a) the date on which the person became subject to director disqualification sanctions;
+> - (b) where the note relates to a person acting in a capacity for which the person has the authority of a licence, or in respect of which an exception applies, by virtue of section 15(3A) of the Sanctions and Anti-Money Laundering Act 2018 (c. 13) (exceptions and licences), that fact; and
+> - (c) any reference number or code allocated to the person to identify them as a person subject to director disqualification sanctions.
+>
+> (5) Paragraph (6) applies where—
+>
+> - (a) the registrar has given a person a notice under section 1092A of the 2006 Act (power to require information); and
+> - (b) the person has not fully complied with the requirement in the notice before the expiry of the period for complying with it.
+>
+> (6) The registrar may place a note in the register stating those facts.
+>
+> (7) The reference in paragraph (5)(b) to the period for compliance with the notice includes such period as extended by the registrar.
+>
+> (8) Where the registrar has given notice under regulation 8(1) (notice of outcome of application) or regulation 12(1) (notice of delivery of a verification statement) of the Registrar (Identification Verification and Authorised Corporate Service Providers) Regulations 2025 (S.I. 2025/50) confirming that an individual’s identity is verified, the registrar must place a note in the register specifying that the individual’s identity is verified.
+
+.
+
+(1A)[^key-d11bbf4e1b00ab8b0f907f9c2a630bd2] Section 1082 applies to unregistered companies modified to read as follows[^key-82c157d38148c6883f51cc1bc173a266]—
+
+> **1082. Allocation of unique identifiers**
+>
+> (1) Chapters 1 and 2 of Part 4 of the 2025 Regulations (unique identifiers) apply in relation to the register and dealings with the registrar.
+>
+> (2) In this section—
+>
+> - “**2009 Regulations**” means the Unregistered Companies Regulations 2009 ([S.I. 2009/2436](https://www.legislation.gov.uk/uksi/2009/2436));
+> - “2025 Regulations” means the Registrar (Identity Verification and Authorised Corporate Service Providers) Regulations 2025 (S.I. 2025/50)[^key-4961da179565521dd499d75b68e2911b]
+> - “**the register**” has the meaning given by section 1080(2) of the Companies Act 2006 (the register) as applied to unregistered companies by paragraph 20(1)(a) of Schedule 1 to the 2009 Regulations (provisions of the Companies Acts applying to unregistered companies);
+> - “**the registrar**” has the meaning given by section 1060(1) and (2) of the Companies Act 2006 (the registrar) as applied to unregistered companies by paragraph 17(2)(a) of Schedule 1 to the 2009 Regulations (provisions of the Companies Acts applying to unregistered companies).
+
+.
+
+(2) Section 1087 (material not available for public inspection) applies to unregistered companies modified to read as follows[^key-0a7c26b28a6e546b8b9112cb83074b50]—
+
+- (a) omit paragraph (a);
+- (b) in paragraph (b) omit “or any corresponding provision of regulations under section 1046 (overseas companies)”;
+- (c) in paragraph (ba), omit sub-paragraph (ii);
+- (ca)[^key-1e8c3dee6a45a9c279ca5efa85db5fa1] for paragraph (bc) substitute—
+
+  > - (bc) information which by virtue of Part 7 (secured information) of the Register of People with Significant Control Regulations 2016 ([S.I. 2016/339](https://www.legislation.gov.uk/uksi/2016/339)) the registrar must omit from the material on the public register that is available for inspection;
+- (d)[^key-3908f3329c7b65437c37a63f1041f3fc] omit paragraphs (c) and (d);
+- (e) omit paragraphs (e) to (g) and (j).
+
+(2A)[^key-a93d88e95ba6c1547fcbcab0376b5d84] Section 1087C applies to unregistered companies but with the modification that for subsection (4) substitute—
+
+> (4) The provisions of the Companies (Disclosure of Date of Birth Information) Regulations 2015 (S.I. 2015/1694) apply to unregistered companies.
+
+.
+
+(3)[^key-c4a7a566b1c3de7c635e63c395362e44] Section 1088 applies to unregistered companies, modified to read as follows—
+
+> **1088. Material to be made unavailable for public inspection**
+>
+> (1) The following provisions of the Companies (Disclosure of Address) Regulations 2009 ([S.I. 2009/214](https://www.legislation.gov.uk/uksi/2009/214)) apply with respect to applications to the registrar to make an address on the register unavailable for public inspection, with the modification specified in subsection (2)—
+>
+> - (a) Part 3 (applications to make address unavailable for public inspection),
+> - (b) Part 4 (matters relating to applications), so far as relating to such applications, and
+> - (c) any other provisions of the Regulations having effect for the purposes of those provisions.
+>
+> (2) Omit regulation 9(1A)(b) and (1C).
+>
+> (3) Part 2 of the Protection and Disclosure of Personal Information (Amendment) Regulations 2025 ([S.I. 2025/874](https://www.legislation.gov.uk/uksi/2025/874)) (application for protection of personal information on the companies register) applies to unregistered companies with the following modifications to regulation 2—
+>
+> - (a) for paragraph (2)(c) substitute—
+>
+>   > - (c) in the case of an individual who is or was a director of a company, that individual’s business occupation.
+>
+>   ;
+> - (b) omit paragraph (3);
+> - (c) in paragraph (5), omit the definition of “UK Societas”.
+
+.
+
+(4)[^key-dc72fd0fc2d794c3f2bf140f2971aefe] Section 1091 (certification of copies as accurate) applies to unregistered companies but with the modification that for subsection (4) substitute—
+
+> (4) Regulation 2 of the Companies (Registrar, Languages and Trading Disclosures) Regulations 2006 (S.I. 2006/3429) (certification of electronic copies by registrar) applies where the copy is provided in electronic form.
+
+.
+
+**20A.**[^M_F_ba716b74-afc1-454d-9245-c2f0053aa654] (1) Schedule 1A (references to people with significant control over a company) to the Companies Act 2006 applies to unregistered companies, with the following modifications.
+
+(2) In paragraph 25—
+
+- (a) in sub-paragraph (5)(b) for “by regulations made by the Secretary of State” substitute “in regulation 8 of the Register of People with Significant Control Regulations 2016 ([S.I. 2016/339](https://www.legislation.gov.uk/uksi/2016/339))”, and
+- (b) omit sub-paragraphs (6) and (7).
+
+(3) Omit paragraph 26.
+
+**20AA.**[^key-322c675d7f5f1b9326c00f259981f3a0] Section 1110C of the Companies Act 2006 (identity verification: exemption on national security grounds etc) applies to unregistered companies, but for subsection (2)(a) substitute—
+
+> - (a) Where a statement of officers made under section 26 names the person as a director, subsection (1A)(b)(ii) of that section does not require a statement to be made in relation to the person;
+
+;
+
+**20B.** (1) Schedule 1B (enforcement of disclosure requirements) to the Companies Act 2006 applies to unregistered companies, with the following modifications.
+
+(2) For paragraph 12 substitute—
+
+> **12.** Part 5 of the Register of People with Significant Control Regulations 2016([S.I. 2016/339](https://www.legislation.gov.uk/uksi/2016/339)) applies, with any other provisions of the Regulations having effect for the purposes of that Part.
+
+### 21. Supplementary provisions
+
+The provisions of the Companies Acts relating to offences, interpretation and other supplementary matters have effect in relation to unregistered companies so far as necessary for the purposes of the application and enforcement of the provisions applied to unregistered companies by these Regulations.
+
+## SCHEDULE 2 — TRANSITIONAL PROVISIONS AND SAVINGS
+
+Regulation 9
+
+### 1. Introduction
+
+(1) In this Schedule—
+
+- (a) “**the 1985 Act**” means the Companies Act 1985 and “**the 1985 Regulations**” means the Companies (Unregistered Companies) Regulations 1985;
+- (b) “**the 1986 Order**” means the Companies (Northern Ireland) Order 1986 [^c19851721] and “**the 1986 Regulations**” means the Companies (Unregistered Companies) Regulations (Northern Ireland) 1986;
+- (c) “**existing company**” means an unregistered company that was incorporated before 1st October 2009.
+
+(2) References in this Schedule to provisions of the 1985 Act or 1986 Order, or to provisions of the Companies Act 2006, are to those provisions as applied to unregistered companies.
+
+### 2. A company's constitution
+
+(1) Section 26(1) of the Companies Act 2006 (registrar to be sent copy of instruments constituting or regulating company) applies where the company is incorporated on or after 1st October 2009.
+
+(2) Section 18 of the 1985 Act as modified by regulation 6(b)(ii) of the 1985 Regulations or Article 29 of the 1986 Order as modified by regulation 6(b)(ii) of the 1986 Regulations continues to apply where the company was incorporated before that date.
+
+**3.** (1) Section 26(2) of the Companies Act 2006 (registrar to be sent copy of amended instrument constituting or regulating company) applies where the amendment takes effect on or after 1st October 2009.
+
+(2) Section 18(2) and (3) of the 1985 Act or Article 29(2) and (3) of the 1986 Order continue to apply in relation to amendments taking effect before that date.
+
+**4.** (1) Section 34 of the Companies Act 2006 (notice to registrar where company's constitution altered by enactment) applies where the enactment in question comes into force on or after 1st October 2009.
+
+(2) Section 18(1) and (3) of the 1985 Act or Article 29(1) and (3) of the 1986 Order continue to apply in relation to alterations made by statutory provisions coming into force before that date.
+
+**5.** Section 35 of the Companies Act 2006 (notice to registrar where company's constitution altered by order) applies in relation to orders made on or after 1st October 2009.
+
+### 6. A company's capacity and related matters
+
+(1) Section 39 of the Companies Act 2006 (a company's capacity) applies to acts of a company done on or after 1st October 2009.
+
+(2) Section 35 of the 1985 Act or Article 45 of the 1986 Order continues to apply to acts of a company done before that date.
+
+**7.** (1) Section 44 of the Companies Act 2006 (execution of documents) applies in relation to the execution of documents on or after 1st October 2009.
+
+(2) Section 36A of the 1985 Act or Article 46A of the 1986 Order continues to apply in relation to documents executed before that date.
+
+(3) For the purposes of this paragraph a document signed by one authorised signatory before 1st October 2009 and by another on or after that date is treated as executed on or after 1st October 2009.
+
+### 8. A company's principal office in the United Kingdom
+
+Section 86(2) of the Companies Act 2006 (registrar to be notified of address of company's principal office in the United Kingdom) applies where the company is incorporated on or after 1st October 2009.
+
+### 9. Directors and secretaries
+
+On and after 1st October 2009 the register of directors and secretaries kept by a company under section 288(1) of the 1985 Act or Article 296(1) of the 1986 Order shall be treated as two separate registers—
+
+- (a) a register of directors kept under and for the purposes of section 162 of the Companies Act 2006, and
+- (b) a register of secretaries kept under and for the purposes of section 275 of that Act.
+
+**10.** (1) Subject to the following provisions, an existing company need not comply with any provision of the Companies Act 2006 requiring the company's register of directors or secretaries to contain particulars additional to those required by the 1985 Act or the 1986 Order until the earlier of—
+
+- (a) the date to which the company makes up its first annual return made up to a date on or after 1st October 2009, and
+- (b) the last date to which the company should have made up that return.
+
+(2) Sub-paragraph (1) does not apply in relation to a director or secretary of whom particulars are first registered on or after 1st October 2009 (whether the director or secretary was appointed before, on or after that date).
+
+(3) Sub-paragraph (1) ceases to apply in relation to a director or secretary whose registered particulars fall to be altered on or after 1st October 2009 because they have changed (whether the change occurred before, on or after that date).
+
+(4) This paragraph does not affect the particulars required to be included in the company's annual return.
+
+**11.** (1) In the case of an existing company—
+
+- (a) the relevant existing address of a director or secretary is deemed, on and after 1st October 2009, to be a service address, and
+- (b) any entry in the company's register of directors or secretaries stating that address is treated, on and after that date, as complying with the obligation in section 163(1)(b) or 277(1)(b) of the Companies Act 2006 to state a service address.
+
+(2) The relevant existing address is—
+
+- (a) the address that immediately before 1st October 2009 appeared in the company's register of directors and secretaries as having been notified to the company under section 289(1A) or 290(1A) of the 1985 Act (service address notified by individual applying for confidentiality order in respect of usual residential address), or
+- (b) if no such address appeared, the address that immediately before that date appeared in the company's register of directors and secretaries as the director's or secretary's usual residential address.
+
+(3) Any notification of a change of a relevant existing address occurring before 1st October 2009 that is received by the company on or after that date is treated as being or, as the case may be, including notification of a change of service address.
+
+(4) The operation of this paragraph does not give rise to any duty to notify the registrar under section 167 or 276 of the Companies Act 2006 (duty to notify registrar of changes in particulars contained in register).
+
+**12.** (1) An existing company must remove from its register of directors on 1st October 2009 any entry relating to a shadow director.
+
+(2) Section 167 of the Companies Act 2006 (duty to notify registrar of changes) applies as if the shadow director had ceased to be a director on that date.
+
+**13.** The removal by an existing company from its register of directors or secretaries on or after 1st October 2009 of particulars required by the 1985 Act or the 1986 Order but not required by the Companies Act 2006 does not give rise to any duty to notify the registrar under section 167 or 276 of the Companies Act 2006 (duty to notify registrar of changes in particulars contained in register).
+
+**14.** (1) The duty of a company to keep a register of directors' residential addresses has effect on and after 1st October 2009.
+
+(2) The entry on that register of information that immediately before that date was contained in the company's register of directors and secretaries does not give rise to any duty to notify the registrar under section 167 of the Companies Act 2006 (duty to notify registrar of changes in particulars contained in register).
+
+**15.** (1) Sections 167 and 276 of the Companies Act 2006 (duty to notify registrar of changes) apply in relation to—
+
+- (a) a change among a company's directors or in its secretaries, or
+- (b) a change in the particulars contained in the register,
+
+occurring on or after 1st October 2009.
+
+(2) Sections 288(2), (4) and (6), 289 and 290 of the 1985 Act or Articles 296(2), (4) and (6), 297 and 298 of the 1986 Order (notification to registrar of changes) continue to apply in relation to a change occurring before that date.
+
+**16.** (1) The registrar may make such entries in the register as appear to be appropriate having regard to paragraphs 10 to 14 and the information appearing on the register immediately before 1st October 2009 or notified to the registrar in accordance with paragraph 15(2).
+
+(2) In particular, the registrar may record as a service address a relevant existing address (within the meaning of paragraph 11).
+
+(3) Any notification of a change of a relevant existing address occurring before 1st October 2009 that is received by the registrar on or after that date is treated as being or, as the case may be, including notification of a change of service address.
+
+**17.** Where a director's usual residential address appears as a service address—
+
+- (a) in the company's register of directors by virtue of paragraph 11, or
+- (b) in the register of companies by virtue of paragraph 16,
+
+that address is not protected information for the purposes of Chapter 8 of Part 10 of the Companies Act 2006.
+
+**18.** (1) Section 242(1) of the Companies Act 2006 (duty of registrar to omit protected information from material available for inspection) does not apply—
+
+- (a) to material delivered to the registrar before 1st October 2009, or
+- (b) to material delivered to the registrar on or after 1st October 2009 by virtue of paragraph 15(2) (notification of change occurring before that date).
+
+(2) In section 242(2)(b) of the Companies Act 2006 (exclusion of material registered before commencement) the reference to things registered before Chapter 8 of Part 10 of that Act comes into force is treated as including anything registered as a result of a notification in accordance with paragraph 15(2) (notification on or after 1st October 2009 of change occurring before that date).
+
+**19.** In determining under section 245(1) of the Companies Act 2006 whether to put a director's usual residential address on the public record, the registrar may take into account only—
+
+- (a) communications sent by the registrar on or after 1st October 2009, and
+- (b) evidence as to the effectiveness of service coming to the registrar's attention on or after that date.
+
+### 20. Political donations and expenditure
+
+(1) Sections 362 to 379 of the Companies Act 2006 (political donations and expenditure) apply to donations made or expenditure incurred on or after 1st October 2007.
+
+(2) Section 379(2) of that Act applies as to the time when a donation is regarded as made or expenditure as incurred, including where it is made or incurred in pursuance of a contract entered into before that date.
+
+(3) Part 10A of the 1985 Act continues to apply to donations or expenditure in relation to which the relevant time, as defined in section 347A(10) of that Act, is before that date.
+
+(4) The repeal of that Part does not affect paragraph 3(4) of Schedule 7 to the 1985 Act (matters to be dealt with in directors' report: expressions to have same meaning as in Part 10A).
+
+### 21. Accounts
+
+(1) Sections 380 to 416, 418 to 469 and 471 to 474 of the Companies Act 2006 (accounts and reports) apply to accounts and reports for financial years beginning on or after 1st October 2009.
+
+(2) The corresponding provisions of the 1985 Act or 1986 Order continue to apply to accounts and reports for financial years beginning before that date.
+
+**22.** Any question whether—
+
+- (a) for the purposes of section 382, 383, 384(3) or 467(3) of the Companies Act 2006, a company or group qualified as small in a financial year beginning before 1st October 2009, or
+- (b) for the purposes of section 465 or 466 of that Act a company or group qualified as medium-sized in any such financial year,
+
+is to be determined by reference to the corresponding provisions of the 1985 Act or 1986 Order.
+
+### 23. Audit
+
+(1) In Chapter 1 of Part 16 of the Companies Act 2006 (requirement for audited accounts)—
+
+- (a) sections 475 to 481 (general provisions) apply to accounts for financial years beginning on or after 1st October 2009; and
+- (b) section 484 (general power of amendment by regulations) applies accordingly.
+
+(2) Sections 235(1), 249A(1), (3) and (6) to (7), 249AA and 249B of the 1985 Act or Articles 243(1), 257A(1), (3) and (6) to (7), 257AA and 257B of the 1986 Order continue to apply to accounts for financial years beginning before that date.
+
+**24.** (1) Sections 485 to 488 of the Companies Act 2006 (appointment of auditors of private companies) apply in relation to appointments for financial years beginning on or after 1st October 2009.
+
+(2) Sections 384 to 388A of the 1985 Act or Articles 392 to 396A of the 1986 Order continue to apply in relation to appointments for financial years beginning before that date.
+
+(3) Where—
+
+- (a) a private company has elected under section 386 of the 1985 Act or Article 394 of the 1986 Order to dispense with the annual appointment of auditors, and
+- (b) the election is in force immediately before 1st October 2009.
+
+section 487(2)(a) of the Companies Act 2006 (no deemed reappointment of auditors appointed by directors) does not prevent the deemed reappointment under that subsection of auditors first appointed before 1st October 2009.
+
+**25.** (1) This paragraph applies where immediately before 1st October 2009 a resolution of a private company under section 390A of the 1985 Act or Article 398A of the 1986 Order (remuneration of auditors) was in force and was expressed (in whatever terms) to continue to have effect so long as a resolution under section 386 of that Act or Article 394 of that Order (election to dispense with annual appointment of auditors) continued in force.
+
+(2) The repeal of section 386 of the 1985 Act or Article 394 of the 1986 Order does not affect the continued operation of the resolution, which shall continue to have effect until—
+
+- (a) it is revoked or superseded by a further resolution,
+- (b) the auditors to which it applies cease to hold office, or
+- (c) it otherwise ceases to have effect in accordance with its terms.
+
+**26.** (1) In Chapter 2 of Part 16 of the Companies Act 2006 (appointment of auditors)—
+
+- (a) sections 489 and 490 (appointment of auditors by public companies) apply to appointments for financial years beginning on or after 1st October 2009;
+- (b) section 491 (term of office of auditors of public company) applies to auditors appointed for financial years beginning on or after that date.
+
+(2) Sections 384, 385, 387 and 388(1), (3) and (4) of the 1985 Act or Articles 392, 393, 395 and 396(1), (3) and (4) of the 1986 Order continue to apply to appointments by public companies for financial years beginning before that date.
+
+**27.** (1) The following provisions apply to auditors appointed for financial years beginning on or after 1st October 2009—
+
+- (a) section 492 (fixing of auditor's remuneration),
+- (b) section 493 (disclosure of terms of audit appointment), and
+- (c) section 494 (disclosure of services provided by auditor or associated and related remuneration).
+
+(2) Sections 390A and 390B of the 1985 Act or Articles 398A and 398B of the 1986 Order continue to apply to auditors appointed for financial years beginning before that date.
+
+(3) The repeal of section 390A of the 1985 Act and Article 398A of the 1986 Order (remuneration of auditors) does not affect the operation of any such resolution as is mentioned in paragraph 25 above.
+
+**28.** (1) In Chapter 3 of Part 16 of the Companies Act 2006 (functions of auditor)—
+
+- (a) sections 495 to 498 (auditor's report and duties of auditor) apply to auditors' reports on accounts or reports for financial years beginning on or after 1st October 2009;
+- (b) sections 499 to 501 (rights of auditors) apply to auditors appointed for financial years beginning on or after that date;
+- (c) sections 503 to 509 (signature of auditor's report and offences in connection with auditor's report) apply to auditors' reports on accounts or reports for financial years beginning on or after that date.
+
+(2) Sections 235 to 237, 389A and 389B of the 1985 Act or Articles 243 to 245, 397A and 397B of the 1986 Order continue to apply as regards financial years beginning before that date.
+
+**29.** (1) Section 502 of the Companies Act 2006 (auditor's rights in relation to resolutions and meetings) applies to auditors appointed on or after 1st October 2009.
+
+(2) Section 390 of the 1985 Act or Article 398 of the 1986 Order continues to apply to auditors appointed before that date.
+
+**30.** (1) In Chapter 4 of Part 16 of that Act (removal, resignation, etc of auditors), sections 510 to 513 (removal of auditor) apply where notice of the intended resolution is given to the company on or after 1st October 2009.
+
+(2) Sections 391 and 391A of the 1985 Act or Articles 399 and 399A of the 1986 Order continue to apply where notice of the intended resolution is given to the company before that date.
+
+(3) In section 513 (rights of auditor removed from office) as it applies in relation to an auditor appointed before 1st October 2009, the reference to rights under section 502(2) shall be read as a reference to rights under section 390(1) of the 1985 Act or Article 398(1) of the 1986 Order.
+
+**31.** (1) Sections 514 and 515 of the Companies Act 2006 (failure to re-appoint auditor) apply to appointments for financial years beginning on or after 1st October 2009.
+
+(2) Section 391A of the 1985 Act or Article 399A of the 1986 Order continues to apply to appointments for financial years beginning before that date.
+
+**32.** (1) Sections 516 to 518 of the Companies Act 2006 (resignation of auditor) apply to resignations occurring on or after 1st October 2009.
+
+(2) Sections 392 and 392A of the 1985 Act or Articles 400 and 400A of the 1986 Order continue to apply to resignations occurring before that date.
+
+(3) In section 518 (rights of resigning auditor) as it applies in relation to an auditor appointed before 1st October 2009, the reference to rights under section 502(2) shall be read as a reference to rights under section 390(1) of the 1985 Act or Article 398(1) of the 1986 Order.
+
+**33.** (1) Sections 519 to 525 of the Companies Act 2006 (statement by auditor ceasing to hold office) apply where the auditor ceases to hold office on or after 1st October 2009.
+
+(2) Sections 394 and 394A of the 1985 Act or Articles 401A and 401B of the 1986 Order continue to apply where the auditor ceases to hold office before that date.
+
+**34.** (1) Section 526 of the Companies Act 2006 (effect of casual vacancies) applies where the vacancy occurs on or after 1st October 2009.
+
+(2) Section 388(2) of the 1985 Act or Article 396(2) of the 1986 Order continues to apply where the vacancy occurred before that date.
+
+**35.** In section 527 of the Companies Act 2006—
+
+- (a) subsection (1)(a) (matters relating to audit of company's accounts) applies to accounts for financial years beginning on or after 1st October 2009, and
+- (b) subsection (1)(b) (matters relating to circumstances connected with an auditor of the company) applies to auditors appointed for financial years beginning on or after that date.
+
+**36.** A resolution passed before 1st October 2009 authorising a liability limitation agreement is effective for the purposes of section 536 of the Companies Act 2006 (authorisation of agreement by members of company) if it complies with the requirements of that section.
+
+### 37. Annual return
+
+(1) Sections 854 to 859 of the Companies Act 2006 (a company's annual return) apply to annual returns made up to a date on or after 1st October 2009.
+
+(2) Sections 363 to 365 of the 1985 Act or Articles 371 to 373 of the 1986 Order continue to apply to annual returns made up to a date before 1st October 2009.
+
+(3) Any reference in the Companies Act 2006 to a company's last return, or to a return delivered in accordance with Part 24 of that Act, shall be read as including (so far as necessary to ensure the continuity of the law) a return made up to a date before 1st October 2009 or delivered in accordance with the 1985 Act or the 1986 Order.
+
+### 38. Fraudulent trading
+
+(1) Section 458 of the 1985 Act or Article 451 of the 1986 Order (offences of fraudulent trading) continues to apply to offences completed before 1st October 2009.
+
+(2) Where, in the case of an offence—
+
+- (a) a relevant event occurs before 1st October 2009, and
+- (b) another relevant event occurs on or after 1st October 2009,
+
+the offence must be charged under section 993 of the Companies Act 2006 (and not under section 458 of the 1985 Act or Article 451 of the 1986 Order).
+
+(3) If in the case of any such offence a relevant event occurred before 15th January 2007, section 993(3)(a) applies with the substitution of “ seven years ” for “ten years”.
+
+(4) “**Relevant event**” means an act, omission or other event (including any result of one or more acts or omissions) proof of which is required for conviction of the offence.
+
+### 39. Company investigations
+
+(1) The extension to Northern Ireland by section 1284 of the Companies Act 2006 of Parts 14 and 15 of the 1985 Act (company investigations) has effect to enable the exercise of the powers conferred by those Parts in relation to unregistered companies having their principal office in Northern Ireland, and otherwise in relation to Northern Ireland, on and after 1st October 2009.
+
+(2) Parts 15 and 16 of the 1986 Order, and any other provision of that Order having effect for the purposes of Part 15, continue to apply (subject to sub-paragraph (3) below)—
+
+- (a) in relation to inspectors appointed under Part 15 before 1st October 2009 and matters arising in connection with or in consequence of any such appointment or any report of inspectors so appointed;
+- (b) in relation to any exercise before 1st October 2009 of any power of the Department of Enterprise, Trade and Investment in Northern Ireland not within paragraph (a), and matters arising in connection with or in consequence of any such exercise.
+
+(3) A direction in force immediately before 1st October 2009 under Article 438(1A) or 449(1A) of the 1986 Order (direction limiting or relaxing restrictions on shares) shall continue in force and have effect on and after that date as if made under the corresponding provision of Part 14 of the 1985 Act, and the provisions of Part 15 of that Act shall apply accordingly.
+
+### 40. Saving for provisions as to form or manner in which documents to be delivered
+
+(1) Any saving in this Schedule for the effect of a provision of the 1985 Act or 1986 Order requiring use of a prescribed form extends to the form and the power under which it is prescribed.
+
+(2) Any saving in this Schedule for the effect of a provision of the 1985 Act or 1986 Order requiring a document to be delivered to the registrar extends to section 707B of the 1985 Act or Article 656B of the 1986 Order (delivery to the registrar using electronic communications) so far as relating to the provision in question and the delivery of documents under it.
+
+### 41. Savings for provisions relating to offences
+
+(1) The repeal of any provision of the 1985 Act or 1986 Order creating an offence does not affect the continued operation of that provision in relation to an offence committed before 1st October 2009.
+
+(2) Any saving in this Schedule for the effect of a provision of the 1985 Act or 1986 Order that creates an offence extends to the entry relating to that provision in Schedule 24 to that Act or Schedule 23 to that Order (punishment of offences).
+
+(3) References in this paragraph to provisions of the 1985 Act or 1986 Order include provisions of regulations or orders made under that Act or Order.
+
+*(This note is not part of the Regulations)*
+
+These Regulations, which are made under section 1043 of the Companies Act 2006 (c.46) (“**the Act**”), apply to unregistered companies specified provisions of that Act and also provisions of the Companies Act 1985 (c.6) (“**the 1985 Act**”) that are repealed by the Act. The unrepealed provisions of the 1985 Act are extended to Northern Ireland by virtue of section 1284 of the Act.
+
+Regulation 3 applies the provisions of the 1985 Act and the Act which are specified in Schedule 1 (with the modifications there set out) to unregistered companies. Regulations 4 and 5 contain adaptations of general effect. Regulation 6 provides for a person appointed as auditor of an unregistered company to be a statutory auditor for the purposes of Part 42 of the Act. Regulation 7 revokes specified regulations (including those applying to Northern Ireland) which apply provisions of the 1985 Act and the Act to unregistered companies. Provisions in those Regulations are reproduced in these Regulations. Transitional and saving provisions are set out in Schedule 2 to the Regulations.
+
+No Impact Assessment has been prepared for these Regulations as they have no impact on the cost of business, charities or voluntary bodies.
+
+## Annotations
+
+[^c19851671]: Marginal citation: [2006 c. 46](https://www.legislation.gov.uk/ukpga/2006/46).
+
+[^key-053a7e22b2666eed8f6980fb3be35dc0]: Textual amendment: Word in reg. 2(a)(iii) deleted (8.12.2017) by [The Risk Transformation Regulations 2017 (S.I. 2017/1212)](https://www.legislation.gov.uk/uksi/2017/1212), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1212/regulation/1/2), [Sch. 4 para. 6(a)](https://www.legislation.gov.uk/uksi/2017/1212/schedule/4/paragraph/6/a) (with [reg. 189](https://www.legislation.gov.uk/uksi/2017/1212/regulation/189))
+
+[^key-8b443799d560b234424a17a2fc13e39c]: Textual amendment: Word in reg. 2(a)(iv) inserted (8.12.2017) by [The Risk Transformation Regulations 2017 (S.I. 2017/1212)](https://www.legislation.gov.uk/uksi/2017/1212), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1212/regulation/1/2), [Sch. 4 para. 6(b)](https://www.legislation.gov.uk/uksi/2017/1212/schedule/4/paragraph/6/b) (with [reg. 189](https://www.legislation.gov.uk/uksi/2017/1212/regulation/189))
+
+[^key-dc0a7065093f3f16be94ac38e2fba752]: Textual amendment: Reg. 2(a)(v) inserted (8.12.2017) by [The Risk Transformation Regulations 2017 (S.I. 2017/1212)](https://www.legislation.gov.uk/uksi/2017/1212), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1212/regulation/1/2), [Sch. 4 para. 6(c)](https://www.legislation.gov.uk/uksi/2017/1212/schedule/4/paragraph/6/c) (with [reg. 189](https://www.legislation.gov.uk/uksi/2017/1212/regulation/189))
+
+[^c19851681]: Marginal citation: [S.I. 1985/680](https://www.legislation.gov.uk/uksi/1985/680), as amended.
+
+[^c19851691]: Marginal citation: S.R. (NI) 1986 No 305, as amended.
+
+[^c19851701]: Marginal citation: [S.I. 2007/318](https://www.legislation.gov.uk/uksi/2007/318).
+
+[^key-d3e8fa5535f4cee5903456f69f2e3d81]: Textual amendment: Words in [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2009/2436/schedule/1/paragraph/1) substituted (18.11.2025) by [The Companies Authorised to Register, Unregistered Companies and Overseas Companies (Application of Company Law) Regulations 2025 (S.I. 2025/761)](https://www.legislation.gov.uk/uksi/2025/761), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/761/regulation/1/3), [3(2)(a)](https://www.legislation.gov.uk/uksi/2025/761/regulation/3/2/a) (with [regs. 5](https://www.legislation.gov.uk/uksi/2025/761/regulation/5), [6](https://www.legislation.gov.uk/uksi/2025/761/regulation/6))
+
+[^key-92b2e6a043dbd02e370c6dc2fe1cb6c2]: Textual amendment: Words in [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2009/2436/schedule/1/paragraph/1) substituted (18.11.2025) by [The Companies Authorised to Register, Unregistered Companies and Overseas Companies (Application of Company Law) Regulations 2025 (S.I. 2025/761)](https://www.legislation.gov.uk/uksi/2025/761), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/761/regulation/1/3), [3(2)(b)](https://www.legislation.gov.uk/uksi/2025/761/regulation/3/2/b) (with [regs. 5](https://www.legislation.gov.uk/uksi/2025/761/regulation/5), [6](https://www.legislation.gov.uk/uksi/2025/761/regulation/6))
+
+[^key-9792f63c0e9b2770f3c3c39ce28c5999]: Textual amendment: Words in [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2009/2436/schedule/1/paragraph/1) inserted (18.11.2025 for specified purposes and otherwise in force in accordance with reg. 1(5)(b)) by [The Companies Authorised to Register, Unregistered Companies and Overseas Companies (Application of Company Law) Regulations 2025 (S.I. 2025/761)](https://www.legislation.gov.uk/uksi/2025/761), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/761/regulation/1/3)[(5)(b)](https://www.legislation.gov.uk/uksi/2025/761/regulation/1/5/b), [3(2)(c)](https://www.legislation.gov.uk/uksi/2025/761/regulation/3/2/c) (with [regs. 5](https://www.legislation.gov.uk/uksi/2025/761/regulation/5), [6](https://www.legislation.gov.uk/uksi/2025/761/regulation/6))
+
+[^key-e115156099c3a38fcb4f75979d8c83df]: Textual amendment: Words in [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2009/2436/schedule/1/paragraph/1) inserted (18.11.2025 for specified purposes and otherwise in force in accordance with reg. 1(5)(b)) by [The Companies Authorised to Register, Unregistered Companies and Overseas Companies (Application of Company Law) Regulations 2025 (S.I. 2025/761)](https://www.legislation.gov.uk/uksi/2025/761), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/761/regulation/1/3)[(5)(b)](https://www.legislation.gov.uk/uksi/2025/761/regulation/1/5/b), [3(2)(d)](https://www.legislation.gov.uk/uksi/2025/761/regulation/3/2/d) (with [regs. 5](https://www.legislation.gov.uk/uksi/2025/761/regulation/5), [6](https://www.legislation.gov.uk/uksi/2025/761/regulation/6))
+
+[^key-38122a9b139b9a8a654b35a6fb6efa06]: Textual amendment: [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2009/2436/schedule/1/paragraph/6) substituted (18.11.2025) by [The Companies Authorised to Register, Unregistered Companies and Overseas Companies (Application of Company Law) Regulations 2025 (S.I. 2025/761)](https://www.legislation.gov.uk/uksi/2025/761), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/761/regulation/1/3), [3(3)](https://www.legislation.gov.uk/uksi/2025/761/regulation/3/3) (with [regs. 5](https://www.legislation.gov.uk/uksi/2025/761/regulation/5), [6](https://www.legislation.gov.uk/uksi/2025/761/regulation/6))
+
+[^key-804faa9ed981df3324a909b50fb49084]: Textual amendment: [Sch. 1 para. 6(5)(aa)](https://www.legislation.gov.uk/uksi/2009/2436/schedule/1/paragraph/6/5/aa) inserted (18.11.2025) by [The Companies and Limited Liability Partnerships (Annotations, Application and Modification of Company Law and Consequential Amendments) Regulations 2025 (S.I. 2025/1116)](https://www.legislation.gov.uk/uksi/2025/1116), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1116/regulation/1/2), [5(2)](https://www.legislation.gov.uk/uksi/2025/1116/regulation/5/2); [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/g)
+
+[^key-659bfd5299175d2a40f95bebfdeb1298]: Textual amendment: [Sch. 1 para. 7](https://www.legislation.gov.uk/uksi/2009/2436/schedule/1/paragraph/7) substituted (21.3.2024) by [The Economic Crime and Corporate Transparency Act 2023 (Consequential, Supplementary and Incidental Provisions) Regulations 2024 (S.I. 2024/410)](https://www.legislation.gov.uk/uksi/2024/410), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/410/regulation/1/2), [Sch. 2 para. 5(a)](https://www.legislation.gov.uk/uksi/2024/410/schedule/2/paragraph/5/a)
+
+[^key-09ce60b5276a3d37a73bbb710e04c499]: Textual amendment: [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/2009/2436/schedule/1/paragraph/8) substituted (18.11.2025) by [The Companies and Limited Liability Partnerships (Annotations, Application and Modification of Company Law and Consequential Amendments) Regulations 2025 (S.I. 2025/1116)](https://www.legislation.gov.uk/uksi/2025/1116), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1116/regulation/1/2), [5(3)](https://www.legislation.gov.uk/uksi/2025/1116/regulation/5/3); [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/g)
+
+[^key-5651fd7065514896cbf549e908043c32]: Textual amendment: Sch. 1 para. 10(1) substituted (with application in accordance with reg. 1(3) of the amending S.I.) by [The Unregistered Companies (Amendment) Regulations 2013 (S.I. 2013/1972)](https://www.legislation.gov.uk/uksi/2013/1972), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/1972/regulation/1/2), [2(2)(a)](https://www.legislation.gov.uk/uksi/2013/1972/regulation/2/2/a)
+
+[^key-edeac18daf624d24164090d776a9ec9e]: Textual amendment: Sch. 1 para. 10(8)-(11) omitted (with application in accordance with reg. 1(3) of the amending S.I.) by virtue of [The Unregistered Companies (Amendment) Regulations 2013 (S.I. 2013/1972)](https://www.legislation.gov.uk/uksi/2013/1972), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/1972/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2013/1972/regulation/2/2/b)
+
+[^key-d9ece2554474666274463f95b72cd3e6]: Textual amendment: Sch. 1 para. 10(14)(15) omitted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by virtue of [The Companies, Partnerships and Groups (Accounts and Reports) Regulations 2015 (S.I. 2015/980)](https://www.legislation.gov.uk/uksi/2015/980), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/980/regulation/2/1), [44](https://www.legislation.gov.uk/uksi/2015/980/regulation/44)
+
+[^key-97a64cb98b0cafd707c869d170654f0f]: Textual amendment: Sch. 1 para. 10(19)(a) substituted (2.7.2012) by [The Statutory Auditors (Amendment of Companies Act 2006 and Delegation of Functions etc) Order 2012 (S.I. 2012/1741)](https://www.legislation.gov.uk/uksi/2012/1741), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1741/article/1/2), [Sch. para. 10](https://www.legislation.gov.uk/uksi/2012/1741/schedule/paragraph/10)
+
+[^key-6e0aeacff47bb089fd2ba6784c854047]: Textual amendment: Sch. 1 paras. 12A-12C inserted (26.6.2017) by [The Information about People with Significant Control (Amendment) Regulations 2017 (S.I. 2017/693)](https://www.legislation.gov.uk/uksi/2017/693), [regs. 2](https://www.legislation.gov.uk/uksi/2017/693/regulation/2), [33](https://www.legislation.gov.uk/uksi/2017/693/regulation/33) (with [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2017/693/schedule/part/3))
+
+[^key-f7abb3f60fc00201d4d0957dab43e2b9]: Textual amendment: Words in [Sch. 1 para. 12A(1)](https://www.legislation.gov.uk/uksi/2009/2436/schedule/1/paragraph/12A/1) inserted (18.11.2025) by [The Companies Authorised to Register, Unregistered Companies and Overseas Companies (Application of Company Law) Regulations 2025 (S.I. 2025/761)](https://www.legislation.gov.uk/uksi/2025/761), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2025/761/regulation/1/4), [3(5)(a)](https://www.legislation.gov.uk/uksi/2025/761/regulation/3/5/a) (with [regs. 5](https://www.legislation.gov.uk/uksi/2025/761/regulation/5), [6](https://www.legislation.gov.uk/uksi/2025/761/regulation/6))
+
+[^key-55de50aad2964dec5f27a832cd25516a]: Textual amendment: Words in [Sch. 1 para. 12A(3)](https://www.legislation.gov.uk/uksi/2009/2436/schedule/1/paragraph/12A/3) substituted (18.11.2025) by [The Companies Authorised to Register, Unregistered Companies and Overseas Companies (Application of Company Law) Regulations 2025 (S.I. 2025/761)](https://www.legislation.gov.uk/uksi/2025/761), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2025/761/regulation/1/4), [3(5)(b)(i)](https://www.legislation.gov.uk/uksi/2025/761/regulation/3/5/b/i) (with [regs. 5](https://www.legislation.gov.uk/uksi/2025/761/regulation/5), [6](https://www.legislation.gov.uk/uksi/2025/761/regulation/6))
+
+[^key-a67c472e9757e64a30bc99131598d13d]: Textual amendment: Word in [Sch. 1 para. 12A(3)(a)](https://www.legislation.gov.uk/uksi/2009/2436/schedule/1/paragraph/12A/3/a) substituted (18.11.2025) by [The Companies Authorised to Register, Unregistered Companies and Overseas Companies (Application of Company Law) Regulations 2025 (S.I. 2025/761)](https://www.legislation.gov.uk/uksi/2025/761), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2025/761/regulation/1/4), [3(5)(b)(ii)](https://www.legislation.gov.uk/uksi/2025/761/regulation/3/5/b/ii) (with [regs. 5](https://www.legislation.gov.uk/uksi/2025/761/regulation/5), [6](https://www.legislation.gov.uk/uksi/2025/761/regulation/6))
+
+[^key-c15026879d9f84bb4ad13fbdaa541096]: Textual amendment: Word in [Sch. 1 para. 12A(3)(b)](https://www.legislation.gov.uk/uksi/2009/2436/schedule/1/paragraph/12A/3/b) substituted (18.11.2025) by [The Companies Authorised to Register, Unregistered Companies and Overseas Companies (Application of Company Law) Regulations 2025 (S.I. 2025/761)](https://www.legislation.gov.uk/uksi/2025/761), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2025/761/regulation/1/4), [3(5)(b)(iii)](https://www.legislation.gov.uk/uksi/2025/761/regulation/3/5/b/iii) (with [regs. 5](https://www.legislation.gov.uk/uksi/2025/761/regulation/5), [6](https://www.legislation.gov.uk/uksi/2025/761/regulation/6))
+
+[^key-dd4a5f0d11ece0ee6acbda8e647128ba]: Textual amendment: [Sch. 1 para. 12A(3A)](https://www.legislation.gov.uk/uksi/2009/2436/schedule/1/paragraph/12A/3A) inserted (18.11.2025) by [The Companies Authorised to Register, Unregistered Companies and Overseas Companies (Application of Company Law) Regulations 2025 (S.I. 2025/761)](https://www.legislation.gov.uk/uksi/2025/761), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2025/761/regulation/1/4), [3(5)(c)](https://www.legislation.gov.uk/uksi/2025/761/regulation/3/5/c) (with [regs. 5](https://www.legislation.gov.uk/uksi/2025/761/regulation/5), [6](https://www.legislation.gov.uk/uksi/2025/761/regulation/6))
+
+[^key-fb90a7ba772b4ce217272f0482c84710]: Textual amendment: [Sch. 1 para. 12A(4)](https://www.legislation.gov.uk/uksi/2009/2436/schedule/1/paragraph/12A/4) substituted (18.11.2025) by [The Companies Authorised to Register, Unregistered Companies and Overseas Companies (Application of Company Law) Regulations 2025 (S.I. 2025/761)](https://www.legislation.gov.uk/uksi/2025/761), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2025/761/regulation/1/4), [3(5)(d)](https://www.legislation.gov.uk/uksi/2025/761/regulation/3/5/d) (with [regs. 5](https://www.legislation.gov.uk/uksi/2025/761/regulation/5), [6](https://www.legislation.gov.uk/uksi/2025/761/regulation/6))
+
+[^key-5e150d7bd5ab2c3ce93ae5f4267f4ed4]: Textual amendment: [Sch. 1 para. 12A(4A)](https://www.legislation.gov.uk/uksi/2009/2436/schedule/1/paragraph/12A/4A) inserted (18.11.2025) by [The Companies Authorised to Register, Unregistered Companies and Overseas Companies (Application of Company Law) Regulations 2025 (S.I. 2025/761)](https://www.legislation.gov.uk/uksi/2025/761), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2025/761/regulation/1/4), [3(5)(e)](https://www.legislation.gov.uk/uksi/2025/761/regulation/3/5/e) (with [regs. 5](https://www.legislation.gov.uk/uksi/2025/761/regulation/5), [6](https://www.legislation.gov.uk/uksi/2025/761/regulation/6))
+
+[^key-1cd194d9eb2d8925df0ac8d8d2014289]: Textual amendment: [Sch. 1 para. 12A(5)(za)](https://www.legislation.gov.uk/uksi/2009/2436/schedule/1/paragraph/12A/5/za) inserted (18.11.2025) by [The Companies and Limited Liability Partnerships (Annotations, Application and Modification of Company Law and Consequential Amendments) Regulations 2025 (S.I. 2025/1116)](https://www.legislation.gov.uk/uksi/2025/1116), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2025/1116/regulation/1/4), [5(4)](https://www.legislation.gov.uk/uksi/2025/1116/regulation/5/4); [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/i)
+
+[^M_F_421cde2a-ef9a-4c80-ed6f-a33d27899d88]: Textual amendment: Sch. 1 para. 12B substituted (18.11.2025) by [The Companies Authorised to Register, Unregistered Companies and Overseas Companies (Application of Company Law) Regulations 2025 (S.I. 2025/761)](https://www.legislation.gov.uk/uksi/2025/761), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2025/761/regulation/1/4), [3(6)](https://www.legislation.gov.uk/uksi/2025/761/regulation/3/6) (with [regs. 5](https://www.legislation.gov.uk/uksi/2025/761/regulation/5), [6](https://www.legislation.gov.uk/uksi/2025/761/regulation/6))
+
+[^M_F_35bb1723-137f-4a2d-f3e7-6739b7e8c909]: Textual amendment: [Sch. 1 para. 12C(2)](https://www.legislation.gov.uk/uksi/2009/2436/schedule/1/paragraph/20/2A) substituted (21.3.2024) by [The Economic Crime and Corporate Transparency Act 2023 (Consequential, Supplementary and Incidental Provisions) Regulations 2024 (S.I. 2024/410)](https://www.legislation.gov.uk/uksi/2024/410), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/410/regulation/1/2), [Sch. 2 para. 5(b)(i)](https://www.legislation.gov.uk/uksi/2024/410/schedule/2/paragraph/5/e)
+
+[^M_F_2ab6c320-b331-4b7d-f0f0-d4b1ddc5090e]: Textual amendment: [Sch. 1 para. 12C(2A)](https://www.legislation.gov.uk/uksi/2009/2436/schedule/1/paragraph/20/2A) inserted (21.3.2024) by [The Economic Crime and Corporate Transparency Act 2023 (Consequential, Supplementary and Incidental Provisions) Regulations 2024 (S.I. 2024/410)](https://www.legislation.gov.uk/uksi/2024/410), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/410/regulation/1/2), [Sch. 2 para. 5(b)(ii)](https://www.legislation.gov.uk/uksi/2024/410/schedule/2/paragraph/5/e)
+
+[^key-60379ac5065f6e2b48b0e9d1937a0b95]: Textual amendment: Sch. 1 para. 13 substituted (30.6.2016) by [The Companies and Limited Liability Partnerships (Filing Requirements) Regulations 2016 (S.I. 2016/599)](https://www.legislation.gov.uk/uksi/2016/599), [reg. 1](https://www.legislation.gov.uk/uksi/2016/599/regulation/1), [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2016/599/schedule/2/paragraph/2) (with [reg. 4(2)-(5)](https://www.legislation.gov.uk/uksi/2016/599/regulation/4/2))
+
+[^key-f70837006989f0a73067260fb50fa9d0]: Textual amendment: Words in [Sch. 1 para. 13(1)](https://www.legislation.gov.uk/uksi/2009/2436/schedule/1/paragraph/13/1) substituted (18.11.2025) by [The Companies Authorised to Register, Unregistered Companies and Overseas Companies (Application of Company Law) Regulations 2025 (S.I. 2025/761)](https://www.legislation.gov.uk/uksi/2025/761), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/761/regulation/1/3), [3(7)(a)](https://www.legislation.gov.uk/uksi/2025/761/regulation/3/7/a) (with [regs. 5](https://www.legislation.gov.uk/uksi/2025/761/regulation/5), [6](https://www.legislation.gov.uk/uksi/2025/761/regulation/6))
+
+[^key-d0807593d1efc0bcd701e3bf90aba6d8]: Textual amendment: [Sch. 1 para. 13(1A)](https://www.legislation.gov.uk/uksi/2009/2436/schedule/1/paragraph/13/1A) inserted (18.11.2025) by [The Companies Authorised to Register, Unregistered Companies and Overseas Companies (Application of Company Law) Regulations 2025 (S.I. 2025/761)](https://www.legislation.gov.uk/uksi/2025/761), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/761/regulation/1/3), [3(7)(b)](https://www.legislation.gov.uk/uksi/2025/761/regulation/3/7/b) (with [regs. 5](https://www.legislation.gov.uk/uksi/2025/761/regulation/5), [6](https://www.legislation.gov.uk/uksi/2025/761/regulation/6))
+
+[^key-70a22dd2181eddcccebd4bee3ea2d998]: Textual amendment: [Sch. 1 para. 13(2)](https://www.legislation.gov.uk/uksi/2009/2436/schedule/1/paragraph/13/2) substituted (18.11.2025) by [The Companies Authorised to Register, Unregistered Companies and Overseas Companies (Application of Company Law) Regulations 2025 (S.I. 2025/761)](https://www.legislation.gov.uk/uksi/2025/761), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/761/regulation/1/3), [3(7)(c)](https://www.legislation.gov.uk/uksi/2025/761/regulation/3/7/c) (with [regs. 5](https://www.legislation.gov.uk/uksi/2025/761/regulation/5), [6](https://www.legislation.gov.uk/uksi/2025/761/regulation/6))
+
+[^key-adb2e46f3ce3d1a87edd1b00cf21a6f3]: Textual amendment: [Sch. 1 para. 14(A1)](https://www.legislation.gov.uk/uksi/2009/2436/schedule/1/paragraph/14/A1) inserted (31.12.2020) by [The Takeovers (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/217)](https://www.legislation.gov.uk/uksi/2019/217), [regs. 1](https://www.legislation.gov.uk/uksi/2019/217/regulation/1), [20](https://www.legislation.gov.uk/uksi/2019/217/regulation/20); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c19851711]: Marginal citation: [1985 c. 6](https://www.legislation.gov.uk/ukpga/1985/6).
+
+[^key-323b6a1159f63a33baf45b0b575ff50b]: Textual amendment: [Sch. 1 para. 17(2)(da)](https://www.legislation.gov.uk/uksi/2009/2436/schedule/1/paragraph/17/2/da) inserted (21.3.2024) by [The Economic Crime and Corporate Transparency Act 2023 (Consequential, Supplementary and Incidental Provisions) Regulations 2024 (S.I. 2024/410)](https://www.legislation.gov.uk/uksi/2024/410), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/410/regulation/1/2), [Sch. 2 para. 5(c)(i)](https://www.legislation.gov.uk/uksi/2024/410/schedule/2/paragraph/5/c/i)
+
+[^key-7a090f2e0177cb7b2d3348f7ec6ca25a]: Textual amendment: [Sch. 1 para. 17(2)(ea)](https://www.legislation.gov.uk/uksi/2009/2436/schedule/1/paragraph/17/2/ea) inserted (21.3.2024) by [The Economic Crime and Corporate Transparency Act 2023 (Consequential, Supplementary and Incidental Provisions) Regulations 2024 (S.I. 2024/410)](https://www.legislation.gov.uk/uksi/2024/410), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/410/regulation/1/2), [Sch. 2 para. 5(c)(ii)](https://www.legislation.gov.uk/uksi/2024/410/schedule/2/paragraph/5/c/ii)
+
+[^key-26984e7e0d5c67f40a911455cecfdee2]: Textual amendment: [Sch. 1 para. 17(2)(fa)](https://www.legislation.gov.uk/uksi/2009/2436/schedule/1/paragraph/17/2/fa) inserted (21.3.2024) by [The Economic Crime and Corporate Transparency Act 2023 (Consequential, Supplementary and Incidental Provisions) Regulations 2024 (S.I. 2024/410)](https://www.legislation.gov.uk/uksi/2024/410), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/410/regulation/1/2), [Sch. 2 para. 5(c)(iii)](https://www.legislation.gov.uk/uksi/2024/410/schedule/2/paragraph/5/c/iii)
+
+[^key-7869a54202d0dd1ab21031d878b682f2]: Textual amendment: Words in Sch. 1 para. 19 substituted (30.6.2016) by [The Companies and Limited Liability Partnerships (Filing Requirements) Regulations 2016 (S.I. 2016/599)](https://www.legislation.gov.uk/uksi/2016/599), [reg. 1](https://www.legislation.gov.uk/uksi/2016/599/regulation/1), [Sch. 2 para. 3(a)](https://www.legislation.gov.uk/uksi/2016/599/schedule/2/paragraph/3/a)
+
+[^key-4df9463dae663f352b421390d05a8d8d]: Textual amendment: Words in Sch. 1 para. 19 inserted (with application in accordance with reg. 2 of the amending S.I.) by [The Companies and Limited Liability Partnerships (Accounts and Audit Exemptions and Change of Accounting Framework) Regulations 2012 (S.I. 2012/2301)](https://www.legislation.gov.uk/uksi/2012/2301), [regs. 1](https://www.legislation.gov.uk/uksi/2012/2301/regulation/1), [23](https://www.legislation.gov.uk/uksi/2012/2301/regulation/23)
+
+[^key-d1cbad648fec0a1eebdf754a0f458e7a]: Textual amendment: Words in Sch. 1 para. 19 substituted (30.6.2016) by [The Companies and Limited Liability Partnerships (Filing Requirements) Regulations 2016 (S.I. 2016/599)](https://www.legislation.gov.uk/uksi/2016/599), [reg. 1](https://www.legislation.gov.uk/uksi/2016/599/regulation/1), [Sch. 2 para. 3(b)](https://www.legislation.gov.uk/uksi/2016/599/schedule/2/paragraph/3/b)
+
+[^key-7f6e37062cadd81418f913da05f64aa6]: Textual amendment: Sch. 1 para. 19A inserted (10.10.2015) by [The Companies and Limited Liability Partnerships (Filing Requirements) Regulations 2015 (S.I. 2015/1695)](https://www.legislation.gov.uk/uksi/2015/1695), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1695/regulation/1), [9(2)](https://www.legislation.gov.uk/uksi/2015/1695/regulation/9/2) (with [reg. 2](https://www.legislation.gov.uk/uksi/2015/1695/regulation/2))
+
+[^M_F_2f8259a9-811d-4b16-c1b9-d804c063363d]: Textual amendment: Section 1079B is inserted by the [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [s. 101(1)](https://www.legislation.gov.uk/ukpga/2015/26/section/101/1)
+
+[^key-74a335caacd6d154675077391aa4714f]: Textual amendment: [Sch. 1 para. 20(1)(aa)](https://www.legislation.gov.uk/uksi/2009/2436/schedule/1/paragraph/20/1/aa) omitted (18.11.2025) by virtue of [The Companies and Limited Liability Partnerships (Annotations, Application and Modification of Company Law and Consequential Amendments) Regulations 2025 (S.I. 2025/1116)](https://www.legislation.gov.uk/uksi/2025/1116), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1116/regulation/1/2), [5(5)(a)](https://www.legislation.gov.uk/uksi/2025/1116/regulation/5/5/a); [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/g)
+
+[^key-ec9bece600a034d05f1303aca230a000]: Textual amendment: [Sch. 1 para. 20(1)(c)](https://www.legislation.gov.uk/uksi/2009/2436/schedule/1/paragraph/20/1/c) omitted (18.11.2025) by virtue of [The Companies and Limited Liability Partnerships (Annotations, Application and Modification of Company Law and Consequential Amendments) Regulations 2025 (S.I. 2025/1116)](https://www.legislation.gov.uk/uksi/2025/1116), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1116/regulation/1/2), [5(5)(a)](https://www.legislation.gov.uk/uksi/2025/1116/regulation/5/5/a); [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/g)
+
+[^key-051b04cfa0f07abd27e8a1cffdb9d99c]: Textual amendment: [Sch. 1 para. 20(1)(cza)](https://www.legislation.gov.uk/uksi/2009/2436/schedule/1/paragraph/20/1/cza) omitted (21.3.2024) by virtue of [The Economic Crime and Corporate Transparency Act 2023 (Consequential, Supplementary and Incidental Provisions) Regulations 2024 (S.I. 2024/410)](https://www.legislation.gov.uk/uksi/2024/410), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/410/regulation/1/2), [Sch. 2 para. 5(d)(i)](https://www.legislation.gov.uk/uksi/2024/410/schedule/2/paragraph/5/d/i)
+
+[^key-b7e3b263c1b0cf99ae26d3ea5594fb41]: Textual amendment: [Sch. 1 para. 20(1)(ca)](https://www.legislation.gov.uk/uksi/2009/2436/schedule/1/paragraph/20/1/ca) substituted (21.3.2024) by [The Economic Crime and Corporate Transparency Act 2023 (Consequential, Supplementary and Incidental Provisions) Regulations 2024 (S.I. 2024/410)](https://www.legislation.gov.uk/uksi/2024/410), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/410/regulation/1/2), [Sch. 2 para. 5(d)(ii)](https://www.legislation.gov.uk/uksi/2024/410/schedule/2/paragraph/5/d/ii)
+
+[^key-59592adcca58f1f0dd4676ce48b30d77]: Modification: Sch. 1 para. 20(1)(d)(e) amendment to earlier affecting provision SI 2015/1695 reg. 9(3)(b) (30.6.2016) by [The Companies and Limited Liability Partnerships (Filing Requirements) Regulations 2016 (S.I. 2016/599)](https://www.legislation.gov.uk/uksi/2016/599), [reg. 1](https://www.legislation.gov.uk/uksi/2016/599/regulation/1), [Sch. 3 para. 10](https://www.legislation.gov.uk/uksi/2016/599/schedule/3/paragraph/10)
+
+[^key-e4f730262af006ec86f079be6f7e3e2b]: Textual amendment: [Sch. 1 para. 20(1)(f)](https://www.legislation.gov.uk/uksi/2009/2436/schedule/1/paragraph/20/1/f) omitted (21.7.2025) by virtue of [The Protection and Disclosure of Personal Information (Amendment) Regulations 2025 (S.I. 2025/874)](https://www.legislation.gov.uk/uksi/2025/874), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2025/874/regulation/1/2/a), [7(a)](https://www.legislation.gov.uk/uksi/2025/874/regulation/7/a)
+
+[^key-fc4e8ed1f4285131a3bbd8a3b860fe12]: Textual amendment: [Sch. 1 para. 20(1ZA)](https://www.legislation.gov.uk/uksi/2009/2436/schedule/1/paragraph/20/1ZA) inserted (18.11.2025) by [The Companies and Limited Liability Partnerships (Annotations, Application and Modification of Company Law and Consequential Amendments) Regulations 2025 (S.I. 2025/1116)](https://www.legislation.gov.uk/uksi/2025/1116), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1116/regulation/1/2), [5(6)](https://www.legislation.gov.uk/uksi/2025/1116/regulation/5/6); [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/g)
+
+[^key-d11bbf4e1b00ab8b0f907f9c2a630bd2]: Textual amendment: [Sch. 1 para. 20(1A)](https://www.legislation.gov.uk/uksi/2009/2436/schedule/1/paragraph/20/1A) inserted (18.3.2025) by [The Unique Identifiers (Application of Company Law) Regulations 2025 (S.I. 2025/49)](https://www.legislation.gov.uk/uksi/2025/49), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/49/regulation/1/3), [6(b)](https://www.legislation.gov.uk/uksi/2025/49/regulation/6/b); [S.I. 2025/349](https://www.legislation.gov.uk/uksi/2025/349), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2025/349/regulation/2/b)
+
+[^key-82c157d38148c6883f51cc1bc173a266]: Textual amendment: Words in [Sch. 1 para. 20(1A)](https://www.legislation.gov.uk/uksi/2009/2436/schedule/1/paragraph/20/1A) substituted (18.11.2025) by [The Companies and Limited Liability Partnerships (Annotations, Application and Modification of Company Law and Consequential Amendments) Regulations 2025 (S.I. 2025/1116)](https://www.legislation.gov.uk/uksi/2025/1116), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1116/regulation/1/2), [5(7)(a)](https://www.legislation.gov.uk/uksi/2025/1116/regulation/5/7/a); [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/g)
+
+[^key-4961da179565521dd499d75b68e2911b]: Textual amendment: Words in [Sch. 1 para. 20(1A)](https://www.legislation.gov.uk/uksi/2009/2436/schedule/1/paragraph/20/1A) substituted (18.11.2025) by [The Companies and Limited Liability Partnerships (Annotations, Application and Modification of Company Law and Consequential Amendments) Regulations 2025 (S.I. 2025/1116)](https://www.legislation.gov.uk/uksi/2025/1116), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1116/regulation/1/2), [5(7)(b)](https://www.legislation.gov.uk/uksi/2025/1116/regulation/5/7/b); [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/g)
+
+[^key-0a7c26b28a6e546b8b9112cb83074b50]: Textual amendment: Words in [Sch. 1 para. 20(2)](https://www.legislation.gov.uk/uksi/2009/2436/schedule/1/paragraph/20/2) substituted (18.11.2025) by [The Companies and Limited Liability Partnerships (Annotations, Application and Modification of Company Law and Consequential Amendments) Regulations 2025 (S.I. 2025/1116)](https://www.legislation.gov.uk/uksi/2025/1116), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1116/regulation/1/2), [5(8)](https://www.legislation.gov.uk/uksi/2025/1116/regulation/5/8); [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/g)
+
+[^key-1e8c3dee6a45a9c279ca5efa85db5fa1]: Textual amendment: Sch. 1 para. 20(2)(ca) inserted (26.6.2017) by [The Information about People with Significant Control (Amendment) Regulations 2017 (S.I. 2017/693)](https://www.legislation.gov.uk/uksi/2017/693), [regs. 2](https://www.legislation.gov.uk/uksi/2017/693/regulation/2), [35(a)](https://www.legislation.gov.uk/uksi/2017/693/regulation/35/a) (with [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2017/693/schedule/part/3))
+
+[^key-3908f3329c7b65437c37a63f1041f3fc]: Textual amendment: Sch. 1 para. 20(2)(d)(e) substituted for Sch. 1 para. 20(2)(d) (10.10.2015) by [The Companies and Limited Liability Partnerships (Filing Requirements) Regulations 2015 (S.I. 2015/1695)](https://www.legislation.gov.uk/uksi/2015/1695), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1695/regulation/1), [9(3)(b)](https://www.legislation.gov.uk/uksi/2015/1695/regulation/9/3/b) (as amended (30.6.2016) by [The Companies and Limited Liability Partnerships (Filing Requirements) Regulations 2016 (S.I. 2016/599)](https://www.legislation.gov.uk/uksi/2016/599), [reg. 1](https://www.legislation.gov.uk/uksi/2016/599/regulation/1), [Sch. 3 para. 10](https://www.legislation.gov.uk/uksi/2016/599/schedule/3/paragraph/10))
+
+[^key-a93d88e95ba6c1547fcbcab0376b5d84]: Textual amendment: [Sch. 1 para. 20(2A)](https://www.legislation.gov.uk/uksi/2009/2436/schedule/1/paragraph/20/2A) substituted (18.11.2025) by [The Companies and Limited Liability Partnerships (Annotations, Application and Modification of Company Law and Consequential Amendments) Regulations 2025 (S.I. 2025/1116)](https://www.legislation.gov.uk/uksi/2025/1116), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1116/regulation/1/2), [5(9)](https://www.legislation.gov.uk/uksi/2025/1116/regulation/5/9); [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/g)
+
+[^key-c4a7a566b1c3de7c635e63c395362e44]: Textual amendment: [Sch. 1 para. 20(3)](https://www.legislation.gov.uk/uksi/2009/2436/schedule/1/paragraph/20/3) substituted (21.7.2025) by [The Protection and Disclosure of Personal Information (Amendment) Regulations 2025 (S.I. 2025/874)](https://www.legislation.gov.uk/uksi/2025/874), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2025/874/regulation/1/2/a), [7(b)](https://www.legislation.gov.uk/uksi/2025/874/regulation/7/b)
+
+[^key-dc72fd0fc2d794c3f2bf140f2971aefe]: Textual amendment: [Sch. 1 para. 20(4)](https://www.legislation.gov.uk/uksi/2009/2436/schedule/1/paragraph/20/4) substituted (18.11.2025) by [The Companies and Limited Liability Partnerships (Annotations, Application and Modification of Company Law and Consequential Amendments) Regulations 2025 (S.I. 2025/1116)](https://www.legislation.gov.uk/uksi/2025/1116), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1116/regulation/1/2), [5(10)](https://www.legislation.gov.uk/uksi/2025/1116/regulation/5/10); [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/g)
+
+[^M_F_ba716b74-afc1-454d-9245-c2f0053aa654]: Textual amendment: Sch. 1 paras. 20A, 20B inserted (26.6.2017) by The Information about People with [Significant Control (Amendment) Regulations 2017 (S.I. 2017/693)](https://www.legislation.gov.uk/uksi/2017/693), [regs. 2](https://www.legislation.gov.uk/uksi/2017/693/regulation/2), [36](https://www.legislation.gov.uk/uksi/2017/693/regulation/36) (with [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2017/693/schedule/part/3))
+
+[^key-322c675d7f5f1b9326c00f259981f3a0]: Textual amendment: [Sch. 1 para. 20AA](https://www.legislation.gov.uk/uksi/2009/2436/schedule/1/paragraph/20AA) inserted (18.11.2025) by [The Companies Authorised to Register, Unregistered Companies and Overseas Companies (Application of Company Law) Regulations 2025 (S.I. 2025/761)](https://www.legislation.gov.uk/uksi/2025/761), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/761/regulation/1/3), [3(8)](https://www.legislation.gov.uk/uksi/2025/761/regulation/3/8) (with [regs. 5](https://www.legislation.gov.uk/uksi/2025/761/regulation/5), [6](https://www.legislation.gov.uk/uksi/2025/761/regulation/6))
+
+[^c19851721]: Marginal citation: [S.I. 1986/1032 (N.I. 6)](https://www.legislation.gov.uk/nisi/1986/1032).

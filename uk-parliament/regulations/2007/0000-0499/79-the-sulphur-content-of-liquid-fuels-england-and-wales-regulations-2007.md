@@ -1,0 +1,311 @@
+---
+title: The Sulphur Content of Liquid Fuels (England and Wales) Regulations 2007
+id: uksi/2007/79
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2007-01-17'
+text_date: '2014-08-29'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2007/79
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2007/79/pdfs/uksiem_20070079_en.pdf
+- http://www.legislation.gov.uk/uksi/2007/79/pdfs/uksi_20070079_en.pdf
+- http://www.legislation.gov.uk/uksi/2007/79/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Sulphur Content of Liquid Fuels (England and Wales) Regulations 2007
+
+> Text as at 2014-08-29.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2007 No. 79
+
+environmental protection, england and wales
+
+The Sulphur Content of Liquid Fuels (England and Wales) Regulations 2007
+
+Made
+
+17th January 2007
+
+Laid before Parliament
+
+22nd January 2007
+
+Coming into force
+
+16th February 2007
+
+The Secretary of State has been designated[^f00001] for the purposes of section 2(2) of the European Communities Act 1972[^f00002] in relation to the control of air pollution. He makes the following Regulations under the powers conferred by that section:
+
+## 1. Citation, commencement and extent
+
+(1) These Regulations may be cited as the Sulphur Content of Liquid Fuels (England and Wales) Regulations 2007 and come into force on 16th February 2007.
+
+(2) These Regulations extend to England and Wales.
+
+## 2. Interpretation[^key-4a500c3d94df5a36b7fe8db2d876d975]
+
+(1) In these Regulations—
+
+- “combustion plant” means any technical apparatus in which fuels are oxidised in order to use the heat generated;
+- “Council [Directive 1999/32/EC](https://www.legislation.gov.uk/european/directive/1999/0032)” means Council [Directive 1999/32/EC](https://www.legislation.gov.uk/european/directive/1999/0032) relating to a reduction in the sulphur content of certain liquid fuels and amending [Directive 93/12/EEC](https://www.legislation.gov.uk/european/directive/1993/0012);
+- “gas oil” means any petroleum-derived liquid fuel—
+  - (a) that falls within CN code 2710 19 25, 2710 19 29, 2710 19 47, 2710 19 48, 2710 20 17 or 2710 20 19; or
+  - (b) where less than 65 per cent by volume (including losses) distils at 250°C and at least 85 per cent by volume (including losses) distils at 350°C by the ASTM D86 method,
+
+  but excluding marine fuels, diesel fuels (as defined by Article 2(2) of [Directive 98/70/EC](https://www.legislation.gov.uk/european/directive/1998/0070) of the European Parliament and of the Council relating to the quality of petrol and diesel fuels) and fuels used in non-road mobile machinery or agricultural tractors;
+- “heavy fuel oil” means any petroleum-derived liquid fuel—
+  - (a) that falls within CN code 2710 19 51 to 2710 19 68, 2710 20 31, 2710 20 35 or 2710 20 39;
+  - (b) which, by reason of its distillation limits, falls within the category of heavy oils intended for use as fuel and of which less than 65 per cent by volume (including losses) distils at 250°C by the ASTM D86 method; or
+  - (c) where the distillation cannot be determined by the ASTM D86 method, that is categorised as heavy fuel oil,
+
+  but excluding marine fuel and gas oil;
+- “marine fuel” means any petroleum-derived liquid fuel intended for use or in use on board a vessel, including those fuels defined in ISO 8217;
+- “sulphur content of liquid fuels permit” has the meaning given in regulation 4(5)(b).
+
+(2) In paragraph (1)—
+
+- (a) an ASTM method means a method laid down by the American Society for Testing and Materials in the 1976 edition of standard definitions and specifications for petroleum and lubricating products; and
+- (b) the reference to a numbered CN code is a reference to the code set out in Annex I to Council Regulation 2658/87 on the tariff and statistical nomenclature and on the Common Customs Tariff.
+
+(3) Expressions used in these Regulations that also appear in Council [Directive 1999/32/EC](https://www.legislation.gov.uk/european/directive/1999/0032) have the same meaning as they do in that Directive.
+
+## 3. Application
+
+These Regulations do not apply to heavy fuel oil or gas oil intended for—
+
+- (a) the purposes of research and testing;
+- (b) processing prior to final combustion; or
+- (c) processing in the refining industry.
+
+## 4. Maximum sulphur content of heavy fuel oil[^key-97527c411abe88ad19180d28f20dadeb]
+
+(1) No person shall use any heavy fuel oil that has a sulphur content exceeding 1 per cent by mass.
+
+(2) Until 1st January 2016, paragraph (1) shall not apply to the use of heavy fuel oil—
+
+- (a) in a new plant that—
+  - (i) is subject to Article 4(1) of [Directive 2001/80/EC](https://www.legislation.gov.uk/european/directive/2001/0080) and is operated in accordance with a permit containing a condition that emission limit values for sulphur dioxide are at least as stringent as those set out for new plants in Part A of Annex IV of that Directive; or
+  - (ii) is subject to Article 4(2) of [Directive 2001/80/EC](https://www.legislation.gov.uk/european/directive/2001/0080) and is operated in accordance with a permit containing a condition that emission limit values for sulphur dioxide are at least as stringent as those set out for new plants in Part B of Annex IV of that Directive;
+- (b) in an existing plant—
+  - (i) operated in accordance with a permit containing a condition that emission limit values for sulphur dioxide are at least as stringent as those set out for new plants in Part A of Annex IV of [Directive 2001/80/EC](https://www.legislation.gov.uk/european/directive/2001/0080); or
+  - (ii) that is a participating plant operated in accordance with a permit containing a condition prohibiting the monthly average emissions of sulphur dioxide from the plant from exceeding 1,700 mg/Nm<sup>3</sup> at an oxygen content in the flue gas of 3 per cent by volume on a dry basis;
+- (c) in a combustion plant, other than a plant to which sub-paragraph (a) or (b) applies, that is operated in accordance with a permit containing a condition prohibiting the monthly average of emissions of sulphur dioxide from the plant from exceeding 1,700 mg/Nm<sup>3</sup> at an oxygen content in the flue gas of 3 per cent by volume on a dry basis; or
+- (d) in a combustion plant, other than a gas engine, a gas turbine or a plant to which sub-paragraph (a) or (b) applies, that—
+  - (i) forms part of a refinery; and
+  - (ii) is operated in accordance with a permit containing a condition that the monthly average of emissions of sulphur dioxide averaged over all combustion plants in the refinery, irrespective of the type of fuel or fuel combination used, does not exceed 1,700 mg/Nm<sup>3 </sup>at an oxygen content in the flue gas of 3 per cent by volume on a dry basis.
+
+(3) As from 1st January 2016, paragraph (1) shall not apply to the use of heavy fuel oil—
+
+- (a) in a combustion plant that—
+  - (i) falls within the scope of Chapter III of Directive 2010/75/EU; and
+  - (ii) is operated in accordance with a permit containing a condition that emission limit values for sulphur dioxide are at least as stringent as those set out in Annex V to that Directive;
+- (b) in a combustion plant that—
+  - (i) falls within the scope of Chapter III of Directive 2010/75/EU;
+  - (ii) is not subject to the emission limit values for sulphur dioxide set out in Annex V to that Directive; and
+  - (iii) is operated in accordance with a permit containing a condition prohibiting the monthly average emissions of sulphur dioxide from the plant from exceeding 1,700 mg/Nm<sup>3</sup> at an oxygen content in the flue gas of 3 per cent by volume on a dry basis;
+- (c) in a combustion plant, other than a plant to which sub-paragraph (a) or (b) applies, that is operated in accordance with a permit containing a condition prohibiting the monthly average emissions of sulphur dioxide from exceeding 1,700 mg/Nm<sup>3</sup> at an oxygen content in the flue gas of 3 per cent by volume on a dry basis; or
+- (d) in a combustion plant, other than a gas engine, a gas turbine or a plant to which sub-paragraph (a) or (b) applies, that—
+  - (i) forms part of a refinery; and
+  - (ii) is operated in accordance with a permit containing a condition that the monthly average of emissions of sulphur dioxide averaged over all combustion plants in the refinery, irrespective of the type or fuel or fuel combination used, does not exceed 1,700 mg/Nm<sup>3</sup> at an oxygen content in the flue gas of 3 per cent by volume on a dry basis.
+
+(4) An authority that grants a permit referred to in paragraph (2) or (3) shall carry out appropriate monitoring of emissions of sulphur dioxide to ensure that the limitations on emissions contained in that permit are not exceeded.
+
+(5) In this regulation—
+
+- “[Directive 2001/80/EC](https://www.legislation.gov.uk/european/directive/2001/0080)” means [Directive 2001/80/EC](https://www.legislation.gov.uk/european/directive/2001/0080) of the European Parliament and of the Council on the limitation of emissions of certain pollutants into the air from large combustion plants;
+- “Directive 2010/75/EU” means Directive 2010/75/EU of the European Parliament and of the Council on industrial emissions (integrated pollution prevention and control) (Recast);
+- “existing plant” and “new plant” have the meaning given in Article 2(10) and 2(9) respectively of [Directive 2001/80/EC](https://www.legislation.gov.uk/european/directive/2001/0080);
+- “gas engine” and “gas turbine” have the meaning given in Article 3(34) and (33) respectively of Directive 2010/75/EU;
+- “participating plant” has the meaning given in regulation 3(1)(a) of the Large Combustion Plants (National Emission Reduction Plan) Regulations 2007;
+- “permit” means—
+  - (a) if the operation of the combustion plant requires an authorisation or permit—
+    - (i) an authorisation under Part I of the Environmental Protection Act 1990 (integrated pollution control and air pollution control by local authorities); or
+    - (ii) a permit under regulations made under section 2 of the Pollution Prevention and Control Act 1999 (regulation of polluting activities); or
+  - (b) a sulphur content of liquid fuels permit which—
+    - (i) was granted for the purposes of the Sulphur Content of Liquid Fuels (England and Wales) Regulations 2000 and which is still subsisting; or
+    - (ii) is granted under these Regulations.
+
+(6) The Schedule (sulphur content of liquid fuels permits) has effect.
+
+## 5. Maximum sulphur content in gas oil[^key-8644059031ee48fb03e0998ef793044c]
+
+No person shall use any gas oil that has a sulphur content exceeding 0.1 per cent by mass.
+
+## 6. Sampling and analysis[^key-39fb720777267026e37c52005daeeabb]
+
+(1) The Secretary of State shall take all necessary measures to ensure that periodic sampling is carried out of heavy fuel oil and gas oil and that the samples are analysed to check that the use of those fuels complies with regulations 4(1) and 5.
+
+(2) Sampling shall be carried out with sufficient frequency and in such a way that the Secretary of State is satisfied that the samples are representative of the fuels examined.
+
+(3) The samples shall be analysed without undue delay.
+
+(4) The reference method adopted for determining the sulphur content of fuels sampled pursuant to paragraph (1) shall be defined by EN ISO 8754:2003 or EN ISO 14596:2007.
+
+## 7. Offences and penalties
+
+(1) A person is guilty of an offence if he contravenes regulation 4(1) or 5, or causes or permits another person to do so.
+
+(2) Any person guilty of an offence under paragraph (1) is liable, on summary conviction, to a fine not exceeding level 2 on the standard scale.
+
+(3) Where an offence under paragraph (1) committed by a body corporate is proved—
+
+- (a) to have been committed with the consent or connivance of an officer, or
+- (b) to be attributable to any neglect on his part,
+
+the officer as well as the body corporate is guilty of that offence and liable to be proceeded against and punished accordingly.
+
+(4) “Officer” in relation to a body corporate means a director, manager, secretary or other similar officer of the body, or a person purporting to act in any such capacity.
+
+(5) If the affairs of a body corporate are managed by its members, paragraph (3) applies in relation to the acts or defaults of a member in connection with his functions of management as if he were a director of the body corporate.
+
+## 8. Revocation and saving
+
+(1) Subject to paragraph (2), the Sulphur Content of Liquid Fuels (England and Wales) Regulations 2000 are revoked.
+
+(2) Where an operator of a combustion plant—
+
+- (a) has submitted an application for a sulphur content of liquid fuels permit in accordance with Schedule 1 to those Regulations; and
+- (b) the application has not been determined at the date these Regulations come into force,
+
+the application shall continue to be determined under those Regulations.
+
+## 9. Review[^key-33c35b629c037b8886344f5a0107b0a7]
+
+The Secretary of State must from time to time—
+
+- (a) carry out, in relation to England, a review of these Regulations;
+- (b) set out the conclusions of the review in a report; and
+- (c) publish the report.
+
+(2) In carrying out the review the Secretary of State must, so far as reasonable, have regard to how Council [Directive 1999/32/EC](https://www.legislation.gov.uk/european/directive/1999/0032), which is being implemented by means of these Regulations, is implemented in other member States.
+
+(3) The report must in particular—
+
+- (a) set out the objectives intended to be achieved by the regulatory system established by these Regulations;
+- (b) assess the extent to which those objectives are achieved, and
+- (c) assess whether those objectives remain appropriate and, if so, the extent to which they could be achieved with a system that imposes less regulation.
+
+(4) The first report under this regulation must be published before 29th August 2019.
+
+(5) Reports under this regulation are afterwards to be published at intervals not exceeding five years.
+
+Ben Bradshaw
+
+Minister of State
+
+Department for Environment, Food and Rural Affairs
+
+## SCHEDULE ... — Sulphur content of liquid fuel permits[^key-8819ee589851e4243038443ddc8690ff]
+
+Regulation 4(6)[^key-ec3ad4fe89a162d9af2a6e4a7e19da35]
+
+**1.** An operator of a combustion plant[^key-1b278e48b90aed4ace74a3d1eac1fb04] who wishes to operate that plant under an exception in regulation 4(2) or (3)[^key-ddc363703a84ce284c3e85eb33d93a91] may apply to the local authority in whose area that plant is situated for a sulphur content of liquid fuels permit if the operation of that plant does not require—
+
+- (a) an authorisation under Part I of the Environmental Protection Act 1990; or
+- (b) a permit under regulations made under section 2 of the Pollution Prevention and Control Act 1999.
+
+**2.** An application under paragraph 1 shall be in writing, accompanied by any fee prescribed in respect of the application under section 8 of the Environmental Protection Act 1990 and shall contain—
+
+- (a) the name and address of the applicant and any other address to which correspondence should be sent and the applicant’s telephone number;
+- (b) the address of the site of the combustion plant, the rated thermal input (in megawatts) and the fuel used in the plant; and
+- (c) the condition which the applicant wishes to be included in the permit, being a condition referred to in regulation 4(2) or (3).[^key-00ed3a7935dafd5074184303f0209819]
+
+**3.** An applicant may withdraw his application at any time before it is determined.
+
+**4.** A local authority which receives a duly made application under paragraph 1 shall grant a sulphur content of liquid fuels permit subject to the condition identified in the application.
+
+**5.** A sulphur content of liquid fuels permit may be transferred by the holder of the permit to a person who intends to operate the plant to which the permit relates in place of the holder.
+
+**6.** The person to whom a sulphur content of liquid fuels permit is so transferred shall—
+
+- (a) notify the transfer in writing to the local authority which granted the permit; and
+- (b) do so within 21 days of the date of the transfer.
+
+**7.** The holder of a sulphur content of liquid fuels permit may surrender it to the local authority which granted it and such a surrender—
+
+- (a) shall be notified in writing to the local authority within 21 days of the date of the intended surrender; and
+- (b) where duly notified shall take effect on the surrender date stated in the notification.
+
+**8.** In this Schedule “local authority” means—
+
+- (a) in Greater London, a London borough council;
+- (b) in England outside Greater London, a district council or, in relation to an area for which there is a county council but no district council, the county council, and the Council of the Isles of Scilly; and
+- (c) in Wales, a county council or county borough council.
+
+**9.** Section 8 of the Environmental Protection Act 1990 shall apply for the purpose of prescribing a fee in respect of an application under paragraph 1 as it applies for the purpose of prescribing a fee in respect of an application for an authorisation under Part I of that Act.
+
+## SCHEDULE 2 — Technical requirements for analysis samples[^key-88420d774af62d3b1d8a7712cd11d187]
+
+**No longer in force.**
+
+Regulation 6(4)
+
+**1.**[^key-88420d774af62d3b1d8a7712cd11d187] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**2.**[^key-88420d774af62d3b1d8a7712cd11d187] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**3.**[^key-88420d774af62d3b1d8a7712cd11d187] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations implement, in England and Wales, matters concerning heavy fuel oil (except marine fuels) contained in Council Directive [1999/32/EC](https://www.legislation.gov.uk/european/directive/1999/0032) (OJ L 121, 11.5.1999, p.13 as amended by Regulation [(EC) No 1882/2003](https://www.legislation.gov.uk/european/regulation/2003/1882) of the European Parliament and of the Council (OJ L 284, 31.10.2003, p.1)) relating to a reduction in the sulphur content of certain liquid fuels and amending Directive [93/12/EEC](https://www.legislation.gov.uk/european/directive/1993/0012) as amended by Directive [2005/33/EC](https://www.legislation.gov.uk/european/directive/2005/0033) (OJ L 191, 22.7.2005, p.59) of the European Parliament and of the Council as regards the sulphur content of marine fuels.
+
+Regulation 3 sets out those matters outside the scope of these Regulations.
+
+Regulation 4 provides, subject to exceptions, that no person shall use any heavy fuel oil which has a sulphur content exceeding 1 per cent by mass.
+
+Regulation 5 provides that no person shall use gas oil with a sulphur content exceeding 0.2 percent by mass and, on or after 1st January 2008, with a sulphur content exceeding 0.1 percent by mass.
+
+Regulation 6 provides that the Secretary of State shall take all necessary measures to ensure that sampling of heavy fuel oil and gas oil is carried out. The Secretary of State must also check that the use of those fuels complies with the restrictions in regulations 4 and 5.
+
+Regulation 7 provides that it is an offence to contravene the restrictions on heavy fuel oil and gas oil in regulations 4 and 5.
+
+Under regulation 8, the Sulphur Content of Liquid Fuels (England and Wales) Regulations 2000 ([S.I 2000/1460](https://www.legislation.gov.uk/uksi/2000/1460)) are revoked with a saving in respect of applications for permissions submitted under those Regulations.
+
+Schedule 1 provides for a local authority to grant permits to enable an operator of a combustion plant (who would not otherwise require a permit to operate the plant) to be exempt from the restriction on the use of heavy fuel oil in regulation 4.
+
+Schedule 2 sets out technical requirements for the analysis of samples taken under regulation 6.
+
+A full regulatory impact assessment has not been produced for this instrument as no impact on the private or voluntary sector is foreseen. A transposition note is available from AEQ Division, Department for Environment, Food and Rural Affairs, Zone 7/E14, Ashdown House, 123 Victoria Street, London SW1E 6DE and at www.defra.gov.uk. Copies have been placed in the library of each House of Parliament.
+
+Copies of the British Standards publications referred to in these Regulations may be obtained from any of the outlets operated by the British Standards Institution, or by post from the British Standards Institution at Standards House, 389 Chiswick High Road, London W4 4AL. The Integrated Customs Tariff of the United Kingdom, which sets out the CN codes used in the definitions of “gas oil” and “heavy fuel oil”, are published by HMSO and available from HMSO Bookshops. The 1999 Annual Book of ASTM Standards is available from the American Society for Testing and Materials, 100 Barr Harbor Drive, West Conshohocken, PA 19428, USA.
+
+## Annotations
+
+[^f00001]: Footnote: [S.I. 1988/785](https://www.legislation.gov.uk/uksi/1988/785).
+
+[^f00002]: Footnote: [1972 c.68](https://www.legislation.gov.uk/ukpga/1972/68).
+
+[^key-4a500c3d94df5a36b7fe8db2d876d975]: Textual amendment: Reg. 2 substituted (29.8.2014) by [The Sulphur Content of Liquid Fuels (England and Wales) (Amendment) Regulations 2014 (S.I. 2014/1975)](https://www.legislation.gov.uk/uksi/2014/1975), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/1975/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2014/1975/regulation/3)
+
+[^key-97527c411abe88ad19180d28f20dadeb]: Textual amendment: Reg. 4 substituted (29.8.2014) by [The Sulphur Content of Liquid Fuels (England and Wales) (Amendment) Regulations 2014 (S.I. 2014/1975)](https://www.legislation.gov.uk/uksi/2014/1975), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/1975/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2014/1975/regulation/4)
+
+[^key-8644059031ee48fb03e0998ef793044c]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/uksi/2007/79/regulation/5) substituted (29.8.2014) by [The Sulphur Content of Liquid Fuels (England and Wales) (Amendment) Regulations 2014 (S.I. 2014/1975)](https://www.legislation.gov.uk/uksi/2014/1975), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/1975/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2014/1975/regulation/5)
+
+[^key-39fb720777267026e37c52005daeeabb]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/uksi/2007/79/regulation/6) substituted (29.8.2014) by [The Sulphur Content of Liquid Fuels (England and Wales) (Amendment) Regulations 2014 (S.I. 2014/1975)](https://www.legislation.gov.uk/uksi/2014/1975), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/1975/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2014/1975/regulation/6)
+
+[^key-33c35b629c037b8886344f5a0107b0a7]: Textual amendment: [Reg. 9](https://www.legislation.gov.uk/uksi/2007/79/regulation/9) inserted (29.8.2014) by [The Sulphur Content of Liquid Fuels (England and Wales) (Amendment) Regulations 2014 (S.I. 2014/1975)](https://www.legislation.gov.uk/uksi/2014/1975), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/1975/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2014/1975/regulation/7)
+
+[^key-8819ee589851e4243038443ddc8690ff]: Textual amendment: Word in [Sch. 1](https://www.legislation.gov.uk/uksi/2007/79/schedule/1) omitted (29.8.2014) by virtue of [The Sulphur Content of Liquid Fuels (England and Wales) (Amendment) Regulations 2014 (S.I. 2014/1975)](https://www.legislation.gov.uk/uksi/2014/1975), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/1975/regulation/1/1), [8(2)(a)](https://www.legislation.gov.uk/uksi/2014/1975/regulation/8/2/a)
+
+[^key-ec3ad4fe89a162d9af2a6e4a7e19da35]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2007/79/schedule/1) substituted (29.8.2014) by [The Sulphur Content of Liquid Fuels (England and Wales) (Amendment) Regulations 2014 (S.I. 2014/1975)](https://www.legislation.gov.uk/uksi/2014/1975), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/1975/regulation/1/1), [8(2)(b)](https://www.legislation.gov.uk/uksi/2014/1975/regulation/8/2/b)
+
+[^key-1b278e48b90aed4ace74a3d1eac1fb04]: Textual amendment: Words in Sch. 1 para. 1 substituted (29.8.2014) by [The Sulphur Content of Liquid Fuels (England and Wales) (Amendment) Regulations 2014 (S.I. 2014/1975)](https://www.legislation.gov.uk/uksi/2014/1975), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/1975/regulation/1/1), [8(3)](https://www.legislation.gov.uk/uksi/2014/1975/regulation/8/3)
+
+[^key-ddc363703a84ce284c3e85eb33d93a91]: Textual amendment: Words in [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2007/79/schedule/1/paragraph/1) added (29.8.2014) by [The Sulphur Content of Liquid Fuels (England and Wales) (Amendment) Regulations 2014 (S.I. 2014/1975)](https://www.legislation.gov.uk/uksi/2014/1975), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/1975/regulation/1/1), [8(3)](https://www.legislation.gov.uk/uksi/2014/1975/regulation/8/3)
+
+[^key-00ed3a7935dafd5074184303f0209819]: Textual amendment: Words in [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2007/79/schedule/1/paragraph/2) added (29.8.2014) by [The Sulphur Content of Liquid Fuels (England and Wales) (Amendment) Regulations 2014 (S.I. 2014/1975)](https://www.legislation.gov.uk/uksi/2014/1975), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/1975/regulation/1/1), [8(4)](https://www.legislation.gov.uk/uksi/2014/1975/regulation/8/4)
+
+[^key-88420d774af62d3b1d8a7712cd11d187]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/2007/79/schedule/2) omitted (29.8.2014) by virtue of [The Sulphur Content of Liquid Fuels (England and Wales) (Amendment) Regulations 2014 (S.I. 2014/1975)](https://www.legislation.gov.uk/uksi/2014/1975), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/1975/regulation/1/1), [9](https://www.legislation.gov.uk/uksi/2014/1975/regulation/9)

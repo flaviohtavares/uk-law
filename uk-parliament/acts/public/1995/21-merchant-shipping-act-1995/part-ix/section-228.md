@@ -1,0 +1,40 @@
+---
+title: Merchant Shipping Act 1995, section 228
+act: Merchant Shipping Act 1995
+section: '228'
+status: revised-with-pending-changes
+text_date: '2026-06-23'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/1995/21/section/228
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Merchant Shipping Act 1995, section 228
+
+> **Warning: changes not yet applied to this text (17).** Text as at 2026-06-23. See https://www.legislation.gov.uk/changes/affected/ukpga/1995/21
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 228. Apportionment of salvage under £5,000 by the receiver.
+
+*Extent: E+W+S+N.I.*
+
+(1) Where—
+
+- (a) the aggregate amount of salvage payable in respect of salvage services rendered in United Kingdom waters has been finally determined and does not exceed £5,000; but
+- (b) a dispute arises as to the apportionment of the amount among several claimants,
+
+the person liable to pay the amount may apply to the receiver for leave to pay it to him.
+
+(2) The receiver shall, if he thinks fit, receive the amount and, if he does, he shall give the person paying it a certificate stating the amount paid and the services in respect of which it is paid.
+
+(3) A certificate under subsection (2) above shall be a full discharge and indemnity to the person by whom it was paid, and to his vessel, cargo, equipment and effects against the claims of all persons in respect of the services mentioned in the certificate.
+
+(4) The receiver shall with all convenient speed distribute any amount received by him under this section among the persons entitled to it, on such evidence, and in such shares and proportions, as he thinks fit.
+
+(5) Any decision by the receiver under subsection (4) above shall be made on the basis of the criteria contained in Article 13 of the Salvage Convention.
+
+(6) The receiver may retain any money which appears to him to be payable to any person who is absent.
+
+(7) A distribution made by a receiver under this section shall be final and conclusive as against all persons claiming to be entitled to any part of the amount distributed.

@@ -1,0 +1,543 @@
+---
+title: The Energy Bill Relief Scheme Pass-through Requirement (Heat Suppliers) (England and Wales and Scotland) Regulations 2022
+id: uksi/2022/1101
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2022-10-27'
+text_date: '2022-12-07'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/uksi/2022/1101
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2022/1101/pdfs/uksiem_20221101_en.pdf
+- http://www.legislation.gov.uk/uksi/2022/1101/pdfs/uksi_20221101_en.pdf
+- http://www.legislation.gov.uk/uksi/2022/1101/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Energy Bill Relief Scheme Pass-through Requirement (Heat Suppliers) (England and Wales and Scotland) Regulations 2022
+
+> Text as at 2022-12-07.
+>
+> Extent: England, Wales, Scotland.
+
+*Extent: E+W+S*
+
+Regulations made by the Secretary of State, laid before Parliament under sections 19(13) and 26(5) of the Energy Prices Act 2022, for approval by resolution of each House of Parliament within 28 days beginning with the day on which these Regulations were made, subject to extension for periods of dissolution, prorogation or adjournment for more than four days.
+
+2022 No. 1101
+
+Energy
+
+The Energy Bill Relief Scheme Pass-through Requirement (Heat Suppliers) (England and Wales and Scotland) Regulations 2022
+
+Made
+
+at 3.31 p.m. on 27th October 2022
+
+Laid before Parliament
+
+at 4.00 p.m. on 31st October 2022
+
+Coming into force
+
+1st November 2022
+
+The Secretary of State, in exercise of the powers conferred by sections 19 and 26(2) of the Energy Prices Act 2022[^f00001], makes the following Regulations.
+
+## 1. Citation, commencement and extent[^key-b5dfe5bb561d2521a270263cfab519e9]
+
+(1) These Regulations may be cited as the Energy Bill Relief Scheme Pass-through Requirement (Heat Suppliers) (England and Wales and Scotland) Regulations 2022.
+
+(2) These Regulations come into force on 1st November 2022.
+
+(3) These Regulations extend to England and Wales and Scotland.
+
+## 2. Interpretation[^key-fdf1e31ac75dbb9023e988988df051ac]
+
+(1) In these Regulations—
+
+- “**the Act**” means the Energy Prices Act 2022;
+- “[^key-1d3d251a2d1d6d8d5e91917b3c5a31f5]**authorised person**” means the Secretary of State, or in relation to a Scottish heat network the Scottish Ministers;
+- “**bill**” includes a demand for a qualifying payment within section 19(5)(a)(ii) or (c)(ii) of the Act in respect of heating or hot water;
+- “**EBRS Regulations**” means the Energy Bill Relief Scheme Regulations 2022[^f00002];
+- “**effect a pass-through**” means pass on to an end user an amount calculated under regulation 6;
+- “[^key-306dd5f98adc3b65f2fc8f48529be3b7]**end user**”, in relation to an intermediary, means an end user who falls within section 19(3)(b) or (c) of the Act;
+- “**heat network**” means a network that, by distributing a liquid or a gas, enables the transfer of thermal energy for the purpose of supplying heating or hot water to a building or persons in that building;
+- “intermediary”, except in regulations 9 to 12, means a person—[^key-91f552e770c9e38e21ba1dbf033c96c7]
+  - (a) who is a heat supplier within the meaning of the Metering and Billing Regulations or who otherwise supplies and charges for the supply of heating or hot water to its end users through a heat network; or
+  - (b) to whom an end user makes a qualifying payment within section 19(5)(a)(ii) or (c)(ii) of the Act in respect of heating or hot water,
+
+  where that person has been provided with a scheme benefit in respect of the energy used to produce the heating or hot water;;
+- “**kWh**” means kilowatt hours;
+- “**Metering and Billing Regulations**” means the Heat Network (Metering and Billing) Regulations 2014[^f00004];
+- “pass-through amount” is an amount calculated under regulation 6;
+- “pass-through requirement” is the requirement set out in regulation 5;
+- “**scheme benefit**”, in relation to the Energy Bill Relief Scheme established by regulation 3 of the EBRS Regulations, has the meaning given in regulation 3 of these Regulations.
+
+(2) A network is not excluded from being a heat network only by reason of its being designed to rely wholly or in part on heat pumps particular to the buildings or premises served by the network.
+
+(3) References to a scheme benefit being provided to an intermediary are to be construed in accordance with regulation 3(2) and (3).
+
+(4) An end user can also be an intermediary in respect of a scheme benefit provided to that end user and vice versa.
+
+(5)[^key-f16c743d4d95451e2cdaae2273279a66] In these Regulations, any reference to a heat supplier within the meaning of the Metering and Billing Regulations must be read as if the words “cooling or” were omitted from the definition of that term.
+
+## 3. Energy price support provided by the Energy Bill Relief Scheme[^key-5844397079c46e57036b2f3ebbd28496]
+
+(1) In these Regulations, “**scheme benefit**” means—
+
+- (a) the discount applied to the supply price under a supply contract between an energy supplier and an intermediary in any billing period under regulation 19 of the EBRS Regulations, expressed as an amount in pounds sterling or in pounds sterling per kWh of energy ;[^key-f1c56ab8ccd6bfeb824222da99fe891d]
+- (b) where the intermediary is a QFDC, required reductions applied to a qualifying amount payable by the QFDC in respect of its qualifying supply in any billing period under regulation 53 of the EBRS Regulations, expressed as an amount in pounds sterling or in pounds sterling per kWh of energy ; or[^key-e6069a7280af34969fac60509412e0e9]
+- (c)[^key-530f8baca6fc3192101f3b47f3ae0b17] where the intermediary is also an end user, the pass-through amount provided to the end user by virtue of these Regulations.
+
+(2) A scheme benefit is provided to an intermediary—
+
+- (a) when the energy supplier informs the intermediary under regulation 19(1)(d) of the EBRS Regulations of the discount that has been applied to the supply price under the supply contract;
+- (b) where the intermediary is a QFDC, when the energy supplier informs the QFDC under regulation 53(1)(c) of the EBRS Regulations of the amount of the required reductions or the basis on which they can be determined; or
+- (c) where the intermediary is also an end user, when a pass-through amount is provided to it by virtue of these Regulations.
+
+(3) A scheme benefit that has been provided to an intermediary is not treated as having been provided to the extent that the intermediary has notified the energy supplier that the discount or any required reductions have been applied in error and the intermediary is taking reasonable steps to correct the error in accordance with requirements by or under the EBRS Regulations.
+
+(4) In this regulation—
+
+- “**energy supplier**” means a licensed electricity supplier[^f00005] or a licensed gas supplier[^f00006]; and
+- “**QFDC**” means a qualifying financially disadvantaged customer within the meaning of Part 5 of the EBRS Regulations.
+
+## 4. Provision of information to end users[^key-acf576ff9494cb6b8ee0b8b2885ff1e2]
+
+(1) Within 30 days beginning with the day on which an intermediary is provided with a scheme benefit (or within 30 days beginning with the day on which these Regulations come into force, whichever is the later), the intermediary must notify each of its end users in writing that it has been provided with a scheme benefit.
+
+(2) The notice must specify—
+
+- (a) the amount of the scheme benefit;
+- (b) the period in respect of which the scheme benefit has been provided;
+- (c) details of the pass-through requirement;
+- (d)[^key-40781407a52277437a8753a38b5cb2f6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e)[^key-40781407a52277437a8753a38b5cb2f6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (f)[^key-40781407a52277437a8753a38b5cb2f6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (g) when and how the intermediary will effect the pass-through;
+- (h) details of how the end user may resolve any dispute with the intermediary about how the intermediary has complied with the pass-through requirement, including how the intermediary has calculated the pass-through amount;
+- (i) that the end user may make a complaint to the Energy Ombudsman on any of the following grounds—
+  - (i) the intermediary has not notified the end user in writing that the intermediary has been provided with a scheme benefit;
+  - (ii) the intermediary has not notified the end user in writing of when and how it will effect the pass-through;
+  - (iii) the intermediary has not effected the pass-through within the timeframe specified in regulation 5;
+  - (iv) the intermediary has not otherwise complied with the pass-through requirement;
+- (j) that if the pass-through amount to which an end user is entitled by virtue of these Regulations is not provided to the end user, it is entitled to recover it from the intermediary as a civil debt pursuant to regulation 8.
+
+(3) An intermediary has complied with the notification requirements in this regulation if and to the extent it has taken reasonable steps to notify an end user but is unable to do so.
+
+## 5. Pass-through requirement[^key-df70876060b4788bb21ec4f547807a7d]
+
+(1) An intermediary must ensure that, as soon as reasonably practicable after it has been provided with a scheme benefit, it provides to each of its end users a pass-through amount in respect of the scheme benefit (“pass-through requirement”).
+
+(2) An intermediary must comply with the pass-through requirement no later than the day on which the intermediary issues the next bill to the end user.
+
+(3) An intermediary must comply with the requirements for bills and billing information under regulation 7 when it issues the next bill to an end user.
+
+(4) Without prejudice to paragraph (1), a pass-through can be effected by one or more of the following methods—
+
+- (a) application of a credit in the next bill provided to the end user;
+- (b) a payment in cash or by any other means, including a bank transfer;
+- (c) adjusting the fixed and variable charges in the next bill provided to the end user;
+- (d) adjusting the amount of money taken pursuant to a direct debit or the amount of a standing order;
+- (e) set off against an amount or part of an amount which was owed by the end user to the intermediary at the time the scheme benefit was provided to the intermediary.
+
+(5) If the contract between the intermediary and the end user expires or is terminated before the intermediary has effected a pass-through, the intermediary must effect a pass-through to reflect the end user’s entitlement (or remaining entitlement) under these Regulations as soon as reasonably practicable following such expiry or termination.
+
+(6) An intermediary has complied with the pass-through requirement if and to the extent it has taken reasonable steps to effect the pass-through but is unable to do so.
+
+(7) An intermediary has not complied with the pass-through requirement if—
+
+- (a) in its capacity as customer under the EBRS Regulations, it serves an opt-out notice on a supplier pursuant to regulation 4(4) of the EBRS Regulations; or
+- (b) it fails to take all such reasonable steps as may be necessary to secure that it is provided with the scheme benefit to which it is entitled.
+
+(8) Where an end user is also an intermediary in respect of a scheme benefit provided to that end user, that end user must comply with the pass-through requirement.
+
+(9)[^key-176c5ba02f0105ef2115ad17f602e4a0] In this regulation, “**next bill**” means—
+
+- (a) in relation to the first scheme benefit provided to an intermediary, the later of—
+  - (i) the first bill issued after 30th November 2022; and
+  - (ii) the first bill issued after the end of the period of 30 days beginning with the day on which the scheme benefit is provided to the intermediary; or
+- (b) in relation to any subsequent scheme benefit provided to the intermediary, the first bill issued after the end of the period of 30 days beginning with the day on which the scheme benefit is provided to the intermediary.
+
+## 6. Calculation of pass-through amount[^key-0bd2aa61fcee7fe6ab441c97fe9fcdf3]
+
+(1) The amount which an intermediary must pass on to an end user under the pass-through requirement is an amount in pounds sterling or in pounds sterling per kWh of energy which comprises all of the scheme benefit, or if less than the amount of scheme benefit, a just and reasonable amount calculated in accordance with this regulation (“pass-through amount”).
+
+(2) If the pass-through amount is less than the amount of scheme benefit, the intermediary must provide evidence to the end user showing what factors it took into account in determining that the pass-through amount was just and reasonable.
+
+(3) In determining what is a just and reasonable pass-through amount, the intermediary may take account of—
+
+- (a) the amount the intermediary paid for the energy in respect of which the scheme benefit was provided (“the input energy”);
+- (b) other costs incurred by the intermediary in supplying heating or hot water to its end users in the period for which the scheme benefit was provided (“relevant period”); and
+- (c) any loss incurred where, as a result of a relevant change in the price of energy[^f00007], the total amount charged to end users for the supply of heating and hot water in the relevant period is less than the amount paid for the total quantity of input energy.
+
+(4) Subject to paragraph (3), a pass-through amount is just and reasonable where—
+
+- (a) at the time the intermediary was provided with the scheme benefit, the intermediary was charging the end user either—
+  - (i) based on the proportion of the total quantity of input energy which the end user’s usage represented; or
+  - (ii) based on the proportion of the total amount paid by the intermediary for energy in a period which the amount paid by the end user for the supply of heating and hot water in that period represented; and
+- (b) the intermediary calculates the pass-through amount for the end user on this basis.
+
+(5) If paragraph (4) does not apply, the intermediary in determining what is a just and reasonable pass-through amount—
+
+- (a) must apply the best available information to allocate the scheme benefit amongst end users; and
+- (b) may take into account the basis on which the intermediary was allocating charges amongst end users at the time the intermediary was provided with the scheme benefit.
+
+(6) The pass-through amount for a person who is an end user for part of a relevant period must be calculated only for that part of the relevant period for which they were an end user.
+
+(7) In calculating a pass-through amount—
+
+- (a) an intermediary is not required to pass on to its end users an aggregate amount that exceeds the amount of scheme benefit provided to the intermediary;
+- (b) an intermediary which is also an end user must not retain more of the scheme benefit for itself—
+  - (i) than is proportionate to its own end user’s usage; or
+  - (ii) than the proportion of the amount the intermediary paid for the total quantity of input energy that the intermediary itself bears (where it is not practicable to assess the quantity of its own end user’s usage);
+- (c) an intermediary may include the quantity of heating or hot water supplied to common areas in a building as part of its own end user’s usage if the intermediary was not charging end users for this as part of the arrangements in place at the time the intermediary was provided with the scheme benefit.
+
+(8) In this regulation, “**end user’s usage**” means the total quantity of input energy in kWh used in a relevant period to supply heating and hot water to an end user in that period.
+
+## 7. Provision of billing information to end users[^key-dd2bba17c9e49897ba8db2b4053b9455]
+
+(1) This regulation applies to—
+
+- (a) any bill issued to an end user for the supply of heating or hot water in respect of a period for which the intermediary has been provided a scheme benefit; and
+- (b) any billing information (as defined in regulation 2 of the Metering and Billing Regulations) provided with that bill.
+
+(2) The requirements in regulation 9 of the Metering and Billing Regulations apply in respect of the bill and billing information, subject to the following modifications.
+
+(3) That regulation is to be read as if—
+
+- (a) a reference to a final customer is a reference to an end user;
+- (b) a reference to a heat supplier is a reference to an intermediary;
+- (c) paragraph (1) requires bills to be issued to every end user, whether or not meters or heat cost allocators are installed;
+- (d) where meters or heat cost allocators are not installed, subparagraphs (a) and (b) of paragraph (1) are omitted;
+- (e) paragraphs (2) and (3) are omitted;
+- (f) where meters or heat cost allocators are not installed, paragraph (4) provides that a bill may be based on an estimate of consumption;
+- (g) in paragraph (7)—
+  - (i) after subparagraph (b) there is inserted—
+
+    > - (ba) provide clear information about how the pass-through amount has been calculated, how the intermediary has determined that the pass-through amount is just and reasonable, and must state the final reduction amount;
+
+    ; and
+  - (ii) after subparagraph (c) there is inserted—
+
+    > - (ca) the information contained in the bill must include the amount the intermediary paid for the energy in respect of which the scheme benefit was provided and the amount charged to the end user.
+
+    .
+
+(4) For the purposes of this regulation, Schedule 2 to the Metering and Billing Regulations applies, but is to be read as if paragraph 6 is omitted.
+
+## 8. Enforcement of pass-through requirement[^key-3e883f493b317a841af2a93cb2fa0ce4]
+
+(1) Where an intermediary fails to comply with the pass-through requirement, the end user may—
+
+- (a) recover the pass-through amount from the intermediary as a civil debt; and
+- (b) claim interest to be paid by the intermediary on such amount at a rate of 2% per cent per annum over the Bank of England base rate from the date 60 days after the date on which the scheme benefit to which the pass-through requirement relates was provided to the intermediary.
+
+(2) For the purposes of this regulation, the “**Bank of England base rate**” means—
+
+- (a) the rate announced from time to time by the Monetary Policy Committee of the Bank of England as the official dealing rate, being the rate at which the Bank is willing to enter into transactions for providing short term liquidity in the money markets; or
+- (b) where an order under section 19 of the Bank of England Act 1998[^f00008] (reserve powers) is in force, any equivalent rate determined by the Treasury under that section.
+
+## 9. Establishment of consumer redress scheme[^key-6d1b98ebc39c409e261c6f51c13072d4]
+
+(1) For the purpose of section 19(10)(d) of the Act, Part 2 of the Consumers, Estate Agents and Redress Act 2007 applies to end users, subject to the following modifications.
+
+(2) Part 2 of that Act is to be read as if—
+
+- (a) a reference to a regulated provider is a reference to an intermediary;
+- (b) a reference to a relevant consumer is a reference to a microbusiness end user or a domestic end user;
+- (c) any reference to a regulator or a relevant regulator is omitted;
+- (d) the Secretary of State has made an order under section 47(1)(b) of that Act requiring all intermediaries to be members of a redress scheme administered by the Secretary of State (or a person appointed by the Secretary of State) and designated by the Secretary of State as an appropriate redress scheme in relation to them;
+- (e) the order provides that the redress scheme is for the investigation of complaints made against an intermediary by or on behalf of a person in that person’s capacity as a microbusiness end user or a domestic end user of the intermediary (“consumer complaints”);
+- (f) the redress scheme is a scheme under which consumer complaints may be made to, and investigated and determined by, the Energy Ombudsman;
+- (g) the Energy Ombudsman may provide a microbusiness end user or a domestic end user with the following types of redress—
+  - (i) providing an apology or explanation;
+  - (ii) paying compensation; and
+  - (iii) taking such other action in the interests of the end user as the Energy Ombudsman may specify;
+- (h) section 52 of that Act provides for enforcement by civil sanctions under Schedule 4 to the Metering and Billing Regulations (as modified by regulations 10 and 12[^key-08d62fa6171024d36f48bf4f3637a6ab] of these Regulations) of the requirement for an intermediary to be a member of the redress scheme;
+- (i) the order comes into force on the day on which these Regulations come into force.
+
+(3) In this regulation—
+
+- “[^key-f51ccf15ce78aa8cc781b61218cd6e40]**domestic end user**”, in relation to an intermediary, means an end user who purchases heating or hot water for domestic use from the intermediary;
+- “[^key-df4ddbe051ab37e1d1440b4227c36ff2]**intermediary**” means—
+  - (a) a heat supplier within the meaning of the Metering and Billing Regulations; or
+  - (b) a person who otherwise supplies and charges for the supply of heating or hot water to its end users through a heat network, where that person has been provided with a scheme benefit in accordance with regulation 3(2)(a) or (b) of these Regulations in respect of the energy used to produce the heating or hot water;
+- “[^key-ac8925ec4259607ce3b31b5b874363fe]**microbusiness end user**”, in relation to an intermediary, means an end user who purchases heating or hot water from the intermediary for use in a business which employs fewer than 10 employees and has an annual turnover or balance sheet total no greater than £2 million.
+
+## 10. Enforcement of requirement to join redress scheme[^key-f905f89b06110c5ef6e8ec133dbf6943]
+
+(1) An intermediary within the meaning of regulation 9[^key-1478ccdb34f43ce433f53fa6222decb3] who does not comply with the requirement to become a member of the redress scheme mentioned in regulation 9(2)(d) is subject to civil enforcement action of the kind described in Schedule 4 to the Metering and Billing Regulations.
+
+(2) For the purpose of paragraph (1), that Schedule applies to intermediaries subject to the following modifications.
+
+(2A)[^key-a8f0b052957543ddb720f14ea364a9e5] After paragraph 1 insert—
+
+> **1A. Interpretation**
+>
+> In this Schedule—
+>
+> - “**authorised person**” means the Secretary of State, or in relation to a Scottish heat network the Scottish Ministers;
+> - “**intermediary**” means—
+>   - (a) a heat supplier; or
+>   - (b) a person who otherwise supplies and charges for the supply of heating or hot water to its end users through a heat network, where that person has been provided with a scheme benefit in accordance with regulation 3(2)(a) or (b) of the Energy Bill Relief Scheme Pass-through Requirement (Heat Suppliers) (England and Wales and Scotland) Regulations 2022.
+>
+> **PART 1A — Power to request information**
+>
+> **1B. Application of Part**
+>
+> This Part applies where an authorised person has reasonable grounds to suspect that a person is an intermediary.
+>
+> **1C. Power to require the production of information**
+>
+> Before imposing a compliance notice on, or accepting an enforcement undertaking from, the person for failing to comply with the requirement mentioned in regulation 9(2)(d) of the Energy Bill Relief Scheme Pass-through Requirement (Heat Suppliers) (England and Wales and Scotland) Regulations 2022, the authorised person may give notice to the person requiring the person to provide the authorised person with the information specified in the notice.
+>
+> **1D. Procedure for notice under paragraph 1C**
+>
+> (1) A notice under paragraph 1C must be in writing and must specify that the information is required in order to determine if the person is an intermediary.
+>
+> (2) The notice may specify—
+>
+> - (a) the time within which and the manner in which the person to whom it is given must comply with it;
+> - (b) the form in which information must be provided.
+>
+> (3) The notice may require—
+>
+> - (a) the creation of documents, or documents of a description, specified in the notice; and
+> - (b) the provision of those documents to the authorised person.
+>
+> (4) A requirement to provide information or create a document is a requirement to do so in a legible form.
+>
+> (5) A notice under paragraph 1C does not require a person to provide any information or create any documents which the person would be entitled to refuse to provide or produce—
+>
+> - (a) in proceedings in the High Court on the grounds of legal professional privilege; or
+> - (b) in proceedings in the Court of Session on the grounds of confidentiality of communications.
+>
+> (6) In sub-paragraph (5)(b), “**communications**” means—
+>
+> - (a) communications between a professional legal adviser and the adviser’s client; or
+> - (b) communications made in connection with or in contemplation of legal proceedings or for the purposes of those proceedings.
+>
+> **1E. Enforcement of requirement mentioned in paragraph 1C**
+>
+> A person who does not comply with the requirement to provide the authorised person with the information specified in a notice under paragraph 1C is subject to civil enforcement action under this Schedule.
+
+.
+
+(3) In paragraph 2—
+
+- (a) for subparagraph (1) substitute—
+
+  > (1) This paragraph applies where an authorised person has reasonable grounds to believe that an intermediary has failed to comply with the requirement mentioned in regulation 9(2)(d) of the Energy Bill Relief Scheme Pass-through Requirement (Heat Suppliers) (England and Wales and Scotland) Regulations 2022 or the requirement mentioned in paragraph 1C of this Schedule[^key-ad000b354afbb495d5150096b7eac57a].
+
+  ;
+- (b) in subparagraph (2)—
+  - (i) for “that person” substitute “the intermediary”;
+  - (ii) for “offence does not continue or recur” substitute “intermediary complies with that requirement”;
+- (c) omit subparagraph (3).
+
+(4) In paragraph 3(1)—
+
+- (a) for “a person” substitute “an intermediary”;
+- (b) for “that person” substitute “the intermediary”.
+
+(5) In paragraph 4, for “A person” substitute “An intermediary”.
+
+(6) In paragraph 7(1), for “The person” substitute “An intermediary”.
+
+(7) Paragraph 8 is omitted.
+
+(8) In paragraph 9—
+
+- (a) for “a person” substitute “an intermediary”;
+- (b) for “suspect that the person has committed an offence under regulation 11(1)” substitute “believe that an intermediary has failed to comply with the requirement mentioned in regulation 9(2)(d) of the Energy Bill Relief Scheme Pass-through Requirement (Heat Suppliers) (England and Wales and Scotland) Regulations 2022” or the requirement mentioned in paragraph 1C of this Schedule[^key-c008c8831b668a6a2ee3615503060811].
+
+(9) In paragraph 10(1)—
+
+- (a) in subparagraph (a), for “person to secure that the offence does not continue or recur” substitute “intermediary to secure that the intermediary complies with the requirement mentioned in regulation 9(2)(d) of the Energy Bill Relief Scheme Pass-through Requirement (Heat Suppliers) (England and Wales and Scotland) Regulations 2022” or the requirement mentioned in paragraph 1C of this Schedule[^key-0274082fd62d060ef2e85b0dd5bb80c4];
+- (b) in subparagraph (b), for “the offence had not been committed” substitute “the intermediary had complied with that requirement”;
+- (c) in subparagraph (c), for “person to benefit any person affected by the offence” substitute “intermediary to benefit any person affected by the intermediary’s failure to comply with that requirement”.
+
+(10) In paragraph 10(3)(c), for “a person” substitute “the intermediary”.
+
+(11) Omit paragraph 11.
+
+(12) In paragraph 12—
+
+- (a) in subparagraph (2), for “the person” substitute “the intermediary”;
+- (b) in subparagraphs (3) and (5), for “person” substitute “intermediary”.
+
+(13) In paragraph 13(1), for “person” substitute “intermediary”.
+
+(14)[^key-d07d648e01f69345317f328d302f8ee4] In paragraph 14—
+
+- (a) in sub-paragraph (2), for the words from “be a percentage” to the end substitute “not exceed £5,000”;
+- (b) omit sub-paragraph (3);
+- (c) after sub-paragraph (7), insert—
+
+  > (8) A non-compliance penalty is recoverable by the authorised person as a civil debt.
+
+  .
+
+## 11. Provision of information to an authorised person[^key-fa9990d61f646b373d0b282e1f8fff88]
+
+(1) An intermediary must provide an authorised person with the following information by 6th January 2023 or within 30 days beginning with the day on which the intermediary begins to supply heating or hot water through a heat network, whichever is the later—
+
+- (a) the name and business address of the intermediary;
+- (b) the contact details of the intermediary.
+
+(2) Paragraph (1) does not apply to an intermediary who begins to supply heating or hot water through a heat network after 31st March 2023.
+
+(3) Information required by paragraph (1) must be provided in a form approved by the authorised person for the purpose of this regulation.
+
+(4) Compliance with the notification requirements of regulation 3 of the Metering and Billing Regulations does not satisfy the requirement to provide information under paragraph (1).
+
+(5) An intermediary who is a heat supplier within the meaning of the Metering and Billing Regulations who complies with the requirement to provide information under paragraph (1) is not required to submit a notification under regulation 3 of the Metering and Billing Regulations before 31st March 2023.
+
+(6) In this regulation, “**intermediary**” means—
+
+- (a) a heat supplier within the meaning of the Metering and Billing Regulations; or
+- (b) a person who otherwise supplies and charges for the supply of heating or hot water to its end users through a heat network—
+  - (i) who has been provided with a scheme benefit under regulation 3(2)(a) or (b); or
+  - (ii) who will have an entitlement to a scheme benefit under regulation 3(2)(a) or (b) who has not yet been provided with the scheme benefit.
+
+## 12. Enforcement of requirement to provide information
+
+(1) An intermediary who does not comply with the requirement to provide information to an authorised person under regulation 11 is subject to civil enforcement action of the kind described in Schedule 4 to the Metering and Billing Regulations.
+
+(2) For the purpose of paragraph (1), that Schedule as modified by regulation 10 of these Regulations (the modified Schedule) applies to intermediaries subject to the following further modifications.
+
+(3) In the modified Schedule—
+
+- (a) in paragraph 1C, after “2022” insert “or the requirement to provide information under regulation 11(1) of those Regulations”;
+- (b) in paragraphs 2(1) and 9, for the words from “comply with” to the end substitute—
+
+  > comply with—
+  >
+  > - (a) the requirement mentioned in regulation 9(2)(d) of the Energy Bill Relief Scheme Pass-through Requirement (Heat Suppliers) (England and Wales and Scotland) Regulations 2022;
+  > - (b) the requirement to provide information under regulation 11(1) of those Regulations;
+  > - (c) the requirement mentioned in paragraph 1C of this Schedule
+
+  ;
+- (c) in paragraph 10(1)(a), for the words from “complies with” to the end substitute—
+
+  > complies with—
+  >
+  > - (i) the requirement mentioned in regulation 9(2)(d) of the Energy Bill Relief Scheme Pass-through Requirement (Heat Suppliers) (England and Wales and Scotland) Regulations 2022;
+  > - (ii) the requirement to provide information under regulation 11(1) of those Regulations;
+  > - (iii) the requirement mentioned in paragraph 1C of this Schedule
+
+  .
+
+Graham Stuart
+
+Minister of State for Climate
+
+Department for Business, Energy and Industrial Strategy
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations make provision for the pass-through requirement in relation to the Energy Bill Relief Scheme (EBRS) in England and Wales and Scotland. The pass-through requirement is imposed on a person who supplies and charges for the supply of heating or hot water to an end user through a heat network using energy[^f00009] in respect of which the person has been provided a scheme benefit (“intermediary”). It requires the intermediary to pass on the benefits of the EBRS scheme to its end users.
+
+Regulation 3 makes provision about energy price support provided by the Energy Bill Relief Scheme. This is defined as a “scheme benefit”.
+
+Regulation 4 requires an intermediary who has been provided with a scheme benefit to notify each of its end users in writing that it has been provided with the benefit.
+
+Regulation 5 imposes a requirement on intermediaries to secure that a scheme benefit provided to an intermediary is passed on to its end users as soon as reasonably practicable after it has been provided with the scheme benefit. If not all of the scheme benefit is being passed on to the end users, intermediaries are required to pass on a just and reasonable amount of the benefit to each of its end users.
+
+Regulation 6 defines “pass-through amount” and provides for methods of calculating the amount and determining what is a just and reasonable pass-through amount.
+
+Regulation 7 requires intermediaries to provide billing information to end users.
+
+Regulation 8 provides for the end user to recover unpaid pass-through amounts from the intermediary as a civil debt.
+
+Regulation 9 establishes a consumer redress scheme for end users of intermediaries.
+
+Regulation 10 provides for enforcement of the requirement to join the redress scheme.
+
+An impact assessment of the effect the EBRS scheme, including the related pass-through requirements, will have on the costs of business and the voluntary sector is available from the Department for Business, Energy and Industrial Strategy, 1 Victoria Street, London, SW1H 0ET.
+
+## Annotations
+
+[^f00001]: Footnote: [2022 c. 44](https://www.legislation.gov.uk/ukpga/2022/44).
+
+[^key-b5dfe5bb561d2521a270263cfab519e9]: Commencement: Reg. 1 in force at 1.11.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1101/regulation/1/2)
+
+[^key-fdf1e31ac75dbb9023e988988df051ac]: Commencement: Reg. 2 in force at 1.11.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1101/regulation/1/2)
+
+[^key-1d3d251a2d1d6d8d5e91917b3c5a31f5]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2022/1101/regulation/2/1) inserted (7.12.2022) by [The Energy Bill Relief Scheme Pass-through Requirement (Heat Suppliers) (Amendment) Regulations 2022 (S.I. 2022/1280)](https://www.legislation.gov.uk/uksi/2022/1280), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1280/regulation/1/2), [3(a)(i)](https://www.legislation.gov.uk/uksi/2022/1280/regulation/3/a/i)
+
+[^f00002]: Footnote: [S.I. 2022/1100](https://www.legislation.gov.uk/uksi/2022/1100).
+
+[^key-306dd5f98adc3b65f2fc8f48529be3b7]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2022/1101/regulation/2/1) substituted (7.12.2022) by [The Energy Bill Relief Scheme Pass-through Requirement (Heat Suppliers) (Amendment) Regulations 2022 (S.I. 2022/1280)](https://www.legislation.gov.uk/uksi/2022/1280), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1280/regulation/1/2), [3(a)(ii)](https://www.legislation.gov.uk/uksi/2022/1280/regulation/3/a/ii)
+
+[^key-91f552e770c9e38e21ba1dbf033c96c7]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2022/1101/regulation/2/1) substituted (7.12.2022) by [The Energy Bill Relief Scheme Pass-through Requirement (Heat Suppliers) (Amendment) Regulations 2022 (S.I. 2022/1280)](https://www.legislation.gov.uk/uksi/2022/1280), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1280/regulation/1/2), [3(a)(iii)](https://www.legislation.gov.uk/uksi/2022/1280/regulation/3/a/iii)
+
+[^f00004]: Footnote: [S.I. 2014/3120](https://www.legislation.gov.uk/uksi/2014/3120), amended by [S.I. 2015/855](https://www.legislation.gov.uk/uksi/2015/855) and [2020/1221](https://www.legislation.gov.uk/uksi/2020/1221).
+
+[^key-f16c743d4d95451e2cdaae2273279a66]: Textual amendment: [Reg. 2(5)](https://www.legislation.gov.uk/uksi/2022/1101/regulation/2/5) inserted (7.12.2022) by [The Energy Bill Relief Scheme Pass-through Requirement (Heat Suppliers) (Amendment) Regulations 2022 (S.I. 2022/1280)](https://www.legislation.gov.uk/uksi/2022/1280), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1280/regulation/1/2), [3(b)](https://www.legislation.gov.uk/uksi/2022/1280/regulation/3/b)
+
+[^key-5844397079c46e57036b2f3ebbd28496]: Commencement: Reg. 3 in force at 1.11.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1101/regulation/1/2)
+
+[^key-f1c56ab8ccd6bfeb824222da99fe891d]: Textual amendment: Reg. 3(1)(a): semicolon substituted for word (7.12.2022) by [The Energy Bill Relief Scheme Pass-through Requirement (Heat Suppliers) (Amendment) Regulations 2022 (S.I. 2022/1280)](https://www.legislation.gov.uk/uksi/2022/1280), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1280/regulation/1/2), [4(a)](https://www.legislation.gov.uk/uksi/2022/1280/regulation/4/a)
+
+[^key-e6069a7280af34969fac60509412e0e9]: Textual amendment: Word in [reg. 3(1)(b)](https://www.legislation.gov.uk/uksi/2022/1101/regulation/3/1/b) substituted (7.12.2022) by [The Energy Bill Relief Scheme Pass-through Requirement (Heat Suppliers) (Amendment) Regulations 2022 (S.I. 2022/1280)](https://www.legislation.gov.uk/uksi/2022/1280), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1280/regulation/1/2), [4(b)](https://www.legislation.gov.uk/uksi/2022/1280/regulation/4/b)
+
+[^key-530f8baca6fc3192101f3b47f3ae0b17]: Textual amendment: [Reg. 3(1)(c)](https://www.legislation.gov.uk/uksi/2022/1101/regulation/3/1/c) inserted (7.12.2022) by [The Energy Bill Relief Scheme Pass-through Requirement (Heat Suppliers) (Amendment) Regulations 2022 (S.I. 2022/1280)](https://www.legislation.gov.uk/uksi/2022/1280), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1280/regulation/1/2), [4(c)](https://www.legislation.gov.uk/uksi/2022/1280/regulation/4/c)
+
+[^f00005]: Footnote: See section 10(2) of the Act for the meaning of this term.
+
+[^f00006]: Footnote: See section 10(6) of the Act for the meaning of this term.
+
+[^key-acf576ff9494cb6b8ee0b8b2885ff1e2]: Commencement: Reg. 4 in force at 1.11.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1101/regulation/1/2)
+
+[^key-40781407a52277437a8753a38b5cb2f6]: Textual amendment: [Reg. 4(2)(d)-(f)](https://www.legislation.gov.uk/uksi/2022/1101/regulation/4/2/d) omitted (7.12.2022) by virtue of [The Energy Bill Relief Scheme Pass-through Requirement (Heat Suppliers) (Amendment) Regulations 2022 (S.I. 2022/1280)](https://www.legislation.gov.uk/uksi/2022/1280), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1280/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2022/1280/regulation/5)
+
+[^key-df70876060b4788bb21ec4f547807a7d]: Commencement: Reg. 5 in force at 1.11.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1101/regulation/1/2)
+
+[^key-176c5ba02f0105ef2115ad17f602e4a0]: Textual amendment: [Reg. 5(9)](https://www.legislation.gov.uk/uksi/2022/1101/regulation/5/9) substituted (7.12.2022) by [The Energy Bill Relief Scheme Pass-through Requirement (Heat Suppliers) (Amendment) Regulations 2022 (S.I. 2022/1280)](https://www.legislation.gov.uk/uksi/2022/1280), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1280/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2022/1280/regulation/6)
+
+[^key-0bd2aa61fcee7fe6ab441c97fe9fcdf3]: Commencement: Reg. 6 in force at 1.11.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1101/regulation/1/2)
+
+[^f00007]: Footnote: See section 28(2) of the Act for the meaning of this term.
+
+[^key-dd2bba17c9e49897ba8db2b4053b9455]: Commencement: Reg. 7 in force at 1.11.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1101/regulation/1/2)
+
+[^key-3e883f493b317a841af2a93cb2fa0ce4]: Commencement: Reg. 8 in force at 1.11.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1101/regulation/1/2)
+
+[^f00008]: Footnote: [1998 c. 11](https://www.legislation.gov.uk/ukpga/1998/11).
+
+[^key-6d1b98ebc39c409e261c6f51c13072d4]: Commencement: Reg. 9 in force at 1.11.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1101/regulation/1/2)
+
+[^key-08d62fa6171024d36f48bf4f3637a6ab]: Textual amendment: Words in [reg. 9(2)(h)](https://www.legislation.gov.uk/uksi/2022/1101/regulation/9/2/h) substituted (7.12.2022) by [The Energy Bill Relief Scheme Pass-through Requirement (Heat Suppliers) (Amendment) Regulations 2022 (S.I. 2022/1280)](https://www.legislation.gov.uk/uksi/2022/1280), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1280/regulation/1/2), [7(1)](https://www.legislation.gov.uk/uksi/2022/1280/regulation/7/1)
+
+[^key-f51ccf15ce78aa8cc781b61218cd6e40]: Textual amendment: Words in [reg. 9(3)](https://www.legislation.gov.uk/uksi/2022/1101/regulation/9/3) substituted (7.12.2022) by [The Energy Bill Relief Scheme Pass-through Requirement (Heat Suppliers) (Amendment) Regulations 2022 (S.I. 2022/1280)](https://www.legislation.gov.uk/uksi/2022/1280), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1280/regulation/1/2), [7(2)(a)](https://www.legislation.gov.uk/uksi/2022/1280/regulation/7/2/a)
+
+[^key-df4ddbe051ab37e1d1440b4227c36ff2]: Textual amendment: Words in [reg. 9(3)](https://www.legislation.gov.uk/uksi/2022/1101/regulation/9/3) inserted (7.12.2022) by [The Energy Bill Relief Scheme Pass-through Requirement (Heat Suppliers) (Amendment) Regulations 2022 (S.I. 2022/1280)](https://www.legislation.gov.uk/uksi/2022/1280), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1280/regulation/1/2), [7(2)(b)](https://www.legislation.gov.uk/uksi/2022/1280/regulation/7/2/b)
+
+[^key-ac8925ec4259607ce3b31b5b874363fe]: Textual amendment: Words in [reg. 9(3)](https://www.legislation.gov.uk/uksi/2022/1101/regulation/9/3) substituted (7.12.2022) by [The Energy Bill Relief Scheme Pass-through Requirement (Heat Suppliers) (Amendment) Regulations 2022 (S.I. 2022/1280)](https://www.legislation.gov.uk/uksi/2022/1280), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1280/regulation/1/2), [7(2)(c)](https://www.legislation.gov.uk/uksi/2022/1280/regulation/7/2/c)
+
+[^key-f905f89b06110c5ef6e8ec133dbf6943]: Commencement: Reg. 10 in force at 1.11.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1101/regulation/1/2)
+
+[^key-1478ccdb34f43ce433f53fa6222decb3]: Textual amendment: Words in [reg. 10(1)](https://www.legislation.gov.uk/uksi/2022/1101/regulation/10/1) inserted (7.12.2022) by [The Energy Bill Relief Scheme Pass-through Requirement (Heat Suppliers) (Amendment) Regulations 2022 (S.I. 2022/1280)](https://www.legislation.gov.uk/uksi/2022/1280), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1280/regulation/1/2), [8(a)](https://www.legislation.gov.uk/uksi/2022/1280/regulation/8/a)
+
+[^key-a8f0b052957543ddb720f14ea364a9e5]: Textual amendment: [Reg. 10(2A)](https://www.legislation.gov.uk/uksi/2022/1101/regulation/10/2A) inserted (7.12.2022) by [The Energy Bill Relief Scheme Pass-through Requirement (Heat Suppliers) (Amendment) Regulations 2022 (S.I. 2022/1280)](https://www.legislation.gov.uk/uksi/2022/1280), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1280/regulation/1/2), [8(b)](https://www.legislation.gov.uk/uksi/2022/1280/regulation/8/b)
+
+[^key-ad000b354afbb495d5150096b7eac57a]: Textual amendment: Words in [reg. 10(3)](https://www.legislation.gov.uk/uksi/2022/1101/regulation/10/3) inserted (7.12.2022) by [The Energy Bill Relief Scheme Pass-through Requirement (Heat Suppliers) (Amendment) Regulations 2022 (S.I. 2022/1280)](https://www.legislation.gov.uk/uksi/2022/1280), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1280/regulation/1/2), [8(c)](https://www.legislation.gov.uk/uksi/2022/1280/regulation/8/c)
+
+[^key-c008c8831b668a6a2ee3615503060811]: Textual amendment: Words in [reg. 10(8)(b)](https://www.legislation.gov.uk/uksi/2022/1101/regulation/10/8/b) inserted (7.12.2022) by [The Energy Bill Relief Scheme Pass-through Requirement (Heat Suppliers) (Amendment) Regulations 2022 (S.I. 2022/1280)](https://www.legislation.gov.uk/uksi/2022/1280), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1280/regulation/1/2), [8(d)](https://www.legislation.gov.uk/uksi/2022/1280/regulation/8/d)
+
+[^key-0274082fd62d060ef2e85b0dd5bb80c4]: Textual amendment: Words in [reg. 10(9)(a)](https://www.legislation.gov.uk/uksi/2022/1101/regulation/10/9/a) inserted (7.12.2022) by [The Energy Bill Relief Scheme Pass-through Requirement (Heat Suppliers) (Amendment) Regulations 2022 (S.I. 2022/1280)](https://www.legislation.gov.uk/uksi/2022/1280), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1280/regulation/1/2), [8(d)](https://www.legislation.gov.uk/uksi/2022/1280/regulation/8/d)
+
+[^key-d07d648e01f69345317f328d302f8ee4]: Textual amendment: [Reg. 10(14)](https://www.legislation.gov.uk/uksi/2022/1101/regulation/10/14) inserted (7.12.2022) by [The Energy Bill Relief Scheme Pass-through Requirement (Heat Suppliers) (Amendment) Regulations 2022 (S.I. 2022/1280)](https://www.legislation.gov.uk/uksi/2022/1280), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1280/regulation/1/2), [8(e)](https://www.legislation.gov.uk/uksi/2022/1280/regulation/8/e)
+
+[^key-fa9990d61f646b373d0b282e1f8fff88]: Textual amendment: [Regs. 11](https://www.legislation.gov.uk/uksi/2022/1101/regulation/11), [12](https://www.legislation.gov.uk/uksi/2022/1101/regulation/12) inserted (7.12.2022) by [The Energy Bill Relief Scheme Pass-through Requirement (Heat Suppliers) (Amendment) Regulations 2022 (S.I. 2022/1280)](https://www.legislation.gov.uk/uksi/2022/1280), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1280/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2022/1280/regulation/9)
+
+[^f00009]: Footnote: See section 28(4) of the Act for the meaning of this term.

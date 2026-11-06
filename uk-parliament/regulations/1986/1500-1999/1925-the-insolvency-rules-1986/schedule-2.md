@@ -1,0 +1,124 @@
+---
+title: The Insolvency Rules 1986, SCHEDULE 2
+act: The Insolvency Rules 1986
+section: schedule-2
+status: revised-with-pending-changes
+text_date: '2008-03-06'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/1986/1925/schedule/2
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Westlaw UK derived from Crown Copyright material and contributed to legislation.gov.uk
+summary: ''
+---
+
+# The Insolvency Rules 1986, SCHEDULE 2
+
+> **Warning: changes not yet applied to this text (1414).** Text as at 2008-03-06. See https://www.legislation.gov.uk/changes/affected/uksi/1986/1925
+>
+> Extent: England, Wales.
+
+## SCHEDULE 2 — ALTERNATIVE COURTS FOR DEBTORS' PETITIONS IN BANKRUPTCY[^key-3369e067dc3a63e2122cca17ac90adb7]
+
+*Extent: E+W*
+
+Rule 6.40(3)
+
+| Debtor’s own county court | Nearest full-time court |
+| --- | --- |
+| ABERDARE | CARDIFF |
+| ABERYSTWYTH | CARDIFF |
+| AYLESBURY | LUTON |
+| BANBURY | LUTON or GLOUCESTER or READING |
+| BANGOR | BIRKENHEAD or CHESTER |
+| BARNSLEY | SHEFFIELD |
+| BARNSTAPLE | EXETER |
+| BARROW IN FURNESS | BLACKPOOL or PRESTON |
+| BATH | BRISTOL |
+| BEDFORD | LUTON |
+| BLACKBURN | PRESTON |
+| BLACKWOOD | CARDIFF |
+| BOSTON | NOTTINGHAM |
+| BRIDGEND | CARDIFF |
+| BRIDGWATER | BRISTOL |
+| BURNLEY | BOLTON or PRESTON |
+| BURTON ON TRENT | LEICESTER or DERBY or NOTTINGHAM |
+| BURY ST. EDMUNDS | CAMBRIDGE |
+| CANTERBURY | CROYDON or THE HIGH COURT (LONDON) |
+| CARLISLE | PRESTON or BLACKPOOL |
+| CARMARTHEN | CARDIFF |
+| CHELMSFORD | SOUTHEND or THE HIGH COURT (LONDON) |
+| CHELTENHAM | GLOUCESTER |
+| CHESTERFIELD | SHEFFIELD |
+| COLCHESTER | SOUTHEND or THE HIGH COURT (LONDON) |
+| COVENTRY | BIRMINGHAM |
+| CREWE | STOKE or CHESTER |
+| DARLINGTON | MIDDLESBROUGH |
+| DEWSBURY | LEEDS |
+| DONCASTER | SHEFFIELD |
+| DUDLEY | BIRMINGHAM |
+| DURHAM | NEWCASTLE |
+| EASTBOURNE | BRIGHTON |
+| GREAT GRIMSBY | HULL |
+| GREAT YARMOUTH | NORWICH |
+| GUILDFORD | CROYDON |
+| HALIFAX | LEEDS |
+| HARROGATE | LEEDS |
+| HASTINGS | BRIGHTON |
+| HAVERFORDWEST | CARDIFF |
+| HEREFORD | GLOUCESTER |
+| HERTFORD | LUTON |
+| HUDDERSFIELD | LEEDS |
+| IPSWICH | NORWICH or SOUTHEND |
+| KENDAL | BLACKPOOL or PRESTON |
+| KIDDERMINSTER | BIRMINGHAM |
+| KING'S LYNN | NORWICH or CAMBRIDGE |
+| LANCASTER | BLACKPOOL or PRESTON |
+| LINCOLN | NOTTINGHAM |
+| MACCLESFIELD | STOKE or MANCHESTER |
+| MAIDSTONE | CROYDON or THE HIGH COURT (LONDON) |
+| MEDWAY | CROYDON or THE HIGH COURT (LONDON) |
+| MERTHYR TYDFIL | CARDIFF |
+| MILTON KEYNES | LUTON |
+| NEATH | CARDIFF |
+| NEWBURY | READING |
+| NEWPORT (GWENT) | CARDIFF |
+| NEWPORT (I.O.W.) | SOUTHAMPTON or PORTSMOUTH |
+| NORTHAMPTON | LUTON |
+| OXFORD | READING |
+| PETERBOROUGH | CAMBRIDGE |
+| PONTYPRIDD | CARDIFF |
+| PORTMADOC | BIRKENHEAD or STOKE or CHESTER |
+| RHYL | BIRKENHEAD or CHESTER |
+| ROCHDALE | OLDHAM or MANCHESTER |
+| SALISBURY | BOURNEMOUTH or SOUTHAMPTON |
+| SCARBOROUGH | YORK or HULL or MIDDLESBROUGH |
+| SCUNTHORPE | HULL or SHEFFIELD |
+| SHREWSBURY | STOKE |
+| ST. ALBANS | LUTON |
+| STAFFORD | STOKE |
+| STOCKTON ON TEES | MIDDLESBROUGH |
+| STOCKPORT | MANCHESTER |
+| STOURBRIDGE | BIRMINGHAM |
+| SUNDERLAND | NEWCASTLE |
+| SWANSEA | CARDIFF |
+| SWINDON | GLOUCESTER or READING |
+| TAMESIDE | MANCHESTER |
+| TAUNTON | EXETER or BRISTOL |
+| TORQUAY | EXETER |
+| TRURO | PLYMOUTH |
+| TUNBRIDGE WELLS | CROYDON |
+| WAKEFIELD | LEEDS |
+| WARRINGTON | CHESTER or LIVERPOOL or MANCHESTER |
+| WARWICK | BIRMINGHAM |
+| WELSHPOOL | STOKE or CHESTER |
+| WEST BROMWICH | BIRMINGHAM |
+| WEYMOUTH | BOURNEMOUTH |
+| WIGAN | BOLTON or MANCHESTER or PRESTON |
+| WINCHESTER | SOUTHAMPTON |
+| WORCESTER | GLOUCESTER |
+| WORKINGTON | PRESTON or BLACKPOOL |
+| WREXHAM | BIRKENHEAD or STOKE or CHESTER |
+| YEOVIL | EXETER or BRISTOL |
+
+## Annotations
+
+[^key-3369e067dc3a63e2122cca17ac90adb7]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/1986/1925/schedule/2) substituted (11.1.1988 with application in accordance with rule 3(1)(2)) by [The Insolvency (Amendment) Rules 1987 (S.I. 1987/1919)](https://www.legislation.gov.uk/uksi/1987/1919), [rule 1](https://www.legislation.gov.uk/uksi/1987/1919/rule/1), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/1987/1919/schedule/part/3)

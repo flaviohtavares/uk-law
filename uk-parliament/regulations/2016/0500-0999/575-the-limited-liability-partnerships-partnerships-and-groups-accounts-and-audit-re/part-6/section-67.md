@@ -1,0 +1,52 @@
+---
+title: The Limited Liability Partnerships, Partnerships and Groups (Accounts and Audit) Regulations 2016, section 67
+act: The Limited Liability Partnerships, Partnerships and Groups (Accounts and Audit) Regulations 2016
+section: '67'
+status: revised
+text_date: '2016-05-17'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2016/575/section/67
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Limited Liability Partnerships, Partnerships and Groups (Accounts and Audit) Regulations 2016, section 67
+
+> Text as at 2016-05-17.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+**67.**[^key-5de664a18eb99b294e52d267b1b3080d] After regulation 13 (general interpretation) insert—
+
+> **PART 6 — REVIEW**
+>
+> **14. Review**
+>
+> (1) The Secretary of State must from time to time—
+>
+> - (a) carry out a review of the provisions of these Regulations to which amendments have been made by Part 6 of the Limited Liability Partnerships, Partnerships and Groups (Accounts and Audit) Regulations 2016 (“the 2016 Regulations”),
+> - (b) set out the conclusions of the review in a report, and
+> - (c) publish the report.
+>
+> (2) The report must, in particular—
+>
+> - (a) set out the objectives intended to be achieved by those provisions,
+> - (b) assess the extent to which those objectives are achieved,
+> - (c) assess whether those objectives remain appropriate, and
+> - (d) if those objectives remain appropriate, assess the extent to which they could be achieved in another way which involves less onerous regulatory provision.
+>
+> (3) In carrying out the review, the Secretary of State must have regard to how the provisions of [Directive 2013/34/EU](https://www.legislation.gov.uk/european/directive/2013/0034) of 26 June 2013 on the annual financial statements etc. of certain types of undertakings which are implemented by means of the provisions mentioned in paragraph (1)(a) are implemented in other Member States.
+>
+> (4) The first report under this regulation must be published before the end of the period of 5 years beginning with the date on which the 2016 Regulations come into force.
+>
+> (5) Subsequent reports under this regulation must be published at intervals not exceeding 5 years.
+>
+> (6) In this regulation, “regulatory provision” has the meaning given by section 32(4) of the Small Business, Enterprise and Employment Act 2015.
+
+.
+
+## Annotations
+
+[^key-5de664a18eb99b294e52d267b1b3080d]: Commencement: Reg. 67 in force at 17.5.2016, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2016/575/regulation/2/1)

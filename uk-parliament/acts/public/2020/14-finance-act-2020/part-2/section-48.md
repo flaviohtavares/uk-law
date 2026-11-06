@@ -1,0 +1,67 @@
+---
+title: Finance Act 2020, section 48
+act: Finance Act 2020
+section: '48'
+status: revised
+text_date: '2026-03-18'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2020/14/section/48
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Finance Act 2020, section 48
+
+> Text as at 2026-03-18.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 48. Alternative basis of charge
+
+*Extent: E+W+S+N.I.*
+
+(1) This section applies if a valid election under this section in respect of an accounting period has been made in the group's DST return for that period (whether as originally made or by amendment).
+
+(2) An election under this section is valid if it specifies the categories of revenues in relation to which it applies (or specifies that it applies in relation to all categories).
+
+(3) For this purpose, the categories of revenues are—
+
+- (a) revenues arising in connection with any social media service;
+- (b) revenues arising in connection with any internet search engine;
+- (c) revenues arising in connection with any online marketplace.
+
+(4) To find the liability of a relevant person to digital services tax in respect of the accounting period, take the following steps (instead of the steps set out in section 47(3)).
+
+- *Step 1* Take the total amount of UK digital services revenues arising to members of the group in the accounting period.
+- *Step 2* Apportion the total amount found under step 1 between the three categories of revenues.
+- *Step 3* For each category of revenues, the “net revenues” is the amount by which the amount of revenues apportioned under step 2 exceeds the relevant proportion of £25million.“The relevant proportion” is—
+
+  [formula: see source](https://www.legislation.gov.uk/ukpga/2020/14)
+
+  where—
+
+  R is the amount of revenues apportioned under step 2 to the category, and
+
+  TR is the total amount found under step 1.
+- *Step 4* For each specified category of revenues, calculate the operating margin.“The operating margin” is—
+
+  [formula: see source](https://www.legislation.gov.uk/ukpga/2020/14)
+
+  where—
+
+  R has the same meaning as in step 3, and
+
+  E is the amount of relevant operating expenses of the group that are recognised in the accounting period (as to which, see section 49).
+
+  If R does not exceed E, the operating margin is nil.
+- *Step 5* For each specified category of revenues, the taxable amount is 0.8 x the operating margin x the net revenues. For any other category of revenues, the taxable amount is 2% of the net revenues.
+- *Step 6* Add together the taxable amounts calculated under step 5. The result is “the group amount”.
+- *Step 7* The relevant person's liability to digital services tax in respect of the accounting period is the appropriate proportion of the group amount.
+
+(5) If the duration of the accounting period is less than a year, the sum mentioned in step 3 of subsection (4) is proportionately reduced.
+
+(6) In this section—
+
+- “**the appropriate proportion**” has the meaning given by section 47;
+- “**relevant person**” has the same meaning as in section 47;
+- “**specified**”, in relation to a category of revenues, means a category of revenues specified in the election.

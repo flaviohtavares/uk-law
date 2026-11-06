@@ -1,0 +1,114 @@
+---
+title: Town and Country Planning (Scotland) Act 1997, section 43A
+act: Town and Country Planning (Scotland) Act 1997
+section: 43A
+status: revised-with-pending-changes
+text_date: '2026-09-24'
+extent: S
+source_url: https://www.legislation.gov.uk/ukpga/1997/8/section/43A
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Town and Country Planning (Scotland) Act 1997, section 43A
+
+> **Warning: changes not yet applied to this text (56).** Text as at 2026-09-24. See https://www.legislation.gov.uk/changes/affected/ukpga/1997/8
+>
+> Extent: England, Wales, Scotland.
+
+## 43A. Local developments: schemes of delegation[^key-755f982717aa8b131ed5b4a131d601f4]
+
+*Extent: S*
+
+(1) A planning authority are—
+
+- (a) as soon as practicable after the coming into force of section 17 of the Planning etc. (Scotland) Act 2006 (asp 17), and thereafter—
+  - (i) whenever required to do so by the Scottish Ministers, or
+  - (ii) subject to sub-paragraph (i), at such intervals as may be provided for in regulations under this section,
+
+  to prepare a scheme (to be known as a “ **scheme of delegation** ”) by which any application for planning permission for a development within the category of local developments or any application for consent, agreement or approval required by a condition imposed on a grant of planning permission for a development within that category is to be determined by a person appointed by them for the purposes of this section instead of by them, and
+- (b) to keep under review the scheme so prepared.
+
+(2) Other than for the purposes of subsections (8) to (16) or section 47, the determination of any person so appointed is to be treated as that of the authority.
+
+(3) References in subsection (1) to a development do not include references to a development of a class mentioned in section 38A(1).
+
+(4) Without prejudice to subsection (1)(a)(ii), regulations under this section may make provision as to—
+
+- (a) the form and content of, and
+- (b) the procedures for preparing and adopting,
+
+a scheme of delegation.
+
+(5) Where an application for planning permission falls to be determined by a person so appointed, sections 27A(2), 27B(2), 30(3), 32A,[^key-ba56e16a16991d913c584cff7ab5e3d3] 37(1) to (3), 38, 39, 40[^key-a1e6509177bfc29bc9bc35c63ab05e33], 41(1) and (2), 42, 43(1) to (2), 46, 58, 59 and 60[^key-6e64444432cb4acc1ff6fbbc109b6ed0] and Part 1 of Schedule 3 apply, with any necessary modifications (including, in the case of that Part, the modification mentioned in subsection (18)), as they apply to an application which falls to be determined by the planning authority.
+
+(6) The planning authority may, if they think fit, decide themselves to determine an application which would otherwise fall to be determined by a person so appointed.
+
+(7) Any such decision must include a statement of the reasons for which it has been taken; and a copy of the decision is to be served on the applicant.
+
+(8) Where a person so appointed—
+
+- (a) refuses an application for planning permission or for consent, agreement or approval,
+- (b) grants it subject to conditions, or
+- (c) has not determined it within such period as may be prescribed by regulations or a development order or within such extended period as may at any time be agreed upon in writing between the applicant and the person so appointed[^key-36651e12451d535e7548dace9ef5c099],
+
+the applicant may require the planning authority to review the case.
+
+(8A)[^key-e031a0e1f2e3fad73f7498bde2192c9d] A requirement to review may not be made by virtue of paragraph (c) of subsection (8) if within the period (or extended period) mentioned in that paragraph notice has been given to the applicant that—
+
+- (a) the power under section 39 to decline to determine the application has been exercised; or
+- (b) the application has been referred to the Scottish Ministers in accordance with directions given under section 46.
+
+(9) Where a requirement to review is made by virtue of paragraph (c) of subsection (8), the person so appointed is, for the purposes of the review, to be deemed to have decided to refuse the application.
+
+(10) Regulations or a development order may make provision as to the form and procedures of any review conducted by virtue of subsection (8).
+
+(11) Without prejudice to the generality of subsection (10), the regulations or order may—
+
+- (a) make different provision for different cases or classes of case,
+- (b) make different provision for different stages of a case,
+- (c) make provision in relation to oral or written submissions and to documents in support of such submissions,
+- (d) make provision in relation to time limits (including a time limit for requiring the review), and
+- (e) require the planning authority to give to the person who has required the review such notice as may be prescribed by the regulations or the order as to the manner in which that review has been dealt with.
+
+(12) Any notice given by virtue of paragraph (e) of subsection (11)—
+
+- (a) is to include a statement of—
+  - (i) the terms in which the planning authority have decided the case reviewed, and
+  - (ii) the reasons on which the authority based that decision, and
+- (b) may include such other information as may be prescribed by the regulations or the order.
+
+(13) The provision which may be made by virtue of subsections (10) and (11) includes provision as to—
+
+- (a) the making of oral submissions, or as to any failure to make such submissions or to lodge documents in support of such submissions, or
+- (b) the lodging of, or as to any failure to lodge, written submissions or documents in support of such submissions,
+
+and, subject to section 43B, as to what matters may be raised in the course of the review.
+
+(14) The provision which may be made by virtue of subsections (10) and (11) includes provision that the manner in which the review, or any stage of the review, is to be conducted (as for example whether oral submissions are to be made or written submissions lodged) is to be at the discretion of the planning authority.
+
+(15) The planning authority may uphold, reverse or vary a determination reviewed by them by virtue of subsection (8).
+
+(16) Subject to subsection (17) and except as provided under section 239, the decision of a planning authority in a case reviewed under this section is final.
+
+(17) Where a requirement to review is made by virtue of paragraph (c) of subsection (8) and the planning authority have not conducted the review within such period as may be prescribed by regulations or a development order, the authority are to be deemed to have decided to refuse the application and section 47(1) is to apply accordingly.
+
+(18) The modification is that, in paragraph 1(6) of Schedule 3, for paragraph (b) there is substituted—
+
+> - (b) is to be regarded for the purposes of section 43A as a condition imposed by a decision of the appointed person, and may accordingly be the subject of a review under subsection (8) of that section.
+
+.
+
+## Annotations
+
+[^key-755f982717aa8b131ed5b4a131d601f4]: Textual amendment: Ss. 43A, 43B inserted (12.12.2008 for specified purposes, 6.4.2009 for specified purposes, 3.8.2009 in so far as not already in force) by [Planning etc. (Scotland) Act 2006 (asp 17)](https://www.legislation.gov.uk/asp/2006/17), [ss. 17](https://www.legislation.gov.uk/asp/2006/17/section/17), [59(2)](https://www.legislation.gov.uk/asp/2006/17/section/59/2) (with [S.S.I. 2009/222](https://www.legislation.gov.uk/ssi/2009/222), art. 7(1)(b)(2)); [S.S.I. 2008/411](https://www.legislation.gov.uk/ssi/2008/411), [art. 2(2)](https://www.legislation.gov.uk/ssi/2008/411/article/2/2)[(3)(a)](https://www.legislation.gov.uk/ssi/2008/411/article/2/3/a), S.S.I. 2009/100, art. 2, sch., S.S.I. 2009/219, art. 2, sch.
+
+[^key-ba56e16a16991d913c584cff7ab5e3d3]: Textual amendment: Words in s. 43A(5) inserted (2.2.2013) by [The Planning etc. (Scotland) Act 2006 (Supplementary and Consequential Provisions) Order 2013 (S.S.I. 2013/26)](https://www.legislation.gov.uk/ssi/2013/26), [arts. 1](https://www.legislation.gov.uk/ssi/2013/26/article/1), [2(3)(a)(i)](https://www.legislation.gov.uk/ssi/2013/26/article/2/3/a/i)
+
+[^key-a1e6509177bfc29bc9bc35c63ab05e33]: Textual amendment: Words in s. 43A(5) inserted (2.2.2013) by [The Planning etc. (Scotland) Act 2006 (Supplementary and Consequential Provisions) Order 2013 (S.S.I. 2013/26)](https://www.legislation.gov.uk/ssi/2013/26), [arts. 1](https://www.legislation.gov.uk/ssi/2013/26/article/1), [2(3)(a)(ii)](https://www.legislation.gov.uk/ssi/2013/26/article/2/3/a/ii)
+
+[^key-6e64444432cb4acc1ff6fbbc109b6ed0]: Textual amendment: Words in s. 43A(5) substituted (2.2.2013) by [The Planning etc. (Scotland) Act 2006 (Supplementary and Consequential Provisions) Order 2013 (S.S.I. 2013/26)](https://www.legislation.gov.uk/ssi/2013/26), [arts. 1](https://www.legislation.gov.uk/ssi/2013/26/article/1), [2(3)(a)(iii)](https://www.legislation.gov.uk/ssi/2013/26/article/2/3/a/iii)
+
+[^key-36651e12451d535e7548dace9ef5c099]: Textual amendment: Words in s. 43A(8)(c) inserted (2.2.2013) by [The Public Services Reform (Planning) (Local Review Procedure) (Scotland) Order 2013 (S.S.I. 2013/24)](https://www.legislation.gov.uk/ssi/2013/24), [arts. 1](https://www.legislation.gov.uk/ssi/2013/24/article/1), [2(2)](https://www.legislation.gov.uk/ssi/2013/24/article/2/2)
+
+[^key-e031a0e1f2e3fad73f7498bde2192c9d]: Textual amendment: S. 43A(8A) inserted (2.2.2013) by [The Planning etc. (Scotland) Act 2006 (Supplementary and Consequential Provisions) Order 2013 (S.S.I. 2013/26)](https://www.legislation.gov.uk/ssi/2013/26), [arts. 1](https://www.legislation.gov.uk/ssi/2013/26/article/1), [2(3)(b)](https://www.legislation.gov.uk/ssi/2013/26/article/2/3/b)

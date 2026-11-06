@@ -1,0 +1,33 @@
+---
+title: Pension Schemes Act 2026, section 107
+act: Pension Schemes Act 2026
+section: '107'
+status: revised-with-pending-changes
+text_date: '2026-06-29'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2026/22/section/107
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Pension Schemes Act 2026, section 107
+
+> **Warning: changes not yet applied to this text (3).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2026/22
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 107. Validity of certain alterations to NI salary-related contracted-out pension schemes: wound up schemes and other special cases[^key-84391e72ecc696ffe82f2e98cddf795c]
+
+*Extent: N.I.*
+
+(1) This section applies to any potentially remediable alteration purportedly made to the rules of—
+
+- (a) an NI scheme, or a part of an NI scheme, which has been wound up before this section comes into force,
+- (b) an NI scheme, or a part of an NI scheme, for which the Board of the Pension Protection Fund has, before this section comes into force, assumed responsibility in accordance with Chapter 3 of Part 3 of the Pensions (Northern Ireland) Order 2005 (see Article 145 of that Order), or
+- (c) an NI scheme which is a qualifying pension scheme for the purposes of regulation 9 of the Financial Assistance Scheme Regulations 2005 ([S.I. 2005/1986](https://www.legislation.gov.uk/uksi/2005/1986)) and in respect of which payments are required to be made under section 286 of the Pensions Act 2004.
+
+(2) The alteration is be treated for all purposes as having met the requirements of paragraph (2)(a) and (b) of regulation 42 before it was purportedly made and so as having always been a valid alteration so far as those requirements are concerned.
+
+## Annotations
+
+[^key-84391e72ecc696ffe82f2e98cddf795c]: Commencement: S. 107 in force at Royal Assent, see [s. 133(8)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/8)

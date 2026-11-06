@@ -1,0 +1,60 @@
+---
+title: Criminal Justice Act 1988, section 39A
+act: Criminal Justice Act 1988
+section: 39A
+status: revised-with-pending-changes
+text_date: '2026-07-08'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/1988/33/section/39A
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Criminal Justice Act 1988, section 39A
+
+> **Warning: changes not yet applied to this text (43).** Text as at 2026-07-08. See https://www.legislation.gov.uk/changes/affected/ukpga/1988/33
+>
+> Extent: England, Wales.
+
+## 39A. Time limit for prosecution of common assault or battery in domestic abuse cases[^key-32b594aeb1b9d17804e43bdc4bc2edc7]
+
+*Extent: E+W*
+
+(1) This section applies to proceedings for an offence of common assault or battery where—
+
+- (a) the alleged behaviour of the accused amounts to domestic abuse, and
+- (b) the condition in subsection (2) or (3) is met.
+
+(2) The condition in this subsection is that—
+
+- (a) the complainant has made a witness statement with a view to its possible admission as evidence in the proceedings, and
+- (b) the complainant has provided the statement to—
+  - (i) a constable of a police force, or
+  - (ii) a person authorised by a constable of a police force to receive the statement.
+
+(3) The condition in this subsection is that—
+
+- (a) the complainant has been interviewed by—
+  - (i) a constable of a police force, or
+  - (ii) a person authorised by a constable of a police force to interview the complainant, and
+- (b) a video recording of the interview has been made with a view to its possible admission as the complainant’s evidence in chief in the proceedings.
+
+(4) Proceedings to which this section applies may be commenced at any time which is both—
+
+- (a) within two years from the date of the offence to which the proceedings relate, and
+- (b) within six months from the first date on which either of the conditions in subsection (2) or (3) was met.
+
+(5) This section has effect despite section 127(1) of the Magistrates’ Court Act 1980 (limitation of time).
+
+(6) In this section—
+
+- “domestic abuse” has the meaning given by section 1 of the Domestic Abuse Act 2021;
+- “police force” has the meaning given by section 3(3) of the Prosecution of Offences Act 1985;
+- “video recording” has the meaning given by section 63(1) of the Youth Justice and Criminal Evidence Act 1999;
+- “witness statement” means a written statement that satisfies the conditions in section 9(2)(a) and (b) of the Criminal Justice Act 1967.
+
+(7) This section does not apply in relation to an offence committed before the coming into force of section 49 of the Police, Crime, Sentencing and Courts Act 2022.
+
+## Annotations
+
+[^key-32b594aeb1b9d17804e43bdc4bc2edc7]: Textual amendment: [S. 39A](https://www.legislation.gov.uk/ukpga/1988/33/section/39A) inserted (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 49](https://www.legislation.gov.uk/ukpga/2022/32/section/49), [208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1); [S.I. 2022/520](https://www.legislation.gov.uk/uksi/2022/520), [reg. 5(f)](https://www.legislation.gov.uk/uksi/2022/520/regulation/5/f)

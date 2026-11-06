@@ -1,0 +1,79 @@
+---
+title: The M271 Motorway (Junction 1 to Redbridge Roundabout) (Fixed Speed Limits) (Amendment) Regulations 2022
+id: uksi/2022/202
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2022-02-28'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2022/202
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2022/202/pdfs/uksiem_20220202_en.pdf
+- http://www.legislation.gov.uk/uksi/2022/202/pdfs/uksi_20220202_en.pdf
+- http://www.legislation.gov.uk/uksi/2022/202/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The M271 Motorway (Junction 1 to Redbridge Roundabout) (Fixed Speed Limits) (Amendment) Regulations 2022
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2022 No. 202
+
+Road Traffic
+
+Special Roads
+
+The M271 Motorway (Junction 1 to Redbridge Roundabout) (Fixed Speed Limits) (Amendment) Regulations 2022
+
+Made
+
+28th February 2022
+
+Laid before Parliament
+
+1st March 2022
+
+Coming into force-
+
+22nd March 2022
+
+The Secretary of State makes the following Regulations in exercise of the powers conferred by section 17(2) and (3) of the Road Traffic Regulation Act 1984[^f00001].
+
+Representative organisations have been consulted in accordance with section 134(2) of that Act.
+
+## 1. Citation and commencement
+
+These Regulations may be cited as the M271 Motorway (Junction 1 to Redbridge Roundabout) (Fixed Speed Limits) (Amendment) Regulations 2022 and come into force on 22nd March 2022.
+
+## 2. Amendment of Regulations
+
+In regulation 4(b) of the M271 Motorway (Junction 1 to Redbridge Roundabout) (Fixed Speed Limits) Regulations 2021[^f00002] for “80 metres” substitute “135 metres”.
+
+Signed by authority of the Secretary of State for Transport
+
+Vere
+
+Parliamentary Under Secretary of State
+
+Department for Transport
+
+28th February 2022
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations amend the M271 Motorway (Junction 1 to Redbridge Roundabout) (Fixed Speed Limits) Regulations 2021 to provide that the 50 mph speed limit on the southbound on-slip road at Junction 1 starts 55 metres nearer to its merger with the southbound carriageway.
+
+An impact assessment has not been prepared for these Regulations as no significant impact on the cost of business or the voluntary sector is foreseen. An Explanatory Memorandum is published alongside the Regulations at www.legislation.gov.uk.
+
+## Annotations
+
+[^f00001]: Footnote: [1984 c. 27](https://www.legislation.gov.uk/ukpga/1984/27); section 17(2) was amended by the New Roads and Street Works Act [1991 (c. 22)](https://www.legislation.gov.uk/ukpga/1991/22), Schedule 8, Part 2, paragraph 28(3); section 17(2)(b) was amended by the Road Traffic Act [1991 (c. 40)](https://www.legislation.gov.uk/ukpga/1991/40), Schedule 8; section 17(2)(d) was inserted by the Road Traffic Act [1991 (c. 40)](https://www.legislation.gov.uk/ukpga/1991/40), Schedule 4, paragraph 25. There are other amendments to sections 17 and 134 which are not relevant to these Regulations.
+
+[^f00002]: Footnote: [S.I. 2021/82](https://www.legislation.gov.uk/uksi/2021/82).

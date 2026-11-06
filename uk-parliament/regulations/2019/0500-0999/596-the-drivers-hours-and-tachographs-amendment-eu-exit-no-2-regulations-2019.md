@@ -1,0 +1,327 @@
+---
+title: The Drivers' Hours and Tachographs (Amendment) (EU Exit) (No. 2) Regulations 2019
+id: uksi/2019/596
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2019-03-18'
+text_date: '2024-06-11'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2019/596
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2019/596/pdfs/uksiem_20190596_en.pdf
+- http://www.legislation.gov.uk/uksi/2019/596/pdfs/uksi_20190596_en.pdf
+- http://www.legislation.gov.uk/uksi/2019/596/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Drivers' Hours and Tachographs (Amendment) (EU Exit) (No. 2) Regulations 2019
+
+> Text as at 2024-06-11.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2019 No. 596
+
+Exiting The European Union
+
+Road Traffic
+
+The Drivers' Hours and Tachographs (Amendment) (EU Exit) (No. 2) Regulations 2019
+
+Sift requirements satisfied
+
+12th March 2019
+
+Made
+
+18th March 2019
+
+Laid before Parliament
+
+20th March 2019
+
+Coming into force in accordance with regulation 1(2) and (3)
+
+The Secretary of State makes these Regulations in exercise of the powers conferred by section 8(1) of, and paragraph 21 of Schedule 7 to, the European Union (Withdrawal) Act 2018 [^c23647571] and section 4(1) and (2) of the Haulage Permits and Trailer Registration Act 2018 [^c23647581] (“**the 2018 Act**”).
+
+The Secretary of State has consulted the persons referred to in section 23 of the 2018 Act.
+
+## PART 1 — Introduction
+
+### 1. Citation, commencement and extent[^key-66b9f98edde009b2b5e3fca841b1a16c]
+
+(1) These Regulations may be cited as the Drivers' Hours and Tachographs (Amendment) (EU Exit) (No. 2) Regulations 2019.
+
+(2) Parts 1 and 4 of these Regulations come into force on the 22nd day after the day on which these Regulations are laid.
+
+(3) Parts 2 and 3 of these Regulations come into force on the later of exit day or the 22nd day after the day on which these Regulations are laid.
+
+(4) Part 1 extends[^key-cd27c2694d9c1e9ed23a3eb76ac0abb4] to the United Kingdom.
+
+(5) Parts 2 and 3 of these Regulations extend to Northern Ireland only.
+
+## PART 2 — Amendments of primary Northern Ireland legislation
+
+*Extent: N.I.*
+
+### 2. Road Traffic (Northern Ireland) Order 1981[^key-acb07950d20380d89b6c596da2742957]
+
+The Road Traffic (Northern Ireland) Order 1981 [^c23647591] is amended as follows.
+
+### 3.[^key-efa4546f069352878d8a52d40f5dfb0b]
+
+In Article 2(2) [^c23647601]—
+
+- (a) for the definition of “applicable Community rules” substitute—
+
+  > “**applicable Community rules**” means—
+  >
+  > - (a) the Community Drivers' Hours Regulation, including the AETR; and
+  > - (b) the EU Tachographs Regulation;
+
+  ;
+- (b) omit the definition of “relevant Community provision”;
+- (c) insert in the appropriate place in alphabetical order—
+
+  > “**EU Tachographs Regulation**” means Regulation (EU) No. 165/2014 of the European Parliament and of the Council of 4 February 2014 on tachographs in road transport, as amended from time to time;
+
+### 4.[^key-b65391aee289708cad8ffdccffce5775]
+
+In Article 56(6) [^c23647611], omit “, any provision made by regulations under Article 83 by way of substitution for or adaptation of those provisions,”.
+
+### 5.[^key-e7199c98e4044c84af8938c4fde0d9c6]
+
+Omit Article 83.
+
+## PART 3 — Amendments of Northern Ireland secondary legislation
+
+*Extent: N.I.*
+
+### 6. Passenger and Goods Vehicles (Recording Equipment) Regulations (Northern Ireland) 1996[^key-303c5648b749f8a1184bccc3473acb3e]
+
+The Passenger and Goods Vehicles (Recording Equipment) Regulations (Northern Ireland) 1996 [^c23647621] are amended as follows.
+
+### 7.[^key-827a25ab8d32ed2e383c560778f4c097]
+
+Regulation 2(1) [^c23647631] is amended as follows—
+
+- (a) insert in the appropriate place in alphabetical order—
+
+  > “**the equivalent EU Regulation**” means Regulation (EU) No 165/2014 of the European Parliament and of the Council on tachographs in road transport [^c23647641] as it has effect in EU law, as amended from time to time;
+
+  ;
+- (b) insert in the appropriate place in alphabetical order—
+
+  > “**the relevant EU type-approval mark**”, in relation to recording equipment, means a type-approval mark issued by an EU member State in relation to that type of recording equipment under Article 14 of the equivalent EU Regulation;
+
+  ;
+- (c) insert in the appropriate place in alphabetical order—
+
+  > “**the relevant UK type-approval mark**”, in relation to recording equipment, means the mark which is “**the relevant type-approval mark**” in relation to the marking of that equipment, for the purposes of the Motor Vehicles (Type Approval) Regulations 1980 [^c23647651];
+
+  ;
+- (d) in the definition of “the EU Tachographs Regulation”, omit the words from “as read with” to the end;
+- (e)[^key-19232549228fde779960391abcaecad9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (f)[^key-55a55092387e6e14bf468b888d2849b3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 8.[^key-ce1f049cf768401886f58a7aeb724b23]
+
+In regulation 2A(1)(a) [^c23647661], for “under Article 13” substitute “ as required by Article 11A ”.
+
+### 9.[^key-2fa228ff6469296d3d4de9f688da2523]
+
+(1) Regulation 3 [^c23647671] is amended as follows.
+
+(2)[^key-beb4e2a1c5bebc8bb1372da470285522] In paragraph (1)(a)(i) after “technical specifications” insert “or the equivalent EU Regulation”;
+
+(3) In paragraph (1)(b), at the end insert “ or the equivalent EU Regulation ”.
+
+(4) In paragraph (4B), for “a type-approval mark issued under Article 14 of the EU Tachographs Regulation” substitute “ the relevant UK type-approval mark or the relevant EU type-approval mark ”.
+
+### 10.[^key-13ce2ce182211dc5f664c71359389cf9]
+
+In regulation 3B(5) [^c23647681], in the definition of “appropriate type-approval certificate” —
+
+- (a) in sub-paragraph (a), for paragraph (ii) substitute—
+
+  > - (ii) issued under the equivalent EU Regulation;
+
+  ;
+- (b) in sub-paragraph (b), in paragraph (ii), for “a contracting third country” substitute “ another contracting country ”.
+
+### 11.[^key-b8c9cc4770d45e3ddbe6a93292207a7a]
+
+(1) Regulation 8 [^c23647691] is amended as follows.
+
+(2) In paragraph (1)—
+
+- (a) for the words before sub-paragraph (a) substitute “ This Regulation applies to— ”;
+- (b) in sub-paragraph (a), for “the approval” substitute “ the approval by the Department ”;
+- (c) in sub-paragraph (b), for “the approval and nomination” substitute “ the approval and nomination by the Department ”.
+
+(3) In paragraph (2), omit “under paragraph (1)”.
+
+### 12. Road Transport (Working Time) Regulations (Northern Ireland) 2005[^key-cf2aa51da4a1a65a956770847c599d32]
+
+In regulation 3 of the Road Transport (Working Time) Regulations (Northern Ireland) 2005 [^c23647701]—
+
+- (a) in paragraphs (1) and (1A), for “a Member State of the European Union” substitute “ the United Kingdom ”;
+- (b) in paragraph (3)(c), for “international transport” substitute “ transport operations wholly or partly outside the United Kingdom ”.
+
+### 13. Community Drivers' Hours and Recording Equipment (Exemptions and Supplementary Provisions) Regulations (Northern Ireland) 2009[^key-987c826a1d1ea07b19ea38d512b7c7b9]
+
+The Community Drivers' Hours and Recording Equipment (Exemptions and Supplementary Provisions) Regulations (Northern Ireland) 2009 [^c23647711] are amended as follows.
+
+### 14.[^key-59549a8b1c545cb67e60c193956d20ac]
+
+(1) Regulation 3 [^c23647721] is amended as follows.
+
+(2) In paragraph (1)—
+
+- (a) omit “Pursuant to Article 13(1) of the Community Drivers' Hours Regulation,”;
+- (b) for “that Regulation” substitute “the Community Drivers' Hours Regulation”.
+
+(3) In paragraph (2)—
+
+- (a) omit “Pursuant to Article 14(1) of the Community Drivers' Hours Regulation,”;
+- (b) for “that Regulation” substitute “the Community Drivers' Hours Regulation”.
+
+### 15.[^key-85f28f1c34922434f2851bec1d65f684]
+
+(1) Regulation 5 [^c23647731] is amended as follows.
+
+(2) In paragraph (1)—
+
+- (a) omit “Pursuant to Article 3(2) of the EU Tachographs Regulation,”;
+- (b) for “that Regulation” substitute “ the EU Tachographs Regulation ”.
+
+(3) In paragraph (2)—
+
+- (a) omit “Pursuant to Article 3(3) of the EU Tachographs Regulation,”;
+- (b) for “that Regulation” substitute “ the EU Tachographs Regulation ”.
+
+## PART 4 — Amendment of the International Road Transport Permits (EU Exit) Regulations 2018[^key-f84612279aed130e4997bf267eb4b31f]
+
+**No longer in force.**
+
+### 16. International Road Transport Permits (EU Exit) Regulations 2018[^key-f84612279aed130e4997bf267eb4b31f]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 17.[^key-f84612279aed130e4997bf267eb4b31f]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 18.[^key-f84612279aed130e4997bf267eb4b31f]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Signed by authority of the Secretary of State for Transport
+
+Jesse Norman
+
+Minister of State
+
+Department for Transport
+
+*(This note is not part of the Regulations)*
+
+These Regulations make provision in exercise of the powers in section 8(1) of, and Schedule 7 paragraph 21 to, the European Union (Withdrawal) Act 2018 (c. 16) in order to address failures in Northern Ireland primary and secondary legislation relating to drivers' hours and tachographs to operate effectively (in particular under section 8(2)(a), (b), (c) and (g)) arising from the withdrawal of the United Kingdom from the European Union.
+
+Part 1 of the Regulations contains introductory provisions. Part 2 amends Northern Ireland primary legislation, and Part 3 amends Northern Ireland secondary legislation. This legislation was enacted to implement the EU Drivers' Hours Regulation (Regulation [(EC) No 561/2006](https://www.legislation.gov.uk/european/regulation/2006/0561)) and the EU Tachographs Regulation (Regulation (EU) No 165/2014). These EU Regulations become retained EU law under the EU Withdrawal Act and are amended for the whole of the UK in the Drivers' Hours and Tachographs (Amendment etc.) (EU Exit) Regulations 2019. Those Regulations also contain amendments under section 2(2) of the European Communities Act 1972 (c. 68) (“the ECA”). Equivalent amendments to Northern Ireland legislation are made under the ECA in the Drivers' Hours and Tachographs (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019 No. 12).
+
+These Regulations also make provision in exercise of the powers in sections 4(1) and (2) of the Haulage Permits and Trailer Registration Act 2018 (c. 19). The International Road Transport Permits (EU Exit) Regulations 2018 (“**the Permits Regulations**”) prohibit an operator from using a goods vehicle registered in the UK for transporting goods on an international journey to, in or through a relevant country or relevant member State without an international road transport permit (“permit”) and require that permit to be carried on the vehicle. The Permits Regulations set out the administrative provisions for applying for and granting a permit; how such applications will be determined; and the information that must be included in a permit. They also set out the circumstances in which a permit may be cancelled, provide for appeals and enable fees to be charged.
+
+[^c23647751]Part 4 of these Regulations amend the Permits Regulations to correct an error in regulation 28(2) of those Regulations. The time-limit for making an appeal of 20 working days from the day on which the operator was notified of the decision to cancel a permit is amended so that it applies in respect of appeals to a traffic commissioner in Great Britain. The time-limit for making an appeal to the Upper Tribunal is set out in rule 23 of the Tribunal Procedure (Upper Tribunal) Rules 2008 .
+
+The Regulations also amend the Permits Regulations to allow a traffic commissioner to extend the period of time in which an appellant must be informed of the outcome of an appeal, where the traffic commissioner considers it is appropriate to ensure that the appeal is dealt with fairly and justly.
+
+An impact assessment for the Permits Regulations has been produced by the Department for Transport, and is published alongside that instrument on www.legislation.gov.uk. The amendments to the Permits Regulations do not affect the costs as set out in that impact assessment.
+
+An impact assessment has not been produced in relation to Parts 2 and 3 of this instrument as no significant impact in the private or voluntary sector is foreseen.
+
+An Explanatory Memorandum is published alongside this instrument on www.legislation.gov.uk.
+
+## Annotations
+
+[^c23647571]: Marginal citation: [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16).
+
+[^c23647581]: Marginal citation: [2018 c. 19](https://www.legislation.gov.uk/ukpga/2018/19).
+
+[^key-66b9f98edde009b2b5e3fca841b1a16c]: Commencement: Reg. 1 in force at 11.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/596/regulation/1/2)
+
+[^key-cd27c2694d9c1e9ed23a3eb76ac0abb4]: Textual amendment: Words in [reg. 1(4)](https://www.legislation.gov.uk/uksi/2019/596/regulation/1/4) substituted (11.6.2024) by [The Goods Vehicles (International Road Transport Permits and Haulage Within the EU) Regulations 2024 (S.I. 2024/679)](https://www.legislation.gov.uk/uksi/2024/679), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2024/679/regulation/1/b), [30(2)](https://www.legislation.gov.uk/uksi/2024/679/regulation/30/2)
+
+[^key-acb07950d20380d89b6c596da2742957]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+
+[^c23647591]: Marginal citation: [S.I. 1981/154 (N.I. 1)](https://www.legislation.gov.uk/nisi/1981/154).
+
+[^key-efa4546f069352878d8a52d40f5dfb0b]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+
+[^c23647601]: Marginal citation: Article 2 was amended by S.R. [2009 No. 91](https://www.legislation.gov.uk/ukcm/2009/91).
+
+[^key-b65391aee289708cad8ffdccffce5775]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+
+[^c23647611]: Marginal citation: Article 56 was modified by S.R. [1981 No. 199](https://www.legislation.gov.uk/ukcm/1981/199).
+
+[^key-e7199c98e4044c84af8938c4fde0d9c6]: Commencement: Reg. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+
+[^key-303c5648b749f8a1184bccc3473acb3e]: Commencement: Reg. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+
+[^c23647621]: Marginal citation: S.R. [1996 No. 145](https://www.legislation.gov.uk/ukcm/1996/145).
+
+[^key-827a25ab8d32ed2e383c560778f4c097]: Commencement: Reg. 7 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+
+[^c23647631]: Marginal citation: Regulation 2 was amended by S.R. [2016 No. 343](https://www.legislation.gov.uk/ukcm/2016/343), S.R. [2006 No. 274](https://www.legislation.gov.uk/ukcm/2006/274), S.R. [2010 No. 23](https://www.legislation.gov.uk/ukcm/2010/23), S.R. [2005 No. 441](https://www.legislation.gov.uk/ukcm/2005/441), S.R. [2005 No. 325](https://www.legislation.gov.uk/ukcm/2005/325), S.R. [2019 No. 12](https://www.legislation.gov.uk/ukcm/2019/12).
+
+[^c23647641]: Marginal citation: OJ No. L 60, 28.2.2014, p. 1.
+
+[^c23647651]: Marginal citation: [S.I. 1980/1182](https://www.legislation.gov.uk/uksi/1980/1182), as amended by [S.I. 1982/7](https://www.legislation.gov.uk/uksi/1982/7), [S.I](https://www.legislation.gov.uk/uksi/1982/7/section/I). 1986/1501, [S.I. 1988/1103](https://www.legislation.gov.uk/uksi/1988/1103) and [S.I. 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043). .
+
+[^key-19232549228fde779960391abcaecad9]: Textual amendment: Reg. 7(e) omitted (30.10.2019) by virtue of [The Passenger and Goods Vehicles (Tachographs) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/194)](https://www.legislation.gov.uk/nisr/2019/194), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/194/regulation/1/1), [3(2)](https://www.legislation.gov.uk/nisr/2019/194/regulation/3/2)
+
+[^key-55a55092387e6e14bf468b888d2849b3]: Textual amendment: Reg. 7(f) omitted (30.10.2019) by virtue of [The Passenger and Goods Vehicles (Tachographs) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/194)](https://www.legislation.gov.uk/nisr/2019/194), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/194/regulation/1/1), [3(2)](https://www.legislation.gov.uk/nisr/2019/194/regulation/3/2)
+
+[^key-ce1f049cf768401886f58a7aeb724b23]: Commencement: Reg. 8 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+
+[^c23647661]: Marginal citation: Regulation 2A was inserted by S.R. [2016 No. 343](https://www.legislation.gov.uk/ukcm/2016/343).
+
+[^key-2fa228ff6469296d3d4de9f688da2523]: Commencement: Reg. 9 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+
+[^c23647671]: Marginal citation: Regulation 3 was amended by S.R. [2016 No. 343](https://www.legislation.gov.uk/ukcm/2016/343), S.R. [2006 No. 274](https://www.legislation.gov.uk/ukcm/2006/274), S.R. [2010 No. 23](https://www.legislation.gov.uk/ukcm/2010/23), S.R. [2019 No. 12](https://www.legislation.gov.uk/ukcm/2019/12).
+
+[^key-beb4e2a1c5bebc8bb1372da470285522]: Textual amendment: Reg. 9(2) substituted (30.10.2019) by [The Passenger and Goods Vehicles (Tachographs) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/194)](https://www.legislation.gov.uk/nisr/2019/194), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/194/regulation/1/1), [3(3)](https://www.legislation.gov.uk/nisr/2019/194/regulation/3/3)
+
+[^key-13ce2ce182211dc5f664c71359389cf9]: Commencement: Reg. 10 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+
+[^c23647681]: Marginal citation: Regulation 3B was inserted by S.R. [2019 No. 12](https://www.legislation.gov.uk/ukcm/2019/12).
+
+[^key-b8c9cc4770d45e3ddbe6a93292207a7a]: Commencement: Reg. 11 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+
+[^c23647691]: Marginal citation: Regulation 8(1)(b) was amended by S.R. [2005 No. 325](https://www.legislation.gov.uk/ukcm/2005/325), S.R. [2016 No. 343](https://www.legislation.gov.uk/ukcm/2016/343), S.R. [2019 No. 12](https://www.legislation.gov.uk/ukcm/2019/12).
+
+[^key-cf2aa51da4a1a65a956770847c599d32]: Commencement: Reg. 12 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+
+[^c23647701]: Marginal citation: S.R. [2005 No. 241](https://www.legislation.gov.uk/ukcm/2005/241), amended by S.R. [2012 No. 169](https://www.legislation.gov.uk/ukcm/2012/169), S.R. [2007 No. 323](https://www.legislation.gov.uk/ukcm/2007/323), S.R. [2019 No. 12](https://www.legislation.gov.uk/ukcm/2019/12).
+
+[^key-987c826a1d1ea07b19ea38d512b7c7b9]: Commencement: Reg. 13 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+
+[^c23647711]: Marginal citation: S.R. [2009 No.91](https://www.legislation.gov.uk/ukcm/2009/91).
+
+[^key-59549a8b1c545cb67e60c193956d20ac]: Commencement: Reg. 14 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+
+[^c23647721]: Marginal citation: Regulation 3 was amended by S.R. [2016 No. 343](https://www.legislation.gov.uk/ukcm/2016/343).
+
+[^key-85f28f1c34922434f2851bec1d65f684]: Commencement: Reg. 15 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+
+[^c23647731]: Marginal citation: Regulation 5 was amended by S.R. [2016 No.343](https://www.legislation.gov.uk/ukcm/2016/343).
+
+[^key-f84612279aed130e4997bf267eb4b31f]: Textual amendment: [Pt. 4](https://www.legislation.gov.uk/uksi/2019/596/part/4) omitted (11.6.2024) by virtue of [The Goods Vehicles (International Road Transport Permits and Haulage Within the EU) Regulations 2024 (S.I. 2024/679)](https://www.legislation.gov.uk/uksi/2024/679), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2024/679/regulation/1/b), [30(3)](https://www.legislation.gov.uk/uksi/2024/679/regulation/30/3)
+
+[^c23647751]: Marginal citation: [S.I. 2008/2698](https://www.legislation.gov.uk/uksi/2008/2698). Rule 23 was amended by [S.I. 2009/1975](https://www.legislation.gov.uk/uksi/2009/1975), 2010/44, 2012/1363, 2015/1510, 2017/723.

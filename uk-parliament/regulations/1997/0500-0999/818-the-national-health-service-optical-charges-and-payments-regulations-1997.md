@@ -1,0 +1,754 @@
+---
+title: The National Health Service (Optical Charges and Payments) Regulations 1997
+id: uksi/1997/818
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised-with-pending-changes
+made_date: '1997-03-13'
+text_date: '1999-10-05'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/1997/818
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1997/818/data.pdf
+pending_changes: 537
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The National Health Service (Optical Charges and Payments) Regulations 1997
+
+> **Warning: changes not yet applied to this text (537).** Text as at 1999-10-05. See https://www.legislation.gov.uk/changes/affected/uksi/1997/818
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+1997 No. 818
+
+NATIONAL HEALTH SERVICE, ENGLAND AND WALES
+
+The National Health Service (Optical Charges and Payments) Regulations 1997
+
+Made
+
+13th March 1997
+
+Laid before Parliament
+
+14th March 1997
+
+Coming into force
+
+1st April 1997
+
+The Secretary of State for Health, in exercise of powers conferred on him by sections 38(1), 39, 78(1) and 128(1) of, and paragraphs 2 and 2A of Schedule 12 to, the National Health Service Act 1977[^f00001] and of all other powers enabling him in that behalf, hereby makes the following Regulations:—
+
+## PART I — GENERAL
+
+### 1. Citation, commencement and interpretation[^key-b0001792362e03e327175740eb35a7dd]
+
+(1) These Regulations may be cited as the National Health Service (Optical Charges and Payments) Regulations 1997 and shall come into force on 1st April 1997.
+
+(2) In these Regulations, unless the context otherwise requires—
+
+- “the Act” means the National Health Service Act 1977;
+- “amount withdrawn” means the amount by which the appropriate maximum disabled person’s tax credit or, as the case may be, working families' tax credit, determined in accordance with section 129(8) or 128(5) of the Social Security Contributions and Benefits Act 1992, as the case may be, is reduced by virtue of the claimant’s income exceeding the applicable amount;[^key-c507a0baa1093761f26e0925756ee810]
+- “capital limit” means the amount prescribed for the purposes of section 134(1) of the Social Security Contributions and Benefits Act 1992[^f00002] as it applies to income support;
+- “child” means a person who is under the age of 16 years;
+- “complex appliance” means an optical appliance at least one lens of which—
+  - (a) has a power in any one meridian of plus or minus 10 or more dioptres, or
+  - (b) is a prism-controlled bifocal lens;
+- “disabled person’s tax credit” means disabled person’s tax credit under section 129 of the Social Security Contributions and Benefits Act 1992;[^key-c0fcce945d5739ac0a5d5a8e192d28a5]
+- “eligible person” is to be construed—
+  - (a) for the purposes of Part III, in accordance with regulation 3(2);
+  - (b) for the purposes of Parts IV and V, in accordance with regulation 8(2) to (5);
+- “face value” means, in relation to a voucher on which is marked a letter code specified in column 2 of Schedule 1, the amount specified in relation to it in column 3 of that Schedule, plus the amount of any increase provided for by paragraph 1 of Schedule 2;
+- “an income-based jobseeker’s allowance” has the meaning given to it by section 1(4) of the Jobseekers Act 1995[^f00004];
+- “income support” means income support under Part VII of the Social Security Contributions and Benefits Act 1992;
+- “minimum complex appliance payment” means, in relation to an optical appliance, the amount specified as such for the appliance in paragraph 2 of Schedule 2;
+- “NHS sight test fee” means, in relation to a testing of a patient’s sight carried out either by an ophthalmic medical practitioner or by an optician—
+  - (a) at a place where the patient normally resides, an amount of £40.33[^key-ee08a2530bfcb4cc2e3b647bc7efc6ed], or
+  - (b) in any other case, an amount of £14.57;
+- “notice of entitlement” means a notice issued under regulation 7 of the Remission Regulations for the purposes of remission of charges under the Act;
+- “ophthalmic list” means a list, prepared and published pursuant to regulations made under section 39(a) of the Act of medical practitioners and opticians who undertake to provide general ophthalmic services[^f00005];
+- “Ophthalmic Services Regulations” means the National Health Service (General Ophthalmic Services) Regulations 1986[^f00006];
+- “optician” means an ophthalmic optician;
+- “patient” means a person whose sight has been tested whether under the Act or otherwise;
+- “patient’s contribution” is to be construed as follows—
+  - (a) for the purposes of Parts III, IV and V, where a patient’s resources are less than his requirements, the contribution shall be nil;
+  - (b) for the purposes of Part III, where the patient’s resources exceed his requirements, the contribution shall be an amount equal to that excess;
+  - (c) for the purposes of Parts IV and V, where the patient’s resources exceed his requirements, the contribution shall be an amount equal to twice that excess;
+- “patient’s resources” means a person’s resources as calculated in accordance with regulation 6 of, and Schedule 1 to, the Remission Regulations;
+- “redemption value” is to be construed—
+  - (a) for the purposes of Part III, in accordance with regulation 7;
+  - (b) for the purposes of Part IV, in accordance with regulation 14;
+  - (c) for the purposes of Part V, in accordance with regulation 19;
+- “the 1989 Regulations” means the National Health Service (Optical Charges and Payments) Regulations 1989[^f00007];
+- “the Remission Regulations” means the National Health Service (Travelling Expenses and Remission of Charges) Regulations 1988[^f00008] and a reference to those Regulations is to be construed as a reference to them as they have effect on the making of these Regulations and as amended subsequently;
+- “replacement” does not include the replacement of an optical appliance rendered unserviceable by fair wear and tear;
+- “responsible authority” means—
+  - (a) in relation to a voucher completed pursuant to regulation 4, the Health Authority for the area in which the testing of sight to which it relates takes place;
+  - (b) in relation to a voucher issued pursuant to regulation 9 or completed pursuant to regulation 16 otherwise than by an NHS trust [^f00009], the Health Authority for the area in which the supply, replacement or repair of the optical appliance to which it relates takes or is to take place;
+  - (c) in relation to a voucher issued pursuant to regulation 10 or completed pursuant to regulation 16 by an NHS trust, the Health Authority in whose area the patient resides;
+  - (d) in relation to a payment made pursuant to regulation 6, the Health Authority for the area in which the testing of sight took place;
+  - (e) in relation to a payment made pursuant to regulation 20 otherwise than by an NHS trust, the Health Authority for the area in which the supply, replacement or repair of the optical appliance to which it relates took place;
+  - (f) in relation to a payment made pursuant to regulation 20 by an NHS trust, the Health Authority in whose area the patient resides;
+- “small glasses” means glasses–[^key-2dda0614ab93f44342533e9dc93dff88]
+  - (a) prescribed for a child who is under the age of 7 years at the date of issue of a voucher relating to those glasses where the voucher is issued on the same occasion as the prescription relating to those glasses is issued;
+  - (b) having a frame which is either custom made or a stock frame requiring extensive adaptation to ensure an adequate fit; and
+  - (c) having a boxed centre distance of no more than 55 millimetres, and for this purpose “box centre” is to be construed in accordance with Part 1 of British Standard 3521/91 (Terms relating to ophthalmic optics and spectacles frames) published by the British Standards Institution as effective immediately before 8th March 1999;
+- “supplier” includes a person replacing or repairing an optical appliance;
+- “supply” includes the replacement of an optical appliance rendered unserviceable by fair wear and tear;
+- “voucher” for the purposes of enabling a payment to be made under these Regulations, means—
+  - (a) in Part III, a voucher form supplied to those whose names are included in an ophthalmic list by the Secretary of State;
+  - (b) in Part IV, a voucher form supplied—
+    - (i) where a testing of sight is carried out otherwise than by an NHS trust, by the Secretary of State to the person who carries it out;
+    - (ii) where a testing of sight is carried out by an NHS trust, by that NHS trust;
+  - (c) in Part V, a voucher form supplied to a supplier, by the Secretary of State;
+- “working families' tax credit” means working families' tax credit under section 128 of the Social Security Contributions and Benefits Act 1992[^key-b6eb4f1d3b479a91d1eb8e140c8d5192].
+
+(3) For the purposes of Schedule 1—
+
+- (a) where an optical appliance has lenses described in different paragraphs in column 1 of Schedule 1, the face value of a voucher for the appliance shall be determined according to whichever lens would provide the greater face value; and
+- (b) subject to sub-paragraph (bb),[^key-0362c963a525afbe6d3dec82f682da8e] where an optical appliance has a bifocal lens, the power of the lens shall be determined according to the power of that segment of the lens designed to correct a defect in distant sight; and
+- (bb)[^key-21e509755610c8e084cb9b34e750ea3b] where an optical appliance has a bifocal lens, the reading segment of which is more than 4 dioptres more powerful than the distance segment, the power of the lens shall be determined according to the power of the reading segment; and
+- (c) a monocle shall be treated as though it were glasses.
+
+(4) In these Regulations, unless the context otherwise requires, a reference—
+
+- (a) to a numbered regulation, Part or Schedule is to the regulation in, Part of, or Schedule to, these Regulations bearing that number;
+- (b) in a regulation to a numbered paragraph is to the paragraph in that regulation bearing that number;
+- (c) in Schedule 1 to a numbered paragraph is to the paragraph in column 1 in that Schedule bearing that number.
+
+*Extent: W*
+
+(5)[^key-5ce3a439a9625ef4cb066b42adbe3db2] In respect of paragraph (2) of this regulation and regulation 8 the amendments made by the National Health Service (Optical Charges and Payments) and (General Ophthalmic Services) Regulations 1999 shall also have effect in Wales.
+
+## PART II — CHARGES
+
+### 2. Charges for glasses and contact lenses[^key-b366c6c62e068115f0725c75749befce]
+
+(1) A charge of such sum as may be determined by or in accordance with directions given by the Secretary of State shall be made and recovered in accordance with paragraph (2) in respect of the supply of glasses and contact lenses under the Act.
+
+(2) Where a charge is payable by virtue of paragraph (1), the NHS trust, or other person on its behalf, that supplies or is to supply the glasses or contact lenses may—
+
+- (a) on arranging to supply the glasses or contact lenses, make the charge; and
+- (b) on supplying the glasses or contact lenses or having them available for supply, recover the charge from the patient (if it has not previously been paid).
+
+## PART III — PAYMENTS TOWARDS COST OF SIGHT TESTS
+
+### 3. Eligibility—sight tests[^key-1299f44c3dc48d6f3c784da61868bf6b]
+
+(1) A payment shall be made as provided for by this Part of these Regulations to contribute to the cost of a testing of sight which the responsible authority accepts as having been incurred by an eligible person.
+
+(2) An eligible person is a person whose income resources, as calculated in accordance with regulation 6 of, and Schedule 1 to, the Remission Regulations for the purposes of remission of charges under the Act, exceed his requirements as so calculated, but whose patient’s contribution does not exceed the NHS sight test fee and whose capital resources as so calculated do not exceed the capital limit.
+
+### 4. Completion and use of voucher—sight tests[^key-8c62c2d777a99e068e20288176112fa2]
+
+(1) A person who wishes a payment to be made by virtue of this regulation in his case shall—
+
+- (a) apply to the Secretary of State for a notice of entitlement;
+- (b) apply for his sight to be tested by an ophthalmic medical practitioner or optician whose name is included in an ophthalmic list;
+- (c) indicate to that practitioner or optician that he is an eligible person at the time of the application;
+- (d) show to him a current notice of entitlement and permit him to copy such details as may be required for the purposes of regulation 5(2)(b)(ii).
+
+(2) The ophthalmic medical practitioner or optician may then duly complete the relevant parts of the voucher with the name and address of the patient, the patient’s date of birth and the date of the testing of sight.
+
+(3) The person whose sight is or is to be tested shall sign on the voucher a declaration in writing to the effect that he is an eligible person.
+
+(4) The ophthalmic medical practitioner or optician may use the voucher as being in substitution for payment by the patient of an amount equal to its redemption value, being part of the cost incurred for the testing of sight.
+
+### 5. Payments to sight testers[^key-4db37a76af8ad8a37d6c5775b4b0889c]
+
+(1) The responsible authority shall, if the conditions specified in paragraph (2) are fulfilled, make a payment of the voucher’s redemption value to an ophthalmic medical practitioner or optician who has used a voucher in accordance with regulation 4(4).
+
+(2) The conditions specified in paragraph (1) are that—
+
+- (a) the patient has signed the declaration referred to in regulation 4(3);
+- (b) the ophthalmic medical practitioner or optician has—
+  - (i) made a claim for a payment on a duly completed voucher to the responsible authority within the period of three months beginning with the date of the testing of sight; and
+  - (ii) informed the responsible authority of the amount of the patient’s contribution.
+
+### 6. Payments to patients in respect of sight tests[^key-86833db4b86ba59b3c13e310dd3d4fab]
+
+(1) A payment may be made under this regulation by the responsible authority to an eligible person who incurs the cost of a testing of sight by an ophthalmic medical practitioner or optician whose name is included in an ophthalmic list, without a voucher being completed in accordance with regulation 4.
+
+(2) A patient who wishes to receive a payment under this regulation must—
+
+- (a) make a claim to the Secretary of State for a payment within three months after the date of the sight test, or within such further period as the Secretary of State may for good cause allow, and that claim must be made on a form provided by or on behalf of the Secretary of State for that purpose; and
+- (b) produce such evidence as the Secretary of State may reasonably require in support of the claim including the receipt for any fee paid for the testing of sight.
+
+(3) Where the Secretary of State is satisfied that the patient is entitled to a payment under paragraph (1) he shall authorise in writing the payment of the amount in question to the patient by the responsible authority.
+
+(4) On receipt of an authorisation under paragraph (3), the responsible authority shall make a payment to the patient of an amount equal to the redemption value of the voucher which could have been completed under regulation 4 if the patient had satisfied the requirements of regulation 4(1).
+
+### 7. Redemption value of voucher for sight test[^key-3d7b8ba99228484bb2c24b15c48edee0]
+
+— For the purposes of this Part of these Regulations the redemption value of a voucher is the amount, if any, by which the patient’s contribution falls short of the lesser of—
+
+- (a) the NHS sight test fee; or
+- (b) the full cost which would have been incurred by the patient for the sight test but for these Regulations.
+
+## PART IV — PAYMENTS FOR COST OF SUPPLY OF OPTICAL APPLIANCES
+
+### 8. Eligibility—supply of optical appliances[^key-0fb38d5b62c725933f190df142210ba1]
+
+(1) A payment shall be made as provided for by this Part of these Regulations to meet, or to contribute towards, the cost incurred (whether by way of charge under the Act or otherwise) for the supply of an optical appliance for which a prescription has been given in consequence of a testing of sight of an eligible person—
+
+- (a) which took place under the Act; or
+- (b) which took place otherwise than under the Act.
+
+(2) An eligible person is a person who at the time of the payment for[^key-580408c37e9ac1c1811233e53c488047] the supply of the optical appliance is any of the following—
+
+- (a) a child;
+- (b) a person under the age of 19 years and receiving qualifying full-time education within the meaning of paragraph 7 of Schedule 12 to the Act[^f00010];
+- (c) a person whose resources are treated, in accordance with paragraph (3), as being less than his requirements;
+- (d) a person whose income resources, as calculated in accordance with regulation 6 of, and Schedule 1 to, the Remission Regulations for the purposes of remission of charges under the Act, are equal to or exceed his requirements as so calculated but whose patient’s contribution is nil or is less than the face value of a voucher issued to him under this Part of these Regulations and whose capital resources do not exceed the capital limit;
+- (e) a person for whom a prescription is issued for a complex appliance.
+
+(3) A person’s resources shall be treated as being less than his requirements if—
+
+- (a) he is in receipt of income support;
+- (b) he is a member of the same family as a person who is in receipt of income support;
+- (c)[^key-fce2db5e44d36007f14ea6a4e2ed6c83] he is in receipt of working families' tax credit with an amount withdrawn of £70 or less;
+- (d)[^key-925d3e0d6440366f40a7db45688463c8] he is a member of the same family as a person described in paragraph (c) of this paragraph;
+- (e) his income resources as calculated in accordance with regulation 6 of, and Schedule 1 to, the Remission Regulations for the purposes of remission of charges under the Act, are less than his requirements as so calculated and his capital resources as so calculated do not exceed the capital limit;
+- (f) he is a member of the same family as a person described in paragraph (e) of this paragraph;
+- (g)[^key-1a10dd971ef8c3cf8a1e9c8e2553fadf] he is in receipt of disabled person’s tax credit with an amount withdrawn of £70 or less;
+- (h) he is a member of the same family as a person described in sub-paragraph (g) of this paragraph;
+- (i) he is in receipt of an income-based jobseeker’s allowance; or
+- (j) he is a member of the same family as a person described in sub-paragraph (i) of this paragraph.
+
+(4) In paragraph (3), “family” (in references to membership of the same family) has the meaning given to it by section 137(1) of the Social Security Contributions and Benefits Act 1992[^f00011]—
+
+- (a) as it applies to income support[^f00012], in the case of paragraph (3)(b) and (f);
+- (b) as it applies to working families' tax credit[^key-8e2517fc52e69c8221d69793c7ae4038], in the case of paragraph (3)(d); and
+- (c) as it applies to disabled person’s tax credit[^key-e0df1a2fab691c8bf9002799bf98fca4], in the case of paragraph (3)(h)
+
+and has the meaning given to it by section 35 of the Jobseekers Act 1995[^f00015] in the case of paragraph (3)(j).
+
+(5) For the purposes of regulation 10 and other provisions of this Part of these Regulations as they apply to payments where the testing of sight was by an NHS trust, a person is also an eligible person if, because of the frequency with which the condition of his eyes changes, he is considered by the NHS trust to be non-tolerant of his existing optical appliance.
+
+### 9. Issue of vouchers by ophthalmic medical practitioners or opticians[^key-a7396980284ea12e8db9a3e185ac72ff]
+
+(1) An ophthalmic medical practitioner or optician who, following a testing of sight under the Ophthalmic Services Regulations, issues a prescription for an optical appliance to a patient—
+
+- (a) who has indicated that he is an eligible person; or
+- (b) who (whether or not he has so indicated) is issued with a prescription for a complex appliance,
+
+shall, in the circumstances described in paragraph (3) but subject to paragraph (4), issue to the patient a voucher relating to the optical appliance prescribed on the same occasion as he issues the prescription in accordance with paragraph 10(1) of Schedule 1 of the Ophthalmic Services Regulations.
+
+(1A)[^key-f1ae65ca3a0dcf0d024366e48cd836e4] Where–
+
+- (a) a patient has been supplied with an optical device following a testing of sight under the Ophthalmic Services Regulations or otherwise;
+- (b) the patient has indicated that he is an eligible person; and
+- (c) the ophthalmic medical practitioner or optician, having consulted any records which he has relating to the patient and having made such enquiry of the patient as he considers relevant, is satisfied that–
+  - (i) the prescription relating to the patient’s existing optical appliance is unchanged; and
+  - (ii) the patient requires a new optical appliance because his existing appliance has been rendered unserviceable by fair wear and tear,
+
+  the ophthalmic medical practitioner or optician may issue to the patient, in accordance with paragraph (2), a voucher relating to the optical appliance prescribed by the prescription.
+
+(1B) Where–
+
+- (a) a patient has been issued with a prescription following a testing of sight under the Ophthalmic Services Regulations or otherwise;
+- (b) the patient has indicated that, following the issue of the prescription, he has become an eligible person; and
+- (c) an ophthalmic medical practitioner or optician, having consulted any records which he has relating to the patient and having made such enquiry of the patient as he considers relevant, is satisfied that–
+  - (i) no voucher has been issued in respect of the prescription; and
+  - (ii) the prescription is unchanged,
+
+  the ophthalmic medical practitioner or optician may issue to the patient a voucher relating to the optical appliance prescribed by the prescription.
+
+(2) The ophthalmic medical practitioner or optician issuing the voucher shall sign it and shall—
+
+- (a) mark on it the letter code specified in column 2 of Schedule 1 which relates to the type of optical appliance prescribed as set out in column 1 of that Schedule;
+- (b) duly complete the relevant parts of the voucher with the name and address of the patient, the patient’s date of birth, particulars of the prescription issued to the patient, the date on which the patient’s sight was tested and the date of issue of the voucher.
+
+(3) The circumstances referred to in paragraph (1) are where the ophthalmic medical practitioner or optician, having consulted any records which he has relating to the patient and made such enquiry of the patient as he considers relevant, is satisfied that—
+
+- (a) the patient requires an optical appliance for the first time or an optical appliance to a prescription the particulars of which differ from those relating to his existing appliance; or
+- (b) the patient requires an optical appliance because his existing optical appliance has been rendered unserviceable by fair wear and tear.
+
+(4) Where a patient requires an optical appliance to a prescription the particulars of which differ from those relating to his existing appliance only because the patient is non-tolerant of that appliance, and has been so since it was supplied to him, no voucher shall be issued unless the health authority responsible for the arrangements for the sight test, being satisfied that the prescription for that existing appliance was clinically correct, has authorised the issue of a voucher.
+
+(5) Unless paragraph (1A) or[^key-441cefe23cc18cc63d32cbacbd53f70f] regulation 11 applies, not more than one voucher shall be issued to a patient in respect of any one optical appliance prescribed.
+
+### 10. Issue of vouchers by NHS trusts[^key-412bfe56a873e75fe675417d99be9a57]
+
+(1) An NHS trust which, following a testing of sight, issues a prescription for an optical appliance to a patient—
+
+- (a) who has indicated that he is an eligible person;
+- (b) who (whether or not he has so indicated) is issued with a prescription for a complex appliance; or
+- (c) who is an eligible person by virtue of regulation 8(5),
+
+shall issue to the patient a voucher relating to the optical appliance prescribed.
+
+(2) The NHS trust issuing the voucher shall—
+
+- (a) mark on it the letter code specified in column 2 of Schedule 1 which relates to the type of optical appliance prescribed as set out in column 1 of that Schedule;
+- (b) duly complete the relevant parts of the voucher with the name and address of the patient, the patient’s date of birth, particulars of the prescription issued to the patient, the date on which the patient’s sight was tested and the date of issue of the voucher.
+
+### 11. Issue of replacement vouchers by Health Authorities or NHS trusts[^key-40dd967cb5c0b5b48d0e7f3845f5d57e]
+
+Where, on an application by a patient within 2 years of a voucher having been issued to him under regulation 9(1) or 10(1), a Health Authority or NHS trust is satisfied, having made such enquiries as it considers relevant, that the voucher has been lost or destroyed without having been presented to a supplier of optical appliances, it may authorise an ophthalmic medical practitioner or optician to issue to the patient a replacement voucher completed in accordance with regulation 9(2)(a) and (b) or 10(2)(a) and (b), but with the date of issue of the voucher being that on which the replacement is issued.
+
+### 12. Use of vouchers for supply of optical appliances[^key-97d703cf1b569c0f3040467751e9016d]
+
+(1) Subject to paragraphs (4) and (5), a patient to whom a voucher, duly completed in accordance with regulation 9, 10 or 11, has been issued may present it to a supplier who supplies or is to supply him with an optical appliance, provided that the arrangements for supply are made within 2 years[^key-477c8be92877eccd12dccd77afbc4cff] of the date on which the voucher was issued.
+
+(2) A supplier may accept the voucher in substitution for payment by the patient of an amount equal to its redemption value, being the whole or part of the cost incurred for the supply of an optical appliance.
+
+(3) A voucher relating to glasses may be accepted in connection with the supply of contact lenses.
+
+(4) Before presenting the voucher to the supplier the patient shall sign on the voucher—
+
+- (a) a declaration in writing to the effect that he is an eligible person, indicating the grounds of his eligibility;
+- (b) an undertaking in writing to the effect that, if he is unable to show that he is an eligible person, he will pay to the responsible authority an amount equal to the voucher’s redemption value.
+
+(5) A patient who is an eligible person only by virtue of regulation 8(2)(d) or by virtue of his resources being treated in accordance with regulation 8(3)(e) or (f) as being less than his requirements shall—
+
+- (a) before presenting the voucher to the supplier, apply to the Secretary of State for a notice of entitlement; and
+- (b) on the same occasion as he presents the supplier with a voucher in accordance with paragraph (1), show a current notice of entitlement to the supplier and permit him to copy such details as may be required for the purposes of regulation 13(2)(c)(iii).
+
+### 13. Payments to suppliers[^key-774b6da1df6a56d9d185806f7e408c3b]
+
+(1) Except where it was the supplier, the responsible authority shall, if the conditions specified in paragraph (2) are fulfilled, make a payment of a voucher’s redemption value to a supplier who has accepted the voucher from a patient in accordance with regulation 12.
+
+(2) The conditions referred to in paragraph (1) are that—
+
+- (a) the patient has signed the declaration and undertaking referred to in regulation 12(4) and acknowledged receipt on the voucher of the optical appliance supplied to him;
+- (b) the optical appliance is not sold or supplied in contravention of section 27(1)[^key-7708c9d82f78326fa913cc216706a47c] of the Opticians Act 1989[^f00016];
+- (c) the supplier has—
+  - (i) made and kept a written record of the supply and issued to the patient a receipt for any money received from the patient,
+  - (ii) made a claim for a payment on a duly completed voucher to the responsible authority, within the period of 3 months beginning with the date of supply of the optical appliance,
+  - (iii) where the patient has shown a notice of entitlement to him, informed the responsible authority of the amount of the patient’s contribution, if any, and
+  - (iv) where the claim relates to a voucher the value of which is increased in accordance with paragraph 1(1)(e) of Schedule 2, certified that the glasses supplied were small glasses.
+
+### 14. Redemption value of voucher for supply of optical appliances[^key-f50fdbb0e0bcdbf1467fc25190e54745]
+
+(1) Where an optical appliance was supplied otherwise than under the Act the redemption value of a voucher is, subject to paragraphs (3) to (5), the lesser of—
+
+- (a) the full cost which would have been payable by the patient for the supply but for this Part of these Regulations;
+- (b) the face value of the voucher;
+
+(2) Where an optical appliance was supplied under the Act, the redemption value of a voucher is, subject to paragraphs (3) to (5), the lesser of—
+
+- (a) the amount of the charge for the time being determined pursuant to regulation 2 which would have been payable by the patient for the supply but for this Part of these Regulations;
+- (b) the face value of the voucher.
+
+(3) In relation to payments to be made because of a person’s eligibility by virtue of regulation 8(2)(d), the amounts taken for the purposes of paragraph (1)(a) and (b) or paragraph (2)(a) and (b) shall, subject to paragraph (4), be reduced by the amount of the patient’s contribution.
+
+(4) If a reduction made under paragraph (3) in the case of a patient for whom a prescription was issued for a complex appliance would render the redemption value of the voucher less than the minimum complex appliance payment, that value shall be the minimum complex appliance payment.
+
+(5) Where the patient was an eligible person only because a prescription was issued for him for a complex appliance, the redemption value of a voucher shall be the minimum complex appliance payment, except that where—
+
+- (a) the appliance was supplied under the Act; and
+- (b) in accordance with directions given pursuant to regulation 2(1), the amount of a charge made for the supply would, but for any maximum charge specified in the directions, have exceeded by any amount the charge actually made,
+
+the redemption value shall be reduced by the amount of the excess.
+
+## PART V — PAYMENTS FOR COST OF REPLACEMENT OR REPAIR OF OPTICAL APPLIANCES
+
+### 15. Eligibility—replacement or repair[^key-0791408871e0226c2abf3269eb5fbed9]
+
+(1) A payment shall be made as provided for by this Part of these Regulations to meet, or contribute towards, any cost accepted by the responsible authority as having been incurred (whether by way of charge under the Act or otherwise) for the replacement or repair of an optical appliance for which a prescription is given in consequence of a testing of sight of—
+
+- (a) a child, where the appliance needs replacement or repair in consequence of loss or damage;
+- (b) a person of any description specified in regulation 8(2)(c), (d) or (e) suffering from illness, where the appliance needs replacement or repair in consequence of its loss or damage and the responsible authority is satisfied, after making such enquiries as it considers relevant, that the loss or damage would not have occurred but for that illness.
+
+(2) No payment shall be made by virtue of paragraph (1)(a) or (b) unless the responsible authority is satisfied, after making such enquiries as it considers relevant, that the full cost of replacement or repair cannot be met under the terms of any warranty, insurance or other arrangement made with its supplier or manufacturer.
+
+### 16. Completion of vouchers[^key-c9daa5214cfd27abb9c594a76d573b74]
+
+(1) A patient who considers that a payment may be made under this Part of these Regulations in his case in respect of the replacement or repair of his optical appliance may indicate to the supplier that he wishes such a payment may be made.
+
+(2) In the case of a replacement, the supplier may—
+
+- (a) mark on a voucher the letter code specified in column 2 of Schedule 1 which relates to the type of optical appliance to be replaced as set out in column 1 of that Schedule;
+- (b) duly complete the relevant parts of the voucher with the name and address of the patient, the patient’s date of birth and the date of issue of the voucher.
+
+(3) In the case of a repair, the supplier may—
+
+- (a) mark on a voucher the letter code specified in column 2 of Schedule 1 which relates to the type of optical appliance to be repaired as set out in column 1 of that Schedule;
+- (b) indicate on the voucher the nature of the repair of the appliance to be undertaken and, in particular, whether it comprises—
+  - (i) the replacement or repair of one or more lenses included in the appliance, and, if so of how many,
+  - (ii) the repair of a frame and, if so, whether it is of the whole frame, the front of a frame or one or both sides of a frame;
+- (c) duly complete the relevant parts of the voucher with the name and address of the patient, the patient’s date of birth and the date of issue of the voucher.
+
+(4) The patient shall sign on the voucher—
+
+- (a) a declaration in writing to the effect that he is an eligible person, indicating the grounds of his eligibility;
+- (b) a declaration in writing to the effect that the optical appliance cannot be replaced or repaired free of charge under the terms of any warranty, insurance or other arrangement made with its supplier or manufacturer; and
+- (c) an undertaking in writing to the effect that, if he is unable to show that he is an eligible person, he will pay to the responsible authority an amount equal to the voucher’s redemption value.
+
+(5) A patient who is an eligible person only by virtue of regulation 8(2)(d) or only by virtue of his resources being treated in accordance with regulation 8(3)(e) or (f) as being less than his requirements shall show a current notice of entitlement to the supplier and permit him to copy such details as may be required for the purposes of regulation 18(2)(b)(iv).
+
+(6) In a case to which regulation 15(1)(b) applies, a supplier intending to use the voucher under regulation 17 shall first submit it to the responsible authority so that it may be satisfied as to the circumstances in which the loss or damage occurred and give its approval to the use of the voucher.
+
+### 17. Use of vouchers for replacement or repair[^key-4886930e92bb3fe9e2ccd07b938ea5e8]
+
+The supplier may use the voucher as being in substitution for payment by the patient of an amount equal to its redemption value, being the whole or part of the cost incurred for the replacement or repair.
+
+### 18. Payments to suppliers for replacement or repair[^key-06c936caf13103ea22e6639cacb3a0e6]
+
+(1) Except where it was the supplier, the responsible authority shall, if the conditions specified in paragraph (2) are fulfilled, make a payment of a voucher’s redemption value to a supplier who has used a voucher in accordance with regulation 17.
+
+(2) The conditions referred to in paragraph (1) are that—
+
+- (a) the patient has signed the declarations and undertaking referred to in regulation 16(4) and acknowledged on the voucher that the optical appliance has been replaced or repaired; and
+- (b) the supplier has—
+  - (i) made and kept a written record of the replacement or repair and issued to the patient a receipt for any money received from the patient;
+  - (ii) obtained any prior approval required by regulation 16(6);
+  - (iii) made a claim for payment on a duly completed voucher to the responsible authority within the period of 3 months beginning with the date of the replacement or repair of the optical appliance; and
+  - (iv) where the person has shown a notice of entitlement to him, informed the responsible authority of the amount of the patient’s contribution, if any.
+
+### 19. Redemption value of voucher for replacement or repair[^key-ebe2fae881bcb802c59841646dcd009e]
+
+(1) Subject to paragraph (4), the redemption value of a voucher shall, in the case of a replacement, be the lesser of—
+
+- (a) the full cost which would have been payable by the patient for the replacement but for this Part of these Regulations;
+- (b) the face value of the voucher or, in the case of the replacement of one only of a pair of contact lenses, £42.00[^key-ef0ce2046dd00ad658e9474858943bd6].
+
+(2) Subject to paragraph (4), the redemption value of a voucher shall, in the case of the repair of an appliance, be the lesser of—
+
+- (a) the full cost which would have been payable by the patient for the repair but for this Part of these Regulations;
+- (b) the amount specified in column 2 of Schedule 3 which relates to the type of optical appliance repaired (identified in that column by reference to the relevant letter code as specified in Schedule 1) and to the nature of the repair specified in column 1 of Schedule 3, together with any increase provided for by Schedule 2.
+
+(3) Where more than one repair is made to an appliance the amount taken for the purposes of paragraph (2)(b) as being specified in Schedule 3 shall be the aggregate of the relevant amounts ascertained in accordance with Schedule 3, except that the element of the value of a voucher which relates to the repair of a frame shall not exceed £10.80[^key-797aac600265e2ee164c67fbd6018d21].
+
+(4) In the case of a person who was eligible for a payment to be made in his case only by virtue of regulation 8(2)(d), the amounts taken for the purpose of paragraphs (1)(a) and (b) and (2)(a) and (b) shall be reduced by the patient’s contribution.
+
+## PART VI — PAYMENTS TO PATIENTS IN RESPECT OF THE SUPPLY, REPLACEMENT OR REPAIR OF OPTICAL APPLIANCES
+
+**20.**[^key-3c0a8e8d8c3164022b5e7006d8057d2e] (1) A payment may be made under this regulation to a person of a description prescribed by regulation 8(2) or 15(1)[^key-0a14cad66c1fb3d9b496a90f46a9d273] who pays for the supply, replacement or repair of an optical appliance without exercising his right under regulation 9(1), 10(1) or 15(1) to a payment to meet or contribute towards the cost incurred for the supply, replacement or repair of such optical appliance.
+
+(2) A patient who wishes to receive a payment under this regulation must—
+
+- (a) make a claim to the Secretary of State if he considers that he falls within the description specified in regulation 8(2)(c) or (d); or
+- (b) in all other cases, make a claim to the responsible authority.
+
+(3) Subject to paragraph (3A),[^key-4aece6f7f661a4ffd9f19c15f3f51749] any such claim must be made within three months after the date of payment for[^key-bff33ddc8b8a14792f7dffecd0fe12a7] the supply, replacement or repair of the optical appliance, or within such further period as the Secretary of State or the responsible authority may for good cause allow, and that claim must be made on a form provided by or on behalf of the Secretary of State or the responsible authority for that purpose.
+
+(3A)[^key-fee3425cb8d88746d3f8445b6911abdf] Where a patient pays by instalments for the supply, replacement or repair of an optical appliance, any claim he makes under paragraph (2)(a) or (b) must be made within three months after the date of payment of the first instalment.
+
+(4) It is a further condition of entitlement to a payment under paragraph (1) that the patient produces in support of his claim such evidence as the Secretary of State or the responsible authority may reasonably require including the receipt for any fee paid for the supply, replacement or repair.
+
+(5) Subject to paragraph (7),[^key-6ba18d2349a2b72359c60f6836ede9bd] where the Secretary of State is satisfied that the patient is entitled to a payment as a result of a claim under paragraph (2)(a), he shall authorise in writing the payment of the amount in question to the patient by the responsible authority, and on receipt of such authorisation, the responsible authority shall make a payment to the patient of an amount equal to the redemption value of the voucher which could have been completed under regulations 9, 10 or 16 if the patient had satisfied the requirements of regulations 9(1), 10(1) or 16(4) as the case may be.
+
+(6) Subject to paragraph (7),[^key-64d24b8c6a9e43ac190955c47bc84dd8] where the responsible authority is satisfied that the patient is entitled to a payment as a result of a claim under paragraph (2)(b), it shall make a payment to the patient of an amount equal to the redemption value of the voucher which could have been completed under regulations 9, 10 or 16 if the patient had satisfied the requirements of regulations 9(1), 10(1) or 16(4) as the case may be.
+
+(7)[^key-79b6e519b03ea0154cbea38b9534dd4f] Where the responsible authority makes a payment under paragraph (5) or (6) to a patient who pays by instalments for the supply, replacement or repair of an optical appliance, that payment shall be made as soon as reasonably practicable after the date on which the total value of the instalments paid becomes equal to or greater than the redemption value of the voucher which could have been completed under regulation 9, 10 or 16 if the patient had satisfied the requirements of regulation 9(1), 10(1) or 16(4) as the case may be.
+
+## PART VII — MISCELLANEOUS
+
+### 21. Amounts wrongly paid[^key-52516d40058886079495badef0499a63]
+
+(1) Where a person who is not an eligible person declares on a voucher that he is an eligible person and in consequence the responsible authority makes a payment under these Regulations, the person who makes the declaration shall repay the amount of that payment to the responsible authority.
+
+(2) Where a supplier makes a claim for payment to the responsible authority, representing that the conditions specified in regulation 5(2), 13(2) or 18(2) are fulfilled, but those conditions are not fulfilled and the authority makes a payment to the supplier under these Regulations, it may recover the amount of that payment from the supplier
+
+### 22. Signatures and claims for payments[^key-a121701d97a70a1c3ae18a2d2b66cec4]
+
+(1) A signature required by these regulations may be given, and a claim for a payment pursuant to regulations 6 or 20 may be made—
+
+- (a) on behalf of a child by either parent or, in the absence of both parents, the guardian or other adult person who has the care of the child;
+- (b) on behalf of any other person who is incapable of giving the signature, by a relative or any other adult who has the care of that person; or
+- (c) on behalf of any person under 18 years of age—
+  - (i) looked after by a local authority within the meaning of section 22(1) of the Children Act 1989[^f00017], by a person duly authorised by that authority;
+  - (ii) accommodated by a voluntary organisation, by that organisation or a person duly authorised by them.
+
+### 23. Transitional Provisions[^key-1509ef00c2395fd23f1ec6464ebe5eda]
+
+(1) Where, before 1st April 1997, a person has been issued with a voucher pursuant to regulations 9, 10, 11 or 16 of the 1989 Regulations but that voucher has not been accepted or used before that date, then such a voucher may be accepted or used in accordance with the provisions of regulations 12 or 18 of the 1989 Regulations as though they remained in force.
+
+(2) The amounts specified in regulation 19(1)(b) and (3), column 3 of Schedule 1 and Schedules 2 and 3 shall apply only to a voucher accepted or used on or after 1st April 1997 pursuant to regulation 12 or regulation 17.
+
+(3) Where, before 1st April 1997, a person has made an application in pursuance of the provisions of regulation 6, 10 or 14 of the 1989 Regulations and his application has not been determined before that date, his application shall be determined in accordance with the provisions of those Regulations as though they remained in force.
+
+### 24. Revocations[^key-7f2a98e8aa6c0bb5dd7503498462f839]
+
+The Regulations specified in column (1) of Schedule 4 are revoked to the extent specified in column 3 of that Schedule.
+
+Signed by authority of the Secretary of State for Health
+
+Gerald Malone
+
+Minister of State
+
+Department of Health
+
+14th March 1997
+
+## SCHEDULE 1 — VOUCHER LETTER CODES AND FACE VALUES—SUPPLY AND REPLACEMENT[^key-6a4ec2b970e7fdc5c1c715276b204598]
+
+**Regulations 1(2), 9(2)(a), 10(2)(a) and 16(2)(a) and (3)(a)**
+
+| (1) Type of optical appliance | (2) Letter code | (3) Face value of voucher |
+| --- | --- | --- |
+| **1.** Glasses with single vision lenses of a spherical power of not more than 6 dioptres with a cylindrical power of not more than 2 dioptres. | A | £28.70 |
+| **2.** Glasses with single vision lenses–<br>- (a) of a spherical power of more than 6 dioptres but less than 10 dioptres with a cylindrical power of not more than 6 dioptres;<br>- (b) of a spherical power of less than 10 dioptres with a cylindrical power of more than 2 dioptres but not more than 6 dioptres. | B | £43.60 |
+| **3.** Glasses with single vision lenses of a spherical power of 10 or more dioptres but not more than 14 dioptres with a cylindrical power of not more than 6 dioptres. | C | £59.40 |
+| **4.** Glasses with single vision lenses–<br>- (a) of a spherical power of more than 14 dioptres with any cylindrical power;<br>- (b) of a cylindrical power of more than 6 dioptres with any spherical power. | D | £134.20 |
+| **5.** Glasses with bifocal lenses of a spherical power of not more than 6 dioptres with a cylindrical power of not more than 2 dioptres. | E | £49.50 |
+| **6.** Glasses with bifocal lenses–<br>- (a) of a spherical power of more than 6 dioptres but less than 10 dioptres with a cylindrical power of not more than 6 dioptres;<br>- (b) of a spherical power less than 10 dioptres with a cylindrical power of more than 2 dioptres but not more than 6 dioptres. | F | £63.00 |
+| **7.** Glasses with bifocal lenses of a spherical power of 10 or more dioptres but not more than 14 dioptres with a cylindrical power of not more than 6 dioptres; | G | £75.80 |
+| **8.** Glasses with prism-controlled bifocal lenses of any power or with bifocal lenses–<br>- (a) of a spherical power of more than 14 dioptres with any cylindrical power;<br>- (b) with a cylindrical power of more than 6 dioptres with any spherical power. | H | £147.50 |
+| **9.** Glasses not falling within any of paragraphs 1 to 8 for which a prescription is given in consequence of a testing of sight by an NHS trust. | I | £147.50 |
+| **10.** Contact lenses for which a prescription is given in consequence of a testing of sight by an NHS trust. | J | £42.00 |
+
+## SCHEDULE 2 — PRISMS, TINTS, PHOTOCHROMIC LENSES, SMALL AND SPECIAL GLASSES AND COMPLEX APPLIANCES
+
+Regulations 1(2), 19(2)(b)
+
+**1.**[^key-2b07455c7aec982e80417d710430759b] (1) The amounts in column 3 of Schedule 1 and column 2 of Schedule 3 and in paragraphs 2(a) and (b) of this Schedule shall be increased as follows—
+
+- (a) by £6.00[^key-2ac10225f28076fca2643a12135ff2aa] in respect of each single vision lens containing a necessary prism;
+- (b) by £6.90[^key-ec3ffe183035e262909ef160eb3fc63a] in respect of each other lens containing a necessary prism;
+- (c) by £3.00[^key-c868130c91a9c1a2f64379f0c1a6d881] in respect of each necessary single vision tinted or photochromic[^key-40945f785f6dadee35e773d692f165fc] lens;
+- (d) by £3.50[^key-f3cdbab07d775d476cda68ec5f3cdd4d] in respect of each necessary other tinted or photochromic[^key-2f07644032d200a108d8fe36d7c02bbb] lens;
+- (e) by £47.30[^key-43b21aa35bd7826a761ccc11d4ec7726] in the case of supply or replacement of the glasses or repair of the whole frame, by £42.00 in the case of repair of the front of the frame and £22.70 in the case of repair of a side of a frame in respect of small glasses;
+- (f)[^key-71966e560adacba2c04000f8acb96f04] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (g) where the voucher is issued or completed by an NHS trust, by £47.30[^key-9a822c102e403b04ad6a0f03735a053c] in respect of glasses the frame of which is certified by the NHS trust as being required to be specially manufactured on account of the patient’s facial characteristics.
+
+(2) The increases provided for by sub-paragraphs (1)(e) [^key-9a9136c8f7f7e19cf14bf72752e1b0a0]... and (g) of this paragraph do not apply in the case of a voucher relating to glasses if it is accepted in connection with the supply or replacement of contact lenses.
+
+(3) In sub-paragraph (1) of this paragraph “necessary” in relation to a prism or a tinted or photochromic lens means that the prism, tint or photochromic quality has been prescribed on the basis of clinical need.
+
+(4) Where the face value of a voucher is increased in accordance with sub-paragraph (1)(g) of this paragraph, it may not be further increased in accordance with sub-paragraph (1)(e) of this paragraph.
+
+**2.**[^M_I_b6f5159f-c8c6-4e8f-f4a2-0312dc02e742] The minimum complex appliance payment is—
+
+- (a) for a complex appliance with single vision lenses only, £10.00[^key-804e6daa86c32782ec99a8f51d026c9f];
+- (b) for any other complex appliance, £25.40[^key-a5cb3cc4b754e2cf20ecbebf966cd379];
+
+plus, in each case, the amount of any increase provided for by paragraph 1 of this Schedule.
+
+## SCHEDULE 3 — VOUCHER VALUES—REPAIR[^key-bd826c901de7f9771045528bcb3d890d]
+
+**Regulation 19(2) and (3)**
+
+<table>
+<thead>
+<tr><th>(1) Nature of Repair</th><th colspan="8">(2) Letter Codes—Values</th></tr>
+<tr><th></th><th>A</th><th>B</th><th>C</th><th>D</th><th>E</th><th>F</th><th>G</th><th>H &amp; I</th></tr>
+<tr><th></th><th>£</th><th>£</th><th>£</th><th>£</th><th>£</th><th>£</th><th>£</th><th>£</th></tr>
+</thead>
+<tbody>
+<tr><td>Repair or replacement of one lens</td><td>8.90</td><td>16.40</td><td>24.30</td><td>52.90</td><td>19.40</td><td>26.00</td><td>32.50</td><td>58.70</td></tr>
+<tr><td>Repair or replacement of two lenses</td><td>18.00</td><td>32.90</td><td>48.70</td><td>105.90</td><td>38.80</td><td>52.10</td><td>65.10</td><td>117.50</td></tr>
+<tr><td>Repair or replacement of:</td></tr>
+<tr><td>the front of a frame</td><td>9.20</td><td>9.20</td><td>9.20</td><td>9.20</td><td>9.20</td><td>9.20</td><td>9.20</td><td>9.20</td></tr>
+<tr><td>a side of a frame</td><td>5.50</td><td>5.50</td><td>5.50</td><td>5.50</td><td>5.50</td><td>5.50</td><td>5.50</td><td>5.50</td></tr>
+<tr><td>the whole frame</td><td>10.80</td><td>10.80</td><td>10.80</td><td>10.80</td><td>10.80</td><td>10.80</td><td>10.80</td><td>10.80</td></tr>
+</tbody>
+</table>
+
+## SCHEDULE 4[^key-366743ac74f27d440adaebf37108ee36]
+
+Regulation 24
+
+<table>
+<thead>
+<tr><th>1</th><th>2</th><th>3</th></tr>
+<tr><th>Regulations Revoked</th><th>Reference</th><th>Extent of revocation</th></tr>
+</thead>
+<tbody>
+<tr><td>The National Health Service (Optical Charges and Payments) Regulations 1989</td><td><a href="https://www.legislation.gov.uk/uksi/1989/396">S.I. 1989/396</a></td><td>The whole Regulations</td></tr>
+<tr><td>The National Health Service (Optical Charges and Payments) Amendment Regulations 1990</td><td><a href="https://www.legislation.gov.uk/uksi/1990/495">S.I. 1990/495</a></td><td>The whole Regulations</td></tr>
+<tr><td>The National Health Service (Optical Charges and Payments) (Miscellaneous Amendments) Regulations 1991</td><td><a href="https://www.legislation.gov.uk/uksi/1991/583">S.I. 1991/583</a></td><td>The whole Regulations except regulations 9 and 10</td></tr>
+<tr><td>The National Health Service (Optical Charges and Payments) Amendment Regulations 1991</td><td><a href="https://www.legislation.gov.uk/uksi/1991/1680">S.I. 1991/1680</a></td><td>The whole Regulations</td></tr>
+<tr><td>The National Health Service (Optical Charges and Payments) Amendment (No.2) Regulations 1991</td><td><a href="https://www.legislation.gov.uk/uksi/1991/2465">S.I. 1991/2465</a></td><td>The whole Regulations</td></tr>
+<tr><td>The National Health Service (Optical Charges and Payments) (Miscellaneous Amendments) Regulations 1992</td><td><a href="https://www.legislation.gov.uk/uksi/1992/404">S.I. 1992/404</a></td><td>The whole Regulations except regulation 5</td></tr>
+<tr><td>The National Health Service (Optical Charges and Payments) Amendment Regulations 1993</td><td><a href="https://www.legislation.gov.uk/uksi/1993/418">S.I. 1993/418</a></td><td>The whole Regulations</td></tr>
+<tr><td>The National Health Service (Optical Charges and Payments) Amendment Regulations 1994</td><td><a href="https://www.legislation.gov.uk/uksi/1994/131">S.I. 1994/131</a></td><td>The whole Regulations</td></tr>
+<tr><td>The National Health Service (Optical Charges and Payments) Amendment (No. 2) Regulations 1994</td><td><a href="https://www.legislation.gov.uk/uksi/1994/495">S.I. 1994/495</a></td><td>The whole Regulations</td></tr>
+<tr><td>The National Health Service (Optical Charges and Payments) Amendment (No. 3) Regulations 1994</td><td><a href="https://www.legislation.gov.uk/uksi/1994/2619">S.I. 1994/2619</a></td><td>The whole Regulations</td></tr>
+<tr><td>The National Health Service (Optical Charges and Payments) Amendment Regulations 1995</td><td><a href="https://www.legislation.gov.uk/uksi/1995/34">S.I. 1995/34</a></td><td>The whole Regulations</td></tr>
+<tr><td>The National Health Service (Optical Charges and Payments) Amendment (No. 2) Regulations 1995</td><td><a href="https://www.legislation.gov.uk/uksi/1995/691">S.I. 1995/691</a></td><td>The whole Regulations</td></tr>
+<tr><td>The National Health Service (Optical Charges and Payments) Amendment (No. 3) Regulations 1995</td><td><a href="https://www.legislation.gov.uk/uksi/1995/2307">S.I. 1995/2307</a></td><td>The whole Regulations</td></tr>
+<tr><td>The National Health Service (Optical Charges and Payments) Amendment Regulations 1996</td><td><a href="https://www.legislation.gov.uk/uksi/1996/582">S.I. 1996/582</a></td><td>The whole Regulations</td></tr>
+<tr><td>The National Health Service (Optical Charges and Payments) Amendment (No. 2) Regulations 1996</td><td><a href="https://www.legislation.gov.uk/uksi/1996/2328">S.I. 1996/2328</a></td><td>The whole Regulations</td></tr>
+<tr><td>The National Health Service (Optical Charges and Payments) Amendment (No. 3) Regulations 1996</td><td><a href="https://www.legislation.gov.uk/uksi/1996/2574">S.I. 1996/2574</a></td><td>The whole Regulations</td></tr>
+</tbody>
+</table>
+
+(This note is not part of the Regulations)
+
+These Regulations consolidate with amendments the National Health Service (Optical Charges and Payments) Regulations 1989 (“the 1989 Regulations”) which provide a scheme for payments to be made by Health Authorities and NHS trusts by means of a voucher system, in respect of costs incurred by certain categories of persons in connection with sight tests and the supply, replacement and repair of optical appliances.
+
+The 1989 Regulations and all subsequent amendments to them are revoked by regulations 24 and Schedule 4. The Regulations, contained in the instruments referred to in Schedule 4, which amended Regulations other than the 1989 Regulations remain in force.
+
+The amendments made to the 1989 Regulations are as follows:—
+
+- Amendments to update references to various enactments including, in particular, references to the Opticians Act 1958 (which has been replaced by the Opticians Act 1989); references in regulation 22 of the 1989 Regulations (signatures in respect of persons under disability) to the Children and Young Persons Act 1969 and the Child Care Act 1980 consequential on the introduction of the Children Act 1989, and references to the Social Security Act 1986 (which has now been replaced, in part, by the Social Security Contributions and Benefits Act 1992).
+- Amendments to the definition of “patients contribution” (regulation 1(2)) as a result of the abolition of the linkage between the patient’s contribution in respect of a sight test and the value of voucher for an optical appliance supplied under these Regulations. This linkage was previously contained in regulation 15(3) of the 1989 Regulations which is omitted in these Regulations. As a result of this amendment, any sight test conducted on or after 1st April 1997 will be a separate transaction from the optical appliance supplied as a result of that test. The changes, which will simplify the arrangements for helping people entitled to partial remission of their optical costs, ensure that no one eligible for help will pay more than they would have done had the arrangements under the 1989 Regulations continued.
+- Amendments to extend the payment provisions (regulation 6) for patients who are eligible for a contribution to be made towards the cost of their sight test (ie: those who are entitled to partial remission of National Health Service (NHS) charges) and to introduce payments (regulation 20) for patients who are entitled to a voucher towards the cost of the supply, replacement or repair of an optical appliance. Patients who establish entitlement to a voucher as at the date of the sight test, supply, replacement or repair of their optical appliance but who have paid a fee for that sight test, supply, replacement or repair may claim a payment within three months (which may be extended for good cause) of the sight test, supply, replacement or repair either by applying to the Secretary of State (where they have low income entitlement) or to the responsible authority in all other cases. In the case of sight tests, the amount of the payment will be calculated in accordance with regulation 7; in the case of supply of an optical appliance the amount of the payment will be calculated in accordance with regulation 14; and in the case of replacement or repair of an optical appliance the amount of the payment will be calculated in accordance with regulation 19.
+- Amendments to the voucher values specified in those regulations and schedules providing for the level of payment (regulation 20, and Schedules 1, 2 and 3) under the scheme. These amendments increase the value of the vouchers issued under the Regulations. All voucher values and supplements are increased by 2 per cent.
+
+British Standard 3521/91, referred to in regulation 1(2) of these Regulations, may be obtained from the British Standards Institution at 389 Chiswick High Road, London, W44AL.
+
+## Annotations
+
+[^f00001]: Footnote: [1977 c. 49](https://www.legislation.gov.uk/ukpga/1977/49). Section 38 was modified by [S.I. 1985/39](https://www.legislation.gov.uk/uksi/1985/39) and amended by section 1(3) of the Health and Social Security Act [1984 (c. 48)](https://www.legislation.gov.uk/ukpga/1984/48) (“the 1984 Act”) and by the Health and Medicines Act [1988 (c. 49)](https://www.legislation.gov.uk/ukpga/1988/49) (“the 1988 Act”), section 13; section 39 was modified by [S.I. 1985/39](https://www.legislation.gov.uk/uksi/1985/39) and amended by section 1(4) of, and paragraph 1 of Part I of Schedule 1 to, the 1984 Act and paragraph 52 of Schedule 1 of the Health Services Act [1980 (c. 53)](https://www.legislation.gov.uk/ukpga/1980/53); section 128(1) was amended by section 26(2)(g) and (i) of the National Health Service ad Community Care Act [1990 (c. 19)](https://www.legislation.gov.uk/ukpga/1990/19) and is cited for the definitions of “prescribed” and “regulations”. Paragraph 2(1) of Schedule 12 was substituted by the 1988 Act, Schedule 2, paragraph 8(1); and paragraph 2A of Schedule 12 was inserted by the 1984 Act, Schedule 1, Part I, paragraph 3 and amended by section 13(2) and (3) of the 1988 Act.
+
+[^key-b0001792362e03e327175740eb35a7dd]: Commencement: Reg. 1 in force at 1.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/818/regulation/1/1)
+
+[^key-c507a0baa1093761f26e0925756ee810]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/818/regulation/1/2) inserted (5.10.1999) by [The National Health Service (Optical Charges and Payments) and (General Ophthalmic Services) (Amendment) Regulations 1999 (S.I. 1999/2562)](https://www.legislation.gov.uk/uksi/1999/2562), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/2562/regulation/1/1), [2(1)(a)](https://www.legislation.gov.uk/uksi/1999/2562/regulation/2/1/a) (with [reg. 4](https://www.legislation.gov.uk/uksi/1999/2562/regulation/4))
+
+[^f00002]: Footnote: [1992 c. 4](https://www.legislation.gov.uk/ukpga/1992/4). The capital limit is prescribed for the purposes of income support in regulation 45 of [S.I. 1987/1967](https://www.legislation.gov.uk/uksi/1987/1967). Whilst £8,000 is applicable in most cases, there is a limit of £16,000 in certain cases prescribed in regulation 53(1B) of those Regulations. Regulation 45 was substituted by regulation 12(1)(a) of [S.I. 1996/462](https://www.legislation.gov.uk/uksi/1996/462), regulation 12(1)(b)(ii) of which also added regulation 53(1B).
+
+[^key-c0fcce945d5739ac0a5d5a8e192d28a5]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/818/regulation/1/2) substituted (5.10.1999) by [The National Health Service (Optical Charges and Payments) and (General Ophthalmic Services) (Amendment) Regulations 1999 (S.I. 1999/2562)](https://www.legislation.gov.uk/uksi/1999/2562), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/2562/regulation/1/1), [2(1)(b)](https://www.legislation.gov.uk/uksi/1999/2562/regulation/2/1/b) (with [reg. 4](https://www.legislation.gov.uk/uksi/1999/2562/regulation/4))
+
+[^f00004]: Footnote: [1995 c. 18](https://www.legislation.gov.uk/ukpga/1995/18).
+
+[^key-ee08a2530bfcb4cc2e3b647bc7efc6ed]: Textual amendment: Sums in reg. 1(2) substituted (1.4.1999) by [The National Health Service (Optical Charges and Payments) Amendment Regulations 1999 (S.I. 1999/609)](https://www.legislation.gov.uk/uksi/1999/609), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/609/regulation/1/1), [2(a)](https://www.legislation.gov.uk/uksi/1999/609/regulation/2/a)
+
+[^f00005]: Footnote: See [S.I. 1986/975](https://www.legislation.gov.uk/uksi/1986/975), regulation 6.
+
+[^f00006]: Footnote: [S.I. 1986/975](https://www.legislation.gov.uk/uksi/1986/975) amended by [S.I. 1988/486](https://www.legislation.gov.uk/uksi/1988/486), [1989/395](https://www.legislation.gov.uk/uksi/1989/395), [1989/1175](https://www.legislation.gov.uk/uksi/1989/1175), [1989/1230](https://www.legislation.gov.uk/uksi/1989/1230), [1990/1051](https://www.legislation.gov.uk/uksi/1990/1051), [1991/583](https://www.legislation.gov.uk/uksi/1991/583), [1995/558](https://www.legislation.gov.uk/uksi/1995/558), [1996/705](https://www.legislation.gov.uk/uksi/1996/705) and [1996/2320](https://www.legislation.gov.uk/uksi/1996/2320).
+
+[^f00007]: Footnote: [S.I. 1989/396](https://www.legislation.gov.uk/uksi/1989/396) was amended by [S.I. 1990/495](https://www.legislation.gov.uk/uksi/1990/495), [1991/583](https://www.legislation.gov.uk/uksi/1991/583), [1991/1690](https://www.legislation.gov.uk/uksi/1991/1690), [1991/2465](https://www.legislation.gov.uk/uksi/1991/2465), [1992/404](https://www.legislation.gov.uk/uksi/1992/404), [1993/418](https://www.legislation.gov.uk/uksi/1993/418), [1994/131](https://www.legislation.gov.uk/uksi/1994/131), [1994/495](https://www.legislation.gov.uk/uksi/1994/495), [1994/2619](https://www.legislation.gov.uk/uksi/1994/2619), [1995/34](https://www.legislation.gov.uk/uksi/1995/34), [1995/691](https://www.legislation.gov.uk/uksi/1995/691), [1995/2307](https://www.legislation.gov.uk/uksi/1995/2307), [1996/582](https://www.legislation.gov.uk/uksi/1996/582), [1996/2328](https://www.legislation.gov.uk/uksi/1996/2328) and [1996/2574](https://www.legislation.gov.uk/uksi/1996/2574).
+
+[^f00008]: Footnote: [S.I. 1988/551](https://www.legislation.gov.uk/uksi/1988/551) amended by [S.I. 1989/517](https://www.legislation.gov.uk/uksi/1989/517), [1989/614](https://www.legislation.gov.uk/uksi/1989/614), [1990/548](https://www.legislation.gov.uk/uksi/1990/548), [1990/1661](https://www.legislation.gov.uk/uksi/1990/1661), [1991/557](https://www.legislation.gov.uk/uksi/1991/557), [1991/1104](https://www.legislation.gov.uk/uksi/1991/1104), [1993/608](https://www.legislation.gov.uk/uksi/1993/608), [1995/642](https://www.legislation.gov.uk/uksi/1995/642), [1996/410](https://www.legislation.gov.uk/uksi/1996/410), [1996/1346](https://www.legislation.gov.uk/uksi/1996/1346), [1996/2362](https://www.legislation.gov.uk/uksi/1996/2362) and [1997/748](https://www.legislation.gov.uk/uksi/1997/748).
+
+[^f00009]: Footnote: *See* for the definition of “NHS Trust” section 128(1) of the National Health Service Act [1977 (c. 49)](https://www.legislation.gov.uk/ukpga/1977/49), as amended by section 26(2)(d) of the National Health Service and Community Care Act [1990 (c. 19)](https://www.legislation.gov.uk/ukpga/1990/19).
+
+[^key-2dda0614ab93f44342533e9dc93dff88]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/818/regulation/1/2) substituted (1.4.1999) by [The National Health Service (Optical Charges and Payments) Amendment Regulations 1999 (S.I. 1999/609)](https://www.legislation.gov.uk/uksi/1999/609), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/609/regulation/1/1), [2(b)](https://www.legislation.gov.uk/uksi/1999/609/regulation/2/b)
+
+[^key-b6eb4f1d3b479a91d1eb8e140c8d5192]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/818/regulation/1/2) substituted (5.10.1999) by [The National Health Service (Optical Charges and Payments) and (General Ophthalmic Services) (Amendment) Regulations 1999 (S.I. 1999/2562)](https://www.legislation.gov.uk/uksi/1999/2562), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/2562/regulation/1/1), [2(1)(c)](https://www.legislation.gov.uk/uksi/1999/2562/regulation/2/1/c) (with [reg. 4](https://www.legislation.gov.uk/uksi/1999/2562/regulation/4))
+
+[^key-0362c963a525afbe6d3dec82f682da8e]: Textual amendment: Words in [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/1997/818/regulation/1/3/b) inserted (1.4.1999) by [The National Health Service (Optical Charges and Payments) Amendment Regulations 1999 (S.I. 1999/609)](https://www.legislation.gov.uk/uksi/1999/609), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/609/regulation/1/1), [2(c)](https://www.legislation.gov.uk/uksi/1999/609/regulation/2/c)
+
+[^key-21e509755610c8e084cb9b34e750ea3b]: Textual amendment: [Reg. 1(3)(bb)](https://www.legislation.gov.uk/uksi/1997/818/regulation/1/3/bb) inserted (1.4.1999) by [The National Health Service (Optical Charges and Payments) Amendment Regulations 1999 (S.I. 1999/609)](https://www.legislation.gov.uk/uksi/1999/609), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/609/regulation/1/1), [2(d)](https://www.legislation.gov.uk/uksi/1999/609/regulation/2/d)
+
+[^key-5ce3a439a9625ef4cb066b42adbe3db2]: Textual amendment: [Reg. 1(5)](https://www.legislation.gov.uk/uksi/1997/818/regulation/1/5) inserted (W.) (5.10.1999) by [The National Health Service (Optical Charges and Payments) and (General Ophthalmic Services) Amendment (Wales) Regulations 1999 (S.I. 1999/2841)](https://www.legislation.gov.uk/wsi/1999/2841), [regs. 1(1)](https://www.legislation.gov.uk/wsi/1999/2841/regulation/1/1), [2](https://www.legislation.gov.uk/wsi/1999/2841/regulation/2) (with [reg. 4](https://www.legislation.gov.uk/wsi/1999/2841/regulation/4))
+
+[^key-b366c6c62e068115f0725c75749befce]: Commencement: Reg. 2 in force at 1.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/818/regulation/1/1)
+
+[^key-1299f44c3dc48d6f3c784da61868bf6b]: Commencement: Reg. 3 in force at 1.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/818/regulation/1/1)
+
+[^key-8c62c2d777a99e068e20288176112fa2]: Commencement: Reg. 4 in force at 1.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/818/regulation/1/1)
+
+[^key-4db37a76af8ad8a37d6c5775b4b0889c]: Commencement: Reg. 5 in force at 1.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/818/regulation/1/1)
+
+[^key-86833db4b86ba59b3c13e310dd3d4fab]: Commencement: Reg. 6 in force at 1.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/818/regulation/1/1)
+
+[^key-3d7b8ba99228484bb2c24b15c48edee0]: Commencement: Reg. 7 in force at 1.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/818/regulation/1/1)
+
+[^key-0fb38d5b62c725933f190df142210ba1]: Commencement: Reg. 8 in force at 1.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/818/regulation/1/1)
+
+[^key-580408c37e9ac1c1811233e53c488047]: Textual amendment: Words in [reg. 8(2)](https://www.legislation.gov.uk/uksi/1997/818/regulation/8/2) inserted (1.4.1999) by [The National Health Service (Optical Charges and Payments) Amendment Regulations 1999 (S.I. 1999/609)](https://www.legislation.gov.uk/uksi/1999/609), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/609/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/1999/609/regulation/3)
+
+[^f00010]: Footnote: Paragraph 7 was substituted by the Health Services Act [1980 (c. 53)](https://www.legislation.gov.uk/ukpga/1980/53), Schedule 5, paragraph 4.
+
+[^key-fce2db5e44d36007f14ea6a4e2ed6c83]: Textual amendment: [Reg. 8(3)(c)](https://www.legislation.gov.uk/uksi/1997/818/regulation/8/3/c) substituted (5.10.1999) by [The National Health Service (Optical Charges and Payments) and (General Ophthalmic Services) (Amendment) Regulations 1999 (S.I. 1999/2562)](https://www.legislation.gov.uk/uksi/1999/2562), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/2562/regulation/1/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/1999/2562/regulation/2/2/a) (with [reg. 4](https://www.legislation.gov.uk/uksi/1999/2562/regulation/4))
+
+[^key-925d3e0d6440366f40a7db45688463c8]: Textual amendment: [Reg. 8(3)(d)](https://www.legislation.gov.uk/uksi/1997/818/regulation/8/3/d) substituted (5.10.1999) by [The National Health Service (Optical Charges and Payments) and (General Ophthalmic Services) (Amendment) Regulations 1999 (S.I. 1999/2562)](https://www.legislation.gov.uk/uksi/1999/2562), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/2562/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/1999/2562/regulation/2/2/b) (with [reg. 4](https://www.legislation.gov.uk/uksi/1999/2562/regulation/4))
+
+[^key-1a10dd971ef8c3cf8a1e9c8e2553fadf]: Textual amendment: [Reg. 8(3)(g)](https://www.legislation.gov.uk/uksi/1997/818/regulation/8/3/g) substituted (5.10.1999) by [The National Health Service (Optical Charges and Payments) and (General Ophthalmic Services) (Amendment) Regulations 1999 (S.I. 1999/2562)](https://www.legislation.gov.uk/uksi/1999/2562), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/2562/regulation/1/1), [2(2)(c)](https://www.legislation.gov.uk/uksi/1999/2562/regulation/2/2/c) (with [reg. 4](https://www.legislation.gov.uk/uksi/1999/2562/regulation/4))
+
+[^f00011]: Footnote: [1992 c. 4](https://www.legislation.gov.uk/ukpga/1992/4).
+
+[^f00012]: Footnote: *See* [S.I. 1987/1967](https://www.legislation.gov.uk/uksi/1987/1967), regulations 14 to 16; relevant amending instruments are [S.I. 1988/663](https://www.legislation.gov.uk/uksi/1988/663) and [1445](https://www.legislation.gov.uk/uksi/1988/1445), [1989/534](https://www.legislation.gov.uk/uksi/1989/534), [1990/547](https://www.legislation.gov.uk/uksi/1990/547), [1992/468](https://www.legislation.gov.uk/uksi/1992/468) and [3147](https://www.legislation.gov.uk/uksi/1992/3147), [1993/2119](https://www.legislation.gov.uk/uksi/1993/2119) and [1996/206](https://www.legislation.gov.uk/uksi/1996/206).
+
+[^key-8e2517fc52e69c8221d69793c7ae4038]: Textual amendment: Words in [reg. 8(4)(b)](https://www.legislation.gov.uk/uksi/1997/818/regulation/8/4/b) substituted (5.10.1999) by [The National Health Service (Optical Charges and Payments) and (General Ophthalmic Services) (Amendment) Regulations 1999 (S.I. 1999/2562)](https://www.legislation.gov.uk/uksi/1999/2562), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/2562/regulation/1/1), [2(2)(d)](https://www.legislation.gov.uk/uksi/1999/2562/regulation/2/2/d) (with [reg. 4](https://www.legislation.gov.uk/uksi/1999/2562/regulation/4))
+
+[^key-e0df1a2fab691c8bf9002799bf98fca4]: Textual amendment: Words in [reg. 8(4)(c)](https://www.legislation.gov.uk/uksi/1997/818/regulation/8/4/c) substituted (5.10.1999) by [The National Health Service (Optical Charges and Payments) and (General Ophthalmic Services) (Amendment) Regulations 1999 (S.I. 1999/2562)](https://www.legislation.gov.uk/uksi/1999/2562), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/2562/regulation/1/1), [2(2)(e)](https://www.legislation.gov.uk/uksi/1999/2562/regulation/2/2/e) (with [reg. 4](https://www.legislation.gov.uk/uksi/1999/2562/regulation/4))
+
+[^f00015]: Footnote: *See* [1996/207](https://www.legislation.gov.uk/uksi/1996/207), regulations 76 to 78 as amended by [S.I. 1996/1516](https://www.legislation.gov.uk/uksi/1996/1516) and [1517](https://www.legislation.gov.uk/uksi/1996/1517).
+
+[^key-a7396980284ea12e8db9a3e185ac72ff]: Commencement: Reg. 9 in force at 1.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/818/regulation/1/1)
+
+[^key-f1ae65ca3a0dcf0d024366e48cd836e4]: Textual amendment: [Reg. 9(1A)](https://www.legislation.gov.uk/uksi/1997/818/regulation/9/1A)[(1B)](https://www.legislation.gov.uk/uksi/1997/818/regulation/9/1B) inserted (1.4.1999) by [The National Health Service (Optical Charges and Payments) Amendment Regulations 1999 (S.I. 1999/609)](https://www.legislation.gov.uk/uksi/1999/609), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/609/regulation/1/1), [4(a)](https://www.legislation.gov.uk/uksi/1999/609/regulation/4/a)
+
+[^key-441cefe23cc18cc63d32cbacbd53f70f]: Textual amendment: Words in [reg. 9(5)](https://www.legislation.gov.uk/uksi/1997/818/regulation/9/5) inserted (1.4.1999) by [The National Health Service (Optical Charges and Payments) Amendment Regulations 1999 (S.I. 1999/609)](https://www.legislation.gov.uk/uksi/1999/609), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/609/regulation/1/1), [4(b)](https://www.legislation.gov.uk/uksi/1999/609/regulation/4/b)
+
+[^key-412bfe56a873e75fe675417d99be9a57]: Commencement: Reg. 10 in force at 1.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/818/regulation/1/1)
+
+[^key-40dd967cb5c0b5b48d0e7f3845f5d57e]: Textual amendment: Reg. 11 substituted (1.4.1999) by [The National Health Service (Optical Charges and Payments) Amendment Regulations 1999 (S.I. 1999/609)](https://www.legislation.gov.uk/uksi/1999/609), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/609/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/1999/609/regulation/5)
+
+[^key-97d703cf1b569c0f3040467751e9016d]: Commencement: Reg. 12 in force at 1.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/818/regulation/1/1)
+
+[^key-477c8be92877eccd12dccd77afbc4cff]: Textual amendment: Words in [reg. 12(1)](https://www.legislation.gov.uk/uksi/1997/818/regulation/12/1) substituted (1.4.1999) by [The National Health Service (Optical Charges and Payments) Amendment Regulations 1999 (S.I. 1999/609)](https://www.legislation.gov.uk/uksi/1999/609), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/609/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/1999/609/regulation/6)
+
+[^key-774b6da1df6a56d9d185806f7e408c3b]: Commencement: Reg. 13 in force at 1.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/818/regulation/1/1)
+
+[^key-7708c9d82f78326fa913cc216706a47c]: Textual amendment: Word in [reg. 13](https://www.legislation.gov.uk/uksi/1997/818/regulation/13) substituted (1.4.1999) by [The National Health Service (Optical Charges and Payments) Amendment Regulations 1999 (S.I. 1999/609)](https://www.legislation.gov.uk/uksi/1999/609), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/609/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/1999/609/regulation/7)
+
+[^f00016]: Footnote: [1989 c. 44](https://www.legislation.gov.uk/ukpga/1989/44).
+
+[^key-f50fdbb0e0bcdbf1467fc25190e54745]: Commencement: Reg. 14 in force at 1.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/818/regulation/1/1)
+
+[^key-0791408871e0226c2abf3269eb5fbed9]: Commencement: Reg. 15 in force at 1.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/818/regulation/1/1)
+
+[^key-c9daa5214cfd27abb9c594a76d573b74]: Commencement: Reg. 16 in force at 1.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/818/regulation/1/1)
+
+[^key-4886930e92bb3fe9e2ccd07b938ea5e8]: Commencement: Reg. 17 in force at 1.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/818/regulation/1/1)
+
+[^key-06c936caf13103ea22e6639cacb3a0e6]: Commencement: Reg. 18 in force at 1.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/818/regulation/1/1)
+
+[^key-ebe2fae881bcb802c59841646dcd009e]: Commencement: Reg. 19 in force at 1.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/818/regulation/1/1)
+
+[^key-ef0ce2046dd00ad658e9474858943bd6]: Textual amendment: Sum in [reg. 19(1)(b)](https://www.legislation.gov.uk/uksi/1997/818/regulation/19/1/b) substituted (1.4.1999) by [The National Health Service (Optical Charges and Payments) Amendment Regulations 1999 (S.I. 1999/609)](https://www.legislation.gov.uk/uksi/1999/609), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/609/regulation/1/1), [8(a)](https://www.legislation.gov.uk/uksi/1999/609/regulation/8/a)
+
+[^key-797aac600265e2ee164c67fbd6018d21]: Textual amendment: Sum in [reg. 19(3)](https://www.legislation.gov.uk/uksi/1997/818/regulation/19/3) substituted (1.4.1999) by [The National Health Service (Optical Charges and Payments) Amendment Regulations 1999 (S.I. 1999/609)](https://www.legislation.gov.uk/uksi/1999/609), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/609/regulation/1/1), [8(b)](https://www.legislation.gov.uk/uksi/1999/609/regulation/8/b)
+
+[^key-3c0a8e8d8c3164022b5e7006d8057d2e]: Commencement: Reg. 20 in force at 1.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/818/regulation/1/1)
+
+[^key-0a14cad66c1fb3d9b496a90f46a9d273]: Textual amendment: Word in [reg. 20(1)](https://www.legislation.gov.uk/uksi/1997/818/regulation/20/1) substituted (1.4.1999) by [The National Health Service (Optical Charges and Payments) Amendment Regulations 1999 (S.I. 1999/609)](https://www.legislation.gov.uk/uksi/1999/609), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/609/regulation/1/1), [9(a)](https://www.legislation.gov.uk/uksi/1999/609/regulation/9/a)
+
+[^key-4aece6f7f661a4ffd9f19c15f3f51749]: Textual amendment: Words in [reg. 20(3)](https://www.legislation.gov.uk/uksi/1997/818/regulation/20/3) inserted (1.4.1999) by [The National Health Service (Optical Charges and Payments) Amendment Regulations 1999 (S.I. 1999/609)](https://www.legislation.gov.uk/uksi/1999/609), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/609/regulation/1/1), [9(b)(i)](https://www.legislation.gov.uk/uksi/1999/609/regulation/9/b/i)
+
+[^key-bff33ddc8b8a14792f7dffecd0fe12a7]: Textual amendment: Words in [reg. 20(3)](https://www.legislation.gov.uk/uksi/1997/818/regulation/20/3) inserted (1.4.1999) by [The National Health Service (Optical Charges and Payments) Amendment Regulations 1999 (S.I. 1999/609)](https://www.legislation.gov.uk/uksi/1999/609), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/609/regulation/1/1), [9(b)(ii)](https://www.legislation.gov.uk/uksi/1999/609/regulation/9/b/ii)
+
+[^key-fee3425cb8d88746d3f8445b6911abdf]: Textual amendment: [Reg. 20(3A)](https://www.legislation.gov.uk/uksi/1997/818/regulation/20/3A) inserted (1.4.1999) by [The National Health Service (Optical Charges and Payments) Amendment Regulations 1999 (S.I. 1999/609)](https://www.legislation.gov.uk/uksi/1999/609), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/609/regulation/1/1), [9(c)](https://www.legislation.gov.uk/uksi/1999/609/regulation/9/c)
+
+[^key-6ba18d2349a2b72359c60f6836ede9bd]: Textual amendment: Words in [reg. 20(5)](https://www.legislation.gov.uk/uksi/1997/818/regulation/20/5) inserted (1.4.1999) by [The National Health Service (Optical Charges and Payments) Amendment Regulations 1999 (S.I. 1999/609)](https://www.legislation.gov.uk/uksi/1999/609), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/609/regulation/1/1), [9(d)](https://www.legislation.gov.uk/uksi/1999/609/regulation/9/d)
+
+[^key-64d24b8c6a9e43ac190955c47bc84dd8]: Textual amendment: Words in [reg. 20(6)](https://www.legislation.gov.uk/uksi/1997/818/regulation/20/6) inserted (1.4.1999) by [The National Health Service (Optical Charges and Payments) Amendment Regulations 1999 (S.I. 1999/609)](https://www.legislation.gov.uk/uksi/1999/609), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/609/regulation/1/1), [9(e)](https://www.legislation.gov.uk/uksi/1999/609/regulation/9/e)
+
+[^key-79b6e519b03ea0154cbea38b9534dd4f]: Textual amendment: [Reg. 20(7)](https://www.legislation.gov.uk/uksi/1997/818/regulation/20/7) added (1.4.1999) by [The National Health Service (Optical Charges and Payments) Amendment Regulations 1999 (S.I. 1999/609)](https://www.legislation.gov.uk/uksi/1999/609), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/609/regulation/1/1), [9(f)](https://www.legislation.gov.uk/uksi/1999/609/regulation/9/f)
+
+[^key-52516d40058886079495badef0499a63]: Commencement: Reg. 21 in force at 1.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/818/regulation/1/1)
+
+[^key-a121701d97a70a1c3ae18a2d2b66cec4]: Commencement: Reg. 22 in force at 1.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/818/regulation/1/1)
+
+[^f00017]: Footnote: [1989 c. 41](https://www.legislation.gov.uk/ukpga/1989/41).
+
+[^key-1509ef00c2395fd23f1ec6464ebe5eda]: Commencement: Reg. 23 in force at 1.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/818/regulation/1/1)
+
+[^key-7f2a98e8aa6c0bb5dd7503498462f839]: Commencement: Reg. 24 in force at 1.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/818/regulation/1/1)
+
+[^key-6a4ec2b970e7fdc5c1c715276b204598]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/1997/818/schedule/1) substituted (1.4.1999) by [The National Health Service (Optical Charges and Payments) Amendment Regulations 1999 (S.I. 1999/609)](https://www.legislation.gov.uk/uksi/1999/609), [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/609/regulation/1/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/1999/609/schedule/part/1)
+
+[^key-2b07455c7aec982e80417d710430759b]: Commencement: Sch. 2 para. 1 in force at 1.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/818/regulation/1/1)
+
+[^key-2ac10225f28076fca2643a12135ff2aa]: Textual amendment: Sum in [Sch. 2 para. 1(1)(a)](https://www.legislation.gov.uk/uksi/1997/818/schedule/2/paragraph/1/1/a) substituted (1.4.1999) by [The National Health Service (Optical Charges and Payments) Amendment Regulations 1999 (S.I. 1999/609)](https://www.legislation.gov.uk/uksi/1999/609), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/609/regulation/1/1), [10(2)(a)](https://www.legislation.gov.uk/uksi/1999/609/regulation/10/2/a)
+
+[^key-ec3ffe183035e262909ef160eb3fc63a]: Textual amendment: Sum in [Sch. 2 para. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/818/schedule/2/paragraph/1/1/b) substituted (1.4.1999) by [The National Health Service (Optical Charges and Payments) Amendment Regulations 1999 (S.I. 1999/609)](https://www.legislation.gov.uk/uksi/1999/609), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/609/regulation/1/1), [10(2)(b)](https://www.legislation.gov.uk/uksi/1999/609/regulation/10/2/b)
+
+[^key-c868130c91a9c1a2f64379f0c1a6d881]: Textual amendment: Sum in [Sch. 2 para. 1(1)(c)](https://www.legislation.gov.uk/uksi/1997/818/schedule/2/paragraph/1/1/c) substituted (1.4.1999) by [The National Health Service (Optical Charges and Payments) Amendment Regulations 1999 (S.I. 1999/609)](https://www.legislation.gov.uk/uksi/1999/609), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/609/regulation/1/1), [10(2)(c)](https://www.legislation.gov.uk/uksi/1999/609/regulation/10/2/c)
+
+[^key-40945f785f6dadee35e773d692f165fc]: Textual amendment: Words in [Sch. 2 para. 1(1)(c)](https://www.legislation.gov.uk/uksi/1997/818/schedule/2/paragraph/1/1/c) inserted (1.4.1999) by [The National Health Service (Optical Charges and Payments) Amendment Regulations 1999 (S.I. 1999/609)](https://www.legislation.gov.uk/uksi/1999/609), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/609/regulation/1/1), [10(2)(c)](https://www.legislation.gov.uk/uksi/1999/609/regulation/10/2/c)
+
+[^key-f3cdbab07d775d476cda68ec5f3cdd4d]: Textual amendment: Sum in [Sch. 2 para. 1(1)(d)](https://www.legislation.gov.uk/uksi/1997/818/schedule/2/paragraph/1/1/d) substituted (1.4.1999) by [The National Health Service (Optical Charges and Payments) Amendment Regulations 1999 (S.I. 1999/609)](https://www.legislation.gov.uk/uksi/1999/609), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/609/regulation/1/1), [10(2)(d)](https://www.legislation.gov.uk/uksi/1999/609/regulation/10/2/d)
+
+[^key-2f07644032d200a108d8fe36d7c02bbb]: Textual amendment: Words in [Sch. 2 para. 1(1)(d)](https://www.legislation.gov.uk/uksi/1997/818/schedule/2/paragraph/1/1/d) inserted (1.4.1999) by [The National Health Service (Optical Charges and Payments) Amendment Regulations 1999 (S.I. 1999/609)](https://www.legislation.gov.uk/uksi/1999/609), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/609/regulation/1/1), [10(2)(d)](https://www.legislation.gov.uk/uksi/1999/609/regulation/10/2/d)
+
+[^key-43b21aa35bd7826a761ccc11d4ec7726]: Textual amendment: Sums in [Sch. 2 para. 1(1)(e)](https://www.legislation.gov.uk/uksi/1997/818/schedule/2/paragraph/1/1/e) substituted (1.4.1999) by [The National Health Service (Optical Charges and Payments) Amendment Regulations 1999 (S.I. 1999/609)](https://www.legislation.gov.uk/uksi/1999/609), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/609/regulation/1/1), [10(2)(e)](https://www.legislation.gov.uk/uksi/1999/609/regulation/10/2/e)
+
+[^key-71966e560adacba2c04000f8acb96f04]: Textual amendment: [Sch. 2 para. 1(1)(f)](https://www.legislation.gov.uk/uksi/1997/818/schedule/2/paragraph/1/1/f) revoked (1.4.1999) by [The National Health Service (Optical Charges and Payments) Amendment Regulations 1999 (S.I. 1999/609)](https://www.legislation.gov.uk/uksi/1999/609), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/609/regulation/1/1), [11(a)](https://www.legislation.gov.uk/uksi/1999/609/regulation/11/a)
+
+[^key-9a822c102e403b04ad6a0f03735a053c]: Textual amendment: Sum in [Sch. 2 para. 1(1)(g)](https://www.legislation.gov.uk/uksi/1997/818/schedule/2/paragraph/1/1/g) substituted (1.4.1999) by [The National Health Service (Optical Charges and Payments) Amendment Regulations 1999 (S.I. 1999/609)](https://www.legislation.gov.uk/uksi/1999/609), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/609/regulation/1/1), [10(2)(f)](https://www.legislation.gov.uk/uksi/1999/609/regulation/10/2/f)
+
+[^key-9a9136c8f7f7e19cf14bf72752e1b0a0]: Textual amendment: Word in [Sch. 2 para. 1(2)](https://www.legislation.gov.uk/uksi/1997/818/schedule/2/paragraph/1/2) omitted (1.4.1999) by virtue of [The National Health Service (Optical Charges and Payments) Amendment Regulations 1999 (S.I. 1999/609)](https://www.legislation.gov.uk/uksi/1999/609), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/609/regulation/1/1), [11(b)](https://www.legislation.gov.uk/uksi/1999/609/regulation/11/b)
+
+[^M_I_b6f5159f-c8c6-4e8f-f4a2-0312dc02e742]: Commencement: Sch. 2 para. 2 in force at 1.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/818/regulation/1/1)
+
+[^key-804e6daa86c32782ec99a8f51d026c9f]: Textual amendment: Sum in [Sch. 2 para. 2(a)](https://www.legislation.gov.uk/uksi/1997/818/schedule/2/paragraph/2/a) substituted (1.4.1999) by [The National Health Service (Optical Charges and Payments) Amendment Regulations 1999 (S.I. 1999/609)](https://www.legislation.gov.uk/uksi/1999/609), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/609/regulation/1/1), [10(2)(g)](https://www.legislation.gov.uk/uksi/1999/609/regulation/10/2/g)
+
+[^key-a5cb3cc4b754e2cf20ecbebf966cd379]: Textual amendment: Sum in [Sch. 2 para. 2(b)](https://www.legislation.gov.uk/uksi/1997/818/schedule/2/paragraph/2/b) substituted (1.4.1999) by [The National Health Service (Optical Charges and Payments) Amendment Regulations 1999 (S.I. 1999/609)](https://www.legislation.gov.uk/uksi/1999/609), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/609/regulation/1/1), [10(2)(h)](https://www.legislation.gov.uk/uksi/1999/609/regulation/10/2/h)
+
+[^key-bd826c901de7f9771045528bcb3d890d]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/uksi/1997/818/schedule/3) substituted (1.4.1999) by [The National Health Service (Optical Charges and Payments) Amendment Regulations 1999 (S.I. 1999/609)](https://www.legislation.gov.uk/uksi/1999/609), [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/609/regulation/1/1), [Sch. Pt. II](https://www.legislation.gov.uk/uksi/1999/609/schedule/part/II)
+
+[^key-366743ac74f27d440adaebf37108ee36]: Commencement: Sch. 4 in force at 1.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/818/regulation/1/1)

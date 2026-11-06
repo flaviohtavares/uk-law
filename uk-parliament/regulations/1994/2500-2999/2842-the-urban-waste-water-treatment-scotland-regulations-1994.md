@@ -1,0 +1,717 @@
+---
+title: The Urban Waste Water Treatment (Scotland) Regulations 1994
+id: uksi/1994/2842
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '1994-10-31'
+text_date: '2024-01-01'
+extent: S
+source_url: https://www.legislation.gov.uk/uksi/1994/2842
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1994/2842/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Urban Waste Water Treatment (Scotland) Regulations 1994
+
+> Text as at 2024-01-01.
+>
+> Extent: Scotland.
+
+*Extent: S*
+
+1994 No. 2842 (S.144)
+
+LOCAL GOVERNMENT, SCOTLAND
+
+PUBLIC HEALTH, SCOTLAND
+
+The Urban Waste Water Treatment (Scotland) Regulations 1994
+
+Made
+
+31st October 1994
+
+Laid before Parliament
+
+9th November 1994
+
+Coming into force
+
+30th November 1994
+
+The Secretary of State, being a Minister designated[^f00001] for the purposes of section 2(2) of the European Communities Act 1972[^f00002] in relation to measures relating to the collection, treatment and discharge of urban waste water, and the treatment and discharge of waste water from certain industrial sectors, in exercise of the powers conferred on him by that section and of all other powers enabling him in that behalf, hereby makes the following Regulations:
+
+## 1. Citation, commencement and extent[^key-e5b47ae6ce5d15240d1092c5615f8cfd]
+
+These Regulations may be cited as the Urban Waste Water Treatment (Scotland) Regulations 1994, shall come into force on 30th November 1994 and shall extend to Scotland only.
+
+## 2. Interpretation[^key-f316af3afed0debe70501ede98c99801]
+
+(1) In these Regulations, unless the context otherwise requires–
+
+- “agglomeration” means an area where the population and/or economic activities are sufficiently concentrated for urban waste water to be collected and conducted to an urban waste water treatment plant or to a final discharge point;
+- “coastal waters” means the waters outside the low-water line or the outer limit of an estuary;
+- “collecting system” means a system of conduits which collects and conducts urban waste water;
+- “the Directive” means Council Directive [91/271/EEC](https://www.legislation.gov.uk/european/directive/1991/0271) concerning urban waste water treatment[^f00003] , as last[^key-28f8d486d17db99e7d9f785d48dd8670] relevantly[^key-fd490affcf3f84b2e7b906c7abeda70a] amended by Regulation [(EC) No 1137/2008](https://www.legislation.gov.uk/european/regulation/2008/1137) of the European Parliament and of the Council, and references to other Community Directives are references to Directives other than Council Directive [91/271/EEC](https://www.legislation.gov.uk/european/directive/1991/0271);
+- “domestic waste water” means waste water from residential settlements and services which originates predominantly from the human metabolism and from household activities;
+- “estuary” means the transitional area at the mouth of a river between fresh-water and coastal waters, the outer (seaward) limits of which are shown on the maps kept in accordance with regulation 12;
+- “eutrophication” means the enrichment of water by nutrients, especially compounds of nitrogen and/or phosphorus, causing an accelerated growth of algae and higher forms of plant life to produce an undesirable disturbance to the balance of organisms present in the water and to the quality of the water concerned;
+- “high natural dispersion area” has the meaning given by regulation 3;
+- “industrial waste water” means any waste water which is discharged from premises used for carrying on any trade or industry, other than domestic waste water and run-off rain water;
+- [^key-d4a014e4de5fdaacacb2ca9034c71b62]...
+- “population equivalent” is a measurement of organic biodegradable load, and a population equivalent of 1(1p.e.) is the organic biodegradable load having a five-day biochemical oxygen demand (BOD5) of 60g of oxygen per day, the load being calculated on the basis of the maximum average weekly load entering the treatment plant during the year, excluding unusual situations such as those due to heavy rain;
+- “Scottish Water” means the body corporate established by section 20(1) of the Water Industry (Scotland) Act 2002,[^key-4bf355bcdabbd38b0777c83804f324b5]
+- [^key-e695c483236cfb0a377f3a249de6ca0f]...
+- “secondary treatment” means treatment of urban waste water by a process generally involving biological treatment with a secondary settlement or other process in which the requirements established in Table 1 in Schedule 3 are respected;
+- “sensitive area” has the meaning given by regulation 3;
+- “[^key-27ed84827a41544cc0b360a7c0c943e3]SEPA” means the Scottish Environment Protection Agency;
+- “sludge” means residual sludge, whether treated or untreated, from urban waste water treatment plants;
+- “urban waste water” means domestic waste water or the mixture of domestic waste water with industrial waste water and/or run-off rain water;
+- and other expressions used in these Regulations and[^key-090cc1636982fd59e4c88f52fabcd7a5] in the Directive have the same meaning as in the Directive.
+
+(2) Any reference in these Regulations to a numbered regulation or Schedule is a reference to the regulation or Schedule so numbered in these Regulations.
+
+## 3. Sensitive areas and high natural dispersion areas[^key-20a04fe3acd2052acbec1b68d0bab2e3]
+
+(1) Subject to regulation 2 of the Urban Waste Water Treatment (Scotland) Amendment Regulations 2003,[^key-b74c93e03d95b040451f060c4c612add] in these Regulations–
+
+- (a) “sensitive area” means an area of water which the Secretary of State has identified in accordance with the criteria set out in Part I of Schedule 1 and which is shown as such on a map deposited with SEPA[^key-d21fa6695d071f464b2fda48605962c4] for the purposes of this regulation;
+- (b) “high natural dispersion area” means an area of water which the Secretary of State has identified in accordance with the criteria set out in Part II of Schedule 1 and which is shown as such on a map deposited with SEPA for the purposes of this regulation.
+
+(2) The Secretary of State shall review the identification of sensitive areas and high natural dispersion areas, in accordance with the relevant criteria in Schedule 1, no later than 31 December 1997 and thereafter at intervals of no more than four years.
+
+(3) Where, following a review under paragraph (2) above, an area of water becomes or ceases to be identified as a sensitive area or a high natural dispersion area the Secretary of State shall deposit with *(affected by repeal, see note)*[^key-fac80183e6ad7c2f29a8e591eb8a5c86] SEPA[^key-7e368edacc3f8e5ed1dac7e57873834e] *(affected by repeal, see note)*[^key-fac80183e6ad7c2f29a8e591eb8a5c86], in substitution for the map already so deposited for the purposes of this regulation, such further map as may be necessary to reflect the changes in identification. *(affected by repeal, see note)*[^key-fac80183e6ad7c2f29a8e591eb8a5c86]
+
+## 4. Duty to provide and maintain collecting systems and treatment plants[^key-f947280d2feb330efb48e7416aab022b]
+
+(1) Subject to paragraph (2) below, Scottish Water[^key-237008e0d23b633ed3511af31e1f0257] shall ensure that collecting systems which satisfy the requirements of Schedule 2 are provided–
+
+- (a) where the urban waste water discharges into receiving waters which are a sensitive area, by 31 December 1998 for every agglomeration with a population equivalent of more than 10,000;
+- (b) without prejudice to sub-paragraph (a) above–
+  - (i) by 31 December 2000 for every agglomeration with a population equivalent of more than 15,000; and
+  - (ii) by 31 December 2005 for every agg lomeration with a population equivalent of between 2,000 and 15,000.
+
+(2) Paragraph (1) above shall not apply where either–
+
+- (a) SEPA[^key-42196e6453740d018b272171aabd37c6] [^key-3cadffed8acf58d59545841b29fed27c]... has certified that the establishment of a collecting system is not justified because it would produce no environmental benefit; or
+- (b) the Secretary of State has certified that the establishment of a collecting system is not justified because it would involve excessive cost,
+
+and individual systems or other appropriate systems are provided and SEPA has certified that they achieve the same level of environmental protection.
+
+(3) Scottish Water shall ensure that urban waste water entering collecting systems is, before discharge, subject to treatment provided in accordance with regulation 5 and that–
+
+- (a) plants built in order to comply with that regulation are designed (account being taken of seasonal variations of load), constructed, operated and maintained to ensure sufficient performance under all normal local climatic conditions;
+- (b) treated waste water and sludge arising from waste water treatment are re-used whenever appropriate; and
+- (c) disposal routes for treated waste water and sludge minimise the adverse effects on the environment.
+
+## 5. Requirements as to provision of treatment[^key-7ad95f23d7264ac419a646d9e33e0bed]
+
+(1) Subject to paragraph (5) below, treatment plants which provide secondary treatment or an equivalent treatment shall be provided–
+
+- (a) by 31 December 2000 or, in an exceptional case, a[^key-2ecd7b70492cd81e0695dfbe359d81da] later date (not being later than 31 December 2005) [^key-7878410f373e3b5e683df9676017cd5b]..., in respect of all discharges from agglomerations with a population equivalent of more than 15,000;
+- (b) by 31 December 2005 in respect of all discharges from agglomerations with a population equivalent of between 10,000 and 15,000;
+- (c) by 31 December 2005 in respect of all discharges to freshwaters and estuaries from agglomerations with a population equivalent of between 2,000 and 10,000.
+
+(2) Subject to paragraph (3) below, treatment plants which provide more stringent treatment than that described in paragraph (1) above shall be provided by 31 December 1998 in respect of all discharges from agglomerations with a population equivalent of more than 10,000 into sensitive areas, or into the relevant catchment areas of sensitive areas where the discharges contribute to the pollution of these areas.
+
+(3) Paragraph (2) above shall not apply in relation to a sensitive area where SEPA[^key-45ac027993562d8f4e8a6908ab6f9159] [^key-c2bc9f31214b17a2b8a1f88deddb0ea6]... has certified that it is satisfied, as a result of monitoring, that the minimum percentage of reduction of the overall load entering all urban waste water treatment plants in that sensitive area, and all urban waste water treatment plants in the catchment area of that area the discharges from which contribute to the pollution of that area, is at least 75% for total phosphorus and at least 75% for total nitrogen.
+
+(4) Where, following a review of the identification of waters as sensitive areas or high natural dispersion areas under regulation 3, an area ceases to be identified as a high natural dispersion area or becomes identified as a sensitive area, then, as respects that area, paragraph (1) or, as the case may be, paragraph (2) above shall have effect as if the relevant date specified in that paragraph were the seventh anniversary of the change of identification or, if later, the date so specified.
+
+(5) Discharges of urban waste water from agglomerations with a population equivalent of between 10,000 and 150,000 (or, in an exceptional case [^key-33f56887d90ad051fef740d8cb364092]..., of more than 150,000) to coastal waters which are in high natural dispersion areas, and such discharges from agglomerations with a population equivalent of between 2,000 and 10,000 into estuaries which are in high natural dispersion areas, may be subjected to less stringent treatment than that described in paragraph (1) above so long as–
+
+- (a) the discharges receive at least primary treatment in conformity with the control procedures set out in Part II of Schedule 3; and
+- (b) SEPA[^key-7f7b478c364f24ccd0be1c43e148ebcc] [^key-d8abf9b7f548254f52b18593239e4657]... has certified that it is satisfied that comprehensive studies have indicated that such discharges will not adversely affect the environment.
+
+(6) SEPA shall provide the Secretary of State with such information concerning the studies mentioned in paragraph (5)(b) above, as he may require [^key-d12684df0e315ae06ea0b0e9237e480c]....
+
+(7) Appropriate treatment of urban waste water entering collecting systems shall be provided by 31 December 2005 in respect of–
+
+- (a) discharges to freshwaters and estuaries from agglomerations with a population equivalent of less than 2000; and
+- (b) discharges to coastal waters from agglomerations with a population equivalent of less than 10,000.
+
+(8) In this regulation–
+
+- (a) “appropriate treatment” means treatment of urban waste water by any process and/or disposal system which after discharge allows the receiving waters to meet the relevant quality objectives and the relevant provisions of assimilated[^key-4ea603b91c534c230d6538d94d88654a][^key-f14b8b50a467ddf8fdc808e33c1ed385] law;
+- (b) “primary treatment” means treatment of urban waste water by a physical and/or chemical process involving settlement of suspended solids, or other processes in which the BOD5 of the incoming waste water is reduced by at least 20% before discharge and the total suspended solids of the incoming waste water are reduced by at least 50%.
+
+## 6. Discharges of treated urban waste water[^key-5faccb807fb941f3684ddcdbf8980add]
+
+(1) Discharges from urban waste water treatment plants described in paragraph (1) or (2) of regulation 5, or from any such plant which provides treatment in accordance with paragraph (5) of that regulation (including any such plants which are provided other than by Scottish Water[^key-6e6ed4c74f97cc20945061f47a8a15b7]) shall satisfy the relevant requirements of Part I of Schedule 3.
+
+(2) It shall be the duty of SEPA[^key-a9b2d1a664095217abbc2da35380f148], in exercising its functions under Part II of the Control of Pollution Act 1974[^f00006] (control of water pollution), to secure–
+
+- (a) with respect to any such discharge as is described in paragraph (1) above, that the requirements referred to in that paragraph are satisfied;
+- (b) with respect to any discharge described in paragraph (5) or (7) of regulation 5 (including any such discharge from an urban waste water treatment plant which is provided other than by Scottish Water), that the requirements of the said paragraph (5) or, as the case may be, the said paragraph (7) are satisfied;
+- (c) with respect to any discharge from a collecting system described in regulation 4 or an urban waste water treatment plant described in regulation 5, the limitation of pollution of receiving waters due to storm water overflows;
+- (d) with respect to any discharge of sludge–
+  - (i) that the discharge of sludge to surface waters is phased out by 31 December 1998; and
+  - (ii) that the total amount of toxic, persistent or bioaccumulable materials in the sludge which may be discharged to surface waters pursuant to consents under the said Part II is controlled by such consents and progressively reduced during the period ending on that date.
+
+(3) SEPA shall at regular intervals review and, if necessary for the purposes of complying with this regulation, modify or revoke consents given under the said Part II.
+
+(4) Nothing in section 38 of the Control of Pollution Act 1974 shall restrict the power of SEPA to modify or revoke a consent in pursuance of the duty imposed by this regulation.
+
+(5) All lochs and ponds shall be treated as controlled waters for the purposes of section 32 of the Control of Pollution Act 1974[^f00007] (water pollution offences) insofar as that section relates to the discharge of waste water from urban waste water treatment plants.
+
+(6)[^key-7c68f668c1ad455b797f1cf209e29043] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 7. Discharges of industrial waste water to collecting systems or treatment plants[^key-83c39fc92114138506f16d8677d5a500]
+
+(1) It shall be the duty of Scottish Water[^key-0c63cfde02ffaa846bed0fc9ab89f6c3] and of the Secretary of State, in exercising their respective functions under Part II of the Sewerage (Scotland) Act 1968 (trade effluents) with respect to any discharge of industrial waste water, to secure that the requirements of Schedule 4 are met in respect of that discharge.
+
+(2) Nothing in section 29(1) or (3) of that Act (decision on application) shall restrict the power of Scottish Water[^key-c85a72acb50094331d3c55a4afba3f03] to impose in any consent or by direction under the said Part II such conditions as are necessary to comply with paragraph (1) above.
+
+(3) Section 36(4) of that Act shall be disapplied in any case where Scottish Water has made a direction under subsection (1) of that section imposing such conditions on continuation of an existing discharge (within the meaning of the said Part II) as are necessary to comply with paragraph (1) above.
+
+(4) Notwithstanding the terms of section 37(6) of that Act–
+
+- (a) nothing in any agreement entered into between Scottish Water and the owner or occupier of premises used or intended to be used for carrying on any trade or industry shall obviate the requirement for the consent of Scottish Water[^key-23c40e17799b4cf2a70ca97d9280bafd] to any discharge of trade effluent from those premises unless the terms of the agreement are such as will secure that the requirements of Schedule 4 are met in respect of any discharge to which the agreement relates; and
+- (b) for the purposes of complying with paragraph (1) above, Scottish Water may review by direction the making of the discharge to which any such agreement relates and accordingly sections 26 to 32 and 36 of that Act shall apply to such a discharge,
+
+and any such agreement shall not be enforceable if and to the extent that it permits any discharge of industrial waste water in respect of which the requirements of Schedule 4 are not met.
+
+(5) Scottish Water shall at regular intervals review and, if necessary for the purposes of complying with this regulation, modify consents granted under the said Part II and shall at regular intervals review, if so necessary, directions made thereunder.
+
+(6) Nothing in the said Part II shall restrict the power of Scottish Water to modify a consent or, as the case may be, review a direction in pursuance of the duty imposed by this regulation.
+
+## 8. Discharges of certain industrial waste water into receiving waters[^key-f949c5265445218fd82012e3103f06c2]
+
+(1) This regulation applies to discharges of biodegradable industrial waste water from plants representing 4,000 population equivalent or more belonging to the industrial sectors listed in Schedule 5 which do not enter urban waste water treatment plants before discharge to receiving waters.
+
+(2) It shall be the duty of SEPA[^key-17845e916e917127fd37cf80a882b288] to impose, in every consent granted by it under Part II of the Control of Pollution Act 1974 (control of water pollution) with respect to any discharge on or after 31 December 2000 to which this regulation applies (whether on the grant of consent or by notice under section 37(1) of that Act[^f00009]) conditions which are appropriate to the nature of the industry concerned for the discharge of such waste water, and nothing in section 38 of that Act[^f00010] shall restrict the power of SEPA to modify a consent in pursuance of the duty imposed by this paragraph.
+
+(3) It shall be the duty of SEPA, in exercising its functions under Part I of the Environmental Protection Act 1990[^f00011] (integrated pollution control), including regulations made under section 5(2)(b) of that Act[^f00012], with respect to any process giving rise to a discharge to which this regulation applies, to secure that any authorisation granted in respect of that process includes conditions in respect of the discharge of such waste water on or after 31 December 2000 which are appropriate to the nature of the industry concerned.
+
+(4) All lochs and ponds shall be treated as controlled waters for the purposes of the enactment mentioned in paragraph (2) above insofar as it relates to discharges to which this regulation applies.
+
+(5) Regulation 5(2) of the Environmental Protection (Determination of Enforcing Authority Etc) (Scotland) Regulations 1992 shall not apply where the river purification authority as consulted authority (within the meaning of those Regulations) is acting in discharge of its duty under paragraph (3) above. *(affected by repeal, see note)*[^key-f2ed880c12b8a5dc71b5213ab74afc1e]
+
+## 9. Dumping of sludge from ships[^key-8c817c51c3a326ba57774a7417858198]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 10. Samples and records[^key-7f2fc5e0b6fd772d82d017b0ae171f6c]
+
+(1) In this regulation–
+
+- (a) a “relevant condition” means a condition imposed for the purposes of regulation 6(2) in a consent under Part II of the Control of Pollution Act 1974;
+- (b) “the operator” means, in relation to a relevant condition, the person who operates the urban waste water treatment plant, discharges from which are authorised by the consent in which that condition is imposed.
+
+(2) Where the operator is required by a relevant condition to provide any apparatus for the purpose of measuring or recording the rate of flow or temperature of any waste water or for the purpose of collecting samples of waste water, any such apparatus so provided shall be presumed to function correctly unless the contrary is shown.
+
+(3) Any record produced by any such apparatus as is mentioned in paragraph (2) above shall be sufficient evidence of the matter appearing from the record and shall in any proceedings under Part II of the Control of Pollution Act 1974 be admissible in evidence.
+
+(4) Where, in compliance with a relevant condition, a sample of waste water is collected by apparatus installed for the purpose of collecting such samples automatically, the sample shall be treated, for the purposes of section 19 of the Rivers (Prevention of Pollution) (Scotland) Act 1951[^f00015] (power to take samples of effluents) as being taken by the river purification authority under that section only at the time when it is removed from that apparatus, and in any proceedings under Part II of the Control of Pollution Act 1974 it shall be presumed, unless the contrary is shown, that any sample of waste water removed from that apparatus is a sample\` of what was passing from the urban waste water treatment plant into receiving waters.
+
+## 11. Monitoring[^key-bf74b136c29138ec2d90c62113a4afed]
+
+(1) It shall be the duty of SEPA[^key-82588ab1a119786a5e43bd2f9d978a47]–
+
+- (a) to monitor or procure the monitoring by a competent authority or appropriate body of discharges from urban waste water treatment plants [^key-78997232ce4639db6eaa5d576fb3d685]... to verify compliance with the relevant requirements of Part I of Schedule 3 in accordance with the control procedures set out in Part II of that Schedule;
+- (b) to monitor or procure the monitoring by a competent authority or appropriate body of amounts and composition of sludges disposed of to surface waters [^key-78997232ce4639db6eaa5d576fb3d685]... (other than by means of dumping from ships);
+- (c) to monitor or procure the monitoring by a competent authority or appropriate body of waters subject to discharges from urban waste water treatment plants [^key-78997232ce4639db6eaa5d576fb3d685]... provided in accordance with regulation 5 in cases where it can be expected that the receiving environment will be significantly affected; and
+- (d) to carry out or procure the carrying out by a competent authority or appropriate body of monitoring and any other relevant studies to verify that discharges [^key-78997232ce4639db6eaa5d576fb3d685]... to which regulation 5(5) applies and the disposal of sludge to surface waters [^key-78997232ce4639db6eaa5d576fb3d685]... (other than by means of dumping from ships) do not adversely affect the environment.
+
+(2)[^key-e809fc44cedd14dda12c6bc65ce2e3b9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) SEPA[^key-b7e4813a0e3cc0b24b0457e3656c3bf9] [^key-41e148f3435c9307be33d699fcd984cf]... shall retain any information collected by them or by a competent authority or appropriate body in complying with paragraph (1) [^key-d8bed4aa441b2f58afa84fcdc2bc954e]... above and shall make it available to the Secretary of State on request.
+
+## 12. Deposit of maps and certificates[^key-52cef06e3a33750eafaef73223205d29]
+
+SEPA[^key-cfc2aa7ee5842f230ab0f989852facca] shall keep available [^key-7b0e62dbd7bdeeedc8479bb8b3d44045]..., at all reasonable times, for inspection by the public free of charge–
+
+- (a) the maps referred to in the definition of “estuary” in regulation 2(1), which relate to estuaries [^key-aae273bab683ee98a9060d4b89de86c3]...;
+- (b) the map showing sensitive areas and high natural dispersion areas deposited with *(affected by repeal, see note)*[^key-d047ba1bfa8f13ea828d2138ce6e5dc8] SEPA *(affected by repeal, see note)*[^key-d047ba1bfa8f13ea828d2138ce6e5dc8] for the purposes of regulation 3(1); *(affected by repeal, see note)*[^key-d047ba1bfa8f13ea828d2138ce6e5dc8]
+- (c) particulars of certificates issued by it under regulations 4(2), 5(3) and 5(5)(b).
+
+## 12A. Reporting[^key-38cc469af94ac0c79e6aa057a066dfb6]
+
+(1) The Scottish Ministers must prepare and publish a situation report on the disposal of urban waste water and sludge in Scotland.
+
+(2) The Scottish Ministers must review and assess compliance with these Regulations in each agglomeration and prepare and publish a report on—
+
+- (a) the level of that compliance,
+- (b) identified reasons for non-compliance where applicable,
+- (c) proposed measures to achieve compliance with these Regulations.
+
+(3) The reports under paragraphs (1) and (2) must be published in such manner as the Scottish Ministers consider appropriate.
+
+(4) The first reports under those paragraphs must be published by 31 December 2020.
+
+(5) Subsequent reports under those paragraphs must be published at intervals not exceeding two years.
+
+## 13. Information required for reports[^key-70c3ea6f834d0eb9b33e20324c6600c0][^key-fc3b06ea2042844ff38ccfdea03786dc]
+
+(1)[^key-e578b465a5a9751ffc8f1d698deea0f6] Scottish Water and SEPA must give to the Scottish Ministers such information as the Scottish Ministers may direct for the purpose of fulfilling the obligations to publish a report under regulation 12A (reporting).
+
+(2) Any such direction[^key-bae7a9f803d1fd35e03cfc6d576b3a53] may specify the form and manner in which, the period within which or the times at which such information is to be given.
+
+## 14. Enforcement of duties imposed on local authorities[^key-aeb90371ca6a9be732dea9d661f4a435][^key-dcd591981e7273f2347b55560a25d443]
+
+(1) If the Secretary of State is satisfied that Scottish Water[^key-c025ff483894f5d18e94fb35634f50fb] has failed to do anything it is required to do by or under regulation 4, 5, 7 or 13 of these Regulations, or is likely to do so, he may, subject to paragraph (2) below, make an order declaring Scottish Water to be in default and directing it for the purpose of remedying the default to take such steps and within such time or times as may be specified in the order.
+
+(2) The Secretary of State shall be obliged to make an order under paragraph (1) above unless he is satisfied–
+
+- (a) that the failure or the apprehended failure was of a trivial nature; or
+- (b) in the case of an apprehended failure, that Scottish Water[^key-1194ad31fc0d85def844c256f456ca56] has given, and is complying with, an undertaking to take all such steps as it appears to the Secretary of State to be appropriate, for the time being, for it to take for the purpose of securing or facilitating compliance with the duty in question.
+
+(3) If Scottish Water fails to comply with an order under paragraph (1),[^key-f33aac16be25e7bd21af4376ab3c67bc] the Court of Session may, on the application of the Lord Advocate on behalf of the Secretary of State, order specific performance of the duty in respect of which there has been default, and do otherwise as to the Court appears to be just.
+
+Allan Stewart
+
+Parliamentary Under Secretary of State, Scottish Office
+
+St. Andrew’s House,
+
+Edinburgh
+
+31st October 1994
+
+## SCHEDULE 1
+
+Regulation 3
+
+### PART I — CRITERIA FOR IDENTIFICATION OF SENSITIVE AREAS[^key-c64cc03cb51c6f095e843bbf85a30dd9]
+
+A water body must be identified as a sensitive area if it falls into one of the following groups:–
+
+- (a) natural freshwater lochs, other freshwater bodies, estuaries and coastal waters which are found to be eutrophic or which in the near future may become eutrophic if protective action is not taken.
+
+  The following elements might be taken into account when considering which nutrient should be reduced by further treatment:–
+
+  - (i) lochs and streams reaching lochs/reservoirs/closed bays which are found to have a poor water exchange, whereby accumulation may take place. In these areas, the removal of phosphorus should be included unless it can be demonstrated that the removal will have no effect on the level of eutrophication. Where discharges from large agglomerations are made, the removal of nitrogen may also be considered;
+  - (ii) estuaries, bays and other coastal waters which are found to have a poor water exchange, or which receive large quantities of nutrients. Discharges from small agglomerations are usually of minor importance in those areas, but for large agglomerations, the removal of phosphorus and/or nitrogen should be included unless it can be demonstrated that the removal will have no effect on the level of eutrophication;
+- (b) surface freshwaters intended for the abstraction of drinking water which could contain more than 50 mg/l of nitrates in 95% of the samples[^key-9258d033c745e64bed0d17290328f99f] if action is not taken;
+- (c) areas where further treatment than secondary or equivalent treatment is necessary to fulfil assimilated[^key-86bdf7102aa623c791cc15fdcdac4ee0][^key-1d3f37cd7610890b1cb967583eab27d2] law.
+
+### PART II — CRITERIA FOR IDENTIFICATION OF HIGH NATURAL DISPERSION AREAS[^key-da60b6891bc93babc7fe128e5d73018c]
+
+A marine water body or area can be identified as a high natural dispersion area if the discharge of waste water does not adversely affect the environment as a result of morphology, hydrology or specific hydraulic conditions which exist in that area.
+
+When identifying high natural dispersion areas, the Secretary of State shall take into account the risk that the discharged load may be transferred to adjacent areas where it can cause detrimental environmental effects. The Secretary of State shall recognise the presence of sensitive areas outside Scotland.
+
+The following elements shall be taken into consideration when identifying high natural dispersion areas:–
+
+- open bays, estuaries and other coastal waters with a good water exchange and not subject to eutrophication or oxygen depletion or which are considered unlikely to become eutrophic or to develop oxygen depletion due to the discharge of urban waste water.
+
+## SCHEDULE 2 — REQUIREMENTS FOR COLLECTING SYSTEMS
+
+Regulation 4
+
+**1.**[^key-182b80bbb7953fe761a111a4951f8252] Collecting systems shall take into account waste water treatment requirements.
+
+**2.**[^key-31911a56862c99dadd16fb05f1efb5a8] The design, construction and maintenance of collecting systems shall be undertaken in accordance with the best technical knowledge not entailing excessive costs, notably regarding–
+
+- (a) volume and characteristics of urban waste water;
+- (b) prevention of leaks;
+- (c) limitation of pollution of receiving waters due to storm water overflows.
+
+## SCHEDULE 3
+
+Regulations 5, 6 and 11
+
+### PART I — REQUIREMENTS FOR DISCHARGES FROM TREATMENT PLANTS
+
+**1.**[^key-e1eb425a26e962a8bb64900b4881e1a0] Treatment plants shall be designed or modified so that representative samples of the incoming waste water and of treated effluent can be obtained before discharge to receiving waters.
+
+**2.**[^key-cad9795f387d14ff5cbb9028224e218e] Discharges from urban waste water treatment plants subject to treatment in accordance with regulation 5(1) and (2) shall, subject to paragraphs 4 and 5 of Part II of this Schedule, meet the requirements shown in Table 1 below.
+
+**3.**[^key-13e95f7842bf8bafe90d42f3e4570f9b] Discharges from urban waste water treatment plants to those sensitive areas which are subject to eutrophication as identified in sub-paragraph (a) of Part I of Schedule 1 shall, subject to paragraphs 4 and 5 of Part II of this Schedule, also meet the requirements in Table 2 below.
+
+**4.**[^key-64902cf29d0e9f69f093ca4abf646105] More stringent requirements than those shown in Table 1 and/or Table 2 shall be applied where required to ensure that the receiving waters satisfy assimilated[^key-dc71307946766c63168b05a59224d8b8][^key-e56d1f981852726b7763ffbe5f909055] law.
+
+**5.**[^key-437f93452ea21b1c48f8a75f93674a53] The points of discharge of urban waste water shall be chosen, as far as possible, so as to minimise the effects on receiving waters.
+
+TABLE 1
+
+REQUIREMENTS FOR DISCHARGES FROM URBAN WASTE WATER TREATMENT PLANTS SUBJECT TO REGULATION 5(1) AND (2)
+
+The values for concentration or for the percentage of reduction shall apply.
+
+<table>
+<thead>
+<tr><th>Parameters</th><th>Concentration</th><th>Minimum percentage of reduction</th><th>Reference method of measurement</th></tr>
+</thead>
+<tfoot>
+<tr><td colspan="4">Analyses concerning discharges from lagooning shall be carried out on filtered samples; however, the concentration of total suspended solids in unfiltered water samples shall not exceed 150 mg/l.</td></tr>
+</tfoot>
+<tbody>
+<tr><td>Biochemical oxygen demand (BOD5 at 20°C) without nitrification</td><td>25 mg/1 O<sub>2</sub></td><td>70-90</td><td>Homogenized, unfiltered, undecanted sample. Determination of dissolved oxygen before and after five-day incubation at 20°C ± 1°C, in complete darkness. Addition of a nitrification inhibitor.</td></tr>
+<tr><td>Chemical oxygen demand (COD)</td><td>125 mg/1 O<sub>2</sub></td><td>75</td><td>Homogenized, unfiltered, undecanted sample Potassium dichromate.</td></tr>
+</tbody>
+</table>
+
+TABLE 2
+
+REQUIREMENTS FOR DISCHARGES FROM URBAN WASTE WATER TREATMENT PLANTS TO SENSITIVE AREAS WHICH ARE SUBJECT TO EUTROPHICATION AS IDENTIFIED IN SUB-PARAGRAPH (a) OF PART I OF SCHEDULE 1
+
+One or both parameters may be applied depending on the local situation.The values for concentration or for the percentage of reduction shall apply.
+
+<table>
+<thead>
+<tr><th>Parameters</th><th>Concentration</th><th>Minimum percentage of reduction</th><th>Reference method of measurement</th></tr>
+</thead>
+<tfoot>
+<tr><td colspan="4">(1)<br>Reduction in relation to the load of the influent.</td></tr>
+<tr><td colspan="4">(2)<br>Total nitrogen means: the sum of total Kjeldahl-nitrogen (organic N+NH<sub>3</sub>), nitrate (NO<sub>3</sub>)-nitrogen and nitrite (NO<sub>2</sub>)-nitrogen.</td></tr>
+</tfoot>
+<tbody>
+<tr><td>Total phosphorus</td><td>2 mg/1 P (10,000–100,000 p.e.) 1mg/1 P (more than 100,000 p.e.)</td><td>80</td><td>Molecular absorption spectrophotometry</td></tr>
+<tr><td>Total nitrogen</td><td>15 mg/1 N (10,000–100,000 p.e.) 10 mg/1 N (more than 100,000 p.e.)</td><td>70-80</td><td>Molecular absorption spectrophotometry</td></tr>
+</tbody>
+</table>
+
+[^f01000][^f01001]
+
+### PART II — REFERENCE METHODS FOR MONITORING AND EVALUATION OF RESULTS
+
+**1.**[^key-e19047fbdc3f83e5c1a6737bec433b85]
+
+- (a) SEPA[^key-1b82f3a9df3dfa0b350126b71da12046] shall apply a monitoring method which corresponds at least with the level of requirements described below.
+- (b) Alternative methods to those mentioned in paragraphs 2, 3 and 4 may be used provided that it can be demonstrated that equivalent results are obtained.
+- (c) SEPA[^key-acac6645a0807896652c1ca905d5a85a] shall provide the Secretary of State with all relevant information concerning the applied method.
+
+**2.**[^key-0910282602a085c5ea6f9dbebaf1b49c]
+
+- (a) Flow-proportional or time-based 24-hour samples shall be collected at the same well-defined point in the outlet and if necessary in the inlet of the treatment plant in order to monitor compliance with the requirements for discharged waste water laid down in these Regulations.
+- (b) Good international laboratory practices aiming at minimising the degradation of samples between collection and analysis shall be applied.
+
+**3.**[^key-bc9d0c1efb5ae4eda01c7dace79473dd] The minimum annual number of samples shall be determined according to the size of the treatment plant and be collected at regular intervals during the year:
+
+|  |  |
+| --- | --- |
+| – 2,000 to 9,999 p.e.: | 12 samples during the first year; four samples in subsequent years, if it can be shown that the water during the first year complies with the provisions of these Regulations; if one sample of the four fails, 12 samples must be taken in the year that follows; |
+| – 10,000 to 49,999 p.e.: | 12 samples; |
+| – 50,000 p.e. or over: | 24 samples. |
+
+**4.**[^key-22540ba1796ccb595ea44c9a3cc71c23] The treated waste water shall be assumed to conform to the relevant parameters if, for each relevant parameter considered individually, samples of the water show that it complies with the relevant parametric value in the following way:–
+
+- (a) for the parameters specified in Table 1 and sub-paragraph (b) of regulation 5(8), a maximum number of samples which are allowed to fail the requirements, expressed in concentrations and/or percentage reductions in that Table and that sub-paragraph, is specified in Table 3;
+- (b) for the parameters of Table 1 expressed in concentrations, the failing samples taken under normal operating conditions must not deviate from the parametric values by more than 100%;
+- (c) for those parameters specified in Table 2 the annual mean of the samples for each parameter shall conform to the relevant parametric values.
+
+**5.**[^key-0b68b936ae29dbf8f8436dcadb0d0cd5] Extreme values for the water quality in question shall not be taken into consideration when they are the result of unusual situations such as those due to heavy rain.
+
+TABLE 3
+
+| Series of samples taken in any year | Maximum permitted number of samples which fail to conform |
+| --- | --- |
+| 4–7 | 1 |
+| 8–16 | 2 |
+| 17–28 | 3 |
+| 29–40 | 4 |
+| 41–53 | 5 |
+| 54–67 | 6 |
+| 68–81 | 7 |
+| 82–95 | 8 |
+| 96–110 | 9 |
+| 111–125 | 10 |
+| 126–140 | 11 |
+| 141–155 | 12 |
+| 156–171 | 13 |
+| 172–187; | 14 |
+| 188–203 | 15 |
+| 204–219 | 16 |
+| 220–235 | 17 |
+| 236–251 | 18 |
+| 252–268 | 19 |
+| 269–284 | 20 |
+| 285–300 | 21 |
+| 301–317 | 22 |
+| 318–334 | 23 |
+| 335–350 | 24 |
+| 351–365 | 25 |
+
+## SCHEDULE 4 — INDUSTRIAL WASTE WATER[^key-4d99aece0d757324a75e41b84a19c0df]
+
+Regulation 7
+
+[^key-4d99aece0d757324a75e41b84a19c0df]
+
+Industrial waste water entering collecting systems and urban waste water treatment plants shall be subject to such pre-treatment as is required in order to–
+
+- protect the health of staff working in collecting systems and treatment plants;
+- ensure that collecting systems, waste water treatment plants and associated equipment are not damaged;
+- ensure that the operation of the waste water treatment plant and the treatment of sludge are not impeded;
+- ensure that discharges from the treatment plants do not adversely affect the environment, or prevent receiving water from complying with assimilated[^key-bb1851b0d7b8118be3d46b59226ff987][^key-6c12d835b82075907e9598de308fbc20] law;
+- ensure that sludge can be disposed of safely in an environmentally acceptable manner.
+
+## SCHEDULE 5 — INDUSTRIAL SECTORS REFERRED TO IN REGULATION 8
+
+Regulation 8
+
+**1.**[^key-56d860514a47324332c7fdd3dc2539d5] Milk processing.
+
+**2.**[^key-e35899c4b246d578af33025c02db42e7] Manufacture of fruit and vegetable products.
+
+**3.**[^key-3549f4eb79b1fef3224a412c172fada9] Manufacture and bottling of soft drinks.
+
+**4.**[^key-ad1fd6c719374a35ffef5378cef8c526] Potato processing.
+
+**5.**[^key-f132d1c14ca43f9acb689ffede006a91] Meat industry.
+
+**6.**[^key-feb6f4bb2d147defd02541e5a22f17d2] Breweries.
+
+**7.**[^key-13bd9f68c68b299d264a33c488566526] Production of alcohol and alcoholic beverages.
+
+**8.**[^key-fee405e90fe3e54411b1f68ea7dd14ab] Manufacture of animal feed from plant products.
+
+**9.**[^key-6e851e3a20a77107bd4258ffc6b1c30d] Manufacture of gelatine and of glue from hides, skin and bones.
+
+**10.**[^key-c7410b8280d2942d3412516b97db275e] Malt-houses.
+
+**11.**[^key-3892cb429918bc8f8080a45857731727] Fish-processing industry.
+
+(This note is not part of the Regulations)
+
+These Regulations implement, as respects Scotland, Council Directive [91/271/EEC](https://www.legislation.gov.uk/european/directive/1991/0271) concerning urban waste water treatment.
+
+Regulation 4 requires local authorities to secure that “collecting systems” (this and other expressions are defined in regulations 2(1) and 5(8)) are provided by specified dates, and to secure that urban waste water entering collecting systems is subject to treatment provided in accordance with regulation 5. Regulation 5 requires such treatment to be provided by specified dates and, with regulation 6(1) and Part I of Schedule 3, prescribes the standard of treatment required. The specified date and the standard of treatment are determined according to the size of the “agglomeration” from which the waste water emanates and the nature of the waters into which the treated waste water is discharged. Generally, “secondary treatment” is required, but more stringent treatment is permissible for waters identified as “high natural dispersion areas”. The areas identified as sensitive areas and high natural dispersion areas are shown on a map deposited with every river purification authority; the Secretary of State is under a duty to review the identification of these areas at least every four years (regulation 3). Discharges from smaller agglomerations need be subjected only to “appropriate treatment”.
+
+Regulation 6 also requires the river purification authorities to secure, by means of their powers to grant and modify discharge consents under Part II of the Control of Pollution Act 1974, that the relevant requirements of the Regulations in relation to discharges are satisfied.
+
+Regulation 7 imposes requirements in respect of discharges of industrial waste water to collecting systems or treatment plants. Local authorities are empowered to modify trade effluent consents and agreements for this purpose. Regulation 8 imposes a duty on river purification authorities to secure that direct discharges on and after 31st December 2000 of biodegradable industrial waste water from the industrial sectors listed in Schedule 5 satisfy requirements appropriate to the nature of the industry concerned.
+
+Regulation 9 requires the phasing out of the dumping of sludge from ships by 31st December 1998, and the progressive reduction before that date of the total amount of toxic, persistent and bioaccumulable materials in sludge so dumped.
+
+Regulation 11 imposes a duty on the river purification authorities to ensure that monitoring of discharges and waters to which the Regulations apply, and such other studies as are required by the Regulations, are carried out. The requirements as to monitoring of discharges are set out in Part II of Schedule 3, and regulation 10 makes provision in connection with samples and records obtained in accordance with those requirements.
+
+Regulation 12 requires the river purification authorities to keep certain documents available for inspection by the public, and regulation 13 enables the Secretary of State to require information to be furnished to him for the purpose of enabling him to comply with certain requirements of the Directive.
+
+Regulation 14 provides for the Secretary of State to take enforcement action against a local authority which has failed, or is likely to fail, to comply with the Regulations.
+
+The Compliance Cost Assessment relating to these Regulations is available in the library of each House of Parliament. A copy of it can be obtained from the Scottish Office Environment Department, 27 Perth Street, Edinburgh, EH3 5RB.
+
+## Annotations
+
+[^f00001]: Footnote: S.I. [1992/1711](https://www.legislation.gov.uk/uksi/1992/1711).
+
+[^f00002]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68).
+
+[^key-e5b47ae6ce5d15240d1092c5615f8cfd]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/1994/2842/regulation/1) in force at 30.11.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/2842/regulation/1)
+
+[^key-f316af3afed0debe70501ede98c99801]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/1994/2842/regulation/2) in force at 30.11.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/2842/regulation/1)
+
+[^f00003]: Footnote: OJ No. L135, 30.5.91, p.40.
+
+[^key-28f8d486d17db99e7d9f785d48dd8670]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1994/2842/regulation/2/1) inserted (28.2.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) (Scotland) Regulations 2018 (S.S.I. 2018/391)](https://www.legislation.gov.uk/ssi/2018/391), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1), [7(2)(a)](https://www.legislation.gov.uk/ssi/2018/391/regulation/7/2/a)
+
+[^key-fd490affcf3f84b2e7b906c7abeda70a]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1994/2842/regulation/2/1) inserted (1.7.2019) by [The Environment (EU Exit) (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/175)](https://www.legislation.gov.uk/ssi/2019/175), [regs. 1(1)(a)](https://www.legislation.gov.uk/ssi/2019/175/regulation/1/1/a), [2](https://www.legislation.gov.uk/ssi/2019/175/regulation/2)
+
+[^key-d4a014e4de5fdaacacb2ca9034c71b62]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1994/2842/regulation/2/1) omitted (28.2.2019) by virtue of [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) (Scotland) Regulations 2018 (S.S.I. 2018/391)](https://www.legislation.gov.uk/ssi/2018/391), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1), [7(2)(b)](https://www.legislation.gov.uk/ssi/2018/391/regulation/7/2/b)
+
+[^key-4bf355bcdabbd38b0777c83804f324b5]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1994/2842/regulation/2/1) inserted (28.2.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) (Scotland) Regulations 2018 (S.S.I. 2018/391)](https://www.legislation.gov.uk/ssi/2018/391), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1), [7(2)(c)](https://www.legislation.gov.uk/ssi/2018/391/regulation/7/2/c)
+
+[^key-e695c483236cfb0a377f3a249de6ca0f]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1994/2842/regulation/2/1) cease to have effect (1.4.1996) by virtue of [The Environment Act 1995 (Consequential and Transitional Provisions) (Scotland) Regulations 1996 (S.I. 1996/973)](https://www.legislation.gov.uk/uksi/1996/973), [reg. 1](https://www.legislation.gov.uk/uksi/1996/973/regulation/1), [Sch. para. 19(2)](https://www.legislation.gov.uk/uksi/1996/973/schedule/paragraph/19/2)
+
+[^key-27ed84827a41544cc0b360a7c0c943e3]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1994/2842/regulation/2/1) inserted (1.4.1996) by [The Environment Act 1995 (Consequential and Transitional Provisions) (Scotland) Regulations 1996 (S.I. 1996/973)](https://www.legislation.gov.uk/uksi/1996/973), [reg. 1](https://www.legislation.gov.uk/uksi/1996/973/regulation/1), [Sch. para. 19(2)](https://www.legislation.gov.uk/uksi/1996/973/schedule/paragraph/19/2)
+
+[^key-090cc1636982fd59e4c88f52fabcd7a5]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1994/2842/regulation/2/1) inserted (28.2.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) (Scotland) Regulations 2018 (S.S.I. 2018/391)](https://www.legislation.gov.uk/ssi/2018/391), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1), [7(2)(d)](https://www.legislation.gov.uk/ssi/2018/391/regulation/7/2/d)
+
+[^key-20a04fe3acd2052acbec1b68d0bab2e3]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/1994/2842/regulation/3) in force at 30.11.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/2842/regulation/1)
+
+[^key-b74c93e03d95b040451f060c4c612add]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/1994/2842/regulation/3/1) inserted (27.6.2003) by [The Urban Waste Water Treatment (Scotland) Amendment Regulations 2003 (S.S.I. 2003/273)](https://www.legislation.gov.uk/ssi/2003/273), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2003/273/regulation/1/1), [4(2)](https://www.legislation.gov.uk/ssi/2003/273/regulation/4/2)
+
+[^key-d21fa6695d071f464b2fda48605962c4]: Textual amendment: Word in [reg. 3(1)](https://www.legislation.gov.uk/uksi/1994/2842/regulation/3/1) substituted (1.4.1996) by [The Environment Act 1995 (Consequential and Transitional Provisions) (Scotland) Regulations 1996 (S.I. 1996/973)](https://www.legislation.gov.uk/uksi/1996/973), [reg. 1](https://www.legislation.gov.uk/uksi/1996/973/regulation/1), [Sch. para. 19(3)](https://www.legislation.gov.uk/uksi/1996/973/schedule/paragraph/19/3)
+
+[^key-fac80183e6ad7c2f29a8e591eb8a5c86]: Textual amendment: [Reg. 3(3)](https://www.legislation.gov.uk/uksi/1994/2842/regulation/3/3) ceases to have effect (27.6.2003) by virtue of [The Urban Waste Water Treatment (Scotland) Amendment Regulations 2003 (S.S.I. 2003/273)](https://www.legislation.gov.uk/ssi/2003/273), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2003/273/regulation/1/1), [4(3)](https://www.legislation.gov.uk/ssi/2003/273/regulation/4/3)
+
+[^key-7e368edacc3f8e5ed1dac7e57873834e]: Textual amendment: Word in [reg. 3(3)](https://www.legislation.gov.uk/uksi/1994/2842/regulation/3/3) substituted (1.4.1996) by [The Environment Act 1995 (Consequential and Transitional Provisions) (Scotland) Regulations 1996 (S.I. 1996/973)](https://www.legislation.gov.uk/uksi/1996/973), [reg. 1](https://www.legislation.gov.uk/uksi/1996/973/regulation/1), [Sch. para. 19(3)](https://www.legislation.gov.uk/uksi/1996/973/schedule/paragraph/19/3)
+
+[^key-f947280d2feb330efb48e7416aab022b]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/1994/2842/regulation/4) in force at 30.11.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/2842/regulation/1)
+
+[^key-237008e0d23b633ed3511af31e1f0257]: Textual amendment: Words in [reg. 4](https://www.legislation.gov.uk/uksi/1994/2842/regulation/4) substituted (28.2.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) (Scotland) Regulations 2018 (S.S.I. 2018/391)](https://www.legislation.gov.uk/ssi/2018/391), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1), [7(3)](https://www.legislation.gov.uk/ssi/2018/391/regulation/7/3)
+
+[^key-42196e6453740d018b272171aabd37c6]: Textual amendment: Word in [reg. 4(2)](https://www.legislation.gov.uk/uksi/1994/2842/regulation/4/2) substituted (1.4.1996) by [The Environment Act 1995 (Consequential and Transitional Provisions) (Scotland) Regulations 1996 (S.I. 1996/973)](https://www.legislation.gov.uk/uksi/1996/973), [reg. 1](https://www.legislation.gov.uk/uksi/1996/973/regulation/1), [Sch. para. 19(3)](https://www.legislation.gov.uk/uksi/1996/973/schedule/paragraph/19/3)
+
+[^key-3cadffed8acf58d59545841b29fed27c]: Textual amendment: Words in [reg. 4(2)(a)](https://www.legislation.gov.uk/uksi/1994/2842/regulation/4/2/a) cease to have effect (1.4.1996) by [The Environment Act 1995 (Consequential and Transitional Provisions) (Scotland) Regulations 1996 (S.I. 1996/973)](https://www.legislation.gov.uk/uksi/1996/973), [reg. 1](https://www.legislation.gov.uk/uksi/1996/973/regulation/1), [Sch. para. 19(4)](https://www.legislation.gov.uk/uksi/1996/973/schedule/paragraph/19/4)
+
+[^key-7ad95f23d7264ac419a646d9e33e0bed]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/1994/2842/regulation/5) in force at 30.11.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/2842/regulation/1)
+
+[^key-2ecd7b70492cd81e0695dfbe359d81da]: Textual amendment: Word in [reg. 5(1)(a)](https://www.legislation.gov.uk/uksi/1994/2842/regulation/5/1/a) substituted (31.12.2020) by [The Environment (EU Exit) (Scotland) (Amendment etc.) Regulations 2019 (S.S.I. 2019/26)](https://www.legislation.gov.uk/ssi/2019/26), [regs. 1](https://www.legislation.gov.uk/ssi/2019/26/regulation/1), [6(2)(a)(i)](https://www.legislation.gov.uk/ssi/2019/26/regulation/6/2/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-7878410f373e3b5e683df9676017cd5b]: Textual amendment: Words in [reg. 5(1)(a)](https://www.legislation.gov.uk/uksi/1994/2842/regulation/5/1/a) omitted (31.12.2020) by virtue of [The Environment (EU Exit) (Scotland) (Amendment etc.) Regulations 2019 (S.S.I. 2019/26)](https://www.legislation.gov.uk/ssi/2019/26), [regs. 1](https://www.legislation.gov.uk/ssi/2019/26/regulation/1), [6(2)(a)(ii)](https://www.legislation.gov.uk/ssi/2019/26/regulation/6/2/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-45ac027993562d8f4e8a6908ab6f9159]: Textual amendment: Word in [reg. 5(3)](https://www.legislation.gov.uk/uksi/1994/2842/regulation/5/3) substituted (1.4.1996) by [The Environment Act 1995 (Consequential and Transitional Provisions) (Scotland) Regulations 1996 (S.I. 1996/973)](https://www.legislation.gov.uk/uksi/1996/973), [reg. 1](https://www.legislation.gov.uk/uksi/1996/973/regulation/1), [Sch. para. 19(3)](https://www.legislation.gov.uk/uksi/1996/973/schedule/paragraph/19/3)
+
+[^key-c2bc9f31214b17a2b8a1f88deddb0ea6]: Textual amendment: Words in [reg. 5(3)](https://www.legislation.gov.uk/uksi/1994/2842/regulation/5/3) cease to have effect (1.4.1996) by [The Environment Act 1995 (Consequential and Transitional Provisions) (Scotland) Regulations 1996 (S.I. 1996/973)](https://www.legislation.gov.uk/uksi/1996/973), [reg. 1](https://www.legislation.gov.uk/uksi/1996/973/regulation/1), [Sch. para. 19(5)](https://www.legislation.gov.uk/uksi/1996/973/schedule/paragraph/19/5)
+
+[^key-33f56887d90ad051fef740d8cb364092]: Textual amendment: Words in [reg. 5(5)](https://www.legislation.gov.uk/uksi/1994/2842/regulation/5/5) omitted (31.12.2020) by virtue of [The Environment (EU Exit) (Scotland) (Amendment etc.) Regulations 2019 (S.S.I. 2019/26)](https://www.legislation.gov.uk/ssi/2019/26), [regs. 1](https://www.legislation.gov.uk/ssi/2019/26/regulation/1), [6(2)(b)](https://www.legislation.gov.uk/ssi/2019/26/regulation/6/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-7f7b478c364f24ccd0be1c43e148ebcc]: Textual amendment: Word in [reg. 5(5)(6)](https://www.legislation.gov.uk/uksi/1994/2842/regulation/5/5/6) substituted (1.4.1996) by [The Environment Act 1995 (Consequential and Transitional Provisions) (Scotland) Regulations 1996 (S.I. 1996/973)](https://www.legislation.gov.uk/uksi/1996/973), [reg. 1](https://www.legislation.gov.uk/uksi/1996/973/regulation/1), [Sch. para. 19(3)](https://www.legislation.gov.uk/uksi/1996/973/schedule/paragraph/19/3)
+
+[^key-d8abf9b7f548254f52b18593239e4657]: Textual amendment: Words in [reg. 5(5)(b)](https://www.legislation.gov.uk/uksi/1994/2842/regulation/5/5/b) cease to have effect (1.4.1996) by [The Environment Act 1995 (Consequential and Transitional Provisions) (Scotland) Regulations 1996 (S.I. 1996/973)](https://www.legislation.gov.uk/uksi/1996/973), [reg. 1](https://www.legislation.gov.uk/uksi/1996/973/regulation/1), [Sch. para. 19(4)](https://www.legislation.gov.uk/uksi/1996/973/schedule/paragraph/19/4)
+
+[^key-d12684df0e315ae06ea0b0e9237e480c]: Textual amendment: Words in [reg. 5(6)](https://www.legislation.gov.uk/uksi/1994/2842/regulation/5/6) omitted (31.12.2020) by virtue of [The Environment (EU Exit) (Scotland) (Amendment etc.) Regulations 2019 (S.S.I. 2019/26)](https://www.legislation.gov.uk/ssi/2019/26), [regs. 1](https://www.legislation.gov.uk/ssi/2019/26/regulation/1), [6(2)(c)](https://www.legislation.gov.uk/ssi/2019/26/regulation/6/2/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-4ea603b91c534c230d6538d94d88654a]: Textual amendment: Word in [reg. 5(8)](https://www.legislation.gov.uk/uksi/1994/2842/regulation/5/8) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Scotland) Regulations 2023 (S.S.I. 2023/374)](https://www.legislation.gov.uk/ssi/2023/374), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/374/regulation/1/1), [sch. 2 para. 1(2)](https://www.legislation.gov.uk/ssi/2023/374/schedule/2/paragraph/1/2)
+
+[^key-f14b8b50a467ddf8fdc808e33c1ed385]: Textual amendment: Words in [reg. 5(8)(a)](https://www.legislation.gov.uk/uksi/1994/2842/regulation/5/8/a) substituted (31.12.2020) by [The Environment (EU Exit) (Scotland) (Amendment etc.) Regulations 2019 (S.S.I. 2019/26)](https://www.legislation.gov.uk/ssi/2019/26), [regs. 1](https://www.legislation.gov.uk/ssi/2019/26/regulation/1), [6(2)(d)](https://www.legislation.gov.uk/ssi/2019/26/regulation/6/2/d); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-5faccb807fb941f3684ddcdbf8980add]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/1994/2842/regulation/6) in force at 30.11.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/2842/regulation/1)
+
+[^key-6e6ed4c74f97cc20945061f47a8a15b7]: Textual amendment: Words in [reg. 6](https://www.legislation.gov.uk/uksi/1994/2842/regulation/6) substituted (28.2.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) (Scotland) Regulations 2018 (S.S.I. 2018/391)](https://www.legislation.gov.uk/ssi/2018/391), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1), [7(4)](https://www.legislation.gov.uk/ssi/2018/391/regulation/7/4)
+
+[^key-a9b2d1a664095217abbc2da35380f148]: Textual amendment: Word in [reg. 6(2)(3)(4)](https://www.legislation.gov.uk/uksi/1994/2842/regulation/6/2/3/4) substituted (1.4.1996) by [The Environment Act 1995 (Consequential and Transitional Provisions) (Scotland) Regulations 1996 (S.I. 1996/973)](https://www.legislation.gov.uk/uksi/1996/973), [reg. 1](https://www.legislation.gov.uk/uksi/1996/973/regulation/1), [Sch. para. 19(3)](https://www.legislation.gov.uk/uksi/1996/973/schedule/paragraph/19/3)
+
+[^f00006]: Footnote: [1974 c. 40](https://www.legislation.gov.uk/ukpga/1974/40).
+
+[^f00007]: Footnote: [1974 c. 40](https://www.legislation.gov.uk/ukpga/1974/40); section 32 was substituted by the Water Act [1989 (c. 15)](https://www.legislation.gov.uk/ukpga/1989/15), Schedule 23, paragraph 4 and amended by the Environmental Protection Act [1990 (c. 43)](https://www.legislation.gov.uk/ukpga/1990/43), Schedule 15, paragraph 16(3).
+
+[^key-7c68f668c1ad455b797f1cf209e29043]: Textual amendment: [Reg. 6(6)](https://www.legislation.gov.uk/uksi/1994/2842/regulation/6/6) ceases to have effect (1.4.1996) by [The Environment Act 1995 (Consequential and Transitional Provisions) (Scotland) Regulations 1996 (S.I. 1996/973)](https://www.legislation.gov.uk/uksi/1996/973), [reg. 1](https://www.legislation.gov.uk/uksi/1996/973/regulation/1), [Sch. para. 19(6)](https://www.legislation.gov.uk/uksi/1996/973/schedule/paragraph/19/6)
+
+[^key-83c39fc92114138506f16d8677d5a500]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/1994/2842/regulation/7) in force at 30.11.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/2842/regulation/1)
+
+[^key-0c63cfde02ffaa846bed0fc9ab89f6c3]: Textual amendment: Words in [reg. 7](https://www.legislation.gov.uk/uksi/1994/2842/regulation/7) substituted (28.2.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) (Scotland) Regulations 2018 (S.S.I. 2018/391)](https://www.legislation.gov.uk/ssi/2018/391), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1), [7(5)(a)](https://www.legislation.gov.uk/ssi/2018/391/regulation/7/5/a)
+
+[^key-c85a72acb50094331d3c55a4afba3f03]: Textual amendment: Words in [reg. 7](https://www.legislation.gov.uk/uksi/1994/2842/regulation/7) substituted (28.2.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) (Scotland) Regulations 2018 (S.S.I. 2018/391)](https://www.legislation.gov.uk/ssi/2018/391), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1), [7(5)(b)](https://www.legislation.gov.uk/ssi/2018/391/regulation/7/5/b)
+
+[^key-23c40e17799b4cf2a70ca97d9280bafd]: Textual amendment: Words in [reg. 7(4)(a)](https://www.legislation.gov.uk/uksi/1994/2842/regulation/7/4/a) substituted (28.2.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) (Scotland) Regulations 2018 (S.S.I. 2018/391)](https://www.legislation.gov.uk/ssi/2018/391), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1), [7(5)(c)](https://www.legislation.gov.uk/ssi/2018/391/regulation/7/5/c)
+
+[^key-f949c5265445218fd82012e3103f06c2]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/1994/2842/regulation/8) in force at 30.11.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/2842/regulation/1)
+
+[^key-17845e916e917127fd37cf80a882b288]: Textual amendment: Word in [reg. 8(2)(3)](https://www.legislation.gov.uk/uksi/1994/2842/regulation/8/2/3) substituted (1.4.1996) by [The Environment Act 1995 (Consequential and Transitional Provisions) (Scotland) Regulations 1996 (S.I. 1996/973)](https://www.legislation.gov.uk/uksi/1996/973), [reg. 1](https://www.legislation.gov.uk/uksi/1996/973/regulation/1), [Sch. para. 19(3)](https://www.legislation.gov.uk/uksi/1996/973/schedule/paragraph/19/3)
+
+[^f00009]: Footnote: Section 37(1) was substituted by the Water Act [1989 (c. 15)](https://www.legislation.gov.uk/ukpga/1989/15) Schedule 23, paragraph 4.
+
+[^f00010]: Footnote: Section 38 was substituted by the Water Act 1989, Schedule 23, paragraph 4.
+
+[^f00011]: Footnote: [1990 c. 43](https://www.legislation.gov.uk/ukpga/1990/43).
+
+[^f00012]: Footnote: See S.I. [1992/530](https://www.legislation.gov.uk/uksi/1992/530), regulation 5.
+
+[^key-f2ed880c12b8a5dc71b5213ab74afc1e]: Textual amendment: [Reg. 8(5)](https://www.legislation.gov.uk/uksi/1994/2842/regulation/8/5) ceases to have effect (1.4.1996) by [The Environment Act 1995 (Consequential and Transitional Provisions) (Scotland) Regulations 1996 (S.I. 1996/973)](https://www.legislation.gov.uk/uksi/1996/973), [reg. 1](https://www.legislation.gov.uk/uksi/1996/973/regulation/1), [Sch. para. 19(6)](https://www.legislation.gov.uk/uksi/1996/973/schedule/paragraph/19/6)
+
+[^key-8c817c51c3a326ba57774a7417858198]: Textual amendment: [Reg. 9](https://www.legislation.gov.uk/uksi/1994/2842/regulation/9) omitted (6.4.2011) by virtue of [The Marine (Scotland) Act 2010 (Transitional and Consequential Provisions) Order 2011 (S.S.I. 2011/202)](https://www.legislation.gov.uk/ssi/2011/202), [arts. 1](https://www.legislation.gov.uk/ssi/2011/202/article/1), [12(a)](https://www.legislation.gov.uk/ssi/2011/202/article/12/a)
+
+[^key-7f2fc5e0b6fd772d82d017b0ae171f6c]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/1994/2842/regulation/10) in force at 30.11.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/2842/regulation/1)
+
+[^f00015]: Footnote: [1951 c. 66](https://www.legislation.gov.uk/ukpga/1951/66); section 19(2) was substituted, and section 19(4) inserted, by the Rivers (Prevention of Pollution) (Scotland) Act [1965 (c. 13)](https://www.legislation.gov.uk/ukpga/1965/13), section 10(6); and section 19(3) was amended by the Control of Pollution Act [1974 (c. 40)](https://www.legislation.gov.uk/ukpga/1974/40), Schedule 3, paragraph 15 and by the Water Act [1989 (c. 15)](https://www.legislation.gov.uk/ukpga/1989/15), Schedule 25, paragraph 17.
+
+[^key-bf74b136c29138ec2d90c62113a4afed]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/1994/2842/regulation/11) in force at 30.11.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/2842/regulation/1)
+
+[^key-82588ab1a119786a5e43bd2f9d978a47]: Textual amendment: Word in [reg. 11(1)](https://www.legislation.gov.uk/uksi/1994/2842/regulation/11/1) substituted (1.4.1996) by [The Environment Act 1995 (Consequential and Transitional Provisions) (Scotland) Regulations 1996 (S.I. 1996/973)](https://www.legislation.gov.uk/uksi/1996/973), [reg. 1](https://www.legislation.gov.uk/uksi/1996/973/regulation/1), [Sch. para. 19(3)](https://www.legislation.gov.uk/uksi/1996/973/schedule/paragraph/19/3)
+
+[^key-78997232ce4639db6eaa5d576fb3d685]: Textual amendment: Words in [reg. 11(1)(a)-(d)](https://www.legislation.gov.uk/uksi/1994/2842/regulation/11/1/a) revoked (1.4.1996) by [The Environment Act 1995 (Consequential and Transitional Provisions) (Scotland) Regulations 1996 (S.I. 1996/973)](https://www.legislation.gov.uk/uksi/1996/973), [reg. 1](https://www.legislation.gov.uk/uksi/1996/973/regulation/1), [Sch. para. 19(7)](https://www.legislation.gov.uk/uksi/1996/973/schedule/paragraph/19/7)
+
+[^key-e809fc44cedd14dda12c6bc65ce2e3b9]: Textual amendment: [Reg. 11(2)](https://www.legislation.gov.uk/uksi/1994/2842/regulation/11/2) omitted (6.4.2011) by virtue of [The Marine (Scotland) Act 2010 (Transitional and Consequential Provisions) Order 2011 (S.S.I. 2011/202)](https://www.legislation.gov.uk/ssi/2011/202), [arts. 1](https://www.legislation.gov.uk/ssi/2011/202/article/1), [12(a)](https://www.legislation.gov.uk/ssi/2011/202/article/12/a)
+
+[^key-b7e4813a0e3cc0b24b0457e3656c3bf9]: Textual amendment: Word in [reg. 11(3)](https://www.legislation.gov.uk/uksi/1994/2842/regulation/11/3) substituted (1.4.1996) by [The Environment Act 1995 (Consequential and Transitional Provisions) (Scotland) Regulations 1996 (S.I. 1996/973)](https://www.legislation.gov.uk/uksi/1996/973), [reg. 1](https://www.legislation.gov.uk/uksi/1996/973/regulation/1), [Sch. para. 19(3)](https://www.legislation.gov.uk/uksi/1996/973/schedule/paragraph/19/3)
+
+[^key-41e148f3435c9307be33d699fcd984cf]: Textual amendment: Words in [reg. 11(3)](https://www.legislation.gov.uk/uksi/1994/2842/regulation/11/3) omitted (6.4.2011) by virtue of [The Marine (Scotland) Act 2010 (Transitional and Consequential Provisions) Order 2011 (S.S.I. 2011/202)](https://www.legislation.gov.uk/ssi/2011/202), [arts. 1](https://www.legislation.gov.uk/ssi/2011/202/article/1), [12(b)(i)](https://www.legislation.gov.uk/ssi/2011/202/article/12/b/i)
+
+[^key-d8bed4aa441b2f58afa84fcdc2bc954e]: Textual amendment: Words in [reg. 11(3)](https://www.legislation.gov.uk/uksi/1994/2842/regulation/11/3) omitted (6.4.2011) by virtue of [The Marine (Scotland) Act 2010 (Transitional and Consequential Provisions) Order 2011 (S.S.I. 2011/202)](https://www.legislation.gov.uk/ssi/2011/202), [arts. 1](https://www.legislation.gov.uk/ssi/2011/202/article/1), [12(b)(ii)](https://www.legislation.gov.uk/ssi/2011/202/article/12/b/ii)
+
+[^key-52cef06e3a33750eafaef73223205d29]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/1994/2842/regulation/12) in force at 30.11.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/2842/regulation/1)
+
+[^key-cfc2aa7ee5842f230ab0f989852facca]: Textual amendment: Word in [reg. 12](https://www.legislation.gov.uk/uksi/1994/2842/regulation/12) substituted (1.4.1996) by [The Environment Act 1995 (Consequential and Transitional Provisions) (Scotland) Regulations 1996 (S.I. 1996/973)](https://www.legislation.gov.uk/uksi/1996/973), [reg. 1](https://www.legislation.gov.uk/uksi/1996/973/regulation/1), [Sch. para. 19(3)](https://www.legislation.gov.uk/uksi/1996/973/schedule/paragraph/19/3)
+
+[^key-7b0e62dbd7bdeeedc8479bb8b3d44045]: Textual amendment: Words in [reg. 12](https://www.legislation.gov.uk/uksi/1994/2842/regulation/12) cease to have effect (1.4.1996) by [The Environment Act 1995 (Consequential and Transitional Provisions) (Scotland) Regulations 1996 (S.I. 1996/973)](https://www.legislation.gov.uk/uksi/1996/973), [reg. 1](https://www.legislation.gov.uk/uksi/1996/973/regulation/1), [Sch. para. 19(8)(a)](https://www.legislation.gov.uk/uksi/1996/973/schedule/paragraph/19/8/a)
+
+[^key-aae273bab683ee98a9060d4b89de86c3]: Textual amendment: Words in [reg. 12(a)](https://www.legislation.gov.uk/uksi/1994/2842/regulation/12/a) cease to have effect (1.4.1996) by [The Environment Act 1995 (Consequential and Transitional Provisions) (Scotland) Regulations 1996 (S.I. 1996/973)](https://www.legislation.gov.uk/uksi/1996/973), [reg. 1](https://www.legislation.gov.uk/uksi/1996/973/regulation/1), [Sch. para. 19(8)(b)](https://www.legislation.gov.uk/uksi/1996/973/schedule/paragraph/19/8/b)
+
+[^key-d047ba1bfa8f13ea828d2138ce6e5dc8]: Textual amendment: [Reg. 12(b)](https://www.legislation.gov.uk/uksi/1994/2842/regulation/12/b) ceases to have effect (27.6.2003) by virtue of [The Urban Waste Water Treatment (Scotland) Amendment Regulations 2003 (S.S.I. 2003/273)](https://www.legislation.gov.uk/ssi/2003/273), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2003/273/regulation/1/1), [4(3)](https://www.legislation.gov.uk/ssi/2003/273/regulation/4/3)
+
+[^key-38cc469af94ac0c79e6aa057a066dfb6]: Textual amendment: [Reg. 12A](https://www.legislation.gov.uk/uksi/1994/2842/regulation/12A) inserted (31.12.2020) by [The Environment (EU Exit) (Scotland) (Amendment etc.) Regulations 2019 (S.S.I. 2019/26)](https://www.legislation.gov.uk/ssi/2019/26), [regs. 1](https://www.legislation.gov.uk/ssi/2019/26/regulation/1), [6(3)](https://www.legislation.gov.uk/ssi/2019/26/regulation/6/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-70c3ea6f834d0eb9b33e20324c6600c0]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/1994/2842/regulation/13) in force at 30.11.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/2842/regulation/1)
+
+[^key-fc3b06ea2042844ff38ccfdea03786dc]: Textual amendment: Words in [reg. 13](https://www.legislation.gov.uk/uksi/1994/2842/regulation/13) heading substituted (31.12.2020) by [The Environment (EU Exit) (Scotland) (Amendment etc.) Regulations 2019 (S.S.I. 2019/26)](https://www.legislation.gov.uk/ssi/2019/26), [regs. 1](https://www.legislation.gov.uk/ssi/2019/26/regulation/1), [6(4)(a)](https://www.legislation.gov.uk/ssi/2019/26/regulation/6/4/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-e578b465a5a9751ffc8f1d698deea0f6]: Textual amendment: [Reg. 13(1)](https://www.legislation.gov.uk/uksi/1994/2842/regulation/13/1) substituted (31.12.2020) by [The Environment (EU Exit) (Scotland) (Amendment etc.) Regulations 2019 (S.S.I. 2019/26)](https://www.legislation.gov.uk/ssi/2019/26), [regs. 1](https://www.legislation.gov.uk/ssi/2019/26/regulation/1), [6(4)(b)](https://www.legislation.gov.uk/ssi/2019/26/regulation/6/4/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-bae7a9f803d1fd35e03cfc6d576b3a53]: Textual amendment: Word in [reg. 13(2)](https://www.legislation.gov.uk/uksi/1994/2842/regulation/13/2) substituted (31.12.2020) by [The Environment (EU Exit) (Scotland) (Amendment etc.) Regulations 2019 (S.S.I. 2019/26)](https://www.legislation.gov.uk/ssi/2019/26), [regs. 1](https://www.legislation.gov.uk/ssi/2019/26/regulation/1), [6(4)(c)](https://www.legislation.gov.uk/ssi/2019/26/regulation/6/4/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-aeb90371ca6a9be732dea9d661f4a435]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/1994/2842/regulation/14) in force at 30.11.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/2842/regulation/1)
+
+[^key-dcd591981e7273f2347b55560a25d443]: Modification: [Reg. 14](https://www.legislation.gov.uk/uksi/1994/2842/regulation/14): functions transferred (temp.) (6.5.1999) by [The Scotland Act 1998 (General Transitory, Transitional and Savings Provisions) Order 1999 (S.I. 1999/901)](https://www.legislation.gov.uk/uksi/1999/901), [art. 5](https://www.legislation.gov.uk/uksi/1999/901/article/5), [Sch.](https://www.legislation.gov.uk/uksi/1999/901/schedule) (with [arts. 8](https://www.legislation.gov.uk/uksi/1999/901/article/8), [9](https://www.legislation.gov.uk/uksi/1999/901/article/9))
+
+[^key-c025ff483894f5d18e94fb35634f50fb]: Textual amendment: Words in [reg. 14(1)](https://www.legislation.gov.uk/uksi/1994/2842/regulation/14/1) substituted (28.2.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) (Scotland) Regulations 2018 (S.S.I. 2018/391)](https://www.legislation.gov.uk/ssi/2018/391), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1), [7(7)(a)](https://www.legislation.gov.uk/ssi/2018/391/regulation/7/7/a)
+
+[^key-1194ad31fc0d85def844c256f456ca56]: Textual amendment: Words in [reg. 14(2)(b)](https://www.legislation.gov.uk/uksi/1994/2842/regulation/14/2/b) substituted (28.2.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) (Scotland) Regulations 2018 (S.S.I. 2018/391)](https://www.legislation.gov.uk/ssi/2018/391), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1), [7(7)(b)](https://www.legislation.gov.uk/ssi/2018/391/regulation/7/7/b)
+
+[^key-f33aac16be25e7bd21af4376ab3c67bc]: Textual amendment: Words in [reg. 14(3)](https://www.legislation.gov.uk/uksi/1994/2842/regulation/14/3) substituted (28.2.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) (Scotland) Regulations 2018 (S.S.I. 2018/391)](https://www.legislation.gov.uk/ssi/2018/391), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1), [7(7)(c)](https://www.legislation.gov.uk/ssi/2018/391/regulation/7/7/c)
+
+[^key-c64cc03cb51c6f095e843bbf85a30dd9]: Commencement: [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/1994/2842/schedule/1/part/I) in force at 30.11.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/2842/regulation/1)
+
+[^key-9258d033c745e64bed0d17290328f99f]: Textual amendment: Words in [Sch. 1 Pt. 1(b)](https://www.legislation.gov.uk/uksi/1994/2842/schedule/1/part/I) substituted (28.2.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) (Scotland) Regulations 2018 (S.S.I. 2018/391)](https://www.legislation.gov.uk/ssi/2018/391), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1), [7(8)](https://www.legislation.gov.uk/ssi/2018/391/regulation/7/8)
+
+[^key-86bdf7102aa623c791cc15fdcdac4ee0]: Textual amendment: Word in [Sch. 1 Pt. 1(c)](https://www.legislation.gov.uk/uksi/1994/2842/schedule/1/part/1/c) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Scotland) Regulations 2023 (S.S.I. 2023/374)](https://www.legislation.gov.uk/ssi/2023/374), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/374/regulation/1/1), [sch. 2 para. 1(3)](https://www.legislation.gov.uk/ssi/2023/374/schedule/2/paragraph/1/3)
+
+[^key-1d3f37cd7610890b1cb967583eab27d2]: Textual amendment: Words in [Sch. 1 Pt. 1(c)](https://www.legislation.gov.uk/uksi/1994/2842/schedule/1/part/1/c) substituted (31.12.2020) by [The Environment (EU Exit) (Scotland) (Amendment etc.) Regulations 2019 (S.S.I. 2019/26)](https://www.legislation.gov.uk/ssi/2019/26), [regs. 1](https://www.legislation.gov.uk/ssi/2019/26/regulation/1), [6(5)](https://www.legislation.gov.uk/ssi/2019/26/regulation/6/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-da60b6891bc93babc7fe128e5d73018c]: Commencement: [Sch. 1 Pt. II](https://www.legislation.gov.uk/uksi/1994/2842/schedule/1/part/II) in force at 30.11.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/2842/regulation/1)
+
+[^key-182b80bbb7953fe761a111a4951f8252]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/1994/2842/schedule/2/paragraph/1) in force at 30.11.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/2842/regulation/1)
+
+[^key-31911a56862c99dadd16fb05f1efb5a8]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/1994/2842/schedule/2/paragraph/2) in force at 30.11.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/2842/regulation/1)
+
+[^key-e1eb425a26e962a8bb64900b4881e1a0]: Commencement: [Sch. 3 Pt. I para. 1](https://www.legislation.gov.uk/uksi/1994/2842/schedule/3/part/I/paragraph/1) in force at 30.11.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/2842/regulation/1)
+
+[^key-cad9795f387d14ff5cbb9028224e218e]: Commencement: [Sch. 3 Pt. I para. 2](https://www.legislation.gov.uk/uksi/1994/2842/schedule/3/part/I/paragraph/2) in force at 30.11.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/2842/regulation/1)
+
+[^key-13e95f7842bf8bafe90d42f3e4570f9b]: Commencement: [Sch. 3 Pt. I para. 3](https://www.legislation.gov.uk/uksi/1994/2842/schedule/3/part/I/paragraph/3) in force at 30.11.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/2842/regulation/1)
+
+[^key-64902cf29d0e9f69f093ca4abf646105]: Commencement: [Sch. 3 Pt. 1 para. 4](https://www.legislation.gov.uk/uksi/1994/2842/schedule/3/part/I/paragraph/4) in force at 30.11.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/2842/regulation/1)
+
+[^key-dc71307946766c63168b05a59224d8b8]: Textual amendment: Word in [Sch. 3 Pt. 1 para. 4](https://www.legislation.gov.uk/uksi/1994/2842/schedule/3/part/I/paragraph/4) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Scotland) Regulations 2023 (S.S.I. 2023/374)](https://www.legislation.gov.uk/ssi/2023/374), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/374/regulation/1/1), [sch. 2 para. 1(4)](https://www.legislation.gov.uk/ssi/2023/374/schedule/2/paragraph/1/4)
+
+[^key-e56d1f981852726b7763ffbe5f909055]: Textual amendment: Words in [Sch. 3 Pt. 1 para. 4](https://www.legislation.gov.uk/uksi/1994/2842/schedule/3/part/I/paragraph/4) substituted (31.12.2020) by [The Environment (EU Exit) (Scotland) (Amendment etc.) Regulations 2019 (S.S.I. 2019/26)](https://www.legislation.gov.uk/ssi/2019/26), [regs. 1](https://www.legislation.gov.uk/ssi/2019/26/regulation/1), [6(6)](https://www.legislation.gov.uk/ssi/2019/26/regulation/6/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-437f93452ea21b1c48f8a75f93674a53]: Commencement: [Sch. 3 Pt. I para. 5](https://www.legislation.gov.uk/uksi/1994/2842/schedule/3/part/I/paragraph/5) in force at 30.11.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/2842/regulation/1)
+
+[^f01000]: Footnote: (1)
+
+    Reduction in relation to the load of the influent.
+
+[^f01001]: Footnote: (2)
+
+    Total nitrogen means: the sum of total Kjeldahl-nitrogen (organic N+NH<sub>3</sub>), nitrate (NO<sub>3</sub>)-nitrogen and nitrite (NO<sub>2</sub>)-nitrogen.
+
+[^key-e19047fbdc3f83e5c1a6737bec433b85]: Commencement: [Sch. 3 Pt. II para. 1](https://www.legislation.gov.uk/uksi/1994/2842/schedule/3/part/II/paragraph/1) in force at 30.11.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/2842/regulation/1)
+
+[^key-1b82f3a9df3dfa0b350126b71da12046]: Textual amendment: Word in [Sch. 3 Pt. 2 para. 1(a)](https://www.legislation.gov.uk/uksi/1994/2842/schedule/3/part/2/paragraph/1/a) substituted (1.4.1996) by [The Environment Act 1995 (Consequential and Transitional Provisions) (Scotland) Regulations 1996 (S.I. 1996/973)](https://www.legislation.gov.uk/uksi/1996/973), [reg. 1](https://www.legislation.gov.uk/uksi/1996/973/regulation/1), [Sch. para. 19(3)](https://www.legislation.gov.uk/uksi/1996/973/schedule/paragraph/19/3)
+
+[^key-acac6645a0807896652c1ca905d5a85a]: Textual amendment: Word in [Sch. 3 Pt. 2 para. 1(c)](https://www.legislation.gov.uk/uksi/1994/2842/schedule/3/part/2/paragraph/1/c) substituted (1.4.1996) by [The Environment Act 1995 (Consequential and Transitional Provisions) (Scotland) Regulations 1996 (S.I. 1996/973)](https://www.legislation.gov.uk/uksi/1996/973), [reg. 1](https://www.legislation.gov.uk/uksi/1996/973/regulation/1), [Sch. para. 19(3)](https://www.legislation.gov.uk/uksi/1996/973/schedule/paragraph/19/3)
+
+[^key-0910282602a085c5ea6f9dbebaf1b49c]: Commencement: [Sch. 3 Pt. II para. 2](https://www.legislation.gov.uk/uksi/1994/2842/schedule/3/part/II/paragraph/2) in force at 30.11.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/2842/regulation/1)
+
+[^key-bc9d0c1efb5ae4eda01c7dace79473dd]: Commencement: [Sch. 3 Pt. II para. 3](https://www.legislation.gov.uk/uksi/1994/2842/schedule/3/part/II/paragraph/3) in force at 30.11.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/2842/regulation/1)
+
+[^key-22540ba1796ccb595ea44c9a3cc71c23]: Commencement: [Sch. 3 Pt. II para. 4](https://www.legislation.gov.uk/uksi/1994/2842/schedule/3/part/II/paragraph/4) in force at 30.11.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/2842/regulation/1)
+
+[^key-0b68b936ae29dbf8f8436dcadb0d0cd5]: Commencement: [Sch. 3 Pt. II para. 5](https://www.legislation.gov.uk/uksi/1994/2842/schedule/3/part/II/paragraph/5) in force at 30.11.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/2842/regulation/1)
+
+[^key-4d99aece0d757324a75e41b84a19c0df]: Commencement: [Sch. 4](https://www.legislation.gov.uk/uksi/1994/2842/schedule/4) in force at 30.11.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/2842/regulation/1)
+
+[^key-bb1851b0d7b8118be3d46b59226ff987]: Textual amendment: Word in [Sch. 4](https://www.legislation.gov.uk/uksi/1994/2842/schedule/4) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Scotland) Regulations 2023 (S.S.I. 2023/374)](https://www.legislation.gov.uk/ssi/2023/374), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/374/regulation/1/1), [sch. 2 para. 1(5)](https://www.legislation.gov.uk/ssi/2023/374/schedule/2/paragraph/1/5)
+
+[^key-6c12d835b82075907e9598de308fbc20]: Textual amendment: Words in [Sch. 4](https://www.legislation.gov.uk/uksi/1994/2842/schedule/4) substituted (31.12.2020) by [The Environment (EU Exit) (Scotland) (Amendment etc.) Regulations 2019 (S.S.I. 2019/26)](https://www.legislation.gov.uk/ssi/2019/26), [regs. 1](https://www.legislation.gov.uk/ssi/2019/26/regulation/1), [6(7)](https://www.legislation.gov.uk/ssi/2019/26/regulation/6/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-56d860514a47324332c7fdd3dc2539d5]: Commencement: [Sch. 5 para. 1](https://www.legislation.gov.uk/uksi/1994/2842/schedule/5/paragraph/1) in force at 30.11.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/2842/regulation/1)
+
+[^key-e35899c4b246d578af33025c02db42e7]: Commencement: [Sch. 5 para. 2](https://www.legislation.gov.uk/uksi/1994/2842/schedule/5/paragraph/2) in force at 30.11.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/2842/regulation/1)
+
+[^key-3549f4eb79b1fef3224a412c172fada9]: Commencement: [Sch. 5 para. 3](https://www.legislation.gov.uk/uksi/1994/2842/schedule/5/paragraph/3) in force at 30.11.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/2842/regulation/1)
+
+[^key-ad1fd6c719374a35ffef5378cef8c526]: Commencement: [Sch. 5 para. 4](https://www.legislation.gov.uk/uksi/1994/2842/schedule/5/paragraph/4) in force at 30.11.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/2842/regulation/1)
+
+[^key-f132d1c14ca43f9acb689ffede006a91]: Commencement: [Sch. 5 para. 5](https://www.legislation.gov.uk/uksi/1994/2842/schedule/5/paragraph/5) in force at 30.11.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/2842/regulation/1)
+
+[^key-feb6f4bb2d147defd02541e5a22f17d2]: Commencement: [Sch. 5 para. 6](https://www.legislation.gov.uk/uksi/1994/2842/schedule/5/paragraph/6) in force at 30.11.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/2842/regulation/1)
+
+[^key-13bd9f68c68b299d264a33c488566526]: Commencement: [Sch. 5 para. 7](https://www.legislation.gov.uk/uksi/1994/2842/schedule/5/paragraph/7) in force at 30.11.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/2842/regulation/1)
+
+[^key-fee405e90fe3e54411b1f68ea7dd14ab]: Commencement: [Sch. 5 para. 8](https://www.legislation.gov.uk/uksi/1994/2842/schedule/5/paragraph/8) in force at 30.11.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/2842/regulation/1)
+
+[^key-6e851e3a20a77107bd4258ffc6b1c30d]: Commencement: [Sch. 5 para. 9](https://www.legislation.gov.uk/uksi/1994/2842/schedule/5/paragraph/9) in force at 30.11.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/2842/regulation/1)
+
+[^key-c7410b8280d2942d3412516b97db275e]: Commencement: [Sch. 5 para. 10](https://www.legislation.gov.uk/uksi/1994/2842/schedule/5/paragraph/10) in force at 30.11.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/2842/regulation/1)
+
+[^key-3892cb429918bc8f8080a45857731727]: Commencement: [Sch. 5 para. 11](https://www.legislation.gov.uk/uksi/1994/2842/schedule/5/paragraph/11) in force at 30.11.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/2842/regulation/1)

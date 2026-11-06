@@ -1,0 +1,876 @@
+---
+title: The Environment, Food and Rural Affairs (Miscellaneous Amendments) (England) Regulations 2018
+id: uksi/2018/575
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2018-05-08'
+text_date: '2019-12-14'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2018/575
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2018/575/pdfs/uksiem_20180575_en.pdf
+- http://www.legislation.gov.uk/uksi/2018/575/pdfs/uksi_20180575_en.pdf
+- http://www.legislation.gov.uk/uksi/2018/575/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Environment, Food and Rural Affairs (Miscellaneous Amendments) (England) Regulations 2018
+
+> Text as at 2019-12-14.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2018 No. 575
+
+Agriculture, England
+
+Livestock Industries
+
+Animals, England
+
+Animal Health
+
+Animal Welfare
+
+Coast Protection, England
+
+Environmental Protection, England
+
+Flood Risk Management, England
+
+Food, England
+
+Horticulture, England
+
+Plant Health, England
+
+Sea Fisheries, England
+
+Conservation Of Sea Fish
+
+Seeds, England
+
+Waste, England
+
+Water, England
+
+Water Resources, England
+
+The Environment, Food and Rural Affairs (Miscellaneous Amendments) (England) Regulations 2018
+
+Made
+
+8th May 2018
+
+Laid before Parliament
+
+10th May 2018
+
+Coming into force
+
+provisions mentioned in regulation 1(2)(a) to (e)
+
+5th July 2018
+
+remainder
+
+1st June 2018
+
+The Secretary of State makes these Regulations in exercise of the powers conferred by—
+
+- (a) except so far as relating to regulations 14 and 15, section 2(2) of the European Communities Act 1972[^f00001];
+- (b) so far as relating to regulation 14, sections 103(1) to (3) and 104(4) and (6) of the Water Act 2003[^f00002];
+- (c) so far as relating to regulation 15, sections 16(1)(a) and 48(1)(c) of the Food Safety Act 1990[^f00003].
+
+The Secretary of State is a Minister designated for the purposes of section 2(2) of the European Communities Act 1972 in relation to—
+
+- (a) the common agricultural policy[^f00004];
+- (b) the environment[^f00005];
+- (c) measures in the veterinary and phytosanitary fields for the protection of public health[^f00006];
+- (d) measures relating to food (including drink) including the primary production of food[^f00007];
+- (e) measures relating to the control and regulation of genetically modified organisms[^f00008];
+- (f) measures relating to the prevention, reduction and elimination of pollution caused by waste[^f00009];
+- (g) medicinal products[^f00010].
+
+So far as these Regulations are made in exercise of powers under the Food Safety Act 1990, the Secretary of State has had regard to relevant advice given by the Food Standards Agency in accordance with section 48(4A) of that Act[^f00011].
+
+There has been consultation, as required by Article 9 of Regulation [(EC) No 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety[^f00012], during the preparation and evaluation of these Regulations so far as they relate to food.
+
+## PART 1 — Introduction
+
+### 1. Citation, commencement, extent and application[^key-02eb7490e98812ca187115f37fffa3c5]
+
+(1) These Regulations may be cited as the Environment, Food and Rural Affairs (Miscellaneous Amendments) (England) Regulations 2018.
+
+(2) They come into force on 1st June 2018, except for the following provisions which come into force on 5th July 2018—
+
+- (a) regulation 4(2);
+- (b) regulations 6 and 7;
+- (c) regulation 11(3);
+- (d) regulation 12(2);
+- (e) regulation 13.
+
+(3) They extend to England and Wales.
+
+(4) The following regulations apply in relation to England only—
+
+- (a) regulation 2;
+- (b) regulations 6 and 7;
+- (c) regulation 9;
+- (d) regulations 14 and 15;
+- (e) regulations 25 and 26;
+- (f) regulations 30 and 31.
+
+(5) Regulation 12 applies to England and the sea adjacent to England out as far as the seaward boundary of the territorial sea.
+
+(6) In paragraph (5), the sea adjacent to England has the same meaning as in regulation 1(4) and (5) of the Environmental Permitting (England and Wales) Regulations 2016[^f00013].
+
+## PART 2 — Amendments to legislation concerning the environment
+
+### 2. The Genetically Modified Organisms (Risk Assessment) (Records and Exemptions) Regulations 1996[^key-1ec1f1081b701f08f6366c97746e478c]
+
+(1) The Genetically Modified Organisms (Risk Assessment) (Records and Exemptions) Regulations 1996[^f00014] are amended as follows.
+
+(2) In regulation 1(3)—
+
+- (a) after the definition of “the Act” omit “and”;
+- (b) in the definition of “the Contained Use Regulations”, for “the Genetically Modified Organisms (Contained Use) Regulations 2000[^f00015]” substitute “the Genetically Modified Organisms (Contained Use) Regulations 2014[^f00016]”.
+
+(3) In regulation 3(2)—
+
+- (a) in sub-paragraph (b)(ii), for “regulation 3(2)” substitute “regulation 3(1)”;
+- (b) in sub-paragraph (d), for “the Genetically Modified Organisms (Deliberate Release) Regulations 1992[^f00017]” substitute “the Genetically Modified Organisms (Deliberate Release) Regulations 2002[^f00018]”.
+
+### 3. The Genetically Modified Organisms (Deliberate Release) Regulations 2002[^key-1f37887d2cb932d58b36cbc4c60eac26]
+
+(1) The Genetically Modified Organisms (Deliberate Release) Regulations 2002 are amended as follows.
+
+(2) In regulation 2, in the definition of “the Contained Use Directive”, for the words from “Council Directive” to the end substitute “[Directive 2009/41/EC](https://www.legislation.gov.uk/european/directive/2009/0041) of the European Parliament and of the Council on the contained use of genetically modified micro-organisms[^f00019]”.
+
+(3) For regulation 12(4)(c) substitute—
+
+> - (c) any person, or member of a genetic modification safety committee, from whom advice must be obtained under regulation 8 of the Genetically Modified Organisms (Contained Use) Regulations 2014,
+
+.
+
+### 4. The Hazardous Waste (England and Wales) Regulations 2005[^key-60816facd142224ec0bff5ef063f871f][^key-a7fa05b92f9a91aae62e90922731f020]
+
+(1)[^key-60816facd142224ec0bff5ef063f871f] The Hazardous Waste (England and Wales) Regulations 2005[^f00020] are amended as follows.
+
+(2)[^key-a7fa05b92f9a91aae62e90922731f020] In regulation 2(1)(a), at the end insert “, as last amended by Council Regulation (EU) 2017/997[^f00021]”.
+
+(3)[^key-60816facd142224ec0bff5ef063f871f] In regulation 12(3), for “Council Regulation 259/93/EEC[^f00022]” substitute “Regulation [(EC) No 1013/2006](https://www.legislation.gov.uk/european/regulation/2006/1013) of the European Parliament and of the Council on shipments of waste[^f00023]”.
+
+(4)[^key-60816facd142224ec0bff5ef063f871f] In Schedule 7, in paragraph 1(b), for the words from “the Annex” to “1994” substitute “Annex 1A to Regulation [(EC) No 1013/2006](https://www.legislation.gov.uk/european/regulation/2006/1013) of the European Parliament and of the Council on shipments of waste”.
+
+### 5. The Contaminated Land (England) Regulations 2006[^key-8f9a75a29fbc4500e7a5a46932129eee]
+
+In regulation 3(b)(ii) of the Contaminated Land (England) Regulations 2006[^f00024], after “water policy” insert “, as last amended by Commission [Directive 2014/101/EU](https://www.legislation.gov.uk/european/directive/2014/0101)[^f00025]”.
+
+### 6. The Producer Responsibility Obligations (Packaging Waste) Regulations 2007[^key-6a71b7c21cc44d421ab552ed270a6cba]
+
+In regulation 2(1) of the Producer Responsibility Obligations (Packaging Waste) Regulations 2007[^f00026], in the definition of “the Waste Directive”, at the end insert “, as last amended by Council Regulation (EU) 2017/997”.
+
+### 7. The Waste (England and Wales) Regulations 2011[^key-65b8f32d4684c814b18cb495d0a28711]
+
+In regulation 3(1) of the Waste (England and Wales) Regulations 2011[^f00027], in the definition of “the Waste Framework Directive”, at the end insert “, as last amended by Council Regulation (EU) 2017/997”.
+
+### 8. The Incidental Flooding and Coastal Erosion (England) Order 2011[^key-5d3144e7fe862bd1bd93aadea1c717c4]
+
+In article 3(4) of the Incidental Flooding and Coastal Erosion (England) Order 2011[^f00028]—
+
+- (a) in sub-paragraph (b), at the end insert “, as last amended by Council [Directive 2013/17/EU](https://www.legislation.gov.uk/european/directive/2013/0017)[^f00029]”;
+- (b) in sub-paragraph (c), after “water policy” insert “, as last amended by Commission [Directive 2014/101/EU](https://www.legislation.gov.uk/european/directive/2014/0101)”;
+- (c) after sub-paragraph (c) omit “and”;
+- (d) in sub-paragraph (d), at the end insert “, as amended by Council [Directive 2013/17/EU](https://www.legislation.gov.uk/european/directive/2013/0017)”.
+
+### 9. The Bathing Water Regulations 2013[^key-544ee2b4f91e0308e22c2315931949eb]
+
+In regulation 2(2) of the Bathing Water Regulations 2013[^f00030], after “water policy” insert “, as last amended by Commission [Directive 2014/101/EU](https://www.legislation.gov.uk/european/directive/2014/0101)”.
+
+### 10. The Nitrate Pollution Prevention Regulations 2015[^key-830f10b5b1fe5bb89a70590cec708ec8]
+
+(1) The Nitrate Pollution Prevention Regulations 2015[^f00031] are amended as follows.
+
+(2) In regulation 2(3), in the definition of “Council [Directive 98/83/EC](https://www.legislation.gov.uk/european/directive/1998/0083)[^f00032]”, at the end insert “, as last amended by Commission Directive (EU) 2015/1787[^f00033]”.
+
+(3) In regulation 4(4), for the words from “in accordance with” to the end substitute “by subtracting the amount of nitrite from the amount of total oxidised nitrogen (“TON”), where both nitrite and TON are calculated using the method known as molecular absorption spectrophotometry”.
+
+### 11. The Environmental Damage (Prevention and Remediation) (England) Regulations 2015[^key-8a9fff03f0aa0d3bf934d7dfef491d22][^key-872bae9327516ffe6178d6946bcabc8f]
+
+(1)[^key-8a9fff03f0aa0d3bf934d7dfef491d22] The Environmental Damage (Prevention and Remediation) (England) Regulations 2015[^f00034] are amended as follows.
+
+(2)[^key-8a9fff03f0aa0d3bf934d7dfef491d22] In Schedule 1, in paragraph 5(3), for “the Conservation of Habitats and Species Regulations 2010[^f00035]” substitute “the Conservation of Habitats and Species Regulations 2017[^f00036]”.
+
+(3)[^key-872bae9327516ffe6178d6946bcabc8f] In Schedule 2, in paragraph 3(1)(e), at the end insert “, as last amended by Council Regulation (EU) 2017/997”.
+
+### 12. The Environmental Permitting (England and Wales) Regulations 2016[^key-1c55aa5e325def43f12fb449c7f044d1][^key-921b76ffda45aa9381a4a37ed65d7f98]
+
+(1)[^key-1c55aa5e325def43f12fb449c7f044d1] The Environmental Permitting (England and Wales) Regulations 2016 are amended as follows.
+
+(2)[^key-921b76ffda45aa9381a4a37ed65d7f98] In regulation 3, in the definition of “the Waste Framework Directive”, at the end insert “, as last amended by Council Regulation (EU) 2017/997”.
+
+(3)[^key-1c55aa5e325def43f12fb449c7f044d1] In Schedule 10, in paragraph 5—
+
+- (a) in sub-paragraph (4), for the words from “Regulation” to the end substitute “Regulation (EU) 2017/852 of the European Parliament and of the Council on mercury[^f00037]”;
+- (b) omit sub-paragraph (5).
+
+### 13. The Town and Country Planning (Environmental Impact Assessment) Regulations 2017[^key-d4c7e29d58ef90935a735079077444e2]
+
+In Schedule 1 to the Town and Country Planning (Environmental Impact Assessment) Regulations 2017[^f00038], in paragraph 9, for “of 19 November 2008 on waste” substitute “on waste, as last amended by Council Regulation (EU) 2017/997,”.
+
+### 14. The Water Abstraction (Transitional Provisions) Regulations 2017[^key-51352d05e3cb02ea774a24339aa42a55]
+
+In regulation 9 of the Water Abstraction (Transitional Provisions) Regulations 2017[^f00039], for paragraph (3) substitute–—
+
+> (3) In paragraph (1), an abstraction of more limited extent does not include—
+>
+> - (a) a Qn95 hands-off flow constraint on a licence where the licensed abstraction is from a body of inland waters or a body of groundwater where the recent actual flow or quantitative status of the source of supply does not support good ecological potential, good ecological status or good quantitative status, or
+> - (b) 75% of Qn99 hands-off flow constraint on a licence where the licensed abstraction is from a body of inland waters or a body of groundwater where the recent actual flow or quantitative status of the source of supply supports good ecological potential, good ecological status or good quantitative status.
+
+.
+
+## PART 3 — Amendments to legislation concerning food
+
+### 15. The Bread and Flour Regulations 1998[^key-79bc4730559988a8ceaab100f341438d]
+
+In regulation 2(1) of the Bread and Flour Regulations 1998[^f00040], in the definition of “food additive”, for “the Miscellaneous Food Additives Regulations 1995[^f00041]” substitute “Article 3(2)(a) of Regulation [(EC) No 1333/2008](https://www.legislation.gov.uk/european/regulation/2008/1333) of the European Parliament and of the Council on food additives[^f00042]”.
+
+### 16. The Coffee Extracts and Chicory Extracts (England) Regulations 2000[^key-adb009c8a3d7f0e341dce047d4d78b31]
+
+In regulation 7(3) of the Coffee Extracts and Chicory Extracts (England) Regulations 2000[^f00043], for the words from “paragraphs 1 and 2” to “human consumption” substitute “Annex 3 to Regulation [(EC) No 882/2004](https://www.legislation.gov.uk/european/regulation/2004/0882) of the European Parliament and of the Council on official controls performed to ensure the verification of compliance with feed and food law, animal health and animal welfare rules[^f00044]”.
+
+### 17. The Specified Sugar Products (England) Regulations 2003[^key-3501422db7d38a6d82883db1be9dcb1f]
+
+(1) The Specified Sugar Products (England) Regulations 2003[^f00045] are amended as follows.
+
+(2) In regulation 2, omit the definitions of “EEA Agreement” and “EEA State”.
+
+(3) In Schedule 1, in the table—
+
+- (a) in entry 5, in column 2, in sub-paragraph (c), for “paragraph 4” substitute “paragraph 3”;
+- (b) in entry 11, in column 2, for “paragraph (2)” substitute “paragraph 3”.
+
+### 18. The Cocoa and Chocolate Products (England) Regulations 2003[^key-550bd89fa09f95d56841bdcfabb1191e]
+
+In regulation 2(1) of the Cocoa and Chocolate Products (England) Regulations 2003[^f00046] omit the definitions of “EEA Agreement” and “EEA State”.
+
+### 19. The Jam and Similar Products (England) Regulations 2003[^key-afc73cffe0dacbb4fe628283f8287017]
+
+(1) The Jam and Similar Products (England) Regulations 2003[^f00047] are amended as follows.
+
+(2) In regulation 2(1)—
+
+- (a) omit the definition of “the 1996 Regulations”;
+- (b) in the definition of “ingredient”, for “the 1996 Regulations” substitute “Article 2(2)(f) of Regulation (EU) No 1169/2011”;
+- (c) in the definition of “labelling”, for “the 1996 Regulations” substitute “Article 2(2)(j) of Regulation (EU) No 1169/2011”;
+- (d) in the definition of “permitted sweetener”, for “the Food Additives (England) Regulations 2009[^f00048]” substitute “Regulation [(EC) No 1333/2008](https://www.legislation.gov.uk/european/regulation/2008/1333) of the European Parliament and of the Council on food additives”;
+- (e) after the definition of “preparation” insert—
+
+  > - “Regulation (EU) No 1169/2011” means Regulation (EU) No 1169/2011 of the European Parliament and of the Council on the provision of food information to consumers[^f00049];
+
+  .
+
+(3) In regulation 5—
+
+- (a) in paragraph (1)—
+  - (i) in the words before sub-paragraph (a), omit the words from the beginning to “Regulations,”;
+  - (ii) in sub-paragraph (b), for “the 1996 Regulations” substitute “Regulation (EU) No 1169/2011”;
+- (b) in paragraph (2)—
+  - (i) in the words before sub-paragraph (a), omit the words from the beginning to “Regulations,”;
+  - (ii) in sub-paragraph (c), for “Schedule 7 to the 1996 Regulations” substitute “Articles 30 to 35 of Regulation (EU) No 1169/2011”.
+
+(4) Omit regulation 6.
+
+(5) In Schedule 2, in paragraph 2(d), for “[Directive 95/2/EC](https://www.legislation.gov.uk/european/directive/1995/0002)[^f00050]” substitute “Regulation (EU) No 1333/2008 of the European Parliament and of the Council on food additives”.
+
+### 20. The Spreadable Fats (Marketing Standards) and the Milk and Milk Products (Protection of Designations) (England) Regulations 2008[^key-270b121a23fbc67a53aab85c12fb3576]
+
+In regulation 2(1) of the Spreadable Fats (Marketing Standards) and the Milk and Milk Products (Protection of Designations) (England) Regulations 2008[^f00051], in the definition of “Regulation (EU) 2013”, for the words from “the Regulation” to “1234/2007” substitute “Regulation (EU) No 1308/2013 of the European Parliament and of the Council establishing a common organisation of the markets in agricultural products[^f00052]”.
+
+### 21. The Drinking Milk (England) Regulations 2008[^key-fbf53a576f9ea32861bd4dafaab9549f]
+
+In regulation 2(1) of the Drinking Milk (England) Regulations 2008[^f00053]—
+
+- (a) in the definition of “Part IV”, for the words from “Part IV of” to “1234/2007” substitute “Part 4 of Annex 7 to Regulation (EU) No 1308/2013 of the European Parliament and of the Council establishing a common organisation of the markets in agricultural products”;
+- (b) after the definition of “Part IV” omit “and”.
+
+### 22. The Eggs and Chicks (England) Regulations 2009[^key-772c48f30480a23d7083f17ed2e8000c]
+
+(1) The Eggs and Chicks (England) Regulations 2009[^f00054] are amended as follows.
+
+(2) In regulation 3—
+
+- (a) in paragraph (1)—
+  - (i) in the definition of “Regulation (EU) 2013”, for the words from “the Regulation” to “1234/2007” substitute “Regulation (EU) No 1308/2013 of the European Parliament and of the Council establishing a common organisation of the markets in agricultural products”;
+  - (ii) after the definition of “Regulation (EU) 2013” omit “and”;
+- (b) in paragraph (6)(a) omit “the Single CMO Regulation or”.
+
+(3) In Schedule 2—
+
+- (a) in Part 1, in the first column of the table, in both entries relating to Article 75(2) and (3), omit “of Regulation (EU) 2013”;
+- (b) in Part 2, in the second column of the table, for the entry relating to the first and second sub-paragraphs of Article 12(2), for the words from “Article 2” to “foodstuffs” substitute “Article 23(1) of Regulation (EU) 834/2007 on organic production and labelling of organic products[^f00055]”.
+
+### 23. The Poultrymeat (England) Regulations 2011[^key-d68228d5fa8ca12f23a2fedb7cddaac9]
+
+In regulation 2(1) of the Poultrymeat (England) Regulations 2011[^f00056]—
+
+- (a) in the definition of “Regulation (EU) 2013”, for the words from “the Regulation (EU) 2013” to “1234/2007” substitute “Regulation (EU) No 1308/2013 of the European Parliament and of the Council establishing a common organisation of the markets in agricultural products”;
+- (b) after the definition of “Regulation (EU) 2013” omit “and”.
+
+### 24. The Fruit Juices and Fruit Nectars (England) Regulations 2013[^key-70660c2d4216effe1525475dd541969f]
+
+(1) The Fruit Juices and Fruit Nectars (England) Regulations 2013[^f00057] are amended as follows.
+
+(2) Omit regulation 22.
+
+(3) In Schedule 7, in Part 1—
+
+- (a) in paragraph 1, for “juice” substitute “product”;
+- (b) in paragraph 2, in the words before sub-paragraph (a), for “juices” substitute “products”.
+
+(4) In Schedule 9, after paragraph 9 insert—
+
+> **10.** Plant proteins for clarification from—
+>
+> - (a) wheat,
+> - (b) peas,
+> - (c) potatoes, or
+> - (d) any combination of them.
+
+.
+
+## PART 4 — Amendments to legislation concerning agriculture
+
+### 25. The Marketing of Vegetable Plant Material Regulations 1995[^key-d78aba5792c2f2a473f5d7ea029fe5d2]
+
+(1) The Marketing of Vegetable Plant Material Regulations 1995[^f00058] are amended as follows.
+
+(2) In regulation 5(d)(i), for “the Vegetable Seeds Regulations 1993[^f00059]” substitute “the Seed Marketing Regulations 2011[^f00060]”.
+
+(3) In regulation 8(4), for “the Vegetable Seeds Regulations 1993” substitute “the Seed Marketing Regulations 2011”.
+
+### 26. The Marketing of Ornamental Plant Propagating Material Regulations 1999[^key-8f3b29f952ece34916a489c22d0f03da]
+
+(1) The Marketing of Ornamental Plant Propagating Material Regulations 1999[^f00061] are amended as follows.
+
+(2) In regulation 2(1)—
+
+- (a) omit the definition of “[Directive 77/93/EEC](https://www.legislation.gov.uk/european/directive/1977/0093)”;
+- (b) in the definition of “[Directive 98/56/EC](https://www.legislation.gov.uk/european/directive/1998/0056)”, at the end insert “, as last amended by Regulation (EU) No 652/2014 of the European Parliament and of the Council[^f00062]”;
+- (c) after the definition of “[Directive 98/56/EC](https://www.legislation.gov.uk/european/directive/1998/0056)” insert—
+
+  > - “[Directive 2000/29/EC](https://www.legislation.gov.uk/european/directive/2000/0029)” means Council [Directive 2000/29/EC](https://www.legislation.gov.uk/european/directive/2000/0029) on protective measures against the introduction into the Community of organisms harmful to plants or plant products and against their spread within the Community[^f00063];
+
+  .
+
+(3) In regulation 7(4), for “regulation 15 of the Plant Health (Great Britain) Order 1993[^f00064]” substitute “article 25 of the Plant Health (England) Order 2015[^f00065]”.
+
+(4) In regulation 8(3)—
+
+- (a) for the words from “plant pest” to “1993” substitute “notifiable plant pest as defined in article 42(3) of the Plant Health (England) Order 2015”;
+- (b) for “article 20” substitute “article 42”.
+
+(5) In regulation 9(2), for “Council [Directive 77/93/EEC](https://www.legislation.gov.uk/european/directive/1977/0093)” substitute “[Directive 2000/29/EC](https://www.legislation.gov.uk/european/directive/2000/0029)”.
+
+(6) In regulation 12(3), for the words from “article 12(5)” to the end substitute “article 9(1) of the Plant Health (England) Order 2015”.
+
+### 27. The Marketing of Fresh Horticultural Produce Regulations 2009[^key-ff394699596842aeebce60c6a56a252e]
+
+In regulation 2(2) of the Marketing of Fresh Horticultural Produce Regulations 2009[^f00066], for the definition of “Regulation (EU) No 2013” substitute—
+
+> - “Regulation (EU) 2013” means Regulation (EU) No 1308/2013 of the European Parliament and of the Council establishing a common organisation of the markets in agricultural products, as amended from time to time;
+
+.
+
+### 28. The Beef and Pig Carcase Classification (England) Regulations 2010[^key-b87f1214250e621f424917309e105225]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 29. The Seed Potatoes (England) Regulations 2015[^key-64dc9b069d9db020f888d3e0563fe8a6]
+
+In regulation 3 of the Seed Potatoes (England) Regulations 2015[^f00070]—
+
+- (a) in the definition of “the Decision”, at the end insert “, as last amended by Commission Implementing Decision (EU) 2016/320[^f00071]”;
+- (b) in the definition of “the Directive”, at the end insert “, as last amended by Commission Implementing Directive (EU) 2016/317[^f00072]”.
+
+## PART 5 — Amendments to legislation concerning animals
+
+### 30. The Importation of Embryos, Ova and Semen Order 1980[^key-bf9184ac276b13e44affc6c6c432bdd5]
+
+(1) The Importation of Embryos, Ova and Semen Order 1980[^f00073] is amended as follows.
+
+(2) In article 2—
+
+- (a) in paragraph (a), for “the Animal Health Act 1981[^f00074]” substitute “the Act”;
+- (b) in paragraph (b), for “section 84(3)(a) and (b)” substitute “section 88(1) and (3)”.
+
+(3) In article 3, in the definition of “the Act”, for “the Diseases of Animals Act 1950[^f00075]” substitute “the Animal Health Act 1981”.
+
+(4) Omit article 9.
+
+### 31. The Importation of Animal Products and Poultry Products Order 1980[^key-11ddeeac81a0da11259aace7fa9001a1]
+
+(1) The Importation of Animal Products and Poultry Products Order 1980[^f00076] is amended as follows.
+
+(2) In article 2—
+
+- (a) in the words before paragraph (a), for “the Animal Health Act 1981 (“the 1981 Act”)” substitute “the Act”;
+- (b) in paragraphs (a) and (b), for “the 1981 Act” substitute “the Act”.
+
+(3) In article 3, in the definition of “the Act”, for “the Diseases of Animals Act 1950” substitute “the Animal Health Act 1981”.
+
+(4) Omit article 10.
+
+### 32. The Diseases of Poultry (England) Order 2003[^key-37976d9f5b2efc6ac800212c40bab705]
+
+(1) The Diseases of Poultry (England) Order 2003[^f00077] is amended as follows.
+
+(2) In article 3(1)—
+
+- (a) after the definition of ““Chief Veterinary Officer” insert—
+
+  > - “Council [Directive 2005/94/EC](https://www.legislation.gov.uk/european/directive/2005/0094)” means Council [Directive 2005/94/EC](https://www.legislation.gov.uk/european/directive/2005/0094) on Community measures for the control of avian influenza[^f00078];
+
+  ;
+- (b) in the definition of “disinfect”, for “the Diseases of Animals (Approved Disinfectants) Order 1978[^f00079]” substitute “the Diseases of Animals (Approved Disinfectants) (England) Order 2007[^f00080]”.
+
+(3) In article 6(2), for “Annex III of Council [Directive 92/40/EEC](https://www.legislation.gov.uk/european/directive/1992/0040)[^f00081]” substitute “Article 50 of Council [Directive 2005/94/EC](https://www.legislation.gov.uk/european/directive/2005/0094)”.
+
+(4) In Schedule 1—
+
+- (a) in Part 1, in paragraph 6, for “article 4.2(e) of, and Annex I to, Council [Directive 92/40/EEC](https://www.legislation.gov.uk/european/directive/1992/0040)” substitute “Article 7(2)(f) of, and Annex 3 to, Council [Directive 2005/94/EC](https://www.legislation.gov.uk/european/directive/2005/0094)”;
+- (b) in Part 2, in paragraph 11, for “Annex II of Council [Directive 92/40/EEC](https://www.legislation.gov.uk/european/directive/1992/0040)” substitute “Annex 6 to Council [Directive 2005/94/EC](https://www.legislation.gov.uk/european/directive/2005/0094)”.
+
+### 33. The Foot-and-Mouth Disease (England) Order 2006[^key-057e5fa7a5976be8f5c9ac5830d26d23]
+
+(1) The Foot-and-Mouth Disease (England) Order 2006[^f00082] is amended as follows.
+
+(2) In article 8(a), for “the Diseases of Animals (Approved Disinfectants) Order 1978” substitute “the Diseases of Animals (Approved Disinfectants) (England) Order 2007”.
+
+(3) In article 43(1)(b)(ii), for the words from “regulation 9” to the end substitute “the Trade in Animals and Related Products Regulations 2011[^f00083]”.
+
+### 34. The Avian Influenza and Influenza of Avian Origin in Mammals (England) (No.2) Order 2006[^key-62bb8ad29c53ef440d9a26a90a919ce4]
+
+(1) The Avian Influenza and Influenza of Avian Origin in Mammals (England) (No.2) Order 2006[^f00084] is amended as follows.
+
+(2) In article 2, in the definition of “border inspection post”, for the words from “Schedule 2” to the end substitute “regulation 11 of the Trade in Animals and Related Products Regulations 2011”.
+
+(3) In article 3—
+
+- (a) in paragraph (4), for “the Specified Animal Pathogens Order 1998[^f00085]” substitute “the Specified Animal Pathogens Order 2008[^f00086]”;
+- (b) in paragraph (5), for the words from “Regulation 19” to the end substitute “Article 6 of Commission Implementing Regulation (EU) No 139/2013 laying down animal health conditions for imports of certain birds into the Union and the quarantine conditions thereof[^f00087]”.
+
+(4) In article 4(7), for the words from “the National Assembly” to “Northern Ireland” substitute “the National Assembly for Wales or by the Department of Agriculture, Environment and Rural Affairs, Northern Ireland”.
+
+(5) In article 66(5)(a), for “the Diseases of Animals (Approved Disinfectants) Order 1978” substitute “the Diseases of Animals (Approved Disinfectants) (England) Order 2007”.
+
+(6) In article 71(3)—
+
+- (a) in sub-paragraph (a), for “section 8(2) of the Medicines Act 1968[^f00088]” substitute “regulation 17 of the Human Medicines Regulations 2012[^f00089]”;
+- (b) in sub-paragraph (b), for “Regulation 5 of the Veterinary Medicines Regulations 2005[^f00090]” substitute “regulation 5 of the Veterinary Medicines Regulations 2013[^f00091]”;
+- (c) in sub-paragraph (d), for “the Specified Animal Pathogens Order 1998” substitute “the Specified Animals Pathogens Order 2008”.
+
+### 35. The Avian Influenza (Vaccination) (England) Regulations 2006[^key-61ba47595f4d6051c2e68a1c3db6aec0]
+
+In regulation 5(2)(b) of the Avian Influenza (Vaccination) (England) Regulations 2006[^f00092], for “regulation 8(3) of the Veterinary Medicines Regulations 2005” substitute “regulation 3(2)(b) of the Veterinary Medicines Regulations 2013”.
+
+### 36. The Avian Influenza (H5N1 in Poultry) (England) Order 2006[^key-2fa0c5407f3b51fca3dd5d4eb974ffd1]
+
+(1) The Avian Influenza (H5N1 in Poultry) (England) Order 2006[^f00093] is amended as follows.
+
+(2) In article 12—
+
+- (a) in paragraph (1)—
+  - (i) after sub-paragraph (a) omit “or”;
+  - (ii) omit sub-paragraph (b).
+- (b) omit paragraph (2).
+
+(3) In article 17(1)(a), for “the Diseases of Animals (Approved Disinfectants) Order 1978” substitute “the Diseases of Animals (Approved Disinfectants) (England) Order 2007”.
+
+### 37. The Avian Influenza (H5N1 in Wild Birds) (England) Order 2006[^key-6f29322bbd6af8bc22f7e8fca048f847]
+
+In article 18(1)(a) of the Avian Influenza (H5N1 in Wild Birds) (England) Order 2006[^f00094], for “the Diseases of Animals (Approved Disinfectants) Order 1978” substitute “the Diseases of Animals (Approved Disinfectants) (England) Order 2007”.
+
+### 38. The Official Controls (Animals, Feed and Food) (England) Regulations 2006[^key-ce4e04c99818d623aa022e10f70e2c87]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 39. The Bovine Semen (England) Regulations 2007[^key-5cdd08652e3c787ff0fd00b954a3bfaa]
+
+In regulation 2 of the Bovine Semen (England) Regulations 2007[^f00098], in the definition of “cattle identification regulations”, for paragraph (a) (together with the final “or”) substitute—
+
+> - (a) the Cattle Identification Regulations 2007[^f00099];
+
+.
+
+### 40. The Welfare of Farmed Animals (England) Regulations 2007[^key-15b78ca6f22e0587ea8ca418b13766a7]
+
+In regulation 2(2) of the Welfare of Farmed Animals (England) Regulations 2007[^f00100]—
+
+- (a) in sub-paragraph (a), for the words from “[Directive 91/630/EEC](https://www.legislation.gov.uk/european/directive/1991/0630)[^f00101]” to the end substitute “[Directive 2008/120/EC](https://www.legislation.gov.uk/european/directive/2008/0120) laying down minimum standards for the protection of pigs[^f00102]”;
+- (b) after sub-paragraph (b) omit “and”;
+- (c) in sub-paragraph (c), for the words from “[Directive 91/629/EEC](https://www.legislation.gov.uk/european/directive/1991/0629)[^f00103]” to the end substitute “[Directive 2008/119/EC](https://www.legislation.gov.uk/european/directive/2008/0119) laying down minimum standards for the protection of calves[^f00104]”.
+
+### 41. The Products of Animal Origin (Disease Control) (England) Regulations 2008[^key-3d8c2be6ab604261eb3426b78cdf29d3]
+
+In Schedule 3 to the Products of Animal Origin (Disease Control) (England) Regulations 2008[^f00105]—
+
+- (a) in paragraph 1(a) omit the words from “or article 4” to “legible”;
+- (b) omit paragraph 3(a) (together with the final “or”).
+
+### 42. The Bluetongue Regulations 2008[^key-88c3b79589ae6bc9cf630829bf5c6c05]
+
+In regulation 17 of the Bluetongue Regulations 2008[^f00106], for “the Veterinary Medicines Regulations 2011[^f00107]” substitute “the Veterinary Medicines Regulations 2013”.
+
+### 43. The Trade in Animals and Related Products Regulations 2011[^key-b6c6e256b07520d20bc4bd7462f5d767]
+
+(1) The Trade in Animals and Related Products Regulations 2011 are amended as follows.
+
+(2) In regulation 35(2)(a), for “the Animals and Animal Products (Examination for Residues and Maximum Residue Limits) Regulations 1997[^f00108]” substitute “the Animals and Animal Products (Examination for Residues and Maximum Residue Limits) (England and Scotland) Regulations 2015[^f00109]”.
+
+(3) In Schedule 2, in Part 2, in paragraph 9(1), for the words from “Commission Regulation” to the end substitute “Commission Implementing Regulation (EU) No 139/2013 laying down animal health conditions for imports of certain birds into the Union and the quarantine conditions thereof”.
+
+## PART 6 — Amendment to legislation concerning fisheries
+
+### 44. The Sea Fish Licensing (England) Order 2015[^key-4bc77d2c2c41b0c3e505bd44c2824b45]
+
+In article 2 of the Sea Fish Licensing (England) Order 2015[^f00110], in the definition of “length”, for the words from “Council Regulation” to the end substitute “Regulation (EU) 2017/1130 of the European Parliament and of the Council defining characteristics for fishing vessels[^f00111]”.
+
+George Eustice
+
+Minister of State
+
+Department for Environment, Food and Rural Affairs
+
+8th May 2018
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations make amendments in relation to England to a number of pieces of secondary legislation within the remit of the Department for Environment, Food and Rural Affairs.
+
+Several provisions (listed in regulation 1(2)(a) to (e)) reflect an amendment to Annex 3 to [Directive 2008/98/EC](https://www.legislation.gov.uk/european/directive/2008/0098) of the European Parliament and of the Council on waste (OJ No L 312, 22.11.2008, p 3).
+
+Regulation 10(3) amends the Nitrate Pollution Prevention Regulations 2015 ([S.I. 2015/668](https://www.legislation.gov.uk/uksi/2015/668)) to correct a reference relating to the methodology used for calculating nitrate concentration in water bodies.
+
+Regulation 14 amends the Water Abstraction (Transitional Provisions) Regulations 2017 ([S.I. 2017/1047](https://www.legislation.gov.uk/uksi/2017/1047)) to correct an error in the description of what circumstances qualify as granting a more limited abstraction licence than that applied for.
+
+Regulation 24(4) amends the Fruit Juices and Fruit Nectars (England) Regulations 2013 ([S.I. 2013/2775](https://www.legislation.gov.uk/uksi/2013/2775)) to implement Commission Delegated Regulation (EU) No 1040/2014 amending Council [Directive 2001/112/EC](https://www.legislation.gov.uk/european/directive/2001/0112) relating to fruit juices and certain similar products intended for human consumption to adapt its Annex I to technical progress (OJ No L 288, 2.10.2014, p 1). This allows plant proteins from wheat, peas and potatoes to be used for the clarification of products to which the Fruit Juices and Fruit Nectars (England) Regulations 2013 apply.
+
+The Regulations make other miscellaneous minor amendments to legislation in the fields of agriculture, animal health and welfare, environmental protection, food, horticulture, plant health, sea fisheries, seeds, waste and water, in particular amending out of date references to domestic legislation and to EU instruments.
+
+An impact assessment has not been produced for this instrument as no, or no significant, impact on the private, voluntary or public sector is foreseen.
+
+## Annotations
+
+[^f00001]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68); section 2(2) was amended by the Legislative and Regulatory Reform Act [2006 (c. 51)](https://www.legislation.gov.uk/ukpga/2006/51), section 27(1)(a) and the European Union (Amendment) Act [2008 (c. 7)](https://www.legislation.gov.uk/ukpga/2008/7), the Schedule, Part 1. The function of the former Minister of Agriculture, Fisheries and Food of making regulations under section 2(2) was transferred to the Secretary of State by [S.I. 2002/794](https://www.legislation.gov.uk/uksi/2002/794).
+
+[^f00002]: Footnote: [2003 c. 37](https://www.legislation.gov.uk/ukpga/2003/37).
+
+[^f00003]: Footnote: [1990 c. 16](https://www.legislation.gov.uk/ukpga/1990/16); sections 16(1)(a) and 48(1) were amended by the Food Standards Act [1999 (c. 28)](https://www.legislation.gov.uk/ukpga/1999/28), Schedule 5, paragraph 8.
+
+[^f00004]: Footnote: [S.I. 1972/1811](https://www.legislation.gov.uk/uksi/1972/1811), to which there are amendments not relevant to these Regulations. The designation in relation to the common agricultural policy extends to the common fisheries policy: under Article 38(1) of the Treaty on the Functioning of the European Union, the EU’s common agricultural policy includes its common fisheries policy (OJ No L 133, 29.5.2015, p 1).
+
+[^f00005]: Footnote: [S.I. 2008/301](https://www.legislation.gov.uk/uksi/2008/301).
+
+[^f00006]: Footnote: [S.I. 1999/2027](https://www.legislation.gov.uk/uksi/1999/2027).
+
+[^f00007]: Footnote: [S.I. 2003/2901](https://www.legislation.gov.uk/uksi/2003/2901), to which there are amendments not relevant to these Regulations.
+
+[^f00008]: Footnote: [S.I. 1991/755](https://www.legislation.gov.uk/uksi/1991/755), to which there are amendments not relevant to these Regulations.
+
+[^f00009]: Footnote: [S.I. 1992/2870](https://www.legislation.gov.uk/uksi/1992/2870), to which there are amendments not relevant to these Regulations.
+
+[^f00010]: Footnote: [S.I. 1972/1811](https://www.legislation.gov.uk/uksi/1972/1811).
+
+[^f00011]: Footnote: Section 48(4A) was inserted by the Food Standards Act 1999, Schedule 5, paragraph 21.
+
+[^f00012]: Footnote: OJ No L 31, 1.2.2002, p 1, as last amended by Regulation (EU) 2017/745 of the European Parliament and of the Council (OJ No L 117, 5.5.2017, p 1).
+
+[^key-02eb7490e98812ca187115f37fffa3c5]: Commencement: Reg. 1 in force at 1.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/575/regulation/1/2)
+
+[^f00013]: Footnote: [S.I. 2016/1154](https://www.legislation.gov.uk/uksi/2016/1154), to which there are amendments not relevant to these Regulations.
+
+[^key-1ec1f1081b701f08f6366c97746e478c]: Commencement: Reg. 2 in force at 1.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/575/regulation/1/2)
+
+[^f00014]: Footnote: [S.I. 1996/1106](https://www.legislation.gov.uk/uksi/1996/1106), amended by [S.I. 2000/2831](https://www.legislation.gov.uk/uksi/2000/2831); there are other amending instruments but none is relevant.
+
+[^f00015]: Footnote: [S.I. 2000/2831](https://www.legislation.gov.uk/uksi/2000/2831), revoked by [S.I. 2001/2626](https://www.legislation.gov.uk/uksi/2001/2626), [2005/2466](https://www.legislation.gov.uk/uksi/2005/2466), [2014/1663](https://www.legislation.gov.uk/uksi/2014/1663).
+
+[^f00016]: Footnote: [S.I. 2014/1663](https://www.legislation.gov.uk/uksi/2014/1663), to which there are amendments not relevant to these Regulations.
+
+[^f00017]: Footnote: [S.I. 1992/3280](https://www.legislation.gov.uk/uksi/1992/3280), revoked in relation to England by [S.I. 2002/2443](https://www.legislation.gov.uk/uksi/2002/2443).
+
+[^f00018]: Footnote: [S.I. 2002/2443](https://www.legislation.gov.uk/uksi/2002/2443), to which there are amendments not relevant to these Regulations.
+
+[^key-1f37887d2cb932d58b36cbc4c60eac26]: Commencement: Reg. 3 in force at 1.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/575/regulation/1/2)
+
+[^f00019]: Footnote: OJ No L 125, 21.5.2009, p 75.
+
+[^key-60816facd142224ec0bff5ef063f871f]: Commencement: Reg. 4(1)(3)(4) in force at 1.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/575/regulation/1/2)
+
+[^key-a7fa05b92f9a91aae62e90922731f020]: Commencement: [Reg. 4(2)](https://www.legislation.gov.uk/uksi/2018/575/regulation/4/2) in force at 5.7.2018, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2018/575/regulation/1/2/a)
+
+[^f00020]: Footnote: [S.I. 2005/894](https://www.legislation.gov.uk/uksi/2005/894), amended by [S.I. 2011/988](https://www.legislation.gov.uk/uksi/2011/988), [2016/738](https://www.legislation.gov.uk/uksi/2016/738); there are other amending instruments but none is relevant.
+
+[^f00021]: Footnote: OJ No L 150, 14.6.2017, p 1.
+
+[^f00022]: Footnote: OJ No L 30, 6.2.1993, p 1, as repealed by Regulation [(EC) No 1013/2006](https://www.legislation.gov.uk/european/regulation/2006/1013) of the European Parliament and of the Council (OJ No L 190, 12.7.2006, p 1).
+
+[^f00023]: Footnote: OJ No L 190, 12.7.2006, p 1, as last amended by Commission Regulation (EU) 2015/2002 (OJ No L 294, 11.11.2015, p 1).
+
+[^key-8f9a75a29fbc4500e7a5a46932129eee]: Commencement: Reg. 5 in force at 1.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/575/regulation/1/2)
+
+[^f00024]: Footnote: [S.I. 2006/1380](https://www.legislation.gov.uk/uksi/2006/1380), amended by [S.I. 2012/263](https://www.legislation.gov.uk/uksi/2012/263); there are other amending instruments but none is relevant.
+
+[^f00025]: Footnote: OJ No L 311, 31.10.2014, p 32.
+
+[^key-6a71b7c21cc44d421ab552ed270a6cba]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2018/575/regulation/6) in force at 5.7.2018, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2018/575/regulation/1/2/b)
+
+[^f00026]: Footnote: [S.I. 2007/871](https://www.legislation.gov.uk/uksi/2007/871), to which there are amendments not relevant to these Regulations.
+
+[^key-65b8f32d4684c814b18cb495d0a28711]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2018/575/regulation/7) in force at 5.7.2018, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2018/575/regulation/1/2/b)
+
+[^f00027]: Footnote: [S.I. 2011/988](https://www.legislation.gov.uk/uksi/2011/988), amended by [S.I. 2016/738](https://www.legislation.gov.uk/uksi/2016/738); there are other amending instruments but none is relevant.
+
+[^key-5d3144e7fe862bd1bd93aadea1c717c4]: Commencement: Reg. 8 in force at 1.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/575/regulation/1/2)
+
+[^f00028]: Footnote: [S.I. 2011/2855](https://www.legislation.gov.uk/uksi/2011/2855), to which there are amendments not relevant to these Regulations.
+
+[^f00029]: Footnote: OJ No L 158, 10.6.2013, p 193.
+
+[^key-544ee2b4f91e0308e22c2315931949eb]: Commencement: Reg. 9 in force at 1.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/575/regulation/1/2)
+
+[^f00030]: Footnote: [S.I. 2013/1675](https://www.legislation.gov.uk/uksi/2013/1675), to which there are amendments not relevant to these Regulations.
+
+[^key-830f10b5b1fe5bb89a70590cec708ec8]: Commencement: Reg. 10 in force at 1.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/575/regulation/1/2)
+
+[^f00031]: Footnote: [S.I. 2015/668](https://www.legislation.gov.uk/uksi/2015/668), to which there are amendments not relevant to these Regulations.
+
+[^f00032]: Footnote: OJ No L 330, 5.12.1998, p 32, as last amended by Commission Directive (EU) 2015/1787 (OJ No L 260, 7.10.2015, p 6).
+
+[^f00033]: Footnote: OJ No L 260, 7.10.2015, p 6.
+
+[^key-8a9fff03f0aa0d3bf934d7dfef491d22]: Commencement: Reg. 11(1)(2) in force at 1.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/575/regulation/1/2)
+
+[^key-872bae9327516ffe6178d6946bcabc8f]: Commencement: [Reg. 11(3)](https://www.legislation.gov.uk/uksi/2018/575/regulation/11/3) in force at 5.7.2018, see [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2018/575/regulation/1/2/c)
+
+[^f00034]: Footnote: [S.I. 2015/810](https://www.legislation.gov.uk/uksi/2015/810), amended by [S.I. 2017/1177](https://www.legislation.gov.uk/uksi/2017/1177); there are other amending instruments but none is relevant.
+
+[^f00035]: Footnote: [S.I. 2010/490](https://www.legislation.gov.uk/uksi/2010/490), revoked (with savings) by [S.I. 2017/1012](https://www.legislation.gov.uk/uksi/2017/1012).
+
+[^f00036]: Footnote: [S.I. 2017/1012](https://www.legislation.gov.uk/uksi/2017/1012).
+
+[^key-1c55aa5e325def43f12fb449c7f044d1]: Commencement: Reg. 12(1)(3) in force at 1.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/575/regulation/1/2)
+
+[^key-921b76ffda45aa9381a4a37ed65d7f98]: Commencement: [Reg. 12(2)](https://www.legislation.gov.uk/uksi/2018/575/regulation/12/2) in force at 5.7.2018, see [reg. 1(2)(d)](https://www.legislation.gov.uk/uksi/2018/575/regulation/1/2/d)
+
+[^f00037]: Footnote: OJ No L 137, 24.5.2017, p 1.
+
+[^key-d4c7e29d58ef90935a735079077444e2]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2018/575/regulation/13) in force at 5.7.2018, see [reg. 1(2)(e)](https://www.legislation.gov.uk/uksi/2018/575/regulation/1/2/e)
+
+[^f00038]: Footnote: [S.I. 2017/571](https://www.legislation.gov.uk/uksi/2017/571).
+
+[^key-51352d05e3cb02ea774a24339aa42a55]: Commencement: Reg. 14 in force at 1.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/575/regulation/1/2)
+
+[^f00039]: Footnote: [S.I. 2017/1047](https://www.legislation.gov.uk/uksi/2017/1047).
+
+[^key-79bc4730559988a8ceaab100f341438d]: Commencement: Reg. 15 in force at 1.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/575/regulation/1/2)
+
+[^f00040]: Footnote: [S.I. 1998/141](https://www.legislation.gov.uk/uksi/1998/141), to which there are amendments not relevant to these Regulations.
+
+[^f00041]: Footnote: [S.I. 1995/3187](https://www.legislation.gov.uk/uksi/1995/3187), revoked in relation to England by [S.I. 2009/3238](https://www.legislation.gov.uk/uksi/2009/3238).
+
+[^f00042]: Footnote: OJ No L 354, 31.12.2008, p 16, as last amended by Commission Regulation (EU) 2018/97 (OJ No L 17, 23.1.2018, p 11).
+
+[^key-adb009c8a3d7f0e341dce047d4d78b31]: Commencement: Reg. 16 in force at 1.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/575/regulation/1/2)
+
+[^f00043]: Footnote: [S.I. 2000/3323](https://www.legislation.gov.uk/uksi/2000/3323), to which there are amendments not relevant to these Regulations.
+
+[^f00044]: Footnote: OJ No L 165, 30.4.2004, p 1, as last amended by Commission Regulation (EU) 2018/192 (OJ No L 36, 9.2.2018, p 15).
+
+[^key-3501422db7d38a6d82883db1be9dcb1f]: Commencement: Reg. 17 in force at 1.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/575/regulation/1/2)
+
+[^f00045]: Footnote: [S.I. 2003/1563](https://www.legislation.gov.uk/uksi/2003/1563), to which there are amendments not relevant to these Regulations.
+
+[^key-550bd89fa09f95d56841bdcfabb1191e]: Commencement: Reg. 18 in force at 1.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/575/regulation/1/2)
+
+[^f00046]: Footnote: [S.I. 2003/1659](https://www.legislation.gov.uk/uksi/2003/1659), to which there are amendments not relevant to these Regulations.
+
+[^key-afc73cffe0dacbb4fe628283f8287017]: Commencement: Reg. 19 in force at 1.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/575/regulation/1/2)
+
+[^f00047]: Footnote: [S.I. 2003/3120](https://www.legislation.gov.uk/uksi/2003/3120), amended by [S.I. 2009/3238](https://www.legislation.gov.uk/uksi/2009/3238); there are other amending instruments but none is relevant.
+
+[^f00048]: Footnote: [S.I. 2009/3238](https://www.legislation.gov.uk/uksi/2009/3238), amended by [S.I. 2013/2210](https://www.legislation.gov.uk/uksi/2013/2210); there are other amending instruments but none is relevant.
+
+[^f00049]: Footnote: OJ No L 304, 22.11.2011, p 18, as last amended by Regulation (EU) 2015/2283 of the European Parliament and of the Council (OJ No L 327, 11.12.2015, p 1).
+
+[^f00050]: Footnote: OJ No L 61, 18.3.1995, p 1, as last amended by Commission [Directive 2010/69/EU](https://www.legislation.gov.uk/european/directive/2010/0069) (OJ No L 279, 23.10.2010, p 22).
+
+[^key-270b121a23fbc67a53aab85c12fb3576]: Commencement: Reg. 20 in force at 1.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/575/regulation/1/2)
+
+[^f00051]: Footnote: [S.I. 2008/1287](https://www.legislation.gov.uk/uksi/2008/1287), amended by [S.I. 2013/3235](https://www.legislation.gov.uk/uksi/2013/3235); there are other amending instruments but none is relevant.
+
+[^f00052]: Footnote: OJ No L 347, 20.12.2013, p 671, as last amended by Regulation (EU) 2017/2393 of the European Parliament and of the Council ( OJ No L 350, 29.12.2017, p 15).
+
+[^key-fbf53a576f9ea32861bd4dafaab9549f]: Commencement: Reg. 21 in force at 1.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/575/regulation/1/2)
+
+[^f00053]: Footnote: [S.I. 2008/1317](https://www.legislation.gov.uk/uksi/2008/1317), amended by [S.I. 2013/3235](https://www.legislation.gov.uk/uksi/2013/3235); there is another amending instrument but it is not relevant.
+
+[^key-772c48f30480a23d7083f17ed2e8000c]: Commencement: Reg. 22 in force at 1.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/575/regulation/1/2)
+
+[^f00054]: Footnote: [S.I. 2009/2163](https://www.legislation.gov.uk/uksi/2009/2163), amended by [S.I. 2013/3235](https://www.legislation.gov.uk/uksi/2013/3235); there are other amending instruments but none is relevant.
+
+[^f00055]: Footnote: OJ No L 189, 20.7.2007, p 1, as last amended by Council Regulation (EU) No 517/2013 (OJ No L 158, 10.6.2013, p 1).
+
+[^key-d68228d5fa8ca12f23a2fedb7cddaac9]: Commencement: Reg. 23 in force at 1.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/575/regulation/1/2)
+
+[^f00056]: Footnote: [S.I. 2011/452](https://www.legislation.gov.uk/uksi/2011/452), amended by [S.I. 2013/3235](https://www.legislation.gov.uk/uksi/2013/3235); there is another amending instrument but it is not relevant.
+
+[^key-70660c2d4216effe1525475dd541969f]: Commencement: Reg. 24 in force at 1.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/575/regulation/1/2)
+
+[^f00057]: Footnote: [S.I. 2013/2775](https://www.legislation.gov.uk/uksi/2013/2775), to which there are amendments not relevant to these Regulations.
+
+[^key-d78aba5792c2f2a473f5d7ea029fe5d2]: Commencement: Reg. 25 in force at 1.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/575/regulation/1/2)
+
+[^f00058]: Footnote: [S.I. 1995/2652](https://www.legislation.gov.uk/uksi/1995/2652), amended by [S.I. 2007/1449](https://www.legislation.gov.uk/uksi/2007/1449); there are other amending instruments but none is relevant.
+
+[^f00059]: Footnote: [S.I. 1993/2008](https://www.legislation.gov.uk/uksi/1993/2008), revoked in relation to England by [S.I. 2002/3175](https://www.legislation.gov.uk/uksi/2002/3175).
+
+[^f00060]: Footnote: [S.I. 2011/463](https://www.legislation.gov.uk/uksi/2011/463), to which there are amendments not relevant to these Regulations.
+
+[^key-8f3b29f952ece34916a489c22d0f03da]: Commencement: Reg. 26 in force at 1.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/575/regulation/1/2)
+
+[^f00061]: Footnote: [S.I. 1999/1801](https://www.legislation.gov.uk/uksi/1999/1801).
+
+[^f00062]: Footnote: OJ No L 189, 27.6.2014, p 1.
+
+[^f00063]: Footnote: OJ No L 169, 10.7.2000, p 1, as last amended by Commission Implementing Directive (EU) 2017/1920 (OJ No L 271, 20.10.2017, p 34).
+
+[^f00064]: Footnote: [S.I. 1993/1320](https://www.legislation.gov.uk/uksi/1993/1320), revoked in relation to England by [S.I. 2005/2530](https://www.legislation.gov.uk/uksi/2005/2530).
+
+[^f00065]: Footnote: [S.I. 2015/610](https://www.legislation.gov.uk/uksi/2015/610), to which there are amendments not relevant to these Regulations.
+
+[^key-ff394699596842aeebce60c6a56a252e]: Commencement: Reg. 27 in force at 1.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/575/regulation/1/2)
+
+[^f00066]: Footnote: [S.I. 2009/1361](https://www.legislation.gov.uk/uksi/2009/1361), amended by [S.I. 2013/3235](https://www.legislation.gov.uk/uksi/2013/3235); there are other amending instruments but none is relevant.
+
+[^key-b87f1214250e621f424917309e105225]: Textual amendment: [Reg. 28](https://www.legislation.gov.uk/uksi/2018/575/regulation/28) revoked (3.12.2018) by [The Carcase Classification and Price Reporting (England) Regulations 2018 (S.I. 2018/1164)](https://www.legislation.gov.uk/uksi/2018/1164), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1164/regulation/1), [5(c)](https://www.legislation.gov.uk/uksi/2018/1164/regulation/5/c) (with [regs. 3](https://www.legislation.gov.uk/uksi/2018/1164/regulation/3), [7](https://www.legislation.gov.uk/uksi/2018/1164/regulation/7), [13](https://www.legislation.gov.uk/uksi/2018/1164/regulation/13))
+
+[^key-64dc9b069d9db020f888d3e0563fe8a6]: Commencement: Reg. 29 in force at 1.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/575/regulation/1/2)
+
+[^f00070]: Footnote: [S.I. 2015/1953](https://www.legislation.gov.uk/uksi/2015/1953).
+
+[^f00071]: Footnote: OJ No L 60, 5.3.2016, p 88.
+
+[^f00072]: Footnote: OJ No L 60, 5.3.2016, p 72.
+
+[^key-bf9184ac276b13e44affc6c6c432bdd5]: Commencement: Reg. 30 in force at 1.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/575/regulation/1/2)
+
+[^f00073]: Footnote: [S.I. 1980/12](https://www.legislation.gov.uk/uksi/1980/12), amended by [S.I. 1994/2920](https://www.legislation.gov.uk/uksi/1994/2920); there are other amending instruments but none is relevant.
+
+[^f00074]: Footnote: [1981 c. 22](https://www.legislation.gov.uk/ukpga/1981/22).
+
+[^f00075]: Footnote: [1950 c. 36](https://www.legislation.gov.uk/ukpga/1950/36), repealed by the Animal Health Act 1981, Schedule 6.
+
+[^key-11ddeeac81a0da11259aace7fa9001a1]: Commencement: Reg. 31 in force at 1.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/575/regulation/1/2)
+
+[^f00076]: Footnote: [S.I. 1980/14](https://www.legislation.gov.uk/uksi/1980/14), amended by [S.I. 1982/948](https://www.legislation.gov.uk/uksi/1982/948); there are other amending instruments but none is relevant.
+
+[^key-37976d9f5b2efc6ac800212c40bab705]: Commencement: Reg. 32 in force at 1.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/575/regulation/1/2)
+
+[^f00077]: Footnote: [S.I. 2003/1078](https://www.legislation.gov.uk/uksi/2003/1078), to which there are amendments not relevant to these Regulations.
+
+[^f00078]: Footnote: OJ No L 10, 14.1.2005, p 16, as last amended by Council [Directive 2008/73/EC](https://www.legislation.gov.uk/european/directive/2008/0073) (OJ No L 219, 14.8.2008, p 40).
+
+[^f00079]: Footnote: [S.I. 1978/32](https://www.legislation.gov.uk/uksi/1978/32), revoked in relation to England by [S.I. 2007/448](https://www.legislation.gov.uk/uksi/2007/448).
+
+[^f00080]: Footnote: [S.I. 2007/448](https://www.legislation.gov.uk/uksi/2007/448), to which there are amendments not relevant to these Regulations.
+
+[^f00081]: Footnote: OJ No L 167, 22.6.1992, p 1, as repealed by Council [Directive 2005/94/EC](https://www.legislation.gov.uk/european/directive/2005/0094) (OJ No L 10, 14.1.2006, p 16).
+
+[^key-057e5fa7a5976be8f5c9ac5830d26d23]: Commencement: Reg. 33 in force at 1.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/575/regulation/1/2)
+
+[^f00082]: Footnote: [S.I. 2006/182](https://www.legislation.gov.uk/uksi/2006/182), to which there are amendments not relevant to these Regulations.
+
+[^f00083]: Footnote: [S.I. 2011/1197](https://www.legislation.gov.uk/uksi/2011/1197), to which there are amendments not relevant to these Regulations.
+
+[^key-62bb8ad29c53ef440d9a26a90a919ce4]: Commencement: Reg. 34 in force at 1.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/575/regulation/1/2)
+
+[^f00084]: Footnote: [S.I. 2006/2702](https://www.legislation.gov.uk/uksi/2006/2702), to which there are amendments not relevant to these Regulations.
+
+[^f00085]: Footnote: [S.I. 1998/463](https://www.legislation.gov.uk/uksi/1998/463), revoked in relation to England by [S.I. 2008/944](https://www.legislation.gov.uk/uksi/2008/944).
+
+[^f00086]: Footnote: [S.I. 2008/944](https://www.legislation.gov.uk/uksi/2008/944), to which there are amendments not relevant to these Regulations.
+
+[^f00087]: Footnote: OJ No L 47, 20.2.2013, p 1.
+
+[^f00088]: Footnote: [1968 c. 67](https://www.legislation.gov.uk/ukpga/1968/67); section 8 was repealed by [S.I. 2012/1916](https://www.legislation.gov.uk/uksi/2012/1916).
+
+[^f00089]: Footnote: [S.I. 2012/1916](https://www.legislation.gov.uk/uksi/2012/1916), to which there are amendments not relevant to these Regulations.
+
+[^f00090]: Footnote: [S.I. 2005/2745](https://www.legislation.gov.uk/uksi/2005/2745), revoked by [S.I. 2006/2407](https://www.legislation.gov.uk/uksi/2006/2407).
+
+[^f00091]: Footnote: [S.I. 2013/2033](https://www.legislation.gov.uk/uksi/2013/2033), to which there are amendments not relevant to these Regulations.
+
+[^key-61ba47595f4d6051c2e68a1c3db6aec0]: Commencement: Reg. 35 in force at 1.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/575/regulation/1/2)
+
+[^f00092]: Footnote: [S.I. 2006/2703](https://www.legislation.gov.uk/uksi/2006/2703), to which there are amendments not relevant to these Regulations.
+
+[^key-2fa0c5407f3b51fca3dd5d4eb974ffd1]: Commencement: Reg. 36 in force at 1.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/575/regulation/1/2)
+
+[^f00093]: Footnote: [S.I. 2006/3247](https://www.legislation.gov.uk/uksi/2006/3247), to which there are amendments not relevant to these Regulations.
+
+[^key-6f29322bbd6af8bc22f7e8fca048f847]: Commencement: Reg. 37 in force at 1.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/575/regulation/1/2)
+
+[^f00094]: Footnote: [S.I. 2006/3249](https://www.legislation.gov.uk/uksi/2006/3249), to which there are amendments not relevant to these Regulations.
+
+[^key-ce4e04c99818d623aa022e10f70e2c87]: Textual amendment: [Reg. 38](https://www.legislation.gov.uk/uksi/2018/575/regulation/38) revoked (14.12.2019) by [The Official Controls (Animals, Feed and Food, Plant Health Fees etc.) Regulations 2019 (S.I. 2019/1488)](https://www.legislation.gov.uk/uksi/2019/1488), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/1488/regulation/1/1), [29](https://www.legislation.gov.uk/uksi/2019/1488/regulation/29)
+
+[^key-5cdd08652e3c787ff0fd00b954a3bfaa]: Commencement: Reg. 39 in force at 1.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/575/regulation/1/2)
+
+[^f00098]: Footnote: [S.I. 2007/1319](https://www.legislation.gov.uk/uksi/2007/1319), to which there are amendments not relevant to these Regulations.
+
+[^f00099]: Footnote: [S.I. 2007/529](https://www.legislation.gov.uk/uksi/2007/529), to which there are amendments not relevant to these Regulations.
+
+[^key-15b78ca6f22e0587ea8ca418b13766a7]: Commencement: Reg. 40 in force at 1.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/575/regulation/1/2)
+
+[^f00100]: Footnote: [S.I. 2007/2078](https://www.legislation.gov.uk/uksi/2007/2078), to which there are amendments not relevant to these Regulations.
+
+[^f00101]: Footnote: OJ No L 340, 11.12.1991, p 33, as repealed by Council [Directive 2008/120/EC](https://www.legislation.gov.uk/european/directive/2008/0120) (OJ No L 47, 18.2.2009, p 5).
+
+[^f00102]: Footnote: OJ No L 47, 18.2.2009, p 5.
+
+[^f00103]: Footnote: OJ No L 340, 11.12.1991, p 28, as repealed by Council [Directive 2008/119/EC](https://www.legislation.gov.uk/european/directive/2008/0119) (OJ No L 10, 15.1.2009, p 7).
+
+[^f00104]: Footnote: OJ No L 10, 15.1.2009, p 7.
+
+[^key-3d8c2be6ab604261eb3426b78cdf29d3]: Commencement: Reg. 41 in force at 1.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/575/regulation/1/2)
+
+[^f00105]: Footnote: [S.I. 2008/465](https://www.legislation.gov.uk/uksi/2008/465), to which there are amendments not relevant to these Regulations.
+
+[^key-88c3b79589ae6bc9cf630829bf5c6c05]: Commencement: Reg. 42 in force at 1.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/575/regulation/1/2)
+
+[^f00106]: Footnote: [S.I. 2008/962](https://www.legislation.gov.uk/uksi/2008/962), amended by [S.I. 2012/1977](https://www.legislation.gov.uk/uksi/2012/1977); there are other amending instruments but none is relevant.
+
+[^f00107]: Footnote: [S.I. 2011/2159](https://www.legislation.gov.uk/uksi/2011/2159), revoked by [S.I. 2013/2033](https://www.legislation.gov.uk/uksi/2013/2033).
+
+[^key-b6c6e256b07520d20bc4bd7462f5d767]: Commencement: Reg. 43 in force at 1.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/575/regulation/1/2)
+
+[^f00108]: Footnote: [S.I. 1997/1729](https://www.legislation.gov.uk/uksi/1997/1729), revoked in relation to England by [S.I. 2015/787](https://www.legislation.gov.uk/uksi/2015/787).
+
+[^f00109]: Footnote: [S.I. 2015/787](https://www.legislation.gov.uk/uksi/2015/787).
+
+[^key-4bc77d2c2c41b0c3e505bd44c2824b45]: Commencement: Reg. 44 in force at 1.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/575/regulation/1/2)
+
+[^f00110]: Footnote: [S.I. 2015/647](https://www.legislation.gov.uk/uksi/2015/647).
+
+[^f00111]: Footnote: OJ No L 169, 30.6.2017, p 1.

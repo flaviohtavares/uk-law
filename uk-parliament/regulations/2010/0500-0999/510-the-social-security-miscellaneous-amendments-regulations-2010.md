@@ -1,0 +1,214 @@
+---
+title: The Social Security (Miscellaneous Amendments) Regulations 2010
+id: uksi/2010/510
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2010-02-24'
+text_date: '2017-04-01'
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2010/510
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2010/510/pdfs/uksiem_20100510_en.pdf
+- http://www.legislation.gov.uk/uksi/2010/510/pdfs/uksi_20100510_en.pdf
+- http://www.legislation.gov.uk/uksi/2010/510/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Social Security (Miscellaneous Amendments) Regulations 2010
+
+> Text as at 2017-04-01.
+
+2010 No. 510
+
+Social Security
+
+The Social Security (Miscellaneous Amendments) Regulations 2010
+
+Made
+
+24th February 2010
+
+Laid before Parliament
+
+4th March 2010
+
+Coming into force in accordance with regulation 1
+
+The Secretary of State for Work and Pensions makes the following Regulations in exercise of powers conferred by sections 70(8), 122(1) and 175(1) of the Social Security Contributions and Benefits Act 1992 [^c2015530], sections 5(1)(b), (i), (k), (l) and (p), 15A(2)(b), 189(1) and (4) to (6) and 191 of the Social Security Administration Act 1992 [^c2015531] and sections 10(6), 79(1) and (4) and 84 of the Social Security Act 1998 [^c2015532].
+
+In accordance with section 173(1)(b) of the Social Security Administration Act 1992, the Secretary of State has obtained the agreement of the Social Security Advisory Committee that proposals in respect of these Regulations should not be referred to it.
+
+In respect of the provisions in these Regulations relating to mortgages, the Secretary of State has consulted with organisations representing qualifying lenders likely to be affected [^c2015533].
+
+## 1. Citation and commencement
+
+(1) These Regulations may be cited as the Social Security (Miscellaneous Amendments) Regulations 2010.
+
+(2) Subject to paragraphs (3) and (4), these regulations come into force on 6<sup>th</sup> April 2010, immediately after the coming into force of the Social Security (Miscellaneous Amendments) (No. 6) Regulations 2009 [^c2015534].
+
+(3) This regulation and regulation 3(1) and (8) come into force on 1<sup>st</sup> April 2010.
+
+(4) Regulation 2 comes into force on 12<sup>th</sup> April 2010.
+
+## 2. Amendment of the Social Security (Invalid Care Allowance) Regulations 1976
+
+(1) The Social Security (Invalid Care Allowance) Regulations 1976 [^c2015535] are amended as follows.
+
+(2) In regulation 8(1) [^c2015536] (circumstances in which a person is or is not to be treated as gainfully employed), for “£95”, in each place it occurs, substitute “ £100 ”.
+
+## 3. Amendment of the Social Security (Claims and Payments) Regulations 1987
+
+(1) The Social Security (Claims and Payments) Regulations 1987 [^c2015537] are amended as follows.
+
+(2) In regulation 6(22) [^c2015538] (date of claim), in paragraph (c) of the definition of “qualifying benefit” for “regulation 5(1)(a) or 7(1)(a) of the Social Fund Maternity and Funeral Expenses (General) Regulations 1987” substitute “ regulation 5(1)(a) or 7(4)(a) of the Social Fund Maternity and Funeral Expenses (General) Regulations 2005 [^c2015539] ”.
+
+(3) In regulation 16 (date of entitlement under an award for the purpose of payability of benefit and effective date of change of rate)—
+
+- (a) in paragraph (2D) [^c2015540], for “Where a retirement pension is paid in arrears under regulation 22C and the award” substitute “ Where an award of retirement pension ”;
+- (b) in paragraph (2E), before “regulation 22D(2)” insert “ paragraph (2F) or ”; and
+- (c) after paragraph (2E) insert—
+
+  > (2F) Except in a case where regulation 22D(2) applies, where a retirement pension is paid in arrears under regulation 22C and a change in the rate of that benefit takes effect under an order made under section 150 or 150A of the 1992 Act [^c2015541] (annual up-rating of benefits, basic pension etc.) the change, if it would otherwise take effect on a day which is not the first day of the benefit week, shall take effect on the first day of the benefit week next following.
+
+  .
+
+(4) In regulation 16A [^c2015542] (date of entitlement under an award of state pension credit for the purpose of payability and effective date of change of rate), for paragraph (4) substitute—
+
+> (4) For the purpose of this regulation, “**benefit week**” means—
+>
+> - (a) where state pension credit is paid in advance, the period of 7 days beginning on the day on which, in the claimant's case, that benefit is payable;
+> - (b) where state pension credit is paid in arrears, the period of 7 days ending on the day on which, in the claimant's case, that benefit is payable.
+
+.
+
+(5) In regulation 22 [^c2015543] (long term benefits)—
+
+- (a) in paragraph (1A), for “Disability” substitute “ Subject to paragraph (1B), disability ”; and
+- (b) after paragraph (1A) insert—
+
+  > (1B) The Secretary of State may, in any particular case or class of case, arrange that attendance allowance or disability living allowance shall be paid at such other intervals not exceeding four weeks as may be specified.
+
+  .
+
+(6) In regulation 22D(2)(c) [^c2015544] (payment of retirement pension at a daily rate) for “section 150A” substitute “ section 150 or 150A ”.
+
+(7) In paragraph 5 [^c2015545] of Schedule 9 (deductions from benefit and direct payment to third parties)—
+
+- (a) in sub-paragraph (1)(b), at the end add “ or is resident in approved premises under section 13 of the Offender Management Act 2007 [^c2015546] ”;
+- (b) after sub-paragraph (1A) insert—
+
+  > (1B) For the purposes of sub-paragraphs (1) and (1A), references to “rent” include charges incurred in respect of accommodation in approved premises under section 13 of the Offender Management Act 2007.
+
+  ;
+- (c) in sub-paragraph (3), for “Subject to sub-paragraph (4), the” substitute “ The ”; and
+- (d) in sub-paragraph (6), after “landlord” insert “ , or the person or body to whom charges are payable in respect of the residence of the beneficiary or the beneficiary's partner in approved premises under section 13 of the Offender Management Act 2007, ”.
+
+(8)[^key-614c3a1b4003f0d35a2b362531ce6207] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 4. Amendment of the Social Security and Child Support (Decisions and Appeals) Regulations 1999
+
+(1) The Social Security and Child Support (Decisions and Appeals) Regulations 1999 [^c2015548] are amended as follows.
+
+(2) In regulation 7 (date from which a decision superseded under section 10 takes effect), after paragraph (30) [^c2015549] insert—
+
+> (30A) Where a decision is superseded in accordance with regulation 6(2)(a)(ii) and the relevant change of circumstances is the coming into force of a change in the legislation in relation to a relevant benefit, the decision under section 10 shall take effect from the date on which that change in the legislation takes effect.
+
+.
+
+(3) In regulation 8(3) (effective date for late notifications of change of circumstances), for sub-paragraph (b) substitute—
+
+> - (b) be made—
+>   - (i) within 13 months of the date the change occurred; or
+>   - (ii) in the case of an application for the purposes of regulation 7(9)(b), within 13 months of the date on which the claimant satisfied the conditions of entitlement to the particular rate of benefit.
+
+.
+
+(4) In Schedule 3B [^c2015550] (date on which change of circumstances takes effect where claimant entitled to state pension credit)—
+
+- (a) in paragraph 7 for “Where” substitute “ Subject to paragraphs 9 and 10, where ”; and
+- (b) after paragraph 8 add—
+
+  > **9.**
+  >
+  > Where state pension credit is paid in arrears and the relevant change of circumstances results in the award of that benefit being terminated, the superseding decision shall take effect on the first day of the benefit week next following the benefit week in which that change occurs or is expected to occur.
+  >
+  > **10.**
+  >
+  > Where state pension credit is paid in advance and the relevant change of circumstances is the death of the claimant, the superseding decision shall take effect on the first day of the benefit week next following the date of death.
+  >
+  > **11.**
+  >
+  > In this Schedule, “**benefit week**” means—
+  >
+  > - (a) where state pension credit is paid in advance, the period of 7 days beginning on the day on which, in the claimant's case, that benefit is payable;
+  > - (b) where state pension credit is paid in arrears, the period of 7 days ending on the day on which, in the claimant's case, that benefit is payable.
+
+  .
+
+Signed by authority of the Secretary of State for Work and Pensions
+
+William D. McKenzie
+
+Parliamentary Under Secretary of State
+
+Department for Work and Pensions
+
+*(This note is not part of the Regulations)*
+
+These Regulations amend the Social Security (Invalid Care Allowance) Regulations 1976 (S.I. 1976/409), the Social Security (Claims and Payments) Regulations 1987 (S.I. 1987/1968) and the Social Security and Child Support (Decisions and Appeals) Regulations 1999 (S.I. 1999/991).
+
+Regulation 2 amends the Social Security (Invalid Care Allowance) Regulations 1976 to increase, from £95 to £100, the amount of weekly earnings a person can receive before being treated as gainfully employed for the purposes of entitlement to carer's allowance.
+
+Regulation 3 amends the Social Security (Claims and Payments) Regulations 1987 to update references to certain social fund benefits; to make provision in relation to death and a change in rate for the purposes of retirement pension; to provide for attendance allowance or disability living allowance to be paid at specified intervals not exceeding 4 weeks; to allow for deductions to be made from benefit where persons residing in approved premises (under section 13 of the Offender Management Act 2007) have built up arrears of service charges; and to decrease from £0.55 to £0.45 the fee which qualifying lenders pay for the purpose of defraying administrative expenses incurred by the Secretary of State in making payments in respect of mortgage interest to qualifying lenders.
+
+Regulation 4 amends the Social Security and Child Support (Decisions and Appeals) Regulations 1999 to make provision in relation to the supersession of decisions where legislation is due to come into force; the effective date for late notification of change of circumstances in relation to attendance allowance and disability living allowance; and the date on which entitlement to state pension credit terminates on the death of the claimant.
+
+A full impact assessment has not been published for this instrument as it has only a negligible impact on the private or voluntary sectors.
+
+## Annotations
+
+[^c2015530]: Marginal citation: [1992 c.4](https://www.legislation.gov.uk/ukpga/1992/4). Section 122(1) is cited for the definition of “prescribe”. Section 175(1) was amended by the [Social Security Contributions (Transfer of Functions, etc.) Act 1999 (c.2)](https://www.legislation.gov.uk/ukpga/1999/2), [Schedule 3](https://www.legislation.gov.uk/ukpga/1999/2/schedule/3), [paragraph 29(1)](https://www.legislation.gov.uk/ukpga/1999/2/paragraph/29/1) and (2).
+
+[^c2015531]: Marginal citation: [1992 c.5](https://www.legislation.gov.uk/ukpga/1992/5). Section 15A was inserted by paragraph 1 of the Schedule to the [Social Security (Mortgage Interest Payments) Act 1992 (c.33)](https://www.legislation.gov.uk/ukpga/1992/33). Section 189(1) was amended by the [Social Security Act 1998 (c.14)](https://www.legislation.gov.uk/ukpga/1998/14), [Schedule 7](https://www.legislation.gov.uk/ukpga/1998/14/schedule/7), [paragraph 109(a)](https://www.legislation.gov.uk/ukpga/1998/14/paragraph/109/a) and Schedule 8, by the Social Security Contributions (Transfer of Functions, etc.) Act 1999, Schedule 3, paragraph 57(1) and (2) and by the [Tax Credits Act 2002 (c.21)](https://www.legislation.gov.uk/ukpga/2002/21), [Schedule 6](https://www.legislation.gov.uk/ukpga/2002/21/schedule/6). Section 189(4) to (6) were amended by the Social Security Act 1998, Schedule 7, paragraph 109(c) to (e) and Schedule 8. Section 191 is cited for the meaning of the word “prescribe”. The definition of “prescribe” was amended by paragraphs 2 and 10 of Schedule 5 to the Welfare Reform Act 2007.
+
+[^c2015532]: Marginal citation: [1998 c.14](https://www.legislation.gov.uk/ukpga/1998/14). Section 79(1) was amended by the Tax Credits Act 2002, Schedule 4, paragraph 13(1) and (2) and [S.I. 2008/2833](https://www.legislation.gov.uk/uksi/2008/2833). Section 84 is cited for the definition of “prescribe”.
+
+[^c2015533]: Marginal citation: *See* section 15A(2) of the Social Security Administration Act 1992.
+
+[^c2015534]: Marginal citation: [S.I. 2009/3229](https://www.legislation.gov.uk/uksi/2009/3229), which comes into force on 6<sup>th</sup> April 2010.
+
+[^c2015535]: Marginal citation: [S.I. 1976/409](https://www.legislation.gov.uk/uksi/1976/409).
+
+[^c2015536]: Marginal citation: [Regulation 8(1)](https://www.legislation.gov.uk/uksi/2010/510/regulation/8/1) was amended by [S.I. 1996/2744](https://www.legislation.gov.uk/uksi/1996/2744) and 2007/2618.
+
+[^c2015537]: Marginal citation: [S.I. 1987/1968](https://www.legislation.gov.uk/uksi/1987/1968).
+
+[^c2015538]: Marginal citation: The definition of “qualifying benefit” was amended by [S.I. 2002/428](https://www.legislation.gov.uk/uksi/2002/428) and 2002/2497.
+
+[^c2015539]: Marginal citation: [S.I. 2005/3061](https://www.legislation.gov.uk/uksi/2005/3061).
+
+[^c2015540]: Marginal citation: Paragraphs (2D) and (2E) are inserted by [S.I. 2009/3229](https://www.legislation.gov.uk/uksi/2009/3229).
+
+[^c2015541]: Marginal citation: Section 150A of the 1992 Act was inserted by section 5(1) of the [Pensions Act 2007 (c.22)](https://www.legislation.gov.uk/ukpga/2007/22).
+
+[^c2015542]: Marginal citation: Regulation 16A was inserted by [S.I. 2002/3019](https://www.legislation.gov.uk/uksi/2002/3019) and amended by [S.I. 2008/1554](https://www.legislation.gov.uk/uksi/2008/1554).
+
+[^c2015543]: Marginal citation: Regulation 22 was amended by [S.I. 1991/2741](https://www.legislation.gov.uk/uksi/1991/2741), 1994/3196, 1996/2306, 2002/2441, 2008/2667, 2009/604 and 2009/3229.
+
+[^c2015544]: Marginal citation: Regulation 22D is inserted by [S.I. 2009/3229](https://www.legislation.gov.uk/uksi/2009/3229).
+
+[^c2015545]: Marginal citation: Relevant amending instruments are [S.I. 1991/2284](https://www.legislation.gov.uk/uksi/1991/2284), 1992/2595, 1996/1460, 1999/3178, 2006/217, 2006/2377, 2007/2870 and 2008/698.
+
+[^c2015546]: Marginal citation: [2007 c.21](https://www.legislation.gov.uk/ukpga/2007/21).
+
+[^key-614c3a1b4003f0d35a2b362531ce6207]: Textual amendment: [Reg. 3(8)](https://www.legislation.gov.uk/uksi/2010/510/regulation/3/8) revoked (1.4.2017) by [The Social Security (Fees Payable by Qualifying Lenders) (Amendment) Regulations 2017 (S.I. 2017/270)](https://www.legislation.gov.uk/uksi/2017/270), [regs. 1](https://www.legislation.gov.uk/uksi/2017/270/regulation/1), [4](https://www.legislation.gov.uk/uksi/2017/270/regulation/4), [Sch.](https://www.legislation.gov.uk/uksi/2017/270/schedule)
+
+[^c2015548]: Marginal citation: [S.I. 1999/991](https://www.legislation.gov.uk/uksi/1999/991).
+
+[^c2015549]: Marginal citation: [Regulation 7(30)](https://www.legislation.gov.uk/uksi/2010/510/regulation/7/30) was inserted by [S.I. 2003/1050](https://www.legislation.gov.uk/uksi/2003/1050).
+
+[^c2015550]: Marginal citation: [Schedule 3B](https://www.legislation.gov.uk/uksi/2010/510/schedule/3B) was inserted by [S.I. 2002/3019](https://www.legislation.gov.uk/uksi/2002/3019) and paragraphs 7 and 8 were added by [S.I. 2006/832](https://www.legislation.gov.uk/uksi/2006/832).

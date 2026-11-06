@@ -1,0 +1,80 @@
+---
+title: Finance Act 2020, section 41
+act: Finance Act 2020
+section: '41'
+status: revised
+text_date: '2026-03-18'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2020/14/section/41
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Finance Act 2020, section 41
+
+> Text as at 2026-03-18.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 41. Meaning of “UK digital services revenues”
+
+*Extent: E+W+S+N.I.*
+
+(1) This section applies for the purposes of this Part.
+
+(2) A group's “UK digital services revenues” for a period are so much of its digital services revenues for that period as are attributable to UK users.
+
+(3) Revenues are attributable to UK users if—
+
+- (a) they are within Case 1, 2 or 3, or
+- (b) they are within Case 4 or 5 and, where subsection (9) applies, they are allocated to UK users under that subsection.
+
+This is subject to subsection (10).
+
+(4) Case 1 is where—
+
+- (a) the revenues are online marketplace revenues,
+- (b) they arise in connection with a marketplace transaction, and
+- (c) a UK user is a party to the transaction.
+
+(5) Case 2 is where—
+
+- (a) the revenues are online marketplace revenues, and
+- (b) they arise in connection with particular accommodation or land in the United Kingdom (see section 42).
+
+(6) Case 3 is where—
+
+- (a) the revenues are online marketplace revenues,
+- (b) they arise in connection with online advertising for particular services, goods or other property, and
+- (c) the advertising is paid for by a UK user.
+
+(7) Case 4 is where—
+
+- (a) the revenues are online advertising revenues,
+- (b) they are not within any of Cases 1 to 3, and
+- (c) the advertising is viewed or otherwise consumed by UK users.
+
+(8) Case 5 is where—
+
+- (a) the revenues are not within any of Cases 1 to 4, and
+- (b) they arise in connection with UK users.
+
+(9) For the purposes of subsection (3)(b), revenues are to be allocated to UK users to such extent as is just and reasonable where they are—
+
+- (a) online advertising revenues within Case 4 and the advertising in question is viewed or otherwise consumed by UK users and others;
+- (b) revenues within Case 5 and they arise in connection with UK users and others.
+
+(10) Online marketplace revenues are treated as not attributable to UK users if—
+
+- (a) where they arise in connection with a marketplace transaction—
+  - (i) they arise in connection with particular accommodation or land outside the United Kingdom (see section 42), and
+  - (ii) the only UK user who is a party to the transaction is a provider or seller of the thing to which the transaction relates;
+- (b) in any other case, they arise in connection with particular accommodation or land outside the United Kingdom (see section 42).
+
+(11) In this section—
+
+- “**marketplace transaction**” means a transaction on the online marketplace between users;
+- “**online advertising revenues**” means revenues arising in connection with the provision or facilitation of online advertising;
+- “**online marketplace revenues**” means revenues arising in connection with an online marketplace.
+
+(12) For the purpose of the definition of “marketplace transaction”, “**transaction on the online marketplace**” includes the placing on the marketplace of an order that results in an agreement, even if the agreement between the users is made otherwise than through the marketplace.

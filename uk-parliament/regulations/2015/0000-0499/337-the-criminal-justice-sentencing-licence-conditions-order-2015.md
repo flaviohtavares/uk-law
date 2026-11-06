@@ -1,0 +1,205 @@
+---
+title: The Criminal Justice (Sentencing) (Licence Conditions) Order 2015
+id: uksi/2015/337
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised-with-pending-changes
+made_date: '2015-02-15'
+text_date: '2026-10-01'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2015/337
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2015/337/pdfs/uksiem_20150337_en.pdf
+- http://www.legislation.gov.uk/uksi/2015/337/pdfs/uksi_20150337_en.pdf
+- http://www.legislation.gov.uk/uksi/2015/337/data.pdf
+pending_changes: 2
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Criminal Justice (Sentencing) (Licence Conditions) Order 2015
+
+> **Warning: changes not yet applied to this text (2).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/uksi/2015/337
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2015 No. 337
+
+Criminal Law, England And Wales
+
+The Criminal Justice (Sentencing) (Licence Conditions) Order 2015
+
+Made
+
+15th February 2015
+
+Laid before Parliament
+
+24th February 2015
+
+Coming into force
+
+23rd March 2015
+
+The Secretary of State makes the following Order in exercise of the powers conferred by sections 250(1), (4)(b)(ii) and 330(3) of the Criminal Justice Act 2003[^f00001].
+
+In making this Order under section 250(1) and (4)(b)(ii) of the Act, in accordance with section 250(8) of the Act, the Secretary of State has had regard to the following purposes of the supervision of offenders while on licence under Chapter 6 of Part 12 of the Act—
+
+- (a) the protection of the public;
+- (b) the prevention of re-offending; and
+- (c) securing the successful re-integration of the prisoner into the community.
+
+## 1. Citation, commencement and interpretation[^key-71e2979ad8188a3b88a4656cebe15031]
+
+(1) This Order may be cited as the Criminal Justice (Sentencing) (Licence Conditions) Order 2015 and comes into force on 23rd March 2015.
+
+(2) In this Order–
+
+- “the Act” means the Criminal Justice Act 2003;
+- “offender” means a fixed-term prisoner who has been released on licence in accordance with Chapter 6 of Part 12 of the Act;
+- “[^key-2ef314ac70f75e10e0480628ad590668]**supervising officer**” means the officer responsible for the management of the offender in accordance with arrangements for probation provision under section 3 of the Offender Management Act 2007;
+- “[^key-32e3d9a55ff7b16ecef9270016f1d348]**terrorist offender**” has the same meaning as in section 43B(4)(a) of the Terrorism Act 2000.
+
+## 2. Revocation[^key-ff720e2fbbe280d43487457097d5cfda]
+
+The Criminal Justice (Sentencing) (Licence Conditions) Order 2005[^f00002] is revoked.
+
+## 3. Standard conditions[^key-f2b8763960f780c04f70a2b4b54e11a9]
+
+(1) The conditions in paragraph (2) are the standard conditions that must be included in an offender’s licence in accordance with section 250(4)(a) of the Act, whether or not any standard conditions in articles 4 to 6 are also included.
+
+(2)[^key-b40a511e4594d281ee4e7753cdc120e5] An offender must—
+
+- (a) behave well and in a way that supports the purpose of the offender being on licence;
+- (b) not commit any crime;
+- (c) keep in touch with the supervising officer as instructed by the supervising officer;
+- (d) meet with the supervising officer at any place the supervising officer specifies, including meeting the supervising officer where the offender lives;
+- (e) stay at an address approved by the supervising officer and get permission from the supervising officer if they want to stay at another address for one or more nights;
+- (f) tell the supervising officer about any new work, or type of work, they want to do, and get the approval of the supervising officer before starting the work;
+- (g) tell the supervising officer if they have a passport and give the supervising officer any details about the passport that the supervising officer asks for;
+- (h) get permission from the supervising officer if they want to apply for a new passport;
+- (i) get permission from the supervising officer if they want to leave the United Kingdom, the Channel Islands or the Isle of Man. This condition does not apply if the offender is being deported or removed for immigration purposes;
+- (j) tell the supervising officer about any names they use that are different to the names on their licence;
+- (k) tell the supervising officer if their contact details change, including any telephone number or email address.
+
+## 4. Standard conditions: electronic monitoring[^key-7b245a0927510739ab9d1c7566361357]
+
+(1) The conditions in paragraph (2) are the standard conditions that must be included in an offender’s licence in accordance with section 250(4)(a) of the Act where the offender is subject to an electronic monitoring condition under sections 62[^f00003] and 62A[^f00004] of the Criminal Justice and Court Services Act 2000.
+
+(2) While subject to electronic monitoring an offender must–
+
+- (a) allow an electronic device to be fitted to their person;
+- (b) allow the installation of any equipment associated with electronic monitoring;
+- (c) not damage or tamper with the electronic device or equipment associated with electronic monitoring;
+- (d) if required,[^key-0d5aa7f993a59f16f5ac444b14fb3abd] ensure at all times that the electronic device is sufficiently charged;
+- (e) immediately report to any person nominated by[^key-0ea8dc7b06fa93e72eede9dfe9b8c59e] the supervising officer if the electronic device or equipment associated with electronic monitoring is not working correctly;
+- (f) allow any person nominated by the supervising officer to check whether the electronic device or equipment associated with electronic monitoring is working correctly.
+
+## 5. Standard conditions: drug testing[^key-1886fe7f2a9e692860b8be0d11268c96]
+
+(1) The conditions in paragraph (2) are the standard conditions that must be included in an offender’s licence in accordance with section 250(4)(a) of the Act where the offender is subject to a drug testing requirement under section 64 of the Criminal Justice and Court Services Act 2000[^f00005].
+
+(2) While subject to a drug testing requirement an offender must–
+
+- (a) attend a place notified to the offender by the supervising officer, and comply with the required form of testing;
+- (b) not frustrate the drug testing process.
+
+## 6. Standard conditions: polygraph testing[^key-f9d65a092b764d5fa0a6b015da09880f]
+
+(1) The conditions in paragraph (2) are the standard conditions that must be included in an offender’s licence in accordance with section 250(4)(a) of the Act where the offender is subject to a polygraph condition under section 28 of the Offender Management Act 2007[^f00006].
+
+(2) While subject to a polygraph condition an offender must–
+
+- (a) attend a polygraph testing session and examination as instructed by the supervising officer, and comply with the process;
+- (b) comply with any instruction given during a polygraph session by the person conducting the polygraph;
+- (c) not frustrate the polygraph testing process.
+
+## 7. Other types of licence conditions[^key-756d8a05892eb3a6862c1a253cc95c5a]
+
+(1) The conditions in paragraph (2) and (2A)[^key-cf01746f13ef986ed42336a127618c72] are the kinds of condition that may be included in an offender’s licence in accordance with section 250(4)(b)(ii) of the Act.
+
+(2) A condition concerning–
+
+- (a) residence at a specified place;
+- (b) restriction of residency;
+- (c) making or maintaining contact with a person;
+- (d) participation in, or co-operation with, a programme or set of activities;
+- (e) possession, ownership, control or inspection of specified items or documents;
+- (f) disclosure of information;
+- (g) a curfew arrangement;
+- (h) freedom of movement;
+- (i) supervision in the community by the supervising officer, or other responsible officer, or organisation;
+- (j)[^key-f1c1bfcb4e49d754b80fd92825661e8b] restriction of specified conduct or specified acts.
+
+(2A)[^key-dc3d93e1b6c3aea8f7910281ea7e1528] A search condition, meaning a condition requiring a terrorist offender to submit to a search of their person under section 43C of the Terrorism Act 2000.
+
+(3) For the purpose of this article, “curfew arrangement” means an arrangement under which an offender is required to remain at a specified place for a specified period of time which is not an arrangement contained in a curfew condition imposed by virtue of section 250(5) of the Act.
+
+Andrew Selous
+
+Parliamentary Under Secretary of State
+
+Ministry of Justice
+
+15th February 2015
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order applies to offenders sentenced to a determinate sentence of imprisonment and released on licence from that sentence. It sets out the licence conditions and types of licence conditions which the offender must, or may, be subject to.
+
+Article 2 revokes the Criminal Justice (Sentencing) (Licence Conditions) Order 2005.
+
+Article 3 prescribes the standard licence conditions, which apply to all determinate sentence prisoners following their release on licence.
+
+Articles 4 to 6 prescribe conditions that will be imposed, in addition to the conditions set out in Article 3, on the licence of an offender who is subject to particular statutory licence conditions of electronic monitoring, drug testing or polygraph testing. These conditions supplement the statutory conditions to ensure compliance and co-operation of the offender.
+
+Article 7 prescribes other types of conditions which may be included in an offender’s licence where the standard conditions are not sufficient to assist the offender’s successful integration into the community, prevent further re-offending and ensure the protection of the public. For example, a condition concerning the possession, ownership or control or inspection of specified items or documents, could be applied in respect of an offender who is considered at risk of leaving the jurisdiction to prevent that offender from holding a passport.
+
+## Annotations
+
+[^f00001]: Footnote: [2003 c. 44](https://www.legislation.gov.uk/ukpga/2003/44). Section 250(4) was amended by section 111(2) of, and paragraphs 5 and 9 of Schedule 14 to, section 117(1) and 5 of, and paragraph 2(2) of Schedule 15 to and section 125(4) of, and paragraphs 1, 6(1) and (2) of Schedule 20 to the Legal Aid, Sentencing and Punishment of Offenders Act [2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10).
+
+[^key-71e2979ad8188a3b88a4656cebe15031]: Commencement: Art. 1 in force at 23.3.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/337/article/1/1)
+
+[^key-2ef314ac70f75e10e0480628ad590668]: Textual amendment: Words in art. 1(2) inserted (1.10.2026) by [The Criminal Justice (Sentencing) (Licence Conditions) (Amendment and Revocation) Order 2026 (S.I. 2026/911)](https://www.legislation.gov.uk/uksi/2026/911), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2026/911/article/1/3), [2(2)](https://www.legislation.gov.uk/uksi/2026/911/article/2/2)
+
+[^key-32e3d9a55ff7b16ecef9270016f1d348]: Textual amendment: Words in art. 1(2) inserted (11.5.2022) by [The Criminal Justice (Sentencing) (Licence Conditions) (Amendment) Order 2022 (S.I. 2022/459)](https://www.legislation.gov.uk/uksi/2022/459), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/459/article/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2022/459/article/2/2)
+
+[^key-ff720e2fbbe280d43487457097d5cfda]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2015/337/article/2) in force at 23.3.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/337/article/1/1)
+
+[^f00002]: Footnote: [S.I. 2005/648](https://www.legislation.gov.uk/uksi/2005/648).
+
+[^key-f2b8763960f780c04f70a2b4b54e11a9]: Commencement: Art. 3 in force at 23.3.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/337/article/1/1)
+
+[^key-b40a511e4594d281ee4e7753cdc120e5]: Textual amendment: Art. 3(2) substituted (1.10.2026) by [The Criminal Justice (Sentencing) (Licence Conditions) (Amendment and Revocation) Order 2026 (S.I. 2026/911)](https://www.legislation.gov.uk/uksi/2026/911), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2026/911/article/1/3), [2(3)](https://www.legislation.gov.uk/uksi/2026/911/article/2/3)
+
+[^key-7b245a0927510739ab9d1c7566361357]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2015/337/article/4) in force at 23.3.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/337/article/1/1)
+
+[^f00003]: Footnote: [2000 c. 43](https://www.legislation.gov.uk/ukpga/2000/43). Section 62 was amended by section 304 of, and paragraphs 133 and 136 of Part 1 of Schedule 32 to, the Criminal Justice Act [2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), by section 378(1) and (2) of, and paragraph 184 of Schedule 16 and 17 to, the Armed Forces Act [2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), and by section 126 and 127 of, and paragraphs 16 and 17 of Part 1 of Schedule 21 and paragraphs 17 and 18 of Part 2 of Schedule 22 to, the Legal Aid, Sentencing and Punishment of Offenders Act [2012 (c.10)](https://www.legislation.gov.uk/ukpga/2012/10).
+
+[^f00004]: Footnote: Section 62A was inserted by section 7 of the Criminal Justice and Courts Act [2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2) which is as yet uncommenced.
+
+[^key-0d5aa7f993a59f16f5ac444b14fb3abd]: Textual amendment: Words in [art. 4(2)(d)](https://www.legislation.gov.uk/uksi/2015/337/article/4/2/d) inserted (13.11.2017) by [The Criminal Justice (Sentencing) (Licence Conditions) (Amendment) Order 2017 (S.I. 2017/985)](https://www.legislation.gov.uk/uksi/2017/985), [arts. 1](https://www.legislation.gov.uk/uksi/2017/985/article/1), [2(a)(i)](https://www.legislation.gov.uk/uksi/2017/985/article/2/a/i)
+
+[^key-0ea8dc7b06fa93e72eede9dfe9b8c59e]: Textual amendment: Words in [art. 4(2)(e)](https://www.legislation.gov.uk/uksi/2015/337/article/4/2/e) inserted (13.11.2017) by [The Criminal Justice (Sentencing) (Licence Conditions) (Amendment) Order 2017 (S.I. 2017/985)](https://www.legislation.gov.uk/uksi/2017/985), [arts. 1](https://www.legislation.gov.uk/uksi/2017/985/article/1), [2(a)(ii)](https://www.legislation.gov.uk/uksi/2017/985/article/2/a/ii)
+
+[^key-1886fe7f2a9e692860b8be0d11268c96]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2015/337/article/5) in force at 23.3.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/337/article/1/1)
+
+[^f00005]: Footnote: [2000 c. 43](https://www.legislation.gov.uk/ukpga/2000/43). Section 64 was amended by [S.I. 2008/912](https://www.legislation.gov.uk/uksi/2008/912), by section 378 of, and paragraph 185 of Schedule 16 and Schedule 17 to, the Armed Forces Act [2006 (c.52)](https://www.legislation.gov.uk/ukpga/2006/52), by section 126 and 127 of, and paragraphs 16 and 18 of Part 1 of Schedule 21 and paragraphs 17 and 19 of Part 2 of Schedule 22 to, the Legal Aid, Sentencing and Punishment of Offenders Act 2012, and by section 11(1) and (2) and 7(1) of, and paragraphs 13 of Schedule 3 to, the Offender Rehabilitation Act [2014 (c. 11)](https://www.legislation.gov.uk/ukpga/2014/11). There are further amendments as yet uncommenced.
+
+[^key-f9d65a092b764d5fa0a6b015da09880f]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2015/337/article/6) in force at 23.3.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/337/article/1/1)
+
+[^f00006]: Footnote: [2007 c. 21](https://www.legislation.gov.uk/ukpga/2007/21). Section 28 was amended by section 126 of, and paragraphs 32 of Part 1 of Schedule 21 to, the Legal Aid, Sentencing and Punishment of Offenders Act 2012.
+
+[^key-756d8a05892eb3a6862c1a253cc95c5a]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2015/337/article/7) in force at 23.3.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/337/article/1/1)
+
+[^key-cf01746f13ef986ed42336a127618c72]: Textual amendment: Words in [art. 7(1)](https://www.legislation.gov.uk/uksi/2015/337/article/7/1) inserted (11.5.2022) by [The Criminal Justice (Sentencing) (Licence Conditions) (Amendment) Order 2022 (S.I. 2022/459)](https://www.legislation.gov.uk/uksi/2022/459), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/459/article/1/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2022/459/article/2/3/a)
+
+[^key-f1c1bfcb4e49d754b80fd92825661e8b]: Textual amendment: [Art. 7(2)(j)](https://www.legislation.gov.uk/uksi/2015/337/article/7/2/j) inserted (13.11.2017) by [The Criminal Justice (Sentencing) (Licence Conditions) (Amendment) Order 2017 (S.I. 2017/985)](https://www.legislation.gov.uk/uksi/2017/985), [arts. 1](https://www.legislation.gov.uk/uksi/2017/985/article/1), [2(b)](https://www.legislation.gov.uk/uksi/2017/985/article/2/b)
+
+[^key-dc3d93e1b6c3aea8f7910281ea7e1528]: Textual amendment: [Art. 7(2A)](https://www.legislation.gov.uk/uksi/2015/337/article/7/2A) inserted (11.5.2022) by [The Criminal Justice (Sentencing) (Licence Conditions) (Amendment) Order 2022 (S.I. 2022/459)](https://www.legislation.gov.uk/uksi/2022/459), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/459/article/1/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2022/459/article/2/3/b)

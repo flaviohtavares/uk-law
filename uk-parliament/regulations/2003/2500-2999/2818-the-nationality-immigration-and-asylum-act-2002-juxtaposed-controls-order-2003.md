@@ -1,0 +1,610 @@
+---
+title: The Nationality, Immigration and Asylum Act 2002 (Juxtaposed Controls) Order 2003
+id: uksi/2003/2818
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2003-11-04'
+text_date: '2025-03-27'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2003/2818
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2003/2818/pdfs/uksi_20032818_en.pdf
+- http://www.legislation.gov.uk/uksi/2003/2818/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Nationality, Immigration and Asylum Act 2002 (Juxtaposed Controls) Order 2003
+
+> Text as at 2025-03-27.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2003 No. 2818
+
+IMMIGRATION
+
+The Nationality, Immigration and Asylum Act 2002 (Juxtaposed Controls) Order 2003
+
+Made
+
+4th November 2003
+
+Coming into force in accordance with article 1(2)
+
+Whereas the Secretary of State has consulted with such persons as appear to him to be appropriate;
+
+And whereas a draft of this Order has been approved by a resolution of each House of Parliament;
+
+Now, therefore, in exercise of the powers conferred on him by section 141 of the Nationality, Immigration and Asylum Act 2002[^f00001], the Secretary of State hereby makes the following Order:
+
+## PART 1 — INTRODUCTION
+
+### 1. Citation and commencement[^key-a8357320e4b21240fa49112255d7b9b8]
+
+(1) This Order may be cited as the Nationality, Immigration and Asylum Act 2002 (Juxtaposed Controls) Order 2003.
+
+(2) Save for article 10 of this Order which shall come into force on the day after the day on which the Order is made, this Order shall come into force on the date on which the Treaty between the Government of the United Kingdom of Great Britain and Northern Ireland and the Government of the French Republic concerning the Implementation of Frontier Controls at the Sea Ports of Both Countries on the Channel and North Sea[^f00002] enters into force.
+
+### 2. Interpretation[^key-92cf6e309703418c8ef7c94386fa49c8]
+
+In this Order, and in any enactment applied with modifications by Schedule 2 to this Order—
+
+- “Control Zone” means the part of the territory of the State of Departure within a port designated in Schedule 1 to this Order within which the officers of the State of Arrival are authorised to carry out immigration control under the Treaty;
+- “immigration control” means arrangements made in connection with the movement of persons into or out of the United Kingdom or another State and includes the investigation of offences relating to immigration;
+- “[^key-860d1533722f85b7270a34e628d10d53]**immigration control enactment**” means an Act of Parliament, or an instrument made under such an Act, which contains provision relating to immigration controls;
+- “immigration officer” means an officer appointed by the Secretary of State under paragraph 1 of Schedule 2 to the 1971 Act;
+- “officer belonging to the French Republic” means an officer given responsibility by the Government of the French Republic for the exercise of immigration control in accordance with the Treaty;
+- “State of Departure” means the State upon whose territory the immigration control of the other State is carried out, and “State of Arrival” means the other State;
+- “the 1971 Act” means the Immigration Act 1971[^f00003];
+- “the 1984 Act” means the Police and Criminal Evidence Act 1984[^f00004]; and
+- “Treaty” means the Treaty mentioned in article 1 (2).
+
+## PART 2 — PROVISIONS RELATING TO THE EXERCISE OF POWERS BY FRENCH OFFICERS IN A CONTROL ZONE IN THE UNITED KINGDOM
+
+### 3. Exercise of functions by French officers[^key-0deb03d007558da5c4c65ae6aa822cec]
+
+(1) An officer belonging to the French Republic shall be permitted to carry out his functions in a Control Zone in the United Kingdom in application of his powers relating to immigration control.
+
+(2) The offence in section 26 (1)(g) of the 1971 Act of obstructing, without reasonable excuse, an immigration officer or other person lawfully acting in the execution of the 1971 Act shall apply to an officer belonging to the French Republic carrying out his functions in accordance with paragraph (1) as it applies to such an immigration officer or other person.
+
+(3)[^key-52754855c1a18bf6c0d3f550a7207eee] Any act or omission which—
+
+- (a) takes place inside the United Kingdom in a Control Zone,
+- (b) is committed or omitted in relation to an officer belonging to the French Republic carrying out his functions in accordance with paragraph (1), and
+- (c) would constitute an offence under an immigration control enactment if committed or omitted in relation to an immigration officer,
+
+shall be treated for the purposes of that enactment as if it were an act or omission in relation to an immigration officer.
+
+(4) Section 22 of the UK Borders Act 2007 (assaulting an immigration officer) is modified for the purposes of paragraph (3) so that the reference in subsection (1) of that section to an immigration officer includes a reference to an officer belonging to the French Republic carrying out his functions in accordance with paragraph (1).
+
+### 4. Powers of arrest and detention by French officers[^key-db775965be918d6f15ba43dcf6215e2b]
+
+(1) An officer belonging to the French Republic may arrest and hold for questioning in a Control Zone in the United Kingdom a person who is being examined for the purposes of immigration control.
+
+(2) The arrested person may be detained for a period of not more than 24 hours and, if there are exceptional circumstances and an immigration officer or a constable is notified of the extension, for a further such period.
+
+### 5. Detention of arrested persons by a constable[^key-3358b9bbb5e7bb4ed05d3338a22230cd]
+
+(1) Where—
+
+- (a) an officer belonging to the French Republic has in a Control Zone in the United Kingdom arrested or detained a person in accordance with article 4 (1), and
+- (b) such an officer so requests,
+
+a constable may make arrangements for the person to be taken into temporary custody.
+
+(2) A person taken into temporary custody under paragraph (1)—
+
+- (a) shall be treated for all purposes as being in lawful custody, and
+- (b) may be taken to a police station or such other place as may be appropriate in the circumstances, and shall in that case be treated as being a person in whose case sections 36(7) and (8), 54, 55, 56 and 58 of the 1984 Act[^f00005] and, in the case of a child or young person, section 34(2) to (7), (8) and (9) of the Children and Young Persons Act 1933[^f00006] apply, and
+- (c) must be returned to an officer belonging to the French Republic before the end of the period referred to in article 4(2), to a place where detention can be resumed under that article.
+
+(3) Where a person falls to be treated as mentioned in paragraph (2)(b), section 56 of the 1984 Act shall be taken to apply as if he were detained for an indictable offence *(Extent: E+W)*[^key-494c80cda5fe0116ddfbfe85f2b559f7].
+
+### 6. Immunity from prosecution[^key-89fcc4c1467714d328ed55d0027f0cc7]
+
+An officer belonging to the French Republic shall not be prosecuted for any offence committed in the exercise of his functions in a Control Zone in the United Kingdom.
+
+### 7. Arrest of French officer[^key-d76a9e46828b494b8c11ebaf97179fee]
+
+(1) Where an officer belonging to the French Republic is arrested for an act performed in a Control Zone in the United Kingdom, the officer shall be taken to a police station designated under section 35 of the 1984 Act[^f00007].
+
+(2) The custody officer at the police station to which the officer is taken shall, after consultation with the competent French authorities, determine whether the act was performed by the officer whilst in the exercise of his functions, and may for the purpose of determining that question detain the officer at the police station for not longer than the permitted period.
+
+(3) The permitted period is the period of 48 hours beginning at the time at which the officer arrives at the police station.
+
+(4) Subject to paragraph (6), the officer shall be treated—
+
+- (a) as not being detained at the police station for the purposes of section 37 of the 1984 Act[^f00008], and
+- (b) as not being in police detention for the purposes of sections 40 to 43 of the 1984 Act[^f00009].
+
+(5) Where the custody officer determines that the act was performed by the officer whilst in the exercise of his functions, he shall immediately inform the competent French authorities and shall make arrangements within the permitted period for the transfer of the officer to France.
+
+(6) In any other case—
+
+- (a) the custody officer shall immediately inform the officer of his determination,
+- (b) the officer shall be treated as being in police detention for all purposes of Part IV of the 1984 Act, and
+- (c) that Part shall have effect in relation to him as if the relevant time mentioned in section 41(2) were the time at which he is informed of the determination.
+
+### 8. Disapplication of law of England and Wales[^key-da2fc1fbee5a4330d3c04bdfe11db72c]
+
+(1) The law of England and Wales shall not have effect in relation to any claim for compensation which may be alleged against, or by, an officer belonging to the French Republic for loss or injury in the exercise of his functions in a Control Zone in the United Kingdom and any such claim shall be subject to the law of the French Republic as if the circumstances giving rise to the claim had occurred in France.
+
+(2) The UK GDPR and the Data Protection Act 2018[^key-33122588e6110f07150f445bf22c8c66] shall not have effect in relation to data which is[^key-305f4bfc3201f3a1e4e1b83825799972] processed within a Control Zone in the United Kingdom in connection with the carrying out of immigration control by an officer belonging to the French Republic.
+
+(2A)[^key-8e5b22947454bf0b83b9e5abc422dba7] In paragraph (2), “**the UK GDPR**” has the meaning given in section 3(10) of the Data Protection Act 2018.
+
+(3) No charge shall be payable under section 40(2) of the Immigration and Asylum Act 1999[^f00011] (charge in respect of passenger without proper documents) by the owner of a ship in respect of any individual who is shown by the owner to have embarked on the ship for the voyage to the United Kingdom after having passed through a Control Zone in France.
+
+### 9. Carrying of firearms by French officers[^key-7767f271d38f8e24c1c9a477b58b6565]
+
+Section 54(3) of the Firearms Act 1968[^f00012] (application to Crown servants) shall have effect in relation to an officer belonging to the French Republic exercising his functions within a Control Zone in the United Kingdom as if the reference to a member of a police force included a reference to such an officer.
+
+### 10. Provision of facilities for French officers[^key-92f76e3a39ad15a6f115e626a65b8bf8]
+
+The Secretary of State may by written notice require any person concerned with the management of a port in the United Kingdom which is designated in Schedule 1 to this Order to provide free of charge such accommodation, installations and equipment as may be necessary to enable officers belonging to the French Republic to perform their functions in a Control Zone in the United Kingdom.
+
+### 10A. Circulation Areas[^key-45f9d8c65ae2eda7dab4bfecb13dcdc9]
+
+(1) In this article “**Circulation Area**” means the part of a port in the United Kingdom designated in Schedule 1 to this Order within which the officers belonging to the French Republic are authorised to travel between Control Zones.
+
+(2) An officer belonging to the French Republic may escort a person detained under article 4 within a Circulation Area in order to access a Control Zone.
+
+(3) Articles 6 and 8(1) and (2) of this Order apply to an officer belonging to the French Republic while escorting a person under paragraph (2) as if for “Control Zone”, each time it occurs, there were substituted “Circulation Area”.
+
+(4) Articles 3(2) to (4), 7 and 9 of this Order apply to an officer belonging to the French Republic within a Circulation Area, as if—
+
+- (a) for “Control Zone”, each time it occurs, there were substituted “Circulation Area”;
+- (b) in article 3(2) to (4) (exercise of functions by French officers), for “carrying out his functions in accordance with paragraph (1)”, each time it occurs, there were substituted “escorting a person under article 10A(2)”;
+- (c) in article 7 (arrest of a French officer), for “in the exercise of his functions” in paragraph (2) there were substituted “escorting a person under article 10A(2)”.
+
+## PART 3 — PROVISIONS RELATING TO THE EXERCISE OF POWERS BY UNITED KINGDOM IMMIGRATION OFFICERS AND CONSTABLES IN A CONTROL ZONE IN FRANCE
+
+### 11. Enactments having effect in a Control Zone in France[^key-d0a033fa10c80aa26080cddb0108fb72]
+
+(1)[^key-4fa9c6b7d2c9490755bdc007fde83920] All immigration control enactments shall, for the purpose of enabling immigration officers to carry out immigration controls, have effect within a Control Zone in France, with the modifications set out in Schedule 2 to this Order.
+
+(2) Paragraphs 2 (powers and duties of detainee custody officers) and 3 (short-term holding facilities) of Schedule 11, and paragraph 2 of Schedule 13 (powers and duties of detainee custody officers), to the Immigration and Asylum Act 1999 shall have effect in relation to a detainee custody officer in a Control Zone in France as they have effect in relation to such an officer in the United Kingdom and, in the definition of “short-term holding facility” in section 147 of that Act, the reference to “a place” includes a place in a Control Zone in France.
+
+(3) The Equality Act 2010[^key-8746cff5ee2cc150f3bcf8d0b080d4d8] shall have effect in relation to immigration officers carrying out their functions in a Control Zone in France as they have effect in relation to such officers carrying out their functions in England and Wales and Scotland.
+
+(4) The UK GDPR and the Data Protection Act 2018 (“[^key-41459ee757b5808a3f3cbbe2043e2374]**the 2018 Act**”) shall have effect in relation to data which is[^key-d09320a3b091b2d9e70b2c4df538e68c] processed in a Control Zone in France in connection with the carrying out of immigration control by an immigration officer or a constable, or the exercise of a power of arrest by a constable under article 13 (3) of this Order, as if, for the purposes of Article 3 of the UK GDPR and section 207 of the 2018 Act[^key-a6d5b2e8a33798e619fdbacc523260b0], the data were processed by a controller[^key-79ad31621f554cf757dab10f114a1f96] established in the United Kingdom in the context of the activities of[^key-4cae58c792109b33725d389e7b045c7c] that establishment.
+
+(4A)[^key-1501c5f5861f9b0dfe652e9cb7e37a9f] In paragraph (4), “**the UK GDPR**” has the meaning given in section 3(10) of the Data Protection Act 2018.
+
+(5) The law of England and Wales shall have effect in relation to any claim for compensation which may be alleged against, or by, a constable or an immigration officer for loss or injury in the exercise of his functions in a Control Zone in France as if the circumstances giving rise to the claim had occurred in England.
+
+### 12. Application of criminal law to a Control Zone in France[^key-f92885dc316bf51c32b3e69ebd93eb01]
+
+(1)[^key-21a8f3fc6bade26fa2ea5a5cca6b7dae] An act or omission which constitutes an offence under an immigration control enactment shall also be an offence if it takes place in a Control Zone in France.
+
+(2) An act or omission which constitutes an offence under the law of England and Wales if committed by a constable or an immigration officer in the exercise of his functions shall also be an offence if it takes place in a Control Zone in France by such an officer in the exercise of his functions.
+
+(3)[^key-4b16c823d0f990a52f2c196c555a0918] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4)[^M_F_1d393f48-c7e8-407d-9f1e-6b7a863f5d54] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4A)[^M_F_025119bb-f33b-47d4-d9c8-5bdd5426f042] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5) A provision of the criminal law in force in England and Wales for the protection of constables or immigration officers, or their property (including property in their possession or control), shall apply also in a Control Zone in France.
+
+(6) Summary proceedings for an offence committed in a Control Zone in France by virtue of this article and which is an offence triable summarily or triable either way may be taken, and the offence may for all incidental purposes be treated as having been committed, in the county of Kent or in the area consisting of the inner London boroughs[^key-c4ecde54e6420f7bab399fbd61a65c09].
+
+(7)[^key-f945c8e85b1ce359013c1fdb4906cd93] Any jurisdiction conferred by virtue of this article on any court is without prejudice to any jurisdiction exercisable apart from this article by any French court.
+
+### 13. Powers of arrest and search outside United Kingdom[^key-aa4b1af711142cfbe8efdc6ab007785c]
+
+(1) An immigration officer may in a Control Zone in France exercise the powers of arrest conferred by the Immigration Acts[^key-d8d832eda22c32d1290e8b9676a6f64d] in respect of an offence under that Act or in respect of an offence under that Act as applied by this Order.
+
+(2) Where an immigration officer makes a request to a police officer of the rank of sergeant or above for assistance in arresting a person in a Control Zone in France in respect of an offence under the 1971 Act or in respect of an offence under that Act as applied by article 12(1) of this Order, a constable of the police force of which that officer is a member may in such a Control Zone exercise any power of arrest conferred by the 1971 Act or by the 1984 Act, and any such request shall be recorded in writing at the time it is made or as soon as practicable afterwards.
+
+(3) A constable may in a Control Zone in France exercise any power of arrest conferred by the 1984 Act in respect of an offence as applied by article 12(2) to (5) of this Order which is committed in a Control Zone in France.
+
+(4) Any power conferred by the 1971 Act or the 1984 Act to search an arrested person or a vehicle or to seize anything following an arrest authorised by this article may be exercised as if the person had been arrested in England.
+
+### 14. Arrested persons held in France[^key-07a2c9fedf1e1f237f4dd3c251110f02]
+
+(1) Where an arrest of any kind provided for by article 13 has been made in a Control Zone in France, the person arrested may be detained in France for a period of not more than 24 hours and, if there are exceptional circumstances and an officer belonging to the French Republic is notified of the extension, for a further such period.
+
+(2) Where a constable exercises a power of arrest pursuant to article 13(2) or (3), the person arrested shall be treated as if the place where he is held were, for the purposes of sections 36(7) and (8), 54, 55, 56, 58 and 61 to 63[^f00023] of the 1984 Act and, in the case of a child or young person, section 34(2) to (7), (8) and (9) of the Children and Young Persons Act 1933, a police station in England, not being a police station designated under section 35 of the 1984 Act.
+
+### 15. Arrested persons arriving in the United Kingdom[^key-faedb9434c7d49308d7ec7ffa3452c9b]
+
+(1) Where—
+
+- (a) an arrest has been made by a constable or an immigration officer in a Control Zone in France, and
+- (b) the person arrested enters the United Kingdom while under arrest,
+
+the person arrested shall be taken to a police station.
+
+(2) The person arrested shall be treated as being in police detention for all purposes of Part IV of the 1984 Act, and that Part shall have effect in relation to him as if the relevant time mentioned in section 41(2) were the time at which he arrives in the United Kingdom.
+
+### 16. Arrests of constables and immigration officers[^key-837050cfcf09158d39e2b921b6f58243]
+
+(1) This article applies where a constable or an immigration officer is arrested in respect of an act performed in a Control Zone in France.
+
+(2) If the competent French authorities determine that the act was performed by the officer whilst in the exercise of his functions he shall, on being handed over by those authorities to a constable, be treated as having been arrested by the constable.
+
+(3) The officer shall be taken to a police station designated under section 35 of the 1984 Act.
+
+(4) The officer shall be treated as being in police detention for all purposes of Part IV of the 1984 Act, and that Part shall have effect in relation to him as if the relevant time mentioned in section 41(2) were the time at which he arrives in the United Kingdom.
+
+Beverley Hughes
+
+One of Her Majesty’s Principal Secretaries of State
+
+Home Office
+
+4th November 2003
+
+## SCHEDULE 1 — DESIGNATION OF PORTS[^key-0227da5946bb020110849f03e95af3e0]
+
+Articles 2 and 10
+
+| United Kingdom | France |
+| --- | --- |
+| Dover | Calais |
+|  | Boulogne |
+|  | Dunkirk |
+
+## SCHEDULE 2 — MODIFICATION OF APPLIED ENACTMENTS
+
+Article 11(1)
+
+### 1. Immigration Act 1971[^key-175ed11ca64531feed19102ec95e39d6]
+
+(1) In section 4 of the 1971 Act (administration of control) in subsection (2)— for the words “the United Kingdom by ship or aircraft” substitute “, or seeking to arrive in, the United Kingdom by entering a Control Zone”.
+
+(2) In section 33 of the 1971 Act (interpretation) in subsection (1)—
+
+- (i) after the definition of “certificate of entitlement” insert—
+
+  > - “Control Zone” means a Control Zone in France in which immigration officers exercise immigration control pursuant to the Treaty between the Government of the United Kingdom of Great Britain and Northern Ireland and the Government of the French Republic concerning the Implementation of Frontier Controls at the Sea Ports of Both Countries on the Channel and North Sea;
+
+  ; and
+- (ii) in the definition of “illegal entrant” after the words “unlawfully entering or seeking” insert “(whether or not he has arrived in the United Kingdom)”.
+
+(3) In Schedule 2 to the 1971 Act (administrative provisions as to control on entry etc)—
+
+- (a) in paragraph 1(5) for the words after “vehicle” substitute “which is in a Control Zone.”;
+- (b) in paragraph 2(1) for the words from “in the United Kingdom” to “seeking to enter the United Kingdom)” substitute “, or who are seeking to arrive, in the United Kingdom by entering a Control Zone”;
+- (c) after paragraph 2(1) insert—
+
+  > (1A) The power conferred by sub-paragraph (1) is exercisable as respects persons seeking to arrive in the United Kingdom (who may first be questioned to ascertain whether they are seeking to do so), in a Control Zone, but where it has not been possible to examine such persons in a Control Zone then the power conferred by sub-paragraph (1) shall apply.
+
+  ;
+- (ca)[^key-4495847da62cbf997b712736865e4f45] after paragraph 2A(1) insert—
+
+  > (1a) This paragraph also applies to a person who seeks to arrive in the United Kingdom and is in a Control Zone.
+
+  ;
+- (d) after paragraph 8(1) insert—
+
+  > (1A) Where a person seeking to arrive in the United Kingdom is refused leave to enter and is then in a Control Zone, an immigration officer may request the competent French authorities to secure that the person is taken out of the Control Zone.
+
+  ;
+- (e) in paragraph 9(1) for the words after “an immigration officer” substitute
+
+  > - may—
+  >   - (a) if the illegal entrant has arrived in the United Kingdom, give such directions in respect of him as in a case within sub-paragraph (1) of paragraph 8 above are authorised by that sub-paragraph, or
+  >   - (b) if the illegal entrant is in a Control Zone, make such requests in respect of him as in a case within sub-paragraph (1A) of paragraph 8 above are authorised by that sub-paragraph.
+
+  ;
+- (f) in paragraph 16—
+  - (a) in sub-paragraph (2) for the words “his removal in pursuance of” substitute “the taking of any action in respect of him pursuant to any request made to the competent French authorities authorised under paragraph 8(1A)”,
+  - (b) after sub-paragraph (3) insert—
+
+    > (3A) A person may under the authority of an immigration officer be removed for detention under this paragraph from a vehicle in a Control Zone.
+
+    ; and
+- (g) for paragraph 26(2) and (3) there is substituted—
+
+  > (2) The Secretary of State may from time to time give written notice to the owners or agents of ships designating control areas for the embarkation of passengers in a Control Zone and specifying the conditions and restrictions (if any) to be observed in any control area; and where by notice given to any owners or agents a control area is for the time being designated for the embarkation of passengers in a Control Zone, the owners or agents shall take all reasonable steps to secure that, in the case of their ships, passengers do not embark in the Control Zone outside the control area and that any conditions or restrictions notified to them are observed.
+  >
+  > (3) The Secretary of State may also from time to time give to any persons concerned with the management of a port in a Control Zone written notice designating control areas in the Control Zone and specifying conditions or restrictions to be observed in any control area; and any such person shall take all reasonable steps to secure that any conditions or restrictions as notified to him are observed.
+
+  .
+
+### 1A. Immigration and Asylum Act 1999[^key-7fc945e3db47c0e1420b08062e35fbca]
+
+In the Immigration and Asylum Act 1999 in section 141 (fingerprinting)—
+
+- (a) in subsection (7)(a) for “on his arrival in the United Kingdom” substitute “in a Control Zone”
+- (b) in subsection (9)(b) for “his removal or deportation from the United Kingdom” substitute “his leaving a Control Zone”.
+
+### 2. The Terrorism Act 2000[^key-32ea10ebb9fb2bb85e1f76be9b55036f]
+
+(1) In Schedule 7 to the Terrorism Act 2000—
+
+- (a) in paragraph 1—
+  - (i) in sub-paragraph (1)(a), insert at the beginning “subject to sub-paragraph (1A),”,
+  - (ii) omit sub-paragraph (1)(c),
+  - (iii) after sub-paragraph (1) insert—
+
+    > (1A) A constable shall only exercise the powers in this Schedule in a Control Zone where an immigration officer has made a request to a police officer of the rank of sergeant or above in the same police force of which the constable is a member, for assistance in exercising the powers in question in a particular case, and any such request shall be recorded in writing at the time it is made or as soon as practicable afterwards.
+
+    ,
+  - (iv) for sub-paragraph (2) substitute—
+
+    > - In this Schedule “Control Zone” means a Control Zone in France in which immigration officers exercise immigration control pursuant to the Treaty between the Government of the United Kingdom of Great Britain and Northern Ireland and the Government of the French Republic concerning the Implementation of Frontier Controls at the Sea Ports of Both Countries on the Channel and North Sea.
+
+    , and
+  - (v) omit sub-paragraph (3);
+- (b) in paragraph 2—
+  - (i) for sub-paragraph (2) substitute “This paragraph applies to a person if he is in a Control Zone.”, and
+  - (ii) omit sub-paragraph (3);
+- (c) omit paragraphs 3 and 4;
+- (d) in paragraph 5 omit the words “or 3”;
+- (da)[^key-5ebc6ccbfb8ff4ea6f08004e66a6b74c] in paragraph 5A omit the words “or 3”;
+- (e) in paragraph 6, omit the words “or 3” and in sub-paragraph (2) the word “aircraft”;
+- (ea)[^key-ac4e574698553d93e600a002f518220c] in paragraph 6A omit the words “or 3” in each place where they occur;
+- (f) in paragraph 7, omit the words “or aircraft” in each place where they occur;
+- (g) in paragraph 8, in sub-paragraph (1) omit the words “or aircraft” in each place where they occur and omit sub-paragraphs (2), (6)(c) and the “and” preceding (6)(c)[^key-22bb076fedfc849e4dcbe48996986007];
+- (h) in paragraph 9—
+  - (i) for sub-paragraph (2) substitute “This paragraph applies to goods which have arrived in or are about to leave a Control Zone on a ship or in a vehicle.”, [^key-d2f41ca9b69927032e6f9b612158cb8c]...
+  - (ii)[^key-5b80d38b08d717b44017a81d8e5e0c7e] omit sub-paragraphs (2A), (2B), (2D) and (2E);
+  - (iii) in sub-paragraph (2C), omit paragraphs (b), (c) and (d);
+  - (iv) in sub-paragraph (3), omit paragraphs (a), (c) and (d);
+  - (v) in paragraph (4)(a), omit the words “or aircraft”;
+  - (vi) in sub-paragraph (4), omit paragraphs (c), (d) and (e); and
+- (i) omit paragraphs 12 to 17 and the Table of Designated Ports at the end of the Schedule”.
+
+(2) In Schedule 8 to the Terrorism Act 2000—
+
+- (a) in paragraph 1—
+  - (i) in sub-paragraph (1), omit the words “or section 41”, and
+  - (ii) omit sub-paragraphs (2), (4) and (6);
+- (b) in paragraph 2, omit sub-paragraph (2)(b) and (c); and
+- (c) omit paragraphs 3, 4 , 10 to 20J and 21 to 38[^key-e644b50fcada60e6c9cc42a6ad02ba81];
+- (d)[^key-2449a53c99fa56604a2057345e3067e2] in paragraph 6, for the words “or section 41 at a place in England, Wales or Northern Ireland” substitute “ in a Control Zone ”;
+- (e) in paragraph 7, for the words “or section 41 in England, Wales or Northern Ireland” substitute “ in a Control Zone ”;
+- (f) in paragraph 7A, omit the words “or 3” both times they occur;
+- (g) in paragraph 8—
+  - (i) in sub-paragraph (1), omit the words “Subject to sub-paragraph (2),”;
+  - (ii) omit sub-paragraph (2);
+- (h) in sub-paragraph (7) of paragraph 20K, omit paragraph (c) and the “and” preceding it.
+
+(3) In Schedule 14 to the Terrorism Act 2000—
+
+- (a) in paragraph 1, omit sub-paragraph (a);
+- (b) in paragraph 2, after the word “may” insert “in a Control Zone (as defined in Schedule 7)” and omit “(within the meaning of section 121)”; and
+- (c) in paragraph 3, omit the words “and 3”.
+
+### 3. The Code of Practice for examining officers under the Terrorism Act 2000[^key-24075e300e17817cb71666fd0b626bb3]
+
+In the Code of Practice entitled “Examining Officers and Review Officers under Schedule 7 to the Terrorism Act 2000” published on 13th August 2020—
+
+- (a) in paragraph 1, after “at a port or the border area in Northern Ireland” insert “ or in a Control Zone ”;
+- (b) after paragraph 8, insert—
+
+  > **8A.**
+  >
+  > For the purposes of this code, “**Control Zone**” means a Control Zone in France in which immigration officers exercise immigration control in pursuance of the Treaty between the Government of the United Kingdom of Great Britain and Northern Ireland and the Government of the French Republic concerning the Implementation of Frontier Controls at the Sea Ports of Both Countries on the Channel and North Sea.
+
+  ;
+- (c) in paragraph 9, after “at ports or in the border area” insert “ or in a Control Zone ”;
+- (d) in paragraph 27, after “at a port or in the border area in Northern Ireland” insert “ or in a Control Zone ”;
+- (e) in the heading immediately before paragraph 92, after the words “Northern Ireland” insert “ or in a Control Zone ”;
+- (f) in paragraph 136, at the end insert— “ In respect of goods which have arrived in or are about to leave a Control Zone on a ship or in a vehicle ”;
+- (g) in paragraph 137, after the words “at a port”, insert “ or in a Control Zone ”;
+
+### 4. The Immigration (Leave to Enter and Remain) Order 2000[^key-82f771c99081463795df382e66dd64bd]
+
+In the Immigration (Leave to Enter and Remain) Order 2000—
+
+- (a) in article 1(3), after the definition of “control port” insert—
+
+  > - “Control Zone” means a Control Zone in France in which immigration officers exercise immigration control in pursuance of the Treaty between the United Kingdom of Great Britain and Northern Ireland and the Government of the French Republic concerning the Implementation of Frontier Controls at the Sea Ports of Both Countries on the Channel and North Sea;
+
+  ;
+- (b) in article 4(2)—
+  - (i) after the words “arrives in the United Kingdom”, insert “or enters a Control Zone”,
+  - (ii) after the words “before arrival”, insert “or entry into the Control Zone”, and
+  - (iii) after the words “date of arrival”, insert “or entry into the Control Zone”;
+- (ba)[^key-d14f6e74aa88c5b42d4e81db871f901c] in article 4(2B)—
+  - (i) after the words “on arrival in the United Kingdom”, insert “ or entry into a Control Zone ”,
+  - (ii) after the words “before arrival”, insert “ or entry into a Control Zone ”,
+  - (iii) after the words “arrives in the United Kingdom”, insert “ or enters a Control Zone ”;
+- (bb) in article 4(2D)—
+  - (i) after the words “on arrival in the United Kingdom”, insert “ or entry into a Control Zone ”,
+  - (ii) after the words “before arrival”, insert “ or entry into a Control Zone ”,
+  - (iii) after the words “date of arrival”, insert “ or entry into the Control Zone ”;
+- (c) in article 4(3)—
+  - (i) after the words “on arrival in the United Kingdom”, insert “or entry into a Control Zone”, and
+  - (ii) after the words “before arrival”, insert “or entry into the Control Zone”;
+- (ca)[^key-2e184343ec7db4b19728b1e82ea8f578] in article 4(3B)—
+  - (i) after the words “on arrival in the United Kingdom”, insert “ or entry into a Control Zone ”,
+  - (ii) after the words “before arrival”, insert “ or entry into a Control Zone ”,
+  - (iii) after the words “arrives in the United Kingdom”, insert “ or enters a Control Zone ”;
+- (cb) in article 4(5)—
+  - (i) after the words “arrival in the United Kingdom”, insert “ or entry into a Control Zone ”;
+- (d) in article 6(2)(a) after the words “arrives in the United Kingdom”, insert “or enters a Control Zone”; and
+- (e)[^key-54445ee4e6544fac7d58217867033513] in article 13(5)—
+  - (i) after the words “arrival in the United Kingdom”, insert “ or entry into a Control Zone ”,
+  - (ii) after the words “before his arrival”, insert “ or entry into a Control Zone ”.
+
+### 4ZA. The Immigration (Provision of Physical Data) Regulations 2006[^key-b82d5802ef9b24e4e5a8d836b965962a]
+
+In regulation 6(1A) of the Immigration (Provision of Physical Data) Regulations 2006 (Process by which an individual’s fingerprints and photograph may be obtained and recorded), after the words “arrival in the United Kingdom” insert “or entry into the control zone in France, seeking to arrive in the United Kingdom by entering a Control Zone”.
+
+### 4A. The UK Borders Act 2007[^key-5511e80f22c85af8ce73c6dbb6664477]
+
+In section 2 of the UK Borders Act 2007 (detention)—
+
+- (a) in subsection (1)—
+  - (i) omit “in England, Wales or Northern Ireland”;
+  - (ii) in paragraph (a) omit “or Article 26(1)” to the end;
+  - (iii) after paragraph (aa), insert—
+
+    > - (ab) may be liable to arrest by a constable under section 24(1), (2) or (3) of the Police and Criminal Evidence Act 1984 if the act or omission had taken place in England, or
+
+    ;
+- (b) omit subsection (1A);
+- (c) in subsection (2)(a) after “constable” insert “or an officer belonging to the French Republic”;
+- (d) in subsection (2)(d) after “constable”, in each place where it appears, insert “or an officer belonging to the French Republic”;
+- (e) omit subsection (5).
+
+### 5. The Immigration (European Economic Area) Regulations 2006[^M_F_526ed207-6d3f-4614-b7dc-72d029794e23][^key-e249c0c9ec7a6ab26a59509db0337fc8]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(This note is not part of the Order)
+
+This Order gives effect to the Treaty between the United Kingdom and France providing for the exercise of immigration control by the authorities of each State in the sea ports of the other State. The ports in question to which the two States have agreed the Treaty should for the time being apply are designated in Schedule 1 to the Order. Within each port the two States have delimited an area comprising a Control Zone within which the immigration authorities of each State will be empowered to exercise immigration control in the territory of the other State. Criminal offences and powers of arrest relating to breaches of immigration control will be extended to the Control Zone and immigration officers may call upon the assistance of the police in exercising these powers. In addition, some offences which are committed by or against immigration officers or the police will apply in the Control Zone. The area comprising the Control Zone has been confirmed through the exchange of diplomatic notes between the two States and a copy can be obtained by writing to the address set out at the end of this Note.
+
+Part 1 of the Order provides for its commencement and defines some of the terms used in the Order. Article 1 provides that, save for article 10, the Order comes into force on the date when the Treaty enters into force. Article 10, which allows the Secretary of State to require a manager of a designated port in the United Kingdom to provide accommodation and other facilities for the use of French officers, comes into force on the day after the Order is made.
+
+Part 2 of the Order contains provisions relating to the exercise of immigration control by French officers in a Control Zone in the United Kingdom. Such officers are permitted to carry out their functions in such a Control Zone, including arresting and detaining those who are being examined for the purposes of immigration control. It is an offence to obstruct, without reasonable excuse, such an officer when carrying out his functions (articles 3 and 4). A French officer is not liable to prosecution in the United Kingdom for an offence committed in the exercise of his functions in a Control Zone (article 6) and a claim for compensation by, or against, such an officer is subject to French law (article 8). A French officer is permitted to carry a firearm while exercising his functions in a Control Zone (article 9).
+
+Part 3 of the Order contains provisions relating to the exercise of immigration control by immigration officers in a Control Zone in France. The Immigration Act 1971, and Schedules 7, 8 and 14 to the Terrorism Act 2000 which relate to port controls, are among the enactments extended by article 11 to such a Control Zone (with the modifications set out in Schedule 2). A number of criminal offences, principally under the Immigration Act 1971, are extended by article 12 to a Control Zone in France. That article also extends the criminal law to such a Control Zone in relation to things done by an immigration officer or a constable in the exercise of his functions and in relation to the protection of such officers and their property. An immigration officer may exercise his usual powers of arrest, search and seizure in a Control Zone in France and may request the assistance of a constable when so doing (article 13 (1) and (2)). A constable may also exercise a power of arrest under the Police and Criminal Evidence Act 1984 in respect of any offence extended by the Order to such a Control Zone (article 13 (3)).
+
+A compliance cost assessment of the effect that this instrument would have on the cost of business is available from: “UK Immigration Service—South East District, No 1 Control Building, Eastern Docks, Dover, Kent CT16 1JD”.
+
+## Annotations
+
+[^f00001]: Footnote: [2002 c. 41](https://www.legislation.gov.uk/ukpga/2002/41).
+
+[^key-a8357320e4b21240fa49112255d7b9b8]: Commencement: Art. 1 comes into force in accordance with [art. 1](https://www.legislation.gov.uk/uksi/2003/2818/article/1)
+
+[^f00002]: Footnote: Cm 5832. The entry into force of the Treaty will be notified in the London, Edinburgh and Belfast Gazettes.
+
+[^key-92cf6e309703418c8ef7c94386fa49c8]: Commencement: Art. 2 comes into force in accordance with [art. 1](https://www.legislation.gov.uk/uksi/2003/2818/article/1)
+
+[^key-860d1533722f85b7270a34e628d10d53]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2003/2818/article/2) inserted (31.3.2021) by [The Nationality, Immigration and Asylum Act 2002 (Juxtaposed Controls) (Amendment) Order 2021 (S.I. 2021/311)](https://www.legislation.gov.uk/uksi/2021/311), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/311/article/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2021/311/article/2/2)
+
+[^f00003]: Footnote: [1971 c. 77](https://www.legislation.gov.uk/ukpga/1971/77).
+
+[^f00004]: Footnote: [1984 c. 60](https://www.legislation.gov.uk/ukpga/1984/60).
+
+[^key-0deb03d007558da5c4c65ae6aa822cec]: Commencement: Art. 3 comes into force in accordance with [art. 1](https://www.legislation.gov.uk/uksi/2003/2818/article/1)
+
+[^key-52754855c1a18bf6c0d3f550a7207eee]: Textual amendment: Art. 3(3)(4) inserted (31.3.2021) by [The Nationality, Immigration and Asylum Act 2002 (Juxtaposed Controls) (Amendment) Order 2021 (S.I. 2021/311)](https://www.legislation.gov.uk/uksi/2021/311), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/311/article/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2021/311/article/2/3)
+
+[^key-db775965be918d6f15ba43dcf6215e2b]: Commencement: Art. 4 comes into force in accordance with [art. 1](https://www.legislation.gov.uk/uksi/2003/2818/article/1)
+
+[^key-3358b9bbb5e7bb4ed05d3338a22230cd]: Commencement: Art. 5 comes into force in accordance with [art. 1](https://www.legislation.gov.uk/uksi/2003/2818/article/1)
+
+[^f00005]: Footnote: Section 54 of the 1984 Act was amended by section 147 of the Criminal Justice Act [1988 (c. 33)](https://www.legislation.gov.uk/ukpga/1988/33) and there are amendments to sections 55, 56 and 58 of the 1984 Act which are not relevant to this Order.
+
+[^f00006]: Footnote: 23 Geo 5 c. 12. Section 34(2) to (7) and (8) and (9) of the 1933 Act were substituted by section 57 of the 1984 Act.
+
+[^key-494c80cda5fe0116ddfbfe85f2b559f7]: Textual amendment: Words in art. 5(3) substituted (1.1.2006) by [The Serious Organised Crime and Police Act 2005 (Powers of Arrest) (Consequential Amendments) Order 2005 (S.I. 2005/3389)](https://www.legislation.gov.uk/uksi/2005/3389), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2005/3389/article/1/1), [20](https://www.legislation.gov.uk/uksi/2005/3389/article/20)
+
+[^key-89fcc4c1467714d328ed55d0027f0cc7]: Commencement: Art. 6 comes into force in accordance with [art. 1](https://www.legislation.gov.uk/uksi/2003/2818/article/1)
+
+[^key-d76a9e46828b494b8c11ebaf97179fee]: Commencement: Art. 7 comes into force in accordance with [art. 1](https://www.legislation.gov.uk/uksi/2003/2818/article/1)
+
+[^f00007]: Footnote: Section 35 was amended by section 101 of, and paragraph 12 of Schedule 7 to, the Anti-terrorism, Crime and Security Act [2001 (c. 24)](https://www.legislation.gov.uk/ukpga/2001/24).
+
+[^f00008]: Footnote: There are amendments to section 37 of the 1984 Act which are not relevant to this Order.
+
+[^f00009]: Footnote: Section 40 of the 1984 Act was amended by section 42 of the Police Reform Act [2002 (c. 30)](https://www.legislation.gov.uk/ukpga/2002/30) and section 40A of the 1984 Act was inserted by section 73 (1) of the Criminal Justice and Police Act [2001 (c. 16)](https://www.legislation.gov.uk/ukpga/2001/16). There are amendments to sections 41 to 43 of the 1984 Act which are not relevant to this Order.
+
+[^key-da2fc1fbee5a4330d3c04bdfe11db72c]: Commencement: Art. 8 comes into force in accordance with [art. 1](https://www.legislation.gov.uk/uksi/2003/2818/article/1)
+
+[^key-33122588e6110f07150f445bf22c8c66]: Textual amendment: Words in art. 8(2) substituted (31.12.2020) by [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 3 para. 46(2)](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/46/2) (with [Sch. 3 para. 112](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/112)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-305f4bfc3201f3a1e4e1b83825799972]: Textual amendment: Word in art. 8(2) substituted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 295(b)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/295/b) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
+
+[^key-8e5b22947454bf0b83b9e5abc422dba7]: Textual amendment: Art. 8(2A) inserted (31.12.2020) by [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 3 para. 46(3)](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/46/3) (with [Sch. 3 para. 112](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/112)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^f00011]: Footnote: [1999 c. 33](https://www.legislation.gov.uk/ukpga/1999/33). Section 40 was substituted by paragraph 13 of Schedule 8 to the Nationality, Immigration and Asylum Act [2002 (c. 41)](https://www.legislation.gov.uk/ukpga/2002/41).
+
+[^key-7767f271d38f8e24c1c9a477b58b6565]: Commencement: Art. 9 comes into force in accordance with [art. 1](https://www.legislation.gov.uk/uksi/2003/2818/article/1)
+
+[^f00012]: Footnote: [1968 c. 27](https://www.legislation.gov.uk/ukpga/1968/27). Section 54 (3) was substituted by section 42 of the Police and Magistrates' Court Act [1994 (c. 29)](https://www.legislation.gov.uk/ukpga/1994/29).
+
+[^key-92f76e3a39ad15a6f115e626a65b8bf8]: Commencement: Art. 10 comes into force in accordance with [art. 1](https://www.legislation.gov.uk/uksi/2003/2818/article/1)
+
+[^key-45f9d8c65ae2eda7dab4bfecb13dcdc9]: Textual amendment: [Art. 10A](https://www.legislation.gov.uk/uksi/2003/2818/article/10A) inserted (21.11.2024) by [The Nationality, Immigration and Asylum Act 2002 (Juxtaposed Controls) (Amendment) Order 2024 (S.I. 2024/1085)](https://www.legislation.gov.uk/uksi/2024/1085), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/1085/article/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2024/1085/article/2/2)
+
+[^key-d0a033fa10c80aa26080cddb0108fb72]: Commencement: Art. 11 comes into force in accordance with [art. 1](https://www.legislation.gov.uk/uksi/2003/2818/article/1)
+
+[^key-4fa9c6b7d2c9490755bdc007fde83920]: Textual amendment: [Art. 11(1)](https://www.legislation.gov.uk/uksi/2003/2818/article/11/1) substituted (31.3.2021) by [The Nationality, Immigration and Asylum Act 2002 (Juxtaposed Controls) (Amendment) Order 2021 (S.I. 2021/311)](https://www.legislation.gov.uk/uksi/2021/311), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/311/article/1/2), [2(4)(a)](https://www.legislation.gov.uk/uksi/2021/311/article/2/4/a)
+
+[^key-8746cff5ee2cc150f3bcf8d0b080d4d8]: Textual amendment: Words in [art. 11(3)](https://www.legislation.gov.uk/uksi/2003/2818/article/11/3) substituted (31.3.2021) by [The Nationality, Immigration and Asylum Act 2002 (Juxtaposed Controls) (Amendment) Order 2021 (S.I. 2021/311)](https://www.legislation.gov.uk/uksi/2021/311), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/311/article/1/2), [2(4)(b)](https://www.legislation.gov.uk/uksi/2021/311/article/2/4/b)
+
+[^key-41459ee757b5808a3f3cbbe2043e2374]: Textual amendment: Words in art. 11(4) substituted (31.12.2020) by [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 3 para. 47(2)(a)](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/47/2/a) (with [Sch. 3 para. 112](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/112)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-d09320a3b091b2d9e70b2c4df538e68c]: Textual amendment: Word in art. 11(4) substituted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 296(b)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/296/b) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
+
+[^key-a6d5b2e8a33798e619fdbacc523260b0]: Textual amendment: Words in art. 11(4) substituted (31.12.2020) by [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 3 para. 47(2)(b)](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/47/2/b) (with [Sch. 3 para. 112](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/112)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-79ad31621f554cf757dab10f114a1f96]: Textual amendment: Word in art. 11(4) substituted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 296(d)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/296/d) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
+
+[^key-4cae58c792109b33725d389e7b045c7c]: Textual amendment: Words in art. 11(4) inserted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 296(e)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/296/e) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
+
+[^key-1501c5f5861f9b0dfe652e9cb7e37a9f]: Textual amendment: Art. 11(4A) inserted (31.12.2020) by [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 3 para. 47(3)](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/47/3) (with [Sch. 3 para. 112](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/112)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-f92885dc316bf51c32b3e69ebd93eb01]: Commencement: Art. 12 comes into force in accordance with [art. 1](https://www.legislation.gov.uk/uksi/2003/2818/article/1)
+
+[^key-21a8f3fc6bade26fa2ea5a5cca6b7dae]: Textual amendment: Art. 12(1) substituted (31.3.2021) by [The Nationality, Immigration and Asylum Act 2002 (Juxtaposed Controls) (Amendment) Order 2021 (S.I. 2021/311)](https://www.legislation.gov.uk/uksi/2021/311), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/311/article/1/2), [2(5)(a)](https://www.legislation.gov.uk/uksi/2021/311/article/2/5/a)
+
+[^key-4b16c823d0f990a52f2c196c555a0918]: Textual amendment: Art. 12(3) omitted (31.3.2021) by virtue of [The Nationality, Immigration and Asylum Act 2002 (Juxtaposed Controls) (Amendment) Order 2021 (S.I. 2021/311)](https://www.legislation.gov.uk/uksi/2021/311), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/311/article/1/2), [2(5)(b)](https://www.legislation.gov.uk/uksi/2021/311/article/2/5/b)
+
+[^M_F_1d393f48-c7e8-407d-9f1e-6b7a863f5d54]: Textual amendment: Art. 12(4) omitted (31.3.2021) by virtue of [The Nationality, Immigration and Asylum Act 2002 (Juxtaposed Controls) (Amendment) Order 2021 (S.I. 2021/311)](https://www.legislation.gov.uk/uksi/2021/311), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/311/article/1/2), [2(5)(b)](https://www.legislation.gov.uk/uksi/2021/311/article/2/5/b)
+
+[^M_F_025119bb-f33b-47d4-d9c8-5bdd5426f042]: Textual amendment: Art. 12(4A) omitted (31.3.2021) by virtue of [The Nationality, Immigration and Asylum Act 2002 (Juxtaposed Controls) (Amendment) Order 2021 (S.I. 2021/311)](https://www.legislation.gov.uk/uksi/2021/311), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/311/article/1/2), [2(5)(b)](https://www.legislation.gov.uk/uksi/2021/311/article/2/5/b)
+
+[^key-c4ecde54e6420f7bab399fbd61a65c09]: Textual amendment: Words in art. 12(6) substituted (31.3.2021) by [The Nationality, Immigration and Asylum Act 2002 (Juxtaposed Controls) (Amendment) Order 2021 (S.I. 2021/311)](https://www.legislation.gov.uk/uksi/2021/311), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/311/article/1/2), [2(5)(c)](https://www.legislation.gov.uk/uksi/2021/311/article/2/5/c)
+
+[^key-f945c8e85b1ce359013c1fdb4906cd93]: Textual amendment: Art. 12(7) inserted (31.3.2021) by [The Nationality, Immigration and Asylum Act 2002 (Juxtaposed Controls) (Amendment) Order 2021 (S.I. 2021/311)](https://www.legislation.gov.uk/uksi/2021/311), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/311/article/1/2), [2(5)(d)](https://www.legislation.gov.uk/uksi/2021/311/article/2/5/d)
+
+[^key-aa4b1af711142cfbe8efdc6ab007785c]: Commencement: Art. 13 comes into force in accordance with [art. 1](https://www.legislation.gov.uk/uksi/2003/2818/article/1)
+
+[^key-d8d832eda22c32d1290e8b9676a6f64d]: Textual amendment: Words in art. 13(1) substituted for art. 13(1)(a)(b) (31.3.2021) by [The Nationality, Immigration and Asylum Act 2002 (Juxtaposed Controls) (Amendment) Order 2021 (S.I. 2021/311)](https://www.legislation.gov.uk/uksi/2021/311), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/311/article/1/2), [2(6)](https://www.legislation.gov.uk/uksi/2021/311/article/2/6)
+
+[^key-07a2c9fedf1e1f237f4dd3c251110f02]: Commencement: Art. 14 comes into force in accordance with [art. 1](https://www.legislation.gov.uk/uksi/2003/2818/article/1)
+
+[^f00023]: Footnote: Section 61 was amended by section 168 (2) of, and paragraph 56 of Schedule 10 to, the Criminal Justice and Public Order Act [1994 (c. 33)](https://www.legislation.gov.uk/ukpga/1994/33), by section 78 of the Criminal Justice and Police Act [2001 (c. 16)](https://www.legislation.gov.uk/ukpga/2001/16) and by section 107 (1) of, and paragraph 9 of Schedule 7 to, the Police Reform Act 2002; section 62 was amended by sections 54 and 168 of, and Schedule 10 to, the Criminal Justice and Public Order Act 1994 and by section 54 of the Police Reform Act 2002; section 63 was amended by sections 55 and 168 of, and Schedule 10 to, the Criminal Justice and Public Order Act 1994 and by section 107 of, and paragraph 9 of Schedule 7 to, the Police Reform Act 2002.
+
+[^key-faedb9434c7d49308d7ec7ffa3452c9b]: Commencement: Art. 15 comes into force in accordance with [art. 1](https://www.legislation.gov.uk/uksi/2003/2818/article/1)
+
+[^key-837050cfcf09158d39e2b921b6f58243]: Commencement: Art. 16 comes into force in accordance with [art. 1](https://www.legislation.gov.uk/uksi/2003/2818/article/1)
+
+[^key-0227da5946bb020110849f03e95af3e0]: Commencement: Sch. 1 comes into force in accordance with [art. 1](https://www.legislation.gov.uk/uksi/2003/2818/article/1)
+
+[^key-175ed11ca64531feed19102ec95e39d6]: Commencement: Sch. 2 para. 1 comes into force in accordance with [art. 1](https://www.legislation.gov.uk/uksi/2003/2818/article/1)
+
+[^key-4495847da62cbf997b712736865e4f45]: Textual amendment: Sch. 2 para. 1(3)(ca) inserted (31.3.2021) by [The Nationality, Immigration and Asylum Act 2002 (Juxtaposed Controls) (Amendment) Order 2021 (S.I. 2021/311)](https://www.legislation.gov.uk/uksi/2021/311), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/311/article/1/2), [2(7)(a)](https://www.legislation.gov.uk/uksi/2021/311/article/2/7/a)
+
+[^key-7fc945e3db47c0e1420b08062e35fbca]: Textual amendment: Sch. 2 para. 1A inserted (18.11.2006) by [The Nationality, Immigration and Asylum Act 2002 (Juxtaposed Controls) (Amendment) Order 2006 (S.I. 2006/2908)](https://www.legislation.gov.uk/uksi/2006/2908), [arts. 1](https://www.legislation.gov.uk/uksi/2006/2908/article/1), [2(c)](https://www.legislation.gov.uk/uksi/2006/2908/article/2/c)
+
+[^key-32ea10ebb9fb2bb85e1f76be9b55036f]: Commencement: Sch. 2 para. 2 comes into force in accordance with [art. 1](https://www.legislation.gov.uk/uksi/2003/2818/article/1)
+
+[^key-5ebc6ccbfb8ff4ea6f08004e66a6b74c]: Textual amendment: Sch. 2 para. 2(1)(da) inserted (31.3.2021) by [The Nationality, Immigration and Asylum Act 2002 (Juxtaposed Controls) (Amendment) Order 2021 (S.I. 2021/311)](https://www.legislation.gov.uk/uksi/2021/311), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/311/article/1/2), [2(7)(b)(i)(aa)](https://www.legislation.gov.uk/uksi/2021/311/article/2/7/b/i/aa)
+
+[^key-ac4e574698553d93e600a002f518220c]: Textual amendment: Sch. 2 para. 2(1)(ea) inserted (31.3.2021) by [The Nationality, Immigration and Asylum Act 2002 (Juxtaposed Controls) (Amendment) Order 2021 (S.I. 2021/311)](https://www.legislation.gov.uk/uksi/2021/311), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/311/article/1/2), [2(7)(b)(i)(bb)](https://www.legislation.gov.uk/uksi/2021/311/article/2/7/b/i/bb)
+
+[^key-22bb076fedfc849e4dcbe48996986007]: Textual amendment: Words in Sch. 2 para. 2(1)(g) substituted (31.3.2021) by [The Nationality, Immigration and Asylum Act 2002 (Juxtaposed Controls) (Amendment) Order 2021 (S.I. 2021/311)](https://www.legislation.gov.uk/uksi/2021/311), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/311/article/1/2), [2(7)(b)(i)(cc)](https://www.legislation.gov.uk/uksi/2021/311/article/2/7/b/i/cc)
+
+[^key-d2f41ca9b69927032e6f9b612158cb8c]: Textual amendment: Word in Sch. 2 para. 2(1)(h)(i) omitted (31.3.2021) by virtue of [The Nationality, Immigration and Asylum Act 2002 (Juxtaposed Controls) (Amendment) Order 2021 (S.I. 2021/311)](https://www.legislation.gov.uk/uksi/2021/311), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/311/article/1/2), [2(7)(b)(i)(dd)](https://www.legislation.gov.uk/uksi/2021/311/article/2/7/b/i/dd)
+
+[^key-5b80d38b08d717b44017a81d8e5e0c7e]: Textual amendment: Sch. 2 para. 2(1)(h)(ii)-(vi) substituted for Sch. 2 para. 2(1)(h)(ii) (31.3.2021) by [The Nationality, Immigration and Asylum Act 2002 (Juxtaposed Controls) (Amendment) Order 2021 (S.I. 2021/311)](https://www.legislation.gov.uk/uksi/2021/311), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/311/article/1/2), [2(7)(b)(i)(ee)](https://www.legislation.gov.uk/uksi/2021/311/article/2/7/b/i/ee)
+
+[^key-e644b50fcada60e6c9cc42a6ad02ba81]: Textual amendment: Words in Sch. 2 para. 2(2)(c) substituted (31.3.2021) by [The Nationality, Immigration and Asylum Act 2002 (Juxtaposed Controls) (Amendment) Order 2021 (S.I. 2021/311)](https://www.legislation.gov.uk/uksi/2021/311), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/311/article/1/2), [2(7)(b)(ii)](https://www.legislation.gov.uk/uksi/2021/311/article/2/7/b/ii)
+
+[^key-2449a53c99fa56604a2057345e3067e2]: Textual amendment: Sch. 2 para. 2(2)(d)-(h) inserted (31.3.2021) by [The Nationality, Immigration and Asylum Act 2002 (Juxtaposed Controls) (Amendment) Order 2021 (S.I. 2021/311)](https://www.legislation.gov.uk/uksi/2021/311), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/311/article/1/2), [2(7)(b)(iii)](https://www.legislation.gov.uk/uksi/2021/311/article/2/7/b/iii)
+
+[^key-24075e300e17817cb71666fd0b626bb3]: Textual amendment: [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2003/2818/schedule/2/paragraph/3) substituted (31.3.2021) by [The Nationality, Immigration and Asylum Act 2002 (Juxtaposed Controls) (Amendment) Order 2021 (S.I. 2021/311)](https://www.legislation.gov.uk/uksi/2021/311), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/311/article/1/2), [2(7)(c)](https://www.legislation.gov.uk/uksi/2021/311/article/2/7/c)
+
+[^key-82f771c99081463795df382e66dd64bd]: Commencement: Sch. 2 para. 4 comes into force in accordance with [art. 1](https://www.legislation.gov.uk/uksi/2003/2818/article/1)
+
+[^key-d14f6e74aa88c5b42d4e81db871f901c]: Textual amendment: Sch. 2 para. 4(ba)(bb) inserted (31.3.2021) by [The Nationality, Immigration and Asylum Act 2002 (Juxtaposed Controls) (Amendment) Order 2021 (S.I. 2021/311)](https://www.legislation.gov.uk/uksi/2021/311), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/311/article/1/2), [2(7)(d)(i)](https://www.legislation.gov.uk/uksi/2021/311/article/2/7/d/i)
+
+[^key-2e184343ec7db4b19728b1e82ea8f578]: Textual amendment: Sch. 2 para. 4(ca)(cb) inserted (31.3.2021) by [The Nationality, Immigration and Asylum Act 2002 (Juxtaposed Controls) (Amendment) Order 2021 (S.I. 2021/311)](https://www.legislation.gov.uk/uksi/2021/311), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/311/article/1/2), [2(7)(d)(ii)](https://www.legislation.gov.uk/uksi/2021/311/article/2/7/d/ii)
+
+[^key-54445ee4e6544fac7d58217867033513]: Textual amendment: Sch. 2 para. 4(e) inserted (31.3.2021) by [The Nationality, Immigration and Asylum Act 2002 (Juxtaposed Controls) (Amendment) Order 2021 (S.I. 2021/311)](https://www.legislation.gov.uk/uksi/2021/311), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/311/article/1/2), [2(7)(d)(iii)](https://www.legislation.gov.uk/uksi/2021/311/article/2/7/d/iii)
+
+[^key-b82d5802ef9b24e4e5a8d836b965962a]: Textual amendment: [Sch. 2 para. 4ZA](https://www.legislation.gov.uk/uksi/2003/2818/schedule/2/paragraph/4ZA) inserted (27.3.2025) by [The Immigration (Biometric Information etc.) (Amendment) Regulations 2025 (S.I. 2025/382)](https://www.legislation.gov.uk/uksi/2025/382), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/382/regulation/1/2), [25](https://www.legislation.gov.uk/uksi/2025/382/regulation/25)
+
+[^key-5511e80f22c85af8ce73c6dbb6664477]: Textual amendment: [Sch. 2 para. 4A](https://www.legislation.gov.uk/uksi/2003/2818/schedule/2/paragraph/4A) inserted (7.7.2021) by [The Nationality, Immigration and Asylum Act 2002 (Juxtaposed Controls) (Amendment) (No. 2) Order 2021 (S.I. 2021/784)](https://www.legislation.gov.uk/uksi/2021/784), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/784/article/1/2), [3](https://www.legislation.gov.uk/uksi/2021/784/article/3)
+
+[^M_F_526ed207-6d3f-4614-b7dc-72d029794e23]: Textual amendment: [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2003/2818/schedule/2/paragraph/5) omitted (31.12.2020) by virtue of The Immigration and Social Security Co-ordination (EU Withdrawal) [Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2), [29(3)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/29/3) (with [reg. 29(4)(5)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/29/4/5)); and Sch. 2 para. 5 (in so far it continues to have effect in relation to a person who has a right of admission to the United Kingdom under the Immigration (European Economic Area) Regulations 2016 as they continue to have effect by virtue of the Citizens' Rights (Application Deadline and Temporary Protection) (EU Exit) Regulations 2020) amended (31.3.2021) by [The Nationality, Immigration and Asylum Act 2002 (Juxtaposed Controls) (Amendment) Order 2021 (S.I. 2021/311)](https://www.legislation.gov.uk/uksi/2021/311), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/311/article/1/2), [2(7)(e)](https://www.legislation.gov.uk/uksi/2021/311/article/2/7/e)
+
+[^key-e249c0c9ec7a6ab26a59509db0337fc8]: Textual amendment: Word in [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2003/2818/schedule/2/paragraph/5/b) heading substituted (1.1.2014) by [The Immigration (European Economic Area) (Amendment) (No. 2) Regulations 2013 (S.I. 2013/3032)](https://www.legislation.gov.uk/uksi/2013/3032), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2013/3032/regulation/2/1), [Sch. 2 para. 2(a)](https://www.legislation.gov.uk/uksi/2013/3032/schedule/2/paragraph/2/a)

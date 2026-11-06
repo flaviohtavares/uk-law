@@ -1,0 +1,692 @@
+---
+title: The Cross-border Railway Services (Working Time) Regulations 2008
+id: uksi/2008/1660
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised-with-pending-changes
+made_date: '2008-06-25'
+text_date: '2020-12-31'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/uksi/2008/1660
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2008/1660/pdfs/uksiem_20081660_en.pdf
+- http://www.legislation.gov.uk/uksi/2008/1660/pdfs/uksi_20081660_en.pdf
+- http://www.legislation.gov.uk/uksi/2008/1660/data.pdf
+pending_changes: 2
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Cross-border Railway Services (Working Time) Regulations 2008
+
+> **Warning: changes not yet applied to this text (2).** Text as at 2020-12-31. See https://www.legislation.gov.uk/changes/affected/uksi/2008/1660
+>
+> Extent: England, Wales, Scotland.
+
+*Extent: E+W+S*
+
+2008 No. 1660
+
+Transport
+
+The Cross-border Railway Services (Working Time) Regulations 2008
+
+Made
+
+25th June 2008
+
+Laid before Parliament
+
+1st July 2008
+
+Coming into force
+
+27th July 2008
+
+The Secretary of State makes the following Regulations in exercise of the powers conferred by section 2(2) of the European Communities Act 1972 [^c19309651].
+
+The Secretary of State is a Minister designated [^c19309661] for the purposes of section 2(2) of that Act in relation to measures relating to the organisation of working time.
+
+## 1. Citation, commencement and extent
+
+(1) These Regulations may be cited as the Cross-border Railway Services (Working Time) Regulations 2008 and come into force on 27th July 2008.
+
+(2) These Regulations extend to Great Britain only.
+
+## 2. Interpretation
+
+In these Regulations—
+
+- “**collective agreement**” means a collective agreement within the meaning of section 178 of the Trade Union and Labour Relations (Consolidation) Act 1992 [^c19309671], the trade union parties to which are independent trade unions within the meaning of section 5 of that Act;
+- “**cross-border worker**” means any worker who is a member of a train crew and who is assigned to interoperable cross-border services for more than one hour on a daily shift basis;
+- “**driver**” means a cross-border worker in charge of operating a traction unit;
+- “**employer**”, in relation to a cross-border worker, means the person by whom the worker is (or where the employment has ceased, was) employed;
+- “**employment**”, in relation to a cross-border worker, means employment under the worker's contract, and “**employed**” is to be construed accordingly;
+- “**inspector**” means a person appointed under paragraph 1 of Schedule 2;
+- “interoperable cross-border services” are services for the carriage of passengers or goods by way of the tunnel system, as defined by section 1(7) of the Channel Tunnel Act 1987 (excluding shuttle services, as defined by section 1(9) of that Act);[^key-1c601478164effccdbeb4b7d84813546]
+- “leave year” for a cross-border worker is the year beginning on—
+  - (a) such date as is provided for in a relevant agreement, or
+  - (b) if there are no provisions of a relevant agreement which apply, on 1 January;
+- “**relevant agreement**”, in relation to a cross-border worker, means—
+  - (a) a workforce agreement which applies to the worker,
+  - (b) any provision of a collective agreement which forms part of a contract between the worker and the worker's employer, or
+  - (c) any other agreement in writing which is legally enforceable as between the worker and the employer;
+- “**relevant training**” means work experience provided pursuant to a training course or programme, training for employment, or both, other than work experience or training—
+  - (a) the immediate provider of which is an educational institution or a person whose main business is the provision of training, and
+  - (b) which is provided on a course run by that institution or person;
+- “**rest period**” means any period which is not working time;
+- “**week**” means a period of seven days which starts at such time as is determined for the purposes of these Regulations by a relevant agreement, or in default of such a determination at midnight at the beginning of Monday;
+- “**workforce agreement**” means an agreement between an employer and workers employed by the employer or their representatives in respect of which the conditions set out in Schedule 1 to these Regulations are satisfied; and
+- “**working time**”, in relation to a cross-border worker, means—
+  - (a) any period during which the worker is working, at the employer's disposal and carrying out the worker's activities or duties,
+  - (b) any period during which the worker is receiving relevant training, and
+  - (c) any additional period which is to be treated as working time for the purpose of these Regulations under a relevant agreement.
+
+## 3. Daily rest
+
+(1) A cross-border worker is entitled in each 24 hour period to a rest period that is a minimum number of consecutive hours (“a daily rest period”).
+
+(2) In the case of a daily rest period that can be taken at the cross-border worker's normal place of residence (“a daily rest period at home”) the minimum period is twelve hours, but this is subject to paragraphs (3) and (4).
+
+(3) Once a week a daily rest period at home may be reduced by the employer of a cross-border worker to a minimum period of nine hours, but this is subject to paragraph (7).
+
+(4) If a daily rest period at home is reduced by the employer below twelve hours, the minimum period for the next daily rest period at home is increased by the number of hours, including any part of an hour, by which the earlier period was less than twelve hours.
+
+(5) In the case of a daily rest period that cannot be taken at the cross-border worker's normal place of residence (“a daily rest period away from home”) the minimum period is eight hours.
+
+(6) When there is a daily rest period away from home the cross-border worker is entitled to work that is scheduled to enable the worker to take the next daily rest period as a daily rest period at home.
+
+(7) If a daily rest period at home is scheduled to be between two daily rest periods away from home, the daily rest period at home must not be reduced under paragraph (3) below ten hours.
+
+## 4. Break for sole driver
+
+(1) Where there is only one driver and the driver's scheduled daily working time is six or more hours the driver is entitled to a break, but this paragraph and paragraphs (2) to (4) are subject to paragraphs (5) to (7).
+
+(2) The minimum length of the scheduled break must be 30 minutes, but this is subject to paragraph (3).
+
+(3) In the case of a driver whose daily scheduled working time is more than eight hours the minimum length of the scheduled break must be 45 minutes.
+
+(4) At least 15 minutes of the break must be scheduled to be between the third and sixth hour of the working time.
+
+(5) If a train service is delayed the time and duration of a driver's entitlement to a break under this regulation may be adapted during the working day.
+
+(6) If possible under the timetable for the train service the total time of the adapted break entitlement must be at least equal to the minimum scheduled break entitlement under the relevant paragraph of this regulation.
+
+(7) The time and duration of the break entitlement must be sufficient to ensure the effective recuperation of the worker.
+
+## 5. Breaks for drivers
+
+(1) A driver who is not entitled to a break under regulation 4 but whose scheduled daily working time is more than six hours is entitled to a break, but this paragraph and paragraphs (2) and (3) are subject to paragraph (4).
+
+(2) The details of the break to which a driver is entitled under paragraph (1), including its duration and the terms on which it is granted, must be in accordance with any provisions for the purposes of this regulation which are contained in a collective agreement or a workforce agreement.
+
+(3) Subject to the provisions of any applicable collective agreement or workforce agreement, the break provided for in paragraph (1) is an uninterrupted period of not less than 20 minutes.
+
+(4) The employer of a driver may require the driver to work during a period that would, but for this paragraph, be a time when the driver is entitled to a break under this regulation; and when a driver is required to do so—
+
+- (a) the employer must wherever possible allow the driver to take an equivalent period of compensatory rest, and
+- (b) in exceptional cases in which it is not possible, for objective reasons, to grant such a period of rest, the employer must afford the driver such protection as may be appropriate to safeguard the driver's health and safety.
+
+## 6. Breaks for other workers
+
+(1) A cross-border worker who is not a driver and whose scheduled daily working time is more than six hours is entitled to a break.
+
+(2) The minimum length of the scheduled break must be 30 minutes.
+
+## 7. Weekly rest
+
+(1) A cross-border worker is entitled every week to an uninterrupted rest period of 24 hours (a “rest day”) in addition to the minimum daily rest entitlement under regulation 3 and any days taken as part of the worker's entitlement to annual leave.
+
+(2) A cross-border worker is entitled to 104 rest days each leave year, but this paragraph and paragraphs (3) and (5) are subject to paragraph (6).
+
+(3) A cross-border worker is entitled each leave year on at least 24 occasions to take a rest day that is immediately followed by another rest day (a “two-day rest period”), but this is subject to paragraph (4).
+
+(4) If there are more than two consecutive rest days, each rest day only counts towards one two-day rest period.
+
+(5) A cross-border worker is entitled each leave year on at least twelve occasions to take a two-day rest period over a week-end, so that the period includes a part or the whole of a Saturday and a part or the whole of a Sunday.
+
+(6) Paragraphs (2), (3) and (5) apply only to a person who is a cross-border worker throughout a complete leave year that begins after 26th July 2008, but this is subject to paragraphs (8) to (11).
+
+(7) If a leave year of a person who was a cross-border worker on 27th July 2008 begins before that date, but has not ended by that date, the entitlements under paragraphs (2), (3) and (5) apply proportionately to the relevant part year, but this is subject to paragraphs (10) and (11).
+
+(8) If a person's employment as a cross-border worker begins after 26th July 2008 and part way through a leave year, the entitlements under paragraphs (2), (3) and (5) apply proportionately to the relevant part year, but this is subject to paragraphs (10) and (11).
+
+(9) The “**relevant part year**” means—
+
+- (a) in paragraph (7), the period beginning on 27th July 2008 and ending when the leave year ends; and
+- (b) in paragraph (8), the period beginning on the date that the person's employment as a cross-border worker begins and ending when the leave year ends.
+
+(10) If applying paragraphs (2), (3) and (5) proportionately would, but for this paragraph, result in an entitlement to a number of rest days or a number of two-day rest periods that is not a whole number, the entitlement is to the number rounded to the nearest whole number, but if the number is exactly half-way between the two nearest whole numbers the number is rounded up.
+
+(11) Paragraphs (7) and (8) apply only if the person is a cross-border worker throughout the relevant part year.
+
+## 8. Driving time
+
+(1) Between two daily rest periods taken in accordance with regulation 3 a driver's scheduled driving time must not exceed—
+
+- (a) in the case of a shift that is scheduled to include at least three hours of night time, eight hours; and
+- (b) in any other case, nine hours.
+
+(2) In any period of two weeks a driver's scheduled driving time must not exceed 80 hours.
+
+(3) The employer of the driver must take all reasonable steps to ensure that this regulation is complied with.
+
+(4) In this regulation—
+
+- “**night time**” means a period which—
+  - (a) is not less than seven hours,
+  - (b) includes the period between midnight and 5 am, and
+  - (c) is determined for the purposes of this regulation by a relevant agreement, or, in default of such a determination, the period which is between 11 pm and 6 am; and
+- “**scheduled driving time**” means the time scheduled for the driver to be in charge of the traction unit, excluding the scheduled time to prepare or shut down the unit, but including any scheduled interruptions when the driver is to remain in charge.
+
+## 9. Records
+
+(1) The employer of a cross-border worker must—
+
+- (a) keep records which are adequate to show whether these Regulations are being complied with in respect of that worker, including information as to actual hours worked; and
+- (b) retain those records for at least one year after the end of the period covered by those records.
+
+(2) The employer of a cross-border worker must, upon request, provide to—
+
+- (a) a cross-border worker, or (as the case may be)
+- (b) the Office of Rail and Road[^key-b05e5e7dbf2d9dc8fa99f44a62d9d13f],
+
+a copy of the records retained in accordance with paragraph (1) in respect of that cross-border worker.
+
+## 10. Enforcement
+
+(1) It is the duty of the Office of Rail and Road[^key-de93925234cddfbb33a7009909c5150d] to make adequate arrangements for the enforcement of regulations 8(3) and 9.
+
+(2) The provisions of Schedule 2 apply in relation to the enforcement of regulations 8(3) and 9.
+
+## 11. Offences
+
+(1) An employer of a cross-border worker who fails to comply with regulation 8(3) or regulation 9 is guilty of an offence.
+
+(2) The provisions of paragraph (3) apply where an inspector is exercising or has exercised any power conferred by Schedule 2.
+
+(3) It is an offence for a person–
+
+- (a) to contravene any requirement imposed by the inspector under paragraph 2 of Schedule 2;
+- (b) to prevent or attempt to prevent any other person from appearing before the inspector or from answering any question to which the inspector may by virtue of paragraph 2(2)(e) of Schedule 2 require an answer;
+- (c) to contravene any requirement or prohibition imposed by an improvement notice or a prohibition notice (including any such notice as is modified on appeal);
+- (d) intentionally to obstruct the inspector in the exercise or performance of his powers or duties;
+- (e) to use or disclose any information in contravention of paragraph 8 of Schedule 2;
+- (f) to make a statement which the person knows to be false or recklessly to make a statement which is false, where the statement is made in purported compliance with a requirement to furnish any information imposed by or under these Regulations.
+
+(4) An employer guilty of an offence under paragraph (1) is liable—
+
+- (a) on summary conviction, to a fine not exceeding the statutory maximum;
+- (b) on conviction on indictment, to a fine.
+
+(5) A person guilty of an offence under paragraph (3) is liable to the penalty prescribed in relation to that provision by paragraphs (6), (7) or (8) as the case may be.
+
+(6) A person guilty of an offence under paragraph (3)(a), (b) or (d) is liable on summary conviction to a fine not exceeding level 5 on the standard scale.
+
+(7) A person guilty of an offence under paragraph (3)(c) is liable—
+
+- (a) on summary conviction, to imprisonment for a term not exceeding three months, or a fine not exceeding the statutory maximum;
+- (b) on conviction on indictment, to imprisonment for a term not exceeding two years, or a fine, or both.
+
+(8) A person guilty of an offence under paragraph (3)(e) or (f), is liable—
+
+- (a) on summary conviction, to a fine not exceeding the statutory maximum;
+- (b) on conviction on indictment—
+  - (i) if the offence is under paragraph (3)(e), to imprisonment for a term not exceeding two years or a fine or both;
+  - (ii) if the offence is under paragraph (3)(f), to a fine.
+
+(9) The provisions set out in regulations 12 to 16 apply in relation to the offences provided for in paragraphs (1) and (3).
+
+## 12. Offences due to fault of other person
+
+Where the commission by any person of an offence is due to the act or default of some other person, that other person is guilty of the offence, and a person may be charged with and convicted of the offence by virtue of this paragraph whether or not proceedings are taken against the first-mentioned person.
+
+## 13. Offences by bodies corporate
+
+(1) Where an offence committed by a body corporate is proved to have been committed with the consent or connivance of, or to have been attributable to any neglect on the part of, any director, manager, secretary or other similar officer of the body corporate or a person who was purporting to act in any such capacity, that person as well as the body corporate is guilty of that offence and liable to be proceeded against and punished accordingly.
+
+(2) Where the affairs of a body corporate are managed by its members, the preceding paragraph apply in relation to the acts and defaults of a member in connection with the member's functions of management as if the member were a director of the body corporate.
+
+## 14. Restriction on institution of proceedings in England and Wales
+
+Proceedings for an offence must not, in England and Wales, be instituted except by an inspector or by or with the consent of the Director of Public Prosecutions.
+
+## 15. Prosecutions by inspectors
+
+(1) An inspector, although not of counsel or a solicitor, may prosecute before a magistrate's court proceedings for an offence under these Regulations if authorised in that behalf by the Office of Rail and Road[^key-5fcec4f96415bc42e4e9583845bf239f].
+
+(2) This regulation does not apply to Scotland.
+
+## 16. Power of court to order cause of offence to be remedied
+
+(1) Where a person is convicted of an offence in respect of any matters which appear to the court to be matters which it is in the person's power to remedy, the court may, in addition to or instead of imposing any punishment, order the person, within such time as may be fixed by the order, to take such steps as may be specified in the order for remedying the matters.
+
+(2) The time fixed by an order under paragraph (1) may be extended or further extended by order of the court on an application made before the end of that time as originally fixed or as extended under this paragraph, as the case may be.
+
+(3) Where a person is ordered under paragraph (1) to remedy any matters, that person shall not be liable under these Regulations in respect of those matters in so far as they continue during the time fixed by the order or any further time allowed under paragraph (2).
+
+## 17. Remedies
+
+(1) A cross-border worker may present a complaint to an employment tribunal that his employer has refused to permit the worker to exercise any right the worker has under regulations 3 to 7.
+
+(2) An employment tribunal may not consider a complaint under this regulation unless it is presented—
+
+- (a) before the end of the period of three months beginning with the date on which it is alleged that the exercise of the right should have been permitted (or in the case of a rest period extending over more than one day, the date on which it should have been permitted to begin);
+- (b) within such further period as the tribunal considers reasonable in a case where it is satisfied that it was not reasonably practicable for the complaint to be presented before the end of that period of three months.
+
+(2A)[^key-6b5fd47a41c32ba8c01246b24399ee4a] Regulation 17A (extension of time limits to facilitate conciliation before institution of proceedings) applies for the purposes of paragraph (2).
+
+(3) Where the period within which a complaint must be presented in accordance with paragraph (2) is extended by regulation 15 of the Employment Act 2002 (Dispute Resolution) Regulations 2004 [^c19309701], the period within which the complaint must be presented is the extended period rather than the period in paragraph (2).
+
+(4) Where an employment tribunal finds a complaint under paragraph (1) well-founded, the tribunal—
+
+- (a) must make a declaration to that effect, and
+- (b) may make an award of compensation to be paid by the employer to the cross-border worker.
+
+(5) The amount of the compensation is to be such as the tribunal considers just and equitable in all the circumstances having regard to—
+
+- (a) the employer's default in refusing to permit the worker to exercise the worker's right, and
+- (b) any loss sustained by the worker which is attributable to the matters complained of.
+
+## 17A. Extension of time limit to facilitate conciliation before institution of proceedings[^key-003334a5bb30423f912bd821f49a5a86]
+
+(1) In this regulation—
+
+- (a) Day A is the day on which the worker concerned complies with the requirement in subsection (1) of section 18A of the Employment Tribunals Act 1996 (requirement to contact ACAS before instituting proceedings) in relation to the matter in respect of which the proceedings are brought, and
+- (b) Day B is the day on which the worker concerned receives or, if earlier, is treated as receiving (by virtue of regulations made under subsection (11) of that section) the certificate issued under subsection (4) of that section.
+
+(2) In working out when the time limit set by regulation 17(2)(a) expires the period beginning with the day after Day A and ending with Day B is not to be counted.
+
+(3) If the time limit set by regulation 17(2)(a) would (if not extended by this paragraph) expire during the period beginning with Day A and ending one month after Day B, the time limit expires instead at the end of that period.
+
+(4) The power conferred on the employment tribunal by regulation 17(2)(b) to extend the time limit set by paragraph (2)(a) of that regulation is exercisable in relation to that time limit as extended by this regulation.
+
+## 18. Restrictions on contracting out
+
+(1) Any provision in an agreement (whether a contract of employment or not) is void in so far as it purports—
+
+- (a) to exclude or limit the operation of any provision of these Regulations, save in so far as these Regulations provide for an agreement to have that effect, or
+- (b) to preclude a person from bringing proceedings under these Regulations before an employment tribunal.
+
+(2) Paragraph (1) does not apply to—
+
+- (a) any agreement to refrain from instituting or continuing proceedings where a conciliation officer has taken action under any of sections 18A to 18C[^key-43013186dc3e46a06d53e08394ac8bdd] of the Employment Tribunals Act 1996 [^c19309711] (conciliation); or
+- (b) any agreement to refrain from instituting or continuing proceedings under regulation 17, if the conditions regulating settlement[^key-e1a23769545b2824a9af0039cb908926] agreements under these Regulations are satisfied in relation to the agreement.
+
+(3) For the purposes of paragraph (2)(b) the conditions regulating settlement[^key-6c9f51522f2d4b6d5b7e8089bf4bd513] agreements under these Regulations are that—
+
+- (a) the agreement must be in writing,
+- (b) the agreement must relate to the particular complaint,
+- (c) the cross-border worker must have received advice from a relevant independent adviser as to the terms and effect of the proposed agreement and, in particular, its effect on the worker's ability to pursue the worker's rights before an employment tribunal,
+- (d) there must be in force, when the adviser gives the advice, a contract of insurance, or an indemnity provided for members of a profession or a professional body, covering the risk of a claim by the cross-border worker in respect of loss arising in consequence of the advice,
+- (e) the agreement must identify the adviser, and
+- (f) the agreement must state that the conditions regulating settlement agreements under these Regulations are satisfied.
+
+(4) A person is a relevant independent adviser for the purposes of paragraph (3)(c)—
+
+- (a) if the person is a qualified lawyer,
+- (b) if the person is an officer, official, employee or member of an independent trade union who has been certified in writing by the trade union as competent to give advice and as authorised to do so on behalf of the trade union, or
+- (c) if the person works at an advice centre (whether as an employee or as a volunteer) and has been certified in writing by the centre as competent to give advice and as authorised to do so on behalf of the centre.
+
+(5) But a person is not a relevant independent adviser for the purposes of paragraph (3)(c)—
+
+- (a) if the person is employed by or is acting in the matter for the employer or an associated employer,
+- (b) in the case of a person within paragraph (4)(b), if the trade union is the employer or an associated employer, or
+- (c) in the case of a person within paragraph (4)(c), if the cross-border worker makes a payment for the advice received from the adviser.
+
+(6) In paragraph (4)(a), “**qualified lawyer**” means—
+
+- (a) as respects England and Wales, a barrister (whether in practice as such or employed to give legal advice), a solicitor who holds a practising certificate, or a person other than a barrister or solicitor who is an authorised advocate or authorised litigator (within the meaning of the Courts and Legal Services Act 1990) [^c19309721]; and
+- (b) as respects Scotland, an advocate (whether in practice as such or employed to give legal advice), or a solicitor who holds a practicing certificate.
+
+(7) A person is to be treated as being a qualified lawyer within paragraph (6)(a) if the person is a Fellow of the Institute of Legal Executives employed by a solicitors' practice.
+
+(8) For the purposes of paragraph (5) any two employers are to be treated as associated if—
+
+- (a) one is a company of which the other (directly or indirectly) has control; or
+- (b) both are companies of which a third person (directly or indirectly) has control;
+
+and “**associated employer**” is to be construed accordingly.
+
+## 19. Amendments to legislation
+
+Schedule 3 has effect.
+
+Signed by authority of the Secretary of State
+
+Tom Harris
+
+Parliamentary Under Secretary of State
+
+Department for Transport
+
+## SCHEDULE 1 — Workforce Agreements
+
+Regulation 2
+
+**1.** An agreement is a workforce agreement for the purposes of these Regulations if the following conditions are satisfied–
+
+- (a) the agreement is in writing;
+- (b) it has effect for a specified period not exceeding five years;
+- (c) it applies either—
+  - (i) to all of the relevant members of the workforce, or
+  - (ii) to all of the relevant members of the workforce who belong to a particular group;
+- (d) the agreement is signed—
+  - (i) in the case of an agreement of the kind referred to in sub-paragraph (c)(i), by the representatives of the workforce, and in the case of an agreement of the kind referred to in sub-paragraph (c)(ii) by the representatives of the group to which the agreement applies (excluding, in either case, any representative not a relevant member of the workforce on the date on which the agreement was first made available for signature), or
+  - (ii) if the employer employed 20 or fewer workers on the date referred to in sub-paragraph (d)(i), either by the appropriate representatives in accordance with that sub-paragraph or by the majority of the workers employed by him;
+- (e) before the agreement was made available for signature, the employer provided all the workers to whom it was intended to apply on the date on which it came into effect with copies of the text of the agreement and such guidance as those workers might reasonably require in order to understand it fully.
+
+**2.** In this Schedule—
+
+- “a particular group” is a group of the relevant members of a workforce who undertake a particular function, work at a particular workplace or belong to a particular department or unit within their employer's business;
+- “relevant members of the workforce” are all of the workers employed by a particular employer, excluding any worker whose terms and conditions of employment are provided for, wholly or in part, in a collective agreement;
+- “representatives of the workforce” are workers duly elected to represent the relevant members of the workforce;
+- “representatives of the group” are workers duly elected to represent the members of a particular group, and representatives are “duly elected” if the election at which they were elected satisfied the requirements of paragraph 3 of this Schedule.
+
+**3.** The requirements concerning elections referred to in paragraph 2 are that—
+
+- (a) the number of representatives to be elected is determined by the employer;
+- (b) the candidates for election as representatives of the workforce are relevant members of the workforce, and the candidates for election as representatives of a group are members of the group;
+- (c) no worker who is eligible to be a candidate is unreasonably excluded from standing for election;
+- (d) all the relevant members of the workforce are entitled to vote for representatives of the workforce, and all the members of a particular group are entitled to vote for representatives of the group;
+- (e) the workers entitled to vote may vote for as many candidates as there are representatives to be elected;
+- (f) the election is conducted so as to secure that—
+  - (i) so far as is reasonably practicable, those voting do so in secret, and
+  - (ii) the votes given at the election are fairly and accurately counted.
+
+## SCHEDULE 2 — Enforcement
+
+Regulation 10
+
+### 1. Appointment of inspectors
+
+(1) The Office of Rail and Road[^key-2da13511cbc9297e1bac848e0bf8bf74] may appoint as inspectors (under whatever title it may from time to time determine) such persons having suitable qualifications as it thinks necessary for carrying into effect these Regulations within its field of responsibility, and may terminate any appointment made under this paragraph.
+
+(2) Every appointment of a person as an inspector under this paragraph must be made by an instrument in writing specifying which of the powers conferred on inspectors by these Regulations are to be exercisable by the person appointed; and an inspector in right of an appointment under this paragraph—
+
+- (a) is entitled to exercise only such of those powers as are so specified; and
+- (b) is entitled to exercise the powers so specified only within the field of responsibility of the Office of Rail and Road.
+
+(3) So much of an inspector's instrument of appointment as specifies the powers which the inspector is entitled to exercise may be varied by the Office of Rail and Road.
+
+(4) An inspector must, if so required when exercising or seeking to exercise any power conferred on the inspector by these Regulations, produce the inspector's instrument of appointment or a duly authenticated copy of it.
+
+### 2. Powers of inspectors
+
+(1) Subject to the provisions of paragraph 1 and this paragraph, an inspector may, for the purpose of carrying into effect these Regulations within the field of responsibility of the Office of Rail and Road, exercise the powers set out in sub-paragraph (2).
+
+(2) The powers of an inspector referred to in sub-paragraph (1) are the following, namely—
+
+- (a)[^key-77a03fa70fdc546bb556df942d8bee8d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^M_F_3dc9d702-edd7-4af5-9e6a-6508605dec90] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^M_F_216f8fb1-0ec9-4f62-be47-68628dd56bdd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d) to make such examination and investigation as may in any circumstances be necessary for the purpose mentioned in sub-paragraph (1);
+- (e) to require any person whom the inspector has reasonable cause to believe to be able to give any information relevant to any examination or investigation under Paragraph (d) to answer (in the absence of persons other than a person nominated by the inspector to be present and any persons whom the inspector may allow to be present) such questions as the inspector thinks fit to ask and to sign a declaration of the truth of the person's answers;
+- (f) to require the production of, inspect, and take copies of or of any entry in—
+  - (i) any records which by virtue of these Regulations are required to be kept, and
+  - (ii) any other books, records or documents which it is necessary for the inspector to see for the purposes of any examination or investigation under Paragraph (d);
+- (g) to require any person to afford the inspector such facilities and assistance with respect to any matters or things within that person's control or in relation to which that person has responsibilities as are necessary to enable the inspector to exercise any of the powers conferred on the inspector by this paragraph;
+- (h) any other power which is necessary for the purpose mentioned in sub-paragraph (1).
+
+(3) No answer given by a person in pursuance of a requirement imposed under sub-paragraph (2)(e) above is admissible in evidence against that person or the husband or wife of that person in any proceedings.
+
+(4) Nothing in this paragraph is to be taken to compel the production by any person of a document of which the person would on grounds of legal professional privilege be entitled to withhold production on an order for discovery in an action in the High Court or, as the case may be, on an order for the production of documents in an action in the Court of Session.
+
+### 3. Improvement notices
+
+If an inspector is of the opinion that a person—
+
+- (a) is contravening one or more of these Regulations;
+- (b) has contravened one or more of these Regulations in circumstances that make it likely that the contravention will continue or be repeated,
+
+the inspector may serve on the person a notice (in this Schedule referred to as “**an improvement notice**”) stating that the inspector is of that opinion, specifying the provision or provisions as to which the inspector is of that opinion, giving particulars of the reasons why the inspector is of that opinion, and requiring that person to remedy the contravention or, as the case may be, the matters occasioning it within such period (ending not earlier than the period within which an appeal against the notice can be brought under paragraph 6) as may be specified in the notice.
+
+### 4. Prohibition notices
+
+(1) This paragraph applies to any activities which are being or are likely to be carried on by or under the control of any person, being activities to or in relation to which any of these Regulations apply or will, if the activities are so carried on, apply.
+
+(2) If as regards any activities to which this paragraph applies an inspector is of the opinion that, as carried on or likely to be carried on by or under the control of the person in question, the activities involve or, as the case may be, will involve a risk of serious personal injury, the inspector may serve on that person a notice (in this Schedule referred to as “**a prohibition notice**”).
+
+(3) A prohibition notice must—
+
+- (a) state that the inspector is of that opinion;
+- (b) specify the matters which in the inspector's opinion give or, as the case may be, will give rise to that risk;
+- (c) where in the inspector's opinion any of those matters involves or, as the case may be, will involve a contravention of any of these Regulations, state that the inspector is of that opinion, specify the regulation or regulations as to which the inspector is of that opinion, and give particulars of the reasons why the inspector is of that opinion; and
+- (d) direct that the activities to which the notice relates must not be carried on by or under the control of the person on whom the notice is served unless the matters specified in the notice in pursuance of Paragraph (b) and any associated contraventions of provisions so specified in pursuance of Paragraph (c) have been remedied.
+
+(4) A direction contained in a prohibition notice in pursuance of sub-paragraph (3)(d) takes effect—
+
+- (a) at the end of the period specified in the notice; or
+- (b) if the notice so declares, immediately.
+
+### 5. Provisions supplementary to paragraphs 3 and 4
+
+(1) In this paragraph “**a notice**” means an improvement notice or a prohibition notice.
+
+(2) A notice may (but need not) include directions as to the measures to be taken to remedy any contravention or matter to which the notice relates; and any such directions—
+
+- (a) may be framed to any extent by reference to any approved code of practice; and
+- (b) may be framed so as to afford the person on whom the notice is served a choice between different ways of remedying the contravention or matter.
+
+(3) Where an improvement notice or a prohibition notice which is not to take immediate effect has been served—
+
+- (a) the notice may be withdrawn by an inspector at any time before the end of the period specified in the notice in pursuance of paragraph 3 or paragraph 4(4) as the case may be; and
+- (b) the period so specified may be extended or further extended by an inspector at any time when an appeal against the notice is not pending.
+
+### 6. Appeal against improvement or prohibition notice
+
+(1) In this paragraph “**a notice**” means an improvement or a prohibition notice.
+
+(2) A person on whom a notice is served may within 21 days from the date of its service appeal to an employment tribunal; and on such an appeal the tribunal may either cancel or affirm the notice and, if it affirms it, may do so either in its original form or with such modifications as the tribunal may in the circumstances think fit.
+
+(3) Where an appeal under this paragraph is brought against a notice within the period allowed under sub-paragraph (2), then—
+
+- (a) in the case of an improvement notice, the bringing of the appeal has the effect of suspending the operation of the notice until the appeal is finally disposed of or, if the appeal is withdrawn, until the withdrawal of the appeal;
+- (b) in the case of a prohibition notice, the bringing of the appeal shall has the like effect if, but only if, on the application of the appellant the tribunal so directs (and then only from the giving of the direction).
+
+(4) One or more assessors may be appointed for the purposes of any proceedings brought before an employment tribunal under this paragraph.
+
+### 7. Power to indemnify inspectors
+
+Where an action has been brought against an inspector in respect of an act done in the execution or purported execution of these Regulations and the circumstances are such that the inspector is not legally entitled to require the Office of Rail and Road to indemnify the inspector, the Office of Rail and Road may, nevertheless, indemnify the inspector against the whole or part of any damages and costs or expenses which the inspector may have been ordered to pay or may have incurred, if the Office of Rail and Road is satisfied that the inspector honestly believed that the act complained of was within the inspector's powers and that the inspector's duty as an inspector required or entitled the inspector to do it.
+
+### 8. Restrictions on disclosure of information
+
+(1) In this paragraph—
+
+- “**the 1974 Act**” means the Health and Safety at Work etc Act 1974 [^c19309731];
+- “**the Executive**” means the Health and Safety Executive referred to in section 10(1) [^c19309741] of the 1974 Act;
+- “**the recipient**”, in relation to any relevant information, means the person by whom that information was so obtained or to whom that information was so furnished, as the case may be;
+- “**relevant information**” means information obtained by an inspector in pursuance of a requirement imposed under paragraph 2(2)(e) or (f); and
+- “**relevant statutory requirement**” means—
+  - (a) the provisions of the 1974 Act and any regulations made under powers contained in that Act; and
+  - (b) while and to the extent that they remain in force, the provisions of the Acts mentioned in Schedule 1 to the 1974 Act and which are specified in the third column of that Schedule and the regulations, orders and other instruments of a legislative character made or having effect under a provision so specified.
+
+(2) Subject to the sub-paragraph (3), no relevant information must be disclosed without the consent of the person by whom it was furnished.
+
+(3) Sub-paragraph (2) does not apply to—
+
+- (a) disclosure of information to the Executive, a government department or the Office of Rail and Road;
+- (b) without prejudice to Paragraph (a), disclosure by the recipient of information to any person for the purpose of any function conferred on the recipient by or under any of the relevant statutory provisions or under these Regulations;
+- (c) without prejudice to Paragraph (a), disclosure by the recipient of information to a constable authorised by a chief officer of police to receive it; or
+- (d) disclosure by the recipient of information in a form calculated to prevent it from being identified as relating to a particular person or case.
+
+(4) In sub-paragraph (3) any reference to the Executive, a government department or the Office of Rail and Road includes respectively a reference to an officer of that body (including in the case of the Office of Rail and Road, any inspector appointed by it), and also, in the case of a reference to the Executive, includes a reference to—
+
+- (a) a person performing any functions of the Executive by virtue of section 13(3) [^c19309751] of the 1974 Act;
+- (b) an officer of a body which is so performing any such functions; and
+- (c) an adviser appointed in pursuance of section 13(7) of the 1974 Act.
+
+(5) A person to whom information is disclosed in pursuance of sub-paragraph (3) must not use the information for a purpose other than—
+
+- (a) in a case falling within sub-paragraph (3)(a), a purpose of the recipient in question in connection with these Regulations or with the relevant statutory provisions, as the case may be;
+- (b) in the case of information given to a constable, the purposes of the police in connection with these Regulations, the relevant statutory provisions or any enactment whatsoever relating to working time, public health, public safety or the safety of the State.
+
+(6) A person must not disclose any information obtained by the person as a result of the exercise of any power conferred by paragraph 2 (including in particular any information with respect to any trade secret obtained by the person in any premises entered by the person by virtue of any such power) except—
+
+- (a) for the purposes of the person's functions;
+- (b) for the purposes of any legal proceedings; or
+- (c) with the relevant consent.
+
+In this sub-paragraph “**the relevant consent**” means the consent of the person who furnished it, and, in any other case, the consent of a person having responsibilities in relation to the premises where the information was obtained.
+
+(7) Notwithstanding anything in sub-paragraph (6) an inspector must, in circumstances in which it is necessary to do so for the purpose of assisting in keeping persons (or the representatives of persons) employed at any premises adequately informed about matters affecting their health, safety and welfare or working time, give to such persons or their representatives the following descriptions of information, that is to say—
+
+- (a) factual information obtained by the inspector as mentioned in sub-paragraph (6) which relates to those premises or anything which was or is in the premises or was or is being done in them; and
+- (b) information with respect to any action which the inspector has taken or proposes to take in or in connection with those premises in the performance of the inspector's functions;
+
+and, where an inspector does this, the inspector must give the same information to the employer of the persons employed at the premises.
+
+(8) Notwithstanding anything in sub-paragraph (6), a recipient who has obtained such information as is referred to in sub-paragraph (6) may furnish to a person who appears to the recipient to be likely to be a party to any civil proceedings arising out of any accident, occurrence, situation or other matter, a written statement of the relevant facts observed by the recipient in the course of exercising any of the powers conferred by paragraph 2.
+
+## SCHEDULE 3 — Amendments to Legislation
+
+Regulation 19
+
+**1.** The Employment Tribunals Act 1996 [^c19309761] is amended as follows.
+
+- (a) In section 18(1) (conciliation) [^c19309771]—
+  - (i) at the end of paragraph (s) omit “or”, and
+  - (ii) after paragraph (t) insert–
+
+    > , or
+    >
+    > - (u) under regulation 17 of the Cross-border Railway Services (Working Time) Regulations 2008
+
+    .
+- (b) In section 21(1) (appeals from employment tribunals on questions of law) [^c19309781]—
+  - (i) at the end of paragraph (t) omit “or”, and
+  - (ii) after paragraph (u) insert—
+
+    > , or
+    >
+    > - (v) the Cross-border Railway Services (Working Time) Regulations 2008
+
+    .
+
+**2.** (1) The Employment Rights Act 1996 [^c19309791] is amended as follows.
+
+(2) In section 45A(5)(b) (right not to suffer detriment: working time cases) at the end insert—
+
+> - (c) the Cross-border Railway Services (Working Time) Regulations 2008
+
+.
+
+(3) In section 101A(2)(b) (fairness in dismissal) at the end insert—
+
+> - (c) the Cross-border Railway Services (Working Time) Regulations 2008
+
+.
+
+(4) In section 104(4)(d) (fairness in dismissal: assertion of statutory right) for “or the Fishing Vessels (Working Time: Sea-fisherman) Regulations 2004” substitute–
+
+> , the Fishing Vessels (Working Time: Sea-fisherman) Regulations 2004 or the Cross-border Railway Services (Working Time) Regulations 2008
+
+.
+
+**3.** In the Employment Act 2002 [^c19309801] at the end of each of the following Schedules [^c19309811]—
+
+- (a) Schedule 3 (tribunal jurisdictions to which section 31 applies for adjustment of awards for non-completion of statutory procedure);
+- (b) Schedule 4 (tribunal jurisdictions to which section 32 applies for complaints where the employee must first submit a statement of grievance to employer); and
+- (c) Schedule 5 (tribunal jurisdictions to which section 38 applies in relation to proceedings where the employer has failed to give a statement of employment particulars);
+
+there is inserted—
+
+> Regulation 17 of the Cross-border Railways Services (Working Time) Regulations 2008 (breach of regulations)
+
+.
+
+**4.** In regulation 18 of the Working Time Regulations 1998 [^c19309821] there is inserted at the end—
+
+> (5) Regulation 24 does not apply to workers to whom the Cross-border Railways Services (Working Time) Regulations 2008 apply.
+
+.
+
+*(This note is not part of the Regulations)*
+
+These Regulations implement the provisions of Council Directive [2005/47/EC](https://www.legislation.gov.uk/european/directive/2005/0047) (OJ No. L195, 27.7.05, p15) of 18th July 2005 on the Agreement between the Community of European Railways (CER) and the European Transport Workers' Federation (ETF) on certain aspects of the working conditions of mobile workers engaged in interoperable cross-border services in the railway sector.
+
+The Regulations apply to workers whose daily shift includes more than one hour on train services going through the Channel Tunnel that require at least two network safety requirement certifications. These workers are referred to as cross-border workers in the Regulations.
+
+Regulations 3 to 7 give cross-border workers entitlements to rests and breaks from work.
+
+Regulation 8 obliges the employer to take reasonable steps to ensure the requirements relating to driving time set out in that regulation are complied with.
+
+Regulation 9 requires the employer to keep records and provide copies of the records.
+
+Regulation 10 to 16 and Schedule 2 contain provisions in relation to enforcement. An employer's obligations under regulations 8 and 9 are enforceable by the Office of Rail Regulation and an employer's failure to comply with an obligation under either regulation is an offence.
+
+Regulation 17 makes provision in respect of complaints to an employment tribunal.
+
+Regulation 18 prevents contracting out of the provisions of the Regulations, subject to exceptions set out in regulation 18.
+
+Regulation 19 and Schedule 3 amend the Working Time Regulations 1998 (S.I. 1998/1833, as subsequently amended, including by S.I. 2003/1684, which is relevant to these Regulations). The Working Time Regulations 1998 implement Directive [2003/88/EC](https://www.legislation.gov.uk/european/directive/2003/0088) (OJ No. L299, 18.11.03, p9) of the European Parliament and of the Council of 4th November 2003 concerning certain aspects of the organisation of working time. Article 14 of that Directive provides that where other Community instruments contain more specific requirements relating to the organisation of working time for certain occupations or occupational activities the Directive does not apply. Council Directive [2005/47/EC](https://www.legislation.gov.uk/european/directive/2005/0047) contains more specific requirements than some of the requirements of Directive [2003/88/EC](https://www.legislation.gov.uk/european/directive/2003/0088). Consistent with Article 14 of Directive [2003/88/EC](https://www.legislation.gov.uk/european/directive/2003/0088), Schedule 3 amends the Working Time Regulations 1998 so that the provisions on compensatory rest do not apply to cross-border workers.
+
+Regulation 19 and Schedule 3 also amend the Employment Tribunals Act 1996 (c.17), the Employment Rights Act 1996 (c.18) and the Employment Act 2002 (c.22) so that provisions of those Acts that refer to the Working Time Regulations 1998 also refer to these Regulations.
+
+A full Impact Assessment of the effect this instrument will have on costs for business and voluntary sectors has been produced and is available from the Rail Sponsorship and International Division, Department for Transport, Great Minister House, 76 Marsham Street, London SW1P 4DR.
+
+A copy of the Transposition Note is also available from the Department for Transport.
+
+Copies of the Impact Assessment and of the Transposition Note may also be accessed on the Office of Public Sector Information website www.opsi.gov.uk.
+
+## Annotations
+
+[^c19309651]: Marginal citation: [1972 c.68](https://www.legislation.gov.uk/ukpga/1972/68).
+
+[^c19309661]: Marginal citation: [S.I. 1997/1174](https://www.legislation.gov.uk/uksi/1997/1174).
+
+[^c19309671]: Marginal citation: [1992 c.52](https://www.legislation.gov.uk/ukpga/1992/52).
+
+[^key-1c601478164effccdbeb4b7d84813546]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2008/1660/regulation/2) substituted (31.12.2020) by [The Cross-border Railway Services (Working Time) (Amendment) (EU Exit) Order 2018 (S.I. 2018/874)](https://www.legislation.gov.uk/uksi/2018/874), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2018/874/article/1/1), [3](https://www.legislation.gov.uk/uksi/2018/874/article/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-b05e5e7dbf2d9dc8fa99f44a62d9d13f]: Textual amendment: Words in [reg. 9(2)(b)](https://www.legislation.gov.uk/uksi/2008/1660/regulation/9/2/b) substituted (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 10(u)(i)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/10/u/i)
+
+[^key-de93925234cddfbb33a7009909c5150d]: Textual amendment: Words in [reg. 10(1)](https://www.legislation.gov.uk/uksi/2008/1660/regulation/10/1) substituted (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 10(u)(ii)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/10/u/ii)
+
+[^key-5fcec4f96415bc42e4e9583845bf239f]: Textual amendment: Words in [reg. 15(1)](https://www.legislation.gov.uk/uksi/2008/1660/regulation/15/1) substituted (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 10(u)(iii)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/10/u/iii)
+
+[^key-6b5fd47a41c32ba8c01246b24399ee4a]: Textual amendment: [Reg. 17(2A)](https://www.legislation.gov.uk/uksi/2008/1660/regulation/17/2A) inserted (6.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Employment) Order 2014 (S.I. 2014/386)](https://www.legislation.gov.uk/uksi/2014/386), [art. 1](https://www.legislation.gov.uk/uksi/2014/386/article/1), [Sch. para. 54](https://www.legislation.gov.uk/uksi/2014/386/schedule/paragraph/54)
+
+[^c19309701]: Marginal citation: [S.I. 2004/752](https://www.legislation.gov.uk/uksi/2004/752)
+
+[^key-003334a5bb30423f912bd821f49a5a86]: Textual amendment: [Reg. 17A](https://www.legislation.gov.uk/uksi/2008/1660/regulation/17A) inserted (6.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Employment) Order 2014 (S.I. 2014/386)](https://www.legislation.gov.uk/uksi/2014/386), [art. 1](https://www.legislation.gov.uk/uksi/2014/386/article/1), [Sch. para. 55](https://www.legislation.gov.uk/uksi/2014/386/schedule/paragraph/55)
+
+[^key-43013186dc3e46a06d53e08394ac8bdd]: Textual amendment: Words in [reg. 18(2)(a)](https://www.legislation.gov.uk/uksi/2008/1660/regulation/18/2/a) substituted (6.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Employment) Order 2014 (S.I. 2014/386)](https://www.legislation.gov.uk/uksi/2014/386), [art. 1](https://www.legislation.gov.uk/uksi/2014/386/article/1), [Sch. para. 56](https://www.legislation.gov.uk/uksi/2014/386/schedule/paragraph/56)
+
+[^c19309711]: Marginal citation: [1996 c.17](https://www.legislation.gov.uk/ukpga/1996/17); section 1(2) of the [Employment Rights (Dispute Resolution) Act 1998 (c.8)](https://www.legislation.gov.uk/ukpga/1998/8) provides for the Industrial Tribunals Act 1996 to be cited as the Employment Tribunals Act 1996. Section 18 has been amended by the [Employment Act 2002 (c.22)](https://www.legislation.gov.uk/ukpga/2002/22), [section 24(2)](https://www.legislation.gov.uk/ukpga/2002/22/section/24/2) and Schedule 7, paragraph 23(2). Regulation 19 and paragraph (1) of Schedule 3 inserts paragraph (u) in section 18(1). There have been other amendments to section 18, but none is relevant to regulation 18.
+
+[^key-e1a23769545b2824a9af0039cb908926]: Textual amendment: Word in reg. 18(2) substituted (30.8.2013) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Employment) Order 2013 (S.I. 2013/1956)](https://www.legislation.gov.uk/uksi/2013/1956), [art. 1](https://www.legislation.gov.uk/uksi/2013/1956/article/1), [Sch. para. 14](https://www.legislation.gov.uk/uksi/2013/1956/schedule/paragraph/14)
+
+[^key-6c9f51522f2d4b6d5b7e8089bf4bd513]: Textual amendment: Word in reg. 18(3) substituted (30.8.2013) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Employment) Order 2013 (S.I. 2013/1956)](https://www.legislation.gov.uk/uksi/2013/1956), [art. 1](https://www.legislation.gov.uk/uksi/2013/1956/article/1), [Sch. para. 14](https://www.legislation.gov.uk/uksi/2013/1956/schedule/paragraph/14)
+
+[^c19309721]: Marginal citation: [1990 c.41](https://www.legislation.gov.uk/ukpga/1990/41)
+
+[^key-2da13511cbc9297e1bac848e0bf8bf74]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2008/1660/schedule/2) substituted (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 10(u)(iv)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/10/u/iv)
+
+[^key-77a03fa70fdc546bb556df942d8bee8d]: Textual amendment: Sch. 2 para. 2(2)(a) revoked (1.7.2012) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 2 para. 14(1)](https://www.legislation.gov.uk/ukpga/2012/9/schedule/2/paragraph/14/1), [Sch. 10 Pt. 2](https://www.legislation.gov.uk/ukpga/2012/9/schedule/10/part/2) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97))
+
+[^M_F_3dc9d702-edd7-4af5-9e6a-6508605dec90]: Textual amendment: Sch. 2 para. 2(2)(b) revoked (1.7.2012) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 2 para. 14(1)](https://www.legislation.gov.uk/ukpga/2012/9/schedule/2/paragraph/14/1), [Sch. 10 Pt. 2](https://www.legislation.gov.uk/ukpga/2012/9/schedule/10/part/2) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97))
+
+[^M_F_216f8fb1-0ec9-4f62-be47-68628dd56bdd]: Textual amendment: Sch. 2 para. 2(2)(c) revoked (1.7.2012) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 2 para. 14(1)](https://www.legislation.gov.uk/ukpga/2012/9/schedule/2/paragraph/14/1), [Sch. 10 Pt. 2](https://www.legislation.gov.uk/ukpga/2012/9/schedule/10/part/2) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97))
+
+[^c19309731]: Marginal citation: [1974 c.37](https://www.legislation.gov.uk/ukpga/1974/37).
+
+[^c19309741]: Marginal citation: Section 10 has been amended by article 4 of the [Legislative Reform (Health and Safety Executive) Order 2008 (S.I. 2008/960)](https://www.legislation.gov.uk/uksi/2008/960).
+
+[^c19309751]: Marginal citation: Section 13 has been amended by article 5 of the [Legislative Reform (Health and Safety Executive) Order 2008 (S.I. 2008/960)](https://www.legislation.gov.uk/uksi/2008/960).
+
+[^c19309761]: Marginal citation: [1996 c.17](https://www.legislation.gov.uk/ukpga/1996/17); [section 1(2)](https://www.legislation.gov.uk/uksi/2008/1660/section/1/2) of the [Employment Rights (Dispute Resolution) Act 1998 (c.8)](https://www.legislation.gov.uk/ukpga/1998/8) provides for the Industrial Tribunals Act 1996 to be cited as the Employment Tribunals Act 1996.
+
+[^c19309771]: Marginal citation: [Section 18(1)](https://www.legislation.gov.uk/uksi/2008/1660/section/18/1) has been amended on a number of occasions to specify additional proceedings and claims to which the section applies.
+
+[^c19309781]: Marginal citation: [Section 21(1)](https://www.legislation.gov.uk/uksi/2008/1660/section/21/1) has been amended on a number of occasions to specify additional proceedings and claims to which the section applies.
+
+[^c19309791]: Marginal citation: [1996 c.18](https://www.legislation.gov.uk/ukpga/1996/18); [section 45A](https://www.legislation.gov.uk/uksi/2008/1660/section/45A) was inserted by regulation 31(1) of the Working Time Regulations 1998, [S.I. 1998/1833](https://www.legislation.gov.uk/uksi/1998/1833) (the 1998 Regulations) and amended by the [Employment Relations Act 1999 (c. 26)](https://www.legislation.gov.uk/ukpga/1999/26), [section 18(3)](https://www.legislation.gov.uk/ukpga/1999/26/section/18/3) and Schedule 9, Table 3; [section 101A](https://www.legislation.gov.uk/uksi/2008/1660/section/101A) was inserted by regulation 32(1) of the 1998 Regulations and section 104(4)(d) was inserted by regulation 32(2) of those Regulations. Those sections were amended by paragraph 3 of Schedule 2 to the Merchant Shipping (Working Time: Inland Waterways) Regulations 2003, [S.I. 2003/3049](https://www.legislation.gov.uk/uksi/2003/3049) and by paragraph 2 of the Fishing Vessels (Working Time: Sea-fishermen) regulations 2004 ([S.I. 2004/1713](https://www.legislation.gov.uk/uksi/2004/1713)).
+
+[^c19309801]: Marginal citation: [2002 c.22](https://www.legislation.gov.uk/ukpga/2002/22).
+
+[^c19309811]: Marginal citation: [Schedules 3](https://www.legislation.gov.uk/uksi/2008/1660/schedule/3), [4](https://www.legislation.gov.uk/uksi/2008/1660/schedule/4) and 5 have been amended on a number of occasions to list additional tribunal jurisdictions.
+
+[^c19309821]: Marginal citation: [S.I. 1998/1833](https://www.legislation.gov.uk/uksi/1998/1833), amended by [S.I. 2003/1684](https://www.legislation.gov.uk/uksi/2003/1684); there are other amending instruments but none is relevant

@@ -1,0 +1,699 @@
+---
+title: The Education (School Teachers' Qualifications) (England) Regulations 2003
+id: uksi/2003/1662
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2003-07-02'
+text_date: '2023-12-01'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2003/1662
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2003/1662/pdfs/uksi_20031662_en.pdf
+- http://www.legislation.gov.uk/uksi/2003/1662/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Education (School Teachers' Qualifications) (England) Regulations 2003
+
+> Text as at 2023-12-01.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2003 No. 1662
+
+EDUCATION, ENGLAND
+
+The Education (School Teachers' Qualifications) (England) Regulations 2003
+
+Made
+
+2nd July 2003
+
+Laid before Parliament
+
+8th July 2003
+
+Coming into force
+
+1st August 2003
+
+[^M_C_6b5911d5-5de5-441e-d75e-dc43ba133e42]In exercise of the powers conferred on the Secretary of State by sections 132, 145 and 210 of the Education Act 2002 [^c5056081] and having consulted the General Teaching Council for England in accordance with section 132(3) of that Act, the Secretary of State for Education and Skills hereby makes the following Regulations:
+
+## 1. Citation, commencement and application
+
+These Regulations may be cited as the Education (School Teachers' Qualifications) (England) Regulations 2003 and shall come into force on 1st August 2003.
+
+## 2.
+
+These Regulations shall apply in relation to England.
+
+## 3. Interpretation
+
+In these Regulations –
+
+- “**the 1959 Regulations**” means the Schools Regulations 1959 [^c5056091];
+- “**the 1982 Regulations**” means the Education (Teachers) Regulations 1982 [^c5056101];
+- “**the 1989 Regulations**” means the Education (Teachers) Regulations 1989 [^c5056111];
+- “**the 1993 Regulations**” means the Education (Teachers) Regulations 1993 [^c5056121];
+- “**the 1999 Regulations**” means the Education (Teachers' Qualifications and Health Standards) (England) Regulations 1999 [^c5056131];
+- “**the 2003 Specified Work Regulations**” means the Education (Specified Work and Registration) (England) Regulations 2003 [^c5056141];
+- “[^key-7352b972d35905a817a8cb777ccaa7d3]**The 2015 European Union Regulations**” means the European Union (Recognition of Professional Qualifications) Regulations 2015;
+- “**accredited institution**” means an institution accredited by the Secretary of State[^key-fd8bc7e049c0877d3fa6fa892988a74c] under regulation 11;
+- “**city college**” means a city technology college or a city college for the technology of the arts;
+- “**the Council**” means the General Teaching Council for England;
+- “early years provider” has the meaning given by section 96(3) of the Childcare Act 2006;[^key-97f43bd4bc485e56f73d64898c685491]
+- “**employment**” means employment under a contract of employment or the engagement of a person to provide his services otherwise than under a contract of employment and references to being employed shall be construed accordingly;
+- “**further education institution**” means an institution which provides further education and is maintained by a local education authority, or is within the further education sector;
+- “**hearing impaired**” means deaf or partially hearing;
+- [^key-84c29e2d5af351e2b6587690a5d2debe]...
+- “**school**” means a school maintained by a local education authority or a special school not so maintained;
+- “**teaching**” means carrying out work of a kind which is specified by regulations made under section 133 of the Education Act 2002 and “**to teach**” shall be construed accordingly; and
+- “**visually impaired**” means blind or partially sighted.
+
+## 4. Revocations and transitional provisions
+
+(1) The regulations mentioned in Part 1 of Schedule 1 are revoked to the extent specified in that Schedule.
+
+(2) The transitional provisions mentioned in Part 2 of Schedule 1 have effect.
+
+## 5. Qualified teacher status[^key-6ae4b89a3e9fc616bfa28c2b273caa41]
+
+Subject to regulations 6, 7, 8 and 9, a person is a qualified teacher if that person is mentioned in paragraphs 2 to 13F[^key-109e4509ce93f8f8b5ae82b150e899d8] of Part 1 of Schedule 2.
+
+## 6. Mandatory Qualifications for teachers of hearing impaired pupils
+
+Subject to regulations 8 and 9, a person shall not be a qualified teacher for the purpose of teaching a class of pupils who are hearing impaired unless in addition to being a qualified teacher in accordance with regulation 5, he possesses a qualification approved by the Secretary of State for the purpose of this regulation.
+
+## 7. Mandatory Qualifications for teachers of visually impaired pupils
+
+Subject to regulations 8 and 9, a person shall not be a qualified teacher for the purpose of teaching a class of pupils who are visually impaired unless in addition to being a qualified teacher in accordance with regulation 5, he possesses a qualification approved by the Secretary of State for the purpose of this regulation.
+
+## 8. Mandatory Qualifications for teachers of pupils who are both hearing and visually impaired
+
+(1) Subject to paragraph (2) and regulation 9, a person shall not be a qualified teacher for the purpose of teaching a class of pupils who are both hearing impaired and visually impaired unless in addition to being a qualified teacher in accordance with regulation 5, he possesses a qualification approved by the Secretary of State for the purpose of this regulation.
+
+(2) A person who possesses a qualification approved under regulation 6 or 7 shall be a qualified teacher for the purpose of paragraph (1) if his head teacher is satisfied that no teacher with a qualification approved under paragraph (1) is available to teach the class in question.
+
+## 9.
+
+A person who does not possess a qualification approved under regulation 6, 7 or 8 shall be a qualified teacher for the purpose of teaching a class of pupils who are –
+
+- (a) hearing impaired,
+- (b) visually impaired, or
+- (c) both hearing impaired and visually impaired,
+
+if his head teacher is satisfied that the person in question is in the process of obtaining the qualification required by regulation 6, 7 or 8, as the case may be, and provided that the aggregate period for which he teaches a class of pupils by virtue of this regulation does not exceed three years.
+
+## 9A. Status of teachers from other European states who are qualified only to teach pupils with special educational needs[^key-bc5813f6d203f9502192539d1092f988]
+
+(1) A person described in paragraph 8A of Part 1 of Schedule 2 is a qualified teacher only for the purposes of teaching in a special school or a specialist unit.
+
+(2) In this regulation, “specialist unit” means an arrangement—
+
+- (i) within a school maintained by a local authority which is not a special school; and
+- (ii) in which children with special educational needs are taught wholly or mainly within classes designated for such children.
+
+## 10. Award of qualified teacher status by the General Teaching Council for England[^key-08f6650d4e346280249b49ecc190c73d]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 11. Accredited Institutions[^key-863473983c8f458d953506a2c5c5ddda]
+
+The Secretary of State may accredit an institution as a provider of courses or programmes of initial school teacher training.
+
+David Miliband
+
+Minister of State,
+
+Department for Education and Skills
+
+## SCHEDULE 1
+
+Regulation 4
+
+### PART 1 — Revocations
+
+| *Regulations Revoked* | *References* | *Extent of Revocation* |
+| --- | --- | --- |
+| The Education (Teachers' Qualifications and Health Standards)(England) Regulations 1999 | S.I. 1999/2166 | The whole Regulations except –<br>regulation 3 to the extent that it relates to regulations 5, 6 and 7;<br>regulations 5, 6 and 7;<br>paragraphs 6 and 7 of Schedule 1; and<br>Schedule 2. |
+| The Education (Teachers' Qualifications and Health Standards)(England) (Amendment)Regulations 2000 | S.I. 2000/2704 | The whole Regulations |
+| The General Teaching Council for England (Additional Functions) Order 2001 | S.I. 2001/1214 | The whole Order |
+| The Education (Teachers' Qualifications and Health Standards)(England) (Amendment No. 3) Regulations 2001 | S.I. 2001/3737 | The whole Regulations |
+| The Education (Teachers' Qualifications and Health Standards)(England) (Amendment)Regulations 2002 | S.I. 2002/1434 | The whole Regulations |
+| The Education (Teachers' Qualifications and Health Standards)(England) (Amendment)Regulations 2003 | S.I. 2003/107 | The whole Regulations |
+
+### PART 2 — Savings and General Transitional Provisions
+
+**1.** Any person who immediately before 1st August 2003 possessed –
+
+- (a) a qualification approved for the purpose of regulation 11 of the 1999 Regulations;
+- (b) a qualification approved for the purpose of regulation 14 of the 1993 Regulations;
+- (c) a qualification approved for the purpose of regulation 15 of the 1989 Regulations;
+- (d) a qualification mentioned in regulation 15(1) of the 1982 regulations;
+- (e) a comparable qualification approved for the purposes of that regulation;
+- (f) a qualification mentioned in regulation 20(3) of the 1959 Regulations; or
+- (g) an equivalent qualification approved for the purposes of that regulation,
+
+shall be treated as possessing a qualification approved for the purpose of regulation 6.
+
+**2.** Any person who immediately before 1st August 2003 possessed –
+
+- (a) a qualification approved for the purpose of regulation 12 of the 1999 Regulations;
+- (b) a qualification approved for the purpose of regulation 15 of the 1993 Regulations;
+- (c) a qualification approved for the purpose of regulation 16 of the 1989 Regulations;
+- (d) a qualification mentioned in regulation 16(1) of the 1982 Regulations;
+- (e) a qualification approved for the purpose of that regulation as comparable to a qualification so mentioned; or
+- (f) a qualification for teaching blind pupils which, immediately before 8th April 1982, satisfied the requirements of the Secretary of State under regulation 15(2) of the Handicapped Pupils and Special Schools Regulations 1959 [^c5056151],
+
+shall be treated as possessing a qualification approved for the purpose of regulation 7.
+
+**3.** (1) A person who is mentioned in sub-paragraph (2) shall be a qualified teacher for the purposes of teaching a class of pupils who are both hearing and visually impaired, notwithstanding that he is not a qualified teacher for the purpose of regulation 8(1).
+
+(2) A person who satisfies the requirements of –
+
+- (a) regulation 13 of the 1999 Regulations, or
+- (b) regulation 18 of the 1982 Regulations,
+
+for employment as the teacher of a class of pupils who were both deaf or partially hearing and blind.
+
+**4.** Any accreditation for the purposes of –
+
+- (a) regulation 15 of the 1999 Regulations in force immediately before 1st August 2003;
+- (b) paragraph 2 of Schedule 3 to the 1999 Regulations in force immediately before 15th December 2001; or
+- (c) paragraph 3 of Schedule 3 to the 1993 Regulations in force immediately before 1st September 1999,
+
+shall have effect as if given for the purposes of regulation 11.
+
+**4A.**[^key-fa4f692630795d4045709f1df3eae7e7] Any accreditation given for the purposes of regulation 11, in force immediately before 1st April 2012, shall continue to have effect.
+
+**5.** The employment-based teacher training scheme established for the purposes of paragraph 19 of Schedule 2 to the 1999 Regulations shall have effect as if established for the purposes of paragraph 10 of Schedule 2 to these Regulations, and persons who are undertaking teacher training by virtue of that scheme shall continue to do so as if for the purposes of paragraph 10 of Schedule 2.
+
+**6.** A person who is undertaking a training programme pursuant to paragraph 9 of Schedule 3 to the 1999 Regulations shall continue to do so as if for the purposes of paragraph 10 of Schedule 2.
+
+## SCHEDULE 2 — Qualified Teacher Status Requirements
+
+Regulation 5
+
+### PART 1
+
+**1.** In this Schedule –
+
+- [^key-22f6128ac6fc8c7e19b1871bc51d3381]...
+- “[^key-0fe5edf5d7b8d97ff1fe20836d7a16e6]**the 2008 Regulations**” means the Education (Induction Arrangements for School Teachers) (England) Regulations 2008;
+- “**the CNAA**” means the Council for National Academic Awards;
+- “[^key-8e70c32dce41a718be225362da3ca0bb]**coronavirus**” means severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2);
+- “**foreign institution**” means any institution other than a United Kingdom institution;
+- “**graduate teacher**” means a person who has been granted an authorisation to teach in accordance with paragraphs 5 to 11 of Schedule 2 to the 1999 Regulations before 1st September 2002;
+- “[^key-033aa9ff698e53f14f80aeb218246495]**QTS list request**” means a request made to the Secretary of State for inclusion in the list of persons who are qualified teachers in England which is maintained by, or on behalf of, the Secretary of State;
+- “**recommending body**” means the body that is the organiser of the training given or to be given to the person named in the recommendation;
+- “**registered teacher**” means a person who has been granted an authorisation to teach in accordance with paragraphs 12 to 18 of Schedule 2 to the 1999 Regulations before 1st September 2002;
+- “specified standards” means—[^key-b8b939c86a139b33114495b9eb90e7f2]
+  - (a) in the case of a person (“P”) to whom paragraph 1A applies, the standards specified by the Secretary of State at the time, on or after 25th June 2020, as the standards required of P in order for P to achieve qualified teacher status;
+  - (b) in all other cases, the standards applying as at the time of assessment specified by the Secretary of State as the standards required of a person who seeks to achieve qualified teacher status;
+- [^key-22f6128ac6fc8c7e19b1871bc51d3381]...
+- “**United Kingdom institution**” means an institution established in the United Kingdom, other than one which is, or is affiliated to or forms part of, an institution whose principal establishment is outside the United Kingdom and includes the CNAA.
+
+**1A.**[^key-64cd68a8d3af2638c14f3d0a3f109580] (1) This paragraph applies to a person (“P”) who, before 25th June 2020—
+
+- (a) had not passed a skills test; and
+- (b) would, but for the fact that P had not passed a skills test, have met the specified standards which applied before that date for the purposes of paragraphs 7(1)(d)(i), 7A(c), 9(2)(a) or 10(1)(b)(i) of Part 1 of this Schedule.
+
+(2) In this paragraph, “skills test” means a test of a person’s skills in relation to literacy, numeracy or information and communications technology, administered by the Secretary of State, which, before 25th June 2020, that person was required to pass in order to be a qualified teacher.
+
+**2.** The person is a qualified teacher by virtue of paragraph 1 of Schedule 3 to the 1999 Regulations.
+
+**3.**[^key-0270e1466aa55f7949997f94104bb427] The person is, immediately before 1st February 2023, a qualified teacher by virtue of regulations made in relation to Wales under section 132 of the Education Act 2002.
+
+**4.** The person has successfully completed a course of initial school teacher training at an educational institution in Wales, Scotland[^key-a2d5804037326f1ae0cb45d60bda8019] or Northern Ireland.
+
+**5.**[^key-94d3a49413c698a6ecc75b78e97aa6c9] The person—
+
+- (a) has full registration as a teacher of primary or secondary education with the General Teaching Council for Scotland, and
+- (b) has, before 1st February 2023, made a QTS list request.
+
+**6.**[^key-59e8d650a746f7d7986789e58b38891a] The person—
+
+- (a) has been awarded confirmation of recognition as a teacher in schools in Northern Ireland by the Department of Education, Northern Ireland Office or by the General Teaching Council for Northern Ireland, that confirmation not having been subsequently withdrawn, [^key-0f33e344467458c86170cfc0aed08f2e]...
+- (b) has undertaken a period of not less than sixty days practical teaching experience at an educational institution in Northern Ireland , and[^key-c8651f85f0458a6a4cceb4644d2a46a1]
+- (c) has, before 1st February 2023, made a QTS list request
+
+**7.** (1)[^key-08243cf96b2f5dcf79f34e538968c1fb] The person –
+
+- (a) holds a first degree or equivalent qualification granted by a United Kingdom institution or an equivalent degree or other qualification granted by a foreign institution;
+- (b) successfully completes a course of initial teacher training at an institution in England which—[^key-63bbcd7c4b9f1b5286edb4b67e236790]
+  - (i) is an accredited institution, or
+  - (ii) provides that course on behalf of an accredited institution in England
+- (c)
+  - (i)[^key-835bc172a5478a01f995b4d9cfbe47fc] undertakes any period of practical teaching experience for the purposes of that course of initial teacher training wholly or mainly in a school, city college, academy, independent school or other educational institution or early years provider[^key-78a5b9c91914d1d984dac351b174f9e0] [^key-503ece549265b770b6f5ab02c26a292a]... in England , or in a school administered by Service Children’s Education[^key-37fd00bece6a1777209bebb84b63100f] , or[^key-a29cbb847266d2c3e49c5caf4f6cca17]
+  - (ii)[^key-eb62816910fd7cc76c425055d8c3d65b] has been unable, for a reason relating to the incidence or transmission of coronavirus, to undertake such a period wholly or mainly in an institution in England or in a school administered by Service Children’s Education, but before 1st September 2021[^key-462c8a65ac68e454d6cbb12964a7e4c7] does so in a school or other institution outside England; and
+- (d)
+  - (i)[^key-96b98cabf98c3189b7511bbb7ec16cb6] is assessed by the accredited institution as meeting the specified standards , or[^key-9a52811ffe17eea74dfeeeca2e8d4938]
+  - (ii)[^key-75cf98952c7c0e9838eb09ac39a5d618] has been unable to meet the specified standards for a reason relating to the incidence or transmission of coronavirus but, before 1st September 2021[^key-89ef2534886db35b4ad3d5d605dfc3d8], is assessed by the accredited institution as demonstrating adequate progress towards meeting them such that the accredited institution is satisfied that the person would have met them but for that reason.
+
+**7A.**[^key-0e683ec16cfddc17bdca1a6396acd5d0] The person—
+
+- (a) holds a first degree or equivalent qualification granted by a United Kingdom institution or an equivalent degree or other qualification granted by a foreign institution;
+- (b) is assessed by an accredited institution as meeting such criteria as may from time to time be specified by the Secretary of State; and
+- (c) has undertaken a period of practical teaching experience such that the person is assessed by the accredited institution as meeting the specified standards.
+
+**8.**[^key-9fc2db411d2befeb039a3de26440bda6] (1) The person is a person who is, as respects the profession of school teacher, entitled to practice pursuant to the 2007 Regulations or the 2015 European Union Regulations, including pursuant to—
+
+- (a) a decision taken or right accrued under the 2007 Regulations or the 2015 European Union Regulations before exit day in accordance with paragraph 40 of Schedule 1 to the Recognition of Professional Qualifications (Amendment etc.) (EU Exit) Regulations 2019;
+- (b) a decision taken or determination made under the 2015 European Union Regulations in accordance with paragraph 44 of Schedule 1 to the Recognition of Professional Qualifications (Amendment etc.) (EU Exit) Regulations 2019;
+- (c) a decision taken or determination made under the 2007 Regulations in accordance with paragraph 50 or paragraph 51 of Schedule 1 to the Recognition of Professional Qualifications (Amendment etc.) (EU Exit) Regulations 2019.
+- (d) paragraph 42, paragraph 48 or paragraph 49 of Schedule 1 to the Recognition of Professional Qualifications (Amendment etc.) (EU Exit) Regulations 2019;[^key-5465a039637619c9604a07cfb081b0f0]
+- (e)[^key-cb8ec9bd977de1fd7d0a9f4d1c5c0b17] a decision taken or determination made under the 2015 European Union Regulations in accordance with paragraphs 1, 2(2) and (3) of Schedule 1 to the Professional Qualifications Act 2022 (Commencement No. 3) Regulations 2023.
+
+(2) In this paragraph, the 2007 Regulations means the European Communities (Recognition of Professional Qualifications) Regulations 2007.
+
+**8A.**[^key-1cc0a74ef9d2a9a07f92791fa4dbd367] (1) The person is—
+
+- (a)[^key-c9327e0df2fc5313ede990a513c6cb6c] entitled to partial access to the profession of school teacher pursuant to—
+  - (i) a decision taken or right accrued under the 2015 European Union Regulations before exit day in accordance with paragraph 40 of Schedule 1 to the Recognition of Professional Qualifications (Amendment etc.) (EU Exit) Regulations 2019;
+  - (ii) paragraph 42 of Schedule 1 to the Recognition of Professional Qualifications (Amendment etc.) (EU Exit) Regulations 2019; [^key-57ef792b09352ab12ad7b4d2387df506]...
+  - (iii) a decision taken or determination made under the 2015 European Union Regulations in accordance with paragraph 44 of Schedule 1 to the Recognition of Professional Qualifications (Amendment etc.) (EU Exit) Regulations 2019;
+  - (iv)[^key-aa9d8105e662070ab479cde4877d5766] a decision taken or determination made under the 2015 European Union Regulations in accordance with paragraphs 1, 2(2) and (3) of Schedule 1 to the Professional Qualifications Act 2022 (Commencement No. 3) Regulations 2023; and
+- (b) qualified only to teach pupils with special educational needs in the person’s home State;
+
+(2) In this paragraph, “home State” has the meaning given in regulation 2(1) of the 2015 European Union Regulations.
+
+**9.** (1) Where a person has been granted an authorisation to teach under Part II or III of Schedule 2 to the 1999 Regulations before 1st September 2002, the recommending body has submitted to the Secretary of State or, before 1st April 2012, submitted to the[^key-36d7c629fabd0f7ad492aa0f22109ce6] Council –
+
+- (a) a recommendation that the person should be awarded qualified teacher status; and
+- (b) a statement described in sub-paragraph (2).
+
+(2) The statement states that the person –
+
+- (a) has been assessed by a competent person as meeting the specified standards;
+- (b) holds a first degree or equivalent qualification granted by a United Kingdom institution, or a qualification of an equivalent standard granted by an educational institution elsewhere; and
+- (c) satisfies one of the following requirements –
+  - (i) he has successfully completed service as a graduate teacher or a registered teacher for the period of the authorisation and has successfully completed any training proposed in the recommendation for an authorisation;
+  - (ii) he has completed not less than 3 months service as a graduate teacher or not less than one year’s service as a registered teacher and has made such progress during his period of service as a graduate teacher or a registered teacher that in the view of the recommending body he did not need, in the light of that progress, to complete that service for the period of authorisation before being assessed under paragraph (a); or
+  - (iii) he has successfully completed a programme of professional training for teachers in any country outside the United Kingdom and which is recognised as such a programme of training by the competent authority in that country.
+
+(3) In this paragraph a “**competent person**” means in a case where the recommending body is an accredited institution, that institution, and in any other case it means the person approved by the Secretary of State or, before 1st April 2012, the[^key-58459e62cf55ff3348245d71f5d6cec0] Teacher Training Agency for the purpose of carrying out the assessment referred to in paragraph (2)(a).
+
+**10.** (1) The person –
+
+- (a) successfully completes a period of training on an employment-based teacher training scheme, and
+- (b)
+  - (i)[^key-9e29b29f69cbb088eec0d55a9bae8e66] is assessed by or on behalf of the Secretary of State, or was assessed before 1st April 2012 by the Training and Development Agency for Schools,[^key-bf0ab12f82ec787cf3b5892518c2ee13] as meeting the specified standards , or[^key-22e913d58c1c8f13090f00339f61f07c]
+  - (ii)[^key-2ecda525c7677b6fe89ce1935a8a4841] has been unable to meet the specified standards for a reason relating to the incidence or transmission of coronavirus but, before 1st September 2021[^key-f7a6334e4e6cc2bcb31222667fc01c73], is assessed by an accredited institution as demonstrating adequate progress towards meeting them such that the accredited institution is satisfied that the person would have met them but for that reason.
+
+(2)[^key-5b39e345d4643456cd2aae1c0d988fa9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) An “**employment-based teacher training scheme**” is a scheme established by the Secretary of State for the purposes of this paragraph whereby a person may undertake initial teacher training in order to obtain qualified teacher status while being employed to teach at a school, city college, Academy, independent school or other educational institution or early years provider[^key-66cf6561ac5ce81f26072e13b7859b32] [^key-65615423b40a4655659e657c5b08fa07]... .
+
+(4)[^key-5b39e345d4643456cd2aae1c0d988fa9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**11.** (1) The States of Guernsey Education Department[^key-1ca27cf511ac91d62143681a8744ebd3] has, before 1st February 2023, submitted[^key-e9995277b2a361e66348ffba0b12a1a1] to the Secretary of State or, before 1st April 2012, submitted to the[^key-35d1c727daa2be829d262def5f3519e9] Council a recommendation that the person should be awarded qualified teacher status and a statement that the person satisfies the requirements specified in sub-paragraph (2), (3) or (4).
+
+(2) The person successfully completes two school years' full-time service or the equivalent period of part-time service as a teacher licensed by the States of Guernsey Education Department and the training specified in the licence.
+
+(3) The person –
+
+- (a) successfully completes not less than one school year’s service as a teacher licensed by the States of Guernsey Education Department and the training specified in the licence; and[^key-8af28118407b09c5941171ebc4e6192f]
+- (b)[^key-af43e27c57b23a84d881f99ee2c6c2aa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c) before the date of commencement of the licence, had been employed for not less than two years as a teacher or a lecturer at an independent school (including a city college or Academy) or a further education institution or an institution within the higher education sector[^key-00eaae717366a8723080c62d3af61e05] or a university in the United Kingdom or as an Instructor or Education officer in the Armed Forces of the Crown or as an instructor under paragraph 3 of Schedule 2 to the 1993 Regulations or paragraph 3 of Schedule 2 to the 1999 Regulations or paragraph 4 of Schedule 2 to the 2003 Specified Work Regulations and was not dismissed on grounds other than redundancy.
+
+(4) The person –
+
+- (a) successfully completes not less than one school term’s service as a licensed teacher and the training proposed in the recommendation for a licence;
+- (b) had, before the date of commencement of the licence, successfully completed either –
+  - (i) a course of at least three years' duration of initial training for teachers in schools at an educational institution outside England and Wales, or
+  - (ii) a first degree course and a postgraduate course of initial training for teachers in schools at such an institution (whether or not the same institution); and
+- (c) had been employed for not less than one year as a teacher or lecturer in a school, independent school (including city college or Academy)[^key-7cfec99b44c0d55d32311371fc415598]... or university or other educational institution or early years provider[^key-af224ea111434ca2695c2993d4a9cc97] either in England or Wales or elsewhere and was not dismissed on grounds other than redundancy.
+
+**12.** (1) Before 1st September 2004 the recommending authority has submitted to the Council a recommendation that the person should be awarded qualified teacher status and a statement that –
+
+- (a) on the date of the recommendation he is employed as a teacher in an independent school;
+- (b) he has been assessed by the recommending authority as meeting the specified standards;
+- (c) before –
+  - (i) 1st January 1974 he obtained qualifications meeting the requirements of paragraph 14, 15, 16, 17, 18, 19 or 20 of Part 2 of this Schedule, or
+  - (ii) 1st January 1974 he obtained a degree granted by a United Kingdom university or by the CNAA or by a foreign institution, or
+  - (iii) 1st September 1989 he obtained a degree granted by a United Kingdom university or by the CNAA or by a foreign institution in mathematics, physics, chemistry, biology, botany, zoology, physiology, biochemistry or geology; and
+- (d) he was employed as a teacher in an independent school at any time before 1st September 1989.
+
+(2) In this paragraph – “**recommending authority**” means –
+
+- (a) in the case of a teacher who is not a head teacher or principal, the head teacher or principal of the independent school at which he is employed to teach, and
+- (b) in the case of a head teacher or principal, the chairman of the governing body of the school, or if none the proprietor of the school.
+
+**13.** (1) Before 1st September 2004 the recommending authority has submitted to the Council a recommendation that a person should be awarded qualified teacher status and a statement that –
+
+- (a) on the date of the recommendation he is –
+  - (i) employed as a teacher in a further education institution, or
+  - (ii) an instructor in a school by virtue of paragraph 4 of Schedule 2 to the 2003 Specified Work Regulations;
+- (b) he has been assessed by the recommending authority as meeting the specified standards;
+- (c) before–
+  - (i) 1st January 1974 he obtained qualifications meeting the requirements of paragraph 14, 15, 16, 17, 18, 19, or 20 of Part 2 of this Schedule;
+  - (ii) 1st January 1974 he obtained a degree granted by a United Kingdom university or by the CNAA or by a foreign institution; or
+  - (iii) 1st September 1989 he obtained a degree granted by a United Kingdom university or by the CNAA or by a foreign institution in mathematics, physics, chemistry, biology, botany, zoology, physiology, biochemistry or geology;
+- (d) he was employed as a teacher in a further education institution at any time before 1st September 1989;
+- (e) he holds a Certificate in Education or a Post-graduate Certificate in Education; and
+- (f) in the opinion of the recommending authority, he has sufficient teaching experience to be able to teach pupils aged from 14 years to 19 years.
+
+(2) In this paragraph – “**recommending authority**” means –
+
+- (a) in the case of a teacher who is not a head teacher or principal, the head teacher or principal of the further education institution at which the person is employed to teach; and
+- (b) in the case of a head teacher or principal, the chairman of the governing body.
+
+**13A.**[^key-a16853eaae4a8a03a673836cdd92a50e] (1) The person—
+
+- (a) has successfully completed a programme of professional training for teachers in a country mentioned in sub-paragraph (2), which programme is recognised as such by the relevant competent authority[^key-164c2683d1781759e0d6b38351b86faa];
+- (b)[^key-56469d25231c598a2c9e2f0e9b8c7e4c] has satisfied any additional requirements (including any period of professional experience comparable to an induction period under the 2008 Regulations) which are necessary in order for a person to be eligible for employment as a qualified teacher on a permanent basis—
+  - (i) in Australia, in a government school; or
+  - (ii) in Canada, New Zealand or the United States of America, in a school which is wholly or mainly government funded; [^key-f95642bdf22ebd684fabecfdaa506b64]...
+- (c) is not a person mentioned in sub-paragraph (3) ; and[^key-d0305ae90c08280cf8ac903c6ec3a55a]
+- (d) has, before 1st February 2023, made a QTS list request.
+
+(2) The countries are—
+
+- (a) Australia;
+- (b) Canada;
+- (c) New Zealand; and
+- (d) the United States of America.
+
+(3) The person—
+
+- (a) is the subject of any decision of, or proceedings before, the relevant body which restricts or may restrict that person’s eligibility to teach in that country or the part of that country in which the person is or has been employed to teach[^key-dd3dcd91ceeaeb6f43e8660e1246ca89];
+- (b) has, before 1st April 2012, failed to obtain qualified teacher status following assessment against the specified standards mentioned in paragraph 10(1)(b) for a reason other than failure to pass a skills test, and for this purpose “skills test” has the meaning given in paragraph 1A[^key-7d1045bd4eac5f5c716fe4f3423d6bf9]; or
+- (c) is included on the list kept by the Secretary of State under section 141C(1)(b) of the Education Act 2002.
+
+(4)[^key-3fceb67846a17cfdbca99e6b017a9e50] In this paragraph, in relation to a country listed in sub-paragraph (2)—
+
+- (a) “the relevant competent authority” is—
+  - (i) the national competent authority; or,
+  - (ii) where there is no national competent authority, the competent authority in the part of the country in which that person completed the programme of professional training; and
+- (b) “relevant body” means—
+  - (i) the national authority or person authorised to take action or decisions in respect of professional disciplinary proceedings concerning the teaching profession in that country; or,
+  - (ii) where there is no national authority, the authority or person so authorised in the part of the country in which that person is or has been employed to teach.
+
+**13B.**[^key-8c20a2caf15bcc10e13391dbb8378ca5] The person—
+
+- (a) has been awarded qualified teacher learning and skills status—
+  - (i) on or before 31st October 2014, by the Institute for Learning; or
+  - (ii) on or after 1st November 2014, by the Education and Training Foundation;
+- (b) is a professional member of the Education and Training Foundation; and
+- (c) is not included on the list kept by the Secretary of State under section 141C(1)(b) of the Education Act 2002.
+
+**13C.**[^key-285bdc69b20f7ca49d4e6b5f453ae872] (1) The person—
+
+- (a) is registered as a qualified teacher in a register established and maintained by the Director of Education of Gibraltar; and
+- (b) is not a person mentioned in sub-paragraph (2).
+
+(2) The person—
+
+- (a) is subject to any decision of, or proceedings before, the relevant body which restricts or may restrict that person’s eligibility to teach in Gibraltar;
+- (b) has, before 1st April 2012, failed to obtain qualified teacher status following assessment against the specified standards mentioned in paragraph 10(1)(b) for a reason other than failure to pass a skills test, and for this purpose “skills test” has the meaning given in paragraph 1A; or
+- (c) is included on the list kept by the Secretary of State under section 141C(1)(b) of the Education Act 2002.
+
+(3) In this paragraph “relevant body” means the authority or person authorised to take action or decisions in respect of professional disciplinary proceedings concerning the teaching profession in Gibraltar.
+
+**13D.**[^key-a2b884120c12906f6a1a2bff0c3be795] (1) The person has an international qualified teacher status (“iQTS”) qualification awarded by an accredited institution in England which is approved to award iQTS qualifications by the Secretary of State.
+
+(2) For the purposes of this paragraph, an iQTS qualification is a qualification awarded following the successful completion of a course of initial teacher training outside England provided by, or under arrangements made by, an accredited institution in England.
+
+**13E.** (1) The person—
+
+- (a) is qualified to teach in a specified country or territory other than the United Kingdom,
+- (b) is assessed by or on behalf of the Secretary of State as meeting such requirements as to professional skills and knowledge as may from time to time be specified, and
+- (c) does not fall within sub-paragraph (2).
+
+(2) A person falls within this sub-paragraph if they are—
+
+- (a) the subject of any decision of, or proceedings before, a relevant authority which restricts or may restrict their eligibility to teach in the country in which their overseas teaching qualification was awarded or any part of that country in which they are or have been employed, or
+- (b) included on the list kept by the Secretary of State under section 141C(1)(b) of the Education Act 2002 (list of persons prohibited from teaching etc).
+
+(3) For the purposes of this paragraph, a person is qualified to teach in a country or territory other than the United Kingdom if they—
+
+- (a) have successfully completed a programme of professional training for teachers in that country or territory which is recognised by the national competent authority in that country or territory, or, where there is no national competent authority, the competent authority for the part of the country or territory where the programme was completed, and
+- (b) have successfully completed any additional requirements which are necessary in order for a person to be eligible as a qualified teacher in the relevant country or territory, or part of the relevant country or territory.
+
+(4) In this paragraph “**specified**” means specified by the Secretary of State.
+
+**13F.**[^key-5b4b8303a01c59070fde8529780a30dd] The person is, as respects the profession of school teacher, entitled to practise pursuant to a decision made under Part 2 of the Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023.
+
+### PART 2
+
+**14.** (1) The requirements of this paragraph are that the person –
+
+- (a) obtained before 1st January 1965 the qualification of –
+  - (i) London University Diploma in Fine Art (Slade School),
+  - (ii) Diploma of Associateship of the Royal College of Art (ARCA) or Master of Art of the Royal College of Art (M Art (RCA)),
+  - (iii) Diploma of Designer of the Royal College of Art (Des RCA) or Certificate of Designer of the Royal College of Art (Cert Des RCA) or Master of Design of the Royal College of Art (M Des (RCA)),
+  - (iv) Certificate of the Royal Academy Schools awarded on the successful completion of the course at the Academy, or
+  - (v) Diploma in Art and Design awarded by the National Council for Diplomas in Art and Design; or
+- (b) obtained a qualification specified in (i) to (v) of paragraph (a) on or after 1st January 1965, and before he obtained that qualification he had attained the minimum education qualifications required for entrance to a recognised college of education.
+
+**15.** The requirements of this paragraph are that the person obtained the City and Guilds of London Institute Teacher’s Certificate in Handicraft before 1st January 1961.
+
+**16.** The requirements of this paragraph are that the person –
+
+- (a) obtained the qualification of –
+  - (i) Birmingham School of Music’s Graduate Diploma (GBSM),
+  - (ii) Guildhall School of Music’s Graduate Diploma (GGSM),
+  - (iii) London College of Music’s Graduate Diploma (GLCM),
+  - (iv) Northern School of Music’s Graduate Diploma (GNSM),
+  - (v) Royal College of Music’s Degree of Master in Music (M Mus, RCM),
+  - (vi) Royal College of Organists' Fellowship Diploma (FRCO),
+  - (vii) Royal Manchester College of Music’s Graduate Diploma (GRSM (Manchester)),
+  - (viii) Royal Schools of Music’s Graduate Diploma (GRSM), or
+  - (ix) Trinity College of Music’s Graduate Diploma (GTCL); or
+- (b) obtained before 1st January 1964 the qualification of –
+  - (i) Birmingham School of Music’s Diploma awarded on the successful completion of the two year teacher training course for the Associateship of the Birmingham School of Music (ABSM) (TTD), or the Diploma of Associateship of the Birmingham School of Music (ABSM) (Teacher) of any instrument or the voice awarded on the successful completion of the three year full-time course or a period of part-time study,
+  - (ii) The London School of Dalcroze Eurhythmics, Liphook’s Teaching Certificate awarded on the successful completion of the three year course ending on or before 31st December 1955,
+  - (iii) The Dalcroze Society (Incorporated) Training Centre’s Certificate awarded on the successful completion of the three year course ending in 1954 or 1955,
+  - (iv) The Dalcroze Society (Incorporated) London School of Eurhythmics’s Certificate awarded on the successful completion of the three year course ending on or after 1st January 1956,
+  - (v) Dartington College and Arts Centre’s Diploma of Music Education for Schools,
+  - (vi) Associateship of the Guildhall School of Music (AGSM) or Licentiate of the Guildhall School of Music (LGSM) with special Teacher’s Diploma (Music) or AGSM or LGSM Teacher’s Diploma (instrumental or otherwise) or AGSM or LGSM Aural Training and Musical Appreciation or AGSM or LGSM Class Singing and Voice Training,
+  - (vii) Huddersfield College of Technology’s Diploma in Music,
+  - (viii) Licentiate of the London College of Music Teacher’s Diploma (LLCM (TD)) in an instrument, or the voice or (if obtained not later than 31st December 1960) in School Music or LLCM in School Music,
+  - (ix) Northern School of Music’s Associate Diploma of Music Education,
+  - (x) Licentiate of the Royal Academy of Music (LRAM) Teacher’s Diploma (instrumental or otherwise) or LRAM Aural Training or LRAM Voice Culture and Class Singing,
+  - (xi) Associateship of the Royal College of Music (ARCM) Teacher’s Diploma (instrumental or otherwise),
+  - (xii) Associateship of the Royal Manchester College of Music (ARMCM) or ARMCM (School Music),
+  - (xiii) Trinity College of Music’s Licentiate Teacher’s Diploma, Licentiate of Trinity College London (LTCL) (instrumental or otherwise) or Fellowship, FTCL or Diploma of Music Education for Schools (LTCL Mus Ed),
+  - (xiv) The Diploma in Music of any College of the University of Wales, or
+  - (xv) Licentiate of the Royal Schools of Music (LRSM) or Royal Schools of Music’s Teacher’s Diploma (instrumental or otherwise);
+
+  and before he had obtained the qualification referred to in paragraph (a) or (b) he had attained the minimum educational qualifications required for entrance to a recognised college of education.
+
+**17.** The requirements of this paragraph are that the person obtained the qualification of –
+
+- (a) two certificates in different needlecraft subjects of the City and Guilds of London Institute, one of which must be a Teacher’s Certificate;
+- (b) Technical Teachers' Certificate of the City and Guilds of London Institute awarded from 1955 to 1964 and two Certificates of the Institute in different needlecraft subjects, one of which must be an advanced certificate; or
+- (c) Domestic Subjects (Further Education) Teacher’s Certificate of the City and Guilds of London Institute awarded from 1956 to 1970, together with –
+  - (i) two Certificates of the Institute in different needlecraft subjects, one of which must be an advanced certificate, or
+  - (ii) the Institute’s Certificate in Advanced Domestic Cookery and the Institute’s Certificate in Housecraft or Home Management.
+
+**18.** The requirements of this paragraph are that the person obtained the qualification of –
+
+- (a) Associateship of the Royal College of Science (London),
+- (b) Membership or Associate Membership of the Institute of Physics including Associateship or Graduateship of the Institute obtained before 1st March 1971,
+- (c) Associateship or Graduateship of the Royal Institute of Chemistry, or
+- (d) Membership of the Institute of Biology.
+
+**19.** The requirements of this paragraph are that the person obtained the qualification of –
+
+- (a) Teaching Diploma awarded on successful completion of the three year course at the Central School of Speech Training and Dramatic Art (later the Central School of Speech and Drama),
+- (b) Teaching Diploma in Speech and Drama awarded on successful completion of the three year course at the Royal Academy of Music,
+- (c) Teaching Diploma in Speech and Drama awarded on successful completion of the three year course at the New College of Speech and Drama,
+- (d) Associateship of the Guildhall School of Music and Drama (AGSM) Teacher’s Diploma in Speech and Drama awarded on successful completion of the three year course at the Guildhall School of Music and Drama before 1st January 1960,
+- (e) Diploma awarded on successful completion of the three year course in Speech and Drama conducted by the Rose Bruford Training College of Speech and Drama (later Rose Bruford College of Speech and Drama),
+- (f) Teacher’s Certificate awarded on successful completion of the three year full-time course of training in Speech and Drama conducted by the Northern School of Music until 1968,
+- (g) Diploma awarded in 1969 on the successful completion of the three year full-time course of training for teachers of Speech and Drama at the Manchester College of Art and Design, or
+- (h) Diploma awarded from 1970 on the successful completion of the three year full-time course of training for teachers of Speech and Drama at Manchester Polytechnic,
+
+and before he obtained a qualification referred to in paragraphs (a) to (h) he had attained the minimum education qualifications required for entrance to a recognised college of education.
+
+#### 20. Other Qualifications
+
+The requirements of this paragraph are that the person obtained the qualification of –
+
+- (a) Higher National Diploma,
+- (b) Higher National Certificate,
+- (c) Diploma in Technology awarded by the National Council for Technological Awards or the CNAA, or
+- (d) National Froebel Union or Foundation’s Certificate A awarded on successful completion of a three year course.
+
+**21.** In this Part “**the minimum educational qualifications required for entrance to a recognised college of education**” means a minimum of five General Certificate of Education ordinary level qualifications, or the equivalent.
+
+*(This note is not part of the Regulations)*
+
+These Regulations supersede the Education (Teachers' Qualifications and Health Standards) (England) Regulations 1999 (“**the 1999 Regulations**”). Some drafting changes have been made to the 1999 Regulations and some obsolete provisions removed.
+
+The provisions formerly within Schedule 2 to the 1999 Regulations are now incorporated within Schedule 2 to the Education (Specified Work and Registration) (England) Regulations 2003.
+
+Schedule 2 to these Regulations specifies the various routes to achieve qualified teacher status. Under regulation 10, the General Teaching Council for England awards qualified teacher status to the persons mentioned in paragraphs 4 to 13 of Schedule 2.
+
+## Annotations
+
+[^M_C_6b5911d5-5de5-441e-d75e-dc43ba133e42]: Modification: Regulations: references to the Teacher Training Agency amended to the Training and Development Agency for Schools (1.9.2005) by virtue of [Education Act 2005 (c. 18)](https://www.legislation.gov.uk/ukpga/2005/18), [ss. 74](https://www.legislation.gov.uk/ukpga/2005/18/section/74), [125(3)](https://www.legislation.gov.uk/ukpga/2005/18/section/125/3)
+
+[^c5056081]: Marginal citation: [2002 c. 32](https://www.legislation.gov.uk/ukpga/2002/32).
+
+[^c5056091]: Marginal citation: [S.I. 1959/364](https://www.legislation.gov.uk/uksi/1959/364) as amended by [S.I. 1968/1281](https://www.legislation.gov.uk/uksi/1968/1281), [1969/1777](https://www.legislation.gov.uk/uksi/1969/1777), [1971/342](https://www.legislation.gov.uk/uksi/1971/342), [1973/2021](https://www.legislation.gov.uk/uksi/1973/2021) and [1978/1144](https://www.legislation.gov.uk/uksi/1978/1144).
+
+[^c5056101]: Marginal citation: [S.I. 1982/106](https://www.legislation.gov.uk/uksi/1982/106) as amended by [S.I. 1988/542](https://www.legislation.gov.uk/uksi/1988/542) and [1989/329](https://www.legislation.gov.uk/uksi/1989/329).
+
+[^c5056111]: Marginal citation: [S.I. 1989/1319](https://www.legislation.gov.uk/uksi/1989/1319) as amended by [S.I. 1989/1541](https://www.legislation.gov.uk/uksi/1989/1541), [1990/1561](https://www.legislation.gov.uk/uksi/1990/1561), [1991/1134](https://www.legislation.gov.uk/uksi/1991/1134), [1991/1840](https://www.legislation.gov.uk/uksi/1991/1840), [1991/2240](https://www.legislation.gov.uk/uksi/1991/2240) and [1992/1809](https://www.legislation.gov.uk/uksi/1992/1809).
+
+[^c5056121]: Marginal citation: [S.I. 1993/543](https://www.legislation.gov.uk/uksi/1993/543) as amended by [S.I. 1997/368](https://www.legislation.gov.uk/uksi/1997/368), [1997/2679](https://www.legislation.gov.uk/uksi/1997/2679) and [1998/1584](https://www.legislation.gov.uk/uksi/1998/1584).
+
+[^c5056131]: Marginal citation: [S.I. 1999/2166](https://www.legislation.gov.uk/uksi/1999/2166) as amended by [S.I. 2000/2704](https://www.legislation.gov.uk/uksi/2000/2704), [2001/1391](https://www.legislation.gov.uk/uksi/2001/1391), [2001/2896](https://www.legislation.gov.uk/uksi/2001/2896), [2001/3737](https://www.legislation.gov.uk/uksi/2001/3737), [2002/1434](https://www.legislation.gov.uk/uksi/2002/1434) and [2003/107](https://www.legislation.gov.uk/uksi/2003/107).
+
+[^c5056141]: Marginal citation: [S.I. 2003/1663](https://www.legislation.gov.uk/uksi/2003/1663).
+
+[^key-7352b972d35905a817a8cb777ccaa7d3]: Textual amendment: Words in reg. 3 inserted (19.12.2016) by [The Education (School Teachers' Qualifications and Induction Arrangements and Special Educational Needs Co-ordinators) (Amendment) Regulations 2016 (S.I. 2016/1123)](https://www.legislation.gov.uk/uksi/2016/1123), [regs. 1](https://www.legislation.gov.uk/uksi/2016/1123/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2016/1123/regulation/2/2)
+
+[^key-fd8bc7e049c0877d3fa6fa892988a74c]: Textual amendment: Words in reg. 3 substituted (1.4.2012) by [The Education (School Teachers) (Qualifications and Appraisal) (Miscellaneous Amendments) (England) Regulations 2012 (S.I. 2012/431)](https://www.legislation.gov.uk/uksi/2012/431), [regs. 1](https://www.legislation.gov.uk/uksi/2012/431/regulation/1), [3](https://www.legislation.gov.uk/uksi/2012/431/regulation/3)
+
+[^key-97f43bd4bc485e56f73d64898c685491]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/uksi/2003/1662/regulation/3) inserted (20.10.2021) by [The Education (School Teachers’ Qualifications) (England) (Amendment) Regulations 2021 (S.I. 2021/1093)](https://www.legislation.gov.uk/uksi/2021/1093), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1093/regulation/1/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2021/1093/regulation/2/2/a)
+
+[^key-84c29e2d5af351e2b6587690a5d2debe]: Textual amendment: Word in [reg. 3](https://www.legislation.gov.uk/uksi/2003/1662/regulation/3) omitted (20.10.2021) by virtue of [The Education (School Teachers’ Qualifications) (England) (Amendment) Regulations 2021 (S.I. 2021/1093)](https://www.legislation.gov.uk/uksi/2021/1093), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1093/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2021/1093/regulation/2/2/b)
+
+[^key-6ae4b89a3e9fc616bfa28c2b273caa41]: Textual amendment: Reg. 5 substituted (1.4.2012) by [The Education (School Teachers) (Qualifications and Appraisal) (Miscellaneous Amendments) (England) Regulations 2012 (S.I. 2012/431)](https://www.legislation.gov.uk/uksi/2012/431), [regs. 1](https://www.legislation.gov.uk/uksi/2012/431/regulation/1), [4](https://www.legislation.gov.uk/uksi/2012/431/regulation/4)
+
+[^key-109e4509ce93f8f8b5ae82b150e899d8]: Textual amendment: Word in [reg. 5](https://www.legislation.gov.uk/uksi/2003/1662/regulation/5) substituted (1.12.2023) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286)](https://www.legislation.gov.uk/uksi/2023/1286), [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1), [Sch. 3 para. 4(2)](https://www.legislation.gov.uk/uksi/2023/1286/schedule/3/paragraph/4/2)
+
+[^key-bc5813f6d203f9502192539d1092f988]: Textual amendment: Reg. 9A inserted (19.12.2016) by [The Education (School Teachers' Qualifications and Induction Arrangements and Special Educational Needs Co-ordinators) (Amendment) Regulations 2016 (S.I. 2016/1123)](https://www.legislation.gov.uk/uksi/2016/1123), [regs. 1](https://www.legislation.gov.uk/uksi/2016/1123/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2016/1123/regulation/2/3)
+
+[^key-08f6650d4e346280249b49ecc190c73d]: Textual amendment: Reg. 10 omitted (1.4.2012) by virtue of [The Education (School Teachers) (Qualifications and Appraisal) (Miscellaneous Amendments) (England) Regulations 2012 (S.I. 2012/431)](https://www.legislation.gov.uk/uksi/2012/431), [regs. 1](https://www.legislation.gov.uk/uksi/2012/431/regulation/1), [5](https://www.legislation.gov.uk/uksi/2012/431/regulation/5)
+
+[^key-863473983c8f458d953506a2c5c5ddda]: Textual amendment: Reg. 11 substituted (1.4.2012) by [The Education (School Teachers) (Qualifications and Appraisal) (Miscellaneous Amendments) (England) Regulations 2012 (S.I. 2012/431)](https://www.legislation.gov.uk/uksi/2012/431), [regs. 1](https://www.legislation.gov.uk/uksi/2012/431/regulation/1), [6](https://www.legislation.gov.uk/uksi/2012/431/regulation/6)
+
+[^c5056151]: Marginal citation: [S.I. 1959/365](https://www.legislation.gov.uk/uksi/1959/365) as amended by [S.I. 1968/1281](https://www.legislation.gov.uk/uksi/1968/1281) and [1971/342](https://www.legislation.gov.uk/uksi/1971/342).
+
+[^key-fa4f692630795d4045709f1df3eae7e7]: Textual amendment: Sch. 1 para. 4A inserted (1.4.2012) by [The Education (School Teachers) (Qualifications and Appraisal) (Miscellaneous Amendments) (England) Regulations 2012 (S.I. 2012/431)](https://www.legislation.gov.uk/uksi/2012/431), [regs. 1](https://www.legislation.gov.uk/uksi/2012/431/regulation/1), [7](https://www.legislation.gov.uk/uksi/2012/431/regulation/7)
+
+[^key-22f6128ac6fc8c7e19b1871bc51d3381]: Textual amendment: Words in [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2003/1662/schedule/2/paragraph/1) omitted (31.12.2020) by virtue of [The Recognition of Professional Qualifications (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/312)](https://www.legislation.gov.uk/uksi/2019/312), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/312/regulation/1/3), [Sch. 2 para. 1(2)](https://www.legislation.gov.uk/uksi/2019/312/schedule/2/paragraph/1/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-0fe5edf5d7b8d97ff1fe20836d7a16e6]: Textual amendment: Words in Sch. 2 para. 1 inserted (1.4.2012) by [The Education (School Teachers) (Qualifications and Appraisal) (Miscellaneous Amendments) (England) Regulations 2012 (S.I. 2012/431)](https://www.legislation.gov.uk/uksi/2012/431), [regs. 1](https://www.legislation.gov.uk/uksi/2012/431/regulation/1), [8(a)](https://www.legislation.gov.uk/uksi/2012/431/regulation/8/a)
+
+[^key-8e70c32dce41a718be225362da3ca0bb]: Textual amendment: Words in Sch. 2 para. 1 inserted (21.5.2020) by [The Education (School Teachers' Qualifications and Induction Arrangements) (England) (Coronavirus) (Amendment) Regulations 2020 (S.I. 2020/464)](https://www.legislation.gov.uk/uksi/2020/464), [regs. 1](https://www.legislation.gov.uk/uksi/2020/464/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2020/464/regulation/2/2)
+
+[^key-033aa9ff698e53f14f80aeb218246495]: Textual amendment: Words in [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2003/1662/schedule/2/paragraph/1) inserted (1.2.2023) by [The Education (School Teachers’ Qualifications and Induction Arrangements) (Amendment) (England) Regulations 2022 (S.I. 2022/1256)](https://www.legislation.gov.uk/uksi/2022/1256), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1256/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2022/1256/regulation/3/2)
+
+[^key-b8b939c86a139b33114495b9eb90e7f2]: Textual amendment: Words in [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2003/1662/schedule/2/paragraph/1) substituted (25.6.2020) by [The Teachers Skills Test (England) (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/476)](https://www.legislation.gov.uk/uksi/2020/476), [regs. 1](https://www.legislation.gov.uk/uksi/2020/476/regulation/1), [2(a)](https://www.legislation.gov.uk/uksi/2020/476/regulation/2/a)
+
+[^key-64cd68a8d3af2638c14f3d0a3f109580]: Textual amendment: [Sch. 2 para. 1A](https://www.legislation.gov.uk/uksi/2003/1662/schedule/2/paragraph/1A) inserted (25.6.2020) by [The Teachers Skills Test (England) (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/476)](https://www.legislation.gov.uk/uksi/2020/476), [regs. 1](https://www.legislation.gov.uk/uksi/2020/476/regulation/1), [2(b)](https://www.legislation.gov.uk/uksi/2020/476/regulation/2/b)
+
+[^key-0270e1466aa55f7949997f94104bb427]: Textual amendment: [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2003/1662/schedule/2/paragraph/3) substituted (1.2.2023) by [The Education (School Teachers’ Qualifications and Induction Arrangements) (Amendment) (England) Regulations 2022 (S.I. 2022/1256)](https://www.legislation.gov.uk/uksi/2022/1256), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1256/regulation/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2022/1256/regulation/3/3)
+
+[^key-a2d5804037326f1ae0cb45d60bda8019]: Textual amendment: Words in [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2003/1662/schedule/2/paragraph/4) substituted (1.2.2023) by [The Education (School Teachers’ Qualifications and Induction Arrangements) (Amendment) (England) Regulations 2022 (S.I. 2022/1256)](https://www.legislation.gov.uk/uksi/2022/1256), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1256/regulation/1/1), [3(4)](https://www.legislation.gov.uk/uksi/2022/1256/regulation/3/4)
+
+[^key-94d3a49413c698a6ecc75b78e97aa6c9]: Textual amendment: [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2003/1662/schedule/2/paragraph/5) substituted (1.2.2023) by [The Education (School Teachers’ Qualifications and Induction Arrangements) (Amendment) (England) Regulations 2022 (S.I. 2022/1256)](https://www.legislation.gov.uk/uksi/2022/1256), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1256/regulation/1/1), [3(5)](https://www.legislation.gov.uk/uksi/2022/1256/regulation/3/5)
+
+[^key-59e8d650a746f7d7986789e58b38891a]: Textual amendment: Sch. 2 para. 6 substituted (1.1.2010) by [The Education (School Teachers’ Qualifications) (England) (Amendment) Regulations 2009 (S.I. 2009/3156)](https://www.legislation.gov.uk/uksi/2009/3156), [regs. 1](https://www.legislation.gov.uk/uksi/2009/3156/regulation/1), [5](https://www.legislation.gov.uk/uksi/2009/3156/regulation/5)
+
+[^key-0f33e344467458c86170cfc0aed08f2e]: Textual amendment: Word in [Sch. 2 para. 6(a)](https://www.legislation.gov.uk/uksi/2003/1662/schedule/2/paragraph/6/a) omitted (1.2.2023) by virtue of [The Education (School Teachers’ Qualifications and Induction Arrangements) (Amendment) (England) Regulations 2022 (S.I. 2022/1256)](https://www.legislation.gov.uk/uksi/2022/1256), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1256/regulation/1/1), [3(6)(a)](https://www.legislation.gov.uk/uksi/2022/1256/regulation/3/6/a)
+
+[^key-c8651f85f0458a6a4cceb4644d2a46a1]: Textual amendment: [Sch. 2 para. 6(c)](https://www.legislation.gov.uk/uksi/2003/1662/schedule/2/paragraph/6/c) and word inserted (1.2.2023) by [The Education (School Teachers’ Qualifications and Induction Arrangements) (Amendment) (England) Regulations 2022 (S.I. 2022/1256)](https://www.legislation.gov.uk/uksi/2022/1256), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1256/regulation/1/1), [3(6)(b)](https://www.legislation.gov.uk/uksi/2022/1256/regulation/3/6/b)
+
+[^key-08243cf96b2f5dcf79f34e538968c1fb]: Textual amendment: [Sch. 2 para. 7](https://www.legislation.gov.uk/uksi/2003/1662/schedule/2/paragraph/7) renumbered as Sch. 2 para. 7(1) (21.5.2020) by virtue of [The Education (School Teachers' Qualifications and Induction Arrangements) (England) (Coronavirus) (Amendment) Regulations 2020 (S.I. 2020/464)](https://www.legislation.gov.uk/uksi/2020/464), [regs. 1](https://www.legislation.gov.uk/uksi/2020/464/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2020/464/regulation/2/3)
+
+[^key-63bbcd7c4b9f1b5286edb4b67e236790]: Textual amendment: Words in [Sch. 2 para. 7(1)(b)](https://www.legislation.gov.uk/uksi/2003/1662/schedule/2/paragraph/7/1/b) substituted (1.2.2023) by [The Education (School Teachers’ Qualifications and Induction Arrangements) (Amendment) (England) Regulations 2022 (S.I. 2022/1256)](https://www.legislation.gov.uk/uksi/2022/1256), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1256/regulation/1/1), [3(7)](https://www.legislation.gov.uk/uksi/2022/1256/regulation/3/7)
+
+[^key-835bc172a5478a01f995b4d9cfbe47fc]: Textual amendment: [Sch. 2 para. 7(1)(c)](https://www.legislation.gov.uk/uksi/2003/1662/schedule/2/paragraph/7/1/c) renumbered as Sch. 2 para. 7(1)(c)(i) (21.5.2020) by virtue of [The Education (School Teachers' Qualifications and Induction Arrangements) (England) (Coronavirus) (Amendment) Regulations 2020 (S.I. 2020/464)](https://www.legislation.gov.uk/uksi/2020/464), [regs. 1](https://www.legislation.gov.uk/uksi/2020/464/regulation/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/2020/464/regulation/2/4/a)
+
+[^key-78a5b9c91914d1d984dac351b174f9e0]: Textual amendment: Words in [Sch. 2 para. 7(1)(c)(i)](https://www.legislation.gov.uk/uksi/2003/1662/schedule/2/paragraph/7/1/c/i) substituted (20.10.2021) by [The Education (School Teachers’ Qualifications) (England) (Amendment) Regulations 2021 (S.I. 2021/1093)](https://www.legislation.gov.uk/uksi/2021/1093), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1093/regulation/1/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2021/1093/regulation/2/3/a)
+
+[^key-503ece549265b770b6f5ab02c26a292a]: Textual amendment: Words in Sch. 2 para. 7(c) omitted (1.9.2012) by virtue of [The Education (School Teachers) (Qualifications and Specified Work) (Miscellaneous Amendments) (England) Regulations 2012 (S.I. 2012/1736)](https://www.legislation.gov.uk/uksi/2012/1736), [regs. 1](https://www.legislation.gov.uk/uksi/2012/1736/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2012/1736/regulation/2/2/a)
+
+[^key-37fd00bece6a1777209bebb84b63100f]: Textual amendment: Words in Sch. 2 para. 7(c) inserted (1.1.2010) by [The Education (School Teachers’ Qualifications) (England) (Amendment) Regulations 2009 (S.I. 2009/3156)](https://www.legislation.gov.uk/uksi/2009/3156), [regs. 1](https://www.legislation.gov.uk/uksi/2009/3156/regulation/1), [6](https://www.legislation.gov.uk/uksi/2009/3156/regulation/6)
+
+[^key-a29cbb847266d2c3e49c5caf4f6cca17]: Textual amendment: Word in Sch. 2 para. 7(1)(c)(i) substituted (21.5.2020) by [The Education (School Teachers' Qualifications and Induction Arrangements) (England) (Coronavirus) (Amendment) Regulations 2020 (S.I. 2020/464)](https://www.legislation.gov.uk/uksi/2020/464), [regs. 1](https://www.legislation.gov.uk/uksi/2020/464/regulation/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/2020/464/regulation/2/4/b)
+
+[^key-eb62816910fd7cc76c425055d8c3d65b]: Textual amendment: Sch. 2 para. 7(1)(c)(ii) inserted (21.5.2020) by [The Education (School Teachers' Qualifications and Induction Arrangements) (England) (Coronavirus) (Amendment) Regulations 2020 (S.I. 2020/464)](https://www.legislation.gov.uk/uksi/2020/464), [regs. 1](https://www.legislation.gov.uk/uksi/2020/464/regulation/1), [2(4)(c)](https://www.legislation.gov.uk/uksi/2020/464/regulation/2/4/c)
+
+[^key-462c8a65ac68e454d6cbb12964a7e4c7]: Textual amendment: Word in [Sch. 2 para. 7(1)(c)(ii)](https://www.legislation.gov.uk/uksi/2003/1662/schedule/2/paragraph/7/1/c/ii) substituted (19.4.2021) by [The Education (Coronavirus) (School Teachers’ Qualifications, Induction, Inspection Arrangements, Etc) (Amendment) Regulations 2021 (S.I. 2021/385)](https://www.legislation.gov.uk/uksi/2021/385), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/385/regulation/1/2), [2(3)(a)](https://www.legislation.gov.uk/uksi/2021/385/regulation/2/3/a)
+
+[^key-96b98cabf98c3189b7511bbb7ec16cb6]: Textual amendment: [Sch. 2 para. 7(1)(d)](https://www.legislation.gov.uk/uksi/2003/1662/schedule/2/paragraph/7/1/d) renumbered as Sch. 2 para. 7(1)(d)(i) (21.5.2020) by virtue of [The Education (School Teachers' Qualifications and Induction Arrangements) (England) (Coronavirus) (Amendment) Regulations 2020 (S.I. 2020/464)](https://www.legislation.gov.uk/uksi/2020/464), [regs. 1](https://www.legislation.gov.uk/uksi/2020/464/regulation/1), [2(4)(d)](https://www.legislation.gov.uk/uksi/2020/464/regulation/2/4/d)
+
+[^key-9a52811ffe17eea74dfeeeca2e8d4938]: Textual amendment: Word in Sch. 2 para. 7(1)(d)(i) inserted (21.5.2020) by [The Education (School Teachers' Qualifications and Induction Arrangements) (England) (Coronavirus) (Amendment) Regulations 2020 (S.I. 2020/464)](https://www.legislation.gov.uk/uksi/2020/464), [regs. 1](https://www.legislation.gov.uk/uksi/2020/464/regulation/1), [2(4)(e)](https://www.legislation.gov.uk/uksi/2020/464/regulation/2/4/e)
+
+[^key-75cf98952c7c0e9838eb09ac39a5d618]: Textual amendment: Sch. 2 para. 7(1)(d)(ii) inserted (21.5.2020) by [The Education (School Teachers' Qualifications and Induction Arrangements) (England) (Coronavirus) (Amendment) Regulations 2020 (S.I. 2020/464)](https://www.legislation.gov.uk/uksi/2020/464), [regs. 1](https://www.legislation.gov.uk/uksi/2020/464/regulation/1), [2(4)(f)](https://www.legislation.gov.uk/uksi/2020/464/regulation/2/4/f)
+
+[^key-89ef2534886db35b4ad3d5d605dfc3d8]: Textual amendment: Word in [Sch. 2 para. 7(1)(d)(ii)](https://www.legislation.gov.uk/uksi/2003/1662/schedule/2/paragraph/7/1/d/ii) substituted (19.4.2021) by [The Education (Coronavirus) (School Teachers’ Qualifications, Induction, Inspection Arrangements, Etc) (Amendment) Regulations 2021 (S.I. 2021/385)](https://www.legislation.gov.uk/uksi/2021/385), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/385/regulation/1/2), [2(3)(a)](https://www.legislation.gov.uk/uksi/2021/385/regulation/2/3/a)
+
+[^key-0e683ec16cfddc17bdca1a6396acd5d0]: Textual amendment: Sch. 2 para. 7A inserted (1.1.2010) by [The Education (School Teachers’ Qualifications) (England) (Amendment) Regulations 2009 (S.I. 2009/3156)](https://www.legislation.gov.uk/uksi/2009/3156), [regs. 1](https://www.legislation.gov.uk/uksi/2009/3156/regulation/1), [7](https://www.legislation.gov.uk/uksi/2009/3156/regulation/7)
+
+[^key-9fc2db411d2befeb039a3de26440bda6]: Textual amendment: Sch. 2 para. 8 substituted (31.12.2020) by [The Recognition of Professional Qualifications (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/312)](https://www.legislation.gov.uk/uksi/2019/312), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/312/regulation/1/3), [Sch. 2 para. 1(3)](https://www.legislation.gov.uk/uksi/2019/312/schedule/2/paragraph/1/3) (as amended by [S.I. 2020/1038](https://www.legislation.gov.uk/uksi/2020/1038), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1038/regulation/1/3), [Sch. 1 para. 4(a)](https://www.legislation.gov.uk/uksi/2020/1038/schedule/1/paragraph/4/a)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-5465a039637619c9604a07cfb081b0f0]: Textual amendment: Word in [Sch. 2 para. 8(1)(d)](https://www.legislation.gov.uk/uksi/2003/1662/schedule/2/paragraph/8/1/d) substituted (1.12.2023) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286)](https://www.legislation.gov.uk/uksi/2023/1286), [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1), [Sch. 4 para. 1(2)(a)(i)](https://www.legislation.gov.uk/uksi/2023/1286/schedule/4/paragraph/1/2/a/i)
+
+[^key-cb8ec9bd977de1fd7d0a9f4d1c5c0b17]: Textual amendment: [Sch. 2 para. 8(1)(e)](https://www.legislation.gov.uk/uksi/2003/1662/schedule/2/paragraph/8/1/e) inserted (1.12.2023) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286)](https://www.legislation.gov.uk/uksi/2023/1286), [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1), [Sch. 4 para. 1(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2023/1286/schedule/4/paragraph/1/2/a/ii)
+
+[^key-1cc0a74ef9d2a9a07f92791fa4dbd367]: Textual amendment: Sch. 2 para. 8A inserted (19.12.2016) by [The Education (School Teachers' Qualifications and Induction Arrangements and Special Educational Needs Co-ordinators) (Amendment) Regulations 2016 (S.I. 2016/1123)](https://www.legislation.gov.uk/uksi/2016/1123), [regs. 1](https://www.legislation.gov.uk/uksi/2016/1123/regulation/1), [2(5)](https://www.legislation.gov.uk/uksi/2016/1123/regulation/2/5)
+
+[^key-c9327e0df2fc5313ede990a513c6cb6c]: Textual amendment: Sch. 2 para. 8A(1)(a) substituted (31.12.2020) by [The Recognition of Professional Qualifications (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/312)](https://www.legislation.gov.uk/uksi/2019/312), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/312/regulation/1/3), [Sch. 2 para. 1(4)](https://www.legislation.gov.uk/uksi/2019/312/schedule/2/paragraph/1/4) (as amended by [S.I. 2020/1038](https://www.legislation.gov.uk/uksi/2020/1038), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1038/regulation/1/3), [Sch. 1 para. 4(b)](https://www.legislation.gov.uk/uksi/2020/1038/schedule/1/paragraph/4/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-57ef792b09352ab12ad7b4d2387df506]: Textual amendment: Word in [Sch. 2 para. 8A(1)(a)(ii)](https://www.legislation.gov.uk/uksi/2003/1662/schedule/2/paragraph/8A/1/a/ii) omitted (1.12.2023) by virtue of [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286)](https://www.legislation.gov.uk/uksi/2023/1286), [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1), [Sch. 4 para. 1(2)(b)(i)](https://www.legislation.gov.uk/uksi/2023/1286/schedule/4/paragraph/1/2/b/i)
+
+[^key-aa9d8105e662070ab479cde4877d5766]: Textual amendment: [Sch. 2 para. 8A(1)(iv)](https://www.legislation.gov.uk/uksi/2003/1662/schedule/2/paragraph/8A/1/iv) inserted (1.12.2023) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286)](https://www.legislation.gov.uk/uksi/2023/1286), [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1), [Sch. 4 para. 1(2)(b)(iii)](https://www.legislation.gov.uk/uksi/2023/1286/schedule/4/paragraph/1/2/b/iii)
+
+[^key-36d7c629fabd0f7ad492aa0f22109ce6]: Textual amendment: Words in Sch. 2 para. 9(1) inserted (1.4.2012) by [The Education (School Teachers) (Qualifications and Appraisal) (Miscellaneous Amendments) (England) Regulations 2012 (S.I. 2012/431)](https://www.legislation.gov.uk/uksi/2012/431), [regs. 1](https://www.legislation.gov.uk/uksi/2012/431/regulation/1), [8(b)](https://www.legislation.gov.uk/uksi/2012/431/regulation/8/b)
+
+[^key-58459e62cf55ff3348245d71f5d6cec0]: Textual amendment: Words in Sch. 2 para. 9(3) inserted (1.4.2012) by [The Education (School Teachers) (Qualifications and Appraisal) (Miscellaneous Amendments) (England) Regulations 2012 (S.I. 2012/431)](https://www.legislation.gov.uk/uksi/2012/431), [regs. 1](https://www.legislation.gov.uk/uksi/2012/431/regulation/1), [8(c)](https://www.legislation.gov.uk/uksi/2012/431/regulation/8/c)
+
+[^key-9e29b29f69cbb088eec0d55a9bae8e66]: Textual amendment: Sch. 2 para. 10(1)(b)(i): Sch. 2 para. 10(1)(b) renumbered as Sch. 2 para. 10(1)(b)(i) (21.5.2020) by virtue of [The Education (School Teachers' Qualifications and Induction Arrangements) (England) (Coronavirus) (Amendment) Regulations 2020 (S.I. 2020/464)](https://www.legislation.gov.uk/uksi/2020/464), [regs. 1](https://www.legislation.gov.uk/uksi/2020/464/regulation/1), [2(5)(a)](https://www.legislation.gov.uk/uksi/2020/464/regulation/2/5/a)
+
+[^key-bf0ab12f82ec787cf3b5892518c2ee13]: Textual amendment: Words in Sch. 2 para. 10(1)(b) substituted (1.4.2012) by [The Education (School Teachers) (Qualifications and Appraisal) (Miscellaneous Amendments) (England) Regulations 2012 (S.I. 2012/431)](https://www.legislation.gov.uk/uksi/2012/431), [regs. 1](https://www.legislation.gov.uk/uksi/2012/431/regulation/1), [8(d)(i)](https://www.legislation.gov.uk/uksi/2012/431/regulation/8/d/i)
+
+[^key-22e913d58c1c8f13090f00339f61f07c]: Textual amendment: Word in Sch. 2 para. 10(1)(b)(i) inserted (21.5.2020) by [The Education (School Teachers' Qualifications and Induction Arrangements) (England) (Coronavirus) (Amendment) Regulations 2020 (S.I. 2020/464)](https://www.legislation.gov.uk/uksi/2020/464), [regs. 1](https://www.legislation.gov.uk/uksi/2020/464/regulation/1), [2(5)(b)](https://www.legislation.gov.uk/uksi/2020/464/regulation/2/5/b)
+
+[^key-2ecda525c7677b6fe89ce1935a8a4841]: Textual amendment: Sch. 2 para. 10(1)(b)(ii) inserted (21.5.2020) by [The Education (School Teachers' Qualifications and Induction Arrangements) (England) (Coronavirus) (Amendment) Regulations 2020 (S.I. 2020/464)](https://www.legislation.gov.uk/uksi/2020/464), [regs. 1](https://www.legislation.gov.uk/uksi/2020/464/regulation/1), [2(5)(c)](https://www.legislation.gov.uk/uksi/2020/464/regulation/2/5/c)
+
+[^key-f7a6334e4e6cc2bcb31222667fc01c73]: Textual amendment: Word in [Sch. 2 para. 10(1)(b)(ii)](https://www.legislation.gov.uk/uksi/2003/1662/schedule/2/paragraph/10/1/b/ii) substituted (19.4.2021) by [The Education (Coronavirus) (School Teachers’ Qualifications, Induction, Inspection Arrangements, Etc) (Amendment) Regulations 2021 (S.I. 2021/385)](https://www.legislation.gov.uk/uksi/2021/385), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/385/regulation/1/2), [2(3)(a)](https://www.legislation.gov.uk/uksi/2021/385/regulation/2/3/a)
+
+[^key-5b39e345d4643456cd2aae1c0d988fa9]: Textual amendment: Sch. 2 para. 10(2)(4) omitted (1.4.2012) by virtue of [The Education (School Teachers) (Qualifications and Appraisal) (Miscellaneous Amendments) (England) Regulations 2012 (S.I. 2012/431)](https://www.legislation.gov.uk/uksi/2012/431), [regs. 1](https://www.legislation.gov.uk/uksi/2012/431/regulation/1), [8(d)(ii)](https://www.legislation.gov.uk/uksi/2012/431/regulation/8/d/ii)
+
+[^key-66cf6561ac5ce81f26072e13b7859b32]: Textual amendment: Words in [Sch. 2 para. 10(3)](https://www.legislation.gov.uk/uksi/2003/1662/schedule/2/paragraph/10/3) substituted (20.10.2021) by [The Education (School Teachers’ Qualifications) (England) (Amendment) Regulations 2021 (S.I. 2021/1093)](https://www.legislation.gov.uk/uksi/2021/1093), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1093/regulation/1/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2021/1093/regulation/2/3/a)
+
+[^key-65615423b40a4655659e657c5b08fa07]: Textual amendment: Words in Sch. 2 para. 10(3) omitted (1.9.2012) by virtue of [The Education (School Teachers) (Qualifications and Specified Work) (Miscellaneous Amendments) (England) Regulations 2012 (S.I. 2012/1736)](https://www.legislation.gov.uk/uksi/2012/1736), [regs. 1](https://www.legislation.gov.uk/uksi/2012/1736/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2012/1736/regulation/2/2/b)
+
+[^key-1ca27cf511ac91d62143681a8744ebd3]: Textual amendment: Words in Sch. 2 para. 11 substituted (1.1.2010) by [The Education (School Teachers’ Qualifications) (England) (Amendment) Regulations 2009 (S.I. 2009/3156)](https://www.legislation.gov.uk/uksi/2009/3156), [regs. 1](https://www.legislation.gov.uk/uksi/2009/3156/regulation/1), [8(a)](https://www.legislation.gov.uk/uksi/2009/3156/regulation/8/a)
+
+[^key-e9995277b2a361e66348ffba0b12a1a1]: Textual amendment: Words in [Sch. 2 para. 11(1)](https://www.legislation.gov.uk/uksi/2003/1662/schedule/2/paragraph/11/1) substituted (1.2.2023) by [The Education (School Teachers’ Qualifications and Induction Arrangements) (Amendment) (England) Regulations 2022 (S.I. 2022/1256)](https://www.legislation.gov.uk/uksi/2022/1256), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1256/regulation/1/1), [3(8)](https://www.legislation.gov.uk/uksi/2022/1256/regulation/3/8)
+
+[^key-35d1c727daa2be829d262def5f3519e9]: Textual amendment: Words in Sch. 2 para. 11(1) inserted (1.4.2012) by [The Education (School Teachers) (Qualifications and Appraisal) (Miscellaneous Amendments) (England) Regulations 2012 (S.I. 2012/431)](https://www.legislation.gov.uk/uksi/2012/431), [regs. 1](https://www.legislation.gov.uk/uksi/2012/431/regulation/1), [8(e)](https://www.legislation.gov.uk/uksi/2012/431/regulation/8/e)
+
+[^key-8af28118407b09c5941171ebc4e6192f]: Textual amendment: Word in Sch. 2 para. 11(3)(a) inserted (1.1.2010) by [The Education (School Teachers’ Qualifications) (England) (Amendment) Regulations 2009 (S.I. 2009/3156)](https://www.legislation.gov.uk/uksi/2009/3156), [regs. 1](https://www.legislation.gov.uk/uksi/2009/3156/regulation/1), [8(b)(i)](https://www.legislation.gov.uk/uksi/2009/3156/regulation/8/b/i)
+
+[^key-af43e27c57b23a84d881f99ee2c6c2aa]: Textual amendment: Sch. 2 para. 11(3)(b) omitted (1.1.2010) by virtue of [The Education (School Teachers’ Qualifications) (England) (Amendment) Regulations 2009 (S.I. 2009/3156)](https://www.legislation.gov.uk/uksi/2009/3156), [regs. 1](https://www.legislation.gov.uk/uksi/2009/3156/regulation/1), [8(b)(ii)](https://www.legislation.gov.uk/uksi/2009/3156/regulation/8/b/ii)
+
+[^key-00eaae717366a8723080c62d3af61e05]: Textual amendment: Words in [Sch. 2 para. 11(3)(c)](https://www.legislation.gov.uk/uksi/2003/1662/schedule/2/paragraph/11/3/c) substituted (20.10.2021) by [The Education (School Teachers’ Qualifications) (England) (Amendment) Regulations 2021 (S.I. 2021/1093)](https://www.legislation.gov.uk/uksi/2021/1093), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1093/regulation/1/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2021/1093/regulation/2/3/b)
+
+[^key-7cfec99b44c0d55d32311371fc415598]: Textual amendment: Word in [Sch. 2 para. 11(4)(c)](https://www.legislation.gov.uk/uksi/2003/1662/schedule/2/paragraph/11/4/c) omitted (20.10.2021) by virtue of [The Education (School Teachers’ Qualifications) (England) (Amendment) Regulations 2021 (S.I. 2021/1093)](https://www.legislation.gov.uk/uksi/2021/1093), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1093/regulation/1/1), [2(3)(c)(i)](https://www.legislation.gov.uk/uksi/2021/1093/regulation/2/3/c/i)
+
+[^key-af224ea111434ca2695c2993d4a9cc97]: Textual amendment: Words in [Sch. 2 para. 11(4)(c)](https://www.legislation.gov.uk/uksi/2003/1662/schedule/2/paragraph/11/4/c) substituted (20.10.2021) by [The Education (School Teachers’ Qualifications) (England) (Amendment) Regulations 2021 (S.I. 2021/1093)](https://www.legislation.gov.uk/uksi/2021/1093), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1093/regulation/1/1), [2(3)(c)(ii)](https://www.legislation.gov.uk/uksi/2021/1093/regulation/2/3/c/ii)
+
+[^key-a16853eaae4a8a03a673836cdd92a50e]: Textual amendment: Sch. 2 paras. 13A, 13B inserted (1.4.2012) by [The Education (School Teachers) (Qualifications and Appraisal) (Miscellaneous Amendments) (England) Regulations 2012 (S.I. 2012/431)](https://www.legislation.gov.uk/uksi/2012/431), [regs. 1](https://www.legislation.gov.uk/uksi/2012/431/regulation/1), [8(f)](https://www.legislation.gov.uk/uksi/2012/431/regulation/8/f)
+
+[^key-164c2683d1781759e0d6b38351b86faa]: Textual amendment: Words in [Sch. 2 para. 13A(1)(a)](https://www.legislation.gov.uk/uksi/2003/1662/schedule/2/paragraph/13A/1/a) substituted (1.5.2021) by [The Education (Coronavirus) (School Teachers’ Qualifications, Induction, Inspection Arrangements, Etc) (Amendment) Regulations 2021 (S.I. 2021/385)](https://www.legislation.gov.uk/uksi/2021/385), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2021/385/regulation/1/3), [2(3)(b)(i)](https://www.legislation.gov.uk/uksi/2021/385/regulation/2/3/b/i)
+
+[^key-56469d25231c598a2c9e2f0e9b8c7e4c]: Textual amendment: [Sch. 2 para. 13A(1)(b)](https://www.legislation.gov.uk/uksi/2003/1662/schedule/2/paragraph/13A/1/b) substituted (1.5.2021) by [The Education (Coronavirus) (School Teachers’ Qualifications, Induction, Inspection Arrangements, Etc) (Amendment) Regulations 2021 (S.I. 2021/385)](https://www.legislation.gov.uk/uksi/2021/385), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2021/385/regulation/1/3), [2(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2021/385/regulation/2/3/b/ii)
+
+[^key-f95642bdf22ebd684fabecfdaa506b64]: Textual amendment: Word in [Sch. 2 para. 13A(1)(b)](https://www.legislation.gov.uk/uksi/2003/1662/schedule/2/paragraph/13A/1/b) omitted (1.2.2023) by virtue of [The Education (School Teachers’ Qualifications and Induction Arrangements) (Amendment) (England) Regulations 2022 (S.I. 2022/1256)](https://www.legislation.gov.uk/uksi/2022/1256), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1256/regulation/1/1), [3(9)(a)](https://www.legislation.gov.uk/uksi/2022/1256/regulation/3/9/a)
+
+[^key-d0305ae90c08280cf8ac903c6ec3a55a]: Textual amendment: [Sch. 2 para. 13A(1)(d)](https://www.legislation.gov.uk/uksi/2003/1662/schedule/2/paragraph/13A/1/d) and word inserted (1.2.2023) by [The Education (School Teachers’ Qualifications and Induction Arrangements) (Amendment) (England) Regulations 2022 (S.I. 2022/1256)](https://www.legislation.gov.uk/uksi/2022/1256), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1256/regulation/1/1), [3(9)(b)](https://www.legislation.gov.uk/uksi/2022/1256/regulation/3/9/b)
+
+[^key-dd3dcd91ceeaeb6f43e8660e1246ca89]: Textual amendment: Words in [Sch. 2 para. 13A(3)(a)](https://www.legislation.gov.uk/uksi/2003/1662/schedule/2/paragraph/13A/3/a) inserted (1.5.2021) by [The Education (Coronavirus) (School Teachers’ Qualifications, Induction, Inspection Arrangements, Etc) (Amendment) Regulations 2021 (S.I. 2021/385)](https://www.legislation.gov.uk/uksi/2021/385), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2021/385/regulation/1/3), [2(3)(b)(iii)](https://www.legislation.gov.uk/uksi/2021/385/regulation/2/3/b/iii)
+
+[^key-7d1045bd4eac5f5c716fe4f3423d6bf9]: Textual amendment: Words in [Sch. 2 para. 13A(3)(b)](https://www.legislation.gov.uk/uksi/2003/1662/schedule/2/paragraph/13A/3/b) inserted (25.6.2020) by [The Teachers Skills Test (England) (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/476)](https://www.legislation.gov.uk/uksi/2020/476), [regs. 1](https://www.legislation.gov.uk/uksi/2020/476/regulation/1), [2(c)](https://www.legislation.gov.uk/uksi/2020/476/regulation/2/c)
+
+[^key-3fceb67846a17cfdbca99e6b017a9e50]: Textual amendment: [Sch. 2 para. 13A(4)](https://www.legislation.gov.uk/uksi/2003/1662/schedule/2/paragraph/13A/4) substituted (1.5.2021) by [The Education (Coronavirus) (School Teachers’ Qualifications, Induction, Inspection Arrangements, Etc) (Amendment) Regulations 2021 (S.I. 2021/385)](https://www.legislation.gov.uk/uksi/2021/385), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2021/385/regulation/1/3), [2(3)(b)(iv)](https://www.legislation.gov.uk/uksi/2021/385/regulation/2/3/b/iv)
+
+[^key-8c20a2caf15bcc10e13391dbb8378ca5]: Textual amendment: Sch. 2 para. 13B substituted (1.11.2014) by [The Education (School Teachers' Qualifications) (England) (Amendment) Regulations 2014 (S.I. 2014/2697)](https://www.legislation.gov.uk/uksi/2014/2697), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/2697/regulation/1), [3](https://www.legislation.gov.uk/uksi/2014/2697/regulation/3)
+
+[^key-285bdc69b20f7ca49d4e6b5f453ae872]: Textual amendment: [Sch. 2 para. 13C](https://www.legislation.gov.uk/uksi/2003/1662/schedule/2/paragraph/13C) inserted (1.5.2021) by [The Education (Coronavirus) (School Teachers’ Qualifications, Induction, Inspection Arrangements, Etc) (Amendment) Regulations 2021 (S.I. 2021/385)](https://www.legislation.gov.uk/uksi/2021/385), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2021/385/regulation/1/3), [2(3)(c)](https://www.legislation.gov.uk/uksi/2021/385/regulation/2/3/c)
+
+[^key-a2b884120c12906f6a1a2bff0c3be795]: Textual amendment: [Sch. 2 paras. 13D](https://www.legislation.gov.uk/uksi/2003/1662/schedule/2/paragraph/13D), [13E](https://www.legislation.gov.uk/uksi/2003/1662/schedule/2/paragraph/13E) inserted (1.2.2023) by [The Education (School Teachers’ Qualifications and Induction Arrangements) (Amendment) (England) Regulations 2022 (S.I. 2022/1256)](https://www.legislation.gov.uk/uksi/2022/1256), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1256/regulation/1/1), [3(10)](https://www.legislation.gov.uk/uksi/2022/1256/regulation/3/10)
+
+[^key-5b4b8303a01c59070fde8529780a30dd]: Textual amendment: [Sch. 2 para. 13F](https://www.legislation.gov.uk/uksi/2003/1662/schedule/2/paragraph/13F) inserted (1.12.2023) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286)](https://www.legislation.gov.uk/uksi/2023/1286), [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1), [Sch. 3 para. 4(3)](https://www.legislation.gov.uk/uksi/2023/1286/schedule/3/paragraph/4/3)

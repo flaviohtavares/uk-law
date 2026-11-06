@@ -1,0 +1,23 @@
+---
+title: National Health Service (Scotland) Act 1978, section 81
+act: National Health Service (Scotland) Act 1978
+section: '81'
+status: revised-with-pending-changes
+text_date: '2026-07-22'
+extent: S
+source_url: https://www.legislation.gov.uk/ukpga/1978/29/section/81
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# National Health Service (Scotland) Act 1978, section 81
+
+> **Warning: changes not yet applied to this text (106).** Text as at 2026-07-22. See https://www.legislation.gov.uk/changes/affected/ukpga/1978/29
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 81. Power of voluntary organisations to transfer property to Secretary of State.
+
+*Extent: S*
+
+Notwithstanding anything contained in the constitution or rules of any voluntary organisation formed for the purpose of providing a service of nurses for attendance on the sick in their own home or of midwives, or in any trust deed or other instrument relating to any such organisation or service, any property vested in the organisation or held by any persons on trust for the organisation or service or for any specific purposes connected with the organisation or service may be transferred to the Secretary of State on such terms as may be agreed between the Secretary of State and the organisation or trustees, with a view to the property being used or held by the Secretary of State for purposes similar to the purposes for which it was previously used or held.

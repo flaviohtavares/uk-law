@@ -1,0 +1,126 @@
+---
+title: The Police Pensions (Amendment) Regulations 1991
+id: uksi/1991/1517
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '1991-07-01'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1991/1517
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1991/1517/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Police Pensions (Amendment) Regulations 1991
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+1991 No. 1517
+
+POLICE
+
+The Police Pensions (Amendment) Regulations 1991
+
+Made
+
+1st July 1991
+
+Laid before Parliament
+
+10th July 1991
+
+Coming into force
+
+1st August 1991
+
+In exercise of the powers conferred on me by sections 1, 3 and 4 of the Police Pensions Act 1976[^f00001], and after consultation with the Police Negotiating Board for the United Kingdom, I hereby with the consent of the Treasury[^f00002] make the following Regulations:
+
+## 1. Citation, commencement and interpretation
+
+(1) These Regulations may be cited as the Police Pensions (Amendment) Regulations 1991 and shall come into force on 1st August 1991 but have effect as from 6th April 1988.
+
+(2) In these Regulations “the principal Regulations” means the Police Pensions Regulations 1987[^f00003] and “the 1990 Regulations” means the Police Pensions (Amendment) Regulations 1990[^f00004].
+
+## 2. Amendment of principal Regulations
+
+Section 2 of Part IV of Schedule F to the principal Regulations (calculation of reckonable service by reference to accrued rights) is amended by substituting for paragraph 4—
+
+> **4.** In paragraph 3 “the material date” means—
+>
+> - (a) the date on which the regular policeman concerned last became a regular policeman, or
+> - (b) if more than 12 months later, the date on which the transfer value was received.
+
+.
+
+## 3. Amendment of transitional provisions in 1990 Regulations
+
+(1) Regulation 3(6) of the 1990 Regulations is amended—
+
+- (a) by inserting after the words “pensionable service,” the words “unless the superannuation arrangements applicable to his new service fall within regulation F9(3)(a), (b) or (e) of the principal Regulations”; and
+- (b) in sub-paragraph (b) by substituting for the words “paragraph (3)” the words “paragraph (4)”.
+
+(2) Regulation 3(7) of the 1990 Regulations is amended—
+
+- (a) by inserting after the words “before that date,” the words “unless the superannuation arrangements applicable to his new service fall within regulation F9(3)(a), (b) or (e) of the principal Regulations”; and
+- (b) by substituting for the words “paragraph (3)”, wherever occurring, the words “paragraph (4)”.
+
+(3) Regulation 3(8) of the 1990 Regulations is amended by substituting for the words “paragraph (3)” the words “paragraph (4)”.
+
+## 4. Elections in respect of protected benefits
+
+(1) This regulation applies to a person—
+
+- (a) to whom a protected benefit is being paid or may become payable, and
+- (b) who is placed in a worse position than he would have been in if an amendment made to the principal Regulations by regulation 3 of the 1990 Regulations or regulation 2 above (“the relevant amendment”) had not applied in relation to the protected benefit.
+
+(2) A protected benefit is one which is being paid or may become payable by a police authority, under the principal Regulations, to or in respect of a person who, having served as a regular policeman within the meaning of those Regulations, ceased to serve as one, or died, before the material date.
+
+(3) The material date—
+
+- (a) in relation to an amendment made by regulation 3 of the 1990 Regulations, is 1st May 1990, and
+- (b) in relation to the amendment made by regulation 2 above, is 1st August 1991.
+
+(4) A person to whom this regulation applies may, by giving written notice to the police authority within 3 months after 1st August 1991, elect that the relevant amendment is not to apply in relation to the protected benefit.
+
+Kenneth Baker
+
+One of Her Majesty’s Principal Secretaries of State
+
+Home Office
+
+7th June 1991
+
+We consent
+
+Irvine Patnick
+
+Thomas Sackville
+
+Two of the Lords Commissioners of Her Majesty’s Treasury
+
+1st July 1991
+
+(This note is not part of the Regulations)
+
+These Regulations further amend the Police Pensions Regulations 1987 “the principal Regulations”), and amend transitional provisions in the Police Pensions (Amendment) Regulations 1990 (“the 1990 Regulations”).
+
+Regulation 2 re-defines the expression “the material date”, by reference to which the service credit resulting from the receipt of a transfer value is in certain cases to be calculated under the principal Regulations. The date of receipt of the transfer value becomes “the material date” only if it is more than 12 months later than the date on which the person concerned entered pensionable police service.
+
+Regulation 3 amends transitional provisions in the 1990 Regulations for calculating transfer values paid in respect of police service before 6th April 1988. The calculation is to be made as specified in those provisions only where payment is made to a scheme which is not, or is not in material respects similar to, a statutory scheme.
+
+Both these Regulations and the 1990 Regulations have effect as from 6th April 1988 (retrospection is authorised by section 1(5) of the Police Pensions Act 1976). The amendments made to the principal Regulations by regulation 3 of the 1990 Regulations and by regulation 2 of these Regulations are framed so as to apply in relation to pensions of, or in respect of, persons who left pensionable police service, or died, before the amending instruments came into force; the pensions could in some cases be adversely affected. Regulation 4 of these Regulations gives persons placed in a worse position the opportunity, required by section 3(2) of the 1976 Act, to elect that the relevant amendment is not to apply.
+
+## Annotations
+
+[^f00001]: Footnote: [1976 c. 35](https://www.legislation.gov.uk/ukpga/1976/35), amended by the Police Negotiating Board Act [1980 (c. 10)](https://www.legislation.gov.uk/ukpga/1980/10), section 2(3).
+
+[^f00002]: Footnote: Formerly the Minister for the Civil Service; see S.I. [1981/1670](https://www.legislation.gov.uk/uksi/1981/1670).
+
+[^f00003]: Footnote: S.I. [1987/257](https://www.legislation.gov.uk/uksi/1987/257); relevant amendments were made by S.I. [1990/805](https://www.legislation.gov.uk/uksi/1990/805).
+
+[^f00004]: Footnote: S.I. [1990/805](https://www.legislation.gov.uk/uksi/1990/805).

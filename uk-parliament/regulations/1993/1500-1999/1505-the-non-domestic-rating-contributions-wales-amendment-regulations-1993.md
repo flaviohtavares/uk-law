@@ -1,0 +1,156 @@
+---
+title: The Non-Domestic Rating Contributions (Wales) (Amendment) Regulations 1993
+id: uksi/1993/1505
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '1993-06-14'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1993/1505
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1993/1505/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Non-Domestic Rating Contributions (Wales) (Amendment) Regulations 1993
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+1993 No. 1505
+
+RATING AND VALUATION
+
+The Non-Domestic Rating Contributions (Wales) (Amendment) Regulations 1993
+
+Made
+
+14th June 1993
+
+Laid before Parliament
+
+15th June 1993
+
+Coming into force
+
+6th July 1993
+
+The Secretary of State for Wales, in exercise of the powers conferred on him by sections 140(4), 143(1) and (2) and 146(6) of, and paragraphs 4(1) and (5) and 6(5) and (6) of Schedule 8 to, the Local Government Finance Act 1988[^f00001] and section 4 of the Non-Domestic Rating Act 1993[^f00002], and of all other powers enabling him in that behalf, hereby makes the following Regulations:
+
+**1.** These Regulations may be cited as the Non-Domestic Rating Contributions (Wales) (Amendment) Regulations 1993 and shall come into force on 6th July 1993.
+
+**2.** The Non-Domestic Rating Contributions (Wales) Regulations 1992[^f00003] (“the 1992 Regulations”) shall be amended as follows—
+
+- (a) in regulation 2—
+  - (i) after the definition of “the Act”, there shall be inserted ““the 1993 Act” means the Non-Domestic Rating Act 1993;”;
+  - (ii) in the definition of “provisional amount”, for “regulation 7” there shall be substituted “regulation 7 or 7A(5)”;
+- (b) in regulation 6(1), at the beginning, there shall be inserted “Subject to regulation 7A,”;
+- (c) after regulation 7, there shall be inserted the following regulation—
+
+  > **7A.** (1) For the financial year beginning on 1st April 1993 (“the current year”)—
+  >
+  > - (a) regulation 7 applies as regards a billing authority where the conditions prescribed under regulation 6(2) are fulfilled; and
+  > - (b) paragraph (5) below applies as regards a billing authority where the conditions prescribed under paragraph (2) below are fulfilled.
+  >
+  > (2) The prescribed conditions are—
+  >
+  > - (a) that the billing authority has on a day in the current year calculated an amount, under paragraph (3) below, which is less than the provisional amount for the authority for that year;
+  > - (b) that the billing authority has notified the Secretary of State of the amount so calculated and the day on which that amount was calculated;
+  > - (c) that the Secretary of State believes that the amount so calculated is likely to have been calculated in accordance with paragraph (3) below and informs the billing authority of his belief; and
+  > - (d) that the billing authority has not on or after 6th July 1993 made a calculation under regulation 6(3).
+  >
+  > (3) The amount calculated under this paragraph is the amount calculated under regulation 3 on the basis of the same information, read subject to the same assumptions, as that on the basis of which the calculation (or last recalculation) of the provisional amount was made, but taking account of the amendments made by section 1 of the 1993 Act and regulation 2(g) of the Non-Domestic Rating Contributions (Wales) (Amendment) Regulations 1993.
+  >
+  > (4) Where a billing authority’s provisional amount was calculated by the Secretary of State under paragraph 5(3) of Schedule 8 to the Act, he shall, unless he has already done so, inform the authority in writing, as soon as reasonably practicable after 6th July 1993, of the information on the basis of which he made the calculation and the assumptions subject to which that information was read.
+  >
+  > (5) Where this paragraph applies, the provisional amount for a billing authority for the current year is, for the purposes of paragraph 5 of Schedule 8 to the Act, to be treated as being that amount recalculated as regards the authority in accordance with paragraph (3) above.
+
+  .
+- (d) in regulations 8(2)(b) and 9, after “regulation 7(2)” there shall be inserted “or, as the case may be, 7A(5)”;
+- (e) after regulation 8, there shall be inserted the following regulation—
+
+  > **8A.** (1) Where regulation 7A(5) applies as regards a billing authority, the Secretary of State shall repay to the authority the amount calculated in accordance with paragraph (2) below.
+  >
+  > (2) The amount is the difference between—
+  >
+  > - (a) the total of the amounts paid by the billing authority under paragraph 5(5) of Schedule 8 to the Act on relevant days preceding the adjustment day, and
+  > - (b) the amount calculated in accordance with the formula—
+  >
+  >   [formula: see source](https://www.legislation.gov.uk/uksi/1993/1505)
+  >
+  >   where—
+  >
+  >   - A is the amount recalculated as regards the authority under regulation 7A(5);
+  >   - B is the total of the amounts directed by the Secretary of State to be paid by the authority on relevant days preceding the adjustment day;
+  >   - C is the provisional amount having effect as regards the authority immediately before the adjustment day.
+  >
+  > (3) The amount calculated in accordance with paragraph (2) above shall be paid by the Secretary of State at such time as he decides.
+  >
+  > (4) For the purposes of this regulation and regulation 9A, “the adjustment day” shall be the day on which the Secretary of State informed the billing authority under regulation 7A(2)(c) of his belief relating to the amount calculated under regulation 7A(3).
+
+  ;
+- (f) after regulation 9, there shall be inserted the following—
+
+  > **9A.** Where regulation 7A(5) applies as regards a billing authority, the amount of an instalment directed by the Secretary of State, under paragraph 5(5) of Schedule 8 to the Act, to be paid by the authority on or after the adjustment day shall be treated as being the amount calculated in accordance with the formula—
+  >
+  > [formula: see source](https://www.legislation.gov.uk/uksi/1993/1505)
+  >
+  > where—
+  >
+  > - D is the amount the Secretary of State directed to be paid by the authority in the instalment;
+  > - E is the amount recalculated as regards the authority under regulation 7A(5); and
+  > - F is the provisional amount having effect as regards the authority immediately before the adjustment day.
+
+  ;
+- (g) in Schedule 1, after paragraph 4 there shall be inserted the following paragraph—
+
+  > **4A.** (1) The amount calculated in accordance with the formula—
+  >
+  > [formula: see source](https://www.legislation.gov.uk/uksi/1993/1505)
+  >
+  > where—
+  >
+  > - G is the number of hereditaments in respect of which amounts payable under a demand notice served by the authority before 6th July 1993 fall to be adjusted under paragraph 7A or 7B of Schedule 1 to the Non-Domestic Rating (Collection and Enforcement) (Local Lists) Regulations 1989 or in accordance with an agreement made under regulation 7 of those Regulations, in consequence of the amendments made by section 1 of the Non-Domestic Rating Act 1993,
+  > - H is 0\\90.
+  >
+  > (2) In sub-paragraph (1) above, “demand notice” means a demand notice within the meaning of Part II of the Non-Domestic Rating (Collection and Enforcement) (Local Lists) Regulations 1989, including such a notice issued pursuant to Part II of the Non-Domestic Rating (Collection and Enforcement) (Miscellaneous Provisions) Regulations 1990.[^f00004]
+
+  ;
+- (h) in Schedule 3—
+  - (i) in paragraph 2(3), for the words from the beginning to “replaced” there shall be substituted the words “The amounts described in paragraphs 4 and 4A of Schedule 1 to these Regulations shall each be replaced” and, in the definition of T, after “4” there shall be inserted “or 4A”;
+  - (ii) in paragraph 4(3), for the words “described in paragraph 4 of Schedule 1 shall be replaced” there shall be substituted the words “described in paragraphs 4 and 4A of Schedule 1 to these Regulations shall each be replaced” and, in the definition of W, after “4” there shall be inserted “or 4A”.
+
+**3.** The amendments made by regulation 2(g) above shall have effect in relation to any calculation under paragraph 5 of Schedule 8 to the Act of a billing authority’s non-domestic rating contribution for the financial year beginning on 1 April 1993 made on or after the coming into force of these Regulations.
+
+John Redwood
+
+Secretary of State for Wales
+
+14th June 1993
+
+(This note is not part of the Regulations)
+
+These Regulations apply to Wales.
+
+Under Part II of Schedule 8 to the Local Government Finance Act 1988 (“the 1988 Act”) billing authorities are required to pay amounts (called non-domestic rating contributions) to the Secretary of State. Provisional amounts are paid during the year, final calculations and payments being made after the year ends.
+
+Regulation 2 of these Regulations amends the rules for the calculation of payments contained in the Non-Domestic Rating Contributions (Wales) Regulations 1992 (“the 1992 Regulations”).
+
+Regulation 7A inserted in the 1992 Regulations makes provision in respect of the recalculation of the provisional amount of a Welsh billing authority’s non-domestic rating contribution for the financial year beginning on 1st April 1993 in order to take account of the amendments made by the Non-Domestic Rating Act 1993 to Schedule 7A to the 1988 Act (Non-Domestic Rating: 1990-1995) and to related secondary legislation.
+
+Regulations 8A and 9A inserted in the 1992 Regulations provide for the making of repayments to Welsh billing authorities by the Secretary of State, or of reduced payments to the Secretary of State by those authorities, in consequence of a recalculation under regulation 7A(5).
+
+It is possible for regulation 2(g) of these Regulations to have effect in respect of the financial year beginning on 1 April 1993, notwithstanding paragraph 4(6) of Schedule 8 to the 1988 Act, by virtue of section 4 of the 1993 Act.
+
+## Annotations
+
+[^f00001]: Footnote: [1988 c. 41](https://www.legislation.gov.uk/ukpga/1988/41); paragraph 6(6) of Schedule 8 is amended by section 5(2) of the Non-Domestic Rating Act [1992 (c. 46)](https://www.legislation.gov.uk/ukpga/1992/46).
+
+[^f00002]: Footnote: [1993 c. 17](https://www.legislation.gov.uk/ukpga/1993/17).
+
+[^f00003]: Footnote: [S.I. 1992/3238](https://www.legislation.gov.uk/uksi/1992/3238).
+
+[^f00004]: Footnote: The Non-Domestic Rating (Collection and Enforcement) (Local Lists) Regulations 1989 ([S.I. 1989/1058](https://www.legislation.gov.uk/uksi/1989/1058)). Paragraphs 7A and 7B of Schedule 1 are inserted by [S.I. 1992/1512](https://www.legislation.gov.uk/uksi/1992/1512); see also [S.I. 1993/1493](https://www.legislation.gov.uk/uksi/1993/1493). The Non-Domestic Rating (Collection and Enforcement) (Miscellaneous Provisions) Regulations 1990 ([S.I. 1990/145](https://www.legislation.gov.uk/uksi/1990/145)).

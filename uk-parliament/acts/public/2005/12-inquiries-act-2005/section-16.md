@@ -1,0 +1,35 @@
+---
+title: Inquiries Act 2005, section 16
+act: Inquiries Act 2005
+section: '16'
+status: revised
+text_date: '2024-01-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2005/12/section/16
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Inquiries Act 2005, section 16
+
+> Text as at 2024-01-01.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 16. Inquiries converted under section 15
+
+*Extent: E+W+S+N.I.*
+
+(1) This section applies where an inquiry (the “original inquiry”) is converted under section 15 into an inquiry under this Act.
+
+(2) The appointment of a person who at the date of conversion is—
+
+- (a) one of the persons holding, or due to hold, the original inquiry (an “original member”),
+- (b) an assessor, counsel or solicitor to the inquiry, or
+- (c) a person engaged to provide assistance to the inquiry,
+
+continues as if made under this Act, and for the purposes of section 12(5) is treated as made by the Minister on the date of conversion.
+
+(3) Any obligation arising under an order of the original inquiry, or otherwise in connection with that inquiry, is enforceable only as it would be if the original inquiry had not been converted.
+
+(4) No rights or obligations arise under or by virtue of this Act before the date of conversion.

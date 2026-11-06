@@ -1,0 +1,1772 @@
+---
+title: Parliamentary Commissioner Act 1967
+id: ukpga/1967/13
+type: UnitedKingdomPublicGeneralAct
+category: primary
+status: revised-with-pending-changes
+made_date: '1967-03-22'
+text_date: '2026-09-30'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/1967/13
+pdf_urls:
+- http://www.legislation.gov.uk/ukpga/1967/13/pdfs/ukpga_19670013_en.pdf
+- http://www.legislation.gov.uk/ukpga/1967/13/data.pdf
+pending_changes: 5
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Parliamentary Commissioner Act 1967
+
+> **Warning: changes not yet applied to this text (5).** Text as at 2026-09-30. See https://www.legislation.gov.uk/changes/affected/ukpga/1967/13
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+Parliamentary Commissioner Act 1967
+
+1967 c. 13
+
+An Act to make provision for the appointment and functions of a Parliamentary Commissioner for the investigation of administrative action taken on behalf of the Crown, and for purposes connected therewith.
+
+\[22nd March 1967\] [^c9784211][^c9784221][^c9784231][^c9784241][^c9784251][^c9784261][^c9784271][^c9784281][^c9784291][^c9784301]
+
+## The Parliamentary Commissioner for Administration
+
+### 1. Appointment and tenure of office.
+
+(1) For the purpose of conducting investigations in accordance with the following provisions of this Act there shall be appointed a Commissioner, to be known as the Parliamentary Commissioner for Administration.
+
+(2) Her Majesty may by Letters Patent from time to time appoint a person to be the Commissioner [^c20280851]. . . .
+
+(2A)[^c20280881] A person appointed to be the Commissioner shall hold office until the end of the period for which he is appointed.
+
+(2B) That period must be not more than seven years.
+
+(2C) Subsection (2A) is subject to subsections (3) and (3A).
+
+(3)[^c20280901] A person appointed to be the Commissioner may be—
+
+- (a) relieved of office by Her Majesty at his own request, or
+- (b) removed from office by Her Majesty, on the ground of misbehaviour, in consequence of Addresses from both Houses of Parliament.
+
+(3A)[^c9784321] Her Majesty may declare the office of Commissioner to have been vacated if satisfied that the person appointed to be the Commissioner is incapable for medical reasons—
+
+- (a) of performing the duties of his office; and
+- (b) of requesting to be relieved of it.
+
+(3B)[^c20280931] A person appointed to be the Commissioner is not eligible for re-appointment.
+
+(4) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c9784331]
+
+(5) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c9784341]
+
+### 2. Salary and pension.
+
+(1)[^c9784351] There shall be paid to the holder of the office of Commissioner the same salary as if he were employed in the civil service of the State in such appointment as the House of Commons may by resolution from time to time determine; and a resolution under this subsection may take effect from the date on which it is passed or from such other date as may be specified in the resolution.
+
+(2) In relation to any time before the first resolution under subsection (1) above takes effect, the salary payable to the holder of the office of Commissioner shall be the same salary as if he were employed in the civil service of the State as a Permanent Secretary.
+
+(3) The provisions of Schedule 1 to this Act shall have effect with respect to the pensions and other benefits to be paid to or in respect of persons who have held office as Commissioner.
+
+(4) The salary payable to a holder of the office of Commissioner shall be abated by the amount of any pension payable to him in respect of any public office in the United Kingdom or elsewhere to which he had previously been appointed or elected; . . . [^c9784361]
+
+(4A)[^c9784371] In computing the salary of a former holder of the office of Commissioner for the purposes of the said Schedule 1—
+
+- (a) any abatement of that salary under subsection (4) above,
+- (b) any temporary abatement of that salary in the national interest, and
+- (c) any voluntary surrender of that salary in whole or in part,
+
+shall be disregarded.
+
+(5) Any salary, pension or other benefit payable by virtue of this section shall be charged on and issued out of the Consolidated Fund.
+
+### 3. Administrative provisions.
+
+(1) The Commissioner may appoint such officers as he may determine with the approval of the Treasury as to numbers and conditions of service.
+
+(1A)[^c20306261] The Commissioner may appoint and pay a mediator or other appropriate person to assist him in the conduct of an investigation under this Act.
+
+(2)[^c9784391] Any function of the Commissioner under this Act may be performed by any officer of the Commissioner authorised for that purpose by the Commissioner , by any member of the staff so authorised[^c9784401] of the Public Services Ombudsman for Wales[^c20175041] or by any officer so authorised of the Health Service Commissioner for England [^c20131561]. . . .
+
+(2A)[^c20306291] For the purposes of conducting a joint investigation referred to in section 11ZAA of this Act, any function of the Commissioner under this Act may be performed by any person discharging or assisting in the discharge of a function of a Local Commissioner, but only if the person is[^c20306831] authorised for the purpose by the Commissioner.
+
+(3) The expenses of the Commissioner under this Act, to such amount as may be sanctioned by the Treasury, shall be defrayed out of moneys provided by Parliament.
+
+### 3A. Appointment of acting Commissioner.[^c9784411]
+
+(1) Where the office of Commissioner becomes vacant, Her Majesty may, pending the appointment of a new Commissioner, appoint a person under this section to act as the Commissioner at any time during the period of twelve months beginning with the date on which the vacancy arose.
+
+(1A)[^c20280971] A person appointed to act as the Commissioner (“an acting Commissioner”) may have held office as the Commissioner.
+
+(1B) A person appointed as an acting Commissioner is eligible for appointment as the Commissioner unless he has already held office as the Commissioner.
+
+(2) A person appointed as an acting Commissioner[^c20281011] shall hold office during Her Majesty’s pleasure and, subject to that, shall hold office—
+
+- (a) until the appointment of a new Commissioner or the expiry of the period of twelve months beginning with the date on which the vacancy arose, whichever occurs first; and
+- (b) in other respects, in accordance with the terms and conditions of his appointment which shall be such as the Treasury may determine.
+
+(3)[^c20281051] A person appointed as an acting Commissioner shall, while he holds office, be treated for all purposes, except for the purposes of section 1 and 2, and this section of this Act, as the Commissioner.
+
+(4) Any salary, pension or other benefit payable by virtue of this section shall be charged on and issued out of the Consolidated Fund.
+
+## Investigation by the Commissioner
+
+### 4. Departments etc. subject to investigation.[^c9784511]
+
+(1) Subject to the provisions of this section and to the notes contained in Schedule 2 to this Act, this Act applies to the government departments, corporations and unincorporated bodies listed in that Schedule; and references in this Act to an authority to which this Act applies are references to any such corporation or body.
+
+(2) Her Majesty may by Order in Council amend Schedule 2 to this Act by the alteration of any entry or note, the removal of any entry or note or the insertion of any additional entry or note.
+
+(3) An Order in Council may only insert an entry if—
+
+- (a) it relates—
+  - (i) to a government department; or
+  - (ii) to a corporation or body whose functions are exercised on behalf of the Crown; or
+- (b) it relates to a corporation or body—
+  - (i) which is established by virtue of Her Majesty’s prerogative or by an Act of Parliament or an Order in Council or order made under an Act of Parliament or which is established in any other way by a Minister of the Crown in his capacity as a Minister or by a government department;
+  - (ii) at least half of whose revenues derive directly from money provided by Parliament, a levy authorised by an enactment, a fee or charge of any other description so authorised or more than one of those sources; and
+  - (iii) which is wholly or partly constituted by appointment made by Her Majesty or a Minister of the Crown or government department.
+
+(3A) No entry shall be made if the result of making it would be that the Parliamentary Commissioner could investigate action which can be investigated by the Public Services Ombudsman for Wales under the Public Services Ombudsman (Wales) Act 2019 *(Extent: E+W)*[^key-631d0748e58140ef741e0367e7bc352d].
+
+(3B)[^c9784531] No entry shall be made in respect of–
+
+- (a) the Scottish Administration of any part of it;
+- (b) any Scottish public authority with mixed functions or no reserved functions within the meaning of the Scotland Act 1998; or
+- (c) the Scottish Parliamentary Corporate Body.
+
+(4) No entry shall be made in respect of a corporation or body whose sole activity is, or whose main activities are, included among the activities specified in subsection (5) below.
+
+(5) The activities mentioned in subsection (4) above are—
+
+- (a) the provision of education, or the provision of training otherwise than under the [^c9784541]Industrial Training Act 1982;
+- (b) the development of curricula, the conduct of examinations or the validation of educational courses;
+- (c) the control of entry to any profession or the regulation of the conduct of members of any profession;
+- (d) the investigation of complaints by members of the public regarding the actions of any person or body, or the supervision or review of such investigations or of steps taken following them.
+
+(6) No entry shall be made in respect of a corporation or body operating in an exclusively or predominantly commercial manner or a corporation carrying on under national ownership an industry or undertaking or part of an industry or undertaking.
+
+(7) Any statutory instrument made by virtue of this section shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+(8) In this Act—
+
+- (a) any reference to a government department to which this Act applies includes a reference to any of the Ministers or officers of such a department; and
+- (b) any reference to an authority to which this Act applies includes a reference to any members or officers of such an authority.
+
+### 5. Matters subject to investigation.[^c9784691]
+
+(1) Subject to the provisions of this section, the Commissioner may investigate any action taken by or on behalf of a government department or other authority to which this Act applies, being action taken in the exercise of administrative functions of that department or authority, in any case where—
+
+- (a)[^key-d41781fad2e930628c781b829ad41c01] a written complaint is duly made by a member of the public, who claims to have sustained injustice in consequence of maladministration in connection with the action so taken, to—
+  - (i) the Commissioner, if the complaint relates to the complainant’s experience as a victim, or
+  - (ii) in any other case, a member of the House of Commons, and
+- (b) in a case falling within paragraph (a)(ii),[^key-caccb81499d0920b765cc2cfb6f46b43] the complaint is referred to the Commissioner, with the consent of the person who made it, by a member of that House with a request to conduct an investigation thereon.
+
+(1A)[^c20131591] Subsection (1C) of this section applies if—
+
+- (a)[^key-cdbb1f542ab778b87e963816b064914b] a written complaint is duly made by a member of the public, who claims that a person has failed to perform a relevant duty owed by that person to the member of the public, to—
+  - (i) the Commissioner, if the complaint relates to the complainant’s experience as a victim, or
+  - (ii) in any other case, a member of the House of Commons, and
+- (b) in a case falling within paragraph (a)(ii),[^key-adbca31b5ae53cb11fa915339566b3e4] the complaint is referred to the Commissioner, with the consent of the person who made it, by a member of the House of Commons with a request to conduct an investigation into it.
+
+(1B) For the purposes of subsection (1A) of this section a relevant duty is a duty imposed by any of these—
+
+- (a) a code of practice issued under section 32 of the Domestic Violence, Crime and Victims Act 2004 (code of practice for victims), or
+- (b) sections 35 to 44 of that Act (duties of local probation boards in connection with victims of sexual , violent or terrorism[^key-7318a620cbeb9f930bf8e53cc9c5361b] offences).
+
+(1C) If this subsection applies, the Commissioner may investigate the complaint.
+
+(2) Except as hereinafter provided, the Commissioner shall not conduct an investigation under this Act in respect of any of the following matters, that is to say—
+
+- (a)[^c9784701] any action in respect of which the person aggrieved has or had a right of appeal, reference or review to or before a tribunal constituted by or under any enactment or by virtue of Her Majesty’s prerogative;
+- (b)[^c9784711] any action in respect of which the person aggrieved has or had a remedy by way of proceedings in any court of law:
+
+Provided that the Commissioner may conduct an investigation notwithstanding that the person aggrieved has or had such a right or remedy if satisfied that in the particular circumstances it is not reasonable to expect him to resort or have resorted to it.
+
+(2A)[^c9784721] Subsection (2)(a) of this section shall have effect in relation to the right of a person to make a complaint of unlawful discrimination under the Fair Employment and Treatment (Northern Ireland) Order 1998 as if it were such a right of appeal, reference or review as is mentioned in that subsection.
+
+(3) Without prejudice to subsection (2) of this section, the Commissioner shall not conduct an investigation under subsection (1) of this section[^c20131611] in respect of any such action or matter as is described in Schedule 3 to this Act.
+
+(4) Her Majesty may by Order in Council amend the said Schedule 3 so as to exclude from the provisions of that Schedule such actions or matters as may be described in the Order; and any statutory instrument made by virtue of this subsection shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+(4A)[^c20131631] Without prejudice to subsection (2) of this section, the Commissioner shall not conduct an investigation pursuant to a complaint under subsection (1A) of this section in respect of—
+
+- (a) action taken by or with the authority of the Secretary of State for the purposes of protecting the security of the State, including action so taken with respect to passports, or
+- (b) any action or matter described in any of paragraphs 1 to 4 and 6A to 11 of Schedule 3 to this Act.
+
+(4B) Her Majesty may by Order in Council amend subsection (4A) of this section so as to exclude from paragraph (a) or (b) of that subsection such actions or matters as may be described in the Order.
+
+(4C) Any statutory instrument made by virtue of subsection (4B) of this section shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+(5) In determining whether to initiate, continue or discontinue an investigation under this Act, the Commissioner shall, subject to the foregoing provisions of this section, act in accordance with his own discretion; and any question whether a complaint is duly made under this Act shall be determined by the Commissioner.
+
+(5A)[^c9784731] For the purposes of this section, administrative functions of a government department to which this Act applies include functions exercised by the department on behalf of the Scottish Ministers by virtue of section 93 of the Scotland Act 1998.
+
+(5B)[^c20178481] The Commissioner shall not conduct an investigation under this Act in respect of any action concerning Scotland and not relating to reserved matters which is taken by or on behalf of a cross-border public authority within the meaning of the Scotland Act 1998.
+
+(6)[^c9784741] For the purposes of this section, administrative functions exercisable by any person appointed by the Lord Chancellor as a member of the administrative staff of any court or tribunal shall be taken to be administrative functions of the Ministry of Justice[^c20306911] [^key-532ee37b4561fff1bdc4597fbd4dd0fa]....
+
+(7)[^c9784751] For the purposes of this section, administrative functions exercisable by any person appointed as a member of the administrative staff of a relevant tribunal—
+
+- (a) by a government department or authority to which this Act applies; or
+- (b) with the consent (whether as to remuneration and other terms and conditions of service or otherwise) of such a department or authority,
+
+shall be taken to be administrative functions of that department or authority.
+
+(8) In subsection (7) of this section, “**relevant tribunal**” means a tribunal listed in Schedule 4 to this Act.
+
+(9) Her Majesty may by Order in Council amend the said Schedule 4 by the alteration or removal of any entry or the insertion of any additional entry; and any statutory instrument made by virtue of this subsection shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+(9A)[^c9784761] No entry shall be made in the said Schedule 4 in respect of the holder of any office in the Scottish Administration which is not a ministerial office or in respect of any Scottish public authority with mixed functions or no reserved functions within the meaning of the Scotland Act 1998.
+
+(9B)[^key-c570e342ca49656b1fde70fd49430863] In this section “**victim**” has the meaning given by section 1 of the Victims and Prisoners Act 2024.
+
+### 6. Provisions relating to complaints.
+
+(1) A complaint under this Act may be made by any individual, or by any body of persons whether incorporated or not, not being—
+
+- (a) a local authority or other authority or body constituted for purposes of the public service or of local government or for the purposes of carrying on under national ownership any industry or undertaking or part of an industry or undertaking;
+- (b)[^c9784911] any other authority or body within subsection (1A) below.
+
+(1A) An authority or body is within this subsection if–
+
+- (a) its members are appointed by–
+  - (i) Her Majesty;
+  - (ii) any Minister of the Crown;
+  - (iii) any government department;
+  - (iv) the Scottish Ministers;
+  - (v) the First Minister; or
+  - (vi) the Lord Advocate, or
+- (b) its revenues consist wholly or mainly of–
+  - (i) money provided by Parliament; or
+  - (ii) sums payable out of the Scottish Consolidated Fund (directly or indirectly).
+
+(1B)[^key-0cd54aa60a6369a8e5ea425c7e84be50] A complaint under section 5(1)(a)(i) or (1A)(a)(i) may also be made by a person who is authorised to act on behalf of the person aggrieved.
+
+(2) Where the person by whom a complaint might have been made under the foregoing provisions of this Act has died or is for any reason unable to act or, where subsection (1B) applies, to authorise another person to act, the complaint may be made by the person’s personal representative, or by a member of the person’s family, or by another individual suitable to represent the person.[^key-91ead1f71d8e41be3f945c9100dadb21]
+
+(2A)[^key-194874448d6b40bb43fbb642bf0382c9] Except as provided by subsections (1B) and (2), a complaint may not be entertained under this Act unless made by the person aggrieved.
+
+(3)[^c9784921] A complaint shall not be entertained under this Act unless it is made [^key-4dc003d14774f8f4564e6bc6f45e7eeb]... not later than twelve months from the day on which the person aggrieved first had notice of the matters alleged in the complaint; but the Commissioner may conduct an investigation pursuant to a complaint not made within that period if he considers that there are special circumstances which make it proper to do so.
+
+(4) Except as provided in subsection (5) below[^c9784931] A complaint shall not be entertained under this Act unless the person aggrieved is resident in the United Kingdom (or, if he is dead, was so resident at the time of his death) or the complaint relates to action taken in relation to him while he was present in the United Kingdom or on an installation in a designated area within the meaning of the [^c9784941]Continental Shelf Act 1964 or on a ship registered in the United Kingdom or an aircraft so registered, or in relation to rights or obligations which accrued or arose in the United Kingdom or on such an installation, ship or aircraft.
+
+(5)[^c9784951] A complaint may be entertained under this Act in circumstances not falling within subsection (4) above where—
+
+- (a) the complaint relates to action taken in any country or territory outside the United Kingdom by an officer (not being an honorary consular officer) in the exercise of a consular function on behalf of the Government of the United Kingdom; and
+- (b) the person aggrieved is a citizen of the United Kingdom and Colonies who, under section 2 of the [^c9784961]Immigration Act 1971, has the right of abode in the United Kingdom.
+
+### 7. Procedure in respect of investigations.[^c9784971]
+
+(1) Where the Commissioner proposes to conduct an investigation pursuant to a complaint under section 5(1) of[^c20131731] this Act, he shall afford to the principal officer of the department or authority concerned, and to any other person who is alleged in the complaint to have taken or authorised the action complained of, an opportunity to comment on any allegations contained in the complaint.
+
+(1A)[^c20131751] Where the Commissioner proposes to conduct an investigation pursuant to a complaint under section 5(1A) of this Act, he shall give the person to whom the complaint relates an opportunity to comment on any allegations contained in the complaint.
+
+(2) Every investigation under this Act[^c20131771] shall be conducted in private, but except as aforesaid the procedure for conducting an investigation shall be such as the Commissioner considers appropriate in the circumstances of the case; and without prejudice to the generality of the foregoing provision the Commissioner may obtain information from such persons and in such manner, and make such inquiries, as he thinks fit, and may determine whether any person may be represented, by counsel or solicitor or otherwise, in the investigation.
+
+(3) The Commissioner may, if he thinks fit, pay to the person by whom the complaint was made and to any other person who attends or furnishes information for the purposes of an investigation under this Act—
+
+- (a) sums in respect of expenses properly incurred by them;
+- (b) allowances by way of compensation for the loss of their time,
+
+in accordance with such scales and subject to such conditions as may be determined by the Treasury.
+
+(4) The conduct of an investigation under this Act shall not affect any action taken by the department or authority concerned or the person to whom the complaint relates[^c20131791] , or any power or duty of that department, authority or person[^c20131811] to take further action with respect to any matters subject to the investigation; but where the person aggrieved has been removed from the United Kingdom under any Order in force under the [^c9784981]Aliens Restriction Acts 1914 [^c9784991]and 1919 or under the[^c9785001] [^c9785011]Immigration Act 1971, he shall, if the Commissioner so directs, be permitted to re-enter and remain in the United Kingdom, subject to such conditions as the Secretary of State may direct, for the purposes of the investigation.
+
+### 8. Evidence.[^c9785021]
+
+(1) For the purposes of an investigation under section 5(1) of[^c20131831] this Act the Commissioner may require any Minister, officer or member of the department or authority concerned or any other person who in his opinion is able to furnish information or produce documents relevant to the investigation to furnish any such information or produce any such document.
+
+(1A)[^c20131861] For the purposes of an investigation pursuant to a complaint under section 5(1A) of this Act the Commissioner may require any person who in his opinion is able to furnish information or produce documents relevant to the investigation to furnish any such information or produce any such document.
+
+(2) For the purposes of any investigation under this Act[^c20131881] the Commissioner shall have the same powers as the Court in respect of the attendance and examination of witnesses (including the administration of oaths or affirmations and the examination of witnesses abroad) and in respect of the production of documents.
+
+(3) No obligation to maintain secrecy or other restriction upon the disclosure of information obtained by or furnished to persons in Her Majesty’s service, whether imposed by any enactment or by any rule of law, shall apply to the disclosure of information for the purposes of an investigation under this Act; and the Crown shall not be entitled in relation to any such investigation to any such privilege in respect of the production of documents or the giving of evidence as is allowed by law in legal proceedings.
+
+(4) No person shall be required or authorised by virtue of this Act to furnish any information or answer any question relating to proceedings of the Cabinet or of any committee of the Cabinet or to produce so much of any document as relates to such proceedings; and for the purposes of this subsection a certificate issued by the Secretary of the Cabinet with the approval of the Prime Minister and certifying that any information, question, document or part of a document so relates shall be conclusive.
+
+(5) Subject to subsection (3) of this section, no person shall be compelled for the purposes of an investigation under this Act to give any evidence or produce any document which he could not be compelled to give or produce in civil[^c9785031] proceedings before the Court.
+
+### 9. Obstruction and contempt.[^c9785041]
+
+(1) If any person without lawful excuse obstructs the Commissioner or any officer of the Commissioner in the performance of his functions under this Act, or is guilty of any act or omission in relation to an investigation under this Act which, if that investigation were a proceeding in the Court, would constitute contempt of court, the Commissioner may certify the offence to the Court.
+
+(2) Where an offence is certified under this section, the Court may inquire into the matter and, after hearing any witnesses who may be produced against or on behalf of the person charged with the offence, and after hearing any statement that may be offered in defence, deal with him in any manner in which the Court could deal with him if he had committed the like offence in relation to the Court.
+
+(3) Nothing in this section shall be construed as applying to the taking of any such action as is mentioned in subsection (4) of section 7 of this Act.
+
+### 10. Reports by Commissioner.
+
+(1) In any case where the Commissioner conducts an investigation pursuant to a complaint made to a member of the House of Commons under section 5(1)(a)(ii) or (1A)(a)(ii),[^key-67436a4dce977e14390384fcf1070d98] or decides not to conduct such an investigation, he shall send to the member of that House[^key-ab8994104e4887e85d1e20734a866f02] by whom the request for investigation was made (or if he is no longer a member of that House, to such member of that House as the Commissioner thinks appropriate) a report of the results of the investigation or, as the case may be, a statement of his reasons for not conducting an investigation.
+
+(1A)[^key-94ec5454ef32c6a8d573a6b7e5b341d7] In any case where the Commissioner conducts an investigation pursuant to a complaint made to the Commissioner under section 5(1)(a)(i) or (1A)(a)(i), or decides not to conduct such an investigation, the Commissioner—
+
+- (a) must send to the person who made the complaint a report of the results of the investigation or, as the case may be, a statement of the Commissioner’s reasons for not conducting an investigation, and
+- (b) may, with the consent of the person who made the complaint, send the report or statement to such member of the House of Commons as the Commissioner considers appropriate.
+
+(1B) References in subsection (1A) to the person who made the complaint are, in a case where the complaint is made by a person authorised to act on behalf of the person aggrieved (see section 6(1B)), to that authorised person.
+
+(2) In any case where the Commissioner conducts an investigation under section 5(1) of[^c20143241] this Act, he shall also send a report of the results of the investigation to the principal officer of the department or authority concerned and to any other person who is alleged in the relevant complaint to have taken or authorised the action complained of.
+
+(2A)[^c20143291] In any case where the Commissioner conducts an investigation pursuant to a complaint under section 5(1A) of this Act, he shall also send a report of the results of the investigation to the person to whom the complaint relates.
+
+(3) If, after conducting an investigation under section 5(1) of[^c20143311] this Act, it appears to the Commissioner that injustice has been caused to the person aggrieved in consequence of maladministration and that the injustice has not been, or will not be, remedied, he may, if he thinks fit, lay before each House of Parliament a special report upon the case.
+
+(3A)[^c20143331] If, after conducting an investigation pursuant to a complaint under section 5(1A) of this Act, it appears to the Commissioner that—
+
+- (a) the person to whom the complaint relates has failed to perform a relevant duty owed by him to the person aggrieved, and
+- (b) the failure has not been, or will not be, remedied,
+
+the Commissioner may, if he thinks fit, lay before each House of Parliament a special report upon the case.
+
+(3B) For the purposes of subsection (3A) of this section “**relevant duty**” has the meaning given by section 5(1B) of this Act.
+
+(4) The Commissioner shall annually lay before each House of Parliament a general report on the performance of his functions under this Act and may from time to time lay before each House of Parliament such other reports with respect to those functions as he thinks fit.
+
+(5) For the purposes of the law of defamation, any such publication as is hereinafter mentioned shall be absolutely privileged, that is to say—
+
+- (a) the publication of any matter by the Commissioner in making a report to either House of Parliament for the purposes of this Act;
+- (b) the publication of any matter by a member of the House of Commons in communicating with the Commissioner or his officers for those purposes or by the Commissioner or his officers in communicating with such a member for those purposes;
+- (c) the publication by such a member to the person by whom a complaint was made under this Act of a report or statement sent to the member in respect of the complaint in pursuance of subsection (1) of this section;
+- (d) the publication by the Commissioner to such a person as is mentioned in subsection (1A),[^key-c9360c80ed05705db6ebe8649c7f03a2] (2) or (2A)[^c20143351] of this section of a report sent to that person in pursuance of that subsection.
+
+### 11. Provision for secrecy of information.[^c9785181]
+
+(1)[^c9785191] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2)[^c9785201][^key-15c45b1f42347dd2588a4ed87be3466d][^key-b54220cacf685d7e9b28a7abb30c0954] Information obtained by the Commissioner or his officers in the course of or for the purposes of an investigation under this Act shall not be disclosed except—
+
+- (a) for the purposes of the investigation and of any report to be made thereon under this Act;
+- (aa)[^c20306931] for the purposes of a matter[^c20306951] which is being investigated by the Health Service Commissioner for England or a Local Commissioner (or both);
+- (b) for the purposes of any proceedings for an offence under the Official Secrets Acts 1911 to 1989[^c9785211] or sections 1 to 4 or 18 of the National Security Act 2023[^key-0500e803b9671277a13bdfef8070e1d6] alleged to have been committed in respect of information obtained by the Commissioner or any of his officers by virtue of this Act or for an offence of perjury alleged to have been committed in the course of an investigation under this Act or for the purposes of an inquiry with a view to the taking of such proceedings; or
+- (c) for the purposes of any proceedings under section 9 of this Act;
+
+and the Commissioner and his officers shall not be called upon to give evidence in any proceedings (other than such proceedings as aforesaid) of matters coming to his or their knowledge in the course of an investigation under this Act.
+
+(2A)[^c9785231][^c9785221] Where the Commissioner also holds office as the Health Service Commissioner for England[^c20180271] and a person initiates a complaint to him in his capacity as the Health Service Commissioner for England which relates partly to a matter with respect to which that person has previously initiated a complaint under this Act, or subsequently initiates such a complaint, information obtained by the Commissioner or his officers in the course of or for the purposes of investigating the complaint under this Act may be disclosed for the purposes of his carrying out his functions in relation to the other complaint.
+
+(3) A Minister of the Crown may give notice in writing to the Commissioner, with respect to any document or information specified in the notice, or any class of documents or information so specified, that in the opinion of the Minister the disclosure of that document or information, or of documents or information of that class, would be prejudicial to the safety of the State or otherwise contrary to the public interest; and where such a notice is given nothing in this Act shall be construed as authorising or requiring the Commissioner or any officer of the Commissioner to communicate to any person or for any purpose any document or information specified in the notice, or any document or information of a class so specified.
+
+(4) The references in this section to a Minister of the Crown include references to the Commissioners of Customs and Excise and the Commissioners of Inland Revenue.
+
+(5)[^c9785261] Information obtained from the Information Commission[^key-47cf125a7f81c06f50c09475b12333bc] by virtue of section 76(1) of the Freedom of Information Act 2000 shall be treated for the purposes of subsection (2) of this section as obtained for the purposes of an investigation under this Act and, in relation to such information, the reference in paragraph (a) of that subsection to the investigation shall have effect as a reference to any investigation.
+
+### 11A. Consultations between Parliamentary Commissioner and other Commissioners or Ombudsmen.[^c9785321][^c20143371]
+
+(1) Where, at any stage in the course of conducting an investigation under this Act, the Commissioner forms the opinion that the complaint relates partly to a matter within the jurisdiction of the Public Services Ombudsman for Wales, the Scottish Public Services Ombudsman or the Health Service Commissioner for England[^c20180721], he shall—
+
+- (a) unless he also holds the office concerned[^c9785351], consult about the complaint with him; and
+- (b)[^c9785361] if he considers it necessary, inform the person initiating the complaint under the Public Services Ombudsman (Wales) Act 2019 *(Extent: E+W)*[^key-4c5b07a6278d0039cb022cb65854936f] or the Health Service Commissioners Act 1993[^c9785381] , or the Scottish Public Services Ombudsman Act 2002[^c20143591].
+
+(2)[^c9785361] Where by virtue of subsection (1) above the Commissioner consults with the Public Services Ombudsman for Wales, the Scottish Public Services Ombudsman or the Health Service Commissioner for England[^c20180761] in relation to a complaint under this Act, he may consult him about any matter relating to the complaint, including—
+
+- (a) the conduct of any investigation into the complaint; and
+- (b) the form, content and publication of any report of the results of such an investigation.
+
+(2A)[^c20143631] Where an authority to which this Act applies is also a listed authority to which the Scottish Public Services Ombudsman Act 2002 applies, the Commissioner must co-operate with the Scottish Public Services Ombudsman to such an extent as appears appropriate when exercising any function in relation to that authority.
+
+(3) Nothing in section 11(2) of this Act shall apply in relation to the disclosure of information by the Commissioner or any of his officers in the course of consultations held in accordance with this section.
+
+### 11ZAA. Collaborative working between the Parliamentary Commissioner and other Commissioners[^c20306971]
+
+(1) If at any stage in the course of conducting an investigation under this Act the Commissioner forms the opinion that the complaint relates partly to a matter within the jurisdiction of —
+
+- (a) the Health Service Commissioner for England,
+- (b) a Local Commissioner, or
+- (c) both,
+
+he may, subject to subsection (2) of this section, conduct an investigation under this Act jointly with that Commissioner or those Commissioners.
+
+(2) The Commissioner must obtain the consent of the person aggrieved or any person acting on his behalf in accordance with subsection (2) of section 6 of this Act before agreeing to a joint investigation referred to in subsection (1) of this section.
+
+(3) If the Commissioner forms the opinion that matters which are the subject of an investigation[^c20306991] by—
+
+- (a) the Health Service Commissioner for England,
+- (b) a Local Commissioner, or
+- (c) both,
+
+include[^c20307011] a matter within his jurisdiction, he may, subject to subsection (4) of this section, conduct an investigation of that matter[^c20307031] under this Act jointly with that Commissioner or those Commissioners.
+
+(4) The Commissioner may not investigate a matter[^c20307191] jointly with another person under subsection (3) of this section unless a complaint about the matter[^c20307221] has been made in accordance with section 5 of this Act.
+
+(5) If the Commissioner conducts an investigation [^c20307281]. . . jointly with another person, the requirements of section 10 (so far as relating to a case where the Commissioner conducts an investigation under this Act) may be satisfied by a report made jointly with that person.
+
+(6) Apart from identifying the government department or other authority concerned, a report prepared by virtue of subsection (5) of this section by the Commissioner and a Local Commissioner shall not—
+
+- (a) mention the name of any person, or
+- (b) contain any particulars which, in the opinion of the Commissioner and the Local Commissioner, are likely to identify any person,
+
+unless, after taking into account the public interest as well as the interests of the complainant and of persons other than the complainant, the Commissioner and the Local Commissioner consider it necessary to mention the name of that person or to include in the report any such particulars.
+
+(7) Nothing in subsection (6) of this section prevents a report—
+
+- (a) mentioning the name of, or
+- (b) containing particulars likely to identify,
+
+the Mayor of London or any member of the London Assembly.
+
+### 11AA. Disclosure of information by Parliamentary Commissioner to Information Commission.[^c9785411][^key-d6b3f8f84dd59013475555a3d68723f3]
+
+(1) The Commissioner may disclose to the Information Commission[^key-55dddafb51795b30d8e988256b84e433] any information obtained by, or furnished to, the Commissioner under or for the purposes of this Act if the information appears to the Commissioner to relate to—
+
+- (a) a matter in respect of which the Information Commission could exercise any power conferred by—
+  - (i)[^key-d2862e5a8403c09a84d8cb553988e21e] sections 142 to 154, 160 to 164 or 174 to 176 of, or Schedule 15 to, the Data Protection Act 2018 (certain provisions relating to enforcement),
+  - (ii) section 48 of the Freedom of Information Act 2000 (practice recommendations), or
+  - (iii) Part IV of that Act (enforcement), or
+- (b)[^key-90fb62b1e19cc874bdb419b290b0eeb3] the commission of an offence under—
+  - (i) a provision of the Data Protection Act 2018 other than paragraph 15 of Schedule 15 (obstruction of execution of warrant etc), or
+  - (ii) section 77 of the Freedom of Information Act 2000 (offence of altering etc records with intent to prevent disclosure).
+
+(2) Nothing in section 11(2) of this Act shall apply in relation to the disclosure of information in accordance with this section.
+
+### 11B. The Criminal Injuries Compensation Scheme.[^c9785421]
+
+(1) For the purposes of this Act, administrative functions exercisable by an administrator of the Criminal Injuries Compensation Scheme (“Scheme functions”) shall be taken to be administrative functions of a government department to which this Act applies.
+
+(2) For the purposes of this section, the following are administrators of the Scheme—
+
+- (a) a claims officer appointed under section 3(4)(b) of the Criminal Injuries Compensation Act 1995;
+- (b) [^c20325151]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c) the Scheme manager, as defined by section 1(4) of that Act, and any person assigned by him to exercise functions in relation to the Scheme.
+
+(3) The principal officer in relation to any complaint made in respect of any action taken in respect of Scheme functions is—
+
+- (a)[^c9785431] in the case of action taken by a claims officer, such person as may from time to time be designated by the Secretary of State for the purposes of this paragraph;
+- (b) [^c20325151]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c) in the case of action taken by the Scheme manager or by any other person mentioned in subsection (2)(c) of this section, the Scheme manager.
+
+(4) The conduct of an investigation under this Act in respect of any action taken in respect of Scheme functions shall not affect—
+
+- (a) any action so taken; or
+- (b) any power or duty of any person to take further action with respect to any matters subject to investigation.
+
+### 11C. The Victims of Overseas Terrorism Compensation Scheme[^key-2bd115d26b769d5e63a4b9dc7df2c480]
+
+(1) For the purposes of this Act, administrative functions exercisable by an administrator of the Victims of Overseas Terrorism Compensation Scheme (see section 48 of the Crime and Security Act 2010) (“Scheme functions”) shall be taken to be administrative functions of a government department to which this Act applies.
+
+(2) For the purposes of this section, a claims officer appointed under section 51(1) of the Crime and Security Act 2010 is an administrator of the Scheme.
+
+(3) The principal officer in relation to any complaint made in respect of any action taken in respect of Scheme functions by a claims officer is such person as may from time to time be designated by the Secretary of State for the purposes of this subsection.
+
+(4) The conduct of an investigation under this Act in respect of any action taken in respect of Scheme functions shall not affect—
+
+- (a) any action so taken; or
+- (b) any power or duty of any person to take further action with respect to any matters subject to investigation.
+
+## Supplemental
+
+### 12. Interpretation.
+
+(1) In this Act the following expressions have the meanings hereby respectively assigned to them, that is to say—
+
+- “**action**” includes failure to act, and other expressions connoting action shall be construed accordingly;
+- “**the Commissioner**” means the Parliamentary Commissioner for Administration;
+- “**the Court**” means, in relation to England and Wales the High Court, in relation to Scotland the Court of Session, and in relation to Northern Ireland the High Court of Northern Ireland;
+- “**enactment**” includes an enactment of the Parliament of Northern Ireland, and any instrument made by virtue of an enactment;
+- “[^c20307341]**Local Commissioner**” means a Local Commissioner under Part 3 of the Local Government Act 1974;
+- “**officer**” includes employee;
+- “person aggrieved”—[^c20143691]
+  - (a) in relation to a complaint under section 5(1) of this Act, means the person who claims or is alleged to have sustained such injustice as is mentioned in section 5(1)(a) of this Act;
+  - (b) in relation to a complaint under section 5(1A) of this Act, means the person to whom the duty referred to in section 5(1A)(a) of this Act is or is alleged to be owed;
+- “**tribunal**” includes the person constituting a tribunal consisting of one person.
+
+(2) References in this Act to any enactment are references to that enactment as amended or extended by or under any other enactment.
+
+(3) It is hereby declared that nothing in this Act authorises or requires the Commissioner to question the merits of a decision taken without maladministration by a government department or other authority in the exercise of a discretion vested in that department or authority.
+
+### 13. Application to Northern Ireland.[^c9785491]
+
+(1) Subject to the provisions of this section, this Act extends to Northern Ireland.
+
+(2) Nothing in this section shall be construed as authorising the inclusion among the departments and authorities to which this Act applies of any department of the Government of Northern Ireland, or any authority or body[^c9785501] established by or with the authority of the Parliament of Northern Ireland; but this Act shall apply to any such department authority or body[^c9785511], in relation to any action taken by them as agent for a department or authority to which this Act applies, as it applies to the last-mentioned department or authority.
+
+(3) In section 6 of this Act the references to a Minister of the Crown or government department and to Parliament shall include references to a Minister or department of the Government of Northern Ireland and to the Parliament of Northern Ireland.
+
+(4) In section 8 of this Act the references to the Cabinet shall include references to the Executive Committee of the Assembly, and in relation to that Committee for the reference to the Prime Minister there shall be substituted a reference to the First Minister and deputy First Minister acting jointly[^c9785521]
+
+### 14. Short title and commencement.
+
+(1) This Act may be cited as the Parliamentary Commissioner Act 1967.
+
+(2)[^c9785531] This Act shall come into force on such date as Her Majesty may by Order in Council appoint.
+
+(3) A complaint under this Act may be made in respect of matters whenever arising[^c9785541]; and for the purposes of subsection (3) of section 6 of this Act any time elapsing between the date of the passing and the date of the commencement of this Act (but not any time before the first of those dates) shall be disregarded.
+
+SCHEDULES
+
+## SCHEDULE 1 — Pensions and other benefits[^c9785571][^c9785561]
+
+Section 2.
+
+### Persons taking office after the appointed day
+
+**1.**[^c9785581] A person who first holds office as the Commissioner on or after the appointed day shall be entitled, if he was a member of a judicial pension scheme immediately before he first holds that office, to elect between—
+
+- (a) the scheme of pensions and other benefits under that judicial pension scheme (his “**former scheme**”);
+- (b) (if different from his former scheme) the scheme of pensions and other benefits constituted by Part I of the 1993 Act (“**the 1993 scheme**”); and
+- (c) the scheme of pensions and other benefits applicable under section 1 of the Superannuation Act 1972 to the civil service of the State (“**the civil service scheme**”);
+
+and, if he is not entitled to make an election under this paragraph, or if he is so entitled but fails to make such an election, he shall be treated as if he had been so entitled and had elected for the civil service scheme.
+
+### Transitional provision for persons appointed before the appointed day
+
+**2.**[^c9785591] (1) If a person who held the office of Commissioner before the appointed day has made an election under the former enactments for the old judicial scheme, he shall be entitled to make an election under this sub-paragraph between—
+
+- (a) the old judicial scheme; and
+- (b) the 1993 scheme;
+
+and, if he fails to make an election under this sub-paragraph, he shall be taken to have elected for the old judicial scheme.
+
+(2) If a person who held the office of Commissioner before the appointed day—
+
+- (a) has made an election under the former enactments for the civil service scheme, or
+- (b) has failed to make an election under those enactments (so that he is taken to have elected for the civil service scheme),
+
+he shall be treated as if he had been entitled to make an election under this Schedule and had elected for the civil service scheme.
+
+### Effect of election to continue in former scheme
+
+**3.** Where a person elects under this Schedule for his former scheme, that scheme shall, subject to regulations under this Schedule, apply as if his service as Commissioner were service which was subject, in his case, to that scheme.
+
+### Effect of election for the 1993 scheme
+
+**4.**[^c9785601] (1) A person who elects under paragraph 1(b) or 2(1)(b) above for the 1993 scheme, shall be entitled, when he ceases to hold office as Commissioner, to a pension under Part I of the 1993 Act at the appropriate annual rate (within the meaning of that Act) if he has held that office for at least 5 years and either—
+
+- (a) he has attained the age of 65; or
+- (b) he is disabled by permanent infirmity for the performance of the duties of the office;
+
+and, subject to the following provisions of, and regulations under, this Schedule, the provisions of Part I of that Act (other than sections 1(1) to (4) and 2) and of sections 19, 20 and 23 of, and Schedule 2 to, that Act (which provide for benefits in respect of earnings in excess of pension-capped salary, appeals and transfer of accrued rights) shall apply in relation to him and his service in the office of Commissioner as they apply in relation to a person to whom Part I of that Act applies.
+
+(2) Subject to regulations under this Schedule, in the application of provisions of the 1993 Act by virtue of sub-paragraph (1) above, a person who elects for the 1993 scheme shall be treated—
+
+- (a) as if the office of Commissioner were a qualifying judicial office (within the meaning of that Act) by virtue of inclusion among the offices specified in Part I of Schedule 1 to that Act;
+- (b) as if his election under this Schedule were an election such as is mentioned in paragraph (d) of section 1(1) of that Act (so that, in particular, section 12 of that Act, which provides for the transfer of accrued rights into the scheme, applies);
+- (c) as if his pension by virtue of this Schedule were a pension under section 2 of that Act (and, accordingly, a judicial pension, within the meaning of that Act); and
+- (d) for the purpose of determining, in the event of his death, the rate of any surviving spouse’s or children’s pension payable under sections 5 to 8 of that Act in respect of his service as Commissioner, as if references in those sections to the annual rate of the deceased’s judicial pension were references—
+  - (i) where a pension had commenced to be paid to him by virtue of sub-paragraph (1) above, to the appropriate annual rate of that pension; or
+  - (ii) where no such pension had commenced to be paid to him, to the rate that would have been the appropriate annual rate of the pension payable to him by virtue of sub-paragraph (1)(b) above, had he not died, but been disabled by permanent infirmity for the performance of the duties of his office on and after the date of death;
+
+and, in the application of that Act to the Commissioner (whether by virtue of paragraph 1(a) or (b) or 2(1)(b) above) the references to the appropriate Minister in sections 13 (election for personal pension), 19 (benefits in respect of earnings in excess of pension-capped salary) and 20 (appeals) of, and Schedule 2 (transfer of accrued rights) to, that Act shall be taken as references to the Treasury and the power conferred by paragraph 2 of that Schedule to make regulations shall be exercisable by the Treasury.
+
+### Effect of election for, or to continue in, the civil service scheme
+
+**5.** Where a person elects under this Schedule for the civil service scheme, the principal civil service pension scheme within the meaning of section 2 of the Superannuation Act 1972 and for the time being in force shall, subject to regulations under this Schedule, apply as if his service as Commissioner were service in employment in the civil service of the State.
+
+### Effect of election to continue in the old judicial scheme
+
+**6.** Where a person elects under this Schedule for the old judicial scheme, that scheme and the former enactments shall, subject to regulations under this Schedule, continue to have effect in relation to him and his service in the office of Commissioner.
+
+### Time for, and manner of, election
+
+**7.** Any power to make an election under this Schedule shall be exercisable within such time and in such manner as may be prescribed in regulations under this Schedule.
+
+### Regulations
+
+**8.**[^c9785611] (1) The Treasury may make regulations for purposes supplementary to the other provisions of this Schedule.
+
+(2) Any such regulations may, without prejudice to section 38 or 39A of the Superannuation Act 1965 (employment in more than one public office), make special provision with respect to the pensions and other benefits payable to or in respect of a person to whom—
+
+- (a) his former scheme,
+- (b) the 1993 scheme,
+- (c) the civil service scheme, or
+- (d) the old judicial scheme,
+
+applies, or has applied, in respect of any service other than service as Commissioner.
+
+(3) The provision that may be made by virtue of sub-paragraph (2) above includes provision—
+
+- (a) for aggregating—
+  - (i) other service falling within his former scheme, the 1993 scheme or the old judicial scheme with service as Commissioner, or
+  - (ii) service as Commissioner with such other service,
+
+  for the purpose of determining qualification for, or entitlement to, or the amount of, benefit under the scheme in question;
+- (b) for increasing the amount of the benefit payable under any of the schemes mentioned in paragraph (a)(i) above, in the case of a person to whom that scheme applied in respect of an office held by him before appointment as Commissioner, up to the amount that would have been payable under that scheme if he had retired from that office on the ground of permanent infirmity immediately before his appointment.
+
+(4) Any statutory instrument made by virtue of this Schedule shall be subject to annulment in pursuance of a resolution of the House of Commons.
+
+### Pensions and benefits to be charged on the Consolidated Fund
+
+**9.** Any pension or other benefit granted by virtue of this Schedule shall be charged on, and issued out of, the Consolidated Fund.
+
+### Interpretation
+
+**10.** In this Schedule—
+
+- “**the 1981 Act**” means the Judicial Pensions Act 1981;
+- “**the 1993 Act**” means the Judicial Pensions and Retirement Act 1993;
+- “**the appointed day**” means the day on which Part II of Schedule 4 to the 1993 Act comes into force;
+- “**the former enactments**” means Schedule 1 to this Act, as it had effect from time to time before the appointed day;
+- “**judicial pension scheme**” means any public service pension scheme, as defined in—
+  - (a) section 1 of the Pension Schemes Act 1993[^c9785621], or
+  - (b) section 1 of the Pension Schemes (Northern Ireland) Act 1993[^c9785631],
+
+  under which pensions and other benefits are payable in respect of service in one or more qualifying judicial offices, within the meaning of the 1993 Act, but does not include the civil service scheme;
+- “**the old judicial scheme**” means the statutory scheme of pensions and other benefits applicable under or by virtue of the 1981 Act to the judicial offices listed in section 1 of that Act.
+
+## SCHEDULE 2 — DEPARTMENTS ETC. SUBJECT TO INVESTIGATION[^key-e259c713fef36d68abbe2294ed0a1da4][^key-4a468b05f10726d889927167169f7762]
+
+Section 4
+
+[^key-e259c713fef36d68abbe2294ed0a1da4]
+
+- Administration of Radioactive Substances Advisory Committee.
+- Advanced Research and Invention Agency.[^key-1cbd21e510ec65f5a7ebc5e927a20742]
+- [^key-390011a1a528c464f1b08909a34b1ff1]...
+- Advisory Committee on Animal Feedingstuffs.
+- [^key-390011a1a528c464f1b08909a34b1ff1]...
+- [^key-390011a1a528c464f1b08909a34b1ff1]...
+- Advisory Committee on Clinical Excellence Awards.
+- Advisory Committee on Consumer Engagement.
+- [^key-390011a1a528c464f1b08909a34b1ff1]...
+- [^key-390011a1a528c464f1b08909a34b1ff1]...
+- [^key-5f62b1e18be60343a485d30085fabb79]...
+- [^key-390011a1a528c464f1b08909a34b1ff1]...
+- Advisory Committee on Microbiological Safety of Food.
+- [^key-390011a1a528c464f1b08909a34b1ff1]...
+- Advisory Committee on Novel Foods and Processes.
+- [^key-f659399cbaedf76db291070a60399ef1]...
+- Advisory Committee on Releases to the Environment.
+- [^key-390011a1a528c464f1b08909a34b1ff1]...
+- Advisory, Conciliation and Arbitration Service.
+- Advisory Council on Historical Manuscripts.
+- [^key-3282f41b7a56395db3c0abe45861ceb0]...
+- Advisory Council on the Misuse of Drugs.
+- Advisory Council on National Records and Archives.
+- Advisory Council on Public Records.
+- [^key-390011a1a528c464f1b08909a34b1ff1]...
+- Advisory Group on Military Medicines.
+- Advisory Panel on Public Sector Information.
+- An advocate for victims of major incidents appointed under Part 2 of the Victims and Prisoners Act 2024.[^key-1a4647ddf1024a2a18107867cd4df0b6]
+- [^key-3980306c3b361d3db0fba15e8f7fb8b5]...
+- [^key-ead38009a2cf7fe799ea3fc74ba5117f]...
+- [^key-3980306c3b361d3db0fba15e8f7fb8b5]...
+- Agriculture and Horticulture Development Board.
+- [^key-1db245f53cff8ccdec4aae9cf95dc6e6]...
+- Animals Procedures Committee.
+- Appeal Officer for Community Interest Companies.
+- [^key-fda579935884888e5e01605a5f2d5c05]...
+- Arts Council of England.
+- Big Lottery Fund.
+- [^key-fda579935884888e5e01605a5f2d5c05]...
+- Board of the Pension Protection Fund.
+- Board of Trade.
+- Board of Trustees of the Science Museum.[^key-39fc105bc89febd20a0e481bf619334c]
+- Boundary Commission for England.
+- Boundary Commission for Northern Ireland.
+- Boundary Commission for Scotland.
+- Boundary Commission for Wales.
+- British Council.
+- British Film Institute.
+- British Hallmarking Council.
+- British Library Board.
+- British Museum.
+- British Pharmacopoeia Commission.
+- British Tourist Authority.
+- British Transport Police Authority.[^key-46b01f529a97d77624f56338f869021f]
+- [^key-78d56bb7a40a1bd78d1da24aed97706f]...
+- The Building Safety Regulator[^key-59d20f4c8c758ac252789e4201d2c43e]
+- Cabinet Office.
+- Capital for Enterprise Limited.
+- Care Quality Commission.
+- Central Advisory Committee on Pensions and Compensation.
+- Central Bureau for Educational Visits and Exchanges.
+- [^key-390011a1a528c464f1b08909a34b1ff1]...
+- The Certification Officer.
+- Charity Commission.
+- [^key-a65ede897b22b165fc5e11ea1ab23de9]...
+- [^key-bfb5fef8e13900919207be741e4c0a16]...
+- [^key-458df781b1b28b8429aaf7abb8ec90c1]...
+- Children and Family Court Advisory and Support Service.
+- Civil Aviation Authority.
+- Civil Justice Council.
+- Coal Authority.
+- [^key-390011a1a528c464f1b08909a34b1ff1]...
+- Commission for Equality and Human Rights.
+- [^key-3980306c3b361d3db0fba15e8f7fb8b5]...
+- Commission on Human Medicines.
+- Commissioner for Victims and Witnesses.
+- [^key-390011a1a528c464f1b08909a34b1ff1]...
+- [^key-390011a1a528c464f1b08909a34b1ff1]...
+- The Committee on Climate Change.
+- [^key-390011a1a528c464f1b08909a34b1ff1]...
+- [^key-390011a1a528c464f1b08909a34b1ff1]...
+- Committee on Mutagenicity of Chemicals in Food, Consumer Products and the Environment.
+- Committee on Radioactive Waste Management.
+- [^key-390011a1a528c464f1b08909a34b1ff1]...
+- Committee on Standards in Public Life.
+- Committee on Toxicity of Chemicals in Food, Consumer Products and the Environment.
+- Commonwealth Scholarship Commission in the United Kingdom.
+- Community rehabilitation companies.[^key-8272ce2ed3b2824a3c96c010edbb9001]
+- [^key-99bc59fde9c0ffa15ac4250ecfcd02f5]...
+- Competition and Markets Authority.[^key-1351e66ecc04f3a3a09f3fe0244dd3d8]
+- Competition Service.
+- Construction Industry Training Board.
+- Consumer Council for Water.
+- Council for Science and Technology.
+- Crown Estate Office.
+- Defence Nuclear Safety Committee.
+- Defence Scientific Advisory Council.
+- DEFRA Science Advisory Council.
+- [^key-787c296ef24afccafa7601d0039ce325]...
+- Department for Business and Trade.[^key-e84515c4f2f191065dd1b401cc984db2]
+- [^key-3019879649e263821d5b06a979b8d9c0]...
+- [^key-483572b3973d5e9aaf6234c71c58adec]...
+- Department for Culture, Media and Sport.
+- Department for Education.
+- Department for Energy Security and Net Zero.
+- Department for Environment, Food and Rural Affairs.
+- [^key-c1fcdaa94c99bee25ad9f946efd057d0]...
+- [^key-787c296ef24afccafa7601d0039ce325]...
+- [^key-911f771029f464ee7fee6ad9810ce000]...
+- Department for Transport.
+- Department for Work and Pensions.
+- [^key-3019879649e263821d5b06a979b8d9c0]...
+- Department of Health and Social Care[^key-695c9349916a8a039fa04e9614cb37a9].
+- Department for Science, Innovation and Technology.
+- [^key-390011a1a528c464f1b08909a34b1ff1]...
+- [^key-a0bf7ff60da12f4ea316f7713f168426]...
+- [^key-4edb48928c2b204e263858784fc201bf]...
+- Disabled Persons Transport Advisory Committee.
+- Disclosure and Barring Service.[^key-f2f484f9e982ad6d61452bd32ad0a028]
+- [^key-fda579935884888e5e01605a5f2d5c05]...
+- Electoral Commission.
+- Electricity Settlements Company Ltd.
+- Engineering Construction Industry Training Board.
+- [^key-fda579935884888e5e01605a5f2d5c05]...
+- English Sports Council.
+- English Tourist Board.
+- Environment Agency.
+- [^key-3980306c3b361d3db0fba15e8f7fb8b5]...
+- The Ethics Group: National DNA Database.
+- Ethnic Minority Business Forum.
+- [^key-390011a1a528c464f1b08909a34b1ff1]...
+- Export Credits Guarantee Department.
+- [^key-b1df78f9473a0e4eb7751dda6a0bd920]...
+- Film Industry Training Board for England and Wales.
+- [^key-7a1e1c0e33033cfb5bacef18b3d8a94d]...
+- Food Standards Agency.
+- Foreign, Commonwealth and Development Office.[^key-7d61e0fa1296ec639b8658cc1b4f9de0]
+- The Forensic Science Regulator.[^key-ded941f186299bf47ff956d040205137]
+- Forestry Commission.
+- Fuel Poverty Advisory Group.
+- Gambling Commission.
+- [^key-f180b64f063cb5c216fef6d7980f7063]...
+- Gas and Electricity Markets Authority.
+- Geffrye Museum.
+- [^key-390011a1a528c464f1b08909a34b1ff1]...
+- General Advisory Committee on Science.
+- [^key-e3898aaf8bca74cc539a3887105f72a9]...
+- [^key-390011a1a528c464f1b08909a34b1ff1]...
+- Government Actuary’s Department.
+- Government Equalities Office.
+- The Great Britain-China Centre.
+- Groceries Code Adjudicator.[^key-d4124f0181241d708eaef9113519be3f]
+- Health and Safety Executive.
+- [^key-f4fc17ac962b17670bbb7b2dac69e040]...
+- [^key-dd0604a07ceeb355795acd06ac8c6935]...
+- [^key-674f72e1697b96deeb146fcb81aa8449]...
+- Health Research Authority.[^key-4d830dde88b24a269175134568231e5d]
+- The Health Services Safety Investigations Body.[^key-7ec98280021f0f3926e20f6e822fd735]
+- Her Majesty’s Revenue and Customs.
+- Her Majesty’s Stationery Office.
+- Her Majesty’s Treasury.
+- [^key-390011a1a528c464f1b08909a34b1ff1]...
+- [^key-e5024b8f3df6aa503f86be5a3c93a9be]...
+- High Speed Two (HS2) Ltd.
+- Historic Buildings and Monuments Commission for England.
+- Historic Royal Palaces.
+- Home Office.
+- Homes and Communities Agency.
+- The Horniman Public Museum and Public Park Trust.
+- Horserace Betting Levy Board.
+- Human Fertilisation and Embryology Authority.
+- [^key-390011a1a528c464f1b08909a34b1ff1]...
+- Human Tissue Authority.
+- The Immigration Services Commissioner.
+- Imperial War Museum.
+- [^key-390011a1a528c464f1b08909a34b1ff1]...
+- Independent Advisory Panel on Deaths in Custody.
+- Independent Agricultural Appeals Panel.
+- Independent Commission for Aid Impact.
+- The Independent Football Regulator.[^key-843aad4e739b22992ddeedbc6d413fae]
+- Independent Living Fund (2006).
+- Independent Medical Expert Group.
+- Independent Monitoring Authority for the Citizens' Rights Agreements.[^key-e4148c638fa2606c97cbafcb4faeaaaf]
+- Independent Reconfiguration Panel.
+- [^key-6ed06779d01bd848787cabd5f54bd118]...
+- [^key-390011a1a528c464f1b08909a34b1ff1]...
+- [^key-390011a1a528c464f1b08909a34b1ff1]...
+- [^key-1d5242136679b95f333bf0a9dfe987ee]...
+- Independent Scientific Group on Cattle TB.
+- Industrial Development Advisory Board.
+- Industrial Injuries Advisory Council.
+- The Infected Blood Compensation Authority.[^key-f65a35bb2260b536dd466a8a4fec2a7e]
+- The Information Commission.[^key-34430117e0114f7a62bf4c52bd1ea5df]
+- [^key-6b73f0d8b6d0ebb4e7d68f7afae23820]...
+- [^key-37fde83853e2702bfbc47d1177a28514]...
+- [^key-390011a1a528c464f1b08909a34b1ff1]...
+- [^key-390011a1a528c464f1b08909a34b1ff1]...
+- Joint Nature Conservation Committee.
+- Land Registry.
+- Law Commission.
+- The Leasehold Advisory Service.
+- [^key-7ba10840cc458b17ea7aa375ecccf5cc]...
+- The following general lighthouse authorities—
+  - (a) the Corporation of the Trinity House of Deptford Strond;
+  - (b) the Commissioners of Northern Lighthouses.
+- [^key-6c154aafdddc7d197c3aef130b0ccd80]...
+- The Local Audit Office.[^key-3bee6f2401623eb84ac639167d8e0ac2]
+- Local Government Boundary Commission for England.
+- Low Carbon Contracts Company Ltd.
+- Low Pay Commission.
+- The Marine Management Organisation.
+- Marshall Aid Commemoration Commission.
+- [^key-390011a1a528c464f1b08909a34b1ff1]...
+- Medical Research Council. *(affected by repeal, see note)*[^key-fda579935884888e5e01605a5f2d5c05]
+- [^key-390011a1a528c464f1b08909a34b1ff1]...
+- Ministry of Defence.
+- [^key-cc7e6f36a3c059cff96d77687b61d8ec]...
+- Ministry of Housing, Communities and Local Government[^key-ea6103cb012a4d22093590c5dae3031e]
+- Ministry of Justice.
+- Money and Pensions Service.[^key-684cad37cc686c0bae92a566bb4cda29]
+- [^key-3595f8aa5125e37c2a778bd3f9edc505]...
+- [^key-390011a1a528c464f1b08909a34b1ff1]...
+- Museums, Libraries and Archives Council.
+- National Advisory Group on Clinical Audit and Enquiries.[^key-a0ab6c405651b39d6766bf3c8208c80f]
+- The National Archives.
+- National Army Museum.
+- [^key-fe75407e41e76c0e4faa818945432ee7]...
+- [^key-4a39e9f7e39ee00fa0a842e92e54db29]...
+- National Crime Agency.[^key-bc93955f5f92e236f27987be30d58afb]
+- The National Data Guardian for Health and Social Care.[^key-e42ccd5e583888f3c56325b1918b4006]
+- National Employer Advisory Board.
+- National Employment Savings Trust Corporation.
+- [^key-10d313450a93aa6ce5411cafb23305b8]...
+- National Forest Company.
+- National Gallery.
+- National Heritage Memorial Fund.
+- [^key-46e6d669f3ab328e52bb1d4a81dd6fe2]...
+- National Institute for Health and Care Excellence.[^key-70bd3417dac421e3b0b9e344147eb2ed]
+- [^key-390011a1a528c464f1b08909a34b1ff1]...
+- [^key-1649ae8feb24221984bc32e3ed67b140]...
+- National Maritime Museum.
+- National Museum of the Royal Navy.
+- [^key-ce3249f3d803ad3d5b19a8b65a8b6004]...
+- National Museums and Galleries on Merseyside.
+- [^key-27a2c4111bc041236bd127e1dfcf335d]...
+- National Portrait Gallery.
+- Natural England.
+- [^key-fda579935884888e5e01605a5f2d5c05]...
+- Natural History Museum.
+- Natural Resources Body for Wales.[^key-b03d654f5262af3d599123f1966c2573]
+- Northern Ireland Human Rights Commission.
+- Northern Ireland Office.
+- Nuclear Decommissioning Authority.
+- Nuclear Liabilities Financing Assurance Board.
+- Nuclear Liabilities Fund.
+- Nuclear Research Advisory Council.
+- Nutrition Forum.
+- Office for Budget Responsibility.
+- The Office for Environmental Protection.[^key-3bc153b2d704233d73de5847e8d6e411]
+- Office for Nuclear Regulation.[^key-df5eaf6aea0b05af9833424ec832ba99]
+- Office for Standards in Education, Children’s Services and Skills.
+- Office for Students.[^key-22aa75d02edcec00c82907d9795b34eb]
+- [^key-f2a9f5ec9a43e9d47c4f1662afffd1f8]...
+- Office of the Children’s Commissioner.
+- Office of Communications.
+- [^key-99bc59fde9c0ffa15ac4250ecfcd02f5]...
+- Office of Public Sector Information.
+- Office of Qualifications and Examinations Regulation.
+- Office of Rail and Road[^key-f335222f5481e70d90bcaf81d3eaa824].
+- Office of the Regulator of Community Interest Companies.
+- Office of the Secretary of State for Scotland.
+- Official receiver.
+- The Official Solicitor to the Supreme Court.
+- [^key-b8122195572a94beed54be66619de993]...
+- [^key-3980306c3b361d3db0fba15e8f7fb8b5]...
+- Ordnance Survey.
+- Parades Commission for Northern Ireland.
+- Parole Board.
+- [^key-390011a1a528c464f1b08909a34b1ff1]...
+- Passengers’ Council.
+- The Pensions Regulator.
+- [^key-951fde2abf2b26940146437d9e74b668]...
+- [^key-0c97f7b4936330cd11296598cde29b31]...
+- Public Record Office.
+- Pubs Code Adjudicator.[^key-5b882ebd31fc435af9c3096f3f9b2324]
+- [^key-90b9409b03d3bf28402f25120a25d45a]...
+- [^key-530c27c2f67c3491f8498479373ab08d]...
+- Regional Advisory Committees.
+- [^key-0f2d3ece57a9b396794efadaa8da964e]...
+- The Registrar of Consultant Lobbyists[^key-1ad708b3be782fbaf71a19c0776e5381]
+- Registrar General for England and Wales.
+- The Regulator of Social Housing[^key-bf39a93a9ff05ea28c2e77717bc51184]
+- Regulatory Policy Committee[^key-c8556a005d0ae63a170eb1b30e38133c]
+- Remploy Ltd.
+- [^key-390011a1a528c464f1b08909a34b1ff1]...
+- Residuary Bodies.
+- Reviewing Committee on the Export of Works of Art and Objects of Cultural Interest.
+- Royal Air Force Museum.
+- Royal Armouries Museum.
+- Royal Botanic Gardens, Kew.
+- Royal Commission on Historical Manuscripts.
+- Royal Mint.
+- Science Advisory Committee on the Medical Implications of Less Lethal Weapons.
+- [^key-fda579935884888e5e01605a5f2d5c05]...
+- [^key-390011a1a528c464f1b08909a34b1ff1]...
+- Sea Fish Industry Authority.
+- Security Industry Authority.
+- Sentencing Council for England and Wales.
+- [^key-f34b8fec671fc05f553a483350a22939]...
+- [^key-a708ba72abd411f31d7da2d5f673358a]...
+- Single Source Regulations Office.[^key-51195ba398b28d077da025d8863e8f03]
+- Sir John Soane’s Museum.
+- Small Business Commissioner.[^key-36e7045b359ce65b961c416608284ef0]
+- [^key-90db0e8ac3f2c799b737353aeb92e990]...
+- Social Mobility and Child Poverty Commission[^key-166eef240d3cef881e709001b28a4f6c]
+- Social Science Research Committee.
+- Social Security Advisory Committee.
+- Sports Grounds Safety Authority.
+- [^key-9d46a97ba6353f1137612d6a7201a6a9]...
+- Statistics Board.
+- A strategic highways company for the time being appointed under Part 1 of the Infrastructure Act 2015.[^key-1f95e5da2a0493a8d918b972bab64682]
+- Supreme Court.
+- [^key-390011a1a528c464f1b08909a34b1ff1]...
+- Tate Gallery.
+- [^key-fda579935884888e5e01605a5f2d5c05]...
+- The Theatres Trust.
+- [^key-a89234cf7d30f4f34e9cda180e06f29d]...
+- Trade Remedies Authority.[^key-7f2de4660e4c9795eadcb1b27d0bb74c]
+- Treasure Valuation Committee.
+- The Treasury Solicitor.
+- UK Anti-Doping Ltd.
+- [^key-390011a1a528c464f1b08909a34b1ff1] ...
+- UK Commission for Employment and Skills.
+- [^key-390011a1a528c464f1b08909a34b1ff1] ...
+- UK National Authority Advisory Group.
+- [^key-390011a1a528c464f1b08909a34b1ff1]...
+- United Kingdom Atomic Energy Authority.
+- United Kingdom Research and Innovation.[^key-7fb58db00dc4c01321456c00f7c279e2]
+- United Kingdom Sports Council.
+- [^key-390011a1a528c464f1b08909a34b1ff1]...
+- Unlinked Anonymous Surveys Steering Group.
+- [^key-390011a1a528c464f1b08909a34b1ff1]...
+- Urban development corporations established for urban development areas wholly in England.
+- Valuation Tribunal Service.
+- Veterinary Products Committee.
+- [^key-b19ebd19a0be627f15c557a835c10f5e]...
+- Victoria and Albert Museum.
+- Wales Office.
+- Wallace Collection.
+- War pensions committees.
+- Water Services Regulation Authority.
+- Westminster Foundation for Democracy.
+- [^key-390011a1a528c464f1b08909a34b1ff1]...
+- [^key-a4b781a163f8fd6757bc0b29f6b85f2f]...
+- Youth Justice Board for England and Wales.
+
+[^key-e259c713fef36d68abbe2294ed0a1da4]**NOTES**
+
+- **General**
+
+  In relation to any function exercised on behalf of the Crown by a department or authority to which this Act applies which was previously exercisable on behalf of the Crown by a department or authority to which this Act does not apply, the reference to the department or authority to which this Act applies includes a reference to the other department or authority if the other department or authority—
+
+  - (a) ceased to exercise the function before the commencement of this Act; or
+  - (b) where it exercised the function after the commencement of this Act, did so only when it was a department or authority to which this Act applied.
+- **Board of the Pension Protection Fund**
+
+  In the case of the Board of the Pension Protection Fund, an investigation may be conducted only in respect of action in connection with its functions relating to the financial assistance scheme established by regulations under section 286(1) of the Pensions Act 2004.
+- **Cabinet Office**
+
+  The reference to the Cabinet Office does not include any of the Secretariats (including the intelligence and security functions carried out by the Chairman of the Joint Intelligence Committee and the Prime Minister’s Security Adviser respectively) or the office of the Secretary of the Cabinet. The reference to the Cabinet Office includes the Lord President of the Council’s Office, the executive agencies of the Cabinet Office and the office of any Minister whose expenses are defrayed out of moneys provided by Parliament for the service of the Cabinet Office.
+
+  **Committee on Climate Change**
+
+  In the case of the Committee on Climate Change, no investigation is to be conducted in respect of any action taken by or on behalf of the Committee—
+
+  - (a) in the exercise in or as regards Scotland of any function to the extent that the function is exercisable within devolved competence (within the meaning of section 54 of the Scotland Act 1998), or
+  - (b) in connection with functions of the Committee in relation to Wales (within the meaning of the Government of Wales Act 2006).
+- **Environment Agency**
+
+  The reference to the Environment Agency is a reference to that Agency in relation to all its functions other than its flood defence functions, within the meaning of the Water Resources Act 1991; and no investigation is to be conducted in respect of any action in connection with functions of the Environment Agency in relation to Wales (within the meaning of the Government of Wales Act 2006).
+- **Forestry Commission**
+
+  In the case of the Forestry Commission no investigation is to be conducted in respect of any action in connection with functions of the Forestry Commissioners in relation to Wales (within the meaning of the Government of Wales Act 2006).
+- **Government Actuary’s Department**
+
+  In the case of the Government Actuary’s Department an investigation may be conducted only in respect of the giving of advice by the Government Actuary’s Department on or before 26th April 2001 relating to the exercise of functions under—
+
+  - (a) Part 2 of the Insurance Companies Act 1982, or
+  - (b) any other enactment relating to the regulation of insurance companies within the meaning of that Act.
+- **[^key-8d28920d78c5261ed1db5e23b1a44cfc]...**
+
+  [^key-8d28920d78c5261ed1db5e23b1a44cfc]...
+- **HM Treasury**
+
+  The reference to Her Majesty’s Treasury includes its subordinate departments and the office of any Minister whose expenses are defrayed out of moneys provided by Parliament for the service of Her Majesty’s Treasury; but it does not include National Savings and Investments.
+- **Homes and Communities Agency**
+
+  In the case of the Homes and Communities Agency no investigation is to be conducted in respect of any action in connection with functions in relation to town and country planning.
+- **Corporation of the Trinity House of Deptford Strond**
+
+  In the case of the Corporation of the Trinity House of Deptford Strond an investigation may be conducted only in respect of action in connection with its functions as a general lighthouse authority.
+- **Ministry of Defence**
+
+  The reference to the Ministry of Defence includes the Defence Council, the Admiralty Board, the Army Board and the Air Force Board.
+- **Ministry of Justice**
+
+  The reference to the Ministry of Justice includes the Public Trustee but does not include the Privy Council Office or the Office of the Judicial Committee of the Privy Council.
+- **National Crime Agency[^key-4ac47ff50c24fe7b13267c8b304c309e]**
+
+  In the case of the National Crime Agency[^key-391ce50bc73ace146fb6bb176d24369c], an investigation may be conducted only in respect of the exercise of functions vested in it by virtue of a notice served on the Commissioners for Her Majesty’s Revenue and Customs under section 317(2), 321(2) or 322(2) of the Proceeds of Crime Act 2002 (Revenue functions).
+- **Statistics Board**
+
+  In the case of the Statistics Board, no investigation is to be conducted in relation to any action taken by or on behalf of the Board in the exercise of any of its functions where the function is being exercised only in relation to Scottish devolved statistics (within the meaning of section 66 of the Statistics and Registration Service Act 2007).
+- **Supreme Court**
+
+  In the case of the Supreme Court an investigation may be conducted only in respect of action taken by administrative staff but not so far as that action is taken at the direction, or on the authority (whether express or implied), of any person acting in a judicial capacity.
+- **Treasury Solicitor**
+
+  The reference to the Treasury Solicitor does not include a reference to Her Majesty’s Procurator General.
+- **Urban development corporations**
+
+  In the case of an urban development corporation no investigation is to be conducted in respect of any action in connection with functions in relation to town and country planning.
+
+## SCHEDULE 3 — Matters not subject to investigation
+
+**1.** Action taken in matters certified by a Secretary of State or other Minister of the Crown to affect relations or dealings between the Government of the United Kingdom and any other Government or any international organisation of States or Governments.
+
+**2.**[^c20281161] (1) Action taken, in any country or territory outside the United Kingdom, by or on behalf of any officer representing or acting under the authority of Her Majesty in respect of the United Kingdom, or any other officer of the Government of the United Kingdom other than,
+
+- (a) action which is taken by an officer (not being an honorary consular officer) in the exercise of a consular function on behalf of the Government of the United Kingdom;
+- (b) action which is taken by an officer within a control zone or a supplementary control zone; or
+- (c) action which is taken by a British sea-fishery officer.
+
+(2) In this paragraph—
+
+- (a) “**control zone**” has the meaning given collectively by Schedule 1 to the Channel Tunnel (International Arrangements) Order 1993, Schedule 1 to the Channel Tunnel (Miscellaneous Provisions) Order 1994 and regulation 2 of the Nationality, Immigration and Asylum Act 2002 (Juxtaposed Controls) Order 2003;
+- (b) “**supplementary control zone**” has the meaning given by Schedule 1 to the Channel Tunnel (International Arrangements) Order 1993;
+- (c) “**British sea-fishery officer**” has the meaning given by section 7 of the Sea Fisheries Act 1968.
+
+**3.** Action taken in connection with the administration of the government of any country or territory outside the United Kingdom which forms part of Her Majesty’s dominions or in which Her Majesty has jurisdiction.
+
+**4.**[^c9789631][^c20135351] Action taken by the Secretary of State under the Extradition Act 2003.
+
+**5.**[^c9789661] Action taken by or with the authority of the Secretary of State for the purposes of investigating crime or of protecting the security of the State, including action so taken with respect to passports.
+
+**6.**[^c20344671] The commencement or conduct of civil or criminal proceedings before any court of law in the United Kingdom, of service law proceedings (as defined by section 324(5) of the Armed Forces Act 2006) (anywhere)[^c20335611] or the [^c9789691]Air Force Act 1955, or of proceedings before any international court or tribunal.
+
+**6A.**[^c9789701] Action taken by any person appointed by the Lord Chancellor as a member of the administrative staff of any court or tribunal, so far as that action is taken at the direction, or on the authority (whether express or implied), of any person acting in a judicial capacity or in his capacity as a member of the tribunal.
+
+**6B.**[^c9789711] (1) Action taken by any member of the administrative staff of a relevant tribunal, so far as that action is taken at the direction, or on the authority (whether express or implied), of any person acting in his capacity as a member of the tribunal.
+
+(2)[^c9789721] In this paragraph, “**relevant tribunal**” has the meaning given by section 5(8) of this Act.
+
+**6C.** [^c20325191]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**7.**[^c9789741][^c9789751] Any exercise of the prerogative of mercy or of the power of a Secretary of State to make a reference in respect of any person to [^c9789761]. . . the High Court of Justiciary or the Court Martial Appeal Court[^c20335831].
+
+**8.**[^c9790081] (1)[^c9790091] Action taken on behalf of [^c20325541]... the Secretary of State by a local authority,[^key-1b0604cd2f6de125579ec931aca55f6b] NHS England[^key-ef54011daa65b2919d2aafe176a0baf8], an integrated care board[^key-b0847dc6f7416fe5a155b11cd8f82474] [^key-0df3e4515bc35374fb080a1cde05aa5c]... [^c20325541]...[^c9790111] [^key-578d88ccfe41dc43e08fd12520b5e391]..., or[^c20325581] a Special Health Authority [^c20325541]....
+
+(2)[^c9790181] For the purposes of this paragraph, action taken by a local authority,[^key-598e565f9545cf6bc0831687168e0884] NHS England, an integrated care board[^key-9825c4253faa20b96d14188bd9f4ba36] or [^key-a645767459a798a789bb094740cc09dc]... [^M_F_04b0826b-36ea-49fa-cb34-35f96d106c8c]... , Special Health Authority [^key-f5e3940f37ef5ef1730f91f962586d56]... in the exercise of functions of the Secretary of State shall be regarded as action taken on his behalf.
+
+**9.**[^c9790201] Action taken in matters relating to contractual or other commercial transactions, whether within the United Kingdom or elsewhere, being transactions of a government department or authority to which this Act applies or of any such authority or body as is mentioned in paragraph (a) or (b) of subsection (1) of section 6 of this Act and not being transactions for or relating to—
+
+- (a) the acquisition of land compulsorily or in circumstances in which it could be acquired compulsorily;
+- (b) the disposal as surplus of land acquired compulsorily or in such circumstances as aforesaid.
+
+**10.**[^c9790261] (1)[^c9790271] Action taken in respect of appointments or removals, pay, discipline, superannuation or other personnel matters, in relation to—
+
+- (a) service in any of the armed forces of the Crown, including reserve and auxiliary and cadet forces;
+- (b) service in any office or employment under the Crown or under any authority to which this Act applies[^c9790281]; or
+- (c) service in any office or employment, or under any contract for services, in respect of which power to take action, or to determine or approve the action to be taken, in such matters is vested in Her Majesty, any Minister of the Crown or any such authority as aforesaid.
+
+(1A)[^key-5af44ddec111fc1b5c627c8ecc785b71] Sub-paragraph (1)(a) shall not apply to any action (not otherwise excluded from investigation by this Schedule) which is taken by the Secretary of State in connection with the provision of any allowance, grant, supplement or benefit under—
+
+- (a) the Naval, Military and Air Forces etc. (Disablement and Death) Service Pensions Order 2006 ([S.I.2006/606](https://www.legislation.gov.uk/uksi/2006/606)); or
+- (b) the Armed Forces and Reserve Forces (Compensation Scheme) Order 2011 ([S.I. 2011/517](https://www.legislation.gov.uk/uksi/2011/517)).
+
+(2)[^c9790291] Sub-paragraph (1)(c) above shall not apply to any action (not otherwise excluded from investigation by this Schedule) which is taken by the Secretary of State in connection with:—
+
+- (a) the provision of information relating to the terms and conditions of any employment covered by an agreement entered into by him under section 12(1) of the [^c9790301]Overseas Development and Co-operation Act 1980 or pursuant to the exercise of his powers under Part I of the International Development Act 2002[^c9790311] or
+- (b) the provision of any allowance, grant or supplement or any benefit (other than those relating to superannuation) arising from the designation of any person in accordance with such an agreement.
+
+(3)[^key-ada9575a2d5f2cf2a5d5013cb89aeac3] Sub-paragraph (1)(c) does not apply to any action (not otherwise excluded from investigation by this Schedule) which is taken by the Treasury in connection with—
+
+- (a) the provision of information relating to the terms and conditions of any employment covered by an agreement entered into by the Treasury pursuant to the exercise of the Treasury’s powers under Part 1 of the International Development Act 2002, or
+- (b) the provision of any allowance, grant or supplement or any benefit (other than those relating to superannuation) arising from such an agreement.
+
+**11.** The grant of honours, awards or privileges within the gift of the Crown, including the grant of Royal Charters.
+
+**12.**[^c20281181] (1) Action not otherwise within this Schedule which is taken in the course of administrative functions exercised at the direction, or on the authority (whether express or implied), of a judge of any court established under the law of England and Wales or Northern Ireland.
+
+(2) In this paragraph “**judge**” includes—
+
+- (a) a person appointed under section 89 of, and Part 2 or 3 of Schedule 2 to, the Supreme Court Act 1981, and
+- (b) a Master or District Judge appointed under section 70 of, and Schedule 3 to, the Judicature (Northern Ireland) Act 1978.
+
+## SCHEDULE 4 — RELEVANT TRIBUNALS FOR THE PURPOSES OF SECTION 5(7)[^M_X_82ec82a7-4044-4126-cb55-962fd0ec1d55][^c20324771]
+
+Section 5
+
+- [^key-037e85dd9ab823934ec9ed47a61817a4]...
+- Agricultural Land Tribunals constituted under section 73 of the Agriculture Act 1947.
+- Appeal tribunals constituted under Chapter 1 of Part 1 of the Social Security Act 1998.
+- The appeal tribunal established for Scotland under section 29 of the Betting, Gaming and Lotteries Act 1963 which is known as the Horserace Betting Levy Appeal Tribunal for Scotland.
+- Tribunals of Appeal constituted under section 109 of the London Building Acts (Amendment) Act 1939.
+- [^c20325981]...
+- Central Arbitration Committee constituted under section 259 of the Trade Union and Labour Relations (Consolidation) Act 1992.
+- [^key-d4b246fbc9ad82ea6e09e74742123b6b]...
+- Competition Appeal Tribunal constituted under section 12 of the Enterprise Act 2002.
+- Copyright Tribunal constituted under section 145 of the Copyright, Designs and Patents Act 1988.
+- [^key-698f7b89612ca8b512a2981b4ea99620]...
+- [^key-698f7b89612ca8b512a2981b4ea99620]...
+- Foreign Compensation Commission constituted under section 1 of the Foreign Compensation Act 1950.
+- Horserace Betting Levy Appeal Tribunal for England and Wales constituted under section 29 of the Betting, Gaming and Lotteries Act 1963.
+- [^key-d88c6894ee7ed2356a04e322a1ee0441]...
+- [^key-38a89dbdc6ca2a60c9f7e2992e352816]...
+- [^c20326101]...
+- National Health Service Medicines (Control of Prices and Profits) Appeal Tribunal constituted under regulation 7 of the Health Service Medicines (Price Control Appeals) Regulations 2000.
+- Ombudsman for the Board of the Pension Protection Fund appointed under section 209 of the Pensions Act 2004.
+- Pensions Ombudsman established under section 145 of the Pension Schemes Act 1993.
+- [^key-d2ea43ba6bc48a479d7736c6b34892ee]...
+- [^c20344901]...
+- Plant Varieties and Seeds Tribunal (referred to in section 42 of the Plant Varieties Act 1997).
+- Reference committees constituted under section 27 of the Forestry Act 1967.
+- Rent assessment committees constituted under section 65 of, and Schedule 10 to, the Rent Act 1977 (including when exercising the jurisdiction of residential property tribunals as provided for in section 229 of the Housing Act 2004) and also known as leasehold valuation tribunals for the purpose of determinations pursuant to section 21(1), (2) and (3) of the Leasehold Reform Act 1967 and continued as rent tribunals for the purpose of references pursuant to the provisions in Part V of the Rent Act 1977.
+- [^c20325981]...
+- Traffic commissioners appointed under section 4 of the Public Passenger Vehicles Act 1981.
+- The Valuation Tribunal for England established under Schedule 11 to the Local Government Finance Act 1988[^key-fa440740a39942dcbd7307bbc70de1d0]
+
+## Annotations
+
+[^c9784211]: Modification: Act: for any reference to the Education Assets Board there is substituted (1.10.1998) a reference to the Education Transfer Council by virtue of [1998 c. 31](https://www.legislation.gov.uk/ukpga/1998/31), [s. 136](https://www.legislation.gov.uk/ukpga/1998/31/section/136); [S.I. 1998/2212](https://www.legislation.gov.uk/uksi/1998/2212), [art. 2(1)](https://www.legislation.gov.uk/uksi/1998/2212/article/2/1), [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/1998/2212/schedule/1/part/I)
+
+[^c9784221]: Modification: Act modified (E.W.) (31.3.1991) by [S.I. 1991/517](https://www.legislation.gov.uk/uksi/1991/517), [art. 6(2)](https://www.legislation.gov.uk/uksi/1991/517/article/6/2).
+
+    Act modified (E.W.) (28.3.1991) by [S.I. 1991/710](https://www.legislation.gov.uk/uksi/1991/710), [art. 9(2)](https://www.legislation.gov.uk/uksi/1991/710/article/9/2)
+
+[^c9784231]: Commencement: Act wholly in force at 1.4.1967 see [s. 14(2)](https://www.legislation.gov.uk/ukpga/1967/13/section/14/2).
+
+[^c9784241]: Extent: For application to Northern Ireland see [s. 13](https://www.legislation.gov.uk/ukpga/1967/13/section/13)
+
+[^c9784251]: Modification: Act modified by [S.I. 1989/814](https://www.legislation.gov.uk/uksi/1989/814), [art. 15(2)](https://www.legislation.gov.uk/uksi/1989/814/article/15/2), by [S.I. 1989/1359](https://www.legislation.gov.uk/uksi/1989/1359), [art. 15(2)](https://www.legislation.gov.uk/uksi/1989/1359/article/15/2) and by [S.I. 1989/2470](https://www.legislation.gov.uk/uksi/1989/2470), [art. 16(2)](https://www.legislation.gov.uk/uksi/1989/2470/article/16/2)
+
+[^c9784261]: Modification: Act modified (E.W.) (11.3.1992 for specified purposes and 1.6.1992 otherwise) by [Planning (Hazardous Substances) Act 1990 (c. 10, SIF 123:1)](https://www.legislation.gov.uk/ukpga/1990/10), [s. 21(8)](https://www.legislation.gov.uk/ukpga/1990/10/section/21/8), [Sch. para. 7(2)](https://www.legislation.gov.uk/ukpga/1990/10/schedule/paragraph/7/2); [S.I. 1992/725](https://www.legislation.gov.uk/uksi/1992/725), [arts.2](https://www.legislation.gov.uk/uksi/1992/725/article/2), [3](https://www.legislation.gov.uk/uksi/1992/725/article/3).
+
+[^c9784271]: Modification: Act modified (E.W.) by [Town and Country Planning Act 1990 (c. 8, SIF 123:1)](https://www.legislation.gov.uk/ukpga/1990/8), [ss. 79](https://www.legislation.gov.uk/ukpga/1990/8/section/79), [175](https://www.legislation.gov.uk/ukpga/1990/8/section/175), [195](https://www.legislation.gov.uk/ukpga/1990/8/section/195), [208](https://www.legislation.gov.uk/ukpga/1990/8/section/208), [Sch. 6 para. 8(2)](https://www.legislation.gov.uk/ukpga/1990/8/schedule/6/paragraph/8/2)
+
+[^c9784281]: Modification: Act amended by 1990/419, art. 18(2) and by 1990/1024, art. 14(2)
+
+[^c9784291]: Modification: Act applied (with modifications) (30.9.1992) by [S.I. 1992/2257](https://www.legislation.gov.uk/uksi/1992/2257), [art. 16(2)](https://www.legislation.gov.uk/uksi/1992/2257/article/16/2).
+
+[^c9784301]: Modification: Act modified (E.W.S.) (1.1.1993) by [Transport and Works Act 1992 (c. 42)](https://www.legislation.gov.uk/ukpga/1992/42), [s. 23(10)](https://www.legislation.gov.uk/ukpga/1992/42/section/23/10); [S.I. 1992/2784](https://www.legislation.gov.uk/uksi/1992/2784), [art. 2(a)](https://www.legislation.gov.uk/uksi/1992/2784/article/2/a), [Sch. 1](https://www.legislation.gov.uk/uksi/1992/2784/schedule/1).
+
+    Act extended (5.7.1994) by [1994 c. 19](https://www.legislation.gov.uk/ukpga/1994/19), [ss. 39](https://www.legislation.gov.uk/ukpga/1994/19/section/39), [66(2)(b)](https://www.legislation.gov.uk/ukpga/1994/19/section/66/2/b), [Sch. 13 para. 17](https://www.legislation.gov.uk/ukpga/1994/19/schedule/13/paragraph/17)
+
+    Act extended (1.4.1995) by [S.I. 1995/401](https://www.legislation.gov.uk/uksi/1995/401), [art. 9](https://www.legislation.gov.uk/uksi/1995/401/article/9)
+
+    Act modified (S.) (27.5.1997) by [1997 c. 8](https://www.legislation.gov.uk/ukpga/1997/8), [ss. 48](https://www.legislation.gov.uk/ukpga/1997/8/section/48), [131](https://www.legislation.gov.uk/ukpga/1997/8/section/131), [154](https://www.legislation.gov.uk/ukpga/1997/8/section/154), [169](https://www.legislation.gov.uk/ukpga/1997/8/section/169), [180](https://www.legislation.gov.uk/ukpga/1997/8/section/180), [Sch. 4 para. 8(2)](https://www.legislation.gov.uk/ukpga/1997/8/schedule/4/paragraph/8/2) (with [ss. 64](https://www.legislation.gov.uk/ukpga/1997/8/section/64), [219](https://www.legislation.gov.uk/ukpga/1997/8/section/219))
+
+    Act modified (S.) (27.5.1997) by [1997 c. 9](https://www.legislation.gov.uk/ukpga/1997/9), [ss. 20(4)](https://www.legislation.gov.uk/ukpga/1997/9/section/20/4), [35(5)](https://www.legislation.gov.uk/ukpga/1997/9/section/35/5), [Sch. 3 para. 7(2)](https://www.legislation.gov.uk/ukpga/1997/9/schedule/3/paragraph/7/2) (with [s. 45(5)](https://www.legislation.gov.uk/ukpga/1997/9/section/45/5))
+
+    Act modified (S.) (27.5.1997) by [1997 c. 10](https://www.legislation.gov.uk/ukpga/1997/10), [ss.19](https://www.legislation.gov.uk/ukpga/1997/10/section/19), [40(2)](https://www.legislation.gov.uk/ukpga/1997/10/section/40/2), [Sch. para. 7(2)](https://www.legislation.gov.uk/ukpga/1997/10/schedule/paragraph/7/2) (with [ss. 9(3)](https://www.legislation.gov.uk/ukpga/1997/10/section/9/3), [10(5)](https://www.legislation.gov.uk/ukpga/1997/10/section/10/5), [38(6)](https://www.legislation.gov.uk/ukpga/1997/10/section/38/6))
+
+    Act modified (3.3.1999) by [S.I. 1999/527](https://www.legislation.gov.uk/uksi/1999/527), [art. 6](https://www.legislation.gov.uk/uksi/1999/527/article/6)
+
+    Act modified (1.4.2002) by [S.I. 2001/3962](https://www.legislation.gov.uk/uksi/2001/3962), [art. 7(2)](https://www.legislation.gov.uk/uksi/2001/3962/article/7/2)
+
+[^c20280851]: Textual amendment: Words in [s. 1(2)](https://www.legislation.gov.uk/ukpga/1967/13/section/1/2) omitted (1.10.2006 with application in accordance with Sch. 8 para. 6 of the amending S.I.) by virtue of [The Employment Equality (Age) Regulations 2006 (S.I. 2006/1031)](https://www.legislation.gov.uk/uksi/2006/1031), [reg. 49(1)](https://www.legislation.gov.uk/uksi/2006/1031/regulation/49/1), [Sch. 8 para. 4(2)](https://www.legislation.gov.uk/uksi/2006/1031/schedule/8/paragraph/4/2) (with [regs. 44-46](https://www.legislation.gov.uk/uksi/2006/1031/regulation/44))
+
+[^c20280881]: Textual amendment: [S. 1(2A)-(2C)](https://www.legislation.gov.uk/ukpga/1967/13/section/1/2A) inserted (1.10.2006 with application in accordance with Sch. 8 para. 6 of the amending S.I.) by [The Employment Equality (Age) Regulations 2006 (S.I. 2006/1031)](https://www.legislation.gov.uk/uksi/2006/1031), [reg. 49(1)](https://www.legislation.gov.uk/uksi/2006/1031/regulation/49/1), [Sch. 8 para. 4(3)](https://www.legislation.gov.uk/uksi/2006/1031/schedule/8/paragraph/4/3) (with [regs. 44-46](https://www.legislation.gov.uk/uksi/2006/1031/regulation/44))
+
+[^c20280901]: Textual amendment: [S. 1(3)](https://www.legislation.gov.uk/ukpga/1967/13/section/1/3) substituted (1.10.2006 with application in accordance with Sch. 8 para. 6 of the amending S.I.) by [The Employment Equality (Age) Regulations 2006 (S.I. 2006/1031)](https://www.legislation.gov.uk/uksi/2006/1031), [reg. 49(1)](https://www.legislation.gov.uk/uksi/2006/1031/regulation/49/1), [Sch. 8 para. 4(4)](https://www.legislation.gov.uk/uksi/2006/1031/schedule/8/paragraph/4/4) (with [regs. 44-46](https://www.legislation.gov.uk/uksi/2006/1031/regulation/44))
+
+[^c9784321]: Textual amendment: [S. 1(3A)](https://www.legislation.gov.uk/ukpga/1967/13/section/1/3A) inserted by [Parliamentary and Health Service Commissioners Act 1987 (c. 39, SIF 89)](https://www.legislation.gov.uk/ukpga/1987/39), [s. 2(1)(b)](https://www.legislation.gov.uk/ukpga/1987/39/section/2/1/b)
+
+[^c20280931]: Textual amendment: [S. 1(3B)](https://www.legislation.gov.uk/ukpga/1967/13/section/1/3B) inserted (1.10.2006 with application in accordance with Sch. 8 para. 6 of the amending S.I.) by [The Employment Equality (Age) Regulations 2006 (S.I. 2006/1031)](https://www.legislation.gov.uk/uksi/2006/1031), [reg. 49(1)](https://www.legislation.gov.uk/uksi/2006/1031/regulation/49/1), [Sch. 8 para. 4(5)](https://www.legislation.gov.uk/uksi/2006/1031/schedule/8/paragraph/4/5) (with [regs. 44-46](https://www.legislation.gov.uk/uksi/2006/1031/regulation/44))
+
+[^c9784331]: Textual amendment: [S. 1(4)](https://www.legislation.gov.uk/ukpga/1967/13/section/1/4) repealed by [House of Commons Disqualification Act 1975 (c. 24, SIF 89)](https://www.legislation.gov.uk/ukpga/1975/24), [Sch. 3](https://www.legislation.gov.uk/ukpga/1975/24/schedule/3) and [Northern Ireland Assembly Disqualification Act 1975 (c. 25, SIF 29:3)](https://www.legislation.gov.uk/ukpga/1975/25), [Sch. 3 Pt. I](https://www.legislation.gov.uk/ukpga/1975/25/schedule/3/part/I)
+
+[^c9784341]: Textual amendment: [S. 1(5)](https://www.legislation.gov.uk/ukpga/1967/13/section/1/5) repealed by [Tribunals and Inquiries Act 1971 (c. 62, SIF 127)](https://www.legislation.gov.uk/ukpga/1971/62), [Sch. 4 Pt. I](https://www.legislation.gov.uk/ukpga/1971/62/schedule/4/part/I)
+
+[^c9784351]: Textual amendment: [S. 2(1)(2)](https://www.legislation.gov.uk/ukpga/1967/13/section/2/1/2) substituted (1.1.1975) by Parliamentary and other [Pensions and Salaries Act 1976 (c. 48, SIF 89)](https://www.legislation.gov.uk/ukpga/1976/48), [s 6(2)(5)](https://www.legislation.gov.uk/ukpga/1976/48/section/6/2/5)
+
+[^c9784361]: Textual amendment: Words repealed (1.1.1975) by Parliamentary and other [Pensions and Salaries Act 1976 (c. 48, SIF 89)](https://www.legislation.gov.uk/ukpga/1976/48), [s 6(4)(5)](https://www.legislation.gov.uk/ukpga/1976/48/section/6/4/5), [Sch.](https://www.legislation.gov.uk/ukpga/1976/48/schedule)
+
+[^c9784371]: Textual amendment: [S. 2(4A)](https://www.legislation.gov.uk/ukpga/1967/13/section/2/4A) inserted (1.1.1975) by Parliamentary and other [Pensions and Salaries Act 1976 (c. 48, SIF 89)](https://www.legislation.gov.uk/ukpga/1976/48), [s. 6(4)(5)](https://www.legislation.gov.uk/ukpga/1976/48/section/6/4/5).
+
+[^c20306261]: Textual amendment: [S. 3(1A)](https://www.legislation.gov.uk/ukpga/1967/13/section/3/1A) inserted (1.8.2007) by [The Regulatory Reform (Collaboration etc. between Ombudsmen) Order 2007 (S.I. 2007/1889)](https://www.legislation.gov.uk/uksi/2007/1889), [art. 12](https://www.legislation.gov.uk/uksi/2007/1889/article/12)
+
+[^c9784391]: Modification: [S. 3(2)](https://www.legislation.gov.uk/ukpga/1967/13/section/3/2) extended (1.7.1999) by [S.I. 1999/1351](https://www.legislation.gov.uk/uksi/1999/1351), [arts. 1](https://www.legislation.gov.uk/uksi/1999/1351/article/1), [17(1)(a)](https://www.legislation.gov.uk/uksi/1999/1351/article/17/1/a) (with [art.3](https://www.legislation.gov.uk/uksi/1999/1351/article/3)); [S.I. 1998/3178](https://www.legislation.gov.uk/uksi/1998/3178), [art. 3](https://www.legislation.gov.uk/uksi/1998/3178/article/3)
+
+[^c9784401]: Textual amendment: Words in [s. 3(2)](https://www.legislation.gov.uk/ukpga/1967/13/section/3/2) substituted (1.7.1999) by [1998 c. 38](https://www.legislation.gov.uk/ukpga/1998/38), [s. 125](https://www.legislation.gov.uk/ukpga/1998/38/section/125), [Sch. 12 para. 5](https://www.legislation.gov.uk/ukpga/1998/38/schedule/12/paragraph/5) (with [ss. 139(2)](https://www.legislation.gov.uk/ukpga/1998/38/section/139/2), [143(2)](https://www.legislation.gov.uk/ukpga/1998/38/section/143/2)); [S.I. 1999/1290](https://www.legislation.gov.uk/uksi/1999/1290), [art. 4](https://www.legislation.gov.uk/uksi/1999/1290/article/4)
+
+[^c20175041]: Textual amendment: Words in [s. 3(2)](https://www.legislation.gov.uk/ukpga/1967/13/section/3/2) substituted (1.4.2006) by [Public Services Ombudsman (Wales) Act 2005 (c. 10)](https://www.legislation.gov.uk/ukpga/2005/10), [ss. 39](https://www.legislation.gov.uk/ukpga/2005/10/section/39), [40](https://www.legislation.gov.uk/ukpga/2005/10/section/40), [Sch. 6 para. 2](https://www.legislation.gov.uk/ukpga/2005/10/schedule/6/paragraph/2); [S.I. 2005/2800](https://www.legislation.gov.uk/uksi/2005/2800), [art. 5(1)](https://www.legislation.gov.uk/uksi/2005/2800/article/5/1) (with [art. 5(2)](https://www.legislation.gov.uk/uksi/2005/2800/article/5/2))
+
+[^c20131561]: Textual amendment: Words in [s. 3(2)](https://www.legislation.gov.uk/ukpga/1967/13/section/3/2) omitted (14.7.2004) by virtue of [The Scottish Public Services Ombudsman Act 2002 (Consequential Provisions and Modifications) Order 2004 (S.I. 2004/1823)](https://www.legislation.gov.uk/uksi/2004/1823), [art. 5(2)](https://www.legislation.gov.uk/uksi/2004/1823/article/5/2)
+
+[^c20306291]: Textual amendment: [S. 3(2A)](https://www.legislation.gov.uk/ukpga/1967/13/section/3/2A) inserted (1.8.2007) by [The Regulatory Reform (Collaboration etc. between Ombudsmen) Order 2007 (S.I. 2007/1889)](https://www.legislation.gov.uk/uksi/2007/1889), [art. 3](https://www.legislation.gov.uk/uksi/2007/1889/article/3)
+
+[^c20306831]: Textual amendment: Words in [s. 3(2A)](https://www.legislation.gov.uk/ukpga/1967/13/section/3/2A) substituted (1.4.2008) by Local Government and Public Involvement in [Health Act 2007 (c. 28)](https://www.legislation.gov.uk/ukpga/2007/28), [ss. 182](https://www.legislation.gov.uk/ukpga/2007/28/section/182), [245](https://www.legislation.gov.uk/ukpga/2007/28/section/245), [Sch. 12 para. 13(2)](https://www.legislation.gov.uk/ukpga/2007/28/schedule/12/paragraph/13/2); [S.I. 2008/917](https://www.legislation.gov.uk/uksi/2008/917), [art. 2(1)(n)](https://www.legislation.gov.uk/uksi/2008/917/article/2/1/n) (with [art. 6(5)](https://www.legislation.gov.uk/uksi/2008/917/article/6/5))
+
+[^c9784411]: Textual amendment: [S. 3(3A)](https://www.legislation.gov.uk/ukpga/1967/13/section/3/3A) inserted by [Parliamentary and Health Service Commissioners Act 1987 (c. 39, SIF 89)](https://www.legislation.gov.uk/ukpga/1987/39), [s. 6(1)](https://www.legislation.gov.uk/ukpga/1987/39/section/6/1)
+
+[^c20280971]: Textual amendment: [S. 3A(1A)(1B)](https://www.legislation.gov.uk/ukpga/1967/13/section/3A/1A/1B) inserted (1.10.2006 with application in accordance with Sch. 8 para. 6 of the amending S.I.) by [The Employment Equality (Age) Regulations 2006 (S.I. 2006/1031)](https://www.legislation.gov.uk/uksi/2006/1031), [reg. 49(1)](https://www.legislation.gov.uk/uksi/2006/1031/regulation/49/1), [Sch. 8 para. 5(2)](https://www.legislation.gov.uk/uksi/2006/1031/schedule/8/paragraph/5/2) (with [regs. 44-46](https://www.legislation.gov.uk/uksi/2006/1031/regulation/44))
+
+[^c20281011]: Textual amendment: Words in [s. 3A(2)](https://www.legislation.gov.uk/ukpga/1967/13/section/3A/2) substituted (1.10.2006 with application in accordance with Sch. 8 para. 6 of the amending S.I.) by [The Employment Equality (Age) Regulations 2006 (S.I. 2006/1031)](https://www.legislation.gov.uk/uksi/2006/1031), [reg. 49(1)](https://www.legislation.gov.uk/uksi/2006/1031/regulation/49/1), [Sch. 8 para. 5(3)](https://www.legislation.gov.uk/uksi/2006/1031/schedule/8/paragraph/5/3) (with [regs. 44-46](https://www.legislation.gov.uk/uksi/2006/1031/regulation/44))
+
+[^c20281051]: Textual amendment: [S. 3A(3)](https://www.legislation.gov.uk/ukpga/1967/13/section/3A/3) substituted (1.10.2006 with application in accordance with Sch. 8 para. 6 of the amending S.I.) by [The Employment Equality (Age) Regulations 2006 (S.I. 2006/1031)](https://www.legislation.gov.uk/uksi/2006/1031), [reg. 49(1)](https://www.legislation.gov.uk/uksi/2006/1031/regulation/49/1), [Sch. 8 para. 5(4)](https://www.legislation.gov.uk/uksi/2006/1031/schedule/8/paragraph/5/4) (with [regs. 44-46](https://www.legislation.gov.uk/uksi/2006/1031/regulation/44))
+
+[^c9784511]: Textual amendment: S. 4 substituted by [Parliamentary and Health Service Commissioners Act 1987 (c. 39, SIF 89)](https://www.legislation.gov.uk/ukpga/1987/39), [s. 1(1)](https://www.legislation.gov.uk/ukpga/1987/39/section/1/1)
+
+[^key-631d0748e58140ef741e0367e7bc352d]: Textual amendment: Words in s. 4(3A) substituted (E.W.) (23.7.2019) by [Public Services Ombudsman (Wales) Act 2019 (anaw 3)](https://www.legislation.gov.uk/anaw/2019/3), [s. 77(1)](https://www.legislation.gov.uk/anaw/2019/3/section/77/1), [Sch. 5 para. 6](https://www.legislation.gov.uk/anaw/2019/3/schedule/5/paragraph/6); [S.I. 2019/1096](https://www.legislation.gov.uk/wsi/2019/1096), [reg. 2](https://www.legislation.gov.uk/wsi/2019/1096/regulation/2)
+
+[^c9784531]: Textual amendment: S. 4(3B) substituted (1.7.1999) by [S.I. 1999/1820](https://www.legislation.gov.uk/uksi/1999/1820), [arts. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2), [4](https://www.legislation.gov.uk/uksi/1999/1820/article/4), [Sch. 2 Pt. I para. 39(1)(2)](https://www.legislation.gov.uk/uksi/1999/1820/schedule/2/part/I/paragraph/39/1/2)
+
+[^c9784541]: Marginal citation: [1982 c. 10](https://www.legislation.gov.uk/ukpga/1982/10)**(43:1)**.
+
+[^c9784691]: Modification: S. 5 modified (1.10.1998) by [1998 c. 31](https://www.legislation.gov.uk/ukpga/1998/31), [ss. 25](https://www.legislation.gov.uk/ukpga/1998/31/section/25), [145(3)](https://www.legislation.gov.uk/ukpga/1998/31/section/145/3), [Sch. 5 para. 9](https://www.legislation.gov.uk/ukpga/1998/31/schedule/5/paragraph/9) (with [ss. 138(9)](https://www.legislation.gov.uk/ukpga/1998/31/section/138/9), [144(6)](https://www.legislation.gov.uk/ukpga/1998/31/section/144/6)); [S.I. 1998/2212](https://www.legislation.gov.uk/uksi/1998/2212), [art. 2](https://www.legislation.gov.uk/uksi/1998/2212/article/2), [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/1998/2212/schedule/1/part/I)
+
+[^key-d41781fad2e930628c781b829ad41c01]: Textual amendment: [S. 5(1)(a)](https://www.legislation.gov.uk/ukpga/1967/13/section/5/1/a) substituted (29.1.2025) by [Victims and Prisoners Act 2024 (c. 21)](https://www.legislation.gov.uk/ukpga/2024/21), [ss. 27(3)(a)](https://www.legislation.gov.uk/ukpga/2024/21/section/27/3/a), [81(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/2) (with [s. 32](https://www.legislation.gov.uk/ukpga/2024/21/section/32)); [S.I. 2025/95](https://www.legislation.gov.uk/uksi/2025/95), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2025/95/regulation/2/i)
+
+[^key-caccb81499d0920b765cc2cfb6f46b43]: Textual amendment: Words in [s. 5(1)(b)](https://www.legislation.gov.uk/ukpga/1967/13/section/5/1/b) inserted (29.1.2025) by [Victims and Prisoners Act 2024 (c. 21)](https://www.legislation.gov.uk/ukpga/2024/21), [ss. 27(3)(b)](https://www.legislation.gov.uk/ukpga/2024/21/section/27/3/b), [81(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/2) (with [s. 32](https://www.legislation.gov.uk/ukpga/2024/21/section/32)); [S.I. 2025/95](https://www.legislation.gov.uk/uksi/2025/95), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2025/95/regulation/2/i)
+
+[^c20131591]: Textual amendment: S. 5(1A)-(1C) inserted (18.10.2005) by [Domestic Violence, Crime and Victims Act 2004 (c. 28)](https://www.legislation.gov.uk/ukpga/2004/28), [ss. 47](https://www.legislation.gov.uk/ukpga/2004/28/section/47), [60](https://www.legislation.gov.uk/ukpga/2004/28/section/60), [Sch. 7 para. 2(2)](https://www.legislation.gov.uk/ukpga/2004/28/schedule/7/paragraph/2/2); [S.I. 2005/2848](https://www.legislation.gov.uk/uksi/2005/2848), [art. 2](https://www.legislation.gov.uk/uksi/2005/2848/article/2)
+
+[^key-cdbb1f542ab778b87e963816b064914b]: Textual amendment: [S. 5(1A)(a)](https://www.legislation.gov.uk/ukpga/1967/13/section/5/1A/a) substituted (29.1.2025) by [Victims and Prisoners Act 2024 (c. 21)](https://www.legislation.gov.uk/ukpga/2024/21), [ss. 27(4)(a)](https://www.legislation.gov.uk/ukpga/2024/21/section/27/4/a), [81(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/2) (with [s. 32](https://www.legislation.gov.uk/ukpga/2024/21/section/32)); [S.I. 2025/95](https://www.legislation.gov.uk/uksi/2025/95), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2025/95/regulation/2/i)
+
+[^key-adbca31b5ae53cb11fa915339566b3e4]: Textual amendment: Words in [s. 5(1A)(b)](https://www.legislation.gov.uk/ukpga/1967/13/section/5/1A/b) inserted (29.1.2025) by [Victims and Prisoners Act 2024 (c. 21)](https://www.legislation.gov.uk/ukpga/2024/21), [ss. 27(4)(b)](https://www.legislation.gov.uk/ukpga/2024/21/section/27/4/b), [81(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/2) (with [s. 32](https://www.legislation.gov.uk/ukpga/2024/21/section/32)); [S.I. 2025/95](https://www.legislation.gov.uk/uksi/2025/95), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2025/95/regulation/2/i)
+
+[^key-7318a620cbeb9f930bf8e53cc9c5361b]: Textual amendment: Words in [s. 5(1B)(b)](https://www.legislation.gov.uk/ukpga/1967/13/section/5/1B/b) substituted (12.4.2019) by [Counter-Terrorism and Border Security Act 2019 (c. 3)](https://www.legislation.gov.uk/ukpga/2019/3), [s. 27(3)](https://www.legislation.gov.uk/ukpga/2019/3/section/27/3), [Sch. 4 para. 2](https://www.legislation.gov.uk/ukpga/2019/3/schedule/4/paragraph/2) (with [s. 25(3)](https://www.legislation.gov.uk/ukpga/2019/3/section/25/3)[(4)](https://www.legislation.gov.uk/ukpga/2019/3/section/25/4))
+
+[^c9784701]: Modification: S. 5(2)(a) extended by [Fair Employment (Northern Ireland) Act 1976 (c. 25, SIF 43:1)](https://www.legislation.gov.uk/ukpga/1976/25), [s. 58(2)(a)](https://www.legislation.gov.uk/ukpga/1976/25/section/58/2/a)
+
+[^c9784711]: Modification: S. 5(2)(b) excluded by [Northern Ireland Constitution Act 1973 (c. 36, SIF 29:3)](https://www.legislation.gov.uk/ukpga/1973/36), [s. 22](https://www.legislation.gov.uk/ukpga/1973/36/section/22)
+
+    S. 5(2)(b) excluded (2.12.1999) by [1998 c. 47](https://www.legislation.gov.uk/ukpga/1998/47), [s. 78(2)(a)](https://www.legislation.gov.uk/ukpga/1998/47/section/78/2/a); [S.I. 1999/3209](https://www.legislation.gov.uk/uksi/1999/3209), [art. 2](https://www.legislation.gov.uk/uksi/1999/3209/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1999/3209/schedule)
+
+[^c9784721]: Textual amendment: S. 5(2A) inserted (N.I.) (1.3.1999) by [S.I. 1998/3162 (N.I. 21)](https://www.legislation.gov.uk/nisi/1998/3162), [art. 1(2)](https://www.legislation.gov.uk/nisi/1998/3162/article/1/2), [Sch. 3](https://www.legislation.gov.uk/nisi/1998/3162/schedule/3); [S.R. 1999/81](https://www.legislation.gov.uk/nisr/1999/81), [art. 3](https://www.legislation.gov.uk/nisr/1999/81/article/3)
+
+[^c20131611]: Textual amendment: Words in s. 5(3) substituted (18.10.2005) by [Domestic Violence, Crime and Victims Act 2004 (c. 28)](https://www.legislation.gov.uk/ukpga/2004/28), [ss. 47](https://www.legislation.gov.uk/ukpga/2004/28/section/47), [60](https://www.legislation.gov.uk/ukpga/2004/28/section/60), [Sch. 7 para. 2(3)](https://www.legislation.gov.uk/ukpga/2004/28/schedule/7/paragraph/2/3); [S.I. 2005/2848](https://www.legislation.gov.uk/uksi/2005/2848), [art. 2](https://www.legislation.gov.uk/uksi/2005/2848/article/2)
+
+[^c20131631]: Textual amendment: S. 5(4A)-(4C) inserted (18.10.2005) by [Domestic Violence, Crime and Victims Act 2004 (c. 28)](https://www.legislation.gov.uk/ukpga/2004/28), [ss. 47](https://www.legislation.gov.uk/ukpga/2004/28/section/47), [60](https://www.legislation.gov.uk/ukpga/2004/28/section/60), [Sch. 7 para. 2(4)](https://www.legislation.gov.uk/ukpga/2004/28/schedule/7/paragraph/2/4); [S.I. 2005/2848](https://www.legislation.gov.uk/uksi/2005/2848), [art. 2](https://www.legislation.gov.uk/uksi/2005/2848/article/2)
+
+[^c9784731]: Textual amendment: S. 5(5A)(5B) inserted (1.7.1999) by [S.I. 1999/1820](https://www.legislation.gov.uk/uksi/1999/1820), [arts. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2), [4](https://www.legislation.gov.uk/uksi/1999/1820/article/4), [Sch. 2 Pt. I para. 39(3)(a)](https://www.legislation.gov.uk/uksi/1999/1820/schedule/2/part/I/paragraph/39/3/a)
+
+[^c20178481]: Modification: S. 5(5B) modified (E.W.S.) (30.6.2006 for S. and 6.7.2006 for E.W.) by [Private Security Industry Act 2001 (c. 12)](https://www.legislation.gov.uk/ukpga/2001/12), [s. 2A](https://www.legislation.gov.uk/ukpga/2001/12/section/2A) (as inserted by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [ss. 171](https://www.legislation.gov.uk/ukpga/2005/15/section/171), [178](https://www.legislation.gov.uk/ukpga/2005/15/section/178), [Sch. 15 para. 3](https://www.legislation.gov.uk/ukpga/2005/15/schedule/15/paragraph/3); [S.S.I. 2006/381](https://www.legislation.gov.uk/ssi/2006/381), [art. 2](https://www.legislation.gov.uk/ssi/2006/381/article/2))
+
+[^c9784741]: Textual amendment: S. 5(6) added by [Courts and Legal Services Act 1990 (c. 41, SIF 76:1)](https://www.legislation.gov.uk/ukpga/1990/41), [s. 110(1)](https://www.legislation.gov.uk/ukpga/1990/41/section/110/1)
+
+[^c20306911]: Textual amendment: Words in s. 5(6) substituted (22.8.2007) by [The Secretary of State for Justice Order 2007 (S.I. 2007/2128)](https://www.legislation.gov.uk/uksi/2007/2128), [art. 8](https://www.legislation.gov.uk/uksi/2007/2128/article/8), [Sch. para. 4(2)](https://www.legislation.gov.uk/uksi/2007/2128/schedule/paragraph/4/2)
+
+[^key-532ee37b4561fff1bdc4597fbd4dd0fa]: Textual amendment: Words in s. 5(6) omitted (N.I.) (12.4.2010) by virtue of [The Northern Ireland Court Service (Abolition and Transfer of Functions) Order (Northern Ireland) 2010 (S.R. 2010/133)](https://www.legislation.gov.uk/nisr/2010/133), [art. 1](https://www.legislation.gov.uk/nisr/2010/133/article/1), [Sch. para. 2(2)](https://www.legislation.gov.uk/nisr/2010/133/schedule/paragraph/2/2) (with [arts. 5-7](https://www.legislation.gov.uk/nisr/2010/133/article/5))
+
+[^c9784751]: Textual amendment: S. 5(7)-(9) inserted (5.9.1994) by [1994 c. 14](https://www.legislation.gov.uk/ukpga/1994/14), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/1994/14/section/1/1), [3(2)](https://www.legislation.gov.uk/ukpga/1994/14/section/3/2)
+
+[^c9784761]: Textual amendment: S. 5(9A) inserted (1.7.1999) by [S.I. 1999/1820](https://www.legislation.gov.uk/uksi/1999/1820), [arts. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2), [4](https://www.legislation.gov.uk/uksi/1999/1820/article/4), [Sch. 2 Pt. I para. 39(3)(b)](https://www.legislation.gov.uk/uksi/1999/1820/schedule/2/part/I/paragraph/39/3/b)
+
+[^key-c570e342ca49656b1fde70fd49430863]: Textual amendment: [S. 5(9B)](https://www.legislation.gov.uk/ukpga/1967/13/section/5/9B) inserted (29.1.2025) by [Victims and Prisoners Act 2024 (c. 21)](https://www.legislation.gov.uk/ukpga/2024/21), [ss. 27(5)](https://www.legislation.gov.uk/ukpga/2024/21/section/27/5), [81(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/2) (with [s. 32](https://www.legislation.gov.uk/ukpga/2024/21/section/32)); [S.I. 2025/95](https://www.legislation.gov.uk/uksi/2025/95), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2025/95/regulation/2/i)
+
+[^c9784911]: Textual amendment: S. 6(1)(b)(1A) substituted for s. 6(1)(b) (1.7.1999) by [S.I. 1999/1820](https://www.legislation.gov.uk/uksi/1999/1820), [arts. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2), [4](https://www.legislation.gov.uk/uksi/1999/1820/article/4), [Sch. 2 Pt. I para. 39(4)](https://www.legislation.gov.uk/uksi/1999/1820/schedule/2/part/I/paragraph/39/4)
+
+[^key-0cd54aa60a6369a8e5ea425c7e84be50]: Textual amendment: [S. 6(1B)](https://www.legislation.gov.uk/ukpga/1967/13/section/6/1B) inserted (29.1.2025) by [Victims and Prisoners Act 2024 (c. 21)](https://www.legislation.gov.uk/ukpga/2024/21), [ss. 27(7)](https://www.legislation.gov.uk/ukpga/2024/21/section/27/7), [81(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/2) (with [s. 32](https://www.legislation.gov.uk/ukpga/2024/21/section/32)); [S.I. 2025/95](https://www.legislation.gov.uk/uksi/2025/95), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2025/95/regulation/2/i)
+
+[^key-91ead1f71d8e41be3f945c9100dadb21]: Textual amendment: Words in [s. 6(2)](https://www.legislation.gov.uk/ukpga/1967/13/section/6/2) substituted (29.1.2025) by [Victims and Prisoners Act 2024 (c. 21)](https://www.legislation.gov.uk/ukpga/2024/21), [ss. 27(8)](https://www.legislation.gov.uk/ukpga/2024/21/section/27/8), [81(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/2) (with [s. 32](https://www.legislation.gov.uk/ukpga/2024/21/section/32)); [S.I. 2025/95](https://www.legislation.gov.uk/uksi/2025/95), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2025/95/regulation/2/i)
+
+[^key-194874448d6b40bb43fbb642bf0382c9]: Textual amendment: [S. 6(2A)](https://www.legislation.gov.uk/ukpga/1967/13/section/6/2A) inserted (29.1.2025) by [Victims and Prisoners Act 2024 (c. 21)](https://www.legislation.gov.uk/ukpga/2024/21), [ss. 27(9)](https://www.legislation.gov.uk/ukpga/2024/21/section/27/9), [81(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/2) (with [s. 32](https://www.legislation.gov.uk/ukpga/2024/21/section/32)); [S.I. 2025/95](https://www.legislation.gov.uk/uksi/2025/95), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2025/95/regulation/2/i)
+
+[^c9784921]: Modification: S. 6(3) modified by [Parliamentary and Health Service Commissioners Act 1987 (c. 39, SIF 89)](https://www.legislation.gov.uk/ukpga/1987/39), [s. 10(4)](https://www.legislation.gov.uk/ukpga/1987/39/section/10/4)
+
+[^key-4dc003d14774f8f4564e6bc6f45e7eeb]: Textual amendment: Words in [s. 6(3)](https://www.legislation.gov.uk/ukpga/1967/13/section/6/3) omitted (29.1.2025) by virtue of [Victims and Prisoners Act 2024 (c. 21)](https://www.legislation.gov.uk/ukpga/2024/21), [ss. 27(10)](https://www.legislation.gov.uk/ukpga/2024/21/section/27/10), [81(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/2) (with [s. 32](https://www.legislation.gov.uk/ukpga/2024/21/section/32)); [S.I. 2025/95](https://www.legislation.gov.uk/uksi/2025/95), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2025/95/regulation/2/i)
+
+[^c9784931]: Textual amendment: Words inserted by [Parliamentary Commissioner (Consular Complaints) Act 1981 (c. 11, SIF 89)](https://www.legislation.gov.uk/ukpga/1981/11), [s. 1](https://www.legislation.gov.uk/ukpga/1981/11/section/1).
+
+[^c9784941]: Marginal citation: [1964 c. 29](https://www.legislation.gov.uk/ukpga/1964/29)**(86)**.
+
+[^c9784951]: Textual amendment: S. 6(5) inserted by [Parliamentary Commissioner (Consular Complaints) Act 1981 (c. 11, SIF 89)](https://www.legislation.gov.uk/ukpga/1981/11) s. 1.
+
+[^c9784961]: Marginal citation: [1971 c. 77](https://www.legislation.gov.uk/ukpga/1971/77)**(101A:1)**
+
+[^c9784971]: Modification: S. 7 applied with modifications (S.) by [National Health Service (Scotland) Act 1978 (c. 29, SIF 113:2)](https://www.legislation.gov.uk/ukpga/1978/29), [s. 95](https://www.legislation.gov.uk/ukpga/1978/29/section/95)
+
+[^c20131731]: Textual amendment: Words in s. 7(1) inserted (18.10.2005) by [Domestic Violence, Crime and Victims Act 2004 (c. 28)](https://www.legislation.gov.uk/ukpga/2004/28), [ss. 47](https://www.legislation.gov.uk/ukpga/2004/28/section/47), [60](https://www.legislation.gov.uk/ukpga/2004/28/section/60), [Sch. 7 para. 3(2)](https://www.legislation.gov.uk/ukpga/2004/28/schedule/7/paragraph/3/2); [S.I. 2005/2848](https://www.legislation.gov.uk/uksi/2005/2848), [art. 2](https://www.legislation.gov.uk/uksi/2005/2848/article/2)
+
+[^c20131751]: Textual amendment: S. 7(1A) inserted (18.10.2005) by [Domestic Violence, Crime and Victims Act 2004 (c. 28)](https://www.legislation.gov.uk/ukpga/2004/28), [ss. 47](https://www.legislation.gov.uk/ukpga/2004/28/section/47), [60](https://www.legislation.gov.uk/ukpga/2004/28/section/60), [Sch. 7 para. 3(3)](https://www.legislation.gov.uk/ukpga/2004/28/schedule/7/paragraph/3/3); [S.I. 2005/2848](https://www.legislation.gov.uk/uksi/2005/2848), [art. 2](https://www.legislation.gov.uk/uksi/2005/2848/article/2)
+
+[^c20131771]: Textual amendment: Words in s. 7(2) substituted (18.10.2005) by [Domestic Violence, Crime and Victims Act 2004 (c. 28)](https://www.legislation.gov.uk/ukpga/2004/28), [ss. 47](https://www.legislation.gov.uk/ukpga/2004/28/section/47), [60](https://www.legislation.gov.uk/ukpga/2004/28/section/60), [Sch. 7 para. 3(4)](https://www.legislation.gov.uk/ukpga/2004/28/schedule/7/paragraph/3/4); [S.I. 2005/2848](https://www.legislation.gov.uk/uksi/2005/2848), [art. 2](https://www.legislation.gov.uk/uksi/2005/2848/article/2)
+
+[^c20131791]: Textual amendment: Words in s. 7(4) inserted (18.10.2005) by [Domestic Violence, Crime and Victims Act 2004 (c. 28)](https://www.legislation.gov.uk/ukpga/2004/28), [ss. 47](https://www.legislation.gov.uk/ukpga/2004/28/section/47), [60](https://www.legislation.gov.uk/ukpga/2004/28/section/60), [Sch. 7 para. 3(5)(a)](https://www.legislation.gov.uk/ukpga/2004/28/schedule/7/paragraph/3/5/a); [S.I. 2005/2848](https://www.legislation.gov.uk/uksi/2005/2848), [art. 2](https://www.legislation.gov.uk/uksi/2005/2848/article/2)
+
+[^c20131811]: Textual amendment: Words in s. 7(4) substituted (18.10.2005) by [Domestic Violence, Crime and Victims Act 2004 (c. 28)](https://www.legislation.gov.uk/ukpga/2004/28), [ss. 47](https://www.legislation.gov.uk/ukpga/2004/28/section/47), [60](https://www.legislation.gov.uk/ukpga/2004/28/section/60), [Sch. 7 para. 3(5)(b)](https://www.legislation.gov.uk/ukpga/2004/28/schedule/7/paragraph/3/5/b); [S.I. 2005/2848](https://www.legislation.gov.uk/uksi/2005/2848), [art. 2](https://www.legislation.gov.uk/uksi/2005/2848/article/2)
+
+[^c9784981]: Marginal citation: [1914 c. 12](https://www.legislation.gov.uk/ukpga/1914/12).
+
+[^c9784991]: Marginal citation: [1919 c. 92](https://www.legislation.gov.uk/ukpga/1919/92)**(62)**.
+
+[^c9785001]: Textual amendment: Words substituted by virtue of [Interpretation Act 1978 (c. 30, SIF 115:1)](https://www.legislation.gov.uk/ukpga/1978/30), [s. 17(2)(a)](https://www.legislation.gov.uk/ukpga/1978/30/section/17/2/a)
+
+[^c9785011]: Marginal citation: [1971 c. 77](https://www.legislation.gov.uk/ukpga/1971/77)**(62)**.
+
+[^c9785021]: Modification: S. 8 applied with modifications (S.) by [National Health Service (Scotland) Act 1978 (c. 29, SIF 113:2)](https://www.legislation.gov.uk/ukpga/1978/29), [s. 95](https://www.legislation.gov.uk/ukpga/1978/29/section/95)
+
+[^c20131831]: Textual amendment: Words in s. 8(1) inserted (18.10.2005) by [Domestic Violence, Crime and Victims Act 2004 (c. 28)](https://www.legislation.gov.uk/ukpga/2004/28), [ss. 47](https://www.legislation.gov.uk/ukpga/2004/28/section/47), [60](https://www.legislation.gov.uk/ukpga/2004/28/section/60), [Sch. 7 para. 4(2)](https://www.legislation.gov.uk/ukpga/2004/28/schedule/7/paragraph/4/2); [S.I. 2005/2848](https://www.legislation.gov.uk/uksi/2005/2848), [art. 2](https://www.legislation.gov.uk/uksi/2005/2848/article/2)
+
+[^c20131861]: Textual amendment: S. 8(1A) inserted (18.10.2005) by [Domestic Violence, Crime and Victims Act 2004 (c. 28)](https://www.legislation.gov.uk/ukpga/2004/28), [ss. 47](https://www.legislation.gov.uk/ukpga/2004/28/section/47), [60](https://www.legislation.gov.uk/ukpga/2004/28/section/60), [Sch. 7 para. 4(3)](https://www.legislation.gov.uk/ukpga/2004/28/schedule/7/paragraph/4/3); [S.I. 2005/2848](https://www.legislation.gov.uk/uksi/2005/2848), [art. 2](https://www.legislation.gov.uk/uksi/2005/2848/article/2)
+
+[^c20131881]: Textual amendment: Words in s. 8(2) inserted (18.10.2005) by [Domestic Violence, Crime and Victims Act 2004 (c. 28)](https://www.legislation.gov.uk/ukpga/2004/28), [ss. 47](https://www.legislation.gov.uk/ukpga/2004/28/section/47), [60](https://www.legislation.gov.uk/ukpga/2004/28/section/60), [Sch. 7 para. 4(4)](https://www.legislation.gov.uk/ukpga/2004/28/schedule/7/paragraph/4/4); [S.I. 2005/2848](https://www.legislation.gov.uk/uksi/2005/2848), [art. 2](https://www.legislation.gov.uk/uksi/2005/2848/article/2)
+
+[^c9785031]: Textual amendment: Word inserted (E.W.) by [Civil Evidence Act 1968 (c. 64, SIF 47)](https://www.legislation.gov.uk/ukpga/1968/64), [s. 17(1)(b)](https://www.legislation.gov.uk/ukpga/1968/64/section/17/1/b)
+
+[^c9785041]: Modification: S. 9 applied with modifications (S.) by [National Health Service (Scotland) Act 1978 (c. 29, SIF 113:2)](https://www.legislation.gov.uk/ukpga/1978/29), [s. 95](https://www.legislation.gov.uk/ukpga/1978/29/section/95)
+
+[^key-67436a4dce977e14390384fcf1070d98]: Textual amendment: Words in [s. 10(1)](https://www.legislation.gov.uk/ukpga/1967/13/section/10/1) substituted (29.1.2025) by [Victims and Prisoners Act 2024 (c. 21)](https://www.legislation.gov.uk/ukpga/2024/21), [ss. 27(12)(a)](https://www.legislation.gov.uk/ukpga/2024/21/section/27/12/a), [81(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/2) (with [s. 32](https://www.legislation.gov.uk/ukpga/2024/21/section/32)); [S.I. 2025/95](https://www.legislation.gov.uk/uksi/2025/95), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2025/95/regulation/2/i)
+
+[^key-ab8994104e4887e85d1e20734a866f02]: Textual amendment: Words in [s. 10(1)](https://www.legislation.gov.uk/ukpga/1967/13/section/10/1) substituted (29.1.2025) by [Victims and Prisoners Act 2024 (c. 21)](https://www.legislation.gov.uk/ukpga/2024/21), [ss. 27(12)(b)](https://www.legislation.gov.uk/ukpga/2024/21/section/27/12/b), [81(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/2) (with [s. 32](https://www.legislation.gov.uk/ukpga/2024/21/section/32)); [S.I. 2025/95](https://www.legislation.gov.uk/uksi/2025/95), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2025/95/regulation/2/i)
+
+[^key-94ec5454ef32c6a8d573a6b7e5b341d7]: Textual amendment: [S. 10(1A)](https://www.legislation.gov.uk/ukpga/1967/13/section/10/1A)[(1B)](https://www.legislation.gov.uk/ukpga/1967/13/section/10/1B) inserted (29.1.2025) by [Victims and Prisoners Act 2024 (c. 21)](https://www.legislation.gov.uk/ukpga/2024/21), [ss. 27(13)](https://www.legislation.gov.uk/ukpga/2024/21/section/27/13), [81(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/2) (with [s. 32](https://www.legislation.gov.uk/ukpga/2024/21/section/32)); [S.I. 2025/95](https://www.legislation.gov.uk/uksi/2025/95), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2025/95/regulation/2/i)
+
+[^c20143241]: Textual amendment: Words in s. 10(2) inserted (18.10.2005) by [Domestic Violence, Crime and Victims Act 2004 (c. 28)](https://www.legislation.gov.uk/ukpga/2004/28), [ss. 47](https://www.legislation.gov.uk/ukpga/2004/28/section/47), [60](https://www.legislation.gov.uk/ukpga/2004/28/section/60), [Sch. 7 para. 5(2)](https://www.legislation.gov.uk/ukpga/2004/28/schedule/7/paragraph/5/2); [S.I. 2005/2848](https://www.legislation.gov.uk/uksi/2005/2848), [art. 2(b)](https://www.legislation.gov.uk/uksi/2005/2848/article/2/b)
+
+[^c20143291]: Textual amendment: S. 10(2A) inserted (18.10.2005) by [Domestic Violence, Crime and Victims Act 2004 (c. 28)](https://www.legislation.gov.uk/ukpga/2004/28), [ss. 47](https://www.legislation.gov.uk/ukpga/2004/28/section/47), [60](https://www.legislation.gov.uk/ukpga/2004/28/section/60), [Sch. 7 para. 5(3)](https://www.legislation.gov.uk/ukpga/2004/28/schedule/7/paragraph/5/3); [S.I. 2005/2848](https://www.legislation.gov.uk/uksi/2005/2848), [art. 2(b)](https://www.legislation.gov.uk/uksi/2005/2848/article/2/b)
+
+[^c20143311]: Textual amendment: Words in s. 10(3) inserted (18.10.2005) by [Domestic Violence, Crime and Victims Act 2004 (c. 28)](https://www.legislation.gov.uk/ukpga/2004/28), [ss. 47](https://www.legislation.gov.uk/ukpga/2004/28/section/47), [60](https://www.legislation.gov.uk/ukpga/2004/28/section/60), [Sch. 7 para. 5(4)](https://www.legislation.gov.uk/ukpga/2004/28/schedule/7/paragraph/5/4); [S.I. 2005/2848](https://www.legislation.gov.uk/uksi/2005/2848), [art. 2(b)](https://www.legislation.gov.uk/uksi/2005/2848/article/2/b)
+
+[^c20143331]: Textual amendment: S. 10(3A)(3B) inserted (18.10.2005) by [Domestic Violence, Crime and Victims Act 2004 (c. 28)](https://www.legislation.gov.uk/ukpga/2004/28), [ss. 47](https://www.legislation.gov.uk/ukpga/2004/28/section/47), [60](https://www.legislation.gov.uk/ukpga/2004/28/section/60), [Sch. 7 para. 5(5)](https://www.legislation.gov.uk/ukpga/2004/28/schedule/7/paragraph/5/5); [S.I. 2005/2848](https://www.legislation.gov.uk/uksi/2005/2848), [art. 2(b)](https://www.legislation.gov.uk/uksi/2005/2848/article/2/b)
+
+[^key-c9360c80ed05705db6ebe8649c7f03a2]: Textual amendment: Word in [s. 10(5)(d)](https://www.legislation.gov.uk/ukpga/1967/13/section/10/5/d) inserted (29.1.2025) by [Victims and Prisoners Act 2024 (c. 21)](https://www.legislation.gov.uk/ukpga/2024/21), [ss. 27(14)](https://www.legislation.gov.uk/ukpga/2024/21/section/27/14), [81(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/2) (with [s. 32](https://www.legislation.gov.uk/ukpga/2024/21/section/32)); [S.I. 2025/95](https://www.legislation.gov.uk/uksi/2025/95), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2025/95/regulation/2/i)
+
+[^c20143351]: Textual amendment: Words in s. 10(5)(d) inserted (18.10.2005) by [Domestic Violence, Crime and Victims Act 2004 (c. 28)](https://www.legislation.gov.uk/ukpga/2004/28), [ss. 47](https://www.legislation.gov.uk/ukpga/2004/28/section/47), [60](https://www.legislation.gov.uk/ukpga/2004/28/section/60), [Sch. 7 para. 5(6)](https://www.legislation.gov.uk/ukpga/2004/28/schedule/7/paragraph/5/6); [S.I. 2005/2848](https://www.legislation.gov.uk/uksi/2005/2848), [art. 2(b)](https://www.legislation.gov.uk/uksi/2005/2848/article/2/b)
+
+[^c9785181]: Modification: S. 11 applied (with modifications) (S.) by [National Health Service (Scotland) Act 1978 (c. 29, SIF 113:2)](https://www.legislation.gov.uk/ukpga/1978/29), [s. 95](https://www.legislation.gov.uk/ukpga/1978/29/section/95)
+
+[^c9785191]: Textual amendment: S. 11(1) repealed by [Official Secrets Act 1989 (c. 6, SIF 39:2)](https://www.legislation.gov.uk/ukpga/1989/6), [s. 16(4)](https://www.legislation.gov.uk/ukpga/1989/6/section/16/4), [Sch. 2](https://www.legislation.gov.uk/ukpga/1989/6/schedule/2)
+
+[^c9785201]: Modification: S. 11(2) excluded (S.) by [Local Government (Scotland) Act 1975 (c. 30, SIF 81:2)](https://www.legislation.gov.uk/ukpga/1975/30), [s. 31(5)](https://www.legislation.gov.uk/ukpga/1975/30/section/31/5)
+
+[^key-15c45b1f42347dd2588a4ed87be3466d]: Modification: [S. 11(2)](https://www.legislation.gov.uk/ukpga/1967/13/section/11/2) excluded (19.4.2010 for specified purposes, 1.9.2010 for specified purposes) by [Apprenticeships, Skills, Children and Learning Act 2009 (c. 22)](https://www.legislation.gov.uk/ukpga/2009/22), [ss. 217(7)](https://www.legislation.gov.uk/ukpga/2009/22/section/217/7), [269(4)](https://www.legislation.gov.uk/ukpga/2009/22/section/269/4); [S.I. 2010/303](https://www.legislation.gov.uk/uksi/2010/303), [art. 5](https://www.legislation.gov.uk/uksi/2010/303/article/5), [Sch. 4](https://www.legislation.gov.uk/uksi/2010/303/schedule/4); [S.I. 2010/1151](https://www.legislation.gov.uk/uksi/2010/1151), [art. 4](https://www.legislation.gov.uk/uksi/2010/1151/article/4), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/1151/schedule/2)
+
+[^key-b54220cacf685d7e9b28a7abb30c0954]: Modification: [S. 11(2)](https://www.legislation.gov.uk/ukpga/1967/13/section/11/2) excluded by 1974 c. 7, s. 34M(7)(a) (as inserted (1.10.2010) by [Health Act 2009 (c. 21)](https://www.legislation.gov.uk/ukpga/2009/21), [s. 40(1)](https://www.legislation.gov.uk/ukpga/2009/21/section/40/1), [Sch. 5 para. 2](https://www.legislation.gov.uk/ukpga/2009/21/schedule/5/paragraph/2); [S.I. 2010/1863](https://www.legislation.gov.uk/uksi/2010/1863), [art. 2](https://www.legislation.gov.uk/uksi/2010/1863/article/2))
+
+[^c20306931]: Textual amendment: S. 11(2)(aa) inserted (1.8.2007) by [The Regulatory Reform (Collaboration etc. between Ombudsmen) Order 2007 (S.I. 2007/1889)](https://www.legislation.gov.uk/uksi/2007/1889), [art. 8](https://www.legislation.gov.uk/uksi/2007/1889/article/8)
+
+[^c20306951]: Textual amendment: Words in s. 11(2)(aa) substituted (1.4.2008) by Local Government and Public Involvement in [Health Act 2007 (c. 28)](https://www.legislation.gov.uk/ukpga/2007/28), [ss. 182](https://www.legislation.gov.uk/ukpga/2007/28/section/182), [245](https://www.legislation.gov.uk/ukpga/2007/28/section/245), [Sch. 12 para. 13(3)](https://www.legislation.gov.uk/ukpga/2007/28/schedule/12/paragraph/13/3); [S.I. 2008/917](https://www.legislation.gov.uk/uksi/2008/917), [art. 2(1)(n)](https://www.legislation.gov.uk/uksi/2008/917/article/2/1/n) (with [art. 6(5)](https://www.legislation.gov.uk/uksi/2008/917/article/6/5))
+
+[^c9785211]: Textual amendment: Words substituted by [Official Secrets Act 1989 (c. 6, SIF 39:2)](https://www.legislation.gov.uk/ukpga/1989/6), [s. 16(3)](https://www.legislation.gov.uk/ukpga/1989/6/section/16/3), [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/1989/6/schedule/1/paragraph/1)
+
+[^key-0500e803b9671277a13bdfef8070e1d6]: Textual amendment: Words in [s. 11(2)(b)](https://www.legislation.gov.uk/ukpga/1967/13/section/11/2/b) inserted (20.12.2023) by [The National Security Act 2023 (Consequential Amendments of Primary Legislation) Regulations 2023 (S.I. 2023/1386)](https://www.legislation.gov.uk/uksi/2023/1386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1386/regulation/1/2), [Sch. para. 3](https://www.legislation.gov.uk/uksi/2023/1386/schedule/paragraph/3)
+
+[^c9785231]: Modification: S. 11(2A) extended (1.7.1999) by [S.I. 1999/1351](https://www.legislation.gov.uk/uksi/1999/1351), [arts. 1](https://www.legislation.gov.uk/uksi/1999/1351/article/1), [17(1)(b)](https://www.legislation.gov.uk/uksi/1999/1351/article/17/1/b); [S.I. 1998/3178](https://www.legislation.gov.uk/uksi/1998/3178), [art. 3](https://www.legislation.gov.uk/uksi/1998/3178/article/3)
+
+[^c9785221]: Textual amendment: S. 11(2A) inserted by [Parliamentary and Health Service Commissioners Act 1987 (c. 39, SIF 89)](https://www.legislation.gov.uk/ukpga/1987/39), [s. 4(1)](https://www.legislation.gov.uk/ukpga/1987/39/section/4/1)
+
+[^c20180271]: Textual amendment: Words in s. 11(2A) substituted (1.4.2006) by [Public Services Ombudsman (Wales) Act 2005 (c. 10)](https://www.legislation.gov.uk/ukpga/2005/10), [ss. 39](https://www.legislation.gov.uk/ukpga/2005/10/section/39), [40](https://www.legislation.gov.uk/ukpga/2005/10/section/40), [Sch. 6 para. 4](https://www.legislation.gov.uk/ukpga/2005/10/schedule/6/paragraph/4); [S.I. 2005/2800](https://www.legislation.gov.uk/uksi/2005/2800), [art. 5(1)](https://www.legislation.gov.uk/uksi/2005/2800/article/5/1) (with art. 5(2))
+
+[^c9785261]: Textual amendment: S. 11(5) inserted (30.1.2001) by [2000 c. 36](https://www.legislation.gov.uk/ukpga/2000/36), [ss. 76(2)](https://www.legislation.gov.uk/ukpga/2000/36/section/76/2), [87(2)(b)](https://www.legislation.gov.uk/ukpga/2000/36/section/87/2/b), [Sch. 7 para. 1](https://www.legislation.gov.uk/ukpga/2000/36/schedule/7/paragraph/1) (with [ss. 56](https://www.legislation.gov.uk/ukpga/2000/36/section/56), [78](https://www.legislation.gov.uk/ukpga/2000/36/section/78))
+
+[^key-47cf125a7f81c06f50c09475b12333bc]: Textual amendment: Words in [s. 11(5)](https://www.legislation.gov.uk/ukpga/1967/13/section/11/5) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 2 para. 3(a)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/3/a); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
+
+[^c9785321]: Textual amendment: S. 11A inserted by [Parliamentary and Health Service Commissioners Act 1987 (c. 39, SIF 89)](https://www.legislation.gov.uk/ukpga/1987/39), [s. 4(2)](https://www.legislation.gov.uk/ukpga/1987/39/section/4/2)
+
+[^c20143371]: Textual amendment: Words in s. 11A sidenote substituted (14.7.2005 for W.) by [Housing Act 2004 (c. 34)](https://www.legislation.gov.uk/ukpga/2004/34), [ss. 265(1)](https://www.legislation.gov.uk/ukpga/2004/34/section/265/1), [270](https://www.legislation.gov.uk/ukpga/2004/34/section/270), [Sch. 15 para. 1(2)](https://www.legislation.gov.uk/ukpga/2004/34/schedule/15/paragraph/1/2); [S.I. 2005/1814](https://www.legislation.gov.uk/uksi/2005/1814), [art. 2(f)](https://www.legislation.gov.uk/uksi/2005/1814/article/2/f)
+
+[^c20180721]: Textual amendment: Words in s. 11A(1) substituted (1.4.2006) by [Public Services Ombudsman (Wales) Act 2005 (c. 10)](https://www.legislation.gov.uk/ukpga/2005/10), [ss. 39](https://www.legislation.gov.uk/ukpga/2005/10/section/39), [40](https://www.legislation.gov.uk/ukpga/2005/10/section/40), [Sch. 6 para. 5(2)(a)](https://www.legislation.gov.uk/ukpga/2005/10/schedule/6/paragraph/5/2/a); [S.I. 2005/2800](https://www.legislation.gov.uk/uksi/2005/2800), [art. 5(1)](https://www.legislation.gov.uk/uksi/2005/2800/article/5/1) (with [art. 5(2)](https://www.legislation.gov.uk/uksi/2005/2800/article/5/2))
+
+[^c9785351]: Textual amendment: Words in s. 11A(1)(a) substituted (1.7.1999) by [1998 c. 38](https://www.legislation.gov.uk/ukpga/1998/38), [s. 125](https://www.legislation.gov.uk/ukpga/1998/38/section/125), [Sch. 12 para. 8(2)(b)](https://www.legislation.gov.uk/ukpga/1998/38/schedule/12/paragraph/8/2/b) (with [ss. 139(2)](https://www.legislation.gov.uk/ukpga/1998/38/section/139/2), [143(2)](https://www.legislation.gov.uk/ukpga/1998/38/section/143/2)); [S.I. 1999/1290](https://www.legislation.gov.uk/uksi/1999/1290), [art. 4](https://www.legislation.gov.uk/uksi/1999/1290/article/4)
+
+[^c9785361]: Modification: S. 11A extended (1.7.1999) by [S.I. 1999/1351](https://www.legislation.gov.uk/uksi/1999/1351), [arts. 1](https://www.legislation.gov.uk/uksi/1999/1351/article/1), [17(1)(c)](https://www.legislation.gov.uk/uksi/1999/1351/article/17/1/c); [S.I. 1998/3178](https://www.legislation.gov.uk/uksi/1998/3178), [art. 3](https://www.legislation.gov.uk/uksi/1998/3178/article/3)
+
+[^key-4c5b07a6278d0039cb022cb65854936f]: Textual amendment: Words in s. 11A(1)(b) substituted (E.W.) (23.7.2019) by [Public Services Ombudsman (Wales) Act 2019 (anaw 3)](https://www.legislation.gov.uk/anaw/2019/3), [s. 77(1)](https://www.legislation.gov.uk/anaw/2019/3/section/77/1), [Sch. 5 para. 7](https://www.legislation.gov.uk/anaw/2019/3/schedule/5/paragraph/7); [S.I. 2019/1096](https://www.legislation.gov.uk/wsi/2019/1096), [reg. 2](https://www.legislation.gov.uk/wsi/2019/1096/regulation/2)
+
+[^c9785381]: Textual amendment: Words in s. 11A(1)(b) substituted (5.2.1994) by [1993 c. 46](https://www.legislation.gov.uk/ukpga/1993/46), [ss. 20](https://www.legislation.gov.uk/ukpga/1993/46/section/20), [22(4)](https://www.legislation.gov.uk/ukpga/1993/46/section/22/4), [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/1993/46/schedule/2/paragraph/1)
+
+[^c20143591]: Textual amendment: Words in s. 11A(1)(b) inserted (14.7.2004) by [The Scottish Public Services Ombudsman Act 2002 (Consequential Provisions and Modifications) Order 2004 (S.I. 2004/1823)](https://www.legislation.gov.uk/uksi/2004/1823), [art. 5(3)(a)(iii)](https://www.legislation.gov.uk/uksi/2004/1823/article/5/3/a/iii)
+
+[^c20180761]: Textual amendment: Words in s. 11A(2) substituted (1.4.2006) by [Public Services Ombudsman (Wales) Act 2005 (c. 10)](https://www.legislation.gov.uk/ukpga/2005/10), [ss. 39](https://www.legislation.gov.uk/ukpga/2005/10/section/39), [40](https://www.legislation.gov.uk/ukpga/2005/10/section/40), [Sch. 6 para. 5(3)](https://www.legislation.gov.uk/ukpga/2005/10/schedule/6/paragraph/5/3); [S.I. 2005/2800](https://www.legislation.gov.uk/uksi/2005/2800), [art. 5(1)](https://www.legislation.gov.uk/uksi/2005/2800/article/5/1) (with [art. 5(2)](https://www.legislation.gov.uk/uksi/2005/2800/article/5/2))
+
+[^c20143631]: Textual amendment: S. 11A(2A) inserted (14.7.2004) by [The Scottish Public Services Ombudsman Act 2002 (Consequential Provisions and Modifications) Order 2004 (S.I. 2004/1823)](https://www.legislation.gov.uk/uksi/2004/1823), [art. 5(3)(c)](https://www.legislation.gov.uk/uksi/2004/1823/article/5/3/c)
+
+[^c20306971]: Textual amendment: S. 11ZAA inserted (1.8.2007) by [The Regulatory Reform (Collaboration etc. between Ombudsmen) Order 2007 (S.I. 2007/1889)](https://www.legislation.gov.uk/uksi/2007/1889), [art. 2](https://www.legislation.gov.uk/uksi/2007/1889/article/2)
+
+[^c20306991]: Textual amendment: Words in s. 11ZAA(3) substituted (1.4.2008) by Local Government and Public Involvement in [Health Act 2007 (c. 28)](https://www.legislation.gov.uk/ukpga/2007/28), [ss. 182](https://www.legislation.gov.uk/ukpga/2007/28/section/182), [245](https://www.legislation.gov.uk/ukpga/2007/28/section/245), [Sch. 12 para. 13(4)(a)(i)](https://www.legislation.gov.uk/ukpga/2007/28/schedule/12/paragraph/13/4/a/i); [S.I. 2008/917](https://www.legislation.gov.uk/uksi/2008/917), [art. 2(1)(n)](https://www.legislation.gov.uk/uksi/2008/917/article/2/1/n) (with [art. 6(5)](https://www.legislation.gov.uk/uksi/2008/917/article/6/5))
+
+[^c20307011]: Textual amendment: Word in s. 11ZAA(3) substituted (1.4.2008) by Local Government and Public Involvement in [Health Act 2007 (c. 28)](https://www.legislation.gov.uk/ukpga/2007/28), [ss. 182](https://www.legislation.gov.uk/ukpga/2007/28/section/182), [245](https://www.legislation.gov.uk/ukpga/2007/28/section/245), [Sch. 12 para. 13(4)(a)(ii)](https://www.legislation.gov.uk/ukpga/2007/28/schedule/12/paragraph/13/4/a/ii); [S.I. 2008/917](https://www.legislation.gov.uk/uksi/2008/917), [art. 2(1)(n)](https://www.legislation.gov.uk/uksi/2008/917/article/2/1/n) (with [art. 6(5)](https://www.legislation.gov.uk/uksi/2008/917/article/6/5))
+
+[^c20307031]: Textual amendment: Words in s. 11ZAA(3) inserted (1.4.2008) by Local Government and Public Involvement in [Health Act 2007 (c. 28)](https://www.legislation.gov.uk/ukpga/2007/28), [ss. 182](https://www.legislation.gov.uk/ukpga/2007/28/section/182), [245](https://www.legislation.gov.uk/ukpga/2007/28/section/245), [Sch. 12 para. 13(4)(a)(iii)](https://www.legislation.gov.uk/ukpga/2007/28/schedule/12/paragraph/13/4/a/iii); [S.I. 2008/917](https://www.legislation.gov.uk/uksi/2008/917), [art. 2(1)(n)](https://www.legislation.gov.uk/uksi/2008/917/article/2/1/n) (with [art. 6(5)](https://www.legislation.gov.uk/uksi/2008/917/article/6/5))
+
+[^c20307191]: Textual amendment: Words in s. 11ZAA(4) substituted (1.4.2008) by Local Government and Public Involvement in [Health Act 2007 (c. 28)](https://www.legislation.gov.uk/ukpga/2007/28), [ss. 182](https://www.legislation.gov.uk/ukpga/2007/28/section/182), [245](https://www.legislation.gov.uk/ukpga/2007/28/section/245), [Sch. 12 para. 13(4)(b)(i)](https://www.legislation.gov.uk/ukpga/2007/28/schedule/12/paragraph/13/4/b/i); [S.I. 2008/917](https://www.legislation.gov.uk/uksi/2008/917), [art. 2(1)(n)](https://www.legislation.gov.uk/uksi/2008/917/article/2/1/n) (with [art. 6(5)](https://www.legislation.gov.uk/uksi/2008/917/article/6/5))
+
+[^c20307221]: Textual amendment: Words in s. 11ZAA(4) substituted (1.4.2008) by Local Government and Public Involvement in [Health Act 2007 (c. 28)](https://www.legislation.gov.uk/ukpga/2007/28), [ss. 182](https://www.legislation.gov.uk/ukpga/2007/28/section/182), [245](https://www.legislation.gov.uk/ukpga/2007/28/section/245), [Sch. 12 para. 13(4)(b)(ii)](https://www.legislation.gov.uk/ukpga/2007/28/schedule/12/paragraph/13/4/b/ii); [S.I. 2008/917](https://www.legislation.gov.uk/uksi/2008/917), [art. 2(1)(n)](https://www.legislation.gov.uk/uksi/2008/917/article/2/1/n) (with [art. 6(5)](https://www.legislation.gov.uk/uksi/2008/917/article/6/5))
+
+[^c20307281]: Textual amendment: Words in s. 11ZAA(5) repealed (1.4.2008) by Local Government and Public Involvement in [Health Act 2007 (c. 28)](https://www.legislation.gov.uk/ukpga/2007/28), [ss. 182](https://www.legislation.gov.uk/ukpga/2007/28/section/182), [241](https://www.legislation.gov.uk/ukpga/2007/28/section/241), [245](https://www.legislation.gov.uk/ukpga/2007/28/section/245), [Sch. 12 para. 13(4)(c)](https://www.legislation.gov.uk/ukpga/2007/28/schedule/12/paragraph/13/4/c), [Sch. 18 Pt. 14](https://www.legislation.gov.uk/ukpga/2007/28/schedule/18/part/14); [S.I. 2008/917](https://www.legislation.gov.uk/uksi/2008/917), [art. 2(1)(n)(v)(ii)](https://www.legislation.gov.uk/uksi/2008/917/article/2/1/n/v/ii) (with [art. 6(5)](https://www.legislation.gov.uk/uksi/2008/917/article/6/5))
+
+[^c9785411]: Textual amendment: S. 11AA inserted (30.1.2001) by [2000 c. 36](https://www.legislation.gov.uk/ukpga/2000/36), [ss. 76(2)](https://www.legislation.gov.uk/ukpga/2000/36/section/76/2), [87(2)(b)](https://www.legislation.gov.uk/ukpga/2000/36/section/87/2/b), [Sch. 7 para. 2](https://www.legislation.gov.uk/ukpga/2000/36/schedule/7/paragraph/2) (with [ss. 56](https://www.legislation.gov.uk/ukpga/2000/36/section/56), [78](https://www.legislation.gov.uk/ukpga/2000/36/section/78))
+
+[^key-d6b3f8f84dd59013475555a3d68723f3]: Textual amendment: Words in s. 11AA heading substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 2 para. 3(b)(i)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/3/b/i); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
+
+[^key-55dddafb51795b30d8e988256b84e433]: Textual amendment: Words in [s. 11AA(1)](https://www.legislation.gov.uk/ukpga/1967/13/section/11AA/1) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 2 para. 3(b)(ii)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/3/b/ii); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
+
+[^key-d2862e5a8403c09a84d8cb553988e21e]: Textual amendment: [S. 11AA(1)(a)(i)](https://www.legislation.gov.uk/ukpga/1967/13/section/11AA/1/a/i) substituted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 3(a)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/3/a) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210), [Sch. 20 para. 47(1)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/20/paragraph/47/1)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
+
+[^key-90fb62b1e19cc874bdb419b290b0eeb3]: Textual amendment: [S. 11AA(1)(b)](https://www.legislation.gov.uk/ukpga/1967/13/section/11AA/1/b) substituted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 3(b)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/3/b) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210), [Sch. 20 para. 47(2)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/20/paragraph/47/2)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
+
+[^c9785421]: Textual amendment: S. 11B inserted (8.11.1995) by [1995 c. 53](https://www.legislation.gov.uk/ukpga/1995/53), [s. 10(1)](https://www.legislation.gov.uk/ukpga/1995/53/section/10/1)
+
+[^c20325151]: Textual amendment: S. 11B(2)(b)(3)(b) omitted (3.11.2008) by virtue of [The Transfer of Tribunal Functions Order 2008 (S.I. 2008/2833)](https://www.legislation.gov.uk/uksi/2008/2833), [art. 6](https://www.legislation.gov.uk/uksi/2008/2833/article/6), [Sch. 3 para. 24](https://www.legislation.gov.uk/uksi/2008/2833/schedule/3/paragraph/24)
+
+[^c9785431]: Modification: S. 11B(3)(a) extended (1.7.1999) by [S.I. 1999/1351](https://www.legislation.gov.uk/uksi/1999/1351), [arts. 1](https://www.legislation.gov.uk/uksi/1999/1351/article/1), [17(1)(d)](https://www.legislation.gov.uk/uksi/1999/1351/article/17/1/d); [S.I. 1998/3178](https://www.legislation.gov.uk/uksi/1998/3178), [art. 3](https://www.legislation.gov.uk/uksi/1998/3178/article/3)
+
+[^key-2bd115d26b769d5e63a4b9dc7df2c480]: Textual amendment: [S. 11C](https://www.legislation.gov.uk/ukpga/1967/13/section/11C) inserted (8.4.2010) by [Crime and Security Act 2010 (c. 17)](https://www.legislation.gov.uk/ukpga/2010/17), [s. 59(2)](https://www.legislation.gov.uk/ukpga/2010/17/section/59/2), [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2010/17/schedule/2/paragraph/1)
+
+[^c20307341]: Textual amendment: [S. 12(1)](https://www.legislation.gov.uk/ukpga/1967/13/section/12/1): definition inserted (1.8.2007) by [The Regulatory Reform (Collaboration etc. between Ombudsmen) Order 2007 (S.I. 2007/1889)](https://www.legislation.gov.uk/uksi/2007/1889), [art. 16](https://www.legislation.gov.uk/uksi/2007/1889/article/16)
+
+[^c20143691]: Textual amendment: [S. 12(1)](https://www.legislation.gov.uk/ukpga/1967/13/section/12/1): definition substituted (18.10.2005) by [Domestic Violence, Crime and Victims Act 2004 (c. 28)](https://www.legislation.gov.uk/ukpga/2004/28), [ss. 47](https://www.legislation.gov.uk/ukpga/2004/28/section/47), [60](https://www.legislation.gov.uk/ukpga/2004/28/section/60), [Sch. 7 para. 6](https://www.legislation.gov.uk/ukpga/2004/28/schedule/7/paragraph/6); [S.I. 2005/2848](https://www.legislation.gov.uk/uksi/2005/2848), [art. 2(b)](https://www.legislation.gov.uk/uksi/2005/2848/article/2/b)
+
+[^c9785491]: Modification: References to N.I. Prime Minister and Minister to be construed as references to Chief Executive member and heads of N.I. departments respectively: [Northern Ireland Constitution Act 1973 (c. 36, SIF 29:3)](https://www.legislation.gov.uk/ukpga/1973/36), [Sch. 5 paras. 5](https://www.legislation.gov.uk/ukpga/1973/36/schedule/5/paragraph/5), [7(2)](https://www.legislation.gov.uk/ukpga/1973/36/schedule/5/paragraph/7/2)
+
+[^c9785501]: Textual amendment: Words inserted by [Parliamentary and Health Service Commissioners Act 1987 (c. 39, SIF 89)](https://www.legislation.gov.uk/ukpga/1987/39), [s. 1(3)(a)(i)](https://www.legislation.gov.uk/ukpga/1987/39/section/1/3/a/i)
+
+[^c9785511]: Textual amendment: Words substituted by [Parliamentary and Health Service Commissioners Act 1987 (c. 39, SIF 89)](https://www.legislation.gov.uk/ukpga/1987/39), [s. 1(3)(a)(ii)](https://www.legislation.gov.uk/ukpga/1987/39/section/1/3/a/ii)
+
+[^c9785521]: Textual amendment: Words in [s. 13(4)](https://www.legislation.gov.uk/ukpga/1967/13/section/13/4) substituted (2.12.1999) by [S.I. 1999/663](https://www.legislation.gov.uk/uksi/1999/663), [arts. 1(2)](https://www.legislation.gov.uk/uksi/1999/663/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/1999/663/article/2/1), [Sch. 1 para. 14](https://www.legislation.gov.uk/uksi/1999/663/schedule/1/paragraph/14); [1998 c. 47](https://www.legislation.gov.uk/ukpga/1998/47), [s. 3(1)](https://www.legislation.gov.uk/ukpga/1998/47/section/3/1); [S.I. 1999/3208](https://www.legislation.gov.uk/uksi/1999/3208), [art. 2](https://www.legislation.gov.uk/uksi/1999/3208/article/2)
+
+[^c9785531]: Modification: 1.4.1967 appointed under s. 14(2) by [S.I. 1967/485](https://www.legislation.gov.uk/uksi/1967/485)
+
+[^c9785541]: Textual amendment: Words substituted by [Parliamentary and Health Service Commissioners Act 1987 (c. 39, SIF 89)](https://www.legislation.gov.uk/ukpga/1987/39), [s. 1(3)(b)](https://www.legislation.gov.uk/ukpga/1987/39/section/1/3/b)
+
+[^c9785571]: Modification: Sch. 1 (as substituted by [1993 c. 8](https://www.legislation.gov.uk/ukpga/1993/8)) extended (5.2.1994) by [1993 c. 46](https://www.legislation.gov.uk/ukpga/1993/46), [ss. 1(3)](https://www.legislation.gov.uk/ukpga/1993/46/section/1/3), [22(4)](https://www.legislation.gov.uk/ukpga/1993/46/section/22/4), [Sch. 1 para.7](https://www.legislation.gov.uk/ukpga/1993/46/schedule/1/paragraph/7)
+
+    Sch. 1 (as substituted by [1993 c. 8](https://www.legislation.gov.uk/ukpga/1993/8)) modified (5.2.1994) by [1993 c. 46](https://www.legislation.gov.uk/ukpga/1993/46), [ss. 1(3)](https://www.legislation.gov.uk/ukpga/1993/46/section/1/3), [22(4)](https://www.legislation.gov.uk/ukpga/1993/46/section/22/4), [Sch. 1 paras.8](https://www.legislation.gov.uk/ukpga/1993/46/schedule/1/paragraph/8), [9(5)](https://www.legislation.gov.uk/ukpga/1993/46/schedule/1/paragraph/9/5)
+
+    Sch. 1 (as substituted by [1993 c. 8](https://www.legislation.gov.uk/ukpga/1993/8)): power to modify conferred (5.2.1994) by [1993 c. 46](https://www.legislation.gov.uk/ukpga/1993/46), [ss. 1(3)](https://www.legislation.gov.uk/ukpga/1993/46/section/1/3), [22(4)](https://www.legislation.gov.uk/ukpga/1993/46/section/22/4), [Sch. 1 para. 9(2)](https://www.legislation.gov.uk/ukpga/1993/46/schedule/1/paragraph/9/2)
+
+    Sch. 1 (as substituted by 1993 C. 8): functions transferred (1.4.1995) by 1995/269, art. 3, Sch. para. 3
+
+[^c9785561]: Textual amendment: Sch. 1 (paras. 1-10) substituted (31.3.1995) for Sch. 1 (paras. 1-5) by [1993 c. 8](https://www.legislation.gov.uk/ukpga/1993/8), [ss. 25](https://www.legislation.gov.uk/ukpga/1993/8/section/25), [31(2)](https://www.legislation.gov.uk/ukpga/1993/8/section/31/2), [Sch. 4 Pt. II para.2](https://www.legislation.gov.uk/ukpga/1993/8/schedule/4/part/II/paragraph/2); [S.I. 1995/631](https://www.legislation.gov.uk/uksi/1995/631), [art. 2](https://www.legislation.gov.uk/uksi/1995/631/article/2)
+
+[^c9785581]: Modification: Sch. 1 paras. 1, 2 (as substituted by [1993 c. 8](https://www.legislation.gov.uk/ukpga/1993/8)) restricted (5.2.1994) by [1993 c. 46](https://www.legislation.gov.uk/ukpga/1993/46), [ss. 1(3)](https://www.legislation.gov.uk/ukpga/1993/46/section/1/3), [22(4)](https://www.legislation.gov.uk/ukpga/1993/46/section/22/4), [Sch. 1 para. 9(3)](https://www.legislation.gov.uk/ukpga/1993/46/schedule/1/paragraph/9/3)
+
+[^c9785591]: Modification: Sch. 1 paras. 1, 2 (as substituted by [1993 c. 8](https://www.legislation.gov.uk/ukpga/1993/8)) restricted (5.2.1994) by [1993 c. 46](https://www.legislation.gov.uk/ukpga/1993/46), [ss. 1(3)](https://www.legislation.gov.uk/ukpga/1993/46/section/1/3), [22(4)](https://www.legislation.gov.uk/ukpga/1993/46/section/22/4), [Sch. 1 para. 9(3)](https://www.legislation.gov.uk/ukpga/1993/46/schedule/1/paragraph/9/3)
+
+[^c9785601]: Modification: Sch. 1 para. 4 (as substituted by [1993 c. 8](https://www.legislation.gov.uk/ukpga/1993/8)) modified (5.2.1994) by [1993 c. 46](https://www.legislation.gov.uk/ukpga/1993/46), [ss. 1(3)](https://www.legislation.gov.uk/ukpga/1993/46/section/1/3), [22(4)](https://www.legislation.gov.uk/ukpga/1993/46/section/22/4), [Sch. 1 para. 9(2)](https://www.legislation.gov.uk/ukpga/1993/46/schedule/1/paragraph/9/2)
+
+[^c9785611]: Modification: Sch. 1 para. 8 (as substituted by [1993 c. 8](https://www.legislation.gov.uk/ukpga/1993/8)) modified (5.2.1994) by [1993 c. 46](https://www.legislation.gov.uk/ukpga/1993/46), [ss. 1(3)](https://www.legislation.gov.uk/ukpga/1993/46/section/1/3), [22(4)](https://www.legislation.gov.uk/ukpga/1993/46/section/22/4), [Sch. 1 paras. 9(2)](https://www.legislation.gov.uk/ukpga/1993/46/schedule/1/paragraph/9/2), [10(b)](https://www.legislation.gov.uk/ukpga/1993/46/schedule/1/paragraph/10/b)
+
+[^c9785621]: Textual amendment: Sch. 1 para. 10: Words in definition substituted (7.2.1994) by [1993 c. 48](https://www.legislation.gov.uk/ukpga/1993/48), [ss. 190](https://www.legislation.gov.uk/ukpga/1993/48/section/190), [193(2)](https://www.legislation.gov.uk/ukpga/1993/48/section/193/2), [Sch. 8 para.1](https://www.legislation.gov.uk/ukpga/1993/48/schedule/8/paragraph/1); [S. I. 1994/86](https://www.legislation.gov.uk/uksi/1994/86), [art. 2](https://www.legislation.gov.uk/uksi/1994/86/article/2)
+
+[^c9785631]: Textual amendment: Sch. 1 para. 10: Words in definition substituted (7.2.1994) by [1993 c. 49](https://www.legislation.gov.uk/ukpga/1993/49), [ss. 184](https://www.legislation.gov.uk/ukpga/1993/49/section/184), [186(2)](https://www.legislation.gov.uk/ukpga/1993/49/section/186/2), [Sch. 7 para.7](https://www.legislation.gov.uk/ukpga/1993/49/schedule/7/paragraph/7); [S.R. 1994/17](https://www.legislation.gov.uk/nisr/1994/17), [art. 2](https://www.legislation.gov.uk/nisr/1994/17/article/2)
+
+[^key-e259c713fef36d68abbe2294ed0a1da4]: Modification: Sch. 2 applied (with modifications) (1.7.2022) by [The Health and Care Act 2022 (Commencement No. 2 and Transitional and Saving Provision) Regulations 2022 (S.I. 2022/734)](https://www.legislation.gov.uk/uksi/2022/734), [reg. 7](https://www.legislation.gov.uk/uksi/2022/734/regulation/7) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+
+[^key-4a468b05f10726d889927167169f7762]: Textual amendment: Sch. 2 substituted (6.2.2012) by [The Parliamentary Commissioner (No. 2) Order 2011 (S.I. 2011/2986)](https://www.legislation.gov.uk/uksi/2011/2986), [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/2986/article/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2011/2986/schedule)
+
+[^key-1cbd21e510ec65f5a7ebc5e927a20742]: Textual amendment: Words in Sch. 2 inserted (25.1.2023) by [Advanced Research and Invention Agency Act 2022 (c. 4)](https://www.legislation.gov.uk/ukpga/2022/4), [s. 13(1)](https://www.legislation.gov.uk/ukpga/2022/4/section/13/1), [Sch. 3 para. 2](https://www.legislation.gov.uk/ukpga/2022/4/schedule/3/paragraph/2); [S.I. 2023/58](https://www.legislation.gov.uk/uksi/2023/58), [reg. 2](https://www.legislation.gov.uk/uksi/2023/58/regulation/2)
+
+[^key-390011a1a528c464f1b08909a34b1ff1]: Textual amendment: Sch. 2: entries omitted (1.4.2013) by virtue of [The Parliamentary Commissioner Order 2013 (S.I. 2013/238)](https://www.legislation.gov.uk/uksi/2013/238), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2013/238/article/1/1), [2(b)](https://www.legislation.gov.uk/uksi/2013/238/article/2/b)
+
+[^key-5f62b1e18be60343a485d30085fabb79]: Textual amendment: Sch. 2: entry repealed (22.7.2012) by [The Advisory Committee on Hazardous Substances (Abolition) Order 2012 (S.I. 2012/1923)](https://www.legislation.gov.uk/uksi/2012/1923), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1923/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2012/1923/schedule)
+
+[^key-f659399cbaedf76db291070a60399ef1]: Textual amendment: Sch. 2: entry repealed (27.3.2015) by [The Public Bodies (Abolition of the Advisory Committees on Pesticides) Order 2015 (S.I. 2015/978)](https://www.legislation.gov.uk/uksi/2015/978), [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/978/article/1/2), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2015/978/schedule/part/1)
+
+[^key-3282f41b7a56395db3c0abe45861ceb0]: Textual amendment: Sch. 2: entry omitted (17.3.2015) by virtue of [The Public Bodies (Abolition of the Library Advisory Council for England) Order 2015 (S.I. 2015/850)](https://www.legislation.gov.uk/uksi/2015/850), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/850/article/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2015/850/article/3/2)
+
+[^key-1a4647ddf1024a2a18107867cd4df0b6]: Textual amendment: Words in Sch. 2 inserted (18.9.2024 for E.W.) by [Victims and Prisoners Act 2024 (c. 21)](https://www.legislation.gov.uk/ukpga/2024/21), [ss. 45(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/45/2), [81(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/2) (with [ss. 39(9)](https://www.legislation.gov.uk/ukpga/2024/21/section/39/9), [43(7)](https://www.legislation.gov.uk/ukpga/2024/21/section/43/7)); [S.I. 2024/966](https://www.legislation.gov.uk/uksi/2024/966), [reg. 2(k)](https://www.legislation.gov.uk/uksi/2024/966/regulation/2/k)
+
+[^key-3980306c3b361d3db0fba15e8f7fb8b5]: Textual amendment: Sch. 2: entries omitted (6.4.2015) by virtue of [The Parliamentary Commissioner Order 2015 (S.I. 2015/214)](https://www.legislation.gov.uk/uksi/2015/214), [arts. 1](https://www.legislation.gov.uk/uksi/2015/214/article/1), [2(3)](https://www.legislation.gov.uk/uksi/2015/214/article/2/3)
+
+[^key-ead38009a2cf7fe799ea3fc74ba5117f]: Textual amendment: Sch. 2: entry repealed (25.6.2013) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 20 para. 2](https://www.legislation.gov.uk/ukpga/2013/24/schedule/20/paragraph/2); [S.I. 2013/1455](https://www.legislation.gov.uk/uksi/2013/1455), [art. 2(c)](https://www.legislation.gov.uk/uksi/2013/1455/article/2/c), [Sch. 1](https://www.legislation.gov.uk/uksi/2013/1455/schedule/1) (with [art. 4(2)](https://www.legislation.gov.uk/uksi/2013/1455/article/4/2))
+
+[^key-1db245f53cff8ccdec4aae9cf95dc6e6]: Textual amendment: Sch. 2: entry omitted (1.7.2012) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 20 para. 1(a)](https://www.legislation.gov.uk/ukpga/2012/7/schedule/20/paragraph/1/a) (with [Sch. 20 para. 4](https://www.legislation.gov.uk/ukpga/2012/7/schedule/20/paragraph/4)); [S.I. 2012/1319](https://www.legislation.gov.uk/uksi/2012/1319), [art. 2(3)](https://www.legislation.gov.uk/uksi/2012/1319/article/2/3)
+
+[^key-fda579935884888e5e01605a5f2d5c05]: Textual amendment: Sch. 2: entries omitted (31.10.2018 except the entries relating to the Medical Research Council and the Science and Technology Facilities Council, 30.3.2020 for the entry relating to the Science and Technology Facilities Council) by virtue of [Higher Education and Research Act 2017 (c. 29)](https://www.legislation.gov.uk/ukpga/2017/29), [s. 124(5)](https://www.legislation.gov.uk/ukpga/2017/29/section/124/5), [Sch. 12 para. 5](https://www.legislation.gov.uk/ukpga/2017/29/schedule/12/paragraph/5); [S.I. 2018/1054](https://www.legislation.gov.uk/uksi/2018/1054), [reg. 2(d)(iii)](https://www.legislation.gov.uk/uksi/2018/1054/regulation/2/d/iii); [S.I. 2020/321](https://www.legislation.gov.uk/uksi/2020/321), [reg. 2(d)(iii)](https://www.legislation.gov.uk/uksi/2020/321/regulation/2/d/iii)
+
+[^key-39fc105bc89febd20a0e481bf619334c]: Textual amendment: Sch. 2: entry inserted (1.4.2013) by [The Parliamentary Commissioner Order 2013 (S.I. 2013/238)](https://www.legislation.gov.uk/uksi/2013/238), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2013/238/article/1/1), [2(d)](https://www.legislation.gov.uk/uksi/2013/238/article/2/d)
+
+[^key-46b01f529a97d77624f56338f869021f]: Textual amendment: Sch. 2: entries inserted (6.4.2015) by [The Parliamentary Commissioner Order 2015 (S.I. 2015/214)](https://www.legislation.gov.uk/uksi/2015/214), [arts. 1](https://www.legislation.gov.uk/uksi/2015/214/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2015/214/article/2/2)
+
+[^key-78d56bb7a40a1bd78d1da24aed97706f]: Textual amendment: Words in Sch. 2 omitted (1.4.2023) by virtue of [Building Safety Act 2022 (c. 30)](https://www.legislation.gov.uk/ukpga/2022/30), [s. 170(4)(c)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/4/c), [Sch. 5 para. 87](https://www.legislation.gov.uk/ukpga/2022/30/schedule/5/paragraph/87); [S.I. 2023/362](https://www.legislation.gov.uk/uksi/2023/362), [reg. 2(2)(d)](https://www.legislation.gov.uk/uksi/2023/362/regulation/2/2/d)
+
+[^key-59d20f4c8c758ac252789e4201d2c43e]: Textual amendment: Sch. 2: entry inserted (27.1.2026) by [The Building Safety Regulator (Establishment of New Body and Transfer of Functions etc.) Regulations 2026 (S.I. 2026/20)](https://www.legislation.gov.uk/uksi/2026/20), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/20/regulation/1/2), [Sch. 1 para. 18](https://www.legislation.gov.uk/uksi/2026/20/schedule/1/paragraph/18) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/20/regulation/5))
+
+[^key-a65ede897b22b165fc5e11ea1ab23de9]: Textual amendment: Sch. 2: entry omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(g)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/g), [Sch. 14 para. 32](https://www.legislation.gov.uk/ukpga/2015/20/schedule/14/paragraph/32)
+
+[^key-bfb5fef8e13900919207be741e4c0a16]: Textual amendment: Sch. 2: entry omitted (1.8.2012) by virtue of [The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007)](https://www.legislation.gov.uk/uksi/2012/2007), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2007/article/1/2), [Sch. para. 109(a)](https://www.legislation.gov.uk/uksi/2012/2007/schedule/paragraph/109/a)
+
+[^key-458df781b1b28b8429aaf7abb8ec90c1]: Textual amendment: Sch. 2: entry repealed (8.5.2012) by [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5), [s. 150(2)(j)](https://www.legislation.gov.uk/ukpga/2012/5/section/150/2/j), [Sch. 13 para. 15(a)](https://www.legislation.gov.uk/ukpga/2012/5/schedule/13/paragraph/15/a)
+
+[^key-8272ce2ed3b2824a3c96c010edbb9001]: Textual amendment: Sch. 2: entry inserted (6.4.2015) by [The Parliamentary Commissioner Order 2015 (S.I. 2015/214)](https://www.legislation.gov.uk/uksi/2015/214), [arts. 1](https://www.legislation.gov.uk/uksi/2015/214/article/1), [2(4)](https://www.legislation.gov.uk/uksi/2015/214/article/2/4)
+
+[^key-99bc59fde9c0ffa15ac4250ecfcd02f5]: Textual amendment: Sch. 2: entries omitted (1.4.2014) by virtue of [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) Order 2014 (S.I. 2014/892)](https://www.legislation.gov.uk/uksi/2014/892), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/892/article/1/1), [Sch. 1 para. 26](https://www.legislation.gov.uk/uksi/2014/892/schedule/1/paragraph/26) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/892/article/3))
+
+[^key-1351e66ecc04f3a3a09f3fe0244dd3d8]: Textual amendment: Sch. 2: entry inserted (1.10.2013) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 4 para. 22](https://www.legislation.gov.uk/ukpga/2013/24/schedule/4/paragraph/22); [S.I. 2013/2227](https://www.legislation.gov.uk/uksi/2013/2227), [art. 2(j)](https://www.legislation.gov.uk/uksi/2013/2227/article/2/j) (with [art. 3](https://www.legislation.gov.uk/uksi/2013/2227/article/3))
+
+[^key-787c296ef24afccafa7601d0039ce325]: Textual amendment: Words in Sch. 2 omitted (3.5.2023) by virtue of [The Secretaries of State for Energy Security and Net Zero, for Science, Innovation and Technology, for Business and Trade, and for Culture, Media and Sport and the Transfer of Functions (National Security and Investment Act 2021 etc) Order 2023 (S.I. 2023/424)](https://www.legislation.gov.uk/uksi/2023/424), [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/424/article/1/2), [Sch. para. 3(a)](https://www.legislation.gov.uk/uksi/2023/424/schedule/paragraph/3/a) (with [art. 17](https://www.legislation.gov.uk/uksi/2023/424/article/17))
+
+[^key-e84515c4f2f191065dd1b401cc984db2]: Textual amendment: Words in Sch. 2 inserted (3.5.2023) by [The Secretaries of State for Energy Security and Net Zero, for Science, Innovation and Technology, for Business and Trade, and for Culture, Media and Sport and the Transfer of Functions (National Security and Investment Act 2021 etc) Order 2023 (S.I. 2023/424)](https://www.legislation.gov.uk/uksi/2023/424), [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/424/article/1/2), [Sch. para. 3(b)](https://www.legislation.gov.uk/uksi/2023/424/schedule/paragraph/3/b) (with [art. 17](https://www.legislation.gov.uk/uksi/2023/424/article/17))
+
+[^key-3019879649e263821d5b06a979b8d9c0]: Textual amendment: Sch. 2: entries omitted (9.11.2016) by virtue of [The Secretaries of State for Business, Energy and Industrial Strategy, for International Trade and for Exiting the European Union and the Transfer of Functions (Education and Skills) Order 2016 (S.I. 2016/992)](https://www.legislation.gov.uk/uksi/2016/992), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/992/article/1/2), [Sch. para. 2(a)](https://www.legislation.gov.uk/uksi/2016/992/schedule/paragraph/2/a) (with [art. 13](https://www.legislation.gov.uk/uksi/2016/992/article/13))
+
+[^key-483572b3973d5e9aaf6234c71c58adec]: Textual amendment: Sch. 2: entry omitted (11.4.2018) by virtue of [The Secretaries of State for Health and Social Care and for Housing, Communities and Local Government and Transfer of Functions (Commonhold Land) Order 2018 (S.I. 2018/378)](https://www.legislation.gov.uk/uksi/2018/378), [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/378/article/1/2), [Sch. para. 2(a)](https://www.legislation.gov.uk/uksi/2018/378/schedule/paragraph/2/a) (with [art. 14](https://www.legislation.gov.uk/uksi/2018/378/article/14))
+
+[^key-c1fcdaa94c99bee25ad9f946efd057d0]: Textual amendment: Sch. 2: entry omitted (30.9.2020) by virtue of [The Transfer of Functions (Secretary of State for Foreign, Commonwealth and Development Affairs) Order 2020 (S.I. 2020/942)](https://www.legislation.gov.uk/uksi/2020/942), [art. 1(2)](https://www.legislation.gov.uk/uksi/2020/942/article/1/2), [Sch. para. 4(a)](https://www.legislation.gov.uk/uksi/2020/942/schedule/paragraph/4/a)
+
+[^key-911f771029f464ee7fee6ad9810ce000]: Textual amendment: Words in Sch. 2 omitted (30.10.2024) by virtue of [The Transfer of Functions (Secretary of State for Housing, Communities and Local Government) Order 2024 (S.I. 2024/991)](https://www.legislation.gov.uk/uksi/2024/991), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/991/article/1/2), [Sch. para. 2(a)](https://www.legislation.gov.uk/uksi/2024/991/schedule/paragraph/2/a) (with [art. 7](https://www.legislation.gov.uk/uksi/2024/991/article/7))
+
+[^key-695c9349916a8a039fa04e9614cb37a9]: Textual amendment: Sch. 2: words in entry inserted (11.4.2018) by [The Secretaries of State for Health and Social Care and for Housing, Communities and Local Government and Transfer of Functions (Commonhold Land) Order 2018 (S.I. 2018/378)](https://www.legislation.gov.uk/uksi/2018/378), [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/378/article/1/2), [Sch. para. 2(b)](https://www.legislation.gov.uk/uksi/2018/378/schedule/paragraph/2/b) (with [art. 14](https://www.legislation.gov.uk/uksi/2018/378/article/14))
+
+[^key-a0bf7ff60da12f4ea316f7713f168426]: Textual amendment: Words in Sch. 2 omitted (7.4.2026) by virtue of [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 10 para. 58(a)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/10/paragraph/58/a) (with [s. 147 Sch. 11](https://www.legislation.gov.uk/ukpga/2025/36/section/147/schedule/11)); [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/1)[(55)(a)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/55/a)
+
+[^key-4edb48928c2b204e263858784fc201bf]: Textual amendment: Sch. 2: entry repealed (7.2.2013) by [The Public Bodies (Abolition of the Disability Living Allowance Advisory Board) Order 2013 (S.I. 2013/252)](https://www.legislation.gov.uk/uksi/2013/252), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/252/article/1/2), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2013/252/schedule/part/1)
+
+[^key-f2f484f9e982ad6d61452bd32ad0a028]: Textual amendment: Sch. 2: entry inserted (15.10.2012) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 9 para. 130](https://www.legislation.gov.uk/ukpga/2012/9/schedule/9/paragraph/130) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2012/2521](https://www.legislation.gov.uk/uksi/2012/2521), [art. 2(e)](https://www.legislation.gov.uk/uksi/2012/2521/article/2/e)
+
+[^key-b1df78f9473a0e4eb7751dda6a0bd920]: Textual amendment: Sch. 2: entry omitted (1.4.2018) by virtue of [Higher Education and Research Act 2017 (c. 29)](https://www.legislation.gov.uk/ukpga/2017/29), [s. 124(5)](https://www.legislation.gov.uk/ukpga/2017/29/section/124/5), [Sch. 11 para. 2(a)](https://www.legislation.gov.uk/ukpga/2017/29/schedule/11/paragraph/2/a); [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 2(s)](https://www.legislation.gov.uk/uksi/2018/241/regulation/2/s)
+
+[^key-7a1e1c0e33033cfb5bacef18b3d8a94d]: Textual amendment: Sch. 2: entry repealed (18.7.2014) by [The Public Bodies (Abolition of Food from Britain) Order 2014 (S.I. 2014/1924)](https://www.legislation.gov.uk/uksi/2014/1924), [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/1924/article/1/3), [Sch.](https://www.legislation.gov.uk/uksi/2014/1924/schedule)
+
+[^key-7d61e0fa1296ec639b8658cc1b4f9de0]: Textual amendment: Sch. 2: entry substituted (30.9.2020) by [The Transfer of Functions (Secretary of State for Foreign, Commonwealth and Development Affairs) Order 2020 (S.I. 2020/942)](https://www.legislation.gov.uk/uksi/2020/942), [art. 1(2)](https://www.legislation.gov.uk/uksi/2020/942/article/1/2), [Sch. para. 4(b)](https://www.legislation.gov.uk/uksi/2020/942/schedule/paragraph/4/b)
+
+[^key-ded941f186299bf47ff956d040205137]: Textual amendment: Words in Sch. 2 inserted (25.7.2022) by [Forensic Science Regulator Act 2021 (c. 14)](https://www.legislation.gov.uk/ukpga/2021/14), [s. 13(4)](https://www.legislation.gov.uk/ukpga/2021/14/section/13/4), [Sch. para. 8](https://www.legislation.gov.uk/ukpga/2021/14/schedule/paragraph/8) (with [s. 12](https://www.legislation.gov.uk/ukpga/2021/14/section/12)); [S.I. 2022/856](https://www.legislation.gov.uk/uksi/2022/856), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/856/regulation/1/2), [2(a)](https://www.legislation.gov.uk/uksi/2022/856/regulation/2/a)
+
+[^key-f180b64f063cb5c216fef6d7980f7063]: Textual amendment: Words in Sch. 2 omitted (7.4.2026) by virtue of [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 10 para. 58(b)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/10/paragraph/58/b) (with [s. 147 Sch. 11](https://www.legislation.gov.uk/ukpga/2025/36/section/147/schedule/11)); [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/1)[(55)(a)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/55/a)
+
+[^key-e3898aaf8bca74cc539a3887105f72a9]: Textual amendment: Sch. 2: entry omitted (1.8.2012) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 15 para. 50(b)](https://www.legislation.gov.uk/ukpga/2012/7/schedule/15/paragraph/50/b); [S.I. 2012/1319](https://www.legislation.gov.uk/uksi/2012/1319), [art. 2(4)](https://www.legislation.gov.uk/uksi/2012/1319/article/2/4)
+
+[^key-d4124f0181241d708eaef9113519be3f]: Textual amendment: Sch. 2: entry inserted (25.6.2013) by [Groceries Code Adjudicator Act 2013 (c. 19)](https://www.legislation.gov.uk/ukpga/2013/19), [ss. 21(1)](https://www.legislation.gov.uk/ukpga/2013/19/section/21/1), [25](https://www.legislation.gov.uk/ukpga/2013/19/section/25); [S.I. 2013/1236](https://www.legislation.gov.uk/uksi/2013/1236), [art. 2](https://www.legislation.gov.uk/uksi/2013/1236/article/2)
+
+[^key-f4fc17ac962b17670bbb7b2dac69e040]: Textual amendment: Words in Sch. 2 omitted (1.2.2023) by virtue of [The Health and Social Care Information Centre (Transfer of Functions, Abolition and Transitional Provisions) Regulations 2023 (S.I. 2023/98)](https://www.legislation.gov.uk/uksi/2023/98), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/98/regulation/1/2), [Sch. para. 2](https://www.legislation.gov.uk/uksi/2023/98/schedule/paragraph/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/98/regulation/3))
+
+[^key-dd0604a07ceeb355795acd06ac8c6935]: Textual amendment: Words in Sch. 2 omitted (1.4.2023) by virtue of [The Health Education England (Transfer of Functions, Abolition and Transitional Provisions) Regulations 2023 (S.I. 2023/368)](https://www.legislation.gov.uk/uksi/2023/368), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/368/regulation/1/2), [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2023/368/schedule/1/paragraph/3) (with [reg. 7](https://www.legislation.gov.uk/uksi/2023/368/regulation/7))
+
+[^key-674f72e1697b96deeb146fcb81aa8449]: Textual amendment: Sch. 2: entry omitted (1.4.2013) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 7 para. 1(a)](https://www.legislation.gov.uk/ukpga/2012/7/schedule/7/paragraph/1/a); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+
+[^key-4d830dde88b24a269175134568231e5d]: Textual amendment: Sch. 2: entry inserted (1.1.2015) by [Care Act 2014 (c. 23)](https://www.legislation.gov.uk/ukpga/2014/23), [s. 127(1)](https://www.legislation.gov.uk/ukpga/2014/23/section/127/1), [Sch. 7 para. 23](https://www.legislation.gov.uk/ukpga/2014/23/schedule/7/paragraph/23); [S.I. 2014/2473](https://www.legislation.gov.uk/uksi/2014/2473), [art. 5(m)](https://www.legislation.gov.uk/uksi/2014/2473/article/5/m)
+
+[^key-7ec98280021f0f3926e20f6e822fd735]: Textual amendment: Words in Sch. 2 inserted (1.10.2023) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 15 para. 3](https://www.legislation.gov.uk/ukpga/2022/31/schedule/15/paragraph/3); [S.I. 2023/1035](https://www.legislation.gov.uk/uksi/2023/1035), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2023/1035/regulation/2/c)
+
+[^key-e5024b8f3df6aa503f86be5a3c93a9be]: Textual amendment: Sch. 2: entry omitted (1.4.2018) by virtue of [Higher Education and Research Act 2017 (c. 29)](https://www.legislation.gov.uk/ukpga/2017/29), [s. 124(5)](https://www.legislation.gov.uk/ukpga/2017/29/section/124/5), [Sch. 11 para. 2(b)](https://www.legislation.gov.uk/ukpga/2017/29/schedule/11/paragraph/2/b); [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 2(s)](https://www.legislation.gov.uk/uksi/2018/241/regulation/2/s)
+
+[^key-843aad4e739b22992ddeedbc6d413fae]: Textual amendment: Sch. 2: entry inserted (21.7.2025) by [Football Governance Act 2025 (c. 21)](https://www.legislation.gov.uk/ukpga/2025/21), [s. 100(2)(e)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/e), [Sch. 12 para. 2](https://www.legislation.gov.uk/ukpga/2025/21/schedule/12/paragraph/2)
+
+[^key-e4148c638fa2606c97cbafcb4faeaaaf]: Textual amendment: Sch. 2: entry inserted (19.3.2020) by [European Union (Withdrawal Agreement) Act 2020 (c. 1)](https://www.legislation.gov.uk/ukpga/2020/1), [s. 42(7)](https://www.legislation.gov.uk/ukpga/2020/1/section/42/7), [Sch. 2 para. 17](https://www.legislation.gov.uk/ukpga/2020/1/schedule/2/paragraph/17) (with [Sch. 2 para. 37](https://www.legislation.gov.uk/ukpga/2020/1/schedule/2/paragraph/37)); [S.I. 2020/317](https://www.legislation.gov.uk/uksi/2020/317), [reg. 3(b)(i)](https://www.legislation.gov.uk/uksi/2020/317/regulation/3/b/i)
+
+[^key-6ed06779d01bd848787cabd5f54bd118]: Textual amendment: Sch. 2: entry omitted (1.7.2012) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 13 para. 3(1)(b)](https://www.legislation.gov.uk/ukpga/2012/7/schedule/13/paragraph/3/1/b); [S.I. 2012/1319](https://www.legislation.gov.uk/uksi/2012/1319), [art. 2(3)](https://www.legislation.gov.uk/uksi/2012/1319/article/2/3)
+
+[^key-1d5242136679b95f333bf0a9dfe987ee]: Textual amendment: Sch. 2: entry omitted (1.12.2012) by virtue of [The Protection of Freedoms Act 2012 (Disclosure and Barring Service Transfer of Functions) Order 2012 (S.I. 2012/3006)](https://www.legislation.gov.uk/uksi/2012/3006), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/3006/article/1/1), [14](https://www.legislation.gov.uk/uksi/2012/3006/article/14) (with [Pt. 4](https://www.legislation.gov.uk/uksi/2012/3006/part/4))
+
+[^key-f65a35bb2260b536dd466a8a4fec2a7e]: Textual amendment: Words in Sch. 2 inserted (24.5.2024) by [Victims and Prisoners Act 2024 (c. 21)](https://www.legislation.gov.uk/ukpga/2024/21), [s. 81(1)(a)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/1/a), [Sch. 1 para. 24](https://www.legislation.gov.uk/ukpga/2024/21/schedule/1/paragraph/24)
+
+[^key-34430117e0114f7a62bf4c52bd1ea5df]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/ukpga/1967/13/schedule/2) inserted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 2 para. 3(c)(ii)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/3/c/ii); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
+
+[^key-6b73f0d8b6d0ebb4e7d68f7afae23820]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/ukpga/1967/13/schedule/2) omitted (30.9.2026) by virtue of [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 2 para. 3(c)(i)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/3/c/i); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
+
+[^key-37fde83853e2702bfbc47d1177a28514]: Textual amendment: Sch. 2: entry repealed (1.4.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 13 para. 74](https://www.legislation.gov.uk/ukpga/2011/20/schedule/13/paragraph/74), [Sch. 25 Pt. 20](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/20); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 7](https://www.legislation.gov.uk/uksi/2012/628/article/7)
+
+[^key-7ba10840cc458b17ea7aa375ecccf5cc]: Textual amendment: Sch. 2: entry omitted (1.4.2013) by virtue of [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 5 para. 2](https://www.legislation.gov.uk/ukpga/2012/10/schedule/5/paragraph/2); [S.I. 2013/453](https://www.legislation.gov.uk/uksi/2013/453), [art. 3(h)](https://www.legislation.gov.uk/uksi/2013/453/article/3/h) (with savings and transitional provisions in [S.I. 2013/534](https://www.legislation.gov.uk/uksi/2013/534), art. 6)
+
+[^key-6c154aafdddc7d197c3aef130b0ccd80]: Textual amendment: Sch. 2: entry repealed (2.2.2012) by [The Local Better Regulation Office (Dissolution and Transfer of Functions, Etc.) Order 2012 (S.I. 2012/246)](https://www.legislation.gov.uk/uksi/2012/246), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/246/article/1/2), [2](https://www.legislation.gov.uk/uksi/2012/246/article/2), [4(2)](https://www.legislation.gov.uk/uksi/2012/246/article/4/2), [Sch. 1 para. 17](https://www.legislation.gov.uk/uksi/2012/246/schedule/1/paragraph/17) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2012/246/schedule/2))
+
+[^key-3bee6f2401623eb84ac639167d8e0ac2]: Textual amendment: Words in Sch. 2 inserted (15.7.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6), [Sch. 34 para. 7](https://www.legislation.gov.uk/ukpga/2026/23/schedule/34/paragraph/7); [S.I. 2026/812](https://www.legislation.gov.uk/uksi/2026/812), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2026/812/regulation/2/2)
+
+[^key-cc7e6f36a3c059cff96d77687b61d8ec]: Textual amendment: Words in Sch. 2 omitted (8.12.2021) by virtue of [The Transfer of Functions (Secretary of State for Levelling Up, Housing and Communities) Order 2021 (S.I. 2021/1265)](https://www.legislation.gov.uk/uksi/2021/1265), [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2), [Sch. 2 para. 2(a)](https://www.legislation.gov.uk/uksi/2021/1265/schedule/2/paragraph/2/a) (with [art. 12](https://www.legislation.gov.uk/uksi/2021/1265/article/12))
+
+[^key-ea6103cb012a4d22093590c5dae3031e]: Textual amendment: Words in Sch. 2 inserted (30.10.2024) by [The Transfer of Functions (Secretary of State for Housing, Communities and Local Government) Order 2024 (S.I. 2024/991)](https://www.legislation.gov.uk/uksi/2024/991), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/991/article/1/2), [Sch. para. 2(b)](https://www.legislation.gov.uk/uksi/2024/991/schedule/paragraph/2/b) (with [art. 7](https://www.legislation.gov.uk/uksi/2024/991/article/7))
+
+[^key-684cad37cc686c0bae92a566bb4cda29]: Textual amendment: Sch. 2: entry inserted (6.4.2019) by [The Financial Guidance and Claims Act 2018 (Naming and Consequential Amendments) Regulations 2019 (S.I. 2019/383)](https://www.legislation.gov.uk/uksi/2019/383), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/383/regulation/1/1), [Sch. para. 2(b)](https://www.legislation.gov.uk/uksi/2019/383/schedule/paragraph/2/b)
+
+[^key-3595f8aa5125e37c2a778bd3f9edc505]: Textual amendment: Words in Sch. 2 omitted (1.7.2022) by virtue of [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 5 para. 3](https://www.legislation.gov.uk/ukpga/2022/31/schedule/5/paragraph/3); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 7](https://www.legislation.gov.uk/uksi/2022/734/regulation/7), [13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+
+[^key-a0ab6c405651b39d6766bf3c8208c80f]: Textual amendment: Sch. 2: entry inserted (1.4.2013) by [The Parliamentary Commissioner Order 2013 (S.I. 2013/238)](https://www.legislation.gov.uk/uksi/2013/238), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2013/238/article/1/1), [2(c)](https://www.legislation.gov.uk/uksi/2013/238/article/2/c)
+
+[^key-fe75407e41e76c0e4faa818945432ee7]: Textual amendment: Sch. 2: entry omitted (1.4.2013) by virtue of [The Parliamentary Commissioner Order 2013 (S.I. 2013/238)](https://www.legislation.gov.uk/uksi/2013/238), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2013/238/article/1/1), [2(c)](https://www.legislation.gov.uk/uksi/2013/238/article/2/c)
+
+[^key-4a39e9f7e39ee00fa0a842e92e54db29]: Textual amendment: Sch. 2: entry omitted (1.4.2014) by virtue of [The Public Bodies (Abolition of the National Consumer Council and Transfer of the Office of Fair Trading’s Functions in relation to Estate Agents etc) Order 2014 (S.I. 2014/631)](https://www.legislation.gov.uk/uksi/2014/631), [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/631/article/1/3), [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2014/631/schedule/1/paragraph/2) (with [Sch. 1 para. 28](https://www.legislation.gov.uk/uksi/2014/631/schedule/1/paragraph/28), [2 paras. 13-15](https://www.legislation.gov.uk/uksi/2014/631/schedule/2/paragraph/13))
+
+[^key-bc93955f5f92e236f27987be30d58afb]: Textual amendment: Sch. 2: entry inserted (7.10.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 8 para. 18(2)(a)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/8/paragraph/18/2/a); [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(v)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/v)
+
+[^key-e42ccd5e583888f3c56325b1918b4006]: Textual amendment: Sch. 2: entry inserted (1.4.2019) by [Health and Social Care (National Data Guardian) Act 2018 (c. 31)](https://www.legislation.gov.uk/ukpga/2018/31), [s. 5(1)](https://www.legislation.gov.uk/ukpga/2018/31/section/5/1), [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2018/31/schedule/2/paragraph/2); [S.I. 2019/580](https://www.legislation.gov.uk/uksi/2019/580), [reg. 2](https://www.legislation.gov.uk/uksi/2019/580/regulation/2)
+
+[^key-10d313450a93aa6ce5411cafb23305b8]: Textual amendment: Sch. 2: entry omitted (1.4.2012) by virtue of [The Public Bodies (Abolition of the National Endowment for Science, Technology and the Arts) Order 2012 (S.I. 2012/964)](https://www.legislation.gov.uk/uksi/2012/964), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/964/article/1/2), [3(1)](https://www.legislation.gov.uk/uksi/2012/964/article/3/1), [Sch.](https://www.legislation.gov.uk/uksi/2012/964/schedule)
+
+[^key-46e6d669f3ab328e52bb1d4a81dd6fe2]: Textual amendment: Sch. 2: entry omitted (1.4.2013) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 20 para. 9(1)(a)](https://www.legislation.gov.uk/ukpga/2012/7/schedule/20/paragraph/9/1/a); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+
+[^key-70bd3417dac421e3b0b9e344147eb2ed]: Textual amendment: Sch. 2: entry inserted (1.4.2013) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 17 para. 2](https://www.legislation.gov.uk/ukpga/2012/7/schedule/17/paragraph/2); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+
+[^key-1649ae8feb24221984bc32e3ed67b140]: Textual amendment: Sch. 2: entry omitted (1.10.2013) by virtue of [The Public Bodies (Merger of the Gambling Commission and the National Lottery Commission) Order 2013 (S.I. 2013/2329)](https://www.legislation.gov.uk/uksi/2013/2329), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2329/article/1/2), [Sch. para. 18](https://www.legislation.gov.uk/uksi/2013/2329/schedule/paragraph/18) (with [art. 8](https://www.legislation.gov.uk/uksi/2013/2329/article/8), [Sch. para. 43](https://www.legislation.gov.uk/uksi/2013/2329/schedule/paragraph/43))
+
+[^key-ce3249f3d803ad3d5b19a8b65a8b6004]: Textual amendment: Sch. 2: entry omitted (1.4.2013) by virtue of [The Parliamentary Commissioner Order 2013 (S.I. 2013/238)](https://www.legislation.gov.uk/uksi/2013/238), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2013/238/article/1/1), [2(d)](https://www.legislation.gov.uk/uksi/2013/238/article/2/d)
+
+[^key-27a2c4111bc041236bd127e1dfcf335d]: Textual amendment: Sch. 2: entry omitted (7.10.2013) by virtue of [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 8 para. 18(2)(b)(i)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/8/paragraph/18/2/b/i); [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(v)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/v)
+
+[^key-b03d654f5262af3d599123f1966c2573]: Textual amendment: Sch. 2: entry inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 80(2)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/80/2) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+
+[^key-3bc153b2d704233d73de5847e8d6e411]: Textual amendment: Words in Sch. 2 inserted (17.11.2021) by [Environment Act 2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30), [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3), [Sch. 1 para. 22](https://www.legislation.gov.uk/ukpga/2021/30/schedule/1/paragraph/22) (with [s. 144](https://www.legislation.gov.uk/ukpga/2021/30/section/144)); [S.I. 2021/1274](https://www.legislation.gov.uk/uksi/2021/1274), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2021/1274/regulation/2/i)
+
+[^key-df5eaf6aea0b05af9833424ec832ba99]: Textual amendment: Sch. 2: entry inserted (10.3.2014) by [Energy Act 2013 (c. 32)](https://www.legislation.gov.uk/ukpga/2013/32), [s. 156(1)](https://www.legislation.gov.uk/ukpga/2013/32/section/156/1), [Sch. 12 para. 54](https://www.legislation.gov.uk/ukpga/2013/32/schedule/12/paragraph/54); [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 3(f)(ii)](https://www.legislation.gov.uk/uksi/2014/251/article/3/f/ii)
+
+[^key-22aa75d02edcec00c82907d9795b34eb]: Textual amendment: Sch. 2: entry inserted (1.1.2018) by [Higher Education and Research Act 2017 (c. 29)](https://www.legislation.gov.uk/ukpga/2017/29), [s. 124(5)](https://www.legislation.gov.uk/ukpga/2017/29/section/124/5), [Sch. 1 para. 17](https://www.legislation.gov.uk/ukpga/2017/29/schedule/1/paragraph/17); [S.I. 2017/788](https://www.legislation.gov.uk/uksi/2017/788), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/788/regulation/2/b)
+
+[^key-f2a9f5ec9a43e9d47c4f1662afffd1f8]: Textual amendment: Sch. 2: entry repealed (1.4.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 16 para. 56](https://www.legislation.gov.uk/ukpga/2011/20/schedule/16/paragraph/56), [Sch. 25 Pt. 26](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/26); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(i)(j)](https://www.legislation.gov.uk/uksi/2012/628/article/6/i/j) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [11](https://www.legislation.gov.uk/uksi/2012/628/article/11), [14](https://www.legislation.gov.uk/uksi/2012/628/article/14), [15](https://www.legislation.gov.uk/uksi/2012/628/article/15), [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
+
+[^key-f335222f5481e70d90bcaf81d3eaa824]: Textual amendment: Sch. 2: entry substituted (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 4(b)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/4/b)
+
+[^key-b8122195572a94beed54be66619de993]: Textual amendment: Sch. 2: entry omitted (2.12.2014) by virtue of [The Olympic Delivery Authority (Dissolution) Order 2014 (S.I. 2014/3184)](https://www.legislation.gov.uk/uksi/2014/3184), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3184/article/1/2), [Sch. para. 9](https://www.legislation.gov.uk/uksi/2014/3184/schedule/paragraph/9)
+
+[^key-951fde2abf2b26940146437d9e74b668]: Textual amendment: Sch. 2: entry omitted (6.4.2015) by virtue of [The Parliamentary Commissioner Order 2015 (S.I. 2015/214)](https://www.legislation.gov.uk/uksi/2015/214), [arts. 1](https://www.legislation.gov.uk/uksi/2015/214/article/1), [2(4)](https://www.legislation.gov.uk/uksi/2015/214/article/2/4)
+
+[^key-0c97f7b4936330cd11296598cde29b31]: Textual amendment: Sch. 2: entry omitted (1.10.2013) by virtue of [The Public Bodies (Abolition of the Registrar of Public Lending Right) Order 2013 (S.I. 2013/2352)](https://www.legislation.gov.uk/uksi/2013/2352), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2352/article/1/2), [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2013/2352/schedule/1/paragraph/1) (with [art. 8](https://www.legislation.gov.uk/uksi/2013/2352/article/8))
+
+[^key-5b882ebd31fc435af9c3096f3f9b2324]: Textual amendment: Sch. 2: entry inserted (2.5.2016) by [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [s. 164(1)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/1), [Sch. 1 para. 23](https://www.legislation.gov.uk/ukpga/2015/26/schedule/1/paragraph/23); [S.I. 2016/532](https://www.legislation.gov.uk/uksi/2016/532), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2016/532/regulation/2/a)
+
+[^key-90b9409b03d3bf28402f25120a25d45a]: Textual amendment: Sch. 2: entry omitted (1.4.2012) by virtue of [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [s. 82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3), [Sch. 8 para. 2](https://www.legislation.gov.uk/ukpga/2011/21/schedule/8/paragraph/2); [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
+
+[^key-530c27c2f67c3491f8498479373ab08d]: Textual amendment: Sch. 2: entry repealed (1.4.2013) by [The Public Bodies (Abolition of the Railway Heritage Committee) Order 2013 (S.I. 2013/64)](https://www.legislation.gov.uk/uksi/2013/64), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/64/article/1/2), [3](https://www.legislation.gov.uk/uksi/2013/64/article/3) (with [art. 8](https://www.legislation.gov.uk/uksi/2013/64/article/8))
+
+[^key-0f2d3ece57a9b396794efadaa8da964e]: Textual amendment: Sch. 2: entry repealed (1.7.2012 at 0.02 a.m.) by [Public Bodies Act 2011 (c. 24)](https://www.legislation.gov.uk/ukpga/2011/24), [s. 38(3)](https://www.legislation.gov.uk/ukpga/2011/24/section/38/3), [Sch. 6](https://www.legislation.gov.uk/ukpga/2011/24/schedule/6) Note 1; [S.I. 2012/1662](https://www.legislation.gov.uk/uksi/2012/1662), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2012/1662/article/2/2/b)
+
+[^key-1ad708b3be782fbaf71a19c0776e5381]: Textual amendment: Sch. 2: entry inserted (23.5.2014) by [Transparency of Lobbying, Non-Party Campaigning and Trade Union Administration Act 2014 (c. 4)](https://www.legislation.gov.uk/ukpga/2014/4), [s. 45(1)(a)](https://www.legislation.gov.uk/ukpga/2014/4/section/45/1/a), [Sch. 2 para. 12](https://www.legislation.gov.uk/ukpga/2014/4/schedule/2/paragraph/12); [S.I. 2014/1236](https://www.legislation.gov.uk/uksi/2014/1236), [art. 2(1)(k)](https://www.legislation.gov.uk/uksi/2014/1236/article/2/1/k)
+
+[^key-bf39a93a9ff05ea28c2e77717bc51184]: Textual amendment: Sch. 2: entry inserted (1.10.2018) by [The Legislative Reform (Regulator of Social Housing) (England) Order 2018 (S.I. 2018/1040)](https://www.legislation.gov.uk/uksi/2018/1040), [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1040/article/1/2), [Sch. para. 39](https://www.legislation.gov.uk/uksi/2018/1040/schedule/paragraph/39) (with [Pt. 4](https://www.legislation.gov.uk/uksi/2018/1040/part/4))
+
+[^key-c8556a005d0ae63a170eb1b30e38133c]: Textual amendment: Sch. 2: entry inserted (1.4.2013) by [The Parliamentary Commissioner Order 2013 (S.I. 2013/238)](https://www.legislation.gov.uk/uksi/2013/238), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2013/238/article/1/1), [2(a)](https://www.legislation.gov.uk/uksi/2013/238/article/2/a)
+
+[^key-f34b8fec671fc05f553a483350a22939]: Textual amendment: Sch. 2: entry omitted (7.10.2013) by virtue of [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 8 para. 18(2)(b)(ii)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/8/paragraph/18/2/b/ii); [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(v)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/v)
+
+[^key-a708ba72abd411f31d7da2d5f673358a]: Textual amendment: Sch. 2: entry omitted (6.4.2019) by virtue of [The Financial Guidance and Claims Act 2018 (Naming and Consequential Amendments) Regulations 2019 (S.I. 2019/383)](https://www.legislation.gov.uk/uksi/2019/383), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/383/regulation/1/1), [Sch. para. 2(a)](https://www.legislation.gov.uk/uksi/2019/383/schedule/paragraph/2/a)
+
+[^key-51195ba398b28d077da025d8863e8f03]: Textual amendment: Sch. 2: entry inserted (14.7.2014) by [Defence Reform Act 2014 (c. 20)](https://www.legislation.gov.uk/ukpga/2014/20), [s. 50(1)](https://www.legislation.gov.uk/ukpga/2014/20/section/50/1), [Sch. 4 para. 18](https://www.legislation.gov.uk/ukpga/2014/20/schedule/4/paragraph/18); [S.I. 2014/1751](https://www.legislation.gov.uk/uksi/2014/1751), [art. 3(g)](https://www.legislation.gov.uk/uksi/2014/1751/article/3/g)
+
+[^key-36e7045b359ce65b961c416608284ef0]: Textual amendment: Sch. 2: entry inserted (6.4.2017) by [Enterprise Act 2016 (c. 12)](https://www.legislation.gov.uk/ukpga/2016/12), [s. 44(5)](https://www.legislation.gov.uk/ukpga/2016/12/section/44/5), [Sch. 1 para. 18](https://www.legislation.gov.uk/ukpga/2016/12/schedule/1/paragraph/18); [S.I. 2017/473](https://www.legislation.gov.uk/uksi/2017/473), [reg. 2](https://www.legislation.gov.uk/uksi/2017/473/regulation/2)
+
+[^key-90db0e8ac3f2c799b737353aeb92e990]: Textual amendment: Sch. 2: entry repealed (1.8.2013) by [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5), [s. 150(3)](https://www.legislation.gov.uk/ukpga/2012/5/section/150/3), [Sch. 14 Pt. 8](https://www.legislation.gov.uk/ukpga/2012/5/schedule/14/part/8); [S.I. 2012/3090](https://www.legislation.gov.uk/uksi/2012/3090), [art. 2(2)(c)](https://www.legislation.gov.uk/uksi/2012/3090/article/2/2/c)
+
+[^key-166eef240d3cef881e709001b28a4f6c]: Textual amendment: Sch. 2: entry inserted (8.5.2012) by [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5), [s. 150(2)(j)](https://www.legislation.gov.uk/ukpga/2012/5/section/150/2/j), [Sch. 13 para. 15(b)](https://www.legislation.gov.uk/ukpga/2012/5/schedule/13/paragraph/15/b)
+
+[^key-9d46a97ba6353f1137612d6a7201a6a9]: Textual amendment: Sch. 2: entry repealed (1.4.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/2011/20/schedule/4/paragraph/1), [Sch. 25 Pt. 5](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/5); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(h)](https://www.legislation.gov.uk/uksi/2012/628/article/6/h) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [11](https://www.legislation.gov.uk/uksi/2012/628/article/11), [14](https://www.legislation.gov.uk/uksi/2012/628/article/14), [15](https://www.legislation.gov.uk/uksi/2012/628/article/15), [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
+
+[^key-1f95e5da2a0493a8d918b972bab64682]: Textual amendment: Sch. 2: entry inserted (5.3.2015) by [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7), [s. 57(1)](https://www.legislation.gov.uk/ukpga/2015/7/section/57/1), [Sch. 1 para. 69](https://www.legislation.gov.uk/ukpga/2015/7/schedule/1/paragraph/69); [S.I. 2015/481](https://www.legislation.gov.uk/uksi/2015/481), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/481/regulation/2/a)
+
+[^key-a89234cf7d30f4f34e9cda180e06f29d]: Textual amendment: Sch. 2: entry omitted (1.4.2012) by virtue of [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [s. 82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3), [Sch. 5 para. 2](https://www.legislation.gov.uk/ukpga/2011/21/schedule/5/paragraph/2); [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
+
+[^key-7f2de4660e4c9795eadcb1b27d0bb74c]: Textual amendment: Words in Sch. 2 inserted (1.6.2021) by [Trade Act 2021 (c. 10)](https://www.legislation.gov.uk/ukpga/2021/10), [Sch. 4 para. 36](https://www.legislation.gov.uk/ukpga/2021/10/schedule/4/paragraph/36); [S.I. 2021/550](https://www.legislation.gov.uk/uksi/2021/550), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2021/550/regulation/3/c)
+
+[^key-7fb58db00dc4c01321456c00f7c279e2]: Textual amendment: Sch. 2: entry inserted (30.3.2018) by [Higher Education and Research Act 2017 (c. 29)](https://www.legislation.gov.uk/ukpga/2017/29), [s. 124(5)](https://www.legislation.gov.uk/ukpga/2017/29/section/124/5), [Sch. 9 para. 19](https://www.legislation.gov.uk/ukpga/2017/29/schedule/9/paragraph/19); [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2018/241/regulation/3/d)
+
+[^key-b19ebd19a0be627f15c557a835c10f5e]: Textual amendment: Sch. 2: entry repealed (5.11.2013) by [The Public Bodies (Abolition of Victims' Advisory Panel) Order 2013 (S.I. 2013/2853)](https://www.legislation.gov.uk/uksi/2013/2853), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/2853/article/1/2), [2(2)(a)](https://www.legislation.gov.uk/uksi/2013/2853/article/2/2/a)
+
+[^key-a4b781a163f8fd6757bc0b29f6b85f2f]: Textual amendment: Sch. 2: entry omitted (1.4.2012) by virtue of [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [s. 82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3), [Sch. 16 para. 2](https://www.legislation.gov.uk/ukpga/2011/21/schedule/16/paragraph/2); [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
+
+[^key-8d28920d78c5261ed1db5e23b1a44cfc]: Textual amendment: Sch. 2: paragraph in Notes relating to Health Protection Agency omitted (1.4.2013) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 7 para. 1(b)](https://www.legislation.gov.uk/ukpga/2012/7/schedule/7/paragraph/1/b); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+
+[^key-4ac47ff50c24fe7b13267c8b304c309e]: Textual amendment: Sch. 2: Note title substituted (7.10.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 8 para. 18(3)(a)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/8/paragraph/18/3/a); [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(v)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/v)
+
+[^key-391ce50bc73ace146fb6bb176d24369c]: Textual amendment: Sch. 2: words in Note substituted (7.10.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 8 para. 18(3)(b)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/8/paragraph/18/3/b); [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(v)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/v)
+
+[^c20281161]: Textual amendment: Sch. 3 para. 2 substituted (20.1.2006) by [The Parliamentary Commissioner (No. 2) Order 2005 (S.I. 2005/3430)](https://www.legislation.gov.uk/uksi/2005/3430), [art. 3](https://www.legislation.gov.uk/uksi/2005/3430/article/3)
+
+[^c9789631]: Modification: Para. 4 extended by [Fugitive Offenders Act 1967 (c. 68, SIF 48)](https://www.legislation.gov.uk/ukpga/1967/68), [s. 21(4)](https://www.legislation.gov.uk/ukpga/1967/68/section/21/4)
+
+[^c20135351]: Textual amendment: Sch. 3 para. 4 substituted (1.1.2004) by [Extradition Act 2003 (c. 41)](https://www.legislation.gov.uk/ukpga/2003/41), [ss. 219](https://www.legislation.gov.uk/ukpga/2003/41/section/219), [221](https://www.legislation.gov.uk/ukpga/2003/41/section/221), [Sch. 3 para. 2](https://www.legislation.gov.uk/ukpga/2003/41/schedule/3/paragraph/2); [S.I. 2003/3103](https://www.legislation.gov.uk/uksi/2003/3103), [art. 2](https://www.legislation.gov.uk/uksi/2003/3103/article/2) (subject to savings in Order)
+
+[^c9789661]: Modification: Sch. 3 para. 5 extended (13.5.1999) by [S.I. 1999/1351](https://www.legislation.gov.uk/uksi/1999/1351), [art. 9(6)(a)](https://www.legislation.gov.uk/uksi/1999/1351/article/9/6/a)
+
+[^c20344671]: Modification: Sch. 3 para. 6 modified (24.4.2009 for certain purposes and 31.10.2009 otherwise) by [The Armed Forces Act 2006 (Transitional Provisions etc) Order 2009 (S.I. 2009/1059)](https://www.legislation.gov.uk/uksi/2009/1059), [art. 205](https://www.legislation.gov.uk/uksi/2009/1059/article/205), [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/2009/1059/schedule/1/paragraph/9)
+
+[^c20335611]: Textual amendment: Words in Sch. 3 para. 6 substituted (28.3.2009 for specified purposes and otherwise 31.10.2009) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [ss. 378](https://www.legislation.gov.uk/ukpga/2006/52/section/378), [383](https://www.legislation.gov.uk/ukpga/2006/52/section/383), [Sch. 16 para. 48(a)](https://www.legislation.gov.uk/ukpga/2006/52/schedule/16/paragraph/48/a); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3](https://www.legislation.gov.uk/uksi/2009/812/article/3); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+
+[^c9789691]: Marginal citation: [1955 c. 19](https://www.legislation.gov.uk/ukpga/1955/19)**(7:1)**.
+
+[^c9789701]: Textual amendment: Sch. 3 para. 6A inserted by [Courts and Legal Services Act 1990 (c. 41, SIF 76:1)](https://www.legislation.gov.uk/ukpga/1990/41), [s. 110(2)](https://www.legislation.gov.uk/ukpga/1990/41/section/110/2)
+
+[^c9789711]: Textual amendment: Sch. 3 para. 6B inserted (5.9.1994) by [1994 c. 14](https://www.legislation.gov.uk/ukpga/1994/14), [ss. 1(2)](https://www.legislation.gov.uk/ukpga/1994/14/section/1/2), [3(2)](https://www.legislation.gov.uk/ukpga/1994/14/section/3/2)
+
+[^c9789721]: Modification: Sch. 3 para. 6B(2) extended (13.5.1999) by [S.I. 1999/1351](https://www.legislation.gov.uk/uksi/1999/1351), [art. 9(6)(b)](https://www.legislation.gov.uk/uksi/1999/1351/article/9/6/b)
+
+[^c20325191]: Textual amendment: Sch. 3 para. 6C omitted (3.11.2008) by virtue of [The Transfer of Tribunal Functions Order 2008 (S.I. 2008/2833)](https://www.legislation.gov.uk/uksi/2008/2833), [art. 6](https://www.legislation.gov.uk/uksi/2008/2833/article/6), [Sch. 3 para. 25](https://www.legislation.gov.uk/uksi/2008/2833/schedule/3/paragraph/25)
+
+[^c9789741]: Modification: Sch. 3 para. 7 extended (13.5.1999) by [S.I. 1999/1351](https://www.legislation.gov.uk/uksi/1999/1351), [art. 9(6)(a)](https://www.legislation.gov.uk/uksi/1999/1351/article/9/6/a)
+
+[^c9789751]: Modification: Sch. 3 para. 7 continued (28.2.1999) by [S.I. 1999/652](https://www.legislation.gov.uk/uksi/1999/652), [art. 3(2)](https://www.legislation.gov.uk/uksi/1999/652/article/3/2)
+
+[^c9789761]: Textual amendment: Sch. 3 para. 7: words repealed (31.3.1997) by [1995 c. 35](https://www.legislation.gov.uk/ukpga/1995/35), [s. 29(2)](https://www.legislation.gov.uk/ukpga/1995/35/section/29/2), [Sch. 3](https://www.legislation.gov.uk/ukpga/1995/35/schedule/3); [S.I. 1997/402](https://www.legislation.gov.uk/uksi/1997/402), [arts. 3(f)](https://www.legislation.gov.uk/uksi/1997/402/article/3/f), [4](https://www.legislation.gov.uk/uksi/1997/402/article/4).
+
+[^c20335831]: Textual amendment: Words in Sch. 3 para. 7 substituted (28.3.2009 for specified purposes and otherwise 31.10.2009) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [ss. 378](https://www.legislation.gov.uk/ukpga/2006/52/section/378), [383](https://www.legislation.gov.uk/ukpga/2006/52/section/383), [Sch. 16 para. 48(b)](https://www.legislation.gov.uk/ukpga/2006/52/schedule/16/paragraph/48/b); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3](https://www.legislation.gov.uk/uksi/2009/812/article/3); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+
+[^c9790081]: Modification: Sch. 3 para. 8 extended (13.5.1999) by [S.I. 1999/1351](https://www.legislation.gov.uk/uksi/1999/1351), [art. 9(6)(a)](https://www.legislation.gov.uk/uksi/1999/1351/article/9/6/a)
+
+[^c9790091]: Textual amendment: Sch. 3 para. 8 renumbered (8.2.2000) as Sch. 3 para. 8(1) by [S.I. 2000/90](https://www.legislation.gov.uk/uksi/2000/90), [art. 3(1)](https://www.legislation.gov.uk/uksi/2000/90/article/3/1), [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2000/90/schedule/1/paragraph/5) (with [art. 2(5)](https://www.legislation.gov.uk/uksi/2000/90/article/2/5))
+
+[^c20325541]: Textual amendment: Words in Sch. 3 para. 8(1) omitted (13.2.2009) by virtue of [The Parliamentary Commissioner Order 2008 (S.I. 2008/3115)](https://www.legislation.gov.uk/uksi/2008/3115), [art. 3(1)](https://www.legislation.gov.uk/uksi/2008/3115/article/3/1)
+
+[^key-1b0604cd2f6de125579ec931aca55f6b]: Textual amendment: Words in Sch. 3 para. 8(1) inserted (1.10.2012 for specified purposes, 1.4.2013 in so far as not already in force) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 5 para. 8(a)(i)](https://www.legislation.gov.uk/ukpga/2012/7/schedule/5/paragraph/8/a/i); [S.I. 2012/1831](https://www.legislation.gov.uk/uksi/2012/1831), [art. 2(2)](https://www.legislation.gov.uk/uksi/2012/1831/article/2/2); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-10](https://www.legislation.gov.uk/uksi/2013/160/article/7), [Sch. para. 12](https://www.legislation.gov.uk/uksi/2013/160/schedule/paragraph/12))
+
+[^key-ef54011daa65b2919d2aafe176a0baf8]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/ukpga/1967/13/schedule/3) substituted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 1 para. 1(1)](https://www.legislation.gov.uk/ukpga/2022/31/schedule/1/paragraph/1/1)[(2)](https://www.legislation.gov.uk/ukpga/2022/31/schedule/1/paragraph/1/2); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+
+[^key-b0847dc6f7416fe5a155b11cd8f82474]: Textual amendment: Words in Sch. 3 para. 8(1) substituted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/2022/31/schedule/1/paragraph/1), [Sch. 4 para. 5](https://www.legislation.gov.uk/ukpga/2022/31/schedule/4/paragraph/5); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+
+[^key-0df3e4515bc35374fb080a1cde05aa5c]: Textual amendment: Words in [Sch. 3 para. 8(1)](https://www.legislation.gov.uk/ukpga/1967/13/schedule/3/paragraph/8/1) omitted (1.4.2013) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 5 para. 8(a)(ii)](https://www.legislation.gov.uk/ukpga/2012/7/schedule/5/paragraph/8/a/ii); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-10](https://www.legislation.gov.uk/uksi/2013/160/article/7), [Sch. para. 12](https://www.legislation.gov.uk/uksi/2013/160/schedule/paragraph/12))
+
+[^c9790111]: Textual amendment: Words in Sch. 3 para. 8 substituted (8.2.2000) by [S.I. 2000/90](https://www.legislation.gov.uk/uksi/2000/90), [art. 3(1)](https://www.legislation.gov.uk/uksi/2000/90/article/3/1), [Sch. 1 para. 5(a)](https://www.legislation.gov.uk/uksi/2000/90/schedule/1/paragraph/5/a) (with [art. 2(5)](https://www.legislation.gov.uk/uksi/2000/90/article/2/5))
+
+[^key-578d88ccfe41dc43e08fd12520b5e391]: Textual amendment: Words in [Sch. 3 para. 8(1)](https://www.legislation.gov.uk/ukpga/1967/13/schedule/3/paragraph/8/1) omitted (1.4.2013) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 5 para. 8(a)(iii)](https://www.legislation.gov.uk/ukpga/2012/7/schedule/5/paragraph/8/a/iii); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-10](https://www.legislation.gov.uk/uksi/2013/160/article/7), [Sch. para. 12](https://www.legislation.gov.uk/uksi/2013/160/schedule/paragraph/12))
+
+[^c20325581]: Textual amendment: Word in Sch. 3 para. 8(1) inserted (13.2.2009) by [The Parliamentary Commissioner Order 2008 (S.I. 2008/3115)](https://www.legislation.gov.uk/uksi/2008/3115), [art. 3(2)](https://www.legislation.gov.uk/uksi/2008/3115/article/3/2)
+
+[^c9790181]: Textual amendment: Sch. 3 para. 8(2) inserted (8.2.2000) by [S.I. 2000/90](https://www.legislation.gov.uk/uksi/2000/90), [art. 3(1)](https://www.legislation.gov.uk/uksi/2000/90/article/3/1), [Sch. 1 para. 5(b)](https://www.legislation.gov.uk/uksi/2000/90/schedule/1/paragraph/5/b) (with [art. 2(5)](https://www.legislation.gov.uk/uksi/2000/90/article/2/5))
+
+[^key-598e565f9545cf6bc0831687168e0884]: Textual amendment: Words in Sch. 3 para. 8(2) inserted (1.10.2012 for specified purposes, 1.4.2013 in so far as not already in force) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 5 para. 8(b)(i)](https://www.legislation.gov.uk/ukpga/2012/7/schedule/5/paragraph/8/b/i); [S.I. 2012/1831](https://www.legislation.gov.uk/uksi/2012/1831), [art. 2(2)](https://www.legislation.gov.uk/uksi/2012/1831/article/2/2); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-10](https://www.legislation.gov.uk/uksi/2013/160/article/7), [Sch. para. 12](https://www.legislation.gov.uk/uksi/2013/160/schedule/paragraph/12))
+
+[^key-9825c4253faa20b96d14188bd9f4ba36]: Textual amendment: Words in Sch. 3 para. 8(2) substituted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/2022/31/schedule/1/paragraph/1), [Sch. 4 para. 5](https://www.legislation.gov.uk/ukpga/2022/31/schedule/4/paragraph/5); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+
+[^key-a645767459a798a789bb094740cc09dc]: Textual amendment: Words in [Sch. 3 para. 8(2)](https://www.legislation.gov.uk/ukpga/1967/13/schedule/3/paragraph/8/2) omitted (1.4.2013) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 5 para. 8(b)(ii)](https://www.legislation.gov.uk/ukpga/2012/7/schedule/5/paragraph/8/b/ii); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-10](https://www.legislation.gov.uk/uksi/2013/160/article/7), [Sch. para. 12](https://www.legislation.gov.uk/uksi/2013/160/schedule/paragraph/12))
+
+[^M_F_04b0826b-36ea-49fa-cb34-35f96d106c8c]: Textual amendment: Words in Sch. 3 para. 8(2) omitted (13.2.2009) by virtue of [The Parliamentary Commissioner Order 2008 (S.I. 2008/3115)](https://www.legislation.gov.uk/uksi/2008/3115), [art. 4](https://www.legislation.gov.uk/uksi/2008/3115/article/4)
+
+[^key-f5e3940f37ef5ef1730f91f962586d56]: Textual amendment: Words in [Sch. 3 para. 8(2)](https://www.legislation.gov.uk/ukpga/1967/13/schedule/3/paragraph/8/2) omitted (1.4.2013) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 5 para. 8(b)(iii)](https://www.legislation.gov.uk/ukpga/2012/7/schedule/5/paragraph/8/b/iii); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-10](https://www.legislation.gov.uk/uksi/2013/160/article/7), [Sch. para. 12](https://www.legislation.gov.uk/uksi/2013/160/schedule/paragraph/12))
+
+[^c9790201]: Modification: Sch. 3 para. 9 extended (13.5.1999) by [S.I. 1999/1351](https://www.legislation.gov.uk/uksi/1999/1351), [art. 9(6)(c)](https://www.legislation.gov.uk/uksi/1999/1351/article/9/6/c)
+
+[^c9790261]: Modification: Sch. 3 para. 10 extended (13.5.1999) by [S.I. 1999/1351](https://www.legislation.gov.uk/uksi/1999/1351), [art. 9(6)(c)](https://www.legislation.gov.uk/uksi/1999/1351/article/9/6/c)
+
+[^c9790271]: Textual amendment: Sch. 3 para. 10 renumbered as Sch. 3 para. 10(1) by [S.I. 1983/1707](https://www.legislation.gov.uk/uksi/1983/1707), [art. 2(a)](https://www.legislation.gov.uk/uksi/1983/1707/article/2/a)
+
+[^c9790281]: Textual amendment: Words substituted by Parliamentary and Health Service Commissioners Act 1987 (c. 39 SIF 89), s. 1(3)(c)
+
+[^key-5af44ddec111fc1b5c627c8ecc785b71]: Textual amendment: Sch. 3 para. 10(1A) inserted (1.4.2013) by [The Parliamentary Commissioner Order 2013 (S.I. 2013/238)](https://www.legislation.gov.uk/uksi/2013/238), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2013/238/article/1/1), [3](https://www.legislation.gov.uk/uksi/2013/238/article/3)
+
+[^c9790291]: Textual amendment: Sch. 3 para. 10(2) inserted by [S.I. 1983/1707](https://www.legislation.gov.uk/uksi/1983/1707), [art. 21(b)](https://www.legislation.gov.uk/uksi/1983/1707/article/21/b)
+
+[^c9790301]: Marginal citation: [1980 c. 63](https://www.legislation.gov.uk/ukpga/1980/63)**(88)**.
+
+[^c9790311]: Textual amendment: Words in Sch. 3 para. 10(2)(a) inserted (17.6.2002) by [2002 c. 1](https://www.legislation.gov.uk/ukpga/2002/1), [s. 19](https://www.legislation.gov.uk/ukpga/2002/1/section/19), [Sch. 3 para. 2](https://www.legislation.gov.uk/ukpga/2002/1/schedule/3/paragraph/2); [S.I. 2002/1408](https://www.legislation.gov.uk/uksi/2002/1408), [art. 2](https://www.legislation.gov.uk/uksi/2002/1408/article/2)
+
+[^key-ada9575a2d5f2cf2a5d5013cb89aeac3]: Textual amendment: [Sch. 3 para. 10(3)](https://www.legislation.gov.uk/ukpga/1967/13/schedule/3/paragraph/10/3) inserted (10.1.2018) by [The Transfer of Functions (International Development) Order 2017 (S.I. 2017/1283)](https://www.legislation.gov.uk/uksi/2017/1283), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/1283/article/1/2), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2017/1283/schedule/paragraph/1) (with [art. 3](https://www.legislation.gov.uk/uksi/2017/1283/article/3))
+
+[^c20281181]: Textual amendment: Sch. 3 para. 12 inserted (3.4.2006) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [ss. 145](https://www.legislation.gov.uk/ukpga/2005/4/section/145), [148](https://www.legislation.gov.uk/ukpga/2005/4/section/148), [Sch. 17 para. 6(4)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/17/paragraph/6/4); [S.I. 2006/1014](https://www.legislation.gov.uk/uksi/2006/1014), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1014/article/2/a), [Sch. 1 para. 28](https://www.legislation.gov.uk/uksi/2006/1014/schedule/1/paragraph/28)
+
+[^M_X_82ec82a7-4044-4126-cb55-962fd0ec1d55]: Editorial: This version of Sch 4 contains only those entries in force on 3.11.2008 as they stood at that date and reflects insertions, substitutions and repeals made since that date. For information about entries repealed on or before that date and other amendment history, please refer to earlier versions.
+
+[^c20324771]: Textual amendment: Sch. 4 substituted (30.1.2008) by [The Parliamentary Commissioner Order 2007 (S.I. 2007/3470)](https://www.legislation.gov.uk/uksi/2007/3470), [art. 3](https://www.legislation.gov.uk/uksi/2007/3470/article/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2007/3470/schedule/2)
+
+[^key-037e85dd9ab823934ec9ed47a61817a4]: Textual amendment: Sch. 4: entry omitted (12.4.2010) by virtue of [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 19 para. 3(3)](https://www.legislation.gov.uk/uksi/2010/976/schedule/19/paragraph/3/3) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
+
+[^c20325981]: Textual amendment: Sch. 4: entries omitted (3.11.2008) by virtue of [The Transfer of Tribunal Functions Order 2008 (S.I. 2008/2833)](https://www.legislation.gov.uk/uksi/2008/2833), [art. 6](https://www.legislation.gov.uk/uksi/2008/2833/article/6), [Sch. 3 para. 26(2)](https://www.legislation.gov.uk/uksi/2008/2833/schedule/3/paragraph/26/2)
+
+[^key-d4b246fbc9ad82ea6e09e74742123b6b]: Textual amendment: Sch. 4: entry repealed (1.12.2010) by [Commons Act 2006 (c. 26)](https://www.legislation.gov.uk/ukpga/2006/26), [s. 56](https://www.legislation.gov.uk/ukpga/2006/26/section/56), [Sch. 6 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/26/schedule/6/part/1) (with [s. 60](https://www.legislation.gov.uk/ukpga/2006/26/section/60)); [S.I. 2010/2356](https://www.legislation.gov.uk/uksi/2010/2356), [art. 3(3)](https://www.legislation.gov.uk/uksi/2010/2356/article/3/3)
+
+[^key-698f7b89612ca8b512a2981b4ea99620]: Textual amendment: Sch. 4: entries omitted (12.3.2010) by virtue of [The Parliamentary Commissioner Order 2010 (S.I. 2010/239)](https://www.legislation.gov.uk/uksi/2010/239), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2010/239/article/1/1), [3](https://www.legislation.gov.uk/uksi/2010/239/article/3)
+
+[^key-d88c6894ee7ed2356a04e322a1ee0441]: Textual amendment: Sch. 4: entry omitted (18.1.2010) by virtue of [The Transfer of Tribunal Functions Order 2010 (S.I. 2010/22)](https://www.legislation.gov.uk/uksi/2010/22), [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/22/article/1/1), [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2010/22/schedule/2/paragraph/2) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2010/22/schedule/5))
+
+[^key-38a89dbdc6ca2a60c9f7e2992e352816]: Textual amendment: Sch. 4: entry omitted (1.10.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7), [Sch. 6 para. 22(2)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/6/paragraph/22/2); [S.I. 2015/1732](https://www.legislation.gov.uk/uksi/2015/1732), [art. 2(e)(vi)](https://www.legislation.gov.uk/uksi/2015/1732/article/2/e/vi) (with [art. 7](https://www.legislation.gov.uk/uksi/2015/1732/article/7))
+
+[^c20326101]: Textual amendment: Sch. 4: entry omitted (13.2.2009) by virtue of [The Parliamentary Commissioner Order 2008 (S.I. 2008/3115)](https://www.legislation.gov.uk/uksi/2008/3115), [art. 5](https://www.legislation.gov.uk/uksi/2008/3115/article/5)
+
+[^key-d2ea43ba6bc48a479d7736c6b34892ee]: Textual amendment: Sch. 4: entry omitted (30.4.2011) by virtue of [The Parliamentary Commissioner Order 2011 (S.I. 2011/751)](https://www.legislation.gov.uk/uksi/2011/751), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2011/751/article/1/1), [3(a)](https://www.legislation.gov.uk/uksi/2011/751/article/3/a)
+
+[^c20344901]: Textual amendment: Sch. 4: entry omitted (1.9.2009) by virtue of [The Transfer of Functions (Estate Agents Appeals and Additional Scheduled Tribunal) Order 2009 (S.I. 2009/1836)](https://www.legislation.gov.uk/uksi/2009/1836), [art. 5(1)](https://www.legislation.gov.uk/uksi/2009/1836/article/5/1), [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2009/1836/schedule/1/paragraph/1)
+
+[^key-fa440740a39942dcbd7307bbc70de1d0]: Textual amendment: Sch. 4: entry substituted (30.4.2011) by [The Parliamentary Commissioner Order 2011 (S.I. 2011/751)](https://www.legislation.gov.uk/uksi/2011/751), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2011/751/article/1/1), [3(b)](https://www.legislation.gov.uk/uksi/2011/751/article/3)

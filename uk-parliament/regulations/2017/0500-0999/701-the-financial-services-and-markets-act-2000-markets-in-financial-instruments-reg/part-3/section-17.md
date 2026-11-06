@@ -1,0 +1,27 @@
+---
+title: The Financial Services and Markets Act 2000 (Markets in Financial Instruments) Regulations 2017, section 17
+act: The Financial Services and Markets Act 2000 (Markets in Financial Instruments) Regulations 2017
+section: '17'
+status: revised-with-pending-changes
+text_date: '2026-07-06'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2017/701/section/17
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Financial Services and Markets Act 2000 (Markets in Financial Instruments) Regulations 2017, section 17
+
+> **Warning: changes not yet applied to this text (1).** Text as at 2026-07-06. See https://www.legislation.gov.uk/changes/affected/uksi/2017/701
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 17. Exemption for non-financial entities[^key-fbea615209ae222e1d681b09a26463e3]
+
+*Extent: E+W+S+N.I.*
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Annotations
+
+[^key-fbea615209ae222e1d681b09a26463e3]: Textual amendment: [Reg. 17](https://www.legislation.gov.uk/uksi/2017/701/regulation/17) revoked (6.7.2026) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 2 para. 50(b)(i)](https://www.legislation.gov.uk/ukpga/2023/29/schedule/2/paragraph/50/b/i) (with [s. 2(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/2/3)); [S.I. 2024/1071](https://www.legislation.gov.uk/uksi/2024/1071), [reg. 9(b)(v)](https://www.legislation.gov.uk/uksi/2024/1071/regulation/9/b/v)

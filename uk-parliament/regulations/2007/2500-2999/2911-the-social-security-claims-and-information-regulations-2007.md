@@ -1,0 +1,602 @@
+---
+title: The Social Security (Claims and Information) Regulations 2007
+id: uksi/2007/2911
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2007-10-08'
+text_date: '2017-04-06'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/uksi/2007/2911
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2007/2911/pdfs/uksiem_20072911_en.pdf
+- http://www.legislation.gov.uk/uksi/2007/2911/pdfs/uksi_20072911_301114_en.pdf
+- http://www.legislation.gov.uk/uksi/2007/2911/pdfs/uksi_20072911_en.pdf
+- http://www.legislation.gov.uk/uksi/2007/2911/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Social Security (Claims and Information) Regulations 2007
+
+> Text as at 2017-04-06.
+>
+> Extent: England, Wales, Scotland.
+
+*Extent: E+W+S*
+
+2007 No. 2911
+
+Social security
+
+The Social Security (Claims and Information) Regulations 2007
+
+Made
+
+8th October 2007
+
+Laid before Parliament
+
+10th October 2007
+
+Coming into force
+
+31st October 2007
+
+The Secretary of State for Work and Pensions makes the following Regulations in exercise of the powers conferred by sections 5(1)(a), 7A(1), (2) and (6)(d), 7B(2) and (5), 189(1) and (4) to (6) and 191 of the Social Security Administration Act 1992 [^c1892485].
+
+In accordance with section 176(1)(a) of that Act, as regards provisions in the Regulations relating to housing benefit and council tax benefit, he has consulted organisations appearing to him to be representative of the authorities concerned.
+
+The Social Security Advisory Committee has agreed that proposals in respect of these Regulations should not be referred to it [^c1892486].
+
+## 1. Citation, commencement and interpretation
+
+(1) These Regulations may be cited as the Social Security (Claims and Information) Regulations 2007 and shall come into force on 31st October 2007.
+
+(2) In regulations 4 and 5 “**the Administration Act**” means the Social Security Administration Act 1992.
+
+(3) In regulations 2 to 4—
+
+- “**specified benefit**” means one or more of the following benefits—
+  - (a) attendance allowance;
+  - (b) bereavement support payment under section 30 of the Pensions Act 2014;[^key-308e9d8cc9778835b2e79580b32a3aad]
+
+    bereavement allowance; *(affected by repeal, see note)*[^key-308e9d8cc9778835b2e79580b32a3aad]
+  - (c) bereavement payment; *(affected by repeal, see note)*[^key-308e9d8cc9778835b2e79580b32a3aad]
+  - (d) carer's allowance;
+  - (e) disability living allowance;
+  - (ee) employment and support allowance;[^key-67d74bfd0bb6f19df281c80fde51564c]
+  - (f) incapacity benefit;
+  - (g) income support;
+  - (h) jobseeker's allowance;
+  - (i) retirement pension;
+  - (j) state pension credit;
+  - (k) widowed parent's allowance;
+  - (l) winter fuel payment;
+- “**the Secretary of State**” includes persons providing services to the Secretary of State;
+- “local authority” [^c1892487] includes persons providing services to a local authority and persons authorised to exercise any function of a local authority relating to housing benefit or council tax benefit.
+
+## 2. Use of social security information: local authorities
+
+(1) This regulation applies where social security information [^c1892488] held by a local authority was supplied by the Secretary of State to the local authority and this information—
+
+- (a) was used by the Secretary of State in connection with a person's claim for, or award of, a specified benefit; and
+- (b) is relevant to that person's claim for, or award of, council tax benefit or housing benefit.
+
+(2) The local authority must, for the purposes of the person's claim for, or award of, council tax benefit or housing benefit, use that information without verifying its accuracy.
+
+(3) Paragraph (2) does not apply where—
+
+- (a) the information is supplied more than twelve months after it was used by the Secretary of State in connection with a claim for, or an award of, a specified benefit; or
+- (b) the information is supplied within twelve months of its use by the Secretary of State but the local authority has reasonable grounds for believing the information has changed in the period between its use by the Secretary of State and its supply to the local authority; or
+- (c) the date on which the information was used by the Secretary of State cannot be determined.
+
+## 3. Use of social security information: Secretary of State
+
+(1) This regulation applies where social security information held by the Secretary of State was supplied by a local authority to the Secretary of State and this information—
+
+- (a) was used by the local authority in connection with a person's claim for, or award of, council tax benefit or housing benefit; and
+- (b) is relevant to that person's claim for, or award of, a specified benefit.
+
+(2) The Secretary of State must, for the purposes of the person's claim for, or award of, a specified benefit, use that information without verifying its accuracy.
+
+(3) Paragraph (2) does not apply where—
+
+- (a) the information is supplied more than twelve months after it was used by a local authority in connection with a claim for, or an award of, council tax benefit or housing benefit; or
+- (b) the information is supplied within twelve months of its use by the local authority but the Secretary of State has reasonable grounds for believing the information has changed in the period between its use by the local authority and its supply to the Secretary of State; or
+- (c) the date on which the information was used by the local authority cannot be determined.
+
+## 4. Social security information verified by local authorities
+
+(1) This regulation applies where social security information is verified by a local authority by virtue of regulations made under section 7A(2)(e) of the Administration Act and forwarded by that local authority to the Secretary of State.
+
+(2) The Secretary of State must, for the purposes of a person's claim for, or award of, a specified benefit, use this information without verifying its accuracy.
+
+(3) Paragraph (2) does not apply where—
+
+- (a) the Secretary of State has reasonable grounds for believing the social security information received from the local authority is inaccurate; or
+- (b) the Secretary of State receives the information more than four weeks after it was verified by the local authority.
+
+## 5. Specified benefits for the purpose of section 7B(3) of the Administration Act
+
+The benefits specified for the purpose of section 7B(3) of the Administration Act are—
+
+- (a) a “specified benefit” within the meaning given in regulation 1(3);
+- (b) housing benefit; and
+- (c) council tax benefit.
+
+## 6. Amendment of the Social Security (Claims and Payments) Regulations 1987
+
+(1) The Social Security (Claims and Payments) Regulations 1987 [^c1892489] are amended as follows.
+
+(2) In regulation 4 (making a claim for benefit)—
+
+- (a) in paragraph (6A) [^c1892490]—
+  - (i) for “Paragraphs (6B) and (6C) apply in relation to a person” substitute “This paragraph applies to a person”;
+  - (ii) for sub-paragraphs (c) and (d) substitute—
+
+    > - (c) who makes a claim for income support; or
+    > - (d) who has not attained the qualifying age and who makes a claim for a carer's allowance, disability living allowance or incapacity benefit.
+
+    ; and
+- (b) in paragraph (6B) [^c1892491], for sub-paragraph (b) substitute—
+
+  > - (b) the offices of—
+  >   - (i) a local authority administering housing benefit or council tax benefit,
+  >   - (ii) a county council in England,
+  >   - (iii) a person providing services to a person mentioned in head (i) or (ii),
+  >   - (iv) a person authorised to exercise any function of a local authority relating to housing benefit or council tax benefit, or
+  >   - (v) a person authorised to exercise any function a county council in England has under section 7A of the Social Security Administration Act 1992,
+  >
+  >   if the Secretary of State has arranged with the local authority, county council or other person for them to receive claims in accordance with this sub-paragraph,
+
+  ; and
+- (c) in paragraph (6C) [^c1892492], after sub-paragraph (c) insert—
+
+  > - (cc) may verify any non-medical information or evidence supplied or obtained in accordance with sub-paragraph (b) or (c) and shall forward it to the Secretary of State as soon as reasonably practicable;
+
+  .
+
+(3) In regulation 4D [^c1892493] (making a claim for state pension credit)—
+
+- (a) for paragraph (4) [^c1892494] substitute—
+
+  > (4) A claim made in writing may also be made at the offices of—
+  >
+  > - (a) a local authority administering housing benefit or council tax benefit;
+  > - (b) a county council in England;
+  > - (c) a person providing services to a person mentioned in sub-paragraph (a) or (b);
+  > - (d) a person authorised to exercise any functions of a local authority relating to housing benefit or council tax benefit; or
+  > - (e) a person authorised to exercise any function a county council in England has under section 7A of the Social Security Administration Act 1992,
+  >
+  > if the Secretary of State has arranged with the local authority, county council or other person for them to receive claims in accordance with this paragraph.
+
+  ; and
+- (b) in paragraph (5) [^c1892495], after sub-paragraph (c) insert—
+
+  > - (cc) may verify any non-medical information or evidence supplied or obtained in accordance with sub-paragraph (b) or (c) and shall forward it to the Secretary of State as soon as reasonably practicable;
+
+  .
+
+(4) In regulation 6(1E) [^c1892496] (claims for incapacity benefit), omit “who has attained the qualifying age”.
+
+(5) After regulation 32A (information given electronically) insert—
+
+> **32B. Information relating to awards of benefit**
+>
+> (1) Where an authority or person to whom paragraph (2) applies has arranged with the Secretary of State for the authority or person to receive claims for a specified benefit or obtain information or evidence relating to claims for a specified benefit in accordance with regulation 4 or 4D, the authority or person may—
+>
+> - (a) receive information or evidence which relates to an award of that benefit and which is supplied by—
+>   - (i) the person to whom the award has been made; or
+>   - (ii) other persons in connection with the award,
+>
+>   and shall forward it to the Secretary of State as soon as reasonably practicable;
+> - (b) verify any information or evidence supplied; and
+> - (c) record the information or evidence supplied and hold it (whether as supplied or recorded) for the purpose of forwarding it to the Secretary of State.
+>
+> (2) This paragraph applies to—
+>
+> - (a) a local authority administering housing benefit or council tax benefit;
+> - (b) a county council in England;
+> - (c) a person providing services to a person mentioned in sub-paragraph (a) or (b);
+> - (d) a person authorised to exercise any function of a local authority relating to housing benefit or council tax benefit;
+> - (e) a person authorised to exercise any function a county council in England has under section 7A of the Social Security Administration Act 1992.
+>
+> (3) In paragraph (1), “**specified benefit**” means one or more of the following benefits—
+>
+> - (a) attendance allowance;
+> - (b) bereavement allowance;
+> - (c) bereavement payment;
+> - (d) carer's allowance;
+> - (e) disability living allowance;
+> - (f) incapacity benefit;
+> - (g) income support;
+> - (h) jobseeker's allowance;
+> - (i) retirement pension;
+> - (j) state pension credit;
+> - (k) widowed parent's allowance;
+> - (l) winter fuel payment.
+
+.
+
+## 7. Amendment of the Housing Benefit Regulations 2006
+
+(1) The Housing Benefit Regulations 2006 [^c1892497] are amended as follows.
+
+(2) In regulation 83 (time and manner in which claims are to be made)—
+
+- (a) after paragraph (4)(f) [^c1892498] add—
+
+  > - (g) may be sent or delivered to the offices of a county council in England if the council has arranged with the relevant authority for claims to be received at their offices (“county offices”).
+
+  ; and
+- (b) in paragraph (5)(d) and (e), after “authorised office” in each place insert “, county offices”.
+
+(3) In regulation 108 (interpretation)—
+
+- (a) before the definition of “local authority” insert—
+
+  > “**county council**” means a county council in England, but only if the council has made an arrangement in accordance with regulation 83(4)(g) or 109(3);
+
+  ; and
+- (b) in the definition of “relevant authority” after sub-paragraph (b) add—
+
+  > or
+  >
+  > - (c) a county council;
+
+  .
+
+(4) For regulation 109 (collection of information) substitute—
+
+> **109. Collection of information**
+>
+> (1) The Secretary of State, or a person providing services to him, may receive or obtain relevant information from—
+>
+> - (a) persons making, or who have made, claims for housing benefit; or
+> - (b) other persons in connection with such claims.
+>
+> (2) In paragraph (1) references to persons who have made claims for housing benefit include persons to whom awards of benefit have been made on those claims.
+>
+> (3) Where a county council has made an arrangement with a local authority, or a person authorised to exercise any function of a local authority relating to housing benefit or council tax benefit, to receive and obtain information or evidence relating to claims for housing benefit, the council may receive or obtain the information or evidence from—
+>
+> - (a) persons making claims for housing benefit; or
+> - (b) other persons in connection with such claims.
+>
+> (4) A county council may receive information or evidence relating to an award of housing benefit which is supplied by—
+>
+> - (a) the person to whom the award has been made; or
+> - (b) other persons in connection with the award.
+
+.
+
+(5) After regulation 109 insert—
+
+> **109A. Verifying information**
+>
+> A relevant authority may verify relevant information supplied to, or obtained by, the authority in accordance with regulation 109.
+
+.
+
+(6) For regulation 110 (recording and holding information) substitute—
+
+> **110. Recording and holding information**
+>
+> A relevant authority which obtains relevant information or to whom such information is supplied—
+>
+> - (a) shall make a record of such information; and
+> - (b) may hold that information, whether as supplied or obtained or recorded, for the purpose of forwarding it to the person or authority for the time being administering housing benefit.
+
+.
+
+(7) In regulation 111 (forwarding of information) for sub-paragraph (b) substitute—
+
+> - (b) may, if the relevant authority is the Secretary of State or a person providing services to the Secretary of State, continue to hold a record of such information, whether as supplied or obtained or recorded, for such period as he considers appropriate.
+
+.
+
+## 8. Amendment of the Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations 2006
+
+(1) The Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations 2006 [^c1892499] are amended as follows.
+
+(2) In regulation 64 (time and manner in which claims are to be made)—
+
+- (a) after paragraph (5)(f) [^c1892500] add—
+
+  > - (g) may be sent or delivered to the offices of a county council in England if the council has arranged with the relevant authority for claims to be received at their offices (“county offices”).
+
+  ; and
+- (b) in paragraph (6)(d) and (e), after “authorised office” in each place insert “, county offices”.
+
+(3) In regulation 89 (interpretation)—
+
+- (a) before the definition of “local authority” insert—
+
+  > “**county council**” means a county council in England, but only if the council has made an arrangement in accordance with regulation 64(5)(g) or 90(3);
+
+  ; and
+- (b) in the definition of “relevant authority”, after sub-paragraph (b) add—
+
+  > or
+  >
+  > - (c) a county council;
+
+  .
+
+(4) For regulation 90 (collection of information) substitute—
+
+> **90. Collection of information**
+>
+> (1) The Secretary of State, or a person providing services to him, may receive or obtain relevant information from—
+>
+> - (a) persons making, or who have made, claims for housing benefit; or
+> - (b) other persons in connection with such claims.
+>
+> (2) In paragraph (1) references to persons who have made claims for housing benefit include persons to whom awards of benefit have been made on those claims.
+>
+> (3) Where a county council has made an arrangement with a local authority, or a person authorised to exercise any function of a local authority relating to housing benefit or council tax benefit, to receive and obtain information and evidence relating to claims for housing benefit, the council may receive or obtain the information or evidence from—
+>
+> - (a) persons making claims for housing benefit; or
+> - (b) other persons in connection with such claims.
+>
+> (4) A county council may receive information or evidence relating to an award of housing benefit which is supplied by—
+>
+> - (a) the person to whom the award has been made; or
+> - (b) other persons in connection with the award.
+
+.
+
+(5) After regulation 90 insert—
+
+> **90A. Verifying information**
+>
+> A relevant authority may verify relevant information supplied to, or obtained by, the authority in accordance with regulation 90.
+
+.
+
+(6) For regulation 91 (recording and holding information) substitute—
+
+> **91. Recording and holding information**
+>
+> A relevant authority which obtains relevant information or to whom such information is supplied—
+>
+> - (a) shall make a record of such information; and
+> - (b) may hold that information, whether as supplied or obtained or recorded, for the purpose of forwarding it to the person or authority for the time being administering housing benefit.
+
+.
+
+(7) In regulation 92 (forwarding of information) for sub-paragraph (b) substitute—
+
+> - (b) may, if the relevant authority is the Secretary of State or a person providing services to the Secretary of State, continue to hold a record of such information, whether as supplied or obtained or recorded, for such period as he considers appropriate.
+
+.
+
+## 9. Amendment of the Council Tax Benefit Regulations 2006
+
+(1) The Council Tax Benefit Regulations 2006 [^c1892501] are amended as follows.
+
+(2) In regulation 69 (time and manner in which claims are to be made)—
+
+- (a) after paragraph (4)(f) [^c1892502] add—
+
+  > - (g) may be sent or delivered to the offices of a county council in England if the council has arranged with the relevant authority for claims to be received at their offices (“county offices”).
+
+  ; and
+- (b) in paragraph (5)(d) and (e), after “authorised office” in each place insert “, county offices”.
+
+(3) In regulation 91 (interpretation)—
+
+- (a) before the definition of “local authority” insert—
+
+  > “**county council**” means a county council in England, but only if the council has made an arrangement in accordance with regulation 69(4)(g) or 92(3);
+
+  ; and
+- (b) in the definition of “relevant authority” after sub-paragraph (b) add—
+
+  > or
+  >
+  > - (c) a county council;
+
+  .
+
+(4) For regulation 92 (collection of information) substitute—
+
+> **92. Collection of information**
+>
+> (1) The Secretary of State, or a person providing services to him, may receive or obtain relevant information from—
+>
+> - (a) persons making, or who have made, claims for council tax benefit; or
+> - (b) other persons in connection with such claims.
+>
+> (2) In paragraph (1) references to persons who have made claims for council tax benefit include persons to whom awards of benefit have been made on those claims.
+>
+> (3) Where a county council has made an arrangement with a local authority, or a person authorised to exercise any function of a local authority relating to housing benefit or council tax benefit, to receive and obtain information and evidence relating to claims for council tax benefit, the council may receive or obtain the information or evidence from—
+>
+> - (a) persons making claims for council tax benefit; or
+> - (b) other persons in connection with such claims.
+>
+> (4) A county council may receive information relating to an award of council tax benefit which is supplied by—
+>
+> - (a) the person to whom an award has been made; or
+> - (b) other persons in connection with the award.
+
+.
+
+(5) After regulation 92 insert—
+
+> **92A. Verifying information**
+>
+> A relevant authority may verify relevant information supplied to, or obtained by, the authority in accordance with regulation 92.
+
+.
+
+(6) For regulation 93 (recording and holding information) substitute—
+
+> **93. Recording and holding information**
+>
+> A relevant authority which obtains relevant information or to whom such information is supplied—
+>
+> - (a) shall make a record of such information; and
+> - (b) may hold that information, whether as supplied or obtained or recorded, for the purpose of forwarding it to the person or authority for the time being administering council tax benefit.
+
+.
+
+(7) In regulation 94 (forwarding of information) for sub-paragraph (b) substitute—
+
+> - (b) may, if the relevant authority is the Secretary of State or a person providing services to the Secretary of State, continue to hold a record of such information, whether as supplied or obtained or recorded, for such period as he considers appropriate.
+
+.
+
+## 10. Amendment of the Council Tax Benefit (Persons who have attained the qualifying age for state pension credit) Regulations 2006
+
+(1) The Council Tax Benefit (Persons who have attained the qualifying age for state pension credit) Regulations 2006 [^c1892503] are amended as follows.
+
+(2) In regulation 53 (time and manner in which claims are to be made)—
+
+- (a) after paragraph (4)(f) [^c1892504] add—
+
+  > - (g) may be sent or delivered to the offices of a county council in England if the council has arranged with the relevant authority for claims to be received at their offices (“county offices”).
+
+  ;
+- (b) in paragraph (5)(d) and (e) [^c1892505], after “authorised office” in each place insert “, county offices”.
+
+(3) In regulation 76 (interpretation)—
+
+- (a) before the definition of “local authority” insert—
+
+  > “**county council**” means a county council in England, but only if the council has made an arrangement in accordance with regulation 53(4)(g) or 77(3);
+
+  ; and
+- (b) in the definition of “relevant authority” after sub-paragraph (b) add—
+
+  > or
+  >
+  > - (c) a county council;
+
+  .
+
+(4) For regulation 77 (collection of information) substitute—
+
+> **77. Collection of information**
+>
+> (1) The Secretary of State, or a person providing services to him, may receive or obtain relevant information from—
+>
+> - (a) persons making, or who have made, claims for council tax benefit; or
+> - (b) other persons in connection with such claims.
+>
+> (2) In paragraph (1) references to persons who have made claims for council tax benefit include persons to whom awards of benefit have been made on those claims.
+>
+> (3) Where a county council has made an arrangement with a local authority, or a person authorised to exercise any function of a local authority relating to housing benefit or council tax benefit, to receive and obtain information and evidence relating to a claim for council tax benefit, the council may receive or obtain the information or evidence from—
+>
+> - (a) persons making claims for council tax benefit; or
+> - (b) other persons in connection with such claims.
+>
+> (4) A county council may receive information relating to an award of council tax benefit which is supplied by—
+>
+> - (a) the person to whom the award has been made; or
+> - (b) other persons in connection with the award.
+
+.
+
+(5) After regulation 77 insert—
+
+> **77A. Verifying information**
+>
+> A relevant authority may verify relevant information supplied to, or obtained by, the authority in accordance with regulation 77.
+
+.
+
+(6) For regulation 78 (recording and holding information) substitute—
+
+> **78. Recording and holding information**
+>
+> A relevant authority which obtains relevant information or to whom such information is supplied—
+>
+> - (a) shall make a record of such information; and
+> - (b) may hold that information, whether as supplied or obtained or recorded, for the purpose of forwarding it to the person or authority for the time being administering council tax benefit.
+
+.
+
+(7) In regulation 79 (forwarding of information) for sub-paragraph (b) substitute—
+
+> - (b) may, if the relevant authority is the Secretary of State or a person providing services to the Secretary of State, continue to hold a record of such information, whether as supplied or obtained or recorded, for such period as he considers appropriate.
+
+.
+
+Signed by authority of the Secretary of State for Work and Pensions.
+
+James Plaskitt
+
+Parliamentary Under Secretary of State,
+
+Department for Work and Pensions
+
+*(This note is not part of the Regulations)*
+
+These Regulations make provision about the persons or bodies to whom claims for benefit may be made and as to the use and verification of social security information by those persons or bodies.
+
+Regulation 2 provides that where a local authority that administers council tax benefit and housing benefit (“local authority”) receives social security information from the Secretary of State that has been used by the Secretary of State in connection with a person's claim for, or award of, certain benefits, then the local authority must accept this information as correct and use it in connection with that person's claim for, or award of, council tax benefit or housing benefit without carrying out further checks as to its accuracy. This obligation will not arise where certain exceptions apply.
+
+Regulation 3 makes similar provision in respect of information received by the Secretary of State from a local authority which was used by the local authority in connection with a person's claim for, or award of, council tax benefit or housing benefit.
+
+Regulation 4 provides that, where a local authority verifies social security information and forwards this to the Secretary of State, then the Secretary of State must, subject to certain exceptions, without further checking this information, use it in connection with a person's claim for or award of a specified benefit.
+
+Regulation 5 specifies benefits for the purpose of section 7B(3) of the Social Security Administration Act 1992.
+
+Regulation 6 amends the Social Security (Claims and Payments) Regulations 1987 to enable county councils in England to arrange to receive claims and connected information for specified benefits administered by the Secretary of State. It enables county councils and other local authorities who receive or obtain information connected with such claims to verify the information before forwarding it to the Secretary of State. It also enables them to receive and verify information relating to awards of specified benefits.
+
+Regulation 7 amends the Housing Benefit Regulations 2006 to enable county councils in England to arrange to receive housing benefit claims and connected information. It enables the Secretary of State and county councils in England, who receive or obtain information connected with housing benefit claims, to verify the information before forwarding it to the relevant local authority. It also allows county councils to receive and verify information relating to housing benefit awards.
+
+Regulations 8 to 10 amend the Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations 2006, the Council Tax Benefit Regulations 2006 and the Council Tax Benefit (Persons who have attained the qualifying age for state pension credit) Regulations 2006 to make equivalent provision to that made by regulation 7.
+
+A full regulatory impact assessment has not been produced for this Instrument as it has no effect on the costs of business, charities or the voluntary sector.
+
+## Annotations
+
+[^c1892485]: Marginal citation: [1992 c. 5](https://www.legislation.gov.uk/ukpga/1992/5); [section 7A](https://www.legislation.gov.uk/uksi/2007/2911/section/7A) was inserted by the [Welfare Reform and Pensions Act 1999 (c. 30)](https://www.legislation.gov.uk/ukpga/1999/30), [section 71](https://www.legislation.gov.uk/ukpga/1999/30/section/71), and was amended by the [Welfare Reform Act 2007 (c.5)](https://www.legislation.gov.uk/ukpga/2007/5), [section 41](https://www.legislation.gov.uk/ukpga/2007/5/section/41) which also inserted section 7B; [section 191](https://www.legislation.gov.uk/uksi/2007/2911/section/191) is cited because of the meaning it gives to “prescribe”, which was amended by paragraph 10 of Schedule 5 to the Welfare Reform Act 2007.
+
+[^c1892486]: Marginal citation: *See* sections 172(1) and 173(1)(b) of the Social Security Administration Act 1992.
+
+[^key-308e9d8cc9778835b2e79580b32a3aad]: Textual amendment: Words in reg. 1(3) substituted (6.4.2017 coming into force in accordance with art. 1-3) by [The Pensions Act 2014 (Consequential, Supplementary and Incidental Amendments) Order 2017 (S.I. 2017/422)](https://www.legislation.gov.uk/uksi/2017/422), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2017/422/article/1/2), [30](https://www.legislation.gov.uk/uksi/2017/422/article/30) (with arts. 2, 3)
+
+[^key-67d74bfd0bb6f19df281c80fde51564c]: Textual amendment: Reg. 1(3)(ee) inserted (28.6.2010) by [Social Security (Miscellaneous Amendments) (No.3) Regulations 2010 (S.I. 2010/840)](https://www.legislation.gov.uk/uksi/2010/840), [regs. 1](https://www.legislation.gov.uk/uksi/2010/840/regulation/1), [8](https://www.legislation.gov.uk/uksi/2010/840/regulation/8)
+
+[^c1892487]: Marginal citation: *See* sections 7B(6) and 7A(6) of the Social Security Administration Act 1992 for the definition of “local authority”.
+
+[^c1892488]: Marginal citation: “Social security information” is defined by section 7B(4) of the Social Security Administration Act 1992.
+
+[^c1892489]: Marginal citation: [S.I. 1987/1968](https://www.legislation.gov.uk/uksi/1987/1968).
+
+[^c1892490]: Marginal citation: Paragraph (6A) was inserted by [S.I. 2003/1632](https://www.legislation.gov.uk/uksi/2003/1632) and amended by [S.I. 2005/1551](https://www.legislation.gov.uk/uksi/2005/1551) and 2006/832.
+
+[^c1892491]: Marginal citation: Paragraph (6B) was inserted by [S.I. 2003/1632](https://www.legislation.gov.uk/uksi/2003/1632).
+
+[^c1892492]: Marginal citation: Paragraph (6C) was inserted by [S.I. 2003/1632](https://www.legislation.gov.uk/uksi/2003/1632).
+
+[^c1892493]: Marginal citation: [Regulation 4D](https://www.legislation.gov.uk/uksi/2007/2911/regulation/4D) was inserted by [S.I. 2002/3019](https://www.legislation.gov.uk/uksi/2002/3019).
+
+[^c1892494]: Marginal citation: Paragraph (4) was amended by [S.I. 2003/1632](https://www.legislation.gov.uk/uksi/2003/1632).
+
+[^c1892495]: Marginal citation: Paragraph (5) was substituted by [S.I. 2005/337](https://www.legislation.gov.uk/uksi/2005/337).
+
+[^c1892496]: Marginal citation: Paragraph (1E) was inserted by [S.I. 2006/832](https://www.legislation.gov.uk/uksi/2006/832).
+
+[^c1892497]: Marginal citation: [S.I. 2006/213](https://www.legislation.gov.uk/uksi/2006/213).
+
+[^c1892498]: Marginal citation: Paragraph (4) was amended by [S.I. 2006/2967](https://www.legislation.gov.uk/uksi/2006/2967).
+
+[^c1892499]: Marginal citation: [S.I. 2006/214](https://www.legislation.gov.uk/uksi/2006/214).
+
+[^c1892500]: Marginal citation: Paragraph (5) was amended by [S.I. 2006/2967](https://www.legislation.gov.uk/uksi/2006/2967).
+
+[^c1892501]: Marginal citation: [S.I. 2006/215](https://www.legislation.gov.uk/uksi/2006/215).
+
+[^c1892502]: Marginal citation: Paragraph (4) was amended by [S.I. 2006/2967](https://www.legislation.gov.uk/uksi/2006/2967).
+
+[^c1892503]: Marginal citation: [S.I. 2006/216](https://www.legislation.gov.uk/uksi/2006/216).
+
+[^c1892504]: Marginal citation: Paragraph (4) was amended by [S.I. 2006/2967](https://www.legislation.gov.uk/uksi/2006/2967).
+
+[^c1892505]: Marginal citation: Sub-paragraph (e) was amended by [S.I. 2006/2967](https://www.legislation.gov.uk/uksi/2006/2967).

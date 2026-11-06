@@ -1,0 +1,1395 @@
+---
+title: The Registration of Marriages Regulations 2015
+id: uksi/2015/207
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2015-02-05'
+text_date: '2025-05-27'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2015/207
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2015/207/pdfs/uksi_20150207_en.pdf
+- http://www.legislation.gov.uk/uksi/2015/207/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Registration of Marriages Regulations 2015
+
+> Text as at 2025-05-27.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+This Statutory Instrument has been printed in substitution of the SI of the same number and is being issued free of charge to all known recipients of that Statutory Instrument.
+
+2015 No. 207
+
+Registration Of Births, Deaths, Marriages Etc., England And Wales
+
+The Registration of Marriages Regulations 2015
+
+Made
+
+5th February 2015
+
+Coming into force
+
+2nd March 2015
+
+The Registrar General, in exercise of the powers conferred by sections 27(1)[^f00001], 27A(3), (4) and (7)[^f00002], 27B(2)(b)[^f00003], 28G(1) and (3)[^f00004], 31(2), (5), (5D)[^f00005], 35(1)[^f00006], 55(1), 57(2), 74(1)(b) and (3)[^f00007] and 76(5) of the Marriage Act 1949, sections 2(1), 7 and 18 of the Marriage (Registrar General’s Licence) Act 1970[^f00008], and section 20(a) of the Registration Service Act 1953[^f00009] as extended by section 26(3) of the Welsh Language Act 1993[^f00010], and with the approval of the Secretary of State[^f00011], makes the following Regulations:
+
+## PART 1 — General
+
+### 1. Citation and commencement[^key-058e2357b920d2d6e397bfcdea1af831]
+
+These Regulations may be cited as the Registration of Marriages Regulations 2015 and come into force on 2nd March 2015.
+
+### 2. Interpretation[^key-e7fabf867d6be0f195520d24c036e9b3]
+
+(1) In these Regulations—
+
+- “the Act” means the Marriage Act 1949;
+- “1970 Act” means the Marriage (Registrar General’s Licence) Act 1970;
+- “authorised person” means a person whose name and address have been certified under section 43 or 43B of the Act (appointment of authorised persons for buildings and chapels registered for solemnization of marriage);[^key-e5a4bdec9487a3547f7405d64ae2afca]
+- “entry” (unless the context otherwise requires), means a record of the particulars relating to a marriage completed in the appropriate places in form 15;
+- “occupation” includes rank or profession;
+- “registered building” means—[^key-4420765293f58d91c6ae2da52d1cfd29]
+  - (a) a building registered under section 41 or 43A of the Act (registration of buildings for solemnization of marriage), or
+  - (b) a chapel registered under section 70 or 70A of the Act (registration of naval, military and air force chapels for solemnization of marriage),
+
+  and references to the registration of a building are to be construed accordingly;
+- “step-parent”, in relation to a party to a marriage, means a step-parent who is or was married to, or the civil partner of, a parent of the party.[^M_F_0442fb0f-4ce6-4b3a-f300-1d9548077249]
+
+(2) In these Regulations, any reference to a numbered form is to the form bearing that number in Schedule 1, and any reference to a numbered column or space[^key-42c7200386b4485d615185cf1f25f34f] on a form, is to the column or space bearing that number on that form.
+
+### 3. Completion of forms[^key-5138fc7970ff86331f483e76f9c6caf0]
+
+(1) Forms 1(w) to 6(w) and 9(w) to 12(w)[^key-97b412a2797433838a669bee0913971f] in Schedule 1 must be completed in English and must also be completed in Welsh if—
+
+- (a) in the case of—
+  - (i) forms 1(w) to 6(w), 9(w), 11(w) and 12(w), the party giving notice of the marriage, and
+  - (ii) form 10(w), the person making the declaration,
+
+  so elects, and provides the required particulars in both languages, and the person by whom the notice, or as the case may be the declaration, is attested can understand and write Welsh;
+- (aa)[^key-6ae1dfee3a255dabff834099fd59845b] in the case of form 11A(w) or 11B(w)—
+  - (i) the parties to the marriage so elect,
+  - (ii) the forms in which notice of the marriage was given by the parties were both completed in Welsh as well as English, and
+  - (iii) the person issuing the marriage schedule can understand and write Welsh;
+- (b)[^key-6713cc798d6142af85c0195f089e091a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(1A)[^key-9028a108e7b3c850e0a8c764578974f2] Form 13A(w) in Schedule 1 must be completed in English and must also be completed in Welsh if—
+
+- (a) the parties to the marriage so elect and provide the required particulars in both languages, and
+- (b) the person issuing the marriage document can understand and write Welsh.
+
+(1B) The references in paragraphs (1) and (1A) to the completion of form 11A(w), 11B(w) or 13A(w) are references to—
+
+- (a) in the case of form 11A(w) or 11B(w), the entering of particulars in that form for the purposes of issuing a marriage schedule under section 31(2) of the Act;
+- (b) in the case of form 13A(w), the entering of particulars in that form for the purposes of issuing a marriage document under section 21A(2) of the Act.
+
+(2) Where a form of words set out in column 1 of Schedule 2 to these Regulations is used in completing a form in English, the corresponding form of words set out in column 2 must be used where the form is also completed in Welsh.
+
+## PART 2 — Preliminaries to Marriage
+
+### 4. Forms of notice of marriage[^key-233ece98659d4ee827ce51a31fd49429]
+
+(1) The form of notice of marriage to be given by each party to the marriage under section 27(1) of the Act[^f00012] where—
+
+- (a) both parties are relevant nationals[^f00013] and where—
+  - (i) both parties are aged 18 or over, is form 1 if attested in England, or form 1(w) if attested in Wales; or
+  - (ii) either party is, or both parties are, aged under 18 but will be aged 18 on the day that the marriage schedule is due to be issued[^key-b03eafb28b4e738df8b9b74f5daa25c5], is form 2 if attested in England, or form 2(w) if attested in Wales.
+- (b) either party is not, or neither party is, a relevant national and where—
+  - (i) both parties are aged 18 or over, is form 3 if attested in England, or form 3(w) if attested in Wales; or
+  - (ii) either party is, or both parties are, aged under 18 but will be aged 18 on the day that the marriage schedule is due to be issued[^key-aff1acb048dc41d026b7eeae85876467], is form 4 if attested in England, or form 4(w) if attested in Wales.
+
+(2) The form of notice of marriage to be given by either party to the marriage under section 2(1) of the 1970 Act is form 5 if attested in England, or form 5(w) if attested in Wales.
+
+### 5. Endorsement on notice of marriage[^key-fe40e0518acee097d8860dcc26f9d3ee]
+
+The form of endorsement on the notice of marriage to be made under section 35(1) of the Act[^f00014] (in respect of an intended marriage in a registration district in which neither party to the marriage resides) is form 6 if the notice is attested in England, or form 6(w) if attested in Wales.
+
+### 6. Statements and particulars for intended marriage of housebound or detained person[^key-54deb43675ca7a797e27caca2fd08e49]
+
+(1) The form of medical statement to be given under section 27A(2) of the Act[^f00015] is form 7 concerning a person housebound in England, or form 7(w) concerning a person housebound in Wales.
+
+(2) The form of statement to be made in relation to a detained person under section 27A(3) of the Act is form 8 concerning a person detained in England, or form 8(w) concerning a person detained in Wales.
+
+(3) The form of the particulars of the person by or before whom the marriage is to be solemnized, which is to be given under section 27A(4) of the Act, is form 9 in relation to a marriage intended to be solemnized in England, or form 9(w) in relation to a marriage intended to be solemnized in Wales.
+
+### 7. Declaration for intended marriage of certain persons related by affinity[^key-3cfec19f260e214b103f8de58d519679]
+
+(1) The form of declaration to be made by each of the persons to be married, in accordance with section 27B(2)(b) of the Act[^f00016], is form 10 in relation to a marriage intended to be solemnized in England, or form 10(w) in relation to a marriage intended to be solemnized in Wales.
+
+(2) A declaration mentioned in paragraph (1) must be signed by the person making it in the presence of the superintendent registrar, who must then sign the declaration as witness and add his or her description.
+
+(3) The superintendent registrar referred to in paragraph (2) is the superintendent registrar to whom notice of the marriage is required to be given by the person making the declaration.
+
+### 8. Specified Evidence[^key-1144600a19733343e9b52bbe4910c970]
+
+(1) Schedule 3 has effect to specify—
+
+- (a) evidence of a person’s relevant nationality, for the purposes of sections 8(1)(b)[^f00017] and 16(1C)[^f00018] of the Act (see paragraph 2 of Schedule 3);
+- (b) evidence of a person’s name, surname, and date of birth, for the purposes of section 28B(1)(a) and (b)[^f00019] of the Act, and a person’s nationality, for the purposes of section 28B(1)(d) of the Act (see paragraph 3 of Schedule 3);
+- (c) evidence of a person’s place of residence, for the purposes of section 28B(1)(c) of the Act (see paragraph 4 of Schedule 3); and
+- (d) evidence of the ending of a person’s previous marriage or civil partnership, for the purposes of section 28B(2) of the Act (see paragraph 5 of Schedule 3).
+
+### 9. Application to reduce the 28 day waiting period[^key-a6bdb84e3c00ebda903a4793c2dfb6b1]
+
+(1) An application under section 31(5A) of the Act[^f00020] to reduce the 28 day waiting period must be made—
+
+- (a) by a party to the marriage;
+- (b) to the superintendent registrar to whom that party has given notice of marriage;
+- (c) on form 11 if the notice is given in England, or form 11(w) if the notice is given in Wales, together with any evidence which supports the reason given in the form for applying for a reduction in the 28 day period;
+
+and must be accompanied by the fee.
+
+(2) The superintendent registrar must immediately forward the completed application [^key-df59099c19b03a540f5cb0a9f8787310]... to the Registrar General.
+
+(3) If, on receipt of a completed application, the Registrar General requires further information (which may include documents), before making his or her decision, the Registrar General may—
+
+- (a) request that the superintendent registrar who forwarded the completed application obtain the information from the applicant and forward it to the Registrar General; or
+- (b) request it from the applicant.
+
+(4) After the Registrar General has considered the completed application and any further information obtained, and is satisfied that there are, or are not, as the case may be, compelling reasons for reducing the 28 day period, the Registrar General must notify that decision to the applicant and to the superintendent registrar who forwarded the completed application.
+
+(5) In this regulation—
+
+- “applicant” means the person seeking a reduction in the 28 day period;
+- “completed application” means the completed form 11 (or form 11(w) as the case may be) together with any evidence referred to in paragraph (1)(c); and
+- “fee” means the fee as specified (if one is so specified) in regulations made under section 71A of the Act[^M_F_be8b78fe-6232-44fc-fc18-cdb949f8dc39].
+
+### 9A. Form of marriage schedule[^key-cf375c7b199b98cfa991da00ae0c1b7b]
+
+(1) The form of a marriage schedule to be issued under section 31(2) of the Act, other than a marriage schedule for a marriage intended to be solemnized in the presence of a superintendent registrar and a registrar, is—
+
+- (a) form 11A if the schedule is issued in England;
+- (b) form 11A(w) if the schedule is issued in Wales.
+
+(2) The form of a marriage schedule to be issued under section 31(2) of the Act for a marriage intended to be solemnized in the presence of a superintendent registrar and a registrar is—
+
+- (a) form 11B if the schedule is issued in England;
+- (b) form 11B(w) if the schedule is issued in Wales.
+
+### 9B. Prescribed content of marriage schedule: particulars about the condition of the parties
+
+(1) A superintendent registrar required to issue a marriage schedule under section 31(2) of the Act must enter the particulars required in space 4 (condition of the parties) on form 11A, 11A(w), 11B or 11B(w) (as the case may be) in accordance with this regulation.
+
+(2) The superintendent registrar must enter, in relation to each party to the proposed marriage separately (in the column relating to that party), the word or words required by whichever entry in column (3) of the table in this regulation corresponds to the entry in column (2) of that table describing the condition of that party or the circumstances.
+
+(3) But the requirement of paragraph (2) to enter particulars in relation to each party separately is subject to paragraph (4), which applies where—
+
+- (a) the circumstances are those in column (2) of row 4, 9, 10, 13 or 14 of the table; or
+- (b) the circumstances are those in column (2) of row 11, 12, 15 or 16 of the table and the corresponding entry in column (3) requires words to be entered in the form of a single entry in relation to both parties.
+
+(4) Where this paragraph applies, the superintendent registrar must enter the words required by the relevant entry in column (3) of the table in the form of a single entry relating to both parties across both columns of space 4 (instead of entering those words in relation to each party separately).
+
+(5) The superintendent registrar must not enter anything in space 4 other than the word or words required by this regulation.
+
+| (1) Row number | (2) Condition of party or circumstances | (3) Word(s) to enter in space 4 |
+| --- | --- | --- |
+| 1\. | Party has not previously been married or formed a civil partnership. | “Single”. |
+| 2\. | Party’s previous marriage was terminated by death. | “Widow” or “Widower” (as the case may be). |
+| 3\. | Party’s previous civil partnership was terminated by death. | “Surviving civil partner”. |
+| 4\. | The circumstances are that—<br>- (a) the parties have previously been through a form of marriage with each other (other than a marriage known to have been null and void),<br>- (b) neither party has since married, or formed a civil partnership with, a third party, and<br>- (c) the purpose of performing the proposed marriage ceremony is the avoidance of doubt as to the validity of the previous ceremony. | “Previously went through a form of marriage at … on …” (including in the appropriate places particulars of the place and date of the previous ceremony). |
+| 5\. | Party’s previous marriage was terminated by divorce (except where the circumstances are those in column (2) of row 9 or 11). | “Previous marriage dissolved”. |
+| 6\. | Party’s previous marriage was annulled on the ground that the marriage was voidable (except where the circumstances are those in column (2) of row 10 or 12). | “Previous marriage annulled”. |
+| 7\. | Party’s previous civil partnership was terminated by dissolution (except where the circumstances are those in column (2) of row 13 or 15). | “Previous civil partnership dissolved”. |
+| 8\. | Party’s previous civil partnership was annulled on the grounds that the civil partnership was voidable (except where the circumstances are those in column (2) of row 14 or 16). | “Previous civil partnership annulled”. |
+| 9\. | The circumstances are that—<br>- (a) the parties have previously been through a form of marriage with each other (other than a marriage known to have been null and void),<br>- (b) the marriage was terminated by divorce,<br>- (c) neither party has since married, or formed a civil partnership with, a third party, and<br>- (d) neither party has been issued with a full gender recognition certificate under the Gender Recognition Act 2004 since the solemnization of the parties’ previous marriage. | “Previously married at … on … Marriage dissolved on …” (including in the appropriate places particulars of the place and date of the previous marriage and the date of its dissolution). |
+| 10\. | The circumstances are that—<br>- (a) the parties have previously been through a form of marriage with each other (other than a marriage known to have been null and void),<br>- (b) the marriage was annulled,<br>- (c) neither party has since married, or formed a civil partnership with, a third party, and<br>- (d) neither party has been issued with a full gender recognition certificate under the Gender Recognition Act 2004 since the solemnization of the parties’ previous marriage. | “Previously married at … on … Marriage annulled on …” (including in the appropriate places particulars of the place and date of the previous marriage and the date of its annulment). |
+| 11\. | The circumstances are that—<br>- (a) the parties have previously been through a form of marriage with each other (other than a marriage known to have been null and void),<br>- (b) the marriage was terminated by divorce,<br>- (c) neither party has since married, or formed a civil partnership with, a third party, and<br>- (d) a full gender recognition certificate has been issued under the Gender Recognition Act 2004 to either or each of the parties since the solemnization of the parties’ previous marriage. | If (and only if) both parties so request, the following words must be entered in the form of a single entry in relation to both parties—<br>“Previously married at … on … Marriage dissolved on …” (including in the appropriate places particulars of the place and date of the previous marriage and the date of its dissolution).<br>If no request is made by the parties for a single entry in those terms, the words to be entered are—<br>“Previous marriage dissolved”.<br>But if a party requests the word “Single” to be entered in relation to that party instead of the words “Previous marriage dissolved”, the word to be entered in relation to that party is—<br>“Single”. |
+| 12\. | The circumstances are that—<br>- (a) the parties have previously been through a form of marriage with each other (other than a marriage known to have been null and void),<br>- (b) the marriage was annulled,<br>- (c) neither party has since married, or formed a civil partnership with, a third party, and<br>- (d) a full gender recognition certificate has been issued under the Gender Recognition Act 2004 to either or each of the parties since the solemnization of the parties’ previous marriage. | If (and only if) both parties so request, the following words must be entered, in the form of a single entry in relation to both parties—<br>“Previously married at … on … Marriage annulled on …” (including in the appropriate places particulars of the place and date of the previous marriage and the date of its annulment).<br>If no request is made by the parties for a single entry in those terms, the words to be entered are—<br>“Previous marriage annulled”.<br>But if a party requests the word “Single” to be entered in relation to that party instead of the words “Previous marriage annulled”, the word to be entered in relation to that party is—<br>“Single”. |
+| 13\. | The circumstances are that—<br>- (a) the parties have previously been through a form of civil partnership with each other (other than a civil partnership known to be void),<br>- (b) the civil partnership was terminated by final order of dissolution,<br>- (c) neither party has since formed a civil partnership with, or married, a third party, and<br>- (d) neither party has been issued with a full gender recognition certificate under the Gender Recognition Act 2004 since the formation of the parties’ previous civil partnership. | “Previously formed a civil partnership at … on … Civil partnership dissolved on …” (including in the appropriate places particulars of the place and date of the previous civil partnership and the date of its dissolution). |
+| 14\. | The circumstances are that—<br>- (a) the parties have previously been through a form of civil partnership with each other (other than a civil partnership known to be void),<br>- (b) the civil partnership was annulled,<br>- (c) neither party has since formed a civil partnership with, or married, a third party, and<br>- (d) neither party has been issued with a full gender recognition certificate under the Gender Recognition Act 2004 since the formation of the parties’ previous civil partnership. | “Previously formed a civil partnership at … on … Civil partnership annulled on …” (including in the appropriate places particulars of the place and date of the previous civil partnership and the date of its annulment). |
+| 15\. | The circumstances are that—<br>- (a) the parties have previously been through a form of civil partnership with each other (other than a civil partnership known to be void),<br>- (b) the civil partnership was terminated by final order of dissolution,<br>- (c) neither party has since formed a civil partnership with, or married, a third party, and<br>- (d) a full gender recognition certificate has been issued under the Gender Recognition Act 2004 to either or each of the parties since the formation of the parties’ previous civil partnership. | If (and only if) both parties so request, the following words must be entered, in the form of a single entry in relation to both parties—<br>“Previously formed a civil partnership at … on … Civil partnership dissolved on …” (including in the appropriate places particulars of the place and date of the previous civil partnership and the date of its dissolution).<br>If no request is made by the parties for a single entry in those terms, the words to be entered are—<br>“Previous civil partnership dissolved”.<br>But if a party requests the word “Single” to be entered in relation to that party instead of the words “Previous civil partnership dissolved”, the word to be entered in relation to that party is—<br>“Single”. |
+| 16\. | The circumstances are that—<br>- (a) the parties have previously been through a form of civil partnership with each other (other than a civil partnership known to be void),<br>- (b) the civil partnership was annulled,<br>- (c) neither party has since formed a civil partnership with, or married, a third party, and<br>- (d) a full gender recognition certificate has been issued under the Gender Recognition Act 2004 to either or each of the parties since the formation of the parties’ previous civil partnership. | If (and only if) both parties so request, the following words must be entered, in the form of a single entry in relation to both parties—<br>“Previously formed a civil partnership at … on … Civil partnership annulled on …” (including in the appropriate places particulars of the place and date of the previous civil partnership and the date of its annulment).<br>If no request is made by the parties for a single entry in those terms, the words to be entered are—<br>“Previous civil partnership annulled”.<br>But if a party requests the word “Single” to be entered in relation to that party instead of the words “Previous civil partnership annulled”, the word to be entered in relation to that party is—<br>“Single”. |
+
+### 9C. Prescribed content of marriage schedule: particulars about the parties’ parents
+
+(1) A superintendent registrar required to issue a marriage schedule under section 31(2) of the Act must enter the particulars required in space 7 (particulars of parents) on form 11A, 11A(w), 11B or 11B(w) (as the case may be) in accordance with this regulation in relation to each party to the proposed marriage.
+
+(2) Where a party provides the superintendent registrar with the required particulars of a parent of that party for inclusion in the marriage schedule, the superintendent registrar must—
+
+- (a) enter those particulars in the column relating to that party,
+- (b) if informed by the party that the parent has died, enter the word “deceased” after the parent’s surname, and
+- (c) if provided with the parent’s former occupation and informed by the party that the parent has or had retired from that occupation, enter the word “retired” after that occupation.
+
+(3) Subject to paragraph (4), where a party provides the superintendent registrar with the required particulars of a step-parent of that party for inclusion in the marriage schedule, the superintendent registrar must—
+
+- (a) enter those particulars in the column relating to that party,
+- (b) enter the word “step-parent” after the step-parent’s surname,
+- (c) if informed by the party that the step-parent has died, enter the word “deceased” after the word “step-parent”, and
+- (d) if provided with the step-parent’s former occupation and informed by the party that the step-parent has or had retired from that occupation, enter the word “retired” after that occupation.
+
+(4) The superintendent registrar must not enter any particulars of any step-parent of a party under paragraph (3) if entering all the required particulars of step-parents provided by the party for inclusion in the marriage schedule would result in particulars of more than four individuals in total being entered in space 7 in relation to that party (including particulars of any parent of the party).
+
+(5) The superintendent registrar must not enter any particulars of a party’s parents or step-parents other than the particulars (if any) which this regulation requires the superintendent registrar to enter.
+
+(6) Where the superintendent registrar is not required by this regulation to enter any particulars at all in space 7 in relation to a party, the superintendent registrar must draw a line in ink, or cause a line to be printed, through that space in the column relating to that party.
+
+(7) In this regulation, “the required particulars” of a parent or step-parent are the parent’s or step-parent’s—
+
+- (a) name and surname, and
+- (b) current occupation or, if the parent or step-parent has no current occupation or has died, former occupation (if any).
+
+### 9D. Form of certificate issued in England or Wales for marriage in Scotland[^key-0ee4f9558278fb35215a178eb43de499]
+
+*Extent: E+W+S*
+
+(1) The form of a certificate for marriage to be issued under section 31(2) of the Act as applied by section 1(3) of the Marriage (Scotland) Act 1956 (issue of approved certificate in England or Wales for marriage to be solemnized in Scotland) is form 12 if the certificate is issued in England, or form 12(w) if the certificate is issued in Wales.
+
+(2) Regulation 2 applies for the purposes of the interpretation of paragraph (1) of this regulation as it extends to Scotland as well as to England and Wales; and the requirements of regulation 3 in relation to the completion of form 12(w) apply in relation to the completion of form 12(w) prescribed by paragraph (1) of this regulation as it extends to Scotland as well as to England and Wales.
+
+### 10. Form of Registrar General’s licence for marriage[^key-792629b6d3348fd5a1b9ac1cf0992294][^key-a6997ceb7d9ca18015a25f1fd9faf25d]
+
+(1)[^key-209a44bb4c6431c8d537558709a3a159] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) The form of the Registrar General’s licence for marriage to be issued under section 7 of the 1970 Act is form 13.
+
+### 10A. Form of marriage document issued after publication of banns or grant of special or common licence[^key-c071d7a10201edad8e61d1c228637e2f]
+
+The form of a marriage document to be issued under section 21A(2) of the Act is form 13A if the document is issued in England, or form 13A(w) if the document is issued in Wales.
+
+### 10B. Prescribed content of marriage document: particulars about the condition of the parties
+
+(1) A person (“the issuer”) required to issue a marriage document under section 21A(2) of the Act must enter the particulars required in space 4 (condition of the parties) on form 13A or 13A(w) (as the case may be) in accordance with this regulation.
+
+(2) The issuer must enter, in relation to each party to the proposed marriage separately (in the column relating to that party) the word or words required by whichever entry in column (3) of the table in regulation 9B corresponds to the entry in column (2) of that table describing the condition of that party or the circumstances.
+
+(3) But the requirement of paragraph (2) to enter particulars in relation to each party separately is subject to paragraph (4), which applies where—
+
+- (a) the circumstances are those in column (2) of row 4, 9, 10, 13 or 14 of the table; or
+- (b) the circumstances are those in column (2) of row 11, 12, 15 or 16 of the table and the corresponding entry in column (3) requires words to be entered in the form of a single entry in relation to both parties.
+
+(4) Where this paragraph applies, the issuer must enter the words required by the relevant entry in column (3) of the table in the form of a single entry relating to both parties across both columns of space 4 (instead of entering those words in relation to each party separately).
+
+(5) The issuer must not enter anything in space 4 other than the word or words required by this regulation.
+
+### 10C. Prescribed content of marriage document: particulars about the parties’ parents
+
+(1) A person (“the issuer”) required to issue a marriage document under section 21A(2) of the Act must enter the particulars required in space 7 (particulars of parents) on form 13A or form 13A(w) (as the case may be) in accordance with this regulation in relation to each party to the proposed marriage.
+
+(2) Where a party provides the issuer with the required particulars of a parent of that party for inclusion in the marriage document, the issuer must—
+
+- (a) enter those particulars in the column relating to that party,
+- (b) if informed by the party that the parent has died, enter the word “deceased” after the parent’s surname, and
+- (c) if provided with the parent’s former occupation and informed by the party that the parent has or had retired from that occupation, enter the word “retired” after that occupation.
+
+(3) Subject to paragraph (4), where a party provides the issuer with the required particulars of a step-parent of that party for inclusion in the marriage document, the issuer must—
+
+- (a) enter those particulars in the column relating to that party,
+- (b) enter the word “step-parent” after the step-parent’s surname,
+- (c) if informed by the party that the step-parent has died, enter the word “deceased” after the word “step-parent”, and
+- (d) if provided with the step-parent’s former occupation and informed by the party that the step-parent has or had retired from that occupation, enter the word “retired” after that occupation.
+
+(4) The issuer must not enter any particulars of any step-parent of a party under paragraph (3) if entering all the required particulars of step-parents provided by the party for inclusion in the marriage document would result in particulars of more than four individuals in total being entered in space 7 in relation to that party (including particulars of any parent of the party).
+
+(5) The issuer must not enter any particulars of a party’s parents or step-parents other than the particulars (if any) which this regulation requires the issuer to enter.
+
+(6) Where the issuer is not required by this regulation to enter any particulars at all in space 7 in relation to a party, the issuer must draw a line in ink, or cause a line to be printed, through that space in the column relating to that party.
+
+(7) In this regulation, “the required particulars” of a parent or step-parent are the parent’s or step-parent’s—
+
+- (a) name and surname, and
+- (b) current occupation or, if the parent or step-parent has no current occupation or has died, former occupation (if any).
+
+### 11. Form of instructions for solemnization of a marriage in a registered building without the presence of a registrar[^key-76d7ae4fe3a30cf25dd8b93fa419fb15]
+
+(1)[^key-f555c98b85e13f044ba27de46e9d2d07] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2)[^key-e64bd90e0a19e6652f11b5d6b34948d8] The form of instructions to be given under section 31(5) of the Act by a superintendent registrar when issuing a marriage schedule is form 14A if the marriage schedule is issued in England, or form 14A(w) if the schedule is issued in Wales.
+
+## PART 2A — Delivery of marriage schedule or marriage document[^key-e8a2a247383385f49ca66d8a80daf53b]
+
+### 11A. Content of notices requiring delivery of signed marriage document or marriage schedule
+
+(1) A notice issued to a person under section 53D(6) of the Act (notice requiring delivery of signed marriage document or marriage schedule) must, in addition to imposing the requirement referred to in that section—
+
+- (a) state that the notice is issued under section 53D(6) of the Act,
+- (b) state the date on which the notice is issued,
+- (c) explain what the person was required to do under section 53D(2) or (3)(b) (as the case may be) of the Act, and
+- (d) say why the notice is being issued.
+
+(2) A notice issued to a person under section 53D(8) of the Act (notice requiring personal delivery of signed marriage document or marriage schedule) must, in addition to imposing the requirement referred to in that section—
+
+- (a) state that the notice is issued under section 53D(8) of the Act,
+- (b) state the date on which the notice is issued and the date on which the notice previously issued to the person under section 53D(6) of the Act was issued,
+- (c) say why the notice is being issued,
+- (d) give the address of the premises at which the notice requires the person to attend,
+- (e) state the period of time within which the person is required by section 53D(9) of the Act to comply with the notice, and
+- (f) explain that the person may commit an offence under section 76A of the Act if the person fails to comply with the notice.
+
+(3) A notice issued to a person under section 53E(8) of the Act (notice requiring delivery of a reproduction of a marriage document or marriage schedule) must, in addition to imposing the requirement referred to in that section—
+
+- (a) state that the notice is issued under section 53E(8) of the Act,
+- (b) state the date on which the notice is issued,
+- (c) explain what the person was required to do under section 53E(3)(a) or (5)(a) (as the case may be) of the Act, and
+- (d) say why the notice is being issued.
+
+(4) A notice issued to a person under section 53E(10) of the Act (notice requiring personal delivery of a reproduction of a marriage document or marriage schedule) must, in addition to imposing the requirement referred to in that section—
+
+- (a) state that the notice is issued under section 53E(10) of the Act,
+- (b) state the date on which the notice is issued and the date on which the notice previously issued to the person under section 53E(8) of the Act was issued,
+- (c) say why the notice is being issued,
+- (d) give the address of the premises at which the notice requires the person to attend,
+- (e) state the period of time within which the person is required by section 53E(11) of the Act to comply with the notice, and
+- (f) explain that the person may commit an offence under section 76A of the Act if the person fails to comply with the notice.
+
+## PART 2B — Custody of marriage schedules, marriage documents and register books
+
+### 11B. Retention of signed marriage documents and schedules by superintendent registrars
+
+(1) As soon as practicable after a registrar has registered a marriage under section 53D(10)(a) of the Act, the registrar must send the marriage document or marriage schedule to the superintendent registrar in whose district the marriage was solemnized.
+
+(2) A superintendent registrar who receives a marriage document or marriage schedule under paragraph (1) must keep it, together with the records of the superintendent registrar’s office, for at least 5 years beginning with the day on which the superintendent registrar receives it.
+
+### 11C. Closure of marriage register books kept for registration of marriages solemnized in a registered building without the presence of a registrar
+
+(1) This regulation applies to a marriage register book—
+
+- (a) which, immediately before 4th May 2021, was kept for the purpose of registering marriages solemnized in a registered building without the presence of a registrar (and which had therefore not been filled immediately before that date), and
+- (b) in which the particulars of at least one marriage have been registered.
+
+(2) Until the obligation under paragraph (3)(b) has been complied with in relation to the marriage register book or the duplicate copy of that book, the authorised person for the registered building must keep the marriage register book—
+
+- (a) in the registered building or in any other place where it was lawfully kept immediately before 4th May 2021, and
+- (b) locked in a strong fire-resisting receptacle, except when access to it is required to register the particulars of a marriage or for the purposes of paragraph (3), or for any other lawful purpose.
+
+(3) Subject to paragraph (4), the authorised person for the registered building must ensure that—
+
+- (a) the marriage register book is closed as soon as practicable by striking through, in ink, all unused entries in it, and
+- (b) the marriage register book or its duplicate copy (but not both) is sent to the appropriate superintendent registrar as soon as practicable after both copies have been closed under sub-paragraph (a).
+
+(4) Paragraph (3) does not apply in relation to a marriage register book until all the particulars of every pre-commencement marriage required to be registered in that marriage register book have been registered in that book and in the other copy of that book kept for that purpose.
+
+(5) References in this regulation to the authorised person for a registered building are references to the authorised persons for the building where there is more than one authorised person for the building.
+
+(6) In this regulation—
+
+- “the appropriate superintendent registrar” means the superintendent registrar of the registration district where the registered building is situated;
+- “pre-commencement marriage” means a marriage solemnized in the registered building before 4th May 2021 without the presence of a registrar.
+
+### 11D. Closure of marriage register books kept by a registrar
+
+(1) This regulation applies to a marriage register book—
+
+- (a) which was in the custody of a registrar under section 59 of the Act immediately before 4th May 2021 (and which had therefore not been filled immediately before that date), and
+- (b) in which the particulars of at least one marriage have been registered.
+
+(2) Until the obligation under paragraph (5) has been complied with in relation to the marriage register book, the registrar must continue to keep it in the manner in which it was required to be kept under section 59 of the Act immediately before 4th May 2021.
+
+(3) Subject to paragraph (4), the registrar must close the marriage register book as soon as practicable by striking through, in ink, all unused entries in it.
+
+(4) Paragraph (3) does not apply in relation to a marriage register book until all the particulars of every pre-commencement marriage required to be registered in that marriage register book have been registered in it.
+
+(5) As soon as practicable after the registrar has closed the marriage register book under paragraph (3) and made all copies of entries in the book required for the purposes of complying with section 57 of the Act, the registrar must send the book to the appropriate superintendent registrar.
+
+(6) In this regulation—
+
+- “the appropriate superintendent registrar” means the superintendent registrar of the registration district where the premises in which the marriage register book was kept immediately before 4th May 2021 are situated;
+- “pre-commencement marriage” means a marriage solemnized in the presence of the registrar before 4th May 2021.
+
+### 11E. Continued custody of marriage register books used for marriages solemnized in a registered building without the presence of a registrar
+
+(1) This regulation applies to a marriage register book which has been used for the registration of marriages solemnized in a registered building without the presence of a registrar and which—
+
+- (a) has been closed under regulation 11C and its duplicate copy delivered to a superintendent registrar, or
+- (b) was, immediately before 4th May 2021, required by section 60(1)(c) of the Act to be kept in prescribed custody (within the meaning of that section).
+
+(2) Subject to regulation 11F, the authorised person for the registered building must keep the marriage register book—
+
+- (a) in the registered building, and
+- (b) locked in a strong fire-resisting receptacle, except when access to it is required for a lawful purpose.
+
+(3) Where there is more than one authorised person for the registered building, the reference to the authorised person in paragraph (2) is a reference to the authorised persons for the building.
+
+### 11F. Transfer of marriage register books when registration of a building is cancelled
+
+(1) Subject to paragraph (2), where an application is made under section 42, 43C or 70 of the Act to cancel the registration of a registered building, each authorised person for the registered building must ensure that every marriage register book kept in that building is sent immediately to the Registrar General.
+
+(2) Where an application referred to in paragraph (1) is made without the knowledge of an authorised person for the building, the obligation under paragraph (1) does not apply in relation to that authorised person until that authorised person becomes aware that the application has been made.
+
+### 11G. Keeping of marriage register books by superintendent registrars
+
+(1) Where a filled marriage register book is in the keeping of a superintendent registrar immediately before 4th May 2021, the superintendent registrar must continue to keep it with the records of the superintendent registrar’s office.
+
+(2) A superintendent registrar to whom a marriage register book is sent under regulation 11C or 11D must keep it with the records of the superintendent registrar’s office.
+
+## PART 2C — Correction of marriage schedules, marriage documents, marriage register books and the marriage register
+
+### 11H. Correction of marriage schedule: marriage to be solemnized in presence of registrar or authorised person
+
+(1) This regulation applies where—
+
+- (a) a marriage is to be solemnized on the authority of a marriage schedule in the presence of a registrar or in a registered building in the presence of an authorised person, and
+- (b) it appears to the registrar or the authorised person, before the marriage is solemnized, that the marriage schedule requires correction.
+
+(2) For the purposes of this regulation, a marriage schedule requires correction so far as—
+
+- (a) any particulars (other than signatures) are missing from any of spaces 1 to 6, 8, 10 and 11 on the marriage schedule form,
+- (b) any particulars in spaces 1 to 7 on the form have been incorrectly entered or are otherwise inaccurate,
+- (c) particulars are included, in relation to a party, in space 7 (particulars of parents or step-parents) on the form about any person whose particulars the party does not wish the schedule to include, or
+- (d) there are no particulars in that space, in relation to a party, about a parent or step-parent of that party whose particulars the party wishes the schedule to include, and the party has provided the required particulars of that parent or step-parent to the registrar or authorised person in whose presence the marriage is to be solemnized.
+
+(3) Subject to the following provisions of this regulation, the registrar or authorised person must make the amendments necessary to correct the marriage schedule, so far as it appears to require correction, before the marriage is solemnized.
+
+(4) Where a marriage schedule appears to require correction for the reason in paragraph (2)(b), an amendment made under paragraph (3) to correct the incorrectly entered or inaccurate particulars must be made in such a way that those particulars remain legible.
+
+(5) Where the marriage schedule appears to require correction for the reason in paragraph (2)(d), the registrar or authorised person—
+
+- (a) must enter the particulars of the parent or step-parent provided by the party in space 7 on the form in accordance with regulation 9C(2) or (3) (as the case may be) as though the registrar or authorised person were a superintendent registrar entering particulars under that regulation, but
+- (b) must not enter any particulars of any parent or step-parent in relation to the party if the result would be that, when the marriage is solemnized, space 7 in the column relating to that party on the form contains particulars of more than four individuals in total.
+
+(6) Where a registrar or authorised person corrects or adds particulars in space 4 (condition of the parties) on a marriage schedule form under this regulation, regulation 9B applies to determine what is to be entered in that space by the registrar or authorised person as it does to prescribe the content of that space in a marriage schedule issued by a superintendent registrar.
+
+(7) Where the marriage schedule was issued in Wales and appears to require correction for the reason in paragraph (2)(a) or (b), any amendment to make the necessary correction—
+
+- (a) must be made in English where it is made to add missing particulars which were required to be entered in English or to correct incorrectly entered or inaccurate particulars which were entered or required to be entered in English, and
+- (b) must be made in Welsh where it is made to add missing particulars which were required to be entered in Welsh or to correct incorrectly entered or inaccurate particulars which were entered or required to be entered in Welsh.
+
+(8) Where the marriage schedule was issued in Wales, contains particulars entered in Welsh and appears to require correction for the reason in paragraph (2)(d), any necessary amendment must be made by adding particulars in English and Welsh.
+
+(9) An amendment made under paragraph (3) must be made—
+
+- (a) in the presence of the parties to the marriage, and
+- (b) in ink of durable quality.
+
+(10) A registrar or authorised person making an amendment under paragraph (3) to particulars in any of spaces 1 to 7, 8, 10 and 11 of a marriage schedule form must initial the amendment, and ensure that it is initialled by the parties to the marriage, before the marriage is solemnized.
+
+(11) For the purposes of paragraph (2)(b), particulars in space 7 on a marriage schedule form—
+
+- (a) are not inaccurate by reason only of the fact that any particular person either is or is not included as a parent or step-parent of the party, but
+- (b) are inaccurate so far as they fail to include—
+  - (i) the word “deceased” in relation to a parent or step-parent who has died, or
+  - (ii) the word “retired” in relation to a parent or step-parent who has retired from a former occupation stated in the particulars relating to that parent or step-parent.
+
+(12) For the purposes of paragraph (2)(b), particulars in space 4 on a marriage schedule form are not inaccurate so far as they describe a party as “Single” as a result of that word having been entered in relation to that party in that space at that party’s request in accordance with these Regulations.
+
+(13) For the purposes of paragraph (2)(d), the “required particulars” of a parent or step-parent are the parent’s or step-parent’s—
+
+- (a) name and surname, and
+- (b) current occupation or, if the parent or step-parent has no current occupation or has died, former occupation (if any).
+
+### 11I. Correction of marriage schedule: other marriages to be solemnized on authority of marriage schedule
+
+(1) This regulation applies where a marriage is to be solemnized on the authority of a marriage schedule according to—
+
+- (a) the rites of the Church of England,
+- (b) the usages of the Society of Friends, or
+- (c) the usages of the Jews.
+
+(2) Where it appears to the specified person who is to sign the marriage schedule, before the marriage is solemnized, that the marriage schedule requires correction, the specified person may make amendments to the marriage schedule to correct it, so far as it appears to require correction.
+
+(3) But a marriage schedule may only be corrected—
+
+- (a) in a manner permitted by this regulation, and
+- (b) before the marriage is solemnized.
+
+(4) For the purposes of this regulation, a marriage schedule requires correction so far as—
+
+- (a) any particulars (other than signatures) are missing from any of spaces 1 to 6, 8, 10 and 11 on the marriage schedule form,
+- (b) any particulars in spaces 1 to 7 on the form have been incorrectly entered or are otherwise inaccurate,
+- (c) particulars are included, in relation to a party, in space 7 (particulars of parents or step-parents) on the form about any person whose particulars the party does not wish the schedule to include, or
+- (d) there are no particulars in that space, in relation to a party, about a parent or step-parent of that party whose particulars the party wishes the schedule to include, and the party has provided the required particulars of that parent or step-parent to the registrar or authorised person in whose presence the marriage is to be solemnized.
+
+(5) So far as a marriage schedule appears to require correction for the reason in paragraph (4)(b), it may only be amended in such a way that the incorrectly entered or inaccurate particulars remain legible.
+
+(6) So far as a marriage schedule appears to require correction for the reason in paragraph (4)(d), it may only be corrected—
+
+- (a) by entering the particulars of the parent or step-parent provided by the party in space 7 on the marriage schedule form as required by regulation 9C(2) or (3) (as the case may be) in relation to the entering of particulars of a parent or step-parent by a superintendent registrar required to issue a marriage schedule under section 31(2) of the Act, and
+- (b) if the result would be that, when the marriage is solemnized, space 7 in the column relating to that party on the form contains particulars of no more than four individuals in total.
+
+(7) No amendment is permitted to the particulars in space 4 (condition of the parties) on the marriage schedule form except an amendment which results in particulars being entered in that space as required by regulation 9B in relation to the entering of particulars in that space by a superintendent registrar issuing a marriage schedule under section 31(2) of the Act.
+
+(8) So far as a marriage schedule issued in Wales appears to require correction for the reason in paragraph (4)(a) or (b)—
+
+- (a) an amendment made to add missing particulars which were required to be entered in English, or to correct incorrectly entered or inaccurate particulars which were entered or required to be entered in English, may only be made in English, and
+- (b) an amendment made to add missing particulars which were required to be entered in Welsh, or to correct incorrectly entered or inaccurate particulars which were entered or required to be entered in Welsh, may only be made in Welsh.
+
+(9) Where the marriage schedule was issued in Wales, contains particulars entered in Welsh and appears to require correction for the reason in paragraph (4)(d), any necessary amendment may only be made by adding particulars in English and Welsh.
+
+(10) For the purposes of paragraph (4)(b), particulars in space 7 on a marriage schedule form—
+
+- (a) are not inaccurate by reason only of the fact that any particular person either is or is not included as a parent or step-parent of the party, but
+- (b) are inaccurate so far as they fail to include—
+  - (i) the word “deceased” in relation to a parent or step-parent who has died, or
+  - (ii) the word “retired” in relation to a parent or step-parent who has retired from a former occupation stated in the particulars relating to that parent or step-parent.
+
+(11) For the purposes of paragraph (4)(b), particulars in space 4 on a marriage schedule form are not inaccurate so far as they describe a party as “Single” as a result of that word having been entered in relation to that party in that space at that party’s request in accordance with these Regulations.
+
+(12) In paragraph (2) “the specified person” has the same meaning as in section 53C of the Act (signing of a marriage schedule).
+
+(13) For the purposes of paragraph (4)(d), the “required particulars” of a parent or step-parent are the parent’s or step-parent’s—
+
+- (a) name and surname, and
+- (b) current occupation or, if the parent or step-parent has no current occupation or has died, former occupation (if any).
+
+### 11J. Correction of marriage document
+
+(1) This regulation applies where a marriage is to be solemnized—
+
+- (a) after the publication of banns,
+- (b) on the authority of a special licence, or
+- (c) on the authority of a common licence.
+
+(2) Where it appears to the clergyman by whom the marriage is to be solemnized, before the marriage is solemnized, that the marriage document for the marriage requires correction, the clergyman may make amendments to the marriage document to correct it, so far as it appears to require correction.
+
+(3) But a marriage document may only be corrected—
+
+- (a) in a manner permitted by this regulation, and
+- (b) before the marriage is solemnized.
+
+(4) For the purposes of this regulation, a marriage document requires correction so far as—
+
+- (a) any particulars (other than signatures) are missing from any of spaces 1 to 6, 8, 10 and 11 on the marriage document form,
+- (b) any particulars in spaces 1 to 7 on the form have been incorrectly entered or are otherwise inaccurate,
+- (c) particulars are included, in relation to a party, in space 7 (particulars of parents or step-parents) on the form about any person whose particulars the party does not wish the marriage document to include, or
+- (d) there are no particulars in that space, in relation to a party, about a parent or step-parent of that party whose particulars the party wishes the marriage document to include, and the party has provided the required particulars of that parent or step-parent to the clergyman by whom the marriage is to be solemnized.
+
+(5) So far as a marriage document appears to require correction for the reason in paragraph (4)(b), it may only be amended in such a way that the incorrectly entered or inaccurate particulars remain legible.
+
+(6) So far as a marriage document appears to require correction for the reason in paragraph (4)(d), it may only be corrected—
+
+- (a) by entering the particulars of the parent or step-parent provided by the party in space 7 on the marriage document form as required by regulation 10C(2) or (3) (as the case may be) in relation to the entering of particulars of a parent or step-parent by a person required to issue a marriage document under section 21A(2) of the Act, and
+- (b) if the result would be that, when the marriage is solemnized, space 7 in the column relating to that party on the form contains particulars of no more than four individuals in total.
+
+(7) No amendment is permitted to the particulars in space 4 (condition of the parties) on the marriage document form except an amendment which results in particulars being entered in that space as required by regulation 10B in relation to the entering of particulars in that space by a person required to issue a marriage document under section 21A(2) of the Act.
+
+(8) So far as a marriage document issued in Wales appears to require correction for the reason in paragraph (4)(a) or (b)—
+
+- (a) an amendment made to add missing particulars which were required to be entered in English, or to correct incorrectly entered or inaccurate particulars which were entered or required to be entered in English, may only be made in English, and
+- (b) an amendment made to add missing particulars which were required to be entered in Welsh, or to correct incorrectly entered or inaccurate particulars which were entered or required to be entered in Welsh, may only be made in Welsh.
+
+(9) Where the marriage document was issued in Wales, contains particulars entered in Welsh and appears to require correction for the reason in paragraph (4)(d), any necessary amendment may only be made by adding particulars in English and Welsh.
+
+(10) For the purposes of paragraph (4)(b), particulars in space 7 on a marriage document form—
+
+- (a) are not inaccurate by reason only of the fact that any particular person either is or is not included as a parent or step-parent of the party, but
+- (b) are inaccurate so far as they fail to include—
+  - (i) the word “deceased” in relation to a parent or step-parent who has died, or
+  - (ii) the word “retired” in relation to a parent or step-parent who has retired from a former occupation stated in the particulars relating to that parent or step-parent.
+
+(11) For the purposes of paragraph (4)(b), particulars in space 4 on a marriage document form are not inaccurate so far as they describe a party as “Single” as a result of that word having been entered in relation to that party in that space at that party’s request in accordance with these Regulations.
+
+(12) For the purposes of paragraph (4)(d), the “required particulars” of a parent or step-parent are the parent’s or step-parent’s—
+
+- (a) name and surname, and
+- (b) current occupation or, if the parent or step-parent has no current occupation or has died, former occupation (if any).
+
+### 11K. Correction of marriage register book kept by superintendent registrar
+
+(1) A person may apply to have an entry in a marriage register book kept by a superintendent registrar corrected where—
+
+- (a) the entry relates to a marriage to which that person is or was party, and
+- (b) that person considers that there is an error in the form or substance of the entry, made when the marriage was registered under section 55 of the Act.
+
+(2) An application under paragraph (1) must be made in writing to the superintendent registrar by whom the book is kept.
+
+(3) Paragraphs (4) to (14) apply where—
+
+- (a) a person makes an application to a superintendent registrar under sub-paragraph (1), or
+- (b) it appears to a superintendent registrar (otherwise than as a result of such an application) that there is an error in the form or substance of an entry in a marriage register book kept by that superintendent registrar, made when the marriage was registered under paragraph 55 of the Act.
+
+(4) Where a duplicate copy of the marriage register book is kept by any person, the superintendent registrar must request a copy of the corresponding entry in that duplicate copy from that person.
+
+(5) An authorised person who receives a request under paragraph (4) must comply with it as soon as reasonably practicable.
+
+(6) The superintendent registrar must make a report to the Registrar General about any application under paragraph (1) or any apparent error mentioned in paragraph (3)(b), after having considered any copy provided in response to a request under paragraph (4).
+
+(7) The superintendent registrar’s report must contain such information as the Registrar General may require.
+
+(8) If the Registrar General, having considered a report under paragraph (6), is satisfied that there is an error in the form or substance of the entry, made when the marriage was registered under section 55 of the Act, the Registrar General may give an instruction to the superintendent registrar about correcting the entry.
+
+(9) An instruction under paragraph (8) requiring the correction, in a marriage register book kept in Wales, of an error or omission in particulars entered or required to be entered in English must require the correction to be made in English.
+
+(10) An instruction under paragraph (8) requiring the correction, in a marriage register book kept in Wales, of an error or omission in particulars entered or required to be entered in Welsh must require the correction to be made in Welsh.
+
+(11) An instruction under paragraph (8) may require the superintendent registrar to make a note in the margin of the marriage register book in which the entry appears.
+
+(12) The superintendent registrar must comply with any instruction given by the Registrar General under paragraph (8).
+
+(13) The superintendent registrar must comply with the instruction within 7 days beginning with the day on which the superintendent registrar receives it.
+
+(14) Where a superintendent registrar corrects an entry under this regulation, the superintendent registrar must, as soon as practicable, send to the Registrar General—
+
+- (a) a copy of the corrected entry, and
+- (b) a copy of any marginal note referred to in paragraph (11).
+
+### 11L. Correction of the marriage register by the Registrar General
+
+(1) For the purposes of this regulation, there is an error in an entry in the marriage register relating to a marriage so far as—
+
+- (a) any particulars required by section 53D(10)(a) of the Act to be entered in the register in respect of the marriage were omitted from the entry or entered incorrectly, or
+- (b) the entry contains any particulars which were inaccurate at the time when the marriage was solemnized, despite being correctly entered in the register under that section.
+
+(2) Where a person considers that there is an error in an entry in the marriage register relating to a marriage to which that person is or was party, that person may apply to have the entry amended to correct the error.
+
+(3) An application under paragraph (2) must be made in writing to a superintendent registrar.
+
+(4) Paragraphs (5) to (11) apply where—
+
+- (a) a person makes an application to a superintendent registrar under paragraph (2), or
+- (b) it appears to a superintendent registrar (otherwise than as a result of such an application) that there is an error in an entry in the marriage register.
+
+(5) The superintendent registrar must report the matter to the Registrar General.
+
+(6) The superintendent registrar’s report must contain such information as the Registrar General may require.
+
+(7) The Registrar General may request evidence in relation to the matter from the applicant (if any) or require evidence in relation to the matter from the superintendent registrar.
+
+(8) If the Registrar General is satisfied, on the basis of the superintendent registrar’s report and any evidence provided under paragraph (7), that there is an error in an entry in the marriage register, the Registrar General may amend the entry to correct the error.
+
+(9) Subject to paragraph (10), where the Registrar General amends an entry under this regulation to correct particulars which the Registrar General considers were entered incorrectly under section 53D(10)(a) of the Act or were inaccurate at the time when the marriage was solemnized despite being entered correctly, the Registrar General must make the amendment in such a way that the amended entry does not show those incorrectly entered or inaccurate particulars.
+
+(10) The Registrar General is permitted to make only a marginal note in the register to correct an error under this regulation where the Registrar General considers that the error in the entry exists because of an error made by a party to the marriage in providing information—
+
+- (a) in connection with giving notice of the marriage under section 27 of the Act, or
+- (b) to the specified person required to sign the marriage schedule in respect of the marriage under section 53C(6) or (7) of the Act or (as the case may be) the clergyman required to sign the marriage document in respect of the marriage under section 53B(4) of the Act.
+
+(11) An amendment made under this regulation to an entry in the marriage register must be made—
+
+- (a) in English if it is made to correct particulars entered or required to be entered in English, or to add omitted particulars which were required to be entered in English;
+- (b) in Welsh if it is made to correct particulars entered or required to be entered in Welsh, or to add omitted particulars which were required to be entered in Welsh.
+
+(12) For the purposes of this regulation, particulars in an entry in the marriage register relating to a party’s parents or step-parents—
+
+- (a) are not inaccurate by reason only of the fact that any particular person either is or is not included as a parent or step-parent of the party, but
+- (b) are inaccurate so far as they fail to include—
+  - (i) the word “deceased” in relation to a parent or step-parent who had died, or
+  - (ii) the word “retired” in relation to a parent or step-parent who had retired from a former occupation stated in the particulars relating to that parent or step-parent.
+
+(13) For the purposes of this regulation, particulars in any entry in the marriage register relating to the condition of a party are not inaccurate so far as they describe a party as “Single” as a result of that word having been entered in relation to that party in space 4 on the marriage schedule form or marriage document form in respect of the marriage at that party’s request in accordance with these Regulations.
+
+## PART 3 — Registration of Marriage[^key-edc218e8c20e807cdaa3b36e4300b1af]
+
+**No longer in force.**
+
+### 12. Form of registration of particulars and place of registration[^key-edc218e8c20e807cdaa3b36e4300b1af]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 13. Manner of registration[^key-edc218e8c20e807cdaa3b36e4300b1af]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 14. Form of attestation[^key-edc218e8c20e807cdaa3b36e4300b1af]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 15. Signing the register[^key-edc218e8c20e807cdaa3b36e4300b1af]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART 4 — Correction of Errors[^key-1456a52187e261c576fc161845bddbb2]
+
+**No longer in force.**
+
+### 16. Time when entry is complete[^key-1456a52187e261c576fc161845bddbb2]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 17. Correction of errors in Wales[^key-1456a52187e261c576fc161845bddbb2]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 18. Correction of errors before entry is complete[^key-1456a52187e261c576fc161845bddbb2]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 19. Correction of errors in completed entry[^key-1456a52187e261c576fc161845bddbb2]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 20. Copy of corrected or annotated entry to be sent to Registrar General[^key-1456a52187e261c576fc161845bddbb2]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART 5 — Miscellaneous Provisions
+
+### 21. Certified copies[^key-d2754bc04250ee3389f3da5988dec6b0]
+
+Where a certified copy of an entry in a marriage register book containing English only, or in a certified copy of such a book, is made on a form containing both English and Welsh but the particulars in the original entry and those entered in the certified copy of that entry do not differ in any other respect, the certified copy is to be treated as a true copy of the original entry.
+
+### 22. Quarterly certified copies[^key-bb81c55e317cc0ea7ef498d2e5a8ee68]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 23. Offences and proceedings[^key-8c00a0cb77109f67ace446e42dad83b4]
+
+(1) If it appears to a superintendent registrar or a registrar that any offence under or breach of the Act or the 1970 Act or, so far as they relate to marriages, the Perjury Act 1911[^f00026] or the Forgery or Counterfeiting Act 1981[^f00027] has been committed, he or she must report the matter to the Registrar General and must deliver to the Registrar General such documents in his or her possession relating to the offence or breach as the Registrar General may require.
+
+(2) Except with the authority of the Registrar General, a superintendent registrar must not commence any proceedings in respect of an offence under section 76(1) [^key-f2d27637f22ab92dc81f7cc9fb83c91b]... of the Act[^f00028].
+
+### 24. Revocations[^key-ee592f1159ac2c8308314eb7e17914b2]
+
+The Regulations listed in column 1 of the table in Schedule 4 are revoked to the extent specified in column 3 of the table.
+
+Given under my hand on
+
+Paul Pugh
+
+Registrar General
+
+5th February 2015
+
+I approve
+
+James Brokenshire
+
+Minister of State
+
+Home Office
+
+4th February 2015
+
+## SCHEDULE 1 — Prescribed Forms[^key-7ee9e75209e1daf90d8e13c1019689ae]
+
+Regulation 2(2)
+
+| **Form** | **Relevant regulation** | **Description** | **Statutory purpose** |
+| --- | --- | --- | --- |
+| 1 | 4(1)(a)(i) | Notice of marriage to be given where both parties are relevant nationals and aged 18 or over | Section 27(1) Marriage Act 1949 |
+| 1(w) | 4(1)(a)(i) | Notice of marriage to be given where both parties are relevant nationals and aged 18 or over (with Welsh translation) | Section 27(1) Marriage Act 1949 |
+| 2 | 4(1)(a)(ii) | Notice of marriage to be given where both parties are relevant nationals and where either party is, or both parties are aged under 18 but will be aged 18 on the day that the marriage schedule is due to be issued[^key-1e5476f2fa52c637870941b79d6df889] | Section 27(1) Marriage Act 1949 |
+| 2(w) | 4(1)(a)(ii) | Notice of marriage to be given where both parties are relevant nationals and where one party is, or both parties are, aged under 18 but will be aged 18 on the day that the marriage schedule is due to be issued[^key-47c5487a22a45ae45d31ba6af65d7372] (with Welsh translation) | Section 27(1) Marriage Act 1949 |
+| 3 | 4(1)(b)(i) | Notice of marriage to be given where one party is not, or neither party is, a relevant national and both parties are aged 18 or over | Section 27(1) Marriage Act 1949 |
+| 3(w) | 4(1)(b)(i) | Notice of marriage to be given where one party is not, or neither party is, a relevant national and both parties are aged 18 or over (with Welsh translation) | Section 27(1) Marriage Act 1949 |
+| 4 | 4(1)(b)(ii) | Notice of marriage to be given where one party is not, or neither party is, a relevant national and where one party is, or both parties are, aged under 18 but will be aged 18 on the day that the marriage schedule is due to be issued[^key-d9b7fdb29a6e45542f9976ebbf08ecde] | Section 27(1) Marriage Act 1949 |
+| 4(w) | 4(1)(b)(ii) | Notice of marriage to be given where one party is not, or neither party is, a relevant national and where one party is, or both parties are, aged under 18 but will be aged 18 on the day that the marriage schedule is due to be issued[^key-97e89b87a17629c3218f2ef63354c4d0] (with Welsh translation) | Section 27(1) Marriage Act 1949 |
+| 5 | 4(2) | Notice of marriage by Registrar General’s licence | Section 2(1) Marriage (Registrar General’s Licence) Act 1970 |
+| 5(w) | 4(2) | Notice of marriage by Registrar General’s licence (with Welsh translation) | Section 2(1) Marriage (Registrar General’s Licence) Act 1970 |
+| 6 | 5 | Endorsement on notice of marriage | Section 35(1) Marriage Act 1949 |
+| 6(w) | 5 | Endorsement on notice of marriage (with Welsh translation) | Section 35(1) Marriage Act 1949 |
+| 7 | 6(1) | Statement of registered medical practitioner | Section 27A(2) Marriage Act 1949 |
+| 7(w) | 6(1) | Statement of registered medical practitioner (with Welsh translation) | Section 27A(2) Marriage Act 1949 |
+| 8 | 6(2) | Statement by responsible authority | Section 27A(3) Marriage Act 1949 |
+| 8(w) | 6(2) | Statement by responsible authority (with Welsh translation) | Section 27A(3) Marriage Act 1949 |
+| 9 | 6(3) | Particulars of person by or before whom marriage is to be solemnized | Section 27A(4) Marriage Act 1949 |
+| 9(w) | 6(3) | Particulars of person by or before whom marriage is to be solemnized (with Welsh translation) | Section 27A(4) Marriage Act 1949 |
+| 10 | 7(1) | Declaration for marriages of certain persons related by affinity | Section 27B(2)(b) Marriage Act 1949 |
+| 10(w) | 7(1) | Declaration for marriages of certain persons related by affinity (with Welsh translation) | Section 27B(2)(b) Marriage Act 1949 |
+| 11 | 9(1)(c) | Application to reduce the 28 day waiting period | Section 31(5A) Marriage Act 1949 |
+| 11(w) | 9(1)(c) | Application to reduce the 28 day waiting period (with Welsh translation) | Section 31(5A) Marriage Act 1949 |
+| 11A[^key-70965dcae9746c5fed4d4aed29817f9d] | 9A(1) | Marriage schedule for any marriage other than a marriage to be solemnized in the presence of a superintendent registrar and a registrar | Section 31(2) Marriage Act 1949 |
+| 11A(w) | 9A(1) | Marriage schedule for any marriage other than a marriage to be solemnized in the presence of a superintendent registrar and a registrar (with Welsh translation) | Section 31(2) Marriage Act 1949 |
+| 11B | 9A(2) | Marriage schedule for a marriage to be solemnized in the presence of a superintendent registrar and a registrar | Section 31(2) Marriage Act 1949 |
+| 11B(w) | 9A(2) | Marriage schedule for a marriage to be solemnized in the presence of a superintendent registrar and a registrar (with Welsh translation) | Section 31(2) Marriage Act 1949 |
+| 12[^key-a0805c4396d3de4e3a12df906f608692] | 9D(1) | Approved certificate for marriage intended to be solemnized in Scotland where one or both parties are residing in England or Wales | Section 31(2) Marriage Act 1949, as applied by section 1(3) of the Marriage (Scotland) Act 1956 |
+| 12(w) | 9D(1) | Approved certificate for marriage intended to be solemnized in Scotland where one or both parties are residing in England or Wales (with Welsh translation) | Section 31(2) Marriage Act 1949, as applied by section 1(3) of the Marriage (Scotland) Act 1956 |
+| 13 | 10(2) | Registrar General’s licence for marriage | Section 7 Marriage (Registrar General’s Licence) Act 1970 |
+| 13A[^key-822add0eb76f1af68e6b2a9e260e2658] | 10A | Marriage document | Section 21A(2) Marriage Act 1949 |
+| 13A(w) | 10A | Marriage document (with Welsh translation) | Section 21A(2) Marriage Act 1949 |
+| [^key-44e91e93a7d0d52e5eacae8df47f3b06]. . . | [^key-44e91e93a7d0d52e5eacae8df47f3b06]. . . | [^key-44e91e93a7d0d52e5eacae8df47f3b06]. . . | [^key-44e91e93a7d0d52e5eacae8df47f3b06]. . . |
+| [^key-44e91e93a7d0d52e5eacae8df47f3b06]. . . | [^key-44e91e93a7d0d52e5eacae8df47f3b06]. . . | [^key-44e91e93a7d0d52e5eacae8df47f3b06]. . . | [^key-44e91e93a7d0d52e5eacae8df47f3b06]. . . |
+| 14A[^key-d9c9a4e5c610681252e1787478949580] | 11(2) | Form of instructions to be given when issuing marriage schedule | Section 31(5) Marriage Act 1949 |
+| 14A(w) | 11(2) | Form of instructions to be given when issuing marriage schedule (with Welsh translation) | Section 31(5) Marriage Act 1949 |
+| [^key-e633073cdc0b48d1c06150d6b7fad5ca]. . . | [^key-e633073cdc0b48d1c06150d6b7fad5ca]. . . | [^key-e633073cdc0b48d1c06150d6b7fad5ca]. . . | [^key-e633073cdc0b48d1c06150d6b7fad5ca]. . . |
+| [^key-e633073cdc0b48d1c06150d6b7fad5ca]. . . | [^key-e633073cdc0b48d1c06150d6b7fad5ca]. . . | [^key-e633073cdc0b48d1c06150d6b7fad5ca]. . . | [^key-e633073cdc0b48d1c06150d6b7fad5ca]. . . |
+| [^key-ce0e37189af49f6f9712844d76443b0a]. . . | [^key-ce0e37189af49f6f9712844d76443b0a]. . . | [^key-ce0e37189af49f6f9712844d76443b0a]. . . | [^key-ce0e37189af49f6f9712844d76443b0a]. . . |
+| [^key-ce0e37189af49f6f9712844d76443b0a]. . . | [^key-ce0e37189af49f6f9712844d76443b0a]. . . | [^key-ce0e37189af49f6f9712844d76443b0a]. . . | [^key-ce0e37189af49f6f9712844d76443b0a]. . . |
+
+[^key-7686168ae74e3a1450df0337f7d88130]**Form 1, notice of marriage, regulation 4(1)(a)(i), section 27(1) Marriage Act 1949**
+
+[image: see source](https://www.legislation.gov.uk/uksi/2015/207/images/uksi_20150207_en_epp_015.gif)
+
+[^M_F_c9e576e2-0c94-479e-b726-2bcd1f04cf1e]**Form 1(w), notice of marriage (with Welsh translation), regulation 4(1)(a)(i), section 27(1) Marriage Act 1949**
+
+[image: see source](https://www.legislation.gov.uk/uksi/2015/207/images/uksi_20150207_en_epp_016.gif)
+
+[^key-9f68b6af7389b903cc0b67e6a6cfc0b6]**Form 2, notice of marriage, regulation 4(1)(a)(ii), section 27(1) Marriage Act 1949**
+
+[image: see source](https://www.legislation.gov.uk/uksi/2015/207/images/uksi_20150207_en_epp_026.gif)
+
+[^key-21a6520fdf91d3c7476a7406d38406e8]**Form 2(w), notice of marriage (with Welsh translation), regulation 4(1)(a)(ii), section 27(1) Marriage Act 1949**
+
+[image: see source](https://www.legislation.gov.uk/uksi/2015/207/images/uksi_20150207_en_epp_027.gif)
+
+[^key-55c99f0009c91cf6a42d571deaf36fd9]**Form 3, notice of marriage, regulation 4(1)(b)(i), section 27(1) Marriage Act 1949**
+
+[image: see source](https://www.legislation.gov.uk/uksi/2015/207/images/uksi_20150207_en_epp_019.gif)
+
+[^M_F_8c2d61de-dc3e-4c31-e8d7-c2a35b8f5d8d]**Form 3(w), notice of marriage (with Welsh translation), regulation 4(1)(b)(i), section 27(1) Marriage Act 1949**
+
+[image: see source](https://www.legislation.gov.uk/uksi/2015/207/images/uksi_20150207_en_epp_020.gif)
+
+[^key-a8f122b4001b2bc4ed65e98eb2a47655]**Form 4, notice of marriage, regulation 4(1)(b)(ii), section 27(1) Marriage Act 1949**
+
+[image: see source](https://www.legislation.gov.uk/uksi/2015/207/images/uksi_20150207_en_epp_028.gif)
+
+[^key-3c1feaf349f59e49b1ee6ad2407cf263]**Form 4(w), notice of marriage (with Welsh translation), regulation 4(1)(b)(ii), section 27(1) Marriage Act 1949**
+
+[image: see source](https://www.legislation.gov.uk/uksi/2015/207/images/uksi_20150207_en_epp_029.gif)
+
+[^key-9ec2aad4ebda8d36775d0d23ecddecb1]**Form 5, notice of marriage, regulation 4(2), section 2(1) Marriage (Registrar General’s Licence) Act 1970**
+
+[image: see source](https://www.legislation.gov.uk/uksi/2015/207/images/uksi_20150207_en_epp_033.gif)
+
+[^key-37ecbf1df8378954044d05172dd07e3b]**Form 5(w), notice of marriage (with Welsh translation), regulation 4(2), section 2(1) Marriage (Registrar General’s Licence) Act 1970**
+
+[image: see source](https://www.legislation.gov.uk/uksi/2015/207/images/uksi_20150207_en_epp_034.gif)
+
+[^key-e4d90fa1ad8568f17ddbf50f11e514b6]**Form 8**
+
+[image: see source](https://www.legislation.gov.uk/uksi/2015/207/images/uksi_20150207_en_epp_044.gif)[image: see source](https://www.legislation.gov.uk/uksi/2015/207/images/uksi_20150207_en_epp_046.gif)
+
+[^key-be564d76bbdcb13f5b0d40e414968fe9]**Form 8(w)**
+
+[image: see source](https://www.legislation.gov.uk/uksi/2015/207/images/uksi_20150207_en_epp_047.gif)[image: see source](https://www.legislation.gov.uk/uksi/2015/207/images/uksi_20150207_en_epp_048.gif)
+
+**Form 9**
+
+[image: see source](https://www.legislation.gov.uk/uksi/2015/207/images/uksi_20150207_en_017)
+
+**Form 9(w)**
+
+[image: see source](https://www.legislation.gov.uk/uksi/2015/207/images/uksi_20150207_en_018)
+
+**Form 10**
+
+[image: see source](https://www.legislation.gov.uk/uksi/2015/207/images/uksi_20150207_en_019)
+
+**Form 10(w)**
+
+[image: see source](https://www.legislation.gov.uk/uksi/2015/207/images/uksi_20150207_en_020)[image: see source](https://www.legislation.gov.uk/uksi/2015/207/images/uksi_20150207_en_021)
+
+[^key-7ee9e75209e1daf90d8e13c1019689ae]
+
+**Form 11, application to reduce the 28 day waiting period, regulation 9(1)(c), section 31(5A) Marriage Act 1949**
+
+[image: see source](https://www.legislation.gov.uk/uksi/2015/207/images/uksi_20150207_en_022)
+
+[^key-7ee9e75209e1daf90d8e13c1019689ae]
+
+**Form 11(w), application to reduce the 28 day waiting period (with Welsh translation), regulation 9(1)(c), section 31(5A) Marriage Act 1949**
+
+[image: see source](https://www.legislation.gov.uk/uksi/2015/207/images/uksi_20150207_en_023)
+
+[^key-26f2209b49c2e85d48a8339bcbbf3990]**Form 11A**
+
+[image: see source](https://www.legislation.gov.uk/uksi/2015/207/images/uksi_20150207_en_epp_032.gif)
+
+[^key-3ab77321c605ae07d38b3b44a9d0bc1a]**Form 11A(w), marriage schedule for any marriage other than a marriage to be solemnized in the presence of a superintendent registrar and a registrar (with Welsh translation), regulation 9A(1), section 31(2) Marriage Act 1949**
+
+[image: see source](https://www.legislation.gov.uk/uksi/2015/207/images/uksi_20150207_en_epp_035.gif)
+
+[^key-4773094eaa4325fc914f2cd69392e34b]**Form 11B**
+
+[image: see source](https://www.legislation.gov.uk/uksi/2015/207/images/uksi_20150207_en_epp_036.gif)
+
+[^key-59fa8acad679bb7d2c95f1ef671a0678]**Form 11B(w), marriage schedule for a marriage to be solemnized in the presence of a superintendent registrar and a registrar (with Welsh translation), regulation 9A(2), section 31(2) Marriage Act 1949**
+
+[image: see source](https://www.legislation.gov.uk/uksi/2015/207/images/uksi_20150207_en_epp_037.gif)
+
+[^key-eb3732f38c09e7114f048d98f91dc93d][^key-eb6e0ee128c9bf3195111ec812089612]**Form 12, approved certificate for marriage intended to be solemnized in Scotland, regulation 9D(1), section 31(2) Marriage Act 1949**
+
+[image: see source](https://www.legislation.gov.uk/uksi/2015/207/images/uksi_20150207_en_epp_038.gif)
+
+[^M_F_50abe7f0-f856-457a-ceee-b68519bddbc8][^key-275129f63055d09c0296dd2eb879d76a]**Form 12(w), approved certificate for marriage intended to be solemnized in Scotland (with Welsh translation), regulation 9D(1), section 31(2) Marriage Act 1949**
+
+[image: see source](https://www.legislation.gov.uk/uksi/2015/207/images/uksi_20150207_en_epp_039.gif)
+
+[^key-e0add79fd03b0dac36a9184f17bba62a]**Form 13**
+
+[image: see source](https://www.legislation.gov.uk/uksi/2015/207/images/uksi_20150207_en_epp_040.gif)
+
+[^key-817a4773a3c46d9e78987ab04cc68d85]**Form 13A**
+
+[image: see source](https://www.legislation.gov.uk/uksi/2015/207/images/uksi_20150207_en_epp_007.gif) [image: see source](https://www.legislation.gov.uk/uksi/2015/207/images/uksi_20150207_en_epp_008.gif)
+
+**Form 13A(w)**
+
+[image: see source](https://www.legislation.gov.uk/uksi/2015/207/images/uksi_20150207_en_epp_009.gif) [image: see source](https://www.legislation.gov.uk/uksi/2015/207/images/uksi_20150207_en_epp_010.gif)
+
+[^key-37d352188e5cd217227c02382ff404ee]**Form 14**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^M_F_2c74daa7-4e3c-401f-e281-fa6c33961955]**Form 14(w)**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-fc874a451d97ae9f67743db2c603a683]**Form 14A**
+
+[image: see source](https://www.legislation.gov.uk/uksi/2015/207/images/uksi_20150207_en_epp_011.gif) [image: see source](https://www.legislation.gov.uk/uksi/2015/207/images/uksi_20150207_en_epp_012.gif)
+
+**Form 14A(w)**
+
+[image: see source](https://www.legislation.gov.uk/uksi/2015/207/images/uksi_20150207_en_epp_013.gif) [image: see source](https://www.legislation.gov.uk/uksi/2015/207/images/uksi_20150207_en_epp_014.gif)
+
+[^key-d2ffd63f1177be941fb878d7b6d04361]**Form 15**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^M_F_4c9e2bc0-6916-4cb7-b386-a92c3179b902]**Form 15(w)**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-f0d196f2287cb9df9906ddaef5c11332]**Form 16**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-01b6db1a2c9a0ea459b1196275515d2f]**Form 17**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 2 — Forms of words in English and Welsh[^key-b93575ffd83737bbbec419caa595d0a3]
+
+Regulation 3(2)
+
+| **Column 1**<br>***Form of words required*** | **Column 2**<br>***Welsh version*** |
+| --- | --- |
+| Single | Sengl |
+| Widower | Gŵr gweddw |
+| Widow | Gwraig weddw |
+| Surviving civil partner | Partner sifil goroesol |
+| Previous marriage annulled | Priodas flaenorol wedi’i dirymu |
+| Previous civil partnership annulled | Partneriaeth sifil flaenorol wedi’i dirymu |
+| Previous marriage dissolved | Priodas flaenorol wedi’i therfynu |
+| Previous civil partnership dissolved | Partneriaeth sifil flaenorol wedi’i therfynu |
+| Previously married at … on … Marriage dissolved on … | Priodwyd o’r blaen yn … ar y …; terfynwyd y briodas ar y … |
+| Previously married at … on … Marriage annulled on … | Priodwyd o’r blaen yn … ar y …; y briodas wedi’i dirymu ar y … |
+| Previously went through a form of marriage at …on … | Aethpwyd o’r blaen drwy ddeford priodas yn ... ar y … |
+| Previously formed a civil partnership at …on … Civil partnership dissolved on … | Ffurfiwyd partneriaeth sifil o’r blaen yn … ar y …; terfynwyd y bartneriaeth sifil ar y … |
+| Previously formed a civil partnership at … on … Civil partnership annulled on … | Ffurfiwyd partneriaeth sifil o’r blaen yn … ar y …; y bartneriaeth sifil wedi’i dirymu ar y … |
+| Deceased | Ymadawedig |
+| Retired[^key-188af98c00172bff3d2f484a87f5581a] | Wedi ymddeol |
+| Step-parent | Llys-riant |
+| [^key-e01973c7d7a9b1681d3aa8f8bf14b53e]. . . | [^key-e01973c7d7a9b1681d3aa8f8bf14b53e]. . . |
+| Certificate | Tystysgrif |
+| Marriage schedule[^key-a3a536b6ab56a17934b78b5b2ede5ba9] | Atodlen priodas |
+| Marriage document | Dogfen priodas |
+| Register office | Swyddfa gofrestru |
+| Registrar General’s licence | Trwydded y Cofrestrydd Cyffredinol |
+
+## SCHEDULE 3 — Evidence
+
+Regulation 8
+
+### 1. Interpretation[^key-99bce0bf534ca1ab8e353186a8830dbe]
+
+In this Schedule—
+
+- “claim for asylum” means a claim within the meaning of section 94(1) of the Immigration and Asylum Act 1999[^f00029];
+- “Council Regulation” means the Council Regulation [(EC) No. 2201/2003](https://www.legislation.gov.uk/european/regulation/2003/2201) of 27th November 2003 concerning jurisdiction and the recognition and enforcement of judgments in matrimonial matters and matters of parental responsibility;
+- “driving licence” means a licence granted under—
+  - (a) Part 3 of the Road Traffic Act 1988[^f00030], or
+  - (b) the Road Traffic (Northern Ireland) Order 1981[^f00031],
+
+  and includes a provisional licence, a counterpart Community licence and a British external licence within the meaning of those enactments;
+- “humanitarian protection” means humanitarian protection granted in accordance with paragraph 339C of the immigration rules;
+- “immigration rules” means the rules for the time being laid down as mentioned in section 3(2) of the Immigration Act 1971[^f00032];
+- “indefinite leave to enter or remain” means leave to enter or remain in the United Kingdom given in accordance with the provisions of the Immigration Act 1971 or the immigration rules which is not limited as to duration;
+- “limited leave to enter or remain” means leave to enter or remain in the United Kingdom given in accordance with the provisions of the Immigration Act 1971 or the immigration rules which is limited as to duration;
+- “settled status” has the same meaning as in section 33(2A) of the Immigration Act 1971[^f00033];
+- “Stateless Convention” means the Convention relating to the Status of Stateless Persons done at New York on 28th September 1954[^f00034];
+- “stateless person” has the same meaning as in Article 1 of the Stateless Convention;
+- “travel document” means a document which is not a passport, allowing a person to travel outside the United Kingdom.
+
+### 2. Evidence of being a relevant national - British or Irish citizen[^key-49afa75eff60d3a41ecab8ec3527f9cd][^key-18522550c0c6d1d2e12e239a4230bc5f]
+
+For the purposes of (as applicable) section 8(1)(b)[^f00035], or section 16(1C)[^f00036] of the Act, one of the following original documents (or groups of documents) must be provided by each of the parties to the proposed marriage to the member of the clergy, or (as the case may be) the person with authority to grant a common licence, as evidence that the party (“P”) is a relevant national—
+
+- (a) P’s valid passport showing P to be a British or Irish national[^key-b6be04a31aed0a2cce4fe3400d6990c6];
+- (b)[^key-13f69f0b1c174a948f30af162b9fb1e2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c) certificate of registration as a British citizen granted to P by the Secretary of State together with another document referred to in paragraph 4 of this Schedule (except the letter referred to in paragraph 4(g)), to establish P’s current use of the name and surname referred to on the certificate of registration (or, if P has changed name, evidence of the change of name);
+- (d) certificate of naturalisation as a British citizen granted to P by the Secretary of State, together with another document referred to in paragraph 4 of this Schedule (except the letter referred to in paragraph 4(g)), to establish P’s current use of the name and surname referred to on the certificate of naturalisation (or, if P has changed name, evidence of the change of name);
+- (e) where P was born in the United Kingdom—
+  - (i) before 1st January 1983—
+    - (aa) P’s United Kingdom birth certificate; and
+    - (bb) one of the documents referred to in paragraph 4 of this Schedule (except the letter referred to in paragraph 4(g)), to establish P’s current use of the name and surname referred to on the birth certificate provided (or, if P has changed name, evidence of the change of name);
+  - (ii) on or after 1st<sup></sup>January 1983 but before 1st July 2006—
+    - (aa) P’s full United Kingdom birth certificate showing P’s parents’ (or, as the case may be, parent’s), details;
+    - (bb) one of the documents referred to in paragraph 4 of this Schedule (except the letter referred to in paragraph 4(g)) to establish P’s current use of the name and surname referred to on the birth certificate provided (or, if P has changed name, evidence of the change of name);
+    - (cc) evidence of either of P’s parents’ British citizenship or settled status at the time of P’s birth (e.g. a passport describing the relevant parent as a British citizen or indicating that he or she then had indefinite leave to enter or remain); and
+    - (dd) P’s parents’ marriage certificate (if British citizenship is claimed through P’s father);
+  - (iii) on or after 1st July 2006—
+    - (aa) P’s full birth certificate showing the parents’ (or, as the case may be, parent’s) details;
+    - (bb) one of the documents referred to in paragraph 4 of this Schedule (except the letter referred to in paragraph 4(g)) to establish P’s current use of the name and surname referred to on the birth certificate provided (or, if P has changed name, evidence of the change of name);
+    - (cc) evidence of either of P’s parents’ British citizenship or settled status at the time of P’s birth (e.g. a passport describing the relevant parent as a British citizen or indicating that he or she then had indefinite leave to enter or remain);
+- (f) if none of the documents (or groups of documents) listed in sub-paragraphs (a) to (e) are available to confirm the party’s relevant nationality, such other evidence as the Registrar General determines it is reasonable to accept in the particular circumstances of the case.
+
+### 2A. Evidence of being a relevant national -European Union Settlement Scheme[^key-8d33bfea88c7c73ed15a38812085d499]
+
+(1) For the purposes of (as applicable) section 8(1)(b), or section 16(1C) of the Act, the following must be provided by each of the parties (P) to the proposed marriage to the member of the clergy, or (as the case may be) the person with authority to grant a common licence, as evidence that P is a relevant national.
+
+(2) Where P—
+
+- (a) has leave to enter or remain in the United Kingdom granted by virtue of residence scheme immigration rules within the meaning of section 17 of the European Union (Withdrawal Agreement) Act 2020, an electronic certificate which confirms that such leave has been granted; or
+- (b) is an applicant for the purposes of regulation 4 of the Citizens' Rights (Application Deadline and Temporary Protection) (EU Exit) Regulations 2020 (applications which have not been finally determined by the deadline)—
+  - (i) a certificate of application which confirms that the application referred to in regulation 4 of the Citizens' Rights (Application Deadline and Temporary Protection) (EU Exit) Regulations 2020 has been made; and
+  - (ii) evidence that the relevant period referred to in regulation 4 of those Regulations has not expired must be provided by each of the parties to the proposed marriage to the member of the clergy, or (as the case may be) the person with authority to grant a common licence, as evidence that P is a relevant national.
+
+### 3. Evidence of name, surname, date of birth and nationality[^key-3c2708a5d50378b2be215b0087392934]
+
+For the purposes of section 28B(1)(a), (b) and (d) of the Act[^f00037], one of the following original documents (or groups of documents) must be provided to the superintendent registrar by a person (“P”) giving a notice of marriage under section 27 of the Act, as evidence of the name, surname, date of birth and nationality of that person—
+
+- (a) P’s valid passport;
+- (b)[^key-75796675d16327637b34c34b522015b9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c) one of the groups of documents referred to in paragraph 2(c) to (e) of this Schedule (and for these purposes, “P” in paragraph 2(c) to (e) means a person giving a notice of marriage under section 27 of the Act);
+- (d) P’s valid biometric immigration document within the meaning of section 5(1)(a) of the UK Borders Act 2007[^f00038];
+- (e) P’s valid travel document issued in the United Kingdom at the discretion of the Secretary of State to persons who have been formally and, in the view of the Secretary of State, unreasonably, refused a passport by the authorities in their own countries and who have—
+  - (i) been granted limited leave to enter or remain or humanitarian protection on rejection of a claim for asylum or for recognition as a stateless person; or
+  - (ii) been granted indefinite leave to enter or remain;
+- (f) valid travel document issued to P pursuant to Article 28 of the Convention relating to the Status of Refugees done at Geneva on 28th July 1951[^f00039];
+- (g) valid travel document issued to P pursuant to Article 28 of the Stateless Convention;
+- (h) if none of the documents (or groups of documents) listed in sub-paragraphs (a) to (g) are available to confirm the person’s name, surname, date of birth and nationality, such other document or combination of documents as the Registrar General determines it is reasonable to accept in the particular circumstances of the case.
+
+### 4. Evidence of place of residence[^key-83c9b6832a19aca462ca8f1ff183a8ea]
+
+(1) For the purposes of section 28B(1)(c) of the Act, one of the following original documents must be provided to the superintendent registrar as evidence of the place of residence of a person giving a notice of marriage under section 27(1) of the Act—
+
+- (a) utility bill dated no more than three months before the date on which notice of marriage is given;
+- (b) bank or building society statement or passbook dated no more than one month before the date on which notice of marriage is given;
+- (c) council tax bill dated no more than 12 months before the date on which notice of marriage is given;
+- (d) mortgage statement dated no more than 12 months before the date on which notice of marriage is given;
+- (e) current residential tenancy agreement;
+- (f) valid driving licence in the name of the person giving notice of marriage;
+- (g) letter from the owner or proprietor (“X”) of the address which is the person’s place of residence which—
+  - (i) confirms that the person has resided at the address for at least seven days immediately prior to the date on which notice of marriage is given,
+  - (ii) states that X is the owner or proprietor,
+  - (iii) states X’s name,
+  - (iv) states X’s address, and
+  - (v) is signed and dated by X;
+- (h) if none of the documents listed in sub-paragraphs (a) to (g) are available, such other evidence as the Registrar General determines it is reasonable to accept in the particular circumstances of the case.
+
+(2) The evidence mentioned in sub-paragraphs (a) to (e) of paragraph 4(1) must—
+
+- (a) be in the name of the person giving notice of marriage, or, where it is in the name of more than one person, one of them must be the person giving notice, and
+- (b) show the person’s place of residence as the address to which the evidence was sent.
+
+### 5. Evidence of ending of previous marriage or civil partnership[^key-03402cd7bf08959fc65abb124b929e2e]
+
+(1) For the purposes of section 28B(2) of the Act, one of the following original documents must be provided to the superintendent registrar as evidence of the ending of a previous marriage or civil partnership of a person (“P”) giving a notice of marriage under section 27(1) of the Act—
+
+- (a) P’s decree absolute or final order[^key-4d33e98161b7237efcdb1199b05e4859] of divorce or decree of nullity of marriage or nullity of marriage order[^key-295fbf1e0badd97c6f397f5281d5fb87] granted by a court of civil jurisdiction in England and Wales;
+- (b) P’s dissolution order or nullity order obtained in England or Wales in accordance with Part 2 of the Civil Partnership Act 2004[^f00040];
+- (c) a document, or documents, confirming P’s divorce or annulment granted by a court of civil jurisdiction in any part of the British Islands and recognised in the United Kingdom in accordance with section 44 of the Family Law Act 1986[^f00041];
+- (d) a document, or documents, confirming the dissolution or annulment of P’s civil partnership granted by a court of civil jurisdiction in the United Kingdom and recognised in accordance with section 233 of the Civil Partnership Act 2004;
+- (e) a document, or documents confirming P’s divorce or annulment obtained in a country outside the British Islands and recognised in the United Kingdom in accordance with either—
+  - (i) sections 45 to 49 of the Family Law Act 1986[^f00042]; or
+  - (ii) articles 21 to 27, 41(1) or 42(1) of the Council Regulation;
+- (f) a document, or documents confirming the dissolution or annulment of P’s civil partnership obtained outside the United Kingdom and recognised in accordance with either—
+  - (i) sections 234 to 237 of the Civil Partnership Act 2004[^f00043]; or
+  - (ii) regulations made under section 219 of the Civil Partnership Act 2004[^f00044];
+- (g) the death certificate of P’s spouse or civil partner;
+- (h) the presumed death certificate of P’s spouse or civil partner issued under paragraph 3 of Schedule 1 to the Presumption of Death Act 2013[^f00045];
+- (i) if none of the documents listed in sub-paragraphs (a) to (h) are available to confirm the ending of P’s previous marriage or civil partnership, such other evidence as the Registrar General determines it is reasonable to accept in the particular circumstances of the case.
+
+(2) Where any document listed in paragraph (1)(c) to (g) or (i) was created outside the United Kingdom and is not in English, a full translation must also be provided.
+
+## SCHEDULE 4 — Revocations[^key-636aee8c8f5875a21dccb5a928342700]
+
+Regulation 24
+
+| 1\. Regulations revoked | 2\. References | 3\. Extent of revocation |
+| --- | --- | --- |
+| The Registration of Marriages Regulations 1986[^f00046] | [S.I. 1986/1442](https://www.legislation.gov.uk/uksi/1986/1442) | The whole Regulations |
+| The Registration of Marriages (Amendment) Regulations 1997[^f00047] | [S.I. 1997/2204](https://www.legislation.gov.uk/uksi/1997/2204) | The whole Regulations |
+| The Registration of Marriages (Welsh Language) Regulations 1999[^f00048] | [S.I. 1999/1621](https://www.legislation.gov.uk/uksi/1999/1621) | The whole Regulations |
+| The Registration of Marriages (Amendment) Regulations 2005 | [S.I. 2005/155](https://www.legislation.gov.uk/uksi/2005/155) | The whole Regulations |
+| The Registration of Births, Deaths and Marriages (Amendment) Regulations 2005 | [S.I. 2005/3177](https://www.legislation.gov.uk/uksi/2005/3177) | Regulations 3 and 4 |
+| The Registration of Marriages (Amendment) Regulations 2009 | [S.I. 2009/2806](https://www.legislation.gov.uk/uksi/2009/2806) | The whole Regulations |
+| The Registration of Marriages (Amendment) Regulations 2011 | [S.I. 2011/1172](https://www.legislation.gov.uk/uksi/2011/1172) | The whole Regulations |
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations consolidate the Registration of Marriages Regulations 1986 (“the 1986 Regulations”) and the Registration of Marriages (Welsh Language) Regulations 1999, and five amending instruments. They also make substantive amendments in consequence of Part 4 of the Immigration Act [2014 (c. 22)](https://www.legislation.gov.uk/ukpga/2014/22), which introduces a new referral and investigation scheme to assist investigation by the Secretary of State of suspected sham marriages and civil partnerships.
+
+In Part 2, the Regulations prescribe the forms to be used for the preliminaries to marriage (regulations 4 to 7 and Schedule 1). Two new marriage notice forms are prescribed in consequence of the requirement in section 27E of the Marriage Act [1949 (c. 76)](https://www.legislation.gov.uk/ukpga/1949/76) for non-relevant nationals (those who are not British, EEA or Swiss nationals) to provide additional information when giving notice of marriage.
+
+The Regulations specify (regulation 8 and Schedule 3) the evidence that must be provided by each party giving notice of marriage, or following ecclesiastical preliminaries, as the case may be, in accordance with the requirements in sections 8, 16 and 28B of the Marriage Act 1949.
+
+Regulation 9 restates, with minor drafting changes, the procedure for applications to reduce the waiting period under section 31(5A) of the Marriage Act 1949. The waiting period was increased from 15 to 28 days by the Immigration Act 2014. Regulations 10 and 11 prescribe forms for the Superintendent Registrar’s certificate for marriage and instructions for the solemnization of marriage, which are unchanged. The Registrar General’s licence for marriage (issued under the Marriage (Registrar General’s Licence) Act 1970 where one party to the proposed marriage is seriously ill and is not expected to recover), is also unchanged.
+
+Part 3 of the Regulations is concerned with the registration of marriage. These provisions restate the 1986 Regulations with minor drafting changes. The only change of substance is in regulation 13(2)(i) and (k), which make a minor change to the manner of registration of the condition (i.e. marital or civil partnership status) of parties who have previously been married to each other. This change is made in consequence of the Marriage (Same Sex Couples) Act [2013 (c. 30)](https://www.legislation.gov.uk/ukpga/2013/30), with the aim of protecting the privacy of people who have obtained gender recognition.
+
+Part 4 relates to the correction of errors in marriage registers, and Part 5 makes miscellaneous provision. No changes of substance are made to the position under the 1986 Regulations save that some of the more detailed provision relating to the manner of signing the register (regulation 15) and corrections before the entry is complete (in regulation 18) has been removed and will be dealt with administratively. In addition, what was regulation 19 of the 1986 Regulations (applications for certificates under section 10 of the Savings Bank Act 1887) has been removed, as no separate procedure exists for such applications.
+
+An impact assessment has not been prepared for this instrument as no impact on the private or voluntary sectors is foreseen.
+
+## Annotations
+
+[^f00001]: Footnote: [1949 c. 76](https://www.legislation.gov.uk/ukpga/1949/76); there are amendments to the section, not relevant here. See section 78(1) for the definition of “prescribed”.
+
+[^f00002]: Footnote: Section 27A was inserted by section 1(7) of, and paragraph 6 of Schedule 1 to, the Marriage Act [1983 (c. 32)](https://www.legislation.gov.uk/ukpga/1983/32). There are amendments to the section, not relevant here.
+
+[^f00003]: Footnote: Section 27B was inserted by section 1(4)(6) of, and paragraph 5 of Schedule 1 to, the Marriage (Prohibited Degrees of Relationship) Act [1986 (c. 16)](https://www.legislation.gov.uk/ukpga/1986/16). There are amendments to the section, not relevant here.
+
+[^f00004]: Footnote: Section 28G was inserted by paragraph 7 of Schedule 4 to the Immigration Act [2014 (c. 22)](https://www.legislation.gov.uk/ukpga/2014/22).
+
+[^f00005]: Footnote: There are amendments to section 31(2) and (5), not relevant here. Section 31(5D) was inserted by section 160(6) of the Immigration and Asylum Act [1999 (c. 33)](https://www.legislation.gov.uk/ukpga/1999/33).
+
+[^f00006]: Footnote: There are amendments to section 35(1), not relevant here.
+
+[^f00007]: Footnote: Section 74(3) was inserted by paragraph 15 of Schedule 4 to the Immigration Act 2014.
+
+[^f00008]: Footnote: [1970 c. 34](https://www.legislation.gov.uk/ukpga/1970/34); section 18 was amended by [S.I. 1996/273](https://www.legislation.gov.uk/uksi/1996/273) and by [S.I. 2008/678](https://www.legislation.gov.uk/uksi/2008/678).
+
+[^f00009]: Footnote: [1953 c. 37](https://www.legislation.gov.uk/ukpga/1953/37). See section 21(1) for the definitions of “the Minister”, “prescribed” and “the Registration Acts”. The definition of “the Minister” in section 21(1) was amended by [S.I. 2008/678](https://www.legislation.gov.uk/uksi/2008/678).
+
+[^f00010]: Footnote: [1993 c. 38](https://www.legislation.gov.uk/ukpga/1993/38).
+
+[^f00011]: Footnote: See sections 28G(6), 31(5E)(d) and 74(1) of the Act, section 18 of the 1970 Act and section 20 of the Registration Service Act 1953. By section 21 of the Registration Service Act 1953 (amended by [S.I. 2008/678](https://www.legislation.gov.uk/uksi/2008/678)) “the Minister” by whom regulations under section 20 must be approved means the Secretary of State.
+
+[^key-058e2357b920d2d6e397bfcdea1af831]: Commencement: Reg. 1 in force at 2.3.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/207/regulation/1)
+
+[^key-e7fabf867d6be0f195520d24c036e9b3]: Commencement: Reg. 2 in force at 2.3.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/207/regulation/1)
+
+[^key-e5a4bdec9487a3547f7405d64ae2afca]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2015/207/regulation/2/1) inserted (4.5.2021) by [The Registration of Marriages (Amendment) Regulations 2021 (S.I. 2021/412)](https://www.legislation.gov.uk/uksi/2021/412), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/412/regulation/1/2), [3(a)(i)](https://www.legislation.gov.uk/uksi/2021/412/regulation/3/a/i)
+
+[^key-4420765293f58d91c6ae2da52d1cfd29]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2015/207/regulation/2/1) inserted (4.5.2021) by [The Registration of Marriages (Amendment) Regulations 2021 (S.I. 2021/412)](https://www.legislation.gov.uk/uksi/2021/412), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/412/regulation/1/2), [3(a)(ii)](https://www.legislation.gov.uk/uksi/2021/412/regulation/3/a/ii)
+
+[^M_F_0442fb0f-4ce6-4b3a-f300-1d9548077249]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2015/207/regulation/2/1) inserted (19.4.2021) by [The Registration of Marriages (Amendment) Regulations 2021 (S.I. 2021/412)](https://www.legislation.gov.uk/uksi/2021/412), [regs. 1(3)(b)](https://www.legislation.gov.uk/uksi/2021/412/regulation/1/3/b), [3(a)(ii)](https://www.legislation.gov.uk/uksi/2021/412/regulation/3/a/ii)
+
+[^key-42c7200386b4485d615185cf1f25f34f]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/2015/207/regulation/2/2) inserted (19.4.2021) by [The Registration of Marriages (Amendment) Regulations 2021 (S.I. 2021/412)](https://www.legislation.gov.uk/uksi/2021/412), [regs. 1(3)(c)](https://www.legislation.gov.uk/uksi/2021/412/regulation/1/3/c), [3(b)](https://www.legislation.gov.uk/uksi/2021/412/regulation/3/b)
+
+[^key-5138fc7970ff86331f483e76f9c6caf0]: Commencement: Reg. 3 in force at 2.3.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/207/regulation/1)
+
+[^key-97b412a2797433838a669bee0913971f]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2015/207/regulation/3/1) substituted (4.5.2021) by [The Registration of Marriages Regulations 2021 (S.I. 2021/411)](https://www.legislation.gov.uk/uksi/2021/411), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/411/regulation/1/2), [Sch. 1 para. 70(2)(a)](https://www.legislation.gov.uk/uksi/2021/411/schedule/1/paragraph/70/2/a) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2021/411/schedule/2))
+
+[^key-6ae1dfee3a255dabff834099fd59845b]: Textual amendment: [Reg. 3(1)(aa)](https://www.legislation.gov.uk/uksi/2015/207/regulation/3/1/aa) inserted (19.4.2021) by [The Registration of Marriages (Amendment) Regulations 2021 (S.I. 2021/412)](https://www.legislation.gov.uk/uksi/2021/412), [regs. 1(3)(d)](https://www.legislation.gov.uk/uksi/2021/412/regulation/1/3/d), [4(a)](https://www.legislation.gov.uk/uksi/2021/412/regulation/4/a)
+
+[^key-6713cc798d6142af85c0195f089e091a]: Textual amendment: [Reg. 3(1)(b)](https://www.legislation.gov.uk/uksi/2015/207/regulation/3/1/b) omitted (4.5.2021) by virtue of [The Registration of Marriages Regulations 2021 (S.I. 2021/411)](https://www.legislation.gov.uk/uksi/2021/411), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/411/regulation/1/2), [Sch. 1 para. 70(2)(b)](https://www.legislation.gov.uk/uksi/2021/411/schedule/1/paragraph/70/2/b) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2021/411/schedule/2))
+
+[^key-9028a108e7b3c850e0a8c764578974f2]: Textual amendment: [Reg. 3(1A)](https://www.legislation.gov.uk/uksi/2015/207/regulation/3/1A)[(1B)](https://www.legislation.gov.uk/uksi/2015/207/regulation/3/1B) inserted (19.4.2021) by [The Registration of Marriages (Amendment) Regulations 2021 (S.I. 2021/412)](https://www.legislation.gov.uk/uksi/2021/412), [regs. 1(3)(d)](https://www.legislation.gov.uk/uksi/2021/412/regulation/1/3/d), [4(b)](https://www.legislation.gov.uk/uksi/2021/412/regulation/4/b)
+
+[^key-233ece98659d4ee827ce51a31fd49429]: Commencement: Reg. 4 in force at 2.3.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/207/regulation/1)
+
+[^f00012]: Footnote: Section 27(1) was amended by sections 161(1) and 169 of, paragraph 8 of Schedule 14 to, and paragraph 1 of Schedule 16 to, the Immigration and Asylum Act [1999 (c.33)](https://www.legislation.gov.uk/ukpga/1999/33).
+
+[^f00013]: Footnote: “Relevant national” is defined in section 78(1) of the Act (definition inserted by paragraph 17 of Schedule 4 to the Immigration Act [2014 (c. 22)](https://www.legislation.gov.uk/ukpga/2014/22)), and means a British citizen, a national of an EEA state other than the United Kingdom, or a national of Switzerland.
+
+[^key-b03eafb28b4e738df8b9b74f5daa25c5]: Textual amendment: Words in [reg. 4(1)(a)(ii)](https://www.legislation.gov.uk/uksi/2015/207/regulation/4/1/a/ii) inserted (27.2.2023) by [The Marriage and Civil Partnership (Minimum Age) Act 2022 (Consequential Amendments) Regulations 2023 (S.I. 2023/82)](https://www.legislation.gov.uk/uksi/2023/82), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/82/regulation/1/2), [8(2)](https://www.legislation.gov.uk/uksi/2023/82/regulation/8/2); [S.I. 2023/88](https://www.legislation.gov.uk/uksi/2023/88), [reg. 2](https://www.legislation.gov.uk/uksi/2023/88/regulation/2)
+
+[^key-aff1acb048dc41d026b7eeae85876467]: Textual amendment: Words in [reg. 4(1)(b)(ii)](https://www.legislation.gov.uk/uksi/2015/207/regulation/4/1/b/ii) inserted (27.2.2023) by [The Marriage and Civil Partnership (Minimum Age) Act 2022 (Consequential Amendments) Regulations 2023 (S.I. 2023/82)](https://www.legislation.gov.uk/uksi/2023/82), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/82/regulation/1/2), [8(2)](https://www.legislation.gov.uk/uksi/2023/82/regulation/8/2); [S.I. 2023/88](https://www.legislation.gov.uk/uksi/2023/88), [reg. 2](https://www.legislation.gov.uk/uksi/2023/88/regulation/2)
+
+[^key-fe40e0518acee097d8860dcc26f9d3ee]: Commencement: Reg. 5 in force at 2.3.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/207/regulation/1)
+
+[^f00014]: Footnote: Section 35(1) was amended by section 2 of the Marriage Act 1949 (Amendment) Act [1954 (c. 47)](https://www.legislation.gov.uk/ukpga/1954/47); section 169(1) and (3) of, paragraph 17(2)(b) of Schedule 14 to, and paragraph 1 of Schedule 16 to, the Immigration and Asylum Act [1999 (c. 33)](https://www.legislation.gov.uk/ukpga/1999/33).
+
+[^key-54deb43675ca7a797e27caca2fd08e49]: Commencement: Reg. 6 in force at 2.3.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/207/regulation/1)
+
+[^f00015]: Footnote: Section 27A was amended by section 169(1) of, and paragraph 9 of Schedule 14 to, the Immigration and Asylum Act 1999.
+
+[^key-3cfec19f260e214b103f8de58d519679]: Commencement: Reg. 7 in force at 2.3.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/207/regulation/1)
+
+[^f00016]: Footnote: Section 27B(2) was amended by [S.I. 2009/2821](https://www.legislation.gov.uk/uksi/2009/2821).
+
+[^key-1144600a19733343e9b52bbe4910c970]: Commencement: Reg. 8 in force at 2.3.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/207/regulation/1)
+
+[^f00017]: Footnote: Section 8 was amended by section 57(3) of the Immigration Act [2014 (c. 22)](https://www.legislation.gov.uk/ukpga/2014/22).
+
+[^f00018]: Footnote: Section 16 was amended by section 57(4) of the Immigration Act 2014.
+
+[^f00019]: Footnote: Section 28B was inserted by paragraph 7 of Schedule 4 to the Immigration Act 2014.
+
+[^key-a6bdb84e3c00ebda903a4793c2dfb6b1]: Commencement: Reg. 9 in force at 2.3.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/207/regulation/1)
+
+[^f00020]: Footnote: Section 31(5A) was inserted by section 160(6) of the Immigration and Asylum Act [1999 (c. 33)](https://www.legislation.gov.uk/ukpga/1999/33), and amended by [S.I. 2008/678](https://www.legislation.gov.uk/uksi/2008/678) and by paragraph 10(2) of Schedule 4 to the Immigration Act 2014.
+
+[^key-df59099c19b03a540f5cb0a9f8787310]: Textual amendment: Words in [reg. 9(2)](https://www.legislation.gov.uk/uksi/2015/207/regulation/9/2) omitted (1.11.2017) by virtue of [The Registration of Births, Deaths, Marriages and Civil Partnerships (Fees) (Amendment) Regulations 2017 (S.I. 2017/947)](https://www.legislation.gov.uk/uksi/2017/947), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/947/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2017/947/regulation/5)
+
+[^M_F_be8b78fe-6232-44fc-fc18-cdb949f8dc39]: Textual amendment: Words in reg. 9(5) substituted (5.10.2016) by [The Registration of Births, Deaths, Marriages and Civil Partnerships (Fees) Regulations 2016 (S.I. 2016/911)](https://www.legislation.gov.uk/uksi/2016/911), [reg. 1](https://www.legislation.gov.uk/uksi/2016/911/regulation/1), [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2016/911/schedule/2/paragraph/4)
+
+[^key-cf375c7b199b98cfa991da00ae0c1b7b]: Textual amendment: [Regs. 9A-9C](https://www.legislation.gov.uk/uksi/2015/207/regulation/9A) inserted (19.4.2021) by [The Registration of Marriages (Amendment) Regulations 2021 (S.I. 2021/412)](https://www.legislation.gov.uk/uksi/2021/412), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/412/regulation/1/2)[(3)(e)](https://www.legislation.gov.uk/uksi/2021/412/regulation/1/3/e), [5](https://www.legislation.gov.uk/uksi/2021/412/regulation/5)
+
+[^key-0ee4f9558278fb35215a178eb43de499]: Textual amendment: [Reg. 9D](https://www.legislation.gov.uk/uksi/2015/207/regulation/9D) inserted (E.W.S.) (4.5.2021) by [The Registration of Marriages (Amendment) Regulations 2021 (S.I. 2021/412)](https://www.legislation.gov.uk/uksi/2021/412), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/412/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2021/412/regulation/5)
+
+[^key-792629b6d3348fd5a1b9ac1cf0992294]: Commencement: Reg. 10 in force at 2.3.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/207/regulation/1)
+
+[^key-a6997ceb7d9ca18015a25f1fd9faf25d]: Textual amendment: [Reg. 10](https://www.legislation.gov.uk/uksi/2015/207/regulation/10) heading substituted (4.5.2021) by [The Registration of Marriages (Amendment) Regulations 2021 (S.I. 2021/412)](https://www.legislation.gov.uk/uksi/2021/412), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/412/regulation/1/2), [6(a)](https://www.legislation.gov.uk/uksi/2021/412/regulation/6/a)
+
+[^key-209a44bb4c6431c8d537558709a3a159]: Textual amendment: [Reg. 10(1)](https://www.legislation.gov.uk/uksi/2015/207/regulation/10/1) omitted (4.5.2021) by virtue of [The Registration of Marriages (Amendment) Regulations 2021 (S.I. 2021/412)](https://www.legislation.gov.uk/uksi/2021/412), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/412/regulation/1/2), [6(b)](https://www.legislation.gov.uk/uksi/2021/412/regulation/6/b)
+
+[^key-c071d7a10201edad8e61d1c228637e2f]: Textual amendment: [Regs. 10A-10C](https://www.legislation.gov.uk/uksi/2015/207/regulation/10A) inserted (19.4.2021) by [The Registration of Marriages (Amendment) Regulations 2021 (S.I. 2021/412)](https://www.legislation.gov.uk/uksi/2021/412), [regs. 1(3)(f)](https://www.legislation.gov.uk/uksi/2021/412/regulation/1/3/f), [7](https://www.legislation.gov.uk/uksi/2021/412/regulation/7)
+
+[^key-76d7ae4fe3a30cf25dd8b93fa419fb15]: Commencement: Reg. 11 in force at 2.3.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/207/regulation/1)
+
+[^key-f555c98b85e13f044ba27de46e9d2d07]: Textual amendment: [Reg. 11(1)](https://www.legislation.gov.uk/uksi/2015/207/regulation/11/1) omitted (4.5.2021) by virtue of [The Registration of Marriages (Amendment) Regulations 2021 (S.I. 2021/412)](https://www.legislation.gov.uk/uksi/2021/412), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/412/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2021/412/regulation/9)
+
+[^key-e64bd90e0a19e6652f11b5d6b34948d8]: Textual amendment: [Reg. 11(2)](https://www.legislation.gov.uk/uksi/2015/207/regulation/11/2) inserted (19.4.2021) by [The Registration of Marriages (Amendment) Regulations 2021 (S.I. 2021/412)](https://www.legislation.gov.uk/uksi/2021/412), [regs. 1(3)(f)](https://www.legislation.gov.uk/uksi/2021/412/regulation/1/3/f), [8(c)](https://www.legislation.gov.uk/uksi/2021/412/regulation/8/c)
+
+[^key-e8a2a247383385f49ca66d8a80daf53b]: Textual amendment: [Pts. 2A-2C](https://www.legislation.gov.uk/uksi/2015/207/part/2A) inserted (4.5.2021) by [The Registration of Marriages (Amendment) Regulations 2021 (S.I. 2021/412)](https://www.legislation.gov.uk/uksi/2021/412), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/412/regulation/1/2), [10](https://www.legislation.gov.uk/uksi/2021/412/regulation/10)
+
+[^key-edc218e8c20e807cdaa3b36e4300b1af]: Textual amendment: [Pt. 3](https://www.legislation.gov.uk/uksi/2015/207/part/3) omitted (4.5.2021) by virtue of [The Registration of Marriages Regulations 2021 (S.I. 2021/411)](https://www.legislation.gov.uk/uksi/2021/411), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/411/regulation/1/2), [Sch. 1 para. 70(3)](https://www.legislation.gov.uk/uksi/2021/411/schedule/1/paragraph/70/3) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2021/411/schedule/2))
+
+[^key-1456a52187e261c576fc161845bddbb2]: Textual amendment: [Pt. 4](https://www.legislation.gov.uk/uksi/2015/207/part/4) omitted (4.5.2021) by virtue of [The Registration of Marriages Regulations 2021 (S.I. 2021/411)](https://www.legislation.gov.uk/uksi/2021/411), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/411/regulation/1/2), [Sch. 1 para. 70(3)](https://www.legislation.gov.uk/uksi/2021/411/schedule/1/paragraph/70/3) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2021/411/schedule/2))
+
+[^key-d2754bc04250ee3389f3da5988dec6b0]: Commencement: Reg. 21 in force at 2.3.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/207/regulation/1)
+
+[^key-bb81c55e317cc0ea7ef498d2e5a8ee68]: Textual amendment: [Reg. 22](https://www.legislation.gov.uk/uksi/2015/207/regulation/22) omitted (1.8.2021) by virtue of [The Registration of Marriages Regulations 2021 (S.I. 2021/411)](https://www.legislation.gov.uk/uksi/2021/411), [reg. 1(10)(d)](https://www.legislation.gov.uk/uksi/2021/411/regulation/1/10/d), [Sch. 1 para. 70(4)](https://www.legislation.gov.uk/uksi/2021/411/schedule/1/paragraph/70/4) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2021/411/schedule/2))
+
+[^key-8c00a0cb77109f67ace446e42dad83b4]: Commencement: Reg. 23 in force at 2.3.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/207/regulation/1)
+
+[^f00026]: Footnote: [1911 c. 6](https://www.legislation.gov.uk/ukpga/1911/6).
+
+[^f00027]: Footnote: [1981 c. 45](https://www.legislation.gov.uk/ukpga/1981/45).
+
+[^key-f2d27637f22ab92dc81f7cc9fb83c91b]: Textual amendment: Words in [reg. 23(2)](https://www.legislation.gov.uk/uksi/2015/207/regulation/23/2) omitted (1.8.2021) by virtue of [The Registration of Marriages Regulations 2021 (S.I. 2021/411)](https://www.legislation.gov.uk/uksi/2021/411), [reg. 1(10)(d)](https://www.legislation.gov.uk/uksi/2021/411/regulation/1/10/d), [Sch. 1 para. 70(5)](https://www.legislation.gov.uk/uksi/2021/411/schedule/1/paragraph/70/5) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2021/411/schedule/2))
+
+[^f00028]: Footnote: Section 76(1) and (2) was amended by sections 38 and 46 of the Criminal Justice Act [1982 (c. 48)](https://www.legislation.gov.uk/ukpga/1982/48).
+
+[^key-ee592f1159ac2c8308314eb7e17914b2]: Commencement: Reg. 24 in force at 2.3.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/207/regulation/1)
+
+[^key-7ee9e75209e1daf90d8e13c1019689ae]: Commencement: Sch. 1 in force at 2.3.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/207/regulation/1)
+
+[^key-1e5476f2fa52c637870941b79d6df889]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2015/207/schedule/1) table inserted (27.2.2023) by [The Marriage and Civil Partnership (Minimum Age) Act 2022 (Consequential Amendments) Regulations 2023 (S.I. 2023/82)](https://www.legislation.gov.uk/uksi/2023/82), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/82/regulation/1/2), [8(3)(a)(i)](https://www.legislation.gov.uk/uksi/2023/82/regulation/8/3/a/i); [S.I. 2023/88](https://www.legislation.gov.uk/uksi/2023/88), [reg. 2](https://www.legislation.gov.uk/uksi/2023/88/regulation/2)
+
+[^key-47c5487a22a45ae45d31ba6af65d7372]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2015/207/schedule/1) table inserted (27.2.2023) by [The Marriage and Civil Partnership (Minimum Age) Act 2022 (Consequential Amendments) Regulations 2023 (S.I. 2023/82)](https://www.legislation.gov.uk/uksi/2023/82), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/82/regulation/1/2), [8(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2023/82/regulation/8/3/a/ii); [S.I. 2023/88](https://www.legislation.gov.uk/uksi/2023/88), [reg. 2](https://www.legislation.gov.uk/uksi/2023/88/regulation/2)
+
+[^key-d9b7fdb29a6e45542f9976ebbf08ecde]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2015/207/schedule/1) table inserted (27.2.2023) by [The Marriage and Civil Partnership (Minimum Age) Act 2022 (Consequential Amendments) Regulations 2023 (S.I. 2023/82)](https://www.legislation.gov.uk/uksi/2023/82), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/82/regulation/1/2), [8(3)(a)(iii)](https://www.legislation.gov.uk/uksi/2023/82/regulation/8/3/a/iii); [S.I. 2023/88](https://www.legislation.gov.uk/uksi/2023/88), [reg. 2](https://www.legislation.gov.uk/uksi/2023/88/regulation/2)
+
+[^key-97e89b87a17629c3218f2ef63354c4d0]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2015/207/schedule/1) table inserted (27.2.2023) by [The Marriage and Civil Partnership (Minimum Age) Act 2022 (Consequential Amendments) Regulations 2023 (S.I. 2023/82)](https://www.legislation.gov.uk/uksi/2023/82), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/82/regulation/1/2), [8(3)(a)(iv)](https://www.legislation.gov.uk/uksi/2023/82/regulation/8/3/a/iv); [S.I. 2023/88](https://www.legislation.gov.uk/uksi/2023/88), [reg. 2](https://www.legislation.gov.uk/uksi/2023/88/regulation/2)
+
+[^key-70965dcae9746c5fed4d4aed29817f9d]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2015/207/schedule/1) table inserted (19.4.2021) by [The Registration of Marriages (Amendment) Regulations 2021 (S.I. 2021/412)](https://www.legislation.gov.uk/uksi/2021/412), [regs. 1(3)(g)](https://www.legislation.gov.uk/uksi/2021/412/regulation/1/3/g), [11(2)(a)](https://www.legislation.gov.uk/uksi/2021/412/regulation/11/2/a)
+
+[^key-a0805c4396d3de4e3a12df906f608692]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2015/207/schedule/1) table substituted (E.W.S.) (4.5.2021) by [The Registration of Marriages (Amendment) Regulations 2021 (S.I. 2021/412)](https://www.legislation.gov.uk/uksi/2021/412), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/412/regulation/1/2), [11(2)(b)](https://www.legislation.gov.uk/uksi/2021/412/regulation/11/2/b)
+
+[^key-822add0eb76f1af68e6b2a9e260e2658]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2015/207/schedule/1) table inserted (19.4.2021) by [The Registration of Marriages (Amendment) Regulations 2021 (S.I. 2021/412)](https://www.legislation.gov.uk/uksi/2021/412), [regs. 1(3)(g)](https://www.legislation.gov.uk/uksi/2021/412/regulation/1/3/g), [11(2)(c)](https://www.legislation.gov.uk/uksi/2021/412/regulation/11/2/c)
+
+[^key-44e91e93a7d0d52e5eacae8df47f3b06]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2015/207/schedule/1) table omitted (4.5.2021) by virtue of [The Registration of Marriages (Amendment) Regulations 2021 (S.I. 2021/412)](https://www.legislation.gov.uk/uksi/2021/412), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/412/regulation/1/2), [11(3)](https://www.legislation.gov.uk/uksi/2021/412/regulation/11/3)
+
+[^key-d9c9a4e5c610681252e1787478949580]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2015/207/schedule/1) table substituted (19.4.2021) by [The Registration of Marriages (Amendment) Regulations 2021 (S.I. 2021/412)](https://www.legislation.gov.uk/uksi/2021/412), [regs. 1(3)(g)](https://www.legislation.gov.uk/uksi/2021/412/regulation/1/3/g), [11(2)(d)](https://www.legislation.gov.uk/uksi/2021/412/regulation/11/2/d)
+
+[^key-e633073cdc0b48d1c06150d6b7fad5ca]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2015/207/schedule/1) table omitted (4.5.2021) by virtue of [The Registration of Marriages Regulations 2021 (S.I. 2021/411)](https://www.legislation.gov.uk/uksi/2021/411), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/411/regulation/1/2)[(10)(e)](https://www.legislation.gov.uk/uksi/2021/411/regulation/1/10/e), [Sch. 1 para. 70(6)(a)](https://www.legislation.gov.uk/uksi/2021/411/schedule/1/paragraph/70/6/a) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2021/411/schedule/2))
+
+[^key-ce0e37189af49f6f9712844d76443b0a]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2015/207/schedule/1) table omitted (1.8.2021) by virtue of [The Registration of Marriages Regulations 2021 (S.I. 2021/411)](https://www.legislation.gov.uk/uksi/2021/411), [reg. 1(10)(e)](https://www.legislation.gov.uk/uksi/2021/411/regulation/1/10/e), [Sch. 1 para. 70(6)(a)](https://www.legislation.gov.uk/uksi/2021/411/schedule/1/paragraph/70/6/a) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2021/411/schedule/2))
+
+[^key-7686168ae74e3a1450df0337f7d88130]: Textual amendment: Sch. 1 Form 1 substituted (4.5.2021) by [The Registration of Marriages (Amendment) Regulations 2021 (S.I. 2021/412)](https://www.legislation.gov.uk/uksi/2021/412), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/412/regulation/1/2), [11(4)](https://www.legislation.gov.uk/uksi/2021/412/regulation/11/4), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2021/412/schedule/part/1)
+
+[^M_F_c9e576e2-0c94-479e-b726-2bcd1f04cf1e]: Textual amendment: Sch. 1 Form 1(w) substituted (4.5.2021) by [The Registration of Marriages (Amendment) Regulations 2021 (S.I. 2021/412)](https://www.legislation.gov.uk/uksi/2021/412), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/412/regulation/1/2), [11(4)](https://www.legislation.gov.uk/uksi/2021/412/regulation/11/4), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2021/412/schedule/part/1)
+
+[^key-9f68b6af7389b903cc0b67e6a6cfc0b6]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/2015/207/schedule/1) Form 2 substituted (27.2.2023) by [The Marriage and Civil Partnership (Minimum Age) Act 2022 (Consequential Amendments) Regulations 2023 (S.I. 2023/82)](https://www.legislation.gov.uk/uksi/2023/82), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/82/regulation/1/2), [8(3)(b)](https://www.legislation.gov.uk/uksi/2023/82/regulation/8/3/b), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2023/82/schedule/part/2); [S.I. 2023/88](https://www.legislation.gov.uk/uksi/2023/88), [reg. 2](https://www.legislation.gov.uk/uksi/2023/88/regulation/2)
+
+[^key-21a6520fdf91d3c7476a7406d38406e8]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/2015/207/schedule/1) Form 2(w) substituted (27.2.2023) by [The Marriage and Civil Partnership (Minimum Age) Act 2022 (Consequential Amendments) Regulations 2023 (S.I. 2023/82)](https://www.legislation.gov.uk/uksi/2023/82), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/82/regulation/1/2), [8(3)(b)](https://www.legislation.gov.uk/uksi/2023/82/regulation/8/3/b), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2023/82/schedule/part/2); [S.I. 2023/88](https://www.legislation.gov.uk/uksi/2023/88), [reg. 2](https://www.legislation.gov.uk/uksi/2023/88/regulation/2)
+
+[^key-55c99f0009c91cf6a42d571deaf36fd9]: Textual amendment: Sch. 1 Form 3 substituted (4.5.2021) by [The Registration of Marriages (Amendment) Regulations 2021 (S.I. 2021/412)](https://www.legislation.gov.uk/uksi/2021/412), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/412/regulation/1/2), [11(6)](https://www.legislation.gov.uk/uksi/2021/412/regulation/11/6), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2021/412/schedule/part/1)
+
+[^M_F_8c2d61de-dc3e-4c31-e8d7-c2a35b8f5d8d]: Textual amendment: Sch. 1 Form 3(w) substituted (4.5.2021) by [The Registration of Marriages (Amendment) Regulations 2021 (S.I. 2021/412)](https://www.legislation.gov.uk/uksi/2021/412), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/412/regulation/1/2), [11(6)](https://www.legislation.gov.uk/uksi/2021/412/regulation/11/6), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2021/412/schedule/part/1)
+
+[^key-a8f122b4001b2bc4ed65e98eb2a47655]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/2015/207/schedule/1) Form 4 substituted (27.2.2023) by [The Marriage and Civil Partnership (Minimum Age) Act 2022 (Consequential Amendments) Regulations 2023 (S.I. 2023/82)](https://www.legislation.gov.uk/uksi/2023/82), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/82/regulation/1/2), [8(3)(b)](https://www.legislation.gov.uk/uksi/2023/82/regulation/8/3/b), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2023/82/schedule/part/2); [S.I. 2023/88](https://www.legislation.gov.uk/uksi/2023/88), [reg. 2](https://www.legislation.gov.uk/uksi/2023/88/regulation/2)
+
+[^key-3c1feaf349f59e49b1ee6ad2407cf263]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/2015/207/schedule/1) Form 4(w) substituted (27.2.2023) by [The Marriage and Civil Partnership (Minimum Age) Act 2022 (Consequential Amendments) Regulations 2023 (S.I. 2023/82)](https://www.legislation.gov.uk/uksi/2023/82), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/82/regulation/1/2), [8(3)(b)](https://www.legislation.gov.uk/uksi/2023/82/regulation/8/3/b), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2023/82/schedule/part/2); [S.I. 2023/88](https://www.legislation.gov.uk/uksi/2023/88), [reg. 2](https://www.legislation.gov.uk/uksi/2023/88/regulation/2)
+
+[^key-9ec2aad4ebda8d36775d0d23ecddecb1]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/2015/207/schedule/1) Form 5 substituted (27.2.2023) by [The Marriage and Civil Partnership (Minimum Age) Act 2022 (Consequential Amendments) Regulations 2023 (S.I. 2023/82)](https://www.legislation.gov.uk/uksi/2023/82), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/82/regulation/1/2), [8(3)(b)](https://www.legislation.gov.uk/uksi/2023/82/regulation/8/3/b), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2023/82/schedule/part/2); [S.I. 2023/88](https://www.legislation.gov.uk/uksi/2023/88), [reg. 2](https://www.legislation.gov.uk/uksi/2023/88/regulation/2)
+
+[^key-37ecbf1df8378954044d05172dd07e3b]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/2015/207/schedule/1) Form 5(w) substituted (27.2.2023) by [The Marriage and Civil Partnership (Minimum Age) Act 2022 (Consequential Amendments) Regulations 2023 (S.I. 2023/82)](https://www.legislation.gov.uk/uksi/2023/82), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/82/regulation/1/2), [8(3)(b)](https://www.legislation.gov.uk/uksi/2023/82/regulation/8/3/b), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2023/82/schedule/part/2); [S.I. 2023/88](https://www.legislation.gov.uk/uksi/2023/88), [reg. 2](https://www.legislation.gov.uk/uksi/2023/88/regulation/2)
+
+[^key-e4d90fa1ad8568f17ddbf50f11e514b6]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/2015/207/schedule/1) Form 8 substituted (27.5.2025) by [The Registration of Marriages and Civil Partnerships (Registration Provisions) (Amendment) Regulations 2025 (S.I. 2025/569)](https://www.legislation.gov.uk/uksi/2025/569), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/569/regulation/1/2), [2(a)](https://www.legislation.gov.uk/uksi/2025/569/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2025/569/schedule)
+
+[^key-be564d76bbdcb13f5b0d40e414968fe9]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/2015/207/schedule/1) Form 8(w) substituted (27.5.2025) by [The Registration of Marriages and Civil Partnerships (Registration Provisions) (Amendment) Regulations 2025 (S.I. 2025/569)](https://www.legislation.gov.uk/uksi/2025/569), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/569/regulation/1/2), [2(b)](https://www.legislation.gov.uk/uksi/2025/569/regulation/2/b), [Sch.](https://www.legislation.gov.uk/uksi/2025/569/schedule)
+
+[^key-26f2209b49c2e85d48a8339bcbbf3990]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/2015/207/schedule/1) Form 11A substituted (27.2.2023) by [The Marriage and Civil Partnership (Minimum Age) Act 2022 (Consequential Amendments) Regulations 2023 (S.I. 2023/82)](https://www.legislation.gov.uk/uksi/2023/82), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/82/regulation/1/2), [8(3)(b)](https://www.legislation.gov.uk/uksi/2023/82/regulation/8/3/b), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2023/82/schedule/part/2); [S.I. 2023/88](https://www.legislation.gov.uk/uksi/2023/88), [reg. 2](https://www.legislation.gov.uk/uksi/2023/88/regulation/2)
+
+[^key-3ab77321c605ae07d38b3b44a9d0bc1a]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/2015/207/schedule/1) Form 11A(w) substituted (27.2.2023) by [The Marriage and Civil Partnership (Minimum Age) Act 2022 (Consequential Amendments) Regulations 2023 (S.I. 2023/82)](https://www.legislation.gov.uk/uksi/2023/82), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/82/regulation/1/2), [8(3)(b)](https://www.legislation.gov.uk/uksi/2023/82/regulation/8/3/b), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2023/82/schedule/part/2); [S.I. 2023/88](https://www.legislation.gov.uk/uksi/2023/88), [reg. 2](https://www.legislation.gov.uk/uksi/2023/88/regulation/2)
+
+[^key-4773094eaa4325fc914f2cd69392e34b]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/2015/207/schedule/1) Form 11B substituted (27.2.2023) by [The Marriage and Civil Partnership (Minimum Age) Act 2022 (Consequential Amendments) Regulations 2023 (S.I. 2023/82)](https://www.legislation.gov.uk/uksi/2023/82), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/82/regulation/1/2), [8(3)(b)](https://www.legislation.gov.uk/uksi/2023/82/regulation/8/3/b), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2023/82/schedule/part/2); [S.I. 2023/88](https://www.legislation.gov.uk/uksi/2023/88), [reg. 2](https://www.legislation.gov.uk/uksi/2023/88/regulation/2)
+
+[^key-59fa8acad679bb7d2c95f1ef671a0678]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/2015/207/schedule/1) Form 11B(w) substituted (27.2.2023) by [The Marriage and Civil Partnership (Minimum Age) Act 2022 (Consequential Amendments) Regulations 2023 (S.I. 2023/82)](https://www.legislation.gov.uk/uksi/2023/82), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/82/regulation/1/2), [8(3)(b)](https://www.legislation.gov.uk/uksi/2023/82/regulation/8/3/b), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2023/82/schedule/part/2); [S.I. 2023/88](https://www.legislation.gov.uk/uksi/2023/88), [reg. 2](https://www.legislation.gov.uk/uksi/2023/88/regulation/2)
+
+[^key-eb3732f38c09e7114f048d98f91dc93d]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/2015/207/schedule/1) Form 12 heading substituted (E.W.S) (4.5.2021) by [The Registration of Marriages (Amendment) Regulations 2021 (S.I. 2021/412)](https://www.legislation.gov.uk/uksi/2021/412), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/412/regulation/1/2), [11(9)](https://www.legislation.gov.uk/uksi/2021/412/regulation/11/9), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2021/412/schedule/part/1)
+
+[^key-eb6e0ee128c9bf3195111ec812089612]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/2015/207/schedule/1) Form 12 substituted (27.2.2023) by [The Marriage and Civil Partnership (Minimum Age) Act 2022 (Consequential Amendments) Regulations 2023 (S.I. 2023/82)](https://www.legislation.gov.uk/uksi/2023/82), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/82/regulation/1/2), [8(3)(b)](https://www.legislation.gov.uk/uksi/2023/82/regulation/8/3/b), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2023/82/schedule/part/2); [S.I. 2023/88](https://www.legislation.gov.uk/uksi/2023/88), [reg. 2](https://www.legislation.gov.uk/uksi/2023/88/regulation/2)
+
+[^M_F_50abe7f0-f856-457a-ceee-b68519bddbc8]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/2015/207/schedule/1) Form 12(w) heading substituted (E.W.S) (4.5.2021) by [The Registration of Marriages (Amendment) Regulations 2021 (S.I. 2021/412)](https://www.legislation.gov.uk/uksi/2021/412), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/412/regulation/1/2), [11(9)](https://www.legislation.gov.uk/uksi/2021/412/regulation/11/9), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2021/412/schedule/part/1)
+
+[^key-275129f63055d09c0296dd2eb879d76a]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/2015/207/schedule/1) Form 12(w) substituted (27.2.2023) by [The Marriage and Civil Partnership (Minimum Age) Act 2022 (Consequential Amendments) Regulations 2023 (S.I. 2023/82)](https://www.legislation.gov.uk/uksi/2023/82), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/82/regulation/1/2), [8(3)(b)](https://www.legislation.gov.uk/uksi/2023/82/regulation/8/3/b), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2023/82/schedule/part/2); [S.I. 2023/88](https://www.legislation.gov.uk/uksi/2023/88), [reg. 2](https://www.legislation.gov.uk/uksi/2023/88/regulation/2)
+
+[^key-e0add79fd03b0dac36a9184f17bba62a]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/2015/207/schedule/1) Form 13 substituted (27.2.2023) by [The Marriage and Civil Partnership (Minimum Age) Act 2022 (Consequential Amendments) Regulations 2023 (S.I. 2023/82)](https://www.legislation.gov.uk/uksi/2023/82), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/82/regulation/1/2), [8(3)(b)](https://www.legislation.gov.uk/uksi/2023/82/regulation/8/3/b), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2023/82/schedule/part/2); [S.I. 2023/88](https://www.legislation.gov.uk/uksi/2023/88), [reg. 2](https://www.legislation.gov.uk/uksi/2023/88/regulation/2)
+
+[^key-817a4773a3c46d9e78987ab04cc68d85]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/2015/207/schedule/1) Forms 13A, 13A(w) inserted (19.4.2021) by [The Registration of Marriages (Amendment) Regulations 2021 (S.I. 2021/412)](https://www.legislation.gov.uk/uksi/2021/412), [regs. 1(3)(g)(i)](https://www.legislation.gov.uk/uksi/2021/412/regulation/1/3/g/i), [11(11)](https://www.legislation.gov.uk/uksi/2021/412/regulation/11/11), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2021/412/schedule/part/2)
+
+[^key-37d352188e5cd217227c02382ff404ee]: Textual amendment: Sch. 1 Form 14 omitted (4.5.2021) by virtue of [The Registration of Marriages (Amendment) Regulations 2021 (S.I. 2021/412)](https://www.legislation.gov.uk/uksi/2021/412), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/412/regulation/1/2), [11(12)](https://www.legislation.gov.uk/uksi/2021/412/regulation/11/12)
+
+[^M_F_2c74daa7-4e3c-401f-e281-fa6c33961955]: Textual amendment: Sch. 1 Form 14(w) omitted (4.5.2021) by virtue of [The Registration of Marriages (Amendment) Regulations 2021 (S.I. 2021/412)](https://www.legislation.gov.uk/uksi/2021/412), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/412/regulation/1/2), [11(12)](https://www.legislation.gov.uk/uksi/2021/412/regulation/11/12)
+
+[^key-fc874a451d97ae9f67743db2c603a683]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/2015/207/schedule/1) Forms 14A, 14A(w) inserted (19.4.2021) by [The Registration of Marriages (Amendment) Regulations 2021 (S.I. 2021/412)](https://www.legislation.gov.uk/uksi/2021/412), [regs. 1(3)(g)(i)](https://www.legislation.gov.uk/uksi/2021/412/regulation/1/3/g/i), [11(13)](https://www.legislation.gov.uk/uksi/2021/412/regulation/11/13), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2021/412/schedule/part/2)
+
+[^key-d2ffd63f1177be941fb878d7b6d04361]: Textual amendment: Sch. 1 Form 15 omitted (4.5.2021) by virtue of [The Registration of Marriages Regulations 2021 (S.I. 2021/411)](https://www.legislation.gov.uk/uksi/2021/411), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/411/regulation/1/2), [Sch. 1 para. 70(6)(b)](https://www.legislation.gov.uk/uksi/2021/411/schedule/1/paragraph/70/6/b) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2021/411/schedule/2))
+
+[^M_F_4c9e2bc0-6916-4cb7-b386-a92c3179b902]: Textual amendment: Sch. 1 Form 15(w) omitted (4.5.2021) by virtue of [The Registration of Marriages Regulations 2021 (S.I. 2021/411)](https://www.legislation.gov.uk/uksi/2021/411), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/411/regulation/1/2), [Sch. 1 para. 70(6)(b)](https://www.legislation.gov.uk/uksi/2021/411/schedule/1/paragraph/70/6/b) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2021/411/schedule/2))
+
+[^key-f0d196f2287cb9df9906ddaef5c11332]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/2015/207/schedule/1) Form 16 omitted (1.8.2021) by virtue of [The Registration of Marriages Regulations 2021 (S.I. 2021/411)](https://www.legislation.gov.uk/uksi/2021/411), [reg. 1(10)(f)](https://www.legislation.gov.uk/uksi/2021/411/regulation/1/10/f), [Sch. 1 para. 70(6)(b)](https://www.legislation.gov.uk/uksi/2021/411/schedule/1/paragraph/70/6/b) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2021/411/schedule/2))
+
+[^key-01b6db1a2c9a0ea459b1196275515d2f]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/2015/207/schedule/1) Form 17 omitted (1.8.2021) by virtue of [The Registration of Marriages Regulations 2021 (S.I. 2021/411)](https://www.legislation.gov.uk/uksi/2021/411), [reg. 1(10)(f)](https://www.legislation.gov.uk/uksi/2021/411/regulation/1/10/f), [Sch. 1 para. 70(6)(b)](https://www.legislation.gov.uk/uksi/2021/411/schedule/1/paragraph/70/6/b) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2021/411/schedule/2))
+
+[^key-b93575ffd83737bbbec419caa595d0a3]: Commencement: Sch. 2 in force at 2.3.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/207/regulation/1)
+
+[^key-188af98c00172bff3d2f484a87f5581a]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2015/207/schedule/2) inserted (19.4.2021) by [The Registration of Marriages (Amendment) Regulations 2021 (S.I. 2021/412)](https://www.legislation.gov.uk/uksi/2021/412), [regs. 1(3)(h)](https://www.legislation.gov.uk/uksi/2021/412/regulation/1/3/h), [12(a)](https://www.legislation.gov.uk/uksi/2021/412/regulation/12/a)
+
+[^key-e01973c7d7a9b1681d3aa8f8bf14b53e]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2015/207/schedule/2) omitted (4.5.2021) by virtue of [The Registration of Marriages Regulations 2021 (S.I. 2021/411)](https://www.legislation.gov.uk/uksi/2021/411), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/411/regulation/1/2), [Sch. 1 para. 70(7)](https://www.legislation.gov.uk/uksi/2021/411/schedule/1/paragraph/70/7) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2021/411/schedule/2))
+
+[^key-a3a536b6ab56a17934b78b5b2ede5ba9]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2015/207/schedule/2) inserted (19.4.2021) by [The Registration of Marriages (Amendment) Regulations 2021 (S.I. 2021/412)](https://www.legislation.gov.uk/uksi/2021/412), [regs. 1(3)(h)](https://www.legislation.gov.uk/uksi/2021/412/regulation/1/3/h), [12(b)](https://www.legislation.gov.uk/uksi/2021/412/regulation/12/b)
+
+[^key-99bce0bf534ca1ab8e353186a8830dbe]: Commencement: Sch. 3 para. 1 in force at 2.3.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/207/regulation/1)
+
+[^f00029]: Footnote: [1999 c. 33](https://www.legislation.gov.uk/ukpga/1999/33).
+
+[^f00030]: Footnote: [1988 c. 52](https://www.legislation.gov.uk/ukpga/1988/52).
+
+[^f00031]: Footnote: [S.I. 1981/154](https://www.legislation.gov.uk/uksi/1981/154).
+
+[^f00032]: Footnote: [1971 c. 77](https://www.legislation.gov.uk/ukpga/1971/77). There are amendments to section 3, not relevant here.
+
+[^f00033]: Footnote: Section 33(2A) was inserted by section 39(6) and paragraph 7(b) of Schedule 4 to the British Nationality Act [1981 (c. 61)](https://www.legislation.gov.uk/ukpga/1981/61).
+
+[^f00034]: Footnote: United Nations, Treaty Series, volume 360 at page 117.
+
+[^key-49afa75eff60d3a41ecab8ec3527f9cd]: Commencement: Sch. 3 para. 2 in force at 2.3.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/207/regulation/1)
+
+[^key-18522550c0c6d1d2e12e239a4230bc5f]: Textual amendment: Words in [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2015/207/schedule/3/paragraph/2) heading substituted (1.7.2021) by [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2/c), [42(2)(a)(i)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/42/2/a/i)
+
+[^f00035]: Footnote: Section 8 was amended by section 57(3) of the Immigration Act [2014 (c. 22)](https://www.legislation.gov.uk/ukpga/2014/22).
+
+[^f00036]: Footnote: Section 16 was amended by section 57(4) of the Immigration Act 2014.
+
+[^key-b6be04a31aed0a2cce4fe3400d6990c6]: Textual amendment: Words in [Sch. 3 para. 2(a)](https://www.legislation.gov.uk/uksi/2015/207/schedule/3/paragraph/2/a) substituted (1.7.2021) by [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2/c), [42(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/42/2/a/ii)
+
+[^key-13f69f0b1c174a948f30af162b9fb1e2]: Textual amendment: [Sch. 3 para. 2(b)](https://www.legislation.gov.uk/uksi/2015/207/schedule/3/paragraph/2/b) omitted (1.7.2021) by virtue of [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2/c), [42(2)(a)(iii)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/42/2/a/iii)
+
+[^key-8d33bfea88c7c73ed15a38812085d499]: Textual amendment: [Sch. 3 para. 2A](https://www.legislation.gov.uk/uksi/2015/207/schedule/3/paragraph/2A) inserted (1.7.2021) by [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2/c), [42(2)(b)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/42/2/b)
+
+[^key-3c2708a5d50378b2be215b0087392934]: Commencement: Sch. 3 para. 3 in force at 2.3.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/207/regulation/1)
+
+[^f00037]: Footnote: Section 28B was inserted by paragraph 7 of Schedule 4 to the Immigration Act [2014 (c. 22)](https://www.legislation.gov.uk/ukpga/2014/22).
+
+[^key-75796675d16327637b34c34b522015b9]: Textual amendment: [Sch. 3 para. 3(b)](https://www.legislation.gov.uk/uksi/2015/207/schedule/3/paragraph/3/b) omitted (1.7.2021) by virtue of [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2/c), [42(2)(c)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/42/2/c)
+
+[^f00038]: Footnote: [2007 c. 30](https://www.legislation.gov.uk/ukpga/2007/30).
+
+[^f00039]: Footnote: United Nations, Treaty Series, volume 189 at page 137.
+
+[^key-83c9b6832a19aca462ca8f1ff183a8ea]: Commencement: Sch. 3 para. 4 in force at 2.3.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/207/regulation/1)
+
+[^key-03402cd7bf08959fc65abb124b929e2e]: Commencement: Sch. 3 para. 5 in force at 2.3.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/207/regulation/1)
+
+[^key-4d33e98161b7237efcdb1199b05e4859]: Textual amendment: Words in [Sch. 3 para. 5(1)(a)](https://www.legislation.gov.uk/uksi/2015/207/schedule/3/paragraph/5/1/a) inserted (1.8.2023) by [The Divorce, Dissolution and Separation Act 2020 (Consequential Amendments) Regulations 2023 (S.I. 2023/759)](https://www.legislation.gov.uk/uksi/2023/759), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/759/regulation/1/1), [2(a)](https://www.legislation.gov.uk/uksi/2023/759/regulation/2/a)
+
+[^key-295fbf1e0badd97c6f397f5281d5fb87]: Textual amendment: Words in [Sch. 3 para. 5(1)(a)](https://www.legislation.gov.uk/uksi/2015/207/schedule/3/paragraph/5/1/a) inserted (1.8.2023) by [The Divorce, Dissolution and Separation Act 2020 (Consequential Amendments) Regulations 2023 (S.I. 2023/759)](https://www.legislation.gov.uk/uksi/2023/759), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/759/regulation/1/1), [2(b)](https://www.legislation.gov.uk/uksi/2023/759/regulation/2/b)
+
+[^f00040]: Footnote: [2004 c. 33](https://www.legislation.gov.uk/ukpga/2004/33).
+
+[^f00041]: Footnote: [1986 c. 55](https://www.legislation.gov.uk/ukpga/1986/55).
+
+[^f00042]: Footnote: Section 45 was amended by [S.I. 2001/310](https://www.legislation.gov.uk/uksi/2001/310) and [S.I. 2005/265](https://www.legislation.gov.uk/uksi/2005/265).
+
+[^f00043]: Footnote: Sections 235 and 236 were modified by [S.I. 2005/3104](https://www.legislation.gov.uk/uksi/2005/3104). There are amendments to section 237, not relevant here.
+
+[^f00044]: Footnote: Section 219 was amended by [S.I. 2010/976](https://www.legislation.gov.uk/uksi/2010/976). For regulations made under section 219, see [S.I. 2005/3334](https://www.legislation.gov.uk/uksi/2005/3334).
+
+[^f00045]: Footnote: [2013 c. 13](https://www.legislation.gov.uk/ukpga/2013/13).
+
+[^key-636aee8c8f5875a21dccb5a928342700]: Commencement: Sch. 4 in force at 2.3.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/207/regulation/1)
+
+[^f00046]: Footnote: [S.I. 1986/1442](https://www.legislation.gov.uk/uksi/1986/1442) was amended by [S.I. 1987/2088](https://www.legislation.gov.uk/uksi/1987/2088); [S.I. 1995/744](https://www.legislation.gov.uk/uksi/1995/744); [S.I. 1997/2204](https://www.legislation.gov.uk/uksi/1997/2204); [S.I. 2000/3164](https://www.legislation.gov.uk/uksi/2000/3164); [S.I. 2005/155](https://www.legislation.gov.uk/uksi/2005/155); [S.I. 2005/3177](https://www.legislation.gov.uk/uksi/2005/3177); [S.I. 2007/2164](https://www.legislation.gov.uk/uksi/2007/2164); [S.I. 2009/2806](https://www.legislation.gov.uk/uksi/2009/2806); [S.I. 2011/1172](https://www.legislation.gov.uk/uksi/2011/1172); [S.I. 2014/107](https://www.legislation.gov.uk/uksi/2014/107) and [S.I. 2014/3061](https://www.legislation.gov.uk/uksi/2014/3061).
+
+[^f00047]: Footnote: [S.I. 1997/2204](https://www.legislation.gov.uk/uksi/1997/2204) was revoked in part by [S.I 1999/1621](https://www.legislation.gov.uk/uksi/1999/1621).
+
+[^f00048]: Footnote: [S.I. 1999/1621](https://www.legislation.gov.uk/uksi/1999/1621) was amended by [S.I. 2000/3164](https://www.legislation.gov.uk/uksi/2000/3164); [S.I. 2005/155](https://www.legislation.gov.uk/uksi/2005/155); [S.I 2005/3177](https://www.legislation.gov.uk/uksi/2005/3177); [S.I. 2009/2806](https://www.legislation.gov.uk/uksi/2009/2806); [S.I. 2011/1172](https://www.legislation.gov.uk/uksi/2011/1172) and [S.I. 2014/107](https://www.legislation.gov.uk/uksi/2014/107).

@@ -1,0 +1,27 @@
+---
+title: The Measuring Instruments Regulations 2016, section 14
+act: The Measuring Instruments Regulations 2016
+section: '14'
+status: revised-with-pending-changes
+text_date: '2025-02-27'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2016/1153/section/14
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Measuring Instruments Regulations 2016, section 14
+
+> **Warning: changes not yet applied to this text (2).** Text as at 2025-02-27. See https://www.legislation.gov.uk/changes/affected/uksi/2016/1153
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 14. Provision of information to the competent authority
+
+*Extent: E+W+S+N.I.*
+
+(1) A manufacturer must, further to a reasoned request from a competent authority, provide the competent authority with all the information and documentation in paper or electronic form necessary to demonstrate the conformity of a regulated measuring instrument manufactured by it with the requirements of these Regulations.
+
+(2) Information and documentation supplied to a competent authority pursuant to this regulation must be supplied in English.
+
+(3) A manufacturer must co-operate with a competent authority, at the request of that authority, on any action to eliminate the risks posed by regulated measuring instruments that the manufacturer has placed on the market.

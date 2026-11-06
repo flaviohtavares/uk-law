@@ -1,0 +1,445 @@
+---
+title: The Paternity and Adoption Leave (Adoption from Overseas) Regulations 2003
+id: uksi/2003/921
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2003-04-02'
+text_date: '2026-04-06'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/uksi/2003/921
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2003/921/pdfs/uksi_20030921_en.pdf
+- http://www.legislation.gov.uk/uksi/2003/921/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Paternity and Adoption Leave (Adoption from Overseas) Regulations 2003
+
+> Text as at 2026-04-06.
+>
+> Extent: England, Wales, Scotland.
+
+*Extent: E+W+S*
+
+2003 No. 921
+
+TERMS AND CONDITIONS OF EMPLOYMENT
+
+The Paternity and Adoption Leave (Adoption from Overseas) Regulations 2003
+
+Made
+
+2nd April 2003
+
+Coming into force
+
+6th April 2003
+
+Whereas a draft of the following Regulations was laid before Parliament in accordance with section 236(3) of the Employment Rights Act 1996[^f00001] and approved by a resolution of each House of Parliament:
+
+Now, therefore, the Secretary of State, in exercise of the powers conferred on her by sections 47C(2), 75A(1) to (3), (6) and (7), 75B(1), (2), (4) and (8), 75C(1) and (2), 75D(1), 80B(1), (2) and (5), 80C(1) and (6), 80D(1), 80E and 99(1) of that Act[^f00002], hereby makes the following Regulations:
+
+## PART I — GENERAL
+
+### 1. Citation and commencement[^key-d3516f4151b1c5828ac1057b090fa653]
+
+These Regulations may be cited as the Paternity and Adoption Leave (Adoption from Overseas) Regulations 2003 and shall come into force on 6th April 2003.
+
+### 2. Interpretation[^key-ad6431b1e7eb405ed08bd91516c21f6e]
+
+In these Regulations—
+
+- “the Act” means the Employment Rights Act 1996;
+- “adoption from overseas” means the adoption of a child who enters Great Britain from outside the United Kingdom in connection with or for the purposes of adoption which does not involve the placement of the child for adoption under the law of any part of the United Kingdom;
+- “the Leave Regulations” means the Paternity and Adoption Leave Regulations 2002[^f00003].
+
+### 3. Application of the Leave Regulations to adoptions from overseas[^key-c41e84bb27a485b4be2c0562310cccb5]
+
+The provisions of the Leave Regulations shall apply to adoptions from overseas with the modifications set out in these Regulations.
+
+### 4. Interpretation[^key-ae774238a352c87ce4f373de712582ec]
+
+(1) Regulation 2 of the Leave Regulations shall be modified in accordance with the following paragraphs of this regulation.
+
+(2) In paragraph (1),
+
+- (a) for the definition of “adopter”, substitute—
+
+  > “adopter”, in relation to a child, means a person by whom the child has been or is to be adopted or, in a case where the child has been or is to be adopted by two people jointly, whichever of them has elected to take adoption leave in respect of the child;
+- (ab)[^key-da405b7adeb07983cbd6c1eeb95df7e8] for the definition of “child”, substitute—
+
+  > “child” means a person who enters Great Britain from outside the United Kingdom in connection with or for the purposes of adoption which does not involve the placement of the person for adoption under the law of any part of the United Kingdom and who was under the age of 18 at the time of entry into Great Britain;
+
+  and
+- (b) in the appropriate places in alphabetical order insert—
+
+  > “adoption from overseas” means the adoption of a child who enters Great Britain from outside the United Kingdom in connection with or for the purposes of adoption which does not involve the placement of the child for adoption under the law of any part of the United Kingdom;
+
+  > “enter Great Britain” means enter Great Britain from outside the United Kingdom in connection with or for the purposes of adoption, and cognate expressions shall be construed accordingly;
+
+  > “official notification” means written notification, issued by or on behalf of the relevant domestic authority, that it is prepared to issue a certificate to the overseas authority concerned with the adoption of the child, or has issued a certificate and sent it to that authority, confirming, in either case, that the adopter is eligible to adopt and has been assessed and approved as being a suitable adoptive parent;
+
+  and
+
+  > “relevant domestic authority” means—
+  >
+  > - (a) in the case of an adopter to whom the Adoptions with a Foreign Element Regulations 2005[^key-b83632f17c71044edb0d9927de9a2590] apply and who is habitually resident in Wales, the National Assembly for Wales;
+  > - (b) in the case of an adopter to whom the Adoptions with a Foreign Element (Scotland) Regulations 2009[^key-43aaa13e087d396d28427090cf6b5f1b] apply and who is habitually resident in Scotland, the Scottish Ministers; and
+  > - (c) in any other case, the Secretary of State;
+
+  > “shared parental leave” means leave under section 75G of the 1996 Act.[^key-0ce5ec8dfbb1175ce866d86681b5042c]
+
+  .
+
+(3) For paragraph (4) substitute—
+
+> (4) For the purposes of these Regulations, in a case where a child is to be adopted by two people jointly, a person elects to be a child’s adopter, if he and the other person agree, at the time when the official notification is received, that he and not the other person will be the adopter.
+
+### 5. Application[^key-fc939fa83c0c55b0c4190f18758d543f]
+
+(1) Regulation 3 of the Leave Regulations shall be modified in accordance with the following paragraphs of this regulation.
+
+(2) For paragraphs (1) and (2), substitute—
+
+> (1) The provisions relating to adoption leave under regulation 15 below have effect only where the adopter’s child enters Great Britain on or after 6th April 2003.
+>
+> (2) The provisions relating to paternity leave under regulation 8 below have effect only in relation to a person who is married to or the partner of an adopter whose child enters Great Britain on or after 6th April 2003.
+
+.
+
+(3) In paragraph (3), for “8th December 2002” substitute “6th April 2003”.
+
+(4) In paragraph (6), for “8th December 2002” substitute “6th April 2003”.
+
+### 6. Entitlement to paternity leave: birth[^key-d5f0a797018d7ba112092315496b7ef5]
+
+Regulations 4 to 7 of the Leave Regulations shall be omitted.
+
+### 7. Entitlement to paternity leave: adoption from overseas[^key-d43d98d7b14b49306706ece809c05ffd]
+
+For regulations 8 to 10 of the Leave Regulations substitute—
+
+> **8. Entitlement to paternity leave**
+>
+> (1) An[^key-307766068068ce8c58f415ed0883f830] employee is entitled to be absent from work for the purpose of caring for a child adopted from overseas or supporting the child’s adopter if he—
+>
+> - (a) satisifies the conditions in paragraph (2); and
+> - (b) has complied with the notice requirements in regulation 10 and, where applicable, the evidential requirements in that regulation.
+>
+> (1A)[^key-a46a608b85aaa92bb0fecf470cf8affd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> (2) The conditions referred to in paragraph (1) are that—
+>
+> - (a) the child’s adopter has received an official notification;
+> - (b)[^key-32e455c35ff6f0a00bc5cd50eec51d02] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> - (c) the employee is either married to , the civil partner[^key-57396352fad7c3f2406f68f4000c916e] or the partner of the child’s adopter, and
+> - (d) the employee has, or expects to have, the main responsibility (apart from the responsibility of the child’s adopter) for the upbringing of the child.
+>
+> (3)[^key-2f9f79ca76f2ff0474bbaeab7a419f00] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> (4) An employee shall be treated as having satisfied the condition in paragraph (2)(c) if he would have satisfied it but for the fact that the child’s adopter died during the period of 56 days commencing with the date on which the child entered Great Britain.
+>
+> (5) An employee shall be treated as having satisfied the condition in paragraph (2)(d) if he would have satisfied it but for the fact that the child has ceased to live with the adopter.
+>
+> (6) An employee’s entitlement to leave under this regulation shall not be affected by the fact that more than one child is the subject of adoption from overseas by the adopter as part of the same arrangement.
+>
+> **9. Options in respect of leave under regulation 8**
+>
+> (1)[^key-0e151d14e7590bd71387753d06db0610] An employee may choose to take either—
+>
+> - (a) a single period of leave of either one week or two weeks, or
+> - (b) two non-consecutive periods of leave of a week each
+>
+> in respect of a child under regulation 8.
+>
+> (2) The leave may only be taken during the period of 52 weeks[^key-b596318b22bcbf84ad3eb0660067f954] beginning with the date on which the child enters Great Britain.
+>
+> (3) Subject to paragraph (2) and, where applicable, paragraph (4), an employee may choose to begin the period of leave under regulation 8 on—
+>
+> - (a) the date on which the child enters Great Britain; or
+> - (b) a predetermined date, specified in a notice under regulation 10, which is later than the date on which the child enters Great Britain.
+>
+> (4) In a case where the adopter received an official notification before 6th April 2003 and the adopter’s child enters Great Britain on or after that date, the employee may choose to begin a period of paternity leave only on a predetermined date, specified in a notice under regulation 10, which is later than the date of entry and, unless the employer agrees to an earlier commencement of the leave period, is at least twenty-eight days after the date on which that notice was given.
+>
+> **10. Notice and evidential requirements for leave under regulation 8[^key-5ca381e26fb8c493b12c535ebefb1e17]**
+>
+> (1) An employee must give their employer—
+>
+> - (a) notice of their entitlement to take leave in respect of a child under regulation 8 which specifies—
+>   - (i) the date on which the adopter of the child received an official notification, and
+>   - (ii) the date on which the child is expected to enter Great Britain or, where the child has already entered Great Britain, the date of entry, and
+> - (b) a declaration in writing that—
+>   - (i) the employee satisfies the conditions in regulation 8(2)(c) and (d), and
+>   - (ii) the adopter of the child has received an official notification.
+>
+> (2) An employee must also give their employer, on each occasion that a period of leave is chosen in accordance with regulation 9—
+>
+> - (a) a notice that specifies the start day or date of that period of leave and its duration, and
+> - (b) a declaration in writing that the purpose of the period of leave will be that specified in regulation 8(1).
+>
+> (3) The notice and declaration in paragraph (1) must be given to the employer—
+>
+> - (a) no more than 28 days after the date on which the adopter of the child receives the official notification, or[^key-8af19c09d9568f4ffe1d2de000a57a61]
+> - (b) if it is not reasonably practicable to do so, as soon as is reasonably practicable.
+>
+> (4) The notice and declaration in paragraph (2) must be given to the employer at least 28 days before—
+>
+> - (a) the date which the employee has notified in accordance with paragraph (1)(a)(ii) as the date on which the child is expected to enter Great Britain, where the option in regulation 9(3)(a) is chosen;
+> - (b) the predetermined date, where the option in regulation 9(3)(b) is chosen;
+>
+> or, if it is not reasonably practicable to do so, as soon as is reasonably practicable.
+>
+> (5) An employee who has previously given notice under paragraph (2)(a) or (8) or this paragraph may—
+>
+> - (a) vary the day or date chosen as the day or date on which a period of leave will begin or end, or
+> - (b) cancel the period of leave chosen,
+>
+> provided that notice of the variation or cancellation is given to the employer in accordance with paragraph (6).
+>
+> (6) A notice under paragraph (5) must be given by whichever is the earlier of at least 28 days before—
+>
+> - (a) the original day or date referred to in paragraph (7)(a), or
+> - (b) the new day or date referred to in paragraph (7)(b),
+>
+> or, if it is not reasonably practicable to do so, as soon as is reasonably practicable.
+>
+> (7) For the purposes of—
+>
+> - (a) paragraph (6)(a), where a notice has previously been given under either paragraph (2)(a), (5) or (8), the original day or date is—
+>   - (i) the date provided under paragraph (4)(a) as the date on which the child is expected to enter Great Britain, where the option in regulation 9(3)(a) was chosen in that notice;
+>   - (ii) the predetermined date specified in that notice, where the option in regulation 9(3)(b) was chosen;
+> - (b) paragraph (6)(b), the new day or date is—
+>   - (i) the date provided under paragraph (4)(a) as the date on which the child is expected to enter Great Britain, where the option in regulation 9(3)(a) is chosen in the notice of variation;
+>   - (ii) the predetermined date specified in the notice of variation, where the option in regulation 9(3)(b) is chosen.
+>
+> (8) In a case where—
+>
+> - (a) the employee has chosen to begin a period of leave on a particular predetermined date, and
+> - (b) the child has not entered Great Britain on or before that date,
+>
+> the employee must vary the choice of date, by substituting a later predetermined date or exercising an alternative option under regulation 9, and must give the employer notice of the variation as soon as is reasonably practicable.
+>
+> (9) Where a notice is given under paragraph (5) or (8) which varies the days or dates of a period of leave, a declaration under paragraph (2)(b) in relation to that period must be given at the same time as that notice.
+>
+> (10) An employee must give their employer a further notice of the date on which the child enters Great Britain, within 28 days of that date or, if that is not reasonably practicable, as soon as is reasonably practicable, unless that information has already been provided under paragraph (1)(a)(ii).
+>
+> (11) Notice under paragraph (1)(a), (2)(a), (5), (8) and (10) must be given in writing, if the employer so requests.
+>
+> (12) Where it becomes known to the employee that the child will not enter Great Britain, the employee must notify the employer of the fact as soon as is reasonably practicable.
+
+### 8. Commencement of leave under regulation 8[^key-aa0ee29b5a3039e92532e887d525d80b]
+
+(1) In regulation 11 of the Leave Regulations—
+
+- (a) in sub-paragraph (b) of paragraph (1), for “regulation 10(4) or (7)”, substitute “regulation 10(5) or (8)”;
+- (b) in sub-paragraph (a) of paragraph (2), for “is placed with the adopter” substitute “enters Great Britain”;
+- (c) in paragraph (6), for “10(4)(b)” substitute “10(5)(b)”.
+
+### 8A. Change in circumstances[^key-a156e9c54f7afea54e5262a51666e19a]
+
+In regulation 11A—
+
+- (a) in paragraph (2), for sub-paragraphs (a) and (b) substitute—
+
+  > - (a) the child ceases to live with the adopter, or
+  > - (b) the child dies.
+
+  ;
+- (b) in paragraph (4), for sub-paragraphs (a), (b) and (c) substitute—
+
+  > - (a) in a case falling within paragraph (2)(a), the week during which the child ceased to live with the adopter;
+  > - (b) in a case falling within paragraph (2)(b), the week during which the child dies.
+
+  ;
+- (c) in paragraph (6), for “10(4)(b)” substitute “10(5)(b)”.
+
+### 9. Entitlement to ordinary adoption leave: adoption from overseas[^key-765b4ae5791703149f07d70bf9bd8e5d]
+
+For regulations 15 to 17 of the Leave Regulations substitute—
+
+> **15. Entitlement to ordinary adoption leave**
+>
+> (1) Subject to paragraph (1A), an[^key-7256e2ced37e06a9e7f65a48dd727439] employee is entitled to ordinary adoption leave in respect of a child if he—
+>
+> - (a)[^key-3947ae0b0dbd30a17055eec89ee95f0c] is the child’s adopter; and
+> - (b) has complied with the notice requirements in regulation 17 and, where applicable, the evidential requirements in that regulation.
+>
+> (1A)[^key-ce47dcac0756ae8b8c928a09a8aec591] An employee is not entitled to be absent from work under paragraph (1) if the employee has taken shared parental leave in respect of the child.
+>
+> (2)[^key-006114bf25990052fe5d4203c66ba7a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> (3)[^key-006114bf25990052fe5d4203c66ba7a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> (4) An employee’s entitlement to leave under this regulation shall not be affected by the fact that more than one child is the subject of adoption from overseas by the adopter as part of the same arrangement.
+>
+> **16. Options in respect of ordinary adoption leave**
+>
+> (1) Subject to paragraph (2), an employee may choose to begin a period of ordinary adoption leave on—
+>
+> - (a) the date on which the child enters Great Britain; or
+> - (b) a predetermined date, specified in a notice under regulation 17, which is no later than twenty-eight days after the date on which the child enters Great Britain.
+>
+> (2) In a case where the employee receives an official notification before 6th April 2003 and the adopter’s child enters Great Britain on or after that date, the employee may choose to begin a period of ordinary adoption leave only on a predetermined date, specified in a notice under regulation 17, which is later than the date of entry, and, unless the employer agrees to an earlier commencement of the leave period, is at least twenty-eight days after the date on which that notice was given.
+>
+> **17. Notice and evidential requirements for ordinary adoption leave**
+>
+> (1) An employee intending to take ordinary adoption leave in respect of a child must give his employer notice of each of the following matters—
+>
+> - (a) the date on which he received an official notification;
+> - (b) the date on which the child is expected to enter Great Britain;
+> - (c) the date which he has chosen as the date on which his period of adoption leave should begin; and
+> - (d) the date on which the child enters Great Britain.
+>
+> (2) Notice provided for—
+>
+> - (a) in paragraph (1)(a) and (b) must be given to the employer no more than 28 days after the date on which the employee receives the official notification or the date on which he completes 26 weeks' continuous employment with the employer, whichever is later;
+> - (b) in paragraph (1)(c) must be given to the employer at least 28 days prior to the date which the employee has chosen as the date on which his period of adoption leave should begin, and
+> - (c) in paragraph (1)(d) must be given to the employer no more than 28 days after the date on which the child enters Great Britain.
+>
+> (3) Where the employer requests it, an employee must also provide his employer with a copy of the official notification together with evidence of the date of the entry of the child into Great Britain.
+>
+> (4) An employee who has given notice under paragraph (1)(c) may vary the date he has chosen as the date on which his leave will begin, subject to paragraph (5) and provided that he gives his employer notice of the variation—
+>
+> - (a) where the variation is to provide for the employee’s period of leave to begin on the date on which the child enters Great Britain, at least 28 days before the date specified in his notice under paragraph (1)(b) as the date on which the child is expected to enter Great Britain;
+> - (b) where the variation is to provide for the employee’s period of leave to begin on a predetermined date (or a different predetermined date), at least 28 days before that date,
+>
+> or, if it is not reasonably practicable to give notice 28 days before whichever date is relevant, as soon as is reasonably practicable.
+>
+> (5) In a case where regulation 16(2) applies, an employee may only vary the date which he has chosen as the date on which his period of leave should begin by substituting a different predetermined date.
+>
+> (6) Notice under paragraph (1) or (4) shall be given in writing, if the employer so requests.
+>
+> (7) An employer who is given notice under paragraph (1) or (4) of the date on which an employee has chosen that his period of ordinary adoption leave should begin shall notify the employee, within 28 days of his receipt of the notice, of the date on which the period of additional adoption leave to which the employee will be entitled (if he satisfies the conditions in regulation 20(1)) after his period of ordinary adoption leave ends.
+>
+> (8) The notification provided for in paragraph (7) shall be given to the employee—
+>
+> - (a) where the employer is given notice under paragraph (1)(c), within 28 days of the date on which he received that notice;
+> - (b) where the employer is given notice under paragraph (4), within 28 days of the date on which the employee’s ordinary adoption leave period began.
+>
+> (9) Where it becomes known to the employee that the child will not enter Great Britain, he shall notify the employer of the fact as soon as is reasonably practicable.
+
+### 10. Duration and commencement of ordinary adoption leave[^key-8b1e97d312f2e0330375c47fe18ed0a0]
+
+(1) Regulation 18 of the Leave Regulations shall be modified in accordance with the following paragraphs of this regulation.
+
+(2) In regulation 18(2), for “regulation 17(1)” substitute “regulation 17(1)(c)”.
+
+(3) In regulation 18(3)(a), for “is placed with him” substitute “enters Great Britain”.
+
+### 11. Additional adoption leave: entitlement, duration and commencement[^key-aa4ef3829a9edf0e9dd757c1ce03cc96]
+
+In regulation 20(1)(a) of the Leave Regulations, for “was placed with him for adoption” substitute “has entered Great Britain”.
+
+### 12. Disruption in the course of adoption leave[^key-3ac33bb8ad20df00c63330a125650779]
+
+(1) Regulation 22 of the Leave Regulations shall be modified in accordance with the following paragraphs of this regulation.
+
+(2) For paragraph (1), there shall be substituted—
+
+> (1) This regulation applies where, during an employee’s period of adoption leave in respect of a child, the child—
+>
+> - (a) dies, or
+> - (b) ceases to live with the adopter.
+
+(3) For paragraph (3), there shall be substituted—
+
+> (3) The relevant week referred to in paragraph (2) is—
+>
+> - (a) in a case falling within paragraph (1)(a), the week during which the child dies;
+> - (b) in a case falling within paragraph (1)(b), the week during which the child ceased to live with the adopter.
+
+### 13. Redundancy: adoption leave[^key-99086f48afdc8a25bf99fb3118ae12bd]
+
+In regulation 23(1B) of the Leave Regulations, for “is placed with the employee for adoption” substitute “enters Great Britain”.
+
+Alan Johnson,
+
+Minister of State for Employment Relations, Industry and the Regions,
+
+Department of Trade and Industry
+
+2nd April 2003
+
+(This note is not part of the Regulations)
+
+These Regulations provide new rights to paternity and adoption leave in the case of adoptions from overseas. The Regulations are made under powers contained in the Employment Rights Act 1996, as amended by the Employment Act 2002 and, in the case of section 80B, as further modified by the Employment Rights Act 1996 (Application of Section 80B to Adoptions from Overseas) Regulations 2003.
+
+These Regulations apply the Paternity and Adoption Leave Regulations 2002 (“the Leave Regulations”) to overseas adoptions with the modifications described below. An adoption from overseas is the adoption of a child who enters Great Britain from outside the United Kingdom in connection with or for the purposes of adoption, which does not involve the placement of a child for adoption under the law of any part of the United Kingdom.
+
+Regulation 7 substitutes new regulations 8–10 of the Leave Regulations, concerning entitlement to paternity leave. The new regulation 8 provides that the right is available to an employee if the child’s adopter has received an official notification of his suitability to adopt, the employee has been continuously employed for a period of not less than 26 weeks, the employee is the spouse or partner of the child’s adopter and the employee has, or expects to have, the main responsibility (apart from the responsibility of the child’s adopter) for the upbringing of the child. The new regulation 9 gives an employee the option of taking either one week’s leave or two consecutive weeks' leave, and also options concerning the date on which the employee’s period of leave will begin; however, leave may only be taken within 56 days of the child’s entry into Great Britain. The new regulation 10 requires an employee to notify his employer of the date on which the adopter of the child received official notification, the date on which the child is expected to enter Great Britain, the date which the employee has chosen to be the start date of the paternity leave and the date on which the child enters Great Britain. This regulation also requires the employee, if requested by the employer, to provide his employer with a written declaration that his partner or spouse has received an official notification, that he satisfies the conditions contained in regulation 8(2)(c) and (d) as to his relationship with the adopter and his responsibility for the upbringing of the child.
+
+Regulation 9 substitutes new regulations 15–17 of the Leave Regulations, concerning the right to adoption leave. The new regulation 15 sets out the conditions for entitlement to ordinary adoption leave. An employee must be the child’s adopter and have been continuously employed for a period of not less than 26 weeks. Only one person may take adoption leave in respect of a child at any time; accordingly, when a couple propose to adopt a child jointly, the person who has elected to be the child’s adopter may take adoption leave but the other person may only take paternity leave. The new regulation 16 enables an employee to choose when his period of leave should begin. The new regulation 17 imposes notice requirements similar to those applicable in relation to paternity leave.
+
+## Annotations
+
+[^f00001]: Footnote: [1996 c. 18](https://www.legislation.gov.uk/ukpga/1996/18); section 236(3) was amended by paragraph 42 of Part 3 of Schedule 4 to the Employment Relations Act [1999 (c. 26)](https://www.legislation.gov.uk/ukpga/1999/26) and paragraph 49 of Schedule 7 to the Employment Act [2002 (c. 22)](https://www.legislation.gov.uk/ukpga/2002/22).
+
+[^f00002]: Footnote: Section 47C of the Employment Rights Act 1996 was inserted by paragraph 8 of Part 3 of Schedule 4 to the Employment Relations Act 1999 and amended by paragraph 26 of Schedule 7 to the Employment Act 2002; sections 75A to 75D were inserted by section 3 of the Employment Act 2002, and sections 80A to 80E by section 1 of that Act; section 99 was substituted by paragraph 16 of Part 3 of Schedule 4 to the 1999 Act and amended by paragraph 33 of Schedule 7 to the Employment Act 2002. The word “prescribed” in section 47C of the 1996 Act is defined in subsection (2) of that section; the same word in sections 75A and 75B of the 1996 Act is defined in section 75D(2), inserted by section 3 of the 2002 Act; in section 99 of the 1996 Act it is defined in subsection (2) of that section. Section 80B of the Employment Rights Act 1996 is, by regulations made under section 80B(8) of that Act, namely the Employment Rights Act 1996 (Application of Section 80B to Adoptions from Overseas) Regulations 2003 (S.I. [2003/920](https://www.legislation.gov.uk/uksi/2003/920)), applied to cases which involve adoption, but not the placement of a child for adoption under the law of any part of the United Kingdom, with the modifications prescribed by those Regulations. The sections cited in the preamble that are so modified are sections 80B(1) and (5).
+
+[^key-d3516f4151b1c5828ac1057b090fa653]: Commencement: Reg. 1 in force at 6.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/921/regulation/1)
+
+[^key-ad6431b1e7eb405ed08bd91516c21f6e]: Commencement: Reg. 2 in force at 6.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/921/regulation/1)
+
+[^f00003]: Footnote: S.I. [2002/2788](https://www.legislation.gov.uk/uksi/2002/2788).
+
+[^key-c41e84bb27a485b4be2c0562310cccb5]: Commencement: Reg. 3 in force at 6.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/921/regulation/1)
+
+[^key-ae774238a352c87ce4f373de712582ec]: Commencement: Reg. 4 in force at 6.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/921/regulation/1)
+
+[^key-da405b7adeb07983cbd6c1eeb95df7e8]: Textual amendment: [Reg. 4(2)(ab)](https://www.legislation.gov.uk/uksi/2003/921/regulation/4/2/ab) inserted (5.4.2015) by [The Shared Parental Leave and Paternity and Adoption Leave (Adoptions from Overseas) Regulations 2014 (S.I. 2014/3092)](https://www.legislation.gov.uk/uksi/2014/3092), [regs. 1](https://www.legislation.gov.uk/uksi/2014/3092/regulation/1), [23(a)](https://www.legislation.gov.uk/uksi/2014/3092/regulation/23/a)
+
+[^key-b83632f17c71044edb0d9927de9a2590]: Textual amendment: Words in [reg. 4(2)(b)](https://www.legislation.gov.uk/uksi/2003/921/regulation/4/2/b) substituted (5.4.2015) by [The Shared Parental Leave and Paternity and Adoption Leave (Adoptions from Overseas) Regulations 2014 (S.I. 2014/3092)](https://www.legislation.gov.uk/uksi/2014/3092), [regs. 1](https://www.legislation.gov.uk/uksi/2014/3092/regulation/1), [23(b)(i)](https://www.legislation.gov.uk/uksi/2014/3092/regulation/23/b/i)
+
+[^key-43aaa13e087d396d28427090cf6b5f1b]: Textual amendment: Words in [reg. 4(2)(b)](https://www.legislation.gov.uk/uksi/2003/921/regulation/4/2/b) substituted (15.7.2011) by [The Adoption and Children (Scotland) Act 2007 (Consequential Modifications) Order 2011 (S.I. 2011/1740)](https://www.legislation.gov.uk/uksi/2011/1740), [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1740/article/1/2), [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2011/1740/schedule/2/paragraph/8)
+
+[^key-0ce5ec8dfbb1175ce866d86681b5042c]: Textual amendment: Words in [reg. 4(2)(b)](https://www.legislation.gov.uk/uksi/2003/921/regulation/4/2/b) inserted (5.4.2015) by [The Shared Parental Leave and Paternity and Adoption Leave (Adoptions from Overseas) Regulations 2014 (S.I. 2014/3092)](https://www.legislation.gov.uk/uksi/2014/3092), [regs. 1](https://www.legislation.gov.uk/uksi/2014/3092/regulation/1), [23(b)(ii)](https://www.legislation.gov.uk/uksi/2014/3092/regulation/23/b/ii)
+
+[^key-fc939fa83c0c55b0c4190f18758d543f]: Commencement: Reg. 5 in force at 6.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/921/regulation/1)
+
+[^key-d5f0a797018d7ba112092315496b7ef5]: Commencement: Reg. 6 in force at 6.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/921/regulation/1)
+
+[^key-d43d98d7b14b49306706ece809c05ffd]: Commencement: Reg. 7 in force at 6.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/921/regulation/1)
+
+[^key-307766068068ce8c58f415ed0883f830]: Textual amendment: Word in [reg. 7](https://www.legislation.gov.uk/uksi/2003/921/regulation/7) substituted (18.2.2026 for specified purposes, 6.4.2026 in so far as not already in force) by [The Employment Rights Act 2025 (Parental and Paternity Leave) (Removal of Qualifying Periods etc.) (Consequential Amendments) Regulations 2026 (S.I. 2026/15)](https://www.legislation.gov.uk/uksi/2026/15), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/15/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2026/15/regulation/1/3), [11(a)](https://www.legislation.gov.uk/uksi/2026/15/regulation/11/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2026/15/regulation/3))
+
+[^key-a46a608b85aaa92bb0fecf470cf8affd]: Textual amendment: Words in [reg. 7](https://www.legislation.gov.uk/uksi/2003/921/regulation/7) omitted (18.2.2026 for specified purposes, 6.4.2026 in so far as not already in force) by virtue of [The Employment Rights Act 2025 (Parental and Paternity Leave) (Removal of Qualifying Periods etc.) (Consequential Amendments) Regulations 2026 (S.I. 2026/15)](https://www.legislation.gov.uk/uksi/2026/15), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/15/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2026/15/regulation/1/3), [11(b)](https://www.legislation.gov.uk/uksi/2026/15/regulation/11/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2026/15/regulation/3))
+
+[^key-32e455c35ff6f0a00bc5cd50eec51d02]: Textual amendment: Words in [reg. 7](https://www.legislation.gov.uk/uksi/2003/921/regulation/7) omitted (18.2.2026 for specified purposes, 6.4.2026 in so far as not already in force) by virtue of [The Employment Rights Act 2025 (Parental and Paternity Leave) (Removal of Qualifying Periods etc.) (Consequential Amendments) Regulations 2026 (S.I. 2026/15)](https://www.legislation.gov.uk/uksi/2026/15), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/15/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2026/15/regulation/1/3), [7(2)(a)](https://www.legislation.gov.uk/uksi/2026/15/regulation/7/2/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2026/15/regulation/3))
+
+[^key-57396352fad7c3f2406f68f4000c916e]: Textual amendment: Words in [reg. 7](https://www.legislation.gov.uk/uksi/2003/921/regulation/7) inserted (5.12.2005) by [The Civil Partnership Act 2004 (Amendments to Subordinate Legislation) Order 2005 (S.I. 2005/2114)](https://www.legislation.gov.uk/uksi/2005/2114), [art. 2(17)](https://www.legislation.gov.uk/uksi/2005/2114/article/2/17), [reg. 1](https://www.legislation.gov.uk/uksi/2005/2114/regulation/1), [Sch. 17 para. 5(2)(a)](https://www.legislation.gov.uk/uksi/2005/2114/schedule/17/paragraph/5/2/a)
+
+[^key-2f9f79ca76f2ff0474bbaeab7a419f00]: Textual amendment: Words in [reg. 7](https://www.legislation.gov.uk/uksi/2003/921/regulation/7) omitted (18.2.2026 for specified purposes, 6.4.2026 in so far as not already in force) by virtue of [The Employment Rights Act 2025 (Parental and Paternity Leave) (Removal of Qualifying Periods etc.) (Consequential Amendments) Regulations 2026 (S.I. 2026/15)](https://www.legislation.gov.uk/uksi/2026/15), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/15/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2026/15/regulation/1/3), [7(2)(b)](https://www.legislation.gov.uk/uksi/2026/15/regulation/7/2/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2026/15/regulation/3))
+
+[^key-0e151d14e7590bd71387753d06db0610]: Textual amendment: Words in [reg. 7](https://www.legislation.gov.uk/uksi/2003/921/regulation/7) substituted (8.3.2024 immediately after [S.I. 2024/329](https://www.legislation.gov.uk/uksi/2024/329), [Pts. 1](https://www.legislation.gov.uk/uksi/2024/329/part/1), [2](https://www.legislation.gov.uk/uksi/2024/329/part/2) come into force) by [The Paternity Leave (Amendment) Regulations 2024 (S.I. 2024/329)](https://www.legislation.gov.uk/uksi/2024/329), [regs. 2](https://www.legislation.gov.uk/uksi/2024/329/regulation/2), [18(a)](https://www.legislation.gov.uk/uksi/2024/329/regulation/18/a) (with [reg. 6](https://www.legislation.gov.uk/uksi/2024/329/regulation/6))
+
+[^key-b596318b22bcbf84ad3eb0660067f954]: Textual amendment: Words in [reg. 7](https://www.legislation.gov.uk/uksi/2003/921/regulation/7) substituted (8.3.2024 immediately after [S.I. 2024/329](https://www.legislation.gov.uk/uksi/2024/329), [Pts. 1](https://www.legislation.gov.uk/uksi/2024/329/part/1), [2](https://www.legislation.gov.uk/uksi/2024/329/part/2) come into force) by [The Paternity Leave (Amendment) Regulations 2024 (S.I. 2024/329)](https://www.legislation.gov.uk/uksi/2024/329), [regs. 2](https://www.legislation.gov.uk/uksi/2024/329/regulation/2), [18(b)](https://www.legislation.gov.uk/uksi/2024/329/regulation/18/b) (with [reg. 6](https://www.legislation.gov.uk/uksi/2024/329/regulation/6))
+
+[^key-5ca381e26fb8c493b12c535ebefb1e17]: Textual amendment: Words in [reg. 7](https://www.legislation.gov.uk/uksi/2003/921/regulation/7) substituted (8.3.2024 immediately after [S.I. 2024/329](https://www.legislation.gov.uk/uksi/2024/329), [Pts. 1](https://www.legislation.gov.uk/uksi/2024/329/part/1), [2](https://www.legislation.gov.uk/uksi/2024/329/part/2) come into force) by [The Paternity Leave (Amendment) Regulations 2024 (S.I. 2024/329)](https://www.legislation.gov.uk/uksi/2024/329), [regs. 2](https://www.legislation.gov.uk/uksi/2024/329/regulation/2), [18(c)](https://www.legislation.gov.uk/uksi/2024/329/regulation/18/c) (with [reg. 6](https://www.legislation.gov.uk/uksi/2024/329/regulation/6))
+
+[^key-8af19c09d9568f4ffe1d2de000a57a61]: Textual amendment: Words in [reg. 7](https://www.legislation.gov.uk/uksi/2003/921/regulation/7) substituted (18.2.2026 for specified purposes, 6.4.2026 in so far as not already in force) by [The Employment Rights Act 2025 (Parental and Paternity Leave) (Removal of Qualifying Periods etc.) (Consequential Amendments) Regulations 2026 (S.I. 2026/15)](https://www.legislation.gov.uk/uksi/2026/15), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/15/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2026/15/regulation/1/3), [7(3)](https://www.legislation.gov.uk/uksi/2026/15/regulation/7/3) (with [reg. 3](https://www.legislation.gov.uk/uksi/2026/15/regulation/3))
+
+[^key-aa0ee29b5a3039e92532e887d525d80b]: Textual amendment: [Reg. 8](https://www.legislation.gov.uk/uksi/2003/921/regulation/8) substituted (8.3.2024 immediately after [S.I. 2024/329](https://www.legislation.gov.uk/uksi/2024/329), [Pts. 1](https://www.legislation.gov.uk/uksi/2024/329/part/1), [2](https://www.legislation.gov.uk/uksi/2024/329/part/2) come into force) by [The Paternity Leave (Amendment) Regulations 2024 (S.I. 2024/329)](https://www.legislation.gov.uk/uksi/2024/329), [regs. 2](https://www.legislation.gov.uk/uksi/2024/329/regulation/2), [19](https://www.legislation.gov.uk/uksi/2024/329/regulation/19) (with [reg. 6](https://www.legislation.gov.uk/uksi/2024/329/regulation/6))
+
+[^key-a156e9c54f7afea54e5262a51666e19a]: Textual amendment: [Reg. 8A](https://www.legislation.gov.uk/uksi/2003/921/regulation/8A) inserted (8.3.2024 immediately after [S.I. 2024/329](https://www.legislation.gov.uk/uksi/2024/329), [Pts. 1](https://www.legislation.gov.uk/uksi/2024/329/part/1), [2](https://www.legislation.gov.uk/uksi/2024/329/part/2) come into force) by [The Paternity Leave (Amendment) Regulations 2024 (S.I. 2024/329)](https://www.legislation.gov.uk/uksi/2024/329), [regs. 2](https://www.legislation.gov.uk/uksi/2024/329/regulation/2), [20](https://www.legislation.gov.uk/uksi/2024/329/regulation/20) (with [reg. 6](https://www.legislation.gov.uk/uksi/2024/329/regulation/6))
+
+[^key-765b4ae5791703149f07d70bf9bd8e5d]: Commencement: Reg. 9 in force at 6.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/921/regulation/1)
+
+[^key-7256e2ced37e06a9e7f65a48dd727439]: Textual amendment: Words in [reg. 9](https://www.legislation.gov.uk/uksi/2003/921/regulation/9) substituted (5.4.2015) by [The Shared Parental Leave and Paternity and Adoption Leave (Adoptions from Overseas) Regulations 2014 (S.I. 2014/3092)](https://www.legislation.gov.uk/uksi/2014/3092), [regs. 1](https://www.legislation.gov.uk/uksi/2014/3092/regulation/1), [25(a)](https://www.legislation.gov.uk/uksi/2014/3092/regulation/25/a)
+
+[^key-3947ae0b0dbd30a17055eec89ee95f0c]: Textual amendment: Words in [reg. 9](https://www.legislation.gov.uk/uksi/2003/921/regulation/9) substituted (5.4.2015) by [The Shared Parental Leave and Paternity and Adoption Leave (Adoptions from Overseas) Regulations 2014 (S.I. 2014/3092)](https://www.legislation.gov.uk/uksi/2014/3092), [regs. 1](https://www.legislation.gov.uk/uksi/2014/3092/regulation/1), [25(b)](https://www.legislation.gov.uk/uksi/2014/3092/regulation/25/b)
+
+[^key-ce47dcac0756ae8b8c928a09a8aec591]: Textual amendment: Words in [reg. 9](https://www.legislation.gov.uk/uksi/2003/921/regulation/9) inserted (5.4.2015) by [The Shared Parental Leave and Paternity and Adoption Leave (Adoptions from Overseas) Regulations 2014 (S.I. 2014/3092)](https://www.legislation.gov.uk/uksi/2014/3092), [regs. 1](https://www.legislation.gov.uk/uksi/2014/3092/regulation/1), [25(c)](https://www.legislation.gov.uk/uksi/2014/3092/regulation/25/c)
+
+[^key-006114bf25990052fe5d4203c66ba7a1]: Textual amendment: Words in [reg. 9](https://www.legislation.gov.uk/uksi/2003/921/regulation/9) omitted (5.4.2015) by virtue of [The Shared Parental Leave and Paternity and Adoption Leave (Adoptions from Overseas) Regulations 2014 (S.I. 2014/3092)](https://www.legislation.gov.uk/uksi/2014/3092), [regs. 1](https://www.legislation.gov.uk/uksi/2014/3092/regulation/1), [25(d)](https://www.legislation.gov.uk/uksi/2014/3092/regulation/25/d)
+
+[^key-8b1e97d312f2e0330375c47fe18ed0a0]: Commencement: Reg. 10 in force at 6.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/921/regulation/1)
+
+[^key-aa4ef3829a9edf0e9dd757c1ce03cc96]: Commencement: Reg. 11 in force at 6.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/921/regulation/1)
+
+[^key-3ac33bb8ad20df00c63330a125650779]: Commencement: Reg. 12 in force at 6.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/921/regulation/1)
+
+[^key-99086f48afdc8a25bf99fb3118ae12bd]: Textual amendment: [Reg. 13](https://www.legislation.gov.uk/uksi/2003/921/regulation/13) inserted (6.4.2024) by [The Maternity Leave, Adoption Leave and Shared Parental Leave (Amendment) Regulations 2024 (S.I. 2024/264)](https://www.legislation.gov.uk/uksi/2024/264), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/264/regulation/1/3), [6](https://www.legislation.gov.uk/uksi/2024/264/regulation/6)

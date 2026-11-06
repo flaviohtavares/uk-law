@@ -1,0 +1,235 @@
+---
+title: Solomon Islands Act 1978
+id: ukpga/1978/15
+type: UnitedKingdomPublicGeneralAct
+category: primary
+status: revised
+made_date: '1978-05-25'
+text_date: '2009-10-31'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/1978/15
+pdf_urls:
+- http://www.legislation.gov.uk/ukpga/1978/15/pdfs/ukpga_19780015_en.pdf
+- http://www.legislation.gov.uk/ukpga/1978/15/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Solomon Islands Act 1978
+
+> Text as at 2009-10-31.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+Solomon Islands Act 1978
+
+1978 c.15
+
+An Act to make provision for, and in connection with, the attainment by Solomon Islands of independence within the Commonwealth.
+
+\[25th May 1978\]
+
+## The new state
+
+### 1. Independence for Solomon Islands.
+
+(1) On and after 7th July 1978 (“Independence Day”) the territories which immediately before that day are comprised in the Solomon Islands protectorate shall together form part of Her Majesty’s dominions under the name of Solomon Islands; and on and after that day Her Majesty’s Government in the United Kingdom shall have no responsibility for the government of those territories.
+
+(2) No Act of Parliament of the United Kingdom passed on or after Independence Day shall extend or be deemed to extend to Solomon Islands as part of its law.
+
+(3) Subsection (1) above shall not affect the operation in Solomon Islands of any enactment or any other instrument having the effect of law passed or made before Independence Day, or be taken to extend any such enactment or instrument to Solomon Islands as part of its law.
+
+## Nationality law
+
+### 2. Effect of independence on British nationality.
+
+(1) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c908856]
+
+(2) A person who, immediately before Independence Day, is a citizen of the United Kingdom and Colonies and has (within section 3 below) a connection with the Solomon Islands protectorate shall cease to be such a citizen on becoming (on that day or later) a citizen of Solomon Islands.
+
+(3) A person born on or after Independence Day, but before 7th July 1980—
+
+- (a) who is at birth a citizen of the United Kingdom and Colonies by descent only; and
+- (b) whose father was immediately before Independence Day a citizen of the United Kingdom and Colonies and then had (within section 3) a connection with the protectorate,
+
+shall cease to be such a citizen on becoming a citizen of Solomon Islands.
+
+(4) A person referred to in subsection (2) or (3) above, if before 7th July 1980 he has not become a citizen of Solomon Islands—
+
+- (a) shall on that day cease to be a citizen of the United Kingdom and Colonies; and
+- (b) unless he then has another nationality, shall on that day become a British protected person.
+
+### 3. “Connection with Solomon Islands”.
+
+(1) A person has a connection with the Solomon Islands protectorate if he or his father—
+
+- (a) was born in Solomon Islands; or
+- (b) became a citizen of the United Kingdom and Colonies by virtue of a certificate of naturalisation granted, or registration effected, at a time when he was resident in Solomon Islands.
+
+(2) Apart from subsection (1), a woman has a connection with the protectorate if she acquired the status of citizen of the United Kingdom and Colonies (automatically or by registration) on the grounds of marriage to a man who has that connection by virtue of subsection (1), or would have done so had he lived.
+
+(3) But a person does not have a connection with the protectorate if he, his father or his father’s father—
+
+- (a) was born in the United Kingdom or in a relevant territory; or
+- (b) is or was a person naturalised in the United Kingdom and Colonies by virtue of a certificate of naturalisation granted in the United Kingdom or a relevant territory; or
+- (c) was, in the United Kingdom or a relevant territory, registered as a citizen of the United Kingdom and Colonies, or was so registered by a High Commissioner exercising functions under section 8(2) or 12(7) of the 1948 Act; or
+- (d) became a British subject by reason of the annexation of any territory included in a relevant territory.
+
+(4) Nor does a person have that connection if his father or his father’s father would, if living immediately before the commencement of the 1948 Act, have become a person naturalised in the United Kingdom and Colonies under section 32(6) of that Act (previous local naturalisation in a colony or protectorate) by virtue of having enjoyed the privileges of naturalisation in a relevant territory.
+
+(5) Subsection (3)(*c*) above does not apply to a woman by virtue of her registration as a citizen of the United Kingdom and Colonies if that registration was effected under section 6(2) of the 1948 Act (registration as citizens of United Kingdom and Colonies of women who have been married to such citizens).
+
+(6) In this section “**relevant territory**” means any territory which on Independence Day is a colony or an associated state, other than any territory which on that day is not a colony for the purposes of the 1948 Act as then in force (and accordingly does not include Solomon Islands).
+
+### 4. British protected persons.
+
+(1) A person who immediately before Independence Day is a British protected person by virtue of his connection with the Solomon Islands protectorate—
+
+- (a) shall cease to be a British protected person on that day if he then becomes a citizen of Solomon Islands or is then a citizen of the United Kingdom and Colonies; but
+- (b) otherwise, shall continue on and after that day to be a British protected person, subject to subsection (3) below.
+
+(2) A person born on or after Independence Day and before 7th July 1980 shall become a British protected person if—
+
+- (a) he does not at birth acquire another nationality or become a citizen of the United Kingdom and Colonies; and
+- (b) his father was born in Solomon Islands and is, at the date of the birth, a British protected person by virtue of subsection (1).
+
+(3) A person who continues to be a British protected person under subsection (1), or becomes one under subsection (2), shall cease to be a British protected person—
+
+- (a) on becoming at any time a citizen of Solomon Islands or of the United Kingdom and Colonies;
+- (b) on 7th July 1980, if he then has another nationality; or
+- (c) after that day, on acquiring another nationality.
+
+(4) A person who becomes a British protected person on 7th July 1980 by virtue of section 2(4) of this Act shall cease to be a British protected person if, on or after that day, he becomes a citizen of Solomon Islands or of the United Kingdom and Colonies, or acquires another nationality.
+
+(5) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c908857]
+
+### 5. Married women.
+
+(1) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c908858]
+
+(2) A woman who is a British protected person, and is the wife of such a person, shall not herself cease to be a British protected person under section 4 unless her husband does so.
+
+(3) . . . [^c908858]
+
+### 6. Construction of nationality provisions.
+
+(1) References in this Act to a person having or acquiring another nationality are to his being or (as the case may be) becoming a citizen of any country specified in Schedule 3 to the British Nationality Act 1981[^c908864] (except Solomon Islands), or of a foreign country or of the Republic of Ireland.
+
+(2)[^c908865] The following provisions of the British Nationality Act 1981, namely sections 45 (evidence), 46 (offences and proceedings), 48 (posthumous children) and 50 (interpretation) shall have effect for the purposes of sections 2 to 6 of this Act as if those sections of this Act were included in that Act.
+
+(3) A person born out of wedlock and legitimated (within the meaning of section 47(2) of the British Nationality Act 1981)[^c908866] by the subsequent marriage of his parents shall be treated as if he had been born legitimate for any purpose of determining his status, or any change in his status, under this Act.
+
+(4)[^c908867] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Other matters
+
+### 7. Consequential amendment of law.
+
+(1) . . . [^c908868]
+
+(2)[^key-bef96679de1c73e8ab96df103aa0b620] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3)[^key-b79bee1d2602ea11bf277daa173158f5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) On and after Independence Day the enactments specified in the Schedule to this Act have effect subject to the amendments there specified.
+
+This subsection and the Schedule do not extend to Solomon Islands as part of its law.
+
+### 8. Pending appeals to Privy Council.
+
+. . . [^c908874]
+
+### 9. Interpretation.
+
+(1) In this act, and in any amendments made by this Act in any other enactment, “**Solomon Islands**” means the territories which immediately before Independence Day constitute the Solomon Islands protectorate; and “**the 1948 Act**” means the [^c908875]British Nationality Act 1948.
+
+(2) References in this Act to any enactment are references to that enactment as amended or extended by or under another enactment.
+
+## General
+
+### 10. Citation.
+
+This Act may be cited as the Solomon Islands Act 1978.
+
+## SCHEDULE — Amendments not affecting the law of Solomon Islands
+
+Section 7(4).
+
+**1.** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c908876]
+
+### Visiting forces
+
+**2.** In the [^c908877]Visiting Forces (British Commonwealth) Act 1933, section 4 (attachment and mutual powers of command) applies in relation to forces raised in Solomon Islands as it applies to forces raised in Dominions within the meaning of the [^c908878]Statute of Westminster 1931
+
+**3.** In the [^c908879]Visiting Forces Act 1952—
+
+- (a)[^c908880] in section 1(1)(a) (countries to which the Act applies) at the end there shall be added the words “Solomon Islands or”;
+- (b) in section 10(1)(*a*), the expression “**colony**” shall not include Solomon Islands;
+
+and, until express provision with respect to Solomon Islands is made by an Order in Council under section 8 of that Act (application to visiting forces of law relating to home forces), any such Order for the time being in force shall be deemed to apply to visiting forces of Solomon Islands.
+
+### Ships and aircraft
+
+**4.**[^c908884] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**5.** In the [^c908885]Whaling Industry (Regulation) Act 1934, the expression “**British Ship to which this Act applies**” shall not include a British ship registered in Solomon Islands.
+
+**6.** . . . [^c908886]
+
+### Colonial stock
+
+**7.**[^c908887] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Commonwealth Institute
+
+**8.**[^c908891] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Annotations
+
+[^c908856]: Textual amendment: [Ss. 2(1)](https://www.legislation.gov.uk/ukpga/1978/15/section/2/1), [4(5)](https://www.legislation.gov.uk/ukpga/1978/15/section/4/5) repealed by [British Nationality Act 1981 (c. 61, SIF 87)](https://www.legislation.gov.uk/ukpga/1981/61), [Sch. 9](https://www.legislation.gov.uk/ukpga/1981/61/schedule/9)
+
+[^c908857]: Textual amendment: [Ss. 2(1)](https://www.legislation.gov.uk/ukpga/1978/15/section/2/1), [4(5)](https://www.legislation.gov.uk/ukpga/1978/15/section/4/5) repealed by [British Nationality Act 1981 (c. 61, SIF 87)](https://www.legislation.gov.uk/ukpga/1981/61), [Sch. 9](https://www.legislation.gov.uk/ukpga/1981/61/schedule/9)
+
+[^c908858]: Textual amendment: [S. 5(1)(3)](https://www.legislation.gov.uk/ukpga/1978/15/section/5/1/3) repealed by [British Nationality Act 1981 (c. 61, SIF 87)](https://www.legislation.gov.uk/ukpga/1981/61), [Sch. 9](https://www.legislation.gov.uk/ukpga/1981/61/schedule/9)
+
+[^c908864]: Textual amendment: Words substituted by [British Nationality Act 1981 (c. 61, SIF 87)](https://www.legislation.gov.uk/ukpga/1981/61), [Sch. 7](https://www.legislation.gov.uk/ukpga/1981/61/schedule/7)
+
+[^c908865]: Textual amendment: [S. 6(2)](https://www.legislation.gov.uk/ukpga/1978/15/section/6/2) substituted by [British Nationality Act 1981 (c. 61, SIF 87)](https://www.legislation.gov.uk/ukpga/1981/61), [Sch. 7](https://www.legislation.gov.uk/ukpga/1981/61/schedule/7)
+
+[^c908866]: Textual amendment: Words substituted by [British Nationality Act 1981 (c. 61, SIF 87)](https://www.legislation.gov.uk/ukpga/1981/61), [Sch. 7](https://www.legislation.gov.uk/ukpga/1981/61/schedule/7)
+
+[^c908867]: Textual amendment: [S. 6(4)](https://www.legislation.gov.uk/ukpga/1978/15/section/6/4) repealed (8.11.1995) by [1995 c. 44](https://www.legislation.gov.uk/ukpga/1995/44), [s. 1(1)](https://www.legislation.gov.uk/ukpga/1995/44/section/1/1), [Sch. 1 Pt. II](https://www.legislation.gov.uk/ukpga/1995/44/schedule/1/part/II)
+
+[^c908868]: Textual amendment: S. 7(1) repealed by [Interpretation Act 1978 (c. 30, SIF 115:1)](https://www.legislation.gov.uk/ukpga/1978/30), [Sch. 3](https://www.legislation.gov.uk/ukpga/1978/30/schedule/3)
+
+[^key-bef96679de1c73e8ab96df103aa0b620]: Textual amendment: [S. 7(2)](https://www.legislation.gov.uk/ukpga/1978/15/section/7/2) repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 17](https://www.legislation.gov.uk/ukpga/2006/52/schedule/17); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in S.I. 2009/1059); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+
+[^key-b79bee1d2602ea11bf277daa173158f5]: Textual amendment: [S. 7(3)](https://www.legislation.gov.uk/ukpga/1978/15/section/7/3) repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 17](https://www.legislation.gov.uk/ukpga/2006/52/schedule/17); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in S.I. 2009/1059); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+
+[^c908874]: Textual amendment: [S. 8](https://www.legislation.gov.uk/ukpga/1978/15/section/8) repealed by [Statute Law (Repeals) Act 1986 (c. 12)](https://www.legislation.gov.uk/ukpga/1986/12), [s. 1(1)](https://www.legislation.gov.uk/ukpga/1986/12/section/1/1), [Sch. 1 Pt. I](https://www.legislation.gov.uk/ukpga/1986/12/schedule/1/part/I)
+
+[^c908875]: Marginal citation: [1948 c. 56](https://www.legislation.gov.uk/ukpga/1948/56).
+
+[^c908876]: Textual amendment: [Sch. para. 1](https://www.legislation.gov.uk/ukpga/1978/15/schedule/paragraph/1) repealed by [International Organisations Act 1981 (c. 9, SIF 68: 1)](https://www.legislation.gov.uk/ukpga/1981/9), [Sch.](https://www.legislation.gov.uk/ukpga/1981/9/schedule)
+
+[^c908877]: Marginal citation: [1933 c. 6](https://www.legislation.gov.uk/ukpga/1933/6).
+
+[^c908878]: Marginal citation: [1931 c. 4 (22 & 23 Geo. 5)](https://www.legislation.gov.uk/ukpga/Geo5/22-23/4).
+
+[^c908879]: Marginal citation: [1952 c. 67](https://www.legislation.gov.uk/ukpga/1952/67).
+
+[^c908880]: Modification: The text of Sch. para. 3(a) is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
+
+[^c908884]: Textual amendment: [Sch. para. 4](https://www.legislation.gov.uk/ukpga/1978/15/schedule/paragraph/4) repealed (1.1.1996) by [1995 c. 21](https://www.legislation.gov.uk/ukpga/1995/21), [ss. 314(1)](https://www.legislation.gov.uk/ukpga/1995/21/section/314/1), [316(2)](https://www.legislation.gov.uk/ukpga/1995/21/section/316/2), [Sch. 12](https://www.legislation.gov.uk/ukpga/1995/21/schedule/12) (with [ss. 312(1)](https://www.legislation.gov.uk/ukpga/1995/21/section/312/1), [Sch. 14 para. 1](https://www.legislation.gov.uk/ukpga/1995/21/schedule/14/paragraph/1))
+
+[^c908885]: Marginal citation: [1934 c. 49](https://www.legislation.gov.uk/ukpga/1934/49).
+
+[^c908886]: Textual amendment: [Sch. para. 6](https://www.legislation.gov.uk/ukpga/1978/15/schedule/paragraph/6) repealed by [Civil Aviation (Amendment) Act 1982 (c. 1, SIF 9)](https://www.legislation.gov.uk/ukpga/1982/1), [Sch. 2](https://www.legislation.gov.uk/ukpga/1982/1/schedule/2)
+
+[^c908887]: Textual amendment: [Sch. para. 7](https://www.legislation.gov.uk/ukpga/1978/15/schedule/paragraph/7) repealed (19.11.1998) by [1998 c. 43](https://www.legislation.gov.uk/ukpga/1998/43), [s. 1(1)](https://www.legislation.gov.uk/ukpga/1998/43/section/1/1), [Sch. 1 Pt. IV](https://www.legislation.gov.uk/ukpga/1998/43/schedule/1/part/IV) Gp. 1
+
+[^c908891]: Textual amendment: [Sch. para. 8](https://www.legislation.gov.uk/ukpga/1978/15/schedule/paragraph/8) repealed (7.1.2003) by [2002 c. 39](https://www.legislation.gov.uk/ukpga/2002/39), [ss. 3](https://www.legislation.gov.uk/ukpga/2002/39/section/3), [4(2)](https://www.legislation.gov.uk/ukpga/2002/39/section/4/2), [Sch. 3](https://www.legislation.gov.uk/ukpga/2002/39/schedule/3)

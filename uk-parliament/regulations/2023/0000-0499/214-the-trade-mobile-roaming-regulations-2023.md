@@ -1,0 +1,326 @@
+---
+title: The Trade (Mobile Roaming) Regulations 2023
+id: uksi/2023/214
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2023-02-24'
+text_date: '2026-08-05'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2023/214
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2023/214/pdfs/uksiem_20230214_en.pdf
+- http://www.legislation.gov.uk/uksi/2023/214/pdfs/uksi_20230214_en.pdf
+- http://www.legislation.gov.uk/uksi/2023/214/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Trade (Mobile Roaming) Regulations 2023
+
+> Text as at 2026-08-05.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2023 No. 214
+
+Electronic Communications
+
+Trade
+
+The Trade (Mobile Roaming) Regulations 2023
+
+Made
+
+24th February 2023
+
+Coming into force
+
+6th April 2023
+
+The Secretary of State for Culture, Media and Sport makes the following Regulations in exercise of the powers conferred by sections 2(1) and (9) and 4(1) of the Trade Act 2021[^f00001].
+
+A draft of these Regulations has been laid before, and approved by a resolution of, each House of Parliament in accordance with paragraph 4(1) of Schedule 2 to the Trade Act 2021.
+
+## PART 1 — Preliminary provisions
+
+### 1. Citation and commencement[^key-2d5ebfd4a05531ccc237951dcdc7f585]
+
+These Regulations—
+
+- (a) may be cited as the Trade (Mobile Roaming) Regulations 2023, and
+- (b) come into force on 6th April 2023.
+
+### 2. Extent[^key-d9636aa87fe1c5120f37a79d6b258673]
+
+These Regulations extend to England and Wales, Northern Ireland and Scotland.
+
+### 3. Definitions[^key-94642008ab4ecd7c2d2944c99e2faa5e]
+
+In these Regulations—
+
+- “**the 2003 Act**” means the Communications Act 2003[^f00002];
+- “**access-related condition**” means a condition set as an access-related condition under section 45 of the 2003 Act;
+- “**British provider**” means a provider of a mobile phone service in the United Kingdom;
+- “**customer**” means, in relation to an overseas provider, a person who normally uses a mobile phone service of the provider in the country or territory of the provider;
+- “**maximum rate**” means the maximum rate specified in the Schedule;
+- “**mobile phone service**” has the meaning given in section 124S(10) of the 2003 Act[^f00003];
+- “**Ofcom**” means the body corporate established under section 1(1) of the Office of Communications Act 2002[^f00004];
+- “**overseas provider**” means a provider of a mobile phone service in a country or territory other than the United Kingdom;
+- “**roaming agreement**” means an agreement between a British provider and an overseas provider that enables a customer of the overseas provider to use a mobile phone service of the British provider while that customer is in the United Kingdom.
+
+## PART 2 — Maximum rates chargeable to overseas providers
+
+### 4. Limitation of Part 2[^key-c51321598f405e751a8f95cc77050f09]
+
+Nothing in this Part—
+
+- (a) provides a right to the customers of an overseas provider to use a mobile phone service in the United Kingdom, or
+- (b) restricts a British provider from imposing conditions on the use of its mobile phone service to prevent abusive or anomalous usage by the customers of an overseas provider.
+
+### 5. Iceland[^key-f9f894c2d681245fac0ea1951c8a6b76]
+
+(1) This regulation applies to a British provider who has a roaming agreement with an overseas provider in Iceland.
+
+(2) The British provider must not charge the overseas provider more than the maximum rate for the use of a mobile phone service in the United Kingdom by its customers.
+
+### 6. Norway[^key-94cb13832ea4f918fb7ae7e4ee8b9a69]
+
+(1) This regulation applies to a British provider who has a roaming agreement with an overseas provider in Norway.
+
+(2) The British provider must not charge the overseas provider more than the maximum rate for the use of a mobile phone service in the United Kingdom by its customers.
+
+## PART 3 — Enforcement and information
+
+### Enforcement
+
+#### 7. Power of Ofcom to enforce maximum rates[^key-180ad8e2aca9930af768cfe611f759df]
+
+(1) Ofcom may enforce a requirement under Part 2.
+
+(2) Sections 96A to 97 and 104 of the 2003 Act[^f00005] apply for the enforcement of a requirement under Part 2 as they apply for the enforcement of an access-related condition.
+
+### Information
+
+#### 8. Power of Ofcom to require information for enforcement purposes[^key-e0a5782208e62345782edbc9a20b237b]
+
+(1) Ofcom may require information for the purpose of ascertaining whether a contravention of a requirement under Part 2 has occurred or is occurring.
+
+(2) Section 135 of the 2003 Act[^f00006] applies for the purpose mentioned in paragraph (1) as it applies for the purpose of ascertaining whether a contravention of an access-related condition has occurred or is occurring.
+
+(3) Sections 138, 139(1) to (5) and 139A of the 2003 Act[^f00007] apply for the enforcement of a requirement under section 135 of the 2003 Act as applied by paragraph (2) as they apply for the enforcement of any other requirement under section 135 of that Act.
+
+## PART 4 — Dispute resolution and appeals
+
+### Dispute resolution
+
+#### 9. Power of Ofcom to resolve disputes[^key-7c92994552650dfce1df97567b2827d1]
+
+(1) Ofcom may resolve a dispute relating to a requirement under Part 2.
+
+(2) Sections 185 to 191(4) of the 2003 Act[^f00008] apply in the case of a dispute relating to a requirement under Part 2 as they apply in the case of a dispute falling within section 185(1) of that Act.
+
+(3) Sections 138, 139(1) to (5) and 139A of the 2003 Act apply for the enforcement of a requirement under section 191(1) of the 2003 Act as applied by paragraph (2) as they apply for the enforcement of a requirement under section 135 of that Act.
+
+### Appeals
+
+#### 10. Right of appeal to the Competition Appeal Tribunal[^key-988afe0602da2dee443effeca3bde11f]
+
+(1) A person affected by a decision by Ofcom under the 2003 Act as applied by these Regulations may appeal against it to the Competition Appeal Tribunal.
+
+(2) Sections 192, 194A and 196 of the 2003 Act[^f00009] apply in relation to a decision mentioned in paragraph (1) as they apply in relation to a decision mentioned in section 192(1)(a) of that Act.
+
+(3) In this regulation, “**Competition Appeal Tribunal**” means the tribunal established under section 12(1) of the Enterprise Act 2002[^f00010];
+
+## PART 5 — Miscellaneous provisions
+
+### 11. Service of notification and other documents[^key-58d90afc0f9d19d548e90796865aca4b]
+
+Sections 394(3) to (10) of the 2003 Act apply in relation to any provision of that Act as applied by these Regulations that authorises or requires—
+
+- (a) a notification to be given to any person, or
+- (b) a document of any other description (including a copy of a document) to be sent to any person.
+
+### 12. Consolidated Fund[^key-9d119e7d426da18ae7fe83fb939f6256]
+
+An amount paid to Ofcom in respect of a penalty imposed by it under the 2003 Act as applied by these Regulations must be paid into the Consolidated Fund.
+
+### 13. Periodic review of regulatory provision[^key-672d05570492d72b1dccb99e24726f76]
+
+(1) The Secretary of State must from time to time—
+
+- (a) carry out a review of the regulatory provision contained in these Regulations, and
+- (b) publish a report setting out the conclusions of that review.
+
+(2) Section 30(3) of the 2015 Act[^f00011] requires that, in relation to each international obligation of the United Kingdom implemented in these Regulations, the review must, so far as is reasonable, have regard to how the obligation is implemented in other countries that are subject to the obligation.
+
+(3) Section 30(4) of the 2015 Act requires that the report must, in particular—
+
+- (a) set out the objectives intended to be achieved by the regulatory provision,
+- (b) assess the extent to which those objectives are achieved,
+- (c) assess whether those objectives remain appropriate, and
+- (d) if those objectives remain appropriate, assess the extent to which they could be achieved in another way that involves less onerous regulatory provision.
+
+(4) Section 30(5) of the 2015 Act requires that the first report must be published before the fifth anniversary of the date on which these Regulations come into force (see regulation 1(b)).
+
+(5) Section 30(6) of the 2015 Act requires that subsequent reports must be published at intervals not exceeding five years.
+
+(6) In this regulation—
+
+- “**the 2015 Act**” means the Small Business, Enterprise and Employment Act 2015[^f00012];
+- “**regulatory provision**” has the meaning given in section 32 of the 2015 Act.
+
+### 14. Revocations[^key-d224f8bba72c79b8a9875be47f689f8f]
+
+The enactments cited in the table are revoked[^f00013].
+
+| Title | Number |
+| --- | --- |
+| Regulation (EU) No 531/2012 of the European Parliament and of the Council of 13 June 2012 on roaming on public mobile communications networks within the Union | EUR 2012/531 |
+| Commission Implementing Regulation (EU) 2019/2116 of 28 November 2019 setting the weighted average of maximum mobile termination rates across the Union and repealing Implementing Regulation (EU) 2018/1979 | EUR 2019/2116 |
+| The Mobile Roaming (European Communities) Regulations 2007 | [S.I. 2007/1933](https://www.legislation.gov.uk/uksi/2007/1933) |
+| The Mobile Roaming (European Communities) (Amendment) Regulations 2009 | [S.I. 2009/1591](https://www.legislation.gov.uk/uksi/2009/1591) |
+| The Mobile Roaming (European Communities) (Amendment) Regulations 2013 | [S.I. 2013/822](https://www.legislation.gov.uk/uksi/2013/822) |
+| The Mobile Roaming (European Communities) (Amendment) Regulations 2014 | [S.I. 2014/2715](https://www.legislation.gov.uk/uksi/2014/2715) |
+| The Mobile Roaming (EU Exit) Regulations 2019 | [S.I. 2019/587](https://www.legislation.gov.uk/uksi/2019/587) |
+
+Signed by authority of the Secretary of State for Culture, Media and Sport
+
+Julia Lopez
+
+Minister of State
+
+Department for Culture, Media and Sport
+
+24th February 2023
+
+## SCHEDULE — Maximum rates[^key-1734a252b47a9c9f401e14fa0b54189b]
+
+Regulation 3
+
+<table>
+<thead>
+<tr><th>Use of mobile phone service (by type)</th><th>Maximum rate (in euro)</th></tr>
+</thead>
+<tfoot>
+<tr><td colspan="2">(1)<br>An “SMS message” is a Short Message Service text message.</td></tr>
+</tfoot>
+<tbody>
+<tr><td>The making of a telephone call</td><td>€0.019 per minute</td></tr>
+<tr><td>The receiving of an SMS message</td><td>Nil</td></tr>
+<tr><td>The sending of an SMS message</td><td>€0.003 per SMS message</td></tr>
+<tr><td>The transmission of data (Internet access)</td><td>Before 1st January 2027, €1.30 per gigabyte. On or after 1st January 2027, €1 per gigabyte</td></tr>
+</tbody>
+</table>
+
+[^key-568196bc0319e3b719e3299bcc77c3c4][^f01000][^key-221d787371ac624b6a7edd5b935bd786][^key-5d7ce416a9c4cb7ecead78a86aefd58a]
+
+EXPLANATORY NOTE
+
+(This note is not part of these Regulations)
+
+These Regulations limit the wholesale roaming rates chargeable to mobile phone service providers in certain countries or territories with which the United Kingdom has an international agreement.
+
+These Regulations give effect to Articles 3.69 of, and Annex XX to, the Free Trade Agreement between Iceland, the Principality of Liechtenstein, and the Kingdom of Norway and the United Kingdom of Great Britain and Northern Ireland (Miscellaneous Series No. 3 (2021)).
+
+The following expressions, used below, are defined or otherwise explained in *regulation* *3*: “British provider”, “mobile phone service”, “Ofcom” and “overseas provider”.
+
+*Part 2* sets out the maximum rates chargeable to overseas providers in certain countries. In summary:
+
+- *regulation* *4* provides that a requirement under *Part 2* does not prevent a British provider from limiting the use of its mobile phone service by the customers of an overseas provider;
+- *regulations* *5* *and* *6* limit the wholesale roaming rates that a British provider may charge for the use of a mobile phone service by customers of overseas providers in Iceland or Norway.
+
+*Part 3* provides for Ofcom to use a limited range of its powers under the Communications Act [2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21). In summary:
+
+- *regulation* *7* provides for Ofcom to enforce the maximum rates chargeable;
+- *regulation* *8* authorises Ofcom to require information from certain persons for enforcement purposes.
+
+*Part 4* provides for dispute resolution and appeals. In summary:
+
+- *regulation* *9* provides for Ofcom to use a limited range of its powers under the Communications Act 2003 to resolve disputes relating to the maximum rates chargeable;
+- *regulation* *10* provides a right of appeal against a decision made by Ofcom under the Communications Act 2003 as applied by these Regulations.
+
+*Part 5* contains miscellaneous provisions. In summary:
+
+- *regulation* *11* provides for the service of notification and other documents made under the Communications Act 2003 as applied by these Regulations;
+- *regulation* *12* requires that any amounts paid to Ofcom by virtue of these Regulations is paid into the Consolidated Fund;
+- *regulation* *13*, which provides for a quinquennial review of the regulatory provision in these Regulations, implements the duty imposed by section 28 of the Small Business, Enterprise and Employment Act [2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26);
+- *regulation* *14* revokes spent enactments.
+
+The text of international agreements may be found online via www.gov.uk/guidance/uk-treaties.
+
+A full impact assessment has not been produced for this instrument as no, or no significant, impact on the private, voluntary, or public sector is foreseen.
+
+An Explanatory Memorandum is published alongside this instrument at www.legislation.gov.uk.
+
+## Annotations
+
+[^f00001]: Footnote: [2021 c. 10](https://www.legislation.gov.uk/ukpga/2021/10). The Secretary of State for Culture, Media and Sport is, as a Minister of the Crown, an “appropriate authority” within the meaning given in section 5(1).
+
+[^key-2d5ebfd4a05531ccc237951dcdc7f585]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2023/214/regulation/1) in force at 6.4.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/214/regulation/1/b)
+
+[^key-d9636aa87fe1c5120f37a79d6b258673]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2023/214/regulation/2) in force at 6.4.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/214/regulation/1/b)
+
+[^key-94642008ab4ecd7c2d2944c99e2faa5e]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2023/214/regulation/3) in force at 6.4.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/214/regulation/1/b)
+
+[^f00002]: Footnote: [2003 c. 21](https://www.legislation.gov.uk/ukpga/2003/21).
+
+[^f00003]: Footnote: Section 124S was inserted by section 102 of the Digital Economy Act [2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30).
+
+[^f00004]: Footnote: [2002 c. 11](https://www.legislation.gov.uk/ukpga/2002/11).
+
+[^key-c51321598f405e751a8f95cc77050f09]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2023/214/regulation/4) in force at 6.4.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/214/regulation/1/b)
+
+[^key-f9f894c2d681245fac0ea1951c8a6b76]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2023/214/regulation/5) in force at 6.4.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/214/regulation/1/b)
+
+[^key-94cb13832ea4f918fb7ae7e4ee8b9a69]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2023/214/regulation/6) in force at 6.4.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/214/regulation/1/b)
+
+[^key-180ad8e2aca9930af768cfe611f759df]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2023/214/regulation/7) in force at 6.4.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/214/regulation/1/b)
+
+[^f00005]: Footnote: Sections 96A to 96C were inserted by [S.I. 2011/1210](https://www.legislation.gov.uk/uksi/2011/1210). Section 96A was amended by paragraph 18 of Schedule 14 to the Enterprise and Regulatory Reform Act [2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24) and [S.I. 2020/1419](https://www.legislation.gov.uk/uksi/2020/1419). Section 96C was amended by [S.I. 2020/1419](https://www.legislation.gov.uk/uksi/2020/1419). Sections 97 and 104 were amended by [S.I. 2011/1210](https://www.legislation.gov.uk/uksi/2011/1210) and [2020/1419](https://www.legislation.gov.uk/uksi/2020/1419).
+
+[^key-e0a5782208e62345782edbc9a20b237b]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2023/214/regulation/8) in force at 6.4.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/214/regulation/1/b)
+
+[^f00006]: Footnote: Section 135 was amended by section 1(2) and 16(2) of the Digital Economy Act [2010 (c. 24)](https://www.legislation.gov.uk/ukpga/2010/24), sections 1(8), 82(4) and 85 of the Digital Economy Act [2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30), section 18(3) of the Telecommunications (Security) Act [2021 (c. 31)](https://www.legislation.gov.uk/ukpga/2021/31) and [S.I. 2011/1210](https://www.legislation.gov.uk/uksi/2011/1210) and [2020/1419](https://www.legislation.gov.uk/uksi/2020/1419).
+
+[^f00007]: Footnote: Section 138 was amended by section 86(3) of the Digital Economy Act [2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30) and [S.I. 2011/1210](https://www.legislation.gov.uk/uksi/2011/1210). Section 139 was amended by [S.I. 2011/1210](https://www.legislation.gov.uk/uksi/2011/1210) and [1773](https://www.legislation.gov.uk/uksi/2011/1773). Section 139A was inserted by [S.I. 2011/1210](https://www.legislation.gov.uk/uksi/2011/1210).
+
+[^key-7c92994552650dfce1df97567b2827d1]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2023/214/regulation/9) in force at 6.4.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/214/regulation/1/b)
+
+[^f00008]: Footnote: Section 185 was amended by [S.I. 2011/1210](https://www.legislation.gov.uk/uksi/2011/1210). Section 185A was inserted by [S.I. 2011/1210](https://www.legislation.gov.uk/uksi/2011/1210). Section 186 was amended by [S.I. 2011/1210](https://www.legislation.gov.uk/uksi/2011/1210) and [2020/1419](https://www.legislation.gov.uk/uksi/2020/1419). Section 189 was omitted by [S.I. 2019/246](https://www.legislation.gov.uk/uksi/2019/246). Section 190 was amended by paragraph 27 of Schedule 7 to the Wireless Telegraphy Act [2006 (c. 36)](https://www.legislation.gov.uk/ukpga/2006/36) and [S.I. 2011/1210](https://www.legislation.gov.uk/uksi/2011/1210). Section 191(1) was amended by [S.I. 2019/246](https://www.legislation.gov.uk/uksi/2019/246).
+
+[^key-988afe0602da2dee443effeca3bde11f]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2023/214/regulation/10) in force at 6.4.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/214/regulation/1/b)
+
+[^f00009]: Footnote: Section 192 was amended by paragraph 28 of Schedule 7 to the Wireless Telegraphy Act [2006 (c. 36)](https://www.legislation.gov.uk/ukpga/2006/36) and paragraph 43 of Schedule 15 to the Enterprise and Regulatory Reform Act [2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24). Section 194A was inserted by section 87(4) of the Digital Economy Act [2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30).
+
+[^f00010]: Footnote: [2002 c. 40](https://www.legislation.gov.uk/ukpga/2002/40).
+
+[^key-58d90afc0f9d19d548e90796865aca4b]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2023/214/regulation/11) in force at 6.4.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/214/regulation/1/b)
+
+[^key-9d119e7d426da18ae7fe83fb939f6256]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2023/214/regulation/12) in force at 6.4.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/214/regulation/1/b)
+
+[^key-672d05570492d72b1dccb99e24726f76]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2023/214/regulation/13) in force at 6.4.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/214/regulation/1/b)
+
+[^f00011]: Footnote: Section 30(3) was amended by section 19 of the Enterprise Act [2016 (c. 12)](https://www.legislation.gov.uk/ukpga/2016/12) and paragraph 36 of Schedule 8 to the European Union (Withdrawal) Act [2018 (c. 16)](https://www.legislation.gov.uk/ukpga/2018/16).
+
+[^f00012]: Footnote: [2015 c. 26](https://www.legislation.gov.uk/ukpga/2015/26).
+
+[^key-d224f8bba72c79b8a9875be47f689f8f]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2023/214/regulation/14) in force at 6.4.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/214/regulation/1/b)
+
+[^f00013]: Footnote: Regulation (EU) No 531/2012 of the European Parliament and of the Council of 13 June 2012 on roaming on public mobile communications networks within the Union expired on 30th June 2022 (see Article 22 of that Regulation). All other enactments cited in the table are spent following its expiry.
+
+[^key-1734a252b47a9c9f401e14fa0b54189b]: Commencement: Sch. in force at 6.4.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/214/regulation/1/b)
+
+[^key-568196bc0319e3b719e3299bcc77c3c4]: Textual amendment: Sum in Sch. substituted (5.8.2026) by [The Trade (Mobile Roaming) (Amendment) Regulations 2026 (S.I. 2026/837)](https://www.legislation.gov.uk/uksi/2026/837), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/837/regulation/1/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2026/837/regulation/2/2/a)
+
+[^f01000]: Footnote: (1)
+
+    An “SMS message” is a Short Message Service text message.
+
+[^key-221d787371ac624b6a7edd5b935bd786]: Textual amendment: Sum in Sch. substituted (5.8.2026) by [The Trade (Mobile Roaming) (Amendment) Regulations 2026 (S.I. 2026/837)](https://www.legislation.gov.uk/uksi/2026/837), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/837/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2026/837/regulation/2/2/b)
+
+[^key-5d7ce416a9c4cb7ecead78a86aefd58a]: Textual amendment: Words in Sch. substituted (5.8.2026) by [The Trade (Mobile Roaming) (Amendment) Regulations 2026 (S.I. 2026/837)](https://www.legislation.gov.uk/uksi/2026/837), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/837/regulation/1/1), [2(2)(c)](https://www.legislation.gov.uk/uksi/2026/837/regulation/2/2/c)

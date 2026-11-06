@@ -1,0 +1,663 @@
+---
+title: The Workmen's Compensation (Supplementation) Scheme 1982
+id: uksi/1982/1489
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised-with-pending-changes
+made_date: '1982-10-19'
+text_date: '2014-01-01'
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1982/1489
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1982/1489/pdfs/uksi_19821489_301114_en.pdf
+- http://www.legislation.gov.uk/uksi/1982/1489/pdfs/uksi_19821489_en.pdf
+- http://www.legislation.gov.uk/uksi/1982/1489/data.pdf
+pending_changes: 33
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Westlaw UK derived from Crown Copyright material and contributed to legislation.gov.uk
+summary: ''
+---
+
+# The Workmen's Compensation (Supplementation) Scheme 1982
+
+> **Warning: changes not yet applied to this text (33).** Text as at 2014-01-01. See https://www.legislation.gov.uk/changes/affected/uksi/1982/1489
+
+1982 No. 1489
+
+SOCIAL SECURITY
+
+The Workmen'S Compensation (Supplementation) Scheme 1982
+
+Made
+
+19th October 1982
+
+Laid before Parliament
+
+29th October 1982
+
+Coming into Operation
+
+19th November 1982
+
+The Secretary of State for Social Services, after consultation with the Council on Tribunals insofar as required by section 10 of the Tribunals and Inquiries Act 1971, and with the consent of the Treasury, in exercise of the powers conferred by sections 2, 3, 4, 9, 10, 12 and 13 of the Industrial Injuries and Diseases (Old Cases) Act 1975[^f00001] and of all other powers enabling him in that behalf, hereby makes the following scheme for the purpose only of replacing the provisions of the schemes hereby revoked with new provisions to the same effect, and which is accordingly exempt from the requirement of section 4(8)(a) of the Industrial Injuries and Diseases (Old Cases) Act 1975 (scheme not to be made unless a draft of that scheme has been approved by resolution of each House of Parliament):—
+
+## PART I — GENERAL
+
+### 1. Citation, commencement and interpretation
+
+(1) This scheme may be cited as the Workmen's Compensation (Supplementation) Scheme 1982, and shall come into operation on 19th November 1982.
+
+(2) In this scheme, unless the context otherwise requires—
+
+- “**the Act**” means the Industrial Injuries and Diseases (Old Cases) Act 1975;
+- “**the Social Security Act**” means the Social Security Act 1975;
+- “**the 1951 Act**” means the Workmen's Compensation (Supplementation) Act 1951;
+- “**the 1965 Act**” means the Workmen's Compensation and Benefit (Amendment) Act 1965;
+- “the[^key-6469613b216a7971ff03927d173dc649] 1998 Act” means the Social Security Act 1998;
+- “**the Secretary of State**” means the Secretary of State for Social Services;
+- “**allowance**” means an allowance payable by virtue of Part II of this scheme;
+- “the appropriate determining authority” means the Secretary of State or, as the case may be,[^key-adf712b15d11920898a7bab09c01393f] the First-tier Tribunal or the Upper Tribunal;[^key-3e5f386fdc0db74057607f4639b6dfbd]
+- “**beneficiary**” means a person entitled to an allowance under this scheme;
+- “**the Board**” means the Board established for the administration of, and for the determination of questions assigned to them under, the Workmen's Compensation (Supplementation) Scheme 1966 and abolished by the Workmen's Compensation (Supplementation) (Amendment) Scheme 1977;
+- “claimant” means a person claiming an allowance and includes, in relation to the revision or supersession of a decision, a beneficiary under the award or affected by the decision;
+- “**compensation scheme**” means a scheme made under the Workmen's Compensation (Silicosis) Act 1918 (as originally enacted or as extended by the Workmen's Compensation (Silicosis) Act 1924 or under section 47 of the Workmen's Compensation Act 1925 (as originally enacted or as extended by any subsequent enactment);
+- “**corresponding disablement pension rate**” means the weekly rate for the time being of a pension payable under section 57(6) of the Social Security Act in respect of an assessment of one hundred per cent;
+- [^key-93c45479678c7da04fef857de8f89668]...
+- “**medical board**” means the medical board appointed under paragraph 3 of the Silicosis and Asbestosis (Medical Arrangements) Scheme 1931;
+- “medical practitioner” means a medical practitioner who has experience in the issues specified in regulation 12(1) of the Social Security and Child Support (Decisions and Appeals) Regulations 1999;[^key-87ca8c32f183b7875a18b4e9425c39ed]
+- “**pneumoconiosis**” means fibrosis of the lungs due to silica dust, asbestos dust or other dust, and includes the condition of the lungs known as dust reticulation; and in the case of a person who suffers from pneumoconiosis accompanied by tuberculosis, the effects of the tuberculosis may be treated as if they were effects of the pneumoconiosis and in the case of a person who suffers from pneumoconiosis, or pneumoconiosis accompanied by tuberculosis, to an extent which would, if his physical condition were otherwise normal, be of a gravity comparable to an assessment of not less than 50 per cent under the Social Security Act, the effects of any accompanying emphysema or chronic bronchitis may be treated as if they were the effects of the pneumoconiosis;
+- “**the relevant injury or disease**” in relation to any person means the injury or disease in respect of which he is, or has since the appropriate date specified in Part II of this scheme been, entitled to weekly payments by way of workmen's compensation;
+- “**unemployment benefit**” means unemployment benefit under the Social Security Act;
+- “**workmen's compensation**” means compensation under the Workmen's Compensation Acts 1925 to 1945, the enactments repealed by the Workmen's Compensation Act 1925 or the enactments repealed by the Workmen's Compensation Act 1906 or under any contracting-out scheme duly certified under any of those Acts.
+
+(3) Any reference in this scheme to the happening of an accident shall, in relation to a case of disease, he construed in the same way as for the purposes of the Acts relating to workmen's compensation.
+
+(4) For the purpose of this scheme—
+
+- (a) a person shall be deemed to be or have been entitled to weekly payments by way of workmen's compensation at any time if he would be or, as the case may be, have been so entitled at that time if—
+  - (i) the amount of any payment, allowance or benefit received by him otherwise than by way of workmen's compensation, or
+  - (ii) where the accident in consequence of which entitlement is deemed happened before 1st January 1924, either the said amount, or the amount he is earning or able to earn in some suitable employment or business, or both those amounts,
+
+  were sufficiently reduced;
+- (b) a payment—
+  - (i) under the Workmen's Compensation (War Addition) Acts 1917 and 1919, or
+  - (ii) under the Workmen's Compensation (Supplementary Allowances) Act 1940 as amended by the Workmen's Compensation (Temporary Increases) Act 1943,
+
+  shall be treated as a weekly payment by way of workmen's compensation;
+- (c) a period shall be treated as considerable if it lasts or can be expected to last for not less than 13 weeks;
+- (d) a person may be treated as being, as the result of an injury or disease or as the joint result of 2 or more injuries or diseases, totally incapable of work and likely to remain so incapable for a considerable period notwithstanding that the disability resulting from the injury or disease or, as the case may be, from the injuries or diseases taken together is not such as to prevent him from being capable of work, if it is likely to prevent his earnings (including any remuneration or profit derived from a gainful occupation) exceeding in a year such amount as is for the time being prescribed in pursuance of section 58(3) of the Social Security Act (unemployability supplement).
+
+## PART II — ALLOWANCES
+
+### 2. Basic allowances under scheme
+
+(1) Subject to the following provisions of this scheme, a person who is or since the commencement of the 1951 Act has been entitled to weekly payments by way of workmen's compensation in consequence of an accident happening before 1st January 1924, shall be entitled to a basic allowance payable out of money provided by Parliament[^key-2a5ae554dc7bc21f621fa04e0635e110] during any period of total or partial incapacity for work resulting from the relevant injury or disease so long as he is ordinarily resident in the United Kingdom.
+
+(2) In this article the expression “**a period of total incapacity for work resulting from the relevant injury or disease**” includes a period during which a person is treated as subject to such an incapacity under the provisions of article 3.
+
+(3) The weekly rate of a basic allowance—
+
+- (a) in the case of a basic allowance payable to a person in respect of a period of total incapacity for work resulting from the relevant injury or disease shall be £2.00 less the amount of his workmen's compensation; and
+- (b) in the case of a basic allowance payable to a person in respect of a period of partial incapacity for work resulting from the relevant injury or disease shall be the difference between two-thirds of the amount representing his weekly loss of earnings (ascertained in accordance with article 7) due to the relevant injury or disease and the amount of his workmen's compensation, so however that the aggregate of the said weekly rate and the amount of his workmen's compensation shall in no such case exceed £2.00.
+
+### 3. Partial incapacity to be treated as total in certain circumstances
+
+(1) For the purpose of the references in article 2 to a period of total incapacity for work resulting from the relevant injury or disease, a person who is unable to obtain employment shall, subject to the provisions of paragraph (3) of this article, be treated as subject to such an incapacity:—
+
+- (a) if he is being treated as being so for the purposes of his workmen's compensation in respect of the relevant injury or disease; or
+- (b) if it appears to the appropriate determining authority—
+  - (i) that, having regard to all the circumstances, it is probable that he would, but for the continuing effects of the relevant injury or disease, be able to obtain work in the same grade in the same class of employment as before the happening of the accident; or
+  - (ii) that his inability to obtain employment is a consequence, wholly or mainly, of the relevant injury or disease.
+
+(2) Where a person who is unable to obtain employment fails to satisfy the conditions laid down in paragraph (1) of this article because of the supervening effects of an injury or disease other than the relevant injury or disease, or of physical or mental infirmity due to old age, he shall nevertheless be deemed to satisfy the said conditions if he proves—
+
+- (a) that he would have satisfied either of the conditions set out in sub-paragraph (b) of the said paragraph at the time when he first became subject to the aforesaid supervening effects and that he was then unable to obtain employment; and
+- (b) that since that time the effects of the relevant injury or disease have not become substantially less serious.
+
+(3) This article shall not apply to any person for any period for which he receives unemployment benefit.
+
+(4) This article shall also apply for the purposes of section 2(3) of the 1951 Act (which relates to the circumstances in which a person is to be treated as subject to total incapacity for work resulting from the relevant injury or disease).
+
+### 4. Major incapacity allowances under scheme
+
+(1) Subject to the following provisions of this scheme, a major incapacity allowance shall be payable out of money provided by Parliament[^key-1a1c3a95105597186bf05c540dc8f81d] to a person who is or has since 5th July 1956 been entitled to weekly payments by way of workmen's compensation—
+
+- (a) in respect of any injury or disease other than pneumoconiosis or byssinosis if he is as a result of that injury or disease totally incapable of work and likely to remain so for a considerable period; or
+- (b) in respect of pneumoconiosis if he is certified under a compensation scheme or is determined in accordance with article 14 of this scheme, to be totally disabled; or
+- (c) in respect of byssinosis; or
+- (d) in respect of 2 or more injuries or diseases such as are mentioned in the 3 foregoing sub-paragraphs, if he is as the joint result of those injuries or diseases totally incapable of work and likely to remain so for a considerable period;
+
+so long as he is ordinarily resident in the United Kingdom.
+
+(2) The weekly rate of a major incapacity allowance payable to a person shall be the corresponding disablement pension rate[^key-519de827e7ef2c5938c0f2dfe7edf3a3]....
+
+(3) For the purposes of this article an allowance payable by virtue of any scheme under the 1951 Act in force immediately before 1st March 1966 shall be treated as a weekly payment by way of workmen's compensation.
+
+### 5. Lesser incapacity allowances under scheme
+
+(1) Subject to the following provisions of this scheme, a lesser incapacity allowance shall be payable out of money provided by Parliament[^key-23392972a185a61c6adc54ab9e7094d7] to a person, not being a person entitled to a major incapacity allowance, who was immediately before 1st March 1966 receiving an allowance payable by virtue of a scheme under the 1951 Act in force at that time, or who is or has since the commencement of the 1965 Act been entitled or may be expected to be entitled to a basic allowance or to weekly payments by way of workmen's compensation, other than notional payments, for any period during which he is either totally or partially incapable of work as a result of the relevant injury or disease, and is ordinarily resident in the United Kingdom.
+
+(2) In any case where the lesser incapacity allowance awarded to a beneficiary was, immediately before 11th April 2012[^key-f62942c88a9749169c964b27bfab23a9], of an amount which is shown in the first column of Part I of Schedule 1 hereto, the rate of lesser incapacity allowance thereafter shall be the corresponding amount set out in the second column thereof.
+
+(3) In a case to which article 5(2) of this scheme does not apply and subject to the provisions of the next succeeding paragraph, the weekly rate of a lesser incapacity allowance payable to a person shall be determined by reference to the loss of earnings (ascertained in accordance with the provisions of article 7) suffered by that person due to the relevant injury or disease; and where the loss of earnings, ascertained as aforesaid, is of an amount shown in the first column of Part II of Schedule 1 hereto, shall be the rate opposite thereto in the second column of that Part and where such loss of earnings is of an amount (not less than 5 pence) not so shown, shall be the rate in the said column opposite to the next larger amount which is so shown.
+
+(4) For the purposes of this article:—
+
+- (a) where the loss of earnings, ascertained as aforesaid, is in excess of the largest amount shown in the said first column, the weekly rate of lesser incapacity allowance shall be the rate in the second column opposite to such largest amount;
+- (b) the weekly rate of lesser incapacity allowance payable to any person shall be reduced by the amount of any workmen's compensation payable to him for that week in excess of £2.00.
+
+(5) In this article the expression “**notional payment**” means a payment by way of workmen's compensation awarded or paid for the purpose of safeguarding a potential entitlement to compensation and not related to any existing loss of earnings.
+
+(6) For the purposes of this article a weekly payment by way of workmen's compensation made to any person shall be deemed to be a notional payment if—
+
+- (a) the amount of such weekly payment is less than 2½ pence; or
+- (b) during the period of 12 months immediately preceding 30th November 1965 either—
+  - (i) no weekly payments by way of such compensation were made to that person; or
+  - (ii) any such weekly payments made to him were of an amount less than 2½ pence;
+
+  unless that person proves that such weekly payment is not a notional payment.
+
+### 6. Amount of workmen's compensation
+
+(1) Subject to the following provisions of this article, any reference in articles 2[^key-0bed4a2b0b9a58b7bf7cdf5ed819301d]... and 5 to the amount of a person's workmen's compensation shall be taken as referring to the amount (if any) of the weekly payments to which for the time being he is, or would but for the determination of his right be, entitled in respect of the relevant injury or disease.
+
+(2) For the purposes of paragraph (1) of this article:—
+
+- (a) where in fixing the amount of those weekly payments under the provisions relating thereto regard was had to any payment, allowance or benefit which he might receive during the period of his incapacity from the person liable for the compensation and the amount is shown to have been reduced in consequence, the amount of those weekly payments shall for the purposes of this article be taken to be the reduced amount so fixed with the addition of the amount of the reduction;
+- (b) where the amount of those weekly payments has not been fixed under the provisions relating thereto, it shall be fixed for the purpose of this article without regard to any such payment, allowance or benefit as aforesaid;
+- (c) where an allowance or allowances under this scheme would, apart from the provisions of this sub-paragraph, be payable or be payable at a higher rate by reason of the amount of those weekly payments, fixed under the provisions relating thereto, not being the amount which ought reasonably and properly to be so fixed, the amount of those weekly payments shall, for the purposes of this article, be taken to be such as ought reasonably and properly to be so fixed, having regard to the rules for calculating such weekly payments under the provisions relating to his workmen's compensation.
+
+(3) Where a person is or since the commencement of the 1951 Act has been entitled to payments under the Workmen's Compensation (War Addition) Acts 1917 and 1919 but had before that commencement ceased to be entitled to any other weekly payments by way of workmen's compensation in respect of the relevant injury or disease, the amount of his workmen's compensation shall for the purpose of articles 2[^key-2d2c933af4188756cd36e21e0847bd74]... and 5 be calculated as if he had not ceased to be entitled to such other payments.
+
+(4) Where a person is or since the commencement of the 1965 Act has been entitled to payments under the Workmen's Compensation (Supplementary Allowances) Act 1940, as amended by the Workmen's Compensation (Temporary Increases) Act 1943, but had before that date ceased to be entitled to any other weekly payments by way of workmen's compensation in respect of the relevant injury or disease, the amount of his workmen's compensation shall for the purposes of article[^key-9619b5de8a139b911d2c577f2bc82dd2]... 5 be calculated as if he had not ceased to be entitled to such other payments.
+
+(5) Where by reason of the seasonal nature of a person's employment, or for any other cause, weekly payments by way of workmen's compensation were not made to that person at the same rate for each week during the 12 months preceding the making of a claim for, or an application for revision or supersession[^key-5cfd3045cd8f38f3800b5693e9c86c96] of a decision as to, an allowance, the amount of that person's workmen's compensation shall for the purposes of articles 2[^key-9619b5de8a139b911d2c577f2bc82dd2]... and 5 be calculated or estimated in such manner and on such basis as may be appropriate, having regard to all the circumstances of the case.
+
+### 7. Computation of loss of earnings
+
+(1) For the purposes of section 2(6)(a) of the Act and of this scheme the amount representing a person's loss of earnings due to the relevant injury or disease shall, subject to the provisions of article 10(3) and of paragraph (5) of this article be ascertained by comparing the standard of remuneration obtaining during the period of 12 months, or such shorter period as the appropriate determining authority may determine, ending with the day on which that person makes a claim for an allowance, in the class of employment in which he was employed at the time when the accident happened with the amount which he was earning or able to earn during the said period in some suitable employment or business.
+
+(2) Where the amount representing a person's loss of earnings has been ascertained in accordance with paragraph (1) of this article and the period taken into account for that purpose was 3 months or less, a final calculation of that person's loss of earnings shall be made 6 months after the date on which the claim was made for the purpose of comparing the standard of remuneration obtaining during that later period in the class of employment in which he was employed at the time when the accident happened or the disease developed with the amount which he was earning or able to earn during the said period in some suitable employment or business.
+
+(3) In assessing, in relation to any person, the standard of remuneration in any class of employment, regard shall be had to that person's reasonable prospects of advancement and the class of employment in which he was employed at the time when the accident happened shall be treated, for this purpose, as extending to and including employment in the capacities to which persons so employed are, in the normal course, advanced and to which, if he had continued to be so employed without the accident having happened, he would have had at least the normal prospects of advancement.
+
+(4) Notwithstanding the provisions of paragraphs (1) and (2) of this article, in any case where lesser incapacity allowance was in payment to a person before 15th November 1976 and that allowance is based on a computation of the loss of earnings due to the relevant injury or disease at a certain amount, that amount shall continue to represent that person's loss of earnings for the purposes of this scheme.
+
+(5) In ascertaining the amount representing a person's weekly loss of earnings under paragraph (1) of this article—
+
+- (a) where the class of employment in which he was employed at the time when the accident happened has ceased to exist or cannot be related to the wage structure obtaining from time to time in the industry in which he was employed at that time, the standard of remuneration shall be taken to be such as is appropriate, having regard to all the circumstances of the case;
+- (b) in a case of disease, where a person proves that he left any class of employment as a result of the relevant disease before the date which was treated as his date of disablement from that disease for the purposes of the Acts relating to workmen's compensation, then any class of employment which he so left may be treated as the class of employment in which he was employed on the said date of disablement if it would have been so treated had the said date of disablement fallen immediately before he left that class of employment;
+- (c) the reference to the amount which a person was earning or able to earn in some suitable employment or business shall be taken as referring to such amount as that person would have been able to earn but for the supervening effects of an injury or disease other than the relevant injury or discase, or of physical or mental infirmity due to old age or of that person's retirement from any such employment or business;
+- (d) the amount which represents a person's weekly loss of earnings under paragraph (1) of this article may be determined without having regard to the rules for calculating the weekly payments in the case of partial incapacity under the provisions relating to his workmen's compensation.
+
+### 8. Corresponding payments under Northern Ireland legislation
+
+Subject to the provisions of any reciprocal arrangements made by the Secretary of State under section 13 of the Act—
+
+- (a) a basic allowance shall not be payable to a person in respect of the relevant injury or disease for any period during which he is entitled under any legislation of Northern Ireland to any payment corresponding to a basic allowance in respect of the said injury or disease; and
+- (b) a major incapacity allowance shall not be payable to a person for any period during which he is entitled under any legislation of Northern Ireland to any payment corresponding to a major incapacity allowance; and
+- (c) a lesser incapacity allowance shall not be payable to a person for any period during which he is entitled under any legislation of Northern Ireland to any payment corresponding to a major incapacity allowance or to a lesser incapacity allowance.
+
+### 9. Allowances payable to beneficiaries who have ceased to be ordinarily resident in the United Kingdom
+
+Where a beneficiary ceases to be ordinarily resident in the United Kingdom he shall not by reason of that fact cease to be entitled to allowances under this scheme—
+
+- (a) where an application for a reference to a medical referee has been made and the medical referee certifies in accordance with paragraph 18 of Schedule 1 of the Workmen's Compensation Act 1906 or section 16 of the Workmen's Compensation Act 1925 that the incapacity resulting from the relevant injury or disease is likely to be of a permanent nature; or
+- (b) where no such application has been made, if the appropriate determining authority is satisfied that the said incapacity is likely to be of a permanent nature.
+
+### 10. Allowances in respect of 2 or more different injuries or diseases
+
+(1) Subject to the provisions of this scheme, where a claimant or beneficiary is entitled for the same period to weekly payments by way of workmen's compensation in respect of 2 or more different injuries or diseases, or has been so entitled at any time since, in the case of basic allowance the commencement of the 1951 Act or, in the case of any other allowance the commencement of the 1965 Act, he shall be entitled to an allowance under this scheme in respect of each such injury or disease during any period of total or partial incapacity for work resulting from that injury or disease.
+
+(2) For the purpose of the last foregoing paragraph, a claimant or beneficiary—
+
+- (a) shall not for the same period be entitled to receive 2 or more basic allowances at an aggregate weekly rate which exceeds £2.00; and
+- (b) shall not in respect of any period for which he is entitled to a major incapacity allowance by reason of one or the joint result of 2 or more of such injuries or diseases, be entitled to receive any other allowance under this scheme, except for a basic allowance, by reason of any injury or disease; and
+- (c) shall not for the same period be entitled to receive 2 or more lesser incapacity allowances at an aggregate weekly rate which exceeds the amount specified in section 2(6)(c) of the Act.
+
+(3) In such a case as is mentioned in paragraph (1) of this article, in ascertaining for the purposes of this scheme the amount of loss of earnings due to the relevant injury or disease the joint results of both or all such injuries or diseases may be treated as the result of any one of them but, in respect of any period during which such results are so treated, the claimant or beneficiary shall not be entitled to receive more than one basic allowance or more than one lesser incapacity allowance under this scheme.
+
+(4) Where a claimant or beneficiary is entitled for any period to an allowance under any scheme made under section 5 of the Act—
+
+- (a) in respect of total disablement or total incapacity for a considerable period, he shall not be entitled to receive, for that period, any allowance under this scheme;
+- (b) in respect of partial disablement, he shall not be entitled to receive by way of lesser incapacity allowance, for that period, a total weekly sum exceeding £1.00.
+
+(5) A person shall not, in respect of the same period, be entitled to receive 2 or more allowances under this scheme or under this scheme and a scheme made under section 5 of the Act at an aggregate weekly rate exceeding the corresponding disablement pension rate.
+
+## PART III — ADMINISTRATION OF THE SCHEME AND DETERMINATION OF QUESTIONS
+
+### 11. Administration of the scheme
+
+This scheme shall be administered by the Secretary of State and, subject to articles 17 and 18, the provisions of the Social Security (Claims and Payments) Regulations 1987[^key-84b6eee5003221da9e16030308147cc0] and the Social Security (General Benefit) Regulations 1982 which are specified in Schedule 2 to this scheme shall, with the necessary modifications, apply for the purposes of this scheme.
+
+### 12. Determination of claims and applications for revision and supersession arising under the scheme.[^key-f3c13ac73cec8cf70e6416e564b478ad]
+
+Subject to the provisions of Part IV of this scheme, any question relating to any allowance or benefit under this scheme shall be determined as if it had arisen under Part V of the Social Security Contributions and Benefits Act 1992 and, except where this scheme otherwise provides, the provisions of the 1998 Act, and of the Social Security (General Benefit) Regulations 1982, the Social Security (Claims and Payments) Regulations 1987, the Social Security (Payments on Account, Overpayments and Recovery) Regulations 1988, the Social Security and Child Support (Decisions and Appeals) Regulations 1999 [^key-0a7f9f9ecac0d01796bfa4fd3dd8d44d]... which are specified in Schedule 2 to this scheme shall, with the necessary modifications, apply for the purposes of this scheme.
+
+## PART IV — MEDICAL BOARD
+
+### 13. Reference for report to a medical practitioner[^key-f1bc7bb11884bcb9a2c0f50c9e0e0569]
+
+(1) Subject to the provisions of paragraph (2) of this article, where the Secretary of State has decided that a claimant is not totally disabled as a result of pneumoconiosis for the purposes of a compensation scheme, and that claimant claims a major incapacity allowance, that claim shall be referred by the Secretary of State to a medical practitioner for advice.
+
+(2) For the purposes of paragraph (1) of this article—
+
+- (a) in a case where the claimant has been held in arbitration proceedings under the Workmen’s Compensation Acts to be totally disabled as a result of pneumoconiosis, the Secretary of State may determine that the claimant is so disabled without referring the question to a medical practitioner;
+- (b) in a case where the Secretary of State is of the opinion that any other decision or determination disposes of the claim, he may, without referring the question whether the claimant is totally disabled as a result of pneumoconiosis to a medical practitioner, make a decision that an award cannot be made on the claim.
+
+### 14. Provision of a report by a medical practitioner[^key-cdf87258173b25d8c3ccb373bf47e63c]
+
+Where, in pursuance of a reference under article 13 of this scheme, a medical practitioner is satisfied, having examined the claimant, that he is totally disabled as a result of pneumoconiosis, he shall report his findings to the Secretary of State accordingly.
+
+### 15. Radiographic examination
+
+The Secretary of State[^key-af75affa5c43c6f061be139b89eb0dfd] shall have power, in any case where he considers it necessary, to cause to be made a radiographic examination of the lungs of the claimant and to obtain the report of a radiologist on the case.
+
+## PART V — CLAIMS AND PAYMENTS
+
+### 16. Information to be given when making a claim or obtaining payment of allowance
+
+Every person who makes a claim for or is entitled to an allowance and every person to whom or on whose behalf sums are payable by way of an allowance shall furnish in such manner and at such times as the Secretary of State may determine such certificates, documents, information and evidence affecting the right to the allowance or to the receipt of any sums payable by way of any allowance as may reasonably be required by the Secretary of State and, if so required, shall for that purpose attend at such office or place as the Secretary of State may direct.
+
+### 17. Obligations of claimants and of persons in receipt of allowances to undergo medical examination
+
+(1) Subject to the following provisions of this article, every claimant for, and every beneficiary in receipt of, an allowance shall comply with every notice given to him by the Secretary of State which requires him to submit himself to a medical examination [^key-46fecf3e91fe38af6facc904d1e65c7e]....
+
+(2) Every notice given to a claimant or beneficiary requiring him to submit himself to medical examination shall be given in writing and shall specify the time and place of examination but shall not require the claimant or beneficiary to submit himself to examination—
+
+- (a) in the case of examination by a medical practitioner[^key-05f18985739efa7a794fb050933aee1f], before the expiration of the period of 6 days beginning with the date of the notice or such shorter period as may be reasonable in the circumstances;
+- (b) in any other case, on a date earlier than the third day after the date on which the notice was sent.
+
+(3) Every claimant and every beneficiary who, in accordance with the foregoing provisions of this article, is required to submit himself to a medical examination shall attend at every such place and at every such time as may be required.
+
+(4)[^key-5b4bda0941cc4e175e9883b9e660efaf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 18. Sums not payable when delay in claiming[^key-8dc5f14a2bb49a29fb5ecd20bc3ec93c]
+
+An allowance shall not be payable to any person in respect of any period more than three months before the claim for the allowance is made.
+
+### 19. Obligation of beneficiaries to notify change of circumstances
+
+Every beneficiary shall, as soon as may be practicable, notify the Secretary of State in writing of any change of circumstances which he might reasonably be expected to know might affect the continuance of his right to any allowance or any part thereof awarded to him, or to the receipt of any such allowance or part of an allowance.
+
+### 20. Allowances to be inalienable
+
+Subject to the following provisions of this scheme, every assignment of, or charge on, an allowance and every agreement to assign or charge an allowance, shall be void, and on the bankruptcy of a beneficiary, the allowance shall not pass to any trustee or other person acting on behalf of his creditors.
+
+### 21. Forfeiture of allowances
+
+(1) Subject to the provisions of paragraph (2) of this article, if a claimant or beneficiary—
+
+- (a) fails without reasonable cause to comply with any requirement of articles 16, 17 or 19 of this scheme he shall, if the appropriate determining authority so decides, forfeit any allowance which would, apart from this sub-paragraph, be payable in respect of periods of such failure;
+- (b) wilfully obstructs, or is guilty of other misconduct in connection with any medical or any other examination which he is required under article 17 of this scheme to undergo, or with any proceedings under this scheme for the determination of his right to an allowance or to the receipt thereof, he shall forfeit, for such period as the appropriate determining authority shall determine, any allowance which would, apart from this paragraph, be payable.
+
+(2) Nothing in this article providing for forfeiture of an allowance for failure to undergo medical or other examination or for obstruction or misconduct in connection with such examination shall authorise the disentitlement of the person concerned for a period exceeding 6 weeks on any forfeiture.
+
+### 22. Allowances during imprisonment
+
+Where a person has become entitled, in respect of a period, or any part of a period, during which he is and has continuously been undergoing imprisonment or detention in legal custody, to sums by way of allowance which, in the aggregate, either
+
+- (a) equal the total amount payable by way of an allowance for a period of one year; or
+- (b) together with any sums payable by virtue of any scheme made under section 5 of the Act in respect of such period of imprisonment or detention in legal custody equal the total amount payable by way of such allowances for a period of one year;
+
+then that person shall be disqualified from receiving any further sums by way of allowance in respect of such period or any part thereof.
+
+## PART VI — RECOVERY AND ADJUSTMENT OF ALLOWANCES
+
+### 23. Recovery of sums by deduction from allowances or benefits under the Social Security Act
+
+(1) Where any sums by way of an allowance are required to be repaid to the Secretary of State[^key-24bf80a9633d7126071687a2c90daa8c] under this scheme, such sums may, without prejudice to any other method of recovery, be deducted from any allowance or from any benefit under the Social Security Act or from any allowance payable by virtue of a scheme made under section 5 of the Act then or thereafter payable to the person by whom they are to be repaid, or to any person entitled to receive such allowance or benefit on his death, and such deduction may be made at such rate as the Secretary of State may determine.
+
+(2) Where, in the case of any person, any sum may be recovered by deduction—
+
+- (a) by virtue of any provision of the Social Security Act from any payment under that Act; or
+- (b) by virtue of any provision of a scheme made under section 5 of the Act from any payment under such scheme;
+
+it may instead be recovered in whole or in part by deduction from any allowance then or thereafter payable to him, or to any person entitled to receive such allowance on his death.
+
+### 24. Adjustment of allowances
+
+Where, but for the provisions of article 10(5) of this scheme, a person would be entitled, in respect of the same period, to 2 or more allowances under this scheme and a scheme made under section 5 of the Act at an aggregate weekly rate exceeding the corresponding disablement pension rate, the rate of the allowance, or if more than one, the largest allowance payable under this scheme shall be reduced by such amount as is necessary to limit the said aggregate weekly rate to the corresponding disablement pension rate.
+
+## PART VII — TRANSITIONAL PROVISIONS
+
+### 25. Finality of decisions of the Board
+
+Except as provided by article 26 of this scheme, any decision given by the Board on a claim or question under provisions of the Workmen's Compensation (Supplementation) Scheme 1966 in force immediately before 1st July 1977[^f00005] or under any scheme made under the 1951 Act in force immediately before 1st March 1966 shall be final for the purposes of this scheme.
+
+### 26. Review of decisions of the Board[^key-59905d83f13df1dae6bf669bd1d3b45c]
+
+(1) The Secretary of State may at any time and from time to time revise or supersede any decision given by the Board under provisions of the Workmen’s Compensation (Supplementation) Scheme 1966 in force immediately before 1st July 1977, if—
+
+- (a) the decision was erroneous in view of new facts which have been brought to his notice since the date on which the decision was given or by reason of some mistake being made with respect to the facts or the law; or
+- (b) there has been any relevant change of circumstances since the decision was given.
+
+(2) A decision of the Board may be revised or superseded by the Secretary of State on his own initiative or by application in writing to him for the purpose.
+
+(3) Where it appears to the Secretary of State that an issue has arisen whether the decision as to an award of an allowance to which this article relates ought to be revised or superseded in accordance with the provisions of paragraph (1), he may decide that payment of the allowance shall be suspended in whole or in part until that issue has been determined.
+
+(4) Repayment of sums by way of an allowance in pursuance of the original decision shall not be required under this article in any case where it is shown to the satisfaction of the Secretary of State that in the obtaining and receipt of the benefit the beneficiary, and any person acting for him, has throughout used due care and diligence to avoid overpayment.
+
+(5) For the purposes of this article a decision given under any scheme made under the 1951 Act shall be treated as if it had been given under the Workmen’s Compensation (Supplementation) Scheme 1966 as it was immediately before the Workmen’s Compensation (Supplementation) Amendment Scheme 1977 came into operation.
+
+(6) On a revision or supersession of a decision given by the Board under any scheme made under the 1951 Act in force before 1st March 1966 a decision given by the Secretary of State may determine any issues referred to him arising under any such scheme.
+
+### 27. Claims in respect of periods before commencement of scheme
+
+A claim may be made in respect of a period before the coming into operation of this scheme for an allowance payable by virtue of any scheme revoked by this scheme, or any scheme made under the 1951 Act, and such a claim and any question arising in connection therewith shall be determined by the appropriate determining authority and any allowance in respect of such a period shall be awarded and paid in accordance with the provisions of any scheme which was in force during that period.
+
+### 28. Conditions for allowance satisfied by previous awards
+
+Any allowance under this scheme may be paid without any claim or award or awarded without any claim, if, in the opinion of the Secretary of State, evidence of the satisfaction of the conditions for that allowance is afforded by the award, in respect of a period before the coming into operation of this scheme, of an allowance payable by virtue of a scheme revoked by this scheme, or a scheme made under the 1951 Act, or of an allowance under the Workmen's Compensation and Benefit (Supplementation) Act 1956.
+
+### 29. Preservation of entitlement to larger amount of allowances
+
+Any beneficiary, not being a person entitled to an allowance payable by virtue of any scheme made under section 5 of the Act who is entitled under the provisions of section 3(2) or (3) of the 1965 Act to payment of a greater amount or aggregate amount than he is entitled to receive by way of allowances under this scheme shall, so long as he is so entitled, be paid by way of increase to the allowance or, if more than one, the largest allowance to which he is entitled under this scheme, such a sum as will, in addition to the allowance or allowances payable to him by virtue of this scheme, ensure that the total amount or aggregate amount payable to him is the amount to which he is entitled by virtue of the said section 3(2) or (3).
+
+### 30. Final calculation not made by 25th November 1981
+
+(1) The provision of the next succeeding paragraph of this article shall apply to a beneficiary who was, before 25th November 1981, in receipt of lesser incapacity allowance but in respect of whom the final calculation of earnings required by article 7(2) of this scheme had not been made by that date.
+
+(2) In such a case as is referred to in the last preceding paragraph the beneficiary shall be treated as entitled from 25th November 1981 to an allowance at the rate to which he would have been entitled had the final calculation been made before that date.
+
+### 31. Claims not made before 25th November 1981
+
+(1) The provisions of the next succeeding paragraph of this article shall apply to a person whose claim for lesser incapacity allowance was not made before 25th November 1981 and who is awarded such an allowance for a period after that date at one of the rates shown in the second column of Part II of Schedule 1 hereto.
+
+(2) Any lesser incapacity allowance which is found to be payable to such a person as aforesaid in respect of a period before 25th November 1981 shall—
+
+- (a) in so far as it relates to the period from 26th November 1980 to 24th November 1981 inclusive, be paid at the rate shown in the first column of Part I of Schedule 1 hereto which corresponds to the rate awarded to him for the period after 25th November 1981; and
+- (b) in so far as it relates to a period before 26th November 1980, be paid at the rate or rates then in force which corresponds or correspond to the rate awarded to him for the period after 25th November 1981.
+
+### 32. Claims made but not determined before 25th November 1981
+
+(1) The provision of the next succeeding paragraph of this article shall apply to a person whose claim for lesser incapacity allowance was made but not determined before 25th November 1981.
+
+(2) Any lesser incapacity allowance which is found to be payable to such a person as aforesaid in respect of a period before 25th November 1981 shall be paid at the rate or rates in force for that period which corresponds or correspond with that person's loss of earnings.
+
+### 33. Review
+
+Where a lesser incapacity allowance has been awarded to a person under any of the schemes revoked by this scheme before any other such scheme came into operation and an issue[^key-420659ec747571d1c60974496e2ca531] arises as to the weekly rate of allowance payable in consequence of that other scheme, the case shall be considered by the Secretary of State who may decide the issue afresh in the light of amendments made by that other scheme, and the allowance shall continue to be payable at the weekly rate specified in the award until the issue has been determined in accordance with the provisions of this scheme.
+
+## PART VIII — MISCELLANEOUS
+
+### 34. Contracting-out schemes
+
+In relation to a person whose workmen's compensation is or was compensation under a contracting-out scheme, section 3(4) and (7) of the Act (which relates to the amount of a person's workmen's compensation) and articles 2, 4, 5 and 6 of this scheme shall apply subject, where appropriate,[^key-c55bc2642ecb30fa09c931b04f3035ff] to the modification that, where by reason of the nature of the provisions of the contracting-out scheme—
+
+- (a) there is difficulty in distinguishing the amount to which that person is or was entitled by way of workmen's compensation under that scheme from other payments to him; or
+- (b) the said amount is or was reduced in consequence of other payments to him;
+
+the amount of his workmen's compensation shall be taken to be such an amount as is reasonable in his case, having regard to the provisions of the contracting-out scheme and to the amount of the weekly payment by way of workmen's compensation which would, but for the contracting-out scheme, have been payable to him in respect of the relevant injury or disease.
+
+### 35. Exemption from stamp duty
+
+Stamp duty shall not be chargeable upon an appointment or revocation of an appointment of an agent and any other document authorized by or in pursuance of this scheme or otherwise required in order to give effect to the provisions of this scheme.
+
+### 36. Reciprocal arrangements with Northern Ireland
+
+If in pursuance of section 13(1) of the Act (which relates to reciprocal arrangements with Northern Ireland) the Secretary of State makes reciprocal arrangements for payments under any corresponding legislation of Northern Ireland to be made out of money provided by Parliament[^key-f1d094874d1c0b737b4de309631243e9], the provisions of this scheme shall apply in relation to such payments as if they were payments under this scheme.
+
+### 37. Breach of requirements of scheme
+
+If any person contravenes or fails to comply with any requirement of article 16 or 19 of this scheme he shall for such offence be liable on summary conviction to a penalty not exceeding £10.
+
+### 38. Service by post
+
+Any notice or other document required or authorised to be given or sent to any person under the provisions of this scheme may be sent by post to that person at his ordinary or last known address.
+
+### 39. Revocation of earlier schemes
+
+The schemes specified in column 1 of Schedule 3 hereto are, subject to the transitional provisions contained in Part VII of this scheme, hereby revoked to the extent mentioned in column 3; and nothing in the said Part VII shall be taken as restricting the general application of sections 16 and 17 of the Interpretation Act 1978 with regard to the effect of these revocations.
+
+Signed by authority of the Secretary of State for Social Services.
+
+Hugh Rossi
+
+Minister of State
+
+Department of Health and Social Security
+
+We consent
+
+Robert Boscawen
+
+J.A. Cope
+
+Two of the Lords Commissioners of Her Majesty's Treasury
+
+## SCHEDULE 1
+
+Article 5
+
+### PART 1 — TABLE OF RATES OF LESSER INCAPACITY ALLOWANCE FOR BENEFICIARIES TO WHOM ARTICLE 5(2) APPLIES[^key-a1ff8ca626f1b7df56bc7eee8cc36df3]
+
+| Rate of lesser incapacity allowance from 13<sup>th</sup> April 2011 to 10<sup>th</sup>April 2012 | Rate of lesser incapacity allowance from 11<sup>th</sup> April 2012 |
+| --- | --- |
+| £ | £ |
+| 4.60 | 4.85 |
+| 12.50 | 13.15 |
+| 20.95 | 22.05 |
+| 30.35 | 31.95 |
+| 43.65 | 45.90 |
+| 55.55 | 58.45 |
+
+### PART 2 — TABLE OF LOSS OF EARNINGS AND CORRESPONDING RATES OF LESSER INCAPACITY ALLOWANCE
+
+| Loss of Earnings | Rate of lesser incapacity allowance |
+| --- | --- |
+| £ | £ |
+| 15.85 | 4.85 |
+| 34.70 | 13.15 |
+| 53.80 | 22.05 |
+| 63.45 | 31.95 |
+| 77.45 | 45.90 |
+| Over 77.45 | 58.45 |
+
+## SCHEDULE 2 — PROVISIONS OF THE 1998 ACT OR REGULATIONS APPLICABLE (WITH THE NECESSARY MODIFICATIONS) TO THIS SCHEME[^key-0561ef7668522dde6e8057b66122dec6]
+
+Articles 11 and 12
+
+| Provisions of the 1998 Act or of Regulations | Subject matter |
+| --- | --- |
+| Social Security Act 1998— |  |
+| - Section 8 | Decision by Secretary of State |
+| - Sections 9 and 10 | Revisions, and supersession of decisions |
+| - Section 11 | Regulations with respect to decisions. |
+| - Section 12 | Appeal to an appeal tribunal |
+| - Section 14 | Appeal from an appeal tribunal to Commissioner |
+| The Social Security (General Benefit) Regulations 1982— |  |
+| - Regulation 3 | Suspension of payment of benefit during imprisonment etc. |
+| The Society Security (Claims and Payments) Regulations 1987— |  |
+| - Regulation 4 | Making a claim for benefit |
+| - Regulation 5 | Amendment and withdrawal of claim |
+| - Regulation 6 | Date of claim |
+| - Regulation 16 | Date of entitlement under an award for the purpose of payability of benefit and effective date of change of rate |
+| - Regulation 17 | Duration of awards |
+| - Regulation 20 | Time and manner of payment: general provision |
+| - Regulation 20A | Payment on presentation of an instrument for benefit payment |
+| - Regulation 21 | Direct credit transfer |
+| - Regulation 22 | Long term benefits |
+| - Regulation 25 | Payment of attendance allowance and constant attendance allowance at a daily rate |
+| - Regulation 28 | Fractional amounts of benefit |
+| - Regulation 30 | Payments on death |
+| - Regulation 33 | Persons unable to act |
+| - Regulation 38 | Extinguishment of right to payment where not obtained within prescribed period |
+| - Regulation 47 | Instruments of payment |
+| Social Security (Payments on Account, Overpayments and Recovery) Regulations 1988— |  |
+| - Regulation 5 | Offsetting prior payment against subsequent award |
+| The Social Security and Child Support (Decisions and Appeals) Regulations 1999— |  |
+| - Regulation 3 | Revision of decisions |
+| - Regulation 4 | Late application for a revision |
+| - Regulation 5 | Date from which a decision revised under section 9 takes effect |
+| The Social Security and Child Support (Decisions and Appeals) Regulations 1999— |  |
+| - Regulation 6 | Supersession of decisions |
+| - Regulation 7 | Date from which a decision superseded under section 10 takes effect |
+| - Regulation 8 | Effective date for late notification of change of circumstances |
+| - Regulation 12 | Decisions of the Secretary of State relating to industrial injuries benefit |
+| - Regulation 16 | Suspension in prescribed cases |
+| - Regulation 17 | Provision of information or evidence |
+| - Regulation 18 | Termination in cases of failure to furnish information or evidence |
+| - Regulation 19 | Suspension and termination for failure to submit to medical examination |
+| - Regulation 20 | Making of payments which have been suspended |
+| - Regulation 25 | Other persons with a right of appeal |
+| - Regulation 26 | Decisions against which an appeal lies |
+| - Regulation 27 | Decisions against which no appeal lies |
+| - Regulation 28 | Notice of decision against which appeal lies |
+| - Regulation 30 | Appeal against a decision which has been revised |
+| - Regulation 31 | Time within which an appeal is to be brought |
+| - Regulation 32 | Late appeals |
+| - Regulation 33 | Making of appeals and applications |
+| - Regulation 34 | Death of a party to an appeal |
+| [^key-6968a7baafc5bdce7685e8ea2457c0aa]. . . | [^key-6968a7baafc5bdce7685e8ea2457c0aa]. . . |
+| [^key-6968a7baafc5bdce7685e8ea2457c0aa]. . . | [^key-6968a7baafc5bdce7685e8ea2457c0aa]. . . |
+| [^key-6968a7baafc5bdce7685e8ea2457c0aa]. . . | [^key-6968a7baafc5bdce7685e8ea2457c0aa]. . . |
+| [^key-6968a7baafc5bdce7685e8ea2457c0aa]. . . | [^key-6968a7baafc5bdce7685e8ea2457c0aa]. . . |
+| [^key-6968a7baafc5bdce7685e8ea2457c0aa]. . . | [^key-6968a7baafc5bdce7685e8ea2457c0aa]. . . |
+| [^key-6968a7baafc5bdce7685e8ea2457c0aa]. . . | [^key-6968a7baafc5bdce7685e8ea2457c0aa]. . . |
+| [^key-6968a7baafc5bdce7685e8ea2457c0aa]. . . | [^key-6968a7baafc5bdce7685e8ea2457c0aa]. . . |
+| [^key-6968a7baafc5bdce7685e8ea2457c0aa]. . . | [^key-6968a7baafc5bdce7685e8ea2457c0aa]. . . |
+| [^key-6968a7baafc5bdce7685e8ea2457c0aa]. . . | [^key-6968a7baafc5bdce7685e8ea2457c0aa]. . . |
+| [^key-6968a7baafc5bdce7685e8ea2457c0aa]. . . | [^key-6968a7baafc5bdce7685e8ea2457c0aa]. . . |
+| [^key-6968a7baafc5bdce7685e8ea2457c0aa]. . . | [^key-6968a7baafc5bdce7685e8ea2457c0aa]. . . |
+| - Regulation 48 | Misconceived appeals |
+| [^key-6968a7baafc5bdce7685e8ea2457c0aa]. . . | [^key-6968a7baafc5bdce7685e8ea2457c0aa]. . . |
+| [^key-6968a7baafc5bdce7685e8ea2457c0aa]. . . | [^key-6968a7baafc5bdce7685e8ea2457c0aa]. . . |
+| [^key-6968a7baafc5bdce7685e8ea2457c0aa]. . . | [^key-6968a7baafc5bdce7685e8ea2457c0aa]. . . |
+| [^key-6968a7baafc5bdce7685e8ea2457c0aa]. . . | [^key-6968a7baafc5bdce7685e8ea2457c0aa]. . . |
+| [^key-6968a7baafc5bdce7685e8ea2457c0aa]. . . | [^key-6968a7baafc5bdce7685e8ea2457c0aa]. . . |
+| [^key-6968a7baafc5bdce7685e8ea2457c0aa]. . . | [^key-6968a7baafc5bdce7685e8ea2457c0aa]. . . |
+| [^key-6968a7baafc5bdce7685e8ea2457c0aa]. . . | [^key-6968a7baafc5bdce7685e8ea2457c0aa]. . . |
+| [^key-6968a7baafc5bdce7685e8ea2457c0aa]. . . | [^key-6968a7baafc5bdce7685e8ea2457c0aa]. . . |
+| The Social Security and Child Support (Decisions and Appeals) Regulations 1999— |  |
+| [^key-6968a7baafc5bdce7685e8ea2457c0aa]. . . | [^key-6968a7baafc5bdce7685e8ea2457c0aa]. . . |
+| [^key-6968a7baafc5bdce7685e8ea2457c0aa]. . . | [^key-6968a7baafc5bdce7685e8ea2457c0aa]. . . |
+| The Social Security Commissioners (Procedure) Regulations 1999— |  |
+| [^key-400e98634c3a746d994bb070ca1e6177]. . . | [^key-400e98634c3a746d994bb070ca1e6177]. . . |
+| [^key-400e98634c3a746d994bb070ca1e6177]. . . | [^key-400e98634c3a746d994bb070ca1e6177]. . . |
+| [^key-400e98634c3a746d994bb070ca1e6177]. . . | [^key-400e98634c3a746d994bb070ca1e6177]. . . |
+| [^key-400e98634c3a746d994bb070ca1e6177]. . . | [^key-400e98634c3a746d994bb070ca1e6177]. . . |
+| [^key-400e98634c3a746d994bb070ca1e6177]. . . | [^key-400e98634c3a746d994bb070ca1e6177]. . . |
+| [^key-400e98634c3a746d994bb070ca1e6177]. . . | [^key-400e98634c3a746d994bb070ca1e6177]. . . |
+| [^key-400e98634c3a746d994bb070ca1e6177]. . . | [^key-400e98634c3a746d994bb070ca1e6177]. . . |
+| [^key-400e98634c3a746d994bb070ca1e6177]. . . | [^key-400e98634c3a746d994bb070ca1e6177]. . . |
+| [^key-400e98634c3a746d994bb070ca1e6177]. . . | [^key-400e98634c3a746d994bb070ca1e6177]. . . |
+| [^key-400e98634c3a746d994bb070ca1e6177]. . . | [^key-400e98634c3a746d994bb070ca1e6177]. . . |
+| [^key-400e98634c3a746d994bb070ca1e6177]. . . | [^key-400e98634c3a746d994bb070ca1e6177]. . . |
+| [^key-400e98634c3a746d994bb070ca1e6177]. . . | [^key-400e98634c3a746d994bb070ca1e6177]. . . |
+| [^key-400e98634c3a746d994bb070ca1e6177]. . . | [^key-400e98634c3a746d994bb070ca1e6177]. . . |
+| [^key-400e98634c3a746d994bb070ca1e6177]. . . | [^key-400e98634c3a746d994bb070ca1e6177]. . . |
+| [^key-400e98634c3a746d994bb070ca1e6177]. . . | [^key-400e98634c3a746d994bb070ca1e6177]. . . |
+| [^key-400e98634c3a746d994bb070ca1e6177]. . . | [^key-400e98634c3a746d994bb070ca1e6177]. . . |
+| [^key-400e98634c3a746d994bb070ca1e6177]. . . | [^key-400e98634c3a746d994bb070ca1e6177]. . . |
+| [^key-400e98634c3a746d994bb070ca1e6177]. . . | [^key-400e98634c3a746d994bb070ca1e6177]. . . |
+| [^key-400e98634c3a746d994bb070ca1e6177]. . . | [^key-400e98634c3a746d994bb070ca1e6177]. . . |
+| [^key-400e98634c3a746d994bb070ca1e6177]. . . | [^key-400e98634c3a746d994bb070ca1e6177]. . . |
+| [^key-400e98634c3a746d994bb070ca1e6177]. . . | [^key-400e98634c3a746d994bb070ca1e6177]. . . |
+| [^key-400e98634c3a746d994bb070ca1e6177]. . . | [^key-400e98634c3a746d994bb070ca1e6177]. . . |
+
+## SCHEDULE 3 — REVOCATIONS
+
+Article 39
+
+| Citation | Statutory Instrument | Extent of revocation |
+| --- | --- | --- |
+| The Workmen's Compensation (Supplementation) Scheme 1966 | S.I. 1966/165 | The whole of the scheme |
+| The Workmen's Compensation (Supplementation) Amendment Scheme 1967 | S.I. 1967/1204 | The whole of the scheme |
+| The Workmen's Compensation (Supplementation) Amendment (No. 2) Scheme 1967 | S.I. 1967/1232 | The whole of the scheme |
+| The Workmen's Compensation (Supplementation) Amendment Scheme 1969 | S.I. 1969/1195 | The whole of the scheme |
+| The Workmen's Compensation (Supplementation) Amendment Scheme 1971 | S.I. 1971/1223 | The whole of the scheme |
+| The Workmen's Compensation (Supplementation) Amendment Scheme 1972 | S.I. 1972/1288 | The whole of the scheme |
+| The Workmen's Compensation (Supplementation) Amendment Scheme 1973 | S.I. 1973/1440 | The whole of the scheme |
+| The Workmen's Compensation (Supplementation) Amendment Scheme 1974 | S.I. 1974/943 | The whole of the scheme |
+| The Workmen's Compensation (Supplementation) Amendment Scheme 1975 | S.I. 1975/513 | The whole of the scheme |
+| The Workmen's Compensation (Supplementation) Amendment (No. 2) Scheme 1975 | S.I. 1975/1138 | The whole of the scheme |
+| The Workmen's Compensation (Supplementation) (Amendment) Scheme 1976 | S.I. 1976/1277 | The whole of the scheme |
+| The Workmen's Compensation (Supplementation) (Amendment) Scheme 1977 | S.I. 1977/991 | The whole of the scheme |
+| The Workmen's Compensation Supplementation and Pneumoconiosis, Byssinosis and Miscellaneous Diseases Benefit (Further Amendment) Scheme 1977 | S.I. 1977/1063 | Article 2 |
+| The Workmen's Compensation (Supplementation) (Amendment) (No. 2) Scheme 1977 | S.I. 1977/1607 | The whole of the scheme |
+| The Workmen's Compensation (Supplementation) (Amendment) Scheme 1978 | S.I. 1978/1460 | The whole of the scheme |
+| The Workmen's Compensation (Supplementation) (Amendment) Scheme 1979 | S.I. 1979/1190 | The whole of the scheme |
+| The Workmen's Compensation (Supplementation) (Amendment) Scheme 1980 | S.I. 1980/1556 | The whole of the scheme |
+| The Workmen's Compensation (Supplementation) (Amendment) Scheme 1981 | S.I. 1981/1516 | The whole of the scheme |
+
+EXPLANATORY NOTE
+
+This scheme, which consolidates the Workmen's Compensation (Supplementation) Scheme 1966 with subsequent amending schemes, provides for allowances to be paid out of the National Insurance Fund to supplement workmen's compensation paid in respect of injury or disease arising out of employment before 5th July 1948.
+
+The scheme provides for its administration by the Secretary of State and for adjudication and determination of questions (except certain medical questions which are for determination by the medical board appointed under the Silicosis and Asbestosis (Medical Arrangements) Scheme 1931) by the statutory authorities established under the Social Security Act 1975.
+
+The scheme contains provisions relating to claims and payments and provides for the application to the scheme of the provisions of the Social Security Act 1975 and the regulations made under that Act which are specified in Schedule 2. It also contains transitional provisions.
+
+## Annotations
+
+[^f00001]: Footnote: , as amended by the Social Security (Miscellaneous Provisions) Act 1977 (c. 5), s. 11.
+
+[^key-6469613b216a7971ff03927d173dc649]: Textual amendment: Words in art. 1(2) inserted (5.7.1999) by [The Social Security Act 1998 (Commencement No. 8, and Savings and Consequential and Transitional Provisions) Order 1999 (S.I. 1999/1958)](https://www.legislation.gov.uk/uksi/1999/1958), [art. 1](https://www.legislation.gov.uk/uksi/1999/1958/article/1), [Sch. 6 para. 1(a)](https://www.legislation.gov.uk/uksi/1999/1958/schedule/6/paragraph/1/a)
+
+[^key-adf712b15d11920898a7bab09c01393f]: Textual amendment: Words in art. 1(2) substituted (5.7.1999) by [The Social Security Act 1998 (Commencement No. 8, and Savings and Consequential and Transitional Provisions) Order 1999 (S.I. 1999/1958)](https://www.legislation.gov.uk/uksi/1999/1958), [art. 1](https://www.legislation.gov.uk/uksi/1999/1958/article/1), [Sch. 6 para. 1(b)(c)](https://www.legislation.gov.uk/uksi/1999/1958/schedule/6/paragraph/1/b/c)
+
+[^key-3e5f386fdc0db74057607f4639b6dfbd]: Textual amendment: Words in [art. 1(2)](https://www.legislation.gov.uk/uksi/1982/1489/article/1/2) substituted (3.11.2008) by [The Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683), [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1), [Sch. 1 para. 27](https://www.legislation.gov.uk/uksi/2008/2683/schedule/1/paragraph/27)
+
+[^key-93c45479678c7da04fef857de8f89668]: Textual amendment: Words in art. 1(2) revoked (5.7.1999) by [The Social Security Act 1998 (Commencement No. 8, and Savings and Consequential and Transitional Provisions) Order 1999 (S.I. 1999/1958)](https://www.legislation.gov.uk/uksi/1999/1958), [art. 1](https://www.legislation.gov.uk/uksi/1999/1958/article/1), [Sch. 6 para. 1(d)](https://www.legislation.gov.uk/uksi/1999/1958/schedule/6/paragraph/1/d)
+
+[^key-87ca8c32f183b7875a18b4e9425c39ed]: Textual amendment: Words in art. 1(2) inserted (5.7.1999) by [The Social Security Act 1998 (Commencement No. 8, and Savings and Consequential and Transitional Provisions) Order 1999 (S.I. 1999/1958)](https://www.legislation.gov.uk/uksi/1999/1958), [art. 1](https://www.legislation.gov.uk/uksi/1999/1958/article/1), [Sch. 6 para. 1(e)](https://www.legislation.gov.uk/uksi/1999/1958/schedule/6/paragraph/1/e)
+
+[^key-2a5ae554dc7bc21f621fa04e0635e110]: Textual amendment: Words in art. 2(1) substituted (9.1.1991) by [The Workmens Compensation (Supplementation) (Amendment) and the Pneumoconiosis, Byssinosis and Miscellaneous Diseases Benefit (Amendment) Scheme 1990 (S.I. 1990/2538)](https://www.legislation.gov.uk/uksi/1990/2538), [arts. 1](https://www.legislation.gov.uk/uksi/1990/2538/article/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/1990/2538/article/2/2/a)
+
+[^key-1a1c3a95105597186bf05c540dc8f81d]: Textual amendment: Words in art. 4(1) substituted (9.1.1991) by [The Workmens Compensation (Supplementation) (Amendment) and the Pneumoconiosis, Byssinosis and Miscellaneous Diseases Benefit (Amendment) Scheme 1990 (S.I. 1990/2538)](https://www.legislation.gov.uk/uksi/1990/2538), [arts. 1](https://www.legislation.gov.uk/uksi/1990/2538/article/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/1990/2538/article/2/2/a)
+
+[^key-519de827e7ef2c5938c0f2dfe7edf3a3]: Textual amendment: Words in art. 4(2) revoked (6.4.1987) by [The Workmens Compensation (Supplementation) Amendment Scheme 1987 (S.I. 1987/419)](https://www.legislation.gov.uk/uksi/1987/419), [arts. 1](https://www.legislation.gov.uk/uksi/1987/419/article/1), [2(1)(a)](https://www.legislation.gov.uk/uksi/1987/419/article/2/1/a), with [2(2)](https://www.legislation.gov.uk/uksi/1987/419/article/2/2)
+
+[^key-23392972a185a61c6adc54ab9e7094d7]: Textual amendment: Words in art. 5(1) substituted (9.1.1991) by [The Workmens Compensation (Supplementation) (Amendment) and the Pneumoconiosis, Byssinosis and Miscellaneous Diseases Benefit (Amendment) Scheme 1990 (S.I. 1990/2538)](https://www.legislation.gov.uk/uksi/1990/2538), [arts. 1](https://www.legislation.gov.uk/uksi/1990/2538/article/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/1990/2538/article/2/2/a)
+
+[^key-f62942c88a9749169c964b27bfab23a9]: Textual amendment: Words in [art. 5(2)](https://www.legislation.gov.uk/uksi/1982/1489/article/5/2) substituted (11.4.2012) by [The Workmen s Compensation (Supplementation) (Amendment) Scheme 2012 (S.I. 2012/833)](https://www.legislation.gov.uk/uksi/2012/833), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/833/article/1/1), [2](https://www.legislation.gov.uk/uksi/2012/833/article/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2012/833/article/4))
+
+[^key-0bed4a2b0b9a58b7bf7cdf5ed819301d]: Textual amendment: Words in art. 6(1) revoked (6.4.1987) by [The Workmens Compensation (Supplementation) Amendment Scheme 1987 (S.I. 1987/419)](https://www.legislation.gov.uk/uksi/1987/419), [arts. 1](https://www.legislation.gov.uk/uksi/1987/419/article/1), [2(1)(a)](https://www.legislation.gov.uk/uksi/1987/419/article/2/1/a), with [2(2)](https://www.legislation.gov.uk/uksi/1987/419/article/2/2)
+
+[^key-2d2c933af4188756cd36e21e0847bd74]: Textual amendment: Words in art. 6(3) revoked (6.4.1987) by [The Workmens Compensation (Supplementation) Amendment Scheme 1987 (S.I. 1987/419)](https://www.legislation.gov.uk/uksi/1987/419), [arts. 1](https://www.legislation.gov.uk/uksi/1987/419/article/1), [2(1)(b)](https://www.legislation.gov.uk/uksi/1987/419/article/2/1/b), with [2(2)](https://www.legislation.gov.uk/uksi/1987/419/article/2/2)
+
+[^key-9619b5de8a139b911d2c577f2bc82dd2]: Textual amendment: Words in art. 6(4)(5) revoked (6.4.1987) by [The Workmens Compensation (Supplementation) Amendment Scheme 1987 (S.I. 1987/419)](https://www.legislation.gov.uk/uksi/1987/419), [arts. 1](https://www.legislation.gov.uk/uksi/1987/419/article/1), [2(1)(b)](https://www.legislation.gov.uk/uksi/1987/419/article/2/1/b), with [2(2)](https://www.legislation.gov.uk/uksi/1987/419/article/2/2)
+
+[^key-5cfd3045cd8f38f3800b5693e9c86c96]: Textual amendment: Words in art. 6(5) substituted (5.7.1999) by [The Social Security Act 1998 (Commencement No. 8, and Savings and Consequential and Transitional Provisions) Order 1999 (S.I. 1999/1958)](https://www.legislation.gov.uk/uksi/1999/1958), [art. 1](https://www.legislation.gov.uk/uksi/1999/1958/article/1), [Sch. 6 para. 2](https://www.legislation.gov.uk/uksi/1999/1958/schedule/6/paragraph/2)
+
+[^key-84b6eee5003221da9e16030308147cc0]: Textual amendment: Words in art. 11 substituted (9.1.1991) by [The Workmens Compensation (Supplementation) (Amendment) and the Pneumoconiosis, Byssinosis and Miscellaneous Diseases Benefit (Amendment) Scheme 1990 (S.I. 1990/2538)](https://www.legislation.gov.uk/uksi/1990/2538), [arts. 1](https://www.legislation.gov.uk/uksi/1990/2538/article/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/1990/2538/article/2/2/b)
+
+[^key-f3c13ac73cec8cf70e6416e564b478ad]: Textual amendment: Art. 12 substituted (5.7.1999) by [The Social Security Act 1998 (Commencement No. 8, and Savings and Consequential and Transitional Provisions) Order 1999 (S.I. 1999/1958)](https://www.legislation.gov.uk/uksi/1999/1958), [art. 1](https://www.legislation.gov.uk/uksi/1999/1958/article/1), [Sch. 6 para. 3](https://www.legislation.gov.uk/uksi/1999/1958/schedule/6/paragraph/3)
+
+[^key-0a7f9f9ecac0d01796bfa4fd3dd8d44d]: Textual amendment: Words in art. 12 omitted (3.11.2008) by virtue of [The Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683), [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1), [Sch. 1 para. 28](https://www.legislation.gov.uk/uksi/2008/2683/schedule/1/paragraph/28)
+
+[^key-f1bc7bb11884bcb9a2c0f50c9e0e0569]: Textual amendment: Art. 13 substituted (5.7.1999) by [The Social Security Act 1998 (Commencement No. 8, and Savings and Consequential and Transitional Provisions) Order 1999 (S.I. 1999/1958)](https://www.legislation.gov.uk/uksi/1999/1958), [art. 1](https://www.legislation.gov.uk/uksi/1999/1958/article/1), [Sch. 6 para. 4](https://www.legislation.gov.uk/uksi/1999/1958/schedule/6/paragraph/4)
+
+[^key-cdf87258173b25d8c3ccb373bf47e63c]: Textual amendment: Art. 14 substituted (5.7.1999) by [The Social Security Act 1998 (Commencement No. 8, and Savings and Consequential and Transitional Provisions) Order 1999 (S.I. 1999/1958)](https://www.legislation.gov.uk/uksi/1999/1958), [art. 1](https://www.legislation.gov.uk/uksi/1999/1958/article/1), [Sch. 6 para. 5](https://www.legislation.gov.uk/uksi/1999/1958/schedule/6/paragraph/5)
+
+[^key-af75affa5c43c6f061be139b89eb0dfd]: Textual amendment: Words in art. 15 substituted (5.7.1999) by [The Social Security Act 1998 (Commencement No. 8, and Savings and Consequential and Transitional Provisions) Order 1999 (S.I. 1999/1958)](https://www.legislation.gov.uk/uksi/1999/1958), [art. 1](https://www.legislation.gov.uk/uksi/1999/1958/article/1), [Sch. 6 para. 6](https://www.legislation.gov.uk/uksi/1999/1958/schedule/6/paragraph/6)
+
+[^key-46fecf3e91fe38af6facc904d1e65c7e]: Textual amendment: Words in art. 17(1) omitted (5.7.1999) by [The Social Security Act 1998 (Commencement No. 8, and Savings and Consequential and Transitional Provisions) Order 1999 (S.I. 1999/1958)](https://www.legislation.gov.uk/uksi/1999/1958), [art. 1](https://www.legislation.gov.uk/uksi/1999/1958/article/1), [Sch. 6 para. 7(a)](https://www.legislation.gov.uk/uksi/1999/1958/schedule/6/paragraph/7/a)
+
+[^key-05f18985739efa7a794fb050933aee1f]: Textual amendment: Words in art. 17(2)(a) substituted (5.7.1999) by [The Social Security Act 1998 (Commencement No. 8, and Savings and Consequential and Transitional Provisions) Order 1999 (S.I. 1999/1958)](https://www.legislation.gov.uk/uksi/1999/1958), [art. 1](https://www.legislation.gov.uk/uksi/1999/1958/article/1), [Sch. 6 para. 7(b)](https://www.legislation.gov.uk/uksi/1999/1958/schedule/6/paragraph/7/b)
+
+[^key-5b4bda0941cc4e175e9883b9e660efaf]: Textual amendment: Art. 17(4) revoked (5.7.1999) by [The Social Security Act 1998 (Commencement No. 8, and Savings and Consequential and Transitional Provisions) Order 1999 (S.I. 1999/1958)](https://www.legislation.gov.uk/uksi/1999/1958), [art. 1](https://www.legislation.gov.uk/uksi/1999/1958/article/1), [Sch. 6 para. 7(c)](https://www.legislation.gov.uk/uksi/1999/1958/schedule/6/paragraph/7/c)
+
+[^key-8dc5f14a2bb49a29fb5ecd20bc3ec93c]: Textual amendment: Art. 18 substituted (7.4.1997) by [The Workmens Compensation (Supplementation) (Amendment) (No. 2) Scheme 1997 (S.I. 1997/823)](https://www.legislation.gov.uk/uksi/1997/823), [arts. 1](https://www.legislation.gov.uk/uksi/1997/823/article/1), [2](https://www.legislation.gov.uk/uksi/1997/823/article/2)
+
+[^key-24bf80a9633d7126071687a2c90daa8c]: Textual amendment: Words in art. 23(1) substituted (9.1.1991) by [The Workmens Compensation (Supplementation) (Amendment) and the Pneumoconiosis, Byssinosis and Miscellaneous Diseases Benefit (Amendment) Scheme 1990 (S.I. 1990/2538)](https://www.legislation.gov.uk/uksi/1990/2538), [arts. 1](https://www.legislation.gov.uk/uksi/1990/2538/article/1), [2(2)(d)](https://www.legislation.gov.uk/uksi/1990/2538/article/2/2/d)
+
+[^f00005]: Footnote: *See* S.I. 1977/991, article 4.
+
+[^key-59905d83f13df1dae6bf669bd1d3b45c]: Textual amendment: Art. 26 substituted (5.7.1999) by [The Social Security Act 1998 (Commencement No. 8, and Savings and Consequential and Transitional Provisions) Order 1999 (S.I. 1999/1958)](https://www.legislation.gov.uk/uksi/1999/1958), [art. 1](https://www.legislation.gov.uk/uksi/1999/1958/article/1), [Sch. 6 para. 8](https://www.legislation.gov.uk/uksi/1999/1958/schedule/6/paragraph/8)
+
+[^key-420659ec747571d1c60974496e2ca531]: Textual amendment: Words in art. 33 substituted (5.7.1999) by [The Social Security Act 1998 (Commencement No. 8, and Savings and Consequential and Transitional Provisions) Order 1999 (S.I. 1999/1958)](https://www.legislation.gov.uk/uksi/1999/1958), [art. 1](https://www.legislation.gov.uk/uksi/1999/1958/article/1), [Sch. 6 para. 9](https://www.legislation.gov.uk/uksi/1999/1958/schedule/6/paragraph/9)
+
+[^key-c55bc2642ecb30fa09c931b04f3035ff]: Textual amendment: Words in art. 34 inserted (6.4.1987) by [The Workmens Compensation (Supplementation) Amendment Scheme 1987 (S.I. 1987/419)](https://www.legislation.gov.uk/uksi/1987/419), [arts. 1](https://www.legislation.gov.uk/uksi/1987/419/article/1), [2(1)(c)](https://www.legislation.gov.uk/uksi/1987/419/article/2/1/c), with [2(2)](https://www.legislation.gov.uk/uksi/1987/419/article/2/2)
+
+[^key-f1d094874d1c0b737b4de309631243e9]: Textual amendment: Words in art. 36 substituted (9.1.1991) by [The Workmens Compensation (Supplementation) (Amendment) and the Pneumoconiosis, Byssinosis and Miscellaneous Diseases Benefit (Amendment) Scheme 1990 (S.I. 1990/2538)](https://www.legislation.gov.uk/uksi/1990/2538), [arts. 1](https://www.legislation.gov.uk/uksi/1990/2538/article/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/1990/2538/article/2/2/a)
+
+[^key-a1ff8ca626f1b7df56bc7eee8cc36df3]: Textual amendment: Sch. 1 substituted (11.4.2012) by [The Workmen s Compensation (Supplementation) (Amendment) Scheme 2012 (S.I. 2012/833)](https://www.legislation.gov.uk/uksi/2012/833), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/833/article/1/1), [3](https://www.legislation.gov.uk/uksi/2012/833/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2012/833/article/4))
+
+[^key-0561ef7668522dde6e8057b66122dec6]: Textual amendment: Sch. 2 substituted (5.7.1999) by [The Social Security Act 1998 (Commencement No. 8, and Savings and Consequential and Transitional Provisions) Order 1999 (S.I. 1999/1958)](https://www.legislation.gov.uk/uksi/1999/1958), [art. 1](https://www.legislation.gov.uk/uksi/1999/1958/article/1), [Sch. 6 para. 11](https://www.legislation.gov.uk/uksi/1999/1958/schedule/6/paragraph/11)
+
+[^key-6968a7baafc5bdce7685e8ea2457c0aa]: Textual amendment: Words in Sch. 2 omitted (3.11.2008) by virtue of [The Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683), [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1), [Sch. 1 para. 29(a)](https://www.legislation.gov.uk/uksi/2008/2683/schedule/1/paragraph/29/a)
+
+[^key-400e98634c3a746d994bb070ca1e6177]: Textual amendment: Words in Sch. 2 omitted (3.11.2008) by virtue of [The Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683), [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1), [Sch. 1 para. 29(b)](https://www.legislation.gov.uk/uksi/2008/2683/schedule/1/paragraph/29/b)

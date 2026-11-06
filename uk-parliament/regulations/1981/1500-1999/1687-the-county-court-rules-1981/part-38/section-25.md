@@ -1,0 +1,24 @@
+---
+title: The County Court Rules 1981, section 25
+act: The County Court Rules 1981
+section: '25'
+status: as-enacted
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1981/1687/section/25
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Westlaw UK derived from Crown Copyright material and contributed to legislation.gov.uk
+summary: ''
+---
+
+# The County Court Rules 1981, section 25
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+## 25. Costs arising from misconduct or default
+
+The provisions of the R.S.C. relating to—
+
+- (a) costs arising from misconduct or neglect, and
+- (b) the personal liability of a solicitor for costs,
+
+except such of those provisions as refer to the Official Solicitor and court fees, shall apply in relation to proceedings in a county court as they apply in relation to proceedings in the High Court.

@@ -1,0 +1,547 @@
+---
+title: The Weighing Equipment (Automatic Gravimetric Filling Instruments) Regulations 2000
+id: uksi/2000/388
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2000-02-15'
+text_date: '2020-12-31'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/uksi/2000/388
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2000/388/pdfs/uksi_20000388_en.pdf
+- http://www.legislation.gov.uk/uksi/2000/388/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Weighing Equipment (Automatic Gravimetric Filling Instruments) Regulations 2000
+
+> Text as at 2020-12-31.
+>
+> Extent: England, Wales, Scotland.
+
+*Extent: E+W+S*
+
+2000 No. 388
+
+WEIGHTS AND MEASURES
+
+The Weighing Equipment (Automatic Gravimetric Filling Instruments) Regulations 2000
+
+Made
+
+15th February 2000
+
+Laid before Parliament
+
+17th February 2000
+
+Coming into force
+
+17th July 2000
+
+The Secretary of State, in exercise of the powers conferred upon him by sections 15(1) and 86(1) of the Weights and Measures Act 1985[^f00001] and of all his other enabling powers, hereby makes the following Regulations:-
+
+## PART I — GENERAL
+
+### 1. Citation, commencement, consequential disapplication and amendment[^key-bee153772b39a2baadc794b5cf50798d]
+
+(1) These Regulations may be cited as the Weighing Equipment (Automatic Gravimetric Filling Instruments) Regulations 2000 and shall come into force on 17th July 2000.
+
+(2) The Weighing Equipment (Filling and Discontinuous Totalising Automatic Weighing Machines) Regulations 1986[^f00002] are hereby disapplied in respect of any filling instrument which is also a filling machine for the purposes of those Regulations.
+
+(3) For sub-paragraph (i) of regulation 1(2) of the Weights and Measures Regulations 1963[^f00003], there shall be substituted the following–
+
+> - (i) filling machines and discontinuous totalisers to which the Weighing Equipment (Filling and Discontinuous Totalising Automatic Weighing Machines) Regulations 1986 and filling instruments to which the Weighing Equipment (Automatic Gravimetric Filling Instruments) Regulations 2000[^f00004] apply, except insofar as such machines, totalisers and filling instruments are capable of also being used as a non-automatic weighing machine;
+
+.
+
+### 2. Interpretation[^key-7d0a2ff0611412150e30494d2d94a8df]
+
+(1) In these Regulations–
+
+- (a) “filling instrument” means an instrument which–
+  - (i) serves to determine the mass of a load by using the action of gravity on that load without the intervention of an operator;
+  - (ii) follows a predetermined programme of automatic processes characteristic of the instrument;
+  - (iii) systematically sub-divides material from bulk into separate loads of a predetermined and virtually constant mass; and
+  - (iv) effects an automatic feed and weighing of those loads with the appropriate control and discharge devices;
+- (b) unless the context otherwise requires, a reference to a numbered regulation or Schedule is a reference to the regulation or Schedule so numbered in these Regulations and a reference to a paragraph in a regulation is a reference to a paragraph in that regulation; and
+- (c) any expression and procedure which is not defined in these Regulations and is used both in these Regulations and in OIML R 61 shall bear the same meaning as in OIML R 61.
+
+(2) In these Regulations, unless the context otherwise requires–
+
+- “the 1985 Act” means the Weights and Measures Act 1985;
+- “accuracy class” means the accuracy class, in respect of a filling instrument, determined in accordance with the provisions of regulation 6(c); provided always that the accuracy class in respect of that filling instrument shall not be of a higher level of precision than the reference value for accuracy class in respect of that instrument;
+- “certificate of approval” means a certificate of approval of a pattern of a filling instrument granted or renewed by the Secretary of State under section 12 of the 1985 Act;
+- “control instrument” means a weighing instrument used to determine the mass of the test fills delivered by the filling instrument;
+- “initial verification testing” means testing in accordance with the provisions of regulation 6(c);
+- “level indicator” means a device which indicates when the structure to which it is attached is tilted away from its correct operating position;
+- “load receptor” means a part of a filling instrument on which loads are placed for the purpose of their being weighed;
+- “maximum capacity” means the maximum discrete load which the filling instrument is authorised to weigh and that can be weighed automatically on a load receptor;
+- “minimum capacity” means the minimum discrete load which the filling instrument is authorised to weigh and that can be weighed automatically on a load receptor;
+- “OIML R 61” means the International Recommendation OIML R 61 of the Organisation Internationale de Métrologie Légale relating to automatic gravimetric filling instruments (Edition 1996 (E));
+- “prescribed limits of error” has the meaning set out in regulation 9(3);
+- “reference particle mass” means, in respect of a product, the mass equal to the mean of ten of the largest elementary particles or pieces of the product taken from one or more loads;
+- “reference value for accuracy class” means, in respect of a filling instrument, the value for accuracy class of that instrument determined by static testing of the weighing unit during influence quantity testing prior to a certificate of approval being issued and shall be stated in the certificate of approval: the reference value for accuracy class shall be equal to the best accuracy class, that is to say the class of the highest level of precision, for which that filling instrument may be tested and passed as fit for use for trade;
+- “the stamp” or “verification mark” means the prescribed stamp[^f00005];
+- “tare device” means a device for setting the weight indicating device, that is to say the device which indicates the weight of a load on a load receptor of the filling instrument, to zero when a load is placed on the load receptor–
+  - (a) without altering the weighing range for net loads (additive tare device); or
+  - (b) reducing the weighing range for net loads (subtractive tare device);
+- “weighing unit” means a device which provides information on the mass of the load being weighed by the filling instrument; and
+- “zero-setting device” means a device which allows the setting of that indicating device to zero when the load receptor is empty.
+
+### 3. Application[^key-84dc93a4e147f604b013209fcd90d452]
+
+(1) Subject to paragraphs (2) and (3) and regulation 4, these Regulations apply to filling instruments and such instruments are hereby prescribed for the purposes of section 11(1) of the 1985 Act (use for trade of weighing or measuring equipment of prescribed classes).
+
+(2) These Regulations do not apply to any filling instrument which has been put into use for trade before these Regulations came into force.
+
+(3) Nothing in these Regulations shall apply to any filling instrument for use only for making up packages if, and only if, the packages are subsequently checked in accordance with section 49(1)(b) of the 1985 Act, and in this paragraph “ packages” means packages as defined in section 68(1) of the 1985 Act.
+
+### 4. Transitional exclusion[^key-d0687d42b93436ee1dde1aaa891808cd]
+
+(1) Subject to paragraph (2), these Regulations do not apply to a filling instrument–
+
+- (a) which comprises a filling machine for the purposes of the Weighing Equipment (Filling and Discontinuous Totalising Automatic Weighing Machines) Regulations 1986[^f00006]; and
+- (b) which has been first passed as fit for use for trade, for the purposes of those Regulations, within a period of 10 years from the date on which these Regulations came into force.
+
+(2) The exception provided in paragraph (1) does not apply in the case of a filling instrument which bears the marking “R 61”.
+
+## PART II — GENERAL REQUIREMENTS FOR USE FOR TRADE
+
+### 5. General duties for use for trade[^key-85af9019d8e595dcd4c1ab96e015cbfb]
+
+No person shall use for trade a filling instrument unless–
+
+- (a) it has been erected and installed in accordance with the requirements of Schedule 1;
+- (b) the requirements of Schedule 2 in respect of its use and manner of use are complied with; and
+- (c) in the case of a filling instrument of the description and maximum capacity set out, respectively, in columns 1 and 2 of Schedule 3, it is within the accuracy class specified for that filling instrument in column 3 of Schedule 3 or within an accuracy class of a higher level of precision than the specified class.
+
+### 6. Requirements to be satisfied for passing as fit for use for trade[^key-3d158de7be507adf2ca6adf8308ce373]
+
+Every filling instrument shall, before it is passed as fit for use for trade,–
+
+- (a) comply with a pattern in respect of which a certificate of approval remains in force at the time when such a filling instrument is so passed;
+- (b) have affixed to it the applicable descriptive markings relating to that filling instrument and have provision for a place for the application of the specified verification marks, in accordance with the requirements of Schedule 4; and
+- (c) subject to regulations 5(c) and 8, have successfully undergone initial verification testing and, as part of that testing, an accuracy class has been determined in respect of it: for the purposes of these Regulations, initial verification testing means testing of a filling instrument carried out by an inspector in accordance with the procedure specified in clause 5.3 (initial verification) of Part 1 of OIML R 61.
+
+**6A.**[^key-3398e6331ba303fb4bc5a24bc72f2faf] Where the indication of the exact quantity of material a filling instrument purports to weigh is given in metric units of measurement that indication may also be given by means of a supplementary indication [^key-84183207855a13f7d534af8e6fbd452c]....
+
+### 7. Supplementary requirements[^key-fa26686a2618c6330407aebdf578cdb3]
+
+(1) Every filling instrument submitted for testing shall be completely assembled and in a clean condition.
+
+(2) For the purposes of the performance by an inspector of his functions under the 1985 Act or these Regulations relating to inspection, testing, passing as fit for use for trade and stamping of any filling instrument, a person submitting such an instrument to an inspector or who an inspector has reasonable cause to believe has control of such an instrument for use for trade shall, if requested, provide for the inspector’s use such material as the inspector may reasonably require and a control instrument: any material or control instrument so provided shall be returned to the person in question.
+
+(3) A filling instrument, other than one which has been transported without having been dismantled, shall not be tested, passed as fit for use for trade and stamped unless it has been completely erected ready for use and, subject to paragraph (4), installed in the position in which it is to be used.
+
+(4) Where an inspector is satisfied that any dismantling and re-assembly or transportation of a filling instrument to its intended place of use could not, in his opinion, affect the accuracy or functioning of that filling instrument, it may be examined, with a view to passing that filling instrument as fit for use for trade at a place other than the intended place of use, for the purposes of initial verification testing.
+
+### 8. Filling Instruments imported from an EEA State[^key-1f361ba140ddd4e451c9e726bdc5e4cb][^key-4c106893c7b14301fbac7ec1c0f4a507]
+
+(1) In relation to a filling instrument imported into Great Britain from an EEA State[^key-1e2d61a1635352c8ee95cd0d01444a5e], subject to paragraph (4), an inspector shall not carry out any test relating to initial verification testing if, together with the filling instrument being imported, he is presented with the requisite documentation.
+
+(2) In this regulation and regulation 9(2)–
+
+- (a) “requisite documentation” means–
+  - (i) the test report, in the format set out in Part 2 of OIML R 61, of an approved body that the filling instrument which is the subject of that report has been tested on the same basis as the procedure specified in clause 5.3 (initial verification) of Part 1 of OIML R 61, and stating which tests have been applied to it; and
+  - (ii) the test results relating to those tests; and
+- (b) “EEA State” means a State which is a Contracting Party to the EEA Agreement [^key-406e4c4bb8fef63f6646b8358cb01b07]...; and in this paragraph “the EEA Agreement” means the Agreement on the European Economic Area signed at Oporto on 2nd May 1992 as adjusted by the Protocol signed at Brussels on 17th March 1993.
+
+(3)[^key-b4b4cbaec11909fdfb25ce14814752ef] A body is an “approved body” for the purposes of this regulation if it is a body in a member State or in an EEA State which has responsibility in that State for metrological control of filling instruments or is a laboratory which has been accredited for the purposes of testing filling instruments in a member State or in an EEA State as being a body which conforms with the criteria set out in BS EN ISO/IEC 17025:2000.
+
+(4) Nothing in these Regulations shall prevent an inspector carrying out initial verification testing where he is not satisfied–
+
+- (a) as to the authenticity of the test report or the results presented to him; or
+- (b) that the test results presented to him are results which in fact relate to the filling instrument being imported; or
+- (c) subject to regulation 7(4), that the filling instrument has not been dismantled after the tests to which the test report relates were carried out.
+
+## PART III — TESTING AND STAMPING
+
+### 9. Passing as fit for use for trade[^key-7cf941af538bc776d52922329516ce6d]
+
+(1) An inspector shall not pass as fit for use for trade a filling instrument unless–
+
+- (a) it complies with all the appropriate requirements of these Regulations; and
+- (b) on testing, it falls within the prescribed limits of error in relation to passing as fit for use for trade.
+
+(2) An inspector shall not pass as fit for use for trade a filling instrument imported from an EEA State[^key-67ba7fef7365b13d0b9e754c9e8081a4] unless–
+
+- (a) where the requisite documentation is presented in accordance with regulation 8, the test report recites and the test data confirm to the satisfaction of the inspector that, on testing in accordance with the provisions of clause 5.3 (initial verification) of Part 1 of OIML R 61, that filling instrument fell within limits of error which afford in use an equivalent standard to the prescribed limits of error; and
+- (b) it otherwise complies with all the relevant requirements of these Regulations.
+
+(3) For the purposes of these Regulations and subject to regulation 5(c), the prescribed limits of error relating to a filling instrument shall be determined–
+
+- (a) in accordance with the provisions of Schedule 5; and
+- (b) where test fills are required, on the basis of consecutive fills.
+
+### 10. Stamping[^key-7f8d6383c47b208f3d646e2dca7372f7]
+
+(1) The stamp shall be placed on the verification mark support referred to in clause 3.11.2 of Part 1 of OIML R 61 which is set out in Schedule 4.
+
+(2) An inspector shall not stamp a filling instrument in accordance with paragraph (1) if it bears any mark which, in his opinion, might reasonably be mistaken for the stamp, or any statement or mark (other than an inspector’s stamp) which purports to be or, in the opinion of the inspector, might reasonably be mistaken for an expression of approval or guarantee of accuracy by any body or person.
+
+### 11. Manner of obliteration of stamps[^key-3625bc5bfe6a22d9e71ff9cb1c9d4173]
+
+An inspector shall obliterate a stamp, in accordance with the requirements of these Regulations, by means of punches or pincers of suitable sizes of a six-pointed star design as shown in the following illustration–
+
+[image: see source](https://www.legislation.gov.uk/uksi/2000/388/images/uksi_20000388_en_001)
+
+### 12. Obliteration of stamps[^key-cb953043e50b7e4bcdfde68f624f0dd2]
+
+(1) Subject to paragraph (2), an inspector shall obliterate the stamp on any filling instrument which–
+
+- (a) on testing in accordance with clause 5.4 of Part 1 of OIML R 61 fails to fall within the prescribed limits of error in relation to obliteration of the stamp; or
+- (b) fails to comply with any other appropriate requirement of these Regulations.
+
+(2) Except as provided by regulation 13, where any filling instrument does not fully comply with the requirements of these Regulations, but the nature or degree of the non-compliance is not, in the inspector’s opinion, such as to require the immediate obliteration of the stamp, he shall give to the proprietor or any person in control of the filling instrument a notice calling on him to have the instrument corrected within a stated period not exceeding 28 days, and shall obliterate the stamp if the correction has not been made within the stated period.
+
+**13.**[^key-6d09616f8d5d82886d50749b7322984d] An inspector shall obliterate the stamp on any filling instrument which has, since it was last stamped, had any alteration or addition made to it such that it could not be passed as fit for use for trade under regulation 9.
+
+**14.**[^key-e8b24dcb9f203ec6e98d008d69228184] An inspector may obliterate the stamp on any filling instrument which–
+
+- (a) has, since it was last stamped, been the subject of any adjustment, alteration, addition, repair or replacement–
+  - (i) which could, in the opinion of the inspector, have affected its accuracy or function; and
+  - (ii) where the chief inspector of weights and measures for the area where the filling instrument is located has been furnished in writing with details of that adjustment, alteration, addition, repair or replacement;
+- (b) is in use for trade for a particular purpose and–
+  - (i) which does not meet the requirements of Schedule 2 in respect of minimum or maximum capacity; or
+  - (ii) for which purpose, in the opinion of the inspector, it is otherwise unsuitable; or
+- (c) is in use for trade in circumstances where the filling instrument is subjected to any extraordinary environmental or operating conditions which, in the opinion of the inspector,–
+  - (i) prevent the filling instrument operating consistently and correctly; or
+  - (ii) are likely prematurely to degrade the metrological characteristics of the filling instrument.
+
+**15.**[^key-4c5a4ed842bca771745bf5d5c950e9a1] (1) For the purposes of these Regulations, the obliteration of any one stamp on any filling instrument shall, subject to paragraph (2), be deemed to be the obliteration of all other stamps on that instrument.
+
+(2) Where the stamp on one filling instrument forming part of an interconnected system is obliterated, paragraph (1) shall not apply so as to prevent the system or any other filling instrument in the system being used provided that the integrity of the remainder of the system is unimpaired.
+
+Kim Howells,
+
+Parliamentary Under-Secretary of State for Consumers and Corporate Affairs,
+
+Department of Trade and Industry
+
+## SCHEDULE 1 — (Manner of erection and installation)[^key-7a43fb0faf8c8795dd26b8a2c3910c0b]
+
+regulation 5(a)
+
+### Cleaning and testing[^key-7a43fb0faf8c8795dd26b8a2c3910c0b]
+
+Every filling instrument shall be so positioned as to facilitate cleaning and testing.
+
+### Feeding device (Extract from Clause 3.5 of Part 1 of OIML R 61)[^key-7a43fb0faf8c8795dd26b8a2c3910c0b]
+
+The feeding device shall be designed to provide sufficient and regular flowrate(s).
+
+### Load receptor (Clause 3.6 of Part 1 of OIML R 61)[^key-7a43fb0faf8c8795dd26b8a2c3910c0b]
+
+The load receptor, and feed and discharge devices as appropriate, shall be designed to ensure that residual material retained after each discharge is negligible.
+
+Instruments using the subtractive weighing principle shall be designed to ensure that residual material retained at feed from the discharge gate is negligible.
+
+The load receptor shall provide access and facilities so that where necessary test weights or masses up to the maximum capacity can be placed in position, in a safe and secure manner. If these facilities are not a permanent fixture of the instrument, they must be kept in the vicinity of the instrument.
+
+Manual discharge of the load receptor shall not be possible during automatic operation.
+
+### Equilibrium mechanism (Clause 3.8 of Part 1 of OIML R 61)[^key-7a43fb0faf8c8795dd26b8a2c3910c0b]
+
+The equilibrium mechanism may be provided with detachable masses which shall be either weights in accordance with OIML requirements or purpose designed masses of any nominal value, distinguishable by shape and identified with the filling instrument.
+
+### Installation (Extract from Clause 5.3.1 of Part 1 of OIML R 61)[^key-7a43fb0faf8c8795dd26b8a2c3910c0b]
+
+The installation of a filling instrument shall be so designed that an automatic weighing operation will be the same whether for the purposes of testing or for use for a transaction.
+
+## SCHEDULE 2 — (Requirements relating to use)[^key-b3715b637be69ffc154247d529f841b7]
+
+regulation 5(b)
+
+### Static temperatures (Clause 2.5.1 of Part 1 of OIML R 61)[^key-b3715b637be69ffc154247d529f841b7]
+
+Instruments shall comply with the appropriate metrological and technical requirements at temperatures from −10°C to +40°C. However, for special applications the limits of the temperature range may differ from those given above but such a range shall not be less than 30°C and shall be specified in the descriptive markings as set out in Schedule 4.
+
+Where a filling instrument is marked with a temperature range, it shall not be used for trade in temperatures outside that range.
+
+### Tilting (Clause 2.5.3 of Part 1 of OIML R 61)[^key-b3715b637be69ffc154247d529f841b7]
+
+Instruments which are not intended for installation in a fixed position and which do not have a level indicator shall comply with the appropriate metrological and technical requirements when tilted by 5%.
+
+Where a level indicator is present it shall enable the instrument to be set to a tilt of 1% or less.
+
+### Suitability for use (Clause 3.1 of Part 1 of OIML R 61)[^key-b3715b637be69ffc154247d529f841b7]
+
+A filling instrument shall be designed to suit the method of operation and the products for which it is intended. It shall be of adequately robust construction so that it maintains its metrological characteristics.
+
+### Zero-setting and tare devices (Extract from Clause 3.7 of Part 1 of OIML R 61)[^key-b3715b637be69ffc154247d529f841b7]
+
+Non-automatic or semi-automatic zero-setting and tare devices must be locked during automatic operation.
+
+The weighing unit shall be in stable equilibrium when the zero-setting and tare devices are being set.
+
+### Specified purpose or manner of use[^key-b3715b637be69ffc154247d529f841b7]
+
+Where a filling instrument is marked (in accordance with Schedule 4) with a mark which signifies the purpose or manner of use, it shall not be used for a purpose or in a manner which does not accord with that marking.
+
+### Minimum or maximum capacity[^key-b3715b637be69ffc154247d529f841b7]
+
+A filling instrument shall only be used for trade for the purpose of weighing material the values of which, expressed in units of measurement of mass, are neither less than the value of the minimum capacity nor more than the value of the maximum capacity.
+
+## SCHEDULE 3 — (Accuracy classes for filling instruments)[^key-d3be6237521f8acb330d8752f14ab6d5]
+
+regulation 5(c)
+
+<table>
+<thead>
+<tr><th><em>Description of use of filling instrument</em></th><th><em>Maximum capacity of filling instrument</em></th><th><em>Class of filling instrument</em></th></tr>
+<tr><th><em>(1)</em></th><th><em>(2)</em></th><th><em>(3)</em></th></tr>
+</thead>
+<tfoot>
+<tr><td colspan="3">For the purposes of this Schedule, “waste” shall be construed in accordance with section 75 of the Environmental Protection Act 1990, provided that “waste” shall include any waste disposed of for reprocessing or recycling purposes but shall not include any radioactive waste as defined in paragraph 5 of schedule 8 of the Environmental Authorisations (Scotland) Regulations 2018 Schedule 23 to <em>(Extent: E+W)</em> the Environmental Permitting (England and Wales) Regulations 2016 <em>(Extent: E+W)</em>.</td></tr>
+</tfoot>
+<tbody>
+<tr><td>For use for weighing potato crisps and similar products commonly known as “snack foods”</td><td>Any capacity</td><td>X(2)</td></tr>
+<tr><td>For use for weighing solid fuel<br>For use for weighing vegetable produce<br>For use for weighing materials commonly known as waste</td><td>110 kg or less<br>55 kg or less<br>Any capacity</td><td>X(1)</td></tr>
+<tr><td>For any use which is not described in any of the above</td><td>Less than 5 kg<br>5 kg or more</td><td>X(1)<br>X(0.5)</td></tr>
+</tbody>
+</table>
+
+[^f00008][^key-55f5d61f3253c8fb6e5bac5c79b9133d][^key-7158b78db0aa757a4fde432337354fcb][^key-a99c06ddc07bd515f33db2058b884501]
+
+## SCHEDULE 4 — (Descriptive markings and verification markings: Extract from Part 1 of OIML R 61 and additional marking)
+
+regulation 6(b)
+
+### 3.10. Descriptive markings[^key-1fa479bd7299381cf8e2f35b3b6abc68]
+
+Filling instruments shall bear the following markings.
+
+### 3.10.1. Markings shown in full[^key-c9698576d3ac47c50f4a0968a59270c8]
+
+|  |  |
+| --- | --- |
+| • name or identification mark of the manufacturer |  |
+| • name or identification mark of the importer (if applicable) |  |
+| • serial number and type designation of the instrument |  |
+| • product(s) designation (i.e. materials that may be weighed) |  |
+| • temperature range (if applicable, see 2.5.1 in Schedule 2) in the form: | …°C/…°C |
+| • electrical supply voltage in the form: | …V |
+| • electrical supply frequency in the form: |  |
+| …Hz |  |
+| • working fluid pressure (if applicable) in the form: | …kPa |
+| • average number of loads per fill (if applicable) | … |
+| • maximum fill (if applicable) | … |
+| • rated minimum fill (if applicable) | … |
+| • maximum rate of operation (if applicable) in the form: | …loads per minute |
+
+### 3.10.2. Markings shown in code[^key-26276a502bee69f9c8dcf9ab510e83a5]
+
+|  |  |
+| --- | --- |
+| • pattern approval sign |  |
+| • indication of the accuracy class X(x) |  |
+| • reference value for accuracy class Ref(x) |  |
+| • scale interval (if applicable) in the form: | d=… |
+| • maximum capacity in the form: | Max=… |
+| • minimum capacity (or minimum discharge where applicable) in the form: | Min=… |
+| • maximum additive tare in the form: | T=+… |
+| • maximum subtractive tare in the form: | T=−… |
+
+An instrument may be verified for different materials for which different classes apply or which require different operating parameters to maintain limits of error. Marking shall be such that the alternative class or operating parameters are clearly associated with the appropriate material designation.
+
+- In the case of subtractive weighers the minimum load to be discharged shall be specified.
+
+### 3.10.3. Presentation of descriptive markings[^key-9d2105f96fbdc8c45392080bb796e7fd]
+
+The descriptive markings shall be indelible and of a size, shape and clarity to enable legibility under normal conditions of use of the filling instrument. They shall be grouped together in a clearly visible place on the filling instrument, either on a data plate fixed to the instrument or on the filling instrument itself.
+
+- Where the markings are placed on a data plate, it shall be possible to seal the plate bearing the markings. Where they are marked on the filling instrument itself, it shall not be possible to remove them without destroying them.
+- The descriptive markings may be shown on a programmable display which is controlled by software. In this case, means shall be provided for any access to reprogramming of the markings to be automatically and non-erasably recorded, e.g. by traceable access software. When a programmable display is used, the plate on the instrument shall bear at least the following markings:
+  - type and designation of the instrument,
+  - name or identification mark of the manufacturer,
+  - pattern approval number,
+  - electrical supply voltage,
+  - electrical supply frequency,
+  - pneumatic pressure.
+
+### 3.11. Verification marks[^key-a0a1fa2882b5f9d80b933cbab633fce0]
+
+### 3.11.1. Position[^key-93400b4dc55731bfd153a3ddadbfd9da]
+
+The filling instrument shall have a place for the application of verification marks. This place shall:
+
+- be such that the part on which it is located cannot be removed from the filling instrument without damaging the marks,
+- allow easy application of the mark without changing the metrological qualities of the filling instrument,
+- be visible without the filling instrument having to be moved when it is in service.
+
+### 3.11.2. Mounting[^key-1310d97eda68f1e8289528f3a83dd8d1]
+
+Filling instruments required to bear verification marks shall have a verification mark support, at the place provided for above, which shall ensure the conservation of the marks.
+
+When the mark is made with a stamp, this support may consist of a strip of lead or any other material with similar qualities, inserted into a plate fixed to the filling instrument or a cavity bored in the filling instrument itself.
+
+### Additional descriptive marking
+
+**Not yet in force.**
+
+Filling instruments shall bear the additional descriptive marking “ R 61” which shall be presented in accordance with the provisions of clause 3.10.3 of Part 1 of OIML R 61 and, when a programmable display is used, the plate on the instrument shall bear that marking also.
+
+## SCHEDULE 5 — (Prescribed limits of error)[^key-95fecf603ff55d925dae97b8de26f82e]
+
+regulation 9(3)
+
+### Maximum permissible deviation of each fill (Clause 2.2.2 of Part 1 of OIML R 61)[^key-95fecf603ff55d925dae97b8de26f82e]
+
+The instrument shall have a specified accuracy class X(x) for which the maximum permissible deviation of each fill from the average shall be equal to the limits specified in Table 1, multiplied by the class designation factor (x).
+
+(x) shall be 1 x 10<sup>k</sup>, 2 x 10<sup>k</sup>, 5 x 10<sup>k</sup>, k being a positive or negative whole number or zero.
+
+Table 1
+
+<table>
+<thead>
+<tr><th><em>Value of the mass of the fills M(g)</em></th><th colspan="2"><em>Maximum permissible deviation of each fill from the average for class X(1)</em></th></tr>
+<tr><th></th><th><em>Initial verification</em></th><th><em>In-service</em></th></tr>
+</thead>
+<tfoot>
+<tr><td colspan="3">For in-service testing, when the reference particle mass exceeds 0.1 of the maximum permissible in-service deviation, the values derived from Table 1 shall be increased by 1.5 times the value of the reference particle mass. However, the maximum value of the maximum permissible deviation shall not exceed (x) x 9%.<br><table><tbody><tr><td>Note:</td><td>Particle mass correction is not applicable to limits which are derived from Table 1, e.g. influence quantity tests, zero setting etc.</td></tr><tr><td>Note:</td><td>Table 1 is illustrative of the maximum permissible deviation where the class designation factor is 1.</td></tr></tbody></table></td></tr>
+</tfoot>
+<tbody>
+<tr><td>M ≤ 50</td><td>6.3%</td><td>9%</td></tr>
+<tr><td>50 &lt; M ≤ 100</td><td>3.15g</td><td>4.5g</td></tr>
+<tr><td>100 &lt; M ≤ 200</td><td>3.15%</td><td>4.5%</td></tr>
+<tr><td>200 &lt; M ≤ 300</td><td>6.3g</td><td>9g</td></tr>
+<tr><td>300 &lt; M ≤ 500</td><td>2.1%</td><td>3%</td></tr>
+<tr><td>500 &lt; M ≤ 1000</td><td>10.5g</td><td>15g</td></tr>
+<tr><td>1000 &lt; M ≤ 10000</td><td>1.05%</td><td>1.5%</td></tr>
+<tr><td>10000 &lt; M ≤ 15000</td><td>105g</td><td>150g</td></tr>
+<tr><td>15000 &lt; M</td><td>0.7%</td><td>1%</td></tr>
+</tbody>
+</table>
+
+### Maximum permissible preset value error (Clause 2.3 of Part 1 of OIML R 61)[^key-95fecf603ff55d925dae97b8de26f82e]
+
+For instruments where it is possible to preset a fill weight the maximum difference between the preset value and the average mass of the fills shall not exceed 0.25 of the maximum permissible deviation of each fill from the average, as specified for in-service verification in 2.2.2. This limit will apply for initial verification and for in-service testing.
+
+Clause 6.3 of Part 1 of OIML R 61
+
+(Number of fills required to find the average value)
+
+The number of individual test fills, required to find the average value, depends upon the preset value (m) as specified in Table 2.
+
+Table 2
+
+|  |  |
+| --- | --- |
+| m ≤ 10 kg | 60 fills |
+| 10 kg \< m ≤ 25 kg | 32 fills |
+| 25 kg \< m ≤ 100 kg | 20 fills |
+| 100 kg \< m | 10 fills |
+
+(This note is not part of the Regulations)
+
+These Regulations implement, in Great Britain, International Recommendation OIML R 61 of the Organisation Internationale de Métrologie Légale relating to automatic gravimetric filling instruments (Edition 1996 (E)), to the extent that the Recommendation applies to such instruments following the grant or renewal of a certificate of approval of a pattern by the Secretary of State under section 12 of the Weights and Measures Act 1985 (the 1985 Act).
+
+**2.** Regulation 3 applies the Regulations to “filling instruments”, as defined in regulation 2(1)(a), which are prescribed for the purposes of section 11(1) of the 1985 Act (certain equipment to be passed and stamped for use for trade). The Regulations do not apply in the circumstances described in regulations 3(2) and (3). There is a transitional exclusion set out in regulation 4(1) but this is subject to the case of a “filling instrument” which bears the marking “R 61”.
+
+**3.** Regulation 5 sets out some general duties relating to the use for trade of a “filling instrument” in terms of erection and installation (Schedule 1), use and manner of use (Schedule 2) and compliance with the accuracy classes specified in Schedule 3. Regulation 6 provides for certain requirements which must be satisfied before a “filling instrument” is passed as fit for use for trade for the purposes of the Regulations: these relate to compliance with a pattern in respect of which a “certificate of approval” remains in force, the application of descriptive markings in accordance with Schedule 4 and provisions in respect of initial verification testing carried out by an inspector in accordance with the procedure specified in clause 5.3 of Part 1 of OIML R 61. Regulation 7 incorporates some supplementary requirements relating to the testing, passing as fit for use for trade and stamping of any “filling instrument”. Regulation 8 makes provision for “filling instruments” imported from another EEA State into Great Britain not to be tested by an inspector when an inspector is presented with the “requisite documentation” (as defined in that regulation), unless he is not satisfied with that “requisite documentation”.
+
+**4.** Regulation 9 specifies circumstances where an inspector shall not pass a “filling instrument” as fit for use for trade, including a failure to comply with the prescribed limits of error in accordance with the provisions of regulation 9(3) and Schedule 5. Provision is also made, in regulation 9(2), for circumstances in which a “filling instrument” imported from another EEA State shall not be passed as fit for use for trade.
+
+**5.** Regulations 10 to 15 relate to the stamping and obliteration of stamps on “filling instruments”.
+
+**6.** Some supplementary definitions appear in regulation 2(2).
+
+**7.** These Regulations have been notified to the European Commission and the other member States in accordance with Directive [98/34/EC](https://www.legislation.gov.uk/european/directive/1998/0034) of the European Parliament and of the Council (OJ No. L204, 21.7.98, p. 37), as amended by Directive [98/48/EC](https://www.legislation.gov.uk/european/directive/1998/0048) of the European Parliament and of the Council (OJ No. L217, 5.8.98, p. 18).
+
+**8.** Copies of the publications of the Organisation Internationale de Métrologie Légale (see definition of “OIML R 61” in regulation 2(2)) are available from the Organisation at 11 rue Turgot, Paris, 75009, France, and from the National Weights and Measures Laboratory, Stanton Avenue, Teddington, Middlesex, TW11 0JZ.
+
+**9.** A Regulatory Impact Assessment in respect of these Regulations is available and a copy can be obtained from the National Weights and Measures Laboratory (an Executive Agency of the Department of Trade and Industry), Stanton Avenue, Teddington, Middlesex, TW11 0JZ. A copy has also been placed in the libraries of both Houses of Parliament.
+
+## Annotations
+
+[^f00001]: Footnote: [1985 c. 72](https://www.legislation.gov.uk/ukpga/1985/72); a relevant amending instrument is S.I. [1999/503](https://www.legislation.gov.uk/uksi/1999/503).
+
+[^key-bee153772b39a2baadc794b5cf50798d]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2000/388/regulation/1) in force at 17.7.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2000/388/regulation/1/1)
+
+[^f00002]: Footnote: S.I. [1986/1320](https://www.legislation.gov.uk/uksi/1986/1320), amended by S.I. [1994/1851](https://www.legislation.gov.uk/uksi/1994/1851), [1996/797](https://www.legislation.gov.uk/uksi/1996/797), [2000/387](https://www.legislation.gov.uk/uksi/2000/387).
+
+[^f00003]: Footnote: S.I. [1963/1710](https://www.legislation.gov.uk/uksi/1963/1710); regulation 1(2)(i) was inserted by S.I. [1986/1320](https://www.legislation.gov.uk/uksi/1986/1320).
+
+[^f00004]: Footnote: S.I. [2000/388](https://www.legislation.gov.uk/uksi/2000/388).
+
+[^key-7d0a2ff0611412150e30494d2d94a8df]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2000/388/regulation/2) in force at 17.7.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2000/388/regulation/1/1)
+
+[^f00005]: Footnote: See S.I. [1968/1615](https://www.legislation.gov.uk/uksi/1968/1615), amended by S.I. [1999/504](https://www.legislation.gov.uk/uksi/1999/504).
+
+[^key-84dc93a4e147f604b013209fcd90d452]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2000/388/regulation/3) in force at 17.7.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2000/388/regulation/1/1)
+
+[^key-d0687d42b93436ee1dde1aaa891808cd]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2000/388/regulation/4) in force at 17.7.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2000/388/regulation/1/1)
+
+[^f00006]: Footnote: S.I. [1986/1320](https://www.legislation.gov.uk/uksi/1986/1320), amended by S.I. [1994/1851](https://www.legislation.gov.uk/uksi/1994/1851), [1996/797](https://www.legislation.gov.uk/uksi/1996/797), [2000/387](https://www.legislation.gov.uk/uksi/2000/387).
+
+[^key-85af9019d8e595dcd4c1ab96e015cbfb]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2000/388/regulation/5) in force at 17.7.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2000/388/regulation/1/1)
+
+[^key-3d158de7be507adf2ca6adf8308ce373]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2000/388/regulation/6) in force at 17.7.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2000/388/regulation/1/1)
+
+[^key-3398e6331ba303fb4bc5a24bc72f2faf]: Textual amendment: [Reg. 6A](https://www.legislation.gov.uk/uksi/2000/388/regulation/6A) inserted (8.2.2001) by [The Weights and Measures (Metrication Amendments) Regulations 2001 (S.I. 2001/85)](https://www.legislation.gov.uk/uksi/2001/85), [regs. 1](https://www.legislation.gov.uk/uksi/2001/85/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2001/85/regulation/3/2)
+
+[^key-84183207855a13f7d534af8e6fbd452c]: Textual amendment: Words in [reg. 6A](https://www.legislation.gov.uk/uksi/2000/388/regulation/6A) omitted (1.1.2010) by virtue of [The Weights and Measures (Metrication Amendments) Regulations 2009 (S.I. 2009/3045)](https://www.legislation.gov.uk/uksi/2009/3045), [regs. 1](https://www.legislation.gov.uk/uksi/2009/3045/regulation/1), [3(2)(h)](https://www.legislation.gov.uk/uksi/2009/3045/regulation/3/2/h)
+
+[^key-fa26686a2618c6330407aebdf578cdb3]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2000/388/regulation/7) in force at 17.7.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2000/388/regulation/1/1)
+
+[^key-1f361ba140ddd4e451c9e726bdc5e4cb]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2000/388/regulation/8) in force at 17.7.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2000/388/regulation/1/1)
+
+[^key-4c106893c7b14301fbac7ec1c0f4a507]: Textual amendment: Words in [reg. 8](https://www.legislation.gov.uk/uksi/2000/388/regulation/8) heading substituted (31.12.2020) by [The Weighing and Measuring Equipment and Meters (Amendment of Secondary Legislation) (EU Exit) Regulations 2018 (S.I. 2018/1387)](https://www.legislation.gov.uk/uksi/2018/1387), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1387/regulation/1/2), [Sch. para. 10(2)(a)](https://www.legislation.gov.uk/uksi/2018/1387/schedule/paragraph/10/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-1e2d61a1635352c8ee95cd0d01444a5e]: Textual amendment: Words in [reg. 8(1)](https://www.legislation.gov.uk/uksi/2000/388/regulation/8/1) substituted (31.12.2020) by [The Weighing and Measuring Equipment and Meters (Amendment of Secondary Legislation) (EU Exit) Regulations 2018 (S.I. 2018/1387)](https://www.legislation.gov.uk/uksi/2018/1387), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1387/regulation/1/2), [Sch. para. 10(2)(b)](https://www.legislation.gov.uk/uksi/2018/1387/schedule/paragraph/10/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-406e4c4bb8fef63f6646b8358cb01b07]: Textual amendment: Words in [reg. 8(2)(b)](https://www.legislation.gov.uk/uksi/2000/388/regulation/8/2/b) omitted (31.12.2020) by virtue of [The Weighing and Measuring Equipment and Meters (Amendment of Secondary Legislation) (EU Exit) Regulations 2018 (S.I. 2018/1387)](https://www.legislation.gov.uk/uksi/2018/1387), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1387/regulation/1/2), [Sch. para. 10(2)(c)](https://www.legislation.gov.uk/uksi/2018/1387/schedule/paragraph/10/2/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-b4b4cbaec11909fdfb25ce14814752ef]: Textual amendment: [Reg. 8(3)](https://www.legislation.gov.uk/uksi/2000/388/regulation/8/3) substituted (28.2.2003) by [The Weights and Measures (Standards Amendment) Regulations 2003 (S.I. 2003/214)](https://www.legislation.gov.uk/uksi/2003/214), [reg. 1](https://www.legislation.gov.uk/uksi/2003/214/regulation/1), [Sch. para. 8](https://www.legislation.gov.uk/uksi/2003/214/schedule/paragraph/8)
+
+[^key-7cf941af538bc776d52922329516ce6d]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2000/388/regulation/9) in force at 17.7.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2000/388/regulation/1/1)
+
+[^key-67ba7fef7365b13d0b9e754c9e8081a4]: Textual amendment: Words in [reg. 9(2)](https://www.legislation.gov.uk/uksi/2000/388/regulation/9/2) substituted (31.12.2020) by [The Weighing and Measuring Equipment and Meters (Amendment of Secondary Legislation) (EU Exit) Regulations 2018 (S.I. 2018/1387)](https://www.legislation.gov.uk/uksi/2018/1387), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1387/regulation/1/2), [Sch. para. 10(3)](https://www.legislation.gov.uk/uksi/2018/1387/schedule/paragraph/10/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-7f8d6383c47b208f3d646e2dca7372f7]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2000/388/regulation/10) in force at 17.7.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2000/388/regulation/1/1)
+
+[^key-3625bc5bfe6a22d9e71ff9cb1c9d4173]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2000/388/regulation/11) in force at 17.7.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2000/388/regulation/1/1)
+
+[^key-cb953043e50b7e4bcdfde68f624f0dd2]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2000/388/regulation/12) in force at 17.7.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2000/388/regulation/1/1)
+
+[^key-6d09616f8d5d82886d50749b7322984d]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2000/388/regulation/13) in force at 17.7.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2000/388/regulation/1/1)
+
+[^key-e8b24dcb9f203ec6e98d008d69228184]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2000/388/regulation/14) in force at 17.7.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2000/388/regulation/1/1)
+
+[^key-4c5a4ed842bca771745bf5d5c950e9a1]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2000/388/regulation/15) in force at 17.7.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2000/388/regulation/1/1)
+
+[^key-7a43fb0faf8c8795dd26b8a2c3910c0b]: Commencement: [Sch. 1](https://www.legislation.gov.uk/uksi/2000/388/schedule/1) in force at 17.7.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2000/388/regulation/1/1)
+
+[^key-b3715b637be69ffc154247d529f841b7]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/2000/388/schedule/2) in force at 17.7.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2000/388/regulation/1/1)
+
+[^key-d3be6237521f8acb330d8752f14ab6d5]: Commencement: [Sch. 3](https://www.legislation.gov.uk/uksi/2000/388/schedule/3) in force at 17.7.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2000/388/regulation/1/1)
+
+[^f00008]: Footnote: [1990 c. 43](https://www.legislation.gov.uk/ukpga/1990/43).
+
+[^key-55f5d61f3253c8fb6e5bac5c79b9133d]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/uksi/2000/388/schedule/3) substituted (S.) (1.9.2018) by [The Environmental Authorisations (Scotland) Regulations 2018 (S.S.I. 2018/219)](https://www.legislation.gov.uk/ssi/2018/219), [reg. 1](https://www.legislation.gov.uk/ssi/2018/219/regulation/1), [sch. 6 para. 8](https://www.legislation.gov.uk/ssi/2018/219/schedule/6/paragraph/8) (with [reg. 78](https://www.legislation.gov.uk/ssi/2018/219/regulation/78), [sch. 5 para. 2](https://www.legislation.gov.uk/ssi/2018/219/schedule/5/paragraph/2))
+
+[^key-7158b78db0aa757a4fde432337354fcb]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/uksi/2000/388/schedule/3) substituted (E.W.) (6.4.2010 immediately after S.I. 2009/3381 comes into force) by [The Environmental Permitting (England and Wales) Regulations 2010 (S.I. 2010/675)](https://www.legislation.gov.uk/uksi/2010/675), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/675/regulation/1/1), [Sch. 26 Pt. 2 para. 16](https://www.legislation.gov.uk/uksi/2010/675/schedule/26/part/2/paragraph/16) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/675/regulation/1/2))
+
+[^key-a99c06ddc07bd515f33db2058b884501]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/uksi/2000/388/schedule/3) substituted (E.W.) (1.1.2017) by [The Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154)](https://www.legislation.gov.uk/uksi/2016/1154), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/1), [Sch. 29 Pt. 2 para. 8](https://www.legislation.gov.uk/uksi/2016/1154/schedule/29/part/2/paragraph/8) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/3), [77-79](https://www.legislation.gov.uk/uksi/2016/1154/regulation/77), [Sch. 4](https://www.legislation.gov.uk/uksi/2016/1154/schedule/4))
+
+[^key-1fa479bd7299381cf8e2f35b3b6abc68]: Commencement: [Sch. 4 para. 3.10](https://www.legislation.gov.uk/uksi/2000/388/schedule/4/paragraph/3.10) in force at 17.7.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2000/388/regulation/1/1)
+
+[^key-c9698576d3ac47c50f4a0968a59270c8]: Commencement: [Sch. 4 para. 3.10.1](https://www.legislation.gov.uk/uksi/2000/388/schedule/4/paragraph/3.10.1) in force at 17.7.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2000/388/regulation/1/1)
+
+[^key-26276a502bee69f9c8dcf9ab510e83a5]: Commencement: [Sch. 4 para. 3.10.2](https://www.legislation.gov.uk/uksi/2000/388/schedule/4/paragraph/3.10.2) in force at 17.7.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2000/388/regulation/1/1)
+
+[^key-9d2105f96fbdc8c45392080bb796e7fd]: Commencement: [Sch. 4 para. 3.10.3](https://www.legislation.gov.uk/uksi/2000/388/schedule/4/paragraph/3.10.3) in force at 17.7.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2000/388/regulation/1/1)
+
+[^key-a0a1fa2882b5f9d80b933cbab633fce0]: Commencement: [Sch. 4 para. 3.11](https://www.legislation.gov.uk/uksi/2000/388/schedule/4/paragraph/3.11) in force at 17.7.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2000/388/regulation/1/1)
+
+[^key-93400b4dc55731bfd153a3ddadbfd9da]: Commencement: [Sch. 4 para. 3.11.1](https://www.legislation.gov.uk/uksi/2000/388/schedule/4/paragraph/3.11.1) in force at 17.7.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2000/388/regulation/1/1)
+
+[^key-1310d97eda68f1e8289528f3a83dd8d1]: Commencement: [Sch. 4 para. 3.11.2](https://www.legislation.gov.uk/uksi/2000/388/schedule/4/paragraph/3.11.2) in force at 17.7.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2000/388/regulation/1/1)
+
+[^key-95fecf603ff55d925dae97b8de26f82e]: Commencement: [Sch. 5](https://www.legislation.gov.uk/uksi/2000/388/schedule/5) in force at 17.7.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2000/388/regulation/1/1)

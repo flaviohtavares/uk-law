@@ -1,0 +1,191 @@
+---
+title: The Caledonian MacBrayne Limited (Rateable Values) (Scotland) Order 1992
+id: uksi/1992/1782
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '1992-07-16'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1992/1782
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1992/1782/made/data.pdf
+pending_changes: 1
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Caledonian MacBrayne Limited (Rateable Values) (Scotland) Order 1992
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+1992 No. 1782 (S.170)
+
+RATING AND VALUATION
+
+The Caledonian MacBrayne Limited (Rateable Values) (Scotland) Order 1992
+
+Made
+
+16th July 1992
+
+Coming into force
+
+17th July 1992
+
+The Secretary of State, in exercise of the powers conferred on him by sections 6, 35 and 37(1) of the Local Government (Scotland) Act 1975([^f00001]) and of all other powers enabling him in that behalf, and after consultation with such associations of local authorities, and of persons carrying on undertakings, as appeared to him to be concerned, and with such local authorities, persons, or associations of persons with whom consultation appeared to him to be desirable, all in accordance with section 6(4) of the said Act, hereby makes the following Order, a draft of which has been laid before and has been approved by resolution of each House of Parliament:
+
+## 1. Citation, commencement and date of effect
+
+(1) This Order may be cited as the Caledonian MacBrayne Limited (Rateable Values) (Scotland) Order 1992 and shall come into force on the day after the day on which it is made.
+
+(2) This Order shall have effect as from 1st April 1992([^f00002]).
+
+## 2. Interpretation
+
+(1) In this Order, unless the context otherwise requires—
+
+- “the 1975 Act ” means the Local Government (Scotland) Act 1975;
+- “associated body ” means an associated body of the Company and shall be construed in accordance with paragraph (3) below;
+- “the Company ” means the Company registered at the date of this Order by the name of Caledonian MacBrayne Limited;
+- “financial year ” means the period of twelve months beginning with 1st April;
+- “non-domestic water rate ” shall be construed in accordance with the provisions of section 40 of the Water (Scotland) Act 1980([^f00003]);
+- “operational land ”, in relation to the Company, means land which is used for the purposes of carrying on the Company’s undertaking, not being land which, in respect of its nature and situation, is comparable rather with land in general than with land which is used for the purposes of carrying on of statutory undertakings (within the meaning of the Town and Country Planning (Scotland) Act 1972([^f00004]);
+- “prescribed class of lands and heritages ” means the class of lands and heritages prescribed for the purposes of section 6(1) of the 1975 Act in article 3 of this Order; and
+- “the undertaking ” means the dock or harbour undertaking carried on, under authority conferred by or under any enactment, by the Company.
+
+(2) Any reference in this Order to—
+
+- (a) lands and heritages occupied by the Company includes a reference to lands and heritages which, if unoccupied, are owned by the Company; and
+- (b) land and heritages used for any purpose includes a reference to lands and heritages which are unused but in relation to which it appears that, when next in use, they will be used for such a purpose.
+
+(3) For the purposes of this Order a body shall be treated as an associated body of the Company if—
+
+- (a) it is a body corporate in relation to which the Company directly or indirectly own or control not less than 51 per cent of its issued share capital; or
+- (b) it is a body corporate in relation to which the Company and any body or bodies falling within the terms of sub-paragraph (a) above directly or indirectly own or control not less than 51 per cent of its issued share capital.
+
+## 3. Prescribed class of lands and heritages
+
+(1) The following class of lands and heritages is hereby prescribed for the purposes of section 6(1) of the 1975 Act, namely any lands and heritages in Scotland (other than the lands and heritages mentioned in paragraph (2) below) occupied by the Company for the purposes of the undertaking.
+
+(2) The lands and heritages mentioned in this paragraph are lands and heritages consisting of or comprising—
+
+- (a) a dock or harbour used by the Company exclusively or mainly for the purpose of bringing or receiving goods of any one or more of the following descriptions:—
+  - (i) goods which have been manufactured or produced by the Company;
+  - (ii) goods which are to be used by the Company for the manufacture or production of goods or electricity;
+  - (iii) goods which are to be sold by the Company;
+  - (iv) goods which have been manufactured or produced by an associated body, and are to be sold by that body; or
+- (b) premises occupied by the Company which are not situated on operational land of the Company.
+
+## 4. Non-domestic water rate
+
+The non-domestic water rate shall not be leviable in respect of the prescribed class of lands and heritages in respect of the financial year 1992-93.
+
+## 5. Aggregate amount of rateable values for financial year 1992-93
+
+For the purposes of section 6(1) of the 1975 Act, the aggregate amount of the rateable values of the prescribed class of lands and heritages for the financial year 1992-93 is hereby prescribed as £70,030.
+
+## 6. Apportionment of aggregate amount of rateable values
+
+For the purposes of section 6(2) of the 1975 Act, the aggregate amount of the rateable values of the prescribed class of lands and heritages for the financial year 1992-93 which is prescribed by article 5 shall be apportioned among the local authorities specified in column 1 of the Schedule to this Order in the amount shown opposite to the name of each such local authority in column 2 of that Schedule.
+
+## 7. Amendment of enactments
+
+For the purposes of section 6(5) of the 1975 Act, the following amendments shall be made to the enactments specified in articles 8 and 9 below in their relation to the valuation of the prescribed class of lands and heritages for the financial year 1992-93.
+
+**8.** In section 6(1) of the Valuation and Rating (Scotland) Act 1956([^f00005]), after the words “this Act ”, there shall be inserted the words “and to any Order made by the Secretary of State under section 6 of the Local Government (Scotland) Act 1975”.
+
+**9.** (1) Section 2(1)(c) of the 1975 Act shall be amended by in serting at the end the following:—
+
+> - (iii) upon their ceasing to be lands and heritages within the class of lands and heritages prescribed in the Caledonian MacBrayne Limited (Rateable Values) (Scotland) Order 1992 (hereinafter in this Act referred to as “the 1992 Order”);
+
+.
+
+(2) Section 2(1)(d) of that Act shall be amended by inserting after the words “lands and heritages ” the following words:—
+
+> (other than lands and heritages within the class of lands and heritages prescribed in the 1992 Order)
+
+.
+
+(3) After paragraph (g) of section 2(1) of that Act, there shall be inserted the following paragraphs:—
+
+> - (gg) by deleting therefrom, with effect from 1st April 1992, any lands and heritages within the class of lands and heritages prescribed in the 1992 Order which were entered in the roll before the date of coming into force of that Order;
+> - (ggg) by entering therein, with effect from 1st April 1992, any lands and heritages within the class of lands and heritages prescribed in the 1992 Order together with the rateable values apportioned by that Order to the local authorities whose areas comprise or form part of the valuation area;
+
+.
+
+(4) In section 3(2) of that Act, for the words from “and any such person ” to the end, there shall be substituted the following:—
+
+> and, where the entry relates to any lands and heritages within the class of lands and heritages prescribed in the 1992 Order, any such person may at any time while the roll is in force appeal against the entry but only on the ground that there is a clerical error in that entry.
+
+.
+
+(5) In section 3(4) of that Act, after the words “lands and heritages ” where they appear for the first time, there shall be inserted the following:—
+
+> (other than lands and heritages within the class of lands and heritages prescribed in the 1992 Order)
+
+.
+
+## 10. Revocations
+
+The Caledonian MacBrayne Limited (Rateable Values) (Scotland) Order 1990([^f00006]) and the Caledonian MacBrayne Limited (Rateable Values) (Scotland) Order 1991([^f00007]) are hereby revoked.
+
+Allan Stewart
+
+Parliamentary Under Secretary of State, Scottish Office
+
+St Andrew’s House,
+
+Edinburgh
+
+16th July 1992
+
+## SCHEDULE
+
+Article 6
+
+**Apportionment of aggregate amount of rateable values of prescribed class of lands and heritages for financial year 1992-93.**
+
+<table>
+<thead>
+<tr><th><em>(1)</em></th><th><em>(2)</em></th></tr>
+<tr><th><em>Local authority</em></th><th><em>Apportioned amount</em></th></tr>
+</thead>
+<tbody>
+<tr><td><em>District Councils:—</em></td></tr>
+<tr><td>Argyll and Bute</td><td>£16,816</td></tr>
+<tr><td>Cunninghame</td><td>22,597</td></tr>
+<tr><td>Inverclyde</td><td>25,235</td></tr>
+<tr><td><em>Islands Council:—</em></td><td></td></tr>
+<tr><td>Western Isles</td><td>5,382</td></tr>
+</tbody>
+</table>
+
+(This note is not part of the Order)
+
+This Order makes provision for the valuation for the financial year 1992-93 of certain lands and heritages occupied by Caledonian MacBrayne Limited (article 3) ( “the prescribed class of lands and heritages ”).
+
+The Order prescribes the aggregate amount of the rateable values of the prescribed class of lands and heritages for that financial year at £70,030 (article 5). It also apportions that aggregate amount among local authorities in accordance with the Schedule to the Order (article 6).
+
+The Order provides that the non-domestic water rate shall not be leviable in respect of the prescribed class of lands and heritages for that financial year (article 4).
+
+The Order amends certain enactments relating to the valuation of the prescribed class of lands and heritages and revokes Orders for financial years 1990-91 and 1991-92 concerning Caledonian MacBrayne Limited (articles 7 to 10).
+
+In pursuance of the power in section 6(6) of the Local Government (Scotland) Act 1975, as amended, the Order has effect from 1st April 1992.
+
+## Annotations
+
+[^f00001]: Footnote: [1975 c. 30](https://www.legislation.gov.uk/ukpga/1975/30); section 6(1) to (7) was substituted by the Local Government (Scotland) Act [1978 (c. 4)](https://www.legislation.gov.uk/ukpga/1978/4), section 1, and section 6(1) subsequently amended by the Local Government Finance Act [1988 (c. 41)](https://www.legislation.gov.uk/ukpga/1988/41), Schedule 12, paragraph 11 and by the Local Government Finance Act [1992 (c. 14)](https://www.legislation.gov.uk/ukpga/1992/14), Schedule 13, paragraph 42; section 6(1A) was inserted by the Local Government and Housing Act [1989 (c. 42)](https://www.legislation.gov.uk/ukpga/1989/42), Schedule 6, paragraph 18; section 37(1) contains a definition of “prescribed ” which is relevant to the exercise of the powers under which this Order is made.
+
+[^f00002]: Footnote: Section 6(6) of the Local Government (Scotland) Act 1975 confers a power to backdate the effect of an order under section 6.
+
+[^f00003]: Footnote: [1980 c. 45](https://www.legislation.gov.uk/ukpga/1980/45); section 40 was substituted by the Abolition of Domestic Rates Etc. (Scotland) Act [1987 (c. 47)](https://www.legislation.gov.uk/ukpga/1987/47), Schedule 5, paragraph 29, and amended by the Local Government and Housing Act 1989, Schedule 6, paragraph 16 and Schedule 12, Part II.
+
+[^f00004]: Footnote: [1972 c. 52](https://www.legislation.gov.uk/ukpga/1972/52).
+
+[^f00005]: Footnote: [1956 c. 60](https://www.legislation.gov.uk/ukpga/1956/60); section 6(1) was amended by the Abolition of Domestic Rates Etc. (Scotland) Act [1987 (c. 47)](https://www.legislation.gov.uk/ukpga/1987/47), Schedule 6 and the Local Government and Housing Act [1989 (c. 42)](https://www.legislation.gov.uk/ukpga/1989/42), Schedule 6, paragraph 3.
+
+[^f00006]: Footnote: S.I. [1990/819](https://www.legislation.gov.uk/uksi/1990/819).
+
+[^f00007]: Footnote: S.I. [1991/1812](https://www.legislation.gov.uk/uksi/1991/1812).

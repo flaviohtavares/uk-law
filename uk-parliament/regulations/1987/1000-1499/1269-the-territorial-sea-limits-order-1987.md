@@ -1,0 +1,79 @@
+---
+title: The Territorial Sea (Limits) Order 1987
+id: uksi/1987/1269
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '1987-07-21'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1987/1269
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1987/1269/pdfs/uksi_19871269_en.pdf
+- http://www.legislation.gov.uk/uksi/1987/1269/made/data.pdf
+pending_changes: 1
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Territorial Sea (Limits) Order 1987
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+1987 No. 1269
+
+TERRITORIAL SEA
+
+The Territorial Sea (Limits) Order 1987
+
+Made
+
+21st July 1987
+
+Coming into force
+
+1st October 1987
+
+At the Court at Buckingham Palace, the 21st day of July 1987
+
+Present,
+
+The Queen’s Most Excellent Majesty in Council
+
+Her Majesty, in exercise of the powers conferred upon Her by section 1(2) of the Territorial Sea Act 1987[^f00001], is pleased, by and with the advice of Her Privy Council, to order, and it is hereby ordered, as follows:
+
+**1.** This Order may be cited as the Territorial Sea (Limits) Order 1987 and shall come into force on 1st October 1987.
+
+**2.** The seaward limit of the territorial sea adjacent to the United Kingdom between Point 1 and Point 6 indicated in the Schedule to this Order shall consist of a series of straight lines joining, in the sequence given, Points 1 to 6 indicated in the Schedule to this Order.
+
+**3.** The seaward limit of the territorial sea adjacent to the United Kingdom shall be the median line where the baselines from which the breadth of the territorial sea adjacent to the United Kingdom is measured are less than 24 nautical miles from the baselines from which the breadth of the territorial sea adjacent to the Isle of Man is measured.
+
+**4.** In this Order:—
+
+- (a) “straight line” means a loxodromic line;
+- (b) all positions given by means of co-ordinates are defined on European Datum (1st Adjustment 1950);
+- (c) “median line” is a line every point of which is equidistant from the nearest points of the baselines from which the breadth of the territorial sea adjacent to the United Kingdom and the Isle of Man respectively is measured.
+
+G. I. de Deney
+
+Clerk of the Privy Council
+
+## SCHEDULE — LIST OF POINTS
+
+| *Point* | *Position of Point* |
+| --- | --- |
+| 1 | 50°49'23"N 1°15'51"E |
+| 2 | 50°53'47"N 1°16'58"E |
+| 3 | 50°57'00"N 1°21'25"E |
+| 4 | 51°02'19"N 1°32'53"E |
+| 5 | 51°05'58"N 1°43'31"E |
+| 6 | 51°12'04"N 1°53'21"E |
+
+(This note is not part of the Order)
+
+This Order establishes the seaward limit of the territorial sea adjacent to the United Kingdom in the narrow part of the Straits of Dover and in the vicinity of the Isle of Man. The limit in the Straits of Dover is constituted by straight lines joining the points indicated in the Schedule and follows the line already agreed for the continental shelf by the Agreement of 24th June 1982 with the Government of France (T.S. No. 20 (1983) Cmnd. 8859) where that line is within twelve miles of the baselines of the United Kingdom. The limit in the vicinity of the Isle of Man is the median line.
+
+## Annotations
+
+[^f00001]: Footnote: [1987 c. 49](https://www.legislation.gov.uk/ukpga/1987/49).

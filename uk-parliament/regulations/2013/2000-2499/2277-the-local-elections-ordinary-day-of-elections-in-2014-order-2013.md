@@ -1,0 +1,123 @@
+---
+title: The Local Elections (Ordinary Day of Elections in 2014) Order 2013
+id: uksi/2013/2277
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2013-09-06'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2013/2277
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2013/2277/pdfs/uksiem_20132277_en.pdf
+- http://www.legislation.gov.uk/uksi/2013/2277/pdfs/uksi_20132277_en.pdf
+- http://www.legislation.gov.uk/uksi/2013/2277/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Local Elections (Ordinary Day of Elections in 2014) Order 2013
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2013 No. 2277
+
+Local Government, England
+
+The Local Elections (Ordinary Day of Elections in 2014) Order 2013
+
+Made
+
+*6th September 2013*
+
+Coming into force in accordance with article 1(1)
+
+The Secretary of State makes this Order in exercise of the powers conferred by section 37A of the Representation of the People Act 1983[^f00001].
+
+Before making this Order, the Secretary of State consulted the following about the proposal—
+
+- (a) the Electoral Commission, and
+- (b) such other persons as he considered appropriate.
+
+In accordance with section 37A(10) of the Representation of the People Act 1983, a draft of this Order was laid before, and approved by, both Houses of Parliament.
+
+## 1. Citation, commencement and interpretation
+
+(1) This Order may be cited as the Local Elections (Ordinary Day of Elections in 2014) Order 2013, and comes into force on the day after that on which it is made.
+
+(2) In this Order “the 1972 Act” means the Local Government Act 1972[^f00002].
+
+## 2. Change of ordinary day of election
+
+In 2014, the ordinary day of election of councillors in England for—
+
+- (a) counties, districts and London Boroughs; and
+- (b) parishes,
+
+shall be changed so as to be the same as the date of the poll at the European Parliamentary general election held in that year.
+
+## 3. Retirement of councillors retiring or coming into office in 2014
+
+(1) The retirement date of a councillor who would regularly retire on the fourth day after the ordinary day of election in 2014 shall be determined in accordance with article 2, even if, as a result of the change in the ordinary day of election, his or her term of office will be longer than the period specified in any enactment.
+
+(2) The retirement date of a councillor who comes into office on the fourth day after the ordinary day of election in 2014 shall be unaffected by article 2, even if, as a result of the change in the ordinary day of election, his or her term of office will be shorter than the term specified in any enactment.
+
+## 4. Elections to fill casual vacancies
+
+In relation to a casual vacancy in the office of a councillor of a county council in England, London borough, district or parish council who would regularly have retired on the fourth day after the ordinary day of election in 2014—
+
+- (a) section 89(3) of the 1972 Act has effect as if for the words “six months before the day on which the councillor whose office is vacant would regularly have retired” there were substituted the words “the period of six months immediately before the date of the poll at the European Parliamentary general election held in 2014”; and
+- (b) paragraphs (3) and (6) of rule 5 of the Local Elections (Parishes and Communities) (England and Wales) Rules 2006[^f00003] have effect as if for the words “six months before the day on which that councillor would regularly have retired” there were substituted the words “the period of six months immediately before the date of the poll at the European Parliamentary election held in 2014”.
+
+## 5. Annual meetings
+
+In relation to the annual meetings of authorities in England in 2014, the provisions of Schedule 12 to the 1972 Act have effect as if—
+
+- (a) in paragraph 6A(1)[^f00004] (date of annual meeting of joint authorities), for the words “1st March and 30th June” there were substituted the words “the fourth day after the date of the poll at the European Parliamentary general election and 31st August”;
+- (b) in paragraph 14(1) (date of annual meeting of parish), in the case of a parish council for which 2014 is a year of ordinary elections, for the words “1st March and 1st June” there were substituted the words “the fourth day after the date of the poll at the European Parliamentary general election and 31st July”.
+
+## 6. London Fire and Emergency Planning Authority
+
+In its application in 2014, Schedule 28 to the Greater London Authority Act 1999[^f00005] has effect as if in paragraph 10(1) (meetings and proceedings), for the words “1st March and 30th June” there were substituted the words “the fourth day after the date of the poll at the European Parliamentary general election and 31st August”.
+
+Signed by authority of the Secretary of State for Communities and Local Government
+
+Brandon Lewis
+
+Parliamentary Under Secretary of State
+
+Department for Communities and Local Government
+
+6th September 2013
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order changes the date of local elections in England in 2014, so that it is the same as the date of the European Parliamentary elections in that year, and deals with a number of incidental, supplementary and consequential matters.
+
+The ordinary day for local elections in England is usually the first Thursday in May in each year by virtue of section 37(1)(a) of the Representation of the People Act 1983 (“the Act”). However, that provision is subject to any order, such as this one, made under section 37A of the Act. Article 2 provides that the ordinary day of elections shall be changed to be the same as the date of the poll for the European Parliamentary elections. By virtue of section 15 of the Representation of the People Act [1985 (c.50)](https://www.legislation.gov.uk/ukpga/1985/50), where the polls at an ordinary local government election and a European Parliamentary election are held on the same day they shall be taken together.
+
+Article 3 provides that the retirement date of any councillors due to retire in 2014 shall be determined in accordance with the ordinary day as moved under article 2, while that of any councillors coming into office in 2014 shall be unaffected by the change of ordinary day. The term of office of a councillor due to retire in 2014 will consequently be longer, and that of a councillor coming into office in 2014 will be shorter, than would otherwise be the case.
+
+Article 4 extends, in relation to local elections in England, the period during which it is not necessary to hold a by-election prior to the ordinary day of elections, so that in relation to elections in 2014, this period will last for the six months immediately before the date of the poll at the European Parliamentary general election held in 2014.
+
+Article 5 extends the date by which joint authorities in England must hold their annual meetings until 31st August, so that they can be held after any elections which may affect their composition. It also extends the date by which annual parish meetings in parishes which are having ordinary elections to the parish council in 2014 must take place to 31st July, so that they can be held after any such elections.
+
+Article 6 extends the date by which the London Fire and Emergency Planning Authority must hold their annual meetings until 31st August, so that it can be held after any election which may affect its composition.
+
+A full impact assessment has not been produced for this instrument as no impact on the private or voluntary sectors is foreseen and the impact on the public sector is minimal.
+
+## Annotations
+
+[^f00001]: Footnote: [1983 c.2](https://www.legislation.gov.uk/ukpga/1983/2). Section 37A was inserted by section 60(2) of the Local Government and Public Involvement in Health Act 2007 ( c.28).
+
+[^f00002]: Footnote: [1972 c.70](https://www.legislation.gov.uk/ukpga/1972/70).
+
+[^f00003]: Footnote: [S.I. 2006/3305](https://www.legislation.gov.uk/uksi/2006/3305).
+
+[^f00004]: Footnote: Paragraph 6A of Schedule 12 to the Local Government Act 1972 was inserted by paragraph 35(2) of Schedule 14 to the Local Government Act [1985 (c.51)](https://www.legislation.gov.uk/ukpga/1985/51), and substituted by section 10(3) of the Local Government Act [1986 (c.10)](https://www.legislation.gov.uk/ukpga/1986/10). It has been amended by paragraph 15(2) of Schedule 4 to the Police and Magistrates’ Courts Act [1994 (c.29)](https://www.legislation.gov.uk/ukpga/1994/29), paragraph 1(2)(h) of Schedule 7 to the Police Act [1996 (c.16)](https://www.legislation.gov.uk/ukpga/1996/16), and paragraph 36(2) of Schedule 27 to the Greater London Authority Act [1999 (c.29)](https://www.legislation.gov.uk/ukpga/1999/29).
+
+[^f00005]: Footnote: [1999 c. 29](https://www.legislation.gov.uk/ukpga/1999/29).

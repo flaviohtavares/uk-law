@@ -1,0 +1,56 @@
+---
+title: Air Traffic Management and Unmanned Aircraft Act 2021, section 2
+act: Air Traffic Management and Unmanned Aircraft Act 2021
+section: '2'
+status: revised
+text_date: '2026-03-03'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2021/12/section/2
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Air Traffic Management and Unmanned Aircraft Act 2021, section 2
+
+> Text as at 2026-03-03.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 2. Direction to progress airspace change proposal[^key-269e8d7779e68f42c96ebc2cbc010857]
+
+*Extent: E+W+S+N.I.*
+
+(1) The Secretary of State may give a direction to a person involved in airspace change requiring the person to do one or more of the following—
+
+- (a) prepare an airspace change proposal or take steps towards the preparation of an airspace change proposal;
+- (b) submit an airspace change proposal to the CAA;
+- (c) take steps to obtain approval to an airspace change proposal that has been submitted to the CAA;
+- (d) review the operation of an airspace change proposal that has been implemented (having been approved).
+
+(This is subject to subsection (4).)
+
+(2) For the purposes of this Part, a person is involved in airspace change if the person is—
+
+- (a) an air navigation service provider,
+- (b) an airport operator, or
+- (c) another person with functions relating to air navigation.
+
+(3) Before giving a direction to a person under subsection (1) the Secretary of State must consult the person.
+
+(4) The Secretary of State may give a direction under subsection (1) only if the Secretary of State considers that the direction will assist in the delivery of the CAA's airspace strategy.
+
+(5) A direction given to a person under subsection (1) may require the person, in doing what the person is directed to do, to—
+
+- (a) act in accordance with procedures published by the CAA, and
+- (b) have regard to guidance published by the CAA concerning those procedures.
+
+(6) A direction given to a person under subsection (1) may—
+
+- (a) require the person to do specified things by specified dates;
+- (b) require the person to keep the CAA informed at specified intervals of the progress being made towards doing what the person is directed to do.
+
+(7) The references in subsection (5) to procedures and guidance published by the CAA are to procedures and guidance published by the CAA in accordance with directions given (from time to time) under section 66 of the Transport Act 2000 (air navigation directions given by the Secretary of State to the CAA).
+
+## Annotations
+
+[^key-269e8d7779e68f42c96ebc2cbc010857]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2021/12/section/2) in force at 18.2.2022 by [S.I. 2022/119](https://www.legislation.gov.uk/uksi/2022/119), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2022/119/regulation/2/b)

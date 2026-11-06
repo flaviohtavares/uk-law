@@ -1,0 +1,43 @@
+---
+title: Finance Act 2012, section 152
+act: Finance Act 2012
+section: '152'
+status: revised
+text_date: '2026-04-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2012/14/section/152
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Finance Act 2012, section 152
+
+> Text as at 2026-04-01.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 152. Friendly societies subject to transfer of business rules
+
+*Extent: E+W+S+N.I.*
+
+(1) In this section “**the transfer of business rules**” means—
+
+- (a) Chapter 10 of Part 2, and
+- (b) any other provisions of the Corporation Tax Acts that apply on the transfer from an insurance company to another insurance company of the whole or part of its life assurance business or of its other long-term business.
+
+(2) The transfer of business rules apply in the same way—
+
+- (a) on the transfer of the whole or part of the business of a friendly society to another friendly society,
+- (b) on the amalgamation of friendly societies,
+- (c) on the transfer of the whole or part of the business of a friendly society to a company which is not a friendly society,
+- (d) on the conversion of a friendly society into a company which is not a friendly society, and
+- (e) on the transfer of the whole or part of the business of an insurance company to a friendly society.
+
+(3) The Treasury may by regulations provide that the transfer of business rules as applied by subsection (2) have effect subject to such exceptions or other modifications as may be prescribed by the regulations.
+
+(4) The regulations may make provision having retrospective effect.
+
+(5) The regulations may—
+
+- (a) make different provision for different cases or circumstances, and
+- (b) contain incidental, supplementary, consequential, transitional, transitory or saving provision.

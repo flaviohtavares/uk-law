@@ -1,0 +1,1368 @@
+---
+title: Business Rate Supplements Act 2009
+id: ukpga/2009/7
+type: UnitedKingdomPublicGeneralAct
+category: primary
+status: revised-with-pending-changes
+made_date: '2009-07-02'
+text_date: '2025-02-05'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/2009/7
+pdf_urls:
+- http://www.legislation.gov.uk/ukpga/2009/7/pdfs/ukpgaen_20090007_en.pdf
+- http://www.legislation.gov.uk/ukpga/2009/7/pdfs/ukpga_20090007_en.pdf
+- http://www.legislation.gov.uk/ukpga/2009/7/data.pdf
+pending_changes: 3
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Business Rate Supplements Act 2009
+
+> **Warning: changes not yet applied to this text (3).** Text as at 2025-02-05. See https://www.legislation.gov.uk/changes/affected/ukpga/2009/7
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+Business Rate Supplements Act 2009
+
+2009 c. 7
+
+An Act to confer power on the Greater London Authority and certain local authorities to impose a levy on non-domestic ratepayers to raise money for expenditure on projects expected to promote economic development; and for connected purposes.
+
+\[2nd July 2009\]
+
+Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-8cf9e7fcbb2eeb9e31f043581f00c4f9][^key-6b1ec29ebf93e02e4cae40ce1057acfb][^key-7ae0b67ed30ce818108b507c1a6b5a87][^key-7c62611cc168f487c42cd78debba4a48][^key-76bdb0a20e2a5806e5f68967121161ea][^key-b761212f25cb0b043dd1c9a238726199][^key-89f54473a3557ec6c8b82dde514aea17][^key-860ffa9f49159e41c51d87dd7262f9b1][^key-5529c7cad7b9c11cf151761410514d2c][^key-b44bb702a1267ddd91a3831694ceb2df][^key-078cd4dfca78f569f0cdd01ba39895b7][^key-40cde08b36f42d1716155c8b5878723a]
+
+## Power to impose business rate supplements
+
+### 1. Power to impose a BRS[^key-99478853ee27c66ef7dd90c3fcc8c690]
+
+(1) A levying authority has power to impose a levy, to be called a “business rate supplement” (referred to in this Act as a “BRS”), on non-domestic ratepayers in its area.
+
+(2) The purpose of imposing a BRS is to raise money for expenditure on a project that the authority is satisfied will promote economic development in its area.
+
+(3) A person is a “non-domestic ratepayer” in the area of a levying authority if the person is, as regards a hereditament in the authority's area, subject to a non-domestic rate under—
+
+- (a) section 43 of the 1988 Act (occupiers of properties), or
+- (b) section 45 of that Act (owners of empty properties).
+
+(4) “**The 1988 Act**” means the Local Government Finance Act 1988 (c. 41).
+
+### 2. Levying authorities[^key-45158372f3912415f2f34bc9a1d217c9]
+
+(1) In this Act, “**levying authority**” means—
+
+- (a) the Greater London Authority;
+- (b) a county council in England;
+- (c) a district council for an area in England for which there is no county council;
+- (d) a county council or county borough council in Wales.
+
+(2) The power conferred on a levying authority by section 1(1) may be exercised jointly with one or more other levying authorities.
+
+(3) Where two or more levying authorities are acting jointly by virtue of this section, a reference in this Act to a levying authority is (except where there is contrary provision) to be read as a reference to those authorities acting jointly.
+
+### 3. Use of money raised by a BRS[^key-015648aa4b3c3638e830c39cc4574a76]
+
+(1) A levying authority must secure that the sums it receives in respect of a BRS are used only for expenditure—
+
+- (a) on the project to which the BRS relates, and
+- (b) that the authority would not have incurred had it not imposed the BRS.
+
+(2) A levying authority may use sums it receives in respect of a BRS to make payments in respect of money loaned for the purpose of providing funding for the project to which the BRS relates.
+
+(3) A levying authority must not use sums it receives in respect of a BRS to provide—
+
+- (a) housing;
+- (b) social services;
+- (c) education services;
+- (d) services for children;
+- (e) health services;
+- (f) services that the authority provides in the discharge of functions imposed by or under the Planning Acts (as defined by the Town and Country Planning Act 1990 (c. 8)).
+
+(4) Regulations may amend subsection (3) so as to add, vary or omit a reference to a matter.
+
+(5) The Greater London Authority may make arrangements with a functional body for some or all of the sums that the Greater London Authority receives in respect of a BRS imposed by it to be used by the body for expenditure on the project to which the BRS relates.
+
+(6) A reference to sums that a levying authority receives in respect of a BRS includes a reference to financial contributions made to it for the purpose of enabling the project to which the BRS relates to be carried out.
+
+(7) The reference in subsection (6) to financial contributions made to a levying authority includes, where the levying authority is not a billing authority, financial contributions—
+
+- (a) made for the purpose specified in subsection (6) to a billing authority which is a lower-tier authority in relation to the levying authority, and
+- (b) transferred to the levying authority.
+
+(8) A lower-tier authority is—
+
+- (a) in relation to the Greater London Authority—
+  - (i) a London borough council, or
+  - (ii) the Common Council of the City of London in its capacity as a local authority;
+- (b) in relation to a county council in England, a district council whose area forms part of the county council's area.
+
+(9) Where the Greater London Authority makes arrangements under subsection (5) with a functional body, this section applies to the body's use of sums that it receives in respect of the BRS as it applies to the Authority's use of sums that the Authority receives in respect of the BRS.
+
+(10) A reference to sums that a functional body receives in respect of a BRS is a reference to—
+
+- (a) sums that the Greater London Authority transfers to the body for the purposes of arrangements under subsection (5) that relate to the BRS, and
+- (b) financial contributions made to the body for the purpose specified in subsection (6).
+
+(11) In subsection (1)(b) as it is applied to a functional body by virtue of subsection (9), the reference to expenditure of the levying authority is to be read as a reference to expenditure of the functional body.
+
+## Involvement of ratepayers, etc.
+
+### 4. Conditions for imposing a BRS[^key-a34ee2af0072f0155100fd708af4a2e6]
+
+A levying authority may not impose a BRS unless—
+
+- (a) it has published a document that sets out the proposal for the imposition of the BRS (an “initial prospectus”),
+- (b) it has consulted the relevant persons on the proposal,
+- (c) a ballot[^key-87400c071983a74735aedb6304b033a9] has been held and the imposition of the BRS approved, and
+- (d) it has published a document that sets out the arrangements for the imposition of the BRS (a “final prospectus”).
+
+### 5. Prospectus[^key-0e2e3ed3b5550cb091762f9e1c984214]
+
+(1) Any initial or final prospectus must include the information specified in Schedule 1 (and may include such other information as the levying authority thinks appropriate).
+
+(2) The function of the levying authority of approving a final prospectus before publication is a function that must be discharged only by the whole authority; but that does not apply in the case of the Greater London Authority.
+
+(3) After publishing an initial or final prospectus, a levying authority must—
+
+- (a) place an electronic copy of the published prospectus on its website, and
+- (b) make copies of the published prospectus available for inspection at its principal office at all reasonable times of the day.
+
+(4) In a case where two or more levying authorities are acting jointly by virtue of section 2, each authority must separately—
+
+- (a) discharge the function of approving a final prospectus before publication, and
+- (b) comply with the duty imposed by subsection (3).
+
+(5) Regulations may amend Schedule 1 so as to add, vary or omit a description of information.
+
+### 6. Consultation[^key-bef0412bd2cfd55909e03de6502d56c2]
+
+(1) The relevant persons for the purposes of consultation on the proposal in an initial prospectus are—
+
+- (a) each person who will be liable to pay the BRS;
+- (b) each lower-tier authority in relation to the levying authority;
+- (c) such other persons as the levying authority thinks appropriate.
+
+(2) A person is to be regarded for the purposes of subsection (1)(a) as a person who will be liable to pay a BRS if the levying authority thinks that the person will be liable to pay a chargeable amount for the first day of the chargeable period of the BRS.
+
+(3) A person is also to be regarded for the purposes of subsection (1)(a) as a person who will be liable to pay a BRS if the levying authority thinks that the person would, but for section 13(7) or (8), be liable to pay a chargeable amount for the first day of the chargeable period of the BRS.
+
+(4) A person is also to be regarded for the purposes of subsection (1)(a) as a person who will be liable to pay a BRS if the levying authority thinks that the person—
+
+- (a) would, but for section 15 or 16, be liable to pay a chargeable amount for the first day of the chargeable period of the BRS, and
+- (b) will be liable to pay a chargeable amount before the end of that period.
+
+(5) For the purposes of subsection (1)(c), a levying authority must, in particular, think whether it would be appropriate to consult persons who the authority thinks might become liable to pay a chargeable amount before the end of the chargeable period of the BRS.
+
+(6) The levying authority must publish a revised version of an initial prospectus if, in the light of the consultation on the proposal in the prospectus, the authority thinks that it is necessary or appropriate to do so.
+
+(7) A reference in section 5 to an initial prospectus includes a reference to an initial prospectus revised under subsection (6) of this section.
+
+(8) A reference in subsection (2), (3) or (4) to a chargeable amount does not include a reference to a chargeable amount of zero.
+
+### 7. Holding of ballot[^key-5138921f1435b7ffab59ee512f648ab2]
+
+(1)[^key-67ab07645e374cd53373473e97ed306b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2)[^key-67ab07645e374cd53373473e97ed306b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) The proposition to be voted on in a ballot on the imposition of a BRS is—
+
+> The \[*insert name of levying authority*\] proposes to introduce a business rate supplement. The proposal is set out in \[*insert title of prospectus*\]. Should the proposed business rate supplement be introduced?
+
+(4) A person is eligible to vote in a ballot on the imposition of a BRS if the person is within section 6(2), (3) or (4).
+
+(5)[^key-50ac7ff15ce5d5e40c1c800928ff52ff] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 8. Approval by ballot[^key-2e1f329885837d965e1802ed828060c0]
+
+(1) The imposition of a BRS[^key-be171c734d9fdf0cfa642fe0d0d3e144] is approved if—
+
+- (a) a majority of the persons voting in the ballot have voted in favour of the imposition of the BRS, and
+- (b) A exceeds B.
+
+(2) For the purposes of subsection (1)—
+
+- “A” is the aggregate of the rateable values of each hereditament in respect of which a person voting in the ballot has voted in favour of the imposition of the BRS, and
+- “B” is the aggregate of the rateable values of each hereditament in respect of which a person voting in the ballot has voted against the imposition of the BRS.
+
+(3) For the purposes of subsection (2), the rateable value of a hereditament is its rateable value on the day of the ballot.
+
+### 9. Regulations about ballots[^key-6e64c08645a7682726e4e47798774839]
+
+(1) Regulations may make provision in relation to the holding of a ballot on the imposition of a BRS.
+
+(2) The provision which may be made includes, in particular, provision about—
+
+- (a) the timing of a ballot;
+- (b) the form that a ballot may take;
+- (c) who is to hold a ballot;
+- (d) the conduct of a ballot.
+
+(3) The regulations may, in particular—
+
+- (a) confer functions on a levying authority;
+- (b) enable a levying authority to appoint an officer of its to exercise on its behalf a function conferred by virtue of paragraph (a) (a “ballot function”);
+- (c) enable a levying authority to delegate to a lower-tier authority in relation to it the exercise of a ballot function in the area of that lower-tier authority;
+- (d) enable a levying authority to delegate to a lower-tier authority in relation to it the exercise of a ballot function in the area of each other lower-tier authority in relation to the levying authority;
+- (e) enable a lower-tier authority to which the exercise of a ballot function is delegated by virtue of paragraph (c) or (d) to appoint an officer of its to exercise the function on its behalf.
+
+(4) Regulations under this section may make provision as to who may cast a vote in a case where the person eligible to vote is a body corporate, partnership or unincorporated association.
+
+(5) Nothing in subsections (2) to (4) is to be taken as limiting the power conferred by subsection (1).
+
+### 10. Variations[^key-912c17b69d00f15f6fbe48ae60946a4e]
+
+(1) A levying authority may vary a BRS in so far as the variation is of a kind that may be made in accordance with the final prospectus.
+
+(2) Otherwise, a levying authority may vary a BRS only if—
+
+- (a) it has published a document that sets out the proposal for the variation,
+- (b) it has consulted the relevant persons on the proposal,
+- (c) [^key-bbd63faac8bb10a3ecfbcae52e63804f]... a ballot on the proposal has been held and the variation approved, and
+- (d) it has published a document that sets out the arrangements for making the variation.
+
+(3) A document published for the purposes of subsection (2)(a) or (d) must—
+
+- (a) specify the amount that the authority expects to raise from the imposition of the BRS on the assumption that the variation is made (the specified amount to include the amount already raised from the imposition of the BRS),
+- (b) specify the authority's estimate of the total cost of the project to which the BRS relates,
+- (c) specify the day on which the variation will, if made, take effect, and
+- (d) include, to the extent that the authority thinks appropriate, such other information as would be included in an initial or final prospectus if the proposal or arrangements were for the imposition of the BRS as varied.
+
+(4) Section 5 applies as follows in relation to the publication of a document for the purposes of subsection (2)(a) or (d)—
+
+- (a) subsection (2) of that section applies to the approval of a document before publication for the purposes of subsection (2)(d) as it applies to the approval of a final prospectus before publication;
+- (b) subsection (3) of that section applies to a document published for the purposes of subsection (2)(a) or (d) as it applies to a published initial or final prospectus;
+- (c) subsection (4) of that section applies so far as necessary for the purposes of the applications made by paragraphs (a) and (b) of this subsection.
+
+(5) The relevant persons for the purposes of consultation on a proposal to vary a BRS are those who would be the relevant persons if the proposal were for the imposition of the BRS as varied; for that purpose, section 6 applies as if references to the first day of the chargeable period of the BRS were references to the day specified for the purposes of subsection (3)(c).
+
+(6) Section 6(6) applies in relation to a document published for the purposes of subsection (2)(a) as it applies in relation to an initial prospectus.
+
+(7)[^key-cbea1a6df4542ed7486cd6ac5cb8b43c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(8)[^key-cbea1a6df4542ed7486cd6ac5cb8b43c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(9)[^key-cbea1a6df4542ed7486cd6ac5cb8b43c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(10) The proposition to be voted on in a ballot on a proposal to vary a BRS is—
+
+> The \[*insert name of levying authority*\] proposes to vary the business rate supplement set out in \[*insert title of prospectus and title of any document setting out a variation to the BRS*\]. The proposal is set out in \[*insert title of document setting out proposal*\]. Should the proposed variation be made?
+
+(11) A person is eligible to vote in a ballot on a proposal to vary a BRS if the person is within section 6(2), (3) or (4) (as applied by subsection (5) above); and sections 8 and 9 apply to a ballot on a proposal to vary a BRS as they apply to a ballot on a proposal for the imposition of a BRS.
+
+(12) A variation the purpose of which is to increase the number of persons liable to pay a chargeable amount may not be made in reliance on subsection (1) (and that subsection is to be read accordingly).
+
+## Liability to business rate supplements
+
+### 11. Liability of non-domestic ratepayers[^key-286dac76752e8c8e4ea0176f491ba692]
+
+(1) This section applies in relation to a person who, as regards a hereditament, is subject to a non-domestic rate under section 43 or 45 of the 1988 Act in respect of a financial year.
+
+(2) The person is, in relation to that hereditament and in respect of that year, subject to such BRSs as are imposed for that year by the levying authority in whose area the hereditament is situated.
+
+(3) But a person subject to a non-domestic rate under section 45 of the 1988 Act (a “section 45 ratepayer”) is not subject to a BRS if—
+
+- (a) paragraph 2[^key-298db8447c54594a7b2264989e8bb88c] of Schedule 4ZB to that Act (empty properties: charitable rate relief) applies to the hereditament, or
+- (b) the final prospectus for the BRS states that section 45 ratepayers are not to be subject to the BRS.
+
+(4) A person who is subject to a BRS in relation to a hereditament in respect of a financial year is liable to pay in respect of that year an amount calculated by—
+
+- (a) finding the chargeable amount for each chargeable day, and
+- (b) totalling the amounts found under paragraph (a).
+
+(5) A chargeable day is a day—
+
+- (a) which falls within the financial year and the chargeable period of the BRS, and
+- (b) on which the rateable value condition is met in relation to the hereditament.
+
+(6) The chargeable period of a BRS—
+
+- (a) is the period for which the BRS is imposed, and
+- (b) must not begin before the day on which the BRS is imposed.
+
+(7) The length of the chargeable period of a BRS must not exceed—
+
+- (a) the length of the period specified as the chargeable period in the final prospectus, or
+- (b) if the length of the chargeable period is varied in accordance with section 10, the length of the period as varied.
+
+(8) A reference to a BRS imposed for a financial year is to a BRS the chargeable period of which is or includes the whole or part of the financial year in question.
+
+(9) Subsection (3)(b) does not apply if, by virtue of section 10, section 45 ratepayers become subject to the BRS.
+
+### 12. Rateable value condition[^key-b864f6db49b87e9cf839667717d22930]
+
+(1) The rateable value condition is (unless subsection (2) applies) met in relation to a hereditament on any day on which the rateable value of the hereditament exceeds the amount prescribed by regulations.
+
+(2) This subsection applies if—
+
+- (a) part only of a hereditament is occupied, and
+- (b) section 45 ratepayers are not subject to the BRS.
+
+(3) If subsection (2) applies, the rateable value condition is met in relation to the hereditament on any day on which the rateable value of the occupied part exceeds the amount prescribed under subsection (1).
+
+(4) For the purposes of a case where subsection (2) applies, the levying authority may require the valuation officer for the authority (or, where it is not a billing authority, for the billing authority in whose area the hereditament is situated)—
+
+- (a) to apportion the rateable value of the hereditament between the occupied and unoccupied parts, and
+- (b) to certify the apportionment to the levying authority.
+
+(5) The levying authority may, for those purposes, rely on an or apportionments[^key-32d36f0e41ee45e39468453d00907797] under section 44A of the 1988 Act if satisfied that the or apportionments will be accurate for those purposes.
+
+(6) Regulations may make provision—
+
+- (a) for the proposal of alterations to a certificate under subsection (4);
+- (b) for an appeal in relation to a certificate under that subsection to a valuation tribunal for the purposes of section 55 of the 1988 Act.
+
+(7) Regulations under subsection (6)—
+
+- (a) may include such provision for the purposes of this Act as may be included in regulations under subsections (3) to (7) of that section for the purposes of that Act;
+- (b) may amend, or apply (with or without modifications), any provision of regulations made under any of those subsections.
+
+(8) Accordingly, provision by virtue of subsection (6) as to the period for which or day from which an alteration to a certificate is to have effect may have retrospective effect; and provision by virtue of that subsection may require the retrospective effect to be indicated on the certificate as altered.
+
+(9)[^key-a4942ffe2dd8db854148cf16f8af391b] The rateable value of a hereditament on a day is—
+
+- (a) in a case where the day on which paragraph 3 of Schedule 4ZA to the Local Government Finance Act 1988 applies in relation to the hereditament, the rateable value of the hereditament shown for that day in the local non-domestic rating list maintained for the billing authority in whose area the hereditament is situated minus G (within the meaning of that Schedule), or
+- (b) in any other case, the rateable value of the hereditament shown for that day in the local non-domestic rating list maintained for the billing authority in whose area the hereditament is situated.
+
+(10) In section 1 of the Non-Domestic Rating (Information) Act 1996 (c. 13) (disclosure of information), in subsection (2), in paragraph (a) of the definition of “statutory functions”, after “1988” insert “ or the function under section 12(4) of the Business Rate Supplements Act 2009 ”.
+
+### 13. Chargeable amount[^key-58905e3ad3b94e1c11e646bcb7f1b89c]
+
+(1) This section applies for determining the chargeable amount for a chargeable day in relation to a hereditament.
+
+(2) The amount is (subject to subsections (2A)[^key-0637a5678dca19442e3e9b63d8c4a624] to (8)) calculated by using the formula—
+
+[formula: see source](https://www.legislation.gov.uk/ukpga/2009/7)
+
+(2A)[^key-c0d2d958ab9f673142803ab3cbe25bc3] If paragraph 2 of Schedule 4ZA to the 1988 Act (charitable rate relief) applies, the amount is calculated by using the formula—
+
+[formula: A multiplied by B over C multiplied by 5](https://www.legislation.gov.uk/ukpga/2009/7)
+
+(3) If paragraph 4[^key-6b039d1a0390e808a93cc8a7cb413591] of Schedule 4ZA to the 1988 Act (small business rate relief) applies, the amount is calculated by using the formula—
+
+[formula: see source](https://www.legislation.gov.uk/ukpga/2009/7)
+
+(3A)[^key-f6c1714a1d6d31ee856bb8dbdf2f331f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3B)[^key-35ab0fea8a1b8c299944e01f8652ffa8] If any of paragraphs[^key-6f0c608b863f490c699ce1c55042d9ad] 6 (heat networks rate relief), 7 (public lavatories rate relief) or 8 (rural rate relief) of Schedule 4ZA to the 1988 Act apply, the amount is zero.
+
+(4)[^key-75a84762fdbe7ef3b229df14516b95ae] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5)[^key-61aed8c24c57aae6c1f04e6f24900361] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(6) If paragraph 1[^key-5cea1b07ace4d46a26b88a2491c97d64](2) of Schedule 4ZB to the 1988 Act (empty properties) applies, the amount is calculated by using the formula—
+
+[formula: see source](https://www.legislation.gov.uk/ukpga/2009/7)
+
+(6A)[^key-8b1ec280a5bf3da921ec100d157d6e59] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(7) If section 47 or 49 of the 1988 Act (discretionary or hardship relief) applies, the amount is found by—
+
+- (a) working out the percentage by which the amount that would be due under that Act but for that section is reduced as a result of that section, and
+- (b) reducing what the chargeable amount would be but for this subsection by that percentage.
+
+(8) But in the case of a remittance under section 49 of the 1988 Act, the amount is zero.
+
+(9) A reference to a case where paragraph[^key-e58a674b358287121af305364aa2f61e] 2, 4, 6, 7 or 8 of Schedule 4ZA or paragraph 1(2) of Schedule 4ZB to the 1988 Act applies includes a reference to a case where it would apply but for section 57A(3) of that Act (transitional relief).
+
+(10) This section is subject to sections 15 and 16.
+
+### 14. Chargeable amount: supplementary[^key-49efc72b7cb8f3876493405f688c5a09]
+
+(1) This section applies for the purposes of section 13.
+
+(2) “A” is—
+
+- (a) the rateable value of the hereditament on the chargeable day, or
+- (b) if section 12(2) applies, the rateable value of the occupied part of the hereditament on that day.
+
+(3) “B” is the multiplier for the BRS for the financial year (expressed to no more than three decimal places).
+
+(4) “C” is the number of days in the financial year.
+
+(5)[^key-49937152e4d9298a0e166eec88b3271f] “**E**” has the meaning it has for the purposes of Schedule 4ZA to the 1988 Act.
+
+(5A) “**N**” has the meaning it has for the purposes of Schedule 4ZB to the 1998 Act.
+
+(6) If a levying authority imposes only one BRS for a financial year, the multiplier for that BRS for that year must not exceed 0.02.
+
+(7) If a levying authority imposes more than one BRS for a financial year, the total of the multipliers for those BRSs for that year must not exceed 0.02.
+
+(8) Subject to subsections (6) and (7), the multiplier for a BRS for a financial year must not exceed—
+
+- (a) the amount specified as the multiplier in the final prospectus, or
+- (b) if the specified amount is varied in accordance with section 10, the amount as varied.
+
+(9) If section 45 ratepayers are subject to the BRS, subsection (10) applies in a case where—
+
+- (a) part only of a hereditament is occupied, and
+- (b) regulations under[^key-2da1bec3f26f65f2e519adb35dfbc4a9] paragraph 1(2) of Schedule 4ZB to the 1988 Act are in force (and would apply to the hereditament if none of it were occupied).
+
+(10) Section 13 has effect as if for subsection (2) of this section there were substituted—
+
+> (2) “A” is the sum of—
+>
+> - (a) the rateable value of the occupied part of the hereditament on the chargeable day, and
+> - (b) the rateable value of the unoccupied part on that day, divided by the number prescribed as “N” by the order.
+
+### 15. BRS relief[^key-bfe38c4417498677a80485e7d102b77c]
+
+(1) A levying authority that imposes a BRS may apply such reliefs in relation to the BRS as it thinks appropriate.
+
+(2) If a levying authority applies a relief in relation to a BRS, the chargeable amount for a chargeable day in relation to a hereditament is determined in accordance with the rules set by the authority for the application of the relief.
+
+(3) A levying authority may not apply a relief in relation to a BRS unless the rules for the application of the relief—
+
+- (a) are set out in the final prospectus for the BRS or have effect by virtue of section 10,
+- (b) operate by reference to the rateable value of a hereditament in respect of which the liability arises,
+- (c) apply consistently to hereditaments in the levying authority's area regardless of the purpose for which they may be used or the basis on which they are owned or occupied, and
+- (d) apply uniformly throughout the levying authority's area.
+
+(4) Regulations may amend subsection (3) so as to add, vary or omit a condition to be met in relation to the rules for the application of a relief under this section.
+
+### 16. Interaction with BID levy
+
+(1)[^key-bd7017dc24616fe62c69ca9c212ef024] A levying authority must set rules for the purposes of cases where a person is, by reference to a hereditament, liable for BID levy for the whole or part of a financial year in respect of which the person is, in relation to that hereditament, subject to a BRS imposed by the authority.
+
+(2)[^key-bd7017dc24616fe62c69ca9c212ef024] The chargeable amount in relation to the hereditament for a chargeable day for which the person is also liable for BID levy by reference to the hereditament is the amount found by offsetting A against B to the extent specified in the rules.
+
+(3)[^key-bd7017dc24616fe62c69ca9c212ef024] For the purposes of subsection (2)—
+
+- “A” is the amount of the person's liability for BID levy for the day, and
+- “B” is the amount that the person would (apart from this section) be liable to pay in respect of the BRS for that day.
+
+(4)[^key-bd7017dc24616fe62c69ca9c212ef024] Rules set for the purposes of cases within subsection (1) must—
+
+- (a) accord with such rules as are set out for those purposes in the final prospectus for the BRS or as have effect for those purposes by virtue of section 10,
+- (b) apply consistently in relation to BID levies, and
+- (c) apply uniformly throughout the levying authority's area.
+
+(5)[^key-95f261d8b792a3cb931a16e6937eea00][^key-469267d5f0dd7cc468fdf8a71d40667c] Schedule 2 (BRS-BID arrangements) has effect; and—
+
+- (a) subsections (1) to (4) apply in relation to BRS-BID levy (within the meaning given by that Schedule) as they apply in relation to BID levy, but
+- (b) the rules relating to BRS-BID levy need not be the same as the rules relating to BID levy.
+
+### 17. Regulations to deal with joint ownership, joint occupation or death[^key-b15f90f961b185915ffa3febbe8071a2]
+
+(1) Regulations may make provision for cases where a hereditament is owned or occupied by more than one person at a particular time.
+
+(2) Regulations under subsection (1)—
+
+- (a) may include such provision for the purposes of this Act as may be included in regulations under section 50 of the 1988 Act (cases of joint ownership or occupation) for the purposes of that Act;
+- (b) may amend, or apply (with or without modifications), a provision of regulations made under that section.
+
+(3) Regulations may make provision for cases where a person who has died was (or is alleged to have been) subject to a BRS.
+
+(4) Regulations under subsection (3)—
+
+- (a) may include such provision for the purposes of this Act as may be included in regulations under section 63 of the 1988 Act (cases of death) for the purposes of that Act;
+- (b) may amend, or apply (with or without modifications), any provision of regulations made under that section.
+
+## Administration of business rate supplements
+
+### 18. Notice to billing authorities before start of financial year[^key-d3bc3602b592370ac383f430433f54bd]
+
+(1) A levying authority which is not a billing authority must, for each financial year for which it intends to impose a BRS, give a written notice relating to the BRS to each billing authority which is a lower-tier authority in relation to it.
+
+(2) The notice must—
+
+- (a) if the BRS is to be imposed for part only of the year, specify the part of the year for which it is to be imposed,
+- (b) specify the multiplier for the BRS for the year,
+- (c) state whether persons who, as regards hereditaments in the billing authority's area, are section 45 ratepayers are to be subject to the BRS,
+- (d) specify whether a relief under section 15 is to be applied in relation to the BRS (and, if so, set out the rules for its application), and
+- (e) set out the rules for cases within section 16(1).
+
+(3) The notice must be given before 1 March in the financial year preceding that for which the levying authority intends to impose the BRS.
+
+(4) Where more than one BRS is to be imposed by the levying authority for the year, the notice—
+
+- (a) may relate to some or all of the BRSs in question, but
+- (b) if it does so, must set out the information required under subsection (2) separately for each BRS to which the notice relates.
+
+### 19. Notice to billing authorities during financial year[^key-0fb18b959617473ba065e7173e2268a9]
+
+(1) This section applies if a levying authority which is not a billing authority—
+
+- (a) intends to impose a BRS for a financial year, but
+- (b) has not, for that year, given a notice under section 18 in relation to the BRS.
+
+(2) This section also applies if a levying authority—
+
+- (a) varies a BRS in accordance with section 10, and
+- (b) thinks that, as a result of the variation, new calculations are required to find the chargeable amounts that some or all of those subject to the BRS are liable to pay.
+
+(3) The levying authority must give a written notice relating to the BRS to each billing authority which is a lower-tier authority in relation to it.
+
+(4) A notice given for the purposes of a case within subsection (1) must comply with section 18(2).
+
+(5) A notice given for the purposes of a case within subsection (2) must specify—
+
+- (a) the variation, and
+- (b) the day specified for the purposes of subsection (3)(c) of section 10 in the document published for the purposes of subsection (2)(d) of that section.
+
+### 20. Calculations for financial year[^key-ffe17b709ae0fed1dadacdd756f3a764]
+
+(1) A billing authority which is a levying authority must calculate the chargeable amount which each person who is to be subject to a BRS imposed by it for a financial year is to be liable to pay in respect of that year.
+
+(2) Subsection (3) applies if a billing authority which is a lower-tier authority in relation to a levying authority receives a notice from the levying authority under section 18 or 19.
+
+(3) The billing authority must calculate the chargeable amount that each person who is to be subject to the BRS to which the notice relates is to be liable to pay in respect of the financial year.
+
+(4) If a billing authority receives a notice given for the purposes of a case within subsection (2) of section 19, the duty imposed on the authority by subsection (3) of this section applies only in so far as new calculations are required to be made as a result of the variation specified in the notice.
+
+(5) A calculation under this section must be made in accordance with section 11(4).
+
+### 21. Collection and enforcement[^key-e3e41d8bce0e525c171ce2f33712a4df]
+
+(1) Regulations may make provision in relation to the collection and recovery of sums due under this Act.
+
+(2) Regulations under this section—
+
+- (a) may include such provision for the purposes of this Act as may be included in regulations under paragraphs 1 to 4A of Schedule 9 to the 1988 Act (collection and recovery of non-domestic-rates) for the purposes of that Act;
+- (b) may amend, or apply (with or without modifications), any provision of regulations made under any of those paragraphs;
+- (c) may confer on a billing authority for the purposes of this Act a power corresponding to that conferred on a billing authority by section 62A of the 1988 Act (taking control of goods) for the purposes of that Act.
+
+(3) After the imposition of a BRS has come to an end, a billing authority may seek to collect or recover sums in respect of the BRS in so far as the sums became payable to it before the imposition of the BRS came to an end.
+
+(4) Regulations under this section may provide that, if the project to which a BRS relates is abandoned (or, where a BRS relates to only certain aspects of a project, those aspects are abandoned), the imposition of the BRS is to be treated for the purposes of subsection (3) as having come to an end—
+
+- (a) at the time of the abandonment, or
+- (b) at such other time as may be prescribed.
+
+(5) In section 11 of the State Immunity Act 1978 (c. 33) (no immunity from proceedings relating to liability to value added tax, rates, etc.), the reference to liability for rates includes a reference to liability for BRSs.
+
+### 22. Administrative expenses[^key-9e2c70cda62600e24678fc3131937ad3]
+
+(1) Regulations under section 21 may authorise a billing authority to use a prescribed proportion of such sums as it collects or recovers in respect of a BRS to meet expenses it incurs in the collection or recovery (“administrative expenses”).
+
+(2) Provision by virtue of subsection (1) may, in particular, amend section 90 of the 1988 Act (payments to and from collection funds).
+
+(3) If the chargeable period of a BRS begins, or a variation of a BRS takes effect, later than the first day of a financial year, the levying authority may not, in respect of that financial year, act in reliance on provision made by virtue of subsection (1).
+
+(4) In so far as a billing authority which is not a levying authority incurs administrative expenses in response to a notice given by the levying authority under section 19, those expenses must be met by the levying authority.
+
+(5) But the levying authority may not meet those expenses by—
+
+- (a) using sums that it receives in respect of the BRS, or
+- (b) directing the billing authority to retain from sums it is required to transfer to the levying authority in respect of the BRS a sum equivalent to the amount that the levying authority is required to pay.
+
+(6) The amount that a levying authority is required to pay under subsection (4) must not exceed such amount as may be prescribed by regulations under section 21 (or as is to be determined in accordance with such formula as may be prescribed by regulations under that section).
+
+(7) A reference to sums that a billing authority collects in respect of a BRS includes a reference to financial contributions made to it for the purpose of enabling the project to which the BRS relates to be carried out.
+
+### 23. Accounting[^key-63badce1e9fee610be5d7dcf0b1f9649]
+
+Schedule 3 (accounting) has effect.
+
+## Intervention by appropriate national authority
+
+### 24. Power to cancel a BRS[^key-b82a1a49c089cb8811eb5508c8c917c7]
+
+(1) This section applies if the appropriate national authority thinks that a levying authority has, in relation to a BRS imposed by it, acted in a way that is materially inconsistent with information provided by it.
+
+(2) The information referred to in subsection (1) includes information provided—
+
+- (a) in the final prospectus for the BRS;
+- (b) in a document published for the purposes of section 10(2)(d) about a proposal to vary the BRS;
+- (c) in the course of consultation on the proposal for the imposition of the BRS or on a proposal to vary the BRS;
+- (d) in connection with the holding of a ballot on the imposition of the BRS or on a proposal to vary the BRS.
+
+(3) The appropriate national authority—
+
+- (a) may direct the levying authority to cancel the imposition of the BRS,
+- (b) may direct the levying authority to refund the sums received by it in respect of the BRS or, where the levying authority is not a billing authority, direct it to return to a billing authority that is a lower-tier authority in relation to it sums transferred to it by the billing authority,
+- (c) may direct a billing authority that is a lower-tier authority in relation to the levying authority to refund the sums collected by it in respect of the BRS but not transferred to the levying authority,
+- (d) may direct a functional body to transfer to the Greater London Authority sums received by the body in respect of the BRS but not used by it, and
+- (e) may take such other steps as the appropriate national authority thinks appropriate.
+
+(4) Where the appropriate national authority gives a direction to a billing authority which is not a levying authority, the appropriate national authority may direct the levying authority to meet the expenses incurred by the billing authority in complying with the direction.
+
+(5) The appropriate national authority may, in connection with the exercise or proposed exercise of a power under this section, require—
+
+- (a) the levying authority,
+- (b) a billing authority that is a lower-tier authority in relation to it, or
+- (c) a functional body,
+
+to provide such information relating to a BRS as the appropriate national authority may specify.
+
+(6) A levying authority, a billing authority or a functional body must comply with a direction given to it, or a requirement imposed on it, under this section.
+
+(7) Section 21(3) does not apply where the imposition of a BRS comes to an end as a result of this section.
+
+## Supplementary
+
+### 25. Provision of information[^key-f534abc0d89f69aa7d15190d72e2e838]
+
+(1) A levying authority may require a billing authority which is a lower-tier authority in relation to it to provide it with—
+
+- (a) the address and rateable value of each hereditament shown in the local non-domestic rating list maintained for the billing authority;
+- (b) the name and address of each person who, as regards a hereditament shown in the list, is subject to a non-domestic rate under section 43 or 45 of the 1988 Act;
+- (c) such other information for the purposes of this Act as the levying authority may specify.
+
+(2) A billing authority must comply with a requirement imposed on it under this section.
+
+(3) A requirement under this section—
+
+- (a) must be in writing, and
+- (b) must be accompanied by such fee (if any) as the billing authority may charge for complying with the requirement.
+
+(4) A levying authority—
+
+- (a) may not use information provided to it under this section except in so far as is necessary for the purposes of this Act, and
+- (b) may not disclose the information (except in accordance with an enactment, in pursuance of an order of a court or with the consent of any person to whom the information relates).
+
+### 26. Guidance[^key-11434ec2e2b4476cc526e5db77a749b5]
+
+(1) In carrying out functions imposed by or by virtue of this Act, a levying authority must have regard to such guidance as the appropriate national authority may give.
+
+(2) Guidance given under this section may, in particular, relate to—
+
+- (a) the kinds of projects which may, and may not, be regarded as appropriate ones in relation to which to impose BRSs;
+- (b) the carrying out by a levying authority of an assessment for the purposes of paragraph 5 of Schedule 1;
+- (c) the discharge of the duty imposed by section 3(1) (in particular, its discharge in a case within section 27);
+- (d) expenditure which may, and may not, be regarded as an appropriate use for money raised from the imposition of a BRS;
+- (e) the contents of an initial or final prospectus or a document required to be published for the purposes of section 10(2)(a) or (d) (in particular, the level of detail to provide);
+- (f) the holding of a ballot on the imposition of a BRS or on a proposal to vary a BRS.
+
+### 27. Special introductory provision[^key-92112bf7538556fa46c5caa3a6511d08]
+
+(1) The chargeable period of a BRS must not begin before 1 April 2010.
+
+(2) A levying authority may impose a BRS for the purpose of raising money for expenditure on a project beginning before the commencement of section 1 only if—
+
+- (a) the levying authority's area is in England, and
+- (b) the chargeable period of the BRS begins on or before 1 April 2012.
+
+(3) Any guidance given by the Secretary of State in anticipation of the passing of this Act or the commencement of a provision of this Act (“pre-commencement guidance”) may be relied on—
+
+- (a) for the purpose of imposing a BRS in reliance on subsection (2), and
+- (b) in the case of a BRS imposed in reliance on that subsection.
+
+(4) Pre-commencement guidance is to be treated as given by the Secretary of State under section 26.
+
+(5) Anything done in anticipation of the passing of this Act or the commencement of a provision of this Act is, in so far as it is done in reliance on and in accordance with pre-commencement guidance, to be treated as done in accordance with this Act.
+
+(6) Sections 3(1)(b), 7(1) and 10(7) do not apply to a BRS that the Greater London Authority proposes to impose, or imposes, in reliance on subsection (2) if the chargeable period of the BRS begins on or before 1 April 2011.
+
+(7) The Secretary of State may by regulations make other provision about—
+
+- (a) the exercise by the Greater London Authority of the power to impose a BRS in reliance on subsection (2);
+- (b) the operation of this Act in relation to a BRS imposed by the Authority in reliance on that subsection.
+
+(8) The regulations may, in particular—
+
+- (a) confer or impose a function (which may include the exercise of a discretion) on the Greater London Authority, a lower-tier authority in relation to it or a functional body;
+- (b) disapply a provision of this Act;
+- (c) apply a provision of this Act with modifications.
+
+### 28. Power to make consequential provision
+
+(1) The Secretary of State may by regulations make supplementary, incidental or consequential provision—
+
+- (a) for the general purposes, or any particular purpose, of this Act, or
+- (b) in consequence of, or for giving full effect to, a provision made by or under this Act.
+
+(2) Regulations under this section may, in particular—
+
+- (a) amend or repeal, or apply with modifications, a provision of an Act (including this Act and any Act passed before, or in the same Session as, this Act);
+- (b) amend or revoke, or apply with modifications, a provision of subordinate legislation made before the passing of this Act.
+
+(3) The power conferred by this section is also exercisable by the Welsh Ministers in so far as it is exercisable in relation to matters with respect to which functions are exercisable by the Welsh Ministers.
+
+(4) The amendments or modifications that may be made by virtue of subsection (2) are in addition to those made by or by virtue of any other provision of this Act.
+
+(5) “**Subordinate legislation**” has the same meaning as in the Interpretation Act 1978 (c. 30).
+
+### 29. Regulations, etc.
+
+(1) The power to make regulations under this Act is (subject to section 28) exercisable by the appropriate national authority.
+
+(2) Regulations and any commencement order under this Act must be made by statutory instrument.
+
+(3) Regulations and any commencement order under this Act—
+
+- (a) may make provision which applies generally or only for specified cases or which applies subject to specified exceptions;
+- (b) may make different provision for different cases or different areas;
+- (c) may make incidental, supplementary, consequential, transitional, transitory or saving provision.
+
+(4) A statutory instrument containing (whether alone or with other provision) regulations mentioned in subsection (5) may not be made unless—
+
+- (a) in the case of regulations made by the Secretary of State, a draft of the instrument has been laid before, and approved by a resolution of, each House of Parliament;
+- (b) in the case of regulations made by the Welsh Ministers, a draft of the instrument has been laid before, and approved by a resolution of, the National Assembly for Wales.
+
+(5) The regulations are—
+
+- (a) regulations under section 3(4) (power to vary etc. matters for which money raised from the imposition of a BRS may not be used);
+- (b) regulations under section 5(5) (power to vary etc. descriptions of information for inclusion in an initial or final prospectus);
+- (c) regulations under section 15(4) (power to vary etc. conditions to be met in relation to rules for the application of a BRS relief);
+- (d) regulations under section 21 which include provision within section 22(2) (power to amend section 90 of the 1988 Act);
+- (e) regulations under subsection (7) of section 27 which include provision within subsection (8)(b) or (c) of that section (special introductory provision);
+- (f) regulations under section 28 which include provision within subsection (2)(a) of that section (power to make consequential amendments etc. to primary legislation);
+- (g) regulations under paragraph 4(5), 5, 6 or 8 of Schedule 2 (BRS-BID arrangements: liability, ballots, disclosure of information);
+- (h) regulations under paragraph 10 of that Schedule which include provision within sub-paragraph (1)(f) or (g) of that paragraph (BRS-BID arrangements: alteration etc. of arrangements, ballots).
+
+(6) A statutory instrument containing regulations under this Act, other than regulations mentioned in subsection (5), is subject to annulment in pursuance of—
+
+- (a) in the case of regulations made by the Secretary of State, a resolution of either House of Parliament;
+- (b) in the case of regulations made by the Welsh Ministers, a resolution of the National Assembly for Wales.
+
+(7) “**Commencement order**” means an order under section 32(2).
+
+## General
+
+### 30. Interpretation
+
+(1) In this Act, the “**appropriate national authority**” means—
+
+- (a) in relation to a levying authority whose area is in England or in relation to hereditaments in England, the Secretary of State;
+- (b) in relation to a levying authority whose area is in Wales or in relation to hereditaments in Wales, the Welsh Ministers.
+
+(2) For the purposes of this Act, an expression in the first column of the Table is defined or otherwise explained by the provision of this Act, or of the 1988 Act, the 1999 Act or the 2003 Act, specified in the second column.
+
+| *Expression* | *Provision* |
+| --- | --- |
+| BID levy | Section 41(2) of the 2003 Act |
+| Billing authority | Section 144(2) of the 1988 Act |
+| BRS | Section 1(1) |
+| Chargeable amount | Section 13 |
+| Chargeable day | Section 11(5) |
+| Chargeable period | Section 11(6) |
+| Final prospectus | Section 4 |
+| Financial year | Section 145(3) of the 1988 Act |
+| Financial year, imposition of BRS for | Section 11(8) |
+| Functional body | Section 424 of the 1999 Act |
+| Hereditament | Section 64 of the 1988 Act |
+| Initial prospectus | Section 4 |
+| Levying authority | Section 2(1) |
+| Local non-domestic rating list | Section 41(1) or 41ZA(1)[^key-328cbe2a0a6ef4c70cc393eb7d523608] of the 1988 Act |
+| Lower-tier authority | Section 3(8) |
+| Rateable value | Section 12(9) |
+| Section 45 ratepayer | Section 11(3) |
+| Sums collected by a billing authority in respect of a BRS | Section 22(7) |
+| Sums received by a functional body in respect of a BRS | Section 3(10) |
+| Sums received by a levying authority in respect of a BRS | Section 3(6) |
+| The 1988 Act | Section 1(4) |
+
+(3) In subsection (2)—
+
+- “**the 1999 Act**” means the Greater London Authority Act 1999 (c. 29), and
+- “**the 2003 Act**” means the Local Government Act 2003 (c. 26).
+
+### 31. Crown application
+
+This Act binds the Crown.
+
+### 32. Commencement, extent and short title
+
+(1) Sections 28 to 31 and this section come into force on the day on which this Act is passed.
+
+(2) The remaining provisions of this Act come into force in accordance with such provision as the appropriate national authority may make by order.
+
+(3) This Act extends to England and Wales only.
+
+(4) This Act may be cited as the Business Rate Supplements Act 2009.
+
+SCHEDULES
+
+## SCHEDULE 1 — Information to be included in a prospectus for a BRS
+
+Section 5
+
+### The project
+
+**1.**[^key-e4b267f8e11f010204a1d5990094111c] A description of the work to be undertaken in carrying out the project to which the BRS relates.
+
+**2.**[^key-1b92f9066eec4e9f1c492cd6a653a53c] A description of any work already undertaken in carrying out the project.
+
+**3.**[^key-5f0636adb0b8de3abc3d6fa6be68a780] A description of any work undertaken by or on behalf of the levying authority to assess the feasibility of the project, and an explanation of the conclusions that the authority draws from that work.
+
+**4.**[^key-8e46f0f4bc0baf1c7e1342b899d124d7] The authority's estimate of the total cost of the project.
+
+**5.**[^key-956576426d4453571b83954ffd6a74fa] The authority's assessment of—
+
+- (a) the likely impact of the imposition of the BRS on businesses in the authority's area;
+- (b) the likely benefits of the project for its area (including in terms of economic development);
+- (c) the relationship between the information given under paragraph (a) and the information given under paragraph (b).
+
+**6.**[^key-78ecc3580f55561d8676902cd4867040] If planning permission or any other consent is required for an aspect of the project, information about—
+
+- (a) whether the consent has been given, and
+- (b) if it has, when it was given and how a copy of it (and of the application for it) can be obtained.
+
+**7.**[^key-0c28006ab42e9e550a3887f5c990254c] A description of the expenditure for which the sums the authority receives in respect of the BRS are going to be used (and, if they are going to be used for only certain aspects of a project, a description of those aspects), and the authority's assessment of the impact of that expenditure on the project.
+
+**8.**[^key-a488eb062f829cadc91495891ed91be8] If some or all of the sums the authority receives in respect of the BRS are going to be used to make payments in respect of money loaned for the purpose of providing funding for the project, information about—
+
+- (a) the amount of money loaned,
+- (b) the period for which it is loaned,
+- (c) the other principal terms on which it is loaned (in particular, the rates of interest),
+- (d) the consequences of making payments in respect of the loan earlier than they are required to be made, and
+- (e) the arrangements that the authority would make if it thought that it was necessary for the amount of money loaned to be increased or the period for which it is loaned to be extended.
+
+**9.**[^key-918929e97007619ea64b74056a19b4c8] An explanation of any arrangements that are going to be made under section 3(5), including in particular—
+
+- (a) a statement as to which functional body or bodies the arrangements are going to involve, and
+- (b) a description of the expenditure for which sums that the functional body receives in respect of the BRS are going to be used.
+
+**10.**[^key-8627f4b61781371c6598cbc25d2cf00a] An explanation of how the authority expects to discharge the duty under section 3(1) by reference to the expenditure described for the purposes of paragraphs 7 to 9.
+
+**11.**[^key-52dd166f0e99f6ce85ca23c453d462b2] The authority's policy for providing those liable to pay chargeable amounts with information about expenditure incurred and work undertaken on the project (including, in particular, an explanation of how and when such information is to be provided).
+
+### The amount of the BRS
+
+**12.**[^key-bf3204b4c12cb7fff348873e38a699b3] The amount the authority expects to raise from the imposition of the BRS (and, where the BRS is to be imposed for more than one financial year, the amount the authority expects to raise for each financial year).
+
+**13.**[^key-f9c843b08e319bfbc54e66fef6048dbf] The amount of the multiplier for each financial year for which the BRS is to be imposed.
+
+### Liability to the BRS
+
+**14.**[^key-600162897f9b7b3afea46686fc47a8ed] The authority's policy on whether section 45 ratepayers are to be liable to the BRS.
+
+**15.**[^key-211548b7817466babfd193a1d56441e1] The date on which the chargeable period is to begin, and its duration.
+
+**16.**[^key-28b3dc00ba5d788ccb03e8495b04c50e] An explanation of the rules for the application of the reliefs (if any) to be applied in relation to the BRS under section 15.
+
+**17.**[^key-22e7540bf2691fb411f8aba9cdc13eb0] An explanation of the rules for cases within section 16(1) (interaction with BID levy and BRS-BID levy).
+
+**18.**[^key-7d8b69cd9d6d54492dd7cd2addc699b6] An explanation of the arrangements for the collection of sums due in respect of the BRS (in particular, as to timing and how the arrangements compare with those for the collection of non-domestic rates).
+
+### Ballot on the imposition of the BRS
+
+**19.**[^key-81b57afe27cad5833e58334d07b4471c] In an initial prospectus, a statement that there is to be a ballot on the imposition of the BRS.
+
+**20.**[^M_F_a35c7eeb-5880-4cfa-af9a-26bbb088faac] In a final prospectus—
+
+- (a) a statement that a ballot has been held on the imposition of the BRS;
+- (b) the results of the ballot, including in particular—
+  - (i) the total number of votes cast,
+  - (ii) the number of persons who voted in favour of the imposition of the BRS,
+  - (iii) the number of persons who voted against its imposition,
+  - (iv) the aggregate of the rateable values of each hereditament in respect of which a person voted in the ballot,
+  - (v) the aggregate of the rateable values of each hereditament in respect of which a person voted in favour of the imposition of the BRS, and
+  - (vi) the aggregate of the rateable values of each hereditament in respect of which a person voted against its imposition.
+
+### Variations and contingencies
+
+**21.**[^key-d1f7dd0c9f5bb1b18d082dcba977aff1] The authority's policy for deciding whether and to what extent—
+
+- (a) to vary the amount of the multiplier;
+- (b) to vary the length of the chargeable period;
+- (c) to make other variations to the BRS.
+
+**22.**[^key-f28877ff4ecf71c9197ca2c740185417] The authority's policy for publicising such variations before they take effect.
+
+**23.**[^key-a6d98ad0aa4015de713a39a2c776aec4] The authority's policy for a case where it thinks that the project is likely to—
+
+- (a) cost more than the authority was expecting;
+- (b) take more time to complete than the authority was expecting;
+- (c) cost less than the authority was expecting;
+- (d) take less time to complete than the authority was expecting.
+
+## SCHEDULE 2 — BRS-BID arrangements[^key-010969d613396c264fd47987470fde58]
+
+Section 16
+
+### Preliminary
+
+**1.**[^key-315f66febcf55831dfc35b2f6045c30f][^key-b2bc64ad5adb0b4e12b91594057a4f61][^key-010969d613396c264fd47987470fde58] (1) This Schedule applies in the following four cases.
+
+(2) The first case is where—
+
+- (a) a levying authority whose area is in England imposes a BRS, and
+- (b) at the time of the imposition, all or part of the authority's area is comprised in a business improvement district.
+
+(3) The second case is where—
+
+- (a) a levying authority whose area is in England may impose a BRS (the conditions in section 4 having been satisfied), and
+- (b) all or part of the authority's area is comprised in a business improvement district.
+
+(4) The third case is where—
+
+- (a) a billing authority whose area is in England makes BID arrangements, and
+- (b) the business improvement district in respect of which the arrangements are made comprises all or part of an area in which a BRS has been imposed (and the imposition has not come to an end).
+
+(5) The fourth case is where—
+
+- (a) a billing authority whose area is in England makes BID arrangements, and
+- (b) the business improvement district in respect of which the arrangements are made comprises all or part of an area in which a BRS may be imposed (the conditions in section 4 having been satisfied).
+
+### Arrangements
+
+**2.**[^key-5bc20c1ff32e365a1f62830caa041cb8][^key-bd6fbfaca2beac7f2ada11e06ddb6f5b][^key-010969d613396c264fd47987470fde58] (1) The billing authority may make arrangements under this Schedule (“BRS-BID arrangements”) in respect of the business improvement district.
+
+(2) For that purpose, it does not matter whether the BID arrangements in respect of the district are yet in force.
+
+(3) The purpose of BRS-BID arrangements is to enable—
+
+- (a) the projects specified in the arrangements to be carried out for the benefit of the district or those who live, work or carry on an activity in the district, and
+- (b) those projects to be financed (in whole or in part) by a levy (“BRS-BID levy”) imposed on persons who have a relevant property interest.
+
+(4) A project specified in BRS-BID arrangements need not be a project that is specified in the BID arrangements.
+
+(5) Where a project specified in BRS-BID arrangements is a project that is specified in the BID arrangements, the ways in which the project may be financed by BRS-BID levy include offsetting the amount of a liability for BRS-BID levy against the amount of a liability for BID levy.
+
+(6) A person has a relevant property interest if the person has an interest of a prescribed description in a hereditament that is—
+
+- (a) situated in the district, and
+- (b) shown in the local non-domestic rating list maintained for the billing authority.
+
+(7) “**Prescribed**” means prescribed by regulations; but the regulations may prescribe only freehold, leasehold or commonhold interests.
+
+### BRS-BID levy
+
+**3.**[^key-36d3a8cebcc98ad204248af2ea335d44][^key-cebc02760d2c52d9ee9a2083e3742160][^key-010969d613396c264fd47987470fde58][^key-6a3db26ecb6a6c4c850fc7fa99a8f2d6][^key-92cecd52baaff752c7a1cf7dcee87630] (1) BRS-BID levy may be imposed only for periods falling within—
+
+- (a) the chargeable period of the BRS, and
+- (b) the period in which the BID arrangements are in force.
+
+(2) The length of a period for which BRS-BID levy is imposed, and the day on which it begins, are to be such as may be specified in the BRS-BID arrangements.
+
+(3) The amount of BRS-BID levy for such period—
+
+- (a) is to be calculated in such manner as may be provided in the BRS-BID arrangements, and
+- (b) may be different for different cases.
+
+(4) Regulations may make provision as to the manner in which the amount of BRS-BID levy is to be calculated; and sub-paragraph (3)(a) accordingly has effect subject to such provision.
+
+### Liability for BRS-BID levy
+
+**4.**[^key-f7596afff531c71a617e401bfff6f242][^key-913c0dab8b2109aa45a4c89462ea8144][^key-010969d613396c264fd47987470fde58][^key-6a3db26ecb6a6c4c850fc7fa99a8f2d6][^key-92cecd52baaff752c7a1cf7dcee87630] (1) BRS-BID arrangements must specify the description of persons who are to be liable for BRS-BID levy for the period for which the levy is imposed.
+
+(2) A person is to be liable for BRS-BID levy for that period if the person comes within that description at any time within that period.
+
+(3) Amounts paid to the authority by way of BRS-BID levy must be credited to the revenue account kept by the authority under section 47(1) of the 2003 Act for the purposes of the BID arrangements.
+
+(4) Regulations may provide that a person who would, but for this sub-paragraph, be liable to pay each of the BRS, BID levy and BRS-BID levy in respect of the same hereditament is instead to be liable to pay only—
+
+- (a) the BRS, and
+- (b) either BID levy or BRS-BID levy.
+
+(5) Regulations may make provision for securing that a tenant of a hereditament is not required by reference to the tenancy to make payments the effect of which would be to reimburse the landlord to any extent for amounts payable by the landlord by way of BRS-BID levy.
+
+### Approval in ballot
+
+**5.**[^key-a748b62b9d1bc3df21e1087bc206dc32][^key-d1e39e8375cedf4e1943909521d5d40e][^key-010969d613396c264fd47987470fde58] (1) BRS-BID arrangements are not to come into force unless proposals for the arrangements (“BRS-BID proposals”) are approved by a ballot of those who are to be liable for the proposed BRS-BID levy.
+
+(2) BRS-BID proposals are not to be regarded as approved by a ballot held for the purposes of sub-paragraph (1) unless the following two conditions are satisfied.
+
+(3) The first condition is that a majority of persons voting in the ballot have voted in favour of the proposals.
+
+(4) The second condition is that A exceeds B.
+
+(5) “A” is such amount as is calculated by reference to rateable value in the manner prescribed in regulations and is attributable to persons who voted in favour of the proposals.
+
+(6) “B” is such amount as is calculated by reference to rateable value in the manner prescribed in regulations and is attributable to persons who voted against the proposals.
+
+(7) Regulations making provision for the purposes of sub-paragraphs (5) and (6) may, in particular, provide for the amounts in question to be calculated by aggregating the rateable values of each hereditament in respect of which a person voted in the ballot.
+
+(8) Sub-paragraphs (1) and (2) are subject to provision made in regulations under paragraph 10(1)(g).
+
+### Combination with ballot on BID proposals, etc.
+
+**6.**[^key-564f09cda6b64192dc223b7f82622234][^key-21db00870901dc64033b0d9422f2f7c3][^key-010969d613396c264fd47987470fde58] (1) Regulations under paragraph 10(1)(g) may, in particular, provide for a ballot on BRS-BID proposals—
+
+- (a) to be combined with a BID ballot;
+- (b) to be held at the same time as (but not to be combined with) a BID ballot;
+- (c) to be held within such period from the date of a BID ballot as the regulations may prescribe.
+
+(2) Regulations making provision for a case within sub-paragraph (1)(a) may provide for one or other of the following—
+
+- (a) for the BRS-BID proposals to be regarded as approved if conditions prescribed by the regulations are satisfied in relation to them;
+- (b) for the proposals to be regarded as approved only if conditions so prescribed are satisfied in relation to them and conditions so prescribed are satisfied in relation to the matter on which the BID ballot is held.
+
+(3) Provision by virtue of sub-paragraph (2) may authorise the person entitled to draw up the BRS-BID proposals to decide which of paragraphs (a) and (b) of that sub-paragraph is to provide the basis for the assessment of whether the proposals may be regarded as approved.
+
+(4) A condition prescribed for the purposes of sub-paragraph (2) may, in particular, involve weighting a person's vote by reference to the extent of the person's liability to BID levy or BRS-BID levy.
+
+(5) A “BID ballot” is a ballot held for the purposes of section 49 or 54 of the 2003 Act in relation to the BID.
+
+(6) Nothing in this paragraph is to be taken as limiting the power conferred by paragraph 10(1)(g).
+
+### Veto
+
+**7.**[^key-44d78d4f6778e373d784bde6377a6d08][^key-7a9150c8c8487699d6f81e572aef3b39][^key-010969d613396c264fd47987470fde58] (1) This paragraph applies where BRS-BID proposals are approved by a ballot held for the purposes of paragraph 5(1).
+
+(2) The billing authority may, in such circumstances as regulations may prescribe, veto the proposals within such period from the date of the ballot as the regulations prescribe.
+
+(3) In deciding whether to exercise the veto, the billing authority must have regard to such matters as the regulations prescribe.
+
+### Information
+
+**8.**[^key-3cc92a723ec071783ebd5b09ed75fa75][^key-552c4d18a2dd839202d683d6442c9a5a][^key-010969d613396c264fd47987470fde58] (1) Regulations may authorise the disclosure of information to a billing authority so as to enable it to identify persons who, as regards a hereditament of the description given in paragraph 2(6), have an interest of a description prescribed for the purposes of that paragraph.
+
+(2) Regulations may for the purposes of this Schedule confer on a billing authority such power as an acquiring authority has under section 5A of the Acquisition of Land Act 1981 (c. 67) (power to require information); and for that purpose the regulations may apply (with or without modifications)—
+
+- (a) that section;
+- (b) section 5B of that Act (offence);
+- (c) paragraphs 5A to 5E of Schedule 9 to the 1988 Act (civil penalty);
+- (d) provision made by virtue of paragraph 5F of that Schedule.
+
+(3) Provision by virtue of sub-paragraph (2) may not modify a provision so as to impose a penalty greater than that imposed by the provision being modified.
+
+(4) A billing authority—
+
+- (a) may not use information provided to it by virtue of this paragraph except in so far as is necessary for the purposes of this Schedule, and
+- (b) may not disclose the information (except in accordance with an enactment, in pursuance of an order of a court or with the consent of any person to whom the information relates).
+
+### Application of Part 4 of the Local Government Act 2003
+
+**9.**[^key-39816409cffac0dd2213c482b4b8d886][^key-2437f79cbf64c56f0e1ddb9eaa714e6b][^key-010969d613396c264fd47987470fde58] (1) The following provisions of the 2003 Act apply to BRS-BID arrangements, BRS-BID levy and BRS-BID proposals as they apply to BID arrangements, BID levy and BID proposals—
+
+- (a) section 43 (additional contributions and action);
+- (b) section 44 (duty to comply with arrangements);
+- (c) section 46(3) and (4) (liability);
+- (d) section 51(4) to (6) (veto);
+- (e) section 52(1) (appeal against veto);
+- (f) section 53 (commencement);
+- (g) section 54(1) to (3) (duration).
+
+(2) For the purposes of sub-paragraph (1)—
+
+- (a) a reference to a chargeable period in relation to BID levy is to be read as a reference to a period for which BRS-BID levy is to be imposed;
+- (b) a reference to a ballot for the purposes of section 49 of the 2003 Act is to be read as a reference to a ballot for the purposes of paragraph 5;
+- (c) a reference to the two conditions in section 50 of the 2003 Act is to be read as a reference to the two conditions in paragraph 5;
+- (d) a reference to a veto under section 51 of the 2003 Act is to be read as a reference to a veto under paragraph 7;
+- (e) a reference to an appeal under section 52 of the 2003 Act is to be read as a reference to an appeal by virtue of sub-paragraph (1)(e);
+- (f) a reference to non-domestic ratepayers liable to a proposed BID levy is to be read as a reference to persons liable to a proposed BRS-BID levy.
+
+(3) Section 47(3) of the 2003 Act (revenue account) applies as if after “BID arrangements” there were inserted “ or BRS-BID arrangements ”.
+
+### Regulations
+
+**10.**[^key-8fd3277f43994e8ba8f1280ea1c38c6a][^key-5e5d3310aa013416b20a62879d98c169][^key-010969d613396c264fd47987470fde58] (1) Regulations may make such provision for the purposes of this Schedule as may be made in regulations under any of the following provisions of the 2003 Act—
+
+- (a) section 42 (joint arrangements);
+- (b) section 47 (revenue account);
+- (c) section 48 (administration);
+- (d) section 49 (proposals);
+- (e) section 52 (appeal against veto);
+- (f) section 54 (duration);
+- (g) section 55 (ballots).
+
+(2) Regulations under this paragraph may amend, or apply (with or without modifications), a provision of regulations made under—
+
+- (a) the relevant provision of the 2003 Act referred to in sub-paragraph (1);
+- (b) section 56 of that Act (further provision).
+
+### Interpretation
+
+**11.**[^key-d8d4674fc3dd0602476754c51c7e5292][^key-cafde8220a51f27eee1500237fee6206][^key-010969d613396c264fd47987470fde58] In this Schedule—
+
+- “**the 2003 Act**” means the Local Government Act 2003 (c. 26);
+- “business improvement district”, “BID arrangements” and “BID proposals” each have the meaning given in Part 4 of the 2003 Act.
+
+## SCHEDULE 3 — Accounting
+
+Section 23
+
+### Revenue accounts
+
+**1.**[^key-c2c18731a46909b32ab89835e27f7520] (1) A levying authority that imposes a BRS—
+
+- (a) must, in accordance with proper practices, keep a revenue account that is solely for that BRS, and
+- (b) must secure that such sums as the authority receives in respect of the BRS are credited to that account.
+
+(2) A functional body with whom the Greater London Authority makes arrangements under section 3(5)—
+
+- (a) must, in accordance with proper practices, keep a revenue account that is solely for the BRS to which the arrangements relate, and
+- (b) must secure that such sums as the body receives in respect of the BRS are credited to that account.
+
+(3) In a case where two or more levying authorities are acting jointly by virtue of section 2, each authority must comply separately with the duties imposed by sub-paragraph (1).
+
+### Collection funds
+
+**2.**[^key-fbb0e46a17402ea2cf2a5d4203c360d6] (1) Regulations may make provision—
+
+- (a) for sums collected in respect of a BRS by a billing authority which is a levying authority to be transferred from its collection fund to its revenue account for the BRS;
+- (b) for sums collected in respect of a BRS by a billing authority which is not a levying authority to be transferred from the billing authority's collection fund to the levying authority's revenue account for the BRS.
+
+(2) Regulations under this paragraph—
+
+- (a) may include such provision for the purposes of this Act as may be included in regulations under section 89 or 99 of the 1988 Act (funds) for the purposes of that Act;
+- (b) may amend, or apply (with or without modifications), any provision of regulations made under either of those sections;
+- (c) are to have effect subject to such provision (if any) as is made by virtue of section 22(1).
+
+### Refunds and credits
+
+**3.**[^key-fdd6cf8bf8c23b8e9185611e43b8c4b0] (1) Regulations may provide for refunds or credits to be given in a case where—
+
+- (a) the imposition of a BRS has come to an end, and
+- (b) the levying authority's, or a functional body's, revenue account for the BRS is in credit.
+
+(2) The regulations may, in particular—
+
+- (a) if the levying authority is not a billing authority, require it to transfer the sum standing to the credit of its revenue account in equal proportions to each billing authority which is a lower-tier authority in relation to it;
+- (b) if the levying authority is a billing authority, authorise it to use a prescribed proportion of the sum standing to the credit of its revenue account to meet administrative expenses;
+- (c) authorise a billing authority which is a lower-tier authority in relation to the levying authority to use a prescribed proportion of the sum it receives by virtue of paragraph (a) to meet administrative expenses;
+- (d) require a functional body to transfer the sum standing to the credit of its revenue account to the levying authority's revenue account.
+
+(3) In this paragraph, “**administrative expenses**”, in relation to an authority, are expenses it incurs in giving a credit or refund by virtue of this paragraph.
+
+### Supplementary
+
+**4.**[^key-9cce9574174af75bbe37c375b2a99117] (1) In section 90 of the 1988 Act (payments to and from collection fund)—
+
+- (a) in subsection (1), after paragraph (c) insert—
+
+  > - (ca) sums received by the authority in respect of any business rate supplement,
+
+  ,
+- (b) after that subsection insert—
+
+  > (1A) The reference in subsection (1)(ca) to sums received by a billing authority in respect of business rate supplements—
+  >
+  > - (a) includes a reference to financial contributions made to it for the purpose of enabling the project to which a business rate supplement relates to be carried out, but
+  > - (b) does not include a reference to sums returned or transferred to it by virtue of section 24(3)(b) of, or paragraph 3(2)(a) of Schedule 3 to, the Business Rate Supplements Act 2009.
+
+  , and
+- (c) in subsection (2), after paragraph (b) insert—
+
+  > - (ba) payments to be made by the authority to a levying authority in accordance with provision made by or under the Business Rate Supplements Act 2009,
+
+  .
+
+(2) The reference in section 22(2) to section 90 of the 1988 Act includes the amendments made to that section by sub-paragraph (1) of this paragraph.
+
+### Further provision
+
+**5.**[^key-6c9cd3cf9b8b4c7a4e4902c7845eec8e] Regulations may make further provision in relation to revenue accounts for BRSs.
+
+## Annotations
+
+[^key-8cf9e7fcbb2eeb9e31f043581f00c4f9]: Modification: Act applied (with modifications) (19.7.2018) by [The Cambridgeshire and Peterborough Combined Authority (Business Rate Supplements Functions) Order 2018 (S.I. 2018/877)](https://www.legislation.gov.uk/uksi/2018/877), [arts. 1](https://www.legislation.gov.uk/uksi/2018/877/article/1), [5](https://www.legislation.gov.uk/uksi/2018/877/article/5)
+
+[^key-6b1ec29ebf93e02e4cae40ce1057acfb]: Modification: Act applied (with modifications) (19.7.2018) by [The West of England Combined Authority (Business Rate Supplements Functions) Order 2018 (S.I. 2018/879)](https://www.legislation.gov.uk/uksi/2018/879), [arts. 1](https://www.legislation.gov.uk/uksi/2018/879/article/1), [5](https://www.legislation.gov.uk/uksi/2018/879/article/5)
+
+[^key-7ae0b67ed30ce818108b507c1a6b5a87]: Modification: Act applied (with modifications) (19.7.2018) by [The Liverpool City Region Combined Authority (Business Rate Supplements Functions) Order 2018 (S.I. 2018/878)](https://www.legislation.gov.uk/uksi/2018/878), [arts. 1](https://www.legislation.gov.uk/uksi/2018/878/article/1), [5](https://www.legislation.gov.uk/uksi/2018/878/article/5)
+
+[^key-7c62611cc168f487c42cd78debba4a48]: Modification: Act applied (with modifications) (19.7.2018) by [The West Midlands Combined Authority (Business Rate Supplements Functions and Amendment) Order 2018 (S.I. 2018/880)](https://www.legislation.gov.uk/uksi/2018/880), [arts. 1](https://www.legislation.gov.uk/uksi/2018/880/article/1), [5](https://www.legislation.gov.uk/uksi/2018/880/article/5)
+
+[^key-76bdb0a20e2a5806e5f68967121161ea]: Modification: Act: functions made exercisable (30.1.2021) by [The West Yorkshire Combined Authority (Election of Mayor and Functions) Order 2021 (S.I. 2021/112)](https://www.legislation.gov.uk/uksi/2021/112), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/112/article/1), [31-33](https://www.legislation.gov.uk/uksi/2021/112/article/31)
+
+[^key-b761212f25cb0b043dd1c9a238726199]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2009/7) applied (with modifications) (20.12.2023) by [The York and North Yorkshire Combined Authority Order 2023 (S.I. 2023/1432)](https://www.legislation.gov.uk/uksi/2023/1432), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2), [31](https://www.legislation.gov.uk/uksi/2023/1432/article/31)
+
+[^key-89f54473a3557ec6c8b82dde514aea17]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2009/7): functions made exercisable (20.12.2023) by [The York and North Yorkshire Combined Authority Order 2023 (S.I. 2023/1432)](https://www.legislation.gov.uk/uksi/2023/1432), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2), [30](https://www.legislation.gov.uk/uksi/2023/1432/article/30)
+
+[^key-860ffa9f49159e41c51d87dd7262f9b1]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2009/7) applied (with modifications) (28.2.2024) by [The East Midlands Combined County Authority Regulations 2024 (S.I. 2024/232)](https://www.legislation.gov.uk/uksi/2024/232), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/232/regulation/1/2), [30](https://www.legislation.gov.uk/uksi/2024/232/regulation/30)
+
+[^key-5529c7cad7b9c11cf151761410514d2c]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2009/7) applied (with modifications) (7.5.2024) by [The North East Mayoral Combined Authority (Establishment and Functions) Order 2024 (S.I. 2024/402)](https://www.legislation.gov.uk/uksi/2024/402), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2024/402/article/1/3), [46](https://www.legislation.gov.uk/uksi/2024/402/article/46) (with [art. 9](https://www.legislation.gov.uk/uksi/2024/402/article/9))
+
+[^key-b44bb702a1267ddd91a3831694ceb2df]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2009/7): functions made exercisable (7.5.2024) by [The York and North Yorkshire Combined Authority Order 2023 (S.I. 2023/1432)](https://www.legislation.gov.uk/uksi/2023/1432), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/3), [27(1)-(3)](https://www.legislation.gov.uk/uksi/2023/1432/article/27/1) (with [art. 27(5)](https://www.legislation.gov.uk/uksi/2023/1432/article/27/5))
+
+[^key-078cd4dfca78f569f0cdd01ba39895b7]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2009/7) applied (with modifications) (5.2.2025) by [The Greater Lincolnshire Combined County Authority Regulations 2025 (S.I. 2025/117)](https://www.legislation.gov.uk/uksi/2025/117), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/117/regulation/1/2), [27](https://www.legislation.gov.uk/uksi/2025/117/regulation/27)
+
+[^key-40cde08b36f42d1716155c8b5878723a]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2009/7) applied (with modifications) (5.2.2025) by [The Hull and East Yorkshire Combined Authority Order 2025 (S.I. 2025/113)](https://www.legislation.gov.uk/uksi/2025/113), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/113/article/1/2), [25](https://www.legislation.gov.uk/uksi/2025/113/article/25)
+
+[^key-99478853ee27c66ef7dd90c3fcc8c690]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2009/7/section/1) in force at 19.8.2009 for E. by [S.I. 2009/2202](https://www.legislation.gov.uk/uksi/2009/2202), [art. 2](https://www.legislation.gov.uk/uksi/2009/2202/article/2)
+
+[^key-45158372f3912415f2f34bc9a1d217c9]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2009/7/section/2) in force at 19.8.2009 for E. by [S.I. 2009/2202](https://www.legislation.gov.uk/uksi/2009/2202), [art. 2](https://www.legislation.gov.uk/uksi/2009/2202/article/2)
+
+[^key-015648aa4b3c3638e830c39cc4574a76]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2009/7/section/3) in force at 19.8.2009 for E. by [S.I. 2009/2202](https://www.legislation.gov.uk/uksi/2009/2202), [art. 2](https://www.legislation.gov.uk/uksi/2009/2202/article/2)
+
+[^key-a34ee2af0072f0155100fd708af4a2e6]: Commencement: S. 4 in force at 19.8.2009 for E. by [S.I. 2009/2202](https://www.legislation.gov.uk/uksi/2009/2202), [art. 2](https://www.legislation.gov.uk/uksi/2009/2202/article/2)
+
+[^key-87400c071983a74735aedb6304b033a9]: Textual amendment: Words in [s. 4(c)](https://www.legislation.gov.uk/ukpga/2009/7/section/4/c) substituted (15.1.2012 for E.) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss.](https://www.legislation.gov.uk/ukpga/2011/20/section), [68(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/68/2), [240(3)(c)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/3/c) (with [s. 68(7)](https://www.legislation.gov.uk/ukpga/2011/20/section/68/7)); [S.I. 2012/57](https://www.legislation.gov.uk/uksi/2012/57), [art. 3(a)](https://www.legislation.gov.uk/uksi/2012/57/article/3/a)
+
+[^key-0e2e3ed3b5550cb091762f9e1c984214]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2009/7/section/5) in force at 19.8.2009 for E. by [S.I. 2009/2202](https://www.legislation.gov.uk/uksi/2009/2202), [art. 2](https://www.legislation.gov.uk/uksi/2009/2202/article/2)
+
+[^key-bef0412bd2cfd55909e03de6502d56c2]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2009/7/section/6) in force at 19.8.2009 for E. by [S.I. 2009/2202](https://www.legislation.gov.uk/uksi/2009/2202), [art. 2](https://www.legislation.gov.uk/uksi/2009/2202/article/2)
+
+[^key-5138921f1435b7ffab59ee512f648ab2]: Commencement: S. 7 in force at 19.8.2009 for E. by [S.I. 2009/2202](https://www.legislation.gov.uk/uksi/2009/2202), [art. 2](https://www.legislation.gov.uk/uksi/2009/2202/article/2)
+
+[^key-67ab07645e374cd53373473e97ed306b]: Textual amendment: [S. 7(1)](https://www.legislation.gov.uk/ukpga/2009/7/section/7/1)[(2)](https://www.legislation.gov.uk/ukpga/2009/7/section/7/2) repealed (15.1.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss.](https://www.legislation.gov.uk/ukpga/2011/20/section), [68(3)](https://www.legislation.gov.uk/ukpga/2011/20/section/68/3), [240(3)(c)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/3/c), [Sch. 25 Pt. 9](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/9) (with [s. 68(7)](https://www.legislation.gov.uk/ukpga/2011/20/section/68/7)); [S.I. 2012/57](https://www.legislation.gov.uk/uksi/2012/57), [arts. 3(a)(c)](https://www.legislation.gov.uk/uksi/2012/57/article/3/a/c), [4(1)(ee)(ii)](https://www.legislation.gov.uk/uksi/2012/57/article/4/1/ee/ii)
+
+[^key-50ac7ff15ce5d5e40c1c800928ff52ff]: Textual amendment: [S. 7(5)](https://www.legislation.gov.uk/ukpga/2009/7/section/7/5) repealed (15.1.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss.](https://www.legislation.gov.uk/ukpga/2011/20/section), [68(3)](https://www.legislation.gov.uk/ukpga/2011/20/section/68/3), [240(3)(c)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/3/c), [Sch. 25 Pt. 9](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/9) (with [s. 68(7)](https://www.legislation.gov.uk/ukpga/2011/20/section/68/7)); [S.I. 2012/57](https://www.legislation.gov.uk/uksi/2012/57), [arts. 3(a)(c)](https://www.legislation.gov.uk/uksi/2012/57/article/3/a/c), [4(1)(ee)(ii)](https://www.legislation.gov.uk/uksi/2012/57/article/4/1/ee/ii)
+
+[^key-2e1f329885837d965e1802ed828060c0]: Commencement: S. 8 in force at 19.8.2009 for E. by [S.I. 2009/2202](https://www.legislation.gov.uk/uksi/2009/2202), [art. 2](https://www.legislation.gov.uk/uksi/2009/2202/article/2)
+
+[^key-be171c734d9fdf0cfa642fe0d0d3e144]: Textual amendment: Words in [s. 8(1)](https://www.legislation.gov.uk/ukpga/2009/7/section/8/1) substituted (15.1.2012 for E.) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss.](https://www.legislation.gov.uk/ukpga/2011/20/section), [68(4)](https://www.legislation.gov.uk/ukpga/2011/20/section/68/4), [240(3)(c)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/3/c) (with [s. 68(7)](https://www.legislation.gov.uk/ukpga/2011/20/section/68/7)); [S.I. 2012/57](https://www.legislation.gov.uk/uksi/2012/57), [art. 3(a)](https://www.legislation.gov.uk/uksi/2012/57/article/3/a)
+
+[^key-6e64c08645a7682726e4e47798774839]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2009/7/section/9) in force at 19.8.2009 for E. by [S.I. 2009/2202](https://www.legislation.gov.uk/uksi/2009/2202), [art. 2](https://www.legislation.gov.uk/uksi/2009/2202/article/2)
+
+[^key-912c17b69d00f15f6fbe48ae60946a4e]: Commencement: S. 10 in force at 19.8.2009 for E. by [S.I. 2009/2202](https://www.legislation.gov.uk/uksi/2009/2202), [art. 2](https://www.legislation.gov.uk/uksi/2009/2202/article/2)
+
+[^key-bbd63faac8bb10a3ecfbcae52e63804f]: Textual amendment: Words in [s. 10(2)(c)](https://www.legislation.gov.uk/ukpga/2009/7/section/10/2/c) repealed (15.1.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss.](https://www.legislation.gov.uk/ukpga/2011/20/section), [68(5)(a)](https://www.legislation.gov.uk/ukpga/2011/20/section/68/5/a), [240(3)(c)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/3/c), [Sch. 25 Pt. 9](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/9) (with [s. 68(7)](https://www.legislation.gov.uk/ukpga/2011/20/section/68/7)); [S.I. 2012/57](https://www.legislation.gov.uk/uksi/2012/57), [arts. 3(a)(c)](https://www.legislation.gov.uk/uksi/2012/57/article/3/a/c), [4(1)(ee)(ii)](https://www.legislation.gov.uk/uksi/2012/57/article/4/1/ee/ii)
+
+[^key-cbea1a6df4542ed7486cd6ac5cb8b43c]: Textual amendment: [S. 10(7)-(9)](https://www.legislation.gov.uk/ukpga/2009/7/section/10/7) repealed (15.1.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss.](https://www.legislation.gov.uk/ukpga/2011/20/section), [68(5)(b)](https://www.legislation.gov.uk/ukpga/2011/20/section/68/5/b), [240(3)(c)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/3/c), [Sch. 25 Pt. 9](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/9) (with [s. 68(7)](https://www.legislation.gov.uk/ukpga/2011/20/section/68/7)); [S.I. 2012/57](https://www.legislation.gov.uk/uksi/2012/57), [arts. 3(a)(c)](https://www.legislation.gov.uk/uksi/2012/57/article/3/a/c), [4(1)(ee)(ii)](https://www.legislation.gov.uk/uksi/2012/57/article/4/1/ee/ii)
+
+[^key-286dac76752e8c8e4ea0176f491ba692]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2009/7/section/11) in force at 19.8.2009 for E. by [S.I. 2009/2202](https://www.legislation.gov.uk/uksi/2009/2202), [art. 2](https://www.legislation.gov.uk/uksi/2009/2202/article/2)
+
+[^key-298db8447c54594a7b2264989e8bb88c]: Textual amendment: Words in [s. 11(3)(a)](https://www.legislation.gov.uk/ukpga/2009/7/section/11/3/a) substituted (1.4.2024 with effect in relation to financial years beginning on or after that date) by [Non-Domestic Rating Act 2023 (c. 53)](https://www.legislation.gov.uk/ukpga/2023/53), [s. 19(2)(b)](https://www.legislation.gov.uk/ukpga/2023/53/section/19/2/b), [Sch. para. 13(2)](https://www.legislation.gov.uk/ukpga/2023/53/schedule/paragraph/13/2)
+
+[^key-b864f6db49b87e9cf839667717d22930]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2009/7/section/12) in force at 19.8.2009 for E. by [S.I. 2009/2202](https://www.legislation.gov.uk/uksi/2009/2202), [art. 2](https://www.legislation.gov.uk/uksi/2009/2202/article/2)
+
+[^key-32d36f0e41ee45e39468453d00907797]: Textual amendment: Words in [s. 12(5)](https://www.legislation.gov.uk/ukpga/2009/7/section/12/5) substituted (1.4.2024 with effect in relation to financial years beginning on or after that date) by virtue of [Non Domestic Rating Act 2023 (c. 53)](https://www.legislation.gov.uk/ukpga/2023/53), [s. 19(2)(b)](https://www.legislation.gov.uk/ukpga/2023/53/section/19/2/b), [Sch. para. 13(3)(a)](https://www.legislation.gov.uk/ukpga/2023/53/schedule/paragraph/13/3/a)
+
+[^key-a4942ffe2dd8db854148cf16f8af391b]: Textual amendment: [S. 12(9)](https://www.legislation.gov.uk/ukpga/2009/7/section/12/9) substituted (1.4.2024 with effect in relation to financial years beginning on or after that date) by [Non-Domestic Rating Act 2023 (c. 53)](https://www.legislation.gov.uk/ukpga/2023/53), [s. 19(2)(b)](https://www.legislation.gov.uk/ukpga/2023/53/section/19/2/b), [Sch. para. 13(3)(b)](https://www.legislation.gov.uk/ukpga/2023/53/schedule/paragraph/13/3/b)
+
+[^key-58905e3ad3b94e1c11e646bcb7f1b89c]: Commencement: S. 13 in force at 19.8.2009 for E. by [S.I. 2009/2202](https://www.legislation.gov.uk/uksi/2009/2202), [art. 2](https://www.legislation.gov.uk/uksi/2009/2202/article/2)
+
+[^key-0637a5678dca19442e3e9b63d8c4a624]: Textual amendment: Word in [s. 13(2)](https://www.legislation.gov.uk/ukpga/2009/7/section/13/2) substituted (1.4.2024 with effect in relation to financial years beginning on or after that date) by [Non-Domestic Rating Act 2023 (c. 53)](https://www.legislation.gov.uk/ukpga/2023/53), [s. 19(2)(b)](https://www.legislation.gov.uk/ukpga/2023/53/section/19/2/b), [Sch. para. 13(4)(a)](https://www.legislation.gov.uk/ukpga/2023/53/schedule/paragraph/13/4/a)
+
+[^key-c0d2d958ab9f673142803ab3cbe25bc3]: Textual amendment: [S. 13(2A)](https://www.legislation.gov.uk/ukpga/2009/7/section/13/2A) inserted (1.4.2024 with effect in relation to financial years beginning on or after that date) by [Non-Domestic Rating Act 2023 (c. 53)](https://www.legislation.gov.uk/ukpga/2023/53), [s. 19(2)(b)](https://www.legislation.gov.uk/ukpga/2023/53/section/19/2/b), [Sch. para. 13(4)(b)](https://www.legislation.gov.uk/ukpga/2023/53/schedule/paragraph/13/4/b)
+
+[^key-6b039d1a0390e808a93cc8a7cb413591]: Textual amendment: Words in [s. 13(3)](https://www.legislation.gov.uk/ukpga/2009/7/section/13/3) substituted (1.4.2024 with effect in relation to financial years beginning on or after that date) by [Non-Domestic Rating Act 2023 (c. 53)](https://www.legislation.gov.uk/ukpga/2023/53), [s. 19(2)(b)](https://www.legislation.gov.uk/ukpga/2023/53/section/19/2/b), [Sch. para. 13(4)(c)](https://www.legislation.gov.uk/ukpga/2023/53/schedule/paragraph/13/4/c)
+
+[^key-f6c1714a1d6d31ee856bb8dbdf2f331f]: Textual amendment: [S. 13(3A)](https://www.legislation.gov.uk/ukpga/2009/7/section/13/3A) omitted (1.4.2024 with effect in relation to financial years beginning on or after that date) by virtue of [Non-Domestic Rating Act 2023 (c. 53)](https://www.legislation.gov.uk/ukpga/2023/53), [s. 19(2)(b)](https://www.legislation.gov.uk/ukpga/2023/53/section/19/2/b), [Sch. para. 13(4)(d)](https://www.legislation.gov.uk/ukpga/2023/53/schedule/paragraph/13/4/d)
+
+[^key-35ab0fea8a1b8c299944e01f8652ffa8]: Textual amendment: [S. 13(3B)](https://www.legislation.gov.uk/ukpga/2009/7/section/13/3B) inserted (with effect in accordance with s. 4(2)(3) of the amending Act) by [Non-Domestic Rating (Public Lavatories) Act 2021 (c. 13)](https://www.legislation.gov.uk/ukpga/2021/13), [s. 2(2)(a)](https://www.legislation.gov.uk/ukpga/2021/13/section/2/2/a)
+
+[^key-6f0c608b863f490c699ce1c55042d9ad]: Textual amendment: Words in [s. 13(3B)](https://www.legislation.gov.uk/ukpga/2009/7/section/13/3B) substituted (1.4.2024 with effect in relation to financial years beginning on or after that date) by [Non-Domestic Rating Act 2023 (c. 53)](https://www.legislation.gov.uk/ukpga/2023/53), [s. 19(2)(b)](https://www.legislation.gov.uk/ukpga/2023/53/section/19/2/b), [Sch. para. 13(4)(e)](https://www.legislation.gov.uk/ukpga/2023/53/schedule/paragraph/13/4/e)
+
+[^key-75a84762fdbe7ef3b229df14516b95ae]: Textual amendment: [S. 13(4)](https://www.legislation.gov.uk/ukpga/2009/7/section/13/4) omitted (1.4.2024 with effect in relation to financial years beginning on or after that date) by virtue of [Non-Domestic Rating Act 2023 (c. 53)](https://www.legislation.gov.uk/ukpga/2023/53), [s. 19(2)(b)](https://www.legislation.gov.uk/ukpga/2023/53/section/19/2/b), [Sch. para. 13(4)(f)](https://www.legislation.gov.uk/ukpga/2023/53/schedule/paragraph/13/4/f)
+
+[^key-61aed8c24c57aae6c1f04e6f24900361]: Textual amendment: [S. 13(5)](https://www.legislation.gov.uk/ukpga/2009/7/section/13/5) omitted (1.4.2024 with effect in relation to financial years beginning on or after that date) by virtue of [Non-Domestic Rating Act 2023 (c. 53)](https://www.legislation.gov.uk/ukpga/2023/53), [s. 19(2)(b)](https://www.legislation.gov.uk/ukpga/2023/53/section/19/2/b), [Sch. para. 13(4)(f)](https://www.legislation.gov.uk/ukpga/2023/53/schedule/paragraph/13/4/f)
+
+[^key-5cea1b07ace4d46a26b88a2491c97d64]: Textual amendment: Words in [s. 13(6)](https://www.legislation.gov.uk/ukpga/2009/7/section/13/6) substituted (1.4.2024 with effect in relation to financial years beginning on or after that date) by [Non-Domestic Rating Act 2023 (c. 53)](https://www.legislation.gov.uk/ukpga/2023/53), [s. 19(2)(b)](https://www.legislation.gov.uk/ukpga/2023/53/section/19/2/b), [Sch. para. 13(4)(g)](https://www.legislation.gov.uk/ukpga/2023/53/schedule/paragraph/13/4/g)
+
+[^key-8b1ec280a5bf3da921ec100d157d6e59]: Textual amendment: [S. 13(6A)](https://www.legislation.gov.uk/ukpga/2009/7/section/13/6A) omitted (1.4.2024 with effect in relation to financial years beginning on or after that date) by virtue of [Non-Domestic Rating Act 2023 (c. 53)](https://www.legislation.gov.uk/ukpga/2023/53), [s. 19(2)(b)](https://www.legislation.gov.uk/ukpga/2023/53/section/19/2/b), [Sch. para. 13(4)(h)](https://www.legislation.gov.uk/ukpga/2023/53/schedule/paragraph/13/4/h)
+
+[^key-e58a674b358287121af305364aa2f61e]: Textual amendment: Words in [s. 13(9)](https://www.legislation.gov.uk/ukpga/2009/7/section/13/9) substituted (1.4.2024 with effect in relation to financial years beginning on or after that date) by [Non-Domestic Rating Act 2023 (c. 53)](https://www.legislation.gov.uk/ukpga/2023/53), [s. 19(2)(b)](https://www.legislation.gov.uk/ukpga/2023/53/section/19/2/b), [Sch. para. 13(4)(i)](https://www.legislation.gov.uk/ukpga/2023/53/schedule/paragraph/13/4/i)
+
+[^key-49efc72b7cb8f3876493405f688c5a09]: Commencement: S. 14 in force at 19.8.2009 for E. by [S.I. 2009/2202](https://www.legislation.gov.uk/uksi/2009/2202), [art. 2](https://www.legislation.gov.uk/uksi/2009/2202/article/2)
+
+[^key-49937152e4d9298a0e166eec88b3271f]: Textual amendment: [S. 14(5)](https://www.legislation.gov.uk/ukpga/2009/7/section/14/5)[(5A)](https://www.legislation.gov.uk/ukpga/2009/7/section/14/5A) substituted for [s. 14(5)](https://www.legislation.gov.uk/ukpga/2009/7/section/14/5) (1.4.2024 with effect in relation to financial years beginning on or after that date) by [Non-Domestic Rating Act 2023 (c. 53)](https://www.legislation.gov.uk/ukpga/2023/53), [s. 19(2)(b)](https://www.legislation.gov.uk/ukpga/2023/53/section/19/2/b), [Sch. para. 13(5)(a)](https://www.legislation.gov.uk/ukpga/2023/53/schedule/paragraph/13/5/a)
+
+[^key-2da1bec3f26f65f2e519adb35dfbc4a9]: Textual amendment: Words in [s. 14(9)(b)](https://www.legislation.gov.uk/ukpga/2009/7/section/14/19/b) substituted (1.4.2024 with effect in relation to financial years beginning on or after that date) by [Non-Domestic Rating Act 2023 (c. 53)](https://www.legislation.gov.uk/ukpga/2023/53), [s. 19(2)(b)](https://www.legislation.gov.uk/ukpga/2023/53/section/19/2/b), [Sch. para. 13(5)(b)](https://www.legislation.gov.uk/ukpga/2023/53/schedule/paragraph/13/5/b)
+
+[^key-bfe38c4417498677a80485e7d102b77c]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2009/7/section/15) in force at 19.8.2009 for E. by [S.I. 2009/2202](https://www.legislation.gov.uk/uksi/2009/2202), [art. 2](https://www.legislation.gov.uk/uksi/2009/2202/article/2)
+
+[^key-bd7017dc24616fe62c69ca9c212ef024]: Commencement: [S. 16(1)-(4)](https://www.legislation.gov.uk/ukpga/2009/7/section/16/1) in force at 19.8.2009 for E. by [S.I. 2009/2202](https://www.legislation.gov.uk/uksi/2009/2202), [art. 2](https://www.legislation.gov.uk/uksi/2009/2202/article/2)
+
+[^key-95f261d8b792a3cb931a16e6937eea00]: Commencement: [S. 16(5)](https://www.legislation.gov.uk/ukpga/2009/7/section/16/5) in force at 16.7.2014 for specified purposes for E. by [S.I. 2014/1860](https://www.legislation.gov.uk/uksi/2014/1860), [art. 2](https://www.legislation.gov.uk/uksi/2014/1860/article/2)
+
+[^key-469267d5f0dd7cc468fdf8a71d40667c]: Commencement: [S. 16(5)](https://www.legislation.gov.uk/ukpga/2009/7/section/16/5) in force at 2.12.2014 for E. in so far as not already in force by [S.I. 2014/3200](https://www.legislation.gov.uk/uksi/2014/3200), [art. 2](https://www.legislation.gov.uk/uksi/2014/3200/article/2)
+
+[^key-b15f90f961b185915ffa3febbe8071a2]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2009/7/section/17) in force at 19.8.2009 for E. by [S.I. 2009/2202](https://www.legislation.gov.uk/uksi/2009/2202), [art. 2](https://www.legislation.gov.uk/uksi/2009/2202/article/2)
+
+[^key-d3bc3602b592370ac383f430433f54bd]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2009/7/section/18) in force at 19.8.2009 for E. by [S.I. 2009/2202](https://www.legislation.gov.uk/uksi/2009/2202), [art. 2](https://www.legislation.gov.uk/uksi/2009/2202/article/2)
+
+[^key-0fb18b959617473ba065e7173e2268a9]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2009/7/section/19) in force at 19.8.2009 for E. by [S.I. 2009/2202](https://www.legislation.gov.uk/uksi/2009/2202), [art. 2](https://www.legislation.gov.uk/uksi/2009/2202/article/2)
+
+[^key-ffe17b709ae0fed1dadacdd756f3a764]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2009/7/section/20) in force at 19.8.2009 for E. by [S.I. 2009/2202](https://www.legislation.gov.uk/uksi/2009/2202), [art. 2](https://www.legislation.gov.uk/uksi/2009/2202/article/2)
+
+[^key-e3e41d8bce0e525c171ce2f33712a4df]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2009/7/section/21) in force at 19.8.2009 for E. by [S.I. 2009/2202](https://www.legislation.gov.uk/uksi/2009/2202), [art. 2](https://www.legislation.gov.uk/uksi/2009/2202/article/2)
+
+[^key-9e2c70cda62600e24678fc3131937ad3]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2009/7/section/22) in force at 19.8.2009 for E. by [S.I. 2009/2202](https://www.legislation.gov.uk/uksi/2009/2202), [art. 2](https://www.legislation.gov.uk/uksi/2009/2202/article/2)
+
+[^key-63badce1e9fee610be5d7dcf0b1f9649]: Commencement: [S. 23](https://www.legislation.gov.uk/ukpga/2009/7/section/23) in force at 19.8.2009 for E. by [S.I. 2009/2202](https://www.legislation.gov.uk/uksi/2009/2202), [art. 2](https://www.legislation.gov.uk/uksi/2009/2202/article/2)
+
+[^key-b82a1a49c089cb8811eb5508c8c917c7]: Commencement: [S. 24](https://www.legislation.gov.uk/ukpga/2009/7/section/24) in force at 19.8.2009 for E. by [S.I. 2009/2202](https://www.legislation.gov.uk/uksi/2009/2202), [art. 2](https://www.legislation.gov.uk/uksi/2009/2202/article/2)
+
+[^key-f534abc0d89f69aa7d15190d72e2e838]: Commencement: [S. 25](https://www.legislation.gov.uk/ukpga/2009/7/section/25) in force at 19.8.2009 for E. by [S.I. 2009/2202](https://www.legislation.gov.uk/uksi/2009/2202), [art. 2](https://www.legislation.gov.uk/uksi/2009/2202/article/2)
+
+[^key-11434ec2e2b4476cc526e5db77a749b5]: Commencement: [S. 26](https://www.legislation.gov.uk/ukpga/2009/7/section/26) in force at 19.8.2009 for E. by [S.I. 2009/2202](https://www.legislation.gov.uk/uksi/2009/2202), [art. 2](https://www.legislation.gov.uk/uksi/2009/2202/article/2)
+
+[^key-92112bf7538556fa46c5caa3a6511d08]: Commencement: [S. 27](https://www.legislation.gov.uk/ukpga/2009/7/section/27) in force at 19.8.2009 for E. by [S.I. 2009/2202](https://www.legislation.gov.uk/uksi/2009/2202), [art. 2](https://www.legislation.gov.uk/uksi/2009/2202/article/2)
+
+[^key-328cbe2a0a6ef4c70cc393eb7d523608]: Textual amendment: Words in [s. 30(2)](https://www.legislation.gov.uk/ukpga/2009/7/section/30/2) table inserted (W.) (16.11.2024) by [Local Government Finance (Wales) Act 2024 (asc 6)](https://www.legislation.gov.uk/asc/2024/6), [s. 23(2)(a)](https://www.legislation.gov.uk/asc/2024/6/section/23/2/a), [Sch. para. 3(2)](https://www.legislation.gov.uk/asc/2024/6/schedule/paragraph/3/2)
+
+[^key-e4b267f8e11f010204a1d5990094111c]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/2009/7/schedule/1/paragraph/1) in force at 19.8.2009 for E. by [S.I. 2009/2202](https://www.legislation.gov.uk/uksi/2009/2202), [art. 2](https://www.legislation.gov.uk/uksi/2009/2202/article/2)
+
+[^key-1b92f9066eec4e9f1c492cd6a653a53c]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2009/7/schedule/1/paragraph/2) in force at 19.8.2009 for E. by [S.I. 2009/2202](https://www.legislation.gov.uk/uksi/2009/2202), [art. 2](https://www.legislation.gov.uk/uksi/2009/2202/article/2)
+
+[^key-5f0636adb0b8de3abc3d6fa6be68a780]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/2009/7/schedule/1/paragraph/3) in force at 19.8.2009 for E. by [S.I. 2009/2202](https://www.legislation.gov.uk/uksi/2009/2202), [art. 2](https://www.legislation.gov.uk/uksi/2009/2202/article/2)
+
+[^key-8e46f0f4bc0baf1c7e1342b899d124d7]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/2009/7/schedule/1/paragraph/4) in force at 19.8.2009 for E. by [S.I. 2009/2202](https://www.legislation.gov.uk/uksi/2009/2202), [art. 2](https://www.legislation.gov.uk/uksi/2009/2202/article/2)
+
+[^key-956576426d4453571b83954ffd6a74fa]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2009/7/schedule/1/paragraph/5) in force at 19.8.2009 for E. by [S.I. 2009/2202](https://www.legislation.gov.uk/uksi/2009/2202), [art. 2](https://www.legislation.gov.uk/uksi/2009/2202/article/2)
+
+[^key-78ecc3580f55561d8676902cd4867040]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/ukpga/2009/7/schedule/1/paragraph/6) in force at 19.8.2009 for E. by [S.I. 2009/2202](https://www.legislation.gov.uk/uksi/2009/2202), [art. 2](https://www.legislation.gov.uk/uksi/2009/2202/article/2)
+
+[^key-0c28006ab42e9e550a3887f5c990254c]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/ukpga/2009/7/schedule/1/paragraph/7) in force at 19.8.2009 for E. by [S.I. 2009/2202](https://www.legislation.gov.uk/uksi/2009/2202), [art. 2](https://www.legislation.gov.uk/uksi/2009/2202/article/2)
+
+[^key-a488eb062f829cadc91495891ed91be8]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/ukpga/2009/7/schedule/1/paragraph/8) in force at 19.8.2009 for E. by [S.I. 2009/2202](https://www.legislation.gov.uk/uksi/2009/2202), [art. 2](https://www.legislation.gov.uk/uksi/2009/2202/article/2)
+
+[^key-918929e97007619ea64b74056a19b4c8]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/ukpga/2009/7/schedule/1/paragraph/9) in force at 19.8.2009 for E. by [S.I. 2009/2202](https://www.legislation.gov.uk/uksi/2009/2202), [art. 2](https://www.legislation.gov.uk/uksi/2009/2202/article/2)
+
+[^key-8627f4b61781371c6598cbc25d2cf00a]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/ukpga/2009/7/schedule/1/paragraph/10) in force at 19.8.2009 for E. by [S.I. 2009/2202](https://www.legislation.gov.uk/uksi/2009/2202), [art. 2](https://www.legislation.gov.uk/uksi/2009/2202/article/2)
+
+[^key-52dd166f0e99f6ce85ca23c453d462b2]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/ukpga/2009/7/schedule/1/paragraph/11) in force at 19.8.2009 for E. by [S.I. 2009/2202](https://www.legislation.gov.uk/uksi/2009/2202), [art. 2](https://www.legislation.gov.uk/uksi/2009/2202/article/2)
+
+[^key-bf3204b4c12cb7fff348873e38a699b3]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/ukpga/2009/7/schedule/1/paragraph/12) in force at 19.8.2009 for E. by [S.I. 2009/2202](https://www.legislation.gov.uk/uksi/2009/2202), [art. 2](https://www.legislation.gov.uk/uksi/2009/2202/article/2)
+
+[^key-f9c843b08e319bfbc54e66fef6048dbf]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/ukpga/2009/7/schedule/1/paragraph/13) in force at 19.8.2009 for E. by [S.I. 2009/2202](https://www.legislation.gov.uk/uksi/2009/2202), [art. 2](https://www.legislation.gov.uk/uksi/2009/2202/article/2)
+
+[^key-600162897f9b7b3afea46686fc47a8ed]: Commencement: [Sch. 1 para. 14](https://www.legislation.gov.uk/ukpga/2009/7/schedule/1/paragraph/14) in force at 19.8.2009 for E. by [S.I. 2009/2202](https://www.legislation.gov.uk/uksi/2009/2202), [art. 2](https://www.legislation.gov.uk/uksi/2009/2202/article/2)
+
+[^key-211548b7817466babfd193a1d56441e1]: Commencement: [Sch. 1 para. 15](https://www.legislation.gov.uk/ukpga/2009/7/schedule/1/paragraph/15) in force at 19.8.2009 for E. by [S.I. 2009/2202](https://www.legislation.gov.uk/uksi/2009/2202), [art. 2](https://www.legislation.gov.uk/uksi/2009/2202/article/2)
+
+[^key-28b3dc00ba5d788ccb03e8495b04c50e]: Commencement: [Sch. 1 para. 16](https://www.legislation.gov.uk/ukpga/2009/7/schedule/1/paragraph/16) in force at 19.8.2009 for E. by [S.I. 2009/2202](https://www.legislation.gov.uk/uksi/2009/2202), [art. 2](https://www.legislation.gov.uk/uksi/2009/2202/article/2)
+
+[^key-22e7540bf2691fb411f8aba9cdc13eb0]: Commencement: [Sch. 1 para. 17](https://www.legislation.gov.uk/ukpga/2009/7/schedule/1/paragraph/17) in force at 19.8.2009 for E. by [S.I. 2009/2202](https://www.legislation.gov.uk/uksi/2009/2202), [art. 2](https://www.legislation.gov.uk/uksi/2009/2202/article/2)
+
+[^key-7d8b69cd9d6d54492dd7cd2addc699b6]: Commencement: [Sch. 1 para. 18](https://www.legislation.gov.uk/ukpga/2009/7/schedule/1/paragraph/18) in force at 19.8.2009 for E. by [S.I. 2009/2202](https://www.legislation.gov.uk/uksi/2009/2202), [art. 2](https://www.legislation.gov.uk/uksi/2009/2202/article/2)
+
+[^key-81b57afe27cad5833e58334d07b4471c]: Textual amendment: [Sch. 1 para. 19](https://www.legislation.gov.uk/ukpga/2009/7/schedule/1/paragraph/19) substituted (15.1.2012 for E.) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss.](https://www.legislation.gov.uk/ukpga/2011/20/section), [68(6)](https://www.legislation.gov.uk/ukpga/2011/20/section/68/6), [240(3)(c)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/3/c) (with [s. 68(7)](https://www.legislation.gov.uk/ukpga/2011/20/section/68/7)); [S.I. 2012/57](https://www.legislation.gov.uk/uksi/2012/57), [art. 3(a)](https://www.legislation.gov.uk/uksi/2012/57/article/3/a)
+
+[^M_F_a35c7eeb-5880-4cfa-af9a-26bbb088faac]: Textual amendment: [Sch. 1 para. 20](https://www.legislation.gov.uk/ukpga/2009/7/schedule/1/paragraph/19) substituted (15.1.2012 for E.) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss.](https://www.legislation.gov.uk/ukpga/2011/20/section), [68(6)](https://www.legislation.gov.uk/ukpga/2011/20/section/68/6), [240(3)(c)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/3/c) (with [s. 68(7)](https://www.legislation.gov.uk/ukpga/2011/20/section/68/7)); [S.I. 2012/57](https://www.legislation.gov.uk/uksi/2012/57), [art. 3(a)](https://www.legislation.gov.uk/uksi/2012/57/article/3/a)
+
+[^key-d1f7dd0c9f5bb1b18d082dcba977aff1]: Commencement: [Sch. 1 para. 21](https://www.legislation.gov.uk/ukpga/2009/7/schedule/1/paragraph/21) in force at 19.8.2009 for E. by [S.I. 2009/2202](https://www.legislation.gov.uk/uksi/2009/2202), [art. 2](https://www.legislation.gov.uk/uksi/2009/2202/article/2)
+
+[^key-f28877ff4ecf71c9197ca2c740185417]: Commencement: [Sch. 1 para. 22](https://www.legislation.gov.uk/ukpga/2009/7/schedule/1/paragraph/22) in force at 19.8.2009 for E. by [S.I. 2009/2202](https://www.legislation.gov.uk/uksi/2009/2202), [art. 2](https://www.legislation.gov.uk/uksi/2009/2202/article/2)
+
+[^key-a6d98ad0aa4015de713a39a2c776aec4]: Commencement: [Sch. 1 para. 23](https://www.legislation.gov.uk/ukpga/2009/7/schedule/1/paragraph/23) in force at 19.8.2009 for E. by [S.I. 2009/2202](https://www.legislation.gov.uk/uksi/2009/2202), [art. 2](https://www.legislation.gov.uk/uksi/2009/2202/article/2)
+
+[^key-010969d613396c264fd47987470fde58]: Modification: Sch. 2 applied (with modifications) (E.) (2.12.2014) by [The Business Improvement Districts (Property Owners) (England) Regulations 2014 (S.I. 2014/3204)](https://www.legislation.gov.uk/uksi/2014/3204), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/3204/article/1/1), [Sch. 5 para. 2](https://www.legislation.gov.uk/uksi/2014/3204/schedule/5/paragraph/2)
+
+[^key-315f66febcf55831dfc35b2f6045c30f]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2009/7/schedule/2/paragraph/1) in force at 16.7.2014 for specified purposes for E. by [S.I. 2014/1860](https://www.legislation.gov.uk/uksi/2014/1860), [art. 2](https://www.legislation.gov.uk/uksi/2014/1860/article/2)
+
+[^key-b2bc64ad5adb0b4e12b91594057a4f61]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2009/7/schedule/2/paragraph/1) in force at 2.12.2014 for E. in so far as not already in force by [S.I. 2014/3200](https://www.legislation.gov.uk/uksi/2014/3200), [art. 2](https://www.legislation.gov.uk/uksi/2014/3200/article/2)
+
+[^key-5bc20c1ff32e365a1f62830caa041cb8]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2009/7/schedule/2/paragraph/2) in force at 16.7.2014 for specified purposes for E. by [S.I. 2014/1860](https://www.legislation.gov.uk/uksi/2014/1860), [art. 2](https://www.legislation.gov.uk/uksi/2014/1860/article/2)
+
+[^key-bd6fbfaca2beac7f2ada11e06ddb6f5b]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2009/7/schedule/2/paragraph/2) in force at 2.12.2014 for E. in so far as not already in force by [S.I. 2014/3200](https://www.legislation.gov.uk/uksi/2014/3200), [art. 2](https://www.legislation.gov.uk/uksi/2014/3200/article/2)
+
+[^key-36d3a8cebcc98ad204248af2ea335d44]: Commencement: Sch. 2 para. 3 in force at 16.7.2014 for specified purposes for E. by [S.I. 2014/1860](https://www.legislation.gov.uk/uksi/2014/1860), [art. 2](https://www.legislation.gov.uk/uksi/2014/1860/article/2)
+
+[^key-cebc02760d2c52d9ee9a2083e3742160]: Commencement: Sch. 2 para. 3 in force at 2.12.2014 for E. in so far as not already in force by [S.I. 2014/3200](https://www.legislation.gov.uk/uksi/2014/3200), [art. 2](https://www.legislation.gov.uk/uksi/2014/3200/article/2)
+
+[^key-6a3db26ecb6a6c4c850fc7fa99a8f2d6]: Modification: Sch. 2 paras. 3, 4 modified (2.12.2014) by [The Business Improvement Districts (Property Owners) (England) Regulations 2014 (S.I. 2014/3204)](https://www.legislation.gov.uk/uksi/2014/3204), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/3204/article/1/1), [19(3)(b)](https://www.legislation.gov.uk/uksi/2014/3204/regulation/19/3/b)
+
+[^key-92cecd52baaff752c7a1cf7dcee87630]: Modification: Sch. 2 paras. 3, 4 modified (E.) (2.12.2014) by [The Business Improvement Districts (Property Owners) (England) Regulations 2014 (S.I. 2014/3204)](https://www.legislation.gov.uk/uksi/2014/3204), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/3204/article/1/1), [18(5)(b)](https://www.legislation.gov.uk/uksi/2014/3204/regulation/18/5/b)
+
+[^key-f7596afff531c71a617e401bfff6f242]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/2009/7/schedule/2/paragraph/4) in force at 16.7.2014 for specified purposes for E. by [S.I. 2014/1860](https://www.legislation.gov.uk/uksi/2014/1860), [art. 2](https://www.legislation.gov.uk/uksi/2014/1860/article/2)
+
+[^key-913c0dab8b2109aa45a4c89462ea8144]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/2009/7/schedule/2/paragraph/4) in force at 2.12.2014 for E. in so far as not already in force by [S.I. 2014/3200](https://www.legislation.gov.uk/uksi/2014/3200), [art. 2](https://www.legislation.gov.uk/uksi/2014/3200/article/2)
+
+[^key-a748b62b9d1bc3df21e1087bc206dc32]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/ukpga/2009/7/schedule/2/paragraph/5) in force at 16.7.2014 for specified purposes for E. by [S.I. 2014/1860](https://www.legislation.gov.uk/uksi/2014/1860), [art. 2](https://www.legislation.gov.uk/uksi/2014/1860/article/2)
+
+[^key-d1e39e8375cedf4e1943909521d5d40e]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/ukpga/2009/7/schedule/2/paragraph/5) in force at 2.12.2014 for E. in so far as not already in force by [S.I. 2014/3200](https://www.legislation.gov.uk/uksi/2014/3200), [art. 2](https://www.legislation.gov.uk/uksi/2014/3200/article/2)
+
+[^key-564f09cda6b64192dc223b7f82622234]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/ukpga/2009/7/schedule/2/paragraph/6) in force at 16.7.2014 for specified purposes for E. by [S.I. 2014/1860](https://www.legislation.gov.uk/uksi/2014/1860), [art. 2](https://www.legislation.gov.uk/uksi/2014/1860/article/2)
+
+[^key-21db00870901dc64033b0d9422f2f7c3]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/ukpga/2009/7/schedule/2/paragraph/6) in force at 2.12.2014 for E. in so far as not already in force by [S.I. 2014/3200](https://www.legislation.gov.uk/uksi/2014/3200), [art. 2](https://www.legislation.gov.uk/uksi/2014/3200/article/2)
+
+[^key-44d78d4f6778e373d784bde6377a6d08]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/ukpga/2009/7/schedule/2/paragraph/7) in force at 16.7.2014 for specified purposes for E. by [S.I. 2014/1860](https://www.legislation.gov.uk/uksi/2014/1860), [art. 2](https://www.legislation.gov.uk/uksi/2014/1860/article/2)
+
+[^key-7a9150c8c8487699d6f81e572aef3b39]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/ukpga/2009/7/schedule/2/paragraph/7) in force at 2.12.2014 for E. in so far as not already in force by [S.I. 2014/3200](https://www.legislation.gov.uk/uksi/2014/3200), [art. 2](https://www.legislation.gov.uk/uksi/2014/3200/article/2)
+
+[^key-3cc92a723ec071783ebd5b09ed75fa75]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/ukpga/2009/7/schedule/2/paragraph/8) in force at 16.7.2014 for specified purposes for E. by [S.I. 2014/1860](https://www.legislation.gov.uk/uksi/2014/1860), [art. 2](https://www.legislation.gov.uk/uksi/2014/1860/article/2)
+
+[^key-552c4d18a2dd839202d683d6442c9a5a]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/ukpga/2009/7/schedule/2/paragraph/8) in force at 2.12.2014 for E. in so far as not already in force by [S.I. 2014/3200](https://www.legislation.gov.uk/uksi/2014/3200), [art. 2](https://www.legislation.gov.uk/uksi/2014/3200/article/2)
+
+[^key-39816409cffac0dd2213c482b4b8d886]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/ukpga/2009/7/schedule/2/paragraph/9) in force at 16.7.2014 for specified purposes for E. by [S.I. 2014/1860](https://www.legislation.gov.uk/uksi/2014/1860), [art. 2](https://www.legislation.gov.uk/uksi/2014/1860/article/2)
+
+[^key-2437f79cbf64c56f0e1ddb9eaa714e6b]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/ukpga/2009/7/schedule/2/paragraph/9) in force at 2.12.2014 for E. in so far as not already in force by [S.I. 2014/3200](https://www.legislation.gov.uk/uksi/2014/3200), [art. 2](https://www.legislation.gov.uk/uksi/2014/3200/article/2)
+
+[^key-8fd3277f43994e8ba8f1280ea1c38c6a]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/ukpga/2009/7/schedule/2/paragraph/10) in force at 16.7.2014 for specified purposes for E. by [S.I. 2014/1860](https://www.legislation.gov.uk/uksi/2014/1860), [art. 2](https://www.legislation.gov.uk/uksi/2014/1860/article/2)
+
+[^key-5e5d3310aa013416b20a62879d98c169]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/ukpga/2009/7/schedule/2/paragraph/10) in force at 2.12.2014 for E. in so far as not already in force by [S.I. 2014/3200](https://www.legislation.gov.uk/uksi/2014/3200), [art. 2](https://www.legislation.gov.uk/uksi/2014/3200/article/2)
+
+[^key-d8d4674fc3dd0602476754c51c7e5292]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/ukpga/2009/7/schedule/2/paragraph/11) in force at 16.7.2014 for specified purposes for E. by [S.I. 2014/1860](https://www.legislation.gov.uk/uksi/2014/1860), [art. 2](https://www.legislation.gov.uk/uksi/2014/1860/article/2)
+
+[^key-cafde8220a51f27eee1500237fee6206]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/ukpga/2009/7/schedule/2/paragraph/11) in force at 2.12.2014 for E. in so far as not already in force by [S.I. 2014/3200](https://www.legislation.gov.uk/uksi/2014/3200), [art. 2](https://www.legislation.gov.uk/uksi/2014/3200/article/2)
+
+[^key-c2c18731a46909b32ab89835e27f7520]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/ukpga/2009/7/schedule/3/paragraph/1) in force at 19.8.2009 for E. by [S.I. 2009/2202](https://www.legislation.gov.uk/uksi/2009/2202), [art. 2](https://www.legislation.gov.uk/uksi/2009/2202/article/2)
+
+[^key-fbb0e46a17402ea2cf2a5d4203c360d6]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/ukpga/2009/7/schedule/3/paragraph/2) in force at 19.8.2009 for E. by [S.I. 2009/2202](https://www.legislation.gov.uk/uksi/2009/2202), [art. 2](https://www.legislation.gov.uk/uksi/2009/2202/article/2)
+
+[^key-fdd6cf8bf8c23b8e9185611e43b8c4b0]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/ukpga/2009/7/schedule/3/paragraph/3) in force at 19.8.2009 for E. by [S.I. 2009/2202](https://www.legislation.gov.uk/uksi/2009/2202), [art. 2](https://www.legislation.gov.uk/uksi/2009/2202/article/2)
+
+[^key-9cce9574174af75bbe37c375b2a99117]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/ukpga/2009/7/schedule/3/paragraph/4) in force at 19.8.2009 for E. by [S.I. 2009/2202](https://www.legislation.gov.uk/uksi/2009/2202), [art. 2](https://www.legislation.gov.uk/uksi/2009/2202/article/2)
+
+[^key-6c9cd3cf9b8b4c7a4e4902c7845eec8e]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/ukpga/2009/7/schedule/3/paragraph/5) in force at 19.8.2009 for E. by [S.I. 2009/2202](https://www.legislation.gov.uk/uksi/2009/2202), [art. 2](https://www.legislation.gov.uk/uksi/2009/2202/article/2)

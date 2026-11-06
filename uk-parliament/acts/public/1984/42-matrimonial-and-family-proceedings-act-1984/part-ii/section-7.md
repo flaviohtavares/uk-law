@@ -1,0 +1,37 @@
+---
+title: Matrimonial and Family Proceedings Act 1984, section 7
+act: Matrimonial and Family Proceedings Act 1984
+section: '7'
+status: revised-with-pending-changes
+text_date: '2026-10-01'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/1984/42/section/7
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Matrimonial and Family Proceedings Act 1984, section 7
+
+> **Warning: changes not yet applied to this text (3).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1984/42
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 7. Consent orders for financial provision or property adjustment.
+
+*Extent: E+W*
+
+The following section shall be inserted after section 33 of the 1973 Act—
+
+> **Consent orders**
+>
+> **33A. Consent orders for financial provision or property adjustment.**
+>
+> (1) Notwithstanding anything in the preceding provisions of this Part of this Act, on an application for a consent order for financial relief the court may, unless it has reason to think that there are other circumstances into which it ought to inquire, make an order in the terms agreed on the basis only of the prescribed information furnished with the application.
+>
+> (2) Subsection (1) above applies to an application for a consent order varying or discharging an order for financial relief as it applies to an application for an order for financial relief.
+>
+> (3) In this section—
+>
+> - “**consent order**”, in relation to an application for an order, means an order in the terms applied for to which the respondent agrees;
+> - “**order for financial relief**” means an order under any of sections 23, 24, 24A or 27 above; and
+> - “**prescribed**” means prescribed by rules of court.

@@ -1,0 +1,200 @@
+---
+title: The Divorce etc. (Notification and Treatment of Pensions) (Scotland) Regulations 2000
+id: uksi/2000/1050
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2000-04-13'
+text_date: '2014-01-01'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/uksi/2000/1050
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2000/1050/pdfs/uksi_20001050_301114_en.pdf
+- http://www.legislation.gov.uk/uksi/2000/1050/pdfs/uksi_20001050_en.pdf
+- http://www.legislation.gov.uk/uksi/2000/1050/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Divorce etc. (Notification and Treatment of Pensions) (Scotland) Regulations 2000
+
+> Text as at 2014-01-01.
+>
+> Extent: England, Wales, Scotland.
+
+*Extent: E+W+S*
+
+2000 No. 1050 (S.4)
+
+PENSIONS
+
+FAMILY LAW
+
+The Divorce etc. (Notification and Treatment of Pensions) (Scotland) Regulations 2000
+
+Made
+
+13th April 2000
+
+Laid before Parliament
+
+19th April 2000
+
+Coming into force
+
+1st December 2000
+
+The Secretary of State for Social Security, in exercise of the powers conferred upon him by section 23(1)(a)(ii) of the Welfare Reform and Pensions Act 1999[^c1601139] and sections 10(8) and (10) and 12A(8) of the Family Law (Scotland) Act 1985[^c1601140], and of all other powers enabling him in that behalf hereby makes the following Regulations:
+
+## 1. Citation, commencement and interpretation
+
+(1) These Regulations may be cited as the Divorce etc. (Notification and Treatment of Pensions) (Scotland) Regulations 2000 and shall come into force on 1st December 2000.
+
+(2) These Regulations shall not affect any action for divorce commenced before 1st December 2000 or any action for declarator of nullity of marriage commenced before that date.
+
+(3) In these Regulations—
+
+- “the 1985 Act" means the Family Law (Scotland) Act 1985;
+- “the 1999 Act" means the Welfare Reform and Pensions Act 1999;
+- “the other person” means the other person to a marriage or civil partnership.[^key-49a3492ab4ec502e3d9cc6d5a9af14fb]
+- “pension arrangement" has the meaning given by section 46(1) of the 1999 Act,
+
+and any expression used in these Regulations to which a meaning is assigned in section 12A of the 1985 Act shall have the same meaning in these Regulations as in that section.
+
+## 2. Notices under section 12A of the 1985 Act[^c1601141]
+
+(1) This regulation applies in the circumstances set out in section 12A(6)(a) of the 1985 Act.
+
+(2) Where this regulation applies, the person responsible for the first pension arrangement shall, within 21 days after the date of the transfer, give notice in accordance with the following paragraphs of this regulation to:—
+
+- (a) the person responsible for the new pension arrangement; and
+- (b) the other person.[^key-c3010599539bcadc2280a8df325faae3]
+
+(3) The notice to the person responsible for the new pension arrangement shall consist of a copy of the following documents:—
+
+- (a) every order made under section 12A(2) or (3) of the 1985 Act imposing any requirement upon the person responsible for the first pension arrangement;
+- (b) any order under section 12A(7) of the 1985 Act varying such an order;
+- (c) any notice given by any other person to the person responsible for the first pension arrangement under regulation 5 of these Regulations; and
+- (d) where the rights of the liable person under the first pension arrangement were derived in whole or in part from a transfer from a previous pension arrangement, any notice under paragraph (2)(a) of this regulation given on the occasion of that transfer.
+
+(4) The notice to the other person shall contain the following particulars—
+
+- (a) the fact that all the accrued rights of the liable person under the first pension arrangement have been transferred to the new pension arrangement;
+- (b) the date on which the transfer takes effect;
+- (c) the name and address of the person responsible for the new pension arrangement; and
+- (d) the fact that the order made under section 12A(2) or (3) of the 1985 Act is to have effect as if it had been made instead of respect of the person responsible for the new pension arrangement.
+
+## 3.
+
+(1) This regulation applies where—
+
+- (a) section 12A(6) of the 1985 Act has already applied; and
+- (b) the liable person[^key-5b23de5b41328326c084ecd9c8e03b09] has transferred all his accrued rights for the second or any subsequent time to another new pension arrangement.
+
+(2) Where this regulation applies, the person responsible for the pension arrangement from which the transfer is made to the other new pension arrangement shall, within 21 days after the date of the transfer, give notice to the other person of—
+
+- (a) the fact that all the accrued rights of the liable person have been transferred to the other new pension arrangement;
+- (b) the date on which the transfer takes effect;
+- (c) the name and address of the person responsible for the other new pension arrangement; and
+- (d) the fact that the court may, on an application by any person having interest, vary any order under section 12A(2) or (3) of the 1985 Act.
+
+## 4.
+
+(1) This regulation applies where—
+
+- (a) an order under section 12A(2) or (3) of the 1985 Act has been made imposing any requirement on the person responsible for the pension arrangement; and
+- (b) some but not all of the accrued rights of the liable person[^key-ab1548bc799344040a01a3a324136887] have been transferred from the pension arrangement.
+
+(2) Where this regulation applies, the person responsible for the pension arrangement from which the transfer is made shall, within 21 days after the date of the transfer, give notice to the other person of—
+
+- (a) the likely extent of the reduction in the benefits payable under the arrangement as a result of the transfer;
+- (b) the name and address of the person responsible for the pension arrangement under which the liable person has acquired transfer of credits as a result of the transfer;
+- (c) the date on which the transfer takes effect; and
+- (d) the fact that the court may, on an application by any person having an interest, vary an order under section 12A(2) or (3) of the 1985 Act.
+
+## 5.
+
+(1) This regulation applies where—
+
+- (a) an order under section 12A(2) or (3) of the 1985 Act has been made imposing any requirements on the person responsible for the pension arrangement; and
+- (b) there has been a change in the name or address of the other person[^key-5defa50e193245fb2988faadfdf5616a].
+
+(2) Where this regulation applies, the other person shall, within 21 days of the occurrence of the change mentioned in paragraph (1)(b) of this regulation, give notice of that change to the person responsible for the pension arrangement.
+
+## 6.
+
+(1) This regulation applies where—
+
+- (a) a transfer of accrued rights has taken place in the circumstances set out in section 12A(6)(a) of the 1985 Act;
+- (b) notice has been given in accordance with regulation 2(2)(a) and (b) of these Regulations; and
+- (c) there has been a change in the name or address of the other person[^key-6a1c83b5e884b14094d8debc98da795f] but the other person has not, before receiving notice under regulation 2(2)(b), given notice of that change to the person responsible for the first pension arrangement under regulation 5(2) of these Regulations.
+
+(2) Where this regulation applies, the reference in regulation 5(2) to the person responsible for the pension arrangement shall be construed as a reference to the person responsible for the new pension arrangement and not the person responsible for the first pension arrangement.
+
+(3) Subject to paragraph (4), where this regulation applies and the other person, within one year from the transfer, gives to the person responsible for the first pension arrangement notice of that change in purported compliance with regulation 5(2), the person responsible for the first pension arrangement shall—
+
+- (a) send that notice to the person responsible for the new pension arrangement; and
+- (b) give the other person a second notice under regulation 2(2)(b),
+
+and the other person shall thereupon be deemed to have given notice under regulation 5(2) to the person responsible for the new pension arrangement.
+
+(4) Upon complying with paragraph (3) above, the person responsible for the first pension arrangement shall be discharged from any further obligation under that paragraph, whether in relation to the change in question or any further change in the name or address of the other person which may be notified to them by the other person.
+
+## 7.
+
+A notice under these Regulations may be sent by ordinary first class post to the last known address of the intended recipient and shall be deemed to have been received on the seventh day following the date of posting.
+
+## 8. Revocations
+
+(1) Subject to paragraph (2), there are hereby revoked:—
+
+- (a) regulations 4 to 10 of the Divorce etc (Pensions) (Scotland) Regulations 1996 [^c1601142], and regulations 1 and 2 thereof insofar as they relate to regulations 4 to 10; and
+- (b) regulations 5 to 8 of the Divorce etc (Pensions) (Scotland) Amendment Regulations 1997 [^c1601143], and regulations 1, 2 and 3 thereof insofar as they relate to regulations 5 to 8.
+
+(2) Notwithstanding paragraph (1), the regulations specified in paragraph (1) shall continue to apply to any action for divorce commenced before 1st December 2000 and any action for declarator of marriage commenced before that date.
+
+Signed by authority of the Secretary of State for Social Security.
+
+Jeff Rooker
+
+Minister of State,
+
+Department of Social Security
+
+13th April 2000
+
+(This note is not part of the Regulations)
+
+These Regulations make provision with respect to the supply of information under section 12A of the Family Law (Scotland) Act 1985 about court orders for payment of pension lump sums where parties divorce or their marriage is declared to be null. They also revoke earlier Regulations of 1996 which had previously made comparable provision.
+
+Regulations 2 to 7 make provision for notices to be given by persons responsible for pension arrangements in respect of the various changes of circumstances which are relevant to orders made under section 12A(2) or (3) of the 1985 Act.
+
+Regulation 8 revokes regulations 1 and 2 (partially) and 4 to 10 of the Divorce etc (Pensions) (Scotland) Regulations 1996 and regulations 1, 2 and 3 (partially) and 5 to 8 of the Divorce etc (Pensions) (Scotland) (Amendment) Regulations 1997.
+
+The assessment of the cost to business of the provisions of the Welfare Reform and Pensions Act 1999, including these Regulations, is detailed in the Regulatory Impact Assessment for that Act. A copy of this Assessment has been placed in the libraries of both Houses of Parliament. Copies can be obtained by post from the Department of Social Security, Pensions on Divorce, Third Floor, The Adelphi, 1-11 John Adam Street, London WC2N 6HT.
+
+## Annotations
+
+[^c1601139]: Marginal citation: [1999 c. 30](https://www.legislation.gov.uk/ukpga/1999/30).
+
+[^c1601140]: Marginal citation: [1985 c. 37](https://www.legislation.gov.uk/ukpga/1985/37). Sections 10(8) and (10) and 12A(8) were inserted by section 167(2)(b) and (3) of the Pensions Act [1995 c. 26](https://www.legislation.gov.uk/ukpga/1995/26). Section 10(10) contains a definition of “prescribed" relevant to the exercise of the statutory powers under which these Regulations are made.
+
+[^key-49a3492ab4ec502e3d9cc6d5a9af14fb]: Textual amendment: Words in reg. 1(3) substituted (6.4.2007) by [Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations 2007 (S.I. 2007/814)](https://www.legislation.gov.uk/uksi/2007/814), [regs. 1](https://www.legislation.gov.uk/uksi/2007/814/regulation/1), [9(2)](https://www.legislation.gov.uk/uksi/2007/814/regulation/9/2)
+
+[^c1601141]: Marginal citation: Section 12A was amended by paragraph 9 of Schedule 12 to the Welfare Reform and Pensions Act 1999.
+
+[^key-c3010599539bcadc2280a8df325faae3]: Textual amendment: Word in [regs. 2(2)-(4)](https://www.legislation.gov.uk/uksi/2000/1050/regulation/2/2) substituted (6.4.2007) by [Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations 2007 (S.I. 2007/814)](https://www.legislation.gov.uk/uksi/2007/814), [regs. 1](https://www.legislation.gov.uk/uksi/2007/814/regulation/1), [9(3)](https://www.legislation.gov.uk/uksi/2007/814/regulation/9/3)
+
+[^key-5b23de5b41328326c084ecd9c8e03b09]: Textual amendment: Word in [reg. 3](https://www.legislation.gov.uk/uksi/2000/1050/regulation/3) substituted (6.4.2007) by [Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations 2007 (S.I. 2007/814)](https://www.legislation.gov.uk/uksi/2007/814), [regs. 1](https://www.legislation.gov.uk/uksi/2007/814/regulation/1), [9(3)](https://www.legislation.gov.uk/uksi/2007/814/regulation/9/3)
+
+[^key-ab1548bc799344040a01a3a324136887]: Textual amendment: Word in [reg. 4](https://www.legislation.gov.uk/uksi/2000/1050/regulation/4) substituted (6.4.2007) by [Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations 2007 (S.I. 2007/814)](https://www.legislation.gov.uk/uksi/2007/814), [regs. 1](https://www.legislation.gov.uk/uksi/2007/814/regulation/1), [9(3)](https://www.legislation.gov.uk/uksi/2007/814/regulation/9/3)
+
+[^key-5defa50e193245fb2988faadfdf5616a]: Textual amendment: Word in [reg. 5](https://www.legislation.gov.uk/uksi/2000/1050/regulation/5) substituted (6.4.2007) by [Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations 2007 (S.I. 2007/814)](https://www.legislation.gov.uk/uksi/2007/814), [regs. 1](https://www.legislation.gov.uk/uksi/2007/814/regulation/1), [9(3)](https://www.legislation.gov.uk/uksi/2007/814/regulation/9/3)
+
+[^key-6a1c83b5e884b14094d8debc98da795f]: Textual amendment: Word in [reg. 6](https://www.legislation.gov.uk/uksi/2000/1050/regulation/6) substituted (6.4.2007) by [Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations 2007 (S.I. 2007/814)](https://www.legislation.gov.uk/uksi/2007/814), [regs. 1](https://www.legislation.gov.uk/uksi/2007/814/regulation/1), [9(3)](https://www.legislation.gov.uk/uksi/2007/814/regulation/9/3)
+
+[^c1601142]: Marginal citation: [S.I. 1996/1901](https://www.legislation.gov.uk/uksi/1996/1901). Regulations 2, 4, 5, 8 and 9 were amended, and regulation 8A was inserted, by [S.I. 1997/745](https://www.legislation.gov.uk/uksi/1997/745).
+
+[^c1601143]: Marginal citation: [S.I. 1997/745](https://www.legislation.gov.uk/uksi/1997/745).

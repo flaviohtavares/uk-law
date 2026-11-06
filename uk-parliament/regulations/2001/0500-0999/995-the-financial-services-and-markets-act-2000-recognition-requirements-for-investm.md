@@ -1,0 +1,1894 @@
+---
+title: The Financial Services and Markets Act 2000 (Recognition Requirements for Investment Exchanges , Clearing Houses and Central Securities Depositories ) Regulations 2001
+id: uksi/2001/995
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2001-04-09'
+text_date: '2026-07-06'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2001/995
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2001/995/pdfs/uksi_20010995_en.pdf
+- http://www.legislation.gov.uk/uksi/2001/995/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Financial Services and Markets Act 2000 (Recognition Requirements for Investment Exchanges , Clearing Houses and Central Securities Depositories ) Regulations 2001
+
+> Text as at 2026-07-06.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2001 No. 995
+
+FINANCIAL SERVICES AND MARKETS
+
+The Financial Services and Markets Act 2000 (Recognition Requirements for Investment Exchanges , Clearing Houses and Central Securities Depositories[^key-eedddca06da39385ec757ab7e2d86943]) Regulations 2001
+
+Made
+
+9th April 2001
+
+Laid before Parliament
+
+10th April 2001
+
+Coming into force in accordance with regulation 2
+
+The Treasury, in exercise of the powers conferred on them by sections 286(1), 426, 427 and 428(3) of the Financial Services and Markets Act 2000[^f00001], and with the approval of the Secretary of State under section 286(2) of that Act, hereby make the following Regulations:[^key-862342e5a706142e97f9c4228536a95b][^key-06a4a4f689e0a1ba163b89eb8cfa21c5]
+
+## 1. Citation[^key-f073f334be8b93b87c46b858cbb2e3dc]
+
+These Regulations may be cited as the Financial Services and Markets Act 2000 (Recognition Requirements for Investment Exchanges , Clearing Houses and Central Securities Depositories[^key-db64777add579ab4f6703879a64d3f8a]) Regulations 2001.
+
+## 2. Commencement[^key-2916c3307813794c1c3d3465cbadc6a2]
+
+These Regulations come into force on the day on which sections 290(1) and 292(2) of the Act (which relate to the making of recognition orders) come into force.
+
+## 3. Interpretation[^key-da67eb45431cc43367797626b5ccd45c]
+
+(1) In these Regulations—
+
+- “the Act” means the Financial Services and Markets Act 2000;
+- “algorithmic trading” means trading in financial instruments where a computer algorithm automatically determines individual parameters of orders such as whether to initiate the order, the timing, price or quantity of the order or how to manage the order after its submission, with limited or no human intervention, and does not include any system that is only used for the purpose of routing orders to one or more trading venues or for the processing of orders involving no determination of any trading parameters or for the confirmation of orders or the post-trade processing of executed transactions;[^key-85a32cc390f1cae3e6dbbb4fc2c5b14b]
+- “the appropriate regulator” has the meaning given in section 285A of the Act;[^key-b41c18ba0711fc95ec1e0e9cb6262aeb]
+- [^key-a3cd44975aea2bc91fa316c31e2b2af8]...
+- [^key-7e8e7120792cd5e025f28490e4bcc327]...
+- “[^key-f3fb44d674ff67f3c8a330bd57336979]**certificates**” has the meaning given in Article 2.1.27 of the markets in financial instruments regulation;
+- [^key-11e8295f49d91f105d151c84a363c627]...
+- “**commodity derivatives**” has the meaning given in Article 2(1)(30) of the markets in financial instruments regulation[^key-343a167096d8a3bcc73b0013899dda50];
+- “the Companies Act” means the Companies Act 1989[^f00002];
+- [^key-bfb21ed082371552d5b8eb892ea88319]...
+- [^key-bfb21ed082371552d5b8eb892ea88319]...
+- “default fund” means the sum of the default fund contributions by the members or designated non-members of a recognised investment exchange to that exchange or by one recognised investment exchange to another or by the members of a recognised clearing house to that clearing house or by one recognised clearing house to another to the extent those contributions have not been returned or otherwise applied;[^key-04436f73d95896ec7cd462d4fa20bff9]
+- “default fund contribution” has the same meaning as in section 188(3A) of the Companies Act;
+- “defaulter” and “default” are to be construed in accordance with sections 188(2) and (2A)[^key-8671255646273d33bb85f12278a9a2af] of the Companies Act, and references to action taken under the default rules of an exchange or clearing house are to be construed in accordance with section 188(4) of that Act;
+- “**depositary receipts**” has the meaning given in Article 2(1)(25) of the markets in financial instruments regulation[^key-8c7c99047ef6597a11d68fe84bdfc0f0];
+- “derivative” has the meaning given in Article 2(1)(29) of the markets in financial instruments regulation;[^key-4fdcab25c485121d223e86649b44d760]
+- “direct electronic access” means an arrangement where a member or participant or client of a trading venue permits a person to use its trading code so the person can electronically transmit orders relating to a financial instrument directly to the trading venue and includes arrangements which involve the use by a person of the infrastructure of the member or participant or client, or any connecting system provided by the member or participant or client, to transmit the orders (direct market access) and arrangements where such an infrastructure is not used by a person (sponsored access);[^key-1e5873f2db1888151679a6b3c3f2114f]
+- “disorderly trading conditions” has the same meaning as in the markets in financial instruments directive;[^key-041e521566ce3a8a4b52d5588e6bd6bb]
+- “emission allowances” has the meaning given in paragraph 11 of Part 1 of Schedule 2 to the Financial Services and Markets Act 2000 (Regulated Activities) Order 2001;[^key-e564382613bcfcccab344c1532576fa6]
+- “**exchange-traded fund**” has the meaning given in Article 2(1)(26) of the markets in financial instruments regulations[^key-235a894d2806a5c93001d735e30d80d7];
+- “exempt activities”, in relation to a recognised body, means the regulated activities in respect of which the body is exempt from the general prohibition as a result of any of subsections (2) to (3A)[^key-94241eff2b646c37c65d321b3c519b37] or (3D)[^key-1b50be8e134a3dca40eb6ea11b7fc2ad] of section 285 of the Act;
+- “facilities”, in relation to a recognised body, means the facilities and services it provides in the course of carrying on exempt activities, and references to the use of the facilities of an exchange is to be construed in accordance with paragraph (2);
+- “the FCA” means the Financial Conduct Authority;
+- “financial crime” is to be construed in accordance with section 6(3) and (4) of the Act;
+- “financial instrument” has the meaning given in Article 2(1)(9) of the markets in financial instruments regulation[^key-e1e224204703ae176a7ad7dfe664dae7];
+- “the Financial Services Act” means the Financial Services Act 1986[^f00003];
+- “group” means a parent undertaking and all its subsidiary undertakings, and for those purposes, “parent undertaking” and “subsidiary undertaking” have the same meaning as in section 420 of the Act;[^key-59c37a308a6d194ce0a43035a97ec1cb]
+- “high-frequency algorithmic trading technique” means an algorithmic trading technique characterised by—[^key-16c326bfeda60663940850b874fa78a8]
+  - (a) infrastructure intended to minimise network and other types of latencies, including at least one of the following facilities for algorithmic order entry—
+    - (i) co-location;
+    - (ii) proximity hosting; or
+    - (iii) high-speed direct electronic access;
+  - (b) system-determination of order initiation, generation, routing or execution without human intervention for individual trades or orders; and
+  - (c) high message intraday rates (see regulation 3A)[^key-ee71ad3ec8bd621cc84f4f8e4ada0692] which constitute orders, quotes or cancellations;
+- “investments” means investments of a kind specified for the purposes of section 22 of the Act;
+- “liquid market” means a market for a financial instrument or a class of financial instruments, where there are ready and willing buyers and sellers on a continuous basis, assessed in accordance with the following criteria, taking into consideration the specific market structures of the particular financial instrument or of the particular class of financial instrument—[^key-5abe97ec39984192ef891cefa8b14df8]
+  - (a) the average frequency and size of transactions over a range of market conditions, having regard to the nature and cycle of products within the class of financial instrument;
+  - (b) the number and type of market participants, including the ratio of market participants to traded instruments in a particular product;
+  - (c) the average size of spreads, where available;
+- “**management body**” in relation to an exchange means—
+  - (a) the board of directors, or if there is no such board, the equivalent body responsible for the management of the exchange; and
+  - (b) any other person who effectively directs the business of the exchange;
+- “market contract” has the meaning given in section 286(4) of the Act (with reference, in the case of a recognised investment exchange, to section 155(2) of the Companies Act or article 80(2) of the Northern Ireland Order, or in the case of a recognised clearing house, to section 155(3) of the Companies Act or article 80(3) of the Northern Ireland Order) and references to a party to a market contract are to be construed in accordance with section 187 of the Companies Act;
+- “market operator” has the meaning given in Article 2(1)(10) of the markets in financial instruments regulation;[^key-7c730c22178df3d6c16903631f4c1c0d]
+- “matched principal trading” means a transaction where the facilitator interposes itself between the buyer and the seller to the transaction in such a way that it is never exposed to market risk throughout the execution of the transaction, with both sides executed simultaneously, and where the transaction is concluded at a price where the facilitator makes no profit or loss, other than a previously disclosed commission, fee or charge for the transaction;[^key-84952fc518812c423330b6bb021c7986]
+- “**multilateral system**” has the meaning given as in Article 2(1)(11) of the markets in financial instruments regulation[^key-b8bfcdfde442fac64065e56e3845eeea];
+- “multilateral trading facility” means a UK multilateral trading facility within the meaning given in Article 2(1)(14A) of the markets in financial instruments regulation;[^key-072a1cd06c4e67f3b352f4aea43a6e22]
+- “the Northern Ireland Order” means the Companies (No. 2) (Northern Ireland) Order 1990[^f00004]; and
+- “organised trading facility” means a UK organised trading facility within the meaning given in Article 2(1)(15A) of the markets in financial instruments regulation;[^key-17be3d4c1b5ee9c03459e5c03e8d556a]
+- “qualifying credit institution” has the meaning given in section 417 of the Act, and for the purposes of that definition, “Part 4A permission” and “the regulated activity of accepting deposits” have the same meaning as in the Act;
+- “regulated market” means a UK regulated market within the meaning of Article 2(1)(13A) of the markets in financial instruments regulation;[^key-4474d341943e7d0a701b40dfc14608d7]
+- “regulatory functions”, in relation to a recognised body, has the meaning given in section 291(3) of the Act.
+- “senior management” means natural persons who exercise executive functions within an investment firm, a market operator or a data reporting services provider and who are responsible, and accountable to the management body, for the day-to-day management of the entity, including for the implementation of the policies concerning the distribution of services and products to clients by the firm and its personnel;[^key-2742beb6ca73e6797b7f125f574c4cb2]
+- “settlement” has the same meaning as in the markets in financial instruments directive;[^key-20c76da9a58a3f017f96386acd10e7f2]
+- “SME growth market” means a multilateral trading facility that is registered as an SME growth market in accordance with Part 5.10 of the Market Conduct sourcebook;[^key-3ea255f5b6697bc3a5bf37c5acabd09d]
+- “**sovereign debt**” has the meaning given by Article 2(1)(46) of the markets in financial instruments regulation[^key-84018c814f44b60c24098a96de0df728];
+- “**structured finance products**” has the meaning given in Article 2(1)(28) of the markets in financial instruments regulation[^key-a650a80762c1d9940ac9ff44017802cc];
+- “**systematic internaliser**” has the meaning given in Article 2(1)(12) of the markets in financial instruments regulation[^key-5b2d26b11eaf227940edb0c689dfc148];
+- “**third country firm**” has the meaning given in Article 2(1)(42) of the markets in financial instruments regulation[^key-be0aa27675fda5ca77de04b025bbba38];
+- “transferable securities” has the meaning given in Article 2(1)(24) of the markets in financial instruments regulation[^key-969229f44bb460341c446a6f7bee26f1];
+- [^key-b485fb352cd6e03b7c9c0aeb3ee60dbb]...
+
+(1A)[^key-375aa5983c294d78d6a5202d55a12d31] In Part 1 of the Schedule, in paragraph 21A in Part 3 of the Schedule and in paragraph 31 in Part 5 of the Schedule, “clearing” has the same meaning as in the markets in financial instruments directive.
+
+(1B)[^key-e6154244e1755c1ef685497a1b09d2ee] Any reference in these Regulations to a sourcebook is to a sourcebook in the Handbook of Rules and Guidance published by the FCA containing rules made by the FCA under the 2000 Act as the sourcebook has effect on IP completion day.
+
+(2) In these Regulations, references to dealings on an exchange, or transactions effected on an exchange, are references to dealings or transactions which are effected by means of the exchange’s facilities or which are governed by the rules of the exchange, and references to the use of the facilities of an exchange include use which consists of any such dealings or entering into any such transactions.
+
+(3) In these Regulations, except in regulation 6, references to the performance of the functions of a recognised body are references to the carrying on by it of exempt activities together with the performance of its regulatory functions.
+
+(4)[^key-934798acd69e18581f018a7cd7c0308b] For the purposes of the definition of “algorithmic trading” in paragraph (1), a system is to be considered as having limited or no human intervention where, for any order or quote generation process or any process to optimise order-execution, an automated system makes decisions at any of the stages of initiating, generating, routing or executing orders or quotes according to pre-determined parameters.
+
+(5) For the purposes of the definition of “direct electronic access” in paragraph (1), a person is to be considered not capable of electronically transmitting orders relating to a financial instrument directly to a trading venue where either or both of the following apply—
+
+- (a) that person cannot exercise discretion regarding—
+  - (i) the exact fraction of a second of order entry, and
+  - (ii) the lifetime of the order within that timeframe;
+- (b) the electronic transmission of orders takes place through arrangements for optimisation of order execution processes that determine the parameters of the order other than the trading venue where the order should be submitted, unless these arrangements are embedded into that person’s systems and not into those of—
+  - (i) the member or participant of a regulated market or of a multilateral trading facility, or
+  - (ii) a client of an organised trading facility.
+
+## 3A. High message intraday rate[^key-95e9fb0897e7eece637a4e3922bbc276]
+
+(1) For the purposes of the definition of “high-frequency algorithmic trading technique” in regulation 3(1), a high message intraday rate consists of the submission on average of either of the following—
+
+- (a) at least 2 messages per second with respect to any single financial instrument traded on a trading venue;
+- (b) at least 4 messages per second with respect to all financial instruments traded on a trading venue.
+
+(2) Paragraphs (3) to (7) have effect for the purposes of the calculation in paragraph (1).
+
+(3) The following are to be included in the calculation—
+
+- (a) messages concerning financial instruments for which there is a liquid market in accordance with Article 2(1)(17) of the markets in financial instruments regulation;
+- (b) messages introduced for the purpose of a market-making strategy that satisfies the criteria in paragraph (4).
+
+(4) A market-making strategy satisfies the criteria in this paragraph where the strategy—
+
+- (a) is pursued by an investment firm as a member or participant in one or more trading venues when dealing on own account, and
+- (b) involves posting firm, simultaneous two-way quotes of comparable size and at competitive prices relating to one or more financial instruments on a single trading venue or across different trading venues, with the result of providing liquidity on a regular and frequent basis to the overall market.
+
+(5) Messages introduced for the purpose of dealing on own account are to be included in the calculation.
+
+(6) Messages introduced through trading techniques other than those relying on dealing on own account are to be included in the calculation where the firm’s execution technique is structured in such a way as to avoid the execution taking place on own account.
+
+(7) For the calculation of a high message intraday rate in relation to direct electronic access providers, messages submitted by their clients with direct electronic access are to be excluded from the calculations.
+
+(8) In this regulation “**dealing on own account**” means trading against proprietary capital resulting in the conclusion of transactions in one or more financial instruments.
+
+## 4. Recognition requirements for investment exchanges[^key-8fd036e07df8ab343a6fa290225792c8]
+
+Parts I and II of the Schedule set out recognition requirements applying to bodies in respect of which a recognition order has been made under section 290(1)(a) of the Act, or which have applied for such an order under section 287 of the Act.
+
+## 5. Recognition requirements for clearing houses which are not central counterparties[^key-a64a6703a417db7c19373442a2679452][^key-5618e49e9311ef5274046ffdd455d4f3]
+
+Parts III and IV of the Schedule set out recognition requirements applying to bodies in respect of which a recognition order has been made under section 290(1)(c)[^key-649f85ab18311a1de79aec5074d247f2] of the Act, or which have applied for such an order under section 288(1A)[^key-f3dd38c08551d3f922c436fd1b18c6f5] of the Act.
+
+## 5A. Recognition requirements for central counterparties[^key-53a974d5de4bf55b5be077f3c2ef7f5c]
+
+Parts 5 and 6 of the Schedule set out recognition requirements applying to bodies in respect of which a recognition order has been made under section 290(1)(b) of the Act, or which have applied for such an order under section 288(1) of the Act.
+
+## 5B. Recognition requirements for central securities depositories[^key-7341f38897c11dc86295e05b08c70c34]
+
+Part 7 of the Schedule sets out recognition requirements applying to bodies in respect of which a recognition order has been made under section 290(1)(d) of the Act, or which have applied for such an order under section 288A of the Act.
+
+## 6. Method of satisfying recognition requirements[^key-432a93c0fc26df9a4036b44cd3470fab]
+
+(1) In considering whether a recognised body or applicant satisfies recognition requirements applying to it under these Regulations, the appropriate regulator[^key-f470986c2062ab0718d60de9fafa9b19] may take into account all relevant circumstances including the constitution of the person concerned and its regulatory provisions and practices within the meaning of section 302(1) of the Act.
+
+(2) Without prejudice to the generality of paragraph (1), a recognised body or applicant may satisfy recognition requirements applying to it under these Regulations by making arrangements for functions to be performed on its behalf by any other person.
+
+(3) Where a recognised body or applicant makes arrangements of the kind mentioned in paragraph (2), the arrangements do not affect the responsibility imposed by the Act on the recognised body or applicant to satisfy recognition requirements applying to it under these Regulations, but it is in addition a recognition requirement applying to the recognised body or applicant that the person who performs (or is to perform) the functions is a fit and proper person who is able and willing to perform them.
+
+(4)[^key-2233b4d04f9ad1f1da38aaf0e9e171ad] This regulation does not apply in respect of a recognised CSD or an applicant for an order under section 288A of the Act.
+
+## 7. Dealings and transactions not involving investments[^key-86518e44da15492bc521b6f4d042650e]
+
+Nothing in these Regulations is to be construed as requiring a recognised investment exchange to limit dealings on the exchange to dealings in investments, or as requiring a [^key-bce213f1b8a4f3d53e7b65f013232f34]... recognised clearing house to limit the provision of its clearing services to clearing services in respect of transactions in investments.
+
+## 8. Exchanges and clearing houses which do not enter into market contracts[^key-967fcf0374b2a414f5b1f354bd3850e4]
+
+Nothing in Parts II or IV of the Schedule is to be taken as requiring a recognised investment exchange or recognised clearing house which does not enter into such contracts as are mentioned in section 155(2)(b) or (3) of the Companies Act to have default rules, or to make any arrangements, relating to such contracts.
+
+## 9. Effect of recognition under the Financial Services Act 1986[^key-1ce80301ee41b59b371e32d7ec7716b4]
+
+(1) In this regulation, “commencement” means the beginning of the day on which subsections (2) and (3) of section 285 of the Act (exemption from the general prohibition for recognised investment exchanges and clearing houses) come into force.
+
+(2) Subject to paragraph (3), an order under section 37(3) of the Financial Services Act which was in force immediately before commencement has effect after commencement as if it were a recognition order made under section 290(1)(a) of the Act following an application under section 287 of the Act, declaring the body or association to which it relates to be a recognised investment exchange.
+
+(3) But if the order was made by virtue of section 40(2) of the Financial Services Act (recognition requirements for overseas investment exchanges and clearing houses), it has effect as if it were a recognition order made under section 292(2)(a) of the Act.
+
+(4) Subject to paragraph (5), an order under section 39(3) of the Financial Services Act which was in force immediately before commencement has effect after commencement as if it were a recognition order made under section 290(1)(b) of the Act following an application under section 288 of the Act, declaring the body or association to which it relates to be a recognised clearing house.
+
+(5) But if the order was made by virtue of section 40(2) of the Financial Services Act (recognition requirements for overseas investment exchanges and clearing houses), it has effect as if it were a recognition order made under section 292(2)(b) of the Act.
+
+(6) Where a recognition order has effect by virtue of this regulation, the Authority may not give a notice under section 298(1)(a) of the Act, giving notice of its intention to give a direction under section 296 or to make a revocation order under section 297(2) in relation to the recognised body concerned, earlier than one month after commencement.
+
+(7) Paragraph (6) is without prejudice to section 298(7) of the Act (which permits the Authority to give a direction under section 296 of the Act without following the procedure set out in section 298, if the Authority considers it essential to do so), or to the continued effect of any notice which has effect as a notice given under section 298(1)(a) of the Act by virtue of regulation 10(4) below.
+
+## 10. Revocation of recognition: action taken before commencement[^key-0f3a477a745b9a2b5ac7db2302dfc9ee]
+
+(1) In this regulation—
+
+- (a) “commencement” has the same meaning as in regulation 9 above, and
+- (b) “relevant person” means—
+  - (i) in relation to action taken in respect of a body or association of the kind described in section 40(1) of the Financial Services Act[^f00005] (overseas investment exchanges and clearing houses), the Treasury, or
+  - (ii) in any other case, the Authority.
+
+(2) This regulation applies to action taken by a relevant person before commencement pursuant to section 37(7) or 39(7) of the Financial Services Act[^f00006] (which relate to revocation of recognition orders under that Act), or pursuant to subsections (2) to (9) of section 11 of that Act as they had effect by virtue of section 37(7) or 39(7).
+
+(3) Paragraphs (4) to (8) apply where a relevant person has given notice to a body or association under section 11(3) of the Financial Services Act of its intention to revoke a recognition order made under that Act in relation to that body or association, but has not notified the body or association of its determination whether to proceed to revoke that recognition order.
+
+(4) The notice has effect after commencement as if it were a notice given by the Authority under section 298(1)(a) of the Act, giving notice of the Authority’s intention to revoke the recognition order which is treated as having effect in relation to the body or association by virtue of regulation 9 above.
+
+(5) If before commencement the relevant person has complied with—
+
+- (a) the requirement in subsection (3) of section 11 of the Financial Services Act to bring the notice to the attention of members of the body or association in question, or
+- (b) the requirement in that subsection to publish the notice to other persons likely to be affected,
+
+the Authority is to be treated as having complied with the equivalent requirement in section 298(1)(b) or (as the case may be) (c) of the Act, in relation to the notice under section 298(1)(a) which has effect by virtue of paragraph (4).
+
+(6) Nothing in paragraph (4) or in the Act is to be treated as changing the length or affecting the continuity of the period within which, in accordance with the notice as originally given, representations might be made by any person to the relevant person pursuant to section 11(5) of the Financial Services Act, but any such representations are to be considered by the Authority as if they were representations made to it pursuant to section 298(3) of the Act.
+
+(7) For the purposes of the Authority’s consideration whether to proceed to exercise the power to make a revocation order under subsection (2) of section 297 of the Act (but without prejudice to any exercise by the Authority of that power where it has given a new notice under section 298(1)(a) after commencement), that subsection is to be read as if the reference in paragraph (a) to recognition requirements were a reference to recognition requirements other than new recognition requirements, and as if the reference in paragraph (b) to obligations were a reference to obligations other than new obligations.
+
+(8) A recognition requirement or obligation is to be treated as a new recognition requirement or obligation if its effect is not substantially the same as the effect of a requirement or obligation of the kind mentioned (or having effect as if mentioned) in section 37(7) (in the case of an investment exchange) or 39(7) (in the case of a clearing house) of the Financial Services Act (as those provisions had effect immediately before commencement).
+
+(9) Paragraph (10) applies where a relevant person has made an order (“the revoking order”) under section 37(7) or 39(7) of the Financial Services Act, revoking a recognition order made in relation to a body or association under that Act, but either—
+
+- (a) the revoking order has not taken effect in accordance with section 11(2) of the Financial Services Act, or
+- (b) the revoking order has taken effect but contains transitional provisions pursuant to section 11(7) of the Financial Services Act which continued to have effect immediately before commencement.
+
+(10) The revoking order has effect after commencement as if it were a revocation order made by the Authority under section 297 of the Act, revoking (with effect from the date specified in the revoking order) the recognition order which is treated as having effect in relation to the body or association by virtue of regulation 9 above, and as if any such transitional provisions were included in the revocation order by virtue of section 297(5) of the Act.
+
+## 11. FCA rules[^key-1d0bb41428f8881fa64d1613d1cc5e95]
+
+The FCA may make rules for the purposes of these Regulations.
+
+David Clelland
+
+Clive Betts
+
+Two of the Lords Commissioners of Her Majesty’s Treasury
+
+15th March 2001
+
+Approved,
+
+Kim Howells
+
+Parliamentary Under Secretary of State for Consumers and Corporate Affairs,
+
+Department of Trade and Industry
+
+9th April 2001
+
+## SCHEDULE
+
+Regulations 4 and 5.
+
+### PART I — Recognition requirements for investment exchanges
+
+#### Financial resources
+
+**1.**[^key-aa3e50907f6ba7ccb75df54e7411ee95] (1) The exchange must have financial resources sufficient for the proper performance of its functions as a recognised investment exchange.
+
+(2) In considering whether this requirement is satisfied, the[^key-ef1757323dbd4dd01a04ba98dc79f52f] FCA must[^key-326dd17e1c7d3601347e3b67c201c60d] (without prejudice to the generality of regulation 6(1)) take into account all the circumstances, including the exchange’s connection with any person, and any activity carried on by the exchange, whether or not it is an exempt activity.
+
+#### Suitability
+
+**2.**[^key-204a8ca9d1da91881f773406aa15bb73] (1) The exchange must be a fit and proper person to perform the functions of a recognised investment exchange.
+
+(2) In considering whether this requirement is satisfied, the FCA may (without prejudice to the generality of regulation 6(1)) take into account all the circumstances, including the exchange’s connection with any person.
+
+(3)[^key-df0e25c74936063859c4c9193b633a09][^key-9d3aca6e5f53996370189a583aeba1e6] The members of the management body must be of sufficiently good repute and possess sufficient knowledge, skills and experience to perform their duties.
+
+(4) The persons who are in a position to exercise significant influence over the management of the exchange, whether directly or indirectly, must be suitable.
+
+#### Management body[^M_F_fad5eb0a-1508-4e4c-d60c-08ce1735d230]
+
+**2A.** (1) The composition of the management body of an exchange must reflect an adequately broad range of experience.
+
+(2) The management body must possess adequate collective knowledge, skills and experience in order to understand the exchange's activities and main risks.
+
+(3) Members of the management body must—
+
+- (a) commit sufficient time to perform their functions on the management body;
+- (b) act with honesty, integrity and independence of mind; and
+- (c) effectively—
+  - (i) assess and challenge, where necessary, the decisions of the senior management; and
+  - (ii) oversee and monitor decision-making.
+
+(4) The management body must—
+
+- (a) define and oversee the implementation of governance arrangements that ensure the effective and prudent management of the exchange in a manner which promotes the integrity of the market, which at least must include—
+  - (i) the segregation of duties in the organisation; and
+  - (ii) the prevention of conflicts of interest;
+- (b) monitor and periodically assess the effectiveness of the exchange's governance arrangements; and
+- (c) take appropriate steps to address any deficiencies found as a result of the monitoring under paragraph (b).
+
+(5) An exchange must—
+
+- (a) devote adequate human and financial resources to the induction and training of members of the management body;
+- (b) ensure that the management body has access to the information and documents it requires to oversee and monitor management decision-making; and
+- (c) notify the FCA of the identity of all the members of its management body.
+
+(6) An exchange and, if it has a nomination committee, its nomination committee must engage a broad set of qualities and competences when recruiting persons to the management body, and for that purpose have a policy promoting diversity on the management body.
+
+(7) The number of directorships a member of the management body can hold at the same time must take into account individual circumstances and the nature, scale and complexity of the exchange's activities.
+
+#### Management body: significant exchanges
+
+**2B.** (1) If an exchange is significant the following requirements apply to the management body—
+
+- (a) members of the management body must not at the same time hold positions exceeding more than one of the following combinations—
+  - (i) one executive directorship with two non-executive directorships (or where so authorised by the FCA under regulation 44(1) of the Financial Services and Markets Act 2000 (Markets in Financial Instruments) Regulations 2017[^key-d269a085d04b3e423ea9ee06d71b291f], three non-executive directorships); or
+  - (ii) four non-executive directorships (or where so authorised by the FCA under regulation 44(1) of the Financial Services and Markets Act 2000 (Markets in Financial Instruments) Regulations 2017, five non-executive directorships); and
+- (b) the management body must have a nomination committee unless it is prevented by law from selecting and appointing its own members.
+
+(2) For the purposes of sub-paragraph (1)(a)—
+
+- (a) any directorship in which the person represents the United Kingdom is not counted;
+- (b) executive or non-executive directorships—
+  - (i) held within the same group, or
+  - (ii) held within the same undertaking where the exchange holds a qualifying holding [^key-12d9fbf03fe8d7eb9484e12ec51323f5]...,
+
+  shall be counted as a single directorship; and
+- (c) any directorship in an organisation which does not pursue predominantly commercial objectives is not counted.
+
+(3) The nomination committee referred to in sub-paragraph (1)(b) must—
+
+- (a) be composed of members of the management body who do not perform an executive function in the exchange;
+- (b) identify and recommend to the exchange persons to fill management body vacancies;
+- (c) at least annually assess the structure, size, composition and performance of the management body and make recommendations to the management body;
+- (d) at least annually assess the knowledge, skills and experience of individual members of the management body and of the management body collectively, and report to the management body accordingly;
+- (e) periodically review the policy of the management body for the selection and appointment of senior management and make recommendations to the management body; and
+- (f) be able to use any forms of resource it deems appropriate, including external advice.
+
+(4) In performing its functions under sub-paragraph (3) the nomination committee must take account of the need to ensure that the management body's decision-making is not dominated by—
+
+- (a) any one individual; or
+- (b) a small group of individuals,
+
+in a manner that is detrimental to the interests of the exchange as a whole.
+
+(5) In performing its function under sub-paragraph (3)(b) the nomination committee must—
+
+- (a) evaluate the balance of knowledge, skills, diversity and experience of the management body;
+- (b) prepare a description of the roles, capabilities and expected time commitment for any particular appointment;
+- (c) decide on a target for the representation of the underrepresented gender in the management body and prepare a policy on how to meet that target;
+- (d) engage a broad set of qualities and competences, and for that purpose have a policy promoting diversity on the management body.
+
+(6) In sub-paragraph (1), “**significant**” in relation to an exchange means significant in terms of the size and internal organisation of the exchange and the nature, scope and complexity of the exchange's activities.
+
+(7)[^key-98e5f8aa14a49656c9f1db30f039dd3e] In sub-paragraph (2)(b)(ii)—
+
+- “qualifying holding” means a direct or indirect holding in an investment firm which represents 10 % or more of the capital or of the voting rights, as set out in Articles 9 and 10 of [Directive 2004/109/EC](https://www.legislation.gov.uk/european/directive/2004/0109), taking into account the conditions regarding aggregation thereof laid down in Article 12(4) and (5) of that Directive, or which makes it possible to exercise a significant influence over the management of the investment firm in which that holding subsists;
+- “[Directive 2004/109/EC](https://www.legislation.gov.uk/european/directive/2004/0109)” means [Directive 2004/109/EC](https://www.legislation.gov.uk/european/directive/2004/0109) of the European Parliament and of the Council on the harmonisation of transparency requirements in relation to information about issuers whose securities are admitted to trading on a regulated market.
+
+#### Systems and controls
+
+**3.**[^key-d82b433955d2e1e829fa28da33ce8f5e] (1)[^M_F_e0d0ea9c-89f3-4b46-db3a-09c55b042d43] The exchange must ensure that the systems and controls, including procedures and arrangements, used in the performance of its functions and the functions of the trading venues it operates are adequate, effective and appropriate for the scale and nature of its business.
+
+(2) Sub-paragraph (1) applies in particular to systems and controls concerning—
+
+- (a) the transmission of information;
+- (b) the assessment , mitigation[^key-4d655bbbd826bee53fe25564899ae51f] and management of risks to the performance of the exchange’s functions;
+- (c) the effecting and monitoring of transactions on the exchange;
+- (ca)[^key-e7c9ac7fe8996bb046f4f4ebc6ca12d7] the technical operation of the exchange, including contingency arrangements for disruption to its facilities;
+- (d) the operation of the arrangements mentioned in paragraph 4(2)(d) below; [^key-8cb02db02a0de08c08f458ff044cebe7]...
+- (e) (where relevant) the safeguarding and administration of assets belonging to users of the exchange’s facilities;
+- (f)[^key-47c2ec49c83fedd8f422f36b313af5ad] the resilience of its trading systems;
+- (g) the ability to have sufficient capacity to deal with peak order and message volumes;
+- (h) the ability to ensure orderly trading under conditions of severe market stress;
+- (i) the effectiveness of business continuity arrangements to ensure the continuity of the exchange's services if there is any failure of its trading systems including the testing of the exchange's systems and controls;
+- (j) the ability to reject orders that exceed predetermined volume or price thresholds or which are clearly erroneous;
+- (k) the ability to ensure algorithmic trading systems cannot create or contribute to disorderly trading conditions on trading venues operated by the exchange;
+- (l) the ability to ensure disorderly trading conditions which arise from the use of algorithmic trading systems, including systems to limit the ratio of unexecuted orders to transactions that may be entered into the exchange's trading system by a member or participant, are capable of being managed;
+- (m) the ability to ensure the flow of orders is capable of being slowed down if there is a risk of system capacity being reached;
+- (n) the ability to limit and enforce the minimum tick size which may be executed on its trading venues; and
+- (o) the requirement for members and participants to carry out appropriate testing of algorithms.
+
+(3) For the purposes of sub-paragraph (2)(c), the exchange must—
+
+- (a) establish and maintain effective arrangements and procedures including the necessary resource for the regular monitoring of the compliance by their members or participants with its rules; and
+- (b) monitor orders sent including cancellations and the transactions undertaken by its members or participants under its systems in order to identify infringements of those rules, disorderly trading conditions or conduct that may indicate behaviour that is prohibited under the market abuse regulation or system disruptions in relation to a financial instrument.
+
+(4) For the purposes of sub-paragraph (2)(o) the exchange must provide environments to facilitate such testing.
+
+(5) The exchange must be adequately equipped to manage the risks to which it is exposed, to implement appropriate arrangements and systems to identify all significant risks to its operation, and to put in place effective measures to mitigate those risks.
+
+#### Market making agreements[^M_F_0750fccb-0dee-43aa-a5a1-5a82566f362d]
+
+**3A.** (1) The exchange must—
+
+- (a) have written agreements with all investment firms pursuing a market making strategy on trading venues operated by it (“market making agreements”);
+- (b) have schemes, appropriate to the nature and scale of a trading venue, to ensure that a sufficient number of investment firms enter into such agreements which require them to post firm quotes at competitive prices with the result of providing liquidity to the market on a regular and predictable basis;
+- (c) monitor and enforce compliance with the market making agreements;
+- (d) inform the FCA of the content of its market making agreements; and
+- (e) provide the FCA with any information it requests which is necessary for the FCA to satisfy itself that the market making agreements comply with paragraphs (c) and (d) of this sub-paragraph and sub-paragraph (2).
+
+(2) A market making agreement must specify—
+
+- (a) the obligations of the investment firm in relation to the provision of liquidity;
+- (b) where applicable, any obligations arising from the participation in a scheme mentioned in sub-paragraph (1)(b);
+- (c) any incentives in terms of rebates or otherwise offered by the exchange to the investment firm in order for it to provide liquidity to the market on a regular and predictable basis; and
+- (d) where applicable, any other rights accruing to the investment firm as a result of participation in the scheme referred to in sub-paragraph (1)(b).
+
+(3) For the purposes of this paragraph, an investment firm pursues a market making strategy if—
+
+- (a) the firm is a member or participant of one or more trading venues;
+- (b) the firm's strategy, when dealing on own account, involves posting firm, simultaneous two-way quotes of comparable size and at competitive prices relating to one or more financial instruments on a single trading venue, or across different trading venues; and
+- (c) the result is providing liquidity on a regular and frequent basis to the overall market.
+
+#### Halting trading
+
+**3B.** (1) The exchange must be able to—
+
+- (a) temporarily halt or constrain trading on any trading venue operated by it if there is a significant price movement in a financial instrument on such a trading venue or a related trading venue during a short period; and
+- (b) in exceptional cases cancel, vary, or correct, any transaction.
+
+(2) For the purposes of sub-paragraph (1) the exchange must ensure that the parameters for halting trading are calibrated in a way which takes into account—
+
+- (a) the liquidity of different asset classes and sub-classes;
+- (b) the nature of the trading venue market model; and
+- (c) the types of users,
+
+to ensure the parameters avoid significant disruptions to the orderliness of trading.
+
+(3) The exchange must report the parameters mentioned in sub-paragraph (2) and any material changes to those parameters to the FCA in a format to be specified by the FCA.
+
+(4) If a trading venue operated by the exchange is material in terms of liquidity of the trading of a financial instrument and it halts trading in the United Kingdom[^key-7556688228f146fa8e888e8d77ac8db2] in that instrument, it must have systems and procedures in place to ensure that it notifies the FCA.
+
+#### Direct electronic access
+
+**3C.** Where the exchange permits direct electronic access to a trading venue it operates it must—
+
+- (a) ensure that a member of, or participant in, the trading venue is only permitted to provide direct electronic access to the venue if the member or participant—
+  - (i)[^key-9e00b363fefb917a5a7078d7f16f8189] an investment firm which has permission under Part 4A of the Act to carry on a regulated activity which is any of the investment services or activities;
+  - (ii)[^key-f6782b87329942251846de18634fecb0] a qualifying credit institution that has Part 4A permission to carry on the regulated activity of accepting deposits;
+  - (iii)[^key-41d1cf0fa79f4f3775f9fe14f8a08644] is a person who falls within regulation 30(1A) of the Financial Services and Markets Act 2000 (Markets in Financial Instruments) Regulations 2017 and has permission under Part 4A of the Act to carry on a regulated activity which is any of the investment services or activities;
+  - (iv) is a third country firm providing the direct electronic access in the course of exercising rights under Article 46.1 (general provisions) [^key-1783faa760d045013478b00e35d208d6]... of the markets in financial instruments regulation;
+  - (v) is a third country firm and the provision of the direct electronic access by that firm is subject to the exclusion in article 72 of the Financial Services and Markets Act 2000 (Regulated Activities) Order 2001; or
+  - (vi) is a third country firm which does not come within paragraph (iv) or (v) and is otherwise permitted to provide the direct electronic access under the Act;
+- (b) ensure that appropriate criteria are set and applied for the suitability of persons to whom direct electronic access services may be provided;
+- (c) ensure that a member of, or participant in, the trading venue retains responsibility for adherence to the requirements of any provisions of the law of the United Kingdom relied on by the United Kingdom before IP completion day to implement[^key-a6ef387977fa1e0ba8f5813172c6709c] the markets in financial instruments directive in respect of orders and trades executed using the direct electronic access service , as those provisions have effect on IP completion day, in the case of rules made by the FCA under the Act, and as amended from time to time, in all other cases[^key-b2c2d5de1284a4d8b8e290668d7925c8];
+- (d) set appropriate standards for risk controls and thresholds on trading through direct electronic access;
+- (e) be able to distinguish and if necessary stop orders or trading on that trading venue by a person using direct electronic access separately from—
+  - (i) other orders; or
+  - (ii) trading by the member or participant providing the direct electronic access; and
+- (f) have arrangements in place to suspend or terminate the provision to a client of direct electronic access to that trading venue by a member of, or participant in, the trading venue in the case of non-compliance with this paragraph.
+
+#### Co-location services
+
+**3D.** The exchange's rules on co-location services must be transparent, fair and non-discriminatory.
+
+#### Fee structures
+
+**3E.** (1) The exchange's fee structure, for all fees it charges including execution fees and ancillary fees and rebates it grants, must—
+
+- (a) be transparent, fair and non-discriminatory;
+- (b) not create incentives to place, modify or cancel orders, or execute transactions, in a way which contributes to disorderly trading conditions or market abuse; and
+- (c) impose market making obligations in individual shares or suitable baskets of shares for any rebates that are granted.
+
+(2) Nothing in sub-paragraph (1) prevents the exchange from—
+
+- (a) adjusting its fees for cancelled orders according to the length of time for which the order was maintained;
+- (b) calibrating its fees to each financial instrument to which they apply;
+- (c) imposing a higher fee—
+  - (i) for placing an order which is cancelled than an order which is executed;
+  - (ii) on participants placing a high ratio of cancelled orders to executed orders; or
+  - (iii) on a person operating a high-frequency algorithmic trading technique,
+
+in order to reflect the additional burden on system capacity.
+
+#### Algorithmic trading
+
+**3F.** The exchange must require members of and participants in trading venues operated by it to flag orders generated by algorithmic trading in order for it to be able to identify—
+
+- (a) the different algorithms used for the creation of orders; and
+- (b) the persons initiating those orders.
+
+#### Tick size regimes
+
+**3G.** (1) Subject to sub-paragraph (1A), the exchange[^key-15d39c694eaee83b0af3cfab0d6938dd] must adopt tick size regimes in respect of trading venues operated by it in—
+
+- (a) shares, depositary receipts, exchange-traded funds, certificates and other similar financial instruments traded on each trading venue; and
+- (b)[^key-77a2b72e380d2cb9c8b42734f24c3558] any financial instrument for which technical standards are adopted by the FCA under paragraphs 24 and 25 of Part 2 of Schedule 3 to the markets in financial instruments regulation which is traded on that trading venue.
+
+(1A)[^key-548f4a7d0965bb401104a51b9b766dfb] The application of tick sizes shall not prevent the exchange from matching orders that are large in scale (as determined in accordance with Article 4 of the markets in financial instruments regulation) at the mid-point within the current bid and offer prices.
+
+(2) The tick size regime must—
+
+- (a) be calibrated to reflect the liquidity profile of the financial instrument in different markets and the average bid-ask spread taking into account the desirability of enabling reasonably stable prices without unduly constraining further narrowing of spreads; and
+- (b) adapt the tick size for each financial instrument appropriately.
+
+(3)[^key-e5dfb6b0d245a5b759928ca0de608cec] The tick size regime must comply with Commission Delegated Regulation (EU) [2017/588](https://www.legislation.gov.uk/european/regulation/2017/588) of 14 July 2016 supplementing [Directive 2014/65/EU](https://www.legislation.gov.uk/european/directive/2014/0065) of the European Parliament and of the Council with regard to regulatory technical standards on the tick size regime for shares, depositary receipts and exchange-traded funds.
+
+#### Synchronisation of business clocks
+
+**3H.** The exchange must synchronise the business clocks it uses to record the date and time of any reportable event in accordance with Commission Delegated Regulation ([^key-1a15bf0cb60c7b7ef77e7399854674d7]EU) [2017/574](https://www.legislation.gov.uk/european/regulation/2017/574) of 7 June 2016 supplementing [Directive 2014/65/EU](https://www.legislation.gov.uk/european/directive/2014/0065) of the European Parliament and of the Council with regard to regulatory technical standards for the level of accuracy of business clocks.
+
+#### Safeguards for investors
+
+**4.**[^key-7b6a62b5c9022eb0daebfbbc6aecdc95] (1) The exchange must ensure that business conducted by means of its facilities is conducted in an orderly manner and so as to afford proper protection to investors.
+
+(2) Without prejudice to the generality of sub-paragraph (1), the exchange must ensure that—
+
+- (a) access to the exchange’s facilities is subject to criteria designed to protect the orderly functioning of the market and the interests of investors and is in accordance with paragraph 7B[^key-70884e832e54a77e4e43226b6a82d895];
+- (aa)[^key-26db4c85d7c0c5768b74ac6d286dc388] it has transparent [^key-34c28f32f0bba982c0f025ddf20129a0]... rules and procedures—
+  - (i) to provide for fair and orderly trading, and
+  - (ii) to establish objective criteria for the efficient execution of orders;
+- (b)[^key-e4de85760173bc4b4f469953ed6682c7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c) appropriate arrangements are made for relevant information to be made available (whether by the exchange or, where appropriate, by issuers of the investments) to persons engaged in dealing in investments on the exchange;
+- (d) satisfactory arrangements , which comply with paragraph 7D,[^key-aa5b5df9e863275191df8e505f395e72] are made for securing the timely discharge (whether by performance, compromise or otherwise) of the rights and liabilities of the parties to transactions effected on the exchange (being rights and liabilities in relation to those transactions);
+- (e) satisfactory arrangements are made for recording transactions effected on the exchange, and transactions (whether or not effected on the exchange) which are cleared or to be cleared by means of its facilities;
+- (ea)[^key-ae83606f1ba7bbe97c79f26a4b7d1001] appropriate arrangements are made to—
+  - (i) identify conflicts between the interests of the exchange, its owners and operators and the interests of the persons who make use of its facilities or the interests of the trading venues[^key-9c4c16dbd5825c2055119b87ed26f367] operated by it, and
+  - (ii) manage such conflicts so as to avoid adverse consequences for the operation of the trading venues operated by the exchange and for the persons who make use of its facilities;
+- (f) appropriate measures [^key-e0bf1587ba18ce1f60f313d36f986a34]... are adopted to reduce the extent to which the exchange’s facilities can be used for a purpose connected with market abuse or financial crime, and to facilitate their detection and monitor their incidence; [^key-2007bfca2b86a98b49e6eedcef0ed694]...
+- (fa)[^key-8b923d24f4153220fb628601ed2c8704] it immediately reports to the FCA any significant breaches of its rules or disorderly trading conditions or conduct that may indicate behaviour which is prohibited under the market abuse regulation or system disruptions in relation to a financial instrument; and
+- (g) where the exchange’s facilities include making provision for the safeguarding and administration of assets belonging to users of those facilities, satisfactory arrangements are made for that purpose.
+
+(3) In sub-paragraph (2)(c), “relevant information” means information which is relevant in determining the current value of the investments.
+
+#### Provision of pre-trade information about share trading[^key-b0d905245d34e43ae65817a24a50c6cd]
+
+**4A.**[^key-c0815eb7ce6ad6598d348968ea7d0ee9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Provision of post-trade information about share trading
+
+**4B.**[^key-134da8f46818f91f49dc21e9488a9cd4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Publication of data regarding execution of transactions
+
+**4C.**[^key-158e949f2bccb7e299b8fd57a55c3832] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Disclosure by issuers of securities
+
+**5.**[^key-0f8523b47563da2013bc0584dbcb798e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Promotion and maintenance of standards
+
+**6.**[^key-621f005ffb0fa04ebdf3742c1c3c3dde] (1) The exchange must be able and willing to promote and maintain high standards of integrity and fair dealing in the carrying on of regulated activities by persons in the course of using the facilities provided by the exchange.
+
+(2) The exchange must be able and willing to cooperate, by the sharing of information or otherwise, with the FCA, with any other authority, body or person having responsibility in the United Kingdom for the supervision or regulation of any regulated activity or other financial service, or with an overseas regulator within the meaning of section 195 of the Act.
+
+#### Rules and consultation
+
+**7.**[^key-80784eac126edeb33ba45ded869bf294] (1) The exchange must ensure that appropriate procedures are adopted for it to make rules, for keeping its rules under review and for amending them.
+
+(2) The procedures must include procedures for consulting users of the exchange’s facilities in appropriate cases.
+
+(3) The exchange must consult users of its facilities on any arrangements it proposes to make for dealing with penalty income in accordance with paragraph 8(3) below (or on any changes which it proposes to make to those arrangements).
+
+#### Admission of financial instruments to trading[^key-c8b3bc6c9d84a791a27a2c248af406f1]
+
+**7A.** (1) The exchange must make clear and transparent rules concerning the admission of financial instruments to trading on any trading venue[^key-96cd66863de825a66981e3d22b3f4c0f] operated by it.
+
+(2)[^key-17db6bf7e51599421b45a719914a21e5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3)[^key-17db6bf7e51599421b45a719914a21e5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4)[^key-17db6bf7e51599421b45a719914a21e5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5)[^key-17db6bf7e51599421b45a719914a21e5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(6)[^key-17db6bf7e51599421b45a719914a21e5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(7)[^key-17db6bf7e51599421b45a719914a21e5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(8)[^key-17db6bf7e51599421b45a719914a21e5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(9)[^key-17db6bf7e51599421b45a719914a21e5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(10)[^key-17db6bf7e51599421b45a719914a21e5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(11)[^key-17db6bf7e51599421b45a719914a21e5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Access to the exchange’s facilities
+
+**7B.** (1) The exchange must make transparent and non-discriminatory rules, based on objective criteria, governing access to, or membership of, its facilities.
+
+(2) In particular those rules must specify the obligations for users or members of its facilities arising from—
+
+- (a) the constitution and administration of the exchange;
+- (b) rules relating to transactions on its trading venues[^key-e7a41e867215b9c39fd670c4c5230647];
+- (c) its professional standards for staff of any investment firm or qualifying credit institution[^key-8da3c474ead0f22f961989249465e244] having access to or membership of a trading venue[^key-aaa9f94252a5584a160b846a329e26cb] operated by the exchange;
+- (d) conditions established under sub-paragraph (3)(c) for access to or membership of a trading venue[^key-98108777e5131ace42a357da4c9b6e73] operated by the exchange by persons other than investment firms or qualifying credit institutions; and
+- (e) the rules and procedures for clearing and settlement of transactions concluded on a trading venue[^key-4f3963f2f6ea8071f9390b2d0bf4e893] operated by the exchange.
+
+(3)[^key-7066af7f827be8305fa84938955e53a2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4)[^key-16ca287cf36fb1b69662391fcf279ebf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5) The exchange must make arrangements regularly to provide the FCA with a list of the users or members of its facilities.
+
+(6) This paragraph is without prejudice to the generality of paragraph 4.
+
+#### Position management[^M_F_ff67ed3d-8860-44ab-da3a-e8eecd0bf44c]
+
+**7BA.**[^key-3063fd0d242d9f8fbdad7e1c6949960d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Position reporting
+
+**7BB.** (1) This paragraph applies to an exchange operating a trading venue which trades commodity derivatives, emission allowances, or emission allowance derivatives.
+
+(2) The exchange must—
+
+- (a) where it meets the minimum threshold, as specified in rules made by the FCA under regulation 11[^key-8d7958938d167195133328c5e6209ddc], make public a weekly report with the aggregate positions held by the different categories of persons for the different commodity derivatives, emission allowances or emission allowance derivatives traded on the trading venue specifying—
+  - (i) the number of long and short positions by such categories;
+  - (ii) changes of those positions since the previous report;
+  - (iii) the percentage of the total open interest represented by each category; and
+  - (iv) the number of persons holding a position in each category; and
+- (b) provide the FCA with a complete breakdown of the positions held by all persons, including the members and participants and their clients, on the trading venue on a daily basis, or more frequently if that is required by the FCA.
+
+(3) For the weekly report mentioned in sub-paragraph (2)(a) the exchange must—
+
+- (a) categorise persons in accordance with the classifications required under sub-paragraph (4); and
+- (b) differentiate between positions identified as—
+  - (i) positions which in an objectively measurable way reduce risks directly relating to commercial activities; or
+  - (ii) other positions.
+
+(4) The exchange must classify persons holding positions in commodity derivatives, emission allowances or emission allowance derivatives according to the nature of their main business, taking account of any applicable authorisation or registration, as—
+
+- (a) an investment firm or qualifying credit institution[^key-9302cf4439bb0bde284f4471916af0fb];
+- (b)[^key-cfd16a69f4fb21dcb4e935c6eb1b98f0] an investment fund, either as an undertaking for collective investment in transferable securities within the meaning of section 236A of the Act, an AIF or an AIFM within the meaning of regulations 3 and 4 respectively of the Alternative Investment Fund Managers Regulations 2013;
+- (c)[^key-4d330ff86dcfe61ec19fcc6544026e57] another financial institution, including an insurance undertaking within the meaning of section 417 of the Act, a reinsurance undertaking within the meaning of section 417 of the Act, and an occupational pension scheme within the meaning of section 1(1) of the Pension Schemes Act 1993;
+- (d) a commercial undertaking; or
+- (e) in the case of emission allowances or emission allowance derivatives, an operator with compliance obligations under Directive [2003/87/EC](https://www.legislation.gov.uk/european/directive/2003/0087) of the European Parliament and of the Council of 13 October 2003 establishing a scheme for greenhouse gas emission allowance trading within the Community.
+
+(5) The exchange must communicate the weekly report mentioned in sub-paragraph (2)(a) to the FCA [^key-436419500658feab2996c1a21c5a5e6b]....
+
+#### Access to central counterparty, clearing and settlement facilities
+
+**7C.** (1) This paragraph applies to an exchange which provides central counterparty, clearing or settlement facilities.
+
+(2) The exchange must make transparent and non-discriminatory rules, based on objective criteria, governing access to those facilities.
+
+(3)[^key-11a7c38d945a9630cc1709251c81ca10] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4)[^key-f9284ad5df765bd9e65ad23f08b9694c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Choice of settlement facilities
+
+**7D.** (1) The rules of the exchange must permit a user or member of a regulated market operated by it to use whatever settlement facility he chooses for a transaction.
+
+(2) Sub-paragraph (1) only applies where—
+
+- (a) such links and arrangements exist between the chosen settlement facility and any other settlement facility as are necessary to ensure the efficient and economic settlement of the transaction; and
+- (b) the exchange is satisfied that the smooth and orderly functioning of the financial markets will be maintained.
+
+#### Suspension and removal of financial instruments from trading
+
+**7E.** (1)[^key-9bbd00e257e959a17621f1f84ea0d726] The rules of the exchange must provide that the exchange must not exercise its power to suspend or remove from trading on a trading venue[^key-f4bd57d25960bba7c9eddc9edfc5d138] operated by it any financial instrument which no longer complies with its rules, where such step would be likely to cause significant damage to the interests of investors or the orderly functioning of the financial markets.
+
+(2)[^key-67030f7d4e5010517f55617fdf6628d0] Where the exchange suspends or removes any financial instrument from trading on a trading venue it operates it must also suspend or remove from trading on that venue any derivative that relates or is referenced to that financial instrument where that is required to support the objectives of the suspension or removal from trading of that financial instrument.
+
+(3) Where the exchange suspends or removes any financial instrument from trading on a trading venue it operates, including any derivative in accordance with sub-paragraph (2), it must make that decision public and notify the FCA.
+
+(4) Where following a decision made under sub-paragraph (2) the exchange lifts a suspension or readmits any financial instrument to trading on a trading venue it operates, including any derivative suspended or removed from trading in accordance with that sub-paragraph, it must make that decision public and notify the FCA.
+
+#### Significant damage to investors’ interests or orderly functioning of financial markets[^key-c8611035961636aaec04f3b9d9cc56a2]
+
+**7F.** (1) This paragraph applies for the purposes of paragraph 7E(1).
+
+(2) The following are circumstances in which a suspension or removal from trading of a financial instrument would be likely to cause significant damage to the interests of investors or the orderly functioning of the financial markets—
+
+- (a) where it would create a systemic risk undermining financial stability, such as where the need exists to unwind a dominant market position, or where settlement obligations would not be met in a significant volume;
+- (b) where the continuation of trading on the trading venue is necessary to perform critical post-trade risk management functions when—
+  - (i) as a result of the default of a clearing member there is a need for the liquidation of financial instruments under the default procedures of a central counterparty, and
+  - (ii) a central counterparty would be exposed to unacceptable risks as a result of an inability to calculate margin requirements;
+- (c) where the financial viability of the issuer would be threatened, such as where it is involved in a corporate transaction or capital raising.
+
+(3) In determining in any other circumstance whether a suspension or removal would be likely to cause significant damage to the interests of investors or the orderly functioning of the financial markets, the exchange must have regard (among other things) to the following—
+
+- (a) the liquidity of the market concerned, taking account of the fact that the consequences of a suspension or removal are likely to be greater where the market is more liquid;
+- (b) the nature of the suspension or removal where actions with a sustained or lasting impact on the ability of investors to trade a financial instrument on trading venues, such as removals, are likely to have a greater impact on investors than other actions;
+- (c) the knock-on effects of a suspension or removal on sufficiently related derivatives, indices or benchmarks for which the removed or suspended instrument serves as an underlying or constituent;
+- (d) the effects of a suspension on the interests of market end-users who are not financial counterparties, such as entities trading in financial instruments to hedge commercial risks.
+
+(4) In this paragraph—
+
+- “**clearing member**”, in relation to a central counterparty, means an undertaking which participates in the central counterparty and which is responsible for discharging the financial obligations arising from that participation;
+- “**financial counterparty**” has the meaning given in Article 2(8) of [Regulation (EU) 648/2012](https://www.legislation.gov.uk/european/regulation/2012/0648) of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories;
+- “**issuer**”, in relation to a financial instrument, means the person who issued the instrument.
+
+#### Discipline
+
+**8.**[^key-07d9a3c6b1196738552248030ea84a24] (1)[^key-c3d0214451a6b7242789288a165af57e] The exchange must have—
+
+- (a) effective arrangements (which include the monitoring of transactions effected on the exchange) for monitoring and enforcing compliance with its rules, including rules in relation to the provision of clearing services in respect of transactions other than transactions effected on the exchange;
+- (b) effective arrangements for monitoring and enforcing compliance with the arrangements made by it as mentioned in paragraph 4(2)(d); and
+- (c) effective arrangements for monitoring transactions effected on the exchange in order to identify disorderly trading conditions.
+
+(2) Arrangements made pursuant to sub-paragraph (1) must include procedures for—
+
+- (a) investigating complaints made to the exchange about the conduct of persons in the course of using the exchange’s facilities; and
+- (b) the fair, independent and impartial resolution of appeals against decisions of the exchange.
+
+(3) Where arrangements made pursuant to sub-paragraph (1) include provision for requiring the payment of financial penalties, they must include arrangements for ensuring that any amount so paid is applied only in one or more of the following ways—
+
+- (a) towards meeting expenses incurred by the exchange in the course of the investigation of the breach in respect of which the penalty is paid, or in the course of any appeal against the decision of the exchange in relation to that breach;
+- (b) for the benefit of users of the exchange’s facilities;
+- (c) for charitable purposes.
+
+#### Complaints
+
+**9.**[^key-73053690c95b9eeb3f0fad0dfc8928f3] (1) The exchange must have effective arrangements for the investigation and resolution of complaints arising in connection with the performance of, or failure to perform, any of its regulatory functions.
+
+(2) But sub-paragraph (1) does not extend to—
+
+- (a) complaints about the content of rules made by the exchange, or
+- (b) complaints about a decision against which the complainant has the right to appeal under procedures of the kind mentioned in paragraph 8(2)(b) above.
+
+(3) The arrangements must include arrangements for a complaint to be fairly and impartially investigated by a person independent of the exchange, and for him to report on the result of his investigation to the exchange and to the complainant.
+
+(4) The arrangements must confer on the person mentioned in sub-paragraph (3) the power to recommend, if he thinks it appropriate, that the exchange—
+
+- (a) makes a compensatory payment to the complainant,
+- (b) remedies the matter complained of,
+
+or takes both of those steps.
+
+(5) Sub-paragraph (3) is not to be taken as preventing the exchange from making arrangements for the initial investigation of a complaint to be conducted by the exchange.
+
+(6)[^key-254ad67a434cac096a2e18c16520f032] The exchange must have in place effective procedures for its employees to report potential or actual infringements of—
+
+- (a) these Regulations,
+- (b) provisions of the Act and subordinate legislation made under the Act (including rules) transposing the markets in financial instruments directive,
+- (c) the markets in financial instruments regulation, [^key-96100e8db7ac9bb73af7373023edd03d]...
+- (d)[^key-02a099e8e481c0e76f483f838e46348b] any EU regulation originally made under the markets in financial instruments directive or the markets in financial instruments regulation which is assimilated direct[^key-50fc52233c7d2cc2940e281a1a987f82] legislation; and
+- (e) any subordinate legislation (within the meaning of the Interpretation Act 1978) made under the markets in financial instruments regulation on or after IP completion day,
+
+internally through a specific, independent and autonomous channel.
+
+#### Specific requirements for regulated markets: execution of orders[^M_F_49ec1f76-91c4-4c1b-a536-65179752c352]
+
+**9ZA.** (1) An exchange must have non-discretionary rules for the execution of orders on a regulated market operated by it.
+
+(2) An exchange must not on a regulated market operated by it—
+
+- (a) execute any client orders against its proprietary capital; or
+- (b) engage in matched principal trading.
+
+#### Specific requirements for regulated markets: admission of financial instruments to trading
+
+**9ZB.** (1) The rules of the exchange must ensure that all—
+
+- (a) financial instruments admitted to trading on a regulated market operated by it are capable of being traded in a fair, orderly and efficient manner;
+- (b) transferable securities admitted to trading on a regulated market operated by it are freely negotiable; and
+- (c) contracts for derivatives admitted to trading on a regulated market operated by it are designed so as to allow for their orderly pricing as well as for the existence of effective settlement conditions.
+
+(2) The rules of the exchange must provide that where it, without obtaining the consent of the issuer, admits to trading on a regulated market operated by it a transferable security which has been admitted to trading on another regulated market the exchange—
+
+- (a) must inform the issuer of that security as soon as is reasonably practicable; and
+- (b) may not require the issuer of that security to demonstrate compliance with the disclosure obligations.
+
+(3) The exchange must maintain effective arrangements to verify that issuers of transferable securities admitted to trading on a regulated market operated by it comply with the disclosure obligations.
+
+(4) The exchange must maintain arrangements to assist members of or participants in a regulated market operated by it to obtain access to information made public under the disclosure obligations.
+
+(5) The exchange must maintain arrangements to review regularly whether financial instruments admitted to trading on a regulated market operated by it comply with the admission requirements for those instruments.
+
+(6) In this paragraph—
+
+“the disclosure obligations” are the initial, ongoing and ad hoc disclosure requirements contained in—
+
+- (a) Articles 17, 18 and 19 of the market abuse regulation;
+- (b) those provisions of[^key-94c7fd194db31ccc4c5affe5ff90e55f] [^key-6b3be4c45b83e59ee9d432b0b75c7c3f]... Part 6 rules (within the meaning of section 73A of the Act) which were relied on by the United Kingdom before IP completion day to implement—
+  - (i) [^key-cde9e90d032a8903e21e540fa8fc12de]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (ii) Articles 4 to 6, 14 and 16 to 19 of Directive [2004/109/EC](https://www.legislation.gov.uk/eudr/2004/109) of the European Parliament and of the Council of 15 December 2004 relating to the harmonisation of transparency requirements in relation to information about issuers whose securities are admitted to trading on a regulated market;
+
+  as they have effect on IP completion day [^key-4a43a4ab12a8dde49dbf22bfbd0f0863]...;
+- (ba) any applicable rules made by the FCA by virtue of Part 3 of the Public Offers and Admissions to Trading Regulations 2024;[^key-2e872107417adf0b7e4c9c58b42a2fb3]
+- (bb) regulation 23 of those Regulations;
+- (c) any EU regulation, originally made under any of the provisions mentioned in paragraphs (a) [^key-67b2e94722336c9a1d93c9eb703e2867]... and (b)(ii), which is assimilated direct[^key-319aed77621c5f131e23206827be0842] legislation;
+- (d) any subordinate legislation (within the meaning of the Interpretation Act 1978) made under any of the provisions mentioned in paragraphs (a) [^key-67b2e94722336c9a1d93c9eb703e2867]... and (b)(ii) on or after IP completion day.
+
+[^key-5f817c232f5500ce5f9f7ddbf5a7d86f]...
+
+#### Specific requirements for regulated markets: access to a regulated market
+
+**9ZC.** The rules of the exchange about access to, or membership of, a regulated market operated by it must permit the exchange to give access to or admit to membership (as the case may be) only—
+
+- (a)[^key-c203f4abb90a2a201a93a75d3fb3b4fb] an investment firm which has permission under Part 4A of the Act to carry on a regulated activity which is an investment service or activity;
+- (b)[^key-37a3b3788aca85e80ab2029e72290f41] a qualifying credit institution that has Part 4A permission to carry on the regulated activity of accepting deposits; or
+- (c) a person who—
+  - (i) is of sufficient good repute;
+  - (ii) has a sufficient level of trading ability, competence and experience;
+  - (iii) where applicable, has adequate organisational arrangements; and
+  - (iv) has sufficient resources for the role it is to perform, taking account of the exchange's arrangements under paragraph 4(2)(d).
+
+#### Multilateral systems
+
+**9ZD.** An exchange must only operate a multilateral system as a regulated market, a multilateral trading facility or an organised trading facility.
+
+#### Operation of a multilateral trading facility or an organised trading facility[^key-03d7b91c8067d1f061aba5f81591ae93][^M_F_b2b4d22e-54ea-459f-f198-83dc6f2b138d]
+
+**9A.** (1) An exchange operating a multilateral trading facility or an organised trading facility[^key-7bad3d5fc93d5ef5bbb2fd299c3032f1] must also operate a regulated market.
+
+(2)[^key-282dc099c658277b480e0fd50298e014] An exchange operating a multilateral trading facility or an organised trading facility must comply with those requirements of—
+
+- (a) any provisions of the law of the United Kingdom relied on by the United Kingdom before IP completion day to implement Chapter 1 of Title II of the markets in financial instruments directive—
+  - (i) as they have effect on 1st December 2021[^key-69c7a94bff55a41e3cf71b2279118a76], in the case of rules made by the FCA under the Act, and
+  - (ii) as amended from time to time, in all other cases;
+- (b) any EU regulation originally made under Chapter 1 of the markets in financial instruments directive which is assimilated direct[^key-602f42f260ec13d13af98ef3de6d21a2] legislation, or any subordinate legislation (within the meaning of the Interpretation Act 1978) made under those provisions on or after IP completion day,
+
+which are applicable to a market operator operating such a facility.
+
+(3) The requirements of this paragraph do not apply for the purposes of section 292(3)(a) of the Act (requirements for overseas investment exchanges and overseas clearing houses).
+
+(4)[^key-083837d106eee0dee8d050d13380f778] An exchange operating a multilateral trading facility or an organised trading facility must provide the FCA with a detailed description of—
+
+- (a) the functioning of the multilateral trading facility or organised trading facility;
+- (b) any links to another trading venue owned by the same exchange or to a systematic internaliser owned by the same exchange; and
+- (c) a list of the facility's members, participants and users.
+
+(5) Any multilateral trading facility or an organised trading facility operated by the exchange must have at least three materially active members or users who each have the opportunity to interact with all the others in respect of price formation.
+
+#### Specific requirements for multilateral trading facilities: execution of orders[^M_F_e1b5dbaf-a286-4980-817e-20ecbf34ebb9]
+
+**9B.** (1) An exchange must have non-discretionary rules for the execution of orders on a multilateral trading facility operated by it.
+
+(2) An exchange must not on a multilateral trading facility operated by it—
+
+- (a) execute any client orders against its proprietary capital; or
+- (b) engage in matched principal trading.
+
+#### Specific requirements for multilateral trading facilities: access to a facility
+
+**9C.** The rules of the exchange about access to, or membership of, a multilateral trading facility operated by it must permit the exchange to give access to or admit to membership (as the case may be) only to—
+
+- (a)[^key-ef9c4ab193082b8aaf50304895408695] an investment firm which has permission under Part 4A of the Act to carry on a regulated activity which is an investment service or activity;
+- (b)[^key-e0dfe5a0c0d958463f5254bc3d91ac9d] a qualifying credit institution that has Part 4A permission to carry on the regulated activity of accepting deposits.
+- (c) a person who—
+  - (i) is of sufficient good repute;
+  - (ii) has a sufficient level of trading ability, competence and experience;
+  - (iii) where applicable, has adequate organisational arrangements; and
+  - (iv) has sufficient resources for the role it is to perform, taking account of the financial arrangements the exchange has established in order to guarantee the adequate settlement of transactions.
+
+#### Specific requirements for multilateral trading facilities: disclosure
+
+**9D.** (1) The rules of the exchange must provide that where it, without obtaining the consent of the issuer, admits to trading on a multilateral trading facility operated by it a transferable security which has been admitted to trading on a regulated market, the exchange may not require the issuer of that security to demonstrate compliance with the disclosure obligations.
+
+(2) The exchange must maintain arrangements to provide sufficient publicly available information (or satisfy itself that sufficient information is publicly available) to enable users of a multilateral trading facility operated by it to form investment judgements, taking into account both the nature of the users and the types of instruments traded.
+
+(3) In this paragraph, “**the disclosure obligations**” has the same meaning as in paragraph 9ZB.
+
+#### SME growth markets
+
+**9E.** (1) An exchange operating [^key-30c9baaa78abe170946e4ec32277db6f]... an SME growth market [^key-30c9baaa78abe170946e4ec32277db6f]... (an “exchange-operated SME growth market”) must comply with rules made by FCA for the purposes of this paragraph as they have effect on IP completion day[^key-07a31d1d1393f0a7ad7a44b2df5df0de].
+
+(2) An exchange-operated SME growth market must not admit to trading a financial instrument which is already admitted to trading on another SME growth market unless the issuer of the instrument has been informed of the proposed admission to trading and has not objected.
+
+(3) Where an exchange-operated SME growth market exchange admits a financial instrument to trading in the circumstances of sub-paragraph (2), that exchange-operated SME growth market may not require the issuer of the financial instrument to demonstrate compliance with—
+
+- (a) any obligation relating to corporate governance, or
+- (b) the disclosure obligations.
+
+(4) In this paragraph, “**the disclosure obligations**” has the same meaning as in paragraph 9ZB.
+
+#### Specific requirements for organised trading facilities: execution of orders
+
+**9F.** (1) An exchange operating an organised trading facility must—
+
+- (a) execute orders on that facility on a discretionary basis in accordance with sub-paragraph (4);
+- (b) not execute any client orders on that facility against its proprietary capital or the proprietary capital of any entity that is part of the same group or legal person as the exchange unless in accordance with sub-paragraph (2);
+- (c) not operate a systematic internaliser within the same legal entity;
+- (d) ensure that the organised trading facility does not connect with a systematic internaliser in a way which enables orders in an organised trading facility and orders or quotes in a systematic internaliser to interact; and
+- (e) ensure that the organised trading facility does not connect with another organised trading facility in a way which enables orders in different organised trading facilities to interact.
+
+(2) An exchange may only engage in—
+
+- (a) matched principal trading on an organised trading facility operated by it in respect of—
+  - (i) bonds,
+  - (ii) structured finance products,
+  - (iii) emission allowances, and
+  - (iv) derivatives which have not been declared subject to the clearing obligation in accordance with Article 5 of the EMIR regulation,
+
+  where the client has consented to that; or
+- (b) dealing on own account on an organised trading facility operated by it, otherwise than in accordance with paragraph (a), in respect of sovereign debt instruments for which there is not a liquid market.
+
+(3) If the exchange engages in matched principal trading in accordance with sub-paragraph (2)(a) it must establish arrangements to ensure compliance with the definition of matched principal trading [^key-1299a7f99db9be3848d4f2ebb301556e]....
+
+(4) The discretion which the exchange must exercise in executing a client order may only be the discretion mentioned in sub-paragraph (5) or in sub-paragraph (6) or both.
+
+(5) The first discretion is whether to place or retract an order on the organised trading facility.
+
+(6) The second discretion is whether to match a specific client order with other orders available on the organised trading facility at a given time, provided the exercise of such discretion is in compliance with specific instructions received from the client and in accordance with the exchange's obligations under—[^key-9372b946baf0412268bd77dc0217950b]
+
+- (a) section 11.2A of the Conduct of Business sourcebook,
+- (b)[^key-5c7dc07b0d283e71ecdcbf50db4d2476] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^key-5dd0fd68f96525bc8b57c496fca2e71d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^key-7b1dc44f88cfebd6e157d1ca7f2794c9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(7) Where the organised trading facility crosses client orders the exchange may decide if, when and how much of two or more orders it wants to match within the system.
+
+(8) Subject to the requirements of this paragraph, with regard to a system that arranges transactions in non-equities, the exchange may facilitate negotiation between clients so as to bring together two or more potentially comparable trading interests in a transaction.
+
+(9) The exchange must comply with rules made by the FCA as they have effect on[^key-7a51b2d0dd1dfb22304780685af2e1fe] 1st December 2021[^key-1ea4ecd7523d4c99c8c4a3bc09830c99] as to how Articles 24, 25, 27 and 28 of the markets in financial instruments directive apply to its operation of an organised trading facility.
+
+(10) Nothing in this paragraph prevents an exchange from engaging an investment firm to carry out market making on an independent basis on an organised trading facility operated by the exchange provided the investment firm does not have close links with the exchange.
+
+(11) In this paragraph—
+
+- “**close links**” has the meaning given in Article 2(1)(21) of the markets in financial instruments regulation[^key-e34292cf95ae6471c6ce4786b37102fb];
+- “**investment firm**” has the meaning given in Article 2(1A) of the markets in financial instruments regulation[^key-03ded013d40e4fda2a9d59bf9027418a];
+- “**non-equities**” means bonds, structured finance products, emission allowances and derivatives traded on a trading venue to which Article 8(1) of the markets in financial instrument regulation applies.
+
+#### Specific requirements for organised trading facilities: disclosure
+
+**9G.** (1) The rules of the exchange must provide that where it, without obtaining the consent of the issuer, admits to trading on an organised trading facility operated by it a transferable security which has been admitted to trading on a regulated market, the exchange may not require the issuer of that security to demonstrate compliance with the disclosure obligations.
+
+(2) The exchange must maintain arrangements to provide sufficient publicly available information (or satisfy itself that sufficient information is publicly available) to enable users of an organised trading facility operated by it to form investment judgements, taking into account both the nature of the users and the types of instruments traded.
+
+(3) In this paragraph, “**the disclosure obligations**” has the same meaning as in paragraph 9ZB.
+
+#### Specific requirements for organised trading facilities: FCA request for information
+
+**9H.** (1) An exchange must, when requested to do so, provide the FCA with a detailed explanation in respect of an organised trading facility operated by it, or such a facility it proposes to operate, of—
+
+- (a) why the organised trading facility does not correspond to and cannot operate as a multilateral trading facility, a regulated market or a systematic internaliser;
+- (b) how discretion will be exercised in executing client orders, and in particular when an order to the organised trading facility may be retracted and when and how two or more client orders will be matched within the facility; and
+- (c) its use of matched principal trading.
+
+(2) Any information required under sub-paragraph (1) must be provided to the FCA in the manner which it considers appropriate.
+
+#### Provision of data reporting services
+
+**9I.** An exchange providing data reporting services must comply with—[^key-74296c866a33bec7491be47254fc85dc]
+
+- (a)[^key-9fbdf623a33e8f853e64116f55950488] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) the requirements of Chapter 9 of the Market Conduct sourcebook;
+- (c)[^key-f3ee1261793c3ad804a26d1bb8b7b555] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^key-da8c673c3ee54c1ffae7133737e31c54] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e) Commission Implementing Regulation (EU) [2017/1110](https://www.legislation.gov.uk/european/regulation/2017/1110) of 22 June 2017 laying down implementing technical standards with regard to the standard forms, templates and procedures for the authorisation of data reporting services providers and related notifications pursuant to Directive [2014/65/EU](https://www.legislation.gov.uk/european/directive/2014/65) of the European Parliament and of the Council on markets in financial instruments.
+
+#### Reporting of infringements[^key-40492e1bb69330b1cb4e6aeb1d6c6099]
+
+##### 9J.
+
+(1) The exchange must have in place appropriate procedures for its employees to report actual or potential infringements of the CSD regulation , any EU regulation originally made under the CSD regulation which is[^key-f78088a5cabf88008710eb66c511e041] assimilated direct[^key-8a3b1bfed7ae6b44eaf7381a31492d3d] legislation, or any subordinate legislation (within the meaning of the Interpretation Act 1978) made under the CSD regulation on or after IP completion day, internally through a specific, independent and autonomous channel.
+
+(2) The protections set out in points (b), (c) and (d) of Article 65(2) of that regulation (reporting of infringements) must be applied in relation to those procedures.
+
+### PART II — Recognition requirements for investment exchanges: default rules in respect of market contracts
+
+#### Default rules in respect of market contracts
+
+**10.**[^key-190a0c9e175af96bc2fb4f8e154ed946] (1) The exchange must have default rules which, in the event of a member of the exchange being or appearing to be unable to meet his obligations in respect of one or more market contracts, enable action to be taken in respect of unsettled market contracts to which he is a party.
+
+(2) The rules may authorise the taking of the same or similar action in relation to a member who appears to be likely to become unable to meet his obligations in respect of one or more market contracts.
+
+(3) The rules must enable action to be taken in respect of all unsettled market contracts, other than those entered into [^key-898301b033d35c5976e48c434b7a4312]... for the purposes of or in connection with the provision of clearing services for the exchange.
+
+(4)[^key-c50ab1cdb4c52b02b44f0038408b6399] Sub-paragraph (5) applies where the exchange has arrangements for transacting business with, or in relation to common members of, a recognised clearing house , a recognised CSD[^key-7f2b49777ea8dfcc9830c8c95558bdb9] or another recognised investment exchange.
+
+(5) A recognised investment exchange must have default rules which in the event of the clearing house , the central securities depository[^key-d0122754914290c96e33bbb0b13a1a6a] or the investment exchange being or appearing to be unable to meet its obligations in respect of one or more market contracts, enable action to be taken in respect of unsettled market contracts to which that person is a party.
+
+#### Content of rules
+
+**11.**[^key-a26463057009d3e79c13785bd4614ec8] (1) This paragraph applies as regards contracts falling within section 155(2)(a) of the Companies Act.
+
+(2) The rules mentioned in paragraph 10 must provide—
+
+- (a) for all rights and liabilities between those party as principal to unsettled market contracts to which the defaulter is party as principal to be discharged and for there to be paid by one party to the other such sum of money (if any) as may be determined in accordance with the rules;
+- (b) for the sums so payable in respect of different contracts between the same parties to be aggregated or set off so as to produce a net sum; and
+- (c) for the certification by or on behalf of the exchange of the net sum payable or, as the case may be, of the fact that no sum is payable.
+
+(3) The reference in sub-paragraph (2) to rights and liabilities between those party as principal to unsettled market contracts does not include rights and liabilities—
+
+- (a) in respect of margin; or
+- (b) arising out of a failure to perform a market contract.
+
+(4) The rules may make the same or similar provision, in relation to non-members designated in accordance with the procedures mentioned in sub-paragraph (5), as in relation to members of the exchange.
+
+(5) If such provision is made as is mentioned in sub-paragraph (4), the exchange must have adequate procedures—
+
+- (a) for designating the persons, or descriptions of person, in respect of whom action may be taken;
+- (b) for keeping under review the question which persons or descriptions of person should be or remain so designated; and
+- (c) for withdrawing such designation.
+
+(6) The procedures must be designed to secure that—
+
+- (a) a person is not, or does not remain, designated if failure by him to meet his obligations in respect of one or more market contracts would be unlikely adversely to affect the operation of the market; and
+- (b) a description of persons is not, or does not remain, designated if failure by a person of that description to meet his obligations in respect of one or more market contracts would be unlikely adversely to affect the operation of the market.
+
+(7) The exchange must have adequate arrangements—
+
+- (a) for bringing a designation or withdrawal of designation to the attention of the person or description of persons concerned; and
+- (b) where a description of persons is designated, or the designation of a description of persons is withdrawn, for ascertaining which persons fall within that description.
+
+**12.**[^key-aa934019260b2aa98f157632632aef65] (1) This paragraph applies as regards contracts falling within section 155(2)(b) or (c)[^key-7c86413ba178dfae9bcdd45418585710] of the Companies Act.
+
+(2) The rules mentioned in paragraph 10 must provide—
+
+- (a) for all rights and liabilities of the defaulter under or in respect of unsettled market contracts to be discharged and for there to be paid by or to the defaulter such sum of money (if any) as may be determined in accordance with the rules;
+- (b) for the sums so payable by or to the defaulter in respect of different contracts entered into by the defaulter in one capacity for the purposes of section 187 of the Companies Act[^key-57321558a9abd30c3c347c7d132b7922] to be aggregated or set off so as to produce a net sum;
+- (bb)[^key-5decad4b2d55a21dede9cce58d4d4f67] if relevant, for that sum to be aggregated with, or set off against, any sum owed by or to the investment exchange by or to AP under an indemnity given or reimbursement or similar obligation in respect of a margin set off agreement in which the defaulter chose to participate so as to produce a net sum;
+- (c)[^key-6ab216516d78f0536fca9c4462804388] for the net sum referred to in paragraph (b) or, if relevant, the net sum referred to in paragraph (bb)—
+  - (i) if payable by the defaulter to the exchange, to be set off against—
+    - (aa) any property provided by or on behalf of the defaulter as cover for margin (or the proceeds of realisation of such property);
+    - (bb) to the extent (if any) that any sum remains after set off under paragraph (aa), any default fund contribution provided by the defaulter remaining after any application of such contribution;
+  - (ii) to the extent (if any) that any sum remains after set off under paragraph (i), to be paid from such other funds, including the default fund, or resources as the exchange may apply under its default rules;
+  - (iii) if payable by the exchange to the defaulter, to be aggregated with—
+    - (aa) any property provided by or on behalf of the defaulter as cover for margin (or the proceeds of realisation of such property);
+    - (bb) any default fund contribution provided by the defaulter remaining after any application of such contribution;
+- (d) for the certification by or on behalf of the exchange of the sum finally payable or, as the case may be, of the fact that no sum is payable.
+
+(2A)[^key-2d1e03742056348f25a76f2c1464f446] In sub-paragraph (2), “margin set off agreement” means an agreement between the exchange and AP permitting any eligible position to which the Participant Member is party with the exchange and any eligible position to which the Participant Member is party with AP to be taken into account in calculating a net sum owed by or to the Participant Member to either the exchange or AP and/or margin to be provided to, either or both, the exchange and AP.
+
+(2B) In sub-paragraph (2)—
+
+- “AP” means a recognised clearing house or another recognised investment exchange of whom a Participant Member is a member;
+- “eligible position” means any position which may be included in the set off calculation;
+- “Participant Member” means a person who—
+  - (a) is a member of the exchange;
+  - (b) is a member or participant of AP; and
+  - (c) chooses to participate, in accordance with the rules of the exchange, in such agreement.
+
+(2C) The property, contribution, funds or resources referred to in paragraph (2)(c), against which the net sum is to be set off (or with which it is to be aggregated) are subject to any unsatisfied claims arising out of the default of a defaulter before the default in relation to which the calculation is being made.
+
+(3) The reference in sub-paragraph (2) to the rights and liabilities of a defaulter under or in respect of an unsettled market contract includes (without prejudice to the generality of that provision) rights and liabilities arising in consequence of action taken under provisions of the rules authorising—
+
+- (a) the effecting by the exchange of corresponding contracts in relation to unsettled market contracts to which the defaulter is party;
+- (b) the transfer of the defaulter’s position under an unsettled market contract to another member of the exchange;
+- (c) the exercise by the exchange of any option granted by an unsettled market contract.
+
+(4) A “corresponding contract” means a contract on the same terms (except as to price or premium) as the market contract but under which the person who is the buyer under the market contract agrees to sell and the person who is the seller under the market contract agrees to buy.
+
+(5) Sub-paragraph (4) applies with any necessary modifications in relation to a market contract which is not an agreement to sell.
+
+(6) The reference in sub-paragraph (2) to the rights and liabilities of a defaulter under or in respect of an unsettled market contract does not include, where he acts as agent, rights or liabilities of his arising out of the relationship of principal and agent.
+
+**12A.**[^key-0ed0633a8edceb5b5c759edfc2ccc332] The rules of the exchange must provide that, in the event of a default, any default fund contribution provided by the defaulter shall only be used in accordance with paragraph 12(2)(c)(i) or (ii).
+
+#### Notification to other parties affected
+
+**13.**[^key-64ba1527d21e636bc6f320e8f422c563] The exchange must have adequate arrangements for ensuring that—
+
+- (a) in the case of unsettled market contracts with a defaulter acting as principal, parties to the contract are notified as soon as reasonably practicable of the default and of any decision taken under the rules in relation to contracts to which they are a party; and
+- (b) in the case of unsettled market contracts with a defaulter acting as agent, parties to the contract and the defaulter’s principals are notified as soon as reasonably practicable of the default and of the identity of the other parties to the contract.
+
+#### Cooperation with other authorities
+
+**14.**[^key-37607d1bbc8f41c3b893fcd5c078b531] The exchange must be able and willing to cooperate, by the sharing of information and otherwise, with the Secretary of State, any relevant office-holder within the meaning of section 189 of the Companies Act, and any other authority or body having responsibility for any matter arising out of, or connected with, the default of a member of the exchange or any non-member designated in accordance with the procedures mentioned in paragraph 11(5) above or the default of a recognised clearing house[^key-42adcdba990869552ad5a79d7ddae88e] , a recognised CSD[^key-cbde9d50692248fa7de278a10e162c80] or another recognised investment exchange.
+
+#### Margin
+
+**15.**[^key-1bd437b2c2801af8cd2399f280a5b387] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### PART III — Recognition requirements for clearing houses[^key-79dd8e53bb15d19ff86535817957012f]
+
+#### Financial resources
+
+**16.**[^key-f24a7c86d50eb635b5dd35c05926af9e] (1) The clearing house must have financial resources sufficient for the proper performance of its functions as a recognised clearing house.
+
+(2) In considering whether this requirement is satisfied, the Bank of England[^key-63d0fbba41f7ed7259bce91b84724842] may (without prejudice to the generality of regulation 6(1)) take into account all the circumstances, including the clearing house’s connection with any person, and any activity carried on by the clearing house, whether or not it is an exempt activity.
+
+#### Suitability
+
+**17.**[^key-3b3ab2eb0b704cc9ad271baa1a4ebf13] (1) The clearing house must be a fit and proper person to perform the functions of a recognised clearing house.
+
+(2) In considering whether this requirement is satisfied, the Bank of England may (without prejudice to the generality of regulation 6(1)) take into account all the circumstances, including the clearing house’s connection with any person.
+
+#### Systems and controls
+
+**18.**[^key-bb795a736291f35f789839f971745c47] (1) The clearing house must ensure that the systems and controls used in the performance of its functions are adequate, and appropriate for the scale and nature of its business.
+
+(2) This requirement applies in particular to systems and controls concerning—
+
+- (a) the transmission of information;
+- (b) the assessment and management of risks to the performance of the clearing house’s functions;
+- (c) the operation of the matters mentioned in paragraph 19(2)(b) below; and
+- (d) (where relevant) the safeguarding and administration of assets belonging to users of the clearing house’s facilities.
+
+#### Safeguards for investors
+
+**19.**[^key-213bccc446f2b8a30a38128c80e9c0f1] (1) The clearing house must ensure that its facilities are such as to afford proper protection to investors.
+
+(2) Without prejudice to the generality of sub-paragraph (1), the clearing house must ensure that—
+
+- (a) access to the clearing house’s facilities is subject to criteria designed to protect the orderly functioning of those facilities and the interests of investors;
+- (b) its clearing services involve satisfactory arrangements for securing the timely discharge (whether by performance, compromise or otherwise) of the rights and liabilities of the parties to transactions in respect of which it provides such services (being rights and liabilities in relation to those transactions);
+- (c) satisfactory arrangements are made for recording transactions which are cleared or to be cleared by means of its facilities;
+- (d) appropriate measures are adopted to reduce the extent to which the clearing house’s facilities can be used for a purpose connected with market abuse or financial crime, and to facilitate their detection and monitor their incidence; and
+- (e) where the clearing house’s facilities include making provision for the safeguarding and administration of assets belonging to users of those facilities, satisfactory arrangements are made for that purpose.
+
+#### Promotion and maintenance of standards
+
+**20.**[^key-47936de6db6dd63349677bc15a19a9b9] (1) The clearing house must be able and willing to promote and maintain high standards of integrity and fair dealing in the carrying on of regulated activities by persons in the course of using the facilities provided by the clearing house.
+
+(2) The clearing house must be able and willing to cooperate, by the sharing of information or otherwise, with the Bank of England, with any other authority, body or person having responsibility in the United Kingdom for the supervision or regulation of any regulated activity or other financial service, or with an overseas regulator within the meaning of section 195 of the Act.
+
+#### Rules
+
+**21.**[^key-15f53938c788bd8e9ee29e7639b12c13] (1) The clearing house must ensure that appropriate procedures are adopted for it to make rules, for keeping its rules under review and for amending them.
+
+(2) The procedures must include procedures for consulting users of the clearing house’s facilities in appropriate cases.
+
+(3) The clearing house must consult users of its facilities on any arrangements it proposes to make for dealing with penalty income in accordance with paragraph 22(3) below (or on any changes which it proposes to make to those arrangements).
+
+#### Access to central counterparty, clearing and settlement facilities[^key-2d0b2f789d9a5340c744978a3db2989d]
+
+**21A.** (1) The clearing house must make transparent and non-discriminatory rules, based on objective criteria, governing access to [^key-c972f8768231527395e25136ad9c165a]... clearing or settlement facilities provided by it.
+
+(2)[^key-96ccae25019a0be2124a8f1c86e43424] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3)[^key-c034c08e9485b68f43a3556cc43b148f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Discipline
+
+**22.**[^key-b068a77613d1353aafe6ac80262ae9ef] (1) The clearing house must have effective arrangements for monitoring and enforcing compliance with its rules.
+
+(2) The arrangements must include procedures for—
+
+- (a) investigating complaints made to the clearing house about the conduct of persons in the course of using the clearing house’s facilities; and
+- (b) the fair, independent and impartial resolution of appeals against decisions of the clearing house.
+
+(3) Where the arrangements include provision for requiring the payment of financial penalties, they must include arrangements for ensuring that any amount so paid is applied only in one or more of the following ways—
+
+- (a) towards meeting expenses incurred by the clearing house in the course of the investigation of the breach in respect of which the penalty is paid, or in the course of any appeal against the decision of the clearing house in relation to that breach;
+- (b) for the benefit of users of the clearing house’s facilities;
+- (c) for charitable purposes.
+
+#### Complaints
+
+**23.**[^key-54533a319cd911949b310df56532dce0] (1) The clearing house must have effective arrangements for the investigation and resolution of complaints arising in connection with the performance of, or failure to perform, any of its regulatory functions.
+
+(2) But sub-paragraph (1) does not extend to—
+
+- (a) complaints about the content of rules made by the clearing house, or
+- (b) complaints about a decision against which the complainant has the right to appeal under procedures of the kind mentioned in paragraph 22(2)(b) above.
+
+(3) The arrangements must include arrangements for a complaint to be fairly and impartially investigated by a person independent of the clearing house, and for him to report on the result of his investigation to the clearing house and to the complainant.
+
+(4) The arrangements must confer on the person mentioned in sub-paragraph (3) the power to recommend, if he thinks it appropriate, that the clearing house—
+
+- (a) makes a compensatory payment to the complainant,
+- (b) remedies the matter complained of,
+
+or takes both of those steps.
+
+(5) Sub-paragraph (3) is not to be taken as preventing the clearing house from making arrangements for the initial investigation of a complaint to be conducted by the clearing house.
+
+#### Recovery Plans[^key-74fca8b9b2f8061dbb7bbb796ab1f8d5]
+
+**23A.** The clearing house must maintain a plan that sets out the steps that it will take in order to maintain the continuity of its exempt activities in the event that such continuity is threatened.
+
+### PART IV — Recognition requirements applying to clearing houses: default rules in respect of market contracts[^key-79dd8e53bb15d19ff86535817957012f]
+
+#### Default rules in respect of market contracts
+
+**24.**[^key-3fbe598744aeae637a6ce844d57b1eb8] (1) The clearing house must have default rules which, in the event of a member of the clearing house being or appearing to be unable to meet his obligations in respect of one or more market contracts, enable action to be taken to close out his position in relation to all unsettled market contracts to which he is a party.
+
+(2) The rules may authorise the taking of the same or similar action where a member appears to be likely to become unable to meet his obligations in respect of one or more market contracts.
+
+(3)[^key-fd13a616192b4344ae351e70cd7ad6e1] Sub-paragraph (4) applies where the clearing house has arrangements for transacting business with, or in relation to common members of, a recognised investment exchange , a recognised CSD[^key-09d9781aff996c3346270af08f1320c6] or another recognised clearing house.
+
+(4) A recognised clearing house must have default rules which in the event of the investment exchange , the central securities depository[^key-669b607edc56267650305833b2f5a033] or the clearing house being or appearing to be unable to meet its obligations in respect of one or more market contracts, enable action to be taken in respect of unsettled market contracts to which that person is a party.
+
+#### Content of rules
+
+**25.**[^key-ee3cd6e53116fc4d67da2131bb66147d] (1) The rules must provide—
+
+- (a) for all rights and liabilities of the defaulter under or in respect of unsettled market contracts to be discharged and for there to be paid by or to the defaulter such sum of money (if any) as may be determined in accordance with the rules;
+- (b) for the sums so payable by or to the defaulter in respect of different contracts entered into by the defaulter in one capacity for the purposes of section 187 of the Companies Act[^key-54880fb2b1829d2a367f08e2637bf1e3] to be aggregated or set off so as to produce a net sum;
+- (bb)[^key-bfb933d9f7bd115183144af463ea6f3a] if relevant, for that sum to be aggregated with, or set off against, any sum owed by or to the clearing house by or to AP under an indemnity given or reimbursement or similar obligation in respect of a margin set off agreement in which the defaulter chose to participate so as to produce a net sum.
+- (c)[^M_F_1317995d-2415-432d-f5f5-d5cd2c1f4f4c] for the net sum referred to in paragraph (b) or, if relevant, the net sum referred to in paragraph (bb)—
+  - (i) if payable by the defaulter to the clearing house, to be set off against—
+    - (aa) any property provided by or on behalf of the defaulter as cover for margin (or the proceeds of realisation of such property);
+    - (bb) to the extent (if any) that any sum remains after set off under paragraph (aa), any default fund contribution provided by the defaulter remaining after any application of such contribution;
+  - (ii) to the extent (if any) that any sum remains after set off under paragraph (i), to be paid from such other funds, including the default fund, or resources as the clearing house may apply under its default rules;
+  - (iii) if payable by the clearing house to the defaulter, to be aggregated with—
+    - (aa) any property provided by or on behalf of the defaulter as cover for margin (or the proceeds of realisation of such property);
+    - (bb) any default fund contribution provided by the defaulter remaining after any application of such contribution; and
+- (d) for the certification by or on behalf of the clearing house of the sum finally payable or, as the case may be, of the fact that no sum is payable.
+
+(1A)[^key-0de06ea0ecb07b172b0fa1456f6f69b6] In sub-paragraph (1), “margin set off agreement” means an agreement between the clearing house and AP permitting any eligible position to which the Participant Member is party with the clearing house and any eligible position to which the Participant Member is party with AP to be taken into account in calculating a net sum owed by or to the Participant Member to or by either the clearing house or AP and/or margin to be provided to, either or both, the clearing house and AP.
+
+(1B) In sub-paragraph (1A)—
+
+- “AP” means a recognised investment exchange or another recognised clearing house of whom a Participant Member is a member;
+- “eligible position” means any position which may be included in the set off calculation;
+- “Participant Member” means a person who—
+  - (a) is a member of the clearing house;
+  - (b) is a member or participant of AP; and
+  - (c) chooses to participate, in accordance with the rules of the clearing house, in such agreement.
+
+(1C) The property, contribution, funds or resources referred to in paragraph (1)(c), against which the net sum is to be set off (or with which it is to be aggregated) are subject to any unsatisfied claims arising out of the default of a defaulter before the default in relation to which the calculation is being made.
+
+(2) The reference in sub-paragraph (1) to the rights and liabilities of a defaulter under or in respect of an unsettled market contract includes (without prejudice to the generality of that provision) rights and liabilities arising in consequence of action taken under provisions of the rules authorising—
+
+- (a) the effecting by the clearing house of corresponding contracts in relation to unsettled market contracts to which the defaulter is party;
+- (b) the transfer of the defaulter’s position under an unsettled market contract to another member of the clearing house;
+- (c) the exercise by the clearing house of any option granted by an unsettled market contract.
+
+(3) A “corresponding contract” means a contract on the same terms (except as to price or premium) as the market contract but under which the person who is the buyer under the market contract agrees to sell and the person who is the seller under the market contract agrees to buy.
+
+(4) Sub-paragraph (3) applies with any necessary modifications in relation to a market contract which is not an agreement to sell.
+
+(5) The reference in sub-paragraph (1) to the rights and liabilities of a defaulter under or in respect of an unsettled market contract does not include, where he acts as agent, rights or liabilities of his arising out of the relationship of principal and agent.
+
+**25A.**[^key-49a3b21097c3e5efd7111ce2b88409fd] The rules of the clearing house must provide that in the event of a default, any default fund contribution provided by the defaulter shall only be used in accordance with paragraph 25(1)(c)(i) or (ii).
+
+#### Notification to other parties affected
+
+**26.**[^key-a364cd1b52283fe02f064844930abb7d] The clearing house must have adequate arrangements for ensuring that parties to unsettled market contracts with a defaulter are notified as soon as reasonably practicable of the default and of any decision taken under the rules in relation to contracts to which they are a party.
+
+#### Cooperation with other authorities
+
+**27.**[^key-79b79e6b1a7bacd2a798633a588ecf0b] The clearing house must be able and willing to cooperate, by the sharing of information and otherwise, with the Secretary of State, any relevant office-holder within the meaning of section 189 of the Companies Act, and any other authority or body having responsibility for any matter arising out of or connected with the default of a member of the clearing house or the default of a recognised investment exchange[^key-9794efaf6381cd2ce69660c3eb2451b6] , a recognised CSD[^key-8165b813bca5cdd1730d73e1d39f682a] or another recognised clearing house.
+
+#### Margin
+
+**28.**[^key-ceb3964c21f9ce8df78c329d1bddf793] (1) The rules of the clearing house must provide that in the event of a default, margin provided by the defaulter for his own account is not to be applied to meet a shortfall on a client account other than a client account of the defaulter[^key-7537ef04a4c9cf09efe1d21e04af532b].
+
+(2) This paragraph is without prejudice to the requirements of any rules relating to clients' money made by the[^key-b096c3c77b2f0f01c446baa1d71aa8cf] FCA under sections 137A and 137B of the Act.
+
+(3)[^key-3386f9233060642c5a5081c938a5f2ff] For the purposes of this paragraph, “client account of the defaulter” means an account held by the clearing house in the name of the defaulter in which relevant transactions effected by the defaulter have been recorded.
+
+(4) In sub-paragraph (3) “relevant transaction” has the same meaning as in regulation 16(1) of the Financial Markets and Insolvency Regulations 1991.
+
+### PART 5 — Recognition requirements for central counterparties[^key-7ff164658e5b9e9d43a9924bf097e77b]
+
+#### Requirements of the EMIR regulation
+
+**29.** A central counterparty providing clearing services must meet the requirements set out in the EMIR regulation (within the meaning of section 313 of the Act).
+
+#### Loss allocation[^key-3dd14834740cf62a9b0798094ef41516]
+
+**29A.** The central counterparty must maintain effective arrangements (which may include rules) for ensuring that losses that—
+
+- (a) arise otherwise than as a result of clearing member default; and
+- (b) threaten the central counterparty’s solvency;
+
+are allocated with a view to ensuring that the central counterparty can continue to provide the services and carry on the activities specified in its recognition order.
+
+#### Recovery plans
+
+**29B.** The central counterparty must maintain a plan that sets out the steps that it will take in order to maintain the continuity of the services that it provides and the activities that it carries on that are specified in its recognition order in the event that such continuity is threatened.
+
+#### Market abuse or financial crime
+
+**30.** The central counterparty must ensure that appropriate measures are adopted to reduce the extent to which its facilities can be used for a purpose connected with market abuse or financial crime, and to facilitate their detection and monitor their incidence.
+
+#### Access to central counterparty, clearing and settlement facilities
+
+**31.** (1) The central counterparty must make transparent and non-discriminatory rules, based on objective criteria, governing access to central counterparty, clearing or settlement facilities provided by it.
+
+(2)[^key-c30ac57635b34c0c0fab32a978bf3f46] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3)[^key-1925ddc3f1d2d1c7296d3b77e625698a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Reporting of infringements[^key-6e29d4fc40ef2586a7748d0c07d40ce9]
+
+##### 31A.
+
+(1) The central counterparty must have in place appropriate procedures for its employees to report actual or potential infringements of the CSD regulation , any EU regulation originally made under the CSD regulation which is[^key-36e066b0e37b61236db1ed186183a6d6] assimilated direct[^key-7275859d9bd6c9a98a46c09530808e4b] legislation, or any subordinate legislation (within the meaning of the Interpretation Act 1978) made under the CSD regulation on or after IP completion day, internally through a specific, independent and autonomous channel.
+
+(2) The protections set out in points (b), (c) and (d) of Article 65(2) of that regulation (reporting of infringements) must be applied in relation to those procedures.
+
+### PART 6 — Recognition requirements applying to central counterparties: default rules
+
+#### Introduction
+
+**32.** This Part sets out recognition requirements which apply to the default rules of a central counterparty.
+
+#### Interpretation
+
+**33.** In this Part—
+
+- (a) “assets” has the meaning given by Article 39(10) of the EMIR Level 1 Regulation;
+- (b) “clearing member” has the meaning given by Article 2(14) of the EMIR Level 1 Regulation;
+- (c) “client” has the meaning given by section 190(1) of the Companies Act 1989;
+- (d) “default rules” has the meaning given by section 188(1) of the Companies Act 1989;
+- (e) “defaulting” has the meaning given by section 188(2) of the Companies Act 1989;
+- (f) “EMIR Level 1 Regulation” means Regulation (EU) [No 648/2012](https://www.legislation.gov.uk/eur/2012/648) of 4 July 2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories;
+- (g) “indirect client” has the meaning given by section 190(1) of the Companies Act 1989;
+- (h) “position” has the has the meaning given by section 190(1) of the Companies Act 1989.
+
+#### Portability of accounts: default rules going beyond requirements of EMIR
+
+**34.** (1) Sub-paragraph (2) applies to any provisions of the default rules which—
+
+- (a) provide for the transfer of the positions or assets of a defaulting clearing member;
+- (b) are not necessary for the purposes of complying with the minimum requirements of Articles 48(5) and (6) of the EMIR Level 1 Regulation; and
+- (c) may be relevant to a question falling to be determined in accordance with the law of a part of the United Kingdom.
+
+(2) Where this sub-paragraph applies to any provisions of the default rules, the default rules must—
+
+- (a) include a summary of how a transfer under the provisions will work and its main legal implications (including information on the applicable insolvency law in the relevant jurisdictions), or a clear and prominent reference to the place where such a summary can be directly and easily accessed by the public;
+- (b) ensure that a position or asset cannot be transferred under the provisions without the consent of—
+  - (i) the person for whose account the position or asset is held; and
+  - (ii) the clearing member to whom the position or asset is transferred;
+- (c) ensure that any transfer under the provisions is fair to clients and indirect clients; and
+- (d) specify a pre-defined transfer period within which a transfer under the provisions must take place.
+
+(3) For the purposes of sub-paragraph (2)(a), a clear and prominent reference to a place where a summary can be directly and easily accessed by the public may be provided by way of a direct internet link to an appropriate internet site.
+
+(4) For the purposes of sub-paragraph (2)(b), consent may be given in advance of a default (such as by means of suitable provision in the default rules).
+
+#### Liquidation of accounts
+
+**35.** The default rules must contain provision ensuring that, after the liquidation of an account and the return of any collateral to clients or to a clearing member for the account of the clearing member’s clients, the amount of any other net sum payable or, as the case may be, the fact that no other net sum is payable, in respect of that account will be certified for the purposes of section 163 of the Companies Act 1989.
+
+#### Loss allocation[^key-3605c603051b4c37ae462588174bfdc3]
+
+**36.** The default rules must contain provision ensuring that losses that—
+
+- (a) arise as a result of clearing member default;
+- (b) remain after the resources to which the central counterparty has access pursuant to Article 45 of the EMIR Level 1 Regulation have been exhausted; and
+- (c) threaten the central counterparty’s solvency;
+
+are allocated with a view to ensuring that the central counterparty can continue to provide the services and carry on the activities specified in its recognition order.
+
+### PART 7 — Recognition requirements for Central Securities Depositories[^key-3ec3d5152bb607d8acc16a305da48f4e]
+
+#### Requirements of the CSD regulation
+
+##### 37.
+
+The central securities depository must meet the requirements set out in the CSD regulation , any EU regulation originally made under the CSD regulation which is[^key-37b40e98e383d7b139f1bafd336056f5] assimilated direct[^key-233763dd779e5c430ff50c1ea15b934d] legislation, or any subordinate legislation (within the meaning of the Interpretation Act 1978) made under the CSD regulation on or after IP completion day.
+
+#### Access to settlement facilities
+
+##### 38.
+
+(1) The central securities depository must make transparent and non-discriminatory rules, based on objective criteria, governing access to settlement facilities provided by it.
+
+(2)[^key-a30ad4ae1d5a0615cbe7f56197a19777] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Reporting of infringements
+
+##### 39.
+
+(1) The central securities depository must have in place appropriate procedures for its employees to report actual or potential infringements of the CSD regulation , any EU regulation originally made under the CSD regulation which is[^key-d3cb35707acc87a11983a1cb76a6a03c] assimilated direct[^key-adf7e641e01a358a617f3fe0cb7877bc] legislation, or any subordinate legislation (within the meaning of the Interpretation Act 1978) made under the CSD regulation on or after IP completion day, internally through a specific, independent and autonomous channel.
+
+(2) The protections set out in points (b), (c) and (d) of Article 65(2) of that regulation (reporting of infringements) must be applied in relation to those procedures.
+
+#### Investment services and activities
+
+##### 40.
+
+(1) A central securities depository providing investment services and activities in addition to the services explicitly listed in Sections A and B of the Annex to the CSD regulation must comply with—
+
+- (a)[^key-215c4eb8646cfe8e619e8640f8a9f758] provisions of the law of the United Kingdom relied on by the United Kingdom before IP completion day to implement the markets in financial instruments directive, except for Articles 5 to 8, 9(1), (2) and (4) to (6) and 10 to 13 of that directive—
+  - (i) as those implementing provisions have effect on IP completion day, in the case of rules made by the FCA or the Prudential Regulatory Authority under the Act, and
+  - (ii) as amended from time to time, in all other cases; and
+- (b) the markets in financial instruments regulation, any EU regulation originally made under the markets in financial instruments regulation which is assimilated direct[^key-71305e25072ec53970085d36fb7788ca] legislation, or any subordinate legislation (within the meaning of the Interpretation Act 1978) made under the markets in financial instruments regulation on or after IP completion day.
+
+(2) Until 3rd January 2018—
+
+- (a) the reference in sub-paragraph (1)(a) to Articles 5 to 8, 9(1), (2) and (4) to (6) and 10 to 13 of Directive [2014/65/EU](https://www.legislation.gov.uk/european/directive/2014/65) of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments (recast) is to be read as a reference to Articles 5 to 10b of Directive [2004/39/EC](https://www.legislation.gov.uk/european/directive/2004/0039) of the European Parliament and of the Council of 21 April 2004 on markets in financial instruments, and
+- (b) sub-paragraph (1)(b) does not apply.
+
+(This note is not part of the Regulations)
+
+These Regulations set out the recognition requirements which investment exchanges and clearing houses must satisfy in order to be or remain recognised by the Financial Services Authority under section 290 of the Financial Services and Markets Act [2000 (c. 8)](https://www.legislation.gov.uk/ukpga/2000/8) (“the Act”). Recognised investment exchanges and clearing houses have an exemption under section 285(2) of the Act, permitting them to carry on certain activities which would otherwise require authorisation by the Authority under Part IV of the Act.
+
+The recognition requirements are listed in the Schedule to the Regulations, which applies in accordance with regulations 4 and 5. Regulation 6 indicates that in assessing compliance with the requirements the Financial Services Authority may take account, for example, of the body’s constitution and practices, as well as its rules, guidance, and the arrangements which it makes for the provision of clearing services (see the definition of “regulatory provisions” in section 302(1) of the Act). Regulation 6 also permits a body to satisfy the requirements by delegating the performance of a function to another person, provided that person is fit and proper.
+
+Part I of the Schedule sets out various requirements applying to investment exchanges, covering matters such as the sufficiency of its financial resources, the protection afforded to investors, and its willingness to maintain high standards of integrity and fair dealing. Part III of the Schedule sets out a similar range of requirements for clearing houses. Some requirements in Part I refer to “investments”, which is defined in regulation 3(1) by reference to section 22 of the Act. At the time these Regulations were made, the investments specified for the purposes of that section were contained in Part III of the Financial Services and Markets Act 2000 (Regulated Activities) Order 2001 ([S.I. 2001/544](https://www.legislation.gov.uk/uksi/2001/544)).
+
+Parts II and IV of the Schedule set out requirements formerly contained in Parts I and II of Schedule 21 of the Companies Act [1989 (c. 40)](https://www.legislation.gov.uk/ukpga/1989/40) (“the Companies Act”). These provisions require recognised investment exchanges and clearing houses to have default rules applying where a person defaults on obligations under a market contract. “Market contract” (see regulation 1) is defined in section 286 of the Act as a contract to which Part VII of the Companies Act (or Part V of the Companies (No. 2) (Northern Ireland) Order 1990 ([S.I. 1990/1504, N.I. 10)](https://www.legislation.gov.uk/nisi/1990/1504)) applies. However under regulation 8 (which replaces section 156(3A) of the Companies Act) a recognised investment exchange or recognised clearing house is not required to have default rules relating to particular types of market contract if it does not enter into any such contracts. “Market contract” also includes any other categories of contract prescribed by the Treasury under section 286 of the Act, but no such additional categories are currently prescribed.
+
+Regulations 9 and 10 contain transitional provisions. Regulation 9 ensures that investment exchanges and clearing houses which were recognised under the Financial Services Act [1986 (c. 60)](https://www.legislation.gov.uk/ukpga/1986/60) continue to be recognised under the Act. Regulation 10 ensures that any action taken with a view to the revocation of such recognition under the Financial Services Act can be continued. However regulations 9(6) and 10(7) contain safeguards to ensure that recognised bodies have sufficient time to comply with new requirements which did not previously apply to them.
+
+## Annotations
+
+[^key-eedddca06da39385ec757ab7e2d86943]: Textual amendment: Words in [Title](https://www.legislation.gov.uk/uksi/2001/995) substituted (28.11.2017) by [The Central Securities Depositories Regulations 2017 (S.I. 2017/1064)](https://www.legislation.gov.uk/uksi/2017/1064), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1064/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/4/2) (with [regs. 7(4)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/7/4), [9(1)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/9/1))
+
+[^f00001]: Footnote: [2000 c. 8](https://www.legislation.gov.uk/ukpga/2000/8).
+
+[^key-862342e5a706142e97f9c4228536a95b]: Modification: Regulations applied (with modifications) (temp.) (1.5.2014) by [S.I. 2013/504](https://www.legislation.gov.uk/uksi/2013/504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/504/regulation/1/2), [52(5A)](https://www.legislation.gov.uk/uksi/2013/504/regulation/52/5A) (as inserted by [The Financial Services and Markets Act 2000 (Over the Counter Derivatives, Central Counterparties and Trade Repositories) (Amendment) Regulations 2014 (S.I. 2014/905)](https://www.legislation.gov.uk/uksi/2014/905), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/905/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2014/905/regulation/2/3))
+
+[^key-06a4a4f689e0a1ba163b89eb8cfa21c5]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2001/995) applied (with modifications) (temp.) (5.6.2025) by [The Financial Services and Markets Act 2023 (Private Intermittent Securities and Capital Exchange System Sandbox) Regulations 2025 (S.I. 2025/583)](https://www.legislation.gov.uk/uksi/2025/583), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/583/regulation/1/2), [12](https://www.legislation.gov.uk/uksi/2025/583/regulation/12), [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2025/583/schedule/1/paragraph/3) (with [reg. 20](https://www.legislation.gov.uk/uksi/2025/583/regulation/20))
+
+[^key-f073f334be8b93b87c46b858cbb2e3dc]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2001/995/regulation/1) in force at 1.12.2001, see [reg. 2](https://www.legislation.gov.uk/uksi/2001/995/regulation/2)
+
+[^key-db64777add579ab4f6703879a64d3f8a]: Textual amendment: Words in [reg. 1](https://www.legislation.gov.uk/uksi/2001/995/regulation/1) substituted (28.11.2017) by [The Central Securities Depositories Regulations 2017 (S.I. 2017/1064)](https://www.legislation.gov.uk/uksi/2017/1064), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1064/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/4/2) (with [regs. 7(4)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/7/4), [9(1)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/9/1))
+
+[^key-2916c3307813794c1c3d3465cbadc6a2]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2001/995/regulation/2) in force at 1.12.2001, see [reg. 2](https://www.legislation.gov.uk/uksi/2001/995/regulation/2)
+
+[^key-da67eb45431cc43367797626b5ccd45c]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2001/995/regulation/3) in force at 1.12.2001, see [reg. 2](https://www.legislation.gov.uk/uksi/2001/995/regulation/2)
+
+[^key-85a32cc390f1cae3e6dbbb4fc2c5b14b]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2001/995/regulation/3/1) substituted (31.12.2020) by [The Investment Exchanges, Clearing Houses and Central Securities Depositories (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/662)](https://www.legislation.gov.uk/uksi/2019/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/662/regulation/1), [19(2)(a)](https://www.legislation.gov.uk/uksi/2019/662/regulation/19) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11) (as amended by [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 40(f)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/40))); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-b41c18ba0711fc95ec1e0e9cb6262aeb]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2001/995/regulation/3/1) inserted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 36(a)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/36/a)
+
+[^key-a3cd44975aea2bc91fa316c31e2b2af8]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2001/995/regulation/3/1) omitted (31.12.2020) by virtue of [The Investment Exchanges, Clearing Houses and Central Securities Depositories (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/662)](https://www.legislation.gov.uk/uksi/2019/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/662/regulation/1), [19(2)(b)](https://www.legislation.gov.uk/uksi/2019/662/regulation/19) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11) (as amended by [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 40(f)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/40))); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-7e8e7120792cd5e025f28490e4bcc327]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2001/995/regulation/3/1) omitted (1.4.2013) by virtue of [The Financial Services and Markets Act 2000 (Over the Counter Derivatives, Central Counterparties and Trade Repositories) Regulations 2013 (S.I. 2013/504)](https://www.legislation.gov.uk/uksi/2013/504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/504/regulation/1/2), [5(2)(a)(i)](https://www.legislation.gov.uk/uksi/2013/504/regulation/5/2/a/i) (with [regs. 52-58](https://www.legislation.gov.uk/uksi/2013/504/regulation/52))
+
+[^key-f3fb44d674ff67f3c8a330bd57336979]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2001/995/regulation/3/1) inserted (29.6.2017 for specified purposes, 3.7.2017 for specified purposes, 31.7.2017 for specified purposes, 3.1.2018 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Markets in Financial Instruments) Regulations 2017 (S.I. 2017/701)](https://www.legislation.gov.uk/uksi/2017/701), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/3)[(4)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/4)[(6)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/6), [Sch. 3 para. 1(2)(g)](https://www.legislation.gov.uk/uksi/2017/701/schedule/3/paragraph/1/2/g) (with [reg. 7](https://www.legislation.gov.uk/uksi/2017/701/regulation/7))
+
+[^key-11e8295f49d91f105d151c84a363c627]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2001/995/regulation/3/1) omitted (29.6.2017 for specified purposes, 3.7.2017 for specified purposes, 31.7.2017 for specified purposes, 3.1.2018 in so far as not already in force) by virtue of [The Financial Services and Markets Act 2000 (Markets in Financial Instruments) Regulations 2017 (S.I. 2017/701)](https://www.legislation.gov.uk/uksi/2017/701), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/3)[(4)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/4)[(6)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/6), [Sch. 3 para. 1(2)(b)](https://www.legislation.gov.uk/uksi/2017/701/schedule/3/paragraph/1/2/b) (with [reg. 7](https://www.legislation.gov.uk/uksi/2017/701/regulation/7))
+
+[^key-343a167096d8a3bcc73b0013899dda50]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2001/995/regulation/3/1) substituted (31.12.2020) by [The Investment Exchanges, Clearing Houses and Central Securities Depositories (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/662)](https://www.legislation.gov.uk/uksi/2019/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/662/regulation/1), [19(2)(c)](https://www.legislation.gov.uk/uksi/2019/662/regulation/19) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11) (as amended by [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 40(f)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/40))); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^f00002]: Footnote: [1989 c. 40](https://www.legislation.gov.uk/ukpga/1989/40).
+
+[^key-bfb21ed082371552d5b8eb892ea88319]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2001/995/regulation/3/1) omitted (31.12.2020) by virtue of [The Investment Exchanges, Clearing Houses and Central Securities Depositories (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/662)](https://www.legislation.gov.uk/uksi/2019/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/662/regulation/1), [19(2)(d)](https://www.legislation.gov.uk/uksi/2019/662/regulation/19) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11) (as amended by [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 40(f)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/40))); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-04436f73d95896ec7cd462d4fa20bff9]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2001/995/regulation/3/1) inserted (15.6.2009) by [The Financial Markets and Insolvency Regulations 2009 (S.I. 2009/853)](https://www.legislation.gov.uk/uksi/2009/853), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/853/regulation/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2009/853/regulation/4/2)
+
+[^key-8671255646273d33bb85f12278a9a2af]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2001/995/regulation/3/1) substituted (26.8.2013) by [The Financial Services and Markets Act 2000 (Over the Counter Derivatives, Central Counterparties and Trade Repositories) (No. 2) Regulations 2013 (S.I. 2013/1908)](https://www.legislation.gov.uk/uksi/2013/1908), [regs. 1(3)(c)](https://www.legislation.gov.uk/uksi/2013/1908/regulation/1/3/c), [3(2)](https://www.legislation.gov.uk/uksi/2013/1908/regulation/3/2)
+
+[^key-8c7c99047ef6597a11d68fe84bdfc0f0]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2001/995/regulation/3/1) substituted (31.12.2020) by [The Investment Exchanges, Clearing Houses and Central Securities Depositories (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/662)](https://www.legislation.gov.uk/uksi/2019/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/662/regulation/1), [19(2)(e)](https://www.legislation.gov.uk/uksi/2019/662/regulation/19) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11) (as amended by [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 40(f)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/40))); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-4fdcab25c485121d223e86649b44d760]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2001/995/regulation/3/1) substituted (31.12.2020) by [The Investment Exchanges, Clearing Houses and Central Securities Depositories (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/662)](https://www.legislation.gov.uk/uksi/2019/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/662/regulation/1), [19(2)(f)](https://www.legislation.gov.uk/uksi/2019/662/regulation/19) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11) (as amended by [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 40(f)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/40))); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-1e5873f2db1888151679a6b3c3f2114f]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2001/995/regulation/3/1) substituted (31.12.2020) by [The Investment Exchanges, Clearing Houses and Central Securities Depositories (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/662)](https://www.legislation.gov.uk/uksi/2019/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/662/regulation/1), [19(2)(g)](https://www.legislation.gov.uk/uksi/2019/662/regulation/19) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11) (as amended by [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 40(f)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/40))); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-041e521566ce3a8a4b52d5588e6bd6bb]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2001/995/regulation/3/1) inserted (1.11.2007) by [The Financial Services and Markets Act 2000 (Recognition Requirements for Investment Exchanges and Clearing Houses) (Amendment) Regulations 2006 (S.I. 2006/3386)](https://www.legislation.gov.uk/uksi/2006/3386), [regs. 1](https://www.legislation.gov.uk/uksi/2006/3386/regulation/1), [3](https://www.legislation.gov.uk/uksi/2006/3386/regulation/3)
+
+[^key-e564382613bcfcccab344c1532576fa6]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2001/995/regulation/3/1) substituted (31.12.2020) by [The Investment Exchanges, Clearing Houses and Central Securities Depositories (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/662)](https://www.legislation.gov.uk/uksi/2019/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/662/regulation/1), [19(2)(h)](https://www.legislation.gov.uk/uksi/2019/662/regulation/19) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11) (as amended by [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 40(f)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/40))); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-235a894d2806a5c93001d735e30d80d7]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2001/995/regulation/3/1) substituted (31.12.2020) by [The Investment Exchanges, Clearing Houses and Central Securities Depositories (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/662)](https://www.legislation.gov.uk/uksi/2019/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/662/regulation/1), [19(2)(i)](https://www.legislation.gov.uk/uksi/2019/662/regulation/19) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11) (as amended by [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 40(f)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/40))); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-94241eff2b646c37c65d321b3c519b37]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2001/995/regulation/3/1) substituted (1.4.2013) by [The Financial Services and Markets Act 2000 (Over the Counter Derivatives, Central Counterparties and Trade Repositories) Regulations 2013 (S.I. 2013/504)](https://www.legislation.gov.uk/uksi/2013/504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/504/regulation/1/2), [5(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2013/504/regulation/5/2/a/ii) (with [regs. 52-58](https://www.legislation.gov.uk/uksi/2013/504/regulation/52))
+
+[^key-1b50be8e134a3dca40eb6ea11b7fc2ad]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2001/995/regulation/3/1) inserted (28.11.2017) by [The Central Securities Depositories Regulations 2017 (S.I. 2017/1064)](https://www.legislation.gov.uk/uksi/2017/1064), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1064/regulation/1), [4(3)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/4/3) (with [regs. 7(4)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/7/4), [9(1)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/9/1))
+
+[^key-e1e224204703ae176a7ad7dfe664dae7]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2001/995/regulation/3/1) substituted (31.12.2020) by [The Investment Exchanges, Clearing Houses and Central Securities Depositories (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/662)](https://www.legislation.gov.uk/uksi/2019/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/662/regulation/1), [19(2)(j)](https://www.legislation.gov.uk/uksi/2019/662/regulation/19) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11) (as amended by [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 40(f)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/40))); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^f00003]: Footnote: [1986 c. 60](https://www.legislation.gov.uk/ukpga/1986/60).
+
+[^key-59c37a308a6d194ce0a43035a97ec1cb]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2001/995/regulation/3/1) substituted (31.12.2020) by [The Investment Exchanges, Clearing Houses and Central Securities Depositories (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/662)](https://www.legislation.gov.uk/uksi/2019/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/662/regulation/1), [19(2)(k)](https://www.legislation.gov.uk/uksi/2019/662/regulation/19) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11) (as amended by [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 40(f)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/40))); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-16c326bfeda60663940850b874fa78a8]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2001/995/regulation/3/1) substituted (31.12.2020) by [The Investment Exchanges, Clearing Houses and Central Securities Depositories (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/662)](https://www.legislation.gov.uk/uksi/2019/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/662/regulation/1), [19(2)(l)](https://www.legislation.gov.uk/uksi/2019/662/regulation/19) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11) (as amended by [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 40(f)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/40))); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-ee71ad3ec8bd621cc84f4f8e4ada0692]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2001/995/regulation/3/1) inserted (23.10.2025) by [The Markets in Financial Instruments (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/1020)](https://www.legislation.gov.uk/uksi/2025/1020), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1020/regulation/1/2), [9(2)](https://www.legislation.gov.uk/uksi/2025/1020/regulation/9/2) (with [reg. 17](https://www.legislation.gov.uk/uksi/2025/1020/regulation/17)); [S.I. 2025/1078](https://www.legislation.gov.uk/uksi/2025/1078), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2025/1078/regulation/2/b) (with [reg. 11](https://www.legislation.gov.uk/uksi/2025/1078/regulation/11))
+
+[^key-5abe97ec39984192ef891cefa8b14df8]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2001/995/regulation/3/1) substituted (31.12.2020) by [The Investment Exchanges, Clearing Houses and Central Securities Depositories (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/662)](https://www.legislation.gov.uk/uksi/2019/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/662/regulation/1), [19(2)(m)](https://www.legislation.gov.uk/uksi/2019/662/regulation/19) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11) (as amended by [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 40(f)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/40))); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-7c730c22178df3d6c16903631f4c1c0d]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2001/995/regulation/3/1) inserted (31.12.2020) by [The Investment Exchanges, Clearing Houses and Central Securities Depositories (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/662)](https://www.legislation.gov.uk/uksi/2019/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/662/regulation/1), [19(2)(n)](https://www.legislation.gov.uk/uksi/2019/662/regulation/19) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11) (as amended by [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 40(f)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/40))); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-84952fc518812c423330b6bb021c7986]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2001/995/regulation/3/1) substituted (31.12.2020) by [The Investment Exchanges, Clearing Houses and Central Securities Depositories (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/662)](https://www.legislation.gov.uk/uksi/2019/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/662/regulation/1), [19(2)(o)](https://www.legislation.gov.uk/uksi/2019/662/regulation/19) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11) (as amended by [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 40(f)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/40))); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-b8bfcdfde442fac64065e56e3845eeea]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2001/995/regulation/3/1) substituted (31.12.2020) by [The Investment Exchanges, Clearing Houses and Central Securities Depositories (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/662)](https://www.legislation.gov.uk/uksi/2019/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/662/regulation/1), [19(2)(p)](https://www.legislation.gov.uk/uksi/2019/662/regulation/19) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11) (as amended by [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 40(f)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/40))); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-072a1cd06c4e67f3b352f4aea43a6e22]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2001/995/regulation/3/1) substituted (31.12.2020) by [The Investment Exchanges, Clearing Houses and Central Securities Depositories (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/662)](https://www.legislation.gov.uk/uksi/2019/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/662/regulation/1), [19(2)(q)](https://www.legislation.gov.uk/uksi/2019/662/regulation/19) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11) (as amended by [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 40(f)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/40))); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^f00004]: Footnote: [S.I. 1990/1504 (N.I. 10)](https://www.legislation.gov.uk/nisi/1990/1504).
+
+[^key-17be3d4c1b5ee9c03459e5c03e8d556a]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2001/995/regulation/3/1) inserted (31.12.2020) by [The Investment Exchanges, Clearing Houses and Central Securities Depositories (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/662)](https://www.legislation.gov.uk/uksi/2019/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/662/regulation/1), [19(2)(r)](https://www.legislation.gov.uk/uksi/2019/662/regulation/19) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11) (as amended by [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 40(f)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/40))); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-4474d341943e7d0a701b40dfc14608d7]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2001/995/regulation/3/1) substituted (31.12.2020) by [The Investment Exchanges, Clearing Houses and Central Securities Depositories (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/662)](https://www.legislation.gov.uk/uksi/2019/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/662/regulation/1), [19(2)(s)](https://www.legislation.gov.uk/uksi/2019/662/regulation/19) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11) (as amended by [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 40(f)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/40))); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-2742beb6ca73e6797b7f125f574c4cb2]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2001/995/regulation/3/1) substituted (31.12.2020) by [The Investment Exchanges, Clearing Houses and Central Securities Depositories (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/662)](https://www.legislation.gov.uk/uksi/2019/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/662/regulation/1), [19(2)(t)](https://www.legislation.gov.uk/uksi/2019/662/regulation/19) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11) (as amended by [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 40(f)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/40))); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-20c76da9a58a3f017f96386acd10e7f2]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2001/995/regulation/3/1) inserted (1.4.2013) by [The Financial Services and Markets Act 2000 (Over the Counter Derivatives, Central Counterparties and Trade Repositories) Regulations 2013 (S.I. 2013/504)](https://www.legislation.gov.uk/uksi/2013/504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/504/regulation/1/2), [5(2)(a)(iii)](https://www.legislation.gov.uk/uksi/2013/504/regulation/5/2/a/iii) (with [regs. 52-58](https://www.legislation.gov.uk/uksi/2013/504/regulation/52))
+
+[^key-3ea255f5b6697bc3a5bf37c5acabd09d]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2001/995/regulation/3/1) substituted (31.12.2020) by [The Investment Exchanges, Clearing Houses and Central Securities Depositories (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/662)](https://www.legislation.gov.uk/uksi/2019/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/662/regulation/1), [19(2)(u)](https://www.legislation.gov.uk/uksi/2019/662/regulation/19) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11) (as amended by [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 40(f)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/40))); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-84018c814f44b60c24098a96de0df728]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2001/995/regulation/3/1) substituted (31.12.2020) by [The Investment Exchanges, Clearing Houses and Central Securities Depositories (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/662)](https://www.legislation.gov.uk/uksi/2019/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/662/regulation/1), [19(2)(v)](https://www.legislation.gov.uk/uksi/2019/662/regulation/19) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11) (as amended by [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 40(f)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/40))); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-a650a80762c1d9940ac9ff44017802cc]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2001/995/regulation/3/1) substituted (31.12.2020) by [The Investment Exchanges, Clearing Houses and Central Securities Depositories (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/662)](https://www.legislation.gov.uk/uksi/2019/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/662/regulation/1), [19(2)(w)](https://www.legislation.gov.uk/uksi/2019/662/regulation/19) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11) (as amended by [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 40(f)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/40))); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-5b2d26b11eaf227940edb0c689dfc148]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2001/995/regulation/3/1) substituted (31.12.2020) by virtue of [The Investment Exchanges, Clearing Houses and Central Securities Depositories (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/662)](https://www.legislation.gov.uk/uksi/2019/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/662/regulation/1), [19(2)(x)](https://www.legislation.gov.uk/uksi/2019/662/regulation/19) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11) (as amended by [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 40(f)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/40))); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-be0aa27675fda5ca77de04b025bbba38]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2001/995/regulation/3/1) substituted (31.12.2020) by [The Investment Exchanges, Clearing Houses and Central Securities Depositories (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/662)](https://www.legislation.gov.uk/uksi/2019/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/662/regulation/1), [19(2)(y)](https://www.legislation.gov.uk/uksi/2019/662/regulation/19) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11) (as amended by [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 40(f)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/40))); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-969229f44bb460341c446a6f7bee26f1]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2001/995/regulation/3/1) substituted (31.12.2020) by [The Investment Exchanges, Clearing Houses and Central Securities Depositories (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/662)](https://www.legislation.gov.uk/uksi/2019/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/662/regulation/1), [19(2)(z)](https://www.legislation.gov.uk/uksi/2019/662/regulation/19) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11) (as amended by [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 40(f)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/40))); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-b485fb352cd6e03b7c9c0aeb3ee60dbb]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2001/995/regulation/3/1) omitted (31.12.2020) by virtue of [The Investment Exchanges, Clearing Houses and Central Securities Depositories (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/662)](https://www.legislation.gov.uk/uksi/2019/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/662/regulation/1), [19(2)(aa)](https://www.legislation.gov.uk/uksi/2019/662/regulation/19) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11) (as amended by [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 40(f)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/40))); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-375aa5983c294d78d6a5202d55a12d31]: Textual amendment: Reg. 3(1A) inserted (1.4.2013) by [The Financial Services and Markets Act 2000 (Over the Counter Derivatives, Central Counterparties and Trade Repositories) Regulations 2013 (S.I. 2013/504)](https://www.legislation.gov.uk/uksi/2013/504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/504/regulation/1/2), [5(2)(b)](https://www.legislation.gov.uk/uksi/2013/504/regulation/5/2/b) (with [regs. 52-58](https://www.legislation.gov.uk/uksi/2013/504/regulation/52))
+
+[^key-e6154244e1755c1ef685497a1b09d2ee]: Textual amendment: [Reg. 3(1B)](https://www.legislation.gov.uk/uksi/2001/995/regulation/3/1B) inserted (31.12.2020) by [The Investment Exchanges, Clearing Houses and Central Securities Depositories (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/662)](https://www.legislation.gov.uk/uksi/2019/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/662/regulation/1), [19(3)](https://www.legislation.gov.uk/uksi/2019/662/regulation/19) (as amended by [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 37(f)](https://www.legislation.gov.uk/uksi/2020/1301/schedule) and with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11) (as amended by [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 40(f)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/40))); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-934798acd69e18581f018a7cd7c0308b]: Textual amendment: [Reg. 3(4)](https://www.legislation.gov.uk/uksi/2001/995/regulation/3/4)[(5)](https://www.legislation.gov.uk/uksi/2001/995/regulation/3/5) inserted (23.10.2025) by [The Markets in Financial Instruments (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/1020)](https://www.legislation.gov.uk/uksi/2025/1020), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1020/regulation/1/2), [9(3)](https://www.legislation.gov.uk/uksi/2025/1020/regulation/9/3) (with [reg. 17](https://www.legislation.gov.uk/uksi/2025/1020/regulation/17)); [S.I. 2025/1078](https://www.legislation.gov.uk/uksi/2025/1078), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2025/1078/regulation/2/b) (with [reg. 11](https://www.legislation.gov.uk/uksi/2025/1078/regulation/11))
+
+[^key-95e9fb0897e7eece637a4e3922bbc276]: Textual amendment: [Reg. 3A](https://www.legislation.gov.uk/uksi/2001/995/regulation/3A) inserted (23.10.2025) by [The Markets in Financial Instruments (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/1020)](https://www.legislation.gov.uk/uksi/2025/1020), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1020/regulation/1/2), [10](https://www.legislation.gov.uk/uksi/2025/1020/regulation/10) (with [reg. 17](https://www.legislation.gov.uk/uksi/2025/1020/regulation/17)); [S.I. 2025/1078](https://www.legislation.gov.uk/uksi/2025/1078), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2025/1078/regulation/2/b) (with [reg. 11](https://www.legislation.gov.uk/uksi/2025/1078/regulation/11))
+
+[^key-8fd036e07df8ab343a6fa290225792c8]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2001/995/regulation/4) in force at 1.12.2001, see [reg. 2](https://www.legislation.gov.uk/uksi/2001/995/regulation/2)
+
+[^key-a64a6703a417db7c19373442a2679452]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2001/995/regulation/5) in force at 1.12.2001, see [reg. 2](https://www.legislation.gov.uk/uksi/2001/995/regulation/2)
+
+[^key-5618e49e9311ef5274046ffdd455d4f3]: Textual amendment: Words in [reg. 5](https://www.legislation.gov.uk/uksi/2001/995/regulation/5) heading inserted (1.4.2013) by [The Financial Services and Markets Act 2000 (Over the Counter Derivatives, Central Counterparties and Trade Repositories) Regulations 2013 (S.I. 2013/504)](https://www.legislation.gov.uk/uksi/2013/504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/504/regulation/1/2), [5(3)(a)](https://www.legislation.gov.uk/uksi/2013/504/regulation/5/3/a) (with [regs. 52-58](https://www.legislation.gov.uk/uksi/2013/504/regulation/52))
+
+[^key-649f85ab18311a1de79aec5074d247f2]: Textual amendment: Words in [reg. 5](https://www.legislation.gov.uk/uksi/2001/995/regulation/5) substituted (1.4.2013) by [The Financial Services and Markets Act 2000 (Over the Counter Derivatives, Central Counterparties and Trade Repositories) Regulations 2013 (S.I. 2013/504)](https://www.legislation.gov.uk/uksi/2013/504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/504/regulation/1/2), [5(3)(b)](https://www.legislation.gov.uk/uksi/2013/504/regulation/5/3/b) (with [regs. 52-58](https://www.legislation.gov.uk/uksi/2013/504/regulation/52))
+
+[^key-f3dd38c08551d3f922c436fd1b18c6f5]: Textual amendment: Words in [reg. 5](https://www.legislation.gov.uk/uksi/2001/995/regulation/5) substituted (1.4.2013) by [The Financial Services and Markets Act 2000 (Over the Counter Derivatives, Central Counterparties and Trade Repositories) Regulations 2013 (S.I. 2013/504)](https://www.legislation.gov.uk/uksi/2013/504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/504/regulation/1/2), [5(3)(c)](https://www.legislation.gov.uk/uksi/2013/504/regulation/5/3/c) (with [regs. 52-58](https://www.legislation.gov.uk/uksi/2013/504/regulation/52))
+
+[^key-53a974d5de4bf55b5be077f3c2ef7f5c]: Textual amendment: [Reg. 5A](https://www.legislation.gov.uk/uksi/2001/995/regulation/5A) inserted (1.4.2013) by [The Financial Services and Markets Act 2000 (Over the Counter Derivatives, Central Counterparties and Trade Repositories) Regulations 2013 (S.I. 2013/504)](https://www.legislation.gov.uk/uksi/2013/504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/504/regulation/1/2), [5(4)](https://www.legislation.gov.uk/uksi/2013/504/regulation/5/4) (with [regs. 52-58](https://www.legislation.gov.uk/uksi/2013/504/regulation/52))
+
+[^key-7341f38897c11dc86295e05b08c70c34]: Textual amendment: [Reg. 5B](https://www.legislation.gov.uk/uksi/2001/995/regulation/5B) inserted (28.11.2017) by [The Central Securities Depositories Regulations 2017 (S.I. 2017/1064)](https://www.legislation.gov.uk/uksi/2017/1064), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1064/regulation/1), [4(4)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/4/4) (with [regs. 7(4)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/7/4), [9(1)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/9/1))
+
+[^key-432a93c0fc26df9a4036b44cd3470fab]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2001/995/regulation/6) in force at 1.12.2001, see [reg. 2](https://www.legislation.gov.uk/uksi/2001/995/regulation/2)
+
+[^key-f470986c2062ab0718d60de9fafa9b19]: Textual amendment: Words in [reg. 6(1)](https://www.legislation.gov.uk/uksi/2001/995/regulation/6/1) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 36(b)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/36/b)
+
+[^key-2233b4d04f9ad1f1da38aaf0e9e171ad]: Textual amendment: [Reg. 6(4)](https://www.legislation.gov.uk/uksi/2001/995/regulation/6/4) inserted (28.11.2017) by [The Central Securities Depositories Regulations 2017 (S.I. 2017/1064)](https://www.legislation.gov.uk/uksi/2017/1064), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1064/regulation/1), [4(5)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/4/5) (with [regs. 7(4)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/7/4), [9(1)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/9/1))
+
+[^key-86518e44da15492bc521b6f4d042650e]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2001/995/regulation/7) in force at 1.12.2001, see [reg. 2](https://www.legislation.gov.uk/uksi/2001/995/regulation/2)
+
+[^key-bce213f1b8a4f3d53e7b65f013232f34]: Textual amendment: Words in [reg. 7](https://www.legislation.gov.uk/uksi/2001/995/regulation/7) omitted (1.4.2013) by virtue of [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 36(c)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/36/c)
+
+[^key-967fcf0374b2a414f5b1f354bd3850e4]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2001/995/regulation/8) in force at 1.12.2001, see [reg. 2](https://www.legislation.gov.uk/uksi/2001/995/regulation/2)
+
+[^key-1ce80301ee41b59b371e32d7ec7716b4]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2001/995/regulation/9) in force at 1.12.2001, see [reg. 2](https://www.legislation.gov.uk/uksi/2001/995/regulation/2)
+
+[^key-0f3a477a745b9a2b5ac7db2302dfc9ee]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2001/995/regulation/10) in force at 1.12.2001, see [reg. 2](https://www.legislation.gov.uk/uksi/2001/995/regulation/2)
+
+[^f00005]: Footnote: The functions of the Secretary of State under sections 37, 39 and 40 of the Financial Services Act were transferred to the Financial Services Authority (previously known as the Securities and Investments Board Limited) by [S.I. 1987/942](https://www.legislation.gov.uk/uksi/1987/942), except in relation to bodies or associations of the kind described in section 40(1) of the Financial Services Act 1986 (overseas investment exchanges and clearing houses). In relation to such bodies, these functions of the Secretary of State were transferred to the Treasury by [S.I. 1992/1315](https://www.legislation.gov.uk/uksi/1992/1315).
+
+[^f00006]: Footnote: The effect of sections 37(7) and 39(7) of the Financial Services Act is modified by section 40(4)(b) of that Act (in relation to overseas investment exchanges and clearing houses), and section 156 of the Companies Act (in all cases).
+
+[^key-1d0bb41428f8881fa64d1613d1cc5e95]: Textual amendment: [Reg. 11](https://www.legislation.gov.uk/uksi/2001/995/regulation/11) inserted (29.6.2017 for specified purposes, 3.7.2017 for specified purposes, 31.7.2017 for specified purposes, 3.1.2018 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Markets in Financial Instruments) Regulations 2017 (S.I. 2017/701)](https://www.legislation.gov.uk/uksi/2017/701), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/3)[(4)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/4)[(6)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/6), [Sch. 3 para. 1(3)](https://www.legislation.gov.uk/uksi/2017/701/schedule/3/paragraph/1/3) (with [reg. 7](https://www.legislation.gov.uk/uksi/2017/701/regulation/7))
+
+[^key-aa3e50907f6ba7ccb75df54e7411ee95]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/uksi/2001/995/schedule/paragraph/1) in force at 1.12.2001, see [reg. 2](https://www.legislation.gov.uk/uksi/2001/995/regulation/2)
+
+[^key-ef1757323dbd4dd01a04ba98dc79f52f]: Textual amendment: Words in Sch. Pt. 1 substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 36(d)(i)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/36/d/i)
+
+[^key-326dd17e1c7d3601347e3b67c201c60d]: Textual amendment: Word in [Sch. para. 1(2)](https://www.legislation.gov.uk/uksi/2001/995/schedule/paragraph/1/2) substituted (1.11.2007) by [The Financial Services and Markets Act 2000 (Recognition Requirements for Investment Exchanges and Clearing Houses) (Amendment) Regulations 2006 (S.I. 2006/3386)](https://www.legislation.gov.uk/uksi/2006/3386), [regs. 1](https://www.legislation.gov.uk/uksi/2006/3386/regulation/1), [4](https://www.legislation.gov.uk/uksi/2006/3386/regulation/4)
+
+[^key-204a8ca9d1da91881f773406aa15bb73]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/uksi/2001/995/schedule/paragraph/2) in force at 1.12.2001, see [reg. 2](https://www.legislation.gov.uk/uksi/2001/995/regulation/2)
+
+[^key-df0e25c74936063859c4c9193b633a09]: Textual amendment: [Sch. para. 2(3)](https://www.legislation.gov.uk/uksi/2001/995/schedule/paragraph/2/3) substituted (29.6.2017 for specified purposes, 3.7.2017 for specified purposes, 31.7.2017 for specified purposes, 3.1.2018 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Markets in Financial Instruments) Regulations 2017 (S.I. 2017/701)](https://www.legislation.gov.uk/uksi/2017/701), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/3)[(4)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/4)[(6)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/6), [Sch. 3 para. 1(4)](https://www.legislation.gov.uk/uksi/2017/701/schedule/3/paragraph/1/4) (with [reg. 7](https://www.legislation.gov.uk/uksi/2017/701/regulation/7))
+
+[^key-9d3aca6e5f53996370189a583aeba1e6]: Textual amendment: Sch. para. 2(3)(4) inserted (1.11.2007) by [The Financial Services and Markets Act 2000 (Recognition Requirements for Investment Exchanges and Clearing Houses) (Amendment) Regulations 2006 (S.I. 2006/3386)](https://www.legislation.gov.uk/uksi/2006/3386), [regs. 1](https://www.legislation.gov.uk/uksi/2006/3386/regulation/1), [5](https://www.legislation.gov.uk/uksi/2006/3386/regulation/5)
+
+[^M_F_fad5eb0a-1508-4e4c-d60c-08ce1735d230]: Textual amendment: Sch. paras. 2A, 2B and cross-headings inserted (29.6.2017 for specified purposes, 3.7.2017 for specified purposes, 31.7.2017 for specified purposes, 3.1.2018 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Markets in Financial Instruments) Regulations 2017 (S.I. 2017/701)](https://www.legislation.gov.uk/uksi/2017/701), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/3)[(4)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/4)[(6)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/6), [Sch. 3 para. 1(5)](https://www.legislation.gov.uk/uksi/2017/701/schedule/3/paragraph/1/5) (with [reg. 7](https://www.legislation.gov.uk/uksi/2017/701/regulation/7))
+
+[^key-d269a085d04b3e423ea9ee06d71b291f]: Textual amendment: Words in [Sch. para. 2B(1)(a)](https://www.legislation.gov.uk/uksi/2001/995/schedule/paragraph/2B/1/a) inserted (26.3.2019) by [The Investment Exchanges, Clearing Houses and Central Securities Depositories (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/662)](https://www.legislation.gov.uk/uksi/2019/662), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/662/regulation/1), [3](https://www.legislation.gov.uk/uksi/2019/662/regulation/3)
+
+[^key-12d9fbf03fe8d7eb9484e12ec51323f5]: Textual amendment: Words in [Sch. para. 2B(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2001/995/schedule/paragraph/2B/2/b/ii) omitted (31.12.2020) by virtue of [The Investment Exchanges, Clearing Houses and Central Securities Depositories (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/662)](https://www.legislation.gov.uk/uksi/2019/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/662/regulation/1), [20(2)(a)](https://www.legislation.gov.uk/uksi/2019/662/regulation/20) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11) (as amended by [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 40(f)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/40))); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-98e5f8aa14a49656c9f1db30f039dd3e]: Textual amendment: [Sch. para. 2B(7)](https://www.legislation.gov.uk/uksi/2001/995/schedule/paragraph/2B/7) inserted (31.12.2020) by [The Investment Exchanges, Clearing Houses and Central Securities Depositories (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/662)](https://www.legislation.gov.uk/uksi/2019/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/662/regulation/1), [20(2)(b)](https://www.legislation.gov.uk/uksi/2019/662/regulation/20) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11) (as amended by [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 40(f)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/40))); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-d82b433955d2e1e829fa28da33ce8f5e]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/uksi/2001/995/schedule/paragraph/3) in force at 1.12.2001, see [reg. 2](https://www.legislation.gov.uk/uksi/2001/995/regulation/2)
+
+[^M_F_e0d0ea9c-89f3-4b46-db3a-09c55b042d43]: Textual amendment: [Sch. para. 3(1)](https://www.legislation.gov.uk/uksi/2001/995/schedule/paragraph/3/1) substituted (29.6.2017 for specified purposes, 3.7.2017 for specified purposes, 31.7.2017 for specified purposes, 3.1.2018 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Markets in Financial Instruments) Regulations 2017 (S.I. 2017/701)](https://www.legislation.gov.uk/uksi/2017/701), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/3)[(4)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/4)[(6)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/6), [Sch. 3 para. 1(6)(a)](https://www.legislation.gov.uk/uksi/2017/701/schedule/3/paragraph/1/6/a) (with [reg. 7](https://www.legislation.gov.uk/uksi/2017/701/regulation/7))
+
+[^key-4d655bbbd826bee53fe25564899ae51f]: Textual amendment: Word in Sch. para. 3(2)(b) inserted (1.11.2007) by [The Financial Services and Markets Act 2000 (Recognition Requirements for Investment Exchanges and Clearing Houses) (Amendment) Regulations 2006 (S.I. 2006/3386)](https://www.legislation.gov.uk/uksi/2006/3386), [regs. 1](https://www.legislation.gov.uk/uksi/2006/3386/regulation/1), [6(a)](https://www.legislation.gov.uk/uksi/2006/3386/regulation/6/a)
+
+[^key-e7c9ac7fe8996bb046f4f4ebc6ca12d7]: Textual amendment: Sch. para. 3(2)(ca) inserted (1.11.2007) by [The Financial Services and Markets Act 2000 (Recognition Requirements for Investment Exchanges and Clearing Houses) (Amendment) Regulations 2006 (S.I. 2006/3386)](https://www.legislation.gov.uk/uksi/2006/3386), [regs. 1](https://www.legislation.gov.uk/uksi/2006/3386/regulation/1), [6(b)](https://www.legislation.gov.uk/uksi/2006/3386/regulation/6/b)
+
+[^key-8cb02db02a0de08c08f458ff044cebe7]: Textual amendment: Word in [Sch. para. 3(2)(d)](https://www.legislation.gov.uk/uksi/2001/995/schedule/paragraph/3/2/d) omitted (29.6.2017 for specified purposes, 3.7.2017 for specified purposes, 31.7.2017 for specified purposes, 3.1.2018 in so far as not already in force) by virtue of [The Financial Services and Markets Act 2000 (Markets in Financial Instruments) Regulations 2017 (S.I. 2017/701)](https://www.legislation.gov.uk/uksi/2017/701), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/3)[(4)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/4)[(6)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/6), [Sch. 3 para. 1(6)(b)](https://www.legislation.gov.uk/uksi/2017/701/schedule/3/paragraph/1/6/b) (with [reg. 7](https://www.legislation.gov.uk/uksi/2017/701/regulation/7))
+
+[^key-47c2ec49c83fedd8f422f36b313af5ad]: Textual amendment: [Sch. para. 3(2)(f)-(o)](https://www.legislation.gov.uk/uksi/2001/995/schedule/paragraph/3/2/f) inserted (29.6.2017 for specified purposes, 3.7.2017 for specified purposes, 31.7.2017 for specified purposes, 3.1.2018 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Markets in Financial Instruments) Regulations 2017 (S.I. 2017/701)](https://www.legislation.gov.uk/uksi/2017/701), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/3)[(4)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/4)[(6)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/6), [Sch. 3 para. 1(6)(c)](https://www.legislation.gov.uk/uksi/2017/701/schedule/3/paragraph/1/6/c) (with [reg. 7](https://www.legislation.gov.uk/uksi/2017/701/regulation/7))
+
+[^M_F_0750fccb-0dee-43aa-a5a1-5a82566f362d]: Textual amendment: Sch. paras. 3A-3H and cross-headings inserted (29.6.2017 for specified purposes, 3.7.2017 for specified purposes, 31.7.2017 for specified purposes, 3.1.2018 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Markets in Financial Instruments) Regulations 2017 (S.I. 2017/701)](https://www.legislation.gov.uk/uksi/2017/701), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/3)[(4)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/4)[(6)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/6), [Sch. 3 para. 1(6)(c)](https://www.legislation.gov.uk/uksi/2017/701/schedule/3/paragraph/1/6/c) (with [reg. 7](https://www.legislation.gov.uk/uksi/2017/701/regulation/7))
+
+[^key-7556688228f146fa8e888e8d77ac8db2]: Textual amendment: Words in [Sch. para. 3B(4)](https://www.legislation.gov.uk/uksi/2001/995/schedule/paragraph/3B/4) substituted (31.12.2020) by [The Investment Exchanges, Clearing Houses and Central Securities Depositories (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/662)](https://www.legislation.gov.uk/uksi/2019/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/662/regulation/1), [20(3)](https://www.legislation.gov.uk/uksi/2019/662/regulation/20) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11) (as amended by [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 40(f)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/40))); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-9e00b363fefb917a5a7078d7f16f8189]: Textual amendment: [Sch. para. 3C(a)(i)](https://www.legislation.gov.uk/uksi/2001/995/schedule/paragraph/3C/a/i) substituted (31.12.2020) by [The Investment Exchanges, Clearing Houses and Central Securities Depositories (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/662)](https://www.legislation.gov.uk/uksi/2019/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/662/regulation/1), [20(4)(a)(i)](https://www.legislation.gov.uk/uksi/2019/662/regulation/20) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11) (as amended by [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 40(f)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/40))); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-f6782b87329942251846de18634fecb0]: Textual amendment: [Sch. para. 3C(a)(ii)](https://www.legislation.gov.uk/uksi/2001/995/schedule/paragraph/3C/a/ii) substituted (31.12.2020) by [The Investment Exchanges, Clearing Houses and Central Securities Depositories (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/662)](https://www.legislation.gov.uk/uksi/2019/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/662/regulation/1), [20(4)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/662/regulation/20) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11) (as amended by [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 40(f)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/40))); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-41d1cf0fa79f4f3775f9fe14f8a08644]: Textual amendment: [Sch. para. 3C(a)(iii)](https://www.legislation.gov.uk/uksi/2001/995/schedule/paragraph/3C/a/iii) substituted (31.12.2020) by [The Investment Exchanges, Clearing Houses and Central Securities Depositories (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/662)](https://www.legislation.gov.uk/uksi/2019/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/662/regulation/1), [20(4)(a)(iii)](https://www.legislation.gov.uk/uksi/2019/662/regulation/20) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11) (as amended by [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 40(f)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/40))); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-1783faa760d045013478b00e35d208d6]: Textual amendment: Words in [Sch. para. 3C(a)(iv)](https://www.legislation.gov.uk/uksi/2001/995/schedule/paragraph/3C/a/iv) omitted (31.12.2020) by virtue of [The Investment Exchanges, Clearing Houses and Central Securities Depositories (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/662)](https://www.legislation.gov.uk/uksi/2019/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/662/regulation/1), [20(4)(a)(iv)](https://www.legislation.gov.uk/uksi/2019/662/regulation/20) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11) (as amended by [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 40(f)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/40))); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-a6ef387977fa1e0ba8f5813172c6709c]: Textual amendment: Words in [Sch. para. 3C(c)](https://www.legislation.gov.uk/uksi/2001/995/schedule/paragraph/3C/c) inserted (31.12.2020) by [The Investment Exchanges, Clearing Houses and Central Securities Depositories (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/662)](https://www.legislation.gov.uk/uksi/2019/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/662/regulation/1), [20(4)(b)(i)](https://www.legislation.gov.uk/uksi/2019/662/regulation/20) (as amended by [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 37(g)(i)](https://www.legislation.gov.uk/uksi/2020/1301/schedule) and with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11) (as amended by [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 40(f)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/40))); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-b2c2d5de1284a4d8b8e290668d7925c8]: Textual amendment: Words in [Sch. para. 3C(c)](https://www.legislation.gov.uk/uksi/2001/995/schedule/paragraph/3C/c) inserted (31.12.2020) by [The Investment Exchanges, Clearing Houses and Central Securities Depositories (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/662)](https://www.legislation.gov.uk/uksi/2019/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/662/regulation/1), [20(4)(b)(ii)](https://www.legislation.gov.uk/uksi/2019/662/regulation/20) (as amended by [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 37(g)(i)](https://www.legislation.gov.uk/uksi/2020/1301/schedule) and with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11) (as amended by [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 40(f)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/40))); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-15d39c694eaee83b0af3cfab0d6938dd]: Textual amendment: Words in [Sch. para. 3G(1)](https://www.legislation.gov.uk/uksi/2001/995/schedule/paragraph/3G/1) substituted (26.3.2020) by virtue of [The Financial Services and Markets Act 2000 (Central Counterparties, Investment Exchanges, Prospectus and Benchmarks) (Amendment) Regulations 2020 (S.I. 2020/117)](https://www.legislation.gov.uk/uksi/2020/117), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/117/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/2020/117/regulation/4)
+
+[^key-77a2b72e380d2cb9c8b42734f24c3558]: Textual amendment: [Sch. para. 3G(1)(b)](https://www.legislation.gov.uk/uksi/2001/995/schedule/paragraph/3G/1/b) substituted (31.12.2020) by [The Investment Exchanges, Clearing Houses and Central Securities Depositories (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/662)](https://www.legislation.gov.uk/uksi/2019/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/662/regulation/1), [20(5)(a)](https://www.legislation.gov.uk/uksi/2019/662/regulation/20) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11) (as amended by [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 40(f)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/40))); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-548f4a7d0965bb401104a51b9b766dfb]: Textual amendment: [Sch. para. 3G(1A)](https://www.legislation.gov.uk/uksi/2001/995/schedule/paragraph/3G/1A) inserted (26.3.2020) by virtue of [The Financial Services and Markets Act 2000 (Central Counterparties, Investment Exchanges, Prospectus and Benchmarks) (Amendment) Regulations 2020 (S.I. 2020/117)](https://www.legislation.gov.uk/uksi/2020/117), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/117/regulation/1), [4(3)](https://www.legislation.gov.uk/uksi/2020/117/regulation/4)
+
+[^key-e5dfb6b0d245a5b759928ca0de608cec]: Textual amendment: [Sch. para. 3G(3)](https://www.legislation.gov.uk/uksi/2001/995/schedule/paragraph/3G/3) substituted (31.12.2020) by [The Investment Exchanges, Clearing Houses and Central Securities Depositories (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/662)](https://www.legislation.gov.uk/uksi/2019/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/662/regulation/1), [20(5)(b)](https://www.legislation.gov.uk/uksi/2019/662/regulation/20) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11) (as amended by [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 40(f)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/40))); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-1a15bf0cb60c7b7ef77e7399854674d7]: Textual amendment: Words in [Sch. para. 3H](https://www.legislation.gov.uk/uksi/2001/995/schedule/paragraph/3H) substituted (31.12.2020) by [The Investment Exchanges, Clearing Houses and Central Securities Depositories (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/662)](https://www.legislation.gov.uk/uksi/2019/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/662/regulation/1), [20(6)](https://www.legislation.gov.uk/uksi/2019/662/regulation/20) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11) (as amended by [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 40(f)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/40))); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-7b6a62b5c9022eb0daebfbbc6aecdc95]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/uksi/2001/995/schedule/paragraph/4) in force at 1.12.2001, see [reg. 2](https://www.legislation.gov.uk/uksi/2001/995/regulation/2)
+
+[^key-70884e832e54a77e4e43226b6a82d895]: Textual amendment: Words in Sch. para. 4(2)(a) inserted (1.11.2007) by [The Financial Services and Markets Act 2000 (Recognition Requirements for Investment Exchanges and Clearing Houses) (Amendment) Regulations 2006 (S.I. 2006/3386)](https://www.legislation.gov.uk/uksi/2006/3386), [regs. 1](https://www.legislation.gov.uk/uksi/2006/3386/regulation/1), [7(a)](https://www.legislation.gov.uk/uksi/2006/3386/regulation/7/a)
+
+[^key-26db4c85d7c0c5768b74ac6d286dc388]: Textual amendment: Sch. para. 4(2)(aa) inserted (1.11.2007) by [The Financial Services and Markets Act 2000 (Recognition Requirements for Investment Exchanges and Clearing Houses) (Amendment) Regulations 2006 (S.I. 2006/3386)](https://www.legislation.gov.uk/uksi/2006/3386), [regs. 1](https://www.legislation.gov.uk/uksi/2006/3386/regulation/1), [7(b)](https://www.legislation.gov.uk/uksi/2006/3386/regulation/7/b)
+
+[^key-34c28f32f0bba982c0f025ddf20129a0]: Textual amendment: Words in [Sch. para. 4(2)(aa)](https://www.legislation.gov.uk/uksi/2001/995/schedule/paragraph/4/2/aa) omitted (29.6.2017 for specified purposes, 3.7.2017 for specified purposes, 31.7.2017 for specified purposes, 3.1.2018 in so far as not already in force) by virtue of [The Financial Services and Markets Act 2000 (Markets in Financial Instruments) Regulations 2017 (S.I. 2017/701)](https://www.legislation.gov.uk/uksi/2017/701), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/3)[(4)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/4)[(6)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/6), [Sch. 3 para. 1(7)(a)](https://www.legislation.gov.uk/uksi/2017/701/schedule/3/paragraph/1/7/a) (with [reg. 7](https://www.legislation.gov.uk/uksi/2017/701/regulation/7))
+
+[^key-e4de85760173bc4b4f469953ed6682c7]: Textual amendment: Sch. para. 4(2)(b) revoked (1.11.2007) by [The Financial Services and Markets Act 2000 (Recognition Requirements for Investment Exchanges and Clearing Houses) (Amendment) Regulations 2006 (S.I. 2006/3386)](https://www.legislation.gov.uk/uksi/2006/3386), [regs. 1](https://www.legislation.gov.uk/uksi/2006/3386/regulation/1), [7(c)](https://www.legislation.gov.uk/uksi/2006/3386/regulation/7/c)
+
+[^key-aa5b5df9e863275191df8e505f395e72]: Textual amendment: Words in Sch. para. 4(2)(d) inserted (1.11.2007) by [The Financial Services and Markets Act 2000 (Recognition Requirements for Investment Exchanges and Clearing Houses) (Amendment) Regulations 2006 (S.I. 2006/3386)](https://www.legislation.gov.uk/uksi/2006/3386), [regs. 1](https://www.legislation.gov.uk/uksi/2006/3386/regulation/1), [7(d)](https://www.legislation.gov.uk/uksi/2006/3386/regulation/7/d)
+
+[^key-ae83606f1ba7bbe97c79f26a4b7d1001]: Textual amendment: Sch. para. 4(2)(ea) inserted (1.11.2007) by [The Financial Services and Markets Act 2000 (Recognition Requirements for Investment Exchanges and Clearing Houses) (Amendment) Regulations 2006 (S.I. 2006/3386)](https://www.legislation.gov.uk/uksi/2006/3386), [regs. 1](https://www.legislation.gov.uk/uksi/2006/3386/regulation/1), [7(e)](https://www.legislation.gov.uk/uksi/2006/3386/regulation/7/e)
+
+[^key-9c4c16dbd5825c2055119b87ed26f367]: Textual amendment: Words in [Sch. para. 4(2)(ea)](https://www.legislation.gov.uk/uksi/2001/995/schedule/paragraph/4/2/ea) substituted (29.6.2017 for specified purposes, 3.7.2017 for specified purposes, 31.7.2017 for specified purposes, 3.1.2018 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Markets in Financial Instruments) Regulations 2017 (S.I. 2017/701)](https://www.legislation.gov.uk/uksi/2017/701), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/3)[(4)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/4)[(6)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/6), [Sch. 3 para. 1(7)(b)](https://www.legislation.gov.uk/uksi/2017/701/schedule/3/paragraph/1/7/b) (with [reg. 7](https://www.legislation.gov.uk/uksi/2017/701/regulation/7))
+
+[^key-e0bf1587ba18ce1f60f313d36f986a34]: Textual amendment: Words in [Sch. para. 4(2)(f)](https://www.legislation.gov.uk/uksi/2001/995/schedule/paragraph/4/2/f) omitted (29.6.2017 for specified purposes, 3.7.2017 for specified purposes, 31.7.2017 for specified purposes, 3.1.2018 in so far as not already in force) by virtue of [The Financial Services and Markets Act 2000 (Markets in Financial Instruments) Regulations 2017 (S.I. 2017/701)](https://www.legislation.gov.uk/uksi/2017/701), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/3)[(4)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/4)[(6)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/6), [Sch. 3 para. 1(7)(c)](https://www.legislation.gov.uk/uksi/2017/701/schedule/3/paragraph/1/7/c) (with [reg. 7](https://www.legislation.gov.uk/uksi/2017/701/regulation/7))
+
+[^key-2007bfca2b86a98b49e6eedcef0ed694]: Textual amendment: Word in [Sch. para. 4](https://www.legislation.gov.uk/uksi/2001/995/schedule/paragraph/4) omitted (29.6.2017 for specified purposes, 3.7.2017 for specified purposes, 31.7.2017 for specified purposes, 3.1.2018 in so far as not already in force) by virtue of [The Financial Services and Markets Act 2000 (Markets in Financial Instruments) Regulations 2017 (S.I. 2017/701)](https://www.legislation.gov.uk/uksi/2017/701), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/3)[(4)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/4)[(6)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/6), [Sch. 3 para. 1(7)(d)](https://www.legislation.gov.uk/uksi/2017/701/schedule/3/paragraph/1/7/d) (with [reg. 7](https://www.legislation.gov.uk/uksi/2017/701/regulation/7))
+
+[^key-8b923d24f4153220fb628601ed2c8704]: Textual amendment: [Sch. para. 4(2)(fa)](https://www.legislation.gov.uk/uksi/2001/995/schedule/paragraph/4/2/fa) inserted (29.6.2017 for specified purposes, 3.7.2017 for specified purposes, 31.7.2017 for specified purposes, 3.1.2018 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Markets in Financial Instruments) Regulations 2017 (S.I. 2017/701)](https://www.legislation.gov.uk/uksi/2017/701), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/3)[(4)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/4)[(6)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/6), [Sch. 3 para. 1(7)(d)](https://www.legislation.gov.uk/uksi/2017/701/schedule/3/paragraph/1/7/d) (with [reg. 7](https://www.legislation.gov.uk/uksi/2017/701/regulation/7))
+
+[^key-b0d905245d34e43ae65817a24a50c6cd]: Textual amendment: Sch. paras. 4A, 4B and cross-headings inserted (1.11.2007) by [The Financial Services and Markets Act 2000 (Recognition Requirements for Investment Exchanges and Clearing Houses) (Amendment) Regulations 2006 (S.I. 2006/3386)](https://www.legislation.gov.uk/uksi/2006/3386), [regs. 1](https://www.legislation.gov.uk/uksi/2006/3386/regulation/1), [8](https://www.legislation.gov.uk/uksi/2006/3386/regulation/8)
+
+[^key-c0815eb7ce6ad6598d348968ea7d0ee9]: Textual amendment: [Sch. para. 4A](https://www.legislation.gov.uk/uksi/2001/995/schedule/paragraph/4A) omitted (29.6.2017 for specified purposes, 3.7.2017 for specified purposes, 31.7.2017 for specified purposes, 3.1.2018 in so far as not already in force) by virtue of [The Financial Services and Markets Act 2000 (Markets in Financial Instruments) Regulations 2017 (S.I. 2017/701)](https://www.legislation.gov.uk/uksi/2017/701), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/3)[(4)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/4)[(6)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/6), [Sch. 3 para. 1(8)](https://www.legislation.gov.uk/uksi/2017/701/schedule/3/paragraph/1/8) (with [reg. 7](https://www.legislation.gov.uk/uksi/2017/701/regulation/7))
+
+[^key-134da8f46818f91f49dc21e9488a9cd4]: Textual amendment: [Sch. para. 4B](https://www.legislation.gov.uk/uksi/2001/995/schedule/paragraph/4B) omitted (29.6.2017 for specified purposes, 3.7.2017 for specified purposes, 31.7.2017 for specified purposes, 3.1.2018 in so far as not already in force) by virtue of [The Financial Services and Markets Act 2000 (Markets in Financial Instruments) Regulations 2017 (S.I. 2017/701)](https://www.legislation.gov.uk/uksi/2017/701), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/3)[(4)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/4)[(6)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/6), [Sch. 3 para. 1(8)](https://www.legislation.gov.uk/uksi/2017/701/schedule/3/paragraph/1/8) (with [reg. 7](https://www.legislation.gov.uk/uksi/2017/701/regulation/7))
+
+[^key-158e949f2bccb7e299b8fd57a55c3832]: Textual amendment: [Sch. para. 4C](https://www.legislation.gov.uk/uksi/2001/995/schedule/paragraph/4C) omitted (26.7.2021) by virtue of [The Markets in Financial Instruments (Capital Markets) (Amendment) Regulations 2021 (S.I. 2021/774)](https://www.legislation.gov.uk/uksi/2021/774), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/774/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2021/774/regulation/2/2)
+
+[^key-0f8523b47563da2013bc0584dbcb798e]: Textual amendment: Sch. para. 5 revoked (1.7.2005) by [The Financial Services and Markets Act 2000 (Market Abuse) Regulations 2005 (revoked) 2005 (S.I. 2005/381)](https://www.legislation.gov.uk/uksi/2005/381), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2005/381/regulation/1/2), [11](https://www.legislation.gov.uk/uksi/2005/381/regulation/11)
+
+[^key-621f005ffb0fa04ebdf3742c1c3c3dde]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/uksi/2001/995/schedule/paragraph/6) in force at 1.12.2001, see [reg. 2](https://www.legislation.gov.uk/uksi/2001/995/regulation/2)
+
+[^key-80784eac126edeb33ba45ded869bf294]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/uksi/2001/995/schedule/paragraph/7) in force at 1.12.2001, see [reg. 2](https://www.legislation.gov.uk/uksi/2001/995/regulation/2)
+
+[^key-c8b3bc6c9d84a791a27a2c248af406f1]: Textual amendment: Sch. paras. 7A-7E and cross-headings inserted (1.11.2007) by [The Financial Services and Markets Act 2000 (Recognition Requirements for Investment Exchanges and Clearing Houses) (Amendment) Regulations 2006 (S.I. 2006/3386)](https://www.legislation.gov.uk/uksi/2006/3386), [regs. 1](https://www.legislation.gov.uk/uksi/2006/3386/regulation/1), [9](https://www.legislation.gov.uk/uksi/2006/3386/regulation/9)
+
+[^key-96cd66863de825a66981e3d22b3f4c0f]: Textual amendment: Words in [Sch. para. 7A(1)](https://www.legislation.gov.uk/uksi/2001/995/schedule/paragraph/7A/1) substituted (29.6.2017 for specified purposes, 3.7.2017 for specified purposes, 31.7.2017 for specified purposes, 3.1.2018 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Markets in Financial Instruments) Regulations 2017 (S.I. 2017/701)](https://www.legislation.gov.uk/uksi/2017/701), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/3)[(4)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/4)[(6)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/6), [Sch. 3 para. 1(10)(a)](https://www.legislation.gov.uk/uksi/2017/701/schedule/3/paragraph/1/10/a) (with [reg. 7](https://www.legislation.gov.uk/uksi/2017/701/regulation/7))
+
+[^key-17db6bf7e51599421b45a719914a21e5]: Textual amendment: [Sch. para. 7A(2)-(11)](https://www.legislation.gov.uk/uksi/2001/995/schedule/paragraph/7A/2) omitted (29.6.2017 for specified purposes, 3.7.2017 for specified purposes, 31.7.2017 for specified purposes, 3.1.2018 in so far as not already in force) by virtue of [The Financial Services and Markets Act 2000 (Markets in Financial Instruments) Regulations 2017 (S.I. 2017/701)](https://www.legislation.gov.uk/uksi/2017/701), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/3)[(4)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/4)[(6)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/6), [Sch. 3 para. 1(10)(b)](https://www.legislation.gov.uk/uksi/2017/701/schedule/3/paragraph/1/10/b) (with [reg. 7](https://www.legislation.gov.uk/uksi/2017/701/regulation/7))
+
+[^key-e7a41e867215b9c39fd670c4c5230647]: Textual amendment: Words in [Sch. para. 7B(2)(b)](https://www.legislation.gov.uk/uksi/2001/995/schedule/paragraph/7B/2/b) substituted (29.6.2017 for specified purposes, 3.7.2017 for specified purposes, 31.7.2017 for specified purposes, 3.1.2018 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Markets in Financial Instruments) Regulations 2017 (S.I. 2017/701)](https://www.legislation.gov.uk/uksi/2017/701), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/3)[(4)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/4)[(6)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/6), [Sch. 3 para. 1(11)(a)](https://www.legislation.gov.uk/uksi/2017/701/schedule/3/paragraph/1/11/a) (with [reg. 7](https://www.legislation.gov.uk/uksi/2017/701/regulation/7))
+
+[^key-8da3c474ead0f22f961989249465e244]: Textual amendment: Words in [Sch. para. 7B(2)](https://www.legislation.gov.uk/uksi/2001/995/schedule/paragraph/7B/2) substituted (31.12.2020) by [The Investment Exchanges, Clearing Houses and Central Securities Depositories (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/662)](https://www.legislation.gov.uk/uksi/2019/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/662/regulation/1), [20(7)(a)](https://www.legislation.gov.uk/uksi/2019/662/regulation/20) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11) (as amended by [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 40(f)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/40))); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-aaa9f94252a5584a160b846a329e26cb]: Textual amendment: Words in [Sch. para. 7B(2)(c)](https://www.legislation.gov.uk/uksi/2001/995/schedule/paragraph/7B/2/c) substituted (29.6.2017 for specified purposes, 3.7.2017 for specified purposes, 31.7.2017 for specified purposes, 3.1.2018 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Markets in Financial Instruments) Regulations 2017 (S.I. 2017/701)](https://www.legislation.gov.uk/uksi/2017/701), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/3)[(4)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/4)[(6)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/6), [Sch. 3 para. 1(11)(b)](https://www.legislation.gov.uk/uksi/2017/701/schedule/3/paragraph/1/11/b) (with [reg. 7](https://www.legislation.gov.uk/uksi/2017/701/regulation/7))
+
+[^key-98108777e5131ace42a357da4c9b6e73]: Textual amendment: Words in [Sch. para. 7B(2)(d)](https://www.legislation.gov.uk/uksi/2001/995/schedule/paragraph/7B/2/d) substituted (29.6.2017 for specified purposes, 3.7.2017 for specified purposes, 31.7.2017 for specified purposes, 3.1.2018 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Markets in Financial Instruments) Regulations 2017 (S.I. 2017/701)](https://www.legislation.gov.uk/uksi/2017/701), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/3)[(4)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/4)[(6)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/6), [Sch. 3 para. 1(11)(b)](https://www.legislation.gov.uk/uksi/2017/701/schedule/3/paragraph/1/11/b) (with [reg. 7](https://www.legislation.gov.uk/uksi/2017/701/regulation/7))
+
+[^key-4f3963f2f6ea8071f9390b2d0bf4e893]: Textual amendment: Words in [Sch. para. 7B(2)(e)](https://www.legislation.gov.uk/uksi/2001/995/schedule/paragraph/7B/2/e) substituted (29.6.2017 for specified purposes, 3.7.2017 for specified purposes, 31.7.2017 for specified purposes, 3.1.2018 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Markets in Financial Instruments) Regulations 2017 (S.I. 2017/701)](https://www.legislation.gov.uk/uksi/2017/701), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/3)[(4)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/4)[(6)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/6), [Sch. 3 para. 1(11)(b)](https://www.legislation.gov.uk/uksi/2017/701/schedule/3/paragraph/1/11/b) (with [reg. 7](https://www.legislation.gov.uk/uksi/2017/701/regulation/7))
+
+[^key-7066af7f827be8305fa84938955e53a2]: Textual amendment: [Sch. para. 7B(3)](https://www.legislation.gov.uk/uksi/2001/995/schedule/paragraph/7B/3) omitted (29.6.2017 for specified purposes, 3.7.2017 for specified purposes, 31.7.2017 for specified purposes, 3.1.2018 in so far as not already in force) by virtue of [The Financial Services and Markets Act 2000 (Markets in Financial Instruments) Regulations 2017 (S.I. 2017/701)](https://www.legislation.gov.uk/uksi/2017/701), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/3)[(4)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/4)[(6)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/6), [Sch. 3 para. 1(11)(c)](https://www.legislation.gov.uk/uksi/2017/701/schedule/3/paragraph/1/11/c) (with [reg. 7](https://www.legislation.gov.uk/uksi/2017/701/regulation/7))
+
+[^key-16ca287cf36fb1b69662391fcf279ebf]: Textual amendment: [Sch. para. 7B(4)](https://www.legislation.gov.uk/uksi/2001/995/schedule/paragraph/7B/4) omitted (31.12.2020) by virtue of [The Investment Exchanges, Clearing Houses and Central Securities Depositories (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/662)](https://www.legislation.gov.uk/uksi/2019/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/662/regulation/1), [20(7)(b)](https://www.legislation.gov.uk/uksi/2019/662/regulation/20) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11) (as amended by [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 40(f)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/40))); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^M_F_ff67ed3d-8860-44ab-da3a-e8eecd0bf44c]: Textual amendment: Sch. paras. 7BA, 7BB and cross-headings inserted (29.6.2017 for specified purposes, 3.7.2017 for specified purposes, 31.7.2017 for specified purposes, 3.1.2018 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Markets in Financial Instruments) Regulations 2017 (S.I. 2017/701)](https://www.legislation.gov.uk/uksi/2017/701), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/3)[(4)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/4)[(6)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/6), [Sch. 3 para. 1(12)](https://www.legislation.gov.uk/uksi/2017/701/schedule/3/paragraph/1/12) (with [reg. 7](https://www.legislation.gov.uk/uksi/2017/701/regulation/7))
+
+[^key-3063fd0d242d9f8fbdad7e1c6949960d]: Textual amendment: [Sch. para. 7BA](https://www.legislation.gov.uk/uksi/2001/995/schedule/paragraph/7BA) revoked (6.7.2026) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 2 para. 50(a)](https://www.legislation.gov.uk/ukpga/2023/29/schedule/2/paragraph/50/a) (with [s. 2(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/2/3)); [S.I. 2024/1071](https://www.legislation.gov.uk/uksi/2024/1071), [reg. 9(b)(v)](https://www.legislation.gov.uk/uksi/2024/1071/regulation/9/b/v)
+
+[^key-8d7958938d167195133328c5e6209ddc]: Textual amendment: Words in [Sch. para. 7BB(2)(a)](https://www.legislation.gov.uk/uksi/2001/995/schedule/paragraph/7BB/2/a) substituted (23.10.2025) by [The Markets in Financial Instruments (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/1020)](https://www.legislation.gov.uk/uksi/2025/1020), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1020/regulation/1/2), [11(2)](https://www.legislation.gov.uk/uksi/2025/1020/regulation/11/2) (with [reg. 17](https://www.legislation.gov.uk/uksi/2025/1020/regulation/17)); [S.I. 2025/1078](https://www.legislation.gov.uk/uksi/2025/1078), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2025/1078/regulation/2/b) (with [reg. 11](https://www.legislation.gov.uk/uksi/2025/1078/regulation/11))
+
+[^key-9302cf4439bb0bde284f4471916af0fb]: Textual amendment: Words in [Sch. para. 7BB(4)(a)](https://www.legislation.gov.uk/uksi/2001/995/schedule/paragraph/7BB/4/a) substituted (31.12.2020) by [The Investment Exchanges, Clearing Houses and Central Securities Depositories (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/662)](https://www.legislation.gov.uk/uksi/2019/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/662/regulation/1), [20(8)(b)(i)](https://www.legislation.gov.uk/uksi/2019/662/regulation/20) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11) (as amended by [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 40(f)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/40))); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-cfd16a69f4fb21dcb4e935c6eb1b98f0]: Textual amendment: [Sch. para. 7BB(4)(b)](https://www.legislation.gov.uk/uksi/2001/995/schedule/paragraph/7BB/4/b) substituted (31.12.2020) by [The Investment Exchanges, Clearing Houses and Central Securities Depositories (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/662)](https://www.legislation.gov.uk/uksi/2019/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/662/regulation/1), [20(8)(b)(ii)](https://www.legislation.gov.uk/uksi/2019/662/regulation/20) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11) (as amended by [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 40(f)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/40))); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-4d330ff86dcfe61ec19fcc6544026e57]: Textual amendment: [Sch. para. 7BB(4)(c)](https://www.legislation.gov.uk/uksi/2001/995/schedule/paragraph/7BB/4/c) substituted (31.12.2020) by [The Investment Exchanges, Clearing Houses and Central Securities Depositories (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/662)](https://www.legislation.gov.uk/uksi/2019/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/662/regulation/1), [20(8)(b)(iii)](https://www.legislation.gov.uk/uksi/2019/662/regulation/20) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11) (as amended by [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 40(f)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/40))); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-436419500658feab2996c1a21c5a5e6b]: Textual amendment: Words in [Sch. para. 7BB(5)](https://www.legislation.gov.uk/uksi/2001/995/schedule/paragraph/7BB/5) omitted (31.12.2020) by virtue of [The Investment Exchanges, Clearing Houses and Central Securities Depositories (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/662)](https://www.legislation.gov.uk/uksi/2019/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/662/regulation/1), [20(8)(c)](https://www.legislation.gov.uk/uksi/2019/662/regulation/20) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11) (as amended by [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 40(f)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/40))); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-11a7c38d945a9630cc1709251c81ca10]: Textual amendment: [Sch. para. 7C(3)](https://www.legislation.gov.uk/uksi/2001/995/schedule/paragraph/7C/3) omitted (31.12.2020) by virtue of [The Investment Exchanges, Clearing Houses and Central Securities Depositories (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/662)](https://www.legislation.gov.uk/uksi/2019/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/662/regulation/1), [20(9)](https://www.legislation.gov.uk/uksi/2019/662/regulation/20) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11) (as amended by [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 40(f)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/40))); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-f9284ad5df765bd9e65ad23f08b9694c]: Textual amendment: [Sch. para. 7C(4)](https://www.legislation.gov.uk/uksi/2001/995/schedule/paragraph/7C/4) omitted (3.1.2018) by virtue of [The Financial Services and Markets Act 2000 (Markets in Financial Instruments) (No.2) Regulations 2017 (S.I. 2017/1255)](https://www.legislation.gov.uk/uksi/2017/1255), [regs. 2(b)](https://www.legislation.gov.uk/uksi/2017/1255/regulation/2), [5](https://www.legislation.gov.uk/uksi/2017/1255/regulation/5)
+
+[^key-9bbd00e257e959a17621f1f84ea0d726]: Textual amendment: Sch. para. 7E renumbered as Sch. para. 7E(1) (29.6.2017 for specified purposes, 3.7.2017 for specified purposes, 31.7.2017 for specified purposes, 3.1.2018 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Markets in Financial Instruments) Regulations 2017 (S.I. 2017/701)](https://www.legislation.gov.uk/uksi/2017/701), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/3)[(4)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/4)[(6)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/6), [Sch. 3 para. 1(13)(a)](https://www.legislation.gov.uk/uksi/2017/701/schedule/3/paragraph/1/13/a) (with [reg. 7](https://www.legislation.gov.uk/uksi/2017/701/regulation/7))
+
+[^key-f4bd57d25960bba7c9eddc9edfc5d138]: Textual amendment: Words in [Sch. para. 7E(1)](https://www.legislation.gov.uk/uksi/2001/995/schedule/paragraph/7E/1) substituted (29.6.2017 for specified purposes, 3.7.2017 for specified purposes, 31.7.2017 for specified purposes, 3.1.2018 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Markets in Financial Instruments) Regulations 2017 (S.I. 2017/701)](https://www.legislation.gov.uk/uksi/2017/701), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/3)[(4)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/4)[(6)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/6), [Sch. 3 para. 1(13)(b)](https://www.legislation.gov.uk/uksi/2017/701/schedule/3/paragraph/1/13/b) (with [reg. 7](https://www.legislation.gov.uk/uksi/2017/701/regulation/7))
+
+[^key-67030f7d4e5010517f55617fdf6628d0]: Textual amendment: [Sch. para. 7E(2)-(4)](https://www.legislation.gov.uk/uksi/2001/995/schedule/paragraph/7E/2) inserted (29.6.2017 for specified purposes, 3.7.2017 for specified purposes, 31.7.2017 for specified purposes, 3.1.2018 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Markets in Financial Instruments) Regulations 2017 (S.I. 2017/701)](https://www.legislation.gov.uk/uksi/2017/701), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/3)[(4)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/4)[(6)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/6), [Sch. 3 para. 1(13)(c)](https://www.legislation.gov.uk/uksi/2017/701/schedule/3/paragraph/1/13/c) (with [reg. 7](https://www.legislation.gov.uk/uksi/2017/701/regulation/7))
+
+[^key-c8611035961636aaec04f3b9d9cc56a2]: Textual amendment: [Sch. para. 7F](https://www.legislation.gov.uk/uksi/2001/995/schedule/paragraph/7F) and cross-heading inserted (23.10.2025) by [The Markets in Financial Instruments (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/1020)](https://www.legislation.gov.uk/uksi/2025/1020), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1020/regulation/1/2), [11(3)](https://www.legislation.gov.uk/uksi/2025/1020/regulation/11/3) (with [reg. 17](https://www.legislation.gov.uk/uksi/2025/1020/regulation/17)); [S.I. 2025/1078](https://www.legislation.gov.uk/uksi/2025/1078), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2025/1078/regulation/2/b) (with [reg. 11](https://www.legislation.gov.uk/uksi/2025/1078/regulation/11))
+
+[^key-07d9a3c6b1196738552248030ea84a24]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/uksi/2001/995/schedule/paragraph/8) in force at 1.12.2001, see [reg. 2](https://www.legislation.gov.uk/uksi/2001/995/regulation/2)
+
+[^key-c3d0214451a6b7242789288a165af57e]: Textual amendment: [Sch. para. 8(1)](https://www.legislation.gov.uk/uksi/2001/995/schedule/paragraph/8/1) substituted (1.11.2007) by [The Financial Services and Markets Act 2000 (Recognition Requirements for Investment Exchanges and Clearing Houses) (Amendment) Regulations 2006 (S.I. 2006/3386)](https://www.legislation.gov.uk/uksi/2006/3386), [regs. 1](https://www.legislation.gov.uk/uksi/2006/3386/regulation/1), [10](https://www.legislation.gov.uk/uksi/2006/3386/regulation/10)
+
+[^key-73053690c95b9eeb3f0fad0dfc8928f3]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/uksi/2001/995/schedule/paragraph/9) in force at 1.12.2001, see [reg. 2](https://www.legislation.gov.uk/uksi/2001/995/regulation/2)
+
+[^key-254ad67a434cac096a2e18c16520f032]: Textual amendment: [Sch. para. 9(6)](https://www.legislation.gov.uk/uksi/2001/995/schedule/paragraph/9/6) inserted (29.6.2017 for specified purposes, 3.7.2017 for specified purposes, 31.7.2017 for specified purposes, 3.1.2018 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Markets in Financial Instruments) Regulations 2017 (S.I. 2017/701)](https://www.legislation.gov.uk/uksi/2017/701), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/3)[(4)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/4)[(6)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/6), [Sch. 3 para. 1(14)](https://www.legislation.gov.uk/uksi/2017/701/schedule/3/paragraph/1/14) (with [reg. 7](https://www.legislation.gov.uk/uksi/2017/701/regulation/7))
+
+[^key-96100e8db7ac9bb73af7373023edd03d]: Textual amendment: Word in [Sch. para. 9(6)(c)](https://www.legislation.gov.uk/uksi/2001/995/schedule/paragraph/9/6/c) omitted (31.12.2020) by virtue of [The Investment Exchanges, Clearing Houses and Central Securities Depositories (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/662)](https://www.legislation.gov.uk/uksi/2019/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/662/regulation/1), [20(10)(a)](https://www.legislation.gov.uk/uksi/2019/662/regulation/20) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11) (as amended by [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 40(f)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/40))); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-02a099e8e481c0e76f483f838e46348b]: Textual amendment: Sch. para. 9(6)(d)(e) substituted for Sch. para. 9(6)(d) (31.12.2020) by [The Investment Exchanges, Clearing Houses and Central Securities Depositories (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/662)](https://www.legislation.gov.uk/uksi/2019/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/662/regulation/1), [20(10)(b)](https://www.legislation.gov.uk/uksi/2019/662/regulation/20) (as amended by [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 37(g)(ii)](https://www.legislation.gov.uk/uksi/2020/1301/schedule) and with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11) (as amended by [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 40(f)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/40))); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-50fc52233c7d2cc2940e281a1a987f82]: Textual amendment: Words in [Sch. para. 9(6)(d)](https://www.legislation.gov.uk/uksi/2001/995/schedule/paragraph/9/6/d) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 9 para. 2(a)](https://www.legislation.gov.uk/uksi/2025/82/schedule/9/paragraph/2/a)
+
+[^M_F_49ec1f76-91c4-4c1b-a536-65179752c352]: Textual amendment: Sch. paras. 9ZA-9ZD and cross-headings inserted (29.6.2017 for specified purposes, 3.7.2017 for specified purposes, 31.7.2017 for specified purposes, 3.1.2018 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Markets in Financial Instruments) Regulations 2017 (S.I. 2017/701)](https://www.legislation.gov.uk/uksi/2017/701), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/3)[(4)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/4)[(6)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/6), [Sch. 3 para. 1(15)](https://www.legislation.gov.uk/uksi/2017/701/schedule/3/paragraph/1/15) (with [reg. 7](https://www.legislation.gov.uk/uksi/2017/701/regulation/7))
+
+[^key-94c7fd194db31ccc4c5affe5ff90e55f]: Textual amendment: Words in [Sch. para. 9ZB(6)](https://www.legislation.gov.uk/uksi/2001/995/schedule/paragraph/9ZB/6) substituted (31.12.2020) by [The Investment Exchanges, Clearing Houses and Central Securities Depositories (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/662)](https://www.legislation.gov.uk/uksi/2019/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/662/regulation/1), [20(11)(a)](https://www.legislation.gov.uk/uksi/2019/662/regulation/20) (as amended by [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 37(g)(iii)](https://www.legislation.gov.uk/uksi/2020/1301/schedule) and with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11) (as amended by [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 40(f)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/40))); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-6b3be4c45b83e59ee9d432b0b75c7c3f]: Textual amendment: Words in [Sch. para. 9ZB(6)](https://www.legislation.gov.uk/uksi/2001/995/schedule/paragraph/9ZB/6) omitted (19.1.2026) by virtue of The Public Offers and Admissions to [Trading (Amendment and Consequential and Transitional Provisions) Regulations 2025 (S.I. 2025/1076)](https://www.legislation.gov.uk/uksi/2025/1076), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/1076/regulation/1/3), [Sch. para. 7(a)(i)](https://www.legislation.gov.uk/uksi/2025/1076/schedule/paragraph/7/a/i); [S.I. 2025/1078](https://www.legislation.gov.uk/uksi/2025/1078), [reg. 5(b)](https://www.legislation.gov.uk/uksi/2025/1078/regulation/5/b)
+
+[^key-cde9e90d032a8903e21e540fa8fc12de]: Textual amendment: Words in [Sch. para. 9ZB(6)](https://www.legislation.gov.uk/uksi/2001/995/schedule/paragraph/9ZB/6) omitted (19.1.2026) by virtue of The Public Offers and Admissions to [Trading (Amendment and Consequential and Transitional Provisions) Regulations 2025 (S.I. 2025/1076)](https://www.legislation.gov.uk/uksi/2025/1076), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/1076/regulation/1/3), [Sch. para. 7(a)(ii)](https://www.legislation.gov.uk/uksi/2025/1076/schedule/paragraph/7/a/ii); [S.I. 2025/1078](https://www.legislation.gov.uk/uksi/2025/1078), [reg. 5(b)](https://www.legislation.gov.uk/uksi/2025/1078/regulation/5/b)
+
+[^key-4a43a4ab12a8dde49dbf22bfbd0f0863]: Textual amendment: Words in [Sch. para. 9ZB(6)](https://www.legislation.gov.uk/uksi/2001/995/schedule/paragraph/9ZB/6) omitted (19.1.2026) by virtue of The Public Offers and Admissions to [Trading (Amendment and Consequential and Transitional Provisions) Regulations 2025 (S.I. 2025/1076)](https://www.legislation.gov.uk/uksi/2025/1076), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/1076/regulation/1/3), [Sch. para. 7(a)(iii)](https://www.legislation.gov.uk/uksi/2025/1076/schedule/paragraph/7/a/iii); [S.I. 2025/1078](https://www.legislation.gov.uk/uksi/2025/1078), [reg. 5(b)](https://www.legislation.gov.uk/uksi/2025/1078/regulation/5/b)
+
+[^key-2e872107417adf0b7e4c9c58b42a2fb3]: Textual amendment: Words in [Sch. para. 9ZB(6)](https://www.legislation.gov.uk/uksi/2001/995/schedule/paragraph/9ZB/6) inserted (19.1.2026) by The Public Offers and Admissions to [Trading (Amendment and Consequential and Transitional Provisions) Regulations 2025 (S.I. 2025/1076)](https://www.legislation.gov.uk/uksi/2025/1076), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/1076/regulation/1/3), [Sch. para. 7(b)](https://www.legislation.gov.uk/uksi/2025/1076/schedule/paragraph/7/b); [S.I. 2025/1078](https://www.legislation.gov.uk/uksi/2025/1078), [reg. 5(b)](https://www.legislation.gov.uk/uksi/2025/1078/regulation/5/b)
+
+[^key-67b2e94722336c9a1d93c9eb703e2867]: Textual amendment: Word in [Sch. para. 9ZB(6)](https://www.legislation.gov.uk/uksi/2001/995/schedule/paragraph/9ZB/6) omitted (19.1.2026) by virtue of The Public Offers and Admissions to [Trading (Amendment and Consequential and Transitional Provisions) Regulations 2025 (S.I. 2025/1076)](https://www.legislation.gov.uk/uksi/2025/1076), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/1076/regulation/1/3), [Sch. para. 7(c)](https://www.legislation.gov.uk/uksi/2025/1076/schedule/paragraph/7/c); [S.I. 2025/1078](https://www.legislation.gov.uk/uksi/2025/1078), [reg. 5(b)](https://www.legislation.gov.uk/uksi/2025/1078/regulation/5/b)
+
+[^key-319aed77621c5f131e23206827be0842]: Textual amendment: Words in [Sch. para. 9ZB(6)](https://www.legislation.gov.uk/uksi/2001/995/schedule/paragraph/9ZB/6) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 9 para. 2(b)](https://www.legislation.gov.uk/uksi/2025/82/schedule/9/paragraph/2/b)
+
+[^key-5f817c232f5500ce5f9f7ddbf5a7d86f]: Textual amendment: Words in [Sch. para. 9ZB(6)](https://www.legislation.gov.uk/uksi/2001/995/schedule/paragraph/9ZB/6) omitted (31.12.2020) by virtue of [The Investment Exchanges, Clearing Houses and Central Securities Depositories (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/662)](https://www.legislation.gov.uk/uksi/2019/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/662/regulation/1), [20(11)(b)](https://www.legislation.gov.uk/uksi/2019/662/regulation/20) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11) (as amended by [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 40(f)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/40))); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-c203f4abb90a2a201a93a75d3fb3b4fb]: Textual amendment: [Sch. para. 9ZC(a)](https://www.legislation.gov.uk/uksi/2001/995/schedule/paragraph/9ZC/a) substituted (31.12.2020) by [The Investment Exchanges, Clearing Houses and Central Securities Depositories (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/662)](https://www.legislation.gov.uk/uksi/2019/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/662/regulation/1), [20(12)(a)](https://www.legislation.gov.uk/uksi/2019/662/regulation/20) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11) (as amended by [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 40(f)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/40))); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-37a3b3788aca85e80ab2029e72290f41]: Textual amendment: [Sch. para. 9ZC(b)](https://www.legislation.gov.uk/uksi/2001/995/schedule/paragraph/9ZC/b) substituted (31.12.2020) by [The Investment Exchanges, Clearing Houses and Central Securities Depositories (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/662)](https://www.legislation.gov.uk/uksi/2019/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/662/regulation/1), [20(12)(b)](https://www.legislation.gov.uk/uksi/2019/662/regulation/20) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11) (as amended by [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 40(f)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/40))); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-03d7b91c8067d1f061aba5f81591ae93]: Textual amendment: Sch. para. 9A and cross-heading inserted (1.11.2007) by [The Financial Services and Markets Act 2000 (Recognition Requirements for Investment Exchanges and Clearing Houses) (Amendment) Regulations 2006 (S.I. 2006/3386)](https://www.legislation.gov.uk/uksi/2006/3386), [regs. 1](https://www.legislation.gov.uk/uksi/2006/3386/regulation/1), [11](https://www.legislation.gov.uk/uksi/2006/3386/regulation/11)
+
+[^M_F_b2b4d22e-54ea-459f-f198-83dc6f2b138d]: Textual amendment: Words in [Sch. para. 9A](https://www.legislation.gov.uk/uksi/2001/995/schedule/paragraph/9A) heading inserted (29.6.2017 for specified purposes, 3.7.2017 for specified purposes, 31.7.2017 for specified purposes, 3.1.2018 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Markets in Financial Instruments) Regulations 2017 (S.I. 2017/701)](https://www.legislation.gov.uk/uksi/2017/701), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/3)[(4)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/4)[(6)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/6), [Sch. 3 para. 1(16)(a)](https://www.legislation.gov.uk/uksi/2017/701/schedule/3/paragraph/1/16/a) (with [reg. 7](https://www.legislation.gov.uk/uksi/2017/701/regulation/7))
+
+[^key-7bad3d5fc93d5ef5bbb2fd299c3032f1]: Textual amendment: Words in [Sch. para. 9A(1)](https://www.legislation.gov.uk/uksi/2001/995/schedule/paragraph/9A/1) inserted (29.6.2017 for specified purposes, 3.7.2017 for specified purposes, 31.7.2017 for specified purposes, 3.1.2018 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Markets in Financial Instruments) Regulations 2017 (S.I. 2017/701)](https://www.legislation.gov.uk/uksi/2017/701), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/3)[(4)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/4)[(6)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/6), [Sch. 3 para. 1(16)(b)](https://www.legislation.gov.uk/uksi/2017/701/schedule/3/paragraph/1/16/b) (with [reg. 7](https://www.legislation.gov.uk/uksi/2017/701/regulation/7))
+
+[^key-282dc099c658277b480e0fd50298e014]: Textual amendment: [Sch. para. 9A(2)](https://www.legislation.gov.uk/uksi/2001/995/schedule/paragraph/9A/2) substituted (31.12.2020) by [The Investment Exchanges, Clearing Houses and Central Securities Depositories (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/662)](https://www.legislation.gov.uk/uksi/2019/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/662/regulation/1), [20(13)](https://www.legislation.gov.uk/uksi/2019/662/regulation/20) (as amended by [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 37(g)(iv)](https://www.legislation.gov.uk/uksi/2020/1301/schedule) and with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11) (as amended by [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 40(f)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/40))); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-69c7a94bff55a41e3cf71b2279118a76]: Textual amendment: Words in [Sch. para. 9A(2)(a)(i)](https://www.legislation.gov.uk/uksi/2001/995/schedule/paragraph/9A/2/a/i) substituted (1.12.2021) by [The Markets in Financial Instruments (Capital Markets) (Amendment) Regulations 2021 (S.I. 2021/774)](https://www.legislation.gov.uk/uksi/2021/774), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2021/774/regulation/1/3), [2(3)](https://www.legislation.gov.uk/uksi/2021/774/regulation/2/3)
+
+[^key-602f42f260ec13d13af98ef3de6d21a2]: Textual amendment: Words in [Sch. para. 9A(2)(b)](https://www.legislation.gov.uk/uksi/2001/995/schedule/paragraph/9A/2/b) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 9 para. 2(c)](https://www.legislation.gov.uk/uksi/2025/82/schedule/9/paragraph/2/c)
+
+[^key-083837d106eee0dee8d050d13380f778]: Textual amendment: [Sch. paras. 9A(4)](https://www.legislation.gov.uk/uksi/2001/995/schedule/paragraph/9A/4)[(5)](https://www.legislation.gov.uk/uksi/2001/995/schedule/paragraph/9A/5) inserted (29.6.2017 for specified purposes, 3.7.2017 for specified purposes, 31.7.2017 for specified purposes, 3.1.2018 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Markets in Financial Instruments) Regulations 2017 (S.I. 2017/701)](https://www.legislation.gov.uk/uksi/2017/701), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/3)[(4)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/4)[(6)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/6), [Sch. 3 para. 1(16)(d)](https://www.legislation.gov.uk/uksi/2017/701/schedule/3/paragraph/1/16/d) (with [reg. 7](https://www.legislation.gov.uk/uksi/2017/701/regulation/7))
+
+[^M_F_e1b5dbaf-a286-4980-817e-20ecbf34ebb9]: Textual amendment: Sch. paras. 9B-9I and cross-headings inserted (29.6.2017 for specified purposes, 3.7.2017 for specified purposes, 31.7.2017 for specified purposes, 3.1.2018 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Markets in Financial Instruments) Regulations 2017 (S.I. 2017/701)](https://www.legislation.gov.uk/uksi/2017/701), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/3)[(4)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/4)[(6)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/6), [Sch. 3 para. 1(17)](https://www.legislation.gov.uk/uksi/2017/701/schedule/3/paragraph/1/17) (with [reg. 7](https://www.legislation.gov.uk/uksi/2017/701/regulation/7))
+
+[^key-ef9c4ab193082b8aaf50304895408695]: Textual amendment: [Sch. para. 9C(a)](https://www.legislation.gov.uk/uksi/2001/995/schedule/paragraph/9C/a) substituted (31.12.2020) by [The Investment Exchanges, Clearing Houses and Central Securities Depositories (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/662)](https://www.legislation.gov.uk/uksi/2019/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/662/regulation/1), [20(14)(a)](https://www.legislation.gov.uk/uksi/2019/662/regulation/20) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11) (as amended by [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 40(f)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/40))); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-e0dfe5a0c0d958463f5254bc3d91ac9d]: Textual amendment: [Sch. para. 9C(b)](https://www.legislation.gov.uk/uksi/2001/995/schedule/paragraph/9C/b) substituted (31.12.2020) by [The Investment Exchanges, Clearing Houses and Central Securities Depositories (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/662)](https://www.legislation.gov.uk/uksi/2019/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/662/regulation/1), [20(14)(b)](https://www.legislation.gov.uk/uksi/2019/662/regulation/20) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11) (as amended by [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 40(f)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/40))); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-30c9baaa78abe170946e4ec32277db6f]: Textual amendment: Words in [Sch. para. 9E(1)](https://www.legislation.gov.uk/uksi/2001/995/schedule/paragraph/9E/1) omitted (31.12.2020) by virtue of [The Investment Exchanges, Clearing Houses and Central Securities Depositories (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/662)](https://www.legislation.gov.uk/uksi/2019/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/662/regulation/1), [20(15)(a)](https://www.legislation.gov.uk/uksi/2019/662/regulation/20) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11) (as amended by [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 40(f)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/40))); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-07a31d1d1393f0a7ad7a44b2df5df0de]: Textual amendment: Words in [Sch. para. 9E(1)](https://www.legislation.gov.uk/uksi/2001/995/schedule/paragraph/9E/1) inserted (31.12.2020) by [The Investment Exchanges, Clearing Houses and Central Securities Depositories (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/662)](https://www.legislation.gov.uk/uksi/2019/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/662/regulation/1), [20(15)(b)](https://www.legislation.gov.uk/uksi/2019/662/regulation/20) (as amended by [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 37(g)(v)](https://www.legislation.gov.uk/uksi/2020/1301/schedule) and with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11) (as amended by [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 40(f)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/40))); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-1299a7f99db9be3848d4f2ebb301556e]: Textual amendment: Words in [Sch. para. 9F(3)](https://www.legislation.gov.uk/uksi/2001/995/schedule/paragraph/9F/3) omitted (31.12.2020) by virtue of [The Investment Exchanges, Clearing Houses and Central Securities Depositories (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/662)](https://www.legislation.gov.uk/uksi/2019/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/662/regulation/1), [20(16)(a)](https://www.legislation.gov.uk/uksi/2019/662/regulation/20) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11) (as amended by [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 40(f)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/40))); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-9372b946baf0412268bd77dc0217950b]: Textual amendment: Words in [Sch. para. 9F(6)](https://www.legislation.gov.uk/uksi/2001/995/schedule/paragraph/9F/6) substituted (31.12.2020) by [The Investment Exchanges, Clearing Houses and Central Securities Depositories (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/662)](https://www.legislation.gov.uk/uksi/2019/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/662/regulation/1), [20(16)(b)](https://www.legislation.gov.uk/uksi/2019/662/regulation/20) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11) (as amended by [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 40(f)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/40))); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-5c7dc07b0d283e71ecdcbf50db4d2476]: Textual amendment: [Sch. para. 9F(6)(b)](https://www.legislation.gov.uk/uksi/2001/995/schedule/paragraph/9F/6/b) omitted (23.10.2025) by virtue of [The Markets in Financial Instruments (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/1020)](https://www.legislation.gov.uk/uksi/2025/1020), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1020/regulation/1/2), [11(4)](https://www.legislation.gov.uk/uksi/2025/1020/regulation/11/4) (with [reg. 17](https://www.legislation.gov.uk/uksi/2025/1020/regulation/17)); [S.I. 2025/1078](https://www.legislation.gov.uk/uksi/2025/1078), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2025/1078/regulation/2/b) (with [reg. 11](https://www.legislation.gov.uk/uksi/2025/1078/regulation/11))
+
+[^key-5dd0fd68f96525bc8b57c496fca2e71d]: Textual amendment: [Sch. para. 9F(6)(c)](https://www.legislation.gov.uk/uksi/2001/995/schedule/paragraph/9F/6/c) omitted (26.7.2021) by virtue of [The Markets in Financial Instruments (Capital Markets) (Amendment) Regulations 2021 (S.I. 2021/774)](https://www.legislation.gov.uk/uksi/2021/774), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/774/regulation/1/2), [2(4)(a)](https://www.legislation.gov.uk/uksi/2021/774/regulation/2/4/a)
+
+[^key-7b1dc44f88cfebd6e157d1ca7f2794c9]: Textual amendment: [Sch. para. 9F(6)(d)](https://www.legislation.gov.uk/uksi/2001/995/schedule/paragraph/9F/6/d) omitted (26.7.2021) by virtue of [The Markets in Financial Instruments (Capital Markets) (Amendment) Regulations 2021 (S.I. 2021/774)](https://www.legislation.gov.uk/uksi/2021/774), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/774/regulation/1/2), [2(4)(a)](https://www.legislation.gov.uk/uksi/2021/774/regulation/2/4/a)
+
+[^key-7a51b2d0dd1dfb22304780685af2e1fe]: Textual amendment: Words in [Sch. para. 9F(9)](https://www.legislation.gov.uk/uksi/2001/995/schedule/paragraph/9F/9) inserted (31.12.2020) by [The Investment Exchanges, Clearing Houses and Central Securities Depositories (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/662)](https://www.legislation.gov.uk/uksi/2019/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/662/regulation/1), [20(16)(c)](https://www.legislation.gov.uk/uksi/2019/662/regulation/20) (as amended by [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 37(g)(vi)](https://www.legislation.gov.uk/uksi/2020/1301/schedule) and with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11) (as amended by [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 40(f)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/40))); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-1ea4ecd7523d4c99c8c4a3bc09830c99]: Textual amendment: Words in [Sch. para. 9F(9)](https://www.legislation.gov.uk/uksi/2001/995/schedule/paragraph/9F/9) substituted (1.12.2021) by [The Markets in Financial Instruments (Capital Markets) (Amendment) Regulations 2021 (S.I. 2021/774)](https://www.legislation.gov.uk/uksi/2021/774), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2021/774/regulation/1/3), [2(4)(b)](https://www.legislation.gov.uk/uksi/2021/774/regulation/2/4/b)
+
+[^key-e34292cf95ae6471c6ce4786b37102fb]: Textual amendment: Words in [Sch. para. 9F(11)](https://www.legislation.gov.uk/uksi/2001/995/schedule/paragraph/9F/11) substituted (31.12.2020) by [The Investment Exchanges, Clearing Houses and Central Securities Depositories (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/662)](https://www.legislation.gov.uk/uksi/2019/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/662/regulation/1), [20(16)(d)(i)](https://www.legislation.gov.uk/uksi/2019/662/regulation/20) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11) (as amended by [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 40(f)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/40)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-03ded013d40e4fda2a9d59bf9027418a]: Textual amendment: Words in [Sch. para. 9F(11)](https://www.legislation.gov.uk/uksi/2001/995/schedule/paragraph/9F/11) substituted (31.12.2020) by [The Investment Exchanges, Clearing Houses and Central Securities Depositories (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/662)](https://www.legislation.gov.uk/uksi/2019/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/662/regulation/1), [20(16)(d)(ii)](https://www.legislation.gov.uk/uksi/2019/662/regulation/20) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11) (as amended by [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 40(f)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/40))); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-74296c866a33bec7491be47254fc85dc]: Textual amendment: Words in [Sch. para. 9I](https://www.legislation.gov.uk/uksi/2001/995/schedule/paragraph/9I) substituted (31.12.2020) by [The Investment Exchanges, Clearing Houses and Central Securities Depositories (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/662)](https://www.legislation.gov.uk/uksi/2019/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/662/regulation/1), [20(17)](https://www.legislation.gov.uk/uksi/2019/662/regulation/20) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11) (as amended by [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 40(f)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/40))); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-9fbdf623a33e8f853e64116f55950488]: Textual amendment: [Sch. para. 9I(a)](https://www.legislation.gov.uk/uksi/2001/995/schedule/paragraph/9I/a) omitted (5.4.2024) by virtue of [The Data Reporting Services Regulations 2024 (S.I. 2024/107)](https://www.legislation.gov.uk/uksi/2024/107), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/107/regulation/1/2), [32](https://www.legislation.gov.uk/uksi/2024/107/regulation/32); [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/4/c)
+
+[^key-f3ee1261793c3ad804a26d1bb8b7b555]: Textual amendment: [Sch. para. 9I(c)](https://www.legislation.gov.uk/uksi/2001/995/schedule/paragraph/9I/c) omitted (5.4.2024) by virtue of [The Data Reporting Services Regulations 2024 (S.I. 2024/107)](https://www.legislation.gov.uk/uksi/2024/107), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/107/regulation/1/2), [32](https://www.legislation.gov.uk/uksi/2024/107/regulation/32); [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/4/c)
+
+[^key-da8c673c3ee54c1ffae7133737e31c54]: Textual amendment: [Sch. para. 9I(d)](https://www.legislation.gov.uk/uksi/2001/995/schedule/paragraph/9I/d) omitted (23.10.2025) by virtue of [The Markets in Financial Instruments (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/1020)](https://www.legislation.gov.uk/uksi/2025/1020), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1020/regulation/1/2), [11(5)](https://www.legislation.gov.uk/uksi/2025/1020/regulation/11/5) (with [reg. 17](https://www.legislation.gov.uk/uksi/2025/1020/regulation/17)); [S.I. 2025/1078](https://www.legislation.gov.uk/uksi/2025/1078), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2025/1078/regulation/2/b) (with [reg. 11](https://www.legislation.gov.uk/uksi/2025/1078/regulation/11))
+
+[^key-40492e1bb69330b1cb4e6aeb1d6c6099]: Textual amendment: [Sch. para. 9J](https://www.legislation.gov.uk/uksi/2001/995/schedule/paragraph/9J) and cross-heading inserted (28.11.2017) by [The Central Securities Depositories Regulations 2017 (S.I. 2017/1064)](https://www.legislation.gov.uk/uksi/2017/1064), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1064/regulation/1), [4(6)(a)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/4/6/a) (with [regs. 7(4)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/7/4), [9(1)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/9/1))
+
+[^key-f78088a5cabf88008710eb66c511e041]: Textual amendment: Words in [Sch. para. 9J(1)](https://www.legislation.gov.uk/uksi/2001/995/schedule/paragraph/9J/1) substituted (31.12.2020) by [The Investment Exchanges, Clearing Houses and Central Securities Depositories (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/662)](https://www.legislation.gov.uk/uksi/2019/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/662/regulation/1), [20(18)](https://www.legislation.gov.uk/uksi/2019/662/regulation/20) (as amended by [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 37(g)(vii)](https://www.legislation.gov.uk/uksi/2020/1301/schedule) and with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11) (as amended by [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 40(f)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/40))); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-8a3b1bfed7ae6b44eaf7381a31492d3d]: Textual amendment: Words in [Sch. para. 9J(1)](https://www.legislation.gov.uk/uksi/2001/995/schedule/paragraph/9J/1) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 9 para. 2(d)](https://www.legislation.gov.uk/uksi/2025/82/schedule/9/paragraph/2/d)
+
+[^key-190a0c9e175af96bc2fb4f8e154ed946]: Commencement: [Sch. para. 10](https://www.legislation.gov.uk/uksi/2001/995/schedule/paragraph/10) in force at 1.12.2001, see [reg. 2](https://www.legislation.gov.uk/uksi/2001/995/regulation/2)
+
+[^key-898301b033d35c5976e48c434b7a4312]: Textual amendment: Words in [Sch. para. 10(3)](https://www.legislation.gov.uk/uksi/2001/995/schedule/paragraph/10/3) omitted (1.11.2007) by virtue of [The Financial Services and Markets Act 2000 (Recognition Requirements for Investment Exchanges and Clearing Houses) (Amendment) Regulations 2006 (S.I. 2006/3386)](https://www.legislation.gov.uk/uksi/2006/3386), [regs. 1](https://www.legislation.gov.uk/uksi/2006/3386/regulation/1), [12](https://www.legislation.gov.uk/uksi/2006/3386/regulation/12)
+
+[^key-c50ab1cdb4c52b02b44f0038408b6399]: Textual amendment: [Sch. paras. 10(4)](https://www.legislation.gov.uk/uksi/2001/995/schedule/paragraph/10/4)[(5)](https://www.legislation.gov.uk/uksi/2001/995/schedule/paragraph/10/5) inserted (15.6.2009) by [The Financial Markets and Insolvency Regulations 2009 (S.I. 2009/853)](https://www.legislation.gov.uk/uksi/2009/853), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/853/regulation/1/1), [4(3)(a)](https://www.legislation.gov.uk/uksi/2009/853/regulation/4/3/a)
+
+[^key-7f2b49777ea8dfcc9830c8c95558bdb9]: Textual amendment: Words in [Sch. para. 10(4)](https://www.legislation.gov.uk/uksi/2001/995/schedule/paragraph/10/4) inserted (28.11.2017) by [The Central Securities Depositories Regulations 2017 (S.I. 2017/1064)](https://www.legislation.gov.uk/uksi/2017/1064), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1064/regulation/1), [4(6)(b)(i)(aa)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/4/6/b/i/aa) (with [regs. 7(4)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/7/4), [9(1)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/9/1))
+
+[^key-d0122754914290c96e33bbb0b13a1a6a]: Textual amendment: Words in [Sch. para. 10(5)](https://www.legislation.gov.uk/uksi/2001/995/schedule/paragraph/10/5) inserted (28.11.2017) by [The Central Securities Depositories Regulations 2017 (S.I. 2017/1064)](https://www.legislation.gov.uk/uksi/2017/1064), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1064/regulation/1), [4(6)(b)(i)(bb)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/4/6/b/i/bb) (with [regs. 7(4)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/7/4), [9(1)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/9/1))
+
+[^key-a26463057009d3e79c13785bd4614ec8]: Commencement: [Sch. para. 11](https://www.legislation.gov.uk/uksi/2001/995/schedule/paragraph/11) in force at 1.12.2001, see [reg. 2](https://www.legislation.gov.uk/uksi/2001/995/regulation/2)
+
+[^key-aa934019260b2aa98f157632632aef65]: Commencement: [Sch. para. 12](https://www.legislation.gov.uk/uksi/2001/995/schedule/paragraph/12) in force at 1.12.2001, see [reg. 2](https://www.legislation.gov.uk/uksi/2001/995/regulation/2)
+
+[^key-7c86413ba178dfae9bcdd45418585710]: Textual amendment: Words in [Sch. para. 12(1)](https://www.legislation.gov.uk/uksi/2001/995/schedule/paragraph/12/1) inserted (15.6.2009) by [The Financial Markets and Insolvency Regulations 2009 (S.I. 2009/853)](https://www.legislation.gov.uk/uksi/2009/853), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/853/regulation/1/1), [4(3)(b)(i)](https://www.legislation.gov.uk/uksi/2009/853/regulation/4/3/b/i)
+
+[^key-57321558a9abd30c3c347c7d132b7922]: Textual amendment: Words in [Sch. para. 12(2)(b)](https://www.legislation.gov.uk/uksi/2001/995/schedule/paragraph/12/2/b) inserted (15.6.2009) by [The Financial Markets and Insolvency Regulations 2009 (S.I. 2009/853)](https://www.legislation.gov.uk/uksi/2009/853), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/853/regulation/1/1), [4(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2009/853/regulation/4/3/b/ii)
+
+[^key-5decad4b2d55a21dede9cce58d4d4f67]: Textual amendment: [Sch. para. 12(2)(bb)](https://www.legislation.gov.uk/uksi/2001/995/schedule/paragraph/12/2/bb) inserted (15.6.2009) by [The Financial Markets and Insolvency Regulations 2009 (S.I. 2009/853)](https://www.legislation.gov.uk/uksi/2009/853), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/853/regulation/1/1), [4(3)(b)(iii)](https://www.legislation.gov.uk/uksi/2009/853/regulation/4/3/b/iii)
+
+[^key-6ab216516d78f0536fca9c4462804388]: Textual amendment: [Sch. para. 12(2)(c)](https://www.legislation.gov.uk/uksi/2001/995/schedule/paragraph/12/2/c) substituted (15.6.2009) by [The Financial Markets and Insolvency Regulations 2009 (S.I. 2009/853)](https://www.legislation.gov.uk/uksi/2009/853), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/853/regulation/1/1), [4(3)(b)(iv)](https://www.legislation.gov.uk/uksi/2009/853/regulation/4/3/b/iv)
+
+[^key-2d1e03742056348f25a76f2c1464f446]: Textual amendment: [Sch. para. 12(2A)-(2C)](https://www.legislation.gov.uk/uksi/2001/995/schedule/paragraph/12/2A) inserted (15.6.2009) by [The Financial Markets and Insolvency Regulations 2009 (S.I. 2009/853)](https://www.legislation.gov.uk/uksi/2009/853), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/853/regulation/1/1), [4(3)(b)(v)](https://www.legislation.gov.uk/uksi/2009/853/regulation/4/3/b/v)
+
+[^key-0ed0633a8edceb5b5c759edfc2ccc332]: Textual amendment: [Sch. para. 12A](https://www.legislation.gov.uk/uksi/2001/995/schedule/paragraph/12A) inserted (15.6.2009) by [The Financial Markets and Insolvency Regulations 2009 (S.I. 2009/853)](https://www.legislation.gov.uk/uksi/2009/853), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/853/regulation/1/1), [4(3)(c)](https://www.legislation.gov.uk/uksi/2009/853/regulation/4/3/c)
+
+[^key-64ba1527d21e636bc6f320e8f422c563]: Commencement: [Sch. para. 13](https://www.legislation.gov.uk/uksi/2001/995/schedule/paragraph/13) in force at 1.12.2001, see [reg. 2](https://www.legislation.gov.uk/uksi/2001/995/regulation/2)
+
+[^key-37607d1bbc8f41c3b893fcd5c078b531]: Commencement: [Sch. para. 14](https://www.legislation.gov.uk/uksi/2001/995/schedule/paragraph/14) in force at 1.12.2001, see [reg. 2](https://www.legislation.gov.uk/uksi/2001/995/regulation/2)
+
+[^key-42adcdba990869552ad5a79d7ddae88e]: Textual amendment: Words in [Sch. para. 14](https://www.legislation.gov.uk/uksi/2001/995/schedule/paragraph/14) inserted (15.6.2009) by [The Financial Markets and Insolvency Regulations 2009 (S.I. 2009/853)](https://www.legislation.gov.uk/uksi/2009/853), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/853/regulation/1/1), [4(3)(d)](https://www.legislation.gov.uk/uksi/2009/853/regulation/4/3/d)
+
+[^key-cbde9d50692248fa7de278a10e162c80]: Textual amendment: Words in [Sch. para. 14](https://www.legislation.gov.uk/uksi/2001/995/schedule/paragraph/14) inserted (28.11.2017) by [The Central Securities Depositories Regulations 2017 (S.I. 2017/1064)](https://www.legislation.gov.uk/uksi/2017/1064), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1064/regulation/1), [4(6)(b)(ii)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/4/6/b/ii) (with [regs. 7(4)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/7/4), [9(1)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/9/1))
+
+[^key-1bd437b2c2801af8cd2399f280a5b387]: Textual amendment: [Sch. para. 15](https://www.legislation.gov.uk/uksi/2001/995/schedule/paragraph/15) omitted (1.4.2013) by virtue of [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 36(d)(ii)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/36/d/ii)
+
+[^key-79dd8e53bb15d19ff86535817957012f]: Modification: Sch. Pts. 3, 4 applied (with modifications) (26.8.2013) by [The Financial Services and Markets Act 2000 (Over the Counter Derivatives, Central Counterparties and Trade Repositories) (No. 2) Regulations 2013 (S.I. 2013/1908)](https://www.legislation.gov.uk/uksi/2013/1908), [regs. 1(3)(c)](https://www.legislation.gov.uk/uksi/2013/1908/regulation/1/3/c), [6(2)-(4)](https://www.legislation.gov.uk/uksi/2013/1908/regulation/6/2)
+
+[^key-f24a7c86d50eb635b5dd35c05926af9e]: Commencement: [Sch. para. 16](https://www.legislation.gov.uk/uksi/2001/995/schedule/paragraph/16) in force at 1.12.2001, see [reg. 2](https://www.legislation.gov.uk/uksi/2001/995/regulation/2)
+
+[^key-63d0fbba41f7ed7259bce91b84724842]: Textual amendment: Words in Sch. Pt. 3 substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 36(d)(iii)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/36/d/iii)
+
+[^key-3b3ab2eb0b704cc9ad271baa1a4ebf13]: Commencement: [Sch. para. 17](https://www.legislation.gov.uk/uksi/2001/995/schedule/paragraph/17) in force at 1.12.2001, see [reg. 2](https://www.legislation.gov.uk/uksi/2001/995/regulation/2)
+
+[^key-bb795a736291f35f789839f971745c47]: Commencement: [Sch. para. 18](https://www.legislation.gov.uk/uksi/2001/995/schedule/paragraph/18) in force at 1.12.2001, see [reg. 2](https://www.legislation.gov.uk/uksi/2001/995/regulation/2)
+
+[^key-213bccc446f2b8a30a38128c80e9c0f1]: Commencement: [Sch. para. 19](https://www.legislation.gov.uk/uksi/2001/995/schedule/paragraph/19) in force at 1.12.2001, see [reg. 2](https://www.legislation.gov.uk/uksi/2001/995/regulation/2)
+
+[^key-47936de6db6dd63349677bc15a19a9b9]: Commencement: [Sch. para. 20](https://www.legislation.gov.uk/uksi/2001/995/schedule/paragraph/20) in force at 1.12.2001, see [reg. 2](https://www.legislation.gov.uk/uksi/2001/995/regulation/2)
+
+[^key-15f53938c788bd8e9ee29e7639b12c13]: Commencement: [Sch. para. 21](https://www.legislation.gov.uk/uksi/2001/995/schedule/paragraph/21) in force at 1.12.2001, see [reg. 2](https://www.legislation.gov.uk/uksi/2001/995/regulation/2)
+
+[^key-2d0b2f789d9a5340c744978a3db2989d]: Textual amendment: [Sch. para. 21A](https://www.legislation.gov.uk/uksi/2001/995/schedule/paragraph/21A) inserted (1.11.2007) by [The Financial Services and Markets Act 2000 (Recognition Requirements for Investment Exchanges and Clearing Houses) (Amendment) Regulations 2006 (S.I. 2006/3386)](https://www.legislation.gov.uk/uksi/2006/3386), [regs. 1](https://www.legislation.gov.uk/uksi/2006/3386/regulation/1), [13](https://www.legislation.gov.uk/uksi/2006/3386/regulation/13)
+
+[^key-c972f8768231527395e25136ad9c165a]: Textual amendment: Words in [Sch. para. 21A(1)](https://www.legislation.gov.uk/uksi/2001/995/schedule/Pt/paragraph/21A/1) omitted (1.4.2013) by virtue of [The Financial Services and Markets Act 2000 (Over the Counter Derivatives, Central Counterparties and Trade Repositories) Regulations 2013 (S.I. 2013/504)](https://www.legislation.gov.uk/uksi/2013/504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/504/regulation/1/2), [5(5)](https://www.legislation.gov.uk/uksi/2013/504/regulation/5/5) (with [regs. 52-58](https://www.legislation.gov.uk/uksi/2013/504/regulation/52))
+
+[^key-96ccae25019a0be2124a8f1c86e43424]: Textual amendment: [Sch. para. 21A(2)](https://www.legislation.gov.uk/uksi/2001/995/schedule/paragraph/21A/2) omitted (31.12.2020) by virtue of [The Investment Exchanges, Clearing Houses and Central Securities Depositories (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/662)](https://www.legislation.gov.uk/uksi/2019/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/662/regulation/1), [20(19)](https://www.legislation.gov.uk/uksi/2019/662/regulation/20) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11) (as amended by [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 40(f)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/40))); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-c034c08e9485b68f43a3556cc43b148f]: Textual amendment: [Sch. para. 21A(3)](https://www.legislation.gov.uk/uksi/2001/995/schedule/paragraph/21A/3) omitted (29.6.2017 for specified purposes, 3.7.2017 for specified purposes, 31.7.2017 for specified purposes, 3.1.2018 in so far as not already in force) by virtue of [The Financial Services and Markets Act 2000 (Markets in Financial Instruments) Regulations 2017 (S.I. 2017/701)](https://www.legislation.gov.uk/uksi/2017/701), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/3)[(4)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/4)[(6)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/6), [Sch. 3 para. 1(18)](https://www.legislation.gov.uk/uksi/2017/701/schedule/3/paragraph/1/18) (with [reg. 7](https://www.legislation.gov.uk/uksi/2017/701/regulation/7))
+
+[^key-b068a77613d1353aafe6ac80262ae9ef]: Commencement: [Sch. para. 22](https://www.legislation.gov.uk/uksi/2001/995/schedule/paragraph/22) in force at 1.12.2001, see [reg. 2](https://www.legislation.gov.uk/uksi/2001/995/regulation/2)
+
+[^key-54533a319cd911949b310df56532dce0]: Commencement: [Sch. para. 23](https://www.legislation.gov.uk/uksi/2001/995/schedule/paragraph/23) in force at 1.12.2001, see [reg. 2](https://www.legislation.gov.uk/uksi/2001/995/regulation/2)
+
+[^key-74fca8b9b2f8061dbb7bbb796ab1f8d5]: Textual amendment: Sch. para. 23A and cross-heading inserted (1.5.2014) by [The Financial Services and Markets Act 2000 (Over the Counter Derivatives, Central Counterparties and Trade Repositories) (No. 2) Regulations 2013 (S.I. 2013/1908)](https://www.legislation.gov.uk/uksi/2013/1908), [regs. 1(3)(b)](https://www.legislation.gov.uk/uksi/2013/1908/regulation/1/3/b), [3(3)](https://www.legislation.gov.uk/uksi/2013/1908/regulation/3/3)
+
+[^key-3fbe598744aeae637a6ce844d57b1eb8]: Commencement: [Sch. para. 24](https://www.legislation.gov.uk/uksi/2001/995/schedule/paragraph/24) in force at 1.12.2001, see [reg. 2](https://www.legislation.gov.uk/uksi/2001/995/regulation/2)
+
+[^key-fd13a616192b4344ae351e70cd7ad6e1]: Textual amendment: [Sch. paras. 24(3)](https://www.legislation.gov.uk/uksi/2001/995/schedule/paragraph/24/3)[(4)](https://www.legislation.gov.uk/uksi/2001/995/schedule/paragraph/24/4) inserted (15.6.2009) by [The Financial Markets and Insolvency Regulations 2009 (S.I. 2009/853)](https://www.legislation.gov.uk/uksi/2009/853), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/853/regulation/1/1), [4(3)(g)](https://www.legislation.gov.uk/uksi/2009/853/regulation/4/3/g)
+
+[^key-09d9781aff996c3346270af08f1320c6]: Textual amendment: Words in [Sch. para. 24(3)](https://www.legislation.gov.uk/uksi/2001/995/schedule/paragraph/24/3) inserted (28.11.2017) by [The Central Securities Depositories Regulations 2017 (S.I. 2017/1064)](https://www.legislation.gov.uk/uksi/2017/1064), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1064/regulation/1), [4(6)(c)(i)(aa)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/4/6/c/i/aa) (with [regs. 7(4)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/7/4), [9(1)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/9/1))
+
+[^key-669b607edc56267650305833b2f5a033]: Textual amendment: Words in [Sch. para. 24(4)](https://www.legislation.gov.uk/uksi/2001/995/schedule/paragraph/24/4) inserted (28.11.2017) by [The Central Securities Depositories Regulations 2017 (S.I. 2017/1064)](https://www.legislation.gov.uk/uksi/2017/1064), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1064/regulation/1), [4(6)(c)(i)(bb)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/4/6/c/i/bb) (with [regs. 7(4)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/7/4), [9(1)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/9/1))
+
+[^key-ee3cd6e53116fc4d67da2131bb66147d]: Commencement: [Sch. para. 25](https://www.legislation.gov.uk/uksi/2001/995/schedule/paragraph/25) in force at 1.12.2001, see [reg. 2](https://www.legislation.gov.uk/uksi/2001/995/regulation/2)
+
+[^key-54880fb2b1829d2a367f08e2637bf1e3]: Textual amendment: Words in [Sch. para. 25(1)(b)](https://www.legislation.gov.uk/uksi/2001/995/schedule/paragraph/25/1/b) inserted (15.6.2009) by [The Financial Markets and Insolvency Regulations 2009 (S.I. 2009/853)](https://www.legislation.gov.uk/uksi/2009/853), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/853/regulation/1/1), [4(3)(h)(i)](https://www.legislation.gov.uk/uksi/2009/853/regulation/4/3/h/i)
+
+[^key-bfb933d9f7bd115183144af463ea6f3a]: Textual amendment: [Sch. para. 25(1)(bb)](https://www.legislation.gov.uk/uksi/2001/995/schedule/paragraph/25/1/bb) inserted (15.6.2009) by [The Financial Markets and Insolvency Regulations 2009 (S.I. 2009/853)](https://www.legislation.gov.uk/uksi/2009/853), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/853/regulation/1/1), [4(3)(h)(ii)](https://www.legislation.gov.uk/uksi/2009/853/regulation/4/3/h/ii)
+
+[^M_F_1317995d-2415-432d-f5f5-d5cd2c1f4f4c]: Textual amendment: [Sch. para. 25(1)(c)](https://www.legislation.gov.uk/uksi/2001/995/schedule/paragraph/25/1/c) substituted (15.6.2009) by [The Financial Markets and Insolvency Regulations 2009 (S.I. 2009/853)](https://www.legislation.gov.uk/uksi/2009/853), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/853/regulation/1/1), [4(3)(h)(iii)](https://www.legislation.gov.uk/uksi/2009/853/regulation/4/3/h/iii)
+
+[^key-0de06ea0ecb07b172b0fa1456f6f69b6]: Textual amendment: [Sch. para. 25(1A)-(1C)](https://www.legislation.gov.uk/uksi/2001/995/schedule/paragraph/25/1A) inserted (15.6.2009) by [The Financial Markets and Insolvency Regulations 2009 (S.I. 2009/853)](https://www.legislation.gov.uk/uksi/2009/853), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/853/regulation/1/1), [4(3)(h)(iv)](https://www.legislation.gov.uk/uksi/2009/853/regulation/4/3/h/iv)
+
+[^key-49a3b21097c3e5efd7111ce2b88409fd]: Textual amendment: [Sch. para. 25A](https://www.legislation.gov.uk/uksi/2001/995/schedule/paragraph/25A) inserted (15.6.2009) by [The Financial Markets and Insolvency Regulations 2009 (S.I. 2009/853)](https://www.legislation.gov.uk/uksi/2009/853), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/853/regulation/1/1), [4(3)(i)](https://www.legislation.gov.uk/uksi/2009/853/regulation/4/3/i)
+
+[^key-a364cd1b52283fe02f064844930abb7d]: Commencement: [Sch. para. 26](https://www.legislation.gov.uk/uksi/2001/995/schedule/paragraph/26) in force at 1.12.2001, see [reg. 2](https://www.legislation.gov.uk/uksi/2001/995/regulation/2)
+
+[^key-79b79e6b1a7bacd2a798633a588ecf0b]: Commencement: [Sch. para. 27](https://www.legislation.gov.uk/uksi/2001/995/schedule/paragraph/27) in force at 1.12.2001, see [reg. 2](https://www.legislation.gov.uk/uksi/2001/995/regulation/2)
+
+[^key-9794efaf6381cd2ce69660c3eb2451b6]: Textual amendment: Words in [Sch. para. 27](https://www.legislation.gov.uk/uksi/2001/995/schedule/paragraph/27) inserted (15.6.2009) by [The Financial Markets and Insolvency Regulations 2009 (S.I. 2009/853)](https://www.legislation.gov.uk/uksi/2009/853), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/853/regulation/1/1), [4(3)(j)](https://www.legislation.gov.uk/uksi/2009/853/regulation/4/3/j)
+
+[^key-8165b813bca5cdd1730d73e1d39f682a]: Textual amendment: Words in [Sch. para. 27](https://www.legislation.gov.uk/uksi/2001/995/schedule/paragraph/27) inserted (28.11.2017) by [The Central Securities Depositories Regulations 2017 (S.I. 2017/1064)](https://www.legislation.gov.uk/uksi/2017/1064), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1064/regulation/1), [4(6)(c)(ii)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/4/6/c/ii) (with [regs. 7(4)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/7/4), [9(1)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/9/1))
+
+[^key-ceb3964c21f9ce8df78c329d1bddf793]: Commencement: [Sch. para. 28](https://www.legislation.gov.uk/uksi/2001/995/schedule/paragraph/28) in force at 1.12.2001, see [reg. 2](https://www.legislation.gov.uk/uksi/2001/995/regulation/2)
+
+[^key-7537ef04a4c9cf09efe1d21e04af532b]: Textual amendment: Words in [Sch. para. 28(1)](https://www.legislation.gov.uk/uksi/2001/995/schedule/paragraph/28/1) inserted (15.6.2009) by [The Financial Markets and Insolvency Regulations 2009 (S.I. 2009/853)](https://www.legislation.gov.uk/uksi/2009/853), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/853/regulation/1/1), [4(3)(k)](https://www.legislation.gov.uk/uksi/2009/853/regulation/4/3/k)
+
+[^key-b096c3c77b2f0f01c446baa1d71aa8cf]: Textual amendment: Words in [Sch. para. 28](https://www.legislation.gov.uk/uksi/2001/995/schedule/paragraph/28) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 36(d)(iv)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/36/d/iv)
+
+[^key-3386f9233060642c5a5081c938a5f2ff]: Textual amendment: [Sch. paras. 28(3)](https://www.legislation.gov.uk/uksi/2001/995/schedule/paragraph/28/3)[(4)](https://www.legislation.gov.uk/uksi/2001/995/schedule/paragraph/28/4) inserted (15.6.2009) by [The Financial Markets and Insolvency Regulations 2009 (S.I. 2009/853)](https://www.legislation.gov.uk/uksi/2009/853), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/853/regulation/1/1), [4(3)(l)](https://www.legislation.gov.uk/uksi/2009/853/regulation/4/3/l)
+
+[^key-7ff164658e5b9e9d43a9924bf097e77b]: Textual amendment: Sch. Pts. 5, 6 inserted (1.4.2013) by [The Financial Services and Markets Act 2000 (Over the Counter Derivatives, Central Counterparties and Trade Repositories) Regulations 2013 (S.I. 2013/504)](https://www.legislation.gov.uk/uksi/2013/504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/504/regulation/1/2), [5(6)](https://www.legislation.gov.uk/uksi/2013/504/regulation/5/6) (with [regs. 52-58](https://www.legislation.gov.uk/uksi/2013/504/regulation/52))
+
+[^key-3dd14834740cf62a9b0798094ef41516]: Textual amendment: Sch. paras. 29A, 29B and cross-headings inserted (1.2.2014 for specified purposes) by [The Financial Services and Markets Act 2000 (Over the Counter Derivatives, Central Counterparties and Trade Repositories) (No. 2) Regulations 2013 (S.I. 2013/1908)](https://www.legislation.gov.uk/uksi/2013/1908), [regs. 1(3)(a)](https://www.legislation.gov.uk/uksi/2013/1908/regulation/1/3/a)[(b)](https://www.legislation.gov.uk/uksi/2013/1908/regulation/1/3/b), [3(4)](https://www.legislation.gov.uk/uksi/2013/1908/regulation/3/4)
+
+[^key-c30ac57635b34c0c0fab32a978bf3f46]: Textual amendment: [Sch. para. 31(2)](https://www.legislation.gov.uk/uksi/2001/995/schedule/paragraph/31/2) omitted (31.12.2020) by virtue of [The Investment Exchanges, Clearing Houses and Central Securities Depositories (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/662)](https://www.legislation.gov.uk/uksi/2019/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/662/regulation/1), [20(20)](https://www.legislation.gov.uk/uksi/2019/662/regulation/20) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11) (as amended by [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 40(f)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/40))); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-1925ddc3f1d2d1c7296d3b77e625698a]: Textual amendment: [Sch. para. 31(3)](https://www.legislation.gov.uk/uksi/2001/995/schedule/paragraph/31/3) omitted (29.6.2017 for specified purposes, 3.7.2017 for specified purposes, 31.7.2017 for specified purposes, 3.1.2018 in so far as not already in force) by virtue of [The Financial Services and Markets Act 2000 (Markets in Financial Instruments) Regulations 2017 (S.I. 2017/701)](https://www.legislation.gov.uk/uksi/2017/701), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/3)[(4)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/4)[(6)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/6), [Sch. 3 para. 1(19)](https://www.legislation.gov.uk/uksi/2017/701/schedule/3/paragraph/1/19) (with [reg. 7](https://www.legislation.gov.uk/uksi/2017/701/regulation/7))
+
+[^key-6e29d4fc40ef2586a7748d0c07d40ce9]: Textual amendment: [Sch. para. 31A](https://www.legislation.gov.uk/uksi/2001/995/schedule/paragraph/31A) and cross-heading inserted (28.11.2017) by [The Central Securities Depositories Regulations 2017 (S.I. 2017/1064)](https://www.legislation.gov.uk/uksi/2017/1064), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1064/regulation/1), [4(6)(d)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/4/6/d) (with [regs. 7(4)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/7/4), [9(1)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/9/1))
+
+[^key-36e066b0e37b61236db1ed186183a6d6]: Textual amendment: Words in [Sch. para. 31A(1)](https://www.legislation.gov.uk/uksi/2001/995/schedule/paragraph/31A/1) substituted (31.12.2020) by [The Investment Exchanges, Clearing Houses and Central Securities Depositories (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/662)](https://www.legislation.gov.uk/uksi/2019/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/662/regulation/1), [20(21)](https://www.legislation.gov.uk/uksi/2019/662/regulation/20) (as amended by [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 37(g)(viii)](https://www.legislation.gov.uk/uksi/2020/1301/schedule) and with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11) (as amended by [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 40(f)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/40))); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-7275859d9bd6c9a98a46c09530808e4b]: Textual amendment: Words in [Sch. para. 31A(1)](https://www.legislation.gov.uk/uksi/2001/995/schedule/paragraph/31A/1) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 9 para. 2(e)](https://www.legislation.gov.uk/uksi/2025/82/schedule/9/paragraph/2/e)
+
+[^key-3605c603051b4c37ae462588174bfdc3]: Textual amendment: Sch. para. 36 and cross-heading inserted (1.2.2014) by [The Financial Services and Markets Act 2000 (Over the Counter Derivatives, Central Counterparties and Trade Repositories) (No. 2) Regulations 2013 (S.I. 2013/1908)](https://www.legislation.gov.uk/uksi/2013/1908), [regs. 1(3)(a)](https://www.legislation.gov.uk/uksi/2013/1908/regulation/1/3/a), [3(5)](https://www.legislation.gov.uk/uksi/2013/1908/regulation/3/5)
+
+[^key-3ec3d5152bb607d8acc16a305da48f4e]: Textual amendment: [Sch. Pt. 7](https://www.legislation.gov.uk/uksi/2001/995/schedule/part/7) inserted (28.11.2017) by [The Central Securities Depositories Regulations 2017 (S.I. 2017/1064)](https://www.legislation.gov.uk/uksi/2017/1064), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1064/regulation/1), [4(6)(e)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/4/6/e) (with [regs. 7(4)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/7/4), [9(1)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/9/1))
+
+[^key-37b40e98e383d7b139f1bafd336056f5]: Textual amendment: Words in [Sch. para. 37](https://www.legislation.gov.uk/uksi/2001/995/schedule/paragraph/37) substituted (31.12.2020) by [The Investment Exchanges, Clearing Houses and Central Securities Depositories (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/662)](https://www.legislation.gov.uk/uksi/2019/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/662/regulation/1), [20(22)](https://www.legislation.gov.uk/uksi/2019/662/regulation/20) (as amended by [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 37(g)(ix)](https://www.legislation.gov.uk/uksi/2020/1301/schedule) and with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11) (as amended by [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 40(f)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/40))); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-233763dd779e5c430ff50c1ea15b934d]: Textual amendment: Words in [Sch. para. 37](https://www.legislation.gov.uk/uksi/2001/995/schedule/paragraph/37) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 9 para. 2(f)](https://www.legislation.gov.uk/uksi/2025/82/schedule/9/paragraph/2/f)
+
+[^key-a30ad4ae1d5a0615cbe7f56197a19777]: Textual amendment: [Sch. para. 38(2)](https://www.legislation.gov.uk/uksi/2001/995/schedule/paragraph/38/2) omitted (31.12.2020) by virtue of [The Investment Exchanges, Clearing Houses and Central Securities Depositories (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/662)](https://www.legislation.gov.uk/uksi/2019/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/662/regulation/1), [20(23)](https://www.legislation.gov.uk/uksi/2019/662/regulation/20) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11) (as amended by [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 40(f)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/40))); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-d3cb35707acc87a11983a1cb76a6a03c]: Textual amendment: Words in [Sch. para. 39(1)](https://www.legislation.gov.uk/uksi/2001/995/schedule/paragraph/39/1) substituted (31.12.2020) by [The Investment Exchanges, Clearing Houses and Central Securities Depositories (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/662)](https://www.legislation.gov.uk/uksi/2019/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/662/regulation/1), [20(24)](https://www.legislation.gov.uk/uksi/2019/662/regulation/20) (as amended by [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 37(g)(x)](https://www.legislation.gov.uk/uksi/2020/1301/schedule) and with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11) (as amended by [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 40(f)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/40))); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-adf7e641e01a358a617f3fe0cb7877bc]: Textual amendment: Words in [Sch. para. 39(1)](https://www.legislation.gov.uk/uksi/2001/995/schedule/paragraph/39/1) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 9 para. 2(g)](https://www.legislation.gov.uk/uksi/2025/82/schedule/9/paragraph/2/g)
+
+[^key-215c4eb8646cfe8e619e8640f8a9f758]: Textual amendment: [Sch. paras. 40(1)(a)](https://www.legislation.gov.uk/uksi/2001/995/schedule/paragraph/40/1/a)[(b)](https://www.legislation.gov.uk/uksi/2001/995/schedule/paragraph/40/1/b) substituted (31.12.2020) by [The Investment Exchanges, Clearing Houses and Central Securities Depositories (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/662)](https://www.legislation.gov.uk/uksi/2019/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/662/regulation/1), [20(25)](https://www.legislation.gov.uk/uksi/2019/662/regulation/20) (as amended by [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 37(g)(xi)](https://www.legislation.gov.uk/uksi/2020/1301/schedule) and with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11) (as amended by [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 40(f)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/40))); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-71305e25072ec53970085d36fb7788ca]: Textual amendment: Words in [Sch. para. 40(1)(b)](https://www.legislation.gov.uk/uksi/2001/995/schedule/paragraph/40/1/b) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 9 para. 2(h)](https://www.legislation.gov.uk/uksi/2025/82/schedule/9/paragraph/2/h)

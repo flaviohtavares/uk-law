@@ -1,0 +1,390 @@
+---
+title: The Financial Services and Markets Act 2000 (Service of Notices) Regulations 2001
+id: uksi/2001/1420
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2001-04-10'
+text_date: '2024-11-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2001/1420
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2001/1420/pdfs/uksi_20011420_en.pdf
+- http://www.legislation.gov.uk/uksi/2001/1420/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Financial Services and Markets Act 2000 (Service of Notices) Regulations 2001
+
+> Text as at 2024-11-01.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2001 No. 1420
+
+FINANCIAL SERVICES AND MARKETS
+
+The Financial Services and Markets Act 2000 (Service of Notices) Regulations 2001
+
+Made
+
+10th April 2001
+
+Laid before Parliament
+
+10th April 2001
+
+Coming into force in accordance with regulation 1
+
+The Treasury, in exercise of the powers conferred upon them by sections 414 and 428(3) of the Financial Services and Markets Act 2000[^f00001], hereby make the following Regulations:[^key-7718156b40ac914ede6564d4ce686100][^key-efdec86b23fa731fce62a2f3abb2d2e6][^key-472dcd79f315889733936453f73eb5ff][^key-af0e0dcd5a2544bd793369cc8f8bc1a5][^key-fca08c7356c93f9a2107c0bd52417d6b][^key-124f9399fff4e1e16e514ac55128967d][^key-602318e8be654118e7abb4ec212cae8d][^key-49330c8dc584b511417fa6fed00ed8ca][^M_C_c09df934-d7f1-4a78-a0c0-0e2a38d9d0ff][^key-fd7981a53e8d75eb45d45d6aabfa0c48][^key-55d1668d30aa87be3cedbd8b59b46d16][^key-1c9a38db9101ca531ceb80578c9bdd59][^key-98c81d07866b3a0aeaf9b5be8303f19f][^key-7e460c455f33166252fe46fd9f2def7b][^key-4fc3d75ec6e88c03aae033bc55555c99][^key-8853ed9bb43525377276cca5a33dc310][^key-8918c3803179d410c62043f3bfd6823f][^key-22aa0053fce801a0226a3bec8c9f9420]
+
+## 1. Citation, commencement and interpretation[^key-b9f9805d85a8e12530e2a64277763b92]
+
+(1) These Regulations may be cited as the Financial Services and Markets Act 2000 (Service of Notices) Regulations 2001, and come into force on the day on which section 1 of the Act comes into force.
+
+(2) In these Regulations—
+
+- “the Act” means the Financial Services and Markets Act 2000;
+- “appropriate person” means—
+  - (a) an individual to whom a relevant document may be given, in accordance with regulation 3(1), in order to give that document to a person who is not an individual, or
+  - (b) in the case of a relevant document given to an appointed representative, his principal;
+- “business day” means any day except Saturday, Sunday or a bank holiday, where “bank holiday” includes Christmas Day and Good Friday;
+- “document” means a notice, direction or document (as defined in section 417 of the Act) of any kind;
+- [^key-4d1c94dbff28a2f3afcedf857dcbe671]...
+- “an investigating authority” means the[^key-f0171ef1626d43b9971be6625fa021e2] FCA, the PRA, the Bank of England or the Secretary of State, as the case may be;
+- “investigator” means a person appointed by an investigating authority under section 97(2), 167, 168(3) or (5), 169(1)(b) or 284 of the Act, or under regulations made under section 262 of the Act, to carry out an investigation;
+- “nominee”, in relation to any person to whom a document is to be given (“A”), means a person (“B”) who is authorised for the time being to receive relevant documents on behalf of A, to whom relevant documents may be given—
+  - (a) if A has notified the[^key-ae5980f4bd67afbaad6950402feb98b9] FCA, the PRA or the Bank of England in writing that B is so authorised, by that authority and any other relevant authority[^key-2ae8977a96fc6c95141610030c7a9287], or
+  - (b) if A has notified a relevant authority in writing that B is so authorised, by that relevant authority;
+- “ombudsman” has the meaning given in paragraph 1 of Schedule 17 to the Act;
+- “relevant authority” means—
+  - (a) the[^key-96f4fa1f8aacc9fc37b1344ec85eae80] FCA,
+  - (aa) the PRA,
+  - (b) the Bank of England,
+  - (b) the Secretary of State,
+  - (c) the Competition and Markets Authority[^key-535905d98e524e72c1ec14515bfe935b],
+  - (d) an investigator,
+  - (e) the scheme manager,
+  - (f) the scheme operator, or
+  - (g) an ombudsman;
+- “ a relevant document” means—
+  - (a) a document in relation to which a provision of or made under the Act (other than a provision of or made under Part IX or Part XXIV of the Act) requires a document of that kind to be given, or
+  - (b) where a provision of or made under the Act (other than a provision of or made under Part IX or Part XXIV) authorises the imposition of a requirement, a document by which such a requirement is imposed.
+
+(3) For the purposes of these Regulations, the scheme operator and ombudsmen are treated as the same relevant authority (with the effect, in particular, that a document given to one is to be treated as also given to the other).
+
+(4) In these Regulations references to a requirement to give any document apply however the requirement is expressed (and so, in particular, include any requirement for a document to be served or sent).
+
+(5) For the purposes of these Regulations, writing includes any means of electronic communication which may be processed to produce a legible text.
+
+(6) These Regulations have effect subject to any contrary provision made by a relevant authority under the Act with respect to the service of documents.
+
+(7)[^key-6a75e308e234772b82e8f3f2ab34fdaf] Apart from regulation 6A, nothing in these Regulations shall apply to a notice given by publication by means of a regulatory information service under Part 18A of the Act.
+
+## 2. Methods of service[^key-d6b5246feb3ae06920c932ad07e93113]
+
+(1) This regulation has effect in relation to any relevant document given by a relevant authority to any person (“the recipient”) other than a relevant authority.
+
+(2) Any such document must be given by one of the following methods—
+
+- (a) by delivering it to the recipient, the recipient’s nominee or the appropriate person;
+- (b) by leaving it at the proper address of the recipient, the recipient’s nominee or the appropriate person, determined in accordance with regulation 4;
+- (c) by posting it to that address; or
+- (d) by transmitting it by fax or other means of electronic communication to the recipient, the recipient’s nominee or the appropriate person, in accordance with regulation 5.
+
+(3) For the purposes of this regulation, “posting” a relevant document means sending that document pre-paid by a postal service which seeks to deliver documents by post within the United Kingdom no later than the next working day in all or the majority of cases, and to deliver by post outside the United Kingdom within such a period as is reasonable in all the circumstances.
+
+## 3. Appropriate person to be served[^key-1ebde18b152830080dacf8d3e01dc09d]
+
+(1) A relevant document which is required to be given by a relevant authority to a person (other than a relevant authority) who is not an individual may—
+
+- (a) where that person is a body corporate (other than a limited liability partnership), be given to the secretary or the clerk of that body, or to any person holding a senior position in that body;
+- (b) where that person is a limited liability partnership, be given to any designated member, within the meaning given in section 8 of the Limited Liability Partnerships Act 2000[^f00002];
+- (c) where that person is a partnership (other than a limited liability partnership), be given to any partner;
+- (d) where that person is an unincorporated association other than a partnership, be given to any member of the governing body of the association.
+
+(2) A relevant document which is required to be given to an appointed representative may be given to his principal.
+
+(3) For the purposes of this regulation, persons holding a senior position in a body corporate include—
+
+- (a) a director, the treasurer, secretary or chief executive, and
+- (b) a manager or other officer of that body who, in either case, has responsibility for the matter to which the relevant document relates.
+
+## 4. Proper address for service[^key-88eccf42b22051903a94e2dd0e98b59c]
+
+(1) The proper address—
+
+- (a) in the case of any person who is required by any provision of or made under the Act to provide to the[^key-03096bcdfc8825a2354fa183bc2fd531] FCA, the PRA or the Bank of England an address of a place in the United Kingdom for the service of documents, is the address provided to that regulator, and
+- (b) in the case of a person to whom no such requirement applies and subject to paragraph (3), is any current address provided by that person as an address for service of relevant documents.
+
+(2) In the case of any person who has not provided an address as mentioned in paragraph (1), the proper address is the last known address of that person (whether of his residence, or of a place where he carries on business or is employed), or any address under such of the following provisions as may be applicable—
+
+- (a) in the case of a body corporate (other than a limited liability partnership), its secretary or its clerk, the address of its registered or principal office in the United Kingdom;
+- (b) in the case of a limited liability partnership or any of its designated members, the address of its registered or principal office in the United Kingdom;
+- (c) in the case of a partnership (other than a limited liability partnership) or any of its partners, the address of its principal office in the United Kingdom;
+- (d) in the case of an unincorporated association other than a partnership, or its governing body, the address of its principal office in the United Kingdom;
+- (e) in the case of a member of a designated professional body, if the member does not have a place of business in the United Kingdom, the address of that body.
+
+(3) Where the address mentioned in paragraph (1)(b) is situated in a country or territory other than the United Kingdom, a relevant authority may give a relevant document by leaving it at, or posting it to, any applicable address of a place in the United Kingdom falling within paragraph (2).
+
+(4)[^key-c10576a78b30731917fc43e2f347a68b] Where, prior to 1st April 2013, a person (“A”) was required by any provision of or made under the Act to provide to the Financial Services Authority an address in the United Kingdom for the service of documents, the proper address is the address provided to the Financial Services Authority except to the extent that A subsequently provides a different address to the FCA, PRA or Bank of England.
+
+## 5. Service by electronic means of communication[^key-9f4580c37e77012667ea54ffe6a55554]
+
+(1) A relevant authority may give a relevant document by fax only if the person to whom it is to be given has indicated in writing to that authority (and has not withdrawn the indication)—
+
+- (a) that he is willing to receive relevant documents by fax, and
+- (b) the fax number to which such documents should be sent.
+
+(2) If a relevant authority gives a relevant document by fax it must, by the end of the business day following the day on which it did so, send a copy of that document to the person to whom the document is to be given by any method specified in regulation 2 other than fax.
+
+(3) A relevant authority may give a relevant document by any other electronic means of communication only if the person to whom it is to be given—
+
+- (a) has indicated in writing to that authority (and has not withdrawn the indication) that he is willing to receive relevant documents by those means, and
+- (b) has provided, in writing to that authority for this purpose, an e-mail address, or other electronic identification such as an ISDN or other telephonic link number.
+
+(4) A fax number, e-mail address or other electronic identification provided to the[^key-acdc6794cc0fde0b65c9c48d673b582a] FCA, the PRA or the Bank of England for the purpose of accepting the service of relevant documents is sufficient indication, for that regulator[^key-7322691818e2a5549e295a36f2371fdb], for the purposes of paragraph (1) or (3).
+
+(5)[^key-54297d86d6974bf1ca0e2b8a293fa3c1] Where, before 1st April 2013, a person (“A”) provided to the Financial Services Authority a fax number, e-mail address or other electronic identification for the purpose of accepting the service of relevant documents, that is sufficient indication for each relevant authority for the purposes of paragraph (1) or (3), except to the extent that A subsequently provides to the FCA, PRA or Bank of England further information.
+
+## 6. Deemed service[^key-7f509539f39daea6af609a5d74e46782]
+
+(1) Subject to regulation 11, a relevant document which is given by a relevant authority to any person in accordance with these Regulations is to be treated as having been received on the day shown in the table below.
+
+| Method of giving | Deemed day of receipt |
+| --- | --- |
+| Leaving the document at the proper address | The business day after the day on which it is left at the proper address |
+| Post to an address in the United Kingdom | The second business day after posting |
+| Post to an address outside the United Kingdom[^key-36d6373abde3adca03bc34be7dc994e3] | The fifth business day after posting |
+| Fax | The business day after the day on which the document is transmitted |
+| Other electronic means of communication | The business day after the day on which the document is transmitted |
+
+(2) Where a relevant document is given by fax, that document is to be treated as having been received on the deemed day of receipt of the fax, determined in accordance with paragraph (1), regardless of whether a relevant authority has sent a copy of that document in accordance with paragraph (2) of regulation 5.
+
+(3)[^key-d68708a6e965746d143b291afbd529fc] Where—
+
+- (a) a notice given under section 55Y[^key-b084c1bcc24ca904c3e860e3f631ec16] (exercise of own-initiative power: procedure) of the Act states that a variation of Part 4A permission or the imposition or variation of a requirement[^key-abbe1a4515d8c3633bf0aa319248e0e9] takes effect immediately,
+- (aa)[^key-74ce7c114052b6fe7cb4ca49154e7f4c] a notice given under section 137S(4)(a) (financial promotion rules: directions given by FCA) of the Act which states that the requirements contained in the direction have effect immediately;
+- (b) a notice given under section 78(2) (discontinuance or suspension: procedure) , section 88F(2) (action under section 88E: procedure) or 89V(1) (action under section 89U: procedure)[^key-a02b6da5303b2b5b244870087b5b51de] of the Act states that a discontinuance , suspension of the listing of any securities or action[^key-283bd5ea1660d92ab5042e10cb376337] takes effect immediately, or
+- (c) a notice given under section 259(3) (procedure on giving directions under section 257 and varying them on FCA[^key-093f033164fb3745828862432e0ddee1]’s own initiative) of the Act, or under regulation 27 (procedure on giving directions under regulation 25 and varying them on FCA’s own initiative) of the Open-Ended Investment Companies Regulations 2001 states that a direction to which it relates takes effect immediately,
+
+that notice is to be treated as having been received at the time it is in fact received if that is earlier than the day on which paragraph (1) would otherwise require it to be treated as having been received.
+
+## 6A. Deemed service by means of a regulatory information service[^M_F_67e22106-f495-4971-9581-6ed94fb21cfa]
+
+(1) A notice published by means of a regulatory information service under section 313B(2)(b) of the Act is to be treated as having been received by—
+
+- (a) the institution or (as the case may be) each institution in the class of institutions specified in the notice, and
+- (b) any issuer so specified,
+
+at the time when it is first published.
+
+(2) A notice of a decision published by means of a regulatory information service under section 313BA(6), 313BC(4) or (7) or 313BE(3) or (5) of the Act is to be treated as having been received by each institution in the class in question at the time when it is first published.
+
+(3) Paragraph (2) does not apply to an institution which is entitled to receive written notice of the decision under section 313BA(5) or 313BC(2) or a decision notice under section 313BC(5).
+
+## 7. Service on a relevant authority[^key-4581452d0a4799db1300f3ddef52babb]
+
+(1) Subject to paragraphs (2) and (3) and regulations 8 and 10, a relevant document which is to be given to a relevant authority may be given by any method of serving or transmitting documents.
+
+(2) Where a relevant document is given by delivering it to the relevant authority, it must be delivered—
+
+- (a) to the employee or other individual with responsibility for the matter to which the document relates, if the identity of that individual is known, or
+- (b) in any other case, to the published address of that authority.
+
+(3) Where a relevant document is given to a relevant authority by leaving it at, or posting it to, the address of a relevant authority, it must be left at or posted to the published address of that authority.
+
+(4) For the purposes of this regulation, “posting” a document means sending it by a pre-paid postal service.
+
+## 8. Electronic service on a relevant authority[^key-c32c6e8b5efea2faabdb7dce28e51a25]
+
+(1) Where a relevant document which is to be given to a relevant authority is given by fax or other electronic means it must be sent to a fax number, e-mail address or other electronic identification—
+
+- (a) which has been notified to the sender by the relevant authority as the appropriate number, address or other electronic identification for the purpose of receiving relevant documents of the kind in question, or
+- (b) in all other cases, which has been published by the relevant authority for the purpose of receiving relevant documents.
+
+(2) Where any provision of or made under the Act requires a person to give a relevant document to the[^key-687531d1a6e0d15536641a07ae455797] FCA, the PRA or the Bank of England (“the Bank”) before the end of a specified period, that person may give that document by fax only if by the end of the business day following the day on which he did so, he sends a copy of that document to the[^key-a2becadace4bcbcb7a6e1d8ec634a8eb] FCA, the PRA or the Bank (as the case may be) by any method other than fax.
+
+## 9. Day of service on a relevant authority[^key-83ba955cd54592bbc4b744f5d9bfc61d]
+
+(1) No relevant document which is to be given to a relevant authority is to be treated as given until it is received by that authority in legible form, and for the purposes of any provision of or made under the Act which requires a relevant authority to take any action within a specified period beginning with the day on which a document was received by that authority, that day is the day on which the document is actually received in legible form.
+
+(2) For the purposes of paragraph (1), where a relevant document is given by fax and a copy sent in accordance with paragraph (2) of regulation 8, that document is to be treated as given to the[^key-bb096a4f70032894a704974aea09fca1] FCA, the PRA or the Bank of England on either the day on which the fax is actually received by it[^key-41ad5918e5a4fb3b30547d98f0f0d117] or the day on which the copy is actually received by it, whichever day is the earlier.
+
+## 10. Compliance with a requirement to serve a document on regulators by a specified day[^key-6a8e32c0ed3fb5830913e31f5eed0985][^key-9c7e8fa37587088095c2bcf44082a82f]
+
+(1) For the purposes of any provision of or made under the Act which requires a person to give a document to the[^key-44edd7d6dd6aa678ee8b0710be1dfe4e] FCA, the PRA or the Bank of England (“the relevant regulator”) before the end of a specified period, that person is to be regarded as having complied with that requirement (irrespective of the day on which the document is in fact received by the relevant regulator[^key-e11ffcc1bfe15972d1090a09cf69077c] if it is sent by post, fax or other electronic means) if he sends the document to the relevant regulator in accordance with any applicable directions given by that regulator[^key-a6a8327d0d3ca4edf47a65237cc318fc] before the end of the specified period or, where no such directions apply, if he—
+
+- (a) delivers the document to an employee of the relevant regulator with responsibility for the matter to which the document relates before the end of the specified period;
+- (b) leaves the document at the relevant regulator’s address before the end of the specified period, and obtains a time stamped receipt;
+- (c) posts the document to the relevant regulator’s address before the final day of the specified period;
+- (d) sends the document to the relevant regulator by fax before the end of the specified period, provided that he has also sent or subsequently sends a copy of that document in accordance with paragraph (2) of regulation 8; or
+- (e) sends the document to the relevant regulator by other electronic means of communication before the end of the specified period, and obtains electronic confirmation of receipt.
+
+(2) For the purposes of this regulation—
+
+- (a) “posts” means—
+  - (i) where the person who is required to give a document is located in the United Kingdom, sending that document pre-paid by a postal service which seeks to deliver documents by post within the United Kingdom no later than the next working day in all or the majority of cases, and
+  - (ii) where the person who is required to give a document is located outside the United Kingdom, sending that document pre-paid by a postal service which seeks to deliver documents by post in the fastest time which is reasonable in the circumstances;
+- (b) “applicable direction” means any direction given by the relevant regulator under the Act which specifies the manner in which the relevant document in question is to be given.
+
+## 11. Day of service on a host state regulator[^key-55c40f535ef6d7ed912005c027023846]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Jim Dowd
+
+Clive Betts
+
+Two of the Lords Commissioners of Her Majesty’s Treasury
+
+10th April 2001
+
+(This note is not part of the Regulations)
+
+These Regulations make provision for the methods by which authorities with functions under the Financial Services and Markets Act 2000 (“the Act”) may give notices, directions and other documents, including documents by which requirements are imposed, to any other person on whom service is required or authorised by any provision of or made under the Act. The Regulations also provide rules for determining the date on which a person, including those authorities, will be treated as having received a document served in accordance with the Regulations.
+
+Regulation 1 makes provision for the citation, commencement and interpretation of the Regulations.
+
+Regulation 2 specifies the methods by which an authority with functions under the Act (“a relevant authority”) may give documents to any person. These are: delivery to the appropriate person, leaving the document at the proper address, sending by post to that address, and fax or other electronic communication (which includes e-mail). Regulations 3 to 5 contain further provisions in relation to these specified methods.
+
+Regulation 3 makes provision as to who may be served if the person to whom a document is to be given is a legal person such as a company or a partnership. It also permits an authorised principal to be served on behalf of his appointed representative.
+
+Regulation 4 makes provision as to the proper address for service on authorised persons, and specifies the addresses to which a document may be sent in cases where a person has not given an address in the United Kingdom for the purpose of service of documents under the Act.
+
+Regulation 5 specifies the circumstances in which service by fax or other electronic means on a person other than a relevant authority is permissible.
+
+A document sent by a relevant authority will be treated as having been received on a date determined in accordance with the provisions in regulation 6.
+
+Regulation 7 makes general provision as to service on a relevant authority, while regulation 8 makes specific provision in relation to documents served on a relevant authority by fax or other electronic means. In particular, it requires that in certain circumstances a copy of a document sent by fax must be sent by another method.
+
+Regulation 9 provides that a relevant authority is not to be treated as having been given a document until it has in fact received it, while regulation 10 makes particular provision with respect to documents which a person is required under the Act to serve on the Financial Services Authority before the end of a specified period.
+
+Regulation 11 provides that a competent authority in another EEA State is not to be treated as having been given a document by a relevant authority until it has actually received it.
+
+## Annotations
+
+[^f00001]: Footnote: [2000 c. 8](https://www.legislation.gov.uk/ukpga/2000/8).
+
+[^key-7718156b40ac914ede6564d4ce686100]: Modification: Regulations applied (21.8.2002) by [The Electronic Commerce Directive (Financial Services and Markets) Regulations 2002 (S.I. 2002/1775)](https://www.legislation.gov.uk/uksi/2002/1775), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2002/1775/regulation/1/b), [15](https://www.legislation.gov.uk/uksi/2002/1775/regulation/15)
+
+[^key-efdec86b23fa731fce62a2f3abb2d2e6]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2001/1420) applied (10.8.2004) by [The Financial Conglomerates and Other Financial Groups Regulations 2004 (S.I. 2004/1862)](https://www.legislation.gov.uk/uksi/2004/1862), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/1862/regulation/1/1), [6(2)](https://www.legislation.gov.uk/uksi/2004/1862/regulation/6/2)
+
+[^key-472dcd79f315889733936453f73eb5ff]: Modification: Regulations applied (1.1.2007) by [The Capital Requirements Regulations 2006 (S.I. 2006/3221)](https://www.legislation.gov.uk/uksi/2006/3221), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/3221/regulation/1/1), [28](https://www.legislation.gov.uk/uksi/2006/3221/regulation/28)
+
+[^key-af0e0dcd5a2544bd793369cc8f8bc1a5]: Modification: Regulations applied (1.5.2009 for specified purposes, 1.11.2009 in so far as not already in force) by [The Payment Services Regulations 2009 (S.I. 2009/209)](https://www.legislation.gov.uk/uksi/2009/209), [reg. 1(2)(b)(xiii)](https://www.legislation.gov.uk/uksi/2009/209/regulation/1/2/b/xiii), [Sch. 5 para. 9](https://www.legislation.gov.uk/uksi/2009/209/schedule/5/paragraph/9)
+
+[^key-fca08c7356c93f9a2107c0bd52417d6b]: Modification: Regulations applied (11.2.2010) by [The Cross Border Payments in Euro Regulations 2010 (S.I. 2010/89)](https://www.legislation.gov.uk/uksi/2010/89), [reg. 1](https://www.legislation.gov.uk/uksi/2010/89/regulation/1), [Sch. Pt. 3 para. 9](https://www.legislation.gov.uk/uksi/2010/89/schedule/part/3/paragraph/9)
+
+[^key-124f9399fff4e1e16e514ac55128967d]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2001/1420) applied (with modifications) (9.2.2011) by [The Electronic Money Regulations 2011 (S.I. 2011/99)](https://www.legislation.gov.uk/uksi/2011/99), [regs. 1(2)(a)(xiv)](https://www.legislation.gov.uk/uksi/2011/99/regulation/1/2/a/xiv), [62](https://www.legislation.gov.uk/uksi/2011/99/regulation/62), [Sch. 3 para. 10](https://www.legislation.gov.uk/uksi/2011/99/schedule/3/paragraph/10) (with [reg. 3](https://www.legislation.gov.uk/uksi/2011/99/regulation/3))
+
+[^key-602318e8be654118e7abb4ec212cae8d]: Modification: Regulations applied (15.1.2013) by [The Payments in Euro (Credit Transfers and Direct Debits) Regulations 2012 (S.I. 2012/3122)](https://www.legislation.gov.uk/uksi/2012/3122), [reg. 1](https://www.legislation.gov.uk/uksi/2012/3122/regulation/1), [Sch. para. 8](https://www.legislation.gov.uk/uksi/2012/3122/schedule/paragraph/8) (as amended (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 248(6)(q)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/248/6/q))
+
+[^key-49330c8dc584b511417fa6fed00ed8ca]: Modification: Regulations applied (1.1.2016) by [The Small and Medium Sized Business (Credit Information) Regulations 2015 (S.I. 2015/1945)](https://www.legislation.gov.uk/uksi/2015/1945), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/1945/regulation/1/2), [42(2)](https://www.legislation.gov.uk/uksi/2015/1945/regulation/42/2)
+
+[^M_C_c09df934-d7f1-4a78-a0c0-0e2a38d9d0ff]: Modification: Regulations applied (1.1.2016) by [The Small and Medium Sized Business (Finance Platforms) Regulations 2015 (S.I. 2015/1946)](https://www.legislation.gov.uk/uksi/2015/1946), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/1946/regulation/1/2), [reg. 39(2)](https://www.legislation.gov.uk/uksi/2015/1946/regulation/39/2)
+
+[^key-fd7981a53e8d75eb45d45d6aabfa0c48]: Modification: Regulations applied (with modifications) (18.9.2016) by [The Payment Accounts Regulations 2015 (S.I. 2015/2038)](https://www.legislation.gov.uk/uksi/2015/2038), [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2015/2038/regulation/1/2/b), [Sch. 7 para. 8](https://www.legislation.gov.uk/uksi/2015/2038/schedule/7/paragraph/8)
+
+[^key-55d1668d30aa87be3cedbd8b59b46d16]: Modification: Regulations modified (29.6.2017 for specified purposes, 3.7.2017 for specified purposes, 31.7.2017 for specified purposes, 3.1.2018 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Markets in Financial Instruments) Regulations 2017 (S.I. 2017/701)](https://www.legislation.gov.uk/uksi/2017/701), [reg. 1](https://www.legislation.gov.uk/uksi/2017/701/regulation/1), [Sch. 1 para. 27](https://www.legislation.gov.uk/uksi/2017/701/schedule/1/paragraph/27) (with [reg. 7](https://www.legislation.gov.uk/uksi/2017/701/regulation/7))
+
+[^key-1c9a38db9101ca531ceb80578c9bdd59]: Modification: Regulations applied (13.8.2017) by [The Payment Services Regulations 2017 (S.I. 2017/752)](https://www.legislation.gov.uk/uksi/2017/752), [reg. 1(2)(b)(iv)](https://www.legislation.gov.uk/uksi/2017/752/regulation/1/2/b/iv), [Sch. 6 para. 12](https://www.legislation.gov.uk/uksi/2017/752/schedule/6/paragraph/12) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/752/regulation/3))
+
+[^key-98c81d07866b3a0aeaf9b5be8303f19f]: Modification: Regulations applied (with modifications) (1.1.2018) by [The Packaged Retail and Insurance Based Investment Products Regulations 2017 (S.I. 2017/1127)](https://www.legislation.gov.uk/uksi/2017/1127), [reg. 1](https://www.legislation.gov.uk/uksi/2017/1127/regulation/1), [Sch. 1 para. 11](https://www.legislation.gov.uk/uksi/2017/1127/schedule/1/paragraph/11)
+
+[^key-7e460c455f33166252fe46fd9f2def7b]: Modification: Regulations applied (with modifications) (3.1.2018) by [The Data Reporting Services Regulations 2017 (S.I. 2017/699)](https://www.legislation.gov.uk/uksi/2017/699), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2017/699/regulation/1/2/b), [41](https://www.legislation.gov.uk/uksi/2017/699/regulation/41)
+
+[^key-4fc3d75ec6e88c03aae033bc55555c99]: Modification: Regulations applied (18.1.2018) by [The Oversight of Professional Body Anti Money Laundering and Counter Terrorist Financing Supervision Regulations 2017 (S.I. 2017/1301)](https://www.legislation.gov.uk/uksi/2017/1301), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/1301/regulation/1/1), [30](https://www.legislation.gov.uk/uksi/2017/1301/regulation/30)
+
+[^key-8853ed9bb43525377276cca5a33dc310]: Modification: Regulations applied (with modifications) (1.1.2019) by [The Securitisation Regulations 2018 (S.I. 2018/1288)](https://www.legislation.gov.uk/uksi/2018/1288), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1288/regulation/1), [Sch. 1 para. 15](https://www.legislation.gov.uk/uksi/2018/1288/schedule/1/paragraph/15) (with [Sch. 1 paras. 13](https://www.legislation.gov.uk/uksi/2018/1288/schedule/1/paragraph/13), [14](https://www.legislation.gov.uk/uksi/2018/1288/schedule/1/paragraph/14))
+
+[^key-8918c3803179d410c62043f3bfd6823f]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2001/1420) applied (with modifications) (30.1.2024 for specified purposes, 1.11.2024 in so far as not already in force) by [The Securitisation Regulations 2024 (S.I. 2024/102)](https://www.legislation.gov.uk/uksi/2024/102), [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2024/102/regulation/2/1/e)[(2)](https://www.legislation.gov.uk/uksi/2024/102/regulation/2/2), [Sch. 1 para. 18](https://www.legislation.gov.uk/uksi/2024/102/schedule/1/paragraph/18) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2024/102/schedule/3)) (as amended by [S.I. 2024/705](https://www.legislation.gov.uk/uksi/2024/705), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/705/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2024/705/regulation/2/2))
+
+[^key-22aa0053fce801a0226a3bec8c9f9420]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2001/1420) applied (with modifications) (5.4.2024) by [The Data Reporting Services Regulations 2024 (S.I. 2024/107)](https://www.legislation.gov.uk/uksi/2024/107), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/107/regulation/1/2), [28](https://www.legislation.gov.uk/uksi/2024/107/regulation/28); [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/4/c)
+
+[^key-b9f9805d85a8e12530e2a64277763b92]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2001/1420/regulation/1) in force at 18.6.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/1420/regulation/1/1)
+
+[^key-4d1c94dbff28a2f3afcedf857dcbe671]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2001/1420/regulation/1/2) omitted (31.12.2020) by virtue of [The Financial Services and Markets Act 2000 (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/632)](https://www.legislation.gov.uk/uksi/2019/632), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/632/regulation/1/3), [180(2)](https://www.legislation.gov.uk/uksi/2019/632/regulation/180/2) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11) (as amended by [S.I. 2019/1212](https://www.legislation.gov.uk/uksi/2019/1212), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/1/3), [22(3)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/22/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-f0171ef1626d43b9971be6625fa021e2]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2001/1420/regulation/1/2) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 42(a)(i)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/42/a/i)
+
+[^key-ae5980f4bd67afbaad6950402feb98b9]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2001/1420/regulation/1/2) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 42(a)(aa)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/42/a/aa), [(ii)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/42/a/ii)
+
+[^key-2ae8977a96fc6c95141610030c7a9287]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2001/1420/regulation/1/2) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 42(a)(bb)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/42/a/bb), [(ii)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/42/a/ii)
+
+[^key-96f4fa1f8aacc9fc37b1344ec85eae80]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2001/1420/regulation/1/2) substituted (1.4.2013) by virtue of [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 42(a)(iii)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/42/a/iii)
+
+[^key-535905d98e524e72c1ec14515bfe935b]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2001/1420/regulation/1/2) substituted (1.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) (No. 2) Order 2014 (S.I. 2014/549)](https://www.legislation.gov.uk/uksi/2014/549), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/549/article/1/1), [Sch. 1 para. 29](https://www.legislation.gov.uk/uksi/2014/549/schedule/1/paragraph/29) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/549/article/3))
+
+[^key-6a75e308e234772b82e8f3f2ab34fdaf]: Textual amendment: [Reg. 1(7)](https://www.legislation.gov.uk/uksi/2001/1420/regulation/1/7) inserted (9.4.2010) by [The Financial Services and Markets Act 2000 (Amendments to Part 18A etc.) Regulations 2010 (S.I. 2010/1193)](https://www.legislation.gov.uk/uksi/2010/1193), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/1193/regulation/1/1), [7(2)](https://www.legislation.gov.uk/uksi/2010/1193/regulation/7/2)
+
+[^key-d6b5246feb3ae06920c932ad07e93113]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2001/1420/regulation/2) in force at 18.6.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/1420/regulation/1/1)
+
+[^key-1ebde18b152830080dacf8d3e01dc09d]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2001/1420/regulation/3) in force at 18.6.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/1420/regulation/1/1)
+
+[^f00002]: Footnote: [2000 c. 12](https://www.legislation.gov.uk/ukpga/2000/12).
+
+[^key-88eccf42b22051903a94e2dd0e98b59c]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2001/1420/regulation/4) in force at 18.6.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/1420/regulation/1/1)
+
+[^key-03096bcdfc8825a2354fa183bc2fd531]: Textual amendment: Words in [reg. 4(1)(a)](https://www.legislation.gov.uk/uksi/2001/1420/regulation/4/1/a) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 42(b)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/42/b)
+
+[^key-c10576a78b30731917fc43e2f347a68b]: Textual amendment: [Reg. 4(4)](https://www.legislation.gov.uk/uksi/2001/1420/regulation/4/4) inserted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 42(c)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/42/c)
+
+[^key-9f4580c37e77012667ea54ffe6a55554]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2001/1420/regulation/5) in force at 18.6.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/1420/regulation/1/1)
+
+[^key-acdc6794cc0fde0b65c9c48d673b582a]: Textual amendment: Words in [reg. 5(4)](https://www.legislation.gov.uk/uksi/2001/1420/regulation/5/4) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 42(d)(aa)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/42/d/aa), [(i)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/42/d/i)
+
+[^key-7322691818e2a5549e295a36f2371fdb]: Textual amendment: Words in [reg. 5(4)](https://www.legislation.gov.uk/uksi/2001/1420/regulation/5/4) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 42(d)(bb)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/42/d/bb), [(i)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/42/d/i)
+
+[^key-54297d86d6974bf1ca0e2b8a293fa3c1]: Textual amendment: [Reg. 5(5)](https://www.legislation.gov.uk/uksi/2001/1420/regulation/5/5) inserted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 42(d)(ii)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/42/d/ii)
+
+[^key-7f509539f39daea6af609a5d74e46782]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2001/1420/regulation/6) in force at 18.6.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/1420/regulation/1/1)
+
+[^key-36d6373abde3adca03bc34be7dc994e3]: Textual amendment: Words in [reg. 6(1)](https://www.legislation.gov.uk/uksi/2001/1420/regulation/6/1) substituted (31.12.2020) by [The Financial Services and Markets Act 2000 (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/632)](https://www.legislation.gov.uk/uksi/2019/632), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/632/regulation/1/3), [180(3)](https://www.legislation.gov.uk/uksi/2019/632/regulation/180/3) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11) (as amended by [S.I. 2019/1212](https://www.legislation.gov.uk/uksi/2019/1212), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/1/3), [22(3)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/22/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-d68708a6e965746d143b291afbd529fc]: Textual amendment: [Reg. 6(3)](https://www.legislation.gov.uk/uksi/2001/1420/regulation/6/3) inserted (6.4.2005) by [The Financial Services and Markets Act 2000 (Service of Notices) (Amendment) Regulations 2005 (S.I. 2005/274)](https://www.legislation.gov.uk/uksi/2005/274), [regs. 1](https://www.legislation.gov.uk/uksi/2005/274/regulation/1), [2](https://www.legislation.gov.uk/uksi/2005/274/regulation/2)
+
+[^key-b084c1bcc24ca904c3e860e3f631ec16]: Textual amendment: Words in [reg. 6(3)(a)](https://www.legislation.gov.uk/uksi/2001/1420/regulation/6/3/a) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 42(e)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/42/e/aa)[(i)(aa)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/42/e)
+
+[^key-abbe1a4515d8c3633bf0aa319248e0e9]: Textual amendment: Words in [reg. 6(3)(a)](https://www.legislation.gov.uk/uksi/2001/1420/regulation/6/3/a) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 42(e)(i)(bb)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/42/e)
+
+[^key-74ce7c114052b6fe7cb4ca49154e7f4c]: Textual amendment: [Reg. 6(3)(aa)](https://www.legislation.gov.uk/uksi/2001/1420/regulation/6/3/aa) inserted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 42(e)(ii)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/42/e/ii)
+
+[^key-a02b6da5303b2b5b244870087b5b51de]: Textual amendment: Words in [reg. 6(3)(b)](https://www.legislation.gov.uk/uksi/2001/1420/regulation/6/3/b) inserted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 42(e)(iii)(aa)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/42/e)
+
+[^key-283bd5ea1660d92ab5042e10cb376337]: Textual amendment: Words in [reg. 6(3)(b)](https://www.legislation.gov.uk/uksi/2001/1420/regulation/6/3/b) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 42(e)(iii)(bb)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/42/e)
+
+[^key-093f033164fb3745828862432e0ddee1]: Textual amendment: Words in [reg. 6(3)(c)](https://www.legislation.gov.uk/uksi/2001/1420/regulation/6/3/c) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 42(e)(iv)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/42/e/iv)
+
+[^M_F_67e22106-f495-4971-9581-6ed94fb21cfa]: Textual amendment: Reg. 6A inserted (9.4.2010) by [The Financial Services and Markets Act 2000 (Amendments to Part 18A etc.) Regulations 2010 (S.I. 2010/1193)](https://www.legislation.gov.uk/uksi/2010/1193), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/1193/regulation/1/1), [7(3)](https://www.legislation.gov.uk/uksi/2010/1193/regulation/7/3)
+
+[^key-4581452d0a4799db1300f3ddef52babb]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2001/1420/regulation/7) in force at 18.6.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/1420/regulation/1/1)
+
+[^key-c32c6e8b5efea2faabdb7dce28e51a25]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2001/1420/regulation/8) in force at 18.6.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/1420/regulation/1/1)
+
+[^key-687531d1a6e0d15536641a07ae455797]: Textual amendment: Words in [reg. 8(2)](https://www.legislation.gov.uk/uksi/2001/1420/regulation/8/2) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 42(f)(i)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/42/f/i)
+
+[^key-a2becadace4bcbcb7a6e1d8ec634a8eb]: Textual amendment: Words in [reg. 8(2)](https://www.legislation.gov.uk/uksi/2001/1420/regulation/8/2) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 42(f)(ii)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/42/f/ii)
+
+[^key-83ba955cd54592bbc4b744f5d9bfc61d]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2001/1420/regulation/9) in force at 18.6.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/1420/regulation/1/1)
+
+[^key-bb096a4f70032894a704974aea09fca1]: Textual amendment: Words in [reg. 9(2)](https://www.legislation.gov.uk/uksi/2001/1420/regulation/9/2) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 42(g)(i)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/42/g/i)
+
+[^key-41ad5918e5a4fb3b30547d98f0f0d117]: Textual amendment: Word in [reg. 9(2)](https://www.legislation.gov.uk/uksi/2001/1420/regulation/9/2) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 42(g)(ii)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/42/g/ii)
+
+[^key-6a8e32c0ed3fb5830913e31f5eed0985]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2001/1420/regulation/10) in force at 18.6.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/1420/regulation/1/1)
+
+[^key-9c7e8fa37587088095c2bcf44082a82f]: Textual amendment: Word in [reg. 10](https://www.legislation.gov.uk/uksi/2001/1420/regulation/10) heading substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 42(h)(i)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/42/h/i)
+
+[^key-44edd7d6dd6aa678ee8b0710be1dfe4e]: Textual amendment: Words in [reg. 10](https://www.legislation.gov.uk/uksi/2001/1420/regulation/10) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 42(h)(ii)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/42/h/ii)
+
+[^key-e11ffcc1bfe15972d1090a09cf69077c]: Textual amendment: Words in [reg. 10](https://www.legislation.gov.uk/uksi/2001/1420/regulation/10) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 42(h)(iii)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/42/h/iii)
+
+[^key-a6a8327d0d3ca4edf47a65237cc318fc]: Textual amendment: Words in [reg. 10](https://www.legislation.gov.uk/uksi/2001/1420/regulation/10) inserted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 42(h)(iv)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/42/h/iv)
+
+[^key-55c40f535ef6d7ed912005c027023846]: Textual amendment: [Reg. 11](https://www.legislation.gov.uk/uksi/2001/1420/regulation/11) omitted (31.12.2020) by virtue of [The Financial Services and Markets Act 2000 (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/632)](https://www.legislation.gov.uk/uksi/2019/632), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/632/regulation/1/3), [180(4)](https://www.legislation.gov.uk/uksi/2019/632/regulation/180/4) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11) (as amended by [S.I. 2019/1212](https://www.legislation.gov.uk/uksi/2019/1212), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/1/3), [22(3)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/22/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -1,0 +1,1025 @@
+---
+title: The Zoonotic Disease Eradication and Control (Amendment) (EU Exit) Regulations 2019
+id: uksi/2019/740
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2019-03-28'
+text_date: '2023-07-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2019/740
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2019/740/pdfs/uksiem_20190740_en.pdf
+- http://www.legislation.gov.uk/uksi/2019/740/pdfs/uksi_20190740_en.pdf
+- http://www.legislation.gov.uk/uksi/2019/740/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Zoonotic Disease Eradication and Control (Amendment) (EU Exit) Regulations 2019
+
+> Text as at 2023-07-01.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2019 No. 740
+
+Exiting The European Union
+
+Animals
+
+The Zoonotic Disease Eradication and Control (Amendment) (EU Exit) Regulations 2019
+
+Made
+
+28th March 2019
+
+Coming into force in accordance with regulation 1
+
+The Secretary of State makes these Regulations in exercise of the powers conferred by section 8(1) of, and paragraph 21(b) of Schedule 7 to, the European Union (Withdrawal) Act 2018 [^c23688121].
+
+In accordance with paragraph 1(1) of Schedule 7 to that Act, a draft of this instrument has been laid before Parliament and approved by a resolution of each House of Parliament.
+
+## PART 1 — Introductory
+
+### 1. Citation and commencement[^key-e4f237041c95a98b1df70e992480cbdb]
+
+These Regulations may be cited as the Zoonotic Disease Eradication and Control (Amendment) (EU Exit) Regulations 2019 and come into force on exit day.
+
+## PART 2 — Amendment of retained direct EU legislation
+
+### 2. Commission Decision [2003/644/EC](https://www.legislation.gov.uk/eud/2003/644)[^key-403aadd7281fc5899126dedd722507ee]
+
+(1) Commission Decision [2003/644/EC](https://www.legislation.gov.uk/eud/2003/644) establishing additional guarantees regarding salmonella for consignments to Finland and Sweden of breeding poultry and day-old chicks for introduction into flocks of breeding poultry or flocks of productive poultry is amended as follows.
+
+(2) In Article 1, after “Finland”, insert “ , Norway ”.
+
+(3) In Article 3—
+
+- (a) in paragraph 1, after “Finland”, insert “ , Norway ”;
+- (b) omit paragraph 2.
+
+(4) In Article 4, after “Finland”, insert “ , Norway ”.
+
+(5) In Article 5—
+
+- (a) in paragraph 1, after “Finland”, insert “ , Norway ”;
+- (b) omit paragraph 2.
+
+(6) Omit Articles 6 and 8.
+
+(7) In Annex 1—
+
+- (a) in point 2, for the words from “Annex III” to the end substitute “ point 2.1.1 of the Annex to Commission Regulation (EU) No 200/2010 implementing Regulation [(EC) No 2160/2003](https://www.legislation.gov.uk/eur/2003/2160) of the European Parliament and of the Council as regards a Union target for the reduction of the prevalence of *Salmonella* serotypes in adult breeding flocks of *Gallus gallus*. ”;
+- (b) in point 3—
+  - (i) in the first indent, for the words from “ISO 6579:1993” to the end, substitute “ ISO 6579 as it has effect for the time being ”;
+  - (ii) omit the second indent.
+
+### 3. Regulation [(EC) No 2160/2003](https://www.legislation.gov.uk/eur/2003/2160)[^key-8201fc97dd0085c7b23c6f86c8e8df44]
+
+(1) Regulation [(EC) No 2160/2003](https://www.legislation.gov.uk/eur/2003/2160) on the control of salmonella and other specified food-borne zoonotic agents is amended as follows.
+
+(2) In Article 1—
+
+- (a) in paragraph 2—
+  - (i) in point (b), for “Member States” substitute “ competent authorities ”;
+  - (ii) in point (d), for “intra-Community trade” substitute “ exports to member States ”;
+- (b) omit paragraph 4;
+- (c) in paragraph 5, for “Community” substitute “ retained EU law ”.
+
+(3) In Article 2—
+
+- (a) in paragraph 1, after “Regulation [(EC) No 178/2002](https://www.legislation.gov.uk/eur/2002/178)”, insert “other than the definitions of ‘appropriate authority’ and ‘third country’”;
+- (b) in paragraph 3—
+  - (i) in point (a), omit “and”;
+  - (ii) after point (b), insert—
+
+    > - (c) ‘the appropriate authority’ has the meaning given by Article 2A;
+    > - (d)[^key-1214712bdcd1cf6dad645cde34b5c642] ‘constituent territory’ means England, Wales or Scotland, as the case may be;
+    > - (e) ‘third country’ means a country or territory outside the British Islands;
+
+    .
+
+(4) After Article 2 insert—
+
+> **Article 2A — Definition of appropriate authority**
+>
+> **1.**
+>
+> Subject to paragraph 2, ‘the appropriate authority’ means—
+>
+> - (a) in relation to England, the Secretary of State;
+> - (b) in relation to Scotland, the Scottish Ministers;
+> - (c)[^key-7a1bbc23b1c2a6ee4adf7ce2ab5116dd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> - (d) in relation to Wales, the Welsh Ministers.
+>
+> **2.**
+>
+> But the appropriate authority is the Secretary of State if consent is given by—
+>
+> - (a) in relation to Scotland, the Scottish Ministers;
+> - (b)[^key-7a1bbc23b1c2a6ee4adf7ce2ab5116dd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> - (c) in relation to Wales, in respect of the power to make regulations under Articles 4, 5, 8 11 and 12, the Welsh Ministers.
+
+.
+
+(5) In Article 3—
+
+- (a) in paragraph 1—
+  - (i) for “Each Member State shall” substitute “ The appropriate authority must ”;
+  - (ii) omit the words from “and notify” to the end;
+- (b) in paragraph 2(b)—
+  - (i) omit “national”;
+  - (ii) omit the words from “and for” to the end;
+- (c) after paragraph 2 insert;
+
+  > **3.**
+  >
+  > The competent authorities must cooperate with the competent authorities in other constituent territories so as to secure the proper implementation of the requirements of this Regulation.
+
+  .
+
+(6) In the heading to Chapter 2, omit “COMMUNITY”.
+
+(7) In Article 4—
+
+- (a) in the heading, omit “Community”;
+- (b) for paragraph 1 substitute—
+
+  > **1.**
+  >
+  > The appropriate authority may, by regulations, set, modify or omit a target for the reduction of the prevalence of the zoonoses and zoonotic agents listed in Annex 1, column 1, in the animal populations listed in Annex 1, column 2 [^c23688131].
+
+  ;
+- (c) omit paragraph 3;
+- (d) for paragraph 4 substitute—
+
+  > **4.**
+  >
+  > Before making regulations under paragraph 1, the appropriate authority must—
+  >
+  > - (a) publish an analysis of the expected costs and benefits of any new target, taking into account the criteria laid down in paragraph 6(c);
+  > - (b) take into account data collected in accordance with Article 3(2)(b).
+  >
+  > **4A.**
+  >
+  > The competent authority must, if requested to do so by the appropriate authority, assist in the preparation of the analysis referred to in paragraph 4(a).
+
+  ;
+- (e) omit paragraph 5;
+- (f) in paragraph 6—
+  - (i) omit point (a);
+  - (ii) in point (b), in the words before point (i)—
+    - (aa) for the words from “Amendments” to “scope of” substitute “ The appropriate authority may, by regulations, amend Annex 1 to alter ”;
+    - (bb) omit “Community”;
+  - (iii) in point (c), for the words from “The criteria” to “include”, substitute “ Before making regulations under point (b), the appropriate authority must take into account ”;
+- (g) for paragraph 7 substitute—
+
+  > **7.**
+  >
+  > The appropriate authority may, by regulations, amend Annex 3.
+
+  ;
+- (h) omit paragraphs 8 and 9.
+
+(8) In Article 5—
+
+- (a) in the heading omit “National”;
+- (b) in paragraph 1—
+  - (i) for the first sentence substitute—
+
+    > To achieve a target set in accordance with Article 4, the competent authority must establish a control programme.
+
+    ;
+  - (ii) in the second sentence—
+    - (aa) omit “National”;
+    - (bb) for “each Member State” substitute “ the constituent territory ”;
+- (c) in paragraphs 2, 3 and 4, omit “National”;
+- (d) in paragraph 5—
+  - (i) omit “National”, in the first place it occurs;
+  - (ii) for “national”, in the second place it occurs, substitute “ constituent ”;
+- (e) for paragraph 6, substitute—
+
+  > **6.**
+  >
+  > The appropriate authority may, by regulations, amend the requirements and minimum sampling rules laid down in Annex 2.
+  >
+  > **6A.**
+  >
+  > Before making regulations under paragraph 6, the appropriate authority must take into account the criteria listed in Article 4(6)(c).
+
+  ;
+- (f) in paragraph 7—
+  - (i) for the first subparagraph substitute—
+
+    > Within six months of the establishment of a target under Article 4, the competent authority must submit its control programme to the appropriate authority and set out the measures to be implemented.
+
+    ;
+  - (ii) omit the second and third subparagraphs.
+
+(9) For Article 6 substitute—
+
+> **Article 6 — Approval of control programmes**
+>
+> **1.**
+>
+> After the competent authority submits a control programme in accordance with Article 5, the appropriate authority must establish whether it complies with this Regulation.
+>
+> **2.**
+>
+> After establishing the conformity of a control programme, the appropriate authority must approve the programme.
+>
+> **3.**
+>
+> Amendments to a previously approved programme may be approved to take account of the evolution of the situation in the constituent territory, in particular in the light of the results referred to in Article 5(3)(d).
+
+.
+
+(10) In Article 7—
+
+- (a) in paragraph 1, after “establish” insert “ operator ”;
+- (b) in paragraph 2—
+  - (i) in the first sentence—
+    - (aa) after “their”, in both places it occurs, insert “ operator ”;
+    - (bb) omit “national”;
+    - (cc) for “Member State”, substitute “ constituent territory ”;
+  - (ii) in the second sentence—
+    - (aa) for “different Member States”, substitute “ more than one constituent territory ”;
+    - (bb) for “each Member State” substitute “ each territory ”;
+- (c) in paragraph 3—
+  - (i) after “approve” insert “ operator ”;
+  - (ii) after “satisfied that the” insert “ operator ”;
+  - (iii) for “national control programme” substitute “ control programme established under Article 5 ”;
+- (d) in paragraph 4—
+  - (i) in the first sentence—
+    - (aa) for “Member States shall” substitute “ The competent authority must ”;
+    - (bb) after “approved” insert “ operator ”;
+  - (ii) in the second sentence, for “the Commission” substitute “ the appropriate authority ”;
+- (e) in paragraph 5, after “their” in the second place it occurs, insert “ operator ”.
+
+(11) In Article 8—
+
+- (a) for paragraph 1 substitute—
+
+  > **1.**
+  >
+  > The appropriate authority may, by regulations—
+  >
+  > - (a) require or permit specific control methods for the reduction of prevalence of zoonoses and zoonotic agents to be applied at the stage of the primary production of animals and other stages in the food chain;
+  > - (b) prescribe certain specific control methods that may not be used as part of control programmes.
+  >
+  > **1A.**
+  >
+  > Regulations under paragraph 1(a) may, in respect of those specific control methods—
+  >
+  > - (a) set conditions for their use;
+  > - (b) specify documents, procedures and minimum requirements.
+
+  ;
+- (b) in paragraph 2—
+  - (i) for “paragraph 1(a), (b) and (c) shall” substitute “ paragraphs 1(a) and 1A do ”;
+  - (ii) for “Community legislation” substitute “ retained EU law ”.
+
+(12)[^key-254fcf8badf18ccdb9b46dd41ddc1168] Omit Article 9.
+
+(13) In Article 10—
+
+- (a) in paragraph 1—
+  - (i) in the first sentence—
+    - (aa) omit “As from the dates mentioned in Annex I, column 5,”;
+    - (bb) for “Community legislation” substitute “ retained EU law ”;
+    - (cc) for “Member States are authorised to import those” substitute “ importation of ”;
+    - (dd) after “Regulation”, insert “ is authorised ”;
+    - (ee) for “Commission” substitute “ Secretary of State ”;
+  - (ii) omit the fourth sentence;
+- (b) for paragraph 2 substitute—
+
+  > **2.**
+  >
+  > The Secretary of State may, by regulations, amend the list of third countries provided for in retained EU law referred to in paragraph 1.
+  >
+  > **2A.**
+  >
+  > Before making regulations under paragraph 2 to add to the list, the Secretary of State must be satisfied that the programme which has been submitted meets the requirements set out in paragraph 1.
+
+  ;
+- (c) omit paragraph 3;
+- (d) in paragraph 4—
+  - (i) in the second sentence, omit the words from “, or, if necessary” to “Article 14(2)”;
+  - (ii) for the third sentence substitute—
+
+    > The date and result of testing must be included in any import certificates which are required for the importation into Great Britain[^key-b21fe4f4fc93de211f001e5cfe3136b7] of live animals or hatching eggs.
+
+    ;
+- (e) after paragraph 4 insert—
+
+  > **4A.**
+  >
+  > The Secretary of State may by regulations specify additional zoonoses or zoonotic agents which, for the purposes of paragraph 4, are to be treated as if they are listed in Annex 1, column 1.
+  >
+  > **4B.**
+  >
+  > The Secretary of State may not make regulations under paragraph 4A unless satisfied it is necessary to do so in order to achieve the objective of equivalent guarantees laid down in paragraph 1.
+
+  ;
+- (f) omit paragraph 5;
+- (g) in paragraph 6—
+  - (i) for “Community legislation” substitute “ retained EU law ”;
+  - (ii) for “Member States are authorised to import” substitute “ importation of ”;
+  - (iii) after “Regulation”, in the first place it occurs, insert “ is authorised ”;
+  - (iv) for “Commission” substitute “ Secretary of State ”.
+
+(14) In Article 11—
+
+- (a) omit paragraphs 1 and 2;
+- (b) in paragraph 3—
+  - (i) in the first sentence—
+    - (aa) for “Member States shall” substitute “ The appropriate authority may ”;
+    - (bb) omit “national”;
+  - (ii) omit the second sentence;
+  - (iii) for paragraph 4, substitute—
+
+    > **4.**
+    >
+    > The appropriate authority may, by regulations, make provision regarding—
+    >
+    > - (a) the responsibilities and tasks of reference laboratories;
+    > - (b) coordination between reference laboratories and laboratories designated under Article 12(1)(a).
+
+    .
+
+(15) In Article 12—
+
+- (a) in paragraph 1(b)—
+  - (i) for “EN/ISO” substitute “ ISO ”;
+  - (ii) omit “within 24 months of entry into force of this Regulation or”;
+- (b) in paragraph 2, omit “national”;
+- (c) in paragraph 3—
+  - (i) at the beginning insert “ Subject to paragraph 4, ”;
+  - (ii) omit the third subparagraph;
+- (d) after paragraph 3 insert—
+
+  > **4.**
+  >
+  > Where in the opinion of the appropriate authority it is necessary to do so, the appropriate authority may, by regulations, approve other methods for testing.
+
+  .
+
+(16) Omit Chapter 7.
+
+(17) Omit Article 17.
+
+(18) In Chapter 8, before Article 18, insert—
+
+> **Article 17A — Regulations: devolved legislative functions**
+>
+> **1.**
+>
+> This Article applies to regulations made under Article 4, 5, 8, 11 or 12.
+>
+> **2.**
+>
+> Regulations made by the Secretary of State or the Welsh Ministers are to be made by statutory instrument.
+>
+> **3.**
+>
+> For regulations made by the Scottish Ministers, see section 27 of the Interpretation and Legislative Reform (Scotland) Act 2010 [^c23688141].
+>
+> **4.[^key-b99f05e80d6a46254409c80801dfaa63]**
+>
+> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> **5.**
+>
+> A statutory instrument containing regulations made by the Secretary of State is subject to annulment in pursuance of a resolution of either House of Parliament.
+>
+> **6.**
+>
+> A statutory instrument containing regulations made by the Welsh Ministers is subject to annulment in pursuance of a resolution of the Welsh Parliament[^key-906ada92e1085e7fdbd9aab7b733f4d6].
+>
+> **7.**
+>
+> Regulations made by the Scottish Ministers are subject to the negative procedure (see section 28 of the Interpretation and Legislative Reform (Scotland) Act 2010).
+>
+> **8.[^key-b99f05e80d6a46254409c80801dfaa63]**
+>
+> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> **9.**
+>
+> Such regulations may—
+>
+> - (a) contain consequential, incidental, supplementary, transitional or saving provision (including provision amending, repealing or revoking enactments (which has the meaning given by section 20(1) of the European Union (Withdrawal) Act 2018));
+> - (b) make different provision for different purposes.
+>
+> **Article 17B — Regulations: consent required**
+>
+> **1.**
+>
+> This Article applies to regulations made under Article 10.
+>
+> **2.**
+>
+> The Secretary of State may only make regulations in relation to the whole of Great Britain[^key-1b8fc78857dad2349db897592449ceac] .
+>
+> **3.**
+>
+> The Secretary of State may not make regulations without the consent of—
+>
+> - (a) in relation to Wales, the Welsh Ministers;
+> - (b) in relation to Scotland, the Scottish Ministers;
+> - (c)[^key-f420e7a165c651559220eaa8af6d64c7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> **4.**
+>
+> Where either of the parties mentioned in paragraph (a) or (b)[^key-01cb85a6b5b43d5744323f3eb1c005f9] requests that the Secretary of State make regulations to which this Article applies, the Secretary of State must have regard to that request.
+>
+> **5.**
+>
+> Regulations made by the Secretary of State are to be made by statutory instrument.
+>
+> **6.**
+>
+> A statutory instrument containing regulations is subject to annulment in pursuance of a resolution of either House of Parliament.
+>
+> **7.**
+>
+> Such regulations may—
+>
+> - (a) contain consequential, incidental, supplementary, transitional or saving provision (including provision amending, repealing or revoking enactments (which has the meaning given by section 20(1) of the European Union (Withdrawal) Act 2018));
+> - (b) make different provision for different purposes.
+
+.
+
+(19) After Article 18, omit the words from “This Regulation” to “Member States”.
+
+(20) In Annex 1—
+
+- (a) in the heading to the table—
+  - (i) omit “Community”;
+  - (ii) for “are to”, substitute “ may ”;
+- (b) in the table—
+  - (i) omit columns 4 (date by which target must be established) and 5 (date from which testing must take place);
+  - (ii) omit the table note.
+
+(21) Annex 2 is amended in accordance with paragraphs (22) to (27).
+
+(22) In the heading to part A, omit “national”.
+
+(23) In part A—
+
+- (a) in the words before point (a), for “Member State” substitute “ constituent territory ”;
+- (b) in point 1.1, for the words from “Member State” to the end, substitute “ constituent territory ”;
+- (c) in point 1.9, for “national legislation, including any national provisions” substitute “ legislation ”;
+- (d) in point 1.10, omit “national”.
+
+(24) In part B, in point 2, for “Community legislation” substitute “ retained EU law ”.
+
+(25) In part C—
+
+- (a) in point 1, for “Commission Regulations [(EC) No 1003/2005](https://www.legislation.gov.uk/eur/2005/1003) and [(EC) No 584/2008](https://www.legislation.gov.uk/eur/2008/584)” substitute “ Commission Regulations [(EC) No 200/2010](https://www.legislation.gov.uk/eur/2010/200) and [(EC) No 1190/2012](https://www.legislation.gov.uk/eur/2012/1190) ”;
+- (b) in point 3, for “Community legislation” substitute “ retained EU law ”;
+- (c) in point 4—
+  - (i) for “Community legislation”, in both places it occurs, substitute “ retained EU law ”;
+  - (ii) omit “, once applicable,”;
+  - (iii) for the words from “Regulation [(EC) No 1774/2002](https://www.legislation.gov.uk/eur/2002/1774) laying” to the end, substitute “ Regulation [(EC) No 1069/2009](https://www.legislation.gov.uk/eur/2009/1069) of the European Parliament and of the Council laying down health rules as regards animal by-products and derived products not intended for human consumption. ”;
+- (d) in point 5, for “1774/2002” substitute “ 1069/2009 ”.
+
+(26) In part D—
+
+- (a) in point 1, omit “national”;
+- (b) in point 2—
+  - (i) in the first paragraph, for “Community legislation” substitute “ retained EU law ”;
+  - (ii) in the second paragraph—
+    - (aa) in point (a), for the words from “Commission Regulation [(EC) No 557/2007](https://www.legislation.gov.uk/eur/2007/557)” to the end substitute “ Commission Regulation [(EC) No 589/2008](https://www.legislation.gov.uk/eur/2008/589) laying down detailed rules for implementing Council Regulation [(EC) No 1234/2007](https://www.legislation.gov.uk/eur/2007/1234) as regards marketing standards for eggs; ”;
+    - (bb) in point (b), for “557/2007” substitute “ 589/2008 ”;
+- (c) in point 3—
+  - (i) for “Community legislation”, in both places it occurs, substitute “ retained EU law ”;
+  - (ii) omit “, once applicable,”;
+  - (iii) for “1774/2002” substitute “ 1069/2009 ”;
+- (d) in point 4, in the first paragraph—
+  - (i) in point (a), omit the words from “as a result” to the end;
+  - (ii) in point (b)—
+    - (aa) in the words before point (i), omit “national”;
+    - (bb) in point (i), for the words from “referred” to “samples)”, substitute “ that were presented at the meeting of the Standing Committee on the Food Chain and Animal Health on 15 July 2004 [^c23688171] ”.
+
+(27) In part E—
+
+- (a) in point 1, omit “From 1 December 2011,”;
+- (b) omit point 2;
+- (c) in point 3, for “Community legislation” substitute “ retained EU law ”.
+
+(28) In Annex 3—
+
+- (a) in the words before point 1, for “Community targets will” substitute “ targets ”;
+- (b) in point 1, for “through EC” substitute “by the appropriate authority's”.
+
+### 4. Commission Decision [2004/235/EC](https://www.legislation.gov.uk/eud/2004/235)[^key-5140bf89f9ea98d88ad1d7cce6be77f0]
+
+(1) Commission Decision [2004/235/EC](https://www.legislation.gov.uk/eud/2004/235) establishing additional guarantees regarding salmonella for consignments to Finland and Sweden of laying hens is amended as follows.
+
+(2) In Article 1, after “Finland”, insert “ , Norway ”.
+
+(3) In Article 3—
+
+- (a) in paragraph 1, after “Finland”, insert “ , Norway ”;
+- (b) omit paragraph 2.
+
+(4) Omit Articles 4 and 6.
+
+(5) In Annex 1—
+
+- (a) in point 4—
+  - (i) in the first indent, omit the words from “, or by” to the end;
+  - (ii) omit the second indent.
+
+### 5. Commission Decision [2004/665/EC](https://www.legislation.gov.uk/eud/2004/665)[^key-a26f56e74fe555a7faf51d12e45fffba][^key-dc6a6edfbdb7a9e5571e3495377964da]
+
+Commission Decision [2004/665/EC](https://www.legislation.gov.uk/eud/2004/665) concerning a baseline study on the prevalence of salmonella in laying flocks of *Gallus gallus* is revoked.
+
+### 6. Commission Regulation [(EC) No 1177/2006](https://www.legislation.gov.uk/eur/2006/1177)[^key-04601e407a135700d9dd4d7ddaced0b4]
+
+(1) Commission Regulation [(EC) No 1177/2006](https://www.legislation.gov.uk/eur/2006/1177) implementing Regulation [(EC) No 2160/2003](https://www.legislation.gov.uk/eur/2003/2160) of the European Parliament and of the Council as regards requirements for the use of specific control methods in the framework of the national programmes for the control of salmonella in poultry is amended as follows.
+
+(2) In Article 1, omit “national” in both places it occurs.
+
+(3) In Article 2—
+
+- (a) in paragraph 2—
+  - (i) in the words before point (a), for the words from “Article 5” to “Regulation 726/2004/EC” substitute “ the Veterinary Medicines Regulations 2013 [^c23688181] ”;
+  - (ii) in point (c), for “Member States” substitute “ the appropriate authority ”;
+- (b) after paragraph 4 insert—
+
+  > **5.**
+  >
+  > In this Article, ‘the appropriate authority’ means—
+  >
+  > - (a) in relation to England, the Secretary of State;
+  > - (b) in relation to Wales, the Welsh Ministers;
+  > - (c) in relation to Scotland, the Scottish Ministers;
+  > - (d)[^key-18f66a5d39e56016e4642b246e79b9c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  >
+  > but, in relation to Scotland, the appropriate authority is the Secretary of State if consent is given by the Scottish Ministers.
+
+  .
+
+(4) In Article 3—
+
+- (a) in paragraph 1, omit “national”;
+- (b) in paragraph 2—
+  - (i) omit “national”;
+  - (ii) for “Directive [2001/82/EC](https://www.legislation.gov.uk/eudr/2001/82)” substitute “ the Veterinary Medicines Regulations 2013 ”;
+- (c) in paragraph 3, in the first subparagraph, for the words from “at the latest” to “target” substitute “ as long as they did not demonstrate a prevalence below 10% based on the monitoring to follow up a target ”.
+
+(5) Omit Article 4.
+
+(6) After Article 4, omit the words from “This Regulation” to “Member States”.
+
+### 7. Commission Regulation (EU) No 200/2010[^key-f72ab4825fad9660a7042280a83cf8fe]
+
+(1) Commission Regulation (EU) No 200/2010 implementing Regulation [(EC) No 2160/2003](https://www.legislation.gov.uk/eur/2003/2160) of the European Parliament and of the Council as regards a Union target for the reduction of the prevalence of *Salmonella* serotypes in adult breeding flocks of *Gallus gallus* is amended as follows.
+
+(2) In Article 1—
+
+- (a) in each place it occurs (including in the heading), omit “Union”;
+- (b) in paragraph 1, in the second subparagraph—
+  - (i) for “for Member States with” substitute “ if there are ”;
+  - (ii) after “*Gallus gallus*” insert “ in the constituent territory ”;
+  - (iii) omit “, from 1 January 2010,”.
+
+(3) After Article 1 insert—
+
+> **Article 1A — Definition of constituent territory**
+>
+> In this Regulation, ‘constituent territory’ means England, Wales or Scotland, as the case may be[^key-286b6068df2f2f5a00387e84d5685f51].
+
+.
+
+(4) Omit Articles 2, 4 and 5.
+
+(5) After Article 5, omit the words from “This Regulation” to “Member States”.
+
+(6) The Annex is amended as follows.
+
+(7) In the heading, omit “Union”.
+
+(8) In point 1, omit the second sentence.
+
+(9) In point 2.1.1—
+
+- (a) in the second paragraph, for “the trade within the Union” substitute “ export to a member State or movement to Northern Ireland,[^key-6b76ecf388846c4ac3d77305f5cf2b18] ”;
+- (b) in the fourth paragraph—
+  - (i) omit “Union”;
+  - (ii) for “whole Member State” substitute “ constituent territory ”.
+
+(10) In point 2.1.2.3, in the first paragraph, in the words before point (a)—
+
+- (a) omit “Union”;
+- (b) for “whole Member State” substitute “ constituent territory ”.
+
+(11) In point 3.2, for the first paragraph, substitute—
+
+> The detection of the relevant *Salmonella* serotypes must be carried out according to ISO 6579-1 as it has effect for the time being.
+
+.
+
+(12) In point 3.4, for the words from “in accordance with” to the end, substitute “ in accordance with ISO 16140-2, as it has effect for the time being ”.
+
+(13) In point 4—
+
+- (a) in the first paragraph, omit “Union”;
+- (b) omit the fourth and fifth paragraphs.
+
+### 8. Commission Regulation (EU) No 517/2011[^key-4ed7482eb72fd8573ace93b77dce065d]
+
+(1) Commission Regulation (EU) No 517/2011 implementing Regulation [(EC) No 2160/2003](https://www.legislation.gov.uk/eur/2003/2160) of the European Parliament and of the Council as regards a Union target for the reduction of the prevalence of certain *Salmonella* serotypes in laying hens of *Gallus gallus* is amended as follows.
+
+(2) In Article 1—
+
+- (a) omit “Union” in each place it occurs;
+- (b) in paragraph 1—
+  - (i) in the first subparagraph, in point (b), for the words from “for” to “laying hens”, in the second place it occurs, substitute “ if there are fewer than 50 flocks of adult laying hens in the constituent territory ”;
+  - (ii) in the second subparagraph, omit the second sentence.
+
+(3) After Article 1 insert—
+
+> **Article 1A — Definition of constituent territory**
+>
+> In this Regulation, ‘constituent territory’ means England, Wales or Scotland, as the case may be[^key-78355fd39ae2b96288b668a26a6db617].
+
+.
+
+(4) Omit Articles 2 and 6.
+
+(5) After Article 6, omit the words from “This Regulation” to “Member States”.
+
+(6) In the Annex—
+
+- (a) in the heading, omit “Union”;
+- (b) in point 1, omit “national”;
+- (c) in point 2.1(c), omit the words from “any case” to “or”;
+- (d) in point 2.2.2, in the third paragraph, omit “Union”;
+- (e) in point 3.2, for the first paragraph substitute—
+
+  > The detection of *Salmonella* must be carried out according to ISO 6579-1, as it has effect for the time being.
+
+  ;
+- (f) in point 3.4, for the words from “in accordance with” to the end, substitute “ in accordance with ISO 16140-2, as it has effect for the time being ”;
+- (g) in point 3.5, for “Article 2 of Commission Decision [2007/407/EC](https://www.legislation.gov.uk/eud/2007/407)”, substitute “ Commission Implementing Decision [2013/652/EC](https://www.legislation.gov.uk/eud/2013/652) ”;
+- (h) in point 4.1, in the words before point (a), omit “Union”;
+- (i) omit point 4.3.
+
+### 9. Commission Regulation (EU) No 200/2012[^key-708233fbc525f15ace479a9d01bd03bb]
+
+(1) Commission Regulation (EU) No 200/2012 concerning a Union target for the reduction of *Salmonella enteritidis* and *Salmonella typhimurium* in flocks of broilers is amended as follows.
+
+(2) In Article 1, omit “Union” in each place it occurs (including in the heading).
+
+(3) After Article 1, insert—
+
+> **Article 1A — Definition of constituent territory**
+>
+> In this Regulation, ‘constituent territory’ means England, Wales or Scotland, as the case may be[^key-af1b43151fe4c181297692b30e67b155].
+
+.
+
+(4) Omit Articles 2 and 4.
+
+(5) In the Annex—
+
+- (a) in the heading, omit “Union”;
+- (b) in point 1, omit “national”;
+- (c) in point 2.2.1, in the third paragraph, in point (c), omit “national”;
+- (d) in point 2.2.3, in the second paragraph, omit “Union”;
+- (e) in point 3.1, in the sixth paragraph, for “EN/ISO” substitute “ ISO ”;
+- (f) in point 3.2, for the words from “according to” to the end, substitute “ according to ISO 6579-1, as it has effect for the time being ”;
+- (g) in point 3.4, for the words from “in accordance with” to the end, substitute “ in accordance with ISO 16140-2, as it has effect for the time being ”;
+- (h) in point 3.5, in the second paragraph, for “Article 2 of Commission Decision [2007/407/EC](https://www.legislation.gov.uk/eud/2007/407)” substitute “ Commission Implementing Decision 2013/652/EU ”;
+- (i) in point 4.1, omit “Union” in both places it occurs (including in the heading);
+- (j) in point 4.2, omit the first, second and fifth paragraphs.
+
+### 10. Commission Regulation (EU) No 1190/2012[^key-c2a97ca626fa274de6bf4f125e00b9de]
+
+(1) Commission Regulation (EU) No 1190/2012 concerning a Union target for the reduction of *Salmonella* Enteritidis and *Salmonella* Typhimurium in flocks of turkeys is amended as follows.
+
+(2) In Article 1—
+
+- (a) omit “Union” in each place it occurs (including in the heading);
+- (b) in paragraph 1, in the second subparagraph—
+  - (aa) for “for Member States with less than” substitute “ if there are fewer than ”;
+  - (bb) after “fattening turkeys”, in the first place where it occurs, insert “ in the constituent territory ”.
+
+(3) After Article 1 insert—
+
+> **Article 1A — Definition of constituent territory**
+>
+> In this Regulation, ‘constituent territory’ means England, Wales or Scotland, as the case may be[^key-c8d499febbc5d10061ed7a4ef161932a].
+
+.
+
+(4) Omit Articles 2 and 4.
+
+(5) After Article 4, omit the words from “This Regulation” to “Member States”.
+
+(6) In the Annex—
+
+- (a) in the heading, omit “Union”;
+- (b) in point 1, omit “national”;
+- (c) in point 2.1(a)—
+  - (i) in point (ii), in the third indent, for “the trade within the Union” substitute “export to a member State or movement to Northern Ireland[^key-4fc4020a9a437ee76f7bf37def2df545]”;
+  - (ii) in point (iii), for “the trade within the Union” substitute “export to a member State or movement to Northern Ireland[^key-6c3681b657052d865b882b04fd7443b0]”;
+  - (iii) in point (iv)—
+    - (aa) omit “Union”;
+    - (bb) for “whole Member State” substitute “ constituent territory ”;
+- (d) in point 2.2.1, in the fourth paragraph, in point (c), omit “national”;
+- (e) in point 2.2.3, in the second paragraph, omit “Union”;
+- (f) in point 3.1, omit the sixth paragraph;
+- (g) for point 3.2 substitute—
+
+  > **3.2.**
+  >
+  > **Detection method**
+  >
+  > The detection of *Salmonella* must be carried out according to ISO 6579-1, as it has effect for the time being.
+
+  ;
+- (h) in point 3.4, for the words from “in accordance” to the end, substitute “ in accordance with ISO 16140-2, as it has effect for the time being ”;
+- (i) in point 3.5, in the second paragraph, for “Article 2 of Commission Decision [2007/407/EC](https://www.legislation.gov.uk/eud/2007/407)” substitute “ Commission Implementing Decision 2013/652/EU ”;
+- (j) in point 4.1, omit “Union” in both places it occurs (including in the heading);
+- (k) omit points 4.2.1 and 4.2.2;
+- (l) in point 4.2.3, omit the third paragraph.
+
+### 11. Commission Implementing Decision 2013/652/EU[^key-6e2acc8b4671e13f86db5df4f45fd87e]
+
+(1) Commission Implementing Decision 2013/652/EU on the monitoring and reporting of antimicrobial resistance in zoonotic and commensal bacteria is amended as follows.
+
+(2) In Article 1—
+
+- (a) in the heading, after “Subject matter” insert “ , definitions ”;
+- (b) in paragraph 1, in the first subparagraph—
+  - (i) omit “harmonised”;
+  - (ii) omit the words from “to be” to the end;
+- (c) in paragraph 2, omit “harmonised”;
+- (d) after paragraph 2, insert—
+
+  > **3.**
+  >
+  > In this Decision, ‘appropriate authority’ means—
+  >
+  > - (a) in relation to England, the Secretary of State;
+  > - (b) in relation to Wales, the Welsh Ministers;
+  > - (c) in relation to Scotland, the Scottish Ministers;
+  > - (d) in relation to Northern Ireland, the Department for Agriculture, Environment and Rural Affairs;
+  >
+  > but, in relation to Scotland, the appropriate authority is the Secretary of State if consent is given by the Scottish Ministers.
+
+  .
+
+(3) In Article 2—
+
+- (a) in the heading, omit “by Member States”;
+- (b) in paragraphs 1 and 2, for “Member States shall”, substitute “ The appropriate authority must ”;
+- (c) in paragraph 3, for “Member States” substitute “ The appropriate authority ”.
+
+(4) In Article 3—
+
+- (a) in the words before point (a), for “a Member State” substitute “ the United Kingdom ”;
+- (b) in point (a), omit “national”.
+
+(5) In Article 5—
+
+- (a) for “Member States shall” substitute “ The appropriate authority must ”;
+- (b) for the words from “include” to the end, substitute “ publish an annual report on that assessment ”.
+
+(6) Omit Articles 6 to 9.
+
+(7) The Annex is amended as follows.
+
+(8) Part A is amended in accordance with paragraphs (9) to (18).
+
+(9) In point 1—
+
+- (a) in the first paragraph—
+  - (i) in the words before point (a), for “Member States shall” substitute “ The appropriate authority must ”;
+  - (ii) in point (a)—
+    - (aa) in point (i), omit “national”;
+    - (bb) in point (iv), for “Member State” substitute “ United Kingdom ”;
+  - (iii) in points (b) to (d), for “Member State”, in each place it occurs, substitute “ United Kingdom ”;
+  - (iv) in point (e), for “a Member State” substitute “ the appropriate authority ”;
+  - (v) in point (f)—
+    - (aa) in the words before point (i), for “a Member State” substitute “ the appropriate authority ”;
+    - (bb) in points (i) and (ii), for “Member State” substitute “ United Kingdom ”;
+- (b) in the second paragraph, for “Member State” substitute “ appropriate authority ”.
+
+(10) In point 2.1, for “Member States shall” substitute “ The appropriate authority must ”.
+
+(11) In point 2.2—
+
+- (a) in the first paragraph—
+  - (i) for “Member States shall”, substitute “ The appropriate authority must ”;
+  - (ii) for “in Member States with”, substitute “ if there is ”;
+  - (iii) after “per year”, in the second place where it occurs, insert “ in the United Kingdom ”;
+  - (iv) for “they” substitute “ its ”;
+- (b) in the second and third paragraphs, for “In those Member States where” substitute “ If ”;
+- (c) in the fourth paragraph—
+  - (i) for “Member States shall”, in both places it occurs, substitute “ the appropriate authority must ”;
+  - (ii) for “in Member States with”, substitute “ if there is ”;
+  - (iii) after “per year”, in the third place where it occurs, insert “ in the United Kingdom ”.
+
+(12) In point 2.3, in the third paragraph, for “Member State” substitute “ United Kingdom ”.
+
+(13) In point 2.3.2—
+
+- (a) in the heading, omit “national”;
+- (b) in the second paragraph, for “Member State”, in both places it occurs, substitute “ United Kingdom ”.
+
+(14) In point 2.3.3, for “Member States shall” substitute “ The appropriate authority must ”.
+
+(15) In point 3, in the first paragraph before Table 1, for “Member States shall” substitute “ The appropriate Minister must ”.
+
+(16) In point 4.1—
+
+- (a) in the third paragraph, for “Member State” substitute “ appropriate authority ”;
+- (b) in the fourth paragraph, for “Member States” substitute “ The appropriate authority ”.
+
+(17) In point 4.3, in the first paragraph, for the words from the beginning to “point 4.1,” substitute “ The appropriate authority ”.
+
+(18) In point 5, in the first paragraph—
+
+- (a) omit “harmonised” in both places it occurs;
+- (b) for “either at national or Union level” substitute “ at national level ”.
+
+(19) In Part B, in point 2, omit the second paragraph.
+
+## PART 3 — Amendment of the EEA Agreement
+
+### 12. The EEA Agreement[^key-bc4410abb138d2c5d9c7169d9be3779c]
+
+In Annex 1 to the EEA agreement, in Chapter 1—
+
+- (a) in Part 4.2, in points 71 and 77, omit the words from “The provisions of this Decision shall, for the purpose of the Agreement,” to the end;
+- (b) in Part 7.1, in point 8b, omit the words from “The provisions of the Regulation shall” to the end.
+
+## PART 4 — Amendment of secondary legislation
+
+### 13. Eggs and Chicks (Scotland) (No. 2) Regulations 2008[^key-ca1aaae0d73c619921be7af42242bcec]
+
+In Schedule 2A to the Eggs and Chicks (Scotland) (No. 2) Regulations 2008 [^c23688191], in the entry relating to “Point 1 of Part D of Annex II”, in column 3, omit “national”.
+
+### 14. Eggs and Chicks (England) Regulations 2009[^key-b8b50ef9620cab8744aa70765becfbac]
+
+In Schedule 3 to the Eggs and Chicks (England) Regulations 2009 [^c23688201], in the entry relating to “Point 1 of Part D of Annex II”, in column 3, omit “national”.
+
+### 15. Eggs and Chicks Regulations (Northern Ireland) 2010[^key-a8144453fc21192418d5cae06151090f]
+
+In Schedule 3 to the Eggs and Chicks Regulations (Northern Ireland) 2010 [^c23688211], in the entry relating to “Point 1 of Part D of Annex II”, in column 3, omit “national”.
+
+### 16. Amendment of the Animal Health (Miscellaneous Fees) (Scotland) Regulations 2018[^key-17fb545058b34ca7c986b864906d29f3]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 17. Amendment of the Animal Health (Miscellaneous Fees) (England) Regulations 2018[^key-a5ebe936b9a1a153e51438707eba6f58]
+
+(1) Regulation 4 of the Animal Health (Miscellaneous Fees) (England) Regulations 2018 [^c23688231] is amended as follows.
+
+(2) In the title, omit “national”.
+
+(3) In paragraph (1), in the words before subparagraph (a), omit “National”.
+
+## PART 5 — Transitional provision
+
+### 18.[^key-d6421c1c8879b08548caf6023a7d5073]
+
+(1) This regulation applies to a national control programme which, before exit day, was established by the United Kingdom in accordance with Article 5 of Regulation 2160/2003 on the control of salmonella and other specified food-borne zoonotic agents and approved by the Commission in accordance with Article 6 of that Regulation.
+
+(2) A national control programme to which this regulation applies is to be treated, in each constituent territory, as if it were a control programme approved by the appropriate authority in accordance with Article 6 of Regulation 2160/2003 (as amended by these Regulations).
+
+### 19.[^key-37f70fd7261d132c3d43bfc7c3b25f34]
+
+(1) This regulation applies to a control programme which, before exit day, was approved by a competent authority in accordance with Article 7(3) of Regulation 2160/2003.
+
+(2) A control programme to which this regulation applies is to be treated, in each constituent territory, as if it were an operator control programme approved by a competent authority in accordance with Article 7(3) of Regulation 2160/2003 (as amended by these Regulations).
+
+### 20.[^key-8fe061a822d8b2f264bdee70c28fd96c]
+
+(1) This regulation applies to a laboratory which, before exit day, was designated in accordance with Article 11 of Regulation 2160/2003.
+
+(2) A laboratory to which this regulation applies is to be treated, in each constituent territory, as if it were a reference laboratory designated by the appropriate authority in accordance with Article 11 of Regulation 2160/2003 (as amended by these Regulations).
+
+Gardiner of Kimble
+
+Parliamentary Under Secretary of State
+
+Department for Environment, Food and Rural Affairs
+
+*(This note is not part of the Regulations)*
+
+These Regulations are made in exercise of the powers conferred by section 8(1) of the European Union (Withdrawal) Act 2018 (c. 16) in order to address failures of retained EU law to operate effectively and other deficiencies (in particular under section 8(2)(b), (c) and (g)) arising from the withdrawal of the United Kingdom from the European Union.
+
+Part 2 makes amendments to retained EU law in relation to the monitoring and control of zoonotic disease, particularly salmonella, which are necessary as a result of the withdrawal of the United Kingdom from the European Union.
+
+Parts 3 and 4 make consequential amendments to the EEA Agreement and secondary legislation respectively.
+
+Part 5 of these Regulations contains a transitional provision which ensures the continued validity of control programmes and designations of reference laboratories which exist before exit day.
+
+An impact assessment has not be produced for this instrument as no, or no significant, impact on the private or voluntary sector is foreseen.
+
+## Annotations
+
+[^c23688121]: Marginal citation: [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16).
+
+[^key-e4f237041c95a98b1df70e992480cbdb]: Commencement: Reg. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^key-403aadd7281fc5899126dedd722507ee]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^key-8201fc97dd0085c7b23c6f86c8e8df44]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^key-1214712bdcd1cf6dad645cde34b5c642]: Textual amendment: Words in reg. 3(3)(b)(ii) substituted (31.12.2020 immediately before IP completion day) by [The Aquatic Animal Health and Alien Species in Aquaculture, Animals, and Marketing of Seed, Plant and Propagating Material (Legislative Functions and Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1463)](https://www.legislation.gov.uk/uksi/2020/1463), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/1/2/a), [7(2)(a)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/7/2/a)
+
+[^key-7a1bbc23b1c2a6ee4adf7ce2ab5116dd]: Textual amendment: Words in reg. 3(4) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Aquatic Animal Health and Alien Species in Aquaculture, Animals, and Marketing of Seed, Plant and Propagating Material (Legislative Functions and Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1463)](https://www.legislation.gov.uk/uksi/2020/1463), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/1/2/a), [7(2)(b)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/7/2/b)
+
+[^c23688131]: Marginal citation: Targets are established by Commission Regulation (EU) No 200/2010 (as regards the reduction of the prevalence of *Salmonella* serotypes in adult breeding flocks of *Gallus gallus*), Commission Regulation (EU) No 517/2011 (as regards the reduction of the prevalence of certain *Salmonella* serotypes in laying hens of *Gallus gallus*), Commission Regulation (EU) No 200/2012 (concerning the reduction of *Salmonella enteritidis* and *Salmonella typhimurium* in flocks of broilers) and Commission Regulation (EU) No 1190/2012 (concerning the reduction of *Salmonella* Enteritidis and *Salmonella* Typhimurium in flocks of turkeys).
+
+[^key-254fcf8badf18ccdb9b46dd41ddc1168]: Textual amendment: Reg. 3(12) substituted (31.12.2020 immediately before IP completion day) by [The Aquatic Animal Health and Alien Species in Aquaculture, Animals, and Marketing of Seed, Plant and Propagating Material (Legislative Functions and Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1463)](https://www.legislation.gov.uk/uksi/2020/1463), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/1/2/a), [7(2)(c)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/7/2/c)
+
+[^key-b21fe4f4fc93de211f001e5cfe3136b7]: Textual amendment: Words in reg. 3(13)(d)(ii) substituted (31.12.2020 immediately before IP completion day) by [The Aquatic Animal Health and Alien Species in Aquaculture, Animals, and Marketing of Seed, Plant and Propagating Material (Legislative Functions and Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1463)](https://www.legislation.gov.uk/uksi/2020/1463), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/1/2/a), [7(2)(d)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/7/2/d)
+
+[^c23688141]: Marginal citation: [2010 asp 10](https://www.legislation.gov.uk/asp/2010/10).
+
+[^key-b99f05e80d6a46254409c80801dfaa63]: Textual amendment: Words in reg. 3(18) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Aquatic Animal Health and Alien Species in Aquaculture, Animals, and Marketing of Seed, Plant and Propagating Material (Legislative Functions and Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1463)](https://www.legislation.gov.uk/uksi/2020/1463), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/1/2/a), [7(2)(e)(i)(aa)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/7/2/e/i/aa)
+
+[^key-906ada92e1085e7fdbd9aab7b733f4d6]: Textual amendment: Words in reg. 3(18) substituted (31.12.2020 immediately before IP completion day) by [The Aquatic Animal Health and Alien Species in Aquaculture, Animals, and Marketing of Seed, Plant and Propagating Material (Legislative Functions and Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1463)](https://www.legislation.gov.uk/uksi/2020/1463), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/1/2/a), [7(2)(e)(i)(bb)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/7/2/e/i/bb)
+
+[^key-1b8fc78857dad2349db897592449ceac]: Textual amendment: Words in reg. 3(18) substituted (31.12.2020 immediately before IP completion day) by [The Aquatic Animal Health and Alien Species in Aquaculture, Animals, and Marketing of Seed, Plant and Propagating Material (Legislative Functions and Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1463)](https://www.legislation.gov.uk/uksi/2020/1463), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/1/2/a), [7(2)(e)(ii)(aa)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/7/2/e/ii/aa)
+
+[^key-f420e7a165c651559220eaa8af6d64c7]: Textual amendment: Words in reg. 3(18) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Aquatic Animal Health and Alien Species in Aquaculture, Animals, and Marketing of Seed, Plant and Propagating Material (Legislative Functions and Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1463)](https://www.legislation.gov.uk/uksi/2020/1463), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/1/2/a), [7(2)(e)(ii)(bb)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/7/2/e/ii/bb)
+
+[^key-01cb85a6b5b43d5744323f3eb1c005f9]: Textual amendment: Words in reg. 3(18) substituted (31.12.2020 immediately before IP completion day) by [The Aquatic Animal Health and Alien Species in Aquaculture, Animals, and Marketing of Seed, Plant and Propagating Material (Legislative Functions and Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1463)](https://www.legislation.gov.uk/uksi/2020/1463), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/1/2/a), [7(2)(e)(ii)(cc)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/7/2/e/ii/cc)
+
+[^c23688171]: Marginal citation: Technical specifications available at: randd.defra.gov.uk/Document.aspx?Document=OZ0321\_7853\_FRA.pdf.
+
+[^key-5140bf89f9ea98d88ad1d7cce6be77f0]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^key-a26f56e74fe555a7faf51d12e45fffba]: Commencement: Reg. 5 in force on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1
+
+[^key-dc6a6edfbdb7a9e5571e3495377964da]: Commencement: Reg. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^key-04601e407a135700d9dd4d7ddaced0b4]: Commencement: Reg. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^c23688181]: Marginal citation: [S.I. 2013/2033](https://www.legislation.gov.uk/uksi/2013/2033), to which there are amendments not relevant to these Regulations.
+
+[^key-18f66a5d39e56016e4642b246e79b9c3]: Textual amendment: Words in reg. 6(3)(b) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Aquatic Animal Health and Alien Species in Aquaculture, Animals, and Marketing of Seed, Plant and Propagating Material (Legislative Functions and Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1463)](https://www.legislation.gov.uk/uksi/2020/1463), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/1/2/a), [7(3)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/7/3)
+
+[^key-f72ab4825fad9660a7042280a83cf8fe]: Commencement: Reg. 7 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^key-286b6068df2f2f5a00387e84d5685f51]: Textual amendment: Words in reg. 7(3) substituted (31.12.2020 immediately before IP completion day) by [The Aquatic Animal Health and Alien Species in Aquaculture, Animals, and Marketing of Seed, Plant and Propagating Material (Legislative Functions and Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1463)](https://www.legislation.gov.uk/uksi/2020/1463), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/1/2/a), [7(4)(a)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/7/4/a)
+
+[^key-6b76ecf388846c4ac3d77305f5cf2b18]: Textual amendment: Words in reg. 7(9)(a) substituted (31.12.2020 immediately before IP completion day) by [The Aquatic Animal Health and Alien Species in Aquaculture, Animals, and Marketing of Seed, Plant and Propagating Material (Legislative Functions and Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1463)](https://www.legislation.gov.uk/uksi/2020/1463), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/1/2/a), [7(4)(b)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/7/4/b)
+
+[^key-4ed7482eb72fd8573ace93b77dce065d]: Commencement: Reg. 8 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^key-78355fd39ae2b96288b668a26a6db617]: Textual amendment: Words in reg. 8(3) substituted (31.12.2020 immediately before IP completion day) by [The Aquatic Animal Health and Alien Species in Aquaculture, Animals, and Marketing of Seed, Plant and Propagating Material (Legislative Functions and Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1463)](https://www.legislation.gov.uk/uksi/2020/1463), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/1/2/a), [7(5)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/7/5)
+
+[^key-708233fbc525f15ace479a9d01bd03bb]: Commencement: Reg. 9 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^key-af1b43151fe4c181297692b30e67b155]: Textual amendment: Words in reg. 9(3) substituted (31.12.2020 immediately before IP completion day) by [The Aquatic Animal Health and Alien Species in Aquaculture, Animals, and Marketing of Seed, Plant and Propagating Material (Legislative Functions and Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1463)](https://www.legislation.gov.uk/uksi/2020/1463), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/1/2/a), [7(6)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/7/6)
+
+[^key-c2a97ca626fa274de6bf4f125e00b9de]: Commencement: Reg. 10 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^key-c8d499febbc5d10061ed7a4ef161932a]: Textual amendment: Words in reg. 10(3) substituted (31.12.2020 immediately before IP completion day) by [The Aquatic Animal Health and Alien Species in Aquaculture, Animals, and Marketing of Seed, Plant and Propagating Material (Legislative Functions and Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1463)](https://www.legislation.gov.uk/uksi/2020/1463), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/1/2/a), [7(7)(a)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/7/7/a)
+
+[^key-4fc4020a9a437ee76f7bf37def2df545]: Textual amendment: Words in reg. 10(6)(c)(i) substituted (31.12.2020 immediately before IP completion day) by [The Aquatic Animal Health and Alien Species in Aquaculture, Animals, and Marketing of Seed, Plant and Propagating Material (Legislative Functions and Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1463)](https://www.legislation.gov.uk/uksi/2020/1463), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/1/2/a), [7(7)(b)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/7/7/b)
+
+[^key-6c3681b657052d865b882b04fd7443b0]: Textual amendment: Words in reg. 10(6)(c)(ii) substituted (31.12.2020 immediately before IP completion day) by [The Aquatic Animal Health and Alien Species in Aquaculture, Animals, and Marketing of Seed, Plant and Propagating Material (Legislative Functions and Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1463)](https://www.legislation.gov.uk/uksi/2020/1463), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/1/2/a), [7(7)(b)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/7/7/b)
+
+[^key-6e2acc8b4671e13f86db5df4f45fd87e]: Commencement: Reg. 11 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^key-bc4410abb138d2c5d9c7169d9be3779c]: Commencement: Reg. 12 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^key-ca1aaae0d73c619921be7af42242bcec]: Commencement: Reg. 13 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^c23688191]: Marginal citation: [S.S.I. 2008/395](https://www.legislation.gov.uk/ssi/2008/395), amended by [S.S.I. 2010/450](https://www.legislation.gov.uk/ssi/2010/450); there are other amended instruments but none is relevant.
+
+[^key-b8b50ef9620cab8744aa70765becfbac]: Commencement: Reg. 14 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^c23688201]: Marginal citation: [S.I. 2009/2163](https://www.legislation.gov.uk/uksi/2009/2163), to which there are amendments not relevant to these Regulations.
+
+[^key-a8144453fc21192418d5cae06151090f]: Commencement: Reg. 15 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^c23688211]: Marginal citation: S.R. [2010 No. 125](https://www.legislation.gov.uk/ukcm/2010/125), to which there are amendments not relevant to these Regulations.
+
+[^key-17fb545058b34ca7c986b864906d29f3]: Textual amendment: Reg. 16 revoked (S.) (1.7.2023) by [The Animal By-Products and Animal Health (Miscellaneous Fees) (Scotland) Regulations 2023 (S.S.I. 2023/198)](https://www.legislation.gov.uk/ssi/2023/198), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2023/198/regulation/1/1), [11(d)](https://www.legislation.gov.uk/ssi/2023/198/regulation/11/d)
+
+[^key-a5ebe936b9a1a153e51438707eba6f58]: Commencement: Reg. 17 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^c23688231]: Marginal citation: [S.I. 2018/664](https://www.legislation.gov.uk/uksi/2018/664).
+
+[^key-d6421c1c8879b08548caf6023a7d5073]: Commencement: Reg. 18 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^key-37f70fd7261d132c3d43bfc7c3b25f34]: Commencement: Reg. 19 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^key-8fe061a822d8b2f264bdee70c28fd96c]: Commencement: Reg. 20 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)

@@ -1,0 +1,46 @@
+---
+title: Charities Act 2011, section 292C
+act: Charities Act 2011
+section: 292C
+status: revised
+text_date: '2026-10-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2011/25/section/292C
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Charities Act 2011, section 292C
+
+> Text as at 2026-10-01.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 292C. Charity trustees' duties in relation to social investments[^key-0491c66dccba46479a332dfbead7bc05]
+
+*Extent: E+W+S+N.I.*
+
+(1) This section applies in relation to social investments that are made after section 292B comes into force, whether or not made by the exercise of the power conferred by section 292B.
+
+(2) The charity trustees of a charity must, before exercising a power to make a social investment—
+
+- (a) consider whether in all the circumstances any advice about the proposed social investment ought to be obtained;
+- (b) obtain and consider any advice they conclude ought to be obtained; and
+- (c) satisfy themselves that it is in the interests of the charity to make the social investment, having regard to the benefit they expect it to achieve for the charity (by directly furthering the charity's purposes and achieving a financial return).
+
+(3) The charity trustees of a charity must from time to time review the charity's social investments.
+
+(4) When carrying out a review the charity trustees must—
+
+- (a) consider whether any advice about the social investments (or any particular social investment) ought to be obtained; and
+- (b) obtain and consider any advice they conclude ought to be obtained.
+
+(5) The duties under this section may not be restricted or excluded by the charity's trusts.
+
+(6) In the case of an unincorporated charity, the duties under this section apply in relation to relevant social investments in place of any duties under sections 4 and 5 of the Trustee Act 2000 that would otherwise apply.
+
+(7) In subsection (6) “**relevant social investments**” means social investments that are investments for the purposes of Part 2 of the Trustee Act 2000.
+
+## Annotations
+
+[^key-0491c66dccba46479a332dfbead7bc05]: Textual amendment: Pt. 14A inserted (31.7.2016) by [Charities (Protection and Social Investment) Act 2016 (c. 4)](https://www.legislation.gov.uk/ukpga/2016/4), [ss. 15(1)](https://www.legislation.gov.uk/ukpga/2016/4/section/15/1), [17(4)](https://www.legislation.gov.uk/ukpga/2016/4/section/17/4); [S.I. 2016/815](https://www.legislation.gov.uk/uksi/2016/815), [reg. 2(k)](https://www.legislation.gov.uk/uksi/2016/815/regulation/2/k)

@@ -1,0 +1,150 @@
+---
+title: The Water Quality and Supply (Fees) Order 2016
+id: uksi/2016/303
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2016-03-02'
+text_date: '2020-03-27'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2016/303
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2016/303/pdfs/uksiem_20160303_en.pdf
+- http://www.legislation.gov.uk/uksi/2016/303/pdfs/uksi_20160303_en.pdf
+- http://www.legislation.gov.uk/uksi/2016/303/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Water Quality and Supply (Fees) Order 2016
+
+> Text as at 2020-03-27.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2016 No. 303
+
+Water Industry, England And Wales
+
+Fees And Charges, England And Wales
+
+The Water Quality and Supply (Fees) Order 2016
+
+Made
+
+2nd March 2016
+
+Laid before Parliament
+
+7th March 2016
+
+Coming into force
+
+1st April 2016
+
+The Secretary of State makes the following Order in exercise of the powers conferred by section 86ZA(1) and (4) of the Water Industry Act 1991[^f00001].[^key-320969523c1183d4062bf04c295682f4]
+
+## 1. Citation and commencement
+
+This Order may be cited as the Water Quality and Supply (Fees) Order 2016 and comes into force on 1st April 2016.
+
+## 2. Interpretation
+
+In this Order—
+
+- “the 1991 Act” means the Water Industry Act 1991;
+- “inspector” means a person appointed under section 86(1) of the 1991 Act (assessors for the enforcement of water quality)[^f00002];
+- “relevant water supplier” means—
+  - (a) a company appointed as a water undertaker[^f00003] whose area is wholly or mainly in England; or
+  - (b) a company which is the holder of a water supply licence within the meaning of section 17A of the 1991 Act[^f00004] (licensing of water suppliers) which is using the supply system[^f00005] of a water undertaker whose area is wholly or mainly in England.
+
+## 3. Fees
+
+(1) The Chief Inspector of Drinking Water[^f00006] may charge a relevant water supplier a fee, payable on invoice, for the exercise of the functions in column 1 of the table in the Schedule by an inspector.
+
+(2) The amount of the fee is determined in accordance with the corresponding entry for the function in column 2 of the table in the Schedule.
+
+(3) If a function specified in paragraph (b), (c) or (d) of column 1 of the table in the Schedule is exercised by more than one inspector the time taken by each inspector shall be aggregated for the purpose of calculating the amount of the fee that is payable.
+
+## 4. Revocation and savings
+
+(1) The Public Bodies (Water Supply and Water Quality Fees) Order 2013[^f00007] (“the 2013 Order”) is revoked.
+
+(2) The 2013 Order continues to have effect in relation to the exercise by an inspector of a function listed in column 1 of the table in the Schedule to that Order before 1st April 2016.
+
+## 5. Review
+
+By 1st April 2021, and subsequently at intervals not exceeding 5 years from that date, in accordance with section 30 of the Small Business, Enterprise and Employment Act 2015[^f00008] the Secretary of State must—
+
+- (a) carry out a review of this Order;
+- (b) set out the conclusions of the review in a report; and
+- (c) publish the report.
+
+Rory Stewart
+
+Parliamentary Under Secretary of State
+
+Department for Environment, Food and Rural Affairs
+
+## SCHEDULE — FEES FOR THE PERFORMANCE OF FUNCTIONS UNDER SECTION 86 OF THE WATER INDUSTRY ACT 1991
+
+Article 3
+
+Table
+
+| *1*<br>*Function* | *2*<br>*Fee* |
+| --- | --- |
+| - (a) Checking that the sampling and analysis arrangements for water samples collected by the relevant water supplier comply with—<br>  - (i) the Water Supply (Water Quality) Regulations 2016[^key-3e54fb717deae50f731b00336d898de1];<br>  - (ii) section 68 of the 1991 Act (duties of water undertakers and licensed water suppliers with respect to water quality)[^f00010]; and<br>  - (iii) any requirements for sample data required to be provided under section 202 of the 1991 Act (duties of undertakers to furnish the Secretary of State with information)[^f00011]. | £55 for each group of 100 water sample results received and checked. |
+| - (a) Checking that—<br>  - (i) the relevant water supplier’s water supply management arrangements comply with—<br>    - (aa) the Water Supply (Water Quality) Regulations 2016;<br>    - (bb) section 37 of the 1991 Act (general duty to maintain water supply system, etc.)[^f00012];<br>    - (cc) section 68 of the 1991 Act; and<br>  - (ii) the relevant water supplier has complied with any requirement of the Secretary of State to furnish information about these arrangements under section 202 of the 1991 Act. | £65 for each complete hour during which an inspector exercises the function. |
+| - (a) In relation to a relevant water supplier—<br>  - (i) investigating an event, incident, emergency or other matter where any of those matters indicate that that water supplier may not have complied with—<br>    - (aa) the Water Supply (Water Quality) Regulations 2016;<br>    - (bb) section 37 of the 1991 Act;<br>    - (cc) section 68 of the 1991 Act; and<br>  - (ii) checking that such an event, incident, emergency or other matter has been notified by the relevant water supplier in compliance with any requirement of the Secretary of State to furnish such information under section 202 of the 1991 Act. | £65 for each complete hour during which an inspector exercises the function. |
+| - (a) In relation to a relevant water supplier—<br>  - (i) investigating a consumer complaint about the quality or sufficiency of water where the complaint indicates that that water supplier may not have complied with—<br>    - (aa) Water Supply (Water Quality) Regulations 2016;<br>    - (bb) section 37 of the 1991 Act;<br>    - (cc) section 68 of the 1991 Act; and<br>  - (ii) checking that any requirement of the Secretary of State to furnish information about such complaints under section 202 of the 1991 Act has been complied with. | £65 for each complete hour during which an inspector exercises the function. |
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order provides for fees to be payable, and sets out how the amounts of such fees are to be determined, for the exercise of certain functions under the Water Industry Act [1991 (c.56)](https://www.legislation.gov.uk/ukpga/1991/56) by an inspector appointed under that Act. The functions are related to the following investigations and reporting requirements—
+
+- (a) checking water sampling and analysis arrangements;
+- (b) checking water supply management arrangements;
+- (c) investigating an event, incident, emergency or other matter arising from the quality or sufficiency of water;
+- (d) checking the handling and reporting of consumer complaints about water quality or sufficiency; and
+- (e) checking compliance with requirements to furnish information to, or to notify, the Secretary of State concerning these arrangements and matters.
+
+Article 4 revokes the Public Bodies (Water Supply and Water Quality Fees) Order 2013 ([S.I. 2013/277](https://www.legislation.gov.uk/uksi/2013/277), “the 2013 Order”).
+
+Article 5 requires the Secretary of State to review the operation and effect of the Order, and to publish a report about this, before 1st April 2021 (and thereafter at 5-yearly intervals from that date).
+
+An impact assessment has not been produced for this Order as it merely transposes existing charging provisions from the 2013 Order, which was subject to full impact assessment. Consequently, no additional, or no significant additional, impact on the private, voluntary or public sectors is foreseen as a result of this Order.
+
+## Annotations
+
+[^f00001]: Footnote: [1991 c.56](https://www.legislation.gov.uk/ukpga/1991/56). Section 86ZA was inserted by section 40 of the Water Act [2014 (c.21)](https://www.legislation.gov.uk/ukpga/2014/21).
+
+[^key-320969523c1183d4062bf04c295682f4]: Modification: Order applied (Isles of Scilly) (27.3.2020) by [The Isles of Scilly (Application of Water Legislation) Order 2020 (S.I. 2020/214)](https://www.legislation.gov.uk/uksi/2020/214), [arts. 2(1)](https://www.legislation.gov.uk/uksi/2020/214/article/2), [5(v)](https://www.legislation.gov.uk/uksi/2020/214/article/5/v)
+
+[^f00002]: Footnote: Section 86(1) was amended by sections 57 and 101 of, and Schedules 8 and 9 to, the Water Act [2003 (c.37)](https://www.legislation.gov.uk/ukpga/2003/37).
+
+[^f00003]: Footnote: See section 6 of the Water Industry Act 1991 (“the 1991 Act”) (appointment of relevant undertakers).
+
+[^f00004]: Footnote: Section 17A was inserted by section 56 of, and Schedule 4 to, the Water Act 2003. It was substituted by section 1 of the Water Act 2014, but not all of the substituted provisions have been commenced.
+
+[^f00005]: Footnote: See section 17B of the 1991 Act for the meaning of “supply system”. Section 17B was inserted by section 56 of, and Schedule 4 to, the Water Act 2003. Sections 2, 5 and 56 of, and Schedules 5 and 7 to, the Water Act 2014 make further amendments to section 17B which have yet to be commenced.
+
+[^f00006]: Footnote: See section 86(1A) of the 1991 Act for the meaning of “Chief Inspector of Drinking Water”. Section 86(1A) was inserted by section 57 of the Water Act 2003. The functions under section 86 (except those under subsection (1A)) were made exercisable by the National Assembly for Wales (“the Assembly”) to the same extent as the powers, duties and other provisions to which section 86 applies are exercisable by the Assembly by article 2 of, and Schedule 1 to, the National Assembly for Wales (Transfer of Functions) Order 1999 ([S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672)). The functions conferred on the Assembly are exercisable by Welsh Ministers by virtue of section 162 of, and paragraph 30 of Schedule 11 to, the Government of Wales Act [2006 (c.32)](https://www.legislation.gov.uk/ukpga/2006/32).
+
+[^f00007]: Footnote: [S.I. 2013/277](https://www.legislation.gov.uk/uksi/2013/277).
+
+[^f00008]: Footnote: [2015 c.26](https://www.legislation.gov.uk/ukpga/2015/26).
+
+[^key-3e54fb717deae50f731b00336d898de1]: Textual amendment: Words in Sch. substituted (27.6.2016) by [The Water Supply (Water Quality) Regulations 2016 (S.I. 2016/614)](https://www.legislation.gov.uk/uksi/2016/614), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/614/regulation/1/1), [Sch. 6](https://www.legislation.gov.uk/uksi/2016/614/schedule/6) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/614/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2016/614/regulation/1/3))
+
+[^f00010]: Footnote: Section 68 was amended by Schedule 8 to the Water Act 2003.
+
+[^f00011]: Footnote: Section 202 was amended by: Schedule 22 to the Environment Act [1995 (c.25)](https://www.legislation.gov.uk/ukpga/1995/25), Schedule 8 to the Water Act 2003, [S.I. 2013/755](https://www.legislation.gov.uk/uksi/2013/755) and Schedule 23 to the Deregulation Act [2015 (c.20)](https://www.legislation.gov.uk/ukpga/2015/20).
+
+[^f00012]: Footnote: Section 37 was amended by section 36 of the Water Act 2003.

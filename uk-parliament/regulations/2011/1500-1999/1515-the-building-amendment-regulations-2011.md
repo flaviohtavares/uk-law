@@ -1,0 +1,132 @@
+---
+title: The Building (Amendment) Regulations 2011
+id: uksi/2011/1515
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2011-06-15'
+text_date: '2013-01-09'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2011/1515
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2011/1515/pdfs/uksiem_20111515_en.pdf
+- http://www.legislation.gov.uk/uksi/2011/1515/pdfs/uksi_20111515_en.pdf
+- http://www.legislation.gov.uk/uksi/2011/1515/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Building (Amendment) Regulations 2011
+
+> Text as at 2013-01-09.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+This Statutory Instrument has been printed in substitution of the SI of the same number and is being issued free of charge to all known recipients of that Statutory Instrument.
+
+2011 No. 1515
+
+Building And Buildings, England And Wales
+
+The Building (Amendment) Regulations 2011
+
+Made
+
+15th June 2011
+
+Laid before Parliament
+
+22nd June 2011
+
+Coming into force
+
+15th July 2011
+
+The Secretary of State makes the following Regulations in exercise of the powers conferred by section 1(1) and paragraphs 1, 4, 4A, 7, 8 and 10 of Schedule 1 to the Building Act 1984[^f00001], having consulted, in accordance with section 14(3) of that Act, the Building Regulations Advisory Committee and such other bodies as appear to the Secretary of State to be representative of the interests concerned.
+
+## 1. Citation, commencement and interpretation[^key-9e4891cc01dc6c096a4e992fbb5f128a]
+
+(1) These Regulations may be cited as the Building (Amendment) Regulations 2011.
+
+(2) These Regulations shall come into force on 15th July 2011.
+
+(3) In these Regulations—
+
+- “the 2007 Regulations” means the Energy Performance of Buildings (Certificates and Inspections) (England and Wales) Regulations 2007[^f00002];
+- “the 2010 Regulations” means the Building Regulations 2010[^f00003].
+
+## 2. Amendments to the 2007 and 2010 Regulations[^key-1d144c0115715ecac66c007cf77fc8aa]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**3.**[^key-0972a9c1d38e8f76111760d3fc1019ea] (1) The 2010 Regulations are amended as follows.
+
+(2) In regulation 2 (1) (interpretation)–
+
+- (a) in the definition of “energy efficiency requirements”, for “and 29”, substitute “, 29 and 40”;
+- (b) in the definition of “renovation”, after “the provision of a new layer in the thermal element”, add “(other than where that new layer is provided solely as a means of repair to a flat roof)”.
+
+(3) In regulation 6(1)(a) (requirements relating to material change of use), omit “G2 (bathrooms)”.
+
+(4) In regulation 49 (transitional provisions: interpretation), omit the definition of “the 2010 Regulations”.
+
+(5) In Schedule 3 (self-certification schemes and exemptions from requirement to give building notice or deposit full plans)—
+
+- (a) in column 2, paragraph 7 after “Ascertiva Group Limited” insert “Association of Plumbing and Heating Contractors (Certification) Limited”;
+- (b) in column 2, paragraph 11–
+  - (i) after “ECA Certification Limited” omit “or” and insert “,”,
+  - (ii) after “NAPIT Registration Limited” insert “, Oil Firing Technical Association Limited or Stroma Certification Limited”;
+- (c) in column 2, paragraph 12–
+  - (i) after “NAPIT Registration Limited” omit “or” and insert “,”;
+  - (ii) after “Oil Firing Technical Association Limited” insert “or Stroma Certification Limited”.
+- (d) add the following paragraph–
+
+  > |  |  |
+  > | --- | --- |
+  > | **21.** Installation, as a replacement, of a window, rooflight, roof window or door in an existing building other than a dwelling. This paragraph does not apply to glass which is load bearing or structural or which forms part of glazed curtain walling or a revolving door. | A person registered by BM Trada Certification Limited or under the Fenestration Self-Assessment Scheme by Fensa Limited in respect of that type of work. |
+
+(6) In paragraph 1(f) of Schedule 4 (descriptions of work where no building notice or deposit of full plans required) for “resting” substitute “testing”.
+
+Signed by authority of the Secretary of State
+
+Andrew Stunell
+
+Parliamentary Under Secretary of State
+
+Department for Communities and Local Government
+
+15th June 2011
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations amend the Energy Performance of Buildings (Certificates and Inspections) (England and Wales) Regulations 2007 (“the 2007 Regulations”) and the Building Regulations 2010 (“the 2010 Regulations”).
+
+Regulation 2 corrects a minor error in the amendments made by the Building Regulations 2010 to paragraph (1) of regulation 9 of the 2007 Regulations, and removes provisions in that regulation which are now redundant.
+
+Regulation 3(2)(a) and (b) amend definitions in regulation 2 (interpretation) of the 2010 Regulations. The definition of “energy efficiency requirements” is amended to correct an error made in the 2010 Regulations. The definition of “renovation” is amended to make clear that adding a new layer by way of repair to a flat roof does not constitute renovation for the purposes of the 2010 Regulations.
+
+Regulation 3(3), (4) and (6) correct minor errors in regulation 6(1)(a) (requirements relating to material change of use), regulation 49 (transitional provisions: interpretation), and in Schedule 4 paragraph 1(f).
+
+Regulation 3(5) adds a new paragraph to the list in Schedule 3 of work that is exempt from the requirement to give a building notice or to deposit full plans when carried out by persons specified in that Schedule, and adds to those bodies in paragraphs 7, 11 and 12 which are able to register persons for the purposes of self certification schemes.
+
+A full impact assessment of the effect that this instrument will have on the costs of business and the voluntary sector is published with the Explanatory Memorandum alongside the instrument on www.legislation.gov.uk, and shows a net benefit to business in relation to the amendments made to Schedule 3.
+
+## Annotations
+
+[^f00001]: Footnote: [1984 c.55](https://www.legislation.gov.uk/ukpga/1984/55)
+
+[^key-9e4891cc01dc6c096a4e992fbb5f128a]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2011/1515/regulation/1) in force at 15.7.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1515/regulation/1/2)
+
+[^f00002]: Footnote: [S.I. 2007/991](https://www.legislation.gov.uk/uksi/2007/991); regulation 9(1) was amended by [S.I 2010/2214](https://www.legislation.gov.uk/uksi/2010/2214), regulation 54(2), Schedule 6, paragraph 2(b).
+
+[^f00003]: Footnote: [S.I. 2010/2214](https://www.legislation.gov.uk/uksi/2010/2214).
+
+[^key-1d144c0115715ecac66c007cf77fc8aa]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/uksi/2011/1515/regulation/2) revoked (9.1.2013) by [The Energy Performance of Buildings (England and Wales) Regulations 2012 (S.I. 2012/3118)](https://www.legislation.gov.uk/uksi/2012/3118), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/1/4), [Sch. 3](https://www.legislation.gov.uk/uksi/2012/3118/schedule/3) (with [reg. 44](https://www.legislation.gov.uk/uksi/2012/3118/regulation/44))
+
+[^key-0972a9c1d38e8f76111760d3fc1019ea]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2011/1515/regulation/3) in force at 15.7.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1515/regulation/1/2)

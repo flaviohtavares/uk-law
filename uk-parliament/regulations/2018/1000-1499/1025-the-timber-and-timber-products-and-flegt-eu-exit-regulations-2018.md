@@ -1,0 +1,631 @@
+---
+title: The Timber and Timber Products and FLEGT (EU Exit) Regulations 2018
+id: uksi/2018/1025
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2018-09-21'
+text_date: '2020-12-31'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2018/1025
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2018/1025/pdfs/uksiem_20181025_en.pdf
+- http://www.legislation.gov.uk/uksi/2018/1025/pdfs/uksi_20181025_en.pdf
+- http://www.legislation.gov.uk/uksi/2018/1025/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Timber and Timber Products and FLEGT (EU Exit) Regulations 2018
+
+> Text as at 2020-12-31.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2018 No. 1025
+
+Exiting The European Union
+
+Environmental Protection
+
+The Timber and Timber Products and FLEGT (EU Exit) Regulations 2018
+
+Sift requirements satisfied
+
+11th September 2018
+
+Made
+
+21st September 2018
+
+Laid before Parliament
+
+25th September 2018
+
+Coming into force in accordance with regulation 1
+
+The Secretary of State makes these Regulations in exercise of the powers conferred by section 8(1) of the European Union (Withdrawal) Act 2018 [^c23400351].
+
+The requirements of paragraph 3(2) of Schedule 7 to that Act (relating to the appropriate Parliamentary procedure for these Regulations) have been satisfied.
+
+## PART 1
+
+### 1. Citation, commencement and extent[^key-382fba60fa596bff50a5251a54cfbfb8][^key-72063b118ab89d1bb8b4866be8d255aa]
+
+(1)[^key-d8e50481b4e00dc16545bf00fbc5866f] These Regulations may be cited as the Timber and Timber Products and FLEGT (EU Exit) Regulations 2018 and come into force on exit day [^c23400361].
+
+(2)[^key-3b680ed01e15af0a271d16c8a6e1a702] Part 2 of these Regulations extends to England and Wales and Scotland.
+
+## PART 2 — Amendment of subordinate legislation
+
+*Extent: E+W+S*
+
+### 2. Amendment of the Forest Law Enforcement, Governance and Trade Regulations 2012[^key-3743e5f0131a86935bf9ab1a5181bb57]
+
+(1) The Forest Law Enforcement, Governance and Trade Regulations 2012 [^c23400371] are amended as follows.
+
+(2) Omit regulation 2.
+
+(3) For regulation 3, substitute—
+
+> **3.**
+>
+> (1) At a place where goods are subject to the control of an HMRC officer, the European Regulations are to be enforced by a general customs official.
+>
+> (2) In paragraph (1), the reference to goods being subject to the control of an HMRC officer includes control being exercised—
+>
+> - (a) requiring the goods to be handled, or otherwise dealt with, in accordance with instructions given by an HMRC officer (whether given orally or in any other way); or
+> - (b) requiring the goods to be kept in any place specified by an HMRC officer.
+>
+> (3) In this regulation, “**HMRC officer**” means an officer of Revenue and Customs.
+
+.
+
+(4) Omit regulation 4.
+
+(5) Omit regulation 6(9)(a)(ii).
+
+### 3. Amendment of the Timber and Timber Products (Placing on the Market) Regulations 2013[^key-3bc2bfc75ee7132aa4ab32ee81357cf5]
+
+(1) The Timber and Timber Products (Placing on the Market) Regulations 2013 [^c23400381] are amended as follows.
+
+(2) Omit regulation 2.
+
+(3) Omit regulation 7(9)(a)(ii).
+
+## PART 3 — Amendment of retained direct EU legislation
+
+### 4. Amendment of Council Regulation [(EC) No. 2173/2005](https://www.legislation.gov.uk/eur/2005/2173)[^key-99de7501e4f533598753d2bfd41e94a0]
+
+(1) Council Regulation [(EC) No. 2173/2005](https://www.legislation.gov.uk/eur/2005/2173) on the establishment of a FLEGT licensing scheme for imports of timber into the European Community is amended as follows.
+
+(2) In Article 1—
+
+- (a) in paragraph 1—
+  - (i) omit “Community”;
+  - (ii) after “products”, insert “ into Great Britain[^key-230b4f0d5906f19e0427457adeb2d7bb]”;
+- (b) in paragraph 3, omit “listed in Annex 1”.
+
+(3) In Article 2—
+
+- (a) in paragraph 1—
+  - (i)[^key-6450f20b9c70d9cb8bef638dbdf2324b] for “the Community”, in the first two places it occurs, substitute “Great Britain”;
+  - (ii) omit “Community”, in the third place it occurs;
+  - (iii) for “border” substitute “ import ”;
+- (b) in paragraph 2, omit “, as listed in Annex 1”;
+- (c) in paragraph 3—
+  - (i) for “Community”, in both places it occurs, substitute “ United Kingdom ”;
+  - (ii) omit “in support of the FLEGT Action Plan and”;
+- (d) in paragraph 4, omit “, as listed in Annex 1”;
+- (e) for paragraph 8 substitute—
+
+  > **8.**
+  >
+  > “**competent authority**” means the Secretary of State;
+
+  ;
+- (f) in paragraph 9—
+  - (i)[^key-63586ca3f222d3ff9eeb10ae41688633] for “the Community”, in the first place it occurs, substitute “Great Britain”;
+  - (ii) omit the words from “as defined in” to the end;
+- (g) in paragraph 11, for the words from “within the meaning” to the end substitute “Great Britain”[^key-fc3e5a52385721c55c546f7d114e3079];
+- (h)[^key-f2e86bb006cacfa50f207f48beeb8f10] in paragraph 13, for “the Community” substitute “Great Britain”;
+- (i) after paragraph 14, insert—
+
+  > **15.**
+  >
+  > “**goods of a non-commercial nature**” means goods whose entry into Great Britain[^key-c3f6cc62455420cfe5b1260d5ba41267] is on an occasional basis and whose nature and quantity indicate that they are intended for the private, personal or family use of the consignees or persons carrying them, or which are clearly intended as gifts;
+  >
+  > **16.**
+  >
+  > “**customs authorities**” means the Commissioners for Her Majesty's Revenue and Customs.
+
+  .
+
+(4) In Article 4—
+
+- (a)[^key-e639aa222de636abd20e712a1dc25ed0] in paragraph 1, for “the Community” substitute “Great Britain”;
+- (b) in paragraph 3, omit the second subparagraph.
+
+(5) In Article 5—
+
+- (a) in paragraph 1—
+  - (i)[^key-6c6fa529f2f68f659730847ee25105d8] for “the Community” substitute “Great Britain”;
+  - (ii) for “competent authorities” substitute “ competent authority ”;
+- (b) omit paragraph 2;
+- (c) in paragraph 3—
+  - (i) for “competent authorities”, in both places it occurs, substitute “ competent authority ”;
+  - (ii) for “they are” substitute “ it is ”;
+  - (iii) for “their national law” substitute “ any enactment or rule of law ”;
+- (d) in paragraphs 4 and 5, for “competent authorities”, substitute “ competent authority ”;
+- (e) omit paragraph 6;
+- (f) in paragraph 7, for “Member State concerned” substitute “ Secretary of State ”;
+- (g) omit paragraph 8.
+
+(6) Omit Articles 6 and 7.
+
+(7) In Article 8—
+
+- (a)[^key-9e1d29bcfa467740e273ac94fa1de90d] in paragraph 1, for “Member States shall make available to the public and to the Commission,” substitute “The Secretary of State must prepare and publish,”;
+- (b) for paragraph 2 substitute—
+
+  > **2.**
+  >
+  > The first report under this Article must be published on or before 30 April 2022[^key-cae88b103b87eabd8ef1d9d323dd4610].
+
+  ;
+- (c) omit paragraph 3.
+
+(8) Omit Article 9.
+
+(9) After Article 12, omit the sentence which begins “This Regulation shall be”.
+
+(10) Omit Annex 1.
+
+### 5. Amendment of Commission Regulation [(EC) No. 1024/2008](https://www.legislation.gov.uk/eur/2008/1024)[^key-e2ad473786f7d9bdf931355e5cfbcbea]
+
+(1) Commission Regulation [(EC) No. 1024/2008](https://www.legislation.gov.uk/eur/2008/1024) laying down detailed measures for the implementation of Council Regulation [(EC) No. 2173/2005](https://www.legislation.gov.uk/eur/2005/2173) on the establishment of a FLEGT licensing scheme for imports of timber into the European Community is amended as follows.
+
+(2) In Article 2—
+
+- (a) in paragraph 1, for “a customs office” substitute “ premises wholly or partly occupied by Her Majesty's Revenue and Customs ”;
+- (b) omit paragraph 4.
+
+(3) In Article 3, omit paragraph 2.
+
+(4) In Article 4, for “within the Community” substitute “ into and within Great Britain[^key-6d014c886107576ff9c6423e8ce4991e] ”.
+
+(5) For Article 5 substitute—
+
+> **Article 5**
+>
+> The competent authority or the customs authorities may require that a FLEGT licence be made available in English.
+
+.
+
+(6) In Article 6, for paragraphs 1 and 2 substitute—
+
+> **1.**
+>
+> The licence, in respect of a shipment which is declared for release for free circulation in Great Britain[^key-8101a11e938a707ca48d37b98335984e] , must be lodged with the competent authority.
+>
+> **2.**
+>
+> The competent authority must notify the customs authorities as soon as a licence has been accepted.
+
+.
+
+(7) In Article 7, omit paragraph 1.
+
+(8) In Articles 9 and 10, for “competent authorities” substitute “ competent authority ”.
+
+(9) In Article 11—
+
+- (a) in paragraph 1, for the words from “box” to “circulation is made” substitute “ the customs declaration for release for free circulation in Great Britain[^key-6e7cde85d3a1207dcd4adc3146a12055] ”;
+- (b) for paragraph 2 substitute—
+
+  > **2.**
+  >
+  > Timber products must only be released for free circulation where the notification mentioned in Article 6(2) has been made.
+
+  .
+
+(10) Omit Article 12.
+
+(11) In Article 13, for “competent authorities” substitute “ competent authority ”.
+
+(12) In Article 14—
+
+- (a) in paragraph 1, for “Member States” substitute “ The competent authority ”;
+- (b) for paragraph 2 substitute—
+
+  > **2.**
+  >
+  > The electronic systems referred to in paragraph 1 must provide for the exchange of data between—
+  >
+  > - (a) the competent authority and the customs authorities; and
+  > - (b) the competent authority and the customs authorities on the one hand and the licensing authority of any partner country on the other.
+
+  ;
+- (c) omit paragraph 3.
+
+(13) In Article 16, for the words from “the provisions of” to “Directive [95/46/EC](https://www.legislation.gov.uk/eudr/1995/46)” substitute “ any enactment or rule of law ”.
+
+(14) After Article 17, omit the sentence which begins “This Regulation shall be”.
+
+(15) In the Annex—
+
+- (a) in the table heading, omit “EUROPEAN COMMUNITY”;
+- (b)[^key-853daa59a45cf077dcfabbdfecbd674f] in the notes for guidance, in the note for box 5, for “the EU” substitute “Great Britain”.
+
+### 6. Amendment of Regulation (EU) No. 995/2010 of the European Parliament and of the Council[^key-afa4607d933bc04d40dfd84656518f0b]
+
+(1) Regulation (EU) No. 995/2010 of the European Parliament and of the Council laying down the obligations of operators who place timber and timber products on the market is amended as follows.
+
+(2) In Article 2—
+
+- (a) in point (b)—
+  - (i) for “internal market”, in each place it occurs, substitute “ market in the United Kingdom ”;
+  - (ii) for the words from “Directive [97/7/EC](https://www.legislation.gov.uk/eudr/1997/7)” to “distance contracts” substitute “ regulation 3(1) of the Consumer Protection (Distance Selling) Regulations 2000 [^c23400391] ”;
+- (b) in point (d)—
+  - (i) for “the internal market”, in the first place it occurs, substitute “ the market in the United Kingdom ”;
+  - (ii) for “the internal market”, in the second place it occurs, substitute “ that market ”;
+- (c) after point (h), insert—
+
+  > - (i) “**competent authority**” means the Secretary of State.
+
+  .
+
+(3) In Article 4(3), omit the second sentence.
+
+(4) In Article 5, in the second paragraph, for “competent authorities if they so request” substitute “ the competent authority if it so requests ”.
+
+(5) In Article 6—
+
+- (a) in paragraph 1(b), in the second subparagraph, in the fourth indent, for the words from “by the UN” to “Union” substitute “ by the United[^key-a3ae31eec25ffd61e90e488982d8619c] Kingdom or by the UN Security Council ”;
+- (b) for paragraph 2 substitute—
+
+  > **2.**
+  >
+  > Detailed rules, except as regards further relevant risk assessment criteria referred to in the second sentence of paragraph 1(b) of this Article, are set out in Commission Implementing Regulation (EU) No. 607/2012 on the detailed rules concerning the due diligence system and the frequency and nature of the checks on monitoring organisations as provided for in Regulation (EU) No. 995/2010 of the European Parliament and of the council laying down the obligations of operators who place timber and timber products on the market.
+
+  .
+
+(6) Omit Article 7.
+
+(7) In Article 8—
+
+- (a) in paragraph 1(c), for “competent authorities” substitute “ the competent authority ”;
+- (b) in paragraph 2(a), for “Union” substitute “ United Kingdom ”;
+- (c) for paragraph 3, substitute—
+
+  > **3.**
+  >
+  > The competent authority must recognise as a monitoring organisation—
+  >
+  > - (a) an applicant that fulfils the requirements set out in paragraph 2; and
+  > - (b) any organisation that—
+  >   - (i) immediately before IP completion[^key-74094f23a5f1ca04ebe536043ed45d38] day was recognised as a monitoring organisation by the Commission; and
+  >   - (ii) fulfils the requirements set out in paragraph 2.
+  >
+  > Where point (b) applies, the competent authority is not required to notify the organisation or provide a certificate pursuant to Article 4 of Commission Delegated Regulation (EU) No. 363/2012 on the procedural rules for the recognition and withdrawal of recognition of monitoring organisations as provided for in Regulation (EU) No. 995/2010 of the European Parliament and of the Council laying down the obligations of operators who place timber and timber products on the market.
+
+  ;
+- (d) for paragraph 4 substitute—
+
+  > **4.**
+  >
+  > The competent authority must carry out checks at regular intervals to verify that monitoring organisations continue to fulfil the functions laid down in paragraph 1 and comply with the requirements laid down in paragraph 2. Checks may also be carried out when the competent authority is in possession of relevant information, including substantiated concerns from third parties or when it has detected shortcomings in the implementation by operators of the due diligence system established by a monitoring organisation. A report of the checks must be made available in accordance with the Environmental Information Regulations 2004 [^c23400401].
+
+  ;
+- (e) omit paragraph 5;
+- (f) for paragraph 6 substitute—
+
+  > **6.**
+  >
+  > The competent authority must withdraw recognition of a monitoring organisation if it determines that the monitoring organisation no longer fulfils the functions laid down in paragraph 1 or the requirements laid down in paragraph 2.
+
+  ;
+- (g) for paragraph 7 substitute—
+
+  > **7.**
+  >
+  > Commission Delegated Regulation (EU) No. 363/2012 supplements the procedural rules with regard to the recognition and withdrawal of recognition of monitoring organisations.
+
+  ;
+- (h) in paragraph 8, for the words from “and the uniform” to the end substitute “ are set out in Commission Implementing Regulation (EU) No. 607/2012 ”.
+
+(8) For Article 9 substitute—
+
+> **Article 9 — List of monitoring organisations**
+>
+> The competent authority must publish the list of the monitoring organisations and must make it available in such manner as the competent authority sees fit. The list must be regularly updated.
+
+.
+
+(9) In Article 10—
+
+- (a) in paragraph 1, for “competent authorities” substitute “ competent authority ”;
+- (b) in paragraph 2, for “a competent authority” substitute “ the competent authority ”;
+- (c) in paragraph 5—
+  - (i) omit “Without prejudice to Article 19”;
+  - (ii) for “competent authorities” substitute “ competent authority ”;
+  - (iii) for “Member States” substitute “ the competent authority ”.
+
+(10) In Article 11—
+
+- (a) in paragraph 1, for “competent authorities” substitute “ competent authority ”;
+- (b) in paragraph 2, for “Directive [2003/4/EC](https://www.legislation.gov.uk/eudr/2003/4)” substitute “ the Environmental Information Regulations 2004 ”.
+
+(11) Omit Article 12.
+
+(12) In Article 13—
+
+- (a) in paragraph 1, for “Member States, assisted by the Commission where appropriate,” substitute “ the competent authority ”;
+- (b) in paragraph 2, for “Member States, assisted by the Commission where appropriate,” substitute “ The competent authority ”;
+- (c) in paragraph 3, for “competent authorities and preserves their” substitute “ the competent authority and preserves its ”.
+
+(13) Omit Articles 16 to 19.
+
+(14) For Article 20 substitute—
+
+> **Article 20 — Reporting**
+>
+> **1.**
+>
+> The Secretary of State must from time to time—
+>
+> - (a) carry out a review of the application of this Regulation;
+> - (b) set out the conclusions of the review in a report; and
+> - (c) publish the report.
+>
+> **2.**
+>
+> The first report under paragraph 1 must be published on or before 31 March 2022[^key-55ee0e548a6d17c5fa2c8654b18d8053] and subsequent reports must be published at intervals not exceeding two years.
+>
+> **3.**
+>
+> In preparing a report under paragraph 1, the Secretary of State must have regard to the progress made in respect of the conclusion and operation of Partnership Agreements pursuant to Regulation [(EC) No. 2173/2005](https://www.legislation.gov.uk/eur/2005/2173) and their contribution to minimising the presence of illegally harvested timber and timber products derived from such timber on the market in the United Kingdom.
+>
+> **4.**
+>
+> The Secretary of State must, on the basis of reporting on and experience with the application of this Regulation, review from time to time the functioning and effectiveness of this Regulation, including in preventing illegally harvested timber or timber products derived from such timber being placed on the market. The Secretary of State must, in particular, consider the administrative consequences for small and medium sized businesses, within the meaning given by section 7(1) of the Small Business, Enterprise and Employment Act 2015 [^c23400411] and product coverage.
+>
+> **5.**
+>
+> The first review under paragraph 4 must be published on or before 31 March 2025 and subsequent reviews must be published at intervals not exceeding 6 years.
+
+.
+
+(15) After Article 21, omit the sentence which begins “This Regulation shall be”.
+
+### 7. Amendment of Commission Delegated Regulation (EU) No. 363/2012[^key-9c298091b35a510345b052779f40efaa]
+
+(1) Commission Delegated Regulation (EU) No. 363/2012 on the procedural rules for the recognition and withdrawal of recognition of monitoring organisations as provided for in Regulation (EU) No. 995/2010 of the European Parliament and of the Council laying down the obligations of operators who place timber and timber products on the market is amended as follows.
+
+(2) In Article 1, omit point (1).
+
+(3) In Article 2—
+
+- (a) for paragraph 1 substitute—
+
+  > **1.**
+  >
+  > Any entity, public or private, being a company, corporation, firm, enterprise, institution or authority, legally established in the United Kingdom, may submit to the competent authority an application to be recognised as a monitoring organisation.
+
+  ;
+- (b) in paragraph 3 for “Commission”, in both places it occurs, substitute “ competent authority ”;
+- (c) in paragraph 4—
+  - (i) for “Commission's” substitute “competent authority's”;
+  - (ii) for “Commission”, in both places it occurs, substitute “ competent authority ”;
+- (d) omit paragraph 5.
+
+(4) For Article 3 substitute—
+
+> **Article 3 — Additional documents and access to premises**
+>
+> **1.**
+>
+> Upon request by the competent authority, an applicant must submit any additional information or documents required by the competent authority within a specified time limit.
+>
+> **2.**
+>
+> The applicant must grant the competent authority access to its premises to verify that all requirements provided in Article 8 of Regulation (EU) No. 995/2010 and in Articles 5 to 8 are fulfilled. The competent authority must inform the applicant of a visit in advance. The applicant must offer all assistance necessary to facilitate such visits.
+
+.
+
+(5) For Article 4 substitute—
+
+> **Article 4 — Recognition decision**
+>
+> Where the competent authority has adopted a recognition decision pursuant to Article 8(3) of Regulation (EU) No. 995/2010, it must notify the applicant concerned within 10 working days beginning with the day after the date of adoption of that decision.
+>
+> The competent authority must also provide the applicant with a certificate of recognition without delay.
+
+.
+
+(6) For Article 5 substitute—
+
+> **Article 5 — Legal personality and legal establishment**
+>
+> An applicant must provide information about its registered office, central administration or principal place of business in the United Kingdom, as well as about all its agencies, branches or subsidiaries set up in the United Kingdom.
+
+.
+
+(7) In Article 9—
+
+- (a) in paragraph 1—
+  - (i) in the words before point (a), for “Commission” substitute “ competent authority ”;
+  - (ii) in point (b), for “Union” substitute “ United Kingdom ”;
+  - (iii) omit point (c);
+  - (iv) in point (d), for “any Member State” substitute “Great Britain[^key-8d31c369991720e02864ea5c22986a8d]”;
+- (b) omit paragraph 2.
+
+(8) For Article 10 substitute—
+
+> **Article 10 — Review of the recognition decision**
+>
+> **1.**
+>
+> The competent authority may review a decision recognising a monitoring organisation at any time.
+>
+> The competent authority must carry out such a review in any of the following situations:
+>
+> - (a) the competent authority has determined that a monitoring organisation no longer fulfils the functions laid down in Article 8(1) of Regulation (EU) No. 995/2010 or no longer complies with the requirements laid down in Article 8(2) of Regulation (EU) No. 995/2010 as specified in Articles 5 to 8 of this Regulation;
+> - (b) the competent authority is in possession of relevant information, including substantiated concerns from third parties, that a monitoring organisation no longer complies with the requirements laid down in Article 8(1) and (2) of Regulation (EU) No. 995/2010 and in Articles 5 to 8 of this Regulation;
+> - (c) a monitoring organisation has informed the competent authority of changes referred to in Article 9(1)(a) of this Regulation.
+>
+> **2.**
+>
+> An applicant must grant the competent authority access to its premises to verify that all requirements provided in Article 8 of Regulation (EU) No. 995/2010 and in Articles 5 to 8 of this Regulation are fulfilled.
+>
+> The applicant must offer all assistance necessary to facilitate such visits.
+>
+> **3.**
+>
+> The competent authority must draft a report stating its findings. Supporting evidence must be annexed to the review report.
+>
+> The review report must include a recommendation as to whether the recognition of a monitoring organisation should be withdrawn.
+>
+> The competent authority must provide the monitoring organisation concerned with a summary of the findings and conclusions of the report. The organisation may provide comments to the competent authority within three weeks beginning with the day after the date of transmission of the summary.
+
+.
+
+(9) In Article 11—
+
+- (a) in paragraphs 1 and 2, for “Commission” substitute “ competent authority ”;
+- (b) in paragraph 3, omit the words from “and communicated” to the end.
+
+(10) For Article 12, substitute—
+
+> **Article 12 — Data protection**
+>
+> This Regulation is without prejudice to any provision or rule concerning the processing of personal data under any enactment or rule of law.
+
+.
+
+(11) After Article 13, omit the sentence which begins “This Regulation shall be”.
+
+(12) In the Annex, in the first paragraph—
+
+- (a) in the first indent, omit “as provided for in the relevant national legislation”;
+- (b) omit the second indent.
+
+### 8. Amendment of Commission Implementing Regulation (EU) No. 607/2012[^key-58cba4470955bf1c76b014baf2dabe3f]
+
+(1) Commission Implementing Regulation (EU) No. 607/2012 on the detailed rules concerning the due diligence system and the frequency and nature of the checks on monitoring organisations as provided for in Regulation (EU) No. 995/2010 of the European Parliament and of the Council laying down the obligations of operators who place timber and timber products on the market is amended as follows.
+
+(2) In Article 6—
+
+- (a) in paragraph 1, for “competent authorities” substitute “ competent authority ”;
+- (b) in paragraph 2—
+  - (i) in point (a), for “a competent authority” substitute “ the competent authority ”;
+  - (ii) in point (b)—
+    - (aa) for the words from “the Commission” to “a monitoring organisation” substitute “ a monitoring organisation has informed the competent authority that it ”;
+    - (bb) for “9(2)” substitute “ 9(1) ”;
+- (c) in paragraph 4, for “competent authorities” substitute “ competent authority ”;
+- (d) in paragraph 5, for “Competent authorities” substitute “ The competent authority ”.
+
+(3) In Article 7—
+
+- (a) for paragraph 1 substitute—
+
+  > **1.**
+  >
+  > The competent authority must draw up reports on individual checks that it has carried out, which must include a description of the process and techniques applied and its findings and conclusions.
+
+  ;
+- (b) in paragraph 2, in each place it occurs, and in paragraph 3, for “competent authorities”, substitute “ competent authority ”.
+
+(4) After Article 8, omit the sentence which begins “This Regulation shall be”.
+
+Thérèse Coffey
+
+Parliamentary Under Secretary of State
+
+Department for Environment, Food and Rural Affairs
+
+*(This note is not part of the Regulations)*
+
+These Regulations are made in exercise of the powers in section 8(1) of the European Union (Withdrawal) Act 2018 (c. 16) in order to address failures of retained EU law to operate effectively and other deficiencies (in particular under paragraphs (a), (b), (c), (e) and (g) of section 8(2)) arising from the withdrawal of the United Kingdom from the European Union.
+
+These Regulations make amendments to legislation in the field of environmental protection and, in particular, amend legislation relating to the import and placing on the market of timber and timber products to minimise the risk of placing illegally harvested timber and timber products derived from such timber on the market. Part 2 amends subordinate legislation and Part 3 amends retained EU Regulations.
+
+An impact assessment has not been prepared for this instrument as no impact on the private, voluntary or public sectors is foreseen.
+
+## Annotations
+
+[^c23400351]: Marginal citation: [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16).
+
+[^key-382fba60fa596bff50a5251a54cfbfb8]: Commencement: Reg. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^key-72063b118ab89d1bb8b4866be8d255aa]: Textual amendment: [Reg. 1](https://www.legislation.gov.uk/uksi/2018/1025/regulation/1) heading substituted (31.12.2020 immediately before IP completion day) by [The Timber and Timber Products and FLEGT (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1315)](https://www.legislation.gov.uk/uksi/2020/1315), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1315/regulation/1/2), [2(2)(a)](https://www.legislation.gov.uk/uksi/2020/1315/regulation/2/2/a)
+
+[^key-d8e50481b4e00dc16545bf00fbc5866f]: Textual amendment: Reg. 1 renumbered as reg. 1(1) (31.12.2020 immediately before IP completion day) by [The Timber and Timber Products and FLEGT (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1315)](https://www.legislation.gov.uk/uksi/2020/1315), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1315/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2020/1315/regulation/2/2/b)
+
+[^c23400361]: Marginal citation: Section 20(1) of the European Union (Withdrawal) Act 2018 defines “exit day”.
+
+[^key-3b680ed01e15af0a271d16c8a6e1a702]: Textual amendment: [Reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1025/regulation/1/2) inserted (31.12.2020 immediately before IP completion day) by [The Timber and Timber Products and FLEGT (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1315)](https://www.legislation.gov.uk/uksi/2020/1315), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1315/regulation/1/2), [2(2)(c)](https://www.legislation.gov.uk/uksi/2020/1315/regulation/2/2/c)
+
+[^key-3743e5f0131a86935bf9ab1a5181bb57]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^c23400371]: Marginal citation: [S.I. 2012/178](https://www.legislation.gov.uk/uksi/2012/178), to which there are amendments not relevant to these Regulations.
+
+[^key-3bc2bfc75ee7132aa4ab32ee81357cf5]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^c23400381]: Marginal citation: [S.I. 2013/233](https://www.legislation.gov.uk/uksi/2013/233).
+
+[^key-99de7501e4f533598753d2bfd41e94a0]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^key-230b4f0d5906f19e0427457adeb2d7bb]: Textual amendment: Words in reg. 4(2)(a)(ii) substituted (31.12.2020 immediately before IP completion day) by [The Timber and Timber Products and FLEGT (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1315)](https://www.legislation.gov.uk/uksi/2020/1315), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1315/regulation/1/2), [2(3)(a)](https://www.legislation.gov.uk/uksi/2020/1315/regulation/2/3/a)
+
+[^key-6450f20b9c70d9cb8bef638dbdf2324b]: Textual amendment: Reg. 4(3)(a)(i) substituted (31.12.2020 immediately before IP completion day) by [The Timber and Timber Products and FLEGT (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1315)](https://www.legislation.gov.uk/uksi/2020/1315), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1315/regulation/1/2), [2(3)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1315/regulation/2/3/b/i)
+
+[^key-63586ca3f222d3ff9eeb10ae41688633]: Textual amendment: Reg. 4(3)(f)(i) substituted (31.12.2020 immediately before IP completion day) by [The Timber and Timber Products and FLEGT (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1315)](https://www.legislation.gov.uk/uksi/2020/1315), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1315/regulation/1/2), [2(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1315/regulation/2/3/b/ii)
+
+[^key-fc3e5a52385721c55c546f7d114e3079]: Textual amendment: Words in reg. 4(3)(g) substituted (31.12.2020 immediately before IP completion day) by [The Timber and Timber Products and FLEGT (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1315)](https://www.legislation.gov.uk/uksi/2020/1315), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1315/regulation/1/2), [2(3)(b)(iii)](https://www.legislation.gov.uk/uksi/2020/1315/regulation/2/3/b/iii)
+
+[^key-f2e86bb006cacfa50f207f48beeb8f10]: Textual amendment: Reg. 4(3)(h) substituted (31.12.2020 immediately before IP completion day) by [The Timber and Timber Products and FLEGT (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1315)](https://www.legislation.gov.uk/uksi/2020/1315), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1315/regulation/1/2), [2(3)(b)(iv)](https://www.legislation.gov.uk/uksi/2020/1315/regulation/2/3/b/iv)
+
+[^key-c3f6cc62455420cfe5b1260d5ba41267]: Textual amendment: Words in reg. 4(3)(i) substituted (31.12.2020 immediately before IP completion day) by [The Timber and Timber Products and FLEGT (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1315)](https://www.legislation.gov.uk/uksi/2020/1315), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1315/regulation/1/2), [2(3)(b)(v)](https://www.legislation.gov.uk/uksi/2020/1315/regulation/2/3/b/v)
+
+[^key-e639aa222de636abd20e712a1dc25ed0]: Textual amendment: Reg. 4(4)(a) substituted (31.12.2020 immediately before IP completion day) by [The Timber and Timber Products and FLEGT (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1315)](https://www.legislation.gov.uk/uksi/2020/1315), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1315/regulation/1/2), [2(3)(c)](https://www.legislation.gov.uk/uksi/2020/1315/regulation/2/3/c)
+
+[^key-6c6fa529f2f68f659730847ee25105d8]: Textual amendment: Reg. 4(5)(a)(i) substituted (31.12.2020 immediately before IP completion day) by [The Timber and Timber Products and FLEGT (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1315)](https://www.legislation.gov.uk/uksi/2020/1315), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1315/regulation/1/2), [2(3)(d)](https://www.legislation.gov.uk/uksi/2020/1315/regulation/2/3/d)
+
+[^key-9e1d29bcfa467740e273ac94fa1de90d]: Textual amendment: Reg. 4(7)(a) substituted (31.12.2020 immediately before IP completion day) by [The Timber and Timber Products and FLEGT (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1315)](https://www.legislation.gov.uk/uksi/2020/1315), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1315/regulation/1/2), [2(3)(e)(i)](https://www.legislation.gov.uk/uksi/2020/1315/regulation/2/3/e/i)
+
+[^key-cae88b103b87eabd8ef1d9d323dd4610]: Textual amendment: Word in reg. 4(7)(b) substituted (31.12.2020 immediately before IP completion day) by [The Timber and Timber Products and FLEGT (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1315)](https://www.legislation.gov.uk/uksi/2020/1315), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1315/regulation/1/2), [2(3)(e)(ii)](https://www.legislation.gov.uk/uksi/2020/1315/regulation/2/3/e/ii)
+
+[^key-e2ad473786f7d9bdf931355e5cfbcbea]: Commencement: Reg. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^key-6d014c886107576ff9c6423e8ce4991e]: Textual amendment: Words in [reg. 5(4)](https://www.legislation.gov.uk/uksi/2018/1025/regulation/5/4) substituted (31.12.2020 immediately before IP completion day) by [The Timber and Timber Products and FLEGT (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1315)](https://www.legislation.gov.uk/uksi/2020/1315), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1315/regulation/1/2), [2(4)(a)](https://www.legislation.gov.uk/uksi/2020/1315/regulation/2/4/a)
+
+[^key-8101a11e938a707ca48d37b98335984e]: Textual amendment: Words in [reg. 5(6)](https://www.legislation.gov.uk/uksi/2018/1025/regulation/5/6) substituted (31.12.2020 immediately before IP completion day) by [The Timber and Timber Products and FLEGT (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1315)](https://www.legislation.gov.uk/uksi/2020/1315), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1315/regulation/1/2), [2(4)(a)](https://www.legislation.gov.uk/uksi/2020/1315/regulation/2/4/a)
+
+[^key-6e7cde85d3a1207dcd4adc3146a12055]: Textual amendment: Words in [reg. 5(9)](https://www.legislation.gov.uk/uksi/2018/1025/regulation/5/9) substituted (31.12.2020 immediately before IP completion day) by [The Timber and Timber Products and FLEGT (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1315)](https://www.legislation.gov.uk/uksi/2020/1315), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1315/regulation/1/2), [2(4)(a)](https://www.legislation.gov.uk/uksi/2020/1315/regulation/2/4/a)
+
+[^key-853daa59a45cf077dcfabbdfecbd674f]: Textual amendment: [Reg. 5(15)(b)](https://www.legislation.gov.uk/uksi/2018/1025/regulation/5/15/b) substituted (31.12.2020 immediately before IP completion day) by [The Timber and Timber Products and FLEGT (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1315)](https://www.legislation.gov.uk/uksi/2020/1315), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1315/regulation/1/2), [2(4)(b)](https://www.legislation.gov.uk/uksi/2020/1315/regulation/2/4/b)
+
+[^key-afa4607d933bc04d40dfd84656518f0b]: Commencement: Reg. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^c23400391]: Marginal citation: [S.I. 2000/2334](https://www.legislation.gov.uk/uksi/2000/2334), to which there are amendments not relevant to these Regulations.
+
+[^key-a3ae31eec25ffd61e90e488982d8619c]: Textual amendment: Words in reg. 6(5)(a) substituted (31.12.2020 immediately before IP completion day) by [The Timber and Timber Products and FLEGT (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1315)](https://www.legislation.gov.uk/uksi/2020/1315), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1315/regulation/1/2), [2(5)(a)](https://www.legislation.gov.uk/uksi/2020/1315/regulation/2/5/a)
+
+[^key-74094f23a5f1ca04ebe536043ed45d38]: Textual amendment: Words in reg. 6(7)(c) substituted (31.12.2020 immediately before IP completion day) by [The Timber and Timber Products and FLEGT (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1315)](https://www.legislation.gov.uk/uksi/2020/1315), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1315/regulation/1/2), [2(5)(b)](https://www.legislation.gov.uk/uksi/2020/1315/regulation/2/5/b)
+
+[^c23400401]: Marginal citation: [S.I. 2004/3391](https://www.legislation.gov.uk/uksi/2004/3391), amended by paragraphs 306 to 309 of Schedule 19 to the [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12) and [S.I. 2015/1897](https://www.legislation.gov.uk/uksi/2015/1897).
+
+[^key-55ee0e548a6d17c5fa2c8654b18d8053]: Textual amendment: Word in reg. 6(14) substituted (31.12.2020 immediately before IP completion day) by [The Timber and Timber Products and FLEGT (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1315)](https://www.legislation.gov.uk/uksi/2020/1315), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1315/regulation/1/2), [2(5)(c)](https://www.legislation.gov.uk/uksi/2020/1315/regulation/2/5/c)
+
+[^c23400411]: Marginal citation: [2015 c. 26](https://www.legislation.gov.uk/ukpga/2015/26).
+
+[^key-9c298091b35a510345b052779f40efaa]: Commencement: Reg. 7 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^key-8d31c369991720e02864ea5c22986a8d]: Textual amendment: Words in reg. 7(7)(a)(iv) substituted (31.12.2020 immediately before IP completion day) by [The Timber and Timber Products and FLEGT (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1315)](https://www.legislation.gov.uk/uksi/2020/1315), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1315/regulation/1/2), [2(6)](https://www.legislation.gov.uk/uksi/2020/1315/regulation/2/6)
+
+[^key-58cba4470955bf1c76b014baf2dabe3f]: Commencement: Reg. 8 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)

@@ -1,0 +1,106 @@
+---
+title: The Railways Act 1993 (Consequential Modifications) (No. 4) Order 1994
+id: uksi/1994/2520
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '1994-09-27'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1994/2520
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1994/2520/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Railways Act 1993 (Consequential Modifications) (No. 4) Order 1994
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+1994 No. 2520
+
+TRANSPORT
+
+The Railways Act 1993 (Consequential Modifications) (No. 4) Order 1994
+
+Made
+
+27th September 1994
+
+Laid before Parliament
+
+28th September 1994
+
+Coming into force
+
+1st October 1994
+
+Whereas it appears to the Secretary of State to be necessary or expedient in consequence of the provisions of the Railways Act 1993[^f00001]and instruments made under or by virtue of that Act to make the modifications set out in the Schedule below to the existing provisions referred to therein;
+
+Now therefore the Secretary of State, in exercise of powers conferred on him by section 153 of the Railways Act 1993[^f00002], hereby makes the following Order:—
+
+**1.** This Order may be cited as the Railways Act 1993 (Consequential Modifications) (No. 4) Order 1994 and shall come into force on 1st October 1994.
+
+**2.** The provisions of the Schedule hereto shall have effect.
+
+Signed by authority of the Secretary of State for Transport
+
+John Watts
+
+Minister of State,
+
+Department of Transport
+
+27th September 1994
+
+## SCHEDULE
+
+Article 2
+
+The British Railways (Pension Schemes) Act 1981[^f00003]shall be amended as follows—
+
+- (a) in section 2 (interpretation), after the definition of “pension scheme”, there shall be inserted—
+
+  > - “the pension trustee” means the trustee for the time being of a transferred pension scheme;
+  > - “the pension trustee company” means Railways Pension Trustee Company Limited;
+  > - “transferred pension scheme” means any pension scheme the property, rights and liabilities of which—
+  >   - (a) were vested in the trust company under this Act, and
+  >   - (b) have been transferred from the trust company to the pension trustee company by virtue of a scheme made pursuant to section 85 of the Railways Act 1993;
+
+  ;
+- (b) in subsection (3) of section 4 (power to establish trust company), for the words “The trust company”, there shall be substituted the words—
+
+  > - Where the pension trustee is a company within the meaning of section 735(1) of the Companies Act 1985, the pension trustee
+
+  ;
+- (c) section 5 (vesting) shall be amended as follows—
+  - (i) in subsection (3), before the word “Immediately”, there shall be inserted the words “Subject to subsection (4) below,”; and
+  - (ii) after subsection (3), there shall be inserted—
+
+    > (4) Subsection (3) above shall not apply in respect of any pension scheme after the property, rights and liabilities of that pension scheme have been transferred from the trust company to the pension trustee company by virtue of a scheme made pursuant to section 85 of the Railways Act 1993.
+
+    ;
+- (d) in section 7 (powers of investment), for the words “the trust company” wherever they appear, there shall be substituted the words “the pension trustee”;
+- (e) in section 9 (appointment of nominees), for the words “the trust company” wherever they appear, there shall be substituted the words “the pension trustee”.
+
+(This note is not part of the Order)
+
+This Order modifies certain provisions of the British Railways (Pension Schemes) Act 1981 in consequence of the provisions of the Railways Act 1993 and a transfer scheme made by the British Railways Board on 27th September 1994 under or by virtue of that Act. By that scheme, the property, rights and liabilities of the pension schemes which are subject to the British Railways (Pension Schemes) Act 1981 were transferred from British Rail Pension Trustee Company Limited to Railways Pension Trustee Company Limited. The provisions amended are:
+
+- (a) section 2; the definitions of “the pension trustee”, “the pension trustee company” and “transferred pension scheme” have been added;
+- (b) section 4; subsection (3) is to apply where the pension trustee is a company within the meaning of section 735(1) of the Companies Act [1985 (c. 6)](https://www.legislation.gov.uk/ukpga/1985/6);
+- (c) section 5; subsection (3) is not to apply in relation to a transferred pension scheme;
+- (d) sections 7 and 9; the provisions of these sections are to apply to the pension trustee and not to the trust company.
+
+The Railways Pension Trustee Company Limited is a company limited by shares under the Companies Act 1985.
+
+## Annotations
+
+[^f00001]: Footnote: [1993 c. 43](https://www.legislation.gov.uk/ukpga/1993/43).
+
+[^f00002]: Footnote: See section 151(1) for the definition of “modifications”..
+
+[^f00003]: Footnote: [1981 c.xv](https://www.legislation.gov.uk/ukla/1981/15).

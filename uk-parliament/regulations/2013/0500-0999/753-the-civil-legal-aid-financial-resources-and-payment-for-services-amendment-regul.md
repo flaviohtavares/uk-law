@@ -1,0 +1,104 @@
+---
+title: The Civil Legal Aid (Financial Resources and Payment for Services) (Amendment) Regulations 2013
+id: uksi/2013/753
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2013-03-27'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2013/753
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2013/753/pdfs/uksiem_20130753_en.pdf
+- http://www.legislation.gov.uk/uksi/2013/753/pdfs/uksi_20130753_en.pdf
+- http://www.legislation.gov.uk/uksi/2013/753/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Civil Legal Aid (Financial Resources and Payment for Services) (Amendment) Regulations 2013
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2013 No. 753
+
+Legal Aid And Advice, England And Wales
+
+The Civil Legal Aid (Financial Resources and Payment for Services) (Amendment) Regulations 2013
+
+Made
+
+27th March 2013
+
+Laid before Parliament
+
+28th March 2013
+
+Coming into force
+
+1st April 2013
+
+The Lord Chancellor makes the following Regulations in exercise of the powers conferred by sections 21(2) and 41 of the Legal Aid, Sentencing and Punishment of Offenders Act 2012[^f00001].
+
+## 1. Citation and commencement
+
+These Regulations may be cited as the Civil Legal Aid (Financial Resources and Payment for Services) (Amendment) Regulations 2013 and come into force on 1st April 2013.
+
+## 2. Amendments to the Civil Legal Aid (Financial Resources and Payment for Services) Regulations 2013
+
+(1) The Civil Legal Aid (Financial Resources and Payment for Services) Regulations 2013[^f00002] are amended as follows.
+
+(2) In regulation 5 (exceptions from requirement to make a determination in respect of an individual’s financial resources)—
+
+- (a) in the opening words of paragraph (1), for “may be provided” substitute “are available”;
+- (b) after paragraph (1)(j) insert—
+
+  > - (ja) family help (higher) or legal representation in relation to any matter described in—
+  >   - (i) paragraph 18(3A)[^f00003] (applications under Article 10 of the 2007 Hague Convention[^f00004]) of Part 1 of Schedule 1 to the Act, where Article 17(b) of the 2007 Hague Convention applies; or
+  >   - (ii) paragraph 18(3B)[^f00005] (proceedings to which Article 17(b) of the 2007 Hague Convention is applied) of Part 1 of Schedule 1 to the Act;
+
+  ;
+- (c) in paragraph (1)(k)(ii), delete “and”; and
+- (d) after paragraph (1)(k) insert—
+
+  > - (ka) legal help, family help (lower), family help (higher) and legal representation in relation to any matter described in paragraph 18(3A) (applications under Article 10 of the 2007 Hague Convention) of Part 1 of Schedule 1 to the Act where the matter is an application made by a creditor under the 2007 Hague Convention concerning maintenance obligations arising from a parent-child relationship towards a person under the age of 21; and
+
+  .
+
+Signed by authority of the Lord Chancellor
+
+McNally
+
+Minister of State
+
+Ministry of Justice
+
+27th March 2013
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations amend the Civil Legal Aid (Financial Resources and Payment for Services) Regulations 2013 ([S.I. 2013/480](https://www.legislation.gov.uk/uksi/2013/480)) (the “principal Regulations”) to give effect to the Convention on the international recovery of child support and other forms of family maintenance concluded at The Hague on 23 November 2007 (“the 2007 Hague Convention”), for the recognition, enforcement or establishment of a decision in relation to maintenance. The amendments come into force on the same day that the principal Regulations come into force, 1st April 2013.
+
+These Regulations amend regulation 5 of the principal Regulations. Regulation 5 sets out the exceptions from the requirement that the Director, before determining that an individual qualifies for civil legal services, must make a determination that the individual’s financial resources are such that the individual is eligible for civil legal services. Therefore for the matters set out in regulation 5, the individual will not be subject to a means test.
+
+Regulation 2(2)(b) amends regulation 5 of the principal Regulations to provide that family help (higher) or legal representation are available for a matter described in new sub-paragraph (ja) without being subject to a means test. This is for cases where Article 17(b) of the 2007 Hague Convention applies, which provides for free legal assistance if the individual previously received legal aid for the matter in the State of origin.
+
+Regulation 2(2)(d) amends regulation 5 of the principal Regulations to provide that legal help, family help (lower), family help (higher) and legal representation are available for a matter described in new sub-paragraph (ka) without being subject to a means test. This is for cases where a creditor makes an application concerning maintenance obligations towards a person under the age of 21, arising from a parent-child relationship.
+
+The Regulations also correct an error in regulation 5 of the principal Regulations.
+
+## Annotations
+
+[^f00001]: Footnote: [2012 c. 10](https://www.legislation.gov.uk/ukpga/2012/10). Section 42(1) of the Act provides that in Part 1 of the Act “regulations” means regulations made by the Lord Chancellor.
+
+[^f00002]: Footnote: [S.I. 2013/480](https://www.legislation.gov.uk/uksi/2013/480).
+
+[^f00003]: Footnote: Paragraph 18(3A) was inserted by the Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Amendment of Schedule 1) Order 2013 ([S.I. 2013/748](https://www.legislation.gov.uk/uksi/2013/748)).
+
+[^f00004]: Footnote: The 2007 Hague Convention is defined in paragraph 18(5) of Part 1 of Schedule 1 to the Act (as inserted by the Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Amendment of Schedule 1) Order 2013 ([S.I. 2013/748](https://www.legislation.gov.uk/uksi/2013/748))) to mean the Convention on the international recovery of child support and other forms of family maintenance concluded at The Hague on 23 November 2007 (OJ No L 192, 22.7.11, p 51-70).
+
+[^f00005]: Footnote: Paragraph 18(3B) was inserted by the Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Amendment of Schedule 1) Order 2013 ([S.I. 2013/748](https://www.legislation.gov.uk/uksi/2013/748)).

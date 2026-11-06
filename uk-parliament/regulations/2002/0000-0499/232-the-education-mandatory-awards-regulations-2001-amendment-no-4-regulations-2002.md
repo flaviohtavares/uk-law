@@ -1,0 +1,96 @@
+---
+title: The Education (Mandatory Awards) Regulations 2001 (Amendment) (No. 4) Regulations 2002
+id: uksi/2002/232
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2002-02-06'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2002/232
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2002/232/pdfs/uksi_20020232_en.pdf
+- http://www.legislation.gov.uk/uksi/2002/232/made/data.pdf
+pending_changes: 1
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Education (Mandatory Awards) Regulations 2001 (Amendment) (No. 4) Regulations 2002
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+This Statutory Instrument has been made in consequence of a defect in [S.I. 2002/173](https://www.legislation.gov.uk/uksi/2002/173) and is being issued free of charge to all known recipients of that Statutory Instrument
+
+2002 No. 232
+
+EDUCATION, ENGLAND AND WALES
+
+The Education (Mandatory Awards) Regulations 2001 (Amendment) (No. 4) Regulations 2002
+
+Made
+
+6th February 2002
+
+Laid before Parliament
+
+7th February 2002
+
+Coming into force
+
+20th February 2002
+
+The Secretary of State for Education and Skills, in exercise of the powers conferred by sections 1 and 4(2) of, and paragraphs 3 and 4 of Schedule 1 to, the Education Act 1962[^f00001], and by sections 3(1) and (3) of the Education Act 1973[^f00002], hereby makes the following Regulations:
+
+**1.** These Regulations may be cited as the Education (Mandatory Awards) Regulations 2001 (Amendment) (No. 4) Regulations 2002 and shall come into force on 20th February 2002.
+
+**2.** The Education (Mandatory Awards) Regulations 2001 (Amendment) (No. 3) Regulations 2002[^f00003] are hereby revoked.
+
+**3.** The Education (Mandatory Awards) Regulations 2001[^f00004] shall be amended in accordance with these Regulations.
+
+**4.** For paragraph 14(2) of Schedule 2 there shall be substituted—
+
+> (2) The dependants requirement for each week for which a student shall be eligible under paragraph (1) is:
+>
+> - (a) where the academic year begins in the autumn, for the period of 40 weeks beginning on the first day of the first term of the academic year:
+>   - (i) for one dependent child, 85 per cent. of the costs of the childcare, subject to a maximum amount of £114.75 per week; or
+>   - (ii) for two or more dependent children, 85 per cent. of the costs of the childcare, subject to a maximum amount of £170 per week;
+> - (b) where the academic year begins in the winter, spring or summer, for each week of each term of the academic year and the Christmas and Easter vacations beginning on the first day of the first term of the academic year—
+>   - (i) for one dependent child, 85 per cent. of the costs of the childcare, subject to a maximum amount of £114.75 per week; or
+>   - (ii) for two or more dependent children, 85 per cent. of the costs of the childcare, subject to a maximum amount of £170 per week; and
+> - (c) for any other week of the academic year to which sub-paragraphs (a) or (b) do not apply including a week of the summer vacation, except each week falling within the period between the end of the course and the end of the academic year in which the course ends:
+>   - (i) for one dependent child, 70 per cent. of the costs of the childcare, subject to a maximum amount of £94.50 per week; or
+>   - (ii) for two or more dependent children, 70 per cent. of the costs of the childcare, subject to a maximum amount of £140 per week.
+
+.
+
+Margaret Hodge
+
+Minister of State,
+
+Department for Education and Skills
+
+6th February 2002
+
+(This note is not part of the Regulations)
+
+These Regulations revoke the Education (Mandatory Awards) Regulations 2001 (Amendment) (No. 3) Regulations 2002, which contained a drafting defect.
+
+These Regulations amend paragraph 14(2) of Schedule 2 of the Education (Mandatory Awards) Regulations 2001.
+
+Where a student’s academic year begins in the autumn he shall be eligible for 85 per cent. of dependants requirement for childcare costs for a period of 40 weeks beginning on the first day of the first term of that year.
+
+Where a student’s academic year begins in the winter, spring or summer he shall be eligible for 85 per cent. of dependants requirement for childcare costs for each week of each term of the year and Christmas and Easter vacations.
+
+For any other week of the academic year a student shall be eligible for 70 per cent., of dependants requirement for childcare costs, except for any week that falls between the end of his course of study and the end of the academic year in which the course ends.
+
+## Annotations
+
+[^f00001]: Footnote: [1962 c. 12](https://www.legislation.gov.uk/ukpga/1962/12); the relevant provisions, as amended, are set out in Schedule 5 to the Education Act [1980 (c. 20)](https://www.legislation.gov.uk/ukpga/1980/20); section 1(3)(d) was amended by the Education (Grants and Awards) Act [1984 (c. 11)](https://www.legislation.gov.uk/ukpga/1984/11), section 4; section 4 was amended by the Education Act [1994 (c. 30)](https://www.legislation.gov.uk/ukpga/1994/30), Schedule 2, paragraph 2; the entire Act was repealed by the Teaching and Higher Education Act [1998 (c. 30)](https://www.legislation.gov.uk/ukpga/1998/30), section 44(2) and Schedule 4, subject to the saving and transitional provisions set out in the Teaching and Higher Education Act 1998 (Commencement No. 4 and Transitional Provisions) Order 1998 ([S.I. 1998/3237](https://www.legislation.gov.uk/uksi/1998/3237)/(c. 81), article 4.
+
+[^f00002]: Footnote: [1973 c. 16](https://www.legislation.gov.uk/ukpga/1973/16).
+
+[^f00003]: Footnote: [S.I. 2002/173](https://www.legislation.gov.uk/uksi/2002/173).
+
+[^f00004]: Footnote: [S.I. 2001/1734](https://www.legislation.gov.uk/uksi/2001/1734), amended by [S.I. 2001/2613](https://www.legislation.gov.uk/uksi/2001/2613) and [S.I. 2001/2800](https://www.legislation.gov.uk/uksi/2001/2800).

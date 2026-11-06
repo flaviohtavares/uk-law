@@ -1,0 +1,329 @@
+---
+title: House of Commons (Administration) Act 1978
+id: ukpga/1978/36
+type: UnitedKingdomPublicGeneralAct
+category: primary
+status: revised
+made_date: '1978-07-20'
+text_date: '2015-07-10'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/1978/36
+pdf_urls:
+- http://www.legislation.gov.uk/ukpga/1978/36/pdfs/ukpga_19780036_en.pdf
+- http://www.legislation.gov.uk/ukpga/1978/36/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# House of Commons (Administration) Act 1978
+
+> Text as at 2015-07-10.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+House of Commons (Administration) Act 1978
+
+1978 c.36
+
+An Act to make further provision for the administration of the House of Commons.
+
+\[20th July 1978\][^c910129]
+
+## 1. The House of Commons Commission.
+
+(1) There shall be a body of Commissioners named the House of Commons Commission to perform the functions conferred on it by this Act.
+
+(1A)[^key-ab2d05dfcb13020b52dcf8026d505e52] The Commission is to consist of seven parliamentary members, two external members and two official members.
+
+(2) The parliamentary members are to be[^key-c2047b8e08538df86b77b0aea3e5764e] —
+
+- (a) Mr. Speaker,
+- (b) the Leader of the House of Commons,
+- (c) a member of the House of Commons nominated by the Leader of the Opposition,
+- (d) four[^key-5ed2754e9f8f2f725c7d8c09bf08ef32] other members of the House of Commons appointed by the House of Commons, none of whom shall be a Minister of the Crown.
+
+(2A)[^key-c88f3511e48ed4513ddbe400c37d8c85] An external member may not be—
+
+- (a) a member of the House of Commons,
+- (b) a member of the House of Lords,
+- (c) a member of staff in the House Departments, or
+- (d) a member of staff of the House of Lords.
+
+(2B) An external member is to be appointed by resolution of the House of Commons.
+
+(2C) The official members are—
+
+- (a) the Clerk of the House of Commons or, if that office is vacant, a member of staff in the House Departments who is appointed as an official member by the Commission, and
+- (b) the Director General of the House of Commons or, if that office is vacant or no longer exists, a member of staff in the House Departments who is appointed as an official member by the Commission.
+
+(3) As soon as possible after the end of the year 1978–79, and of each subsequent financial year, the Commission shall prepare and present to the House of Commons a report on the exercise of its functions in that year, and shall cause it to be printed.
+
+(4) In this section—
+
+- “**Leader of the House of Commons**” means the Minister of the Crown for the time being nominated as such by the Prime Minister,
+- “**Leader of the Opposition**” means the person who is the Leader of the Opposition in the House of Commons for the purposes of section 2 of the [^c910130]Ministerial and other Salaries Act 1975.
+- “[^key-d71cee857fc96a7f75e552187ddb642b]**member of staff of the House of Lords**” means a person who is employed under a contract of employment with the Corporate Officer of the House of Lords.
+
+(5) Schedule 1 to this Act has effect as respects the Commission.
+
+## 2. Functions of Commission.
+
+(A1)[^key-73680f9899b1c497ae5c1c94da8dc2d5] The Commission must from time to time set strategic priorities and objectives in connection with services provided by the House Departments.
+
+(1) The Commission shall appoint all staff in the House Departments, and shall determine their numbers and their remuneration and other terms and conditions of service.
+
+(2) The Commission shall ensure that the complementing, grading and pay of staff in the House Departments are kept broadly in line with those in the statutory home civil service[^key-18aeedd75fbf1e7e7168347b3b43853b], and that, so far as consistent with the requirements of the House of Commons, the other conditions of service of staff in the House Departments are also kept broadly in line with those in the statutory home civil service.
+
+(3) The Commission shall ensure that the pensions and other similar benefits of staff in or formerly in the House Departments are kept in line with the provisions of , or provided under,[^key-6abebcf2506335f224c1dc9f16c28db4]the principal Civil Service Pension Scheme (as it applies for the time being to the statutory home civil service), but need not do so in the case of staff for whom provision for such benefits was made under another scheme before they entered service in the House Departments and continues to be so made in respect of such service.
+
+(4) Subsection (1) above does not apply to the power to appoint, or the tenure of office of, the Clerk of the House of Commons, any Clerk Assistant, the Serjeant at Arms or Mr. Speaker’s personal staff.
+
+(5)[^key-4ea06c4b44ff3088af7a2d8778a0cdf1] The statutory home civil service” means the civil service (excluding Her Majesty's diplomatic service) within the meaning of Chapter 1 of Part 1 of the Constitutional Reform and Governance Act 2010 (see section 1(4) of that Act).
+
+## 3. Financial provisions.[^c910131]
+
+(1) For each financial year the Commission shall prepare and lay before the House of Commons an estimate for that year of the use of resources for the service of the House of Commons.
+
+(2) The Commission may appoint a member of the staff in the House Departments, to be known as the accounting officer, to be responsible for accounting for the use of resources for the service of the House of Commons.
+
+(3) Subject to subsection (4), all fees and other sums payable to the House of Commons shall be paid into the Consolidated Fund.
+
+(4) The Commission may, subject to any relevant limit set by an Appropriation Act—
+
+- (a) direct that resources to a specified value may be applied as an appropriation in aid of resources authorised by Parliament to be used for the service of a particular year, and
+- (b) make provision similar to section 2(3) to (5) of the Government Resources and Accounts Act 2000 about money received in connection with an appropriation in aid.
+
+(5) In this section a reference to the use of resources is a reference to their expenditure, consumption or reduction in value.
+
+## 4. The House Departments.[^c910132]
+
+(1) In this Act “**House Departments**” means—
+
+- (a) the Department of the Clerk of the House of Commons,
+- (b) the Department of the Speaker,
+- (c) the Department of the Serjeant at Arms,
+- (d) the Department of the Library,
+- (e) the Administration Department,
+- (f) the Department of the Official Report of the House of Commons,
+
+and any other House Department provided for under subsection (3) below.
+
+(2) In this section “**the Department of the Official Report of the House of Commons**” means that branch of the Department of the Speaker which immediately before the passing of this Act had the function of producing that report, and accordingly on that passing that branch shall become a separate department and shall cease to be part of the Department of the Speaker, without prejudice however to any power exercisable by the Commission in relation to either department under subsection (3) below.
+
+(3) The Commission may from time to time—
+
+- (a) increase or reduce the number of House Departments,
+- (b) allocate functions to any House Department,
+- (c) for those purposes make such arrangements for and in connection with the creation, division, amalgamation or abolition of any House Department (including one created after the passing of this Act) as appear to the Commission expedient.
+
+(4)[^key-702ae6c78cb371ccb35c7378f11d1b55] The Commission may from time to time direct that all or any of the provisions of this Act relating to staff in the House Departments shall apply to any office or post which is not in a House Department but falls within subsection (5) below, and to the staff appointed, or to be appointed, to any such office or post, and may further direct that the holder of any such office or post shall be treated as having been appointed by the Commission.
+
+(5) An office or post falls within this subsection if staff appointed to it are employed in or for the purposes of the House of Commons.
+
+(6) Subsection (4) above does not apply to the power to appoint, or the tenure of office of, Mr. Speaker’s personal staff.
+
+## 5. Short title, etc.
+
+(1) This Act may be cited as the House of Commons (Administration) Act 1978.
+
+(2) In this Act—
+
+- “**the Accounting Officer**” has the meaning given by section 3(2) of this Act,
+- “**the Commission**” means the House of Commons Commission,
+- “**House Departments**” has the meaning given by section 4(1) of this Act.
+
+(3) Schedule 2 to this Act (supplementary and consequential provisions) shall have effect.
+
+(4)[^c910133] The enactments in Schedule 3 to this Act are hereby repealed to the extent specified in the third column of that Schedule.
+
+(5) The following provisions of this Act, namely—
+
+- section 2,
+- paragraphs 3 to 5 of Schedule 2, and
+- Schedule 3,
+
+shall not come into force until 1st January 1979.
+
+SCHEDULES
+
+## SCHEDULE 1 — The Commission
+
+Section 1.
+
+### Incorporation
+
+**1.** The Commission shall be a body corporate.
+
+### Appointment of external members[^key-e050051c150c1c15805213aacba0d26e]
+
+**1A.** (1) A motion for a resolution appointing an external member may be made only with the agreement of the Commission.
+
+(2) A person who is the subject of a motion must have been selected by the parliamentary members on merit on the basis of fair and open competition.
+
+### Members other than Mr. Speaker and the Leader of the House
+
+**2.** (1) Subject to paragraph 3 of this Schedule, a parliamentary member[^key-e0bdab3a34404954c20b8bab0ecde4cd], other than an ex officio member, shall vacate his office—
+
+- (a) if he ceases to be a member of the House of Commons, or
+- (b) if another person is nominated or appointed in his place.
+
+(2) Subject to sub-paragraph (1) above, a parliamentary member[^key-da4db9e0acc823a2ceada91a4436d07e], other than an ex officio member, shall hold office for the duration of the Parliament in which he is nominated or appointed, and for the further period provided by paragraph 3 of this Schedule.
+
+(3) A member of the Commission, other than an ex officio member, may resign at any time by notice to the Commission.
+
+(4) Past service is no bar to nomination or appointment as a member of the Commission, subject to any resolution of the House of Commons[^key-92e3b9e205c2529dba64e8a7d9fa0416].
+
+(5) In this paragraph, and paragraph 3 of this Schedule, “**ex officio member**” means Mr. Speaker , the[^key-6926389825cee0ad70758cd4c4b14970] Leader of the House of Commons , the Clerk of the House of Commons or the Director General of the House of Commons[^key-133e94523d77a2d6876b7012d65d5d95].
+
+### Dissolution of Parliament
+
+**3.** (1) On a dissolution of Parliament the person who is then Mr. Speaker shall continue in office as a parliamentary member[^key-637f3cb71fb34020e2a573871b5d3cd4] until a Speaker is chosen by the new Parliament.
+
+(2) Subject to sub-paragraph (3) below, on a dissolution of Parliament the parliamentary members[^key-4104ea5dbc56a950b6d72580de4118e8] who are not ex officio members shall continue in office until members are nominated or appointed in their place.
+
+(3) Where at any time after Parliament has been dissolved it appears that a parliamentary member[^key-2262842a20ccfb1fd8a91d39c46d850b] who is not an ex officio member—
+
+- (a) has not been validly nominated as a candidate at the ensuing general election; or
+- (b) although so nominated, has not been elected a Member of Parliament at that election,
+
+that member shall resign from the Commission forthwith; but nothing in sub-paragraph (2) above or this sub-paragraph shall be taken as preventing any such member from resigning otherwise than in pursuance of this sub-paragraph.
+
+### Chairman
+
+**4.** Mr. Speaker shall be chairman of the Commission.
+
+### Delegation of Commission’s functions
+
+**5.** (1) The Commission may delegate to Mr. Speaker any of its functions under section 2 of this Act.
+
+(2) The Commission may also delegate—
+
+- (a) to any person who is a member of staff in the House Departments[^key-4bdd703f670457a4e4341df972e06d43] , or to two or more of those persons jointly, any of its functions concerning staff in the House Departments,
+- (b)[^key-012f4a85370f65f0560f2bdfc7438348] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) Anything done by or in relation to a person to whom functions are delegated under this paragraph in the discharge of the Commission’s functions shall have the same effect as if done by or in relation to the Commission.
+
+(4) Any delegation made under this paragraph or any amendment or revocation of such a delegation shall be mentioned in the report under section 1(3) of this Act.
+
+(5) Notwithstanding any delegation under this paragraph, the Commission shall retain the ultimate responsibility for considering representations made in relation to matters affecting the interests, in connection with their employment, of staff in the House Departments by trade unions who are recognised by the Commission in respect of such staff, and for the conduct of consultations and negotiations about such matters with those trade unions.
+
+(6)[^c910137] In sub-paragraph (5) “**trade union**”, and “**recognised**” in relation to a trade union, have the same meaning as in the Trade Union and Labour Relations (Consolidation) Act 1992.
+
+### Proceedings and business
+
+**6.** (1) The validity of any proceedings of the Commission shall not be affected by any vacancy among the members of the Commission, or by any defect in the appointment or nomination of any Commissioner.
+
+(2) The Commission may determine its own procedure.
+
+(3) The Commission may appoint one of the Commissioners to act as chairman at any meeting of the Commission in place of[^key-d4ee63a16b2b7eab8f5eeddf71fd8619] Mr. Speaker.
+
+## SCHEDULE 2 — Supplementary and consequential provisions
+
+Section 5.
+
+### Mr. Speaker to act after dissolution of Parliament
+
+**1.** For the purposes of this Act [^c910144]. . . section 195 of the Employment Rights Act 1996[^c910145], the Speaker at the time of a dissolution of Parliament shall be deemed to remain Speaker for the further period for which he holds office by virtue of paragraph 3(1) of Schedule 1 to this Act.
+
+### Deputy Speaker acting for Mr. Speaker
+
+**2.** (1) While Mr. Speaker is temporarily absent from the House during a session of Parliament a Deputy Speaker having power to act under section 1 of the [^c910146]Deputy Speaker Act 1855 may exercise the functions of Mr. Speaker under this Act.
+
+(2) The said functions shall include any functions delegated to Mr. Speaker under paragraph 5 of Schedule 1 to this Act, but an appointment made in exercise of functions so delegated shall be only for such time as the Deputy Speaker has power under this paragraph to exercise the functions of Mr. Speaker.
+
+### Transitional provision
+
+**3.** All persons employed in the House Departments immediately before the coming into force of section 2 of this Act, other than those mentioned in subsection (4) of that section, shall be treated for all purposes as if their appointments had been made by the Commission.
+
+**4.** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c910147]
+
+### Employment Protection Act 1975 (c.71)
+
+**5.**[^c910149] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 3 — REPEALS[^c910150]
+
+Section 5.
+
+| Chapter | Short Title | Extent of Repeal |
+| --- | --- | --- |
+| 52 Geo. 3. c. 11. | House of Commons (Offices) Act 1812. | The whole Act. |
+| 4 & 5 Will. 4. c. 70. | House of Commons Officers Act 1834. | The whole Act. |
+| 9 & 10 Vict. c. 77. | House of Commons Offices Act 1846. | The whole Act. |
+| 12 & 13 Vict. c. 72. | House of Commons Offices Act 1849. | The whole Act. |
+| 1975 c. 71. | Employment Protection Act 1975. | In section 122, subsection (9). |
+|  |  | In Part IV of Schedule 16, paragraph 1. |
+
+## Annotations
+
+[^c910129]: Commencement: Act partly in force at Royal Assent see s. 5(5).
+
+[^key-ab2d05dfcb13020b52dcf8026d505e52]: Textual amendment: S. 1(1A) inserted (26.3.2015 for specified purposes, 10.7.2015 in so far as not already in force) by [House of Commons Commission Act 2015 (c. 24)](https://www.legislation.gov.uk/ukpga/2015/24), [ss. 1(2)](https://www.legislation.gov.uk/ukpga/2015/24/section/1/2), [3(2)](https://www.legislation.gov.uk/ukpga/2015/24/section/3/2)[(3)](https://www.legislation.gov.uk/ukpga/2015/24/section/3/3)
+
+[^key-c2047b8e08538df86b77b0aea3e5764e]: Textual amendment: Words in s. 1(2) substituted (26.3.2015 for specified purposes, 10.7.2015 in so far as not already in force) by [House of Commons Commission Act 2015 (c. 24)](https://www.legislation.gov.uk/ukpga/2015/24), [ss. 1(3)(a)](https://www.legislation.gov.uk/ukpga/2015/24/section/1/3/a), [3(2)](https://www.legislation.gov.uk/ukpga/2015/24/section/3/2)[(3)](https://www.legislation.gov.uk/ukpga/2015/24/section/3/3)
+
+[^key-5ed2754e9f8f2f725c7d8c09bf08ef32]: Textual amendment: Word in s. 1(2)(d) substituted (26.3.2015 for specified purposes, 10.7.2015 in so far as not already in force) by [House of Commons Commission Act 2015 (c. 24)](https://www.legislation.gov.uk/ukpga/2015/24), [ss. 1(3)(b)](https://www.legislation.gov.uk/ukpga/2015/24/section/1/3/b), [3(2)](https://www.legislation.gov.uk/ukpga/2015/24/section/3/2)[(3)](https://www.legislation.gov.uk/ukpga/2015/24/section/3/3)
+
+[^key-c88f3511e48ed4513ddbe400c37d8c85]: Textual amendment: S. 1(2A)-(2C) inserted (26.3.2015 for specified purposes, 10.7.2015 in so far as not already in force) by [House of Commons Commission Act 2015 (c. 24)](https://www.legislation.gov.uk/ukpga/2015/24), [ss. 1(4)](https://www.legislation.gov.uk/ukpga/2015/24/section/1/4), [3(2)](https://www.legislation.gov.uk/ukpga/2015/24/section/3/2)[(3)](https://www.legislation.gov.uk/ukpga/2015/24/section/3/3)
+
+[^c910130]: Marginal citation: [1975 c. 27](https://www.legislation.gov.uk/ukpga/1975/27).
+
+[^key-d71cee857fc96a7f75e552187ddb642b]: Textual amendment: Words in s. 1(4) inserted (26.3.2015 for specified purposes, 10.7.2015 in so far as not already in force) by [House of Commons Commission Act 2015 (c. 24)](https://www.legislation.gov.uk/ukpga/2015/24), [ss. 1(5)](https://www.legislation.gov.uk/ukpga/2015/24/section/1/5), [3(2)](https://www.legislation.gov.uk/ukpga/2015/24/section/3/2)[(3)](https://www.legislation.gov.uk/ukpga/2015/24/section/3/3)
+
+[^key-73680f9899b1c497ae5c1c94da8dc2d5]: Textual amendment: S. 2(A1) inserted (10.7.2015) by [House of Commons Commission Act 2015 (c. 24)](https://www.legislation.gov.uk/ukpga/2015/24), [ss. 2](https://www.legislation.gov.uk/ukpga/2015/24/section/2), [3(3)](https://www.legislation.gov.uk/ukpga/2015/24/section/3/3)
+
+[^key-18aeedd75fbf1e7e7168347b3b43853b]: Textual amendment: Words in s. 2(2)(3) substituted (11.11.2010) by [Constitutional Reform and Governance Act 2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25), [s. 52](https://www.legislation.gov.uk/ukpga/2010/25/section/52), [Sch. 2 para. 5(2)](https://www.legislation.gov.uk/ukpga/2010/25/schedule/2/paragraph/5/2); [S.I. 2010/2703](https://www.legislation.gov.uk/uksi/2010/2703), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/2703/article/2/a); [S.I. 2010/2703](https://www.legislation.gov.uk/uksi/2010/2703), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/2703/article/2/a)
+
+[^key-6abebcf2506335f224c1dc9f16c28db4]: Textual amendment: Words in s. 2(3) inserted (1.4.2014) by [Public Service Pensions Act 2013 (c. 25)](https://www.legislation.gov.uk/ukpga/2013/25), [s. 41(2)](https://www.legislation.gov.uk/ukpga/2013/25/section/41/2), [Sch. 8 para. 13](https://www.legislation.gov.uk/ukpga/2013/25/schedule/8/paragraph/13) (with [Sch. 11 para. 8](https://www.legislation.gov.uk/ukpga/2013/25/schedule/11/paragraph/8)); [S.I. 2014/839](https://www.legislation.gov.uk/uksi/2014/839), [art. 4(2)(f)](https://www.legislation.gov.uk/uksi/2014/839/article/4/2/f)
+
+[^key-4ea06c4b44ff3088af7a2d8778a0cdf1]: Textual amendment: S. 2(5) inserted (11.11.2010) by [Constitutional Reform and Governance Act 2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25), [s. 52](https://www.legislation.gov.uk/ukpga/2010/25/section/52), [Sch. 2 para. 5(3)](https://www.legislation.gov.uk/ukpga/2010/25/schedule/2/paragraph/5/3); [S.I. 2010/2703](https://www.legislation.gov.uk/uksi/2010/2703), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/2703/article/2/a)
+
+[^c910131]: Textual amendment: S. 3 substituted (22.12.2000) by [2000 c. 20](https://www.legislation.gov.uk/ukpga/2000/20), [s. 29](https://www.legislation.gov.uk/ukpga/2000/20/section/29), [Sch. 1 para. 17](https://www.legislation.gov.uk/ukpga/2000/20/schedule/1/paragraph/17); [S.I. 2000/3349](https://www.legislation.gov.uk/uksi/2000/3349), [art. 2(f)](https://www.legislation.gov.uk/uksi/2000/3349/article/2/f)
+
+[^c910132]: Modification: S. 4 excluded by [National Audit Act 1983 (c.44, SIF 99:1)](https://www.legislation.gov.uk/ukpga/1983/44), [s. 1(4)](https://www.legislation.gov.uk/ukpga/1983/44/section/1/4)
+
+[^key-702ae6c78cb371ccb35c7378f11d1b55]: Modification: S. 4(4) excluded (1.4.2012) by [Budget Responsibility and National Audit Act 2011 (c. 4)](https://www.legislation.gov.uk/ukpga/2011/4), [ss. 12(2)](https://www.legislation.gov.uk/ukpga/2011/4/section/12/2), [29](https://www.legislation.gov.uk/ukpga/2011/4/section/29) (with [Sch. 4](https://www.legislation.gov.uk/ukpga/2011/4/schedule/4)); [S.I. 2011/2576](https://www.legislation.gov.uk/uksi/2011/2576), [art. 5](https://www.legislation.gov.uk/uksi/2011/2576/article/5)
+
+[^c910133]: Modification: S. 5 (4) is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991
+
+[^key-e050051c150c1c15805213aacba0d26e]: Textual amendment: [Sch. 1 para. 1A](https://www.legislation.gov.uk/ukpga/1978/36/schedule/1/paragraph/1A) inserted (26.3.2015 for specified purposes, 10.7.2015 in so far as not already in force) by [House of Commons Commission Act 2015 (c. 24)](https://www.legislation.gov.uk/ukpga/2015/24), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2015/24/section/3/2)[(3)](https://www.legislation.gov.uk/ukpga/2015/24/section/3/3), [Sch. para. 2](https://www.legislation.gov.uk/ukpga/2015/24/schedule/paragraph/2)
+
+[^key-e0bdab3a34404954c20b8bab0ecde4cd]: Textual amendment: Words in Sch. 1 para. 2(1) substituted (26.3.2015 for specified purposes, 10.7.2015 in so far as not already in force) by [House of Commons Commission Act 2015 (c. 24)](https://www.legislation.gov.uk/ukpga/2015/24), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2015/24/section/3/2)[(3)](https://www.legislation.gov.uk/ukpga/2015/24/section/3/3), [Sch. para. 3(2)](https://www.legislation.gov.uk/ukpga/2015/24/schedule/paragraph/3/2)
+
+[^key-da4db9e0acc823a2ceada91a4436d07e]: Textual amendment: Words in Sch. 1 para. 2(2) substituted (26.3.2015 for specified purposes, 10.7.2015 in so far as not already in force) by [House of Commons Commission Act 2015 (c. 24)](https://www.legislation.gov.uk/ukpga/2015/24), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2015/24/section/3/2)[(3)](https://www.legislation.gov.uk/ukpga/2015/24/section/3/3), [Sch. para. 3(2)](https://www.legislation.gov.uk/ukpga/2015/24/schedule/paragraph/3/2)
+
+[^key-92e3b9e205c2529dba64e8a7d9fa0416]: Textual amendment: Words in Sch. 1 para. 2(4) inserted (26.3.2015 for specified purposes, 10.7.2015 in so far as not already in force) by [House of Commons Commission Act 2015 (c. 24)](https://www.legislation.gov.uk/ukpga/2015/24), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2015/24/section/3/2)[(3)](https://www.legislation.gov.uk/ukpga/2015/24/section/3/3), [Sch. para. 3(3)](https://www.legislation.gov.uk/ukpga/2015/24/schedule/paragraph/3/3)
+
+[^key-6926389825cee0ad70758cd4c4b14970]: Textual amendment: Word in Sch. 1 para. 2(5) substituted (26.3.2015 for specified purposes, 10.7.2015 in so far as not already in force) by [House of Commons Commission Act 2015 (c. 24)](https://www.legislation.gov.uk/ukpga/2015/24), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2015/24/section/3/2)[(3)](https://www.legislation.gov.uk/ukpga/2015/24/section/3/3), [Sch. para. 3(4)(a)](https://www.legislation.gov.uk/ukpga/2015/24/schedule/paragraph/3/4/a)
+
+[^key-133e94523d77a2d6876b7012d65d5d95]: Textual amendment: Words in Sch. 1 para. 2(5) inserted (26.3.2015 for specified purposes, 10.7.2015 in so far as not already in force) by [House of Commons Commission Act 2015 (c. 24)](https://www.legislation.gov.uk/ukpga/2015/24), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2015/24/section/3/2)[(3)](https://www.legislation.gov.uk/ukpga/2015/24/section/3/3), [Sch. para. 3(4)(b)](https://www.legislation.gov.uk/ukpga/2015/24/schedule/paragraph/3/4/b)
+
+[^key-637f3cb71fb34020e2a573871b5d3cd4]: Textual amendment: Words in Sch. 1 para. 3(1) substituted (26.3.2015 for specified purposes, 10.7.2015 in so far as not already in force) by [House of Commons Commission Act 2015 (c. 24)](https://www.legislation.gov.uk/ukpga/2015/24), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2015/24/section/3/2)[(3)](https://www.legislation.gov.uk/ukpga/2015/24/section/3/3), [Sch. para. 4(2)](https://www.legislation.gov.uk/ukpga/2015/24/schedule/paragraph/4/2)
+
+[^key-4104ea5dbc56a950b6d72580de4118e8]: Textual amendment: Words in Sch. 1 para. 3(2) substituted (26.3.2015 for specified purposes, 10.7.2015 in so far as not already in force) by [House of Commons Commission Act 2015 (c. 24)](https://www.legislation.gov.uk/ukpga/2015/24), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2015/24/section/3/2)[(3)](https://www.legislation.gov.uk/ukpga/2015/24/section/3/3), [Sch. para. 4(3)](https://www.legislation.gov.uk/ukpga/2015/24/schedule/paragraph/4/3)
+
+[^key-2262842a20ccfb1fd8a91d39c46d850b]: Textual amendment: Words in Sch. 1 para. 3(3) substituted (26.3.2015 for specified purposes, 10.7.2015 in so far as not already in force) by [House of Commons Commission Act 2015 (c. 24)](https://www.legislation.gov.uk/ukpga/2015/24), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2015/24/section/3/2)[(3)](https://www.legislation.gov.uk/ukpga/2015/24/section/3/3), [Sch. para. 4(2)](https://www.legislation.gov.uk/ukpga/2015/24/schedule/paragraph/4/2)
+
+[^key-4bdd703f670457a4e4341df972e06d43]: Textual amendment: Words in Sch. 1 para. 5(2)(a) substituted (26.3.2015 for specified purposes, 10.7.2015 in so far as not already in force) by [House of Commons Commission Act 2015 (c. 24)](https://www.legislation.gov.uk/ukpga/2015/24), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2015/24/section/3/2)[(3)](https://www.legislation.gov.uk/ukpga/2015/24/section/3/3), [Sch. para. 5(a)](https://www.legislation.gov.uk/ukpga/2015/24/schedule/paragraph/5/a)
+
+[^key-012f4a85370f65f0560f2bdfc7438348]: Textual amendment: Sch. 1 para. 5(2)(b) omitted (26.3.2015 for specified purposes, 10.7.2015 in so far as not already in force) by virtue of [House of Commons Commission Act 2015 (c. 24)](https://www.legislation.gov.uk/ukpga/2015/24), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2015/24/section/3/2)[(3)](https://www.legislation.gov.uk/ukpga/2015/24/section/3/3), [Sch. para. 5(b)](https://www.legislation.gov.uk/ukpga/2015/24/schedule/paragraph/5/b)
+
+[^c910137]: Textual amendment: Sch. 1 para. 5(6) substituted (16. 10. 1992) by [Trade Union and Labour Relations (Consolidation) Act 1992 (c. 52)](https://www.legislation.gov.uk/ukpga/1992/52), [ss. 300(2)](https://www.legislation.gov.uk/ukpga/1992/52/section/300/2), [302](https://www.legislation.gov.uk/ukpga/1992/52/section/302), [Sch. 2 para.10](https://www.legislation.gov.uk/ukpga/1992/52/schedule/2/paragraph/10).
+
+[^key-d4ee63a16b2b7eab8f5eeddf71fd8619]: Textual amendment: Words in Sch. 1 para. 6(3) substituted (26.3.2015 for specified purposes, 10.7.2015 in so far as not already in force) by [House of Commons Commission Act 2015 (c. 24)](https://www.legislation.gov.uk/ukpga/2015/24), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2015/24/section/3/2)[(3)](https://www.legislation.gov.uk/ukpga/2015/24/section/3/3), [Sch. para. 6](https://www.legislation.gov.uk/ukpga/2015/24/schedule/paragraph/6)
+
+[^c910144]: Textual amendment: Words in [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/1978/36/schedule/2/paragraph/1) repealed (16. 10. 1992) by [Trade Union and Labour Relations (Consolidation) Act 1992 (c. 52)](https://www.legislation.gov.uk/ukpga/1992/52), [ss. 300(1)](https://www.legislation.gov.uk/ukpga/1992/52/section/300/1), [302](https://www.legislation.gov.uk/ukpga/1992/52/section/302), [Sch. 1](https://www.legislation.gov.uk/ukpga/1992/52/schedule/1).
+
+[^c910145]: Textual amendment: Words in [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/1978/36/schedule/2/paragraph/1) substituted (22.8.1996) by [1996 c. 18](https://www.legislation.gov.uk/ukpga/1996/18), [s. 240](https://www.legislation.gov.uk/ukpga/1996/18/section/240), [Sch. 1 para. 14](https://www.legislation.gov.uk/ukpga/1996/18/schedule/1/paragraph/14)
+
+[^c910146]: Marginal citation: [1855 c. 84](https://www.legislation.gov.uk/ukpga/1855/84).
+
+[^c910147]: Textual amendment: [Schedule 2 paragraph 4](https://www.legislation.gov.uk/ukpga/1978/36/schedule/2/paragraph/4) repealed by [Statute Law (Repeals) Act 1989 (c.43)](https://www.legislation.gov.uk/ukpga/1989/43), [s. 1(1)](https://www.legislation.gov.uk/ukpga/1989/43/section/1/1), [Sch. 1 Pt. II](https://www.legislation.gov.uk/ukpga/1989/43/schedule/1/part/II) Gp. 2
+
+[^c910149]: Textual amendment: [Sch. 2 para. 5](https://www.legislation.gov.uk/ukpga/1978/36/schedule/2/paragraph/5) repealed (16. 10. 1992) by [Trade Union and Labour Relations Act 1992 (c. 52)](https://www.legislation.gov.uk/ukpga/1992/52), [ss. 300(1)](https://www.legislation.gov.uk/ukpga/1992/52/section/300/1), [302](https://www.legislation.gov.uk/ukpga/1992/52/section/302), [Sch.1](https://www.legislation.gov.uk/ukpga/1992/52/schedule/1).
+
+[^c910150]: Modification: [Sch. 3](https://www.legislation.gov.uk/ukpga/1978/36/schedule/3) is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991

@@ -1,0 +1,1854 @@
+---
+title: The Police Regulations 2003
+id: uksi/2003/527
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2003-03-05'
+text_date: '2026-07-13'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2003/527
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2003/527/pdfs/uksi_20030527_en.pdf
+- http://www.legislation.gov.uk/uksi/2003/527/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Police Regulations 2003
+
+> Text as at 2026-07-13.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2003 No. 527
+
+POLICE, ENGLAND & WALES
+
+The Police Regulations 2003
+
+Made
+
+5th March 2003
+
+Laid before Parliament
+
+10th March 2003
+
+Coming into force
+
+1st April 2003
+
+The Secretary of State, in exercise of the powers conferred on him by section 50 of the Police Act 1996 [^c5009371] and section 405 of the Greater London Authority Act 1999 [^c5009381], and after taking into consideration the recommendations of the Police Negotiating Board and supplying that Board with a draft of these Regulations in accordance with section 62(1) of the Police Act 1996, and after supplying a draft of these Regulations to the Police Advisory Board for England and Wales and taking into consideration their representations in accordance with section 63(3) of the Police Act 1996, hereby makes the following Regulations:[^key-0db05ab2df6806eb1176319cc621fc36]
+
+## PART 1 — COMMENCEMENT AND INTERPRETATION
+
+### 1. Citation, commencement and extent
+
+(1) These Regulations may be cited as the Police Regulations 2003 and shall come into force on 1st April 2003.
+
+(2) These Regulations extend to England and Wales.
+
+### 2. References to transfers
+
+(1) A reference in these Regulations to a member of a police force voluntarily transferring from one force to another shall be construed as a reference to such a member leaving a force for the purpose of joining another force and joining that other force, where he left the force first mentioned in this regulation on or after 1st January 1963 for that purpose with, in the case of the chief officer, the consent of the local policing body[^key-e26af6aab3b77d15bd0248e560ca4cbc].
+
+(2) Except where the context otherwise requires, a reference in these Regulations to a member of a police force being statutorily transferred from one force to another shall be construed as a reference to such a member being transferred—
+
+- (a) by or under the Local Government Act 1933 [^c5009391], the Police Act 1946 [^c5009401], the Local Government Act 1958 [^c5009411], the London Government Act 1963 [^c5009421], the Police Act 1964 [^c5009431] (including that Act as amended by the Police and Magistrates' Courts Act 1994 [^c5009441]), the Local Government Act 1972 [^c5009451], the Local Government Act 1992 [^c5009461] or the Police Act 1996;
+- (b) in the case of a person who was a member of the River Tyne police force, under the Harbours Act 1964 [^c5009471].
+
+(3) A reference in these Regulations to a member of a police force transferring from one force to another shall be construed as a reference to his either voluntarily so transferring or being statutorily so transferred.
+
+### 3. Interpretation
+
+(1) In these Regulations—
+
+- “the[^key-c47a88e62890139ac49c86751fdf32dd] 2011 Act” means the Police Reform and Social Responsibility Act 2011;
+- “**Act**” means the Police Act 1996;
+- “**British Transport Police Force**” means the force of constables appointed under section 53 of the British Transport Commission Act 1949 [^c5009481];
+- “**central police officer**” has the same meaning as in the Police Pensions Regulations;
+- “**chief officer**” means chief officer of police;
+- “**Conduct Regulations**” means the regulations relating to conduct from time to time in force under section 50 of the Act [^key-d9bf256c3174a921a975060ef457041b]...;
+- “DE Inspector Programme” means a programme for the time being recognised by the Secretary of State for the purposes of these Regulations as the Direct Entry (Inspector) Programme;[^key-59f96e58d9b59fd8818a932239aebc7a]
+- “DE inspector” means an inspector participating in the DE Inspector Programme;
+- “DE Superintendent Programme” means a programme for the time being recognised by the Secretary of State for the purposes of these Regulations as the Direct Entry (Superintendent) Programme;[^key-39564486b7427bfe2d018b5b3547d1c1]
+- “DE superintendent” means a superintendent participating in the DE Superintendent Programme;
+- “FT Programme” means a programme for the time being recognised by the Secretary of State for the purposes of these Regulations as the Constable to Inspector Fast Track Programme;
+- “**maternity leave**” means leave taken in accordance with a determination under regulation 33(7);
+- “**member of a police force**” includes such a member who is suspended under the Conduct Regulations;
+- “[^key-cafa219ed952a83f8599cb4fa6aaa0f2]NCA” means the National Crime Agency;
+- “oral fluid” includes saliva;[^key-a9733ada2573be7d64cefd337fa915d3]
+- “**pensionable service**” has the same meaning as in the Police Pensions Regulations;
+- “**Police Pensions Regulations**” means the regulations from time to time in force under the Police Pensions Act 1976 [^c5009491];
+- “**Promotion Regulations**” means the regulations relating to qualification and selection for promotion from time to time in force under section 50 of the Act [^key-fd77fa14a659f748157152f30333304d]...;
+- “**public holiday**” means Christmas Day, the 26th December (if it falls on a Saturday or a Sunday), the 1st January (if it so falls), Good Friday or a bank holiday;
+- “rejoiner member” means a member of a police force to whom regulation 10B applies;[^key-48d78f55fb397e207c72d4bd8fab1e81]
+- “**the representative bodies**” means the Police Federation for England and Wales and all bodies for the time being recognised by the Secretary of State for the purposes of section 64 of the Act;
+- “**reversionary member of a home police force**” has the same meaning as in the Police Pensions Regulations;
+- [^key-43870a46c3e59b3a93d0173a08d6f536]...
+- “specified[^key-65639e719b0a33eaeab9d2acaa100d05] NCA officer” means an NCA officer whose service as such is eligible service within the meaning of section 11(9) to (13) of the Police Pensions Act 1976;
+- “**university scholar**” means a member of a police force on a course of university study nominated by the Secretary of State or by the local policing body[^key-045961b699b4efb022cafd7ad812912d] maintaining the police force of which he is a member following arrangements approved by the Secretary of State.
+
+(2) In these Regulations, a reference to a police force shall include a reference to the [^key-8edc46633825665fa884e4d69369a650]... Police Service of Northern Ireland[^key-2e38bab1ae8a875c9d961f215623ff20] and a police force maintained under the Police (Scotland) Act 1967 [^c5009501], so, however, that nothing in these Regulations shall be construed as relating to the government, administration or conditions of service of the Police Service of Northern Ireland or such a force.
+
+(2A)[^key-438d51186d155980f9090a2696cdb6f4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2B)[^key-600042ba7874cb7c485e3e97a5b42e56] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2C)[^key-ec712668bf0a7cd8aa60ad06654a1c2c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) In these Regulations a reference to an aerodrome constabulary is a reference to such a constabulary within the meaning of the Aviation Security Act 1982 [^c5009511], and a reference to a rank in such a constabulary corresponding to a rank in a police force is a reference to a rank in that constabulary designated for the purposes hereof by the Secretary of State as the rank corresponding to the rank in question.
+
+(4) Nothing in these Regulations shall be construed as authorising pay or allowances payable to any person to be reduced retrospectively.
+
+## PART 2 — GOVERNMENT
+
+### 4. Ranks
+
+(1) Subject to paragraphs (2) and (3)[^key-c35d6eb8def310364c5b38cc281eba71], the ranks of a police force shall be known by the following designations—
+
+- Chief Constable;
+- Deputy Chief Constable;
+- Assistant Chief Constable;
+- Chief Superintendent;
+- Superintendent;
+- Chief Inspector;
+- Inspector;
+- Sergeant;
+- Constable.
+
+(2) In its application to the metropolitan police force, paragraph (1) shall have effect as if—
+
+- (a) the references to Chief Constable, Deputy Chief Constable and Assistant Chief Constable were omitted; and
+- (b) there were references to Commissioner, Deputy Commissioner, Assistant Commissioner and Deputy Assistant Commissioner of Police of the Metropolis and to Commander.
+
+(3) In its application to the City of London police force (in respect of which a Commissioner of the City of London Police is appointed under the Acts relating to that force) paragraph (1) shall have effect as if—
+
+- (a) the references to Chief Constable, Deputy Chief Constable and Assistant Chief Constable were omitted; and
+- (b) there were references to Assistant Commissioner and Commander.
+
+(4)[^key-7626816fe1937a90fa46c4c849665a54] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 5. Part-time appointments
+
+(1) [^key-ff16eacce3960f2748bfa1d779b8ef7f]... A chief officer may [^key-9dcc81dc6f6256cb1378935d8a286b42]... appoint persons to perform part-time service in any rank.
+
+(2) In these Regulations a person appointed to perform part-time service includes a person appointed to share a job with another person.
+
+(3) A person appointed to perform part-time service may not be appointed to serve as a full-time member without his consent.
+
+(4) A person appointed to perform part-time service immediately after serving as a full-time member may give notice in writing of his intention to be re-appointed as a full-time member and shall be so appointed—
+
+- (a) within 2 months[^key-bb9272062bf32bc28665ed082679de10] of the date the notice is received by the local policing body[^key-4b460727fbc3070e866a04c850b364b1], where the body[^key-bcbba68d97226a71d6b63a760e672a99] has a suitable vacancy, or
+- (b) except where sub-paragraph (a) applies, when 4 months[^key-303c91d560993cd0df27ab63a6a0b6de] have elapsed since the day the notice was received, or from an earlier date if reasonably practicable.
+
+(5) A person serving as a full-time member of a police force may not be appointed to perform part-time service without his consent.
+
+(6) In this regulation “**full-time member**” means a member appointed otherwise than under this regulation.
+
+(7)[^key-915662e3d5dfabddb444f68f1f6373f4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(8)[^key-dfa1c0388a5b31b22b73904d0e1962e4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 6. Restrictions on the private life of members
+
+(1) The restrictions on private life contained in Schedule 1 shall apply to all members of a police force.
+
+(2) No restrictions other than those designed to secure the proper exercise of the functions of a constable shall be imposed by the local policing body[^key-dd00da0dd53bc1d0b282acb9e8f38270] or the chief officer on the private life of members of a police force except—
+
+- (a) such as may temporarily be necessary, or
+- (b) such as may be approved by the Secretary of State after consultation with the Police Advisory Board for England and Wales.
+
+(3) Any restriction temporarily imposed under paragraph (2) shall be reported forthwith to the Secretary of State.
+
+### 7. Business interests of members of police forces: general[^key-6923e5a8d6589cd447aa3a0e9584e129][^M_C_c6be7fd6-c304-4d8a-883f-731d7825fdd0][^key-fcdfcb83600c3a483e4f3851e6adde78]
+
+(1) Where, in the case of a member of a police force—
+
+- (a) a business interest has been held by the appropriate officer to be incompatible with continued membership of the force under regulation 8; and
+- (b) either—
+  - (i) no appeal has been made under regulation 9, or
+  - (ii) such an appeal has been made and the chief officer has upheld the decision of the appropriate officer,
+
+the decision of the appropriate officer shall be regarded as a lawful order for the purposes of the standards of professional behaviour set out in the Schedule to the Police (Conduct) Regulations 2008 and, in the event of any failure to abide by the decision, those Regulations shall apply as though the appropriate authority had determined under regulation 19(4) of those Regulations that the member had a case to answer in respect of gross misconduct.
+
+(2) For the purposes of this regulation and regulations 8 and 9 a person has a business interest if—
+
+- (a) being a member of a police force, the person holds any office or employment for hire or gain (otherwise than as a member of the force) or carries on any business; or
+- (b) being a member of a police force or a relative of a member, the person holds or possesses a pecuniary interest in a licence or permit granted in pursuance of the law relating to alcohol licensing, refreshment houses or betting and gaming or regulating places of entertainment in the area of the police force in question.
+
+(3) Functions of the chief officer under this regulation and regulations 8 and 9 may be exercised only—
+
+- (a) by the chief officer personally; or
+- (b) by an acting chief officer.
+
+(4) A member of a police force may choose—
+
+- (a) another member of a police force;
+- (b) a police staff member, or
+- (c) a person nominated by the member’s staff association,
+
+who is not otherwise involved in the matter to act as the member’s police friend in relation to the procedures set out in regulations 8 and 9.
+
+(5) A police friend may—
+
+- (a) advise the member concerned throughout the procedures set out in regulations 8 and 9;
+- (b) accompany the member concerned to any meeting held under regulation 8 or 9; and
+- (c) make representations on the member’s behalf at any such meeting,
+
+and a chief officer shall permit a police friend who is under the chief officer’s direction and control to use a reasonable amount of duty time for these purposes.
+
+(6) In this regulation and regulations 8 and 9—
+
+- “acting chief officer” means—
+  - (a) a person exercising or performing functions of a chief constable in accordance with section 41 of the Police Reform and Social Responsibility Act 2011,
+  - (b) a person exercising powers or duties of the Commissioner of Police of the Metropolis in accordance with section 44 or 45(4) of that Act, or
+  - (c) a person exercising duties of the Commissioner of Police for the City of London in accordance with section 25 of the City of London Police Act 1839;
+- “appropriate officer” means a person serving in the part of the police force responsible for the maintenance of standards of professional behaviour who has been authorised by the chief officer to exercise functions under regulation 8;
+- “police staff member” means—
+  - (a) a member of the civilian staff of a police force (within the meaning of section 102(4) and (6) of the Police Reform and Social Responsibility Act 2011); or
+  - (b) an employee of the Common Council of the City of London who is under the direction and control of the Commissioner of the City of London Police;
+- “relative”, in relation to a member of a police force, means—
+  - (a) a spouse or civil partner who is not separated from the member;
+  - (b) a person living with the member as if they were the member’s spouse or civil partner; or
+  - (c) a parent, son, daughter, brother or sister of the member,
+
+  who is included in the member’s family;
+- “staff association” means—
+  - (a) in relation to a member of a police force of the rank of chief inspector or below, the Police Federation of England and Wales;
+  - (b) in relation to a member of a police force of the rank of superintendent or chief superintendent, the Police Superintendents’ Association of England and Wales; and
+  - (c) in relation to a member of a police force who is a senior officer, the Chief Police Officers’ Staff Association.
+
+(7) In its application to a chief officer, this regulation and regulations 8 and 9 have effect with the following modifications—
+
+- (a)[^key-00a67736b56646eaa1dada67283f9fac] paragraph (3) of this regulation has effect as if it read—
+
+  > (3) Functions of the local policing body under this regulation and regulations 8 and 9 may be exercised, where that body is an elected local policing body, only by the body personally or by a deputy appointed under section 18(1)(a) or 19(1)(a) of the Police Reform and Social Responsibility Act 2011.
+
+  ;
+- (b) in paragraph (6) of this regulation—
+  - (i) the definition of “acting chief officer” is omitted;
+  - (ii) the definition of “appropriate officer” has effect as if it read—
+
+    > - “appropriate officer” means a member of the staff of the local policing body who is not under the direction and control of the chief officer and who has been authorised by the body to exercise functions under regulation 8;
+
+    ; and
+  - (iii) every other reference to the chief officer has effect as a reference to the local policing body.
+
+### 8. Business interests of members of police forces: notification and determination
+
+(1) If a member of a police force—
+
+- (a) has or proposes to have a business interest which has not previously been disclosed; or
+- (b) is or becomes aware that a relative has or proposes to have a business interest which, in the opinion of the member, interferes or could be seen as interfering with the impartial discharge of the member’s duties and has not previously been disclosed,
+
+the member shall immediately give written notice of that business interest to the chief officer.
+
+(2) On receipt of a notice given under paragraph (1), the chief officer shall direct the appropriate officer to decide whether or not the business interest is compatible with the member concerned remaining a member of the police force.
+
+(3) In deciding whether the business interest is compatible with the member concerned remaining a member of the police force, the appropriate officer shall have regard to whether, as a result of the business interest, the member’s conduct fails or would fail to meet the standards of professional behaviour set out in the Schedule to the Police (Conduct) Regulations 2008.
+
+(4) Where the appropriate officer is minded to decide that the business interest is not compatible with the member concerned remaining a member of the police force, or is not so compatible unless conditions are imposed, the officer shall—
+
+- (a) notify the member in writing of this preliminary view and the reasons for it;
+- (b) give the member the opportunity to make representations in writing, at a meeting, or both, at the discretion of the member; and
+- (c) take any such representations into account.
+
+(5) Whether or not notification is given under paragraph (4), the appropriate officer shall, within 28 days of receipt of the notice given under paragraph (1), notify the member concerned in writing of the officer’s decision in relation to the business interest.
+
+(6) Where the decision is that the business interest is compatible with the member concerned remaining a member of the police force, the notification under paragraph (5) may include a requirement for the member to furnish particulars of changes in the business interest, as respects its nature, extent or otherwise.
+
+(7) Where the decision is that the business interest is not compatible with the member concerned remaining a member of the police force, or is not so compatible unless conditions are imposed, the notification under paragraph (5) shall—
+
+- (a) include a statement of the reasons for the decision;
+- (b) be accompanied by copies of any document on which the officer relies in support of the decision, and
+- (c) inform the member of the existence of the right of appeal under regulation 9.
+
+(7) Where a member of a police force is required to furnish particulars of changes in a business interest under paragraph (6), then in the event of any such change being proposed or occurring this regulation shall have effect as though the changed business interest were a newly proposed or newly acquired business interest.
+
+### 9. Business interests of members of police forces: appeal
+
+(1) Within 10 days of being notified of an appropriate officer’s decision under regulation 8(5), or within such longer period as the chief officer may in all the circumstances allow, a member of a police force may appeal against that decision by sending written notice to the chief officer.
+
+(2) On receiving notice of appeal under paragraph (1) the chief officer shall—
+
+- (a) give the member the opportunity to make representations in writing, at a meeting, or both, at the discretion of the member; and
+- (b) take any such representations into account.
+
+(3) The chief officer shall decide the appeal unless it appears to the chief officer that—
+
+- (a) the member has adduced substantive reasons why the member should be permitted to have the business interest, or why conditions should not be imposed, which were not considered by the appropriate officer; or
+- (b) the appropriate officer failed to apply fair procedures,
+
+in which case the chief officer may direct the appropriate officer to decide the matter again under regulation 8.
+
+(4) Subject to paragraph (5), the chief officer shall, within 28 days of receipt of the notice of appeal under paragraph (1), notify the member concerned in writing of the outcome of the appeal and provide a statement of the reasons for the decision.
+
+(5) The chief officer may extend the period specified in paragraph (4), where the chief officer considers that it would be in the interests of justice to do so.
+
+(6) Where the chief officer decides to extend the period under paragraph (5), the chief officer shall provide written notification of the reasons for that decision to the member concerned.
+
+### 9A. Business interest precluding appointment to a police force
+
+(1) A candidate is not eligible for appointment to a police force if the candidate or a relative of the candidate has a business interest which is to be retained after appointment, unless the business interest is approved by the chief officer or, in the case of a candidate for appointment as chief officer, by the local policing body.
+
+(2) For the purposes of this regulation—
+
+- (a) a person has a business interest if—
+  - (i) being a candidate for appointment to a police force, the person holds any office or employment for hire or gain or carries on any business, or
+  - (ii) being a candidate for appointment to a police force or a relative of a candidate, the person holds or possesses a pecuniary interest in a licence or permit granted in pursuance of the law relating to alcohol licensing, refreshment houses or betting and gaming or regulating places of entertainment in the area of the police force in question; and
+- (b) “relative”, in relation to a candidate for appointment to a police force, means—
+  - (i) a spouse or civil partner who is not separated from the candidate,
+  - (ii) a person living with the candidate as if they were the candidate’s spouse or civil partner, or
+  - (iii) a parent, son, daughter, brother or sister of the candidate,
+
+  who is included in the candidate’s family.
+
+### 10. Qualifications for appointment to a police force
+
+(1) A candidate for appointment to a police force—
+
+- (a)[^key-143d781525254eb74da20786bb6aae03] must, if not a national of the United Kingdom or an EEA State[^key-192176d037afb181113d250e0107b774], have leave to enter or remain in the United Kingdom for an indefinite period;
+- (b) must produce satisfactory references as to character, and, if he has served in any police force, in the armed forces, in the civil service or as a seaman, produce satisfactory proof of his good conduct while so serving;
+- (ba)[^key-d985e212bddd453b971ad90e990dea5c] must have attained the age of 17 years;
+- (c) must have attained the age of 18 years[^key-52968d9b38c0b9c5bec4e03b14195b2c] before being appointed to a police force[^key-f4d319b3132481681b81a22225a4838f];
+- (d) must be certified by a registered medical practitioner approved by the local policing body[^key-74d2628cc935f0a068e415f52b56223f] to be in good health, of sound constitution and fitted both physically and mentally to perform the duties on which he will be employed after appointment;
+- (e) must meet the standard of eyesight determined by the Secretary of State;
+- (ea)[^key-6f6bd67167a7951565306bac805a8640] must have a selected qualification or experience, within the meaning of paragraph (1A) before being appointed to a police force[^key-2b8faa32fac9b09ccc5e6fa1b3c8d460];
+- (eb)[^key-a447200b50bdc2e384134ab0eeb4d2ff] must, if a candidate for appointment in the rank of constable, unless the candidate is applying to transfer to the force from another police force, within the periods of time and to the standard set by the College of Policing for each of the following stages—
+  - (i) complete and submit to a police force the national application form;
+  - (ii) pass the national sift test;
+  - (iii) pass the online assessment process; and
+  - (iv) pass an in-person interview with the police force to which they are applying that meets the national standard;
+- (f) must, if a candidate for appointment in the rank of constable, satisfy the chief officer that he is sufficiently competent in written and spoken English, and sufficiently numerate, by passing such assessments in written and spoken English, and numeracy, as may be approved by the Secretary of State;
+- (g) must, if a candidate for appointment in the rank of sergeant, or inspector, be qualified for promotion to such rank in accordance with the provisions of the Promotion Regulations;
+- (h) must give such information as may be required as to his previous history or employment or any other matter relating to his appointment to the police force;
+- (ha)[^key-a26ecdfc913b4aaa82bbd7fd5cc4ee8b] must, unless the candidate is a police officer applying to transfer to the force from another police force, not have engaged in conduct which attracts automatic disqualification under paragraph (2A);
+- (hb) must hold vetting clearance in accordance with the Police (Vetting) Regulations 2025;
+- (i)[^key-666c60bbb209b95068004bbc51a1d67d] must, unless he is applying to transfer to the force from another police force, on being so required by the chief officer of the force to which he is a candidate for appointment give a sample of hair or oral fluid[^key-433436b86ee2a917af92b78b6050bd66] or urine to be tested in accordance with procedures determined by the Secretary of State for evidence of such controlled drugs as the Secretary of State may determine;
+- (j)[^key-a496a2fe249b3c771e6dad6b81cccddc] must, if a candidate for appointment under the FT Programme, the DE Inspector Programme or the DE Superintendent Programme[^key-4298d8c81852bebc92e60d2bf94ef84e], have passed the assessment centre in respect of that programme.
+
+(1A)[^key-d1f653ce82d1e6dff50f224f6d0a4be7] A selected qualification or experience is a qualification or type of experience selected by the chief officer from a list determined by the Secretary of State, and a determination under this paragraph may confer such functions on the chief officer or any other person in relation to the listed qualifications or experience as the Secretary of State thinks fit.
+
+(2) A candidate for appointment to a police force shall be given a notice in terms approved by the Secretary of State drawing attention to the terms and conditions of service which shall be contained therein.
+
+(2A)[^key-ff5a6234e327d34e81b992f052066fd5] For the purposes of paragraph (1)(ha), conduct attracts automatic disqualification under this paragraph if—
+
+- (a) the candidate has been convicted of a criminal offence for which the court imposed a custodial sentence,
+- (b) the candidate is, or has been, subject to the notification requirements of Part 2 of the Sexual Offences Act 2003 (notification and orders),
+- (c) the candidate has been convicted of, or given a caution for, a listed offence,
+- (d) the candidate has been convicted of an attempt or conspiracy to commit a listed offence, or
+- (e) the candidate has been convicted of, or given a caution for, an offence which is determined under this regulation to involve behaviour by the candidate amounting to domestic abuse within the meaning of the Domestic Abuse Act 2021 (see section 1 of that Act).
+
+(3) For the purposes of this regulation—
+
+- (a) “**armed forces**” means the naval, military or air forces of the Crown including any women’s service administered by the Defence Council, [^key-9565bfe4bfaba4feaa2b590dc1589a6e]...
+- (aa)[^key-e78b382fc8c3eed85ca0c6acfe87c3b5] “assessment centre” means the assessment centre approved by the College of Policing for the purposes of the FT Programme, the DE Inspector Programme or, as the case may be, the DE Superintendent Programme[^key-b970a04d833ac410434c6612882e5c8d];
+- (aaa)[^key-4fa385acbc4ee32de76a095f37b69764] “**listed offence**” means an offence listed in Schedule 3A to these Regulations;
+- (aab)[^key-7ddfca4c6bd0228d3531871da298d38c] “**national application form**” means an application form containing the complete set of questions as set by the College of Policing for the purposes of confirming the eligibility of a candidate for appointment to a police force;
+- (ab)[^key-5965be8947f36c8eb39d8be6f7689979] “**national of the United Kingdom**” means—
+  - (i) a British citizen;
+  - (ii) a person who is a British subject by virtue of Part 4 of the British Nationality Act 1981 and who has the right of abode in the United Kingdom; or
+  - (iii) a person who is a British overseas territories citizen by virtue of a connection with Gibraltar;
+- (aba)[^key-62d36d036bd56a38391dc6f0d54134cb] “**national sift test**” means the online test as approved by the College of Policing for the purposes of determining whether a candidate for appointment to a police force meets the national standard;
+- (abb) “**national standard**” means the minimum standard of competencies and values as set by the College of Policing that candidates must demonstrate to be suitable for appointment to the rank of constable;
+- (abc) “**online assessment process**” means the online exercises as set by the College of Policing for a police force to assess a candidate’s suitability for policing;
+- (b) “**seaman**” has the same meaning as in the Merchant Shipping Act 1995 [^c5009551];
+- (c)[^key-51040061d156170aa7c5e141f4f61372] “**vetting clearance**” means the level of police vetting clearance that the candidate requires to perform the duties of the role for which they are seeking appointment.
+
+### 10A. Taking of fingerprints and samples prior to appointment to a police force[^key-8df06bb4043750e6448dba6146f65beb]
+
+(1) Where a candidate for appointment to a police force is to be offered an appointment, the offer shall (unless the candidate is applying to transfer to the force from another police force or is a special constable for that or another police area) be subject to the following conditions—
+
+- (a) the candidate is required to have fingerprints and a sample taken;
+- (b) the candidate must consent to the fingerprints and sample taken being the subject of a speculative search; and
+- (c) the chief officer must be satisfied that the candidate is suitable for appointment following the results of the speculative search.
+
+(2) In a case to which paragraph (1) applies, the candidate shall notify the chief officer in writing whether the candidate consents—
+
+- (a) to the taking of fingerprints and a sample; and
+- (b) to such fingerprints and sample being the subject of a speculative search.
+
+(3) Where a candidate is appointed as a member of a police force, upon appointment—
+
+- (a) any fingerprints taken under paragraph (1) shall be treated as if they had been taken under regulation 18(1); and
+- (b) any sample and any information derived from a sample taken under paragraph (1) shall be treated as if the sample had been taken under regulation 19(1).
+
+(4) In this regulation—
+
+- “sample” has the same meaning as in regulation 19(4);
+- “speculative search” has the same meaning as in Part V of the Police and Criminal Evidence Act 1984.
+
+### 10B. Member rejoining a police force[^key-24cd25ab43fc3172e76ceb67ea0dc7bd]
+
+(1) This regulation applies to a person who is to be appointed as a member of a police force (“Force A”) and who—
+
+- (a) has previously served as a member of a police force (whether Force A or another force) and has—
+  - (i) satisfactorily completed the period of probationary service in the rank of constable required under regulation 12 during that or another period of prior service, and
+  - (ii) resigned or retired from that force;
+- (b) is not participating in the DE Inspector or DE Superintendent programmes;
+- (c) is not transferred (for the purposes of regulation 2 (reference to transfers)) to Force A from another force, and
+- (d) was not, immediately prior to the appointment—
+  - (i) on a secondment under regulation 13A (secondments);
+  - (ii) on a career break under regulation 33(12) (leave), or
+  - (iii) a member of a police force.
+
+(2) A person to whom this regulation applies—
+
+- (a) must be appointed in a rank to be decided by the chief officer making the appointment;
+- (b) must be on probation for such period as the Secretary of State shall determine in respect of such appointments.
+
+(3) In making a determination under paragraph (2)(b), the Secretary of State may, subject to paragraph (4), confer on the chief officer discretion to determine the required period of probation in a particular case.
+
+(4) For the purposes of a determination under paragraph (2)(b), the periods to be counted or disregarded in reckoning service shall be such as may be determined by the Secretary of State.
+
+### 11. Appointment of senior officers
+
+(1)[^key-8898b15471c425d9a6fc25e7f8d8eafd] Subject to sections 38 and 42 of the 2011 Act and regulations 9A and 10—
+
+- (a) the Secretary of State may determine—
+  - (i) the rank that must be held, or have been held; and
+  - (ii) the period for which such rank must be held or have been held,
+
+  for the purposes of appointment to the rank of chief constable, Commissioner of Police for the City of London or Commissioner of Police of the Metropolis (“chief constable or commissioner rank”); and
+- (b) where the Secretary of State makes a determination under paragraph (a), a person may not be appointed to chief constable or commissioner rank unless they hold or have held such rank and for such period as determined by the Secretary of State.
+
+(1A)[^key-eaf6185abdeaa9799ad9240ba0029368] Subject to any enactment governing an appointment to a rank higher than that of Chief Superintendent, and to regulations 9A and 10—
+
+- (a) the Secretary of State may determine courses or assessment centres that candidates must have completed to be eligible for appointment to such a rank; and
+- (b) where the Secretary of State makes a determination under paragraph (a), a person may not be appointed to such a rank unless that person has satisfactorily completed such courses or assessments centres as determined by the Secretary of State.
+
+(2)[^key-b0b156cbd11f4cb6d7bd59c91d50e7b0] An appointment to the rank of—
+
+- (a) chief constable or deputy chief constable in a police force maintained under section 2 of the Act;
+- (b) commissioner, deputy commissioner, assistant commissioner or deputy assistant commissioner in the metropolitan police force; or
+- (c) assistant commissioner in the City of London police force,
+
+shall be for a fixed term.
+
+(2A) Subject to paragraph (2B) to (2D)[^key-be6c1a190d3ba4772b95d8e3bec47e7c], an appointment for a fixed term shall be for a maximum of five years.
+
+(2B) An appointment for a fixed term may be extended, by agreement of the person who made the appointment[^key-d8d06b09b51b31e331c937cb210c0c24] and the person appointed, for a further term of a maximum of three years and for subsequent terms each of a maximum of one year[^key-9ac82ea51504cba5bf86b0bf92aa8ba5]....
+
+(2C)[^key-e12094caf87882c49f1d5d66d4ef17b0] The reference in paragraph (2B) to the person who made the appointment shall have effect—
+
+- (a) in the case of an appointment of a deputy chief constable under section 11A of the Act, as a reference to the chief constable; and
+- (b) in the case of an appointment of an Assistant Commissioner under section 9F of the Act or a Deputy Assistant Commissioner under section 9FA of the Act, as a reference to the Commissioner of Police of the Metropolis.
+
+(2D) Where an appointment for a fixed term is due to expire at a time when the person appointed is acting as chief officer, the appointment shall not expire until—
+
+- (a) the date when the person ceases to act as chief officer, if the reason for the cessation is that the person is appointed as chief officer; or
+- (b) six months after the date when the person ceases to act as chief officer, if the reason for the cessation is that another person is appointed as chief officer.
+
+(2E) Where sub-paragraph (b) of paragraph (2D) applies, the chief officer shall notify the person appointed, not less than three months before the end of the six month period mentioned in that sub-paragraph, as to whether or not the appointment is to be extended in accordance with paragraph (2B) (and, if it applies, paragraph (2C)).
+
+(2F) For the purposes of paragraph (2D) a person is acting as chief officer when the person is—
+
+- (a) exercising or performing functions of a chief constable in accordance with section 41(1)(a) of the Police Reform and Social Responsibility Act 2011;
+- (b) exercising powers or duties of the Commissioner of Police of the Metropolis in accordance with section 44(1)(a) or (b) of that Act; or
+- (c) exercising duties of the Commissioner of Police for the City of London in accordance with section 25 of the City of London Police Act 1839.
+
+(3) Paragraphs (2) and (2D) are[^key-b6192fda3e7bd5f6d341bd46748b89c8] without prejudice to any provision whereby a term of appointment comes to an end on promotion, dismissal, the conclusion of disciplinary proceedings or transfer to another police force and regulation 14 (retirement).
+
+(4) The Secretary of State shall determine the circumstances in which a vacancy in a rank specified in paragraph (2) or the rank of assistant chief constable in a police force maintained under section 2 of the Act, or commander in the metropolitan police force or City of London police force[^key-8ee35357be16e9a83ee199e97161b640] shall be advertised; if a vacancy is to be advertised, the advertisement shall contain such detail and be published in such manner as the Secretary of State may determine. The Secretary of State may determine that no appointment shall be made until after a date to be specified in the advertisement.
+
+### 11A. Removal of chief constable or commissioner or deputy commissioner of the metropolitan police[^key-c0a04137979ac1a6e05bcefa448b5adf]
+
+(1) If an elected local policing body is proposing to call on a member of a police force to retire or resign under section 38(3) or 48(3) of the 2011 Act, the body shall—
+
+- (a) obtain the views of the chief inspector of constabulary in writing;
+- (b) have regard to those written views;
+- (c) give the member a copy of those written views at the time of giving the member a written explanation of the reasons why the body is proposing to call for the retirement or resignation in accordance with section 48(5)(a) of, or paragraph 13(2) of Schedule 8 to, the 2011 Act; and
+- (d) if the body is a police and crime commissioner, give the police and crime panel a copy of those written views at the time of giving the panel a copy of the commissioner’s reasons in accordance with paragraph 13(3)(b) of that Schedule.
+
+(2) If, having complied with paragraph (1) of this regulation and paragraph 13 of Schedule 8 to the 2011 Act, a police and crime commissioner still proposes to call upon the chief constable to retire or resign, the commissioner shall, at the time of giving the chief constable and the police and crime panel notification of the commissioner’s intention in accordance with paragraph 14(2) of that Schedule —
+
+- (a) give the chief constable and the panel a written explanation of the reasons why the commissioner still proposes to call for the retirement or resignation;
+- (b) give the chief inspector of constabulary a copy of the notification and the explanation; and
+- (c) give the chief executive appointed under paragraph 6(1)(a) of Schedule 1 to the 2011 Act a copy of the notification, the explanation and the written views of the chief inspector obtained in accordance with paragraph (1)(a) of this regulation.
+
+### 11B. Removal of other senior officers
+
+(1) If a chief officer is proposing to call on a member of a police force to retire or resign under section 39(5), 40(4) or 49(3) of the 2011 Act, the chief officer shall—
+
+- (a) notify the relevant elected local policing body of the proposal as soon as is practicable;
+- (b) obtain the views of the chief inspector of constabulary in writing;
+- (c) have regard to those written views; and
+- (d) give the member a copy of those written views at the time of giving the member a written explanation of the reasons why the chief officer is proposing to call for the retirement or resignation in accordance with section 49(5)(a) of, or paragraph 19(2) of Schedule 8 to, the 2011 Act.
+
+(2) Paragraph (1)(a) is without prejudice to the duty of a chief constable to consult the relevant police and crime commissioner under paragraph 20(2) of Schedule 8 to the 2011 Act.
+
+(3) In addition to giving the member of the police force the opportunity to make written representations in accordance with section 49(5)(b) of, or paragraph 19(3) of Schedule 8 to, the 2011 Act, the chief officer shall give the member the opportunity to make oral representations at a meeting attended by the chief officer.
+
+(4) If, having complied with paragraphs (1) and (2) of this regulation and section 49(5) of, or paragraph 19 of Schedule 8 to, the 2011 Act, the chief officer still proposes to call on the member of the police force to retire or resign, the chief officer shall—
+
+- (a) give the relevant elected local policing body—
+  - (i) a written explanation of the chief officer’s reasons, and
+  - (ii) a copy of the written views of the chief inspector of constabulary,
+
+  at the time of consulting that body in accordance with section 49(3) of, or paragraph 20(2) of Schedule 8 to, the 2011 Act; and
+- (b) give a copy of the written explanation of the chief officer’s reasons to—
+  - (i) the member, and
+  - (ii) the chief inspector of constabulary.
+
+### 12. Probationary service ...[^key-45a8b0041b6c378816a8f685016fa52e]
+
+(1)[^key-1e74b4175541bf0a5e5f7ffe0b0384c7] Subject to paragraphs (2) and (3)—
+
+- (a) a member of a police force other than a rejoiner member—
+  - (i) appointed in the rank of constable, other than such a member who transferred to the force from another police force having completed the required period of probation therein;
+  - (ii) in the case of a DE inspector, appointed in the rank of inspector, or
+  - (iii) in the case of a DE superintendent, appointed in the rank of superintendent, or
+- (b) a special constable,
+
+must be on probation for such period as the Secretary of State must determine in respect of such appointments.
+
+(2) In making a determination under paragraph (1), the Secretary of State may, subject to paragraph (3), confer on the chief officer discretion to determine the required period of probation in a particular case.
+
+(3) For the purposes of a determination under paragraph (1), the periods to be counted or disregarded in reckoning service shall be such as may be determined by the Secretary of State.
+
+### 13. Discharge of probationer
+
+(1) Subject to the provisions of this regulation, during his period of probation in the force the services of a constable[^key-59f0e5b4f73746670cce132310588414] , special constable[^key-317f8a1aac3ba366ce61c286be2877c7], DE inspector, DE superintendent or rejoiner member[^key-fd6be8e82b4fcd1a3f191876926cc25d] may be dispensed with at any time if the chief officer considers that he is not fitted, physically or mentally, to perform the duties of his office, or that he is not likely to be[^key-cb2b86b8929bebd849f0002388741aa0] an efficient or well conducted constable[^key-f20f389f20503d53abbffc43ea98885b] , special constable, DE inspector, DE superintendent or rejoiner member.
+
+(2) A constable,[^key-a56c8c7cf9b703860f708d836e03d2b4] DE inspector, DE superintendent or rejoiner member[^key-3f1ece0520d709a9f16a48eaf53855d1] whose services are dispensed with under this regulation shall be entitled to receive a month’s notice or a month’s pay in lieu thereof.
+
+(3) A constable’s[^key-536161dba9ea7dbd85b764da1b22a007] , special constable’s[^key-4e9db7f6476e39063073f3d092bf375b], DE inspector’s, DE superintendent’s or rejoiner member’s[^key-0e8044fdb32dfee1a503f05b051165e6] services shall not be dispensed with in accordance with this regulation and any notice given for the purposes thereof shall cease to have effect if he gives written notice to the local policing body[^key-137dea05e268f0fc816336afb6388c2e] of his intention to retire and retires in pursuance of the said notice on or before the date on which his services would otherwise be dispensed with; and such a notice taking effect on that date shall be accepted by the local policing body notwithstanding that less than a month’s notice is given.
+
+(4) Where a constable,[^key-cce8df55d922f822c0f692cedfbda512] DE inspector, DE superintendent or rejoiner member[^key-f5b56fdb3aebc36c3aa90bb81469e56f] has received a notice under this regulation that his services are to be dispensed with and he gives written notice of his intention to retire and retires under paragraph (3), he shall nevertheless be entitled to receive pay up to and until the date on which the month’s notice he has received would have expired or where he has received or is due to receive a month’s pay in lieu of notice he shall remain entitled to that pay notwithstanding the notice he has given under paragraph (3).
+
+(5)[^key-50462debe8c7085978daa79d68987eec] Subject to paragraph (6), a chief officer may delegate their functions under paragraph (1) to a—
+
+- (a) senior officer;
+- (b) former senior officer, who last served as a senior officer no more than five years before the date on which any functions under this regulation are to be delegated to them, or
+- (c) police staff member who, in the opinion of the chief officer, is of at least a similar level of seniority to a senior officer.
+
+(6) Paragraph (5) does not apply to the function of dispensing with the services of a rejoiner member who is a senior officer.
+
+(7) In this regulation—
+
+- (a) “**senior officer**” means a member of a police force holding a rank above that of chief superintendent or who is required to perform the duties normally performed by a member of a police force holding a rank above that of chief superintendent;
+- (b) “**former senior officer**” includes a person who, at the time they ceased to be a member of a police force, was required to perform the duties normally performed by a member of a police force holding a rank above that of chief superintendent.
+
+### 13A. Secondments[^key-c8f067d3aec807e4e39d461be5ca59d8]
+
+(1) The Secretary of State shall determine the circumstances in which, and the terms on which, a member of a police force may undertake temporary service outside the police force which is not relevant service within the meaning of section 97 of the Act (police officers engaged on service outside their force).
+
+(2) A determination under paragraph (1)—
+
+- (a) may confer such functions on the chief officer or any other person as the Secretary of State thinks fit;
+- (b) shall not permit any period of temporary service to exceed five years; and
+- (c) shall be without prejudice to any arrangement in place under which a member is undertaking temporary service outside the police force at the time paragraph (1) comes into force.
+
+### 14. Retirement
+
+Members of a police force may retire in such circumstances as shall be determined by the Secretary of State, and in making such a determination the Secretary of State may—
+
+- (a) require such notice of intention to retire as may be specified in the determination, or such shorter notice as may have been accepted by the local policing body[^key-a4ef1dd1d8dfb015c892beed110d8d09], to be given to that body[^key-f0420310256605b22d53012580e7951f],
+- (b) require the consent of the chief officer to be obtained before giving such notice.
+
+### 14A. Compensation lump sum on voluntary retirement[^key-e827c927ef83fbd4e81a83a6b13166fd]
+
+(1) Without prejudice to the Police Pensions Regulations, the Secretary of State may determine the circumstances in which a member of a police force is entitled to receive a payment on voluntary retirement from the police force (a “compensation lump sum”), and the amount of such compensation lump sum.
+
+(2) In making a determination under paragraph (1) the Secretary of State may confer such functions on—
+
+- (a) the police pension authority (within the meaning of section 11(2) of the Police Pensions Act 1976); and
+- (b) the pension supervising authority (within the meaning of that section),
+
+in relation to compensation lump sums as he thinks fit.
+
+### 15. Contents of personal records
+
+(1) The chief officer of a police force shall cause a personal record of each member of the police force to be kept.
+
+(2) The personal record shall contain—
+
+- (a) a personal description of the member;
+- (b) particulars of the member’s place and date of birth;
+- (c) particulars of his marriage or civil partnership[^key-017762f806d6ae9961aa70ad08bb7ff2] (if any) and of his children (if any);
+- (d) a record of his service (if any) in any branch of Her Majesty’s naval, military or air forces or in the civil service;
+- (e) a record of his service (if any) in any other police force and of his transfers (if any) from one police force to another;
+- (ea)[^key-bf028dbe226bfa79b2c48deddbf9e838] a record of his service (if any) in the Royal Parks Constabulary;
+- (f) a record of whether he passed or failed to pass any qualifying examination at which he was a candidate;
+- (g) a record of his service in the police force and the date of his ceasing to be a member of the police force with the reason, cause or manner thereof.
+
+(3) The record of service kept in accordance with paragraph (2)(g) shall include particulars of all promotions, postings, removals, injuries received, periods of illness, commendations, rewards, sanctions other than cautions imposed under regulation 31 of the Police (Conduct) Regulations 1999[^c5009561] , regulation 35 of the Police (Conduct) Regulations 2004[^key-b0611164f39f4c57c4749919a703a73b] or under regulation 17 of the Police (Efficiency) Regulations 1999 [^c5009571] but, subject to paragraph (4)—
+
+- (i) a sanction of a fine or of a reprimand shall be expunged after 3 years free from sanction other than a caution;
+- (ii) any other sanction shall be expunged after 5 years free from sanction other than a caution,
+- (iii) a sanction under regulation 17 of the Police (Efficiency) Regulations 1999 shall be expunged after 2 years free from any such sanction.
+
+(4) In the case of a period free from sanction other than a caution which expired before 1st January 1989, a sanction shall be expunged under paragraph (3) only if the member so requests.
+
+(4A)[^key-3e51db9d359ebdf9b7179ea53f143bc2] Subject to paragraphs (4B), (4C) and (5A), the record of service kept in accordance with paragraph (2)(g) shall also include particulars of all—
+
+- (a) disciplinary action, save for management advice—
+  - (i) taken under regulation 35, 40 or 55 of the Police (Conduct) Regulations 2008; or
+  - (ii) ordered following an appeal to a police appeals tribunal in accordance with the Police Appeals Tribunals Rules 2008;
+- (b) written improvement notices issued under regulation 15 or varied under regulation 18 of the Police (Performance) Regulations 2008;
+- (c) final written improvement notices issued under regulation 22 or varied under regulation 25 of the Police (Performance) Regulations 2008; and
+- (d) outcomes, save for redeployment to alternative duties, ordered under regulation 38 of the Police (Performance) Regulations 2008 or following an appeal to a police appeals tribunal in accordance with the Police Appeals Tribunals Rules 2008.
+
+(4B) In relation to a record of service—
+
+- (a) a written warning shall be expunged after the expiry of the period of 12 months as referred to in regulation 3(3)(a) of the Police (Conduct) Regulations 2008 (subject to regulation 3(4) of those Regulations);
+- (b) a final written warning shall be expunged—
+  - (i) after the period of 18 months as referred to in regulation 3(3)(b) of the Police (Conduct) Regulations 2008 (subject to regulation 3(4) of those Regulations); or
+  - (ii) in the event of a final written warning being extended under regulation 35(6)(b) or 55(2)(b) of the Police (Conduct) Regulations 2008, on the expiry of that extended warning;
+- (c) a reduction in rank shall be expunged after 5 years from the date the officer concerned was reduced in rank; and
+- (d) a written improvement notice or a final written improvement notice issued or extended shall be expunged at the end of the validity period of such notice as defined in the Police (Performance) Regulations 2008 unless in relation to such a notice a period mentioned in regulation 10(2) of those Regulations has been extended beyond 12 months, in which case that notice shall be expunged at the end of such extended period.
+
+(4C) A written warning or final written warning shall not be expunged from the record of service where before the time period expires for the written notice or final written notice to be expunged under paragraph (4A)(a) or (b) a written notice is served on the officer concerned under regulation 15 of the Police (Conduct) Regulations 2008 or under regulation 14A of the Police (Complaints and Misconduct) Regulations 2004. In such cases, the written warning or final written warning shall remain on the record of service until the conclusion of the disciplinary proceedings for which the written notice was served.
+
+(5) Where following a review of a sanction imposed under regulation 31 of the Police (Conduct) Regulations 1999 or under regulation 17 of the Police (Efficiency) Regulations 1999 the reviewing officer substitutes for the decision of the conduct hearing or, as the case may be, inefficiency hearing a decision that the member concerned had not failed to meet the appropriate standard or, as the case may be, that the performance or attendance of the member concerned was not unsatisfactory, the sanction imposed by that hearing shall be expunged forthwith.
+
+(5A)[^key-a92b9e1316addb8b35515b4523b9541f] Where, following an appeal meeting under the Police (Conduct) Regulations 2008, a first stage appeal meeting or second stage appeal meeting under the Police (Performance) Regulations 2008 or an appeal to a police appeals tribunal under the Police Appeals Tribunals Rules 2008, the person or persons hearing the appeal decide to reverse, revoke, vary the terms of or impose a different disciplinary action, outcome or notice, the previous disciplinary action, outcome or notice which was the subject matter of the appeal shall be expunged forthwith.
+
+(6) A member of a police force shall, if he so requests, be entitled to inspect his personal record.
+
+### 16. Transfer of personal records
+
+Where a member of a police force transfers to another police force his personal record shall be transferred to the chief officer of that other police force.
+
+### 17. Personal record of member leaving force
+
+(1) Where a member of a police force ceases to be a member of that police force the member shall, unless he transfers to another police force, be given a certificate showing his rank and setting out the period of his service in that police force and in any other police force.
+
+(2) The chief officer may append to the certificate any recommendation which he feels justified in giving, such as that—
+
+- his conduct was exemplary;
+- his conduct was very good;
+- his conduct was good.
+
+(3) Where a member of a police force ceases to be a member of that police force, otherwise than by transferring to another police force, his personal record shall be kept for such time as the chief officer may think fit and shall then be destroyed.
+
+(4)[^key-91479bb6637579f450463e50a81d3157] Where a member of a police force (“Force A”) to whom paragraph (3) applies becomes a rejoiner member of another police force (“Force B”), the chief officer of Force A must transfer to Force B any personal record relating to the rejoiner member that is still kept by Force A.
+
+### 18. Fingerprints
+
+(1) Subject to paragraph (4),[^key-d5ad8e7e327dc4ea95abc9a9f4beb2e0] every member of a police force shall in accordance with the directions of the chief officer have his fingerprints taken.
+
+(2) Fingerprints of members of a police force taken in accordance with paragraph (1) shall be kept separate from the fingerprints of persons whose fingerprints have been taken otherwise than in accordance with that paragraph or regulation 1A(1) of the Special Constables Regulations 1965[^key-e193fe466061fcb26c44d23cf6115569].
+
+(3)[^key-e95393cfc066f200751175a96389c066] The fingerprints of a member of a police force taken in accordance with paragraph (1) or regulation 1A(1) of the Special Constables Regulations 1965 and all copies and records of those fingerprints shall be destroyed on his ceasing to be a member of that force, except that—
+
+- (a) if on his ceasing to be a member of that force he becomes a special constable for the police area for which that force is maintained, his fingerprints shall be kept in accordance with regulation 1A(2) of the Special Constables Regulations 1965, and
+- (b) if by reason of a statutory transfer he becomes a member of another force, or if he is appointed as a special constable for another police area, his fingerprints and all copies and records of those fingerprints shall be transferred to the chief officer of that other police force and kept in accordance with paragraph (2) or regulation 1A(2) of the Special Constables Regulations 1965 as the case may be.
+
+(4)[^key-345cdb8578ffa328f5f7504075244f74] A member of a police force who was required to have fingerprints taken under regulation 10A(1) shall not also be required to have his fingerprints taken under paragraph (1).
+
+### 19. Samples
+
+(1)[^key-4648146a800cafa9f7f98935e434bded] Every member of a police force must provide a sample when directed to do so by the chief officer and in accordance with any such direction.
+
+(2) Samples or the information derived from samples of members of a police force taken in accordance with this regulation shall be kept separate from the samples or the information derived from samples taken in accordance with section 63 of the Police and Criminal Evidence Act 1984 [^c5009581].
+
+(2A)[^key-9a236f99f1c64113b2170d0c5c944666] Samples or the information derived from samples of members of a police force taken in accordance with this regulation (or treated as if so taken, by virtue of regulation 10A(3)(b)) may be checked against samples or the information derived from samples taken in accordance with the Police and Criminal Evidence Act 1984 or recovered from scenes of crime.
+
+(3)[^key-5a5efddcf9f287d75f68a3129129fba9] Samples of a member of a police force taken in accordance with this regulation shall be destroyed before the end of the period of six months beginning with the date on which they were taken.
+
+(3A) The information derived from samples of a member of a police force taken in accordance with this regulation, and all copies and records thereof, shall be destroyed within 12 months of that member ceasing to be a member of that police force except by reason of a transfer to another force.
+
+(4) In this regulation “**sample**” means—
+
+- (a) a sample of hair, other than pubic hair, complete with roots;
+- (b) oral fluid[^key-5aa93c97b8398b5dd64c49451bb1b89f]; or
+- (c) a swab taken from the mouth.
+
+(5)[^key-06a938f81d6575d2205a72da2135ddf9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 19A. Testing for substance misuse[^key-85894332597521da227b1714c3ca9301]
+
+(1) The chief officer of a police force may require any member of the force who—
+
+- (a) gives the chief officer reasonable cause to suspect that he has used a controlled drug;
+- (b) is on a period of probation under regulation 10B or[^key-d2a5778d295d6e605dbe242565670f7b] 12;
+- (c) has been identified by the chief officer as being vulnerable because of a specific responsibility for dealing with drugs; or
+- (d)[^key-c8df034d023a74ebb03f25b3401fa4f5] is selected in accordance with a regime of routine random testing;
+
+to give a sample of oral fluid[^key-01593998cc4fc27d6ab4f650319ec02d] or urine to be tested for evidence of controlled drugs in accordance with procedures determined by the Secretary of State.
+
+(2)[^key-fa9a47a17a142687520c19d367529b46] The chief officer of a police force may require a member of the force who—
+
+- (a) gives the chief officer reasonable cause to suspect that the member is under the influence of alcohol while on duty; or
+- (b) is selected in accordance with a regime of routine random testing,
+
+to give a sample of breath to be tested for evidence of alcohol in accordance with procedures determined by the Secretary of State.
+
+(3) A member of a police force who—
+
+- (a) on giving a sample under paragraph (1) is found to have taken a controlled drug specified in a determination of the Secretary of State; or
+- (b) [^key-07f576ad601e956ed41e63e74381fcc3]... on giving a sample under paragraph (2), is found to have more than 13 microgrammes of alcohol in 100 millilitres of breath
+
+shall face such consequences as are specified in that determination.
+
+## PART 3 — DUTY
+
+### 20. Duty to carry out lawful orders
+
+Every member of a police force shall carry out all lawful orders and shall at all times punctually and promptly perform all appointed duties and attend to all matters within the scope of his office as a constable.
+
+### 21. Limitations on duties to be assigned to members statutorily transferred
+
+(1) Where a member of a police force has previously served in a police force for an area comprised in whole or in part in the area for which his present force is maintained and he ceased to be a member of his former force and became a member of his[^key-1bef0ba9a9ee4aeda0d584dbf5668987] present force by reason only of one or more such statutory transfers as are mentioned in paragraph (2) then, subject to paragraph (3), he shall not be assigned to duties which, in the opinion of the Secretary of State, make it necessary for him to move his home to a place which is outside the area for which his former force was maintained.
+
+(2) In paragraph (1) the reference to a statutory transfer is a reference to a statutory transfer being—
+
+- (a) prior to 1st April 1995, a transfer in accordance with the provisions of an amalgamation scheme under the Police Act 1964;
+- (b) on or after 1st April 1995, a transfer in accordance with an order made under section 21 or 21A of the Police Act 1964 or section 32 of the Act;
+- (c) a transfer taking effect on 1st April 1974,
+
+except that where the former force was the police force for a borough the said reference is to any statutory transfer.
+
+(3) Paragraph (1) shall not apply to a person by reason of his previous service in a particular police force if—
+
+- (a) since he became a member of that police force he has been a chief officer;
+- (b) after he was statutorily transferred from that police force he has given written notice to the chief officer of the police force of which he was at the time a member that the protection accorded by paragraph (1) should cease to apply to him, or
+- (c) that force was a county or combined police force and after he was statutorily transferred therefrom but before 1st February 1968 he was assigned to such duties as are mentioned in paragraph (1),
+
+without prejudice, however, to the application of paragraph (1) to him by reason of service in another police force after his statutory transfer from the force first mentioned in this paragraph and before his statutory transfer to his present force.
+
+(4) Paragraph (1) shall apply in the case of a member of a police force who ceased to be such and became a serviceman, a reversionary member of a home police force or a central police officer—
+
+- (a) where on ceasing to be such, he resumed service in or, as the case may be, exercised his right of reversion to, his former force, as if he had not ceased to be a member of that force, or
+- (b) where on ceasing to be such, he resumed service in or, as the case may be, exercised his right of reversion to some other force to which members of his former force had been transferred as mentioned in paragraph (2), as if he had been so transferred from his former force to that other force.
+
+(5) In this regulation, “**present force**” and “**former force**” mean, respectively, the force first mentioned and that secondly mentioned in paragraph (1).
+
+### 22. Duty
+
+(1) The Secretary of State shall determine—
+
+- (a) the normal periods of duty of a member of a police force;
+- (b) the periods allowed for refreshment;
+- (c) the variable shift arrangements which may be brought into operation by a chief officer;
+- (d) the manner and timing of the publication of duty rosters and the matters to be contained therein; [^key-df37a17e824e1afa0512ed7dc9ad46c6]...
+- (e) the circumstances in which travelling time may be treated as duty;
+- (f)[^key-0d317be33e1d14cfd83cf3cff3e2f25b] the circumstances in which a member of a police force is to be treated as if he were a night worker for the purposes of regulation 2(1) (interpretation) of the Working Time Regulations 1998; and
+- (g) the periods which are to be treated as if they were additional periods of working time for the purposes of regulation 2(1) of the Working Time Regulations 1998;
+- (h)[^key-8ca778cec5525752ff6990cd31677e70] the circumstances in which a member of a police force may be placed on limited duties.
+
+(2) In making a determination under paragraph (1)(a) the Secretary of State may confer on the chief officer discretion to fix the time at which a period commences for the purposes of the determination and may determine the conditions subject to which that discretion is to be exercised.
+
+(3) In making a determination under paragraph (1)(e) the Secretary of State may—
+
+- (a) confer on the chief officer discretion to fix a limit on the travelling time which is to be treated as duty;
+- (b) confer on the local policing body[^key-ec2369f4fde24e0f4a4b72b813693652] discretion to fix a limit on the amount of the expenses which may be reimbursed in respect of such travelling time.
+
+(4) In this regulation “**travelling time**” means time spent by a member of a police force in travelling to and from his home—
+
+- (a) where he is required to perform his normal daily period of duty in more than one tour of duty, between two tours; or
+- (b) where he is recalled to duty between two tours of duty, in consequence of his recall.
+
+(5)[^key-0642a2d46412ed0adf35157b1f96a039] In this regulation “limited duties” means—
+
+- (a) recuperative duties;
+- (b) adjusted duties;
+- (c) management restricted duties.
+
+### 23. Meetings of the Police Federation treated as police duty[^key-fb29a01a03de8d6e6d5c7304333660a9]
+
+(1) The attendance of a member of a police force or a special constable[^key-3c36f6d7478e0187f3ef0943eb91dcfe] at any of the following meetings of the Police Federation for England and Wales shall be treated as an occasion of police duty—
+
+- (a) a meeting of a branch council or a committee of a branch council;
+- (b) a meeting of a metropolitan executive committee;
+- (c) a meeting of a branch board or a committee of a branch board;
+- (d) a meeting of the national council or a committee of that council;
+- (e) a meeting of the national board or a committee of that board;
+- (f) the annual conference;
+- (g) a meeting of the national board with the Joint Central Committee of the Scottish Police Federation and the Joint Central Committee of the Police Federation for Northern Ireland.
+
+(2) Subject to the approval of the chief officer, the attendance of a member of a police force or a special constable at an additional meeting of a branch council or a branch board of the Police Federation for England and Wales or at a meeting of a committee of a branch council or branch board is to be treated as an occasion of police duty.
+
+(3) Subject to the approval of the Secretary of State, the attendance of a member of a police force or a special constable at a meeting of the Police Federation other than a meeting referred to in paragraph (1) or (2) is to be treated as an occasion of police duty.
+
+## PART 4 — PAY
+
+### 24. Pay[^key-e80ffd583e4077e95284c3cc6a6a99f0][^M_C_f9748e5c-2672-4118-af12-a08550558f22]
+
+(1) Subject to the following provisions of this Part, the pay of members of police forces shall be determined by the Secretary of State, and in making such a determination the Secretary of State may—
+
+- (a) confer such functions in relation to the pay of members of a police force above the rank of chief superintendent on the local policing body[^key-50c8ff7cce8b487f799d4b049fe2e59d];
+- (b)[^key-d6b38f63c557b213949f95e6793523c3] where the pay of a member of a police force of the rank of chief inspector or below is payable subject to such conditions as may be specified in the determination, confer on a member of that police force senior in rank to that member, or on a person employed by the Chief Officer or the local policing body[^key-3fc325548a8eed3f73fe044332266ca6], such functions in relation to those conditions,
+
+as he thinks fit.
+
+(2) Subject to Part 7 of these Regulations[^key-e6ca06d8d50baef090e51b5e82517580] and section 97(3) of the Act, in reckoning the service of a member of a police force in any rank for the purposes of pay, account shall be taken of all his service in that rank, whether in that or another police force, and service in a higher rank, on temporary promotion thereto or otherwise, shall be treated as if it had been service in that rank.
+
+(3) For the purposes of this regulation in reckoning a member’s service in any rank—
+
+- (a) that service shall be treated as unbroken by, and including, any period of service in Her Majesty’s forces which he is entitled to reckon as pensionable service;
+- (b) except where the local policing body[^key-760bb24aa58dc8cbbd267439127af648] in the circumstances of a particular case otherwise determine with the approval of the Secretary of State, no account shall be taken of any previous service in that rank which terminated in his reduction in rank as a punishment but any previous service in a higher rank which so terminated shall be treated as if it had been service in the rank to which the member was reduced;
+- (c) no account shall be taken of any performance of the duties of that rank in respect of which a temporary salary is payable under regulation 27;
+- (d) any period of unpaid leave shall be disregarded;
+- (e) any part-time service shall be taken into account as though it were full-time service;
+- (f)[^key-8413a9e6003b62306cbbbe8b39e5a64a] in the case of a female member who has taken one or more periods of maternity leave, in respect of each maternity period—
+  - (i)  where that leave has been for 52 weeks or more, account shall be taken of the first 52 weeks whilst on maternity leave;
+  - (ii)  where that leave has been for less than 52 weeks, account shall be taken of any period spent on maternity leave;
+- (g) account shall be taken of any period of parental leave taken in accordance with a determination under regulation 33(8)(b);
+- (h)[^key-283062fca82b88176e21e11a40e7c91c] in the case of a member who has taken one or more periods of adoption leave, in respect of each adopted child account shall be taken of any period of such leave taken in accordance with a determination under regulation 33(8)(c);
+- (i) in the case of a member who has taken one or more periods of maternity support leave, account shall be taken of any period of such leave taken in accordance with a determination under regulation 33(8)(a);
+- (j) in the case of a member who has taken one or more periods of adoption support leave, account shall be taken of any period of such leave taken in accordance with a determination under regulation 33(8)(d);
+
+and, in the case of a member of a police force of a rank higher than that of chief inspector, paragraph (2) shall have effect subject to any contrary agreement so far as it relates to the reckoning of previous service in that or another force, not being a force from which he was statutorily transferred to his present force.
+
+(4) Nothing in this regulation shall affect the operation of any provisions of the Conduct Regulations and, in relation to a member of a police force suspended or fined thereunder the provisions of paragraphs 1 and 3 of Schedule 2 or of paragraph 4 thereof shall have effect.
+
+(5) A determination under paragraph (1) shall have effect in relation to a university scholar subject to the provisions of any determination for the time being in force under regulation 32.
+
+### 25. Overtime
+
+(1) Subject to the provisions of this regulation, the Secretary of State shall determine the circumstances and manner in which a member of a police force shall be compensated in respect of time—
+
+- (a) for which he remains on duty after his tour of duty ends, or
+- (b) for which he is recalled between two tours of duty, or
+- (c) which forms part of a tour of duty which he is required to begin earlier than the rostered time without due notice and on a day when he has already completed his normal daily period of duty;
+
+and such time is referred to in these Regulations as “**overtime**”.
+
+(2) For the purposes of this regulation—
+
+- “**due notice**” means notice given at least 8 hours before the revised starting time of the rostered tour of duty in question;
+- “**normal daily period of duty**” shall be construed in accordance with regulation 22;
+- “**recall**” does not include a warning to be in readiness for duty if required; and
+- “**tour of duty**”, in relation to a member of a police force for whom variable shift arrangements are in operation under regulation 22(1)(c), means rostered shift.
+
+(3) In making a determination under paragraph (1), the Secretary of State may confer on the chief officer discretion—
+
+- (a) to fix the day on which a period commences for the purposes of the determination;
+- (b) to fix the period within which time off in compensation for overtime is to be granted;
+- (c) to allow time in addition to that specified in the determination to be taken into account in computing any period of overtime.
+
+### 26. Public holidays and rest days
+
+(1) The Secretary of State shall determine the circumstances and manner in which a member of a police force shall be granted leave or otherwise compensated in respect of time spent on duty on—
+
+- (a)[^key-0affd301c192688c28d6076b50611f3c] public holidays;
+- (b) days which a member of a police force has elected to treat as public holidays; or
+- (c) rostered rest days,
+
+and in this regulation “**rostered rest day**”, in relation to a member of a police force who is required to do duty on that day, means a day which according to the duty roster was, immediately before he was so required to do duty, to have been a rest day for the member.
+
+(2) In making a determination under paragraph (1) the Secretary of State may confer on the chief officer discretion—
+
+- (a) to fix the time at which, or the day on which, a period commences for the purposes of the determination;
+- (b) to fix the period within which time off in compensation for time spent on duty as mentioned in that paragraph is to be granted;
+- (c) to fix a limit on the time occupied by a member of a police force in travelling to and from his place of duty which is to be included in a period of duty for the purposes of the determination.
+
+### 27. Temporary salary and temporary promotion
+
+The Secretary of State shall determine—
+
+- (a) the circumstances in which a member of a police force is entitled to receive a temporary salary and the rate of that salary; and
+- (b) the circumstances in which a member of a police force is entitled to be temporarily promoted and the rate of his salary while so promoted.
+
+### 28. Sick pay
+
+The Secretary of State shall determine the entitlement of members of police forces to pay during periods of sick leave taken in accordance with a determination under regulation 33(5), and in making such a determination the Secretary of State may confer on the chief officer discretion to allow a member of a police force to receive more pay than that specified in the determination.
+
+### 28A. Entitlement to pay when on adjusted duties[^key-d55d01af1c745930c749b5be9415347c]
+
+The Secretary of State shall determine the reduction in entitlement to pay of a member of a police force during periods when that member is carrying out adjusted duties in accordance with a determination under regulation 22(1)(h), and in making such a determination the Secretary of State may confer on the chief officer discretion to allow a member of a police force to receive more pay than that specified in the determination.
+
+### 29. Maternity pay
+
+The Secretary of State shall determine the entitlement of female members of police forces to pay during periods of maternity leave.
+
+### 30. Fixing of pay day and calculation of monthly, weekly and daily pay
+
+(1) The intervals at which members of a police force are to be paid shall be fixed by the local policing body[^key-2e458685fd22e6193326f03a9e5a29a8] in accordance with such rules as the Secretary of State may determine.
+
+(2) The Secretary of State shall determine the manner of calculating monthly, weekly and daily pay.
+
+### 31. Deductions from pay of social security benefits and statutory sick pay
+
+(1) There shall be deducted from the pay of a member of a police force who is in receipt of full pay—
+
+- (a) the amount of any short-term or long-term incapacity benefit to which he is entitled under the Social Security (Incapacity for Work) Act 1994 [^c5009591];
+- (b) any statutory sick pay to which he is entitled under the Social Security Contributions and Benefits Act 1992 [^c5009601],
+- (c)[^key-1363148dc48a1cf5e142e742f32aaae2] any employment and support allowance to which the member is entitled under sections 1(2)(a) or 1B of the Welfare Reform Act 2007,
+
+and for the purposes of sub-paragraph (a) any increase for adult and child dependants shall be treated as forming part of the benefit or allowance to which it relates.
+
+(2) For the purposes of this regulation, a female member of a police force who as a married woman or widow has elected to pay contributions under section 19 of the Social Security Contributions and Benefits Act 1992 at the reduced rate, shall be deemed to be entitled to any social security benefits mentioned in paragraph (1) to which she would have been entitled had she not elected to contribute at the reduced rate.
+
+(3) In this regulation, “**full pay**” means pay at the rate ascertained from regulation 24 and the determination made thereunder.
+
+### 32. University scholars
+
+The Secretary of State shall determine how Part 3 and this Part of these Regulations and any determination made thereunder shall have effect in relation to a university scholar, and in making such a determination the Secretary of State may confer on the local policing body[^key-b22d566863b1573aa8cf598469eff3ab] discretion to determine whether or not the conditions subject to which a university scholar is entitled to any payment under this Part are met.
+
+## PART 5 — LEAVE
+
+### 33. Leave
+
+(1) Every member of a police force shall, so far as the exigencies of duty permit, be granted in each leave year such annual leave as may be determined by the Secretary of State; and in this regulation “**leave year**” means that period of 12 months beginning on such date as may from time to time be determined by the local policing body[^key-45b0e69c7293898efe3b7d3837177439].
+
+(2) In making a determination under paragraph (1) the Secretary of State may confer on the chief officer discretion—
+
+- (a) to grant such additional periods[^key-85e1b050da7fb30ea3fb1adde4cb8c5c] of annual leave in any leave year in such circumstances and subject to such conditions as the Secretary of State may determine, and
+- (b) subject to such conditions as the Secretary of State may determine, to allow periods[^key-3e92465c855638c195a509e266c9cce2] of annual leave granted under this regulation to be taken as a single period, or as a number of different periods[^key-3a9a5c5a101c0308a1d6b083a57ef579].
+
+(3) In a determination under paragraph (1) the Secretary of State shall make provision for the compensation of a member of a police force for being recalled to duty during a period of annual leave granted under this regulation.
+
+(4) Annual leave granted under this regulation shall be additional to the days on which the member is not required to perform police duties in accordance with a determination under regulation 26.
+
+(5) A member of a police force shall not be entitled to be absent from duty on account of injury or illness otherwise than in such circumstances as shall be determined by the Secretary of State, and in making such a determination the Secretary of State may confer on the local policing body[^key-a593fe11d09661b0d078c10f5b77f089] power to appoint, or approve the appointment of, a medical practitioner for the purposes of any function to be carried out under the determination.
+
+(6) A female member of a police force who is pregnant shall, in such circumstances as shall be determined by the Secretary of State, have the right not to be unreasonably refused special leave from duty to enable her to keep an appointment for the purpose of receiving antenatal care.
+
+(7) A female member of a police force qualifies for maternity leave in such circumstances as shall be determined by the Secretary of State.
+
+(8) A member of a police force shall, so far as the exigencies of duty permit, be granted such—
+
+- (a) maternity support leave;
+- (b) parental leave; [^key-53294b99301a62de00d8c7a23567274d]...
+- (c) adoption leave, and[^key-baf5d7357e319d9be0c3e54517d41610]
+- (d) adoption support leave,
+
+in such circumstances, as the Secretary of State shall determine; and in this paragraph “**maternity support leave**” means leave to enable support to be given to an expectant mother at or around the time of birth.
+
+(9) A member of a police force shall, so far as the exigencies of duty permit, be entitled to be permitted to take a reasonable amount of time off during periods of duty in order to take such action, and for such purposes, in respect of a dependant of that member, and subject to such conditions, as shall be determined by the Secretary of State; and for this purpose the Secretary of State may determine the meaning of “**dependant**” in relation to members of a police force.
+
+(10) The Secretary of State may determine that any period of leave or time off taken in accordance with a determination under paragraph (1), (6), (8) or (9) shall be treated as a period of duty.
+
+(11) Paragraph (5) and any determination thereunder shall apply to a member who is in quarantine as it applies to a member who is ill subject, in the case of such a determination, to such modifications as may be determined by the Secretary of State.
+
+(12)[^key-5cd25bb7922094d88030c99a60d1be03] The Secretary of State shall determine the circumstances in which, and the terms on which, a member of a police force shall be entitled to take a career break.
+
+(13) Any determination under paragraph (12) shall be without prejudice to any arrangement in place under which a member is taking a career break at the time that paragraph comes into force.
+
+## PART 6 — ALLOWANCES AND EXPENSES
+
+### 34. Allowances
+
+(1) Subject to regulation 38, the Secretary of State shall determine the entitlement of members of a police force to any allowance, and in making such a determination the Secretary of State may confer on—
+
+- (a) the local policing body[^key-4980f27cbda21629af9fdca05748a431];
+- (b) the chief officer,
+
+such functions—
+
+- (i) in relation to the calculation of an allowance,
+- (ii) where the payment of an allowance is subject to such conditions as may be specified in the determination, in relation to those conditions,
+
+as he thinks fit.
+
+(2) No allowances shall be paid to a member of a police force except as provided by or under these Regulations or approved by the Secretary of State, and the amounts and conditions of payment of such allowances shall be as so provided or approved.
+
+(3) Nothing in this regulation shall apply to the reimbursement of expenses incurred by a member of a police force in the execution of his duty, being expenses authorised either generally or specifically by the local policing body[^key-d00d44ba8d935f092f2b4a79b64dc586] in respect of which no allowance is payable under these Regulations and no determination has been made under regulation 35.
+
+### 35. Expenses
+
+(1) The Secretary of State shall determine the entitlement of members of a police force to reimbursement of any expenses incurred by such a member in or in connection with the execution of his duty.
+
+(2) Where, in making a determination under paragraph (1), the Secretary of State specifies conditions subject to which expenses are to be reimbursed, he may in that determination confer on—
+
+- (a) the local policing body[^key-252ea9dd2160efcf0f27f5d7bbe904e0];
+- (b) the chief officer,
+
+such functions in relation to those conditions as he thinks fit.
+
+(3)[^key-df315708dd7ef582d96fa29727632df8] The expenses that may be reimbursed under a determination made under paragraph (1) include tax paid by a chief officer in connection with removal or relocation expenses associated with his appointment.
+
+### 36. Continuance of allowances when member ill
+
+If a member of a police force who is regularly in receipt of an allowance to meet an expense which ceases during his or her absence from duty is placed upon the sick list or is on maternity leave, the allowance shall be payable during his or her absence from duty up to a period of a month, but thereafter, during the remainder of his or her absence from duty, payment may be suspended at the discretion of the chief officer.
+
+### 37. Allowances in respect of periods of suspension
+
+This Part of these Regulations shall have effect in relation to a member of a police force suspended under the Conduct Regulations, subject to the provisions of paragraphs 2 and 3 of Schedule 2.
+
+### 38. Replacement allowance
+
+Schedule 3 shall have effect.
+
+### 39. Restriction on payments for private employment of police
+
+Without prejudice to the generality of regulation 34(2), a member of a police force who is engaged on duty at the request of any person who has agreed to pay the local policing body[^key-4cb1b75b0f5c7706ca21d0dda07812f9] for the member’s services shall not be entitled to any payment for those services except as provided by or under these Regulations; and any payments made in pursuance of that agreement shall be made by that person to the local policing body.
+
+## PART 7 — RECKONING OF SERVICE
+
+### 40. Reckoning of service in the Police Service of Northern Ireland
+
+(1) Where a member of a police force joined or rejoined that force having left the Police Service of Northern Ireland, on or after 17th December 1969, for that purpose or on exercising the right of reversion conferred prior to 1st April 1995 by section 2(1) of the Police Act 1969 [^c5009611] and on or after that date by section 53C of the Police Act 1964 [^c5009621] or section 97 of the Act then, for the purposes of regulation 24, his service in any rank in the Police Service of Northern Ireland shall be treated as if it were service in the corresponding rank in the police force he joined or rejoined as aforesaid:
+
+Provided that in the case of a member of a police force of a rank higher than that of chief inspector this paragraph shall have effect subject to any contrary agreement.
+
+(2) A member of a police force of the rank of constable shall be entitled to reckon, for the purposes of pay for that rank, any period of service in the Police Service of Northern Ireland not reckonable under paragraph (1).
+
+(3) In this regulation, any reference to a rank corresponding to a rank in a police force is a reference to a rank in the Police Service of Northern Ireland designated by the Secretary of State for the purposes hereof as the rank corresponding to the rank in question.
+
+### 41. Reckoning of service in the British Transport Police Force
+
+(1) Where a member of a police force joined or rejoined that force having left the British Transport Police Force, on or after 1st September 1994 then, for the purposes of regulation 24, his service in any rank in the British Transport Police Force shall be treated as if it were service in the corresponding rank in the police force he joined or rejoined as aforesaid:
+
+Provided that in the case of a member of a police force of a rank higher than that of chief inspector this paragraph shall have effect subject to any contrary agreement.
+
+(2) A member of a police force of the rank of constable shall be entitled to reckon, for the purposes of pay for that rank, any period of service in the British Transport Police Force not reckonable under paragraph (1).
+
+(3) In this regulation, any reference to a rank corresponding to a rank in a police force is a reference to a rank in the British Transport Police Force designated by the Secretary of State for the purposes hereof as the rank corresponding to the rank in question.
+
+### 41A. Reckoning of service in the Royal Parks Constabulary[^key-8ad67fd3f54167ec32756c6078ad757b]
+
+(1) Where a member of a police force joined or rejoined that force after having left the Royal Parks Constabulary, on or after 1st July 2004 then, for the purposes of regulation 24[^key-4d48dededc301b325992405db9c3e8a9], his service in any rank in the Royal Parks Constabulary shall be treated as if it were service in the corresponding rank in the police force he joined or rejoined as aforesaid:
+
+- Provided that in the case of a member of a police force of a rank higher than that of chief inspector this paragraph shall have effect subject to any contrary agreement.
+
+(2) A member of a police force of the rank of constable shall be entitled to reckon, for the purposes of pay for that rank, any period of service in the Royal Parks Constabulary not reckonable under paragraph (1).
+
+(3) In this regulation, any reference to a rank corresponding to a rank in a police force is a reference to a rank in the Royal Parks Constabulary designated by the Secretary of State for the purposes hereof as the rank corresponding to the rank in question.
+
+### 42. Reckoning by constables of service in certain constabularies
+
+(1) A member of a police force of the rank of constable shall be entitled to reckon for the purposes of pay for that rank any period of service in a constabulary mentioned in paragraph (2).
+
+(2) The constabularies referred to in paragraph (1) are—
+
+- (a) the Ministry of Defence Police, that is to say the force established by section 1 of the Ministry of Defence Police Act 1987 [^c5009631] or, before the coming into force of that Act, comprising constables appointed under section 3 of the Special Constables Act 1923 [^c5009641] on the nomination of the Defence Council or, before 1st April 1964, of the Admiralty, Army Council or Air Council;
+- (b) the Port of Tilbury Constabulary or, before the coming into force of the Port of Tilbury Transfer Scheme 1991 Confirmation Order 1992 [^c5009651], the Port of London Authority’s police force, that is to say the force of constables appointed under section 154 of the Port of London Act 1968 [^c5009661].
+
+### 43. Reckoning of service in an airport constabulary
+
+Where a member of an aerodrome constabulary has been transferred to a police force by an order under section 30 of the Aviation Security Act 1982 [^c5009671] then, for the purposes of regulation 24, his service in any rank in that constabulary shall be treated as if it were service in the corresponding rank in a police force.
+
+### 44. Reckoning by constables of overseas police service
+
+(1) A member of a police force of the rank of constable shall be entitled to reckon for the purposes of pay for that rank the following periods of service, that is to say, any period of—
+
+- (a) certified overseas police service such as is mentioned in paragraph (2);
+- (b) certified service in the British South Africa Police such as is mentioned in paragraph (3),
+- (c) such service in a police force in the Channel Islands or the Isle of Man as is mentioned in paragraph (4),
+
+notwithstanding that such service is not service in the rank of constable in a police force in Great Britain.
+
+(2) The reference in paragraph (1) to certified overseas police service is a reference to—
+
+- (a) continuous service as a member of a police force in any territory or country outside the United Kingdom, being a colony, protectorate or protected state within the meaning of the British Nationality Act 1948 [^c5009681] a dependent territory within the meaning of the British Nationality Act 1981 [^c5009691] or, where appropriate, the territory or country wherein the colony, protectorate or protected state or dependent territory was incorporated after the inception of the service, subject to it having been certified by or on behalf of the Secretary of State that—
+  - (i) the service was, at its inception, pensionable, and
+  - (ii) in his opinion the person concerned ceased so to serve for reasons connected with constitutional developments in the territory or country in question, or
+- (b) continuous service for 6 years or more as a member of a police force outside the United Kingdom, subject to it having been certified by or on behalf of the Secretary of State that—
+  - (i) the person concerned so served under a contract of service,
+  - (ii) immediately before he ceased so to serve, the person concerned was, for the purposes of section 12 of the Overseas Development and Co-operation Act 1980 [^c5009701], a person designated in accordance with such an agreement as is therein mentioned, and
+  - (iii) in his opinion the person concerned ceased so to serve for reasons connected with constitutional developments in the territory or country in question,
+
+except that the said reference in paragraph (1) does not include a reference to service as a reversionary member of a home police force.
+
+(3) The reference in paragraph (1) to certified service in the British South Africa Police is a reference to continuous service as a member thereof, for a period which included 11th November 1965, up to such time, on or after that date, as the person concerned ceased to perform duties therein, subject to his having ceased to perform those duties before 2nd March 1970 and subject to it having been certified by or on behalf of the Secretary of State that he approves the application of this regulation in the case of the person concerned.
+
+(4) The reference in paragraph (1) to service in a police force in the Channel Islands or the Isle of Man is a reference to service in—
+
+- (a) the Island police force maintained under the Police Force (Guernsey) Law 1986;
+- (b) the States of Jersey police force maintained under the Jersey Laws entitled the Police Force (Jersey) Law 1974, or
+- (c) the Isle of Man Constabulary maintained under the Police Act 1993 (an Act of Tynwald).
+
+(5) A certificate given by or on behalf of the Minister of Overseas Development before 12th November 1970, shall be treated for the purposes of paragraph (2) as if it had been given by or on behalf of the Secretary of State.
+
+### 44A. Reckoning of service in NCA[^key-f43a1553a811434a8488247fa0a51ffa][^key-165d63f3a55af0c99ed29b9b59efd4e5]
+
+(1) Subject to paragraph (2), where a member of a police force joined or rejoined that force having been employed by NCA[^key-64bd662b4c59f81fd597a6a50edceb15] as a specified[^key-50c177ed2f40c0f8bbbb68b1df97e1be] NCA officer and having left NCA, then for the purposes of regulation 24, service in any NCA grade shall be treated as if it were service in the corresponding rank in the police force the member joined or rejoined.
+
+(2) In this regulation, any reference to a NCA[^key-d2384d429ed7397f5732248af68f1a52] grade corresponding to a rank in a police force is a reference to a grade of an employee of NCA designated by the Secretary of State for the purposes of this regulation as the NCA grade corresponding to the rank in question.
+
+## PART 8 — UNIFORM AND EQUIPMENT
+
+### 45. Issue of uniform and equipment
+
+The Secretary of State shall determine the circumstances in which and the conditions subject to which uniform and equipment is to be issued by the local policing body[^key-037ea3b8987c920f6e0c24361696b59f] to a member of a police force of the rank of constable or sergeant, and in making such a determination the Secretary of State may confer on the local policing body discretion—
+
+- (a) to specify the type of uniform and equipment to be issued;
+- (b) to issue uniform and equipment to members of the police force in ranks other than constable or sergeant.
+
+## PART 9 — DETERMINATIONS
+
+### 46. Determinations
+
+(1)[^key-9bb775fe14fae92840292ad0c78d432a] Before making a determination under any provision of these Regulations relating to matters mentioned in section 50(2ZC) of the Act, the Secretary of State must obtain the approval of the College of Policing.
+
+(1A) Before making a determination under any provision of these Regulations relating to matters mentioned in section 52A(1) of the Act, the Secretary of State shall (subject to paragraph (1B))—
+
+- (a) where the determination concerns members of police forces of or below the rank of chief superintendent, or police cadets—
+  - (i) refer the matter to the Police Remuneration Review Body under section 64B(1) of the Act; and
+  - (ii) consider that body’s report on the matter;
+- (b) where the determination concerns members of police forces above the rank of chief superintendent—
+  - (i) consider advice on the matter from the Senior Salaries Review Body; or
+  - (ii) where paragraph (1AA)[^key-64ffea030950ed77de3ddd2d79378d00] applies, refer the matter to the Police Remuneration Review Body under section 64B(1) of the Act and consider that body’s report on the matter;
+- (c)[^key-e33a22f54f037b216c5f6308fb2fd9ef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(1AA)[^key-ad4f612eb6606914010cda02bc39313c] This paragraph applies where—
+
+- (a) the determination would affect members of police forces who are not above the rank of chief superintendent as well as those who are; and
+- (b) the Secretary of State thinks that it would be preferable for the matter to be considered by the same body.
+
+(1B) The duty to consider advice from the Senior Salaries Review Body or to refer the matter to the Police Remuneration Review Body does not apply if the Secretary of State considers that—
+
+- (a) there is not enough time to do so because the need to make the determination is so urgent; or
+- (b) it is unnecessary to do so by reason of the nature of the proposed determination.
+
+(1C) In circumstances in which the duty in paragraph (1A) applies, or would have applied but for paragraph (1B), before making the determination the Secretary of State shall supply a draft of it to, and consider any representations made by, persons whom the Secretary of State considers to represent the interests of—
+
+- (a) the persons and bodies who between them maintain police forces;
+- (b) chief officers of police;
+- (c) members of police forces; and
+- (d) police cadets appointed under section 28 of the Act.
+
+(2) Before making a determination under any provision of these Regulations relating to any other matter, the Secretary of State shall supply the Police Advisory Board for England and Wales with a draft of the determination, and take into consideration any representations made by that Board.
+
+(3) A determination under any provision of these Regulations for regulating pay and allowances may be made with retrospective effect to any date specified in the determination, but nothing in this paragraph shall be construed as authorising the pay or allowances payable to any person to be reduced retrospectively.
+
+(4) A determination under any provision of these Regulations may make different provision for different cases and circumstances.
+
+## PART 10 — REVOCATIONS AND SAVINGS
+
+### 47. Revocations and savings
+
+(1) The Regulations specified in Part 1 of Schedule 4 are revoked to the extent specified.
+
+(2) The revocations have effect subject to the savings in Part 2 of Schedule 4.
+
+John Denham
+
+Minister of State
+
+Home Office
+
+## SCHEDULE 1 — RESTRICTIONS ON THE PRIVATE LIFE OF MEMBERS OF POLICE FORCES
+
+Regulation 6
+
+**1.**[^key-b4aedbdf08585c5bd1e69ec356f63370] (1) A member of a police force shall at all times abstain from any activity which is likely to interfere with the impartial discharge of his duties or which is likely to give rise to the impression amongst members of the public that it may so interfere.
+
+(2) A member of a police force shall in particular–
+
+- (a) not take any active part in politics;
+- (b) not belong to any organisation specified or described in a determination of the Secretary of State.
+
+**2.** A member of a police force shall not reside at premises which are not for the time being approved by the chief officer.
+
+**3.** (1) A member of a police force shall not, without the previous consent of the chief officer, receive a lodger in a house or quarters with which he is provided by the local policing body[^key-287dd733ecab53ce2d964f388c4bc6be] or sub-let any part of the house or quarters.
+
+(2) A member of a police force shall not, unless he has previously given written notice to the chief officer, receive a lodger in a house in which he resides and in respect of which he receives an allowance under Schedule 3 or sub-let any part of such a house.
+
+**4.** A member of a police force shall not wilfully refuse or neglect to discharge any lawful debt.
+
+## SCHEDULE 2 — EFFECT OF DISCIPLINARY ACTION ON PAY AND ALLOWANCES
+
+Regulation 24 Regulation 37
+
+**1.** (1) Subject to paragraph 3, a member of a police force suspended under the Conduct Regulations who—
+
+- (a) is detained in pursuance of a sentence of a court in a prison or other institution to which the Prison Act 1952 [^c5009711] applies, or is in custody (whether in prison or elsewhere) between conviction by a court and sentence, or
+- (b) has absented himself from duty and whose whereabouts are unknown to the chief officer (or an assistant chief officer acting as chief officer),
+
+shall not, by virtue of regulation 24, be entitled to pay in respect of his period in detention or custody or, as the case may be, in respect of the period during which his whereabouts are unknown as aforesaid.
+
+(2) Where the member suspended is a chief officer[^key-07e1449158356944a36f4bf8dfcfcbe7], sub-paragraph (1)(b) shall have effect as if for the words after “unknown” there were substituted “to the local policing body[^key-c10155d43995ce3d84047af9616d2872]”.
+
+**2.** Subject to paragraph 3, a member of a police force suspended under the Conduct Regulations shall not, by virtue of Part 6 of these Regulations, be entitled to any allowance, in respect of the period of suspension, other than—
+
+- (a) an allowance under Schedule 3; or
+- (b) in the case of a member to whom paragraph 1(1) does not apply, such allowance as the Secretary of State may determine.
+
+**3.** Where a member of a police force returns to duty when the period of suspension comes to an end and—
+
+- (a) it has been decided that he shall not be charged with a disciplinary offence, or
+- (b) he has been so charged and all the charges have been dismissed, or
+- (c) he has been so charged and has been punished by a reduction in his rate of pay, fine, reprimand or caution,
+
+he shall receive, as from the date of his suspension, the pay to which, but for paragraph 1, and the allowances to which, but for paragraph 2, he would have been entitled by virtue of these Regulations.
+
+**4.** Where a member of a police force is fined under the Conduct Regulations, the fine shall, without prejudice to any other method of recovery, be recoverable by way of deductions from the member’s pay during the period of 13 weeks following the imposition of the fine so, however, that the aggregate sum which may be deducted in pursuance of this paragraph in respect of any one week (whether on account of one or more fines) shall not exceed a seventh of his weekly pay:
+
+Provided that in the event of the member leaving the police force, the whole amount of any fine unpaid may be deducted from any pay then due.
+
+## SCHEDULE 3 — REPLACEMENT ALLOWANCE
+
+Regulation 38
+
+**1.** (1) This paragraph has effect for defining expressions used in paragraphs 2 to 8[^key-62def1329b08e3941266367d4cba25fc].
+
+(2) “**Qualifying member**” means a member of a police force who—
+
+- (a) immediately before 1st September 1994 was a member of that or another police force,
+- (b) was not then on unpaid leave,
+- (c) has at all times after 31st August 1994 been a member of a police force, and
+- (d) has not after that date been on unpaid leave.
+
+(3) Where a member of a police force in Scotland or Northern Ireland in receipt of a replacement allowance under a corresponding regulation which has effect there transfers to a police force in England and Wales he shall be treated from the date of his transfer as if he were a qualifying member.
+
+(4) Where a member of the British Transport Police Force in receipt of a housing allowance transfers on or after 1st September 1994 to a police force in England and Wales he shall be treated from the date of his transfer as if he were a qualifying member.
+
+(4A)[^key-d3b39b533914bac82ed283beabbd0ee4] Where a member of the Royal Parks Constabulary in receipt of a housing allowance transfers on or after 1st July 2004 to a police force in England and Wales he shall be treated from the date of his transfer as if he were a qualifying member.
+
+(5) “**Re-joining member**” means a member of a police force who by reason only of a relevant absence is not a qualifying member.
+
+(6) “**Relevant absence**” means—
+
+- (a) a period of central service or overseas service, or
+- (b) a period of relevant service within the meaning of paragraph (ca), (cb) or (cc) of section 97(1) of the Police Act 1996 or any corresponding provision for the time being in force in Scotland or Northern Ireland, or
+- (c) a period of unpaid leave, or[^key-a4d4043744b0268ec7ff104121936acd]
+- (d) a period of ill-health retirement, or
+- (e) a period of service as a specified[^key-ea1cf5660f36eb36d42ba6507ad650ef] NCA officer,
+
+ending after 31st August 1994.
+
+(6A)[^key-badef166d9faa6a7555f2af469c5bf10] In sub-paragraph (6), “period of ill-health retirement” means a period—
+
+- (a) commencing when a member of a police force retires with an entitlement to an ill-health award under regulation B3 of the Police Pensions Regulations 1987 or with an ill-health pension under regulation 29 of the Police Pensions Regulations 2006, and
+- (b) ending when the member rejoins the force in accordance with regulation K1(3) of the Police Pensions Regulations 1987 or regulation 51(4) of the Police Pensions Regulations 2006, as the case may be.
+
+(7) “**Housing emoluments**” means a housing allowance paid to members of the British Transport Police Force or Royal Parks Constabulary[^key-46113a2dfcfd3e4d968606c2b12790a4] or any one or more of the following kinds of payments under the revoked provisions [^c5009731] as they had effect before 1st September 1994—
+
+- (a) a housing allowance under regulation 49,
+- (b) a transitional rent allowance and a transitional supplementary rent allowance under regulation 49B,
+- (c) a supplementary housing allowance under regulation 50,
+- (d) a compensatory grant under regulation 52, and
+- (e) a compensatory allowance under regulation 52B,
+
+and in relation to a re-joining member includes a rent allowance under regulation 49 as it had effect before 1st April 1990; and “**housing allowance**” and “**transitional rent allowance**” mean respectively the allowances mentioned in (a) and (b) above.
+
+(8) “**The revoked provisions**” means the provisions of the 1987 Regulations relating to housing and housing payments that were revoked on 1st September 1994, that is to say regulations 49 to 52, 52B and 72, paragraphs 16 to 18 of Schedule lA and paragraph 4(1) and (2) of Schedule 4 [^c5009741].
+
+(9) “**The 1987 Regulations**” means the Police Regulations 1987 [^c5009751].
+
+(10)[^key-231b02137ad61b598106b01761de00c4] Where a qualifying member or a re-joining member resides in accommodation which he shares with a specified[^key-edc7160610ecc5e00a162cf8657b1770] NCA officer falling within sub-paragraph (11), that member shall, for the purposes of this Schedule and the revoked provisions, be treated as if he shared the accommodation with a member of a police force.
+
+(11) A specified[^key-31f54008128eeeedfef9519ad9db5d08] NCA officer falls within this sub-paragraph if—
+
+- (a) before becoming a specified[^key-850aa6ef708cfa434ac42ce40214e94a] NCA officer the employee was a qualifying member or a re-joining member; and
+- (b) the employee is in receipt of an allowance equivalent to the replacement allowance he would receive if he continued to be a qualifying member or a re-joining member, as the case may be.
+
+**2.** (1) A qualifying member who ceases to occupy a house or quarters with which he was provided free of rent becomes entitled to a replacement allowance.
+
+(2) The replacement allowance is, subject to paragraph 7, an allowance at a rate equal to the total of—
+
+- (a) the rate at which housing allowance, or as the case may be transitional rent allowance, was payable, or would have been payable if he had not been occupying the house or quarters, immediately before 1st September 1994, and
+- (b) the rate at which any allowance under regulation 49(11) or 50(3) was or would have been then payable.
+
+**3.** (1) A qualifying member who immediately before 1st September 1994 was in receipt of housing emoluments is entitled to a replacement allowance unless he is provided with a house or quarters free of rent.
+
+(2) The replacement allowance is, subject to paragraphs 7 and 8[^key-28f181554d58d3b10f24636a225880c5], an allowance at the rate at which the housing emoluments were payable immediately before 1st September 1994.
+
+**4.** (1) A re-joining member who immediately before the relevant absence began was occupying a house or quarters with which he was provided free of rent becomes entitled to a replacement allowance unless he is again provided with a house or quarters free of rent.
+
+(2) The replacement allowance is, subject to paragraph 7, an allowance at the rate at which, if he had not been occupying the house or quarters, housing allowance, or as the case may be transitional rent allowance, would have been payable—
+
+- (a) where the relevant absence began before 1st September 1994, immediately before it began, and
+- (b) in any other case, immediately before 1st September 1994.
+
+**5.** (1) A re-joining member who immediately before the relevant absence began was in receipt—
+
+- (a) of housing emoluments, or
+- (b) of a replacement allowance under paragraph 2 or 3,
+
+becomes entitled to a replacement allowance unless he is provided with a house or quarters free of rent.
+
+(2) The replacement allowance is, subject to paragraph 7, an allowance—
+
+- (a) where sub-paragraph (1)(a) applies , and subject to paragraph 8[^key-c6ec523eb7c8fb7ae8ea5a9e4a0cfa61], at the rate at which the housing emoluments were payable, and
+- (b) where sub-paragraph (l)(b) applies, at the rate at which the previous replacement allowance was payable,
+
+immediately before the relevant absence began.
+
+**6.** A qualifying member or a re-joining member who—
+
+- (a) is provided with a house or quarters free of rent, and
+- (b) if the revoked provisions had continued in force would have been entitled to an allowance under regulation 49(11) or 50(3) of the 1987 Regulations,
+
+is, subject to paragraph 7, entitled to an equivalent replacement allowance.
+
+**7.** (1) Subject to sub-paragraph (2), in circumstances in which—
+
+- (a) a housing allowance or transitional rent allowance payable as mentioned in paragraph 2(2) or 4(2), or
+- (b) any of the housing emoluments mentioned in paragraphs 3(1), 5(1)(a) and 6,
+
+would, if the revoked provisions had continued in force, have fallen to be reduced or discontinued, the replacement allowance in question is reduced accordingly or, if the effect of discontinuance would have been that no housing emoluments remained payable, terminated.
+
+(2) For the purposes of sub-paragraph (1) it is to be assumed that a housing allowance or transitional rent allowance would not have fallen to be reduced by reason of the member’s being married to or sharing accommodation with another member of a police force appointed after 31st August 1994.
+
+(3) In circumstances in which any allowance or housing emoluments mentioned in sub-paragraph (1) would, if the revoked provisions had continued in force, have fallen to be increased otherwise than under regulation 49A of the 1987 Regulations (which provided for biennial adjustment of housing allowances), or in which any new housing emoluments would in that case have become payable, the replacement allowance in question is not[^key-ee8af01e7cbde4e7fc2801e53845571c] increased accordingly.
+
+### 8. Modification of compensatory allowance[^key-5c9ec287431ef369a71c056c960dfec6]
+
+(1) This paragraph applies to a member whose entitlement to a replacement allowance is calculated in whole or in part by reference to the rate at which he was in receipt of a compensatory allowance under regulation 52B of the 1987 Regulations.
+
+(2) This paragraph also applies to a member who would be entitled to a replacement allowance calculated in whole or in part by reference to the rate at which he would have been in receipt of a compensatory allowance under regulation 52B of the 1987 Regulations had that regulation provided as set out in paragraph (3) before 1st September 1994.
+
+(3) A member to whom this paragraph applies is entitled to a replacement allowance calculated as if for regulation 52B of the 1987 Regulations there were substituted the following regulation—
+
+> **52B. Compensatory allowance**
+>
+> (1) This regulation applies where two or more persons, each of whom is a member of a police force, are living in the same accommodation and at least one of them is appointed to perform part-time service.
+>
+> (2) Where this regulation applies those persons are entitled to a compensatory allowance of a proportion of the appropriate amount determined in accordance with guidance issued by the Secretary of State.
+>
+> (3) Where there are only two persons living in the same accommodation and only one of them is appointed to perform part-time service, the appropriate amount is given by the formula
+>
+> [formula: see source](https://www.legislation.gov.uk/uksi/2003/527)
+>
+> where—
+>
+> A is the notional amount for the time being of any allowances that were payable under regulations 49 to 51 to the full-time member before the part-time member’s appointment as such,
+>
+> B is the notional amount for the time being of any allowances that were then so payable to the part-time member,
+>
+> C is the amount for the time being of any allowances that are so payable to the full-time member,
+>
+> D is the amount for the time being of any allowances that are so payable to the part-time member.
+>
+> (4) Where there are only two persons living in the same accommodation and each of them is appointed to perform part-time service, the appropriate amount is given by the formula
+>
+> [formula: see source](https://www.legislation.gov.uk/uksi/2003/527)
+>
+> where—
+>
+> A is the notional amount for the time being of any allowances that were payable under regulations 49 to 51 to one of the members (the “first part-time member”) before his appointment as such,
+>
+> B is the notional amount for the time being of any allowances that were then so payable to the other member,
+>
+> C is the amount for the time being of any allowances that are so payable to the first part-time member,
+>
+> D is the amount for the time being of any allowances that are so payable to the other member.
+>
+> (5) Where there are more than two persons living in the same accommodation, the appropriate amount is given by the formula
+>
+> [formula: see source](https://www.legislation.gov.uk/uksi/2003/527)
+>
+> where—
+>
+> A is the aggregate notional amount for the time being of any allowances that were payable under regulations 49 to 51 to those members before the appointment of one of them as a part-time member,
+>
+> B is the aggregate amount for the time being of any allowances that are so payable to those members.
+>
+> (6) For the purposes of this regulation the notional amount for the time being of an allowance is the amount that would for the time being be payable if the part-time member were a full-time member.
+
+.
+
+### 9. Reduced arrears of replacement allowance for re-joining members in receipt of related allowances[^key-54657e3b68c336e8eaa7ad0532f0a846]
+
+(1) This paragraph applies to a replacement allowance payable in respect of a relevant period to a member of a police force who—
+
+- (a) is a re-joining member by reason of a relevant absence of a kind mentioned in paragraph 1(6)(d) or (e); and
+- (b) received an allowance referred to in the determinations made by the Secretary of State under regulation 34(1) as a London Allowance or a South East England Allowance in respect of the relevant period.
+
+(2) The annual rate of a replacement allowance to which this paragraph applies shall be reduced—
+
+- (a) in the case of a member who received a London Allowance, by an amount calculated by the formula A – B, where—
+  - (i) A is the annual rate at which the London Allowance was paid to the member; and
+  - (ii) B is the annual rate at which the London Allowance would have been paid to the member had it been known, at the time when the London Allowance was paid, that the member was entitled to receive a replacement allowance; and
+- (b) in the case of a member who received a South East England Allowance, by the annual rate of that allowance.
+
+(3) For the purposes of this paragraph a relevant period is a period—
+
+- (a) beginning on the day after the last day of the relevant absence; and
+- (b) ending before 23rd February 2012.
+
+## Schedule 3A — Listed offences[^key-ebe1a3d0f9a985e8d913df664d5e2601]
+
+Regulation 10(3)
+
+**1.** An offence under section 160 of the Criminal Justice Act 1988 (possession of indecent photograph of child).
+
+**2.** An offence under section 63CA of the Family Law Act 1996 (forced marriage: offence of breaching order).
+
+**3.** An offence under either of the following provisions of the Protection from Harassment Act 1997—
+
+- (a) section 2A (offence of stalking);
+- (b) section 4A (offence of stalking involving fear of violence or serious alarm or distress).
+
+**4.** An offence under the Female Genital Mutilation Act 2003.
+
+**5.** An offence under any of the following provisions of the Sexual Offences Act 2003—
+
+- (a) Part 1 (sexual offences);
+- (b) section 103I (offence: breach of SHPO or interim SHPO etc.);
+- (c) section 122H (offence: breach of sexual risk order or interim sexual risk order etc.);
+- (d) Schedule 3 (sexual offences for the purposes of Part 2).
+
+**6.** An offence under section 121 of the Anti-social Behaviour, Crime and Policing Act 2014 (offence of forced marriage: England and Wales).
+
+**7.** An offence under any of the following provisions of the Criminal Justice and Courts Act 2015—
+
+- (a) section 33 (disclosing, or threatening to disclose, private sexual photographs and films with intent to cause distress), as in force before it was repealed by section 190 of the Online Safety Act 2023;
+- (b) section 36 (meeting a child following sexual grooming etc.);
+- (c) section 37 (possession of pornographic images of rape and assault by penetration respectively).
+
+**8.** An offence under Part 5 of the Serious Crime Act 2015 (protection of children and others).
+
+**9.** An offence under section 8 of the Stalking Protection Act 2019 (offence of breaching stalking protection order etc.).
+
+**10.** An offence under either of the following provisions of the Domestic Abuse Act 2021—
+
+- (a) section 39 (breach of a domestic abuse protection order);
+- (b) section 69 (threats to disclose private sexual photographs).
+
+## SCHEDULE 4 — REVOCATIONS AND SAVINGS
+
+Regulation 47
+
+### PART 1 — REVOCATIONS
+
+| **Instruments Revoked** | **References** | **Extent of revocation** |
+| --- | --- | --- |
+| The Police Regulations 1995 | S.I. 1995/215 | The whole Regulations |
+| The Police (Amendment) Regulations 1995 | S.I. 1995/547 | The whole Regulations |
+| The Police (Amendment No. 2) Regulations 1995 | S.I. 1995/2020 | The whole Regulations |
+| The Police (Amendment) Regulations 1996 | S.I. 1996/699 | The whole Regulations |
+| The Police (Amendment) Regulations 1998 | S.I. 1998/493 | The whole Regulations |
+| The Police Pensions (Amendment) Regulations 1998 | S.I. 1998/577 | Regulation 5(4) |
+| The Police (Efficiency) Regulations 1999 | S.I. 1999/732 | Regulation 23 |
+| The Greater London Authority Act 1999 (Consequential Amendments) (Police) Order 2000 | S.I. 2000/1549 | Article 4 |
+| The Police (Amendment) Regulations 2000 | S.I. 2000/2013 | The whole Regulations |
+| The Police (Amendment) Regulations 2001 | S.I. 2001/3293 | The whole Regulations |
+| The Criminal Justice and Police Act 2001 (Consequential Amendments) (Police Ranks) Regulations 2001 | S.I. 2001/3888 | Regulation 3 |
+| The Police (Amendment) Regulations 2002 | S.I. 2002/1758 | The whole Regulations |
+| The Police (Amendment) (No.2) Regulations 2002 | S.I. 2002/2529 | The whole Regulations |
+| The Police (Amendment) (No.3) Regulations 2002 | S.I. 2002/3162 | The whole Regulations |
+
+### PART 2 — SAVINGS
+
+In relation to a person performing part-time service in the rank of inspector or chief inspector pursuant to an appointment in the rank in question made under regulation 8A of the Police Regulations 1987 [^c5009761] before 1st September 1994, these Regulations, and any determination made thereunder, shall have effect as if, for all purposes except that of determining pay, the appointment had been in a rank lower than inspector.
+
+*(This note is not part of the Regulations)*
+
+These Regulations (which extend to England and Wales) replace the Police Regulations 1995 as amended by the regulations specified in Part 1 of Schedule 4 (“**the 1995 Regulations**”). The amendments, other than drafting amendments, made by these Regulations are as follows.
+
+Regulations 11 (appointment of senior officers), 12 (probationary service), 14 (retirement), 22 (duty), 25 (overtime), 26 (public holidays and rest days), 27 (temporary salary and temporary promotion), 28 (sick pay), 29 (maternity pay), 30 (fixing of pay day and calculation of pay), 32 (university scholars), 33 (leave), 34 (allowances), 35 (expenses) and 45 (uniform and equipment) provide for the determination by the Secretary of State of certain matters prescribed by the 1995 Regulations. Such determinations, together with determinations under regulation 24 (pay), are subject to the provisions of regulation 46.
+
+Regulation 33 makes new provision for parental and adoption leave and for time off for dependants, and replaces provision in the 1995 Regulations for paternity leave with provision for maternity support leave.
+
+Regulations 8, 23 and 71 of the 1995 Regulations (which provided for the division of police areas into beats, sections and divisions, and for work which is not to be performed by members of police forces and made temporary provision about deputy chief constables) are not reproduced.
+
+## Annotations
+
+[^c5009371]: Marginal citation: [1996 c. 16](https://www.legislation.gov.uk/ukpga/1996/16); there are amendments to section 50 which are not relevant to these Regulations.
+
+[^c5009381]: Marginal citation: [1999 c. 29](https://www.legislation.gov.uk/ukpga/1999/29).
+
+[^key-0db05ab2df6806eb1176319cc621fc36]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2003/527) applied (with modifications) (21.3.2024) by [The South Yorkshire Mayoral Combined Authority (Election of Mayor and Transfer of Police and Crime Commissioner Functions) Order 2024 (S.I. 2024/414)](https://www.legislation.gov.uk/uksi/2024/414), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/414/article/1/2), [5](https://www.legislation.gov.uk/uksi/2024/414/article/5), [Sch. 1 para. 47](https://www.legislation.gov.uk/uksi/2024/414/schedule/1/paragraph/47)
+
+[^key-e26af6aab3b77d15bd0248e560ca4cbc]: Textual amendment: Words in reg. 2(1) substituted (16.1.2012 in relation to the Metropolitan police district; 22.11.2012 in relation to the other police areas in E.W.) by [The Police (Amendment) Regulations 2011 (S.I. 2011/3026)](https://www.legislation.gov.uk/uksi/2011/3026), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/3026/regulation/1/1), [4(2)(a)](https://www.legislation.gov.uk/uksi/2011/3026/regulation/4/2/a)
+
+[^c5009391]: Marginal citation: [1933 c. 51](https://www.legislation.gov.uk/ukpga/1933/51).
+
+[^c5009401]: Marginal citation: [1946 c. 46](https://www.legislation.gov.uk/ukpga/1946/46).
+
+[^c5009411]: Marginal citation: [1958 c. 55](https://www.legislation.gov.uk/ukpga/1958/55).
+
+[^c5009421]: Marginal citation: [1963 c. 33](https://www.legislation.gov.uk/ukpga/1963/33).
+
+[^c5009431]: Marginal citation: [1964 c. 48](https://www.legislation.gov.uk/ukpga/1964/48).
+
+[^c5009441]: Marginal citation: [1994 c. 29](https://www.legislation.gov.uk/ukpga/1994/29). The relevant amendment is made by section 14 of the 1994 Act.
+
+[^c5009451]: Marginal citation: [1972 c. 70](https://www.legislation.gov.uk/ukpga/1972/70).
+
+[^c5009461]: Marginal citation: [1992 c. 19](https://www.legislation.gov.uk/ukpga/1992/19).
+
+[^c5009471]: Marginal citation: [1964 c. 40](https://www.legislation.gov.uk/ukpga/1964/40).
+
+[^key-c47a88e62890139ac49c86751fdf32dd]: Textual amendment: Words in reg. 3(1) inserted (16.1.2012 in relation to the Metropolitan police district; 22.11.2012 in relation to the other police areas in E.W.) by [The Police (Amendment) Regulations 2011 (S.I. 2011/3026)](https://www.legislation.gov.uk/uksi/2011/3026), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/3026/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2011/3026/regulation/3)
+
+[^c5009481]: Marginal citation: [1949 c. xxiv](https://www.legislation.gov.uk/ukla/1949/24).
+
+[^key-d9bf256c3174a921a975060ef457041b]: Textual amendment: Words in reg. 3(1) revoked (1.4.2006) by [The Serious Organised Crime and Police Act 2005 (Consequential and Supplementary Amendments to Secondary Legislation) Order 2006 (S.I. 2006/594)](https://www.legislation.gov.uk/uksi/2006/594), [art. 1](https://www.legislation.gov.uk/uksi/2006/594/article/1), [Sch. para. 34(2)(a)](https://www.legislation.gov.uk/uksi/2006/594/schedule/paragraph/34/2/a)
+
+[^key-59f96e58d9b59fd8818a932239aebc7a]: Textual amendment: Words in reg. 3 inserted (19.8.2016) by [The Police (Amendment) Regulations 2016 (S.I. 2016/798)](https://www.legislation.gov.uk/uksi/2016/798), [regs. 1](https://www.legislation.gov.uk/uksi/2016/798/regulation/1), [3](https://www.legislation.gov.uk/uksi/2016/798/regulation/3)
+
+[^key-39564486b7427bfe2d018b5b3547d1c1]: Textual amendment: Words in reg. 3 inserted (1.10.2014) by [The Police (Amendment) Regulations 2014 (S.I. 2014/2372)](https://www.legislation.gov.uk/uksi/2014/2372), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2372/regulation/1), [3](https://www.legislation.gov.uk/uksi/2014/2372/regulation/3)
+
+[^key-cafa219ed952a83f8599cb4fa6aaa0f2]: Textual amendment: Words in reg. 3 inserted (7.10.2013) by [The Crime and Courts Act 2013 (Consequential Amendments and Saving Provision) Order 2013 (S.I. 2013/2318)](https://www.legislation.gov.uk/uksi/2013/2318), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2318/article/1/2), [Sch. para. 44(a)](https://www.legislation.gov.uk/uksi/2013/2318/schedule/paragraph/44/a) (with [art. 3](https://www.legislation.gov.uk/uksi/2013/2318/article/3))
+
+[^key-a9733ada2573be7d64cefd337fa915d3]: Textual amendment: Words in reg. 3(1) inserted (1.4.2012) by [The Police (Amendment No. 2) Regulations 2012 (S.I. 2012/680)](https://www.legislation.gov.uk/uksi/2012/680), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/680/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2012/680/regulation/2/2)
+
+[^c5009491]: Marginal citation: [1976 c. 35](https://www.legislation.gov.uk/ukpga/1976/35).
+
+[^key-fd77fa14a659f748157152f30333304d]: Textual amendment: Words in reg. 3(1) revoked (1.4.2006) by [The Serious Organised Crime and Police Act 2005 (Consequential and Supplementary Amendments to Secondary Legislation) Order 2006 (S.I. 2006/594)](https://www.legislation.gov.uk/uksi/2006/594), [art. 1](https://www.legislation.gov.uk/uksi/2006/594/article/1), [Sch. para. 34(2)(b)](https://www.legislation.gov.uk/uksi/2006/594/schedule/paragraph/34/2/b)
+
+[^key-48d78f55fb397e207c72d4bd8fab1e81]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/uksi/2003/527/regulation/3) inserted (22.2.2019) by [The Police (Amendment) Regulations 2018 (S.I. 2018/1191)](https://www.legislation.gov.uk/uksi/2018/1191), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1191/regulation/1), [3](https://www.legislation.gov.uk/uksi/2018/1191/regulation/3)
+
+[^key-43870a46c3e59b3a93d0173a08d6f536]: Textual amendment: Words in reg. 3 omitted (7.10.2013) by virtue of [The Crime and Courts Act 2013 (Consequential Amendments and Saving Provision) Order 2013 (S.I. 2013/2318)](https://www.legislation.gov.uk/uksi/2013/2318), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2318/article/1/2), [Sch. para. 44(b)](https://www.legislation.gov.uk/uksi/2013/2318/schedule/paragraph/44/b) (with [art. 3](https://www.legislation.gov.uk/uksi/2013/2318/article/3))
+
+[^key-65639e719b0a33eaeab9d2acaa100d05]: Textual amendment: Words in reg. 3 substituted (7.10.2013) by [The Crime and Courts Act 2013 (Consequential Amendments and Saving Provision) Order 2013 (S.I. 2013/2318)](https://www.legislation.gov.uk/uksi/2013/2318), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2318/article/1/2), [Sch. para. 44(c)](https://www.legislation.gov.uk/uksi/2013/2318/schedule/paragraph/44/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2013/2318/article/3))
+
+[^key-045961b699b4efb022cafd7ad812912d]: Textual amendment: Words in reg. 3(1) substituted (16.1.2012 in relation to the Metropolitan police district; 22.11.2012 in relation to the other police areas in E.W.) by [The Police (Amendment) Regulations 2011 (S.I. 2011/3026)](https://www.legislation.gov.uk/uksi/2011/3026), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/3026/regulation/1/1), [4(2)(b)](https://www.legislation.gov.uk/uksi/2011/3026/regulation/4/2/b)
+
+[^key-8edc46633825665fa884e4d69369a650]: Textual amendment: Words in reg. 3(2) revoked (1.4.2006) by [The Serious Organised Crime and Police Act 2005 (Consequential and Supplementary Amendments to Secondary Legislation) Order 2006 (S.I. 2006/594)](https://www.legislation.gov.uk/uksi/2006/594), [art. 1](https://www.legislation.gov.uk/uksi/2006/594/article/1), [Sch. para. 34(2)(c)](https://www.legislation.gov.uk/uksi/2006/594/schedule/paragraph/34/2/c)
+
+[^key-2e38bab1ae8a875c9d961f215623ff20]: Textual amendment: Words in reg. 3(2) substituted (15.11.2003) by [The Police (Amendment) Regulations 2003 (S.I. 2003/2594)](https://www.legislation.gov.uk/uksi/2003/2594), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/2594/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2003/2594/regulation/2/3)
+
+[^c5009501]: Marginal citation: [1967 c. 77](https://www.legislation.gov.uk/ukpga/1967/77).
+
+[^key-438d51186d155980f9090a2696cdb6f4]: Textual amendment: Reg. 3(2A) revoked (1.4.2006) by [The Serious Organised Crime and Police Act 2005 (Consequential and Supplementary Amendments to Secondary Legislation) Order 2006 (S.I. 2006/594)](https://www.legislation.gov.uk/uksi/2006/594), [art. 1](https://www.legislation.gov.uk/uksi/2006/594/article/1), [Sch. para. 34(2)(d)](https://www.legislation.gov.uk/uksi/2006/594/schedule/paragraph/34/2/d)
+
+[^key-600042ba7874cb7c485e3e97a5b42e56]: Textual amendment: Reg. 3(2B) revoked (1.4.2006) by [The Serious Organised Crime and Police Act 2005 (Consequential and Supplementary Amendments to Secondary Legislation) Order 2006 (S.I. 2006/594)](https://www.legislation.gov.uk/uksi/2006/594), [art. 1](https://www.legislation.gov.uk/uksi/2006/594/article/1), [Sch. para. 34(2)(d)](https://www.legislation.gov.uk/uksi/2006/594/schedule/paragraph/34/2/d)
+
+[^key-ec712668bf0a7cd8aa60ad06654a1c2c]: Textual amendment: Reg. 3(2C) revoked (1.4.2006) by [The Serious Organised Crime and Police Act 2005 (Consequential and Supplementary Amendments to Secondary Legislation) Order 2006 (S.I. 2006/594)](https://www.legislation.gov.uk/uksi/2006/594), [art. 1](https://www.legislation.gov.uk/uksi/2006/594/article/1), [Sch. para. 34(2)(d)](https://www.legislation.gov.uk/uksi/2006/594/schedule/paragraph/34/2/d)
+
+[^c5009511]: Marginal citation: [1982 c. 36](https://www.legislation.gov.uk/ukpga/1982/36).
+
+[^key-c35d6eb8def310364c5b38cc281eba71]: Textual amendment: Words in reg. 4(1) substituted (1.4.2006) by [The Serious Organised Crime and Police Act 2005 (Consequential and Supplementary Amendments to Secondary Legislation) Order 2006 (S.I. 2006/594)](https://www.legislation.gov.uk/uksi/2006/594), [art. 1](https://www.legislation.gov.uk/uksi/2006/594/article/1), [Sch. para. 34(3)](https://www.legislation.gov.uk/uksi/2006/594/schedule/paragraph/34/3)
+
+[^key-7626816fe1937a90fa46c4c849665a54]: Textual amendment: Reg. 4(4) revoked (1.4.2006) by [The Serious Organised Crime and Police Act 2005 (Consequential and Supplementary Amendments to Secondary Legislation) Order 2006 (S.I. 2006/594)](https://www.legislation.gov.uk/uksi/2006/594), [art. 1](https://www.legislation.gov.uk/uksi/2006/594/article/1), [Sch. para. 34(2)(e)](https://www.legislation.gov.uk/uksi/2006/594/schedule/paragraph/34/2/e)
+
+[^key-ff16eacce3960f2748bfa1d779b8ef7f]: Textual amendment: Words in reg. 5(1) revoked (1.4.2006) by [The Serious Organised Crime and Police Act 2005 (Consequential and Supplementary Amendments to Secondary Legislation) Order 2006 (S.I. 2006/594)](https://www.legislation.gov.uk/uksi/2006/594), [art. 1](https://www.legislation.gov.uk/uksi/2006/594/article/1), [Sch. para. 34(2)(f)](https://www.legislation.gov.uk/uksi/2006/594/schedule/paragraph/34/2/f)
+
+[^key-9dcc81dc6f6256cb1378935d8a286b42]: Textual amendment: Words in [reg. 5(1)](https://www.legislation.gov.uk/uksi/2003/527/regulation/5/1) omitted (29.12.2025) by virtue of [The Police (Amendment) Regulations 2025 (S.I. 2025/1274)](https://www.legislation.gov.uk/uksi/2025/1274), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1274/regulation/1/1), [3(a)](https://www.legislation.gov.uk/uksi/2025/1274/regulation/3/a)
+
+[^key-bb9272062bf32bc28665ed082679de10]: Textual amendment: Words in reg. 5(4)(a) substituted (22.11.2012) by [The Police (Amendment No. 4) Regulations 2012 (S.I. 2012/2712)](https://www.legislation.gov.uk/uksi/2012/2712), [regs. 1](https://www.legislation.gov.uk/uksi/2012/2712/regulation/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2012/2712/regulation/3/2/a)
+
+[^key-4b460727fbc3070e866a04c850b364b1]: Textual amendment: Words in reg. 5(4)(a) substituted (16.1.2012 in relation to the Metropolitan police district; 22.11.2012 in relation to the other police areas in E.W.) by [The Police (Amendment) Regulations 2011 (S.I. 2011/3026)](https://www.legislation.gov.uk/uksi/2011/3026), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/3026/regulation/1/1), [4(2)(c)](https://www.legislation.gov.uk/uksi/2011/3026/regulation/4/2/c)
+
+[^key-bcbba68d97226a71d6b63a760e672a99]: Textual amendment: Word in reg. 5(4)(a) substituted (16.1.2012 in relation to the Metropolitan police district; 22.11.2012 in relation to the other police areas in E.W.) by [The Police (Amendment) Regulations 2011 (S.I. 2011/3026)](https://www.legislation.gov.uk/uksi/2011/3026), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/3026/regulation/1/1), [5(2)(a)](https://www.legislation.gov.uk/uksi/2011/3026/regulation/5/2/a)
+
+[^key-303c91d560993cd0df27ab63a6a0b6de]: Textual amendment: Words in reg. 5(4)(b) substituted (22.11.2012) by [The Police (Amendment No. 4) Regulations 2012 (S.I. 2012/2712)](https://www.legislation.gov.uk/uksi/2012/2712), [regs. 1](https://www.legislation.gov.uk/uksi/2012/2712/regulation/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2012/2712/regulation/3/2/b)
+
+[^key-915662e3d5dfabddb444f68f1f6373f4]: Textual amendment: [Reg. 5(7)](https://www.legislation.gov.uk/uksi/2003/527/regulation/5/7) omitted (29.12.2025) by virtue of [The Police (Amendment) Regulations 2025 (S.I. 2025/1274)](https://www.legislation.gov.uk/uksi/2025/1274), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1274/regulation/1/1), [3(b)](https://www.legislation.gov.uk/uksi/2025/1274/regulation/3/b)
+
+[^key-dfa1c0388a5b31b22b73904d0e1962e4]: Textual amendment: Reg. 5(8) revoked (1.4.2006) by [The Serious Organised Crime and Police Act 2005 (Consequential and Supplementary Amendments to Secondary Legislation) Order 2006 (S.I. 2006/594)](https://www.legislation.gov.uk/uksi/2006/594), [art. 1](https://www.legislation.gov.uk/uksi/2006/594/article/1), [Sch. para. 34(2)(g)](https://www.legislation.gov.uk/uksi/2006/594/schedule/paragraph/34/2/g)
+
+[^key-dd00da0dd53bc1d0b282acb9e8f38270]: Textual amendment: Words in reg. 6(2) substituted (16.1.2012 in relation to the Metropolitan police district; 22.11.2012 in relation to the other police areas in E.W.) by [The Police (Amendment) Regulations 2011 (S.I. 2011/3026)](https://www.legislation.gov.uk/uksi/2011/3026), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/3026/regulation/1/1), [4(2)(d)](https://www.legislation.gov.uk/uksi/2011/3026/regulation/4/2/d)
+
+[^key-6923e5a8d6589cd447aa3a0e9584e129]: Modification: Reg. 7 applied (with modifications) (8.5.2017) by [The Greater Manchester Combined Authority (Transfer of Police and Crime Commissioner Functions to the Mayor) Order 2017 (S.I. 2017/470)](https://www.legislation.gov.uk/uksi/2017/470), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2), [Sch. 1 para. 47(2)](https://www.legislation.gov.uk/uksi/2017/470/schedule/1/paragraph/47/2)
+
+[^M_C_c6be7fd6-c304-4d8a-883f-731d7825fdd0]: Modification: [Reg. 7](https://www.legislation.gov.uk/uksi/2003/527/regulation/7) applied (with modifications) (10.5.2021) by [The West Yorkshire Combined Authority (Election of Mayor and Functions) Order 2021 (S.I. 2021/112)](https://www.legislation.gov.uk/uksi/2021/112), [arts. 1(4)](https://www.legislation.gov.uk/uksi/2021/112/article/1/4), [35(1)(2)](https://www.legislation.gov.uk/uksi/2021/112/article/35/1/2), [Sch. 5 para. 47(2)](https://www.legislation.gov.uk/uksi/2021/112/schedule/5/paragraph/47/2)
+
+[^key-fcdfcb83600c3a483e4f3851e6adde78]: Textual amendment: Regs. 7-9A substituted for regs. 7, 8, 9 (20.8.2012) by [The Police (Amendment No. 3) Regulations 2012 (S.I. 2012/1960)](https://www.legislation.gov.uk/uksi/2012/1960), [regs. 1](https://www.legislation.gov.uk/uksi/2012/1960/regulation/1), [3](https://www.legislation.gov.uk/uksi/2012/1960/regulation/3)
+
+[^key-00a67736b56646eaa1dada67283f9fac]: Modification: [Reg. 7(7)(a)](https://www.legislation.gov.uk/uksi/2003/527/regulation/7/7/a) applied (with modifications) (20.12.2023) by [The York and North Yorkshire Combined Authority Order 2023 (S.I. 2023/1432)](https://www.legislation.gov.uk/uksi/2023/1432), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2), [33(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/33/2), [Sch. 5 para. 47(2)](https://www.legislation.gov.uk/uksi/2023/1432/schedule/5/paragraph/47/2)
+
+[^key-143d781525254eb74da20786bb6aae03]: Textual amendment: Reg. 10(1)(a) substituted (7.11.2005) by [The Police (Amendment) Regulations 2005 (S.I. 2005/2834)](https://www.legislation.gov.uk/uksi/2005/2834), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/2834/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2005/2834/regulation/2/2)
+
+[^key-192176d037afb181113d250e0107b774]: Textual amendment: Words in reg. 10(1)(a) substituted (31.12.2020) by [The Immigration, Nationality and Asylum (EU Exit) Regulations 2019 (S.I. 2019/745)](https://www.legislation.gov.uk/uksi/2019/745), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/745/regulation/1/2), [29(a)](https://www.legislation.gov.uk/uksi/2019/745/regulation/29/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-d985e212bddd453b971ad90e990dea5c]: Textual amendment: Reg. 10(1)(ba) inserted (22.6.2020) by [The Police (Amendment) Regulations 2020 (S.I. 2020/546)](https://www.legislation.gov.uk/uksi/2020/546), [regs. 1](https://www.legislation.gov.uk/uksi/2020/546/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2020/546/regulation/2/2/a)
+
+[^key-52968d9b38c0b9c5bec4e03b14195b2c]: Textual amendment: Words in reg. 10(1)(c) substituted (19.9.2006) by [The Police (Minimum Age for Appointment) Regulations 2006 (S.I. 2006/2278)](https://www.legislation.gov.uk/uksi/2006/2278), [regs. 1](https://www.legislation.gov.uk/uksi/2006/2278/regulation/1), [3](https://www.legislation.gov.uk/uksi/2006/2278/regulation/3)
+
+[^key-f4d319b3132481681b81a22225a4838f]: Textual amendment: Words in reg. 10(1)(c) inserted (22.6.2020) by [The Police (Amendment) Regulations 2020 (S.I. 2020/546)](https://www.legislation.gov.uk/uksi/2020/546), [regs. 1](https://www.legislation.gov.uk/uksi/2020/546/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2020/546/regulation/2/2/b)
+
+[^key-74d2628cc935f0a068e415f52b56223f]: Textual amendment: Words in reg. 10(1)(d) substituted (16.1.2012 in relation to the Metropolitan police district; 22.11.2012 in relation to the other police areas in E.W.) by [The Police (Amendment) Regulations 2011 (S.I. 2011/3026)](https://www.legislation.gov.uk/uksi/2011/3026), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/3026/regulation/1/1), [4(2)(h)](https://www.legislation.gov.uk/uksi/2011/3026/regulation/4/2/h)
+
+[^key-6f6bd67167a7951565306bac805a8640]: Textual amendment: Reg. 10(1)(ea) inserted (25.11.2013) by [The Police (Amendment) Regulations 2013 (S.I. 2013/2793)](https://www.legislation.gov.uk/uksi/2013/2793), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/2793/regulation/1/2), [3(a)](https://www.legislation.gov.uk/uksi/2013/2793/regulation/3/a)
+
+[^key-2b8faa32fac9b09ccc5e6fa1b3c8d460]: Textual amendment: Words in reg. 10(1)(ea) inserted (22.6.2020) by [The Police (Amendment) Regulations 2020 (S.I. 2020/546)](https://www.legislation.gov.uk/uksi/2020/546), [regs. 1](https://www.legislation.gov.uk/uksi/2020/546/regulation/1), [2(2)(c)](https://www.legislation.gov.uk/uksi/2020/546/regulation/2/2/c)
+
+[^key-a447200b50bdc2e384134ab0eeb4d2ff]: Textual amendment: Reg. 10(1)(eb) inserted (17.3.2026) by [The Police (Amendment) (Recruitment Standards) Regulations 2026 (S.I. 2026/154)](https://www.legislation.gov.uk/uksi/2026/154), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/154/regulation/1/1), [4(a)](https://www.legislation.gov.uk/uksi/2026/154/regulation/4/a)
+
+[^key-a26ecdfc913b4aaa82bbd7fd5cc4ee8b]: Textual amendment: Reg. 10(1)(ha)[(hb)](https://www.legislation.gov.uk/uksi/2003/527/regulation/10/1/hb) inserted (13.7.2026) by [The Police (Conduct and Vetting etc.) (Amendment) Regulations 2026 (S.I. 2026/653)](https://www.legislation.gov.uk/uksi/2026/653), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/653/regulation/1/1), [24(2)](https://www.legislation.gov.uk/uksi/2026/653/regulation/24/2)
+
+[^key-666c60bbb209b95068004bbc51a1d67d]: Textual amendment: Reg. 10(1)(i) inserted (7.11.2005) by [The Police (Amendment) Regulations 2005 (S.I. 2005/2834)](https://www.legislation.gov.uk/uksi/2005/2834), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/2834/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2005/2834/regulation/2/3)
+
+[^key-433436b86ee2a917af92b78b6050bd66]: Textual amendment: Words in reg. 10(1)(i) substituted (1.4.2012) by [The Police (Amendment No. 2) Regulations 2012 (S.I. 2012/680)](https://www.legislation.gov.uk/uksi/2012/680), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/680/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2012/680/regulation/2/3)
+
+[^key-a496a2fe249b3c771e6dad6b81cccddc]: Textual amendment: Reg. 10(1)(j) inserted (1.10.2014) by [The Police (Amendment) Regulations 2014 (S.I. 2014/2372)](https://www.legislation.gov.uk/uksi/2014/2372), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2372/regulation/1), [4(a)](https://www.legislation.gov.uk/uksi/2014/2372/regulation/4/a)
+
+[^key-4298d8c81852bebc92e60d2bf94ef84e]: Textual amendment: Words in reg. 10(1)(j) substituted (19.8.2016) by [The Police (Amendment) Regulations 2016 (S.I. 2016/798)](https://www.legislation.gov.uk/uksi/2016/798), [regs. 1](https://www.legislation.gov.uk/uksi/2016/798/regulation/1), [4(a)](https://www.legislation.gov.uk/uksi/2016/798/regulation/4/a)
+
+[^key-d1f653ce82d1e6dff50f224f6d0a4be7]: Textual amendment: Reg. 10(1A) inserted (25.11.2013) by [The Police (Amendment) Regulations 2013 (S.I. 2013/2793)](https://www.legislation.gov.uk/uksi/2013/2793), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/2793/regulation/1/2), [3(b)](https://www.legislation.gov.uk/uksi/2013/2793/regulation/3/b)
+
+[^key-ff5a6234e327d34e81b992f052066fd5]: Textual amendment: Reg. 10(2A) inserted (13.7.2026) by [The Police (Conduct and Vetting etc.) (Amendment) Regulations 2026 (S.I. 2026/653)](https://www.legislation.gov.uk/uksi/2026/653), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/653/regulation/1/1), [24(3)](https://www.legislation.gov.uk/uksi/2026/653/regulation/24/3)
+
+[^key-9565bfe4bfaba4feaa2b590dc1589a6e]: Textual amendment: Word in reg. 10(3)(a) omitted (31.12.2020) by virtue of [The Immigration, Nationality and Asylum (EU Exit) Regulations 2019 (S.I. 2019/745)](https://www.legislation.gov.uk/uksi/2019/745), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/745/regulation/1/2), [29(b)(i)](https://www.legislation.gov.uk/uksi/2019/745/regulation/29/b/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-e78b382fc8c3eed85ca0c6acfe87c3b5]: Textual amendment: Reg. 10(3)(aa) inserted (1.10.2014) by [The Police (Amendment) Regulations 2014 (S.I. 2014/2372)](https://www.legislation.gov.uk/uksi/2014/2372), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2372/regulation/1), [4(b)](https://www.legislation.gov.uk/uksi/2014/2372/regulation/4/b)
+
+[^key-b970a04d833ac410434c6612882e5c8d]: Textual amendment: Words in reg. 10(3)(aa) substituted (19.8.2016) by [The Police (Amendment) Regulations 2016 (S.I. 2016/798)](https://www.legislation.gov.uk/uksi/2016/798), [regs. 1](https://www.legislation.gov.uk/uksi/2016/798/regulation/1), [4(b)](https://www.legislation.gov.uk/uksi/2016/798/regulation/4/b)
+
+[^key-4fa385acbc4ee32de76a095f37b69764]: Textual amendment: Reg. 10(3)(aaa) inserted (13.7.2026) by [The Police (Conduct and Vetting etc.) (Amendment) Regulations 2026 (S.I. 2026/653)](https://www.legislation.gov.uk/uksi/2026/653), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/653/regulation/1/1), [24(4)(a)](https://www.legislation.gov.uk/uksi/2026/653/regulation/24/4/a)
+
+[^key-7ddfca4c6bd0228d3531871da298d38c]: Textual amendment: Reg. 10(3)(aab) inserted (17.3.2026) by [The Police (Amendment) (Recruitment Standards) Regulations 2026 (S.I. 2026/154)](https://www.legislation.gov.uk/uksi/2026/154), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/154/regulation/1/1), [4(b)](https://www.legislation.gov.uk/uksi/2026/154/regulation/4/b)
+
+[^key-5965be8947f36c8eb39d8be6f7689979]: Textual amendment: Reg. 10(3)(ab) inserted (31.12.2020) by [The Immigration, Nationality and Asylum (EU Exit) Regulations 2019 (S.I. 2019/745)](https://www.legislation.gov.uk/uksi/2019/745), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/745/regulation/1/2), [29(b)(ii)](https://www.legislation.gov.uk/uksi/2019/745/regulation/29/b/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-62d36d036bd56a38391dc6f0d54134cb]: Textual amendment: Reg. 10(3)(aba)-(abc) inserted (17.3.2026) by [The Police (Amendment) (Recruitment Standards) Regulations 2026 (S.I. 2026/154)](https://www.legislation.gov.uk/uksi/2026/154), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/154/regulation/1/1), [4(c)](https://www.legislation.gov.uk/uksi/2026/154/regulation/4/c)
+
+[^c5009551]: Marginal citation: [1995 c. 21](https://www.legislation.gov.uk/ukpga/1995/21).
+
+[^key-51040061d156170aa7c5e141f4f61372]: Textual amendment: Reg. 10(3)(c) inserted (13.7.2026) by [The Police (Conduct and Vetting etc.) (Amendment) Regulations 2026 (S.I. 2026/653)](https://www.legislation.gov.uk/uksi/2026/653), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/653/regulation/1/1), [24(4)(b)](https://www.legislation.gov.uk/uksi/2026/653/regulation/24/4/b)
+
+[^key-8df06bb4043750e6448dba6146f65beb]: Textual amendment: Reg. 10A inserted (20.8.2012) by [The Police (Amendment No. 3) Regulations 2012 (S.I. 2012/1960)](https://www.legislation.gov.uk/uksi/2012/1960), [regs. 1](https://www.legislation.gov.uk/uksi/2012/1960/regulation/1), [4](https://www.legislation.gov.uk/uksi/2012/1960/regulation/4)
+
+[^key-24cd25ab43fc3172e76ceb67ea0dc7bd]: Textual amendment: Reg. 10B substituted (22.2.2019) by [The Police (Amendment) Regulations 2018 (S.I. 2018/1191)](https://www.legislation.gov.uk/uksi/2018/1191), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1191/regulation/1), [4](https://www.legislation.gov.uk/uksi/2018/1191/regulation/4)
+
+[^key-8898b15471c425d9a6fc25e7f8d8eafd]: Textual amendment: Reg. 11(1) substituted (4.1.2017) by [The Police (Amendment) (No. 2) Regulations 2016 (S.I. 2016/1200)](https://www.legislation.gov.uk/uksi/2016/1200), [regs. 1](https://www.legislation.gov.uk/uksi/2016/1200/regulation/1), [2(1)(a)](https://www.legislation.gov.uk/uksi/2016/1200/regulation/2/1/a)
+
+[^key-eaf6185abdeaa9799ad9240ba0029368]: Textual amendment: Reg. 11(1A) substituted (4.1.2017) by [The Police (Amendment) (No. 2) Regulations 2016 (S.I. 2016/1200)](https://www.legislation.gov.uk/uksi/2016/1200), [regs. 1](https://www.legislation.gov.uk/uksi/2016/1200/regulation/1), [2(1)(b)](https://www.legislation.gov.uk/uksi/2016/1200/regulation/2/1/b)
+
+[^key-b0b156cbd11f4cb6d7bd59c91d50e7b0]: Textual amendment: Reg. 11(2)-(2B) substituted for reg. 11(2) (1.7.2006) by [The Police (Amendment) Regulations 2006 (S.I. 2006/1467)](https://www.legislation.gov.uk/uksi/2006/1467), [regs. 1](https://www.legislation.gov.uk/uksi/2006/1467/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2006/1467/regulation/2/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2006/1467/regulation/3))
+
+[^key-be6c1a190d3ba4772b95d8e3bec47e7c]: Textual amendment: Words in reg. 11(2A) substituted (22.11.2012) by [The Police (Amendment No. 4) Regulations 2012 (S.I. 2012/2712)](https://www.legislation.gov.uk/uksi/2012/2712), [regs. 1](https://www.legislation.gov.uk/uksi/2012/2712/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/2012/2712/regulation/4/2)
+
+[^key-d8d06b09b51b31e331c937cb210c0c24]: Textual amendment: Words in reg. 11(2B) substituted (16.1.2012 in relation to the Metropolitan police district; 22.11.2012 in relation to the other police areas in E.W.) by [The Police (Amendment) Regulations 2011 (S.I. 2011/3026)](https://www.legislation.gov.uk/uksi/2011/3026), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/3026/regulation/1/1), [7(c)](https://www.legislation.gov.uk/uksi/2011/3026/regulation/7/c)
+
+[^key-9ac82ea51504cba5bf86b0bf92aa8ba5]: Textual amendment: Words in reg. 11(2B) omitted (22.11.2012) by virtue of [The Police (Amendment No. 4) Regulations 2012 (S.I. 2012/2712)](https://www.legislation.gov.uk/uksi/2012/2712), [regs. 1](https://www.legislation.gov.uk/uksi/2012/2712/regulation/1), [4(3)](https://www.legislation.gov.uk/uksi/2012/2712/regulation/4/3)
+
+[^key-e12094caf87882c49f1d5d66d4ef17b0]: Textual amendment: Reg. 11(2C)-(2F) inserted (22.11.2012) by [The Police (Amendment No. 4) Regulations 2012 (S.I. 2012/2712)](https://www.legislation.gov.uk/uksi/2012/2712), [regs. 1](https://www.legislation.gov.uk/uksi/2012/2712/regulation/1), [4(4)](https://www.legislation.gov.uk/uksi/2012/2712/regulation/4/4)
+
+[^key-b6192fda3e7bd5f6d341bd46748b89c8]: Textual amendment: Words in reg. 11(3) substituted (22.11.2012) by [The Police (Amendment No. 4) Regulations 2012 (S.I. 2012/2712)](https://www.legislation.gov.uk/uksi/2012/2712), [regs. 1](https://www.legislation.gov.uk/uksi/2012/2712/regulation/1), [4(5)](https://www.legislation.gov.uk/uksi/2012/2712/regulation/4/5)
+
+[^key-8ee35357be16e9a83ee199e97161b640]: Textual amendment: Words in reg. 11(4) inserted (1.7.2006) by [The Police (Amendment) Regulations 2006 (S.I. 2006/1467)](https://www.legislation.gov.uk/uksi/2006/1467), [regs. 1](https://www.legislation.gov.uk/uksi/2006/1467/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2006/1467/regulation/2/3) (with [reg. 3](https://www.legislation.gov.uk/uksi/2006/1467/regulation/3))
+
+[^key-c0a04137979ac1a6e05bcefa448b5adf]: Textual amendment: Regs. 11A, 11B inserted (16.1.2012 in relation to the Metropolitan police district; 22.11.2012 in relation to the other police areas in E.W.) by [The Police (Amendment) Regulations 2011 (S.I. 2011/3026)](https://www.legislation.gov.uk/uksi/2011/3026), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/3026/regulation/1/1), [8](https://www.legislation.gov.uk/uksi/2011/3026/regulation/8)
+
+[^key-45a8b0041b6c378816a8f685016fa52e]: Textual amendment: Words in reg. 12 heading omitted (1.10.2014) by virtue of [The Police (Amendment) Regulations 2014 (S.I. 2014/2372)](https://www.legislation.gov.uk/uksi/2014/2372), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2372/regulation/1), [5(a)](https://www.legislation.gov.uk/uksi/2014/2372/regulation/5/a)
+
+[^key-1e74b4175541bf0a5e5f7ffe0b0384c7]: Textual amendment: [Reg. 12(1)](https://www.legislation.gov.uk/uksi/2003/527/regulation/12/1) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2025/558/regulation/3)
+
+[^key-59f0e5b4f73746670cce132310588414]: Textual amendment: Words in reg. 13(1) substituted (19.8.2016) by [The Police (Amendment) Regulations 2016 (S.I. 2016/798)](https://www.legislation.gov.uk/uksi/2016/798), [regs. 1](https://www.legislation.gov.uk/uksi/2016/798/regulation/1), [6(a)(i)](https://www.legislation.gov.uk/uksi/2016/798/regulation/6/a/i)
+
+[^key-317f8a1aac3ba366ce61c286be2877c7]: Textual amendment: Words in [reg. 13(1)](https://www.legislation.gov.uk/uksi/2003/527/regulation/13/1) inserted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [4(2)(a)](https://www.legislation.gov.uk/uksi/2025/558/regulation/4/2/a)
+
+[^key-fd6be8e82b4fcd1a3f191876926cc25d]: Textual amendment: Words in [reg. 13(1)](https://www.legislation.gov.uk/uksi/2003/527/regulation/13/1) substituted (22.2.2019) by [The Police (Amendment) Regulations 2018 (S.I. 2018/1191)](https://www.legislation.gov.uk/uksi/2018/1191), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1191/regulation/1), [6(a)](https://www.legislation.gov.uk/uksi/2018/1191/regulation/6/a)
+
+[^key-cb2b86b8929bebd849f0002388741aa0]: Textual amendment: Word in [reg. 13(1)](https://www.legislation.gov.uk/uksi/2003/527/regulation/13/1) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [4(2)(b)](https://www.legislation.gov.uk/uksi/2025/558/regulation/4/2/b)
+
+[^key-f20f389f20503d53abbffc43ea98885b]: Textual amendment: Words in reg. 13(1) substituted (19.8.2016) by [The Police (Amendment) Regulations 2016 (S.I. 2016/798)](https://www.legislation.gov.uk/uksi/2016/798), [regs. 1](https://www.legislation.gov.uk/uksi/2016/798/regulation/1), [6(a)(ii)](https://www.legislation.gov.uk/uksi/2016/798/regulation/6/a/ii)
+
+[^key-a56c8c7cf9b703860f708d836e03d2b4]: Textual amendment: Words in reg. 13(2) substituted (19.8.2016) by [The Police (Amendment) Regulations 2016 (S.I. 2016/798)](https://www.legislation.gov.uk/uksi/2016/798), [regs. 1](https://www.legislation.gov.uk/uksi/2016/798/regulation/1), [6(b)](https://www.legislation.gov.uk/uksi/2016/798/regulation/6/b)
+
+[^key-3f1ece0520d709a9f16a48eaf53855d1]: Textual amendment: Words in [reg. 13(2)](https://www.legislation.gov.uk/uksi/2003/527/regulation/13/2) substituted (22.2.2019) by [The Police (Amendment) Regulations 2018 (S.I. 2018/1191)](https://www.legislation.gov.uk/uksi/2018/1191), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1191/regulation/1), [6(a)](https://www.legislation.gov.uk/uksi/2018/1191/regulation/6/a)
+
+[^key-536161dba9ea7dbd85b764da1b22a007]: Textual amendment: Words in reg. 13(3) substituted (19.8.2016) by [The Police (Amendment) Regulations 2016 (S.I. 2016/798)](https://www.legislation.gov.uk/uksi/2016/798), [regs. 1](https://www.legislation.gov.uk/uksi/2016/798/regulation/1), [6(c)](https://www.legislation.gov.uk/uksi/2016/798/regulation/6/c)
+
+[^key-4e9db7f6476e39063073f3d092bf375b]: Textual amendment: Words in [reg. 13(3)](https://www.legislation.gov.uk/uksi/2003/527/regulation/13/3) inserted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [4(3)](https://www.legislation.gov.uk/uksi/2025/558/regulation/4/3)
+
+[^key-0e8044fdb32dfee1a503f05b051165e6]: Textual amendment: Words in [reg. 13(3)](https://www.legislation.gov.uk/uksi/2003/527/regulation/13/3) substituted (22.2.2019) by [The Police (Amendment) Regulations 2018 (S.I. 2018/1191)](https://www.legislation.gov.uk/uksi/2018/1191), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1191/regulation/1), [6(b)](https://www.legislation.gov.uk/uksi/2018/1191/regulation/6/b)
+
+[^key-137dea05e268f0fc816336afb6388c2e]: Textual amendment: Words in reg. 13(3) substituted (16.1.2012 in relation to the Metropolitan police district; 22.11.2012 in relation to the other police areas in E.W.) by [The Police (Amendment) Regulations 2011 (S.I. 2011/3026)](https://www.legislation.gov.uk/uksi/2011/3026), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/3026/regulation/1/1), [4(2)(i)](https://www.legislation.gov.uk/uksi/2011/3026/regulation/4/2/i)
+
+[^key-cce8df55d922f822c0f692cedfbda512]: Textual amendment: Words in reg. 13(4) substituted (19.8.2016) by [The Police (Amendment) Regulations 2016 (S.I. 2016/798)](https://www.legislation.gov.uk/uksi/2016/798), [regs. 1](https://www.legislation.gov.uk/uksi/2016/798/regulation/1), [6(d)](https://www.legislation.gov.uk/uksi/2016/798/regulation/6/d)
+
+[^key-f5b56fdb3aebc36c3aa90bb81469e56f]: Textual amendment: Words in [reg. 13(4)](https://www.legislation.gov.uk/uksi/2003/527/regulation/13/4) substituted (22.2.2019) by [The Police (Amendment) Regulations 2018 (S.I. 2018/1191)](https://www.legislation.gov.uk/uksi/2018/1191), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1191/regulation/1), [6(a)](https://www.legislation.gov.uk/uksi/2018/1191/regulation/6/a)
+
+[^key-50462debe8c7085978daa79d68987eec]: Textual amendment: [Reg. 13(5)-(7)](https://www.legislation.gov.uk/uksi/2003/527/regulation/13/5) inserted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [4(4)](https://www.legislation.gov.uk/uksi/2025/558/regulation/4/4)
+
+[^key-c8f067d3aec807e4e39d461be5ca59d8]: Textual amendment: Reg. 13A inserted (25.11.2013) by [The Police (Amendment) Regulations 2013 (S.I. 2013/2793)](https://www.legislation.gov.uk/uksi/2013/2793), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/2793/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2013/2793/regulation/5)
+
+[^key-a4ef1dd1d8dfb015c892beed110d8d09]: Textual amendment: Words in reg. 14(a) substituted (16.1.2012 in relation to the Metropolitan police district; 22.11.2012 in relation to the other police areas in E.W.) by [The Police (Amendment) Regulations 2011 (S.I. 2011/3026)](https://www.legislation.gov.uk/uksi/2011/3026), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/3026/regulation/1/1), [4(2)(j)](https://www.legislation.gov.uk/uksi/2011/3026/regulation/4/2/j)
+
+[^key-f0420310256605b22d53012580e7951f]: Textual amendment: Word in reg. 14(a) substituted (16.1.2012 in relation to the Metropolitan police district; 22.11.2012 in relation to the other police areas in E.W.) by [The Police (Amendment) Regulations 2011 (S.I. 2011/3026)](https://www.legislation.gov.uk/uksi/2011/3026), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/3026/regulation/1/1), [5(2)(c)](https://www.legislation.gov.uk/uksi/2011/3026/regulation/5/2/c)
+
+[^key-e827c927ef83fbd4e81a83a6b13166fd]: Textual amendment: Reg. 14A inserted (1.1.2013) by [The Police (Amendment No. 5) Regulations 2012 (S.I. 2012/3058)](https://www.legislation.gov.uk/uksi/2012/3058), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/3058/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2012/3058/regulation/2)
+
+[^key-017762f806d6ae9961aa70ad08bb7ff2]: Textual amendment: Words in reg. 15(2)(c) inserted (1.2.2007) by [The Police (Amendment) (No. 2) Regulations 2006 (S.I. 2006/3449)](https://www.legislation.gov.uk/uksi/2006/3449), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/3449/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2006/3449/regulation/4)
+
+[^key-bf028dbe226bfa79b2c48deddbf9e838]: Textual amendment: Reg. 15(2)(ea) inserted (7.11.2005) by [The Police (Amendment) Regulations 2005 (S.I. 2005/2834)](https://www.legislation.gov.uk/uksi/2005/2834), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/2834/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2005/2834/regulation/3)
+
+[^c5009561]: Marginal citation: [S.I. 1999/730](https://www.legislation.gov.uk/uksi/1999/730).
+
+[^key-b0611164f39f4c57c4749919a703a73b]: Textual amendment: Words in reg. 15(3) inserted (1.12.2008) by [The Police (Amendment) Regulations 2008 (S.I. 2008/2865)](https://www.legislation.gov.uk/uksi/2008/2865), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/2865/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2008/2865/regulation/2/2)
+
+[^c5009571]: Marginal citation: [S.I. 1999/732](https://www.legislation.gov.uk/uksi/1999/732).
+
+[^key-3e51db9d359ebdf9b7179ea53f143bc2]: Textual amendment: Reg. 15(4A)-(4C) inserted (1.12.2008) by [The Police (Amendment) Regulations 2008 (S.I. 2008/2865)](https://www.legislation.gov.uk/uksi/2008/2865), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/2865/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2008/2865/regulation/2/3)
+
+[^key-a92b9e1316addb8b35515b4523b9541f]: Textual amendment: Reg. 15(5A) inserted (1.12.2008) by [The Police (Amendment) Regulations 2008 (S.I. 2008/2865)](https://www.legislation.gov.uk/uksi/2008/2865), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/2865/regulation/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2008/2865/regulation/2/4)
+
+[^key-91479bb6637579f450463e50a81d3157]: Textual amendment: [Reg. 17(4)](https://www.legislation.gov.uk/uksi/2003/527/regulation/17/4) inserted (22.2.2019) by [The Police (Amendment) Regulations 2018 (S.I. 2018/1191)](https://www.legislation.gov.uk/uksi/2018/1191), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1191/regulation/1), [7](https://www.legislation.gov.uk/uksi/2018/1191/regulation/7)
+
+[^key-d5ad8e7e327dc4ea95abc9a9f4beb2e0]: Textual amendment: Words in reg. 18(1) inserted (20.8.2012) by [The Police (Amendment No. 3) Regulations 2012 (S.I. 2012/1960)](https://www.legislation.gov.uk/uksi/2012/1960), [regs. 1](https://www.legislation.gov.uk/uksi/2012/1960/regulation/1), [5(1)](https://www.legislation.gov.uk/uksi/2012/1960/regulation/5/1)
+
+[^key-e193fe466061fcb26c44d23cf6115569]: Textual amendment: Words in reg. 18(2) inserted (1.5.2007) by [The Police (Fingerprints) Regulations 2007 (S.I. 2007/1162)](https://www.legislation.gov.uk/uksi/2007/1162), [regs. 1](https://www.legislation.gov.uk/uksi/2007/1162/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2007/1162/regulation/3/2)
+
+[^key-e95393cfc066f200751175a96389c066]: Textual amendment: Reg. 18(3) substituted (1.5.2007) by [The Police (Fingerprints) Regulations 2007 (S.I. 2007/1162)](https://www.legislation.gov.uk/uksi/2007/1162), [regs. 1](https://www.legislation.gov.uk/uksi/2007/1162/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2007/1162/regulation/3/3)
+
+[^key-345cdb8578ffa328f5f7504075244f74]: Textual amendment: Reg. 18(4) inserted (20.8.2012) by [The Police (Amendment No. 3) Regulations 2012 (S.I. 2012/1960)](https://www.legislation.gov.uk/uksi/2012/1960), [regs. 1](https://www.legislation.gov.uk/uksi/2012/1960/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2012/1960/regulation/5/2)
+
+[^key-4648146a800cafa9f7f98935e434bded]: Textual amendment: Reg. 19(1) substituted (1.4.2015) by [The Police (Amendment) Regulations 2015 (S.I. 2015/455)](https://www.legislation.gov.uk/uksi/2015/455), [regs. 1](https://www.legislation.gov.uk/uksi/2015/455/regulation/1), [3(a)](https://www.legislation.gov.uk/uksi/2015/455/regulation/3/a)
+
+[^c5009581]: Marginal citation: [1984 c. 60](https://www.legislation.gov.uk/ukpga/1984/60).
+
+[^key-9a236f99f1c64113b2170d0c5c944666]: Textual amendment: Reg. 19(2A) inserted (1.4.2015) by [The Police (Amendment) Regulations 2015 (S.I. 2015/455)](https://www.legislation.gov.uk/uksi/2015/455), [regs. 1](https://www.legislation.gov.uk/uksi/2015/455/regulation/1), [3(b)](https://www.legislation.gov.uk/uksi/2015/455/regulation/3/b)
+
+[^key-5a5efddcf9f287d75f68a3129129fba9]: Textual amendment: Reg. 19(3)(3A) substituted for reg. 19(3) (1.4.2015) by [The Police (Amendment) Regulations 2015 (S.I. 2015/455)](https://www.legislation.gov.uk/uksi/2015/455), [regs. 1](https://www.legislation.gov.uk/uksi/2015/455/regulation/1), [3(c)](https://www.legislation.gov.uk/uksi/2015/455/regulation/3/c)
+
+[^key-5aa93c97b8398b5dd64c49451bb1b89f]: Textual amendment: Words in reg. 19(4)(b) substituted (1.4.2012) by [The Police (Amendment No. 2) Regulations 2012 (S.I. 2012/680)](https://www.legislation.gov.uk/uksi/2012/680), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/680/regulation/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2012/680/regulation/2/4)
+
+[^key-06a938f81d6575d2205a72da2135ddf9]: Textual amendment: Reg. 19(5) omitted (1.4.2015) by virtue of [The Police (Amendment) Regulations 2015 (S.I. 2015/455)](https://www.legislation.gov.uk/uksi/2015/455), [regs. 1](https://www.legislation.gov.uk/uksi/2015/455/regulation/1), [3(d)](https://www.legislation.gov.uk/uksi/2015/455/regulation/3/d)
+
+[^key-85894332597521da227b1714c3ca9301]: Textual amendment: Reg. 19A inserted (7.11.2005) by [The Police (Amendment) Regulations 2005 (S.I. 2005/2834)](https://www.legislation.gov.uk/uksi/2005/2834), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/2834/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2005/2834/regulation/4)
+
+[^key-d2a5778d295d6e605dbe242565670f7b]: Textual amendment: Words in [reg. 19A(1)(b)](https://www.legislation.gov.uk/uksi/2003/527/regulation/19A/1/b) inserted (22.2.2019) by [The Police (Amendment) Regulations 2018 (S.I. 2018/1191)](https://www.legislation.gov.uk/uksi/2018/1191), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1191/regulation/1), [8](https://www.legislation.gov.uk/uksi/2018/1191/regulation/8)
+
+[^key-c8df034d023a74ebb03f25b3401fa4f5]: Textual amendment: Reg. 19A(1)(d) substituted (1.4.2012) by [The Police (Amendment No. 2) Regulations 2012 (S.I. 2012/680)](https://www.legislation.gov.uk/uksi/2012/680), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/680/regulation/1/2), [2(5)(a)](https://www.legislation.gov.uk/uksi/2012/680/regulation/2/5/a)
+
+[^key-01593998cc4fc27d6ab4f650319ec02d]: Textual amendment: Words in reg. 19A(1) substituted (1.4.2012) by [The Police (Amendment No. 2) Regulations 2012 (S.I. 2012/680)](https://www.legislation.gov.uk/uksi/2012/680), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/680/regulation/1/2), [2(5)(b)](https://www.legislation.gov.uk/uksi/2012/680/regulation/2/5/b)
+
+[^key-fa9a47a17a142687520c19d367529b46]: Textual amendment: Reg. 19A(2) substituted (4.1.2017) by [The Police (Amendment) (No. 2) Regulations 2016 (S.I. 2016/1200)](https://www.legislation.gov.uk/uksi/2016/1200), [regs. 1](https://www.legislation.gov.uk/uksi/2016/1200/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2016/1200/regulation/2/2/a)
+
+[^key-07f576ad601e956ed41e63e74381fcc3]: Textual amendment: Words in reg. 19A(3)(b) omitted (4.1.2017) by virtue of [The Police (Amendment) (No. 2) Regulations 2016 (S.I. 2016/1200)](https://www.legislation.gov.uk/uksi/2016/1200), [regs. 1](https://www.legislation.gov.uk/uksi/2016/1200/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2016/1200/regulation/2/2/b)
+
+[^key-1bef0ba9a9ee4aeda0d584dbf5668987]: Textual amendment: Words in reg. 21(1) inserted (15.11.2003) by [The Police (Amendment) Regulations 2003 (S.I. 2003/2594)](https://www.legislation.gov.uk/uksi/2003/2594), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/2594/regulation/1/1), [6(2)](https://www.legislation.gov.uk/uksi/2003/2594/regulation/6/2)
+
+[^key-df37a17e824e1afa0512ed7dc9ad46c6]: Textual amendment: Word in reg. 22(1)(d) omitted (1.2.2007) by virtue of [The Police (Amendment) (No. 2) Regulations 2006 (S.I. 2006/3449)](https://www.legislation.gov.uk/uksi/2006/3449), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/3449/regulation/1/2), [5(2)](https://www.legislation.gov.uk/uksi/2006/3449/regulation/5/2)
+
+[^key-0d317be33e1d14cfd83cf3cff3e2f25b]: Textual amendment: Reg. 22(1)(f)(g) inserted (1.2.2007) by [The Police (Amendment) (No. 2) Regulations 2006 (S.I. 2006/3449)](https://www.legislation.gov.uk/uksi/2006/3449), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/3449/regulation/1/2), [5(3)](https://www.legislation.gov.uk/uksi/2006/3449/regulation/5/3)
+
+[^key-8ca778cec5525752ff6990cd31677e70]: Textual amendment: Reg. 22(1)(h) inserted (1.4.2015) by [The Police (Amendment) Regulations 2015 (S.I. 2015/455)](https://www.legislation.gov.uk/uksi/2015/455), [regs. 1](https://www.legislation.gov.uk/uksi/2015/455/regulation/1), [4(a)](https://www.legislation.gov.uk/uksi/2015/455/regulation/4/a)
+
+[^key-ec2369f4fde24e0f4a4b72b813693652]: Textual amendment: Words in reg. 22(3)(b) substituted (16.1.2012 in relation to the Metropolitan police district; 22.11.2012 in relation to the other police areas in E.W.) by [The Police (Amendment) Regulations 2011 (S.I. 2011/3026)](https://www.legislation.gov.uk/uksi/2011/3026), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/3026/regulation/1/1), [4(2)(k)](https://www.legislation.gov.uk/uksi/2011/3026/regulation/4/2/k)
+
+[^key-0642a2d46412ed0adf35157b1f96a039]: Textual amendment: Reg. 22(5) inserted (1.4.2015) by [The Police (Amendment) Regulations 2015 (S.I. 2015/455)](https://www.legislation.gov.uk/uksi/2015/455), [regs. 1](https://www.legislation.gov.uk/uksi/2015/455/regulation/1), [4(b)](https://www.legislation.gov.uk/uksi/2015/455/regulation/4/b)
+
+[^key-fb29a01a03de8d6e6d5c7304333660a9]: Textual amendment: [Reg. 23](https://www.legislation.gov.uk/uksi/2003/527/regulation/23) substituted (31.12.2017) by [The Police Federation (England and Wales) Regulations 2017 (S.I. 2017/1140)](https://www.legislation.gov.uk/uksi/2017/1140), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1140/regulation/1/1), [Sch. 1 para. 3(2)](https://www.legislation.gov.uk/uksi/2017/1140/schedule/1/paragraph/3/2) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2017/1140/schedule/3))
+
+[^key-3c36f6d7478e0187f3ef0943eb91dcfe]: Textual amendment: Words in [reg. 23](https://www.legislation.gov.uk/uksi/2003/527/regulation/23) inserted (28.6.2022) by [The Special Constables (Membership of the Police Federation etc.) (England and Wales) Regulations 2022 (S.I. 2022/505)](https://www.legislation.gov.uk/uksi/2022/505), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/505/regulation/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2022/505/regulation/3/2)
+
+[^key-e80ffd583e4077e95284c3cc6a6a99f0]: Modification: [Reg. 24](https://www.legislation.gov.uk/uksi/2003/527/regulation/24) applied (with modifications) (8.5.2017) by [The Greater Manchester Combined Authority (Transfer of Police and Crime Commissioner Functions to the Mayor) Order 2017 (S.I. 2017/470)](https://www.legislation.gov.uk/uksi/2017/470), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2), [Sch. 1 para. 47(3)](https://www.legislation.gov.uk/uksi/2017/470/schedule/1/paragraph/47/3)
+
+[^M_C_f9748e5c-2672-4118-af12-a08550558f22]: Modification: Reg. 24 applied (with modifications) (10.5.2021) by [The West Yorkshire Combined Authority (Election of Mayor and Functions) Order 2021 (S.I. 2021/112)](https://www.legislation.gov.uk/uksi/2021/112), [arts. 1(4)](https://www.legislation.gov.uk/uksi/2021/112/article/1/4), [35(1)(2)](https://www.legislation.gov.uk/uksi/2021/112/article/35/1/2), [Sch. 5 para. 47(2)](https://www.legislation.gov.uk/uksi/2021/112/schedule/5/paragraph/47/2)
+
+[^key-50c8ff7cce8b487f799d4b049fe2e59d]: Textual amendment: Words in reg. 24(1)(a) substituted (16.1.2012 in relation to the Metropolitan police district; 22.11.2012 in relation to the other police areas in E.W.) by [The Police (Amendment) Regulations 2011 (S.I. 2011/3026)](https://www.legislation.gov.uk/uksi/2011/3026), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/3026/regulation/1/1), [4(2)(l)](https://www.legislation.gov.uk/uksi/2011/3026/regulation/4/2/l)
+
+[^key-d6b38f63c557b213949f95e6793523c3]: Modification: [Reg. 24(1)(b)](https://www.legislation.gov.uk/uksi/2003/527/regulation/24/1/b) applied (with modifications) (20.12.2023) by [The York and North Yorkshire Combined Authority Order 2023 (S.I. 2023/1432)](https://www.legislation.gov.uk/uksi/2023/1432), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2), [33(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/33/2), [Sch. 5 para. 47(3)](https://www.legislation.gov.uk/uksi/2023/1432/schedule/5/paragraph/47/3)
+
+[^key-3fc325548a8eed3f73fe044332266ca6]: Textual amendment: Words in reg. 24(1)(b) substituted (16.1.2012 in relation to the Metropolitan police district; 22.11.2012 in relation to the other police areas in E.W.) by [The Police (Amendment) Regulations 2011 (S.I. 2011/3026)](https://www.legislation.gov.uk/uksi/2011/3026), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/3026/regulation/1/1), [9](https://www.legislation.gov.uk/uksi/2011/3026/regulation/9)
+
+[^key-e6ca06d8d50baef090e51b5e82517580]: Textual amendment: Words in reg. 24(2) substituted (with effect from 1.4.2006) by [The Police (Amendment) Regulations 2012 (S.I. 2012/192)](https://www.legislation.gov.uk/uksi/2012/192), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2012/192/regulation/1/2/b), [4(2)](https://www.legislation.gov.uk/uksi/2012/192/regulation/4/2)
+
+[^key-760bb24aa58dc8cbbd267439127af648]: Textual amendment: Words in reg. 24(3)(b) substituted (16.1.2012 in relation to the Metropolitan police district; 22.11.2012 in relation to the other police areas in E.W.) by [The Police (Amendment) Regulations 2011 (S.I. 2011/3026)](https://www.legislation.gov.uk/uksi/2011/3026), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/3026/regulation/1/1), [4(2)(l)](https://www.legislation.gov.uk/uksi/2011/3026/regulation/4/2/l)
+
+[^key-8413a9e6003b62306cbbbe8b39e5a64a]: Textual amendment: Reg. 24(3)(f) substituted (with effect from 5.10.2008) by [The Police (Amendment) Regulations 2012 (S.I. 2012/192)](https://www.legislation.gov.uk/uksi/2012/192), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2012/192/regulation/1/2/c), [4(3)(a)](https://www.legislation.gov.uk/uksi/2012/192/regulation/4/3/a)
+
+[^key-283062fca82b88176e21e11a40e7c91c]: Textual amendment: Reg. 24(3)(h) substituted (with effect from 5.10.2008) by [The Police (Amendment) Regulations 2012 (S.I. 2012/192)](https://www.legislation.gov.uk/uksi/2012/192), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2012/192/regulation/1/2/c), [4(3)(b)](https://www.legislation.gov.uk/uksi/2012/192/regulation/4/3/b)
+
+[^key-0affd301c192688c28d6076b50611f3c]: Textual amendment: Reg. 26(1)(a)-(c) substituted for reg. 26(1)(a)(b) (22.11.2012) by [The Police (Amendment No. 4) Regulations 2012 (S.I. 2012/2712)](https://www.legislation.gov.uk/uksi/2012/2712), [regs. 1](https://www.legislation.gov.uk/uksi/2012/2712/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2012/2712/regulation/5/2)
+
+[^key-d55d01af1c745930c749b5be9415347c]: Textual amendment: [Reg. 28A](https://www.legislation.gov.uk/uksi/2003/527/regulation/28A) inserted (1.4.2015) by [The Police (Amendment) Regulations 2015 (S.I. 2015/455)](https://www.legislation.gov.uk/uksi/2015/455), [regs. 1](https://www.legislation.gov.uk/uksi/2015/455/regulation/1), [5](https://www.legislation.gov.uk/uksi/2015/455/regulation/5)
+
+[^key-2e458685fd22e6193326f03a9e5a29a8]: Textual amendment: Words in reg. 30(1) substituted (16.1.2012 in relation to the Metropolitan police district; 22.11.2012 in relation to the other police areas in E.W.) by [The Police (Amendment) Regulations 2011 (S.I. 2011/3026)](https://www.legislation.gov.uk/uksi/2011/3026), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/3026/regulation/1/1), [4(2)(m)](https://www.legislation.gov.uk/uksi/2011/3026/regulation/4/2/m)
+
+[^c5009591]: Marginal citation: [1994 c. 18](https://www.legislation.gov.uk/ukpga/1994/18).
+
+[^c5009601]: Marginal citation: [1992 c. 4](https://www.legislation.gov.uk/ukpga/1992/4).
+
+[^key-1363148dc48a1cf5e142e742f32aaae2]: Textual amendment: [Reg. 31(1)(c)](https://www.legislation.gov.uk/uksi/2003/527/regulation/31/1/c) inserted (4.1.2017) by [The Police (Amendment) (No. 2) Regulations 2016 (S.I. 2016/1200)](https://www.legislation.gov.uk/uksi/2016/1200), [regs. 1](https://www.legislation.gov.uk/uksi/2016/1200/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2016/1200/regulation/2/3)
+
+[^key-b22d566863b1573aa8cf598469eff3ab]: Textual amendment: Words in reg. 32 substituted (16.1.2012 in relation to the Metropolitan police district; 22.11.2012 in relation to the other police areas in E.W.) by [The Police (Amendment) Regulations 2011 (S.I. 2011/3026)](https://www.legislation.gov.uk/uksi/2011/3026), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/3026/regulation/1/1), [4(2)(n)](https://www.legislation.gov.uk/uksi/2011/3026/regulation/4/2/n)
+
+[^key-45b0e69c7293898efe3b7d3837177439]: Textual amendment: Words in reg. 33(1) substituted (16.1.2012 in relation to the Metropolitan police district; 22.11.2012 in relation to the other police areas in E.W.) by [The Police (Amendment) Regulations 2011 (S.I. 2011/3026)](https://www.legislation.gov.uk/uksi/2011/3026), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/3026/regulation/1/1), [4(2)(o)](https://www.legislation.gov.uk/uksi/2011/3026/regulation/4/2/o)
+
+[^key-85e1b050da7fb30ea3fb1adde4cb8c5c]: Textual amendment: Word in [reg. 33(2)(a)](https://www.legislation.gov.uk/uksi/2003/527/regulation/33/2/a) substituted (29.12.2025) by [The Police (Amendment) Regulations 2025 (S.I. 2025/1274)](https://www.legislation.gov.uk/uksi/2025/1274), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1274/regulation/1/1), [4(a)](https://www.legislation.gov.uk/uksi/2025/1274/regulation/4/a)
+
+[^key-3e92465c855638c195a509e266c9cce2]: Textual amendment: Word in [reg. 33(2)(b)](https://www.legislation.gov.uk/uksi/2003/527/regulation/33/2/b) substituted (29.12.2025) by [The Police (Amendment) Regulations 2025 (S.I. 2025/1274)](https://www.legislation.gov.uk/uksi/2025/1274), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1274/regulation/1/1), [4(b)(i)](https://www.legislation.gov.uk/uksi/2025/1274/regulation/4/b/i)
+
+[^key-3a9a5c5a101c0308a1d6b083a57ef579]: Textual amendment: Words in [reg. 33(2)(b)](https://www.legislation.gov.uk/uksi/2003/527/regulation/33/2/b) substituted (29.12.2025) by [The Police (Amendment) Regulations 2025 (S.I. 2025/1274)](https://www.legislation.gov.uk/uksi/2025/1274), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1274/regulation/1/1), [4(b)(ii)](https://www.legislation.gov.uk/uksi/2025/1274/regulation/4/b/ii)
+
+[^key-a593fe11d09661b0d078c10f5b77f089]: Textual amendment: Words in reg. 33(5) substituted (16.1.2012 in relation to the Metropolitan police district; 22.11.2012 in relation to the other police areas in E.W.) by [The Police (Amendment) Regulations 2011 (S.I. 2011/3026)](https://www.legislation.gov.uk/uksi/2011/3026), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/3026/regulation/1/1), [4(2)(o)](https://www.legislation.gov.uk/uksi/2011/3026/regulation/4/2/o)
+
+[^key-53294b99301a62de00d8c7a23567274d]: Textual amendment: Word in reg. 33(8)(b) omitted (1.2.2007) by virtue of [The Police (Amendment) (No. 2) Regulations 2006 (S.I. 2006/3449)](https://www.legislation.gov.uk/uksi/2006/3449), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/3449/regulation/1/2), [7(2)](https://www.legislation.gov.uk/uksi/2006/3449/regulation/7/2)
+
+[^key-baf5d7357e319d9be0c3e54517d41610]: Textual amendment: Reg. 33(8)(d) and word inserted (1.2.2007) by [The Police (Amendment) (No. 2) Regulations 2006 (S.I. 2006/3449)](https://www.legislation.gov.uk/uksi/2006/3449), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/3449/regulation/1/2), [7(3)](https://www.legislation.gov.uk/uksi/2006/3449/regulation/7/3)
+
+[^key-5cd25bb7922094d88030c99a60d1be03]: Textual amendment: Reg. 33(12)(13) inserted (1.2.2007) by [The Police (Amendment) (No. 2) Regulations 2006 (S.I. 2006/3449)](https://www.legislation.gov.uk/uksi/2006/3449), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/3449/regulation/1/2), [7(4)](https://www.legislation.gov.uk/uksi/2006/3449/regulation/7/4)
+
+[^key-4980f27cbda21629af9fdca05748a431]: Textual amendment: Words in reg. 34(1)(a) substituted (16.1.2012 in relation to the Metropolitan police district; 22.11.2012 in relation to the other police areas in E.W.) by [The Police (Amendment) Regulations 2011 (S.I. 2011/3026)](https://www.legislation.gov.uk/uksi/2011/3026), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/3026/regulation/1/1), [4(2)(p)](https://www.legislation.gov.uk/uksi/2011/3026/regulation/4/2/p)
+
+[^key-d00d44ba8d935f092f2b4a79b64dc586]: Textual amendment: Words in reg. 34(3) substituted (16.1.2012 in relation to the Metropolitan police district; 22.11.2012 in relation to the other police areas in E.W.) by [The Police (Amendment) Regulations 2011 (S.I. 2011/3026)](https://www.legislation.gov.uk/uksi/2011/3026), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/3026/regulation/1/1), [4(2)(p)](https://www.legislation.gov.uk/uksi/2011/3026/regulation/4/2/p)
+
+[^key-252ea9dd2160efcf0f27f5d7bbe904e0]: Textual amendment: Words in reg. 35(2)(a) substituted (16.1.2012 in relation to the Metropolitan police district; 22.11.2012 in relation to the other police areas in E.W.) by [The Police (Amendment) Regulations 2011 (S.I. 2011/3026)](https://www.legislation.gov.uk/uksi/2011/3026), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/3026/regulation/1/1), [4(2)(q)](https://www.legislation.gov.uk/uksi/2011/3026/regulation/4/2/q)
+
+[^key-df315708dd7ef582d96fa29727632df8]: Textual amendment: Reg. 35(3) inserted (1.2.2007 with effect from 24.7.2003) by [The Police (Amendment) (No. 2) Regulations 2006 (S.I. 2006/3449)](https://www.legislation.gov.uk/uksi/2006/3449), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2006/3449/regulation/1/2/b), [8(2)](https://www.legislation.gov.uk/uksi/2006/3449/regulation/8/2)
+
+[^key-4cb1b75b0f5c7706ca21d0dda07812f9]: Textual amendment: Words in reg. 39 substituted (16.1.2012 in relation to the Metropolitan police district; 22.11.2012 in relation to the other police areas in E.W.) by [The Police (Amendment) Regulations 2011 (S.I. 2011/3026)](https://www.legislation.gov.uk/uksi/2011/3026), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/3026/regulation/1/1), [4(2)(r)](https://www.legislation.gov.uk/uksi/2011/3026/regulation/4/2/r)
+
+[^c5009611]: Marginal citation: [1969 c. 63](https://www.legislation.gov.uk/ukpga/1969/63).
+
+[^c5009621]: Marginal citation: Section 53C was inserted by section 26 of the Police and Magistrates' Courts Act 1994.
+
+[^key-8ad67fd3f54167ec32756c6078ad757b]: Textual amendment: Reg. 41A inserted (7.11.2005) by [The Police (Amendment) Regulations 2005 (S.I. 2005/2834)](https://www.legislation.gov.uk/uksi/2005/2834), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/2834/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2005/2834/regulation/5)
+
+[^key-4d48dededc301b325992405db9c3e8a9]: Textual amendment: Words in reg. 41A(1) substituted (with effect from 1.4.2006) by [The Police (Amendment) Regulations 2012 (S.I. 2012/192)](https://www.legislation.gov.uk/uksi/2012/192), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2012/192/regulation/1/2/b), [5](https://www.legislation.gov.uk/uksi/2012/192/regulation/5)
+
+[^c5009631]: Marginal citation: [1987 c. 4](https://www.legislation.gov.uk/ukpga/1987/4).
+
+[^c5009641]: Marginal citation: [1923 c. 11](https://www.legislation.gov.uk/ukpga/1923/11).
+
+[^c5009651]: Marginal citation: [S.I. 1992/284](https://www.legislation.gov.uk/uksi/1992/284).
+
+[^c5009661]: Marginal citation: [1968 c. xxxii](https://www.legislation.gov.uk/ukla/1968/32).
+
+[^c5009671]: Marginal citation: [1982 c. 36](https://www.legislation.gov.uk/ukpga/1982/36).
+
+[^c5009681]: Marginal citation: [1948 c. 56](https://www.legislation.gov.uk/ukpga/1948/56).
+
+[^c5009691]: Marginal citation: [1981 c. 61](https://www.legislation.gov.uk/ukpga/1981/61).
+
+[^c5009701]: Marginal citation: [1980 c. 63](https://www.legislation.gov.uk/ukpga/1980/63).
+
+[^key-f43a1553a811434a8488247fa0a51ffa]: Textual amendment: Reg. 44A inserted (with effect from 1.4.2006) by [The Police (Amendment) Regulations 2012 (S.I. 2012/192)](https://www.legislation.gov.uk/uksi/2012/192), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2012/192/regulation/1/2/b), [6](https://www.legislation.gov.uk/uksi/2012/192/regulation/6)
+
+[^key-165d63f3a55af0c99ed29b9b59efd4e5]: Textual amendment: Word in [reg. 44A](https://www.legislation.gov.uk/uksi/2003/527/regulation/44A) heading substituted (7.10.2013) by [The Crime and Courts Act 2013 (Consequential Amendments and Saving Provision) Order 2013 (S.I. 2013/2318)](https://www.legislation.gov.uk/uksi/2013/2318), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2318/article/1/2), [Sch. para. 45(2)](https://www.legislation.gov.uk/uksi/2013/2318/schedule/paragraph/45/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2013/2318/article/3))
+
+[^key-64bd662b4c59f81fd597a6a50edceb15]: Textual amendment: Word in [reg. 44A(1)](https://www.legislation.gov.uk/uksi/2003/527/regulation/44A/1) substituted (7.10.2013) by [The Crime and Courts Act 2013 (Consequential Amendments and Saving Provision) Order 2013 (S.I. 2013/2318)](https://www.legislation.gov.uk/uksi/2013/2318), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2318/article/1/2), [Sch. para. 45(3)(b)](https://www.legislation.gov.uk/uksi/2013/2318/schedule/paragraph/45/3/b) (with [art. 3](https://www.legislation.gov.uk/uksi/2013/2318/article/3))
+
+[^key-50c177ed2f40c0f8bbbb68b1df97e1be]: Textual amendment: Words in [reg. 44A(1)](https://www.legislation.gov.uk/uksi/2003/527/regulation/44A/1) substituted (7.10.2013) by [The Crime and Courts Act 2013 (Consequential Amendments and Saving Provision) Order 2013 (S.I. 2013/2318)](https://www.legislation.gov.uk/uksi/2013/2318), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2318/article/1/2), [Sch. para. 45(3)(a)](https://www.legislation.gov.uk/uksi/2013/2318/schedule/paragraph/45/3/a) (with [art. 3](https://www.legislation.gov.uk/uksi/2013/2318/article/3))
+
+[^key-d2384d429ed7397f5732248af68f1a52]: Textual amendment: Word in [reg. 44A(2)](https://www.legislation.gov.uk/uksi/2003/527/regulation/44A/2) substituted (7.10.2013) by [The Crime and Courts Act 2013 (Consequential Amendments and Saving Provision) Order 2013 (S.I. 2013/2318)](https://www.legislation.gov.uk/uksi/2013/2318), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2318/article/1/2), [Sch. para. 45(4)](https://www.legislation.gov.uk/uksi/2013/2318/schedule/paragraph/45/4) (with [art. 3](https://www.legislation.gov.uk/uksi/2013/2318/article/3))
+
+[^key-037ea3b8987c920f6e0c24361696b59f]: Textual amendment: Words in reg. 45 substituted (16.1.2012 in relation to the Metropolitan police district; 22.11.2012 in relation to the other police areas in E.W.) by [The Police (Amendment) Regulations 2011 (S.I. 2011/3026)](https://www.legislation.gov.uk/uksi/2011/3026), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/3026/regulation/1/1), [4(2)(s)](https://www.legislation.gov.uk/uksi/2011/3026/regulation/4/2/s)
+
+[^key-9bb775fe14fae92840292ad0c78d432a]: Textual amendment: Reg. 46(1)-(1C) substituted for reg. 46(1) (1.4.2015) by [The Police (Amendment) Regulations 2015 (S.I. 2015/455)](https://www.legislation.gov.uk/uksi/2015/455), [regs. 1](https://www.legislation.gov.uk/uksi/2015/455/regulation/1), [6](https://www.legislation.gov.uk/uksi/2015/455/regulation/6)
+
+[^key-64ffea030950ed77de3ddd2d79378d00]: Textual amendment: Words in [reg. 46(1A)(b)(ii)](https://www.legislation.gov.uk/uksi/2003/527/regulation/46/1A/b/ii) substituted (19.8.2016) by [The Police (Amendment) Regulations 2016 (S.I. 2016/798)](https://www.legislation.gov.uk/uksi/2016/798), [regs. 1](https://www.legislation.gov.uk/uksi/2016/798/regulation/1), [7(a)(i)](https://www.legislation.gov.uk/uksi/2016/798/regulation/7/a/i)
+
+[^key-e33a22f54f037b216c5f6308fb2fd9ef]: Textual amendment: [Reg. 46(1A)(c)](https://www.legislation.gov.uk/uksi/2003/527/regulation/46/1A/c) omitted (19.8.2016) by virtue of [The Police (Amendment) Regulations 2016 (S.I. 2016/798)](https://www.legislation.gov.uk/uksi/2016/798), [regs. 1](https://www.legislation.gov.uk/uksi/2016/798/regulation/1), [7(a)(ii)](https://www.legislation.gov.uk/uksi/2016/798/regulation/7/a/ii)
+
+[^key-ad4f612eb6606914010cda02bc39313c]: Textual amendment: [Reg. 46(1AA)](https://www.legislation.gov.uk/uksi/2003/527/regulation/46/1AA) inserted (19.8.2016) by [The Police (Amendment) Regulations 2016 (S.I. 2016/798)](https://www.legislation.gov.uk/uksi/2016/798), [regs. 1](https://www.legislation.gov.uk/uksi/2016/798/regulation/1), [7(b)](https://www.legislation.gov.uk/uksi/2016/798/regulation/7/b)
+
+[^key-b4aedbdf08585c5bd1e69ec356f63370]: Textual amendment: [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2003/527/schedule/1/paragraph/1) substituted (1.1.2005) by [The Police (Amendment) Regulations 2004 (S.I. 2004/3216)](https://www.legislation.gov.uk/uksi/2004/3216), [regs. 1](https://www.legislation.gov.uk/uksi/2004/3216/regulation/1), [2](https://www.legislation.gov.uk/uksi/2004/3216/regulation/2)
+
+[^key-287dd733ecab53ce2d964f388c4bc6be]: Textual amendment: Words in Sch. 1 para. 3(1) substituted (16.1.2012 in relation to the Metropolitan police district; 22.11.2012 in relation to the other police areas in E.W.) by [The Police (Amendment) Regulations 2011 (S.I. 2011/3026)](https://www.legislation.gov.uk/uksi/2011/3026), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/3026/regulation/1/1), [4(2)(t)](https://www.legislation.gov.uk/uksi/2011/3026/regulation/4/2/t)
+
+[^c5009711]: Marginal citation: [1952 c. 52](https://www.legislation.gov.uk/ukpga/1952/52).
+
+[^key-07e1449158356944a36f4bf8dfcfcbe7]: Textual amendment: Words in Sch. 2 para. 1(2) substituted (16.1.2012 in relation to the Metropolitan police district; 22.11.2012 in relation to the other police areas in E.W.) by [The Police (Amendment) Regulations 2011 (S.I. 2011/3026)](https://www.legislation.gov.uk/uksi/2011/3026), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/3026/regulation/1/1), [10](https://www.legislation.gov.uk/uksi/2011/3026/regulation/10)
+
+[^key-c10155d43995ce3d84047af9616d2872]: Textual amendment: Words in Sch. 2 para. 1(2) substituted (16.1.2012 in relation to the Metropolitan police district; 22.11.2012 in relation to the other police areas in E.W.) by [The Police (Amendment) Regulations 2011 (S.I. 2011/3026)](https://www.legislation.gov.uk/uksi/2011/3026), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/3026/regulation/1/1), [4(2)(u)](https://www.legislation.gov.uk/uksi/2011/3026/regulation/4/2/u)
+
+[^key-62def1329b08e3941266367d4cba25fc]: Textual amendment: Word in Sch. 3 para. 1(1) substituted (with effect in accordance with reg. 1(2)(3) of the amending S.I.) by [The Police (Amendment) Regulations 2007 (S.I. 2007/1160)](https://www.legislation.gov.uk/uksi/2007/1160), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2007/1160/regulation/2/2)
+
+[^key-d3b39b533914bac82ed283beabbd0ee4]: Textual amendment: Sch. 3 para. 1(4A) inserted (7.11.2005) by [The Police (Amendment) Regulations 2005 (S.I. 2005/2834)](https://www.legislation.gov.uk/uksi/2005/2834), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/2834/regulation/1/1), [6(1)](https://www.legislation.gov.uk/uksi/2005/2834/regulation/6/1)
+
+[^key-a4d4043744b0268ec7ff104121936acd]: Textual amendment: Sch. 3 para. 1(6)(d)(e) and word inserted (with effect from 1.4.2003) by [The Police (Amendment) Regulations 2012 (S.I. 2012/192)](https://www.legislation.gov.uk/uksi/2012/192), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/192/regulation/1/2/a), [7(2)](https://www.legislation.gov.uk/uksi/2012/192/regulation/7/2)
+
+[^key-ea1cf5660f36eb36d42ba6507ad650ef]: Textual amendment: Words in Sch. 3 para. 1(6)(e) substituted (7.10.2013) by [The Crime and Courts Act 2013 (Consequential Amendments and Saving Provision) Order 2013 (S.I. 2013/2318)](https://www.legislation.gov.uk/uksi/2013/2318), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2318/article/1/2), [Sch. para. 46(2)](https://www.legislation.gov.uk/uksi/2013/2318/schedule/paragraph/46/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2013/2318/article/3))
+
+[^key-badef166d9faa6a7555f2af469c5bf10]: Textual amendment: Sch. 3 para. 1(6A) inserted (with effect from 1.4.2003) by [The Police (Amendment) Regulations 2012 (S.I. 2012/192)](https://www.legislation.gov.uk/uksi/2012/192), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/192/regulation/1/2/a), [7(3)](https://www.legislation.gov.uk/uksi/2012/192/regulation/7/3)
+
+[^key-46113a2dfcfd3e4d968606c2b12790a4]: Textual amendment: Words in Sch. 3 para. 1(7) inserted (7.11.2005) by [The Police (Amendment) Regulations 2005 (S.I. 2005/2834)](https://www.legislation.gov.uk/uksi/2005/2834), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/2834/regulation/1/1), [6(2)](https://www.legislation.gov.uk/uksi/2005/2834/regulation/6/2)
+
+[^c5009731]: Marginal citation: By [S.I. 1994/2195](https://www.legislation.gov.uk/uksi/1994/2195).
+
+[^c5009741]: Marginal citation: Regulations 49, 49A, 49B, 49C, 49D, 50 and 51 were inserted by [S.I. 1990/1127](https://www.legislation.gov.uk/uksi/1990/1127), 1990/1573 and 1993/1198; regulation 52B was substituted by [S.I. 1994/1308](https://www.legislation.gov.uk/uksi/1994/1308); regulations 52 and 72 and paragraph 4(1) and (2) of Schedule 4 were amended by [S.I. 1990/401](https://www.legislation.gov.uk/uksi/1990/401); and paragraphs 16 to 18 of Schedule 1A were inserted by [S.I. 1992/1278](https://www.legislation.gov.uk/uksi/1992/1278).
+
+[^c5009751]: Marginal citation: [S.I. 1987/851](https://www.legislation.gov.uk/uksi/1987/851).
+
+[^key-231b02137ad61b598106b01761de00c4]: Textual amendment: Sch. 3 para. 1(10)(11) inserted (23.2.2012) by [The Police (Amendment) Regulations 2012 (S.I. 2012/192)](https://www.legislation.gov.uk/uksi/2012/192), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/192/regulation/1/2), [7(4)](https://www.legislation.gov.uk/uksi/2012/192/regulation/7/4)
+
+[^key-edc7160610ecc5e00a162cf8657b1770]: Textual amendment: Words in Sch. 3 para. 1(10) substituted (7.10.2013) by [The Crime and Courts Act 2013 (Consequential Amendments and Saving Provision) Order 2013 (S.I. 2013/2318)](https://www.legislation.gov.uk/uksi/2013/2318), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2318/article/1/2), [Sch. para. 46(3)](https://www.legislation.gov.uk/uksi/2013/2318/schedule/paragraph/46/3) (with [art. 3](https://www.legislation.gov.uk/uksi/2013/2318/article/3))
+
+[^key-31f54008128eeeedfef9519ad9db5d08]: Textual amendment: Words in Sch. 3 para. 1(11) substituted (7.10.2013) by [The Crime and Courts Act 2013 (Consequential Amendments and Saving Provision) Order 2013 (S.I. 2013/2318)](https://www.legislation.gov.uk/uksi/2013/2318), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2318/article/1/2), [Sch. para. 46(4)(a)](https://www.legislation.gov.uk/uksi/2013/2318/schedule/paragraph/46/4/a) (with [art. 3](https://www.legislation.gov.uk/uksi/2013/2318/article/3))
+
+[^key-850aa6ef708cfa434ac42ce40214e94a]: Textual amendment: Words in Sch. 3 para. 1(11)(a) substituted (7.10.2013) by virtue of [The Crime and Courts Act 2013 (Consequential Amendments and Saving Provision) Order 2013 (S.I. 2013/2318)](https://www.legislation.gov.uk/uksi/2013/2318), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2318/article/1/2), [Sch. para. 46(4)(b)](https://www.legislation.gov.uk/uksi/2013/2318/schedule/paragraph/46/4/b) (with [art. 3](https://www.legislation.gov.uk/uksi/2013/2318/article/3))
+
+[^key-28f181554d58d3b10f24636a225880c5]: Textual amendment: Words in Sch. 3 para. 3(2) substituted (with effect in accordance with reg. 1(2)(3) of the amending S.I.) by [The Police (Amendment) Regulations 2007 (S.I. 2007/1160)](https://www.legislation.gov.uk/uksi/2007/1160), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2007/1160/regulation/2/3)
+
+[^key-c6ec523eb7c8fb7ae8ea5a9e4a0cfa61]: Textual amendment: Words in Sch. 3 para. 5(2)(a) inserted (with effect in accordance with reg. 1(2)(3) of the amending S.I.) by [The Police (Amendment) Regulations 2007 (S.I. 2007/1160)](https://www.legislation.gov.uk/uksi/2007/1160), [reg. 2(4)](https://www.legislation.gov.uk/uksi/2007/1160/regulation/2/4)
+
+[^key-ee8af01e7cbde4e7fc2801e53845571c]: Textual amendment: Word in [Sch. 3 para. 7(3)](https://www.legislation.gov.uk/uksi/2003/527/schedule/3/paragraph/7/3) inserted (22.11.2012) by [The Police (Amendment No. 4) Regulations 2012 (S.I. 2012/2712)](https://www.legislation.gov.uk/uksi/2012/2712), [regs. 1](https://www.legislation.gov.uk/uksi/2012/2712/regulation/1), [6(2)](https://www.legislation.gov.uk/uksi/2012/2712/regulation/6/2)
+
+[^key-5c9ec287431ef369a71c056c960dfec6]: Textual amendment: Sch. 3 para. 8 inserted (with effect in accordance with reg. 1(2)(3) of the amending S.I.) by [The Police (Amendment) Regulations 2007 (S.I. 2007/1160)](https://www.legislation.gov.uk/uksi/2007/1160), [reg. 2(5)](https://www.legislation.gov.uk/uksi/2007/1160/regulation/2/5)
+
+[^key-54657e3b68c336e8eaa7ad0532f0a846]: Textual amendment: Sch. 3 para. 9 inserted (with effect from 1.4.2003) by [The Police (Amendment) Regulations 2012 (S.I. 2012/192)](https://www.legislation.gov.uk/uksi/2012/192), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/192/regulation/1/2/a), [7(5)](https://www.legislation.gov.uk/uksi/2012/192/regulation/7/5)
+
+[^key-ebe1a3d0f9a985e8d913df664d5e2601]: Textual amendment: Sch. 3A inserted (13.7.2026) by [The Police (Conduct and Vetting etc.) (Amendment) Regulations 2026 (S.I. 2026/653)](https://www.legislation.gov.uk/uksi/2026/653), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/653/regulation/1/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2026/653/schedule/3)
+
+[^c5009761]: Marginal citation: [S.I. 1987/851](https://www.legislation.gov.uk/uksi/1987/851); [regulation 8A](https://www.legislation.gov.uk/uksi/2003/527/regulation/8A) was inserted by [S.I. 1992/1278](https://www.legislation.gov.uk/uksi/1992/1278).

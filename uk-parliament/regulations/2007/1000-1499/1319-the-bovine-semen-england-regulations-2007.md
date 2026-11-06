@@ -1,0 +1,1213 @@
+---
+title: The Bovine Semen (England) Regulations 2007
+id: uksi/2007/1319
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2007-04-17'
+text_date: '2020-12-31'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/uksi/2007/1319
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2007/1319/pdfs/uksiem_20071319_en.pdf
+- http://www.legislation.gov.uk/uksi/2007/1319/pdfs/uksi_20071319_en.pdf
+- http://www.legislation.gov.uk/uksi/2007/1319/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Bovine Semen (England) Regulations 2007
+
+> Text as at 2020-12-31.
+>
+> Extent: England, Wales, Scotland.
+
+*Extent: E+W+S*
+
+2007 No. 1319
+
+agriculture, england
+
+livestock industries
+
+The Bovine Semen (England) Regulations 2007
+
+Made
+
+17th April 2007
+
+Laid before Parliament
+
+27th April 2007
+
+Coming into force
+
+22nd May 2007
+
+The Secretary of State, in exercise of the powers conferred by section 10 of the Animal Health and Welfare Act 1984 [^c18607761] and now vested in him [^c18607771], and with the approval of the Treasury; and in exercise of the powers conferred by section 2(2) of, and paragraph 1A of Schedule 2 to, the European Communities Act 1972 [^c18607781], makes the following Regulations.
+
+These Regulations make provision for a purpose mentioned in section 2(2) of the European Communities Act 1972 and it appears to the Secretary of State that it is expedient for references to EC instruments referred to in regulation 2(1) to be construed as references to those instruments as amended from time to time.
+
+## PART 1 — General Provisions
+
+### 1. Title, application and commencement
+
+These Regulations—
+
+- (a) may be cited as the Bovine Semen (England) Regulations 2007;
+- (b) apply in England only; and
+- (c) come into force on 22nd May 2007.
+
+### 2. Interpretation
+
+(1) In these Regulations—
+
+- “**bovine**” includes the species *Bubalus bubalis* and *Bison bison*;
+- “**bovine semen centre**” means premises licensed under regulation 4;
+- “**cattle identification regulations**” means—
+  - (a) the Cattle Identification Regulations 2007;[^key-950778d22266b924d4ca84ccc0e919fe]
+  - (b) Council Regulation 1760/2000, as amended from time to time (in the case of bovine animals born outside England);
+- “**centre veterinarian**” has the meaning given in regulation 5(b);
+- “**Council Regulation 1760/2000**” means Regulation [(EC) No 1760/2000](https://www.legislation.gov.uk/eur/2000/1760) of the European Parliament and of the Council establishing a system for the identification and registration of bovine animals and regarding the labelling of beef and beef products [^c18607811] and repealing Council Regulation [(EC) No 820/97](https://www.legislation.gov.uk/eur/1997/820) [^c18607821], as amended from time to time;
+- “dam”, in the case of bovine animals derived from embryo transfer, means the recipient of the embryo;
+- “**the Directive**” means Council Directive [88/407/EEC](https://www.legislation.gov.uk/eudr/1988/407) laying down the animal health requirements applicable to intra-Community trade in and imports of semen of domestic animals of the bovine species [^c18607831], as amended from time to time;
+- “**Directive [64/432/EEC](https://www.legislation.gov.uk/eudr/1964/432)**” means Council Directive [64/432/EEC](https://www.legislation.gov.uk/eudr/1964/432) on animal health problems affecting intra-Community trade in bovine animals and swine [^c18607841], as amended from time to time;
+- “**domestic collection centre**” has the meaning given in regulation 4(b)(ii);
+- “**domestic storage centre**” has the meaning given in regulation 4(c)(ii);
+- “ **licensed[^key-0cc4da14308fd673ccafd5018069dce1] collection centre**” has the meaning given in regulation 4(b)(i);
+- “ **licensed quarantine centre**” has the meaning given in regulation 4(a);
+- “ **licensed storage centre**” has the meaning given in regulation 4(c)(i);
+- “**fresh semen**” means semen which has not been frozen;
+- “**inspector**” means a person authorised in writing by the Secretary of State in accordance with section 10(4) of the Animal Health and Welfare Act 1984;
+- “[^key-d075bc41dc4c454c8594b9a317535e6d]**licensed**” means licensed by the Secretary of State;
+- “**processing**” means one or more of—
+  - (a) diluting (except in the course of or immediately after semen collection),
+  - (b) adding any substance with the intention of prolonging the natural life of the semen (except in the course of or immediately after semen collection),
+  - (c) adding any antibiotic,
+  - (d) packing into straws or other appropriate receptacles, and
+  - (e) freezing;
+- “**straw**” means a receptacle used to contain a single dose of semen;
+- “**teaser animal**” means a bovine animal which is used as an aid in the collection of semen;
+- “unlicensed premises” are premises that do not have a licence under regulation 4;
+- “unlicensed processing premises” means unlicensed premises—[^key-2fdd1d568423988fad0f30d26af81030]
+  - (a) for the processing of semen—
+    - (i) collected at unlicensed premises or at a domestic collection centre, and
+    - (ii) not intended for trade with a member State[^key-fa35d49186f8d8c6dfe4ac213fe11904], and
+  - (b) supervised by the centre veterinarian of a licensed[^key-9e03b2fb4051f062759be8c4f00988cd] collection centre;
+- “**veterinary surgeon**” means a veterinary surgeon or veterinary practitioner registered under the Veterinary Surgeons Act 1966 [^c18607851].
+
+(2) Expressions that are not defined in these Regulations and are used in the Directive have the same meaning in these Regulations as they have for the purposes of the Directive.
+
+### 3. Exceptions
+
+(1) These Regulations do not apply where—
+
+- (a) semen is collected for the purpose of the artificial insemination of a bovine animal with fresh semen;
+- (b) the bovine animal from which the semen is collected—
+  - (i) is not, at the time of collection, affected by an Order made under sections 6(c), 8, 17, 23, 25, 26 or 29 of the Animal Health Act 1981 [^c18607861]; or,
+  - (ii) is so affected, but the use of its semen is authorised by the Secretary of State; and
+- (c) when the bovine animal is inseminated—
+  - (i) it is in the same ownership and the same herd as the bovine animal from which the semen was collected; and
+  - (ii) it is kept on the same premises as that bovine animal.
+
+(2) These Regulations do not apply where semen is collected for the purpose of—
+
+- (a) assessing the suitability of a bovine animal for use in breeding;
+- (b) diagnosing infection or disease in a bovine animal; or
+- (c) education or research,
+
+provided the semen collected is not used for artificial insemination and is not the subject of trade with a member State[^key-3da29fa4299783e2b9fb0ba9090de08e].
+
+(3) These Regulations do not apply to research authorised under the Animals (Scientific Procedures) Act 1986 [^c18607871].
+
+(4)[^key-cfba67329050284f6db85f581ca21a06] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART 2 — Licensing of bovine semen centres and approval of bovine animals
+
+### 4. Licensing of bovine semen centres
+
+The Secretary of State may license premises as follows—
+
+- (a) if they comply with Part 1 of Schedule 1, as premises for the quarantine of bovine animals (a “ licensed quarantine centre”);
+- (b) if they comply with Part 2 of Schedule 1, either as—
+  - (i) premises for the collection, processing and quarantine of semen intended for trade with a member State[^key-920dde9e6a47ac5524bca4af5cb89354] (a “licensed collection centre”); or
+  - (ii) premises for the collection, processing and quarantine of semen not intended for trade with a member State[^key-feb519a0fe7a3c6905f0daf6c7479021] (a “domestic collection centre”); or
+- (c) if they comply with Part 3 of Schedule 1, either as—
+  - (i) premises for the storage of semen intended for trade with a member State[^key-e30bb94967317cc68c2794a7e0e5d941] (a “licensed storage centre”); or
+  - (ii) premises for the storage of semen not intended for trade with a member State[^key-1c873ec8a5d840eb1728a6ff70b55a36] (a “domestic storage centre”).
+
+### 5. Application for a licence to operate a bovine semen centre
+
+An application for a licence to operate a bovine semen centre must—
+
+- (a) be made in writing to the Secretary of State;
+- (b) be signed by the applicant for the licence and by the veterinary surgeon who will have responsibility for veterinary supervision of the centre (“the centre veterinarian”);
+- (c) specify the premises for which an application is made; and
+- (d) specify the licence applied for.
+
+### 6. Bovine semen centre licence
+
+(1) A bovine semen centre licence granted under regulation 4 must specify—
+
+- (a) the address of the centre;
+- (b) the licence number of the centre;
+- (c) the licence holder;
+- (d) the centre veterinarian;
+- (e) the type of licence granted; and
+- (f) any conditions to which the licence is subject.
+
+(2) A licence must be in writing and may be made subject to such conditions as are necessary to—
+
+- (a) ensure that the provisions of these Regulations are complied with; or
+- (b) protect public or animal health.
+
+### 7. Approval of a bovine animal
+
+(1) The Secretary of State may grant an approval for a bovine animal for use in a licensed collection centre, a domestic collection centre, or at unlicensed premises if it has tested negative to—
+
+- (a) the tests set out in Schedule 2, paragraph 2(1)(a) to (e) prior to its entry to a licensed quarantine centre; and
+- (b) the tests set out in Schedule 2, paragraph 3(1)(a) to (d) and paragraph 4(1)(a) after its entry to a licensed quarantine centre.
+
+(2) The Secretary of State may approve a bovine animal despite a positive result to the serological tests set out in Schedule 2, paragraph 2(1)(e)(ii) or in Schedule 2, paragraph 4(1)(b) or in both.
+
+(3) The Secretary of State may also grant an approval for a bovine animal for use in a domestic collection centre or at unlicensed premises, if it has tested negative to the tests set out in Part 2 of Schedule 8, paragraphs 2(a) to (c).
+
+### 8. Application for approval of a bovine animal
+
+Any application for approval of a bovine animal for the purpose of collecting its semen, or for use as a teaser animal, must be made to the Secretary of State by or on behalf of its owner and must—
+
+- (a) specify the name and breed of the bovine animal;
+- (b) specify the number by which it is identifiable in accordance with the cattle identification regulations; and
+- (c) be made in writing and signed by or on behalf of the owner.
+
+### 9. Form of approval for a bovine animal
+
+(1) An approval for a bovine animal must specify—
+
+- (a) the name and breed of the bovine animal;
+- (b) the number by which it is identifiable in accordance with the cattle identification regulations; and
+- (c) any conditions to which the approval is subject.
+
+(2) An approval must be in writing and may be made subject to such conditions as are necessary to—
+
+- (a) ensure that the provisions of these Regulations are complied with; or
+- (b) protect public or animal health.
+
+### 10. Approval of bovine animals for use at unlicensed premises
+
+(1) The Secretary of State may approve the use of a bovine animal for the collection of its semen [^key-f97d0a1d199840f3d064a1f017915c0c]... at unlicensed premises for a maximum period of 3 months.
+
+(2) The Secretary of State may renew an approval under paragraph (1) for subsequent periods of up to 3 months if—
+
+- (a) he receives the application for renewal of the approval in writing and signed by or on behalf of the owner, at least 28 days before the date on which it is due to expire; and
+- (b) the tests referred to in Part 2 of Schedule 8, paragraph 2(a) to (c) have been conducted again, with negative results, on the bovine animal to which the approval relates, no more than 28 days before the date the approval is due to expire.
+
+(3) If the results of any of the tests carried out on a bovine animal under paragraph 2(b) will not be available until after its approval is due to expire, the Secretary of State may grant a temporary approval.
+
+(4) Where the Secretary of State grants a temporary approval under paragraph (3), no person may trade any semen which has been—
+
+- (a) collected from a bovine animal; or
+- (b) processed following such collection,
+
+until negative results to the tests on the bovine animal [^key-b6eddc3714da6f6fbc8687a07a94b0a3]... are confirmed.
+
+## PART 3 — The operation of a bovine semen centre and collection at unlicensed premises
+
+### 11. Entry of persons to bovine semen centres
+
+(1) No person may enter a bovine semen centre without the authority of the centre veterinarian.
+
+(2) A person authorised by the centre veterinarian to enter a bovine semen centre must comply with any requirements laid down by the centre veterinarian to ensure compliance with these Regulations.
+
+(3) The centre veterinarian must ensure that unauthorised persons do not enter the bovine semen centre.
+
+### 12. Entry of non-bovine animals to bovine semen centres
+
+(1) No person may introduce a non-bovine animal into a bovine semen centre without the express authorisation of the centre veterinarian.
+
+(2) The centre veterinarian may authorise the admission of domestic animals of non-bovine species into a bovine semen centre provided—
+
+- (a) they are necessary for the operation of the centre;
+- (b) they present no risk of infection to those bovine animals whose semen is to be collected; and
+- (c) they fulfil the conditions laid down by the centre veterinarian.
+
+### 13. Requirement to keep records of bovine animals
+
+(1) This regulation does not apply to a licensed storage centre or domestic storage centre.
+
+(2) The centre veterinarian or operator of unlicensed premises must make a record for each bovine animal moved into or out of the centre or premises of—
+
+- (a) its breed;
+- (b) its date of birth;
+- (c) the number by which it is identifiable in accordance with the cattle identification regulations;
+- (d) all vaccinations administered to it;
+- (e) the tests it has undergone for diseases and their results; and
+- (f) any indication of disease it may have.
+
+(3) The centre veterinarian or operator of unlicensed premises must ensure that these records are kept for at least two years from the date when the bovine animal leaves the centre or premises, or dies at the centre or premises.
+
+### 14. Requirement to keep records of semen
+
+(1) This regulation does not apply to licensed quarantine centres.
+
+(2) Whenever semen is moved from or to a bovine semen centre or destroyed, the centre veterinarian must record—
+
+- (a) the number by which the donor bovine animal is identifiable in accordance with the cattle identification regulations;
+- (b) its health status;
+- (c) the number of doses of semen;
+- (d) the numbers on the receptacles in which the semen is or was contained (as applicable);
+- (e) the date the semen was received, dispatched or destroyed (as applicable);
+- (f) the premises, or bovine semen centre, of dispatch (if applicable); and
+- (g) the destination (if applicable).
+
+(3) The operator of unlicensed premises must record the information in paragraphs 2(a) to (g) for semen sent to a licensed collection centre or domestic collection centre for processing.
+
+(4) The operator of unlicensed premises or the centre veterinarian must ensure that each consignment of semen is accompanied by documents containing the information in paragraphs 2(a) to (g).
+
+(5) The operator of unlicensed premises or the centre veterinarian must ensure that these records are retained for at least two years after the dispatch, receipt, or destruction of the semen.
+
+### 15. General duties of centre veterinarians
+
+(1) The centre veterinarian must ensure that—
+
+- (a) the centre is operated in accordance with these Regulations;
+- (b) any conditions of the licence under which the centre operates are observed;
+- (c) appropriate standards of hygiene are maintained at the centre to prevent the incursion of disease transmissible by semen; and
+- (d) the biosecurity of the centre is maintained to prevent the incursion of disease transmissible by semen.
+
+(2) The centre veterinarian must ensure that staff at the centre are technically competent and have received appropriate training in disinfection procedures and hygiene techniques.
+
+(3) The centre veterinarian must ensure that the Secretary of State is notified immediately if the result of any test carried out on a bovine animal at the centre for any disease that must be tested for under these Regulations indicates a change in the health status of the bovine animal.
+
+### 16. Specific duties of centre veterinarians and operators of unlicensed premises
+
+(1) The duties of the centre veterinarian—
+
+- (a) of a licensed quarantine centre are set out in Schedule 2;
+- (b) of a licensed collection centre are set out in Schedule 3;
+- (c) of a licensed storage centre are set out in Schedule 4;
+- (d) of a domestic collection centre are set out in Schedule 5; and
+- (e) of a domestic storage centre are set out in Schedule 6.
+
+(1A)[^key-09f334ceb15dbae350030383c27d21fb] The duties of the centre veterinarian of a licensed collection centre which are specified in paragraph (1B) must also be performed by that veterinarian when supervising unlicensed processing premises.
+
+(1B) The duties are those set out in the following provisions of Part 3 of Schedule 3—
+
+- (a) sub-paragraphs (d), (e) and (f) of paragraph 1; and
+- (b) sub-paragraph (b) of paragraph (2).
+
+(2) The duties of the operator of unlicensed premises are set out in Schedule 7.
+
+### 17. Taking blood samples and testing for bovine tuberculosis
+
+(1) Taking blood samples for laboratory analysis may only be undertaken by—
+
+- (a) a centre veterinarian;
+- (b) an inspector who is qualified as a veterinary surgeon; or
+- (c) a person who fulfils the conditions set out in articles 3(2)(a) or 3(2)(b) of the Veterinary Surgery (Blood Sampling) Order 1983 [^c18607881] and for whom the relevant qualified person described in those articles is a centre veterinarian or an inspector who is qualified as a veterinary surgeon.
+
+(2) Only a veterinary surgeon approved by the Secretary of State for that purpose may test for bovine tuberculosis.
+
+### 18. Laboratory tests
+
+The operator of unlicensed premises or the centre veterinarian must ensure that laboratory tests required under these Regulations are carried out by a laboratory approved by the Secretary of State.
+
+## PART 4 — The collection, processing and storage of semen
+
+### 19. Bovine animals from which semen may be collected
+
+No person may collect semen from a bovine animal for use in artificial insemination unless the bovine animal—
+
+- (a) is approved for that purpose by the Secretary of State;
+- (b) is identified in accordance with the cattle identification regulations;
+- (c) shows no clinical signs of disease on the day the semen is to be collected;
+- (d) has not been vaccinated against foot-and-mouth disease within the 30 days preceding the date of collection;
+- (e) has not been allowed to serve naturally since the date of the application for its approval for semen collection; and
+- (f) (where its semen is to be supplied as fresh semen) has been kept at a licensed collection centre or a domestic collection centre for a continuous period of at least 30 days preceding the date the semen is collected.
+
+### 20. Places where semen may be collected
+
+(1) No person may collect semen from a bovine animal except—
+
+- (a) at a licensed collection centre;
+- (b) at a domestic collection centre; or
+- (c) at unlicensed premises,
+
+in accordance with these Regulations.
+
+(2) Such centres or unlicensed premises must—
+
+- (a) have been free from foot-and-mouth disease for at least three months prior to collection of the semen;
+- (b) be situated in the centre of an area of 10 kilometres radius in which there has been no case of foot-and-mouth disease for at least the preceding 30 days; and
+- (c) have been, for 30 days prior to collection of the semen, free from the bovine diseases listed in Annex E(I) to Directive [64/432/EEC](https://www.legislation.gov.uk/european/directive/1964/0432).
+
+### 21. Use of teaser animals[^key-bed7d183c3c05eecddef05e48f71db03]
+
+(1) No person may use a teaser animal to assist in the collection of semen unless it is approved for that purpose by the Secretary of State.
+
+(2) But no such approval is required in respect of a teaser animal used to assist in the collection of semen at unlicensed premises.
+
+### 22. Entry of bovine animals to licensed quarantine centres, licensed collection centres, domestic collection centres, or to unlicensed premises
+
+(1) No person may introduce a bovine animal into—
+
+- (a) a licensed quarantine centre;
+- (b) a licensed collection centre; or
+- (c) a domestic collection centre,
+
+without the express authorisation of the centre veterinarian.
+
+(2) The centre veterinarian may not authorise a bovine animal to enter a licensed quarantine centre unless, prior to its entry to the centre, it always belonged to a herd—
+
+- (a) officially tuberculosis free; and
+- (b) officially brucellosis free,
+
+in accordance with Directive [64/432/EEC](https://www.legislation.gov.uk/european/directive/1964/0432).
+
+(3) The centre veterinarian may not authorise a bovine animal to enter a licensed collection centre unless the requirements of Part 1 of Schedule 8 are met.
+
+(4) The centre veterinarian may not authorise a bovine animal to enter a domestic collection centre unless the requirements of Part 1 or 2 of Schedule 8 are met.
+
+(5) The operator of unlicensed premises may not collect semen from a bovine animal on unlicensed premises unless the requirements of Part 1 or 2 of Schedule 8 are met.
+
+(6) The centre veterinarian of a licensed collection centre or domestic collection centre, or the operator of unlicensed premises, may not admit bovine animals unless on the day of movement the premises of origin—
+
+- (a) are situated in the centre of an area of 10 kilometres radius in which there has been no case of foot-and-mouth disease for at least the preceding 30 days;
+- (b) have, for at least the preceding 3 months, been free from foot-and-mouth disease and brucellosis; and
+- (c) have, for at least the preceding 30 days, been free from those bovine diseases listed in Annex E(I) to Directive [64/432/EEC](https://www.legislation.gov.uk/european/directive/1964/0432).
+
+(7) The centre veterinarian or the operator of unlicensed premises may not authorise the admission of any bovine animal which shows any clinical sign of disease on the day of the proposed admission.
+
+### 23. Movement of bovine animals
+
+(1) No person may move a bovine animal to a licensed collection centre, a domestic collection centre or to unlicensed premises except—
+
+- (a) in means of transport that have been cleansed and disinfected before use in accordance with the Transport of Animals (Cleansing and Disinfection) (England) (No. 3) Order 2003 [^c18607891]; and
+- (b) under conditions that ensure that it does not come into contact with cloven-hoofed animals that are not authorised to enter the centre or premises of destination.
+
+(2) No person may move a bovine animal from one collection centre to one in another member State except in accordance with Directive [64/432/EEC](https://www.legislation.gov.uk/european/directive/1964/0432).
+
+### 24. Processing of semen
+
+No person may process semen except—
+
+- (a)[^key-25d27460f5ca82cc3fd41a3db2ac593d] at a licensed collection centre;
+- (b) at a domestic collection centre; or
+- (c) at unlicensed processing premises.
+
+### 25. Instruments for collecting and processing semen
+
+No person may—
+
+- (a) use any instrument (other than a single-use instrument) which comes into contact with semen or with the donor animal during collection or processing unless such instrument has been disinfected or sterilised prior to use; or
+- (b) re-use a single-use instrument.
+
+### 26. Containers for storing or moving semen
+
+No person may store or move semen except in a container used exclusively for that purpose that—
+
+- (a) has been disinfected or sterilised prior to use; or
+- (b) is a single-use container that has not been used before.
+
+### 27. Storing and moving semen
+
+No person storing or moving semen may allow it to come into contact with material of animal origin (including other germplasm) of a lower health status.
+
+### 28. Supply of frozen semen
+
+(1) This regulation does not apply to the steps necessary to move semen to a licensed storage centre or a domestic storage centre.
+
+(2) No person may supply frozen semen or use it in artificial insemination unless it has been previously[^key-7ae68bb7ab710612e8b5bbf84b574654] stored—
+
+- (a) at a licensed storage centre;
+- (b) at a domestic storage centre; or
+- (c) in another part of the United Kingdom on premises approved by the competent authority for the storage of bovine semen.
+
+### 29. Power of Secretary of State to grant exemptions
+
+No person may supply or use semen for artificial insemination if he knows or suspects that it has not been collected, processed or stored in accordance with the requirements of—
+
+- (a) these Regulations,
+- (b) lawfully in another part of the United Kingdom; or
+- (c) in the case of semen originating outside of the United Kingdom[^key-c5325d95c58715918d9c55835f475c31], the Directive,
+
+unless authorised by the Secretary of State.
+
+### 30. Trade in semen to a member State[^key-9782563743af3ec187dd2162c244dd25]
+
+(1) No person may supply semen to a member State[^key-10634023ca62dc0ccf850d36d97743a0] unless—
+
+- (a) it was—
+  - (i) collected, processed and quarantined at a licensed collection centre; and
+  - (ii) stored at a licensed storage centre; or
+- (b) in the case of semen supplied from outside the United Kingdom[^key-6b3d486e5e5fdeacdca70cb80bc79cbc], it has been stored at a licensed storage centre.
+
+(2) Any person who supplies semen with a member State must ensure that it is accompanied by the animal health certificate as published by the Secretary of State from time to time[^key-3edd39b8e9647412b9b1e7a13fdb489e].
+
+### 31. Duties to keep records of the supply of semen
+
+(1) This regulation does not apply to the operators of unlicensed premises or to centre veterinarians, who are subject to regulation 14.
+
+(2) Any person who supplies semen must keep a record of the information specified in Schedule 9 paragraph 1.
+
+(3) Any person who receives semen must keep a record of the information specified in Schedule 9 paragraph 2.
+
+(4) Any person who uses semen for artificial insemination must keep a record of the information specified in Schedule 9 paragraph 3 in relation to each straw or other receptacle used.
+
+(5) Any person who destroys semen must keep a record of the information specified in Schedule 9 paragraph 4 in relation to each straw or other receptacle destroyed.
+
+(6) Any person who is required by this regulation to keep records must ensure that the records are made contemporaneously.
+
+(7) Such records may be in written or electronic form and must be kept for at least two years after the supply, receipt, use, or destruction of the semen, as appropriate.
+
+## PART 5 — Administration and enforcement
+
+### 32. Refusal of an approval or licence
+
+If the Secretary of State refuses to grant an approval or licence, or grants one subject to conditions, he must—
+
+- (a) give his reasons in writing; and
+- (b) explain the right of the applicant to make written representations under regulation 36(1) to a person appointed by the Secretary of State.
+
+### 33. Provision of information to the Secretary of State
+
+(1) The Secretary of State may require an applicant for approval of a bovine animal, the holder of such an approval or the owner of a bovine animal to provide such information and to permit the bovine animal to be subjected to such tests and examinations as the Secretary of State considers necessary to enable him to decide whether the approval should be granted or maintained.
+
+(2) The previous owner of an approved bovine animal must notify the Secretary of State of the name and address of the new owner within 21 days of transferring ownership to him.
+
+(3) The owner of an approved bovine animal must, within 21 days of its death, notify the Secretary of State of the death, the circumstances in which it occurred and the results of any post mortem examination.
+
+(4) The Secretary of State may require an applicant for a bovine semen centre licence, or the holder of such a licence, to provide such information and to permit such tests and examinations as the Secretary of State considers necessary to enable him to decide whether the licence should be granted or maintained.
+
+### 34. Suspension and amendment
+
+(1) The Secretary of State may suspend or amend an approval or licence granted under these Regulations in whole or in part if—
+
+- (a) any of the conditions under which it was granted are not fulfilled; or
+- (b) he is satisfied that the provisions of these Regulations are not being complied with.
+
+(2) A suspension or amendment—
+
+- (a) may have immediate effect if the Secretary of State considers it necessary for the protection of public or animal health; and
+- (b) otherwise may not have effect for at least 21 days.
+
+(3) Notification of the suspension or amendment must—
+
+- (a) be in writing;
+- (b) state what it applies to;
+- (c) state when it comes into effect;
+- (d) give the reasons; and
+- (e) explain the right of the person who has been notified to make written representations under regulation 36(1) to a person appointed by the Secretary of State.
+
+(4) If the suspension or amendment does not have immediate effect and representations are made under regulation 36, it must not have effect until the final determination by the Secretary of State of the appeal unless he considers that it is necessary for the protection of public or animal health for the amendment or suspension to have effect before then.
+
+### 35. Revocation of an approval or licence
+
+(1) The Secretary of State may revoke an approval or licence granted under these Regulations in whole or in part if—
+
+- (a) he has notified his decision to suspend the approval or licence and the period for appeal under regulation 36 has expired;
+- (b) he has upheld his decision to suspend following an appeal under regulation 36;
+- (c) he has previously suspended the approval or licence and there is further non-compliance with these Regulations; or
+- (d) he is satisfied that the occupier no longer uses the premises for the purpose for which a licence was granted.
+
+(2) Notification of a revocation must—
+
+- (a) be in writing;
+- (b) state what it applies to;
+- (c) state when it comes into effect;
+- (d) give the reasons; and
+- (e) in the case of a revocation under paragraph (1)(c) or (1)(d), explain the right of the person who has been notified to make written representations under regulation 36(1) to a person appointed by the Secretary of State.
+
+(3) If a person does make written representations under regulation 36(1), the revocation remains in force pending the outcome of the appeal.
+
+### 36. Appeals
+
+(1) A person may make written representations to a person appointed for the purpose by the Secretary of State concerning any decision of the Secretary of State concerning—
+
+- (a) the grant, suspension or revocation of an approval or licence under these Regulations,
+- (b) the conditions to which an approval or licence is subject, or
+- (c) any fees charged under these Regulations,
+
+within 21 days of notification of the decision to him.
+
+(2) The Secretary of State may also make written submissions to the appointed person concerning his decision.
+
+(3) The appointed person must report in writing to the Secretary of State.
+
+(4) The Secretary of State must give to the appellant written notification of his final determination and the reasons for it.
+
+### 37. Notice prohibiting the use of semen
+
+(1) If he thinks it necessary to prevent the spread of disease, an inspector may serve a notice on the owner of a bovine animal or on anyone he believes to be the owner of the bovine animal or in possession of semen from that bovine animal.
+
+(2) A notice served under paragraph (1) must—
+
+- (a) prohibit the use or trade of semen collected from the bovine animal;
+- (b) require the destruction of such semen; and
+- (c) require the identification of any other person who may be in possession of the bovine animal or its semen.
+
+(3) If a notice served under this regulation is not complied with, an inspector may enter any premises on which he knows or suspects semen the subject of the notice to be kept and may seize the semen and arrange for the requirements of the notice to be met.
+
+### 38. Notice concerning illegal consignments
+
+(1) If an inspector knows or suspects that semen has been imported from a[^key-884b78f799cfdd03ec29b905c7ece0da] member State in contravention of the Directive, he may serve a notice in accordance with paragraph (2) on the person appearing to him to be in charge of the semen.
+
+(2) The notice may require that person—
+
+- (a) to detain semen at such place as the notice may specify;
+- (b) to destroy semen in accordance with the requirements of the notice; or
+- (c) to take such other action as the inspector may specify.
+
+(3) If a notice served under this regulation is not complied with, an inspector may enter any premises on which he knows or suspects semen the subject of the notice to be kept and may seize the semen and arrange for the requirements of the notice to be met.
+
+### 39. Provision of false information
+
+No person may provide any information or make any statement for the purpose of obtaining an approval or licence under these Regulations which he does not believe and have reasonable grounds to believe to be true.
+
+### 40. Examination of bovine semen centres
+
+The Secretary of State must examine all bovine semen centres at least twice a year.
+
+### 41. Payment of fees[^key-9cd4e5412131daadc26c2cdbec18d06c]
+
+The fees payable to the Secretary of State are as provided by regulation 6(1) of the Animal Health (Miscellaneous Fees) (England) Regulations 2018[^key-8b9e19ae78469dd1a869610c2db51b44].
+
+### 42. Refund of fees[^key-7dfc61a2f26008470422f48573c945f6]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 43. Transitional provisions
+
+Licences and approvals granted under the Artificial Insemination of Cattle (Animal Health) (England and Wales) Regulations 1985 [^c18607901] shall continue to have effect as if they were approvals or licences granted under these Regulations in accordance with the following table, provided that, in the case of premises, the premises comply with, and are operated in accordance with, the provisions of these Regulations—
+
+| *Licence and approvals under the Artificial Insemination of Cattle (Animal Health) (England and Wales) Regulations 1985* | *Equivalent approval under these Regulations* |
+| --- | --- |
+| Approval for use of a bull (regulation 5) | Approval of a bovine animal (regulation 7) |
+| Processing licence (regulation 7(1)(a)) | Processing of semen intended for intra-Community trade: licence of a licensed collection centre (regulation 4(b)(i));<br>Processing of semen not intended for intra-Community trade: licence of a domestic collection centre (regulation 4(b)(ii)). |
+| Storage licence (regulation 7(1)(b)) | Licence of licensed storage centre (regulation 4(c)(i)) or licence of domestic storage centre (regulation 4(c)(ii)). |
+
+### 44. Amendment of the Artificial Insemination (Cattle and Pigs) (Fees) Regulations 1987
+
+In the Artificial Insemination (Cattle and Pigs) (Fees) Regulations 1987 [^c18607911]—
+
+- (a) in regulation 2(1), omit the definition of “the principal cattle Regulations”;
+- (b) in regulation 3(1), for the words “Subject to paragraph (1A) below, there” substitute “ There ” and omit the words “the principal cattle Regulations and”;
+- (c) omit regulation 3(1)(a);
+- (d) omit regulation 3(1A);
+- (e) in regulation 4, omit the words “the principal cattle Regulations or”; and
+- (f) omit Schedule 1.
+
+### 45. Revocations
+
+(1) The Regulations in Part 1 of Schedule 10 are revoked insofar as they apply in England.
+
+(2) The Regulations in Part 2 of Schedule 10 are revoked.
+
+Ben Bradshaw
+
+Minister of State
+
+Department for Environment, Food and Rural Affairs
+
+We approve
+
+Dave Watts
+
+Kevin Brennan
+
+Two of the Lords Commissioners of Her Majesty's Treasury
+
+## SCHEDULE 1 — Construction and design of centres
+
+Regulation 4
+
+### PART 1 — Licensed quarantine centre
+
+The centre must—
+
+- (a) have bovine animal housing, including isolation facilities that have no direct communication with the normal bovine animal housing;
+- (b) be constructed so that the bovine animal housing can be readily cleaned and disinfected; and
+- (c) be constructed or isolated so that contact with livestock outside is prevented.
+
+### PART 2 — Licensed collection centre or domestic collection centre
+
+The centre must—
+
+- (a) have at least—
+  - (i) bovine animal housing, including isolation facilities that have no direct communication with the normal bovine animal housing;
+  - (ii) semen collection facilities, including a separate room for the cleaning and disinfection or sterilisation of equipment;
+  - (iii) facilities where semen may be processed, which need not be on the same site; and
+  - (iv) a semen quarantine room, which need not be on the same site;
+- (b) be constructed or isolated so that contact with livestock outside the centre is prevented;
+- (c) be constructed so that the bovine animal housing and the semen collection and processing facilities and the semen quarantine room can be readily cleaned and disinfected; and
+- (d) be so designed that the bovine animal housing is separated from the processing facilities and both are separated from the semen quarantine room.
+
+### PART 3 — Licensed storage centre or domestic storage centre
+
+The centre must—
+
+- (a) be constructed or isolated so that contact with livestock outside is prevented; and
+- (b) have a semen storage room that can be readily cleaned and disinfected.
+
+## SCHEDULE 2 — Measures applicable to licensed quarantine centres
+
+Regulation 7
+
+**1.** (1) The centre veterinarian must make a record of any bovine animals to be admitted that—
+
+- (a) did not belong to a herd officially free of enzootic bovine leukosis in accordance with Directive [64/432/EEC](https://www.legislation.gov.uk/european/directive/1964/0432); or
+- (b) was produced by a dam which did not, after removal of the bovine animal from it, test negative to a test carried out in accordance with Annex D (Chapter II) to Directive [64/432/EEC](https://www.legislation.gov.uk/european/directive/1964/0432).
+
+(2) The centre veterinarian must pass a copy of any record made under sub-paragraph (1) to the centre veterinarian of the collection centre to which the bovine animals move, not later than the date of such move.
+
+**2.** (1) The centre veterinarian must ensure that within the 28 days preceding the period of quarantine, the bovine animals are subjected to the following tests, with negative results in each case (except for the BVD/MD antibody test referred to in sub-paragraph (1)(e)(ii))—
+
+- (a) for bovine tuberculosis, an intradermal tuberculin test carried out in accordance with the procedure laid down in Annex B to Directive [64/432/EEC](https://www.legislation.gov.uk/european/directive/1964/0432);
+- (b) for bovine brucellosis, a serological test carried out in accordance with the procedure laid down in Annex C to Directive [64/432/EEC](https://www.legislation.gov.uk/european/directive/1964/0432);
+- (c) for enzootic bovine leukosis, a serological test carried out in accordance with the procedure laid down in Annex D (Chapter II) to Directive [64/432/EEC](https://www.legislation.gov.uk/european/directive/1964/0432);
+- (d) for IBR/IPV, a serological test (whole virus) on a blood sample if the bovine animals do not come from an IBR/IPV free herd as defined in Article 2.3.5.3. of the International Animal Health Code [^c18607921]; and
+- (e) for BVD/MD,
+  - (i) a virus isolation test or a test for virus antigen, and
+  - (ii) a serological test to determine the presence or absence of antibodies.
+
+(2) If any of the tests listed in paragraphs 2(1)(a) to (e)(i) are carried out on samples collected in the quarantine centre, the period of quarantine may not commence before the date of sampling.
+
+(3) If any of the tests listed in paragraphs 2(1)(a) to (e)(i) prove positive, the centre veterinarian must ensure that the relevant bovine animal is immediately removed from the quarantine centre.
+
+(4) In the case of group quarantine, the quarantine period does not commence for the remaining bovine animals until the bovine animal which tested positive has been removed.
+
+**3.** (1) During quarantine, the centre veterinarian must ensure that the bovine animals are tested as follows—
+
+- (a) for bovine brucellosis, a serological test carried out in accordance with the procedure described in Annex C to Directive [64/432/EEC](https://www.legislation.gov.uk/european/directive/1964/0432), at least 21 days after being admitted to quarantine, with negative results;
+- (b) for IBR/IPV, a serological test (whole virus) on a blood sample, at least 21 days after being admitted to quarantine, with negative results;
+- (c) for Campylobacter fetus ssp. venerealis—
+  - (i) in the case of bovine animals less than six months old or kept since that age in a single sex group prior to quarantine, a single test on a sample of artificial vagina washings or preputial specimen, at least seven days after being admitted to quarantine, with negative results;
+  - (ii) in the case of male bovine animals aged six months or older that could have had contact with females prior to quarantine, a test three times at weekly intervals (which may start seven days after admission to the licensed quarantine centre) on samples of artificial vagina washings or preputial specimen, with negative results;
+- (d) for Trichomonas foetus—
+  - (i) in the case of bovine animals less than six months old or kept since that age in a single sex group prior to quarantine, a single test on a sample of preputial specimen, at least seven days after being admitted to quarantine, with negative results;
+  - (ii) in the case of bovine animals aged six months or older that could have had contact with females prior to quarantine, a test three times at weekly intervals (which may start seven days after admission to the licensed quarantine centre) on samples of preputial specimen, with negative results.
+
+(2) If any bovine animal tests positive following a test under sub-paragraph (1), the centre veterinarian must ensure that—
+
+- (a) it is removed immediately from the quarantine centre; and
+- (b) any other bovine animal of the same group is retested for the relevant disease in accordance with sub-paragraph (1), with the period after which it can be retested starting on the date the positive bovine animal is removed.
+
+**4.** (1) During quarantine, the centre veterinarian must ensure that the bovine animals are tested for BVD/MD as follows—
+
+- (a) a virus isolation test or a test for virus antigen at least 21 days after being admitted to quarantine, with negative results; and
+- (b) a serological test to determine the presence or absence of antibodies, at least 21 days after being admitted to quarantine.
+
+(2) The centre veterinarian may allow bovine animals to be moved to a licensed collection centre or a domestic collection centre only if the serological test finds no seroconversion in any bovine animal which gave a negative result to the serological test under paragraph 2(1)(e)(ii) for BVD/MD antibodies.
+
+(3) If seroconversion occurs in any bovine animal in the quarantine centre, the centre veterinarian must ensure that bovine animals that are seronegative—
+
+- (a) remain in quarantine; and
+- (b) are not sent to a semen collection centre until at least three weeks have elapsed during which there has been no further seroconversion.
+
+(4) The centre veterinarian may allow serologically positive bovine animals to be sent to a semen collection centre after—
+
+- (a) completion of 28 days' quarantine; and
+- (b) they have been tested in accordance with sub-paragraph (1).
+
+**5.** The centre veterinarian must make a record of those bovine animals that test positive for antibodies for BVD/MD under the serological tests at paragraph 2(1)(e)(ii) or 4(1)(b) and pass a copy of the record to the centre veterinarian of the collection centre to which the bovine animals move, not later than the date of such move.
+
+## SCHEDULE 3 — Measures applicable to licensed collection centres
+
+Regulation 16
+
+### PART 1 — Records of enzootic bovine leukosis and marking of semen doses
+
+**1.** (1) The centre veterinarian must make a record of a bovine animal admitted that—
+
+- (a) did not belong to a herd officially free of enzootic bovine leukosis in accordance with Directive [64/432/EEC](https://www.legislation.gov.uk/european/directive/1964/0432); or
+- (b) was produced by a dam which did not, after removal of the bovine animal from it, test negative to a test carried out in accordance with Annex D (Chapter II) to Directive [64/432/EEC](https://www.legislation.gov.uk/european/directive/1964/0432).
+
+(2) The centre veterinarian must pass a copy of any record made under sub-paragraph (1) to the centre veterinarian of any collection centre to which the bovine animals or their semen may move, not later than the date of such move.
+
+**2.** The centre veterinarian must ensure that each individual collection[^M_F_5a86b773-c226-45c7-a908-bdcd705036fd] of semen collected at the centre is clearly marked in such a way that the following information can be readily established—
+
+- (a) the date the semen was collected;
+- (b) the identity of the donor bovine animal under the cattle identification regulations;
+- (c) the breed of the donor bovine animal; and
+- (d) the licence number of the centre.
+
+### PART 2 — Routine tests and treatment which must be applied to all bovine animals in licensed collection centres
+
+**1.** (1) The centre veterinarian must ensure that all bovine animals at the centre are subjected at least once a year to the following tests—
+
+- (a) for bovine tuberculosis, an intradermal tuberculin test, carried out in accordance with the procedure laid down in Annex B to Directive [64/432/EEC](https://www.legislation.gov.uk/european/directive/1964/0432);
+- (b) for bovine brucellosis, a serological test carried out in accordance with the procedure described in Annex C to Directive [64/432/EEC](https://www.legislation.gov.uk/european/directive/1964/0432);
+- (c) for enzootic bovine leukosis, a serological test carried out in accordance with the procedure described in Annex D (Chapter II) to Directive [64/432/EEC](https://www.legislation.gov.uk/european/directive/1964/0432);
+- (d) for IBR/IPV, a serological test (whole virus) on a blood sample; and
+- (e) for BVD/MD, a serological antibody test applied only to seronegative bovine animals;
+
+(2) The centre veterinarian must ensure that bovine animals from which semen is being collected, or bovine animals having contact with such bovine animals, are subjected at least once a year to tests on samples of preputial specimen for—
+
+- (a) Campylobacter fetus ssp. venerealis; and
+- (b) Trichomonas foetus.
+
+(3) The centre veterinarian must ensure that bovine animals from which semen is to be collected after an interval of more than six months are tested not more than 30 days prior to collection resuming on samples of preputial specimen for—
+
+- (a) Campylobacter fetus ssp. venerealis; and
+- (b) Trichomonas foetus.
+
+(4) Should a bovine animal become serologically positive for BVD/MD, the centre veterinarian must ensure that every ejaculate of that bovine animal collected since the last negative test and until the date of the positive test is either discarded or used only if tested for the virus with negative results.
+
+**2.** (1) If any of the tests required under paragraph 1 is positive, the centre veterinarian must ensure that the bovine animal is isolated and that semen collected from it since the last negative test is (subject to paragraph 3) not placed on the market[^key-5daaa5d5d20cfc440d0c98091ff397d4].
+
+(2) The centre veterinarian must ensure that semen collected from all other bovine animals at the centre since the date when the positive test was carried out must be held in separate storage and may not be placed on the market[^key-be2ef1e28287889746f64083e63bf577] until the health status of the centre has been restored to the level required by the Directive and these Regulations.
+
+**3.** Notwithstanding paragraph 2(1), in the case of a bovine animal which has tested positive for BVD/MD under a serological antibody test, the centre veterinarian may allow semen from an ejaculate which has tested negative for the BVD/MD to be the subject of trade with a member State[^key-71f4b25c97949663005a85d5f7565574].
+
+### PART 3 — Measures applicable to processing facilities at a licensed collection centre
+
+**1.** The centre veterinarian must ensure that—
+
+- (a) semen processed at the centre is either—
+  - (i) semen collected at a licensed collection centre;
+  - (ii) semen collected at a collection centre approved under the Directive in another part of the United Kingdom; or
+  - (iii) semen which is from bovine animals which have been subjected to the tests specified in Schedule 2, paragraph 2(1);
+- (b) any semen referred to at sub-paragraph (a)(iii) is—
+  - (i) processed using separate equipment (which must be cleaned and sterilised after use) or at a different time from the processing of semen intended for other[^key-feac24a6cef803a3838828f869e878ec] trade; and
+  - (ii) identified by a marking different from that required under sub-paragraph (f);
+- (c) semen collected, processed and quarantined at licensed collection centres and intended for other[^key-19afcab9c4b9c6041013aa514cd9aeec] trade does not come into contact with and is not stored in the same room as any other semen processed at the centre;
+- (d) products of animal origin used in the processing of semen, including additives and diluents, are obtained from sources which present no animal health risk or are so treated prior to use that such risk is removed;
+- (e) the cryogenic agent used has not been previously used for other products of animal origin;
+- (f) each individual dose of semen is sealed, numbered and clearly marked so that the following information can be readily established—
+  - (i) the date the semen was collected;
+  - (ii) the identity of the donor bovine animal under the cattle identification regulations;
+  - (iii) the breed of the donor bovine animal; and
+  - (iv) the licence number of the centre where the semen was collected (if applicable); and
+- (g) the format used for identifying semen is notified to the Secretary of State.
+
+**2.** The centre veterinarian may not admit semen not collected at the centre for processing unless it is accompanied by—
+
+- (a) the documents specified in regulation 14(4); and
+- (b) if the semen comes from unlicensed premises, the documents specified in Schedule 7, paragraph 1(c).
+
+**3.** (1) Subject to sub-paragraph (2), the centre veterinarian must ensure that the antibiotics streptomycin, penicillin, lincomycin and spectinomycin are added to produce the following concentrations in the final diluted semen—
+
+- (a) not less than 500 μg streptomycin per ml final dilution,
+- (b) not less than 500 International Units penicillin per ml final dilution,
+- (c) not less than 150 μg lincomycin per ml final dilution, and
+- (d) not less than 300 μg spectinomycin per ml final dilution.
+
+(2) An alternative combination of antibiotics which has an equivalent effect against campylobacters, leptospires and mycoplasmas may be used.
+
+**4.** The centre veterinarian must ensure that, immediately after the addition of antibiotics, the semen is kept at a temperature of at least 5ºC for a period of not less than 45 minutes.
+
+### PART 4 — Measures applicable to semen quarantine at a licensed collection centre
+
+**1.** (1) Prior to the initial dispatch of semen from bovine animals identified as serologically positive for BVD/MD, the centre veterinarian must ensure that a semen sample from each bovine animal is subjected to a virus isolation or virus antigen ELISA test for the BVD/MD virus.
+
+(2) In the event of a positive result, the centre veterinarian must ensure that the bovine animal is removed from the collection centre and its semen destroyed.
+
+**2.** The centre veterinarian must ensure that frozen semen is kept in the semen quarantine facilities for at least 30 days before it leaves the centre.
+
+**3.** The centre veterinarian must not allow any semen to leave the centre unless the premises where it was collected remain clear of—
+
+- (a) foot and mouth disease; and
+- (b) the bovine diseases listed in Annex E(I) to Directive [64/432/EEC](https://www.legislation.gov.uk/european/directive/1964/0432)
+
+for 30 days after collection or, in the case of fresh semen, until the date of dispatch of the semen.
+
+**4.** With regard to a bovine animal that—
+
+- (a) did not belong to a herd officially free of enzootic bovine leukosis in accordance with Directive [64/432/EEC](https://www.legislation.gov.uk/european/directive/1964/0432); or
+- (b) was produced by a dam which did not, after removal of the bovine animal from it, test negative to a test carried out in accordance with Annex D (Chapter II) to Directive [64/432/EEC](https://www.legislation.gov.uk/european/directive/1964/0432),
+
+the centre veterinarian must not allow its semen to leave the centre until the bovine animal has reached the age of two years and has tested negative for enzootic bovine leukosis, under a serological test carried out in accordance with the procedure described in Annex D (Chapter II) to Directive [64/432/EEC](https://www.legislation.gov.uk/european/directive/1964/0432).
+
+**5.** With regard to a bovine animal vaccinated against foot-and-mouth more than 30 days before, but within 12 months of, a collection, the centre veterinarian must not allow its semen to leave the centre unless 5% (with a minimum of five straws) of each collection have tested negative to a virus isolation test for foot-and-mouth disease.
+
+## SCHEDULE 4 — Measures applicable to licensed storage centres
+
+Regulation 16
+
+**1.** Subject to paragraph 2, the centre veterinarian must ensure that—
+
+- (a) only semen is stored at the centre;
+- (b) semen is only stored at the centre if it has not come into contact with any other semen and—
+  - (i) it has been collected and processed at licensed collection centres, or at centres otherwise approved for semen collection under the Directive; or
+  - (ii) it, following collection and processing at licensed collection centres or at centres otherwise approved for semen collection under the Directive, has been stored at licensed storage centres or at centres otherwise approved for semen storage under the Directive;
+- (c) the cryogenic agent used has not been previously used for other products of animal origin; and
+- (d) each individual dose of semen is sealed, numbered and clearly marked in such a way that the following information can be readily established—
+  - (i) the date the semen was collected;
+  - (ii) the identity of the donor bovine animal under the cattle identification regulations;
+  - (iii) the breed of the donor bovine animal; and
+  - (iv) the licence number of the centre where the semen was collected (if applicable).
+
+**2.** Notwithstanding paragraph 1(a), the centre veterinarian may store deep-frozen embryos at the centre if—
+
+- (a) such storage is authorised by the Secretary of State;
+- (b) the embryos meet the requirements of Council Directive [89/556/EEC](https://www.legislation.gov.uk/european/directive/1989/0556) on animal health conditions governing intra-Community trade in and importation from third countries of embryos of domestic animals of the bovine species [^c18607931];
+- (c) the centre complies with regulations 13, 14 and 15 of the Bovine Embryo (Collection, Production and Transfer) Regulations 1995 [^c18607941]; and
+- (d) the embryos are stored in separate storage containers from those containing semen.
+
+## SCHEDULE 5 — Measures applicable to a domestic collection centre
+
+Regulation 16
+
+### PART 1 — Records of enzootic bovine leukosis and marking of semen doses
+
+**1.** (1) The centre veterinarian must make a record of a bovine animal admitted that—
+
+- (a) did not belong to a herd officially free of enzootic bovine leukosis in accordance with Directive [64/432/EEC](https://www.legislation.gov.uk/european/directive/1964/0432); or
+- (b) was produced by a dam which did not, after removal of the bovine animal from it, test negative to a test carried out in accordance with Annex D (Chapter II) to Directive [64/432/EEC](https://www.legislation.gov.uk/european/directive/1964/0432).
+
+(2) The centre veterinarian must pass a copy of any record made under sub-paragraph (1) to the centre veterinarian of any collection centre to which the bovine animals or their semen may move, not later than the date of such move.
+
+**2.** The centre veterinarian must ensure that each individual collection[^M_F_b14e710c-cb37-47b2-b161-279ee2619f70] of semen collected at the centre is clearly marked in such a way that the following information can be readily established—
+
+- (a) the date the semen was collected;
+- (b) the identity of the donor bovine animal under the cattle identification regulations;
+- (c) the breed of the donor bovine animal; and
+- (d) the licence number of the centre.
+
+### PART 2 — Routine tests and treatment which must be applied to all bovine animals in domestic collection centres
+
+**1.** The centre veterinarian must ensure that all bovine animals kept at a domestic collection centre must be subjected at least once a year to the following tests—
+
+- (a) for bovine tuberculosis, an intradermal tuberculin test, carried out in accordance with the procedure laid down in Annex B to Directive [64/432/EEC](https://www.legislation.gov.uk/european/directive/1964/0432);
+- (b) for bovine brucellosis, a serological test carried out in accordance with the procedure described in Annex C to Directive [64/432/EEC](https://www.legislation.gov.uk/european/directive/1964/0432); and
+- (c) for enzootic bovine leukosis, a serological test carried out in accordance with the procedure described in Annex D (Chapter II) to Directive [64/432/EEC](https://www.legislation.gov.uk/european/directive/1964/0432).
+
+**2.** (1) If any of the above tests is positive, the centre veterinarian must ensure that the bovine animal is isolated and the semen collected from it since the last negative test is destroyed.
+
+(2) The centre veterinarian must ensure that—
+
+- (a) semen collected from all other bovine animals at the centre since the date when the positive test was carried out is held in separate storage; and
+- (b) such semen is not used or supplied until the health status of the centre has been restored to the level required by the Directive and these Regulations.
+
+### PART 3 — Measures applicable to processing at a domestic collection centre
+
+**1.** The centre veterinarian must ensure that—
+
+- (a) semen processed at the centre is semen collected—
+  - (i) at a licensed collection centre;
+  - (ii) at a collection centre approved under the Directive in another part of the United Kingdom or in a[^key-2761ae503533c57d060768e9a1c007e0] member State;
+  - (iii) at a domestic collection centre;
+  - (iv) at unlicensed premises in accordance with these Regulations; or
+  - (v) lawfully in another part of the United Kingdom.
+- (b) semen is not stored with semen of a different health status and semen must be identifiable by a distinct marking that is different to marking used at licensed collection and storage centres[^key-00dd0c58c147d2a212d910dfc2d837fb].
+- (c) products of animal origin used in the processing of semen, including additives or diluents, are obtained from sources which present no animal health risk or are so treated prior to use that such risk is removed;
+- (d) the cryogenic agent used has not been previously used for other products of animal origin;
+- (e) each individual dose of semen is sealed, numbered and clearly marked so that the following information can be readily established—
+  - (i) the date the semen was collected;
+  - (ii) the identity of the donor bovine animal under the cattle identification regulations;
+  - (iii) the breed of the donor bovine animal; and
+  - (iv) the licence number of the centre where the semen was collected (if applicable).
+
+**2.** The centre veterinarian may not admit semen not collected at the centre for processing unless it is accompanied by—
+
+- (a) the documents specified in regulation 14(4); and
+- (b) if the semen comes from unlicensed premises, the documents specified in Schedule 7, paragraph 1(c).
+
+**3.** (1) Subject to sub-paragraph (2), the centre veterinarian must ensure that the antibiotics streptomycin, penicillin, lincomycin and spectinomycin are added to produce the following concentrations in the final diluted semen—
+
+- (a) not less than 500 μg streptomycin per ml final dilution,
+- (b) not less than 500 International Units penicillin per ml final dilution,
+- (c) not less than 150 μg lincomycin per ml final dilution, and
+- (d) not less than 300 μg spectinomycin per ml final dilution.
+
+(2) An alternative combination of antibiotics with an equivalent effect against campylobacters, leptospires and mycoplasms may be used.
+
+**4.** The centre veterinarian must ensure that, immediately after the addition of antibiotics, the semen is kept at a temperature of at least 5ºC for a period of not less than 45 minutes.
+
+### PART 4 — Measures applicable to semen quarantine at a domestic collection centre
+
+**1.** The centre veterinarian must ensure that frozen semen is kept in the semen quarantine unit for at least 30 days before it leaves the centre.
+
+**2.** The centre veterinarian must not allow any semen to leave the domestic collection centre unless the premises where it was collected remain clear of—
+
+- (a) foot and mouth disease; and
+- (b) the bovine diseases listed in Annex E(I) to Directive [64/432/EEC](https://www.legislation.gov.uk/european/directive/1964/0432)
+
+for 30 days after collection or, in the case of fresh semen, until the date of dispatch of the semen.
+
+**3.** With regard to a bovine animal that—
+
+- (a) did not belong to a herd officially free of enzootic bovine leukosis in accordance with Directive [64/432/EEC](https://www.legislation.gov.uk/european/directive/1964/0432); or
+- (b) was produced by a dam which did not, after removal of the bovine animal from it, test negative to a test carried out in accordance with Annex D (Chapter II) to Directive [64/432/EEC](https://www.legislation.gov.uk/european/directive/1964/0432),
+
+the centre veterinarian must not allow its semen to leave the centre until the bovine animal has reached the age of two years and has tested negative for enzootic bovine leukosis, under a serological test carried out in accordance with the procedure described in Annex D (Chapter II) to Directive [64/432/EEC](https://www.legislation.gov.uk/european/directive/1964/0432).
+
+**4.** With regard to a bovine animal vaccinated against foot-and-mouth more than 30 days before, but within 12 months of, a collection, the centre veterinarian must not allow its semen to leave the centre unless 5% (with a minimum of five straws) of each collection have tested negative to a virus isolation test for foot-and-mouth disease.
+
+## SCHEDULE 6 — Measures applicable to a domestic storage centre
+
+Regulation 16
+
+**1.** Subject to paragraph 2, the centre veterinarian must ensure that—
+
+- (a) only semen is stored at the centre;
+- (b) semen is only stored at the centre if it was collected and processed—
+  - (i) in accordance with these Regulations;
+  - (ii) lawfully in another part of the United Kingdom; or
+  - (iii) in accordance with the Directive;
+- (c) the cryogenic agent used has not been previously used for other products of animal origin;
+- (d) each individual dose of semen is sealed, numbered and clearly marked so that the following information can be readily established—
+  - (i) the date the semen was collected;
+  - (ii) the identity of the donor bovine animal under the cattle identification regulations;
+  - (iii) the breed of the donor bovine animal; and
+  - (iv) the licence number of the centre where the semen was collected (if applicable).
+
+**2.** Notwithstanding paragraph 1(a), the centre veterinarian may store deep-frozen embryos at the centre provided that—
+
+- (a) such storage is authorised by the Secretary of State;
+- (b) the centre meets the requirements of regulations 16, 17 and 18 of the of the Bovine Embryo (Collection, Production and Transfer) Regulations 1995; and
+- (c) the embryos are stored in separate storage containers to those containing semen.
+
+## SCHEDULE 7 — Duties of operators of unlicensed premises
+
+Regulation 16
+
+**1.** The operator of unlicensed premises must ensure that—
+
+- (a) the accommodation in which the bovine animals from which semen is to be collected are kept, and the collection facilities (if different), are constructed so that they can be readily cleaned and disinfected;
+- (b) the Secretary of State is notified immediately if the result of any test carried out on a bovine animal on the premises, for any disease that must be tested for under these Regulations, indicates a change in the health status of the bovine animal;
+- (c) semen collected is moved to a licensed collection centre , to a domestic collection centre or to unlicensed processing premises for processing[^key-d2d6a42e9d46d69acb9adb916b967705], accompanied by documents certifying—
+  - (i) the bovine animal satisfies the requirements of regulations 19(c), 19(d) and 19(e) on the day of collection.
+  - (ii)[^key-67b39a3faff6416bc7262b9d6b4aa75a] where the semen is moved to a licensed collection centre, the bovine animal has been subjected to the tests specified in paragraph 1(1) of Part 2 of Schedule 3 with negative results;
+  - (iia) where the semen is moved to a domestic collection centre or to unlicensed processing premises, the bovine animal has been subjected to the tests specified in paragraph 2 of Part 2 of Schedule 8 with negative results;
+  - (iii) that the unlicensed premises satisfy the requirements in regulation 20(2); and
+  - (iv) the premises from which the bovine animal came satisfy the requirements in regulation 22(6).
+
+**2.** (1) The operator of unlicensed premises must make a record of a bovine animal to be admitted that—
+
+- (a) did not belong to a herd officially free of enzootic bovine leukosis in accordance with Directive [64/432/EEC](https://www.legislation.gov.uk/european/directive/1964/0432); or
+- (b) was produced by a dam which did not, after removal of the bovine animal from it, test negative to a test carried out in accordance with Annex D (Chapter II) to Directive [64/432/EEC](https://www.legislation.gov.uk/european/directive/1964/0432).
+
+(2) The operator of unlicensed premises must pass a copy of any record made under sub-paragraph (1) to the centre veterinarian supervising the centre or premises[^key-92a8b0205fcae97a7658bc4456fad2ca] to which the bovine animal's semen moves for processing, not later than the date of such move.
+
+## SCHEDULE 8 — Movement of bovine animals for semen collection
+
+Regulation 7
+
+### PART 1 — Bovine animals that may move to a licensed collection centre, domestic collection centre or to unlicensed premises
+
+The bovine animals have—
+
+- (a) completed 28 days' quarantine in—
+  - (i) a licensed quarantine centre; or
+  - (ii) a quarantine centre approved in accordance with paragraph 1(a) of Chapter 1 of Annex B to the Directive by the competent authority of a[^key-119eb30b23479697c0dc0c44a17d86e0] member State or part of the United Kingdom,
+
+  where only other cloven-hoofed animals having at least the same health status were present; or
+- (b) undergone the tests referred to in Part 2 of Schedule 3 during the previous 12 months and have been kept in—
+  - (i) another licensed collection centre, or
+  - (ii) a semen collection centre authorised under the Directive in accordance with paragraph 5 of Chapter 1 of Annex B to the Directive, in the case of movement of a bovine animal kept in a semen collection centre authorised under the Directive in a[^key-3c536013fc6bdda62e443dded476a8e0] member State or part of the United Kingdom.
+
+### PART 2 — Bovine animals that may move to a domestic collection centre or to unlicensed premises
+
+**1.** The bovine animals belonged to a herd —
+
+- (a) officially tuberculosis free in accordance with Directive [64/432/EEC](https://www.legislation.gov.uk/european/directive/1964/0432) and the herd must not contain any bovine animals that have suffered a positive reaction, or given an inconclusive result, to a tuberculin skin test carried out in accordance with Directive [64/432/EEC](https://www.legislation.gov.uk/european/directive/1964/0432); and
+- (b) officially brucellosis free in accordance with Directive [64/432/EEC](https://www.legislation.gov.uk/european/directive/1964/0432).
+
+**2.** The bovine animals have been subjected to the following tests within the 28 days preceding the date of admission to a domestic collection centre or to unlicensed premises, with negative results—
+
+- (a) for bovine tuberculosis, an intradermal tuberculin test carried out in accordance with the procedure laid down in Annex B to Directive [64/432/EEC](https://www.legislation.gov.uk/european/directive/1964/0432);
+- (b) for bovine brucellosis, a serological test carried out in accordance with the procedure described in Annex C to Directive [64/432/EEC](https://www.legislation.gov.uk/european/directive/1964/0432); and
+- (c) for enzootic bovine leukosis, a serological test carried out in accordance with the procedure laid down in Annex D (Chapter II) to Directive [64/432/EEC](https://www.legislation.gov.uk/european/directive/1964/0432).
+
+**3.** As an alternative to paragraphs 1 and 2, the bovine animals have been kept at a domestic collection centre and have undergone the tests referred to in paragraph 2 during the previous 12 months with negative results.
+
+## SCHEDULE 9 — Information to be recorded
+
+Regulation 31
+
+**1.** The information referred to in regulation 31(2) is—
+
+- (a) the name and address of the person to whom the semen is supplied;
+- (b) the date the semen was dispatched and the means of dispatch;
+- (c) the name of the donor bovine animal and its identity under the cattle identification regulations;
+- (d) the number of straws or other receptacles supplied and their identification code.
+
+**2.** The information referred to in regulation 31(3) is—
+
+- (a) the name and address of the person who supplied the semen;
+- (b) the date the semen was received;
+- (c) the name of the donor bovine animal and its identity under the cattle identification regulations;
+- (d) the number of straws or other receptacles supplied and the identification code allocated to each batch of straws;
+- (e) the number of any straws or other receptacles damaged or destroyed and their identification code.
+
+**3.** The information referred to in regulation 31(4) is—
+
+- (a) the name of the donor bovine animal and its identity under the cattle identification regulations;
+- (b) the number of the straw or other receptacle used;
+- (c) the identification code of the straw or other receptacle;
+- (d) the ear tag number of the bovine animal inseminated;
+- (e) the date of insemination.
+
+**4.** The information referred to in regulation 31(5) is—
+
+- (a) the identity of the donor bovine animal and its identity under the cattle identification regulations;
+- (b) the number of the straw or other receptacle destroyed;
+- (c) the identification code of the straw or other receptacle;
+- (d) the date of destruction.
+
+## SCHEDULE 10 — Revocations
+
+Regulation 45
+
+### PART 1 — Statutory instruments revoked insofar as they apply in England
+
+| *Instrument* | *Reference* |
+| --- | --- |
+| The Importation of Bovine Semen Regulations 1984 | S.I. 1984/1325 |
+| The Artificial Insemination of Cattle (Animal Health) (England and Wales) Regulations 1985 | S.I. 1985/1861 |
+| The Artificial Insemination of Cattle (Advertising Controls etc.) (Great Britain) Regulations 1987 | S. I. 1987/904 |
+| The Artificial Insemination of Cattle (Animal Health) (England and Wales) (Amendment) Regulations 1992 | S.I. 1992/671 |
+| The Importation of Bovine Semen (Amendment) Regulations 1993 | S.I. 1993/1966 |
+| The Artificial Insemination of Cattle (Animal Health) (England and Wales) (Amendment) Regulations 1995 | S.I. 1995/2549 |
+
+### PART 2 — Statutory instruments revoked
+
+| *Instrument* | *Reference* |
+| --- | --- |
+| The Artificial Insemination of Cattle (Animal Health) (Amendment) (England) Regulations 2001 | S.I. 2001/380 |
+| The Artificial Insemination of Cattle (Emergency Licences) (England) Regulations 2001 | S.I. 2001/1513 |
+| The Artificial Insemination of Cattle (Animal Health) (Amendment) (England) Regulations 2002 | S.I. 2002/824 |
+| The Artificial Insemination of Cattle (Animal Health) (England and Wales) (Amendment) (England) Regulations 2004 | S.I. 2004/3231 |
+
+*(This note is not part of the Regulations)*
+
+These Regulations revoke and replace the Artificial Insemination of Cattle (Animal Health) (England and Wales) Regulations 1985 (S.I. 1985/1861) in so far as they apply in England. They also implement Council Directive [2003/43/EC](https://www.legislation.gov.uk/european/directive/2003/0043) (OJ No. L. 143, 11/6/2003, p. 23) amending Directive [88/407/EEC](https://www.legislation.gov.uk/european/directive/1988/0407) laying down the animal requirements applicable to intra-Community trade in and imports of semen of domestic animals of the bovine species (OJ No. L. 194, 22.7.1988, p.10).
+
+These Regulations control the collection, processing and storage of bovine semen. They establish two regimes: one by which semen may be collected and processed for trade with other EU member States, and one by which semen may be collected for use in the UK.
+
+Part 1 contains general provisions, including definitions and exceptions. Part 2 and Schedules 1, 2 and 8 provide for the licensing of premises as bovine semen centres (defined in regulation 2) for the quarantining of bovine animals, and the collection and storage of semen, the application and grant of bovine semen centre licences, and the approval of bovine animals from which semen may be collected at EC and domestic semen centres, and at unlicensed premises (defined in regulation 2), and for the approval of teaser animals (also defined in regulation 2).
+
+Part 3 and Schedules 3 to 7 contain provisions relating to the collection of semen. Part 4 and Schedules 8 and 9 set out conditions for the collection, processing and storage of semen. Part 5 of the Regulations deals with their administration and enforcement.
+
+Regulation 41 sets out the fees payable under these Regulations, which are for costs reasonably incurred. Current costs are set out at http://www.svs.gov.uk. Copies of the Regulations may be obtained from http://www.opsi.gov.uk/legislation/about\_legislation.htm.
+
+[^c18607951][^c18607961]Provisions relating to EC trade in bovine semen are also contained in the Products of Animal Origin (Third Country Imports) (England) (No. 4) Regulations 2004 and the Animals and Animal Products (Import and Export) (England) Regulations 2006 .
+
+Failure to comply with these Regulations is an offence under section 10(6) of the Animal Health and Welfare Act 1984 (c. 40). Section 10(4) of that Act provides powers for inspectors appointed by the Secretary of State to enforce the Regulations.
+
+A Regulatory Impact Assessment and a transposition note setting out how the provisions of Council Directive [2003/43/EC](https://www.legislation.gov.uk/european/directive/2003/0043) are implemented in these Regulations have been placed in the libraries of both Houses of Parliament. They are available from Defra, International Animal Health Division, 1a Page Street, London, SW1P 4PQ.
+
+## Annotations
+
+[^c18607761]: Marginal citation: [1984 c. 40](https://www.legislation.gov.uk/ukpga/1984/40); section 10 was amended by the [Statute Law (Repeals) Act 1993 (c.50) and the Criminal Justice Act 2003 (c.44)](https://www.legislation.gov.uk/ukpga/2003/44).
+
+[^c18607771]: Marginal citation: Functions conferred under the Animal Health and Welfare Act 1984 on “the Minister” and “the Ministers” are exercisable by the Secretary of State. They were transferred to him by section 2(2) of the Ministry of Agriculture, Fisheries and Food (Dissolution) Order 2002, [S.I. 2002/794](https://www.legislation.gov.uk/uksi/2002/794).
+
+[^c18607781]: Marginal citation: [1972 c.68](https://www.legislation.gov.uk/ukpga/1972/68). Paragraph 1A of Schedule 2 was inserted by section 28 of the [Legislative and Regulatory Reform Act 2006 (c. 51)](https://www.legislation.gov.uk/ukpga/2006/51).
+
+[^key-950778d22266b924d4ca84ccc0e919fe]: Textual amendment: Words in reg. 2 substituted (1.6.2018) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments) (England) Regulations 2018 (S.I. 2018/575)](https://www.legislation.gov.uk/uksi/2018/575), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/575/regulation/1/2), [39](https://www.legislation.gov.uk/uksi/2018/575/regulation/39)
+
+[^c18607811]: Marginal citation: OJ No. L 204, 11.8.2000, p. 1.
+
+[^c18607821]: Marginal citation: OJ No L 117, 7.5.1997, p. 1.
+
+[^c18607831]: Marginal citation: OJ No. L 194, 22.7.1988, p. 10. As of the date of these Regulations, this Directive was last amended by Commission Decision 2006/16/EC (OJ No. L 11, 17.1.2006, p. 21).
+
+[^c18607841]: Marginal citation: OJ No. P 121, 29.7.1964, p. 1977. As of the date of these Regulations, this Directive was last amended by Commission Regulation (EC) No 599/2004 (OJ No. L 94, 31.3.2004, p. 44.)
+
+[^key-0cc4da14308fd673ccafd5018069dce1]: Textual amendment: Word in [Regulations](https://www.legislation.gov.uk/uksi/2007/1319) substituted (31.12.2020) by [The Trade in Animals and Related Products (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/782)](https://www.legislation.gov.uk/uksi/2019/782), [reg. 7(2)(b)](https://www.legislation.gov.uk/uksi/2019/782/regulation/7/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-d075bc41dc4c454c8594b9a317535e6d]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2007/1319/regulation/2/1) inserted (31.12.2020) by [The Trade in Animals and Related Products (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/782)](https://www.legislation.gov.uk/uksi/2019/782), [regs. 1](https://www.legislation.gov.uk/uksi/2019/782/regulation/1), [7(3)(a)](https://www.legislation.gov.uk/uksi/2019/782/regulation/7/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-2fdd1d568423988fad0f30d26af81030]: Textual amendment: Words in reg. 2(1) inserted (6.4.2011) by [The Bovine Semen (England) (Amendment) Regulations 2011 (S.I. 2011/454)](https://www.legislation.gov.uk/uksi/2011/454), [regs. 1(c)](https://www.legislation.gov.uk/uksi/2011/454/regulation/1/c), [3](https://www.legislation.gov.uk/uksi/2011/454/regulation/3)
+
+[^key-fa35d49186f8d8c6dfe4ac213fe11904]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2007/1319/regulation/2/1) substituted (31.12.2020) by [The Trade in Animals and Related Products (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/782)](https://www.legislation.gov.uk/uksi/2019/782), [regs. 1](https://www.legislation.gov.uk/uksi/2019/782/regulation/1), [7(3)(b)](https://www.legislation.gov.uk/uksi/2019/782/regulation/7/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-9e03b2fb4051f062759be8c4f00988cd]: Textual amendment: Words in Regulations substituted (31.12.2020) by [The Trade in Animals and Related Products (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/782)](https://www.legislation.gov.uk/uksi/2019/782), [reg. 7(2)(a)](https://www.legislation.gov.uk/uksi/2019/782/regulation/7/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c18607851]: Marginal citation: [1966 c.36](https://www.legislation.gov.uk/ukpga/1966/36).
+
+[^c18607861]: Marginal citation: [1981 c.22](https://www.legislation.gov.uk/ukpga/1981/22). Section 17(4) was repealed by the Animal Health and Welfare Act 1984, section 16(2) and Schedule 2.
+
+[^key-3da29fa4299783e2b9fb0ba9090de08e]: Textual amendment: Words in [reg. 3(2)](https://www.legislation.gov.uk/uksi/2007/1319/regulation/3/2) substituted (31.12.2020) by [The Trade in Animals and Related Products (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/782)](https://www.legislation.gov.uk/uksi/2019/782), [regs. 1](https://www.legislation.gov.uk/uksi/2019/782/regulation/1), [7(4)(a)](https://www.legislation.gov.uk/uksi/2019/782/regulation/7/4/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c18607871]: Marginal citation: [1986 c. 14](https://www.legislation.gov.uk/ukpga/1986/14).
+
+[^key-cfba67329050284f6db85f581ca21a06]: Textual amendment: [Reg. 3(4)](https://www.legislation.gov.uk/uksi/2007/1319/regulation/3/4) omitted (31.12.2020) by virtue of [The Trade in Animals and Related Products (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/782)](https://www.legislation.gov.uk/uksi/2019/782), [regs. 1](https://www.legislation.gov.uk/uksi/2019/782/regulation/1), [7(4)(b)](https://www.legislation.gov.uk/uksi/2019/782/regulation/7/4/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-920dde9e6a47ac5524bca4af5cb89354]: Textual amendment: Words in [reg. 4(b)(i)](https://www.legislation.gov.uk/uksi/2007/1319/regulation/4/b/i) substituted (31.12.2020) by [The Trade in Animals and Related Products (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/782)](https://www.legislation.gov.uk/uksi/2019/782), [regs. 1](https://www.legislation.gov.uk/uksi/2019/782/regulation/1), [7(5)(a)](https://www.legislation.gov.uk/uksi/2019/782/regulation/7/5/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-feb519a0fe7a3c6905f0daf6c7479021]: Textual amendment: Words in [reg. 4(b)(ii)](https://www.legislation.gov.uk/uksi/2007/1319/regulation/4/b/ii) substituted (31.12.2020) by [The Trade in Animals and Related Products (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/782)](https://www.legislation.gov.uk/uksi/2019/782), [regs. 1](https://www.legislation.gov.uk/uksi/2019/782/regulation/1), [7(5)(a)](https://www.legislation.gov.uk/uksi/2019/782/regulation/7/5/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-e30bb94967317cc68c2794a7e0e5d941]: Textual amendment: Words in [reg. 4(c)(i)](https://www.legislation.gov.uk/uksi/2007/1319/regulation/4/c/i) substituted (31.12.2020) by [The Trade in Animals and Related Products (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/782)](https://www.legislation.gov.uk/uksi/2019/782), [regs. 1](https://www.legislation.gov.uk/uksi/2019/782/regulation/1), [7(5)(b)](https://www.legislation.gov.uk/uksi/2019/782/regulation/7/5/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-1c873ec8a5d840eb1728a6ff70b55a36]: Textual amendment: Words in [reg. 4(c)(ii)](https://www.legislation.gov.uk/uksi/2007/1319/regulation/4/c/ii) substituted (31.12.2020) by [The Trade in Animals and Related Products (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/782)](https://www.legislation.gov.uk/uksi/2019/782), [regs. 1](https://www.legislation.gov.uk/uksi/2019/782/regulation/1), [7(5)(b)](https://www.legislation.gov.uk/uksi/2019/782/regulation/7/5/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-f97d0a1d199840f3d064a1f017915c0c]: Textual amendment: Words in reg. 10(1) omitted (6.4.2011) by virtue of [The Bovine Semen (England) (Amendment) Regulations 2011 (S.I. 2011/454)](https://www.legislation.gov.uk/uksi/2011/454), [regs. 1(c)](https://www.legislation.gov.uk/uksi/2011/454/regulation/1/c), [4(1)](https://www.legislation.gov.uk/uksi/2011/454/regulation/4/1)
+
+[^key-b6eddc3714da6f6fbc8687a07a94b0a3]: Textual amendment: Words in reg. 10(4) omitted (6.4.2011) by virtue of [The Bovine Semen (England) (Amendment) Regulations 2011 (S.I. 2011/454)](https://www.legislation.gov.uk/uksi/2011/454), [regs. 1(c)](https://www.legislation.gov.uk/uksi/2011/454/regulation/1/c), [4(2)](https://www.legislation.gov.uk/uksi/2011/454/regulation/4/2)
+
+[^key-09f334ceb15dbae350030383c27d21fb]: Textual amendment: Reg. 16(1A)(1B) inserted (6.4.2011) by [The Bovine Semen (England) (Amendment) Regulations 2011 (S.I. 2011/454)](https://www.legislation.gov.uk/uksi/2011/454), [regs. 1(c)](https://www.legislation.gov.uk/uksi/2011/454/regulation/1/c), [5](https://www.legislation.gov.uk/uksi/2011/454/regulation/5)
+
+[^c18607881]: Marginal citation: [S.I. 1983/6](https://www.legislation.gov.uk/uksi/1983/6), amended by [S.I. 1988/1090](https://www.legislation.gov.uk/uksi/1988/1090) and 1990/2217.
+
+[^key-bed7d183c3c05eecddef05e48f71db03]: Textual amendment: [Reg. 21](https://www.legislation.gov.uk/uksi/2007/1319/regulation/21) substituted (6.4.2011) by [The Bovine Semen (England) (Amendment) Regulations 2011 (S.I. 2011/454)](https://www.legislation.gov.uk/uksi/2011/454), [regs. 1(c)](https://www.legislation.gov.uk/uksi/2011/454/regulation/1/c), [6](https://www.legislation.gov.uk/uksi/2011/454/regulation/6)
+
+[^c18607891]: Marginal citation: [S.I. 2003/1724](https://www.legislation.gov.uk/uksi/2003/1724).
+
+[^key-25d27460f5ca82cc3fd41a3db2ac593d]: Textual amendment: Reg. 24(a)-(c) substituted for reg. 24(a)(b)(6.4.2011) by [The Bovine Semen (England) (Amendment) Regulations 2011 (S.I. 2011/454)](https://www.legislation.gov.uk/uksi/2011/454), [regs. 1(c)](https://www.legislation.gov.uk/uksi/2011/454/regulation/1/c), [7](https://www.legislation.gov.uk/uksi/2011/454/regulation/7)
+
+[^key-7ae68bb7ab710612e8b5bbf84b574654]: Textual amendment: Word in reg. 28(2) inserted (6.4.2011) by [The Bovine Semen (England) (Amendment) Regulations 2011 (S.I. 2011/454)](https://www.legislation.gov.uk/uksi/2011/454), [regs. 1(c)](https://www.legislation.gov.uk/uksi/2011/454/regulation/1/c), [8](https://www.legislation.gov.uk/uksi/2011/454/regulation/8)
+
+[^key-c5325d95c58715918d9c55835f475c31]: Textual amendment: Words in [reg. 29(c)](https://www.legislation.gov.uk/uksi/2007/1319/regulation/29/c) substituted (31.12.2020) by [The Trade in Animals and Related Products (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/782)](https://www.legislation.gov.uk/uksi/2019/782), [regs. 1](https://www.legislation.gov.uk/uksi/2019/782/regulation/1), [7(6)](https://www.legislation.gov.uk/uksi/2019/782/regulation/7/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-9782563743af3ec187dd2162c244dd25]: Textual amendment: [Reg. 30](https://www.legislation.gov.uk/uksi/2007/1319/regulation/30) heading substituted (31.12.2020) by [The Trade in Animals and Related Products (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/782)](https://www.legislation.gov.uk/uksi/2019/782), [regs. 1](https://www.legislation.gov.uk/uksi/2019/782/regulation/1), [7(7)(a)](https://www.legislation.gov.uk/uksi/2019/782/regulation/7/7/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-10634023ca62dc0ccf850d36d97743a0]: Textual amendment: Words in [reg. 30(1)](https://www.legislation.gov.uk/uksi/2007/1319/regulation/30/1) substituted (31.12.2020) by [The Trade in Animals and Related Products (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/782)](https://www.legislation.gov.uk/uksi/2019/782), [regs. 1](https://www.legislation.gov.uk/uksi/2019/782/regulation/1), [7(7)(b)](https://www.legislation.gov.uk/uksi/2019/782/regulation/7/7/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-6b3d486e5e5fdeacdca70cb80bc79cbc]: Textual amendment: Words in [reg. 30(1)(b)](https://www.legislation.gov.uk/uksi/2007/1319/regulation/30/1/b) substituted (31.12.2020) by [The Trade in Animals and Related Products (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/782)](https://www.legislation.gov.uk/uksi/2019/782), [regs. 1](https://www.legislation.gov.uk/uksi/2019/782/regulation/1), [7(7)(c)](https://www.legislation.gov.uk/uksi/2019/782/regulation/7/7/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-3edd39b8e9647412b9b1e7a13fdb489e]: Textual amendment: Words in [reg. 30(2)](https://www.legislation.gov.uk/uksi/2007/1319/regulation/30/2) substituted (31.12.2020) by [The Trade in Animals and Related Products (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/782)](https://www.legislation.gov.uk/uksi/2019/782), [regs. 1](https://www.legislation.gov.uk/uksi/2019/782/regulation/1), [7(7)(d)](https://www.legislation.gov.uk/uksi/2019/782/regulation/7/7/d); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-884b78f799cfdd03ec29b905c7ece0da]: Textual amendment: Word in [reg. 38(1)](https://www.legislation.gov.uk/uksi/2007/1319/regulation/38/1) substituted (31.12.2020) by [The Trade in Animals and Related Products (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/782)](https://www.legislation.gov.uk/uksi/2019/782), [regs. 1](https://www.legislation.gov.uk/uksi/2019/782/regulation/1), [7(8)](https://www.legislation.gov.uk/uksi/2019/782/regulation/7/8); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-9cd4e5412131daadc26c2cdbec18d06c]: Textual amendment: Reg. 41 substituted (24.6.2013) by [The Animal Health (Miscellaneous Fees) Regulations 2013 (S.I. 2013/1240)](https://www.legislation.gov.uk/uksi/2013/1240), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2013/1240/regulation/1/4), [7(2)](https://www.legislation.gov.uk/uksi/2013/1240/regulation/7/2)
+
+[^key-8b9e19ae78469dd1a869610c2db51b44]: Textual amendment: Words in reg. 41 substituted (30.6.2018) by [The Animal Health (Miscellaneous Fees) (England) Regulations 2018 (S.I. 2018/664)](https://www.legislation.gov.uk/uksi/2018/664), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/664/regulation/1/3), [6(2)](https://www.legislation.gov.uk/uksi/2018/664/regulation/6/2)
+
+[^key-7dfc61a2f26008470422f48573c945f6]: Textual amendment: [Reg. 42](https://www.legislation.gov.uk/uksi/2007/1319/regulation/42) omitted (24.6.2013) by virtue of [The Animal Health (Miscellaneous Fees) Regulations 2013 (S.I. 2013/1240)](https://www.legislation.gov.uk/uksi/2013/1240), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2013/1240/regulation/1/4), [7(3)](https://www.legislation.gov.uk/uksi/2013/1240/regulation/7/3)
+
+[^c18607901]: Marginal citation: [S.I. 1985/1861](https://www.legislation.gov.uk/uksi/1985/1861), amended by [S.I. 1987/904](https://www.legislation.gov.uk/uksi/1987/904), 1992/671, 1995/2549, 1996/3124, 2001/380, 2002/824, and 2004/3231.
+
+[^c18607911]: Marginal citation: [S.I. 1987/390](https://www.legislation.gov.uk/uksi/1987/390), amended by [S.I. 1992/2592](https://www.legislation.gov.uk/uksi/1992/2592).
+
+[^c18607921]: Marginal citation: Available at http://www.oie.int/eng/normes/mcode/en\_chapitre\_2.3.5.htm
+
+[^M_F_5a86b773-c226-45c7-a908-bdcd705036fd]: Textual amendment: Word in Sch. 3 Pt. 1 para. 2 substituted (6.4.2011) by [The Bovine Semen (England) (Amendment) Regulations 2011 (S.I. 2011/454)](https://www.legislation.gov.uk/uksi/2011/454), [regs. 1(c)](https://www.legislation.gov.uk/uksi/2011/454/regulation/1/c), [9](https://www.legislation.gov.uk/uksi/2011/454/regulation/8)
+
+[^key-5daaa5d5d20cfc440d0c98091ff397d4]: Textual amendment: Words in [Sch. 3 Pt. 2 para. 2(1)](https://www.legislation.gov.uk/uksi/2007/1319/schedule/3/part/2/paragraph/2/1) substituted (31.12.2020) by [The Trade in Animals and Related Products (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/782)](https://www.legislation.gov.uk/uksi/2019/782), [regs. 1](https://www.legislation.gov.uk/uksi/2019/782/regulation/1), [7(9)(a)(i)(aa)](https://www.legislation.gov.uk/uksi/2019/782/regulation/7/9/a/i/aa); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-be2ef1e28287889746f64083e63bf577]: Textual amendment: Words in [Sch. 3 Pt. 2 para. 2(2)](https://www.legislation.gov.uk/uksi/2007/1319/schedule/3/part/2/paragraph/2/2) substituted (31.12.2020) by [The Trade in Animals and Related Products (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/782)](https://www.legislation.gov.uk/uksi/2019/782), [regs. 1](https://www.legislation.gov.uk/uksi/2019/782/regulation/1), [7(9)(a)(i)(bb)](https://www.legislation.gov.uk/uksi/2019/782/regulation/7/9/a/i/bb); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-71f4b25c97949663005a85d5f7565574]: Textual amendment: Words in [Sch. 3 Pt. 2 para. 3](https://www.legislation.gov.uk/uksi/2007/1319/schedule/3/part/2/paragraph/3) substituted (31.12.2020) by [The Trade in Animals and Related Products (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/782)](https://www.legislation.gov.uk/uksi/2019/782), [regs. 1](https://www.legislation.gov.uk/uksi/2019/782/regulation/1), [7(9)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/782/regulation/7/9/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-feac24a6cef803a3838828f869e878ec]: Textual amendment: Word in [Sch. 3 Pt. 3 para. 1(b)(i)](https://www.legislation.gov.uk/uksi/2007/1319/schedule/3/part/3/paragraph/1/b/i) substituted (31.12.2020) by [The Trade in Animals and Related Products (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/782)](https://www.legislation.gov.uk/uksi/2019/782), [regs. 1](https://www.legislation.gov.uk/uksi/2019/782/regulation/1), [7(9)(b)](https://www.legislation.gov.uk/uksi/2019/782/regulation/7/9/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-19afcab9c4b9c6041013aa514cd9aeec]: Textual amendment: Word in [Sch. 3 Pt. 3 para. 1(c)](https://www.legislation.gov.uk/uksi/2007/1319/schedule/3/part/3/paragraph/1/c) substituted (31.12.2020) by [The Trade in Animals and Related Products (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/782)](https://www.legislation.gov.uk/uksi/2019/782), [regs. 1](https://www.legislation.gov.uk/uksi/2019/782/regulation/1), [7(9)(b)](https://www.legislation.gov.uk/uksi/2019/782/regulation/7/9/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c18607931]: Marginal citation: O.J. No L 302, 19.10.1989, p.1.
+
+[^c18607941]: Marginal citation: [S.I. 1995/2478](https://www.legislation.gov.uk/uksi/1995/2478), amended by [S.I. 1996/3124](https://www.legislation.gov.uk/uksi/1996/3124).
+
+[^M_F_b14e710c-cb37-47b2-b161-279ee2619f70]: Textual amendment: Word in Sch. 5 Pt. 1 para. 2 substituted (6.4.2011) by [The Bovine Semen (England) (Amendment) Regulations 2011 (S.I. 2011/454)](https://www.legislation.gov.uk/uksi/2011/454), [regs. 1(c)](https://www.legislation.gov.uk/uksi/2011/454/regulation/1/c), [10](https://www.legislation.gov.uk/uksi/2011/454/regulation/8)
+
+[^key-2761ae503533c57d060768e9a1c007e0]: Textual amendment: Words in [Sch. 5 Pt. 3 para. 1(a)(ii)](https://www.legislation.gov.uk/uksi/2007/1319/schedule/5/part/3/paragraph/1/a/ii) substituted (31.12.2020) by [The Trade in Animals and Related Products (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/782)](https://www.legislation.gov.uk/uksi/2019/782), [regs. 1](https://www.legislation.gov.uk/uksi/2019/782/regulation/1), [7(10)(a)](https://www.legislation.gov.uk/uksi/2019/782/regulation/7/10/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-00dd0c58c147d2a212d910dfc2d837fb]: Textual amendment: Words in [Sch. 5 Pt. 3 para. 1(b)](https://www.legislation.gov.uk/uksi/2007/1319/schedule/5/part/3/paragraph/1/b) substituted (31.12.2020) by [The Trade in Animals and Related Products (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/782)](https://www.legislation.gov.uk/uksi/2019/782), [regs. 1](https://www.legislation.gov.uk/uksi/2019/782/regulation/1), [7(10)(b)](https://www.legislation.gov.uk/uksi/2019/782/regulation/7/10/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-d2d6a42e9d46d69acb9adb916b967705]: Textual amendment: Words in Sch. 7 para. 1(c) substituted (6.4.2011) by [The Bovine Semen (England) (Amendment) Regulations 2011 (S.I. 2011/454)](https://www.legislation.gov.uk/uksi/2011/454), [regs. 1(c)](https://www.legislation.gov.uk/uksi/2011/454/regulation/1/c), [11(a)](https://www.legislation.gov.uk/uksi/2011/454/regulation/11/a)
+
+[^key-67b39a3faff6416bc7262b9d6b4aa75a]: Textual amendment: Sch. 7 para. 1(c)(ii)(iia) substituted for Sch. 7 para. 1(c)(ii) (6.4.2011) by [The Bovine Semen (England) (Amendment) Regulations 2011 (S.I. 2011/454)](https://www.legislation.gov.uk/uksi/2011/454), [regs. 1(c)](https://www.legislation.gov.uk/uksi/2011/454/regulation/1/c), [11(b)](https://www.legislation.gov.uk/uksi/2011/454/regulation/11/b)
+
+[^key-92a8b0205fcae97a7658bc4456fad2ca]: Textual amendment: Words in [Sch. 7 para. 2(2)](https://www.legislation.gov.uk/uksi/2007/1319/schedule/7/paragraph/2/2) substituted (6.4.2011) by [The Bovine Semen (England) (Amendment) Regulations 2011 (S.I. 2011/454)](https://www.legislation.gov.uk/uksi/2011/454), [regs. 1(c)](https://www.legislation.gov.uk/uksi/2011/454/regulation/1/c), [11(c)](https://www.legislation.gov.uk/uksi/2011/454/regulation/11/c)
+
+[^key-119eb30b23479697c0dc0c44a17d86e0]: Textual amendment: Word in [Sch. 8 Pt. 1(a)(ii)](https://www.legislation.gov.uk/uksi/2007/1319/schedule/8/part/1/a/ii) substituted (31.12.2020) by [The Trade in Animals and Related Products (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/782)](https://www.legislation.gov.uk/uksi/2019/782), [regs. 1](https://www.legislation.gov.uk/uksi/2019/782/regulation/1), [7(11)](https://www.legislation.gov.uk/uksi/2019/782/regulation/7/11); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-3c536013fc6bdda62e443dded476a8e0]: Textual amendment: Word in [Sch. 8 Pt. 1(b)(ii)](https://www.legislation.gov.uk/uksi/2007/1319/schedule/8/part/1/b/ii) substituted (31.12.2020) by [The Trade in Animals and Related Products (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/782)](https://www.legislation.gov.uk/uksi/2019/782), [regs. 1](https://www.legislation.gov.uk/uksi/2019/782/regulation/1), [7(11)](https://www.legislation.gov.uk/uksi/2019/782/regulation/7/11); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c18607951]: Marginal citation: [S.I. 2004/3388](https://www.legislation.gov.uk/uksi/2004/3388), amended by [S.I. 2006/844](https://www.legislation.gov.uk/uksi/2006/844).
+
+[^c18607961]: Marginal citation: [S.I. 2006/1471](https://www.legislation.gov.uk/uksi/2006/1471), amended by [S.I. 2006/2126](https://www.legislation.gov.uk/uksi/2006/2126).

@@ -1,0 +1,40 @@
+---
+title: Greater London Authority Act 1999, section 160
+act: Greater London Authority Act 1999
+section: '160'
+status: revised-with-pending-changes
+text_date: '2026-08-05'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/ukpga/1999/29/section/160
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Greater London Authority Act 1999, section 160
+
+> **Warning: changes not yet applied to this text (55).** Text as at 2026-08-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1999/29
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 160. Guarantees.
+
+*Extent: E+W+S*
+
+(1) Transport for London may guarantee to discharge any financial obligation of—
+
+- (a) a subsidiary of Transport for London;
+- (b) any person (other than such a subsidiary) with whom Transport for London has entered into an agreement by virtue of section 156(2) or (3) above, where the guarantee is given for the purpose of enabling that person to carry out the agreement; or
+- (c) any person (other than such a subsidiary) with whom such a subsidiary has entered into a transport subsidiary’s agreement, where the guarantee is given for the purpose of enabling that person to carry out the agreement.
+
+(2) Transport for London may, for the purposes of discharging any of its functions, guarantee to discharge any financial obligation incurred or to be incurred by any person for the purposes of—
+
+- (a) an undertaking carried on by him; or
+- (b) where the person is a body corporate, an undertaking carried on by a subsidiary of that body corporate.
+
+(3) A guarantee under this section may be subject to such conditions as Transport for London considers appropriate.
+
+(4) Transport for London may enter into arrangements with another person under which that person gives a guarantee which Transport for London has power to give under this section.
+
+(5) Where Transport for London enters into arrangements by virtue of subsection (4) above, the arrangements may provide for Transport for London to indemnify the person who gives the guarantee.
+
+(6) This section is without prejudice to any other power of Transport for London.

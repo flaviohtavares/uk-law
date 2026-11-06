@@ -1,0 +1,393 @@
+---
+title: The Information as to Provision of Education (England) Regulations 2016
+id: uksi/2016/555
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2016-05-03'
+text_date: '2023-11-30'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2016/555
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2016/555/pdfs/uksiem_20160555_en.pdf
+- http://www.legislation.gov.uk/uksi/2016/555/pdfs/uksi_20160555_en.pdf
+- http://www.legislation.gov.uk/uksi/2016/555/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Information as to Provision of Education (England) Regulations 2016
+
+> Text as at 2023-11-30.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2016 No. 555
+
+Education, England
+
+The Information as to Provision of Education (England) Regulations 2016
+
+Made
+
+3rd May 2016
+
+Laid before Parliament
+
+6th May 2016
+
+Coming into force
+
+31st May 2016
+
+The Secretary of State for Education makes the following Regulations in exercise of the powers conferred by sections 29(3) and 569(4) of the Education Act 1996[^f00001].
+
+## 1. Citation, commencement and application[^key-68f4968d0bf995c9a2dc6440856e55ad]
+
+(1) These Regulations may be cited as the Information as to Provision of Education (England) Regulations 2016 and come into force on 31st May 2016.
+
+(2) These Regulations apply only in relation to local authorities in England.
+
+## 2. Interpretation[^key-57307fcbd59d5d784376b05bbd4e0dda]
+
+In these Regulations—
+
+- “**collection year**” means—
+  - (a) the period of twelve months beginning with 1st January 2024, or
+  - (b) any subsequent period of twelve months beginning with 1st January;
+- “**early years provision**” has the meaning given in section 20 of the Childcare Act 2006;
+- “**mainstream school**” means—
+  - (a) a maintained school that is not a special school, or
+  - (b) an Academy school that is not a special school;
+- “**maintained school**” means—
+  - (a) a community school, foundation school or voluntary school, or
+  - (b) a community special school or foundation special school;
+- “**pupil planning area**” means a grouping of schools within the area of a local authority which is used by that local authority for the purpose of assessing current and future demand for school places;
+- “**resourced provision**” means a unit in a mainstream school which is recognised by the local authority in whose area the school is located as specially organised for pupils with special educational needs who are to be taught mainly outside that unit;
+- “**special educational needs**” has the meaning given in section 20(1) of the Children and Families Act 2014;
+- “**special educational needs unit**” means a unit in a mainstream school which is recognised by the local authority in whose area the school is located as specially organised for pupils with special educational needs who are to be taught mainly inside that unit;
+- “**special school**” has the meaning given in section 337 of the Education Act 1996.
+
+## 3. Information about school capacity etc. to be provided to the Secretary of State by local authorities[^key-ec651894d3a4cc2dc3d534d5e16524b9]
+
+(1) A local authority must provide the Secretary of State each collection year with the information specified in Schedule 1 (school capacity etc. information) during the period beginning with the first Monday in June and ending on the last Friday in July.
+
+(2) The information must be provided using the COLLECT portal.
+
+(3) In paragraph (2), “**the COLLECT portal**” means the online facility known by that name and provided by the Secretary of State for submitting the information referred to in paragraph (1).
+
+(4) For the purposes of this regulation, a school or other educational institution which provides early years provision is to be treated as if it did not; and the provisions of Schedule 1 are to be interpreted accordingly.
+
+## 3A. Capital spend information to be provided to the Secretary of State by local authorities
+
+(1) A local authority must provide the Secretary of State each collection year with the information specified in Schedule 1A (capital spend information) during the period beginning with the first Monday in April and ending on the last Friday in June.
+
+(2) The information must be provided using the Capital Spend Survey portal.
+
+(3) In paragraph (2) “**the Capital Spend Survey portal**” means the online facility known by that name and provided by the Secretary of State for submitting the information referred to in paragraph (1).
+
+(4) For the purposes of this regulation, a school which provides early years provision is to be treated as if it did not; and the provisions of Schedule 1A are to be interpreted accordingly.
+
+## 4. Reports to be provided to the Secretary of State by local authorities[^key-853bcafb9eee9d02c3ee9171acd3edb3]
+
+(1) A local authority must provide the Secretary of State each year with a report containing the information specified in Schedule 2 in relation to the admission to—
+
+- (a) primary schools; and
+- (b) secondary schools,
+
+of pupils living in the area of the local authority.
+
+(2) The information in each report provided under paragraph (1) must be correct as at the national offer date for primary schools and secondary schools as the case may be.
+
+(3) Each report provided under paragraph (1) must be provided no later than five working days after the relevant national offer date.
+
+(4) A local authority may provide the Secretary of State each year with a report containing the information specified in Schedule 2 in relation to the admission to secondary schools of pupils living in the area of the local authority.
+
+(5) The information in any report provided under paragraph (4) must be correct as at 1st September (or, in any year in which 1st September is not a working day, the next working day) in relation to the school year commencing in the August or September of that calendar year.
+
+(6) Each report provided under paragraph (4) must be provided by no later than 8th September (or, in any year in which 8th September is not a working day, by no later than the next working day).
+
+(7) In this regulation—
+
+- “national offer date” means the date prescribed for the purposes of section 88M(4)(b) of the School Standards and Framework Act 1998 [^f00002];
+- “working day” means any day other than a Saturday, a Sunday, Christmas Day, Good Friday or a day which is a bank holiday within the meaning of the Banking and Financial Dealings Act 1971 [^f00003].
+
+(8) For the purposes of this regulation and Schedule 2, “school” means a community, foundation or voluntary school, or an Academy.
+
+## 5. Determination of capacity of a school etc.[^key-f7c56c82f4c7b45414ed540bfa1ffbca]
+
+For the purposes of Schedule 1, the capacity of each of the following are to be determined in accordance with the method of assessment provided in the guidance “Assessing the capacity of schools - guidance for local authorities and schools”, published by the Secretary of State on 3rd November 2023—
+
+- (a) a school;
+- (b) in relation to a school which provides both primary and secondary education, the part of the school which provides primary education and the part of the school which provides secondary education;
+- (c) a year group in a school;
+- (d) a special educational needs unit;
+- (e) resourced provision.
+
+## 6. Revocations[^key-b23a8c099b87ca6f35ee0e9d2ce4f0b4]
+
+The Regulations set out in Schedule 3 are revoked.
+
+John Nash
+
+Parliamentary Under Secretary of State
+
+Department for Education
+
+3rd May 2016
+
+## SCHEDULE 1 — School capacity etc. information[^key-066a472e00bc87c32be55827913e9560]
+
+Regulation 3
+
+**1.** (1) The number of registered pupils, on the third Thursday in May in the collection year, in each mainstream school and special school located in the area of the local authority to which sub-paragraph (3) applies.
+
+(2) The number of registered pupils, on the third Thursday in May in the collection year, in each year group in each mainstream school and special school located in the area of the local authority to which sub-paragraph (3) applies.
+
+(3) This sub-paragraph applies to a mainstream school or special school which first admits pupils after the third Thursday in January in the collection year.
+
+**2.** The capacity, on 1st May of the collection year, of—
+
+- (a) each mainstream school and special school located in the area of the local authority which provides primary or secondary education (or both),
+- (b) in relation to each mainstream school and special school which provides primary and secondary education—
+  - (i) the part of the school which provides primary education, and
+  - (ii) the part of the school which provides secondary education, and
+- (c) in relation to each mainstream school located in the area of the local authority—
+  - (i) each year group in the school to which pupils are normally admitted,
+  - (ii) any special educational needs unit in the school, and
+  - (iii) any resourced provision at the school.
+
+**3.** In relation to each mainstream school located in the area of the local authority, for each of the three school years starting with the school year beginning in the collection year, any planned increase or decrease in the capacity of each year group in the school.
+
+**4.** (1) In relation to each pupil planning area used by the local authority or, if none is used, the area of the local authority, forecasts of, for each of the five school years starting with the school year beginning in the collection year, the number of pupils in each year group for whom primary education will be provided at mainstream schools.
+
+(2) In relation to each pupil planning area used by the local authority or, if none is used, the area of the local authority, forecasts of, for each of the seven school years starting with the school year beginning in the collection year, the number of pupils in each year group for whom secondary education will be provided at mainstream schools.
+
+**5.** (1) In relation to the area of the local authority, forecasts of, for each of the four types of relevant setting and for each of the five school years starting with the school year beginning in the collection year, the number of pupils for whom, during some or all of that school year, primary education will be provided in that type of relevant setting while a relevant duty applies in respect of them.
+
+(2) In relation to the area of the local authority, forecasts of, for each of the four types of relevant setting and for each of the seven school years starting with the school year beginning in the collection year, the number of pupils for whom, during some or all of that school year, secondary education will be provided in that type of relevant setting while a relevant duty applies in respect of them.
+
+(3) In this paragraph—
+
+- (a) the four types of relevant setting are—
+  - (i) resourced provision or a special educational needs unit;
+  - (ii) a special school;
+  - (iii) an independent school other than an alternative provision Academy that is an independent school;
+  - (iv) an educational institution, other than a mainstream school or a school falling within sub-paragraph (ii) or (iii), at which alternative provision is made;
+- (b) “**alternative provision**” means educational provision for which a local authority has made arrangements under section 19 of the Education Act 1996 (exceptional provision of education in pupil referral units or elsewhere: England);
+- (c) “**relevant duty**” means a duty under any of sections 36(8) and 37(1)(a) and (b) of the Children and Families Act 2014 (duty of the local authority to secure an EHC needs assessment, to prepare an EHC plan and to maintain an EHC plan, respectively).
+
+**6.** (1) A statement accompanying the forecasts referred to in paragraphs 4 and 5 which—
+
+- (a) describes the methodology used to prepare each forecast,
+- (b) summarises any changes to the methodology used to prepare each forecast since the previous collection year,
+- (c) describes what, if any, assumptions were made about the following factors to prepare the forecasts—
+  - (i) migration;
+  - (ii) housing developments;
+  - (iii) the expected number of pupils from housing developments;
+  - (iv) cross-border movements of pupils between the area of the local authority and other local authority areas;
+  - (v) birth rates,
+- (d) describes any other assumptions made to prepare the forecasts, and
+- (e) provides information about—
+  - (i) the data sources used to provide the forecasts,
+  - (ii) the quality assurance arrangements for checking the forecasts, and
+  - (iii) the use, if any, of external organisations to provide the forecasts.
+
+(2) Where the collection year is the period of 12 months beginning with 1st January 2024—
+
+- (a) the information referred to in sub-paragraph (1)(b) is required in relation to the forecasts referred to in paragraph 4 only, and
+- (b) the reference to “the previous collection year” in sub-paragraph (1)(b) is to be read as a reference to “the year beginning with 1st January 2023”.
+
+**7.** (1) In relation to the area of the local authority, the trend in—
+
+- (a) the number of pupils for whom primary education is provided in mainstream schools,
+- (b) the number of pupils for whom secondary education is provided in mainstream schools, and
+- (c) the number of pupils for whom special educational provision is provided.
+
+(2) To the extent necessary for an understanding of the trends referred to in sub-paragraph (1), information about the factors which are affecting, or are likely to affect, the numbers referred to in sub-paragraph (1).
+
+(3) In sub-paragraph (1), “**special educational provision**” has the meaning given in section 21(1) of the Children and Families Act 2014.
+
+**8.** (1) Information about the matters specified in sub-paragraph (2) in relation to—
+
+- (a) any pupil planning area used by the local authority, or
+- (b) if pupil planning areas are not used, any geographical area within the area of the local authority,
+
+which is experiencing or is expected to experience a shortfall or excess of mainstream school places.
+
+(2) The matters are—
+
+- (a) the extent of the shortfall or excess of places;
+- (b) any factors specific to the area of the local authority which are contributing to the shortfall or excess of places;
+- (c) the school or schools which are experiencing a shortfall or excess of places;
+- (d) the actions which the local authority is taking to address the shortfall or excess of places;
+- (e) where sub-paragraph (1)(a) applies, how circumstances relating to other pupil planning areas used by the local authority are contributing to or helping to resolve the shortfall or excess of places.
+
+**9.** Where the local authority does not use planning areas, information about any geographical areas within the area of the local authority where the rate of growth or decline in the number of pupils is expected to be significantly different from the rate of growth or decline in the area of the local authority as a whole.
+
+**10.** Any changes made to a pupil planning area within the area of the local authority since the previous collection year.
+
+## Schedule 1A — Capital spend information
+
+Regulation 3A
+
+**1.** In relation to mainstream and special schools located within the area of the local authority, the following information about any project which was completed in the financial year ending on 31st March of the collection year and increased the capacity of one or more such schools—
+
+- (a) each year group to which places were added;
+- (b) the number of places added to any year group to which places were added;
+- (c) whether the additional places referred to in sub-paragraph (b)—
+  - (i) were intended to be permanent additional places, or
+  - (ii) were added only in respect of the financial year to which the information relates;
+- (d) how the additional places were accommodated;
+- (e) the total cost of the accommodation provided;
+- (f) the sources of funding used to pay for the accommodation provided;
+- (g) the amount of funding from each such source.
+
+**2.** (1) Where the information provided in relation to paragraph 1(d) indicates that building works were undertaken to accommodate the additional places, the following information in relation to the project concerned—
+
+- (a) the pupil planning area code for the building works;
+- (b) the date on which the building works began;
+- (c) the internal floor area in square metres covered by the completed building works;
+- (d) the total cost of the project, including any abnormal costs;
+- (e) for each of group elements 0 to 12 in RICS NRM 1 (so far as relevant), the cost of all the components of the project which fall within that group element, including any abnormal costs;
+- (f) the sum total of any abnormal costs relating to the project;
+- (g) the cost of any site acquisition.
+
+(2) In sub-paragraph (1)—
+
+- “**abnormal costs**” has the meaning given in the document entitled “RICS NRM 3: Order of cost estimating and cost planning for building maintenance works”, published by the Royal Institution of Chartered Surveyors on 29th October 2021;
+- “**building works**” has the meaning given in RICS NRM 1;
+- “**RICS NRM 1**” means the document entitled “RICS NRM 1: Order of cost estimating and cost planning for capital building works”, published by the Royal Institution of Chartered Surveyors on 29th October 2021.
+
+## SCHEDULE 2 — INFORMATION TO BE CONTAINED IN REPORTS PROVIDED BY LOCAL AUTHORITIES TO THE SECRETARY OF STATE
+
+Regulation 4
+
+**1.**[^key-e7438a8e1f002d1276abdcc88a02d18b] The local authority number for the local authority.
+
+**2.**[^key-2dc1d4560782ec8adc42ced79174dfad] The name of the local authority.
+
+**3.**[^key-b557764d81e9b0e82da4d5b5a65bba9a] The date of the report.
+
+**4.**[^key-fe2c37e82f2ac223e4c0e68643555e6f] The sum of the admission numbers (which has the meaning given in section 88D(1) of the School Standards and Framework Act 1988 [^f00005]) of all primary schools and secondary schools in the area of the local authority.
+
+**5.**[^key-14e35956a08b53d9707eeba0e7182a41] For each child living in the area of the local authority in respect of whom an application or an offer is made, the following information—
+
+- (a) surname;
+- (b) first name;
+- (c) middle name (if any);
+- (d) unique pupil number (if any);
+- (e) date of birth;
+- (f) gender;
+- (g) home address; and
+- (h) the entry year applied for.
+
+**6.**[^key-f8d3f3d5c7f14ae34e8b3e1bc6fe7a6d] In respect of any application made by a home applicant, whether such an application was received via the local authority’s website.
+
+**7.**[^key-e55f29834abe0c3b88bef38183046e90] In respect of every preference for a school expressed in the application of a home applicant, the following information—
+
+- (a) its rank in relation to any other preference expressed in the application;
+- (b) the local authority number for the local authority in whose area the school is located;
+- (c) the departmental establishment number for that school.
+
+**8.**[^key-036d45bbfd65e8341ff96368fffd178d] In respect of any offer made in respect of a child living in the area of the local authority, the following information—
+
+- (a) whether an application was made;
+- (b) whether the offer corresponds with any preference expressed in the application of the home applicant;
+- (c) the local authority number for the local authority in whose area the school is located;
+- (d) the departmental establishment number for the school for which the offer is made.
+
+**9.**[^key-15e08da28311fbb6a1b06141478b79c5] In this Schedule—
+
+- “application” means a preference expressed by a parent in accordance with section 86(1) of the School Standards and Framework Act 1998 [^f00006], or by a parent or a child in accordance with section 86A(1)(c) or (d) of that Act [^f00007];
+- “departmental establishment number” means the identification number allocated to the school by the Department for Education;
+- “home applicant” means the parent of a child living in the area of the authority; and
+- “local authority number” means the identification number allocated to the authority by the Department for Education;
+- “offer” means an offer communicated by a local authority to admit a child in its area to a school[^f00008].
+
+## SCHEDULE 3 — REVOCATIONS[^key-c488a0767ed5a4cde5af244cc9eb8742]
+
+Regulation 6
+
+| Regulations revoked | References |
+| --- | --- |
+| The Information as to Provision of Education (England) Regulations 2008 | [S.I.2008/4](https://www.legislation.gov.uk/uksi/2008/4) |
+| The Information as to Provision of Education (England) (Amendment) Regulations 2011 | [S.I.2011/1438](https://www.legislation.gov.uk/uksi/2011/1438) |
+| The Information as to Provision of Education (England) (Amendment) Regulations 2012 | [S.I.2012/1554](https://www.legislation.gov.uk/uksi/2012/1554) |
+| The Information as to Provision of Education (England) (Amendment) Regulations 2013 | [S.I.2013/1255](https://www.legislation.gov.uk/uksi/2013/1255) |
+| The Information as to Provision of Education (England) (Amendment) (No.2) Regulations 2013 | [S.I.2013/2149](https://www.legislation.gov.uk/uksi/2013/2149) |
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations, which apply to local authorities in England, prescribe the information that local authorities must provide to the Secretary of State in each year relating to the provision of primary and secondary education in their area.
+
+Regulation 3 and Schedule 1 set out the information which local authorities must provide to the Secretary of State each year about the number of registered pupils and the capacity of schools in their area.
+
+Regulation 4 and Schedule 2 set out the content of reports which local authorities, in a particular case must, and in another case may, send to the Secretary of State each year about the admission of pupils living in their areas to primary and secondary schools.
+
+Regulation 6 and Schedule 3 revoke the Information as to Provision of Education (England) Regulations 2008 and amending regulations.
+
+The main differences between these Regulations and the regulations being revoked are as follows—
+
+- the previous requirement placed on local authorities which are county councils to provide a forecast of numbers of registered pupils for whom primary and secondary information will be provided over the next five or seven years is removed;
+- the requirement placed on local authorities to submit information on the number of registered pupils in each school on the third Thursday in May in each year is to apply only where the school first opened after the third Thursday in January before the beginning of the collection year;
+- a new requirement is placed on local authorities to give information about increases in capacity in schools in their area which are filling up by age group over a number of years;
+- a new requirement is placed on local authorities to give more information about building works necessary to accommodate increases in capacity at schools in their area.
+
+An Impact Assessment has not been produced for this instrument as it has no impact on business or civil society organisations.
+
+## Annotations
+
+[^f00001]: Footnote: [1996 c.56](https://www.legislation.gov.uk/ukpga/1996/56). Section 29(3) was amended by paragraph 67 of Schedule 30, and Schedule 31, to the School Standards and Framework Act [1998 (c.31)](https://www.legislation.gov.uk/ukpga/1998/31) and [S.I.2010/1158](https://www.legislation.gov.uk/uksi/2010/1158). Section 569(4) was amended by section 8(5) of the Education (Wales) Measure [2009 (c.05)](https://www.legislation.gov.uk/ukpga/2009/5). See section 579(1) for the meanings of “prescribed” and “regulations”.
+
+[^key-68f4968d0bf995c9a2dc6440856e55ad]: Commencement: Reg. 1 in force at 31.5.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/555/regulation/1/1)
+
+[^key-57307fcbd59d5d784376b05bbd4e0dda]: Textual amendment: Reg. 2 substituted (30.11.2023) by [The Information as to Provision of Education (England) (Amendment) Regulations 2023 (S.I. 2023/1186)](https://www.legislation.gov.uk/uksi/2023/1186), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1186/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2023/1186/regulation/2/2)
+
+[^key-ec651894d3a4cc2dc3d534d5e16524b9]: Textual amendment: [Regs. 3](https://www.legislation.gov.uk/uksi/2016/555/regulation/3), [3A](https://www.legislation.gov.uk/uksi/2016/555/regulation/3A) substituted (30.11.2023) for reg. 3 by The Information as to [Provision of Education (England) (Amendment) Regulations 2023 (S.I. 2023/1186)](https://www.legislation.gov.uk/uksi/2023/1186), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1186/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2023/1186/regulation/2/3)
+
+[^key-853bcafb9eee9d02c3ee9171acd3edb3]: Commencement: Reg. 4 in force at 31.5.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/555/regulation/1/1)
+
+[^f00002]: Footnote: Section 88M was inserted by section 151(4) of the Education and Skills Act [2008 (c.25)](https://www.legislation.gov.uk/ukpga/2008/25) and amended by [S.I.2010/1158](https://www.legislation.gov.uk/uksi/2010/1158). The date is prescribed in the School Admissions (Admission Arrangements and Co-ordination of Admission Arrangements) (England) Regulations 2012 ([S.I.2012/8](https://www.legislation.gov.uk/uksi/2012/8)).
+
+[^f00003]: Footnote: [1971 c.80](https://www.legislation.gov.uk/ukpga/1971/80).
+
+[^key-f7c56c82f4c7b45414ed540bfa1ffbca]: Textual amendment: Reg. 5 substituted (30.11.2023) by [The Information as to Provision of Education (England) (Amendment) Regulations 2023 (S.I. 2023/1186)](https://www.legislation.gov.uk/uksi/2023/1186), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1186/regulation/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2023/1186/regulation/2/4)
+
+[^key-b23a8c099b87ca6f35ee0e9d2ce4f0b4]: Commencement: Reg. 6 in force at 31.5.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/555/regulation/1/1)
+
+[^key-066a472e00bc87c32be55827913e9560]: Textual amendment: Sch. 1, Sch. 1A substituted for Sch. 1 (30.11.2023) by [The Information as to Provision of Education (England) (Amendment) Regulations 2023 (S.I. 2023/1186)](https://www.legislation.gov.uk/uksi/2023/1186), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1186/regulation/1/1), [2(5)](https://www.legislation.gov.uk/uksi/2023/1186/regulation/2/5)
+
+[^key-e7438a8e1f002d1276abdcc88a02d18b]: Commencement: Sch. 2 para. 1 in force at 31.5.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/555/regulation/1/1)
+
+[^key-2dc1d4560782ec8adc42ced79174dfad]: Commencement: Sch. 2 para. 2 in force at 31.5.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/555/regulation/1/1)
+
+[^key-b557764d81e9b0e82da4d5b5a65bba9a]: Commencement: Sch. 2 para. 3 in force at 31.5.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/555/regulation/1/1)
+
+[^key-fe2c37e82f2ac223e4c0e68643555e6f]: Commencement: Sch. 2 para. 4 in force at 31.5.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/555/regulation/1/1)
+
+[^f00005]: Footnote: Section 88D was inserted by section 151(4) of the Education and Skills Act 2008.
+
+[^key-14e35956a08b53d9707eeba0e7182a41]: Commencement: Sch. 2 para. 5 in force at 31.5.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/555/regulation/1/1)
+
+[^key-f8d3f3d5c7f14ae34e8b3e1bc6fe7a6d]: Commencement: Sch. 2 para. 6 in force at 31.5.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/555/regulation/1/1)
+
+[^key-e55f29834abe0c3b88bef38183046e90]: Commencement: Sch. 2 para. 7 in force at 31.5.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/555/regulation/1/1)
+
+[^key-036d45bbfd65e8341ff96368fffd178d]: Commencement: Sch. 2 para. 8 in force at 31.5.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/555/regulation/1/1)
+
+[^key-15e08da28311fbb6a1b06141478b79c5]: Commencement: Sch. 2 para. 9 in force at 31.5.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/555/regulation/1/1)
+
+[^f00006]: Footnote: Section 86(1) was amended by [S.I.2010/1158](https://www.legislation.gov.uk/uksi/2010/1158).
+
+[^f00007]: Footnote: Section 86A was inserted by section 150 of the Education and Skills Act 2008.
+
+[^f00008]: Footnote: By virtue of the School Admissions (Co-ordination of Admission Arrangements) (England) Regulations 2007 ([S.I.2007/194](https://www.legislation.gov.uk/uksi/2007/194)), every offer to admit a child in their area to a school in their area must be communicated to the child’s parents by the authority (such offer being communicated on behalf of the governing body of the school which is its own admission authority). Also by virtue of those Regulations, an offer to admit a child in their area to a secondary school in the area of another authority may be communicated by the authority.
+
+[^key-c488a0767ed5a4cde5af244cc9eb8742]: Commencement: Sch. 3 in force at 31.5.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/555/regulation/1/1)

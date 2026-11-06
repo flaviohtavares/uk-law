@@ -1,0 +1,103 @@
+---
+title: The National Rivers Authority (Anglian Region) (Reconstitution of the Louth Drainage Board) Order 1992
+id: uksi/1993/55
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '1992-10-20'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1993/55
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1993/55/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The National Rivers Authority (Anglian Region) (Reconstitution of the Louth Drainage Board) Order 1992
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+1993 No. 55
+
+LAND DRAINAGE
+
+The National Rivers Authority (Anglian Region) (Reconstitution of the Louth Drainage Board) Order 1992
+
+Made
+
+20th October 1992
+
+Coming into force
+
+4th January 1993
+
+Whereas the National Rivers Authority has prepared and submitted to the Minister of Agriculture, Fisheries and Food (hereinafter called “the Minister”) for confirmation under section 3(1) of the Land Drainage Act 1991 (hereinafter called “the 1991 Act”)[^f00001] a Scheme (hereinafter called “the Scheme”) in relation to the Louth Drainage Board, a copy of which is set out in the Schedule hereto;
+
+And whereas the Minister has caused a notice of his intention to make the following Order confirming the Scheme and the places where copies of the draft Order may be inspected and obtained to be published and to be sent to local authorities and other bodies in accordance with section 3(6) of, and paragraph 2 of Schedule 3 to the 1991 Act;
+
+And whereas no objection has been made to the draft Order;
+
+Now, therefore, the Minister, in exercise of the powers conferred upon him by section 3(5) and (7) of the 1991 Act and of all other powers enabling him in that behalf, hereby makes the following Order:—
+
+**1.** This Order may be cited as the National Rivers Authority (Anglian Region) (Reconstitution of the Louth Drainage Board) Order 1992 and shall, unless subject to special parliamentary procedure, come into force on the date of its confirmation by the Minister, in accordance with paragraph 5(1) of Schedule 3 to the 1991 Act.
+
+**2.** The Scheme is hereby confirmed subject to the following modifications:—
+
+- (i) for paragraph 1 there shall be substituted the following: “This Scheme shall come into force one month after the confirmation of the Order confirming this Scheme.”;
+- (ii) for the words at the end of the first sentence of paragraph 2 “section 7 of,and Schedule 2 to the 1976 Act,”, there shall be substituted the following: “section 1(3) of, and Schedule 1 to the Land Drainage Act 1991.”;
+- (iii) at the end of paragraph 2 shall be added “Provided that the existing members of the Internal Drainage Board shall continue in office until the date of the first meeting of the new members under paragraph 3(2) of Schedule 2 to the Land Drainage Act 1991.”.
+
+**3.** The expenses of the Minister in connection with the making and confirmation of this Order shall be borne by the National Rivers Authority.
+
+In witness whereof the Official Seal of the Minister of Agriculture, Fisheries and Food is hereunto affixed on
+
+R. A. Hathaway
+
+Assistant Secretary
+
+20th October 1992.
+
+## SCHEDULE — SCHEME SUBMITTED BY THE NRA
+
+**1.** This Scheme shall come into operation on a day to be appointed by the Ministerand such day is hereinafter called “the appointed day”.
+
+**2.** The Louth Drainage Board as constituted by the [Louth Drainage Provisional Order (Louth Drainage District) Confirmation Act 1938 c.Lxxi](https://www.legislation.gov.uk/ukla/1938/71) shall be reconstituted and shall consist of 12 members who, with the exception of the first members shall be persons elected in accordance with the provisions of section 7 of, and Schedule 2 to the 1976 Act. The first members shall be appointed by the Minister and shall hold office until the expiration of one year from 1st November next following the day on which they are appointed.
+
+**3.** The existing rights, powers, duties, liabilities, obligations and property (including deeds, maps, books, papers and other documents) of the Louth Drainage Board as constituted by the Louth Drainage Provisional Order (Louth Drainage District) Confirmation Act 1938 shall be the rights, powers, duties, liabilities, obligations and property of the Louth Drainage Board as reconstituted by the Scheme.
+
+In witness whereof the Common Seal of the National Rivers Authority (Anglian Region) was hereunto affixed in the presence of:—
+
+*Christopher Martin*
+
+Authority Secretary
+
+Dated the 8th day of November 1991
+
+## CONFIRMATION OF ORDER
+
+Whereas the foregoing Order has been published by the Minister of Agriculture, Fisheries and Food (“the Minister”) in accordance with paragraph 4 of Schedule 3 to the Land Drainage Act 1991;
+
+And whereas no memorial in respect of the Order has been presented to the Minister;
+
+Now therefore the Minister in accordance with paragraph 5(1) of Schedule 3 of the Land Drainage Act 1991, hereby confirms the said Order.
+
+In witness whereof the Official Seal of the Minister of Agriculture, Fisheries and Food is hereunto affixed on
+
+*R. A. Hathaway*
+
+Assistant Secretary
+
+4th January 1993.
+
+(This note is not part of the Order)
+
+This Order confirms a Scheme submitted by the National Rivers Authority for the reconstitution of the Louth Drainage Board, which Board was constituted by the Scheme confirmed by the Louth Drainage Provisional Order (Louth Drainage District) Confirmation Act 1938. The principal change is a reduction in the number of elected members of the Board from 18 to 12.
+
+The Scheme confirmed by the Order was submitted and advertised under the Land Drainage Act 1976. The continued validity and effect of this Scheme under section 3(5) of the 1991 Act is made possible by virtue of paragraph 1 of Schedule 2 of the Water Consolidation (Consequential Provisions) Act 1991.
+
+## Annotations
+
+[^f00001]: Footnote: [1991 c. 59](https://www.legislation.gov.uk/ukpga/1991/59); and the definition of “the relevant Minister” is contained in section 72(1) of that Act.

@@ -1,0 +1,37 @@
+---
+title: Greater London Authority Act 1999, section 336
+act: Greater London Authority Act 1999
+section: '336'
+status: revised-with-pending-changes
+text_date: '2026-08-05'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/ukpga/1999/29/section/336
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Greater London Authority Act 1999, section 336
+
+> **Warning: changes not yet applied to this text (55).** Text as at 2026-08-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1999/29
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 336. Withdrawal.
+
+*Extent: E+W+S*
+
+(1) The proposed spatial development strategy prepared under section 335(2)(a) above may be withdrawn by the Mayor at any time before he publishes the spatial development strategy.
+
+(2) On the withdrawal of the proposed spatial development strategy, the Mayor shall—
+
+- (a) withdraw the copies made available for inspection in accordance with section 335 above; and
+- (b) give notice that the proposed spatial development strategy has been withdrawn to every body or person falling within subsection (3) below.
+
+(3) Those bodies and persons are—
+
+- (a) the Assembly;
+- (b) each of the functional bodies;
+- (c) each of the bodies and persons specified in section 335(3) above; and
+- (d) every body which, or person who, made representations in accordance with the regulations.
+
+(4) This section does not affect the duty to prepare and publish a spatial development strategy in accordance with the provisions of this Part.

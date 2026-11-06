@@ -1,0 +1,394 @@
+---
+title: The Companies (Revision of Defective Accounts and Report) (Amendment) Regulations 2005
+id: uksi/2005/2282
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2005-08-03'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2005/2282
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2005/2282/pdfs/uksiem_20052282_en.pdf
+- http://www.legislation.gov.uk/uksi/2005/2282/pdfs/uksi_20052282_en.pdf
+- http://www.legislation.gov.uk/uksi/2005/2282/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Companies (Revision of Defective Accounts and Report) (Amendment) Regulations 2005
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2005 No. 2282
+
+COMPANIES
+
+The Companies (Revision of Defective Accounts and Report) (Amendment) Regulations 2005
+
+Made
+
+3rd August 2005
+
+Laid before Parliament
+
+15th August 2005
+
+Coming into force
+
+1st October 2005
+
+The Secretary of State, in exercise of the powers conferred upon him by section 245(3) and (4) of the Companies Act 1985[^f00001] and of all other powers enabling him in that behalf, hereby makes the following Regulations:
+
+## 1. Citation and commencement
+
+These Regulations may be cited as the Companies (Revision of Defective Accounts and Report) (Amendment) Regulations 2005 and come into force on 1st October 2005.
+
+## 2. Regulations to be amended
+
+The Companies (Revision of Defective Accounts and Report) Regulations 1990 (“the 1990 Regulations”)[^f00002] are amended in accordance with the following provisions of these Regulations.
+
+## 3. Interpretation
+
+(1) Regulation 2 of the 1990 Regulations (interpretation) is amended as follows.
+
+(2) At the appropriate places insert—
+
+> - “date of the original directors' remuneration report” means the date on which the original directors' remuneration report was approved by the board of directors under section 234C of the Act [^f00003]
+
+;
+
+> - “date of the original operating and financial review” means the date on which the original operating and financial review was approved by the board of directors under section 234AB of the Act [^f00004]
+
+;
+
+> - “revised review” means a revised operating and financial review prepared by the directors under section 245 of the Act, either through revision by replacement or through revision by supplementary note; in the latter case the revised review comprises the original operating and financial review together with the supplementary note;
+
+;
+
+(3) In the definition of “date of revision”—
+
+- (a) for “report” substitute “directors' report, directors' remuneration report or operating and financial review”, and
+- (b) for “Regulation 5” substitute “Regulation 5, 5A or 5B”.
+
+(4) In the definition of “original”—
+
+- (a) after “directors' report” in each place where it occurs insert “, directors' remuneration report or operating and financial review”, and
+- (b) for “revised report” substitute “revised report or review”.
+
+(5) In the definition of “revised report”, after “directors' report” in both places where it occurs insert “or directors' remuneration report”.
+
+(6) In the definitions of “revision by replacement” and “revision by supplementary note”, for “or directors' report” in each place where it occurs substitute “, directors' report, directors' remuneration report or operating and financial review”.
+
+## 4. Content of revised accounts, revised report or revised review
+
+(1) Regulation 3 of the 1990 Regulations (content of revised accounts or a revised report) is amended as follows.
+
+(2) For the heading before regulation 3 substitute “Content of revised accounts, revised report or revised review”.
+
+(3) In paragraph (1), after “provisions of the Act” insert “(and, where applicable, Article 4 of the IAS Regulation)”.
+
+(4) For paragraph (2) substitute—
+
+> (2) In particular—
+>
+> - (a) in the case of Companies Act accounts, sections 226A(2) and 227A(2) of the Act [^f00005], and
+> - (b) in the case of IAS accounts, international accounting standards,
+>
+> shall apply so as to require a true and fair view to be shown in the revised accounts of the matters therein referred to viewed as at the date of the original annual accounts.
+
+(5) At the beginning of paragraph (3) insert “In the case of Companies Act accounts,”.
+
+(6) In paragraph (4)—
+
+- (a) after “directors' report” in both places where it occurs, insert “, directors' remuneration report or operating and financial review”, and
+- (b) for “revised report” in both places where it occurs substitute “revised report or review”.
+
+## 5. Approval and signature of revised accounts or revised directors' report
+
+(1) Regulations 4 and 5 of the 1990 Regulations (approval and signature of revised accounts or a revised report) are amended as follows.
+
+(2) For the heading before regulation 4 substitute “Approval and signature of revised accounts or a revised directors' report”.
+
+(3) In regulation 5(1), for “revised report” substitute “revised directors' report”.
+
+## 6. Approval and signature of revised directors' remuneration report or revised review
+
+After regulation 5 of the 1990 Regulations (approval and signature of revised directors' report) insert—
+
+> **5A. Approval and signature of revised directors' remuneration report**
+>
+> (1) Section 234C of the Act (approval and signing of directors' remuneration report) shall apply to a revised directors' remuneration report, save that in the case of revision by supplementary note, it shall apply as if it required the signature to be on the supplementary note.
+>
+> (2) Where copies of the original directors' remuneration report have been sent out to members under section 238(1) of the Act [^f00006], laid before the company in general meeting under section 241(1) of the Act [^f00007] or delivered to the registrar under section 242(1) of the Act [^f00008], the directors shall, before approving the revised report under section 234C of the Act, cause statements as to the following matters to be made in a prominent position in the revised report (in the case of a revision by supplementary note, in that note)—
+>
+> - (a) in the case of a revision by replacement—
+>   - (i) that the revised report replaces the original report for the financial year (specifying it);
+>   - (ii) that it has been prepared as at the date of the original directors' remuneration report and not as at the date of revision and accordingly does not deal with any events between those dates;
+>   - (iii) the respects in which the original directors' remuneration report did not comply with the requirements of the Act; and
+>   - (iv) any significant amendments made consequential upon the remedying of those defects;
+> - (b) in the case of revision by a supplementary note—
+>   - (i) that the note revises in certain respects the original directors' remuneration report of the company and is to be treated as forming part of that report; and
+>   - (ii) that the directors' remuneration report has been revised as at the date of the original directors' remuneration report and not as at the date of the revision and accordingly does not deal with events between those dates,
+>
+> and shall, when approving the revised report, cause the date on which the approval is given to be stated in it (in the case of a revision by supplementary note, in that note); section 234B(3) [^f00009] shall apply with respect to a failure to comply with this paragraph as if the requirements of this paragraph were requirements of Part 7 of the Act.
+>
+> **5B. Approval and signature of revised operating and financial review**
+>
+> (1) Section 234AB of the Act (approval and signing of operating and financial review) shall apply to a revised operating and financial review, save that in the case of revision by supplementary note, it shall apply as if it required the signature to be on the supplementary note.
+>
+> (2) Where copies of the original operating and financial review have been sent out to members under section 238(1) of the Act, laid before the company in general meeting under section 241(1) of the Act or delivered to the registrar under section 242(1) of the Act, the directors shall, before approving the revised review under section 234AB of the Act, cause statements as to the following matters to be made in a prominent position in the revised review (in the case of a revision by supplementary note, in that note)—
+>
+> - (a) in the case of a revision by replacement—
+>   - (i) that the revised review replaces the original review for the financial year (specifying it);
+>   - (ii) that it has been prepared as at the date of the original operating and financial review and not as at the date of revision and accordingly does not deal with any events between those dates;
+>   - (iii) the respects in which the original operating and financial review did not comply with the requirements of the Act; and
+>   - (iv) any significant amendments made consequential upon the remedying of those defects;
+> - (b) in the case of revision by a supplementary note—
+>   - (i) that the note revises in certain respects the original operating and financial review of the company and is to be treated as forming part of that review; and
+>   - (ii) that the operating and financial review has been revised as at the date of the original operating and financial review and not as at the date of the revision and accordingly does not deal with events between those dates,
+>
+> and shall, when approving the revised review, cause the date on which the approval is given to be stated in it (in the case of a revision by supplementary note, in that note); section 234AA(5) [^f00010] shall apply with respect to a failure to comply with this paragraph as if the requirements of this paragraph were requirements of Part 7 of the Act.
+
+## 7. Auditors' report on revised accounts and revised report or review
+
+(1) Regulation 6 of the 1990 Regulations (auditors' report on revised accounts and revised report)[^f00011] is amended as follows.
+
+(2) In the heading, after “report” insert “or review”.
+
+(3) In paragraph (3)—
+
+- (a) after “provisions of the Act” insert “ (and, where applicable, Article 4 of the IAS Regulation)”, and
+- (b) after “requirements of the Act” insert “ (and, where applicable, Article 4 of the IAS Regulation)”.
+
+(4) In paragraph (4)—
+
+- (a) for “consider” substitute “state”,
+- (b) after “directors' report” insert “or operating and financial review”,
+- (c) after “the report” insert “or review”,
+- (d) after “revised report” insert “or review”, and
+- (e) omit from “and if they are of the opinion” to the end.
+
+## 8. Auditors' report on revised report or review alone
+
+(1) Regulation 7 of the 1990 Regulations (auditors' report on revised report)[^f00012] is amended as follows.
+
+(2) In the heading, after “report” insert “or review”.
+
+(3) In paragraphs (1) and (2), after “revised report” insert “or review”.
+
+(4) For paragraph (3) substitute—
+
+> (3) Where a revised directors' report is prepared under section 245, the auditors' report shall state whether in their opinion the information given in that revised report is consistent with the annual accounts for the relevant year (specifying it).
+>
+> (3A) Where a revised operating and financial review is prepared under section 245, the auditors' report shall state—
+>
+> - (a) whether in their opinion the information given in the revised review is consistent with the annual accounts for the relevant year (specifying it), and
+> - (b) whether any matters have come to their attention, in the performance of their functions as auditors of the company, which in their opinion are inconsistent with the information given in the revised review.
+>
+> (3B) Where a revised directors' remuneration report is prepared under section 245, the auditors' report shall state whether in their opinion any auditable part of that revised report has been properly prepared (“auditable part” being a part containing information required by Part 3 of Schedule 7A to the Act [^f00013]).
+
+## 9. Effect of revision
+
+(1) Regulation 9 of the 1990 Regulations (effect of revision)[^f00014] is amended as follows.
+
+(2) In paragraph (1)—
+
+- (a) for “revised report” in both places where it occurs, substitute “revised report or review”,
+- (b) after “Regulation 5” insert “, 5A or 5B (as the case may be)”, and
+- (c) after “directors' report” in both places where it occurs insert “, directors' remuneration report or operating and financial review (as the case may be)”.
+
+(3) In paragraph (2) —
+
+- (a) after “revised report” insert “or review”, and
+- (b) after “directors' report” insert “, directors' remuneration report or operating and financial review”.
+
+## 10. Publication of revised accounts and reports
+
+(1) Regulation 10 of the 1990 Regulations (publication of revised accounts and reports)[^f00015] is amended as follows.
+
+(2) In the heading, for “and reports”, substitute “, reports and reviews”.
+
+(3) In paragraph (1)—
+
+- (a) after “revised report” insert “or review”, and
+- (b) for “or report” substitute “, report or review”.
+
+(4) In paragraphs (2) and (3)—
+
+- (a) after “ revised report” in each place where it occurs insert “or review”, and
+- (b) after “that report” in both places where it occurs insert “or review”.
+
+(5) In paragraph (4)—
+
+- (a) after “ revised report” insert “or review”, and
+- (b) after “Regulation 5” insert “, 5A or 5B (as the case may be)”.
+
+## 11. Laying of revised accounts or a revised report
+
+(1) Regulation 11 of the 1990 Regulations (laying of revised accounts or a revised report) is amended as follows.
+
+(2) In the heading after “report” insert “or review”.
+
+(3) In paragraph (1)—
+
+- (a) after “ revised report” insert “or review”,
+- (b) for “or report” substitute “ , report or review”.
+
+(4) In paragraph (2)—
+
+- (a) after “revised report” in both places where it occurs insert “or review”, and
+- (b) after “that report” insert “ or review”.
+
+(5) In paragraph (3)(a) after “revised report” insert “or review”.
+
+## 12. Delivery of revised accounts or a revised report
+
+(1) Regulation 12 of the 1990 Regulations (delivery of revised accounts or a revised report) is amended as follows.
+
+(2) In the heading after “report” insert “or review”.
+
+(3) In paragraph (1)—
+
+- (a) after “revised report” insert “or review”, and
+- (b) for “or report” substitute “ , report or review”.
+
+(4) In paragraph (2)—
+
+- (a) after “revised report” in both places where it occurs insert “or review”, and
+- (b) after “that report” insert “ or review”.
+
+## 13. Small and medium-sized company abbreviated accounts where main accounts revised
+
+(1) Regulation 13 of the 1990 Regulations (effect on small and medium-sized company abbreviated accounts of revision of main accounts ) is amended as follows.
+
+(2) In paragraph (1), for “section 246” substitute “sections 246 [^f00016] and 246A [^f00017]”.
+
+(3) In paragraph (2)(b), for the words from “in accordance with” to “to the Act” substitute “ or 246A (as the case may be) in accordance with the provisions of those sections and (in the case of small companies) of Schedule 8A to the Act”.
+
+## 14. Small and medium-sized company abbreviated accounts where main accounts not revised
+
+(1) Regulation 13A of the 1990 Regulations (revision of small and medium-sized company abbreviated accounts where main accounts not revised)[^f00018] is amended as follows.
+
+(2) In paragraph (2)(a), for the words from “in accordance with” to “to the Act” substitute “ or 246A (as the case may be) in accordance with the provisions of those sections and (in the case of small companies) of Schedule 8A to the Act [^f00019]”.
+
+## 15. Summary financial statements
+
+(1) Regulation 14 of the 1990 Regulations (summary financial statements)[^f00020] is amended as follows.
+
+(2) For paragraph (1) substitute—
+
+> (1) This Regulation has effect (subject to Regulation 16(3)) where a summary financial statement has been sent to any person under section 251 of the Act [^f00021].
+
+(3) In paragraph (2) for “Where the summary financial statement” to “directors of the company shall” substitute “Where the summary financial statement does not comply with section 251 or the Companies (Summary Financial Statement) Regulations 1995, or if it had been prepared by reference to revised accounts or a revised report or review would not have complied with those requirements, the directors of the company shall, subject to paragraphs (3A) and (3B) below,”.
+
+(4) After paragraph (3) insert—
+
+> (3A) The directors of the company may, instead of causing the company to prepare a further summary financial statement under paragraph (2) above, cause the company to prepare and send to the persons mentioned in that paragraph a supplementary note indicating the corrections to the original summary financial statement, and section 251(1) to (2E) and (7) shall apply mutatis mutandis to such a supplementary note.
+>
+> (3B) A supplementary note prepared under the last paragraph shall contain a statement that it revises the original summary financial statement in certain respects and is to be treated as forming part of that statement.
+
+(5) In paragraph (4)—
+
+- (a) after “revised report” in both places where it occurs insert “or review”,
+- (b) after “directors' report” insert “, directors' remuneration report or operating and financial review”.
+
+(6) In paragraph (5), after “revised report” insert “or review”.
+
+(7) In paragraph (6), for “or the revised report” substitute “, the revised directors' report under Regulation 5 above, the revised directors' remuneration report under Regulation 5A above or the revised operating and financial review under Regulation 5B above”.
+
+## 16. Dormant companies
+
+In Regulation 15 of the 1990 Regulations (dormant companies), for “has passed a resolution under section 250 of the Act [^f00022] exempting itself” substitute “is exempt under section 249AA of the Act [^f00023]”.
+
+## 17. Modifications of the Act
+
+(1) Regulation 16 of the 1990 Regulations (modifications of the Act)[^f00024] is amended as follows.
+
+(2) In paragraph (1), after “directors' report” in each place where it occurs, insert “, directors' remuneration report or operating and financial review”.
+
+(3) In paragraph (2)—
+
+- (a) after “section 246” insert “or 246A”, and
+- (b) for “Schedule 8 [^f00025]” substitute “Schedule 8A”.
+
+(4) In paragraph (3)—
+
+- (a) for “accounts or report” substitute “accounts, report or review”, and
+- (b) omit from “Where the original summary financial statement” to the end.
+
+Gerry Sutcliffe
+
+Parliamentary Under Secretary of State
+
+Department of Trade and Industry
+
+3rd August 2005
+
+(This note is not part of the Regulations)
+
+These Regulations, which come into force on 1st October 2005, are made under section 245 of the Companies Act [1986 (c. 6)](https://www.legislation.gov.uk/ukpga/1986/6) (“the Act”). Section 245 concerns the voluntary revision by the directors of a company of defective accounts and reports prepared by the company. The Regulations further amend the Companies (Revision of Defective Accounts and Report) Regulations (S.I. [1990/2570](https://www.legislation.gov.uk/uksi/1990/2570)).
+
+Part 7 of the Act has previously been amended to require quoted companies (as defined in section 262) to prepare directors' remuneration reports (section 234B) and operating and financial reviews (section 234AA). The Regulations provide for the voluntary revision of such reports and reviews where they are defective (regulations 3 to 12).
+
+Regulations 13 and 14 make amendments consequential on previous amendments to the provisions of the Act concerning abbreviated accounts delivered to the registrar of companies by small and medium-sized companies.
+
+Regulation 15 amends the provisions in regulation 14 of the 1990 Regulations for revision of defective summary financial statements prepared under section 251 of the Act. The amendments provide for such a revised statement to be prepared whether or not the original accounts, reports or reviews on which they were based were defective. It also enables the revision to be by way of a supplementary note setting out the corrections made, as an alternative to the complete replacement of the original statement.
+
+The Regulations also make certain amendments consequential on EC Regulation No. 1606/2002 of the European Parliament and of the Council of 19th July 2002 on the application of international accounting standards (O.J. No. L243/1 of 11th September 2002) and on amendments made to Part 7 of the Act on accounts and audit by the Companies Act 1985 (International Accounting Standards and Other Accounting Amendments) Regulations 2004 (S.I. [2004/2947](https://www.legislation.gov.uk/uksi/2004/2947)) and by the Companies Act 1985 (Operating and Financial Review and Directors' Report etc.) Regulations 2005 (S.I. [2005/1011](https://www.legislation.gov.uk/uksi/2005/1011)).
+
+A full regulatory impact assessment of the effect that this instrument will have on the costs of business is available from the Department of Trade and Industry, Corporate Law and Governance Directorate, 1 Victoria Street, London SW1H 0ET (it is also available electronically at www.dti.gov.uk/cld). A copy has also been placed in the libraries of both Houses of Parliament.
+
+## Annotations
+
+[^f00001]: Footnote: [1985 c. 6](https://www.legislation.gov.uk/ukpga/1985/6). Section 245 was substituted by section 12 of the Companies Act [1989 (c. 40)](https://www.legislation.gov.uk/ukpga/1989/40), and amended by regulation 4 of, and paragraph 2 in Part 1 of Schedule 1 to, S.I. [1994/1935](https://www.legislation.gov.uk/uksi/1994/1935), by regulation 10(9) of S.I. [2002/1986](https://www.legislation.gov.uk/uksi/2002/1986), by regulations 3 and 10 of, and paragraph 11 of Schedule 1 to, S.I. [2004/2947](https://www.legislation.gov.uk/uksi/2004/2947), and by regulation 14 of S.I. [2005/1011](https://www.legislation.gov.uk/uksi/2005/1011).
+
+[^f00002]: Footnote: S.I. [1990/2570](https://www.legislation.gov.uk/uksi/1990/2570), as amended by regulation 10 of S.I. [1992/3075](https://www.legislation.gov.uk/uksi/1992/3075), by regulation 5 of, and Schedule 2 to, S.I. [1994/1935](https://www.legislation.gov.uk/uksi/1994/1935), by regulation 12 of S.I. [1995/2092](https://www.legislation.gov.uk/uksi/1995/2092) and by S.I. [1996/315](https://www.legislation.gov.uk/uksi/1996/315).
+
+[^f00003]: Footnote: Section 234C was inserted by regulation 3 of S.I. [2002/1986](https://www.legislation.gov.uk/uksi/2002/1986).
+
+[^f00004]: Footnote: Section 234AB was inserted by regulation 8 of S.I. [2005/1011](https://www.legislation.gov.uk/uksi/2005/1011).
+
+[^f00005]: Footnote: Sections 226A and 227A were inserted by regulation 2 of S.I. [2004/2947](https://www.legislation.gov.uk/uksi/2004/2947).
+
+[^f00006]: Footnote: Section 238 was substituted by section 10 of the Companies Act 1989, and amended by article 12 of S.I. [2000/3373](https://www.legislation.gov.uk/uksi/2000/3373), by regulation 10(4) of S.I. [2002/1986](https://www.legislation.gov.uk/uksi/2002/1986) and by regulation 19 of, and paragraph 2 of the Schedule to, S.I. [2005/1011](https://www.legislation.gov.uk/uksi/2005/1011).
+
+[^f00007]: Footnote: Section 241 was substituted by section 11 of the Companies Act 1989, and amended by regulation 10(7) of S.I. [2002/1986](https://www.legislation.gov.uk/uksi/2002/1986) and by regulation 19 of, and paragraph 4 of the Schedule to, S.I. [2005/1011](https://www.legislation.gov.uk/uksi/2005/1011)..
+
+[^f00008]: Footnote: Section 242 was substituted by section 11 of the Companies Act 1989, and amended by sections 30(1) and (4) and 35(1) of, and Schedule 2 to, the Welsh Language Act [1993 (c. 38)](https://www.legislation.gov.uk/ukpga/1993/38), by regulation 10(8) of S.I. [2002/1986](https://www.legislation.gov.uk/uksi/2002/1986) and by regulation 19 of, and paragraph 5 of the Schedule to, S.I. [2005/1011](https://www.legislation.gov.uk/uksi/2005/1011).
+
+[^f00009]: Footnote: Section 234B was inserted by regulation 3 of S.I. [2002/1986](https://www.legislation.gov.uk/uksi/2002/1986).
+
+[^f00010]: Footnote: Section 234AA was inserted by regulation 8 of S.I. [2005/1011](https://www.legislation.gov.uk/uksi/2005/1011).
+
+[^f00011]: Footnote: Regulation 6 was amended by regulation 3 of S.I. [1996/315](https://www.legislation.gov.uk/uksi/1996/315).
+
+[^f00012]: Footnote: Regulation 7 was amended by regulation 3 of S.I. [1996/315](https://www.legislation.gov.uk/uksi/1996/315).
+
+[^f00013]: Footnote: Schedule 7A was inserted by regulation 9 of, and the Schedule to, S.I. [2002/1986](https://www.legislation.gov.uk/uksi/2002/1986).
+
+[^f00014]: Footnote: Regulation 9 was amended by regulation 4 of S.I. [1996/315](https://www.legislation.gov.uk/uksi/1996/315).
+
+[^f00015]: Footnote: Regulation 10 was amended by regulation 10 of S.I. [1992/3075](https://www.legislation.gov.uk/uksi/1992/3075), and by regulation 5 of S.I. [1996/315](https://www.legislation.gov.uk/uksi/1996/315).
+
+[^f00016]: Footnote: Section 246 was substituted by regulation 2(1) of S.I. [1997/220](https://www.legislation.gov.uk/uksi/1997/220), and amended by regulation 6(1) of S.I. [1997/570](https://www.legislation.gov.uk/uksi/1997/570), by regulation 8(1) of S.I. [2000/1430](https://www.legislation.gov.uk/uksi/2000/1430), by regulations 3 and 13(2) of, and paragraph 12 of Schedule 1 to, S.I. [2004/2947](https://www.legislation.gov.uk/uksi/2004/2947) and by regulation 4 of S.I. [2005/1011](https://www.legislation.gov.uk/uksi/2005/1011).
+
+[^f00017]: Footnote: Section 246A was inserted by regulation 3 of S.I. [1997/220](https://www.legislation.gov.uk/uksi/1997/220), and amended by regulation 3 of, and paragraph 13 of Schedule 1 to, S.I. [2004/2947](https://www.legislation.gov.uk/uksi/2004/2947) and by regulation 5 of S.I. [2005/1011](https://www.legislation.gov.uk/uksi/2005/1011).
+
+[^f00018]: Footnote: Regulation 13A was inserted by regulation 6 of [S.I.1996/315](https://www.legislation.gov.uk/uksi/1996/315).
+
+[^f00019]: Footnote: Schedule 8A was inserted by regulation 2(3) of, and Schedule 2 to, S.I. [1997/220](https://www.legislation.gov.uk/uksi/1997/220), and amended by regulation 14(3) of, and Schedule 4 to, S.I. [2004/2947](https://www.legislation.gov.uk/uksi/2004/2947).
+
+[^f00020]: Footnote: Regulation 14 was amended by regulation 10 of S.I. [1992/3075](https://www.legislation.gov.uk/uksi/1992/3075), and by regulation 12 of S.I. [1995/2092](https://www.legislation.gov.uk/uksi/1995/2092).
+
+[^f00021]: Footnote: Section 251 was substituted by section 15 of the Companies Act [1989 (c. 40)](https://www.legislation.gov.uk/ukpga/1989/40), and amended by regulation 3 of S.I. [1992/3003](https://www.legislation.gov.uk/uksi/1992/3003), by article 14 of S.I. [2000/3373](https://www.legislation.gov.uk/uksi/2000/3373), by article 15 of S.I. [2001/3649](https://www.legislation.gov.uk/uksi/2001/3649), by regulation 8 of S.I. [2002/1986](https://www.legislation.gov.uk/uksi/2002/1986), by regulation 11 of S.I. [2004/2947](https://www.legislation.gov.uk/uksi/2004/2947), and by regulation 12 of S.I. [2005/1011](https://www.legislation.gov.uk/uksi/2005/1011).
+
+[^f00022]: Footnote: Section 250 was repealed by regulation 8(6) of S.I. [2000/1430](https://www.legislation.gov.uk/uksi/2000/1430).
+
+[^f00023]: Footnote: Section 249AA was inserted by regulation 3 of S.I. [2000/1430](https://www.legislation.gov.uk/uksi/2000/1430), and amended by article 13 of S.I. [2001/3649](https://www.legislation.gov.uk/uksi/2001/3649).
+
+[^f00024]: Footnote: Regulation 16 was amended by regulation 12 of S.I. [1995/2092](https://www.legislation.gov.uk/uksi/1995/2092), and by regulation 7 of S.I. [1996/315](https://www.legislation.gov.uk/uksi/1996/315).
+
+[^f00025]: Footnote: Schedule 8 was substituted by regulation 2(2) of, and Schedule 1 to, S.I. [1997/220](https://www.legislation.gov.uk/uksi/1997/220).

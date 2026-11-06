@@ -1,0 +1,43 @@
+---
+title: The Judicial Pensions Regulations 2015, section 146
+act: The Judicial Pensions Regulations 2015
+section: '146'
+status: revised
+text_date: '2024-12-17'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2015/182/section/146
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Judicial Pensions Regulations 2015, section 146
+
+> Text as at 2024-12-17.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 146. Meaning of “dual capacity member”[^key-668f98e87dfed4755ca528ccffe911c6]
+
+*Extent: E+W+S+N.I.*
+
+(1) A person (P) is a dual capacity member of this scheme if—
+
+- (a) P is a member of this scheme in 2 or more of the following capacities—
+  - (i) an active member;
+  - (ii) a deferred member;
+  - (iii) a pensioner member;
+- (b) P is both a pension credit member of this scheme and a member of this scheme in one or more of the following capacities—
+  - (i) an active member;
+  - (ii) a deferred member;
+  - (iii) a pensioner member;
+- (c) P is a member of this scheme in relation to 2 or more continuous periods of pensionable service; or
+- (d) P is a pension credit member of this scheme entitled to 2 or more pension credits.
+
+(2) For the purpose of paragraph (1)(a) or (b)—
+
+- (a) in determining whether a person who is an active member is also a pensioner member, the fact that the person is an active member and the person’s rights in that capacity are to be disregarded; and
+- (b) in determining whether a person who is an active member or pensioner member is also a deferred member, the fact that the person is an active member or pensioner member and the person’s rights in that capacity are to be disregarded.
+
+## Annotations
+
+[^key-668f98e87dfed4755ca528ccffe911c6]: Commencement: [Reg. 146](https://www.legislation.gov.uk/uksi/2015/182/regulation/146) in force at 1.4.2015, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/4)

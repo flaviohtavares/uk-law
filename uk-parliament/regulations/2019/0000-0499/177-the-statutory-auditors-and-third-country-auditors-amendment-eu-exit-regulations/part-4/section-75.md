@@ -1,0 +1,27 @@
+---
+title: The Statutory Auditors and Third Country Auditors (Amendment) (EU Exit) Regulations 2019, section 75
+act: The Statutory Auditors and Third Country Auditors (Amendment) (EU Exit) Regulations 2019
+section: '75'
+status: revised
+text_date: '2026-05-13'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2019/177/section/75
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Statutory Auditors and Third Country Auditors (Amendment) (EU Exit) Regulations 2019, section 75
+
+> Text as at 2026-05-13.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 75. Amendment of Regulation 537/2014[^key-e3c5f28a39c3e40e3e7e3ff7da620f87]
+
+*Extent: E+W+S+N.I.*
+
+Regulation (EU) No. 537/2014 of the European Parliament and of the Council of 16 April 2014 on specific requirements regarding statutory audit of public-interest entities and repealing Commission Decision [2005/909/EC](https://www.legislation.gov.uk/eudn/2005/909) is amended in accordance with regulations 76 to 104.
+
+## Annotations
+
+[^key-e3c5f28a39c3e40e3e7e3ff7da620f87]: Commencement: Reg. 75 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)

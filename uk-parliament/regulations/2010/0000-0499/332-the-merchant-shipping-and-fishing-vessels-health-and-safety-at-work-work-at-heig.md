@@ -1,0 +1,682 @@
+---
+title: The Merchant Shipping and Fishing Vessels (Health and Safety at Work) (Work at Height) Regulations 2010
+id: uksi/2010/332
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2010-02-11'
+text_date: '2026-04-10'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2010/332
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2010/332/pdfs/uksiem_20100332_en.pdf
+- http://www.legislation.gov.uk/uksi/2010/332/pdfs/uksi_20100332_en.pdf
+- http://www.legislation.gov.uk/uksi/2010/332/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Merchant Shipping and Fishing Vessels (Health and Safety at Work) (Work at Height) Regulations 2010
+
+> Text as at 2026-04-10.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2010 No. 332
+
+Merchant Shipping
+
+The Merchant Shipping and Fishing Vessels (Health and Safety at Work) (Work at Height) Regulations 2010
+
+Made
+
+11th February 2010
+
+Laid before Parliament
+
+18th February 2010
+
+Coming into force
+
+6th April 2010
+
+The Secretary of State makes the following Regulations in exercise of the powers conferred by section 2(2) of the European Communities Act 1972[^f00001] (“the 1972 Act”) and by sections 85 (1)(a) and (b), (3), (5) and (7) and 86(1) of the Merchant Shipping Act 1995[^f00002] (“the 1995 Act”).
+
+The Secretary of State is a Minister designated[^f00003] for the purposes of section 2(2) of the 1972 Act in relation to measures relating to the safety of ships and the health and safety of persons on them.
+
+In accordance with section 86(4) of the 1995 Act the Secretary of State has consulted the persons referred to in that section.
+
+## PART 1 — GENERAL
+
+### 1. Citation and commencement[^key-e95bd3aaf8e118b7552ebf2e76018556]
+
+These Regulations may be cited as the Merchant Shipping and Fishing Vessels (Health and Safety at Work) (Work at Height) Regulations 2010 and shall come into force on 6th April 2010.
+
+### 2. Interpretation[^key-3adc6862d1179855ed607ec1ee628477]
+
+(1) In these Regulations—
+
+- “the Act” means the Merchant Shipping Act 1995;
+- “access” and “egress” include ascent and descent;
+- “collective safeguard” means a system or device to prevent or arrest workers in general from falling while working at height, including a guardrail, barrier or safety net but excluding equipment for preventing or arresting the fall of an individual worker;
+- “the Directive” means Directive [2001/45/EC](https://www.legislation.gov.uk/european/directive/2001/0045) of the European Parliament and of the Council amending Council Directive [89/655/EEC](https://www.legislation.gov.uk/european/directive/1989/0655) concerning the minimum safety and health requirements for the use of work equipment by workers at work (second individual Directive within the meaning of Article 16(1) of Directive [89/391/EEC](https://www.legislation.gov.uk/european/directive/1989/0391))[^f00004];
+- “the General Duties Regulations” means the Merchant Shipping and Fishing Vessels (Health and Safety at Work) Regulations 1997[^f00005];
+- “employer” means a means a person by whom a worker is employed under a contract of employment;
+- [^key-2b58e2b1af802d277f4ca64d77cc180d]...
+- “health and safety” includes the occupational health and safety of persons whilst on board a ship and whilst boarding or leaving a ship;
+- “ladder” means any ladder, including a fixed ladder, a grappling ladder, a stepladder, a pilot ladder and a rope ladder;
+- “personal suspension equipment” means suspended access equipment for use by an individual, and includes a bosun’s chair and abseiling equipment;
+- “rope” includes a line, wire, chain or webbing;
+- “rope access and positioning techniques” includes personal suspension equipment;
+- “ship” includes hovercraft;
+- “surveyor of ships” has the meaning given by section 256(9) of the Act;
+- “United Kingdom ship” means a ship which—
+  - (a) is a United Kingdom ship within the meaning of section 85(2) of the Act or[^key-a7f4b8a8fdfeb4deeba4a9ddba813bd5] ;
+  - (b) [^key-a7f4b8a8fdfeb4deeba4a9ddba813bd5]...
+  - (c) is a hovercraft registered under the Hovercraft Act 1968[^f00006];
+- “United Kingdom waters” means the sea or other waters within the seaward limits of the territorial sea of the United Kingdom;
+- “work at height” means—
+  - (a) work in any place on a ship, including—
+    - (i) work alongside an open hatch or other opening in the ship’s structure;
+    - (ii) work in close proximity to, or supported from, the ship’s side;
+    - (iii) work on a permanent stairway, gangway, or companionway in or on the ship (other than where that permanent stairway, gangway or companionway is used as a means of obtaining access to or egress from any place on the ship); or
+  - (b) obtaining access to or egress from any place on a ship while at work except by a permanent stairway, gangway or companionway in or on the ship where that permanent stairway, gangway or companionway is used for the purpose it was designed for;
+
+  where, if the measures required by these Regulations were not taken, a person could fall a distance liable to cause personal injury;
+- “work equipment” means any machinery, appliance, apparatus, tool or installation for use at work (whether exclusively or not) and includes a working platform, means of preventing or arresting falls, personal suspension equipment and anything to which any provision of regulations 12 to 15 and Schedules 1 to 3 applies;
+- “the Work Equipment Regulations” means the Merchant Shipping and Fishing Vessels (Provision and Use of Work Equipment) Regulations 2006[^f00007] and the Merchant Shipping and Fishing Vessels (Lifting Operations and Lifting Equipment) Regulations 2006[^f00008];
+- “the Work Equipment Directive” means Council Directive [89/655/EEC](https://www.legislation.gov.uk/european/directive/1989/0655) concerning the minimum safety and health requirements for the use of work equipment by workers at work (second individual Directive within the meaning of Article 16(1) of Directive [89/391/EEC](https://www.legislation.gov.uk/european/directive/1989/0391))[^f00009], as amended by Council Directive [95/63/EC](https://www.legislation.gov.uk/european/directive/1995/0063)[^f00010];
+- “working platform” in relation to a ship, means any platform used as a place of work on the ship or as a means of access to or egress from a place of work on the ship, and—
+  - (a) includes any scaffold, scaffolding tower, suspended scaffold, cradle, mobile platform, trestle, gangway, run, gantry, stairway and crawling ladder (whether or not permanently attached to a ship);
+  - (b) does not include personal suspension equipment;
+  - (c) does not include a ship itself.
+
+(2) A reference in these Regulations to “application of the regulation 8 criteria” is a reference to following the process provided for in regulation 8.
+
+(3) Subject to paragraph (1) and regulation 3, words and expressions used in these Regulations have the same meaning as in the Directive and the Work Equipment Directive.
+
+(4) In the application of these Regulations to a hovercraft, a reference to the master of a ship includes a reference to the captain of that hovercraft.
+
+### 3. Meaning of “worker”[^key-fd50392580298cc52366ed05416c48b0]
+
+(1) In these Regulations “worker” means any person employed under a contract of employment, including a trainee or apprentice other than a person who is training in a vessel which is being used—
+
+- (a) to provide instruction in the principles of responsibility, resourcefulness, loyalty and team endeavour and to advance education in the art of seamanship; or
+- (b) to provide instruction in navigation and seamanship for yachtsmen,
+
+and which is operating under a relevant code.
+
+(2) In paragraph (1) “relevant code” means—
+
+- (a) the Large Commercial Yacht Code as set out in Merchant Shipping Notice No. 1792(M), issued by the Maritime and Coastguard Agency, an executive agency of the Department for Transport;
+- (b) the Code of Practice for the Safety of Small Commercial Sailing Vessels[^f00011];
+- (c) the Code of Practice for the Safety of Small Commercial Motor Vessels[^f00012]; or
+- (d) the Code of Practice for the Safety of Small Vessels in Commercial Use for Sport or Pleasure Operating from a Nominated Departure Point[^f00013].
+
+(3) In paragraph (2) each reference to a Code includes a reference to any document containing an amendment or replacement of that Code which is considered by the Secretary of State to be relevant from time to time.
+
+### 4. Application[^key-3d9f95831c2fd20459d3dbf560af6a10]
+
+(1) Without prejudice to regulation 5 of the General Duties Regulations, and subject to paragraphs (2) to (4), and regulation 5(1), these Regulations apply in relation to United Kingdom ships.
+
+(2) Where—
+
+- (a) a ship is being used in the course of public service activities or activities for the purposes of the civil protection services; and
+- (b) characteristics peculiar to those activities inevitably conflict with a provision of these Regulations,
+
+that provision does not apply in relation to that ship to the extent of that conflict.
+
+(3) To the extent that a provision of these Regulations does not apply in relation to a ship because of paragraph (2), there is in relation to that ship a duty on the employer to ensure, so far as is reasonably practicable, the health and safety of workers carrying out work at height.
+
+(4) This regulation (other than paragraph (1)) and regulations 5, 21 and 23 apply in relation to ships other than United Kingdom ships when they are in United Kingdom waters.
+
+(5) In paragraph (2)—
+
+- “civil protection services” includes the fire and rescue and ambulance services and search and rescue services provided by any other person;
+- “public service activities” includes the activities of the armed forces, HM Coastguard, HM Revenue and Customs, immigration officers, police, prison officers and the security and intelligence services.
+
+### 5. Application of related legislation[^key-02d220f6a32ebbb42c29397f9611605b]
+
+(1) These Regulations do not apply to the activities of a worker which are covered by the Work at Height Regulations 2005[^f00014] or the Work at Height (Northern Ireland) Regulations 2005[^f00015].
+
+(2) The General Duties Regulations and the Work Equipment Regulations continue to apply to the provision and use of work equipment to which these Regulations apply; where these Regulations contain more stringent or specific provisions then such provisions apply.
+
+(3) Where applicable—
+
+- (a) the Merchant Shipping (Means of Access) Regulations 1988[^f00016];
+- (b) the Merchant Shipping (Safe Movement on Board Ship) Regulations 1988[^f00017];
+- (c)[^key-bbf26f1d0f862cb4157179886009414c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d) the Merchant Shipping (Life Saving Appliances For Passenger Ships Of Classes III To VI(A) Regulations 1999[^f00019]; [^key-4d6ebb574122f798ff7f64b293e7fa9f]...
+- (e) the Merchant Shipping (Safety of Navigation) Regulations 2020[^key-7f907e7d86b7fd69bb7c6f0cc3bc638f]; and[^key-77f976e271360139f7e344b5cf310cb5]
+- (f) the Merchant Shipping (Life-Saving Appliances and Arrangements) Regulations 2020
+
+continue to apply to equipment provided and used in accordance with those Regulations, but without prejudice to any more stringent or specific provisions contained in these Regulations where such equipment is used for the carrying out of work at height.
+
+## PART 2 — DUTIES OF EMPLOYERS
+
+### 6. Competence[^key-acd7cee31a1e342903cc2cbbdd82f7b7]
+
+The employer shall ensure that no person engages in any activity, including organisation, planning and supervision, in relation to work at height or work equipment for use in such work, unless that person is competent to do so or, if being trained, is being supervised by a person who is competent to supervise and do that activity.
+
+### 7. Organisation of work at height[^key-25135087a7da61879c622c37f862d836]
+
+(1) The employer shall ensure that work at height is—
+
+- (a) properly planned;
+- (b) appropriately supervised; and
+- (c) carried out in a manner which is so far as is reasonably practicable safe,
+
+and that the planning includes the selection of work equipment by application of the regulation 8 criteria.
+
+(2) The employer shall ensure that temporary work is not carried out at height where it is reasonably practicable to carry out the work safely otherwise than at height.
+
+(3) The references in paragraph (1) to planning of work include planning for emergencies and rescue situations.
+
+### 8. Assessment and selection of work equipment for work at height[^key-db0ee475d34dee8c8c631f57c989e997]
+
+(1) In identifying the measures required by this regulation, the employer shall take account in particular of—
+
+- (a) the risk assessment required by regulation 7 of the General Duties Regulations (having regard to the general duties contained in regulation 5 of those Regulations and the particular risks of carrying out work at height);
+- (b) the requirements of regulation 6 of the Merchant Shipping and Fishing Vessels (Provision and Use of Work Equipment) Regulations 2006; and
+- (c) the requirements of regulation 7 of the Merchant Shipping and Fishing Vessels (Lifting Operations and Lifting Equipment) Regulations 2006.
+
+(2) The employer shall ensure that work equipment for temporary work at height provided for use or used by workers is the most suitable to ensure and maintain safe working conditions.
+
+(3) When providing work equipment in accordance with paragraph (2), the employer shall—
+
+- (a) give collective protection measures priority over personal protection measures;
+- (b) select work equipment that has characteristics including dimensions which—
+  - (i) are appropriate to the nature of the work to be performed;
+  - (ii) are appropriate to foreseeable loads and stresses;
+  - (iii) allow passage without danger; and
+- (c) in the case of work equipment which is a means of access to a workplace at height—
+  - (i) select the most suitable work equipment taking into account the frequency of passage, the height to be negotiated and the duration of use;
+  - (ii) ensure the choice of work equipment permits evacuation in the event of imminent danger; and
+  - (iii) ensure that passage in either direction between the work equipment selected and a working platform does not give rise to any additional risk of falling.
+
+### 9. Duty to minimise risks[^key-658a6ab984051a52dda7797c42e4c90b]
+
+(1) The employer shall take appropriate measures to minimise the risks inherent in the work equipment for work at height selected by application of the regulation 8 criteria.
+
+(2) Where necessary, the measures taken under paragraph (1) shall include the installation of safeguards which shall be of a suitable configuration and strength—
+
+- (a) to prevent, or where that is not possible, arrest falls from a height; and
+- (b) as far as possible, to preclude injury to workers.
+
+### 10. Weather conditions[^key-b891f894f7617e436a3ac535cd606dd1]
+
+The employer shall ensure that work at height, so far as is reasonably practicable, is carried out only when the weather conditions do not jeopardise the health or safety of persons involved in the work.
+
+## PART 3 — SPECIFIC REQUIREMENTS
+
+### 11. Application of this Part[^key-084a83fb38d239f14a6fc9208d38a290]
+
+The provisions of this Part apply in addition to the duties specified in Part 2.
+
+### 12. Collective safeguards[^key-c527d8a0f8bf5046d69fdf25ac6c7214]
+
+(1) The employer shall ensure that any collective safeguard provided in accordance with these Regulations is only interrupted at points of ladder, companionway or stairway access.
+
+(2) The employer shall ensure that, if a particular task requires the removal of a collective safeguard—
+
+- (a) the task is not performed unless effective compensatory safety measures have been taken; and
+- (b) the collective safeguard is reinstalled as soon as possible once the particular task is finished.
+
+(3) The duty in paragraph (2)(b) applies whether the task is finished on a temporary or permanent basis.
+
+### 13. Ladders[^key-a7edb7ff246e68e48ec05a6bdc3e4b89]
+
+(1) The employer shall ensure that a ladder is only used as a place of work if the application of the regulation 8 criteria has demonstrated that the use of safer work equipment is not justified because of the low risk and—
+
+- (a) the short duration of use of the ladder; or
+- (b) existing features of the ship that the employer cannot alter.
+
+(2) Where a ladder is used, as a place of work or a means of access to or egress from a place of work at height, the employer shall ensure that the provisions of Schedule 1 are complied with.
+
+### 14. Scaffolding[^key-9055c2f24fb15404361bea048b90fbec]
+
+The employer shall ensure that scaffolding is not used for work at height unless the provisions of Schedule 2 are complied with.
+
+### 15. Rope access and positioning techniques[^key-46c03c20df026e4fcbf343d0aa4e7c6a]
+
+(1) The employer shall ensure that rope access and positioning techniques are not used for work at height unless—
+
+- (a) the application of the regulation 8 criteria has demonstrated that—
+  - (i) the work can be performed safely; and
+  - (ii) the use of safer work equipment is not justified; and
+- (b) the provisions of Schedule 3 are complied with.
+
+(2) Where rope access and positioning techniques are used for work at height, the employer shall provide the worker with a seat with appropriate accessories if it is appropriate to do so in the light of application of the regulation 8 criteria and, in particular, the duration of the task and the ergonomic constraints under which the worker will be working.
+
+## PART 4 — DUTIES OF OTHER PERSONS
+
+### 16. Duties of other persons[^key-550b85763337c3df8fa91ef3558e64d3]
+
+(1) Where a person on whom a duty is imposed by any of the preceding provisions of these Regulations does not have control of the matter to which that provision relates because responsibility for the operation of the ship falls upon another person, that duty also extends to any other person who has control of that matter.
+
+(2) It is the duty of every worker while at work on a ship in relation to which these Regulations apply—
+
+- (a) to make full and proper use of any work equipment provided by the employer in pursuance of these Regulations for that worker’s use for work at height; and
+- (b) to comply with any instruction or training for the purposes of health or safety provided to that worker under—
+  - (i) regulation 9, 10 or 11 of the Merchant Shipping and Fishing Vessels (Provision and Use of Work Equipment) Regulations 2006; or
+  - (ii) regulation 7, 10 or 16 of the Merchant Shipping and Fishing Vessels (Lifting Operations and Lifting Equipment) Regulations 2006; or
+  - (iii) regulation 21 of the General Duties Regulations,
+
+  in so far as the instruction or training concerns work equipment to which these Regulations apply.
+
+## PART 5 — OFFENCES, PENALTIES, INSPECTIONS AND DETENTIONS
+
+### 17. Offences and penalties[^key-7d3c47baa5c83e6806033a2f4fe63595]
+
+(1) A person who fails to comply with regulation 7, 8 or 9 is guilty of an offence and liable—
+
+- (a) on summary conviction to a fine not exceeding the statutory maximum, or
+- (b) on conviction on indictment, to imprisonment for a term not exceeding two years or a fine (or both).
+
+(2) A person who fails to comply with regulation 6, 10, 12, 13, 14 or 15 is guilty of an offence and liable on summary conviction to a fine not exceeding level 4 on the standard scale.
+
+(3) A worker who fails to comply with regulation 16(2) is guilty of an offence and liable on summary conviction to a fine not exceeding level 2 on the standard scale.
+
+(4) Section 146(1) of the Act (enforcement of fines) applies to any fine imposed for an offence under paragraphs (1) and (2) as if the reference to proceedings against the owner or master of a ship for an offence under Chapter 2 were a reference to proceedings against any person for an offence under those paragraphs.
+
+### 18. Offences by bodies corporate and partnerships[^key-b88e1296177b3521a1bf22758fb206b7]
+
+(1) Where a body corporate is guilty of an offence under these Regulations and that offence is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, any director, manager, secretary or other similar officer of the body corporate or a person purporting to act in such a capacity, that person as well as the body corporate is guilty of that offence and is liable to be proceeded against and punished accordingly.
+
+(2) Where the affairs of a body corporate are managed by its members, paragraph (1) applies in relation to the acts and defaults of a member in connection with that member’s functions of management as if that member were a director of the body corporate.
+
+(3) Where an offence under these Regulations committed by a Scottish partnership is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, a partner, that partner as well as the partnership is guilty of that offence and liable to be proceeded against and punished accordingly.
+
+### 19. Onus of proving what is reasonably practicable[^key-00c474c628997284c3056d49c95be429]
+
+In any proceedings for an offence under these Regulations consisting of a failure to comply with a duty or a requirement to do something so far as is reasonably practicable, it shall be for the defendant to prove that it was not reasonably practicable to do more than was in fact done to satisfy that duty or requirement.
+
+### 20. Detention of a United Kingdom ship[^key-cc820e6eca9a521cc150466014a89b26]
+
+(1) Where a surveyor of ships is satisfied that there is or has been a failure by an employer or other person referred to in regulation 16(1) to comply in relation to any United Kingdom ship with the preceding requirements of these Regulations, that ship is liable to be detained until a surveyor of ships is satisfied that those requirements are complied with.
+
+(2) A surveyor of ships may permit a ship which is liable to be detained under paragraph (1) to proceed to sea for the purposes of proceeding to the nearest appropriate repair yard.
+
+(3) A ship shall not under this regulation be delayed or detained unreasonably.
+
+(4) Where a ship is detained because in relation to it there has been a failure to comply with the requirements of these Regulations, and that failure has ceased, a person having power to detain the ship shall, at the request of the owner or master, immediately release the ship—
+
+- (a) if no proceedings for an offence arising from the failure in question are instituted within the period of seven days beginning with the day on which the ship is detained;
+- (b) if proceedings for an offence arising from the failure in question, having been instituted within that period, are concluded without the employer or other person having control of the matter in question being convicted;
+- (c) if either—
+  - (i) the sum of £30,000 is paid to the Secretary of State by way of security, or
+  - (ii) security which, in the opinion of the Secretary of State, is satisfactory and is for an amount not less than £30,000 is given to the Secretary of State,
+
+  by or on behalf of the employer or other person having control of the matter in question;
+- (d) where the employer or other person having control of the matter in question is convicted of an offence arising from the failure in question, if any costs or expenses ordered to be paid by that person, and any fine imposed on that person, have been paid; or
+- (e) the release is ordered by a court or tribunal referred to in article 292 of the United Nations Convention on the Law of the Sea 1982[^f00021], and any bond or other financial security ordered by such court or tribunal is posted.
+
+(5) The Secretary of State shall repay any sum paid in pursuance of paragraph (4)(c) or release any security so given—
+
+- (a) if no proceedings for an offence arising from the failure in question are instituted within the period of seven days beginning with the day on which the sum is paid; or
+- (b) if proceedings for an offence arising from the failure in question, having been instituted within that period, are concluded without the employer or other person having control of the matter in question being convicted.
+
+(6) Where a sum has been paid, or security has been given, by any person in pursuance of paragraph (4)(c) and the employer or other person having control of the matter in question is convicted of an offence arising from the failure in question, the sum so paid or the amount made available under the security shall be applied as follows—
+
+- (a) first in payment of any costs or expenses ordered by the court to be paid by the employer or other person having control of the matter in question; and
+- (b) next in payment of any fine imposed by the court;
+
+and any balance shall be repaid to the first-mentioned person.
+
+(7) Section 145 of the Act (interpretation of section 144) applies for the purposes of paragraphs (4) to (6) as if—
+
+- (a) references to the master or owner of the ship were references to the employer or other person having control of the matter in question; and
+- (b) references to an offence under section 131 were references to an offence arising from the failure in question.
+
+### 21. Inspection and other measures in respect of ships registered outside the United Kingdom[^key-51b0403fa39431161a903041c8786bf5]
+
+(1) When a ship which is not a United Kingdom ship is in United Kingdom waters, a relevant inspector may inspect that ship to ascertain whether the standards required in relation to United Kingdom ships by these Regulations are met in relation to that ship.
+
+(2) Where a surveyor of ships is satisfied that the standards required in relation to United Kingdom ships by these Regulations are not met in relation to a ship which is not a United Kingdom ship but is in United Kingdom waters, that surveyor of ships may—
+
+- (a) send a report to the government of the State whose flag the ship is entitled to fly, and a copy to the Director General of the International Labour Office; and
+- (b) where conditions on board are clearly hazardous to health or safety, take such measures as are necessary to ensure those conditions are rectified.
+
+(3) A ship to which paragraph (2)(b) applies is liable to be detained until a surveyor of ships is satisfied that those conditions are rectified.
+
+(4) A surveyor of ships may permit a ship which is liable to be detained under paragraph (3) to proceed to sea for the purposes of proceeding to the nearest appropriate repair yard.
+
+(5) If any of the measures specified in paragraph (2)(b) or (3) are taken, the surveyor of ships shall immediately notify the nearest maritime, consular or diplomatic representative of the State whose flag the ship is entitled to fly.
+
+(6) A ship shall not in the exercise of the power under this regulation be delayed or detained unreasonably.
+
+(7) In paragraph (1), “relevant inspector” means a person mentioned in paragraph (a), (b) or (c) of section 258(1) of the Act[^f00022].
+
+### 22. Application of powers of inspectors in relation to Government ships[^key-4ad6e6640af7330eb6f1a9300b1bf306]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 23. Enforcement of detention[^key-3c945b7f3058c1d85dd4996d515972eb]
+
+(1) Section 284 of the Act[^f00024] (enforcing detention of ship) applies where a ship is liable to be detained under these Regulations as if—
+
+- (a) references to detention of a ship under the Act were references to detention of a ship in question under these Regulations; and
+- (b) subsection (7) were omitted.
+
+(2) Where a ship is liable to be detained under these Regulations, the person detaining the ship shall serve on the master of the ship a detention notice which shall—
+
+- (a) state that a surveyor of ships is of the opinion that in relation to that ship there is a failure to comply with the requirements of these Regulations;
+- (b) specify the matters which, in the opinion of the surveyor of ships, have the effect that in relation to that ship those requirements are not met; and
+- (c) require the terms of the notice to be complied with until the ship is released by any person mentioned in section 284(1) of the Act.
+
+### 24. Right of appeal and compensation[^key-0b127d57a3c7b37412c1e255336cc9fc]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 25. Prohibition on charging of workers[^key-6b68c3717cb0d86f924b01edde1297b8]
+
+No charge in respect of anything done or provided in accordance with any requirement of these Regulations may be made or permitted to be made on any worker.
+
+Signed by authority of the Secretary of State
+
+Paul Clark
+
+Parliamentary Under Secretary of State
+
+Department for Transport
+
+11th February 2010
+
+## SCHEDULE 1 — REQUIREMENTS FOR LADDERS
+
+Regulation 13(2)
+
+**1.**[^key-0e5a0b2a6a4a91c1bd9c0b930c791949] A ladder shall be positioned so as to ensure its stability during use.
+
+**2.**[^key-8831d59f8e0e2addd61163364d2dd18a] (1) A suspended ladder shall be attached in a manner that —
+
+- (a) is secure;
+- (b) ensures it cannot be displaced; and
+- (c) prevents it swinging.
+
+(2) Paragraphs (b) and (c) of sub-paragraph (1) do not apply to a rope ladder.
+
+**3.**[^key-71dababfb20105858ee3e451185c3322] (1) A portable ladder shall rest on footing that is stable, firm, of sufficient strength and of suitable size and composition safely to support the ladder so that its rungs or steps remain horizontal.
+
+(2) Where, owing to the movement of a ship, it is not reasonably practicable to ensure that the rungs or steps of a portable ladder remain horizontal, all appropriate measures shall be taken to ensure the stability of the portable ladder.
+
+**4.**[^key-507579048d09f792ec35119eeb839be8] The feet of a portable ladder shall be prevented from slipping during use by—
+
+- (a) securing the stiles at or near their upper or lower ends;
+- (b) any anti-slip device; or
+- (c) any other arrangement of equivalent effectiveness.
+
+**5.**[^key-239f3826426909af185c3c7af919378c] A ladder used for access shall be long enough to protrude sufficiently above the place of landing to which it provides access, unless other measures have been taken to ensure a firm handhold.
+
+**6.**[^key-bd8f321397bc9aee3d79372a5dce672b] No interlocking or extension ladder shall be used unless its sections are prevented from moving relative to each other while in use.
+
+**7.**[^key-0e5fb44c7177a5829b80774dfbbe6244] A mobile ladder shall be prevented from moving before it is stepped on.
+
+**8.**[^key-347cf2284ac0c56fbe9ed555a2de3456] A ladder shall be used in such a way that—
+
+- (a) a secure handhold and secure support are always available to the user; and
+- (b) the user can maintain a safe handhold when carrying a load by hand.
+
+## SCHEDULE 2 — REQUIREMENTS FOR SCAFFOLDING
+
+Regulation 14
+
+**1.**[^key-b5dad3950e5d4d671a1416ddfff8f891] Strength and stability calculations for scaffolding shall be carried out unless—
+
+- (a) a note of the calculations, covering the structural arrangements contemplated, is available; or
+- (b) the scaffolding is assembled in conformity with a generally recognised standard configuration.
+
+**2.**[^key-1caeea7561dc632cef6b2f8760ee036e] Depending on the complexity of the scaffolding chosen, an assembly, use and dismantling plan shall be drawn up by a competent person. This may be in the form of a standard plan, supplemented by items relating to specific details of the scaffolding in question.
+
+**3.**[^key-8a991d1b56df77a0a26bc63cc80ef83e] A copy of the plan, including any instructions it may contain, shall be made available for the use of the person supervising and the workers concerned in, the assembly, use, dismantling or alteration of the scaffolding.
+
+**4.**[^key-93b31f8d1f49725f68fbaf8f5ada4985] The bearing components of the scaffolding shall be prevented from slipping by—
+
+- (a) attachment to the bearing surface;
+- (b) provision of an anti-slip device; or
+- (c) any other arrangement of equivalent effectiveness.
+
+**5.**[^key-e897dd61a6e0d6295261292ac180d309] The load-bearing surface of the scaffolding shall be of sufficient capacity.
+
+**6.**[^key-68a021ae67c49b9000de5156bb052d51] The scaffolding shall be assembled and positioned to ensure its stability.
+
+**7.**[^key-793ac6845fa6c253db33b867f0d24265] Wheeled scaffolding shall be prevented by appropriate devices from moving accidentally during work at height.
+
+**8.**[^key-46973b1e94d1dccc8369ee513a2decba] The dimensions, form and layout of scaffolding decks shall—
+
+- (a) be appropriate to the nature of the work to be performed;
+- (b) be suitable for the loads to be carried; and
+- (c) permit work and passage in safety.
+
+**9.**[^key-7f4d522ad6a016151c101698139b25de] Scaffolding decks shall be assembled in such a way that their components are prevented from moving inadvertently during work at height.
+
+**10.**[^key-280d5ac337b22819af7e85d7e3ff52f3] There shall be no dangerous gaps between the scaffolding deck components and the vertical collective safeguards to prevent falls.
+
+**11.**[^key-154ae7f3eeecf1cb0f8b45159a720be7] When any part of a scaffold is not available for use, including during the assembly, dismantling or alteration of scaffolding, it shall be—
+
+- (a) marked with general warning signs in accordance with the Merchant Shipping and Fishing Vessels (Safety Signs and Signals) Regulations 2001[^f00026]; and
+- (b) suitably delineated by physical means preventing access to the danger zone.
+
+**12.**[^key-0b91a9a2883a05337f2b5a9d52b31f67] Scaffolding shall be assembled, dismantled or significantly altered only under the supervision of a competent person and by workers who have received appropriate and specific training in the operations envisaged in accordance with regulation 12 of the General Duties Regulations and regulation 11 of the Work Equipment Regulations, which shall include training about—
+
+- (a) understanding the plan for the assembly, dismantling or alteration of the scaffolding;
+- (b) safety during the assembly, dismantling or alteration of the scaffolding;
+- (c) measures to prevent the risk of persons or objects falling;
+- (d) safety measures in the event of changing weather conditions which could adversely affect the safety of the scaffolding;
+- (e) permissible loads;
+- (f) any other risks which the assembly, dismantling or alteration of the scaffolding may entail.
+
+**13.**[^key-38db0a428ab11bb2c05e0457c6cdc192] For the purposes of any provision of this Schedule, “competent person” means the person possessing the knowledge or experience necessary for the performance of the duties imposed on that person by that provision.
+
+**14.**[^key-160ac3740776381950b89b05a4949cbf] For the purposes of paragraphs 2 and 3 of this Schedule, the keeping of a copy of a plan includes keeping the plan in a form—
+
+- (a) in which it is capable of being reproduced as a printed copy when required; and
+- (b) which is secure from loss or unauthorised interference.
+
+## SCHEDULE 3 — REQUIREMENTS FOR ROPE ACCESS AND POSITIONING TECHNIQUES
+
+Regulation 15(1)(b)
+
+**1.**[^key-92f0aa55c7921432bd5eac1cdde3e454] A rope access or positioning technique shall be used only if—
+
+- (a) subject to paragraph 2, it involves a system comprising at least two separately anchored ropes, of which one (“the working rope”) is used as a means of access, egress and support and the other is the safety rope;
+- (b) the worker is provided with and uses a suitable harness and is connected by it to the working rope and the safety rope;
+- (c) the working rope is equipped with safe means of ascent and descent and has a self-locking system to prevent the worker falling should the worker lose control of his or her movements;
+- (d) the safety rope is equipped with a mobile fall prevention system which is connected to and travels with the worker;
+- (e) the tools and other accessories to be used by the worker are secured to the worker’s harness or seat or by some other suitable means; and
+- (f) appropriate training in accordance with regulation 9, 10 or 11 of the Work Equipment Regulations, including training in rescue procedures, has been provided to the worker or workers concerned.
+
+**2.**[^key-4601ea820abfb2c2cb2e52199b4f40d2] A rope access or positioning technique may involve a system comprising a single rope where—
+
+- (a) the risk assessment has demonstrated that the use of a second line would entail higher risk to persons; and
+- (b) appropriate measures have been taken to ensure safety.
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations implement Council Directive [2001/45/EC](https://www.legislation.gov.uk/european/directive/2001/0045) of the European Parliament and of the Council of 27 June 2001, (O.J. L. 195, 19.7.2001, p. 46) amending Council Directive [89/655/EEC](https://www.legislation.gov.uk/european/directive/1989/0655) concerning the minimum safety and health requirements for the use of work equipment by workers at work, (O.J. L. 393, 30.12.1989, p.1) (second individual Directive within the meaning of Article 16(1) of Directive [89/391/EEC](https://www.legislation.gov.uk/european/directive/1989/0391)) (O.J. L. 245, 26.8.1992, p.6) as it applies to the maritime sector.
+
+These Regulations should be read in conjunction with the Merchant Shipping and Fishing Vessels (Health and Safety at Work) Regulations 1997 ([S.I. 1997/2962](https://www.legislation.gov.uk/uksi/1997/2962)) (“the General Duties Regulations”) and the Merchant Shipping and Fishing Vessels (Provision and Use of Work Equipment) Regulations 2006 ([S.I. 2006/2183](https://www.legislation.gov.uk/uksi/2006/2183)) (“the Work Equipment Regulations”). The General Duties Regulations set out the general principles for health and safety on ships, and the Work Equipment Regulations regulate the provision and use of safe work equipment on board ships. These Regulations contain more specific requirements for work equipment for work at height.
+
+*Regulation 1* provides for the commencement of the Regulations. Terms used in the Regulations are defined in *regulations* *2* and *3*, and the circumstances in which the Regulations are to apply are set out in *regulations* *4* *and 5*.
+
+*Part 2* of the Regulations sets out the duties imposed on employers.
+
+*Regulation 6* imposes requirements regarding the competence of workers and those supervising, managing or overseeing work at height. *Regulation 7* requires that work at height is planned and supervised, and that temporary work at height is avoided where it is reasonably practicable to do so. In so doing, *Regulation 8* requires that the employer must have regard in particular to the risk assessments carried out under the General Duties Regulations and the Work Equipment Regulations, and ensure that work equipment for temporary work at height made available to workers on the ship is the most suitable to ensure and maintain safe working conditions. These criteria are referred to as “the regulation 8 criteria”.
+
+*Regulation* *9* imposes a supplementary duty to minimise risks inherent in work equipment for work at height. *Regulation 10* makes provision for weather conditions.
+
+*Part 3* of the Regulations deals with specific types of work at height. *Regulation 12* contains supplementary provisions regarding collective safeguards. *Regulation 13* and *Schedule 1* set out requirements for the use of ladders*. Regulation 14*, read with *Schedule 2*, deals with scaffolding. *Regulation 15* and *Schedule 3* deal with rope access and positioning techniques.
+
+*Regulation 16* provides for duties on persons other than employers.
+
+*Regulations 17to 24* concern offences, penalties, inspection, detention and compensation.
+
+*Regulation 25* prohibits workers being charged for anything done or provided in accordance with any requirement of these Regulations.
+
+These Regulations are made under the powers in the Merchant Shipping Act 1995 except in respect of their application to Government ships (*regulation 2(1))* where the power is provided by section 2(2) of the European Communities Act 1972.
+
+An Impact Assessment and a Transposition Note have been prepared and a copy has been placed in the library of each House of Parliament. Copies can be obtained from the Maritime and Coastguard Agency, Spring Place, 105 Commercial Road, Southampton, SO15 1EG (telephone number 02380 329100). They are also annexed to the Explanatory Memorandum which is available on the Office of Public Sector Information website http://www.opsi.gov.uk.
+
+Merchant Shipping Notices can be obtained from M-Notices Subscriptions, PO Box 362, Europa Park, Grays, Essex, RM17 9AY (telephone 01375 484548; fax 01375 484556; e-mail orders: mnotices@ecgroup.co.uk). They may also be accessed via the Maritime and Coastguard Agency’s website http://www.mcga.gov.uk.
+
+## Annotations
+
+[^f00001]: Footnote: [1972 c.68](https://www.legislation.gov.uk/ukpga/1972/68); by virtue of the amendment of section 1(2) of the European Communities Act by section 1 of the European Economic Area Act [1993 (c.51)](https://www.legislation.gov.uk/ukpga/1993/51) regulations may be made under section 2(2) of the European Communities Act to implement obligations of the United Kingdom created or arising by or under the Agreement on the European Economic Area signed at Oporto on 2nd May 1992 (Cm 2073) and the Protocol adjusting the Agreement signed at Brussels on 17th March 1993 (Cm 2183).
+
+[^f00002]: Footnote: [1995 c.21](https://www.legislation.gov.uk/ukpga/1995/21); subsections (1) and (3) of section 85 were amended by the Merchant Shipping and Maritime Security Act [1997 (c.28)](https://www.legislation.gov.uk/ukpga/1997/28), sections 8 and 29(2) and Schedule 7 Part I, and sections 85 and 86 of the Merchant Shipping Act 1995 apply in relation to hovercraft as they apply in relation to ships, by virtue of article 4 of the Hovercraft (Application of Enactments) Order 1989 ([S.I. 1989/1350](https://www.legislation.gov.uk/uksi/1989/1350), to which there are amendments not relevant to these Regulations) and section 17(2)(a) of the Interpretation Act [1978 (c.30)](https://www.legislation.gov.uk/ukpga/1978/30).
+
+[^f00003]: Footnote: [S.I. 1993/595](https://www.legislation.gov.uk/uksi/1993/595).
+
+[^key-e95bd3aaf8e118b7552ebf2e76018556]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2010/332/regulation/1) in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/332/regulation/1)
+
+[^key-3adc6862d1179855ed607ec1ee628477]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2010/332/regulation/2) in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/332/regulation/1)
+
+[^f00004]: Footnote: OJ No L 195, 19.7.2001, p. 46. The application of the Directive was extended to the EEA from 20th April 2002 by virtue of Decision No. 39/2002 of the EEA Joint Committee (O.J. No L 154, 13.6.2002, p. 25) which inserted a reference to the Directive in point 10 of Annex XVIII to the EEA Agreement.
+
+[^f00005]: Footnote: [S.I. 1997/2962](https://www.legislation.gov.uk/uksi/1997/2962), as amended by [S.I. 1998/2411](https://www.legislation.gov.uk/uksi/1998/2411) and [S.I. 2001/54](https://www.legislation.gov.uk/uksi/2001/54).
+
+[^key-2b58e2b1af802d277f4ca64d77cc180d]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2010/332/regulation/2/1) omitted (10.4.2026) by virtue of [The Merchant Shipping (Maritime Labour Convention and Miscellaneous Amendments) Regulations 2026 (S.I. 2026/260)](https://www.legislation.gov.uk/uksi/2026/260), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/260/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2026/260/schedule/1)
+
+[^key-a7f4b8a8fdfeb4deeba4a9ddba813bd5]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2010/332/regulation/2/1) inserted (10.4.2026) by [The Merchant Shipping (Maritime Labour Convention and Miscellaneous Amendments) Regulations 2026 (S.I. 2026/260)](https://www.legislation.gov.uk/uksi/2026/260), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/260/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2026/260/schedule/1)
+
+[^f00006]: Footnote: [1968 c.59](https://www.legislation.gov.uk/ukpga/1968/59).
+
+[^f00007]: Footnote: [S.I. 2006/2183](https://www.legislation.gov.uk/uksi/2006/2183).
+
+[^f00008]: Footnote: [S.I. 2006/2184](https://www.legislation.gov.uk/uksi/2006/2184).
+
+[^f00009]: Footnote: O.J. No L 393, 30.12.1989, p. 13.
+
+[^f00010]: Footnote: O.J. No L 335, 30.12.1995, p. 28.
+
+[^key-fd50392580298cc52366ed05416c48b0]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2010/332/regulation/3) in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/332/regulation/1)
+
+[^f00011]: Footnote: Published by the Stationery Office in 1993 (ISBN 0-11-551184-9).
+
+[^f00012]: Footnote: Published by the Stationery Office in 1993 (ISBN 0-11-551185-7).
+
+[^f00013]: Footnote: Published by the Stationery Office in 1999 (ISBN 9-11-551812-6).
+
+[^key-3d9f95831c2fd20459d3dbf560af6a10]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2010/332/regulation/4) in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/332/regulation/1)
+
+[^key-02d220f6a32ebbb42c29397f9611605b]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2010/332/regulation/5) in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/332/regulation/1)
+
+[^f00014]: Footnote: [S.I. 2005/735](https://www.legislation.gov.uk/uksi/2005/735).
+
+[^f00015]: Footnote: [S.R. (NI) 2005 No 279](https://www.legislation.gov.uk/nisr/2005/279).
+
+[^f00016]: Footnote: [S.I. 1988/1637](https://www.legislation.gov.uk/uksi/1988/1637), as amended by [S.I. 1988/2274](https://www.legislation.gov.uk/uksi/1988/2274), [S.I. 1993/1072](https://www.legislation.gov.uk/uksi/1993/1072) and [S.I. 2005/2114](https://www.legislation.gov.uk/uksi/2005/2114).
+
+[^f00017]: Footnote: [S.I 1988/1641](https://www.legislation.gov.uk/uksi/1988/1641), as amended by [S.I.1988/2274](https://www.legislation.gov.uk/uksi/1988/2274), [S.I. 1993/1072](https://www.legislation.gov.uk/uksi/1993/1072) and [S.I. 2005/2114](https://www.legislation.gov.uk/uksi/2005/2114).
+
+[^key-bbf26f1d0f862cb4157179886009414c]: Textual amendment: [Reg. 5(3)(c)](https://www.legislation.gov.uk/uksi/2010/332/regulation/5/3/c) omitted (9.6.2020) by virtue of [The Merchant Shipping (Life-Saving Appliances and Arrangements) Regulations 2020 (S.I. 2020/501)](https://www.legislation.gov.uk/uksi/2020/501), [reg. 1](https://www.legislation.gov.uk/uksi/2020/501/regulation/1), [Sch. 1 para. 15(a)](https://www.legislation.gov.uk/uksi/2020/501/schedule/1/paragraph/15/a) (with [reg. 4](https://www.legislation.gov.uk/uksi/2020/501/regulation/4))
+
+[^f00019]: Footnote: [S.I 1999/2723](https://www.legislation.gov.uk/uksi/1999/2723), as amended by [S.I. 2000/2687](https://www.legislation.gov.uk/uksi/2000/2687) and [S.I. 2001/2642](https://www.legislation.gov.uk/uksi/2001/2642).
+
+[^key-4d6ebb574122f798ff7f64b293e7fa9f]: Textual amendment: Word in [reg. 5(3)(d)](https://www.legislation.gov.uk/uksi/2010/332/regulation/5/3/d) omitted (9.6.2020) by virtue of [The Merchant Shipping (Life-Saving Appliances and Arrangements) Regulations 2020 (S.I. 2020/501)](https://www.legislation.gov.uk/uksi/2020/501), [reg. 1](https://www.legislation.gov.uk/uksi/2020/501/regulation/1), [Sch. 1 para. 15(b)](https://www.legislation.gov.uk/uksi/2020/501/schedule/1/paragraph/15/b) (with [reg. 4](https://www.legislation.gov.uk/uksi/2020/501/regulation/4))
+
+[^key-7f907e7d86b7fd69bb7c6f0cc3bc638f]: Textual amendment: Words in [reg. 5(3)(e)](https://www.legislation.gov.uk/uksi/2010/332/regulation/5/3/e) substituted (31.7.2020) by [The Merchant Shipping (Safety of Navigation) Regulations 2020 (S.I. 2020/673)](https://www.legislation.gov.uk/uksi/2020/673), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/673/regulation/1/1), [Sch. para. 13](https://www.legislation.gov.uk/uksi/2020/673/schedule/paragraph/13) (with [reg. 3](https://www.legislation.gov.uk/uksi/2020/673/regulation/3))
+
+[^key-77f976e271360139f7e344b5cf310cb5]: Textual amendment: [Reg. 5(3)(f)](https://www.legislation.gov.uk/uksi/2010/332/regulation/5/3/f) and word inserted (9.6.2020) by [The Merchant Shipping (Life-Saving Appliances and Arrangements) Regulations 2020 (S.I. 2020/501)](https://www.legislation.gov.uk/uksi/2020/501), [reg. 1](https://www.legislation.gov.uk/uksi/2020/501/regulation/1), [Sch. 1 para. 15(c)](https://www.legislation.gov.uk/uksi/2020/501/schedule/1/paragraph/15/c) (with [reg. 4](https://www.legislation.gov.uk/uksi/2020/501/regulation/4))
+
+[^key-acd7cee31a1e342903cc2cbbdd82f7b7]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2010/332/regulation/6) in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/332/regulation/1)
+
+[^key-25135087a7da61879c622c37f862d836]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2010/332/regulation/7) in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/332/regulation/1)
+
+[^key-db0ee475d34dee8c8c631f57c989e997]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2010/332/regulation/8) in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/332/regulation/1)
+
+[^key-658a6ab984051a52dda7797c42e4c90b]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2010/332/regulation/9) in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/332/regulation/1)
+
+[^key-b891f894f7617e436a3ac535cd606dd1]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2010/332/regulation/10) in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/332/regulation/1)
+
+[^key-084a83fb38d239f14a6fc9208d38a290]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2010/332/regulation/11) in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/332/regulation/1)
+
+[^key-c527d8a0f8bf5046d69fdf25ac6c7214]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2010/332/regulation/12) in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/332/regulation/1)
+
+[^key-a7edb7ff246e68e48ec05a6bdc3e4b89]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2010/332/regulation/13) in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/332/regulation/1)
+
+[^key-9055c2f24fb15404361bea048b90fbec]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2010/332/regulation/14) in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/332/regulation/1)
+
+[^key-46c03c20df026e4fcbf343d0aa4e7c6a]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2010/332/regulation/15) in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/332/regulation/1)
+
+[^key-550b85763337c3df8fa91ef3558e64d3]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2010/332/regulation/16) in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/332/regulation/1)
+
+[^key-7d3c47baa5c83e6806033a2f4fe63595]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2010/332/regulation/17) in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/332/regulation/1)
+
+[^key-b88e1296177b3521a1bf22758fb206b7]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2010/332/regulation/18) in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/332/regulation/1)
+
+[^key-00c474c628997284c3056d49c95be429]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2010/332/regulation/19) in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/332/regulation/1)
+
+[^key-cc820e6eca9a521cc150466014a89b26]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2010/332/regulation/20) in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/332/regulation/1)
+
+[^f00021]: Footnote: Cmnd. 8941.
+
+[^key-51b0403fa39431161a903041c8786bf5]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2010/332/regulation/21) in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/332/regulation/1)
+
+[^f00022]: Footnote: Section 258(1) was amended by the Merchant Shipping and Maritime Security Act [1997 (c.28)](https://www.legislation.gov.uk/ukpga/1997/28), sections 9 and 29(2), Schedule 1 paragraph 4 and Schedule 9 Part I.
+
+[^key-4ad6e6640af7330eb6f1a9300b1bf306]: Textual amendment: [Reg. 22](https://www.legislation.gov.uk/uksi/2010/332/regulation/22) omitted (10.4.2026) by virtue of [The Merchant Shipping (Maritime Labour Convention and Miscellaneous Amendments) Regulations 2026 (S.I. 2026/260)](https://www.legislation.gov.uk/uksi/2026/260), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/260/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2026/260/schedule/1)
+
+[^key-3c945b7f3058c1d85dd4996d515972eb]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/2010/332/regulation/23) in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/332/regulation/1)
+
+[^f00024]: Footnote: Section 284 was amended by the Merchant Shipping and Maritime Security Act 1997, section 9 and Schedule 1 paragraph 5.
+
+[^key-0b127d57a3c7b37412c1e255336cc9fc]: Textual amendment: [Reg. 24](https://www.legislation.gov.uk/uksi/2010/332/regulation/24) omitted (10.4.2026) by virtue of [The Merchant Shipping (Maritime Labour Convention and Miscellaneous Amendments) Regulations 2026 (S.I. 2026/260)](https://www.legislation.gov.uk/uksi/2026/260), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/260/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2026/260/schedule/1)
+
+[^key-6b68c3717cb0d86f924b01edde1297b8]: Commencement: [Reg. 25](https://www.legislation.gov.uk/uksi/2010/332/regulation/25) in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/332/regulation/1)
+
+[^key-0e5a0b2a6a4a91c1bd9c0b930c791949]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2010/332/schedule/1/paragraph/1) in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/332/regulation/1)
+
+[^key-8831d59f8e0e2addd61163364d2dd18a]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2010/332/schedule/1/paragraph/2) in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/332/regulation/1)
+
+[^key-71dababfb20105858ee3e451185c3322]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2010/332/schedule/1/paragraph/3) in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/332/regulation/1)
+
+[^key-507579048d09f792ec35119eeb839be8]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2010/332/schedule/1/paragraph/4) in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/332/regulation/1)
+
+[^key-239f3826426909af185c3c7af919378c]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2010/332/schedule/1/paragraph/5) in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/332/regulation/1)
+
+[^key-bd8f321397bc9aee3d79372a5dce672b]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2010/332/schedule/1/paragraph/6) in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/332/regulation/1)
+
+[^key-0e5fb44c7177a5829b80774dfbbe6244]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/uksi/2010/332/schedule/1/paragraph/7) in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/332/regulation/1)
+
+[^key-347cf2284ac0c56fbe9ed555a2de3456]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/2010/332/schedule/1/paragraph/8) in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/332/regulation/1)
+
+[^key-b5dad3950e5d4d671a1416ddfff8f891]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2010/332/schedule/2/paragraph/1) in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/332/regulation/1)
+
+[^key-1caeea7561dc632cef6b2f8760ee036e]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2010/332/schedule/2/paragraph/2) in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/332/regulation/1)
+
+[^key-8a991d1b56df77a0a26bc63cc80ef83e]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2010/332/schedule/2/paragraph/3) in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/332/regulation/1)
+
+[^key-93b31f8d1f49725f68fbaf8f5ada4985]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2010/332/schedule/2/paragraph/4) in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/332/regulation/1)
+
+[^key-e897dd61a6e0d6295261292ac180d309]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2010/332/schedule/2/paragraph/5) in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/332/regulation/1)
+
+[^key-68a021ae67c49b9000de5156bb052d51]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2010/332/schedule/2/paragraph/6) in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/332/regulation/1)
+
+[^key-793ac6845fa6c253db33b867f0d24265]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/uksi/2010/332/schedule/2/paragraph/7) in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/332/regulation/1)
+
+[^key-46973b1e94d1dccc8369ee513a2decba]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2010/332/schedule/2/paragraph/8) in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/332/regulation/1)
+
+[^key-7f4d522ad6a016151c101698139b25de]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/uksi/2010/332/schedule/2/paragraph/9) in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/332/regulation/1)
+
+[^key-280d5ac337b22819af7e85d7e3ff52f3]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/uksi/2010/332/schedule/2/paragraph/10) in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/332/regulation/1)
+
+[^key-154ae7f3eeecf1cb0f8b45159a720be7]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/uksi/2010/332/schedule/2/paragraph/11) in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/332/regulation/1)
+
+[^f00026]: Footnote: [S.I. 2001/3444](https://www.legislation.gov.uk/uksi/2001/3444).
+
+[^key-0b91a9a2883a05337f2b5a9d52b31f67]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/uksi/2010/332/schedule/2/paragraph/12) in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/332/regulation/1)
+
+[^key-38db0a428ab11bb2c05e0457c6cdc192]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/uksi/2010/332/schedule/2/paragraph/13) in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/332/regulation/1)
+
+[^key-160ac3740776381950b89b05a4949cbf]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/uksi/2010/332/schedule/2/paragraph/14) in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/332/regulation/1)
+
+[^key-92f0aa55c7921432bd5eac1cdde3e454]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/uksi/2010/332/schedule/3/paragraph/1) in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/332/regulation/1)
+
+[^key-4601ea820abfb2c2cb2e52199b4f40d2]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2010/332/schedule/3/paragraph/2) in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/332/regulation/1)

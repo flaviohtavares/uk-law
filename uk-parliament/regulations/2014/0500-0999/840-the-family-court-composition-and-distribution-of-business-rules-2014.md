@@ -1,0 +1,680 @@
+---
+title: The Family Court (Composition and Distribution of Business) Rules 2014
+id: uksi/2014/840
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2014-03-31'
+text_date: '2026-10-01'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2014/840
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2014/840/pdfs/uksiem_20140840_en.pdf
+- http://www.legislation.gov.uk/uksi/2014/840/pdfs/uksi_20140840_en.pdf
+- http://www.legislation.gov.uk/uksi/2014/840/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Family Court (Composition and Distribution of Business) Rules 2014
+
+> Text as at 2026-10-01.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2014 No. 840 (L. 13)
+
+Family Proceedings
+
+Senior Courts Of England And Wales
+
+Family Court, England And Wales
+
+The Family Court (Composition and Distribution of Business) Rules 2014
+
+Made
+
+31st March 2014
+
+Laid before Parliament
+
+1st April 2014
+
+Coming into force
+
+22nd April 2014
+
+The President of the Family Division, as nominee of the Lord Chief Justice under paragraph 2(2)(b) of Part 1 of Schedule 1 to the Constitutional Reform Act 2005 [^c22070841], makes the following rules in exercise of the powers conferred by section 31D(1), (2), (3) and (5)(a) of the Matrimonial and Family Proceedings Act 1984 [^c22070851]*.*
+
+These Rules are made after consultation with the Family Procedure Rule Committee in accordance with section 31D(5)(b) of the Matrimonial and Family Proceedings Act 1984.
+
+These Rules are made with the agreement of the Lord Chancellor in accordance with paragraph 2 of Part 1 of Schedule 1 to the Constitutional Reform Act 2005.
+
+## PART 1 — Introductory provisions
+
+### 1. Citation, commencement and interpretation
+
+These Rules may be cited as the Family Court (Composition and Distribution of Business) Rules 2014 and come into force on 22nd April 2014.
+
+### 2.
+
+(1) In these Rules—
+
+- “**the 1991 Act**” means the Child Support Act 1991 [^c22070861];
+- “**appeal**” includes an application seeking permission to appeal and an application in the course of the appeal proceedings;
+- [^key-6609cf2830251d8bed3c0ecbfd2bc5de]...
+- “authorised”, except in the context of references to an authorised court officer, means authorised by the President of the Family Division or nominated by or on behalf of the Lord Chief Justice to conduct particular business in the family court, in accordance with Part 3;
+- “**authorised court officer**” has the meaning assigned to it by rule 44.1 of the Civil Procedure Rules 1998 [^c22070881] as applied to family proceedings by rule 28.2(1) of the Family Procedure Rules 2010 [^c22070891];
+- “**costs judge**” means—
+  - (a) the Chief Taxing Master;
+  - (b) a taxing master of the Senior Courts; or
+  - (c) a person appointed to act as deputy for the person holding office referred to in paragraph (b) or to act as a temporary additional officer for any such office;
+- “**financial remedy**” has the meaning assigned to it by rule 2.3 of the Family Procedure Rules 2010;
+- “**judge of circuit judge level**” means—
+  - (a) a circuit judge who, where applicable, is authorised;
+  - (b) a Recorder who, where applicable, is authorised;
+  - (c) any other judge of the family court authorised to sit as a judge of circuit judge level in the family court;
+- “**judge of district judge level**” means—
+  - (a) the Senior District Judge of the Family Division;
+  - (b) a district judge of the Principal Registry of the Family Division;
+  - (c) a person appointed to act as deputy for the person holding office referred to in paragraph (b) or to act as a temporary additional officer for any such office;
+  - (d) a district judge who, where applicable, is authorised;
+  - (e) a deputy district judge appointed under section 102 of the Senior Courts Act 1981 [^c22070901] or section 8 of the County Courts Act 1984 [^c22070911] who, where applicable, is authorised;
+  - (f) an authorised District Judge (Magistrates' Courts);
+  - (g) any other judge of the family court authorised to sit as a judge of district judge level in the family court.
+- “**judge of High Court judge level**” means—
+  - (a) a deputy judge of the High Court;
+  - (b) a puisne judge of the High Court;
+  - (c) a person who has been a judge of the Court of Appeal or a puisne judge of the High Court who may act as a judge of the family court by virtue of section 9 of the Senior Courts Act 1981 [^c22070921];
+  - (d) the Senior President of Tribunals;
+  - (e) the President of the Business and Property Division[^key-4fd91e810887ab8186fceac3c3f9fc8f];
+  - (f) an ordinary judge of the Court of Appeal (including the vice-president, if any, of either division of that court);
+  - (g) the President of the Queen's Bench Division;
+  - (h) the President of the Family Division;
+  - (i) the Master of the Rolls;
+  - (j) the Lord Chief Justice;
+- “**judge of the family court**” means a judge referred to in section 31C(1) of the Matrimonial and Family Proceedings Act 1984 [^c22070931]*;*
+- [^key-6609cf2830251d8bed3c0ecbfd2bc5de]...
+- “**lay justice**” means an authorised justice of the peace who is not a District Judge (Magistrates' Courts).
+
+(2) In these Rules, references to provisions of the Adoption and Children Act 2002 [^c22070951] include, as applicable, references to those provisions as modified by the Human Fertilisation and Embryology (Parental Orders) Regulations 2010 [^c22070961].
+
+## PART 2 — Composition of the family court
+
+### 3. Composition: general
+
+(1) Subject to rules in this Part, the family court shall be composed of—
+
+- (a) one of the following—
+  - (i) a judge of district judge level;
+  - (ii) a judge of circuit judge level; or
+  - (iii) a judge of High Court judge level; or
+- (b) two or three lay justices.
+
+(2) Where paragraph (1)(b) applies, the court shall include, so far as is practicable, both a man and a woman.
+
+### 4. Composition: allocation decision
+
+When making a decision on allocation to which rule 20 applies, the family court shall be composed of one or more of the following —
+
+- (a) a judge of district judge level;
+- (b) a judge of circuit judge level.
+
+### 5. Composition: appeals heard by a judge of district judge level[^key-4b58107c6f55d7b1728a8723c4114042]
+
+(1) Subject to rule 7, the family court shall be composed of a judge of district judge level when hearing an appeal from the decision of the Secretary of State where an appeal is brought under—
+
+- (a) regulation 25AB(1) of the Child Support (Collection and Enforcement) Regulations 1992 (Appeals) [^c22070971];
+- (b) section 20(1) (a) or (b) of the 1991 Act to a court by virtue of article 3 of the Child Support Appeals (Jurisdiction of Courts) Order 2002 [^c22070981] (Parentage appeals to be made to courts).
+
+(2) The family court may be composed of a judge of district judge level when hearing applications in the course of appeal proceedings against decisions of persons referred to in rule 6(2)(b) to (d) or decisions of the court referred to in rule 6(3).
+
+(3) The family court shall be composed of a costs judge or a district judge of the High Court when hearing an appeal against the decision of an authorised court officer.
+
+### 6. Composition: appeals heard by a judge of circuit judge level or a judge of High Court level[^key-4b58107c6f55d7b1728a8723c4114042]
+
+(1) Subject to rule 7, when hearing an appeal from the decisions of persons referred to in paragraph (2) or the court referred to in paragraph (3), the family court shall be composed of—
+
+- (a) a judge of circuit judge level; or
+- (b) a judge of High Court level where there is a need for such a level of judge to hear the appeal to make most effective and efficient use of local judicial resource and the resource of the High Court bench.
+
+(2) The persons referred to in paragraph (1) are—
+
+- (a) a judge of district judge level;
+- (b) two or three lay justices;
+- (c) a lay justice; or
+- (d) a person nominated by the Lord Chancellor who is authorised to exercise functions under section 31O(1) of the Matrimonial and Family Proceedings Act 1984[^key-18d8d5832427c0a4861983b2476514db].
+
+(3) The court referred to in paragraph (1) is a magistrates' court where an appeal is brought under section 111A of the Magistrates' Courts Act 1980 [^c22070991] (appeals on ground of error of law in child support proceedings).
+
+### 7. Composition: appeals heard by a judge of High Court level[^key-4b58107c6f55d7b1728a8723c4114042]
+
+(1) The family court shall be composed of a judge of High Court level when hearing an appeal from the decision of—
+
+- (a) the Senior District Judge of the Family Division in financial remedy proceedings;
+- (b)[^key-1958e64c76534be97d33dba8d63d5952] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c) a costs judge; or
+- (d) the Gender Recognition Panel where an appeal is brought under section 8(1) of the Gender Recognition Act 2004 [^c22071001] (Appeals etc.).
+
+(2) The family court shall be composed of a judge of High Court level (instead of a judge of district judge level or a judge of circuit judge level) where there is—
+
+- (a) an appeal against a decision referred to in rules 5 and 6; and
+- (b) the Designated Family Judge or a judge of High Court level considers that the appeal would raise an important point of principle or practice.
+
+### 8. Composition: matters part heard
+
+(1) Paragraph (2) applies where a hearing—
+
+- (a) was before two or three lay justices; and
+- (b) was part heard.
+
+(2) The court which resumes the hearing shall, wherever possible, be composed of the same lay justices as dealt with the previous part of the hearing.
+
+## PART 3 — Authorisations
+
+### 9. Powers to grant authorisations
+
+(1) Paragraph (2) applies to business in such categories as may be specified from time to time by the President of the Family Division.
+
+(2) A judge of district judge level or a judge of circuit judge level may conduct business to which this paragraph applies in the family court only if authorised by the President of the Family Division to do so.
+
+(3) The President of the Family Division may specify the matters referred to in paragraph (1) in directions, after consulting the Lord Chancellor.
+
+(4) A lay justice may conduct business in the family court only if authorised by the Lord Chief Justice to do so.
+
+## PART 4 — Lay justices: chairmanship of the family court
+
+### 10. Interpretation of this Part[^key-a04ad1f29758e8f968d112c5b796124d]
+
+In this Part, “2016 Rules” means the Justices of the Peace Rules 2016.
+
+### 11. Chairman
+
+(1) When the family court is composed of two or three lay justices, it shall sit under the chairmanship of a lay justice who has been approved to preside in accordance with the 2016 Rules[^key-dde8a042bf0ff40bb1cba1fbe72ea18e].
+
+(2) A lay justice may preside before being approved to preside in accordance with the 2016 Rules[^key-b1fb4d4f080efbf0de56e52aeeb789f8] only if that lay justice is—
+
+- (a) under the supervision of another authorised lay justice who is approved to preside in accordance with the 2016 Rules[^key-3afe3527782e7a94dae778d1995ec977]; and
+- (b) has completed the training course required by rule 19 of the 2016 Rules[^key-120a95bd02eb60df0a2f57f620ea13de].
+
+(3)[^key-df17d876557f303a77775187cc1256f7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) This rule and rule 12 are subject to sections 18(1) and (2) of the Courts Act 2003 [^c22071021].
+
+### 12. Absence of authorised lay justice entitled to preside
+
+(1) The lay justices present may appoint one of their number to preside in the family court to deal with any case in the absence of a lay justice entitled to preside under rule 11 if—
+
+- (a) before making such appointment the lay justices present are satisfied as to the suitability for this purpose of the lay justice proposed; and
+- (b) expect as mentioned in paragraph (2), the lay justice proposed has completed or is undergoing a chairman training course in accordance with rule 19(f) of the 2016 Rules[^key-2a2d2d38e8b1d2a927d5f2eea94c7206].
+
+(2) The condition in paragraph (1)(b) does not apply if by reason of illness, circumstances unforeseen when the lay justices to sit were chosen, or other emergency, no lay justice who complies with that condition is present.
+
+## PART 5 — Distribution of business of the family court
+
+### 12A. Interpretation of this Part[^key-5ea6be3002ee0941f8caa94c4117ffc7]
+
+In this Part—
+
+- “incoming protection measure” means a protection measure that has been ordered in a Member State of the European Union other than [^key-963ca09fdb06cd42c01a3efaebc30339]... Denmark;
+- “protection measure” has the meaning given to it in the Protection Measures Regulation;
+- “Protection Measures Regulation” means Regulation (EU) No 606/2013 of the European Parliament and of the Council of 12th June 2013 on mutual recognition of protection measures in civil matters.
+
+### 13. General
+
+(1) This Part makes provision for the distribution of business of the family court among the judges of the family court.
+
+(2) Rules 15 and 20 are subject to rule 17.
+
+(3) Rules 15, 16, 17, 18, 19 and 20 make provision regarding the level of judge of the family court to which a matter is to be allocated initially.
+
+(Rule 29.19 of the Family Procedure Rules 2010 makes provision for a judge of the family court to determine that a matter should be heard by a different level of judge of the family court.)
+
+### 14. Persons who may exercise jurisdiction of the family court
+
+Subject to the provisions of this Part or of any other enactment, any jurisdiction and powers conferred by any enactment on the family court, or on a judge of the family court, may be exercised by any judge of the family court.
+
+### 15. Allocation of proceedings in Schedule 1
+
+(1) An application in a type of proceedings listed in the first column of the table in Schedule 1 shall be allocated to be heard by a judge of the level listed in the second column of that table.
+
+(2) Paragraph (1) and the provisions of Schedule 1 are subject to the need to take into account the need to make the most effective and efficient use of local judicial resource and the resource of the High Court bench that is appropriate given the nature and type of the application.
+
+### 16. Allocation of emergency applications
+
+(1) In this rule—
+
+- “**the 1986 Act**” means the Family Law Act 1986 [^c22071031];
+- “**the 1989 Act**” means the Children Act 1989 [^c22071041]; and
+- “**the 1996 Act**” means the Family Law Act 1996 [^c22071051].
+
+(2) An application of a type referred to in paragraph (3) shall be allocated to the first available judge of the family court who—
+
+- (a) where applicable, is authorised to conduct the type of business to which the application relates; and
+- (b) would not be precluded by Schedule 2 from dealing with the application.
+
+(3) The types of applications are those—
+
+- (a) under—
+  - (i) section 33 of the 1986 Act [^c22071061] (disclosure of information as to the whereabouts of a child);
+  - (ii) section 34 of the 1986 Act [^c22071071] (order authorising the taking charge and delivery of a child);
+  - (iii) section 44(1) of the 1989 Act (emergency protection order);
+  - (iv) section 44(9)(b) of the 1989 Act (varying a direction in an emergency protection order given under section 44(6) of the 1989 Act);
+  - (v) section 45(4) of the 1989 Act (extending the period during which an emergency protection order is to have effect);
+  - (vi) section 45(8) of the 1989 Act (to discharge an emergency protection order);
+  - (vii) section 45(8A) of the 1989 Act [^c22071081] (to vary or discharge an emergency protection order in so far as it imposes an exclusion requirement on a person who is not entitled to apply for the order to be discharged);
+  - (viii) section 45(8B) of the 1989 Act [^c22071091] (to vary or discharge an emergency protection order in so far as it confers powers of arrest attached to an exclusion requirement);
+  - (ix) section 48(9) of the 1989 Act (warrant to assist in discovery of children who may be in need of emergency protection);
+  - (x) section 50 of the 1989 Act [^c22071101] (recovery of abducted children);
+  - (xi) section 102(1) of the 1989 Act (warrant for a constable to assist in the exercise of certain powers to search for children or inspect premises);
+  - (xii) Part 4 of the 1996 Act [^c22071111] which are made without notice, except where the applicant is under 18 or where an application for an occupation order under section 33 of that Act requires a determination of a question of property ownership;
+  - (xiii) section 41 of the Adoption and Children Act 2002 [^c22071121] (recovery order); [^key-12a752c5a82bf3edb1ddde22e1b00bce]...
+  - (xiv) section 79 of the Childcare Act 2006 [^c22071131] (warrant for a constable to assist in the exercise of powers of entry); [^key-fed95e6c83dfb6c2f96f182074e833dc]...
+  - (xv)[^key-ef10f49511cd4dfd21a629e71fbcb08b] the Protection Measures Regulation made within or in connection with an application under sub-paragraph (xii);[^key-52610843551b1e92da9fd1de2b16f597]...
+  - (xvi) Article 11 of the Protection Measures Regulation for adjustment of an incoming protection measure except where the applicant is aged under 18; or or[^key-d0642f0b6c943eaf4c218ebdea6910f6]
+  - (xvii)[^key-afc85e2cabd67a45acacbf4bca989f48] Part 3 of the Domestic Abuse Act 2021 which are made without notice, except where the applicant is aged under 18;
+- (b) which are not referred to in paragraph (a) but which require the immediate attention of the court.
+
+(4) An application of a type listed in paragraph (5) shall be allocated to the first available judge of the family court, other than lay justices, who, where applicable, is authorised to conduct the type of business to which the application relates.
+
+(5) The types of application are those under—
+
+- (a) Part 4 of the 1996 Act which are made without notice and where the applicant is aged under 18 or where an application for an occupation order under section 33 of that Act requires a determination of a question of property ownership;
+- (b) Part 4A of the 1996 Act [^c22071141] which are made without notice;[^key-915aa53a3613c2383ed3d455bd714d6b]
+- (c)[^key-7fd55483054fc283c683d7f3c0a67f70] the Protection Measures Regulation made within or in connection with an application under sub-paragraph (a) or (b);
+- (d) Article 11 of the Protection Measures Regulation for adjustment of an incoming protection measure where the applicant is aged under 18;[^key-bb540fb1330fd94900594d1401c02c72]
+- (e)[^key-3d3a54b7bb451f2502125255a2a86058] Part 1 of Schedule 2 to the Female Genital Mutilation Act 2003 which are made without notice;[^key-78b26d0a24e42ed500ba04e704a57713]
+- (f)[^key-7c5f0da9562742b6e3a4cf3c0fde0de1] Part 3 of the Domestic Abuse Act 2021 which are made without notice and where the applicant is aged under 18.
+
+### 17. Allocation: applications in existing proceedings or in connection with proceedings that have concluded
+
+(1) Subject to paragraphs (3) to (5), an application made within existing proceedings in the family court shall be allocated to the level of judge who is dealing with the existing proceedings to which the application relates.
+
+(2) Subject to paragraphs (3) to (5), an application made in connection with proceedings in the family court that have concluded shall be allocated to the level of judge who last dealt with those proceedings.
+
+(3) In Schedule 2—
+
+- (a) the remedies listed in tables 1, 2 and 3 may not be granted by lay justices;
+- (b) the remedies listed in tables 2 and 3 may not be granted by a judge of district judge level;
+- (c) the remedies listed in table 3 may not be granted by a judge of circuit judge level, subject to any exception stated in that table.
+
+(4) Where the effect of Schedule 2 is that an application for a particular remedy may not be granted by the level of judge referred to in paragraph (1) or (2), then that application shall be allocated to a level of judge who is able to grant that remedy.
+
+(5) Any power of the family court to make an order for committal in respect of a breach of a judgment, order or undertaking to do or abstain from doing an act may only be made by a judge of the same level as, or of a higher level than, the judge who make the judgment or order, or who accepted the undertaking, as the case may be.
+
+### 18. Allocation: costs
+
+Subject to any direction of the court, an application for detailed assessment of a bill of costs shall be allocated to an authorised court officer, a district judge or a costs judge.
+
+### 19. Allocation: appeals[^key-078273cac80b89886a8bbaeb43f3c8ea]
+
+An appeal shall be allocated to a judge in accordance with rules 5 to 7.
+
+### 20. Allocation: all other proceedings
+
+(1) An application of a type not referred to in other rules in this Part or in Schedule 1 or Schedule 2 shall be allocated by one or more of the persons referred to in rule 4.
+
+(2) When deciding which level of judge to allocate such an application to, the decision must be based on consideration of the relative significance of the following factors—
+
+- (a) the need to make the most effective and efficient use of the local judicial resource and the resource of the High Court bench that is appropriate, given the nature and type of application;
+- (b) the need to avoid delay;
+- (c) the need for judicial continuity;
+- (d) the location of the parties or of any child relevant to the proceedings; and
+- (e) complexity.
+
+## PART 6 — GUIDANCE
+
+### 21. Guidance on distribution of business of the family court
+
+(1) The President of the Family Division may, after consulting the Lord Chancellor, issue guidance on the application or interpretation of Part 5.
+
+(2) Where the Lord Chancellor determines that the guidance has significant implications for resources, it may only be issued with the agreement of the Lord Chancellor.
+
+(3) If the Lord Chancellor does not agree the guidance, the Lord Chancellor must provide the President of the Family Division with written reasons why the Lord Chancellor does not agree the guidance.
+
+James Munby, P
+
+President of the Family Division
+
+I agree,
+
+Simon Hughes
+
+Minister of State
+
+Ministry of Justice
+
+## SCHEDULE 1 — Allocation
+
+Rule 15
+
+| *Type of proceedings* | *Level of judge* |
+| --- | --- |
+| **1.** Proceedings under— | Lay justices. |
+| - (a) the Maintenance Orders (Facilities for Enforcement) Act 1920 [^c22071151]; |  |
+| - (b) the Marriage Act 1949 [^c22071161]; |  |
+| - (c) the Maintenance Orders Act 1950 [^c22071171]; |  |
+| - (d) the Maintenance Orders Act 1958 [^c22071181]; |  |
+| - (e) the Maintenance Orders (Reciprocal Enforcement) Act 1972 [^c22071191]; |  |
+| - (f) the Domestic Proceedings and Magistrates' Courts Act 1978 [^c22071201]; |  |
+| - (g) the Civil Jurisdiction and Judgments Act 1982 [^c22071211]; |  |
+| - (h) the Family Law Act 1986, section 55A (declarations of parentage) , except where the application is made by a birth parent in respect of a child under the age of 18 following the lawful adoption of that child[^key-266a3519174f75a2ec5211b29bd6625b] [^c22071221]; |  |
+| - (i) the Child Support Act 1991, except section 32L [^c22071231] or appeals; |  |
+| - (j) the Crime and Disorder Act 1998, section 11 [^c22071241] (child safety order); |  |
+| - (k) Council Regulation (EC) No.44/2001 (known as the Judgments Regulation) [^c22071251]; |  |
+| - (l) section 34 of the Children and Families (Wales) Measure 2010 [^c22071261]; |  |
+| - (m) Schedule 6 to the Civil Partnership Act 2004 [^c22071271]; |  |
+| - (n) the Childcare Act 2006, except section 79; |  |
+| - (o) the Human Fertilisation and Embryology Act 2008, section 54 [^c22071281] or section 54A[^key-e7c91136c42818b4fa6265593d565355], where the child's place of birth was in England and Wales and where all respondents agree to the making of the order; |  |
+| - (p) Council Regulation [(EC) No. 4/2009](https://www.legislation.gov.uk/eur/2009/4) (known as the Maintenance Regulation) [^c22071291];[^key-75008a347d7db86fadb204b5e13381da] |  |
+| - (q)[^key-f0a95ecb7f838e12df62a20213235071] the Protection Measures Regulation for enforcement of an incoming protection measure. |  |
+| **2.** Proceedings under— | Judge of district judge level |
+| - (a) the Married Women's Property Act 1882 [^c22071301]; |  |
+| - (b) the Matrimonial Causes Act 1973 [^c22071311]; |  |
+| - (c) the Matrimonial and Family Proceedings Act 1984 sections 13 and 12 [^c22071321] (permission and substantive application) [^key-5d007eded49a377ac9d6d4ca797ec39f]...; |  |
+| - (d) the Children Act 1989, Schedule 1 [^c22071331]; |  |
+| - (e) the Gender Recognition Act 2004 [^c22071341], except appeals under section 8(1) and referrals to the court under section 8(5); |  |
+| - (f) the Civil Partnership Act 2004, except under—<br>  - (i) Schedule 6 (financial provision corresponding to provision made by the Domestic Proceedings and Magistrates' Courts Act 1978) .[^key-1cbdad228ed808b5c4292e05574194d2]<br>  - (ii)[^key-e9a95b1f5acf08b165aaa078aeb742ac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . |  |
+| **3.** Proceedings under— | Judge of circuit judge level. |
+| - (a) the Family Law Act 1986 section 55 [^c22071361] (declarations as to marital status), 56 [^c22071371] (declarations as to legitimacy or legitimation) or 57 [^c22071381](declarations as to adoptions effected overseas); |  |
+| - (b) the Child Support Act 1991 under section 32L (orders preventing avoidance); |  |
+| - (c) the Human Fertilisation and Embryology Act 2008, section 54 or section 54A[^key-b632a1d75663472d584acb08b16d3091], where the child's place of birth was in England and Wales but where not all respondents agree to the making of the order. |  |
+| **4.** Proceedings under— | Judge of High Court judge level |
+| - (a)[^key-d5af7f20901f33d809ccf716cd081903] . . . |  |
+| - (b) the Adoption and Children Act 2002, section 60(3) (order to disclose or to prevent disclosure of information to an adopted person); |  |
+| - (c) the Adoption and Children Act 2002, section 79(4) (order for Registrar General to give information); |  |
+| - (d)[^key-b014c73f2f301a43bdf8af94b2838680] . . . |  |
+| - (e) referrals to the court under section 8(5) of the Gender Recognition Act 2004; |  |
+| - (f) the Human Fertilisation and Embryology Act 2008, section 54 or section 54A[^key-c4823841824452943de81e54713ded1c], where the child's place of birth was outside of England and Wales;[^key-fd54bca950dcd8c91aa29e3c848759f2] |  |
+| - (g)[^key-15725a83961795568809a9a7aa4e185b] Article 13 of the Protection Measures Regulation;[^key-edba7f8b80d7241ddf3ee584c1e8f538] |  |
+| - (h)[^key-6f8b7f9497993b63aaa15360e65043a1] the Family Law Act 1986, section 55A (declarations of parentage) where the application is made by a birth parent in respect of a child under the age of 18 following the lawful adoption of that child. |  |
+| **5.** Proceedings under the Adoption and Children Act 2002 under— | Level of judge who is dealing with, or has dealt with, proceedings relating to the same child or, if there are or were no such proceedings, to lay justices. |
+| - (a) section 21 [^c22071401] (placement order); |  |
+| - (b) section 23 (order varying a placement order); |  |
+| - (c) section 24 (order revoking a placement order); |  |
+| - (d) section 26 [^c22071411] (contact order); |  |
+| - (e) section 27 (order varying or revoking a contact order); |  |
+| - (f) section 28(2) or (3) (order permitting the child's name to be changed or the removal of the child from the United Kingdom); |  |
+| - (g) section 46 [^c22071421] (adoption order) except where—<br>  - (i) a local authority is a party to the application;<br>  - (ii) the application is for an overseas adoption within the meaning given in section 87 of the Adoption and Children Act 2002; or<br>  - (iii) the application is for a Convention adoption within the meaning given in section 66(1)(c) of the Adoption and Children Act 2002; |  |
+| - (h) section 51A(2)(a) or (b) [^c22071431] (post-adoption contact); |  |
+| - (i) section 55 [^c22071441] (revocation of adoption on legitimation); |  |
+| - (j) paragraph 4 of Schedule 1 (amendment of orders). |  |
+| **6.** Proceedings under the Adoption and Children Act 2002 under section 46 (adoption order) where — | Level of judge who is dealing with, or dealt with, proceedings relating to the same child or, if there are or were no such proceedings, to a judge of district judge level. |
+| - (a) a local authority is a party to the application; |  |
+| - (b) the application is for an overseas adoption within the meaning given in section 87 of the Adoption and Children Act 2002; or |  |
+| - (c) the application is for a Convention adoption within the meaning given in section 66(1)(c) of the Adoption and Children Act 2002. |  |
+
+## SCHEDULE 2 — Remedies
+
+Rule 17
+
+Table 1
+
+| *Remedies which may not be granted by lay justices in the family court* |
+| --- |
+| **1.** Charging order. |
+| **2.** Order (known as a “**freezing injunction**”) restraining a party from:<br>- (a) removing from the jurisdiction assets located there;<br>- (b) dealing with any assets whether located in the jurisdiction or not. |
+| **3.** Interim injunction. |
+| **4.** Interim declaration. |
+| **5.** Order under section 34 Senior Courts Act 1981 [^c22071451] or section 53 County Courts Act 1984 [^c22071461], as applied to the family court under section 31E Matrimonial and Family Proceedings Act 1984 [^c22071471], for disclosure of documents or inspection of property against a non-party. |
+| **6.** Order for a specified fund to be paid into court where there is a dispute over a party's right to the fund. |
+| **7.** Order permitting a party seeking to recover personal property to pay money into court pending the outcome of the proceedings and directing that, if money is paid into court, the property must be given to that party. |
+| **8.** Order directing a party to provide information about the location of relevant property or assets or to provide information about relevant property or assets, which are or may be the subject of an application for a freezing injunction. |
+| **9.** Order directing a party to prepare and file accounts relating to the dispute. |
+| **10.** Order directing an account to be taken or enquiry to be made by the court. |
+| **11.** Third party debt order. |
+| **12.** Order for—<br>- (a) detention, custody or preservation of relevant property;<br>- (b) inspection of relevant property;<br>- (c) taking of a sample of relevant property;<br>- (d) carrying out an experiment on or with relevant property;<br>- (e) sale of relevant property which is of a perishable nature or which for any other good reason it is desirable to sell quickly;<br>- (f) the payment of income from relevant property until an application is decided. |
+| **13.** Order authorising a person to enter any land or building in the possession of a party for the purposes of carrying out an order referred to in paragraph 12. |
+| **14.** Warrant of delivery. |
+| **15.** Warrant of control. |
+| **16.** Warrant for the possession of land. |
+| **17.** Order to deliver up goods under section 4 of the Torts (Interference with Goods) Act 1977 [^c22071481]. |
+
+Table 2
+
+| *Remedies which may not be granted by lay justices or judges of district judge level in the family court* |
+| --- |
+| **1.** Civil restraint order (limited). |
+
+Table 3
+
+| *Remedies which may not be granted by lay justices, judges of district judge level or judges of circuit judge level in the family court* |
+| --- |
+| **1.** Civil restraint order (extended or general), except that such orders may be granted by a Designated Family Judge or a deputy Designated Family Judge. |
+| **2.** Search order requiring a party to admit another party to premises for the purposes of preserving evidence etc (section 7 Civil Procedure Act 1997 [^c22071491]). |
+| **3.** Claims in respect of a judicial act under the Human Rights Act 1998 [^c22071501]. |
+| **4.** Action in respect of the interference with the due administration of justice. |
+| **5.** Warrants of sequestration to enforce a judgment, order or undertaking in the family court. |
+| **6.**[^key-272c2e4a7fcc915ae0baecc75fa81fb1] Order under Article 13 of the Protection Measures Regulation refusing to recognise or enforce an incoming protection measure. |
+
+*(This note is not part of the Rules)*
+
+These Rules make provision for the composition of the family court and for the distribution of business of the family court among judges of the court.
+
+Part 2 makes provision for how the family court should be composed, including when hearing appeals.
+
+Part 3 gives powers to the President of the Family Division and the Lord Chief Justice (or his or her nominee) to authorise judges of specified levels to conduct specified business in the family court.
+
+Part 4 makes provision for the chairmanship of the family court when it is composed of lay justices.
+
+Part 5 deals with the distribution of business in the family court, including the initial allocation of the proceedings listed in Schedule 1, of emergency applications, of applications for the assessment of costs and of appeals. Provision is made for the initial allocation of applications made in existing proceedings or in connection with proceedings that have concluded, including setting out in Schedule 2 various remedies which may not be granted by certain judges, or levels of judges, in the family court. Provision is also made for the initial allocation of other proceedings, by reference to the factors specified in rule 20(2).
+
+Part 6 makes provision for the President of the Family Division to issue guidance on the application and interpretation of Part 5, after consulting the Lord Chancellor or, in certain circumstances, with the Lord Chancellor's agreement.
+
+An impact assessment has been prepared for the group of instruments of which these Rules form a part, and can be found together with the Rules on www.legislation.gov.uk.
+
+## Annotations
+
+[^c22070841]: Marginal citation: [2005 c.4](https://www.legislation.gov.uk/ukpga/2005/4).
+
+[^c22070851]: Marginal citation: [1984 c.42](https://www.legislation.gov.uk/ukpga/1984/42). Section 31D was inserted by paragraph 1 of Schedule 10 to the [Crime and Courts Act 2013 (c.22)](https://www.legislation.gov.uk/ukpga/2013/22).
+
+[^c22070861]: Marginal citation: [1991 c.48](https://www.legislation.gov.uk/ukpga/1991/48).
+
+[^key-6609cf2830251d8bed3c0ecbfd2bc5de]: Textual amendment: Words in rule 2(1) omitted (6.4.2020) by virtue of [The Courts and Tribunals (Judiciary and Functions of Staff) Act 2018 (Consequential, Transitional and Saving Provision) Regulations 2020 (S.I. 2020/100)](https://www.legislation.gov.uk/uksi/2020/100), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/100/regulation/1/2), [Sch. para. 16(2)](https://www.legislation.gov.uk/uksi/2020/100/schedule/paragraph/16/2) (with [reg. 4](https://www.legislation.gov.uk/uksi/2020/100/regulation/4))
+
+[^c22070881]: Marginal citation: [S.I. 1998/3132](https://www.legislation.gov.uk/uksi/1998/3132). Relevant amending instrument is [S.I. 2013/262](https://www.legislation.gov.uk/uksi/2013/262).
+
+[^c22070891]: Marginal citation: [S.I. 2010/2955](https://www.legislation.gov.uk/uksi/2010/2955). Relevant amending instrument is [S.I. 2013/3204](https://www.legislation.gov.uk/uksi/2013/3204).
+
+[^c22070901]: Marginal citation: [1981 c.54](https://www.legislation.gov.uk/ukpga/1981/54). Section 102 was amended by paragraph 40 of Schedule 18 to, and Schedule 20 to, the [Courts and Legal Services Act 1990 (c.41)](https://www.legislation.gov.uk/ukpga/1990/41), [paragraph 15(3)](https://www.legislation.gov.uk/ukpga/1990/41/paragraph/15/3) of Schedule 8 to the [Judicial Pensions and Retirement Act 1993 (c.8)](https://www.legislation.gov.uk/ukpga/1993/8), [paragraph 3](https://www.legislation.gov.uk/ukpga/1993/8/paragraph/3) of Schedule 11 to the [Tribunals Courts and Enforcement Act 2007 (c.15)](https://www.legislation.gov.uk/ukpga/2007/15) and paragraph 36 of Schedule 13 to the Crime and Courts Act 2013.
+
+[^c22070911]: Marginal citation: [1984 c.28](https://www.legislation.gov.uk/ukpga/1984/28). Section 8 was amended by paragraph 42 of Schedule 18 to the Courts and Legal Services Act 1990, paragraph 17(1) of Schedule 6, and Schedule 9, to the Judicial Pensions and Retirement Act 1993, paragraph 7 of Schedule 11 to the Tribunals, Courts and Enforcement Act 2007 and paragraph 6 of Schedule 9, and paragraph 37 of Schedule 13, to the Crime and Courts Act 2013.
+
+[^c22070921]: Marginal citation: Section 9 was amended by section 58 of the [Administration of Justice Act 1982 (c.53)](https://www.legislation.gov.uk/ukpga/1982/53), [paragraph 5](https://www.legislation.gov.uk/ukpga/1982/53/paragraph/5) of Schedule 6 to, and Schedule 9 to, the Judicial Pensions and Retirement Act 1993, section 52 of the [Criminal Justice and Public Order Act 1994 (c.33)](https://www.legislation.gov.uk/ukpga/1994/33), [paragraph 260](https://www.legislation.gov.uk/ukpga/1994/33/paragraph/260) of Schedule 8 to the Courts Act 2003, paragraph 121 of Schedule 4, paragraph 36 of Schedule 9 and paragraph 22 of Schedule 17 to the Constitutional Reform Act 2005, and paragraphs 52 and 89 of Schedule 13 and paragraphs 1 and 2 of Schedule 14 to the Crime and Courts Act 2013.
+
+[^key-4fd91e810887ab8186fceac3c3f9fc8f]: Textual amendment: Words in rule 2(1) substituted (1.10.2026) by [The Senior Courts (Transfer, Amendment and Consequential Provision) Order 2026 (S.I. 2026/723)](https://www.legislation.gov.uk/uksi/2026/723), [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/723/article/1/2), [Sch. 2 para. 16](https://www.legislation.gov.uk/uksi/2026/723/schedule/2/paragraph/16)
+
+[^c22070931]: Marginal citation: Section 31C was inserted by paragraph 1 of Schedule 10 to the Crime and Courts Act 2013.
+
+[^c22070951]: Marginal citation: [2002 c.38](https://www.legislation.gov.uk/ukpga/2002/38).
+
+[^c22070961]: Marginal citation: [S.I. 2010/985](https://www.legislation.gov.uk/uksi/2010/985).
+
+[^key-4b58107c6f55d7b1728a8723c4114042]: Modification: Rules 5-7 applied (22.4.2014) by [The Crime and Courts Act 2013 (Family Court Transitional and Saving Provision) Order 2014 (S.I. 2014/956)](https://www.legislation.gov.uk/uksi/2014/956), [arts. 1](https://www.legislation.gov.uk/uksi/2014/956/article/1), [10(2)](https://www.legislation.gov.uk/uksi/2014/956/article/10/2)
+
+[^c22070971]: Marginal citation: [S.I. 1992/1989](https://www.legislation.gov.uk/uksi/1992/1989). Relevant amending instruments are [S.I. 2009/1815](https://www.legislation.gov.uk/uksi/2009/1815) and 2012/2007.
+
+[^c22070981]: Marginal citation: [S.I. 2002/1915](https://www.legislation.gov.uk/uksi/2002/1915). Relevant amending instrument is [S.I. 2008/2683](https://www.legislation.gov.uk/uksi/2008/2683).
+
+[^key-18d8d5832427c0a4861983b2476514db]: Textual amendment: Words in [rule 6(2)(d)](https://www.legislation.gov.uk/uksi/2014/840/rule/6/2/d) substituted (6.4.2020) by [The Courts and Tribunals (Judiciary and Functions of Staff) Act 2018 (Consequential, Transitional and Saving Provision) Regulations 2020 (S.I. 2020/100)](https://www.legislation.gov.uk/uksi/2020/100), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/100/regulation/1/2), [Sch. para. 16(3)](https://www.legislation.gov.uk/uksi/2020/100/schedule/paragraph/16/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2020/100/regulation/4))
+
+[^c22070991]: Marginal citation: [1980 c.43](https://www.legislation.gov.uk/ukpga/1980/43). Section 111A was inserted by [S.I. 2009/871](https://www.legislation.gov.uk/uksi/2009/871) and was amended by paragraph 52 of Schedule 9 to, and paragraph 50 of Schedule 10 to, the Crime and Courts Act 2013.
+
+[^key-1958e64c76534be97d33dba8d63d5952]: Textual amendment: Rule 7(1)(b) omitted (24.5.2021) by virtue of [The Family Court (Composition and Distribution of Business) (Amendment) Rules 2021 (S.I. 2021/505)](https://www.legislation.gov.uk/uksi/2021/505), [rules 1(2)](https://www.legislation.gov.uk/uksi/2021/505/rule/1/2), [3](https://www.legislation.gov.uk/uksi/2021/505/rule/3)
+
+[^c22071001]: Marginal citation: [2004 c.7](https://www.legislation.gov.uk/ukpga/2004/7). Section 8(1) was amended by section 250 of the [Civil Partnership Act 2004 (c.33)](https://www.legislation.gov.uk/ukpga/2004/33) and by paragraph 8 of Part 1 of Schedule 5 to the [Marriage (Same Sex Couples) Act 2013 (c.30)](https://www.legislation.gov.uk/ukpga/2013/30).
+
+[^key-a04ad1f29758e8f968d112c5b796124d]: Textual amendment: [Rule 10](https://www.legislation.gov.uk/uksi/2014/840/rule/10) substituted (1.4.2017) by [The Justices of the Peace Rules 2016 (S.I. 2016/709)](https://www.legislation.gov.uk/uksi/2016/709), [rules 1(3)(c)](https://www.legislation.gov.uk/uksi/2016/709/rule/1/3/c), [36(2)](https://www.legislation.gov.uk/uksi/2016/709/rule/36/2)
+
+[^key-dde8a042bf0ff40bb1cba1fbe72ea18e]: Textual amendment: Words in rule 11(1) substituted (1.4.2017) by virtue of [The Justices of the Peace Rules 2016 (S.I. 2016/709)](https://www.legislation.gov.uk/uksi/2016/709), [rules 1(3)(c)](https://www.legislation.gov.uk/uksi/2016/709/rule/1/3/c), [36(3)(a)](https://www.legislation.gov.uk/uksi/2016/709/rule/36/3/a)
+
+[^key-b1fb4d4f080efbf0de56e52aeeb789f8]: Textual amendment: Words in rule 11(2) substituted (1.4.2017) by [The Justices of the Peace Rules 2016 (S.I. 2016/709)](https://www.legislation.gov.uk/uksi/2016/709), [rules 1(3)(c)](https://www.legislation.gov.uk/uksi/2016/709/rule/1/3/c), [36(3)(b)](https://www.legislation.gov.uk/uksi/2016/709/rule/36/3/b)
+
+[^key-3afe3527782e7a94dae778d1995ec977]: Textual amendment: Words in rule 11(2)(a) substituted (1.4.2017) by [The Justices of the Peace Rules 2016 (S.I. 2016/709)](https://www.legislation.gov.uk/uksi/2016/709), [rules 1(3)(c)](https://www.legislation.gov.uk/uksi/2016/709/rule/1/3/c), [36(3)(c)](https://www.legislation.gov.uk/uksi/2016/709/rule/36/3/c)
+
+[^key-120a95bd02eb60df0a2f57f620ea13de]: Textual amendment: Words in rule 11(2)(b) substituted (1.4.2017) by [The Justices of the Peace Rules 2016 (S.I. 2016/709)](https://www.legislation.gov.uk/uksi/2016/709), [rules 1(3)(c)](https://www.legislation.gov.uk/uksi/2016/709/rule/1/3/c), [36(3)(d)](https://www.legislation.gov.uk/uksi/2016/709/rule/36/3/d)
+
+[^key-df17d876557f303a77775187cc1256f7]: Textual amendment: Rule 11(3) omitted (1.4.2017) by virtue of [The Justices of the Peace Rules 2016 (S.I. 2016/709)](https://www.legislation.gov.uk/uksi/2016/709), [rules 1(3)(c)](https://www.legislation.gov.uk/uksi/2016/709/rule/1/3/c), [36(3)(e)](https://www.legislation.gov.uk/uksi/2016/709/rule/36/3/e)
+
+[^c22071021]: Marginal citation: Section 18 was amended by paragraph 85 of Schedule 10 to the Crime and Courts Act 2013.
+
+[^key-2a2d2d38e8b1d2a927d5f2eea94c7206]: Textual amendment: Words in [rule 12(1)(b)](https://www.legislation.gov.uk/uksi/2014/840/rule/12/1/b) substituted (1.4.2017) by [The Justices of the Peace Rules 2016 (S.I. 2016/709)](https://www.legislation.gov.uk/uksi/2016/709), [rules 1(3)(c)](https://www.legislation.gov.uk/uksi/2016/709/rule/1/3/c), [36(4)](https://www.legislation.gov.uk/uksi/2016/709/rule/36/4)
+
+[^key-5ea6be3002ee0941f8caa94c4117ffc7]: Textual amendment: [Rule 12A](https://www.legislation.gov.uk/uksi/2014/840/part/5/rule/12A) inserted (11.1.2015) by [The Family Court (Composition and Distribution of Business) (Amendment) Rules 2014 (S.I. 2014/3297)](https://www.legislation.gov.uk/uksi/2014/3297), [rules 1](https://www.legislation.gov.uk/uksi/2014/3297/rule/1), [3](https://www.legislation.gov.uk/uksi/2014/3297/rule/3)
+
+[^key-963ca09fdb06cd42c01a3efaebc30339]: Textual amendment: Words in rule 12A omitted (31.12.2020) by virtue of The Mutual Recognition of Protection Measures in [Civil Matters (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/493)](https://www.legislation.gov.uk/uksi/2019/493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/493/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2019/493/regulation/3) (with [reg. 1A](https://www.legislation.gov.uk/uksi/2019/493/regulation/1A), as inserted by [S.I. 2020/1493](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [6(2)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/6/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c22071031]: Marginal citation: [1986 c.55](https://www.legislation.gov.uk/ukpga/1986/55).
+
+[^c22071041]: Marginal citation: [1989 c.41](https://www.legislation.gov.uk/ukpga/1989/41).
+
+[^c22071051]: Marginal citation: [1996 c.27](https://www.legislation.gov.uk/ukpga/1996/27).
+
+[^c22071061]: Marginal citation: Section 33 was amended by paragraph 62 of Schedule 13 to the Children Act 1989, paragraph 41 of Schedule 4 to the [Children (Scotland) Act 1995 (c.36)](https://www.legislation.gov.uk/ukpga/1995/36) and paragraph 124 of Schedule 27 to the Civil Partnership Act 2004.
+
+[^c22071071]: Marginal citation: Section 34 was amended by paragraphs 62 and 70 of Schedule 13 to the Children Act 1989 and by [S.I. 1995/756](https://www.legislation.gov.uk/uksi/1995/756).
+
+[^c22071081]: Marginal citation: Section 45(8A) was inserted by paragraph 4 of Schedule 6 to the Family Law Act 1996.
+
+[^c22071091]: Marginal citation: Section 45(8B) was inserted by paragraph 4 of Schedule 6 to the Family Law Act 1996.
+
+[^c22071101]: Marginal citation: Section 50 was amended by paragraph 131 of Schedule 27 to the Civil Partnership Act 2004.
+
+[^c22071111]: Marginal citation: Relevant amendments to Part 4 of the 1996 Act were made by section 2 of, and paragraphs 34 and 35 of Schedule 10 to, the [Domestic Violence, Crime and Victims Act 2004 (c.28)](https://www.legislation.gov.uk/ukpga/2004/28), [paragraphs 4](https://www.legislation.gov.uk/ukpga/2004/28/paragraph/4), [6](https://www.legislation.gov.uk/ukpga/2004/28/paragraph/6), [8](https://www.legislation.gov.uk/ukpga/2004/28/paragraph/8), [9](https://www.legislation.gov.uk/ukpga/2004/28/paragraph/9) and 11 of Schedule 9 to the Civil Partnership Act 2004, paragraph 253 of Schedule 4 to the Constitutional Reform Act 2005 and paragraphs 130, 135 and 136 of Schedule 11 to the Crime and Courts Act 2013.
+
+[^c22071121]: Marginal citation: [2002 c.38](https://www.legislation.gov.uk/ukpga/2002/38).
+
+[^key-12a752c5a82bf3edb1ddde22e1b00bce]: Textual amendment: Word in rule 16(3)(a)(xiii) omitted (11.1.2015) by virtue of [The Family Court (Composition and Distribution of Business) (Amendment) Rules 2014 (S.I. 2014/3297)](https://www.legislation.gov.uk/uksi/2014/3297), [rules 1](https://www.legislation.gov.uk/uksi/2014/3297/rule/1), [4(a)(i)](https://www.legislation.gov.uk/uksi/2014/3297/rule/4/a/i)
+
+[^c22071131]: Marginal citation: [2006 c.21](https://www.legislation.gov.uk/ukpga/2006/21). Section 79 was amended by paragraph 114 of Schedule 14 to the [Education and Inspections Act 2006 (c.40)](https://www.legislation.gov.uk/ukpga/2006/40) and by paragraph 204 of Schedule 11 to the Crime and Courts Act 2013.
+
+[^key-fed95e6c83dfb6c2f96f182074e833dc]: Textual amendment: Word in rule 16(3)(a)(xiv) omitted (11.1.2015) by virtue of [The Family Court (Composition and Distribution of Business) (Amendment) Rules 2014 (S.I. 2014/3297)](https://www.legislation.gov.uk/uksi/2014/3297), [rules 1](https://www.legislation.gov.uk/uksi/2014/3297/rule/1), [4(a)(i)](https://www.legislation.gov.uk/uksi/2014/3297/rule/4/a/i)
+
+[^key-ef10f49511cd4dfd21a629e71fbcb08b]: Textual amendment: Rule 16(3)(a)(xv)(xvi) inserted (11.1.2015) by [The Family Court (Composition and Distribution of Business) (Amendment) Rules 2014 (S.I. 2014/3297)](https://www.legislation.gov.uk/uksi/2014/3297), [rules 1](https://www.legislation.gov.uk/uksi/2014/3297/rule/1), [4(a)(ii)](https://www.legislation.gov.uk/uksi/2014/3297/rule/4/a/ii)
+
+[^key-52610843551b1e92da9fd1de2b16f597]: Textual amendment: Word in [rule 16(3)(a)(xv)](https://www.legislation.gov.uk/uksi/2014/840/rule/16/3/a/xv) omitted (8.4.2024) by virtue of [The Family Court (Composition and Distribution of Business) (Amendment) Rules 2024 (S.I. 2024/258)](https://www.legislation.gov.uk/uksi/2024/258), [rules 1(2)](https://www.legislation.gov.uk/uksi/2024/258/rule/1/2), [2(2)(a)(i)](https://www.legislation.gov.uk/uksi/2024/258/rule/2/2/a/i)
+
+[^key-d0642f0b6c943eaf4c218ebdea6910f6]: Textual amendment: Word in [rule 16(3)(a)(xvi)](https://www.legislation.gov.uk/uksi/2014/840/rule/16/3/a/xvi) inserted (8.4.2024) by [The Family Court (Composition and Distribution of Business) (Amendment) Rules 2024 (S.I. 2024/258)](https://www.legislation.gov.uk/uksi/2024/258), [rules 1(2)](https://www.legislation.gov.uk/uksi/2024/258/rule/1/2), [2(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2024/258/rule/2/2/a/ii)
+
+[^key-afc85e2cabd67a45acacbf4bca989f48]: Textual amendment: [Art. 16(3)(a)(xvii)](https://www.legislation.gov.uk/uksi/2014/840/article/16/3/a/xvii) inserted (8.4.2024) by [The Family Court (Composition and Distribution of Business) (Amendment) Rules 2024 (S.I. 2024/258)](https://www.legislation.gov.uk/uksi/2024/258), [rules 1(2)](https://www.legislation.gov.uk/uksi/2024/258/rule/1/2), [2(2)(a)(iii)](https://www.legislation.gov.uk/uksi/2024/258/rule/2/2/a/iii)
+
+[^c22071141]: Marginal citation: Part 4A was inserted by section 1 of the [Forced Marriage (Civil Protection) Act 2007 (c.20)](https://www.legislation.gov.uk/ukpga/2007/20) and was amended by paragraphs 139 to 142 of Schedule 11 to the Crime and Courts Act 2013.
+
+[^key-915aa53a3613c2383ed3d455bd714d6b]: Textual amendment: Semicolon in rule 16(5)(b) substituted for full stop (11.1.2015) by [The Family Court (Composition and Distribution of Business) (Amendment) Rules 2014 (S.I. 2014/3297)](https://www.legislation.gov.uk/uksi/2014/3297), [rules 1](https://www.legislation.gov.uk/uksi/2014/3297/rule/1), [4(b)(i)](https://www.legislation.gov.uk/uksi/2014/3297/rule/4/b/i)
+
+[^key-7fd55483054fc283c683d7f3c0a67f70]: Textual amendment: Rule 16(5)(c)(d) inserted (11.1.2015) by [The Family Court (Composition and Distribution of Business) (Amendment) Rules 2014 (S.I. 2014/3297)](https://www.legislation.gov.uk/uksi/2014/3297), [rules 1](https://www.legislation.gov.uk/uksi/2014/3297/rule/1), [4(b)(ii)](https://www.legislation.gov.uk/uksi/2014/3297/rule/4/b/ii)
+
+[^key-bb540fb1330fd94900594d1401c02c72]: Textual amendment: Semicolon in [rule 16(5)(d)](https://www.legislation.gov.uk/uksi/2014/840/rule/16/5/d) substituted for full stop (17.7.2015) by [The Family Court (Composition and Distribution of Business) (Amendment) Rules 2015 (S.I. 2015/1421)](https://www.legislation.gov.uk/uksi/2015/1421), [rules 1](https://www.legislation.gov.uk/uksi/2015/1421/rule/1), [3(a)](https://www.legislation.gov.uk/uksi/2015/1421/rule/3/a)
+
+[^key-3d3a54b7bb451f2502125255a2a86058]: Textual amendment: [Rule 16(5)(e)](https://www.legislation.gov.uk/uksi/2014/840/rule/16/5/e) inserted (17.7.2015) by [The Family Court (Composition and Distribution of Business) (Amendment) Rules 2015 (S.I. 2015/1421)](https://www.legislation.gov.uk/uksi/2015/1421), [rules 1](https://www.legislation.gov.uk/uksi/2015/1421/rule/1), [3(b)](https://www.legislation.gov.uk/uksi/2015/1421/rule/3/b)
+
+[^key-78b26d0a24e42ed500ba04e704a57713]: Textual amendment: [Rule 16(5)(e)](https://www.legislation.gov.uk/uksi/2014/840/rule/16/5/e); semicolon substituted for full stop (8.4.2024) by [The Family Court (Composition and Distribution of Business) (Amendment) Rules 2024 (S.I. 2024/258)](https://www.legislation.gov.uk/uksi/2024/258), [rules 1(2)](https://www.legislation.gov.uk/uksi/2024/258/rule/1/2), [2(2)(b)(i)](https://www.legislation.gov.uk/uksi/2024/258/rule/2/2/b/i)
+
+[^key-7c5f0da9562742b6e3a4cf3c0fde0de1]: Textual amendment: [Rule 16(5)(f)](https://www.legislation.gov.uk/uksi/2014/840/rule/16/5/f) inserted (8.4.2024) by [The Family Court (Composition and Distribution of Business) (Amendment) Rules 2024 (S.I. 2024/258)](https://www.legislation.gov.uk/uksi/2024/258), [rules 1(2)](https://www.legislation.gov.uk/uksi/2024/258/rule/1/2), [2(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2024/258/rule/2/2/b/ii)
+
+[^key-078273cac80b89886a8bbaeb43f3c8ea]: Modification: Rule 19 applied (22.4.2014) by [The Crime and Courts Act 2013 (Family Court Transitional and Saving Provision) Order 2014 (S.I. 2014/956)](https://www.legislation.gov.uk/uksi/2014/956), [arts. 1](https://www.legislation.gov.uk/uksi/2014/956/article/1), [10(2)](https://www.legislation.gov.uk/uksi/2014/956/article/10/2)
+
+[^c22071151]: Marginal citation: [1920 c.33](https://www.legislation.gov.uk/ukpga/1920/33).
+
+[^c22071161]: Marginal citation: [1949 c.76](https://www.legislation.gov.uk/ukpga/1949/76).
+
+[^c22071171]: Marginal citation: [1950 c.37](https://www.legislation.gov.uk/ukpga/1950/37).
+
+[^c22071181]: Marginal citation: [1958 c.39](https://www.legislation.gov.uk/ukpga/1958/39).
+
+[^c22071191]: Marginal citation: [1972 c.18](https://www.legislation.gov.uk/ukpga/1972/18).
+
+[^c22071201]: Marginal citation: [1978 c.22](https://www.legislation.gov.uk/ukpga/1978/22).
+
+[^c22071211]: Marginal citation: [1982 c.27](https://www.legislation.gov.uk/ukpga/1982/27).
+
+[^key-266a3519174f75a2ec5211b29bd6625b]: Textual amendment: Words in Sch. 1 para. 1(h) inserted (8.4.2024) by [The Family Court (Composition and Distribution of Business) (Amendment) Rules 2024 (S.I. 2024/258)](https://www.legislation.gov.uk/uksi/2024/258), [rules 1(2)](https://www.legislation.gov.uk/uksi/2024/258/rule/1/2), [2(3)(a)](https://www.legislation.gov.uk/uksi/2024/258/rule/2/3/a)
+
+[^c22071221]: Marginal citation: Section 55A was inserted by section 83 of the [Child Support, Pensions and Social Security Act 2000 (c.19)](https://www.legislation.gov.uk/ukpga/2000/19) and was amended by paragraph 95 of Schedule 11 to the Crime and Courts Act 2013.
+
+[^c22071231]: Marginal citation: Section 32L was inserted by the [Child Maintenance and Other Payments Act 2008 (c.6)](https://www.legislation.gov.uk/ukpga/2008/6) and was amended by paragraph 124 of Schedule 11 to the Crime and Courts Act 2013 and by [S.I. 2012/2007](https://www.legislation.gov.uk/uksi/2012/2007).
+
+[^c22071241]: Marginal citation: [1998 c.37](https://www.legislation.gov.uk/ukpga/1998/37). Section 11 was amended by Part 4 of Schedule 5 to the [Children Act 2004 (c.31)](https://www.legislation.gov.uk/ukpga/2004/31), [Part 13](https://www.legislation.gov.uk/ukpga/2004/31/part/13) of Schedule 8 to the [Policing and Crime Act 2009 (c.26)](https://www.legislation.gov.uk/ukpga/2009/26), and paragraph 147 of Schedule 11 to the Crime and Courts Act 2013.
+
+[^c22071251]: Marginal citation: Council Regulation (EC) No.44/2001 of 22nd December 2000 on jurisdiction and the recognition and enforcement of judgments in civil and commercial matters.
+
+[^c22071261]: Marginal citation: [2010 nawm 1](https://www.legislation.gov.uk/mwa/2010/1).
+
+[^c22071271]: Marginal citation: Schedule 6 was amended by paragraphs 178 to 200 of Schedule 11 to the Crime and Courts Act 2013 and by [S.I. 2006/1016](https://www.legislation.gov.uk/uksi/2006/1016) and 2011/1484.
+
+[^c22071281]: Marginal citation: [2008 c.22](https://www.legislation.gov.uk/ukpga/2008/22). Section 54 was amended by paragraph 206 of Schedule 11 to the Crime and Courts Act 2013.
+
+[^key-e7c91136c42818b4fa6265593d565355]: Textual amendment: Words in [Sch. 1 para. 1(o)](https://www.legislation.gov.uk/uksi/2014/840/schedule/1/paragraph/1/o) inserted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 5(2)(a)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/5/2/a)
+
+[^c22071291]: Marginal citation: Council Regulation (EC) No 4/2009 of 18th December 2008 on jurisdiction, applicable law, recognition and enforcement of decisions and co-operation in matters relating to maintenance obligations, including as applied to Denmark by virtue of the Agreement made on 19th October 2005 between the European Community and the Kingdom of Denmark.
+
+[^key-75008a347d7db86fadb204b5e13381da]: Textual amendment: Semicolon in Sch. 1 para. 1(p) substituted for full stop (11.1.2015) by [The Family Court (Composition and Distribution of Business) (Amendment) Rules 2014 (S.I. 2014/3297)](https://www.legislation.gov.uk/uksi/2014/3297), [rules 1](https://www.legislation.gov.uk/uksi/2014/3297/rule/1), [5(a)(i)](https://www.legislation.gov.uk/uksi/2014/3297/rule/5/a/i)
+
+[^key-f0a95ecb7f838e12df62a20213235071]: Textual amendment: Sch. 1 para. 1(q) inserted (11.1.2015) by [The Family Court (Composition and Distribution of Business) (Amendment) Rules 2014 (S.I. 2014/3297)](https://www.legislation.gov.uk/uksi/2014/3297), [rules 1](https://www.legislation.gov.uk/uksi/2014/3297/rule/1), [5(a)(ii)](https://www.legislation.gov.uk/uksi/2014/3297/rule/5/a/ii)
+
+[^c22071301]: Marginal citation: [1882 c.75](https://www.legislation.gov.uk/ukpga/1882/75).
+
+[^c22071311]: Marginal citation: [1973 c.18](https://www.legislation.gov.uk/ukpga/1973/18).
+
+[^c22071321]: Marginal citation: Section 12 was amended by paragraph 90 of Schedule 27 to the Civil Partnership Act 2004.
+
+[^key-5d007eded49a377ac9d6d4ca797ec39f]: Textual amendment: Words in Sch. 1 para. 2(c) omitted (24.5.2021) by virtue of [The Family Court (Composition and Distribution of Business) (Amendment) Rules 2021 (S.I. 2021/505)](https://www.legislation.gov.uk/uksi/2021/505), [rules 1(2)](https://www.legislation.gov.uk/uksi/2021/505/rule/1/2), [4(a)(i)](https://www.legislation.gov.uk/uksi/2021/505/rule/4/a/i)
+
+[^c22071331]: Marginal citation: Schedule 1 was amended by paragraph 10 of Schedule 16 to the Courts and Legal Services Act 1990, section 6 of the [Maintenance Enforcement Act 1991 (c.17)](https://www.legislation.gov.uk/ukpga/1991/17), [section 58](https://www.legislation.gov.uk/ukpga/1991/17/section/58) of the Child Support Act 1991, Part 5 of Schedule 15 to the Access to [Justice Act 1999 (c.22)](https://www.legislation.gov.uk/ukpga/1999/22), [Part 1](https://www.legislation.gov.uk/ukpga/1999/22/part/1) of Schedule 9 and paragraph 10 of Schedule 3 to the Child Support, Pensions and Social Security Act 2000, paragraph 71 of Schedule 3 to the Adoption and Children Act 2002, paragraphs 330 and 338 of Schedule 8 to the Courts Act 2003, section 78 of the Civil Partnership Act 2004, paragraph 209 of Part 1 of Schedule 4 to the Constitutional Reform Act 2005, paragraph 32 of Part 1 of Schedule 6 to the Human Fertilisation and Embryology Act 2008, paragraphs 102, 112 and 117 to 119 of Schedule 11 to the Crime and Courts Act 2013, paragraph 40 of Schedule 1 to the [Children and Families Act 2014 (c.6)](https://www.legislation.gov.uk/ukpga/2014/6) and [S.I. 1992/709](https://www.legislation.gov.uk/uksi/1992/709), 1993/623, 1994/731, 2011/1484 and 2012/2814.
+
+[^c22071341]: Marginal citation: [2004 c.7](https://www.legislation.gov.uk/ukpga/2004/7).
+
+[^key-1cbdad228ed808b5c4292e05574194d2]: Textual amendment: Sch. 1 para. 2(f)(i): full stop substituted for word (24.5.2021) by [The Family Court (Composition and Distribution of Business) (Amendment) Rules 2021 (S.I. 2021/505)](https://www.legislation.gov.uk/uksi/2021/505), [rules 1(2)](https://www.legislation.gov.uk/uksi/2021/505/rule/1/2), [4(a)(ii)(aa)](https://www.legislation.gov.uk/uksi/2021/505/rule/4/a/ii/aa)
+
+[^key-e9a95b1f5acf08b165aaa078aeb742ac]: Textual amendment: Sch. 1 para. 2(f)(ii) omitted (24.5.2021) by virtue of [The Family Court (Composition and Distribution of Business) (Amendment) Rules 2021 (S.I. 2021/505)](https://www.legislation.gov.uk/uksi/2021/505), [rules 1(2)](https://www.legislation.gov.uk/uksi/2021/505/rule/1/2), [4(a)(ii)(bb)](https://www.legislation.gov.uk/uksi/2021/505/rule/4/a/ii/bb)
+
+[^c22071361]: Marginal citation: Section 55 was amended by paragraph 4 of Schedule 8 to the Child Support, Pensions and Social Security Act 2000 and paragraph 96 of Schedule 11 to the Crime and Courts Act 2013.
+
+[^c22071371]: Marginal citation: Section 56 was substituted by section 22 of the [Family Law Reform Act 1987 (c.42)](https://www.legislation.gov.uk/ukpga/1987/42) and amended by paragraph 5 of Schedule 9 and paragraph 5 of Schedule 8 to the Child Support, Pensions and Social Security Act 2000, paragraph 23 of Part 1 of Schedule 6 to the Human Fertilisation and Embryology Act 2008 and paragraph 98 of Schedule 11 to the Crime and Courts Act 2013.
+
+[^c22071381]: Marginal citation: Section 57 was amended by paragraph 6 of Schedule 8 to the Child Support, Pensions and Social Security Act 2000, paragraphs 46 and 49 of Schedule 3 to the Adoption and Children Act 2002 and paragraph 99 of Schedule 1 to the Crime and Courts Act 2013.
+
+[^key-b632a1d75663472d584acb08b16d3091]: Textual amendment: Words in [Sch. 1 para. 3(c)](https://www.legislation.gov.uk/uksi/2014/840/schedule/1/paragraph/3/c) inserted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 5(2)(b)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/5/2/b)
+
+[^key-d5af7f20901f33d809ccf716cd081903]: Textual amendment: Sch. 1 para. 4(a) omitted (24.5.2021) by virtue of [The Family Court (Composition and Distribution of Business) (Amendment) Rules 2021 (S.I. 2021/505)](https://www.legislation.gov.uk/uksi/2021/505), [rules 1(2)](https://www.legislation.gov.uk/uksi/2021/505/rule/1/2), [4(b)](https://www.legislation.gov.uk/uksi/2021/505/rule/4/b)
+
+[^key-b014c73f2f301a43bdf8af94b2838680]: Textual amendment: Sch. 1 para. 4(d) omitted (24.5.2021) by virtue of [The Family Court (Composition and Distribution of Business) (Amendment) Rules 2021 (S.I. 2021/505)](https://www.legislation.gov.uk/uksi/2021/505), [rules 1(2)](https://www.legislation.gov.uk/uksi/2021/505/rule/1/2), [4(b)](https://www.legislation.gov.uk/uksi/2021/505/rule/4/b)
+
+[^key-c4823841824452943de81e54713ded1c]: Textual amendment: Words in [Sch. 1 para. 4(f)](https://www.legislation.gov.uk/uksi/2014/840/schedule/1/paragraph/4/f) inserted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 5(2)(c)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/5/2/c)
+
+[^key-fd54bca950dcd8c91aa29e3c848759f2]: Textual amendment: Semicolon in Sch. 1 para. 4(f) substituted for full stop (11.1.2015) by [The Family Court (Composition and Distribution of Business) (Amendment) Rules 2014 (S.I. 2014/3297)](https://www.legislation.gov.uk/uksi/2014/3297), [rules 1](https://www.legislation.gov.uk/uksi/2014/3297/rule/1), [5(b)(i)](https://www.legislation.gov.uk/uksi/2014/3297/rule/5/b/i)
+
+[^key-15725a83961795568809a9a7aa4e185b]: Textual amendment: Sch. 1 para. 4(g) inserted (11.1.2015) by [The Family Court (Composition and Distribution of Business) (Amendment) Rules 2014 (S.I. 2014/3297)](https://www.legislation.gov.uk/uksi/2014/3297), [rules 1](https://www.legislation.gov.uk/uksi/2014/3297/rule/1), [5(b)(ii)](https://www.legislation.gov.uk/uksi/2014/3297/rule/5/b/ii)
+
+[^key-edba7f8b80d7241ddf3ee584c1e8f538]: Textual amendment: Word in Sch. 1 para. 4(g) substituted (8.4.2024) by [The Family Court (Composition and Distribution of Business) (Amendment) Rules 2024 (S.I. 2024/258)](https://www.legislation.gov.uk/uksi/2024/258), [rules 1(2)](https://www.legislation.gov.uk/uksi/2024/258/rule/1/2), [2(3)(b)(i)](https://www.legislation.gov.uk/uksi/2024/258/rule/2/3/b/i)
+
+[^key-6f8b7f9497993b63aaa15360e65043a1]: Textual amendment: Sch. 1 para. 4(h) inserted (8.4.2024) by [The Family Court (Composition and Distribution of Business) (Amendment) Rules 2024 (S.I. 2024/258)](https://www.legislation.gov.uk/uksi/2024/258), [rules 1(2)](https://www.legislation.gov.uk/uksi/2024/258/rule/1/2), [2(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2024/258/rule/2/3/b/ii)
+
+[^c22071401]: Marginal citation: Section 21 was amended by section 79 of the Civil Partnership Act 2004.
+
+[^c22071411]: Marginal citation: Section 26 was amended by paragraph 14 of Schedule 2 to the [Children and Adoption Act 2006 (c.20)](https://www.legislation.gov.uk/ukpga/2006/20) and section 9(3) of, and paragraph 60 of Schedule 2 to, the Children and Families Act 2014.
+
+[^c22071421]: Marginal citation: Section 46 was amended by [S.I. 2013/1465](https://www.legislation.gov.uk/uksi/2013/1465).
+
+[^c22071431]: Marginal citation: Section 51A was inserted by section 9(1) of the Children and Families Act 2014.
+
+[^c22071441]: Marginal citation: Section 55 was amended by paragraph 412 of Schedule 8 to the Courts Act 2003 and by paragraph 153 of Schedule 11 to the Crime and Courts Act 2013.
+
+[^c22071451]: Marginal citation: Section 34 was amended by paragraph 56 of Schedule 10 to the Crime and Courts Act 2013 and by [S.I. 1998/2940](https://www.legislation.gov.uk/uksi/1998/2940).
+
+[^c22071461]: Marginal citation: Section 53 was amended by paragraph 44 of Schedule 18 to the Courts and Legal Services Act 1990, paragraph 2 of Schedule 2 to the Civil Procedure Act 1997 and paragraph 10 of Schedule 9 to the Crime and Courts Act 2013 and [S.I. 1998/2940](https://www.legislation.gov.uk/uksi/1998/2940).
+
+[^c22071471]: Marginal citation: Section 31E was inserted by paragraph 1 of Schedule 10 to the Crime and Courts Act 2013.
+
+[^c22071481]: Marginal citation: Section 4 was amended by Schedule 5 to the Senior Courts Act 1981, paragraph 64 of Schedule 2 to the County Courts Act 1984, paragraph 1 of Schedule 11 to the Constitutional Reform Act 2005, paragraph 133 of Schedule 9 and paragraph 37 of Schedule 10 to the Crime and Courts Act 2013 and [S.I. 1980/397](https://www.legislation.gov.uk/uksi/1980/397).
+
+[^c22071491]: Marginal citation: Section 7 was amended by paragraph 154 of Schedule 27 to the Civil Partnership Act 2004.
+
+[^c22071501]: Marginal citation: [1998 c.42](https://www.legislation.gov.uk/ukpga/1998/42).
+
+[^key-272c2e4a7fcc915ae0baecc75fa81fb1]: Textual amendment: [Sch. 2 Table 3 para. 6](https://www.legislation.gov.uk/uksi/2014/840/schedule/2) inserted (11.1.2015) by [The Family Court (Composition and Distribution of Business) (Amendment) Rules 2014 (S.I. 2014/3297)](https://www.legislation.gov.uk/uksi/2014/3297), [rules 1](https://www.legislation.gov.uk/uksi/2014/3297/rule/1), [6](https://www.legislation.gov.uk/uksi/2014/3297/rule/6)

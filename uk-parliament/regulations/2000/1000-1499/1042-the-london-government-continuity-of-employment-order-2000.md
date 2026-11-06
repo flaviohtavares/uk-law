@@ -1,0 +1,139 @@
+---
+title: The London Government (Continuity of Employment) Order 2000
+id: uksi/2000/1042
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2000-04-12'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2000/1042
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2000/1042/pdfs/uksi_20001042_en.pdf
+- http://www.legislation.gov.uk/uksi/2000/1042/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The London Government (Continuity of Employment) Order 2000
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2000 No. 1042
+
+LONDON GOVERNMENT
+
+TERMS AND CONDITIONS OF EMPLOYMENT
+
+The London Government (Continuity of Employment) Order 2000
+
+Made
+
+12th April 2000
+
+Laid before Parliament
+
+14th April 2000
+
+Coming into force
+
+Article 4(1) and (2)
+
+8th May 2000
+
+Article 4(3), (4) and (5)
+
+3rd July 2000
+
+Remainder
+
+5th May 2000
+
+The Secretary of State for the Environment, Transport and the Regions, in exercise of the powers conferred by section 405(2) and 406 of the Greater London Authority Act 1999[^f00001] hereby makes the following Order—
+
+## 1. Citation and commencement
+
+(1) This Order may be cited as the London Government (Continuity of Employment) Order 2000.
+
+(2) With the exception of article 4 this Order shall come into force on 5th May 2000.
+
+(3) Paragraphs (1) and (2) of article 4 shall come into force on 8th May 2000 and paragraphs (3), (4) and (5) of that article shall come into force on 3rd July 2000.
+
+## 2. Interpretation
+
+In this Order—
+
+- “the 1999 Act” means the Greater London Authority Act 1999;
+- “the Modification Order” means the Redundancy Payments (Continuity of Employment in Local Government, etc.) (Modification) Order 1999[^f00002];
+- “Modification Order employer” means an employer for the time being specified in Schedule 1 to the Modification Order;
+- “relevant employee” means a person who—
+  - (a) has been employed by the Secretary of State in exercise of the Secretary of State’s power under section 407 of the 1999 Act;
+  - (b) immediately before he was so employed was employed by a Modification Order employer; and
+  - (c) immediately after ceasing to be employed by the Secretary of State became an employee of the Greater London Authority or a functional body;
+- “relevant event” has the meaning given by article 1(3) of the Modification Order;
+- “the relevant period” in relation to a relevant employee means the period during which the employee was employed by the Secretary of State; and
+- “section 407 employee” means a person for the time being employed by the Secretary of State under section 407 of the 1999 Act who immediately before being so employed was employed by a Modification Order employer.
+
+## 3. Continuity of employment
+
+(1) For the purposes of the Modification Order a relevant employee who was employed by a Modification Order employer immediately before the happening of a relevant event shall be treated as having been employed throughout the relevant period by a Modification Order employer.
+
+(2) A section 407 employee shall, on the happening of an event which would, if employment by the Secretary of State were employment to which Part XI of the Employment Rights Act 1996[^f00003] (redundancy payments etc.) applied, be a relevant event, be treated for the purposes of that Part—
+
+- (a) as if employment by the Secretary of State were employment to which that Part applied; and
+- (b) as if the Secretary of State were a Modification Order employer.
+
+## 4. Amendment of Modification Order
+
+(1) The Modification Order shall be amended as follows.
+
+(2) In Section 1 of Schedule 1 there shall be inserted the following paragraphs—
+
+> **6A.** The Greater London Authority.
+>
+> **6B.** Transport for London.
+
+(3) After paragraph 6B as so inserted there shall be inserted the following paragraphs—
+
+> **6C.** A functional body as defined in section 424 of the Greater London Authority Act 1999 but excluding Transport for London.
+>
+> **6D.** The London Transport Users' Committee established under section 247 of the 1999 Act.
+>
+> **6E.** The Cultural Strategy Group for London established under section 375 of that Act.
+
+(4) In Section 6 of Schedule 1—
+
+- (a) in paragraph 2 the words “, other than the Secretary of State,” shall be omitted; and
+- (b) paragraph 4 shall be omitted.
+
+(5) In Section 6 of Part II of Schedule 2—
+
+- (a) in the cross heading for “*Police*” there shall be substituted “*Police, fire and civil defence*”;
+- (b) the paragraph comprising this Section shall be numbered as paragraph 1; and
+- (c) after paragraph 1 as so numbered there shall be inserted—
+
+  > **2.** The London Fire and Civil Defence Authority.
+
+Signed by authority of the Secretary of State
+
+Keith Hill
+
+Parliamentary Under Secretary of State
+
+Department of the Environment, Transport and the Regions
+
+12th April 2000
+
+(This note is not part of the Order)
+
+This Order provides for persons within defined classes to be treated for the purposes of redundancy payments as employed in local government whilst they were, or are, employed by the Secretary of State under section 407 of the Greater London Authority Act 1999. The Order also adds the Greater London Authority, its functional bodies and two other associated bodies to the list of employers to which the Redundancy Payments (Continuity of Employment in Local Government, etc) (Modification) Order 1999 applies and makes consequential amendments to that Order.
+
+## Annotations
+
+[^f00001]: Footnote: [1999 c. 29](https://www.legislation.gov.uk/ukpga/1999/29).
+
+[^f00002]: Footnote: S.I. [1999/2277](https://www.legislation.gov.uk/uksi/1999/2277).
+
+[^f00003]: Footnote: [1996 c. 18](https://www.legislation.gov.uk/ukpga/1996/18).

@@ -1,0 +1,1674 @@
+---
+title: The School Discipline (Pupil Exclusions and Reviews) (England) Regulations 2012
+id: uksi/2012/1033
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2012-04-03'
+text_date: '2024-08-19'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2012/1033
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2012/1033/pdfs/uksiem_20121033_en.pdf
+- http://www.legislation.gov.uk/uksi/2012/1033/pdfs/uksi_20121033_en.pdf
+- http://www.legislation.gov.uk/uksi/2012/1033/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The School Discipline (Pupil Exclusions and Reviews) (England) Regulations 2012
+
+> Text as at 2024-08-19.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2012 No. 1033
+
+Education, England
+
+The School Discipline (Pupil Exclusions and Reviews) (England) Regulations 2012
+
+Made
+
+3rd April 2012
+
+Laid before Parliament
+
+13th April 2012
+
+Coming into force
+
+1st September 2012
+
+The Secretary of State makes the following Regulations in exercise of the powers conferred by sections 19(3B), 494(5) and 569(4) of the Education Act 1996 [^c21238111], sections 51A(3), (5), (6), (7), (8), (9), (10) and (12), 210(7) and 214 of the Education Act 2002 [^c21238121] and sections 100, 102, 104 and 181(2) of the Education and Inspections Act 2006 [^c21238131].
+
+The Secretary of State has consulted with the Administrative Justice and Tribunals Council in accordance with section 8 of the Tribunals and Inquiries Act 1992 [^c21238141].
+
+## PART 1 — General
+
+### 1. Citation, commencement and application
+
+(1) These Regulations may be cited as the School Discipline (Pupil Exclusions and Reviews)(England) Regulations 2012 and come into force on 1st September 2012.
+
+(2) These Regulations apply only in relation to exclusions of pupils from maintained schools, pupil referral units, Academy schools and alternative provision Academies, in England, occurring on or after 1st September 2012.
+
+### 2. Interpretation
+
+(1) In these Regulations—
+
+- “**the Act**” means the Education Act 2002;
+- “**Academy**” means an Academy school or an alternative provision Academy;
+- [^key-883e59d3c9d1e37e257ed2028900a60a]...
+- “extraordinary events or unforeseen circumstances” means extraordinary events or unforeseen circumstances arising after a meeting has been agreed to take place in person;[^key-967a1418fb9a604a1a9fb1f06a558b05]
+- “**home local authority**” means the local authority responsible for the area in which the pupil resides where this differs from the local authority in which the pupil's school is located;
+- “**National Curriculum test**” means any test specified in, or by virtue of, an order under section 87(3)(c) of the Act;
+- “**principal**” means the head teacher of an Academy;
+- “**reference date**” means 31st December, Easter Monday or 31st July;
+- [^key-adcc8e7644eddf817d9c9c711184bc84]...
+- “**relevant person**” means—
+  - (a) in relation to a pupil under the age of 18, a parent of the pupil; or
+  - (b) in relation to a pupil who has attained that age, the pupil;
+- “[^key-6407e5ee71c71d72a2eebc08bdf4ff47]**remote access**” means access to a meeting to enable those who are not all present together at the same place to attend and participate simultaneously by electronic means, including by live audio and live video link;
+- “[^key-8c7d0ab9adc6535b47843ba4566df2f2]**remote meeting request**” means a request by a relevant person for a meeting to be held using remote access;
+- “**review**” means a review of a decision not to reinstate a pupil;
+- “**review panel**” means a review panel constituted in accordance with Schedule 1;
+- “**SEN expert**” means an individual who—
+  - (a) has expertise and experience of special educational needs [^c21238151] considered by the local authority (or, in relation to an Academy, the proprietor [^c21238161]) as appropriate to perform the functions specified in paragraph 18 of Schedule 1; and
+  - (b) is not disqualified from appointment under paragraph 3(7) of Schedule 1;
+- “[^key-443ba567e02cf9ce77a205fabee556cd]**social worker**” means a registered social worker within the meaning of regulations 2(5) and (6) of the Social Workers Regulations 2018 and a reference to a social worker in these Regulations is a reference to any social worker who is assigned to the pupil who is excluded from a maintained school, pupil referral unit or an Academy;
+- “**term**” means—
+  - (a) in a school which has 3 terms or fewer in a school year [^c21238171], one of those terms; or
+  - (b) in a school which has more than 3 terms in a school year, any period which falls between 2 reference dates;
+- “**unit**” means a pupil referral unit; [^key-1d6f4ae031375e919aeb651cf2deab0f]...
+- “[^key-595d8b67704b27fca313efc52d4a581a]**virtual school head**” means a person appointed under section 22(3B) (general duty of local authority in relation to children looked after by them) of the Children Act 1989 and a reference to a virtual school head in these Regulations is to any virtual school head who has responsibility for the pupil who is excluded from a maintained school, pupil referral unit or an Academy; and
+- “**working day**” means a day other than a Saturday, a Sunday, Christmas Day, Good Friday or a day which is a bank holiday within the meaning of the Banking and Financial Dealings Act 1971 [^c21238181].
+
+(2) For the purpose of these Regulations, any exclusion for a fixed period consisting of the period between the morning and afternoon school sessions is taken to be half a school day.
+
+### 3. Schedules
+
+(1) Schedule 1 has effect in relation to the constitution of review panels and the procedure of reviews.
+
+(2) Schedule 2 has effect.
+
+(3) The instruments listed in column (1) of the table in Schedule 3 (which have the references listed in column (2)) are revoked to the extent indicated in column (3).
+
+(4) The instruments listed in Schedules 2 and 3 continue in force in relation to an exclusion occurring before 1st September 2012 as if the amendments in Schedule 2 and the revocations in Schedule 3 were not made.
+
+## PART 2 — Maintained schools
+
+### 4. The power of a head teacher to exclude pupils
+
+A head teacher may not exercise the power under section 51A(1) of the Act so as to exclude a pupil for one or more fixed periods if, as a result, the pupil would be excluded for more than 45 school days in any school year.
+
+### 5. Exclusion of pupils: head teacher's duty to inform relevant person, governing body , local authority, social worker and virtual school head[^key-c0b281471ca48b3e828c410eccc3dc18]
+
+(1) Where the head teacher decides to exclude a pupil for a fixed period, the head teacher must, without delay—
+
+- (a) inform the relevant person , the local authority, the social worker and the virtual school head[^key-33524b71fa164dc48de8f7d565236627] of the period of the exclusion and the reasons for it; and
+- (b) give the relevant person notice in writing stating the following matters—
+  - (i) the period of the exclusion and the reasons for it;
+  - (ii) that the relevant person may make representations about the decision to the governing body and that, where the pupil is not the relevant person, the pupil may also be involved in the process of making representations, and an explanation as to how the pupil may be involved;
+  - (iii) the means by which representations may be made; and
+  - (iv) where and to whom representations should be sent.
+
+(2) Paragraph (3) applies where the head teacher decides—
+
+- (a) to exclude a pupil permanently; or
+- (b) to exclude a pupil and, as a result of the exclusion, the pupil would—
+  - (i) be excluded for a total of more than 5 school days in any term; or
+  - (ii) lose an opportunity to take a public examination or a National Curriculum test.
+
+(3) The head teacher must, without delay—
+
+- (a) inform the relevant person, the governing body , the local authority[^key-fe83b95258453e8db68be36b7249798d] (and, in the case of a permanent exclusion, if applicable, the home local authority) , the social worker and the virtual school head[^key-f984cc16365c20a924adf6c3c4c93726] of the period of the exclusion and the reasons for it; and
+- (b) give the relevant person notice in writing stating the following matters—
+  - (i) the period of the exclusion and the reasons for it;
+  - (ii) that the relevant person may make representations about the decision to the governing body and that, where the pupil is not the relevant person, the pupil may also be involved in the process of making representations, and an explanation as to how the pupil may be involved;
+  - (iia)[^key-cd233bc891c7531f2eb29115c8cfcdba] where a meeting of the governing body is to consider the exclusion, that a remote meeting request may be made, if the relevant person wishes to be able to attend the meeting using remote access;
+  - (iii) the means by which representations or a remote meeting request[^key-9a53269a733d100c39bc540a648cd365] may be made;
+  - (iv) where and to whom representations or a remote meeting request[^key-d9890293f37bb4926ca022efca020d56] should be sent; and
+  - (v) where a meeting of the governing body is to consider the exclusion, that the relevant person may attend and be represented at the meeting (at their own expense), and may be accompanied by a friend.
+
+(4) Any expense in connection with the representation of the relevant person is to be an expense of the relevant person.
+
+(5) In each term the head teacher must inform the governing body [^key-5456e2e14f3ea290a14e20262c5010d4]... of the following—
+
+- (a) all exclusions that have occurred in that term to which paragraph (3) does not apply;
+- (b) unless the head teacher has already done so, any such exclusions occurring during previous terms in that school year; and
+- (c) the period of each exclusion and the reasons for it.
+
+### 6. Functions of the governing body in relation to excluded pupils
+
+(1) Paragraphs (2) to (6) apply where the governing body are informed under regulation 5(3)(a) of—
+
+- (a) the permanent exclusion of a pupil;
+- (b) the exclusion of a pupil where, as a result of the exclusion, the pupil would—
+  - (i) be excluded for a total of more than 15 school days in any term; or
+  - (ii) lose an opportunity to take a public examination or a National Curriculum test; or
+- (c) the exclusion of a pupil where—
+  - (i) the pupil would as a result of the exclusion be excluded for a total of more than 5 school days in any term; and
+  - (ii) the relevant person makes representations under regulation 5(3)(b).
+
+(2) The governing body must decide—
+
+- (a) whether or not the pupil should be reinstated; and
+- (b) where they consider that the pupil should be reinstated, whether the pupil should be reinstated immediately or by a particular date.
+
+(3) In order to decide whether or not a pupil should be reinstated, the governing body must—
+
+- (a) consider the interests and circumstances of the excluded pupil, including the circumstances in which the pupil was excluded, and have regard to the interests of other pupils and persons working at the school (including persons working at the school voluntarily);
+- (b) consider any representations about the exclusion made to the governing body by or on behalf of the relevant person, the head teacher , the local authority, the social worker or the virtual school head[^key-8cbedbea7bb482eb1eea3f113cc68650];
+- (c) take reasonable steps to arrange a meeting at which the exclusion is to be considered for a time and date when each of the following persons is able to attend—
+  - (i) the head teacher;
+  - (ia)[^key-d04eb1b22b51c86ec6ea50fe33f9ed1c] the social worker;
+  - (ib) the virtual school head;
+  - (ii) the relevant person (and, where requested by the relevant person, a representative or friend of the relevant person); and
+  - (iii) a representative of the local authority; and
+- (d) allow each of the persons described in sub-paragraph (c) to attend the meeting and to make representations about the exclusion.
+
+(3A)[^key-100940bc2ecb64a4f60db14e58920fb3][^key-e9b211bd0d7e750d8a5196360290e458] Paragraph (3B) applies if a remote meeting request has been made.
+
+(3B) Where this paragraph applies, the meeting referred to in paragraph (3)(c) must[^key-21f44cc815bfc93e790934c533b1b4cb] be held using remote access, provided the governing body are satisfied that the following conditions are met—
+
+- (a) the participants will be able fully to make representations or discharge their functions (as the case may be);
+- (b)[^key-6385b6463f749828f189d0dd7e6c36f0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c) each participant has access to the electronic means to allow them to hear and be heard and (where using a live video link) see and be seen, throughout the meeting; and
+- (d) the meeting is capable of being held fairly and transparently.
+
+(3C)[^key-a8ef7444363718e1d2ffa33a57c3947f] A social worker or virtual school head who has been invited to attend the meeting referred to in paragraph (3)(c) but is unable to do so may nominate another person as their representative to attend the meeting and make representations about the exclusion.
+
+(3D)[^key-b95a9156618111981d4f733f2ef44693] Where—
+
+- (a) a social worker or virtual school head; or
+- (b) their nominated representative as referred to in paragraph (3C),
+
+attends a meeting referred to in paragraph (3)(c) which is taking place in person, they may do so using remote access provided the governing body are satisfied that the conditions referred to in paragraph (3B)(a), (c) and (d) are met.
+
+(3E) Paragraph (3F) applies if—
+
+- (a) for a reason related to extraordinary events or unforeseen circumstances, it is not reasonably practicable for the meeting referred to in paragraph (3)(c) to be held in person; and
+- (b) the meeting is not already required to take place using remote access pursuant to paragraph (3B).
+
+(3F) Where this paragraph applies, the meeting referred to in paragraph (3)(c) may be held using remote access, provided the governing body are satisfied that the conditions referred to in paragraph (3B)(a), (c) and (d) are met.
+
+(3G) Subject to the exception made for persons referred to in paragraph (3D), a meeting referred to in paragraph (3)(c) must be held in person unless—
+
+- (a) a remote meeting request is made; or
+- (b) for a reason related to extraordinary events or unforeseen circumstances, it is not reasonably practicable for the meeting to be held in person,
+
+and the governing body are satisfied that the conditions in paragraph (3B)(a), (c) and (d) are met.
+
+(4) If the governing body decide that the pupil should be reinstated, they must without delay—
+
+- (a) direct the head teacher accordingly; and
+- (b) inform the relevant person , the local authority[^key-2671e3aff63d50161dc323892d1ad829] (and, if applicable, the home local authority) , the social worker and the virtual school head[^key-82344c215b90924e06fb7ae46de5f4fa] of their decision and the reasons for it in writing.
+
+(5) The head teacher must comply with a direction of the governing body to reinstate the pupil.
+
+(6) If the governing body decide not to reinstate the pupil they must without delay—
+
+- (a) inform the relevant person, the head teacher , the local authority[^key-78b6e421db2017f5931960579c0f97da] (and, if applicable, the home local authority) , the social worker and the virtual school head[^key-79fa767f2a14ce0cac84dd355ea69497] of their decision and the reasons for it in writing; and
+- (b) in the case of a pupil who is permanently excluded, give the relevant person notice in writing stating the following—
+  - (i) that the exclusion is permanent;
+  - (ii) that the relevant person may apply for the governing body's decision to be reviewed by a review panel;
+  - (iii) where the relevant person applies for a review, that the relevant person may require the local authority to appoint a SEN expert to advise the review panel;
+  - (iv) the role of the SEN expert in relation to a review;
+  - (iva)[^key-e125262af5242a534f7a62facb345148] where a meeting of the review panel is to review the governing body’s decision, that a remote meeting request may be made, if the relevant person wishes to be able to attend the meeting using remote access;
+  - (v) how an application for a review or a remote meeting request[^key-a2e1469d82c1e75bb41f88980ea8c7c0] may be made , and what these[^key-2fdbdd9754606e91e8647fa67723dc6e] must contain;
+  - (vi) where and to whom to send the application or remote meeting request[^key-631be3308e768ca4b2e4bcb48574a6df] , and the date by which these[^key-549e577196c2b08f1b19201b39702f09] must be received;
+  - (vii) that the relevant person may, at their own expense, appoint someone to make representations for the purpose of the review; and
+  - (viii) that the relevant person may issue a claim under the Equality Act 2010 [^c21238191] where the relevant person believes that unlawful discrimination has occurred, and the time within which such a claim should be made.
+
+(7) Subject to[^key-ad5f60ebd41fbbd9d74beab21f2b4b55] paragraphs (7E), (7F) and[^key-05033fdc5e68c0b26acb7abd685060de] (8), after being informed of the matters in regulation 5(3)(a), the governing body must take the steps referred to in paragraphs (2) and (3) within—
+
+- (a) 15 school days in the case of—
+  - (i) a permanent exclusion;
+  - (ii) an exclusion for a fixed period which would cause the pupil's total number of days of exclusion to exceed 15 school days in any term; or
+  - (iii) an exclusion where the pupil would, as a result of the exclusion, lose an opportunity to take a public examination or a National Curriculum test; or
+- (b) 50 school days in the case of an exclusion for a fixed period where—
+  - (i) the pupil would, as a result of the exclusion, be excluded for a total of more than 5 school days but not more than 15 school days in any term; and
+  - (ii) the relevant person has made representations under regulation 5(3)(b).
+
+(7A)[^key-52cc84814f70916abb3bbe6926ac84e8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(7B)[^key-52cc84814f70916abb3bbe6926ac84e8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(7C)[^key-52cc84814f70916abb3bbe6926ac84e8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(7D)[^key-52cc84814f70916abb3bbe6926ac84e8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(7E)[^key-8bf82c9d3e70006c381219419c773fb4] Paragraph (7F) applies where, immediately before the applicable time limit referred to in paragraph (7)(a) or (b) expires, the meeting referred to in paragraph (3)(c) has not been held because—
+
+- (a) it has not been reasonably practicable to meet in person for a reason related to extraordinary events or unforeseen circumstances; and
+- (b) it has not been reasonably practicable to meet by way of remote access for a reason related to the satisfaction of the conditions in paragraph (3B)(a), (c) and (d).
+
+(7F) Where this paragraph applies, the time limit referred to in paragraph (7)(a) or (b) within which the governing body must take steps is extended by such period as is reasonably necessary for a reason related to the extraordinary events or unforeseen circumstances.
+
+(8) Where a pupil has been excluded in circumstances in which the pupil would, as a result of the exclusion, lose an opportunity to take a public examination or a National Curriculum test, the governing body must (so far as it is reasonably practicable) take the steps referred to in paragraphs (2) and (3) before the date on which the pupil is due to take the examination or test.
+
+(9) Where—
+
+- (a) a pupil has been excluded in circumstances where paragraphs (2) to (6) do not apply; and
+- (b) the governing body receive representations made under regulation 5(1)(b) from the relevant person about the exclusion,
+
+the governing body must consider those representations.
+
+(10) The governing body will not be relieved of the duty to take any step referred to in paragraph (2) or (3) because it has not been taken within the period specified in paragraph (7) or (8).
+
+(11) The notice in writing referred to in paragraph (6)(b)—
+
+- (a) may be given by—
+  - (i) delivering it directly to the relevant person;
+  - (ii) delivering it to the relevant person's last known address; or
+  - (iii) sending it by first class post to the relevant person's last known address; and
+- (b) unless the contrary is shown, will be taken to have been given—
+  - (i) where first class post is used, on the second working day after the date of posting; or
+  - (ii) where the notice is delivered, on the date of delivery.
+
+### 7. Review of permanent exclusion of a pupil
+
+(1) Where the relevant person applies for a review, the local authority must, at their expense—
+
+- (a) make arrangements for the review of the governing body's decision not to reinstate a pupil who has been permanently excluded; and
+- (b) if requested by the relevant person, appoint, for the purpose of that review, a SEN expert to provide impartial advice on how special educational needs may be relevant to the decision to exclude the pupil permanently.
+
+(2) The local authority are not to take the steps in paragraph (1) where the relevant person has not applied for a review within the time limit specified in Schedule 1.
+
+(3) Where the relevant person wishes that a SEN expert be appointed for a review, the request must be made in writing to the local authority with, and at the same time as, the application for a review.
+
+(4) In exercising its functions under these Regulations, the review panel must consider the interests and circumstances of the excluded pupil, including the circumstances in which the pupil was excluded, and have regard to the interests of other pupils and persons working at the school (including persons working at the school voluntarily).
+
+(5) In addition to the powers of the review panel under section 51A(4) of the Act, the panel may—
+
+- (a) direct the governing body to place a note on the pupil's educational record;
+- (b) order that the local authority are to make an adjustment to the school's budget share for the funding period during which the exclusion occurs in the sum of £4,000 if, following a decision by the panel to quash the governing body's original decision, the governing body—
+  - (i) reconsider the exclusion and decide not to reinstate the pupil; or
+  - (ii) fail to reconsider the exclusion within the time limit specified in regulation 8(1).
+
+(6) The review panel's decision is binding on the relevant person, the governing body, the head teacher , the local authority, the social worker and the virtual school head[^key-6c2291404dbdd8540dbf3b6a6d520919].
+
+### 8. Reconsideration by governing body following a review
+
+(1) Where the review panel—
+
+- (a) recommends that the governing body reconsider a decision not to reinstate a pupil who has been permanently excluded; or
+- (b) quashes the governing body's decision and directs the governing body to reconsider the matter,
+
+the governing body, within 10 school days after notification under paragraph 19 of Schedule 1 of the review panel's decision, must reconvene in order to reconsider the exclusion.
+
+(2) When the governing body have reconsidered their decision they must inform the relevant person, the head teacher , the local authority[^key-be706bfa9a155fbd13699c5a5ba03407] (and, if applicable, the home local authority) , the social worker and the virtual school head[^key-f61becc2707ee2cd3ddddb56d49f6c43] of their reconsidered decision and the reasons for it without delay.
+
+(3) Notification of the review panel's decision is taken to be given—
+
+- (a) where first class post is used, on the second working day after the date of posting; or
+- (b) where the notice is delivered, on the date of delivery.
+
+### 8A. Cancellation of exclusion of a pupil[^key-cc942446a45735d556f270571ab9cfa5]
+
+(1) Subject to paragraphs (2) and (3), if a head teacher decided to exclude a pupil, the head teacher may cancel the exclusion—
+
+- (a) either before or after it has begun; and
+- (b) whether or not the pupil has been admitted to another school following their exclusion.
+
+(2) A head teacher may not cancel an exclusion under paragraph (1) if, by the time the head teacher comes to make the decision to cancel an exclusion, the pupil—
+
+- (a) has already been excluded for more than 45 school days in any school year; or
+- (b) would have been excluded for more than 45 school days in any school year when the cancellation took effect.
+
+(3) In cases where regulation 5(3) applies by virtue of regulation 5(2), a head teacher may not cancel an exclusion under paragraph (1) if, by the time the head teacher comes to make the decision to cancel an exclusion, the governing body has commenced a meeting for the purpose of making a decision under regulation 6(2) regarding reinstatement of the pupil.
+
+(4) Where an exclusion is cancelled in accordance with paragraph (1)—
+
+- (a) the head teacher must, without delay—
+  - (i) inform the relevant person, the governing body, the local authority, the social worker and the virtual school head of the cancellation and the reasons for it in writing; and
+  - (ii) reinstate the pupil;
+- (b) the governing body are not required to consider reinstatement of the pupil under regulation 6.
+
+### 9. Exclusions of pupils: guidance
+
+In exercising their functions under section 51A(1) of the Act or under these Regulations, the following persons and bodies must have regard to any guidance given from time to time by the Secretary of State—
+
+- (a) the head teacher;
+- (aa)[^key-aac28be8f5b7e7933948bbf03eca2420] the social worker;
+- (ab) the virtual school head;
+- (b) the governing body;
+- (c) the local authority;
+- (d) the review panel; and
+- (e) the SEN expert.
+
+### 10. Exclusions: standard of proof
+
+Where it falls to—
+
+- (a) the head teacher, in exercise of the power conferred by section 51A(1) of the Act;
+- (b) the governing body, in exercise of their functions for the purposes of regulations 6 and 8; or
+- (c) the review panel, in exercise of its functions for the purposes of regulation 7,
+
+to establish any fact, any question as to whether that fact is established is to be decided on a balance of probabilities.
+
+### 11. Information
+
+The local authority must, on request, forward to the Secretary of State any information they have received from a head teacher, a governing body or a review panel under this Part or Schedule 1.
+
+## PART 3 — Pupil referral units
+
+### 12. Responsible body
+
+The management committee of a pupil referral unit is prescribed as the responsible body for the purposes of section 51A(10)(b) of the Act.
+
+### 13. The power of a teacher in charge to exclude pupils
+
+A teacher in charge may not exercise the power under section 51A(2) of the Act so as to exclude a pupil for one or more fixed periods if, as a result, the pupil would be excluded for more than 45 school days in any school year.
+
+### 14. Exclusion of pupils: teacher in charge's duty to inform relevant person, management committee , local authority, social worker and virtual school head[^key-53abfa9f6b5574b5f367001ddfc0dd98]
+
+(1) Where the teacher in charge decides to exclude a pupil for a fixed period, the teacher in charge must, without delay—
+
+- (a) inform the relevant person , the local authority, the social worker and the virtual school head[^key-763600b0c03124249b4a8a8a7eef3786] of the period of the exclusion and the reasons for it; and
+- (b) give the relevant person notice in writing stating the following matters—
+  - (i) the period of the exclusion and the reasons for it;
+  - (ii) that the relevant person may make representations about the decision to the management committee and that, where the pupil is not the relevant person, the pupil may also be involved in the process of making representations, and an explanation as to how the pupil may be involved;
+  - (iii) the means by which representations may be made; and
+  - (iv) where and to whom representations should be sent.
+
+(2) Paragraph (3) applies where the teacher in charge decides—
+
+- (a) to exclude a pupil permanently; or
+- (b) to exclude a pupil and, as a result of the exclusion, the pupil would—
+  - (i) be excluded for a total of more than 5 school days in any term; or
+  - (ii) lose an opportunity to take a public examination or a National Curriculum test.
+
+(3) The teacher in charge must, without delay—
+
+- (a) inform the relevant person, the management committee , the local authority[^key-57dcf79e7efab6431c105f2a22c93362] (and, in the case of a permanent exclusion, if applicable, the home local authority) , the social worker and the virtual school head[^key-b6ab2319f2428d405c4370e677137740] of the period of the exclusion and the reasons for it; and
+- (b) give the relevant person notice in writing stating the following matters—
+  - (i) the period of the exclusion and the reasons for it;
+  - (ii) that the relevant person may make representations about the decision to the management committee and that, where the pupil is not the relevant person, the pupil may also be involved in the process of making representations, and an explanation as to how the pupil may be involved;
+  - (iia)[^key-5de5cf8c2f67f6ff71304f2825abdadc] where a meeting of the management committee is to consider the exclusion, that a remote meeting request may be made, if the relevant person wishes to be able to attend the meeting using remote access;
+  - (iii) the means by which representations or a remote meeting request[^key-96ac37f9d7da7f7ccea5153a691a876e] may be made;
+  - (iv) where and to whom representations or a remote meeting request[^key-870dce584a39ed89b3e0b0d7c0062594] should be sent; and
+  - (v) where a meeting of the management committee is to consider the exclusion, that the relevant person may attend and be represented at the meeting (at their own expense), and may be accompanied by a friend.
+
+(4) Any expense in connection with the representation of the relevant person is to be an expense of the relevant person.
+
+(5) In each term the teacher in charge must inform the management committee [^key-2f398866e1ec3e06b567df14eadfc609]... of the following—
+
+- (a) all exclusions that have occurred in that term to which paragraph (3) does not apply;
+- (b) unless the teacher in charge has already done so, any such exclusions occurring during previous terms in that school year; and
+- (c) the period of each exclusion and the reasons for it.
+
+### 15. Functions of the management committee in relation to excluded pupils
+
+(1) Paragraphs (2) to (6) apply where the management committee is informed under regulation 14(3)(a) of—
+
+- (a) the permanent exclusion of a pupil;
+- (b) the exclusion of a pupil where, as a result of the exclusion, the pupil would—
+  - (i) be excluded for a total of more than 15 school days in any term; or
+  - (ii) lose an opportunity to take a public examination or a National Curriculum test; or
+- (c) the exclusion of a pupil where—
+  - (i) the pupil would as a result of the exclusion be excluded for a total of more than 5 school days in any term; and
+  - (ii) the relevant person makes representations under regulation 14(3)(b).
+
+(2) The management committee must decide—
+
+- (a) whether or not the pupil should be reinstated; and
+- (b) where it considers that the pupil should be reinstated, whether the pupil should be reinstated immediately or by a particular date.
+
+(3) In order to decide whether or not a pupil should be reinstated, the management committee must—
+
+- (a) consider the interests and circumstances of the excluded pupil, including the circumstances in which the pupil was excluded, and have regard to the interests of other pupils and persons working at the unit (including persons working at the unit voluntarily);
+- (b) consider any representations about the exclusion made to the management committee by or on behalf of the relevant person, the teacher in charge , the local authority, the social worker or the virtual school head[^key-227b7475aea782572bb8afb50325fc8b];
+- (c) take reasonable steps to arrange a meeting at which the exclusion is to be considered for a time and date when each of the following persons is able to attend—
+  - (i) the teacher in charge;
+  - (ia)[^key-c5cb8647c5bd6d4fc852cd4a87e07b94] the social worker;
+  - (ib) the virtual school head
+  - (ii) the relevant person (and, where requested by the relevant person, a representative or friend of the relevant person); and
+  - (iii) a representative of the local authority; and
+- (d) allow each of the persons described in sub-paragraph (c) to attend the meeting and to make representations about the exclusion.
+
+(3A)[^key-3fb34c0d5249fecabbdf49ca101c8f3f][^key-72408918e6945021a3324adfd3aa64f1] Paragraph (3B) applies if a remote meeting request has been made.
+
+(3B) Where this paragraph applies, the meeting referred to in paragraph (3)(c) must[^key-e60d77137e4e8d306bbc5047b164abe7] be held using remote access, provided the management committee is satisfied that the following conditions are met—
+
+- (a) the participants will be able fully to make representations or discharge their functions (as the case may be);
+- (b)[^key-47cb861782019686a1e44d938b60a5f1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c) each participant has access to the electronic means to allow them to hear and be heard and (where using a live video link) see and be seen, throughout the meeting; and
+- (d) the meeting is capable of being held fairly and transparently.
+
+(3C)[^key-c868f8e2c6803ee8c784b30643179c86] A social worker or virtual school head who has been invited to attend the meeting referred to in paragraph (3)(c) but is unable to do so may nominate another person as their representative to attend the meeting and make representations about the exclusion.
+
+(3D)[^key-15b64938af69f3faf168df1cb74cc2e4] Where—
+
+- (a) a social worker or virtual school head; or
+- (b) their nominated representative as referred to in paragraph (3C),
+
+attends a meeting referred to in paragraph (3)(c) which is taking place in person, they may do so using remote access provided the management committee is satisfied that the conditions referred to in paragraph (3B)(a), (c) and (d) are met.
+
+(3E) Paragraph (3F) applies if—
+
+- (a) for a reason related to extraordinary events or unforeseen circumstances, it is not reasonably practicable for the meeting referred to in paragraph (3)(c) to be held in person; and
+- (b) the meeting is not already required to take place using remote access pursuant to paragraph (3B).
+
+(3F) Where this paragraph applies, the meeting referred to in paragraph (3)(c) may be held using remote access provided that the management committee is satisfied that the conditions referred to in paragraph (3B)(a), (c) and (d) are met.
+
+(3G) Subject to the exception made for persons referred to in paragraph (3D), a meeting referred to in paragraph (3)(c) must be held in person unless—
+
+- (a) a remote meeting request is made; or
+- (b) for a reason related to extraordinary events or unforeseen circumstances, it is not reasonably practicable for the meeting to be held in person,
+
+  and the management committee is satisfied that the conditions in paragraph (3B)(a), (c) and (d) are met.
+
+(4) If the management committee decides that the pupil should be reinstated, it must without delay—
+
+- (a) direct the teacher in charge accordingly; and
+- (b) inform the relevant person , the local authority[^key-798d5f03970b2438a2831047857e3288] (and, if applicable, the home local authority) , the social worker and the virtual school head[^key-441b0c2a4e00e2693aff1405ca3390fb] of its decision and the reasons for it in writing.
+
+(5) The teacher in charge must comply with a direction of the management committee to reinstate the pupil.
+
+(6) If the management committee decides not to reinstate the pupil it must without delay—
+
+- (a) inform the relevant person, the teacher in charge , the local authority[^key-51db91135256465f456437a3a350ba2c] (and, if applicable, the home local authority) , the social worker and the virtual school head[^key-1863e5023b4b3c68545e07d4129c3bf0] of its decision and the reasons for it in writing; and
+- (b) in the case of a pupil who is permanently excluded, give the relevant person notice in writing stating the following—
+  - (i) that the exclusion is permanent;
+  - (ii) that the relevant person may apply for the management committee's decision to be reviewed by a review panel;
+  - (iii) where the relevant person applies for a review, that the relevant person may require the local authority to appoint a SEN expert to advise the review panel;
+  - (iv) the role of the SEN expert in relation to a review;
+  - (iva)[^key-848dddaa85e993aacccb0f55b38385ff] where a meeting of the review panel is to review the management committee’s decision, that a remote meeting request may be made, if the relevant person wishes to be able to attend the meeting using remote access;
+  - (v) how an application for a review or a remote meeting request[^key-91e7d4c2fa567b5b8148c6d9220f8abc] may be made , and what these[^key-234cd095b7a9779abaabb545e168aa3b] must contain;
+  - (vi) where and to whom to send the application or remote meeting request[^key-bd3d44711526cc78ff552448756f0bab] , and the date by which these[^key-7cec5f2a126d3399335b68c1ab5600f4] must be received;
+  - (vii) that the relevant person may, at their own expense, appoint someone to make representations for the purpose of the review; and
+  - (viii) that the relevant person may issue a claim under the Equality Act 2010 where the relevant person believes that unlawful discrimination has occurred, and the time within which such a claim should be made.
+
+(7) Subject to[^key-b0219dda6d7da9b2c98ffd82ec91e607] paragraphs (7E), (7F) and[^key-90444207f875ff937645ab2abbe7ac18] (8), after being informed of the matters in regulation 14(3)(a), the management committee must take the steps referred to in paragraphs (2) and (3) within—
+
+- (a) 15 school days in the case of—
+  - (i) a permanent exclusion;
+  - (ii) an exclusion for a fixed period which would cause the pupil's total number of days of exclusion to exceed 15 school days in any term; or
+  - (iii) an exclusion where the pupil would, as a result of the exclusion, lose an opportunity to take a public examination or a National Curriculum test; or
+- (b) 50 school days in the case of an exclusion for a fixed period where—
+  - (i) the pupil would, as a result of the exclusion, be excluded for a total of more than 5 school days but not more than 15 school days in any term; and
+  - (ii) the relevant person has made representations under regulation 14(3)(b).
+
+(7A)[^key-e227247d3bbb441f01aa5c4d3ee40fe3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(7B)[^key-e227247d3bbb441f01aa5c4d3ee40fe3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(7C)[^key-e227247d3bbb441f01aa5c4d3ee40fe3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(7D)[^key-e227247d3bbb441f01aa5c4d3ee40fe3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(7E)[^key-edab77f3212d4dfec34b2c7d1bb89b5f] Paragraph (7F) applies where, immediately before the applicable time limit referred to in paragraph (7)(a) or (b) expires, the meeting referred to in paragraph (3)(c) has not been held because—
+
+- (a) it has not been reasonably practicable to meet in person for a reason related to extraordinary events or unforeseen circumstances; and
+- (b) it has not been reasonably practicable to meet by way of remote access for a reason related to the satisfaction of the conditions in paragraph (3B)(a), (c) and (d).
+
+(7F) Where this paragraph applies, the time limit referred to in paragraph (7)(a) or (b) within which the management committee must take steps is extended by such period as is reasonably necessary for a reason related to the extraordinary events or unforeseen circumstances.
+
+(8) Where a pupil has been excluded in circumstances in which the pupil would, as a result of the exclusion, lose an opportunity to take a public examination or a National Curriculum test, the management committee must (so far as it is reasonably practicable) take the steps referred to in paragraphs (2) and (3) before the date on which the pupil is due to take the examination or test.
+
+(9) Where—
+
+- (a) a pupil has been excluded in circumstances where paragraphs (2) to (6) do not apply; and
+- (b) the management committee receives representations made under regulation 14(1)(b) from the relevant person about the exclusion,
+
+the management committee must consider those representations.
+
+(10) The management committee will not be relieved of the duty to take any step referred to in paragraph (2) or (3) because it has not been taken within the period specified in paragraph (7) or (8).
+
+(11) The notice in writing referred to in paragraph (6)(b)—
+
+- (a) may be given by—
+  - (i) delivering it directly to the relevant person;
+  - (ii) delivering it to the relevant person's last known address; or
+  - (iii) sending it by first class post to the relevant person's last known address; and
+- (b) unless the contrary is shown, will be taken to have been given—
+  - (i) where first class post is used, on the second working day after the date of posting; or
+  - (ii) where the notice is delivered, on the date of delivery.
+
+### 16. Review of permanent exclusion of a pupil
+
+(1) Where the relevant person applies for a review, the local authority must, at their expense—
+
+- (a) make arrangements for the review of the management committee's decision not to reinstate a pupil who has been permanently excluded; and
+- (b) if requested by the relevant person, appoint, for the purpose of that review, a SEN expert to provide impartial advice on how special educational needs may be relevant to the decision to exclude the pupil permanently.
+
+(2) The local authority are not to take the steps in paragraph (1) where the relevant person has not applied for a review within the time limit specified in Schedule 1.
+
+(3) Where the relevant person wishes that a SEN expert be appointed for a review, the request must be made in writing to the local authority with, and at the same time as, the application for a review.
+
+(4) In exercising its functions under these Regulations, the review panel must consider the interests and circumstances of the excluded pupil, including the circumstances in which the pupil was excluded, and have regard to the interests of other pupils and persons working at the unit (including persons working at the unit voluntarily).
+
+(5) In addition to the powers of the review panel under section 51A(4) of the Act, the panel may—
+
+- (a) direct the management committee to place a note on the pupil's educational record;
+- (b) after the coming into force of section 50 of the Education Act 2011, order that the local authority are to make an adjustment to the unit's budget share for the funding period during which the exclusion occurs in the sum of £4,000 if, following a decision by the panel to quash the management committee's original decision, the management committee—
+  - (i) reconsiders the exclusion and decides not to reinstate the pupil; or
+  - (ii) fails to reconsider the exclusion within the time limit specified in regulation 17(1).
+
+(6) The review panel's decision is binding on the relevant person, the management committee, the teacher in charge , the local authority, the social worker and the virtual school head[^key-4c15bcd82b4fe02199d7c0996d42b1a9].
+
+### 17. Reconsideration by management committee following a review
+
+(1) Where the review panel—
+
+- (a) recommends that the management committee reconsiders a decision not to reinstate a pupil who has been permanently excluded; or
+- (b) quashes the management committee's decision and directs the management committee to reconsider the matter,
+
+the management committee, within 10 school days after notification under paragraph 19 of Schedule 1 of the review panel's decision, must reconvene in order to reconsider the exclusion.
+
+(2) When the management committee has reconsidered its decision it must inform the relevant person, the teacher in charge , the local authority[^key-119a3b8d1dac6f17c63ffbac52666c6c] (and, if applicable, the home local authority) , the social worker and the virtual school head[^key-bd5512415192d3c2db1fb04bb32d5a2c] of its reconsidered decision and the reasons for it without delay.
+
+(3) Notification of the review panel's decision is taken to be given—
+
+- (a) where first class post is used, on the second working day after the date of posting; or
+- (b) where the notice is delivered, on the date of delivery.
+
+### 17A. Cancellation of exclusion of a pupil[^key-53f0c5d77ed255a23b7fea7def3cad0e]
+
+(1) Subject to paragraphs (2) and (3), if a teacher in charge decided to exclude a pupil, the teacher in charge may cancel the exclusion—
+
+- (a) either before or after it has begun; and
+- (b) whether or not the pupil has been admitted to another school following their exclusion.
+
+(2) A teacher in charge may not cancel an exclusion under paragraph (1) if, by the time the teacher in charge comes to make the decision to cancel an exclusion, the pupil—
+
+- (a) has already been excluded for more than 45 days in any school year; or
+- (b) would have been excluded for more than 45 days in any school year when the cancellation took effect.
+
+(3) In cases where regulation 14(3) applies by virtue of regulation 14(2), a teacher in charge may not cancel an exclusion under paragraph (1) if, by the time the teacher in charge comes to make the decision to cancel an exclusion, the management committee has commenced a meeting for the purpose of making a decision under regulation 15(2) regarding reinstatement of the pupil.
+
+(4) Where an exclusion is cancelled in accordance with paragraph (1)—
+
+- (a) the teacher in charge must, without delay—
+  - (i) inform the relevant person, the management committee, the local authority, the social worker and the virtual school head of the cancellation and the reasons for it in writing; and
+  - (ii) reinstate the pupil;
+- (b) the management committee is not required to consider reinstatement of the pupil under regulation 15.
+
+### 18. Exclusions of pupils: guidance
+
+In exercising their functions under section 51A(2) of the Act or under these Regulations, the following persons and bodies must have regard to any guidance given from time to time by the Secretary of State—
+
+- (a) the teacher in charge;
+- (aa)[^key-3ce2c9762677695f12c4912b0cfe237b] the social worker;
+- (ab) the virtual school head;
+- (b) the management committee;
+- (c) the local authority;
+- (d) the review panel; and
+- (e) the SEN expert.
+
+### 19. Exclusions: standard of proof
+
+Where it falls to—
+
+- (a) the teacher in charge, in exercise of the power conferred by section 51A(2) of the Act;
+- (b) the management committee, in exercise of its functions for the purposes of regulations 15 and 17; or
+- (c) the review panel, in exercise of its functions for the purposes of regulation 16,
+
+to establish any fact, any question as to whether that fact is established is to be decided on a balance of probabilities.
+
+### 20. Information
+
+The local authority must, on request, forward to the Secretary of State any information they have received from a teacher in charge, a management committee or a review panel under this Part or Schedule 1.
+
+## PART 4 — Academies
+
+### 21. Application and modification of Act and regulations
+
+(1) Section 51A of the Act applies with the following modifications.
+
+(2) In subsection (1)—
+
+- (a) for “head teacher” substitute “ principal ”; and
+- (b) for “a maintained school” substitute “ an Academy ”.
+
+(3) In subsection (4), after “subsection (3)(c),” insert “ as it applies in relation to Academies, ”.
+
+(4) For subsection (6) substitute—
+
+> (6) In a case where the panel gives a direction under subsection (4)(c) to the proprietor of an Academy, the panel may, in prescribed circumstances, order the proprietor to make a payment to the local authority.
+
+.
+
+(5) For subsection (10) substitute—
+
+> (10) In this section—
+>
+> - “**Academy**” means an Academy school or an alternative provision Academy;
+> - “**exclude**”, in relation to the exclusion of a pupil from an Academy, means exclude on disciplinary grounds (and “**exclusion**” is to be construed accordingly);
+> - “**principal**” means the head teacher of an Academy, and includes acting principal;
+> - “**the responsible body**” means, in relation to exclusion from an Academy, the proprietor of the Academy.
+
+.
+
+(6) The regulations in Parts 2 and 3 apply to Academy schools and alternative provision Academies with the following modifications.
+
+### 22. The power of a principal to exclude pupils
+
+A principal may not exercise the power under section 51A(1) of the Act (as modified) so as to exclude a pupil for one or more fixed periods if, as a result, the pupil would be excluded for more than 45 school days in any school year.
+
+### 23. Exclusion of pupils: principal's duty to inform relevant person, proprietor , local authority, social worker and virtual school head[^key-11d06fc32d61fd9570a6e6cd7984a384]
+
+(1) Where the principal decides to exclude a pupil for a fixed period, the principal must, without delay—
+
+- (a) inform the relevant person , the local authority, the social worker and the virtual school head[^key-42c19e2c184a88984a0e11ba9ee1fc98] of the period of the exclusion and the reasons for it; and
+- (b) give the relevant person notice in writing stating the following matters—
+  - (i) the period of the exclusion and the reasons for it;
+  - (ii) that the relevant person may make representations about the decision to the proprietor and that, where the pupil is not the relevant person, the pupil may also be involved in the process of making representations, and an explanation as to how the pupil may be involved;
+  - (iii) the means by which representations may be made; and
+  - (iv) where and to whom representations should be sent.
+
+(2) Paragraph (3) applies where the principal decides—
+
+- (a) to exclude a pupil permanently; or
+- (b) to exclude a pupil and, as a result of the exclusion, the pupil would—
+  - (i) be excluded for a total of more than 5 school days in any term; or
+  - (ii) lose an opportunity to take a public examination or a National Curriculum test.
+
+(3) The principal must, without delay—
+
+- (a) inform the relevant person, the proprietor , the local authority[^key-ab5e9aed7812936fa35a75030c999d40] (and, in the case of a permanent exclusion, if applicable, the home local authority) , the social worker and the virtual school head[^key-b04b74a6ee635e03650d20fa0dd9b614] of the period of the exclusion and the reasons for it; and
+- (b) give the relevant person notice in writing stating the following matters—
+  - (i) the period of the exclusion and the reasons for it;
+  - (ii) that the relevant person may make representations about the decision to the proprietor and that, where the pupil is not the relevant person, the pupil may also be involved in the process of making representations, and an explanation as to how the pupil may be involved;
+  - (iia)[^key-7f302d591a6b34dc18b5f211b05339be] where a meeting of the proprietor is to consider the exclusion, that a remote meeting request may be made, if the relevant person wishes to be able to attend the meeting using remote access;
+  - (iii) the means by which representations or a remote meeting request[^key-992e56de4c101acf500cb80ae6e54527] may be made;
+  - (iv) where and to whom representations or a remote meeting request[^key-41ae3749b6088140ef25b55800eb852d] should be sent; and
+  - (v) where a meeting of the proprietor is to consider the exclusion, that the relevant person may attend and be represented at the meeting (at their own expense), and may be accompanied by a friend.
+
+(4) Any expense in connection with the representation of the relevant person is to be an expense of the relevant person.
+
+(5) In each term the principal must inform the proprietor [^key-1c5ae8c5957e16bd0c65ad828f81a18a]... of the following—
+
+- (a) all exclusions that have occurred in that term to which paragraph (3) does not apply;
+- (b) unless the principal has already done so, any such exclusions occurring during previous terms in that school year; and
+- (c) the period of each exclusion and the reasons for it.
+
+### 24. Functions of the proprietor in relation to excluded pupils
+
+(1) Paragraphs (2) to (6) apply where the proprietor is informed under regulation 23(3)(a) of—
+
+- (a) the permanent exclusion of a pupil;
+- (b) the exclusion of a pupil where, as a result of the exclusion, the pupil would—
+  - (i) be excluded for a total of more than 15 school days in any term; or
+  - (ii) lose an opportunity to take a public examination or a National Curriculum test; or
+- (c) the exclusion of a pupil where—
+  - (i) the pupil would as a result of the exclusion be excluded for a total of more than 5 school days in any term; and
+  - (ii) the relevant person makes representations under regulation 23(3)(b).
+
+(2) The proprietor must decide—
+
+- (a) whether or not the pupil should be reinstated; and
+- (b) where it considers that the pupil should be reinstated, whether the pupil should be reinstated immediately or by a particular date.
+
+(3) In order to decide whether or not a pupil should be reinstated, the proprietor must—
+
+- (a) consider the interests and circumstances of the excluded pupil, including the circumstances in which the pupil was excluded, and have regard to the interests of other pupils and persons working at the Academy (including persons working at the Academy voluntarily);
+- (b) consider any representations about the exclusion made to the proprietor by or on behalf of the relevant person , the principal, the social worker or the virtual school head[^key-4d03f94e2a7788a8f95d147de49c994c];
+- (c) take reasonable steps to arrange a meeting at which the exclusion is to be considered for a time and date when each of the following persons is able to attend—
+  - (i) the principal;
+  - (ia)[^key-2c0d2ce8f9ed990ab3f611390cb2e8f0] the social worker;
+  - (ib) the virtual school head;
+  - (ii) the relevant person (and, where requested by the relevant person, a representative or friend of the relevant person); and
+  - (iii) where requested by the relevant person, a representative of the local authority (and, if applicable, the home local authority);
+- (d) allow each of the persons described in sub-paragraphs (c)(i) , (ia), (ib)[^key-4f62e450b7827bfeb473f5dc048ed4f0] and (ii) to attend the meeting and to make representations about the exclusion; and
+- (e) allow the person described in sub-paragraph (c)(iii) to attend the meeting as an observer, unless the proprietor gives that person permission to make representations.
+
+(3A)[^key-572ece6d38ff2bb7bf915073992859dd][^key-03dcd10cf0ecdba3114929f9e06d32c8] Paragraph (3B) applies if a remote meeting request has been made.
+
+(3B) Where this paragraph applies, the meeting referred to in paragraph (3)(c) must[^key-fcc28e116369676fbebcc5cbe219af01] be held using remote access, provided the proprietor is satisfied that the following conditions are met—
+
+- (a) the participants will be able fully to make representations or discharge their functions (as the case may be);
+- (b)[^key-ff5d11b8ec0e6204ea5c5bbc06960961] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c) each participant has access to the electronic means to allow them to hear and be heard and (where using a live video link) see and be seen, throughout the meeting; and
+- (d) the meeting is capable of being held fairly and transparently.
+
+(3C)[^key-330c52adc25971a93ab23819f6fad205] A social worker or virtual school head who has been invited to attend the meeting referred to in paragraph (3)(c) but is unable to do so may nominate another person as their representative to attend the meeting and make representations about the exclusion.
+
+(4) If the proprietor decides that the pupil should be reinstated, it must without delay—
+
+- (a) direct the principal accordingly; and
+- (b) inform the relevant person , the local authority[^key-4849c4f591e5237362ffbd1dcf2be503] (and, if applicable, the home local authority) and the social worker and the virtual school head[^key-206052db421d7bce502fa942bb161883] of its decision and the reasons for it in writing.
+
+(3D)[^key-2d31ce1a19e531fc45b1562a0d51b127] Where—
+
+- (a) a social worker or virtual school head; or
+- (b) their nominated representative as referred to in paragraph (3C),
+
+attends a meeting referred to in paragraph (3)(c) which is taking place in person, they may do so using remote access provided the proprietor is satisfied that the conditions referred to in paragraph (3B)(a), (c) and (d) are met.
+
+(3E) Paragraph (3F) applies if—
+
+- (a) for a reason related to extraordinary events or unforeseen circumstances, it is not reasonably practicable for the meeting referred to in paragraph (3)(c) to be held in person; and
+- (b) the meeting is not already required to take place using remote access pursuant to paragraph (3B).
+
+(3F) Where this paragraph applies, the meeting referred to in paragraph (3)(c) may be held using remote access, provided the proprietor is satisfied that the conditions referred to in paragraph (3B)(a), (c) and (d) are met.
+
+(3G) Subject to the exception made for persons referred to in paragraph (3D), a meeting referred to in paragraph (3)(c) must be held in person unless—
+
+- (a) a remote meeting request is made; or
+- (b) for a reason related to extraordinary events or unforeseen circumstances, it is not reasonably practicable for the meeting to be held in person,
+
+  and the proprietor is satisfied that the conditions in paragraph (3B)(a), (c) and (d) are met.
+
+(5) The principal must comply with a direction of the proprietor to reinstate the pupil.
+
+(6) If the proprietor decides not to reinstate the pupil it must without delay—
+
+- (a) inform the relevant person, the principal , the local authority[^key-3633aba81c0468487e6a18a23a3b03f9] (and, if applicable, the home local authority) and the social worker and the virtual school head[^key-f25cd88a97e76fa12beff0059a35a97f] of its decision and the reasons for it in writing; and
+- (b) in the case of a pupil who is permanently excluded, give the relevant person notice in writing stating the following—
+  - (i) that the exclusion is permanent;
+  - (ii) that the relevant person may apply for the proprietor's decision to be reviewed by a review panel;
+  - (iii) where the relevant person applies for a review, that the relevant person may require the proprietor to appoint a SEN expert to advise the review panel;
+  - (iv) the role of the SEN expert in relation to a review;
+  - (iva)[^key-fd4f648c79188c7ee97089a53990d88d] where a review panel is to meet and review the proprietor’s decision, that a remote meeting request may be made, if the relevant person wishes to be able to attend the meeting using remote access;
+  - (v) how an application for a review or a remote meeting request[^key-761d9804fce2ce337535edf1337b5b0b] may be made , and what these[^key-3cfe03e4941017ba168511291f621762] must contain;
+  - (vi) where and to whom to send the application or remote meeting request[^key-498de9d55b3eeb6efe960e02ad9187d4] , and the date by which these[^key-38e1bd4b6117f7ff2a04d99d57c37554] must be received;
+  - (vii) that the relevant person may, at their own expense, appoint someone to make representations for the purpose of the review; and
+  - (viii) that the relevant person may issue a claim under the Equality Act 2010 where the relevant person believes that unlawful discrimination has occurred, and the time within which such a claim should be made.
+
+(7) Subject to[^key-76e7d0da572164b759035a7e1e2adb57] paragraphs (7E), (7F) and[^key-25a79fdb11c7f0b27d272977850a9648] (8), after being informed of the matters in regulation 23(3)(a), the proprietor must take the steps referred to in paragraphs (2) and (3) within—
+
+- (a) 15 school days in the case of—
+  - (i) a permanent exclusion;
+  - (ii) an exclusion for a fixed period which would cause the pupil's total number of days of exclusion to exceed 15 school days in any term; or
+  - (iii) an exclusion where the pupil would, as a result of the exclusion, lose an opportunity to take a public examination or a National Curriculum test; or
+- (b) 50 school days in the case of an exclusion for a fixed period where—
+  - (i) the pupil would, as a result of the exclusion, be excluded for a total of more than 5 school days but not more than 15 school days in any term; and
+  - (ii) the relevant person has made representations under regulation 23(3)(b).
+
+(7A)[^key-e7d10c99b3fdf69e3c13604676ba2467] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(7B)[^key-e7d10c99b3fdf69e3c13604676ba2467] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(7C)[^key-e7d10c99b3fdf69e3c13604676ba2467] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(7D)[^key-e7d10c99b3fdf69e3c13604676ba2467] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(7E)[^key-20648bb741135be8bf11326512b8f95a] Paragraph (7F) applies where, immediately before the applicable time limit referred to in paragraph (7)(a) or (b) expires, the meeting referred to in paragraph (3)(c) has not been held because—
+
+- (a) it has not been reasonably practicable to meet in person for a reason related to extraordinary events or unforeseen circumstances; and
+- (b) it has not been reasonably practicable to meet by way of remote access for a reason related to the satisfaction of the conditions in paragraph (3B)(a), (c) and (d).
+
+(7F) Where this paragraph applies, the time limit referred to in paragraph (7)(a) or (b) within which the proprietor must take steps is extended by such period as is reasonably necessary for a reason related to the extraordinary events or unforeseen circumstances.
+
+(8) Where a pupil has been excluded in circumstances in which the pupil would, as a result of the exclusion, lose an opportunity to take a public examination or a National Curriculum test, the proprietor must (so far as it is reasonably practicable) take the steps referred to in paragraphs (2) and (3) before the date on which the pupil is due to take the examination or test.
+
+(9) Where—
+
+- (a) a pupil has been excluded in circumstances where paragraphs (2) to (6) do not apply; and
+- (b) the proprietor receives representations made under regulation 23(1)(b) from the relevant person about the exclusion,
+
+the proprietor must consider those representations.
+
+(10) The proprietor will not be relieved of the duty to take any step referred to in paragraph (2) or (3) because it has not been taken within the period specified in paragraph (7) or (8).
+
+(11) The notice in writing referred to in paragraph (6)(b)—
+
+- (a) may be given by—
+  - (i) delivering it directly to the relevant person;
+  - (ii) delivering it to the relevant person's last known address; or
+  - (iii) sending it by first class post to the relevant person's last known address; and
+- (b) unless the contrary is shown, will be taken to have been given—
+  - (i) where first class post is used, on the second working day after the date of posting; or
+  - (ii) where the notice is delivered, on the date of delivery.
+
+### 25. Review of permanent exclusion of a pupil
+
+(1) Where the relevant person applies for a review, the proprietor must, at its expense—
+
+- (a) make arrangements for the review of its decision not to reinstate a pupil who has been permanently excluded; and
+- (b) if requested by the relevant person, appoint, for the purpose of that review, a SEN expert to provide impartial advice on how special educational needs may be relevant to the decision to exclude the pupil permanently.
+
+(2) The proprietor is not to take the steps in paragraph (1) where the relevant person has not applied for a review within the time limit specified in Schedule 1.
+
+(3) Where the relevant person wishes that a SEN expert be appointed for a review, the request must be made in writing to the proprietor with, and at the same time as, the application for a review.
+
+(4) In exercising its functions under these Regulations, the review panel must consider the interests and circumstances of the excluded pupil, including the circumstances in which the pupil was excluded, and have regard to the interests of other pupils and persons working at the Academy (including persons working at the Academy voluntarily).
+
+(5) In addition to the powers of the review panel under section 51A(4) of the Act (as modified), the panel may—
+
+- (a) direct the proprietor to place a note on the pupil's educational record;
+- (b) order that the proprietor is to make a payment to the local authority in the sum of £4,000 if, following a decision by the panel to quash the proprietor's original decision, the proprietor—
+  - (i) reconsiders the exclusion and decides not to reinstate the pupil; or
+  - (ii) fails to reconsider the exclusion within the time limit specified in regulation 26(1).
+
+(6) The review panel's decision is binding on the relevant person, the principal , the proprietor, the social worker and the virtual school head[^key-69c0dc983d9702dc0b57ed2aac56ccb8].
+
+### 26. Reconsideration by proprietor following a review
+
+(1) Where the review panel—
+
+- (a) recommends that the proprietor reconsiders a decision not to reinstate a pupil who has been permanently excluded; or
+- (b) quashes the proprietor's decision and directs the proprietor to reconsider the matter,
+
+the proprietor, within 10 school days after notification under paragraph 19 of Schedule 1 of the review panel's decision, must reconsider the exclusion.
+
+(2) When the proprietor has reconsidered its decision it must inform the relevant person, the principal , the local authority[^key-af601d2bf142380871eb23a9a86ff5d5] (and, if applicable, the home local authority) and the social worker and the virtual school head[^key-1a261067ff7d47846af1c66a08c22a47] of its reconsidered decision and the reasons for it without delay.
+
+(3) Notification of the review panel's decision is taken to be given—
+
+- (a) where first class post is used, on the second working day after the date of posting; or
+- (b) where the notice is delivered, on the date of delivery.
+
+### 26A. Cancellation of exclusion of a pupil[^key-d282f5df29d4b17b05f47977ce8815e4]
+
+(1) Subject to paragraphs (2) and (3), if a principal decided to exclude a pupil, the principal may cancel the exclusion—
+
+- (a) either before or after it has begun; and
+- (b) whether or not the pupil has been admitted to another school following their exclusion.
+
+(2) A principal may not cancel an exclusion under paragraph (1) if, by the time the principal comes to make the decision to cancel an exclusion, the pupil—
+
+- (a) has already been excluded for more than 45 days in any school year; or
+- (b) would have been excluded for more than 45 days in any school year when the cancellation took effect.
+
+(3) In cases where regulation 23(3) applies by virtue of regulation 23(2), a principal may not cancel an exclusion under paragraph (1) if, by the time the principal comes to make the decision to cancel an exclusion, the proprietor has commenced a meeting for the purpose of making a decision under regulation 24(2).
+
+(4) Where an exclusion is cancelled in accordance with paragraph (1)—
+
+- (a) the principal must, without delay—
+  - (i) inform the relevant person, the proprietor, the local authority, the social worker and the virtual school head of the cancellation and the reasons for it in writing; and
+  - (ii) reinstate the pupil;
+- (b) the proprietor is not required to consider reinstatement of the pupil under regulation 24.
+
+### 27. Exclusions of pupils: guidance
+
+In exercising their functions under section 51A(1) of the Act (as modified) or under these Regulations, the following persons and bodies must have regard to any guidance given from time to time by the Secretary of State—
+
+- (a) the principal;
+- (aa)[^key-7414dd3e10366858fd881c65e59e23c2] the social worker;
+- (ab) the virtual school head;
+- (b) the proprietor;
+- (c) the review panel; and
+- (d) the SEN expert.
+
+### 28. Exclusions: standard of proof
+
+Where it falls to—
+
+- (a) the principal, in exercise of the power conferred by section 51A(1) of the Act (as modified);
+- (b) the proprietor, in exercise of its functions for the purposes of regulations 24 and 26; or
+- (c) the review panel, in exercise of its functions for the purposes of regulation 25,
+
+to establish any fact, any question as to whether that fact is established is to be decided on a balance of probabilities.
+
+### 29. Information
+
+The local authority must, on request, forward to the Secretary of State any information they have received from a principal, a proprietor or a review panel under this Part or Schedule 1.
+
+Nick Gibb
+
+Minister of State for Schools
+
+Department for Education
+
+## SCHEDULE 1 — Constitution and procedure of review panels
+
+Regulation 3
+
+### 1. Interpretation
+
+(1) In this Schedule—
+
+- “**arrangements for a review**” means arrangements under paragraph (1) of regulation 7, 16 or 25;
+- “**arranging authority**” means—
+  - (a) where the relevant school is a maintained school or a pupil referral unit, the local authority responsible for maintaining that school or unit;
+  - (b) where the relevant school is an Academy, the proprietor of that Academy;
+- “**closing date for reviews**” means the fifteenth school day after the day on which an application for a review is made;
+- “**Head Teacher**” means—
+  - (a) the head teacher [^c21238201] of a maintained school;
+  - (b) the teacher in charge of a pupil referral unit or the acting teacher in charge;
+  - (c) the principal of an Academy or the acting principal;
+- “**relevant school**” means the school from which a pupil is permanently excluded;
+- “**responsible body**” means—
+  - (a) where the relevant school is a maintained school, the governing body of that school;
+  - (b) where the relevant school is a pupil referral unit, the management committee of that unit;
+  - (c) where the relevant school is an Academy, the proprietor of that Academy.
+
+(2) An application for a review is taken to be made—
+
+- (a) where first class post is used, on the second working day after the date of posting; or
+- (b) where the notice is delivered, on the date of delivery.
+
+### 2. Time limits and notices waiving right to review
+
+(1) Subject to sub-paragraph (2), an application for a review, and any request that a SEN expert be appointed for the review, must be made to the arranging authority within 15 school days after the day on which the relevant person is given notice in writing of the responsible body's decision under paragraph (6)(b) of regulation 6, 15 or 24.
+
+(1A)[^key-e2c4e9173e7c34bfb0cd645263faf7f3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) Where the relevant person—
+
+- (a) makes a claim under the Equality Act 2010 alleging that the exclusion amounts to unlawful discrimination; and
+- (b) has not applied for a review within the time limit in sub-paragraph (1),
+
+then the period within which the relevant person must apply will commence from the date on which the discrimination claim is finally determined.
+
+(3) For the purposes of sub-paragraph (2), a discrimination claim is “finally determined” when all rights of appeal under the Equality Act 2010 have been exhausted.
+
+(4) Any notice in writing given by the relevant person to the arranging authority which states that the relevant person does not intend to apply for a review will be final.
+
+### 3. Constitution of review panels
+
+(1) A review must be conducted by a review panel constituted in accordance with this paragraph.
+
+(2) A review panel must consist of 3 or 5 members appointed by the arranging authority from the following groups—
+
+- (a) persons who are eligible to be lay members;
+- (b) Head Teachers, or persons who have held that position during the last 5 years; and
+- (c) persons who are or have been—
+  - (i) a governor of a maintained school;
+  - (ii) a member of a pupil referral unit management committee;
+  - (iii) a director of the proprietor of an Academy,
+
+  provided they have served in that capacity for at least 12 consecutive months within the last 5 years and have not been a teacher or a Head Teacher in any school during the last 5 years.
+
+(3) Members must be appointed to a review panel as follows—
+
+- (a) for a panel of 3 members, one from each of the 3 categories in sub-paragraph (2);
+- (b) for a panel of 5 members—
+  - (i) a person who is eligible to be a lay member;
+  - (ii) 2 persons falling within sub-paragraph (2)(b); and
+  - (iii) 2 persons falling within sub-paragraph (2)(c).
+
+(4) A person is eligible to be a lay member if the person has never worked in a school in a paid capacity (disregarding any service as a governor or as a paid volunteer).
+
+(5) The following persons are disqualified from membership of the review panel for the purpose of that review—
+
+- (a) any member (or director) of the arranging authority or, if different, the responsible body;
+- (b) the Head Teacher of the relevant school (or any person who has held that position within the last 5 years);
+- (c) any person employed by the responsible body or the arranging authority (if different), other than the Head Teacher of a school other than the relevant school;
+- (d) any person who has, or at any time has had, any connection with—
+  - (i) the responsible body, the arranging authority (if different), the relevant school or the relevant person; or
+  - (ii) the excluded pupil or the incident leading to the exclusion,
+
+  of a kind which might reasonably be taken to raise doubts about that person's impartiality.
+
+(6) Review panel members must satisfy the training requirements of paragraph 5.
+
+(7) Subject to sub-paragraph (8), a person is not to be appointed as the SEN expert for the purpose of a review if that person would be disqualified under sub-paragraph (5)(d) from appointment as a member of a review panel.
+
+(8) The following employees of an arranging authority are not, by reason only of that employment, disqualified under sub-paragraph (5)(d)—
+
+- (a) a Head Teacher; or
+- (b) any employee appointed as a SEN expert for the purpose of the review.
+
+(9) Where at any time after a review panel has begun a review any member of the panel becomes unable to continue as a member, the panel may continue with the review so long as the number of the remaining members is not less than 3 and the requirements of sub-paragraph (3)(a) are satisfied.
+
+(10) A review panel must be chaired by the person appointed as a lay member.
+
+(11) After a review panel has begun a review a panel member may not be substituted or replaced with a different panel member for any reason.
+
+(12) Where a review panel has begun a review and for any reason it ceases to be constituted in accordance with this paragraph, the review must cease and a new review panel must be constituted to conduct the review afresh.
+
+(13) Review panel members and, if appointed, the SEN expert, must declare any known potential conflict of interest, whether pursuant to sub-paragraph (5)(d) or otherwise, to the arranging authority before the review begins.
+
+### 4. Clerks to review panels
+
+(1) An arranging authority may appoint a clerk to advise the members of a review panel and the parties to a review on the procedure of a review and the law and statutory guidance relating to exclusions.
+
+(2) A person who does not satisfy the training requirements of paragraph 5 must not serve as a clerk to a review panel.
+
+(3) Where a clerk is appointed the clerk must—
+
+- (a) make reasonable efforts to circulate to all the parties to the review copies of relevant documents at least 5 school days before the start of the review;
+- (b) make reasonable efforts to inform all the parties to a review that—
+  - (i) they are entitled to make written representations for the purposes of the review;
+  - (ii) they may attend the review; and
+  - (iii) if they elect to attend, that they may make, either in person or through a representative, oral representations at the review;
+- (c) provide to all parties details of those attending the review and their respective roles;
+- (d) attend the review and ensure that minutes of the review are produced in accordance with any instructions provided by the review panel;
+- (e) report to the arranging authority or the review panel as required on the discharge of the clerk's functions;
+- (f) perform such other functions as may be determined by the arranging authority or the review panel from time to time.
+
+(4) For the purpose of sub-paragraph (3)(a), relevant documents include—
+
+- (a) the responsible body's decision;
+- (b) the relevant person's application for a review; and
+- (c) documents to which the responsible body was required to have regard when making its decision.
+
+(5) Where no clerk is appointed or present the arranging authority must exercise the functions in sub-paragraphs (3)(a) to (d).
+
+### 5. Training requirements for clerks and members
+
+(1) A person satisfies the training requirements if during the 2 years before the review the person received sufficient information and instruction to know and understand—
+
+- (a) the requirements of legislation and statutory guidance governing exclusions;
+- (b) the role of the chair of a review panel;
+- (c) the role of the clerk to a review panel;
+- (d) the relevant effect of the Equality Act 2010;
+- (e) the effect of section 6 of the Human Rights Act 1998 [^c21238211], and the need to act compatibly with human rights protected by that Act; and
+- (f) the need for the review panel to observe procedural fairness and the rules of natural justice.
+
+(2) An arranging authority that is required to make arrangements for a review must ensure that all review panel members and the clerk to the review panel have received the information and instruction referred to in sub-paragraph (1) as necessary during the 2 years before the review.
+
+### 6. Allowances for members of review panels
+
+(1) This paragraph applies only where the relevant school is a maintained school or a pupil referral unit.
+
+(2) For the purpose of the payment of financial loss allowance under section 173(4) of the Local Government Act 1972 [^c21238221], that section applies to a member of a review panel as if the reference to the performance of an approved duty were a reference to the member's attendance at a meeting of a review panel.
+
+(3) Section 174(1) of that Act applies in relation to a review panel as if the reference to payments at rates determined by the body in question were a reference to payments at rates determined by the local authority.
+
+### 7. Indemnity
+
+An arranging authority required to make arrangements for a review, must indemnify the members of a review panel and any SEN expert appointed for a review against any reasonable legal costs and expenses which they reasonably incur in connection with any decision or action taken by them in good faith in pursuance of their functions in relation to the review.
+
+### 8. Procedure on a review
+
+The following provisions set out the procedure on a review.
+
+**9.** An application for a review—
+
+- (a) must be in writing setting out the grounds on which a review is sought; [^key-632d2138d2bcb365e09d1e7c073db848]...
+- (b) must be made to the arranging authority within the time limit specified in paragraph 2(1) ; and[^key-827c596a5e0de613fb80eecfca9f3f48]
+- (c) may include a remote meeting request.
+
+**10.** (1) The review panel must meet to consider a review on the date determined by the arranging authority.
+
+(2) The date so determined must not be later than the closing date for reviews.
+
+(3)[^key-aed5379e072f990eb55894e0d43bbca5] Sub-paragraph (4) applies if a remote meeting request has been made.
+
+(4) Where this sub-paragraph applies, the meeting referred to in sub-paragraph (1) must[^key-06a20b95dccbc32e4a41eca3570a1802] be held using remote access, provided the arranging authority is satisfied that the following conditions are met—
+
+- (a) the participants will be able fully to make representations or discharge their functions (as the case may be);
+- (b)[^key-edaa0f59328966f5fe16881e2f8d431a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c) each participant has access to the electronic means to allow them to hear and be heard and (where using a live video link) see and be seen, throughout the meeting; and
+- (d) the meeting is capable of being held fairly and transparently.
+
+(4A)[^key-f6ee560cb079de9f39895099b7340eea] Sub-paragraph (4B) applies if—
+
+- (a) for a reason related to extraordinary events or unforeseen circumstances, it is not reasonably practicable for the meeting referred to in sub-paragraph (1) to be held in person; and
+- (b) the meeting is not already required to take place using remote access pursuant to sub-paragraph (4).
+
+(4B) Where this sub-paragraph applies, the meeting referred to in sub-paragraph (1) may be held using remote access, provided the arranging authority is satisfied that the conditions referred to in sub-paragraph (4)(a), (c) and (d) are met.
+
+(4C) Sub-paragraph (4D) applies where, immediately before the date determined by the arranging authority as referred to in sub-paragraph (2), the meeting referred to in sub-paragraph (1) has not been held because—
+
+- (a) it has not been reasonably practicable to meet in person for a reason related to extraordinary events or unforeseen circumstances; and
+- (b) it has not been reasonably practicable to meet by way of remote access for a reason related to the satisfaction of the conditions in sub-paragraph (4)(a), (c) and (d).
+
+(4D) Where this sub-paragraph applies, the date determined by the arranging authority as referred to in sub-paragraph (2) is extended by such period as is reasonably necessary for a reason related to the extraordinary events or unforeseen circumstances.
+
+(4E) Subject to the exception made for persons referred to in paragraph 12(4), a meeting referred to in sub-paragraph (1) must be held in person unless—
+
+- (a) a remote meeting request is made; or
+- (b) for a reason related to extraordinary events or unforeseen circumstances, it is not reasonably practicable for the meeting to be held in person,
+
+  and the arranging authority is satisfied that the conditions in sub-paragraph (4)(a), (c) and (d) are met.
+
+(5)[^key-3be05e0ece12838ff6810e1a5cc12e4b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(6)[^key-3be05e0ece12838ff6810e1a5cc12e4b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(7)[^key-3be05e0ece12838ff6810e1a5cc12e4b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(8)[^key-3be05e0ece12838ff6810e1a5cc12e4b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**11.** (1) For the purpose of fixing the time (in accordance with paragraph 10) of the review, the arranging authority must take reasonable steps to ascertain any times falling on or before the closing date for reviews when the following persons would be unable to attend—
+
+- (a) a person who wishes, and would be entitled, to appear and make oral representations in accordance with paragraph 12;
+- (b) any SEN expert appointed for the review.
+
+(2) When arranging for the review to take place, the arranging authority must, so far as it is reasonably practicable to do so, ensure that the review is fixed for a time when the persons described in sub-paragraph (1) are able to attend the review.
+
+**12.** (1) A review panel must allow the following persons, and any representative they instruct, to attend the review and to make representations—
+
+- (a) the relevant person (and, if requested by the relevant person, a friend of the relevant person);
+- (b) the Head Teacher of the relevant school; [^key-84376031fc8166cf15ee29c18fcb7ef9]...
+- (ba)[^key-d3b7b8dec896c0355f34790bd6dbbd31] the social worker; and
+- (bb) the virtual school head;
+- (c) the responsible body and, if different, the arranging authority.
+
+(2) A review panel must consider written or oral representations made to it by the persons in sub-paragraph (1) when determining a review.
+
+(3) Where the relevant school is an Academy, if requested by the relevant person, a representative of the local authority in which that Academy is located (and, if applicable, the home local authority) must be permitted to attend the review as an observer but may only make representations with the consent of the arranging authority.
+
+(4)[^key-555b4e885a2903e8f9f72fde09ec0263] Where a social worker, a virtual school head, a representative as referred to in sub-paragraph (1), or a representative as referred to in sub-paragraph (3) attends a meeting referred to in paragraph 10(1) which is taking place in person, they may do so using remote access provided the arranging authority is satisfied that the conditions referred to in paragraph 10(4)(a), (c) and (d) are met.
+
+**13.** (1) A review panel may from time to time adjourn a review but, before doing so, must consider the effect of any adjournment on—
+
+- (a) each of the parties to the review;
+- (b) any victim of the incident leading to the exclusion; and
+- (c) where such person is not the relevant person—
+  - (i) the pupil; or
+  - (ii) any parent of the pupil.
+
+(2) If the relevant person has requested the appointment of a SEN expert but the SEN expert is not in attendance, the relevant person may ask the review panel to adjourn the review to a later date or time so that the SEN expert, or an alternative SEN expert, may attend.
+
+(3) Where a relevant person asks the review panel to adjourn the review in pursuance of sub-paragraph (2) the review panel must adjourn the review.
+
+(4) The review panel must ensure that the relevant person is aware of their right to request an adjournment in pursuance of sub-paragraph (2).
+
+(5) A review may be adjourned if the effect of the adjournment is that the review will not have concluded before the closing date for reviews.
+
+**14.** Reviews must be heard in private except where the arranging authority directs otherwise.
+
+**15.** Two or more reviews may be combined and dealt with in the same proceedings where—
+
+- (a) the review panel considers that it would be fair and expedient to do so because the issues raised by the reviews are the same or connected; and
+- (b) the parties to each review agree.
+
+**16.** In the event of a disagreement between the members of a review panel, the review under consideration must be decided by a simple majority of the votes cast and, where the votes are tied, the chair of the review panel is to have a second or casting vote.
+
+**17.** Where a SEN expert is present the review panel must seek and consider the SEN expert's views on how special educational needs may be relevant to the pupil's exclusion.
+
+**18.** The SEN expert's functions in relation to the review are limited to advising the review panel, orally or in writing or both, impartially, of the relevance of special educational needs in the context and circumstances of the review but do not include making an assessment as to whether the pupil has special educational needs.
+
+**19.** (1) Upon conclusion of a review the review panel must without delay give notice of its decision in writing to—
+
+- (a) the relevant person;
+- (b) the responsible body;
+- (ba)[^key-4789bef10d783958e1f14ece01f8b12c] the social worker; and
+- (bb) the virtual school head;
+- (c) the local authority; and
+- (d) if applicable, the home local authority.
+
+(2) The notice must include—
+
+- (a) the review panel's decision, indicating whether the review panel—
+  - (i) upholds the responsible body's decision;
+  - (ii) recommends that the responsible body reconsiders its decision; or
+  - (iii) quashes the responsible body's decision;
+- (b) the reasons for the review panel's decision;
+- (c) any order under regulation 7, 16 or 25; and
+- (d) any information that must be recorded on the pupil's educational record.
+
+**20.** Any other matters of procedure not provided for by these Regulations are to be determined by the arranging authority.
+
+## SCHEDULE 2 — Amendments
+
+Regulation 3
+
+### 1. The Education (Amount to Follow Permanently Excluded Pupil) Regulations 1999
+
+(1) The Education (Amount to Follow Permanently Excluded Pupil) Regulations 1999 [^c21238231] are amended in relation to England only as follows.
+
+(2) In regulation 2—
+
+- (a) at the beginning insert “ (1) ”;
+- (b) at the end insert—
+
+  > (2) Where a permanently excluded pupil to which paragraph (1) applies is subsequently reinstated by the governing body of the excluding school in the financial year in which the exclusion first takes effect, the new authority must pay to the old authority, and the last authority must pay to the old authority, as the case may be, in connection with the provision of education for that pupil in that financial year an amount which is no less than F x (G/H) where—
+  >
+  > - (a) F is the amount which the old authority has paid to the new authority, or the intermediate authority has paid to the last authority, as the case may be, under paragraph (1);
+  > - (b) G is the number of complete weeks remaining in the financial year during which the pupil is reinstated; and
+  > - (c) H is the number of complete weeks remaining in the financial year calculated from the relevant date.
+
+  .
+
+(3) In regulation 3, for “regulation 2” substitute “ regulation 2(1) ”.
+
+(4) In regulation 4—
+
+- (a) omit the “and” after sub-paragraph (a);
+- (b) in paragraph (c), for “on and after 22nd March 2004” substitute “ in relation to the period commencing on 22nd March 2004 and ending immediately before 1st September 2012 ”;
+- (c) in paragraph (c) for “appeal.” substitute “ appeal; and ”; and
+- (d) after paragraph (c) insert—
+
+  > - (d) on or after 1st September 2012, on the date which is the sixth school day following the date on which the pupil has been permanently excluded.
+
+  .
+
+### 2. The Local Authorities (Members' Allowances) (England) Regulations 2003
+
+In regulation 34(1)(c)(ii) of the Local Authorities (Members' Allowances) (England) Regulations 2003 [^c21238241], for “appeal” substitute “ review ”.
+
+### 3. The School Governance (Procedures) (England) Regulations 2003
+
+In regulation 17(2) of the School Governance (Procedures) (England) Regulations 2003 [^c21238251], for “52(3) and (4)” substitute “ 51A(3) and (8) ”.
+
+### 4. The Education (Pupil Registration) (England) Regulations 2006[^key-a295d90c44f0a24c0da2aa6ad96dfbf4]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 5. The Education (Information about Individual Pupils) (England) Regulations 2006
+
+For paragraph 1(2) of Part 2 of Schedule 1 to the Education (Information about Individual Pupils) (England) Regulations 2006 [^c21238271] substitute—
+
+> (2) This Part does not apply to a pupil referred to in sub-paragraph (1) where the pupil is subsequently reinstated by the governing body of the school.
+
+.
+
+### 6. The School Governance (New Schools) (England) Regulations 2007
+
+In regulation 48(2) of the School Governance (New Schools) (England) Regulations 2007 [^c21238281], for “52(3) and (4)” substitute “ 51A(3) and (8) ”.
+
+### 7. The Education (Parenting Contracts and Parenting Orders) (England) Regulations 2007
+
+For sub-paragraphs (i) to (iv) of regulation 4(2)(a) of the Education (Parenting Contracts and Parenting Orders) (England) Regulations 2007 [^c21238291] substitute—
+
+> - (i) the day on which a review panel constituted under regulations made by virtue of section 51A of the Education Act 2002 decided to uphold the exclusion;
+> - (ii) the day on which the parent stated in writing that they do not intend to apply for a review under those regulations;
+> - (iii) the day on which a review applied for within the time for applying for a review has been abandoned; or
+> - (iv) if there was no review (and paragraph (ii) of this sub-paragraph does not apply), the last day on which a review could have been applied for; or
+
+.
+
+### 8. The Education (Provision of Full-Time Education for Excluded Pupils) (England) Regulations 2007
+
+(1) The Education (Provision of Full-Time Education for Excluded Pupils) (England) Regulations 2007 [^c21238301] are amended as follows.
+
+(2) In regulation 2—
+
+- (a) in paragraph (2)(a)—
+  - (i) for “sections” substitute “ section ”; and
+  - (ii) omit “and 111 (meaning of relevant school)”; and
+- (b) for paragraph (2)(b) substitute—
+
+  > - (b) as defined in section 111 (meaning of relevant school) of the 2006 Act for purposes relating to the duties imposed by section 19(1) and (3A) of the 1996 Act (exceptional provision of education in pupil referral units or elsewhere).
+
+  .
+
+(3) In regulation 4—
+
+- (a) in paragraph (1), after “excluded from a relevant school” omit “or pupil referral unit”; and
+- (b) in paragraph (3)(a) omit “or a pupil referral unit”.
+
+(4) For regulations 6 and 7 substitute—
+
+> **6. Prescribed time for head teacher to give notice to the parent in relation to exclusion of a pupil of compulsory school age**
+>
+> (1) Paragraphs (2) and (3) prescribe the time by which the head teacher must give the parent a notice in writing under section 104(1) of the 2006 Act.
+>
+> (2) The notice must be provided without delay and no later than the end of the afternoon session of the first day on which the pupil is excluded.
+>
+> (3) But where the information prescribed by section 104(2) of the 2006 Act and regulation 7 is not reasonably ascertainable by that time, the information must be provided in a further notice without delay and not less than 48 hours before the start of that suitable full-time education.
+>
+> (4) Where suitable full-time education for a pupil of compulsory school age who is excluded from the school may start before the relevant day, the 48 hour time limit in paragraph (3) may be waived with the parent's consent.
+>
+> (5) In this regulation, “**relevant day**” has the meaning given in regulation 3.
+>
+> **7. Other prescribed information to be provided in a notice relating to an excluded pupil**
+>
+> The following information is prescribed as the other information (in addition to that prescribed by sections 104(2) and (3) of the 2006 Act) which the head teacher must give to the parent in writing under section 104(1) of the 2006 Act—
+>
+> - (a) the address at which suitable full-time education is to be provided for the pupil;
+> - (b) particulars identifying the person to whom the pupil should report on first attending that address for the purpose of receiving suitable full-time education;
+> - (c) in relation to that suitable-full-time education—
+>   - (i) where 2 sessions per day are provided, the times at which the morning session commences, the afternoon session ends and the break between them commences and ends; or
+>   - (ii) where a single session per day is provided, the times at which the session commences and ends.
+
+.
+
+(5) For regulation 8(a) substitute—
+
+> - (a) a notice given to the parent in accordance with regulations made by virtue of section 51A(3)(a) of the Education Act 2002; and
+
+.
+
+(6) Omit regulation 10.
+
+### 9. The School Finance (England) Regulations 2012
+
+(1) The School Finance (England) Regulations 2012 [^c21238311] are amended as follows.
+
+(2) In regulation 23—
+
+- (a) in paragraph (2)—
+  - (i) for the formula substitute “ A x (B / 52) + C ”;
+  - (ii) omit the “and” after sub-paragraph (a);
+  - (iii) in sub-paragraph (b), for “date.” substitute “ date; and ”; and
+  - (iv) after sub-paragraph (b) insert—
+
+    > - (c) C is the amount of the adjustment made to the school's budget share pursuant to a financial adjustment order.
+
+    ;
+- (b) in paragraph (3) for “paragraph (4)” substitute “ paragraphs (4) and (4A) ”;
+- (c) in paragraph (4)(a) after the second “authority” insert “ , except that any reduction in the excluding school's budget share made pursuant to a financial adjustment order must not be taken into account for these purposes ”;
+- (d) after paragraph (4) insert—
+
+  > (4A) In redetermining the admitting school's budget share, the authority may increase it by any amount up to the amount of the adjustment made to the excluding school's budget share pursuant to a financial adjustment order.
+
+  ;
+- (e) for paragraph (14) substitute—
+
+  > (14) For the purposes of this regulation—
+  >
+  > - “the relevant date” is the sixth school day following the date on which the pupil has been permanently excluded; and
+  > - “**a financial adjustment order**” means an order for the adjustment of a school's budget share made under regulations made by virtue of section 51A of the Education Act 2002 in respect of the exclusion of the pupil from the excluding school.
+
+  .
+
+## SCHEDULE 3 — Revocations
+
+Regulation 3
+
+| ***(1)*** | ***(2)*** | ***(3)*** |
+| --- | --- | --- |
+| ***Instruments revoked*** | ***References*** | ***Extent of revocation*** |
+| The Education (Pupil Exclusions and Appeals) (Maintained Schools) (England) Regulations 2002 | S.I. 2002/3178 [^c21238321] | In full. |
+| The Education (Pupil Exclusions) (Miscellaneous Amendments) (England) Regulations 2004 | S.I. 2004/402 [^c21238331] | Regulations 4, 6, 7, 8 and 9. |
+| The Education (Pupil Exclusions and Appeals) (Miscellaneous Amendments) (England) Regulations 2006 | S.I. 2006/2189 [^c21238341] | Regulations 2, 3, 5 and 6(1). |
+| The Education (Reintegration Interview)(England) Regulations 2007 | S.I. 2007/1868 [^c21238351] | In full. |
+| The Education (Pupil Exclusions and Appeals) (Pupil Referral Units) (England) Regulations 2008 | S.I. 2008/532 [^c21238361] | In full. |
+| The Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 | S.I. 2008/2683 | Paragraph 203 of Schedule 1. |
+
+*(This note is not part of the Regulations)*
+
+These Regulations make provision in relation to the power of head teachers of maintained schools, teachers in charge of pupil referral units (“PRUs”) and principals of Academy schools and alternative provision Academies (“Academies”), in England, to exclude pupils under section 51A of the Education Act 2002 (“**the Act**”).
+
+Parts 2 to 4 set out the procedures in relation to exclusions from maintained schools, PRUs and Academies. Part 4 applies section 51A of the Act to Academies with modifications, and applies the regulations in Parts 2 and 3 to Academies with modifications.
+
+Regulations 5, 14 or 23 require the head teacher of a maintained school, the teacher in charge of a PRU or the principal of an Academy (“the Head Teacher”) to inform the relevant person (meaning a parent of the excluded pupil or, if the pupil is aged 18 or over, the pupil) of the details of an exclusion. The Head Teacher must also inform the responsible body (for a maintained school, the governing body; for a PRU, the management committee; for an Academy, the proprietor) and the local authority if the exclusion is permanent, if the exclusion will result in the pupil missing a public examination or a National Curriculum test, or if the exclusion takes the total exclusions for that pupil to more than 5 school days in any term.
+
+Regulations 6, 15 or 24 require the responsible body to consider the circumstances of the exclusion and any representations from the relevant person and, in relation to a maintained school or a PRU (and in certain circumstances, an Academy), a representative of the local authority. The responsible body must decide whether the pupil should be reinstated where the exclusion is permanent; where the exclusion would take the total exclusion for that pupil to over 15 school days in any term; where the exclusion will result in the pupil missing a public examination or a National Curriculum test; or where the pupil would, as a result of the exclusion, be excluded for more than a total of 5 school days in any term and the relevant person wishes to make representations.
+
+Regulations 7, 16 or 25 require the local authority (in relation to a maintained school or a PRU), or the proprietor (in relation to an Academy), to make arrangements for a review by a review panel of a decision of the responsible body not to reinstate a pupil who has been permanently excluded, if the relevant person applies for a review.
+
+Section 51A(4) of the Act provides that, on a review, the panel may uphold the decision of the responsible body not to reinstate the pupil, recommend that that decision is reconsidered, or quash that decision and direct reconsideration.
+
+The review panel may direct the responsible body to place a note on the pupil's educational record. Where the panel quashes the responsible body's decision, it may order the local authority to make an adjustment to the school's budget share for that funding period in the sum of £4,000 in certain circumstances. In the case of Academies, this sum is instead to be paid to the local authority. The panel's decision is binding.
+
+Regulations 7, 16 or 25 provide that, when applying for a review, the relevant person may request the local authority (or, in relation to an Academy, the proprietor) to appoint a SEN expert to advise the review panel.
+
+Regulations 9, 18 or 27 require the Head Teacher, the responsible body, the local authority, the review panel and the SEN expert to have regard to guidance given by the Secretary of State in exercising their functions under section 51A(1) or (2) of the Act and the Regulations.
+
+Schedule 1 prescribes the constitution and procedure for review panels. Schedule 2 makes various consequential amendments and amendments. Schedule 3 contains revocations.
+
+A full regulatory impact assessment has not been produced for this instrument as no impact on the private or voluntary sectors is foreseen.
+
+## Annotations
+
+[^c21238111]: Marginal citation: [1996 c.56](https://www.legislation.gov.uk/ukpga/1996/56) (“**the 1996 Act**”). Section 19(3B) was inserted by section 101(1) and (2) of the [Education and Inspections Act 2006 (c.40)](https://www.legislation.gov.uk/ukpga/2006/40) (“**the 2006 Act**”) and was amended by section 3(1) and (4) of the [Children, Schools and Families Act 2010 (c.26)](https://www.legislation.gov.uk/ukpga/2010/26). See section 579(1) of the 1996 Act for the definition of “regulations”.
+
+[^c21238121]: Marginal citation: [2002 c.32](https://www.legislation.gov.uk/ukpga/2002/32) (“**the Act**”). Section 51A was inserted by section 4 of the [Education Act 2011 (c.21, “the 2011 Act”)](https://www.legislation.gov.uk/ukpga/2011/21). See section 212 of the Act for the definitions of “prescribed” and “regulations”.
+
+[^c21238131]: Marginal citation: [2006 c.40](https://www.legislation.gov.uk/ukpga/2006/40). See sections 100, 102 and 104 of the 2006 Act for the definitions of “regulations” and “prescribed”.
+
+[^c21238141]: Marginal citation: [1992 c.53](https://www.legislation.gov.uk/ukpga/1992/53), as amended by paragraph 30 of Schedule 8 to the [Tribunals, Courts and Enforcement Act 2007 (c.15)](https://www.legislation.gov.uk/ukpga/2007/15) and by paragraph 4 of Schedule 1 of the 2011 Act.
+
+[^key-883e59d3c9d1e37e257ed2028900a60a]: Textual amendment: Words in reg. 2(1) omitted (1.9.2023) by virtue of [The School Discipline (Pupil Exclusions and Reviews) (England) (Amendment and Transitional Provision) Regulations 2023 (S.I. 2023/571)](https://www.legislation.gov.uk/uksi/2023/571), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/571/regulation/1/1), [4(a)](https://www.legislation.gov.uk/uksi/2023/571/regulation/4/a) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/571/regulation/1/3), [16](https://www.legislation.gov.uk/uksi/2023/571/regulation/16)) (as amended by [S.I. 2023/882](https://www.legislation.gov.uk/uksi/2023/882), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/882/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/882/regulation/4), [8](https://www.legislation.gov.uk/uksi/2023/882/regulation/8) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2023/882/regulation/1/4))
+
+[^key-967a1418fb9a604a1a9fb1f06a558b05]: Textual amendment: Words in reg. 2(1) inserted (1.9.2023) by [The School Discipline (Pupil Exclusions and Reviews) (England) (Amendment and Transitional Provision) Regulations 2023 (S.I. 2023/571)](https://www.legislation.gov.uk/uksi/2023/571), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/571/regulation/1/1), [4(b)](https://www.legislation.gov.uk/uksi/2023/571/regulation/4/b) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/571/regulation/1/3), [16](https://www.legislation.gov.uk/uksi/2023/571/regulation/16)) (as amended by [S.I. 2023/882](https://www.legislation.gov.uk/uksi/2023/882), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/882/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/882/regulation/4), [8](https://www.legislation.gov.uk/uksi/2023/882/regulation/8) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2023/882/regulation/1/4))
+
+[^key-adcc8e7644eddf817d9c9c711184bc84]: Textual amendment: Words in reg. 2(1) omitted (1.9.2023) by virtue of [The School Discipline (Pupil Exclusions and Reviews) (England) (Amendment and Transitional Provision) Regulations 2023 (S.I. 2023/571)](https://www.legislation.gov.uk/uksi/2023/571), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/571/regulation/1/1), [4(c)](https://www.legislation.gov.uk/uksi/2023/571/regulation/4/c) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/571/regulation/1/3), [16](https://www.legislation.gov.uk/uksi/2023/571/regulation/16)) (as amended by [S.I. 2023/882](https://www.legislation.gov.uk/uksi/2023/882), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/882/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/882/regulation/4), [8](https://www.legislation.gov.uk/uksi/2023/882/regulation/8) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2023/882/regulation/1/4))
+
+[^key-6407e5ee71c71d72a2eebc08bdf4ff47]: Textual amendment: Words in reg. 2(1) inserted (1.6.2020) by [The School Discipline (England) (Coronavirus) (Pupil Exclusions and Reviews) (Amendment) Regulations 2020 (S.I. 2020/543)](https://www.legislation.gov.uk/uksi/2020/543), [regs. 1](https://www.legislation.gov.uk/uksi/2020/543/regulation/1), [4](https://www.legislation.gov.uk/uksi/2020/543/regulation/4)
+
+[^key-8c7d0ab9adc6535b47843ba4566df2f2]: Textual amendment: Words in reg. 2(1) inserted (1.9.2023) by [The School Discipline (Pupil Exclusions and Reviews) (England) (Amendment and Transitional Provision) Regulations 2023 (S.I. 2023/571)](https://www.legislation.gov.uk/uksi/2023/571), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/571/regulation/1/1), [4(d)](https://www.legislation.gov.uk/uksi/2023/571/regulation/4/d) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/571/regulation/1/3), [16](https://www.legislation.gov.uk/uksi/2023/571/regulation/16)) (as amended by [S.I. 2023/882](https://www.legislation.gov.uk/uksi/2023/882), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/882/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/882/regulation/4), [8](https://www.legislation.gov.uk/uksi/2023/882/regulation/8) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2023/882/regulation/1/4))
+
+[^c21238151]: Marginal citation: “**Special educational needs**” has the same meaning as in section 312 of the 1996 Act.
+
+[^c21238161]: Marginal citation: See section 579(1) of the 1996 Act for the definition of “proprietor”.
+
+[^key-443ba567e02cf9ce77a205fabee556cd]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2012/1033/regulation/2) inserted (1.9.2022) by [The School Discipline (Pupil Exclusions and Reviews) (England) (Amendment) Regulations 2022 (S.I. 2022/788)](https://www.legislation.gov.uk/uksi/2022/788), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/788/regulation/1/2), [4(2)](https://www.legislation.gov.uk/uksi/2022/788/regulation/4/2) (with [reg. 3(2)](https://www.legislation.gov.uk/uksi/2022/788/regulation/3/2))
+
+[^c21238171]: Marginal citation: See section 579(1) of the 1996 Act for the meaning of “school year”.
+
+[^key-1d6f4ae031375e919aeb651cf2deab0f]: Textual amendment: Word in [reg. 2](https://www.legislation.gov.uk/uksi/2012/1033/regulation/2) omitted (1.9.2022) by virtue of [The School Discipline (Pupil Exclusions and Reviews) (England) (Amendment) Regulations 2022 (S.I. 2022/788)](https://www.legislation.gov.uk/uksi/2022/788), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/788/regulation/1/2), [4(3)](https://www.legislation.gov.uk/uksi/2022/788/regulation/4/3) (with [reg. 3(2)](https://www.legislation.gov.uk/uksi/2022/788/regulation/3/2))
+
+[^key-595d8b67704b27fca313efc52d4a581a]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2012/1033/regulation/2) inserted (1.9.2022) by [The School Discipline (Pupil Exclusions and Reviews) (England) (Amendment) Regulations 2022 (S.I. 2022/788)](https://www.legislation.gov.uk/uksi/2022/788), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/788/regulation/1/2), [4(4)](https://www.legislation.gov.uk/uksi/2022/788/regulation/4/4) (with [reg. 3(2)](https://www.legislation.gov.uk/uksi/2022/788/regulation/3/2))
+
+[^c21238181]: Marginal citation: [1971 c.80](https://www.legislation.gov.uk/ukpga/1971/80).
+
+[^key-c0b281471ca48b3e828c410eccc3dc18]: Textual amendment: Words in [reg. 5](https://www.legislation.gov.uk/uksi/2012/1033/regulation/5) heading substituted (1.9.2022) by [The School Discipline (Pupil Exclusions and Reviews) (England) (Amendment) Regulations 2022 (S.I. 2022/788)](https://www.legislation.gov.uk/uksi/2022/788), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/788/regulation/1/2), [5(2)](https://www.legislation.gov.uk/uksi/2022/788/regulation/5/2) (with [reg. 3(2)](https://www.legislation.gov.uk/uksi/2022/788/regulation/3/2))
+
+[^key-33524b71fa164dc48de8f7d565236627]: Textual amendment: Words in [reg. 5(1)(a)](https://www.legislation.gov.uk/uksi/2012/1033/regulation/5/1/a) inserted (1.9.2022) by [The School Discipline (Pupil Exclusions and Reviews) (England) (Amendment) Regulations 2022 (S.I. 2022/788)](https://www.legislation.gov.uk/uksi/2022/788), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/788/regulation/1/2), [5(3)](https://www.legislation.gov.uk/uksi/2022/788/regulation/5/3) (with [reg. 3(2)](https://www.legislation.gov.uk/uksi/2022/788/regulation/3/2))
+
+[^key-fe83b95258453e8db68be36b7249798d]: Textual amendment: Words in [reg. 5(3)(a)](https://www.legislation.gov.uk/uksi/2012/1033/regulation/5/3/a) substituted (1.9.2022) by [The School Discipline (Pupil Exclusions and Reviews) (England) (Amendment) Regulations 2022 (S.I. 2022/788)](https://www.legislation.gov.uk/uksi/2022/788), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/788/regulation/1/2), [5(4)(a)](https://www.legislation.gov.uk/uksi/2022/788/regulation/5/4/a) (with [reg. 3(2)](https://www.legislation.gov.uk/uksi/2022/788/regulation/3/2))
+
+[^key-f984cc16365c20a924adf6c3c4c93726]: Textual amendment: Words in [reg. 5(3)(a)](https://www.legislation.gov.uk/uksi/2012/1033/regulation/5/3/a) inserted (1.9.2022) by [The School Discipline (Pupil Exclusions and Reviews) (England) (Amendment) Regulations 2022 (S.I. 2022/788)](https://www.legislation.gov.uk/uksi/2022/788), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/788/regulation/1/2), [5(4)(b)](https://www.legislation.gov.uk/uksi/2022/788/regulation/5/4/b) (with [reg. 3(2)](https://www.legislation.gov.uk/uksi/2022/788/regulation/3/2))
+
+[^key-cd233bc891c7531f2eb29115c8cfcdba]: Textual amendment: Reg. 5(3)(b)(iia) inserted (1.9.2023) by [The School Discipline (Pupil Exclusions and Reviews) (England) (Amendment and Transitional Provision) Regulations 2023 (S.I. 2023/571)](https://www.legislation.gov.uk/uksi/2023/571), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/571/regulation/1/1), [5(2)](https://www.legislation.gov.uk/uksi/2023/571/regulation/5/2) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/571/regulation/1/3), [16](https://www.legislation.gov.uk/uksi/2023/571/regulation/16)) (as amended by [S.I. 2023/882](https://www.legislation.gov.uk/uksi/2023/882), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/882/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/882/regulation/4), [8](https://www.legislation.gov.uk/uksi/2023/882/regulation/8) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2023/882/regulation/1/4))
+
+[^key-9a53269a733d100c39bc540a648cd365]: Textual amendment: Words in reg. 5(3)(b)(iii) inserted (1.9.2023) by [The School Discipline (Pupil Exclusions and Reviews) (England) (Amendment and Transitional Provision) Regulations 2023 (S.I. 2023/571)](https://www.legislation.gov.uk/uksi/2023/571), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/571/regulation/1/1), [5(3)](https://www.legislation.gov.uk/uksi/2023/571/regulation/5/3) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/571/regulation/1/3), [16](https://www.legislation.gov.uk/uksi/2023/571/regulation/16)) (as amended by [S.I. 2023/882](https://www.legislation.gov.uk/uksi/2023/882), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/882/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/882/regulation/4), [8](https://www.legislation.gov.uk/uksi/2023/882/regulation/8) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2023/882/regulation/1/4))
+
+[^key-d9890293f37bb4926ca022efca020d56]: Textual amendment: Words in reg. 5(3)(b)(iv) inserted (1.9.2023) by [The School Discipline (Pupil Exclusions and Reviews) (England) (Amendment and Transitional Provision) Regulations 2023 (S.I. 2023/571)](https://www.legislation.gov.uk/uksi/2023/571), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/571/regulation/1/1), [5(3)](https://www.legislation.gov.uk/uksi/2023/571/regulation/5/3) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/571/regulation/1/3), [16](https://www.legislation.gov.uk/uksi/2023/571/regulation/16)) (as amended by [S.I. 2023/882](https://www.legislation.gov.uk/uksi/2023/882), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/882/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/882/regulation/4), [8](https://www.legislation.gov.uk/uksi/2023/882/regulation/8) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2023/882/regulation/1/4))
+
+[^key-5456e2e14f3ea290a14e20262c5010d4]: Textual amendment: Words in [reg. 5(5)](https://www.legislation.gov.uk/uksi/2012/1033/regulation/5/5) omitted (1.9.2022) by virtue of [The School Discipline (Pupil Exclusions and Reviews) (England) (Amendment) Regulations 2022 (S.I. 2022/788)](https://www.legislation.gov.uk/uksi/2022/788), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/788/regulation/1/2), [5(5)](https://www.legislation.gov.uk/uksi/2022/788/regulation/5/5) (with [reg. 3(2)](https://www.legislation.gov.uk/uksi/2022/788/regulation/3/2))
+
+[^key-8cbedbea7bb482eb1eea3f113cc68650]: Textual amendment: Words in [reg. 6(3)(b)](https://www.legislation.gov.uk/uksi/2012/1033/regulation/6/3/b) substituted (1.9.2022) by [The School Discipline (Pupil Exclusions and Reviews) (England) (Amendment) Regulations 2022 (S.I. 2022/788)](https://www.legislation.gov.uk/uksi/2022/788), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/788/regulation/1/2), [6(2)](https://www.legislation.gov.uk/uksi/2022/788/regulation/6/2) (with [reg. 3(2)](https://www.legislation.gov.uk/uksi/2022/788/regulation/3/2))
+
+[^key-d04eb1b22b51c86ec6ea50fe33f9ed1c]: Textual amendment: [Reg. 6(3)(c)](https://www.legislation.gov.uk/uksi/2012/1033/regulation/6/3/c)[(ia)](https://www.legislation.gov.uk/uksi/2012/1033/regulation/6/3/ia)[(ib)](https://www.legislation.gov.uk/uksi/2012/1033/regulation/6/3/ib) inserted (1.9.2022) by [The School Discipline (Pupil Exclusions and Reviews) (England) (Amendment) Regulations 2022 (S.I. 2022/788)](https://www.legislation.gov.uk/uksi/2022/788), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/788/regulation/1/2), [6(3)](https://www.legislation.gov.uk/uksi/2022/788/regulation/6/3) (with [reg. 3(2)](https://www.legislation.gov.uk/uksi/2022/788/regulation/3/2))
+
+[^key-100940bc2ecb64a4f60db14e58920fb3]: Textual amendment: Reg. 6(3A) substituted (1.9.2023) by [The School Discipline (Pupil Exclusions and Reviews) (England) (Amendment and Transitional Provision) Regulations 2023 (S.I. 2023/571)](https://www.legislation.gov.uk/uksi/2023/571), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/571/regulation/1/1), [6(2)](https://www.legislation.gov.uk/uksi/2023/571/regulation/6/2) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/571/regulation/1/3), [16](https://www.legislation.gov.uk/uksi/2023/571/regulation/16)) (as amended by [S.I. 2023/882](https://www.legislation.gov.uk/uksi/2023/882), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/882/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/882/regulation/4), [8](https://www.legislation.gov.uk/uksi/2023/882/regulation/8) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2023/882/regulation/1/4))
+
+[^key-e9b211bd0d7e750d8a5196360290e458]: Textual amendment: Reg. 6(3A)(3B) inserted (1.6.2020) by [The School Discipline (England) (Coronavirus) (Pupil Exclusions and Reviews) (Amendment) Regulations 2020 (S.I. 2020/543)](https://www.legislation.gov.uk/uksi/2020/543), [regs. 1](https://www.legislation.gov.uk/uksi/2020/543/regulation/1), [5(a)](https://www.legislation.gov.uk/uksi/2020/543/regulation/5/a)
+
+[^key-21f44cc815bfc93e790934c533b1b4cb]: Textual amendment: Word in reg. 6(3B) substituted (1.9.2023) by [The School Discipline (Pupil Exclusions and Reviews) (England) (Amendment and Transitional Provision) Regulations 2023 (S.I. 2023/571)](https://www.legislation.gov.uk/uksi/2023/571), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/571/regulation/1/1), [6(3)(a)](https://www.legislation.gov.uk/uksi/2023/571/regulation/6/3/a) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/571/regulation/1/3), [16](https://www.legislation.gov.uk/uksi/2023/571/regulation/16)) (as amended by [S.I. 2023/882](https://www.legislation.gov.uk/uksi/2023/882), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/882/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/882/regulation/4), [8](https://www.legislation.gov.uk/uksi/2023/882/regulation/8) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2023/882/regulation/1/4))
+
+[^key-6385b6463f749828f189d0dd7e6c36f0]: Textual amendment: Reg. 6(3B)(b) omitted (1.9.2023) by virtue of [The School Discipline (Pupil Exclusions and Reviews) (England) (Amendment and Transitional Provision) Regulations 2023 (S.I. 2023/571)](https://www.legislation.gov.uk/uksi/2023/571), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/571/regulation/1/1), [6(3)(b)](https://www.legislation.gov.uk/uksi/2023/571/regulation/6/3/b) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/571/regulation/1/3), [16](https://www.legislation.gov.uk/uksi/2023/571/regulation/16)) (as amended by [S.I. 2023/882](https://www.legislation.gov.uk/uksi/2023/882), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/882/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/882/regulation/4), [8](https://www.legislation.gov.uk/uksi/2023/882/regulation/8) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2023/882/regulation/1/4))
+
+[^key-a8ef7444363718e1d2ffa33a57c3947f]: Textual amendment: [Reg. 6(3C)](https://www.legislation.gov.uk/uksi/2012/1033/regulation/6/3C) inserted (1.9.2022) by [The School Discipline (Pupil Exclusions and Reviews) (England) (Amendment) Regulations 2022 (S.I. 2022/788)](https://www.legislation.gov.uk/uksi/2022/788), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/788/regulation/1/2), [6(4)](https://www.legislation.gov.uk/uksi/2022/788/regulation/6/4) (with [reg. 3(2)](https://www.legislation.gov.uk/uksi/2022/788/regulation/3/2))
+
+[^key-b95a9156618111981d4f733f2ef44693]: Textual amendment: Reg. 6(3D)-(3G) inserted (1.9.2023) by [The School Discipline (Pupil Exclusions and Reviews) (England) (Amendment and Transitional Provision) Regulations 2023 (S.I. 2023/571)](https://www.legislation.gov.uk/uksi/2023/571), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/571/regulation/1/1), [6(4)](https://www.legislation.gov.uk/uksi/2023/571/regulation/6/4) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/571/regulation/1/3), [16](https://www.legislation.gov.uk/uksi/2023/571/regulation/16)) (as amended by [S.I. 2023/882](https://www.legislation.gov.uk/uksi/2023/882), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/882/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/882/regulation/4), [8](https://www.legislation.gov.uk/uksi/2023/882/regulation/8) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2023/882/regulation/1/4))
+
+[^key-2671e3aff63d50161dc323892d1ad829]: Textual amendment: Words in [reg. 6(4)(b)](https://www.legislation.gov.uk/uksi/2012/1033/regulation/6/4/b) substituted (1.9.2022) by [The School Discipline (Pupil Exclusions and Reviews) (England) (Amendment) Regulations 2022 (S.I. 2022/788)](https://www.legislation.gov.uk/uksi/2022/788), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/788/regulation/1/2), [6(5)(a)](https://www.legislation.gov.uk/uksi/2022/788/regulation/6/5/a) (with [reg. 3(2)](https://www.legislation.gov.uk/uksi/2022/788/regulation/3/2))
+
+[^key-82344c215b90924e06fb7ae46de5f4fa]: Textual amendment: Words in [reg. 6(4)(b)](https://www.legislation.gov.uk/uksi/2012/1033/regulation/6/4/b) inserted (1.9.2022) by [The School Discipline (Pupil Exclusions and Reviews) (England) (Amendment) Regulations 2022 (S.I. 2022/788)](https://www.legislation.gov.uk/uksi/2022/788), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/788/regulation/1/2), [6(5)(b)](https://www.legislation.gov.uk/uksi/2022/788/regulation/6/5/b) (with [reg. 3(2)](https://www.legislation.gov.uk/uksi/2022/788/regulation/3/2))
+
+[^key-78b6e421db2017f5931960579c0f97da]: Textual amendment: Words in [reg. 6(6)(a)](https://www.legislation.gov.uk/uksi/2012/1033/regulation/6/6/a) substituted (1.9.2022) by [The School Discipline (Pupil Exclusions and Reviews) (England) (Amendment) Regulations 2022 (S.I. 2022/788)](https://www.legislation.gov.uk/uksi/2022/788), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/788/regulation/1/2), [6(5)(a)](https://www.legislation.gov.uk/uksi/2022/788/regulation/6/5/a) (with [reg. 3(2)](https://www.legislation.gov.uk/uksi/2022/788/regulation/3/2))
+
+[^key-79fa767f2a14ce0cac84dd355ea69497]: Textual amendment: Words in [reg. 6(6)(a)](https://www.legislation.gov.uk/uksi/2012/1033/regulation/6/6/a) inserted (1.9.2022) by [The School Discipline (Pupil Exclusions and Reviews) (England) (Amendment) Regulations 2022 (S.I. 2022/788)](https://www.legislation.gov.uk/uksi/2022/788), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/788/regulation/1/2), [6(5)(b)](https://www.legislation.gov.uk/uksi/2022/788/regulation/6/5/b) (with [reg. 3(2)](https://www.legislation.gov.uk/uksi/2022/788/regulation/3/2))
+
+[^key-e125262af5242a534f7a62facb345148]: Textual amendment: Reg. 6(6)(b)(iva) inserted (1.9.2023) by [The School Discipline (Pupil Exclusions and Reviews) (England) (Amendment and Transitional Provision) Regulations 2023 (S.I. 2023/571)](https://www.legislation.gov.uk/uksi/2023/571), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/571/regulation/1/1), [6(5)(a)](https://www.legislation.gov.uk/uksi/2023/571/regulation/6/5/a) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/571/regulation/1/3), [16](https://www.legislation.gov.uk/uksi/2023/571/regulation/16)) (as amended by [S.I. 2023/882](https://www.legislation.gov.uk/uksi/2023/882), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/882/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/882/regulation/4), [8](https://www.legislation.gov.uk/uksi/2023/882/regulation/8) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2023/882/regulation/1/4))
+
+[^key-a2e1469d82c1e75bb41f88980ea8c7c0]: Textual amendment: Words in reg. 6(6)(b)(v) inserted (1.9.2023) by [The School Discipline (Pupil Exclusions and Reviews) (England) (Amendment and Transitional Provision) Regulations 2023 (S.I. 2023/571)](https://www.legislation.gov.uk/uksi/2023/571), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/571/regulation/1/1), [6(5)(b)(i)](https://www.legislation.gov.uk/uksi/2023/571/regulation/6/5/b/i) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/571/regulation/1/3), [16](https://www.legislation.gov.uk/uksi/2023/571/regulation/16)) (as amended by [S.I. 2023/882](https://www.legislation.gov.uk/uksi/2023/882), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/882/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/882/regulation/4), [8](https://www.legislation.gov.uk/uksi/2023/882/regulation/8) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2023/882/regulation/1/4))
+
+[^key-2fdbdd9754606e91e8647fa67723dc6e]: Textual amendment: Words in reg. 6(6)(b)(v) substituted (1.9.2023) by [The School Discipline (Pupil Exclusions and Reviews) (England) (Amendment and Transitional Provision) Regulations 2023 (S.I. 2023/571)](https://www.legislation.gov.uk/uksi/2023/571), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/571/regulation/1/1), [6(5)(b)(ii)](https://www.legislation.gov.uk/uksi/2023/571/regulation/6/5/b/ii) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/571/regulation/1/3), [16](https://www.legislation.gov.uk/uksi/2023/571/regulation/16)) (as amended by [S.I. 2023/882](https://www.legislation.gov.uk/uksi/2023/882), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/882/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/882/regulation/4), [8](https://www.legislation.gov.uk/uksi/2023/882/regulation/8) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2023/882/regulation/1/4))
+
+[^key-631be3308e768ca4b2e4bcb48574a6df]: Textual amendment: Words in reg. 6(6)(b)(vi) inserted (1.9.2023) by [The School Discipline (Pupil Exclusions and Reviews) (England) (Amendment and Transitional Provision) Regulations 2023 (S.I. 2023/571)](https://www.legislation.gov.uk/uksi/2023/571), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/571/regulation/1/1), [6(5)(c)(i)](https://www.legislation.gov.uk/uksi/2023/571/regulation/6/5/c/i) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/571/regulation/1/3), [16](https://www.legislation.gov.uk/uksi/2023/571/regulation/16)) (as amended by [S.I. 2023/882](https://www.legislation.gov.uk/uksi/2023/882), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/882/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/882/regulation/4), [8](https://www.legislation.gov.uk/uksi/2023/882/regulation/8) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2023/882/regulation/1/4))
+
+[^key-549e577196c2b08f1b19201b39702f09]: Textual amendment: Words in reg. 6(6)(b)(vi) substituted (1.9.2023) by [The School Discipline (Pupil Exclusions and Reviews) (England) (Amendment and Transitional Provision) Regulations 2023 (S.I. 2023/571)](https://www.legislation.gov.uk/uksi/2023/571), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/571/regulation/1/1), [6(5)(c)(ii)](https://www.legislation.gov.uk/uksi/2023/571/regulation/6/5/c/ii) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/571/regulation/1/3), [16](https://www.legislation.gov.uk/uksi/2023/571/regulation/16)) (as amended by [S.I. 2023/882](https://www.legislation.gov.uk/uksi/2023/882), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/882/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/882/regulation/4), [8](https://www.legislation.gov.uk/uksi/2023/882/regulation/8) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2023/882/regulation/1/4))
+
+[^c21238191]: Marginal citation: [2010 c.15](https://www.legislation.gov.uk/ukpga/2010/15).
+
+[^key-ad5f60ebd41fbbd9d74beab21f2b4b55]: Textual amendment: Words in reg. 6(7) substituted (25.9.2020) by [The School Discipline (England) (Coronavirus) (Pupil Exclusions and Reviews) (Amendment) (No. 2) Regulations 2020 (S.I. 2020/908)](https://www.legislation.gov.uk/uksi/2020/908), [regs. 1](https://www.legislation.gov.uk/uksi/2020/908/regulation/1), [6(a)](https://www.legislation.gov.uk/uksi/2020/908/regulation/6/a)
+
+[^key-05033fdc5e68c0b26acb7abd685060de]: Textual amendment: Words in reg. 6(7) substituted (1.9.2023) by [The School Discipline (Pupil Exclusions and Reviews) (England) (Amendment and Transitional Provision) Regulations 2023 (S.I. 2023/571)](https://www.legislation.gov.uk/uksi/2023/571), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/571/regulation/1/1), [6(6)](https://www.legislation.gov.uk/uksi/2023/571/regulation/6/6) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/571/regulation/1/3), [16](https://www.legislation.gov.uk/uksi/2023/571/regulation/16)) (as amended by [S.I. 2023/882](https://www.legislation.gov.uk/uksi/2023/882), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/882/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/882/regulation/4), [8](https://www.legislation.gov.uk/uksi/2023/882/regulation/8) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2023/882/regulation/1/4))
+
+[^key-52cc84814f70916abb3bbe6926ac84e8]: Textual amendment: Reg. 6(7A)-(7D) omitted (1.9.2023) by virtue of [The School Discipline (Pupil Exclusions and Reviews) (England) (Amendment and Transitional Provision) Regulations 2023 (S.I. 2023/571)](https://www.legislation.gov.uk/uksi/2023/571), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/571/regulation/1/1), [6(7)](https://www.legislation.gov.uk/uksi/2023/571/regulation/6/7) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/571/regulation/1/3), [16](https://www.legislation.gov.uk/uksi/2023/571/regulation/16)) (as amended by [S.I. 2023/882](https://www.legislation.gov.uk/uksi/2023/882), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/882/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/882/regulation/4), [8](https://www.legislation.gov.uk/uksi/2023/882/regulation/8) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2023/882/regulation/1/4))
+
+[^key-8bf82c9d3e70006c381219419c773fb4]: Textual amendment: Reg. 6(7E)(7F) inserted (1.9.2023) by [The School Discipline (Pupil Exclusions and Reviews) (England) (Amendment and Transitional Provision) Regulations 2023 (S.I. 2023/571)](https://www.legislation.gov.uk/uksi/2023/571), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/571/regulation/1/1), [6(8)](https://www.legislation.gov.uk/uksi/2023/571/regulation/6/8) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/571/regulation/1/3), [16](https://www.legislation.gov.uk/uksi/2023/571/regulation/16)) (as amended by [S.I. 2023/882](https://www.legislation.gov.uk/uksi/2023/882), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/882/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/882/regulation/4), [8](https://www.legislation.gov.uk/uksi/2023/882/regulation/8) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2023/882/regulation/1/4))
+
+[^key-6c2291404dbdd8540dbf3b6a6d520919]: Textual amendment: Words in [reg. 7(6)](https://www.legislation.gov.uk/uksi/2012/1033/regulation/7/6) substituted (1.9.2022) by [The School Discipline (Pupil Exclusions and Reviews) (England) (Amendment) Regulations 2022 (S.I. 2022/788)](https://www.legislation.gov.uk/uksi/2022/788), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/788/regulation/1/2), [7(2)](https://www.legislation.gov.uk/uksi/2022/788/regulation/7/2) (with [reg. 3(2)](https://www.legislation.gov.uk/uksi/2022/788/regulation/3/2))
+
+[^key-be706bfa9a155fbd13699c5a5ba03407]: Textual amendment: Words in [reg. 8(2)](https://www.legislation.gov.uk/uksi/2012/1033/regulation/8/2) substituted (1.9.2022) by [The School Discipline (Pupil Exclusions and Reviews) (England) (Amendment) Regulations 2022 (S.I. 2022/788)](https://www.legislation.gov.uk/uksi/2022/788), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/788/regulation/1/2), [8(2)(a)](https://www.legislation.gov.uk/uksi/2022/788/regulation/8/2/a) (with [reg. 3(2)](https://www.legislation.gov.uk/uksi/2022/788/regulation/3/2))
+
+[^key-f61becc2707ee2cd3ddddb56d49f6c43]: Textual amendment: Words in [reg. 8(2)](https://www.legislation.gov.uk/uksi/2012/1033/regulation/8/2) inserted (1.9.2022) by [The School Discipline (Pupil Exclusions and Reviews) (England) (Amendment) Regulations 2022 (S.I. 2022/788)](https://www.legislation.gov.uk/uksi/2022/788), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/788/regulation/1/2), [8(2)(b)](https://www.legislation.gov.uk/uksi/2022/788/regulation/8/2/b) (with [reg. 3(2)](https://www.legislation.gov.uk/uksi/2022/788/regulation/3/2))
+
+[^key-cc942446a45735d556f270571ab9cfa5]: Textual amendment: Reg. 8A inserted (1.9.2023) by [The School Discipline (Pupil Exclusions and Reviews) (England) (Amendment and Transitional Provision) Regulations 2023 (S.I. 2023/571)](https://www.legislation.gov.uk/uksi/2023/571), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/571/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2023/571/regulation/7) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/571/regulation/1/3), [16](https://www.legislation.gov.uk/uksi/2023/571/regulation/16)) (as amended by [S.I. 2023/882](https://www.legislation.gov.uk/uksi/2023/882), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/882/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/882/regulation/4), [8](https://www.legislation.gov.uk/uksi/2023/882/regulation/8) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2023/882/regulation/1/4))
+
+[^key-aac28be8f5b7e7933948bbf03eca2420]: Textual amendment: [Reg. 9(aa)](https://www.legislation.gov.uk/uksi/2012/1033/regulation/9/aa)[(ab)](https://www.legislation.gov.uk/uksi/2012/1033/regulation/9/ab) inserted (1.9.2022) by [The School Discipline (Pupil Exclusions and Reviews) (England) (Amendment) Regulations 2022 (S.I. 2022/788)](https://www.legislation.gov.uk/uksi/2022/788), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/788/regulation/1/2), [9(2)](https://www.legislation.gov.uk/uksi/2022/788/regulation/9/2) (with [reg. 3(2)](https://www.legislation.gov.uk/uksi/2022/788/regulation/3/2))
+
+[^key-53abfa9f6b5574b5f367001ddfc0dd98]: Textual amendment: Words in [reg. 14](https://www.legislation.gov.uk/uksi/2012/1033/regulation/14) heading substituted (1.9.2022) by [The School Discipline (Pupil Exclusions and Reviews) (England) (Amendment) Regulations 2022 (S.I. 2022/788)](https://www.legislation.gov.uk/uksi/2022/788), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/788/regulation/1/2), [10(2)](https://www.legislation.gov.uk/uksi/2022/788/regulation/10/2) (with [reg. 3(2)](https://www.legislation.gov.uk/uksi/2022/788/regulation/3/2))
+
+[^key-763600b0c03124249b4a8a8a7eef3786]: Textual amendment: Words in [reg. 14(1)(a)](https://www.legislation.gov.uk/uksi/2012/1033/regulation/14/1/a) inserted (1.9.2022) by [The School Discipline (Pupil Exclusions and Reviews) (England) (Amendment) Regulations 2022 (S.I. 2022/788)](https://www.legislation.gov.uk/uksi/2022/788), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/788/regulation/1/2), [10(3)](https://www.legislation.gov.uk/uksi/2022/788/regulation/10/3) (with [reg. 3(2)](https://www.legislation.gov.uk/uksi/2022/788/regulation/3/2))
+
+[^key-57dcf79e7efab6431c105f2a22c93362]: Textual amendment: Words in [reg. 14(3)(a)](https://www.legislation.gov.uk/uksi/2012/1033/regulation/14/3/a) substituted (1.9.2022) by [The School Discipline (Pupil Exclusions and Reviews) (England) (Amendment) Regulations 2022 (S.I. 2022/788)](https://www.legislation.gov.uk/uksi/2022/788), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/788/regulation/1/2), [10(4)(a)](https://www.legislation.gov.uk/uksi/2022/788/regulation/10/4/a) (with [reg. 3(2)](https://www.legislation.gov.uk/uksi/2022/788/regulation/3/2))
+
+[^key-b6ab2319f2428d405c4370e677137740]: Textual amendment: Words in [reg. 14(3)(a)](https://www.legislation.gov.uk/uksi/2012/1033/regulation/14/3/a) inserted (1.9.2022) by [The School Discipline (Pupil Exclusions and Reviews) (England) (Amendment) Regulations 2022 (S.I. 2022/788)](https://www.legislation.gov.uk/uksi/2022/788), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/788/regulation/1/2), [10(4)(b)](https://www.legislation.gov.uk/uksi/2022/788/regulation/10/4/b) (with [reg. 3(2)](https://www.legislation.gov.uk/uksi/2022/788/regulation/3/2))
+
+[^key-5de5cf8c2f67f6ff71304f2825abdadc]: Textual amendment: Reg. 14(3)(b)(iia) inserted (1.9.2023) by [The School Discipline (Pupil Exclusions and Reviews) (England) (Amendment and Transitional Provision) Regulations 2023 (S.I. 2023/571)](https://www.legislation.gov.uk/uksi/2023/571), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/571/regulation/1/1), [8(2)](https://www.legislation.gov.uk/uksi/2023/571/regulation/8/2) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/571/regulation/1/3), [16](https://www.legislation.gov.uk/uksi/2023/571/regulation/16)) (as amended by [S.I. 2023/882](https://www.legislation.gov.uk/uksi/2023/882), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/882/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/882/regulation/4), [8](https://www.legislation.gov.uk/uksi/2023/882/regulation/8) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2023/882/regulation/1/4))
+
+[^key-96ac37f9d7da7f7ccea5153a691a876e]: Textual amendment: Words in reg. 14(3)(b)(iii) inserted (1.9.2023) by [The School Discipline (Pupil Exclusions and Reviews) (England) (Amendment and Transitional Provision) Regulations 2023 (S.I. 2023/571)](https://www.legislation.gov.uk/uksi/2023/571), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/571/regulation/1/1), [8(3)](https://www.legislation.gov.uk/uksi/2023/571/regulation/8/3) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/571/regulation/1/3), [16](https://www.legislation.gov.uk/uksi/2023/571/regulation/16)) (as amended by [S.I. 2023/882](https://www.legislation.gov.uk/uksi/2023/882), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/882/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/882/regulation/4), [8](https://www.legislation.gov.uk/uksi/2023/882/regulation/8) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2023/882/regulation/1/4))
+
+[^key-870dce584a39ed89b3e0b0d7c0062594]: Textual amendment: Words in reg. 14(3)(b)(iv) inserted (1.9.2023) by [The School Discipline (Pupil Exclusions and Reviews) (England) (Amendment and Transitional Provision) Regulations 2023 (S.I. 2023/571)](https://www.legislation.gov.uk/uksi/2023/571), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/571/regulation/1/1), [8(3)](https://www.legislation.gov.uk/uksi/2023/571/regulation/8/3) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/571/regulation/1/3), [16](https://www.legislation.gov.uk/uksi/2023/571/regulation/16)) (as amended by [S.I. 2023/882](https://www.legislation.gov.uk/uksi/2023/882), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/882/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/882/regulation/4), [8](https://www.legislation.gov.uk/uksi/2023/882/regulation/8) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2023/882/regulation/1/4))
+
+[^key-2f398866e1ec3e06b567df14eadfc609]: Textual amendment: Words in [reg. 14(5)](https://www.legislation.gov.uk/uksi/2012/1033/regulation/14/5) omitted (1.9.2022) by virtue of [The School Discipline (Pupil Exclusions and Reviews) (England) (Amendment) Regulations 2022 (S.I. 2022/788)](https://www.legislation.gov.uk/uksi/2022/788), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/788/regulation/1/2), [10(5)](https://www.legislation.gov.uk/uksi/2022/788/regulation/10/5) (with [reg. 3(2)](https://www.legislation.gov.uk/uksi/2022/788/regulation/3/2))
+
+[^key-227b7475aea782572bb8afb50325fc8b]: Textual amendment: Words in [reg. 15(3)(b)](https://www.legislation.gov.uk/uksi/2012/1033/regulation/15/3/b) substituted (1.9.2022) by [The School Discipline (Pupil Exclusions and Reviews) (England) (Amendment) Regulations 2022 (S.I. 2022/788)](https://www.legislation.gov.uk/uksi/2022/788), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/788/regulation/1/2), [11(2)](https://www.legislation.gov.uk/uksi/2022/788/regulation/11/2) (with [reg. 3(2)](https://www.legislation.gov.uk/uksi/2022/788/regulation/3/2))
+
+[^key-c5cb8647c5bd6d4fc852cd4a87e07b94]: Textual amendment: [Reg. 15(3)(c)](https://www.legislation.gov.uk/uksi/2012/1033/regulation/15/3/c)[(ia)](https://www.legislation.gov.uk/uksi/2012/1033/regulation/15/3/ia)[(ib)](https://www.legislation.gov.uk/uksi/2012/1033/regulation/15/3/ib) inserted (1.9.2022) by [The School Discipline (Pupil Exclusions and Reviews) (England) (Amendment) Regulations 2022 (S.I. 2022/788)](https://www.legislation.gov.uk/uksi/2022/788), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/788/regulation/1/2), [11(3)](https://www.legislation.gov.uk/uksi/2022/788/regulation/11/3) (with [reg. 3(2)](https://www.legislation.gov.uk/uksi/2022/788/regulation/3/2))
+
+[^key-3fb34c0d5249fecabbdf49ca101c8f3f]: Textual amendment: Reg. 15(3A) substituted (1.9.2023) by [The School Discipline (Pupil Exclusions and Reviews) (England) (Amendment and Transitional Provision) Regulations 2023 (S.I. 2023/571)](https://www.legislation.gov.uk/uksi/2023/571), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/571/regulation/1/1), [9(2)](https://www.legislation.gov.uk/uksi/2023/571/regulation/9/2) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/571/regulation/1/3), [16](https://www.legislation.gov.uk/uksi/2023/571/regulation/16)) (as amended by [S.I. 2023/882](https://www.legislation.gov.uk/uksi/2023/882), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/882/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/882/regulation/4), [8](https://www.legislation.gov.uk/uksi/2023/882/regulation/8) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2023/882/regulation/1/4))
+
+[^key-72408918e6945021a3324adfd3aa64f1]: Textual amendment: Reg. 15(3A)(3B) inserted (1.6.2020) by [The School Discipline (England) (Coronavirus) (Pupil Exclusions and Reviews) (Amendment) Regulations 2020 (S.I. 2020/543)](https://www.legislation.gov.uk/uksi/2020/543), [regs. 1](https://www.legislation.gov.uk/uksi/2020/543/regulation/1), [6(a)](https://www.legislation.gov.uk/uksi/2020/543/regulation/6/a)
+
+[^key-e60d77137e4e8d306bbc5047b164abe7]: Textual amendment: Word in reg. 15(3B) substituted (1.9.2023) by [The School Discipline (Pupil Exclusions and Reviews) (England) (Amendment and Transitional Provision) Regulations 2023 (S.I. 2023/571)](https://www.legislation.gov.uk/uksi/2023/571), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/571/regulation/1/1), [9(3)(a)](https://www.legislation.gov.uk/uksi/2023/571/regulation/9/3/a) (as amended by [S.I. 2023/882](https://www.legislation.gov.uk/uksi/2023/882), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/882/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/882/regulation/4), [8](https://www.legislation.gov.uk/uksi/2023/882/regulation/8) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2023/882/regulation/1/4))
+
+[^key-47cb861782019686a1e44d938b60a5f1]: Textual amendment: Reg. 15(3B)(b) omitted (1.9.2023) by virtue of [The School Discipline (Pupil Exclusions and Reviews) (England) (Amendment and Transitional Provision) Regulations 2023 (S.I. 2023/571)](https://www.legislation.gov.uk/uksi/2023/571), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/571/regulation/1/1), [9(3)(b)](https://www.legislation.gov.uk/uksi/2023/571/regulation/9/3/b) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/571/regulation/1/3), [16](https://www.legislation.gov.uk/uksi/2023/571/regulation/16)) (as amended by [S.I. 2023/882](https://www.legislation.gov.uk/uksi/2023/882), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/882/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/882/regulation/4), [8](https://www.legislation.gov.uk/uksi/2023/882/regulation/8) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2023/882/regulation/1/4))
+
+[^key-c868f8e2c6803ee8c784b30643179c86]: Textual amendment: [Reg. 15(3C)](https://www.legislation.gov.uk/uksi/2012/1033/regulation/15/3C) inserted (1.9.2022) by [The School Discipline (Pupil Exclusions and Reviews) (England) (Amendment) Regulations 2022 (S.I. 2022/788)](https://www.legislation.gov.uk/uksi/2022/788), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/788/regulation/1/2), [11(4)](https://www.legislation.gov.uk/uksi/2022/788/regulation/11/4) (with [reg. 3(2)](https://www.legislation.gov.uk/uksi/2022/788/regulation/3/2))
+
+[^key-15b64938af69f3faf168df1cb74cc2e4]: Textual amendment: Reg. 15(3D)-(3G) inserted (1.9.2023) by [The School Discipline (Pupil Exclusions and Reviews) (England) (Amendment and Transitional Provision) Regulations 2023 (S.I. 2023/571)](https://www.legislation.gov.uk/uksi/2023/571), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/571/regulation/1/1), [9(4)](https://www.legislation.gov.uk/uksi/2023/571/regulation/9/4) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/571/regulation/1/3), [16](https://www.legislation.gov.uk/uksi/2023/571/regulation/16)) (as amended by [S.I. 2023/882](https://www.legislation.gov.uk/uksi/2023/882), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/882/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/882/regulation/4), [5](https://www.legislation.gov.uk/uksi/2023/882/regulation/5), [8](https://www.legislation.gov.uk/uksi/2023/882/regulation/8) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2023/882/regulation/1/4))
+
+[^key-798d5f03970b2438a2831047857e3288]: Textual amendment: Words in [reg. 15(4)(b)](https://www.legislation.gov.uk/uksi/2012/1033/regulation/15/4/b) substituted (1.9.2022) by [The School Discipline (Pupil Exclusions and Reviews) (England) (Amendment) Regulations 2022 (S.I. 2022/788)](https://www.legislation.gov.uk/uksi/2022/788), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/788/regulation/1/2), [11(5)(a)](https://www.legislation.gov.uk/uksi/2022/788/regulation/11/5/a) (with [reg. 3(2)](https://www.legislation.gov.uk/uksi/2022/788/regulation/3/2))
+
+[^key-441b0c2a4e00e2693aff1405ca3390fb]: Textual amendment: Words in [reg. 15(4)(b)](https://www.legislation.gov.uk/uksi/2012/1033/regulation/15/4/b) inserted (1.9.2022) by [The School Discipline (Pupil Exclusions and Reviews) (England) (Amendment) Regulations 2022 (S.I. 2022/788)](https://www.legislation.gov.uk/uksi/2022/788), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/788/regulation/1/2), [11(5)(b)](https://www.legislation.gov.uk/uksi/2022/788/regulation/11/5/b) (with [reg. 3(2)](https://www.legislation.gov.uk/uksi/2022/788/regulation/3/2))
+
+[^key-51db91135256465f456437a3a350ba2c]: Textual amendment: Words in [reg. 15(6)(a)](https://www.legislation.gov.uk/uksi/2012/1033/regulation/15/6/a) substituted (1.9.2022) by [The School Discipline (Pupil Exclusions and Reviews) (England) (Amendment) Regulations 2022 (S.I. 2022/788)](https://www.legislation.gov.uk/uksi/2022/788), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/788/regulation/1/2), [11(5)(a)](https://www.legislation.gov.uk/uksi/2022/788/regulation/11/5/a) (with [reg. 3(2)](https://www.legislation.gov.uk/uksi/2022/788/regulation/3/2))
+
+[^key-1863e5023b4b3c68545e07d4129c3bf0]: Textual amendment: Words in [reg. 15(6)(a)](https://www.legislation.gov.uk/uksi/2012/1033/regulation/15/6/a) inserted (1.9.2022) by [The School Discipline (Pupil Exclusions and Reviews) (England) (Amendment) Regulations 2022 (S.I. 2022/788)](https://www.legislation.gov.uk/uksi/2022/788), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/788/regulation/1/2), [11(5)(b)](https://www.legislation.gov.uk/uksi/2022/788/regulation/11/5/b) (with [reg. 3(2)](https://www.legislation.gov.uk/uksi/2022/788/regulation/3/2))
+
+[^key-848dddaa85e993aacccb0f55b38385ff]: Textual amendment: Reg. 15(6)(b)(iva) inserted (1.9.2023) by [The School Discipline (Pupil Exclusions and Reviews) (England) (Amendment and Transitional Provision) Regulations 2023 (S.I. 2023/571)](https://www.legislation.gov.uk/uksi/2023/571), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/571/regulation/1/1), [9(5)(a)](https://www.legislation.gov.uk/uksi/2023/571/regulation/9/5/a) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/571/regulation/1/3), [16](https://www.legislation.gov.uk/uksi/2023/571/regulation/16)) (as amended by [S.I. 2023/882](https://www.legislation.gov.uk/uksi/2023/882), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/882/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/882/regulation/4), [8](https://www.legislation.gov.uk/uksi/2023/882/regulation/8) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2023/882/regulation/1/4))
+
+[^key-91e7d4c2fa567b5b8148c6d9220f8abc]: Textual amendment: Words in reg. 15(6)(b)(v) inserted (1.9.2023) by [The School Discipline (Pupil Exclusions and Reviews) (England) (Amendment and Transitional Provision) Regulations 2023 (S.I. 2023/571)](https://www.legislation.gov.uk/uksi/2023/571), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/571/regulation/1/1), [9(5)(b)(i)](https://www.legislation.gov.uk/uksi/2023/571/regulation/9/5/b/i) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/571/regulation/1/3), [16](https://www.legislation.gov.uk/uksi/2023/571/regulation/16)) (as amended by [S.I. 2023/882](https://www.legislation.gov.uk/uksi/2023/882), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/882/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/882/regulation/4), [8](https://www.legislation.gov.uk/uksi/2023/882/regulation/8) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2023/882/regulation/1/4))
+
+[^key-234cd095b7a9779abaabb545e168aa3b]: Textual amendment: Words in reg. 15(6)(b)(v) substituted (1.9.2023) by [The School Discipline (Pupil Exclusions and Reviews) (England) (Amendment and Transitional Provision) Regulations 2023 (S.I. 2023/571)](https://www.legislation.gov.uk/uksi/2023/571), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/571/regulation/1/1), [9(5)(b)(ii)](https://www.legislation.gov.uk/uksi/2023/571/regulation/9/5/b/ii) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/571/regulation/1/3), [16](https://www.legislation.gov.uk/uksi/2023/571/regulation/16)) (as amended by [S.I. 2023/882](https://www.legislation.gov.uk/uksi/2023/882), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/882/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/882/regulation/4), [8](https://www.legislation.gov.uk/uksi/2023/882/regulation/8) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2023/882/regulation/1/4))
+
+[^key-bd3d44711526cc78ff552448756f0bab]: Textual amendment: Words in reg. 15(6)(b)(vi) inserted (1.9.2023) by [The School Discipline (Pupil Exclusions and Reviews) (England) (Amendment and Transitional Provision) Regulations 2023 (S.I. 2023/571)](https://www.legislation.gov.uk/uksi/2023/571), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/571/regulation/1/1), [9(5)(c)(i)](https://www.legislation.gov.uk/uksi/2023/571/regulation/9/5/c/i) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/571/regulation/1/3), [16](https://www.legislation.gov.uk/uksi/2023/571/regulation/16)) (as amended by [S.I. 2023/882](https://www.legislation.gov.uk/uksi/2023/882), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/882/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/882/regulation/4), [8](https://www.legislation.gov.uk/uksi/2023/882/regulation/8) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2023/882/regulation/1/4))
+
+[^key-7cec5f2a126d3399335b68c1ab5600f4]: Textual amendment: Words in reg. 15(6)(b)(vi) substituted (1.9.2023) by [The School Discipline (Pupil Exclusions and Reviews) (England) (Amendment and Transitional Provision) Regulations 2023 (S.I. 2023/571)](https://www.legislation.gov.uk/uksi/2023/571), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/571/regulation/1/1), [9(5)(c)(ii)](https://www.legislation.gov.uk/uksi/2023/571/regulation/9/5/c/ii) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/571/regulation/1/3), [16](https://www.legislation.gov.uk/uksi/2023/571/regulation/16)) (as amended by [S.I. 2023/882](https://www.legislation.gov.uk/uksi/2023/882), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/882/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/882/regulation/4), [8](https://www.legislation.gov.uk/uksi/2023/882/regulation/8) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2023/882/regulation/1/4))
+
+[^key-b0219dda6d7da9b2c98ffd82ec91e607]: Textual amendment: Words in reg. 15(7) substituted (25.9.2020) by [The School Discipline (England) (Coronavirus) (Pupil Exclusions and Reviews) (Amendment) (No. 2) Regulations 2020 (S.I. 2020/908)](https://www.legislation.gov.uk/uksi/2020/908), [regs. 1](https://www.legislation.gov.uk/uksi/2020/908/regulation/1), [7(a)](https://www.legislation.gov.uk/uksi/2020/908/regulation/7/a)
+
+[^key-90444207f875ff937645ab2abbe7ac18]: Textual amendment: Words in reg. 15(7) substituted (1.9.2023) by [The School Discipline (Pupil Exclusions and Reviews) (England) (Amendment and Transitional Provision) Regulations 2023 (S.I. 2023/571)](https://www.legislation.gov.uk/uksi/2023/571), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/571/regulation/1/1), [9(6)](https://www.legislation.gov.uk/uksi/2023/571/regulation/9/6) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/571/regulation/1/3), [16](https://www.legislation.gov.uk/uksi/2023/571/regulation/16)) (as amended by [S.I. 2023/882](https://www.legislation.gov.uk/uksi/2023/882), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/882/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/882/regulation/4), [8](https://www.legislation.gov.uk/uksi/2023/882/regulation/8) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2023/882/regulation/1/4))
+
+[^key-e227247d3bbb441f01aa5c4d3ee40fe3]: Textual amendment: Reg. 15(7A)-(7D) omitted (1.9.2023) by virtue of [The School Discipline (Pupil Exclusions and Reviews) (England) (Amendment and Transitional Provision) Regulations 2023 (S.I. 2023/571)](https://www.legislation.gov.uk/uksi/2023/571), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/571/regulation/1/1), [9(7)](https://www.legislation.gov.uk/uksi/2023/571/regulation/9/7) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/571/regulation/1/3), [16](https://www.legislation.gov.uk/uksi/2023/571/regulation/16)) (as amended by [S.I. 2023/882](https://www.legislation.gov.uk/uksi/2023/882), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/882/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/882/regulation/4), [8](https://www.legislation.gov.uk/uksi/2023/882/regulation/8) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2023/882/regulation/1/4))
+
+[^key-edab77f3212d4dfec34b2c7d1bb89b5f]: Textual amendment: Reg. 15(7E)(7F) inserted (1.9.2023) by [The School Discipline (Pupil Exclusions and Reviews) (England) (Amendment and Transitional Provision) Regulations 2023 (S.I. 2023/571)](https://www.legislation.gov.uk/uksi/2023/571), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/571/regulation/1/1), [9(8)](https://www.legislation.gov.uk/uksi/2023/571/regulation/9/8) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/571/regulation/1/3), [16](https://www.legislation.gov.uk/uksi/2023/571/regulation/16)) (as amended by [S.I. 2023/882](https://www.legislation.gov.uk/uksi/2023/882), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/882/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/882/regulation/4), [8](https://www.legislation.gov.uk/uksi/2023/882/regulation/8) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2023/882/regulation/1/4))
+
+[^key-4c15bcd82b4fe02199d7c0996d42b1a9]: Textual amendment: Words in [reg. 16(6)](https://www.legislation.gov.uk/uksi/2012/1033/regulation/16/6) substituted (1.9.2022) by [The School Discipline (Pupil Exclusions and Reviews) (England) (Amendment) Regulations 2022 (S.I. 2022/788)](https://www.legislation.gov.uk/uksi/2022/788), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/788/regulation/1/2), [12(2)](https://www.legislation.gov.uk/uksi/2022/788/regulation/12/2) (with [reg. 3(2)](https://www.legislation.gov.uk/uksi/2022/788/regulation/3/2))
+
+[^key-119a3b8d1dac6f17c63ffbac52666c6c]: Textual amendment: Words in [reg. 17(2)](https://www.legislation.gov.uk/uksi/2012/1033/regulation/17/2) substituted (1.9.2022) by [The School Discipline (Pupil Exclusions and Reviews) (England) (Amendment) Regulations 2022 (S.I. 2022/788)](https://www.legislation.gov.uk/uksi/2022/788), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/788/regulation/1/2), [13(2)(a)](https://www.legislation.gov.uk/uksi/2022/788/regulation/13/2/a) (with [reg. 3(2)](https://www.legislation.gov.uk/uksi/2022/788/regulation/3/2))
+
+[^key-bd5512415192d3c2db1fb04bb32d5a2c]: Textual amendment: Words in [reg. 17(2)](https://www.legislation.gov.uk/uksi/2012/1033/regulation/17/2) inserted (1.9.2022) by [The School Discipline (Pupil Exclusions and Reviews) (England) (Amendment) Regulations 2022 (S.I. 2022/788)](https://www.legislation.gov.uk/uksi/2022/788), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/788/regulation/1/2), [13(2)(b)](https://www.legislation.gov.uk/uksi/2022/788/regulation/13/2/b) (with [reg. 3(2)](https://www.legislation.gov.uk/uksi/2022/788/regulation/3/2))
+
+[^key-53f0c5d77ed255a23b7fea7def3cad0e]: Textual amendment: Reg. 17A inserted (1.9.2023) by [The School Discipline (Pupil Exclusions and Reviews) (England) (Amendment and Transitional Provision) Regulations 2023 (S.I. 2023/571)](https://www.legislation.gov.uk/uksi/2023/571), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/571/regulation/1/1), [10](https://www.legislation.gov.uk/uksi/2023/571/regulation/10) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/571/regulation/1/3), [16](https://www.legislation.gov.uk/uksi/2023/571/regulation/16)) (as amended by [S.I. 2023/882](https://www.legislation.gov.uk/uksi/2023/882), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/882/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/882/regulation/4), [8](https://www.legislation.gov.uk/uksi/2023/882/regulation/8) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2023/882/regulation/1/4))
+
+[^key-3ce2c9762677695f12c4912b0cfe237b]: Textual amendment: [Reg. 18(aa)](https://www.legislation.gov.uk/uksi/2012/1033/regulation/18/aa)[(ab)](https://www.legislation.gov.uk/uksi/2012/1033/regulation/18/ab) inserted (1.9.2022) by [The School Discipline (Pupil Exclusions and Reviews) (England) (Amendment) Regulations 2022 (S.I. 2022/788)](https://www.legislation.gov.uk/uksi/2022/788), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/788/regulation/1/2), [14(2)](https://www.legislation.gov.uk/uksi/2022/788/regulation/14/2) (with [reg. 3(2)](https://www.legislation.gov.uk/uksi/2022/788/regulation/3/2))
+
+[^key-11d06fc32d61fd9570a6e6cd7984a384]: Textual amendment: Words in [reg. 23](https://www.legislation.gov.uk/uksi/2012/1033/regulation/23) heading substituted (1.9.2022) by [The School Discipline (Pupil Exclusions and Reviews) (England) (Amendment) Regulations 2022 (S.I. 2022/788)](https://www.legislation.gov.uk/uksi/2022/788), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/788/regulation/1/2), [15(2)](https://www.legislation.gov.uk/uksi/2022/788/regulation/15/2) (with [reg. 3(2)](https://www.legislation.gov.uk/uksi/2022/788/regulation/3/2))
+
+[^key-42c19e2c184a88984a0e11ba9ee1fc98]: Textual amendment: Words in [reg. 23(1)(a)](https://www.legislation.gov.uk/uksi/2012/1033/regulation/23/1/a) inserted (1.9.2022) by [The School Discipline (Pupil Exclusions and Reviews) (England) (Amendment) Regulations 2022 (S.I. 2022/788)](https://www.legislation.gov.uk/uksi/2022/788), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/788/regulation/1/2), [15(3)](https://www.legislation.gov.uk/uksi/2022/788/regulation/15/3) (with [reg. 3(2)](https://www.legislation.gov.uk/uksi/2022/788/regulation/3/2))
+
+[^key-ab5e9aed7812936fa35a75030c999d40]: Textual amendment: Words in [reg. 23(3)(a)](https://www.legislation.gov.uk/uksi/2012/1033/regulation/23/3/a) substituted (1.9.2022) by [The School Discipline (Pupil Exclusions and Reviews) (England) (Amendment) Regulations 2022 (S.I. 2022/788)](https://www.legislation.gov.uk/uksi/2022/788), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/788/regulation/1/2), [15(4)(a)](https://www.legislation.gov.uk/uksi/2022/788/regulation/15/4/a) (with [reg. 3(2)](https://www.legislation.gov.uk/uksi/2022/788/regulation/3/2))
+
+[^key-b04b74a6ee635e03650d20fa0dd9b614]: Textual amendment: Words in [reg. 23(3)(a)](https://www.legislation.gov.uk/uksi/2012/1033/regulation/23/3/a) inserted (1.9.2022) by [The School Discipline (Pupil Exclusions and Reviews) (England) (Amendment) Regulations 2022 (S.I. 2022/788)](https://www.legislation.gov.uk/uksi/2022/788), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/788/regulation/1/2), [15(4)(b)](https://www.legislation.gov.uk/uksi/2022/788/regulation/15/4/b) (with [reg. 3(2)](https://www.legislation.gov.uk/uksi/2022/788/regulation/3/2))
+
+[^key-7f302d591a6b34dc18b5f211b05339be]: Textual amendment: Reg. 23(3)(b)(iia) inserted (1.9.2023) by [The School Discipline (Pupil Exclusions and Reviews) (England) (Amendment and Transitional Provision) Regulations 2023 (S.I. 2023/571)](https://www.legislation.gov.uk/uksi/2023/571), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/571/regulation/1/1), [11(2)](https://www.legislation.gov.uk/uksi/2023/571/regulation/11/2) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/571/regulation/1/3), [16](https://www.legislation.gov.uk/uksi/2023/571/regulation/16)) (as amended by [S.I. 2023/882](https://www.legislation.gov.uk/uksi/2023/882), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/882/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/882/regulation/4), [8](https://www.legislation.gov.uk/uksi/2023/882/regulation/8) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2023/882/regulation/1/4))
+
+[^key-992e56de4c101acf500cb80ae6e54527]: Textual amendment: Words in reg. 23(3)(b)(iii) inserted (1.9.2023) by [The School Discipline (Pupil Exclusions and Reviews) (England) (Amendment and Transitional Provision) Regulations 2023 (S.I. 2023/571)](https://www.legislation.gov.uk/uksi/2023/571), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/571/regulation/1/1), [11(3)](https://www.legislation.gov.uk/uksi/2023/571/regulation/11/3) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/571/regulation/1/3), [16](https://www.legislation.gov.uk/uksi/2023/571/regulation/16)) (as amended by [S.I. 2023/882](https://www.legislation.gov.uk/uksi/2023/882), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/882/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/882/regulation/4), [8](https://www.legislation.gov.uk/uksi/2023/882/regulation/8) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2023/882/regulation/1/4))
+
+[^key-41ae3749b6088140ef25b55800eb852d]: Textual amendment: Words in reg. 23(3)(b)(iv) inserted (1.9.2023) by [The School Discipline (Pupil Exclusions and Reviews) (England) (Amendment and Transitional Provision) Regulations 2023 (S.I. 2023/571)](https://www.legislation.gov.uk/uksi/2023/571), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/571/regulation/1/1), [11(3)](https://www.legislation.gov.uk/uksi/2023/571/regulation/11/3) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/571/regulation/1/3), [16](https://www.legislation.gov.uk/uksi/2023/571/regulation/16)) (as amended by [S.I. 2023/882](https://www.legislation.gov.uk/uksi/2023/882), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/882/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/882/regulation/4), [8](https://www.legislation.gov.uk/uksi/2023/882/regulation/8) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2023/882/regulation/1/4))
+
+[^key-1c5ae8c5957e16bd0c65ad828f81a18a]: Textual amendment: Words in [reg. 23(5)](https://www.legislation.gov.uk/uksi/2012/1033/regulation/23/5) omitted (1.9.2022) by virtue of [The School Discipline (Pupil Exclusions and Reviews) (England) (Amendment) Regulations 2022 (S.I. 2022/788)](https://www.legislation.gov.uk/uksi/2022/788), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/788/regulation/1/2), [15(5)](https://www.legislation.gov.uk/uksi/2022/788/regulation/15/5) (with [reg. 3(2)](https://www.legislation.gov.uk/uksi/2022/788/regulation/3/2))
+
+[^key-4d03f94e2a7788a8f95d147de49c994c]: Textual amendment: Words in [reg. 24(3)(b)](https://www.legislation.gov.uk/uksi/2012/1033/regulation/24/3/b) substituted (1.9.2022) by [The School Discipline (Pupil Exclusions and Reviews) (England) (Amendment) Regulations 2022 (S.I. 2022/788)](https://www.legislation.gov.uk/uksi/2022/788), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/788/regulation/1/2), [16(2)(a)](https://www.legislation.gov.uk/uksi/2022/788/regulation/16/2/a) (with [reg. 3(2)](https://www.legislation.gov.uk/uksi/2022/788/regulation/3/2))
+
+[^key-2c0d2ce8f9ed990ab3f611390cb2e8f0]: Textual amendment: [Reg. 24(3)(c)](https://www.legislation.gov.uk/uksi/2012/1033/regulation/24/3/c)[(ia)](https://www.legislation.gov.uk/uksi/2012/1033/regulation/24/3/ia)[(ib)](https://www.legislation.gov.uk/uksi/2012/1033/regulation/24/3/ib) inserted (1.9.2022) by [The School Discipline (Pupil Exclusions and Reviews) (England) (Amendment) Regulations 2022 (S.I. 2022/788)](https://www.legislation.gov.uk/uksi/2022/788), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/788/regulation/1/2), [16(2)(b)](https://www.legislation.gov.uk/uksi/2022/788/regulation/16/2/b) (with [reg. 3(2)](https://www.legislation.gov.uk/uksi/2022/788/regulation/3/2))
+
+[^key-4f62e450b7827bfeb473f5dc048ed4f0]: Textual amendment: Words in [reg. 24(3)(d)](https://www.legislation.gov.uk/uksi/2012/1033/regulation/24/3/d) inserted (1.9.2022) by [The School Discipline (Pupil Exclusions and Reviews) (England) (Amendment) Regulations 2022 (S.I. 2022/788)](https://www.legislation.gov.uk/uksi/2022/788), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/788/regulation/1/2), [16(2)(c)](https://www.legislation.gov.uk/uksi/2022/788/regulation/16/2/c) (with [reg. 3(2)](https://www.legislation.gov.uk/uksi/2022/788/regulation/3/2))
+
+[^key-572ece6d38ff2bb7bf915073992859dd]: Textual amendment: Reg. 24(3A) substituted (1.9.2023) by [The School Discipline (Pupil Exclusions and Reviews) (England) (Amendment and Transitional Provision) Regulations 2023 (S.I. 2023/571)](https://www.legislation.gov.uk/uksi/2023/571), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/571/regulation/1/1), [12(2)](https://www.legislation.gov.uk/uksi/2023/571/regulation/12/2) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/571/regulation/1/3), [16](https://www.legislation.gov.uk/uksi/2023/571/regulation/16)) (as amended by [S.I. 2023/882](https://www.legislation.gov.uk/uksi/2023/882), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/882/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/882/regulation/4), [8](https://www.legislation.gov.uk/uksi/2023/882/regulation/8) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2023/882/regulation/1/4))
+
+[^key-03dcd10cf0ecdba3114929f9e06d32c8]: Textual amendment: Reg. 24(3A)(3B) inserted (1.6.2020) by [The School Discipline (England) (Coronavirus) (Pupil Exclusions and Reviews) (Amendment) Regulations 2020 (S.I. 2020/543)](https://www.legislation.gov.uk/uksi/2020/543), [regs. 1](https://www.legislation.gov.uk/uksi/2020/543/regulation/1), [7(a)](https://www.legislation.gov.uk/uksi/2020/543/regulation/7/a)
+
+[^key-fcc28e116369676fbebcc5cbe219af01]: Textual amendment: Word in reg. 24(3B) substituted (1.9.2023) by [The School Discipline (Pupil Exclusions and Reviews) (England) (Amendment and Transitional Provision) Regulations 2023 (S.I. 2023/571)](https://www.legislation.gov.uk/uksi/2023/571), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/571/regulation/1/1), [12(3)(a)](https://www.legislation.gov.uk/uksi/2023/571/regulation/12/3/a) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/571/regulation/1/3), [16](https://www.legislation.gov.uk/uksi/2023/571/regulation/16)) (as amended by [S.I. 2023/882](https://www.legislation.gov.uk/uksi/2023/882), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/882/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/882/regulation/4), [8](https://www.legislation.gov.uk/uksi/2023/882/regulation/8) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2023/882/regulation/1/4))
+
+[^key-ff5d11b8ec0e6204ea5c5bbc06960961]: Textual amendment: Reg. 24(3B)(b) omitted (1.9.2023) by virtue of [The School Discipline (Pupil Exclusions and Reviews) (England) (Amendment and Transitional Provision) Regulations 2023 (S.I. 2023/571)](https://www.legislation.gov.uk/uksi/2023/571), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/571/regulation/1/1), [12(3)(b)](https://www.legislation.gov.uk/uksi/2023/571/regulation/12/3/b) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/571/regulation/1/3), [16](https://www.legislation.gov.uk/uksi/2023/571/regulation/16)) (as amended by [S.I. 2023/882](https://www.legislation.gov.uk/uksi/2023/882), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/882/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/882/regulation/4), [8](https://www.legislation.gov.uk/uksi/2023/882/regulation/8) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2023/882/regulation/1/4))
+
+[^key-330c52adc25971a93ab23819f6fad205]: Textual amendment: [Reg. 24(3C)](https://www.legislation.gov.uk/uksi/2012/1033/regulation/24/3C) inserted (1.9.2022) by [The School Discipline (Pupil Exclusions and Reviews) (England) (Amendment) Regulations 2022 (S.I. 2022/788)](https://www.legislation.gov.uk/uksi/2022/788), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/788/regulation/1/2), [16(3)](https://www.legislation.gov.uk/uksi/2022/788/regulation/16/3) (with [reg. 3(2)](https://www.legislation.gov.uk/uksi/2022/788/regulation/3/2))
+
+[^key-4849c4f591e5237362ffbd1dcf2be503]: Textual amendment: Words in [reg. 24(4)(b)](https://www.legislation.gov.uk/uksi/2012/1033/regulation/24/4/b) substituted (1.9.2022) by [The School Discipline (Pupil Exclusions and Reviews) (England) (Amendment) Regulations 2022 (S.I. 2022/788)](https://www.legislation.gov.uk/uksi/2022/788), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/788/regulation/1/2), [16(4)(a)](https://www.legislation.gov.uk/uksi/2022/788/regulation/16/4/a) (with [reg. 3(2)](https://www.legislation.gov.uk/uksi/2022/788/regulation/3/2))
+
+[^key-206052db421d7bce502fa942bb161883]: Textual amendment: Words in [reg. 24(4)(b)](https://www.legislation.gov.uk/uksi/2012/1033/regulation/24/4/b) inserted (1.9.2022) by [The School Discipline (Pupil Exclusions and Reviews) (England) (Amendment) Regulations 2022 (S.I. 2022/788)](https://www.legislation.gov.uk/uksi/2022/788), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/788/regulation/1/2), [16(4)(b)](https://www.legislation.gov.uk/uksi/2022/788/regulation/16/4/b) (with [reg. 3(2)](https://www.legislation.gov.uk/uksi/2022/788/regulation/3/2))
+
+[^key-2d31ce1a19e531fc45b1562a0d51b127]: Textual amendment: Reg. 24(3D)-(3G) inserted (1.9.2023) by [The School Discipline (Pupil Exclusions and Reviews) (England) (Amendment and Transitional Provision) Regulations 2023 (S.I. 2023/571)](https://www.legislation.gov.uk/uksi/2023/571), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/571/regulation/1/1), [12(4)](https://www.legislation.gov.uk/uksi/2023/571/regulation/12/4) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/571/regulation/1/3), [16](https://www.legislation.gov.uk/uksi/2023/571/regulation/16)) (as amended by [S.I. 2023/882](https://www.legislation.gov.uk/uksi/2023/882), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/882/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/882/regulation/4), [6](https://www.legislation.gov.uk/uksi/2023/882/regulation/6), [8](https://www.legislation.gov.uk/uksi/2023/882/regulation/8) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2023/882/regulation/1/4))
+
+[^key-3633aba81c0468487e6a18a23a3b03f9]: Textual amendment: Words in [reg. 24(6)(a)](https://www.legislation.gov.uk/uksi/2012/1033/regulation/24/6/a) substituted (1.9.2022) by [The School Discipline (Pupil Exclusions and Reviews) (England) (Amendment) Regulations 2022 (S.I. 2022/788)](https://www.legislation.gov.uk/uksi/2022/788), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/788/regulation/1/2), [16(4)(a)](https://www.legislation.gov.uk/uksi/2022/788/regulation/16/4/a) (with [reg. 3(2)](https://www.legislation.gov.uk/uksi/2022/788/regulation/3/2))
+
+[^key-f25cd88a97e76fa12beff0059a35a97f]: Textual amendment: Words in [reg. 24(6)(a)](https://www.legislation.gov.uk/uksi/2012/1033/regulation/24/6/a) inserted (1.9.2022) by [The School Discipline (Pupil Exclusions and Reviews) (England) (Amendment) Regulations 2022 (S.I. 2022/788)](https://www.legislation.gov.uk/uksi/2022/788), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/788/regulation/1/2), [16(4)(b)](https://www.legislation.gov.uk/uksi/2022/788/regulation/16/4/b) (with [reg. 3(2)](https://www.legislation.gov.uk/uksi/2022/788/regulation/3/2))
+
+[^key-fd4f648c79188c7ee97089a53990d88d]: Textual amendment: Reg. 24(6)(b)(iva) inserted (1.9.2023) by [The School Discipline (Pupil Exclusions and Reviews) (England) (Amendment and Transitional Provision) Regulations 2023 (S.I. 2023/571)](https://www.legislation.gov.uk/uksi/2023/571), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/571/regulation/1/1), [12(5)(a)](https://www.legislation.gov.uk/uksi/2023/571/regulation/12/5/a) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/571/regulation/1/3), [16](https://www.legislation.gov.uk/uksi/2023/571/regulation/16)) (as amended by [S.I. 2023/882](https://www.legislation.gov.uk/uksi/2023/882), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/882/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/882/regulation/4), [8](https://www.legislation.gov.uk/uksi/2023/882/regulation/8) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2023/882/regulation/1/4))
+
+[^key-761d9804fce2ce337535edf1337b5b0b]: Textual amendment: Words in reg. 24(6)(b)(v) inserted (1.9.2023) by [The School Discipline (Pupil Exclusions and Reviews) (England) (Amendment and Transitional Provision) Regulations 2023 (S.I. 2023/571)](https://www.legislation.gov.uk/uksi/2023/571), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/571/regulation/1/1), [12(5)(b)(i)](https://www.legislation.gov.uk/uksi/2023/571/regulation/12/5/b/i) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/571/regulation/1/3), [16](https://www.legislation.gov.uk/uksi/2023/571/regulation/16)) (as amended by [S.I. 2023/882](https://www.legislation.gov.uk/uksi/2023/882), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/882/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/882/regulation/4), [8](https://www.legislation.gov.uk/uksi/2023/882/regulation/8) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2023/882/regulation/1/4))
+
+[^key-3cfe03e4941017ba168511291f621762]: Textual amendment: Words in reg. 24(6)(b)(v) substituted (1.9.2023) by [The School Discipline (Pupil Exclusions and Reviews) (England) (Amendment and Transitional Provision) Regulations 2023 (S.I. 2023/571)](https://www.legislation.gov.uk/uksi/2023/571), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/571/regulation/1/1), [12(5)(b)(ii)](https://www.legislation.gov.uk/uksi/2023/571/regulation/12/5/b/ii) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/571/regulation/1/3), [16](https://www.legislation.gov.uk/uksi/2023/571/regulation/16)) (as amended by [S.I. 2023/882](https://www.legislation.gov.uk/uksi/2023/882), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/882/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/882/regulation/4), [8](https://www.legislation.gov.uk/uksi/2023/882/regulation/8) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2023/882/regulation/1/4))
+
+[^key-498de9d55b3eeb6efe960e02ad9187d4]: Textual amendment: Words in reg. 24(6)(b)(vi) inserted (1.9.2023) by [The School Discipline (Pupil Exclusions and Reviews) (England) (Amendment and Transitional Provision) Regulations 2023 (S.I. 2023/571)](https://www.legislation.gov.uk/uksi/2023/571), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/571/regulation/1/1), [12(5)(c)(i)](https://www.legislation.gov.uk/uksi/2023/571/regulation/12/5/c/i) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/571/regulation/1/3), [16](https://www.legislation.gov.uk/uksi/2023/571/regulation/16)) (as amended by [S.I. 2023/882](https://www.legislation.gov.uk/uksi/2023/882), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/882/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/882/regulation/4), [8](https://www.legislation.gov.uk/uksi/2023/882/regulation/8) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2023/882/regulation/1/4))
+
+[^key-38e1bd4b6117f7ff2a04d99d57c37554]: Textual amendment: Words in reg. 24(6)(b)(vi) substituted (1.9.2023) by [The School Discipline (Pupil Exclusions and Reviews) (England) (Amendment and Transitional Provision) Regulations 2023 (S.I. 2023/571)](https://www.legislation.gov.uk/uksi/2023/571), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/571/regulation/1/1), [12(5)(c)(ii)](https://www.legislation.gov.uk/uksi/2023/571/regulation/12/5/c/ii) (as amended by [S.I. 2023/882](https://www.legislation.gov.uk/uksi/2023/882), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/882/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/882/regulation/4), [8](https://www.legislation.gov.uk/uksi/2023/882/regulation/8) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2023/882/regulation/1/4))
+
+[^key-76e7d0da572164b759035a7e1e2adb57]: Textual amendment: Words in reg. 24(7) substituted (25.9.2020) by [The School Discipline (England) (Coronavirus) (Pupil Exclusions and Reviews) (Amendment) (No. 2) Regulations 2020 (S.I. 2020/908)](https://www.legislation.gov.uk/uksi/2020/908), [regs. 1](https://www.legislation.gov.uk/uksi/2020/908/regulation/1), [8(a)](https://www.legislation.gov.uk/uksi/2020/908/regulation/8/a)
+
+[^key-25a79fdb11c7f0b27d272977850a9648]: Textual amendment: Words in reg. 24(7) substituted (1.9.2023) by [The School Discipline (Pupil Exclusions and Reviews) (England) (Amendment and Transitional Provision) Regulations 2023 (S.I. 2023/571)](https://www.legislation.gov.uk/uksi/2023/571), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/571/regulation/1/1), [12(6)](https://www.legislation.gov.uk/uksi/2023/571/regulation/12/6) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/571/regulation/1/3), [16](https://www.legislation.gov.uk/uksi/2023/571/regulation/16))(as amended by [S.I. 2023/882](https://www.legislation.gov.uk/uksi/2023/882), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/882/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/882/regulation/4), [8](https://www.legislation.gov.uk/uksi/2023/882/regulation/8) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2023/882/regulation/1/4))
+
+[^key-e7d10c99b3fdf69e3c13604676ba2467]: Textual amendment: Reg. 24(7A)-(7D) omitted (1.9.2023) by virtue of [The School Discipline (Pupil Exclusions and Reviews) (England) (Amendment and Transitional Provision) Regulations 2023 (S.I. 2023/571)](https://www.legislation.gov.uk/uksi/2023/571), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/571/regulation/1/1), [12(7)](https://www.legislation.gov.uk/uksi/2023/571/regulation/12/7) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/571/regulation/1/3), [16](https://www.legislation.gov.uk/uksi/2023/571/regulation/16)) (as amended by [S.I. 2023/882](https://www.legislation.gov.uk/uksi/2023/882), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/882/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/882/regulation/4), [8](https://www.legislation.gov.uk/uksi/2023/882/regulation/8) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2023/882/regulation/1/4))
+
+[^key-20648bb741135be8bf11326512b8f95a]: Textual amendment: Reg. 24(7E)(7F) inserted (1.9.2023) by [The School Discipline (Pupil Exclusions and Reviews) (England) (Amendment and Transitional Provision) Regulations 2023 (S.I. 2023/571)](https://www.legislation.gov.uk/uksi/2023/571), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/571/regulation/1/1), [12(8)](https://www.legislation.gov.uk/uksi/2023/571/regulation/12/8) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/571/regulation/1/3), [16](https://www.legislation.gov.uk/uksi/2023/571/regulation/16)) (as amended by [S.I. 2023/882](https://www.legislation.gov.uk/uksi/2023/882), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/882/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/882/regulation/4), [8](https://www.legislation.gov.uk/uksi/2023/882/regulation/8) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2023/882/regulation/1/4))
+
+[^key-69c0dc983d9702dc0b57ed2aac56ccb8]: Textual amendment: Words in [reg. 25(6)](https://www.legislation.gov.uk/uksi/2012/1033/regulation/25/6) substituted (1.9.2022) by [The School Discipline (Pupil Exclusions and Reviews) (England) (Amendment) Regulations 2022 (S.I. 2022/788)](https://www.legislation.gov.uk/uksi/2022/788), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/788/regulation/1/2), [17(2)](https://www.legislation.gov.uk/uksi/2022/788/regulation/17/2) (with [reg. 3(2)](https://www.legislation.gov.uk/uksi/2022/788/regulation/3/2))
+
+[^key-af601d2bf142380871eb23a9a86ff5d5]: Textual amendment: Words in [reg. 26(2)](https://www.legislation.gov.uk/uksi/2012/1033/regulation/26/2) substituted (1.9.2022) by [The School Discipline (Pupil Exclusions and Reviews) (England) (Amendment) Regulations 2022 (S.I. 2022/788)](https://www.legislation.gov.uk/uksi/2022/788), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/788/regulation/1/2), [18(2)(a)](https://www.legislation.gov.uk/uksi/2022/788/regulation/18/2/a) (with [reg. 3(2)](https://www.legislation.gov.uk/uksi/2022/788/regulation/3/2))
+
+[^key-1a261067ff7d47846af1c66a08c22a47]: Textual amendment: Words in [reg. 26(2)](https://www.legislation.gov.uk/uksi/2012/1033/regulation/26/2) inserted (1.9.2022) by [The School Discipline (Pupil Exclusions and Reviews) (England) (Amendment) Regulations 2022 (S.I. 2022/788)](https://www.legislation.gov.uk/uksi/2022/788), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/788/regulation/1/2), [18(2)(b)](https://www.legislation.gov.uk/uksi/2022/788/regulation/18/2/b) (with [reg. 3(2)](https://www.legislation.gov.uk/uksi/2022/788/regulation/3/2))
+
+[^key-d282f5df29d4b17b05f47977ce8815e4]: Textual amendment: Reg. 26A inserted (1.9.2023) by [The School Discipline (Pupil Exclusions and Reviews) (England) (Amendment and Transitional Provision) Regulations 2023 (S.I. 2023/571)](https://www.legislation.gov.uk/uksi/2023/571), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/571/regulation/1/1), [13](https://www.legislation.gov.uk/uksi/2023/571/regulation/13) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/571/regulation/1/3), [16](https://www.legislation.gov.uk/uksi/2023/571/regulation/16)) (as amended by [S.I. 2023/882](https://www.legislation.gov.uk/uksi/2023/882), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/882/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/882/regulation/4), [8](https://www.legislation.gov.uk/uksi/2023/882/regulation/8) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2023/882/regulation/1/4))
+
+[^key-7414dd3e10366858fd881c65e59e23c2]: Textual amendment: [Reg. 27(aa)](https://www.legislation.gov.uk/uksi/2012/1033/regulation/27/aa)[(ab)](https://www.legislation.gov.uk/uksi/2012/1033/regulation/27/ab) inserted (1.9.2022) by [The School Discipline (Pupil Exclusions and Reviews) (England) (Amendment) Regulations 2022 (S.I. 2022/788)](https://www.legislation.gov.uk/uksi/2022/788), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/788/regulation/1/2), [19(2)](https://www.legislation.gov.uk/uksi/2022/788/regulation/19/2) (with [reg. 3(2)](https://www.legislation.gov.uk/uksi/2022/788/regulation/3/2))
+
+[^c21238201]: Marginal citation: See section 579(1) of the 1996 Act.
+
+[^key-e2c4e9173e7c34bfb0cd645263faf7f3]: Textual amendment: Sch. 1 para. 2(1A) omitted (1.9.2023) by virtue of [The School Discipline (Pupil Exclusions and Reviews) (England) (Amendment and Transitional Provision) Regulations 2023 (S.I. 2023/571)](https://www.legislation.gov.uk/uksi/2023/571), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/571/regulation/1/1), [14(2)](https://www.legislation.gov.uk/uksi/2023/571/regulation/14/2) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/571/regulation/1/3), [16](https://www.legislation.gov.uk/uksi/2023/571/regulation/16)) (as amended by [S.I. 2023/882](https://www.legislation.gov.uk/uksi/2023/882), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/882/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/882/regulation/4), [8](https://www.legislation.gov.uk/uksi/2023/882/regulation/8) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2023/882/regulation/1/4))
+
+[^c21238211]: Marginal citation: [1998 c.42](https://www.legislation.gov.uk/ukpga/1998/42).
+
+[^c21238221]: Marginal citation: [1972 c.70](https://www.legislation.gov.uk/ukpga/1972/70).
+
+[^key-632d2138d2bcb365e09d1e7c073db848]: Textual amendment: Word in Sch. 1 para. 9 omitted (1.9.2023) by virtue of [The School Discipline (Pupil Exclusions and Reviews) (England) (Amendment and Transitional Provision) Regulations 2023 (S.I. 2023/571)](https://www.legislation.gov.uk/uksi/2023/571), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/571/regulation/1/1), [14(3)(a)](https://www.legislation.gov.uk/uksi/2023/571/regulation/14/3/a) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/571/regulation/1/3), [16](https://www.legislation.gov.uk/uksi/2023/571/regulation/16)) (as amended by [S.I. 2023/882](https://www.legislation.gov.uk/uksi/2023/882), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/882/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/882/regulation/4), [8](https://www.legislation.gov.uk/uksi/2023/882/regulation/8) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2023/882/regulation/1/4))
+
+[^key-827c596a5e0de613fb80eecfca9f3f48]: Textual amendment: Sch. 1 para. 9(c) and word inserted (1.9.2023) by [The School Discipline (Pupil Exclusions and Reviews) (England) (Amendment and Transitional Provision) Regulations 2023 (S.I. 2023/571)](https://www.legislation.gov.uk/uksi/2023/571), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/571/regulation/1/1), [14(3)(b)](https://www.legislation.gov.uk/uksi/2023/571/regulation/14/3/b) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/571/regulation/1/3), [16](https://www.legislation.gov.uk/uksi/2023/571/regulation/16)) (as amended by [S.I. 2023/882](https://www.legislation.gov.uk/uksi/2023/882), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/882/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/882/regulation/4), [8](https://www.legislation.gov.uk/uksi/2023/882/regulation/8) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2023/882/regulation/1/4))
+
+[^key-aed5379e072f990eb55894e0d43bbca5]: Textual amendment: Sch. 1 para. 10(3) substituted (1.9.2023) by [The School Discipline (Pupil Exclusions and Reviews) (England) (Amendment and Transitional Provision) Regulations 2023 (S.I. 2023/571)](https://www.legislation.gov.uk/uksi/2023/571), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/571/regulation/1/1), [14(4)(a)](https://www.legislation.gov.uk/uksi/2023/571/regulation/14/4/a) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/571/regulation/1/3), [16](https://www.legislation.gov.uk/uksi/2023/571/regulation/16)) (as amended by [S.I. 2023/882](https://www.legislation.gov.uk/uksi/2023/882), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/882/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/882/regulation/4), [8](https://www.legislation.gov.uk/uksi/2023/882/regulation/8) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2023/882/regulation/1/4))
+
+[^key-06a20b95dccbc32e4a41eca3570a1802]: Textual amendment: Word in Sch. 1 para. 10(4) substituted (1.9.2023) by [The School Discipline (Pupil Exclusions and Reviews) (England) (Amendment and Transitional Provision) Regulations 2023 (S.I. 2023/571)](https://www.legislation.gov.uk/uksi/2023/571), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/571/regulation/1/1), [14(4)(b)(i)](https://www.legislation.gov.uk/uksi/2023/571/regulation/14/4/b/i) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/571/regulation/1/3), [16](https://www.legislation.gov.uk/uksi/2023/571/regulation/16)) (as amended by [S.I. 2023/882](https://www.legislation.gov.uk/uksi/2023/882), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/882/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/882/regulation/4), [8](https://www.legislation.gov.uk/uksi/2023/882/regulation/8) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2023/882/regulation/1/4))
+
+[^key-edaa0f59328966f5fe16881e2f8d431a]: Textual amendment: Sch. 1 para. 10(4)(b) omitted (1.9.2023) by virtue of [The School Discipline (Pupil Exclusions and Reviews) (England) (Amendment and Transitional Provision) Regulations 2023 (S.I. 2023/571)](https://www.legislation.gov.uk/uksi/2023/571), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/571/regulation/1/1), [14(4)(b)(ii)](https://www.legislation.gov.uk/uksi/2023/571/regulation/14/4/b/ii) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/571/regulation/1/3), [16](https://www.legislation.gov.uk/uksi/2023/571/regulation/16)) (as amended by [S.I. 2023/882](https://www.legislation.gov.uk/uksi/2023/882), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/882/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/882/regulation/4), [8](https://www.legislation.gov.uk/uksi/2023/882/regulation/8) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2023/882/regulation/1/4))
+
+[^key-f6ee560cb079de9f39895099b7340eea]: Textual amendment: Sch. 1 para. 10(4A)-(4E) inserted (1.9.2023) by [The School Discipline (Pupil Exclusions and Reviews) (England) (Amendment and Transitional Provision) Regulations 2023 (S.I. 2023/571)](https://www.legislation.gov.uk/uksi/2023/571), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/571/regulation/1/1), [14(4)(c)](https://www.legislation.gov.uk/uksi/2023/571/regulation/14/4/c) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/571/regulation/1/3), [16](https://www.legislation.gov.uk/uksi/2023/571/regulation/16)) (as amended by [S.I. 2023/882](https://www.legislation.gov.uk/uksi/2023/882), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/882/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/882/regulation/4), [7](https://www.legislation.gov.uk/uksi/2023/882/regulation/7), [8](https://www.legislation.gov.uk/uksi/2023/882/regulation/8) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2023/882/regulation/1/4))
+
+[^key-3be05e0ece12838ff6810e1a5cc12e4b]: Textual amendment: Sch. 1 para. 10(5)-(8) omitted (1.9.2023) by virtue of [The School Discipline (Pupil Exclusions and Reviews) (England) (Amendment and Transitional Provision) Regulations 2023 (S.I. 2023/571)](https://www.legislation.gov.uk/uksi/2023/571), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/571/regulation/1/1), [14(4)(d)](https://www.legislation.gov.uk/uksi/2023/571/regulation/14/4/d) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/571/regulation/1/3), [16](https://www.legislation.gov.uk/uksi/2023/571/regulation/16)) (as amended by [S.I. 2023/882](https://www.legislation.gov.uk/uksi/2023/882), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/882/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/882/regulation/4), [8](https://www.legislation.gov.uk/uksi/2023/882/regulation/8) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2023/882/regulation/1/4))
+
+[^key-84376031fc8166cf15ee29c18fcb7ef9]: Textual amendment: Word in [Sch. 1 para. 12(1)(b)](https://www.legislation.gov.uk/uksi/2012/1033/schedule/1/paragraph/12/1/b) omitted (1.9.2022) by virtue of [The School Discipline (Pupil Exclusions and Reviews) (England) (Amendment) Regulations 2022 (S.I. 2022/788)](https://www.legislation.gov.uk/uksi/2022/788), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/788/regulation/1/2), [20(2)(a)](https://www.legislation.gov.uk/uksi/2022/788/regulation/20/2/a) (with [reg. 3(2)](https://www.legislation.gov.uk/uksi/2022/788/regulation/3/2))
+
+[^key-d3b7b8dec896c0355f34790bd6dbbd31]: Textual amendment: [Sch. 1 para. 12(1)(ba)](https://www.legislation.gov.uk/uksi/2012/1033/schedule/1/paragraph/12/1/ba)[(bb)](https://www.legislation.gov.uk/uksi/2012/1033/schedule/1/paragraph/12/1/bb) inserted (1.9.2022) by [The School Discipline (Pupil Exclusions and Reviews) (England) (Amendment) Regulations 2022 (S.I. 2022/788)](https://www.legislation.gov.uk/uksi/2022/788), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/788/regulation/1/2), [20(2)(b)](https://www.legislation.gov.uk/uksi/2022/788/regulation/20/2/b) (with [reg. 3(2)](https://www.legislation.gov.uk/uksi/2022/788/regulation/3/2))
+
+[^key-555b4e885a2903e8f9f72fde09ec0263]: Textual amendment: Sch. 1 para. 12(4) inserted (1.9.2023) by [The School Discipline (Pupil Exclusions and Reviews) (England) (Amendment and Transitional Provision) Regulations 2023 (S.I. 2023/571)](https://www.legislation.gov.uk/uksi/2023/571), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/571/regulation/1/1), [14(5)](https://www.legislation.gov.uk/uksi/2023/571/regulation/14/5) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/571/regulation/1/3), [16](https://www.legislation.gov.uk/uksi/2023/571/regulation/16)) (as amended by [S.I. 2023/882](https://www.legislation.gov.uk/uksi/2023/882), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/882/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/882/regulation/4), [8](https://www.legislation.gov.uk/uksi/2023/882/regulation/8) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2023/882/regulation/1/4))
+
+[^key-4789bef10d783958e1f14ece01f8b12c]: Textual amendment: [Sch. 1 para. 19(1)(ba)](https://www.legislation.gov.uk/uksi/2012/1033/schedule/1/paragraph/19/1/ba)[(bb)](https://www.legislation.gov.uk/uksi/2012/1033/schedule/1/paragraph/19/1/bb) inserted (1.9.2022) by [The School Discipline (Pupil Exclusions and Reviews) (England) (Amendment) Regulations 2022 (S.I. 2022/788)](https://www.legislation.gov.uk/uksi/2022/788), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/788/regulation/1/2), [20(3)](https://www.legislation.gov.uk/uksi/2022/788/regulation/20/3) (with [reg. 3(2)](https://www.legislation.gov.uk/uksi/2022/788/regulation/3/2))
+
+[^c21238231]: Marginal citation: [S.I.1999/495](https://www.legislation.gov.uk/uksi/1999/495), as amended in relation to Wales by regulation 10(3) of [S.I.2003/3227](https://www.legislation.gov.uk/uksi/2003/3227) and in relation to England by regulation 2(3) of [S.I.2004/402](https://www.legislation.gov.uk/uksi/2004/402). There are other amendments but none are relevant to this instrument.
+
+[^c21238241]: Marginal citation: [S.I.2003/1021](https://www.legislation.gov.uk/uksi/2003/1021), to which there are amendments not relevant to this instrument.
+
+[^c21238251]: Marginal citation: [S.I.2003/1377](https://www.legislation.gov.uk/uksi/2003/1377), to which there are amendments not relevant to this instrument.
+
+[^key-a295d90c44f0a24c0da2aa6ad96dfbf4]: Textual amendment: [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2012/1033/schedule/2/paragraph/4) revoked (19.8.2024) by [The School Attendance (Pupil Registration) (England) Regulations 2024 (S.I. 2024/208)](https://www.legislation.gov.uk/uksi/2024/208), [reg. 1](https://www.legislation.gov.uk/uksi/2024/208/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2024/208/schedule/2)
+
+[^c21238271]: Marginal citation: [S.I.2006/2601](https://www.legislation.gov.uk/uksi/2006/2601), to which there are amendments not relevant to this instrument.
+
+[^c21238281]: Marginal citation: [S.I.2007/958](https://www.legislation.gov.uk/uksi/2007/958), to which there are amendments not relevant to this instrument.
+
+[^c21238291]: Marginal citation: [S.I.2007/1869](https://www.legislation.gov.uk/uksi/2007/1869), to which there is an amendment not relevant to this instrument.
+
+[^c21238301]: Marginal citation: [S.I.2007/1870](https://www.legislation.gov.uk/uksi/2007/1870), to which there are amendments not relevant to this instrument.
+
+[^c21238311]: Marginal citation: [S.I.2012/335](https://www.legislation.gov.uk/uksi/2012/335).
+
+[^c21238321]: Marginal citation: [S.I.2002/3178](https://www.legislation.gov.uk/uksi/2002/3178) was amended by [S.I.2003/1377](https://www.legislation.gov.uk/uksi/2003/1377), [S.I.2004/402](https://www.legislation.gov.uk/uksi/2004/402), [S.I.2006/2189](https://www.legislation.gov.uk/uksi/2006/2189), [S.I.2006/2683](https://www.legislation.gov.uk/uksi/2006/2683), [S.I.2007/1870](https://www.legislation.gov.uk/uksi/2007/1870) and [S.I.2010/1172](https://www.legislation.gov.uk/uksi/2010/1172).
+
+[^c21238331]: Marginal citation: [S.I.2004/402](https://www.legislation.gov.uk/uksi/2004/402) is subject to other revocations not relevant to this instrument.
+
+[^c21238341]: Marginal citation: [S.I.2006/2189](https://www.legislation.gov.uk/uksi/2006/2189) is subject to other revocations not relevant to this instrument.
+
+[^c21238351]: Marginal citation: [S.I.2007/1868](https://www.legislation.gov.uk/uksi/2007/1868).
+
+[^c21238361]: Marginal citation: [S.I.2008/532](https://www.legislation.gov.uk/uksi/2008/532) was amended by [S.I.2010/1172](https://www.legislation.gov.uk/uksi/2010/1172).

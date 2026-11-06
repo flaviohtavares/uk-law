@@ -1,0 +1,289 @@
+---
+title: The Police Act 1997 (Criminal Records and Registration) (Jersey) Regulations 2010
+id: uksi/2010/1087
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2010-03-29'
+text_date: '2026-09-07'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2010/1087
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2010/1087/pdfs/uksi_20101087_en.pdf
+- http://www.legislation.gov.uk/uksi/2010/1087/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Police Act 1997 (Criminal Records and Registration) (Jersey) Regulations 2010
+
+> Text as at 2026-09-07.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2010 No. 1087
+
+Police
+
+The Police Act 1997 (Criminal Records and Registration) (Jersey) Regulations 2010
+
+Made
+
+29th March 2010
+
+Coming into force
+
+12th April 2010
+
+The Secretary of State, in exercise of the powers conferred by sections 113A(1)(b), (3) and (6), 113B(1)(b), (2), (3), (9) and (11), 113BA(1), 113BB(1), 113E(3)(c), 114(1)(b), 116(1)(b), 120ZA and 124(6)(f) of the Police Act 1997[^f00001] as extended by the Police Act 1997 (Criminal Records) (Jersey) Order 2010[^f00002] makes the following Regulations:
+
+## PART 1 — Introduction
+
+### 1. Citation, commencement and extent[^key-2ab615f80973cbbbbe206df168ca24a8]
+
+(1) These Regulations may be cited as the Police Act 1997 (Criminal Records and Registration) (Jersey) Regulations 2010 and shall come into force on 12th April 2010.
+
+(2) These Regulations extend to Jersey.
+
+### 2. Interpretation[^key-6d20e33dd788d2a09d3d7485a77e42e3]
+
+In these Regulations—
+
+- “the Act” means the Police Act 1997;
+- “exempted question” means a question in relation to which section 4(2)(a) or (b) of the Rehabilitation of Offenders Act 1974 (effect of rehabilitation)[^f00003] has been excluded by an order of the Secretary of State under section 4(4) of that Act;
+- “Jersey” means the Bailiwick of Jersey and its adjacent territorial sea;
+- “register” means the register maintained by the Secretary of State for the purposes of Part 5 of the Act;
+- “reprimand” means a reprimand given to a child or young person in accordance with section 65 of the Crime and Disorder Act 1998[^f00004];
+- “volunteer” means a person engaged in an activity which involves spending time, unpaid (except for travel and other approved out-of-pocket expenses), doing something which aims to benefit some third party other than or in addition to a close relative;
+- “warning” means a warning given to a child or young person in accordance with section 65 of the Crime and Disorder Act 1998.
+
+## PART 2 — Applications for criminal record and enhanced criminal record certificates
+
+### 3. Fees for criminal conviction certificates, criminal record certificates and enhanced criminal record certificates[^key-41feef53193c540ebe318cfc301e556f]
+
+The fee payable in relation to an application for the issue of a criminal conviction certificate, a criminal record certificate or an enhanced criminal record certificate is prescribed as–
+
+- (a) £20[^key-dde12c7a170a7ddb7b2ea634ee4f9021] in the case of a criminal conviction certificate;
+- (b) £20[^key-099cd1cdf702c60cbd1794ed817bc5d9] in the case of a criminal record certificate;
+- (c) £41[^key-71a5d6dbae4e410be992a8c0eaf1d1a1] in the case of an enhanced criminal record certificate, and an additional £6 where an urgent preliminary response is sought under section 113E(3)(b),
+
+save that no fee is payable in relation to an application made by a volunteer.
+
+### 3A. Fees for requesting up-date information under section 116A of the Act[^key-d28244bbbf6f271192409deb4b38acaf]
+
+(1) Subject to paragraph (2) below, the fee payable in relation to an application for a certificate to be subject to up-date arrangements under section 116A of the Act is prescribed as—
+
+- (a) £15[^key-ca83f92b4b94d2abba9a37f7b63a21df] in the case of a fee as mentioned in section 116A(4)(b) of the Act;
+- (b) £15[^key-85a2c07778810aa5d5e837867a5b827c] in the case of a fee as mentioned in section 116A(5)(b) of the Act.
+
+(2) No fee is payable in relation to—
+
+- (a) an application made by a volunteer;
+- (b) an application for a criminal conviction certificate, a criminal record certificate or an enhanced criminal record certificate to be subject to up-date arrangements where the person making the request already holds any such a certificate that is subject to up-date arrangements.
+
+### 4. Relevant matter: prescribed details[^key-40eb1db8a2dfaad513d3e78e342bfa79]
+
+The following details of a relevant matter are prescribed for the purposes of sections 113A(3)(a) and 113B(3)(a) of the Act (including those provisions as applied by sections 114(3) and 116(3))—
+
+- (a) in the case of a conviction within the meaning of the Rehabilitation of Offenders Act 1974, including a spent conviction—
+  - (i) the date of conviction;
+  - (ii) the convicting court; and
+  - (iii) the offence;
+- (b) in the case of a caution, reprimand or warning—
+  - (i) the date of caution, reprimand or warning;
+  - (ii) the place where the caution, reprimand or warning was issued; and
+  - (iii) the offence which the person issued with a caution, reprimand or warning had admitted.
+
+### 5. Enhanced criminal record certificates: prescribed purposes[^key-a7bc742167667e1f848f91894317834f]
+
+Purposes which correspond to purposes which are prescribed in regulation 5A of the Police Act (1997) (Criminal Records) Regulations 2002[^f00005] are prescribed purposes for the purpose of section 113B(2)(b) of the Act.
+
+### 6. Suitability information relating to children[^key-ccff36bbe757042aa392e0a274b93d60]
+
+Cases which correspond to cases which are prescribed in regulation 5 of the Police Act 1997 (Criminal Records) (No. 2) Regulations 2009[^f00006] are prescribed cases for the purpose of section 113BA(1) of the Act.
+
+### 7. Suitability information relating to vulnerable adults[^key-44edeeeb56e1766e4ba035ed49da5dcc]
+
+Cases which correspond to cases which are prescribed in regulation 6 of the Police Act 1997 (Criminal Records) (No. 2) Regulations 2009 are prescribed cases for the purpose of section 113BB(1) of the Act.
+
+### 8. Central records: prescribed details[^key-80869d6ea4feb89cb6998d69e12ed13e]
+
+Information in any form relating to convictions, cautions, reprimands and warnings on a names database held by the Secretary of State[^key-23c60bd05739a5fd9fe1e7bda3c4fb4e] for the use of constables is prescribed as “central records” for the purposes of section 113A(6) of the Act (including that provision as applied by sections 113B(9), 114(3) and 116(3)).
+
+### 9. Enhanced criminal record certificates: relevant police forces[^key-db8faa50f1c4e06ac15dc475e730c8f0]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 10. Exception to unlawful disclosure provisions[^key-4574083032131b34c462ea69f6027e4f]
+
+(1) The following purpose is specified in accordance with section 124(6)(f) of the Act, namely disclosure by an employment agency or employment business, whether or not in response to an exempted question, for the purpose of consideration—
+
+- (a) by an educational institution, within the meaning given by section 42 of the Criminal Justice and Court Services Act 2000[^f00007];
+- (b) by an institution within the further education sector, within the meaning given by section 91(3) of the Further and Higher Education Act 1992[^f00008]; or
+- (c) by an equivalent institution in Jersey;
+
+of a person’s suitability for a position at that institution.
+
+(2) In paragraph (1) above the reference to an employment agency and an employment business are references to such an agency or business within the meanings given by section 13 of the Employment Agencies Act 1973[^f00009] or an equivalent agency or business in Jersey.
+
+## PART 3 — Registration
+
+### 11. The register[^key-79ebbf0a8d3630ede6aeee04c958fe01]
+
+There shall be included in the register maintained in accordance with section 120(1) of the Act the following information:
+
+- (a) the name and address of the registered person and any telephone or facsimile number or electronic mailing address which has been notified to the Secretary of State by the registered person for communication purposes;
+- (b) the date on which the name of that person was first listed in the register;
+- (c) the number assigned to that person on being listed;
+- (d) the nature of the exempted question, if any, that that person is likely to ask;
+- (e) in the case of the registered body—
+  - (i) whether that body is likely to countersign applications under section 113A or 113B or transmit applications under section 113A(2A) or 113B(2A) of the Act at the request of bodies or individual asking exempted questions and, if so, the nature of those questions;
+  - (ii) the name and address of any individual for the time being nominated in accordance with regulation 12 below as being authorised to act for the body in relation to the countersigning or transmission of applications under Part 5 of the Act and any telephone or facsimile number or electronic mailing address which has been notified to the Secretary of State for communication purposes;
+  - (iii) the date on which the name of that individual was first listed on the register;
+  - (iv) the number assigned to that individual on being listed; and
+  - (v) a specimen of the signature of that individual.
+
+### 12. Nomination of authorised individuals[^key-50c0e9471f7816f70fa451aeb2fa788d]
+
+(1) The body applying for registration under section 120 of the Act shall submit with the application the names of the individuals authorised to act for the body in relation to the countersigning or the transmission of applications under Part 5 of the Act.
+
+(2) The registered body shall submit to the Secretary of State the names of any individuals so authorised after the registration of the body, whether or not in substitution for any name previously submitted.
+
+(3) The Secretary of State may refuse to accept, or continue to accept, the nomination of an individual as so authorised if, in the opinion of the Secretary of State, that individual is not a suitable person to have access to information which has become, or is likely to become, available to him as a result of the registration of the body which nominated him.
+
+(4) Where the Secretary of State refuses to accept, or to continue to accept, the nomination of an individual under this regulation, he shall notify the body concerned, and that body may submit the name of another individual in substitution.
+
+### 13. Fee on application for inclusion in the register[^key-1f421ad595f29390d6012e55640461dc]
+
+The fee payable by a person on application for inclusion in the register shall be £300.
+
+### 14. Additional fees[^key-0aead2bfb7537a4eab3d6185d6b449d6]
+
+In respect of the second and each subsequent name entered in the register in accordance with regulation 11(e)(ii) above, the fee payable shall be £5.
+
+### 15. Conditions attached to registration[^key-16af98c15c334568d36886ddc2d798e7]
+
+The person’s registration shall be subject to the following conditions:
+
+- (a) payment of the fee referred to in regulation 13 above;
+- (b) the fee payable under regulation 14 above in respect of the second and each subsequent name entered in the register shall be invoiced by the Secretary of State to the person and payable on account within 15 days of the invoice date;
+- (c) the fee payable in relation to an application under section 113A or 113B of the Act which is accompanied by a statement under section 113A(2)(b) or 113B(2)(b) of the Act shall be invoiced by the Secretary of State and payable on account within 15 days of the invoice date;
+- (d) where the registered person has made a statement under section 113A(2)(b) or 113B(2)(b) of the Act in relation to an application for a criminal record certificate or an enhanced criminal record certificate, any charge levied in connection with the services it provides under Part 5 of the Act shall be—
+  - (i) notified in writing to the Secretary of State who may publish details of any such charge in such manner as he thinks fit; and
+  - (ii) set out in any documentation the registered person publishes which relates to the services it provides under Part 5 of the Act;
+- (e) prior to submitting an application for a criminal record certificate or an enhanced criminal record certificate to the Secretary of State, the registered person shall use all reasonable endeavours to ensure that—
+  - (i) an application form is completed to the Secretary of State’s satisfaction and that the data supplied are accurate;
+  - (ii) the certificate is requested for an exempted question or prescribed purpose as the case may be; and
+  - (iii) if the application for a criminal record certificate or an enhanced criminal record certificate is made by a volunteer, the application falls within the definition of a volunteer in these Regulations;
+- (f) prior to making a statement under section 113A(2)(b) or 113B(2)(b) of the Act in relation to an application for a criminal record certificate or an enhanced criminal record certificate, a registered person or his authorised agent shall verify the identity of the applicant and in so doing comply with such conditions as the Secretary of State thinks fit and has notified to the registered person in writing;
+- (g) where the registered person uses the services of another person to verify the identity of applicants, the registered person shall—
+  - (i) ensure the suitability of that person to conduct such checks;
+  - (ii) provide appropriate training and guidance to that person; and
+  - (iii) ensure that that person discharges his duties in accordance with such conditions as the Secretary of State thinks fit under sub-paragraph (f) above;
+- (h) any change of the details in the information recorded on the register shall be notified to the Secretary of State.
+
+Meg Hillier
+
+Parliamentary Under-Secretary of State
+
+Home Office
+
+29th March 2010
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations, which come into force on 12th April 2010, make detailed provision in relation to applications made in Jersey for criminal record certificates and enhanced criminal record certificates under Part 5 of the Police Act 1997 (“the Act”). These Regulations, which apply only in Jersey, mirror, with the appropriate modifications, the Regulations which apply in England and Wales. Part 2 is concerned with applications for criminal record and enhanced criminal record certificates. Part 3 is concerned with registration of persons under Part 5 of the Act.
+
+Regulation 2 defines terms used in the Regulations.
+
+Regulation 3 specifies that the fee for a criminal record certificate application is £26, the fee for an enhanced criminal record application is £36 and the fee for an urgent response under section 113E(3) is £6. No fee is payable if the applicant is a volunteer.
+
+Regulation 4 specifies the details of convictions, cautions, warning and reprimands which appear on criminal record certificates and enhanced criminal record certificates.
+
+Regulation 5 prescribes the purposes for which an application for an enhanced criminal record certificate can be made.
+
+Regulation 6 prescribes the cases in which an enhanced criminal record certificate can contain suitability information relating to children; Regulation 7 prescribes the cases in which an enhanced criminal record certificate can contain suitability information relating to vulnerable adults.
+
+Regulation 8 prescribes the names database held by the National Policing Improvement Agency as “central records” for the purposes of criminal record certificates and enhanced criminal record certificates.
+
+Regulation 9 defines “relevant police forces” for the purposes of enhanced criminal record certificates.
+
+Regulation 10 provides an exception to the prohibition of disclosure of information beyond a registered body when that information is disclosed by an employment agency or business to an educational institution or further education institution for the purpose of considering a person’s suitability for a position at that institution.
+
+Regulation 11 specifies the information to be included in the register maintained by the Secretary of State under section 120 of the Act.
+
+Regulation 12 prescribes the procedure for nominating authorised individuals who may countersign or transmit applications made under Part 5 of the Act. A body which has registered person status must submit the names of those persons who are authorised to countersign or transmit applications.
+
+Regulation 13 specifies that the fee payable for inclusion on the register is £300 and Regulation 14 specifies that the fee payable for each additional authorised individual is £5.
+
+Regulation 15 specifies the conditions which are attached to registration. These include requirements as to the payment of fees, the accuracy of data transmitted and the verification of the identity of applicants.
+
+## Annotations
+
+[^f00001]: Footnote: [1997 c. 50](https://www.legislation.gov.uk/ukpga/1997/50); sections 113A, 113B and 113E were inserted by section 163(2) of the Serious Organised Crime and Police Act [2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15); sections 113A and 113B were amended by, and sections 113BA and 113BB were inserted by, section 63(1) of, and paragraph 14(2) of Schedule 9 to, the Safeguarding Vulnerable Groups Act [2006 (c. 47)](https://www.legislation.gov.uk/ukpga/2006/47); sections 113A and 113B were further amended by [S.I. 2009/203](https://www.legislation.gov.uk/uksi/2009/203); section 114 was amended by section 63(1) of, and paragraph 14(1) and (2) of Schedule 9 to, the Safeguarding Vulnerable Groups Act 2006; section 116 was amended by section 328 of, and paragraphs 1 and 5 of Schedule 35 to, the Criminal Justice Act [2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44); section 120 was amended by section 328 of, and paragraphs 1 and 6(1) and (2) of Schedule 35 to, the Criminal Justice Act 2003, section 134(3) and (4) of the Criminal Justice and Police Act [2001 (c. 16)](https://www.legislation.gov.uk/ukpga/2001/16) and section 163(3) of, and paragraphs 1 and 6(1) of Schedule 14 to, the Serious Organised Crime and Police Act 2005; section 120ZA was inserted by section 328 of, and paragraphs 1 and 7 of Schedule 35 to, the Criminal Justice Act 2003 and amended by section 163(3) of, and paragraphs 1 and 7 of Schedule 14 to, the Serious Organised Crime and Police Act 2005 and [S.I. 2009/203](https://www.legislation.gov.uk/uksi/2009/203); section 124 was amended by section 163(3) of, and paragraphs 1 and 12 of Schedule 14 to, the Serious Organised Crime and Police Act 2005 and [S.I. 2009/203](https://www.legislation.gov.uk/uksi/2009/203).
+
+[^f00002]: Footnote: [S.I. 2010/765](https://www.legislation.gov.uk/uksi/2010/765).
+
+[^key-2ab615f80973cbbbbe206df168ca24a8]: Commencement: Reg. 1 in force at 12.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/1087/regulation/1/1)
+
+[^key-6d20e33dd788d2a09d3d7485a77e42e3]: Commencement: Reg. 2 in force at 12.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/1087/regulation/1/1)
+
+[^f00003]: Footnote: [1974 c. 53](https://www.legislation.gov.uk/ukpga/1974/53).
+
+[^f00004]: Footnote: [1998 c. 37](https://www.legislation.gov.uk/ukpga/1998/37).
+
+[^key-41feef53193c540ebe318cfc301e556f]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2010/1087/regulation/3) substituted (coming into force in accordance with reg. 1(1) of the amending S.I.) by [The Police Act 1997 (Criminal Records and Registration) (Jersey) (Amendment) Regulations 2019 (S.I. 2019/1274)](https://www.legislation.gov.uk/uksi/2019/1274), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/1274/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/1274/regulation/2/2)
+
+[^key-dde12c7a170a7ddb7b2ea634ee4f9021]: Textual amendment: Sum in reg. 3(a) substituted (coming into force in accordance with reg. 1(1) of the amending S.I.) by [The Police Act 1997 (Criminal Records and Registration) (Jersey) (Amendment) Regulations 2026 (S.I. 2026/1004)](https://www.legislation.gov.uk/uksi/2026/1004), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/1004/regulation/1/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2026/1004/regulation/2/2/a)
+
+[^key-099cd1cdf702c60cbd1794ed817bc5d9]: Textual amendment: Sum in reg. 3(b) substituted (coming into force in accordance with reg. 1(1) of the amending S.I.) by [The Police Act 1997 (Criminal Records and Registration) (Jersey) (Amendment) Regulations 2026 (S.I. 2026/1004)](https://www.legislation.gov.uk/uksi/2026/1004), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1113/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2024/1113/regulation/2/2/b)
+
+[^key-71a5d6dbae4e410be992a8c0eaf1d1a1]: Textual amendment: Sum in reg. 3(c) substituted (coming into force in accordance with reg. 1(1) of the amending S.I.) by [The Police Act 1997 (Criminal Records and Registration) (Jersey) (Amendment) Regulations 2026 (S.I. 2026/1004)](https://www.legislation.gov.uk/uksi/2026/1004), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/1004/regulation/1/1), [2(2)(c)](https://www.legislation.gov.uk/uksi/2026/1004/regulation/2/2/c)
+
+[^key-d28244bbbf6f271192409deb4b38acaf]: Textual amendment: [Reg. 3A](https://www.legislation.gov.uk/uksi/2010/1087/regulation/3A) inserted (coming into force in accordance with reg. 1(1) of the amending S.I.) by [The Police Act 1997 (Criminal Records and Registration) (Jersey) (Amendment) Regulations 2024 (S.I. 2024/1113)](https://www.legislation.gov.uk/uksi/2024/1113), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1113/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2024/1113/regulation/3)
+
+[^key-ca83f92b4b94d2abba9a37f7b63a21df]: Textual amendment: Sum in reg. 3A(1)(a) substituted (coming into force in accordance with reg. 1(1) of the amending S.I.) by [The Police Act 1997 (Criminal Records and Registration) (Jersey) (Amendment) Regulations 2026 (S.I. 2026/1004)](https://www.legislation.gov.uk/uksi/2026/1004), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/1004/regulation/1/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2026/1004/regulation/2/3/a)
+
+[^key-85a2c07778810aa5d5e837867a5b827c]: Textual amendment: Sum in reg. 3A(1)(b) substituted (coming into force in accordance with reg. 1(1) of the amending S.I.) by [The Police Act 1997 (Criminal Records and Registration) (Jersey) (Amendment) Regulations 2026 (S.I. 2026/1004)](https://www.legislation.gov.uk/uksi/2026/1004), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/1004/regulation/1/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2026/1004/regulation/2/3/b)
+
+[^key-40eb1db8a2dfaad513d3e78e342bfa79]: Commencement: Reg. 4 in force at 12.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/1087/regulation/1/1)
+
+[^key-a7bc742167667e1f848f91894317834f]: Commencement: Reg. 5 in force at 12.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/1087/regulation/1/1)
+
+[^f00005]: Footnote: [S.I. 2002/233](https://www.legislation.gov.uk/uksi/2002/233); regulation 5A was inserted by [S.I. 2006/748](https://www.legislation.gov.uk/uksi/2006/748) and amended by [S.I. 2006/2181](https://www.legislation.gov.uk/uksi/2006/2181), [2007/1892](https://www.legislation.gov.uk/uksi/2007/1892), [2007/3224](https://www.legislation.gov.uk/uksi/2007/3224), [2008/2143](https://www.legislation.gov.uk/uksi/2008/2143), [2009/1882](https://www.legislation.gov.uk/uksi/2009/1882) and is prospectively amended by [S.I. 2010/817](https://www.legislation.gov.uk/uksi/2010/817).
+
+[^key-ccff36bbe757042aa392e0a274b93d60]: Commencement: Reg. 6 in force at 12.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/1087/regulation/1/1)
+
+[^f00006]: Footnote: [S.I. 2009/1882](https://www.legislation.gov.uk/uksi/2009/1882).
+
+[^key-44edeeeb56e1766e4ba035ed49da5dcc]: Commencement: Reg. 7 in force at 12.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/1087/regulation/1/1)
+
+[^key-80869d6ea4feb89cb6998d69e12ed13e]: Commencement: Reg. 8 in force at 12.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/1087/regulation/1/1)
+
+[^key-23c60bd05739a5fd9fe1e7bda3c4fb4e]: Textual amendment: Words in [reg. 8](https://www.legislation.gov.uk/uksi/2010/1087/regulation/8) substituted (19.11.2012) by [The Police Act 1997 (Criminal Records and Registration) (Jersey) (Amendment No. 2) Regulations 2012 (S.I. 2012/2668)](https://www.legislation.gov.uk/uksi/2012/2668), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/2668/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2012/2668/regulation/2)
+
+[^key-db8faa50f1c4e06ac15dc475e730c8f0]: Textual amendment: [Reg. 9](https://www.legislation.gov.uk/uksi/2010/1087/regulation/9) omitted (10.9.2012) by virtue of [The Police Act 1997 (Criminal Records and Registration) (Jersey) (Amendment) Regulations 2012 (S.I. 2012/2108)](https://www.legislation.gov.uk/uksi/2012/2108), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/2108/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2012/2108/regulation/2)
+
+[^key-4574083032131b34c462ea69f6027e4f]: Commencement: Reg. 10 in force at 12.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/1087/regulation/1/1)
+
+[^f00007]: Footnote: [2000 c. 43](https://www.legislation.gov.uk/ukpga/2000/43).
+
+[^f00008]: Footnote: [1992 c. 13](https://www.legislation.gov.uk/ukpga/1992/13).
+
+[^f00009]: Footnote: [1973 c. 35](https://www.legislation.gov.uk/ukpga/1973/35).
+
+[^key-79ebbf0a8d3630ede6aeee04c958fe01]: Commencement: Reg. 11 in force at 12.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/1087/regulation/1/1)
+
+[^key-50c0e9471f7816f70fa451aeb2fa788d]: Commencement: Reg. 12 in force at 12.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/1087/regulation/1/1)
+
+[^key-1f421ad595f29390d6012e55640461dc]: Commencement: Reg. 13 in force at 12.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/1087/regulation/1/1)
+
+[^key-0aead2bfb7537a4eab3d6185d6b449d6]: Commencement: Reg. 14 in force at 12.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/1087/regulation/1/1)
+
+[^key-16af98c15c334568d36886ddc2d798e7]: Commencement: Reg. 15 in force at 12.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/1087/regulation/1/1)

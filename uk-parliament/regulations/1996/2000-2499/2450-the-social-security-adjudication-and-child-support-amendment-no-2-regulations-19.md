@@ -1,0 +1,343 @@
+---
+title: The Social Security (Adjudication) and Child Support Amendment (No. 2) Regulations 1996
+id: uksi/1996/2450
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '1996-09-23'
+text_date: '2014-01-01'
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1996/2450
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1996/2450/pdfs/uksi_19962450_301114_en.pdf
+- http://www.legislation.gov.uk/uksi/1996/2450/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Social Security (Adjudication) and Child Support Amendment (No. 2) Regulations 1996
+
+> Text as at 2014-01-01.
+
+1996 No. 2450
+
+FAMILY LAW
+
+CHILD SUPPORT
+
+SOCIAL SECURITY
+
+The Social Security (Adjudication) and Child Support Amendment (No. 2) Regulations 1996
+
+Made
+
+23rd September 1996
+
+Laid before Parliament
+
+27th September 1996
+
+Coming into force
+
+21st October 1996
+
+The Secretary of State for Social Security, in exercise of the powers conferred by sections 21(2) and (3), 51 and 52 of the Child Support Act 1991[^c1765588] and sections 22(2), 22(4), 33(2), 46(2), 59(1), 189 and 191 of, and paragraphs 2 to 5 of Schedule 3 to, the Social Security Administration Act 1992[^c1765589], and of all other powers enabling him in that behalf, after consultation with the Council on Tribunals in accordance with section 8(1) of the Tribunals and Inquiries Act 1992[^c1765590], hereby makes the following Regulations:
+
+## 1. Citation, commencement and interpretation
+
+(1) These Regulations may be cited as the Social Security (Adjudication) and Child Support Amendment (No. 2) Regulations 1996 and shall come into force on 21st October 1996.
+
+(2) In these Regulations:
+
+“the Adjudication Regulations" means the Social Security (Adjudication) Regulations 1995 [^c1765591];
+
+“the Appeal Regulations" means the Child Support Appeal Tribunals (Procedure) Regulations 1992 [^c1765592].
+
+## 2. Amendment of regulation 1 of the Adjudication Regulations[^key-3e407a38c3feeaf3fff151aedb388e3d]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 3. Amendment of regulation 2 of the Adjudication Regulations[^key-3e407a38c3feeaf3fff151aedb388e3d]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 4. Amendment of regulation 3 of the Adjudication Regulations[^key-3e407a38c3feeaf3fff151aedb388e3d]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 5. Amendment of regulation 4 of the Adjudication Regulations[^key-3e407a38c3feeaf3fff151aedb388e3d]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 6. Amendment of regulation 5 of the Adjudication Regulations[^key-3e407a38c3feeaf3fff151aedb388e3d]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 7. Amendment of regulation 6 of the Adjudication Regulations[^key-3e407a38c3feeaf3fff151aedb388e3d]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 8. Amendment of regulation 7 of the Adjudication Regulations[^key-3e407a38c3feeaf3fff151aedb388e3d]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 9. Amendment of regulation 10 of the Adjudication Regulations[^key-3e407a38c3feeaf3fff151aedb388e3d]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 10. Amendment of regulation 22 of the Adjudication Regulations[^key-3e407a38c3feeaf3fff151aedb388e3d]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 11. Amendment of regulation 23 of the Adjudication Regulations[^key-3e407a38c3feeaf3fff151aedb388e3d]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 12. Amendment of regulation 29 of the Adjudication Regulations[^key-3e407a38c3feeaf3fff151aedb388e3d]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 13. Amendment of regulation 38 of the Adjudication Regulations[^key-3e407a38c3feeaf3fff151aedb388e3d]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 14. Amendment of regulation 3 of the Appeal Regulations
+
+(1) Regulation 3 of the Appeal Regulations (making an appeal or application and time limits) shall be amended in accordance with the following provisions of this regulation.
+
+(2) For paragraph (1A) [^c1765597] there shall be substituted the following paragraph—
+
+> (1A) An appeal or application of a kind mentioned in paragraph (1) shall be by notice in writing, and, in the case of an appeal, shall be on a form approved by the Secretary of State and shall be signed by the person making it, or by his representative where it appears to a chairman that he was unable to sign it personally, or by a barrister, advocate or solicitor on his behalf.
+
+.
+
+(3) For paragraph (9) there shall be substituted the following paragraphs—
+
+> (9) A notice of appeal shall contain particulars of the date of the notification of the decision against which the appeal is made, the subject matter of the decision and a summary of the arguments relied on by the person making the appeal to support his contention that the decision was wrong.
+>
+> (9A) Where the notice referred to in paragraph (9) is not made on the form approved for the time being, but is made in writing and contains all the particulars required by paragraph (9), a chairman may treat that appeal as duly made
+
+.
+
+(4) In paragraph (10) the words “appeal or" shall be omitted.
+
+(5) For paragraph (11) there shall be substituted the following paragraphs—
+
+> (11) Where it appears to a chairman or the clerk to the tribunal that the notice of appeal does not contain the particulars required under paragraph (9), or that the notice of application does not contain the particulars required under paragraph (10), he may direct the person making the appeal or application to furnish those further particulars.
+>
+> (11A) Where further particulars are required under paragraph (11), in the case of an appeal they shall be sent or delivered to the clerk to the tribunal at the Central Office within such period as a chairman or the clerk to the tribunal may direct.
+>
+> (11B) The date of an appeal or application shall be the date on which all the particulars required under paragraph (9) are received in the Central Office.
+
+.
+
+## 15. Amendment of regulation 5 of the Appeal Regulations
+
+Regulation 5 of the Appeal Regulations (directions) shall be renumbered paragraph (1) of that Regulation and after that paragraph there shall be added the following paragraph—
+
+> (2) Where under these Regulations the clerk to the tribunal is authorised to take steps in relation to the procedure of the tribunal, he may give directions requiring any party to the proceedings to comply with any provision of these Regulations.
+
+.
+
+## 16. Amendment of regulation 6 of the Appeal Regulations
+
+(1) Regulation 6 of the Appeal Regulations (striking out of proceedings) shall be amended in accordance with the following provisions of this regulation.
+
+(2) In paragraph (1) for the words “a direction under regulation 3(11) or 5 or to reply to an enquiry from the clerk to the tribunal about his availability to attend a hearing" there shall be substituted the words “a direction under regulation 3(11), 5(1) or (2)".
+
+(3) After paragraph (1) there shall be inserted the following paragraphs—
+
+> (1A) Where a chairman decides not to strike out an appeal or application under paragraph (1) he shall consider whether the appeal or application should be determined forthwith in accordance with these Regulations.
+>
+> (1B) Where a chairman decides that an appeal or application should not be determined forthwith under paragraph (1A) he shall consider whether he should make further directions with a view to expediting the hearing of the appeal or application.
+
+.
+
+(4) After paragraph (2) there shall be inserted the following paragraph—
+
+> (2A) Paragraph (2) shall not require a notice to be sent to a party, including a person against whom it is proposed that an order under paragraph (1) should be made, where his address is unknown to the chairman or the clerk to the tribunal and cannot be ascertained by reasonable enquiry.
+
+.
+
+(5) In paragraph (3)—
+
+- (a) for the words “one year" there shall be substituted the words “3 months";
+- (b) after the words “that order" there shall be added the words “if he is satisfied that the party concerned did not receive a notice under paragraph (2) and that the conditions in paragraph (2A) were not met".
+
+## 17. Amendment of regulation 7 of the Appeal Regulations
+
+(1) Regulation 7 of the Appeal Regulations (withdrawal of appeals and applications) shall be amended in accordance with the following provisions of this regulation.
+
+(2) For sub-paragraph (b) of paragraph (1) there shall be substituted the following sub-paragraph—
+
+> - (b) at any other time, provided that the clerk to the tribunal has not received notice under paragraph (1A), by giving written notice of intention to withdraw to the clerk to the tribunal and either—
+>   - (i) with the consent in writing of every other party to the proceedings other than the child support officer; or
+>   - (ii) with the leave of the chairman after every other party to the proceedings other than the child support officer has had a reasonable opportunity to make representations.
+
+.
+
+(3) After paragraph (1) there shall be inserted the following paragraph—
+
+> (1A) An appeal shall not be withdrawn under sub-paragraph (b) of paragraph (1) if the clerk to the tribunal has previously received notice opposing a withdrawal of such appeal from the child support officer.
+
+.
+
+## 18. Amendment of regulation 8 of the Appeal Regulations
+
+(1) Regulation 8 of the Appeal Regulations (postponement) shall be amended in accordance with the following provisions of this regulation.
+
+(2) For paragraph (1) there shall be substituted the following paragraph—
+
+> (1) Where a person to whom notice of a hearing has been given wishes to request a postponement of that hearing he shall do so in writing to the clerk to the tribunal stating his reasons for the application, and the clerk to the tribunal may grant or refuse the application as he thinks fit or may pass the application to a chairman, who may grant or refuse the application as he thinks fit.
+
+.
+
+(3) In paragraph (2) there shall be inserted after the words “A chairman" the words “or the clerk to the tribunal".
+
+## 19. Amendment of regulation 11 of the Appeal Regulations
+
+(1) Regulation 11 of the Appeal Regulations (hearings) shall be amended in accordance with the following provisions of this regulation.
+
+(2) For paragraph (1) there shall be substituted the following paragraphs—
+
+> (1) Where an appeal or application is made to a tribunal, the clerk to the tribunal shall direct every party to the proceedings to notify him if that party wishes an oral hearing of that appeal or application to be held.
+>
+> (1A) A notification under paragraph (1) shall be in writing and shall be made within 21 days of receipt of the direction from the clerk to the tribunal or within such other period as the clerk to the tribunal or a chairman may direct.
+>
+> (1B) Where the clerk to the tribunal receives notification in accordance with paragraph (1A) the tribunal shall hold an oral hearing.
+>
+> (1C) A chairman may of his own motion require an oral hearing to be held if he is satisfied that such a hearing is necessary to enable the tribunal to reach a decision.
+>
+> (1D) Subject to the provisions of the Act and of these Regulations the procedure in connection with an oral hearing shall be such as the chairman shall determine.
+
+.
+
+(3) In paragraph (2)—
+
+- (a) at the beginning, there shall be inserted the words “Except where paragraph (2C) applies,";
+- (b) for the words “the time and place of any hearing" there shall be substituted the words “the time and place of any oral hearing";
+
+(4) After paragraph (2) there shall be inserted the following paragraphs—
+
+> (2A) A chairman may give notice for the determination forthwith, in accordance with the provisions of the Act and these Regulations, of an appeal or application notwithstanding that a party to the proceedings has failed to indicate his availability for a hearing or to provide all the information which may have been requested, if the chairman is satisfied that such party—
+>
+> - (a) has failed to comply with a direction regarding his availability or requiring information under regulation 3(11), 5(1) or (2); and
+> - (b) has not given any explanation for his failure to comply with such a direction; provided that the chairman is satisfied that the tribunal has sufficient particulars in order for the appeal or application to be determined.
+>
+> (2B) A chairman may give notice for the determination forthwith, in accordance with the provisions of these Regulations, of an appeal or application which he believes has no reasonable prospect of success.
+>
+> (2C) Any party to the proceedings may waive his right to receive not less than 10 days notice of the time and place of any oral hearing as specified in paragraph (2).
+
+.
+
+(5) In paragraph (6) after the words “including any explanation offered for the absence" there shall be inserted the words “and where applicable the circumstances set out in sub-paragraphs (a) or (b) of paragraph (2A)".
+
+(6) After paragraph (6) there shall be inserted the following paragraph—
+
+> (6A) Where any party to the proceedings has waived his right to be given notice under paragraph (2C) the tribunal may proceed with the hearing notwithstanding his absence.
+
+.
+
+## 20. Amendment of regulation 13 of the Appeal Regulations
+
+(1) Regulation 13 of the Appeal Regulations (decisions) shall be amended in accordance with the following provisions of this regulation.
+
+(2) For paragraph (2) there shall be substituted the following paragraph—
+
+> (2) Every decision of a tribunal shall be recorded in summary by the chairman in such written form of decision notice as shall have been approved by the President, and such decision notice shall be signed by the chairman.
+
+.
+
+(3) For paragraphs (3) and (3A) [^c1765598] there shall be substituted the following paragraphs—
+
+> (3) As soon as may be practicable after a case has been decided by a tribunal, a copy of the decision notice made in accordance with paragraph (2) shall be sent or given to every party to the proceedings who shall also be informed of—
+>
+> - (a) his right under paragraph (3C); and
+> - (b) the conditions governing appeals to a Commissioner.
+>
+> (3A) A statement of the reasons for the tribunal’s decision, of its findings on questions of fact material thereto and of the terms of any direction under section 20(4) of the Act may be given—
+>
+> - (a) orally at the hearing; or
+> - (b) in writing at such later date as the chairman may determine.
+>
+> (3B) Where the statement referred to in paragraph (3A) is given orally, it shall be recorded in such medium as the chairman may determine.
+>
+> (3C) A copy of the statement referred to in paragraph (3A) shall be supplied to the parties to the proceedings if requested by any of them within 21 days after the decision notice has been sent or given and if the statement is one to which sub-paragraph (a) of that paragraph applies, that copy shall be supplied in such medium as the chairman may direct.
+>
+> (3D) If a decision is not unanimous, the statement referred to in paragraph (3A) shall record that one of the members dissented and the reasons given by him for dissenting.
+>
+> (3E) A record of the proceedings at the hearing may be made by the chairman in such medium as he may direct and preserved by the clerk to the tribunal for 18 months, and a copy of such record shall be supplied to the parties if requested by any of them within that period.
+
+.
+
+## 21. Amendment of regulation 15 of the Appeal Regulations
+
+After paragraph (1) of regulation 15 of the Appeal Regulations (setting aside) there shall be inserted the following paragraph—
+
+> (1A) In determining whether it is just to set aside a decision on the ground set out in paragraph (1)(b) the tribunal shall determine whether the party making the application gave notice that he wished an oral hearing to be held, and if the party did not give such notice the tribunal shall not set the decision aside unless it is satisfied that there has been some procedural irregularity or mishap.
+
+.
+
+## 22. Saving Provision
+
+In a case where an appeal, application or reference was made before the date on which these Regulations come into force, regulations 3, 7(3), 22, 29(1) and 38(1) of the Adjudication Regulations and regulations 3, 6(3), and 11(1) of the Appeal Regulations shall apply as if these Regulations had not been made.
+
+Signed by authority of the Secretary of State for Social Security.
+
+Roger Evans
+
+Parliamentary Under-Secretary of State,
+
+Department of Social Security
+
+(This note is not part of the Regulations)
+
+These Regulations amend the Social Security (Adjudication) Regulations 1995 and the Child Support Appeal Tribunals (Procedure) Regulations 1992 to make certain changes to the procedure of social security appeal tribunals, disability appeal tribunals, medical appeal tribunals and child support appeal tribunals.
+
+The Social Security (Adjudication) Regulations 1995 are amended in respect of social security appeal tribunals, disability appeal tribunals and medical appeal tribunals to—
+
+**a)** insert a new definition of “clerk to the tribunal" (regulation 2);
+
+**b)** specify the circumstances in which the chairman of a tribunal or board or the clerk to the tribunal may give directions as to procedure (regulation 3);
+
+**c)** include new requirements for the information to be provided in connection with an appeal (regulation 4);
+
+**d)** reduce the minimum period for notice of an oral hearing, provide that in certain circumstances a tribunal chairman may direct that an appeal be determined forthwith, and provide that a party to the proceedings may waive the right to be given notice (regulation 5);
+
+**e)** allow the clerk to the tribunal to deal with requests for hearings to be postponed and to postpone hearings of his own motion (regulation 6);
+
+**f)** allow a person who has made an appeal to withdraw it before a hearing without consent in certain circumstances (regulation 7);
+
+**g)** amend the circumstances in which a tribunal chairman may strike out an appeal for want of prosecution, the procedure for striking out, and the circumstances in which an appeal which has been struck out may be reinstated (regulation 8);
+
+**h)** amend the provisions on setting aside tribunal decisions to reflect the new provisions on oral hearings (regulation 9);
+
+**i)** provide that, unless the chairman of a tribunal or board orders an oral hearing, an oral hearing of an appeal or reference shall be held only on the request of a party to the proceedings, and specify how such a request is to be made (regulations 10, 12(2) and 13(2));
+
+**j)** amend the provisions on the form and promulgation of tribunal decisions (regulations 11(2) and (3), 12(3) and (4) and 13(3) and (4)).
+
+The Child Support Appeal Tribunals (Procedure) Regulations 1992 are amended to make broadly equivalent changes in respect of child support appeal tribunals in relation to: time and manner of making an appeal (regulation 14); directions by the chairman or the clerk to the tribunal (regulation 15); striking out (regulation 16); withdrawal (regulation 17); postponement (regulation 18); hearings including procedure for requesting an oral hearing (regulation 19); form and promulgation of decisions (regulation 20); setting aside of decisions (regulation 21).
+
+Regulation 22 makes a saving provision in respect of certain provisions of the Social Security (Adjudication) Regulations 1995 and the Child Support Appeal Tribunals (Procedure) Regulations 1992
+
+These Regulations do not impose any costs to business.
+
+## Annotations
+
+[^c1765588]: Marginal citation: [1991 c. 48](https://www.legislation.gov.uk/ukpga/1991/48). Section 52 was amended by paragraph 15 of Schedule 3 to the [Child Support Act 1995 (c. 34)](https://www.legislation.gov.uk/ukpga/1995/34).
+
+[^c1765589]: Marginal citation: [1992 c. 5](https://www.legislation.gov.uk/ukpga/1992/5).
+
+[^c1765590]: Marginal citation: [1992 c. 53](https://www.legislation.gov.uk/ukpga/1992/53).
+
+[^c1765591]: Marginal citation: [S.I. 1995/1801](https://www.legislation.gov.uk/uksi/1995/1801); the relevant amending instrument is [S.I. 1996/182](https://www.legislation.gov.uk/uksi/1996/182).
+
+[^c1765592]: Marginal citation: [S.I. 1992/2641](https://www.legislation.gov.uk/uksi/1992/2641); the relevant amending instruments are [S.I. 1995/1045](https://www.legislation.gov.uk/uksi/1995/1045) and 1996/182.
+
+[^key-3e407a38c3feeaf3fff151aedb388e3d]: Textual amendment: [Regs. 2-13](https://www.legislation.gov.uk/uksi/1996/2450/regulation/2) revoked (5.7.1999 for specified purposes, 6.9.1999 for specified purposes, 5.10.1999 for specified purposes, 18.10.1999 for specified purposes, 29.11.1999 in so far as not already in force) by [The Social Security and Child Support (Decisions and Appeals) Regulations 1999 (S.I. 1999/991)](https://www.legislation.gov.uk/uksi/1999/991), [reg. 59(1)](https://www.legislation.gov.uk/uksi/1999/991/regulation/59/1), [Sch. 4](https://www.legislation.gov.uk/uksi/1999/991/schedule/4) (with [reg. 59(2)](https://www.legislation.gov.uk/uksi/1999/991/regulation/59/2)[(3)](https://www.legislation.gov.uk/uksi/1999/991/regulation/59/3))
+
+[^c1765597]: Marginal citation: Paragraph (1A) was inserted by regulation 3 of [S.I. 1995/1045](https://www.legislation.gov.uk/uksi/1995/1045).
+
+[^c1765598]: Marginal citation: Paragraph (3A) was inserted by regulation 3 of [S.I. 1996/182](https://www.legislation.gov.uk/uksi/1996/182).

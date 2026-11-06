@@ -1,0 +1,669 @@
+---
+title: The Investment Trust (Approved Company) (Tax) Regulations 2011
+id: uksi/2011/2999
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2011-12-14'
+text_date: '2020-12-31'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2011/2999
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2011/2999/pdfs/uksiem_20112999_en.pdf
+- http://www.legislation.gov.uk/uksi/2011/2999/pdfs/uksi_20112999_en.pdf
+- http://www.legislation.gov.uk/uksi/2011/2999/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Investment Trust (Approved Company) (Tax) Regulations 2011
+
+> Text as at 2020-12-31.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2011 No. 2999
+
+Corporation Tax
+
+The Investment Trust (Approved Company) (Tax) Regulations 2011
+
+Made
+
+14th December 2011
+
+Coming into force
+
+1st January 2012
+
+The Treasury make the following regulations in exercise of the powers conferred by sections 622A, 1158(6) and 1159 of the Corporation Tax Act 2010 [^c21125801] and section 354 of the Taxation (International and Other Provisions) Act 2010 [^c21125811].
+
+In accordance with sections 622A(3), 1158(8) and 1159(4) of the Corporation Tax Act 2010 and section 372(3)(b) of the Taxation (International and Other Provisions) Act 2010, a draft of these Regulations was laid before the House of Commons and approved by a resolution of that House.
+
+## PART 1 — Introductory and General Provisions
+
+### 1. Citation, commencement and effect
+
+(1) These Regulations may be cited as the Investment Trust (Approved Company) (Tax) Regulations 2011 and come into force on 1 January 2012.
+
+(2) Subject to paragraph (3), these Regulations have effect in relation to accounting periods beginning on or after 1 January 2012.
+
+(3) Regulations 43, 45 and 46 have effect in relation to disposals made on or after 1 January 2012.
+
+### 2. Structure of these Regulations
+
+The structure of these Regulations is as follows—
+
+This Part contains introductory and general provisions;
+
+Part 2 contains the following provisions about investment trusts— Chapter 1 deals with applications for approval as an investment trust, Chapter 2 deals with cases where the eligibility conditions are treated as being met, Chapter 3 deals with the requirements to be met by investment trusts whilst approved, Chapter 4 deals with breaches of the requirements to be met by investment trusts and subsequent withdrawal of approval, Chapter 5 deals with an approved company treating itself as not being an investment trust;
+
+Part 3 contains provisions about transactions by investment trusts which are treated as entered into otherwise than in the course of a trade; and
+
+Part 4 contains provisions about investment trusts having interests in offshore non-reporting funds and index tracking funds, and makes consequential provision.
+
+### 3. Interpretation
+
+(1) In these Regulations—
+
+- “**company tax return**” has the same meaning as in paragraph 3(1) of Schedule 18 to the Finance Act 1998 [^c21125821],
+- “**CTA 2009**” means the Corporation Tax Act 2009 [^c21125831],
+- “**CTA 2010**” means the Corporation Tax Act 2010 [^c21125841],
+- “**the Offshore Funds Regulations**” means the Offshore Funds (Tax) Regulations 2009 [^c21125851],
+- “**tribunal**” means the First-tier Tribunal or, where determined by or under Tribunal Procedure Rules, the Upper Tribunal.
+
+(2) For the purposes of these Regulations the market value of any asset is to be determined in a like manner as it would be determined for the purposes of the Taxation of Chargeable Gains Act 1992 [^c21125861].
+
+## PART 2 — Investment Trusts
+
+### CHAPTER 1 — Application procedure
+
+#### 4. Interpretation
+
+In this Part—
+
+- “the eligibility conditions” mean conditions A to C in section 1158 of CTA 2010,
+- “**the income distribution requirement**” has the meaning given in regulation 21(9).
+
+#### 5. Application for approval as an investment trust
+
+(1) A company may apply to the Commissioners [^c21125871] for approval as an investment trust in accordance with this Chapter.
+
+(2) A company which makes such an application is referred to in this Chapter as “**the applicant**”.
+
+#### 6. Contents of application
+
+(1) An application under regulation 5 must include the particulars specified in this regulation.
+
+(2) The application must—
+
+- (a) specify the date of the first day of an accounting period in respect of which the applicant seeks approval as an investment trust (“**the specified date**”),
+- (b) contain a statement that the applicant meets, or is expected to meet, in respect of the accounting period referred to in sub-paragraph (a)—
+  - (i) the eligibility conditions, and
+  - (ii) the requirements of Chapter 3 of this Part,
+- (c) contain an undertaking given in relation to the accounting period referred to in sub-paragraph (a) and each subsequent accounting period in respect of which it is or expects to be an investment trust, that the applicant will meet—
+  - (i) the eligibility conditions, and
+  - (ii) the requirements of Chapter 3 of this Part,
+- (d) include a copy of the applicant's current published investment policy, and
+- (e) provide evidence to show that the shares making up the applicant's ordinary share capital (or, if there are such shares of more than one class, those of each class) are admitted to trading on a regulated market [^c21125881].
+
+This regulation is subject to regulations 7, 8, 9 and 13.
+
+#### 7. Contents of application: accounting period not commenced at time of application
+
+(1) This regulation applies if at the time the application is made the applicant has not commenced an accounting period.
+
+(2) If this regulation applies the applicant must—
+
+- (a) specify a provisional date for the purposes of regulation 6(2)(a), and
+- (b) where a provisional date is specified, as soon as reasonably practicable, confirm in writing to the Commissioners the date of the first day of the accounting period in respect of which the applicant seeks approval as an investment trust.
+
+#### 8. Contents of application: shares not admitted to trading at time of application
+
+(1) This regulation applies if at the time the application is made the shares making up the applicant's ordinary share capital (or, if there are such shares of more than one class, those of each class) are not admitted to trading on a regulated market.
+
+(2) If this regulation applies, the application—
+
+- (a) for the purposes of regulation 6(2)(d), may include a copy of the applicant's prospectus instead of the current published investment policy, and
+- (b) must explain how the applicant will be in a position to comply with condition B in section 1158(3) of CTA 2010 by the specified date.
+
+(3) The applicant must provide evidence to the Commissioners that the shares making up the applicant's ordinary share capital (or, if there are such shares of more than one class, those of each class) are admitted to trading on a regulated market—
+
+- (a) before the end of a period of 60 days beginning with the date on which the shares were so admitted, or
+- (b) by such other date as the Commissioners may agree.
+
+#### 9. Form, timing and withdrawal of application
+
+(1) An application must be made in writing to the Commissioners.
+
+(2) The application must be made to the Commissioners before the end of the period of 90 days beginning with the last day of the first accounting period for which approval is sought.
+
+(3) The applicant may withdraw the application at any time during the period beginning with the day on which the application is made and ending 28 days after the day on which the Commissioners give notice under regulation 10 accepting the application.
+
+#### 10. Response by Commissioners to application
+
+(1) Within 28 days beginning with the date on which the application is made, the Commissioners must give notice in writing to the applicant—
+
+- (a) accepting the application,
+- (b) rejecting the application, or
+- (c) asking for further information in order to consider the application.
+
+(2) The Commissioners must not accept an application if any particular or information mentioned in regulation 6, 7 or 8 is not supplied.
+
+(3) Paragraph (4) applies if—
+
+- (a) the Commissioners have given a notice under paragraph (1)(c), and
+- (b) the applicant provides the further information within the period of 28 days beginning with the day on which the Commissioners ask for the further information, or within such longer period as may be agreed by the Commissioners.
+
+(4) Within 28 days beginning with the day on which they receive the further information, the Commissioners must give notice to the applicant—
+
+- (a) accepting the application, or
+- (b) rejecting the application.
+
+(5) If the Commissioners reject the application, the notice given to the applicant under paragraph (1)(b) or (4)(b) must contain a statement of the reason for which the application was rejected.
+
+#### 11. Appeal against rejection of the application
+
+(1) If the Commissioners reject an application, the applicant may appeal.
+
+(2) The notice of appeal must be given to the Commissioners within a period of 42 days beginning with the day on which the notice rejecting the application is given.
+
+(3) On an appeal, the tribunal may uphold or quash the rejection of the application.
+
+(4) If the tribunal quashes the rejection of the application, these Regulations apply as if the Commissioners had accepted the application in the form in which it was considered by the tribunal.
+
+#### 12. Effect of acceptance of application
+
+If the Commissioners accept (or are treated as accepting) an application, the applicant is approved as an investment trust—
+
+- (a) for the accounting period commencing on the specified date (or commencing on such later date as may be confirmed in accordance with regulation 7(2)(b)), and
+- (b) for each subsequent accounting period,
+
+but this is subject to regulations 13 and 25 to 31.
+
+#### 13. Acceptance of application conditional on receipt of specified information
+
+(1) An acceptance by the Commissioners of an application is conditional on the provision of any information or particulars required by regulations 7(2)(b) and 8(3).
+
+(2) If the applicant does not provide any such information or particulars, the application shall be treated as if it had not been made and the company treated as if it had not been an investment trust for any of the period to which the application mentioned in paragraph (1) related.
+
+### CHAPTER 2 — Cases where eligibility conditions treated as being met
+
+#### 14. Delay in admission of company's ordinary share capital to trading on a regulated market
+
+(1) Paragraph (3) applies if at the date on which the application under regulation 5 is made the applicant—
+
+- (a) has commenced procedures to obtain admission of the shares making up its ordinary share capital (or, if there are such shares of more than one class, those of each class) to trading on a regulated market but has not obtained admission, or
+- (b) has given a commitment in its prospectus to commence such procedures but has not started those procedures.
+
+(2) Paragraph (3) also applies if a company which has been approved as an investment trust issues shares of a class (“the new shares”) which is different from any of those which make up its ordinary share capital.
+
+(3) Condition B in section 1158(3) of CTA 2010 is to be treated as met for the period of 60 days beginning with—
+
+- (a) in the case of paragraph (1), the date of the application, or
+- (b) in the case of paragraph (2), the date on which the new shares were issued.
+
+#### 15. Winding up of company approved as investment trust
+
+(1) Paragraph (2) applies if—
+
+- (a) a company is being wound up,
+- (b) the company was approved as an investment trust in respect of the accounting period which ended immediately before the winding up started (see section 12 of CTA 2009),
+- (c) the company satisfied the eligibility conditions in respect of the accounting period referred to in sub-paragraph (b), and
+- (d) subject to paragraph (4), the company makes no new investments during the realisation period.
+
+(2) Conditions A and B in section 1158 of CTA 2010 are to be treated as met in respect of the realisation period. This paragraph is subject to regulation 16.
+
+(3) In paragraphs (1) and (2) the “realisation period” is the period beginning with the date on which the winding up started and ending with the date on which the winding up is completed.
+
+(4) For the purposes of paragraph (1)(d)—
+
+- (a) the placing on deposit of the proceeds of the disposal of assets of the company, or
+- (b) the purchase of gilts with the proceeds of the disposal of assets of the company,
+
+shall not be treated as the making of a new investment by the company.
+
+(5) In this regulation and regulation 16, references to “a company being wound up” and “winding up” are to be construed in accordance with section 12 of CTA 2009.
+
+#### 16. Winding up of company approved as investment trust – further conditions
+
+(1) Paragraph (2) of regulation 15 shall only apply if paragraphs (2) to (4) of this regulation are met.
+
+(2) The Commissioners must be notified in writing that the company is being wound up.
+
+(3) The notice under paragraph (2) must be given within one year beginning with the date on which the winding up started.
+
+(4) The Commissioners must be satisfied that the realisation period referred to in regulation 15 has not been unreasonably prolonged.
+
+### CHAPTER 3 — Investment trust: requirements to be met whilst approved
+
+#### 17. Investment trust to comply with requirements of this Chapter
+
+A company must comply with the provisions of this Chapter in relation to each accounting period in respect of which it is approved as an investment trust.
+
+#### 18. Investment trust must not be a close company
+
+(1) An investment trust must not be a close company at any time in an accounting period.
+
+(2) See section 439 of CTA 2010 for the definition of “close company”.
+
+#### 19. The income distribution requirement
+
+(1)[^key-4eb9b31bfa02a5a71cb39c17211cd61a] The maximum amount an investment trust is permitted to retain in respect of an accounting period is the highest of the following amounts—
+
+- (a) 15% of its income for the accounting period,
+- (b) where paragraph (1A) applies, the accumulated revenue losses brought forward from previous accounting periods, and
+- (c) any amount of income that the investment trust is required to retain in respect of the accounting period by virtue of a restriction imposed by law.
+
+(1A)[^key-b105b3156919fab5ff58a2c566d9f15d] This paragraph applies if in the accounting period the amount of income the investment trust is permitted to retain under this regulation and regulation 21 (taken together and ignoring this paragraph and paragraph (1)(b)) does not exceed the amount of any accumulated revenue losses brought forward from previous accounting periods.
+
+(2) The investment trust must distribute as a dividend the amount required to comply with paragraph (1) before the filing date for the investment trust's company tax return for the accounting period.
+
+(3) Where the investment trust company's tax return has been amended as a result of a notice served under paragraph 15 or 34 of Schedule 18 to the Finance Act 1998 [^c21125891], any further distribution that is required by virtue of the amendment must be made before the end of the period of 180 days beginning with the date of the amendment.
+
+(4) In this regulation and regulation 23, “**filing date**” has the meaning given in paragraph 14 of Schedule 18 to the Finance Act 1998.
+
+(5) This regulation is subject to regulations 21 and 22.
+
+#### 20. Calculation of income
+
+(1) Paragraphs (2) and (3) apply for the purposes of regulation 19(1)(a)[^key-95763bc0315931154bbe2686a8c7c6c7] in determining the income of the investment trust for an accounting period.
+
+(2) The amounts to be brought into account under Part 5 of CTA 2009 in respect of the investment trust's loan relationships are to be determined without reference to any debtor relationships of the investment trust.
+
+(3) Income treated as arising under regulation 18(1) (the charge to tax: further provisions) of the Offshore Funds Regulations is to be ignored.
+
+#### 21. The income distribution requirement: reduction in amount of income permitted to be retained
+
+(1) This regulation applies where conditions A to C are met.
+
+(2) Condition A is that the investment trust is a participant in an offshore reporting fund within the meaning of regulation 50 (meaning of “reporting fund”) of the Offshore Funds Regulations.
+
+(3) Condition B is that there is an amount which falls to be reported to the investment trust in accordance with regulation 92(1)(b) (contents of a report to participants: non-transparent funds) of the Offshore Funds Regulations [^c21125901].
+
+(4) Condition C is that the amount referred to in condition B is accounted for by the investment trust through the capital column of the income statement in accordance with the AIC Statement of Recommended Practice, or would have been so accounted for if that Statement had been applied correctly.
+
+(5) Where this regulation applies the amount which the investment trust may retain in accordance with regulation 19(1) is reduced by an amount equal to 85% of the amount referred to in condition B.
+
+(6) If the application of paragraph (5) has the effect that the sum which an investment trust is permitted to retain (“the retainable amount”) is calculated to be less than zero, the investment trust must distribute as a dividend a further sum which is equal to the difference between the retainable amount and zero.
+
+(7) The further distribution mentioned in paragraph (6) must be made in relation to the accounting period in which the fund distribution date for the offshore reporting fund in question falls.
+
+(8) In this regulation—
+
+- (a) “**fund distribution date**” has the meaning given in regulation 94 (reported income: general provisions) of the Offshore Funds Regulations [^c21125911], and
+- (b) “**AIC Statement of Recommended Practice**” means the Statement of Recommended Practice relating to Investment Trust Companies, issued by the Association of Investment Trust Companies in January 2009 [^c21125921].
+
+(9) The distribution required under this regulation together with the distribution required under regulation 19 comprise “the income distribution requirement”.
+
+(10) This regulation is subject to regulation 22.
+
+#### 22. The income distribution requirement: exceptions
+
+(1) Regulations 19 and 21 do not apply in relation to an accounting period if the amount that the investment trust would be required to distribute in accordance with those regulations, taken together, would be less than £30,000.
+
+(2)[^key-2083e4b69c50280c3478602c2d980aee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) If the accounting period mentioned in paragraph (1)[^key-4c1b0f0183d81405bc9ab8929d867bbc] is shorter than 12 months, the amount of £30,000 mentioned in that paragraph[^key-d6ee7303f5df2416f882787b80de0c76] is proportionately reduced.
+
+#### 23. Requirement to notify Commissioners of revised investment policy
+
+(1) An investment trust must notify the Commissioners if it revises its published investment policy.
+
+(2) The investment trust must provide the Commissioners with a copy of any revised investment policy before the filing date for its company tax return for the accounting period in which the investment policy was revised.
+
+#### 24. Requirement to notify Commissioners of breach
+
+(1) An investment trust must give notice in accordance with paragraph (2) if it has breached—
+
+- (a) any of the eligibility conditions (see regulation 4), or
+- (b) any other requirement of these Regulations (apart from this regulation).
+
+(2) The notice must—
+
+- (a) be given in writing to the Commissioners as soon as reasonably practicable after the investment trust becomes aware of any breach referred to in paragraph (1), and
+- (b) specify the steps, if any, that have been taken, or are to be taken, to correct the breach.
+
+### CHAPTER 4 — Breach of the Regulations and withdrawal of approval
+
+#### 25. Types of breach
+
+(1) This Chapter applies if an investment trust is in breach of a requirement imposed by these Regulations.
+
+(2) A breach is—
+
+- (a) a minor breach, or
+- (b) a serious breach.
+
+(3) For the purposes of these Regulations, a breach is a “serious breach” if it is—
+
+- (a) a breach specified as a serious breach in this Chapter, or
+- (b) a breach which is not a minor breach.
+
+(4) For the purposes of these Regulations, a breach is a “minor breach” if it is a breach (other than a breach specified as a serious breach in this Chapter)—
+
+- (a) for which there is a reasonable excuse, and
+- (b) which is inadvertent and corrected as soon as reasonably practicable.
+
+(5) For the purposes of this Chapter a minor breach is not regarded as a breach if the investment trust—
+
+- (a) notifies the Commissioners of the breach in accordance with regulation 24, and
+- (b) corrects the breach as soon as reasonably practicable without any intervention by the Commissioners.
+
+(6) For the purposes of this regulation there is an “**intervention by the Commissioners**” in relation to an investment trust if the Commissioners ask it to provide them with information relating to a requirement imposed by Chapter 3.
+
+This paragraph is subject to paragraph (7).
+
+(7) There is no intervention by the Commissioners in relation to an investment trust if—
+
+- (a) the investment trust notifies the Commissioners of the breach in accordance with regulation 24,
+- (b) the investment trust complies with regulation 25(5), and
+- (c) the Commissioners request the investment trust to provide them with information so that they may determine whether the breach has been corrected.
+
+#### 26. Serious breach
+
+For the purposes of this Chapter a breach of regulation 18 (investment trust must not be a close company) is a serious breach.
+
+#### 27. Multiple breaches
+
+(1) Subject to the following provisions of this Chapter, if an investment trust is in breach of a requirement imposed by these Regulations, and the breach is a minor breach, it continues to be treated as approved as an investment trust.
+
+(2) If paragraph (1) applies—
+
+- (a) on three separate occasions in a period of ten years beginning with the first day of the accounting period in which the first breach occurs, and
+- (b) in relation to the same requirement,
+
+the third breach is a serious breach.
+
+(3) If paragraph (1) applies—
+
+- (a) on four separate occasions in a period of ten years beginning with the first day of the accounting period in which the first breach occurs, and
+- (b) in relation to more than one of the requirements,
+
+the fourth breach is a serious breach.
+
+(4) If a single event results in more than one minor breach within a single accounting period there is only one minor breach in that period in relation to that event for the purposes of this Chapter.
+
+#### 28. Breach of the income distribution requirement
+
+(1) Subject to paragraph (4), there is a breach of the income distribution requirement if—
+
+- (a) there is a difference between—
+  - (i) the amount that the investment trust is required to distribute in relation to an accounting period in accordance with regulations 19 and 21, and
+  - (ii) the amount which the investment trust distributed in relation to that accounting period, and
+- (b) the amount referred to in paragraph (ii) is less than the amount referred to in paragraph (i).
+
+(2) If the difference between the two amounts specified in paragraph (1) is greater than 1% but less than or equal to 5% of the income of the investment trust for the accounting period then, subject to paragraph (5), the breach is a minor breach.
+
+(3) If the difference between the two amounts specified in paragraph (1) is greater than 5% of the income of the investment trust for the accounting period, the breach is a serious breach.
+
+(4) If the difference between the two amounts specified in paragraph (1) is less than or equal to 1% of the income of the investment trust for the accounting period then, subject to paragraph (5), the investment trust is to be treated as not having breached the income distribution requirement.
+
+(5) Paragraph (4) only applies if the failure to comply with the income distribution requirement was inadvertent.
+
+(6) For the purpose of this regulation, the income of the investment trust includes income that falls to be reported to it in accordance with regulation 92(1)(b) (contents of report to participants: non-transparent funds) of the Offshore Funds Regulations.
+
+#### 29. Consequences of serious breaches
+
+(1) This regulation applies if conditions A and B are met.
+
+(2) Condition A is that—
+
+- (a) the investment trust is in breach of a requirement imposed by these Regulations, and
+- (b) the breach is a serious breach.
+
+(3) Condition B is that the Commissioners give notice in writing to the investment trust—
+
+- (a) stating that the investment trust is in breach of a requirement imposed by these Regulations and that the breach is a serious breach, and
+- (b) specifying the serious breach.
+
+(4) The investment trust is to be treated as a company which has not been approved as an investment trust for the accounting period in which the serious breach occurred (or, if there is more than one serious breach, the first of them) and, subject to paragraph (5), for all subsequent accounting periods.
+
+(5) A company to which this regulation applies may make an application under regulation 5 in respect of any accounting period subsequent to the accounting period in which the serious breach occurred.
+
+#### 30. Breach of the eligibility conditions
+
+(1) This regulation applies if an investment trust is in breach of any of the eligibility conditions.
+
+(2) The investment trust is to be treated as a company which has not been approved as an investment trust for the accounting period in which the breach of the eligibility condition occurred (or, if there is more than one breach, the first of them) and, subject to paragraph (3), for all subsequent accounting periods.
+
+(3) A company to which this regulation applies may make an application under regulation 5 in respect of any accounting period subsequent to the accounting period in which the breach of an eligibility condition occurred.
+
+### CHAPTER 5 — Approved company treating itself as not being an investment trust
+
+#### 31. Company tax return submitted on basis that company is not an investment trust
+
+(1) This regulation applies if—
+
+- (a) a company (apart from this regulation) is approved as an investment trust in respect of an accounting period,
+- (b) the company makes a company tax return for that period, and
+- (c) the self-assessment of the amount of tax which is payable by it included in the return is made on the basis that the company is not an investment trust with respect to that period.
+
+(2) If this regulation applies the company is treated as not having been approved as an investment trust for the accounting period referred to in paragraph (1) with effect from the first day of that period and, subject to paragraph (3), for all subsequent accounting periods.
+
+(3) A company to which this regulation applies may make an application under regulation 5 in respect of any accounting period subsequent to the accounting period to which the company tax return relates.
+
+## PART 3 — Transactions to be treated as entered into otherwise than in the course of a trade
+
+### 32. Treatment of transactions carried out by investment trusts
+
+(1) This regulation applies if an investment trust carries out an investment transaction in an accounting period.
+
+(2) The investment transaction is treated as a transaction entered into otherwise than in the course of a trade for the purposes of the Corporation Tax Acts.
+
+(3)[^key-57d3727d8da1c9c36e95bb67dcd3b914] For the purposes of this Part an “investment transaction” is an investment transaction specified by regulation 2 of the Investment Transactions (Tax) Regulations 2014.
+
+### 33. Meaning of “investment transaction”[^key-3bc5014622b1f4434228f60936db02ab]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 34. Meaning of “relevant contract”[^key-3bc5014622b1f4434228f60936db02ab]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 35. Meaning of “relevant contract”: options[^key-3bc5014622b1f4434228f60936db02ab]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 36. Meaning of “relevant contract”: futures[^key-3bc5014622b1f4434228f60936db02ab]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 37. Options and futures: further provisions[^key-3bc5014622b1f4434228f60936db02ab]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 38. Meaning of “relevant contract”: contracts for difference[^key-3bc5014622b1f4434228f60936db02ab]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 39. Interpretation of regulation 33(c)[^key-3bc5014622b1f4434228f60936db02ab]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 40. Meaning of “units in a collective investment scheme”[^key-3bc5014622b1f4434228f60936db02ab]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 41. Meaning of “transaction in a carbon emission trading product”[^key-3bc5014622b1f4434228f60936db02ab]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART 4 — Investment trust having an interest in offshore non-reporting funds and index tracking funds
+
+### 42. Interests in offshore non-reporting funds: general
+
+(1) Regulation 43 applies if—
+
+- (a) an investment trust disposes of an asset which is an interest in a non-reporting fund (“**the asset**”), and
+- (b) the conditions in paragraph (2) are satisfied for the period starting with the date on which the investment trust acquired the asset and ending with the day of the disposal.
+
+(2) The conditions are that—
+
+- (a) the investment trust has access to the accounts of the non-reporting fund,
+- (b) the investment trust had sufficient information about the non-reporting fund referred to in paragraph (1)(a) to enable it to prepare computations of reportable income for the non-reporting fund for every accounting period which, if the non-reporting fund were a reporting fund, would be a reporting period ending within the period mentioned in paragraph (1)(b),
+- (c) the investment trust has prepared such computations, and
+- (d) any excess of the investment trust's share of the reportable income of the non-reporting fund over the investment trust's share of the distributions made by the non-reporting fund is included in the amount available for distribution by the investment trust for each accounting period of the investment trust which falls within the period mentioned in paragraph (1)(b).
+
+(3) An investment trust has an interest in a non-reporting fund if and to the extent that it has an interest in such a fund for the purposes of the Offshore Funds Regulations.
+
+(4) For the purposes of the computations mentioned in paragraph (2)(b), regulation 80 (treatment of investment transactions carried out by diversely owned funds) of the Offshore Funds Regulations applies if (and only if) the non-reporting fund is a UCITS fund.
+
+(5) In this regulation, “**UCITS fund**” has the same meaning as in regulation 12 (general interpretation) of the Offshore Funds Regulations [^c21125951] and “**reporting period**” has the same meaning as in regulation 91 (meaning of “reporting period”) of those Regulations.
+
+### 43. Treatment of disposal of interest in non-reporting fund
+
+No tax shall be charged on the investment trust under regulation 17 (the charge to tax) of the Offshore Funds Regulations on the disposal by the investment trust of an asset which is an interest in a non-reporting fund at the time of the disposal.
+
+### 44. Treatment of interest in non-reporting fund: cases where conditions in regulation 42(2) would not be satisfied
+
+(1) This regulation applies in relation to an asset of an investment trust (“**the asset**”)—
+
+- (a) which is an interest in a non-reporting fund, but
+- (b) in relation to which the conditions in regulation 42(2) would not (apart from this regulation) be satisfied for the whole of the period specified in regulation 42(1)(b) in relation to the asset.
+
+(2) Paragraph (4) applies if the investment trust, in relation to the asset, reasonably expects to satisfy the conditions in regulation 42(2) for the period beginning with a date to be determined in accordance with paragraph (3) (“the deemed start date”) and ending with the date of the disposal of the asset.
+
+(3) The deemed start date is a date to be determined by the investment trust which must not be earlier than 1st January 2012.
+
+(4) The investment trust is treated for all purposes (including for the purposes of determining the beginning of the period mentioned in regulation 42(1)(b)) as if it had, on the deemed start date, disposed of the asset (and not satisfied the conditions in regulation 42(2)) and immediately reacquired the asset for a consideration equal to its market value on the deemed start date.
+
+(5) The investment trust must notify the Commissioners of the deemed start date by making an appropriate entry in its company tax return for the accounting period in which the deemed start date falls.
+
+### 45. Index tracking funds
+
+(1) This regulation applies if—
+
+- (a) an investment trust has an interest in a non-reporting fund,
+- (b) the conditions in paragraph (2) are met throughout the relevant period.
+
+(2) The conditions are that—
+
+- (a) in accordance with the instrument constituting the investment trust, the aim of the investment trust's policy is to replicate the performance of a qualifying index,
+- (b) the main purpose of the investment in the non-reporting fund is to represent the composition of the qualifying index, and
+- (c) the capital and income returns of the investment trust replicate as closely as practicable the returns of the investment comprised in the qualifying index.
+
+(3) For the purposes of paragraph (2) an index is a “qualifying index” if—
+
+- (a) it is based solely on the value of securities listed on a recognised stock exchange or admitted to trading on a regulated market,
+- (b) either the Financial Conduct Authority[^key-75ad8caf8b8f7cc0a6fb8a5a48b13b07] or an authority responsible for regulating offshore funds recognises the index on the basis that—
+  - (i) its composition is sufficiently diverse,
+  - (ii) it represents an adequate benchmark for the market to which it refers, and
+  - (iii) it is published in such a way that it is widely available, and
+- (c) it is calculated and published by a body which is managed independently from the management of the investment trust.
+
+(4) Regulation 17 of the Offshore Funds Regulations does not apply in respect of a disposal by the investment trust of the interest in the non-reporting fund.
+
+(5) In this regulation the “**relevant period**” means the period—
+
+- (a) starting with the day on which the investment trust acquires the interest in the non-reporting fund (or any part of it), and
+- (b) ending with the day of the disposal of the interest.
+
+(6) In this regulation—
+
+- (a)[^key-3b4f717acce35a540a9088c52e8825e1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^key-f801b02ca112219c8fbbe7e6b62c5ee7] “regulated market” means—
+  - (i) a UK regulated market within the meaning given by Article 2.1(13A) of Regulation (EU) No 600/2014 of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments,
+  - (ii) an EU regulated market within the meaning given by Article 2.1(13B) of that Regulation, and
+  - (iii) a Gibraltar regulated market within the meaning given by Article 26(11)(b)(i) of that Regulation.[^key-096da4c2721a54eea83ee4e0330a1acf]
+
+### 46. Consequential amendment
+
+For paragraph (6) of regulation 18 (the charge to tax: further provisions) of the Offshore Funds Regulations [^c21125981], substitute—
+
+> (6) Nothing in regulation 17 of these Regulations applies to—
+>
+> - (a) an authorised investment fund to which regulation 14ZB, 14ZD(1) or Part 6A of the Authorised Investment Fund (Tax) Regulations 2006 applies, or
+> - (b) an investment trust company to which regulation 43 or 45 of the Investment Trust (Approved Company) (Tax) Regulations 2011 apply.
+
+.
+
+Angela Watkinson
+
+Jeremy Wright
+
+Two of the Lords Commissioners of Her Majesty's Treasury
+
+*(This note is not part of the Regulations)*
+
+These Regulations make provision as to the approval of companies as investment trusts for the purposes of sections 1158 and 1159 of the Corporation Tax Act 2010 (c. 4) and in relation to the requirements to be met by investment trusts whilst approved and the treatment of transactions entered into by investment trusts. They also make provision as to the treatment of investments by investment trusts in offshore funds and index tracker funds, and make consequential amendments to the Offshore Funds (Tax) Regulations 2009 (S.I. 2009/3001) (“**the Offshore Funds Regulations**”).
+
+Part 1 of these Regulations contains introductory and general provisions. Regulation 1 provides for citation, commencement and effect. Regulation 2 sets out the structure of the Regulations. Regulation 3 defines terms for the purposes of the Regulations.
+
+Part 2 of these Regulations is concerned with the approval of companies as investment trusts.
+
+Chapter 1 of Part 2 deals with applications for approval. Regulation 4 defines terms for the purposes of Part 2. Regulation 5 provides that a company may apply to the Commissioners for approval as an investment trust. Regulation 6 sets out the material that must be included in an application for approval. Regulation 7 supplements regulation 6 and deals with the case where the company has not started an accounting period at the time of the application. Regulation 8 also supplements regulation 6 and deals with the case where the ordinary share capital of the company is not admitted to trading on a regulated market at the time of the application. Regulation 9 provides that the application for approval must be in writing and specifies by when an application in respect of an accounting period must be made. Regulation 10 deals with the Commissioners' response to an application. Regulation 11 provides for an appeal against a rejection of an application. Regulation 12 sets out the consequences of an application being accepted. Regulation 13 provides that acceptance of an application is conditional on the information specified in regulations 7(2)(b) and 8(3) being supplied to the Commissioners.
+
+Chapter 2 deals with two cases where one of the conditions in section 1158 of the Corporation Tax Act 2010 is deemed to be met. Regulation 14 provides that condition B in section 1158 (requirement that the shares making up the ordinary share capital of the company are admitted to trading on a regulated market) is treated as met for a 60 day period where at the time of the application the company intends to obtain admission of its shares or has started the process to obtain admission but not completed it. Regulation 15 provides that a company being wound up is treated as meeting conditions A and B for a period after the winding up starts. Regulation 16 provides further conditions to be complied with as regards the winding up of an investment trust company.
+
+Chapter 3 sets out the requirements that a company must meet in relation to each accounting period for which it is approved as an investment trust. Regulation 17 introduces the requirements. Regulation 18 provides that an investment trust must not be a close company at any point in an accounting period. Regulation 19 provides that an investment trust must not retain more than 15% of its income for the accounting period and that it must distribute income before the filing date for its tax return for that period. Regulation 20 makes provision about the calculation of an investment trust's income for an accounting period. Regulation 21 reduces the amount that may be retained under regulation 19 in a case where the investment trust has income reported to it by an offshore fund. The AIC Statement of Practice referred to in regulation 21(4) can be obtained from http://www.theaic.co.uk/Documents/Technical/AICSORPJan09.pdf. Regulation 22 provides for exceptions from the distribution obligations in regulations 19 and 21. Regulation 23 requires an investment trust to notify the Commissioners if it alters its investment policy and Regulation 24 requires an investment trust to notify the Commissioners of any breach of the requirements in Chapter 3.
+
+Chapter 4 deals with breaches of the requirements of the Regulations. Regulation 25 defines whether breaches are minor or serious. Regulation 26 provides that a breach of the requirement not to be a close company is a serious breach. Regulation 27 provides that a minor breach is treated as a serious breach if there have been a number of previous minor breaches during a ten year period. Regulation 28 provides that a breach of the income distribution requirement is treated as either a minor breach, a serious breach or no breach, depending on the size of the discrepancy between the amount required to be distributed and the amount distributed. Regulation 29 provides that approval as an investment trust is to be withdrawn on notice if there is a serious breach of the Regulations. Regulation 30 provides that an investment trust in breach of the eligibility conditions (conditions A to C specified in section 1158 of the Corporation Tax Act 2010) is to be treated as a company which has not been approved.
+
+Chapter 5 deals with the case where an investment trust, although approved, treats itself as not being an investment trust. Regulation 31 provides that if an approved company makes a tax return on the basis that it is not an investment trust then the company is treated as not being approved in respect of the period to which the return relates and subsequently.
+
+Part 3 makes provision in relation to investment transactions entered into by investment trusts. Regulation 32 provides that investment transactions entered into by investment trusts are treated as not being trading transactions for the purposes of the Corporation Tax Acts. Regulation 33 defines the expression “investment transaction”; and regulations 34 to 41 provide for the interpretation of the component parts of that definition.
+
+Part 4 makes provision about investment trusts which have interests in offshore non-reporting funds. Regulation 42 specifies the conditions that an investment trust must satisfy in relation to an asset that represents an interest in an offshore non-reporting fund (“**the asset**”) if the disposal of the asset is not to give rise to a charge to tax on the investment trust. Where the conditions are satisfied, regulation 43 applies. Regulation 43 provides that the disposal of an asset will not be subject to a charge to tax under the Offshore Funds Regulations, which would otherwise be the case. Regulation 44 deals with the case where an investment trust holds an asset in relation to which the conditions in regulation 42(2) are not satisfied for the entire period that it holds the asset. Regulation 44 provides that the investment trust may treat the asset as an interest in a reporting fund if it makes a deemed disposal and reacquistion of the asset representing the interest. In order to do so, the investment trust must reasonably expect to satisfy the conditions in regulation 42(2) from the date of the reacquisition until the date on which it disposes of the asset. If it satisfies the conditions in regulation 42(2) for this period, regulation 43 applies on the disposal of the asset. Regulation 45 makes provision as regards the investment by an investment trust in index tracking funds. Regulation 46 makes a consequential amendment to regulation 18 of the Offshore Funds Regulations, so that the charge to tax under regulation 17 of those Regulations does not arise in relation to transactions by an investment trust falling within regulations 43 or 45 of these Regulations.
+
+A Tax Information and Impact Note covering this instrument was published on 9 December 2010 alongside draft legislation on the modernisation of the tax rules for investment trust companies and is available on the HMRC website at http://www.hmrc.gov.uk/thelibrary/tiins.htm . It remains an accurate summary of the impacts that apply to this instrument.
+
+## Annotations
+
+[^c21125801]: Marginal citation: [2010 c. 4](https://www.legislation.gov.uk/ukpga/2010/4); new sections 1158 and 1159 were substituted by section 49 of the [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11) and section 622A was inserted by section 50 of that Act.
+
+[^c21125811]: Marginal citation: [2010 c. 8](https://www.legislation.gov.uk/ukpga/2010/8).
+
+[^c21125821]: Marginal citation: [1998 c. 36](https://www.legislation.gov.uk/ukpga/1998/36). Paragraph 3 of Schedule 18 was amended by paragraphs 380 and 385 of Schedule 1 to the [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3) and paragraph 68(a) of Schedule 4 to the [Commissioners of Revenue and Customs Act 2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11).
+
+[^c21125831]: Marginal citation: [2009 c. 4](https://www.legislation.gov.uk/ukpga/2009/4).
+
+[^c21125841]: Marginal citation: [2010 c. 4](https://www.legislation.gov.uk/ukpga/2010/4).
+
+[^c21125851]: Marginal citation: [S.I. 2009/3001](https://www.legislation.gov.uk/uksi/2009/3001), amended by [S.I. 2009/3139](https://www.legislation.gov.uk/uksi/2009/3139), 2010/294, 2011/244, 2011/1211 and 2011/2192.
+
+[^c21125861]: Marginal citation: [1992 c. 12](https://www.legislation.gov.uk/ukpga/1992/12).
+
+[^c21125871]: Marginal citation: [Section 1159](https://www.legislation.gov.uk/uksi/2011/2999/section/1159) of the Corporation Tax Act 2010 defines “the Commissioners” as the Commissioners for Her Majesty's Revenue and Customs.
+
+[^c21125881]: Marginal citation: [Section 1158](https://www.legislation.gov.uk/uksi/2011/2999/section/1158) defines “regulated market”.
+
+[^key-4eb9b31bfa02a5a71cb39c17211cd61a]: Textual amendment: [Reg. 19(1)](https://www.legislation.gov.uk/uksi/2011/2999/regulation/19/1) substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Investment Trust (Approved Company) (Tax) (Amendment) Regulations 2013 (S.I. 2013/1406)](https://www.legislation.gov.uk/uksi/2013/1406), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/1406/regulation/1/2), [2(2)(a)](https://www.legislation.gov.uk/uksi/2013/1406/regulation/2/2/a)
+
+[^key-b105b3156919fab5ff58a2c566d9f15d]: Textual amendment: [Reg. 19(1A)](https://www.legislation.gov.uk/uksi/2011/2999/regulation/19/1A) inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Investment Trust (Approved Company) (Tax) (Amendment) Regulations 2013 (S.I. 2013/1406)](https://www.legislation.gov.uk/uksi/2013/1406), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/1406/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2013/1406/regulation/2/2/b)
+
+[^c21125891]: Marginal citation: [1998 c. 36](https://www.legislation.gov.uk/ukpga/1998/36). Paragraph 15 was amended by paragraph 68(a) of Schedule 4 to the [Commissioners of Revenue and Customs Act 2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11). Paragraph 34 was amended by section 119(3) and (6) to (8) of the [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9).
+
+[^key-95763bc0315931154bbe2686a8c7c6c7]: Textual amendment: Words in [reg. 20(1)](https://www.legislation.gov.uk/uksi/2011/2999/regulation/20/1) substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Investment Trust (Approved Company) (Tax) (Amendment) Regulations 2013 (S.I. 2013/1406)](https://www.legislation.gov.uk/uksi/2013/1406), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/1406/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2013/1406/regulation/2/3)
+
+[^c21125901]: Marginal citation: [Regulation 92(1)](https://www.legislation.gov.uk/uksi/2011/2999/regulation/92/1) was amended by [S.I. 2011/1211](https://www.legislation.gov.uk/uksi/2011/1211).
+
+[^c21125911]: Marginal citation: [Regulation 94](https://www.legislation.gov.uk/uksi/2011/2999/regulation/94) was amended by [S.I. 2009/3139](https://www.legislation.gov.uk/uksi/2009/3139) and 2011/1211.
+
+[^c21125921]: Marginal citation: The AIC Statement of Practice can be found at: http://www.theaic.co.uk/Documents/Technical/AICSORPJan09.pdf.
+
+[^key-2083e4b69c50280c3478602c2d980aee]: Textual amendment: [Reg. 22(2)](https://www.legislation.gov.uk/uksi/2011/2999/regulation/22/2) omitted (with effect in accordance with reg. 1(2) of the amending S.I.) by virtue of [The Investment Trust (Approved Company) (Tax) (Amendment) Regulations 2013 (S.I. 2013/1406)](https://www.legislation.gov.uk/uksi/2013/1406), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/1406/regulation/1/2), [2(4)(a)](https://www.legislation.gov.uk/uksi/2013/1406/regulation/2/4/a)
+
+[^key-4c1b0f0183d81405bc9ab8929d867bbc]: Textual amendment: Words in [reg. 22(3)](https://www.legislation.gov.uk/uksi/2011/2999/regulation/22/3) substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Investment Trust (Approved Company) (Tax) (Amendment) Regulations 2013 (S.I. 2013/1406)](https://www.legislation.gov.uk/uksi/2013/1406), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/1406/regulation/1/2), [2(4)(b)(i)](https://www.legislation.gov.uk/uksi/2013/1406/regulation/2/4/b/i)
+
+[^key-d6ee7303f5df2416f882787b80de0c76]: Textual amendment: Words in [reg. 22(3)](https://www.legislation.gov.uk/uksi/2011/2999/regulation/22/3) substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Investment Trust (Approved Company) (Tax) (Amendment) Regulations 2013 (S.I. 2013/1406)](https://www.legislation.gov.uk/uksi/2013/1406), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/1406/regulation/1/2), [2(4)(b)(ii)](https://www.legislation.gov.uk/uksi/2013/1406/regulation/2/4/b/ii)
+
+[^key-57d3727d8da1c9c36e95bb67dcd3b914]: Textual amendment: [Reg. 32(3)](https://www.legislation.gov.uk/uksi/2011/2999/regulation/32/3) inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Investment Transactions (Tax) Regulations 2014 (S.I. 2014/685)](https://www.legislation.gov.uk/uksi/2014/685), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/685/regulation/1/1), [9(2)](https://www.legislation.gov.uk/uksi/2014/685/regulation/9/2)
+
+[^key-3bc5014622b1f4434228f60936db02ab]: Textual amendment: [Regs. 33-41](https://www.legislation.gov.uk/uksi/2011/2999/regulation/33) omitted (with effect in accordance with reg. 1(2) of the amending S.I.) by virtue of [The Investment Transactions (Tax) Regulations 2014 (S.I. 2014/685)](https://www.legislation.gov.uk/uksi/2014/685), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/685/regulation/1/1), [9(3)](https://www.legislation.gov.uk/uksi/2014/685/regulation/9/3)
+
+[^c21125951]: Marginal citation: [Regulation 12](https://www.legislation.gov.uk/uksi/2011/2999/regulation/12) was amended by [S.I. 2011/1121](https://www.legislation.gov.uk/uksi/2011/1121).
+
+[^key-75ad8caf8b8f7cc0a6fb8a5a48b13b07]: Textual amendment: Words in [reg. 45(3)(b)](https://www.legislation.gov.uk/uksi/2011/2999/regulation/45/3/b) substituted (31.12.2020) by [The Taxes (Amendments) (EU Exit) Regulations 2019 (S.I. 2019/689)](https://www.legislation.gov.uk/uksi/2019/689), [regs. 1](https://www.legislation.gov.uk/uksi/2019/689/regulation/1), [32(2)(a)](https://www.legislation.gov.uk/uksi/2019/689/regulation/32/2/a) (with [regs. 39-41](https://www.legislation.gov.uk/uksi/2019/689/regulation/39)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-3b4f717acce35a540a9088c52e8825e1]: Textual amendment: [Reg. 45(6)(a)](https://www.legislation.gov.uk/uksi/2011/2999/regulation/45/6/a) and word omitted (31.12.2020) by virtue of [The Taxes (Amendments) (EU Exit) Regulations 2019 (S.I. 2019/689)](https://www.legislation.gov.uk/uksi/2019/689), [regs. 1](https://www.legislation.gov.uk/uksi/2019/689/regulation/1), [32(2)(b)(i)](https://www.legislation.gov.uk/uksi/2019/689/regulation/32/2/b/i) (with [regs. 39-41](https://www.legislation.gov.uk/uksi/2019/689/regulation/39)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-f801b02ca112219c8fbbe7e6b62c5ee7]: Textual amendment: [Reg. 45(6)(b)](https://www.legislation.gov.uk/uksi/2011/2999/regulation/45/6/b) substituted (31.12.2020) by [The Taxes (Amendments) (EU Exit) Regulations 2019 (S.I. 2019/689)](https://www.legislation.gov.uk/uksi/2019/689), [regs. 1](https://www.legislation.gov.uk/uksi/2019/689/regulation/1), [32(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2019/689/regulation/32/2/b/ii) (with [regs. 39-41](https://www.legislation.gov.uk/uksi/2019/689/regulation/39)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-096da4c2721a54eea83ee4e0330a1acf]: Textual amendment: [Reg. 45(6)(b)(iii)](https://www.legislation.gov.uk/uksi/2011/2999/regulation/45/6/b/iii) substituted (31.12.2020) by [The Taxes (Amendments) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/818)](https://www.legislation.gov.uk/uksi/2019/818), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/818/regulation/1/3), [11(2)](https://www.legislation.gov.uk/uksi/2019/818/regulation/11/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c21125981]: Marginal citation: [Regulation 18](https://www.legislation.gov.uk/uksi/2011/2999/regulation/18) was amended by [S.I. 2010/294](https://www.legislation.gov.uk/uksi/2010/294), 2011/244 and 2011/2192.

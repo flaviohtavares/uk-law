@@ -1,0 +1,175 @@
+---
+title: The Police and Crime Commissioner Elections (Returning Officers’ Accounts) Regulations 2024
+id: uksi/2024/181
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2024-02-21'
+text_date: '2024-10-30'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2024/181
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2024/181/pdfs/uksiem_20240181_en_001.pdf
+- http://www.legislation.gov.uk/uksi/2024/181/pdfs/uksi_20240181_en.pdf
+- http://www.legislation.gov.uk/uksi/2024/181/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Police and Crime Commissioner Elections (Returning Officers’ Accounts) Regulations 2024
+
+> Text as at 2024-10-30.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2024 No. 181
+
+Police, England And Wales
+
+The Police and Crime Commissioner Elections (Returning Officers’ Accounts) Regulations 2024
+
+Made
+
+21st February 2024
+
+Laid before Parliament
+
+23rd February 2024
+
+Coming into force
+
+16th March 2024
+
+The Secretary of State makes these Regulations in exercise of the powers conferred by sections 55(10) and 154(5) of the Police Reform and Social Responsibility Act 2011[^f00001].
+
+## 1. Citation, commencement and extent[^key-9111763766159947036c067cf1a990c7]
+
+(1) These Regulations may be cited as the Police and Crime Commissioner Elections (Returning Officers’ Accounts) Regulations 2024 and come into force on 16th March 2024.
+
+(2) These Regulations extend to England and Wales.
+
+(3) These Regulations do not apply in relation to an election for which the date of poll, as specified in the notice of election published in accordance with rule 4 in Part 1 of Schedule 3 to the Police and Crime Commissioner Elections Order 2012[^f00002], is on or before 1st May 2024.
+
+## 2. Interpretation[^key-e3402cc77918e37d74919c18fa746345]
+
+In these Regulations—
+
+- “**the 2011 Act**” means the Police Reform and Social Responsibility Act 2011;
+- “**account**” means an account prepared by a returning officer[^f00003] for the purposes of section 55(6) of the 2011 Act and includes an account (or part of an account) prepared for that purpose in order to account for the use of an advance made under section 55(9) of the 2011 Act;
+- “**Accounting Officer**” means the accounting officer appointed under section 5(6) of the Government Resources and Accounts Act 2000[^f00004] for the Ministry of Housing, Communities and Local Government[^key-8a501809a7a89c92959879944b707531];
+- “**PCC election**” means an election of a police and crime commissioner in accordance with Chapter 6 of Part 1 of the 2011 Act.
+
+## 3. Submission of accounts[^key-d15b0182d358fa7175413736cc1f2fd4]
+
+An account must be addressed to the Accounting Officer and must be submitted by the returning officer electronically to the Elections Claims Unit through the website, or to the email address, notified by the Secretary of State.
+
+## 4. Time for submission of accounts[^key-92653cb979c92e1973c1368b8db09caf]
+
+(1) Subject to paragraphs (2) and (3), a complete account must be submitted in accordance with these Regulations by the returning officer within the period of 9 months commencing with the day of the declaration of the result of the PCC election to which the charges in the account relate.
+
+(2) If a returning officer is unable to submit an account within the period referred to in paragraph (1), that officer may, before the end of that period, apply to the Accounting Officer for an extension of time for the submission of the account.
+
+(3) If the Accounting Officer agrees to an extension of time for the submission of the account—
+
+- (a) the Accounting Officer must specify an extension period, for which the end of that period is no later than 3 months after the last day of the period specified in paragraph (1), and
+- (b) the returning officer must submit the account within that extension period.
+
+## 5. Declaration etc. to be submitted with an account[^key-bbdc8f8913391a7c0a19e20e9fa1bfa4]
+
+(1) An account submitted in accordance with regulations 3 and 4 must be accompanied by a declaration, signed by the returning officer, in the following terms—
+
+- “I declare that this account, submitted for the purposes of the payment of charges in respect of services necessarily rendered and expenses necessarily incurred for the efficient and effective conduct of this police and crime commissioner election in the area for which I am responsible, is correct to the best of my knowledge and belief.”.
+
+(2) If requested to do so by or on behalf of the Accounting Officer, the returning officer must submit supporting documentation relating to their account.
+
+## 6. Form of accounts[^key-f849c1f4f01f0ef7909fe6e1b8820150]
+
+(1) The form in which an account must be submitted must be such that the charges in respect of each of the specified services and specified expenses are shown separately.
+
+(2) For the purposes of paragraph (1), the specified services and specified expenses are those set out in an order made under section 55(1) of the 2011 Act in force at the time of the PCC election to which the charges in the account relate.
+
+## 7. Consequential amendments[^key-608331537fdff04eb90dd2d5eedb65ee]
+
+(1) In the Greater Manchester Combined Authority (Transfer of Police and Crime Commissioner Functions to the Mayor) Order 2017[^f00005], in Schedule 2 (exclusion of legislation from application to the combined authority mayor with policing and crime functions) omit paragraphs 26, 36 and 37.
+
+(2) In the West Yorkshire Combined Authority (Election of Mayor and Functions) Order 2021[^f00006], in Schedule 6 (exclusion of legislation from application to the combined authority mayor with policing and crime functions) omit paragraphs 26, 36 and 37.
+
+(3) In the York and North Yorkshire Combined Authority Order 2023[^f00007], in Schedule 6 (exclusion of legislation from application to the Combined Authority Mayor with policing and crime functions) omit paragraph 26.
+
+## 8. Revocations and savings[^key-62921eca16fc1e2000d1672643f28957]
+
+The following are revoked, save that they continue to have effect in respect of any election for which the date of poll, as specified in the notice of election published in accordance with rule 4 in Part 1 of Schedule 3 to the Police and Crime Commissioner Elections Order 2012, is on or before 1st May 2024—
+
+- (a) the Police and Crime Commissioner Elections (Returning Officers’ Accounts) Regulations 2012[^f00008];
+- (b) the Police and Crime Commissioner Elections (Returning Officers’ Accounts) (Amendment) Regulations 2016[^f00009];
+- (c) the Police and Crime Commissioner Elections (Returning Officers’ Accounts) (Amendment) Regulations 2021[^f00010].
+
+Signed by authority of the Secretary of State for Levelling Up, Housing and Communities
+
+Simon Hoare
+
+Parliamentary Under Secretary of State
+
+Department for Levelling Up, Housing and Communities
+
+21st February 2024
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations provide for the time when, and manner and form in which, accounts are to be submitted by returning officers for police and crime commissioner elections.
+
+Regulations 3 and 4 require the submission of an account within 9 months of the day on which the result of the police and crime commissioner election is declared.
+
+Regulations 5 and 6 make provision about the form in which the accounts are to be submitted and the declaration and supporting documents to be submitted with them.
+
+Regulation 7 makes amendments that are consequential to these Regulations.
+
+Regulation 8 revokes the Police and Crime Commissioner Elections (Returning Officers’ Accounts) Regulations 2012, the Police and Crime Commissioner Elections (Returning Officers’ Accounts) (Amendment) Regulations 2016 and the Police and Crime Commissioner Elections (Returning Officers’ Accounts) (Amendment) Regulations 2021.
+
+An impact assessment has not been prepared for this instrument as no impact on the private or voluntary sector is foreseen.
+
+## Annotations
+
+[^f00001]: Footnote: [2011 c. 13](https://www.legislation.gov.uk/ukpga/2011/13). Sections 55(10) and 154(5) were amended by [S.I. 2021/1265](https://www.legislation.gov.uk/uksi/2021/1265).
+
+[^key-9111763766159947036c067cf1a990c7]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2015/1503/regulation/1) in force at 16.3.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/181/regulation/1/1)
+
+[^f00002]: Footnote: [S.I. 2012/1917](https://www.legislation.gov.uk/uksi/2012/1917), to which there are amendments not relevant to these Regulations.
+
+[^key-e3402cc77918e37d74919c18fa746345]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2015/1503/regulation/1) in force at 16.3.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/181/regulation/1/1)
+
+[^f00003]: Footnote: “Returning officer” is defined in section 55(12) of the Police Reform and Social Responsibility Act 2011.
+
+[^f00004]: Footnote: [2000 c. 20](https://www.legislation.gov.uk/ukpga/2000/20).
+
+[^key-8a501809a7a89c92959879944b707531]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2024/181/regulation/2) substituted (30.10.2024) by [The Transfer of Functions (Secretary of State for Housing, Communities and Local Government) Order 2024 (S.I. 2024/991)](https://www.legislation.gov.uk/uksi/2024/991), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/991/article/1/2), [Sch. para. 28](https://www.legislation.gov.uk/uksi/2024/991/schedule/paragraph/28) (with [art. 7](https://www.legislation.gov.uk/uksi/2024/991/article/7))
+
+[^key-d15b0182d358fa7175413736cc1f2fd4]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2015/1503/regulation/1) in force at 16.3.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/181/regulation/1/1)
+
+[^key-92653cb979c92e1973c1368b8db09caf]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2015/1503/regulation/1) in force at 16.3.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/181/regulation/1/1)
+
+[^key-bbdc8f8913391a7c0a19e20e9fa1bfa4]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2015/1503/regulation/1) in force at 16.3.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/181/regulation/1/1)
+
+[^key-f849c1f4f01f0ef7909fe6e1b8820150]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2015/1503/regulation/1) in force at 16.3.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/181/regulation/1/1)
+
+[^key-608331537fdff04eb90dd2d5eedb65ee]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2015/1503/regulation/1) in force at 16.3.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/181/regulation/1/1)
+
+[^f00005]: Footnote: [S.I. 2017/470](https://www.legislation.gov.uk/uksi/2017/470), to which there are amendments not relevant to these Regulations.
+
+[^f00006]: Footnote: [S.I. 2021/112](https://www.legislation.gov.uk/uksi/2021/112), to which there are amendments not relevant to these Regulations.
+
+[^f00007]: Footnote: [S.I. 2023/1432](https://www.legislation.gov.uk/uksi/2023/1432).
+
+[^key-62921eca16fc1e2000d1672643f28957]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2015/1503/regulation/1) in force at 16.3.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/181/regulation/1/1)
+
+[^f00008]: Footnote: [S.I. 2012/2088](https://www.legislation.gov.uk/uksi/2012/2088), as amended by S.I.s [2016/488](https://www.legislation.gov.uk/uksi/2016/488), [2021/179](https://www.legislation.gov.uk/uksi/2021/179) and [2021/1265](https://www.legislation.gov.uk/uksi/2021/1265).
+
+[^f00009]: Footnote: [S.I. 2016/488](https://www.legislation.gov.uk/uksi/2016/488).
+
+[^f00010]: Footnote: [S.I. 2021/179](https://www.legislation.gov.uk/uksi/2021/179).

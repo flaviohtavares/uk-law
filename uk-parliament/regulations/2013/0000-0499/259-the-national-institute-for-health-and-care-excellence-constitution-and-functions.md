@@ -1,0 +1,885 @@
+---
+title: The National Institute for Health and Care Excellence (Constitution and Functions) and NHS England (Information Functions) Regulations 2013
+id: uksi/2013/259
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2013-02-11'
+text_date: '2026-03-24'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2013/259
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2013/259/pdfs/uksiem_20130259_en.pdf
+- http://www.legislation.gov.uk/uksi/2013/259/pdfs/uksi_20130259_en.pdf
+- http://www.legislation.gov.uk/uksi/2013/259/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The National Institute for Health and Care Excellence (Constitution and Functions) and NHS England (Information Functions) Regulations 2013
+
+> Text as at 2026-03-24.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2013 No. 259
+
+National Health Service, England
+
+The National Institute for Health and Care Excellence (Constitution and Functions) and NHS England (Information Functions)[^key-f3d990963a79446466e53d845aa8d062] Regulations 2013
+
+Made
+
+11th February 2013
+
+Laid before Parliament
+
+13th February 2013
+
+Coming into force
+
+1st April 2013
+
+The Secretary of State for Health makes the following Regulations in exercise of the powers conferred by sections 235(1) to (3), 237(1) to (3), (5)(b) and (c), and (7) to (9)[^f00001], 238, 239(1), (4) and (5), 240(1) to (3), 242, 268(1) and (2), 269(1), 274(1)(d) and (6) to (8), and 304(1), (9) and (10) of, and paragraph 8(2) of Schedule 16 to, the Health and Social Care Act 2012[^f00002]:
+
+## PART 1 — General
+
+### 1. Citation, commencement and interpretation[^key-ede7dc6ec4893cf6eb75e81fe1371396]
+
+(1) These Regulations may be cited as the National Institute for Health and Care Excellence (Constitution and Functions) and NHS England (Information Functions)[^key-a1776d0ede55e22cb04925cde110caf2] Regulations 2013.
+
+(2) These Regulations come into force on 1st April 2013.
+
+(3) In these Regulations—
+
+- “the Act” means the Health and Social Care Act 2012;
+- “the 2006 Act” means the National Health Service Act 2006[^f00003];
+- [^key-6e67b29935dd7a581ee526f01801c97c]...
+- “[^key-309cb4d63dc33834bd1553fda4b825ff]**NHS England**” means the body corporate established under section 1H of the 2006 Act;
+- “relevant date” means 1st April 2013.
+
+## PART 2 — The National Institute for Health and Care Excellence
+
+### 2. Interpretation of this Part[^key-f10ca47f7c2f2dcdf891ce2b639e7247]
+
+In this Part—
+
+- “carer” means an adult who provides or intends to provide care for another person;
+- [^key-ce10782333f9087f84afe35c7d9ebd13]...
+- “Directive [2001/83/EC](https://www.legislation.gov.uk/european/directive/2001/0083)” means Directive [2001/83/EC](https://www.legislation.gov.uk/european/directive/2001/0083) of the European Parliament and of the Council on the Community code relating to medicinal products for human use[^f00006];
+- “health technology” may include—
+  - (a) a medicinal product to which Directive [2001/83/EC](https://www.legislation.gov.uk/european/directive/2001/0083) applies[^f00007];
+  - (b) a medical device;
+  - (c) a diagnostic technique;
+  - (d) a surgical procedure or other therapeutic technique;
+  - (e) a therapeutic technology other than a medicinal product to which Directive [2001/83/EC](https://www.legislation.gov.uk/european/directive/2001/0083) applies, medical device, diagnostic technique or surgical procedure;
+  - (f) a system of care; or
+  - (g) a screening tool;
+- “highly specialised health technology” means a health technology intended for use in the provision of services for rare and very rare conditions provided for in regulations under section 3B(1)(d) of the 2006 Act[^f00008];
+- “highly specialised technology recommendation” means a recommendation made by NICE following an appraisal of the benefits and costs of a highly specialised health technology conducted by NICE in accordance with NICE’s published methods and processes for appraisal of highly specialised health technologies that results in a positive assessment;
+- “[^key-d7c92625be8b044634d68eaed510af3f]**integrated care board**” means an integrated care board established under Chapter A3 of Part 2 of the 2006 Act;
+- “the Institute” means the Special Health Authority known as the National Institute for Health and Clinical Excellence[^f00009];
+- “life sciences industry” includes the pharmaceutical, medical technology and medical biotechnology industries;
+- “NICE” means the National Institute for Health and Care Excellence established under section 232 of the Act;
+- “patient” means any person who is receiving treatment as part of the health service[^f00010] in England;
+- “technology appraisal recommendation” means a recommendation made by NICE following an appraisal of the benefits and costs of a health technology conducted by NICE in accordance with NICE’s published methods and processes for appraisal of health technologies that results in a positive assessment (but does not include a highly specialised technology recommendation);
+- “treatment” means an intervention that is intended to manage a person’s disease, condition or injury and includes prevention, examination and diagnosis.
+
+### 3. Procedures for conflicts of interests of members[^key-833d632e0671b1b08587e301c51583bd]
+
+(1) NICE must publish procedures for dealing with conflicts of interests of members of NICE or members of a committee or sub-committee of NICE.
+
+(2) The procedures must address conflicts or potential conflicts arising in connection with a pecuniary or other personal interest.
+
+(3) The procedures may provide amongst other things for—
+
+- (a) arrangements regarding the divestment, or declaration of, or disability in proceedings by reason of, a pecuniary or other personal interest; or
+- (b) the settlement of disputes regarding a pecuniary or other personal interest.
+
+### 4. Supply of quality standards to devolved authorities or other persons[^key-ef61ac98595e649ef0d0cfc9bb305863]
+
+(1) NICE may supply a quality standard[^f00011] to a devolved authority[^f00012] or other person (whether or not in the United Kingdom), and for that purpose NICE has power to make such adjustments to the quality standard as NICE considers appropriate.
+
+(2) Adjustments may, in particular, relate to—
+
+- (a) the organisation of health or social care services in the territory—
+  - (i) of the devolved authority, or
+  - (ii) in which the person exercises functions, undertakes activity or is established; or
+- (b) a language used in the territory of a devolved authority or by the person to whom a quality standard is supplied.
+
+(3) NICE may impose a charge for or in connection with the supply of a quality standard to a devolved authority or other person.
+
+(4) Subject to paragraph (5), a charge imposed pursuant to paragraph (3) may be calculated as NICE considers—
+
+- (a) appropriate to enable NICE to recover the cost of making an adjustment to the quality standard or supplying the quality standard; or
+- (b) to be the appropriate commercial basis.
+
+(5) NICE may impose a charge on a devolved authority under paragraph (3) only if the charge is calculated so as to enable NICE to recover no more than the cost of making an adjustment to the quality standard or supplying the quality standard.
+
+### 5. Advice, guidance, information and recommendations[^key-5c78a360cbddd597b33176382c65da35]
+
+(1) NICE has the functions of giving advice or guidance, providing information or making recommendations about any matter concerning or connected with the provision of—
+
+- (a) NHS services[^f00013],
+- (b) public health services[^f00014], or
+- (c) social care[^f00015] in England.
+
+(2) In the case of a function conferred under paragraph (1)(a), the function—
+
+- (a) is only exercisable on the direction of the Secretary of State or NHS England[^key-246561876676e242e24259b6912a9b90];
+- (b) is subject to directions given by the Secretary of State or (as the case may be) NHS England about NICE’s exercise of the function.
+
+(3) In the case of a function conferred under paragraph (1)(b) or (c), the function—
+
+- (a) is only exercisable on the direction of the Secretary of State;
+- (b) is subject to directions given by the Secretary of State about NICE’s exercise of the function.
+
+(4) NICE must establish procedures for the giving of advice or guidance, the provision of information or the making of recommendations as NICE considers appropriate.
+
+(5) NICE must consult such persons as it considers appropriate in establishing a procedure under paragraph (4).
+
+(6) NICE must publish or disseminate any advice or guidance it gives or information it provides or a recommendation it makes—
+
+- (a) to such health or social care bodies[^f00016] as NICE considers appropriate, and
+- (b) in such form and manner and at such time as NICE considers appropriate.
+
+(7) The Secretary of State must consult NHS England before giving a direction under paragraph (2).
+
+(8) The Secretary of State must not give a direction under paragraph (2)(b) or (3)(b) about the substance of advice, guidance or recommendations of NICE.
+
+(9) NHS England must not give a direction under paragraph (2)(b) about the substance of advice, guidance or recommendations of NICE.
+
+(10) NICE must keep under review and may revise as it considers appropriate any advice or guidance it gives, information it provides or recommendation it makes.
+
+(11) For the purposes of this regulation, a “recommendation” does not include a technology appraisal recommendation or a highly specialised technology [^key-bd36a2593b7c57044aa34f2b9f881c76]... recommendation.
+
+### 6. Charges for NICE advice, guidance, information or recommendations[^key-fe71f6f91d1a542e5fdc7ca2605f55f8]
+
+(1) NICE may impose a charge for or in connection with the giving of advice or guidance, provision of information or making of a recommendation in exercise of the functions conferred by regulation 5(1) on persons other than—
+
+- (a) the Secretary of State, or
+- (b) a person identified in a direction to NICE given by the Secretary of State under paragraph (2).
+
+(2) The Secretary of State may direct NICE in writing not to impose a charge in relation to—
+
+- (a) advice, guidance, information or a recommendation specified in the direction, or
+- (b) advice, guidance, information or a recommendation of a description specified in the direction.
+
+(3) Subject to paragraph (4), a charge imposed pursuant to paragraph (1) may be calculated as NICE considers—
+
+- (a) appropriate to enable NICE to recover the cost of providing the service; or
+- (b) to be the appropriate commercial basis.
+
+(4) NICE may impose a charge on a devolved authority under paragraph (1) only if the charge is calculated so as to enable NICE to recover no more than the cost of providing the service.
+
+(5)[^key-6315387fbdc631be89b5d7f6a81f5bee] Charges imposed by NICE under paragraph (1) are recoverable as a civil debt.
+
+(6) NICE must pay monies received by it by virtue of paragraph (1) to the Secretary of State except to the extent that the Secretary of State directs in writing that it may retain those monies.
+
+### 7. NICE technology appraisal recommendations[^key-72c0f022332b39baf80ded9bef931f5b]
+
+(1) NICE may make a technology appraisal recommendation—
+
+- (a) in relation to a health technology identified in a direction given by the Secretary of State;
+- (b) that recommends that relevant health bodies provide funding within a specified period to ensure that the health technology be made available for the purposes of treatment of patients.
+
+(1A)[^key-7341cec9fb47bdd2f4bbe599d2780c12] The Secretary of State may direct NICE as to the applicable cost-effectiveness threshold to apply to a health technology undergoing appraisal.
+
+(2) NICE must specify in a technology appraisal recommendation the period within which the recommendation in paragraph (1)(b) should be complied with.
+
+(3) The period in paragraph (2) must be a period that begins on the date the recommendation is published by NICE and ends on the date 3 months from that date, unless paragraph (4) applies.
+
+(4) In the circumstances described in paragraph (5), if NICE considers it appropriate, NICE must specify a longer period.
+
+(5) The circumstances referred to in paragraphs (4) and (11) are—
+
+- (a) the health technology cannot be appropriately administered until—
+  - (i) training is,
+  - (ii) certain health service infrastructure requirements including goods, materials or other facilities are, or
+  - (iii) other appropriate health services resources, including staff, are,
+
+  in place; or
+- (b) the health technology is not yet available in England.
+
+(6) A relevant health body must comply with a technology appraisal recommendation.
+
+(7) A relevant health body for the purposes of this regulation is—
+
+- (a) NHS England in the case of a technology appraisal recommendation that applies to the exercise of NHS England's s functions of arranging for the provision of services for the purposes of the health service in England[^f00017], in particular—
+  - (i) its functions under sections 4 (high security psychiatric services)[^f00018], 83 (primary medical services)[^f00019], 99 (primary dental services)[^f00020], 115 (primary ophthalmic services)[^f00021], and 126 (arrangements for pharmaceutical services)[^f00022] of the 2006 Act;
+  - (ii) its functions under regulations under section 3B(1) of that Act (Secretary of State’s power to require NHS England to commission services)[^f00023];
+  - (iii) functions exercisable by NHS England pursuant to arrangements under section 7A of that Act (exercise of Secretary of State’s public health functions)[^f00024]; and
+  - (iv) its functions by virtue of regulations under section 117(2E) of the Mental Health Act 1983 (after-care)[^f00025];
+- (b) a CCG in the case of a technology appraisal recommendation that applies to the exercise of the CCG’s functions of arranging for the provision of services for the purposes of the health service in England[^f00026], in particular—
+  - (i) its functions under sections 3 (duties of integrated care boards[^key-90d8a6c408c9ac36425a5bd63e14b95f] as to commissioning certain health services)[^f00027] and 3A (power of integrated care boards to commission certain health services)[^f00028] of, and paragraph 9 of Schedule 1 (provision of vehicles for disabled persons)[^f00029] to, the 2006 Act;
+  - (ii) functions exercisable by a CCG pursuant to arrangements under section 7A of that Act[^f00030];
+  - (iii) its functions under section 117(2), or by virtue of regulations under section 117(2E), of the Mental Health Act 1983[^f00031]; or
+- (c) a local authority in the case of a technology appraisal recommendation that applies to the provision of public health services which the local authority must arrange—
+  - (i) for the purpose of the exercise of its functions under or by virtue of section 2B (functions of local authorities and Secretary of State as to improvement of public health)[^f00032], 6C(1) or (3) (regulations as to the exercise by local authorities of certain public health functions)[^f00033] and 111 (dental public health)[^f00034] of, and Schedule 1 (further provision about the Secretary of State and services under this Act)[^f00035] to, the 2006 Act; or
+  - (ii) in pursuance of arrangements under section 7A of that Act.
+
+(8) The duty of a relevant health body in paragraph (6) must be taken to require that—
+
+- (a) where NHS England is a relevant health body, NHS England must apply such amounts of the sums paid to it under section 223B(1) of the 2006 Act (funding of NHS England)[^f00036] as may be required to enable NHS England to comply with the recommendation;
+- (b) where a CCG is a relevant health body, the CCG must apply such amounts of the sums paid to it under section 223G(1) of the 2006 Act (means of meeting expenditure of integrated care boards out of public funds)[^f00037] as may be required to enable the CCG to comply with the recommendation; or
+- (c) where a local authority is a relevant health body, the local authority must apply such amounts of the sums paid to it under section 31 of the Local Government Act 2003[^f00038] (power to pay grant) for the purpose of funding the performance of its functions under section 2B or 111 of, or paragraphs 1 to 7B or 13 of Schedule 1 to, that Act, as may be required to enable the local authority to comply with the recommendation.
+
+(9) Subject to paragraph (9A),[^key-2c14a60b326679fb2c73246c803fdf61] NICE must establish a procedure for the appraisal of health technologies, and must consult such persons as it considers appropriate in establishing the procedure.
+
+(9A)[^key-92ad954e9a44be4dacced5213a4e6f12] The obligation to consult does not apply to a change to procedures that are necessary to give effect to a direction given by the Secretary of State made under paragraph (1A).
+
+(10) The procedure must include arrangements for NICE to consult such persons with an interest in the appraisal of a health technology that is the subject of a direction referred to in paragraph (1)(a) as it considers appropriate.
+
+(11) In the circumstances described in paragraph (5)—
+
+- (a) pursuant to paragraph (4), the consultation referred to in paragraph (10) must include consultation about the appropriate period that may be specified in a technology appraisal recommendation; and
+- (b) the Secretary of State and NHS England must be consulted as to the appropriate period.
+
+(12) NICE must publish a technology appraisal recommendation in such form and manner and at such time as NICE considers appropriate.
+
+(13) NICE must keep under review and may revise as it considers appropriate a technology appraisal recommendation.
+
+(14) The Secretary of State must not give a direction under paragraph (1)(a) about the substance of a technology appraisal recommendation.
+
+(15)[^key-702a7a342c7b84257b3d01db15c44ea9] In this regulation and regulation 8—
+
+- “**cost-effectiveness threshold**” means the value, whether expressed as a single figure or a range, against which NICE evaluates the cost-effectiveness or value for money of a health technology or highly specialised health technology.
+
+### 8. NICE highly specialised technology recommendations[^key-81af215ae67420fad3e507302d0d99db]
+
+(1) NICE may make a highly specialised technology recommendation—
+
+- (a) in relation to a highly specialised health technology identified in a direction given by the Secretary of State;
+- (b) that recommends that NHS England, in the exercise of NHS England's function to arrange for the provision as part of the health service of services specified in regulations made under section 3B of the 2006 Act[^f00039], provide funding within a specified period to ensure that the highly specialised health technology can be made available for the purposes of treatment of patients.
+
+(1A)[^key-571a0447230915c20d25365593c977cc] The Secretary of State may direct NICE as to the applicable cost-effectiveness threshold to apply to a highly specialised health technology undergoing appraisal.
+
+(2) NICE must specify in a highly specialised technology recommendation the period within which NHS England must comply with the recommendation in paragraph (1)(b).
+
+(3) The period in paragraph (2) must be a period that begins on the date the recommendation is published by NICE and ends on a date 3 months from that date, unless paragraph (4) applies.
+
+(4) In the circumstances described in paragraph (5), if NICE considers it appropriate, NICE must specify a longer period.
+
+(5) The circumstances referred to in paragraphs (4) and (10) are—
+
+- (a) the highly specialised health technology cannot be appropriately administered until—
+  - (i) training is,
+  - (ii) certain health services infrastructure requirements including goods, materials or other facilities are, or
+  - (iii) other appropriate health services resources, including staff, are,
+
+  in place; or
+- (b) the highly specialised health technology is not yet available in England.
+
+(6) NHS England must comply with a highly specialised technology recommendation.
+
+(7) The duty of NHS England in paragraph (6) must be taken to require that NHS England apply such amounts of the sums paid to it under section 223B(1) of the 2006 Act as may be required to enable NHS England to comply with the paragraph (1)(b) recommendation.
+
+(8) Subject to paragraph (8A),[^key-8fd1bd43f7c1462ab19de9edbf036beb] NICE must establish a procedure for the appraisal of highly specialised health technologies, and must consult such persons as it considers appropriate in establishing the procedure.
+
+(8A)[^key-feace8199147451bba61495f3f2133c7] The obligation to consult does not apply to a change to procedures necessary to give effect to a direction given by the Secretary of State made under paragraph (1A).
+
+(9) The procedure must include arrangements—
+
+- (a) for NICE to consult such persons with an interest in the appraisal of a highly specialised health technology that is the subject of a direction referred to in paragraph (1)(a) as it considers appropriate; and
+- (b) for NHS England to be consulted as such a person.
+
+(10) In the circumstances described in paragraph (5)—
+
+- (a) pursuant to paragraph (4), the consultation referred to in paragraph (9)(a) must include consultation about the appropriate period that may be specified in a highly specialised technology recommendation; and
+- (b) the Secretary of State and NHS England must be consulted as to the appropriate period.
+
+(11) NICE must publish a highly specialised technology recommendation in such form and manner and at such time as NICE considers appropriate.
+
+(12) NICE must keep under review and may revise as it considers appropriate a highly specialised technology recommendation.
+
+(13) The Secretary of State must not give a direction under paragraph (1)(a) about the substance of a highly specialised technology recommendation.
+
+### 8A. Charges relating to technology appraisal recommendations and highly specialised technology recommendations[^key-bf3c6a5d10c2cd8137093221cc88a7b0]
+
+(1) NICE may impose a charge for or in connection with the making of a technology appraisal recommendation or a highly specialised technology recommendation on persons other than—
+
+- (a) the Secretary of State;
+- (b) a person identified in a direction to NICE given by the Secretary of State under paragraph (2).
+
+(2) The Secretary of State may direct NICE in writing not to impose a charge under paragraph (1) in relation to—
+
+- (a) a recommendation specified in the direction; or
+- (b) a recommendation of a description specified in the direction.
+
+(3) A charge imposed under paragraph (1) must be calculated to enable NICE to recover the cost of making the recommendation from the payee except—
+
+- (a) where paragraph (4) applies; or
+- (b) in any other case or classes of case in respect of which the Secretary of State directs in writing that the charge be calculated on the basis NICE considers to be the appropriate commercial basis.
+
+(4) This paragraph applies where the charge under paragraph (1) is imposed on a payee which is a small company.
+
+(5) Where paragraph (4) applies, a charge imposed under paragraph (1) may be calculated on the basis NICE considers to be the appropriate commercial basis.
+
+(6) For the purposes of paragraph (4), a payee is a small company if, for the relevant financial year, at least two of the conditions in paragraph (7) are met.
+
+(7) Those conditions are—
+
+- (a) the turnover of the company in the relevant financial year is not more than the amount for the time being specified in item 1 in section 382(3) (qualification of company as small) of the Companies Act 2006;
+- (b) the company’s balance sheet total (as defined in section 382(5) of that Act) in the relevant financial year is not more than the amount for the time being specified in item 2 in section 382(3) of that Act;
+- (c) the average number of persons employed by the company in the relevant financial year (determined in accordance with section 382(6) of that Act) does not exceed the number for the time being specified in item 3 in section 382(3) of that Act.
+
+(8) If the payee has not paid a charge imposed by virtue of paragraph (1), NICE may refuse to make the recommendation.
+
+(9) The person referred to in this regulation and regulations 8B and 8D as “the payee” is the person identified by NICE as the person who, for the purposes of section 237(5)(a) of the Act, is the person requesting the recommendation (for example, the manufacturer or sponsor of a product being appraised).
+
+(10) In paragraphs (6) and (7), “relevant financial year” means—
+
+- (a) if the charge is imposed in the company’s first financial year, that financial year; or
+- (b) in any other case, the financial year for the company before that in which the charge is imposed.
+
+(11) In this regulation, “financial year”, in relation to a company, means the company’s financial year as determined in accordance with section 390 of the Companies Act 2006 (company’s financial year).
+
+### 8B. Time for payment
+
+(1) Subject to paragraph (2), a charge imposed under regulation 8A(1) must be paid at the time NICE requests payment of the charge.
+
+(2) Where the payee is a small company for the purposes of regulation 8A(6), the payee may request in writing for that charge to be paid in instalments.
+
+### 8C. Policies and procedures relating to charges
+
+(1) NICE must establish policies and procedures relating to the imposition of charges under regulation 8A(1).
+
+(2) NICE must keep the policies and procedures referred to in paragraph (1) under review and may revise them as it considers appropriate.
+
+(3) Before revising the policies and procedures by virtue of paragraph (2), NICE must consult the Secretary of State and such other persons as it considers appropriate.
+
+### 8D. Refunds
+
+(1) NICE must, subject to paragraph (2), refund to the payee any charge imposed under regulation 8A(1) in any case where NICE is unable to proceed with the making of the recommendation.
+
+(2) The amount to be refunded under paragraph (1) may be reduced to take account of NICE’s costs incurred in dealing with the proposed recommendation.
+
+### 8E. Recovery
+
+Charges imposed by NICE under regulation 8A(1) are recoverable as a civil debt.
+
+### 8F. Payment of monies received
+
+NICE must pay monies received by it by virtue of regulation 8A(1) to the Secretary of State except to the extent that the Secretary of State directs in writing that it may retain those monies.
+
+### 9. NICE recommendations: appeals[^key-5c8c67a893eb44f7d8b71bddcf0ca4eb]
+
+(1) A person aggrieved by a recommendation described in paragraph (2) may bring an appeal against the recommendation on grounds described in paragraph (3).
+
+(2) A recommendation against which an appeal may be brought is—
+
+- (a) a technology appraisal recommendation, or
+- (b) a highly specialised technology recommendation.
+
+(3) The grounds on which an appeal may be brought are that—
+
+- (a) in making the assessment that preceded the recommendation, NICE—
+  - (i) failed to act fairly, or
+  - (ii) exceeded its powers; or
+- (b) the recommendation is unreasonable in the light of the evidence submitted to NICE.
+
+### 10. NICE recommendations: appeal panel[^key-108e99ab2804f0ee92faa01984a75265]
+
+(1) The appeal panel by which an appeal brought under regulation 9 is to be heard must—
+
+- (a) consist of members appointed by NICE whose appointment has been agreed by the Secretary of State;
+- (b) contain a majority of members who are not members or employees of NICE; and
+- (c) include—
+  - (i) a member who has experience in the life sciences industry;
+  - (ii) a member who is a patient or carer or member of an organisation that represents patients or carers; and
+  - (iii) a member who is engaged in the provision of health care[^f00040] in the UK health services[^key-e68d32d27f9adc0be4c2aed481892fdb].
+
+(2) A chair of the appeal panel must be appointed by NICE—
+
+- (a) from amongst the members who are not members or employees of NICE; and
+- (b) only if the appointment as a chair has been agreed by the Secretary of State.
+
+(3)[^key-f614e33f6d25c26e08b9c9e1db6722bd] In this regulation, “UK health services” means services which must or may be provided as part of—
+
+- (a) the health service continued under section 1(1) of the National Health Service Act 2006;
+- (b) the health care provided by virtue of Health and Social Care (Reform) Act (Northern Ireland) (2009);
+- (c) the health service within the meaning of the National Health Service (Scotland) Act 1978; or
+- (d) the health service continued under section 1(1) of the National Health Service (Wales) Act 2006.
+
+### 11. Arrangements for holding appeals[^key-d6761e848346e9a93ccdf61951f4b004]
+
+(1) NICE must make arrangements for the holding of appeals.
+
+(2) The arrangements must include procedures for dealing with conflicts of interests or potential conflicts of interests of members or potential members of an appeal panel.
+
+### 12. Training[^key-1a8a074b7806e33d152038aa83b8d334]
+
+(1) NICE has the function of providing, or facilitating the provision of, training in connection with any matter concerning or connected with the provision of—
+
+- (a) NHS services;
+- (b) public health services; or
+- (c) social care in England.
+
+(2) NICE has power to impose a charge for or in connection with the provision, or the facilitation of the provision, of training.
+
+(3) A charge imposed pursuant to paragraph (2) may be calculated as NICE considers—
+
+- (a) appropriate to enable NICE to recover the cost of providing the service; or
+- (b) to be the appropriate commercial basis.
+
+### 13. Advisory services[^key-41e12cd4dd186e6f39ee17784167ee2f]
+
+(1) NICE may give advice to persons (whether or not in the United Kingdom) in relation to any matter concerning or connected with—
+
+- (a) the provision of health care;
+- (b) the protection or improvement of public health; or
+- (c) the provision of social care.
+
+(2) The persons mentioned in paragraph (1) include—
+
+- (a) persons concerned or connected with the life sciences industry;
+- (b) persons otherwise concerned or connected with a health technology or a highly specialised health technology;
+- (c) a devolved authority;
+- (d) a foreign government; or
+- (e) an international body or organisation.
+
+(3) NICE may impose a charge for or in connection with the giving of advice pursuant to paragraph (1).
+
+(4) NICE must calculate a charge imposed on a devolved authority so as to enable NICE to recover no more than the cost of providing the advice.
+
+(5) NICE may calculate a charge imposed on any other person on the basis NICE considers to be the appropriate commercial basis.
+
+### 14. NICE’s charter[^key-2a875358a39c7300db4d2f56afb9561f]
+
+(1) NICE must publish the charter[^f00041] before 1st July 2013.
+
+(2) NICE may include in the charter such information as it considers appropriate but must include information on—
+
+- (a) the procedures it establishes for carrying out its functions; and
+- (b) the consultation it undertakes in the establishment of its procedures and in the carrying out of its functions.
+
+(3) NICE may revise the charter when it considers it appropriate to do so but must review the charter to consider whether it should be revised at least once in any review period.
+
+(4) A review period referred to in paragraph (3) is—
+
+- (a) the period of 3 years beginning with the day on which the charter is published, and
+- (b) each subsequent period of 3 years.
+
+### 15. Transitional provision – directions: recommendations, guidelines and information[^key-9308738acd1bd6f4022731d3e5c4baf0]
+
+(1) Paragraph (3) applies where, before the relevant date, the Institute, in connection with the promotion of clinical excellence and the effective use of available resources in the health service, has been directed by the Secretary of State[^f00042] to—
+
+- (a) develop guidelines providing advice on good practice in the management of such diseases and conditions as may be notified by the Secretary of State;
+- (b) provide such information on the implementation of the Institute’s recommendations and guidelines to persons employed in activities connected with the health service as may be conducive to their efficiency in relation to that employment;
+- (c) include in its recommendations and guidelines guidance on clinical audit criteria;
+- (d) disseminate through an appropriate range of media its recommendations and guidelines to the health service and general public;
+- (e) look into and consider, for the purpose of advising the Secretary of State with regard to possible improvements in the provision of health services and in the effective use of available resources, such matters as were notified to it by the Secretary of State;
+- (f) consider all interventional procedures notified to it;
+- (g) identify any interventional procedure notified to it for which an assessment by the Institute as to whether it is safe and efficacious for use in the health service is unnecessary;
+- (h) identify any interventional procedure notified to it otherwise than by the Secretary of State for which a comprehensive review of the evidence is required to enable the Institute to evaluate the procedure for the purposes of its recommendations or guidelines; and to evaluate its safety and efficacy for the purposes of use in the health service, and issue guidance to the health service on the use of the procedure;
+- (i) assess the extent to which any interventional procedure notified to the Institute, other than one for which an assessment by the Institute is unnecessary, is safe and efficacious for use in the health service, and issue guidance to the health service on the use of the procedure;
+- (j) subject to the approval of the Secretary of State, consider, and, as appropriate, endorse guidance prepared by other bodies concerning the clinical benefits of health care interventions[^f00043] and good practice in the management of diseases and other conditions affecting health; or
+- (k) exercise any similar function of the Secretary of State relating to the health service, other than a function referred to in paragraph (3) or regulations 16 to 23.
+
+(2) Paragraph (3) applies where, before the relevant date, the Institute, in connection with the promotion of excellence in public health provision and promotion and the effective use of resources available in the health service and other available public funds, has been directed by the Secretary of State[^f00044] to—
+
+- (a) develop, maintain and disseminate an evidence-base for effective public health action on health improvement and the reduction of inequalities in health;
+- (b) provide guidance on the development and setting of standards for public health and health promotion programmes and practice and support their implementation;
+- (c) provide guidance on the means for improving the capability and capacity of organisations, systems and the wider public health workforce to deliver health improvement and reduce inequalities in health; or
+- (d) disseminate through an appropriate range of media, the guidance described in sub-paragraphs (b) and (c).
+
+(3) Where this paragraph applies, on and after the relevant date, NICE must treat the direction as if the direction had been given by the Secretary of State—
+
+- (a) in the case of a matter concerning or connected with the provision of NHS services, under regulation 5(2); or
+- (b) in the case of a matter concerning or connected with the provision of public health services, under regulation 5(3).
+
+### 16. Transitional provision – directions: technology appraisal guidance[^key-51d8b0447e416ce578207b256e286dab]
+
+(1) Where, before the relevant date, the Institute, in connection with the promotion of clinical excellence and the effective use of available resources in the health service, has been directed by the Secretary of State to appraise the clinical benefits and costs of such health care interventions as may have been notified by the Secretary of State, and to make recommendations[^f00045], paragraph (2) applies.
+
+(2) Where this paragraph applies, on and after the relevant date, NICE must treat the direction as a direction given by the Secretary of State under regulation 7(1)(a).
+
+### 17. Transitional provision – Appeal Panels[^key-6d884d33bffa39c141e851a48901115b]
+
+(1) Where the Institute has made arrangements for an appeal, on the application of a person aggrieved by a recommendation made by the Institute on the grounds that the Institute—
+
+- (a) failed to act fairly,
+- (b) exceeded its powers, or
+- (c) formulated guidance which cannot reasonably be justified in the light of the evidence submitted[^f00046],
+
+but has not determined the application before the relevant date, paragraph (2) applies.
+
+(2) Where this paragraph applies, on and after the relevant date—
+
+- (a) any Appeal Panel that has been appointed by the Institute to determine the application of a person aggrieved is to be treated as an appeal panel constituted in accordance with regulation 10; and
+- (b) NICE must make arrangements in accordance with regulation 11 for the determination of the application.
+
+### 18. Transitional provision – directions: instruction[^key-dceaa864db29c6be23dabd2b467d9d10]
+
+(1) Where, before the relevant date, the Institute has been directed to provide the instruction described in paragraphs (2) and (3), on and after the relevant date, NICE must provide the instruction as if it were training that NICE has the function of providing or facilitating the provision of under regulation 12(1)(a).
+
+(2) The instruction referred to in paragraph (1) is the provision by the Institute of education, training and development to support the safe and effective use of medicines[^f00047].
+
+(3) The education, training and development referred to in paragraph (2) includes—
+
+- (a) instruction on the implementation of the Institute’s recommendations and guidelines to persons employed in activities connected with the health service;
+- (b) supporting the implementation of good practice guidance;
+- (c) developing educational resources and materials; and
+- (d) organising and delivering a national education and training event programme.
+
+(4) Regulation 12(2) and (3) does not apply in the case of training provided pursuant to paragraph (1).
+
+### 19. Transitional provision – procedures: recommendations, guidelines, information or instruction[^key-18eac93063c1ebcd9b2401293eb3d7c6]
+
+(1) Anything done by the Institute before the relevant date, in pursuance of a direction given by the Secretary of State described in regulation 15(1) or (2), is to be treated, on and after the relevant date, as having been done by NICE in pursuance of a direction given by the Secretary of State—
+
+- (a) in the case of a matter concerning or connected with the provision of NHS services, under regulation 5(2); or
+- (b) in the case of a matter concerning or connected with the provision of public health services, under regulation 5(3).
+
+(2) A procedure established or published by the Institute for the giving of advice or guidance, the provision of information or the making of recommendations by the Institute before the relevant date, is to be treated, on and after the relevant date, as if it were a procedure established or published by NICE in accordance with regulation 5(4).
+
+(3) Consultation with any person undertaken by the Institute for the establishment of a procedure for the giving of advice or guidance, the provision of information or the making of recommendations before the relevant date, is to be treated, on and after the relevant date, as if it were consultation for the establishment of a procedure carried out by NICE in accordance with regulation 5(5).
+
+(4) The publication or dissemination by the Institute of advice, guidance, information or recommendations given, provided or made by the Institute, including through its website under the title, “NHS Evidence”[^f00048], before the relevant date, is to be treated, on and after the relevant date, as publication or dissemination by NICE in accordance with regulation 5(6).
+
+(5) In this regulation, “recommendations” does not include a recommendation made by the Institute in relation to a health care intervention in a Technology Appraisal Guidance issued by the Institute as described in regulation 20(1).
+
+### 20. Transitional provision – procedures: health care interventions[^key-4f247e0bc3141625417996e479574426]
+
+(1) A recommendation made by the Institute in relation to a health care intervention in a Technology Appraisal Guidance issued by the Institute before the relevant date, is to be treated, on and after the relevant date, as if it were a technology appraisal recommendation made by NICE pursuant to regulation 7(1).
+
+(2) A procedure for the appraisal by the Institute of the clinical benefits and costs of a health care intervention, in connection with the promotion of clinical excellence and the effective use of available resources in the health service, established by the Institute before the relevant date, is to be treated, on and after the relevant date, as a procedure for the appraisal of a health technology pursuant to regulation 7(9).
+
+(3) Anything done by the Institute by way of appraisal of the clinical benefits and costs of a health care intervention, in connection with the promotion of clinical excellence and the effective use of available resources in the health service, before the relevant date, is to be treated, on and after the relevant date, as done in accordance with a procedure established by NICE pursuant to regulation 7(9).
+
+(4) Consultation undertaken by the Institute for the appraisal by the Institute of the clinical benefits and costs of a health care intervention, in connection with the promotion of clinical excellence and the effective use of available resources in the health service, before the relevant date, is to be treated, on and after the relevant date, as consultation undertaken by NICE in accordance with arrangements included in the procedure established pursuant to regulation 7(9) as set out in regulation 7(10).
+
+(5) The issuance by the Institute of a Technology Appraisal Guidance to the health service on the use of a health care intervention before the relevant date, is to be treated, on and after the relevant date, as publication of a technology appraisal recommendation by NICE in accordance with regulation 7(12).
+
+### 21. Transitional provision – appeal arrangements[^key-35172e5c3f5687a187f33160b99c3430]
+
+Arrangements for holding appeals made by the Institute before the relevant date, are to be treated, on and after the relevant date, as arrangements for the holding of appeals made pursuant to regulation 11.
+
+### 22. Transitional provision – procedures: instruction[^key-74f6ae4dccb42c1d1a35690a76d2b080]
+
+Anything done by the Institute before the relevant date, in pursuance of a direction given by the Secretary of State referred to in regulation 18(1), is to be treated, on and after the relevant date, as having been done by NICE under regulation 12(1)(a), but regulation 12(2) and (3) does not apply in the case of training provided pursuant to regulation 18(1).
+
+### 23. Transitional provision - charter[^key-4c5a47909e51d8e73252cfd3dca7f088]
+
+Preparation of a charter by the Institute before the relevant date, is to be treated, on and after the relevant date, as if it were preparation by NICE for the purposes of publishing the charter pursuant to regulation 14(1).
+
+## PART 3 — NHS England[^key-080b6d5f7df6482160b2ceb15fcdb8c8]
+
+### 24. Interpretation[^key-1554c75552d146baa0045a14c015c59e]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 25. Database of quality indicators[^key-1554c75552d146baa0045a14c015c59e]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 26. Application for a quality indicator to be included in the library[^key-1554c75552d146baa0045a14c015c59e]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 27. Assessment of an application for a quality indicator to be included in the library[^key-1554c75552d146baa0045a14c015c59e]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 28. Publication following assessment[^key-1554c75552d146baa0045a14c015c59e]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 29. Publication in the library[^key-1554c75552d146baa0045a14c015c59e]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 30. Review and revision of a quality indicator[^key-1554c75552d146baa0045a14c015c59e]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 31. Identification of GPs[^key-9ed05d690992dc1902759604d7d804fa]
+
+(1) NHS England must, if it considers it appropriate to do so, assign a prescribing number in respect of a general medical practitioner whose name is included in a medical performers list.
+
+(2) Before assigning a prescribing number under paragraph (1), NHS England must carry out checks to verify the identity of the practitioner.
+
+(3) The checks may include—
+
+- (a) the full name of the practitioner; and
+- (b) the reference number shown against the name of the general medical practitioner in the General Practitioner Register kept by the General Medical Council.
+
+(4) In this regulation—
+
+- “**medical performers list**” means a list of medical practitioners maintained by NHS England in accordance with regulations made under section 91 of the 2006 Act;
+- “**prescribing number**” means the individual number issued by NHS England in accordance with this regulation and used in connection with—
+  - (a) prescribing by a general medical practitioner,
+  - (b) the management and monitoring of such prescribing, and
+  - (c) other purposes connected with the health services in England;
+
+### 32. Powers of Secretary of State ... to give directions[^key-bbc3134a21638a9d785e083c66e10275][^key-cce42d14056eb19edae3a29aad3b95fc]
+
+(1) The Secretary of State [^key-43cfc9dd8841f08afbca53a9a4acb751]... may give directions to NHS England[^key-bb8af95b7a171ae37128caa48e1b5870] requiring it[^key-515f7057fcd8dfb5fb49ca4468da2814] to exercise such systems delivery functions of the Secretary of State [^key-aedbe9f1d43bffdad881b1a320390369]... as may be specified in the direction.
+
+(2)[^key-5ff5a7c5034b33afc7013f36e89502b7] The giving of a direction under paragraph (1) may include provision about payments by the Secretary of State to NHS England for things done in the exercise of the function in respect of which the direction is given.
+
+(3) The giving of a direction under paragraph (1) does not prevent the Secretary of State [^key-ef9bf2ba06b37930c5228d9a36b99581]... from exercising the function in respect of which the direction is given.
+
+### 33. Transitional provision – the Information Centre[^key-74fc1aa0338ee187439d15be72d2426b]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Signed by authority of the Secretary of State for Health.
+
+Earl Howe
+
+Parliamentary Under-Secretary of State,
+
+Department of Health
+
+11th February 2013
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations make provision in relation to the National Institute for Health and Care Excellence (“NICE”) (established under Part 8 of the Health and Social Care Act [2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7) (“the Act”)) and the Health and Social Care Information Centre (“the Information Centre”) (established under Chapter 2 of Part 9 of the Act).
+
+Part 2 makes provision in relation to NICE, which is established by section 232 of the Act.
+
+Regulation 3 provides for procedures for conflicts of interests of members of NICE.
+
+Section 234 of the Act (quality standards) enables the Secretary of State or the National Health Service Commissioning Board (“the Board”) to direct NICE to prepare a quality standard. Regulation 4 confers powers on NICE for the supply of a quality standard to a devolved authority or other person and to make adjustments to, and impose a charge in connection with, such supply.
+
+Regulation 5 confers functions on NICE in relation to the giving of advice or guidance, provision of information or making of recommendations about any matter concerning or connected with the provision of NHS services (exercisable only on the direction of the Secretary of State or the Board), or public health services or social care in England (exercisable only on the direction of the Secretary of State). The Secretary of State or the Board may give directions about the exercise of a function (regulation 5(2)(b) and, in the case of the Secretary of State, (3)(b)), but must not give a direction about the substance of advice, guidance, or a recommendation (regulation 5(8) and (9)).
+
+Regulation 6 provides powers for NICE to be able to impose a charge for or in connection with the functions conferred by regulation 5, other than on the Secretary of State or a person identified in a direction of the Secretary of State.
+
+Regulation 7 makes provision for NICE to make a technology appraisal recommendation, in relation to a health technology identified in a direction of the Secretary of State, that recommends that the Board, a clinical commissioning group or a local authority arranging for the provision of services for the purposes of the health service, provide funding to ensure that the health technology can be made available for the purposes of treatment of patients. The NICE technology appraisal recommendation must be complied with normally within 3 months of publication of the recommendation (regulation 7(3)).
+
+Regulation 8 makes provision for NICE to make a highly specialised technology recommendation in relation to a highly specialised health technology identified in a direction of the Secretary of State, that recommends that the Board provide funding to ensure that the highly specialised technology can be made available for the purposes of treatment of patients, normally within 3 months of publication of the highly specialised technology recommendation.
+
+Regulations 9 to 11 make provision for appeals against a technology appraisal recommendation or a highly specialised technology recommendation.
+
+Regulation 12 confers functions on NICE in relation to the provision of training in connection with the provision of NHS services, public health services or social care in England.
+
+Regulation 13 provides for NICE to be able to give advice to persons (whether or not in the United Kingdom) on any matter concerning or connected with the provision of health care or social care or the protection or improvement of public health, and to impose a charge for or in connection with the giving of the advice.
+
+Regulation 14 makes provision in relation to NICE’s charter.
+
+Regulations 15 to 23 make transitional provision for the continuation of work in progress, or procedures being undertaken, by NICE’s predecessor, the Special Health Authority, the National Institute for Health and Clinical Excellence, immediately before 1st April 2013.
+
+Part 3 provides for functions of the Information Centre, established by section 252 of the Act.
+
+Regulations 25 to 30 provide for the establishment of a database of quality indicators in relation to the provision of health services and adult social care in England. A quality indicator is defined in section 268(3) of the Act to mean a factor by reference to which performance in the provision of services or care can be measured. The database is to consist of a repository of applications for a quality indicator and related information (regulation 25(2)(a)) and a library of assured quality indicators (regulation 25(2)(b)).
+
+Regulation 31 provides for the Information Centre to have functions in relation to the assignment of a prescribing number to a general medical practitioner.
+
+Regulation 32 confers systems delivery functions on the Information Centre that are exercisable on the direction of the Secretary of State or the Board. The giving of a direction does not prevent the Secretary of State or the Board from exercising the function in respect of which the direction is given (regulation 32(3)).
+
+Regulation 33 makes transitional provision for the continuation of procedures being undertaken in relation to a quality indicator or prescribing number by the predecessor Special Health Authority, the Health and Social Care Information Centre, immediately before 1st April 2013.
+
+A full impact assessment has been produced in relation to the provisions of the Act, and a copy is available at www.dh.gov.uk/en/Publicationsandstatistics/Publications/PublicationsLegislation/DH\_123583. Pages 126 and 127 of Annex E to the assessment contains information relevant to the establishment of NICE and pages 136 and 137 contain information relevant to the establishment of the Information Centre. No separate impact assessment has been produced in relation to Parts 2 or 3 of these Regulations as the Parts have no impact on the private sector or civil society organisations.
+
+## Annotations
+
+[^key-f3d990963a79446466e53d845aa8d062]: Textual amendment: Title substituted (1.2.2023) by [The Health and Social Care Information Centre (Transfer of Functions, Abolition and Transitional Provisions) Regulations 2023 (S.I. 2023/98)](https://www.legislation.gov.uk/uksi/2023/98), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/98/regulation/1/2), [Sch. para. 45(2)](https://www.legislation.gov.uk/uksi/2023/98/schedule/paragraph/45/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/98/regulation/3))
+
+[^f00001]: Footnote: *See* section 237(11) of the Health and Social Care Act 2012 (“the Act”) for the definition of “specified” in relation to the exercise of the powers in section 237 to make regulations.
+
+[^f00002]: Footnote: [2012 c. 7](https://www.legislation.gov.uk/ukpga/2012/7).
+
+[^key-ede7dc6ec4893cf6eb75e81fe1371396]: Commencement: Reg. 1 in force at 1.4.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/259/regulation/1/2)
+
+[^key-a1776d0ede55e22cb04925cde110caf2]: Textual amendment: Words in reg. 1(1) substituted (1.2.2023) by [The Health and Social Care Information Centre (Transfer of Functions, Abolition and Transitional Provisions) Regulations 2023 (S.I. 2023/98)](https://www.legislation.gov.uk/uksi/2023/98), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/98/regulation/1/2), [Sch. para. 45(3)](https://www.legislation.gov.uk/uksi/2023/98/schedule/paragraph/45/3) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/98/regulation/3))
+
+[^f00003]: Footnote: [2006 c. 41](https://www.legislation.gov.uk/ukpga/2006/41).
+
+[^key-6e67b29935dd7a581ee526f01801c97c]: Textual amendment: Words in reg. 1(3) omitted (6.11.2023) by virtue of [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [59(2)(a)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/59/2/a)
+
+[^key-309cb4d63dc33834bd1553fda4b825ff]: Textual amendment: Words in reg. 1(3) inserted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [59(2)(b)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/59/2/b)
+
+[^key-f10ca47f7c2f2dcdf891ce2b639e7247]: Commencement: Reg. 2 in force at 1.4.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/259/regulation/1/2)
+
+[^key-ce10782333f9087f84afe35c7d9ebd13]: Textual amendment: Words in reg. 2 omitted (1.7.2022) by virtue of [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [60(2)(a)](https://www.legislation.gov.uk/uksi/2022/634/regulation/60/2/a)
+
+[^f00006]: Footnote: OJ No L 311, 28.11.2001, p.67. Directive [2001/83/EC](https://www.legislation.gov.uk/european/directive/2001/0083) was last amended by Directive 2012/26/EU (OJ No L 299, 27.10.2012, p. 1 to 4).
+
+[^f00007]: Footnote: *See* Articles 1(2), 2(1) and 3 of Directive [2001/83/EC](https://www.legislation.gov.uk/european/directive/2001/0083).
+
+[^f00008]: Footnote: *See* regulations 7, 10 and 11 of, and Schedule 4 to, the National Health Service Commissioning Board and Clinical Commissioning Groups (Responsibilities and Standing Rules) Regulations 2012, [S.I. 2012/2996](https://www.legislation.gov.uk/uksi/2012/2996).
+
+[^key-d7c92625be8b044634d68eaed510af3f]: Textual amendment: Words in reg. 2 inserted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [60(2)(b)](https://www.legislation.gov.uk/uksi/2022/634/regulation/60/2/b)
+
+[^f00009]: Footnote: The National Institute for Health and Clinical Excellence was established by article 2 of the National Institute for Clinical Excellence (Establishment and Constitution) Order 1999, [S.I. 1999/220](https://www.legislation.gov.uk/uksi/1999/220), as amended by [S.I. 1999/2219](https://www.legislation.gov.uk/uksi/1999/2219), [2002/1750](https://www.legislation.gov.uk/uksi/2002/1750), [2005/497](https://www.legislation.gov.uk/uksi/2005/497) and [2012/476](https://www.legislation.gov.uk/uksi/2012/476) and abolished by section 248 of the Act, which is to come into force on 1st April 2013 (*see* the Health and Social Care Act 2012 (Commencement No. 4, Transitional, Savings and Transitory Provisions) Order 2013, [S.I. 2013/160 (C. 9)](https://www.legislation.gov.uk/uksi/2013/160).
+
+[^f00010]: Footnote: “The health service” is defined in section 247 of the Act.
+
+[^key-833d632e0671b1b08587e301c51583bd]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2013/259/regulation/3) in force at 1.4.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/259/regulation/1/2)
+
+[^key-ef61ac98595e649ef0d0cfc9bb305863]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2013/259/regulation/4) in force at 1.4.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/259/regulation/1/2)
+
+[^f00011]: Footnote: *See* section 234 for a description of a quality standard.
+
+[^f00012]: Footnote: “Devolved authority” is defined in section 235(4) of the Act.
+
+[^key-5c78a360cbddd597b33176382c65da35]: Commencement: Reg. 5 in force at 1.4.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/259/regulation/1/2)
+
+[^f00013]: Footnote: “NHS services” is defined in section 234(11) of the Act.
+
+[^f00014]: Footnote: “Public health services” is defined in section 234(11) of the Act.
+
+[^f00015]: Footnote: “Social care” is defined in section 233(3) of the Act.
+
+[^key-246561876676e242e24259b6912a9b90]: Textual amendment: Words in Reglations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
+
+[^f00016]: Footnote: “Health or social care body” is defined in section 237(11) of the Act.
+
+[^key-bd36a2593b7c57044aa34f2b9f881c76]: Textual amendment: Word in reg. 5(11) omitted (1.4.2019) by virtue of [The National Institute for Health and Care Excellence (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/1322)](https://www.legislation.gov.uk/uksi/2018/1322), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1322/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2018/1322/regulation/2/2)
+
+[^key-fe71f6f91d1a542e5fdc7ca2605f55f8]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2013/259/regulation/6) in force at 1.4.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/259/regulation/1/2)
+
+[^key-6315387fbdc631be89b5d7f6a81f5bee]: Textual amendment: [Reg. 6(5)](https://www.legislation.gov.uk/uksi/2013/259/regulation/6/5)[(6)](https://www.legislation.gov.uk/uksi/2013/259/regulation/6/6) inserted (1.4.2019) by [The National Institute for Health and Care Excellence (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/1322)](https://www.legislation.gov.uk/uksi/2018/1322), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1322/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2018/1322/regulation/2/3)
+
+[^key-72c0f022332b39baf80ded9bef931f5b]: Commencement: Reg. 7 in force at 1.4.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/259/regulation/1/2)
+
+[^key-7341cec9fb47bdd2f4bbe599d2780c12]: Textual amendment: [Reg. 7(1A)](https://www.legislation.gov.uk/uksi/2013/259/regulation/7/1A) inserted (24.3.2026) by [The National Institute for Health and Care Excellence (Amendment) Regulations 2026 (S.I. 2026/202)](https://www.legislation.gov.uk/uksi/2026/202), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/202/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2026/202/regulation/3/2)
+
+[^f00017]: Footnote: Section 1H of the 2006 Act sets out the general functions of the Board.
+
+[^f00018]: Footnote: Section 4(1) is amended by section 16 of the Act.
+
+[^f00019]: Footnote: Section 83 is amended by paragraph 30 of Schedule 4 to the Act.
+
+[^f00020]: Footnote: Section 99 is amended by paragraph 42 of Schedule 4 to the Act.
+
+[^f00021]: Footnote: Section 115 is amended by paragraph 54 of Schedule 4 to the Act.
+
+[^f00022]: Footnote: Section 126 is amended by sections 213(7) and 220(7) of, and paragraph 63 of Schedule 4 to, the Act.
+
+[^f00023]: Footnote: Section 3B is inserted into the 2006 Act by section 15 of the Act. *See* Part 3 of [S.I. 2012/2996](https://www.legislation.gov.uk/uksi/2012/2996) for services to be commissioned by the Board.
+
+[^f00024]: Footnote: Section 7A is inserted into the 2006 Act by section 22 of the Act. *See* section 13Z4(2) of that Act (interpretation) as regards functions of the Secretary of State that are exercisable by the Board.
+
+[^f00025]: Footnote: [1983 c. 20](https://www.legislation.gov.uk/ukpga/1983/20). Subsection (2E) is inserted by section 40(3) of the Act. *See* regulation 15 of [S.I. 2012/2996](https://www.legislation.gov.uk/uksi/2012/2996) for circumstances in which a duty may be imposed on the Board.
+
+[^f00026]: Footnote: Section 1I of the 2006 Act sets out general functions of CCGs.
+
+[^key-90d8a6c408c9ac36425a5bd63e14b95f]: Textual amendment: Words in Regulations substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [Sch. para. 1(1)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/1)[(3)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/3) (with [Sch. para. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/2))
+
+[^f00027]: Footnote: Section 3 of the 2006 Act is amended by section 13 of the Act. *See* regulation 4 of, and Schedule 1 to, [S.I. 2012/2996](https://www.legislation.gov.uk/uksi/2012/2996) for provision on additional persons for whom a CCG has responsibility.
+
+[^f00028]: Footnote: Section 3A of the 2006 Act is inserted by section 14 of the Act. *See* regulation 4 of, and Schedule 1 to, [S.I. 2012/2996](https://www.legislation.gov.uk/uksi/2012/2996) for provision on additional persons for whom a CCG has responsibility.
+
+[^f00029]: Footnote: Paragraph 9 of Schedule 1 to the 2006 Act is amended by section 17(2) and (10)(b) of the Act.
+
+[^f00030]: Footnote: *See* section 14Z24(2) of the 2006 Act (interpretation) as regards functions of the Secretary of State that are exercisable by a CCG.
+
+[^f00031]: Footnote: Section 117 is amended by section 40(1) to (6) of the Act. *See* regulation 14 of [S.I. 2012/2996](https://www.legislation.gov.uk/uksi/2012/2996) for circumstances in which the duty imposed by section 117(2) may instead be imposed on another CCG.
+
+[^f00032]: Footnote: Section 2B is inserted into the 2006 Act by section 12 of the Act.
+
+[^f00033]: Footnote: Section 6C is inserted into the 2006 Act by section 18(1) of the Act.
+
+[^f00034]: Footnote: Section 111 is amended by section 29(1) and (2) of the Act.
+
+[^f00035]: Footnote: Paragraphs 1 to 7 of Schedule 1 are amended by section 17(2) to (8) of the Act. Paragraphs 7A and 7B were inserted into the Schedule by section 143(1) of the Health and Social Care Act [2008 (c. 14)](https://www.legislation.gov.uk/ukpga/2008/14), and are amended by section 17(2), (7) and (8) of the Act. Paragraph 13 is substituted by sections 17(2) and (13) of the Act.
+
+[^f00036]: Footnote: Section 223B is inserted into the 2006 Act by section 24 of the Act.
+
+[^f00037]: Footnote: Section 223G is inserted into the 2006 Act by section 27 of the Act.
+
+[^f00038]: Footnote: [2003 c. 26](https://www.legislation.gov.uk/ukpga/2003/26).
+
+[^key-2c14a60b326679fb2c73246c803fdf61]: Textual amendment: Words in [reg. 7(9)](https://www.legislation.gov.uk/uksi/2013/259/regulation/7/9) inserted (24.3.2026) by [The National Institute for Health and Care Excellence (Amendment) Regulations 2026 (S.I. 2026/202)](https://www.legislation.gov.uk/uksi/2026/202), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/202/regulation/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2026/202/regulation/3/3)
+
+[^key-92ad954e9a44be4dacced5213a4e6f12]: Textual amendment: [Reg. 7(9A)](https://www.legislation.gov.uk/uksi/2013/259/regulation/7/9A) inserted (24.3.2026) by [The National Institute for Health and Care Excellence (Amendment) Regulations 2026 (S.I. 2026/202)](https://www.legislation.gov.uk/uksi/2026/202), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/202/regulation/1/1), [3(4)](https://www.legislation.gov.uk/uksi/2026/202/regulation/3/4)
+
+[^key-702a7a342c7b84257b3d01db15c44ea9]: Textual amendment: [Reg. 7(15)](https://www.legislation.gov.uk/uksi/2013/259/regulation/7/15) inserted (24.3.2026) by [The National Institute for Health and Care Excellence (Amendment) Regulations 2026 (S.I. 2026/202)](https://www.legislation.gov.uk/uksi/2026/202), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/202/regulation/1/1), [3(5)](https://www.legislation.gov.uk/uksi/2026/202/regulation/3/5)
+
+[^key-81af215ae67420fad3e507302d0d99db]: Commencement: Reg. 8 in force at 1.4.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/259/regulation/1/2)
+
+[^f00039]: Footnote: *See* Part 3 of [S.I. 2012/2996](https://www.legislation.gov.uk/uksi/2012/2996) for services to be commissioned by the Board.
+
+[^key-571a0447230915c20d25365593c977cc]: Textual amendment: [Reg. 8(1A)](https://www.legislation.gov.uk/uksi/2013/259/regulation/8/1A) inserted (24.3.2026) by [The National Institute for Health and Care Excellence (Amendment) Regulations 2026 (S.I. 2026/202)](https://www.legislation.gov.uk/uksi/2026/202), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/202/regulation/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2026/202/regulation/4/2)
+
+[^key-8fd1bd43f7c1462ab19de9edbf036beb]: Textual amendment: Words in [reg. 8(8)](https://www.legislation.gov.uk/uksi/2013/259/regulation/8/8) inserted (24.3.2026) by [The National Institute for Health and Care Excellence (Amendment) Regulations 2026 (S.I. 2026/202)](https://www.legislation.gov.uk/uksi/2026/202), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/202/regulation/1/1), [4(3)](https://www.legislation.gov.uk/uksi/2026/202/regulation/4/3)
+
+[^key-feace8199147451bba61495f3f2133c7]: Textual amendment: [Reg. 8(8A)](https://www.legislation.gov.uk/uksi/2013/259/regulation/8/8A) inserted (24.3.2026) by [The National Institute for Health and Care Excellence (Amendment) Regulations 2026 (S.I. 2026/202)](https://www.legislation.gov.uk/uksi/2026/202), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/202/regulation/1/1), [4(4)](https://www.legislation.gov.uk/uksi/2026/202/regulation/4/4)
+
+[^key-bf3c6a5d10c2cd8137093221cc88a7b0]: Textual amendment: [Regs. 8A-8F](https://www.legislation.gov.uk/uksi/2013/259/regulation/8A) inserted (1.4.2019) by [The National Institute for Health and Care Excellence (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/1322)](https://www.legislation.gov.uk/uksi/2018/1322), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1322/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2018/1322/regulation/2/4)
+
+[^key-5c8c67a893eb44f7d8b71bddcf0ca4eb]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2013/259/regulation/9) in force at 1.4.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/259/regulation/1/2)
+
+[^key-108e99ab2804f0ee92faa01984a75265]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2013/259/regulation/10) in force at 1.4.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/259/regulation/1/2)
+
+[^f00040]: Footnote: “Health care” is defined in section 240(4) of the Act.
+
+[^key-e68d32d27f9adc0be4c2aed481892fdb]: Textual amendment: Words in [reg. 10(1)(c)(iii)](https://www.legislation.gov.uk/uksi/2013/259/regulation/10/1/c/iii) substituted (1.4.2019) by [The National Institute for Health and Care Excellence (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/1322)](https://www.legislation.gov.uk/uksi/2018/1322), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1322/regulation/1), [2(5)(a)](https://www.legislation.gov.uk/uksi/2018/1322/regulation/2/5/a)
+
+[^key-f614e33f6d25c26e08b9c9e1db6722bd]: Textual amendment: [Reg. 10(3)](https://www.legislation.gov.uk/uksi/2013/259/regulation/10/3) inserted (1.4.2019) by [The National Institute for Health and Care Excellence (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/1322)](https://www.legislation.gov.uk/uksi/2018/1322), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1322/regulation/1), [2(5)(b)](https://www.legislation.gov.uk/uksi/2018/1322/regulation/2/5/b)
+
+[^key-d6761e848346e9a93ccdf61951f4b004]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2013/259/regulation/11) in force at 1.4.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/259/regulation/1/2)
+
+[^key-1a8a074b7806e33d152038aa83b8d334]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2013/259/regulation/12) in force at 1.4.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/259/regulation/1/2)
+
+[^key-41e12cd4dd186e6f39ee17784167ee2f]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2013/259/regulation/13) in force at 1.4.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/259/regulation/1/2)
+
+[^key-2a875358a39c7300db4d2f56afb9561f]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2013/259/regulation/14) in force at 1.4.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/259/regulation/1/2)
+
+[^f00041]: Footnote: *See* section 242 of the Act for provisions about NICE’s charter.
+
+[^key-9308738acd1bd6f4022731d3e5c4baf0]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2013/259/regulation/15) in force at 1.4.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/259/regulation/1/2)
+
+[^f00042]: Footnote: *See* paragraphs 2(1), (3) and (4) of the Directions and Consolidating Directions to the National Institute for Health and Clinical Excellence 2005, signed on 31st March 2005 (the NICE 2005 Directions), as amended by the Directions to the National Institute for Health and Clinical Excellence 2007, signed on 13th March 2007 (the 2007 Directions), Further Directions to the National Institute for Health and Clinical Excellence 2009, signed on 30th April 2009 (the 2009 Directions), and the National Institute for Health and Clinical Excellence (Amendment) Directions 2012, signed on 30 th March 2012 (the 2012 Directions). Copies of the Directions can be obtained from the NICE Sponsor team, Quarry House, Quarry Hill, Leeds, LS2 7UE.
+
+[^f00043]: Footnote: *See* the Directions to Primary Care Trusts and NHS trusts in England concerning Arrangements for the Funding of Technology Appraisal Guidance from the National Institute for Clinical Excellence (NICE) which came into force on 1st July 2003 (the Funding Directions). The Funding Directions can be viewed at http://webarchive.nationalarchives.gov.uk/+/www.dh.gov.uk/en/Publicationsand statistics/Legislation/DirectionsfromtheSecretaryofState/DH\_4075685.
+
+[^f00044]: Footnote: *See* paragraph 2(2) of the NICE 2005 Directions.
+
+[^key-51d8b0447e416ce578207b256e286dab]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2013/259/regulation/16) in force at 1.4.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/259/regulation/1/2)
+
+[^f00045]: Footnote: *See* paragraph 2(1)(a) of the NICE 2005 Directions.
+
+[^key-6d884d33bffa39c141e851a48901115b]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2013/259/regulation/17) in force at 1.4.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/259/regulation/1/2)
+
+[^f00046]: Footnote: *See* paragraph 5 of the NICE 2005 Directions, as amended by the 2007 Directions.
+
+[^key-dceaa864db29c6be23dabd2b467d9d10]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2013/259/regulation/18) in force at 1.4.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/259/regulation/1/2)
+
+[^f00047]: Footnote: *See* paragraph 2(1)(c) and (12)(c) of the NICE 2005 Directions, as amended by the 2012 Directions.
+
+[^key-18eac93063c1ebcd9b2401293eb3d7c6]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2013/259/regulation/19) in force at 1.4.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/259/regulation/1/2)
+
+[^f00048]: Footnote: “NHS Evidence” can be viewed at www.evidence.nhs.uk.
+
+[^key-4f247e0bc3141625417996e479574426]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2013/259/regulation/20) in force at 1.4.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/259/regulation/1/2)
+
+[^key-35172e5c3f5687a187f33160b99c3430]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2013/259/regulation/21) in force at 1.4.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/259/regulation/1/2)
+
+[^key-74f6ae4dccb42c1d1a35690a76d2b080]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2013/259/regulation/22) in force at 1.4.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/259/regulation/1/2)
+
+[^key-4c5a47909e51d8e73252cfd3dca7f088]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/2013/259/regulation/23) in force at 1.4.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/259/regulation/1/2)
+
+[^key-080b6d5f7df6482160b2ceb15fcdb8c8]: Textual amendment: Pt. 3 heading substituted (1.2.2023) by [The Health and Social Care Information Centre (Transfer of Functions, Abolition and Transitional Provisions) Regulations 2023 (S.I. 2023/98)](https://www.legislation.gov.uk/uksi/2023/98), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/98/regulation/1/2), [Sch. para. 45(4)](https://www.legislation.gov.uk/uksi/2023/98/schedule/paragraph/45/4) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/98/regulation/3))
+
+[^key-1554c75552d146baa0045a14c015c59e]: Textual amendment: Regs. 24-30 omitted (1.2.2023) by virtue of [The Health and Social Care Information Centre (Transfer of Functions, Abolition and Transitional Provisions) Regulations 2023 (S.I. 2023/98)](https://www.legislation.gov.uk/uksi/2023/98), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/98/regulation/1/2), [Sch. para. 45(5)](https://www.legislation.gov.uk/uksi/2023/98/schedule/paragraph/45/5) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/98/regulation/3))
+
+[^key-9ed05d690992dc1902759604d7d804fa]: Textual amendment: Reg. 31 substituted (1.2.2023) by [The Health and Social Care Information Centre (Transfer of Functions, Abolition and Transitional Provisions) Regulations 2023 (S.I. 2023/98)](https://www.legislation.gov.uk/uksi/2023/98), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/98/regulation/1/2), [Sch. para. 45(6)](https://www.legislation.gov.uk/uksi/2023/98/schedule/paragraph/45/6) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/98/regulation/3))
+
+[^key-bbc3134a21638a9d785e083c66e10275]: Commencement: [Reg. 32](https://www.legislation.gov.uk/uksi/2013/259/regulation/32) in force at 1.4.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/259/regulation/1/2)
+
+[^key-cce42d14056eb19edae3a29aad3b95fc]: Textual amendment: Words in reg. 32 heading omitted (1.2.2023) by virtue of [The Health and Social Care Information Centre (Transfer of Functions, Abolition and Transitional Provisions) Regulations 2023 (S.I. 2023/98)](https://www.legislation.gov.uk/uksi/2023/98), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/98/regulation/1/2), [Sch. para. 45(7)(a)](https://www.legislation.gov.uk/uksi/2023/98/schedule/paragraph/45/7/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/98/regulation/3))
+
+[^key-43cfc9dd8841f08afbca53a9a4acb751]: Textual amendment: Words in reg. 32(1) omitted (1.2.2023) by virtue of [The Health and Social Care Information Centre (Transfer of Functions, Abolition and Transitional Provisions) Regulations 2023 (S.I. 2023/98)](https://www.legislation.gov.uk/uksi/2023/98), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/98/regulation/1/2), [Sch. para. 45(7)(b)(i)](https://www.legislation.gov.uk/uksi/2023/98/schedule/paragraph/45/7/b/i) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/98/regulation/3))
+
+[^key-bb8af95b7a171ae37128caa48e1b5870]: Textual amendment: Words in reg. 32(1) substituted (1.2.2023) by [The Health and Social Care Information Centre (Transfer of Functions, Abolition and Transitional Provisions) Regulations 2023 (S.I. 2023/98)](https://www.legislation.gov.uk/uksi/2023/98), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/98/regulation/1/2), [Sch. para. 45(7)(b)(ii)](https://www.legislation.gov.uk/uksi/2023/98/schedule/paragraph/45/7/b/ii) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/98/regulation/3))
+
+[^key-515f7057fcd8dfb5fb49ca4468da2814]: Textual amendment: Word in reg. 32(1) substituted (1.2.2023) by [The Health and Social Care Information Centre (Transfer of Functions, Abolition and Transitional Provisions) Regulations 2023 (S.I. 2023/98)](https://www.legislation.gov.uk/uksi/2023/98), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/98/regulation/1/2), [Sch. para. 45(7)(b)(iii)](https://www.legislation.gov.uk/uksi/2023/98/schedule/paragraph/45/7/b/iii) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/98/regulation/3))
+
+[^key-aedbe9f1d43bffdad881b1a320390369]: Textual amendment: Words in reg. 32(1) omitted (1.2.2023) by virtue of [The Health and Social Care Information Centre (Transfer of Functions, Abolition and Transitional Provisions) Regulations 2023 (S.I. 2023/98)](https://www.legislation.gov.uk/uksi/2023/98), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/98/regulation/1/2), [Sch. para. 45(7)(b)(iv)](https://www.legislation.gov.uk/uksi/2023/98/schedule/paragraph/45/7/b/iv) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/98/regulation/3))
+
+[^key-5ff5a7c5034b33afc7013f36e89502b7]: Textual amendment: Reg. 32(2) substituted (1.2.2023) by [The Health and Social Care Information Centre (Transfer of Functions, Abolition and Transitional Provisions) Regulations 2023 (S.I. 2023/98)](https://www.legislation.gov.uk/uksi/2023/98), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/98/regulation/1/2), [Sch. para. 45(7)(c)](https://www.legislation.gov.uk/uksi/2023/98/schedule/paragraph/45/7/c) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/98/regulation/3))
+
+[^key-ef9bf2ba06b37930c5228d9a36b99581]: Textual amendment: Words in reg. 32(3) omitted (1.2.2023) by virtue of [The Health and Social Care Information Centre (Transfer of Functions, Abolition and Transitional Provisions) Regulations 2023 (S.I. 2023/98)](https://www.legislation.gov.uk/uksi/2023/98), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/98/regulation/1/2), [Sch. para. 45(7)(d)](https://www.legislation.gov.uk/uksi/2023/98/schedule/paragraph/45/7/d) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/98/regulation/3))
+
+[^key-74fc1aa0338ee187439d15be72d2426b]: Textual amendment: Reg. 33 omitted (1.2.2023) by virtue of [The Health and Social Care Information Centre (Transfer of Functions, Abolition and Transitional Provisions) Regulations 2023 (S.I. 2023/98)](https://www.legislation.gov.uk/uksi/2023/98), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/98/regulation/1/2), [Sch. para. 45(8)](https://www.legislation.gov.uk/uksi/2023/98/schedule/paragraph/45/8) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/98/regulation/3))

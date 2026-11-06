@@ -1,0 +1,40 @@
+---
+title: Finance Act 2013, section 185
+act: Finance Act 2013
+section: '185'
+status: revised-with-pending-changes
+text_date: '2026-04-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2013/29/section/185
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Finance Act 2013, section 185
+
+> **Warning: changes not yet applied to this text (2).** Text as at 2026-04-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2013/29
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 185. Air passenger duty: rates of duty from 1 April 2013
+
+*Extent: E+W+S+N.I.*
+
+(1) Section 30 of FA 1994 (air passenger duty: rates of duty) is amended as follows.
+
+(2) In subsection (3)—
+
+- (a) in paragraph (a) for “£65” substitute “ £67 ”, and
+- (b) in paragraph (b) for “£130” substitute “ £134 ”.
+
+(3) In subsection (4)—
+
+- (a) in paragraph (a) for “£81” substitute “ £83 ”, and
+- (b) in paragraph (b) for “£162” substitute “ £166 ”.
+
+(4) In subsection (4A)—
+
+- (a) in paragraph (a) for “£92” substitute “ £94 ”, and
+- (b) in paragraph (b) for “£184” substitute “ £188 ”.
+
+(5) The amendments made by this section have effect in relation to the carriage of passengers beginning on or after 1 April 2013.

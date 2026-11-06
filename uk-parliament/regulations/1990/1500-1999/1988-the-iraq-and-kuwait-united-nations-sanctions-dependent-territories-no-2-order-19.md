@@ -1,0 +1,184 @@
+---
+title: The Iraq and Kuwait (United Nations Sanctions) (Dependent Territories) (No. 2) Order 1990
+id: uksi/1990/1988
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '1990-10-05'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1990/1988
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1990/1988/pdfs/uksi_19901988_en.pdf
+- http://www.legislation.gov.uk/uksi/1990/1988/made/data.pdf
+pending_changes: 2
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Iraq and Kuwait (United Nations Sanctions) (Dependent Territories) (No. 2) Order 1990
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+1990 No. 1988
+
+UNITED NATIONS
+
+The Iraq and Kuwait (United Nations Sanctions) (Dependent Territories) (No. 2) Order 1990
+
+Made
+
+5th October 1990
+
+Laid before Parliament
+
+5th October 1990
+
+Coming into force
+
+6th October 1990
+
+At the Court at Balmoral, the 5th day of October 1990
+
+Present,
+
+The Queen’s Most Excellent Majesty in Council
+
+Whereas under Article 41 of the Charter of the United Nations the Security Council of the United Nations have, by a resolution adopted on 25th September 1990, called upon Her Majesty’s Government in the United Kingdom and all other States to apply certain measures to give effect to a decision of that Council in relation to the situation between Iraq and Kuwait;
+
+Now therefore Her Majesty, in exercise of the powers conferred on Her by section 1 of the United Nations Act 1946,[^f00001] is pleased, by and with the advice of Her Privy Council, to order, and it is hereby ordered, as follows:
+
+## 1. Citation and commencement, extent and interpretation
+
+(1) This Order may be cited as the Iraq and Kuwait (United Nations Sanctions) (Dependent Territories) (No. 2) Order 1990 and shall come into force on 6th October 1990.
+
+(2)
+
+- (a) This Order shall extend to the territories listed in the Schedule to this Order.
+- (b) In the application of this Order to any of the said territories the expression “the Territory” in this Order means that territory.
+
+(3) In this Order the following expressions have the meanings hereby respectively assigned to them, that is to say–
+
+- “commander”, in relation to an aircraft, means the member of the flight crew designated as commander of the aircraft by the operator thereof, or, failing such a person the person who is for the time being the pilot in command of the aircraft;
+- “Governor”, means the Governor or other officer administering the government of the Territory;
+- “operator”, in relation to an aircraft means the person for the time being having the management of the aircraft;
+- “master”, in relation to a ship, includes any person (other than a pilot) for the time being in charge of a ship; and
+- “harbour master” includes any dock master or pier master who is not the subordinate of a harbour master and any deputy or assistant of a harbour master or of such a dock master or pier master.
+
+## 2. Restrictions on Aircraft
+
+(1) Except with the permission of the Secretary of State granted under this paragraph no aircraft, wherever registered, shall fly over the Territory to any destination in Iraq or Kuwait.
+
+(2) Without prejudice to the generality of article 7 of this Order, any permission granted under paragraph (1) of this article may require, as a condition of that permission, that the aircraft lands at an aerodrome (whether in the Territory or elsewhere) specified in the permission to enable an inspection of its cargo to be carried out.
+
+(3) If any aircraft is used in contravention of the provisions of this article, then the operator and the commander of the aircraft shall be guilty of an offence against this Order.
+
+**3.** (1) This article applies to aircraft registered in the Territory and to any other aircraft that is for the time being operated by any person who is:
+
+- (a) a British citizen, a British Dependent Territories citizen, a British Overseas citizen or a British protected person; and is ordinarily resident in the Territory; or
+- (b) a body incorporated or constituted under the law of the Territory.
+
+(2) If any aircraft to which this article applies flies over the territory of any State other than the Territory to any destination in Iraq or Kuwait and fails to land at an aerodrome designated by that State in pursuance of a requirement to land them:
+
+- (a) in the case of an aircraft registered in the Territory the operator and the commander of the aircraft; and
+- (b) in the case of any other aircraft, where he is a person referred to in paragraph (1) above, the operator and the commander of the aircraft;
+
+shall be guilty of an offence against this Order.
+
+**4.** (1) In relation to any aircraft required to land at an aerodrome in the Territory in consequence of article 2 of this Order or in consequence of a request by a State other than the Territory any person authorised by the Governor may request the charterer, the operator and the commander of the aircraft or any of them to furnish such information relating to the aircraft and its cargo and produce for his inspection such documents so relating and such cargo as he may specify, and that authorised person may (either alone or accompanied and assisted by persons under his authority) board the aircraft and search it and, for that purpose, may use or authorise the use of reasonable force; and any such authorised person may further request the charterer, operator and the commander or any of them to cause the aircraft to remain at that aerodrome until notified that it may depart; and the charterer, operator and the commander shall comply with any such request.
+
+(2) Without prejudice to the provisions of paragraph (6) of this article, where any person authorised as aforesaid has reason to suspect that any request that an aircraft should remain at an aerodrome that has been made under paragraph (1) of this article may not be complied with, that authorised person may take such steps as appear to him to be necessary to secure compliance with that request and, without prejudice to the generality of the foregoing, may for that purpose:
+
+- (a) enter, or authorise entry, upon any land and upon that aircraft;
+- (b) detain, or authorise the detention of, that aircraft; and
+- (c) use, or authorise the use of, reasonable force.
+
+(3) A person authorised by the Governor to exercise any power for the purposes of paragraphs (1) or (2) of this article shall, if requested to do so, produce evidence of his authority before exercising that power.
+
+(4) No information furnished or document produced by any person in pursuance of a request made under this article shall be disclosed except:
+
+- (a) with the consent of the person by whom the information was furnished or the document was produced–
+
+Provided that a person who has obtained information or is in possession of a document only in his capacity as servant or agent of another person may not give consent for the purposes of this sub-paragraph but such consent may instead be given by any person who is entitled to that information or to the possession of that document in his own right; or
+
+- (b) to any person who would have been empowered under this article to request that it be furnished or produced or to any person holding or acting in any office under or in the service of the Crown in respect of the Government of the United Kingdom or in the service of the Government of any other territory to which this Order extends; or
+- (c) on the authority of the Governor, to any organ of the United Nations or to any person in the service of the United Nations or of the Government of any other country for the purpose of assisting the United Nations or that Government in securing compliance with or detecting evasion of measures in relation to Iraq or Kuwait decided upon by the Security Council of the United Nations.
+
+(5) Any power conferred by this article to request the furnishing of information or the production of a document or of cargo for inspection shall include a power to specify whether the information should be furnished orally or in writing and in what form and to specify the time by which and the place in which the information should be furnished or the document or cargo produced for inspection.
+
+(6) Each of the following persons shall be guilty of an offence against this Order, that is to say–
+
+- (a) a charterer, operator or a commander of an aircraft who, without reasonable excuse, refuses or fails within a reasonable time to comply with any request made under this article by any person empowered to make it or who wilfully furnishes false information or produces false documents to such a person in response to such a request;
+- (b) a charterer, operator or a commander or a member of a crew of an aircraft who wilfully obstructs any such person (or any person acting under the authority of any such person) in the exercise of his powers under this Article.
+
+(7) Nothing in this article shall be construed so as to prejudice any other provision of law conferring powers or imposing restrictions or enabling restrictions to be imposed with respect to aircraft.
+
+## 5. Restrictions on Ships
+
+(1) Except with the permission of the Governor granted under this paragraph no ship registered in Iraq shall enter any port in the Territory except where entry is required by reason of stress of weather or other force majeure.
+
+(2) Every harbour master shall give all such directions as may be necessary to prohibit any ship registered in Iraq from entering the harbour for which he is harbour master, except where entry is required by reason of stress of weather or other force majeure or a permission has been granted under paragraph (1) of this article.
+
+(3) If any ship registered in Iraq enters a port in the Territory in contravention of the provisions of this article then both the master and the owner of that ship shall be guilty of an offence against this Order.
+
+(4) Where a ship registered in Iraq enters a harbour within the Territory or the approaches to such a harbour any authorised officer, that is to say, any such officer as is referred to in section 692(a) of the Merchant Shipping Act 1894[^f00002] may, if he is satisfied that the ship is being used or has been used for the carriage of any goods which have been exported from Iraq or Kuwait after 6th August 1990, or is being used or has been used after 6th August 1990 for the carriage of any goods from any place outside Iraq or Kuwait to any destination therein, or to any person for the purposes of any business carried on in or operated from Iraq and Kuwait detain the ship and keep the same in detention for as long as this Order remains in force.
+
+Any costs or expenses incurred in or in connection with the detention of the ship or the keeping of the same in detention, including without prejudice to the generality of the above, costs of repatriation of the crew, shall be a debt due from the owner of the ship to the Secretary of State and recoverable as such.
+
+## 6. Penalties and proceedings
+
+(1) Any person guilty of an offence against his Order shall be liable—
+
+- (a) on conviction on indictment to imprisonment for a term not exceeding two years or to a fine or to both; or
+- (b) on summary conviction to imprisonment for a term not exceeding six months or to a fine not exceeding £2,000 or its equivalent or to both.
+
+(2) Where any body corporate is guilty of an offence against this Order, and that offence is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, any director, manager, secretary or other similar officer of the body corporate or any person who was purporting to act in any such capacity, he, as well as the body corporate, shall be guilty of that offence and shall be liable to be proceeded against and punished accordingly.
+
+(3) Summary proceedings for an offence against this Order, being an offence alleged to have been committed outside the Territory, may be commenced at any time not later than twelve months from the date on which the person charged first enters the Territory after commiting the offence.
+
+(4) Proceedings against any person for an offence against this Order may be taken before the appropriate court in the Territory or in any territory to which this Order extends, having jurisdiction in the place where that person is for the time being.
+
+(5) No proceedings for an offence against this Order shall be instituted in the Territory except by or with the consent of the principal public officer of the Territory having responsibility for criminal prosecutions.
+
+Provided that this paragraph shall not prevent the arrest, or the issue or execution of a warrant for the arrest, of any person in respect of such an offence, or the remand in custody or on bail of any person charged with such an offence, notwithstanding that the necessary consent to the institution of proceedings for the offence has not been obtained.
+
+## 7. Exercise of powers of the Secretary of State and of the Governor of the Territory
+
+(1) The Secretary of State, or the Governor as the case may be, may to such extent and subject to such restrictions and conditions as he may think proper, delegate or authorise the delegation of any of his powers under this Order to any person, or class or description of persons, approved by him, and references in this Order to the Secretary of State or to the Governor shall be construed accordingly.
+
+(2) Any permission granted under this Order may be either general or special, may be subject to or without conditions, may be limited so as to expire on a specified date unless renewed and may be varied or revoked by the authority that granted them.
+
+G. I. de Deney
+
+Clerk of the Privy Council
+
+## SCHEDULE — TERRITORIES TO WHICH THE ORDER EXTENDS
+
+Article 1
+
+- Anguilla
+- Bermuda
+- British Antarctic Territory
+- British Indian Ocean Territory
+- Cayman Islands
+- Falklands Islands
+- South Georgia and South Sandwich Islands
+- Gibraltar
+- Hong Kong
+- Montserrat
+- Pitcairn
+- St Helena and its dependencies
+- Sovereign Base Areas of Akrotiri and Dhekelia
+- Turks and Caicos Islands
+- Virgin Islands
+
+(This note is not part of the Order)
+
+This Order made under the United Nations Act 1946, imposes restrictions pursuant to a decision of the Security Council of the United Nations in Resolution No. 670 of 25th September 1990, on aircraft overflying each of the territories specified in the Schedule where their destination is Iraq or Kuwait. This Order also imposes restrictions on aircraft registered in or operated from those territories overflying other states where their destination is Iraq or Kuwait. It also imposes restrictions on ships registered in Iraq entering ports in those territories.
+
+## Annotations
+
+[^f00001]: Footnote: [1946 c. 45](https://www.legislation.gov.uk/ukpga/1946/45).
+
+[^f00002]: Footnote: [1894 c. 60](https://www.legislation.gov.uk/ukpga/1894/60).

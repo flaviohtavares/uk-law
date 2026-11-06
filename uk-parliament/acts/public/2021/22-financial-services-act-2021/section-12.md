@@ -1,0 +1,74 @@
+---
+title: Financial Services Act 2021, section 12
+act: Financial Services Act 2021
+section: '12'
+status: revised-with-pending-changes
+text_date: '2024-11-22'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2021/22/section/12
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Financial Services Act 2021, section 12
+
+> **Warning: changes not yet applied to this text (1).** Text as at 2024-11-22. See https://www.legislation.gov.uk/changes/affected/ukpga/2021/22
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 12. Mandatory contribution to critical benchmarks[^key-b64159633a1a74cf9dc98f8e6797d978]
+
+*Extent: E+W+S+N.I.*
+
+(1) Article 23 of the Benchmarks Regulation (mandatory contribution to a critical benchmark) is amended as follows.
+
+(2) Omit paragraphs 1 to 4.
+
+(3) For paragraph 5 substitute—
+
+> **5A.**
+>
+> If a supervised contributor or supervised third country contributor gives a notification under Article 22A(6), the contributor may not cease contributing input data before the date specified in the notification as the date on which it intends to cease contributing, unless the FCA gives it written permission to do so.
+>
+> **5B.**
+>
+> Paragraph 5A does not require a contributor to trade or commit to trade.
+
+(4) In paragraph 6, for the opening words substitute “ If the FCA gives the administrator of a critical benchmark a notice under Article 21(3B)(a) or Article 22B(3)(a) (benchmark unrepresentative or representativeness at risk), it has the power to— ”.
+
+(5) In paragraph 6(a)—
+
+- (a) after “supervised entities” insert “ and supervised third country entities ”, and
+- (b) omit “from the date” to the end.
+
+(6) In paragraph 6(c), after “supervised entities” insert “ and supervised third country entities ”.
+
+(7) After paragraph 6 insert—
+
+> **6A.**
+>
+> The FCA may only exercise the powers under paragraph 6 so far as it considers it appropriate to do so for the purpose of maintaining, restoring or improving the representativeness of the benchmark.
+
+(8) In paragraph 7—
+
+- (a) after “supervised entities” insert “ and supervised third country entities ”, and
+- (b) omit “supervised” (in the second place it occurs).
+
+(9) In paragraph 9(d), for “relevant supervised entities” substitute “ contributors mandated to contribute input data ”.
+
+(10) After paragraph 9 insert—
+
+> **9A.**
+>
+> In the case of an Article 23A benchmark, any measures adopted under paragraph 6 in relation to the benchmark are to be treated as being revoked when the designation of the benchmark under Article 23A takes effect.
+
+(11) In paragraph 10—
+
+- (a) after “supervised contributor” insert “ and supervised third country contributor ”, and
+- (b) for “exceeding the maximum five year period laid down in the second subparagraph of paragraph 6” substitute “ extending beyond the end of the period of five years beginning with the day on which the administrator notified the FCA of its intention to cease providing the benchmark under Article 21(1) ”.
+
+(12) Omit paragraph 12.
+
+## Annotations
+
+[^key-b64159633a1a74cf9dc98f8e6797d978]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2021/22/section/12) in force at 1.7.2021 by [S.I. 2021/739](https://www.legislation.gov.uk/uksi/2021/739), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2021/739/regulation/3/e)

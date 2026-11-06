@@ -1,0 +1,46 @@
+---
+title: Criminal Justice and Public Order Act 1994, section 10
+act: Criminal Justice and Public Order Act 1994
+section: '10'
+status: revised-with-pending-changes
+text_date: '2026-06-29'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/1994/33/section/10
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Criminal Justice and Public Order Act 1994, section 10
+
+> **Warning: changes not yet applied to this text (16).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/1994/33
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 10. Intervention by Secretary of State in management of contracted out secure training centres.
+
+*Extent: E+W*
+
+(1) This section applies where, in the case of a contracted out secure training centre, it appears to the Secretary of State—
+
+- (a) that the director has lost, or is likely to lose, effective control of the secure training centre or any part of it; and
+- (b) that the making of an appointment under subsection (2) below is necessary in the interests of preserving the safety of any person, or of preventing serious damage to any property.
+
+(2) The Secretary of State may appoint a Crown servant to act as governor of the secure training centre for the period—
+
+- (a) beginning with the time specified in the appointment; and
+- (b) ending with the time specified in the notice of termination under subsection (4) below.
+
+(3) During that period—
+
+- (a) all the functions which would otherwise be exercisable by the director or monitor shall be exercisable by the governor;
+- (b) the contractor and any sub-contractor of his shall each do all that he reasonably can to facilitate the exercise by the governor of those functions; and
+- (c) the officers of the secure training centre shall comply with any directions given by the governor in the exercise of those functions.
+
+(4) Where the Secretary of State is satisfied—
+
+- (a) that the governor has secured effective control of the secure training centre or, as the case may be, the relevant part of it; and
+- (b) that the governor’s appointment is no longer necessary for the purpose mentioned in subsection (1)(b) above,
+
+he shall, by a notice to the governor, terminate the appointment at a time specified in the notice.
+
+(5) As soon as practicable after making or terminating an appointment under this section, the Secretary of State shall give a notice of the appointment, or a copy of the notice of termination, to the contractor, any sub-contractor of his, the director and the monitor.

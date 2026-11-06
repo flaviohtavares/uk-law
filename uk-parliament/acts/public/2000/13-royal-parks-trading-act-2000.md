@@ -1,0 +1,148 @@
+---
+title: Royal Parks (Trading) Act 2000
+id: ukpga/2000/13
+type: UnitedKingdomPublicGeneralAct
+category: primary
+status: revised
+made_date: '2000-07-20'
+text_date: '2012-03-28'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/2000/13
+pdf_urls:
+- http://www.legislation.gov.uk/ukpga/2000/13/pdfs/ukpga_20000013_en.pdf
+- http://www.legislation.gov.uk/ukpga/2000/13/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Royal Parks (Trading) Act 2000
+
+> Text as at 2012-03-28.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+Royal Parks (Trading) Act 2000
+
+2000 c. 13
+
+An Act to make provision about certain offences under section 2 of the Parks Regulation (Amendment) Act 1926.
+
+\[20th July 2000\]
+
+Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
+
+## 1. Park trading offence.
+
+(1) Regulations under section 2 of the [^c879659]Parks Regulation (Amendment) Act 1926 may designate specified provisions of the regulations as park trading regulations.
+
+(2) An offence under that section which is committed by failing to comply with or acting in contravention of a park trading regulation is a park trading offence for the purposes of this Act.
+
+## 2. Maximum penalty.
+
+Section 2 of the [^c879660]Parks Regulation (Amendment) Act 1926 (regulations) shall have effect in relation to a park trading offence as if for “level 1 on the standard scale” there were substituted “ level 3 on the standard scale ”.
+
+## 3. Offence by body corporate.
+
+(1) Where a park trading offence committed by a body corporate is proved—
+
+- (a) to have been committed with the consent or connivance of an officer, or
+- (b) to be attributable to any neglect on the part of an officer,
+
+he as well as the body corporate is guilty of the offence and liable to be proceeded against and punished accordingly.
+
+(2) For the purposes of this section the following are officers of a body corporate—
+
+- (a) a director,
+- (b) a manager,
+- (c) a secretary,
+- (d) another similar officer,
+- (e) a person purporting to act in any of the capacities listed in paragraphs (a) to (d).
+
+## 4. Seizure of property.[^key-64654e97c716a4e5fc9c609d1d8e5e98][^key-024d7dbd07c7384284c5b02c554ad1e2]
+
+(1) A park constable who reasonably suspects that a person has committed a park trading offence may, subject to subsection (2), seize anything of a non-perishable nature which—
+
+- (a) the person has in his possession or under his control, and
+- (b) the constable reasonably believes to have been used in the commission of the offence.
+
+(2) A park constable may exercise the power conferred by subsection (1) only in the park where he has jurisdiction.
+
+(3) In this section “**park constable**” has the meaning given by section 3 of the [^c879661]Parks Regulation Act 1872.
+
+(4)[^key-31a38de86b5dc6d33c3f51cb54439be6] In the application of this section to a specified park—
+
+- (a) the reference in subsection (1) to a park constable has effect as a reference to a constable, and
+- (b) subsections (2) and (3) do not apply.
+
+(5) In subsection (4) “ **specified park** ” has the same meaning as in section 162 of the Serious Organised Crime and Police Act 2005.
+
+## 5. Retention and disposal.[^key-64654e97c716a4e5fc9c609d1d8e5e98][^key-024d7dbd07c7384284c5b02c554ad1e2]
+
+(1) The Secretary of State may retain anything which has been seized under section 4 until the end of the period of 28 days beginning with the date of the seizure.
+
+(2) Subsection (3) applies where before the end of that period an information for a park trading offence is laid—
+
+- (a) against the person from whom the thing was seized, and
+- (b) in respect of his activities at the time of the seizure.
+
+(3) Where this subsection applies—
+
+- (a) the Secretary of State may retain the thing seized until the conclusion of proceedings relating to the offence (including any appeal), and
+- (b) if an award is made of costs to be paid by the accused to the Secretary of State, the Secretary of State may retain the thing seized until the costs have been paid.
+
+(4) Subsection (3) has effect subject to any order for forfeiture under section 6.
+
+(5) If the Secretary of State has retained a thing in reliance on subsection (3)(b) for the period of 28 days beginning with the date of the conclusion of proceedings relating to the offence (including any appeal)—
+
+- (a) he may sell it for the best price which he can reasonably obtain and apply the proceeds in discharge of the award of costs, and
+- (b) if he does so, he shall pay any balance to the person whom he believes to have owned the thing immediately before the sale.
+
+(6) Where the Secretary of State ceases to be entitled to retain a thing under this section he shall, subject to any order for forfeiture under section 6, return it to the person whom he believes to be its owner.
+
+(7) If the Secretary of State cannot after reasonable inquiry identify a person for the purposes of subsection (5)(b) or (6)—
+
+- (a) he shall apply to a magistrates’ court for directions, and
+- (b) the court shall make an order about the treatment of the thing or the balance of its price.
+
+## 6. Forfeiture.[^key-64654e97c716a4e5fc9c609d1d8e5e98][^key-b131debcd0c06e844184bc39402d944b]
+
+(1) A court which convicts a person of a park trading offence may order anything to which subsection (2) applies to be forfeited and dealt with in a manner specified in the order.
+
+(2) This subsection applies to anything which—
+
+- (a) was seized under section 4,
+- (b) is retained by the Secretary of State under section 5, and
+- (c) the court believes to have been used in the commission of the offence.
+
+(3) Before making an order for the forfeiture of a thing a court shall—
+
+- (a) permit anyone who claims to be its owner or to have an interest in it to make representations, and
+- (b) consider its value and the likely consequences of forfeiture.
+
+## 7. Extent.
+
+This Act shall not extend to Scotland or Northern Ireland.
+
+## 8. Short title.
+
+This Act may be cited as the Royal Parks (Trading) Act 2000.
+
+## Annotations
+
+[^c879659]: Marginal citation: [1926 c. 36](https://www.legislation.gov.uk/ukpga/1926/36).
+
+[^c879660]: Marginal citation: [1926 c. 36](https://www.legislation.gov.uk/ukpga/1926/36).
+
+[^key-64654e97c716a4e5fc9c609d1d8e5e98]: Modification: Ss. 4-6 power to apply conferred by 1926 c. 36, s. 2(1A) (as inserted (19.12.2011) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [ss. 150(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/150/1), [157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1); [S.I. 2011/2834](https://www.legislation.gov.uk/uksi/2011/2834), [art. 2(j)](https://www.legislation.gov.uk/uksi/2011/2834/article/2/j))
+
+[^key-024d7dbd07c7384284c5b02c554ad1e2]: Modification: Ss. 4, 5 applied by SI 1997/1639 reg. 3C (as inserted (28.3.2012) by [The Royal Parks and Other Open Spaces (Amendment) (No. 2) Regulations 2012 (S.I. 2012/957)](https://www.legislation.gov.uk/uksi/2012/957), [regs. 1](https://www.legislation.gov.uk/uksi/2012/957/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2012/957/regulation/2/2))
+
+[^c879661]: Marginal citation: [1872 c. 15](https://www.legislation.gov.uk/ukpga/1872/15).
+
+[^key-31a38de86b5dc6d33c3f51cb54439be6]: Textual amendment: S. 4(4)(5) added (8.5.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8), [Sch. 13 para. 9](https://www.legislation.gov.uk/ukpga/2005/15/schedule/13/paragraph/9); [S.I. 2006/1085](https://www.legislation.gov.uk/uksi/2006/1085), [art. 2(c)](https://www.legislation.gov.uk/uksi/2006/1085/article/2/c)
+
+[^key-b131debcd0c06e844184bc39402d944b]: Modification: [S. 6](https://www.legislation.gov.uk/ukpga/2000/13/section/6) applied by SI 1997/1639 reg. 3C (as inserted (28.3.2012) by [The Royal Parks and Other Open Spaces (Amendment) (No. 2) Regulations 2012 (S.I. 2012/957)](https://www.legislation.gov.uk/uksi/2012/957), [regs. 1](https://www.legislation.gov.uk/uksi/2012/957/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2012/957/regulation/2/2))

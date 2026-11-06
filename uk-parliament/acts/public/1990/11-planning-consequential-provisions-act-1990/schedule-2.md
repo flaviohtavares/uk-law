@@ -1,0 +1,1073 @@
+---
+title: Planning (Consequential Provisions) Act 1990, SCHEDULE 2
+act: Planning (Consequential Provisions) Act 1990
+section: schedule-2
+status: revised-with-pending-changes
+text_date: '2014-06-30'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/1990/11/schedule/2
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Planning (Consequential Provisions) Act 1990, SCHEDULE 2
+
+> **Warning: changes not yet applied to this text (6).** Text as at 2014-06-30. See https://www.legislation.gov.uk/changes/affected/ukpga/1990/11
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## SCHEDULE 2 — Consequential Amendments
+
+*Extent: E+W+S+N.I.*
+
+Section 4.
+
+### The Finance Act 1931 (c. 28)
+
+**1.**[^c1048466] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### The Mineral Workings Act 1951 (c. 60)
+
+**2.** In section 41(2A) of the Mineral Workings Act 1951 for the words “the Town and Country Planning Act 1971”, in both places where they occur, there shall be substituted the words “the Town and Country Planning Act 1990”.
+
+### The Agricultural Land (Removal of Surface Soil) Act 1953 (c. 10)
+
+*Extent: E+W+S*
+
+**3.** (1) In section 1(1)(b) of the Agricultural Land (Removal of Surface Soil) Act 1953 for the words “the Town and Country Planning Act, 1947” there shall be substituted the words “the Town and Country Planning Act 1990”.
+
+(2)[^c1048468] In section 2(3) of that Act for the words “section seventeen of the Town and Country Planning Act, 1947” there shall be substituted the words “section 64 of the Town and Country Planning Act 1990”.
+
+(3) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) In section 5(2) of that Act for the words “the Town and Country Planning Act, 1947” there shall be substituted the words “the Town and Country Planning Act 1990”.
+
+### The Historic Buildings and Ancient Monuments Act 1953 (c. 49)
+
+**4.** (1) In section 5A(1)(b) of the Historic Buildings and Ancient Monuments Act 1953, for the words “section 277 of the Town and Country Planning Act 1971” there shall be substituted the words “section 69 of the Planning (Listed Buildings and Conservation Areas) Act 1990”.
+
+(2) In section 5B(1) of that Act, for the words “section 114 or 119(1)(b) or (c) of the Town and Country Planning Act 1971” there shall be substituted the words “section 47 or 52 of the Planning (Listed Buildings and Conservation Areas) Act 1990”.
+
+### The Opencast Coal Act 1958 (c. 69)
+
+*Extent: E+W+S*
+
+**5.** In the Opencast Coal Act 1958—
+
+- (a)[^c1048470] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) in section 15(6) and (7) for the words “the Act of 1971” in each place where they occur there shall be substituted the words “the Act of 1990”;
+- (c) in section 51(1)—
+  - (i) there shall be inserted at the appropriate place
+
+    > “**the Act of 1990**” means the Town and Country Planning Act 1990
+
+    ; and
+  - (ii) in the definition of “planning permission” for the words “the Act of 1971” there shall be substituted the words “the Act of 1990”.
+
+### The Town and Country Planning Act 1959 (c. 53)
+
+**6.** For paragraph (c) of section 26(5) of the Town and Country Planning Act 1959 there shall be substituted—
+
+> - (c) to section 233 of the Town and Country Planning Act 1990 (which relates to the disposal of land for planning purposes)
+
+.
+
+### The Radioactive Substances Act 1960 (c. 34)
+
+*Extent: E+W*
+
+**7.**[^c1048471] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### The Caravan Sites and Control of Development Act 1960 (c. 62)
+
+**8.** At the end of section 29(4) of the Caravan Sites and Control of Development Act 1960 there shall be inserted the words “or granted on the designation of an enterprise zone under Schedule 32 to the Local Government, Planning and Land Act 1980”.
+
+### The Land Compensation Act 1961 (c. 33)
+
+**9.** (1) In paragraph 1 of Schedule 2 to the Land Compensation Act 1961—
+
+- (a) in sub-paragraph (2)(b) for the words from “under” to “1971” there shall be substituted the words “under Part IX of the Town and Country Planning Act 1990 or sections 47 to 52 of the Planning (Listed Buildings and Conservation Areas) Act 1990”;
+- (b) in sub-paragraph (2)(c) for the words “Part IX of that Act” there shall be substituted the words “Part VI of the Town and Country Planning Act 1990 or sections 32 to 37 of the Planning (Listed Buildings and Conservation Areas) Act 1990”.
+
+(2) In paragraph 3(2) of that Schedule—
+
+- (a) in paragraph (a) for the words from “section 180” to “1971” there shall be substituted the words “section 137 of the Town and Country Planning Act 1990”;
+- (b) in paragraph (b) for the words “Part IX” there shall be substituted the words “Part VI” and at the end of that paragraph there shall be added the words
+
+  > or
+  >
+  > - (c) sections 32 to 37 of the Planning (Listed Buildings and Conservation Areas) Act 1990
+
+  .
+
+### The Public Health Act 1961 (c. 64)
+
+**10.** In Schedule 4 to the Public Health Act 1961 for the second item in the Table there shall be substituted—
+
+> |  |  |
+> | --- | --- |
+> | A building which is included in a list compiled or approved under section 1 of the Planning (Listed Buildings and Conservation Areas) Act 1990. | The Secretary of State. |
+
+### The Harbours Act 1964 (c. 40)
+
+**11.** In section 52(2) of the Harbours Act 1964 for the words “section 266 of the Town and Country Planning Act 1971; and the provisions of subsection (7) of that section” there shall be substituted the words “subsection (2) of section 293 of the Town and Country Planning Act 1990; and the provisions of subsection (3) of that section”.
+
+### The Gas Act 1965 (c. 36)
+
+*Extent: E+W+S*
+
+**12.** (1) In section 4(6) of the Gas Act 1965-
+
+- (a) for the words “the Town and Country Planning Act 1971” there shall be substituted the words “the Town and Country Planning Act 1990”;
+- (b) for the words “section 40 of that Act” there shall be substituted the words “section 90 of that Act”.
+
+(2) In section 28(1) of that Act—
+
+- (a) in the definition of “local planning authority”, for the words “section 1 of the Town and Country Planning Act 1971” there shall be substituted the words “section 336(1) of the Town and Country Planning Act 1990”;
+- (b) in the definition of “planning permission”, for the words “Part III of the Town and Country Planning Act 1971” there shall be substituted the words “Part III of the Town and Country Planning Act 1990 (other than sections 88 and 89)”.
+
+(3) In Schedule 3 to that Act—
+
+- (a)[^c1048472] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) in paragraph 7(2), for the words “the Town and Country Planning Act 1971” there shall be substituted the words “the Town and Country Planning Act 1990”;
+- (c) in paragraph 9(a) for the words “section 146 of the Town and Country Planning Act 1971”, “Part VII of the said Act of 1971” and “sections 38 and 39 of the said Act of 1971” there shall be substituted respectively “section 120 of the Town and Country Planning Act 1990”, “Part V of the said Act of 1990” and “sections 80 and 81 of the said Act of 1990”.
+
+### The Compulsory Purchase Act 1965 (c. 56)
+
+**13.** (1) In section 1(4) of the Compulsory Purchase Act 1965—
+
+- (a) for the words “Part VI of the Town and Country Planning Act 1971” there shall be substituted the words “Part IX of the Town and Country Planning Act 1990 or section 52 of the Planning (Listed Buildings and Conservation Areas) Act 1990”;
+- (b) for the words “section 132(4) of that Act” there shall be substituted the words “section 245(4) of the Town and Country Planning Act 1990 or, as the case may be, section 52(2) of the Planning (Listed Buildings and Conservation Areas) Act 1990”.
+
+(2) In section 10(3) of that Act-
+
+- (a) for the words “Part VI of the Town and Country Planning Act 1971” there shall be substituted the words “Part IX of the Town and Country Planning Act 1990”;
+- (b) for the words “section 132(4)(b) of that Act” there shall be substituted the words “section 245(4)(b) of that Act”.
+
+### The Forestry Act 1967 (c. 10)
+
+**14.** (1) In section 9(4)(d) of the Forestry Act 1967, for the words “the Town and Country Planning Act 1971” there shall be substituted the words “the Town and Country Planning Act 1990”.
+
+(2) In the definition of “**tree preservation order**” in section 35 of that Act, for the words “section 60 of the Town and Country Planning Act 1971” there shall be substituted the words “section 198 of the Town and Country Planning Act 1990”.
+
+(3) In Schedule 3 to that Act—
+
+- (a) in paragraph 2—
+  - (i) in sub-paragraph (a), for the words “section 35 of the Town and Country Planning Act 1971” there shall be substituted the words “section 77 of the Town and Country Planning Act 1990”;
+  - (ii) in sub-paragraph (b), for the words “the said section 35” there shall be substituted the words “the said section 77”;
+- (b) in paragraph 3, for the words “the Town and Country Planning Act 1971” there shall be substituted the words “the Town and Country Planning Act 1990”.
+
+### The Agriculture Act 1967 (c. 22)
+
+**15.** (1) In section 49(5)(a) of the Agriculture Act 1967—
+
+- (a) for the words “section 246 of the Town and Country Planning Act 1971” there shall be substituted the words “section 289 of the Town and Country Planning Act 1990”;
+- (b) for the words “Part V of that Act” there shall be substituted the words “Part VII of that Act”.
+
+(2) In section 50(3)(b) of that Act, for the words “section 290(1) of the Town and Country Planning Act 1971” there shall be substituted the words “section 336(1) of the Town and Country Planning Act 1990”.
+
+(3) In section 52(2)(g) of that Act, for the words “the Town and Country Planning Act 1971” there shall be substituted the words “the Town and Country Planning Act 1990”.
+
+### The Civic Amenities Act 1967 (c. 69)
+
+*Extent: E+W+S*
+
+**16.**[^c1048473] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### The Leasehold Reform Act 1967 (c. 88)
+
+**17.** (1) In section 28(6) of the Leasehold Reform Act 1967, for the words from “that authority” to “is situated” there shall be substituted the words
+
+> that authority, in order to secure—
+>
+> - (a) the development or redevelopment of an area defined by a development plan under the Town and Country Planning Act 1990 as an area of comprehensive development; or
+> - (b) the treatment as a whole, by development, redevelopment or improvement, or partly by one and partly by another method, of any area in which the property is situated
+
+.
+
+(2) In paragraph 1(7) of Schedule 4 to that Act, for the words “the Town and Country Planning Act 1971” there shall be substituted the words “the Town and Country Planning Act 1990”.
+
+### The Public Expenditure and Receipts Act 1968 (c. 14)
+
+*Extent: E+W+S*
+
+**18.**[^c1048474] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### The Agriculture (Miscellaneous Provisions) Act 1968 (c. 34)
+
+**19.** In section 13(2) of the Agriculture (Miscellaneous Provisions) Act 1968 for the words “section 112 or 120 of the Town and Country Planning Act 1971” there shall be substituted the words “section 226 or 230 of the Town and Country Planning Act 1990”.
+
+### The Countryside Act 1968 (c. 41)
+
+*Extent: E+W*
+
+**20.**[^c1048475] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### The Caravan Sites Act 1968 (c. 52)
+
+**21.** (1) In section 8(3) of the Caravan Sites Act 1968, for the words “section 35 of the Town and Country Planning Act 1971” there shall be substituted the words “section 77 of the Town and Country Planning Act 1990”.
+
+(2) In the definition of “**planning permission**” in section 16 of that Act (as it applies in England and Wales), for the words “Part III of the Town and Country Planning Act 1971” there shall be substituted the words “Part III of the Town and Country Planning Act 1990”.
+
+### The Transport Act 1968 (c. 73)
+
+*Extent: E+W+S*
+
+**22.** (1)[^c1048476] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) In section 108 of that Act—
+
+- (a) in subsection (1) for paragraph (b) there shall be substituted—
+
+  > - (b) land to which section 215 of the Town and Country Planning Act 1990 applies;
+
+  ;
+
+  and for the words “the said Act of 1971” and “the said section 65” there shall be substituted respectively the words “the said Act of 1990” and “the said section 215”; and
+- (b) in subsection (3) for the words from “Part III” to “or” there shall be substituted the words “Part III of the Town and Country Planning Act 1962 or”.
+
+(3) In section 112(3)(d) of that Act, for the words “section 65 of the Town and Country Planning Act 1971” there shall be substituted the words “section 215 of the Town and Country Planning Act 1990”.
+
+(4) In section 141(2) of that Act, for the words “section 290(1) of the Town and Country Planning Act 1971” there shall be substituted the words “section 336(1) of the Town and Country Planning Act 1990”.
+
+(5)[^key-860af62313bb8a2f5dd71c0f5c35d6ec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### The Finance Act 1969 (c. 32)
+
+**23.** In the Table in section 58(4)(c) of the Finance Act 1969, in the entry relating to the Town and Country Planning Act 1971—
+
+- (a) in the first column for the words “the Town and Country Planning Act 1971” there shall be substituted the words “the Town and Country Planning Act 1990”; and
+- (b) for the entry in the second column there shall be substituted the words “Part II of the Town and Country Planning Act 1990”.
+
+### The Post Office Act 1969 (c. 48)
+
+**24.** (1)[^c1048480] In section 57 of the Post Office Act 1969 -
+
+- (a) in subsection (2)-
+  - (i) for the words “Sections 280(9) and 281(1) to (3) and (6) of the Town and Country Planning Act 1971” there shall be substituted the words “Sections 324(8), 325(1) to (5), (8) and (9) of the Town and Country Planning Act 1990”;
+  - (ii) for the words “section 280(1) to (8) thereof” there shall be substituted the words “section 324(1) to (7) and (9) thereof”;
+  - (iii) for the words “the said section 280” there shall be substituted the words “the said section 324”;
+  - (iv) in paragraph (a) for the words “section 280(9)” and the word “therein”, in both places where it occurs, there shall be substituted respectively the words “section 324(8)” and “in it”;
+  - (v) in paragraph (b) for the words “section 281(1)” there shall be substituted the words “section 325(1)”;
+- (b) in subsection (4)—
+  - (i) for the words “Section 179 of the Town and Country Planning Act 1971” there shall be substituted the words “Section 118 of the Town and Country Planning Act 1990”;
+  - (ii) for the words “Part VIII of that Act” there shall be substituted the words “Part IV of that Act”.
+
+(2)[^c1048481] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) In Schedule 9 to that Act—
+
+- (a) in paragraph 27—
+  - (i)[^c1048482] in sub-paragraph (7) (as it applies in England and Wales), for the words “Parts VII and XII of the Town and Country Planning Act 1971” there shall be substituted the words “Parts V and XII of the Town and Country Planning Act 1990”;
+  - (ii) in sub-paragraph (9) (as it applies in England and Wales), for the words “section 34 of the Town and Country Planning Act 1971” there shall be substituted the words “section 69 of the Town and Country Planning Act 1990”;
+  - (iii) in sub-paragraph (12)(a), for the words “the Town and Country Planning Act 1971” there shall be substituted the words “the Town and Country Planning Act 1990”;
+  - (iv) in sub-paragraph (14), for the words “Sections 41 and 42 of the Town and Country Planning Act 1971” there shall be substituted the words “Sections 91 and 92 of the Town and Country Planning Act 1990”;
+  - (v) in sub-paragraph (15) (as it applies in England and Wales), for the words “Subsections (5) and (7) of section 43 of the Town and Country Planning Act 1971” there shall be substituted the words “Subsections (2) and (4) of section 93 of the Town and Country Planning Act 1990”; and for the words “sections 41 and 42 of that Act” there shall be substituted the words “sections 91 and 92 of that Act of 1990”;
+- (b) in paragraph 28—
+  - (i) in sub-paragraph (1), for the words “section 266 of the Town and Country Planning Act 1971” and “section 27 of the said Act of 1971” there shall be substituted respectively the words “section 296 of the Town and Country Planning Act 1990” and “sections 66 and 67 of the said Act of 1990”;
+  - (ii) in sub-paragraph (2), for the words “the said Act of 1971” there shall be substituted the words “the said Act of 1990”;
+- (c) in paragraph 29 for the words “paragraph 34 of Schedule 24 to the Town and Country Planning Act 1971” and “section 87 of the said Act of 1971” there shall be substituted respectively the words “paragraph 34 of Schedule 24 to the Town and Country Planning Act 1971 (as it continues in effect by virtue of Schedule 3 to the Planning (Consequential Provisions) Act 1990)” and “section 172 of the Town and Country Planning Act 1990”.
+
+### The Courts Act 1971 (c. 23)
+
+**25.**[^key-6515631492fe599c2eb91cb0007886cd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### The Town and Country Planning (Amendment) Act 1972 (c. 42)
+
+*Extent: E+W+S*
+
+**26.**[^c1048483] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### The Town and Country Planning (Scotland) Act 1972 (c. 52)
+
+*Extent: S*
+
+**27.**[^c1048484] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### The Local Government Act 1972 (c. 70)
+
+*Extent: E+W*
+
+**28.** (1) In sections 122(2) and 126(4) of the Local Government Act 1972 for the words “section 121 of the Town and Country Planning Act 1971” and “the said section 121” there shall be substituted respectively the words “section 229 of the Town and Country Planning Act 1990” and “the said section 229”.
+
+(2) In paragraph (a) of the definition of “**local authority**” in section 140A(2) of that Act, for the words “section 1 of the Town and Country Planning Act 1971” there shall be substituted the words “section 2 of the Town and Country Planning Act 1990”.
+
+(3) In the definition of “**open space**” in section 270(1) of that Act, for the words “section 290(1) of the Town and Country Planning Act 1971” there shall be substituted the words “section 336(1) of the Town and Country Planning Act 1990”.
+
+(4) In the definition of “protected informant” in paragraph 1(1) of Part III of Schedule 12A to that Act, for the words “section 87(3) of the Town and Country Planning Act 1971” there shall be substituted the words “section 172(3) of the Town and Country Planning Act 1990”.
+
+(5) In paragraph 55(7) of Schedule 16 to that Act for the words “paragraph 32 of this Schedule” there shall be substituted the words “paragraph 1 of Schedule 1 to the Town and Country Planning Act 1990”.
+
+(6)[^c1048485] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### The Land Compensation Act 1973 (c. 26)
+
+*Extent: E+W+S*
+
+**29.** (1) In section 2(6) of the Land Compensation Act 1973—
+
+- (a) for the words “section 192(4)(a) of the Town and Country Planning Act 1971” there shall be substituted the words “section 149(3)(a) of the Town and Country Planning Act 1990”;
+- (b) for the words “section 207” there shall be substituted the words “section 171”;
+- (c) for the words “section 193” there shall be substituted the words “section 150”.
+
+(2) In section 5 of that Act—
+
+- (a)[^c1048486] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) in subsection (3)—
+  - (i)[^c1048487] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (ii)[^c1048487] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (iii) in paragraph (c), for the words “section 51 of the said Act of 1971” and “section 170” there shall be substituted respectively the words “section 102 of or paragraph 1 of Schedule 9 to the said Act of 1990” and “section 115”;
+- (c) in subsection (5), for the words “the said Act of 1971” there shall be substituted the words “the said Act of 1990”.
+
+(3) In section 26(6) of that Act, for the words “section 290(1) of the Town and Country Planning Act 1971” there shall be substituted the words “section 336(1) of the Town and Country Planning Act 1990”.
+
+(4)[^c1048489] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5) In section 34(6) of that Act, for the words “section 192 of the Town and Country Planning Act 1971” there shall be substituted the words “section 149 of the Town and Country Planning Act 1990”.
+
+(6) In section 39(2) of that Act, for the words “section 192 of the Town and Country Planning Act 1971” there shall be substituted the words “section 149 of the Town and Country Planning Act 1990”.
+
+(7) In section 46(2) of that Act—
+
+- (a) for the words “section 192(4)(a) of the Town and Country Planning Act 1971” there shall be substituted the words “section 149(3)(a) of the Town and Country Planning Act 1990”;
+- (b) for the words “section 207” there shall be substituted the words “section 171”;
+- (c) for the words “section 193” there shall be substituted the words “section 150”.
+
+(8) In section 51(6)(b) of that Act, for the words “the Town and Country Planning Act 1971” there shall be substituted the words “the Town and Country Planning Act 1990”.
+
+(9) In section 53 of that Act—
+
+- (a) in subsection (4), after the words “(3) above” there shall be inserted the words “or such a notice is deemed to have been served by virtue of sections 137 to 144 of the Town and Country Planning Act 1990”; and
+- (b) in subsection (5) the words from “sections 180” to “**or**” shall be omitted.
+
+(10) In section 58(1) of that Act, for the words “section 202(2) of the Town and Country Planning Act 1971” there shall be substituted the words “section 166(2) of the Town and Country Planning Act 1990”.
+
+(11) In the definition of “**agricultural unit**” in section 87(1) of that Act for the words “section 207(1) of the Town and Country Planning Act 1971” there shall be substituted the words “section 171(1) of the Town and Country Planning Act 1990”.
+
+### The Employment and Training Act 1973 (c. 50)
+
+**30.** In section 4 of the Employment and Training Act 1973—
+
+- (a) in subsection (3)(e), for the words “the Town and Country Planning Act 1971” there shall be substituted the words “the Town and Country Planning Act 1990”; and
+- (b) in subsection (5)(d), for the words “the said Act of 1971” there shall be substituted the words “the said Act of 1990”.
+
+### The Control of Pollution Act 1974 (c. 40)
+
+**31.** (1) In section 5(2) of the Control of Pollution Act 1974, for the words “the Town and Country Planning Act 1971” there shall be substituted the words “the Town and Country Planning Act 1990”. *(affected by repeal, see note)*[^key-2eb921cb5bedf886f33c2670c391304d]
+
+(2) In section 105(3) of that Act, for the words “subsection (7) of section 266 of the Town and Country Planning Act 1971” there shall be substituted the words “subsection (1) of section 293 of the Town and Country Planning Act 1990”.
+
+### The House of Commons Disqualification Act 1975 (c. 24)
+
+**32.** In Part II of Schedule 1 to the House of Commons Disqualification Act 1975, in the first entry relating to “A Planning Inquiry Commission”, for the words “Part III of the Town and Country Planning Act 1971” there shall be substituted the words “Part III of the Town and Country Planning Act 1990”.
+
+### The Coal Industry Act 1975 (c. 56)
+
+*Extent: E+W+S*
+
+*Extent: S*
+
+**33.**[^c1048490] In section 2(3) of the Coal Industry Act 1975, for the words “the Town and Country Planning Act 1971” there shall be substituted the words “the Town and Country Planning Act 1990”
+
+### The Welsh Development Agency Act 1975 (c. 70)
+
+*Extent: E+W+S*
+
+**34.** (1) In section 7(1) of the Welsh Development Agency Act 1975, for the words “section 29 of the Town and Country Planning Act 1971” there shall be substituted the words “section 70 of the Town and Country Planning Act 1990”.
+
+(2)[^c1048491] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) In section 27(1) of that Act-
+
+- (a) in the definition of “the appropriate Minister”, for the words “section 224 of the Town and Country Planning Act 1971” there shall be substituted the words “section 265 of the Town and Country Planning Act 1990”;
+- (b) in paragraph (b) of the definition of “statutory undertakers”, for the words “the Town and Country Planning Act 1971” there shall be substituted the words “the Town and Country Planning Act 1990”.
+
+### The Local Government (Miscellaneous Provisions) Act 1976 (c. 57)
+
+*Extent: E+W*
+
+**35.** (1) In section 7(5) of the Local Government (Miscellaneous Provisions) Act 1976—
+
+- (a) in paragraph (a)(i), for the words “the Town and Country Planning Act 1971” there shall be substituted the words “the Town and Country Planning Act 1990”;
+- (b)[^c1048492] in paragraph (a)(iii), for the words “section 87 of that Act” there shall be substituted the words “section 172 of that Act”.
+
+(2) In section 15(9) of that Act, for the words “section 280(7) of the Town and Country Planning Act 1971” there shall be substituted the words “section 324(6) of the Town and Country Planning Act 1990, section 88(5) of the Planning (Listed Buildings and Conservation Areas) Act 1990”.
+
+(3) In section 26(6) of that Act, for the words “section 222 of the Town and Country Planning Act 1971” there shall be substituted the words “section 263 of the Town and Country Planning Act 1990”.
+
+### The Race Relations Act 1976 (c. 74)
+
+**36.** In section 19A(3)(a) of the Race Relations Act 1976, for the words “the Town and Country Planning Act 1971” there shall be substituted the words “the Town and Country Planning Act 1990, the Planning (Listed Buildings and Conservation Areas) Act 1990 and the Planning (Hazardous Substances) Act 1990”.
+
+### The Development of Rural Wales Act 1976 (c. 75)
+
+*Extent: E+W+S*
+
+**37.**[^c1048493] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### The Rent (Agriculture) Act 1976 (c. 80)
+
+*Extent: E+W*
+
+**38.**[^c1048494] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### The Health Services Act 1976 (c. 83)
+
+**39.** (1) In section 12(1)(b) of the Health Services Act 1976, for the words “the Town and Country Planning Act 1971” there shall be substituted the words “the Town and Country Planning Act 1990”.
+
+(2) In section 15(5) of that Act—
+
+- (a) in the definition of “local planning authority”, for the words “the Town and Country Planning Act 1971” there shall be substituted the words “the Town and Country Planning Act 1990”;
+- (b) in the definition of “planning permission”, for the words “the said Act of 1971” there shall be substituted the words “the said Act of 1990”.
+
+### The National Health Service Act 1977 (c. 49)
+
+**40.**[^key-f1a94b8c050ad27658e94a09534b6617] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### The Refuse Disposal (Amenity) Act 1978 (c. 3)
+
+**41.** In section 8 of the Refuse Disposal (Amenity) Act 1978—
+
+- (a) in subsection (2)—
+  - (i) for the words “Section 281(1) to (5) of the Town and Country Planning Act 1971” there shall be substituted the words “Section 325(1) to (7) of the Town and Country Planning Act 1990”;
+  - (ii) for the words “section 280”, in both places where they occur, there shall be substituted the words “section 324”;
+- (b) in subsection (3), for the words from “Sections” to “1971” there shall be substituted the words “Sections 320, 322, 323, 329 and 330 of the said Act of 1990”.
+
+### The Estate Agents Act 1979 (c. 38)
+
+**42.** In section 1(2)(e) of the Estate Agents Act 1979, for the words “the Town and Country Planning Act 1971” there shall be substituted the words “the Town and Country Planning Act 1990, the Planning (Listed Buildings and Conservation Areas) Act 1990, the Planning (Hazardous Substances) Act 1990”.
+
+### The Ancient Monuments and Archaeological Areas Act 1979 (c. 46)
+
+**43.** (1) In section 32(1) of the Ancient Monuments and Archaeological Areas Act 1979—
+
+- (a) for the words “the Town and Country Planning Act 1971” there shall be substituted the words “the Town and Country Planning Act 1990 or the Planning (Listed Buildings and Conservation Areas) Act 1990”;
+- (b) for the words “the said Act of 1971” there shall be substituted the words “the said Acts of 1990”.
+
+(2) In section 61 of that Act, in the definition of “**works**” in subsection (1) and in subsection (2)(b), for the words “the Town and Country Planning Act 1971” there shall be substituted the words “the Town and Country Planning Act 1990”.
+
+### The Local Government, Planning and Land Act 1980 (c. 65)
+
+*Extent: E+W+S*
+
+**44.** (1) In section 3(5)(c) of the Local Government, Planning and Land Act 1980, for the words “the Town and Country Planning Act 1971” there shall be substituted the words “the Town and Country Planning Act 1990”.
+
+(2) In section 99(6)(a) of that Act, for the words “the Town and Country Planning Act 1971” there shall be substituted the words “the Town and Country Planning Act 1990”.
+
+(3)[^c1048496] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4)[^c1048496] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5) In section 148 of that Act—
+
+- (a) in subsection (2), for the words “section 24 of the 1971 Act” there shall be substituted the words “section 59 of the 1990 Act”;
+- (b) in subsection (3), for the words “section 54(1) of the 1971 Act” there shall be substituted the words “section 1 of the Planning (Listed Buildings and Conservation Areas) Act 1990”;
+- (c) in subsection (4)—
+  - (i) in paragraph (a), for the words “paragraph 32 of Schedule 16 to the Local Government Act 1972” there shall be substituted the words “paragraph 1 of Schedule 1 to the 1990 Act”;
+  - (ii) in paragraph (b), for the words “Schedule 3 to the Town and Country Planning Act 1971” there shall be substituted the words “Part I of the 1990 Act”.
+
+(6) In section 149 of that Act—
+
+- (a) in subsection (1) for the words “Part III of the 1971 Act” there shall be substituted the words “Part III of the 1990 Act”;
+- (b) in subsection (3)(a) for the words “the 1971 Act” there shall be substituted the words “the 1990 Act and the Planning (Listed Buildings and Conservation Areas) Act 1990”;
+- (c) in subsection (3)(b) for the words “the 1971 Act” there shall be substituted the words “those Acts”.
+
+(7) In section 170(1)(b) and (3)(a) of that Act for the words “the 1971 Act” there shall be substituted the words “the 1990 Act”.
+
+(8) In section 171 of that Act, for the word “1971” in both places where it occurs there shall be substituted the word “1990”.
+
+(9)[^c1048496] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(10)[^c1048496] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(11) In Schedule 28 to that Act—
+
+- (a) in paragraph 14(6) for the words “Sections 238 and 240 of the 1971 Act” and “section 237(2) of the 1971 Act” there shall be substituted respectively the words “Sections 280 and 282 of the 1990 Act” and “section 279(2) of the 1990 Act”;
+- (b) in paragraph 16(8) for the words “Sections 238 and 240 of the 1971 Act” and “section 237(3) of the 1971 Act” there shall be substituted respectively the words “Sections 280 and 282 of the 1990 Act” and “section 279(4) of the 1990 Act”.
+
+(12) In Schedule 29 to that Act for the enactments referred to in Part I there shall be substituted—
+
+> Sections 172, 173, 178, 183, 184, 188, 197, 198, 199, 201, 206, 207, 209, 211, 213 to 215, 219, 220 and 224 of the 1990 Act.
+>
+> Sections 3, 4, 8, 10, 11, 13 to 16, 20, 23 to 25, 38, 42, 47, 48, 50, 53, 54, 60, 69 to 72, 74, 75 and 82 of the Planning (Listed Buildings and Conservation Areas) Act 1990.
+
+(13) For paragraphs 1 to 9 of Part II of that Schedule there shall be substituted—
+
+> **1.** Section 139 of the 1990 Act shall have effect as if after the word “undertakers” there were inserted—
+>
+> - (a) in paragraph (b) of subsection (1), the words “or an urban development corporation”;
+> - (b) in paragraph (c) of that subsection, the words “or any urban development corporation”; and
+> - (c) in subsection (3), the words “or urban development corporation”.
+>
+> **2.** Section 140(2)(d) of that Act shall have effect as if after the word “undertakers” there were inserted the words “or an urban development corporation”.
+>
+> **3.** Section 141(4) of that Act shall have effect as if after the word “undertakers” there were inserted the words “or an urban development corporation”.
+>
+> **4.** Section 143(1)(b) of that Act shall have effect as if—
+>
+> - (a) after the word “undertakers” in the first place where it occurs, there were inserted the words “or an urban development corporation”; and
+> - (b) after that word, in the second place where it occurs, there were inserted the words “or that corporation”.
+>
+> **5.** The definition of “**relevant provisions**” in section 148 of that Act shall have effect as if after the word “undertaking” there were added the words “or, in the case of an urban development corporation, section 142 of the Local Government, Planning and Land Act 1980.”.
+>
+> **6.** Section 249 of that Act shall have effect as if—
+>
+> - (a) in subsection (1) after the word “applies” there were inserted the words “subject to subsection (1A)”; and
+> - (b) the following subsection were inserted after that subsection—
+>
+> (1A) Any reference in this section and in section 250 to a local planning authority is to be construed as including a reference to an urban development corporation.
+>
+> **7.** Section 251 of that Act shall have effect as if—
+>
+> - (a) in subsection (1), for the word “Where” there were substituted the words “Subject to subsection (1A), where”; and
+> - (b) the following subsection were inserted after that subsection—
+>
+> (1A) Where any land has been acquired by an urban development corporation or has vested in such a corporation and is for the time being held by them for the purpose of regenerating their area, the Secretary of State may by order extinguish any public right of way over the land if he is satisfied that an alternative right of way has been or will be provided or that the provision of an alternative right of way is not required.
+>
+> **8.** Section 258 of that Act shall have effect as if—
+>
+> - (a) in subsection (1), for the word “Where” there were substituted the words “Subject to subsection (1A), where”; and
+> - (b) the following subsection were inserted after that subsection—
+>
+> (1A) Where any land has been acquired by an urban development corporation or has vested in such a corporation and is for the time being held by them for the purpose of regenerating their area, then, subject to section 259, the urban development corporation may by order extinguish any public right of way over the land being a footpath or bridleway, if they are satisfied that an alternative right of way has been or will be provided or that the provision of an alternative right of way is not required.
+>
+> **9.** Section 330 of that Act shall have effect as if—
+>
+> - (a) after the words “local authority” in the first place where they occur in subsection (1), there were inserted the words “or an urban development corporation”; and
+> - (b) after those words, in the second place where they occur in subsection (1) and in subsection (3), there were inserted the words “or corporation”.
+>
+> **10.** Section 33 of the Planning (Listed Buildings and Conservation Areas) Act 1990 shall have effect as if—
+>
+> - (a) in subsection (1)(b) after the word “undertakers” there were inserted the words “or an urban development corporation”;
+> - (b) in subsection (1)(c), after the word “undertakers” there were inserted the words “or an urban development corporation”;
+> - (c) in subsection (3), after the word “undertakers” there were inserted the words “or corporation”.
+>
+> **11.** Section 34(2)(d) of that Act shall have effect as if after the word “undertakers” there were inserted the words “or an urban development corporation”.
+>
+> **12.** Section 35(6) of that Act shall have effect as if after the word “undertakers” there were inserted the words “or an urban development corporation”.
+>
+> **13.** Section 36(4) of that Act shall have effect as if after the word “undertakers” in the first place where it occurs there were inserted the words “or an urban development corporation” and in the second place where it occurs there were inserted the words “or that corporation”.
+>
+> **14.** Section 91(2) of that Act shall have effect as if the words “urban development corporation” were inserted at the appropriate place.
+
+(14) In Schedule 32 to that Act—
+
+- (a) in paragraph 7(2) for the words “subsection (9) of section 280 and subsections (1) to (6) of section 281 of the 1971 Act” and “to section 280” there shall be substituted respectively the words “subsection (8) of section 324 and section 325 of the 1990 Act” and “to section 324”;
+- (b) in paragraph 8, for the word “1971”, in both places where it occurs, there shall be substituted the word “1990”;
+- (c)[^c1048500] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d) in paragraph 26—
+  - (i) in sub-paragraph (1) for the words “the 1971 Act”, in the first place where they occur, there shall be substituted the words “the 1990 Act, the Planning (Listed Buildings and Conservation Areas) Act 1990, the Planning (Hazardous Substances) Act 1990”;
+  - (ii) in that sub-paragraph for the definition of “the 1971 Act” there shall be substituted the words
+
+    > “**the 1990 Act**” means the Town and Country Planning Act 1990
+
+    ; and
+  - (iii) in sub-paragraph (2)(a) for the word “1971” there shall be substituted the word “1990”.
+
+### The Highways Act 1980 (c. 66)
+
+*Extent: E+W*
+
+**45.** (1) In section 21 of the Highways Act 1980-
+
+- (a) in subsection (1)—
+  - (i) for the words “sections 230 to 232 of the Town and Country Planning Act 1971” there shall be substituted the words “sections 271 to 274 of the Town and Country Planning Act 1990”;
+  - (ii) for the words “Part VI of that Act” there shall be substituted the words “Part IX of that Act”;
+  - (iii) for the words “sections 237(2) and (3), 238 and 240, which provide for the payment of compensation, and sections 233 to 236, which contain provisions consequential on the extinguishment of any rights under section 230” there shall be substituted the words “sections 279(2) to (4), 280 and 282, which provide for the payment of compensation, and sections 275 to 278 which contain provisions consequential on the extinguishment of any rights under section 271 or 272”;
+- (b) in subsection (3), for the words “the said Act of 1971” there shall be substituted the words “the said Act of 1990”;
+- (c) in subsection (4), for the words “section 230 or 232 of the said Act of 1971” there shall be substituted the words “section 271, 272 or 273 of the said Act of 1990”.
+
+(2)[^c1048501] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) In section 36(2)(d) of that Act, for the words “section 209 of the Town and Country Planning Act 1971 or by a competent authority under section 210 of that Act” there shall be substituted the words “section 247 of the Town and Country Planning Act 1990 or by a competent authority under section 257 of that Act”.
+
+(4) In section 80(3)(c) of that Act, for the words “the Town and Country Planning Act 1971” there shall be substituted the words “the Town and Country Planning Act 1990”.
+
+(5) In section 105A(4)(b) of that Act for the words “the Town and Country Planning Act 1971” there shall be substituted the words “the Planning (Listed Buildings and Conservation Areas) Act 1990”.
+
+(6) In the definition of “**pedestrian planning order**” in section 115A(2) of that Act, for the words “section 212(2) of the Town and Country Planning Act 1971” there shall be substituted the words “section 249(2) of the Town and Country Planning Act 1990”.
+
+(7) In sections 115H(1)(b)(ii), [^c1048502]. . . and 123(2) of that Act, for the words “the Town and Country Planning Act 1971” there shall be substituted the words “the Town and Country Planning Act 1990”.
+
+(8) In section 125 of that Act—
+
+- (a) in subsections (1) and (2)(a), for the words “section 211 of the Town and Country Planning Act 1971” there shall be substituted the words “section 248 of the Town and Country Planning Act 1990”;
+- (b) in subsection (4) for the words “Section 215 of the Town and Country Planning Act 1971”, “section 211 of that Act” and “section 215(2) and (7)” there shall be substituted respectively the words “Section 252 of the Town and Country Planning Act 1990”, “section 248 of that Act” and “section 252(2), (3), (10) and (11)”.
+
+(9) In section 126(1)(b) of that Act, for the words “section 211 of the Town and Country Planning Act 1971” there shall be substituted the words “section 248 of the Town and Country Planning Act 1990”.
+
+(10) In section 166(3) of that Act for the words “section 290(1) of the Town and Country Planning Act 1971” there shall be substituted the words “section 336(1) of the Town and Country Planning Act 1990”.
+
+(11) In sections 184(3) and 203(2)(b)(i) of that Act, for the words “the Town and Country Planning Act 1971” there shall be substituted the words “the Town and Country Planning Act 1990”.
+
+(12) In section 232 of that Act—
+
+- (a) in subsection (8), for the words “the Town and Country Planning Act 1971” there shall be substituted the words “the Town and Country Planning Act 1990”;
+- (b) in subsection (9), in the definition of “development plan”, for the words “section 20 of the Town and Country Planning Act 1971” there shall be substituted the words “sections 27 and 54 of the Town and Country Planning Act 1990”.
+
+(13) In section 246(2) of that Act—
+
+- (a) for the words “section 192(3) to (5) of the Town and Country Planning Act 1971” there shall be substituted the words “subsection (2) of section 149 of the Town and Country Planning Act 1990”;
+- (b) for the word “references”, in the first place where it occurs, there shall be substituted the words “the reference in subsection (4) of that section”; and
+- (c) for the words “section 193 of that Act as references” there shall be substituted the words “section 150 of that Act as a reference”.
+
+(14) In section 253(5) of that Act, for the words “section 52 of the Town and Country Planning Act 1971” there shall be substituted the words “section 106 of the Town and Country Planning Act 1990”.
+
+(15) In section 262 of that Act—
+
+- (a) in subsection (1)—
+  - (i) in paragraph (b), for the words “section 180, 188 or 189 of the Town and Country Planning Act 1971” there shall be substituted the words “section 137 of the Town and Country Planning Act 1990”;
+  - (ii) in paragraph (c), for the words “section 193 of that Act or section 78 of the Land Compensation Act 1973” and “section 196 of the said Act of 1971” there shall be substituted respectively the words “section 150 or 161 of that Act” and “section 154 of that Act”;
+- (b) in subsection (2)—
+  - (i) in paragraph (b), for the words “section 180, 188 or 189 of the Town and Country Planning Act 1971” there shall be substituted the words “section 137 of the Town and Country Planning Act 1990”;
+  - (ii) in paragraph (c), for the words “section 193 of that Act or section 78 of the Land Compensation Act 1973” there shall be substituted the words “section 150 or 161 of that Act” and for the words “section 196 of the said Act of 1971” there shall be substituted the words “section 154 of that Act”;
+
+(16) In section 272(1)(i) of that Act, for the words “section 211 of the Town and Country Planning Act 1971” there shall be substituted the words “section 248 of the Town and Country Planning Act 1990”.
+
+(17) In the definition of “**local planning authority**” in section 329(1) of that Act, for the words “the Town and Country Planning Act 1971” there shall be substituted the words “the Town and Country Planning Act 1990”.
+
+(18) In section 337 of that Act, for the words “section 23 of the Town and Country Planning Act 1971” there shall be substituted the words “section 57 of the Town and Country Planning Act 1990”.
+
+(19) In Schedule 5 to that Act—
+
+- (a) in the heading of that Schedule for the words “the Town and Country Planning Act 1971” there shall be substituted the words “the Town and Country Planning Act 1990”;
+- (b) in paragraph 1 of Part I for the words from “sections” to “Act”)” there shall be substituted the words “sections 271, 272, 274, 279(2) to (4), 280 and 282 of the Town and Country Planning Act 1990 (referred to in this Schedule as “**the 1990 Act**”)”;
+- (c) for paragraph 2 of that Part there shall be substituted—
+
+  > **2.** In subsection (2) of section 271 and of section 272 for the words from “any development” to “appropriated” substitute “any works in pursuance of the scheme or order, or as the case may be, for the purpose of ensuring that the highway can be safely used as a special road”.
+
+  ;
+- (d) in paragraph 3 of that Part for the words from “subsection (4)” to “section 231” there shall be substituted the words “subsection (5) of the said section 271 and of the said section 272 and subsections (2) and (3) of the said section 274”;
+- (e) in paragraph 4 of that Part for the words “section 232(1) of the 1971 Act” there shall be substituted the words “section 273(1) of the 1990 Act”;
+- (f) in paragraphs 5 and 6 of that Part for the words “section 232” there shall be substituted the words “section 273”;
+- (g) in paragraph 1 of Part II for the words from “sections” to “1971 Act” there shall be substituted the words “sections 271, 272, 274, 279(2) to (4), 280 and 282 of the 1990 Act”;
+- (h) for paragraph 2 of that Part there shall be substituted—
+
+  > **2.** In subsection (2) of section 271 and of section 272 for the words from “is necessary” to “appropriated” substitute “is made necessary by the works in connection with which the stopping up or diversion of the highway is or was authorised”.
+
+  ;
+- (i) in paragraph 3 of that Part for the words from “subsection (4)” to “section 231” there shall be substituted the words “subsection (5) of the said section 271 and of the said section 272 and subsections (2) and (3) of the said section 274”;
+- (j) in paragraph 4 of that Part for the words “section 232 of the 1971 Act” there shall be substituted the words “section 273 of the 1990 Act”;
+- (k) in paragraph 5 of that Part for the words “the said section 232” there shall be substituted the words “the said section 273”.
+
+### The Water Act 1981 (c. 12)
+
+*Extent: E+W*
+
+**46.**[^c1048503] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### The English Industrial Estates Corporation Act 1981 (c. 13)
+
+*Extent: E+W*
+
+**47.**[^c1048504] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### The Disused Burial Grounds (Amendment) Act 1981 (c. 18)
+
+**48.** In section 7 of the Disused Burial Grounds (Amendment) Act 1981, for the words “the Town and Country Planning Acts 1971 and 1972” there shall be substituted the words “the planning Acts (within the meaning of the Town and Country Planning Act 1990)”.
+
+### The Zoo Licensing Act 1981 (c. 37)
+
+**49.** In section 4(6) of the Zoo Licensing Act 1981, for the words “the Town and Country Planning Act 1971” and “the said Act of 1971” there shall be substituted respectively the words “the Town and Country Planning Act 1990” and “the said Act of 1990”.
+
+### The Transport Act 1981 (c. 56)
+
+**50.** In paragraph 9 of Schedule 4 to the Transport Act 1981, for the words “section 290(1) of the Town and Country Planning Act 1971” there shall be substituted the words “section 262(1) of the Town and Country Planning Act 1990”.
+
+### The New Towns Act 1981 (c. 64)
+
+**51.** (1) In section 7 of the New Towns Act 1981—
+
+- (a) in subsection (2) for the words “section 24 of the Town and Country Planning Act 1971” and “section 24 of that Act of 1971” there shall be substituted respectively the words “section 59 of the Town and Country Planning Act 1990” and “sections 59 to 61 of that Act of 1990”; and
+- (b) in subsection (3) for the words “paragraph 32 of Schedule 16 to the Local Government Act 1972” there shall be substituted the words “paragraph 1 of Schedule 1 to the Town and Country Planning Act 1990”.
+
+(2) In section 8 of that Act, for the words “section 54(1) of the Town and Country Planning Act 1971” there shall be substituted the words “section 1 of the Planning (Listed Buildings and Conservation Areas) Act 1990”.
+
+(3) In the definition of “**planning permission**” in section 80(1) of that Act, for the words “the Town and Country Planning Act 1971” there shall be substituted the words “the Town and Country Planning Act 1990”.
+
+(4) In paragraph 3(3)(a) of Schedule 10 to that Act, for the words “section 24 of the Town and Country Planning Act 1971” there shall be substituted the words “section 59 of the Town and Country Planning Act 1990”.
+
+### The Compulsory Purchase (Vesting Declarations) Act 1981 (c. 66)
+
+**52.** (1) In section 2(3) of the Compulsory Purchase (Vesting Declarations) Act 1981, for the words “Section 284 of the Town and Country Planning Act 1971” there shall be substituted the words “Section 330 of the Town and Country Planning Act 1990”.
+
+(2) In section 6(2) of that Act, for the words “Section 283 of the Town and Country Planning Act 1971” there shall be substituted the words “Section 329 of the Town and Country Planning Act 1990”.
+
+(3) In section 11(6) of that Act, for the words “section 290(1) of the Town and Country Planning Act 1971” there shall be substituted the words “section 336(1) of the Town and Country Planning Act 1990”.
+
+### The Acquisition of Land Act 1981 (c. 67)
+
+**53.** (1) In the definition of “**listed building**” in section 20(5) of the Acquisition of Land Act 1981, for the words “section 54 of the Town and Country Planning Act 1971” there shall be substituted the words “section 1 of the Planning (Listed Buildings and Conservation Areas) Act 1990”.
+
+(2) In section 31 of that Act—
+
+- (a) in subsection (1)(a), for the words “the Town and Country Planning Act 1971” there shall be substituted the words “the Town and Country Planning Act 1990 or the Planning (Listed Buildings and Conservation Areas) Act 1990”;
+- (b) in subsection (4), for the words “sections 238 to 240 of the Town and Country Planning Act 1971” and “section 238(1)(c)” there shall be substituted respectively the words “sections 280 to 282 of the Town and Country Planning Act 1990” and “section 280(1)(c)”.
+
+(3) In section 32(7) of that Act, for the words “section 214 of the Town and Country Planning Act 1971” there shall be substituted the words “section 251 or 258 of the Town and Country Planning Act 1990”.
+
+(4) In the definition of “listed building” in paragraph 7(5) of Schedule 3 to that Act, for the words “section 54 of the Town and Country Planning Act 1971” there shall be substituted the words “section 1 of the Planning (Listed Buildings and Conservation Areas) Act 1990”.
+
+### The Wildlife and Countryside Act 1981 (c. 69)
+
+**54.** (1) In sections 28(8)(a), 29(9)(a) and 34(5) of the Wildlife and Countryside Act 1981, for the words “Part III of the Town and Country Planning Act 1971” there shall be substituted the words “Part III of the Town and Country Planning Act 1990”.
+
+(2) In section 70A of that Act—
+
+- (a) in subsection (1), for the words “section 283 of the Town and Country Planning Act 1971” there shall be substituted the words “section 329 of the Town and Country Planning Act 1990”;
+- (b) in subsection (2), for the words “Subsections (2) and (3) of the said section 283” there shall be substituted the words “Subsections (2) and (3) of the said section 329”.
+
+### The Civil Aviation Act 1982 (c. 16)
+
+**55.** (1) In section 48(9) of the Civil Aviation Act 1982, for the words “subsections (1) and (2) of section 220 of the Town and Country Planning Act 1971” and “section 209 of the said Act of 1971” there shall be substituted respectively the words “subsections (1) to (4) of section 256 of the Town and Country Planning Act 1990” and “section 247 of the said Act of 1990”.
+
+(2) In section 51 of that Act—
+
+- (a) in subsection (2)(a), for the words “section 238(2), (3), (5) and (6) of the Town and Country Planning Act 1971” there shall be substituted the words “section 280(2) to (5), (7) and (8) of the Town and Country Planning Act 1990”;
+- (b) in subsection (5)—
+  - (i) for the words “Subsections (2), (3), (5) and (6) of the said sections 238 and” there shall be substituted the words “Subsections (2) to (5), (7) and (8) of the said section 280 and subsections (2), (3), (5) and (6) of the said section”;
+  - (ii) in paragraph (a), for the words “section 238” and “section 237(2)” there shall be substituted respectively the words “section 280” and “section 279(2) or (3)”;
+  - (iii) in paragraph (c), for the words “subsection (6) of each of the said sections” there shall be substituted the words “subsection (8) of the said section 280 and subsection (6) of the said section 227”;
+- (c) in subsection (7), for the words “sections 233 to 235 of the Town and Country Planning Act 1971” there shall be substituted the words “sections 275 to 277 of the Town and Country Planning Act 1990”.
+
+(3) In section 53 of that Act—
+
+- (a) in subsection (1)—
+  - (i) in paragraph (a), for the words “section 164, 165, 169, 187(2) or 237(1) of the Town and Country Planning Act 1971” there shall be substituted the words “section 107, 108, 114, 144(2) or 279(1) of the Town and Country Planning Act 1990”;
+  - (ii) in paragraph (b), for the words “the said section 164” and “section 45 of the said Act of 1971” there shall be substituted respectively the words “the said section 107” and “section 97 of the said Act of 1990”;
+- (b) in subsection (2), for the words “section 168 of the said Act of 1971” there shall be substituted the words “sections 111 and 112 of the said Act of 1990”;
+- (c) in subsection (3) for the words “section 180 of the said Act of 1971” and “section 181(2) or 186(1) of the said Act of 1971” there shall be substituted respectively the words “section 137 of the said Act of 1990” and “section 139(3) or 143(1) of the said Act of 1990”;
+- (d) in subsection (5), for the words “the said section 45” there shall be substituted the words “the said section 97”;
+- (e) in subsection (6), for the words “the said Act of 1971” there shall be substituted the words “the said Act of 1990”.
+
+(4) In section 54 of that Act—
+
+- (a) in subsection (1) for the words “section 128 of the Town and Country Planning Act 1971” and “Part VI of the said Act of 1971” there shall be substituted respectively the words “sections 238 to 240 of the Town and Country Planning Act 1990” and “Part IX of the said Act of 1990”;
+- (b) in subsection (2) for the words “The said sections 128” and “Part VI of the said Act of 1971” there shall be substituted respectively the words “The said sections 238 to 240” and “Part IX of the said Act of 1990” .
+
+(5) In Schedule 10 to that Act—
+
+- (a) in paragraph 4—
+  - (i) for the words “section 236 of the Town and Country Planning Act 1971” there shall be substituted the words “section 278 of the Town and Country Planning Act 1990”;
+  - (ii) in sub-paragraph (a), for the words “the said section 236 to section 233 of the said Act of 1971” there shall be substituted the words “the said section 278 to section 275 or 276 of the said Act of 1990”;
+  - (iii) in sub-paragraph (c), the words from “either” to “**or**” shall be omitted;
+- (b) in paragraph 8—
+  - (i) for the words “section 236 of the Town and Country Planning Act 1971” there shall be substituted the words “section 278 of the Town and Country Planning Act 1990”;
+  - (ii) in sub-paragraph (a), for the words “the said section 236 to section 235 of the said Act of 1971” there shall be substituted the words “the said section 278 to section 277 of the said Act of 1990”;
+  - (iii) in sub-paragraph (c), the words from “either” to “**or**” shall be omitted.
+
+### The Local Government (Miscellaneous Provisions) Act 1982 (c. 30)
+
+**56.** (1) In section 33(9)(a) of the Local Government (Miscellaneous Provisions) Act 1982, for the words “section 1 of the Town and Country Planning Act 1971” there shall be substituted the words “section 2 of the Town and Country Planning Act 1990”.
+
+(2) In section 37(8) of that Act, for the words “Part III of the Town and Country Planning Act 1971” there shall be substituted the words “Part III of the Town and Country Planning Act 1990”.
+
+(3) In paragraph (b) of the definition of “**local authority**” in section 41(13) and in section 45(2)(b) of that Act, for the words “section 1 of the Town and Country Planning Act 1971” there shall be substituted the words “section 2 of the Town and Country Planning Act 1990”.
+
+### The Industrial Development Act 1982 (c. 52)
+
+**57.** In section 14(6) of the Industrial Development Act 1982, for the words “subsection (9) of section 280 and subsections (1) to (4) and (6) of section 281 of the Town and Country Planning Act 1971” and “the said section 280” there shall be substituted respectively the words “subsection (8) of section 324 and subsections (1) to (6), (8) and (9) of section 325 of the Town and Country Planning Act 1990” and “the said section 324”.
+
+### The Conwy Tunnel (Supplementary Powers) Act 1983 (c. 7)
+
+**58.** (1) In the definition of “**Crown land**” in section 22(1) of the Conwy Tunnel (Supplementary Powers) Act 1983, for the words “Part XIV of the Town and Country Planning Act 1971” there shall be substituted the words “Part XIII of the Town and Country Planning Act 1990”.
+
+(2) In paragraph 8(1) of Schedule 1 to that Act—
+
+- (a) for the words “Sections 230 to 232 of the Town and Country Planning Act 1971” there shall be substituted the words “Sections 271 to 274 of the Town and Country Planning Act 1990”;
+- (b) for the words “section 230(1) of that Act” there shall be substituted the words “section 271(1) or 272(1) of that Act”;
+- (c) for the words “section 230(1) and 232(1)” there shall be substituted the words “sections 271(2), 272(2) and 273(1)”;
+- (d) for the words “section 232(2)” there shall be substituted the words “section 273(2)”;
+- (e) for the words “sections 230 to 232 (including sections 237(2) and (3), 238 and 240, which provide for the payment of compensation, and sections 233 to 236, which contain provisions consequential on the extinguishment of any rights under section 230)” there shall be substituted the words “sections 271 to 274 (including sections 279(2) to (4), 280 and 282, which provide for the payment of compensation, and sections 275 to 278 which contain provisions consequential on the extinguishment of any rights under section 271 or 272)”.
+
+(3) In paragraph 1(2) of Schedule 3 to that Act, for the words “section 230(1)(b) of the Town and Country Planning Act 1971” there shall be substituted the words “paragraph (b) of section 271(1) or of section 272(1) of the Town and Country Planning Act 1990”.
+
+### The Mobile Homes Act 1983 (c. 34)
+
+**59.** In the definition of “**planning permission**” in section 5(1) of the Mobile Homes Act 1983, for the words “Part III of the Town and Country Planning Act 1971” there shall be substituted the words “Part III of the Town and Country Planning Act 1990”.
+
+### The National Heritage Act 1983 (c. 47)
+
+**60.** In the definition of “**conservation area**” in section 33(8) of the National Heritage Act 1983, for the words “section 277 of the Town and Country Planning Act 1971” there shall be substituted the words “section 69 of the Planning (Listed Buildings and Conservation Areas) Act 1990”.
+
+### The Value Added Tax Act 1983 (c. 55)
+
+**61.**[^c1048505] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### The Town and Country Planning Act 1984 (c. 10)
+
+*Extent: E+W+S*
+
+**62.**[^c1048506] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### The Telecommunications Act 1984 (c. 12)
+
+**63.**[^key-a569f8b648beed20c37b9dda46bffae4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### The Road Traffic Regulation Act 1984 (c. 27)
+
+**64.** (1) In section 75(3)(b) of the Road Traffic Regulation Act 1984, for the words “section 54 of the Town and Country Planning Act 1971” there shall be substituted the words “section 1 of the Planning (Listed Buildings and Conservation Areas) Act 1990”.
+
+(2) In Schedule 4 to that Act—
+
+- (a) in paragraph 12(2), for the words “any specified operation within the meaning of section 43(1) of the Town and Country Planning Act 1971” there shall be substituted the words “any material operation within the meaning of section 56(4) of the Town and Country Planning Act 1990”;
+- (b) in paragraph 20(a)(ii), for the words “section 290(1) of the Town and Country Planning Act 1971” there shall be substituted the words “section 336(1) of the Town and Country Planning Act 1990”;
+- (c) in paragraph 22—
+  - (i) in sub-paragraph (4) for the words “Section 178 of the Town and Country Planning Act 1971” there shall be substituted the words “Section 117 of the Town and Country Planning Act 1990”;
+  - (ii) in sub-paragraph (5) for the words “section 45 or 51 of the said Act of 1971” and “section 164 or, as the case may be, section 170 of that Act” there shall be substituted respectively the words “section 97 or 102 of or paragraph 1 of Schedule 9 to the said Act of 1990” and “section 107 or, as the case may be, section 115 of that Act”.
+
+### The London Regional Transport Act 1984 (c. 32)
+
+**65.** In section 7(9) of the London Regional Transport Act 1984, for the words “section 20 of the Town and Country Planning Act 1971” there shall be substituted the words “sections 27 and 54 of the Town and Country Planning Act 1990”.
+
+### The Cycle Tracks Act 1984 (c. 38)
+
+**66.** In section 3(10) of the Cycle Tracks Act 1984 for the words “the Town and Country Planning Act 1971” there shall be substituted the words “the Town and Country Planning Act 1990”.
+
+### The Building Act 1984 (c. 55)
+
+**67.** (1) In section 19(1) of the Building Act 1984, for the words “the Town and Country Planning Act 1971” there shall be substituted the words “the Town and Country Planning Act 1990”.
+
+(2) In section 20(1) of that Act, for the words “Part III or IV of the Town and Country Planning Act 1971” there shall be substituted the words “Part III or Part VIII of the Town and Country Planning Act 1990 or under the Planning (Listed Buildings and Conservation Areas) Act 1990 or the Planning (Hazardous Substances) Act 1990”.
+
+(3) In section 77(3) of that Act, for the words “the Town and Country Planning Act 1971” and “orders” there shall be substituted respectively the words “the Planning (Listed Buildings and Conservation Areas) Act 1990” and “notices”.
+
+(4) In section 79 of that Act—
+
+- (a) in subsection (4), for the words “section 290(1) of the Town and Country Planning Act 1971” there shall be substituted the words “section 336(1) of the Town and Country Planning Act 1990”;
+- (b) in subsection (5), for the words “the Town and Country Planning Act 1971” and “orders” there shall be substituted respectively the words “the Planning (Listed Buildings and Conservation Areas) Act 1990” and “notices”.
+
+### The Town and Country Planning (Compensation) Act 1985 (c.19)
+
+**68.**[^c1048507] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### The Local Government Act 1985 (c. 51)
+
+**69.** (1) In section 3(5) of the Local Government Act 1985 for the words from the beginning to “that Schedule” there shall be substituted the words “In paragraph 55(1) of Schedule 16 to the Local Government Act 1972”.
+
+(2) In Schedule 13 to that Act—
+
+- (a) in paragraph 13(d), for the words “section 215 of the Town and Country Planning Act 1971” there shall be substituted the words “section 252 of the Town and Country Planning Act 1990”;
+- (b) in paragraph 19, for the words “paragraph 1(3) of Schedule 20 to the Town and Country Planning Act 1971” there shall be substituted the words “paragraph 1(3) of Schedule 14 to the Town and Country Planning Act 1990”.
+
+### The Town and Country Planning (Amendment) Act 1985 (c. 52)
+
+*Extent: E+W+S*
+
+**70.**[^c1048508] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### The Housing Act 1985 (c. 68)
+
+**71.** (1) In section 256 of the Housing Act 1985—
+
+- (a) in subsection (1) for the words “section 212 of the Town and Country Planning Act 1971” there shall be substituted the words “sections 249 and 250 of the Town and Country Planning Act 1990”;
+- (b) in subsection (2) for the words “subsection (2) or (8) of that section” there shall be substituted the words “subsection (2) or (6) of section 249”;
+- (c) in subsection (4) for the words “subsection (2) of that section” and “subsection (5) of that section” there shall be substituted respectively the words “subsection (2) of section 249” and “subsection (1) of section 250”.
+
+(2) In section 303 of that Act, for the words “section 54 of the Town and Country Planning Act 1971” there shall be substituted the words “section 1 of the Planning (Listed Buildings and Conservation Areas) Act 1990”.
+
+(3) In section 305 of that Act—
+
+- (a) in subsection (1), for the words “under section 55 of the Town and Country Planning Act 1971 (listed building consent) for his consent” there shall be substituted the words “for his consent under section 8 of the Planning (Listed Buildings and Conservation Areas) Act 1990”;
+- (b) in subsection (6)(a) and (b), for the words “Part VI of the Town and Country Planning Act 1971” there shall be substituted the words “Part IX of the Town and Country Planning Act 1990”;
+
+(4) In section 306 of that Act—
+
+- (a) in subsection (1), for the words “under section 55 of the Town and Country Planning Act 1971 for his consent” there shall be substituted the words “for his consent under section 8 of the Planning (Listed Buildings and Conservation Areas) Act 1990”;
+- (b) in subsection (2)(b), for the words “Part VI of the Town and Country Planning Act 1971” there shall be substituted the words “Part IX of the Town and Country Planning Act 1990”.
+
+(5) In section 610(1)(b) of that Act, for the words “the Town and Country Planning Act 1971” there shall be substituted the words “the Town and Country Planning Act 1990”.
+
+(6) In paragraph 3(2) of Schedule 1 to that Act, for the words “section 22 of the Town and Country Planning Act 1971” there shall be substituted the words “section 55 of the Town and Country Planning Act 1990”.
+
+### The Agricultural Holdings Act 1986 (c. 5)
+
+**72.** In paragraph 8(2) of Part II of Schedule 3 to the Agricultural Holdings Act 1986, for the words “section 30A(2) of the Town and Country Planning Act 1971” there shall be substituted the words “section 336(1) of the Town and Country Planning Act 1990”.
+
+### The Airports Act 1986 (c. 31)
+
+**73.** (1) In section 59(6) of the Airports Act 1986, for the words “section 128 of the Town and Country Planning Act 1971” and “Part VI of that Act of 1971” there shall be substituted respectively the words “sections 238 to 240 of the Town and Country Planning Act 1990” and “Part IX of that Act of 1990”.
+
+(2) In section 61 of that Act—
+
+- (a) in subsection (1)—
+  - (i) in paragraph (a), for the words “section 164, 165, 169, 187(2), or 237(1) of the Town and Country Planning Act 1971 (“the 1971 Act”)” there shall be substituted the words “section 107, 108, 114, 144(2) or 279(1) of the Town and Country Planning Act 1990 (“the 1990 Act”)”;
+  - (ii) in paragraph (b), for the words “section 164 of the 1971 Act” and “section 45 of the 1971 Act” there shall be substituted respectively the words “section 107 of the 1990 Act” and “section 97 of the 1990 Act”;
+- (b) in subsection (2), for the words “section 168 of the 1971 Act” there shall be substituted the words “sections 111 and 112 of the 1990 Act”;
+- (c) in subsection (3) for the words “section 180 of the 1971 Act” and “section 181(2) or 186(1) of the 1971 Act” there shall be substituted respectively the words “section 137 of the 1990 Act” and “section 139(3) or 143(1) of the 1990 Act”;
+- (d) in subsection (5), for the words “section 45 of the 1971 Act” there shall be substituted the words “section 97 of the 1990 Act”;
+- (e) in subsection (6), for the words “the 1971 Act” there shall be substituted the words “the 1990 Act”.
+
+### The Finance Act 1986 (c. 41)
+
+**74.** In paragraph (a) of the definition of “the relevant planning enactment” in paragraph 1(1) of Schedule 13 to the Finance Act 1986, for the words “section 290(1) of the Town and Country Planning Act 1971” there shall be substituted the words “section 336(1) of the Town and Country Planning Act 1990”.
+
+### The Channel Tunnel Act 1987 (c. 53)
+
+**75.** In Part III of Schedule 2 to the Channel Tunnel Act 1987, in paragraph 27(8) for the words “section 290(1) of the Town and Country Planning Act 1971” there shall be substituted the words “section 336(1) of the Town and Country Planning Act 1990”.
+
+### The Norfolk and Suffolk Broads Act 1988 (c. 4)
+
+**76.** In section 25(1) of the Norfolk and Suffolk Broads Act 1988, in paragraph (a) of the definition of “statutory undertaker” for the words “the Town and Country Planning Act 1971” there shall be substituted the words “the Town and Country Planning Act 1990”.
+
+### The Dartford-Thurrock Crossing Act 1988 (c. 20)
+
+**77.** In section 30 of the Dartford-Thurrock Crossing Act 1988, for the words “the Town and Country Planning Act 1971” there shall be substituted the words “the Town and Country Planning Act 1990”.
+
+### The Education Reform Act 1988 (c. 40)
+
+*Extent: E+W*
+
+**78.**[^c1048509] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### The Housing Act 1988 (c. 50)
+
+**79.** (1) In section 28(6) of the Housing Act 1988, for the words “has the same meaning as in section 43(3) of the Town and Country Planning Act 1971” there shall be substituted the words “has the meaning given in section 56(6) of the Town and Country Planning Act 1990”.
+
+(2) In section 66 of that Act—
+
+- (a) in subsection (2) for the words “section 24 of the 1971 Act” and “that section” there shall be substituted respectively the words “sections 59 to 61 of the 1990 Act” and “section 59”;
+- (b) in subsection (3) for the words “section 54(1) of the 1971 Act” there shall be substituted the words “section 1 of the Planning (Listed Buildings and Conservation Areas) Act 1990”;
+- (c) in subsection (4)(a) for the words “section 1 of the 1971 Act” there shall be substituted the words “sections 1 and 2 of the 1990 Act”;
+- (d) in subsection (4)(b) for the words “paragraph 32 of Schedule 16 to the Local Government Act 1972” there shall be substituted the words “paragraph 1 of Schedule 1 to the 1990 Act”.
+
+(3) In section 67 of that Act—
+
+- (a) in subsection (1) for the words from the beginning to “Act” there shall be substituted the words “The Secretary of State may by order provide that, for such purposes of Part III of the 1990 Act and sections 67 and 73 of the Planning (Listed Buildings and Conservation Areas) Act 1990,” and the words from “in place” onwards shall be omitted;
+- (b) in subsection (3)—
+  - (i) in paragraph (a) for the words from “Parts” to “Act” there shall be substituted the words “the provisions mentioned in subsection (3A) below”;
+  - (ii) in paragraph (b) for the words from “Part” to “Act” there shall be substituted the words “Part VI and sections 249 to 251 and 258 of the 1990 Act and sections 32 to 37 of the Planning (Listed Buildings and Conservation Areas) Act 1990”;
+- (c) after subsection (3) there shall be inserted—
+
+  > (3A) The provisions referred to in subsection (3)(a) above are sections 96, 100, 104, 172 to 185, 187 to 202, 206 to 222, 224, 225, 231 and 320 to 336 of and paragraph 11 of Schedule 9 to the 1990 Act, Chapters I, II and IV of Part I and sections 54 to 56, 59 to 61, 66, 68 to 72, 74 to 76 and 88 of the Planning (Listed Buildings and Conservation Areas) Act 1990 and sections 4 to 15, 17 to 21, 23 to 25 and 36 of the Planning (Hazardous Substances) Act 1990.
+
+  ;
+- (d) subsections (5) and (6) shall be omitted.
+
+(4) For paragraph (g) of section 92(1) of that Act there shall be substituted—
+
+> - (g) “**the 1990 Act**” means the Town and Country Planning Act 1990
+
+.
+
+(5) In Part I of Schedule 9 to that Act—
+
+- (a) in paragraph 3(1)(a) for the words “the Town and Country Planning Act 1971” there shall be substituted the words “the Town and Country Planning Act 1990”;
+- (b) in paragraph 4(b) for the words “the Town and Country Planning Act 1971” there shall be substituted the words “the Town and Country Planning Act 1990, the Planning (Listed Buildings and Conservation Areas) Act 1990 or the Planning (Hazardous Substances) Act 1990”.
+
+(6) In Part II of Schedule 10 to that Act—
+
+- (a) in paragraph 12(6) for the words “Sections 238 and 240 of the Town and Country Planning Act 1971” and “section 237(2)” there shall be substituted respectively the words “Sections 280 and 282 of the Town and Country Planning Act 1990” and “section 279(2)”;
+- (b) in paragraph 14(8) for the words “Sections 238 and 240 of the Town and Country Planning Act 1971” and “section 237(3)” there shall be substituted respectively the words “Sections 280 and 282 of the Town and Country Planning Act 1990” and “section 279(4)”.
+
+### The National Maritime Museum Act 1989 (c. 8)
+
+**80.** In section 1(4) of the National Maritime Museum Act 1989, for the words “the Town and Country Planning Act 1971” there shall be substituted the words “the Town and Country Planning Act 1990, the Planning (Listed Buildings and Conservation Areas) Act 1990”.
+
+### The Water Act 1989 (c. 15)
+
+**81.** (1)[^c1048510] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2)[^c1048510] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) In section 192(5) of that Act for the words “section 266 of the Town and Country Planning Act 1971” and “subsection (7) of the said section 266” there shall be substituted respectively the words “section 293 of the Town and Country Planning Act 1990” and “subsection (3) of the said section 293”.
+
+### The Road Traffic (Driver Licensing and Information Systems) Act 1989 (c. 22)
+
+**82.** In Schedule 4 to the Road Traffic (Driver Licensing and Information Systems) Act 1989, in paragraph 1 for the words “Sections 230 to 232 of the Town and Country Planning Act 1971” and “the 1971 Act” there shall be substituted respectively the words “Sections 271 to 274 of the Town and Country Planning Act 1990” and “the 1990 Act”.
+
+### The Electricity Act 1989 (c. 29)
+
+**83.** (1) In paragraph 2(5) of Schedule 3, paragraph 12 of Schedule 4 and paragraph 2(6)(a) of Schedule 8 to the Electricity Act 1989, for the words “the Town and Country Planning Act 1971” there shall be substituted the words “the Town and Country Planning Act 1990”.
+
+(2) In Part II of Schedule 17 to that Act, in paragraph 37(1)(b) for the words “section 1B of the Town and Country Planning Act 1971” there shall be substituted the words “section 2 of the Planning (Hazardous Substances) Act 1990”.
+
+### The Local Government and Housing Act 1989 (c. 42)
+
+**84.** In section 94 of the Local Government and Housing Act 1989—
+
+- (a) in subsection (1) for the words “section 212 of the Town and Country Planning Act 1971” there shall be substituted the words “sections 249 and 250 of the Town and Country Planning Act 1990”;
+- (b) in subsection (2) for the words “subsection (2) or subsection (8) of that section” there shall be substituted the words “subsection (2) or subsection (6) of section 249”;
+- (c) in subsection (4) for the words “subsection (2) of that section” and “subsection (5) of that section” there shall be substituted respectively the words “subsection (2) of section 249” and “subsection (1) of section 250”.
+
+## Annotations
+
+[^c1048466]: Textual amendment: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/1990/11/schedule/2/paragraph/1) repealed (19.11.1998) by [1998 c. 43](https://www.legislation.gov.uk/ukpga/1998/43), s.(1), Sch. 1 Pt. IV Group. 2
+
+[^c1048468]: Textual amendment: [Sch. 2 para. 3(2)](https://www.legislation.gov.uk/ukpga/1990/11/schedule/2/paragraph/3/2) repealed (E.W.) (27.7.1992) by [Planning and Compensation Act 1991 (c. 34, SIF 123:1)](https://www.legislation.gov.uk/ukpga/1991/34), [s. 84(2)(6)](https://www.legislation.gov.uk/ukpga/1991/34/section/84/2/6), [Sch. 19 Pt. I](https://www.legislation.gov.uk/ukpga/1991/34/schedule/19/part/I); [S.I. 1992/1630](https://www.legislation.gov.uk/uksi/1992/1630), [art. 2](https://www.legislation.gov.uk/uksi/1992/1630/article/2) (with saving in [art. 3(3)](https://www.legislation.gov.uk/uksi/1992/1630/article/3/3))
+
+[^c1048470]: Textual amendment: [Sch. 2 para. 5(a)](https://www.legislation.gov.uk/ukpga/1990/11/schedule/2/paragraph/5/a) repealed (31.10.1994) by [1994 c. 21](https://www.legislation.gov.uk/ukpga/1994/21), [ss. 67](https://www.legislation.gov.uk/ukpga/1994/21/section/67), [Sch. 11 Pt. II](https://www.legislation.gov.uk/ukpga/1994/21/schedule/11/part/II) (with [ss. 40(7)](https://www.legislation.gov.uk/ukpga/1994/21/section/40/7), [66](https://www.legislation.gov.uk/ukpga/1994/21/section/66)); [S.I. 1994/2553](https://www.legislation.gov.uk/uksi/1994/2553), [art. 2](https://www.legislation.gov.uk/uksi/1994/2553/article/2)
+
+[^c1048471]: Textual amendment: [Sch. 2 para. 7](https://www.legislation.gov.uk/ukpga/1990/11/schedule/2/paragraph/7) repealed (27.8.1993) by [1993 c. 12](https://www.legislation.gov.uk/ukpga/1993/12), [ss. 50](https://www.legislation.gov.uk/ukpga/1993/12/section/50), [51(2)](https://www.legislation.gov.uk/ukpga/1993/12/section/51/2), [Sch.6 Pt. I](https://www.legislation.gov.uk/ukpga/1993/12/schedule/6/part/I) (with [ss. 42](https://www.legislation.gov.uk/ukpga/1993/12/section/42), [46](https://www.legislation.gov.uk/ukpga/1993/12/section/46)).
+
+[^c1048472]: Textual amendment: [Sch. 2 para. 12(3)(a)](https://www.legislation.gov.uk/ukpga/1990/11/schedule/2/paragraph/12/3/a) repealed (25.09.1991) by [Planning and Compensation Act 1991 (c. 34, SIF 123:1)](https://www.legislation.gov.uk/ukpga/1991/34), [s. 84(6)](https://www.legislation.gov.uk/ukpga/1991/34/section/84/6), [Sch. 19 Pt.II](https://www.legislation.gov.uk/ukpga/1991/34/schedule/19/part/II); [S.I. 1991/2067](https://www.legislation.gov.uk/uksi/1991/2067), [art.3](https://www.legislation.gov.uk/uksi/1991/2067/article/3).
+
+[^c1048473]: Textual amendment: [Sch. 2 para. 16](https://www.legislation.gov.uk/ukpga/1990/11/schedule/2/paragraph/16) repealed (27.5.1997) by [1997 c. 11](https://www.legislation.gov.uk/ukpga/1997/11), [ss. 3](https://www.legislation.gov.uk/ukpga/1997/11/section/3), [6(3)](https://www.legislation.gov.uk/ukpga/1997/11/section/6/3), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/1997/11/schedule/1/part/1) (with [s. 5](https://www.legislation.gov.uk/ukpga/1997/11/section/5), [Sch. 3](https://www.legislation.gov.uk/ukpga/1997/11/schedule/3))
+
+[^c1048474]: Textual amendment: [Sch. 2 para. 18](https://www.legislation.gov.uk/ukpga/1990/11/schedule/2/paragraph/18) repealed (25.09.1991) by [Planning and Compensation Act 1991 (c. 34, SIF 123:1)](https://www.legislation.gov.uk/ukpga/1991/34), [s. 84(6)](https://www.legislation.gov.uk/ukpga/1991/34/section/84/6), [Sch. 19 Pt.II](https://www.legislation.gov.uk/ukpga/1991/34/schedule/19/part/II); [S.I. 1991/2067](https://www.legislation.gov.uk/uksi/1991/2067), [art.3](https://www.legislation.gov.uk/uksi/1991/2067/article/3).
+
+[^c1048475]: Textual amendment: [Sch. 2 para. 20](https://www.legislation.gov.uk/ukpga/1990/11/schedule/2/paragraph/20) repealed (1.4.1997) by [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25), [s. 120(3)](https://www.legislation.gov.uk/ukpga/1995/25/section/120/3), [Sch. 24](https://www.legislation.gov.uk/ukpga/1995/25/schedule/24) (with [ss. 115](https://www.legislation.gov.uk/ukpga/1995/25/section/115), [117](https://www.legislation.gov.uk/ukpga/1995/25/section/117)); [S.I. 1996/2560](https://www.legislation.gov.uk/uksi/1996/2560), [art. 2](https://www.legislation.gov.uk/uksi/1996/2560/article/2)
+
+[^c1048476]: Textual amendment: Sch. 2 para. 22(1) repealed (1.1.1996) by [1995 c. 23](https://www.legislation.gov.uk/ukpga/1995/23), [s. 60(2)](https://www.legislation.gov.uk/ukpga/1995/23/section/60/2), [Sch. 8 Pt. I](https://www.legislation.gov.uk/ukpga/1995/23/schedule/8/part/I) (with [ss. 54](https://www.legislation.gov.uk/ukpga/1995/23/section/54), [55](https://www.legislation.gov.uk/ukpga/1995/23/section/55)); [S.I. 1995/2181](https://www.legislation.gov.uk/uksi/1995/2181), [art. 2](https://www.legislation.gov.uk/uksi/1995/2181/article/2)
+
+[^key-860af62313bb8a2f5dd71c0f5c35d6ec]: Textual amendment: [Sch. 2 para. 22(5)](https://www.legislation.gov.uk/ukpga/1990/11/schedule/2/paragraph/22/5) repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 11](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/11)
+
+[^c1048480]: Textual amendment: [Sch. 2 para. 24(1)](https://www.legislation.gov.uk/ukpga/1990/11/schedule/2/paragraph/24/1) repealed (U.K.) (26.3.2001) by [S.I. 2001/1149](https://www.legislation.gov.uk/uksi/2001/1149), [art. 3(2)](https://www.legislation.gov.uk/uksi/2001/1149/article/3/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2001/1149/schedule/2) (with savings and transitional provisions in [art. 4](https://www.legislation.gov.uk/uksi/2001/1149/article/4))
+
+[^c1048481]: Textual amendment: [Sch. 2 para. 24(2)](https://www.legislation.gov.uk/ukpga/1990/11/schedule/2/paragraph/24/2) repealed (27.5.1997) by [1997 c. 11](https://www.legislation.gov.uk/ukpga/1997/11), [ss. 3](https://www.legislation.gov.uk/ukpga/1997/11/section/3), [6(3)](https://www.legislation.gov.uk/ukpga/1997/11/section/6/3), [Sch. 1 Pt. I](https://www.legislation.gov.uk/ukpga/1997/11/schedule/1/part/I) (with [s. 5](https://www.legislation.gov.uk/ukpga/1997/11/section/5), [Sch. 3](https://www.legislation.gov.uk/ukpga/1997/11/schedule/3))
+
+[^c1048482]: Textual amendment: [Sch. 2 para. 24(3)(a)(i)](https://www.legislation.gov.uk/ukpga/1990/11/schedule/2/paragraph/24/3/a/i) repealed (E.W.S.) (25.09.1991) by [Planning and Compensation Act 1991 (c. 34, SIF 123: 1)](https://www.legislation.gov.uk/ukpga/1991/34), [s. 84(6)](https://www.legislation.gov.uk/ukpga/1991/34/section/84/6), [Sch. 19 Pt. II](https://www.legislation.gov.uk/ukpga/1991/34/schedule/19/part/II); [S.I. 1991/2067](https://www.legislation.gov.uk/uksi/1991/2067), [art. 3](https://www.legislation.gov.uk/uksi/1991/2067/article/3).
+
+[^key-6515631492fe599c2eb91cb0007886cd]: Textual amendment: [Sch. 2 para. 25](https://www.legislation.gov.uk/ukpga/1990/11/schedule/2/paragraph/25) repealed (1.4.2005) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [s. 110(1)](https://www.legislation.gov.uk/ukpga/2003/39/section/110/1), [Sch. 10](https://www.legislation.gov.uk/ukpga/2003/39/schedule/10); [S.I. 2005/910](https://www.legislation.gov.uk/uksi/2005/910), [art. 3(aa)](https://www.legislation.gov.uk/uksi/2005/910/article/3/aa)
+
+[^c1048483]: Textual amendment: [Sch. 2 para. 26](https://www.legislation.gov.uk/ukpga/1990/11/schedule/2/paragraph/26) repealed (27.5.1997) by [1997 c. 11](https://www.legislation.gov.uk/ukpga/1997/11), [ss. 3](https://www.legislation.gov.uk/ukpga/1997/11/section/3), [6(3)](https://www.legislation.gov.uk/ukpga/1997/11/section/6/3), [Sch. 1 Pt. I](https://www.legislation.gov.uk/ukpga/1997/11/schedule/1/part/I) (with [s. 5](https://www.legislation.gov.uk/ukpga/1997/11/section/5), [Sch. 3](https://www.legislation.gov.uk/ukpga/1997/11/schedule/3))
+
+[^c1048484]: Textual amendment: [Sch. 2 para. 27](https://www.legislation.gov.uk/ukpga/1990/11/schedule/2/paragraph/27) repealed (27.5.1997) by [1997 c. 11](https://www.legislation.gov.uk/ukpga/1997/11), [ss. 3](https://www.legislation.gov.uk/ukpga/1997/11/section/3), [6(3)](https://www.legislation.gov.uk/ukpga/1997/11/section/6/3) Sch. 1 Pt. I (with s. 5, Sch. 3)
+
+[^c1048485]: Textual amendment: [Sch. 2 para. 28(6)](https://www.legislation.gov.uk/ukpga/1990/11/schedule/2/paragraph/28/6) repealed (1.4.1997) by [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25), [s. 120(3)](https://www.legislation.gov.uk/ukpga/1995/25/section/120/3), [Sch. 24](https://www.legislation.gov.uk/ukpga/1995/25/schedule/24) (with [ss. 115](https://www.legislation.gov.uk/ukpga/1995/25/section/115), [117](https://www.legislation.gov.uk/ukpga/1995/25/section/117)); [S.I. 1996/2560](https://www.legislation.gov.uk/uksi/1996/2560), [art. 2](https://www.legislation.gov.uk/uksi/1996/2560/article/2)
+
+[^c1048486]: Textual amendment: [Sch. 2 para. 29(2)(a)](https://www.legislation.gov.uk/ukpga/1990/11/schedule/2/paragraph/29/2/a) repealed (25.9.1991) by [Planning and Compensation Act 1991 (c. 34, SIF 123:1)](https://www.legislation.gov.uk/ukpga/1991/34), [s. 84(4)(6)](https://www.legislation.gov.uk/ukpga/1991/34/section/84/4/6), [Sch. 19 Pt.II](https://www.legislation.gov.uk/ukpga/1991/34/schedule/19/part/II) (subject to [s. 31](https://www.legislation.gov.uk/ukpga/1991/34/section/31), [Sch. 6 para. 5(2)](https://www.legislation.gov.uk/ukpga/1991/34/schedule/6/paragraph/5/2)); [S.I. 1991/2067](https://www.legislation.gov.uk/uksi/1991/2067), [art. 3](https://www.legislation.gov.uk/uksi/1991/2067/article/3)
+
+[^c1048487]: Textual amendment: [Sch. 2 para. 29(2)(b)(i)](https://www.legislation.gov.uk/ukpga/1990/11/schedule/2/paragraph/29/2/b/i) and (ii) repealed (25.9.1991) by [Planning and Compensation Act 1991 (c. 34, SIF 123:1)](https://www.legislation.gov.uk/ukpga/1991/34), [s. 84(4)(6)](https://www.legislation.gov.uk/ukpga/1991/34/section/84/4/6), [Sch. 19 Pt.II](https://www.legislation.gov.uk/ukpga/1991/34/schedule/19/part/II) (subject to [s. 31](https://www.legislation.gov.uk/ukpga/1991/34/section/31), [Sch. 6 para. 5(2)](https://www.legislation.gov.uk/ukpga/1991/34/schedule/6/paragraph/5/2)); [S.I. 1991/2067](https://www.legislation.gov.uk/uksi/1991/2067), [art. 3](https://www.legislation.gov.uk/uksi/1991/2067/article/3)
+
+[^c1048489]: Textual amendment: [Sch. 2 para. 29(4)](https://www.legislation.gov.uk/ukpga/1990/11/schedule/2/paragraph/29/4) repealed (25.09.1991) by [Planning and Compensation Act 1991 (c. 34, SIF 28:1)](https://www.legislation.gov.uk/ukpga/1991/34), [s. 84(6)](https://www.legislation.gov.uk/ukpga/1991/34/section/84/6), [Sch. 19 Pt.III](https://www.legislation.gov.uk/ukpga/1991/34/schedule/19/part/III); [S.I. 1991/2067](https://www.legislation.gov.uk/uksi/1991/2067), [art.3](https://www.legislation.gov.uk/uksi/1991/2067/article/3).
+
+[^key-2eb921cb5bedf886f33c2670c391304d]: Textual amendment: Sch. 2 para. 31(1) repealed (S.) (30.6.2014) by [Regulatory Reform (Scotland) Act 2014 (asp 3)](https://www.legislation.gov.uk/asp/2014/3), [s. 61(2)](https://www.legislation.gov.uk/asp/2014/3/section/61/2), [sch. 3 para. 22](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/22); [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
+
+[^c1048490]: Textual amendment: [Sch. 2 para. 33](https://www.legislation.gov.uk/ukpga/1990/11/schedule/2/paragraph/33) repealed (E.W.)(31.10.1994) by [1994 c. 21](https://www.legislation.gov.uk/ukpga/1994/21), [ss. 67](https://www.legislation.gov.uk/ukpga/1994/21/section/67), [68(2)(e)](https://www.legislation.gov.uk/ukpga/1994/21/section/68/2/e), [Sch. 11 Pt. II](https://www.legislation.gov.uk/ukpga/1994/21/schedule/11/part/II) (with [ss. 40(7)](https://www.legislation.gov.uk/ukpga/1994/21/section/40/7), [66](https://www.legislation.gov.uk/ukpga/1994/21/section/66)); [S.I. 1994/2553](https://www.legislation.gov.uk/uksi/1994/2553), [art. 2](https://www.legislation.gov.uk/uksi/1994/2553/article/2)
+
+[^c1048491]: Textual amendment: [Sch. 2 para. 34(2)](https://www.legislation.gov.uk/ukpga/1990/11/schedule/2/paragraph/34/2) repealed (1.10.1998) by [1998 c. 38](https://www.legislation.gov.uk/ukpga/1998/38), [s. 152](https://www.legislation.gov.uk/ukpga/1998/38/section/152), [Sch. 18 Pt. III](https://www.legislation.gov.uk/ukpga/1998/38/schedule/18/part/III) (with [ss. 137(1)](https://www.legislation.gov.uk/ukpga/1998/38/section/137/1), [139(2)](https://www.legislation.gov.uk/ukpga/1998/38/section/139/2), [143(2)](https://www.legislation.gov.uk/ukpga/1998/38/section/143/2)); [S.I. 1998/2244](https://www.legislation.gov.uk/uksi/1998/2244), [art. 4](https://www.legislation.gov.uk/uksi/1998/2244/article/4)
+
+[^c1048492]: Textual amendment: [Sch. 2 para. 35(1)(b)](https://www.legislation.gov.uk/ukpga/1990/11/schedule/2/paragraph/35/1/b) repealed (27.7.1992) by [Planning and Compensation Act 1991 (c. 34, SIF 123:1)](https://www.legislation.gov.uk/ukpga/1991/34), [s. 84(2)(6)](https://www.legislation.gov.uk/ukpga/1991/34/section/84/2/6), [Sch. 19 Pt.I](https://www.legislation.gov.uk/ukpga/1991/34/schedule/19/part/I); [S.I. 1992/1630](https://www.legislation.gov.uk/uksi/1992/1630), [art.2](https://www.legislation.gov.uk/uksi/1992/1630/article/2)
+
+[^c1048493]: Textual amendment: [Sch. 2 para. 37](https://www.legislation.gov.uk/ukpga/1990/11/schedule/2/paragraph/37) repealed (1.10.1998) by [1998 c. 38](https://www.legislation.gov.uk/ukpga/1998/38), [s. 152](https://www.legislation.gov.uk/ukpga/1998/38/section/152), [Sch. 18 Pt. IV](https://www.legislation.gov.uk/ukpga/1998/38/schedule/18/part/IV) (with [ss. 137(1)](https://www.legislation.gov.uk/ukpga/1998/38/section/137/1), [139(2)](https://www.legislation.gov.uk/ukpga/1998/38/section/139/2), [143(2)](https://www.legislation.gov.uk/ukpga/1998/38/section/143/2)); [S.I. 1998/2244](https://www.legislation.gov.uk/uksi/1998/2244), [art. 4](https://www.legislation.gov.uk/uksi/1998/2244/article/4)
+
+[^c1048494]: Textual amendment: [Sch. 2 para. 38](https://www.legislation.gov.uk/ukpga/1990/11/schedule/2/paragraph/38) repealed (02.01.1992) by [Planning and Compensation Act 1991 (c. 34, SIF 123:1)](https://www.legislation.gov.uk/ukpga/1991/34), [s. 84(6)](https://www.legislation.gov.uk/ukpga/1991/34/section/84/6), [Sch. 19 Pt.I](https://www.legislation.gov.uk/ukpga/1991/34/schedule/19/part/I); [S.I. 1991/2905](https://www.legislation.gov.uk/uksi/1991/2905), [art. 3](https://www.legislation.gov.uk/uksi/1991/2905/article/3), [Sch.2](https://www.legislation.gov.uk/uksi/1991/2905/schedule/2)
+
+[^key-f1a94b8c050ad27658e94a09534b6617]: Textual amendment: [Sch. 2 para. 40](https://www.legislation.gov.uk/ukpga/1990/11/schedule/2/paragraph/40) repealed (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/2006/43/schedule/4) (with [Sch. 2 Pt. 1 Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/2/part/1/schedule/3/part/1))
+
+[^c1048496]: Textual amendment: [Sch. 2 para. 44(3)(4)(9)(10)](https://www.legislation.gov.uk/ukpga/1990/11/schedule/2/paragraph/44/3/4/9/10) repealed (1.10.1998) by [1998 c. 38](https://www.legislation.gov.uk/ukpga/1998/38), [s. 152](https://www.legislation.gov.uk/ukpga/1998/38/section/152), [Sch. 18 Pt. V](https://www.legislation.gov.uk/ukpga/1998/38/schedule/18/part/V) (with [ss. 137(1)](https://www.legislation.gov.uk/ukpga/1998/38/section/137/1), [139(2)](https://www.legislation.gov.uk/ukpga/1998/38/section/139/2), [143(2)](https://www.legislation.gov.uk/ukpga/1998/38/section/143/2)); [S.I. 1998/2244](https://www.legislation.gov.uk/uksi/1998/2244), [art. 4](https://www.legislation.gov.uk/uksi/1998/2244/article/4)
+
+[^c1048500]: Textual amendment: [Sch. 2 para. 44(14)(c)](https://www.legislation.gov.uk/ukpga/1990/11/schedule/2/paragraph/44/14/c) repealed (27.5.1997) by [1997 c. 11](https://www.legislation.gov.uk/ukpga/1997/11), [ss. 3](https://www.legislation.gov.uk/ukpga/1997/11/section/3), [6(3)](https://www.legislation.gov.uk/ukpga/1997/11/section/6/3), [Sch. 1 Pt. I](https://www.legislation.gov.uk/ukpga/1997/11/schedule/1/part/I) (with [s. 5](https://www.legislation.gov.uk/ukpga/1997/11/section/5), [Sch. 3](https://www.legislation.gov.uk/ukpga/1997/11/schedule/3))
+
+[^c1048501]: Textual amendment: [Sch. 2 para. 45(2)](https://www.legislation.gov.uk/ukpga/1990/11/schedule/2/paragraph/45/2) repealed (1.4.1997) by [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25), [s. 120(3)](https://www.legislation.gov.uk/ukpga/1995/25/section/120/3), [Sch. 24](https://www.legislation.gov.uk/ukpga/1995/25/schedule/24) (with [ss. 115](https://www.legislation.gov.uk/ukpga/1995/25/section/115), [117](https://www.legislation.gov.uk/ukpga/1995/25/section/117)); [S.I. 1996/2560](https://www.legislation.gov.uk/uksi/1996/2560), [art. 2](https://www.legislation.gov.uk/uksi/1996/2560/article/2)
+
+[^c1048502]: Textual amendment: Words in [Sch. 2 para. 45(7)](https://www.legislation.gov.uk/ukpga/1990/11/schedule/2/paragraph/45/7) repealed (1.4.1997) by [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25), [s. 120(3)](https://www.legislation.gov.uk/ukpga/1995/25/section/120/3), [Sch. 24](https://www.legislation.gov.uk/ukpga/1995/25/schedule/24) (with [ss. 115](https://www.legislation.gov.uk/ukpga/1995/25/section/115), [117](https://www.legislation.gov.uk/ukpga/1995/25/section/117)); [S.I. 1996/2560](https://www.legislation.gov.uk/uksi/1996/2560), [art. 2](https://www.legislation.gov.uk/uksi/1996/2560/article/2)
+
+[^c1048503]: Textual amendment: [Sch. 2 para. 46](https://www.legislation.gov.uk/ukpga/1990/11/schedule/2/paragraph/46) repealed (01.12.1991) by [Water Consolidation (Consequential Provisions) Act 1991 (c. 60, SIF 130)](https://www.legislation.gov.uk/ukpga/1991/60), [ss. 3(1)](https://www.legislation.gov.uk/ukpga/1991/60/section/3/1), [4(2)](https://www.legislation.gov.uk/ukpga/1991/60/section/4/2), [Sch. 3 Pt.I](https://www.legislation.gov.uk/ukpga/1991/60/schedule/3/part/I).
+
+[^c1048504]: Textual amendment: [Sch. 2 para. 47](https://www.legislation.gov.uk/ukpga/1990/11/schedule/2/paragraph/47) repealed (1.11.1993) by [1993 c. 28](https://www.legislation.gov.uk/ukpga/1993/28), [ss. 187(2)](https://www.legislation.gov.uk/ukpga/1993/28/section/187/2), [188(2)](https://www.legislation.gov.uk/ukpga/1993/28/section/188/2), [Sch.22](https://www.legislation.gov.uk/ukpga/1993/28/schedule/22); [S.I. 1993/2134](https://www.legislation.gov.uk/uksi/1993/2134), [art. 5](https://www.legislation.gov.uk/uksi/1993/2134/article/5)
+
+[^c1048505]: Textual amendment: [Sch. 2 para. 61](https://www.legislation.gov.uk/ukpga/1990/11/schedule/2/paragraph/61) repealed (1.9.1994) by [1994 c. 23](https://www.legislation.gov.uk/ukpga/1994/23), [ss. 100(2)](https://www.legislation.gov.uk/ukpga/1994/23/section/100/2), [101(1)](https://www.legislation.gov.uk/ukpga/1994/23/section/101/1), [Sch. 15](https://www.legislation.gov.uk/ukpga/1994/23/schedule/15) (with [Sch. 13 paras. 2](https://www.legislation.gov.uk/ukpga/1994/23/schedule/13/paragraph/2), [9](https://www.legislation.gov.uk/ukpga/1994/23/schedule/13/paragraph/9))
+
+[^c1048506]: Textual amendment: [Sch. 2 para. 62](https://www.legislation.gov.uk/ukpga/1990/11/schedule/2/paragraph/62) repealed (27.5.1997) by [1997 c. 11](https://www.legislation.gov.uk/ukpga/1997/11), [ss. 3](https://www.legislation.gov.uk/ukpga/1997/11/section/3), [6(3)](https://www.legislation.gov.uk/ukpga/1997/11/section/6/3), [Sch. 1 Pt. I](https://www.legislation.gov.uk/ukpga/1997/11/schedule/1/part/I) (with [s. 5](https://www.legislation.gov.uk/ukpga/1997/11/section/5), [Sch. 3](https://www.legislation.gov.uk/ukpga/1997/11/schedule/3))
+
+[^key-a569f8b648beed20c37b9dda46bffae4]: Textual amendment: Sch. 2 para. 63 repealed (25.7.2003 for specified purposes, 29.12.2003 in so far as not already in force) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [s. 411(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/2), [Sch. 19(1)](https://www.legislation.gov.uk/ukpga/2003/21/schedule/19/1) Note 1 (with [Sch. 18](https://www.legislation.gov.uk/ukpga/2003/21/schedule/18)); [S.I. 2003/1900](https://www.legislation.gov.uk/uksi/2003/1900), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2003/1900/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2003/1900/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/1900/schedule/1) (with [art. 3](https://www.legislation.gov.uk/uksi/2003/1900/article/3)) (as amended by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), art. 1(3)); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(2)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/2) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+
+[^c1048507]: Textual amendment: [Sch. 2 para. 68](https://www.legislation.gov.uk/ukpga/1990/11/schedule/2/paragraph/68) repealed (27.5.1997) by [1997 c. 11](https://www.legislation.gov.uk/ukpga/1997/11), [ss. 3](https://www.legislation.gov.uk/ukpga/1997/11/section/3), [6(3)](https://www.legislation.gov.uk/ukpga/1997/11/section/6/3), [Sch. 1 Pt. I](https://www.legislation.gov.uk/ukpga/1997/11/schedule/1/part/I) (with [s. 5](https://www.legislation.gov.uk/ukpga/1997/11/section/5), [Sch. 3](https://www.legislation.gov.uk/ukpga/1997/11/schedule/3))
+
+[^c1048508]: Textual amendment: [Sch. 2 para. 70](https://www.legislation.gov.uk/ukpga/1990/11/schedule/2/paragraph/70) repealed (27.5.1997) by [1997 c. 11](https://www.legislation.gov.uk/ukpga/1997/11), [s. 3](https://www.legislation.gov.uk/ukpga/1997/11/section/3), [Sch. 1 Pt. I](https://www.legislation.gov.uk/ukpga/1997/11/schedule/1/part/I) (with [s. 5](https://www.legislation.gov.uk/ukpga/1997/11/section/5), [Sch. 3](https://www.legislation.gov.uk/ukpga/1997/11/schedule/3))
+
+[^c1048509]: Textual amendment: [Sch. 2 para. 78](https://www.legislation.gov.uk/ukpga/1990/11/schedule/2/paragraph/78) repealed (1.4.1996) by [1993 c. 35](https://www.legislation.gov.uk/ukpga/1993/35), [ss. 303(4)](https://www.legislation.gov.uk/ukpga/1993/35/section/303/4), [307(1)(3)](https://www.legislation.gov.uk/ukpga/1993/35/section/307/1/3), [Sch. 19 para. 159](https://www.legislation.gov.uk/ukpga/1993/35/schedule/19/paragraph/159), [Sch. 21 Pt.I](https://www.legislation.gov.uk/ukpga/1993/35/schedule/21/part/I); [S.I. 1994/507](https://www.legislation.gov.uk/uksi/1994/507), [art. 4](https://www.legislation.gov.uk/uksi/1994/507/article/4), [Sch. 2](https://www.legislation.gov.uk/uksi/1994/507/schedule/2)
+
+[^c1048510]: Textual amendment: [Sch. 2 para. 81(1)](https://www.legislation.gov.uk/ukpga/1990/11/schedule/2/paragraph/81/1) and (2) repealed (E.W.) (01.12.1991) by [Water Consolidation (consequential Provisions) Act 1991 (c. 60, SIF 130)](https://www.legislation.gov.uk/ukpga/1991/60), [ss. 3(1)](https://www.legislation.gov.uk/ukpga/1991/60/section/3/1), [4(2)](https://www.legislation.gov.uk/ukpga/1991/60/section/4/2), [Sch. 3 Pt.I](https://www.legislation.gov.uk/ukpga/1991/60/schedule/3/part/I).

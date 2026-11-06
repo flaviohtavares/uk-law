@@ -1,0 +1,52 @@
+---
+title: Finance Act 2021, section 52
+act: Finance Act 2021
+section: '52'
+status: revised-with-pending-changes
+text_date: '2026-04-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2021/26/section/52
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Finance Act 2021, section 52
+
+> **Warning: changes not yet applied to this text (3).** Text as at 2026-04-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2021/26
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 52. Exempt plastic packaging components[^key-4537f4ae46578402954c059acfb6f5ab][^key-c9ae47b5b54987758945352db50028e1][^key-469a62b9d55a3a2abfb4e208c186572b][^key-469a62b9d55a3a2abfb4e208c186572b]
+
+*Extent: E+W+S+N.I.*
+
+(1) No charge to plastic packaging tax arises by virtue of section 43(1)(b) in relation to plastic packaging components that are used in the delivery of goods into the United Kingdom and that are—
+
+- (a) transport packaging or tertiary packaging within the meaning of regulation 3(2)(c) of the Packaging (Essential Requirements) Regulations 2015 (S.I. 2015/1640), or
+- (b) road, rail, ship and air containers.
+
+(2) No charge to plastic packaging tax arises in relation to plastic packaging components if subsection (3), (4) or (6) applies to them.
+
+(3) This subsection applies to plastic packaging components if they are stores within the meaning of CEMA 1979 (see section 1 of that Act).
+
+(4) This subsection applies to plastic packaging components if they are produced or imported for use in the immediate packaging of a medicinal product.
+
+(5) In subsection (4)—
+
+- “**immediate packaging**”, in relation to a medicinal product, has the meaning given by regulation 8(1) of the Human Medicines Regulations 2012 (S.I. 2012/1916);
+- “**medicinal product**” has the meaning given by regulation 2(1) of those Regulations.
+
+(6) This subsection applies to plastic packaging components if—
+
+- (a) before or as soon as they have been produced or imported they are permanently designated or set aside for use other than in the containment, protection, handling, delivery or presentation of goods, and
+- (b) the producer or person on whose behalf they were imported keeps a record of that designation or setting aside.
+
+(7) The Treasury may by regulations make provision creating further exemptions from plastic packaging tax.
+
+## Annotations
+
+[^key-4537f4ae46578402954c059acfb6f5ab]: Commencement: [S. 52](https://www.legislation.gov.uk/ukpga/2021/26/section/52) in force at 10.12.2021 for specified purposes by [S.I. 2021/1409](https://www.legislation.gov.uk/uksi/2021/1409), [reg. 3](https://www.legislation.gov.uk/uksi/2021/1409/regulation/3)
+
+[^key-c9ae47b5b54987758945352db50028e1]: Commencement: [S. 52](https://www.legislation.gov.uk/ukpga/2021/26/section/52) in force at 1.4.2022 in so far as not already in force by [S.I. 2021/1409](https://www.legislation.gov.uk/uksi/2021/1409), [reg. 4](https://www.legislation.gov.uk/uksi/2021/1409/regulation/4)
+
+[^key-469a62b9d55a3a2abfb4e208c186572b]: Modification: [Pt. 2](https://www.legislation.gov.uk/ukpga/2021/26/part/2) modified (1.4.2022) by [The Plastic Packaging Tax (Descriptions of Products) Regulations 2021 (S.I. 2021/1417)](https://www.legislation.gov.uk/uksi/2021/1417), [regs. 1](https://www.legislation.gov.uk/uksi/2021/1417/regulation/1), [3-5](https://www.legislation.gov.uk/uksi/2021/1417/regulation/3)

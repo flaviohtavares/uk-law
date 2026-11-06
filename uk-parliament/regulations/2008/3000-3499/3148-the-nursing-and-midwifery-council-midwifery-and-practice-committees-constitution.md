@@ -1,0 +1,373 @@
+---
+title: The Nursing and Midwifery Council (Midwifery and Practice Committees) (Constitution) Rules Order of Council 2008
+id: uksi/2008/3148
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised-with-pending-changes
+made_date: '2008-12-09'
+text_date: '2020-08-31'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2008/3148
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2008/3148/pdfs/uksiem_20083148_en.pdf
+- http://www.legislation.gov.uk/uksi/2008/3148/pdfs/uksi_20083148_en.pdf
+- http://www.legislation.gov.uk/uksi/2008/3148/data.pdf
+pending_changes: 1
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Nursing and Midwifery Council (Midwifery and Practice Committees) (Constitution) Rules Order of Council 2008
+
+> **Warning: changes not yet applied to this text (1).** Text as at 2020-08-31. See https://www.legislation.gov.uk/changes/affected/uksi/2008/3148
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2008 No. 3148
+
+HEALTH CARE AND ASSOCIATED PROFESSIONS
+
+NURSES AND MIDWIVES
+
+The Nursing and Midwifery Council (Midwifery and Practice Committees) (Constitution) Rules Order of Council 2008
+
+Made
+
+9th December 2008
+
+Laid before Parliament
+
+11th December 2008
+
+Coming into force
+
+5th January 2009
+
+At the Council Chamber, Whitehall, the 9th day of December 2008
+
+By the Lords of Her Majesty's Most Honourable Privy Council
+
+The Nursing and Midwifery Council has made the Nursing and Midwifery Council (Midwifery and Practice Committees) (Constitution) Rules 2008, as set out in the Schedule to this Order, in exercise of the powers conferred by articles 22(4), 26(3) and (4), 30(9), 32, 33(4) and 47(2) of, and paragraphs 16 and 17 of Schedule 1 to, the Nursing and Midwifery Order 2001 [^c19509421] and having consulted in accordance with article 47(3) of that Order.
+
+In accordance with articles 47(1) and 48 of the Nursing and Midwifery Order 2001 [^c19509431], such Rules shall not come into force until approved by Order of the Privy Council.
+
+Their Lordships, having considered the Rules, are pleased to and do approve them.
+
+This Order may be cited as the Nursing and Midwifery Council (Midwifery and Practice Committees) (Constitution) Rules Order of Council 2008 and shall come into force on 5th January 2009.
+
+Judith Simpson
+
+Clerk of the Privy Council
+
+## SCHEDULE — THE NURSING AND MIDWIFERY COUNCIL (PRACTICE COMMITTEES) (CONSTITUTION) RULES 2008[^M_F_39a5ad60-8f08-4863-e8a3-0f7582dacc76]
+
+The Nursing and Midwifery Council makes the following Rules in exercise of the powers conferred under articles 22(4), 26(3) and (4), 30(9), 32, 33(4) and 47(2) of, and paragraphs 16 and 17 of Schedule 1 to, the Nursing and Midwifery Order 2001, having consulted in accordance with article 47(3) of that Order.
+
+### PART 1 — Introductory
+
+#### 1. Citation and commencement
+
+These Rules may be cited as the Nursing and Midwifery Council (Practice Committees) (Constitution) Rules 2008[^key-585a3e801fc49468e6a43564530a7ae6] and shall come into force on 5th January 2009.
+
+#### 2. Interpretation
+
+In these Rules—
+
+- “**Appointments Board**” means the committee of the Council of that name established pursuant to article 3(12) of the Order [^c19509441];
+- “**licensing body**” means—
+  - (a) any body, other than the Council, anywhere in the world that licenses or regulates any profession;
+  - (b) any body that regulated registered nurses or registered midwives before the Council;
+- “member”, unless the context otherwise requires, means a member of [^key-0c6f66b5cc3dcf1d2fa24aac40ab72da]... a Practice Committee and includes the chair, a deputy chair or a panel chair;
+- “**non-registrant**” means a person who is not and never has been a registered nurse, midwife or nursing associate[^key-a43dd914b3c863b7b795ebc504a5fa90] and does not hold a qualification that would entitle them to apply for registration under the Order;
+- “**the Order**” means the Nursing and Midwifery Order 2001;
+- [^key-ce44a51341abec281cee46d35a1fb02c]... and
+- “**spent conviction**” means—
+  - (a) in relation to a conviction in a court in Great Britain, a conviction that is a spent conviction for the purpose of the Rehabilitation of Offenders Act 1974 [^c19509461]; or
+  - (b) in relation to a conviction by a court in Northern Ireland, a conviction that is a spent conviction for the purposes of the Rehabilitation of Offenders (Northern Ireland) Order 1978 [^c19509471].
+
+#### 3. Appointments Board
+
+The Council may obtain the assistance of the Appointments Board in connection with the exercise of any function relating to the appointment of members, including the appraisal of members.
+
+### PART 2 — The Practice Committees[^key-6891d4fd2e73eff8eb90fa84c3cf8d6c]
+
+#### 4. The Midwifery Committee[^key-0647d4cd7cd730de7575ca004a00f4eb]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 5. Chair and deputy chair of the Midwifery Committee[^key-a1e5a3266eccfdefc208ea6fed5a91ff]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 6. The Practice Committees
+
+(1)[^key-857430020a075af12e3e1e4933572de9] The members of each Practice Committee shall be appointed by the Council.
+
+(2) No person who is a member of the Investigating Committee may serve concurrently as a member of the Fitness to Practise Committee[^key-f1124a315ff0979207118aa4edb6b601].
+
+(3) No person who is a member of the Council may serve concurrently as a member of a Practice Committee.
+
+(4) Members of the Practice Committees may attend only the proceedings of the committee that they are invited to attend by the Registrar, or by a person duly authorised on the Registrar's behalf to invite them.
+
+(5) The panel of members invited to attend particular proceedings of a Practice Committee in accordance with paragraph (4) may, at those proceedings, perform any function of that Practice Committee that it is reasonable for them to perform.
+
+(6) The Council shall determine the duration of the term of office of members of the Practice Committees on their appointment (or reappointment).
+
+(7) A person appointed as a member of a Practice Committee may be reappointed for one further term of office.
+
+(8) No person may serve more than 2 terms of office as a member of a Practice Committee, including any term of office served prior to the coming into force of these Rules but subject to paragraph (9).
+
+(8A)[^key-1cf41a48d9d9ee440ae573843eb4430a] The Council may extend the term of office of any member of a Practice Committee, who as of 3rd March 2020 was serving a second term, for such a period as it considers appropriate.
+
+(9) In the case of a person who was authorised to participate in proceedings under Part 5 of the Order immediately prior to the coming into force of these Rules—
+
+- (a) that person's term of office that expires as a consequence of the coming into force of these Rules shall be discounted for the purpose of the calculation under paragraph (8); and
+- (b) that person's first term of office under these Rules (if that person is reappointed) shall not exceed the unexpired portion of the term of office that expired as a consequence of the coming into force of these Rules.
+
+(10) Subject to paragraph (11),[^key-01d619362717037be4ef03c4d9f5e822] the quorum for the Practice Committees (that is, for panels of members invited in accordance with paragraph (4)) is 3, of which at least one must be—
+
+- (a) a registrant;
+- (b) a non-registrant; and
+- (c) the person chairing the meeting (who may also count as the registrant or non-registrant member mentioned in sub-paragraphs (a) and (b)).
+
+(11)[^key-9880106e7d7b16b20f8805bd10c160ba] In cases where it is not reasonably practicable to comply with the requirements of paragraph (10)—
+
+- (a) in that paragraph, for “3”, substitute “2”; and
+- (b) paragraph (10)(a) shall not apply.
+
+#### 7. Chairing of the Practice Committees
+
+(1) The Council shall appoint, from amongst the members of each of the Practice Committees, persons to act as chairs of the committee of which they are a member (“panel chairs”).
+
+(2) Of those persons, the Council shall designate one panel chair of each Practice Committee to act as the chair of that committee for a period determined by the Council on designation.
+
+(3) If the Registrar or the person duly authorised on the Registrar's behalf (“the inviter”) does not invite the chair to attend particular proceedings of the Practice Committee—
+
+- (a) the inviter must invite another panel chair to those proceedings; and
+- (b) subject to paragraph (4), that panel chair shall chair the proceedings in place of the chair of the committee.
+
+(4) If at any proceedings of a Practice Committee, the panel chair invited to chair the proceedings is absent, the members of the committee at that meeting may nominate one of their number from amongst the members who are present to chair the proceedings.
+
+(5) A person serving as a chair or panel chair of a Practice Committee shall cease to be a chair or panel chair—
+
+- (a) if the member ceases to be a member of the Practice Committee in question;
+- (b) if the member resigns as chair or panel chair (or both), which they may do at any time by a notice in writing to the Council;
+- (c) if the Council votes (by a majority at a quorate meeting) to terminate the member's appointment as chair or panel chair (or both).
+
+### PART 3 — Disqualification, removal and suspension etc.
+
+#### 8. Disqualification from appointment as committee member
+
+A person is disqualified from appointment as a member if that person—
+
+- (a) has at any time been convicted of an offence involving dishonesty or deception in the United Kingdom and the conviction is not a spent conviction;
+- (b) has at any time been convicted of an offence in the United Kingdom, and—
+  - (i) the final outcome of the proceedings was a sentence of imprisonment or detention, and
+  - (ii) the conviction is not a spent conviction;
+- (c) has at any time been removed—
+  - (i) from the office of charity trustee or trustee for a charity by an order made by the Charity Commissioners, the Charity Commission, the Charity Commission for Northern Ireland or the High Court on the grounds of any misconduct or mismanagement in the administration of the charity—
+    - (aa) for which the person was responsible or to which the person was privy, or
+    - (bb) which the person by their conduct contributed to or facilitated, or
+  - (ii) under—
+    - (aa) section 7 of the Law Reform (Miscellaneous Provisions) (Scotland) Act 1990 [^c19509481] (powers of Court of Session to deal with management of charities), or
+    - (bb) section 34(5)(e) of the Charities and Trustee Investment (Scotland) Act 2005 [^c19509491] (powers of the Court of Session),
+
+    from being concerned with the management or control of any body;
+- (d) has at any time been removed from office as the chair, member, convenor or director of any public body on the grounds, in terms, that it was not in the interests of, or conducive to the good management of, that body that the person should continue to hold that office;
+- (e) at any time has been adjudged bankrupt or sequestration of the person's estate has been awarded, and—
+  - (i) the person has not been discharged, or
+  - (ii) the person is the subject of a bankruptcy restrictions order or an interim bankruptcy restrictions order under Schedule 4A to the Insolvency Act 1986 [^c19509501] or Schedule 2A of the Insolvency (Northern Ireland) Order 1989 [^c19509511] (which relate to bankruptcy restriction orders and undertakings);
+- (f) has at any time made a composition or arrangement with, or granted a trust deed for, the person's creditors and the person has not been discharged in respect of it;
+- (g) is subject to—
+  - (i) a disqualification order or disqualification undertaking under the Company Directors Disqualification Act 1986 [^c19509521],
+  - (ii) a disqualification order under Part II of the Companies (Northern Ireland) Order 1989 [^c19509531] (company directors disqualification),
+  - (iii) a disqualification order or disqualification undertaking under the Company Directors Disqualification (Northern Ireland) Order 2002 [^c19509541], or
+  - (iv) an order made under section 429(2) of the Insolvency Act 1986 [^c19509551] (disabilities on revocation of a county court administration order);
+- (h) has been included by—
+  - (i) the Disclosure and Barring Service[^key-bc11a740e2227036973d4e87246ee705] in a barred list (within the meaning of the Safeguarding Vulnerable Groups Act 2006 [^c19509561] or the Safeguarding Vulnerable Groups (Northern Ireland) Order 2007 [^c19509571]), or
+  - (ii) the Scottish Ministers in the children's list or the adults' list (within the meaning of the Protection of Vulnerable Groups (Scotland) Act 2007 [^c19509581]);
+- (i) has at any time been subject to any investigation or proceedings concerning the person's fitness to practise by any licensing body, the final outcome of which was—
+  - (i) the person's erasure from a register held by the licensing body or a decision that had the effect of preventing the person from practising the profession licensed or regulated by the licensing body,
+  - (ii) the person's suspension from a register held by the licensing body, and that suspension has not been terminated, or
+  - (iii) a decision that had the effect of only allowing the person to practise that profession subject to conditions, and those conditions have not been lifted;
+- (j) has at any time been subject to any investigation or proceedings concerning the person's fitness to practise by the Council, in the course of which or where the final outcome was that—
+  - (i) the person was removed from or struck off the register (for a reason connected to the person's fitness to practise),
+  - (ii) the person's registration in the register was suspended (including by an interim suspension order) and that suspension has not been terminated,
+  - (iii) the person's registration in the register was made conditional upon their compliance with any requirement (including an interim conditions of practice order) and that requirement has not been lifted, or
+  - (iv) the person's registration in the register was annotated by virtue of a caution order and that order is still in force;
+- (k) has at any time been subject to any investigation or proceedings relating to an allegation that the person's entry in the register was fraudulently procured, the final outcome of which was the removal of the person's entry in the register;
+- (l) is or has at any time been subject to any investigation or proceedings concerning the person's fitness to practise by—
+  - (i) any licensing body, or
+  - (ii) the Council,
+
+  and the Council is satisfied that the person's membership of the committee would be liable to undermine public confidence in the regulation of nurses, midwives and nursing associates[^key-47247425581eba228f74226e7361a565]; or
+- (m) has at any time been convicted of an offence elsewhere than in the United Kingdom and the Council is satisfied that the person's membership of the committee would be liable to undermine public confidence in the regulation of nurses, midwives and nursing associates[^key-8ad388c02b59dc3ec1d9f5894bce5d1c].
+
+#### 9. Termination of committee membership
+
+(1) A member shall be removed from office by the Council, if—
+
+- (a) the member resigns, which a member may do at any time by a notice in writing to the Council;
+- (b) in the case of—
+  - (i) a member appointed in part because they were a registrant, that member's registration becomes lapsed,
+  - (ii)[^key-dd270170b22113416681a549d600394f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . or
+  - (iii) a member appointed in part because they were a non-registrant, that member ceases to be a non-registrant;
+- (c) the member becomes a person of the type mentioned in rule 8(a), (b) or (e) to (h) whether or not they thereafter cease to be such a person;
+- (d) the member becomes a person of the type mentioned in rule 8(c) or (d);
+- (e) in the case of a registrant, the member becomes the subject of any investigation or proceedings concerning the member's fitness to practise by the Council, in the course of which or as a result of which—
+  - (i) the member is struck off the register,
+  - (ii) the member's registration in the register is suspended,
+  - (iii) the member's registration in the register is made conditional upon the member's compliance with any requirement, or
+  - (iv) the person's registration in the register is annotated by virtue of a caution order,
+
+  and the proceedings relating to that particular sanction have reached their final outcome;
+- (f) in the case of a registrant, the member becomes subject to any investigation or proceedings relating to an allegation that the person's entry in the register was fraudulently procured or incorrectly made, the final outcome of which is the removal of the person's entry in the register;
+- (g) the Council is satisfied that the member's level of attendance at meetings of the committee falls below a minimum level of attendance acceptable to the Council, having regard to—
+  - (i) any recommended minimum levels of attendance that the Council has set in its standing orders, and
+  - (ii) whether or not there were reasonable causes for the member's absences;
+- (h) the Council is satisfied the member has failed, without reasonable cause, to undertake satisfactorily the requirements with regard to education and training for members that apply to that member and which the Council has included in its standing orders;
+- (i) the Council is satisfied that the member is no longer able to perform their duties as a member of the committee because of adverse physical or mental health;
+- (j) the Council is satisfied that the member's continued membership of the committee would be liable to undermine public confidence in the regulation of nurses, midwives and nursing associates[^key-a9e8ef3c6c01d6a8c0a55edd4a86ab5a].
+
+(2) A member who becomes, or may become, a person to whom paragraph (1)(b) to (f) applies must notify the Council in writing of that fact as soon as the person becomes aware of it.
+
+(3) Any member or employee of the Council may notify the Council if they are of the view that the Council may need to exercise its functions under paragraph (1).
+
+(4)[^key-c332e8160d7645ff50cc733df0b7160c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 10. Suspension of committee membership
+
+(1) The Council may suspend a member from office by a notice in writing served on the member—
+
+- (a) if the Council has reasonable grounds for suspecting that the member has become a person to whom rule 9(1)(b)(iii) to (d) applies, for the purposes of determining whether or not the member has become such a person;
+- (b) while the Council is considering whether or not it is satisfied as to the matters set out in rule 9(1)(g) to (j);
+- (c) if the member is subject to any investigation or proceedings concerning the member's fitness to practise by—
+  - (i) any licensing body, or
+  - (ii) the Council,
+
+  and the Council is satisfied that it would not be appropriate for the member to continue to participate in proceedings of the committee while the investigation or proceedings concerning the member's fitness to practise is or are ongoing;
+- (d) if the member is the subject of any investigation or proceedings concerning whether the member's entry in the register was fraudulently procured or incorrectly made and the Council is satisfied that it would not be appropriate for the member to continue to participate in proceedings of the committee while the investigation or proceedings concerning the member's entry in the register is or are ongoing;
+- (e) if the member is subject to any investigation or proceedings in the United Kingdom relating to a criminal offence, or in any other part of the world relating to an offence which, if committed in any part of the United Kingdom, would constitute a criminal offence, and—
+  - (i) either—
+    - (aa) the investigation or proceedings relate to an offence involving dishonesty or deception, or
+    - (bb) the final outcome of the investigation or proceedings may be that the person is sentenced to a term of imprisonment or detention, and
+  - (ii) the Council is satisfied that it would not be appropriate for the member to continue to participate in proceedings of the committee while the investigation or proceedings is or are ongoing.
+
+(2) The Council shall suspend a member from office by notice in writing served on the member if the member is the subject of an order under article 31 of the Order (interim orders by a Practice Committee).
+
+(3) The notice in writing under paragraph (1) or (2) shall set out the reasons for the suspension and the duration of the period of suspension, which shall (in the first instance) not be for more than 6 months.
+
+(4) The Council—
+
+- (a) may at any time review a suspension of a member by it; and
+- (b) shall review any suspension of a member by it after 3 months from the start of the period of suspension, if requested to do so by the suspended member.
+
+(5) Following a review, the Council may—
+
+- (a) terminate the suspension; or
+- (b) if that review is within 3 months of the end of a period of suspension, extend the suspension for a further period of up to 6 months from the date on which the suspension would otherwise come to an end.
+
+(6) The Council shall notify the suspended member in writing of the outcome of any review and that notice in writing shall include the reasons for any decision taken.
+
+#### 11. Potential consequences of needing to remove, or of having removed or suspended, Practice Committee members
+
+(1) The validity of any proceedings of a Practice Committee shall not be affected by—
+
+- (a) a member whom the Council must remove from the committee under rule 9(1)(b) to (f) participating in the proceedings;
+- (b) a member whom the Council has removed under rule 9(1) having participated in the proceedings; or
+- (c) a member who has been suspended by the Council under rule 10(1) or (2) having participated in the proceedings.
+
+(2) Notwithstanding paragraph (1)(a), a member whom the Council must remove from a committee under rule 9(1)(b) to (f) is not entitled to participate in proceedings of the committee, pending the member's removal from the committee by the Council.
+
+### PART 4 — Consequential amendment
+
+#### 12. Consequential amendment to the Nursing and Midwifery Council (Fitness to Practise) Rules 2004
+
+In the Nursing and Midwifery Council (Fitness to Practise) Rules 2004 [^c19509591], in rule 2 (interpretation), omit the definition of “Chair”.
+
+*(This note is not part of the Order)*
+
+This Order approves Rules made by the Nursing and Midwifery Council (“NMC”) in respect of the constitutions of its four statutory committees: the Midwifery Committee, the Investigating Committee, the Conduct and Competence Committee and the Health Committee. The latter three committees are known collectively as the Practice Committees.
+
+Part 1 of these rules contains introductory provisions, which include a power enabling the NMC to obtain the assistance of its Appointments Board in connection with functions relating to the appointment of members of its statutory committees.
+
+Part 2 contains the provisions specific to the Midwifery Committee or to the Practice Committees. Rule 4 deals with the composition and quorum of the Midwifery Committee and rule 5 with that committee's chairing arrangements. Rule 6 deals with the composition and quorum of the Practice Committees and rule 7 deals with those committees' chairing arrangements.
+
+Part 3 contains common provisions relating to the disqualification from appointment as members of one of the statutory committees, and the grounds for suspending them or removing them from office. Rule 11 ensures that the need to remove a Practice Committee member from office, or the fact of having suspended or removed such a member, does not invalidate proceedings in which that member has participated. There is a consequential amendment to other NMC Rules in Part 4.
+
+## Annotations
+
+[^c19509421]: Marginal citation: [S.I. 2002/253](https://www.legislation.gov.uk/uksi/2002/253); article 32 and paragraph 16 of Schedule 1 were amended by, and paragraph 17 of Schedule 1 was substituted by, [S.I. 2008/1485](https://www.legislation.gov.uk/uksi/2008/1485).
+
+[^c19509431]: Marginal citation: Article 48 was amended by [S.I. 2008/1485](https://www.legislation.gov.uk/uksi/2008/1485).
+
+[^M_F_39a5ad60-8f08-4863-e8a3-0f7582dacc76]: Textual amendment: Words in Sch. title substituted (31.3.2017) by [The Nursing and Midwifery (Amendment) Order 2017 (S.I. 2017/321)](https://www.legislation.gov.uk/uksi/2017/321), [art. 1(2)(d)](https://www.legislation.gov.uk/uksi/2017/321/article/1/2/d), [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2017/321/schedule/2/paragraph/3) (with [art. 3](https://www.legislation.gov.uk/uksi/2017/321/article/3))
+
+[^key-585a3e801fc49468e6a43564530a7ae6]: Textual amendment: Words in Sch. rule 1 substituted (31.3.2017) by [The Nursing and Midwifery (Amendment) Order 2017 (S.I. 2017/321)](https://www.legislation.gov.uk/uksi/2017/321), [art. 1(2)(d)](https://www.legislation.gov.uk/uksi/2017/321/article/1/2/d), [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2017/321/schedule/2/paragraph/3) (with [art. 3](https://www.legislation.gov.uk/uksi/2017/321/article/3))
+
+[^c19509441]: Marginal citation: The Appointments Board was established pursuant to a decision of the Council on 7th December 2006.
+
+[^key-0c6f66b5cc3dcf1d2fa24aac40ab72da]: Textual amendment: Words in Sch. rule 2 omitted (31.3.2017) by virtue of [The Nursing and Midwifery (Amendment) Order 2017 (S.I. 2017/321)](https://www.legislation.gov.uk/uksi/2017/321), [art. 1(2)(d)](https://www.legislation.gov.uk/uksi/2017/321/article/1/2/d), [Sch. 2 para. 4(a)](https://www.legislation.gov.uk/uksi/2017/321/schedule/2/paragraph/4/a) (with [art. 3](https://www.legislation.gov.uk/uksi/2017/321/article/3))
+
+[^key-a43dd914b3c863b7b795ebc504a5fa90]: Textual amendment: Words in Sch. rule 2 substituted (28.1.2019) by [The Nursing and Midwifery (Amendment) Order 2018 (S.I. 2018/838)](https://www.legislation.gov.uk/uksi/2018/838), [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/838/article/1/3), [Sch. 2 para. 8(a)](https://www.legislation.gov.uk/uksi/2018/838/schedule/2/paragraph/8/a)
+
+[^key-ce44a51341abec281cee46d35a1fb02c]: Textual amendment: Words in Sch. rule 2 omitted (31.3.2017) by virtue of [The Nursing and Midwifery (Amendment) Order 2017 (S.I. 2017/321)](https://www.legislation.gov.uk/uksi/2017/321), [art. 1(2)(d)](https://www.legislation.gov.uk/uksi/2017/321/article/1/2/d), [Sch. 2 para. 4(b)](https://www.legislation.gov.uk/uksi/2017/321/schedule/2/paragraph/4/b) (with [art. 3](https://www.legislation.gov.uk/uksi/2017/321/article/3))
+
+[^c19509461]: Marginal citation: [1974 c.53](https://www.legislation.gov.uk/ukpga/1974/53).
+
+[^c19509471]: Marginal citation: [S.I. 1978/1908 (N.I. 27)](https://www.legislation.gov.uk/nisi/1978/1908).
+
+[^key-6891d4fd2e73eff8eb90fa84c3cf8d6c]: Textual amendment: Sch. Pt. 2 heading substituted (31.3.2017) by [The Nursing and Midwifery (Amendment) Order 2017 (S.I. 2017/321)](https://www.legislation.gov.uk/uksi/2017/321), [art. 1(2)(d)](https://www.legislation.gov.uk/uksi/2017/321/article/1/2/d), [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2017/321/schedule/2/paragraph/5) (with [art. 3](https://www.legislation.gov.uk/uksi/2017/321/article/3))
+
+[^key-0647d4cd7cd730de7575ca004a00f4eb]: Textual amendment: Sch. rule 4 omitted (31.3.2017) by virtue of [The Nursing and Midwifery (Amendment) Order 2017 (S.I. 2017/321)](https://www.legislation.gov.uk/uksi/2017/321), [art. 1(2)(d)](https://www.legislation.gov.uk/uksi/2017/321/article/1/2/d), [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2017/321/schedule/2/paragraph/6) (with [art. 3](https://www.legislation.gov.uk/uksi/2017/321/article/3))
+
+[^key-a1e5a3266eccfdefc208ea6fed5a91ff]: Textual amendment: Sch. rule 5 omitted (31.3.2017) by virtue of [The Nursing and Midwifery (Amendment) Order 2017 (S.I. 2017/321)](https://www.legislation.gov.uk/uksi/2017/321), [art. 1(2)(d)](https://www.legislation.gov.uk/uksi/2017/321/article/1/2/d), [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2017/321/schedule/2/paragraph/6) (with [art. 3](https://www.legislation.gov.uk/uksi/2017/321/article/3))
+
+[^key-857430020a075af12e3e1e4933572de9]: Textual amendment: Sch. rule 6(1) substituted (31.3.2017) by [The Nursing and Midwifery (Amendment) Order 2017 (S.I. 2017/321)](https://www.legislation.gov.uk/uksi/2017/321), [art. 1(2)(d)](https://www.legislation.gov.uk/uksi/2017/321/article/1/2/d), [Sch. 2 para. 7(a)](https://www.legislation.gov.uk/uksi/2017/321/schedule/2/paragraph/7/a) (with [art. 3](https://www.legislation.gov.uk/uksi/2017/321/article/3))
+
+[^key-f1124a315ff0979207118aa4edb6b601]: Textual amendment: Words in Sch. rule 6(2) substituted (28.7.2017) by [The Nursing and Midwifery (Amendment) Order 2017 (S.I. 2017/321)](https://www.legislation.gov.uk/uksi/2017/321), [art. 1(4)](https://www.legislation.gov.uk/uksi/2017/321/article/1/4), [Sch. 2 para. 7(b)](https://www.legislation.gov.uk/uksi/2017/321/schedule/2/paragraph/7/b) (with [art. 3](https://www.legislation.gov.uk/uksi/2017/321/article/3))
+
+[^key-1cf41a48d9d9ee440ae573843eb4430a]: Textual amendment: Sch. rule 6(8A) substituted (31.8.2020) by [The Nursing and Midwifery Council (Coronavirus) (Amendment) (No. 2) Rules Order of Council 2020 (S.I. 2020/821)](https://www.legislation.gov.uk/uksi/2020/821), [Sch. rules 1](https://www.legislation.gov.uk/uksi/2020/821/schedule/paragraph/1), [4(a)](https://www.legislation.gov.uk/uksi/2020/821/schedule/paragraph/4/a)
+
+[^key-01d619362717037be4ef03c4d9f5e822]: Textual amendment: Words in Sch. rule 6(10) substituted (31.8.2020) by [The Nursing and Midwifery Council (Coronavirus) (Amendment) (No. 2) Rules Order of Council 2020 (S.I. 2020/821)](https://www.legislation.gov.uk/uksi/2020/821), [Sch. rules 1](https://www.legislation.gov.uk/uksi/2020/821/schedule/paragraph/1), [4(b)](https://www.legislation.gov.uk/uksi/2020/821/schedule/paragraph/4/b)
+
+[^key-9880106e7d7b16b20f8805bd10c160ba]: Textual amendment: Sch. rule 6(11) substituted (31.8.2020) by [The Nursing and Midwifery Council (Coronavirus) (Amendment) (No. 2) Rules Order of Council 2020 (S.I. 2020/821)](https://www.legislation.gov.uk/uksi/2020/821), [Sch. rules 1](https://www.legislation.gov.uk/uksi/2020/821/schedule/paragraph/1), [4(c)](https://www.legislation.gov.uk/uksi/2020/821/schedule/paragraph/4/c)
+
+[^c19509481]: Marginal citation: [1990 c. 40](https://www.legislation.gov.uk/ukpga/1990/40); section 7 was repealed by the [Charities and Trustee Investment (Scotland) Act 2005 (asp 10)](https://www.legislation.gov.uk/asp/2005/10), Schedule 4, paragraph 7(b).
+
+[^c19509491]: Marginal citation: [2005 asp 10](https://www.legislation.gov.uk/asp/2005/10).
+
+[^c19509501]: Marginal citation: [1986 c.45](https://www.legislation.gov.uk/ukpga/1986/45); Schedule 4A was inserted by section 257 of, and Schedule 20 to, the [Enterprise Act 2002 (c.40)](https://www.legislation.gov.uk/ukpga/2002/40).
+
+[^c19509511]: Marginal citation: [S.I. 1989/2405 (N.I. 19)](https://www.legislation.gov.uk/nisi/1989/2405); Schedule 2A was inserted by [S.I. 2005/1455 (N.I. 10)](https://www.legislation.gov.uk/nisi/2005/1455).
+
+[^c19509521]: Marginal citation: [1986 c.46](https://www.legislation.gov.uk/ukpga/1986/46).
+
+[^c19509531]: Marginal citation: [SI 1989/2404 (N.I. 18)](https://www.legislation.gov.uk/nisi/1989/2404).
+
+[^c19509541]: Marginal citation: [SI 2002/3150 (N.I. 4)](https://www.legislation.gov.uk/nisi/2002/3150); relevant amendments were made by [S.I. 2005/1454 (N.I. 9)](https://www.legislation.gov.uk/nisi/2005/1454).
+
+[^c19509551]: Marginal citation: Section 429(2) was amended by the [Enterprise Act 2002 (c.40)](https://www.legislation.gov.uk/ukpga/2002/40), Schedule 23, paragraph 15.
+
+[^key-bc11a740e2227036973d4e87246ee705]: Textual amendment: Words in Sch. rule 8(h)(i) substituted (1.12.2012) by [The Protection of Freedoms Act 2012 (Disclosure and Barring Service Transfer of Functions) Order 2012 (S.I. 2012/3006)](https://www.legislation.gov.uk/uksi/2012/3006), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/3006/article/1/1), [13(1)](https://www.legislation.gov.uk/uksi/2012/3006/article/13/1)[(3)(l)](https://www.legislation.gov.uk/uksi/2012/3006/article/13/3/l) (with [Pt. 4](https://www.legislation.gov.uk/uksi/2012/3006/part/4))
+
+[^c19509561]: Marginal citation: [2006 c.47](https://www.legislation.gov.uk/ukpga/2006/47).
+
+[^c19509571]: Marginal citation: [SI 2007/1351 (N.I. 11)](https://www.legislation.gov.uk/nisi/2007/1351).
+
+[^c19509581]: Marginal citation: [2007 asp 14](https://www.legislation.gov.uk/asp/2007/14).
+
+[^key-47247425581eba228f74226e7361a565]: Textual amendment: Words in Sch. rule 8(l) substituted (28.1.2019) by [The Nursing and Midwifery (Amendment) Order 2018 (S.I. 2018/838)](https://www.legislation.gov.uk/uksi/2018/838), [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/838/article/1/3), [Sch. 2 para. 8(b)](https://www.legislation.gov.uk/uksi/2018/838/schedule/2/paragraph/8/b)
+
+[^key-8ad388c02b59dc3ec1d9f5894bce5d1c]: Textual amendment: Words in Sch. rule 8(m) substituted (28.1.2019) by [The Nursing and Midwifery (Amendment) Order 2018 (S.I. 2018/838)](https://www.legislation.gov.uk/uksi/2018/838), [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/838/article/1/3), [Sch. 2 para. 8(b)](https://www.legislation.gov.uk/uksi/2018/838/schedule/2/paragraph/8/b)
+
+[^key-dd270170b22113416681a549d600394f]: Textual amendment: Sch. rule 9(1)(b)(ii) omitted (31.3.2017) by virtue of [The Nursing and Midwifery (Amendment) Order 2017 (S.I. 2017/321)](https://www.legislation.gov.uk/uksi/2017/321), [art. 1(2)(d)](https://www.legislation.gov.uk/uksi/2017/321/article/1/2/d), [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2017/321/schedule/2/paragraph/8) (with [art. 3](https://www.legislation.gov.uk/uksi/2017/321/article/3))
+
+[^key-a9e8ef3c6c01d6a8c0a55edd4a86ab5a]: Textual amendment: Words in Sch. rule 9(1)(j) substituted (28.1.2019) by [The Nursing and Midwifery (Amendment) Order 2018 (S.I. 2018/838)](https://www.legislation.gov.uk/uksi/2018/838), [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/838/article/1/3), [Sch. 2 para. 8(c)](https://www.legislation.gov.uk/uksi/2018/838/schedule/2/paragraph/8/c)
+
+[^key-c332e8160d7645ff50cc733df0b7160c]: Textual amendment: Sch. rule 9(4) omitted (31.3.2017) by virtue of [The Nursing and Midwifery (Amendment) Order 2017 (S.I. 2017/321)](https://www.legislation.gov.uk/uksi/2017/321), [art. 1(2)(d)](https://www.legislation.gov.uk/uksi/2017/321/article/1/2/d), [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2017/321/schedule/2/paragraph/8) (with [art. 3](https://www.legislation.gov.uk/uksi/2017/321/article/3))
+
+[^c19509591]: Marginal citation: Scheduled to [S.I. 2004/1761](https://www.legislation.gov.uk/uksi/2004/1761).

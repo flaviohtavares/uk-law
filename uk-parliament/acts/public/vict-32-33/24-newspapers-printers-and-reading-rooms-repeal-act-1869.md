@@ -1,0 +1,154 @@
+---
+title: Newspapers, Printers, and Reading Rooms Repeal Act 1869
+id: ukpga/Vict/32-33/24
+type: UnitedKingdomPublicGeneralAct
+category: primary
+status: revised
+made_date: '1869-07-12'
+text_date: '2005-04-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/Vict/32-33/24
+pdf_urls:
+- http://www.legislation.gov.uk/ukpga/Vict/32-33/24/pdfs/ukpga_18690024_en.pdf
+- http://www.legislation.gov.uk/ukpga/Vict/32-33/24/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Newspapers, Printers, and Reading Rooms Repeal Act 1869
+
+> Text as at 2005-04-01.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+Newspapers, Printers, and Reading Rooms Repeal Act 1869
+
+1869 c.24
+
+An Act to repeal certain enactments relating to Newspapers, Pamphlets, and other Publications, and to Printers, Typefounders, and Reading Rooms
+
+\[12th July 1869\][^c567341][^c567342]
+
+## 1. Acts and parts of Acts in first schedule repealed, except as in second schedule.
+
+. . . . . . [^c567343] The provisions of the . . . . . . [^c567343] Acts which are set out in the second schedule to this Act shall continue in force in the same manner as if they were enacted in the body of this Act; . . . . . . [^c567345]
+
+## 2. Short title.
+
+This Act may be cited as The Newspapers, Printers, and Reading Rooms Repeal Act 1869.
+
+SCHEDULES
+
+## FIRST SCHEDULE[^c567346][^c567346]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c567346]
+
+## SECOND SCHEDULE
+
+### The enactments in this Schedule, with the exception of sect. 19 of 6 & 7 Will. 4 c. 76, do not apply to Ireland.
+
+#### Unlawful Societies Act 1799[^c567347]
+
+##### Section twenty-eight
+
+Nothing inthis Act contained shall extend or be construed to extend to any papers printed by the authority and for the use of either House of Parliament
+
+##### Section twenty-nine
+
+Every person who shall print any paper for hire, reward, gain, or profit, shall carefully preserve and keep one copy (at least) of every paper so printed by him or her, on which he or she shall write, or cause to be written or printed, in fair and legible characters, the name and place of abode of the person or persons by whom he or she shall be employed to print the same; and every person printing any paper for hire, reward, gain, or profit who shall omit or neglect to write, or cause to be written or printed as aforesaid, the name and place of his or her employer on one of such printed papers, or to keep or preserve the same for the space of six calendar months next after the printing thereof, or to produce and show the same to any justice of the peace who within the said space of six calendar months shall require to see the same, shall for every such omission, neglect, or refusal be liable on summary conviction to a fine[^key-55c67654e1a2d7143e67ce32e0eebf82] of level 2 on the standard scale[^c567348].
+
+##### Section thirty - one
+
+Nothingherein contained shall extend . . . . . . [^c567349] to the printing . . . . . . [^c567349] of the name, or the name and address, or business or profession, of any person, and the articles in which he deals, or to any papers for the sale of estates or goods by auction or otherwise.
+
+##### Section thirty - four
+
+No personhall be prosecuted [^key-ecad8d1a81587890c02ae05a9dccbde7]... for any penalty imposed by this Act, unless such prosecution shall be commenced, [^key-ecad8d1a81587890c02ae05a9dccbde7]... within three calendar months next after such penalty shall have been incurred.
+
+##### Part of Section thirty - five
+
+[^key-68f296e7e625ddb9d31cf915f503f74e]...
+
+##### Section thirty - six
+
+[^key-6a8aa1abb5682cb0ea964097d4519b87]...
+
+### 51 Geo. 3 c. 65
+
+#### Section three
+
+Nothing inthe [^c567352]Unlawful Societies Act 1799, or in this Act contained shall extend or be construed to extend to require the name and residence of the printer to be printed upon any bank note, . . . [^c567353] of the Bank of England, upon any bill of exchange, or promissory note, or upon any bond or other security for payment of money, or upon any bill of lading, policy of insurance, letter of attorney, deed, or agreement, or upon any transfer or assignment of any public stocks, funds, or other securities, or upon any transfer or assignment of the stocks of any public corporation or company authorized or sanctioned by Act of Parliament, or upon any dividend warrant of or for any such public or other stocks, funds, or securities, or upon any receipt for money or goods, or upon any proceeding in any court of law or equity, or in any inferior court, warrant, order, or other papers printed by the authority of any public board or public officer in the execution of the duties of their respective offices, notwithstanding the whole or any part of the said several securities, instruments, proceedings, matters, and things aforesaid shall have been or shall be printed.
+
+### 6 & 7 Will. 4 c. 76.
+
+#### Section nineteen
+
+If anyperson shall file any bill in any court for the discovery of the name of any person concerned as printer, publisher, or proprietor of any newspaper, or of any matters relative to the printing or publishing of any newspaper, in order the more effectually to bring or carry on any suit or action for damages alleged to have been sustained by reason of any slanderous or libellous matter contained in any such newspaper respecting such person, it shall not be lawful for the defendant to plead or demur to such bill, but such defendant shall be compellable to make the discovery required; provided always, that such discovery shall not be made use of as evidence or otherwise in any proceeding against the defendant, save only in that proceeding for which the discovery is made.
+
+### 2 & 3 Vict. c. 12.
+
+#### Section two
+
+Every personwho shall print any paper or book whatsoever which shall be meant to be published or dispersed, and who shall not print upon the front of every such paper, if the same shall be printed on one side only, or upon the first or last leaf of every paper or book which shall consist of more than one leaf, in legible characters, his or her name and usual place of abode or business, and every person who shall publish or disperse, or assist in publishing or dispersing, any printed paper or book on which the name and place of abode of the person printing the same shall not be printed as aforesaid, shall for every copy of such paper so printed by him or her be liable on summary conviction to a fine not exceeding[^key-7bb3d02e308e7a85ffd22f65cb20a01c] level 1 on the standard scale[^c567354]: Provided always, that nothing herein contained shall be construed to impose any penalty upon any person for printing any paper excepted out of the operation of the [^c567355]Unlawful Societies Act 1799, either in the said Act or by any Act made for the amendment thereof.
+
+#### Section three
+
+In the case of books or papers printed at the University Press of Oxford, or the Pitt Press of Cambridge, the printer, instead of printing his name thereon, shall print the following words, “Printed at the University Press, Oxford,” or “The Pitt Press, Cambridge,” as the case may be.
+
+#### Section four
+
+Provided always,that it shall not be lawful for any person or persons whatsoever to commence, prosecute, enter, or file, or cause or procure to be commenced, prosecuted, entered, or filed, any action, or information in any of Her Majesty’s courts, or before any justice or justices of the peace, against any person or persons for the recovery of any fine, penalty, or forfeiture made or incurred or which may hereafter be incurred under the provisions of this Act, unless the same be commenced, prosecuted, entered, or filed in the name of Her Majesty’s Attorney General [^c646991]... in England, or Her Majesty’s Advocate for Scotland (as the case may be respectively); and if any action, or information shall be commenced, prosecuted, or filed in the name or names of any other person or persons than is or are in that behalf before mentioned, the same and every proceeding thereupon had are hereby declared and the same shall be null and void to all intents and purposes
+
+### Seditious Meeting Act 1846[^c567356]
+
+#### Section one
+
+It shallnot be lawful for any person or persons to commence, prosecute, enter, or file, or cause or procure to be commenced, prosecuted, entered, or filed, any action, or information in any of Her Majesty’s courts, or before any justice or justices of the peace, against any person or persons for the recovery of any fine which may hereafter be incurred under the provisions of the [^c567358]Unlawful Societies Act 1799, set out in this Act, unless the same be commenced, prosecuted, entered, or filed in the name of Her Majesty’s Attorney General [^c567359]. . . in England or Her Majesty’s Advocate in Scotland, and every action, or information which shall be commenced, prosecuted, entered, or filed in the name or names of any other person or persons than is in that behalf before mentioned, and every proceeding thereupon had, shall be null and void to all intents and purposes
+
+## Annotations
+
+[^c567341]: Modification: Act amended by [Printer's Imprint Act 1961 (c. 31)](https://www.legislation.gov.uk/ukpga/1961/31), [s. 1](https://www.legislation.gov.uk/ukpga/1961/31/section/1)
+
+[^c567342]: Modification: This Act is not necessarily in the form in which it has effect in Northern Ireland
+
+[^c567343]: Textual amendment: Words repealed by [Statute Law Revision (No. 2) Act 1893 (c. 54)](https://www.legislation.gov.uk/ukpga/1893/54)
+
+[^c567345]: Textual amendment: Words repealed by [Statute Law Revision Act 1883 (c. 39)](https://www.legislation.gov.uk/ukpga/1883/39)
+
+[^c567346]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/ukpga/Vict/32-33/24/schedule/1) repealed by [Statute Law Revision (No. 2) Act 1893 (c. 54)](https://www.legislation.gov.uk/ukpga/1893/54)
+
+[^c567347]: Marginal citation: [1799 c. 79](https://www.legislation.gov.uk/apgb/1799/79).
+
+[^key-55c67654e1a2d7143e67ce32e0eebf82]: Textual amendment: Words in Sch. 2 substituted (1.4.2005) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [s. 110(1)](https://www.legislation.gov.uk/ukpga/2003/39/section/110/1), [Sch. 8 para. 50(a)](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/50/a); [S.I. 2005/910](https://www.legislation.gov.uk/uksi/2005/910), [art. 3(y)](https://www.legislation.gov.uk/uksi/2005/910/article/3/y)
+
+[^c567348]: Textual amendment: Words substituted (E.W.S.) by virtue of (E.W.) [Criminal Justice Act 1982 (c. 48, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1982/48), [s. 46](https://www.legislation.gov.uk/ukpga/1982/48/section/46) and (S.) [Criminal Procedure (Scotland) Act 1975 (c. 21, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1975/21), [s. 289G](https://www.legislation.gov.uk/ukpga/1975/21/section/289G)
+
+[^c567349]: Textual amendment: Words repealed by [Printer's Imprint Act 1961 (c. 31)](https://www.legislation.gov.uk/ukpga/1961/31), [s. 1(3)](https://www.legislation.gov.uk/ukpga/1961/31/section/1/3)
+
+[^key-ecad8d1a81587890c02ae05a9dccbde7]: Textual amendment: Words in Sch. 2 repealed (1.4.2005) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [s. 110(1)](https://www.legislation.gov.uk/ukpga/2003/39/section/110/1), [Sch. 8 para. 50(b)](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/50/b), [Sch. 10](https://www.legislation.gov.uk/ukpga/2003/39/schedule/10); [S.I. 2005/910](https://www.legislation.gov.uk/uksi/2005/910), [art. 3(y)](https://www.legislation.gov.uk/uksi/2005/910/article/3/y)
+
+[^key-68f296e7e625ddb9d31cf915f503f74e]: Textual amendment: Words in Sch. 2 repealed (1.4.2005) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [s. 110(1)](https://www.legislation.gov.uk/ukpga/2003/39/section/110/1), [Sch. 8 para. 50(c)](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/50/c), [Sch. 10](https://www.legislation.gov.uk/ukpga/2003/39/schedule/10); [S.I. 2005/910](https://www.legislation.gov.uk/uksi/2005/910), [art. 3(y)](https://www.legislation.gov.uk/uksi/2005/910/article/3/y)
+
+[^key-6a8aa1abb5682cb0ea964097d4519b87]: Textual amendment: Words in Sch. 2 repealed (1.4.2005) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [s. 110(1)](https://www.legislation.gov.uk/ukpga/2003/39/section/110/1), [Sch. 8 para. 50(d)](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/50/d), [Sch. 10](https://www.legislation.gov.uk/ukpga/2003/39/schedule/10); [S.I. 2005/910](https://www.legislation.gov.uk/uksi/2005/910), [art. 3(y)](https://www.legislation.gov.uk/uksi/2005/910/article/3/y)
+
+[^c567352]: Marginal citation: [1799 c. 79](https://www.legislation.gov.uk/apgb/1799/79).
+
+[^c567353]: Textual amendment: Words repealed by [Statute Law (Repeals) Act 1973 (c. 39)](https://www.legislation.gov.uk/ukpga/1973/39), [Sch. 1 Pt. IV](https://www.legislation.gov.uk/ukpga/1973/39/schedule/1/part/IV)
+
+[^key-7bb3d02e308e7a85ffd22f65cb20a01c]: Textual amendment: Words in Sch. 2 substituted (1.4.2005) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [s. 110(1)](https://www.legislation.gov.uk/ukpga/2003/39/section/110/1), [Sch. 8 para. 50(e)](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/50/e); [S.I. 2005/910](https://www.legislation.gov.uk/uksi/2005/910), [art. 3(y)](https://www.legislation.gov.uk/uksi/2005/910/article/3/y)
+
+[^c567354]: Textual amendment: Words substituted (E.W.S.) by virtue of (E.W.) [Criminal Justice Act 1982 (c. 48, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1982/48), [s. 46](https://www.legislation.gov.uk/ukpga/1982/48/section/46) and (S.) [Criminal Procedure (Scotland) Act 1975 (c. 21, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1975/21), [s. 289G](https://www.legislation.gov.uk/ukpga/1975/21/section/289G)
+
+[^c567355]: Marginal citation: [1799 c. 79](https://www.legislation.gov.uk/apgb/1799/79).
+
+[^c646991]: Textual amendment: Words in Sch. 2. repealed (30.9.1997) by [1997 c. 60](https://www.legislation.gov.uk/ukpga/1997/60), [s. 3(2)(3)](https://www.legislation.gov.uk/ukpga/1997/60/section/3/2/3), [Sch.](https://www.legislation.gov.uk/ukpga/1997/60/schedule)
+
+[^c567356]: Marginal citation: [1846 c. 33](https://www.legislation.gov.uk/ukpga/1846/33).
+
+[^c567358]: Marginal citation: [1799 c. 79](https://www.legislation.gov.uk/apgb/1799/79).
+
+[^c567359]: Textual amendment: Words in Sch. 2. repealed (30.9.1997) by [1997 c. 60](https://www.legislation.gov.uk/ukpga/1997/60), [s. 3(2)(3)](https://www.legislation.gov.uk/ukpga/1997/60/section/3/2/3), [Sch.](https://www.legislation.gov.uk/ukpga/1997/60/schedule)

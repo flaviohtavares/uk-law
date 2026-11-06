@@ -1,0 +1,22 @@
+---
+title: The Scottish Parliament (Elections etc.) Order 2007, section 49
+act: The Scottish Parliament (Elections etc.) Order 2007
+section: '49'
+status: as-enacted
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2007/937/section/49
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Scottish Parliament (Elections etc.) Order 2007, section 49
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+## 49. Where no return and declaration is needed
+
+Notwithstanding anything in articles 46 and 47, no return or declaration as to election expenses shall be required in the case of a person–
+
+- (a) who is a candidate, but is so only because he has been declared by others to be a candidate; and
+- (b) who has not consented to the declaration or taken any part as a candidate at the election.

@@ -1,0 +1,49 @@
+---
+title: European Union (Withdrawal Agreement) Act 2020, section 9
+act: European Union (Withdrawal Agreement) Act 2020
+section: '9'
+status: revised
+text_date: '2024-02-20'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2020/1/section/9
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# European Union (Withdrawal Agreement) Act 2020, section 9
+
+> Text as at 2024-02-20.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 9. Restrictions of rights of entry and residence[^key-1efa86faba930ddd22eb2e058b668167]
+
+*Extent: E+W+S+N.I.*
+
+(1) A Minister of the Crown may by regulations make such provision as the Minister considers appropriate for the purpose of implementing any of the following—
+
+- (a) Article 20(1), (3) and (4) of the withdrawal agreement (restrictions of the rights of entry and residence);
+- (b) Article 19(1), (3) and (4) of the EEA EFTA separation agreement (restrictions of the rights of entry and residence);
+- (c) Articles 17(1) and (3) and 20(3) of the Swiss citizens' rights agreement (restrictions of the rights of entry and residence).
+
+(2) If the Minister considers it appropriate, regulations under subsection (1) relating to the implementation of a provision mentioned in subsection (1)(a), (b) or (c) may be made so as to apply both to—
+
+- (a) persons to whom the provision in question applies, and
+- (b) persons to whom that provision does not apply but who—
+  - (i) have entry clearance granted by virtue of relevant entry clearance immigration rules (see section 17),
+  - (ii) have leave to enter or remain in the United Kingdom granted by virtue of residence scheme immigration rules (see section 17), or
+  - (iii) otherwise have leave to enter granted after arriving with entry clearance granted by virtue of relevant entry clearance immigration rules.
+
+(3) In subsection (2)(b), references to a person who has entry clearance or leave to enter or remain include references to a person who would have had entry clearance or leave to enter or remain but for—
+
+- (a) the making of a deportation order under section 5(1) of the Immigration Act 1971, or
+- (b) the making of any other decision made in connection with restricting the right of the person to enter the United Kingdom.
+
+(4) The power to make regulations under subsection (1) may (among other things) be exercised by modifying any provision made—
+
+- (a) by or under the Immigration Acts, or
+- (b) under other primary legislation.
+
+## Annotations
+
+[^key-1efa86faba930ddd22eb2e058b668167]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2020/1/section/9) in force at 19.5.2020 by [S.I. 2020/518](https://www.legislation.gov.uk/uksi/2020/518), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2020/518/regulation/2/c)

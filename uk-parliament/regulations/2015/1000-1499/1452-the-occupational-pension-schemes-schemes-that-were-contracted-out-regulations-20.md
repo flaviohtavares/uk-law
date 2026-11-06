@@ -1,0 +1,398 @@
+---
+title: The Occupational Pension Schemes (Schemes that were Contracted-out) Regulations 2015
+id: uksi/2015/1452
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2015-07-14'
+text_date: '2016-03-15'
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2015/1452
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2015/1452/pdfs/uksiem_20151452_en.pdf
+- http://www.legislation.gov.uk/uksi/2015/1452/pdfs/uksi_20151452_en.pdf
+- http://www.legislation.gov.uk/uksi/2015/1452/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Occupational Pension Schemes (Schemes that were Contracted-out) Regulations 2015
+
+> Text as at 2016-03-15.
+
+2015 No. 1452
+
+Pensions
+
+The Occupational Pension Schemes (Schemes that were Contracted-out) Regulations 2015
+
+Made
+
+14th July 2015
+
+Laid before Parliament
+
+16th July 2015
+
+Coming into force in accordance with regulation 1(2)
+
+The Secretary of State for Work and Pensions makes the following Regulations in exercise of the powers set out in the Schedule.
+
+The Secretary of State has consulted such persons as the Secretary of State considers appropriate, in accordance with section 185(1) of the Pension Schemes Act 1993[^f00001].
+
+## PART 1 — GENERAL
+
+### 1. Citation, commencement and extent[^key-bc447fc404eab74438fdb051708a0d97]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 2. Interpretation[^key-bc447fc404eab74438fdb051708a0d97]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART 2 — GENERAL PROVISIONS RELATING TO SCHEMES THAT WERE SALARY RELATED CONTRACTED-OUT SCHEMES
+
+### 3. Alteration of scheme rules[^key-bc447fc404eab74438fdb051708a0d97]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 4. Determination that an earner was in contracted-out employment[^key-bc447fc404eab74438fdb051708a0d97]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 5. Provision of information[^key-bc447fc404eab74438fdb051708a0d97]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 6. Overseas schemes[^key-bc447fc404eab74438fdb051708a0d97]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 7. Restoration of state scheme rights[^key-bc447fc404eab74438fdb051708a0d97]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 8. Contributions equivalent premiums: prescribed person[^key-bc447fc404eab74438fdb051708a0d97]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 9. Notification of requirement to pay a contributions equivalent premium[^key-bc447fc404eab74438fdb051708a0d97]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 10. Cases where payment of a contributions equivalent premium is not required[^key-bc447fc404eab74438fdb051708a0d97]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 11. Elections to pay contributions equivalent premiums[^key-bc447fc404eab74438fdb051708a0d97]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 12. Payment of a contributions equivalent premium[^key-bc447fc404eab74438fdb051708a0d97]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 13. Payment in lieu of benefit and delay in refund for the purposes of the employer’s right of recovery[^key-bc447fc404eab74438fdb051708a0d97]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 14. Refund of a contributions equivalent premium[^key-bc447fc404eab74438fdb051708a0d97]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 15. Continuation of transitional arrangements for schemes that began winding up before 6th April 1997[^key-bc447fc404eab74438fdb051708a0d97]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 16. Continuation of savings in respect of state scheme premiums[^key-bc447fc404eab74438fdb051708a0d97]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART 3 — ADDITIONAL REQUIREMENTS IN RELATION TO RIGHTS ATTRIBUTABLE TO CONTRACTED-OUT EMPLOYMENT ON AND AFTER 6TH APRIL 1997
+
+### 17. Alteration of scheme rules[^key-bc447fc404eab74438fdb051708a0d97]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 18. Payment of a lump sum instead of a pension[^key-bc447fc404eab74438fdb051708a0d97]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 19. Forfeiture of accrued rights[^key-bc447fc404eab74438fdb051708a0d97]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART 4 — ADDITIONAL REQUIREMENTS IN RELATION TO GUARANTEED MINIMUM PENSIONS
+
+### 20. Alteration of scheme rules[^key-bc447fc404eab74438fdb051708a0d97]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 21. Circumstances for the purposes of section 17(6) of the 1993 Act in which widower’s, widow’s or surviving civil partner’s guaranteed minimum pension is payable[^key-bc447fc404eab74438fdb051708a0d97]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 22. Period for the purposes of section 17(6) of the 1993 Act for which widower’s, widow’s or surviving civil partner’s guaranteed minimum pension is payable[^key-bc447fc404eab74438fdb051708a0d97]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 23. Fixed rate revaluation of guaranteed minimum pensions secured by insurance policies or annuity contracts[^key-bc447fc404eab74438fdb051708a0d97]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 24. Fixed rate revaluation of guaranteed minimum pensions for early leavers[^key-bc447fc404eab74438fdb051708a0d97]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 25. Payment of a lump sum instead of a pension[^key-bc447fc404eab74438fdb051708a0d97]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 26. Suspension and forfeiture of guaranteed minimum pension[^key-bc447fc404eab74438fdb051708a0d97]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 27. Conversion into other benefits: actuarial equivalence[^key-bc447fc404eab74438fdb051708a0d97]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 28. Conversion into other benefits: survivors’ benefits[^key-27e653540f79f4ba5659607fde705705]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART 5 — AMENDMENT OF THE OCCUPATIONAL PENSION SCHEMES (CONTRACTING-OUT) REGULATIONS 1996
+
+### 29. Amendments relating to certification of employments for a period before the second abolition date[^key-bc447fc404eab74438fdb051708a0d97]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 30. Amendments relating to cessation of contracting-out before the second abolition date[^key-bc447fc404eab74438fdb051708a0d97]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART 6 — AMENDMENT OF THE CONTRACTING-OUT (TRANSFER AND TRANSFER PAYMENT) REGULATIONS 1996
+
+### 31. Revaluation after transfer from another scheme[^key-bc447fc404eab74438fdb051708a0d97]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART 7 — REVOCATION AND SAVINGS OF THE OCCUPATIONAL PENSION SCHEMES (CONTRACTING-OUT) REGULATIONS 1996
+
+### 32. Revocations taking effect on the second abolition date
+
+The following provisions of the 1996 Regulations are revoked—
+
+- (a) regulation 11;
+- (b) regulations 16 to 21;
+- (c) regulations 41 to 43;
+- (d) regulation 48(5) to (7);
+- (e) regulations 49 to 61;
+- (f) regulation 62 (but see regulation 33);
+- (g) regulation 63;
+- (h) regulations 65 and 66 (but see regulation 33);
+- (i) regulations 67 to 74; *(affected by repeal, see note)*[^key-94bb98652293081b27690972283ca4b8]
+- (j) regulations 76A and 76B;
+- (k) regulation 77.
+
+### 33. Saving of provisions relating to the revaluation of Guaranteed Minimum Pensions[^key-bc447fc404eab74438fdb051708a0d97]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 34. Revocations taking effect on 6th April 2019[^key-bc447fc404eab74438fdb051708a0d97]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART 8 — PROVISION FOR NORTHERN IRELAND
+
+### 35. Interpretation of Part 8[^key-bc447fc404eab74438fdb051708a0d97]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 36. Restoration of state scheme rights: Northern Ireland[^key-bc447fc404eab74438fdb051708a0d97]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 37. Contributions equivalent premiums: prescribed person in Northern Ireland[^key-bc447fc404eab74438fdb051708a0d97]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 38. Notification of requirement to pay a contributions equivalent premium: Northern Ireland[^key-bc447fc404eab74438fdb051708a0d97]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 39. Cases where payment of a contributions equivalent premium is not required: Northern Ireland[^key-bc447fc404eab74438fdb051708a0d97]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 40. Elections to pay contributions equivalent premiums: Northern Ireland[^key-bc447fc404eab74438fdb051708a0d97]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 41. Payment of a contributions equivalent premium: Northern Ireland[^key-bc447fc404eab74438fdb051708a0d97]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 42. Payment in lieu of benefit and delay in refund for the purposes of the employer’s right of recovery: Northern Ireland[^key-bc447fc404eab74438fdb051708a0d97]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 43. Refund of a contributions equivalent premium: Northern Ireland[^key-bc447fc404eab74438fdb051708a0d97]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 44. Continuation of savings in respect of state scheme premiums: Northern Ireland[^key-bc447fc404eab74438fdb051708a0d97]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 45. Revocations of the Occupational Pension Schemes (Contracting-Out) Regulations (Northern Ireland) 1996 taking effect on the second abolition date[^key-bc447fc404eab74438fdb051708a0d97]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Signed by authority of the Secretary of State for Work and Pensions
+
+Altmann
+
+Minister of State,
+
+Department for Work and Pensions
+
+## SCHEDULE — PROVISIONS CONFERRING POWERS EXERCISED IN MAKING THESE REGULATIONS
+
+Preamble
+
+- The following provisions of the 1993 Act—
+- section 7[^f00118]
+- section 9[^f00119]
+- section 11(5)[^f00120]
+- section 12A(4)[^f00121]
+- section 12D[^f00122]
+- section 16(3) and (4)
+- section 17(6)
+- section 20(1) and (3)[^f00123]
+- section 21(1) and (2)[^f00124]
+- section 24B(5)[^f00125]
+- section 24C[^f00126]
+- section 25(2)[^f00127]
+- section 34[^f00128]
+- section 36(6)[^f00129]
+- section 37(1)
+- section 37A(1)(c)
+- section 50(1B)[^f00130]
+- section 51(2) and (4)
+- section 53(3)[^f00131]
+- section 55(2), (2B) and (2C)
+- section 56(2)[^f00132]
+- section 57(1) and (2)
+- section 61(7) and (11)
+- section 155[^f00133]
+- section 156(2)[^f00134]
+- section 181(1) and (2)[^f00135]
+- section 182(2) and (3)
+- section 183(1)[^f00136]
+- Schedule 2, Part I[^f00137].
+
+The following provisions of the Pension Schemes (Northern Ireland) Act 1993 and now vested in the Secretary of State[^f00138]—
+
+- section 51(2), (2B) and (2C)[^f00139]
+- section 52(2)[^f00140]
+- section 53(1) and (2)
+- section 57(7) and (11)
+- section 176(1)
+- section 177(2) to (4)
+- section 178(1)[^f00141]
+- Schedule 1, paragraphs 1, 2 and 5[^f00142].
+
+The following provisions of the 1995 Act—
+
+- section 92(6)
+- section 174(3).
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations revoke and replace most of the Occupational Pension Schemes (Contracting-out) Regulations 1996 ([S.I. 1996/1172](https://www.legislation.gov.uk/uksi/1996/1172)) (“the 1996 Regulations”) in consequence of provision made by the Pensions Act [2014 (c.19)](https://www.legislation.gov.uk/ukpga/2014/19) (“the 2014 Act”).
+
+The 2014 Act creates a new state pension for people reaching pensionable age after implementation on 6th April 2016. This date is referred to in the Pension Schemes Act [1993 (c.48)](https://www.legislation.gov.uk/ukpga/1993/48) (“the 1993 Act”) (as amended by the 2014 Act) as “the second abolition date”. The new pension will be paid at a single weekly rate, replacing the current state pension which has two components: a basic state pension and an additional state pension. The 2014 Act therefore also makes amendments to existing primary legislation to abolish contracting-out of the state additional pension for salary related pension schemes. Much of the provision made by the 1996 Regulations is revoked with effect from the second abolition date by regulation 32.
+
+Some provisions of the 1993 Act and the 1996 Regulations will remain in force until 6th April 2019, in accordance with savings provisions contained in [S.I. 2015/1502](https://www.legislation.gov.uk/uksi/2015/1502). In particular, provisions relating to the issue, variation and surrender of contracting-out certificates remain in force to enable the Commissioners for Her Majesty’s Revenue and Customs (“the Commissioners”) to issue certificates relating to a period before the second abolition date, and to deal with any variation or surrender of such a certificate which is to take effect from a date preceding that date. Provisions relating to schemes which have ceased to contract-out before the second abolition date also remain in force, to ensure that the Commissioners are notified of the termination of contracted-out employment in these circumstances and that earner’s pension rights are protected.
+
+Provisions of the 1996 Regulations which are to continue to have effect after the second abolition date are, where necessary, amended by regulations 29 and 30 to reflect the abolition of contracting-out.
+
+Provisions of the 1996 Regulations which are to continue to apply indefinitely to pension schemes which were contracted-out prior to the second abolition date are re-enacted, with modifications reflecting the abolition of contracting-out, in these Regulations. Part 2 contains provisions relating to all pension schemes which were salary related contracted-out schemes, Part 3 carries forward additional requirements relating to section 9(2B) rights and Part 4 continues additional requirements in relation to guaranteed minimum pensions. “Section 9(2B) rights” are rights attributable to employment which was contracted-out on and after 6th April 1997 under section 9(2B) of the 1993 Act. Guaranteed minimum pensions relate to contracted-out employment before that date where, under scheme rules, the weekly rate of the pension is to be not less than the guaranteed minimum under sections 14 to 16 of the 1993 Act.
+
+In Part 2, regulation 3 imposes limitations on the alteration of scheme rules, regulation 4 deals with correction of errors as to whether an earner was in contracted-out employment, regulation 5 provides for the disclosure of certain information by the Secretary of State and the Commissioners and regulation 6 continues requirements as to the rules of overseas schemes. Regulation 7 provides for restoration of rights in the State scheme where a scheme is insolvent and regulations 8 to 14 carry forward provisions relating to contributions equivalent premiums. Under the savings provisions contained within [S.I. 2015/1502](https://www.legislation.gov.uk/uksi/2015/1502), these provisions apply only in relation to schemes which ceased to be contracted-out before the second abolition date and, after 6th April 2019, only in relation to such schemes which are winding up. Regulations 15 and 16 carry forward certain transitional provisions and savings from the 1996 Regulations.
+
+In Part 3, regulation 17 sets out the circumstances in which scheme rules may be altered in relation to section 9(2B) rights and regulation 18 carries forward requirements for the payment of lump sums and commutation of benefits. Regulation 19 governs the circumstances in which section 9(2B) rights may be forfeited.
+
+In Part 4, regulation 20 continues limitations on the alteration of scheme rules in relation to guaranteed minimum pensions and regulations 21 and 22 carry forward requirements as to the payment of pensions to surviving spouses and civil partners. Regulations 23 and 24 deal with revaluation of guaranteed minimum pensions (GMPs) and regulation 25 describes the circumstances in which a lump sum may be paid instead of a pension. Provision as to suspension and forfeiture of guaranteed minimum pensions is carried forward by regulation 26; regulations 27 and 28 deal with conversion of guaranteed minimum pensions into other benefits.
+
+Part 6 carries forward modifications of section 16 in relation to revaluation after transfer from another scheme previously located in the 1996 Regulations, by inserting those provisions into the Contracting-out (Transfer and Transfer Payment) Regulations 1996 ([S.I. 1996/1462](https://www.legislation.gov.uk/uksi/1996/1462)).
+
+Part 7 provides for revocations and savings of the 1996 Regulations. Regulations 62, 66 and 66 of the 1996 Regulations are saved for the purposes of maintaining the current provisions for fixed rate revaluation of GMPs where an earner ceased contracted-out employment before the second abolition date.
+
+Part 8 of these Regulations replicates provisions of Part 2 relating to contributions equivalent premiums for Northern Ireland. Contributions equivalent premiums and rights to return to the state pension scheme are excepted matters under the Northern Ireland Act [1998 (c.47)](https://www.legislation.gov.uk/ukpga/1998/47). Regulation 45 reflects for the [Occupational Pension Schemes (Contracting-out) Regulations (Northern Ireland) 1996 (S.R.1996 No.493)](https://www.legislation.gov.uk/nisr/1996/493) revocations of provisions relating to contributions equivalent premiums in the 1996 Regulations by regulation 32.
+
+An analysis of the impact of this legislation has been made as part of the analysis of the Pensions Act 2014. A copy is available in the libraries of both Houses of Parliament. A copy is annexed to the Explanatory Memorandum which is available alongside this instrument on www.legislation.gov.uk. Copies may also be obtained from the Better Regulation Unit of the Department for Work and Pensions, 2D, Caxton House, Tothill Street, London SW1H 9NA.
+
+## Annotations
+
+[^f00001]: Footnote: [1993 c.48](https://www.legislation.gov.uk/ukpga/1993/48). Relevant amendments are made by paragraph 46 of Schedule 3 to, paragraph 80 of Schedule 5 to, and Part I of Schedule 7 to, the Pensions Act [1995 (c.26)](https://www.legislation.gov.uk/ukpga/1995/26).
+
+[^key-bc447fc404eab74438fdb051708a0d97]: Textual amendment: [Instrument](https://www.legislation.gov.uk/uksi/2015/1452) revoked in part (31.10.2015) by [The Occupational Pension Schemes (Schemes that were Contracted-out) (No.2) Regulations 2015 (S.I. 2015/1677)](https://www.legislation.gov.uk/uksi/2015/1677), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2015/1677/regulation/1/2/a), [45](https://www.legislation.gov.uk/uksi/2015/1677/regulation/45)
+
+[^key-27e653540f79f4ba5659607fde705705]: Textual amendment: [Reg. 28](https://www.legislation.gov.uk/uksi/2015/1452/regulation/28) revoked (15.3.2016) by [The State Pension and Occupational Pension Schemes (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/199)](https://www.legislation.gov.uk/uksi/2016/199), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/199/regulation/1/2), [6(2)(a)](https://www.legislation.gov.uk/uksi/2016/199/regulation/6/2/a)
+
+[^key-94bb98652293081b27690972283ca4b8]: Textual amendment: [Reg. 32](https://www.legislation.gov.uk/uksi/2015/1452/regulation/32) revoked in part (15.3.2016) by [The State Pension and Occupational Pension Schemes (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/199)](https://www.legislation.gov.uk/uksi/2016/199), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/199/regulation/1/2), [6(2)(b)](https://www.legislation.gov.uk/uksi/2016/199/regulation/6/2/b)
+
+[^f00118]: Footnote: Section 7 was amended by section 136 of the 1995 Act, and sections 15(3)(a) and 27(2) of, and paragraphs 1 and 2 of Schedule 4 to, and Part 6 of Schedule 7 to, the Pensions Act 2007. Section 7 is repealed by paragraph 5 of Schedule 13 to the 2014 Act, but saved for certain purposes *see* [S.I. 2015/1502](https://www.legislation.gov.uk/uksi/2015/1502).
+
+[^f00119]: Footnote: Section 9 was amended by section 136 of, and paragraph 21 of Schedule 5 to, the 1995 Act, paragraph 35 of Schedule 1 to the Social Security Contributions (Transfer of Functions, etc.) Act 1999, section 283 of the 2004 Act, [S.I. 2006/745](https://www.legislation.gov.uk/uksi/2006/745) and sections 15(3)(a) and 27(2) of, and paragraphs 1 and 4 of Schedule 4 to, and Part 6 of Schedule 7 to, the Pensions Act 2007. Section 9 is repealed by paragraph 9 of Schedule 13 to the 2014 Act, but saved for certain purposes *see* [S.I. 2015/1502](https://www.legislation.gov.uk/uksi/2015/1502).
+
+[^f00120]: Footnote: Section 11(5) was amended by paragraph 37 of Schedule 1 to the Social Security Contributions (Transfer of Functions, etc.) Act 1999, and section 1(2)(a) of the Employment Rights (Dispute Resolution) Act [1998 (c.8)](https://www.legislation.gov.uk/ukpga/1998/8). Section 11 is repealed by paragraph 9 of Schedule 13 to the 2014 Act, but saved for certain purposes *see* [S.I. 2015/1502](https://www.legislation.gov.uk/uksi/2015/1502).
+
+[^f00121]: Footnote: Section 12A was inserted by section 136 of the 1995 Act, and amended by [S.I. 2005/2050](https://www.legislation.gov.uk/uksi/2005/2050), and paragraph 5 of Schedule 5, and Part 8 of Schedule 7 to the Pensions Act 2007. It is repealed by paragraph 11 of Schedule 13 to the 2014 Act, but saved for certain purposes *see* [S.I. 2015/1502](https://www.legislation.gov.uk/uksi/2015/1502).
+
+[^f00122]: Footnote: Section 12D was inserted by section 136 of the 1995 Act. . It is repealed by paragraph 11 of Schedule 13 to the 2014 Act, but saved for certain purposes *see* [S.I. 2015/1502](https://www.legislation.gov.uk/uksi/2015/1502).
+
+[^f00123]: Footnote: Section 20(1) was amended by paragraph 2 of Schedule 5 to the Child Support, Pensions and Social Security Act 2000. Section 20(3) was amended by sections 15(3)(a) and 27(2) of, and paragraphs 46 and 48 of Schedule 4 to, and Part 7 of Schedule 7 to, the Pensions Act 2007, and [S.I. 2011/1730](https://www.legislation.gov.uk/uksi/2011/1730).
+
+[^f00124]: Footnote: Section 21 was amended by section 284(1) of the 2004 Act and [S.I. 2005/2050](https://www.legislation.gov.uk/uksi/2005/2050).
+
+[^f00125]: Footnote: Section 24B was inserted by section 14(3) of the Pensions Act 2007.
+
+[^f00126]: Footnote: Section 24C was inserted by section 14(3) of the Pensions Act 2007.
+
+[^f00127]: Footnote: Section 25(2) was substituted by paragraph 33(b) of Schedule 5 to the 1995 Act, and amended by paragraph 40 of Schedule 1 to the Social Security Contributions (Transfer of Functions, etc.) Act 1999.
+
+[^f00128]: Footnote: Section 34 is repealed by paragraph 22 of Schedule 13 to the Pensions Act 2014, but saved for certain purposes *see* [S.I. 2015/1502](https://www.legislation.gov.uk/uksi/2015/1502). It was amended by section 151 of the 1995 Act, paragraph 45 of Schedule 1 to the Social Security Contributions (Transfer of Functions etc.) Act 1999, sections 15(3)(a) and 27(2) of, and paragraphs 1 and 15 of Schedule 4 to, and Part 6 of Schedule 7 to, the Pensions Act 2007.
+
+[^f00129]: Footnote: Section 36 is repealed by paragraph 22 of Schedule 13 to the Pensions Act 2014, but saved for certain purposes *see* [S.I. 2015/1502](https://www.legislation.gov.uk/uksi/2015/1502). Section 36(6) was amended by [S.I. 1996/1172](https://www.legislation.gov.uk/uksi/1996/1172).
+
+[^f00130]: Footnote: Section 50 is repealed by paragraph 33 of Schedule 13 to the 2014 Act, but saved for certain purposes *see* [S.I. 2015/1502](https://www.legislation.gov.uk/uksi/2015/1502). Section 50(1B) was inserted by paragraph 45(b) of Schedule 5 to the 1995 Act.
+
+[^f00131]: Footnote: Section 53(3) is repealed by paragraph 36 of Schedule 13 to the 2014 Act, but saved for certain purposes *see* [S.I. 2015/1502](https://www.legislation.gov.uk/uksi/2015/1502). It was amended by paragraph 48(c) of Schedule 5 to the 1995 Act, paragraph 52 of Schedule 1 to the Social Security Contributions (Transfer of Functions, etc.) Act 1999, and [S.I. 2011/1730](https://www.legislation.gov.uk/uksi/2011/1730).
+
+[^f00132]: Footnote: Section 56 is repealed by paragraph 37 of Schedule 13 to the 2014 Act, but saved for certain purposes *see* [S.I. 2015/1502](https://www.legislation.gov.uk/uksi/2015/1502). Section 56(2) was amended by paragraph 51(a) of Schedule 5 to the 1995 Act, and paragraph 54 of Schedule 1 to the Social Security Contributions (Transfer of Functions, etc.) Act 1999.
+
+[^f00133]: Footnote: Section 155 was amended by paragraph 65 of Schedule 5 to the 1995 Act, paragraph 59 of Schedule 1 to the Social Security Contributions (Transfer of Functions, etc.) Act 1999, and [S.I. 2011/1730](https://www.legislation.gov.uk/uksi/2011/1730).
+
+[^f00134]: Footnote: Section 156 was substituted by paragraph 9 of Schedule 5 to the Child Support, Pensions and Social Security Act 2000, and amended by [S.I. 2011/1730](https://www.legislation.gov.uk/uksi/2011/1730).
+
+[^f00135]: Footnote: Section 181(2) was amended by paragraph 44(b) of Schedule 3 to the 1995 Act.
+
+[^f00136]: Footnote: Section 183(1) was amended by paragraph 79 of Schedule 5, paragraph 15(a) of Schedule 6, and Parts 3 and 4 of Schedule 7, to the 1995 Act.
+
+[^f00137]: Footnote: Paragraphs 1 to 4 and 6 to 8 of Part I of Schedule 2 are repealed by, and paragraph 5 of that Part is amended by, paragraph 46 of Schedule 13 to the 2014 Act, but saved for certain purposes *see* [S.I. 2015/1502](https://www.legislation.gov.uk/uksi/2015/1502). Part 1 of Schedule 2 was amended by section 141 of, and paragraph 84 of Schedule 5, and Part 3 of Schedule 7 to, the 1995 Act, paragraph 62 of Schedule 1 to the Social Security Contributions (Transfer of Functions, etc.) Act 1999, and paragraphs 46 and 59 of Schedule 4 to the Pensions Act 2007.
+
+[^f00138]: Footnote: *See* paragraphs 66 and 77 of Schedule 1 to [S.I. 1999/671](https://www.legislation.gov.uk/uksi/1999/671).
+
+[^f00139]: Footnote: Section 51(2) was substituted by Article 138(1) of [S.I. 1995/3213 (N.I. 22)](https://www.legislation.gov.uk/nisi/1995/3213) and amended by paragraph 7(2)(a) of Schedule 2 to the Welfare Reform and Pensions Act 1999 and paragraph 26 of Schedule 4 to the [Pensions Act (Northern Ireland) 2008 (c.1 (N.I.))](https://www.legislation.gov.uk/nia/2008/1). Subsections (2B) and (2C) were inserted by paragraph 7(2)(c) of Schedule 2 to the Welfare Reform and Pensions Act 1999.
+
+[^f00140]: Footnote: Section 52(2) was amended by Schedule 5 to [S.I. 1995/3213](https://www.legislation.gov.uk/uksi/1995/3213), and paragraph 64(2) of Schedule 1 to [S.I. 1999/671](https://www.legislation.gov.uk/uksi/1999/671).
+
+[^f00141]: Footnote: Section 178(1) was amended by Schedule 5 to [S.I. 1995/3213](https://www.legislation.gov.uk/uksi/1995/3213).
+
+[^f00142]: Footnote: Paragraphs 2 and 5 were amended by paragraph 77 of Schedule 1 to [S.I.1999/671](https://www.legislation.gov.uk/uksi/1999/671). Paragraph 5 was also amended by Article 138(2) and Schedule 5 to [S.I. 1995/3213](https://www.legislation.gov.uk/uksi/1995/3213), and paragraph 58 of Schedule 4 to the Pensions Act (Northern Ireland) 2008.

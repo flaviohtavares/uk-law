@@ -1,0 +1,3026 @@
+---
+title: The Council Tax (Administration and Enforcement) Regulations 1992
+id: uksi/1992/613
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '1992-03-10'
+text_date: '2026-04-01'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/1992/613
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1992/613/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Council Tax (Administration and Enforcement) Regulations 1992
+
+> Text as at 2026-04-01.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+1992 No. 613
+
+COUNCIL TAX, ENGLAND AND WALES
+
+The Council Tax (Administration and Enforcement) Regulations 1992
+
+Made
+
+10th March 1992
+
+Laid before Parliament
+
+11th March 1992
+
+Coming into force
+
+1st April 1992
+
+The Secretary of State for the Environment, as respects England, and the Secretary of State for Wales, as respects Wales, in exercise of the powers conferred on them by sections 16(3) and 113(1) and (2) of, and paragraphs 1(1), 2(2), (3), (4)(a) to (c) and (5), 3 to 11, 13(1)(a) and (3), 16 and 18 of Schedule 2, paragraphs 1 and 6 of Schedule 3 and paragraphs 1 to 15, and 17 to 19 of Schedule 4 to, the Local Government Finance Act 1992[^f00001], and of all other powers enabling them in that behalf, hereby make the following Regulations:[^key-da8876a71a9a90cccc66dc47fc7d5afe]
+
+## PART I — General Citation, commencement and interpretation
+
+*Extent: E*
+
+**1.**[^M_E_4fae282b-8d8b-4df8-aa58-e34de6b1abd7][^key-573c75efd3abd868e6960f19c81b9080] (1) These Regulations may be cited as the Council Tax (Administration and Enforcement) Regulations 1992 and shall come into force on 1st April 1992.
+
+(2) In these Regulations—
+
+- “**the Act**” means the Local Government Finance Act 1992;
+- “ *(Extent: W)*[^key-70ee476a81738037337e8ff512f7df8d]**address *(Extent: W)***” in relation to electronic communications includes any number or address used for the purposes of such communications; *(Extent: W)*
+- “ *(Extent: W)***business day *(Extent: W)***” means any day except a Saturday or Sunday, Christmas Day, Good Friday or a day which is a bank holiday under the Banking and Financial Dealings Act 1971 in England and Wales; *(Extent: W)*
+- “[^key-32d281539b62d9e4e9ee49b6f554400c]**council tax offence**” has the same meaning as in the Detection of Fraud Regulations;
+- “[^M_F_2edd172a-8f53-470a-a66f-0033db92038d]**demand notice regulations**” means regulations under paragraph 1(1) of Schedule 2 to the Act making such provision as is mentioned in paragraph 2(4)(e) or 2(4)(j)[^key-a6eecb5d782112a1ccb44dd2abedeb44] of that Schedule; and
+- “[^key-e9e0f4675a15004147fb3fb52b77d539]**Detection of Fraud Regulations**” means the Council Tax Reduction Schemes (Detection of Fraud and Enforcement) (England) Regulations 2013;
+- “[^key-1b04cc49aa66234d850fd8ccf0074fe0]**discount**” means—
+  - (a) a discount under section 11 or section 11A of the Act;
+  - (b) a reduction in the amount of council tax payable for a dwelling under the Council Tax (Reductions for Annexes) (England) Regulations 2013; or
+  - (c) a reduction under section 13A(1)(a) or (c) where—
+    - (i) a scheme under section 13A(2) of the Act provides, or
+    - (ii) the billing authority has determined under section 13A(7) of the Act,
+
+    that liability shall be reduced otherwise than to nil;
+- “[^key-7b4b28b2b75328d278e2858bec9d2cae]**electronic communication**” means a communication transmitted (whether from one person to another, from one device to another or from a person to a device or vice versa)—
+  - (a) by means of an electronic communications network within the meaning of section 32(1) of the Communications Act 2003;
+  - (b) by other means but while in an electronic form;
+- “[^key-e2f846a894b2648bce5536c03ea5f5a6]**exempt dwelling**” means a dwelling which is exempt from council tax under the Exempt Dwellings Order or a dwelling in relation to which no council tax is payable by virtue of a reduction under section 13A(1)(a) or section 13A(1)(c) of the Act where—
+  - (a) a scheme under section 13A(2) of the Act provides; or
+  - (b) the billing authority has determined under section 13A(7) of the Act
+
+  that liability shall be reduced to nil; [^key-94369b196f5c5ad3225d94f04f57512c]...
+- “[^key-eb42b5f7001a5f8c3f46781a0b16c592]**Exempt Dwellings Order**” means the Council Tax (Exempt Dwellings) Order 1992;
+- “**managing agent**”, in relation to a dwelling, means any person authorised to arrange lettings of the dwelling; [^key-00a7e2dbab3d2389986be20d555f3792]...
+- “[^key-b5358e4a7b6721db44e20d837fea4dbb]**premium**” means an increase in the amount of council tax payable in respect of a dwelling under section 11B(1) or 11C(1)[^key-758f347e21efb8cf7fb6a11a18c63819] of the Act.
+- “[^key-915497fd3376637fa7a00b7bbe0998be]**universal credit**” means universal credit under Part 1 of the Welfare Reform Act 2012
+
+*Extent: W*
+
+**1.**[^M_E_a8ea2730-52f1-413d-aeec-aad752d88b81][^V_W_d50340ed-163a-e431-fb7d-9fcf032d868c] (1) These Regulations may be cited as the Council Tax (Administration and Enforcement) Regulations 1992 and shall come into force on 1st April 1992.
+
+(2) In these Regulations—
+
+- “**the Act**” means the Local Government Finance Act 1992;
+- “[^key-66992f5a77105e954dae8adfa507781a]**the 2026 Regulations**” means the Council Tax (Discounts, Disregards and Exemptions) (Wales) Regulations 2026;
+- “[^V_W_ba177d5e-f833-9900-e42d-8b80f3eb4622]**address**” in relation to electronic communications includes any number or address used for the purposes of such communications;
+- “**business day**” means any day except a Saturday or Sunday, Christmas Day, Good Friday or a day which is a bank holiday under the Banking and Financial Dealings Act 1971 in England and Wales;
+- “ *(Extent: E)*[^V_W_80d4ea79-80cf-7eee-6b3d-e25ec91864bb]**council tax offence *(Extent: E)***” has the same meaning as in the Detection of Fraud Regulations; *(Extent: E)*
+- “[^M_F_da32e623-a2a8-4dac-b7dc-24c2b949819c]**demand notice regulations**” means regulations under paragraph 1(1) of Schedule 2 to the Act making such provision as is mentioned in paragraph 2(4)(e) or 2(4)(j)[^V_W_60e78c2b-0679-0f62-cb49-e1ec4abb35be] of that Schedule; and
+- “[^V_W_cb2eac89-8c55-7386-8c65-a77b08088eb3]**detection of fraud regulations**” means the Council Tax Reduction Schemes (Detection of Fraud and Enforcement) (Wales) Regulations 2013;
+- “[^V_W_35f35e81-37ae-a442-5732-65f459e3c8c8]**discount**” means a discount under section 11E(1) or 11F(2)[^key-9b607274307b6a7b7e96419f170c4ddb] of the Act, or a reduction in the amount of council tax payable for a dwelling under section 13A(1)(b) or 13A(1)(c) where—
+  - (a) a scheme made by a billing authority in accordance with the Council Tax Reduction Schemes and Prescribed Requirements (Wales) Regulations 2013[^key-b26acccb7c733644c1ccf8b5dd93c311] or the scheme which applies in default in accordance with paragraph 6(1)(e) of Schedule 1B to the Act provides; or
+  - (b) the billing authority has determined under section 13A(7) of the Act,
+
+  that liability shall be reduced otherwise than to nil;
+- “[^V_W_9baa7fd4-727c-d507-5e33-ee64ed236a53]**electronic communication**” means a communication transmitted (whether from one person to another, from one device to another or from a person to a device or vice versa)—
+  - (a) by means of an electronic communications network within the meaning of section 32(1) of the Communications Act 2003;
+  - (b) by other means but while in an electronic form;
+- “[^V_W_0c8b7708-3d4e-4488-547c-8207cea2168f]**exempt dwelling**” means a dwelling which is exempt from council tax under the the 2026 Regulations[^key-d9ebbaeba587662987eab7e919899182] or a dwelling in relation to which no council tax is payable by virtue of a reduction under section 13A(1)(b) or section 13A(1)(c) of the Act where—
+  - (a) a scheme made by a billing authority in accordance with the Council Tax Reduction Schemes and Prescribed Requirements (Wales) Regulations 2013[^key-5c1b89ef658024b696f3f98844be926f] or the scheme which applies in default in accordance with paragraph 6(1)(e) of Schedule 1B to the Act provides; or
+  - (b) the billing authority has determined under section 13A(7) of the Act,
+
+  that liability shall be reduced to nil; [^V_W_9b867dfc-bd51-6458-ef8c-816d3f6dacbf]...
+- [^key-b7061f7e4fb80303b9ba48d709cca999]...
+- “[^V_W_25bfe9cc-49a3-2b0f-7fd5-859d81af5ceb]**managing agent**”, in relation to a dwelling, means any person authorised to arrange lettings of the dwelling ; *(Extent: E)*[^V_W_0db11e43-a604-ad2a-99a6-9e30bb99776c] [^key-842b654f6b3e163a6ebb93a7c4f50a41]... *(Extent: E)*
+- “[^key-a8e28a50dc441204b59e6a8e47c4a0ac]**premium**” means an increase in the amount of council tax payable in respect of a dwelling as a result of a determination made by the billing authority under section 12A(1) or 12B(1) of the Act; and
+- “[^V_W_4070696b-f39f-cfcc-7b0b-c95dfbb57c10]**universal credit**” means universal credit under Part 1 of the Welfare Reform Act 2012.
+
+### 2. Service of notices[^M_E_dd270432-8bb0-47ed-f4a5-eadba5a2cd02][^key-2cb6fbabd59e6e4d642ff42ae573a5ed]
+
+*Extent: E*
+
+(1) Where any notice which is required or authorised by these Regulations to be given to or served on any person falls to be given or served by or on behalf of the Common Council it may be given or served in any manner in which it might be given or served under section 233 of the Local Government Act 1972[^f00002] if the Common Council were a local authority within the meaning of that section.
+
+(2) If the name of any person on whom a notice is to be served in accordance with regulation 3 (information from residents, etc.) or regulation 12 (information relating to exempt dwellings, etc.) cannot after reasonable inquiry be ascertained, the notice may be served by addressing it to “The Resident” or, as the case may be, “The Owner” or “The Managing Agent” of the dwelling concerned (naming the dwelling) without further name[^key-849109953eac19ee8494873724786060] or description.
+
+(3) If the name of any person to whom a notice is to be given or on whom a notice is to be served in accordance with any provision of Part V (billing) of these Regulations cannot after reasonable inquiry be ascertained, the notice may be given or served by addressing it to “The Council Tax Payer” of the dwelling concerned (naming the dwelling) without further name or description.
+
+(4)[^key-d07cc302c004c8e2353166b9f9b99d66] Without prejudice to section 233 of the Local Government Act 1972 and paragraphs (1), (2) and (3) above and subject to paragraphs (5) to (8) below, any notice required or authorised to be given to or served by a billing authority on any person by a provision of Part II, III or V of these Regulations [^key-1314e4eee3384b539244a4e7bf8fb071]...:
+
+- (a) may be so given, served or supplied by sending the notice or information to that person by electronic communication to such address as may be notified by that person for that purpose; or
+- (b) shall be treated as given, served or supplied to that person where—
+  - (i) the billing authority and that person have agreed for that purpose that any document containing that notice or information may be accessed by that person on a website;
+  - (ii) the document is a document to which that agreement applies;
+  - (iii) the billing authority has published the document on a website; and
+  - (iv) that person is notified, in a manner for the time being agreed for that purpose between him and the billing authority, of—
+    - (aa) the publication of the document on a website;
+    - (bb) the address of that website; and
+    - (cc) the place on the website where the document may be accessed.
+
+(4A)[^key-229d0ae9e4fa775a843a4ba7fff64db1] Without prejudice to section 233 of the Local Government Act 1972 and subject to paragraphs (6) and (7) below, any information required by the demand notice regulations to be supplied to any person when a demand notice (within the meaning of Part V of these Regulations) is served:
+
+- (a) may be so supplied by sending the information to that person by electronic communication to such address as may be notified by that person for that purpose; or
+- (b) subject to paragraph (4B) shall be treated as supplied to that person where the billing authority has published the information on a website and that person is notified by way of the demand notice of—
+  - (i) the publication of the information on a website;
+  - (ii) the address of that website; and
+  - (iii) the place on the website where the information may be accessed;
+
+(4B) Sub-paragraph (b) of paragraph (4A) shall not apply where that person has requested a hard copy of the information.
+
+(4C) Where a person requests a hard copy of the information referred to in paragraph (4A) in writing either before or after the demand notice is issued the authority must supply it as soon as reasonably practicable following receipt of the request.
+
+(5) For the purpose of any legal proceedings, a notice given by a means described in paragraph (4), shall, unless the contrary is proved, be treated as served on the second business day after—
+
+- (a) it was sent in accordance with sub-paragraph (a); or
+- (b) notification of its publication was given in accordance with sub-paragraph (b)(iv).
+
+(6) A person who has notified an address for the purposes of paragraphs (4)(a) or (4A)(a)[^key-3d72087f4774d592748bc8cbfb0ff611] shall, by notice in writing to the billing authority, advise the billing authority of any change in that address; and the change shall take effect on the third business day after the date on which the notice is received by the billing authority.
+
+(7) A person who has notified an address for the purposes of paragraphs (4)(a) or (4A)(a)[^key-f1fa9e5c37939e31e982a73b92139619] may, by notice in writing to the billing authority, withdraw that notification; and the withdrawal shall take effect on the third business day after the date on which the notice is received by the billing authority.
+
+(8) A person who has entered into an agreement with the billing authority under paragraph (4)(b)(i) may, by notice in writing to the billing authority, inform the authority that he no longer wishes to be party to the agreement; and where such notice is given, the agreement shall be treated as revoked on the third business day after the date on which the notice is received by the billing authority.
+
+### 2. Service of notices[^M_E_54883385-24f1-4711-c041-e670f1516e56][^V_W_271bf1d3-fd3f-4960-3a96-08c7a6aabdcd]
+
+*Extent: W*
+
+(1) Where any notice which is required or authorised by these Regulations to be given to or served on any person falls to be given or served by or on behalf of the Common Council it may be given or served in any manner in which it might be given or served under section 233 of the Local Government Act 1972[^f00002] if the Common Council were a local authority within the meaning of that section.
+
+(2) If the name of any person on whom a notice is to be served in accordance with regulation 3 (information from residents, etc.) or regulation 12 (information relating to exempt dwellings, etc.) cannot after reasonable inquiry be ascertained, the notice may be served by addressing it to “The Resident” or, as the case may be, “The Owner” or “The Managing Agent” of the dwelling concerned (naming the dwelling) without further name[^V_W_1525abf6-c40c-206a-629f-2fa32e97b010] or description.
+
+(3) If the name of any person to whom a notice is to be given or on whom a notice is to be served in accordance with any provision of Part V (billing) of these Regulations cannot after reasonable inquiry be ascertained, the notice may be given or served by addressing it to “The Council Tax Payer” of the dwelling concerned (naming the dwelling) without further name or description.
+
+*Extent: W.*
+
+(4)[^V_W_7e0b2c69-ef00-69ce-3750-1443667e0ee7] Without prejudice to section 233 of the Local Government Act 1972 and paragraphs (1), (2) and (3) above and subject to paragraphs (5) to (8) below, any notice required or authorised to be given to or served by a billing authority on any person by a provision of Part II, III or V of these Regulations or by Regulation 33 [^V_W_8aa97db4-0fe3-7050-b353-7d0c0ca94ab3]...:
+
+- (a) may be so given, served or supplied by sending the notice or information to that person by electronic communication to such address as may be notified by that person for that purpose; or
+- (b) is to be treated as given, served or supplied to that person where—
+  - (i) the billing authority and that person have agreed for that purpose that any document containing that notice or information may be accessed by that person on a website;
+  - (ii) the document is a document to which that agreement applies;
+  - (iii) the billing authority has published the document on a website; and
+  - (iv) that person is notified, in a manner for the time being agreed for that purpose between that person and the billing authority, of—
+    - (aa) the publication of the document on a website;
+    - (bb) the address of that website; and
+    - (cc) the place on the website where the document may be accessed.
+
+(4A (Extent: W.))[^V_W_bdff661f-7a56-dac1-6447-45d646337e64] Without prejudice to section 233 of the Local Government Act 1972 and subject to paragraphs (6) and (7) below, any information required by the demand notice regulations to be supplied to any person when a demand notice (within the meaning of Part V of these Regulations) is served: *(Extent: W.)*
+
+- (a (Extent: W.)) may be so supplied by sending the information to that person by electronic communication to such address as may be notified by that person for that purpose; or *(Extent: W.)*
+- (b (Extent: W.)) subject to paragraph (4B) shall be treated as supplied to that person where the billing authority has published the information on a website and that person is notified by way of the demand notice of— *(Extent: W.)*
+  - (i (Extent: W.)) the publication of the information on a website; *(Extent: W.)*
+  - (ii (Extent: W.)) the address of that website; and *(Extent: W.)*
+  - (iii (Extent: W.)) the place on the website where the information may be accessed. *(Extent: W.)*
+
+(4B (Extent: W.)) Sub-paragraph (b) of paragraph (4A) shall not apply where that person has requested a hard copy of the information. *(Extent: W.)*
+
+(4C (Extent: W.)) Where a person requests a hard copy of the information referred to in paragraph (4A) in writing either before or after the demand notice is issued, the authority must supply it as soon as reasonably practicable following receipt of the request. *(Extent: W.)*
+
+(5 (Extent: W.)) For the purpose of any legal proceedings, a notice given by a means described in paragraph (4), unless the contrary is proved, is treated as served on the second business day after— *(Extent: W.)*
+
+- (a (Extent: W.)) it was sent in accordance with paragraph (4)(a); or *(Extent: W.)*
+- (b (Extent: W.)) notification of its publication was given in accordance with paragraph (4)(b)(iv). *(Extent: W.)*
+
+(6 (Extent: W.)) A person who has notified an address *(Extent: W.)* for the purposes of paragraphs (4)(a) or (4A)(a)[^V_W_7ccc741c-f367-2eb5-f7e6-5f8c194cde0a] *(Extent: W.)* must, by notice in writing to the billing authority, advise the billing authority of any change in that address; and the change takes effect on the third business day after the date on which the notice is received by the billing authority. *(Extent: W.)*
+
+(7 (Extent: W.)) A person who has notified an address *(Extent: W.)* for the purposes of paragraphs (4)(a) or (4A)(a)[^V_W_27838db9-7d1c-b962-4eec-3f975bba72be] *(Extent: W.)* may, by notice in writing to the billing authority, withdraw that notification; and the withdrawal takes effect on the third business day after the date on which the notice is received by the billing authority. *(Extent: W.)*
+
+(8 (Extent: W.)) A person who has entered into an agreement with the billing authority under paragraph (4)(b)(i) may, by notice in writing to the billing authority, inform the authority that they no longer wish to be party to the agreement; and where such notice is given, the agreement must be treated as revoked on the third business day after the date on which the notice is received by the billing authority. *(Extent: W.)*
+
+## PART II — Information: General
+
+### 3. Information from residents, etc.[^key-d3e9cdec19f65d659cc8150f7585efa5]
+
+(1) A person who appears to a billing authority to be a resident, owner or managing agent of a particular dwelling shall supply to the authority such information as fulfils the following conditions—
+
+- (a) it is in the possession or control of the person concerned;
+- (b) the authority requests (by notice given in writing) the person concerned to supply it; and
+- (c) it is requested by the authority for the purposes of identifying the person who, in respect of any period specified in the notice, is the liable person in relation to the dwelling.
+
+(2) A person on whom such a notice as is mentioned in paragraph (1) is served shall supply the information so requested—
+
+- (a) within the period of 21 days beginning on the day on which the notice was served; and
+- (b) if the authority so requires, in the form specified in the request.
+
+(3)[^key-fa6e3c53b4bafa2c9e7715671d408f42] The reference in paragraph (1) to the liable person is a reference to a person who is liable (whether solely or jointly and severally) to pay to a billing authority, in respect of a particular dwelling, an amount in respect of council tax; and includes a reference to a person who in the opinion of the authority will be so liable.
+
+### 4. Information from public bodies[^key-950a54ee5f38e457d282524b2600abc7]
+
+(1) A billing authority may, for the purpose of carrying out its functions under Part I of the Act, request (by notice given in writing)—
+
+- (a) a person mentioned in paragraph (2) to supply to it such information as is specified in the notice and does not fall within paragraph (3);
+- (b) a person mentioned in paragraph (4) to supply to it such information as is specified in the notice and does not fall within paragraph (5).
+
+(2) The persons referred to in paragraph (1)(a) are—
+
+- (a) any other billing authority,
+- (b) any precepting authority,
+- (c) any levying authority; and
+- (d) the electoral registration officer for any area in Great Britain.
+
+(3) Information falls within this paragraph if—
+
+- (a) the information was obtained by the person concerned, or by a committee , any executive (within the meaning of Part II of the Local Government Act 2000), a committee of any executive or a member of any executive, *(Extent: W)*[^key-2aff8de76e0b2cd64a51052a1a0fc530] of such a person—
+  - (i) in its capacity as police authority, or
+  - (ii) in its capacity as a constituent council of such an authority,
+- (b)[^key-0e6a43dc365633289b2261f2a87d6ab1] the information was obtained by the person concerned in its capacity as an employer, or
+- (c) the information consists of anything other than the name, address and any past or present place of residence of any person and the dates during which he is known or thought to have resided at that place.
+
+(4) The persons referred to in paragraph (1)(b) are community charges registration officers.
+
+(5) Information falls within this paragraph if it consists of anything other than—
+
+- (a) the name, address and any past or present place of residence of any person and the dates during which he is known or thought to have resided at that place;
+- (b) information relevant to the status of any person as an exempt individual; and
+- (c) the days on which any person was an exempt individual.
+
+(6) Information requested under paragraph (1) shall be supplied by the person requested to supply it if it is in his possession or control, and it shall be so supplied within 21 days of the day on which the request is made.
+
+(7) A billing authority may (so far as it does not have the power to do so apart from under this Part) supply relevant information to another billing authority or to a levying authority even if it is not requested to supply the information.
+
+(8) Information is relevant information for the purposes of paragraph (7) if—
+
+- (a) it was obtained by the first-mentioned authority in exercising its functions under Part I of the Act, [^key-f70da275e7464593a7959f90b00e6edd]...
+- (b) it believes it would be useful to the other authority in exercising its functions under that Part or, in the case of a levying authority, Part II of the Act , and[^key-33549f0d72dd0513cc091a696862cf93]
+- (c)[^key-b4cb77d0f3ebaf75236e4178e060275f] it was not supplied to the first-mentioned authority under paragraph 15B of Schedule 2 to the Act or section 131 of the Welfare Reform Act 2012.
+
+(9) In this regulation—
+
+- (a) references to community charges registration officers shall be construed—
+  - (i) in relation to such officers in England or Wales, in accordance with section 26 of the Local Government Finance Act 1988; and
+  - (ii) in relation to such officers in Scotland, in accordance with section 12 of the Abolition of Domestic Rates Etc. (Scotland) Act 1987 (“the 1987 Act”); and
+- (b) references to an exempt individual shall be construed—
+  - (i) as regards any period during which the sole or main residence of the person concerned is or was in England or Wales, in accordance with section 2 of, and Schedule 1 to, the Local Government Finance Act 1988;
+  - (ii) as regards any period during which a person was solely or mainly resident in Scotland, in accordance with section 8(8) of, and Schedule 1A to, the 1987 Act.
+
+### 5. Information as to deaths[^key-9897ac7114654ebdfe233b59a98a3302]
+
+(1) Within 7 days of the registration of the death of any person aged 18 or over, the registrar of births and deaths for the sub-district in which the death occurred shall, in accordance with paragraph (2), supply to any billing authority whose area includes all or part of, or falls within, that sub-district, the following particulars of the death—
+
+- (a) the name and surname of the deceased,
+- (b) the date of his death, and
+- (c) his usual address.
+
+(2) The registrar shall supply the particulars specified in paragraph (1) either in writing or in a form in which they can be processed by a computer.
+
+### 5A. Purposes for which a Revenue and Customs official may supply information[^M_E_543b2380-0c9f-4e39-fe36-4fffab4ef05f][^key-cc3b665e52d0eb58852ecb24a5778eda]
+
+*Extent: W*
+
+The purposes prescribed under paragraph 15B(1) of Schedule 2 to the Act are—
+
+- (a) making a council tax reduction scheme;
+- (b) determining a person’s entitlement or continued entitlement to a reduction under a council tax reduction scheme;
+- (c) preventing, detecting, securing evidence of or prosecuting the commission of a council tax offence.
+
+### 5A. Purposes for which a Revenue and Customs official may supply information[^M_E_925f3e53-1407-43fc-8285-ec4223b0b602][^key-8240eb97fbd2136169de8bb988c32981]
+
+*Extent: E*
+
+The purposes prescribed under paragraph 15A(1) of Schedule 2 to the Act are—
+
+- (a) making a council tax reduction scheme;
+- (b) determining a person’s entitlement or continued entitlement to a reduction under a council tax reduction scheme;
+- (c) preventing, detecting, securing evidence of, or prosecuting the commission of, a council tax offence.
+
+### 5B. Purposes for which information supplied under paragraph 15B may be used[^M_E_77aa6550-52ce-4b15-df22-071aaa382da4]
+
+*Extent: W*
+
+The purposes prescribed under paragraph 15B(3) of Schedule 2 to the Act are any purposes connected with—
+
+- (a) making a council tax reduction scheme;
+- (b) determining a person’s entitlement or continued entitlement to a reduction under a council tax reduction scheme;
+- (c) preventing, detecting, securing evidence of or prosecuting the commission of a council tax offence;
+- (d) any proceedings before the Valuation Tribunal for Wales in connection with a reduction under a council tax reduction scheme.
+
+### 5B. Purposes for which information supplied under paragraph 15A may be used[^M_E_de5a0a2a-dd75-412b-f045-e39d3e2bff2f]
+
+*Extent: E*
+
+The purposes prescribed under paragraph 15A(3) of Schedule 2 to the Act are any purposes connected with—
+
+- (a) making a council tax reduction scheme;
+- (b) determining a person’s entitlement or continued entitlement to a reduction under a council tax reduction scheme;
+- (c) preventing, detecting, securing evidence of, or prosecuting the commission of, a council tax offence;
+- (d) any proceedings before the Valuation Tribunal for England in connection with a reduction under a council tax reduction scheme.
+
+### 5C. Purposes for which information supplied under paragraph 15B may be supplied[^M_E_733efc3c-15af-419b-f46d-d630ff973de3]
+
+*Extent: W*
+
+The purposes prescribed under paragraph 15B(4) of Schedule 2 to the Act are—
+
+- (a) making a council tax reduction scheme;
+- (b) determining a person’s entitlement or continued entitlement to a reduction under a council tax reduction scheme;
+- (c) preventing, detecting, securing evidence of or prosecuting the commission of a council tax offence.
+
+### 5C. Purposes for which information supplied under paragraph 15A may be supplied[^M_E_5400fb86-e7f7-4c0b-8172-b4cd1e1df8d0]
+
+*Extent: E*
+
+The purposes prescribed under paragraph 15A(4) of Schedule 2 to the Act are—
+
+- (a) making a council tax reduction scheme;
+- (b) determining a person’s entitlement or continued entitlement to a reduction under a council tax reduction scheme;
+- (c) preventing, detecting, securing evidence of, or prosecuting the commission of, a council tax offence.
+
+### 6. Use of information by billing authority[^key-c44e4abc78ecd8bed2a74c2dd826554b]
+
+In carrying out its functions under Part I of the Act, a billing authority may use information obtained under any other enactment provided that it was not obtained—
+
+- (a) by a committee of the authority in its capacity as a police authority; or
+- (b)[^key-ffb2d75d7a5a8c6ffb046e1b9c9989e0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART III — Exempt Dwellings, Etc
+
+### 7. Information for owners of exempt dwellings, etc.[^key-e800fdf8fc9391c451be6a1690460f31]
+
+(1) Subject to paragraphs (3A) and (5)[^key-3952d661781c5ad72d96621be8bd72ad], a billing authority which has received a copy of a proposed list sent to it under section 22(5)(b) of the Act shall, as respects each dwelling shown in the copy which in the opinion of the authority will be a relevant dwelling on the day when the list comes into force, notify the person concerned of the valuation band shown in the copy as applicable to the dwelling.
+
+(2) Subject to paragraph (3A), where[^key-7761657b29a32743161d8a6ab3ea76a9]—
+
+- (a) a dwelling is not shown in the copy of a proposed list sent as mentioned in paragraph (1) but is shown in the copy of the list sent to the authority under section 22(7) of the Act; and
+- (b) in the opinion of the authority the dwelling was a relevant dwelling on the day when the list came into force,
+
+the authority shall notify the person concerned of the valuation band shown in the list as applicable to the dwelling.
+
+(3) Subject to paragraph (3A), where[^key-7a527c4458505feda26db9a3ac2c8e62]—
+
+- (a) the valuation band shown as applicable to a dwelling in the copy of a proposed list sent to a billing authority under section 22(5)(b) of the Act is different from that shown as applicable to it in the copy of the list sent to the authority under section 22(7) of the Act; and
+- (b) in the opinion of the authority the dwelling was a relevant dwelling on the day when the list came into force,
+
+the authority shall notify the person concerned of the reason for the difference.
+
+(3A)[^key-5d6d827d5cf6b08afe7fa9f6f378cd53] Paragraphs (1) to (3) do not apply in the case of a relevant dwelling which is an exempt dwelling within Class O of the Exempt Dwellings Order or regulation 29 of the 2026 Regulations[^key-ee71eb96cdbdd169fc39981402c26073]; and
+
+(4) A notification required to be given—
+
+- (a)[^key-c85910f4f0a15c7027184e5e8d1995c9] by paragraph (1), shall be given not later than 31st March 1993;
+- (b) by paragraph (2) or (3), shall be given within the period of 2 months beginning on the day on which the authority received a copy of the list.
+
+(5) If at the time when a person is notified as mentioned in paragraph (3) the authority has not yet given him a notification under paragraph (1), the authority shall not be required to give him such a notification.
+
+(6) For the purposes of this regulation—
+
+- (a) a dwelling is a relevant dwelling on any day if—
+  - (i) on the day the dwelling is an exempt dwelling[^f00005]; or
+  - (ii) in respect of the financial year in which the day falls and the dwelling, the amount set under section 30 of the Act is nil; and
+- (b) any reference to the person concerned, in relation to a dwelling, is a reference to the person who would be liable (whether solely or jointly and severally) to pay to the authority an amount in respect of council tax for the particular day if the dwelling were not or had not been a relevant dwelling on that day.
+
+### 8. Inquiries as to dwellings[^key-4b41d3528b16e9e521f78ee8a1e5c368]
+
+A billing authority shall, as regards each financial year commencing with the financial year beginning on 1st April 1993, take reasonable steps to ascertain whether any dwellings in its area will be or were exempt dwellings for any period during the year.
+
+### 9. Assumptions as to dwellings[^key-e5465a1d140441ceaaf20f0d4bab392d]
+
+(1) Where, having taken such steps as are referred to in regulation 8, a billing authority has no reason to believe that a particular dwelling will be or was an exempt dwelling for any period during the year, it shall assume, for the purposes of Part V of these Regulations, that the dwelling will be or was a chargeable dwelling for that period.
+
+(2) Subject to paragraph (3), where[^key-82430b5bc6ba5237729374c1974a12e9], having taken such steps as are referred to in regulation 8, a billing authority has reason to believe that a particular dwelling will be or was an exempt dwelling for a period during the year, it shall assume, for the purposes of the said Part V, that the dwelling will be or was an exempt dwelling for that period.
+
+*Extent: E*
+
+(3)[^key-7fb32f9b2dbe374c5aa378d97187f253] Where, having taken such steps as are referred to in regulation 8, a billing authority has reason to believe that a particular dwelling would be or would have been an exempt dwelling for a period during the year but for a determination made in relation to that dwelling under—
+
+- (a) paragraph 118(1)(c) of the scheme prescribed in the Schedule to the Council Tax Reduction Schemes (Default Scheme) (England) Regulations 2012; or
+- (b) a provision contained in an authority’s scheme under section 13A(2) of the Act by virtue of paragraph 14(1)(c) of Schedule 8 to the Council Tax Reduction Schemes (Prescribed Requirements) (England) Regulations 2012,
+
+it shall assume, for the purposes of Part 5 of these Regulations, that the dwelling will be or was a chargeable dwelling for that period.
+
+*Extent: W*
+
+(3)[^key-11d149efd48e14770d0f5601f6bd7679] Where, having taken such steps as are referred to in regulation 8, a billing authority has reason to believe that a particular dwelling would be or would have been an exempt dwelling for a period during the year but for a determination made in relation to that dwelling under—
+
+- (a (Extent: W.))[^key-2d4498a33e4f4e958af302a3729b2fb1] paragraph 116(2)(c) of the scheme prescribed in the Schedule to the Council Tax Reduction Schemes (Default Scheme) (Wales) Regulations 2013 *(Extent: W.)*; or
+- (b (Extent: W.))[^key-4485b9a31fc4a87d9414665aa17cb961] a provision contained in an authority’s scheme by virtue of regulation 34(3) of, and paragraph 10(2)(c) of Schedule 13 to, the Council Tax Reduction Schemes and Prescribed Requirements (Wales) Regulations 2013, *(Extent: W.)*
+
+it shall assume, for the purposes of Part 5 of these Regulations, that the dwelling will be or was a chargeable dwelling for that period.
+
+### 10. Notification of assumption[^key-134fa926788ce7581e2b9d0aab53bece]
+
+(1) Subject to paragraphs (5) and (6), a billing authority which has made such an assumption as is mentioned in regulation 9(2) shall, in accordance with paragraph (2), inform the relevant person of the assumption made in his case.
+
+(2) Information shall be given by notice in writing and as soon as reasonably practicable after the assumption has been made.
+
+(3) Subject to paragraph (6) and (6A) *(Extent: W)*[^key-ed271f1aef58649b7e29aedccb652902], a billing authority shall supply with any notice given in accordance with paragraph (2) a statement—
+
+- (a)[^key-9e35d1451fbeaf22ec47c7da61a67f4f] specifying the valuation band shown in the authority’s valuation list as applicable to the dwelling,
+- (b) summarising the effect of any regulations under section 24 of the Act relevant to the making by a person (other than a billing authority) of a proposal for the alteration of that list,
+- (c) specifying—
+  - (i) where the notice is given after the end of the financial year in which the period to which the assumption relates falls, the amount which, subject to paragraph (4), would have been payable in respect of council tax for that period if the dwelling had been a chargeable dwelling[^f00006] throughout that period; or
+  - (ii) in any other case, the authority’s estimate of that amount,
+- (d) summarising the classes of dwelling which are for the time being exempt dwellings for the purposes of Chapter I of Part I of the Act, and
+- (e) where the amount first set for the financial year in question under section 30 of the Act is nil, that, if the dwelling is or becomes a chargeable dwelling on any day of that year, no council tax will be payable for that year in respect of the dwelling unless an amount is set in substitution for the nil amount.
+
+(4) In determining an amount for the purpose of paragraph (3)(c), the authority shall assume that, as regards each day of the period to which the assumption relates, sections 11 and 12 of the Act, section 131 (council tax benefit) of the Social Security Contributions and Benefits Act 1992[^f00007] and regulations under section 13 of the Act do not apply in the case of the person concerned.
+
+(5) Where, as regards a particular dwelling and period, there is more than one relevant person, nothing in paragraph (1) shall require information to be given, as regards that dwelling and period, to more than one of them.
+
+(6)[^key-a6f584c133c37adb669cf83ad724aeb7] Information need not be given under this regulation—
+
+- (a) where the dwelling in respect of which an assumption under regulation 9(2) is made is an exempt dwelling within Class O of the Exempt Dwellings Order or regulation 29 of the 2026 Regulations[^key-1d7a2924ea9495b9626a2f4d2c17df8d]; or
+- (b) insofar as it would be repetitive of information given to the person concerned in accordance with regulation 7 of these Regulations or any provision of demand notice regulations.
+
+*Extent: E*
+
+(6A)[^key-8678da4638ec3bb7c374c8d48996f7ec] Where the dwelling in respect of which the assumption under regulation 9(2) is made is a dwelling in relation to which no council tax is payable by virtue of a reduction under section 13A(1)(a) of the Act where a scheme under section 13A(2) of the Act provides that liability shall be reduced to nil—
+
+- (a) paragraph (3) shall not apply;
+- (b) the billing authority shall supply with any notice given in accordance with paragraph (2) a statement—
+  - (i) informing the person affected of the duty imposed by paragraph 115(1) of the scheme prescribed by the Schedule to the Council Tax Reduction Schemes (Default Scheme) (England) Regulations 2012 or contained in the authority’s scheme by virtue of paragraph 9(1) of Schedule 8 to the Council Tax Reduction Schemes (Prescribed Requirements) (England) Regulations 2012, as the case may be;
+  - (ii) explaining the possible consequences (including prosecution) of failing to comply with that duty; and
+  - (iii) setting out the circumstances a change in which might affect entitlement to the reduction or its amount.
+
+*Extent: W*
+
+(6A)[^key-aa9ed797876a7deb699b213288acbd69] Where the dwelling in respect of which the assumption under regulation 9(2) is made is a dwelling in relation to which no council tax is payable by virtue of a reduction under section 13A(1)(b) of the Act where a scheme made by a billing authority in accordance with the Council Tax Reduction Schemes and Prescribed Requirements (Wales) Regulations 2013[^key-ebdaf62fae88baa386636bee9da95028] or the scheme which applies in default in accordance with paragraph 6(1)(e) of Schedule 1B to the Act provides that liability shall be reduced to nil—
+
+- (a) paragraph (3) shall not apply;
+- (b) the billing authority shall supply with any notice given in accordance with paragraph (2) a statement—
+  - (i)[^key-ef4756ef9820fa7aac400a3bcee170be] informing the person affected of the duty imposed by paragraph 113(1) of the scheme prescribed by the Schedule to the Council Tax Reductions Schemes (Default Scheme) (Wales) Regulations 2013 or contained in the authority’s scheme by virtue of paragraph 7(1) of Schedule 13 to the Council Tax Reduction Schemes and Prescribed Requirements (Wales) Regulations 2013, as the case may be;
+  - (ii) explaining the possible consequences (including prosecution) of failing to comply with that duty; and
+  - (iii) setting out the circumstances a change in which might affect entitlement to the reduction or its amount.
+
+(7) In this regulation, references to the relevant person are references to a person who, in respect of the particular dwelling, would be liable (whether solely or jointly and severally) to pay to the authority an amount in respect of council tax for the period to which the assumption relates if the dwelling were not or had not been an exempt dwelling for that period.
+
+### 11. Correction of assumptions[^key-f3922912f1c709f8b76d62aea62f3bcc]
+
+(1) Subject to paragraphs (1A) and (2)[^key-b656ed9478da73e0fc34abe1fd27c042], where a person—
+
+- (a) has been informed in accordance with paragraph (1) of regulation 10 or as mentioned in paragraph (6) of that regulation of an assumption under regulation 9(2) made in his case; and
+- (b) at any time before the end of the financial year following the financial year in respect of which the assumption is made, has reason to believe that the dwelling concerned will not be or was not an exempt dwelling for the period concerned, or will be or was an exempt dwelling for a shorter period,
+
+he shall, within the period of 21 days beginning on the day on which he first has reason so to believe, notify the authority in writing of his belief.
+
+*Extent: E*
+
+(1A)[^key-426a4ad943e52bc375276004c736de99] Paragraph (1) shall not apply where a determination has been made in relation to that person under a scheme under section 13A(2) of the Act which provides that liability shall be reduced to nil.
+
+*Extent: W*
+
+(1A)[^key-7ccfe94bd203463d10c44c38e08390cd] Paragraph (1) shall not apply where a determination has been made in relation to that person under a scheme made by a billing authority in accordance with the Council Tax Reduction Schemes and Prescribed Requirements (Wales) Regulations 2013[^key-e457d09c8b00c6921985bbe890531fe3] or the scheme which applies in default in accordance with paragraph 6(1)(e) of Schedule 1B to the Act which provides that liability shall be reduced to nil.
+
+(2) Where persons are jointly and severally liable to pay council tax in respect of the dwelling and period concerned, the duty under paragraph (1) to supply information is a duty of each of them, but is discharged if one of them supplies the information on behalf of both or all of them.
+
+(3) References in paragraphs (1) and (2) to the dwelling and period concerned are to the dwelling and period to which the relevant assumption relates.
+
+### 12. Information relating to exempt dwellings, etc.[^key-c8a53436237bfcd55ff75db10b19a77f]
+
+(1) A person who appears to a billing authority to be a resident, owner or managing agent of a particular dwelling in respect of which an assumption under regulation 9(2) has been made shall supply to the authority such information as fulfils the following conditions—
+
+- (a) it is in the possession or control of the person concerned;
+- (b) the authority request (by notice in writing) the person concerned to supply it; and
+- (c) it is requested by the authority for the purposes of identifying the person who, in respect of any period specified in the notice, is or will be the relevant person in relation to the dwelling.
+
+(2) A person on whom such a notice as is mentioned in paragraph (1) is served shall supply the information so requested—
+
+- (a) within the period of 21 days beginning on the day on which the notice was served; and
+- (b) if the authority so requires, in the form specified in the request.
+
+(3) References in this regulation to the relevant person are references to a person who, in respect of the particular dwelling—
+
+- (a) is or will be liable (whether solely or jointly and severally) to pay to the authority an amount in respect of council tax for the period to which the assumption relates; or
+- (b) would be so liable if the dwelling were not or had not been an exempt dwelling for that period.
+
+## PART IV — Discounts and Premiums[^key-5d51df27b187e38128e15e4c42b5d697]
+
+*Extent: E*
+
+### 13. Interpretation of Part IV[^key-6d2649509396ac56a605e82a54946e08]
+
+*Extent: E+W*
+
+In this Part—
+
+- (a) any reference to the chargeable amount is a reference to an amount which a person is liable to pay (whether solely or jointly and severally) in respect of a particular dwelling, to a billing authority in respect of council tax for a financial year and includes, unless the context otherwise requires, an amount which in the opinion of the authority a person will be so liable to pay; and
+- (b) any reference to any calculation of the chargeable amount includes a reference to any estimate of the amount.
+
+### 14. Ascertainment of entitlement to discount or liability to premium[^key-40187f1b96c14f8ddfbc6e7e09587d63][^key-c5a6a0dff650fca6483555f5ee2ab5f9]
+
+Before making any calculation for the purposes of Part V of these Regulations of the chargeable amount in respect of any dwelling in its area, a billing authority shall take reasonable steps to ascertain whether that amount is subject to a discount or premium[^key-f689c2abd5b3c68d67a923dc5ee83685] and if so, the amount of that discount or premium.
+
+### 15. Assumptions as to discount or premium[^key-ee64713de6ececb848043384c176ea98][^key-467a5871fe7ddaa7b77cd4c8f64f054a]
+
+(1) Where, having taken such steps as are referred to in regulation 14, a billing authority has no reason to believe that the chargeable amount for the financial year concerned is subject to a discount or premium[^key-80ae27727f137427cabe4b85140f8a89], it shall assume, in making any calculation of the chargeable amount for the purposes of Part V of these Regulations, that the chargeable amount is not subject to any discount or premium.
+
+(2) Subject to paragraph (3), where[^key-1c2e3f7bd7c4141efdc549f710483aa2], having taken such steps as are referred to in regulation 14, a billing authority has reason to believe that the chargeable amount for the financial year concerned is subject to a discount or premium[^key-7604b97f0fedef8cd9a6533f3ee3ea5a] of a particular amount, it shall assume, in making any such calculation as is mentioned in paragraph (1) above, that the chargeable amount is subject to a discount or premium of that amount.
+
+(3)[^key-e73ec06c3248f30f81443c6f1359a3bb] Where, having taken such steps as are referred to in regulation 14, a billing authority has reason to believe that the chargeable amount for the financial year concerned would be subject to a discount of a particular amount but for a determination made in relation to that discount under—
+
+- (a) paragraph 118(1)(c) of the scheme prescribed in the Schedule to the Council Tax Reduction Schemes (Default Scheme) (England) Regulations 2012; or
+- (b) a provision contained in an authority’s scheme under section 13A(2) of the Act by virtue of paragraph 14(1)(c) of Schedule 8 to the Council Tax Reduction Schemes (Prescribed Requirements) (England) Regulations 2012
+
+it shall assume, in making any such calculation as is mentioned in paragraph (1) above, that the chargeable amount is not subject to a discount of that amount.
+
+*Extent: W*
+
+(3)[^key-b6788dc6aa4ea72b7598c48918db7072] Where, having taken such steps as are referred to in regulation 14, a billing authority has reason to believe that the chargeable amount for the financial year concerned would be subject to a discount of a particular amount but for a determination made in relation to that discount under—
+
+- (a (Extent: W.))[^key-851461a03e04f752dbee4a4bf4e938bb] paragraph 116(2)(c) of the scheme prescribed in the Schedule to the Council Tax Reduction Schemes (Default Scheme) (Wales) Regulations 2013 *(Extent: W.)*; or
+- (b (Extent: W.))[^key-87cfc36b2905b1820ef631ab1b3452a9] a provision contained in the authority’s scheme by virtue of regulation 34(3) of, and paragraph 10(2)(c) of Schedule 13 to, the Council Tax Reduction Schemes and Prescribed Requirements (Wales) Regulations 2013, *(Extent: W.)*
+
+it shall assume, in making any such calculation as is mentioned in paragraph (1) above, that the chargeable amount is not subject to a discount of that amount.
+
+### 16. Correction of discount or premium assumptions[^key-167219475c76a69d6d21c095699eaffa][^key-0b610a3693370f3b16c35d44fe7aa8d6]
+
+(1) Subject to paragraphs (1A) and (2)[^key-0da0dc839ae30e2c59f22325b83f21a9], where a person—
+
+- (a) has been informed in accordance with any provision of demand notice regulations of an assumption as to discount or premium[^key-1ece0f786eb787e39cc7e76fc48a4400] made in his case; and
+- (b) at any time before the end of the financial year following the financial year in respect of which the assumption is made has reason to believe that the chargeable amount is not in fact subject to any discount or premium[^M_F_5c2054ef-e258-42f7-f792-c001208b64fb], or is subject to a discount of a smaller or larger amount[^key-c0e76099ea9487d770c135779289390d],
+
+he shall, within the period of 21 days beginning on the day on which he first has reason so to believe, notify the authority in writing of his belief.
+
+(1A)[^key-516503385fa535f179c2caeb5ac8d636] Paragraph (1) shall not apply where a determination has been made in relation to that person under a scheme under section 13A(2) of the Act which provides that liability shall be reduced otherwise than to nil.
+
+*Extent: W*
+
+(1A)[^key-7c41fa34f69c4aee15a3363d65584502] Paragraph (1) shall not apply where a determination has been made in relation to that person under a scheme made by a billing authority in accordance with the Council Tax Reduction Schemes and Prescribed Requirements (Wales) Regulations 2013[^key-ca29daea78a585fa96235ef4ea4c493a] or the scheme which applies in default in accordance with paragraph 6(1)(e) of Schedule 1B to the Act which provides that liability shall be reduced otherwise than to nil.
+
+(2) Where persons are jointly and severally liable to pay council tax in respect of the dwelling and period concerned, the duty under paragraph (1) to supply information is a duty of each of them, but is discharged if one of them supplies the information on behalf of both or all of them.
+
+(3) For the purposes of paragraphs (1) and (2), the fact that any person concerned has wholly or partly discharged his liability to pay the amount shall be ignored.
+
+## PART V — Billing
+
+### 17. Interpretation and application of Part V[^key-f67c15f2e739102323bdb8f25c3a5d67]
+
+(1) In this Part—
+
+- “demand notice” means the notice required to be served by regulation 18(1);
+- “joint taxpayers” means two or more persons who are, or in the opinion of the billing authority will be, jointly and severally liable to pay to the authority an amount in respect of council tax in respect of a particular dwelling and a day (whether such liability arises by virtue of section 6(3) or (4)(b), 7(4) or (5), 8(4) or (5) or 9(1) of the Act);[^key-a2e4b14f9dfce705e455eba4ced0282b]
+- “joint taxpayers' notice” means a notice served in accordance with regulation 28;
+- “Part II scheme” means a scheme for the payment of the chargeable amount by instalments in accordance with a scheme complying with the requirements of Part II of Schedule 1 to these Regulations;
+- [^key-db997c2c384f4ed10a874def4d9b1f2f]...
+- “the relevant year”, in relation to a notice, means the financial year to which the notice relates.
+
+(1A)[^key-9dc8ef67615c19f3787e51b0ee0a5968][^key-8ee407ec30b8c2e00c38392b28bb6c1b] Any reference in this Part to the relevant valuation band in relation to a dwelling is a reference to the valuation band shown as applicable to the dwelling—
+
+- (a)[^key-639bcf45c39313ce9121ad723c662208] in the billing authority’s valuation list; or
+- (b) if no such list is in force—
+  - (i) except in a case to which paragraph (1B) applies, in the copy of the proposed list supplied to the authority under section 22(5)(b) of the Act;
+  - (ii) in a case to which paragraph (1B) applies, in information which for the purposes of this paragraph is relevant information.
+
+(1B) This paragraph applies where the listing officer supplies the authority with information relating to property shown in the proposed list (including information relating to the application to such property of article 3 or 4 of the Council Tax (Chargeable Dwellings) Order 1992); and such information is relevant information for the purposes of paragraph (1A)(b)(ii) to the extent that it differs from information contained in the proposed list.
+
+(2)[^key-d4b7e67eaf27066c6b1a8075d4dc3171] Except where the context otherwise requires, and subject to paragraph (5), any reference in this Part to the liable person (however expressed) is a reference—
+
+- (a) to a person who is, or in the opinion of the billing authority will be, solely liable to pay to the authority, an amount in respect of council tax in respect of a particular dwelling and a day; or
+- (b) where persons are joint taxpayers, to those persons.
+
+(3) Any reference in this Part to the chargeable amount is a reference to the amount the liable person is or will be liable to pay.
+
+(4) Any reference in this Part to the day on or time at which a notice is issued, is a reference—
+
+- (a) if the notice is served in the manner described in section 233(2) of the Local Government Act 1972 by being left at, or sent by post to, a person’s proper address, to the day on or time at which it is so left or posted, or
+- (b) in any other case, to the day on or time at which the notice is served.
+
+(5)[^key-6dd4e0cd93ce4876e0362abcdaee0cfa] This Part applies (amongst other matters) for the making of payments in relation to the chargeable amount for a financial year; but its application as regards persons who are joint taxpayers is subject to the provisions of regulations 27 to 28A.
+
+(6) The provisions of this Part which provide for the repayment or crediting of any amount or the adjustment of payments due under a notice shall have effect subject to section 31(4) of the Act
+
+### 18. The requirement for demand notices[^key-635f5e96b35e24629b1ec56ab680c610]
+
+(1) Subject to paragraph (2), for each financial year a billing authority shall serve a notice in writing on every liable person in accordance with regulations 19 to 21.
+
+(2) Where, but for this paragraph, notices would fall to be served in accordance with this Part—
+
+- (a) at the same time; and
+- (b) in respect of the same dwelling,
+
+in relation to a financial year and any preceding financial year, nothing in paragraph (1) shall require a billing authority to serve more than one notice[^key-c1844227f51db59f851823050993c7ed].
+
+(3) If a person is liable in any financial year to pay to the same billing authority different chargeable amounts in respect of different dwellings, a demand notice shall be served in respect of each chargeable amount
+
+### 19. Service of demand notices[^key-b2fb9766672b0d5e087d1eb63035ea8f]
+
+(1) The demand notice is to be served on or as soon as practicable after the day the billing authority first sets an amount of council tax for the relevant year for the category of dwellings which includes the chargeable dwelling to which the notice relates.
+
+(2) For the purposes of paragraph (1), “category” shall be construed in accordance with section 30(4) of the Act; and where a demand notice is served before 1st April 1993, a dwelling shall be treated as included in the category in which, in the opinion of the billing authority, it will be included on 1st April 1993.
+
+### 20. Demand notices: payments required[^key-88cd6ed6fd2ce22e7e6b57976bba9413]
+
+(1) If the demand notice is issued before or during the relevant year, the notice shall require the making of payments on account of the amount referred to in paragraph (2).
+
+(2) The amount is—
+
+- (a) the billing authority’s estimate of the chargeable amount, made as respects the relevant year or part, as the case may be, on the assumptions referred to in paragraph (3); or
+- (b) subject to paragraph (2A), where[^key-88ce529381e7b8fb9d4a69216035760b] an amount falls to be credited by the billing authority against the chargeable amount, the amount (if any) by which the amount estimated as mentioned in sub-paragraph (a) exceeds the amount falling to be so credited.
+
+*Extent: E*
+
+(2A)[^key-66ed12e865baed26a199bd0b54c5627e] Where the billing authority has made a determination under—
+
+- (a) paragraph 118(1)(c) of the scheme prescribed in the Schedule to the Council Tax Reduction Schemes (Default Scheme) (England) Regulations 2012; or
+- (b) a provision contained in an authority’s scheme under section 13A(2) of the Act by virtue of paragraph 14(1)(c) of Schedule 8 to the Council Tax Reduction Schemes (Prescribed Requirements) (England) Regulations 2012
+
+  paragraph (2)(b) shall not apply in relation to that amount.
+
+*Extent: W*
+
+(2A)[^key-afef7bf6e298959e47d2f65afc42c591] Where the billing authority has made a determination under—
+
+- (a)[^key-6762f60046eb9a8d225eb90475406f1c] paragraph 116(2)(c) of the scheme prescribed in the Schedule to the Council Tax Reduction Schemes (Default Scheme) (Wales) Regulation 2013;
+- (b)[^key-971d4e2498734a38562e92c28c4d1d87] a provision contained in an authority’s scheme by virtue of regulation 34(3) of, and paragraph 10(2)(c) of Schedule 13 to, the Council Tax Reduction Schemes and Prescribed Requirements (Wales) Regulations 2013,
+
+paragraph (2)(b) shall not apply in relation to that amount.
+
+(3) The assumptions are—
+
+- (a) that the person will be liable to pay the council tax to which the notice relates on every day after the issue of the notice;
+- (b) that, as regards the dwelling concerned, the relevant valuation band on the day the notice is issued will remain the relevant valuation band for the dwelling as regards every day after the issue of the notice;
+- (c) if on the day the notice is issued the person satisfies conditions prescribed for the purposes of regulations under section 13 of the Act (and consequently the chargeable amount in his case is less than it would otherwise be), that he will continue to satisfy those conditions as regards every day after the issue of the notice;
+- (d) if, by virtue of regulation 9(1), the dwelling to which the notice relates is assumed to be a chargeable dwelling on the day the notice is issued, that it will continue to be a chargeable dwelling as regards every day after the issue of the notice;
+- (e) if, by virtue of regulation 15(1), the chargeable amount is assumed not to be subject to a discount on the day the notice is issued, that it will not be subject to a discount as regards any day after the issue of the notice;
+- (f) if, by virtue of regulation 15(2), the chargeable amount is assumed to be subject to a discount on the day the notice is issued, that it will continue to be subject to the same rate of discount as regards every day after the issue of the notice; [^key-41d6dcb6fc4f8ee743be9b4501dc7ace]...
+
+*Extent: W*
+
+- (fa)[^key-f9d4692ba8b28976fe4902229c90ce71] if, by virtue of regulation 15(3) it is assumed that the chargeable amount is not subject to a discount, that it will not be subject to a discount as regards any day after the issue of the notice; and
+- (g) if on the day the notice is issued a determination as to council tax benefit to which the person is entitled is in effect, and by virtue of regulations under section 138(1) of the Social Security Administration Act 1992[^f00008] the benefit allowed as regards that day takes the form of a reduction in the amount the person is liable to pay in respect of council tax for the relevant year, that as regards every day after that day he will be allowed the same reduction in that amount.
+
+(4) If the demand notice is issued during the relevant year and the liable person is not liable to pay an amount by way of council tax in respect of the day on which the notice is issued, the demand notice shall require payment of—
+
+- (a) the chargeable amount for the period in the year up to the last day in respect of which he was so liable; or
+- (b) where an amount falls to be credited by the billing authority against that chargeable amount, an amount equal to the amount (if any) by which that chargeable amount exceeds the amount falling to be so credited.
+
+(5) If the demand notice is issued after the end of the relevant year, it shall require payment of—
+
+- (a) the chargeable amount; or
+- (b) where an amount falls to be credited by the billing authority against the chargeable amount, an amount equal to the amount (if any) by which the chargeable amount exceeds the amount falling to be so credited.
+
+### 21. Council tax: payments[^key-ed0ca33a0f6bf34fd7cb9a8b568da3c4]
+
+(1) Unless—
+
+- (a) an agreement under paragraph (5) in relation to the relevant year has been reached between the billing authority and the liable person before the demand notice is issued, or
+- (b) the authority has resolved that a Part II scheme shall have effect for the relevant year as regards dwellings of a class which includes the dwelling in respect of which the chargeable amount falls to be paid,
+
+a notice to which paragraph (1) of regulation 20 applies shall require the amount mentioned in paragraph (2) of that regulation to be paid by instalments in accordance with Part I of Schedule 1 hereto.
+
+*Extent: W*
+
+(1A)[^key-60ad739c55b938ba6ffded351fed1a9e] Where a liable person requests by notice in writing to the billing authority to pay the amount mentioned in regulation 20(2) by 12 monthly instalments paragraphs (1B), (1C) and (1D) apply.
+
+(1B (Extent: W)) Such a request may be made either before or after the demand notice is issued and may be made in relation to the relevant year or the year following the relevant year. *(Extent: W)*
+
+(1C (Extent: W)) Where the request relates to the relevant year, a notice to which paragraph (1) of regulation 20 applies shall be issued as soon as reasonably practicable after the date on which the notice in paragraph (1A) is received by the billing authority and shall require the amount mentioned in paragraph (2) of regulation 20 to be paid by instalments in accordance with paragraph 2(3A) of Schedule 1 to these Regulations. *(Extent: W)*
+
+(1D (Extent: W)) Where the request relates to the year following the relevant year, as soon as reasonably practicable after the date on which the notice is received by the billing authority, the billing authority shall write to confirm that from such date as is requested in the notice in paragraph (1A) the amount mentioned in paragraph (2) of regulation 20 for that year shall be paid by instalments in accordance with paragraph 2(3A) of Schedule 1 to these Regulations. *(Extent: W)*
+
+(2) Where a billing authority has resolved as mentioned in paragraph (1)(b), a notice to which paragraph (1) of regulation 20 applies shall require the amount mentioned in paragraph (2) of that regulation to be paid by instalments in accordance with the provisions of the authority’s Part II scheme.
+
+(3) Where instalments are required to be paid in accordance with a Part II scheme or under Part I of Schedule 1, Part III of that Schedule applies for their cessation or adjustment in the circumstances described in that Part (subject, in the case of payments in accordance with a Part II scheme, to provision included in the scheme pursuant to paragraph 8(6) of Part II of that Schedule).
+
+(4) If an agreement under paragraph (5) in relation to the relevant year has been reached between the billing authority and the liable person before the demand notice is issued, a notice to which paragraph (1) of regulation 20 applies shall require the amount mentioned in paragraph (2) of that regulation to be paid in accordance with that agreement.
+
+(5) A billing authority and a liable person may agree that the amount mentioned in regulation 20(2) which is required to be paid under a notice to which regulation 20(1) applies shall be paid in such manner as is provided by the agreement.
+
+(6) Notwithstanding the foregoing provisions of this regulation, such an agreement may be entered into either before or after the demand notice concerned is issued, and may make provision for the cessation or adjustment of payments, and for the making of fresh estimates, in the event of the estimate mentioned in regulation 20(2) turning out to be wrong; and if it is entered into after the demand notice has been issued, it may make provision dealing with the treatment for the purposes of the agreement of any sums paid in accordance with Part I of Schedule 1 or a Part II scheme before it was entered into.
+
+(7) A notice to which regulation 20(4) or (5) applies shall (as the billing authority determines) require payment of the amount concerned—
+
+- (a) on the expiry of such period (being not less than 14 days) after the day of issue of the notice as is specified in it; or
+- (b) by instalments of such amounts as are specified in the notice, payable at such intervals and on such day in each interval as is so specified.
+
+### 21A. Referendums relating to council tax increases: excessive amount not approved[^key-8bc9ceab45921d63400a320030b3ba08]
+
+*Extent: E.*
+
+(1) This regulation applies if—
+
+- (a) a billing authority has served a demand notice on a liable person in respect of an amount set under section 30 of the Act for a financial year, and
+- (b) as a consequence of a relevant event the authority subsequently sets a different amount in substitution for that amount under section 31 of the Act.
+
+(2) The demand notice mentioned in paragraph (1)(a) shall continue to have effect unless and until a notice is issued under paragraph (3), but for the purposes of Part VI (enforcement) of these Regulations the demand notice shall have effect as if it did not include the additional amount and accordingly no liability order may be issued and no enforcement action may be taken under that Part in respect of that amount.
+
+(3) The billing authority—
+
+- (a) may issue a notice in accordance with paragraph 10 of Schedule 1 to these Regulations as modified by paragraph (4) below, and
+- (b) must do so if the person mentioned in paragraph (1)(a) so requires.
+
+(4) The modifications are as follows—
+
+- (a) omit sub-paragraph (1),
+- (b) at the start of sub-paragraph (2) insert “If issuing a notice under regulation 21A(3),”, and
+- (c) for the definition of “the relevant day” in sub-paragraph (8) substitute—
+
+  > - “the relevant day” means the day on which the different amount mentioned in regulation 21A(1)(b) is set.
+
+  .
+
+(5) In this regulation and in regulation 21B—
+
+- “additional amount” means the difference between the amount mentioned in paragraph (1)(a) and the different amount mentioned in paragraph (1)(b),
+- “Conduct of Referendums Regulations” means the Local Authorities (Conduct of Referendums) (Council Tax Increases) (England) Regulations 2012, and
+- “relevant event”, in relation to a billing authority, means any of the following—
+  - (a) the authority’s substitute calculations having effect in accordance with section 52ZH(5) or section 52ZI(1) of the Act or regulation 22(5) of the Conduct of Referendums Regulations,
+  - (b) the making by the authority of substitute calculations mentioned in section 52ZI(3)(b) of the Act,
+  - (c) substitute precepts issued to the authority having effect in accordance with section 52ZO(5) or section 52ZP(7) of the Act or regulation 22(13) of the Conduct of Referendums Regulations,
+  - (d) the issuing to the authority of a precept under section 52ZP(3) of the Act.
+
+### 21B. Referendums relating to council tax increases: excessive amount approved
+
+*Extent: E.*
+
+(1) This regulation applies if—
+
+- (a) a billing authority has served a demand notice on a liable person in respect of an amount set under section 30 of the Act for a financial year,
+- (b) as a consequence of a relevant event the authority subsequently sets a different amount in substitution for that amount under section 31 of the Act, and either—
+  - (i) the billing authority’s relevant basic amount of council tax for the financial year is subsequently given effect for the purposes of the Act by virtue of regulation 22(9) of the Conduct of Referendums Regulations and section 52ZH(3) of the Act, or
+  - (ii) a relevant precepting authority’s calculations from which its relevant basic amount of council tax was derived are subsequently given effect for the financial year by virtue of regulation 22(17) of the Conduct of Referendums Regulations and section 52ZO(3) of the Act.
+
+(2) Where a notice has not been issued in accordance with regulation 21A(3), the demand notice referred to in regulation 21A(1)(a) shall continue to have effect and regulation 21A(2) shall no longer apply in relation to that notice.
+
+(3) Where a notice has been issued in accordance with regulation 21A(3), the billing authority must issue a notice in accordance with paragraph 10 of Schedule 1 to these Regulations as modified by paragraph (4) below.
+
+(4) The modifications are as follows—
+
+- (a) omit sub-paragraph (1),
+- (b) at the start of sub-paragraph (2) insert “If issuing a notice under regulation 21B(3),”, and
+- (c) for the definition of “the relevant day” in sub-paragraph (8) substitute—
+
+  > - “the relevant day” means the day on which the election court allows the petition referred to in regulation 22(8)(b) or (16)(b) (as the case may be) of the Conduct of Council Tax Referendums Regulations.”
+
+(5) In this regulation, “relevant precepting authority” means a precepting authority which issues a precept to the billing authority for the financial year concerned.
+
+### 22. Notices: further provision[^key-2a6f88ca1ffa7b123986d8f82fd58822]
+
+No payment on account of the chargeable amount (whether interim, final or sole) need be made unless a notice served under this Part requires it.
+
+### 23. Failure to pay instalments[^key-66c11a3b50c9ac01fb43c46e1973394f]
+
+(1) Subject to paragraph (2), where—
+
+- (a) a demand notice has been served by a billing authority in Wales or England[^key-ae9b9b9dfe1471a55051780ed66b3f7c] on a liable person,
+- (b) instalments in respect of the council tax to which the notice relates are payable in accordance with Part I of Schedule 1 or, as the case may be, a Part II scheme or a determination under regulation 21(7)[^key-b9048507a96ac57d8a9cf1301521f883], and
+- (c) any such instalment is not paid in accordance with that Schedule or, as the case may be, the relevant scheme or determination[^key-f6af2a781b178b7daa0b322730aad8d2],
+
+the billing authority in England shall, and the billing authority in Wales may, serve a notice (“reminder notice”) on the liable person. Where the notice is served by a billing authority in England, it must state—[^key-8aa52d04c0961cf9c005dc44805d1646]
+
+- (i)[^key-d8016af649f36cea86eae6a974b61d2f] the amount which is the aggregate of the instalments which are due under the demand notice or any subsequent notice given under paragraph 10 of Schedule 1 andwhich are unpaid and the instalments that will become due within the period of seven days beginning with the day on which the reminder notice is issued;
+- (ii) that the amount mentioned in sub-paragraph (i) above is required to be paid by him within the period mentioned in that sub-paragraph;
+- (iii) the effect of paragraph (3) below and the amount that will become payable by him in the circumstances mentioned in that paragraph; and
+- (iv) where the notice is the second such notice as regards the relevant year, the effect of paragraph (4) below.
+
+(2) Nothing in paragraph (1) shall require the service of a reminder notice by a billing authority in England[^key-a6407d170c6a1e9ba521606dcba650a8]—
+
+- (a) where all the instalments have fallen due; or
+- (b) in the circumstances mentioned in paragraphs (3) and (4).
+
+(3) If, within the period of 7 days beginning with the day on which a reminder notice is issued by a billing authority in England[^key-7a0fdbb9e15e0f9be3def9a413d507e4], the liable person fails to pay any instalments which are or will become due before the expiry of that period, the unpaid balance of the estimated amount (or, as the case may be, the chargeable amount)[^key-7ca9898301930802f459e5bc83ba8299] shall become payable by him at the expiry of a further period of 7 days beginning with the day of the failure.
+
+(4) If, after making a payment in accordance with a reminder notice issued by a billing authority in England[^key-ebdd95185faa70c65c44c667593e0bf5] which is the second such notice as regards the relevant year, the liable person fails to pay any subsequent instalment as regards that year on or before the day on which it falls due, the unpaid balance of the estimated amount (or, as the case may be, the chargeable amount)[^key-e5064952126fcd5d9e504d765beabeca] shall become payable by him on the day following the day of the failure.
+
+*Extent: W*
+
+(5)[^key-765b32f15b989c73163d846ac5de76d2] A reminder notice served by a billing authority in Wales under regulation 23(1) must state—
+
+- (a) the amount which is the aggregate of the instalments which are due under the demand notice or any subsequent notice given under paragraph 10 of Schedule 1, and which are unpaid on the day on which the reminder notice is issued,
+- (b) the instalments that will become due under the demand notice or any subsequent notice given under paragraph 10 of Schedule 1, within the period of seven days beginning with the day on which the reminder notice is issued,
+- (c) that the amount stated in sub-paragraph (a) is overdue,
+- (d) that the amount stated in sub-paragraph (b) is due to be paid within the period mentioned in that sub-paragraph, and
+- (e) any other information as the billing authority considers necessary.
+
+### 24. Payments: adjustments[^key-436d7254b7f7cf545a86261d20894bde]
+
+(1) If the chargeable amount proves to be greater than the estimated amount an additional sum equal to the difference between the two shall, on the service by the billing authority on the liable person of a notice stating the chargeable amount, be due from him to the authority on the expiry of such period (being not less than 14 days) after the day of issue of the notice as is specified in it.
+
+(2) If the chargeable amount proves to be less than the estimated amount the billing authority shall notify the liable person in writing of the chargeable amount; and any overpayment of the chargeable amount—
+
+- (a) subject to paragraph (6), shall be repaid if the liable person so requires, or
+- (b) in any other case shall (as the billing authority determines) either be repaid or be credited against any subsequent liability of the liable person to make a payment in respect of any council tax of the authority.
+
+(3) If any assumption by reference to which the estimated amount was calculated is shown to be false before the chargeable amount is capable of final determination for the purposes of paragraphs (1) and (2), the billing authority may, and if so required by the liable person shall, make a calculation of the appropriate amount with a view to adjusting the liable person’s liability in respect of the estimated amount and (as appropriate) to—
+
+- (a) requiring an interim payment from the liable person if the appropriate amount is greater than the estimated amount, or
+- (b) subject to paragraph (6), making an interim repayment to the liable person if the appropriate amount is less than the amount of the estimated amount paid.
+
+(4) The appropriate amount for the purposes of paragraph (3) is the amount which would be required to be paid under a demand notice if such a notice were issued with respect to the relevant year on the day that the notice under paragraph (5) is issued; and more that one calculation of the appropriate amount and interim adjustment may be made under paragraph (3) according to the circumstances.
+
+(5) On calculating the appropriate amount the billing authority shall notify the liable person in writing of it; and a payment required under paragraph (3)(a) shall be due from the liable person to the billing authority on the expiry of such period (being not less than 14 days) after the day of issue of the notice as is specified in it.
+
+(6) If the chargeable amount or the appropriate amount is less than the estimated amount in consequence of the liable person ceasing during the relevant year to be liable to make the payment to which the estimated amount relates, and he becomes liable, in respect of a different chargeable dwelling, to make a payment to the same billing authority by way of council tax in respect of the same day as that on which he so ceases, the billing authority may require that the amount of any overpayment mentioned in paragraph (2) or difference mentioned in paragraph (3)(b) shall, instead of being repaid, be credited against his liability in respect of the different dwelling.
+
+(7) In this regulation—
+
+- “the appropriate amount” has the meaning given in paragraph (4); and
+- “the estimated amount” means the amount last estimated under regulation 20(2) for the purposes of a demand notice or any subsequent notice given under paragraph 10 of Schedule 1 prior to the failure mentioned in regulation 23(3) or regulation 33(6)[^key-eaee11abd03d4595ce7fccc24dd4a6a5], save that if in any case an interim adjustment has been made under paragraph (3), it means in relation to the next payment, repayment or interim adjustment in that case under this regulation (if any) the appropriate amount by reference to which the previous interim adjustment was so made.
+
+### 25. Lump sum payments[^key-27ddb0eaaab0f3b3083e112a6613d2d6]
+
+(1) A billing authority may, subject to the conditions set out in paragraph (2), accept an amount payable in a single lump sum in such cases as it may determine and in satisfaction of any liability of a liable person under a demand notice to which regulation 20(2) applies to pay the estimated amount, being a lump sum which is of an amount determined by the authority and less than the estimated amount.
+
+(2) The conditions are that—
+
+- (a) the determinations under paragraph (1) as to the cases where a lump sum will be accepted and as to the amount of the sum in those cases must be made by the authority on or before the day on which it first sets an amount for the relevant year under section 30 of the Act;
+- (b) under those determinations persons liable to pay the same number of instalments in the relevant year must be treated alike, and so that in particular the proportion that the amount of the single lump sum to be accepted in relation to a person bears to the estimated amount payable by him must be the same as that applicable to all other liable persons liable to pay the same number of instalments in the relevant year; and
+- (c) for a lump sum to be accepted under those determinations as they have effect in any case—
+  - (i) at least two instalments must fall to be paid under the demand notice concerned in accordance with Part I of Schedule 1, a Part II scheme or any agreement under regulation 21(5), and
+  - (ii) the single lump sum payment must be made on or before the day on which the first instalment falls due under the notice.
+
+(3) A determination under paragraph (1) may be revoked at any time, and if revoked may (but only on or before the day mentioned in paragraph (2)(a)) be replaced by a fresh determination.
+
+(4) If the chargeable amount proves to be greater than the estimated amount, an additional sum equal to the difference between the two, proportionately reduced in accordance with paragraph (9), shall, on the service by the billing authority on the liable person of a notice stating the chargeable amount, be due from him to the authority on the expiry of such period (being not less than 14 days) after the day of issue of the notice as is specified in it.
+
+(5) If the chargeable amount proves to be less than the estimated amount the billing authority shall notify the liable person in writing of the chargeable amount; and any overpayment of the chargeable amount (proportionately reduced in accordance with paragraph (9))—
+
+- (a) shall be repaid if the liable person so requires, or
+- (b) in any other case shall (as the billing authority determines) either be repaid or be credited against any subsequent liability of the liable person to make a payment in respect of any council tax of the authority.
+
+(6) If any assumption by reference to which the estimated amount was calculated is shown to be false before the chargeable amount is capable of final determination for the purposes of paragraphs (4) and (5), the billing authority may, and if so required by the liable person shall, make a calculation of the appropriate amount with a view to adjusting the liable person’s liability in respect of the estimated amount and (as appropriate) to—
+
+- (a) requiring an interim payment from the liable person (proportionately reduced in accordance with paragraph (9)) if the appropriate amount is greater than the estimated amount, or
+- (b) making an interim repayment to the liable person (proportionately reduced in accordance with paragraph (9)) if the appropriate amount is less than the amount of the estimated amount paid.
+
+(7) The appropriate amount for the purposes of paragraph (6) is the amount which would be required to be paid under a demand notice if such a notice were issued with respect to the relevant year on the day that the notice under paragraph (8) is issued; and more than one calculation of the appropriate amount and interim adjustment may be made under paragraph (6) according to the circumstances.
+
+(8) On calculating the appropriate amount the billing authority shall notify the liable person in writing of it; and a payment required under paragraph (6)(a) shall be due from the liable person to the billing authority on the expiry of such period (being not less than 14 days) after the day of issue of the notice as is specified in it.
+
+(9) The proportion by reference to which a payment or repayment (or sum to be credited) under paragraph (4), (5) or (6) is to be reduced is to be the proportion determined under paragraph (2)(b) in respect of the lump sum concerned in that case; but in determining whether there has been an overpayment of the chargeable amount or appropriate amount (and the amount of any sum to be repaid or credited before reduction as aforementioned) one payment of the lump sum shall be treated as a payment of the estimated amount in full, and any other proportionately reduced payment or repayment already made shall be treated as not having been so reduced.
+
+(10) In this regulation—
+
+- “the appropriate amount” has the meaning given in paragraph (7); and
+- “the estimated amount” means the amount last estimated under regulation 20(2) for the purposes of a demand notice or any subsequent notice given under paragraph 10 of Schedule 1 prior to the payment of the single lump sum mentioned in paragraph (1) above; save that if in any case an interim adjustment has been made under paragraph (6), in relation to the next payment, repayment or interim adjustment in that case under this regulation (if any) it means (except in paragraph (9)) the appropriate amount by reference to which the previous interim adjustment was so made.
+
+### 26. Non-cash payments[^key-b7d2e125a89fac50a6744ddd051ea4be]
+
+(1) A billing authority may, subject to the conditions set out in paragraph (2), accept an amount (“discounted amount”) in such cases as it may determine and in satisfaction of any liability of a person to pay to it any instalment or other payment due under a notice given under this Part, being an amount determined by the authority and less than the amount of the instalment or other payment due.
+
+(2) The conditions are that—
+
+- (a) the discounted amount is paid to the authority otherwise than by either bank notes within the meaning of the Currency and Bank Notes Act 1954[^f00009] or coin; and
+- (b) the determinations under paragraph (1) as to the cases where a discounted amount will be accepted and as to the proportion that the amount is to bear to the amount of the instalment or other payment due in those cases must be made by the authority on or before the day on which it first sets an amount for the relevant year under section 30 of the Act.
+
+(3) Subject to paragraph (5), a determination under paragraph (1) may be revoked at any time, and if revoked may (but only on or before the day mentioned in paragraph (2)(b)) be replaced by a fresh determination.
+
+(4) For the purpose of determining whether an adjustment of any amount paid (whether by way of repayment, crediting or otherwise) falls to be made under this Part where a discounted amount has been accepted, the instalment or other payment by reference to which the discounted amount was accepted shall be treated as having been paid in full; but any amount to be repaid or credited against any subsequent liability in any case shall, insofar as it is attributable to such an instalment or other payment, be reduced in accordance with the proportion determined under paragraph (2)(b) in respect of that case.
+
+(5) Paragraph (4), and the power to revoke under paragraph (3), have effect in any case subject to any agreement to the contrary between the billing authority and the person liable to pay the instalment or other payment concerned.
+
+### 27. Joint taxpayers[^key-e22474e6ff30e16f6e702bccb39a29ff]
+
+(1) This regulation applies in the case of joint taxpayers; but its application to joint taxpayers on whom a joint taxpayers' notice is served is subject to regulation 28A.
+
+(2) In a case to which this regulation applies—
+
+- (a) regulation 18 (the requirement for demand notices) has effect as if in paragraph (1) for the words “every liable person” there were substituted the words “at least one of the joint taxpayers”;
+- (b) regulation 20 (demand notices; payments required) has effect as if—
+  - (i) the assumption referred to in sub-paragraph (c) of paragraph (3) is made as regards such of the joint taxpayers as on the day of issue of the demand notice satisfy the conditions referred to in that sub-paragraph;
+  - (ii) the assumption referred to in sub-paragraph (g) of paragraph (3) is made as regards such of the joint taxpayers in respect of whom on the day of issue of the demand notice a determination has effect as mentioned in that sub-paragraph;
+- (c) regulation 21 (council tax: payments) has effect as if—
+  - (i) in paragraphs (1) and (4), for the words “the liable person” there were substituted the words “one or more of the joint taxpayers”;
+  - (ii) in paragraph (3), for the words after “that Part” there were substituted the following—
+
+    > subject—
+    >
+    > - (a) in the case of payments in accordance with a Part II scheme, to provision included in the scheme pursuant to paragraph 8(6) of Part II of that Schedule; and
+    > - (b) in the case of joint taxpayers, to regulations 28 and 28A.
+
+    ;
+  - (iii) in paragraph (5), for the words “a liable person” there were substituted the words “one or more of the joint taxpayers”; and
+  - (iv) in paragraph (5), there were inserted at the end the words “: but, subject to regulation 28A(1), a billing authority may not enter into an agreement after the issue of the demand notice concerned with a joint taxpayer on whom that notice was not served”;
+- (d) regulation 23 (failure to pay instalments) has effect as if references to the liable person and to an amount becoming payable by the liable person were references to such of the joint taxpayers as have been served with a demand notice and to an amount becoming payable by them, respectively;
+
+*Extent: W*
+
+- (da)[^key-a7e4589588b8ddb98f7e7ef2b109f71b] regulation 33(5) and (6) (liability order: preliminary steps) has effect as if references to the liable person and to an amount becoming payable by the liable person were references to such of the joint taxpayers as have been served with a demand notice and to an amount becoming payable by them, respectively;
+- (e) regulation 29 (collection of penalties) has effect as if—
+  - (i) for paragraph (1), there were substituted the following—
+
+    > (1) Subject to paragraphs (2) and (3), where a penalty is payable to a billing authority under any of sub-paragraphs (1) to (3) of paragraph 1 of Schedule 3 to the Act or under any of regulations 11 to 13 of the Detection of Fraud Regulations *(Extent: E)*[^key-65cf5be1403bd51dd655fda2f9acd3e3] or any of regulations 13, 14, 16 or 17 of the detection of fraud regulations *(Extent: W)*[^key-d2fca4458d2e725439bc8fbb4d6455b5] by a person who is one of joint taxpayers, it may be collected by the service by the authority on the person of a notice requiring payment of the penalty on the expiry of such period (being not less than14 days) after the issue of the notice as is specified in it.
+
+    ; and
+  - (ii) paragraph (4) were omitted; and
+- (f) paragraph 9 (cessation of instalments) of Schedule 1 does not apply unless—
+  - (i) every person on whom the demand notice was served has ceased to be a joint taxpayer;
+  - (ii) none of those persons is, as regards any part of the period to which the demand notice relates, solely liable to pay an amount in respect of council tax as regards the dwelling concerned; and
+  - (iii) no other person who, as regards any part of that period, was jointly and severally liable with any of those persons as regards the dwelling concerned, is a liable person (whether his liability is sole or joint and several) as regards the dwelling concerned.
+
+### 28. Joint taxpayers' notice[^key-a7b9f5b151705197ee92d44259540ae9]
+
+(1) An amount shall not be payable by a person who is one of joint taxpayers and on whom a demand notice has not been served unless a notice (“joint taxpayers' notice”) is served on him in accordance with the following provisions of this regulation.
+
+(2) A joint taxpayers' notice may not be served on a person after the expiry of the period of six years beginning with the first day of the financial year to which the notice relates.
+
+(3) Where—
+
+- (a) a joint taxpayers' notice is served during the relevant year; and
+- (b) the person on whom (as one of the joint taxpayers) a demand notice for that year was served (or, if more than one person was so served, each of them) is not on the day of issue of the notice one of the joint taxpayers; and
+- (c) the unpaid balance of the estimated amount has not become due as mentioned in paragraph (3) or (4) of regulation 23,
+
+the notice shall require the payment of the adjusted amount.
+
+(4) For the purposes of paragraph (3)—
+
+- “the adjusted amount” means an amount equal to the lesser of[^key-4eaf0c138600ccd19c142d39deb607ad]—
+  - (a) the billing authority’s estimate of the chargeable amount made as respects the period to which the joint taxpayers' notice relates; and regulation 20(3) shall have effect for these purposes as it has effect in a case to which regulation 27 applies and as if references in regulation 27(2)(b) to the demand notice were references to the joint taxpayers' notice; and
+  - (b) the relevant sum; and
+- “the relevant sum” means an amount equal to the difference between—
+  - (a) the amount estimated or last estimated as regards the dwelling concerned—
+    - (i) for the purposes of an agreement under regulation 21(5); or
+    - (ii) under regulation 20(2) for the purposes of the demand notice or any subsequent notice given under paragraph 10 of Schedule 1; and
+  - (b) the aggregate of the amounts paid to the authority under any such agreement or notice before the issue of the joint taxpayers' notice.
+
+(5) Subject to regulation 28A(1), the amount required to be paid under paragraph (3) shall be payable by instalments of such amounts, and at such intervals and on such days in each interval, as are specified in the notice; provided that the number of instalments shall not be less than the number of instalments payable under the agreement, the demand notice or any subsequent notice given under paragraph 10 of Schedule 1, as the case may be, as regards the period beginning on the day on which the joint taxpayers' notice is served and ending on the last day of the relevant year.
+
+(6) A joint taxpayers' notice which is issued after the end of the relevant year, or after the unpaid balance of the estimated amount has become due as mentioned in paragraph (3) or (4) of regulation 23, shall (as the billing authority determines) require payment of the amount concerned—
+
+- (a) on the expiry of such period (being not less than 14 days) after the issue of the notice as is specified in it; or
+- (b) by instalments of such amounts as are specified in the notice, payable at such intervals and on such day in each interval as is so specified.
+
+### 28A. Joint taxpayers' notice: further provision
+
+(1) A billing authority and a person on whom a joint taxpayers' notice is served may agree that the amount required to be paid under the notice shall be paid in such manner as is provided by the agreement; and paragraph (6) of regulation 21 shall apply with the necessary modifications in relation to an agreement under this paragraph as it applies to an agreement under paragraph (5) of that regulation.
+
+(2) Regulation 23 (failure to pay instalments) shall apply with the necessary modifications in relation to instalments payable in accordance with a joint taxpayers' notice as it applies to instalments payable in accordance with Part I of Schedule 1 or a Part II scheme.
+
+(3) If the amount required to be paid under a joint taxpayers' notice is shown to be incorrect, the billing authority shall serve a further notice on every person on whom the joint taxpayers' notice was served stating the revised sum required to be paid.
+
+(4) If the amount stated in the further notice served under paragraph (3) is greater than the amount required to be paid under the joint taxpayers' notice, the further notice shall also state the revised amount of each remaining instalment or, as the case may be, the period (being not less than 14 days) after the issue of that further notice within which the further sum payable is required to be paid.
+
+(5) If the amount stated in the further notice under paragraph (3) is less than the amount required to be paid under the joint taxpayers' notice, any overpayment—
+
+- (a) shall be repaid if the person on whom the joint taxpayers' notice was served so requires, or
+- (b) in any other case shall (as the billing authority determines) either be repaid or be credited against any subsequent liability of that person to make a payment in respect of council tax to the authority.
+
+### 29. Collection of penalties[^key-3891925cc4c42497a4d9abb7fa17d517]
+
+(1) Subject to paragraphs (2) to (4), where a penalty is payable by a person to a billing authority under any of sub-paragraphs (1) to (3) of paragraph 1 of Schedule 3 to the Act or under any of regulations 11 to 13 of the Detection of Fraud Regulations *(Extent: E)*[^key-f330011ce4413e5f44f9dbff3500a461] or any of regulations 13, 14, 16 or 17 of the detection of fraud regulations, *(Extent: W)*[^key-af324288fb77783d7d1a4d098ace0729] it may be collected, as the authority to which it is payable determines, either—
+
+- (a) by treating the penalty for the purposes of regulations 20 and 21 and Schedule 1 as if it were part of the amount that the person is or will be liable to pay in respect of council tax as regards any demand notice issued pursuant to regulation 20(2) after the penalty is imposed, or
+- (b) by the service by the authority on the person of a notice requiring payment of the penalty on the expiry of such period (being not less than 14 days) after the issue of the notice as is specified in it.
+
+(2) Where the imposition of a penalty is subject to an appeal or arbitration, no amount shall be payable in respect of the penalty while the appeal or arbitration is outstanding.
+
+(3) The imposition of a penalty is to be treated as subject to an appeal or arbitration for the purposes of this regulation and regulation 27(6) until such time as the matter is finally disposed of in accordance with regulations under paragraph 4 of Schedule 11 *(Extent: E)* *(affected by repeal, see note)*[^key-0da3cc1d04ddd47a3b029dae4c810d85] paragraph A3 of Schedule 11 *(Extent: E)* to the Local Government Finance Act 1988 (valuation tribunals) or is abandoned or fails for non-prosecution; and the circumstances in which an appeal is to be treated as failing for non-prosecution include the expiry of any time prescribed under paragraph 8(2)(a) of that Schedule in consequence of which any such appeal would be required to be dismissed by a valuation tribunal.
+
+(4) A demand notice making provision for the recovery of a penalty which is subject to appeal or arbitration may not be issued under paragraph (1)(a) during the period that the appeal or arbitration concerned is outstanding; and where a penalty becomes subject to appeal or arbitration after the issue of a demand notice which makes such provision, such proportion of the instalments due under it as are attributable to the penalty shall not fall due until the appeal or arbitration is finally disposed of, abandoned or fails for non-prosecution.
+
+(5) Where an amount has been paid by a person in respect of a penalty which is quashed under paragraph 1(6) of Schedule 3 to the Act , regulation 12(4) or regulation 13(6) of the Detection of Fraud Regulations, *(Extent: E)*[^key-444dd2eb3f13e8b0ca3933148fdccf0c] , regulations 16(4) or 17(6) of the detection of fraud regulations *(Extent: W)*[^key-9c765c37aaaacbf442b8dd98b9df7d59] or pursuant to the order of a valuation tribunal or the High Court[^f00010], the billing authority which imposed the penalty may allow the amount to him by way of deduction against any other sum which has become due from him under this Part (whether in respect of another penalty or otherwise); and any balance shall be repaid to him.
+
+### 30. Appeals in relation to estimates[^key-a0315b6fc556c4e40afde31c94645c98]
+
+Section 16(1) of the Act shall not apply where the ground on which the person concerned is aggrieved is that any assumption as to the future that is required by this Part to be made in the calculation of an amount may prove to be inaccurate.
+
+### 31. Demand notices: final adjustment[^key-05cfb227422a0c9ffefb75e7dc97cd60]
+
+(1) This regulation applies where—
+
+- (a) a notice has been issued by a billing authority under this Part requiring a payment or payments to be made by a person in respect of his liability to pay council tax for a financial year or part of a financial year,
+- (b) the payment or payments required to be made are found to be in excess of or less than his liability for the year or the part, and
+- (c) provision for adjusting the amounts required under the notice and (as appropriate) for the making of additional payments or the repaying or crediting of any amount overpaid is not made by any other provision of this Part, of the Act or of any agreement entered into under regulation 21(5).
+
+(2) The billing authority shall as soon as practicable after the expiry of the year or the part of a year serve a further notice on the person stating the amount of his liability for the year or the part, and adjusting (by reference to that amount) the amounts required to be paid under the notice referred to in paragraph (1)(a).
+
+(3) If the amount stated in the further notice is greater than the amount required to be paid under the notice referred to in paragraph (1)(a), the amount of the difference for which such other provision as is mentioned in paragraph (1)(c) is not made shall be due from the person to the billing authority on the expiry of such period (being not less than 14 days) after the day of issue of the notice as is specified in it.
+
+(4) If there has been an overpayment, the amount overpaid for which such other provision as is mentioned in paragraph (1)(c) is not made—
+
+- (a) shall be repaid if the person so requires, or
+- (b) in any other case shall (as the billing authority determines) either be repaid or be credited against any subsequent liability of the person to make a payment in respect of any council tax of the authority.
+
+## PART VI — Enforcement
+
+### 32. Interpretation and application of Part VI[^key-4ed77e0f043f4fa911d812bdf60f4b91]
+
+(1) In this Part—
+
+- “attachment of allowances order” means an order under regulation 44;
+- “attachment of earnings order” means an order under regulation 37;
+- “authorised person” means any person authorised by a billing authority to exercise any functions relating to the administration and enforcement of the council tax;[^key-f8787d75d9a75239341f8a99c35396e8]
+- “charging order” means an order under regulation 50;
+- “debtor” means a person against whom a liability order has been made;
+- “earnings” means sums payable to a person—
+  - (a) by way of wages or salary (including any fees, bonus, commission, overtime pay or other emoluments payable in addition to wages or salary or payable under a contract of service); or
+  - (b) by way of statutory sick pay, earnings,
+
+    but, in so far as the following would otherwise be treated as earnings, they shall not be treated as such:
+
+    - (i) sums payable by any public department of the Government of Northern Ireland or of a territory outside the United Kingdom;
+    - (ii) pay or allowances payable to the debtor as a member of Her Majesty’s forces other than pay or allowances payable by his employer to him as a special member of a reserve force (within the meaning of the Reserve Forces Act 1996).[^key-fa01982674c1dad976dcd68832cb18dc];
+    - (iii) allowances or benefit payable under the Social Security Acts or universal credit *(Extent: W)*[^key-0d1b46f4a87a4b0cb609d0c3df291683];
+    - (iiia) a tax credit (within the meaning of the Tax Credits Act 2002 *(Extent: E)*[^key-abb3dff797e62b13fddca57d4d28a0a7]
+    - (iiib) universal credit; *(Extent: E)*[^key-541d0fbbdc9cd82fa6c15c4bf3067ecc]
+    - (iv) allowances payable in respect of disablement or disability; and
+    - (v) wages payable to a person as a seaman, other than wages payable to him as a seaman of a fishing boat;
+    - (vi) tax credits within the meaning of the Tax Credits Act 2002. *(Extent: W)*[^key-6397ed7afd88d96de118d668dacab88c]
+- “the[^key-77ef51dafa51d36dd34c7b5f39dca345] Income Support Regulations” means the Council Tax (Deductions from Income Support) Regulations 1993;
+- “liability order” means an order under regulation 34 or regulation 36A(5)[^key-33700a71905dcfd0e2fa280cf17c6f84]; [^key-bc5635822c51072f28b229c190d5c610]...
+- “net earnings” in relation to an employment means the residue of earnings payable under the employment after deduction by the employer of—
+  - (a) income tax;
+  - (b) primary Class 1 contributions under Part I of the Social Security Contributions and Benefits Act 1992[^f00012]; and
+  - (c) amounts deductible under any enactment, or in pursuance of a request in writing by the debtor, for the purposes of a superannuation scheme, namely any enactment, rules, deed or other instrument providing for the payment of annuities or lump sum—
+    - (i) to the persons with respect to whom the instrument has effect on their retirement at a specified age or on becoming incapacitated at some earlier age, or
+    - (ii) to the personal representatives or the widows widowers, surviving civil partners[^key-ff3a16b48fc56c82d8a7d3e9312768e4], relatives or dependants of such persons on their death or otherwise,
+
+    whether with or without any further or other benefits ; and where an order under regulation 32 (making of attachment of earnings order) of the Community Charges (Administration and Enforcement) Regulations 1989 made before the making of the attachment of earnings order concerned remains in force,[^key-db6703b0b380340576d3b92a06261f1f]
+  - (d) any amount required to be deducted in accordance with that order ; and[^key-e6c7af6f4cfea0e906401e3c870d1017]
+- “Schedule 12” means Schedule 12 to the Tribunals, Courts and Enforcement Act 2007, and “the Schedule 12 procedure” means the procedure in that Schedule (taking control of goods and selling them to recover a sum of money).[^key-8f1850110fa884636d04de9f26612783]
+
+(2) In sub-paragraph (v) of the definition of “earnings” in paragraph (1) above expressions used in the Merchant Shipping Act 1894[^f00013] have the same meanings as in that Act.
+
+(3) Regulations 33 to 53 apply for the recovery of a sum which has become payable to a billing authority under Part V and which has not been paid; but their application in relation to a sum for which persons are jointly and severally liable under that Part is subject to the provisions of regulation 54 (joint and several liability).
+
+(4) References in this Part to a sum which has become payable and which has not been paid include references to a sum forming part of a larger sum which has become payable and the other part of which has been paid
+
+(5)[^key-58c8d1b275b9b8a545d9829d12d2e26e] Any reference in this Part to the day on or time at which a notice is issued, is a reference—
+
+- (a) if the notice is served in the manner described in section 233(2) of the Local Government Act 1972 by being left at, or sent by post to, a person’s proper address, to the day on or time at which it is so left or posted, or
+- (b) in any other case, to the day on or time at which the notice is served.
+
+### 33. Liability orders: preliminary steps[^key-21dae1a5cd7e4f32811781f30d106756]
+
+(1) Subject to paragraph (3), before a billing authority in Wales or England[^key-1d7ef290366b9776ac553a353a7b4644] applies for a liability order it shall serve on the person against whom the application is to be made a notice (“final notice”), and where it is served by a billing authority in England, it must[^key-cab1351ed911c52a0ec2bd42bac0c3b0] state every amount in respect of which the authority is to make the application.
+
+(2) A final notice may be served by a billing authority in England[^key-a5ddb613b6365d11ed0c660e4e044218] in respect of an amount at any time after it has become due.
+
+(3)[^key-4043347c5075c215946129cb90fd904e] Nothing in paragraph (1) shall require the service of a final notice by a billing authority in England[^key-1bc8f12c189ebfeed6e9dda5d06d7786] in the circumstances mentioned in paragraph (3) of regulation 23 (including that paragraph as applied as mentioned in regulation 28A(2)).
+
+*Extent: W*
+
+(4)[^key-fa3b5de75583d65a21b1115bdfa4935f] A final notice served by a billing authority in Wales must be served—
+
+- (a) not less than 14 days after the day on which the most recent reminder notice has been issued, and
+- (b) not less than 41 days after the day on which the payment was due to be paid and remains unpaid.
+
+*Extent: W*
+
+(5) A final notice served by a billing authority in Wales must state—
+
+- (a) the amount that is unpaid on the day the final notice is served,
+- (b) that the amount stated in sub-paragraph (a) is due by the end of the period of 21 days beginning with the day on which the final notice is served, and
+- (c) the effect of paragraph (6) below and the amount that becomes payable by the liable person in the circumstances mentioned in that paragraph.
+
+*Extent: W*
+
+(6) If the liable person has failed to pay the amount due by the end of the period of 21 days beginning with the day on which the final notice was served by a billing authority in Wales, the unpaid balance of the chargeable amount (or its estimated amount) becomes payable on the following day.
+
+### 34. Application for liability order[^key-5e3b67bf1c8b63b71f335858415c4d46][^key-ea7204f45c3bd8e56db5fadf8b276de9]
+
+(1) If an amount which has fallen due under paragraph (3) or (4) of regulation 23 (including those paragraphs as applied as mentioned in regulation 28A(2))[^key-32ffda1128d3f64bb96624963459e45c] is wholly or partly unpaid, or (in a case where a final notice is required under regulation 33) the amount stated in the final notice is wholly or partly unpaid at the expiry of the period of 7 days beginning with the day on which the notice was issued, the billing authority in England[^key-76c39eda04c38b0914cff9098df9b958] may, in accordance with paragraph (2), apply to a magistrates' court for an order against the person by whom it is payable.
+
+*Extent: W*
+
+(1A)[^key-e12b3c5921b3244ac899c874a6af9e36] Where a final notice has been served by a billing authority in Wales under regulation 33(1) and the amount stated in the final notice is wholly or partly unpaid after the period of 21 days beginning with the day on which the final notice was issued, the billing authority may, in accordance with paragraph 2, apply to a magistrates’ court for an order against the person by whom it is payable.
+
+*Extent: W*
+
+(1B) An application to a magistrates’ court under paragraph (1A) may be made no earlier than the day after the chargeable amount (or its estimated amount) becomes payable.
+
+(2) The application made under regulation 34(1) or 34(1A)[^key-25a50ce5c83e60acfe359b6bdce2ed68] is to be instituted by making complaint to a justice of the peace, and requesting the issue of a summons directed to that person to appear before the court to show why he has not paid the sum which is outstanding.
+
+(3) Section 127(1) of the Magistrates' Courts Act 1980[^f00014] does not apply to such an application; but no application may be instituted in respect of a sum after the period of six years beginning with the day on which it became due under Part V.
+
+(4) A warrant shall not be issued under section 55(2) of the Magistrates' Courts Act 1980 in any proceedings under this regulation.
+
+(5) If, after a summons has been issued in accordance with paragraph (2) but before the application is heard, there is paid or tendered to the authority an amount equal to the aggregate of—
+
+- (a) the sum specified in the summons as the sum outstanding or so much of it as remains outstanding (as the case may be); and
+- (b) a sum of an amount equal to the costs reasonably incurred by the authority in connection with the application up to the time of the payment or tender,
+
+the authority shall accept the amount and the application shall not be proceeded with.
+
+(6) The court shall make the order if it is satisfied that the sum has become payable by the defendant and has not been paid.
+
+(7) An order made pursuant to paragraph (6) shall be made in respect of an amount equal to the aggregate of—
+
+- (a) the sum payable, and
+- (b) a sum of an amount equal to the costs reasonably incurred by the applicant in obtaining the order (which costs, including those of instituting the application under paragraph (2), are not to exceed the prescribed amount of £70) *(Extent: W.)*[^key-47dcf098b7e97c0a0c7845e95dc7fd62].
+
+(8) Where the sum payable is paid after a liability order has been applied for under paragraph (2) but before it is made, the court shall nonetheless (if so requested by the billing authority) make the order in respect of a sum of an amount equal to the costs reasonably incurred by the authority in making the application (which costs, including those of instituting the application under paragraph (2), are not to exceed the prescribed amount of £70) *(Extent: W.)*[^key-a85e8187382d154ae81f9dd8736ca692].
+
+### 35. Liability orders: further provision[^key-63d47706d6b89b9392c6cedf3540f5a6]
+
+(1) A single liability order may deal with one person and one such amount (or aggregate amount) as is mentioned in regulation 34(7) and (8) [^key-da130773744c120a6b49c2880ec62b36]..., or, if the court thinks fit, may deal with more than one person and more than one such amount [^key-b7dc060ef4b1221614fc482700cb5317]....
+
+(2) A summons issued under regulation 34(2) may be served on a person—
+
+- (a) by delivering it to him, or
+- (b) by leaving it at his usual or last known place of abode, or in the case of a company, at its registered office, or
+- (c) by sending it by post to him at his usual or last known place of abode, or in the case of a company, to its registered office, or
+- (d) by leaving it at, or by sending it by post to him at, an address given by the person as an address at which service of the summons will be accepted.
+
+(2A)[^key-77f899e4e7b9c6e4545d7728eb5a1c8d] No liability order shall be made in pursuance of a summons issued under regulation 34(2) unless 14 days have elapsed since the day on which the summons was served.
+
+(3) The amount in respect of which a liability order is made is enforceable in accordance with this Part; and accordingly for the purposes of any of the provisions of Part III of the Magistrates' Courts Act 1980 (satisfaction and enforcement) it is not to be treated as a sum adjudged to be paid by order of the court.
+
+### 36. Duties of debtors subject to liability order[^key-79de8c7e7f79ec9fd9e249c913c5fa87]
+
+(1)[^key-b416364cd5580da9cc3a1f709666bd85] Where a liability order has been made, the debtor against whom it was made shall, during such time as the amount in respect of which the order was made remains wholly or partly unpaid, be under a duty to supply relevant information to the billing authority on whose application it was made.
+
+(2) For the purposes of paragraph (1), relevant information is such information as fulfils the following conditions—
+
+- (a) it is in the debtor’s possession or control;
+- (b) the billing authority requests him by notice given in writing to supply it; and
+- (c) it falls within paragraph (3).
+
+(3) Information falls within this paragraph if it is specifed in the notice mentioned in paragraph (2)(b) and it falls within one or more of the following descriptions—
+
+- (a) information as to the name and address of an employer of the debtor;
+- (b) information as to earnings or expected earnings of the debtor;
+- (c) information as to deductions and expected deductions from such earnings in respect of the matters referred to in paragraphs (a) to (c) of the definition of “net earnings” in regulation 32 or attachment of earnings orders made under this Part , regulation 32 of the Community Charges (Administration and Enforcement) Regulations 1989[^key-6e019c0d05a3be2ae0b1a47e5cecc616], the Attachment of Earnings Act 1971[^f00015] or the Child Support Act 1991[^f00016];
+- (d) information as to the debtor’s work or identity number in an employment, or such other information as will enable an employer of the debtor to identify him;
+- (e) information as to sources of income of the debtor other than an employer of his;
+- (f) information as to whether another person is jointly and severally liable with the debtor for the whole or any part of the amount in respect of which the order was made.
+
+(4) Information is to be supplied within 14 days of the day on which the request is made.
+
+### 36A. Quashing of liability orders[^key-4145227120c4b585093903887f9812fc]
+
+(1) Where—
+
+- (a) a magistrates' court has made a liability order pursuant to regulation 34(6), and
+- (b) the authority on whose application the liability order was made considers that the order should not have been made,the authority may apply to a magistrates' court to have the liability order quashed.
+
+(2) Where, on an application by an authority in accordance with paragraph (1) above, the magistrates' court is satisfied that the liability order should not have been made, it shall quash the order.
+
+(3) Where an authority makes an application under paragraph (1) for a liability order (“the original order”) to be quashed, and a lesser amount than the amount for which the original order was made has fallen due under paragraph (3) or (4) of regulation 23 (including those paragraphs as applied as mentioned in regulation 28A(2)) and is wholly or partly unpaid or (in a case where a final notice is required under regulation 33) the amount stated in the final notice is wholly or partly unpaid at the expiry of the period of seven days beginning with the day on which the notice was issued, the billing authority may also apply to the magistrates' court for an order against the person by whom the lesser amount was payable.
+
+(4) Paragraphs (2) to (5) of regulation 34 shall apply to applications under paragraph (3) above.
+
+(5) Where, having quashed a liability order in accordance with paragraph (2) above, the magistrates' court is satisfied that, had the original application for the liability order been for a liability order in respect of a lesser sum payable, such an order could properly have been made, it shall make a liability order in respect of the aggregate of—
+
+- (a) that lesser sum payable, and
+- (b) any sum included in the quashed order in respect of the costs reasonably incurred by the authority in obtaining the quashed order.
+
+### 37. Making of attachment of earnings order[^key-01953e9e0b44e8f39859bfa051090b24]
+
+(1)[^key-585bc0e2f4525d84fc9823be2053f624] Where a liability order has been made and the debtor against whom it was made is an individual, the authority which applied for the order may, subject to paragraph (4),[^key-41267624913577f076972eecfd81fd2f] make an order under this regulation to secure the payment of the appropriate amount[^key-4cf96d8382151f701e4f6db2d2f770d6].
+
+(1A)[^key-785f10d017bbc8646f1d850e64f1074e] For the purposes of this regulation the appropriate amount is the aggregate of—
+
+- (a) any outstanding sum which is or forms part of the amount in respect of which the liability order was made.[^key-1a616d654758ac4df12e38f7e7afa3c7]
+- (b)[^key-b8561c6c03f5b996b1d33f49439968c8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) An order under this regulation—
+
+- (a) shall be in the form specifed in (and accordingly contain the matters specified in) Schedule 3; and
+- (b) shall remain in force until discharged under regulation 41(2) or the whole amount to which it relates has been paid (whether by attachment of earnings or otherwise).
+
+(3) The authority may serve a copy of the order on a person who appears to the authority to have the debtor in his employment; and a person on whom it is so served who has the debtor in his employment shall comply with it.
+
+(4)[^key-c79e86eaa3e1c6cea6f1f3cc62c4e3e6] No order may be made under this regulation by an authority if the effect would be that the number of orders for the time being in force made by that authority in relation to the debtor in question exceeded two.
+
+### 38. Deductions under attachment of earnings order[^key-0c094d8f71afb51db0f4f52f8ec08f69]
+
+(1) Subject to paragraphs (2) and (3), the sum to be deducted by an employer under an attachment of earnings order on any pay-day shall be—
+
+- (a) where the debtor’s earnings from the employer are payable weekly, a sum equal to the appropriate percentage of the net earnings otherwise payable on that pay-day; and for this purpose the appropriate percentage is the percentage (or percentages) specified in column 2 of Table A in Schedule 4[^key-818ae8813a5a54872489efa3b069699d] in relation to the band in column 1 of that Table within which the net earnings fall;
+- (b) where his earnings from the employer are payable monthly, a sum equal to the appropriate percentage of the net earnings otherwise payable on that pay-day; and for this purpose the appropriate percentage is the percentage (or percentages) specified in column 2 of Table B in Schedule 4[^key-360b8e162da78bdd501ab5e3fe77261d] in relation to the band in column 1 of that Table within which the net earnings fall;
+- (c) where his earnings from the employer are payable at regular intervals of a whole number of weeks or months, the sum arrived at by—
+  - (i) calculating what would be his weekly or monthly net earnings by dividing the net earnings payable to him by the employer on the pay-day by that whole number (of weeks or months, as the case may be),
+  - (ii) ascertaining the percentage (or percentages) specified in column 2 of Table A (if the whole number is of weeks) or of Table B (if the whole number is of months) in Schedule 4 opposite the band in column 1 of that Table within which the notional net earnings calculated under paragraph (i) fall, and
+  - (iii) calculating the sum which equals the appropriate percentage (or percentages) of the notional net earnings for any of those weeks or months and multiplying that sum by the whole number of weeks or months, as appropriate.
+
+(2) Where paragraph (1) applies and the amount to be paid to the debtor on any pay-day includes an advance in respect of future pay, the sum to be deducted on that pay-day shall be the aggregate of the amount which would otherwise fall to be deducted under paragraph (1) and—
+
+- (a) where the amount advanced would otherwise have been paid on a single pay-day, the sum which would have been deducted on that pay-day in accordance with paragraph (1) if the amount advanced had been[^key-cb2a533f74614986f4a68140f1ce4ad5] the amount of net earnings on that day; or
+- (b) where the amount advanced would otherwise have been paid on more than one pay-day, the sums which would have been deducted on each of the relevant pay-days in accordance with paragraph (1) if—
+  - (i) an equal proportion of the amount advanced had been paid[^key-4fce9d48271bbe7903621eb8e141fe17] on each of those days; and
+  - (ii) the net earnings of the debtor on each of those days had been an amount equal to that proportion.
+
+(3) Where the amount payable to the debtor on any pay-day is reduced by reason of an earlier advance of pay [^key-25a9dc9ed2412b8d4ffb170bdaa27b45]..., the net earnings of the debtor on that day shall, for the purposes of paragraph (1), be the amount defined in regulation 32(1) less the amount of the deduction.
+
+(4) Subject to paragraphs (5) and (6), where the debtor’s earnings from the employer are payable at regular intervals other than at intervals to which paragraph (1) applies, the sum to be deducted on any pay-day shall be arrived at by—
+
+- (a) calculating what would be his daily net earnings by dividing the net earnings payable to him by the employer on the pay-day by the number of days in the interval,
+- (b) ascertaining the percentage (or percentages) specified in column 2 of Table C in Schedule 4 opposite the band in column 1 of that Table within which the notional net earnings calculated under sub-paragraph (a) fall, and
+- (c) calculating the sum which equals the appropriate percentage (or percentages) of the notional daily net earnings and multiplying that sum by the number of days in the interval.
+
+(5) Where the debtor’s earnings are payable as mentioned in paragraph (4), and the amount to be paid to the debtor on any pay-day includes an amount advanced in respect of future pay, the amount of the debtor’s notional net earnings under sub-paragraph (a) of that paragraph shall be calculated in accordance with the formula
+
+[formula: see source](https://www.legislation.gov.uk/uksi/1992/613)
+
+where:
+
+- A is the amount of net earnings payable to him on that pay-day (exclusive of the amount advanced);
+- B is the amount advanced;
+- C is the number of days in the period for which the amount of net earnings is payable; and
+- D is the number of days in the period for which, but for the agreement to pay in advance, the amount advanced would have been payable.
+
+(6) Paragraph (3) applies in relation to paragraph (4) as it applies in relation to paragraph (1).
+
+(7) Where earnings are payable to a debtor by the employer by 2 or more series of payments at regular intervals—
+
+- (a) if some or all of the intervals are of different lengths—
+  - (i) for the purpose of arriving at the sum to be deducted, whichever of paragraphs (1), (2), (3), (4), (5) and (6) is appropriate shall apply to the series with the shortest interval (or, if there is more than one series with the shortest interval, such one of those series as the employer may choose), and
+  - (ii) in relation to the earnings payable in every other series, the sum to be deducted shall be 20 per cent. of the net earnings or, where on any pay-day an amount advanced is also paid, 20 per cent. of the aggregate of the net earnings and the amount advanced;
+- (b) if all of the intervals are of the same length, whichever of paragraphs (1), (2), (3), (4), (5) and (6) is appropriate shall apply to such series as the employer may choose and sub-paragraph (a)(ii) shall apply to every other series, above as it applies in relation to paragraph (1).
+
+(8) Subject to paragraphs (9) and (10), where the debtor’s earnings from the employer are payable at irregular intervals, the sums to be deducted on any pay-day shall be arrived at by—
+
+- (a) calculating what would be his daily net earnings by dividing the net earnings payable to him by the employer on the pay-day—
+  - (i) by the number of days since earnings were last payable by the employer to him, or
+  - (ii) if the earnings are the first earnings to be payable by the employer to him with respect to the employment in question, by the number of days since he began the employment;
+- (b) ascertaining the percentage (or percentages) specified in column 2 of Table C of Schedule 4 opposite the band in column 1 of that Table within which the notional net earnings calculated under sub-paragraph (a) fall; and
+- (c) calculating the sum which equals the appropriate percentage (or percentages) of the daily net earnings and multiplying that sum by the same number as that of the divisor for the purposes of the calculation mentioned in sub-paragraph (a).
+
+(9) Where on the same pay-day there are payable to the debtor by the employer both earnings payable at regular intervals and earnings payable at irregular intervals, for the purpose of arriving at the sum to be deducted on the pay-day under the foregoing provisions of this regulation all the earnings shall be aggregated and treated as earnings payable at the regular interval.
+
+(10) Where there are earnings payable to the debtor by the employer at regular intervals on one pay-day, and earnings are payable by the employer to him at irregular intervals on a different pay-day, the sum to be deducted on each of the pay-days on which the earnings which are payable at irregular intervals are so payable shall be 20 per cent. of the net earnings payable to him on the day.
+
+### 39. Attachment of earnings orders: ancillary powers and duties of employers and others served[^key-44c4c9f6b7315405dc0aa7af6dcf6b10]
+
+(1) An employer who deducts and pays amounts under an attachment of earnings order may, on each occasion that he makes such a deduction, also deduct from the debtor’s earnings the sum of one pound towards his administrative costs.
+
+(2) An employer who deducts and pays amounts under an attachment of earnings order shall, in accordance with paragraph (3), notify the debtor in writing of—
+
+- (a) the total amount of the sums (including sums deducted under paragraph (1)) deducted under the order up to the time of the notification; or
+- (b) the total amount of the sums (including sums deducted under paragraph (1)) that will fall to be so deducted after that time.
+
+(3) A notification under paragraph (2) must be given at the time that the pay statement given by the employer to the debtor next after a deduction has been made is so given, or if no such statements are usually issued by the employer, as soon as practicable after a deduction has been made.
+
+(4)[^key-5e21c6d9048363533bbcf5dd2743745e] A person on whom a copy of an attachment of earnings order has been served shall, in accordance with paragraph (5), notify in writing the authority which made the order if he does not have the debtor against whom it was made in his employment or the debtor subsequently ceases to be in his employment.
+
+(5) A notification under paragraph (4) must be given within 14 days of the day on which the copy of the order was served on him or the debtor ceased to be in his employment (as the case may be).
+
+(6)[^key-5e21c6d9048363533bbcf5dd2743745e] While an attachment of earnings order is in force, any person who becomes the debtor’s employer and knows that the order is in force and by what authority it was made shall notify that authority in writing that he is the debtor’s employer.
+
+(7) A notification under paragraph (6) must be given within 14 days of the day on which the debtor became the person’s employee or of the day on which the person first knows that the order is in force and the identity of the authority by which it was made, whichever is the later
+
+### 40. Attachment of earnings orders: duties of debtor[^key-2f35ea922fcd4253b67fe805f94316f5]
+
+(1)[^key-3148ba8f45e7796c78895c21f6dfed0b] While an attachment of earnings order is in force, the debtor in respect of whom the order has been made shall notify in writing the authority which made it of each occasion when he leaves an employment or becomes employed or re-employed, and (in a case where he becomes so employed or re-employed) shall include in the notification a statement of—
+
+- (a) his earnings and (so far as he is able) expected earnings from the employment concerned,
+- (b) the deductions and (so far as he is able) expected deductions from such earnings—
+  - (i) in respect of income tax;
+  - (ii) in respect of primary Class 1 contributions under Part I of the Social Security Contributions and Benefits Act 1992;
+  - (iii) for the purposes of such a superannuation scheme as is mentioned in the definition of “net earnings” in regulation 32(1),
+- (c) the name and address of the employer, and
+- (d) his work or identity number in the employment (if any).
+
+(2) A notification under paragraph (1) must be given within 14 days of the day on which the debtor leaves or commences (or recommences) the employment (as the case may be), or (if later) the day on which he is informed by the authority that the order has been made.
+
+### 41. Attachment of earnings orders: ancillary powers and duties of authority[^key-77b8e5b5e6ed5e6877336c5ffb1f20ce][^key-c6ddc87561eb830e6b38f26e514185d1]
+
+(1) Where the whole amount to which an attachment of earnings order relates has been paid (whether by attachment of earnings or otherwise), the authority by which it was made shall give notice of the fact to any person who appears to it to have the debtor in his employment and who has been served with a copy of the order.
+
+(2) The authority by which an attachment of earnings order was made may, on its own account or on the application of the debtor or an employer of the debtor, make an order discharging the attachment of earnings order; and if it does so it shall give notice of that fact to any person who appears to it to have the debtor in his employment and who has been served with a copy of the order.
+
+(3) If an authority serves a copy of an attachment of earnings order in accordance with regulation 37(3), it shall (unless it has previously done so) also serve a copy of the order on the debtor
+
+### 42. Priority as between orders[^key-fc9fe4507e564d5498a8ece7dba6bed9]
+
+(1) Where an employer would, but for this paragraph, be obliged to make deductions on any pay-day under more than one attachment of earnings order, he shall[^key-c5c8ef0c09f8b5b2eaf8e59dfb93ad92]
+
+- (a) deal with the orders according to the respective dates on which they were made, disregarding any later order until an earlier one has been dealt with; and
+- (b) deal with any later order as if the earnings to which it relates were the residue of the debtor’s earnings after the making of any deduction to comply with any earlier order.
+
+(2) Subject to paragraph (3), where an employer would, but for this paragraph, be obliged to comply with one or more attachment of earnings order and with one or more deduction order, he shall deal with the orders according to the respective dates on which they were made in like manner as under paragraph (1).
+
+(3) An employer shall not deal with a deduction order made either wholly or in part in respect of the payment of a judgment debt or payments under an administration order until he has dealt with the attachment of earnings order or orders and any other deduction order.
+
+(4) In this regulation “deduction order” means an order under the Attachment of Earnings Act 1971 or section 31(2) (deductions from earnings orders) of the Child Support Act 1991.
+
+### 43. Attachment of earnings orders: persons employed under the Crown[^key-ef342864651e244f4fe37f1d3eb08f9b]
+
+(1) Where a debtor is in the employment of the Crown and an attachment of earnings order is made in respect of him, for the purposes of this Part—
+
+- (a) the chief officer for the time being of the department, office or other body in which the debtor is employed shall be treated as having the debtor in his employment (any transfer of the debtor from one department, office or body to another being treated as a change of employment); and
+- (b) any earnings paid by the Crown or a Minister of the Crown, or out of the public revenue of the United Kingdom, shall be treated as paid by that chief officer.
+
+(2) If any question arises as to what department, office or other body is concerned for the purposes of this regulation, or as to who for those purposes is its chief officer, the question shall be referred to and determined by the Minister for the Civil Service.
+
+(3) A document purporting to set out a determination of the Minister under paragraph (2) and to be signed by an official of the Office of that Minister shall, in any proceedings arising in relation to an attachment of earnings order, be admissible in evidence and be deemed to contain an accurate statement of such a determination unless the contrary is shown.
+
+(4) This Part shall have effect in relation to attachment of earnings orders notwithstanding any enactment passed before 29th May 1970 and preventing or avoiding the attachment or diversion of sums due to a person in respect of services under the Crown, whether by way of remuneration, pension or otherwise.
+
+### 44. Attachment of allowances orders[^key-eb951abeaaddde84b548f3ac1adcc86d]
+
+(1) This regulation applies in relation to an elected member of a relevant billing authority or a relevant precepting authority.
+
+(2) For the purposes of this regulation—
+
+- (a) a relevant billing authority is a billing authority other than the Common Council;
+- (b) a relevant precepting authority is a major precepting authority[^f00019] other than the Receiver for the Metropolitan Police District;
+- (c) a person is an elected member of a relevant precepting authority other than a county council if he is appointed to the authority by a constituent council of which he is an elected member; and
+- (d) references to attachable allowances are references to the allowances referred to in paragraph (7)(b).
+
+(3) Where a liability order has been made and the debtor against whom it was made is a person in relation to whom this regulation applies, the authority which applied for the order may make an order under this regulation to secure the payment of any outstanding sum which is or forms part of the amount in respect of which the liability order was made.
+
+(4) An order under this regulation shall be expressed to be directed to the authority of whom the debtor is an elected member and shall operate as an instruction to the authority to make deductions from attachable allowances payable to the debtor and to pay the sums so deducted to the authority by which the order was made.
+
+(5) An order under this regulation shall remain in force until discharged or the whole sum to which it relates has been paid (whether by attachment of allowances or otherwise).
+
+(6) The sum to be deducted by an authority under an order under this regulation on any day shall be a sum equal to 40 per cent. of the aggregate of attachable allowances payable to the debtor on that day.
+
+(7) Paragraph (3) of regulation 37, paragraphs (1) to (5) of regulation 39 and paragraphs (1) and (2) of regulation 41 shall apply to orders under this regulation as they apply to attachment of earnings orders as if any reference in those paragraphs—
+
+- (a) to an employer or a person having the debtor in his employment, were a reference to such an authority as is mentioned in paragraph (1) above having the debtor as an elected member;
+- (b) to the debtor’s earnings, were a reference to allowances—
+  - (i) payable to the debtor in accordance with a scheme under regulations under section 18 (schemes for basic, attendance and special responsibility allowances for local authority members) of the Local Government and Housing Act 1989[^f00020]; or
+  - (ii) in the nature of an attendance allowance, payable to the debtor under section 175 (allowances for attending conferences and meetings) of the Local Government Act 1972[^f00021];
+- (c) to an attachment of earnings order, were a reference to an order under this regulation.
+
+### 45. Enforcement by taking control of goods[^key-57ad7e88296e8ee3c5f4ee9a0345aa19]
+
+Where a liability order has been made, payment may be enforced by using the Schedule 12 procedure.
+
+### 45A. Information preliminary to distress[^key-e7ebbe39f8b4031ba9d1325b8ac91419]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 46. Appeals in connection with distress[^key-132843606f7088953e01010c1c52be84]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 47. Commitment to prison[^key-a0246c6feecd6cdd1593fe059659492b]
+
+(1)[^key-fa3a79a0809471ff1a71e00d5a99bf91] Where a billing authority in England[^key-d88890bd5f5ced523217b9b65618bf8b] has sought to enforce payment by use of the Schedule 12 procedure pursuant to[^key-d3c92b05a5e24f632b558441db1ca9df] regulation 45, the debtor is an individual who has attained the age of 18 years, and the enforcement agent[^key-1f21091c5f5d05e79ae821be574943ed] reports to the authority that he was unable (for whatever reason) to find any or sufficient goods of the debtor to enforce payment[^key-5c9910afe449a3c5f1c0377300e7d153], the authority may apply to a magistrates' court for the issue of a warrant committing the debtor to prison.
+
+(2) On such application being made the court shall (in the debtor’s presence) inquire as to his means and inquire whether the failure to pay which has led to the application is due to his wilful refusal or culpable neglect.
+
+(3) If (and only if) the court is of the opinion that his failure is due to his wilful refusal or culpable neglect it may if it thinks fit—
+
+- (a) issue a warrant of commitment against the debtor, or
+- (b) fix a term of imprisonment and postpone the issue of the warrant until such time and on such conditions (if any) as the court thinks just.
+
+(4) The warrant shall be made in respect of the relevant amount; and the relevant amount for this purpose is the aggregate of—
+
+- (a) an amount equal to the amount outstanding (within the meaning of Schedule 12)[^key-b9dab733864503da5f95c104cd049472], and
+- (b) a sum of an amount equal to the costs reasonably incurred by the applicant in respect of the application.
+
+(5) The warrant—
+
+- (a) shall state the relevant amount mentioned in paragraph (4),
+- (b) may be directed to the authority making the application and to such other persons (if any) as the court issuing it thinks fit, and
+- (c) may be executed anywhere in England and Wales by any person to whom it is directed.
+
+(6)[^key-6108c84807b7fe6c07c9efcc41558f37] If—
+
+- (a) before a warrant has been issued, or a term of imprisonment fixed and the issue of a warrant postponed, an amount determined in accordance with paragraph (6A) below is paid or tendered to the authority, or
+- (b) after a term of imprisonment has been fixed and the issue of a warrant postponed, the amount (if any) the court has ordered the debtor to pay is paid or tendered to the authority, or
+- (c) after a warrant has been issued, the amount stated in it is paid or tendered to the authority,
+
+the authority shall accept the amount concerned, no further steps shall be taken as regards its recovery, and the debtor, if committed to prison, shall be released.
+
+(6A) The amount referred to in paragraph (6)(a) above is the aggregate of—
+
+- (a) the amount outstanding (within the meaning of Schedule 12)[^key-d0f13ec90eb4080a16e66c918f638a22], and
+- (b) subject to paragraph (6B) below, the authority’s reasonable costs incurred up to the time of payment or tender in making one or more of the applications referred to in Schedule 6.
+
+(6B) For the purposes of paragraph (6A)(b) above, the authority’s reasonable costs in respect of any application shall not exceed the amount specified for that application in Schedule 6.
+
+(7) The order in the warrant shall be that the debtor be imprisoned for a time specified in the warrant which shall not exceed 3 months, unless the amount stated in the warrant is sooner paid; but—
+
+- (a) where a warrant is issued after a postponement under paragraph (3)(b) and, since the term of imprisonment was fixed but before the issue of the warrant, the amount mentioned in paragraph (4)(a) with respect to which the warrant would (but for the postponement) have been made has been reduced by a part payment, the period of imprisonment ordered under the warrant shall be the term fixed under paragraph (3) reduced by such number of days as bears to the total number of days in that term less one day the same proportion as the part paid bears to that amount, and
+- (b) where, after the issue of a warrant, a part payment of the amount stated in it is made, the period of imprisonment shall be reduced by such number of days as bears to the total number of days in the term of imprisonment specified in the warrant less one day the same proportion as the part paid bears to the amount so stated.
+
+(8) In calculating a reduction required under paragraph (7) any fraction of a day shall be left out of account; and rule 55(1), (2) and (3) of the Magistrates' Courts Rules 1981[^f00024] applies (so far as is relevant) to a part payment as if the imprisonment concerned were imposed for want of sufficient distress to satisfy a sum adjudged to be paid by a magistrates' court
+
+### 48. Commitment to prison: further provision[^key-d18bbf878e649e16e06f0e7510f1734d]
+
+(1) A single warrant may not be issued under regulation 47 against more than one person [^key-e8dc499eb2b76efeeceffcb0a93fcfa3]....
+
+(2) Where an application under regulation 47 has been made, and after the making of the inquiries mentioned in paragraph (2) of that regulation no warrant is issued or term of imprisonment fixed, the court may remit all or part of the appropriate amount mentioned in regulation 45(2) with respect to which the application related.
+
+(3) Where an application under regulation 47 has been made but no warrant is issued or term of imprisonment fixed, the application may be renewed (except so far as regards any sum remitted under paragraph (2)) on the ground that the circumstances of the debtor have changed.
+
+(4) A statement in writing to the effect that wages of any amount have been paid to the debtor during any period, purporting to be signed by or on behalf of his employer, shall in any proceedings under regulation 47 be evidence of the facts there stated.
+
+(5) For the purpose of enabling inquiry to be made as to the debtor’s conduct and means under regulation 47, a justice of the peace may—
+
+- (a) issue a summons to him to appear before a magistrates' court and (if he does not obey the summons) issue a warrant for his arrest, or
+- (b) issue a warrant for the debtor’s arrest without issuing a summons.
+
+(6) A warrant issued under paragraph (5) may be executed anywhere in England and Wales by any person to whom it is directed or by any constable acting within his police area; and section 125(3) of the Magistrates' Courts Act 1980 applies to such a warrant.
+
+(7) Regulation 47 and this regulation have effect subject to Part I of the Criminal Justice Act 1982[^f00025] (treatment of young offenders)
+
+### 49. Insolvency[^key-5ebe79338a6092118a8ebf54fa901fcd]
+
+(1) Where a liability order has been made and the debtor against whom it was made is an individual, the amount due shall be deemed to be a debt for the purposes of section 267 of the Insolvency Act 1986[^f00026] (grounds of creditor’s petition).
+
+(2) Where a liability order has been made and the debtor against whom it was made is a company, the amount due shall be deemed to be a debt for the purposes of section 122(1)(f) (winding up of companies by the court) or, as the case may be, section 221(5)(b) (winding up of unregistered companies) of that Act.
+
+(3) For the purposes of this regulation the amount due is an amount equal to any outstanding sum which is or forms part of the amount in respect of which the liability order was made.
+
+### 50. Charging orders[^key-a65033db36192e0293c8bcbe05b6d50d]
+
+(1)[^key-9e9d99f4cb311f83b59e18f5bb963526] An application to the appropriate court may be made under this regulation where—
+
+- (a) a magistrates' court has made one or more liability orders pursuant to either regulation 34(6) or 36A(5);
+- (b) the amount mentioned in regulation 34(7)(a) or 36A(5)(a) in respect of which the liability order was made, or, where more than one liability order was made, the aggregate of the amounts mentioned in regulation 34(7)(a) or 36A(5)(a) in respect of which each such liability order was made, is an amount the debtor is liable to pay under Part V; and
+- (c) at the time that the application under this regulation is made at least £1000 of the amount in respect of which the liability order was made, or, where more than one liability order was made, the aggregate of the amounts in respect of which those liability orders were made, remains outstanding.
+
+(2) The application which may be made to the appropriate court under this regulation is an application by the authority concerned for an order imposing, on any interest held by the debtor beneficially in the relevant dwelling, a charge for securing the due amount; and the court may make such an order on such application.
+
+(3)[^key-d4b7fa064149af7febc62673f5ab21e0] For the purposes of paragraph (2)—
+
+- (a) the authority concerned is the authority which applied for the one or more liability orders referred to in paragraph (1)(a);
+- (b) the relevant dwelling is the dwelling in respect of which, at the time the application for the liability order was made, or, where more than one liability order was made, at the time the applications for the liability orders were made, the debtor was liable to pay council tax;
+- (c) the due amount is the aggregate of—
+  - (i) an amount equal to any outstanding sum which is or forms part of the amount in respect of which the one or more liability orders were made; and
+  - (ii) a sum of an amount equal to the costs reasonably incurred by the applicant in obtaining the charging order;
+- (d) the appropriate court is the county court for the area in which the relevant dwelling is situated.
+
+### 51. Charging orders: further provision[^key-3a0fdcc1c0586e3e34fca0985e7e09c1]
+
+(1) In deciding whether to make a charging order, the court shall consider all the circumstances of the case, and in particular any evidence before it as to—
+
+- (a) the personal circumstances of the debtor, and
+- (b) whether any other person would be likely to be unduly prejudiced by the making of the order.
+
+(2) A charging order—
+
+- (a) shall specify the dwelling concerned and the interest held by the debtor beneficially in it, and
+- (b) may, as the court thinks fit, be made absolutely or subject to conditions as to the time when the charge is to become enforceable or as to other matters.
+
+(3) A charged imposed by a charging order shall have the like effect and shall be enforceable in the same courts and in the same manner as an equitable charge created by the debtor by writing under his hand.
+
+(4)[^key-5086b93e113845713d8d4394700ad014] The court by which a charging order was made may at any time, on the application of the debtor, the authority on whose application the order was made or any person interested in the dwelling, make an order discharging or varying the charging order.
+
+(5) The Land Charges Act 1972[^f00027] and the Land Registration Act 1925[^f00028] shall apply in relation to charging orders as they apply in relation to orders or writs issued or made for the purposes of enforcing judgments; and in section 49(1)(g) of the Land Registration Act 1925, after the words “Local Government Finance Act 1988” there are inserted the words “, or regulations under paragraph 11 of Schedule 4 to the Local Government Finance Act 1992”.
+
+(6) Where a charging order has been protected by an entry registered under the Land Charges Act 1972 or the Land Registration Act 1925, an order under paragraph (4) discharging the charging order may direct that the entry be cancelled.
+
+### 52. Relationship between remedies[^key-a2f921d3b317e4705837c7affb63cfd4]
+
+(1) Where a warrant of commitment is issued against (or a term of imprisonment is fixed in the case of) a person under regulation 47(3), no steps, or no further steps, may be taken under this Part by way of attachment of allowances, attachment of earnings, the Schedule 12 procedure[^key-abf82c333f4d7b975d28f1e33ad61fd0], bankruptcy or charging , or under the[^key-1dbc6ecea7d7b62a861d35c1a924cd7d] Income Support Regulations in relation to the relevant amount mentioned in regulation 47(4).
+
+(2) Steps under this Part by way of attachment of allowances, attachment of earnings, the Schedule 12 procedure, commitment, bankruptcy, winding up or charging may not be taken in relation to a person against whom a liability order has been made while—[^key-0c964365e84de3af2218798537d3e69e]
+
+- (a) steps by way of another of those methods are being taken against him under it; or
+- (b) deductions are being made under the Income Support Regulations from any amount payable to him by way of income support , universal credit *(Extent: W)*[^key-7e008e0c296dd3c6237812fd085e05fc] or jobseeker’s allowance[^key-5413ef9a8d95ad665e21f4dfaa956f03]; or
+- (c) an application under regulation 2 of the Income Support Regulations has been made in respect of him to the Secretary of State and remains undetermined.
+
+(2A)[^key-be7bd91b143bbfdc556cabfd29da7315] An application under regulation 2 of the Income Support Regulations may not be made in respect of a person against whom a liability order has been made while steps under this Part are being taken against him for the recovery of an amount equal to any outstanding sum which is or forms part of the amount in respect of which the liability order was made.
+
+(3) Subject to paragraphs (1) and (2)—
+
+- (a) attachment of allowances, attachment of earnings , deductions under the Income Support Regulations[^key-32d897589575141a205805887fb63dc2] or the Schedule 12 procedure may be resorted to more than once, and
+- (b) attachment of allowances, attachment of earnings , deductions under the Income Support Regulations[^key-d072229a9ca284aa41debe540c7a68fa] or the Schedule 12 procedure may be resorted to in any order or alternately (or both).
+
+(4) Where a step is taken for the recovery of an outstanding sum which is or forms part of an amount in respect of which a liability order has been made and under which additional costs or charges with respect to the step are also recoverable in accordance with this Part, any sum recovered thereby which is less than the aggregate of the amount outstanding and such additional costs and charges shall be treated as discharging first the costs and charges, the balance (if any) being applied towards the discharge of the outstanding sum.
+
+### 53. Magistrates' courts[^key-f50b3afd02df1f2c41f84c7b03dc94d6]
+
+(1)[^key-bf4df97018fae5adb49d72ea5ef86546] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(1A)[^key-bf4df97018fae5adb49d72ea5ef86546] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) Subject to any other enactment authorising a District Judge (Magistrates' Courts) *(Extent: W)*[^key-f0dfce10f7044a466323c0f1bc7f6bed] or other person to act by himself, a magistrates' court shall not under this Part hear a summons, entertain an application for a warrant or hold an inquiry as to means on such an application except when composed of at least two justices.
+
+(3) References to a justice of the peace in regulations 34(2) and 46(2) shall be construed subject to rule 3 of the Justices' Clerks Rules 1970[^f00029] (which authorises certain matters authorised to be done by a justice of the peace to be done by a justices' clerk).
+
+(4)[^key-1054078daa8dcaadaa3ab2859d4b2381] In any proceedings under regulation 34 (application for liability order), [^key-a622e307ee3d89b99c40abec7caf94ee]... or regulation 47 (commitment to prison), a statement contained in a document constituting or forming part of a record compiled by the applicant authority or an authorised person[^key-7141f45e43594f22d7e2ef5caa8d92d5] shall be admissible as evidence of any fact stated in it of which direct oral evidence would be admissible.
+
+(5) In proceedings where the applicant authority or an authorised person[^key-c4132fec9aa5217308afd36266272b19] desires to give a statement in evidence in accordance with paragraph (4), and the document containing that statement is produced by a computer, a certificate—
+
+- (a) identifying the document containing the statement and the computer by which it was produced;
+- (b) containing a statement that at all material times the computer was operating properly, or if not, that any respect in which it was not operating properly or was out of operation was not such as to affect the production of the document or the accuracy of its contents;
+- (c) giving such explanation as may be appropriate of the content of the document; and
+- (d) purporting to be signed by a person occupying a responsible position in relation to the operation of the computer,
+
+shall be admissable as evidence of abything which is stated in it to the best of the signatory’s information and belief.
+
+(6) In paragraph (4) above, “statement” includes any representation of fact, whether made in words or otherwise; and the reference to an application under regulation 47 includes a reference to an application made in the circumstances mentioned in regulation 48(3).
+
+### 54. Joint and several liability: enforcement[^key-7847bec78e715fac16668b8c7e949aa9]
+
+(1) This regulation has effect with respect to the application of regulations 33 to 53 to a sum for which persons are jointly and severally liable under Part V.
+
+(2) In this regulation, “joint taxpayers” means two or more individuals who are jointly and severally liable to pay an amount in respect of council tax.
+
+(3) A final notice served in accordance with regulation 33 on every person against whom the application for a liability order is to be made may be addressed to two or more joint taxpayers in joint names.
+
+(3A)[^key-6ee443a52752855eae52207d800d8bc7] A summons under regulation 34(2) may be addressed to two or more joint taxpayers in joint names.
+
+(4) A liability order may be made against one or more joint taxpayers in respect of an amount for which they are jointly and severally liable.
+
+(5) Where a liability order has been made against two or more joint taxpayers, subject to paragraphs (6) and (6A)[^key-52bcef9f725af12e83615d189e210afc]—
+
+- (a) an attachment of allowances order or an attachment of earnings order may be made against one of them, or different such orders may be made against more than one;
+- (b) the Schedule 12 procedure may be used[^key-f46461e271720a0bda218790b1a83013] against one or more of them; [^key-2a8e47cab96c11646d653b9bc614bc90]...
+- (c) a charging order may be made against one of them, or against more than one jointly, or different such orders may be made against more than one of them (as the circumstances require) and[^key-415f773c38c994d47d70fd186a03c3ff]
+- (d) deductions may be made under the Income Support Regulations from any amount payable to one or more of them by way of income support or universal credit *(Extent: W)*[^key-9a75a86cc97d21141b65a9a493bbe281].
+
+(6) Where a liability order has been made against two or more joint taxpayers in respect of an amount, steps by way of any method specified in paragraph (5)—
+
+- (a) may not be taken under it[^key-cdb2e64d2a6d776b40225c8adf7e47c4] in respect of one of them while steps by way of that or another of those methods are being taken under it in respect of another of them; and
+- (b) may be taken in respect of one of them notwithstanding that no steps by way of that or another of those methods have been taken under it in respect of another of them.
+
+(6A)[^key-dd0c3658a09dbbf35aa9bbf2f72aafc7] Where a liability order has been made against two or more joint taxpayers and an amount is payable to one of them by way of income support or universal credit *(Extent: W)*[^key-4fd5f7f7cfdfb63508630631920a303e] and—
+
+- (a) deductions are being made under the Income Support Regulations from any such amount; or
+- (b) an application under regulation 2 of those Regulations has been made in respect of him to the Secretary of State and remains undetermined,
+
+no steps, or no further steps, by way of attachment of allowances or earnings, distress, commitment, bankruptcy or charging may be taken, under that or any other liability order, against him or any other of those joint taxpayers who is a member of his family.
+
+(6B) In paragraph (6A) above—
+
+- “income support” means income support within the meaning of the Social Security Contributions and Benefits Act 1992; and
+- “family” has the same meaning as in section 137(1) of that Act.
+
+(7 (Extent: W) (affected by repeal, see note))[^key-885d8832895e0bcc82bb3ded21e17fff] Where *(Extent: W)* *(affected by repeal, see note)*[^key-885d8832895e0bcc82bb3ded21e17fff] the Schedule 12 procedure has been used[^M_F_99fc1f29-f86b-4993-ac3d-048a11f11a9c] *(Extent: W)* *(affected by repeal, see note)*[^key-885d8832895e0bcc82bb3ded21e17fff] against two or more joint taxpayers in respect of an amount a warrant of commitment may, subject to paragraph (8), be applied for at any time against one of them or different warrants may be applied for against more than one of them: but no such application may be made in respect of any of them who has not attained the age of 18 years. *(Extent: W)* *(affected by repeal, see note)*[^key-885d8832895e0bcc82bb3ded21e17fff]
+
+(7 (Extent: W)) Where the Schedule 12 procedure has been used against two or more joint taxpayers in respect of an amount, a billing authority in England may, subject to paragraph (8), apply for a warrant of commitment at any time against one of them or different warrants may be applied for against more than one of them: but no such application may be made in respect of any of them who has not attained the age of 18 years. *(Extent: W)*
+
+(8) Where a liability order has been made against two or more joint taxpayers in respect of an amount, a warrant of commitment may not be applied for unless—
+
+- (a) distress has been made against all of them; and
+- (b) the person making the distress reports to the authority that, in relation to each of them, he was unable (for whatever reason) to find any or sufficient goods.
+
+(9) Where a liability order has been made against two or more joint taxpayers in respect of an amount, and a warrant of commitment is issued against (or a term of imprisonment is fixed in the case of) one of them under regulation 47(3), no steps, or no further steps, may be taken against any of them by way of attachment of allowances or earnings, the Schedule 12 procedure[^key-2c2a81925becc0d897874b7cd6792e7d], bankruptcy or charging in relation to the amount mentioned in regulation 47(4).
+
+(9A)[^key-595b41dbc2768701eb6984551b77093a] Where a liability order has been made against persons who are joint taxpayers, and a warrant of commitment is issued against (or a term of imprisonment is fixed in the case of) one of them under regulation 47(3), no steps, or further steps, may be taken under the Income Support Regulations in respect of any of them in relation to the amount mentioned in regulation 47(4).
+
+(10) Where a liability order has been made against two or more joint taxpayers in respect of an amount and in using the Schedule 12 procedure[^key-f835c8f759f03b986546e0d74daf7189] against one of them goods jointly owned by both or all of them are found, control may be taken of[^key-6f3eee863fbc612fccc8308be4a10d91] those goods with respect to that amount; but in any subsequent proceedings under regulation 47 (commitment), charges arising under the Taking Control of Goods (Fees) Regulations 2014 from the use of the Schedule 12 procedure[^key-1fab80031009e93511dc35e30421e1d6] shall be treated as charges relating to the person against whose goods the Schedule 12 procedure was intended to be used[^key-f5c6abc978f7050df622a3b1a5ba623c] when the joint goods were found, and not as charges relating to the other or others.
+
+(11)[^key-1413ce613a0ef672335f52e739478c01] Where—
+
+- (a) a liability order has been made against more than one person in respect of an amount; and
+- (b) a charge has arisen against one of them for the enforcement stage within the meaning of regulation 5 of the Taking Control of Goods (Fees) Regulations 2014 in respect of that amount,
+
+no further charge for the enforcement stage or compliance stage (within the meaning of regulation 5 of the Taking Control of Goods (Fees) Regulations 2014) in consequence of any further use or attempted use of the Schedule 12 procedure in respect of that amount may be recovered from any of them; and a charge for the compliance stage shall be treated for those purposes as a charge with respect to the others as well as that one.
+
+### 55. Repayments[^key-44983fd3702e169708bb7774974e1da4]
+
+A sum which has become payable (by way of repayment) under Part V to a person other than a billing authority but which has not been paid shall be recoverable in a court of competent jurisdiction.
+
+### 56. Offences[^key-d9ee9a393a1cb7b039952e4a6bfbbd20]
+
+(1) A person shall be guilty of an offence if, following a request under paragraph (2)(b) of regulation 36, he is under a duty to supply information and—
+
+- (a) he fails without reasonable excuse to supply the information in accordance with that regulation, or
+- (b) in supplying information in purported compliance with that regulation he makes a statement which is false in a material particular or recklessly makes a statement which is false in a material particular.
+
+(2) Subject to paragraph (3), a person shall be guilty of an offence if, following the service on him of a copy of an attachment of allowances order or an attachment of earnings order, he is under a duty to comply with the order by virtue of regulation 37(3) (including that provision as applied for the purposes of attachment of allowances orders by regulation 44(7)) and he fails to do so.
+
+(3) It shall be a defence for a person charged with an offence under paragraph (2) to prove that he took all reasonable steps to comply with the order.
+
+(4) A person shall be guilty of an offence if he is under a duty to notify another person under regulation 39(2) and (3) or (4) and (5) (including those provisions as applied for the purposes of attachment of allowances orders by regulation 44(7)), regulation 39(6) and (7) or regulation 40 and—
+
+- (a) he fails without reasonable excuse to notify the other person in accordance with the provision concerned, or
+- (b) in notifying the other person in purported compliance with the provision concerned he makes a statement which he knows to be false in a material particular or recklessly makes a statement which is false in a material particular.
+
+(5) A person guilty of an offence under paragraph (1)(a) or (4)(a) shall be liable on summary conviction to a fine not exceeding level 2 on the standard scale.
+
+(6) A person guilty of an offence under paragraph (1)(b), (2) or (4)(b) shall be liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+
+### 57. Miscellaneous provisions[^key-025c56ae586a4d8acc6398a3ef19edc7]
+
+(1) Any matter which could be the subject of an appeal under section 16 of the Act or regulations under section 24 of the Act[^key-6d69998250d19223d66d87a3fbc3efb3] may not be raised in proceedings under this Part.
+
+(2) If a liability order has been made and by virtue of—
+
+- (a) a notification which is given by the billing authority or an authorised person[^key-6deea69be9501baca285699d9ee54f3e] under regulation 24(2) or (5), 25(5) or (8), 28(3) or (4) or 31(2), or paragraph 9(3) or 10(2)(a) of Schedule 1, or
+- (b) section 31(4) of the Act applying in any case,
+
+any part of the amount mentioned in regulation 34(5)(a)[^key-462f0ca6a43a3275061abe165f2e188d] in respect of which the order was made would (if paid) fall to be repaid or credited against any subsequent liability, that part shall be treated for the purposes of this Part as paid on the day the notification is given or the amount in substitution is set under section 31(2) of the Act and accordingly as no longer outstanding.
+
+(3) If, after a warrant is issued or term of imprisonment is fixed under regulation 47(3), and before the term of imprisonment has begun or been fully served, a billing authority gives such a notification as is mentioned in paragraph (2)(a) in the case in question, or sets an amount in substitution so that section 31(4) of the Act applies in the case in question, it shall forthwith notify accordingly the designated officer[^key-5e6d5f198c11781b430f7260849eb5bc] *(Extent: E)*[^key-ca74b0314443c227ce7db4a54d41909a] for the court *(Extent: E)* which issued the warrant and (if the debtor is detained) the governor or keeper of the prison or place where he is detained or such other person as has lawful custody of him.
+
+(4) If the debtor is treated as having paid an amount under paragraph (2) on any day, and
+
+- (a) that day falls after the completion of the service of a term of imprisonment imposed under regulation 47 in respect of the amount he is treated as having paid, or
+- (b) the debtor is serving a term of imprisonment imposed under regulation 47 on that day and the amount he is treated as having paid exceeds the amount of any part payment which, if made, would cause the expiry of the term of imprisonment pursuant to paragraph (7)(b) of that regulation on that day,
+
+the amount mentioned in sub-paragraph (a) or excess mentioned in sub-paragraph (b) shall be paid to the debtor or credited against any subsequent liability of his, as the debtor requires.
+
+## PART VII — Miscellaneous
+
+### 58. Outstanding liabilities on death[^key-da4a0ae208a9b6beef5e49d468c5eb45]
+
+(1) This regulation applies where a person dies and at any time before his death—
+
+- (a) he was (or is alleged to have been) liable to pay council tax under section 6, 7 or 8 of the Act, or
+- (b) he was (or is alleged to have been) so liable, as spouse or civil partner; *(Extent: E)*[^key-f519e3c323b1828091c2cb123d3b32e0] under section 9 of the Act, or
+- (c) a penalty was imposed on him under any of sub-paragraphs (1) to (3) of paragraph 1 of Schedule 3 to the Act or under any of regulations 11 to 13 of the Detection of Fraud Regulations *(Extent: E)*[^key-584aba059f715df5ac5e200efbdbe058] or any of regulations 13, 14, 16 or 17 of the detection of fraud regulations *(Extent: W)*[^key-24156a4dd41bb3d95b9ec5d3a9a258b1].
+
+(2) Where—
+
+- (a) before the deceased’s death a sum has become payable by him under Part V or by way of relevant costs in respect of one of the matters mentioned in paragraph (1) but has not been paid, or
+- (b) after the deceased’s death a sum would, but for his death (and whether or not on the service of a notice), become payable by him under Part V in respect of one of those matters,
+
+his executor or administrator shall, subject to paragraph (3) and to the extent that it is not in excess of the deceased’s liability under the Act (including relevant costs payable by him) in respect of the matter, be liable to pay the sum and may deduct out of the assets and effects of the deceased any payments made (or to be made).
+
+(3) Where paragraph (2)(b) applies, the liability of the executor or administrator does not arise until the service on him of a notice requiring payment of the sum.
+
+(4) Where before the deceased’s death a sum in excess of his liability under the Act (including relevant costs payable by him) in respect of one of the matters mentioned in paragraph (1) has been paid (whether the excess arises because of his death or otherwise) and has not been repaid or credited under Part V, his executor or administrator shall be entitled to the sum.
+
+(5) Costs are relevant costs for the purposes of paragraphs (2) and (4) if—
+
+- (a) an order or warrant (as the case may be) was made by the court in respect of them before the deceased’s death under regulation 34(7)(b) , 36A(5)(b) *(Extent: E)*[^key-7814a52f9adb706bef6c76ff5ae66f12] or (8), 47(4)(b) or 50(3)(c)(ii), or
+- (b) they are charges which may be recovered pursuant to the Taking Control of Goods (Fees) Regulations 2014[^key-af61f3d5fe130c12105c3b4c8f138e36].
+
+(6) A sum payable under paragraph (2) shall be enforceable in the administration of the deceased’s estate as a debt of the deceased and accordingly—
+
+- (a) no liability order need be applied for in respect of it after the deceased’s death under regulation 34, and
+- (b) the liability of the executor or administrator is a liability in his capacity as such.
+
+(7) Regulation 57(1) applies to proceedings to enforce a liability arising under this regulation as it applies to proceedings under Part VI.
+
+(8) Insofar as is relevant to his liability under this regulation in the administration of the deceased’s estate, the executor or administrator may institute, continue or withdaw proceedings (whether by way of appeal under section 16 of the Act or otherwise).
+
+Michael Heseltine
+
+Secretary of State for the Environment
+
+10th March 1992
+
+David Hunt
+
+Secretary of State for Wales
+
+10th March 1992
+
+## SCHEDULE 1 — COUNCIL TAX INSTALMENT SCHEMES
+
+Regulation 21
+
+### PART I — PAYMENT OF THE AGGREGATE AMOUNT: MONTHLY INSTALMENTS
+
+**1.**[^key-1d576109ff66fe39834cc0773191e1b0] This Part does not apply where, as regards the relevant year, instalments are payable in accordance with a Part II scheme.
+
+**2.**[^key-e6f12c50258473761eac4ae86e9ad0c3] (1) This paragraph applies where the demand notice is issued on or before 31st December in the relevant year, but has effect subject to paragraph 3 below.
+
+(2) The aggregate amount is to be payable in monthly instalments.
+
+(3) Subject to[^key-d64de4f9bd3c5388f25421455ae0ae39] sub-paragraphs (3A) and (7)[^key-9d71a355553ec78c70d02e614338924f], The number of such instalments—
+
+- (a) where the notice is issued before the beginning of the relevant year or at any time in the period beginning on the first day of that year and ending on 30th April[^key-f746ff077d5c77580a4fdb6fe11f7a5e] of that year, shall be 10;
+- (b) where the notice is issued on or after 1st May[^key-ca50d103c94f920d1861856e1755ebd6] in the relevant year, shall be one less than the number of whole months remaining in the relevant year after the issue of the notice.
+
+*Extent: E*
+
+(3A)[^key-8ffedc18c91edef24cecdf5bb5142671] This sub-paragraph applies where a notice to which paragraph (1) of regulation 20 applies[^key-c0d484970d7a3f7688bbefe931321173] has been issued in accordance with regulation 21(1C).
+
+- (a) Subject to sub-paragraph (7), the number of such instalments—
+  - (i) where the notice is issued before the beginning of the relevant year or at any time in the period beginning on the first day of that year and ending on 15th April of that year, shall be 12;
+  - (ii) where the notice is issued on or after 16th April in the relevant year, shall be the number of whole months remaining in the relevant year after the issue of the notice.
+
+(3B (Extent: E)) Where the aggregate amount was calculated by reference to a determination under section 11A(3), (4) or (4A) of the Act (discounts: special provision for England) and the level of discount varies over the course of the relevant year, the monthly instalments do not need to be equal amounts but shall be as specified in the notice. *(Extent: E)*
+
+*Extent: W*
+
+(3A)[^key-5a11f441500b72ba37d56261cabe22db] This sub-paragraph applies where a notice to which paragraph (1) of regulation 20 has been issued in accordance with regulation 21(1C).
+
+- (a) Subject to sub-paragraph (7), the number of such instalments—
+  - (i) where the notice is issued before the beginning of the relevant year or at any time in the period beginning on the first day of that year and ending on 15th April of that year, shall be 12;
+  - (ii) where the notice is issued on or after 16th April in the relevant year, shall be the number of whole months remaining in the relevant year after the issue of the notice.
+
+(3B (Extent: W)) Where the aggregate amount was calculated by reference to a determination under section 11A(3), (4) or (4A) of the Act (discounts: special provision for England) and the level of discount varies over the course of the relevant year, the monthly instalments do not need to be equal amounts but shall be as specified in the notice. *(Extent: W)*
+
+(4) The months in which the instalments are payable must be uninterrupted, but subject to that are to be such months in the relevant year as are specified in the notice; and the instalments are to be payable on such day in each month as is so specified.
+
+(5) If the aggregate amount divided by the number of instalments gives an amount which is a multiple of a pound, the instalments shall be of that amount.
+
+(6) If the aggregate amount so divided would not give such an amount, all but the first instalment shall be of an amount equal to A and the first instalment shall be of an amount equal to B, where
+
+[formula: see source](https://www.legislation.gov.uk/uksi/1992/613)
+
+- rounded up or down (as the case may be) to the nearest pound,
+- B = C − (D − 1) × A),
+- C is equal to the aggregate amount, and
+- D is equal to the number of instalments to be paid.
+
+(7)[^key-9a357fe9849ec71ce8c45e1e2ece3cb0] If the calculation of instalments in accordance with sub-paragraph (6) would produce an amount for an instalment of less than £5, the demand notice may require that the amount which, but for this sub-paragraph, would be the second instalment shall be added to the amount which, but for this sub-paragraph, would be the first instalment, and the number of instalments shall be reduced by one.
+
+**3.**[^key-a361fbb56a48ae4fc23bec779333d9c1] (1) If amounts calculated in accordance with paragraph 2 would produce an amount for an instalment of less that £5 notwithstanding any adjustment of instalments made in accordance with paragraph 2(7)[^key-34655188cc0f8a3fdf3d264defc006e8], the demand notice may require the aggregate amount to be paid—
+
+- (a) where the aggregate amount is less than £10, in a single instalment payable on such day as is specified in the notice, or
+- (b) where the aggregate amount is equal to or greater than £10, by a number of monthly instalments equal to the greatest whole number by which £5 can be multiplied to give a product which is less than or equal to the aggregate amount.
+
+(2) The months in which the instalments under sub-paragraph (1)(b) are payable must be uninterrupted but subject to that are to be such of the months in which, but for this paragraph, the instalments would have been payable under paragraph 2 as are specified in the demand notice; and the instalments are to be payable on such day in each month as is so specified.
+
+(3) Paragraph 2(5), (6) and (7)[^key-754db315935f1857dad4dc5fe285b194] applies to instalments under sub-paragraph (1)(b) as it applies to instalments under paragraph 2.
+
+**4.**[^key-5f3b7ab4dee890a4b9f973123f195ddc] Where the demand notice is issued between 1st January and 31st March in the relevant year, the aggregate amount is to be payable in a single instalment on such day as is specified in the notice.
+
+**4A.**[^key-1dcf4a901e303f64f1c7deee991bebb7] The demand notice shall be issued at least 14 days before the day on which the first instalment is due under it.
+
+**5.**[^key-6f232331774f61d522c58080e68cf3bb] In this Part “the aggregate amount” means the amount referred to in regulation 20(2).
+
+### PART II — PAYMENT OF THE AGGREGATE AMOUNT: AUTHORITIES' INSTALMENT SCHEMES
+
+**6.**[^key-29a5df68e22085bbfe6d74c34936a375] (1) Subject to sub-paragraph (2), this Part applies where the demand notice is issued before or during the relevant year.
+
+(2) This Part does not apply where, as regards the relevant year, instalments are payable under Part I of this Schedule.
+
+(3) In this Part “the aggregate amount” means the amount referred to in regulation 20(2).
+
+**7.**[^key-cb0cc9eb051069363d79bbd8eca4439f] A scheme made by a billing authority for the payment by instalments of the aggregate amount shall comply with the following provisions of this Part.
+
+**8.**[^key-8cc767ec7413fd7ad11e473c09f76558] (1) The scheme shall be expressed to have effect for all financial years commencing with the financial year for which it first has effect unless varied or revoked.
+
+(2) The scheme shall provide—
+
+- (a) that no variation shall affect the operation of the scheme as regards a particular financial year unless the variation is made before the day on which the authority first sets an amount for the year under section 30 of the Act; and
+- (b) that it may not be revoked later than the 31st December immediately preceding the financial year from which it is desired that it should cease to have effect.
+
+(3) The scheme shall provide for its application as regards chargeable dwellings in the authority’s area in respect of which the aggregate amount as regards the dwelling and the relevant year falls or, in the opinion of the authority, will fall to be paid by a person by whom an amount by way of rent for that dwelling for periods in that year is or, in the opinion of the authority, will be payable to the authority.
+
+(4) Without prejudice to regulation 21(5), the scheme may provide for its continued application, as regards any period in the relevant year in respect of which rent is not so payable where such period follows a period in respect of which rent is so payable.
+
+(5) The scheme shall provide—
+
+- (a) for the aggregate amount to be payable in instalments;
+- (b) subject to sub-paragraph (c), for the number of instalments to be not less than 10 nor more than 52;
+- (c) for the first instalment to be required to be paid no earlier than 14 days after [^key-005eaff83662f692838297392df2a366]... the day on which the demand notice was issued and for the last instalment to be required to be paid before the end of the relevant year but, subject to that, for instalments to be payable on such day in each interval as is specified in the scheme;
+- (d) for the determination of the amount of any instalment where the aggregate amount divided by the number of instalments does not give an amount which is a multiple of 10 pence.
+
+(6) The scheme shall provide that where instalments fall to be adjusted in the circumstances mentioned in paragraph 10 of Part III below, the remaining instalments mentioned in sub-paragraph (2) of that paragraph are to be calculated as if references in this Part to the aggregate amount and to instalments were references to the aggregate amount of the remaining instalments and to the remaining instalments respectively.
+
+### PART III — CESSATION AND ADJUSTMENT OF INSTALMENTS
+
+**9.**[^key-38eaccbf5d702ca9729c0fbb84237a0e] (1) This paragraph applies where the demand notice has been served on a liable person by a billing authority and after its issue the person ceases to be the liable person in respect of the chargeable dwelling and the period to which the notice relates.
+
+(2) Subject to sub-paragraphs (5) and (6), no payments of instalments falling due after the relevant day are payable under the notice.
+
+(3) The billing authority shall on the relevant day or as soon as practicable after that day serve a notice on the liable person stating the amount of his liability in respect of the council tax to which the demand notice relates as it has effect for the period in the relevant year up to the day on which he ceased to be so liable.
+
+(4) If the amount stated under sub-paragraph (3) is less than the aggregate amount of any instalments which have fallen due on or before the relevant day, the difference shall go in the first instance to discharge any liability to pay the instalments (to the extent that they remain unpaid); and any residual overpayment—
+
+- (a) shall be repaid if the liable person so requires, or
+- (b) in any other case shall (as the billing authority determines) either be repaid or credited against any subsequent liability of the person to make a payment in respect of any council tax of the authority.
+
+(5) If the amount stated under sub-paragraph (3) is greater than the aggregate amount of any instalments which have fallen due on or before the relevant day, the difference between the two shall be due from the liable person to the billing authority on the expiry of such period (being not less than 14 days) after the day of issue of the notice served under that sub-paragraph as is specified in it.
+
+(6) If this paragraph applies in relation to a demand notice, and after the person ceases to be liable to pay an amount in respect of council tax for the relevant year he again becomes liable to make such a payment, a further notice shall be served on the liable person requiring payments in respect of the council tax as it has effect for the period in the year after he becomes so liable; and regulations 19 to 23 (and, so far as applicable, this Schedule) shall apply to the further notice with respect to that period and the sums payable by the liable person with respect to that period, as if it were a different demand notice.
+
+(7) In this paragraph “the relevant day” means the day on which the person ceases to be liable to make payments in respect of council tax.
+
+**10.**[^key-bd3315434f2c99b6cc6edbf719273d82] (1) This paragraph applies where the demand notice has been served on a liable person by a billing authority, the event mentioned in paragraph 9(1) has not occurred in relation to the notice, and it comes to the attention of the authority that one or more of the following events has occurred—[^key-9c304e8a78e7d03fdf9ccef914af5cb9]
+
+- (a) the notice was so served by reference to an amount set by the billing authority for the relevant year and after the issue of the notice the authority sets a different amount in substitution for that amount under section 31 of the Act;
+- (b) the notice was so served on the assumption that, as regards any day in the period to which the notice relates, the dwelling concerned would be or was a chargeable dwelling and the dwelling was not or has ceased to be a chargeable dwelling as regards any day in that period;
+- (c) the notice was so served on the assumption that, as regards any day in the period to which the notice relates, the dwelling concerned would be or was in a particular valuation band and the dwelling was not or has ceased to be in that band as regards any day in that period;
+- (d) the notice was so served on the assumption that, as regards any day in the period to which the notice relates, the person would be or was entitled to a discount and he was not or has ceased to be so entitled or was or is entitled to a discount of a smaller or larger[^key-9a56dde434e89a5da74cef3197af10db] amount than had been assumed;
+- (e) the notice was so served on the assumption that, as regards any day in the period to which the notice relates, the person was not or would not be entitled to a discount and he was or is so entitled;
+- (ea)[^key-48b166bde268e40b594059b47f556e48] the notice was so served on the assumption that, as regards any day in the period to which the notice relates, the person would be or was liable to a premium and was not or has ceased to be so liable or was or is liable to a premium of a smaller or larger amount than had been assumed;
+- (eb) the notice was so served on the assumption that, as regards any day in the period to which the notice relates, the person was not or would not be liable to a premium and was or is so liable;
+- (f) the notice was so served on the assumption that, as regards any day in the period to which the notice relates, the person was or would be liable to pay an amount in respect of council tax and, by virtue of regulations under section 13 of the Act, he was or is liable to pay a greater or lesser amount than the amount stated in the notice; [^key-daf0d98757d544f2cb90af27069dae6e]...
+- (g) the notice was so served on the assumption that, as regards any day in the period to which the notice relates, the person was or would be entited to a reduction in the amount he is liable to pay in respect of council tax under regulations made under section 138(1) of the Social Security Administration Act 1992[^f00030], and he was or is allowed a larger or smaller reduction than had been so assumed.
+- (h)[^key-a545a450429f78ee0a5a7482fdfa5142] the notice was so served on the assumption that, as regards any day in the period to which the notice relates, the person was not or would not be entitled to such a reduction as is mentioned in paragraph (g), and he was or is so entitled.
+
+(2) The billing authority shall on or as soon as practicable after the relevant day—
+
+- (a) adjust the instalments (if any) payable on or after the adjustment day (“the remaining instalments”) so that they accord with the amounts mentioned in sub-paragraph (4); and
+- (b) serve a notice on the liable person which is to state—
+  - (i) the amount of the revised estimate mentioned in sub-paragraph (3); and
+  - (ii) the amount of any remaining instalments.
+
+(3) The revised estimate is the revised estimate of the billing authority of the amount that the person is liable to pay in respect of council tax for the relevant year, made on the assumptions mentioned in regulation 20(3) and as if the notice mentioned in that provision were the notice referred to in sub-paragraph (2) above.
+
+(4) Subject to sub-paragraph (6A),[^key-5e3f21ff6dc14ccd0b6d63239b27fa69] The aggregate amount of the remaining instalments payable shall be equal to the amount by which the revised estimate mentioned in sub-paragraph (3) exceeds the aggregate amount of the instalments payable under the demand notice before the adjustment day; and where instalments are payable in accordance with Part I of this Schedule, the amount of each remaining instalment (if there are more than one) shall be calculated in accordance with that Part, as if references in that Part to the aggregate amount and to instalments were references to the aggregate amount of the remaining instalments and to the remaining instalments respectively.
+
+(5) If the revised estimate mentioned in sub-paragraph (3) exceeds the aggregate amount of the instalments payable under the demand notice before the adjustment day, but no instalments are payable under it on or after that day, the amount of the excess shall be due from the liable person to the billing authority in a single instalment on the expiry of such period (being not less than 14 days) after the day of issue of the notice served under sub-paragraph (2) as is specified in it; and if in any case the revised estimate is less than the aggregate amount of the instalments payable before the adjustment day, any overpayment—
+
+- (a) shall be repaid if the liable person so requires, or
+- (b) in any other case shall (as the billing authority determines) either be repaid or credited against any subsequent liability of the person to make a payment in respect of any council tax of the authority.
+
+(6) In calculating the aggregate amount of instalments payable under a demand notice before the adjustment day for the purposes of sub-paragraphs (4) and (5) in consequence of the making of a revised estimate under sub-paragraph (3)—
+
+- (a) there shall count as so payable any amount in respect of such instalments which has been treated as paid to the authority under section 31(3) of the Act or has been credited under section 31(4) of the Act or (on the occasion of the making of a previous revised estimate under sub-paragraph (3)) under sub-paragraph (5) above; and
+- (aa)[^key-770843a22d9cd02a9ed09bade456bebe] there shall count as so payable any amount paid to the authority before the relevant day with respect to an instalment, or part of an instalment, which is payable on or after the adjustment day; and; and
+- (b) there shall not count as so payable any amount in respect of such instalments which has been repaid under that section or under sub-paragraph (5) above.
+
+(6A)[^key-5705890ece6526e04386d756fd852d8e] For the purposes of sub-paragraph (4), the aggregate amount of the remaining instalments payable shall be reduced by the amount of any payment to the authority on or after the relevant day and before the adjustment day with respect to an instalment, or part of an instalment, which is payable on or after the adjustment day.
+
+(7) Where a notice has been given under sub-paragraph (2), in the operation of this paragraph as respects any further notice that may fall to be given under it, references in this paragraph to the demand notice and to amounts in respect of instalments payable under it shall be construed (so far as the context permits) as references to the demand notice, and amounts in respect of instalments payable under the notice, as from time to time previously adjusted under this paragraph.
+
+(8) In this paragraph
+
+- “the adjustment day” means the day 14 days after the day the notice served under sub-paragraph (2) is issued; and
+- “the relevant day” means the day with respect to which the assumption mentioned in sub-paragraph (1) is wrong or the day the amount set in substitution mentioned in sub-paragraph (1)(a) is so set.
+
+**11.**[^key-bff705ecc8d132b3e7db234fb3e033d2] More than one adjustment of amounts paid or payable under a demand notice may be made under this Part as the circumstances require.
+
+## SCHEDULE 2 — FORMS OF LIABILITY ORDER AND OF WARRANT OF COMMITMENT[^key-1558a128ff7c0f7ff0a831aa43a86aed]
+
+. . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 3[^key-382e54dbbfe5bf3d51d15aeab89899da][^key-8feb750efddd4a88521c9de6dab54c2a]
+
+Regulation 37
+
+[^key-ca5f9df2a3cd2b706ad3fd9a190ca604]FORM OF ATTACHMENT OF EARNINGS ORDER
+
+[image: see source](https://www.legislation.gov.uk/uksi/1992/613/images/uksi_19920613_en_009)
+
+[^key-8feb750efddd4a88521c9de6dab54c2a]
+
+> **REGULATIONS 32 AND 38 TO 42 OF, AND SCHEDULE 4 TO, THE COUNCIL TAX (ADMINISTRATION AND ENFORCEMENT) REGULATIONS 1992**
+>
+> **32. Interpretation and application of Part VI**
+>
+> (1) In this Part—
+>
+> - “attachment of allowances order” means an order under regulation 44;
+> - “attachment of earnings order” means an order under regulation 37;
+> - “charging order” means an order under regulation 50;
+> - “debtor” means a person against whom a liability order has been made;
+> - “earnings” means sums payable to a person—
+>   - (a) by way of wages or salary (including any fees, bonus, commission, overtime pay or other emoluments payable in addition to wages or salary or payable under a contract of service); or
+>   - (b) by way of statutory sick pay,
+>
+>   but, in so far as the following would otherwise be treated as earnings, they shall not be treated as such—
+>
+>   - (i) sums payable by any public department of the Government of Northern Ireland or of a territory outside the United Kingdom;
+>   - (ii) pay or allowances payable to the debtor as a member of Her Majesty’s forces;
+>   - (iii) allowances or benefit payable under the Social Security Acts or universal credit *(Extent: W)*[^key-1c011bfcc56440c044a2011b61acd9f0];
+>   - (iiia) universal credit; *(Extent: E)*[^key-d23cf85acf64605da5b19f18f5c0b465]
+>   - (iv) allowances payable in respect of disablement or disability; and
+>   - (vi) wages payable to a person as a seaman, other than wages payable to him as a seaman of a fishing boat;
+> - “the[^key-f5812ea72a233c20435d940a97ba85ff] Income Support Regulations” means the Council Tax (Deductions from Income Support) Regulations 1993;
+> - “liability order” means an order under regulation 34; and
+> - “net earnings” in relation to an employment means the residue of earnings payable under the employment after deduction by the employer of—
+>   - (a) income tax;
+>   - (b) primary Class 1 contributions under Part I of the Social Security Contributions and Benefits Act 1992[^f00032] and
+>   - (c) amounts deductible under any enactment, or in pursuance of a request in writing by the debtor, for the purposes of a superannuation scheme, namely any enactment, rules, deed or other instrument providing for the payment of annuities or lump sum—
+>     - (i) to the persons with respect to whom the instrument has effect on their retirement at a specified age or on becoming incapacitated at some earlier age, or
+>     - (ii) to the personal representatives or the widows, relatives or dependants of such persons on their death or otherwise,
+>
+>     whether with or without any further or other benefits ; and where an order under regulation 32 (making of attachment of earnings order) of the Community Charges (Administration and Enforcement) Regulations 1989 made before the making of the attachment of earnings order concerned remains in force,[^key-a17cf9e552a8f485ac376b25445d4ae5]
+>   - (d) any amount required to be deducted in accordance with that order
+>
+> (2) In sub-paragraph (v) of the definition of “earnings” in paragraph (1) above expressions used in the Merchant Shipping Act 1894[^f00033] have the same meanings as in that Act.
+>
+> (3) Regulations 33 to 53 apply for the recovery of a sum which has become payable to a billing authority under Part V and which has not been paid; but their application in relation to a sum for which persons are jointly and severally liable under that Part is subject to the provisions of regulation 54 (joint and several liability).
+>
+> (4) References in this Part to a sum which has become payable and which has not been paid include references to a sum forming part of a larger sum which has become payable and the other part of which has been paid.
+>
+> **38. Deductions under attachment of earnings order**
+>
+> (1) Subject to paragraphs (2) and (3), the sum to be deducted by an employer under an attachment of earnings order on any pay-day shall be—
+>
+> - (a) where the debtor’s earnings from the employer are payable weekly, a sum equal to the appropriate percentage of the net earnings otherwise payable on that pay-day; and for this purpose the appropriate percentage is the percentage (or percentages) specified in column 2 of Table A in Schedule 4 in relation to the band in column 1 of that Table within which the net earnings fall;
+> - (b) where his earnings from the employer are payable monthly, a sum equal to the appropriate percentage of the net earnings otherwise payable on that pay-day; and for this purpose the appropriate percentage is the percentage (or percentages) specified in column 2 of Table B in Schedule 4[^key-eebb785e3c9af217da748f24eb5b8c3f] in relation to the band in column 1 of that Table within which the net earnings fall;
+> - (c) where his earnings from the employer are payable at regular intervals of a whole number of weeks or months, the sum arrived at by—
+>   - (i) calculated what would be his weekly or monthly net earnings by dividing the net earnings payable to him by the employer on the pay-day by that whole number (of weeks or months, as the case may be),
+>   - (ii) ascertaining the percentage or percentages specified in column 2 of Table A (if the whole number is of weeks) or of Table B (if the whole number is of months) in Schedule 4 opposite the band in column 1 of that Table within which the notional net earnings calculated under paragraph (i) fall, and
+>   - (iii) calculating the sum which equals the appropriate percentage (or percentages) of the notional net earnings for any of those weeks or months and multiplying that sum by the whole number of weeks or months, as appropriate.
+>
+> (2) Where paragraph (1) applies and the amount to be paid to the debtor on any pay-day includes an advance in respect of future pay, the sum to be deducted on that pay-day shall be the aggregate of the amount which would otherwise fall to be deducted under paragraph (1) and—
+>
+> - (a) where the amount advanced would otherwise have been paid on a single pay-day, the sum which would have been deducted on that pay-day in accordance with paragraph (1) if the amount advanced had been[^key-498ddbf8c1838d4c4262b9da64e6ecd0] the amount of net earnings on that day; or
+> - (b) where the amount advanced would otherwise have been paid on more than one pay-day, the sums which would have been deducted on each of the relevant pay-days in accordance with paragraph (1) if—
+>   - (i) an equal proportion of the amount advanced had been paid[^key-9315d4aaf22c82992667fa2c85d26c20] on each of those days; and
+>   - (ii) the net earnings of the debtor on each of those days had been an amount equal to that proportion.
+>
+> (3) Where the amount payable to the debtor on any pay-day is reduced by reason of an earlier advance of pay [^key-1e89f464ac72c24801027155c94e1c42]..., the net earnings of the debtor on that day shall, for the purposes of paragraph (1), be the amount defined in regulation 32(1) less the amount of the deduction.
+>
+> (4) Subject to paragraphs (5) and (6), where the debtor’s earnings from the employer are payable at regular intervals other than at intervals to which paragraph (1) applies, the sum to be deducted on any pay-day shall be arrived at by—
+>
+> - (a) calculating what would be his daily net earnings by dividing the net earnings payable to him by the employer on the pay-day by the number of days in the interval,
+> - (b) ascertaining the percentage (or percentages)[^key-99db32b957794e9c3778085ad8a3c9a9] specified in column 2 of Table C in Schedule 4 opposite the band in column 1 of that Table within which the notional net earnings calculated under sub-paragraph (a) fall, and
+> - (c) calculating the sum which equals the appropriate percentage (or percentages) of the notional daily net earnings and multiplying that sum by the number of days in the interval.
+>
+> (5) Where the debtor’s earnings are payable as mentioned in paragraph (4), and the amount to be paid to the debtor on any pay-day includes an amount advanced in respect of future pay, the amount of the debtor’s notional net earnings under sub-paragraph (a) of that paragraph shall be calculated in accordance with the formula—
+>
+> [formula: see source](https://www.legislation.gov.uk/uksi/1992/613)
+>
+> where
+>
+> - A is the amount of net earnings payable to him on that pay-day (exclusive of the amount advanced);
+> - B is the amount advanced;
+> - C is the number of days in the period for which the amount of net earnings is payable; and
+> - D is the number of days in the period for which, but for the agreement to pay in advance, the amount advanced would have been payable.
+>
+> (6) Paragraph (3) applies in relation to paragraph (4) as it applies in relation to paragraph (1).
+>
+> (7) Where earnings are payable to a debtor by the employer by 2 or more series of payments at regular intervals—
+>
+> - (a) if some or all of the intervals are of different lengths—
+>   - (i) for the purpose of arriving at the sum to be deducted, whichever of paragraphs (1), (2), (3), (4), (5) and (6) is appropriate shall apply to the series with the shortest interval (or, if there is more than one series with the shortest interval, such one of those series as the employer may choose), and
+>   - (ii) in relation to the earnings payable in every other series, the sum to be deducted shall be 20 per cent. of the net earnings or, where on any pay-day an amount advanced is also paid, 20 per cent. of the aggregate of the net earnings and the amount advanced;
+> - (b) if all of the intervals are of the same length, whichever of paragraphs (1), (2), (3), (4), (5) and (6) is appropriate shall applly to such series as the employer may choose and sub-paragraph (a)(ii) shall apply to every other series,
+>
+> and paragraph (3) shall apply in relation to sub-paragraph (a)(ii) above as it applies in relation to paragraph (1).
+>
+> (8) Subject to paragraphs (9) and (10), where the debtor’s earnings from the employer are payable at irregular intervals, the sums to be deducted on any pay-day shall be arrived at by—
+>
+> - (a) calculating what would be his daily net earnings by dividing the net earnings payable to him by the employer on the pay-day—
+>   - (i) by the number of days since earnings were last payable by the employer to him, or
+>   - (ii) if the earnings are the first earnings to be payable by the employer to him with respect to the employment in question, by the number of days since he began the employment;
+> - (b) ascertaining the percentage (or percentages) specified in column 2 of Table C of Schedule 4 opposite the band in column 1 of that Table within which the notional net earnings calculated under sub-paragraph (a) fall; and
+> - (c) calculating the sum which equals the appropriate percentage (or percentages) of the daily net earnings and multiplying that sum by the same number as that of the divisor for the purposes of the calculation mentioned in sub-paragraph (a).
+>
+> (9) Where on the same pay-day there are payable to the debtor by the employer both earnings payable at regular intervals and earnings payable at irregular intervals, for the purpose of arriving at the sum to be deducted on the pay-day under the foregoing provisions of this regulation all the earnings shall be aggregated and treated as earnings payable at the regular interval.
+>
+> (10) Where there are earnings payable to the debtor by the employer at regular intervals on one pay-day, and earnings are payable by the employer to him at irregular intervals on a different pay-day, the sum to be deducted on each of the pay-days on which the earnings which are payable at irregular intervals are so payable shall be 20 per cent. of the net earnings payable to him on the day.
+>
+> **39. Attachment of earnings orders: ancillary powers and duties of employers and others served**
+>
+> (1) An employer who deducts and pays amounts under an attachment of earnings order may, on each occasion that he makes such a deduction, also deduct from the debtor’s earnings the sum of one pound towards his administrative costs.
+>
+> (2) An employer who deducts and pays amounts under an attachment of earnings order shall, in accordance with paragraph (3), notify the debtor in writing of—
+>
+> - (a) the total amount of the sums (including sums deducted under paragraph (1)) deducted under the order up to the time of the notification; or
+> - (b) the total amount of the sums (including sums deducted under paragraph (1)) that will fall to be so deducted after that time.
+>
+> (3) A notification under paragraph (2) must be given at the time that the pay statement given by the employer to the debtor next after a deduction has been made is so given, or if no such statements are usually issued by the employer, as soon as practicable after a deduction has been made.
+>
+> (4) A person on whom a copy of an attachment of earnings order has been served shall, in accordance with paragraph (5), notify in writing the authority which made the order if he does not have the debtor against whom it was made in his employment or the debtor subsequently ceases to be in his employment.
+>
+> (5) A notification under paragraph (4) must be given within 14 days of the day on which the copy of the order was served on him or the debtor ceased to be in his employment (as the case may be).
+>
+> (6) While an attachment of earnings order is in force, any person who becomes the debtor’s employer and knows that the order is in force and by what authority it was made shall notify that authority in writing that he is the debtor’s employer.
+>
+> (7) A notification under paragraph (6) must be given within 14 days of the day on which the debtor became the person’s employee or of the day on which the person first knows that the order is in force and the identity of the authority by which it was made, whichever is the later.
+>
+> **40. Attachment of earnings orders: duties of debtors**
+>
+> (1) While an attachment of earnings order is in force, the debtor in respect of whom the order has been made shall notify in writing the authority which made it of each occasion when he leaves an employment or becomes employed or re-employed, and (in a case where he becomes so employed or re-employed) shall include in the notification a statement of—
+>
+> - (a) his earnings and (so far as he is able) expected earnings from the employment concerned,
+> - (b) the deductions and (so far as he is able) expected deductions from such earnings—
+>   - (i) in respect of income tax;
+>   - (ii) in respect of primary Class 1 contributions under Part I of the Social Security Contributions and Benefits Act 1992;
+>   - (iii) for the purposes of such a superannuation scheme as is mentioned in the definition of “net earnings” in regulation 32(1),
+> - (c) the name and address of the employer, and
+> - (d) his work or identity number in the employment (if any).
+>
+> (2) A notification under paragraph (1) must be given within 14 days of the day on which the debtor leaves or commences (or recommences) the employment (as the case may be), or (if later) the day on which he is informed by the authority that the order has been made.
+>
+> **41. Attachment of earnings orders: ancillary powers and duties of authority**
+>
+> (1) Where the whole amount to which an attachment of earnings order relates has been paid (whether by attachment of earnings or otherwise), the authority by which it was made shall give notice of the fact to any person who appears to it to have the debtor in his employment and who has been served with a copy of the order.
+>
+> (2) The authority by which an attachment of earnings order was made may, on its own account or on the application of the debtor or an employer of the debtor, make an order discharging the attachment of earnings order; and if it does so it shall give notice of that fact to any person who appears to it to have the debtor in his employment and who has been served with a copy of the order.
+>
+> (3) If an authority serves a copy of an attachment of earnings order in accordance with regulation 37(3), it shall (unless it has previously done so) also serve a copy of the order on the debtor.
+>
+> **42. Priority as between orders[^key-3f498a589810d0bd31a61a58b9bd61f0]**
+>
+> (1) Where an employer would, but for this paragraph, be obliged to make deductions on any pay-day under more than one attachment of earnings order, he shall[^key-0b19b559afdddefbf86297a6bd305934]
+>
+> - (a) deal with the orders according to the respective dates on which they were made, disregarding any later order until an earlier one has been dealt with; and
+> - (b) deal with any later order as if the earnings to which it relates were the residue of the debtor’s earnings after the making of any deduction to comply with any earlier order.
+>
+> (2) Subject to paragraph (3), where an employer would, but for this paragraph, be obliged to comply with one or more attachment of earnings order and with one or more deduction order, he shall deal with the orders according to the respective dates on which they were made in like manner as under paragraph (1).
+>
+> (3) An employer shall not deal with a deduction order made either wholly or in part in respect of the payment of a judgment debt or payments under an administration order until he has dealt with the attachment of earnings order or orders and any other deduction order.
+>
+> (4) In this regulation “deduction order” means an order under the Attachment of Earnings Act 1971 or section 31(2) (deductions from earnings orders) of the Child Support Act 1991.
+>
+> **SCHEDULE 4 — DEDUCTIONS TO BE MADE UNDER ATTACHMENT OF EARNINGS ORDER[^M_X_3710f18d-2a7d-43ed-a2b5-d88ec92ac2c5]**
+>
+> TABLE A
+>
+> **DEDUCTIONS FROM WEEKLY EARNINGS**
+>
+> <table>
+> <thead>
+> <tr><th><em>(1)</em></th><th><em>(2)</em></th></tr>
+> <tr><th><em>Net earnings</em></th><th><em>Deduction rate %</em></th></tr>
+> </thead>
+> <tbody>
+> <tr><td>Not exceeding £35</td><td>0</td></tr>
+> <tr><td>Exceeding £35 but not exceeding £65</td><td>3</td></tr>
+> <tr><td>Exceeding £65 but not exceeding £90</td><td>5</td></tr>
+> <tr><td>Exceeding £90 but not exceeding £110</td><td>7</td></tr>
+> <tr><td>Exceeding £110 but not exceeding £175</td><td>12</td></tr>
+> <tr><td>Exceeding £175 but not exceeding £250</td><td>17</td></tr>
+> <tr><td>Exceeding £250</td><td>17 in respect of the first £250 and 50 in respect of the remainder</td></tr>
+> </tbody>
+> </table>
+>
+> TABLE B
+>
+> **DEDUCTIONS FROM MONTHLY EARNINGS**
+>
+> <table>
+> <thead>
+> <tr><th><em>(1)</em></th><th><em>(2)</em></th></tr>
+> <tr><th><em>Net earnings</em></th><th><em>Deduction rate %</em></th></tr>
+> </thead>
+> <tbody>
+> <tr><td>Not exceeding £152</td><td>0</td></tr>
+> <tr><td>Exceeding £152 but not exceeding £260</td><td>3</td></tr>
+> <tr><td>Exceeding £260 but not exceeding £360</td><td>5</td></tr>
+> <tr><td>Exceeding £360 but not exceeding £440</td><td>7</td></tr>
+> <tr><td>Exceeding £440 but not exceeding £700</td><td>12</td></tr>
+> <tr><td>Exceeding £700 but not exceeding £1,000</td><td>17</td></tr>
+> <tr><td>Exceeding £1,000</td><td>17 in respect of the first £1,000 and 50 in respect of the remainder</td></tr>
+> </tbody>
+> </table>
+>
+> TABLE C
+>
+> **DEDUCTIONS FROM DAILY EARNINGS**
+>
+> <table>
+> <thead>
+> <tr><th><em>(1)</em></th><th><em>(2)</em></th></tr>
+> <tr><th><em>Net earnings</em></th><th><em>Deduction rate %</em></th></tr>
+> </thead>
+> <tbody>
+> <tr><td>Not exceeding £5</td><td>0</td></tr>
+> <tr><td>Exceeding £5 but not exceeding £9</td><td>3</td></tr>
+> <tr><td>Exceeding £9 but not exceeding £13</td><td>5</td></tr>
+> <tr><td>Exceeding £13 but not exceeding £16</td><td>7</td></tr>
+> <tr><td>Exceeding £16 but not exceeding £25</td><td>12</td></tr>
+> <tr><td>Exceeding £25 but not exceeding £36</td><td>17</td></tr>
+> <tr><td>Exceeding £36</td><td>17 in respect of the first £36 and 50 in respect of the remainder</td></tr>
+> </tbody>
+> </table>
+
+## SCHEDULE 4 — DEDUCTIONS TO BE MADE UNDER ATTACHMENT OF EARNINGS ORDER[^key-c0ea190a09ca99177c248158f2be3fea][^key-afa5dc8cf0a5209908d92ecbf3f9d979]
+
+Regulation 38
+
+TABLE A
+
+**DEDUCTIONS FROM WEEKLY EARNINGS**
+
+<table>
+<thead>
+<tr><th><em>(1)</em></th><th><em>(2)</em></th></tr>
+<tr><th>Net earnings</th><th>Deduction rate (percentage)</th></tr>
+</thead>
+<tbody>
+<tr><td>Not exceeding £75 <em>(Extent: E.)</em></td><td>0</td></tr>
+<tr><td>Exceeding £75 <em>(Extent: E.)</em> but not exceeding £135 <em>(Extent: E.)</em></td><td>3</td></tr>
+<tr><td>Exceeding £135 <em>(Extent: E.)</em> but not exceeding £185 <em>(Extent: E)</em></td><td>5</td></tr>
+<tr><td>Exceeding £185 <em>(Extent: E)</em> but not exceeding £225 <em>(Extent: E)</em></td><td>7</td></tr>
+<tr><td>Exceeding £225 <em>(Extent: E)</em> but not exceeding £355</td><td>12</td></tr>
+<tr><td>Exceeding £355 but not exceeding £505 <em>(Extent: E)</em></td><td>17</td></tr>
+<tr><td>Exceeding £505 <em>(Extent: E)</em></td><td>17 in respect of the first £505 <em>(Extent: E)</em> and 50 in respect of the remainder</td></tr>
+</tbody>
+</table>
+
+[^key-7aaf32bc6b39988760cd26ea841b57a3][^key-fa52419f4161c00a9e2dec84119ed6e0][^key-1cc53c629052f2504beb70552a0d2b0f][^key-83c58b5a5c019eb2cde9be40f50286be][^key-ee025606c39c7e746b9472dcddf5b0b3][^key-c36e2b47629f10db148ee4ea07ce8a7b]
+
+TABLE B
+
+**DEDUCTIONS FROM MONTHLY EARNINGS**
+
+<table>
+<thead>
+<tr><th><em>(1)</em></th><th><em>(2)</em></th></tr>
+<tr><th>Net earnings</th><th>Deduction rate (percentage)</th></tr>
+</thead>
+<tbody>
+<tr><td>Not exceeding £300 <em>(Extent: E)</em></td><td>0</td></tr>
+<tr><td>Exceeding £300 <em>(Extent: E)</em> but not exceeding £550 <em>(Extent: E)</em></td><td>3</td></tr>
+<tr><td>Exceeding £550 <em>(Extent: E)</em> but not exceeding £740 <em>(Extent: E)</em></td><td>5</td></tr>
+<tr><td>Exceeding £740 <em>(Extent: E)</em>but not exceeding £900 <em>(Extent: E)</em></td><td>7</td></tr>
+<tr><td>Exceeding £900 <em>(Extent: E)</em> but not exceeding £1,420 <em>(Extent: E)</em></td><td>12</td></tr>
+<tr><td>Exceeding £1,420 <em>(Extent: E)</em> but not exceeding £2,020 <em>(Extent: E)</em></td><td>17</td></tr>
+<tr><td>Exceeding £2,020 <em>(Extent: E)</em></td><td>17 in respect of the first £2,020 <em>(Extent: E)</em> and 50 in respect of the remainder</td></tr>
+</tbody>
+</table>
+
+[^key-876ea7d4e70c9a26aa4002b2d2ce315d][^key-0bdbacc10f60a99cd7cb5b0caa0cb88a][^key-6344ca667955fef639483f6bc01106f2][^key-5a9375233d37f21445b5ae1ea45c2589][^key-65e0dd502a00c95abaded85e5b8831b2][^key-0f0bb7996b7d416d2c11e7e4609afe88]
+
+TABLE C
+
+**DEDUCTIONS BASED ON DAILY EARNINGS**
+
+<table>
+<thead>
+<tr><th><em>(1)</em></th><th><em>(2)</em></th></tr>
+<tr><th>Net earnings</th><th>Deduction rate (percentage)</th></tr>
+</thead>
+<tbody>
+<tr><td>Not exceeding £11 <em>(Extent: E)</em></td><td>0</td></tr>
+<tr><td>Exceeding £11 <em>(Extent: E.)</em> but not exceeding £20 <em>(Extent: E.)</em></td><td>3</td></tr>
+<tr><td>Exceeding £20 <em>(Extent: E.)</em> but not exceeding £27 <em>(Extent: E.)</em></td><td>5</td></tr>
+<tr><td>Exceeding £27 <em>(Extent: E)</em> but not exceeding £33 <em>(Extent: E.)</em></td><td>7</td></tr>
+<tr><td>Exceeding £33 <em>(Extent: E.)</em> but not exceeding £52 <em>(Extent: E.)</em></td><td>12</td></tr>
+<tr><td>Exceeding £52 <em>(Extent: E)</em> but not exceeding £72 <em>(Extent: E.)</em></td><td>17</td></tr>
+<tr><td>Exceeding £72 <em>(Extent: E.)</em></td><td>17 in respect of the first £72 <em>(Extent: E.)</em> and 50 in respect of the remainder</td></tr>
+</tbody>
+</table>
+
+[^key-59956e9396129c4a3012ddfea86c8124][^key-61b770ff49b12f4fc2b4fbf2275d0d62][^key-fec73514d8853f224b754672e3e16d6d][^key-963b34148883a2c94164593784d1a7a9][^key-9e1b12dbb6681129c743e96cd2be9336][^key-7ac1dd87f325a1a3aa49fc3d8538b201]
+
+TABLE A
+
+DEDUCTIONS FROM WEEKLY EARNINGS
+
+<table>
+<thead>
+<tr><th>(1)</th><th>(2)</th></tr>
+<tr><th>Net Earnings</th><th>Deduction rate (percentage)</th></tr>
+</thead>
+<tbody>
+<tr><td>Not exceeding £105</td><td>0</td></tr>
+<tr><td>Exceeding £105 but not exceeding £190</td><td>3</td></tr>
+<tr><td>Exceeding £190 but not exceeding £260</td><td>5</td></tr>
+<tr><td>Exceeding £260 but not exceeding £320</td><td>7</td></tr>
+<tr><td>Exceeding £320 but not exceeding £505</td><td>12</td></tr>
+<tr><td>Exceeding £505 but not exceeding £715</td><td>17</td></tr>
+<tr><td>Exceeding £715</td><td>17 in respect of the first £715, then 50 in respect of the remainder</td></tr>
+</tbody>
+</table>
+
+TABLE B
+
+DEDUCTIONS FROM MONTHLY EARNINGS
+
+<table>
+<thead>
+<tr><th>(1)</th><th>(2)</th></tr>
+<tr><th>Net Earnings</th><th>Deduction rate (percentage)</th></tr>
+</thead>
+<tbody>
+<tr><td>Not exceeding £430</td><td>0</td></tr>
+<tr><td>Exceeding £430 but not exceeding £780</td><td>3</td></tr>
+<tr><td>Exceeding £780 but not exceeding £1,050</td><td>5</td></tr>
+<tr><td>Exceeding £1,050 but not exceeding £1,280</td><td>7</td></tr>
+<tr><td>Exceeding £1,280 but not exceeding £2,010</td><td>12</td></tr>
+<tr><td>Exceeding £2,010 but not exceeding £2,860</td><td>17</td></tr>
+<tr><td>Exceeding £2,860</td><td>17 in respect of the first £2,860, then 50 in respect of the remainder</td></tr>
+</tbody>
+</table>
+
+TABLE C
+
+DEDUCTIONS BASED ON DAILY EARNINGS
+
+<table>
+<thead>
+<tr><th>(1)</th><th>(2)</th></tr>
+<tr><th>Net Earnings</th><th>Deduction rate (percentage)</th></tr>
+</thead>
+<tbody>
+<tr><td>Not exceeding £16</td><td>0</td></tr>
+<tr><td>Exceeding £16 but not exceeding £28</td><td>3</td></tr>
+<tr><td>Exceeding £28 but not exceeding £38</td><td>5</td></tr>
+<tr><td>Exceeding £38 but not exceeding £47</td><td>7</td></tr>
+<tr><td>Exceeding £47 but not exceeding £74</td><td>12</td></tr>
+<tr><td>Exceeding £74 but not exceeding £102</td><td>17</td></tr>
+<tr><td>Exceeding £102</td><td>17 in respect of the first £102, then 50 in respect of the remainder</td></tr>
+</tbody>
+</table>
+
+## SCHEDULE 5 — CHARGES CONNECTED WITH DISTRESS[^key-3d1fe7e220c0b612a78170a6fe685b18]
+
+**No longer in force.**
+
+**1.**[^key-3d1fe7e220c0b612a78170a6fe685b18] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**2.**[^key-3d1fe7e220c0b612a78170a6fe685b18] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**2A.**[^key-3d1fe7e220c0b612a78170a6fe685b18] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**3.**[^key-3d1fe7e220c0b612a78170a6fe685b18] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 6 — COSTS CONNECTED WITH COMMITTAL[^key-28a02a256e8105376fb458d26270ea47]
+
+Regulation 47(6A) and (6B)
+
+| Application | Maximum costs |
+| --- | --- |
+| For making an application for a warrant of commitment: | £305.00. |
+| For making an application for a warrant of arrest: | £145.00. |
+
+(This note is not part of the Regulations)
+
+These Regulations make provision for the administration and enforcement of council tax in England and Wales under the Local Government Finance Act 1992 and related matters.
+
+Regulation 2, in Part I, applies section 233 of the Local Government Act 1972 to the service of notices by or on behalf of the Common Council of the City of London under the Regulations and provides for the service of certain notices on persons whose name cannot, after reasonable enquiry, be ascertained.
+
+Part II (regulations 3 to 6) is concerned with the giving and obtaining of information relevant to council tax. Relevant information may be exchanged between billing authorities in England and Wales and between those authorities and Scottish levying authorities.
+
+Part III (regulations 7 to 12) relates primarily to exempt dwellings. Regulation 7 makes provision for cases where, because a dwelling is exempt or the billing authority has set a nil amount of council tax, no demand notice will be issued under Part V of the Regulations. It requires information to be given as to the valuation band shown as applicable to dwellings in proposed and final valuation lists and the reasons for any change of band between the proposed list and the final list. Regulation 8 requires billing authorities to take reasonable steps to ascertain whether dwellings in their area are chargeable or exempt. Regulation 9 provides for the assumptions which they are required to make after taking such steps. Regulation 10 requires authorities to notify persons of the assumptions made in their case. Regulation 11 requires persons who have received such notification to inform their billing authority when they have reason to believe that the status of their dwelling has changed. Regulation 12 enables a billing authority to obtain information sufficient to identify the person or persons who would be liable to pay council tax if the dwelling in question was not an exempt dwelling.
+
+Part IV (regulations 13 to 16) relates to discounts. Regulation 14 requires billing authorities to take reasonable steps to ascertain discount entitlements and regulation 15 provides for the assumptions which they are required to make after taking such steps. Regulation 16 requires persons who have been notified in accordance with regulations for purposes connected with Part V of these Regulations of any discount assumption made in their case, to inform their billing authority when they have reason to believe that they are no longer entitled to a discount or that they are entitled to a discount of a lesser amount than that assumed.
+
+Part V (regulations 17 to 31) is principally concerned with the billing of persons liable to council tax. It requires, amongst other matters, billing authorities to serve demand notices each year on liable persons (regulations 18 to 22) identifying the payments to be made in respect of council tax, and provides for the making of certain of such payments by instalments during the year (Part I of Schedule 1). Regulation 21 and Part II of Schedule 1 enable billing authorities to make schemes for payment by instalments in cases where rent is payable to them in respect of the dwelling concerned. Where a person fails to pay an instalment in accordance with Part I of Schedule 1 or a scheme under Part II of that Schedule, in certain cases the unpaid balance of the billing authority’s estimate of the chargeable amount for the year concerned will become payable immediately (regulation 23). Regulations 25 and 26 make provision for reduced amounts where there are lump sum or non-cash payments.
+
+Regulations 27 and 28 provide for the billing of persons who are jointly and severally liable to pay council tax. Regulations 29 to 31 make provision for the collection of penalties imposed under paragraph 1 of Schedule 3 to the Act, restrict the grounds of appeal to a valuation tribunal with respect to estimates, and require the final adjustment of amounts payable under notices given under the Regulations.
+
+Part VI (regulations 32 to 57) is concerned with the enforcement of sums due under Part V. Amounts payable to a billing authority which are unpaid are recoverable under a liability order made by a magistrates' court (regulation 34) following the making of which the billing authority may request certain information of the debtor as to his employment or income (regulation 36), make an attachment of earnings order (regulations 37 to 43 and Schedules 3 and 4), an attachment of allowances order (regulation 44), levy distress (regulation 45 and Schedule 5), apply for the commitment of the debtor to prison (regulations 47 and 48), prove the debt in insolvency (regulation 49), or apply for a charging order (regulation 50). Regulation 53 contains provisions about the admissibility of computer-generated evidence before magistrates' courts in proceedings under Part VI. Regulation 54 applies the relevant provisions of Part VI, with modifications, to cases of joint and several liability. Amounts payable by way of repayment are recoverable in a court of competent jurisdiction (regulation 55).
+
+Regulation 56 makes provision for offences in the event of failure of the debtor to supply information, or of an employer to comply with an attachment of earnings order or to provide certain information relevant to the order or to an attachment of allowances order (or to deductions under such orders) in accordance with the Regulations. Regulation 57 precludes matters which can be raised by way of appeal to a valuation tribunal under section 16 of the Act being raised in proceedings for recovery under Part VI, and provides for the case where the amounts required under a notice under Part V are adjusted after a liability order has been made.
+
+Part VII (regulation 58) makes provision for the enforcement of outstanding liabilities and other aspects of administration with respect to council tax or penalties which remain outstanding on death.
+
+## Annotations
+
+[^f00001]: Footnote: [1992 c. 14](https://www.legislation.gov.uk/ukpga/1992/14). See section 116(1) for the definition of “prescribed”.
+
+[^key-da8876a71a9a90cccc66dc47fc7d5afe]: Modification: Regulations modified (1.4.1995) by [The Local Government Changes for England (Community Charge and Council Tax, Administration and Enforcement) Regulations 1995 (S.I. 1995/247)](https://www.legislation.gov.uk/uksi/1995/247), [regs. 1](https://www.legislation.gov.uk/uksi/1995/247/regulation/1), [16](https://www.legislation.gov.uk/uksi/1995/247/regulation/16), [17](https://www.legislation.gov.uk/uksi/1995/247/regulation/17)
+
+[^M_E_4fae282b-8d8b-4df8-aa58-e34de6b1abd7]: Extent: This version of this provision extends to England only; a separate version has been created for Wales only
+
+[^key-573c75efd3abd868e6960f19c81b9080]: Commencement: Reg. 1 in force at 1.4.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/613/regulation/1/1)
+
+[^key-70ee476a81738037337e8ff512f7df8d]: Textual amendment: Words in reg. 1(2) inserted (E.) (5.11.2003) by [The Council Tax and Non-Domestic Rating (Electronic Communications) (England) Order 2003 (S.I. 2003/2604)](https://www.legislation.gov.uk/uksi/2003/2604), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2003/2604/article/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2003/2604/article/3/2)
+
+[^key-32d281539b62d9e4e9ee49b6f554400c]: Textual amendment: Words in reg. 1 inserted (E.) (10.4.2013) by [The Council Tax (Administration and Enforcement) (Amendment) (England) Regulations 2013 (S.I. 2013/590)](https://www.legislation.gov.uk/uksi/2013/590), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/590/regulation/1/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2013/590/regulation/2/2/a)
+
+[^M_F_2edd172a-8f53-470a-a66f-0033db92038d]: Textual amendment: Words in reg. 1(2) substituted (24.12.1992) by [The Council Tax (Administration and Enforcement) (Amendment) Regulations 1992 (S.I. 1992/3008)](https://www.legislation.gov.uk/uksi/1992/3008), [regs. 1](https://www.legislation.gov.uk/uksi/1992/3008/regulation/1), [3](https://www.legislation.gov.uk/uksi/1992/3008/regulation/3)
+
+[^key-a6eecb5d782112a1ccb44dd2abedeb44]: Textual amendment: Words in reg. 1(2) inserted (E.) (5.11.2003) by [The Council Tax and Non-Domestic Rating (Electronic Communications) (England) Order 2003 (S.I. 2003/2604)](https://www.legislation.gov.uk/uksi/2003/2604), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2003/2604/article/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2003/2604/article/3/3)
+
+[^key-e9e0f4675a15004147fb3fb52b77d539]: Textual amendment: Words in reg. 1(2) inserted (E.) (10.4.2013) by [The Council Tax (Administration and Enforcement) (Amendment) (England) Regulations 2013 (S.I. 2013/590)](https://www.legislation.gov.uk/uksi/2013/590), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/590/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2013/590/regulation/2/2/b)
+
+[^key-1b04cc49aa66234d850fd8ccf0074fe0]: Textual amendment: Words in reg. 1 substituted (E.) (1.4.2014) by [The Council Tax (Reductions for Annexes) (England) Regulations 2013 (S.I. 2013/2977)](https://www.legislation.gov.uk/uksi/2013/2977), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2977/regulation/1/1), [5(2)](https://www.legislation.gov.uk/uksi/2013/2977/regulation/5/2) (with [reg. 2](https://www.legislation.gov.uk/uksi/2013/2977/regulation/2))
+
+[^key-7b4b28b2b75328d278e2858bec9d2cae]: Textual amendment: Words in reg. 1(2) substituted (E.) (1.3.2006) by [The Non-Domestic Rating and Council Tax (Electronic Communications) (England) Order 2006 (S.I. 2006/237)](https://www.legislation.gov.uk/uksi/2006/237), [arts. 1](https://www.legislation.gov.uk/uksi/2006/237/article/1), [6](https://www.legislation.gov.uk/uksi/2006/237/article/6)
+
+[^key-e2f846a894b2648bce5536c03ea5f5a6]: Textual amendment: Words in reg. 1 substituted (E.) (1.4.2013) by [The Council Tax (Administration and Enforcement) (Amendment) (No.2) (England) Regulations 2012 (S.I. 2012/3086)](https://www.legislation.gov.uk/uksi/2012/3086), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2012/3086/regulation/1/1/b), [2(2)(b)](https://www.legislation.gov.uk/uksi/2012/3086/regulation/2/2/b)
+
+[^key-94369b196f5c5ad3225d94f04f57512c]: Textual amendment: Word in reg. 1 omitted (E.) (1.4.2013) by virtue of [The Council Tax (Administration and Enforcement) (Amendment) (No.2) (England) Regulations 2012 (S.I. 2012/3086)](https://www.legislation.gov.uk/uksi/2012/3086), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2012/3086/regulation/1/1/b), [2(2)(c)](https://www.legislation.gov.uk/uksi/2012/3086/regulation/2/2/c)
+
+[^key-eb42b5f7001a5f8c3f46781a0b16c592]: Textual amendment: Words in reg. 1(2) substituted (24.12.1992) by [The Council Tax (Administration and Enforcement) (Amendment) Regulations 1992 (S.I. 1992/3008)](https://www.legislation.gov.uk/uksi/1992/3008), [regs. 1](https://www.legislation.gov.uk/uksi/1992/3008/regulation/1), [3](https://www.legislation.gov.uk/uksi/1992/3008/regulation/3)
+
+[^key-00a7e2dbab3d2389986be20d555f3792]: Textual amendment: Word in reg. 1(2) omitted (E.) (29.4.2013) by virtue of [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations 2013 (S.I. 2013/630)](https://www.legislation.gov.uk/uksi/2013/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/630/regulation/1/2), [56(2)](https://www.legislation.gov.uk/uksi/2013/630/regulation/56/2)
+
+[^key-b5358e4a7b6721db44e20d837fea4dbb]: Textual amendment: Words in reg. 1 inserted (E.) (1.4.2013) by [The Council Tax (Administration and Enforcement) (Amendment) (No.2) (England) Regulations 2012 (S.I. 2012/3086)](https://www.legislation.gov.uk/uksi/2012/3086), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2012/3086/regulation/1/1/b), [2(2)(e)](https://www.legislation.gov.uk/uksi/2012/3086/regulation/2/2/e)
+
+[^key-758f347e21efb8cf7fb6a11a18c63819]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/1992/613/regulation/1/2) inserted (E.) (1.11.2024) by [The Council Tax (Prescribed Classes of Dwellings and Consequential Amendments) (England) Regulations 2024 (S.I. 2024/1007)](https://www.legislation.gov.uk/uksi/2024/1007), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1007/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2024/1007/regulation/3)
+
+[^key-915497fd3376637fa7a00b7bbe0998be]: Textual amendment: Words in reg. 1(2) inserted (E.) (29.4.2013) by [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations 2013 (S.I. 2013/630)](https://www.legislation.gov.uk/uksi/2013/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/630/regulation/1/2), [56(2)](https://www.legislation.gov.uk/uksi/2013/630/regulation/56/2)
+
+[^M_E_a8ea2730-52f1-413d-aeec-aad752d88b81]: Extent: This version of this provision extends to Wales only; a separate version has been created for England only
+
+[^V_W_d50340ed-163a-e431-fb7d-9fcf032d868c]: Commencement: Reg. 1 in force at 1.4.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/613/regulation/1/1)
+
+[^key-66992f5a77105e954dae8adfa507781a]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/1992/613/regulation/1/2) inserted (W.) (1.4.2026) by [The Council Tax (Discounts, Disregards and Exemptions) (Wales) Regulations 2026 (W.S.I. 2026/8)](https://www.legislation.gov.uk/wsi/2026/8), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/8/regulation/1/2), [Sch. 4 para. 2(2)(a)](https://www.legislation.gov.uk/wsi/2026/8/schedule/4/paragraph/2/2/a)
+
+[^V_W_ba177d5e-f833-9900-e42d-8b80f3eb4622]: Textual amendment: Words in reg. 1(2) inserted (W.) (31.10.2009) by [The Council Tax and Non-Domestic Rating (Electronic Communications) (Wales) Order 2009 (S.I. 2009/2706)](https://www.legislation.gov.uk/wsi/2009/2706), [arts. 1(1)](https://www.legislation.gov.uk/wsi/2009/2706/article/1/1), [9(2)](https://www.legislation.gov.uk/wsi/2009/2706/article/9/2) and
+
+[^V_W_80d4ea79-80cf-7eee-6b3d-e25ec91864bb]: Textual amendment: Words in reg. 1 inserted (W.) (1.4.2013) by [The Council Tax (Administration and Enforcement) (Amendment No. 2) (Wales) Regulations 2013 (S.I. 2013/570)](https://www.legislation.gov.uk/uksi/2013/570), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/570/regulation/1/1), [3(a)](https://www.legislation.gov.uk/uksi/2013/570/regulation/3/a)
+
+[^M_F_da32e623-a2a8-4dac-b7dc-24c2b949819c]: Textual amendment: Words in reg. 1(2) substituted (24.12.1992) by [The Council Tax (Administration and Enforcement) (Amendment) Regulations 1992 (S.I. 1992/3008)](https://www.legislation.gov.uk/uksi/1992/3008), [regs. 1](https://www.legislation.gov.uk/uksi/1992/3008/regulation/1), [3](https://www.legislation.gov.uk/uksi/1992/3008/regulation/3)
+
+[^V_W_60e78c2b-0679-0f62-cb49-e1ec4abb35be]: Textual amendment: Words in reg. 1(2) inserted (W.) (31.10.2009) by [The Council Tax and Non-Domestic Rating (Electronic Communications) (Wales) Order 2009 (S.I. 2009/2706)](https://www.legislation.gov.uk/uksi/2009/2706), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2009/2706/article/1/1), [9(3)](https://www.legislation.gov.uk/uksi/2009/2706/article/9/3)
+
+[^V_W_cb2eac89-8c55-7386-8c65-a77b08088eb3]: Textual amendment: Words in reg. 1 inserted (W.) (1.4.2013) by [The Council Tax (Administration and Enforcement) (Amendment No. 2) (Wales) Regulations 2013 (S.I. 2013/570)](https://www.legislation.gov.uk/wsi/2013/570), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2013/570/regulation/1/1), [3(b)](https://www.legislation.gov.uk/wsi/2013/570/regulation/3/b)
+
+[^V_W_35f35e81-37ae-a442-5732-65f459e3c8c8]: Textual amendment: Words in reg. 1 substituted (W.) (1.4.2013) by [The Council Tax (Administration and Enforcement) (Amendment) (Wales) Regulations 2013 (S.I. 2013/62)](https://www.legislation.gov.uk/wsi/2013/62), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2013/62/regulation/1/2), [2(2)(a)](https://www.legislation.gov.uk/wsi/2013/62/regulation/2/2/a)
+
+[^key-9b607274307b6a7b7e96419f170c4ddb]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/1992/613/regulation/1/2) substituted (W.) (1.4.2026) by [The Council Tax (Discounts, Disregards and Exemptions) (Wales) Regulations 2026 (W.S.I. 2026/8)](https://www.legislation.gov.uk/wsi/2026/8), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/8/regulation/1/2), [Sch. 4 para. 2(2)(b)](https://www.legislation.gov.uk/wsi/2026/8/schedule/4/paragraph/2/2/b)
+
+[^key-b26acccb7c733644c1ccf8b5dd93c311]: Textual amendment: Words in reg. 1(2) substituted (W.) (14.2.2014) by [The Council Tax (Administration and Enforcement) (Amendment) (Wales) Regulations 2014 (S.I. 2014/129)](https://www.legislation.gov.uk/wsi/2014/129), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2014/129/regulation/1/2), [3(a)](https://www.legislation.gov.uk/wsi/2014/129/regulation/3/a) (with [reg. 11](https://www.legislation.gov.uk/wsi/2014/129/regulation/11))
+
+[^V_W_9baa7fd4-727c-d507-5e33-ee64ed236a53]: Textual amendment: Words in reg. 1(2) inserted (W.) (31.10.2009) by [The Council Tax and Non-Domestic Rating (Electronic Communications) (Wales) Order 2009 (S.I. 2009/2706)](https://www.legislation.gov.uk/wsi/2009/2706), [arts. 1(1)](https://www.legislation.gov.uk/wsi/2009/2706/article/1/1), [9(2)](https://www.legislation.gov.uk/wsi/2009/2706/article/9/2)
+
+[^V_W_0c8b7708-3d4e-4488-547c-8207cea2168f]: Textual amendment: Words in reg. 1 substituted (W.) (1.4.2013) by [The Council Tax (Administration and Enforcement) (Amendment) (Wales) Regulations 2013 (S.I. 2013/62)](https://www.legislation.gov.uk/wsi/2013/62), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2013/62/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/wsi/2013/62/regulation/2/2/b)
+
+[^key-d9ebbaeba587662987eab7e919899182]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/1992/613/regulation/1/2) substituted (W.) (1.4.2026) by [The Council Tax (Discounts, Disregards and Exemptions) (Wales) Regulations 2026 (W.S.I. 2026/8)](https://www.legislation.gov.uk/wsi/2026/8), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/8/regulation/1/2), [Sch. 4 para. 2(2)(d)](https://www.legislation.gov.uk/wsi/2026/8/schedule/4/paragraph/2/2/d)
+
+[^key-5c1b89ef658024b696f3f98844be926f]: Textual amendment: Words in reg. 1(2) substituted (W.) (14.2.2014) by [The Council Tax (Administration and Enforcement) (Amendment) (Wales) Regulations 2014 (S.I. 2014/129)](https://www.legislation.gov.uk/wsi/2014/129), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2014/129/regulation/1/2), [3(b)](https://www.legislation.gov.uk/wsi/2014/129/regulation/3/b) (with [reg. 11](https://www.legislation.gov.uk/wsi/2014/129/regulation/11))
+
+[^V_W_9b867dfc-bd51-6458-ef8c-816d3f6dacbf]: Textual amendment: Word in reg. 1 omitted (W.) (29.4.2013) by virtue of [The Council Tax (Administration and Enforcement) (Amendment No. 2) (Wales) Regulations 2013 (S.I. 2013/570)](https://www.legislation.gov.uk/wsi/2013/570), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2013/570/regulation/1/2), [3(c)](https://www.legislation.gov.uk/wsi/2013/570/regulation/3/c)
+
+[^key-b7061f7e4fb80303b9ba48d709cca999]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/1992/613/regulation/1/2) omitted (W.) (1.4.2026) by virtue of [The Council Tax (Discounts, Disregards and Exemptions) (Wales) Regulations 2026 (W.S.I. 2026/8)](https://www.legislation.gov.uk/wsi/2026/8), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/8/regulation/1/2), [Sch. 4 para. 2(2)(c)](https://www.legislation.gov.uk/wsi/2026/8/schedule/4/paragraph/2/2/c)
+
+[^V_W_25bfe9cc-49a3-2b0f-7fd5-859d81af5ceb]: Textual amendment: Words in reg. 1(2) substituted (24.12.1992) by [The Council Tax (Administration and Enforcement) (Amendment) Regulations 1992 (S.I. 1992/3008)](https://www.legislation.gov.uk/uksi/1992/3008), [regs. 1](https://www.legislation.gov.uk/uksi/1992/3008/regulation/1), [3](https://www.legislation.gov.uk/uksi/1992/3008/regulation/3)
+
+[^V_W_0db11e43-a604-ad2a-99a6-9e30bb99776c]: Textual amendment: Word in reg. 1 substituted (W.) (29.4.2013) by [The Council Tax (Administration and Enforcement) (Amendment No. 2) (Wales) Regulations 2013 (S.I. 2013/570)](https://www.legislation.gov.uk/wsi/2013/570), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2013/570/regulation/1/2), [3(d)](https://www.legislation.gov.uk/wsi/2013/570/regulation/3/d)
+
+[^key-842b654f6b3e163a6ebb93a7c4f50a41]: Textual amendment: Word in reg. 1 omitted (W.) (15.2.2017) by virtue of [The Council Tax (Administration and Enforcement) (Amendment) (Wales) Regulations 2017 (S.I. 2017/41)](https://www.legislation.gov.uk/wsi/2017/41), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2017/41/regulation/1/1), [2(2)(a)](https://www.legislation.gov.uk/wsi/2017/41/regulation/2/2/a)
+
+[^key-a8e28a50dc441204b59e6a8e47c4a0ac]: Textual amendment: Words in reg. 1 inserted (W.) (15.2.2017) by [The Council Tax (Administration and Enforcement) (Amendment) (Wales) Regulations 2017 (S.I. 2017/41)](https://www.legislation.gov.uk/wsi/2017/41), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2017/41/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/wsi/2017/41/regulation/2/2/b)
+
+[^V_W_4070696b-f39f-cfcc-7b0b-c95dfbb57c10]: Textual amendment: Words in reg. 1 inserted (W.) (29.4.2013) by [The Council Tax (Administration and Enforcement) (Amendment No. 2) (Wales) Regulations 2013 (S.I. 2013/570)](https://www.legislation.gov.uk/wsi/2013/570), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2013/570/regulation/1/2), [3(e)](https://www.legislation.gov.uk/wsi/2013/570/regulation/3/e)
+
+[^M_E_dd270432-8bb0-47ed-f4a5-eadba5a2cd02]: Extent: This version of this provision extends to England only; a separate version has been created for Wales only
+
+[^key-2cb6fbabd59e6e4d642ff42ae573a5ed]: Commencement: Reg. 2 in force at 1.4.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/613/regulation/1/1)
+
+[^f00002]: Footnote: [1972 c. 70](https://www.legislation.gov.uk/ukpga/1972/70); subsection (6) was repealed by the Local Government (Miscellaneous Provisions) Act [1976 (c. 57)](https://www.legislation.gov.uk/ukpga/1976/57), Schedule 2.
+
+[^key-849109953eac19ee8494873724786060]: Textual amendment: Words in reg. 2(2) substituted (24.12.1992) by [The Council Tax (Administration and Enforcement) (Amendment) Regulations 1992 (S.I. 1992/3008)](https://www.legislation.gov.uk/uksi/1992/3008), [regs. 1](https://www.legislation.gov.uk/uksi/1992/3008/regulation/1), [4](https://www.legislation.gov.uk/uksi/1992/3008/regulation/4)
+
+[^key-d07cc302c004c8e2353166b9f9b99d66]: Textual amendment: Reg. 2(4)-(8) inserted (E.) (5.11.2003) by [The Council Tax and Non-Domestic Rating (Electronic Communications) (England) Order 2003 (S.I. 2003/2604)](https://www.legislation.gov.uk/uksi/2003/2604), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2003/2604/article/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2003/2604/article/4/2)
+
+[^key-1314e4eee3384b539244a4e7bf8fb071]: Textual amendment: Words in reg. 2(4) omitted (E.) (1.4.2013) by virtue of [The Council Tax (Administration and Enforcement) (Amendment) (No.2) (England) Regulations 2012 (S.I. 2012/3086)](https://www.legislation.gov.uk/uksi/2012/3086), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2012/3086/regulation/1/1/b), [2(3)(a)](https://www.legislation.gov.uk/uksi/2012/3086/regulation/2/3/a)
+
+[^key-229d0ae9e4fa775a843a4ba7fff64db1]: Textual amendment: Reg. 2(4A)-(4C) inserted (E.) (1.4.2013) by [The Council Tax (Administration and Enforcement) (Amendment) (No.2) (England) Regulations 2012 (S.I. 2012/3086)](https://www.legislation.gov.uk/uksi/2012/3086), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2012/3086/regulation/1/1/b), [2(3)(b)](https://www.legislation.gov.uk/uksi/2012/3086/regulation/2/3/b)
+
+[^key-3d72087f4774d592748bc8cbfb0ff611]: Textual amendment: Words in reg. 2(6) substituted (E.) (1.4.2013) by [The Council Tax (Administration and Enforcement) (Amendment) (No.2) (England) Regulations 2012 (S.I. 2012/3086)](https://www.legislation.gov.uk/uksi/2012/3086), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2012/3086/regulation/1/1/b), [2(3)(c)](https://www.legislation.gov.uk/uksi/2012/3086/regulation/2/3/c)
+
+[^key-f1fa9e5c37939e31e982a73b92139619]: Textual amendment: Words in reg. 2(7) substituted (E.) (1.4.2013) by [The Council Tax (Administration and Enforcement) (Amendment) (No.2) (England) Regulations 2012 (S.I. 2012/3086)](https://www.legislation.gov.uk/uksi/2012/3086), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2012/3086/regulation/1/1/b), [2(3)(d)](https://www.legislation.gov.uk/uksi/2012/3086/regulation/2/3/d)
+
+[^M_E_54883385-24f1-4711-c041-e670f1516e56]: Extent: This version of this provision extends to Wales only; a separate version has been created for England only
+
+[^V_W_271bf1d3-fd3f-4960-3a96-08c7a6aabdcd]: Commencement: Reg. 2 in force at 1.4.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/613/regulation/1/1)
+
+[^V_W_1525abf6-c40c-206a-629f-2fa32e97b010]: Textual amendment: Words in reg. 2(2) substituted (24.12.1992) by [The Council Tax (Administration and Enforcement) (Amendment) Regulations 1992 (S.I. 1992/3008)](https://www.legislation.gov.uk/uksi/1992/3008), [regs. 1](https://www.legislation.gov.uk/uksi/1992/3008/regulation/1), [4](https://www.legislation.gov.uk/uksi/1992/3008/regulation/4)
+
+[^V_W_7e0b2c69-ef00-69ce-3750-1443667e0ee7]: Textual amendment: Reg. 2(4)-(8) inserted (W.) (31.10.2009) by [The Council Tax and Non-Domestic Rating (Electronic Communications) (Wales) Order 2009 (S.I. 2009/2706)](https://www.legislation.gov.uk/wsi/2009/2706), [arts. 1(1)](https://www.legislation.gov.uk/wsi/2009/2706/article/1/1), [10(2)](https://www.legislation.gov.uk/wsi/2009/2706/article/10/2)
+
+[^V_W_8aa97db4-0fe3-7050-b353-7d0c0ca94ab3]: Textual amendment: Words in reg. 2(4) omitted (W.) (1.4.2013) by virtue of [The Council Tax (Administration and Enforcement) (Amendment) (Wales) Regulations 2013 (S.I. 2013/62)](https://www.legislation.gov.uk/uksi/2013/62), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/62/regulation/1/2), [2(3)(a)](https://www.legislation.gov.uk/uksi/2013/62/regulation/2/3/a)
+
+[^V_W_bdff661f-7a56-dac1-6447-45d646337e64]: Textual amendment: Reg. 2(4A)-(4C) inserted (W.) (1.4.2013) by [The Council Tax (Administration and Enforcement) (Amendment) (Wales) Regulations 2013 (S.I. 2013/62)](https://www.legislation.gov.uk/wsi/2013/62), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2013/62/regulation/1/2), [2(3)(b)](https://www.legislation.gov.uk/wsi/2013/62/regulation/2/3/b)
+
+[^V_W_7ccc741c-f367-2eb5-f7e6-5f8c194cde0a]: Textual amendment: Words in reg. 2(6) substituted (W.) (1.4.2013) by [The Council Tax (Administration and Enforcement) (Amendment) (Wales) Regulations 2013 (S.I. 2013/62)](https://www.legislation.gov.uk/uksi/2013/62), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/62/regulation/1/2), [2(3)(c)](https://www.legislation.gov.uk/uksi/2013/62/regulation/2/3/c)
+
+[^V_W_27838db9-7d1c-b962-4eec-3f975bba72be]: Textual amendment: Words in reg. 2(7) substituted (W.) (1.4.2013) by [The Council Tax (Administration and Enforcement) (Amendment) (Wales) Regulations 2013 (S.I. 2013/62)](https://www.legislation.gov.uk/wsi/2013/62), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2013/62/regulation/1/2), [2(3)(d)](https://www.legislation.gov.uk/wsi/2013/62/regulation/2/3/d)
+
+[^key-d3e9cdec19f65d659cc8150f7585efa5]: Commencement: Reg. 3 in force at 1.4.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/613/regulation/1/1)
+
+[^key-fa6e3c53b4bafa2c9e7715671d408f42]: Textual amendment: [Reg. 3(3)](https://www.legislation.gov.uk/uksi/1992/613/regulation/3/3) substituted (24.12.1992) by [The Council Tax (Administration and Enforcement) (Amendment) Regulations 1992 (S.I. 1992/3008)](https://www.legislation.gov.uk/uksi/1992/3008), [regs. 1](https://www.legislation.gov.uk/uksi/1992/3008/regulation/1), [5](https://www.legislation.gov.uk/uksi/1992/3008/regulation/5)
+
+[^key-950a54ee5f38e457d282524b2600abc7]: Textual amendment: Reg. 4 substituted (24.12.1992) by [The Council Tax (Administration and Enforcement) (Amendment) Regulations 1992 (S.I. 1992/3008)](https://www.legislation.gov.uk/uksi/1992/3008), [regs. 1](https://www.legislation.gov.uk/uksi/1992/3008/regulation/1), [6](https://www.legislation.gov.uk/uksi/1992/3008/regulation/6)
+
+[^key-2aff8de76e0b2cd64a51052a1a0fc530]: Textual amendment: Words in [reg. 4(3)(a)](https://www.legislation.gov.uk/uksi/1992/613/regulation/4/3/a) inserted (E.) (11.7.2001) by [The Local Authorities (Executive and Alternative Arrangements) (Modification of Enactments and Other Provisions) (England) Order 2001 (S.I. 2001/2237)](https://www.legislation.gov.uk/uksi/2001/2237), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2001/2237/article/1/1), [42](https://www.legislation.gov.uk/uksi/2001/2237/article/42); and words in reg. 4(3)(a) inserted (W.) (1.4.2002) by [The Local Authorities (Executive and Alternative Arrangements) (Modification of Enactments and Other Provisions) (Wales) Order 2002 (S.I. 2002/808)](https://www.legislation.gov.uk/uksi/2002/808), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2002/808/article/1/1), [38](https://www.legislation.gov.uk/uksi/2002/808/article/38)
+
+[^key-0e6a43dc365633289b2261f2a87d6ab1]: Modification: [Reg. 4(3)(b)](https://www.legislation.gov.uk/uksi/1992/613/regulation/4/3/b) modified (1.4.1995) by [The Local Government Changes for England (Community Charge and Council Tax, Administration and Enforcement) Regulations 1995 (S.I. 1995/247)](https://www.legislation.gov.uk/uksi/1995/247), [regs. 1](https://www.legislation.gov.uk/uksi/1995/247/regulation/1), [18](https://www.legislation.gov.uk/uksi/1995/247/regulation/18)
+
+[^key-f70da275e7464593a7959f90b00e6edd]: Textual amendment: Word in [reg. 4(8)(a)](https://www.legislation.gov.uk/uksi/1992/613/regulation/4/8/a) omitted (E.) (10.1.2013) by virtue of [The Council Tax (Administration and Enforcement) (Amendment) (No.2) (England) Regulations 2012 (S.I. 2012/3086)](https://www.legislation.gov.uk/uksi/2012/3086), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/2012/3086/regulation/1/1/a), [2(4)(a)](https://www.legislation.gov.uk/uksi/2012/3086/regulation/2/4/a) and omitted (W.) (7.2.2013) by virtue of [The Council Tax (Administration and Enforcement) (Amendment) (Wales) Regulations 2013 (S.I. 2013/62)](https://www.legislation.gov.uk/uksi/2013/62), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/62/regulation/1/2), [2(4)(a)](https://www.legislation.gov.uk/uksi/2013/62/regulation/2/4/a)
+
+[^key-33549f0d72dd0513cc091a696862cf93]: Textual amendment: Word in [reg. 4(8)(b)](https://www.legislation.gov.uk/uksi/1992/613/regulation/4/8/b) substituted (E.) (10.1.2013) by [The Council Tax (Administration and Enforcement) (Amendment) (No.2) (England) Regulations 2012 (S.I. 2012/3086)](https://www.legislation.gov.uk/uksi/2012/3086), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/2012/3086/regulation/1/1/a), [2(4)(b)](https://www.legislation.gov.uk/uksi/2012/3086/regulation/2/4/b) and substituted (W.) (7.2.2013) by [The Council Tax (Administration and Enforcement) (Amendment) (Wales) Regulations 2013 (S.I. 2013/62)](https://www.legislation.gov.uk/uksi/2013/62), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/62/regulation/1/2), [2(4)(b)](https://www.legislation.gov.uk/uksi/2013/62/regulation/2/4/b)
+
+[^key-b4cb77d0f3ebaf75236e4178e060275f]: Textual amendment: [Reg. 4(8)(c)](https://www.legislation.gov.uk/uksi/1992/613/regulation/4/8/c) inserted (E.) (10.1.2013) by [The Council Tax (Administration and Enforcement) (Amendment) (No.2) (England) Regulations 2012 (S.I. 2012/3086)](https://www.legislation.gov.uk/uksi/2012/3086), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/2012/3086/regulation/1/1/a), [2(4)(c)](https://www.legislation.gov.uk/uksi/2012/3086/regulation/2/4/c) and inserted (W.) (7.2.2013) by [The Council Tax (Administration and Enforcement) (Amendment) (Wales) Regulations 2013 (S.I. 2013/62)](https://www.legislation.gov.uk/uksi/2013/62), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/62/regulation/1/2), [2(4)(c)](https://www.legislation.gov.uk/uksi/2013/62/regulation/2/4/c)
+
+[^key-9897ac7114654ebdfe233b59a98a3302]: Commencement: Reg. 5 in force at 1.4.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/613/regulation/1/1)
+
+[^M_E_543b2380-0c9f-4e39-fe36-4fffab4ef05f]: Extent: This version of this provision extends to Wales only; a separate version has been created for England only
+
+[^key-cc3b665e52d0eb58852ecb24a5778eda]: Textual amendment: [Regs. 5A-5C](https://www.legislation.gov.uk/uksi/1992/613/regulation/5A) inserted (W.) (1.4.2013) by [The Council Tax (Administration and Enforcement) (Amendment No. 2) (Wales) Regulations 2013 (S.I. 2013/570)](https://www.legislation.gov.uk/wsi/2013/570), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2013/570/regulation/1/1), [4](https://www.legislation.gov.uk/wsi/2013/570/regulation/4)
+
+[^M_E_925f3e53-1407-43fc-8285-ec4223b0b602]: Extent: This version of this provision extends to England only; a separate version has been created for Wales only
+
+[^key-8240eb97fbd2136169de8bb988c32981]: Textual amendment: [Regs. 5A-5C](https://www.legislation.gov.uk/uksi/1992/613/regulation/5A) inserted (E.) (10.4.2013) by [The Council Tax (Administration and Enforcement) (Amendment) (England) Regulations 2013 (S.I. 2013/590)](https://www.legislation.gov.uk/uksi/2013/590), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/590/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2013/590/regulation/2/3)
+
+[^M_E_77aa6550-52ce-4b15-df22-071aaa382da4]: Extent: This version of this provision extends to Wales only; a separate version has been created for England only
+
+[^M_E_de5a0a2a-dd75-412b-f045-e39d3e2bff2f]: Extent: This version of this provision extends to England only; a separate version has been created for Wales only
+
+[^M_E_733efc3c-15af-419b-f46d-d630ff973de3]: Extent: This version of this provision extends to Wales only; a separate version has been created for England only
+
+[^M_E_5400fb86-e7f7-4c0b-8172-b4cd1e1df8d0]: Extent: This version of this provision extends to England only; a separate version has been created for Wales only
+
+[^key-c44e4abc78ecd8bed2a74c2dd826554b]: Commencement: Reg. 6 in force at 1.4.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/613/regulation/1/1)
+
+[^key-ffb2d75d7a5a8c6ffb046e1b9c9989e0]: Textual amendment: [Reg. 6(b)](https://www.legislation.gov.uk/uksi/1992/613/regulation/6/b) and word omitted (1.4.1995) by virtue of [The Council Tax (Administration and Enforcement) (Amendment) Regulations 1995 (S.I. 1995/22)](https://www.legislation.gov.uk/uksi/1995/22), [regs. 1(2)](https://www.legislation.gov.uk/uksi/1995/22/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/1995/22/regulation/3)
+
+[^key-e800fdf8fc9391c451be6a1690460f31]: Commencement: Reg. 7 in force at 1.4.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/613/regulation/1/1)
+
+[^key-3952d661781c5ad72d96621be8bd72ad]: Textual amendment: Words in [reg. 7(1)](https://www.legislation.gov.uk/uksi/1992/613/regulation/7/1) substituted (24.12.1992) by [The Council Tax (Administration and Enforcement) (Amendment) Regulations 1992 (S.I. 1992/3008)](https://www.legislation.gov.uk/uksi/1992/3008), [regs. 1](https://www.legislation.gov.uk/uksi/1992/3008/regulation/1), [7(a)](https://www.legislation.gov.uk/uksi/1992/3008/regulation/7/a)
+
+[^key-7761657b29a32743161d8a6ab3ea76a9]: Textual amendment: Words in [reg. 7(2)](https://www.legislation.gov.uk/uksi/1992/613/regulation/7/2) substituted (24.12.1992) by [The Council Tax (Administration and Enforcement) (Amendment) Regulations 1992 (S.I. 1992/3008)](https://www.legislation.gov.uk/uksi/1992/3008), [regs. 1](https://www.legislation.gov.uk/uksi/1992/3008/regulation/1), [7(b)](https://www.legislation.gov.uk/uksi/1992/3008/regulation/7/b)
+
+[^key-7a527c4458505feda26db9a3ac2c8e62]: Textual amendment: Words in [reg. 7(3)](https://www.legislation.gov.uk/uksi/1992/613/regulation/7/3) substituted (24.12.1992) by [The Council Tax (Administration and Enforcement) (Amendment) Regulations 1992 (S.I. 1992/3008)](https://www.legislation.gov.uk/uksi/1992/3008), [regs. 1](https://www.legislation.gov.uk/uksi/1992/3008/regulation/1), [7(b)](https://www.legislation.gov.uk/uksi/1992/3008/regulation/7/b)
+
+[^key-5d6d827d5cf6b08afe7fa9f6f378cd53]: Textual amendment: [Reg. 7(3A)](https://www.legislation.gov.uk/uksi/1992/613/regulation/7/3A) inserted (24.12.1992) by [The Council Tax (Administration and Enforcement) (Amendment) Regulations 1992 (S.I. 1992/3008)](https://www.legislation.gov.uk/uksi/1992/3008), [regs. 1](https://www.legislation.gov.uk/uksi/1992/3008/regulation/1), [7(c)](https://www.legislation.gov.uk/uksi/1992/3008/regulation/7/c)
+
+[^key-ee71eb96cdbdd169fc39981402c26073]: Textual amendment: Words in [reg. 7(3A)](https://www.legislation.gov.uk/uksi/1992/613/regulation/7/3A) inserted (W.) (1.4.2026) by [The Council Tax (Discounts, Disregards and Exemptions) (Wales) Regulations 2026 (W.S.I. 2026/8)](https://www.legislation.gov.uk/wsi/2026/8), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/8/regulation/1/2), [Sch. 4 para. 2(3)](https://www.legislation.gov.uk/wsi/2026/8/schedule/4/paragraph/2/3)
+
+[^key-c85910f4f0a15c7027184e5e8d1995c9]: Textual amendment: [Reg. 7(4)(a)](https://www.legislation.gov.uk/uksi/1992/613/regulation/7/4/a) substituted (24.12.1992) by [The Council Tax (Administration and Enforcement) (Amendment) Regulations 1992 (S.I. 1992/3008)](https://www.legislation.gov.uk/uksi/1992/3008), [regs. 1](https://www.legislation.gov.uk/uksi/1992/3008/regulation/1), [7(d)](https://www.legislation.gov.uk/uksi/1992/3008/regulation/7/d)
+
+[^f00005]: Footnote: See the Council Tax (Exempt Dwellings) Order 1992 ([S.I. 1992/558](https://www.legislation.gov.uk/uksi/1992/558)).
+
+[^key-4b41d3528b16e9e521f78ee8a1e5c368]: Commencement: Reg. 8 in force at 1.4.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/613/regulation/1/1)
+
+[^key-e5465a1d140441ceaaf20f0d4bab392d]: Commencement: Reg. 9 in force at 1.4.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/613/regulation/1/1)
+
+[^key-82430b5bc6ba5237729374c1974a12e9]: Textual amendment: Words in reg. 9(2) substituted (E.) (1.4.2013) by [The Council Tax (Administration and Enforcement) (Amendment) (No.2) (England) Regulations 2012 (S.I. 2012/3086)](https://www.legislation.gov.uk/uksi/2012/3086), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2012/3086/regulation/1/1/b), [2(5)(a)](https://www.legislation.gov.uk/uksi/2012/3086/regulation/2/5/a) and substituted (W.) (1.4.2013) by [The Council Tax (Administration and Enforcement) (Amendment) (Wales) Regulations 2013 (S.I. 2013/62)](https://www.legislation.gov.uk/uksi/2013/62), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/62/regulation/1/2), [2(5)(a)](https://www.legislation.gov.uk/uksi/2013/62/regulation/2/5/a)
+
+[^key-7fb32f9b2dbe374c5aa378d97187f253]: Textual amendment: Reg. 9(3) inserted (E.) (1.4.2013) by [The Council Tax (Administration and Enforcement) (Amendment) (No.2) (England) Regulations 2012 (S.I. 2012/3086)](https://www.legislation.gov.uk/uksi/2012/3086), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2012/3086/regulation/1/1/b), [2(5)(b)](https://www.legislation.gov.uk/uksi/2012/3086/regulation/2/5/b)
+
+[^key-11d149efd48e14770d0f5601f6bd7679]: Textual amendment: Reg. 9(3) inserted (W.) (1.4.2013) by [The Council Tax (Administration and Enforcement) (Amendment) (Wales) Regulations 2013 (S.I. 2013/62)](https://www.legislation.gov.uk/wsi/2013/62), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2013/62/regulation/1/2), [2(5)(b)](https://www.legislation.gov.uk/wsi/2013/62/regulation/2/5/b)
+
+[^key-2d4498a33e4f4e958af302a3729b2fb1]: Textual amendment: Reg. 9(3)(a) substituted (W.) (14.2.2014) by [The Council Tax (Administration and Enforcement) (Amendment) (Wales) Regulations 2014 (S.I. 2014/129)](https://www.legislation.gov.uk/wsi/2014/129), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2014/129/regulation/1/2), [4(a)](https://www.legislation.gov.uk/wsi/2014/129/regulation/4/a) (with [reg. 11](https://www.legislation.gov.uk/wsi/2014/129/regulation/11))
+
+[^key-4485b9a31fc4a87d9414665aa17cb961]: Textual amendment: Reg. 9(3)(b) substituted (W.) (14.2.2014) by [The Council Tax (Administration and Enforcement) (Amendment) (Wales) Regulations 2014 (S.I. 2014/129)](https://www.legislation.gov.uk/wsi/2014/129), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2014/129/regulation/1/2), [4(b)](https://www.legislation.gov.uk/wsi/2014/129/regulation/4/b) (with [reg. 11](https://www.legislation.gov.uk/wsi/2014/129/regulation/11))
+
+[^key-134fa926788ce7581e2b9d0aab53bece]: Commencement: Reg. 10 in force at 1.4.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/613/regulation/1/1)
+
+[^key-ed271f1aef58649b7e29aedccb652902]: Textual amendment: Words in [reg. 10(3)](https://www.legislation.gov.uk/uksi/1992/613/regulation/10/3) inserted (E.) (1.4.2013) by [The Council Tax (Administration and Enforcement) (Amendment) (No.2) (England) Regulations 2012 (S.I. 2012/3086)](https://www.legislation.gov.uk/uksi/2012/3086), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2012/3086/regulation/1/1/b), [2(6)(a)](https://www.legislation.gov.uk/uksi/2012/3086/regulation/2/6/a) and inserted (W.) (1.4.2013) by [The Council Tax (Administration and Enforcement) (Amendment) (Wales) Regulations 2013 (S.I. 2013/62)](https://www.legislation.gov.uk/uksi/2013/62), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/62/regulation/1/2), [2(6)(a)](https://www.legislation.gov.uk/uksi/2013/62/regulation/2/6/a)
+
+[^key-9e35d1451fbeaf22ec47c7da61a67f4f]: Modification: [Reg. 10(3)(a)](https://www.legislation.gov.uk/uksi/1992/613/regulation/10/3/a) modified (1.4.1995) by [The Local Government Changes for England (Community Charge and Council Tax, Administration and Enforcement) Regulations 1995 (S.I. 1995/247)](https://www.legislation.gov.uk/uksi/1995/247), [regs. 1](https://www.legislation.gov.uk/uksi/1995/247/regulation/1), [19](https://www.legislation.gov.uk/uksi/1995/247/regulation/19)
+
+[^f00006]: Footnote: See the definition in section 4(2) of the Local Government Finance Act 1992.
+
+[^f00007]: Footnote: [1992 c. 4](https://www.legislation.gov.uk/ukpga/1992/4). Section 131 is amended by the Local Government Finance Act 1992, Schedule 9, paragraph 4.
+
+[^key-a6f584c133c37adb669cf83ad724aeb7]: Textual amendment: [Reg. 10(6)](https://www.legislation.gov.uk/uksi/1992/613/regulation/10/6) substituted (24.12.1992) by [The Council Tax (Administration and Enforcement) (Amendment) Regulations 1992 (S.I. 1992/3008)](https://www.legislation.gov.uk/uksi/1992/3008), [regs. 1](https://www.legislation.gov.uk/uksi/1992/3008/regulation/1), [8](https://www.legislation.gov.uk/uksi/1992/3008/regulation/8)
+
+[^key-1d7a2924ea9495b9626a2f4d2c17df8d]: Textual amendment: Words in [reg. 10(6)(a)](https://www.legislation.gov.uk/uksi/1992/613/regulation/10/6/a) inserted (W.) (1.4.2026) by [The Council Tax (Discounts, Disregards and Exemptions) (Wales) Regulations 2026 (W.S.I. 2026/8)](https://www.legislation.gov.uk/wsi/2026/8), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/8/regulation/1/2), [Sch. 4 para. 2(4)](https://www.legislation.gov.uk/wsi/2026/8/schedule/4/paragraph/2/4)
+
+[^key-8678da4638ec3bb7c374c8d48996f7ec]: Textual amendment: [Reg. 10(6A)](https://www.legislation.gov.uk/uksi/1992/613/regulation/10/6A) inserted (E.) (1.4.2013) by [The Council Tax (Administration and Enforcement) (Amendment) (No.2) (England) Regulations 2012 (S.I. 2012/3086)](https://www.legislation.gov.uk/uksi/2012/3086), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2012/3086/regulation/1/1/b), [2(6)(b)](https://www.legislation.gov.uk/uksi/2012/3086/regulation/2/6/b)
+
+[^key-aa9ed797876a7deb699b213288acbd69]: Textual amendment: [Reg. 10(6A)](https://www.legislation.gov.uk/uksi/1992/613/regulation/10/6A) inserted (W.) (1.4.2013) by [The Council Tax (Administration and Enforcement) (Amendment) (Wales) Regulations 2013 (S.I. 2013/62)](https://www.legislation.gov.uk/wsi/2013/62), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2013/62/regulation/1/2), [2(6)(b)](https://www.legislation.gov.uk/wsi/2013/62/regulation/2/6/b)
+
+[^key-ebdaf62fae88baa386636bee9da95028]: Textual amendment: Words in [reg. 10(6A)](https://www.legislation.gov.uk/uksi/1992/613/regulation/10/6A) substituted (W.) (14.2.2014) by [The Council Tax (Administration and Enforcement) (Amendment) (Wales) Regulations 2014 (S.I. 2014/129)](https://www.legislation.gov.uk/uksi/2014/129), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/129/regulation/1/2), [5(a)](https://www.legislation.gov.uk/uksi/2014/129/regulation/5/a) (with [reg. 11](https://www.legislation.gov.uk/uksi/2014/129/regulation/11))
+
+[^key-ef4756ef9820fa7aac400a3bcee170be]: Textual amendment: [Reg. 10(6A)(b)(i)](https://www.legislation.gov.uk/uksi/1992/613/regulation/10/6A/b/i) substituted (W.) (14.2.2014) by [The Council Tax (Administration and Enforcement) (Amendment) (Wales) Regulations 2014 (S.I. 2014/129)](https://www.legislation.gov.uk/uksi/2014/129), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/129/regulation/1/2), [5(b)](https://www.legislation.gov.uk/uksi/2014/129/regulation/5/b) (with [reg. 11](https://www.legislation.gov.uk/uksi/2014/129/regulation/11))
+
+[^key-f3922912f1c709f8b76d62aea62f3bcc]: Commencement: Reg. 11 in force at 1.4.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/613/regulation/1/1)
+
+[^key-b656ed9478da73e0fc34abe1fd27c042]: Textual amendment: Words in [reg. 11(1)](https://www.legislation.gov.uk/uksi/1992/613/regulation/11/1) substituted (E.) (1.4.2013) by [The Council Tax (Administration and Enforcement) (Amendment) (No.2) (England) Regulations 2012 (S.I. 2012/3086)](https://www.legislation.gov.uk/uksi/2012/3086), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2012/3086/regulation/1/1/b), [2(7)(a)](https://www.legislation.gov.uk/uksi/2012/3086/regulation/2/7/a) and substituted (W.) (1.4.2013) by [The Council Tax (Administration and Enforcement) (Amendment) (Wales) Regulations 2013 (S.I. 2013/62)](https://www.legislation.gov.uk/uksi/2013/62), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/62/regulation/1/2), [2(7)(a)](https://www.legislation.gov.uk/uksi/2013/62/regulation/2/7/a)
+
+[^key-426a4ad943e52bc375276004c736de99]: Textual amendment: [Reg. 11(1A)](https://www.legislation.gov.uk/uksi/1992/613/regulation/11/1A) inserted (E.) (1.4.2013) by [The Council Tax (Administration and Enforcement) (Amendment) (No.2) (England) Regulations 2012 (S.I. 2012/3086)](https://www.legislation.gov.uk/uksi/2012/3086), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2012/3086/regulation/1/1/b), [2(7)(b)](https://www.legislation.gov.uk/uksi/2012/3086/regulation/2/7/b)
+
+[^key-7ccfe94bd203463d10c44c38e08390cd]: Textual amendment: [Reg. 11(1A)](https://www.legislation.gov.uk/uksi/1992/613/regulation/11/1A) inserted (W.) (1.4.2013) by [The Council Tax (Administration and Enforcement) (Amendment) (Wales) Regulations 2013 (S.I. 2013/62)](https://www.legislation.gov.uk/wsi/2013/62), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2013/62/regulation/1/2), [2(7)(b)](https://www.legislation.gov.uk/wsi/2013/62/regulation/2/7/b)
+
+[^key-e457d09c8b00c6921985bbe890531fe3]: Textual amendment: Words in [reg. 11(1A)](https://www.legislation.gov.uk/uksi/1992/613/regulation/11/1A) substituted (W.) (14.2.2014) by [The Council Tax (Administration and Enforcement) (Amendment) (Wales) Regulations 2014 (S.I. 2014/129)](https://www.legislation.gov.uk/wsi/2014/129), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2014/129/regulation/1/2), [6](https://www.legislation.gov.uk/wsi/2014/129/regulation/6) (with [reg. 11](https://www.legislation.gov.uk/wsi/2014/129/regulation/11))
+
+[^key-c8a53436237bfcd55ff75db10b19a77f]: Commencement: Reg. 12 in force at 1.4.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/613/regulation/1/1)
+
+[^key-5d51df27b187e38128e15e4c42b5d697]: Textual amendment: Pt. 4 heading substituted (E.) (1.4.2013) by [The Council Tax (Administration and Enforcement) (Amendment) (No.2) (England) Regulations 2012 (S.I. 2012/3086)](https://www.legislation.gov.uk/uksi/2012/3086), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2012/3086/regulation/1/1/b), [2(8)](https://www.legislation.gov.uk/uksi/2012/3086/regulation/2/8) and substituted (W.) (15.2.2017) by [The Council Tax (Administration and Enforcement) (Amendment) (Wales) Regulations 2017 (S.I. 2017/41)](https://www.legislation.gov.uk/uksi/2017/41), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/41/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2017/41/regulation/2/3)
+
+[^key-6d2649509396ac56a605e82a54946e08]: Commencement: Reg. 13 in force at 1.4.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/613/regulation/1/1)
+
+[^key-40187f1b96c14f8ddfbc6e7e09587d63]: Textual amendment: [Reg. 14](https://www.legislation.gov.uk/uksi/1992/613/regulation/14) substituted (W.) (18.3.2004) by [The Council Tax (Administration and Enforcement) (Amendment) (Wales) Regulations 2004 (S.I. 2004/785)](https://www.legislation.gov.uk/uksi/2004/785), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2004/785/regulation/1/3), [4](https://www.legislation.gov.uk/uksi/2004/785/regulation/4) and substituted (E.) (22.4.2004) by [The Council Tax (Administration and Enforcement) (Amendment) (England) Regulations 2004 (S.I. 2004/927)](https://www.legislation.gov.uk/uksi/2004/927), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2004/927/regulation/1/3), [4](https://www.legislation.gov.uk/uksi/2004/927/regulation/4)
+
+[^key-c5a6a0dff650fca6483555f5ee2ab5f9]: Textual amendment: Words in reg. 14 heading inserted (E.) (1.4.2013) by [The Council Tax (Administration and Enforcement) (Amendment) (No.2) (England) Regulations 2012 (S.I. 2012/3086)](https://www.legislation.gov.uk/uksi/2012/3086), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2012/3086/regulation/1/1/b), [2(9)(a)](https://www.legislation.gov.uk/uksi/2012/3086/regulation/2/9/a) and inserted (W.) (15.2.2017) by [The Council Tax (Administration and Enforcement) (Amendment) (Wales) Regulations 2017 (S.I. 2017/41)](https://www.legislation.gov.uk/uksi/2017/41), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/41/regulation/1/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/2017/41/regulation/2/4/a)
+
+[^key-f689c2abd5b3c68d67a923dc5ee83685]: Textual amendment: Words in reg. 14 inserted (E.) (1.4.2013) by [The Council Tax (Administration and Enforcement) (Amendment) (No.2) (England) Regulations 2012 (S.I. 2012/3086)](https://www.legislation.gov.uk/uksi/2012/3086), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2012/3086/regulation/1/1/b), [2(9)(b)](https://www.legislation.gov.uk/uksi/2012/3086/regulation/2/9/b) and inserted (W.) (15.2.2017) by [The Council Tax (Administration and Enforcement) (Amendment) (Wales) Regulations 2017 (S.I. 2017/41)](https://www.legislation.gov.uk/uksi/2017/41), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/41/regulation/1/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/2017/41/regulation/2/4/b)
+
+[^key-ee64713de6ececb848043384c176ea98]: Commencement: Reg. 15 in force at 1.4.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/613/regulation/1/1)
+
+[^key-467a5871fe7ddaa7b77cd4c8f64f054a]: Textual amendment: Words in reg. 15 heading inserted (E.) (1.4.2013) by [The Council Tax (Administration and Enforcement) (Amendment) (No.2) (England) Regulations 2012 (S.I. 2012/3086)](https://www.legislation.gov.uk/uksi/2012/3086), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2012/3086/regulation/1/1/b), [2(10)(a)](https://www.legislation.gov.uk/uksi/2012/3086/regulation/2/10/a) and inserted (W.) (15.2.2017) by [The Council Tax (Administration and Enforcement) (Amendment) (Wales) Regulations 2017 (S.I. 2017/41)](https://www.legislation.gov.uk/uksi/2017/41), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/41/regulation/1/1), [2(5)(a)](https://www.legislation.gov.uk/uksi/2017/41/regulation/2/5/a)
+
+[^key-80ae27727f137427cabe4b85140f8a89]: Textual amendment: Words in reg. 15(1) inserted (E.) (1.4.2013) by [The Council Tax (Administration and Enforcement) (Amendment) (No.2) (England) Regulations 2012 (S.I. 2012/3086)](https://www.legislation.gov.uk/uksi/2012/3086), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2012/3086/regulation/1/1/b), [2(10)(b)](https://www.legislation.gov.uk/uksi/2012/3086/regulation/2/10/b) and inserted (W.) (15.2.2017) by [The Council Tax (Administration and Enforcement) (Amendment) (Wales) Regulations 2017 (S.I. 2017/41)](https://www.legislation.gov.uk/uksi/2017/41), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/41/regulation/1/1), [2(5)(b)](https://www.legislation.gov.uk/uksi/2017/41/regulation/2/5/b)
+
+[^key-1c2e3f7bd7c4141efdc549f710483aa2]: Textual amendment: Words in reg. 15(2) substituted (E.) (1.4.2013) by [The Council Tax (Administration and Enforcement) (Amendment) (No.2) (England) Regulations 2012 (S.I. 2012/3086)](https://www.legislation.gov.uk/uksi/2012/3086), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2012/3086/regulation/1/1/b), [2(10)(c)](https://www.legislation.gov.uk/uksi/2012/3086/regulation/2/10/c)
+
+    and substituted (W.) (1.4.2013) by [The Council Tax (Administration and Enforcement) (Amendment) (Wales) Regulations 2013 (S.I. 2013/62)](https://www.legislation.gov.uk/wsi/2013/62), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2013/62/regulation/1/2), [2(8)(a)](https://www.legislation.gov.uk/wsi/2013/62/regulation/2/8/a)
+
+[^key-7604b97f0fedef8cd9a6533f3ee3ea5a]: Textual amendment: Words in reg. 15(2) inserted (E.) (1.4.2013) by [The Council Tax (Administration and Enforcement) (Amendment) (No.2) (England) Regulations 2012 (S.I. 2012/3086)](https://www.legislation.gov.uk/uksi/2012/3086), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2012/3086/regulation/1/1/b), [2(10)(b)](https://www.legislation.gov.uk/uksi/2012/3086/regulation/2/10/b) and inserted (W.) (15.2.2017) by [The Council Tax (Administration and Enforcement) (Amendment) (Wales) Regulations 2017 (S.I. 2017/41)](https://www.legislation.gov.uk/uksi/2017/41), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/41/regulation/1/1), [2(5)(b)](https://www.legislation.gov.uk/uksi/2017/41/regulation/2/5/b)
+
+[^key-e73ec06c3248f30f81443c6f1359a3bb]: Textual amendment: Reg. 15(3) inserted (E.) (1.4.2013) by [The Council Tax (Administration and Enforcement) (Amendment) (No.2) (England) Regulations 2012 (S.I. 2012/3086)](https://www.legislation.gov.uk/uksi/2012/3086), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2012/3086/regulation/1/1/b), [2(10)(d)](https://www.legislation.gov.uk/uksi/2012/3086/regulation/2/10/d)
+
+[^key-b6788dc6aa4ea72b7598c48918db7072]: Textual amendment: Reg. 15(3) inserted (W.) (1.4.2013) by [The Council Tax (Administration and Enforcement) (Amendment) (Wales) Regulations 2013 (S.I. 2013/62)](https://www.legislation.gov.uk/wsi/2013/62), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2013/62/regulation/1/2), [2(8)(b)](https://www.legislation.gov.uk/wsi/2013/62/regulation/2/8/b)
+
+[^key-851461a03e04f752dbee4a4bf4e938bb]: Textual amendment: Reg. 15(3)(a) substituted (W.) (14.2.2014) by [The Council Tax (Administration and Enforcement) (Amendment) (Wales) Regulations 2014 (S.I. 2014/129)](https://www.legislation.gov.uk/wsi/2014/129), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2014/129/regulation/1/2), [7(a)](https://www.legislation.gov.uk/wsi/2014/129/regulation/7/a) (with [reg. 11](https://www.legislation.gov.uk/wsi/2014/129/regulation/11))
+
+[^key-87cfc36b2905b1820ef631ab1b3452a9]: Textual amendment: Reg. 15(3)(b) substituted (W.) (14.2.2014) by [The Council Tax (Administration and Enforcement) (Amendment) (Wales) Regulations 2014 (S.I. 2014/129)](https://www.legislation.gov.uk/wsi/2014/129), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2014/129/regulation/1/2), [7(b)](https://www.legislation.gov.uk/wsi/2014/129/regulation/7/b) (with [reg. 11](https://www.legislation.gov.uk/wsi/2014/129/regulation/11))
+
+[^key-167219475c76a69d6d21c095699eaffa]: Commencement: Reg. 16 in force at 1.4.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/613/regulation/1/1)
+
+[^key-0b610a3693370f3b16c35d44fe7aa8d6]: Textual amendment: Words in reg. 16 heading inserted (E.) (1.4.2013) by [The Council Tax (Administration and Enforcement) (Amendment) (No.2) (England) Regulations 2012 (S.I. 2012/3086)](https://www.legislation.gov.uk/uksi/2012/3086), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2012/3086/regulation/1/1/b), [2(11)(a)](https://www.legislation.gov.uk/uksi/2012/3086/regulation/2/11/a) and inserted (W.) (15.2.2017) by [The Council Tax (Administration and Enforcement) (Amendment) (Wales) Regulations 2017 (S.I. 2017/41)](https://www.legislation.gov.uk/uksi/2017/41), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/41/regulation/1/1), [2(6)(a)](https://www.legislation.gov.uk/uksi/2017/41/regulation/2/6/a)
+
+[^key-0da0dc839ae30e2c59f22325b83f21a9]: Textual amendment: Words in reg. 16(1) substituted (E.) (1.4.2013) by [The Council Tax (Administration and Enforcement) (Amendment) (No.2) (England) Regulations 2012 (S.I. 2012/3086)](https://www.legislation.gov.uk/uksi/2012/3086), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2012/3086/regulation/1/1/b), [2(11)(b)(i)](https://www.legislation.gov.uk/uksi/2012/3086/regulation/2/11/b/i) and substituted (W.) (1.4.2013) by [The Council Tax (Administration and Enforcement) (Amendment) (Wales) Regulations 2013 (S.I. 2013/62)](https://www.legislation.gov.uk/uksi/2013/62), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/62/regulation/1/2), [2(9)(a)(i)](https://www.legislation.gov.uk/uksi/2013/62/regulation/2/9/a/i)
+
+[^key-1ece0f786eb787e39cc7e76fc48a4400]: Textual amendment: Words in reg. 16(1)(a) inserted (E.) (1.4.2013) by [The Council Tax (Administration and Enforcement) (Amendment) (No.2) (England) Regulations 2012 (S.I. 2012/3086)](https://www.legislation.gov.uk/uksi/2012/3086), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2012/3086/regulation/1/1/b), [2(11)(b)(ii)](https://www.legislation.gov.uk/uksi/2012/3086/regulation/2/11/b/ii) and inserted (W.) (15.2.2017) by [The Council Tax (Administration and Enforcement) (Amendment) (Wales) Regulations 2017 (S.I. 2017/41)](https://www.legislation.gov.uk/uksi/2017/41), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/41/regulation/1/1), [2(6)(b)](https://www.legislation.gov.uk/uksi/2017/41/regulation/2/6/b)
+
+[^M_F_5c2054ef-e258-42f7-f792-c001208b64fb]: Textual amendment: Words in reg. 16(1)(b) inserted (E.) (1.4.2013) by [The Council Tax (Administration and Enforcement) (Amendment) (No.2) (England) Regulations 2012 (S.I. 2012/3086)](https://www.legislation.gov.uk/uksi/2012/3086), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2012/3086/regulation/1/1/b), [2(11)(b)(ii)](https://www.legislation.gov.uk/uksi/2012/3086/regulation/2/11/b/ii) and inserted (W.) (15.2.2017) by [The Council Tax (Administration and Enforcement) (Amendment) (Wales) Regulations 2017 (S.I. 2017/41)](https://www.legislation.gov.uk/uksi/2017/41), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/41/regulation/1/1), [2(6)(b)](https://www.legislation.gov.uk/uksi/2017/41/regulation/2/6/b)
+
+[^key-c0e76099ea9487d770c135779289390d]: Textual amendment: Words in reg. 16(1)(b) substituted (E.) (1.4.2013) by [The Council Tax (Administration and Enforcement) (Amendment) (No.2) (England) Regulations 2012 (S.I. 2012/3086)](https://www.legislation.gov.uk/uksi/2012/3086), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2012/3086/regulation/1/1/b), [2(11)(b)(iii)](https://www.legislation.gov.uk/uksi/2012/3086/regulation/2/11/b/iii) and substituted (W.) (1.4.2013) by [The Council Tax (Administration and Enforcement) (Amendment) (Wales) Regulations 2013 (S.I. 2013/62)](https://www.legislation.gov.uk/uksi/2013/62), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/62/regulation/1/2), [2(9)(a)(ii)](https://www.legislation.gov.uk/uksi/2013/62/regulation/2/9/a/ii)
+
+[^key-516503385fa535f179c2caeb5ac8d636]: Textual amendment: Reg. 16(1A) inserted (E.) (1.4.2013) by [The Council Tax (Administration and Enforcement) (Amendment) (No.2) (England) Regulations 2012 (S.I. 2012/3086)](https://www.legislation.gov.uk/uksi/2012/3086), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2012/3086/regulation/1/1/b), [2(11)(c)](https://www.legislation.gov.uk/uksi/2012/3086/regulation/2/11/c)
+
+[^key-7c41fa34f69c4aee15a3363d65584502]: Textual amendment: Reg. 16(1A) inserted (W.) (1.4.2013) by [The Council Tax (Administration and Enforcement) (Amendment) (Wales) Regulations 2013 (S.I. 2013/62)](https://www.legislation.gov.uk/wsi/2013/62), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2013/62/regulation/1/2), [2(9)(b)](https://www.legislation.gov.uk/wsi/2013/62/regulation/2/9/b)
+
+[^key-ca29daea78a585fa96235ef4ea4c493a]: Textual amendment: Words in reg. 16(1A) substituted (W.) (14.2.2014) by [The Council Tax (Administration and Enforcement) (Amendment) (Wales) Regulations 2014 (S.I. 2014/129)](https://www.legislation.gov.uk/wsi/2014/129), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2014/129/regulation/1/2), [8](https://www.legislation.gov.uk/wsi/2014/129/regulation/8) (with [reg. 11](https://www.legislation.gov.uk/wsi/2014/129/regulation/11))
+
+[^key-f67c15f2e739102323bdb8f25c3a5d67]: Commencement: Reg. 17 in force at 1.4.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/613/regulation/1/1)
+
+[^key-a2e4b14f9dfce705e455eba4ced0282b]: Textual amendment: Words in [reg. 17(1)](https://www.legislation.gov.uk/uksi/1992/613/regulation/17/1) inserted (24.12.1992) by [The Council Tax (Administration and Enforcement) (Amendment) Regulations 1992 (S.I. 1992/3008)](https://www.legislation.gov.uk/uksi/1992/3008), [regs. 1](https://www.legislation.gov.uk/uksi/1992/3008/regulation/1), [9(1)(a)](https://www.legislation.gov.uk/uksi/1992/3008/regulation/9/1/a)
+
+[^key-db997c2c384f4ed10a874def4d9b1f2f]: Textual amendment: Words in [reg. 17(1)](https://www.legislation.gov.uk/uksi/1992/613/regulation/17/1) omitted (15.2.1993) by virtue of [The Council Tax (Administration and Enforcement) (Amendment) Regulations 1993 (S.I. 1993/196)](https://www.legislation.gov.uk/uksi/1993/196), [regs. 1](https://www.legislation.gov.uk/uksi/1993/196/regulation/1), [2(a)](https://www.legislation.gov.uk/uksi/1993/196/regulation/2/a)
+
+[^key-9dc8ef67615c19f3787e51b0ee0a5968]: Modification: [Reg. 17(1A)](https://www.legislation.gov.uk/uksi/1992/613/regulation/17/1A) modified (1.1.1996) by [The Local Government Reorganisation (Wales) (Finance) (Miscellaneous Amendments and Transitional Provisions) Order 1995 (S.I. 1995/3150)](https://www.legislation.gov.uk/uksi/1995/3150), [arts. 1](https://www.legislation.gov.uk/uksi/1995/3150/article/1), [5](https://www.legislation.gov.uk/uksi/1995/3150/article/5)
+
+[^key-8ee407ec30b8c2e00c38392b28bb6c1b]: Textual amendment: [Reg. 17(1A)](https://www.legislation.gov.uk/uksi/1992/613/regulation/17/1A)[(1B)](https://www.legislation.gov.uk/uksi/1992/613/regulation/17/1B) inserted (15.2.1993) by [The Council Tax (Administration and Enforcement) (Amendment) Regulations 1993 (S.I. 1993/196)](https://www.legislation.gov.uk/uksi/1993/196), [regs. 1](https://www.legislation.gov.uk/uksi/1993/196/regulation/1), [2(b)](https://www.legislation.gov.uk/uksi/1993/196/regulation/2/b)
+
+[^key-639bcf45c39313ce9121ad723c662208]: Modification: [Reg. 17(1A)(a)](https://www.legislation.gov.uk/uksi/1992/613/regulation/17/1A/a) modified (1.4.1995) by [The Local Government Changes for England (Community Charge and Council Tax, Administration and Enforcement) Regulations 1995 (S.I. 1995/247)](https://www.legislation.gov.uk/uksi/1995/247), [regs. 1](https://www.legislation.gov.uk/uksi/1995/247/regulation/1), [19](https://www.legislation.gov.uk/uksi/1995/247/regulation/19)
+
+[^key-d4b7e67eaf27066c6b1a8075d4dc3171]: Textual amendment: [Reg. 17(2)](https://www.legislation.gov.uk/uksi/1992/613/regulation/17/2) substituted (24.12.1992) by [The Council Tax (Administration and Enforcement) (Amendment) Regulations 1992 (S.I. 1992/3008)](https://www.legislation.gov.uk/uksi/1992/3008), [regs. 1](https://www.legislation.gov.uk/uksi/1992/3008/regulation/1), [9(1)(b)](https://www.legislation.gov.uk/uksi/1992/3008/regulation/9/1/b)
+
+[^key-6dd4e0cd93ce4876e0362abcdaee0cfa]: Textual amendment: [Reg. 17(5)](https://www.legislation.gov.uk/uksi/1992/613/regulation/17/5) substituted (24.12.1992) by [The Council Tax (Administration and Enforcement) (Amendment) Regulations 1992 (S.I. 1992/3008)](https://www.legislation.gov.uk/uksi/1992/3008), [regs. 1](https://www.legislation.gov.uk/uksi/1992/3008/regulation/1), [9(1)(c)](https://www.legislation.gov.uk/uksi/1992/3008/regulation/9/1/c)
+
+[^key-635f5e96b35e24629b1ec56ab680c610]: Commencement: Reg. 18 in force at 1.4.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/613/regulation/1/1)
+
+[^key-c1844227f51db59f851823050993c7ed]: Textual amendment: Words in [reg. 18(2)](https://www.legislation.gov.uk/uksi/1992/613/regulation/18/2) substituted (18.3.1997) by [The Council Tax (Administration and Enforcement) (Amendment) Regulations 1997 (S.I. 1997/393)](https://www.legislation.gov.uk/uksi/1997/393), [regs. 1](https://www.legislation.gov.uk/uksi/1997/393/regulation/1), [3](https://www.legislation.gov.uk/uksi/1997/393/regulation/3)
+
+[^key-b2fb9766672b0d5e087d1eb63035ea8f]: Textual amendment: [Reg. 19](https://www.legislation.gov.uk/uksi/1992/613/regulation/19) substituted (24.12.1992) by [The Council Tax (Administration and Enforcement) (Amendment) Regulations 1992 (S.I. 1992/3008)](https://www.legislation.gov.uk/uksi/1992/3008), [regs. 1](https://www.legislation.gov.uk/uksi/1992/3008/regulation/1), [10](https://www.legislation.gov.uk/uksi/1992/3008/regulation/10)
+
+[^key-88cd6ed6fd2ce22e7e6b57976bba9413]: Commencement: Reg. 20 in force at 1.4.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/613/regulation/1/1)
+
+[^key-88ce529381e7b8fb9d4a69216035760b]: Textual amendment: Words in reg. 20(2)(b) substituted (E.) (1.4.2013) by [The Council Tax (Administration and Enforcement) (Amendment) (No.2) (England) Regulations 2012 (S.I. 2012/3086)](https://www.legislation.gov.uk/uksi/2012/3086), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2012/3086/regulation/1/1/b), [2(12)(a)](https://www.legislation.gov.uk/uksi/2012/3086/regulation/2/12/a) and substituted (W.) (1.4.2013) by [The Council Tax (Administration and Enforcement) (Amendment) (Wales) Regulations 2013 (S.I. 2013/62)](https://www.legislation.gov.uk/wsi/2013/62), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2013/62/regulation/1/2), [2(10)(a)](https://www.legislation.gov.uk/wsi/2013/62/regulation/2/10/a)
+
+[^key-66ed12e865baed26a199bd0b54c5627e]: Textual amendment: Reg. 20(2A) inserted (E.) (1.4.2013) by [The Council Tax (Administration and Enforcement) (Amendment) (No.2) (England) Regulations 2012 (S.I. 2012/3086)](https://www.legislation.gov.uk/uksi/2012/3086), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2012/3086/regulation/1/1/b), [2(12)(b)](https://www.legislation.gov.uk/uksi/2012/3086/regulation/2/12/b)
+
+[^key-afef7bf6e298959e47d2f65afc42c591]: Textual amendment: Reg. 20(2A) inserted (W.) (1.4.2013) by [The Council Tax (Administration and Enforcement) (Amendment) (Wales) Regulations 2013 (S.I. 2013/62)](https://www.legislation.gov.uk/wsi/2013/62), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2013/62/regulation/1/2), [2(10)(b)](https://www.legislation.gov.uk/wsi/2013/62/regulation/2/10/b)
+
+[^key-6762f60046eb9a8d225eb90475406f1c]: Textual amendment: [Reg. 20(2A)(a)](https://www.legislation.gov.uk/uksi/1992/613/regulation/20/2A/a) substituted (W.) (14.2.2014) by [The Council Tax (Administration and Enforcement) (Amendment) (Wales) Regulations 2014 (S.I. 2014/129)](https://www.legislation.gov.uk/wsi/2014/129), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2014/129/regulation/1/2), [9(a)](https://www.legislation.gov.uk/wsi/2014/129/regulation/9/a) (with [reg. 11](https://www.legislation.gov.uk/wsi/2014/129/regulation/11))
+
+[^key-971d4e2498734a38562e92c28c4d1d87]: Textual amendment: [Reg. 20(2A)(b)](https://www.legislation.gov.uk/uksi/1992/613/regulation/20/2A/b) substituted (W.) (14.2.2014) by [The Council Tax (Administration and Enforcement) (Amendment) (Wales) Regulations 2014 (S.I. 2014/129)](https://www.legislation.gov.uk/wsi/2014/129), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2014/129/regulation/1/2), [9(b)](https://www.legislation.gov.uk/wsi/2014/129/regulation/9/b) (with [reg. 11](https://www.legislation.gov.uk/wsi/2014/129/regulation/11))
+
+[^key-41d6dcb6fc4f8ee743be9b4501dc7ace]: Textual amendment: Word in reg. 20(3)(f) omitted (E.) (1.4.2013) by virtue of [The Council Tax (Administration and Enforcement) (Amendment) (No.2) (England) Regulations 2012 (S.I. 2012/3086)](https://www.legislation.gov.uk/uksi/2012/3086), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2012/3086/regulation/1/1/b), [2(12)(c)](https://www.legislation.gov.uk/uksi/2012/3086/regulation/2/12/c) and omitted (W.) (1.4.2013) by virtue of [The Council Tax (Administration and Enforcement) (Amendment) (Wales) Regulations 2013 (S.I. 2013/62)](https://www.legislation.gov.uk/uksi/2013/62), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/62/regulation/1/2), [2(10)(c)](https://www.legislation.gov.uk/uksi/2013/62/regulation/2/10/c)
+
+[^key-f9d4692ba8b28976fe4902229c90ce71]: Textual amendment: Reg. 20(3)(fa) inserted (E.) (1.4.2013) by [The Council Tax (Administration and Enforcement) (Amendment) (No.2) (England) Regulations 2012 (S.I. 2012/3086)](https://www.legislation.gov.uk/uksi/2012/3086), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2012/3086/regulation/1/1/b), [2(12)(d)](https://www.legislation.gov.uk/uksi/2012/3086/regulation/2/12/d) and inserted (W.) (1.4.2013) by [The Council Tax (Administration and Enforcement) (Amendment) (Wales) Regulations 2013 (S.I. 2013/62)](https://www.legislation.gov.uk/wsi/2013/62), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2013/62/regulation/1/2), [2(10)(d)](https://www.legislation.gov.uk/wsi/2013/62/regulation/2/10/d)
+
+[^f00008]: Footnote: [1992 c. 5](https://www.legislation.gov.uk/ukpga/1992/5); section 138 is amended by the Local Government Finance Act 1992, Schedule 9, paragraph 19.
+
+[^key-ed0ca33a0f6bf34fd7cb9a8b568da3c4]: Commencement: Reg. 21 in force at 1.4.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/613/regulation/1/1)
+
+[^key-60ad739c55b938ba6ffded351fed1a9e]: Textual amendment: [Reg. 21(1A)-(1D)](https://www.legislation.gov.uk/uksi/1992/613/regulation/21/1A) inserted (E.) (1.4.2013) by [The Council Tax (Administration and Enforcement) (Amendment) (No.2) (England) Regulations 2012 (S.I. 2012/3086)](https://www.legislation.gov.uk/uksi/2012/3086), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2012/3086/regulation/1/1/b), [2(13)](https://www.legislation.gov.uk/uksi/2012/3086/regulation/2/13) and inserted (W.) (1.4.2013) by [The Council Tax (Administration and Enforcement) (Amendment) (Wales) Regulations 2013 (S.I. 2013/62)](https://www.legislation.gov.uk/uksi/2013/62), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/62/regulation/1/2), [2(11)](https://www.legislation.gov.uk/uksi/2013/62/regulation/2/11)
+
+[^key-8bc9ceab45921d63400a320030b3ba08]: Textual amendment: [Regs. 21A](https://www.legislation.gov.uk/uksi/1992/613/regulation/21A), [21B](https://www.legislation.gov.uk/uksi/1992/613/regulation/21B) inserted (E.) (1.4.2012) by [The Council Tax (Administration and Enforcement) (Amendment) (England) Regulations 2012 (S.I. 2012/672)](https://www.legislation.gov.uk/uksi/2012/672), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2012/672/regulation/1/1/b), [2(2)](https://www.legislation.gov.uk/uksi/2012/672/regulation/2/2)
+
+[^key-2a6f88ca1ffa7b123986d8f82fd58822]: Commencement: Reg. 22 in force at 1.4.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/613/regulation/1/1)
+
+[^key-66c11a3b50c9ac01fb43c46e1973394f]: Commencement: Reg. 23 in force at 1.4.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/613/regulation/1/1)
+
+[^key-ae9b9b9dfe1471a55051780ed66b3f7c]: Textual amendment: Words in [reg. 23(1)(a)](https://www.legislation.gov.uk/uksi/1992/613/regulation/23/1/a) inserted (W.) (1.4.2026) by [The Council Tax (Administration and Enforcement) (Amendment) (Wales) Regulations 2025 (S.I. 2025/1109)](https://www.legislation.gov.uk/wsi/2025/1109), [regs. 1](https://www.legislation.gov.uk/wsi/2025/1109/regulation/1), [3(a)](https://www.legislation.gov.uk/wsi/2025/1109/regulation/3/a)
+
+[^key-b9048507a96ac57d8a9cf1301521f883]: Textual amendment: Words in [reg. 23(1)(b)](https://www.legislation.gov.uk/uksi/1992/613/regulation/23/1/b) inserted (18.3.1997) by [The Council Tax (Administration and Enforcement) (Amendment) Regulations 1997 (S.I. 1997/393)](https://www.legislation.gov.uk/uksi/1997/393), [regs. 1](https://www.legislation.gov.uk/uksi/1997/393/regulation/1), [4(a)(i)](https://www.legislation.gov.uk/uksi/1997/393/regulation/4/a/i)
+
+[^key-f6af2a781b178b7daa0b322730aad8d2]: Textual amendment: Words in [reg. 23(1)(c)](https://www.legislation.gov.uk/uksi/1992/613/regulation/23/1/c) inserted (18.3.1997) by [The Council Tax (Administration and Enforcement) (Amendment) Regulations 1997 (S.I. 1997/393)](https://www.legislation.gov.uk/uksi/1997/393), [regs. 1](https://www.legislation.gov.uk/uksi/1997/393/regulation/1), [4(a)(ii)](https://www.legislation.gov.uk/uksi/1997/393/regulation/4/a/ii)
+
+[^key-8aa52d04c0961cf9c005dc44805d1646]: Textual amendment: Words in [reg. 23(1)](https://www.legislation.gov.uk/uksi/1992/613/regulation/23/1) substituted (W.) (1.4.2026) by [The Council Tax (Administration and Enforcement) (Amendment) (Wales) Regulations 2025 (S.I. 2025/1109)](https://www.legislation.gov.uk/wsi/2025/1109), [regs. 1](https://www.legislation.gov.uk/wsi/2025/1109/regulation/1), [3(b)](https://www.legislation.gov.uk/wsi/2025/1109/regulation/3/b)
+
+[^key-d8016af649f36cea86eae6a974b61d2f]: Textual amendment: [Reg. 23(1)(i)-(iv)](https://www.legislation.gov.uk/uksi/1992/613/regulation/23/1/i) substituted for reg. 23(1)(i)-(iii) (1.4.1994) by [The Council Tax (Administration and Enforcement) (Amendment) Regulations 1994 (S.I. 1994/505)](https://www.legislation.gov.uk/uksi/1994/505), [regs. 1](https://www.legislation.gov.uk/uksi/1994/505/regulation/1), [3](https://www.legislation.gov.uk/uksi/1994/505/regulation/3)
+
+[^key-a6407d170c6a1e9ba521606dcba650a8]: Textual amendment: Words in [reg. 23(2)](https://www.legislation.gov.uk/uksi/1992/613/regulation/23/2) inserted (W.) (1.4.2026) by [The Council Tax (Administration and Enforcement) (Amendment) (Wales) Regulations 2025 (S.I. 2025/1109)](https://www.legislation.gov.uk/wsi/2025/1109), [regs. 1](https://www.legislation.gov.uk/wsi/2025/1109/regulation/1), [3(c)](https://www.legislation.gov.uk/wsi/2025/1109/regulation/3/c)
+
+[^key-7a0fdbb9e15e0f9be3def9a413d507e4]: Textual amendment: Words in [reg. 23(3)](https://www.legislation.gov.uk/uksi/1992/613/regulation/23/3) inserted (W.) (1.4.2026) by [The Council Tax (Administration and Enforcement) (Amendment) (Wales) Regulations 2025 (S.I. 2025/1109)](https://www.legislation.gov.uk/wsi/2025/1109), [regs. 1](https://www.legislation.gov.uk/wsi/2025/1109/regulation/1), [3(d)](https://www.legislation.gov.uk/wsi/2025/1109/regulation/3/d)
+
+[^key-7ca9898301930802f459e5bc83ba8299]: Textual amendment: Words in [reg. 23(3)](https://www.legislation.gov.uk/uksi/1992/613/regulation/23/3) inserted (18.3.1997) by [The Council Tax (Administration and Enforcement) (Amendment) Regulations 1997 (S.I. 1997/393)](https://www.legislation.gov.uk/uksi/1997/393), [regs. 1](https://www.legislation.gov.uk/uksi/1997/393/regulation/1), [4(b)](https://www.legislation.gov.uk/uksi/1997/393/regulation/4/b)
+
+[^key-ebdd95185faa70c65c44c667593e0bf5]: Textual amendment: Words in [reg. 23(4)](https://www.legislation.gov.uk/uksi/1992/613/regulation/23/4) inserted (W.) (1.4.2026) by [The Council Tax (Administration and Enforcement) (Amendment) (Wales) Regulations 2025 (S.I. 2025/1109)](https://www.legislation.gov.uk/wsi/2025/1109), [regs. 1](https://www.legislation.gov.uk/wsi/2025/1109/regulation/1), [3(e)](https://www.legislation.gov.uk/wsi/2025/1109/regulation/3/e)
+
+[^key-e5064952126fcd5d9e504d765beabeca]: Textual amendment: Words in [reg. 23(4)](https://www.legislation.gov.uk/uksi/1992/613/regulation/23/4) inserted (18.3.1997) by [The Council Tax (Administration and Enforcement) (Amendment) Regulations 1997 (S.I. 1997/393)](https://www.legislation.gov.uk/uksi/1997/393), [regs. 1](https://www.legislation.gov.uk/uksi/1997/393/regulation/1), [4(b)](https://www.legislation.gov.uk/uksi/1997/393/regulation/4/b)
+
+[^key-765b32f15b989c73163d846ac5de76d2]: Textual amendment: [Reg. 23(5)](https://www.legislation.gov.uk/uksi/1992/613/regulation/23/5) inserted (W.) (1.4.2026) by [The Council Tax (Administration and Enforcement) (Amendment) (Wales) Regulations 2025 (S.I. 2025/1109)](https://www.legislation.gov.uk/wsi/2025/1109), [regs. 1](https://www.legislation.gov.uk/wsi/2025/1109/regulation/1), [3(f)](https://www.legislation.gov.uk/wsi/2025/1109/regulation/3/f)
+
+[^key-436d7254b7f7cf545a86261d20894bde]: Commencement: Reg. 24 in force at 1.4.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/613/regulation/1/1)
+
+[^key-eaee11abd03d4595ce7fccc24dd4a6a5]: Textual amendment: Words in [reg. 24(7)](https://www.legislation.gov.uk/uksi/1992/613/regulation/24/7) inserted (W.) (1.4.2026) by [The Council Tax (Administration and Enforcement) (Amendment) (Wales) Regulations 2025 (S.I. 2025/1109)](https://www.legislation.gov.uk/wsi/2025/1109), [regs. 1](https://www.legislation.gov.uk/wsi/2025/1109/regulation/1), [4](https://www.legislation.gov.uk/wsi/2025/1109/regulation/4)
+
+[^key-27ddb0eaaab0f3b3083e112a6613d2d6]: Commencement: Reg. 25 in force at 1.4.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/613/regulation/1/1)
+
+[^key-b7d2e125a89fac50a6744ddd051ea4be]: Commencement: Reg. 26 in force at 1.4.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/613/regulation/1/1)
+
+[^f00009]: Footnote: [1954 c. 12](https://www.legislation.gov.uk/ukpga/1954/12).
+
+[^key-e22474e6ff30e16f6e702bccb39a29ff]: Textual amendment: [Reg. 27](https://www.legislation.gov.uk/uksi/1992/613/regulation/27) substituted (24.12.1992) by [The Council Tax (Administration and Enforcement) (Amendment) Regulations 1992 (S.I. 1992/3008)](https://www.legislation.gov.uk/uksi/1992/3008), [regs. 1](https://www.legislation.gov.uk/uksi/1992/3008/regulation/1), [11](https://www.legislation.gov.uk/uksi/1992/3008/regulation/11)
+
+[^key-a7e4589588b8ddb98f7e7ef2b109f71b]: Textual amendment: [Reg. 27(2)(da)](https://www.legislation.gov.uk/uksi/1992/613/regulation/27/2/da) inserted (W.) (1.4.2026) by [The Council Tax (Administration and Enforcement) (Amendment) (Wales) Regulations 2025 (S.I. 2025/1109)](https://www.legislation.gov.uk/wsi/2025/1109), [regs. 1](https://www.legislation.gov.uk/wsi/2025/1109/regulation/1), [5](https://www.legislation.gov.uk/wsi/2025/1109/regulation/5)
+
+[^key-65cf5be1403bd51dd655fda2f9acd3e3]: Textual amendment: Words in [reg. 27(2)(e)(i)](https://www.legislation.gov.uk/uksi/1992/613/regulation/27/2/e/i) inserted (E.) (10.4.2013) by [The Council Tax (Administration and Enforcement) (Amendment) (England) Regulations 2013 (S.I. 2013/590)](https://www.legislation.gov.uk/uksi/2013/590), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/590/regulation/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2013/590/regulation/2/4)
+
+[^key-d2fca4458d2e725439bc8fbb4d6455b5]: Textual amendment: Words in [reg. 27(2)(e)(i)](https://www.legislation.gov.uk/uksi/1992/613/regulation/27/2/e/i) inserted (W.) (1.4.2013) by [The Council Tax (Administration and Enforcement) (Amendment No. 2) (Wales) Regulations 2013 (S.I. 2013/570)](https://www.legislation.gov.uk/wsi/2013/570), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2013/570/regulation/1/1), [5](https://www.legislation.gov.uk/wsi/2013/570/regulation/5)
+
+[^key-a7b9f5b151705197ee92d44259540ae9]: Textual amendment: [Regs. 28](https://www.legislation.gov.uk/uksi/1992/613/regulation/28), [28A](https://www.legislation.gov.uk/uksi/1992/613/regulation/28A) substituted for reg. 28 (24.12.1992) by [The Council Tax (Administration and Enforcement) (Amendment) Regulations 1992 (S.I. 1992/3008)](https://www.legislation.gov.uk/uksi/1992/3008), [regs. 1](https://www.legislation.gov.uk/uksi/1992/3008/regulation/1), [12](https://www.legislation.gov.uk/uksi/1992/3008/regulation/12)
+
+[^key-4eaf0c138600ccd19c142d39deb607ad]: Textual amendment: Words in [reg. 28(4)](https://www.legislation.gov.uk/uksi/1992/613/regulation/28/4) substituted (1.4.1994) by [The Council Tax (Administration and Enforcement) (Amendment) Regulations 1994 (S.I. 1994/505)](https://www.legislation.gov.uk/uksi/1994/505), [regs. 1](https://www.legislation.gov.uk/uksi/1994/505/regulation/1), [4](https://www.legislation.gov.uk/uksi/1994/505/regulation/4)
+
+[^key-3891925cc4c42497a4d9abb7fa17d517]: Commencement: Reg. 29 in force at 1.4.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/613/regulation/1/1)
+
+[^key-f330011ce4413e5f44f9dbff3500a461]: Textual amendment: Words in [reg. 29(1)](https://www.legislation.gov.uk/uksi/1992/613/regulation/29/1) inserted (E.) (10.4.2013) by [The Council Tax (Administration and Enforcement) (Amendment) (England) Regulations 2013 (S.I. 2013/590)](https://www.legislation.gov.uk/uksi/2013/590), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/590/regulation/1/1), [2(5)(a)](https://www.legislation.gov.uk/uksi/2013/590/regulation/2/5/a)
+
+[^key-af324288fb77783d7d1a4d098ace0729]: Textual amendment: Words in [reg. 29(1)](https://www.legislation.gov.uk/uksi/1992/613/regulation/29/1) inserted (W.) (1.4.2013) by [The Council Tax (Administration and Enforcement) (Amendment No. 2) (Wales) Regulations 2013 (S.I. 2013/570)](https://www.legislation.gov.uk/wsi/2013/570), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2013/570/regulation/1/1), [6(a)](https://www.legislation.gov.uk/wsi/2013/570/regulation/6/a)
+
+[^key-0da3cc1d04ddd47a3b029dae4c810d85]: Textual amendment: Words in [reg. 29(3)](https://www.legislation.gov.uk/uksi/1992/613/regulation/29/3) substituted (E.) (10.4.2013) by [The Council Tax (Administration and Enforcement) (Amendment) (England) Regulations 2013 (S.I. 2013/590)](https://www.legislation.gov.uk/uksi/2013/590), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/590/regulation/1/1), [2(5)(b)](https://www.legislation.gov.uk/uksi/2013/590/regulation/2/5/b)
+
+[^key-444dd2eb3f13e8b0ca3933148fdccf0c]: Textual amendment: Words in [reg. 29(5)](https://www.legislation.gov.uk/uksi/1992/613/regulation/29/5) inserted (E.) (10.4.2013) by [The Council Tax (Administration and Enforcement) (Amendment) (England) Regulations 2013 (S.I. 2013/590)](https://www.legislation.gov.uk/uksi/2013/590), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/590/regulation/1/1), [2(5)(c)](https://www.legislation.gov.uk/uksi/2013/590/regulation/2/5/c)
+
+[^key-9c765c37aaaacbf442b8dd98b9df7d59]: Textual amendment: Words in [reg. 29(5)](https://www.legislation.gov.uk/uksi/1992/613/regulation/29/5) inserted (W.) (1.4.2013) by [The Council Tax (Administration and Enforcement) (Amendment No. 2) (Wales) Regulations 2013 (S.I. 2013/570)](https://www.legislation.gov.uk/wsi/2013/570), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2013/570/regulation/1/1), [6(b)](https://www.legislation.gov.uk/wsi/2013/570/regulation/6/b)
+
+[^f00010]: Footnote: See paragraphs 10A and 11(2)(d) of Schedule 11 to the Local Government Finance Act 1988, as inserted and substituted respectively by the Local Government Finance Act 1992, Schedule 13, paragraph 88(9) and (11).
+
+[^key-a0315b6fc556c4e40afde31c94645c98]: Commencement: Reg. 30 in force at 1.4.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/613/regulation/1/1)
+
+[^key-05cfb227422a0c9ffefb75e7dc97cd60]: Commencement: Reg. 31 in force at 1.4.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/613/regulation/1/1)
+
+[^key-4ed77e0f043f4fa911d812bdf60f4b91]: Commencement: Reg. 32 in force at 1.4.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/613/regulation/1/1)
+
+[^key-f8787d75d9a75239341f8a99c35396e8]: Textual amendment: Words in reg. 32(1) inserted (18.7.1996) by [The Local Authorities (Contracting Out of Tax Billing, Collection and Enforcement Functions) Order 1996 (S.I. 1996/1880)](https://www.legislation.gov.uk/uksi/1996/1880), [arts. 1](https://www.legislation.gov.uk/uksi/1996/1880/article/1), [30(1)](https://www.legislation.gov.uk/uksi/1996/1880/article/30/1)
+
+[^key-fa01982674c1dad976dcd68832cb18dc]: Textual amendment: Words in reg. 32(1) inserted (1.4.1999) by [The Council Tax (Administration and Enforcement) (Amendment) Regulations 1999 (S.I. 1999/534)](https://www.legislation.gov.uk/uksi/1999/534), [regs. 1](https://www.legislation.gov.uk/uksi/1999/534/regulation/1), [3](https://www.legislation.gov.uk/uksi/1999/534/regulation/3)
+
+[^key-0d1b46f4a87a4b0cb609d0c3df291683]: Textual amendment: Words in [reg. 32(1)](https://www.legislation.gov.uk/uksi/1992/613/regulation/32/1) inserted (W.) (29.4.2013) by [The Council Tax (Administration and Enforcement) (Amendment No. 2) (Wales) Regulations 2013 (S.I. 2013/570)](https://www.legislation.gov.uk/wsi/2013/570), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2013/570/regulation/1/2), [7](https://www.legislation.gov.uk/wsi/2013/570/regulation/7)
+
+[^key-abb3dff797e62b13fddca57d4d28a0a7]: Textual amendment: Words in [reg. 32(1)](https://www.legislation.gov.uk/uksi/1992/613/regulation/32/1) inserted (E.) (15.4.2003) by [The Council Tax (Administration and Enforcement) (Amendment) (England) Regulations 2003 (S.I. 2003/768)](https://www.legislation.gov.uk/uksi/2003/768), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/768/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2003/768/regulation/3)
+
+[^key-541d0fbbdc9cd82fa6c15c4bf3067ecc]: Textual amendment: Words in [reg. 32](https://www.legislation.gov.uk/uksi/1992/613/regulation/32) inserted (E.) (29.4.2013) by [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations 2013 (S.I. 2013/630)](https://www.legislation.gov.uk/uksi/2013/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/630/regulation/1/2), [56(3)](https://www.legislation.gov.uk/uksi/2013/630/regulation/56/3)
+
+[^key-6397ed7afd88d96de118d668dacab88c]: Textual amendment: Words in [reg. 32(1)](https://www.legislation.gov.uk/uksi/1992/613/regulation/32/1) inserted (W.) (6.4.2003) by [The Council Tax (Administration and Enforcement) (Amendment) (Wales) Regulations 2003 (S.I. 2003/522)](https://www.legislation.gov.uk/wsi/2003/522), [regs. 1](https://www.legislation.gov.uk/wsi/2003/522/regulation/1), [4](https://www.legislation.gov.uk/wsi/2003/522/regulation/4)
+
+[^key-77ef51dafa51d36dd34c7b5f39dca345]: Textual amendment: Words in reg. 32(1) inserted (1.4.1993) by [The Council Tax (Administration and Enforcement) (Amendment) (No. 2) Regulations 1993 (S.I. 1993/773)](https://www.legislation.gov.uk/uksi/1993/773), [regs. 1](https://www.legislation.gov.uk/uksi/1993/773/regulation/1), [3(b)](https://www.legislation.gov.uk/uksi/1993/773/regulation/3/b)
+
+[^key-33700a71905dcfd0e2fa280cf17c6f84]: Textual amendment: Words in [reg. 32(1)](https://www.legislation.gov.uk/uksi/1992/613/regulation/32/1) inserted (W.) (18.3.2004) by [The Council Tax (Administration and Enforcement) (Amendment) (Wales) Regulations 2004 (S.I. 2004/785)](https://www.legislation.gov.uk/uksi/2004/785), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2004/785/regulation/1/3), [5(1)](https://www.legislation.gov.uk/uksi/2004/785/regulation/5/1) and inserted (E.) (22.4.2004) by [The Council Tax (Administration and Enforcement) (Amendment) (England) Regulations 2004 (S.I. 2004/927)](https://www.legislation.gov.uk/uksi/2004/927), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2004/927/regulation/1/3), [5(1)](https://www.legislation.gov.uk/uksi/2004/927/regulation/5/1)
+
+[^key-bc5635822c51072f28b229c190d5c610]: Textual amendment: Word in [reg. 32(1)](https://www.legislation.gov.uk/uksi/1992/613/regulation/32/1) omitted (6.4.2014) by virtue of [The Tribunals, Courts and Enforcement Act 2007 (Consequential, Transitional and Saving Provision) Order 2014 (S.I. 2014/600)](https://www.legislation.gov.uk/uksi/2014/600), [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/600/article/2/1), [Sch. para. 3(a)(i)](https://www.legislation.gov.uk/uksi/2014/600/schedule/paragraph/3/a/i) (with [arts. 3](https://www.legislation.gov.uk/uksi/2014/600/article/3), [4](https://www.legislation.gov.uk/uksi/2014/600/article/4))
+
+[^f00012]: Footnote: [1992 c. 4](https://www.legislation.gov.uk/ukpga/1992/4).
+
+[^key-ff3a16b48fc56c82d8a7d3e9312768e4]: Textual amendment: Words in [reg. 32(1)](https://www.legislation.gov.uk/uksi/1992/613/regulation/32/1) inserted (W.) (5.12.2005) by [The Civil Partnership Act 2004 (Consequential Amendments to Subordinate Legislation) (Wales) Order 2005 (S.I. 2005/3302)](https://www.legislation.gov.uk/uksi/2005/3302), [art. 1(2)](https://www.legislation.gov.uk/uksi/2005/3302/article/1/2), [Sch. para. 9(a)](https://www.legislation.gov.uk/uksi/2005/3302/schedule/paragraph/9/a) and inserted (10.12.2005 in relation to financial years beginning on or after 1 April 2006) by [The Council Tax (Civil Partners) (England) Regulations 2005 (S.I. 2005/2866)](https://www.legislation.gov.uk/uksi/2005/2866), [regs. 1(1)(3)](https://www.legislation.gov.uk/uksi/2005/2866/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2005/2866/regulation/2/2)
+
+[^key-db6703b0b380340576d3b92a06261f1f]: Textual amendment: Words in reg. 32(1) inserted (1.4.1993) by [The Council Tax (Administration and Enforcement) (Amendment) (No. 2) Regulations 1993 (S.I. 1993/773)](https://www.legislation.gov.uk/uksi/1993/773), [regs. 1](https://www.legislation.gov.uk/uksi/1993/773/regulation/1), [3(a)](https://www.legislation.gov.uk/uksi/1993/773/regulation/3/a)
+
+[^key-e6c7af6f4cfea0e906401e3c870d1017]: Textual amendment: Word in [reg. 32(1)](https://www.legislation.gov.uk/uksi/1992/613/regulation/32/1) substituted (6.4.2014) by [The Tribunals, Courts and Enforcement Act 2007 (Consequential, Transitional and Saving Provision) Order 2014 (S.I. 2014/600)](https://www.legislation.gov.uk/uksi/2014/600), [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/600/article/2/1), [Sch. para. 3(a)(ii)](https://www.legislation.gov.uk/uksi/2014/600/schedule/paragraph/3/a/ii) (with [arts. 3](https://www.legislation.gov.uk/uksi/2014/600/article/3), [4](https://www.legislation.gov.uk/uksi/2014/600/article/4))
+
+[^key-8f1850110fa884636d04de9f26612783]: Textual amendment: Words in [reg. 32(1)](https://www.legislation.gov.uk/uksi/1992/613/regulation/32/1) inserted (6.4.2014) by [The Tribunals, Courts and Enforcement Act 2007 (Consequential, Transitional and Saving Provision) Order 2014 (S.I. 2014/600)](https://www.legislation.gov.uk/uksi/2014/600), [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/600/article/2/1), [Sch. para. 3(a)(iii)](https://www.legislation.gov.uk/uksi/2014/600/schedule/paragraph/3/a/iii) (with [arts. 3](https://www.legislation.gov.uk/uksi/2014/600/article/3), [4](https://www.legislation.gov.uk/uksi/2014/600/article/4))
+
+[^f00013]: Footnote: [1894 c. 60](https://www.legislation.gov.uk/ukpga/1894/60). The definition of “fishing boat” in section 370 was amended by the Merchant Shipping Act [1970 (c. 36)](https://www.legislation.gov.uk/ukpga/1970/36), Schedule 5 and the definition of “seaman” in section 742 was amended by paragraph 4 of Schedule 3 to that Act.
+
+[^key-58c8d1b275b9b8a545d9829d12d2e26e]: Textual amendment: Reg. 32(5) inserted (24.12.1992) by [The Council Tax (Administration and Enforcement) (Amendment) Regulations 1992 (S.I. 1992/3008)](https://www.legislation.gov.uk/uksi/1992/3008), [regs. 1](https://www.legislation.gov.uk/uksi/1992/3008/regulation/1), [13](https://www.legislation.gov.uk/uksi/1992/3008/regulation/13)
+
+[^key-21dae1a5cd7e4f32811781f30d106756]: Commencement: Reg. 33 in force at 1.4.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/613/regulation/1/1)
+
+[^key-1d7ef290366b9776ac553a353a7b4644]: Textual amendment: Words in [reg. 33(1)](https://www.legislation.gov.uk/uksi/1992/613/regulation/33/1) inserted (W.) (1.4.2026) by [The Council Tax (Administration and Enforcement) (Amendment) (Wales) Regulations 2025 (S.I. 2025/1109)](https://www.legislation.gov.uk/wsi/2025/1109), [regs. 1](https://www.legislation.gov.uk/wsi/2025/1109/regulation/1), [6(a)(i)](https://www.legislation.gov.uk/wsi/2025/1109/regulation/6/a/i)
+
+[^key-cab1351ed911c52a0ec2bd42bac0c3b0]: Textual amendment: Words in [reg. 33(1)](https://www.legislation.gov.uk/uksi/1992/613/regulation/33/1) substituted (W.) (1.4.2026) by [The Council Tax (Administration and Enforcement) (Amendment) (Wales) Regulations 2025 (S.I. 2025/1109)](https://www.legislation.gov.uk/wsi/2025/1109), [regs. 1](https://www.legislation.gov.uk/wsi/2025/1109/regulation/1), [6(a)(ii)](https://www.legislation.gov.uk/wsi/2025/1109/regulation/6/a/ii)
+
+[^key-a5ddb613b6365d11ed0c660e4e044218]: Textual amendment: Words in [reg. 33(2)](https://www.legislation.gov.uk/uksi/1992/613/regulation/33/2) inserted (W.) (1.4.2026) by [The Council Tax (Administration and Enforcement) (Amendment) (Wales) Regulations 2025 (S.I. 2025/1109)](https://www.legislation.gov.uk/wsi/2025/1109), [regs. 1](https://www.legislation.gov.uk/wsi/2025/1109/regulation/1), [6(b)](https://www.legislation.gov.uk/wsi/2025/1109/regulation/6/b)
+
+[^key-4043347c5075c215946129cb90fd904e]: Textual amendment: [Reg. 33(3)](https://www.legislation.gov.uk/uksi/1992/613/regulation/33/3) substituted (1.4.1994) by [The Council Tax (Administration and Enforcement) (Amendment) Regulations 1994 (S.I. 1994/505)](https://www.legislation.gov.uk/uksi/1994/505), [regs. 1](https://www.legislation.gov.uk/uksi/1994/505/regulation/1), [5(b)](https://www.legislation.gov.uk/uksi/1994/505/regulation/5/b)
+
+[^key-1bc8f12c189ebfeed6e9dda5d06d7786]: Textual amendment: Words in [reg. 33(3)](https://www.legislation.gov.uk/uksi/1992/613/regulation/33/3) inserted (W.) (1.4.2026) by [The Council Tax (Administration and Enforcement) (Amendment) (Wales) Regulations 2025 (S.I. 2025/1109)](https://www.legislation.gov.uk/wsi/2025/1109), [regs. 1](https://www.legislation.gov.uk/wsi/2025/1109/regulation/1), [6(c)](https://www.legislation.gov.uk/wsi/2025/1109/regulation/6/c)
+
+[^key-fa3b5de75583d65a21b1115bdfa4935f]: Textual amendment: [Reg. 33(4)-(6)](https://www.legislation.gov.uk/uksi/1992/613/regulation/33/4) inserted (W.) (1.4.2026) by [The Council Tax (Administration and Enforcement) (Amendment) (Wales) Regulations 2025 (S.I. 2025/1109)](https://www.legislation.gov.uk/wsi/2025/1109), [regs. 1](https://www.legislation.gov.uk/wsi/2025/1109/regulation/1), [6(d)](https://www.legislation.gov.uk/wsi/2025/1109/regulation/6/d)
+
+[^key-5e3b67bf1c8b63b71f335858415c4d46]: Commencement: Reg. 34 in force at 1.4.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/613/regulation/1/1)
+
+[^key-ea7204f45c3bd8e56db5fadf8b276de9]: Modification: [Reg. 34](https://www.legislation.gov.uk/uksi/1992/613/regulation/34) applied in part (1.4.1995) by [The Local Government Changes for England (Community Charge and Council Tax, Administration and Enforcement) Regulations 1995 (S.I. 1995/247)](https://www.legislation.gov.uk/uksi/1995/247), [regs. 1](https://www.legislation.gov.uk/uksi/1995/247/regulation/1), [20](https://www.legislation.gov.uk/uksi/1995/247/regulation/20)
+
+[^key-32ffda1128d3f64bb96624963459e45c]: Textual amendment: Words in [reg. 34(1)](https://www.legislation.gov.uk/uksi/1992/613/regulation/34/1) substituted (24.12.1992) by [The Council Tax (Administration and Enforcement) (Amendment) Regulations 1992 (S.I. 1992/3008)](https://www.legislation.gov.uk/uksi/1992/3008), [regs. 1](https://www.legislation.gov.uk/uksi/1992/3008/regulation/1), [15](https://www.legislation.gov.uk/uksi/1992/3008/regulation/15)
+
+[^key-76c39eda04c38b0914cff9098df9b958]: Textual amendment: Words in [reg. 34(1)](https://www.legislation.gov.uk/uksi/1992/613/regulation/34/1) inserted (W.) (1.4.2026) by [The Council Tax (Administration and Enforcement) (Amendment) (Wales) Regulations 2025 (S.I. 2025/1109)](https://www.legislation.gov.uk/wsi/2025/1109), [regs. 1](https://www.legislation.gov.uk/wsi/2025/1109/regulation/1), [7(a)](https://www.legislation.gov.uk/wsi/2025/1109/regulation/7/a)
+
+[^key-e12b3c5921b3244ac899c874a6af9e36]: Textual amendment: [Reg. 34(1A)](https://www.legislation.gov.uk/uksi/1992/613/regulation/34/1A)[(1B)](https://www.legislation.gov.uk/uksi/1992/613/regulation/34/1B) inserted (W.) (1.4.2026) by [The Council Tax (Administration and Enforcement) (Amendment) (Wales) Regulations 2025 (S.I. 2025/1109)](https://www.legislation.gov.uk/wsi/2025/1109), [regs. 1](https://www.legislation.gov.uk/wsi/2025/1109/regulation/1), [7(b)](https://www.legislation.gov.uk/wsi/2025/1109/regulation/7/b)
+
+[^key-25a50ce5c83e60acfe359b6bdce2ed68]: Textual amendment: Words in [reg. 34(2)](https://www.legislation.gov.uk/uksi/1992/613/regulation/34/2) inserted (W.) (1.4.2026) by [The Council Tax (Administration and Enforcement) (Amendment) (Wales) Regulations 2025 (S.I. 2025/1109)](https://www.legislation.gov.uk/wsi/2025/1109), [regs. 1](https://www.legislation.gov.uk/wsi/2025/1109/regulation/1), [7(c)](https://www.legislation.gov.uk/wsi/2025/1109/regulation/7/c)
+
+[^f00014]: Footnote: [1980 c. 43](https://www.legislation.gov.uk/ukpga/1980/43).
+
+[^key-47dcf098b7e97c0a0c7845e95dc7fd62]: Textual amendment: Words in [reg. 34(7)(b)](https://www.legislation.gov.uk/uksi/1992/613/regulation/34/7/b) inserted (W.) (1.4.2011) by [The Council Tax and Non-Domestic Rating (Amendment) (Wales) Regulations 2011 (S.I. 2011/528)](https://www.legislation.gov.uk/wsi/2011/528), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2011/528/regulation/1/1), [3(2)(a)](https://www.legislation.gov.uk/wsi/2011/528/regulation/3/2/a) (with [reg. 1(3)](https://www.legislation.gov.uk/wsi/2011/528/regulation/1/3))
+
+[^key-a85e8187382d154ae81f9dd8736ca692]: Textual amendment: Words in [reg. 34(8)](https://www.legislation.gov.uk/uksi/1992/613/regulation/34/8) inserted (W.) (1.4.2011) by [The Council Tax and Non-Domestic Rating (Amendment) (Wales) Regulations 2011 (S.I. 2011/528)](https://www.legislation.gov.uk/wsi/2011/528), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2011/528/regulation/1/1), [3(2)(b)](https://www.legislation.gov.uk/wsi/2011/528/regulation/3/2/b) (with [reg. 1(3)](https://www.legislation.gov.uk/wsi/2011/528/regulation/1/3))
+
+[^key-63d47706d6b89b9392c6cedf3540f5a6]: Commencement: Reg. 35 in force at 1.4.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/613/regulation/1/1)
+
+[^key-da130773744c120a6b49c2880ec62b36]: Textual amendment: Words in [reg. 35(1)](https://www.legislation.gov.uk/uksi/1992/613/regulation/35/1) omitted (W.) (10.7.2003) by virtue of [The Council Tax (Administration and Enforcement) (Amendment No.2) (Wales) Regulations 2003 (S.I. 2003/1715)](https://www.legislation.gov.uk/uksi/2003/1715), [regs. 1](https://www.legislation.gov.uk/uksi/2003/1715/regulation/1), [3(a)(i)](https://www.legislation.gov.uk/uksi/2003/1715/regulation/3/a/i) and omitted (E.) (1.10.2003) by virtue of [The Council Tax (Administration and Enforcement) (Amendment) (No. 2) (England) Regulations 2003 (S.I. 2003/2211)](https://www.legislation.gov.uk/uksi/2003/2211), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/2211/regulation/1/1), [3(1)(a)](https://www.legislation.gov.uk/uksi/2003/2211/regulation/3/1/a)
+
+[^key-b7dc060ef4b1221614fc482700cb5317]: Textual amendment: Words in [reg. 35(1)](https://www.legislation.gov.uk/uksi/1992/613/regulation/35/1) omitted (W.) (10.7.2003) by virtue of [The Council Tax (Administration and Enforcement) (Amendment No.2) (Wales) Regulations 2003 (S.I. 2003/1715)](https://www.legislation.gov.uk/uksi/2003/1715), [regs. 1](https://www.legislation.gov.uk/uksi/2003/1715/regulation/1), [3(a)(i)](https://www.legislation.gov.uk/uksi/2003/1715/regulation/3/a/i) and omitted (E.) (1.10.2003) by virtue of [The Council Tax (Administration and Enforcement) (Amendment) (No. 2) (England) Regulations 2003 (S.I. 2003/2211)](https://www.legislation.gov.uk/uksi/2003/2211), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/2211/regulation/1/1), [3(1)(b)](https://www.legislation.gov.uk/uksi/2003/2211/regulation/3/1/b)
+
+[^key-77f899e4e7b9c6e4545d7728eb5a1c8d]: Textual amendment: [Reg. 35(2A)](https://www.legislation.gov.uk/uksi/1992/613/regulation/35/2A) inserted (1.4.1998) by [The Council Tax (Administration and Enforcement) (Amendment) Regulations 1998 (S.I. 1998/295)](https://www.legislation.gov.uk/uksi/1998/295), [regs. 1(a)](https://www.legislation.gov.uk/uksi/1998/295/regulation/1/a), [3](https://www.legislation.gov.uk/uksi/1998/295/regulation/3)
+
+[^key-79de8c7e7f79ec9fd9e249c913c5fa87]: Commencement: Reg. 36 in force at 1.4.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/613/regulation/1/1)
+
+[^key-b416364cd5580da9cc3a1f709666bd85]: Modification: [Reg. 36(1)](https://www.legislation.gov.uk/uksi/1992/613/regulation/36/1) applied (1.4.1995) by [The Local Government Changes for England (Community Charge and Council Tax, Administration and Enforcement) Regulations 1995 (S.I. 1995/247)](https://www.legislation.gov.uk/uksi/1995/247), [regs. 1](https://www.legislation.gov.uk/uksi/1995/247/regulation/1), [21](https://www.legislation.gov.uk/uksi/1995/247/regulation/21)
+
+[^key-6e019c0d05a3be2ae0b1a47e5cecc616]: Textual amendment: Words in [reg. 36(3)(c)](https://www.legislation.gov.uk/uksi/1992/613/regulation/36/3/c) inserted (1.4.1993) by [The Council Tax (Administration and Enforcement) (Amendment) (No. 2) Regulations 1993 (S.I. 1993/773)](https://www.legislation.gov.uk/uksi/1993/773), [regs. 1](https://www.legislation.gov.uk/uksi/1993/773/regulation/1), [4](https://www.legislation.gov.uk/uksi/1993/773/regulation/4)
+
+[^f00015]: Footnote: [1971 c. 32](https://www.legislation.gov.uk/ukpga/1971/32).
+
+[^f00016]: Footnote: [1991 c. 48](https://www.legislation.gov.uk/ukpga/1991/48).
+
+[^key-4145227120c4b585093903887f9812fc]: Textual amendment: [Reg. 36A](https://www.legislation.gov.uk/uksi/1992/613/regulation/36A) inserted (W.) (18.3.2004) by [The Council Tax (Administration and Enforcement) (Amendment) (Wales) Regulations 2004 (S.I. 2004/785)](https://www.legislation.gov.uk/uksi/2004/785), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2004/785/regulation/1/3), [5(2)](https://www.legislation.gov.uk/uksi/2004/785/regulation/5/2) and inserted (E.) (22.4.2004) by [The Council Tax (Administration and Enforcement) (Amendment) (England) Regulations 2004 (S.I. 2004/927)](https://www.legislation.gov.uk/uksi/2004/927), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2004/927/regulation/1/3), [5(2)](https://www.legislation.gov.uk/uksi/2004/927/regulation/5/2)
+
+[^key-01953e9e0b44e8f39859bfa051090b24]: Commencement: Reg. 37 in force at 1.4.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/613/regulation/1/1)
+
+[^key-585bc0e2f4525d84fc9823be2053f624]: Modification: Reg. 37(1) applied (1.4.1995) by [The Local Government Changes for England (Community Charge and Council Tax, Administration and Enforcement) Regulations 1995 (S.I. 1995/247)](https://www.legislation.gov.uk/uksi/1995/247), [regs. 1](https://www.legislation.gov.uk/uksi/1995/247/regulation/1), [21](https://www.legislation.gov.uk/uksi/1995/247/regulation/21)
+
+[^key-41267624913577f076972eecfd81fd2f]: Textual amendment: Words in reg. 37(1) substituted (1.10.1998) by [The Council Tax (Administration and Enforcement) (Amendment) Regulations 1998 (S.I. 1998/295)](https://www.legislation.gov.uk/uksi/1998/295), [regs. 1(b)](https://www.legislation.gov.uk/uksi/1998/295/regulation/1/b), [4(1)](https://www.legislation.gov.uk/uksi/1998/295/regulation/4/1)
+
+[^key-4cf96d8382151f701e4f6db2d2f770d6]: Textual amendment: Words in reg. 37(1) substituted (W.) (18.3.2004) by [The Council Tax (Administration and Enforcement) (Amendment) (Wales) Regulations 2004 (S.I. 2004/785)](https://www.legislation.gov.uk/uksi/2004/785), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2004/785/regulation/1/3), [6(a)](https://www.legislation.gov.uk/uksi/2004/785/regulation/6/a) and substituted (E.) (22.4.2004) by [The Council Tax (Administration and Enforcement) (Amendment) (England) Regulations 2004 (S.I. 2004/927)](https://www.legislation.gov.uk/uksi/2004/927), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2004/927/regulation/1/3), [6(a)](https://www.legislation.gov.uk/uksi/2004/927/regulation/6/a)
+
+[^key-785f10d017bbc8646f1d850e64f1074e]: Textual amendment: Reg. 37(1A) inserted (W.) (18.3.2004) by [The Council Tax (Administration and Enforcement) (Amendment) (Wales) Regulations 2004 (S.I. 2004/785)](https://www.legislation.gov.uk/uksi/2004/785), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2004/785/regulation/1/3), [6(b)](https://www.legislation.gov.uk/uksi/2004/785/regulation/6/b) and inserted (E.) (22.4.2004) by [The Council Tax (Administration and Enforcement) (Amendment) (England) Regulations 2004 (S.I. 2004/927)](https://www.legislation.gov.uk/uksi/2004/927), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2004/927/regulation/1/3), [6(b)](https://www.legislation.gov.uk/uksi/2004/927/regulation/6/b)
+
+[^key-1a616d654758ac4df12e38f7e7afa3c7]: Textual amendment: Reg. 37(1A)(a): full stop substituted for word (6.4.2014) by [The Tribunals, Courts and Enforcement Act 2007 (Consequential, Transitional and Saving Provision) Order 2014 (S.I. 2014/600)](https://www.legislation.gov.uk/uksi/2014/600), [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/600/article/2/1), [Sch. para. 3(b)(i)](https://www.legislation.gov.uk/uksi/2014/600/schedule/paragraph/3/b/i) (with [arts. 3](https://www.legislation.gov.uk/uksi/2014/600/article/3), [4](https://www.legislation.gov.uk/uksi/2014/600/article/4))
+
+[^key-b8561c6c03f5b996b1d33f49439968c8]: Textual amendment: Reg. 37(1A)(b) omitted (6.4.2014) by virtue of [The Tribunals, Courts and Enforcement Act 2007 (Consequential, Transitional and Saving Provision) Order 2014 (S.I. 2014/600)](https://www.legislation.gov.uk/uksi/2014/600), [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/600/article/2/1), [Sch. para. 3(b)(ii)](https://www.legislation.gov.uk/uksi/2014/600/schedule/paragraph/3/b/ii) (with [arts. 3](https://www.legislation.gov.uk/uksi/2014/600/article/3), [4](https://www.legislation.gov.uk/uksi/2014/600/article/4))
+
+[^key-c79e86eaa3e1c6cea6f1f3cc62c4e3e6]: Textual amendment: Reg. 37(4) inserted (1.10.1998) by [The Council Tax (Administration and Enforcement) (Amendment) Regulations 1998 (S.I. 1998/295)](https://www.legislation.gov.uk/uksi/1998/295), [regs. 1(b)](https://www.legislation.gov.uk/uksi/1998/295/regulation/1/b), [4(2)](https://www.legislation.gov.uk/uksi/1998/295/regulation/4/2)
+
+[^key-0c094d8f71afb51db0f4f52f8ec08f69]: Commencement: Reg. 38 in force at 1.4.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/613/regulation/1/1)
+
+[^key-818ae8813a5a54872489efa3b069699d]: Textual amendment: Words in [reg. 38(1)(a)](https://www.legislation.gov.uk/uksi/1992/613/regulation/38/1/a) substituted (24.12.1992) by [The Council Tax (Administration and Enforcement) (Amendment) Regulations 1992 (S.I. 1992/3008)](https://www.legislation.gov.uk/uksi/1992/3008), [regs. 1](https://www.legislation.gov.uk/uksi/1992/3008/regulation/1), [16(1)(a)](https://www.legislation.gov.uk/uksi/1992/3008/regulation/16/1/a)
+
+[^key-360b8e162da78bdd501ab5e3fe77261d]: Textual amendment: Words in [reg. 38(1)(b)](https://www.legislation.gov.uk/uksi/1992/613/regulation/38/1/b) substituted (24.12.1992) by [The Council Tax (Administration and Enforcement) (Amendment) Regulations 1992 (S.I. 1992/3008)](https://www.legislation.gov.uk/uksi/1992/3008), [regs. 1](https://www.legislation.gov.uk/uksi/1992/3008/regulation/1), [16(1)(a)](https://www.legislation.gov.uk/uksi/1992/3008/regulation/16/1/a)
+
+[^key-cb2a533f74614986f4a68140f1ce4ad5]: Textual amendment: Words in [reg. 38(2)(a)](https://www.legislation.gov.uk/uksi/1992/613/regulation/38/2/a) substituted (24.12.1992) by [The Council Tax (Administration and Enforcement) (Amendment) Regulations 1992 (S.I. 1992/3008)](https://www.legislation.gov.uk/uksi/1992/3008), [regs. 1](https://www.legislation.gov.uk/uksi/1992/3008/regulation/1), [16(1)(b)](https://www.legislation.gov.uk/uksi/1992/3008/regulation/16/1/b)
+
+[^key-4fce9d48271bbe7903621eb8e141fe17]: Textual amendment: Words in [reg. 38(2)(b)(i)](https://www.legislation.gov.uk/uksi/1992/613/regulation/38/2/b/i) substituted (24.12.1992) by [The Council Tax (Administration and Enforcement) (Amendment) Regulations 1992 (S.I. 1992/3008)](https://www.legislation.gov.uk/uksi/1992/3008), [regs. 1](https://www.legislation.gov.uk/uksi/1992/3008/regulation/1), [16(1)(c)](https://www.legislation.gov.uk/uksi/1992/3008/regulation/16/1/c)
+
+[^key-25a9dc9ed2412b8d4ffb170bdaa27b45]: Textual amendment: Words in [reg. 38(3)](https://www.legislation.gov.uk/uksi/1992/613/regulation/38/3) omitted (1.4.1995) by virtue of [The Council Tax (Administration and Enforcement) (Amendment) Regulations 1995 (S.I. 1995/22)](https://www.legislation.gov.uk/uksi/1995/22), [regs. 1(2)](https://www.legislation.gov.uk/uksi/1995/22/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/1995/22/regulation/4)
+
+[^key-44c4c9f6b7315405dc0aa7af6dcf6b10]: Commencement: Reg. 39 in force at 1.4.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/613/regulation/1/1)
+
+[^key-5e21c6d9048363533bbcf5dd2743745e]: Modification: [Reg. 39(4)](https://www.legislation.gov.uk/uksi/1992/613/regulation/39/4)[(6)](https://www.legislation.gov.uk/uksi/1992/613/regulation/39/6) applied (1.4.1995) by [The Local Government Changes for England (Community Charge and Council Tax, Administration and Enforcement) Regulations 1995 (S.I. 1995/247)](https://www.legislation.gov.uk/uksi/1995/247), [regs. 1](https://www.legislation.gov.uk/uksi/1995/247/regulation/1), [22](https://www.legislation.gov.uk/uksi/1995/247/regulation/22)
+
+[^key-2f35ea922fcd4253b67fe805f94316f5]: Commencement: Reg. 40 in force at 1.4.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/613/regulation/1/1)
+
+[^key-3148ba8f45e7796c78895c21f6dfed0b]: Modification: [Reg. 40(1)](https://www.legislation.gov.uk/uksi/1992/613/regulation/40/1) applied (1.4.1995) by [The Local Government Changes for England (Community Charge and Council Tax, Administration and Enforcement) Regulations 1995 (S.I. 1995/247)](https://www.legislation.gov.uk/uksi/1995/247), [regs. 1](https://www.legislation.gov.uk/uksi/1995/247/regulation/1), [22](https://www.legislation.gov.uk/uksi/1995/247/regulation/22)
+
+[^key-77b8e5b5e6ed5e6877336c5ffb1f20ce]: Commencement: Reg. 41 in force at 1.4.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/613/regulation/1/1)
+
+[^key-c6ddc87561eb830e6b38f26e514185d1]: Modification: [Reg. 41](https://www.legislation.gov.uk/uksi/1992/613/regulation/41) applied (1.4.1995) by [The Local Government Changes for England (Community Charge and Council Tax, Administration and Enforcement) Regulations 1995 (S.I. 1995/247)](https://www.legislation.gov.uk/uksi/1995/247), [regs. 1](https://www.legislation.gov.uk/uksi/1995/247/regulation/1), [22](https://www.legislation.gov.uk/uksi/1995/247/regulation/22)
+
+[^key-fc9fe4507e564d5498a8ece7dba6bed9]: Textual amendment: Reg. 42 substituted (24.12.1992) by [The Council Tax (Administration and Enforcement) (Amendment) Regulations 1992 (S.I. 1992/3008)](https://www.legislation.gov.uk/uksi/1992/3008), [regs. 1](https://www.legislation.gov.uk/uksi/1992/3008/regulation/1), [17](https://www.legislation.gov.uk/uksi/1992/3008/regulation/17)
+
+[^key-c5c8ef0c09f8b5b2eaf8e59dfb93ad92]: Textual amendment: Words in reg. 42(1) substituted (1.4.1999) by [The Council Tax (Administration and Enforcement) (Amendment) Regulations 1999 (S.I. 1999/534)](https://www.legislation.gov.uk/uksi/1999/534), [regs. 1](https://www.legislation.gov.uk/uksi/1999/534/regulation/1), [4(1)](https://www.legislation.gov.uk/uksi/1999/534/regulation/4/1)
+
+[^key-ef342864651e244f4fe37f1d3eb08f9b]: Commencement: Reg. 43 in force at 1.4.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/613/regulation/1/1)
+
+[^key-eb951abeaaddde84b548f3ac1adcc86d]: Commencement: Reg. 44 in force at 1.4.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/613/regulation/1/1)
+
+[^f00019]: Footnote: See section 39(1) of the Local Government Finance Act 1992.
+
+[^f00020]: Footnote: [1989 c. 42](https://www.legislation.gov.uk/ukpga/1989/42). See the Local Authorities (Members' Allowances) Regulations 1991 ([S.I. 1991/351](https://www.legislation.gov.uk/uksi/1991/351)).
+
+[^f00021]: Footnote: [1972 c. 70](https://www.legislation.gov.uk/ukpga/1972/70). Section 175 was amended by section 25 of the Local Government, Planning and Land Act [1980 (c. 65)](https://www.legislation.gov.uk/ukpga/1980/65) and by the Local Government and Housing Act 1989, Schedule 11, paragraph 27.
+
+[^key-57ad7e88296e8ee3c5f4ee9a0345aa19]: Textual amendment: [Reg. 45](https://www.legislation.gov.uk/uksi/1992/613/regulation/45) substituted (6.4.2014) by [The Tribunals, Courts and Enforcement Act 2007 (Consequential, Transitional and Saving Provision) Order 2014 (S.I. 2014/600)](https://www.legislation.gov.uk/uksi/2014/600), [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/600/article/2/1), [Sch. para. 3(c)](https://www.legislation.gov.uk/uksi/2014/600/schedule/paragraph/3/c) (with [arts. 3](https://www.legislation.gov.uk/uksi/2014/600/article/3), [4](https://www.legislation.gov.uk/uksi/2014/600/article/4))
+
+[^key-e7ebbe39f8b4031ba9d1325b8ac91419]: Textual amendment: [Reg. 45A](https://www.legislation.gov.uk/uksi/1992/613/regulation/45A) omitted (6.4.2014) by virtue of [The Tribunals, Courts and Enforcement Act 2007 (Consequential, Transitional and Saving Provision) Order 2014 (S.I. 2014/600)](https://www.legislation.gov.uk/uksi/2014/600), [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/600/article/2/1), [Sch. para. 3(d)](https://www.legislation.gov.uk/uksi/2014/600/schedule/paragraph/3/d), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2014/600/schedule/part/2) (with [arts. 3](https://www.legislation.gov.uk/uksi/2014/600/article/3), [4](https://www.legislation.gov.uk/uksi/2014/600/article/4))
+
+[^key-132843606f7088953e01010c1c52be84]: Textual amendment: [Reg. 46](https://www.legislation.gov.uk/uksi/1992/613/regulation/46) omitted (6.4.2014) by virtue of [The Tribunals, Courts and Enforcement Act 2007 (Consequential, Transitional and Saving Provision) Order 2014 (S.I. 2014/600)](https://www.legislation.gov.uk/uksi/2014/600), [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/600/article/2/1), [Sch. para. 3(d)](https://www.legislation.gov.uk/uksi/2014/600/schedule/paragraph/3/d), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2014/600/schedule/part/2) (with [arts. 3](https://www.legislation.gov.uk/uksi/2014/600/article/3), [4](https://www.legislation.gov.uk/uksi/2014/600/article/4))
+
+[^key-a0246c6feecd6cdd1593fe059659492b]: Commencement: Reg. 47 in force at 1.4.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/613/regulation/1/1)
+
+[^key-fa3a79a0809471ff1a71e00d5a99bf91]: Modification: Reg. 47(1) applied (1.4.1995) by [The Local Government Changes for England (Community Charge and Council Tax, Administration and Enforcement) Regulations 1995 (S.I. 1995/247)](https://www.legislation.gov.uk/uksi/1995/247), [regs. 1](https://www.legislation.gov.uk/uksi/1995/247/regulation/1), [25](https://www.legislation.gov.uk/uksi/1995/247/regulation/25)
+
+[^key-d88890bd5f5ced523217b9b65618bf8b]: Textual amendment: Words in [reg. 47(1)](https://www.legislation.gov.uk/uksi/1992/613/regulation/47/1) inserted (W.) (1.4.2019) by [The Council Tax (Administration and Enforcement) (Amendment) (Wales) Regulations 2019 (S.I. 2019/220)](https://www.legislation.gov.uk/uksi/2019/220), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/220/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2019/220/regulation/2/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2019/220/regulation/3))
+
+[^key-d3c92b05a5e24f632b558441db1ca9df]: Textual amendment: Words in reg. 47(1) substituted (6.4.2014) by [The Tribunals, Courts and Enforcement Act 2007 (Consequential, Transitional and Saving Provision) Order 2014 (S.I. 2014/600)](https://www.legislation.gov.uk/uksi/2014/600), [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/600/article/2/1), [Sch. para. 3(e)(i)(aa)](https://www.legislation.gov.uk/uksi/2014/600/schedule/paragraph/3/e/i/aa) (with [arts. 3](https://www.legislation.gov.uk/uksi/2014/600/article/3), [4](https://www.legislation.gov.uk/uksi/2014/600/article/4))
+
+[^key-1f21091c5f5d05e79ae821be574943ed]: Textual amendment: Words in reg. 47(1) substituted (6.4.2014) by [The Tribunals, Courts and Enforcement Act 2007 (Consequential, Transitional and Saving Provision) Order 2014 (S.I. 2014/600)](https://www.legislation.gov.uk/uksi/2014/600), [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/600/article/2/1), [Sch. para. 3(e)(i)(bb)](https://www.legislation.gov.uk/uksi/2014/600/schedule/paragraph/3/e/i/bb) (with [arts. 3](https://www.legislation.gov.uk/uksi/2014/600/article/3), [4](https://www.legislation.gov.uk/uksi/2014/600/article/4))
+
+[^key-5c9910afe449a3c5f1c0377300e7d153]: Textual amendment: Words in reg. 47(1) substituted (6.4.2014) by [The Tribunals, Courts and Enforcement Act 2007 (Consequential, Transitional and Saving Provision) Order 2014 (S.I. 2014/600)](https://www.legislation.gov.uk/uksi/2014/600), [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/600/article/2/1), [Sch. para. 3(e)(i)(cc)](https://www.legislation.gov.uk/uksi/2014/600/schedule/paragraph/3/e/i/cc) (with [arts. 3](https://www.legislation.gov.uk/uksi/2014/600/article/3), [4](https://www.legislation.gov.uk/uksi/2014/600/article/4))
+
+[^key-b9dab733864503da5f95c104cd049472]: Textual amendment: Words in reg. 47(4)(a) substituted (6.4.2014) by [The Tribunals, Courts and Enforcement Act 2007 (Consequential, Transitional and Saving Provision) Order 2014 (S.I. 2014/600)](https://www.legislation.gov.uk/uksi/2014/600), [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/600/article/2/1), [Sch. para. 3(e)(ii)](https://www.legislation.gov.uk/uksi/2014/600/schedule/paragraph/3/e/ii) (with [arts. 3](https://www.legislation.gov.uk/uksi/2014/600/article/3), [4](https://www.legislation.gov.uk/uksi/2014/600/article/4))
+
+[^key-6108c84807b7fe6c07c9efcc41558f37]: Textual amendment: Reg. 47(6)-(6B) substituted for reg. 47(6) (1.4.1994) by [The Council Tax (Administration and Enforcement) (Amendment) Regulations 1994 (S.I. 1994/505)](https://www.legislation.gov.uk/uksi/1994/505), [regs. 1](https://www.legislation.gov.uk/uksi/1994/505/regulation/1), [6](https://www.legislation.gov.uk/uksi/1994/505/regulation/6)
+
+[^key-d0f13ec90eb4080a16e66c918f638a22]: Textual amendment: Words in reg. 47(6A)(a) substituted (6.4.2014) by [The Tribunals, Courts and Enforcement Act 2007 (Consequential, Transitional and Saving Provision) Order 2014 (S.I. 2014/600)](https://www.legislation.gov.uk/uksi/2014/600), [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/600/article/2/1), [Sch. para. 3(e)(iii)](https://www.legislation.gov.uk/uksi/2014/600/schedule/paragraph/3/e/iii) (with [arts. 3](https://www.legislation.gov.uk/uksi/2014/600/article/3), [4](https://www.legislation.gov.uk/uksi/2014/600/article/4))
+
+[^f00024]: Footnote: [S.I. 1981/552](https://www.legislation.gov.uk/uksi/1981/552).
+
+[^key-d18bbf878e649e16e06f0e7510f1734d]: Commencement: Reg. 48 in force at 1.4.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/613/regulation/1/1)
+
+[^key-e8dc499eb2b76efeeceffcb0a93fcfa3]: Textual amendment: Words in reg. 48(1) omitted (W.) (10.7.2003) by virtue of [The Council Tax (Administration and Enforcement) (Amendment No.2) (Wales) Regulations 2003 (S.I. 2003/1715)](https://www.legislation.gov.uk/uksi/2003/1715), [regs. 1](https://www.legislation.gov.uk/uksi/2003/1715/regulation/1), [3(b)](https://www.legislation.gov.uk/uksi/2003/1715/regulation/3/b) and omitted (E.) (1.10.2003) by virtue of [The Council Tax (Administration and Enforcement) (Amendment) (No. 2) (England) Regulations 2003 (S.I. 2003/2211)](https://www.legislation.gov.uk/uksi/2003/2211), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/2211/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2003/2211/regulation/3/2)
+
+[^f00025]: Footnote: [1982 c. 48](https://www.legislation.gov.uk/ukpga/1982/48).
+
+[^key-5ebe79338a6092118a8ebf54fa901fcd]: Commencement: Reg. 49 in force at 1.4.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/613/regulation/1/1)
+
+[^f00026]: Footnote: [1986 c. 45](https://www.legislation.gov.uk/ukpga/1986/45).
+
+[^key-a65033db36192e0293c8bcbe05b6d50d]: Commencement: Reg. 50 in force at 1.4.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/613/regulation/1/1)
+
+[^key-9e9d99f4cb311f83b59e18f5bb963526]: Textual amendment: Reg. 50(1) substituted (W.) (18.3.2004) by [The Council Tax (Administration and Enforcement) (Amendment) (Wales) Regulations 2004 (S.I. 2004/785)](https://www.legislation.gov.uk/wsi/2004/785), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2004/785/regulation/1/3), [7(a)](https://www.legislation.gov.uk/wsi/2004/785/regulation/7/a) and substituted (E.) (22.4.2004) by [The Council Tax (Administration and Enforcement) (Amendment) (England) Regulations 2004 (S.I. 2004/927)](https://www.legislation.gov.uk/uksi/2004/927), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2004/927/regulation/1/3), [7(a)](https://www.legislation.gov.uk/uksi/2004/927/regulation/7/a)
+
+[^key-d4b7fa064149af7febc62673f5ab21e0]: Textual amendment: Reg. 50(3) substituted (W.) (18.3.2004) by [The Council Tax (Administration and Enforcement) (Amendment) (Wales) Regulations 2004 (S.I. 2004/785)](https://www.legislation.gov.uk/wsi/2004/785), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2004/785/regulation/1/3), [7(b)](https://www.legislation.gov.uk/wsi/2004/785/regulation/7/b) and substituted (E.) (22.4.2004) by [The Council Tax (Administration and Enforcement) (Amendment) (England) Regulations 2004 (S.I. 2004/927)](https://www.legislation.gov.uk/uksi/2004/927), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2004/927/regulation/1/3), [7(b)](https://www.legislation.gov.uk/uksi/2004/927/regulation/7/b)
+
+[^key-3a0fdcc1c0586e3e34fca0985e7e09c1]: Commencement: Reg. 51 in force at 1.4.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/613/regulation/1/1)
+
+[^key-5086b93e113845713d8d4394700ad014]: Modification: [Reg. 51(4)](https://www.legislation.gov.uk/uksi/1992/613/regulation/51/4) applied (1.4.1995) by [The Local Government Changes for England (Community Charge and Council Tax, Administration and Enforcement) Regulations 1995 (S.I. 1995/247)](https://www.legislation.gov.uk/uksi/1995/247), [regs. 1](https://www.legislation.gov.uk/uksi/1995/247/regulation/1), [27](https://www.legislation.gov.uk/uksi/1995/247/regulation/27)
+
+[^f00027]: Footnote: [1972 c. 61](https://www.legislation.gov.uk/ukpga/1972/61); section 6 of the Act was amended by the Supreme Court Act [1981 (c. 54)](https://www.legislation.gov.uk/ukpga/1981/54), Schedule 5, and the County Courts Act [1984 (c. 28)](https://www.legislation.gov.uk/ukpga/1984/28), Schedule 2, paragraph 18.
+
+[^f00028]: Footnote: [1925 c. 21](https://www.legislation.gov.uk/ukpga/1925/21); section 49(1)(g) was inserted by the Charging Orders Act [1979 (c. 53)](https://www.legislation.gov.uk/ukpga/1979/53), section 3(3), and amended by the Drug Trafficking Offences Act [1986 (c. 32)](https://www.legislation.gov.uk/ukpga/1986/32), section 39(2), the Criminal Justice Act [1988 (c. 33)](https://www.legislation.gov.uk/ukpga/1988/33), Schedule 15, paragraph 6 and regulation 45(5) of the Community Charges (Adminsitration and Enforcement) Regulations 1989 ([S.I. 1989/438](https://www.legislation.gov.uk/uksi/1989/438)).
+
+[^key-a2f921d3b317e4705837c7affb63cfd4]: Commencement: Reg. 52 in force at 1.4.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/613/regulation/1/1)
+
+[^key-abf82c333f4d7b975d28f1e33ad61fd0]: Textual amendment: Words in [reg. 52](https://www.legislation.gov.uk/uksi/1992/613/regulation/52) substituted (6.4.2014) by [The Tribunals, Courts and Enforcement Act 2007 (Consequential, Transitional and Saving Provision) Order 2014 (S.I. 2014/600)](https://www.legislation.gov.uk/uksi/2014/600), [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/600/article/2/1), [Sch. para. 3(f)](https://www.legislation.gov.uk/uksi/2014/600/schedule/paragraph/3/f) (with [arts. 3](https://www.legislation.gov.uk/uksi/2014/600/article/3), [4](https://www.legislation.gov.uk/uksi/2014/600/article/4))
+
+[^key-1dbc6ecea7d7b62a861d35c1a924cd7d]: Textual amendment: Words in reg. 52(1) inserted (1.4.1993) by [The Council Tax (Administration and Enforcement) (Amendment) (No. 2) Regulations 1993 (S.I. 1993/773)](https://www.legislation.gov.uk/uksi/1993/773), [regs. 1](https://www.legislation.gov.uk/uksi/1993/773/regulation/1), [6(a)](https://www.legislation.gov.uk/uksi/1993/773/regulation/6/a)
+
+[^key-0c964365e84de3af2218798537d3e69e]: Textual amendment: Words in reg. 52(2) substituted (1.4.1993) by [The Council Tax (Administration and Enforcement) (Amendment) (No. 2) Regulations 1993 (S.I. 1993/773)](https://www.legislation.gov.uk/uksi/1993/773), [regs. 1](https://www.legislation.gov.uk/uksi/1993/773/regulation/1), [6(b)](https://www.legislation.gov.uk/uksi/1993/773/regulation/6/b)
+
+[^key-7e008e0c296dd3c6237812fd085e05fc]: Textual amendment: Words in [reg. 52(2)(b)](https://www.legislation.gov.uk/uksi/1992/613/regulation/52/2/b) inserted (E.) (29.4.2013) by [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations 2013 (S.I. 2013/630)](https://www.legislation.gov.uk/uksi/2013/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/630/regulation/1/2), [56(4)](https://www.legislation.gov.uk/uksi/2013/630/regulation/56/4) and words inserted (W.) (29.4.2013) by [The Council Tax (Administration and Enforcement) (Amendment No. 2) (Wales) Regulations 2013 (S.I. 2013/570)](https://www.legislation.gov.uk/uksi/2013/570), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/570/regulation/1/2), [8](https://www.legislation.gov.uk/uksi/2013/570/regulation/8)
+
+[^key-5413ef9a8d95ad665e21f4dfaa956f03]: Textual amendment: Words in [reg. 52(2)(b)](https://www.legislation.gov.uk/uksi/1992/613/regulation/52/2/b) inserted (8.10.1996) by [The Community Charge and Council Tax (Administration and Enforcement) (Amendment) (Jobseeker’s Allowance) Regulations 1996 (S.I. 1996/2405)](https://www.legislation.gov.uk/uksi/1996/2405), [regs. 1](https://www.legislation.gov.uk/uksi/1996/2405/regulation/1), [2](https://www.legislation.gov.uk/uksi/1996/2405/regulation/2)
+
+[^key-be7bd91b143bbfdc556cabfd29da7315]: Textual amendment: Reg. 52(2A) inserted (1.4.1993) by [The Council Tax (Administration and Enforcement) (Amendment) (No. 2) Regulations 1993 (S.I. 1993/773)](https://www.legislation.gov.uk/uksi/1993/773), [regs. 1](https://www.legislation.gov.uk/uksi/1993/773/regulation/1), [6(c)](https://www.legislation.gov.uk/uksi/1993/773/regulation/6/c)
+
+[^key-32d897589575141a205805887fb63dc2]: Textual amendment: Words in [reg. 52(3)(a)](https://www.legislation.gov.uk/uksi/1992/613/regulation/52/3/a) inserted (1.4.1994) by [The Council Tax (Administration and Enforcement) (Amendment) Regulations 1994 (S.I. 1994/505)](https://www.legislation.gov.uk/uksi/1994/505), [regs. 1](https://www.legislation.gov.uk/uksi/1994/505/regulation/1), [7](https://www.legislation.gov.uk/uksi/1994/505/regulation/7)
+
+[^key-d072229a9ca284aa41debe540c7a68fa]: Textual amendment: Words in [reg. 52(3)(b)](https://www.legislation.gov.uk/uksi/1992/613/regulation/52/3/b) inserted (1.4.1994) by [The Council Tax (Administration and Enforcement) (Amendment) Regulations 1994 (S.I. 1994/505)](https://www.legislation.gov.uk/uksi/1994/505), [regs. 1](https://www.legislation.gov.uk/uksi/1994/505/regulation/1), [7](https://www.legislation.gov.uk/uksi/1994/505/regulation/7)
+
+[^key-f50b3afd02df1f2c41f84c7b03dc94d6]: Commencement: Reg. 53 in force at 1.4.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/613/regulation/1/1)
+
+[^key-bf4df97018fae5adb49d72ea5ef86546]: Textual amendment: [Reg. 53(1)](https://www.legislation.gov.uk/uksi/1992/613/regulation/53/1)[(1A)](https://www.legislation.gov.uk/uksi/1992/613/regulation/53/1A) omitted (1.4.2005) by virtue of [The Courts Act 2003 (Consequential Provisions) (No. 2) Order 2005 (S.I. 2005/617)](https://www.legislation.gov.uk/uksi/2005/617), [art. 1](https://www.legislation.gov.uk/uksi/2005/617/article/1), [Sch. para. 151](https://www.legislation.gov.uk/uksi/2005/617/schedule/paragraph/151)
+
+[^key-f0dfce10f7044a466323c0f1bc7f6bed]: Textual amendment: Words in [reg. 53(2)](https://www.legislation.gov.uk/uksi/1992/613/regulation/53/2) substituted (E.) (31.8.2000) by [The Community Charges, Council Tax and Non-Domestic Rating (Enforcement) (Magistrates' Courts) (England) Regulations 2000 (S.I. 2000/2026)](https://www.legislation.gov.uk/uksi/2000/2026), [regs. 1](https://www.legislation.gov.uk/uksi/2000/2026/regulation/1), [2(c)](https://www.legislation.gov.uk/uksi/2000/2026/regulation/2/c)
+
+    and substituted (W.) (1.4.2001) by [The Community Charges, Council Tax and Non-Domestic Rating (Enforcement) (Magistrates' Courts) (Wales) Regulations 2001 (S.I. 2001/1076)](https://www.legislation.gov.uk/wsi/2001/1076), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2001/1076/regulation/1/2), [2(2)(c)](https://www.legislation.gov.uk/wsi/2001/1076/regulation/2/2/c)
+
+[^f00029]: Footnote: [S.I. 1970/231](https://www.legislation.gov.uk/uksi/1970/231), to which there are amendments not relevant to these Regulations.
+
+[^key-1054078daa8dcaadaa3ab2859d4b2381]: Modification: [Reg. 53(4)](https://www.legislation.gov.uk/uksi/1992/613/regulation/53/4) applied (1.4.1995) by [The Local Government Changes for England (Community Charge and Council Tax, Administration and Enforcement) Regulations 1995 (S.I. 1995/247)](https://www.legislation.gov.uk/uksi/1995/247), [regs. 1](https://www.legislation.gov.uk/uksi/1995/247/regulation/1), [28](https://www.legislation.gov.uk/uksi/1995/247/regulation/28)
+
+[^key-a622e307ee3d89b99c40abec7caf94ee]: Textual amendment: Words in [reg. 53(4)](https://www.legislation.gov.uk/uksi/1992/613/regulation/53/4) omitted (6.4.2014) by virtue of [The Tribunals, Courts and Enforcement Act 2007 (Consequential, Transitional and Saving Provision) Order 2014 (S.I. 2014/600)](https://www.legislation.gov.uk/uksi/2014/600), [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/600/article/2/1), [Sch. para. 3(g)](https://www.legislation.gov.uk/uksi/2014/600/schedule/paragraph/3/g) (with [arts. 3](https://www.legislation.gov.uk/uksi/2014/600/article/3), [4](https://www.legislation.gov.uk/uksi/2014/600/article/4))
+
+[^key-7141f45e43594f22d7e2ef5caa8d92d5]: Textual amendment: Words in [reg. 53(4)](https://www.legislation.gov.uk/uksi/1992/613/regulation/53/4) inserted (18.7.1996) by [The Local Authorities (Contracting Out of Tax Billing, Collection and Enforcement Functions) Order 1996 (S.I. 1996/1880)](https://www.legislation.gov.uk/uksi/1996/1880), [arts. 1](https://www.legislation.gov.uk/uksi/1996/1880/article/1), [30(2)](https://www.legislation.gov.uk/uksi/1996/1880/article/30/2)
+
+[^key-c4132fec9aa5217308afd36266272b19]: Textual amendment: Words in [reg. 53(5)](https://www.legislation.gov.uk/uksi/1992/613/regulation/53/5) inserted (18.7.1996) by [The Local Authorities (Contracting Out of Tax Billing, Collection and Enforcement Functions) Order 1996 (S.I. 1996/1880)](https://www.legislation.gov.uk/uksi/1996/1880), [arts. 1](https://www.legislation.gov.uk/uksi/1996/1880/article/1), [30(2)](https://www.legislation.gov.uk/uksi/1996/1880/article/30/2)
+
+[^key-7847bec78e715fac16668b8c7e949aa9]: Commencement: Reg. 54 in force at 1.4.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/613/regulation/1/1)
+
+[^key-6ee443a52752855eae52207d800d8bc7]: Textual amendment: Reg. 54(3A) inserted (24.12.1992) by [The Council Tax (Administration and Enforcement) (Amendment) Regulations 1992 (S.I. 1992/3008)](https://www.legislation.gov.uk/uksi/1992/3008), [regs. 1](https://www.legislation.gov.uk/uksi/1992/3008/regulation/1), [18](https://www.legislation.gov.uk/uksi/1992/3008/regulation/18)
+
+[^key-52bcef9f725af12e83615d189e210afc]: Textual amendment: Words in reg. 54(5) substituted (1.4.1994) by [The Council Tax (Administration and Enforcement) (Amendment) Regulations 1994 (S.I. 1994/505)](https://www.legislation.gov.uk/uksi/1994/505), [regs. 1](https://www.legislation.gov.uk/uksi/1994/505/regulation/1), [8(a)(i)](https://www.legislation.gov.uk/uksi/1994/505/regulation/8/a/i)
+
+[^key-f46461e271720a0bda218790b1a83013]: Textual amendment: Words in reg. 54(5)(b) substituted (6.4.2014) by [The Tribunals, Courts and Enforcement Act 2007 (Consequential, Transitional and Saving Provision) Order 2014 (S.I. 2014/600)](https://www.legislation.gov.uk/uksi/2014/600), [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/600/article/2/1), [Sch. para. 3(h)(i)](https://www.legislation.gov.uk/uksi/2014/600/schedule/paragraph/3/h/i) (with [arts. 3](https://www.legislation.gov.uk/uksi/2014/600/article/3), [4](https://www.legislation.gov.uk/uksi/2014/600/article/4))
+
+[^key-2a8e47cab96c11646d653b9bc614bc90]: Textual amendment: Word in reg. 54(5) omitted (1.4.1994) by virtue of [The Council Tax (Administration and Enforcement) (Amendment) Regulations 1994 (S.I. 1994/505)](https://www.legislation.gov.uk/uksi/1994/505), [regs. 1](https://www.legislation.gov.uk/uksi/1994/505/regulation/1), [8(a)(ii)](https://www.legislation.gov.uk/uksi/1994/505/regulation/8/a/ii)
+
+[^key-415f773c38c994d47d70fd186a03c3ff]: Textual amendment: Reg. 54(5)(d) and word inserted (1.4.1994) by [The Council Tax (Administration and Enforcement) (Amendment) Regulations 1994 (S.I. 1994/505)](https://www.legislation.gov.uk/uksi/1994/505), [regs. 1](https://www.legislation.gov.uk/uksi/1994/505/regulation/1), [8(a)(iii)](https://www.legislation.gov.uk/uksi/1994/505/regulation/8/a/iii)
+
+[^key-9a75a86cc97d21141b65a9a493bbe281]: Textual amendment: Words in reg. 54(5)(d) inserted (E.) (29.4.2013) by [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations 2013 (S.I. 2013/630)](https://www.legislation.gov.uk/uksi/2013/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/630/regulation/1/2), [56(5)](https://www.legislation.gov.uk/uksi/2013/630/regulation/56/5) and words and inserted (W.) (29.4.2013) by [The Council Tax (Administration and Enforcement) (Amendment No. 2) (Wales) Regulations 2013 (S.I. 2013/570)](https://www.legislation.gov.uk/wsi/2013/570), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2013/570/regulation/1/2), [9(a)](https://www.legislation.gov.uk/wsi/2013/570/regulation/9/a)
+
+[^key-cdb2e64d2a6d776b40225c8adf7e47c4]: Textual amendment: Words in reg. 54(6) inserted (1.4.1994) by [The Council Tax (Administration and Enforcement) (Amendment) Regulations 1994 (S.I. 1994/505)](https://www.legislation.gov.uk/uksi/1994/505), [regs. 1](https://www.legislation.gov.uk/uksi/1994/505/regulation/1), [8(b)](https://www.legislation.gov.uk/uksi/1994/505/regulation/8/b)
+
+[^key-dd0c3658a09dbbf35aa9bbf2f72aafc7]: Textual amendment: Reg. 54(6A)(6B) inserted (1.4.1994) by [The Council Tax (Administration and Enforcement) (Amendment) Regulations 1994 (S.I. 1994/505)](https://www.legislation.gov.uk/uksi/1994/505), [regs. 1](https://www.legislation.gov.uk/uksi/1994/505/regulation/1), [8(c)](https://www.legislation.gov.uk/uksi/1994/505/regulation/8/c)
+
+[^key-4fd5f7f7cfdfb63508630631920a303e]: Textual amendment: Words in reg. 54(6A) inserted (E.) (29.4.2013) by [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations 2013 (S.I. 2013/630)](https://www.legislation.gov.uk/uksi/2013/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/630/regulation/1/2), [56(5)](https://www.legislation.gov.uk/uksi/2013/630/regulation/56/5) and words and inserted (W.) (29.4.2013) by [The Council Tax (Administration and Enforcement) (Amendment No. 2) (Wales) Regulations 2013 (S.I. 2013/570)](https://www.legislation.gov.uk/wsi/2013/570), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2013/570/regulation/1/2), [9(b)](https://www.legislation.gov.uk/wsi/2013/570/regulation/9/b)
+
+[^key-885d8832895e0bcc82bb3ded21e17fff]: Textual amendment: Reg. 54(7) substituted (W.) (1.4.2019) by [The Council Tax (Administration and Enforcement) (Amendment) (Wales) Regulations 2019 (S.I. 2019/220)](https://www.legislation.gov.uk/wsi/2019/220), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/220/regulation/1/2), [2(3)](https://www.legislation.gov.uk/wsi/2019/220/regulation/2/3) (with [reg. 3](https://www.legislation.gov.uk/wsi/2019/220/regulation/3))
+
+[^M_F_99fc1f29-f86b-4993-ac3d-048a11f11a9c]: Textual amendment: Words in reg. 54(7) substituted (6.4.2014) by [The Tribunals, Courts and Enforcement Act 2007 (Consequential, Transitional and Saving Provision) Order 2014 (S.I. 2014/600)](https://www.legislation.gov.uk/uksi/2014/600), [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/600/article/2/1), [Sch. para. 3(h)(ii)](https://www.legislation.gov.uk/uksi/2014/600/schedule/paragraph/3/h/ii) (with [arts. 3](https://www.legislation.gov.uk/uksi/2014/600/article/3), [4](https://www.legislation.gov.uk/uksi/2014/600/article/4))
+
+[^key-2c2a81925becc0d897874b7cd6792e7d]: Textual amendment: Words in reg. 54(9) substituted (6.4.2014) by [The Tribunals, Courts and Enforcement Act 2007 (Consequential, Transitional and Saving Provision) Order 2014 (S.I. 2014/600)](https://www.legislation.gov.uk/uksi/2014/600), [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/600/article/2/1), [Sch. para. 3(h)(iii)](https://www.legislation.gov.uk/uksi/2014/600/schedule/paragraph/3/h/iii) (with [arts. 3](https://www.legislation.gov.uk/uksi/2014/600/article/3), [4](https://www.legislation.gov.uk/uksi/2014/600/article/4))
+
+[^key-595b41dbc2768701eb6984551b77093a]: Textual amendment: Reg. 54(9A) inserted (1.4.1993) by [The Council Tax (Administration and Enforcement) (Amendment) (No. 2) Regulations 1993 (S.I. 1993/773)](https://www.legislation.gov.uk/uksi/1993/773), [regs. 1](https://www.legislation.gov.uk/uksi/1993/773/regulation/1), [7(a)](https://www.legislation.gov.uk/uksi/1993/773/regulation/7/a)
+
+[^key-f835c8f759f03b986546e0d74daf7189]: Textual amendment: Words in reg. 54(10) substituted (6.4.2014) by [The Tribunals, Courts and Enforcement Act 2007 (Consequential, Transitional and Saving Provision) Order 2014 (S.I. 2014/600)](https://www.legislation.gov.uk/uksi/2014/600), [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/600/article/2/1), [Sch. para. 3(h)(iv)(aa)](https://www.legislation.gov.uk/uksi/2014/600/schedule/paragraph/3/h/iv/aa) (with [arts. 3](https://www.legislation.gov.uk/uksi/2014/600/article/3), [4](https://www.legislation.gov.uk/uksi/2014/600/article/4))
+
+[^key-6f3eee863fbc612fccc8308be4a10d91]: Textual amendment: Words in reg. 54(10) substituted (6.4.2014) by [The Tribunals, Courts and Enforcement Act 2007 (Consequential, Transitional and Saving Provision) Order 2014 (S.I. 2014/600)](https://www.legislation.gov.uk/uksi/2014/600), [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/600/article/2/1), [Sch. para. 3(h)(iv)(bb)](https://www.legislation.gov.uk/uksi/2014/600/schedule/paragraph/3/h/iv/bb) (with [arts. 3](https://www.legislation.gov.uk/uksi/2014/600/article/3), [4](https://www.legislation.gov.uk/uksi/2014/600/article/4))
+
+[^key-1fab80031009e93511dc35e30421e1d6]: Textual amendment: Words in reg. 54(10) substituted (6.4.2014) by [The Tribunals, Courts and Enforcement Act 2007 (Consequential, Transitional and Saving Provision) Order 2014 (S.I. 2014/600)](https://www.legislation.gov.uk/uksi/2014/600), [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/600/article/2/1), [Sch. para. 3(h)(iv)(cc)](https://www.legislation.gov.uk/uksi/2014/600/schedule/paragraph/3/h/iv/cc) (with [arts. 3](https://www.legislation.gov.uk/uksi/2014/600/article/3), [4](https://www.legislation.gov.uk/uksi/2014/600/article/4))
+
+[^key-f5c6abc978f7050df622a3b1a5ba623c]: Textual amendment: Words in reg. 54(10) substituted (6.4.2014) by [The Tribunals, Courts and Enforcement Act 2007 (Consequential, Transitional and Saving Provision) Order 2014 (S.I. 2014/600)](https://www.legislation.gov.uk/uksi/2014/600), [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/600/article/2/1), [Sch. para. 3(h)(iv)(dd)](https://www.legislation.gov.uk/uksi/2014/600/schedule/paragraph/3/h/iv/dd) (with [arts. 3](https://www.legislation.gov.uk/uksi/2014/600/article/3), [4](https://www.legislation.gov.uk/uksi/2014/600/article/4))
+
+[^key-1413ce613a0ef672335f52e739478c01]: Textual amendment: Reg. 54(11) substituted (6.4.2014) by [The Tribunals, Courts and Enforcement Act 2007 (Consequential, Transitional and Saving Provision) Order 2014 (S.I. 2014/600)](https://www.legislation.gov.uk/uksi/2014/600), [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/600/article/2/1), [Sch. para. 3(h)(v)](https://www.legislation.gov.uk/uksi/2014/600/schedule/paragraph/3/h/v) (with [arts. 3](https://www.legislation.gov.uk/uksi/2014/600/article/3), [4](https://www.legislation.gov.uk/uksi/2014/600/article/4))
+
+[^key-44983fd3702e169708bb7774974e1da4]: Commencement: Reg. 55 in force at 1.4.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/613/regulation/1/1)
+
+[^key-d9ee9a393a1cb7b039952e4a6bfbbd20]: Commencement: Reg. 56 in force at 1.4.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/613/regulation/1/1)
+
+[^key-025c56ae586a4d8acc6398a3ef19edc7]: Commencement: Reg. 57 in force at 1.4.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/613/regulation/1/1)
+
+[^key-6d69998250d19223d66d87a3fbc3efb3]: Textual amendment: Words in [reg. 57(1)](https://www.legislation.gov.uk/uksi/1992/613/regulation/57/1) inserted (24.12.1992) by [The Council Tax (Administration and Enforcement) (Amendment) Regulations 1992 (S.I. 1992/3008)](https://www.legislation.gov.uk/uksi/1992/3008), [regs. 1](https://www.legislation.gov.uk/uksi/1992/3008/regulation/1), [19(a)](https://www.legislation.gov.uk/uksi/1992/3008/regulation/19/a)
+
+[^key-6deea69be9501baca285699d9ee54f3e]: Textual amendment: Words in [reg. 57(2)](https://www.legislation.gov.uk/uksi/1992/613/regulation/57/2) inserted (18.7.1996) by [The Local Authorities (Contracting Out of Tax Billing, Collection and Enforcement Functions) Order 1996 (S.I. 1996/1880)](https://www.legislation.gov.uk/uksi/1996/1880), [arts. 1](https://www.legislation.gov.uk/uksi/1996/1880/article/1), [30(3)](https://www.legislation.gov.uk/uksi/1996/1880/article/30/3)
+
+[^key-462f0ca6a43a3275061abe165f2e188d]: Textual amendment: Words in [reg. 57(2)](https://www.legislation.gov.uk/uksi/1992/613/regulation/57/2) substituted (24.12.1992) by [The Council Tax (Administration and Enforcement) (Amendment) Regulations 1992 (S.I. 1992/3008)](https://www.legislation.gov.uk/uksi/1992/3008), [regs. 1](https://www.legislation.gov.uk/uksi/1992/3008/regulation/1), [19(b)](https://www.legislation.gov.uk/uksi/1992/3008/regulation/19/b)
+
+[^key-5e6d5f198c11781b430f7260849eb5bc]: Textual amendment: Words in [reg. 57(3)](https://www.legislation.gov.uk/uksi/1992/613/regulation/57/3) substituted (1.4.2005) by [The Courts Act 2003 (Consequential Provisions) (No. 2) Order 2005 (S.I. 2005/617)](https://www.legislation.gov.uk/uksi/2005/617), [art. 1](https://www.legislation.gov.uk/uksi/2005/617/article/1), [Sch. para. 152](https://www.legislation.gov.uk/uksi/2005/617/schedule/paragraph/152)
+
+[^key-ca74b0314443c227ce7db4a54d41909a]: Textual amendment: Words in [reg. 57(3)](https://www.legislation.gov.uk/uksi/1992/613/regulation/57/3) substituted (E.) (1.4.2001) by [The Community Charges, Council Tax and Non-Domestic Rating (Enforcement) (Magistrates' Courts) (England) Regulations 2001 (S.I. 2001/362)](https://www.legislation.gov.uk/uksi/2001/362), [regs. 1](https://www.legislation.gov.uk/uksi/2001/362/regulation/1), [2(c)](https://www.legislation.gov.uk/uksi/2001/362/regulation/2/c) and substituted (W.) (1.4.2001) by [The Community Charges, Council Tax and Non-Domestic Rating (Enforcement) (Magistrates' Courts) (Wales) Regulations 2001 (S.I. 2001/1076)](https://www.legislation.gov.uk/wsi/2001/1076), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2001/1076/regulation/1/3), [3(2)(c)](https://www.legislation.gov.uk/wsi/2001/1076/regulation/3/2/c)
+
+[^key-da4a0ae208a9b6beef5e49d468c5eb45]: Commencement: Reg. 58 in force at 1.4.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/613/regulation/1/1)
+
+[^key-f519e3c323b1828091c2cb123d3b32e0]: Textual amendment: Words in reg. 58(1)(b) inserted (W.) (5.12.2005) by [The Civil Partnership Act 2004 (Consequential Amendments to Subordinate Legislation) (Wales) Order 2005 (S.I. 2005/3302)](https://www.legislation.gov.uk/wsi/2005/3302), [art. 1(2)](https://www.legislation.gov.uk/wsi/2005/3302/article/1/2), [Sch. para. 9(b)](https://www.legislation.gov.uk/wsi/2005/3302/schedule/paragraph/9/b) and inserted (E.) (10.12.2005 in relation to financial years beginning on or after 1 April 2006) by [The Council Tax (Civil Partners) (England) Regulations 2005 (S.I. 2005/2866)](https://www.legislation.gov.uk/uksi/2005/2866), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/2866/regulation/1/1)[(3)](https://www.legislation.gov.uk/uksi/2005/2866/regulation/1/3), [2(3)(a)](https://www.legislation.gov.uk/uksi/2005/2866/regulation/2/3/a)
+
+[^key-584aba059f715df5ac5e200efbdbe058]: Textual amendment: Words in [reg. 58(1)(c)](https://www.legislation.gov.uk/uksi/1992/613/regulation/58/1/c) inserted (E.) (10.4.2013) by [The Council Tax (Administration and Enforcement) (Amendment) (England) Regulations 2013 (S.I. 2013/590)](https://www.legislation.gov.uk/uksi/2013/590), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/590/regulation/1/1), [2(6)](https://www.legislation.gov.uk/uksi/2013/590/regulation/2/6)
+
+[^key-24156a4dd41bb3d95b9ec5d3a9a258b1]: Textual amendment: Words in [reg. 58(1)(c)](https://www.legislation.gov.uk/uksi/1992/613/regulation/58/1/c) inserted (W.) (1.4.2013) by [The Council Tax (Administration and Enforcement) (Amendment No. 2) (Wales) Regulations 2013 (S.I. 2013/570)](https://www.legislation.gov.uk/wsi/2013/570), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2013/570/regulation/1/1), [10](https://www.legislation.gov.uk/wsi/2013/570/regulation/10)
+
+[^key-7814a52f9adb706bef6c76ff5ae66f12]: Textual amendment: Words in reg. 58(5)(a) inserted (E.) (10.12.2005) by [The Council Tax (Civil Partners) (England) Regulations 2005 (S.I. 2005/2866)](https://www.legislation.gov.uk/uksi/2005/2866), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/2866/regulation/1/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2005/2866/regulation/2/3/b)
+
+[^key-af61f3d5fe130c12105c3b4c8f138e36]: Textual amendment: Words in [reg. 58(5)(b)](https://www.legislation.gov.uk/uksi/1992/613/regulation/58/5/b) substituted (6.4.2014) by [The Tribunals, Courts and Enforcement Act 2007 (Consequential, Transitional and Saving Provision) Order 2014 (S.I. 2014/600)](https://www.legislation.gov.uk/uksi/2014/600), [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/600/article/2/1), [Sch. para. 3(i)](https://www.legislation.gov.uk/uksi/2014/600/schedule/paragraph/3/i) (with [arts. 3](https://www.legislation.gov.uk/uksi/2014/600/article/3), [4](https://www.legislation.gov.uk/uksi/2014/600/article/4))
+
+[^key-1d576109ff66fe39834cc0773191e1b0]: Commencement: Sch. 1 para. 1 in force at 1.4.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/613/regulation/1/1)
+
+[^key-e6f12c50258473761eac4ae86e9ad0c3]: Commencement: Sch. 1 para. 2 in force at 1.4.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/613/regulation/1/1)
+
+[^key-d64de4f9bd3c5388f25421455ae0ae39]: Textual amendment: Words in [Sch. 1 para. 2(3)](https://www.legislation.gov.uk/uksi/1992/613/schedule/1/paragraph/2/3) inserted (1.2.1995) by [The Council Tax (Administration and Enforcement) (Amendment) Regulations 1995 (S.I. 1995/22)](https://www.legislation.gov.uk/uksi/1995/22), [regs. 1(2)](https://www.legislation.gov.uk/uksi/1995/22/regulation/1/2), [5(a)](https://www.legislation.gov.uk/uksi/1995/22/regulation/5/a)
+
+[^key-9d71a355553ec78c70d02e614338924f]: Textual amendment: Words in [Sch. 1 para. 2(3)](https://www.legislation.gov.uk/uksi/1992/613/schedule/1/paragraph/2/3) substituted (E.) (1.4.2013) by [The Council Tax (Administration and Enforcement) (Amendment) (No.2) (England) Regulations 2012 (S.I. 2012/3086)](https://www.legislation.gov.uk/uksi/2012/3086), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2012/3086/regulation/1/1/b), [2(14)(a)](https://www.legislation.gov.uk/uksi/2012/3086/regulation/2/14/a)
+
+    and substituted (W.) (1.4.2013) by [The Council Tax (Administration and Enforcement) (Amendment) (Wales) Regulations 2013 (S.I. 2013/62)](https://www.legislation.gov.uk/wsi/2013/62), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2013/62/regulation/1/2), [2(12)(a)](https://www.legislation.gov.uk/wsi/2013/62/regulation/2/12/a)
+
+[^key-f746ff077d5c77580a4fdb6fe11f7a5e]: Textual amendment: Words in Sch. 1 para. 2(3)(a) substituted (24.12.1992) by [The Council Tax (Administration and Enforcement) (Amendment) Regulations 1992 (S.I. 1992/3008)](https://www.legislation.gov.uk/uksi/1992/3008), [regs. 1](https://www.legislation.gov.uk/uksi/1992/3008/regulation/1), [20(a)(i)](https://www.legislation.gov.uk/uksi/1992/3008/regulation/20/a/i)
+
+[^key-ca50d103c94f920d1861856e1755ebd6]: Textual amendment: Words in Sch. 1 para. 2(3)(b) substituted (24.12.1992) by [The Council Tax (Administration and Enforcement) (Amendment) Regulations 1992 (S.I. 1992/3008)](https://www.legislation.gov.uk/uksi/1992/3008), [regs. 1](https://www.legislation.gov.uk/uksi/1992/3008/regulation/1), [20(a)(ii)](https://www.legislation.gov.uk/uksi/1992/3008/regulation/20/a/ii)
+
+[^key-8ffedc18c91edef24cecdf5bb5142671]: Textual amendment: [Sch. 1 para. 2(3A)](https://www.legislation.gov.uk/uksi/1992/613/schedule/1/paragraph/2/3A)[(3B)](https://www.legislation.gov.uk/uksi/1992/613/schedule/1/paragraph/2/3B) inserted (E.) (1.4.2013) by [The Council Tax (Administration and Enforcement) (Amendment) (No.2) (England) Regulations 2012 (S.I. 2012/3086)](https://www.legislation.gov.uk/uksi/2012/3086), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2012/3086/regulation/1/1/b), [2(14)(b)](https://www.legislation.gov.uk/uksi/2012/3086/regulation/2/14/b)
+
+[^key-c0d484970d7a3f7688bbefe931321173]: Textual amendment: Word in [Sch. 1 para. 2(3A)](https://www.legislation.gov.uk/uksi/1992/613/schedule/1/paragraph/2/3A) inserted (E.) (10.4.2013) by [The Council Tax (Administration and Enforcement) (Amendment) (England) Regulations 2013 (S.I. 2013/590)](https://www.legislation.gov.uk/uksi/2013/590), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/590/regulation/1/1), [2(7)](https://www.legislation.gov.uk/uksi/2013/590/regulation/2/7)
+
+[^key-5a11f441500b72ba37d56261cabe22db]: Textual amendment: [Sch. 1 para. 2(3A)](https://www.legislation.gov.uk/uksi/1992/613/schedule/1/paragraph/2/3A)[(3B)](https://www.legislation.gov.uk/uksi/1992/613/schedule/1/paragraph/2/3B) inserted (W.) (1.4.2013) by [The Council Tax (Administration and Enforcement) (Amendment) (Wales) Regulations 2013 (S.I. 2013/62)](https://www.legislation.gov.uk/wsi/2013/62), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2013/62/regulation/1/2), [2(12)(b)](https://www.legislation.gov.uk/wsi/2013/62/regulation/2/12/b)
+
+[^key-9a357fe9849ec71ce8c45e1e2ece3cb0]: Textual amendment: Sch. 1 para. 2(7) inserted (1.2.1995) by [The Council Tax (Administration and Enforcement) (Amendment) Regulations 1995 (S.I. 1995/22)](https://www.legislation.gov.uk/uksi/1995/22), [regs. 1(2)](https://www.legislation.gov.uk/uksi/1995/22/regulation/1/2), [5(b)](https://www.legislation.gov.uk/uksi/1995/22/regulation/5/b)
+
+[^key-a361fbb56a48ae4fc23bec779333d9c1]: Commencement: Sch. 1 para. 3 in force at 1.4.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/613/regulation/1/1)
+
+[^key-34655188cc0f8a3fdf3d264defc006e8]: Textual amendment: Words in Sch. 1 para. 3(1) inserted (1.2.1995) by [The Council Tax (Administration and Enforcement) (Amendment) Regulations 1995 (S.I. 1995/22)](https://www.legislation.gov.uk/uksi/1995/22), [regs. 1(2)](https://www.legislation.gov.uk/uksi/1995/22/regulation/1/2), [5(c)](https://www.legislation.gov.uk/uksi/1995/22/regulation/5/c)
+
+[^key-754db315935f1857dad4dc5fe285b194]: Textual amendment: Words in Sch. 1 para. 3(3) substituted (1.2.1995) by [The Council Tax (Administration and Enforcement) (Amendment) Regulations 1995 (S.I. 1995/22)](https://www.legislation.gov.uk/uksi/1995/22), [regs. 1(2)](https://www.legislation.gov.uk/uksi/1995/22/regulation/1/2), [5(d)](https://www.legislation.gov.uk/uksi/1995/22/regulation/5/d)
+
+[^key-5f3b7ab4dee890a4b9f973123f195ddc]: Commencement: Sch. 1 para. 4 in force at 1.4.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/613/regulation/1/1)
+
+[^key-1dcf4a901e303f64f1c7deee991bebb7]: Textual amendment: Sch. 1 para. 4A inserted (24.12.1992) by [The Council Tax (Administration and Enforcement) (Amendment) Regulations 1992 (S.I. 1992/3008)](https://www.legislation.gov.uk/uksi/1992/3008), [regs. 1](https://www.legislation.gov.uk/uksi/1992/3008/regulation/1), [20(b)](https://www.legislation.gov.uk/uksi/1992/3008/regulation/20/b)
+
+[^key-6f232331774f61d522c58080e68cf3bb]: Commencement: Sch. 1 para. 5 in force at 1.4.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/613/regulation/1/1)
+
+[^key-29a5df68e22085bbfe6d74c34936a375]: Commencement: Sch. 1 para. 6 in force at 1.4.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/613/regulation/1/1)
+
+[^key-cb0cc9eb051069363d79bbd8eca4439f]: Commencement: Sch. 1 para. 7 in force at 1.4.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/613/regulation/1/1)
+
+[^key-8cc767ec7413fd7ad11e473c09f76558]: Commencement: Sch. 1 para. 8 in force at 1.4.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/613/regulation/1/1)
+
+[^key-005eaff83662f692838297392df2a366]: Textual amendment: Word in Sch. 1 para. 8(5)(c) omitted (24.12.1992) by virtue of [The Council Tax (Administration and Enforcement) (Amendment) Regulations 1992 (S.I. 1992/3008)](https://www.legislation.gov.uk/uksi/1992/3008), [regs. 1](https://www.legislation.gov.uk/uksi/1992/3008/regulation/1), [20(c)](https://www.legislation.gov.uk/uksi/1992/3008/regulation/20/c)
+
+[^key-38eaccbf5d702ca9729c0fbb84237a0e]: Commencement: Sch. 1 para. 9 in force at 1.4.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/613/regulation/1/1)
+
+[^key-bd3315434f2c99b6cc6edbf719273d82]: Commencement: Sch. 1 para. 10 in force at 1.4.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/613/regulation/1/1)
+
+[^key-9c304e8a78e7d03fdf9ccef914af5cb9]: Textual amendment: Words in Sch. 1 para. 10(1) inserted (24.12.1992) by [The Council Tax (Administration and Enforcement) (Amendment) Regulations 1992 (S.I. 1992/3008)](https://www.legislation.gov.uk/uksi/1992/3008), [regs. 1](https://www.legislation.gov.uk/uksi/1992/3008/regulation/1), [20(d)(i)](https://www.legislation.gov.uk/uksi/1992/3008/regulation/20/d/i)
+
+[^key-9a56dde434e89a5da74cef3197af10db]: Textual amendment: Words in [Sch. 1 para. 10(1)(d)](https://www.legislation.gov.uk/uksi/1992/613/schedule/1/paragraph/10/1/d) inserted (E.) (1.4.2013) by [The Council Tax (Administration and Enforcement) (Amendment) (No.2) (England) Regulations 2012 (S.I. 2012/3086)](https://www.legislation.gov.uk/uksi/2012/3086), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2012/3086/regulation/1/1/b), [2(15)(a)](https://www.legislation.gov.uk/uksi/2012/3086/regulation/2/15/a) and inserted (W.) (1.4.2013) by [The Council Tax (Administration and Enforcement) (Amendment) (Wales) Regulations 2013 (S.I. 2013/62)](https://www.legislation.gov.uk/uksi/2013/62), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/62/regulation/1/2), [2(13)](https://www.legislation.gov.uk/uksi/2013/62/regulation/2/13)
+
+[^key-48b166bde268e40b594059b47f556e48]: Textual amendment: [Sch. 1 para. 10(1)(ea)(eb)](https://www.legislation.gov.uk/uksi/1992/613/schedule/1/paragraph/10/1/ea/eb) inserted (E.) (1.4.2013) by [The Council Tax (Administration and Enforcement) (Amendment) (No.2) (England) Regulations 2012 (S.I. 2012/3086)](https://www.legislation.gov.uk/uksi/2012/3086), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2012/3086/regulation/1/1/b), [2(15)(b)](https://www.legislation.gov.uk/uksi/2012/3086/regulation/2/15/b) and inserted (W.) (15.2.2017) by [The Council Tax (Administration and Enforcement) (Amendment) (Wales) Regulations 2017 (S.I. 2017/41)](https://www.legislation.gov.uk/uksi/2017/41), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/41/regulation/1/1), [2(7)](https://www.legislation.gov.uk/uksi/2017/41/regulation/2/7)
+
+[^key-daf0d98757d544f2cb90af27069dae6e]: Textual amendment: Word in Sch. 1 para. 10(1)(f) omitted (24.12.1992) by virtue of [The Council Tax (Administration and Enforcement) (Amendment) Regulations 1992 (S.I. 1992/3008)](https://www.legislation.gov.uk/uksi/1992/3008), [regs. 1](https://www.legislation.gov.uk/uksi/1992/3008/regulation/1), [20(d)(ii)](https://www.legislation.gov.uk/uksi/1992/3008/regulation/20/d/ii)
+
+[^f00030]: Footnote: [1992 c. 5](https://www.legislation.gov.uk/ukpga/1992/5). Section 138 is amended by the Local Government Finance Act 1992, Schedule 9, paragraph 19.
+
+[^key-a545a450429f78ee0a5a7482fdfa5142]: Textual amendment: Sch. 1 para. 10(1)(h) inserted (24.12.1992) by [The Council Tax (Administration and Enforcement) (Amendment) Regulations 1992 (S.I. 1992/3008)](https://www.legislation.gov.uk/uksi/1992/3008), [regs. 1](https://www.legislation.gov.uk/uksi/1992/3008/regulation/1), [20(d)(iii)](https://www.legislation.gov.uk/uksi/1992/3008/regulation/20/d/iii)
+
+[^key-5e3f21ff6dc14ccd0b6d63239b27fa69]: Textual amendment: Words in Sch. 1 para. 10(4) inserted (1.4.1995) by [The Council Tax (Administration and Enforcement) (Amendment) Regulations 1995 (S.I. 1995/22)](https://www.legislation.gov.uk/uksi/1995/22), [regs. 1(2)](https://www.legislation.gov.uk/uksi/1995/22/regulation/1/2), [6(a)](https://www.legislation.gov.uk/uksi/1995/22/regulation/6/a)
+
+[^key-770843a22d9cd02a9ed09bade456bebe]: Textual amendment: Sch. 1 para. 10(6)(aa) inserted (1.4.1995) by [The Council Tax (Administration and Enforcement) (Amendment) Regulations 1995 (S.I. 1995/22)](https://www.legislation.gov.uk/uksi/1995/22), [regs. 1(2)](https://www.legislation.gov.uk/uksi/1995/22/regulation/1/2), [6(b)](https://www.legislation.gov.uk/uksi/1995/22/regulation/6/b)
+
+[^key-5705890ece6526e04386d756fd852d8e]: Textual amendment: Sch. 1 para. 10(6A) inserted (1.4.1995) by [The Council Tax (Administration and Enforcement) (Amendment) Regulations 1995 (S.I. 1995/22)](https://www.legislation.gov.uk/uksi/1995/22), [regs. 1(2)](https://www.legislation.gov.uk/uksi/1995/22/regulation/1/2), [6(c)](https://www.legislation.gov.uk/uksi/1995/22/regulation/6/c)
+
+[^key-bff705ecc8d132b3e7db234fb3e033d2]: Commencement: Sch. 1 para. 11 in force at 1.4.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/613/regulation/1/1)
+
+[^key-1558a128ff7c0f7ff0a831aa43a86aed]: Textual amendment: Sch. 2 omitted (W.) (10.7.2003) by virtue of [The Council Tax (Administration and Enforcement) (Amendment No.2) (Wales) Regulations 2003 (S.I. 2003/1715)](https://www.legislation.gov.uk/uksi/2003/1715), [regs. 1](https://www.legislation.gov.uk/uksi/2003/1715/regulation/1), [3(c)](https://www.legislation.gov.uk/uksi/2003/1715/regulation/3/c) and omitted (E.) (1.10.2003) by virtue of [The Council Tax (Administration and Enforcement) (Amendment) (No. 2) (England) Regulations 2003 (S.I. 2003/2211)](https://www.legislation.gov.uk/uksi/2003/2211), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/2211/regulation/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2003/2211/regulation/3/3)
+
+[^key-382e54dbbfe5bf3d51d15aeab89899da]: Commencement: Sch. 3 in force at 1.4.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/613/regulation/1/1)
+
+[^key-8feb750efddd4a88521c9de6dab54c2a]: Modification: Sch. 3 modified (18.7.1996) by [The Local Authorities (Contracting Out of Tax Billing, Collection and Enforcement Functions) Order 1996 (S.I. 1996/1880)](https://www.legislation.gov.uk/uksi/1996/1880), [arts. 1](https://www.legislation.gov.uk/uksi/1996/1880/article/1), [29(a)](https://www.legislation.gov.uk/uksi/1996/1880/article/29/a)
+
+[^key-ca5f9df2a3cd2b706ad3fd9a190ca604]: Textual amendment: Sch. 3 Form: the following words are substituted (E.) (1.4.2007) for the paragraph which starts with the words “On \[date\] the \[name\] Magistrates’ Court” by [The Council Tax and Non-Domestic Rating (Amendment) (England) Regulations 2007 (S.I. 2007/501)](https://www.legislation.gov.uk/uksi/2007/501), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2007/501/regulation/1/1/b), [3(2)](https://www.legislation.gov.uk/uksi/2007/501/regulation/3/2):
+
+    “On \[date\] the \[name\] Magistrates’ Court made a liability order under regulation 34 of the Council Tax (Administration and Enforcement) Regulations 1992 against the person named above. Under regulation 37 the authority which applied for the liability order, \[name of authority\], may make an attachment of earnings order to secure the payment of the appropriate amount, which under regulation 37(1A) is the aggregate of— (a) any outstanding sum which is or forms part of the amount in respect of which the liability order was made, and (b) such additional sums and costs as are specified in regulation 37(1A)(b). Calculated in accordance with regulation 37(1A) the appropriate amount in relation to this order is £\[amount\].”
+
+[^key-1c011bfcc56440c044a2011b61acd9f0]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/uksi/1992/613/schedule/3) inserted (W.) (29.4.2013) by [The Council Tax (Administration and Enforcement) (Amendment No. 2) (Wales) Regulations 2013 (S.I. 2013/570)](https://www.legislation.gov.uk/wsi/2013/570), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2013/570/regulation/1/2), [11](https://www.legislation.gov.uk/wsi/2013/570/regulation/11)
+
+[^key-d23cf85acf64605da5b19f18f5c0b465]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/uksi/1992/613/schedule/3) inserted (E.) (29.4.2013) by [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations 2013 (S.I. 2013/630)](https://www.legislation.gov.uk/uksi/2013/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/630/regulation/1/2), [56(6)](https://www.legislation.gov.uk/uksi/2013/630/regulation/56/6)
+
+[^key-f5812ea72a233c20435d940a97ba85ff]: Textual amendment: Words in Sch. 3 inserted (1.4.1993) by [The Council Tax (Administration and Enforcement) (Amendment) (No. 2) Regulations 1993 (S.I. 1993/773)](https://www.legislation.gov.uk/uksi/1993/773), [regs. 1](https://www.legislation.gov.uk/uksi/1993/773/regulation/1), [3(b)](https://www.legislation.gov.uk/uksi/1993/773/regulation/3/b)
+
+[^f00032]: Footnote: [1992 c. 4](https://www.legislation.gov.uk/ukpga/1992/4).
+
+[^key-a17cf9e552a8f485ac376b25445d4ae5]: Textual amendment: Words in Sch. 3 inserted (1.4.1993) by [The Council Tax (Administration and Enforcement) (Amendment) (No. 2) Regulations 1993 (S.I. 1993/773)](https://www.legislation.gov.uk/uksi/1993/773), [regs. 1](https://www.legislation.gov.uk/uksi/1993/773/regulation/1), [3(a)](https://www.legislation.gov.uk/uksi/1993/773/regulation/3/a)
+
+[^f00033]: Footnote: [1894 c. 60](https://www.legislation.gov.uk/ukpga/1894/60). The definition of “fishing boat” in section 370 was amended by the Merchant Shipping Act [1970 (c. 36)](https://www.legislation.gov.uk/ukpga/1970/36), Schedule 5 and the definition of “seaman” in section 742 was amended by paragraph 4 of Schedule 3 to that Act.
+
+[^key-eebb785e3c9af217da748f24eb5b8c3f]: Textual amendment: Words in Sch. 3 substituted (24.12.1992) by [The Council Tax (Administration and Enforcement) (Amendment) Regulations 1992 (S.I. 1992/3008)](https://www.legislation.gov.uk/uksi/1992/3008), [regs. 1](https://www.legislation.gov.uk/uksi/1992/3008/regulation/1), [16(1)(a)](https://www.legislation.gov.uk/uksi/1992/3008/regulation/16/1/a)
+
+[^key-498ddbf8c1838d4c4262b9da64e6ecd0]: Textual amendment: Words in Sch. 3 substituted (24.12.1992) by [The Council Tax (Administration and Enforcement) (Amendment) Regulations 1992 (S.I. 1992/3008)](https://www.legislation.gov.uk/uksi/1992/3008), [regs. 1](https://www.legislation.gov.uk/uksi/1992/3008/regulation/1), [16(1)(b)](https://www.legislation.gov.uk/uksi/1992/3008/regulation/16/1/b)
+
+[^key-9315d4aaf22c82992667fa2c85d26c20]: Textual amendment: Words in Sch. 3 substituted (24.12.1992) by [The Council Tax (Administration and Enforcement) (Amendment) Regulations 1992 (S.I. 1992/3008)](https://www.legislation.gov.uk/uksi/1992/3008), [regs. 1](https://www.legislation.gov.uk/uksi/1992/3008/regulation/1), [16(1)(c)](https://www.legislation.gov.uk/uksi/1992/3008/regulation/16/1/c)
+
+[^key-1e89f464ac72c24801027155c94e1c42]: Textual amendment: Words in Sch. 3 omitted (1.4.1999) by virtue of [The Council Tax (Administration and Enforcement) (Amendment) Regulations 1999 (S.I. 1999/534)](https://www.legislation.gov.uk/uksi/1999/534), [regs. 1](https://www.legislation.gov.uk/uksi/1999/534/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/1999/534/regulation/4/2)
+
+[^key-99db32b957794e9c3778085ad8a3c9a9]: Textual amendment: Words in Sch. 3 substituted (24.12.1992) by [The Council Tax (Administration and Enforcement) (Amendment) Regulations 1992 (S.I. 1992/3008)](https://www.legislation.gov.uk/uksi/1992/3008), [regs. 1](https://www.legislation.gov.uk/uksi/1992/3008/regulation/1), [16(2)](https://www.legislation.gov.uk/uksi/1992/3008/regulation/16/2)
+
+[^key-3f498a589810d0bd31a61a58b9bd61f0]: Textual amendment: Words in Sch. 3 substituted (24.12.1992) by [The Council Tax (Administration and Enforcement) (Amendment) Regulations 1992 (S.I. 1992/3008)](https://www.legislation.gov.uk/uksi/1992/3008), [regs. 1](https://www.legislation.gov.uk/uksi/1992/3008/regulation/1), [17](https://www.legislation.gov.uk/uksi/1992/3008/regulation/17)
+
+[^key-0b19b559afdddefbf86297a6bd305934]: Textual amendment: Words in Sch. 3 substituted (1.4.1999) by [The Council Tax (Administration and Enforcement) (Amendment) Regulations 1999 (S.I. 1999/534)](https://www.legislation.gov.uk/uksi/1999/534), [regs. 1](https://www.legislation.gov.uk/uksi/1999/534/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/1999/534/regulation/4/2)
+
+[^M_X_3710f18d-2a7d-43ed-a2b5-d88ec92ac2c5]: Editorial: Editorial note: please note that changes have been made to the substantive text of Sch. 4 below which are not reflected in the version of Sch. 4 shown here.
+
+[^key-c0ea190a09ca99177c248158f2be3fea]: Textual amendment: Sch. 4 substituted (W.) (1.4.2022) by [The Council Tax (Administration and Enforcement) (Amendment) (Wales) Regulations 2022 (S.I. 2022/107)](https://www.legislation.gov.uk/wsi/2022/107), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/107/regulation/1/2), [Sch.](https://www.legislation.gov.uk/wsi/2022/107/schedule)
+
+[^key-afa5dc8cf0a5209908d92ecbf3f9d979]: Textual amendment: Sch. 4 substituted (1.10.1998) by [The Council Tax (Administration and Enforcement) (Amendment) Regulations 1998 (S.I. 1998/295)](https://www.legislation.gov.uk/uksi/1998/295), [reg. 1(b)](https://www.legislation.gov.uk/uksi/1998/295/regulation/1/b), [Sch.](https://www.legislation.gov.uk/uksi/1998/295/schedule) (with [reg. 5(2)](https://www.legislation.gov.uk/uksi/1998/295/regulation/5/2))
+
+[^key-7aaf32bc6b39988760cd26ea841b57a3]: Textual amendment: Sum in Sch. 4 Table A substituted (E.) (in relation to financial years beginning on or after 1 April 2007) by [The Council Tax and Non-Domestic Rating (Amendment) (England) Regulations 2006 (S.I. 2006/3395)](https://www.legislation.gov.uk/uksi/2006/3395), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2006/3395/regulation/1/1/b)[(2)(b)](https://www.legislation.gov.uk/uksi/2006/3395/regulation/1/2/b), [5(2)(a)(i)](https://www.legislation.gov.uk/uksi/2006/3395/regulation/5/2/a/i) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2006/3395/regulation/1/3))
+
+[^key-fa52419f4161c00a9e2dec84119ed6e0]: Textual amendment: Sum in Sch. 4 Table A substituted (E.) (in relation to financial years beginning on or after 1 April 2007) by [The Council Tax and Non-Domestic Rating (Amendment) (England) Regulations 2006 (S.I. 2006/3395)](https://www.legislation.gov.uk/uksi/2006/3395), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2006/3395/regulation/1/1/b)[(2)(b)](https://www.legislation.gov.uk/uksi/2006/3395/regulation/1/2/b), [5(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2006/3395/regulation/5/2/a/ii) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2006/3395/regulation/1/3))
+
+[^key-1cc53c629052f2504beb70552a0d2b0f]: Textual amendment: Sum in Sch. 4 Table A substituted (E.) (in relation to financial years beginning on or after 1 April 2007) by [The Council Tax and Non-Domestic Rating (Amendment) (England) Regulations 2006 (S.I. 2006/3395)](https://www.legislation.gov.uk/uksi/2006/3395), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2006/3395/regulation/1/1/b)[(2)(b)](https://www.legislation.gov.uk/uksi/2006/3395/regulation/1/2/b), [5(2)(a)(iii)](https://www.legislation.gov.uk/uksi/2006/3395/regulation/5/2/a/iii) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2006/3395/regulation/1/3))
+
+[^key-83c58b5a5c019eb2cde9be40f50286be]: Textual amendment: Sum in Sch. 4 Table A substituted (E.) (in relation to financial years beginning on or after 1 April 2007) by [The Council Tax and Non-Domestic Rating (Amendment) (England) Regulations 2006 (S.I. 2006/3395)](https://www.legislation.gov.uk/uksi/2006/3395), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2006/3395/regulation/1/1/b)[(2)(b)](https://www.legislation.gov.uk/uksi/2006/3395/regulation/1/2/b), [5(2)(a)(iv)](https://www.legislation.gov.uk/uksi/2006/3395/regulation/5/2/a/iv) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2006/3395/regulation/1/3))
+
+[^key-ee025606c39c7e746b9472dcddf5b0b3]: Textual amendment: Sum in Sch. 4 Table A substituted (E.) (1.4.2007) by [The Council Tax and Non-Domestic Rating (Amendment) (England) Regulations 2007 (S.I. 2007/501)](https://www.legislation.gov.uk/uksi/2007/501), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2007/501/regulation/1/1/b), [3(3)](https://www.legislation.gov.uk/uksi/2007/501/regulation/3/3) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2007/501/regulation/1/3))
+
+[^key-c36e2b47629f10db148ee4ea07ce8a7b]: Textual amendment: Sum in Sch. 4 Table A substituted (E.) (in relation to financial years beginning on or after 1 April 2007) by [The Council Tax and Non-Domestic Rating (Amendment) (England) Regulations 2006 (S.I. 2006/3395)](https://www.legislation.gov.uk/uksi/2006/3395), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2006/3395/regulation/1/1/b)[(2)(b)](https://www.legislation.gov.uk/uksi/2006/3395/regulation/1/2/b), [5(2)(a)(vi)](https://www.legislation.gov.uk/uksi/2006/3395/regulation/5/2/a/vi) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2006/3395/regulation/1/3))
+
+[^key-876ea7d4e70c9a26aa4002b2d2ce315d]: Textual amendment: Sum in Sch. 4 Table B substituted (E.) (in relation to financial years beginning on or after 1 April 2007) by [The Council Tax and Non-Domestic Rating (Amendment) (England) Regulations 2006 (S.I. 2006/3395)](https://www.legislation.gov.uk/uksi/2006/3395), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2006/3395/regulation/1/1/b)[(2)(b)](https://www.legislation.gov.uk/uksi/2006/3395/regulation/1/2/b), [5(2)(b)(i)](https://www.legislation.gov.uk/uksi/2006/3395/regulation/5/2/b/i) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2006/3395/regulation/1/3))
+
+[^key-0bdbacc10f60a99cd7cb5b0caa0cb88a]: Textual amendment: Sum in Sch. 4 Table B substituted (E.) (in relation to financial years beginning on or after 1 April 2007) by [The Council Tax and Non-Domestic Rating (Amendment) (England) Regulations 2006 (S.I. 2006/3395)](https://www.legislation.gov.uk/uksi/2006/3395), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2006/3395/regulation/1/1/b)[(2)(b)](https://www.legislation.gov.uk/uksi/2006/3395/regulation/1/2/b), [5(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2006/3395/regulation/5/2/b/ii) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2006/3395/regulation/1/3))
+
+[^key-6344ca667955fef639483f6bc01106f2]: Textual amendment: Sum in Sch. 4 Table B substituted (E.) (in relation to financial years beginning on or after 1 April 2007) by [The Council Tax and Non-Domestic Rating (Amendment) (England) Regulations 2006 (S.I. 2006/3395)](https://www.legislation.gov.uk/uksi/2006/3395), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2006/3395/regulation/1/1/b)[(2)(b)](https://www.legislation.gov.uk/uksi/2006/3395/regulation/1/2/b), [5(2)(b)(iii)](https://www.legislation.gov.uk/uksi/2006/3395/regulation/5/2/b/iii) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2006/3395/regulation/1/3))
+
+[^key-5a9375233d37f21445b5ae1ea45c2589]: Textual amendment: Sum in Sch. 4 Table B substituted (E.) (in relation to financial years beginning on or after 1 April 2007) by [The Council Tax and Non-Domestic Rating (Amendment) (England) Regulations 2006 (S.I. 2006/3395)](https://www.legislation.gov.uk/uksi/2006/3395), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2006/3395/regulation/1/1/b)[(2)(b)](https://www.legislation.gov.uk/uksi/2006/3395/regulation/1/2/b), [5(2)(b)(iv)](https://www.legislation.gov.uk/uksi/2006/3395/regulation/5/2/b/iv) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2006/3395/regulation/1/3))
+
+[^key-65e0dd502a00c95abaded85e5b8831b2]: Textual amendment: Sum in Sch. 4 Table B substituted (E.) (in relation to financial years beginning on or after 1 April 2007) by [The Council Tax and Non-Domestic Rating (Amendment) (England) Regulations 2006 (S.I. 2006/3395)](https://www.legislation.gov.uk/uksi/2006/3395), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2006/3395/regulation/1/1/b)[(2)(b)](https://www.legislation.gov.uk/uksi/2006/3395/regulation/1/2/b), [5(2)(b)(v)](https://www.legislation.gov.uk/uksi/2006/3395/regulation/5/2/b/v) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2006/3395/regulation/1/3))
+
+[^key-0f0bb7996b7d416d2c11e7e4609afe88]: Textual amendment: Sum in Sch. 4 Table B substituted (E.) (in relation to financial years beginning on or after 1 April 2007) by [The Council Tax and Non-Domestic Rating (Amendment) (England) Regulations 2006 (S.I. 2006/3395)](https://www.legislation.gov.uk/uksi/2006/3395), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2006/3395/regulation/1/1/b)[(2)(b)](https://www.legislation.gov.uk/uksi/2006/3395/regulation/1/2/b), [5(2)(b)(vi)](https://www.legislation.gov.uk/uksi/2006/3395/regulation/5/2/b/vi) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2006/3395/regulation/1/3))
+
+[^key-59956e9396129c4a3012ddfea86c8124]: Textual amendment: Sum in Sch. 4 Table C substituted (E.) (in relation to financial years beginning on or after 1 April 2007) by [The Council Tax and Non-Domestic Rating (Amendment) (England) Regulations 2006 (S.I. 2006/3395)](https://www.legislation.gov.uk/uksi/2006/3395), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2006/3395/regulation/1/1/b)[(2)(b)](https://www.legislation.gov.uk/uksi/2006/3395/regulation/1/2/b), [5(2)(c)(i)](https://www.legislation.gov.uk/uksi/2006/3395/regulation/5/2/c/i) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2006/3395/regulation/1/3))
+
+[^key-61b770ff49b12f4fc2b4fbf2275d0d62]: Textual amendment: Sum in Sch. 4 Table C substituted (E.) (in relation to financial years beginning on or after 1 April 2007) by [The Council Tax and Non-Domestic Rating (Amendment) (England) Regulations 2006 (S.I. 2006/3395)](https://www.legislation.gov.uk/uksi/2006/3395), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2006/3395/regulation/1/1/b)[(2)(b)](https://www.legislation.gov.uk/uksi/2006/3395/regulation/1/2/b), [5(2)(c)(ii)](https://www.legislation.gov.uk/uksi/2006/3395/regulation/5/2/c/ii) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2006/3395/regulation/1/3))
+
+[^key-fec73514d8853f224b754672e3e16d6d]: Textual amendment: Sum in Sch. 4 Table C substituted (E.) (in relation to financial years beginning on or after 1 April 2007) by [The Council Tax and Non-Domestic Rating (Amendment) (England) Regulations 2006 (S.I. 2006/3395)](https://www.legislation.gov.uk/uksi/2006/3395), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2006/3395/regulation/1/1/b)[(2)(b)](https://www.legislation.gov.uk/uksi/2006/3395/regulation/1/2/b), [5(2)(c)(iii)](https://www.legislation.gov.uk/uksi/2006/3395/regulation/5/2/c/iii) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2006/3395/regulation/1/3))
+
+[^key-963b34148883a2c94164593784d1a7a9]: Textual amendment: Sum in Sch. 4 Table C substituted (E.) (in relation to financial years beginning on or after 1 April 2007) by [The Council Tax and Non-Domestic Rating (Amendment) (England) Regulations 2006 (S.I. 2006/3395)](https://www.legislation.gov.uk/uksi/2006/3395), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2006/3395/regulation/1/1/b)[(2)(b)](https://www.legislation.gov.uk/uksi/2006/3395/regulation/1/2/b), [5(2)(c)(iv)](https://www.legislation.gov.uk/uksi/2006/3395/regulation/5/2/c/iv) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2006/3395/regulation/1/3))
+
+[^key-9e1b12dbb6681129c743e96cd2be9336]: Textual amendment: Sum in Sch. 4 Table C substituted (E.) (in relation to financial years beginning on or after 1 April 2007) by [The Council Tax and Non-Domestic Rating (Amendment) (England) Regulations 2006 (S.I. 2006/3395)](https://www.legislation.gov.uk/uksi/2006/3395), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2006/3395/regulation/1/1/b)[(2)(b)](https://www.legislation.gov.uk/uksi/2006/3395/regulation/1/2/b), [5(2)(c)(v)](https://www.legislation.gov.uk/uksi/2006/3395/regulation/5/2/c/v) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2006/3395/regulation/1/3))
+
+[^key-7ac1dd87f325a1a3aa49fc3d8538b201]: Textual amendment: Sum in Sch. 4 Table C substituted (E.) (in relation to financial years beginning on or after 1 April 2007) by [The Council Tax and Non-Domestic Rating (Amendment) (England) Regulations 2006 (S.I. 2006/3395)](https://www.legislation.gov.uk/uksi/2006/3395), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2006/3395/regulation/1/1/b)[(2)(b)](https://www.legislation.gov.uk/uksi/2006/3395/regulation/1/2/b), [5(2)(c)(vi)](https://www.legislation.gov.uk/uksi/2006/3395/regulation/5/2/c/vi) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2006/3395/regulation/1/3))
+
+[^key-3d1fe7e220c0b612a78170a6fe685b18]: Textual amendment: [Sch. 5](https://www.legislation.gov.uk/uksi/1992/613/schedule/5) omitted (6.4.2014) by virtue of [The Tribunals, Courts and Enforcement Act 2007 (Consequential, Transitional and Saving Provision) Order 2014 (S.I. 2014/600)](https://www.legislation.gov.uk/uksi/2014/600), [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/600/article/2/1), [Sch. para. 3(j)](https://www.legislation.gov.uk/uksi/2014/600/schedule/paragraph/3/j), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2014/600/schedule/part/2) (with [arts. 3](https://www.legislation.gov.uk/uksi/2014/600/article/3), [4](https://www.legislation.gov.uk/uksi/2014/600/article/4))
+
+[^key-28a02a256e8105376fb458d26270ea47]: Textual amendment: Sch. 6 substituted (E.) (6.4.2010) by [The Council Tax and Non-Domestic Rating (Amendment) (England) Regulations 2010 (S.I. 2010/752)](https://www.legislation.gov.uk/uksi/2010/752), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/752/regulation/1/1), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2010/752/schedule/part/2) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2010/752/regulation/1/4)); and substituted (W.) (1.4.2011) by [The Council Tax and Non-Domestic Rating (Amendment) (Wales) Regulations 2011 (S.I. 2011/528)](https://www.legislation.gov.uk/wsi/2011/528), [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/528/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/wsi/2011/528/schedule/2) (with [reg. 1(3)](https://www.legislation.gov.uk/wsi/2011/528/regulation/1/3))

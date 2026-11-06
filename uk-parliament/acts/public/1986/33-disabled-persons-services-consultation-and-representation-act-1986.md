@@ -1,0 +1,935 @@
+---
+title: Disabled Persons (Services, Consultation and Representation) Act 1986
+id: ukpga/1986/33
+type: UnitedKingdomPublicGeneralAct
+category: primary
+status: revised
+made_date: '1986-07-08'
+text_date: '2026-01-01'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/ukpga/1986/33
+pdf_urls:
+- http://www.legislation.gov.uk/ukpga/1986/33/pdfs/ukpga_19860033_en.pdf
+- http://www.legislation.gov.uk/ukpga/1986/33/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Disabled Persons (Services, Consultation and Representation) Act 1986
+
+> Text as at 2026-01-01.
+>
+> Extent: England, Wales, Scotland.
+
+*Extent: E+W+S*
+
+Disabled Persons (Services, Consultation and Representation) Act 1986
+
+1986 c. 33
+
+An Act to provide for the improvement of the effectiveness of, and the co-ordination of resources in, the provision of services for people with mental or physical handicap and for people with mental illness; to make further provision for the assessment of the needs of such people; to establish further consultative processes and representational rights for such people; and for connected purposes.
+
+\[8th July 1986\]
+
+[^c7876781]Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
+
+## Part I — Representation and Assessment
+
+### 1.— Appointment of authorised representatives of disabled persons.
+
+**Not yet in force.**
+
+(1) In this Act “**authorised representative**”, in relation to a disabled person, means a person for the time being appointed by or on behalf of that disabled person (in accordance with regulations made under this section) to act as his authorised representative for the purposes of this Act.
+
+(2) The Secretary of State may by regulations make provision with respect to the appointment of persons to act as the authorised representatives of disabled persons, including provision—
+
+- (a) for the manner in which the appointment of a person as an authorised representative is to be made; and
+- (b) for any such appointment to be notified to the relevant local authority (as defined in the regulations) if made otherwise than by that authority
+
+(3) Any such regulations—
+
+- (a) may provide for the
+  - (i)[^c7876851] the parent of a disabled person under the age of sixteen, or
+  - (ii) any other person who is not a parent of his but who has parental responsibility for him
+
+  to appoint himself or some other person as the authorised representative of the disabled person (but shall not permit a person under that age himself to appoint a person as his authorised representative);
+- (a) may provide for—[^c7876881]
+  - (i) any person who has parental responsibilities in relation to a disabled person under the age of sixteen (“**parental responsibilities**” having the meaning given by section 1(3) of the Children (Scotland) Act 1995); or
+  - (ii) any other person who is entitled to act as the disabled person’s legal representative (as defined in section 15(5) of the Children (Scotland) Act 1995),
+
+  to appoint himself or some other person as the authorised representative of the disabled person (but shall not permit a person under that age himself to appoint a person as his authorised representative);
+- (b) may provide for the appointment of a person as the authorised representative of a disabled person who is a child looked after by[^c7876861] a local authority to be made by that authority in such circumstances as may be specified in the regulations;
+- (c) may, in accordance with subsection (4), provide for the appointment of a person as the authorised representative of a disabled person to be made by, or under arrangements made by, a local authority in a case where the disabled person appears to the authority to be unable to appoint a person as his authorised representative by reason of any mental or physical incapacity;
+- (d) may contain such incidental or supplementary provisions as the Secretary of State thinks fit.
+
+(4) Regulations under paragraph (c) of subsection (3) may make provision—
+
+- (a) for requiring a local authority, for the purpose of enabling them to determine whether a disabled person is unable to appoint a person as his authorised representative as mentioned in that paragraph, to obtain the opinion of a registered medical practitioner;
+- (b) for authorising a local authority, where they determine that a disabled person is so unable, either—
+  - (i) themselves to appoint a person as the disabled person’s authorised representative, or
+  - (ii) to make with any voluntary organisation, person or persons approved by them for the purpose such arrangements as they think fit for such an appointment to be made by the organisation, person or persons concerned;
+- (c) for requiring or authorising a local authority, before determining the question specified in paragraph (a), or (as the case may be) before making any appointment of an authorised representative, or any arrangements, in pursuance of paragraph (b), to consult any of the following, namely—
+  - (i) a person or persons appointed by them for the purpose, or
+  - (ii) a person or persons falling within any class or description specified in the regulations;
+- (d) for requiring a local authority, in such circumstances as may be specified in the regulations, to review the case of a disabled person whose authorised representative has been appointed in pursuance of paragraph (b) (whether by the local authority or under any arrangements made by them) for the purpose of determining whether he is still unable to appoint a person as his authorised representative as mentioned in subsection (3)(c).
+
+(5) Subsections (2) to (4) shall apply, with any necessary modifications, in relation to the termination of the appointment of a person as an authorised representative as they apply in relation to the making of such an appointment.
+
+(6) It is hereby declared that any person exercising under Part II of the 1983 Act or Parts 5, 6 and 7 of the[^key-2c5f44ef92f0d90757a96f36c8ab2505] 2003 Act—
+
+- (a) the functions of the nearest relative of a disabled person, or
+- (b) the functions of the guardian of a disabled person received into guardianship under that Part of that Act,
+
+may, if appointed as such in accordance with this section, also act as that person’s authorised representative.
+
+### 2. Rights of authorised representatives of disabled persons.[^c7878671]
+
+**Not yet in force.**
+
+(1) A local authority shall permit the authorised representative of a disabled person, if so requested by the disabled person—
+
+- (a) to act as the representative of the disabled person in connection with the provision by the authority of any services for him in the exercise of any of their functions under the welfare enactments, or
+- (b) to accompany the disabled person (otherwise than as his representative) to any meeting or interview held by or on behalf of the authority in connection with the provision by them of any such services.
+
+(2) For the purpose of assisting the authorised representative of a disabled person to do any of the things mentioned in subsection (1)(a) and (b) a local authority shall, if so requested by the disabled person—
+
+- (a) supply to the authorised representative any information, and
+- (b) make available for his inspection any documents,
+
+that the disabled person would be entitled to require the authority to supply to him or (as the case may be) to make available for his inspection.
+
+(3) In relation to a disabled person whose authorised representative has been appointed by virtue of subsection (3) of section 1, subsections (1) and (2) above shall each have effect as follows—
+
+- (a) if the appointment was made by virtue of subsection (3)(a) of that section, for the words “if so requested by the disabled person” there shall be substituted “if so requested by any person mentioned in section 1(3)(a)(i) or (ii)”[^c7877771]for the words “by the disabled person” there shall be substituted the words “by any person appointed by virtue of regulations made under section 1(3)(a)(i) or (ii) of this Act”[^c7877671]; and
+- (b) if the appointment was made by virtue of subsection (3)(b) or (c) of that section, the words “**if so requested by the disabled person**” shall be omitted.
+
+(4) A local authority shall not be required by virtue of subsection (1) or (2)—
+
+- (a) to permit an authorised representative to be present at any meeting or interview or part of a meeting or interview, or
+- (b) to supply any information to an authorised representative or to make any documents available for the inspection of an authorised representative,
+
+if the authority are satisfied that to do so would be likely to be harmful to the interests of the disabled person by whom or on whose behalf the representative has been appointed; and in determining that matter the authority shall have regard to any wishes expressed by the disabled person.
+
+(5) Where a disabled person is residing—
+
+- (a) in hospital accommodation provided pursuant to arrangements made by[^key-0f2aa9798a3cdf58a3c7c7f57b5c8300] NHS England[^key-ba67963fd7ccbd63525a4f78e25383eb] or an integrated care board[^key-c27b802a2cffa45ddfd8cb5826147dbc] under the National Health Service Act 2006 or provided by the Welsh Ministers under section 3(1)(a) of the National Health Service (Wales) Act 2006, by[^key-c557ef76bf39e8dc308c4e4cdaa8f75d] the Secretary of State under section 2A or 2B[^key-2c3639a69ce94447ac3ecc8aa9216379] of the National Health Service Act 2006, [^key-6e1d87044672f3bf05847eed48db6959]... by a National Health Service Trust established under that Act or the National Health Service (Wales) Act 2006 or by an[^key-f2a75a5d302d042e9aafe48802647cee] NHS foundation trust or, in Scotland, in hospital accommodation (other than accommodation at a State hospital) provided by the Secretary of State under section 36(1)(a) of the 1978 Act or by a National Health Service trust established under that Act[^c7878021], or
+- (aa)[^key-c069b6247d029d3a5b3dc70304b840b0] in hospital accommodation in respect of the provision of which direct payments are made under section 12A(1) of the National Health Service Act 2006, or
+- (ab)[^key-68142a666ba324bc277c6193c56c64d7] in hospital accommodation in Wales or in England in respect of the provision of which direct payments are made under section 10B(1) of the National Health Service (Wales) Act 2006, or
+- (b) in accommodation provided by a local authority under Part 1 of the Care Act 2014 or Part 4 of the Social Services and Well-being (Wales) Act 2014[^key-fa55ae56d7d8560f731d8a3335037395] or Schedule 8 to the 1977 Act or, in Scotland, under Part IV of the 1968 Act or section 25 of the 2003 Act[^key-a6c7cd1e3b6c3c162ba533448d9e2c38], or
+- (bb)[^c7878031] in accommodation provided by or on behalf of a local authority under Part III of the Children Act 1989 , or under Part 6 of the Social Services and Well-being (Wales) Act 2014[^key-c757a05a12c36f4a9e555dd8c82ae188], or
+- (bc)[^c7877921] in Scotland, in accommodation provided by or on behalf of a local authority under Chapter 1 of Part II of the Children (Scotland) Act 1995, or
+- (c) in accommodation provided by a voluntary organisation in accordance with arrangements made by a local authority under Part 1 of the Care Act 2014 or, in Wales, in compliance with a local authority’s duty to meet the needs of the disabled person pursuant to Part 4 of the Social Services and Well-being (Wales) Act 2014[^key-655f0a320eb1c5fa26c4147f15ef4a9c] or, in Scotland, provided by a voluntary organisation or other persons in accordance with arrangements made by a local authority under section 59(2)(c) of the 1968 Act, or
+- (cc)[^c7878041] in accommodation provided by a voluntary organisation in accordance with arrangements made by a local authority under section 17 of the Children Act 1989 , or under Part 4 of the Social Services and Well-being (Wales) Act 2014[^key-935df859536d4f7036961f1c2004a583], or
+- (d) in England, *(Extent: E+W)*[^key-99845e45e496de6e6ff837b2161eecde] in a care home within the meaning of the[^c7878591] [^c7878601]Care Standards Act 2000 or, in Scotland, in provided by a care home service within the meaning of the Regulation of Care (Scotland) Act 2001 (asp 8)[^c7878611], or
+
+*Extent: E+W*
+
+- (da)[^key-efd6b1906fbcf6d61535a68e124afec1] in Wales, in premises at which a care home service within the meaning of Part 1 of the Regulation and Inspection of Social Care (Wales) Act 2016 (anaw 2) is provided wholly or mainly to persons aged 18 or over, or
+- (dd)[^c7878061] in accommodation provided by any educational establishment.
+- (e) at any place specified by a person having the guardianship of the disabled person under Part II of the 1983 Act or Parts 5, 6 and 7 of the[^key-bcf75f859d2c56d361f7b958307313e0] 2003 Act,
+
+the disabled person’s authorised representative may at any reasonable time visit him there and interview him in private.
+
+(6) In paragraph (c) of subsection (5) “**voluntary organisation**” in relation to England and Wales includes a housing association within the meaning of the [^c7878801]Housing Associations Act 1985.
+
+(7) The Secretary of State may, after consulting such bodies representing health authorities or local authorities as appear to him to be appropriate and such other bodies as appear to him to be concerned, provide by order for any of the preceding provisions of this section to have effect (with such modifications as may be prescribed by the order) in relation to—
+
+- (a) the provision of services , or the arrangement for the provision of services,[^key-acb8a96620c38cbc1126eda595f8fcb2] by health authorities in the exercise of such of their functions under the 2006 Act or the National Health Service (Wales) Act 2006[^key-24250f0679dbf97e96a34083fd7c0751] or the 1978 Act as may be prescribed by the order, or
+- (b) the provision of services by local authorities in the exercise of such of their functions as may be so prescribed.
+
+(8) An order under subsection (7) may provide for any provision of regulations made under section 1 to have effect for the purposes of the order with such modifications as may be prescribed by the order, and in that event the reference in subsection (1) of that section to regulations made under that section shall be read as a reference to any such regulations as they have effect in accordance with the order.
+
+(9) In subsection (7)—
+
+- “**health authority**”—
+  - (a) in relation to England, means[^c7878811] NHS England , an integrated care board or[^key-b274d89de504221a99f757f58a8de3c4] [^key-41691d3aa84cd0fe7f893002de897e0f]... a Special Health Authority [^key-84c81d4d4beaaada27656ad2edfeb196]...,
+  - (aa) in relation to Wales, means a Local Health Board[^key-0cfee7482391495e098f4559c41c4c87] or a Special Health Authority, and
+  - (b) in relation to Scotland, means a Health Board; and
+- “**local authority**”—
+  - (a) in relation to England and Wales, has the meaning given by section 270(1) of the [^c7878521]Local Government Act 1972; and
+  - (b) in relation to Scotland, means a council constituted under the Local Government ([^c7877541]etc.) Scotland Act 1994.
+
+### 3. Assessment by local authorities in ... Scotland of needs of disabled persons.[^key-df700cdf50ae1c07b4702f2330ec0944][^key-f791f9cdb250c18486cabc0d39f385f0]
+
+**Not yet in force.**
+
+(1) Where—
+
+- (a) on any assessment carried out by them in pursuance of any provision of this Act, or
+- (b) on any other occasion,
+
+it falls to a local authority in[^key-58de1003acf675c82eec7a61ff0decb2] [^key-55d46e5cbdb55e0cd6c19fb7e8bb0bcd]... Scotland to decide whether the needs of a disabled person call for the provision by the authority (in accordance with any of the welfare enactments) of any statutory services for that person, the authority shall afford an opportunity to the disabled person or his authorised representative to make, within such reasonable period as the authority may allow for the purpose, representations to an officer of the authority as to any needs of the disabled person calling for the provision by the authority (in accordance with any of those enactments) of any statutory services for him.
+
+(2) Where any such representations have been made to a local authority in accordance with subsection (1) or the period mentioned in that subsection has expired without any such representations being made, and the authority have reached a decision on the question referred to in that subsection (having taken into account any representations made as mentioned above), the authority shall, if so requested by the disabled person or his authorised representative, supply the person making the request with a written statement—
+
+- (a) either specifying—
+  - (i) any needs of the disabled person which in the opinion of the authority call for the provision by them of any statutory services, and
+  - (ii) in the case of each such need, the statutory services that they propose to provide to meet that need,
+
+  or stating that, in their opinion, the disabled person has no needs calling for the provision by them of any such services; and
+- (b) giving an explanation of their decision; and
+- (c) containing particulars of the right of the disabled person or his authorised representative to make representations with respect to the statement under subsection (4).
+
+(3) Where the local authority do not propose to provide any statutory services to meet a particular need identified in any representations under subsection (1), any statement supplied under subsection (2) must state that fact together with the reasons why the authority do not propose to provide any such services.
+
+(4) If the disabled person or his authorised representative is dissatisfied with any matter included in the statement supplied under subsection (2), that person may, within such reasonable period as the authority may allow for the purpose, make representations to an officer of the authority with respect to that matter.
+
+(5) Where any such representations have been made to the authority in accordance with subsection (4), the authority shall—
+
+- (a) consider (or, as the case may be, reconsider) whether any, and (if so) what, statutory services should be provided by them for the disabled person to meet any need identified in the representations; and
+- (b) inform the disabled person or his authorised representative in writing of their decision on that question and their reasons for that decision.
+
+(6) Where—
+
+- (a) the disabled person or his authorised representative is unable to communicate, or (as the case may be) be communicated with, orally or in writing (or in each of those ways) by reason of any mental or physical incapacity, or
+- (b) both of those persons are in that position (whether by reason of the same incapacity or not),
+
+the local authority shall provide such services as, in their opinion, are necessary to ensure that any such incapacity does not—
+
+- (i) prevent the authority from discharging their functions under this section in relation to the disabled person, or
+- (ii) prevent the making of representations under this section by or on behalf of that person.
+
+(7) In determining whether they are required to provide any services under subsection (6) to meet any need of the disabled person or his authorised representative, and (if so) what those services should be, the local authority shall have regard to any views expressed by either of those persons as to the necessity for any such services or (as appropriate) to any views so expressed as the services which should be so provided.
+
+(8) In this section “**representations**” means representations made orally or in writing (or both).
+
+### 4. Services under s. 2 of the 1970 Act: duty to consider needs of disabled persons.
+
+(1)[^key-244eeb589fd21fa1d9bf339d344d3529] When requested to do so by—
+
+- (a) a disabled person,
+- (b) his authorised representative, or
+- (c) any person who provides care for him in the circumstances mentioned in section 8,
+
+a local authority in England[^key-e97d2939d6809fdf1c04070ac366f2d7] shall decide whether the needs of the disabled person call for the provision by the authority of any services in accordance with section 2(4)[^key-873205ae196a0761ffdb30876accd179] of the 1970 Act (provision of welfare services).
+
+(2)[^key-d2ec31120c6d5cd393a1739d7296cde9] [^key-edeb366d67677306dea63ca53917c807]... This section applies only if the disabled person is aged under 18.
+
+### 5. Disabled persons leaving special education : England.[^c7880181][^key-f9ea6d62212b75cc00b84f7a97628885]
+
+*Extent: W*
+
+(1) Where—
+
+- (a) a local authority in England[^key-f144145946884fbda409bf4d086969ac] have made a statement under section 7 of the [^c7880191]Education Act 1981 section 168 of the Education Act 1993 or section 324 of the Education Act 1996[^c7880201] (statement of child’s educational needs) , or have maintained an EHC plan under section 37 of the Children and Families Act 2014,[^key-56b1007bd44cfc8de5f7e43272156969] in respect of a child [^c7880211]... and
+- (b) the statement or plan[^key-70889fb4b1e4ecc31546a948bcdd938b] is still maintained by the authority at whichever is the earlier of the following times, namely—
+  - (i) the time when they institute a review of the statement[^c7880221] or plan prescribed for the purposes of this paragraph, and
+  - (ii) any time falling after they have carried out the review prescribed for the purposes of sub-paragraph (i)[^c7880231] when they institute a re-assessment of his educational needs,
+
+  the authority shall at that time require the appropriate officer to give to the authority his opinion as to whether the child is or is not a disabled person.
+
+(2) Where—
+
+- (a) a local authority[^key-daddd3cc57dc24dc3d0c141672b46b27] in England[^key-061ed8adfeece7402c1a30a1334819a4] make any such statement , or secure the preparation of an EHC plan,[^key-3725426eaac18e48ef1f796fb96f668a] in respect of a child after he has attained the age of 14, or
+- (b) a local authority in England[^key-196b58bc45cb97e568c2e5c39461ebfb] maintain any such statement or plan[^key-7bf4ce59452a923607ad9508bcb3f50d] in respect of a child in whose case the appropriate officer has, in pursuance of subsection (1), given his opinion that the child is not a disabled person, but the authority have become aware of a significant change in the mental or physical condition of the child giving them reason to believe that he may now be a disabled person,
+
+the authority shall, at the time of making the statement , securing the preparation of the plan[^key-4aa592357c433c87a089e9705d049c8c] or (as the case may be) of becoming aware of that change, require the appropriate officer to give to the authority his opinion as to whether the child is or is not a disabled person.
+
+(3)[^c7880241] In the following provisions of this section and in section 6 a person in respect of whom the appropriate officer has given his opinion that he is a disabled person is referred to as a “disabled student”.
+
+(3A) The responsible authority shall give to the appropriate officer written notification for the purposes of subsection (5) of the date on which any disabled student will cease to be of compulsory school age, and the notification shall state—
+
+- (a) his name and address; and
+- (b) whether or not he intends to remain in full-time education and, if he does, the name of the school or other institution at which the education will be received;
+
+and shall be given not earlier than twelve months, nor later than eight months, before that date.
+
+(3B) Where, in the case of a disabled student over compulsory school age who is receiving relevant full-time education, that is—
+
+- (a) full-time education at a school; or
+- (b) full-time further or higher education at an institution other than a school;
+
+it appears to the responsible authority that the student will cease to receive relevant full-time education on a date (“**the leaving date**”) on which he will be under the age of nineteen years and eight months, the responsible authority shall give written notification for the purposes of subsection (5) to the appropriate officer.
+
+(3C) That notification shall state—
+
+- (a) his name and address; and
+- (b) the leaving date;
+
+and shall be given not earlier than twelve months, nor later than eight months, before the leaving date.
+
+(4) If at any time it appears to the responsible authority—
+
+- (a) that a disabled student has ceased to receive relevant full-time education or will cease to do so on a date less than 8 months after that time, and
+- (b) that no notification has been given under subsection (3B), but
+- (c) that, had the responsible authority for the time being been aware of his intentions 8 months or more before that date, they would have been required to give notification under that subsection with respect to him,
+
+that authority shall, as soon as is reasonably practicable, give written notification for the purposes of subsection (5) to the appropriate officer of his name and address and of the date on which he ceased to receive, or will cease to receive, that education.
+
+(5) When the appropriate officer receives a notification given with respect to a student under subsection (3A) that he does not intend to remain in full-time education or under subsection (3B)[^c7880251] or (4), he shall (subject to subsections (6) and (7) make arrangements for the local authority of which he is an officer to carry out an assessment of the needs of that person with respect to the provision by that authority of any statutory services for that person in accordance with any of the welfare enactments, and any such assessment shall be carried out—
+
+- (a) in the case of a notification under subsection (3A) or (3B)[^c7880261], not later than the end of the period of 5 months beginning with the date of receipt of the notification, or
+- (b) in the case of a notification under subsection (4), before the date specified in the notification, if reasonably practicable, and in any event not later than the end of the period referred to in paragraph (a) above.
+
+(6) If—
+
+- (a) a notification has been given to the appropriate officer with respect to any person under subsection (3A) that he does not intend to remain in full-time education or under subsection (3B)[^c7880271] or (4), but
+- (b) it subsequently appears to the responsible authority that the person will be receiving relevant full-time education[^c7880281] at a time later than the date specified in the notification,
+
+the authority shall give written notification of the relevant facts to that officer as soon as is reasonably practicable; and on receiving any such notification that officer shall cease to be required under subsection (5) to make arrangements for the assessment of the needs of the person in question (but without prejudice to the operation of that subsection in relation to any further notification given with respect to that person under subsection (3A) that he does not intend to remain in full-time education or under subsection (3B) or (4)).
+
+(7) Nothing in subsection (5) shall require the appropriate officer to make arrangements for the assessment of the needs of a person—
+
+- (a) if, having attained the age of 16, he has requested that such arrangements should not be made under that subsection, or
+- (b) if, being under that age, his parent or other person who is not a parent of his but who has parental responsibility for him[^c7880301] has made such a request.
+
+(8) Regulations under paragraph 7 of Schedule 27 to the Education Act 1996[^c7880311] (assessments and statements of special educational needs) may, in relation to the transfer of statements maintained under section 324[^c7880321] of that Act, make such provision as appears to the Secretary of State to be necessary or expedient in connection with the preceding provisions of this section.
+
+(8A)[^key-0466f1a696b50ce2a5986ee98a693e43] Regulations under section 47 of the Children and Families Act 2014 (transfer of EHC plans) may make such provision as appears to the Secretary of State to be necessary or expedient in connection with subsections (1) to (7) of this section.
+
+(9) In this section—
+
+- “**the appropriate officer**”, in relation to the child or person referred to in the provision of this section in question, means such officer as may be appointed for the purposes of this section by the local authority for the area in which that child or person is for the time being ordinarily resident;
+- “**child**” means a person of compulsory school age or a person who has attained that age but not the age of 19 and is registered as a pupil at a school or as a student at[^c7880331] an establishment of higher or further education[^c7880341];
+- “[^c7880351]**establishment of higher or further education**” means an institution which provides higher education or further education (or both); and
+- “[^c7880361]**prescribed**” means prescribed in regulations made by the Secretary of State[^key-de8abf34b44215e19dc0760c4858fe07].
+  - (a) [^key-e4ad4788330adf031b120e70eceaecb3]...
+  - (b) [^key-e4ad4788330adf031b120e70eceaecb3]...
+- “**the responsible authority**”—
+  - (a) in relation to a child at school, means the local authority who are responsible for the child for the purposes of Part IV of the Education Act 1996[^c7880371] or (as the case may be) Part 3 of the Children and Families Act 2014[^key-6057de3f8d8f93edef53d388280056d6];
+  - (b) in relation to a person receiving full-time further education or higher education at an institution within the further education sector or the higher education sector, means the governing body of the institution; and[^c7880381]
+  - (c) in relation to a person for whom a local authority[^key-e2ac14a50948f0636470d3c4cb9e3568][^c7880391] [^key-0b691b92fda79ce0689bb4ef7a45aa3d]... [^key-9afff0e2b10333aeb3b790c79e2f386e]... has secured full-time further education at an institution (other than a school) outside the further education sector or the higher education sector, the local authority[^key-f0edf6e46483797aab57845fe27ae91e] [^key-9491635002ce28e66e624a33c0c9b709]... [^key-9501ea4368e73c5f536aded865f8e6bc]...
+
+  in each case whether any such opinion as is mentioned in subsection (3) was given to that authority or not;
+
+and other expressions used in this section and in the Education Act 1996[^c7880401] or the Further and Higher Education Act 1992[^c7880411] (and not defined in this Act) have the same meaning in this section as in those Acts[^c7880421].
+
+(10) This section applies to England [^key-02455dc610163e06a2d104be1b37c246]... only.
+
+### 6. Review of expected leaving dates from full - time education of disabled persons.
+
+(1)[^c7880461] The responsible authority shall for the purposes of section 5 above keep under review the date when any disabled student is expected to cease to receive relevant full-time education.
+
+(2) Subsection (9) of section 5 shall have effect for the purposes of this section as it has effect for the purposes of that section.
+
+### 7. Persons discharged from hospital.[^c7880731]
+
+**Not yet in force.**
+
+(1) When a person is to be discharged from a hospital after having received medical treatment for mental disorder as an in-patient for a continuous period of not less than 6 months ending with the date on which he is to be discharged, the managers of the hospital shall give written notification of that date—
+
+- (a) to the health authority in whose [^c7880741]... area it appears to the managers that that person is likely to reside after his discharge (unless the managers are that authority),
+- (b) to the local authority in whose area it appears to them that the person is likely then to reside, and
+- (c) in the case of a person under the relevant age on that date, to the appropriate officer of that local authority[^c7880751],
+
+as soon as it is reasonably practicable after that date is known to the managers.
+
+(2) Where—
+
+- (a) a person liable to be detained under the 1983 Act or the 2003[^key-37aaa1a37cb8ac60a949942a72d082c1] Act is discharged from a hospital in pursuance of an order for his immediate discharge made by the First-tier Tribunal or the Mental Health Review Tribunal for Wales[^key-7d75d26d14c50cfce67c121a92b099f6] or, in Scotland, by the Mental Welfare Commission for Scotland or by the sheriff, and
+- (b) he is so discharged after having received medical treatment for mental disorder as an in-patient for a continuous period of not less than 6 months ending with the date of his discharge,
+
+the managers of the hospital shall give written notification of that person’s discharge in accordance with paragraphs (a), (b), and (c) of subsection (1) above as soon as is reasonably practicable.
+
+(3) Where—
+
+- (a) a health authority receive a notification given with respect to a person under subsection (1) or (2), or
+- (b) the managers of a hospital from which a person is to be, or is, discharged as mentioned in subsection (1) or (2) are the health authority referred to in subsection (1)(a),
+
+that authority shall (subject to subsection (7)) make arrangements for an assessment of the needs of that person with respect to the provision of any services mentioned in subsection (3A)[^key-a2a56592eac1a9695bb1a408ed27abca]; and in making any such arrangements a health authority falling within paragraph (a) above shall consult the managers of the hospital in question.
+
+(3A)[^key-cfa9b984da4c516f55d5a3abc25be09c] The services referred to in subsection (3) are—
+
+- (a) in relation to England, services whose provision must be arranged by an integrated care board[^key-8d2fbb2539fef56e461ba5dbe474a8ea] under section 3 of the 2006 Act, or by NHS England[^key-45e38d2132873832d871af8c473111c9] by virtue of section 3B of that Act;
+- (b) in relation to Wales, services which must be provided by the Welsh Ministers under the National Health Service (Wales) Act 2006; or
+- (c) in relation to Scotland, services which must be provided by the Scottish Ministers under the 1978 Act.
+
+(4) Where a local authority receive a notification given with respect to a person under subsection (1) or (2), the authority shall (subject to subsection (7)) make arrangements for an assessment of the needs of that person with respect to the provision of any services under any of the welfare enactments.
+
+(5) A health authority and a local authority who are by virtue of subsections (3) and (4) each required to make arrangements for an assessment of the needs of a particular person shall co-operate with each other in the making of those arrangements.
+
+(6) Any assessment for which arrangements are required to be made by virtue of subsection (3) or (4) shall be carried out—
+
+- (a) where the notification in question was given under subsection (1), not later than the date mentioned in that subsection, or
+- (b) where the notification in question was given under subsection (2), as soon as is reasonably practicable after receipt of the notification.
+
+(7) A health authority or a local authority shall not be required to make arrangements for an assessment of the needs of a person by virtue of subsection (3) or (4) if that person has requested them not to make any such arrangements.
+
+(8) Nothing in this section shall apply in relation to a person who is being discharged from a hospital for the purpose of being transferred to another hospital in which he will be an in-patient (whether or not he will be receiving medical treatment for mental disorder); but any reference in subsection (1) or (2) to a person’s having received medical treatment for mental disorder as an in-patient for the period mentioned in that subsection is a reference to his having received such treatment for that period as an in-patient in one or more hospitals (any interruption of that period attributable to his being transferred between hospitals being disregarded).
+
+(9) In this section—
+
+- “the appropriate officer” of a local authority is such officer discharging education functions (as defined in section 579(1) of the Education Act 1996) of that authority or, in Scotland, functions of that authority in their capacity as an education authority, as may be appointed by the authority for the purposes of this section;[^key-c7bac76da0c3b1487da21b6b5357fb20]
+- “**health authority**”—
+  - (a) in relation to England, means[^c7880771] an integrated care board[^key-dc82aa93468759ff78330422d5345511],
+  - (aa) in relation to Wales, means a Local Health Board[^key-0f2b5fd9500145b7fb48bea7cb39beba], and
+  - (b) in relation to Scotland, means a Health Board;
+- “**the managers**”—
+  - (a) in relation to—
+    - (i) a health service hospital within the meaning of the 2006 Act or the National Health Service (Wales) Act 2006[^key-4ab7d6fe2693c9520bb9562eba207b90] (other than a special hospital or a hospital vested in a National Health Service trust[^c7880781] or an[^key-1c02fe915b69e02fe6ebfb001a50ad3b][^key-2b23a84dec772b29a434c4c4499f25e0] NHS foundation trust ),
+    - (ii) a health service hospital within the meaning of the 1978 Act (other than a State hospital or a hospital vested in a National Health Service trust), or
+    - (iii) any accommodation provided by a local authority and used as a hospital by or on behalf of the Secretary of State under the 2006 Act, or the Welsh Ministers under the National Health Service (Wales) Act 2006[^key-56a2cadd90c71db65b04b2e29ae343ef],
+
+  means the Secretary of State where the Secretary of State is responsible for the administration of the hospital, or means the[^key-7880454095ee7b1f1b9fcfcd40c1a237] [^key-031b80bbce61c41e07d78e582700de87]... Health Authority or Special Health Authority[^c7880821], or (as the case may be) the Health Board who are responsible for the administration of the hospital;
+
+  - (b) in relation to a special hospital, means the Secretary of State;
+  - (bb) [^key-9d4808c155dfe193f8e4d39e45592029]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c7880831]
+  - (c) in relation to a State hospital, means [^key-a2167eacbd1fbd9e7d9bfe4b6a26cd89]... the Secretary of State; [^c7880841]...
+  - (cc) in relation to a hospital vested in a National Health Service trust means the directors of that trust;[^c7880851]
+  - (cd) in relation to a hospital vested in an[^key-33d8d0b5314309d173ef4680e2fee8d7] NHS foundation trust, means the board of directors of that trust; and
+  - (d) in relation to any other hospital, means the persons for the time being having the management of the hospital;
+- “**medical treatment**”—
+  - (a) in relation to England and Wales, has the meaning given by section 145(1) of the 1983 Act; and
+  - (b) in relation to Scotland, has the meaning given by section 329(1) of the[^key-0742eb07016f55a7fdadcda7980cbe11] 2003 Act; and
+- “**the relevant age**”—
+  - (a) in relation to England and Wales, means the age of 19; and
+  - (b) in relation to Scotland, means the age of 18.
+
+### 8. Duty of local authority in ... Scotland to take into account abilities of carer.[^c23396341][^c7880861][^key-6ab3334da65f194fbf69fc1f733be012][^key-a1233d2f3c8a22eff68f1859e709c20f]
+
+(1) Where—
+
+- (a) a disabled person is living at home and receiving a substantial amount of care on a regular basis from another person (who is not a person employed to provide such care by any body in the exercise of its functions under any enactment), and
+- (b) it falls to a local authority in[^key-df33f67bde75a6e091cc2d9f1a52ad48] [^key-6f31de681a3fa9e959621023485cc0c4]... Scotland to decide whether the disabled person’s needs call for the provision by them of any services for him under any of the welfare enactments,
+
+the local authority shall, in deciding that question, have regard to the ability of that other person to continue to provide such care on a regular basis.
+
+(2) Where that other person is unable to communicate, or (as the case may be) be communicated with, orally or in writing (or in each of those ways) by reason of any mental or physical incapacity, the local authority shall provide such services as, in their opinion, are necessary to ensure that any such incapacity does not prevent the authority from being properly informed as to the ability of that person to continue to provide care as mentioned in subsection (1).
+
+(3) Section 3(7) shall apply for the purposes of subsection (2) above as it applies for the purposes of section 3(6), but as if any reference to the disabled person or his authorised representative were a reference to the person mentioned in subsection (2).
+
+## Part II — Information and Consultation
+
+### 9. Information.
+
+In subsection (2)(b) of section 1 of the 1970 Act—
+
+- (a) for the words “any other of those services” there shall be substituted the words “any other service provided by the authority (whether under any such arrangements or not)”; and
+- (b) at the end there shall be inserted the words “and of any service provided by any other authority or organisation which in the opinion of the authority is so relevant and of which particulars are in the authority’s possession”.
+
+### 10. Co-option to committees etc. of persons representing interests of disabled persons.[^c7880871][^key-52bc88c464804f46eac0b565dea8e109]
+
+Where any enactment provides for the appointment or co-option to any council, committee or body of one or more persons with special knowledge of the needs of disabled persons, such appointment or co-option shall only be made after consultation with such organisation or organisations of disabled people as may be appropriate in each case.
+
+### 11. Reports to Parliament.[^c7880901]
+
+(1ZA)[^c7880911] In this section, [^key-08e985abf06ba1f5b9fa2ebe0584e411]... subsection (1) extends to Scotland only.
+
+(1ZB)[^key-5da27fd88c3ad57ca4d01ce4413099af] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(1) The Secretary of State shall annually lay before Parliament a report containing the following information, namely—
+
+- (a) such information as the Secretary of State considers appropriate with respect to the development of health and social services in the community for persons suffering from mental illness or mental handicap who are not resident in hospitals;
+- (b) information with respect to—
+  - (i) the number of persons receiving treatment for mental illness as in-patients in health service hospitals, and
+  - (ii) the number of persons receiving treatment for mental handicap as in-patients in such hospitals,
+
+  in each case analysed by reference to age and length of stay; and
+- (c) such other information (if any) as the Secretary of State considers appropriate be included in the report.
+
+(2)[^c7880921] In this section—
+
+- “**health service hospital**” has the same meaning as in the 1978 Act, except that it does not include a State hospital;
+- “**learning disability**” means a state of arrested or incomplete development of mind which includes significant impairment of intelligence and social functioning.
+
+## Part III — Scotland
+
+### 12. Amendment of the 1970 Act and the 1968 Act, 1948 c. 29
+
+(1) In section 29 of the 1970 Act in subsection (2) (which extends the Act to Scotland) for paragraph (a) there shall be substituted the following paragraph—
+
+> - (a) any references to functions under section 29 of the National Assistance Act 1948 shall be construed as references to duties to—
+>   - (i) chronically sick or disabled persons; or
+>   - (ii) persons suffering from mental disorder,
+>
+>   (being persons in need) to whom section 12 of the Social Work (Scotland) Act 1968 applies;
+
+.
+
+(2) In section 2 of the 1968 Act (social work committees and functions referred to them) in paragraph (a) of subsection (2) after the word “Act” there shall be inserted the words “as read with sections 1 and 2(1) of the [^c7880931]Chronically Sick and Disabled Persons Act 1970 and the Disabled Persons (Services, Consultation and Representation) Act 1986”.
+
+(3) The foregoing provisions of this section extend to Scotland only.
+
+### 13. Disabled persons leaving special education: Scotland.[^key-d70c68cf9b09dc0aeb16a7b8df9a7210]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 14. Assessment and recording of children and young persons.
+
+(1) The 1980 Act is amended in accordance with the provisions of this section.
+
+(2) In section 4 (duty of education authorities to provide child guidance service)—
+
+- (a) for the words “a child guidance service in child guidance clinics” there shall be substituted the words “a regional or island authority psychological service in clinics”; and
+- (b) in sub-paragraph (c) the words “**child guidance**” shall be omitted.
+
+(3)[^key-dd07db41affaf75a6d6099bb9028398c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4)[^key-dd07db41affaf75a6d6099bb9028398c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5)[^key-dd07db41affaf75a6d6099bb9028398c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(6)[^key-dd07db41affaf75a6d6099bb9028398c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(7) The foregoing provisions of this section extend to Scotland only.
+
+### 15. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c7880961]
+
+## Part IV — Supplemental
+
+### 16. Interpretation.
+
+(1)[^c7882541] In this Act—
+
+- “**the 1948 Act**” means [^c7882551]National Assistance Act 1948;
+- “**the 1968 Act**” means the [^c7882561]Social Work (Scotland) Act 1968;
+- “**the 1970 Act**” means the [^c7882571]Chronically Sick and Disabled Persons Act 1970;
+- [^key-308cf015fb7a5dea2a7be3678b35fa7e]...
+- “**the 1978 Act**” means the [^c7882591]National Health Service (Scotland) Act 1978;
+- “**the 1980 Act**” means the [^c7882601]Education (Scotland) Act 1980;
+- “**the 1983 Act**” means the [^c7882611]Mental Health Act 1983;
+- “the[^key-29632a03226b63b1279689697d6cd5e5] 2003 Act” means the [Mental Health (Care and Treatment) (Scotland) Act 2003 (asp 13)](https://www.legislation.gov.uk/asp/2003/13);
+- “[^key-319bb243146109742325ec5341799e7b]**the 2006 Act**” means the National Health Service Act 2006;
+- “**authorised representative**” has the meaning given by section 1(1) above;
+- “**disabled person**”—
+  - (za) in relation to England, means—[^key-d9d2bb14ca2e3747c9af0ddb259b9e41]
+    - (i) in the case of a person aged 18 or over, a person who has a disability within the meaning of section 6 of the Equality Act 2010;
+    - (ii) in the case of a person aged under 18, a person who is disabled within the meaning of Part 3 of the Children Act 1989;
+  - (a) in relation to Wales means a person who is disabled within the meaning of section 3 of the Social Services and Well-being (Wales) Act 2014; and[^key-c5156670a5a9946e43379d80fe742401]
+  - (b) in relation to Scotland, means—[^c7882641]
+    - (i) in the case of a person aged eighteen or over, one chronically sick or disabled or one suffering from mental disorder (being, in either case, a relevant person for the purposes of section 12 of the Social Work (Scotland) Act 1968; and
+    - (ii) in any other case, a disabled child (“**disabled child**” being construed in accordance with Chapter 1 of Part II of the Children (Scotland) Act 1995);
+- “**guardian**” (except in section 1(6))—
+  - (a) in relation to England and Wales, means a person appointed by deed or will or by order of a court of competent jurisdiction to be the guardian of a child; and[^c7882651]
+  - (b) in relation to Scotland, means a person ap pointed by deed or will or by order of a court of competent jurisdiction to be the[^c7882661] tutor, curator or[^c7882671] guardian of a child;
+- [^key-3368f1e39cb5498020e7a166f165e771]...
+- “**Health Board**” means a Health Board within the meaning of the 1978 Act;
+- “**hospital**”—
+  - (a) in relation to England and Wales, means—
+    - (i) a health service hospital within the meaning of 2006 Act or the National Health Service (Wales) Act 2006[^key-d5e4210dd1d0e1cab90f138670a2557a], or
+    - (ii) any accommodation provided by any person pursuant to arrangements made under section 12(1) of the 2006 Act or section 10(1) of the National Health Service (Wales) Act 2006[^key-8c8bf6322f30a7c27c9b05699fd66d78] (voluntary organisations and other bodies) and used as a hospital; and
+  - (b) in relation to Scotland, means a health service hospital within the meaning of the 1978 Act;
+- “**local authority**” (except in section 2(7))—
+  - (a) in relation to England and Wales, means a council which is a local authority for the purposes of the [^c7882691]Local Authority Social Services Act 1970 or the Social Services and Well-being (Wales) Act 2014[^key-3f24022b3ece9c8e9754dbf1b9f8d2ab] or, so long as an order under section 12 of the[^key-da4a0ef7f57bc1f2afbfb2b22ee07967] 1970 Act is in force, the Council of the Isles of Scilly; and
+  - (b) in relation to Scotland, means a council constituted under section 2 of the Local Government[^c7882701] etc. (Scotland) Act 1994 on whom functions are imposed by section 1 , as read with section 2,[^c7882711] of the 1968 Act or any of the enactments mentioned in section 5(1B) of that Act[^c7882721];
+- “[^key-ee54bf924c71a2a2f3cdfd3bb4cb0eb6]**Local Health Board**” means a Local Health Board established under section 11 of the National Health Services (Wales) Act 2006;
+- “**mental disorder**”—
+  - (a) in relation to England and Wales, has the meaning given by section 1 of the 1983 Act; and
+  - (b) in relation to Scotland, has the meaning given by section 328 of the 2003 Act[^key-60820a2b63d8f2936a430a27ed73122f];
+- “**modifications**” includes additions, omissions and amendments;
+- “**parent**”—
+  - (a) in relation to England and Wales, means, in the case of a child who is illegitimate, his mother, to the exclusion of his father; and
+  - (b) in relation to Scotland, means, in the case of a child whose father is not married to the mother, his mother, to the exclusion of his father;
+- “[^c7882731]**parental responsibility**” has the same meaning as in the Children Act 1989;
+- [^key-11a3bb6013b56aeb12a8452b8842f623]...
+- “**services**” includes facilities;
+- “[^c7882751]**Special Health Authority**” means a Special Health Authority established under section 28 of the 2006 Act or section 22 of the National Health Service (Wales) Act 2006[^key-fec6e69e4b7889df2c497d10d4a9779d];
+- “**special hospital**” means a special hospital within the meaning of the 1977 Act;
+- “**State hospital**” means a State hospital within the meaning of the 2003[^key-5d31867c5d565c25e98133b0ff9aed95] Act;
+- “**statutory services**”—
+  - (a) in relation to England and Wales, means services under any arrangements which a local authority are required to make by virtue of any of the welfare enactments, and
+  - (b) in relation to Scotland, means services which a local authority find it necessary to provide themselves or by arrangement with another local authority, or with any voluntary or other body, in connection with the performance of the local authority’s functions under the welfare enactments;
+- [^key-c53110296beae0b7364424147fcc98da]...
+- “**voluntary organisation**” means a body the activities of which are carried on otherwise than for profit, but does not include any public or local authority;
+- “**the welfare enactments**” means [^key-075d5fca0108f0998b75847f5c674b56]... —
+  - (za) in relation to England,[^key-daac4f0718c45807a3cb9836664319dc] section 2 of the[^key-ac0a306949489cf10ef1623f091e96cc] 1970 Act, Part 3 of the Children Act 1989 and Part 1 of the Care Act 2014,
+  - (a) in relation to [^key-922f8296ecf83ad9e2b3e81910477955]... Wales, [^key-922f8296ecf83ad9e2b3e81910477955]...[^key-1d187636d1f1cc327a3789f906e37187] Parts 4 and 6 of the Social Services and Well-being (Wales) Act 2014[^key-b10a6194619db72ba31163fcc44c13e4], and
+  - (b) in relation to Scotland, section 27 of the [^c7882781]National Health Service (Scotland) Act 1947, the 1968 Act ,[^c7882791] sections 25 and 26 of the 2003 Act[^key-8e805f9134ef67520fb4d5edbe4abef0] and Chapter 1 of Part II of the Children (Scotland) Act 1995.
+
+(2)[^key-e2ccd986966a953af8996ccb57dc7a8b] In this Act as it applies in relation to England, any reference to a child who is looked after by a local authority has the same meaning as in Part 3 of the Children Act 1989.
+
+(2ZA) In this Act as it applies in relation to Wales, any reference to a child who is looked after by a local authority has the same meaning as in Part 6 of the Social Services and Well-being (Wales) Act 2014.
+
+(2A)[^c7882811] In this Act as it applies in relation to Scotland, any reference to a child who is looked after by a local authority shall be construed in accordance with section 17(6) of the Children (Scotland) Act 1995.
+
+### 17. Financial provisions.
+
+There shall be paid out of money provided by Parliament any increase attributable to this Act in the sums payable out of money so provided under any other Act.
+
+### 18. Short title, commencement, regulations, orders and extent.
+
+(1) This Act may be cited as the Disabled Persons (Services, Consultation and Representation) Act 1986.
+
+(2)[^c7882821] This Act shall come into force on such date as the Secretary of State may by order appoint and different dates may be appointed for different provisions or different purposes, and different provision may be made under this subsection for England and Wales and for Scotland.
+
+(3) Any regulations or order made under this Act shall be made by statutory instrument and (except in the case of an order under subsection (2)) shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+(3A)[^key-bad17de3a8a17f0c33a0c78146d26b97] As regards any regulations or order made under this Act by the National Assembly for Wales, subsection (3) shall have effect without the words after “statutory instrument”.
+
+(4) This Act does not extend to Northern Ireland.
+
+## Annotations
+
+[^c7876781]: Commencement: Act not in force at Royal Assent see [s. 18(2)](https://www.legislation.gov.uk/ukpga/1986/33/section/18/2); Act partly in force at 18.12.1989.
+
+[^c7876851]: Textual amendment: S. 1(3)(a)(i)(ii) substituted (E.W.) (14.10.1991) for words by [Children Act 1989 (c. 41, SIF 20)](https://www.legislation.gov.uk/ukpga/1989/41), [s. 108(5)](https://www.legislation.gov.uk/ukpga/1989/41/section/108/5), [Sch. 13 para. 58(a)](https://www.legislation.gov.uk/ukpga/1989/41/schedule/13/paragraph/58/a) (with [s. 108(6)](https://www.legislation.gov.uk/ukpga/1989/41/section/108/6), [Sch. 14 para. 1(1)](https://www.legislation.gov.uk/ukpga/1989/41/schedule/14/paragraph/1/1)); [S.I. 1991/828](https://www.legislation.gov.uk/uksi/1991/828), [art. 3(2)](https://www.legislation.gov.uk/uksi/1991/828/article/3/2)
+
+[^c7876881]: Textual amendment: Words in s. 1(3)(a) substituted (S.) (1.11.1996) by [1995 c. 36](https://www.legislation.gov.uk/ukpga/1995/36), [s. 105(4)](https://www.legislation.gov.uk/ukpga/1995/36/section/105/4), [Sch. 4 para. 39(2)(a)](https://www.legislation.gov.uk/ukpga/1995/36/schedule/4/paragraph/39/2/a) (with [s. 103(1)](https://www.legislation.gov.uk/ukpga/1995/36/section/103/1)); [S.I. 1996/2203](https://www.legislation.gov.uk/uksi/1996/2203), [art. 3(3)](https://www.legislation.gov.uk/uksi/1996/2203/article/3/3), [Sch.](https://www.legislation.gov.uk/uksi/1996/2203/schedule)
+
+[^c7876861]: Textual amendment: Words in s. 1 (3)(b) substituted (E.W.) (14.10.1991) by [Children Act 1989 (c. 41, SIF 20)](https://www.legislation.gov.uk/ukpga/1989/41), [s. 108(5)](https://www.legislation.gov.uk/ukpga/1989/41/section/108/5), [Sch. 13 para. 58(b)](https://www.legislation.gov.uk/ukpga/1989/41/schedule/13/paragraph/58/b) (with [s. 108(6)](https://www.legislation.gov.uk/ukpga/1989/41/section/108/6), [Sch. 14 para. 1(1)](https://www.legislation.gov.uk/ukpga/1989/41/schedule/14/paragraph/1/1)); [S.I. 1991/828](https://www.legislation.gov.uk/uksi/1991/828), [art. 3(2)](https://www.legislation.gov.uk/uksi/1991/828/article/3/2); and those same words substituted (S.) (1.4.1997) by [1995 c. 36](https://www.legislation.gov.uk/ukpga/1995/36), [s. 105(4)](https://www.legislation.gov.uk/ukpga/1995/36/section/105/4), [Sch. 4 para. 39(2)(b)](https://www.legislation.gov.uk/ukpga/1995/36/schedule/4/paragraph/39/2/b) (with [s. 103(1)](https://www.legislation.gov.uk/ukpga/1995/36/section/103/1)); [S.I. 1996/3201](https://www.legislation.gov.uk/uksi/1996/3201), [art. 3(7)](https://www.legislation.gov.uk/uksi/1996/3201/article/3/7)
+
+[^key-2c5f44ef92f0d90757a96f36c8ab2505]: Textual amendment: Words in s. 1(6) substituted (S.) (27.9.2005) by [The Mental Health (Care and Treatment) (Scotland) Act 2003 (Modification of Enactments) Order 2005 (S.S.I. 2005/465)](https://www.legislation.gov.uk/ssi/2005/465), [art. 1](https://www.legislation.gov.uk/ssi/2005/465/article/1), [sch. 1 para. 17(2)](https://www.legislation.gov.uk/ssi/2005/465/schedule/1/paragraph/17/2)
+
+[^c7878671]: Modification: S. 2: transfer of functions (1.7.1999) by [S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672), [art. 2](https://www.legislation.gov.uk/uksi/1999/672/article/2), [Sch. 2](https://www.legislation.gov.uk/uksi/1999/672/schedule/2)
+
+[^c7877771]: Textual amendment: Words in s. 2(3)(a) substituted (E.W.) (14.10.1991) by [Children Act 1989 (c. 41, SIF 20)](https://www.legislation.gov.uk/ukpga/1989/41), [s. 108(5)](https://www.legislation.gov.uk/ukpga/1989/41/section/108/5), [Sch. 13 para. 59(2)](https://www.legislation.gov.uk/ukpga/1989/41/schedule/13/paragraph/59/2) (with [s. 108(6)](https://www.legislation.gov.uk/ukpga/1989/41/section/108/6), [Sch. 14 para. 1(1)](https://www.legislation.gov.uk/ukpga/1989/41/schedule/14/paragraph/1/1)); [S.I. 1991/828](https://www.legislation.gov.uk/uksi/1991/828), [art. 3(2)](https://www.legislation.gov.uk/uksi/1991/828/article/3/2)
+
+[^c7877671]: Textual amendment: Words in s. 2(3)(a) substituted (S.) (1.11.1996) by [1995 c. 36](https://www.legislation.gov.uk/ukpga/1995/36), [s. 105(4)](https://www.legislation.gov.uk/ukpga/1995/36/section/105/4), [Sch. 4 para. 39(3)(a)](https://www.legislation.gov.uk/ukpga/1995/36/schedule/4/paragraph/39/3/a) (with [s. 103(1)](https://www.legislation.gov.uk/ukpga/1995/36/section/103/1)); [S.I. 1996/2203](https://www.legislation.gov.uk/uksi/1996/2203), [art. 3(3)](https://www.legislation.gov.uk/uksi/1996/2203/article/3/3), [Sch.](https://www.legislation.gov.uk/uksi/1996/2203/schedule)
+
+[^key-0f2aa9798a3cdf58a3c7c7f57b5c8300]: Textual amendment: Words in s. 2(5)(a) inserted (1.4.2013) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 5 para. 39(a)(i)](https://www.legislation.gov.uk/ukpga/2012/7/schedule/5/paragraph/39/a/i); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+
+[^key-ba67963fd7ccbd63525a4f78e25383eb]: Textual amendment: Words in s. 2 substituted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 1 para. 1(1)](https://www.legislation.gov.uk/ukpga/2022/31/schedule/1/paragraph/1/1)[(2)](https://www.legislation.gov.uk/ukpga/2022/31/schedule/1/paragraph/1/2); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+
+[^key-c27b802a2cffa45ddfd8cb5826147dbc]: Textual amendment: Words in s. 2(5)(a) substituted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 4 para. 24(2)](https://www.legislation.gov.uk/ukpga/2022/31/schedule/4/paragraph/24/2); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+
+[^key-c557ef76bf39e8dc308c4e4cdaa8f75d]: Textual amendment: Words in s. 2(5)(a) substituted (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 1 para. 88(a)](https://www.legislation.gov.uk/ukpga/2006/43/schedule/1/paragraph/88/a) (with [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/3/part/1))
+
+[^key-2c3639a69ce94447ac3ecc8aa9216379]: Textual amendment: Words in s. 2(5)(a) substituted (1.4.2013) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 5 para. 39(a)(ii)](https://www.legislation.gov.uk/ukpga/2012/7/schedule/5/paragraph/39/a/ii); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+
+[^key-6e1d87044672f3bf05847eed48db6959]: Textual amendment: Words in s. 2(5)(a) omitted (1.4.2013) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 5 para. 39(a)(iii)](https://www.legislation.gov.uk/ukpga/2012/7/schedule/5/paragraph/39/a/iii); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+
+[^key-f2a75a5d302d042e9aafe48802647cee]: Textual amendment: Words in s. 2(5)(a) inserted (1.4.2004) by [Health and Social Care (Community Health and Standards) Act 2003 (c. 43)](https://www.legislation.gov.uk/ukpga/2003/43), [s. 199(1)](https://www.legislation.gov.uk/ukpga/2003/43/section/199/1)[(4)](https://www.legislation.gov.uk/ukpga/2003/43/section/199/4), [Sch. 4 para. 65](https://www.legislation.gov.uk/ukpga/2003/43/schedule/4/paragraph/65); [S.I. 2004/759](https://www.legislation.gov.uk/uksi/2004/759), [art. 2](https://www.legislation.gov.uk/uksi/2004/759/article/2)
+
+[^c7878021]: Textual amendment: Words inserted by [National Health Service and Community Care Act 1990 (c. 19, SIF 113:2)](https://www.legislation.gov.uk/ukpga/1990/19), [s. 66(1)](https://www.legislation.gov.uk/ukpga/1990/19/section/66/1), [Sch. 9 para. 30(1)(a)](https://www.legislation.gov.uk/ukpga/1990/19/schedule/9/paragraph/30/1/a)
+
+[^key-c069b6247d029d3a5b3dc70304b840b0]: Textual amendment: S. 2(5)(aa) inserted (19.1.2010) by [Health Act 2009 (c. 21)](https://www.legislation.gov.uk/ukpga/2009/21), [s. 40(1)](https://www.legislation.gov.uk/ukpga/2009/21/section/40/1), [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/2009/21/schedule/1/paragraph/4); [S.I. 2010/30](https://www.legislation.gov.uk/uksi/2010/30), [art. 2(b)](https://www.legislation.gov.uk/uksi/2010/30/article/2/b)
+
+[^key-68142a666ba324bc277c6193c56c64d7]: Textual amendment: S. 2(5)(ab) inserted (W.) (1.1.2026) by [Health and Social Care (Wales) Act 2025 (asc 1)](https://www.legislation.gov.uk/asc/2025/1), [s. 29(2)](https://www.legislation.gov.uk/asc/2025/1/section/29/2), [Sch. 2 para. 2(2)](https://www.legislation.gov.uk/asc/2025/1/schedule/2/paragraph/2/2); [S.I. 2025/1257](https://www.legislation.gov.uk/wsi/2025/1257), [art. 4(b)](https://www.legislation.gov.uk/wsi/2025/1257/article/4/b)
+
+[^key-fa55ae56d7d8560f731d8a3335037395]: Textual amendment: Words in s. 2(5)(b) substituted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [47(a)](https://www.legislation.gov.uk/wsi/2016/413/regulation/47/a)
+
+[^key-a6c7cd1e3b6c3c162ba533448d9e2c38]: Textual amendment: Words in s. 2(5)(b) substituted (S.) (5.10.2005) by [Mental Health (Care and Treatment) (Scotland) Act 2003 (asp 13)](https://www.legislation.gov.uk/asp/2003/13), [s. 333(2)](https://www.legislation.gov.uk/asp/2003/13/section/333/2), [sch. 4 para. 4(2)](https://www.legislation.gov.uk/asp/2003/13/schedule/4/paragraph/4/2); [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)
+
+[^c7878031]: Textual amendment: S. 2(5)(bb) inserted (E.W.) (14.10.1991) by [Children Act 1989 (c. 41, SIF 20)](https://www.legislation.gov.uk/ukpga/1989/41), [s. 108(5)](https://www.legislation.gov.uk/ukpga/1989/41/section/108/5), [Sch. 13 para. 59(3)](https://www.legislation.gov.uk/ukpga/1989/41/schedule/13/paragraph/59/3) (with [s. 108(6)](https://www.legislation.gov.uk/ukpga/1989/41/section/108/6), [Sch. 14 para. 1(1)](https://www.legislation.gov.uk/ukpga/1989/41/schedule/14/paragraph/1/1)); [S.I. 1991/828](https://www.legislation.gov.uk/uksi/1991/828), [art. 3(2)](https://www.legislation.gov.uk/uksi/1991/828/article/3/2)
+
+[^key-c757a05a12c36f4a9e555dd8c82ae188]: Textual amendment: Words in s. 2(5)(bb) inserted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [47(b)](https://www.legislation.gov.uk/wsi/2016/413/regulation/47/b)
+
+[^c7877921]: Textual amendment: S. 2(5)(bc) inserted (S.) (1.4.1997) by [1995 c. 36](https://www.legislation.gov.uk/ukpga/1995/36), [s. 105(4)](https://www.legislation.gov.uk/ukpga/1995/36/section/105/4), [Sch. 4 para. 39(3)(b)](https://www.legislation.gov.uk/ukpga/1995/36/schedule/4/paragraph/39/3/b) (with [s. 103(1)](https://www.legislation.gov.uk/ukpga/1995/36/section/103/1)); [S.I. 1996/3201](https://www.legislation.gov.uk/uksi/1996/3201), [art. 3(7)](https://www.legislation.gov.uk/uksi/1996/3201/article/3/7)
+
+[^key-655f0a320eb1c5fa26c4147f15ef4a9c]: Textual amendment: Words in s. 2(5)(c) substituted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [47(c)](https://www.legislation.gov.uk/wsi/2016/413/regulation/47/c)
+
+[^c7878041]: Textual amendment: S. 2(5)(cc) inserted (E.W.) (14.10.1991) by [Children Act 1989 (c. 41, SIF 20)](https://www.legislation.gov.uk/ukpga/1989/41), [s. 108(5)](https://www.legislation.gov.uk/ukpga/1989/41/section/108/5), [Sch. 13 para. 59(4)](https://www.legislation.gov.uk/ukpga/1989/41/schedule/13/paragraph/59/4) (with [s. 108(6)](https://www.legislation.gov.uk/ukpga/1989/41/section/108/6), [Sch. 14 para. 1(1)](https://www.legislation.gov.uk/ukpga/1989/41/schedule/14/paragraph/1/1)); [S.I. 1991/828](https://www.legislation.gov.uk/uksi/1991/828), [art. 3(2)](https://www.legislation.gov.uk/uksi/1991/828/article/3/2)
+
+[^key-935df859536d4f7036961f1c2004a583]: Textual amendment: Words in s. 2(5)(cc) inserted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [47(d)](https://www.legislation.gov.uk/wsi/2016/413/regulation/47/d)
+
+[^key-99845e45e496de6e6ff837b2161eecde]: Textual amendment: Words in s. 2(5)(d) inserted (E.W.) (2.4.2018) by [The Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments) Regulations 2018 (S.I. 2018/195)](https://www.legislation.gov.uk/wsi/2018/195), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2018/195/regulation/2/1), [7(2)](https://www.legislation.gov.uk/wsi/2018/195/regulation/7/2)
+
+[^c7878591]: Textual amendment: Words in s. 2(5)(d) substituted (1.4.2002) by [2000 c. 14](https://www.legislation.gov.uk/ukpga/2000/14), [s. 116](https://www.legislation.gov.uk/ukpga/2000/14/section/116), [Sch. 4 para. 11](https://www.legislation.gov.uk/ukpga/2000/14/schedule/4/paragraph/11); [S.I. 2001/4150](https://www.legislation.gov.uk/uksi/2001/4150), [art. 3(3)(a)](https://www.legislation.gov.uk/uksi/2001/4150/article/3/3/a) (subject to transitional provisions in [art. 4](https://www.legislation.gov.uk/uksi/2001/4150/article/4) and to the amendment of [art. 3](https://www.legislation.gov.uk/uksi/2001/4150/article/3) by [S.I. 2002/1493](https://www.legislation.gov.uk/uksi/2002/1493), [art. 6](https://www.legislation.gov.uk/uksi/2002/1493/article/6)); [S.I. 2002/920](https://www.legislation.gov.uk/uksi/2002/920), [art. 3(3)(d)](https://www.legislation.gov.uk/uksi/2002/920/article/3/3/d) (with [art. 3(4)-(10)](https://www.legislation.gov.uk/uksi/2002/920/article/3/4) and subject to transitional provisions in [Schs. 1-3](https://www.legislation.gov.uk/uksi/2002/920/schedule/1))
+
+[^c7878601]: Marginal citation: [2000 c. 14](https://www.legislation.gov.uk/ukpga/2000/14).
+
+[^c7878611]: Textual amendment: Words in s. 2(5)(d) substituted (1.4.2002) by [2001 asp 8](https://www.legislation.gov.uk/asp/2001/8), [s. 79](https://www.legislation.gov.uk/asp/2001/8/section/79), [Sch. 3 para. 13](https://www.legislation.gov.uk/asp/2001/8/schedule/3/paragraph/13); [S.S.I. 2002/162](https://www.legislation.gov.uk/ssi/2002/162), [art. 2(h)](https://www.legislation.gov.uk/ssi/2002/162/article/2/h) (subject to [arts. 3-13](https://www.legislation.gov.uk/ssi/2002/162/article/3))
+
+[^key-efd6b1906fbcf6d61535a68e124afec1]: Textual amendment: S. 2(5)(da) inserted (E.W.) (2.4.2018) by [The Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments) Regulations 2018 (S.I. 2018/195)](https://www.legislation.gov.uk/wsi/2018/195), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2018/195/regulation/2/1), [7(3)](https://www.legislation.gov.uk/wsi/2018/195/regulation/7/3)
+
+[^c7878061]: Textual amendment: S. 2(5)(dd) inserted (E.W.) (14.10.1991) by [Children Act 1989 (c. 41, SIF 20)](https://www.legislation.gov.uk/ukpga/1989/41), [s. 108(4)](https://www.legislation.gov.uk/ukpga/1989/41/section/108/4), [Sch. 12 para. 44](https://www.legislation.gov.uk/ukpga/1989/41/schedule/12/paragraph/44) (with [s. 108(6)](https://www.legislation.gov.uk/ukpga/1989/41/section/108/6), [Sch. 14 para. 1(1)](https://www.legislation.gov.uk/ukpga/1989/41/schedule/14/paragraph/1/1)); [S.I. 1991/828](https://www.legislation.gov.uk/uksi/1991/828), [art. 3(2)](https://www.legislation.gov.uk/uksi/1991/828/article/3/2)
+
+[^key-bcf75f859d2c56d361f7b958307313e0]: Textual amendment: Words in s. 2(5)(e) substituted (S.) (27.9.2005) by [The Mental Health (Care and Treatment) (Scotland) Act 2003 (Modification of Enactments) Order 2005 (S.S.I. 2005/465)](https://www.legislation.gov.uk/ssi/2005/465), [art. 1](https://www.legislation.gov.uk/ssi/2005/465/article/1), [sch. 1 para. 17(3)](https://www.legislation.gov.uk/ssi/2005/465/schedule/1/paragraph/17/3)
+
+[^c7878801]: Marginal citation: [1985 c. 69](https://www.legislation.gov.uk/ukpga/1985/69).
+
+[^key-acb8a96620c38cbc1126eda595f8fcb2]: Textual amendment: Words in s. 2(7)(a) inserted (1.4.2013) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 5 para. 39(b)](https://www.legislation.gov.uk/ukpga/2012/7/schedule/5/paragraph/39/b); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+
+[^key-24250f0679dbf97e96a34083fd7c0751]: Textual amendment: Words in s. 2(7) substituted (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 1 para. 88(b)](https://www.legislation.gov.uk/ukpga/2006/43/schedule/1/paragraph/88/b) (with [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/3/part/1))
+
+[^c7878811]: Textual amendment: S. 2(9): in definition of "health authority" paras. (a)(aa) substituted for para. (a) (1.10.2002) by [S.I. 2002/2469](https://www.legislation.gov.uk/uksi/2002/2469), [reg. 4](https://www.legislation.gov.uk/uksi/2002/2469/regulation/4), [Sch. 1 para. 12](https://www.legislation.gov.uk/uksi/2002/2469/schedule/1/paragraph/12)
+
+[^key-b274d89de504221a99f757f58a8de3c4]: Textual amendment: Words in s. 2(9) substituted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 4 para. 24(3)](https://www.legislation.gov.uk/ukpga/2022/31/schedule/4/paragraph/24/3); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+
+[^key-41691d3aa84cd0fe7f893002de897e0f]: Textual amendment: Words in s. 2(9) omitted (1.4.2013) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 5 para. 39(c)(ii)](https://www.legislation.gov.uk/ukpga/2012/7/schedule/5/paragraph/39/c/ii); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+
+[^key-84c81d4d4beaaada27656ad2edfeb196]: Textual amendment: Words in s. 2(9) omitted (1.4.2013) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 5 para. 39(c)(iii)](https://www.legislation.gov.uk/ukpga/2012/7/schedule/5/paragraph/39/c/iii); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+
+[^key-0cfee7482391495e098f4559c41c4c87]: Textual amendment: Words in s. 2(9) substituted (1.4.2007) by [The References to Health Authorities Order 2007 (S.I. 2007/961)](https://www.legislation.gov.uk/uksi/2007/961), [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/961/article/1/1), [Sch. para. 15(2)(a)](https://www.legislation.gov.uk/uksi/2007/961/schedule/paragraph/15/2/a)
+
+[^c7878521]: Marginal citation: [1972 c. 70](https://www.legislation.gov.uk/ukpga/1972/70).
+
+[^c7877541]: Textual amendment: Words in s. 2(9) substituted (1.4.1996) by [1994 c. 39](https://www.legislation.gov.uk/ukpga/1994/39), [s. 180(1)](https://www.legislation.gov.uk/ukpga/1994/39/section/180/1), [Sch. 13 para. 148(2)](https://www.legislation.gov.uk/ukpga/1994/39/schedule/13/paragraph/148/2); [S.I. 1996/323](https://www.legislation.gov.uk/uksi/1996/323), [art. 4(1)(c)](https://www.legislation.gov.uk/uksi/1996/323/article/4/1/c)
+
+[^key-df700cdf50ae1c07b4702f2330ec0944]: Textual amendment: Words in s. 3 heading inserted (1.4.2015) by [The Care Act 2014 and Children and Families Act 2014 (Consequential Amendments) Order 2015 (S.I. 2015/914)](https://www.legislation.gov.uk/uksi/2015/914), [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/914/article/1/2), [Sch. para. 38(2)](https://www.legislation.gov.uk/uksi/2015/914/schedule/paragraph/38/2) (with [arts. 1(3)](https://www.legislation.gov.uk/uksi/2015/914/article/1/3), [3](https://www.legislation.gov.uk/uksi/2015/914/article/3))
+
+[^key-f791f9cdb250c18486cabc0d39f385f0]: Textual amendment: Words in [s. 3](https://www.legislation.gov.uk/ukpga/1986/33/section/3) heading omitted (6.4.2016) by virtue of [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [48(b)](https://www.legislation.gov.uk/wsi/2016/413/regulation/48/b)
+
+[^key-58de1003acf675c82eec7a61ff0decb2]: Textual amendment: Words in s. 3(1) inserted (1.4.2015) by [The Care Act 2014 and Children and Families Act 2014 (Consequential Amendments) Order 2015 (S.I. 2015/914)](https://www.legislation.gov.uk/uksi/2015/914), [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/914/article/1/2), [Sch. para. 38(1)](https://www.legislation.gov.uk/uksi/2015/914/schedule/paragraph/38/1) (with [arts. 1(3)](https://www.legislation.gov.uk/uksi/2015/914/article/1/3), [3](https://www.legislation.gov.uk/uksi/2015/914/article/3))
+
+[^key-55d46e5cbdb55e0cd6c19fb7e8bb0bcd]: Textual amendment: Words in [s. 3(1)](https://www.legislation.gov.uk/ukpga/1986/33/section/3/1) omitted (6.4.2016) by virtue of [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [48(a)](https://www.legislation.gov.uk/wsi/2016/413/regulation/48/a)
+
+[^key-244eeb589fd21fa1d9bf339d344d3529]: Textual amendment: S. 4 renumbered as s. 4(1) (1.4.2015) by [The Care Act 2014 and Children and Families Act 2014 (Consequential Amendments) Order 2015 (S.I. 2015/914)](https://www.legislation.gov.uk/uksi/2015/914), [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/914/article/1/2), [Sch. para. 39(2)](https://www.legislation.gov.uk/uksi/2015/914/schedule/paragraph/39/2) (with [arts. 1(3)](https://www.legislation.gov.uk/uksi/2015/914/article/1/3), [3](https://www.legislation.gov.uk/uksi/2015/914/article/3))
+
+[^key-e97d2939d6809fdf1c04070ac366f2d7]: Textual amendment: Words in [s. 4(1)](https://www.legislation.gov.uk/ukpga/1986/33/section/4/1) inserted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [49(a)(i)](https://www.legislation.gov.uk/wsi/2016/413/regulation/49/a/i)
+
+[^key-873205ae196a0761ffdb30876accd179]: Textual amendment: Words in [s. 4(1)](https://www.legislation.gov.uk/ukpga/1986/33/section/4/1) substituted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [49(a)(ii)](https://www.legislation.gov.uk/wsi/2016/413/regulation/49/a/ii)
+
+[^key-d2ec31120c6d5cd393a1739d7296cde9]: Textual amendment: S. 4(2) inserted (1.4.2015) by [The Care Act 2014 and Children and Families Act 2014 (Consequential Amendments) Order 2015 (S.I. 2015/914)](https://www.legislation.gov.uk/uksi/2015/914), [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/914/article/1/2), [Sch. para. 39(4)](https://www.legislation.gov.uk/uksi/2015/914/schedule/paragraph/39/4) (with [arts. 1(3)](https://www.legislation.gov.uk/uksi/2015/914/article/1/3), [3](https://www.legislation.gov.uk/uksi/2015/914/article/3))
+
+[^key-edeb366d67677306dea63ca53917c807]: Textual amendment: Words in [s. 4(2)](https://www.legislation.gov.uk/ukpga/1986/33/section/4/2) omitted (6.4.2016) by virtue of [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [49(b)](https://www.legislation.gov.uk/wsi/2016/413/regulation/49/b)
+
+[^c7880181]: Modification: S. 5: transfer of functions (1.7.1999) by [S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672), [art. 2](https://www.legislation.gov.uk/uksi/1999/672/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/672/schedule/1)
+
+[^key-f9ea6d62212b75cc00b84f7a97628885]: Textual amendment: Word in [s. 5](https://www.legislation.gov.uk/ukpga/1986/33/section/5) heading inserted (W.) (10.9.2025) by [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 42(e)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/42/e)
+
+[^key-f144145946884fbda409bf4d086969ac]: Textual amendment: Words in [s. 5(1)(a)](https://www.legislation.gov.uk/ukpga/1986/33/section/5/1/a) inserted (W.) (10.9.2025) by [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 42(a)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/42/a)
+
+[^c7880191]: Marginal citation: [1981 c. 60](https://www.legislation.gov.uk/ukpga/1981/60).
+
+[^c7880201]: Textual amendment: Words in s. 5(1)(a) substituted (1.11.1996) by [1996 c. 56](https://www.legislation.gov.uk/ukpga/1996/56), [ss. 582(1)](https://www.legislation.gov.uk/ukpga/1996/56/section/582/1), [583(2)](https://www.legislation.gov.uk/ukpga/1996/56/section/583/2), [Sch. 37 Pt. I para. 64(2)](https://www.legislation.gov.uk/ukpga/1996/56/schedule/37/part/I/paragraph/64/2) (with [ss. 1(4)](https://www.legislation.gov.uk/ukpga/1996/56/section/1/4), [561](https://www.legislation.gov.uk/ukpga/1996/56/section/561), [562](https://www.legislation.gov.uk/ukpga/1996/56/section/562), [Sch. 39](https://www.legislation.gov.uk/ukpga/1996/56/schedule/39))
+
+[^key-56b1007bd44cfc8de5f7e43272156969]: Textual amendment: Words in [s. 5(1)(a)](https://www.legislation.gov.uk/ukpga/1986/33/section/5/1/a) inserted (1.9.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 3 para. 64(2)(a)](https://www.legislation.gov.uk/ukpga/2014/6/schedule/3/paragraph/64/2/a); [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 7(a)](https://www.legislation.gov.uk/uksi/2014/889/article/7/a)
+
+[^c7880211]: Textual amendment: Words in s. 5(1)(a) omitted (15.6.2001 for specified purposes otherwise 1.1.2002 for E., and 21.1.2002 for specified purposes otherwise 1.4.2002 for W.) by [2001 c. 10](https://www.legislation.gov.uk/ukpga/2001/10), [s. 42(1)](https://www.legislation.gov.uk/ukpga/2001/10/section/42/1), [Sch. 8 para. 17(a)](https://www.legislation.gov.uk/ukpga/2001/10/schedule/8/paragraph/17/a) (with [s. 43(13)](https://www.legislation.gov.uk/ukpga/2001/10/section/43/13)); [S.I. 2001/2217](https://www.legislation.gov.uk/uksi/2001/2217), [arts. 4](https://www.legislation.gov.uk/uksi/2001/2217/article/4), [5](https://www.legislation.gov.uk/uksi/2001/2217/article/5), [Sch.](https://www.legislation.gov.uk/uksi/2001/2217/schedule) (as amended (31.8.2001) by [S.I. 2001/2614](https://www.legislation.gov.uk/uksi/2001/2614), [art. 4](https://www.legislation.gov.uk/uksi/2001/2614/article/4)); [S.I. 2002/74](https://www.legislation.gov.uk/uksi/2002/74), [arts. 4](https://www.legislation.gov.uk/uksi/2002/74/article/4), [5](https://www.legislation.gov.uk/uksi/2002/74/article/5), [Sch. Pt. II](https://www.legislation.gov.uk/uksi/2002/74/schedule/part/II) and the said words repealed (1.1.2002 for E. and otherwise 1.4.2002 for W.) by [2001 c. 10](https://www.legislation.gov.uk/ukpga/2001/10), [s. 42(6)](https://www.legislation.gov.uk/ukpga/2001/10/section/42/6), [Sch. 9](https://www.legislation.gov.uk/ukpga/2001/10/schedule/9) (with [s. 43(13)](https://www.legislation.gov.uk/ukpga/2001/10/section/43/13)); [S.I. 2001/2217](https://www.legislation.gov.uk/uksi/2001/2217), [art. 5](https://www.legislation.gov.uk/uksi/2001/2217/article/5), [Sch.](https://www.legislation.gov.uk/uksi/2001/2217/schedule) (as amended (31.8.2001) by [S.I. 2001/2614](https://www.legislation.gov.uk/uksi/2001/2614), [art. 4](https://www.legislation.gov.uk/uksi/2001/2614/article/4)); [S.I. 2002/74](https://www.legislation.gov.uk/uksi/2002/74), [arts. 4](https://www.legislation.gov.uk/uksi/2002/74/article/4), [5](https://www.legislation.gov.uk/uksi/2002/74/article/5), [Sch. Pt. II](https://www.legislation.gov.uk/uksi/2002/74/schedule/part/II)
+
+[^key-70889fb4b1e4ecc31546a948bcdd938b]: Textual amendment: Words in [s. 5(1)(b)](https://www.legislation.gov.uk/ukpga/1986/33/section/5/1/b) inserted (1.9.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 3 para. 64(2)(b)](https://www.legislation.gov.uk/ukpga/2014/6/schedule/3/paragraph/64/2/b); [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 7(a)](https://www.legislation.gov.uk/uksi/2014/889/article/7/a)
+
+[^c7880221]: Textual amendment: Words in s. 5(1)(b)(i) substituted (15.6.2001 for specified purposes otherwise 1.1.2002 for E., and 21.1.2002 for specified purposes and otherwise 1.4.2002 for W.) by [2001 c. 10](https://www.legislation.gov.uk/ukpga/2001/10), [s. 42(1)](https://www.legislation.gov.uk/ukpga/2001/10/section/42/1), [Sch. 8 para. 17(b)(i)](https://www.legislation.gov.uk/ukpga/2001/10/schedule/8/paragraph/17/b/i) (with [s. 43(13)](https://www.legislation.gov.uk/ukpga/2001/10/section/43/13)); [S.I. 2001/2217](https://www.legislation.gov.uk/uksi/2001/2217), [arts. 4](https://www.legislation.gov.uk/uksi/2001/2217/article/4), [5](https://www.legislation.gov.uk/uksi/2001/2217/article/5), [Sch.](https://www.legislation.gov.uk/uksi/2001/2217/schedule) (as amended (31.8.2001) by [S.I. 2001/2614](https://www.legislation.gov.uk/uksi/2001/2614), [art. 4](https://www.legislation.gov.uk/uksi/2001/2614/article/4)); [S.I. 2002/74](https://www.legislation.gov.uk/uksi/2002/74), [arts. 4](https://www.legislation.gov.uk/uksi/2002/74/article/4), [5](https://www.legislation.gov.uk/uksi/2002/74/article/5), [Sch. Pt. II](https://www.legislation.gov.uk/uksi/2002/74/schedule/part/II)
+
+[^c7880231]: Textual amendment: Words in s. 5(1)(b)(ii) substituted (15.6.2001 for specified purposes and 1.1.2002 for E. and 21.1.2002 for specified purposes and otherwise 1.4.2002 for W.) by [2001 c. 10](https://www.legislation.gov.uk/ukpga/2001/10), [s. 42(1)](https://www.legislation.gov.uk/ukpga/2001/10/section/42/1), [Sch. 8 para. 17(b)(ii)](https://www.legislation.gov.uk/ukpga/2001/10/schedule/8/paragraph/17/b/ii) (with [s. 43(13)](https://www.legislation.gov.uk/ukpga/2001/10/section/43/13)); [S.I. 2001/2217](https://www.legislation.gov.uk/uksi/2001/2217), [arts. 4](https://www.legislation.gov.uk/uksi/2001/2217/article/4), [5](https://www.legislation.gov.uk/uksi/2001/2217/article/5), [Sch](https://www.legislation.gov.uk/uksi/2001/2217/schedule) (as amended (31.8.2001) by [S.I. 2001/2614](https://www.legislation.gov.uk/uksi/2001/2614), [art. 4](https://www.legislation.gov.uk/uksi/2001/2614/article/4)); [S.I. 2002/74](https://www.legislation.gov.uk/uksi/2002/74), [arts. 4](https://www.legislation.gov.uk/uksi/2002/74/article/4), [5](https://www.legislation.gov.uk/uksi/2002/74/article/5), [Sch. Pt. II](https://www.legislation.gov.uk/uksi/2002/74/schedule/part/II)
+
+[^key-daddd3cc57dc24dc3d0c141672b46b27]: Textual amendment: Words in s. 5 substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 35(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/35/2)
+
+[^key-061ed8adfeece7402c1a30a1334819a4]: Textual amendment: Words in [s. 5(2)(a)](https://www.legislation.gov.uk/ukpga/1986/33/section/5/2/a) inserted (W.) (10.9.2025) by [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 42(b)(i)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/42/b/i)
+
+[^key-3725426eaac18e48ef1f796fb96f668a]: Textual amendment: Words in [s. 5(2)(a)](https://www.legislation.gov.uk/ukpga/1986/33/section/5/2/a) inserted (1.9.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 3 para. 64(3)(a)](https://www.legislation.gov.uk/ukpga/2014/6/schedule/3/paragraph/64/3/a); [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 7(a)](https://www.legislation.gov.uk/uksi/2014/889/article/7/a)
+
+[^key-196b58bc45cb97e568c2e5c39461ebfb]: Textual amendment: Words in [s. 5(2)(b)](https://www.legislation.gov.uk/ukpga/1986/33/section/5/2/b) inserted (W.) (10.9.2025) by [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 42(b)(ii)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/42/b/ii)
+
+[^key-7bf4ce59452a923607ad9508bcb3f50d]: Textual amendment: Words in [s. 5(2)(b)](https://www.legislation.gov.uk/ukpga/1986/33/section/5/2/b) inserted (1.9.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 3 para. 64(3)(b)](https://www.legislation.gov.uk/ukpga/2014/6/schedule/3/paragraph/64/3/b); [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 7(a)](https://www.legislation.gov.uk/uksi/2014/889/article/7/a)
+
+[^key-4aa592357c433c87a089e9705d049c8c]: Textual amendment: Words in [s. 5(2)](https://www.legislation.gov.uk/ukpga/1986/33/section/5/2) inserted (1.9.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 3 para. 64(3)(c)](https://www.legislation.gov.uk/ukpga/2014/6/schedule/3/paragraph/64/3/c); [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 7(a)](https://www.legislation.gov.uk/uksi/2014/889/article/7/a)
+
+[^c7880241]: Textual amendment: S. 5(3)-(3C)(4) substituted (1.4.1993) for s. 5(3)(4) by [Further and Higher Education Act 1992 (c. 13)](https://www.legislation.gov.uk/ukpga/1992/13), [s. 93(1)](https://www.legislation.gov.uk/ukpga/1992/13/section/93/1), [Sch. 8 Pt. II para. 91(1)(2)](https://www.legislation.gov.uk/ukpga/1992/13/schedule/8/part/II/paragraph/91/1/2); [S.I. 1992/831](https://www.legislation.gov.uk/uksi/1992/831), [art. 2](https://www.legislation.gov.uk/uksi/1992/831/article/2), [Sch. 3](https://www.legislation.gov.uk/uksi/1992/831/schedule/3)
+
+[^c7880251]: Textual amendment: Words in s. 5(5) substituted (1.4.1993) by [Further and Higher Education Act 1992 (c. 13)](https://www.legislation.gov.uk/ukpga/1992/13), [s. 93(1)](https://www.legislation.gov.uk/ukpga/1992/13/section/93/1), [Sch. 8 Pt. II para. 91(3)(a)](https://www.legislation.gov.uk/ukpga/1992/13/schedule/8/part/II/paragraph/91/3/a); [S.I. 1992/831](https://www.legislation.gov.uk/uksi/1992/831), [art. 2](https://www.legislation.gov.uk/uksi/1992/831/article/2), [Sch. 3](https://www.legislation.gov.uk/uksi/1992/831/schedule/3)
+
+[^c7880261]: Textual amendment: Words in s. 5(5) substituted (1.4.1993) by [Further and Higher Education Act 1992 (c. 13)](https://www.legislation.gov.uk/ukpga/1992/13), [s. 93(1)](https://www.legislation.gov.uk/ukpga/1992/13/section/93/1), [Sch. 8 Pt. II para. 91(3)(b)](https://www.legislation.gov.uk/ukpga/1992/13/schedule/8/part/II/paragraph/91/3/b); [S.I. 1992/831](https://www.legislation.gov.uk/uksi/1992/831), [art. 2](https://www.legislation.gov.uk/uksi/1992/831/article/2), [Sch. 3](https://www.legislation.gov.uk/uksi/1992/831/schedule/3)
+
+[^c7880271]: Textual amendment: Words in s. 5(6) substituted (1.4.1993) by [Further and Higher Education Act 1992 (c. 13)](https://www.legislation.gov.uk/ukpga/1992/13), [s. 93(1)](https://www.legislation.gov.uk/ukpga/1992/13/section/93/1), [Sch. 8 Pt. II para. 91(4)(a)](https://www.legislation.gov.uk/ukpga/1992/13/schedule/8/part/II/paragraph/91/4/a); [S.I. 1992/831](https://www.legislation.gov.uk/uksi/1992/831), [art. 2](https://www.legislation.gov.uk/uksi/1992/831/article/2), [Sch. 3](https://www.legislation.gov.uk/uksi/1992/831/schedule/3)
+
+[^c7880281]: Textual amendment: Words in s. 5(6) substituted (1.4.1993) by [Further and Higher Education Act 1992 (c. 13)](https://www.legislation.gov.uk/ukpga/1992/13), [s. 93(1)](https://www.legislation.gov.uk/ukpga/1992/13/section/93/1), [Sch. 8 Pt. II para. 91(4)(b)](https://www.legislation.gov.uk/ukpga/1992/13/schedule/8/part/II/paragraph/91/4/b); [S.I. 1992/831](https://www.legislation.gov.uk/uksi/1992/831), [art. 2](https://www.legislation.gov.uk/uksi/1992/831/article/2), [Sch. 3](https://www.legislation.gov.uk/uksi/1992/831/schedule/3)
+
+[^c7880301]: Textual amendment: Words in S. 5(7)(b) substituted (14.10.1991) by [Children Act 1989 (c. 41, SIF 20)](https://www.legislation.gov.uk/ukpga/1989/41), [s. 108(5)](https://www.legislation.gov.uk/ukpga/1989/41/section/108/5), [Sch. 13 para. 60](https://www.legislation.gov.uk/ukpga/1989/41/schedule/13/paragraph/60) (with [s. 108(6)](https://www.legislation.gov.uk/ukpga/1989/41/section/108/6), [Sch. 14 para. 1(1)](https://www.legislation.gov.uk/ukpga/1989/41/schedule/14/paragraph/1/1)); [S.I. 1991/828](https://www.legislation.gov.uk/uksi/1991/828), [art. 3(2)](https://www.legislation.gov.uk/uksi/1991/828/article/3/2)
+
+[^c7880311]: Textual amendment: Words in s. 5(8) substituted (1.11.1996) by [1996 c. 56](https://www.legislation.gov.uk/ukpga/1996/56), [ss. 582(1)](https://www.legislation.gov.uk/ukpga/1996/56/section/582/1), [583(2)](https://www.legislation.gov.uk/ukpga/1996/56/section/583/2), [Sch. 37 Pt. I para. 64(3)(a)](https://www.legislation.gov.uk/ukpga/1996/56/schedule/37/part/I/paragraph/64/3/a) (with [ss. 1(4)](https://www.legislation.gov.uk/ukpga/1996/56/section/1/4), [561](https://www.legislation.gov.uk/ukpga/1996/56/section/561), [562](https://www.legislation.gov.uk/ukpga/1996/56/section/562), [Sch. 39](https://www.legislation.gov.uk/ukpga/1996/56/schedule/39))
+
+[^c7880321]: Textual amendment: Words in s. 5(8) substituted (1.11.1996) by [1996 c. 56](https://www.legislation.gov.uk/ukpga/1996/56), [ss. 582(1)](https://www.legislation.gov.uk/ukpga/1996/56/section/582/1), [583(2)](https://www.legislation.gov.uk/ukpga/1996/56/section/583/2), [Sch. 37 Pt. I para. 64(3)(b)](https://www.legislation.gov.uk/ukpga/1996/56/schedule/37/part/I/paragraph/64/3/b) (with [ss. 1(4)](https://www.legislation.gov.uk/ukpga/1996/56/section/1/4), [561](https://www.legislation.gov.uk/ukpga/1996/56/section/561), [562](https://www.legislation.gov.uk/ukpga/1996/56/section/562), [Sch. 39](https://www.legislation.gov.uk/ukpga/1996/56/schedule/39))
+
+[^key-0466f1a696b50ce2a5986ee98a693e43]: Textual amendment: [S. 5(8A)](https://www.legislation.gov.uk/ukpga/1986/33/section/5/8A) inserted (1.9.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 3 para. 64(4)](https://www.legislation.gov.uk/ukpga/2014/6/schedule/3/paragraph/64/4); [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 7(a)](https://www.legislation.gov.uk/uksi/2014/889/article/7/a)
+
+[^c7880331]: Textual amendment: Words in s. 5(9) inserted (1.4.1993) by [Further and Higher Education Act 1992 (c. 13)](https://www.legislation.gov.uk/ukpga/1992/13), [s. 93(1)](https://www.legislation.gov.uk/ukpga/1992/13/section/93/1), [Sch. 8 Pt. II para. 91(5)(a)](https://www.legislation.gov.uk/ukpga/1992/13/schedule/8/part/II/paragraph/91/5/a); [S.I. 1992/831](https://www.legislation.gov.uk/uksi/1992/831), [art. 2](https://www.legislation.gov.uk/uksi/1992/831/article/2), [Sch. 3](https://www.legislation.gov.uk/uksi/1992/831/schedule/3)
+
+[^c7880341]: Textual amendment: Words substituted by [Education Reform Act 1988 (c. 40, SIF 41:1)](https://www.legislation.gov.uk/ukpga/1988/40), [ss. 231(7)](https://www.legislation.gov.uk/ukpga/1988/40/section/231/7), [235(6)](https://www.legislation.gov.uk/ukpga/1988/40/section/235/6), [237(1)](https://www.legislation.gov.uk/ukpga/1988/40/section/237/1), [Sch. 12 para. 97(2)](https://www.legislation.gov.uk/ukpga/1988/40/schedule/12/paragraph/97/2)
+
+[^c7880351]: Textual amendment: Definition inserted by [Education Reform Act 1988 (c. 40, SIF 41:1)](https://www.legislation.gov.uk/ukpga/1988/40), [ss. 231(7)](https://www.legislation.gov.uk/ukpga/1988/40/section/231/7), [235(6)](https://www.legislation.gov.uk/ukpga/1988/40/section/235/6), [237(1)](https://www.legislation.gov.uk/ukpga/1988/40/section/237/1), [Sch. 12 para. 97(3)](https://www.legislation.gov.uk/ukpga/1988/40/schedule/12/paragraph/97/3)
+
+[^c7880361]: Textual amendment: Definition of "prescribed" in s. 5(9) inserted (15.6.2001 for specified purposes and 1.1.2002 for E., and 21.1.2002 for specified purposes and otherwise 1.4.2002 for W.) by [2001 c. 10](https://www.legislation.gov.uk/ukpga/2001/10), [s. 42(1)](https://www.legislation.gov.uk/ukpga/2001/10/section/42/1), [Sch. 8 para. 18](https://www.legislation.gov.uk/ukpga/2001/10/schedule/8/paragraph/18) (with [s. 43(13)](https://www.legislation.gov.uk/ukpga/2001/10/section/43/13)); [S.I. 2001/2217](https://www.legislation.gov.uk/uksi/2001/2217), [arts. 4](https://www.legislation.gov.uk/uksi/2001/2217/article/4), [5](https://www.legislation.gov.uk/uksi/2001/2217/article/5), [Sch.](https://www.legislation.gov.uk/uksi/2001/2217/schedule) (as amended (31.8.2001) by [S.I. 2001/2614](https://www.legislation.gov.uk/uksi/2001/2614), [art. 4](https://www.legislation.gov.uk/uksi/2001/2614/article/4)); [S.I. 2002/74](https://www.legislation.gov.uk/uksi/2002/74), [arts. 4](https://www.legislation.gov.uk/uksi/2002/74/article/4), [5](https://www.legislation.gov.uk/uksi/2002/74/article/5), [Sch. Pt. II](https://www.legislation.gov.uk/uksi/2002/74/schedule/part/II)
+
+[^key-de8abf34b44215e19dc0760c4858fe07]: Textual amendment: Words in [s. 5(9)](https://www.legislation.gov.uk/ukpga/1986/33/section/5/9) inserted (W.) (10.9.2025) by [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 42(c)(i)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/42/c/i)
+
+[^key-e4ad4788330adf031b120e70eceaecb3]: Textual amendment: Words in [s. 5(9)](https://www.legislation.gov.uk/ukpga/1986/33/section/5/9) omitted (W.) (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 42(c)(ii)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/42/c/ii)
+
+[^c7880371]: Textual amendment: Words in s. 5(9) substituted (1.11.1996) by [1996 c. 56](https://www.legislation.gov.uk/ukpga/1996/56), [ss. 582(1)](https://www.legislation.gov.uk/ukpga/1996/56/section/582/1), [583(2)](https://www.legislation.gov.uk/ukpga/1996/56/section/583/2), [Sch. 37 Pt. I para. 64(4)(a)](https://www.legislation.gov.uk/ukpga/1996/56/schedule/37/part/I/paragraph/64/4/a) (with [ss. 1(4)](https://www.legislation.gov.uk/ukpga/1996/56/section/1/4), [561](https://www.legislation.gov.uk/ukpga/1996/56/section/561), [562](https://www.legislation.gov.uk/ukpga/1996/56/section/562), [Sch. 39](https://www.legislation.gov.uk/ukpga/1996/56/schedule/39))
+
+[^key-6057de3f8d8f93edef53d388280056d6]: Textual amendment: Words in [s. 5(9)](https://www.legislation.gov.uk/ukpga/1986/33/section/5/9/a) inserted (1.9.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 3 para. 64(5)](https://www.legislation.gov.uk/ukpga/2014/6/schedule/3/paragraph/64/5); [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 7(a)](https://www.legislation.gov.uk/uksi/2014/889/article/7/a)
+
+[^c7880381]: Textual amendment: S. 5(9): in the definition "the responsible authority" paras. (b)(c) substituted for para. (b) (1.4.1993) by [Further and Higher Education Act 1992 (c. 13)](https://www.legislation.gov.uk/ukpga/1992/13), [s. 93(1)](https://www.legislation.gov.uk/ukpga/1992/13/section/93/1), [Sch. 8 Pt. II para. 91(5)(b)](https://www.legislation.gov.uk/ukpga/1992/13/schedule/8/part/II/paragraph/91/5/b); [S.I. 1992/831](https://www.legislation.gov.uk/uksi/1992/831), [art. 2](https://www.legislation.gov.uk/uksi/1992/831/article/2), [Sch. 3](https://www.legislation.gov.uk/uksi/1992/831/schedule/3)
+
+[^key-e2ac14a50948f0636470d3c4cb9e3568]: Textual amendment: Words in s. 5(9) substituted (1.4.2010) by [The Apprenticeships, Skills, Children and Learning Act 2009 (Consequential Amendments) (England and Wales) Order 2010 (S.I. 2010/1080)](https://www.legislation.gov.uk/uksi/2010/1080), [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2010/1080/article/1/2/a), [Sch. 1 para. 13(a)](https://www.legislation.gov.uk/uksi/2010/1080/schedule/1/paragraph/13/a) (with [art. 2(3)](https://www.legislation.gov.uk/uksi/2010/1080/article/2/3))
+
+[^c7880391]: Textual amendment: S. 5(9): words in para. (c) in definition of "the responsible authority" substituted (28.7.2000 so far as consequential upon ss. 130, 131, Sch. 8 and 1.4.2001 for all other purposes for E. and 1.4.2001 for all other purposes for W.) by [2000 c. 21](https://www.legislation.gov.uk/ukpga/2000/21), [ss. 149](https://www.legislation.gov.uk/ukpga/2000/21/section/149), [153(3)(5)(d)](https://www.legislation.gov.uk/ukpga/2000/21/section/153/3/5/d), [Sch. 9 para. 12](https://www.legislation.gov.uk/ukpga/2000/21/schedule/9/paragraph/12); [S.I. 2001/654](https://www.legislation.gov.uk/uksi/2001/654), [art. 2(2)](https://www.legislation.gov.uk/uksi/2001/654/article/2/2), [Sch. Pt. II](https://www.legislation.gov.uk/uksi/2001/654/schedule/part/II) (with transitional provisions in [art. 3](https://www.legislation.gov.uk/uksi/2001/654/article/3)); [S.I. 2001/1274](https://www.legislation.gov.uk/uksi/2001/1274), [art. 2(1)](https://www.legislation.gov.uk/uksi/2001/1274/article/2/1), [Sch. Pt. I](https://www.legislation.gov.uk/uksi/2001/1274/schedule/part/I) (with transitional provisions and savings in [arts. 3](https://www.legislation.gov.uk/uksi/2001/1274/article/3), [4](https://www.legislation.gov.uk/uksi/2001/1274/article/4))
+
+[^key-0b691b92fda79ce0689bb4ef7a45aa3d]: Textual amendment: Words in s. 5(9) omitted (1.4.2012) by virtue of [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [s. 82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3), [Sch. 16 para. 6(a)](https://www.legislation.gov.uk/ukpga/2011/21/schedule/16/paragraph/6/a); [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
+
+[^key-9afff0e2b10333aeb3b790c79e2f386e]: Textual amendment: Words in [s. 5(9)](https://www.legislation.gov.uk/ukpga/1986/33/section/5/9) omitted (W.) (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 42(c)(iii)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/42/c/iii)
+
+[^key-f0edf6e46483797aab57845fe27ae91e]: Textual amendment: Words in s. 5(9) substituted (1.4.2010) by [The Apprenticeships, Skills, Children and Learning Act 2009 (Consequential Amendments) (England and Wales) Order 2010 (S.I. 2010/1080)](https://www.legislation.gov.uk/uksi/2010/1080), [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2010/1080/article/1/2/a), [Sch. 1 para. 13(b)](https://www.legislation.gov.uk/uksi/2010/1080/schedule/1/paragraph/13/b) (with [art. 2(3)](https://www.legislation.gov.uk/uksi/2010/1080/article/2/3))
+
+[^key-9491635002ce28e66e624a33c0c9b709]: Textual amendment: Words in s. 5(9) omitted (1.4.2012) by virtue of [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [s. 82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3), [Sch. 16 para. 6(b)](https://www.legislation.gov.uk/ukpga/2011/21/schedule/16/paragraph/6/b); [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
+
+[^key-9501ea4368e73c5f536aded865f8e6bc]: Textual amendment: Words in [s. 5(9)](https://www.legislation.gov.uk/ukpga/1986/33/section/5/9) omitted (W.) (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 42(c)(iv)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/42/c/iv)
+
+[^c7880401]: Textual amendment: Words in s. 5(9) substituted (1.11.1996) by [1996 c. 56](https://www.legislation.gov.uk/ukpga/1996/56), [ss. 582(1)](https://www.legislation.gov.uk/ukpga/1996/56/section/582/1), [583(2)](https://www.legislation.gov.uk/ukpga/1996/56/section/583/2), [Sch. 37 Pt. I para. 64(4)(b)](https://www.legislation.gov.uk/ukpga/1996/56/schedule/37/part/I/paragraph/64/4/b) (with [ss. 1(4)](https://www.legislation.gov.uk/ukpga/1996/56/section/1/4), [561](https://www.legislation.gov.uk/ukpga/1996/56/section/561), [562](https://www.legislation.gov.uk/ukpga/1996/56/section/562), [Sch. 39](https://www.legislation.gov.uk/ukpga/1996/56/schedule/39))
+
+[^c7880411]: Textual amendment: Words in s. 5(9) inserted (1.4.1993) by [Further and Higher Education Act 1992 (c. 13)](https://www.legislation.gov.uk/ukpga/1992/13), [s. 93(1)](https://www.legislation.gov.uk/ukpga/1992/13/section/93/1), [Sch. 8 Pt. II para. 91(5)(c)](https://www.legislation.gov.uk/ukpga/1992/13/schedule/8/part/II/paragraph/91/5/c); [S.I. 1992/831](https://www.legislation.gov.uk/uksi/1992/831), [art. 2](https://www.legislation.gov.uk/uksi/1992/831/article/2), [Sch. 3](https://www.legislation.gov.uk/uksi/1992/831/schedule/3)
+
+[^c7880421]: Textual amendment: Words in s. 5(9) substituted (1.4.1993) by [Further and Higher Education Act 1992 (c. 13)](https://www.legislation.gov.uk/ukpga/1992/13), [s. 93(1)](https://www.legislation.gov.uk/ukpga/1992/13/section/93/1), [Sch. 8 Pt. II para. 91(5)(d)](https://www.legislation.gov.uk/ukpga/1992/13/schedule/8/part/II/paragraph/91/5/d); [S.I. 1992/831](https://www.legislation.gov.uk/uksi/1992/831), [art. 2](https://www.legislation.gov.uk/uksi/1992/831/article/2), [Sch. 3](https://www.legislation.gov.uk/uksi/1992/831/schedule/3)
+
+[^key-02455dc610163e06a2d104be1b37c246]: Textual amendment: Words in [s. 5(10)](https://www.legislation.gov.uk/ukpga/1986/33/section/5/10) omitted (W.) (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 42(d)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/42/d)
+
+[^c7880461]: Textual amendment: S. 6(1) substituted (1.4.1993) by [Further and Higher Education Act 1992 (c. 13)](https://www.legislation.gov.uk/ukpga/1992/13), [s. 93(1)](https://www.legislation.gov.uk/ukpga/1992/13/section/93/1), [Sch. 8 para. 92](https://www.legislation.gov.uk/ukpga/1992/13/schedule/8/paragraph/92); [S.I. 1992/831](https://www.legislation.gov.uk/uksi/1992/831), [art. 2](https://www.legislation.gov.uk/uksi/1992/831/article/2), [Sch. 3](https://www.legislation.gov.uk/uksi/1992/831/schedule/3)
+
+[^c7880731]: Modification: S. 7: transfer of functions (1.7.1999) by [S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672), [art. 2](https://www.legislation.gov.uk/uksi/1999/672/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/672/schedule/1)
+
+[^c7880741]: Textual amendment: Words in s. 7(1)(a) repealed (28.6.1995 for certain purposes and 1.4.1996 otherwise) by [1995 c. 17](https://www.legislation.gov.uk/ukpga/1995/17), [ss. 2](https://www.legislation.gov.uk/ukpga/1995/17/section/2), [5](https://www.legislation.gov.uk/ukpga/1995/17/section/5), [8](https://www.legislation.gov.uk/ukpga/1995/17/section/8), [Sch. 1 Pt. III para. 111(3)(a)](https://www.legislation.gov.uk/ukpga/1995/17/schedule/1/part/III/paragraph/111/3/a), [Sch. 3](https://www.legislation.gov.uk/ukpga/1995/17/schedule/3) (with [Sch. 2 paras. 6](https://www.legislation.gov.uk/ukpga/1995/17/schedule/2/paragraph/6), [16](https://www.legislation.gov.uk/ukpga/1995/17/schedule/2/paragraph/16))
+
+[^c7880751]: Textual amendment: Words substituted by [Education Reform Act 1988 (c. 40, SIF 41:1)](https://www.legislation.gov.uk/ukpga/1988/40), [ss. 231(7)](https://www.legislation.gov.uk/ukpga/1988/40/section/231/7), [235(6)](https://www.legislation.gov.uk/ukpga/1988/40/section/235/6), [237(1)](https://www.legislation.gov.uk/ukpga/1988/40/section/237/1), [Sch. 12 para. 53(2)](https://www.legislation.gov.uk/ukpga/1988/40/schedule/12/paragraph/53/2)
+
+[^key-37aaa1a37cb8ac60a949942a72d082c1]: Textual amendment: Word in s. 7(2)(a) substituted (S.) (30.6.2007) by [Adult Support and Protection (Scotland) Act 2007 (asp 10)](https://www.legislation.gov.uk/asp/2007/10), [s. 79(3)](https://www.legislation.gov.uk/asp/2007/10/section/79/3), [sch. 1 para. 2(a)](https://www.legislation.gov.uk/asp/2007/10/schedule/1/paragraph/2/a); [S.S.I. 2007/334](https://www.legislation.gov.uk/ssi/2007/334), [art. 2(a)](https://www.legislation.gov.uk/ssi/2007/334/article/2/a), [sch. 1](https://www.legislation.gov.uk/ssi/2007/334/schedule/1)
+
+[^key-7d75d26d14c50cfce67c121a92b099f6]: Textual amendment: Words in s. 7(2)(a) substituted (3.11.2008) by [The Transfer of Tribunal Functions Order 2008 (S.I. 2008/2833)](https://www.legislation.gov.uk/uksi/2008/2833), [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1), [Sch. 3 para. 70](https://www.legislation.gov.uk/uksi/2008/2833/schedule/3/paragraph/70)
+
+[^key-a2a56592eac1a9695bb1a408ed27abca]: Textual amendment: Words in s. 7(3) substituted (1.11.2013) by [The Health and Social Care Act 2012 (Consequential Amendments) (No. 2) Order 2013 (S.I. 2013/2341)](https://www.legislation.gov.uk/uksi/2013/2341), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/2341/article/1/2), [2(a)](https://www.legislation.gov.uk/uksi/2013/2341/article/2/a)
+
+[^key-cfa9b984da4c516f55d5a3abc25be09c]: Textual amendment: S. 7(3A) inserted (1.11.2013) by [The Health and Social Care Act 2012 (Consequential Amendments) (No. 2) Order 2013 (S.I. 2013/2341)](https://www.legislation.gov.uk/uksi/2013/2341), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/2341/article/1/2), [2(b)](https://www.legislation.gov.uk/uksi/2013/2341/article/2/b)
+
+[^key-8d2fbb2539fef56e461ba5dbe474a8ea]: Textual amendment: Words in [s. 7(3A)(a)](https://www.legislation.gov.uk/ukpga/1986/33/section/7/3A/a) substituted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 4 para. 25(2)](https://www.legislation.gov.uk/ukpga/2022/31/schedule/4/paragraph/25/2); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+
+[^key-45e38d2132873832d871af8c473111c9]: Textual amendment: Words in [s. 7](https://www.legislation.gov.uk/ukpga/1986/33/section/7) substituted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 1 para. 1(1)](https://www.legislation.gov.uk/ukpga/2022/31/schedule/1/paragraph/1/1)[(2)](https://www.legislation.gov.uk/ukpga/2022/31/schedule/1/paragraph/1/2); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+
+[^key-c7bac76da0c3b1487da21b6b5357fb20]: Textual amendment: Words in s. 7(9) substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 35(3)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/35/3)
+
+[^c7880771]: Textual amendment: Words in s. 7(9) substituted (1.10.2002 for E.W.) by [2002 c. 17](https://www.legislation.gov.uk/ukpga/2002/17), [s. 2(5)](https://www.legislation.gov.uk/ukpga/2002/17/section/2/5), [Sch. 2 Pt. 2 para. 51](https://www.legislation.gov.uk/ukpga/2002/17/schedule/2/part/2/paragraph/51); [S.I. 2002/2478](https://www.legislation.gov.uk/uksi/2002/2478), [art. 3(1)](https://www.legislation.gov.uk/uksi/2002/2478/article/3/1)
+
+[^key-dc82aa93468759ff78330422d5345511]: Textual amendment: Words in [s. 7(9)](https://www.legislation.gov.uk/ukpga/1986/33/section/7/9) substituted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 4 para. 25(3)](https://www.legislation.gov.uk/ukpga/2022/31/schedule/4/paragraph/25/3); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+
+[^key-0f2b5fd9500145b7fb48bea7cb39beba]: Textual amendment: Words in s. 7(9) substituted (1.4.2007) by [The References to Health Authorities Order 2007 (S.I. 2007/961)](https://www.legislation.gov.uk/uksi/2007/961), [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/961/article/1/1), [Sch. para. 15(2)(b)](https://www.legislation.gov.uk/uksi/2007/961/schedule/paragraph/15/2/b)
+
+[^key-4ab7d6fe2693c9520bb9562eba207b90]: Textual amendment: Words in s. 7(9) substituted (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 1 para. 89(b)(i)](https://www.legislation.gov.uk/ukpga/2006/43/schedule/1/paragraph/89/b/i) (with [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/3/part/1))
+
+[^c7880781]: Textual amendment: Words in s. 7(9) inserted (28.6.1995 for certain purposes and 1.4.1996 otherwise) by [1995 c. 17](https://www.legislation.gov.uk/ukpga/1995/17), [ss. 2](https://www.legislation.gov.uk/ukpga/1995/17/section/2), [8](https://www.legislation.gov.uk/ukpga/1995/17/section/8), [Sch. 1 Pt. III para. 111(3)(b)(ii)](https://www.legislation.gov.uk/ukpga/1995/17/schedule/1/part/III/paragraph/111/3/b/ii) (with [Sch. 2 paras. 6](https://www.legislation.gov.uk/ukpga/1995/17/schedule/2/paragraph/6), [16](https://www.legislation.gov.uk/ukpga/1995/17/schedule/2/paragraph/16))
+
+[^key-1c02fe915b69e02fe6ebfb001a50ad3b]: Textual amendment: Words in s. 7(9) substituted (1.4.2013) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 5 para. 40(b)(i)](https://www.legislation.gov.uk/ukpga/2012/7/schedule/5/paragraph/40/b/i); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+
+[^key-2b23a84dec772b29a434c4c4499f25e0]: Textual amendment: Words in s. 7(9) inserted (1.4.2004) by [Health and Social Care (Community Health and Standards) Act 2003 (c. 43)](https://www.legislation.gov.uk/ukpga/2003/43), [s. 199(1)](https://www.legislation.gov.uk/ukpga/2003/43/section/199/1)[(4)](https://www.legislation.gov.uk/ukpga/2003/43/section/199/4), [Sch. 4 para. 66(a)](https://www.legislation.gov.uk/ukpga/2003/43/schedule/4/paragraph/66/a); [S.I. 2004/759](https://www.legislation.gov.uk/uksi/2004/759), [art. 2](https://www.legislation.gov.uk/uksi/2004/759/article/2)
+
+[^key-56a2cadd90c71db65b04b2e29ae343ef]: Textual amendment: Words in s. 7(9) substituted (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 1 para. 89(b)(ii)](https://www.legislation.gov.uk/ukpga/2006/43/schedule/1/paragraph/89/b/ii) (with [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/3/part/1))
+
+[^key-7880454095ee7b1f1b9fcfcd40c1a237]: Textual amendment: Words in s. 7(9) inserted (1.4.2013) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 5 para. 40(b)(ii)](https://www.legislation.gov.uk/ukpga/2012/7/schedule/5/paragraph/40/b/ii); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+
+[^key-031b80bbce61c41e07d78e582700de87]: Textual amendment: Words in s. 7(9) omitted (1.4.2013) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 5 para. 40(b)(iii)](https://www.legislation.gov.uk/ukpga/2012/7/schedule/5/paragraph/40/b/iii); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+
+[^c7880821]: Textual amendment: Words in s. 7(9) substituted (28.6.1995 for certain purposes only and 1.4.1996 otherwise) by [1995 c. 17](https://www.legislation.gov.uk/ukpga/1995/17), [ss. 2](https://www.legislation.gov.uk/ukpga/1995/17/section/2), [8](https://www.legislation.gov.uk/ukpga/1995/17/section/8), [Sch. 1 Pt. III para. 111(3)(b)(ii)](https://www.legislation.gov.uk/ukpga/1995/17/schedule/1/part/III/paragraph/111/3/b/ii) (with [Sch. 2 paras. 6](https://www.legislation.gov.uk/ukpga/1995/17/schedule/2/paragraph/6), [16](https://www.legislation.gov.uk/ukpga/1995/17/schedule/2/paragraph/16))
+
+[^key-9d4808c155dfe193f8e4d39e45592029]: Textual amendment: S. 7(9): para. (bb) in definition of “the managers” omitted (1.4.2013) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 5 para. 40(b)(iv)](https://www.legislation.gov.uk/ukpga/2012/7/schedule/5/paragraph/40/b/iv); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+
+[^c7880831]: Textual amendment: S. 7(9): para. (bb) in definition of “the managers” inserted (E.W.) (8.2.2000) by [S.I. 2000/90](https://www.legislation.gov.uk/uksi/2000/90), [art. 3](https://www.legislation.gov.uk/uksi/2000/90/article/3), [Sch. 1 para. 18(3)(b)](https://www.legislation.gov.uk/uksi/2000/90/schedule/1/paragraph/18/3/b) (with [art. 2(5)](https://www.legislation.gov.uk/uksi/2000/90/article/2/5))
+
+[^key-a2167eacbd1fbd9e7d9bfe4b6a26cd89]: Textual amendment: Words in s. 7(9) repealed (S.) (5.10.2005) by [Mental Health (Care and Treatment) (Scotland) Act 2003 (asp 13)](https://www.legislation.gov.uk/asp/2003/13), [s. 333(2)](https://www.legislation.gov.uk/asp/2003/13/section/333/2), [sch. 5 Pt. 1](https://www.legislation.gov.uk/asp/2003/13/schedule/5/part/1); [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)
+
+[^c7880841]: Textual amendment: Word repealed by [National Health Service and Community Care Act 1990 (c. 19, SIF 113:2)](https://www.legislation.gov.uk/ukpga/1990/19), [s. 66(1)](https://www.legislation.gov.uk/ukpga/1990/19/section/66/1), [Sch. 9 para. 30(2)](https://www.legislation.gov.uk/ukpga/1990/19/schedule/9/paragraph/30/2)
+
+[^c7880851]: Textual amendment: S. 7(9): para. (cc) and word in definition of "the managers" inserted by [National Health Service and Community Care Act 1990 (c. 19, SIF 113:2)](https://www.legislation.gov.uk/ukpga/1990/19), [s. 66(1)](https://www.legislation.gov.uk/ukpga/1990/19/section/66/1), [Sch. 9 para. 30(2)](https://www.legislation.gov.uk/ukpga/1990/19/schedule/9/paragraph/30/2)
+
+[^key-33d8d0b5314309d173ef4680e2fee8d7]: Textual amendment: Words in s. 7(9) inserted (1.4.2004) by [Health and Social Care (Community Health and Standards) Act 2003 (c. 43)](https://www.legislation.gov.uk/ukpga/2003/43), [s. 199(1)](https://www.legislation.gov.uk/ukpga/2003/43/section/199/1)[(4)](https://www.legislation.gov.uk/ukpga/2003/43/section/199/4), [Sch. 4 para. 66(b)](https://www.legislation.gov.uk/ukpga/2003/43/schedule/4/paragraph/66/b); [S.I. 2004/759](https://www.legislation.gov.uk/uksi/2004/759), [art. 2](https://www.legislation.gov.uk/uksi/2004/759/article/2)
+
+[^key-0742eb07016f55a7fdadcda7980cbe11]: Textual amendment: Words in s. 7(9) substituted (S.) (27.9.2005) by [The Mental Health (Care and Treatment) (Scotland) Act 2003 (Modification of Enactments) Order 2005 (S.S.I. 2005/465)](https://www.legislation.gov.uk/ssi/2005/465), [art. 1](https://www.legislation.gov.uk/ssi/2005/465/article/1), [sch. 1 para. 17(4)](https://www.legislation.gov.uk/ssi/2005/465/schedule/1/paragraph/17/4)
+
+[^c23396341]: Commencement: S. 8(2)(3) not yet in force at basedate
+
+[^c7880861]: Modification: S. 8 restricted (E.W.) (1.4.1996) by [1995 c. 12](https://www.legislation.gov.uk/ukpga/1995/12), [ss. 1(5)](https://www.legislation.gov.uk/ukpga/1995/12/section/1/5), [5(2)](https://www.legislation.gov.uk/ukpga/1995/12/section/5/2)
+
+    S. 8 excluded (S.) (1.4.1996) by [1968 c. 49](https://www.legislation.gov.uk/ukpga/1968/49), [s. 12A(3A)-(3C)](https://www.legislation.gov.uk/ukpga/1968/49/section/12A/3A) (as inserted (1.4.1996) by [1995 c. 12](https://www.legislation.gov.uk/ukpga/1995/12), [ss. 2(2)](https://www.legislation.gov.uk/ukpga/1995/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/1995/12/section/5/2))
+
+    S. 8 restricted (S.) (1.4.1997) by [1995 c. 36](https://www.legislation.gov.uk/ukpga/1995/36), [s. 24(3)](https://www.legislation.gov.uk/ukpga/1995/36/section/24/3) (with [s. 103(1)](https://www.legislation.gov.uk/ukpga/1995/36/section/103/1)); [S.I. 1996/3201](https://www.legislation.gov.uk/uksi/1996/3201), [art. 3(7)](https://www.legislation.gov.uk/uksi/1996/3201/article/3/7)
+
+[^key-6ab3334da65f194fbf69fc1f733be012]: Textual amendment: Words in s. 8 heading inserted (1.4.2015) by [The Care Act 2014 and Children and Families Act 2014 (Consequential Amendments) Order 2015 (S.I. 2015/914)](https://www.legislation.gov.uk/uksi/2015/914), [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/914/article/1/2), [Sch. para. 40(2)](https://www.legislation.gov.uk/uksi/2015/914/schedule/paragraph/40/2) (with [arts. 1(3)](https://www.legislation.gov.uk/uksi/2015/914/article/1/3), [3](https://www.legislation.gov.uk/uksi/2015/914/article/3))
+
+[^key-a1233d2f3c8a22eff68f1859e709c20f]: Textual amendment: Words in [s. 8](https://www.legislation.gov.uk/ukpga/1986/33/section/8) heading omitted (6.4.2016) by virtue of [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [50(b)](https://www.legislation.gov.uk/wsi/2016/413/regulation/50/b)
+
+[^key-df33f67bde75a6e091cc2d9f1a52ad48]: Textual amendment: Words in s. 8(1)(b) inserted (1.4.2015) by [The Care Act 2014 and Children and Families Act 2014 (Consequential Amendments) Order 2015 (S.I. 2015/914)](https://www.legislation.gov.uk/uksi/2015/914), [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/914/article/1/2), [Sch. para. 40(1)](https://www.legislation.gov.uk/uksi/2015/914/schedule/paragraph/40/1) (with [arts. 1(3)](https://www.legislation.gov.uk/uksi/2015/914/article/1/3), [3](https://www.legislation.gov.uk/uksi/2015/914/article/3))
+
+[^key-6f31de681a3fa9e959621023485cc0c4]: Textual amendment: Words in [s. 8(1)(b)](https://www.legislation.gov.uk/ukpga/1986/33/section/8/1/b) omitted (6.4.2016) by virtue of [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [50(a)](https://www.legislation.gov.uk/wsi/2016/413/regulation/50/a)
+
+[^c7880871]: Modification: S. 10 excluded (1.9.2002) by [2001 c. 10](https://www.legislation.gov.uk/ukpga/2001/10), [s. 17(2)](https://www.legislation.gov.uk/ukpga/2001/10/section/17/2) (with [s. 43(13)](https://www.legislation.gov.uk/ukpga/2001/10/section/43/13)); [S.I. 2002/2217](https://www.legislation.gov.uk/uksi/2002/2217), [arts. 3](https://www.legislation.gov.uk/uksi/2002/2217/article/3), [4](https://www.legislation.gov.uk/uksi/2002/2217/article/4), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2002/2217/schedule/1/part/1)
+
+[^key-52bc88c464804f46eac0b565dea8e109]: Modification: S. 10 excluded (31.3.2003) by [Education Act 2002 (c. 32)](https://www.legislation.gov.uk/ukpga/2002/32), [s. 216(3)](https://www.legislation.gov.uk/ukpga/2002/32/section/216/3), [Sch. 18 para. 13](https://www.legislation.gov.uk/ukpga/2002/32/schedule/18/paragraph/13) (with [ss. 210(8)](https://www.legislation.gov.uk/ukpga/2002/32/section/210/8), [214(4)](https://www.legislation.gov.uk/ukpga/2002/32/section/214/4), [Sch. 18 para. 17](https://www.legislation.gov.uk/ukpga/2002/32/schedule/18/paragraph/17)); [S.I. 2002/3185](https://www.legislation.gov.uk/uksi/2002/3185), [art. 5](https://www.legislation.gov.uk/uksi/2002/3185/article/5), [Sch. Pt. II](https://www.legislation.gov.uk/uksi/2002/3185/schedule/part/II)
+
+[^c7880901]: Modification: S. 11: transfer of functions (1.7.1999) by [S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672), [art. 2](https://www.legislation.gov.uk/uksi/1999/672/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/672/schedule/1)
+
+[^c7880911]: Textual amendment: S. 11(1ZA)(1ZB) inserted (15.4.2002 for E. and S. and otherwise prosp.) by [2001 c. 15](https://www.legislation.gov.uk/ukpga/2001/15), [ss. 62(2)](https://www.legislation.gov.uk/ukpga/2001/15/section/62/2), [70(2)](https://www.legislation.gov.uk/ukpga/2001/15/section/70/2) (with [ss. 64(9)](https://www.legislation.gov.uk/ukpga/2001/15/section/64/9), [65(4)](https://www.legislation.gov.uk/ukpga/2001/15/section/65/4)); [S.I. 2002/1312](https://www.legislation.gov.uk/uksi/2002/1312), [art. 2](https://www.legislation.gov.uk/uksi/2002/1312/article/2)
+
+[^key-08e985abf06ba1f5b9fa2ebe0584e411]: Textual amendment: Words in s. 11(1ZA) omitted (1.4.2013) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 5 para. 41(a)](https://www.legislation.gov.uk/ukpga/2012/7/schedule/5/paragraph/41/a); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+
+[^key-5da27fd88c3ad57ca4d01ce4413099af]: Textual amendment: S. 11(1ZB) omitted (1.4.2013) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 5 para. 41(b)](https://www.legislation.gov.uk/ukpga/2012/7/schedule/5/paragraph/41/b); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+
+[^c7880921]: Textual amendment: S. 11(2) substituted (15.4.2002 for E. and S. otherwise prosp.) by [2001 c. 15](https://www.legislation.gov.uk/ukpga/2001/15), [ss. 62(3)](https://www.legislation.gov.uk/ukpga/2001/15/section/62/3), [70(2)](https://www.legislation.gov.uk/ukpga/2001/15/section/70/2) (with [ss. 64(9)](https://www.legislation.gov.uk/ukpga/2001/15/section/64/9), [65(4)](https://www.legislation.gov.uk/ukpga/2001/15/section/65/4)); [S.I. 2002/1312](https://www.legislation.gov.uk/uksi/2002/1312), [art. 2](https://www.legislation.gov.uk/uksi/2002/1312/article/2)
+
+[^c7880931]: Marginal citation: [1970 c. 44](https://www.legislation.gov.uk/ukpga/1970/44).
+
+[^key-d70c68cf9b09dc0aeb16a7b8df9a7210]: Textual amendment: S. 13 repealed (14.11.2005) by [Education (Additional Support for Learning) (Scotland) Act 2004 (asp 4)](https://www.legislation.gov.uk/asp/2004/4), [s. 35(1)](https://www.legislation.gov.uk/asp/2004/4/section/35/1), [sch. 3 para. 5(a)](https://www.legislation.gov.uk/asp/2004/4/schedule/3/paragraph/5/a); [S.S.I. 2005/564](https://www.legislation.gov.uk/ssi/2005/564), [art. 2](https://www.legislation.gov.uk/ssi/2005/564/article/2)
+
+[^key-dd07db41affaf75a6d6099bb9028398c]: Textual amendment: S. 14(3)-(6) repealed (14.11.2005) by [Education (Additional Support for Learning) (Scotland) Act 2004 (asp 4)](https://www.legislation.gov.uk/asp/2004/4), [s. 35(1)](https://www.legislation.gov.uk/asp/2004/4/section/35/1), [sch. 3 para. 5(b)](https://www.legislation.gov.uk/asp/2004/4/schedule/3/paragraph/5/b); [S.S.I. 2005/564](https://www.legislation.gov.uk/ssi/2005/564), [art. 2](https://www.legislation.gov.uk/ssi/2005/564/article/2)
+
+[^c7880961]: Textual amendment: [S. 15](https://www.legislation.gov.uk/ukpga/1986/33/section/15) repealed by [National Health Service (Amendment) Act 1986 (c. 66, SIF 113:2)](https://www.legislation.gov.uk/ukpga/1986/66), [s. 5(2)](https://www.legislation.gov.uk/ukpga/1986/66/section/5/2)
+
+[^c7882541]: Textual amendment: S. 16: existing provisions renumbered as s. 16(1) (S.) (1.4.1997) by [1995 c. 36](https://www.legislation.gov.uk/ukpga/1995/36), [s. 105(4)](https://www.legislation.gov.uk/ukpga/1995/36/section/105/4), [Sch. 4 para. 39(5)(d)](https://www.legislation.gov.uk/ukpga/1995/36/schedule/4/paragraph/39/5/d) (with [s. 103(1)](https://www.legislation.gov.uk/ukpga/1995/36/section/103/1)); [S.I. 1996/3201](https://www.legislation.gov.uk/uksi/1996/3201), [art. 3(7)](https://www.legislation.gov.uk/uksi/1996/3201/article/3/7)
+
+[^c7882551]: Marginal citation: [1948 c. 29](https://www.legislation.gov.uk/ukpga/1948/29).
+
+[^c7882561]: Marginal citation: [1968 c. 49](https://www.legislation.gov.uk/ukpga/1968/49).
+
+[^c7882571]: Marginal citation: [1970 c. 44](https://www.legislation.gov.uk/ukpga/1970/44).
+
+[^key-308cf015fb7a5dea2a7be3678b35fa7e]: Textual amendment: Words in s. 16(1) omitted (1.3.2007) by virtue of [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 1 para. 90(a)](https://www.legislation.gov.uk/ukpga/2006/43/schedule/1/paragraph/90/a) (with [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/3/part/1))
+
+[^c7882591]: Marginal citation: [1978 c. 29](https://www.legislation.gov.uk/ukpga/1978/29).
+
+[^c7882601]: Marginal citation: [1980 c. 44](https://www.legislation.gov.uk/ukpga/1980/44).
+
+[^c7882611]: Marginal citation: [1983 c. 20](https://www.legislation.gov.uk/ukpga/1983/20).
+
+[^key-29632a03226b63b1279689697d6cd5e5]: Textual amendment: Words in s. 16 substituted (S.) (27.9.2005) by [The Mental Health (Care and Treatment) (Scotland) Act 2003 (Modification of Enactments) Order 2005 (S.S.I. 2005/465)](https://www.legislation.gov.uk/ssi/2005/465), [art. 1](https://www.legislation.gov.uk/ssi/2005/465/article/1), [sch. 1 para. 17(5)](https://www.legislation.gov.uk/ssi/2005/465/schedule/1/paragraph/17/5); and those same words expressed to be substituted (S.) (5.10.2005) by [Mental Health (Care and Treatment) (Scotland) Act 2003 (asp 13)](https://www.legislation.gov.uk/asp/2003/13), [s. 333(2)](https://www.legislation.gov.uk/asp/2003/13/section/333/2), [sch. 4 para. 4(3)(a)](https://www.legislation.gov.uk/asp/2003/13/schedule/4/paragraph/4/3/a); [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)
+
+[^key-319bb243146109742325ec5341799e7b]: Textual amendment: Words in s. 16(1) inserted (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 1 para. 90(b)](https://www.legislation.gov.uk/ukpga/2006/43/schedule/1/paragraph/90/b) (with [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/3/part/1))
+
+[^key-d9d2bb14ca2e3747c9af0ddb259b9e41]: Textual amendment: Words in s. 16 inserted (1.4.2015) by [The Care Act 2014 and Children and Families Act 2014 (Consequential Amendments) Order 2015 (S.I. 2015/914)](https://www.legislation.gov.uk/uksi/2015/914), [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/914/article/1/2), [Sch. para. 41(2)](https://www.legislation.gov.uk/uksi/2015/914/schedule/paragraph/41/2) (with [arts. 1(3)](https://www.legislation.gov.uk/uksi/2015/914/article/1/3), [3](https://www.legislation.gov.uk/uksi/2015/914/article/3))
+
+[^key-c5156670a5a9946e43379d80fe742401]: Textual amendment: Words in s. 16(1) substituted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [51(a)](https://www.legislation.gov.uk/wsi/2016/413/regulation/51/a)
+
+[^c7882641]: Textual amendment: S. 16: in definition of “disabled person” para. (b) substituted (S.) (1.4.1997) by [1995 c. 36](https://www.legislation.gov.uk/ukpga/1995/36), [s. 105(4)](https://www.legislation.gov.uk/ukpga/1995/36/section/105/4), [Sch. 4 para. 39(5)(a)](https://www.legislation.gov.uk/ukpga/1995/36/schedule/4/paragraph/39/5/a) (with [s. 103(1)](https://www.legislation.gov.uk/ukpga/1995/36/section/103/1)); [S.I. 1996/3201](https://www.legislation.gov.uk/uksi/1996/3201), [art. 3(7)](https://www.legislation.gov.uk/uksi/1996/3201/article/3/7)
+
+[^c7882651]: Textual amendment: Words in s. 16, in the definition of “guardian”, para. (a) repealed (E.W.) (14.10.1991) by [Children Act 1989 (c. 41, SIF 20)](https://www.legislation.gov.uk/ukpga/1989/41), [s. 108(7)](https://www.legislation.gov.uk/ukpga/1989/41/section/108/7), [Sch. 15](https://www.legislation.gov.uk/ukpga/1989/41/schedule/15) (with [s. 108(6)](https://www.legislation.gov.uk/ukpga/1989/41/section/108/6), [Sch. 14 paras. 1(1)](https://www.legislation.gov.uk/ukpga/1989/41/schedule/14/paragraph/1/1), [27(4)](https://www.legislation.gov.uk/ukpga/1989/41/schedule/14/paragraph/27/4)); [S.I. 1991/828](https://www.legislation.gov.uk/uksi/1991/828), [art. 3(2)](https://www.legislation.gov.uk/uksi/1991/828/article/3/2)
+
+[^c7882661]: Textual amendment: S. 16: in definition of “guardian” para. (b) repealed (S.) (1.11.1996) by [1995 c. 36](https://www.legislation.gov.uk/ukpga/1995/36), [s. 105(4)(5)](https://www.legislation.gov.uk/ukpga/1995/36/section/105/4/5), [Sch. 4 para. 39(5)(b)](https://www.legislation.gov.uk/ukpga/1995/36/schedule/4/paragraph/39/5/b), [Sch. 5](https://www.legislation.gov.uk/ukpga/1995/36/schedule/5) (with [s. 103(1)](https://www.legislation.gov.uk/ukpga/1995/36/section/103/1)); [S.I. 1996/2203](https://www.legislation.gov.uk/uksi/1996/2203), [art. 3(3)](https://www.legislation.gov.uk/uksi/1996/2203/article/3/3), [Sch.](https://www.legislation.gov.uk/uksi/1996/2203/schedule) Table
+
+[^c7882671]: Textual amendment: Words in s. 16 repealed (S.) (25.9.1991) by [1991 c. 50](https://www.legislation.gov.uk/ukpga/1991/50), [ss. 10(2)](https://www.legislation.gov.uk/ukpga/1991/50/section/10/2), [11(2)](https://www.legislation.gov.uk/ukpga/1991/50/section/11/2), [Sch. 2](https://www.legislation.gov.uk/ukpga/1991/50/schedule/2) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/1991/50/section/1/3)).
+
+[^key-3368f1e39cb5498020e7a166f165e771]: Textual amendment: S. 16(1): definition of "Health Authority" omitted (1.3.2007) by virtue of [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 1 para. 90(c)](https://www.legislation.gov.uk/ukpga/2006/43/schedule/1/paragraph/90/c) (with [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/3/part/1))
+
+[^key-d5e4210dd1d0e1cab90f138670a2557a]: Textual amendment: Words in s. 16(1) substituted (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 1 para. 90(d)(i)](https://www.legislation.gov.uk/ukpga/2006/43/schedule/1/paragraph/90/d/i) (with [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/3/part/1))
+
+[^key-8c8bf6322f30a7c27c9b05699fd66d78]: Textual amendment: Words in s. 16(1) substituted (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 1 para. 90(d)(ii)](https://www.legislation.gov.uk/ukpga/2006/43/schedule/1/paragraph/90/d/ii) (with [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/3/part/1))
+
+[^c7882691]: Marginal citation: [1970 c. 42](https://www.legislation.gov.uk/ukpga/1970/42).
+
+[^key-3f24022b3ece9c8e9754dbf1b9f8d2ab]: Textual amendment: Words in s. 16(1) inserted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [51(b)(i)](https://www.legislation.gov.uk/wsi/2016/413/regulation/51/b/i)
+
+[^key-da4a0ef7f57bc1f2afbfb2b22ee07967]: Textual amendment: Words in s. 16(1) substituted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [51(b)(ii)](https://www.legislation.gov.uk/wsi/2016/413/regulation/51/b/ii)
+
+[^c7882701]: Textual amendment: Words in s. 16 substituted (S.) (1.4.1996) by [1994 c. 39](https://www.legislation.gov.uk/ukpga/1994/39), [s. 180(1)](https://www.legislation.gov.uk/ukpga/1994/39/section/180/1), [Sch. 13 para. 148(3)(a)](https://www.legislation.gov.uk/ukpga/1994/39/schedule/13/paragraph/148/3/a); [S.I. 1996/323](https://www.legislation.gov.uk/uksi/1996/323), [art. 4(1)(c)](https://www.legislation.gov.uk/uksi/1996/323/article/4/1/c)
+
+[^c7882711]: Textual amendment: Words in s. 16 repealed (S.) (1.4.1996) by [1994 c. 39](https://www.legislation.gov.uk/ukpga/1994/39), [ss. 180(1)(2)](https://www.legislation.gov.uk/ukpga/1994/39/section/180/1/2), [Sch. 13 para. 148(3)(b)](https://www.legislation.gov.uk/ukpga/1994/39/schedule/13/paragraph/148/3/b), [Sch. 14](https://www.legislation.gov.uk/ukpga/1994/39/schedule/14); [S.I. 1996/323](https://www.legislation.gov.uk/uksi/1996/323), [art. 4(1)(d)](https://www.legislation.gov.uk/uksi/1996/323/article/4/1/d)
+
+[^c7882721]: Textual amendment: Words in s. 16 inserted (S.) (1.4.1996) by [1994 c. 39](https://www.legislation.gov.uk/ukpga/1994/39), [s. 180(1)](https://www.legislation.gov.uk/ukpga/1994/39/section/180/1), [Sch. 13 para. 148(3)(c)](https://www.legislation.gov.uk/ukpga/1994/39/schedule/13/paragraph/148/3/c); [S.I. 1996/323](https://www.legislation.gov.uk/uksi/1996/323), [art. 4(1)(c)](https://www.legislation.gov.uk/uksi/1996/323/article/4/1/c)
+
+[^key-ee54bf924c71a2a2f3cdfd3bb4cb0eb6]: Textual amendment: Words in s. 16 inserted (1.4.2007) by [The References to Health Authorities Order 2007 (S.I. 2007/961)](https://www.legislation.gov.uk/uksi/2007/961), [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/961/article/1/1), [Sch. para. 15(3)](https://www.legislation.gov.uk/uksi/2007/961/schedule/paragraph/15/3)
+
+[^key-60820a2b63d8f2936a430a27ed73122f]: Textual amendment: Words in s. 16 substituted (30.6.2007) by [Adult Support and Protection (Scotland) Act 2007 (asp 10)](https://www.legislation.gov.uk/asp/2007/10), [s. 79(3)](https://www.legislation.gov.uk/asp/2007/10/section/79/3), [sch. 1 para. 2(b)(i)](https://www.legislation.gov.uk/asp/2007/10/schedule/1/paragraph/2/b/i); [S.S.I. 2007/334](https://www.legislation.gov.uk/ssi/2007/334), [art. 2(a)](https://www.legislation.gov.uk/ssi/2007/334/article/2/a), [sch. 1](https://www.legislation.gov.uk/ssi/2007/334/schedule/1)
+
+[^c7882731]: Textual amendment: Definition in s. 16 inserted (E.W.) (14.10.1991) by [Children Act 1989 (c. 41, SIF 20)](https://www.legislation.gov.uk/ukpga/1989/41), [s. 108(5)](https://www.legislation.gov.uk/ukpga/1989/41/section/108/5), [Sch. 13 para. 61(2)](https://www.legislation.gov.uk/ukpga/1989/41/schedule/13/paragraph/61/2) (with [s. 108(6)](https://www.legislation.gov.uk/ukpga/1989/41/section/108/6), [Sch. 14 para. 1(1)](https://www.legislation.gov.uk/ukpga/1989/41/schedule/14/paragraph/1/1)); [S.I. 1991/828](https://www.legislation.gov.uk/uksi/1991/828), [art. 3(2)](https://www.legislation.gov.uk/uksi/1991/828/article/3/2)
+
+[^key-11a3bb6013b56aeb12a8452b8842f623]: Textual amendment: S. 16(1): definition of “Primary Care Trust” omitted (1.4.2013) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 5 para. 42(a)](https://www.legislation.gov.uk/ukpga/2012/7/schedule/5/paragraph/42/a); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+
+[^c7882751]: Textual amendment: Definition in s. 16 inserted (28.6.1995 for certain purposes and 1.4.1996 otherwise) by [1995 c. 17](https://www.legislation.gov.uk/ukpga/1995/17), [ss. 2](https://www.legislation.gov.uk/ukpga/1995/17/section/2), [8](https://www.legislation.gov.uk/ukpga/1995/17/section/8), [Sch. 1 Pt. III para. 111(4)(b)](https://www.legislation.gov.uk/ukpga/1995/17/schedule/1/part/III/paragraph/111/4/b) (with [Sch. 2 paras. 6](https://www.legislation.gov.uk/ukpga/1995/17/schedule/2/paragraph/6), [16](https://www.legislation.gov.uk/ukpga/1995/17/schedule/2/paragraph/16))
+
+[^key-fec6e69e4b7889df2c497d10d4a9779d]: Textual amendment: Words in s. 16(1) substituted (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 1 para. 90(f)](https://www.legislation.gov.uk/ukpga/2006/43/schedule/1/paragraph/90/f) (with [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/3/part/1))
+
+[^key-5d31867c5d565c25e98133b0ff9aed95]: Textual amendment: Word in s. 16 substituted (30.6.2007) by [Adult Support and Protection (Scotland) Act 2007 (asp 10)](https://www.legislation.gov.uk/asp/2007/10), [s. 79(3)](https://www.legislation.gov.uk/asp/2007/10/section/79/3), [sch. 1 para. 2(b)(ii)](https://www.legislation.gov.uk/asp/2007/10/schedule/1/paragraph/2/b/ii); [S.S.I. 2007/334](https://www.legislation.gov.uk/ssi/2007/334), [art. 2(a)](https://www.legislation.gov.uk/ssi/2007/334/article/2/a), [sch. 1](https://www.legislation.gov.uk/ssi/2007/334/schedule/1)
+
+[^key-c53110296beae0b7364424147fcc98da]: Textual amendment: s. 16(1): definition of “Strategic Health Authority” omitted (1.4.2013) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 5 para. 42(b)](https://www.legislation.gov.uk/ukpga/2012/7/schedule/5/paragraph/42/b); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+
+[^key-075d5fca0108f0998b75847f5c674b56]: Textual amendment: Words in s. 16(1) omitted (6.4.2016) by virtue of [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [51(c)(i)](https://www.legislation.gov.uk/wsi/2016/413/regulation/51/c/i)
+
+[^key-daac4f0718c45807a3cb9836664319dc]: Textual amendment: Words in s. 16 inserted (1.4.2015) by [The Care Act 2014 and Children and Families Act 2014 (Consequential Amendments) Order 2015 (S.I. 2015/914)](https://www.legislation.gov.uk/uksi/2015/914), [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/914/article/1/2), [Sch. para. 41(4)](https://www.legislation.gov.uk/uksi/2015/914/schedule/paragraph/41/4) (with [arts. 1(3)](https://www.legislation.gov.uk/uksi/2015/914/article/1/3), [3](https://www.legislation.gov.uk/uksi/2015/914/article/3))
+
+[^key-ac0a306949489cf10ef1623f091e96cc]: Textual amendment: Words in s. 16(1) inserted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [51(c)(ii)](https://www.legislation.gov.uk/wsi/2016/413/regulation/51/c/ii)
+
+[^key-922f8296ecf83ad9e2b3e81910477955]: Textual amendment: Words in s. 16 omitted (1.4.2015) by virtue of [The Care Act 2014 and Children and Families Act 2014 (Consequential Amendments) Order 2015 (S.I. 2015/914)](https://www.legislation.gov.uk/uksi/2015/914), [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/914/article/1/2), [Sch. para. 41(5)](https://www.legislation.gov.uk/uksi/2015/914/schedule/paragraph/41/5) (with [arts. 1(3)](https://www.legislation.gov.uk/uksi/2015/914/article/1/3), [3](https://www.legislation.gov.uk/uksi/2015/914/article/3))
+
+[^key-1d187636d1f1cc327a3789f906e37187]: Textual amendment: Words in s. 16(1) substituted (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 1 para. 90(h)](https://www.legislation.gov.uk/ukpga/2006/43/schedule/1/paragraph/90/h) (with [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/3/part/1))
+
+[^key-b10a6194619db72ba31163fcc44c13e4]: Textual amendment: Words in s. 16(1) inserted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [51(c)(iii)](https://www.legislation.gov.uk/wsi/2016/413/regulation/51/c/iii)
+
+[^c7882781]: Marginal citation: [1947 c. 27](https://www.legislation.gov.uk/ukpga/1947/27).
+
+[^c7882791]: Textual amendment: S. 16: words in definition of “the welfare enactments” in para. (b) substituted (S.) (1.4.1997) by [1995 c. 36](https://www.legislation.gov.uk/ukpga/1995/36), [s. 105(4)](https://www.legislation.gov.uk/ukpga/1995/36/section/105/4), [Sch. 4 para. 39(5)(c)](https://www.legislation.gov.uk/ukpga/1995/36/schedule/4/paragraph/39/5/c) (with [s. 103(1)](https://www.legislation.gov.uk/ukpga/1995/36/section/103/1)); [S.I. 1996/3201](https://www.legislation.gov.uk/uksi/1996/3201), [art. 3(7)](https://www.legislation.gov.uk/uksi/1996/3201/article/3/7)
+
+[^key-8e805f9134ef67520fb4d5edbe4abef0]: Textual amendment: Words in s. 16(1) substituted (S.) (5.10.2005) by [Mental Health (Care and Treatment) (Scotland) Act 2003 (asp 13)](https://www.legislation.gov.uk/asp/2003/13), [s. 333(2)](https://www.legislation.gov.uk/asp/2003/13/section/333/2), [sch. 4 para. 4(3)(b)](https://www.legislation.gov.uk/asp/2003/13/schedule/4/paragraph/4/3/b); [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)
+
+[^key-e2ccd986966a953af8996ccb57dc7a8b]: Textual amendment: S. 16(2)(2ZA) substituted for s. 16(2) (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [51(d)](https://www.legislation.gov.uk/wsi/2016/413/regulation/51/d)
+
+[^c7882811]: Textual amendment: S. 16(2A) added (S.) (1.4.1997) by [1995 c. 36](https://www.legislation.gov.uk/ukpga/1995/36), [s. 105(4)](https://www.legislation.gov.uk/ukpga/1995/36/section/105/4), [Sch. 4 para. 39(5)(d)](https://www.legislation.gov.uk/ukpga/1995/36/schedule/4/paragraph/39/5/d) (with [s. 103(1)](https://www.legislation.gov.uk/ukpga/1995/36/section/103/1)); [S.I. 1996/3201](https://www.legislation.gov.uk/uksi/1996/3201), [art. 3(7)](https://www.legislation.gov.uk/uksi/1996/3201/article/3/7)
+
+[^c7882821]: Subordinate legislation: Power of appointment conferred by s. 18(2) partly exercised: [S.I. 1987/564](https://www.legislation.gov.uk/uksi/1987/564), [S.I. 1987/729](https://www.legislation.gov.uk/uksi/1987/729), [S.I. 1987/911](https://www.legislation.gov.uk/uksi/1987/911), [S.I. 1988/51](https://www.legislation.gov.uk/uksi/1988/51), [S.I. 1988/94](https://www.legislation.gov.uk/uksi/1988/94), [S.I. 1989/2425](https://www.legislation.gov.uk/uksi/1989/2425)
+
+[^key-bad17de3a8a17f0c33a0c78146d26b97]: Textual amendment: [S. 18(3A)](https://www.legislation.gov.uk/ukpga/1986/33/section/18/3A) inserted (5.12.2005) by [Disability Discrimination Act 2005 (c. 13)](https://www.legislation.gov.uk/ukpga/2005/13), [s. 20(3)](https://www.legislation.gov.uk/ukpga/2005/13/section/20/3), [Sch. 1 para. 49](https://www.legislation.gov.uk/ukpga/2005/13/schedule/1/paragraph/49); [S.I. 2005/2774](https://www.legislation.gov.uk/uksi/2005/2774), [art. 3(j)](https://www.legislation.gov.uk/uksi/2005/2774/article/3/j)

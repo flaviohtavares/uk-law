@@ -1,0 +1,72 @@
+---
+title: Road Traffic Offenders Act 1988, section 66
+act: Road Traffic Offenders Act 1988
+section: '66'
+status: revised-with-pending-changes
+text_date: '2026-10-01'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/ukpga/1988/53/section/66
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Road Traffic Offenders Act 1988, section 66
+
+> **Warning: changes not yet applied to this text (91).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1988/53
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 66. Hired vehicles.[^c18164451]
+
+*Extent: E+W+S*
+
+(1) This section applies where—
+
+- (a) a notice to owner has been served on a vehicle-hire firm,
+- (b) at the time of the alleged offence the vehicle in respect of which the notice was served was let to another person by the vehicle-hire firm under a hiring agreement to which this section applies, and
+- (c) within the period allowed for response to the notice the firm provides the relevant person[^key-b81df3d5df9d89c37b15630f5381b6e3] with the documents mentioned in subsection (2) below.
+
+(2) Those documents are a statement on an official form, signed by or on behalf of the firm, stating that at the time of the alleged offence the vehicle concerned was hired under a hiring agreement to which this section applies, together with—
+
+- (a) a copy of that hiring agreement, and
+- (b) a copy of a statement of liability signed by the hirer under that hiring agreement.
+
+(3) In this section a “**statement of liability**” means a statement made by the hirer under a hiring agreement to which this section applies to the effect that the hirer acknowledges that he will be liable, as the owner of the vehicle, in respect of any fixed penalty offence which may be committed with respect to the vehicle during the currency of the hiring agreement and giving such information as may be prescribed.
+
+(4) In any case where this section applies, sections 63, 64 and 65 of this Act shall have effect as if—
+
+- (a) any reference to the owner of the vehicle were a reference to the hirer under the hiring agreement, and
+- (b) any reference to a statutory statement of ownership were a reference to a statutory statement of hiring,
+
+and accordingly references in this Part of this Act (with the exceptions mentioned below) to a notice to owner include references to a notice served under section 63 of this Act as it applies by virtue of this section.
+
+This subsection does not apply to references to a notice to owner in this section or in section 81(2)(b) of or Part I of Schedule 4 to this Act.
+
+(5) In any case where this section applies, a person authorised in that behalf by the person[^key-a5a37f3cf5ee21ff91e144a1764c2c10] to whom the documents mentioned in subsection (2) above are provided may, at any reasonable time within six months after service of the notice to owner (and on the production of his authority) require the firm to produce the originals of the hiring agreement and statement of liability in question.
+
+(6) If a vehicle-hire firm fails to produce the original of a document when required to do so under subsection (5) above, this section shall thereupon cease to apply (and section 64 of this Act shall apply accordingly in any such case after that time as it applies in a case where the person on whom the notice to owner was served has failed to provide a statutory statement of ownership in response to the notice within the period allowed).
+
+(7) This section applies to a hiring agreement under the terms of which the vehicle concerned is let to the hirer for a fixed period of less than six months (whether or not that period is capable of extension by agreement between the parties or otherwise); and any reference in this section to the currency of the hiring agreement includes a reference to any period during which, with the consent of the vehicle-hire firm, the hirer continues in possession of the vehicle as hirer, after the expiry of the fixed period specified in the agreement, but otherwise on the terms and conditions so specified.
+
+(8) In this section—
+
+- “**hiring agreement**” refers only to an agreement which contains such particulars as may be prescribed and does not include a hire-purchase agreement within the meaning of the [^c18164461]Consumer Credit Act 1974, [^key-c8fbcd8b4c673de3f2d94d8dc38eae52]...
+- “[^key-bc76af7c2bffbdd865763bb5bf29d32e]**relevant person**” means—
+- (a) if the fixed penalty notice was fixed by a constable, the chief officer of police by or on whose behalf the notice to owner was served, and
+- (b) if it was fixed by a vehicle examiner, the Secretary of State, and
+
+- “**vehicle-hire firm**” means any person engaged in hiring vehicles in the course of a business.
+
+## Annotations
+
+[^c18164451]: Modification: Definitions in s. 66 applied (1.10.1991) by [Road Traffic Act 1991 (c. 40, SIF 107:1)](https://www.legislation.gov.uk/ukpga/1991/40), [s. 82(1)](https://www.legislation.gov.uk/ukpga/1991/40/section/82/1); [S.I. 1991/2054](https://www.legislation.gov.uk/uksi/1991/2054), [art. 3](https://www.legislation.gov.uk/uksi/1991/2054/article/3),Sch
+
+[^key-b81df3d5df9d89c37b15630f5381b6e3]: Textual amendment: Words in s. 66(1)(c) substituted (31.3.2009) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [s. 61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1)[(10)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/10), [Sch. 1 para. 9(2)](https://www.legislation.gov.uk/ukpga/2006/49/schedule/1/paragraph/9/2); [S.I. 2008/3164](https://www.legislation.gov.uk/uksi/2008/3164), [art. 3(b)](https://www.legislation.gov.uk/uksi/2008/3164/article/3/b)
+
+[^key-a5a37f3cf5ee21ff91e144a1764c2c10]: Textual amendment: Word in s. 66(5) substituted (31.3.2009) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [s. 61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1)[(10)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/10), [Sch. 1 para. 9(3)](https://www.legislation.gov.uk/ukpga/2006/49/schedule/1/paragraph/9/3); [S.I. 2008/3164](https://www.legislation.gov.uk/uksi/2008/3164), [art. 3(b)](https://www.legislation.gov.uk/uksi/2008/3164/article/3/b)
+
+[^c18164461]: Marginal citation: [1974 c. 39](https://www.legislation.gov.uk/ukpga/1974/39).
+
+[^key-c8fbcd8b4c673de3f2d94d8dc38eae52]: Textual amendment: Word in s. 66(8) repealed (31.3.2009) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [s. 61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1)[(10)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/10), [Sch. 7(2)](https://www.legislation.gov.uk/ukpga/2006/49/schedule/7/2); [S.I. 2008/3164](https://www.legislation.gov.uk/uksi/2008/3164), [art. 3(d)](https://www.legislation.gov.uk/uksi/2008/3164/article/3/d)
+
+[^key-bc76af7c2bffbdd865763bb5bf29d32e]: Textual amendment: Words in s. 66(8) inserted (31.3.2009) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [s. 61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1)[(10)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/10), [Sch. 1 para. 9(4)](https://www.legislation.gov.uk/ukpga/2006/49/schedule/1/paragraph/9/4); [S.I. 2008/3164](https://www.legislation.gov.uk/uksi/2008/3164), [art. 3(b)](https://www.legislation.gov.uk/uksi/2008/3164/article/3/b)

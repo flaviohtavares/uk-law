@@ -1,0 +1,694 @@
+---
+title: The Companies (Tables A to F) Regulations 1985, SCHEDULE
+act: The Companies (Tables A to F) Regulations 1985
+section: schedule
+status: revised
+text_date: '2007-10-01'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/uksi/1985/805/schedule
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Companies (Tables A to F) Regulations 1985, SCHEDULE
+
+> Text as at 2007-10-01.
+>
+> Extent: England, Wales, Scotland.
+
+## SCHEDULE[^key-d95a5c15533f806fa9dcf0d7842f9cd3]
+
+*Extent: E+W+S*
+
+### TABLE A — REGULATIONS FOR MANAGEMENT OF A COMPANY LIMITED BY SHARES
+
+#### INTERPRETATION
+
+**1.** In these regulations—
+
+- “[^key-bd078f8c9439d3c2dcc3461b2d708aaa]the Act” means the Companies Act 1985 including any statutory modification or re-enactment thereof for the time being in force and any provisions of the Companies Act 2006 for the time being in force;
+- “**the articles**” means the articles of the company.
+- “**clear days**” in relation to the period of a notice means that period excluding the day when the notice is given or deemed to be given and the day for which it is given or on which it is to take effect.
+- “communication” means the same as in the Electronic Communications Act 2000,[^key-9e7ac184772584b388fd88fb39295536]
+- “electronic communication” means the same as in the Electronic Communications Act 2000,
+- “**executed**” includes any mode of execution.
+- “**office**” means the registered office of the company.
+- “**the holder**” in relation to shares means the member whose name is entered in the register of members as the holder of the shares.
+- “**the seal**” means the common seal of the company.
+- “**secretary**” means the secretary of the company or any other person appointed to perform the duties of the secretary of the company, including a joint, assistant or deputy secretary.
+- “**the United Kingdom**” means Great Britain and Northern Ireland.
+
+Unless the context otherwise requires, words or expressions contained in these regulations bear the same meaning as in the Act but excluding any statutory modification thereof not in force when these regulations become binding on the company.
+
+#### SHARE CAPITAL
+
+**2.** Subject to the provisions of the Act and without prejudice to any rights attached to any existing shares, any share may be issued with such rights or restrictions as the company may by ordinary resolution determine.
+
+**3.** Subject to the provisions of the Act, shares may be issued which are to be redeemed or are to be liable to be redeemed at the option of the company or the holder on such terms and in such manner as may be provided by the articles.
+
+**4.** The company may exercise the powers of paying commissions conferred by the Act. Subject to the provisions[^key-8d80c8ba1ac8505dc663a393e3e598b2] of the Act, any such commission may be satisfied by the payment of cash or by the allotment of fully or partly paid shares or partly in one way and partly in the other.
+
+**5.** Except as required by law, no person shall be recognised by the company as holding any share upon any trust and ( except as otherwise provided by the articles or by law) the company shall not be bound by or recognise any interest in any share except an absolute right to the entirety thereof in the holder.
+
+#### SHARE CERTIFICATES
+
+**6.** Every member, upon becoming the holder of any shares, shall be entitled without payment to one certificate for all the shares of each class held by him ( and, upon transferring a part of his holding of shares of any class, to a certificate for the balance of such holding) or several certificates each for one or more of his shares upon payment for every certificate after the first of such reasonable sum as the directors may determine. Every certificate shall be sealed with the seal and shall specify the number, class and distinguishing numbers (if any) of the shares to which it relates and the amount or respective amounts paid up thereon. The company shall not be bound to issue more than one certificate for shares held jointly by several persons and delivery of a certificate to one joint holder shall be a sufficient delivery to all of them.
+
+**7.** If a share certificate is defaced, worn-out, lost or destroyed, it may be renewed on such terms (if any) as to evidence and indemnity and payment of the expenses reasonably incurred by the company in investigating evidence as the directors may determine but otherwise free of charge, and (in the case of defacement or wearing-out) on delivery up of the old certificate.
+
+#### LIEN
+
+**8.** The company shall have a first and paramount lien on every share (not being a fully paid share) for all moneys (whether presently payable or not) payable at a fixed time or called in respect of that share. The directors may at any time declare any share to be wholly or in part exempt from the provisions of this regulation. The company's lien on a share shall extend to any amount payable in respect of it.
+
+**9.** The company may sell in such manner as the directors determine any shares on which the company has a lien if a sum in respect of which the lien exists is presently payable and is not paid within fourteen clear days after notice has been given to the holder of the share or to the person entitled to it in consequence of the death or bankruptcy of the holder, demanding payment and stating that if the notice is not complied with the shares may be sold.
+
+**10.** To give effect to a sale the directors may authorise some person to execute an instrument of transfer of the shares sold to, or in accordance with the directions of, the purchaser. The title of the transferee to the shares shall not be affected by any irregularity in or invalidity of the proceedings in reference to the sale.
+
+**11.** The net proceeds of the sale, after payment of the costs, shall be applied in payment of so much of the sum for which the lien exists as is presently payable, and any residue shall (upon surrender to the company for cancellation of the certificate for the shares sold and subject to a like lien for any moneys not presently payable as existed upon the shares before the sale) be paid to the person entitled to the shares at the date of the sale.
+
+#### CALLS ON SHARES AND FORFEITURE
+
+**12.** Subject to the terms of allotment, the directors may make calls upon the members in respect of any moneys unpaid on their shares (whether in respect of nominal value or premium) and each member shall (subject to receiving at least fourteen clear days' notice specifying when and where payment is to be made) pay to the company as required by the notice the amount called on his shares. A call may be required to be paid by instalments. A call may, before receipt by the company of any sum due thereunder, be revoked in whole or part and payment of a call may be postponed in whole or part. A person upon whom a call is made shall remain liable for calls made upon him notwithstanding the subsequent transfer of the shares in respect whereof the call was made.
+
+**13.** A call shall be deemed to have been made at the time when the resolution of the directors authorising the call was passed.
+
+**14.** The joint holders of a share shall be jointly and severally liable to pay all calls in respect thereof.
+
+**15.** If a call remains unpaid after it has become due and payable the person from whom it is due and payable shall pay interest on the amount unpaid from the day it became due and payable until it is paid at the rate fixed by the terms of allotment of the share or in the notice of the call or, if no rate is fixed, at the appropriate rate (as defined by the Act) but the directors may waive payment of the interest wholly or in part.
+
+**16.** An amount payable in respect of a share on allotment or at any fixed date, whether in respect of nominal value or premium or as an instalment of a call, shall be deemed to be a call and if it is not paid the provisions of the articles shall apply as if that amount had become due and payable by virtue of a call.
+
+**17.** Subject to the terms of allotment, the directors may make arrangements on the issue of shares for a difference between the holders in the amounts and times of payment of calls on their shares.
+
+**18.** If a call remains unpaid after it has become due and payable the directors may give to the person from whom it is due not less than fourteen clear days' notice requiring payment of the amount unpaid together with any interest which may have accrued. The notice shall name the place where payment is to be made and shall state that if the notice is not complied with the shares in respect of which the call was made will be liable to be forfeited.
+
+**19.** If the notice is not complied with any share in respect of which it was given may, before the payment required by the notice has been made, be forfeited by a resolution of the directors and the forfeiture shall include all dividends or other moneys payable in respect of the forfeited shares and not paid before the forfeiture.
+
+**20.** Subject to the provisions of the Act, a forfeited share may be sold, re-alloted or otherwise disposed of on such terms and in such manner as the directors determine either to the person who was before the forfeiture the holder or to any other person and at any time before sale, re-allotment or other disposition, the forfeiture may be cancelled on such terms as the directors think fit. Where for the purposes of its disposal a forfeited share is to be transferred to any person the directors may authorise some person to execute an instrument of transfer of the share to that person.
+
+**21.** A person any of whose shares have been forfeited shall cease to be a member in respect of them and shall surrender to the company for cancellation the certificate for the shares forfeited but shall remain liable to the company for all moneys which at the date of forfeiture were presently payable by him to the company in respect of those shares with interest at the rate at which interest was payable on those moneys before the forfeiture or, if no interest was so payable, at the appropriate rate (as defined in the Act) from the date of forfeiture until payment but the directors may waive payment wholly or in part or enforce payment without any allowance for the value of the shares at the time of forfeiture or for any consideration received on their disposal.
+
+**22.** A statutory declaration by a director or the secretary that a share has been forfeited on a specified date shall be conclusive evidence of the facts stated in it as against all persons claiming to be entitled to the share and the declaration shall (subject to the execution of an instrument of transfer if necessary) constitute a good title to the share and the person to whom the share is disposed of shall not be bound to see to the application of the consideration, if any, nor shall his title to the share be affected by any irregularity in or invalidity of the proceedings in reference to the forfeiture or disposal of the share.
+
+#### TRANSFER OF SHARES
+
+**23.** The instrument of transfer of a share may be in any usual form or in any other form which the directors may approve and shall be executed by or on behalf of the transferor and, unless the share is fully paid, by or on behalf of the transferee.
+
+**24.** The directors may refuse to register the transfer of a share which is not fully paid to a person of whom they do not approve and they may refuse to register the transfer of a share on which the company has a lien. They may also refuse to register a transfer unless—
+
+- (a) it is lodged at the office or at such other place as the directors may appoint and is accompanied by the certificate for the shares to which it relates and such other evidence as the directors may reasonably require to show the right of the transferor to make the transfer;
+- (b) it is in respect of only one class of shares; and
+- (c) it is in favour of not more than four transferees.
+
+**25.** If the directors refuse to register a transfer of a share, they shall within two months after the date on which the transfer was lodged with the company send to the transferee notice of the refusal.
+
+**26.** The registration of transfers of shares or of transfers of any class of shares may be suspended at such times and for such periods (not exceeding thirty days in any year) as the directors may determine.
+
+**27.** No fee shall be charged for the registration of any instrument of transfer or other document relating to or affecting the title to any share.
+
+**28.** The company shall be entitled to retain any instrument of transfer which is registered, but any instrument of transfer which the directors refuse to register shall be returned to the person lodging it when notice of the refusal is given.
+
+#### TRANSMISSION OF SHARES
+
+**29.** If a member dies the survivor or survivors where he was a joint holder, and his personal representatives where he was a sole holder or the only survivor of joint holders, shall be the only persons recognised by the company as having any title to his interest; but nothing herein contained shall release the estate of a deceased member from any liability in respect of any share which had been jointly held by him.
+
+**30.** A person becoming entitled to a share in consequence of the death or bankruptcy of a member may, upon such evidence being produced as the directors may properly require, elect either to become the holder of the share or to have some person nominated by him registered as the transferee. If he elects to become the holder he shall give notice to the company to that effect. If he elects to have another person registered he shall execute an instrument of transfer of the share to that person. All the articles relating to the transfer of shares shall apply to the notice or instrument of transfer as if it were an instrument of transfer executed by the member and the death or bankruptcy of the member had not occurred.
+
+**31.** A person becoming entitled to a share in consequence of the death or bankruptcy of a member shall have the rights to which he would be entitled if he were the holder of the share, except that he shall not, before being registered as the holder of the share, be entitled in respect of it to attend or vote at any meeting of the company or at any separate meeting of the holders of any class of shares in the company.
+
+#### ALTERATION OF SHARE CAPITAL
+
+**32.** The company may by ordinary resolution—
+
+- (a) increase its share capital by new shares of such amount as the resolution prescribes;
+- (b) consolidate and divide all or any of its share capital into shares of larger amount than its existing shares;
+- (c) subject to the provisions of the Act, sub-divide its shares, or any of them, into shares of smaller amount and the resolution may determine that, as between the shares resulting from the sub-division, any of them may have any preference or advantage as compared with the others; and
+- (d) cancel shares which, at the date of the passing of the resolution, have not been taken or agreed to be taken by any person and diminish the amount of its share capital by the amount of the shares so cancelled.
+
+**33.** Whenever as a result of a consolidation of shares any members would become entitled to fractions of a share, the directors may, on behalf of those members, sell the shares representing the fractions for the best price reasonably obtainable to any person (including, subject to the provisions of the Act, the company) and distribute the net proceeds of sale in due proportion among those members, and the directors may authorise some person to execute an instrument of transfer of the shares to, or in accordance with the directions of, the purchaser. The transferee shall not be bound to see to the application of the purchase money nor shall his title to the shares be affected by any irregularity in or invalidity of the proceedings in reference to the sale.
+
+**34.** Subject to the provisions of the Act, the company may by special resolution reduce its share capital, any capital redemption reserve and any share premium account in any way.
+
+#### PURCHASE OF OWN SHARES
+
+**35.** Subject to the provisions of the Act, the company may purchase its own shares (including any redeemable shares) and, if it is a private company, make a payment in respect of the redemption or purchase of its own shares otherwise than out of distributable profits of the company or the proceeds of a fresh issue of shares.
+
+#### GENERAL MEETINGS
+
+**36.**[^key-f0c69e7a6d68919240217099017bf2fb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**37.** The directors may call general meetings and, on the requisition of members pursuant to the provisions of the Act, shall forthwith proceed to convene a[^key-bc0fe1f9b8a17cc54be55fd3e2022665] general meeting in accordance with the provisions of[^key-4faa7f959816a44bf0780e1c7fd67916] the Act . If there are not within the United Kingdom sufficient directors to call a general meeting, any director or any member of the company may call a general meeting.
+
+#### NOTICE OF GENERAL MEETINGS
+
+**38.** An annual general meeting *(affected by repeal, see note)*[^key-662d58affcefe3061cd10320fee5e9c2] and an extraordinary general meeting called for the passing of a special resolution or a resolution appointing a person as a director *(affected by repeal, see note)*[^key-68a59a101ca0e87ccc1485e9bb882491] *(affected by repeal, see note)*[^key-662d58affcefe3061cd10320fee5e9c2] shall be called by at least twenty-one clear days' notice. All other *(affected by repeal, see note)*[^key-662d58affcefe3061cd10320fee5e9c2] extraordinary *(affected by repeal, see note)*[^key-ba4a9c5891633f22b958cfeecb845078] *(affected by repeal, see note)*[^key-662d58affcefe3061cd10320fee5e9c2] general meetings shall be called by at least fourteen clear days' notice but a general meeting may be called by shorter notice if it is so agreed—
+
+- (a) in the case of an annual general meeting, by all the members entitled to attend and vote thereat; and *(affected by repeal, see note)*[^key-22f5dc58fbe45df1340c7a66eb3b99e6]
+- (b) in the case of any other meeting *(affected by repeal, see note)*[^key-bb4c2f53fcc21f0b079f571b15cd6fc4] by a majority in number of the members having a right to attend and vote being a majority together holding not less than ninety -five *(affected by repeal, see note)*[^key-bb4c2f53fcc21f0b079f571b15cd6fc4] per cent. in nominal value of the shares giving that right.
+
+The notice shall specify the time and place of the meeting and the general nature of the business to be transacted and, in the case of an annual general meeting, shall specify the meeting as such *(affected by repeal, see note)*[^key-a7cf15156269f962a24dd83c781553a1].
+
+Subject to the provisions of the articles and to any restrictions imposed on any shares, the notice shall be given to all the members, to all persons entitled to a share in consequence of the death or bankruptcy of a member and to the directors and auditors.
+
+**39.** The accidental omission to give notice of a meeting to, or the non-receipt of notice of a meeting by, any person entitled to receive notice shall not invalidate the proceedings at that meeting.
+
+#### PROCEEDINGS AT GENERAL MEETINGS
+
+**40.** Save in the case of a company with a single member[^key-54523ee82ad0bd9e640224582361297a] No business shall be transacted at any meeting unless a quorum is present. Two persons entitled to vote upon the business to be transacted, each being a member or a proxy for a member or a duly authorised representative of a corporation, shall be a quorum.
+
+**41.** If such a quorum is not present within half an hour from the time appointed for the meeting, or if during a meeting such a quorum ceases to be present, the meeting shall stand adjourned to the same day in the next week at the same time and place or to[^key-2ab48d80b826a1cd0c5add458add664e] such time and place as the directors may determine.
+
+**42.** The chairman, if any, of the board of directors or in his absence some other director nominated by the directors shall preside as chairman of the meeting, but if neither the chairman nor such other director (if any) be present within fifteen minutes after the time appointed for holding the meeting and willing to act, the directors present shall elect one of their number to be chairman and, if there is only one director present and willing to act, he shall be chairman.
+
+**43.** If no director is willing to act as chairman, or if no director is present within fifteen minutes after the time appointed for holding the meeting, the members present and entitled to vote shall choose one of their number to be chairman.
+
+**44.** A director shall, notwithstanding that he is not a member, be entitled to attend and speak at any general meeting and at any separate meeting of the holders of any class of shares in the company.
+
+**45.** The chairman may, with the consent of a meeting at which a quorum is present (and shall if so directed by the meeting), adjourn the meeting from time to time and from place to place, but no business shall be transacted at an adjourned meeting other than business which might properly have been transacted at the meeting had the adjournment not taken place. When a meeting is adjourned for fourteen days or more, at least seven clear days' notice shall be given specifying the time and place of the adjourned meeting and the general nature of the business to be transacted. Otherwise it shall not be necessary to give any such notice.
+
+**46.** A resolution put to the vote of a meeting shall be decided on a show of hands unless before, or on the declaration of the result of, the show of hands a poll is duly demanded. Subject to the provisions of the Act, a poll may be demanded—
+
+- (a) by the chairman; or
+- (b) by at least two members having the right to vote at the meeting; or
+- (c) by a member or members representing not less than one-tenth of the total voting rights of all the members having the right to vote at the meeting; or
+- (d) by a member or members holding shares conferring a right to vote at the meeting being shares on which an aggregate sum has been paid up equal to not less than one-tenth of the total sum paid up on all the shares conferring that right;
+
+and a demand by a person as proxy for a member shall be the same as a demand by the member.
+
+**47.** Unless a poll is duly demanded a declaration by the chairman that a resolution has been carried or carried unanimously, or by a particular majority, or lost, or not carried by a particular majority and an entry to that effect in the minutes of the meeting shall be conclusive evidence of the fact without proof of the number or proportion of the votes recorded in favour of or against the resolution.
+
+**48.** The demand for a poll may, before the poll is taken, be withdrawn but only with the consent of the chairman and a demand so withdrawn shall not be taken to have invalidated the result of a show of hands declared before the demand was made.
+
+**49.** A poll shall be taken as the chairman directs and he may appoint scrutineers (who need not be members) and fix a time and place for declaring the result of the poll. The result of the poll shall be deemed to be the resolution of the meeting at which the poll was demanded.
+
+**50.**[^key-a56c3abada597a4d4284f07eb11f5d72] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**51.** A poll demanded on the election of a chairman or on a question of adjournment shall be taken forthwith. A poll demanded on any other question shall be taken either forthwith or at such time and place as the chairman directs not being more than thirty days after the poll is demanded. The demand for a poll shall not prevent the continuance of a meeting for the transaction of any business other than the question on which the poll was demanded. If a poll is demanded before the declaration of the result of a show of hands and the demand is duly withdrawn, the meeting shall continue as if the demand had not been made.
+
+**52.** No notice need be given of a poll not taken forthwith if the time and place at which it is to be taken are announced at the meeting at which it is demanded. In any other case at least seven clear days' notice shall be given specifying the time and place at which the poll is to be taken.
+
+**53.**[^key-43d228e5a5743b541fee05e0d60a1052] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### VOTES OF MEMBERS
+
+**54.** Subject to any rights or restrictions attached to any shares, on a show of hands every member who (being an individual) is present in person or by proxy[^key-ea948f9cc55b4c13b66e7a6638b02495] or (being a corporation) is present by a duly authorised representative or by proxy[^key-7aab79eb4bf7dacc38f8ed2eaee1fe88], unless the proxy (in either case) or the representative is[^key-776fbe44545232bf4a5d51dab5155962] himself a member entitled to vote, shall have one vote and on a poll every member shall have one vote for every share of which he is the holder.
+
+**55.** In the case of joint holders the vote of the senior who tenders a vote, whether in person or by proxy, shall be accepted to the exclusion of the votes of the other joint holders; and seniority shall be determined by the order in which the names of the holders stand in the register of members.
+
+**56.** A member in respect of whom an order has been made by any court having jurisdiction (whether in the United Kingdom or elsewhere) in matters concerning mental disorder may vote, whether on a show of hands or on a poll, by his receiver, curator bonis or other person authorised in that behalf appointed by that court, and any such receiver, curator bonis or other person may, on a poll, vote by proxy. Evidence to the satisfaction of the directors of the authority of the person claiming to exercise the right to vote shall be deposited at the office, or at such other place as is specified in accordance with the articles for the deposit of instruments of proxy, not less than 48 hours before the time appointed for holding the meeting or adjourned meeting at which the right to vote is to be exercised and in default the right to vote shall not be exercisable.
+
+**57.** No member shall vote at any general meeting or at any separate meeting of the holders of any class of shares in the company, either in person or by proxy, in respect of any share held by him unless all moneys presently payable by him in respect of that share have been paid.
+
+**58.** No objection shall be raised to the qualification of any voter except at the meeting or adjourned meeting at which the vote objected to is tendered, and every vote not disallowed at the meeting shall be valid. Any objection made in due time shall be referred to the chairman whose decision shall be final and conclusive.
+
+**59.** On a poll votes may be given either personally or by proxy. A member may appoint more than one proxy to attend on the same occasion.
+
+**60.** The appointment of[^key-b03c4883c5c6521156c9d384dc8c969a] a proxy shall be [^M_F_eba67608-64ec-416b-f76d-d673a720577e]... executed by or on behalf of the appointor and shall be in the following form (or in a form as near thereto as circumstances allow or in any other form which is usual or which the directors may approve)—[^key-9ca6d0b36ad40acda6ba8d4f670670ae][^key-41748b0e6f1c7435eeec3a38feb12814]
+
+> [image: see source](https://www.legislation.gov.uk/uksi/1985/805/images/uksi_19850805_en_001)
+
+**61.** Where it is desired to afford members an opportunity of instructing the proxy how he shall act the appointment of[^key-86e783b24ee962578616575a7e1ae06e] a proxy shall be in the following form (or in a form as near thereto as circumstances allow or in any other form which is usual or which the directors may approve)—[^key-2f2bfe4ec6db4a06580f7d0e188422d8][^key-2927f4f6e0830c7b75c328e1f3a07b2c]
+
+> [image: see source](https://www.legislation.gov.uk/uksi/1985/805/images/uksi_19850805_en_002)
+
+**62.** The appointment of[^key-51111c4b8fce143aefd35f27526c5183] a proxy and any authority under which it is executed or a copy of such authority certified notarially or in some other way approved by the directors may—
+
+- (a) in the case of an instrument in writing[^key-e6b1b83a4b81d7dde3ca0daac381597c] be deposited at the office or at such other place within the United Kingdom as is specified in the notice convening the meeting or in any instrument of proxy sent out by the company in relation to the meeting not less than 48 hours before the time for holding the meeting or adjourned meeting at which the person named in the instrument proposes to vote; or
+- (aa)[^key-13e41fa473030d91aa0b5ea39af66c3d] in the case of an appointment contained in an electronic communication, where an address has been specified for the purpose of receiving electronic communications—
+  - (i) in the notice convening the meeting, or
+  - (ii) in any instrument of proxy sent out by the company in relation to the meeting, or
+  - (iii) in any invitation contained in an electronic communication to appoint a proxy issued by the company in relation to the meeting,
+
+  be received at such address not less than 48 hours before the time for holding the meeting or adjourned meeting at which the person named in the appointment proposes to vote;
+- (b) in the case of a poll taken more than 48 hours after it is demanded, be deposited or received[^key-31f975f4b5c5e2d331dae849dd2e911b] as aforesaid after the poll has been demanded and not less than 24 hours before the time appointed for the taking of the poll; or
+- (c) where the poll is not taken forthwith but is taken not more than 48 hours after it was demanded, be delivered at the meeting at which the poll was demanded to the chairman or to the secretary or to any director;
+
+and an appointment of proxy which is not deposited, delivered or received[^key-b9b5565ee14bd2036d37392c82f5259c] in a manner so permitted shall be invalid.
+
+In this regulation and the next, “address”, in relation to electronic communications, includes any number or address used for the purposes of such communications.[^key-577d33929f4cb5bc289675945408ce9d]
+
+**63.** A vote given or poll demanded by proxy or by the duly authorised representative of a corporation shall be valid notwithstanding the previous determination of the authority of the person voting or demanding a poll unless notice of the determination was received by the company at the office or at such other place at which the instrument of proxy was duly deposited or, where the appointment of the proxy was contained in an electronic communication, at the address at which such appointment was duly received,[^key-852abadc4aaa08ccd4b7be8a92937d50] before the commencement of the meeting or adjourned meeting at which the vote is given or the poll demanded or (in the case of a poll taken otherwise than on the same day as the meeting or adjourned meeting) the time appointed for taking the poll.
+
+#### NUMBER OF DIRECTORS
+
+**64.** Unless otherwise determined by ordinary resolution, the number of directors (other than alternate directors) shall not be subject to any maximum but shall be not less than two.
+
+#### ALTERNATE DIRECTORS
+
+**65.** Any director (other than an alternate director) may appoint any other director, or any other person approved by resolution of the directors and willing to act, to be an alternate director and may remove from office an alternate director so appointed by him.
+
+**66.** An alternate director shall be entitled to receive notice of all meetings of directors and of all meetings of committees of directors of which his appointor is a member, to attend and vote at any such meeting at which the director appointing him is not personally present, and generally to perform all the functions of his appointor as a director in his absence but shall not be entitled to receive any remuneration from the company for his services as an alternate director. But it shall not be necessary to give notice of such a meeting to an alternate director who is absent from the United Kingdom.
+
+**67.** An alternate director shall cease to be an alternate director if his appointor ceases to be a director; but, if a director retires by rotation or otherwise but is reappointed or deemed to have been reappointed at the meeting at which he retires, any appointment of an alternate director made by him which was in force immediately prior to his retirement shall continue after his reappointment.
+
+**68.** Any appointment or removal of an alternate director shall be by notice to the company signed by the director making or revoking the appointment or in any other manner approved by the directors.
+
+**69.** Save as otherwise provided in the articles, an alternate director shall be deemed for all purposes to be a director and shall alone be responsible for his own acts and defaults and he shall not be deemed to be the agent of the director appointing him.
+
+#### POWERS OF DIRECTORS
+
+**70.** Subject to the provisions of the Act, the memorandum and the articles and to any directions given by special resolution, the business of the company shall be managed by the directors who may exercise all the powers of the company. No alteration of the memorandum or articles and no such direction shall invalidate any prior act of the directors which would have been valid if that alteration had not been made or that direction had not been given. The powers given by this regulation shall not be limited by any special power given to the directors by the articles and a meeting of directors at which a quorum is present may exercise all powers exercisable by the directors.
+
+**71.** The directors may, by power of attorney or otherwise, appoint any person to be the agent of the company for such purposes and on such conditions as they determine, including authority for the agent to delegate all or any of his powers.
+
+#### DELEGATION OF DIRECTORS' POWERS
+
+**72.** The directors may delegate any of their powers to any committee consisting of one or more directors. They may also delegate to any managing director or any director holding any other executive office such of their powers as they consider desirable to be exercised by him. Any such delegation may be made subject to any conditions the directors may impose, and either collaterally with or to the exclusion of their own powers and may be revoked or altered. Subject to any such conditions, the proceedings of a committee with two or more members shall be governed by the articles regulating the proceedings of directors so far as they are capable of applying.
+
+#### APPOINTMENT AND RETIREMENT OF DIRECTORS
+
+**73.**[^key-e42b8f262b342c10c7bfa3fbf1cdfa16] At the first annual general meeting all the directors shall retire from office, and at every subsequent annual general meeting one-third of the directors who are subject to retirement by rotation or, if their number is not three or a multiple of three, the number nearest to one-third shall retire from office; but, if there is only one director who is subject to retirement by rotation, he shall retire. *(affected by repeal, see note)*[^key-e42b8f262b342c10c7bfa3fbf1cdfa16]
+
+**74.** Subject to the provisions of the Act, the directors to retire by rotation shall be those who have been longest in office since their last appointment or reappointment, but as between persons who became or were last reappointed directors on the same day those to retire shall (unless they otherwise agree among themselves) be determined by lot. *(affected by repeal, see note)*[^key-e42b8f262b342c10c7bfa3fbf1cdfa16]
+
+**75.** If the company, at the meeting at which a director retires by rotation, does not fill the vacancy the retiring director shall, if willing to act, be deemed to have been reappointed unless at the meeting it is resolved not to fill the vacancy or unless a resolution for the reappointment of the director is put to the meeting and lost. *(affected by repeal, see note)*[^key-e42b8f262b342c10c7bfa3fbf1cdfa16]
+
+**76.** No person other than a director retiring by rotation *(affected by repeal, see note)*[^key-a016b8e01a2fff9517a97e91a51096ff] shall be appointed or reappointed a director at any general meeting unless—
+
+- (a) he is recommended by the directors; or
+- (b) not less than fourteen nor more than thirty-five clear days before the date appointed for the meeting, notice executed by a member qualified to vote at the meeting has been given to the company of the intention to propose that person for appointment or reappointment stating the particulars which would, if he were so appointed or reappointed, be required to be included in the company's register of directors together with notice executed by that person of his willingness to be appointed or reappointed.
+
+**77.** Not less than seven nor more than twenty-eight clear days before the date appointed for holding a general meeting notice shall be given to all who are entitled to receive notice of the meeting of any person ( other than a director retiring by rotation at the meeting) *(affected by repeal, see note)*[^key-2eb1737c84401147fb063c79332377db] who is recommended by the directors for appointment or reappointment as a director at the meeting or in respect of whom notice has been duly given to the company of the intention to propose him at the meeting for appointment or reappointment as a director. The notice shall give the particulars of that person which would, if he were so appointed or reappointed, be required to be included in the company's register of directors.
+
+**78.** Subject as aforesaid, *(affected by repeal, see note)*[^key-ddbe8e8552c652d1ab4709bcb9198406] the company may by ordinary resolution appoint a person who is willing to act to be a director either to fill a vacancy or as an additional director and may also determine the rotation in which any additional directors are to retire.
+
+**79.** The directors may appoint a person who is willing to act to be a director, either to fill a vacancy or as an additional director, provided that the appointment does not cause the number of directors to exceed any number fixed by or in accordance with the articles as the maximum number of directors. A director so appointed shall hold office only until the next following annual general meeting and shall not be taken into account in determining the directors who are to retire by rotation at the meeting. If not reappointed at such annual general meeting, he shall vacate office at the conclusion thereof. *(affected by repeal, see note)*[^key-ecaaddb0337f9f863a0ac4f1bad71ee1]
+
+**80.**[^key-0b777238067a820b9472f65e2de40b8b] Subject as aforesaid, a director who retires at an annual general meeting may, if willing to act, be reappointed. If he is not reappointed, he shall retain office until the meeting appoints someone in his place, or if it does not do so, until the end of the meeting. *(affected by repeal, see note)*[^key-0b777238067a820b9472f65e2de40b8b]
+
+#### DISQUALIFICATION AND REMOVAL OF DIRECTORS
+
+**81.** The office of a director shall be vacated if—
+
+- (a) he ceases to be a director by virtue of any provision of the Act or he becomes prohibited by law from being a director; or
+- (b) he becomes bankrupt or makes any arrangement or composition with his creditors generally; or
+- (c) he is, or may be, suffering from mental disorder and either—
+  - (i) he is admitted to hospital in pursuance of an application for admission for treatment under the Mental Health Act 1983 or, in Scotland, an application for admission under the Mental Health (Scotland) Act 1960, or
+  - (ii) an order is made by a court having jurisdiction (whether in the United Kingdom or elsewhere) in matters concerning mental disorder for his detention or for the appointment of a receiver, curator bonis or other person to exercise powers with respect to his property or affairs; or
+- (d) he resigns his office by notice to the company; or
+- (e) he shall for more than six consecutive months have been absent without permission of the directors from meetings of directors held during that period and the directors resolve that his office be vacated.
+
+#### REMUNERATION OF DIRECTORS
+
+**82.** The directors shall be entitled to such remuneration as the company may by ordinary resolution determine and, unless the resolution provides otherwise, the remuneration shall be deemed to accrue from day to day.
+
+#### DIRECTORS' EXPENSES
+
+**83.** The directors may be paid all travelling, hotel, and other expenses properly incurred by them in connection with their attendance at meetings of directors or committees of directors or general meetings or separate meetings of the holders of any class of shares or of debentures of the company or otherwise in connection with the discharge of their duties.
+
+#### DIRECTORS' APPOINTMENTS AND INTERESTS
+
+**84.** Subject to the provisions of the Act, the directors may appoint one or more of their number to the office of managing director or to any other executive office under the company and may enter into an agreement or arrangement with any director for his employment by the company or for the provision by him of any services outside the scope of the ordinary duties of a director. Any such appointment, agreement or arrangement may be made upon such terms as the directors determine and they may remunerate any such director for his services as they think fit. Any appointment of a director to an executive office shall terminate if he ceases to be a director but without prejudice to any claim to damages for breach of the contract of service between the director and the company. A managing director and a director holding any other executive office shall not be subject to retirement by rotation.
+
+**85.** Subject to the provisions of the Act, and provided that he has disclosed to the directors the nature and extent of any material interest of his, a director notwithstanding his office—
+
+- (a) may be a party to, or otherwise interested in, any transaction or arrangement with the company or in which the company is otherwise interested;
+- (b) may be a director or other officer of, or employed by, or a party to any transaction or arrangement with, or otherwise interested in, any body corporate promoted by the company or in which the company is otherwise interested; and
+- (c) shall not, by reason of his office, be accountable to the company for any benefit which he derives from any such office or employment or from any such transaction or arrangement or from any interest in any such body corporate and no such transaction or arrangement shall be liable to be avoided on the ground of any such interest or benefit.
+
+**86.** For the purposes of regulation 85—
+
+- (a) a general notice given to the directors that a director is to be regarded as having an interest of the nature and extent specified in the notice in any transaction or arrangement in which a specified person or class of persons is interested shall be deemed to be a disclosure that the director has an interest in any such transaction of the nature and extent so specified; and
+- (b) an interest of which a director has no knowledge and of which it is unreasonable to expect him to have knowledge shall not be treated as an interest of his.
+
+#### DIRECTORS' GRATUITIES AND PENSIONS
+
+**87.** The directors may provide benefits, whether by the payment of gratuities or pensions or by insurance or otherwise, for any director who has held but no longer holds any executive office or employment with the company or with any body corporate which is or has been a subsidiary of the company or a predecessor in business of the company or of any such subsidiary, and for any member of his family (including a spouse and a former spouse) or any person who is or was dependent on him, and may (as well before as after he ceases to hold such office or employment) contribute to any fund and pay premiums for the purchase or provision of any such benefit.
+
+#### PROCEEDINGS OF DIRECTORS
+
+**88.** Subject to the provisions of the articles, the directors may regulate their proceedings as they think fit. A director may, and the secretary at the request of a director shall, call a meeting of the directors. It shall not be necessary to give notice of a meeting to a director who is absent from the United Kingdom. Questions arising at a meeting shall be decided by a majority of votes. In the case of an equality of votes, the chairman shall have a second or casting vote. A director who is also an alternate director shall be entitled in the absence of his appointor to a separate vote on behalf of his appointor in addition to his own vote.
+
+**89.** The quorum for the transaction of the business of the directors may be fixed by the directors and unless so fixed at any other number shall be two. A person who holds office only as an alternate director shall, if his appointor is not present, be counted in the quorum.
+
+**90.** The continuing directors or a sole continuing director may act notwithstanding any vacancies in their number, but, if the number of directors is less than the number fixed as the quorum, the continuing directors or director may act only for the purpose of filling vacancies or of calling a general meeting.
+
+**91.** The directors may appoint one of their number to be the chairman of the board of directors and may at any time remove him from that office. Unless he is unwilling to do so, the director so appointed shall preside at every meeting of directors at which he is present. But if there is no director holding that office, or if the director holding it is unwilling to preside or is not present within five minutes after the time appointed for the meeting, the directors present may appoint one of their number to be chairman of the meeting.
+
+**92.** All acts done by a meeting of directors, or of a committee of directors, or by a person acting as a director shall, notwithstanding that it be afterwards discovered that there was a defect in the appointment of any director or that any of them were disqualified from holding office, or had vacated office, or were not entitled to vote, be as valid as if every such person had been duly appointed and was qualified and had continued to be a director and had been entitled to vote.
+
+**93.** A resolution in writing signed by all the directors entitled to receive notice of a meeting of directors or of a committee of directors shall be as valid and effectual as if it had been passed at a meeting of directors or (as the case may be) a committee of directors duly convened and held and may consist of several documents in the like form each signed by one or more directors; but a resolution signed by an alternate director need not also be signed by his appointor and, if it is signed by a director who has appointed an alternate director, it need not be signed by the alternate director in that capacity.
+
+**94.** Save as otherwise provided by the articles, a director shall not vote at a meeting of directors or of a committee of directors on any resolution concerning a matter in which he has, directly or indirectly, an interest or duty which is material and which conflicts or may conflict with the interests of the company unless his interest or duty arises only because the case falls within one or more of the following paragraphs—
+
+- (a) the resolution relates to the giving to him of a guarantee, security, or indemnity in respect of money lent to, or an obligation incurred by him for the benefit of, the company or any of its subsidiaries;
+- (b) the resolution relates to the giving to a third party of a guarantee, security, or indemnity in respect of an obligation of the company or any of its subsidiaries for which the director has assumed responsibility in whole or part and whether alone or jointly with others under a guarantee or indemnity or by the giving of security;
+- (c) his interest arises by virtue of his subscribing or agreeing to subscribe for any shares, debentures or other securities of the company or any of its subsidiaries, or by virtue of his being, or intending to become, a participant in the underwriting or sub-underwriting of an offer of any such shares, debentures, or other securities by the company or any of its subsidiaries for subscription, purchase or exchange;
+- (d) the resolution relates in any way to a retirement benefits scheme which has been approved, or is conditional upon approval, by the Board of Inland Revenue for taxation purposes.
+
+For the purposes of this regulation, an interest of a person who is, for any purpose of the Act ( excluding any statutory modification thereof not in force when this regulation becomes binding on the company), connected with a director shall be treated as an interest of the director and, in relation to an alternate director, an interest of his appointor shall be treated as an interest of the alternate director without prejudice to any interest which the alternate director has otherwise.
+
+**95.** A director shall not be counted in the quorum present at a meeting in relation to a resolution on which he is not entitled to vote.
+
+**96.** The company may by ordinary resolution suspend or relax to any extent, either generally or in respect of any particular matter, any provision of the articles prohibiting a director from voting at a meeting of directors or of a committee of directors.
+
+**97.** Where proposals are under consideration concerning the appointment of two or more directors to offices or employments with the company or any body corporate in which the company is interested the proposals may be divided and considered in relation to each director separately and (provided he is not for another reason precluded from voting) each of the directors concerned shall be entitled to vote and be counted in the quorum in respect of each resolution except that concerning his own appointment.
+
+**98.** If a question arises at a meeting of directors or of a committee of directors as to the right of a director to vote, the question may, before the conclusion of the meeting, be referred to the chairman of the meeting and his ruling in relation to any director other than himself shall be final and conclusive.
+
+#### SECRETARY
+
+**99.** Subject to the provisions of the Act, the secretary shall be appointed by the directors for such term, at such remuneration and upon such conditions as they may think fit; and any secretary so appointed may be removed by them.
+
+#### MINUTES
+
+**100.** The directors shall cause minutes to be made in books kept for the purpose—
+
+- (a) of all appointments of officers made by the directors; and
+- (b) of all proceedings at meetings of the company, of the holders of any class of shares in the company, and of the directors, and of committees of directors, including the names of the directors present at each such meeting.
+
+#### THE SEAL
+
+**101.** The seal shall only be used by the authority of the directors or of a committee of directors authorised by the directors. The directors may determine who shall sign any instrument to which the seal is affixed and unless otherwise so determined it shall be signed by a director and by the secretary or by a second director.
+
+#### DIVIDENDS
+
+**102.** Subject to the provisions of the Act, the company may by ordinary resolution declare dividends in accordance with the respective rights of the members, but no dividend shall exceed the amount recommended by the directors.
+
+**103.** Subject to the provisions of the Act, the directors may pay interim dividends if it appears to them that they are justified by the profits of the company available for distribution. If the share capital is divided into different classes, the directors may pay interim dividends on shares which confer deferred or non-preferred rights with regard to dividend as well as on shares which confer preferential rights with regard to dividend, but no interim dividend shall be paid on shares carrying deferred or non-preferred rights if, at the time of payment, any preferential dividend is in arrear. The directors may also pay at intervals settled by them any dividend payable at a fixed rate if it appears to them that the profits available for distribution justify the payment. Provided the directors act in good faith they shall not incur any liability to the holders of shares conferring preferred rights for any loss they may suffer by the lawful payment of an interim dividend on any shares having deferred or non-preferred rights.
+
+**104.** Except as otherwise provided by the rights attached to shares, all dividends shall be declared and paid according to the amounts paid up on the shares on which the dividend is paid. All dividends shall be apportioned and paid proportionately to the amounts paid up on the shares during any portion or portions of the period in respect of which the dividend is paid; but, if any share is issued on terms providing that it shall rank for dividend as from a particular date, that share shall rank for dividend accordingly.
+
+**105.** A general meeting declaring a dividend may, upon the recommendation of the directors, direct that it shall be satisfied wholly or partly by the distribution of assets and, where any difficulty arises in regard to the distribution, the directors may settle the same and in particular may issue fractional certificates and fix the value for distribution of any assets and may determine that cash shall be paid to any member upon the footing of the value so fixed in order to adjust the rights of members and may vest any assets in trustees.
+
+**106.** Any dividend or other moneys payable in respect of a share may be paid by cheque sent by post to the registered address of the person entitled or, if two or more persons are the holders of the share or are jointly entitled to it by reason of the death or bankruptcy of the holder, to the registered address of that one of those persons who is first named in the register of members or to such person and to such address as the person or persons entitled may in writing direct. Every cheque shall be made payable to the order of the person or persons entitled or to such other person as the person or persons entitled may in writing direct and payment of the cheque shall be a good discharge to the company. Any joint holder or other person jointly entitled to a share as aforesaid may give receipts for any dividend or other moneys payable in respect of the share.
+
+**107.** No dividend or other moneys payable in respect of a share shall bear interest against the company unless otherwise provided by the rights attached to the share.
+
+**108.** Any dividend which has remained unclaimed for twelve years from the date when it became due for payment shall, if the directors so resolve, be forfeited and cease to remain owing by the company.
+
+#### ACCOUNTS
+
+**109.** No member shall (as such) have any right of inspecting any accounting records or other book or document of the company except as conferred by statute or authorised by the directors or by ordinary resolution of the company.
+
+#### CAPITALISATION OF PROFITS
+
+**110.** The directors may with the authority of an ordinary resolution of the company—
+
+- (a) subject as hereinafter provided, resolve to capitalise any undivided profits of the company not required for paying any preferential dividend (whether or not they are available for distribution) or any sum standing to the credit of the company's share premium account or capital redemption reserve;
+- (b) appropriate the sum resolved to be capitalised to the members who would have been entitled to it if it were distributed by way of dividend and in the same proportions and apply such sum on their behalf either in or towards paying up the amounts, if any, for the time being unpaid on any shares held by them respectively, or in paying up in full unissued shares or debentures of the company of a nominal amount equal to that sum, and allot the shares or debentures credited as fully paid to those members, or as they may direct, in those proportions, or partly in one way and partly in the other: but the share premium account, the capital redemption reserve, and any profits which are not available for distribution may, for the purposes of this regulation, only be applied in paying up unissued shares to be allotted to members credited as fully paid;
+- (c) make such provision by the issue of fractional certificates or by payment in cash or otherwise as they determine in the case of shares or debentures becoming distributable under this regulation in fractions; and
+- (d) authorise any person to enter on behalf of all the members concerned into an agreement with the company providing for the allotment to them respectively, credited as fully paid, of any shares or debentures to which they are entitled upon such capitalisation, any agreement made under such authority being binding on all such members.
+
+#### NOTICES
+
+**111.**[^key-2a8fdf12cf212e8d03b08f533f59ba94] Any notice to be given to or by any person pursuant to the articles (other than a notice calling a meeting of the directors) shall be in writing or shall be given using electronic communications to an address for the time being notified for that purpose to the person giving the notice.
+
+In this regulation, “address”, in relation to electronic communications, includes any number or address used for the purposes of such communications.
+
+**112.** The company may give any notice to a member either personally or by sending it by post in a prepaid envelope addressed to the member at his registered address or by leaving it at that address or by giving it using electronic communications to an address for the time being notified to the company by the member[^key-cb9934a1433b31c484416d7b98661f8e]. In the case of joint holders of a share, all notices shall be given to the joint holder whose name stands first in the register of members in respect of the joint holding and notice so given shall be sufficient notice to all the joint holders. A member whose registered address is not within the United Kingdom and who gives to the company an address within the United Kingdom at which notices may be given to him , or an address to which notices may be sent using electronic communications,[^key-cfc37d78344d6d0808bfd94ea1b93eed] shall be entitled to have notices given to him at that address, but otherwise no such member shall be entitled to receive any notice from the company.
+
+In this regulation and the next, “address”, in relation to electronic communications, includes any number or address used for the purposes of such communications.[^key-6b603d15f99e7b5fd0898b77ad2280dc]
+
+**113.** A member present, either in person or by proxy, at any meeting of the company or of the holders of any class of shares in the company shall be deemed to have received notice of the meeting and, where requisite, of the purposes for which it was called.
+
+**114.** Every person who becomes entitled to a share shall be bound by any notice in respect of that share which, before his name is entered in the register of members, has been duly given to a person from whom he derives his title.
+
+**115.** Proof that an envelope containing a notice was properly addressed, prepaid and posted shall be conclusive evidence that the notice was given. Proof that a notice contained in an electronic communication was sent in accordance with guidance issued by the Institute of Chartered Secretaries and Administrators shall be conclusive evidence that the notice was given.[^key-cd45b69d2db5e031debd01321b0e11a1] A notice shall [^key-cc4b314872a5c0d03674a5ee03065a3d]... be deemed to be given at the expiration of 48 hours after the envelope containing it was posted or, in the case of a notice contained in an electronic communication, at the expiration of 48 hours after the time it was sent[^key-76ed895ed8204fbdadf87c5553a2d4e9].
+
+**116.** A notice may be given by the company to the persons entitled to a share in consequence of the death or bankruptcy of a member by sending or delivering it, in any manner authorised by the articles for the giving of notice to a member, addressed to them by name, or by the title of representatives of the deceased, or trustee of the bankrupt or by any like description at the address, if any, within the United Kingdom supplied for that purpose by the persons claiming to be so entitled. Until such an address has been supplied, a notice may be given in any manner in which it might have been given if the death or bankruptcy had not occurred.
+
+#### WINDING UP
+
+**117.** If the company is wound up, the liquidator may, with the sanction of a special[^key-8e0a0b560bac3ac63725968a0c97fecf] resolution of the company and any other sanction required by the Act, divide among the members in specie the whole or any part of the assets of the company and may, for that purpose, value any assets and determine how the division shall be carried out as between the members or different classes of members. The liquidator may, with the like sanction, vest the whole or any part of the assets in trustees upon such trusts for the benefit of the members as he with the like sanction determines, but no member shall be compelled to accept any assets upon which there is a liability.
+
+#### INDEMNITY
+
+**118.** Subject to the provisions of the Act but without prejudice to any indemnity to which a director may otherwise be entitled, every director or other officer or auditor of the company shall be indemnified out of the assets of the company against any liability incurred by him in defending any proceedings, whether civil or criminal, in which judgment is given in his favour or in which he is acquitted or in connection with any application in which relief is granted to him by the court from liability for negligence, default, breach of duty or breach of trust in relation to the affairs of the company.
+
+### TABLE B — A PRIVATE COMPANY LIMITED BY SHARES
+
+#### MEMORANDUM OF ASSOCIATION
+
+**1.** The company's name is “The South Wales Motor Transport Company cyfyngedig”.
+
+**2.** The company's registered office is to be situated in Wales.
+
+**3.** The company's objects are the carriage of passengers and goods in motor vehicles between such places as the company may from time to time determine and the doing of all such other things as are incidental or conducive to the attainment of that object.
+
+**4.** The liability of the members is limited.
+
+**5.** The company's share capital is £50,000 divided into 50,000 shares of £1 each.
+
+[image: see source](https://www.legislation.gov.uk/uksi/1985/805/images/uksi_19850805_en_003)
+
+### TABLE C — A COMPANY LIMITED BY GUARANTEE AND NOT HAVING A SHARE CAPITAL
+
+#### MEMORANDUM OF ASSOCIATION
+
+**1.** The company's name is “The Dundee School Association Limited”.
+
+**2.** The company's registered office is to be situated in Scotland.
+
+**3.** The company's objects are the carrying on of a school for boys and girls in Dundee and the doing of all such other things as are incidental or conducive to the attainment of that object.
+
+**4.** The liability of the members is limited.
+
+**5.** Every member of the company undertakes to contribute such amount as may be required (not exceeding £100) to the company's assets if it should be wound up while he is a member or within one year after he ceases to be a member, for payment of the company's debts and liabilities contracted before he ceases to be a member, and of the costs, charges and expenses of winding up, and for the adjustment of the rights of the contributories among themselves.
+
+[image: see source](https://www.legislation.gov.uk/uksi/1985/805/images/uksi_19850805_en_004)
+
+#### ARTICLES OF ASSOCIATION
+
+##### PRELIMINARY
+
+**A1.**[^key-b7cd9d8508d36419099901f0005ee80c] References in these Articles to Table A are to that Table so far as it relates to private companies limited by shares.
+
+**1.** Regulations 2 to 35 inclusive, 54, 55, 57, 59, 102 to 108 inclusive, 110, 114, 116 and 117 of Table A, shall not apply to the company but the articles hereinafter contained and, subject to the modifications hereinafter expressed, the remaining regulations of Table A shall constitute the articles of association of the company.
+
+##### INTERPRETATION
+
+**2.** In regulation 1 of Table A, the definition of “the holder” shall be omitted.
+
+##### MEMBERS
+
+**3.** The subscribers to the memorandum of association of the company and such other persons as are admitted to membership in accordance with the articles shall be members of the company. No person shall be admitted a member of the company unless he is approved by the directors. Every person who wishes to become a member shall deliver to the company an application for membership in such form as the directors require executed by him.
+
+**4.** A member may at any time withdraw from the company by giving at least seven clear days' notice to the company. Membership shall not be transferable and shall cease on death.
+
+##### NOTICE OF GENERAL MEETINGS
+
+**5.** In regulation 38 of Table A—
+
+- (a) in paragraph (b) the words “of the total voting rights at the meeting of all the members” shall be substituted for “in nominal value of the shares giving that right” and
+- (b) the words “The notice shall be given to all the members and to the directors and auditors” shall be substituted for the last sentence.
+
+##### PROCEEDINGS AT GENERAL MEETINGS
+
+**6.** The words “and at any separate meeting of the holders of any class of shares in the company” shall be omitted from regulation 44 of Table A.
+
+**7.** Paragraph (d) of regulation 46 of Table A shall be omitted.
+
+##### VOTES OF MEMBERS
+
+**8.** On a show of hands every member present in person shall have one vote. On a poll every member present in person or by proxy shall have one vote.
+
+##### DIRECTORS' EXPENSES
+
+**9.** The words “of any class of shares or” shall be omitted from regulation 83 of Table A.
+
+##### PROCEEDINGS OF DIRECTORS
+
+**10.** In paragraph (c) of regulation 94 of Table A the word “debentures” shall be substituted for the words “shares, debentures or other securities” in both places where they occur.
+
+##### MINUTES
+
+**11.** The words “of the holders of any class of shares in the company” shall be omitted from regulation 100 of Table A.
+
+##### NOTICES
+
+**12.** The second sentence of regulation 112 of Table A shall be omitted.
+
+**13.** The words “or of the holders of any class of shares in the company” shall be omitted from regulation 113 of Table A.
+
+### TABLE D
+
+#### PART I — A PUBLIC COMPANY LIMITED BY GUARANTEE AND HAVING A SHARE CAPITAL
+
+##### MEMORANDUM OF ASSOCIATION
+
+**1.** The company's name is “Gwestai Glyndwr, cwmni cyfyngedig cyhoeddus”.
+
+**2.** The company is to be a public company.
+
+**3.** The company's registered office is to be situated in Wales.
+
+**4.** The company's objects are facilitating travelling in Wales by providing hotels and conveyances by sea and by land for the accommodation of travellers and the doing of all such other things as are incidental or conducive to the attainment of those objects.
+
+**5.** The liability of the members is limited.
+
+**6.** Every member of the company undertakes to contribute such amount as may be required (not exceeding £100) to the company's assets if it should be wound up while he is a member or within one year after he ceases to be a member, for payment of the company's debts and liabilities contracted before he ceases to be a member, and of the costs, charges and expenses of winding up, and for the adjustment of the rights of the contributories among themselves.
+
+**7.** The company's share capital is £50,000 divided into 50,000 shares of £1 each.
+
+[image: see source](https://www.legislation.gov.uk/uksi/1985/805/images/uksi_19850805_en_005)
+
+#### PART II — A PRIVATE COMPANY LIMITED BY GUARANTEE AND HAVING A SHARE CAPITAL
+
+##### MEMORANDUM OF ASSOCIATION
+
+**1.** The company's name is “The Highland Hotel Company Limited”.
+
+**2.** The company's registered office is to be situated in Scotland.
+
+**3.** The company's objects are facilitating travelling in the Highlands of Scotland by providing hotels and conveyances by sea and by land for the accommodation of travellers and the doing of all such other things as are incidental or conducive to the attainment of those objects.
+
+**4.** The liability of the members is limited.
+
+**5.** Every member of the company undertakes to contribute such amount as may be required (not exceeding £100) to the company's assets if it should be wound up while he is a member or within one year after he ceases to be a member, for payment of the company's debts and liabilities contracted before he ceases to be a member, and of the costs, charges and expenses of winding up, and for the adjustment of the rights of the contributories among themselves.
+
+**6.** The company's share capital is £50,000 divided into 50,000 shares of £1 each.
+
+[image: see source](https://www.legislation.gov.uk/uksi/1985/805/images/uksi_19850805_en_006)
+
+#### PART III — A COMPANY (PUBLIC OR PRIVATE) LIMITED BY GUARANTEE AND HAYING A SHARE CAPITAL
+
+##### ARTICLES OF ASSOCIATION
+
+The regulations of Table A shall constitute the articles of association of the company.
+
+### TABLE E — AN UNLIMITED COMPANY HAYING A SHARE CAPITAL
+
+#### MEMORANDUM OF ASSOCIATION
+
+**1.** The company's name is “The Woodford Engineering Company”.
+
+**2.** The company's registered office is to be situated in England and Wales.
+
+**3.** The company's objects are the working of certain patented inventions relating to the application of microchip technology to the improvement of food processing, and the doing of all such other things as are incidental or conducive to the attainment of that object.
+
+[image: see source](https://www.legislation.gov.uk/uksi/1985/805/images/uksi_19850805_en_007)
+
+#### ARTICLES OF ASSOCIATION
+
+**1.** Regulations 3, 32, 34 and 35 of Table A shall not apply to the company, but the articles hereinafter contained and, subject to the modification hereinafter expressed, the remaining regulations of Table A shall constitute the articles of association of the company.
+
+**2.** The words "at least seven clear days' notice“shall be substituted for the words ”at least fourteen clear days' notice" in regulation 38 of Table A.
+
+**3.** The share capital of the company is £20,000 divided into 20,000 shares of £1 each.
+
+**4.** The company may by special resolution—
+
+- (a) increase the share capital by such sum to be divided into shares of such amount as the resolution may prescribe;
+- (b) consolidate and divide all or any of its share capital into shares of a larger amount than its existing shares;
+- (c) subdivide its shares, or any of them, into shares of a smaller amount than its existing shares;
+- (d) cancel any shares which at the date of the passing of the resolution have not been taken or agreed to be taken by any person;
+- (e) reduce its share capital and any share premium account in any way.
+
+### TABLE F — A PUBLIC COMPANY LIMITED BY SHARES
+
+#### MEMORANDUM OF ASSOCIATION
+
+**1.** The company's name is “Western Electronics Public Limited Company”.
+
+**2.** The company is to be a public company.
+
+**3.** The company's registered office is to be situated in England and Wales.
+
+**4.** The company's objects are the manufacture and development of such descriptions of electronic equipment, instruments and appliances as the company may from time to time determine, and the doing of all such other things as are incidental or conducive to the attainment of that object.
+
+**5.** The liability of the members is limited.
+
+**6.** The company's share capital is £5,000,000 divided into 5,000,000 shares of £1 each.
+
+[image: see source](https://www.legislation.gov.uk/uksi/1985/805/images/uksi_19850805_en_008)
+
+## Annotations
+
+[^key-d95a5c15533f806fa9dcf0d7842f9cd3]: Commencement: [Sch.](https://www.legislation.gov.uk/uksi/1985/805/schedule) in force at 1.7.1985, see [reg. 1](https://www.legislation.gov.uk/uksi/1985/805/regulation/1)
+
+[^key-bd078f8c9439d3c2dcc3461b2d708aaa]: Textual amendment: Words in Sch. Table A reg. 1 substituted (1.10.2007) by virtue of [The Companies (Tables A to F) (Amendment) Regulations 2007 (S.I. 2007/2541)](https://www.legislation.gov.uk/uksi/2007/2541), [regs. 1](https://www.legislation.gov.uk/uksi/2007/2541/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2007/2541/regulation/3/2)
+
+[^key-9e7ac184772584b388fd88fb39295536]: Textual amendment: Words in Sch. Table A reg. 1 inserted (22.12.2000) by [The Companies Act 1985 (Electronic Communications) Order 2000 (S.I. 2000/3373)](https://www.legislation.gov.uk/uksi/2000/3373), [art. 1(1)](https://www.legislation.gov.uk/uksi/2000/3373/article/1/1), [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2000/3373/schedule/1/paragraph/1)
+
+[^key-8d80c8ba1ac8505dc663a393e3e598b2]: Textual amendment: Word in Sch. Table A reg. 4 substituted (1.8.1985) by [The Companies (Tables A to F) (Amendment) Regulations 1985 (S.I. 1985/1052)](https://www.legislation.gov.uk/uksi/1985/1052), [regs. 1](https://www.legislation.gov.uk/uksi/1985/1052/regulation/1), [2(a)](https://www.legislation.gov.uk/uksi/1985/1052/regulation/2/a)
+
+[^key-f0c69e7a6d68919240217099017bf2fb]: Textual amendment: Sch. Table A reg. 36 ceases to have effect (1.10.2007) by virtue of [The Companies (Tables A to F) (Amendment) Regulations 2007 (S.I. 2007/2541)](https://www.legislation.gov.uk/uksi/2007/2541), [regs. 1](https://www.legislation.gov.uk/uksi/2007/2541/regulation/1), [4](https://www.legislation.gov.uk/uksi/2007/2541/regulation/4)
+
+[^key-bc0fe1f9b8a17cc54be55fd3e2022665]: Textual amendment: Words in Sch. Table A reg. 37 substituted (1.10.2007) by virtue of [The Companies (Tables A to F) (Amendment) Regulations 2007 (S.I. 2007/2541)](https://www.legislation.gov.uk/uksi/2007/2541), [regs. 1](https://www.legislation.gov.uk/uksi/2007/2541/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2007/2541/regulation/5/2)
+
+[^key-4faa7f959816a44bf0780e1c7fd67916]: Textual amendment: Words in Sch. Table A reg. 37 substituted (1.10.2007) by virtue of [The Companies (Tables A to F) (Amendment) Regulations 2007 (S.I. 2007/2541)](https://www.legislation.gov.uk/uksi/2007/2541), [regs. 1](https://www.legislation.gov.uk/uksi/2007/2541/regulation/1), [5(3)](https://www.legislation.gov.uk/uksi/2007/2541/regulation/5/3)
+
+[^key-662d58affcefe3061cd10320fee5e9c2]: Textual amendment: Words in Sch. Table A reg. 38 omitted (1.10.2007 but only so far as it relates to private companies limited by shares) by virtue of [The Companies (Tables A to F) (Amendment) Regulations 2007 (S.I. 2007/2541)](https://www.legislation.gov.uk/uksi/2007/2541), [regs. 1](https://www.legislation.gov.uk/uksi/2007/2541/regulation/1), [9(2)](https://www.legislation.gov.uk/uksi/2007/2541/regulation/9/2) (with [reg. 8](https://www.legislation.gov.uk/uksi/2007/2541/regulation/8))
+
+[^key-68a59a101ca0e87ccc1485e9bb882491]: Textual amendment: Words in Sch. Table A reg. 38 omitted (1.10.2007 but only so far as it relates to public companies limited by shares) by virtue of [The Companies (Tables A to F) (Amendment) Regulations 2007 (S.I. 2007/2541)](https://www.legislation.gov.uk/uksi/2007/2541), [regs. 1](https://www.legislation.gov.uk/uksi/2007/2541/regulation/1), [20(2)](https://www.legislation.gov.uk/uksi/2007/2541/regulation/20/2) (with [reg. 19](https://www.legislation.gov.uk/uksi/2007/2541/regulation/19))
+
+[^key-ba4a9c5891633f22b958cfeecb845078]: Textual amendment: Word in Sch. Table A reg. 38 omitted (1.10.2007 but only so far as it relates to public companies limited by shares) by virtue of [The Companies (Tables A to F) (Amendment) Regulations 2007 (S.I. 2007/2541)](https://www.legislation.gov.uk/uksi/2007/2541), [regs. 1](https://www.legislation.gov.uk/uksi/2007/2541/regulation/1), [20(3)](https://www.legislation.gov.uk/uksi/2007/2541/regulation/20/3) (with [reg. 19](https://www.legislation.gov.uk/uksi/2007/2541/regulation/19))
+
+[^key-22f5dc58fbe45df1340c7a66eb3b99e6]: Textual amendment: Sch. Table A reg. 38(a) omitted (1.10.2007 but only so far as it relates to private companies limited by shares) by virtue of [The Companies (Tables A to F) (Amendment) Regulations 2007 (S.I. 2007/2541)](https://www.legislation.gov.uk/uksi/2007/2541), [regs. 1](https://www.legislation.gov.uk/uksi/2007/2541/regulation/1), [9(3)](https://www.legislation.gov.uk/uksi/2007/2541/regulation/9/3) (with [reg. 8](https://www.legislation.gov.uk/uksi/2007/2541/regulation/8))
+
+[^key-bb4c2f53fcc21f0b079f571b15cd6fc4]: Textual amendment: Words in Sch. Table A reg. 38(b) omitted (1.10.2007 but only so far as it relates to private companies limited by shares) by virtue of [The Companies (Tables A to F) (Amendment) Regulations 2007 (S.I. 2007/2541)](https://www.legislation.gov.uk/uksi/2007/2541), [regs. 1](https://www.legislation.gov.uk/uksi/2007/2541/regulation/1), [9(4)](https://www.legislation.gov.uk/uksi/2007/2541/regulation/9/4) (with [reg. 8](https://www.legislation.gov.uk/uksi/2007/2541/regulation/8))
+
+[^key-a7cf15156269f962a24dd83c781553a1]: Textual amendment: Words in Sch. Table A reg. 38 omitted (1.10.2007 but only so far as it relates to private companies limited by shares) by virtue of [The Companies (Tables A to F) (Amendment) Regulations 2007 (S.I. 2007/2541)](https://www.legislation.gov.uk/uksi/2007/2541), [regs. 1](https://www.legislation.gov.uk/uksi/2007/2541/regulation/1), [9(5)](https://www.legislation.gov.uk/uksi/2007/2541/regulation/9/5) (with [reg. 8](https://www.legislation.gov.uk/uksi/2007/2541/regulation/8))
+
+[^key-54523ee82ad0bd9e640224582361297a]: Textual amendment: Words in Sch. Table A reg. 40 inserted (1.10.2007 but only so far as it relates to private companies limited by shares) by [The Companies (Tables A to F) (Amendment) Regulations 2007 (S.I. 2007/2541)](https://www.legislation.gov.uk/uksi/2007/2541), [regs. 1](https://www.legislation.gov.uk/uksi/2007/2541/regulation/1), [10(2)](https://www.legislation.gov.uk/uksi/2007/2541/regulation/10/2) (with [reg. 8](https://www.legislation.gov.uk/uksi/2007/2541/regulation/8))
+
+[^key-2ab48d80b826a1cd0c5add458add664e]: Textual amendment: Word in Sch. Table A reg. 41 inserted (1.8.1985) by [The Companies (Tables A to F) (Amendment) Regulations 1985 (S.I. 1985/1052)](https://www.legislation.gov.uk/uksi/1985/1052), [regs. 1](https://www.legislation.gov.uk/uksi/1985/1052/regulation/1), [2(b)](https://www.legislation.gov.uk/uksi/1985/1052/regulation/2/b)
+
+[^key-a56c3abada597a4d4284f07eb11f5d72]: Textual amendment: Sch. Table A reg. 50 ceases to have effect (1.10.2007) by virtue of [The Companies (Tables A to F) (Amendment) (No. 2) Regulations 2007 (S.I. 2007/2826)](https://www.legislation.gov.uk/uksi/2007/2826), [regs. 1](https://www.legislation.gov.uk/uksi/2007/2826/regulation/1), [3](https://www.legislation.gov.uk/uksi/2007/2826/regulation/3)
+
+[^key-43d228e5a5743b541fee05e0d60a1052]: Textual amendment: Sch. Table A reg. 53 ceases to have effect (1.10.2007) by virtue of [The Companies (Tables A to F) (Amendment) Regulations 2007 (S.I. 2007/2541)](https://www.legislation.gov.uk/uksi/2007/2541), [regs. 1](https://www.legislation.gov.uk/uksi/2007/2541/regulation/1), [6](https://www.legislation.gov.uk/uksi/2007/2541/regulation/6)
+
+[^key-ea948f9cc55b4c13b66e7a6638b02495]: Textual amendment: Words in Sch. Table A reg. 54 inserted (1.10.2007) by [The Companies (Tables A to F) (Amendment) (No. 2) Regulations 2007 (S.I. 2007/2826)](https://www.legislation.gov.uk/uksi/2007/2826), [regs. 1](https://www.legislation.gov.uk/uksi/2007/2826/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/2007/2826/regulation/4/2)
+
+[^key-7aab79eb4bf7dacc38f8ed2eaee1fe88]: Textual amendment: Words in Sch. Table A reg. 54 inserted (1.10.2007) by [The Companies (Tables A to F) (Amendment) (No. 2) Regulations 2007 (S.I. 2007/2826)](https://www.legislation.gov.uk/uksi/2007/2826), [regs. 1](https://www.legislation.gov.uk/uksi/2007/2826/regulation/1), [4(3)](https://www.legislation.gov.uk/uksi/2007/2826/regulation/4/3)
+
+[^key-776fbe44545232bf4a5d51dab5155962]: Textual amendment: Words in Sch. Table A reg. 54 substituted (1.10.2007) by virtue of [The Companies (Tables A to F) (Amendment) (No. 2) Regulations 2007 (S.I. 2007/2826)](https://www.legislation.gov.uk/uksi/2007/2826), [regs. 1](https://www.legislation.gov.uk/uksi/2007/2826/regulation/1), [4(4)](https://www.legislation.gov.uk/uksi/2007/2826/regulation/4/4)
+
+[^key-b03c4883c5c6521156c9d384dc8c969a]: Textual amendment: Words in Sch. Table A reg. 60 substituted (22.12.2000) by [The Companies Act 1985 (Electronic Communications) Order 2000 (S.I. 2000/3373)](https://www.legislation.gov.uk/uksi/2000/3373), [art. 1(1)](https://www.legislation.gov.uk/uksi/2000/3373/article/1/1), [Sch. 1 para. 2(2)](https://www.legislation.gov.uk/uksi/2000/3373/schedule/1/paragraph/2/2)
+
+[^M_F_eba67608-64ec-416b-f76d-d673a720577e]: Textual amendment: Words in Sch. Table A reg. 60 omitted (22.12.2000) by virtue of [The Companies Act 1985 (Electronic Communications) Order 2000 (S.I. 2000/3373)](https://www.legislation.gov.uk/uksi/2000/3373), [art. 1](https://www.legislation.gov.uk/uksi/2000/3373/article/1), [Sch. 1 para. 2(2)](https://www.legislation.gov.uk/uksi/2000/3373/schedule/1/paragraph/2/2)
+
+[^key-9ca6d0b36ad40acda6ba8d4f670670ae]: Textual amendment: Sch. Table A reg. 60 Form: after the words “our behalf at the” the words “annual/extraordinary” are omitted (1.10.2007 but only so far as it relates to private companies limited by shares) by virtue of [The Companies (Tables A to F) (Amendment) Regulations 2007 (S.I. 2007/2541)](https://www.legislation.gov.uk/uksi/2007/2541), [regs. 1](https://www.legislation.gov.uk/uksi/2007/2541/regulation/1), [11(2)](https://www.legislation.gov.uk/uksi/2007/2541/regulation/11/2) (with [reg. 8](https://www.legislation.gov.uk/uksi/2007/2541/regulation/8))
+
+[^key-41748b0e6f1c7435eeec3a38feb12814]: Textual amendment: Sch. Table A reg. 60 Form: after the words “our behalf at the annual/” the word “extraordinary” is omitted and the words “any other” are inserted (1.10.2007 but only so far as it relates to public companies limited by shares) by virtue of [The Companies (Tables A to F) (Amendment) Regulations 2007 (S.I. 2007/2541)](https://www.legislation.gov.uk/uksi/2007/2541), [regs. 1](https://www.legislation.gov.uk/uksi/2007/2541/regulation/1), [21(2)](https://www.legislation.gov.uk/uksi/2007/2541/regulation/21/2) (with [reg. 19](https://www.legislation.gov.uk/uksi/2007/2541/regulation/19))
+
+[^key-86e783b24ee962578616575a7e1ae06e]: Textual amendment: Words in Sch. Table A reg. 61 substituted (22.12.2000) by [The Companies Act 1985 (Electronic Communications) Order 2000 (S.I. 2000/3373)](https://www.legislation.gov.uk/uksi/2000/3373), [art. 1(1)](https://www.legislation.gov.uk/uksi/2000/3373/article/1/1), [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2000/3373/schedule/1/paragraph/3)
+
+[^key-2f2bfe4ec6db4a06580f7d0e188422d8]: Textual amendment: Sch. Table A reg. 61 Form: after the words “our behalf at the” the words “annual/extraordinary” are omitted (1.10.2007 but only so far as it relates to private companies limited by shares) by virtue of [The Companies (Tables A to F) (Amendment) Regulations 2007 (S.I. 2007/2541)](https://www.legislation.gov.uk/uksi/2007/2541), [regs. 1](https://www.legislation.gov.uk/uksi/2007/2541/regulation/1), [12(2)](https://www.legislation.gov.uk/uksi/2007/2541/regulation/12/2) (with [reg. 8](https://www.legislation.gov.uk/uksi/2007/2541/regulation/8))
+
+[^key-2927f4f6e0830c7b75c328e1f3a07b2c]: Textual amendment: Sch. Table A reg. 61 Form: after the words “our behalf at the annual/” the word “extraordinary” is omitted and the words “any other” are inserted (1.10.2007 but only so far as it relates to public companies limited by shares) by virtue of [The Companies (Tables A to F) (Amendment) Regulations 2007 (S.I. 2007/2541)](https://www.legislation.gov.uk/uksi/2007/2541), [regs. 1](https://www.legislation.gov.uk/uksi/2007/2541/regulation/1), [22(2)](https://www.legislation.gov.uk/uksi/2007/2541/regulation/22/2) (with [reg. 19](https://www.legislation.gov.uk/uksi/2007/2541/regulation/19))
+
+[^key-51111c4b8fce143aefd35f27526c5183]: Textual amendment: Words in Sch. Table A reg. 62 substituted (22.12.2000) by [The Companies Act 1985 (Electronic Communications) Order 2000 (S.I. 2000/3373)](https://www.legislation.gov.uk/uksi/2000/3373), [art. 1(1)](https://www.legislation.gov.uk/uksi/2000/3373/article/1/1), [Sch. 1 para. 4(2)](https://www.legislation.gov.uk/uksi/2000/3373/schedule/1/paragraph/4/2)
+
+[^key-e6b1b83a4b81d7dde3ca0daac381597c]: Textual amendment: Words in Sch. Table A reg. 62(a) inserted (22.12.2000) by [The Companies Act 1985 (Electronic Communications) Order 2000 (S.I. 2000/3373)](https://www.legislation.gov.uk/uksi/2000/3373), [art. 1(1)](https://www.legislation.gov.uk/uksi/2000/3373/article/1/1), [Sch. 1 para. 4(3)](https://www.legislation.gov.uk/uksi/2000/3373/schedule/1/paragraph/4/3)
+
+[^key-13e41fa473030d91aa0b5ea39af66c3d]: Textual amendment: Sch. Table A reg. 62(aa) inserted (22.12.2000) by [The Companies Act 1985 (Electronic Communications) Order 2000 (S.I. 2000/3373)](https://www.legislation.gov.uk/uksi/2000/3373), [art. 1(1)](https://www.legislation.gov.uk/uksi/2000/3373/article/1/1), [Sch. 1 para. 4(4)](https://www.legislation.gov.uk/uksi/2000/3373/schedule/1/paragraph/4/4)
+
+[^key-31f975f4b5c5e2d331dae849dd2e911b]: Textual amendment: Words in Sch. Table A reg. 62(b) inserted (22.12.2000) by [The Companies Act 1985 (Electronic Communications) Order 2000 (S.I. 2000/3373)](https://www.legislation.gov.uk/uksi/2000/3373), [art. 1(1)](https://www.legislation.gov.uk/uksi/2000/3373/article/1/1), [Sch. 1 para. 4(5)](https://www.legislation.gov.uk/uksi/2000/3373/schedule/1/paragraph/4/5)
+
+[^key-b9b5565ee14bd2036d37392c82f5259c]: Textual amendment: Words in Sch. Table A reg. 62 substituted (22.12.2000) by [The Companies Act 1985 (Electronic Communications) Order 2000 (S.I. 2000/3373)](https://www.legislation.gov.uk/uksi/2000/3373), [art. 1(1)](https://www.legislation.gov.uk/uksi/2000/3373/article/1/1), [Sch. 1 para. 4(6)](https://www.legislation.gov.uk/uksi/2000/3373/schedule/1/paragraph/4/6)
+
+[^key-577d33929f4cb5bc289675945408ce9d]: Textual amendment: Words in Sch. Table A reg. 62 inserted (22.12.2000) by [The Companies Act 1985 (Electronic Communications) Order 2000 (S.I. 2000/3373)](https://www.legislation.gov.uk/uksi/2000/3373), [art. 1(1)](https://www.legislation.gov.uk/uksi/2000/3373/article/1/1), [Sch. 1 para. 4(7)](https://www.legislation.gov.uk/uksi/2000/3373/schedule/1/paragraph/4/7)
+
+[^key-852abadc4aaa08ccd4b7be8a92937d50]: Textual amendment: Words in Sch. Table A reg. 63 inserted (22.12.2000) by [The Companies Act 1985 (Electronic Communications) Order 2000 (S.I. 2000/3373)](https://www.legislation.gov.uk/uksi/2000/3373), [art. 1(1)](https://www.legislation.gov.uk/uksi/2000/3373/article/1/1), [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2000/3373/schedule/1/paragraph/5)
+
+[^key-e42b8f262b342c10c7bfa3fbf1cdfa16]: Textual amendment: Sch. Table A regs. 73-75 cease to have effect (1.10.2007 but only so far as it relates to private companies limited by shares) by virtue of [The Companies (Tables A to F) (Amendment) Regulations 2007 (S.I. 2007/2541)](https://www.legislation.gov.uk/uksi/2007/2541), [regs. 1](https://www.legislation.gov.uk/uksi/2007/2541/regulation/1), [13](https://www.legislation.gov.uk/uksi/2007/2541/regulation/13) (with [reg. 8](https://www.legislation.gov.uk/uksi/2007/2541/regulation/8))
+
+[^key-a016b8e01a2fff9517a97e91a51096ff]: Textual amendment: Words in Sch. Table A reg. 76 omitted (1.10.2007 but only so far as it relates to private companies limited by shares) by virtue of [The Companies (Tables A to F) (Amendment) Regulations 2007 (S.I. 2007/2541)](https://www.legislation.gov.uk/uksi/2007/2541), [regs. 1](https://www.legislation.gov.uk/uksi/2007/2541/regulation/1), [14(2)](https://www.legislation.gov.uk/uksi/2007/2541/regulation/14/2) (with [reg. 8](https://www.legislation.gov.uk/uksi/2007/2541/regulation/8))
+
+[^key-2eb1737c84401147fb063c79332377db]: Textual amendment: Words in Sch. Table A reg. 77 omitted (1.10.2007 but only so far as it relates to private companies limited by shares) by virtue of [The Companies (Tables A to F) (Amendment) Regulations 2007 (S.I. 2007/2541)](https://www.legislation.gov.uk/uksi/2007/2541), [regs. 1](https://www.legislation.gov.uk/uksi/2007/2541/regulation/1), [15(2)](https://www.legislation.gov.uk/uksi/2007/2541/regulation/15/2) (with [reg. 8](https://www.legislation.gov.uk/uksi/2007/2541/regulation/8))
+
+[^key-ddbe8e8552c652d1ab4709bcb9198406]: Textual amendment: Words in Sch. Table A reg. 78 omitted (1.10.2007 but only so far as it relates to private companies limited by shares) by virtue of [The Companies (Tables A to F) (Amendment) Regulations 2007 (S.I. 2007/2541)](https://www.legislation.gov.uk/uksi/2007/2541), [regs. 1](https://www.legislation.gov.uk/uksi/2007/2541/regulation/1), [16(2)](https://www.legislation.gov.uk/uksi/2007/2541/regulation/16/2) (with [reg. 8](https://www.legislation.gov.uk/uksi/2007/2541/regulation/8))
+
+[^key-ecaaddb0337f9f863a0ac4f1bad71ee1]: Textual amendment: Words in Sch. Table A reg. 79 omitted (1.10.2007 but only so far as it relates to private companies limited by shares) by virtue of [The Companies (Tables A to F) (Amendment) Regulations 2007 (S.I. 2007/2541)](https://www.legislation.gov.uk/uksi/2007/2541), [regs. 1](https://www.legislation.gov.uk/uksi/2007/2541/regulation/1), [17(2)](https://www.legislation.gov.uk/uksi/2007/2541/regulation/17/2) (with [reg. 8](https://www.legislation.gov.uk/uksi/2007/2541/regulation/8))
+
+[^key-0b777238067a820b9472f65e2de40b8b]: Textual amendment: Sch. Table A reg. 80 ceases to have effect (1.10.2007 but only so far as it relates to private companies limited by shares) by virtue of [The Companies (Tables A to F) (Amendment) Regulations 2007 (S.I. 2007/2541)](https://www.legislation.gov.uk/uksi/2007/2541), [regs. 1](https://www.legislation.gov.uk/uksi/2007/2541/regulation/1), [18](https://www.legislation.gov.uk/uksi/2007/2541/regulation/18) (with [reg. 8](https://www.legislation.gov.uk/uksi/2007/2541/regulation/8))
+
+[^key-2a8fdf12cf212e8d03b08f533f59ba94]: Textual amendment: Sch. Table A reg. 111 substituted (22.12.2000) by [The Companies Act 1985 (Electronic Communications) Order 2000 (S.I. 2000/3373)](https://www.legislation.gov.uk/uksi/2000/3373), [art. 1(1)](https://www.legislation.gov.uk/uksi/2000/3373/article/1/1), [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2000/3373/schedule/1/paragraph/6)
+
+[^key-cb9934a1433b31c484416d7b98661f8e]: Textual amendment: Words in Sch. Table A reg. 112 inserted (22.12.2000) by [The Companies Act 1985 (Electronic Communications) Order 2000 (S.I. 2000/3373)](https://www.legislation.gov.uk/uksi/2000/3373), [art. 1(1)](https://www.legislation.gov.uk/uksi/2000/3373/article/1/1), [Sch. 1 para. 7(a)](https://www.legislation.gov.uk/uksi/2000/3373/schedule/1/paragraph/7/a)
+
+[^key-cfc37d78344d6d0808bfd94ea1b93eed]: Textual amendment: Words in Sch. Table A reg. 112 inserted (22.12.2000) by [The Companies Act 1985 (Electronic Communications) Order 2000 (S.I. 2000/3373)](https://www.legislation.gov.uk/uksi/2000/3373), [art. 1(1)](https://www.legislation.gov.uk/uksi/2000/3373/article/1/1), [Sch. 1 para. 7(b)](https://www.legislation.gov.uk/uksi/2000/3373/schedule/1/paragraph/7/b)
+
+[^key-6b603d15f99e7b5fd0898b77ad2280dc]: Textual amendment: Words in Sch. Table A reg. 112 inserted (22.12.2000) by [The Companies Act 1985 (Electronic Communications) Order 2000 (S.I. 2000/3373)](https://www.legislation.gov.uk/uksi/2000/3373), [art. 1(1)](https://www.legislation.gov.uk/uksi/2000/3373/article/1/1), [Sch. 1 para. 7(c)](https://www.legislation.gov.uk/uksi/2000/3373/schedule/1/paragraph/7/c)
+
+[^key-cd45b69d2db5e031debd01321b0e11a1]: Textual amendment: Words in Sch. Table A reg. 115 inserted (22.12.2000) by [The Companies Act 1985 (Electronic Communications) Order 2000 (S.I. 2000/3373)](https://www.legislation.gov.uk/uksi/2000/3373), [art. 1(1)](https://www.legislation.gov.uk/uksi/2000/3373/article/1/1), [Sch. 1 para. 8(2)](https://www.legislation.gov.uk/uksi/2000/3373/schedule/1/paragraph/8/2)
+
+[^key-cc4b314872a5c0d03674a5ee03065a3d]: Textual amendment: Words in Sch. Table A reg. 115 revoked (1.8.1985) by [The Companies (Tables A to F) (Amendment) Regulations 1985 (S.I. 1985/1052)](https://www.legislation.gov.uk/uksi/1985/1052), [regs. 1](https://www.legislation.gov.uk/uksi/1985/1052/regulation/1), [2(c)](https://www.legislation.gov.uk/uksi/1985/1052/regulation/2/c)
+
+[^key-76ed895ed8204fbdadf87c5553a2d4e9]: Textual amendment: Words in Sch. Table A reg. 115 inserted (22.12.2000) by [The Companies Act 1985 (Electronic Communications) Order 2000 (S.I. 2000/3373)](https://www.legislation.gov.uk/uksi/2000/3373), [art. 1(1)](https://www.legislation.gov.uk/uksi/2000/3373/article/1/1), [Sch. 1 para. 8(3)](https://www.legislation.gov.uk/uksi/2000/3373/schedule/1/paragraph/8/3)
+
+[^key-8e0a0b560bac3ac63725968a0c97fecf]: Textual amendment: Words in Sch. Table A reg. 117 substituted (1.10.2007) by [The Companies (Tables A to F) (Amendment) Regulations 2007 (S.I. 2007/2541)](https://www.legislation.gov.uk/uksi/2007/2541), [regs. 1](https://www.legislation.gov.uk/uksi/2007/2541/regulation/1), [7(2)](https://www.legislation.gov.uk/uksi/2007/2541/regulation/7/2)
+
+[^key-b7cd9d8508d36419099901f0005ee80c]: Textual amendment: Sch. Table C art. A1 inserted (1.10.2007) by [The Companies (Tables A to F) (Amendment) Regulations 2007 (S.I. 2007/2541)](https://www.legislation.gov.uk/uksi/2007/2541), [regs. 1](https://www.legislation.gov.uk/uksi/2007/2541/regulation/1), [23](https://www.legislation.gov.uk/uksi/2007/2541/regulation/23)

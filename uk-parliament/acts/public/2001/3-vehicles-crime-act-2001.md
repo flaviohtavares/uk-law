@@ -1,0 +1,972 @@
+---
+title: Vehicles (Crime) Act 2001
+id: ukpga/2001/3
+type: UnitedKingdomPublicGeneralAct
+category: primary
+status: revised-with-pending-changes
+made_date: '2001-04-10'
+text_date: '2018-07-19'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2001/3
+pdf_urls:
+- http://www.legislation.gov.uk/ukpga/2001/3/pdfs/ukpgaen_20010003_en.pdf
+- http://www.legislation.gov.uk/ukpga/2001/3/pdfs/ukpga_20010003_en.pdf
+- http://www.legislation.gov.uk/ukpga/2001/3/data.pdf
+pending_changes: 2
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Vehicles (Crime) Act 2001
+
+> **Warning: changes not yet applied to this text (2).** Text as at 2018-07-19. See https://www.legislation.gov.uk/changes/affected/ukpga/2001/3
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+Vehicles (Crime) Act 2001
+
+2001 c. 3
+
+An Act to regulate motor salvage operators and registration plate suppliers; to make further provision for preventing or detecting vehicle crime; to enable the Secretary of State to make payments in respect of certain expenditure relating to vehicle crime; and for connected purposes.
+
+\[10th April 2001\]
+
+Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
+
+## Part 1 — REGULATION OF MOTOR SALVAGE OPERATORS[^key-7fc665d292f6f8b58974b28ba261a95e]
+
+*Extent: E+W*
+
+### Registration[^key-7fc665d292f6f8b58974b28ba261a95e]
+
+#### 1. Requirement of registration for motor salvage operators[^key-7fc665d292f6f8b58974b28ba261a95e][^key-7fc665d292f6f8b58974b28ba261a95e]
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 2. Registers of motor salvage operators[^key-7fc665d292f6f8b58974b28ba261a95e][^key-7fc665d292f6f8b58974b28ba261a95e]
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 3. Applications for registration and renewal of registration[^key-7fc665d292f6f8b58974b28ba261a95e][^key-7fc665d292f6f8b58974b28ba261a95e]
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 4. Cancellation of registration[^key-7fc665d292f6f8b58974b28ba261a95e][^key-7fc665d292f6f8b58974b28ba261a95e]
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 5. Right to make representations[^key-7fc665d292f6f8b58974b28ba261a95e][^key-7fc665d292f6f8b58974b28ba261a95e]
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 6. Appeals[^key-7fc665d292f6f8b58974b28ba261a95e][^key-7fc665d292f6f8b58974b28ba261a95e]
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Keeping of records et ceteralaetc.[^key-7fc665d292f6f8b58974b28ba261a95e]
+
+#### 7. Keeping of records[^key-7fc665d292f6f8b58974b28ba261a95e][^key-7fc665d292f6f8b58974b28ba261a95e]
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 8. Notification of destruction of motor vehicles[^key-7fc665d292f6f8b58974b28ba261a95e][^key-7fc665d292f6f8b58974b28ba261a95e]
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Supplementary provisions and offences[^key-7fc665d292f6f8b58974b28ba261a95e]
+
+#### 9. Rights to enter and inspect premises[^key-7fc665d292f6f8b58974b28ba261a95e][^key-7fc665d292f6f8b58974b28ba261a95e]
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 10. Offence of making false statements[^key-7fc665d292f6f8b58974b28ba261a95e][^key-7fc665d292f6f8b58974b28ba261a95e]
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 11. Notification requirements[^key-7fc665d292f6f8b58974b28ba261a95e][^key-7fc665d292f6f8b58974b28ba261a95e]
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 12. Offence of giving false particulars on sale for salvage[^key-7fc665d292f6f8b58974b28ba261a95e][^key-7fc665d292f6f8b58974b28ba261a95e]
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### General[^key-7fc665d292f6f8b58974b28ba261a95e]
+
+#### 13. Application of “fit and proper” test to companies et ceteralaetc.[^key-7fc665d292f6f8b58974b28ba261a95e][^key-7fc665d292f6f8b58974b28ba261a95e]
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 14. Proceedings for offences under Part 1[^key-7fc665d292f6f8b58974b28ba261a95e][^key-7fc665d292f6f8b58974b28ba261a95e]
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 15. Power to amend or repeal private or local Acts[^key-7fc665d292f6f8b58974b28ba261a95e][^key-7fc665d292f6f8b58974b28ba261a95e]
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 16. Interpretation of Part 1[^key-7fc665d292f6f8b58974b28ba261a95e][^key-7fc665d292f6f8b58974b28ba261a95e]
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Part 2 — REGULATION OF REGISTRATION PLATE SUPPLIERS[^key-4f6aeac58017689657d22a477adf21c3]
+
+*Extent: E+W*
+
+### Registration
+
+#### 17. Requirement of registration for registration plate suppliers[^c455065]
+
+(1) Any person who carries on business as a registration plate supplier [^key-85caf9a5a0e6d91476c5cbd6032d5ac8]... without being registered by the Secretary of State shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 5 on the standard scale.
+
+(2) For the purposes of this Part a person carries on business as a registration plate supplier if he—
+
+- (a) carries on a business which consists wholly or partly in selling registration plates; and
+- (b) is not an exempt person.
+
+(3) The Secretary of State may by regulations provide for—
+
+- (a) activities of a prescribed description to be treated for the purposes of this Part as not being activities which consist in selling registration plates;
+- (b) persons of a prescribed description to be exempt persons for the purposes of this Part.
+
+(4) In this Part “**registered**” means registered in accordance with the provisions of this Part in a register established and maintained by the Secretary of State under section 18; and cognate expressions shall be construed accordingly.
+
+#### 18. Register of registration plate suppliers[^c455066]
+
+(1) The Secretary of State shall establish and maintain a register of persons carrying on business as registration plate suppliers.
+
+(2) Each person’s entry in the register shall contain such particulars as may be prescribed.
+
+(3) The Secretary of State shall, subject to subsection (6) and such fee (if any) as may be prescribed, supply any person who has requested information contained in the register with the information that he has requested.
+
+(4) If the request is for information in the form of a copy (certified to be true) of the register or of an extract from it, the Secretary of State shall, subject to subsection (6) and such fee (if any) as may be prescribed, supply the information in that form.
+
+(5) Any such certified copy shall be evidence (or, in Scotland, sufficient evidence)[^key-e89b4ebe15f5a8aa418da6f5e472609c] of the matters mentioned in it.
+
+(6) The Secretary of State may by regulations specify—
+
+- (a) descriptions of persons who are not entitled to be supplied with information under subsection (3); and
+- (b) descriptions of information which shall not be supplied under that subsection.
+
+(7) The Secretary of State may make all of the information contained in the register or information so contained of a particular description available [^key-485740bc797f553255171e3982841ad5]... for use by constables for the purpose of investigating offences under this Part.
+
+(8) The Secretary of State may by regulations determine the circumstances in which any of the information to which constables have been given access under subsection (7) may be further disclosed by them.
+
+(9)[^key-3b8b41d55cc30ce6830913ab18ce746b] In this section, “ **constables** ” includes—
+
+- (a)[^key-2a5996d179890c161c80388015f4874b] members of the civilian staff of a police force, including the metropolitan police force, (within the meaning of Part 1 of the Police Reform and Social Responsibility Act 2011),
+- (aa) persons employed by the Common Council of the City of London who are under the direction and control of the Commissioner of Police for the City of London,
+- (b)[^key-1d7024747a06b78bd45f4d4a344525ab] police staff within the meaning of the Police and Fire Reform (Scotland) Act 2012, and
+- (c) persons employed by the British Transport Police Authority under section 27(1) of the Railways and Transport Safety Act 2003 who are under the direction and control of the Chief Constable of the British Transport Police Force.
+
+#### 19. Applications for registration[^c455067]
+
+(1) An application for registration—
+
+- (a) shall be made to the Secretary of State in accordance with such requirements as may be prescribed; and
+- (b) shall be accompanied by a fee of such amount (if any) as may be prescribed.
+
+(2) The level of fees so prescribed may be set with a view to recovering the reasonable costs incurred by the Secretary of State in connection with the administration of this Part.
+
+(3) A person who, in making an application for registration—
+
+- (a) makes a statement which he knows to be false in a material particular; or
+- (b) recklessly makes a statement which is false in a material particular;
+
+shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+
+(4) Where an order under section 20(1)(b) has effect in relation to a person who has been convicted of an offence under subsection (3), no application for registration shall be made by that person under subsection (1) in contravention of the order.
+
+(5) No application for registration shall be made under subsection (1) by a person while his registration is suspended by an order of a court under section 20(2).
+
+(6) A person who makes an application in contravention of subsection (4) or (5) shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 5 on the standard scale.
+
+(7) The Secretary of State shall, on receiving an application under subsection (1), register the applicant.
+
+#### 20. Removal or suspension of registration by a court[^c455068]
+
+(1) Where a person is convicted of an offence under section 19(3) the court before which he is convicted may, instead of or in addition to imposing a fine, by order do either or both of the following—
+
+- (a) provide for the removal of any entry relating to him in the register;
+- (b) prohibit him from making an application for registration under section 19(1) within such period not exceeding five years as may be specified in, or determined under, the order.
+
+(2) Where a registered person is convicted of an offence under this Part (other than an offence under section 19(3)) the court before which he is convicted may, instead of or in addition to imposing a fine, by order suspend his registration for any period of up to five years.
+
+(3) No order under subsection (1) or (2) shall have effect—
+
+- (a) if no appeal is brought, before the end of the period for bringing an appeal has passed;
+- (b) if an appeal is brought, before the final determination or withdrawal of the appeal.
+
+(4) A court shall give notice to the Secretary of State of the contents of any order which has been made by it under subsection (1) or (2) and which has effect.
+
+(5) The Secretary of State shall amend the register—
+
+- (a) to give effect to any order of a court under subsection (1)(a); or
+- (b) to reflect any suspension effected by an order of a court under subsection (2);
+
+but may not do so until the order concerned has effect.
+
+(6) In this section “**appeal**” includes an application under section 111 of the Magistrates’ Courts Act 1980 (c. 43) or Article 146 of the Magistrates' Courts (Northern Ireland) Order 1981[^key-2aa5c25581e7aa992117a1c20b81e9a8] (application by way of case stated).
+
+#### 21. Cancellation of registration by the Secretary of State[^c455069]
+
+(1) The Secretary of State may cancel a person’s registration if he is satisfied that the person concerned is not carrying on business as a registration plate supplier and has not, while registered, been doing so for at least 28 days.
+
+(2) A cancellation under subsection (1) shall not have effect—
+
+- (a) if no appeal is brought under section 23, before the end of the period of 21 days mentioned in subsection (2) of that section;
+- (b) if an appeal is brought under that section, before the final determination or withdrawal of the appeal.
+
+(3) This section is subject to section 22.
+
+#### 22. Right to make representations: Part 2[^c455070]
+
+(1) The Secretary of State shall not cancel a person’s registration under section 21 unless the Secretary of State has complied with the provisions of this section.
+
+(2) The Secretary of State shall serve a notice on the person concerned stating—
+
+- (a) what he is proposing to do;
+- (b) the reasons for it; and
+- (c) the period (not less than 14 days starting with the date of service of the notice) within which the person concerned may by notice—
+  - (i) require the Secretary of State to give him an opportunity to make representations about the proposal; or
+  - (ii) inform the Secretary of State that he does not wish to make any such representations.
+
+(3) Where a notice has been served by the Secretary of State under subsection (2), the Secretary of State shall not proceed with his proposed cancellation until—
+
+- (a) the person concerned has made representations about it or informed the Secretary of State that he does not wish to make any such representations;
+- (b) the period mentioned in subsection (2)(c) has passed without the Secretary of State being required to give the person concerned an opportunity to make representations or without the Secretary of State being informed that the person concerned does not wish to make any representations; or
+- (c) the conditions specified in subsection (4) are satisfied.
+
+(4) The conditions are that—
+
+- (a) the person concerned has required the Secretary of State to give him an opportunity to make representations to the Secretary of State about the proposal;
+- (b) the Secretary of State has allowed that person a reasonable period to make his representations; and
+- (c) the person concerned has failed to make his representations within that period.
+
+(5) The representations may be made orally or in writing.
+
+(6) If the person concerned informs the Secretary of State that he desires to make oral representations, the Secretary of State shall give that person an opportunity of appearing before, and being heard by, a person appointed by the Secretary of State.
+
+(7) If the Secretary of State decides to proceed with his proposed cancellation, he shall serve a notice on the person concerned informing him of the Secretary of State’s decision to proceed and of the cancellation.
+
+(8) A notice under subsection (7) shall also inform the person concerned of—
+
+- (a) his right to appeal under section 23 against the cancellation;
+- (b) the time within which such an appeal may be brought; and
+- (c) the date on which the cancellation is to have effect.
+
+#### 23. Appeals: Part 2[^key-5d308b458a22c3ab5a2d10c2bf87a410][^c455071]
+
+(1) An appeal against the cancellation by the Secretary of State under section 21 of a person's registration may be brought—
+
+- (a) in England and Wales, to a magistrates' court,
+- (b) in Scotland, to the sheriff, or
+- (c) in Northern Ireland, to a court of summary jurisdiction.
+
+(2) An appeal under subsection (1) shall be brought within the period of 21 days beginning with the day on which the person concerned is served with a notice under section 22(7).
+
+(3) The procedure on an appeal under subsection (1)—
+
+- (a) in England and Wales, is to be by way of complaint for an order and in accordance with the Magistrates' Courts Act 1980,
+- (b) in Scotland, is to be by way of summary application to the sheriff, and
+- (c) in Northern Ireland, is to be by way of notice under Part 7 of the Magistrates' Courts (Northern Ireland) Order 1981.
+
+(4) For the purposes of the time limit for bringing an appeal under subsection (1) the appeal is to be treated as brought—
+
+- (a) in England and Wales, on the making of the complaint,
+- (b) in Scotland, on the lodging of the summary application with the sheriff clerk, and
+- (c) in Northern Ireland, when a notice is served on the clerk of the petty sessions under Article 76(2)(a) of the Magistrates' Courts (Northern Ireland) Order 1981.
+
+(5) A party to an appeal to the sheriff under subsection (1) may further appeal, on a point of law only, to the sheriff principal or the Court of Session; and the decision on such an appeal is final.
+
+(6) On an appeal under subsection (1) or (5), the court may confirm, vary or reverse the decision appealed against and generally give such directions as it considers appropriate having regard to the provisions of this Part.
+
+(7) The Secretary of State must comply with any directions given by a court under this section.
+
+(8) But the Secretary of State need not do so until—
+
+- (a) in England and Wales, the time for making an application under section 111 of the Magistrates' Courts Act 1980 (application by way of case stated),
+- (b) in Scotland, the time for lodging an appeal under subsection (5), or
+- (c) in Northern Ireland, the time for making an application under Article 146 of the Magistrates' Courts (Northern Ireland) Order 1981 (application by way of case stated),
+
+has passed.
+
+(9) And if such an application or appeal is made or lodged, he need not do so until the final determination or withdrawal of the appeal or application.
+
+### Keeping of records etc.
+
+#### 24. Keeping of records: Part 2[^c455072]
+
+(1) The Secretary of State may by regulations provide for the keeping of records by registered persons.
+
+(2) In subsection (1) “**registered**” includes formerly registered.
+
+(3) Regulations under this section may specify provisions of the regulations as provisions to which subsection (4) applies.
+
+(4)[^key-f58d1e91529397c064a5448e38df0103][^key-138ca50f98c6c32837d15957b6a06fd0] A person who contravenes any provision to which this subsection applies shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+
+(5) In proceedings for an offence under subsection (4) it shall be a defence for the accused to show that he took all reasonable steps and exercised all due diligence to avoid committing the offence.
+
+#### 25. Provision of information on sale of registration plates[^c455073]
+
+(1) The Secretary of State may by regulations provide for the obtaining by registered persons who are in the course of selling registration plates of information of a prescribed description from their prospective purchasers before the completion of the sale.
+
+(2) Regulations under this section may specify provisions of the regulations as provisions to which subsection (3) applies.
+
+(3)[^key-3d664339bc96a08e4ef3151e7a909bdf] A person who contravenes any provision to which this subsection applies shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+
+(4) In proceedings for an offence under subsection (3) it shall be a defence for the accused to show that he took all reasonable steps and exercised all due diligence to avoid committing the offence.
+
+### Supplementary provisions and offences
+
+#### 26. Rights to enter and inspect premises: Part 2[^c455074]
+
+(1) A constable or an authorised person may at any reasonable time enter and inspect premises for the time being entered in the register as premises which are occupied by a person carrying on business as a registration plate supplier wholly or partly for the purposes of his business so far as it consists in selling registration plates.
+
+(2) A constable or an authorised person may at any reasonable time—
+
+- (a) require production of, and inspect, any registration plates kept at premises falling within subsection (1); and
+- (b) require production of, inspect and take copies of or extracts from any records which the person carrying on business as a registration plate supplier is required to keep at such premises by virtue of this Part.
+
+(3) Subsection (4) applies where, on an application made by a constable or an authorised person, a justice of the peace , or (in Scotland) a justice of the peace, magistrate or sheriff,[^key-525f7ca2db82576bdbee079c55c34e7d] is satisfied that admission to premises specified in the application is reasonably required in order to secure compliance with the provisions of this Part, or to ascertain whether those provisions are being complied with.
+
+(4) The justice of the peace, magistrate or sheriff[^key-51ee6f41b7152097fed3c5f419cc0d9b] may issue a warrant authorising a constable or (as the case may be) an authorised person to enter and inspect the premises concerned.
+
+(5) A constable or an authorised person—
+
+- (a) shall not be entitled to use force to enter premises in the exercise of his powers under subsection (1); but
+- (b) may, if necessary, use reasonable force in the exercise of his powers under a warrant issued under subsection (4).
+
+(6) A constable or an authorised person in seeking to enter any premises in the exercise of his powers under subsection (1), and an authorised person in seeking to enter any premises in the exercise of his powers under a warrant issued under subsection (4), shall, if required by or on behalf of the owner or occupier or person in charge of the premises, produce evidence of his identity, and of his authority for entering, before doing so.
+
+(7) Any person who obstructs an authorised person in the exercise of his powers under subsection (1) or (2) or under a warrant issued under subsection (4) shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 2 on the standard scale.
+
+(8) In this section “**an authorised person**” means a person authorised for the purposes of this section—[^key-e589c06f16a397afc916f4d97808f98e]
+
+- (a) by the Secretary of State, or
+- (b) (except in Northern Ireland)[^key-76b9f1d6bc889177c73cb6c4234c0161] by a local authority in respect of premises situated in the area of the local authority.
+
+#### 27. Notification requirements: Part 2[^c455075]
+
+(1) A person applying to be registered in the register shall give notice to the Secretary of State of any changes affecting in a material particular the accuracy of the information which he has provided in connection with his application.
+
+(2) A registered person shall give notice to the Secretary of State of any changes affecting his entry in the register within 28 days of the changes occurring; and the Secretary of State shall amend the register accordingly.
+
+(3) A registered person who is not carrying on business as a registration plate supplier shall give notice to the Secretary of State of that fact within 28 days of the beginning of the period in which he is not carrying on business while registered.
+
+(4) A person who fails to give notice to the Secretary of State in accordance with subsection (1), (2) or (3) shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+
+(5) In proceedings for an offence under subsection (4) it shall be a defence for the accused to show that he took all reasonable steps and exercised all due diligence to avoid committing the offence.
+
+#### 28. Offences relating to plates etc.[^c455076][^key-b1bd46ab9c8ab2ed6039753db3109271]
+
+(1) A person who sells a plate or other device which is not a vehicle[^key-7908c8eb8dd8c82307fa98fa321744d8] registration plate as a vehicle registration plate knowing that it is not a vehicle registration plate or being reckless as to whether it is a vehicle registration plate shall be guilty of an offence.
+
+(1ZA)[^key-f7f5c68049174cc01662bacd7a773ee1] A person who sells a plate or other device which is not a trailer registration plate as a trailer registration plate knowing that it is not a trailer registration plate or being reckless as to whether it is a trailer registration plate shall be guilty of an offence.
+
+(1A)[^key-b07e9d179ffdbfe04048281460ae4ecd] A person who sells a plate or other device which is not a vehicle[^key-8bc839ad317738ac542b87e06bdbd3de] registration plate only because the registration mark displayed by it—
+
+- (a) does not comply with regulations under paragraph (a) of subsection (4) of section 23 of the 1994 Act, or
+- (b) is displayed otherwise than in accordance with regulations under paragraph (b) of that subsection,
+
+(or both) shall be guilty of an offence.
+
+(1AA)[^key-3887210a73e6a6db5e7fb419e7b94e4d] A person who sells a plate or other device which is not a trailer registration plate only because the registration mark displayed by it—
+
+- (a) does not comply with regulations made by virtue of paragraph (b) of subsection (4) of section 15 of the 2018 Act, or
+- (b) is displayed otherwise than in accordance with regulations made by virtue of paragraph (c) and (d)(i) of that subsection,
+
+(or both) shall be guilty of an offence.
+
+(1B) The Secretary of State may by regulations provide that the offence under subsection (1A) or (1AA)[^key-5b4aedab1c5fd6e7ba01d45b82f41283] is not committed in circumstances prescribed by the regulations.
+
+(2) A person who—
+
+- (a) supplies a plate, device or other object to a person who is carrying on a business which consists wholly or partly in activities which are unlawful by virtue of subsection (1), (1ZA), (1A) or (1AA)[^key-fe55c20fb6d8e4bae0c92089eab433b5]; and
+- (b) knows or reasonably suspects that the plate, device or other object will be used for the purposes of that other person’s unlawful activities;
+
+shall be guilty of an offence.
+
+(3) A person guilty of an offence under this section[^key-88b28426707119a28f2c4c86f70ed3ba] shall be liable on summary conviction to a fine not exceeding level 4 on the standard scale.
+
+#### 29. Offence of supplying plates etc. to unregistered persons[^c455077]
+
+(1) A person who—
+
+- (a) supplies a plate, device or other object to an unregistered person (other than an exempt person) who is carrying on a business which consists wholly or partly in selling registration plates; and
+- (b) knows or reasonably suspects that the plate, device or other object will be used for the purposes of that other person’s business (or part of his business) as a registration plate or as part of a registration plate;
+
+shall be guilty of an offence.
+
+(2) A person guilty of an offence under subsection (1) shall be liable on summary conviction to a fine not exceeding level 5 on the standard scale.
+
+### General
+
+#### 30. Proceedings for offences under Part 2[^c455078]
+
+(1)[^key-b2752dedaa9a10295787a5d40c7ae71a] Proceedings for an offence under this Part shall not be instituted in England and Wales[^key-da721c4bc58bc97300406ec28ca2cbc6] except—
+
+- (a) by the Secretary of State,[^key-8a93e9926df52c201249db96f4887158] a local authority or a constable; or
+- (b) in any other case, with the consent of the Attorney General.
+
+(2)[^key-9124d7f06f65df45faa2212da979aadc] Proceedings for an offence under this Part shall not be instituted in Northern Ireland except—
+
+- (a) by the Secretary of State or a constable; or
+- (b) in any other case, with the consent of the Advocate General for Northern Ireland.
+
+(3) In relation to any time before the coming into force of section 27(1) of the Justice (Northern Ireland) Act 2002, the reference in subsection (2)(b) to the Advocate General for Northern Ireland is to be read as a reference to the Attorney General for Northern Ireland.
+
+#### 31. Interpretation of Part 2[^c455079]
+
+(1) In this Part, unless the context otherwise requires—
+
+- “**the 1994 Act**” means the Vehicle Excise and Registration Act 1994 (c.22);
+
+  “the 2018 Act” means the Haulage Permits and Trailer Registration Act 2018;[^key-76ffed30839a1d8c8c22da2f558c9bb8]
+
+  “**carrying on business as a registration plate supplier**” has the meaning given by section 17(2);
+
+  “**contravene**”, in relation to any provision of regulations, includes fail to comply with it;
+
+  “**exempt person**” means any person who is an exempt person by virtue of regulations made under section 17(3)(b);
+
+  “[^key-e8de6a4f34a40d550b05a2d693446280] **local authority** ” means—
+
+  - (a) in relation to England, a county council, a district council, a London borough council, the Common Council of the City of London in its capacity as a local authority or the Council of the Isles of Scilly;
+  - (b) in relation to Wales, a county council or a county borough council;or[^key-192c53e2b66a4aad577ac9da503ae16e]
+  - (c) in relation to Scotland, a council constituted under section 2 of the Local Government etc. (Scotland) Act 1994;
+
+  “**notice**” means notice in writing;
+
+  “**premises**” includes any land or other place (whether or not enclosed);
+
+  “**prescribed**” means prescribed by regulations made by the Secretary of State;
+
+  “**a register**” means a register established and maintained under section 18;
+
+  “**registered**” (and cognate expressions) have the meaning given by section 17(4);
+
+  “**registration mark**” means a registration mark within the meaning given by section 23(1) of the 1994 Act or section 15[^key-004ef8a7016285b832dc92954859a51d](1) of the 2018 Act;
+
+  “**registration plate**” means a trailer registration plate or a vehicle registration plate[^key-88ca131fc0df6ee08e85f0bd32cb7a0e]
+- “**selling registration plates**” is to be construed in accordance with any regulations made under section 17(3)(a).
+- “trailer registration plate” means a plate or other device which—
+  - (a) displays (whether alone or in conjunction with other information) in accordance with regulations made by virtue of section 15(4)(c) and (d)(i) of the 2018 Act a registration mark which complies with regulations made by virtue of section 15(4)(b) of that Act;
+  - (b) complies with requirements imposed by regulations made by virtue of section 15(4)(a) of the 2018 Act; and
+  - (c) is designed to be fixed to a trailer in accordance with regulations made by virtue of section 15(4)(d)(ii) of the 2018 Act;
+- “vehicle registration plate” means a plate or other device which—
+  - (a) displays (whether alone or in conjunction with other information) in accordance with regulations under paragraph (b) of subsection (4) of section 23 of the 1994 Act a registration mark which complies with regulations under paragraph (a) of that subsection;
+  - (b) complies with requirements imposed by regulations made under section 27A(1)(a) of the 1994 Act; and
+  - (c) is designed to be fixed to a vehicle or trailer in accordance with regulations made under section 22(2) or 23(3) of that Act.
+
+(2) The reference in section 22(5) to representations being made in writing includes a reference to representations being made in a text which—
+
+- (a)[^key-eef34761914d14cc4fa28034090d4be8] is transmitted by means of an electronic communications network or by other means but while in an electronic form;
+- (b) is received in legible form; and
+- (c) is capable of being used for subsequent reference.
+
+(3) References in this Part to offences under this Part include references to anything which is an offence by virtue of section 24(3) and (4) or 25(2) and (3).
+
+(4) References in this Part to an appeal under section 23 being finally determined or withdrawn include references to the final determination or withdrawal of proceedings by way of case stated which relate to a decision by a magistrates’ court on an appeal under that section.
+
+## Part 3 — OTHER PROVISIONS RELATING TO VEHICLE CRIME
+
+### Vehicle licensing and registration
+
+#### 32. Provision of documents etc. on vehicle licence applications
+
+(1) In section 7(1) of the Vehicle Excise and Registration Act 1994 (c.22) (requirement to make a declaration on application for vehicle licence)—
+
+- (a) in paragraph (a) for “such a” there shall be substituted “ any such ”; and
+- (b) in paragraph (b)—
+  - (i) after “furnish” there shall be inserted “ any ”; and
+  - (ii) after “particulars” there shall be inserted “ and any such documentary or other evidence ”.
+
+(2) In section 22(2A)(a) of that Act (extension of registration regime to exempt vehicles: nil licences)—
+
+- (a) in sub-paragraph (i) for “such a” there shall be substituted “ any such ”; and
+- (b) in sub-paragraph (ii)—
+  - (i) after “furnish” there shall be inserted “ any ”; and
+  - (ii) after “particulars” there shall be inserted “ and any such documentary or other evidence ”.
+
+#### 33. Issue of new registration documents: vehicle identity checks etc.
+
+(1) In section 22(1)(h) of the Vehicle Excise and Registration Act 1994 (c.22) (power to provide by regulations for the issue of new registration documents) after “stolen” there shall be inserted “ , surrendered ”.
+
+(2) After section 22 of that Act there shall be inserted—
+
+> **22A. Vehicle identity checks**
+>
+> (1) This section applies to regulations under section 22(1)(h) which confer a power on the Secretary of State to refuse to issue a new registration document in respect of a registered vehicle if he is not satisfied that the vehicle for which the document is being sought is the registered vehicle.
+>
+> (2) Such regulations may, in particular, provide for—
+>
+> - (a) the examination (whether by the Secretary of State or by persons authorised by him) of all vehicles for which new registration documents are being sought, or such vehicles of a particular description, for the purpose of ascertaining whether they are the registered vehicles concerned,
+> - (b) the provision of other evidence in relation to all vehicles for which new registration documents are being sought, or such vehicles of a particular description, for the purpose of ascertaining whether they are the registered vehicles concerned.
+>
+> (3) Regulations made by virtue of subsection (2) may, in particular, provide for—
+>
+> - (a) notification of examinations (including their purpose), the issue of certificates as to the outcome of examinations and the keeping of records in relation to examinations and certificates,
+> - (b) the issue of duplicates or copies of certificates and the fees to be paid on applications for such duplicates or copies,
+> - (c) the correction of errors in certificates,
+> - (d) the payment of fees for examinations, and for re-examinations resulting from appeals and the repayment of the whole or part of the fee paid for such a re-examination where it appears to the Secretary of State that there were substantial grounds for contesting the whole or part of the decision appealed against,
+> - (e) the making of appeals against the outcome of examinations,
+> - (f) the carrying out of examinations in the absence of the keepers or owners of the vehicles concerned,
+> - (g) courses of instruction in connection with the carrying out of examinations and the charging of fees in respect of attendance on such courses,
+> - (h) the authorisation of examiners, the imposition of conditions to be complied with by authorised examiners (including the payment of fees to the Secretary of State) and the withdrawal of authorisations,
+> - (i) the manner in which, conditions under which and apparatus with which examinations are carried out by authorised examiners, and the inspection of premises at which and apparatus with which such examinations are being, or are to be, carried out,
+> - (j) the charges to be paid by authorised examiners to the Secretary of State in connection with—
+> - (i) the issue of certificates,
+> - (ii) the issue of duplicates or copies of certificates, and
+> - (iii) the correction of errors in certificates.
+>
+> (4) The Secretary of State may use information contained in relevant records—
+>
+> - (a) to check the accuracy of information which has been obtained under regulations made by virtue of subsection (2), and
+> - (b) where appropriate, to amend or supplement any such information.
+>
+> (5) The Secretary of State may use information which has been obtained under regulations made by virtue of subsection (2)—
+>
+> - (a) to check the accuracy of relevant records, and
+> - (b) where appropriate, to amend or supplement information contained in those records.
+>
+> (6) In subsections (4) and (5) “**relevant records**” means records—
+>
+> - (a) maintained by the Secretary of State in connection with any functions exercisable by him under or by virtue of this Act,
+> - (b) records maintained by the Secretary of State (or caused by him to be maintained) under section 45(6B) of the Road Traffic Act 1988 (c.52).
+>
+> (7) Subsections (4) to (6) do not limit any powers of the Secretary of State apart from those subsections.
+>
+> (8) This section is without prejudice to the generality of the powers conferred by section 22.
+
+#### 34. Imposition of requirements concerning registration plates
+
+**Not yet in force.**
+
+After section 27 of the Vehicle Excise and Registration Act 1994 (c.22) (registration marks) there shall be inserted—
+
+> **Registration plates**
+>
+> **27A. Registration plates**
+>
+> (1) The Secretary of State may by regulations—
+>
+> - (a) prescribe specifications for registration plates (whether relating to their size, shape, material of manufacture or otherwise),
+> - (b) provide for registration plates to contain or display such information other than registration marks or (as the case may be) special registration marks as may be specified or described in the regulations.
+>
+> (2) Regulations under subsection (1)(b) may, in particular, prescribe the form and manner in which any such information is to be contained or displayed.
+>
+> (3) In this section “**registration plates**” means—
+>
+> - (a) plates or other devices for displaying registration marks and for fixing them on vehicles or trailers in accordance with regulations under section 23(3), or
+> - (b) plates or other devices for displaying special registration marks and for fixing them on vehicles or trailers in accordance with regulations under section 22(2),
+>
+> and includes plates or other devices which are also for containing or displaying information other than registration marks or (as the case may be) special registration marks (whether or not such information is to be contained or displayed by virtue of regulations under this section).
+>
+> (4) In this section—
+>
+> - “**special registration mark**” means a mark indicating the registered number of a vehicle or trailer and assigned to the vehicle or trailer by virtue of regulations under section 22(2), and
+> - “**trailer**” has the same meaning as in Part 8 of Schedule 1.
+
+### Information requirements
+
+**Not yet in force.**
+
+#### 35. Notification by scrap metal dealers of destruction of motor vehicles[^key-53e231e8f40c6102003a23f65c2098d9]
+
+*Extent: E+W*
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 36. Access to certain motor insurance information[^key-36b833cf5c217ddd3d3fa1b257be7d81]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Miscellaneous
+
+*Extent: E+W*
+
+#### 37. Taking a conveyance without authority: extension of prosecution time-limits
+
+(1) After section 12(4) of the Theft Act 1968 (c.60) (offence of taking a conveyance without authority) there shall be inserted—
+
+> (4A) Proceedings for an offence under subsection (1) above (but not proceedings of a kind falling within subsection (4) above) in relation to a mechanically propelled vehicle—
+>
+> - (a) shall not be commenced after the end of the period of three years beginning with the day on which the offence was committed; but
+> - (b) subject to that, may be commenced at any time within the period of six months beginning with the relevant day.
+>
+> (4B) In subsection (4A)(b) above “**the relevant day**” means—
+>
+> - (a) in the case of a prosecution for an offence under subsection (1) above by a public prosecutor, the day on which sufficient evidence to justify the proceedings came to the knowledge of any person responsible for deciding whether to commence any such prosecution;
+> - (b) in the case of a prosecution for an offence under subsection (1) above which is commenced by a person other than a public prosecutor after the discontinuance of a prosecution falling within paragraph (a) above which relates to the same facts, the day on which sufficient evidence to justify the proceedings came to the knowledge of the person who has decided to commence the prosecution or (if later) the discontinuance of the other prosecution;
+> - (c) in the case of any other prosecution for an offence under subsection (1) above, the day on which sufficient evidence to justify the proceedings came to the knowledge of the person who has decided to commence the prosecution.
+>
+> (4C) For the purposes of subsection (4A)(b) above a certificate of a person responsible for deciding whether to commence a prosecution of a kind mentioned in subsection (4B)(a) above as to the date on which such evidence as is mentioned in the certificate came to the knowledge of any person responsible for deciding whether to commence any such prosecution shall be conclusive evidence of that fact.
+
+(2) Subsection (1) applies in relation to offences committed on or after the day appointed for the purposes of this section by an order under section 44.
+
+#### 38. Unified power for Secretary of State to fund speed cameras etc.
+
+(1)[^key-6145acbfc8b120ce266b56dd28627147] The Secretary of State may make payments in respect of the whole or any part of the expenditure of a public authority in relation to—
+
+- (a) the prevention or detection of offences to which subsection (2) applies; or
+- (b) any enforcement action or proceedings in respect of such offences or any alleged such offences.
+
+(2) This subsection applies to offences under—
+
+- (a) section 16 of the Road Traffic Regulation Act 1984 (c.27) which consist in contraventions of restrictions on the speed of vehicles imposed under section 14 of that Act;
+- (b) subsection (4) of section 17 of that Act which consist in contraventions of restrictions on the speed of vehicles imposed under that section;
+- (c) section 88(7) of that Act (temporary minimum speed limits);
+- (d) section 89(1) of that Act (speeding offences generally);
+- (e) section 36(1) of the Road Traffic Act 1988 (c.52) which consist in the failure to comply with an indication given by a light signal that vehicular traffic is not to proceed.
+
+(3) Payments under this section shall be made to—
+
+- (a) the public authority in respect of whose expenditure the payments are being made; or
+- (b) any other public authority for payment, in accordance with arrangements agreed with the Secretary of State, to, or on behalf of, the public authority in respect of whose expenditure the payments are being made.
+
+(4) Payments under this section shall be paid at such times, in such manner and subject to such conditions as the Secretary of State may determine.
+
+(5) In this section “**public authority**” means—
+
+- (a) any highway authority (within the meaning of the Highways Act 1980 (c.66));
+- (b) any police and crime commissioner, the Mayor's Office for Policing and Crime[^key-0fb8b517e8493011f9571ecaadf4597d] or the Common Council of the City of London in its capacity as a police authority; and[^key-0b44d4aa1cf136532bc31b17cb3922ee]
+- (c)[^key-1996582771875b1382b143f117490cfa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d) any body or other person not falling within paragraphs (a) to (c) and so far as exercising functions of a public nature.
+
+## Part 4 — SUPPLEMENTARY
+
+### General
+
+#### 39. Offences by bodies corporate
+
+(1) Where an offence under this Act committed by a body corporate is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, a director, manager, secretary or other similar officer of the body corporate, he as well as the body corporate commits the offence and shall be liable to be proceeded against and punished accordingly.
+
+(2) Where the affairs of a body corporate are managed by its members, subsection (1) applies in relation to the acts and defaults of a member in connection with his functions of management as if he were a director of the body corporate.
+
+(3)[^key-df198cedc81077e949ffda4ccb50ba08] Where an offence under this Act committed by a Scottish partnership is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, a partner, he as well as the partnership commits the offence and shall be liable to be proceeded against and punished accordingly.
+
+#### 40. Service of notices
+
+(1) Any document required or authorised by virtue of this Act to be served on any person may be served—
+
+- (a) by delivering it to him or by leaving it at his proper address or by sending it by post to him at that address;
+- (b) if the person is a body corporate other than a limited liability partnership, by serving it in accordance with paragraph (a) on the secretary of the body;
+- (c) if the person is a limited liability partnership, by serving it in accordance with paragraph (a) on a member of the partnership; or
+- (d) if the person is a partnership, by serving it in accordance with paragraph (a) on a partner or a person having the control or management of the partnership business.
+
+(2) For the purposes of this section and section 7 of the Interpretation Act 1978 (c.30) (service of documents by post) in its application to this section, the proper address of any person on whom a document is to be served shall be his last known address, except that—
+
+- (a) in the case of service on a body corporate (other than a limited liability partnership) or its secretary, it shall be the address of the registered or principal office of the body;
+- (b) in the case of service on a limited liability partnership or a member of the partnership, it shall be the address of the registered or principal office of the partnership;
+- (c) in the case of service on a partnership or a partner or a person having the control or management of a partnership business, it shall be the address of the principal office of the partnership.
+
+(3) For the purposes of subsection (2) the principal office of a company constituted under the law of a country or territory outside the United Kingdom or of a partnership carrying on business outside the United Kingdom is its principal office within the United Kingdom.
+
+(4) Subsection (5) applies if a person to be served under this Act with any document by another has specified to that other an address within the United Kingdom other than his proper address (as determined under subsection (2)) as the one at which he or someone on his behalf will accept documents of the same description as that document.
+
+(5) In relation to that document, that address shall be treated as his proper address for the purposes of this section and section 7 of the Interpretation Act 1978 in its application to this section, instead of that determined under subsection (2).
+
+(6) Any notice in writing or other document required or authorised by virtue of this Act to be served on any person may be served on that person by transmitting the text of the notice or other document to him by means of an electronic communications network[^key-2692619663897e1897c9994cb32afa82] or by other means but while in an electronic form provided the text is received by that person in legible form and is capable of being used for subsequent reference.
+
+(7) This section does not apply to any document if rules of court make provision about its service.
+
+(8) In this section references to serving include references to similar expressions (such as giving or sending).
+
+#### 41. Orders and regulations under this Act
+
+(1) Any power of the Secretary of State to make an order or regulations under this Act shall be exercisable by statutory instrument.
+
+(2) Any power of the Secretary of State to make an order or regulations under this Act—
+
+- (a) may be exercised so as to make different provision for different cases or descriptions of case or for different purposes or different areas;
+- (b) includes power to make such incidental, supplementary, consequential, transitory, transitional or saving provision as the Secretary of State considers appropriate.
+
+(3) A statutory instrument containing an order or regulations under this Act (other than an order under section 44) shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+#### 42. General financial provision
+
+(1) There shall be paid out of money provided by Parliament—
+
+- (a) any expenditure incurred by a Minister of the Crown in consequence of this Act; and
+- (b) any increase attributable to this Act in the sums payable out of money so provided by virtue of any other Act.
+
+(2) There shall be paid into the Consolidated Fund any sums received by a Minister of the Crown in consequence of this Act.
+
+#### 43. Consequential amendments[^c444778]
+
+The Schedule to this Act (consequential amendments) shall have effect.
+
+### Final
+
+#### 44. Commencement[^c444779]
+
+Parts 1 to 3 and section 43 and the Schedule shall come into force on such day as the Secretary of State may by order appoint; and different days may be appointed for different purposes or different areas.
+
+#### 45. Extent
+
+(1) Part 1[^key-6f091c1b9e5ed227eaa1fbb55cff0e2f] and sections 35, 37 and 38 extend to England and Wales only.
+
+(2) Part 2 and sections[^key-3007d2583496b47a37c35de85eaf3b4a] 32 to 34 extend to England and Wales, Scotland and Northern Ireland.
+
+(3)[^key-ffe462c8f0fd36c8fad262692f7d84ba] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) Any amendment by the Schedule of an enactment has the same extent as the enactment amended.
+
+(5) Subject to subsection (4), this Part extends to England and Wales, Scotland and Northern Ireland.
+
+#### 46. Short title
+
+This Act may be cited as the Vehicles (Crime) Act 2001.
+
+## SCHEDULE — CONSEQUENTIAL AMENDMENTS
+
+Section 43
+
+### Scrap Metal Dealers Act 1964 (c.69)
+
+**Not yet in force.**
+
+**1.**[^key-86837614fbf1d5e6d1ec1b1806118ce3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**2.**[^key-873619ccb2340c974c49b8fddcb38802] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Vehicle Excise and Registration Act 1994 (c.22)
+
+**3.** In section 7(2) of the Vehicle Excise and Registration Act 1994 (applications for certain vehicle licences)—
+
+- (a) for “and particulars”, where it appears for the first time, there shall be substituted “ , particulars and evidence ”; and
+- (b) for “and particulars of” there shall be substituted “ particulars of and evidence in relation to ”.
+
+**4.** In section 22(2A)(d) of that Act (registration regulations about nil licences)—
+
+- (a) after “State” there shall be inserted “ any ”;
+- (b) after “particulars” there shall be inserted “ and any such documentary or other evidence ”; and
+- (c) after “make” there shall be inserted “ any ”.
+
+**5.** After section 43A of that Act there shall be inserted—
+
+> **43B. Vehicle identity checks: impersonation of authorised examiners**
+>
+> (1) A person is guilty of an offence if, with intent to deceive, he falsely represents himself to be a person entitled under regulations made by virtue of section 22A(2) to carry out examinations of vehicles in accordance with regulations so made.
+>
+> (2) A person guilty of an offence under subsection (1) is liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+
+**6.** (1) Paragraph 22 of Schedule 2 to that Act (vehicles which are exempt from vehicle excise duty: vehicle testing etc.) shall be amended as follows.
+
+(2) In sub-paragraph (1)—
+
+- (a) in paragraph (a) after “compulsory test” there shall be inserted “ , a vehicle identity check ”; and
+- (b) in paragraph (b) after “test” there shall be inserted “ or check ”.
+
+(3) In sub-paragraph (2)—
+
+- (a) after “weight test,” there shall be inserted “ or a vehicle identity check or ”; and
+- (b) in paragraphs (a) and (b) after “test”, in each place where it appears, there shall be inserted “ , check ”.
+
+(4) After sub-paragraph (6) there shall be inserted—
+
+> (6ZA) In this paragraph “**a vehicle identity check**” means any examination of a vehicle for which provision is made by regulations made by virtue of section 22A(2) of this Act.
+
+(5) In sub-paragraph (6B) after “compulsory test” there shall be inserted “ , a vehicle identity check ”.
+
+(6) In sub-paragraph (7), at the end of paragraph (c) and before the word “and” there shall be inserted—
+
+> - (ca) in the case of an examination of a vehicle for which provision is made by regulations made by virtue of section 22A(2) of this Act, the Secretary of State or a person authorised by him to carry out the examination;
+
+.
+
+### Justices of the Peace Act 1997 (c.25)
+
+**7.** After section 55(7) of the Justices of the Peace Act 1997 (limits on expenditure of local authorities outside Greater London in relation to magistrates’ courts) there shall be inserted—
+
+> (7A) Subsection (7) above does not apply in relation to any expenditure or payments whose cost is, or is to be, met by payments under section 38 of the Vehicles (Crime) Act 2001 (unified power for Secretary of State to fund speed cameras etc.).
+
+**8.** (1) Section 57 of that Act (grants by Lord Chancellor to local authorities outside Greater London) shall be amended as follows.
+
+(2) In subsection (1) (grants towards non-capital expenditure) at the end there shall be inserted “ and any expenditure which is, or is to be, met by payments under section 38 of the Vehicles (Crime) Act 2001 ”.
+
+(3) In subsection (2) (grants towards capital expenditure) at the end there shall be inserted “ ; and in determining any such expenditure for the purposes of this section there shall be disregarded any capital expenditure which is, or is to be, met by payments under section 38 of the Vehicles (Crime) Act 2001 ”.
+
+**9.** In section 58(1) of that Act (certain local authority land appropriated to magistrates’ courts purposes) after “section 57(2) above” there shall be inserted “ or section 38 of the Vehicles (Crime) Act 2001 ”.
+
+**10.** After section 59B(7) of that Act (funding arrangements for the Greater London Magistrates’ Courts Authority) there shall be inserted—
+
+> (7A) References in this section to the Authority’s expenditure do not include expenditure which is, or is to be, met by payments under section 38 of the Vehicles (Crime) Act 2001.
+
+## Annotations
+
+[^key-7fc665d292f6f8b58974b28ba261a95e]: Textual amendment: [Pt. 1](https://www.legislation.gov.uk/ukpga/2001/3/part/1) repealed (1.10.2013) by [Scrap Metal Dealers Act 2013 (c. 10)](https://www.legislation.gov.uk/ukpga/2013/10), [ss. 19(1)(d)(i)](https://www.legislation.gov.uk/ukpga/2013/10/section/19/1/d/i), [23(2)](https://www.legislation.gov.uk/ukpga/2013/10/section/23/2); [S.I. 2013/1966](https://www.legislation.gov.uk/uksi/2013/1966), [art. 3(r)](https://www.legislation.gov.uk/uksi/2013/1966/article/3/r) (with [art. 5](https://www.legislation.gov.uk/uksi/2013/1966/article/5))
+
+[^key-4f6aeac58017689657d22a477adf21c3]: Modification: Pt. 2 extended (Scotland and Northern Ireland) (31.7.2008) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [ss. 46(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/46/1), [61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1); [S.I. 2008/1864](https://www.legislation.gov.uk/uksi/2008/1864), [art. 2](https://www.legislation.gov.uk/uksi/2008/1864/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2008/1864/article/3))
+
+[^c455065]: Commencement: S. 17 wholly in force; s. 17 not in force at Royal Assent see s. 44; Pt. 2 (ss. 17-31) of the Act in force for certain purposes at 1.12.2002, s. 17(3)-(4) otherwise in force at 1.1.2003 and s. 17(1) otherwise in force at 1.3.2003 by [S.I. 2002/2957](https://www.legislation.gov.uk/uksi/2002/2957), arts. {2}, {3}, {4}
+
+[^key-85caf9a5a0e6d91476c5cbd6032d5ac8]: Textual amendment: Words in s. 17(1) repealed (31.7.2008) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [ss. 46(3)](https://www.legislation.gov.uk/ukpga/2006/49/section/46/3), [61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1), [Sch. 7(15)](https://www.legislation.gov.uk/ukpga/2006/49/schedule/7/15); [S.I. 2008/1864](https://www.legislation.gov.uk/uksi/2008/1864), [art. 2](https://www.legislation.gov.uk/uksi/2008/1864/article/2)
+
+[^c455066]: Commencement: S. 18 wholly in force; s. 18 not in force at Royal Assent see s. 44; Pt. 2 (ss. 17-31) of the Act in force for certain purposes at 1.12.2002 and s. 18 otherwise in force at 1.1.2003 by [S.I. 2002/2957](https://www.legislation.gov.uk/uksi/2002/2957), arts. {2}, {3}
+
+[^key-e89b4ebe15f5a8aa418da6f5e472609c]: Textual amendment: Words in s. 18(5) inserted (31.7.2008) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [ss. 46(4)](https://www.legislation.gov.uk/ukpga/2006/49/section/46/4), [61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1); [S.I. 2008/1864](https://www.legislation.gov.uk/uksi/2008/1864), [art. 2](https://www.legislation.gov.uk/uksi/2008/1864/article/2)
+
+[^key-485740bc797f553255171e3982841ad5]: Textual amendment: Words in s. 18(7) omitted (7.10.2013) by virtue of [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 8 para. 106](https://www.legislation.gov.uk/ukpga/2013/22/schedule/8/paragraph/106); [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(v)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/v)
+
+[^key-3b8b41d55cc30ce6830913ab18ce746b]: Textual amendment: S. 18(9) inserted (1.7.2005) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [ss. 123(2)](https://www.legislation.gov.uk/ukpga/2005/15/section/123/2), [178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8); [S.I. 2005/1521](https://www.legislation.gov.uk/uksi/2005/1521), [art. 3(1)(k)](https://www.legislation.gov.uk/uksi/2005/1521/article/3/1/k)
+
+[^key-2a5996d179890c161c80388015f4874b]: Textual amendment: S. 18(9)(a)(aa) substituted (16.1.2012) for s. 18(9)(a) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [s. 157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1), [Sch. 16 para. 275](https://www.legislation.gov.uk/ukpga/2011/13/schedule/16/paragraph/275); [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)
+
+[^key-1d7024747a06b78bd45f4d4a344525ab]: Textual amendment: S. 18(9)(b) substituted (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 2 para. 36](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/36)
+
+[^c455067]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2001/3/section/19) wholly in force; [s. 19](https://www.legislation.gov.uk/ukpga/2001/3/section/19) not in force at Royal Assent see [s. 44](https://www.legislation.gov.uk/ukpga/2001/3/section/44); [Pt. 2](https://www.legislation.gov.uk/ukpga/2001/3/part/2) (ss. 17-31) of the Act in force for certain purposes at 1.12.2002 and s. 19 otherwise in force at 1.1.2003 by [S.I. 2002/2957](https://www.legislation.gov.uk/uksi/2002/2957), arts. {2}, {3}
+
+[^c455068]: Commencement: S. 20 wholly in force; s. 20 not in force at Royal Assent see s. 44; Pt. 2 (ss. 17-31) of the Act in force for certain purposes at 1.12.2002 and s. 20 otherwise in force at 1.1.2003 by [S.I. 2002/2957](https://www.legislation.gov.uk/uksi/2002/2957), arts. {2}, {3}
+
+[^key-2aa5c25581e7aa992117a1c20b81e9a8]: Textual amendment: Words in s. 20(6) inserted (31.7.2008) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [ss. 46(5)](https://www.legislation.gov.uk/ukpga/2006/49/section/46/5), [61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1); [S.I. 2008/1864](https://www.legislation.gov.uk/uksi/2008/1864), [art. 2](https://www.legislation.gov.uk/uksi/2008/1864/article/2)
+
+[^c455069]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2001/3/section/21) wholly in force; [s. 21](https://www.legislation.gov.uk/ukpga/2001/3/section/21) not in force at Royal Assent see [s. 44](https://www.legislation.gov.uk/ukpga/2001/3/section/44); [Pt. 2](https://www.legislation.gov.uk/ukpga/2001/3/part/2) (ss. 17-31) of the Act in force for certain purposes at 1.12.2002 and s. 21 otherwise in force at 1.1.2003 by [S.I. 2002/2957](https://www.legislation.gov.uk/uksi/2002/2957), arts. {2}, {3}
+
+[^c455070]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2001/3/section/22) wholly in force; [s. 22](https://www.legislation.gov.uk/ukpga/2001/3/section/22) not in force at Royal Assent see [s. 44](https://www.legislation.gov.uk/ukpga/2001/3/section/44); [Pt. 2](https://www.legislation.gov.uk/ukpga/2001/3/part/2) (ss. 17-31) of the Act in force for certain purposes at 1.12.2002 and s. 22 otherwise in force at 1.1.2003 by [S.I. 2002/2957](https://www.legislation.gov.uk/uksi/2002/2957), arts. {2}, {3}
+
+[^key-5d308b458a22c3ab5a2d10c2bf87a410]: Textual amendment: S. 23 substituted (31.7.2008) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [ss. 46(6)](https://www.legislation.gov.uk/ukpga/2006/49/section/46/6), [61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1); [S.I. 2008/1864](https://www.legislation.gov.uk/uksi/2008/1864), [art. 2](https://www.legislation.gov.uk/uksi/2008/1864/article/2)
+
+[^c455071]: Commencement: S. 23 wholly in force; s. 23 not in force at Royal Assent see s. 44; Pt. 2 (ss. 17-31) of the Act in force for certain purposes at 1.12.2002 and s. 23 otherwise in force at 1.1.2003 by [S.I. 2002/2957](https://www.legislation.gov.uk/uksi/2002/2957), arts. {2}, {3}
+
+[^c455072]: Commencement: S. 24 wholly in force; s. 24 not in force at Royal Assent see s. 44; Pt. 2 (ss. 17-31) of the Act in force for certain purposes at 1.12.2002, s. 24(1)-(3) otherwise in force at 1.1.2003 and s. 24(4)(5) otherwise in force at 1.3.2003 by [S.I. 2002/2957](https://www.legislation.gov.uk/uksi/2002/2957), arts. {2}, {3}, {4}
+
+[^key-f58d1e91529397c064a5448e38df0103]: Modification: S. 24(4) applied (1.3.2003) by SI 2002/2977 reg. 7(3) (as amended by [Vehicles Crime (Registration of Registration Plate Suppliers) (England and Wales) (Amendment) Regulations 2003 (S.I. 2003/228)](https://www.legislation.gov.uk/uksi/2003/228), [regs. 1](https://www.legislation.gov.uk/uksi/2003/228/regulation/1), [2](https://www.legislation.gov.uk/uksi/2003/228/regulation/2))
+
+[^key-138ca50f98c6c32837d15957b6a06fd0]: Modification: [S. 24(4)](https://www.legislation.gov.uk/ukpga/2001/3/section/24/4) applied (1.8.2008) by [Vehicles Crime (Registration of Registration Plate Suppliers) Regulations 2008 (S.I. 2008/1715)](https://www.legislation.gov.uk/uksi/2008/1715), [regs. 1](https://www.legislation.gov.uk/uksi/2008/1715/regulation/1), [7(6)](https://www.legislation.gov.uk/uksi/2008/1715/regulation/7/6)
+
+[^c455073]: Commencement: [S. 25](https://www.legislation.gov.uk/ukpga/2001/3/section/25) wholly in force; [s. 25](https://www.legislation.gov.uk/ukpga/2001/3/section/25) not in force at Royal Assent see [s. 44](https://www.legislation.gov.uk/ukpga/2001/3/section/44); [Pt. 2](https://www.legislation.gov.uk/ukpga/2001/3/part/2) (ss. 17-31) of the Act in force for certain purposes at 1.12.2002, s. 25(1)(2) otherwise in force at 1.1.2003 and s. 25(3)(4) otherwise in force at 1.3.2003 by [S.I. 2002/2957](https://www.legislation.gov.uk/uksi/2002/2957), arts. {2}, {3}, {4}
+
+[^key-3d664339bc96a08e4ef3151e7a909bdf]: Modification: [S. 25(3)](https://www.legislation.gov.uk/ukpga/2001/3/section/25/3) applied (1.8.2008) by [Vehicles Crime (Registration of Registration Plate Suppliers) Regulations 2008 (S.I. 2008/1715)](https://www.legislation.gov.uk/uksi/2008/1715), [regs. 1](https://www.legislation.gov.uk/uksi/2008/1715/regulation/1), [6(10)](https://www.legislation.gov.uk/uksi/2008/1715/regulation/6/10)
+
+[^c455074]: Commencement: S. 26 wholly in force; s. 26 not in force at Royal Assent see s. 44; Pt. 2 (ss. 17-31) of the Act in force for certain purposes at 1.12.2002 and s. 26 otherwise in force at 1.3.2003 by [S.I. 2002/2957](https://www.legislation.gov.uk/uksi/2002/2957), arts. {2}, {4}
+
+[^key-525f7ca2db82576bdbee079c55c34e7d]: Textual amendment: Words in s. 26(3) inserted (31.7.2008) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [ss. 46(7)(a)](https://www.legislation.gov.uk/ukpga/2006/49/section/46/7/a), [61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1); [S.I. 2008/1864](https://www.legislation.gov.uk/uksi/2008/1864), [art. 2](https://www.legislation.gov.uk/uksi/2008/1864/article/2)
+
+[^key-51ee6f41b7152097fed3c5f419cc0d9b]: Textual amendment: Words in s. 26(4) inserted (31.7.2008) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [ss. 46(7)(b)](https://www.legislation.gov.uk/ukpga/2006/49/section/46/7/b), [61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1); [S.I. 2008/1864](https://www.legislation.gov.uk/uksi/2008/1864), [art. 2](https://www.legislation.gov.uk/uksi/2008/1864/article/2)
+
+[^key-e589c06f16a397afc916f4d97808f98e]: Textual amendment: Words in s. 26(8) substituted (16.3.2007 for E.W.) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [ss. 44(2)](https://www.legislation.gov.uk/ukpga/2006/49/section/44/2), [61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1); [S.I. 2007/466](https://www.legislation.gov.uk/uksi/2007/466), [art. 2(a)](https://www.legislation.gov.uk/uksi/2007/466/article/2/a)
+
+[^key-76b9f1d6bc889177c73cb6c4234c0161]: Textual amendment: Words in s. 26(8) inserted (31.7.2008) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [ss. 46(7)(c)](https://www.legislation.gov.uk/ukpga/2006/49/section/46/7/c), [61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1); [S.I. 2008/1864](https://www.legislation.gov.uk/uksi/2008/1864), [art. 2](https://www.legislation.gov.uk/uksi/2008/1864/article/2)
+
+[^c455075]: Commencement: S. 27 wholly in force; s. 27 not in force at Royal Assent see s. 44; Pt. 2 (ss. 17-31) of the Act in force for certain purposes at 1.12.2002 and s. 27 otherwise in force at 1.1.2003 by [S.I. 2002/2957](https://www.legislation.gov.uk/uksi/2002/2957), arts. {2}, {3}
+
+[^c455076]: Commencement: S. 28 wholly in force; s. 28 not in force at Royal Assent see s. 44; Pt. 2 (ss. 17-31) of the Act in force for certain purposes at 1.12.2002 and s. 28 otherwise in force at 1.1.2003 by [S.I. 2002/2957](https://www.legislation.gov.uk/uksi/2002/2957), arts. {2}, {3}
+
+[^key-b1bd46ab9c8ab2ed6039753db3109271]: Textual amendment: Words in s. 28 heading substituted (1.11.2008 for E.W.) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [ss. 45(7)](https://www.legislation.gov.uk/ukpga/2006/49/section/45/7), [61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1); [S.I. 2008/1862](https://www.legislation.gov.uk/uksi/2008/1862), [arts. 2](https://www.legislation.gov.uk/uksi/2008/1862/article/2), [4](https://www.legislation.gov.uk/uksi/2008/1862/article/4)
+
+[^key-7908c8eb8dd8c82307fa98fa321744d8]: Textual amendment: Word in s. 28(1) inserted (19.7.2018) by [Haulage Permits and Trailer Registration Act 2018 (c. 19)](https://www.legislation.gov.uk/ukpga/2018/19), [s. 27(1)](https://www.legislation.gov.uk/ukpga/2018/19/section/27/1), [Sch. para. 8(3)](https://www.legislation.gov.uk/ukpga/2018/19/schedule/paragraph/8/3)
+
+[^key-f7f5c68049174cc01662bacd7a773ee1]: Textual amendment: S. 28(1ZA) inserted (19.7.2018) by [Haulage Permits and Trailer Registration Act 2018 (c. 19)](https://www.legislation.gov.uk/ukpga/2018/19), [s. 27(1)](https://www.legislation.gov.uk/ukpga/2018/19/section/27/1), [Sch. para. 8(4)](https://www.legislation.gov.uk/ukpga/2018/19/schedule/paragraph/8/4)
+
+[^key-b07e9d179ffdbfe04048281460ae4ecd]: Textual amendment: S. 28(1A)(1B) inserted (1.11.2008 for E.W.) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [ss. 45(4)](https://www.legislation.gov.uk/ukpga/2006/49/section/45/4), [61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1); [S.I. 2008/1862](https://www.legislation.gov.uk/uksi/2008/1862), [arts. 2](https://www.legislation.gov.uk/uksi/2008/1862/article/2), [4](https://www.legislation.gov.uk/uksi/2008/1862/article/4)
+
+[^key-8bc839ad317738ac542b87e06bdbd3de]: Textual amendment: Word in s. 28(1A) inserted (19.7.2018) by [Haulage Permits and Trailer Registration Act 2018 (c. 19)](https://www.legislation.gov.uk/ukpga/2018/19), [s. 27(1)](https://www.legislation.gov.uk/ukpga/2018/19/section/27/1), [Sch. para. 8(5)](https://www.legislation.gov.uk/ukpga/2018/19/schedule/paragraph/8/5)
+
+[^key-3887210a73e6a6db5e7fb419e7b94e4d]: Textual amendment: S. 28(1AA) inserted (19.7.2018) by [Haulage Permits and Trailer Registration Act 2018 (c. 19)](https://www.legislation.gov.uk/ukpga/2018/19), [s. 27(1)](https://www.legislation.gov.uk/ukpga/2018/19/section/27/1), [Sch. para. 8(6)](https://www.legislation.gov.uk/ukpga/2018/19/schedule/paragraph/8/6)
+
+[^key-5b4aedab1c5fd6e7ba01d45b82f41283]: Textual amendment: Words in s. 28(1B) inserted (19.7.2018) by [Haulage Permits and Trailer Registration Act 2018 (c. 19)](https://www.legislation.gov.uk/ukpga/2018/19), [s. 27(1)](https://www.legislation.gov.uk/ukpga/2018/19/section/27/1), [Sch. para. 8(7)](https://www.legislation.gov.uk/ukpga/2018/19/schedule/paragraph/8/7)
+
+[^key-fe55c20fb6d8e4bae0c92089eab433b5]: Textual amendment: Words in s. 28(2)(a) substituted (19.7.2018) by [Haulage Permits and Trailer Registration Act 2018 (c. 19)](https://www.legislation.gov.uk/ukpga/2018/19), [s. 27(1)](https://www.legislation.gov.uk/ukpga/2018/19/section/27/1), [Sch. para. 8(8)](https://www.legislation.gov.uk/ukpga/2018/19/schedule/paragraph/8/8)
+
+[^key-88b28426707119a28f2c4c86f70ed3ba]: Textual amendment: Words in s. 28(3) substituted (1.11.2008 for E.W.) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [ss. 45(6)](https://www.legislation.gov.uk/ukpga/2006/49/section/45/6), [61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1); [S.I. 2008/1862](https://www.legislation.gov.uk/uksi/2008/1862), [arts. 2](https://www.legislation.gov.uk/uksi/2008/1862/article/2), [4](https://www.legislation.gov.uk/uksi/2008/1862/article/4)
+
+[^c455077]: Commencement: S. 29 wholly in force; s. 29 not in force at Royal Assent see s. 44; Pt. 2 (ss. 17-31) of the Act in force for certain purposes at 1.12.2002 and s. 29 otherwise in force at 1.3.2003 by [S.I. 2002/2957](https://www.legislation.gov.uk/uksi/2002/2957), arts. {2}, {4}
+
+[^c455078]: Commencement: S. 30 wholly in force; s. 30 not in force at Royal Assent see s. 44; Pt. 2 (ss. 17-31) of the Act in force for certain purposes at 1.12.2002 and s. 30 otherwise in force at 1.1.2003 by [S.I. 2002/2957](https://www.legislation.gov.uk/uksi/2002/2957), arts. {2}, {3}
+
+[^key-b2752dedaa9a10295787a5d40c7ae71a]: Textual amendment: S. 30 renumbered (31.7.2008) as s. 30(1) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [ss. 46(8)](https://www.legislation.gov.uk/ukpga/2006/49/section/46/8), [61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1); [S.I. 2008/1864](https://www.legislation.gov.uk/uksi/2008/1864), [art. 2](https://www.legislation.gov.uk/uksi/2008/1864/article/2)
+
+[^key-da721c4bc58bc97300406ec28ca2cbc6]: Textual amendment: Words in s. 30(1) inserted (31.7.2008) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [ss. 46(8)(a)](https://www.legislation.gov.uk/ukpga/2006/49/section/46/8/a), [61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1); [S.I. 2008/1864](https://www.legislation.gov.uk/uksi/2008/1864), [art. 2](https://www.legislation.gov.uk/uksi/2008/1864/article/2)
+
+[^key-8a93e9926df52c201249db96f4887158]: Textual amendment: Words in s. 30(a) inserted (16.3.2007 for E.W.) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [ss. 44(3)](https://www.legislation.gov.uk/ukpga/2006/49/section/44/3), [61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1); [S.I. 2007/466](https://www.legislation.gov.uk/uksi/2007/466), [art. 2(a)](https://www.legislation.gov.uk/uksi/2007/466/article/2/a)
+
+[^key-9124d7f06f65df45faa2212da979aadc]: Textual amendment: S. 30(2)(3) inserted (31.7.2008) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [ss. 46(8)(b)](https://www.legislation.gov.uk/ukpga/2006/49/section/46/8/b), [61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1); [S.I. 2008/1864](https://www.legislation.gov.uk/uksi/2008/1864), [art. 2](https://www.legislation.gov.uk/uksi/2008/1864/article/2)
+
+[^c455079]: Commencement: S. 31 wholly in force; s. 31 not in force at Royal Assent see s. 44; Pt. 2 (ss. 17-31) of the Act in force for certain purposes at 1.12.2002 and s. 31 otherwise in force at 1.1.2003 by [S.I. 2002/2957](https://www.legislation.gov.uk/uksi/2002/2957), arts. {2}, {3}
+
+[^key-76ffed30839a1d8c8c22da2f558c9bb8]: Textual amendment: Words in s. 31(1) inserted (19.7.2018) by [Haulage Permits and Trailer Registration Act 2018 (c. 19)](https://www.legislation.gov.uk/ukpga/2018/19), [s. 27(1)](https://www.legislation.gov.uk/ukpga/2018/19/section/27/1), [Sch. para. 8(10)](https://www.legislation.gov.uk/ukpga/2018/19/schedule/paragraph/8/10)
+
+[^key-e8de6a4f34a40d550b05a2d693446280]: Textual amendment: Words in s. 31(1) substituted (16.3.2007 for E.W.) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [ss. 44(4)](https://www.legislation.gov.uk/ukpga/2006/49/section/44/4), [61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1); [S.I. 2007/466](https://www.legislation.gov.uk/uksi/2007/466), [art. 2(a)](https://www.legislation.gov.uk/uksi/2007/466/article/2/a)
+
+[^key-192c53e2b66a4aad577ac9da503ae16e]: Textual amendment: Words in s. 31(1) inserted (31.7.2008) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [ss. 46(9)](https://www.legislation.gov.uk/ukpga/2006/49/section/46/9), [61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1); [S.I. 2008/1864](https://www.legislation.gov.uk/uksi/2008/1864), [art. 2](https://www.legislation.gov.uk/uksi/2008/1864/article/2)
+
+[^key-004ef8a7016285b832dc92954859a51d]: Textual amendment: Words in s. 31(1) substituted (19.7.2018) by [Haulage Permits and Trailer Registration Act 2018 (c. 19)](https://www.legislation.gov.uk/ukpga/2018/19), [s. 27(1)](https://www.legislation.gov.uk/ukpga/2018/19/section/27/1), [Sch. para. 8(11)](https://www.legislation.gov.uk/ukpga/2018/19/schedule/paragraph/8/11)
+
+[^key-88ca131fc0df6ee08e85f0bd32cb7a0e]: Textual amendment: Words in s. 31(1) substituted (19.7.2018) by [Haulage Permits and Trailer Registration Act 2018 (c. 19)](https://www.legislation.gov.uk/ukpga/2018/19), [s. 27(1)](https://www.legislation.gov.uk/ukpga/2018/19/section/27/1), [Sch. para. 8(12)](https://www.legislation.gov.uk/ukpga/2018/19/schedule/paragraph/8/12)
+
+[^key-eef34761914d14cc4fa28034090d4be8]: Textual amendment: Words in s. 31(2)(a) substituted (25.7.2003 for specified purposes, 29.12.2003 in so far as not already in force) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [s. 411(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/2), [Sch. 17 para. 168](https://www.legislation.gov.uk/ukpga/2003/21/schedule/17/paragraph/168) (with [Sch. 18](https://www.legislation.gov.uk/ukpga/2003/21/schedule/18)); [S.I. 2003/1900](https://www.legislation.gov.uk/uksi/2003/1900), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2003/1900/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2003/1900/article/2/1), [Schs. 1](https://www.legislation.gov.uk/uksi/2003/1900/schedule/1) (with [art. 3](https://www.legislation.gov.uk/uksi/2003/1900/article/3)) (as amended by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), art. 1(3)); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(2)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/2) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+
+[^key-53e231e8f40c6102003a23f65c2098d9]: Textual amendment: [S. 35](https://www.legislation.gov.uk/ukpga/2001/3/section/35) repealed (1.10.2013) by [Scrap Metal Dealers Act 2013 (c. 10)](https://www.legislation.gov.uk/ukpga/2013/10), [ss. 19(1)(d)(ii)](https://www.legislation.gov.uk/ukpga/2013/10/section/19/1/d/ii), [23(2)](https://www.legislation.gov.uk/ukpga/2013/10/section/23/2); [S.I. 2013/1966](https://www.legislation.gov.uk/uksi/2013/1966), [art. 3(r)](https://www.legislation.gov.uk/uksi/2013/1966/article/3/r) (with [art. 5](https://www.legislation.gov.uk/uksi/2013/1966/article/5))
+
+[^key-36b833cf5c217ddd3d3fa1b257be7d81]: Textual amendment: [S. 36](https://www.legislation.gov.uk/ukpga/2001/3/section/36) repealed (12.1.2010) by [Policing and Crime Act 2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26), [s. 116(6)(a)](https://www.legislation.gov.uk/ukpga/2009/26/section/116/6/a), [Sch. 7 para. 131](https://www.legislation.gov.uk/ukpga/2009/26/schedule/7/paragraph/131), [Sch. 8 Pt. 13](https://www.legislation.gov.uk/ukpga/2009/26/schedule/8/part/13)
+
+[^key-6145acbfc8b120ce266b56dd28627147]: Modification: S. 38(1)(3)(4) functions transferred (W.) (24.5.2018) by [The Welsh Ministers (Transfer of Functions) Order 2018 (S.I. 2018/644)](https://www.legislation.gov.uk/uksi/2018/644), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2018/644/article/1/1), [38(1)](https://www.legislation.gov.uk/uksi/2018/644/article/38/1)
+
+[^key-0fb8b517e8493011f9571ecaadf4597d]: Textual amendment: Words in s. 38(5)(b) substituted (16.1.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [s. 157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1), [Sch. 16 para. 276](https://www.legislation.gov.uk/ukpga/2011/13/schedule/16/paragraph/276); [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1) (with [Sch. 2 para. 64](https://www.legislation.gov.uk/uksi/2011/3019/schedule/2/paragraph/64))
+
+[^key-0b44d4aa1cf136532bc31b17cb3922ee]: Textual amendment: Word in s. 38(5)(b) inserted (1.4.2005) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [s. 110(1)](https://www.legislation.gov.uk/ukpga/2003/39/section/110/1), [Sch. 8 para. 394(a)](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/394/a); [S.I. 2005/910](https://www.legislation.gov.uk/uksi/2005/910), [art. 3(y)](https://www.legislation.gov.uk/uksi/2005/910/article/3/y)
+
+[^key-1996582771875b1382b143f117490cfa]: Textual amendment: S. 38(5)(c) repealed (1.4.2005) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [s. 110(1)](https://www.legislation.gov.uk/ukpga/2003/39/section/110/1), [Sch. 8 para. 394(b)](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/394/b), [Sch. 10](https://www.legislation.gov.uk/ukpga/2003/39/schedule/10); [S.I. 2005/910](https://www.legislation.gov.uk/uksi/2005/910), [art. 3(y)](https://www.legislation.gov.uk/uksi/2005/910/article/3/y)
+
+[^key-df198cedc81077e949ffda4ccb50ba08]: Textual amendment: S. 39(3) inserted (31.7.2008) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [ss. 46(10)](https://www.legislation.gov.uk/ukpga/2006/49/section/46/10), [61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1); [S.I. 2008/1864](https://www.legislation.gov.uk/uksi/2008/1864), [art. 2](https://www.legislation.gov.uk/uksi/2008/1864/article/2)
+
+[^key-2692619663897e1897c9994cb32afa82]: Textual amendment: Words in s. 40(6) substituted (25.7.2003 for specified purposes, 29.12.2003 in so far as not already in force) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [s. 411(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/2), [Sch. 17 para. 168](https://www.legislation.gov.uk/ukpga/2003/21/schedule/17/paragraph/168) (with [Sch. 18](https://www.legislation.gov.uk/ukpga/2003/21/schedule/18)); [S.I. 2003/1900](https://www.legislation.gov.uk/uksi/2003/1900), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2003/1900/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2003/1900/article/2/1), [Schs. 1](https://www.legislation.gov.uk/uksi/2003/1900/schedule/1) (with [art. 3](https://www.legislation.gov.uk/uksi/2003/1900/article/3)) (as amended by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), art. 1(3)); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(2)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/2) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+
+[^c444778]: Commencement: [S. 43](https://www.legislation.gov.uk/ukpga/2001/3/section/43) partly in force; [s. 43](https://www.legislation.gov.uk/ukpga/2001/3/section/43) not in force at Royal Assent see [s. 44](https://www.legislation.gov.uk/ukpga/2001/3/section/44); [s. 43](https://www.legislation.gov.uk/ukpga/2001/3/section/43) in force for the purposes of specified provisions of the Schedule: at 2.1.2002 by [S.I. 2001/4059](https://www.legislation.gov.uk/uksi/2001/4059), [art. 2(b)](https://www.legislation.gov.uk/uksi/2001/4059/article/2/b); at 17.9.2002 by [S.I. 2002/2377](https://www.legislation.gov.uk/uksi/2002/2377), [art. 2(c)](https://www.legislation.gov.uk/uksi/2002/2377/article/2/c)
+
+[^c444779]: Subordinate legislation: [S. 44](https://www.legislation.gov.uk/ukpga/2001/3/section/44) power partly exercised: 1.10.2001 appointed for specified provision by [S.I. 2001/3215](https://www.legislation.gov.uk/uksi/2001/3215), [art. 2](https://www.legislation.gov.uk/uksi/2001/3215/article/2);
+
+    [S. 44](https://www.legislation.gov.uk/ukpga/2001/3/section/44) power partly exercised: 2.1.2002 appointed for specified provisions by [S.I. 2001/4059](https://www.legislation.gov.uk/uksi/2001/4059), [art. 2](https://www.legislation.gov.uk/uksi/2001/4059/article/2);
+
+    [S. 44](https://www.legislation.gov.uk/ukpga/2001/3/section/44) power partly exercised: 21.10.2002 appointed for specified provisions by S.I. {2002/1914}, art. 2;
+
+    [S. 44](https://www.legislation.gov.uk/ukpga/2001/3/section/44) power partly exercised: 17.9.2002 appointed for specified provisions by S.I. {2002/2377}, art. 2;
+
+    [S. 44](https://www.legislation.gov.uk/ukpga/2001/3/section/44) power partly exercised: 1.12.2002, 1.1.2003 and 1.3.2003 appointed for specified provisions by S.I. {2002/2957}, arts. 1- 4
+
+[^key-6f091c1b9e5ed227eaa1fbb55cff0e2f]: Textual amendment: Words in s. 45(1) substituted (31.7.2008) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [ss. 46(11)(a)](https://www.legislation.gov.uk/ukpga/2006/49/section/46/11/a), [61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1); [S.I. 2008/1864](https://www.legislation.gov.uk/uksi/2008/1864), [art. 2](https://www.legislation.gov.uk/uksi/2008/1864/article/2)
+
+[^key-3007d2583496b47a37c35de85eaf3b4a]: Textual amendment: Words in s. 45(2) substituted (31.7.2008) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [ss. 46(11)(b)](https://www.legislation.gov.uk/ukpga/2006/49/section/46/11/b), [61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1); [S.I. 2008/1864](https://www.legislation.gov.uk/uksi/2008/1864), [art. 2](https://www.legislation.gov.uk/uksi/2008/1864/article/2)
+
+[^key-ffe462c8f0fd36c8fad262692f7d84ba]: Textual amendment: [S. 45(3)](https://www.legislation.gov.uk/ukpga/2001/3/section/45/3) repealed (12.1.2009) by [Policing and Crime Act 2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26), [s. 116(6)(b)](https://www.legislation.gov.uk/ukpga/2009/26/section/116/6/b), [Sch. 8 Pt. 13](https://www.legislation.gov.uk/ukpga/2009/26/schedule/8/part/13)
+
+[^key-86837614fbf1d5e6d1ec1b1806118ce3]: Textual amendment: Sch. para. 1 repealed (1.10.2013) by [Scrap Metal Dealers Act 2013 (c. 10)](https://www.legislation.gov.uk/ukpga/2013/10), [ss. 19(1)(d)(iii)](https://www.legislation.gov.uk/ukpga/2013/10/section/19/1/d/iii), [23(2)](https://www.legislation.gov.uk/ukpga/2013/10/section/23/2); [S.I. 2013/1966](https://www.legislation.gov.uk/uksi/2013/1966), [art. 3(r)](https://www.legislation.gov.uk/uksi/2013/1966/article/3/r) (with [art. 5](https://www.legislation.gov.uk/uksi/2013/1966/article/5))
+
+[^key-873619ccb2340c974c49b8fddcb38802]: Textual amendment: [Sch. para. 2](https://www.legislation.gov.uk/ukpga/2001/3/schedule/paragraph/2) repealed (1.10.2013) by [Scrap Metal Dealers Act 2013 (c. 10)](https://www.legislation.gov.uk/ukpga/2013/10), [ss. 19(1)(d)(iii)](https://www.legislation.gov.uk/ukpga/2013/10/section/19/1/d/iii), [23(2)](https://www.legislation.gov.uk/ukpga/2013/10/section/23/2); [S.I. 2013/1966](https://www.legislation.gov.uk/uksi/2013/1966), [art. 3(r)](https://www.legislation.gov.uk/uksi/2013/1966/article/3/r) (with [art. 5](https://www.legislation.gov.uk/uksi/2013/1966/article/5))

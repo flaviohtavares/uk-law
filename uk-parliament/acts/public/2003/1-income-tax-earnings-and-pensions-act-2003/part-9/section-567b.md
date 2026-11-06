@@ -1,0 +1,65 @@
+---
+title: Income Tax (Earnings and Pensions) Act 2003, section 567B
+act: Income Tax (Earnings and Pensions) Act 2003
+section: 567B
+status: revised-with-pending-changes
+text_date: '2026-07-15'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2003/1/section/567B
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Income Tax (Earnings and Pensions) Act 2003, section 567B
+
+> **Warning: changes not yet applied to this text (46).** Text as at 2026-07-15. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/1
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 567B. Cases where inheritance tax is paid in respect of pension death benefit[^key-96aa41bc66311708bfb4827994ccb547]
+
+*Extent: E+W+S+N.I.*
+
+(1) This section applies if—
+
+- (a) there is an amount of taxable pension income (“amount TPI”) for a tax year for a pension, annuity or other item of pension income,
+- (b) amount TPI reflects (to any extent) the payment to a person (“**the beneficiary**”) of a benefit under a pension scheme on the death of a member of the scheme (“**the deceased**”),
+- (c) the benefit is not an excluded benefit, and
+- (d) at any time (whether before or after the benefit is paid)—
+  - (i) the beneficiary pays an amount of inheritance tax that is attributable to the value of the deceased’s notional pension property,
+  - (ii) the deceased’s personal representatives pay an amount of inheritance tax that is so attributable and pass on the burden of that payment to the beneficiary, or
+  - (iii) the scheme administrator pays (under section 226B of IHTA 1984) an amount of inheritance tax that is so attributable, and the payment meets the condition in subsection (2).
+
+(2) A payment of an amount of inheritance tax meets the condition in this subsection if (and so far as)—
+
+- (a) in consequence of the payment, the scheme administrator makes an adjustment (under section 226B(5) of IHTA 1984) as a result of which the beneficiary’s entitlement to a benefit other than that mentioned in subsection (1) (“the other benefit”) is reduced, and
+- (b) disregarding that reduction, the other benefit would not give rise to taxable pension income for any tax year.
+
+(3) A deduction is allowed from amount TPI equal to the lesser of—
+
+- (a) the amount of inheritance tax paid as mentioned in subsection (1)(d)(i) or (ii), less so much (if any) of that inheritance tax as has been deducted under this subsection in an earlier tax year, and
+- (b) so much of amount TPI as reflects the payment to the beneficiary of the benefit mentioned in subsection (1).
+
+(4) Where the deceased was under 75 on death, and the benefit mentioned in subsection (1) is a relevant lump sum death benefit, a deduction is allowed from amount TPI equal to the lesser of—
+
+- (a) the amount of inheritance tax paid as mentioned in subsection (1)(d)(iii) so far as it meets the condition in subsection (2), less so much (if any) of that inheritance tax as has been deducted under this subsection in an earlier tax year, and
+- (b) so much of amount TPI as reflects the payment to the beneficiary of the benefit mentioned in subsection (1).
+
+(5) Where a deduction is allowed under both of subsections (3) and (4), the deduction under subsection (4) is to be made first.
+
+(6) For the purposes of subsection (1)(d) the deceased’s personal representatives “pass on the burden” of a payment of inheritance tax to the beneficiary if—
+
+- (a) the personal representatives pay a sum to the beneficiary out of the deceased’s estate that has been reduced by the amount of inheritance tax, or
+- (b) the beneficiary reimburses the personal representatives that amount.
+
+(7) In this section—
+
+- “**IHTA 1984**” means the Inheritance Tax Act 1984;
+- “**inheritance tax**” includes interest on inheritance tax;
+- “**excluded benefit**” has the same meaning as in IHTA 1984;
+- “**notional pension property**” has the same meaning as in IHTA 1984;
+- “**relevant lump sum death benefit**” has the same meaning as in section 637S.
+
+## Annotations
+
+[^key-96aa41bc66311708bfb4827994ccb547]: Textual amendment: [S. 567B](https://www.legislation.gov.uk/ukpga/2003/1/section/567B) inserted (with application in accordance with s. 71 of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [ss. 70(3)](https://www.legislation.gov.uk/ukpga/2026/11/section/70/3), [71](https://www.legislation.gov.uk/ukpga/2026/11/section/71)

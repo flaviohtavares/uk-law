@@ -1,0 +1,55 @@
+---
+title: Equality Act 2010, section 26
+act: Equality Act 2010
+section: '26'
+status: revised-with-pending-changes
+text_date: '2026-10-30'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/ukpga/2010/15/section/26
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Equality Act 2010, section 26
+
+> **Warning: changes not yet applied to this text (10).** Text as at 2026-10-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2010/15
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 26. Harassment
+
+*Extent: E+W+S*
+
+(1) A person (A) harasses another (B) if—
+
+- (a) A engages in unwanted conduct related to a relevant protected characteristic, and
+- (b) the conduct has the purpose or effect of—
+  - (i) violating B's dignity, or
+  - (ii) creating an intimidating, hostile, degrading, humiliating or offensive environment for B.
+
+(2) A also harasses B if—
+
+- (a) A engages in unwanted conduct of a sexual nature, and
+- (b) the conduct has the purpose or effect referred to in subsection (1)(b).
+
+(3) A also harasses B if—
+
+- (a) A or another person engages in unwanted conduct of a sexual nature or that is related to gender reassignment or sex,
+- (b) the conduct has the purpose or effect referred to in subsection (1)(b), and
+- (c) because of B's rejection of or submission to the conduct, A treats B less favourably than A would treat B if B had not rejected or submitted to the conduct.
+
+(4) In deciding whether conduct has the effect referred to in subsection (1)(b), each of the following must be taken into account—
+
+- (a) the perception of B;
+- (b) the other circumstances of the case;
+- (c) whether it is reasonable for the conduct to have that effect.
+
+(5) The relevant protected characteristics are—
+
+- age;
+- disability;
+- gender reassignment;
+- race;
+- religion or belief;
+- sex;
+- sexual orientation.

@@ -1,0 +1,21 @@
+---
+title: The Local Government Area Changes Regulations 1976, section 61
+act: The Local Government Area Changes Regulations 1976
+section: '61'
+status: as-enacted
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1976/246/section/61
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Westlaw UK derived from Crown Copyright material and contributed to legislation.gov.uk
+summary: ''
+---
+
+# The Local Government Area Changes Regulations 1976, section 61
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+## 61. Arrears of rates
+
+All rates made but not collected at the appointed day in respect of hereditaments in an area transferred to a rating area shall be collected and recovered by the rating authority for that area.
+
+In the application of this regulation to a district or London borough regulation 3(4) shall apply.

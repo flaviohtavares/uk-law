@@ -1,0 +1,27 @@
+---
+title: The Building Society Insolvency (England and Wales) Rules 2010, section 65
+act: The Building Society Insolvency (England and Wales) Rules 2010
+section: '65'
+status: revised
+text_date: '2013-04-01'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2010/2581/section/65
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Building Society Insolvency (England and Wales) Rules 2010, section 65
+
+> Text as at 2013-04-01.
+>
+> Extent: England, Wales.
+
+## 65. Admission and rejection of proofs for dividend[^key-bee1cba3aedb3b4505d522eb29873f01]
+
+*Extent: E+W*
+
+Apply rule 4.82 of the 1986 Rules.
+
+## Annotations
+
+[^key-bee1cba3aedb3b4505d522eb29873f01]: Commencement: Rule 65 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)

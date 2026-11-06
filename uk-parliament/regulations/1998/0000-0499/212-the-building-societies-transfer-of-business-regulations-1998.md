@@ -1,0 +1,683 @@
+---
+title: The Building Societies (Transfer of Business) Regulations 1998
+id: uksi/1998/212
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '1998-02-04'
+text_date: '2020-12-31'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/1998/212
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1998/212/pdfs/uksi_19980212_en.pdf
+- http://www.legislation.gov.uk/uksi/1998/212/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Building Societies (Transfer of Business) Regulations 1998
+
+> Text as at 2020-12-31.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+1998 No. 212
+
+BUILDING SOCIETIES
+
+The Building Societies (Transfer of Business) Regulations 1998
+
+Made
+
+4th February 1998
+
+Laid before Parliament
+
+6th February 1998
+
+Coming into force
+
+2nd March 1998
+
+The Building Societies Commission, with the consent of the Treasury, in exercise of the powers conferred upon it by sections 42B(8)(b) and 102(1) and (2) of, and paragraph 5(1) and (2) of Schedule 17 to, the Building Societies Act 1986[^f00001], and of all other powers enabling it in that behalf, hereby makes the following Regulations—[^key-065e2ea84cf727e86f4a03e07ac4050d]
+
+## 1. Citation and commencement[^key-35a60c2d96924eb0e7fcbe1642c907ba]
+
+These Regulations may be cited as the Building Societies (Transfer of Business) Regulations 1998 and shall come into force on 2nd March 1998.
+
+## 2. Interpretation[^key-bc489f5fe4162a778eb94059861d4280]
+
+In these Regulations, except where the context requires otherwise—
+
+- “the Act” means the Building Societies Act 1986;
+- “**connected undertaking**” means a subsidiary undertaking or an associated undertaking;
+- “**date of the transfer notification statement**” means the date upon which the appropriate authority[^key-8f21dfb07fe75521b28ddf7077b2a74b] approves the contents of the transfer notification statement in accordance with paragraph 9(4) of Part II of Schedule 8A to the Act;
+- “**date of the transfer statement**” means the date upon which the appropriate authority[^key-dac6c7982ce59d82547aaee8ca0c2d13] approves the contents of the transfer statement in accordance with paragraph 4(3) of Part I of Schedule 17 to the Act;
+- “**group**” shall be construed in accordance with section 474(1) of the Companies Act 2006[^key-e9e734906284500f0a4d5b8a5c19b900];
+- “**member**” includes where the context so requires in relation to a society which has so transferred its business a former member of that society;
+- “**merger**” means an amalgamation of building societies under section 93 (Amalgamations) of the Act or a transfer to any extent of the engagements of one building society to another under section 94 (Transfer of engagements) of the Act, and “merge” has a corresponding meaning;
+- “offer” in respect of shares or rights relating to shares, includes any invitation to apply for those shares or rights and “**offered**” shall be construed accordingly;
+- “**society**” means a building society that proposes to transfer, or, as the case may be, has transferred, its business to a successor company under section 97 (Transfer of business to commercial company) of the Act;
+- “**statutory cash bonus**” means the distribution of funds by way of bonus required by section 100(2)(b) and (4) of the Act;
+- “**successor company**” means a company to which a society proposes to transfer, or, as the case may be, has transferred, its business; and
+- “**transfer notification statement**” means the statement required by paragraph 9 of Schedule 8A to the Act;
+- “**vesting date**” means the date which is the vesting date for the purpose of the transfer of a society’s business.
+
+## 3. Transfer Statements[^key-85198bfb71ca68e399ec9c56b28720b0]
+
+(1) Subject to paragraph (2) below, any transfer statement sent to members of a society under paragraph 2 of Schedule 17 (Transfers of Business: Supplementary Provisions) to the Act shall give particulars of the matters specified in Part I of Schedule 1 to these Regulations, particulars of the matters specified in either Part II or Part III of that Schedule according to whether the society proposes to transfer its business to an existing company or a specially formed company, and, if shares or rights in relation to shares are to be offered in connection with the transfer, also particulars of the matters specified in Part IV of that Schedule.
+
+(2) Where, by virtue of paragraph (1) above, particulars are required to be stated of any matter, which is not ascertainable at the time when the statement is made, there shall be substituted for that matter a forecast thereof and the fact that the particulars given in the statement relate to a forecast shall be specified in the statement and so shall particulars of—
+
+- (a) the persons making the forecast,
+- (b) the persons (if any) consulted for the purposes of the forecast by its makers, and
+- (c) the facts and assumptions on which it is based.
+
+(3) Where, during the 12 months preceding the date of a transfer statement, a written proposal has been made to the society issuing the statement—
+
+- (a) by or on behalf of a company other than the successor company, for the society to transfer its business to that other company, or
+- (b) by or on behalf of another building society, for the society to merge with that building society,
+
+paragraph (4) below shall apply to that transfer statement.
+
+(4) Where this paragraph applies to a transfer statement the transfer statement shall, notwithstanding, in the case of a merger proposal, that notice of the proposal is required to be given to members of the society under Part II of Schedule 16 (Mergers: Supplementary Provisions) to the Act, or, in the case of a transfer proposal, that notice of the proposal is required to be given to members of the society under Part IA of Schedule 17 (Transfers of Business: Supplementary Provisions) to the Act, give particulars of the following matters—
+
+- (a) the fact of the proposal and the name of the company or society by or on whose behalf the proposal was made, save where the company or society, by or on whose behalf the proposal was made, has made in writing a request that the proposal be treated as confidential and has not withdrawn that request in writing; and
+- (b) the terms of the proposal, save to the extent that the company or society, by or on whose behalf the proposal was made, has made in writing in a request that any such term be treated as confidential and has not withdrawn that request in writing.
+
+## 4. Transfer Summaries[^key-d554a3bb4b11973e377b531c8158cd77]
+
+Any transfer summary sent to members of a society under paragraph 2 of Schedule 17 (Transfers of Business: Supplementary Provisions) to the Act shall contain—
+
+- (a) the information specified in Schedule 2 to these Regulations in the circumstances described; and
+- (b) where, during the 12 months preceding the date of the transfer summary, a written proposal has been made to the society issuing the summary as described in regulation 3(3) above, the information specified in regulation 3(4) above.
+
+## 5. Transfer Notification Statements[^key-d38e2852f566edf9e49885a13f3a7fe6]
+
+(1) Subject to paragraph (2) below, any transfer notification statement sent to members of a society under paragraph 9 of Schedule 8A (Transfer Directions: Modifications of Part X) to the Act shall give particulars of the matters specified in Schedule 3 to these Regulations.
+
+(2) Where, by virtue of paragraph (1) above, particulars are required to be stated of any matter, which is not ascertainable at the time when the statement is made, there shall be substituted for that matter a forecast thereof and the fact that the particulars given in the statement relate to a forecast shall be specified in the statement and so shall particulars of—
+
+- (a) the persons making the forecast,
+- (b) the persons (if any) consulted for the purposes of the forecast by its makers, and
+- (c) the facts and assumptions on which it is based.
+
+(3) Where, during the 12 months preceding the date of a transfer notification statement, a written proposal has been made to the society issuing the statement—
+
+- (a) by or on behalf of a company other than the successor company, for the society to transfer its business to that other company, or
+- (b) by or on behalf of another building society, for the society to merge with that building society,
+
+paragraph (4) below shall apply to that transfer notification statement.
+
+(4) Where this paragraph applies to a transfer notification statement the transfer notification statement shall, notwithstanding, in the case of a merger proposal, that notice of the proposal is required to be given to members of the society under Part II of Schedule 16 (Mergers: Supplementary Provisions) to the Act, or, in the case of a transfer proposal, that notice of the proposal is required to be given to members of the society under Part IA of Schedule 17 (Transfers of Business: Supplementary Provisions) to the Act, give particulars of the following matters—
+
+- (a) the fact of the proposal and the name of the company or society by or on whose behalf the proposal was made, save where the company or society, by or on whose behalf the proposal was made, has made in writing a request that the proposal be treated as confidential and has not withdrawn that request in writing; and
+- (b) the terms of the proposal, save to the extent that the company or society, by or on whose behalf the proposal was made, has made in writing a request that any such term be treated as confidential and has not withdrawn that request in writing.
+
+## 6. Construction of agreements and deeds[^key-307e854027dd2a9668c65e6467e3df87]
+
+(1) Where immediately before the vesting date there subsists an agreement (whether or not in writing) or a deed to which the society is a party, not being an agreement or a deed to which the successor company is also a party, the agreement or deed shall, without prejudice to the generality of paragraph (3) below, have effect on and after the vesting date—
+
+- (a) as if the successor company had been the party thereto in place of the society; and
+- (b) with the modifications set out in paragraph (2) below.
+
+(2) Those modifications are—
+
+- (a) the substitution, for any reference (whether express or implied and, if express, however worded) to the society, of a reference to the successor company; and
+- (b) the substitution, for any reference in general terms (however worded) to persons employed by or agents of the society, of a reference to persons employed by or agents of the successor company.
+
+(3) Subject to paragraph (4) below, every such agreement or deed shall, on and after the vesting date, be construed as if the successor company were the same person in law as the society and accordingly in construing it any consequences which would have followed from a transfer of the society’s business to the successor company shall be disregarded.
+
+(4) Nothing in paragraph (3) above shall cause to be disregarded any provision of an agreement or deed which makes express reference to the transfer of a society’s business under section 97 of the Act.
+
+(5) Where on the vesting date the society has any rights or is subject to any liabilities under an agreement or deed as the assignee or successor in title to a party to that agreement or deed, this regulation shall apply to it in the same manner as if the society were a party thereto.
+
+## 7. Construction of other documents[^key-8bf360606fba569e898caa7774868ec5]
+
+(1) Any instrument or other document (to the extent that it is not an agreement or deed to which regulation 6 above applies or an enactment) in being immediately before the vesting date which refers, whether specifically, generally or by implication, to the society shall have effect on and after the vesting date with the modifications set out in regulation 6(2)(a) and (b) above and shall be construed in the manner in which agreements and deeds are required to be construed by regulation 6(3) and (4) above, and without prejudice to the generality of the foregoing—
+
+- (a) testamentary instruments made before the vesting date whether the testator dies before, on or after that date, and
+- (b) negotiable instruments and orders for payment of money whether drawn, given, accepted or endorsed before, on or after the vesting date,
+
+shall have effect in accordance with this paragraph and with the modifications so prescribed.
+
+(2) Without prejudice to the generality of regulation 6 and paragraph (1) of this regulation, any instrument or document (not being an enactment) which relates to the use of any land or premises in which any interest was vested in, or which was occupied by, the society immediately before the vesting date and which, in relation to that use, refers to a building society or to activities (however described) of a building society shall, for as long as any interest in the land or premises is vested in, or the land or premises are occupied by, the successor company, have effect as if the reference were respectively to the successor company or to activities of a similar character carried on by the successor company.
+
+(3) For the purposes of this regulation, any register or record preserved by any device for storing and processing information shall, if that register or record is so preserved immediately before the vesting date, be treated as a document in being immediately before that date.
+
+## 8. Rights, powers and remedies[^key-92e7ffd3e84044b01b8f8b499836b905]
+
+Without prejudice to the generality of the provisions of regulations 6 and 7(1) above, the successor company and any other person shall, as from the vesting date, have the same rights, powers and remedies (and in particular the same rights and powers as to the taking or resisting of legal proceedings or the taking or resisting of proceedings by or before any authority, arbiter or arbitrator) for ascertaining, perfecting or enforcing any right, liability or obligation transferred to the successor company by virtue of section 97 of the Act as he would have had if that right, liability or obligation had at all material times been a right, liability or obligation of the successor company.
+
+## 9. Legal proceedings[^key-020e4fba9a613f0e9f149c873fd816b2]
+
+Without prejudice to the generality of the provisions of regulations 6, 7(1) and 8 above, any legal proceedings or proceedings by or before any authority, arbiter or arbitrator pending immediately before the vesting date by or against the society in so far as they relate to any property, right, liability or obligation transferred to the successor company by virtue of section 97 of the Act or to any agreement relating to any such property, right, liability or obligation shall, as from the vesting date, fall to be continued by or against the successor company to the exclusion of the society.
+
+## 10. Revocation[^key-feda515b7407ba45e5cf34d7f0511e78]
+
+The Building Societies (Transfer of Business) Regulations 1988[^f00004] and the Building Societies (Transfer of Business) (Amendment) Regulations 1990[^f00005] are hereby revoked.
+
+In witness whereof the common seal of the Building Societies Commission is hereunto affixed, and is authenticated by me, a person authorised under paragraph 14 of Schedule 1 to the Building Societies Act 1986, on the 3rd February 1998.
+
+G.S. Johnson
+
+Secretary to the Commission
+
+We consent to these Regulations.
+
+Graham Allen
+
+Jim Dowd
+
+Two of the Lords Commissioners of Her Majesty’s Treasury
+
+4th February 1998
+
+## SCHEDULE 1 — PRESCRIBED MATTERS FOR TRANSFER STATEMENTS
+
+Regulation 3
+
+### Part I — MATTERS OF WHICH PARTICULARS ARE TO BE INCLUDED IN THE CASE OF ANY TRANSFER
+
+**1.**[^key-8703b8d5dd1a5ed7db1e011718026ec7] A factual statement of the options for the future conduct of the society’s business considered by the society’s board in deciding to recommend the transfer to the members and of the reasons why the board recommended the transfer on the terms proposed.
+
+**2.**[^key-460f3474ea778c3182b86977958e55e5] The consequences of the transfer—
+
+- (a) for shareholding members of the society;
+- (b) for borrowing members of the society; and
+- (c) for employees of the society.
+
+**3.**[^key-7e330de2a72df525ab22ccabcfbfd334] The name, head office address and principal objects of the successor company.
+
+**4.**[^key-7d5ccc7305a07ae4a2907240aba86cca] The audited financial position of the society and its connected undertakings at the most recent reasonably practicable date and in any case not more than six months prior to the date of the transfer statement and of any material change in that position since that date.
+
+**5.**[^key-965566a2e37136ab6afaeceae75d8af6] The main features of the financial record of the society and its connected undertakings for each of the last three financial years in respect of which audited information relating to that record has been published.
+
+**6.**[^key-2469c730c35185128c47947fae541e26] The changes proposed, in consequence of the transfer, in the ownership of the society’s connected undertakings.
+
+**7.**[^key-2a5040659327e89b90c7ce052746d649] The successor company’s authorised and issued share capital and the proposals, if any, for changes therein for the purposes of, or consequent upon, the transfer.
+
+**8.**[^key-1ecaae29b645124d4c85da7a56bfbea2] The changes following the transfer in the factors relevant to the determination by the successor company, compared with the society, of interest rates and other charges to be paid or charged on retail deposits and loans including, but not limited to, the need for the successor company to provide for dividends to be paid to its shareholders.
+
+**9.**[^key-a26683fdd75ae8ef0e22caa5e69ac603] The future financial prospects of the successor company and of any group to which it belongs.
+
+**10.**[^key-854d88942b65dde85fa6072b7eedd37b] The interest of the directors and other officers of the society in the transfer including their interests in the society and its connected undertakings and interests and prospective interests in the successor company and any member of its group.
+
+**11.**[^key-81a8f5fd4c127388093ee1f455e8692e] The compensation or other consideration (if any) proposed to be paid to or in respect of, or to be receivable by or in respect of, the directors and other officers of the society attributable to the transfer.
+
+**12.**[^key-244257a444f7461a26c05431918511bf] The manner in which the salary, fees, borrowing rights and other benefits of directors and other officers of the society to be appointed to any position by the successor company and any member of its group will be affected by such appointment.
+
+**13.**[^key-5d13ec88154103e89dcb54843f3c9e2b] The distribution of funds (if any) proposed to be made to members of the society in consideration of the transfer.
+
+**14.**[^key-41c8be7494d918c04ebbe84dc7cdf867] Any benefits (whether in the form of a distribution of funds or the conferring of rights in relation to shares in the successor company or otherwise) proposed to be conferred in consideration of, or by reason of, the transfer, on—
+
+- (a) members of the society (not being persons referred to in sub-paragraph (b) below);
+- (b) persons receiving benefits by virtue of section 102B of the Act; and
+- (c) other persons,
+
+giving for each of those categories—
+
+- (i) the aggregate value of the benefits to be conferred on persons falling within the category; and
+- (ii) the percentage which that value represents of the value of all the benefits to be conferred.
+
+**15.**[^key-b02d427ab8647b7a4f9a9afebe8d7bdb] The amount of the society’s reserves ascertained as at the most recent reasonably practicable date, and in any case not more than six months prior to the date of the transfer statement.
+
+**16.**[^key-0f909e8803d9ee799db1eadcecd2c199] The amount of the statutory cash bonus and the conditions for its payment.
+
+**17.**[^key-46ef99f597e05624c25fe0ba69e899b1] The opinion of the society’s auditor, or of some other person who would be qualified to be the auditor of the society pursuant to paragraph 5 of Schedule 11 (Auditors: Appointment, Tenure, Qualifications) to the Act, as to the inclusion in the transfer statement of particulars—
+
+- (a) of the matters particulars whereof are required to be included in the statement by paragraphs 4, 5, 7, 13, 14, 15 and 16 of this Part of this Schedule, and
+- (b) in the case of a transfer to an existing company, of the matters particulars whereof are required to be included in the statement by paragraphs 3, 4, 5 and 6 of Part II of this Schedule.
+
+**18.**[^key-1540eabd01bfcf69d797d25a1f1d0630] Whether the person referred to in the foregoing paragraph has given his written consent to the inclusion of particulars of his opinion in the transfer statement in the form and context in which it appears and whether that consent continues to be in effect.
+
+**19.**[^key-0627e48590642ea6208cdfbd983e91da] If any report or opinion (other than the opinion referred to in paragraph 17 above or a report thereof) appears or is referred to in the transfer statement and is attributed to an expert, whether that expert has given his written consent to the inclusion of that report or opinion or particulars thereof in the transfer statement in the form and context in which that report or opinion appears or those particulars appear and whether that consent continues to be in effect.
+
+**20.**[^key-a127d3cea612d60cdd3222aefde06fd4] Any rights to be conferred on members, officers or employees of the society to acquire or receive shares in the successor company in priority to, or on terms not available to, other investors.
+
+**21.**[^key-c5ae0970bb7b50b1b3ef1d8ea9beb1f9] Any change in the terms on which the investments of members of the society will be held as deposits with the successor company.
+
+**22.**[^key-abc5a56e1818f05ec44811a15eb76c88] The extent to which any statutory protection scheme that will apply in relation to deposits with the successor company will differ from that applying to investments in the society.
+
+**23.**[^key-95211d14bf06011b32c52d6eb04792cd]
+
+- (a) The extent to which any scheme for handling complaints by customers of the successor company will differ from that applying to complaints by members of the society and customers of the society and its connected undertakings; and
+- (b) the arrangements for handling complaints by members of the society and customers of the society and its connected undertakings—
+  - (i) made but not resolved by the vesting date; and
+  - (ii) made on or after the vesting date in respect of services provided by the society and its connected undertakings prior to the vesting date.
+
+**24.**[^key-d4284316bdfee9133058ad50e1f2df70] Any terms of the transfer agreement providing for its termination or providing conditions precedent to the completion of the transfer.
+
+**25.**[^key-0b0106b989b81cb20929e72f33c8ee2f] The amount of the total costs and expenses of the transfer.
+
+**26.**[^key-7320e52e68dc8d779bc759bb11e12b05] Any adverse effect which the transfer may have, whether by causing a breach of contract or otherwise, on the contractual arrangements of the society with parties other than the successor company.
+
+**27.**[^key-dd9040e92607a35776149f316f24135b] The acceptance of responsibility by each of the directors of the society and by each of the directors of the successor company for the content of the transfer statement.
+
+**28.**[^key-6cd3bd2e8e391390a91a33e855a41f36] Where a transfer summary is sent to members the arrangements for members to obtain the transfer statement free of charge and the fact that the transfer summary has not been approved by the appropriate authority[^key-4c8f94533b41aab66af93a5bbb21ddd8] and that the transfer statement has been approved by the appropriate authority.
+
+### Part II — MATTERS OF WHICH PARTICULARS ARE TO BE INCLUDED IN THE CASE OF A TRANSFER TO AN EXISTING COMPANY
+
+**1.**[^key-9f75a04fdb3e6d5f6fce519b437553ec] The range and relative importance of the activities of the successor company and any change in those activities or that relative importance intended in consequence of the transfer.
+
+**2.**[^key-c57f1e2d22c94c5e5c0f5100ff698d28] The structure and activities of any group to which the successor company belongs.
+
+**3.**[^key-d00b3111ff2340ee892cb47f4583d326] The audited consolidated financial position of the successor company and of any group to which it belongs at the most recent reasonably practicable date and in any case not more than six months prior to the date of the transfer statement and of any material change in that position since that date.
+
+**4.**[^key-73d09470e3e0227b26065143c416c84a] The main features of the financial record of the successor company and of any group to which it belongs for each of the last three financial years in respect of which audited information relating to that record has been published.
+
+**5.**[^key-f12f9e0b2d7f4ed059163055063569af] The following information for the society and its connected undertakings derived from the published and audited accounts of the society for each of the last three years ending with the most reasonably practicable date prior to the date of the transfer statement and where necessary the accounting records from which such accounts were prepared—
+
+- (a) profit before taxation as a percentage of total income,
+- (b) management expenses as a percentage of mean total assets,
+- (c) return on capital, that is profit or loss after taxation as a percentage of mean reserves,
+- (d) retail shares and deposits as a percentage of total liabilities,
+- (e) residential mortgages as a percentage of total assets,
+- (f) average interest rates on retail shares and deposits, and
+- (g) average interest rates on retail loans,
+
+together with an explanation of what is represented by each of (a) to (g) above and a statement of the basis on which each of (a) to (g) above has been calculated.
+
+**6.**[^key-aae7a287498ebd58eeda36297ccbc9ca] The following information for (i) the successor company, and (ii) for any group to which it belongs, derived from the published and audited accounts of (i) the successor company, and (ii) such group, as appropriate, for each of the last three years ending with the most reasonably practicable date prior to the date of the transfer statement and where necessary the accounting records from which such accounts were prepared—
+
+- (a) profit before taxation as a percentage of total income,
+- (b) management expenses as a percentage of mean total assets,
+- (c) dividend cover,
+- (d) return on capital, that is profit or loss after taxation as a percentage of mean reserves,
+- (e) retail deposits as a percentage of total liabilities,
+- (f) residential mortgages as a percentage of total assets,
+- (g) average interest rates on retail deposits, and
+- (h) average interest rates on retail loans,
+
+prepared, with the exception of (c) above, on a comparable basis to that used for the comparable item in paragraph 5 above, and together with an explanation of what is represented by each of (a) to (h) above and a statement of the basis on which each of (a) to (h) above has been calculated.
+
+**7.**[^key-361a74e90cc06d6a3c98a108ccd7741e] Any person who is known to the successor company to have an interest, either directly or indirectly, in 3 per cent. or more of the company’s equity share capital (within the meaning of the Companies Act 2006)[^key-3f577cb1abbaa2e90db31dd996b29244] and the amount of any such person’s interest.
+
+**8.**[^key-c788304af74b9f424807dc342089c0b3] The directors of the successor company, their interests in the company and in the transfer, and their other business interests.
+
+**9.**[^key-a9ea9990d2c4911d56f0f943f1d51854] The auditors of the successor company.
+
+**10.**[^key-728ac861499d6d1bfc874544e215ea7b] (1)[^key-d84911173c260854ffaea34f42673784] The reasons why the directors of the society and of the successor company are satisfied that there will be no substantial risk that the successor company will not have relevant permission[^key-bdcf755773049cc636fcbe199f4b1223].
+
+(2)[^key-f7c34ec95360271624750c91e321d5cd] “Relevant permission” means—
+
+- (a) such permission under Part 4A[^key-73da8fe01e7e0935acb13f29467876ad] of the Financial Services and Markets Act 2000, [^key-f1d9cf632c49e3c7614079f9a2df8a23]...
+- (b)[^key-e029c78e06541b6911256e9548bfa7a7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+as will enable the successor company to carry on the business which it will have as a result of the transfer without being taken (by virtue of section 20 of that Act) to have contravened a requirement imposed on it by a regulator (within the meaning of section 417 of that Act)[^key-186fca025c4b0bd823896532ad889ddc] under that Act.
+
+**11.**[^key-1d20eac7e048dfcd5adf7b36e6645737] The assessment of the board of the society of—
+
+- (a) the market value of the business of the society on or after the date of the particulars of the financial position of the society referred to in paragraph 4 of Part I of this Schedule; and
+- (b) the value of the total consideration for the transfer to be paid under the terms of the transfer agreement,
+
+and whether the board of the society considers that the consideration referred to in (b) is a fair and reasonable consideration for the business of the society.
+
+Where shares are included in such consideration referred to in (b) above, the value to be included in making such assessment of the value of the total consideration for the transfer shall be their actual or estimated market value, as appropriate, as if they had been issued on or after the date of the summary consolidated financial position of the successor company referred to in paragraph 3 of this Part of this Schedule.
+
+**12.**[^key-cbf0884cd54cfeca04448c08e2c76ea2] If any report valuation or opinion is used as the basis of the assessment in paragraph 11 above the total cost of the fees and disbursements payable to the expert and the contractual terms on which such expert was retained for that report valuation or opinion.
+
+### Part III — MATTERS OF WHICH PARTICULARS ARE TO BE INCLUDED IN THE CASE OF A TRANSFER TO A SPECIALLY FORMED COMPANY
+
+**1.**[^key-cc60b77ea75fb22ec6509b00d71c000f] The intended range and relative importance of the successor company’s activities following the transfer.
+
+**2.**[^key-443f9388dd9ac8fece08cdb0e1600bf6] The directors of the successor company following the transfer, their prospective interests in the company and their other business interests.
+
+**3.**[^key-488d1a24a8db0fa17e8c72f79a671f30] The auditors of the successor company.
+
+**4.**[^key-cbe2fb1103a1097059beb4e616abcafd] (1)[^key-96eacdffaf4feeb261fa080043fb7292] The reasons why the directors of the society and of the successor company are satisfied that there will be no substantial risk that the successor company will not have relevant permission[^key-e11a289dbdc4d42f22e5054f7bddb94a].
+
+(2)[^key-dc8296f6d0a59350db348774d764d197] “Relevant permission” has the meaning given by paragraph 10(2) of Part II of this Schedule.
+
+**5.**[^key-79c0f146b075a57d13a2909e3c4eabf5] The protective provisions for specially formed companies contained in section 101 of the Act.
+
+### Part IV — MATTERS OF WHICH PARTICULARS ARE TO BE INCLUDED IN A CASE WHERE SHARES OR RIGHTS IN RELATION TO SHARES ARE TO BE OFFERED IN CONNECTION WITH A TRANSFER
+
+**1.**[^key-563dcd6157ce855a3bfa0f612f2a06f1] The nature and amount of the shares and the nature of any rights to be offered.
+
+**2.**[^key-055807c740ab26ddcaed768affe9eac3] The time at which the offer will be made.
+
+**3.**[^key-f71012785214633cec03f176939cdf56] The descriptions of persons to whom and the manner in which the shares or rights will be offered.
+
+**4.**[^key-5cf14d213d7af1a229e39db046a60aae] The principal rights that will be attached to any shares to which the offer relates.
+
+**5.**[^key-67a7d63f4fe8d1b2cbe7660cc4a38570] The market value of, and dividends paid or to be paid in respect of, the shares, as follows—
+
+- (a) where such shares are not quoted on any stock market at the date of the transfer statement and are not preference shares, the estimated market value of the shares as if they had been issued on the date of the particulars of the financial position of the society referred to in paragraph 4 of Part I of this Schedule;
+- (b) where such shares are not quoted on any stock market at the date of the transfer statement and are preference shares, (i) the intended price of the shares, and (ii) the basis for determining the guaranteed rate of preference dividend to be paid to the holders of such shares;
+- (c) where such shares are quoted on any stock market at the date of the transfer statement—
+  - (i) the quoted market price of the shares at the last reasonably practical date prior to the date of the transfer statement, and
+  - (ii) the highest and lowest quoted market price of the shares during the period of twelve months ending with the last reasonably practical date prior to the date of the transfer statement, and
+  - (iii) the dividend paid in respect of such shares for each of the last three years ending with the date of the transfer statement.
+
+## SCHEDULE 2 — SPECIFIED INFORMATION FOR TRANSFER SUMMARIES
+
+Regulation 4
+
+**1.**[^key-0acc2a021557eb58a848b244fcb024a0] In the case of any proposed transfer of business information comprising particulars of the matters described in paragraphs 1, 2, 3, 8, 9, 10, 12, 13, 14, 16, 21, 22, 23 and 28 of Part I of Schedule 1 to these Regulations.
+
+**2.**[^key-64692778acd829c21828fe972538eeff] Where the society proposes to transfer its business to an existing company, information comprising particulars of the matters described in paragraphs 1, 2, 3, 5, 6, 10 and 11 of Part II of Schedule 1 to these Regulations.
+
+**3.**[^key-f1a0c5bfff0dc9b21e17b82d27991cca] Where the society proposes to transfer its business to a specially formed company, information comprising particulars of the matters described in paragraphs 1 and 4 of Part III of Schedule 1 to these Regulations.
+
+**4.**[^key-2adce495061ece4609729f9abaf6974d] Where shares or rights in relation to shares are to be offered in connection with the transfer, information comprising particulars of the matters described in paragraph 5 of Part IV of Schedule 1 to these Regulations.
+
+## SCHEDULE 3 — PRESCRIBED MATTERS FOR TRANSFER NOTIFICATION STATEMENTS
+
+Regulation 5
+
+**1.**[^key-52fcebca1385f4c0fd134ad28aa9ae83] The fact that the board of directors of the society is proceeding to transfer the business of the society to the successor company by board resolution at the direction of the appropriate authority[^key-bf91125dbc174e4221f7ec2b062578d3].
+
+**2.**[^key-3af7006ea2bf4c9e545e96dffcf31937] The procedure for the appropriate authority[^key-3f0973b2007e08c8e0dd724618719347] to confirm the transfer, the date for the receipt of written representations and notice of intention to make oral representations and the address to which they should be sent.
+
+**3.**[^key-4f4c995c0d2aae2ed975426a0b81c7ef] The name, head office address and principal objects of the successor company.
+
+**4.**[^key-1470cd62bd5e119df63391c2bc1d00c7] (1)[^key-8f8c64b9a9ea933d425f47c4a46d2efc] The reasons why the directors of the society and of the successor company are satisfied that there will be no substantial risk that the successor company will not have relevant permission[^key-c84235e0b5e1a08285547da6de13a8a3].
+
+(2)[^key-a56fa29002b882048484f2c2b7eddff6] “Relevant permission” has the meaning given by paragraph 10(2) of Part II of Schedule 1 to these Regulations.
+
+**5.**[^key-f9d4b56434dce82b0746373f2bd25fe7] The range and relative importance of the activities of the successor company and any change in those activities or that relative importance intended in consequence of the transfer.
+
+**6.**[^key-cea4fe040c42c72c1fad7cde40d8f9d3] The structure and activities of any group to which the successor company belongs.
+
+**7.**[^key-6974d03f4f4ebaa94effab6596f89a2d] The directors of the successor company, their interests in the company and in the transfer and their other business interests.
+
+**8.**[^key-a05597b8fa3333ee75130ea07618d933] The auditors of the successor company.
+
+**9.**[^key-3b8e6a71c9af0ffd4e1e9a1845377406] The proposed vesting date.
+
+**10.**[^key-fe8d6b688205db716944657c8af8aa1f] Either:
+
+- (a) a summary of the most recently published and audited balance sheet of the society and its connected undertakings (which must not relate to a period ended more than twelve months prior to the date of the transfer notification statement), or
+- (b) if such a balance sheet is not available, the audited financial position of the society and its connected undertakings at the most reasonably practicable date and in any case not more than six months prior to the date of the transfer notification statement and the opinion of the society’s auditor, or of some other person qualified to be the auditor of the society pursuant to paragraph 5 of Schedule 11 (Auditors: Appointment, Tenure, Qualifications) to the Act as to the statement of the financial position.
+
+**11.**[^key-a35c584e0b1a3cd6a8db470230cc5def] Either:
+
+- (a) a summary of the most recently published and audited balance sheet of the successor company and any group to which it belongs (which must not relate to a period ended more than twelve months prior to the date of the transfer notification statement), or
+- (b) if such a balance sheet is not available, the audited financial position of the successor company and any group to which it belongs at the most reasonably practicable date and in any case not more than six months prior to the date of the transfer notification statement and the opinion of the successor company’s auditor, or of some other person qualified to be the auditor of the successor company as to the statement of the financial position.
+
+**12.**[^key-57aec7457b697147eec4440690fe20db] A description of the rights of members of the society to be given up, and the change in the ranking on a winding up of the shares in the society which become deposits with the successor company, following the transfer.
+
+**13.**[^key-7abbe59b87edf09eb5256724071474a0] Any benefits (if any and whether in the form of a distribution of funds or the conferring of rights in relation to shares in the successor company or otherwise) proposed to be conferred on members of the society in consideration of, or by reason of the transfer.
+
+**14.**[^key-458a855690fb1517864f7136473f65bd] Any benefits (whether in the form of a distribution of funds or the conferring of rights in relation to shares in the successor company or otherwise) proposed to be conferred in consideration of, or by reason of, the transfer, on—
+
+- (a) members of the society (not being persons referred to in sub-paragraph (b) below);
+- (b) persons receiving benefits by virtue of section 102B of the Act; and
+- (c) other persons,
+
+giving for each of those categories—
+
+- (i) the aggregate value of the benefits to be conferred on persons falling within the category: and
+- (ii) the percentage which that value represents of the value of all the benefits to be conferred.
+
+**15.**[^key-c57a93883bddb26b60865dd077f1fd8e] The amount of the statutory cash bonus and the conditions for its payment.
+
+**16.**[^key-1d4bec926a10d4b27d6fc3831b0f4edf] Any changes in the terms on which the investments of the members of the society will be held as deposits with the successor company.
+
+**17.**[^key-cba5a07c97a1b692b035e686f87c1a04] Any changes in the terms on which loans by the society will be held as loans by the successor company.
+
+**18.**[^key-996d5e1992706ada3bfd2a19dcd5c499] The extent to which any statutory protection scheme that will apply in relation to deposits with the successor company will differ from that applying to investments in the society.
+
+**19.**[^key-8fae2032e01c1b78d912cb078c337228]
+
+- (a) The extent to which any scheme for handling complaints by customers of the successor company will differ from that applying to complaints by members of the society and customers of the society and its connected undertakings; and
+- (b) the arrangements for handling complaints by members of the society and customers of the society and its connected undertakings—
+  - (i) made but not resolved by the vesting date; and
+  - (ii) made on or after the vesting date in respect of services provided by the society and its connected undertakings prior to the vesting date.
+
+**20.**[^key-1945c57e5a36242dfac54f72a81e4028] The interest of the directors and other officers of the society in the transfer including their interests in the society and its connected undertakings and interests and prospective interests in the successor company and any member of its group.
+
+**21.**[^key-2d5bd9c756012e838d5c1a843cd7a317] The compensation or other consideration (if any) proposed to be paid to or in respect of, or to be receivable by or in respect of, the directors and other officers of the society attributable to the transfer.
+
+**22.**[^key-1c6b747ea2f3d3fa2e67a5f9f77d4e0c] The manner in which the salary, fees, borrowing rights and other benefits of directors and other officers of the society to be appointed to any position by the successor company and any member of its group will be affected by such appointment.
+
+**23.**[^key-2b33745149f006f33b105b46e29b1176] Any benefits (whether in the form of a distribution of funds or the conferring of rights in relation to shares in the successor company or otherwise) proposed to be conferred on the directors and other officers of the society.
+
+**24.**[^key-b9b5a119263cc62cb27604b692e27e84] Any terms of the transfer agreement providing for its termination or providing conditions precedent to the completion of the transfer.
+
+**25.**[^key-bd53855af1c4d2851763a990f0994d2e] The acceptance of responsibility by each of the directors of the society and by each of the directors of the successor company for the content of the transfer statement.
+
+(This note is not part of the Regulations)
+
+These Regulations replace the previous transfer regulations revoked by regulation 10. They prescribe certain matters connected with the transfer of the property, rights and liabilities of a building society to a company which may, by virtue of sections 97(3) and (12) of the Building Societies Act 1986 (“the Act”), be either a company specially formed by the society (and by no others than its nominees) for the purpose of assuming and conducting its business in its place or an existing company carrying on business as a going concern.
+
+When a society proposes a transfer in either of these ways resolutions have to be voted upon by the members of the society and a transfer statement, or a transfer summary, must be put before all those eligible to vote to inform them of the nature of the transfer. Regulation 3 and Schedule 1 to the Regulations prescribe the matters particulars of which must be included in any transfer statement. In addition to the matters thus prescribed, such a statement must, as required by paragraph 3(1)(b) of Schedule 17 to the Act, give particulars of any other matters required by the Building Societies Commission in the case of the particular transfer. Part I of Schedule 1 to the Regulations sets out the matters common to both kinds of transfer, Part II sets out the matters which are relevant to a transfer to an existing company, Part III contains those matters specific to a transfer to a specially formed company and Part IV deals with those matters of which particulars are to be stated where shares or rights in relation to shares are to be offered in connection with a transfer.
+
+A society may send to its members entitled to vote a summary of the transfer statement and regulation 4 and Schedule 2 to the Regulations specify the information which transfer summaries are to give. If a society does this the full transfer statement must be handed to or sent to any member who requests it free of charge.
+
+The Building Societies Commission may direct that the approval of a transfer be by resolution of the board of directors rather than by resolution of the members. The Building Societies Commission can do so where in exercise of its powers of control it directs a society to transfer its business to an existing company or only does not make such a direction because the society is already seeking such a transfer. Where such a transfer has been approved by the board of directors, members must be sent a statement containing information prescribed by regulations. Regulation 5 and Schedule 3 to the Regulations prescribe the matters particulars of which must be included in such a statement. In addition to the matters thus prescribed, such a statement must, as required by paragraph 9(2)(b) of Schedule 8A to the Act, give particulars of any other matters required by the Building Societies Commission in case of the particular transfer.
+
+Regulations 6 to 9 re-enact with only minor drafting amendments provisions relating to the transfer of property, rights, liabilities, rights of action and proceedings to the successor company found in the previous regulations.
+
+## Annotations
+
+[^f00001]: Footnote: [1986 c. 53](https://www.legislation.gov.uk/ukpga/1986/53); section 42B was inserted by the Building Societies Act [1997 (c. 32)](https://www.legislation.gov.uk/ukpga/1997/32), s. 17(1); s. 102 was amended by the Banking Act [1987 (c. 22)](https://www.legislation.gov.uk/ukpga/1987/22), s. 108(1) and Schedule 6, paragraph 26 and by the Building Societies (Distributions) Act [1997 (c. 41)](https://www.legislation.gov.uk/ukpga/1997/41), s. 1(3); Schedule 17 was amended by the Building Societies Act [1997 (c. 32)](https://www.legislation.gov.uk/ukpga/1997/32), s. 30(3) and Schedule 5.
+
+[^key-065e2ea84cf727e86f4a03e07ac4050d]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/1998/212) applied in part (with modifications) (5.3.2009) by [The Mutual Societies (Transfers) Order 2009 (S.I. 2009/509)](https://www.legislation.gov.uk/uksi/2009/509), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2009/509/article/1/2), [14-17](https://www.legislation.gov.uk/uksi/2009/509/article/14) (with [arts. 3](https://www.legislation.gov.uk/uksi/2009/509/article/3), [18](https://www.legislation.gov.uk/uksi/2009/509/article/18))
+
+[^key-35a60c2d96924eb0e7fcbe1642c907ba]: Commencement: Reg. 1 in force at 2.3.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/212/regulation/1)
+
+[^key-bc489f5fe4162a778eb94059861d4280]: Commencement: Reg. 2 in force at 2.3.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/212/regulation/1)
+
+[^key-8f21dfb07fe75521b28ddf7077b2a74b]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/1998/212/regulation/2) substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 10 para. 4(2)(a)](https://www.legislation.gov.uk/uksi/2013/496/schedule/10/paragraph/4/2/a) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
+
+[^key-dac6c7982ce59d82547aaee8ca0c2d13]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/1998/212/regulation/2) substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 10 para. 4(2)(b)](https://www.legislation.gov.uk/uksi/2013/496/schedule/10/paragraph/4/2/b) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
+
+[^key-e9e734906284500f0a4d5b8a5c19b900]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/1998/212/regulation/2) substituted (12.5.2011) by [The Companies Act 2006 (Consequential Amendments and Transitional Provisions) Order 2011 (S.I. 2011/1265)](https://www.legislation.gov.uk/uksi/2011/1265), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2), [8(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/8/2)
+
+[^key-85198bfb71ca68e399ec9c56b28720b0]: Commencement: Reg. 3 in force at 2.3.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/212/regulation/1)
+
+[^key-d554a3bb4b11973e377b531c8158cd77]: Commencement: Reg. 4 in force at 2.3.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/212/regulation/1)
+
+[^key-d38e2852f566edf9e49885a13f3a7fe6]: Commencement: Reg. 5 in force at 2.3.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/212/regulation/1)
+
+[^key-307e854027dd2a9668c65e6467e3df87]: Commencement: Reg. 6 in force at 2.3.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/212/regulation/1)
+
+[^key-8bf360606fba569e898caa7774868ec5]: Commencement: Reg. 7 in force at 2.3.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/212/regulation/1)
+
+[^key-92e7ffd3e84044b01b8f8b499836b905]: Commencement: Reg. 8 in force at 2.3.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/212/regulation/1)
+
+[^key-020e4fba9a613f0e9f149c873fd816b2]: Commencement: Reg. 9 in force at 2.3.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/212/regulation/1)
+
+[^key-feda515b7407ba45e5cf34d7f0511e78]: Commencement: Reg. 10 in force at 2.3.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/212/regulation/1)
+
+[^f00004]: Footnote: [S.I. 1988/1153](https://www.legislation.gov.uk/uksi/1988/1153).
+
+[^f00005]: Footnote: [S.I. 1990/1695](https://www.legislation.gov.uk/uksi/1990/1695).
+
+[^key-8703b8d5dd1a5ed7db1e011718026ec7]: Commencement: Sch. 1 Pt. 1 para. 1 in force at 2.3.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/212/regulation/1)
+
+[^key-460f3474ea778c3182b86977958e55e5]: Commencement: Sch. 1 Pt. 1 para. 2 in force at 2.3.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/212/regulation/1)
+
+[^key-7e330de2a72df525ab22ccabcfbfd334]: Commencement: Sch. 1 Pt. 1 para. 3 in force at 2.3.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/212/regulation/1)
+
+[^key-7d5ccc7305a07ae4a2907240aba86cca]: Commencement: Sch. 1 Pt. 1 para. 4 in force at 2.3.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/212/regulation/1)
+
+[^key-965566a2e37136ab6afaeceae75d8af6]: Commencement: Sch. 1 Pt. 1 para. 5 in force at 2.3.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/212/regulation/1)
+
+[^key-2469c730c35185128c47947fae541e26]: Commencement: Sch. 1 Pt. 1 para. 6 in force at 2.3.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/212/regulation/1)
+
+[^key-2a5040659327e89b90c7ce052746d649]: Commencement: Sch. 1 Pt. 1 para. 7 in force at 2.3.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/212/regulation/1)
+
+[^key-1ecaae29b645124d4c85da7a56bfbea2]: Commencement: Sch. 1 Pt. 1 para. 8 in force at 2.3.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/212/regulation/1)
+
+[^key-a26683fdd75ae8ef0e22caa5e69ac603]: Commencement: Sch. 1 Pt. 1 para. 9 in force at 2.3.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/212/regulation/1)
+
+[^key-854d88942b65dde85fa6072b7eedd37b]: Commencement: Sch. 1 Pt. 1 para. 10 in force at 2.3.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/212/regulation/1)
+
+[^key-81a8f5fd4c127388093ee1f455e8692e]: Commencement: Sch. 1 Pt. 1 para. 11 in force at 2.3.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/212/regulation/1)
+
+[^key-244257a444f7461a26c05431918511bf]: Commencement: Sch. 1 Pt. 1 para. 12 in force at 2.3.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/212/regulation/1)
+
+[^key-5d13ec88154103e89dcb54843f3c9e2b]: Commencement: Sch. 1 Pt. 1 para. 13 in force at 2.3.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/212/regulation/1)
+
+[^key-41c8be7494d918c04ebbe84dc7cdf867]: Commencement: Sch. 1 Pt. 1 para. 14 in force at 2.3.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/212/regulation/1)
+
+[^key-b02d427ab8647b7a4f9a9afebe8d7bdb]: Commencement: Sch. 1 Pt. 1 para. 15 in force at 2.3.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/212/regulation/1)
+
+[^key-0f909e8803d9ee799db1eadcecd2c199]: Commencement: Sch. 1 Pt. 1 para. 16 in force at 2.3.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/212/regulation/1)
+
+[^key-46ef99f597e05624c25fe0ba69e899b1]: Commencement: Sch. 1 Pt. 1 para. 17 in force at 2.3.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/212/regulation/1)
+
+[^key-1540eabd01bfcf69d797d25a1f1d0630]: Commencement: Sch. 1 Pt. 1 para. 18 in force at 2.3.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/212/regulation/1)
+
+[^key-0627e48590642ea6208cdfbd983e91da]: Commencement: Sch. 1 Pt. 1 para. 19 in force at 2.3.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/212/regulation/1)
+
+[^key-a127d3cea612d60cdd3222aefde06fd4]: Commencement: Sch. 1 Pt. 1 para. 20 in force at 2.3.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/212/regulation/1)
+
+[^key-c5ae0970bb7b50b1b3ef1d8ea9beb1f9]: Commencement: Sch. 1 Pt. 1 para. 21 in force at 2.3.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/212/regulation/1)
+
+[^key-abc5a56e1818f05ec44811a15eb76c88]: Commencement: Sch. 1 Pt. 1 para. 22 in force at 2.3.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/212/regulation/1)
+
+[^key-95211d14bf06011b32c52d6eb04792cd]: Commencement: Sch. 1 Pt. 1 para. 23 in force at 2.3.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/212/regulation/1)
+
+[^key-d4284316bdfee9133058ad50e1f2df70]: Commencement: Sch. 1 Pt. 1 para. 24 in force at 2.3.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/212/regulation/1)
+
+[^key-0b0106b989b81cb20929e72f33c8ee2f]: Commencement: Sch. 1 Pt. 1 para. 25 in force at 2.3.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/212/regulation/1)
+
+[^key-7320e52e68dc8d779bc759bb11e12b05]: Commencement: Sch. 1 Pt. 1 para. 26 in force at 2.3.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/212/regulation/1)
+
+[^key-dd9040e92607a35776149f316f24135b]: Commencement: Sch. 1 Pt. 1 para. 27 in force at 2.3.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/212/regulation/1)
+
+[^key-6cd3bd2e8e391390a91a33e855a41f36]: Commencement: Sch. 1 Pt. 1 para. 28 in force at 2.3.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/212/regulation/1)
+
+[^key-4c8f94533b41aab66af93a5bbb21ddd8]: Textual amendment: Words in Sch. 1 Pt. 1 para. 28 substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 10 para. 4(3)](https://www.legislation.gov.uk/uksi/2013/496/schedule/10/paragraph/4/3) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
+
+[^key-9f75a04fdb3e6d5f6fce519b437553ec]: Commencement: Sch. 1 Pt. 2 para. 1 in force at 2.3.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/212/regulation/1)
+
+[^key-c57f1e2d22c94c5e5c0f5100ff698d28]: Commencement: Sch. 1 Pt. 2 para. 2 in force at 2.3.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/212/regulation/1)
+
+[^key-d00b3111ff2340ee892cb47f4583d326]: Commencement: Sch. 1 Pt. 2 para. 3 in force at 2.3.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/212/regulation/1)
+
+[^key-73d09470e3e0227b26065143c416c84a]: Commencement: Sch. 1 Pt. 2 para. 4 in force at 2.3.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/212/regulation/1)
+
+[^key-f12f9e0b2d7f4ed059163055063569af]: Commencement: Sch. 1 Pt. 2 para. 5 in force at 2.3.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/212/regulation/1)
+
+[^key-aae7a287498ebd58eeda36297ccbc9ca]: Commencement: Sch. 1 Pt. 2 para. 6 in force at 2.3.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/212/regulation/1)
+
+[^key-361a74e90cc06d6a3c98a108ccd7741e]: Commencement: Sch. 1 Pt. 2 para. 7 in force at 2.3.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/212/regulation/1)
+
+[^key-3f577cb1abbaa2e90db31dd996b29244]: Textual amendment: Words in Sch. 1 Pt. 2 para. 7 substituted (12.5.2011) by [The Companies Act 2006 (Consequential Amendments and Transitional Provisions) Order 2011 (S.I. 2011/1265)](https://www.legislation.gov.uk/uksi/2011/1265), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2), [8(3)](https://www.legislation.gov.uk/uksi/2011/1265/article/8/3)
+
+[^key-c788304af74b9f424807dc342089c0b3]: Commencement: Sch. 1 Pt. 2 para. 8 in force at 2.3.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/212/regulation/1)
+
+[^key-a9ea9990d2c4911d56f0f943f1d51854]: Commencement: Sch. 1 Pt. 2 para. 9 in force at 2.3.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/212/regulation/1)
+
+[^key-728ac861499d6d1bfc874544e215ea7b]: Commencement: Sch. 1 Pt. 2 para. 10 in force at 2.3.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/212/regulation/1)
+
+[^key-d84911173c260854ffaea34f42673784]: Textual amendment: Sch. 1 Pt. 2 para. 10 renumbered as Sch. 1 Pt. 2 para. 10(1) (1.12.2001) by [The Financial Services and Markets Act 2000 (Consequential Amendments and Repeals) Order 2001 (S.I. 2001/3649)](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [564(1)(a)](https://www.legislation.gov.uk/uksi/2001/3649/article/564/1/a)
+
+[^key-bdcf755773049cc636fcbe199f4b1223]: Textual amendment: Words in Sch. 1 Pt. 2 para. 10(1) substituted (1.12.2001) by [The Financial Services and Markets Act 2000 (Consequential Amendments and Repeals) Order 2001 (S.I. 2001/3649)](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [564(1)(b)](https://www.legislation.gov.uk/uksi/2001/3649/article/564/1/b)
+
+[^key-f7c34ec95360271624750c91e321d5cd]: Textual amendment: Sch. 1 Pt. 2 para. 10(2) inserted (1.12.2001) by [The Financial Services and Markets Act 2000 (Consequential Amendments and Repeals) Order 2001 (S.I. 2001/3649)](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [564(1)(c)](https://www.legislation.gov.uk/uksi/2001/3649/article/564/1/c)
+
+[^key-73da8fe01e7e0935acb13f29467876ad]: Textual amendment: Words in Sch. 1 Pt. 2 para. 10(2) substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 10 para. 4(4)(a)](https://www.legislation.gov.uk/uksi/2013/496/schedule/10/paragraph/4/4/a) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
+
+[^key-f1d9cf632c49e3c7614079f9a2df8a23]: Textual amendment: Word in Sch. 1 Pt. 2 para. 10(2)(a) omitted (31.12.2020) by virtue of [The Building Societies Legislation (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1187)](https://www.legislation.gov.uk/uksi/2018/1187), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1187/regulation/1), [9(a)](https://www.legislation.gov.uk/uksi/2018/1187/regulation/9); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-e029c78e06541b6911256e9548bfa7a7]: Textual amendment: Sch. 1 Pt. 2 para. 10(2)(b) omitted (31.12.2020) by virtue of [The Building Societies Legislation (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1187)](https://www.legislation.gov.uk/uksi/2018/1187), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1187/regulation/1), [9(b)](https://www.legislation.gov.uk/uksi/2018/1187/regulation/9); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-186fca025c4b0bd823896532ad889ddc]: Textual amendment: Words in Sch. 1 Pt. 2 para. 10(2) substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 10 para. 4(4)(b)](https://www.legislation.gov.uk/uksi/2013/496/schedule/10/paragraph/4/4/b) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
+
+[^key-1d20eac7e048dfcd5adf7b36e6645737]: Commencement: Sch. 1 Pt. 2 para. 11 in force at 2.3.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/212/regulation/1)
+
+[^key-cbf0884cd54cfeca04448c08e2c76ea2]: Commencement: Sch. 1 Pt. 2 para. 12 in force at 2.3.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/212/regulation/1)
+
+[^key-cc60b77ea75fb22ec6509b00d71c000f]: Commencement: Sch. 1 Pt. 3 para. 1 in force at 2.3.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/212/regulation/1)
+
+[^key-443f9388dd9ac8fece08cdb0e1600bf6]: Commencement: Sch. 1 Pt. 3 para. 2 in force at 2.3.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/212/regulation/1)
+
+[^key-488d1a24a8db0fa17e8c72f79a671f30]: Commencement: Sch. 1 Pt. 3 para. 3 in force at 2.3.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/212/regulation/1)
+
+[^key-cbe2fb1103a1097059beb4e616abcafd]: Commencement: Sch. 1 Pt. 3 para. 4 in force at 2.3.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/212/regulation/1)
+
+[^key-96eacdffaf4feeb261fa080043fb7292]: Textual amendment: Sch. 1 Pt. 3 para. 4 renumbered as Sch. 1 Pt. 3 para. 4(1) (1.12.2001) by [The Financial Services and Markets Act 2000 (Consequential Amendments and Repeals) Order 2001 (S.I. 2001/3649)](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [564(2)(a)](https://www.legislation.gov.uk/uksi/2001/3649/article/564/2/a)
+
+[^key-e11a289dbdc4d42f22e5054f7bddb94a]: Textual amendment: Words in Sch. 1 Pt. 3 para. 4(1) substituted (1.12.2001) by [The Financial Services and Markets Act 2000 (Consequential Amendments and Repeals) Order 2001 (S.I. 2001/3649)](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [564(2)(b)](https://www.legislation.gov.uk/uksi/2001/3649/article/564/2/b)
+
+[^key-dc8296f6d0a59350db348774d764d197]: Textual amendment: Sch. 1 Pt. 3 para. 4(2) inserted (1.12.2001) by [The Financial Services and Markets Act 2000 (Consequential Amendments and Repeals) Order 2001 (S.I. 2001/3649)](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [564(2)(c)](https://www.legislation.gov.uk/uksi/2001/3649/article/564/2/c)
+
+[^key-79c0f146b075a57d13a2909e3c4eabf5]: Commencement: Sch. 1 Pt. 3 para. 5 in force at 2.3.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/212/regulation/1)
+
+[^key-563dcd6157ce855a3bfa0f612f2a06f1]: Commencement: Sch. 1 Pt. 4 para. 1 in force at 2.3.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/212/regulation/1)
+
+[^key-055807c740ab26ddcaed768affe9eac3]: Commencement: Sch. 1 Pt. 4 para. 2 in force at 2.3.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/212/regulation/1)
+
+[^key-f71012785214633cec03f176939cdf56]: Commencement: Sch. 1 Pt. 4 para. 3 in force at 2.3.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/212/regulation/1)
+
+[^key-5cf14d213d7af1a229e39db046a60aae]: Commencement: Sch. 1 Pt. 4 para. 4 in force at 2.3.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/212/regulation/1)
+
+[^key-67a7d63f4fe8d1b2cbe7660cc4a38570]: Commencement: Sch. 1 Pt. 4 para. 5 in force at 2.3.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/212/regulation/1)
+
+[^key-0acc2a021557eb58a848b244fcb024a0]: Commencement: Sch. 2 para. 1 in force at 2.3.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/212/regulation/1)
+
+[^key-64692778acd829c21828fe972538eeff]: Commencement: Sch. 2 para. 2 in force at 2.3.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/212/regulation/1)
+
+[^key-f1a0c5bfff0dc9b21e17b82d27991cca]: Commencement: Sch. 2 para. 3 in force at 2.3.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/212/regulation/1)
+
+[^key-2adce495061ece4609729f9abaf6974d]: Commencement: Sch. 2 para. 4 in force at 2.3.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/212/regulation/1)
+
+[^key-52fcebca1385f4c0fd134ad28aa9ae83]: Commencement: Sch. 3 para. 1 in force at 2.3.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/212/regulation/1)
+
+[^key-bf91125dbc174e4221f7ec2b062578d3]: Textual amendment: Words in [Sch. 3 para. 1](https://www.legislation.gov.uk/uksi/1998/212/schedule/3/paragraph/1) substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 10 para. 4(5)](https://www.legislation.gov.uk/uksi/2013/496/schedule/10/paragraph/4/5) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
+
+[^key-3af7006ea2bf4c9e545e96dffcf31937]: Commencement: Sch. 3 para. 2 in force at 2.3.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/212/regulation/1)
+
+[^key-3f0973b2007e08c8e0dd724618719347]: Textual amendment: Words in [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/1998/212/schedule/3/paragraph/2) substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 10 para. 4(5)](https://www.legislation.gov.uk/uksi/2013/496/schedule/10/paragraph/4/5) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
+
+[^key-4f4c995c0d2aae2ed975426a0b81c7ef]: Commencement: Sch. 3 para. 3 in force at 2.3.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/212/regulation/1)
+
+[^key-1470cd62bd5e119df63391c2bc1d00c7]: Commencement: Sch. 3 para. 4 in force at 2.3.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/212/regulation/1)
+
+[^key-8f8c64b9a9ea933d425f47c4a46d2efc]: Textual amendment: Sch. 3 para. 4 renumbered as Sch. 3 para. 4(1) (1.12.2001) by [The Financial Services and Markets Act 2000 (Consequential Amendments and Repeals) Order 2001 (S.I. 2001/3649)](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [564(3)(a)](https://www.legislation.gov.uk/uksi/2001/3649/article/564/3/a)
+
+[^key-c84235e0b5e1a08285547da6de13a8a3]: Textual amendment: Words in Sch. 3 para. 4(1) substituted (1.12.2001) by [The Financial Services and Markets Act 2000 (Consequential Amendments and Repeals) Order 2001 (S.I. 2001/3649)](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [564(3)(b)](https://www.legislation.gov.uk/uksi/2001/3649/article/564/3/b)
+
+[^key-a56fa29002b882048484f2c2b7eddff6]: Textual amendment: Sch. 3 para. 4(2) inserted (1.12.2001) by [The Financial Services and Markets Act 2000 (Consequential Amendments and Repeals) Order 2001 (S.I. 2001/3649)](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [564(3)(c)](https://www.legislation.gov.uk/uksi/2001/3649/article/564/3/c)
+
+[^key-f9d4b56434dce82b0746373f2bd25fe7]: Commencement: Sch. 3 para. 5 in force at 2.3.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/212/regulation/1)
+
+[^key-cea4fe040c42c72c1fad7cde40d8f9d3]: Commencement: Sch. 3 para. 6 in force at 2.3.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/212/regulation/1)
+
+[^key-6974d03f4f4ebaa94effab6596f89a2d]: Commencement: Sch. 3 para. 7 in force at 2.3.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/212/regulation/1)
+
+[^key-a05597b8fa3333ee75130ea07618d933]: Commencement: Sch. 3 para. 8 in force at 2.3.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/212/regulation/1)
+
+[^key-3b8e6a71c9af0ffd4e1e9a1845377406]: Commencement: Sch. 3 para. 9 in force at 2.3.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/212/regulation/1)
+
+[^key-fe8d6b688205db716944657c8af8aa1f]: Commencement: Sch. 3 para. 10 in force at 2.3.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/212/regulation/1)
+
+[^key-a35c584e0b1a3cd6a8db470230cc5def]: Commencement: Sch. 3 para. 11 in force at 2.3.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/212/regulation/1)
+
+[^key-57aec7457b697147eec4440690fe20db]: Commencement: Sch. 3 para. 12 in force at 2.3.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/212/regulation/1)
+
+[^key-7abbe59b87edf09eb5256724071474a0]: Commencement: Sch. 3 para. 13 in force at 2.3.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/212/regulation/1)
+
+[^key-458a855690fb1517864f7136473f65bd]: Commencement: Sch. 3 para. 14 in force at 2.3.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/212/regulation/1)
+
+[^key-c57a93883bddb26b60865dd077f1fd8e]: Commencement: Sch. 3 para. 15 in force at 2.3.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/212/regulation/1)
+
+[^key-1d4bec926a10d4b27d6fc3831b0f4edf]: Commencement: Sch. 3 para. 16 in force at 2.3.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/212/regulation/1)
+
+[^key-cba5a07c97a1b692b035e686f87c1a04]: Commencement: Sch. 3 para. 17 in force at 2.3.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/212/regulation/1)
+
+[^key-996d5e1992706ada3bfd2a19dcd5c499]: Commencement: Sch. 3 para. 18 in force at 2.3.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/212/regulation/1)
+
+[^key-8fae2032e01c1b78d912cb078c337228]: Commencement: Sch. 3 para. 19 in force at 2.3.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/212/regulation/1)
+
+[^key-1945c57e5a36242dfac54f72a81e4028]: Commencement: Sch. 3 para. 20 in force at 2.3.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/212/regulation/1)
+
+[^key-2d5bd9c756012e838d5c1a843cd7a317]: Commencement: Sch. 3 para. 21 in force at 2.3.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/212/regulation/1)
+
+[^key-1c6b747ea2f3d3fa2e67a5f9f77d4e0c]: Commencement: Sch. 3 para. 22 in force at 2.3.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/212/regulation/1)
+
+[^key-2b33745149f006f33b105b46e29b1176]: Commencement: Sch. 3 para. 23 in force at 2.3.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/212/regulation/1)
+
+[^key-b9b5a119263cc62cb27604b692e27e84]: Commencement: Sch. 3 para. 24 in force at 2.3.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/212/regulation/1)
+
+[^key-bd53855af1c4d2851763a990f0994d2e]: Commencement: Sch. 3 para. 25 in force at 2.3.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/212/regulation/1)

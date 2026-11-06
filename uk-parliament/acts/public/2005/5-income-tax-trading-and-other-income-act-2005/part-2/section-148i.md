@@ -1,0 +1,63 @@
+---
+title: Income Tax (Trading and Other Income) Act 2005, section 148I
+act: Income Tax (Trading and Other Income) Act 2005
+section: 148I
+status: revised-with-pending-changes
+text_date: '2026-07-15'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2005/5/section/148I
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Income Tax (Trading and Other Income) Act 2005, section 148I
+
+> **Warning: changes not yet applied to this text (8).** Text as at 2026-07-15. See https://www.legislation.gov.uk/changes/affected/ukpga/2005/5
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 148I. Lessee under long funding operating lease[^c19154671]
+
+*Extent: E+W+S+N.I.*
+
+(1) This section applies for the purpose of calculating the profits of a person carrying on a trade, profession or vocation for a period of account in which the person is the lessee of any plant or machinery under a long funding operating lease.
+
+(2) The deductions that may be allowed in calculating the profits of the person for the period of account are to be reduced in accordance with the following provisions of this section.
+
+(3) The amount of the reduction for any period of account is to be determined as follows.
+
+(4) First, find the “**relevant value**” for the purposes of subsection (6)(a), which is—
+
+- (a) the market value of the plant or machinery at the commencement of the term of the lease, unless paragraph (b) applies;
+- (b) if the lessee—
+  - (i) owns the plant or machinery as a result of having incurred expenditure on its provision for purposes other than those of a qualifying activity, but
+  - (ii) brings the plant or machinery into use for the purposes of a qualifying activity on or after 1st April 2006,
+
+  the lower of first use market value and first use amortised market value.
+
+(5) In subsection (4)—
+
+- “**first use amortised market value**” means the value that the plant or machinery would have—
+  - (a) at the time when it is first brought into use for the purposes of the qualifying activity, but
+  - (b) on the assumption that the market value of the plant or machinery at the commencement of the term of the lease had been written off on a straight line basis over the remaining useful economic life of the plant or machinery;
+- “**first use market value**” means the market value of the plant or machinery at the time when it is first brought into use for the purposes of the qualifying activity.
+
+(6) From—
+
+- (a) the relevant value determined in accordance with subsection (4),
+
+subtract
+
+- (b) the amount which, at the commencement of the term of the lease, is (or, in a case falling within subsection (4)(b), would have been) expected to be the market value of the plant or machinery at the end of the term of the lease,
+
+to find the expected gross reduction over the term of the lease.
+
+(7) Apportion the amount of that expected gross reduction to each period of account in which any part of the term of the lease falls.
+
+(8) The apportionment must be on a time basis according to the proportion of the term of the lease that falls in each period of account.
+
+(9) The amount of the reduction for any period of account is the amount so apportioned to that period.
+
+## Annotations
+
+[^c19154671]: Textual amendment: Pt. 2 Ch. 10A, (ss 148A-148J) inserted (19.7.2006) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [s. 81](https://www.legislation.gov.uk/ukpga/2006/25/section/81), [Sch. 8 para. 13](https://www.legislation.gov.uk/ukpga/2006/25/schedule/8/paragraph/13)

@@ -1,0 +1,43 @@
+---
+title: Scotland Act 1998, section 25
+act: Scotland Act 1998
+section: '25'
+status: revised-with-pending-changes
+text_date: '2026-09-16'
+extent: S
+source_url: https://www.legislation.gov.uk/ukpga/1998/46/section/25
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Scotland Act 1998, section 25
+
+> **Warning: changes not yet applied to this text (14).** Text as at 2026-09-16. See https://www.legislation.gov.uk/changes/affected/ukpga/1998/46
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 25. Witnesses and documents: offences.
+
+*Extent: S*
+
+(1) Any person to whom a notice under section 24(1) has been given who—
+
+- (a) refuses or fails to attend proceedings as required by the notice,
+- (b) refuses or fails, when attending proceedings as required by the notice, to answer any question concerning the subjects specified in the notice,
+- (c) deliberately alters, suppresses, conceals or destroys any document which he is required to produce by the notice, or
+- (d) refuses or fails to produce any such document,
+
+is guilty of an offence.
+
+(2) Subsection (1) is subject to sections 23(9) and (10) and 27(3).
+
+(3) It is a defence for a person charged with an offence under subsection (1)(a), (b) or (d) to prove that he had a reasonable excuse for the refusal or failure.
+
+(4) A person guilty of an offence under this section is liable on summary conviction to a fine not exceeding level 5 on the standard scale or to imprisonment for a period not exceeding three months.
+
+(5) Where an offence under this section which has been committed by a body corporate is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of—
+
+- (a) a director, manager, secretary or other similar officer of the body corporate, or
+- (b) any person who was purporting to act in any such capacity,
+
+he, as well as the body corporate, is guilty of that offence and liable to be proceeded against accordingly.

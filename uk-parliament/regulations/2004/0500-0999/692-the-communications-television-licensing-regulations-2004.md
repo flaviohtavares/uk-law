@@ -1,0 +1,1415 @@
+---
+title: The Communications (Television Licensing) Regulations 2004
+id: uksi/2004/692
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2004-03-10'
+text_date: '2026-04-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2004/692
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2004/692/pdfs/uksi_20040692_en.pdf
+- http://www.legislation.gov.uk/uksi/2004/692/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Communications (Television Licensing) Regulations 2004
+
+> Text as at 2026-04-01.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2004 No. 692
+
+ELECTRONIC COMMUNICATIONS
+
+BROADCASTING
+
+The Communications (Television Licensing) Regulations 2004
+
+Made
+
+10th March 2004
+
+Laid before Parliament
+
+11th March 2004
+
+Coming into force
+
+1st April 2004
+
+The Secretary of State, in exercise of the powers conferred by section 6(1) of the Wireless Telegraphy Act 1967 [^c9253521] and sections 365(1) and (4), 368 and 402(3) of the Communications Act 2003 [^c9253531], as extended by the Broadcasting and Communications (Jersey) Order 2004 [^c9253541], the Communications (Bailiwick of Guernsey) Order 2004 [^c9253551] and the Communications (Isle of Man) Order 2003 [^c9253561], with the consent of the Treasury (to the extent that the Regulations are made in exercise of the powers conferred by section 365 of the Communications Act 2003), hereby makes the following Regulations:
+
+## PART 1 — General
+
+### 1. Citation, commencement, extent and interpretation
+
+(1) These Regulations may be cited as the Communications (Television Licensing) Regulations 2004 and shall come into force on 1st April 2004.
+
+(2)[^key-2c58c8d1a02eabb6fa24b10bbb8a73f8] These Regulations extend to the Channel Islands [^key-1ff0aa19e0448085f0cd5aad50288db5]... except for—
+
+- (a) Schedule 2, Part 4 and regulation 3(1)(b) so far as it relates to that Part;
+- (b) regulations 10 and 11.
+
+(2A)[^key-1a97b720add8718694a472115b98efb2] These Regulations extend to the Isle of Man except for regulations 10 and 11.
+
+(3) In these Regulations “**the Act**” means the Communications Act 2003.
+
+## PART 2 — TV licence fees
+
+### 2. Interpretation of Part 2
+
+(1) In this Part—
+
+- “**caravan**” means any structure designed or adapted for habitation which is capable of being moved from one place to another (whether by being towed, or by being transported on a motor vehicle or trailer) and any motor vehicle so designed or adapted;
+- “digital set top box” means a television receiver whose function is to receive television programmes in digital form, and which cannot itself display, or record or otherwise store such programmes;[^key-a736e873d2f4d5c723e815755b87fd68]
+- “**the due date**” in relation to any TV licence means the date on which the licensee is required to obtain the licence in accordance with the Act whether in consequence of the expiry of a previous licence or otherwise; and
+- “**touring caravan**” means a caravan normally used for touring from place to place.
+
+(2) Any reference to—
+
+- (a) the issue of a TV licence includes a reference to the renewal of such a licence;
+- (b) a person's residence includes any place provided for that person's private occupation.
+
+### 3. TV licence fees
+
+(1) Subject to regulations 5 and 6—
+
+- (a) on the issue of a TV licence of a type specified in an entry in column 1 of the table in Schedule 1, the fee payable shall be that specified in column 3 in relation to that type of licence;
+- (b) on the issue of a TV licence of a type specified in paragraph 1, 3, 8 or 18[^key-876d8feed989e67c0a24e60433dc86a0] of Schedule 2, the person to whom the licence is issued shall be liable to make payments as provided by (as the case may be) Part 1, 2, 3 or 4[^key-7ad5c99f0e4bd304985e27d68587fea3] of that Schedule;
+- (c) on the issue of a TV licence of a type specified in an entry in column 1 of the table in Part 1 of Schedule 3, the fee payable shall (subject to paragraph (2)) be determined in accordance with the entry in column 3 in relation to that type of licence;
+- (d) on the issue of a TV licence of the type specified in paragraph 1 of Schedule 4, the fee payable shall be determined in accordance with paragraph 2 of that Schedule;
+- (e) on the issue of a TV licence of the type specified in paragraph 2 of Schedule 5, the fee payable shall be determined in accordance with paragraph 3 of that Schedule.
+
+(2) In relation to a TV licence of the type specified in the second entry in column 1 of the table in Part 1 of Schedule 3, the fee is to be payable in instalments in the circumstances specified in Part 2 of that Schedule; and the amount of each of the instalments, and the dates on which they are payable, are to be determined in accordance with that Part.
+
+(3) Any sum payable by virtue of paragraph (1) or (2) shall be payable irrespective of the duration of the TV licence.
+
+(4)[^key-88471e8563201a8e5e0f5c609d251622] In the first and third entries in column 2 of the table in Schedule 1, a reference to–
+
+- (a) installing a black and white television receiver includes a reference to installing a digital set top box in such a way that it can only be used to cause television programmes to be displayed on a television set or monitor that can display them in black and white only; and
+- (b) using a black and white television receiver includes a reference to using a digital set top box installed as described in this paragraph.
+
+### 4. Duplicate licences
+
+Where a TV licence has been lost or destroyed, the sum of £4.50[^key-fb142e64cfa96029aec9a694d2e34064] shall be paid on the issue of a duplicate of such a licence; but no such sum shall be payable on the issue of a duplicate of a TV licence that was issued free of charge.
+
+### 5. Concessions for blind persons
+
+(1) Where—
+
+- (a) a TV licence is issued to a blind person, authorising the installation or use of a television receiver at one or more places or in one or more vehicles, vessels or caravans specified in the licence; and
+- (b) each place, vehicle, vessel or caravan so specified is a residence of that person,
+
+the fee payable (including the amount of any instalment payments) shall be 50 per cent of the amount which would otherwise be payable for the licence in accordance with regulation 3.
+
+This reduction in the amount payable is referred to in this regulation[^key-7eeefc0761ff071fba3a1e3a47fc8027] as the “**blind concession**”.
+
+(2) In order to establish an entitlement to the blind concession a person must—
+
+- (a)[^key-ab5b15ae72a5e2f6700282a3b47a6b11] show that he is registered as blind by means of a certificate or other document issued by or on behalf of—
+  - (i) a local authority in Great Britain,
+  - (ii) a Health and Social Services Trust in Northern Ireland, or
+  - (iii) the Department of Health and Social Care[^key-db3e904374483cedf338a426721b8291] for the Isle of Man; or
+- (b) provide evidence that he is blind by way of a certificate signed by an ophthalmologist.
+
+(3)[^key-250462cf680ebfc58257921701be98a6] A person is not required to provide the evidence referred to in paragraph (2) to obtain the blind concession in respect of a TV licence where that person has previously established an entitlement to the concession by providing the evidence referred to in that paragraph and—
+
+- (a) the evidence was provided within the period of 5 years ending on the date on which the licence is issued, or
+- (b) the BBC are satisfied that the evidence previously provided is sufficient to establish the person’s entitlement to the concession as at that date.
+
+(4) This regulation does not apply where the TV licence is of a type and description specified in paragraph 1 of Schedule 4 or paragraph 2 of Schedule 5.
+
+(5) In these Regulations—
+
+- “**blind**” means that the person concerned is so blind as to be unable to perform any work for which eyesight is essential;
+- “**local authority**” means—
+  - (a) in England, a county council, a district council, a London borough council, the Common Council of the City of London, and the Council of the Isles of Scilly;
+  - (b) in Wales, a county council or a county borough council;
+  - (c) [^c9253571]in Scotland, a council constituted under section 2 of the Local Government etc (Scotland) Act 1994; [^key-173b6a4a526edf71b4815244f0f4a633]...
+  - (d) [^key-7b7047d629a88f20b186dc7eaf9ac4a4]...
+- [^c9253581]“**ophthalmologist**” means a doctor whose name is included in the register of specialists kept by the General Medical Council under article 8 of the European Specialist Medical Qualifications Order 1995 and in respect of whom that register indicates his speciality to be ophthalmology.
+
+### 6. Concessions for persons aged 75 years or more
+
+(1) No fee shall be payable for a TV licence of a type referred to in the first or second entry in column 1 of the table in Schedule 1 where—
+
+- (a) the licence is issued to a person aged 75 years or more or to a person who will attain that age in the calendar month in which the licence is issued; and
+- (b) the single place, vehicle, vessel or caravan specified in the licence is the sole or main residence of that person.
+
+(2) Paragraph (1) only applies where the residence referred to in that paragraph is in the United Kingdom[^key-c9e3a4fb20e5b5524fdca34c58a82c0e].... or the Isle of Man[^key-07d77646d2ccd8a29f38b52573d9bf0d].
+
+(2A)[^key-c97c8d74394dab1a0c1fbd2183a0303a] No fee shall be payable for a TV licence of a type referred to in the first or second entry in column 1 of the table in Schedule 1 where—
+
+- (a) a residence is in the Bailiwick of Guernsey (but excluding Sark);
+- (b) the licence is issued to a person who has attained the age of 75 before 1st September 2016; and
+- (c) the single place, vehicle, vessel or caravan specified in the licence is the sole or main residence of that person.
+
+(3) Where a TV licence of the type referred to in paragraph 1 of Schedule 4 is issued in respect of accommodation for residential care, in calculating the fee payable no account shall be taken of any unit of accommodation or, as the case may be, residential care dwelling that is the sole or main residence of a resident who is aged 75 years or more on the date on which the licence is issued.
+
+(4) In paragraph (3), the expressions “**accommodation for residential care**”, “**resident**” and “**residential care dwelling**” shall have the meanings given to them by Part 2 of Schedule 4.
+
+(5) Paragraph (3) only applies where the accommodation to which the licence relates is in the United Kingdom.
+
+### 7. Revocation and savings
+
+(1) The Regulations specified in Schedule 6 are hereby revoked.
+
+(2) The Wireless Telegraphy (Television Licence Fees) Regulations 1997 [^c9253591] shall continue to apply to any television licence issued before 1st April 2004 as they had effect immediately before that date.
+
+(3) In paragraph (2) the reference to a television licence is to such a licence within the meaning of the Wireless Telegraphy Act 1949 [^c9253601].
+
+## PART 3 — Definitions for the purposes of the Communications Act 2003 and the Wireless Telegraphy Act 1967
+
+### 8. Interpretation of Part 3
+
+In this Part—
+
+- “digital set top box” has the same meaning as in Part 2;[^key-18c3627e08461d81c1696ea369621477]
+- “**members of the public**” means members of the public in the United Kingdom, the Channel Islands and the Isle of Man;
+- “on-demand programme service”, and references to the provision of such a service by the[^key-4f48a08a3e9f7c48075807f47607846a] BBC, have the same meanings as in the Communications Act 2003 (and, in the application of this Part to the Channel Islands and the Isle of Man, they are to have the meanings which they have in the United Kingdom). If an amendment of the Communications Act 2003 changes the meaning in the United Kingdom of “on-demand programme service” or the meaning of any reference to the provision of such a service by the BBC, the change to the meaning is also to have effect in the Channel Islands and the Isle of Man for the purposes of this Part;
+- “**programme**” has the same meaning as in the Act; and
+- “**television programme service**” has the same meaning as in Part 3 of the Act.
+
+### 9. Meaning of “television receiver”
+
+(1)[^key-26016a42e11f0df3cb9191c5b04d72ed] Subject to paragraph (2), in Part 4 of the Act (licensing of TV reception), “television receiver” means any apparatus installed or used for the purpose of receiving (whether by means of wireless telegraphy or otherwise)—
+
+- (a) any television programme service, or
+- (b) an on-demand programme service which is provided by the BBC,
+
+whether or not the apparatus is installed or used for any other purpose.
+
+(2)[^key-6d78ec1bb8ce2ba4b33428ba32055df2] But a digital set top box is not a television receiver for the purposes of that Part if it is installed in such a way that it can be used only to cause the production of sound through a device whose functions are limited to the production, or the production and recording, of sound.
+
+(3)[^key-adfa68d07140fab43f3750f38a763af5] In this regulation, any reference to receiving a television programme service includes a reference to receiving by any means any programme included in that service, where that programme is received at the same time (or virtually the same time) as it is received by members of the public by virtue of its being broadcast or distributed as part of that service.
+
+### 10. Meaning of “television dealer”[^key-aeb5c2a2581901cef60138ee4acae29c]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 11. Meaning of “television set”[^key-aeb5c2a2581901cef60138ee4acae29c]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Tessa Jowell
+
+Secretary of State for Culture, Media and Sport
+
+We consent to the making of these Regulations to the extent that they are made in exercise of the powers conferred by section 365 of the Communications Act 2003
+
+Nick Ainger
+
+John Heppell
+
+Two of the Commissioners of Her Majesty's Treasury
+
+## SCHEDULE 1 — ISSUE FEES FOR TV LICENCES
+
+Regulation 3(1)(a)
+
+Table
+
+| *Type of licence* | *Description of licence* | *Issue fee* |
+| --- | --- | --- |
+| **1.** TV licence (black and white only) General Form | A licence—<br>- (a) to install and use black and white television receivers at the single place specified in the licence or, as the case may be, in the single vehicle, vessel or caravan so specified (“**the specified location**”); | £60.50[^key-d30b637a11ec7395f6bfbe3d6cf21390] |
+|  | - ((b)) to install and use black and white television receivers in any vehicle, vessel or caravan<br>  - ((i)) being used or occupied by the licensee or by a person normally living with the licensee at the specified location, or[^key-1811d0ea196ad2fc8e8f1c2a0204ae2a]<br>  - ((ii)) if the specified location is a business premises, being used or occupied for the purposes of the business by a person who normally works at that location,<br><br>  being installation or use not covered by a licence described in Schedule 5, provided that, in a case falling within (i) above,[^key-bea38c1cd2bef1a435f23690a1f35bf4] a receiver may not be used in a caravan, other than a touring caravan, at the same time as a receiver is being used at the specified location; and |  |
+|  | - ((c)) for the use anywhere of any black and white television receiver powered solely by its own internal batteries by the licensee or by a person normally living with the licensee at the specified location. |  |
+| **2.** TV licence (including colour) General Form | A licence—<br>- (a) to install and use television receivers at the single place specified in the licence or, as the case may be, in the single vehicle, vessel or caravan so specified (“**the specified location**”); | £180.00[^key-220c34f604c5132651662e81996f22ad] |
+|  | - ((b)) to install and use television receivers in any vehicle, vessel or caravan<br>  - ((i)) being used or occupied by the licensee or by a person normally living with the licensee at the specified location, or<br>  - ((ii)) if the specified location is a business premises, being used or occupied for the purposes of the business by a person who normally works at that location,<br><br>  being installation or use not covered by a licence described in Schedule 5, provided that, in a case falling within (i) above, a receiver may not be used in a caravan, other than a touring caravan, at the same time as a receiver is being used at the specified location; and |  |
+|  | - ((c)) for the use anywhere of any television receiver powered solely by its own internal batteries by the licensee or by a person normally living with the licensee at the specified location. |  |
+| **3.** TV licence (black and white only) Multiple Form | A licence—<br>- (a) to install and use black and white television receivers at each of the places specified in the licence or, as the case may be, in each of the vehicles, vessels or caravans so specified (“**the specified locations**”); | £60.50[^key-2cabc268139025c05402f99b173d6986] for each place, vehicle, vessel or caravan specified in the licence. |
+|  | - ((b)) to install and use black and white television receivers in any vehicle, vessel or caravan<br>  - ((i)) being used or occupied by the licensee or by a person normally living at one of the specified locations, or[^key-486ce6a0571a8ef395eb3b79118ea995]<br>  - ((ii)) if a business is carried on from one or more of the specified locations, being used or occupied for the purposes of the business by a person who normally works at one of those locations,<br><br>  being installation or use not covered by a licence described in Schedule 5, provided that, in a case falling within (i) above,[^key-4b8ea8550f0fbb48c00b3153309a1c73] a receiver may not be used in a caravan, other than a touring caravan, at the same time as a receiver is being used at the specified location at which the person using the receiver normally lives; and |  |
+|  | - ((c)) for the use anywhere of any black and white television receiver powered solely by its own internal batteries by the licensee or by a person normally living at one of the specified locations. |  |
+| **4.** TV licence (including colour) Multiple Form | A licence—<br>- (a) to install and use television receivers at each of the places specified in the licence or, as the case may be, in each of the vehicles, vessels or caravans so specified (“**the specified locations**”); | £180.00[^key-b1fc20026439c5ab6db251dd89a26df5] for each place, vehicle, vessel or caravan specified in the licence. |
+|  | - ((b)) to install and use television receivers in any vehicle, vessel or caravan<br>  - ((i)) being used or occupied by the licensee or by a person normally living at one of the specified locations, or<br>  - ((ii)) if a business is carried on from one or more of the specified locations, being used or occupied for the purposes of the business by a person who normally works at one of those locations,<br><br>  being installation or use not covered by a licence described in Schedule 5, provided that, in a case falling within (i) above, a receiver may not be used in a caravan, other than a touring caravan, at the same time as a receiver is being used at the specified location at which the person using the receiver normally lives; |  |
+|  | - ((c)) for the use anywhere of any television receiver powered solely by its own internal batteries by the licensee or by a person normally living at one of the specified locations. |  |
+
+## SCHEDULE 2 — FEES FOR TV LICENCES PAYABLE BY INSTALMENTS
+
+Regulation 3(1)(b)
+
+### PART 1 — Premium instalment television licence (including colour)
+
+**1.** (1) This Part specifies the sums which are payable in respect of a TV licence known as a “**Premium instalment licence (including colour)**” which is described in the following provisions of this paragraph.
+
+(2) A licence of the type referred to in sub-paragraph (1) is a licence of the same description as that given in the second entry of column 2 of the table in Schedule 1 but where payment for the licence is to be made in instalments as provided in this Part.
+
+(3)[^key-8134afe45bef8a80701aa50ebb2d2733] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**2.** (1)[^key-777da71a47544382a8acea9f8510e593] There shall be payable a first instalment of £46.25[^key-7ea813e69424691072a0ff8c7c9eecad] (referred to in this paragraph as “the issue fee”) and three further instalments of £46.25.[^key-4077f476a7c68a37efdc59f67940dc8e]
+
+(2) The instalments are to be payable as follows—
+
+- (a) the issue fee is payable on the date on which the licence is issued;
+- (b) the second instalment is payable on the first day of the calendar month whose last day is 8 months before the date on which the licence expires;
+- (c) the third instalment is payable on the first day of the calendar month whose last day is 5 months before the date on which the licence expires; and
+- (d) the fourth instalment is payable on the first day of the calendar month whose last[^key-08dd9bce781281fa6dd75a272ca1dcad] day is[^key-9ef34ca879e309ce7cbd1e855e189376] 2 months before the date on which the licence expires.
+
+(3) Where the licence is issued on a date which is on or after the date on which, in accordance with paragraphs (b) to (d) of sub-paragraph (2), any of the instalments referred to in those paragraphs is payable, any such instalment is to be payable on the same date as the issue fee.
+
+### PART 2 — Budget instalment television licence (including colour)
+
+**3.** (1) This Part specifies the instalments which are payable in respect of a TV licence known as a “**Budget instalment television licence (including colour)**” which is described in the following provisions of this paragraph.
+
+(2) A licence of the type referred to in sub-paragraph (1) is a licence of the same description as that given in the second entry of column 2 of the table in Schedule 1 but where payment for the licence is to be made in instalments as provided in this Part.
+
+(3) Such a licence is only issued where the period beginning on the date on which the licence is issued and ending on the date on which it expires is more than 8 months.
+
+**4.** (1) Paragraphs 5 and 6 and tables 1 and 2 apply where the first payment in respect of any such licence is made before the due date.
+
+(2) In this Part and Part 3, the relevant date is the day immediately preceding the due date.
+
+**5.** (1) This paragraph applies where the arrangements for making payments before the due date were entered into before 1st April 2026[^key-3b7cf52e1ad1ba4929f3aacb8596be90].
+
+(2) A first instalment (referred to in this Part as an “**issue fee**”) and five further instalments are to be payable in respect of such a licence on the dates set out in column 1 of table 1.
+
+(3) Where the first payment in respect of the issue fee is made on the first day of a period of more than 5 months ending on the relevant date, the amount of each of the instalments referred to in sub-paragraph (2) shall be as set out in column 2 of table 1.
+
+(4) Where that payment is made on the first day of a period of more than 4 but not more than 5 months ending on the relevant date, the amount of each such instalment shall be as set out in column 3 of table 1.
+
+(5) Where that payment is made on the first day of a period of more than 3 but not more than 4 months ending on the relevant date, the amount of each such instalment shall be as set out in column 4 of table 1.
+
+(6) Where that payment is made on the first day of a period of more than 2 but not more than 3 months ending on the relevant date, the amount of each such instalment shall be as set out in column 5 of table 1.
+
+(7) Where that payment is made on the first day of a period of more than 1 but not more than 2 months ending on the relevant date, the amount of each such instalment shall be as set out in column 6 of table 1.
+
+(8) Where that payment is made on the first day of a period of not more than 1 month ending on the relevant date, the amount of each such instalment shall be as set out in column 7 of table 1.
+
+Table 1[^key-609067e1caf7fa2d30dab72adc1c134b]
+
+<table>
+<thead>
+<tr><th>Column 1</th><th>Column 2</th><th>Column 3</th><th>Column 4</th><th>Column 5</th><th>Column 6</th><th>Column 7</th></tr>
+</thead>
+<tbody>
+<tr><th>Date by which the instalment is to be paid</th><th colspan="6">Amount of instalment payment</th></tr>
+<tr><td>Date on which the licence is issued (“the issue date”)</td><td>£102.75</td><td>£96.15</td><td>£88.20</td><td>£78.55</td><td>£66.40</td><td>£50.85</td></tr>
+<tr><td>The last day of the period of 1 month beginning on the day immediately following the issue date</td><td>£15.45</td><td>£16.77</td><td>£18.36</td><td>£20.29</td><td>£22.72</td><td>£25.83</td></tr>
+<tr><td>The last day of the period of 2 months beginning on the day immediately following the issue date</td><td>£15.45</td><td>£16.77</td><td>£18.36</td><td>£20.29</td><td>£22.72</td><td>£25.83</td></tr>
+<tr><td>The last day of the period of 3 months beginning on the day immediately following the issue date</td><td>£15.45</td><td>£16.77</td><td>£18.36</td><td>£20.29</td><td>£22.72</td><td>£25.83</td></tr>
+<tr><td>The last day of the period of 4 months beginning on the day immediately following the issue date</td><td>£15.45</td><td>£16.77</td><td>£18.36</td><td>£20.29</td><td>£22.72</td><td>£25.83</td></tr>
+<tr><td>The last day of the period of 5 months beginning on the day immediately following the issue date</td><td>£15.45</td><td>£16.77</td><td>£18.36</td><td>£20.29</td><td>£22.72</td><td>£25.83</td></tr>
+</tbody>
+</table>
+
+**6.** (1) This paragraph applies where the arrangements for making payments before the due date are entered into on or after 1st April 2026[^key-b28d17bb2a285de8dd0373813795c40d].
+
+(2) An issue fee and five further instalments are to be payable in respect of such a licence on the dates set out in column 1 of table 2.
+
+(3) Where the first payment in respect of the issue fee is made on the first day of a period of more than 5 months ending on the relevant date, the amount of each of the instalments referred to in sub-paragraph (2) shall be as set out in column 2 of table 2.
+
+(4) Where that payment is made on the first day of a period of more than 4 but not more than 5 months ending on the relevant date, the amount of each such instalment shall be as set out in column 3 of table 2.
+
+(5) Where that payment is made on the first day of a period of more than 3 but not more than 4 months ending on the relevant date, the amount of each such instalment shall be as set out in column 4 of table 2.
+
+(6) Where that payment is made on the first day of a period of more than 2 but not more than 3 months ending on the relevant date, the amount of each such instalment shall be as set out in column 5 of table 2.
+
+(7) Where that payment is made on the first day of a period of more than 1 but not more than 2 months ending on the relevant date, the amount of each such instalment shall be as set out in column 6 of table 2.
+
+(8) Where that payment is made on the first day of a period of not more than 1 month ending on the relevant date, the amount of each such instalment shall be as set out in column 7 of table 2.
+
+Table 2[^key-062ccdb27b021320d477f1f65c96126a]
+
+<table>
+<thead>
+<tr><th>Column 1</th><th>Column 2</th><th>Column 3</th><th>Column 4</th><th>Column 5</th><th>Column 6</th><th>Column 7</th></tr>
+</thead>
+<tbody>
+<tr><th>Date by which the instalment is to be paid</th><th colspan="6">Amount of instalment payment</th></tr>
+<tr><td>Date on which the licence is issued (“the issue date”)</td><td>£105.00</td><td>£98.20</td><td>£90.00</td><td>£80.00</td><td>£67.50</td><td>£51.45</td></tr>
+<tr><td>The last day of the period of 1 month beginning on the day immediately following the issue date</td><td>£15.00</td><td>£16.36</td><td>£18.00</td><td>£20.00</td><td>£22.50</td><td>£25.71</td></tr>
+<tr><td>The last day of the period of 2 months beginning on the day immediately following the issue date</td><td>£15.00</td><td>£16.36</td><td>£18.00</td><td>£20.00</td><td>£22.50</td><td>£25.71</td></tr>
+<tr><td>The last day of the period of 3 months beginning on the day immediately following the issue date</td><td>£15.00</td><td>£16.36</td><td>£18.00</td><td>£20.00</td><td>£22.50</td><td>£25.71</td></tr>
+<tr><td>The last day of the period of 4 months beginning on the day immediately following the issue date</td><td>£15.00</td><td>£16.36</td><td>£18.00</td><td>£20.00</td><td>£22.50</td><td>£25.71</td></tr>
+<tr><td>The last day of the period of 5 months beginning on the day immediately following the issue date</td><td>£15.00</td><td>£16.36</td><td>£18.00</td><td>£20.00</td><td>£22.50</td><td>£25.71</td></tr>
+</tbody>
+</table>
+
+**7.** (1) This paragraph and table 3 apply where no payment is made in respect of the licence before the due date.
+
+(2) Where the period beginning on the date on which the licence is issued and ending on the date on which it expires (“**the period of the licence**”) is more than 11 months, 6 instalments are to be payable on the dates set out in column 1 of table 3 and the amount of each of those instalments (subject to sub-paragraph (6)) is to be as set out in column 2 of that table.
+
+(3) Where the period of the licence is more than 10 but not more than 11 months, 5 instalments are to be payable on the first five dates set out in column 1 of table 3, and the amount of each of those instalments is to be as set out in column 3 of that table.
+
+(4) Where the period of the licence is more than 9 but not more than 10 months, 4 instalments are to be payable on the first four dates set out in column 1 of table 3, and the amount of each of those instalments is to be as set out in column 4 of that table.
+
+(5) Where the period of the licence is more than 8 but not more than 9 months, 3 instalments are to be payable on the first three dates set out in column 1 of table 3, and the amount of each of those instalments is to be as set out in column 5 of that table.
+
+(6) Where—
+
+- (a) immediately before the due date the person to whom the licence is being issued held a Budget instalment television licence (including colour); and
+- (b) the amount of each instalment payable in respect of that licence was as set out in column 2, 3, 4 or 5 of table 3 (as that table had effect before 1st April[^key-b226ba7d7130b7c599fd3c37e75da742] 2026[^key-3d4af981428856ef5044e65a9403d6c4]),
+
+sub-paragraph (2)[^key-d6686a21ad7e3e617c69a564f20f6334] shall have effect as if it provided for the amount of the first instalment to be £102.75[^key-bda9787dd58e6c6d43e77cae2aa4ec94] and each of the five subsequent instalments to be £15.45[^key-8a3008c0c59e0ddc507d543727ff4309].
+
+Table 3[^key-8e3e9bf71c9d31875d8e308395229e66]
+
+<table>
+<thead>
+<tr><th>Column 1</th><th>Column 2</th><th>Column 3</th><th>Column 4</th><th>Column 5</th></tr>
+</thead>
+<tbody>
+<tr><th>Date by which the instalment is to be paid</th><th colspan="4">Amount of instalment payment</th></tr>
+<tr><td>Date on which the licence is issued (“the issue date”)</td><td>£30.00</td><td>£36.00</td><td>£45.00</td><td>£60.00</td></tr>
+<tr><td>The first day of the calendar month immediately following the calendar month in which the licence is issued</td><td>£30.00</td><td>£36.00</td><td>£45.00</td><td>£60.00</td></tr>
+<tr><td>The first day of the second calendar month immediately following the calendar month in which the licence is issued</td><td>£30.00</td><td>£36.00</td><td>£45.00</td><td>£60.00</td></tr>
+<tr><td>The first day of the third calendar month immediately following the calendar month in which the licence is issued</td><td>£30.00</td><td>£36.00</td><td>£45.00</td><td></td></tr>
+<tr><td>The first day of the fourth calendar month immediately following the calendar month in which the licence is issued</td><td>£30.00</td><td>£36.00</td><td></td><td></td></tr>
+<tr><td>The first day of the fifth calendar month immediately following the calendar month in which the licence is issued</td><td>£30.00</td><td></td><td></td><td></td></tr>
+</tbody>
+</table>
+
+### PART 3 — Easy entry television licence (including colour)
+
+**8.** (1) This Part specifies the instalments which are payable in respect of a TV licence known as an “**Easy entry television licence (not black and white only)**” which is described in sub-paragraphs (2) to (4).
+
+(2)[^key-f4e7546b8e048bae7ebc8ee84c634de0] A licence of the type referred to in sub-paragraph (1) is a licence of the same description as that given in the second entry of column 2 of the table in Schedule 1, but where payment for the licence is to be made in instalments as provided in this Part.
+
+(3)[^key-8169ad050377eecd95c5ec01186c1d74] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) Such a licence is only issued for a period which is more than 8 months where payments are made in respect of the licence before the due date.
+
+(5) In this Part, any reference to the period of a licence is to the period beginning on the date on which the licence is issued and ending on the date on which it expires.
+
+**9.** Where no payment is made in respect of the licence before the due date—
+
+- (a) the amount of the first instalment (referred to in this Part as the “**issue fee**”) is to be £7.00[^key-9912b7804e8ba7449a1e56974c82e7bf] payable on the date on which the licence is issued;
+- (b) 25 further instalments are to be payable at weekly intervals with the first of those instalments being payable on the date which is the last day of the period of 1 week beginning on the day immediately following the date on which the licence is issued;
+- (c)[^key-d7badd9b2f8ceb92a1182a52d168a87d] the amount of each of the first 21 of the instalments is to be £7.00 and the amount of each of the remaining 4 instalments is to be £6.50.
+
+**10.** (1) This paragraph and paragraphs 11 to 17 apply where payments are made in respect of the licence before the due date.
+
+(2) An issue fee and a number of further instalments are to be payable in respect of such a licence.
+
+(3) The issue fee is to be payable on the date on which the licence is issued.
+
+(4) The number of further instalments, and the dates on which the instalments are to be payable, are to be determined in accordance with paragraphs 12 to 17.
+
+**11.** (1) Where the first payment in respect of the issue fee is made on the first day of a period of more than 20 weeks ending on the relevant date, the amount of the issue fee shall be £91.00[^key-e56b54fba813381f95a85b48fc720d87].
+
+(2) Where that payment is made on the first day of a period of more than 16 but not more than 20 weeks ending on the relevant date, the amount of the issue fee shall be £76.00[^key-9e2627abb36d95e920153291dc0e880e].
+
+(3) Where that payment is made on the first day of a period of more than 12 but not more than 16 weeks ending on the relevant date, the amount of the issue fee shall be £63.00[^key-088d6d5c1683ab138734e0826a79ff5d].
+
+(4) Where that payment is made on the first day of a period of more than 8 but not more than 12 weeks ending on the relevant date, the amount of the issue fee shall be £50.00[^key-471b27c423d12ffc945317676d819c18].
+
+(5) Where that payment is made on the first day of a period of more than 4 but not more than 8 weeks ending on the relevant date, the amount of the issue fee shall be £34.50[^key-fc948e14cbc7bdcc255519e76a1e38c2];
+
+(6) Where that payment is made on the first day of a period of not more than 4 weeks ending on the relevant date, the amount of the issue fee[^key-8d82cc6e744c7050f8a39a10c9594b9e]... shall be £13.00[^key-33e33f79f5412030bf57dd7e0fbec99f].
+
+**12.** (1) This paragraph applies where the issue fee payable is £91.00[^key-d73812d5053c93ef5d903b972799e12c].
+
+(2) Where the period of the licence is more than 11 months—
+
+- (a) 10 further instalments are to be payable at fortnightly intervals with the first of those instalments being payable on the date which is the last day of the period of 2 weeks beginning on the day immediately following the date on which the licence is issued;
+- (b)[^key-b4b6ea6953816878de3e9ec2b9d13df9] the amount of each of the 10 instalments is to be £8.90[^key-3ef3e37be0b355c4808b097fb513391b]
+
+(3) Where the period of the licence is more than 10 but is not more than 11 months—
+
+- (a) 8 further instalments are to be payable at fortnightly intervals with the first of those instalments being payable on the date which is the last day of the period of 2 weeks beginning on the day immediately following the date on which the licence is issued;
+- (b)[^key-de1a9bdfef11b6a2f42cc772cb98fa4e] the amount of each of the first 7 of the instalments is to be[^key-ca8addb53c903c37005df2e9f4c76a84] £11.13[^key-9d29eef50f5a8a92f2aa81fdb14dfdbb] and the final instalment is to be £11.09[^key-50dd78b4ec5c55eb365074bf50fe7d84].
+
+(4) Where the period of the licence is more than 9 but is not more than 10 months—
+
+- (a) 6 further instalments are to be payable at fortnightly intervals with the first of those instalments being payable on the date which is the last day of the period of 2 weeks beginning on the day immediately following the date on which the licence is issued;
+- (b) the amount of each of the first 5 of the instalments is to be[^key-a4f49051fee8c24b139f6d43c6bdf27d] £14.84[^key-dc4c08e74f82f59879983a63a8dc114b] and the final instalment is to be £14.80[^key-2676ba47d5bad3496d7972df71969f59].
+
+(5) Where the period of the licence is more than 8 but is not more than 9 months—
+
+- (a) 4 further instalments are to be payable at fortnightly intervals with the first of those instalments being payable on the date which is the last day of the period of 2 weeks beginning on the day immediately following the date on which the licence is issued;
+- (b)[^key-8b2bad2ff0dab3d15dacb597c7cace22] the amount of each of the 4 instalments is to be £22.25.
+
+**13.** (1) This paragraph applies where the issue fee payable is £76.00[^key-01f66e8a4c92e6c238371f4c94749f46].
+
+(2) Sub-paragraphs (2) to (5) of paragraph 12 are to have effect subject to the following modifications—
+
+- (a)[^key-f661f7bcfb9059d00c36863592e46ef5] sub-paragraph (2)(b) is to have effect as if it provided for each of the 10 instalments to be £10.40[^key-d751e9106da065186971f2783c3fdeb3];
+- (b)[^M_F_09ab0e8b-0801-4319-d49a-332efe173c1b] sub-paragraph (3)(b) is to have effect as if it provided for each of the 8 instalments to be £13.00[^key-39226fac36c5803bd4e5e62b5da49f4b];
+- (c)[^key-8b49ebb6b6f5daf8d349a5fce24df569] sub-paragraph (4)(b) is to have effect as if it provided for the amount of each of the first 5 instalments to be[^key-73b543a2dc340428656beb013c1a33ac] £17.34[^key-bf605b82693ad57f87ed89c297a50bb1] and the final instalment to be £17.30[^key-79da83bf8a3c536e61f92aeace03fd6f];
+- (d)[^key-7aaa78bd37c097888d92f7359d59e36a] sub-paragraph (5)(b) is to have effect as if it provided for the amount of each of the 4 instalments to be £26.00[^key-0b7d67ad0b620776ff878110607f6182].
+
+**14.** (1) This paragraph applies where the issue fee payable is £63.00[^key-f5b7062f4dd9c3161fe9a62579b8411e].
+
+(2) Sub-paragraphs (2) to (5) of paragraph 12 are to have effect subject to the following modifications—
+
+- (a)[^key-d56ccb0f23d4496399233fdc0e90b923] sub-paragraph (2)(b) is to have effect as if it provided for the amount of each of the 10 instalments to be £11.70;[^key-ede3fdcd61f9ff3440f3ca928736d642]
+- (b) sub-paragraph (3)(b) is to have effect as if it provided for the amount of each of the first 7 of the instalments to be[^key-82807256d6c717ee3e09d9cd67e9b1bb] £14.63[^key-9380dbe17145e85685f536bdecf0bdd5] and the final instalment to be £14.59[^key-7bea7405883a0090f4f6a1391947d2f7];
+- (c)[^key-a9823fb3043e9131936533aae40b0594] sub-paragraph (4)(b) is to have effect as if it provided for the amount of each of the 6 instalments to be £19.50;[^key-0edd73147e3fc622427e06861787caf4]
+- (d)[^key-b702d44909541ccc1cbc439819c2745a] sub-paragraph (5)(b) is to have effect as if it provided for the amount of each of the 4 instalments to be £29.25.[^key-538b9579a6e7a007a5a4c642db430f02]
+
+**15.** (1) This paragraph applies where the issue fee payable is £50.00[^key-05698dff2226f017ab89bc1153fd00e6].
+
+(2) Sub-paragraphs (2) to (5) of paragraph 12 are to have effect subject to the following modifications—
+
+- (a)[^key-6db95aae13d6b7f62df7193104aa0222] sub-paragraph (2)(b) is to have effect as if it provided for the amount of each of the 10 instalments to be £13.00[^key-7012681b9956f473a525ef981d4cefa1];
+- (b)[^key-b9cae72b10b353462cea349cb5041dd6] sub-paragraph (3)(b) is to have effect as if it provided for the amount of each of the 8 instalments to be £16.25;[^key-ebb4ba076147581984b3976af0dfaa4b]
+- (c)[^key-bd1d2f679c10f8624bf922801f5dad2b] sub-paragraph (4)(b) is to have effect as if it provided for the amount of each of the first 5 instalments to be £21.67 and the final instalment to be £21.65;[^key-d515183d39f2bee4aebc43de1290f4a1]
+- (d)[^key-c6e1c78851d90d300ffd6fccd89b2077] sub-paragraph (5)(b) is to have effect as if it provided for the amount of each of the 4 instalments to be £32.50.[^key-bd4b1ecad450ca083ae1bc920ae8e4c8]
+
+**16.** (1) This paragraph applies where the issue fee payable is £34.50[^key-7029f2b6924f536da4afc7fe15382179].
+
+(2) Sub-paragraphs (2) to (5) of paragraph 12 are to have effect subject to the following modifications—
+
+- (a)[^key-739bb2d94dad5b0efd934b935772e6ed] sub-paragraph (2)(b) is to have effect as if it provided for the amount of each of the 10 instalments to be £14.55[^key-78c937c660f18126650469d96cc59b25];
+- (b)[^key-19bf8168f528015349b7e017dcc59248] sub-paragraph (3)(b) is to have effect as if it provided for the amount of each of the first 7 instalments to be[^key-46ae85be9d256caac3456a7b743e3386] £18.19[^key-10e1a4512b1313d197bbc3b9e491b04d] and the amount of the final instalment to be £18.17[^key-58bc0d0efb0c300fb27fc2cf3c13f299];
+- (c)[^key-0d24fbf6056f9ad7e77941f26731d7f9] sub-paragraph (4)(b) is to have effect as if it provided for the amount of each of the 6 instalments to be £24.25[^key-63fe7f1e9411441c7757d5e78b15162e];
+- (d)[^key-d67f161c2b1070f76d5ebb85250d6c70] sub-paragraph (5)(b) is to have effect as if it provided for the amount of each of the first 3 instalments to be[^key-0162f80967753c214625c268c674b826] £36.38[^key-9adbb9055662b08a0200b6da26c7ee05] and the final instalment to be £36.36[^key-f8bb74c8a497c5ca0c526c670ff2eeed].
+
+**17.** (1) This paragraph applies where the issue fee payable is £13.00[^key-5ef3082f2bdb8fe93caa6c8378900ec6].
+
+(2) Sub-paragraphs (2) to (5) of paragraph 12 are to have effect subject to the following modifications—
+
+- (a)[^key-204d0ed5ed78caee784f7b13d960be6b] sub-paragraph (2)(b) is to have effect as if it provided for the amount of each of the 10 instalments to be £16.70[^key-c60155a06cecc3968009ff15d717c9c1];
+- (b)[^key-2dcd45763d2ffb32773ecc9f66e7dc85] sub-paragraph (3)(b) is to have effect as if it provided for the amount of each of the first 7 instalments to be £20.88 and the final instalment to be £20.84;[^key-a1315ab506396947534774f83d5dc9a4]
+- (c)[^key-2145d2c11b5101e327ed2709575e072c] sub-paragraph (4)(b) is to have effect as if it provided for the amount of each of the[^key-24f79cc8cb5eee7da411be97062e63ef] first 5 instalments to be £27.84 and the final instalment to be £27.80;[^key-6926b58369d64ad542c05223174595ed]
+- (d)[^key-15fc7eddc21e268a8a66a7f7b960d44d] sub-paragraph (5)(b) is to have effect as if it provided for the amount of each of the 4 instalments to be[^key-6db8c352bef4f336971f42901c64fc57] £41.75[^key-f28c45f3476fe60ed45241ff79d889a5].
+
+### PART 4 — Simple payment plan licence (not black and white only)[^key-6336e7495f4af6854e3539469c1ad375][^key-b7f9cd791b1488b462e644dd306d992d]
+
+**18.** (1) This Part deals with a TV licence to be known as a “Simple payment plan licence (not black and white only)” (in this Part referred to as a “simple payment licence”).
+
+(2) A simple payment licence is a licence of the same description as that given in the second entry of column 2 of the table in Schedule 1 (TV licence (including colour)) but where—
+
+- (a) the licence is to be issued only in accordance with paragraphs 19 and 20, and
+- (b) payment for the licence is to be made in instalments as set out in paragraph 21.
+
+(3)[^key-ddcdd13c6d7ec306030d20ed8b7976d9] In this Part—
+
+- “issue date”, in relation to a simple payment licence, means the date on which the licence is issued;
+- “expiry date”, in relation to a simple payment licence, means the date specified in the licence as being the last day that the licence is valid.
+
+**19.**[^key-74ba6571b6ab4f13a76bc47508b21a11] (1A) A simple payment licence is to be issued only to a person who is in any of circumstances A to E[^key-934de221667686b1e2d809e7758f5086] (see paragraph 20).
+
+**20.** (1) Circumstance A is that the person—
+
+- (a) has been visited for enforcement purposes[^key-fd4ebc6efa9aa9a3f3183c95b3093787] on or after 1st April 2020[^key-eca199796099d68272b4eef87ccbd34b] about a TV licensing offence, and
+- (b) is not, immediately before the issue date, authorised under a TV licence to install or use a TV receiver.
+
+(2) Circumstance B is that the person has, within the period of 6 months ending with the issue date, received advice from a relevant debt advice organisation[^key-2d9a416d9dab6b07b376549c0b368454] in relation to any of the person’s financial obligations [^key-4815f7be4f6cf824c2b156cf249cd56c]....
+
+(3) Circumstance C is that the person—
+
+- (a) held a TV licence (other than a simple payment licence) within the period of 6 months ending with the issue date,
+- (b) failed to make one or more payments in respect of that licence, and
+- (c) is not, immediately before the issue date, authorised under a TV licence to install or use a TV receiver.
+
+(3A)[^key-bb60eb6249a4dc22cd6a507908d093d5] Circumstance D is that the person held a simple payment licence within the period of 12 months ending with the issue date.
+
+(3B)[^key-a2a2ba01b6ebc3a0d672a9521fafdf71] Circumstance E is that the person—
+
+- (a) is experiencing significant difficulties in meeting essential household expenses, and
+- (b) is not, immediately before the issue date, authorised under a TV licence to install or use a TV receiver.
+
+(4) In this paragraph—
+
+- “[^key-156cab9f359e999a4fb3b1098e4ed119]**a relevant debt advice organisation**” means an organisation that provides debt counselling, or other financial advice, to persons in financial difficulty without charge to those persons.
+- “TV licensing offence” means an offence under—
+  - (a) section 363(2) of the Act (installing or using a television receiver without a licence),
+  - (b) section 363(3) of the Act (possessing or controlling a receiver and intending to install or use it without a licence etc), or
+  - (c) section 366(8) of the Act (obstructing or failing to assist a person using powers to enforce TV licensing).
+
+**21.** (1) This paragraph specifies the different instalments which are payable in different circumstances in respect of a simple payment licence.
+
+(2) Where the person to whom the simple payment licence is issued elects, before or on the issue date, to pay fortnightly instalments, sub-paragraphs (2A) to (2D) apply[^key-2f808e76c456901b68f7d00dedf01431].
+
+(2A)[^key-a9227b235178c98fb404e4d84bc3cfd5] An issue fee is payable on the issue date.
+
+(2B) Further instalments are payable at fortnightly intervals with the first being payable on the date which is the last day of the period of 2 weeks beginning with the date immediately following the issue date.
+
+(2C) The number of further instalments is determined by the number of complete fortnights in the period beginning with the date on which the first instalment falls due and ending with the expiry date.
+
+(2D) The amounts of the issue fee and each further instalment are determined according to the number of further instalments payable, as set out in Table 1.
+
+Table 1[^key-0aee2df8bc7df34054b2e2eaaca8f57f]
+
+| Issue fee | Number of further instalments | Amount of each further instalment |
+| --- | --- | --- |
+| £7.00 | 25 | £6.92 |
+| £7.20 | 24 | £7.20 |
+| £7.50 | 23 | £7.50 |
+| £7.96 | 22 | £7.82 |
+| £8.22 | 21 | £8.18 |
+| £8.60 | 20 | £8.57 |
+| £9.00 | 19 | £9.00 |
+| £9.54 | 18 | £9.47 |
+| £10.00 | 17 | £10.00 |
+| £10.72 | 16 | £10.58 |
+| £11.25 | 15 | £11.25 |
+| £12.00 | 14 | £12.00 |
+| £12.95 | 13 | £12.85 |
+| £13.92 | 12 | £13.84 |
+
+(2E) Where the person to whom the simple payment licence is issued elects, before or on the issue date, to pay monthly instalments, sub-paragraphs (2F) to (2I) apply.
+
+(2F) An issue fee is payable on the issue date.
+
+(2G) Further instalments are payable at monthly intervals with the first being payable on the date which is the last day of the period of one month beginning with the day immediately following the issue date.
+
+(2H) The number of further instalments is determined by the number of complete months in the period beginning with the date on which the first instalment falls due and ending with the expiry date.
+
+(2I) The amounts of the issue fee and of each further instalment are determined according to the number of further instalments payable as set out in Table 2.
+
+Table 2[^key-f6b3b7541a11fd55548403b05bfcd7bd]
+
+| Issue fee | Number of further instalments | Amount of each further instalment |
+| --- | --- | --- |
+| £15.00 | 11 | £15.00 |
+| £16.40 | 10 | £16.36 |
+| £18.00 | 9 | £18.00 |
+| £20.00 | 8 | £20.00 |
+| £22.50 | 7 | £22.50 |
+| £25.74 | 6 | £25.71 |
+| £30.00 | 5 | £30.00 |
+
+## SCHEDULE 3 — FEES FOR INTERIM TV LICENCES
+
+Regulation 3(1)(c)
+
+### PART 1 — Fees for interim TV licences
+
+Table
+
+| *Type of licence* | *Description of licence* | *Fees* |
+| --- | --- | --- |
+| Interim TV licence (black and white only) (not in the Channel Islands or the Isle of Man)[^key-9f61ca3e96ebeb6086e971cc113de1c6]. | A licence of the same description as that given in the first entry of column 2 of the table in Schedule 1 but which—<br>- (a) is issued to a person who has attained the age of 74 years before the due date, and<br>- (b) expires on the last day of the calendar month immediately before the month in which that person attains the age of 75 years. | An amount equal to £4.417[^key-78417c18d332fbe99fc8967fe116d737] for each month, or part of a month, in the period beginning on the due date and ending on the last day of the calendar month immediately before the month in which the licensee attains the age of 75 years (the amount being rounded down to the nearest penny where necessary). |
+| Interim TV licence (including colour) (not in the Channel Islands or the Isle of Man). | A licence of the same description as that given in the second entry of column 2 of the table in Schedule 1, but which—<br>- (a) is issued to a person who has attained the age of 74 years before the due date, and<br>- (b) expires on the last day of the calendar month immediately before the month in which that person attains the age of 75 years. | An amount equal to £13.125[^key-65d721242a2440675e1793f55f4734bb] for each month, or part of a month, in the period beginning on the due date and ending on the last day of the calendar month immediately before the month in which the licensee attains the age of 75 years (the amount being rounded down to the nearest penny where necessary). |
+
+### PART 2 — Interim TV Licence (including colour): payment by instalments
+
+**1.** (1) The amount referred to in column 3 of the table in Part 1 as being payable in respect of an Interim TV licence (including colour) (“**the licence fee**”) is to be payable in instalments in the circumstances specified in the following provisions of this paragraph; and the amount of each such instalment, and the date by which it is to be payable, is to be as so provided.
+
+(2) Where—
+
+- (a) the person to whom the licence is issued so elects before the date on which it is issued, and
+- (b) that person is eligible to hold a licence of the type referred to in paragraph 1 of Schedule 2 (“Premium instalment licence”) in respect of the place, vehicle, vessel or caravan which is to be specified in the licence,
+
+the licence fee is to be payable in quarterly instalments as provided by Part 1 of that Schedule; and, for the purposes of determining the amounts of the instalments and the dates on which they are payable, the licence is to be treated as if it were a Premium instalment licence.
+
+(3) Where the person to whom the licence is issued so elects before the date on which it is issued, the licence fee is to be payable in monthly instalments as provided by Part 2 of Schedule 2; and, for the purposes of determining the amounts of the instalments and the dates on which they are payable, the licence is to be treated as if it were a licence of the type referred to in paragraph 3 of that Schedule (Budget instalment television licence).
+
+(4) Where—
+
+- (a) the person to whom the licence is issued so elects before the date on which it is issued, and
+- (b) that person is eligible to hold a licence of the type referred to in paragraph 8 of Schedule 2 (“Easy entry television licence”),
+
+the licence fee is to be payable in fortnightly or weekly instalments as provided by Part 3 of that Schedule; and, for the purposes of determining the amounts of the instalments and the dates on which they are payable, the licence is to be treated as if it were an Easy entry television licence.
+
+(5) In applying the relevant Part of Schedule 2—
+
+- (a) the licence is to be treated as expiring at the end of the period of 12 months beginning on the due date;
+- (b) the difference between £157.50[^key-ab44ab36f9d1830f41a217121d757316] and the amount referred to in sub-paragraph (1) is to be deducted from the instalments which would otherwise be payable in accordance with that Part;
+- (c) that deduction is to be made first from the final instalment, then (where necessary) from the preceding instalments working backwards;
+- (d) where the amount to be deducted is greater than the amount of one or more of the instalments, the immediately preceding instalment is to be reduced by the whole of the additional amount.
+
+## SCHEDULE 4 — Accommodation for Residential Care Licences
+
+Regulation 3(1)(d)
+
+### PART 1 — Fees payable in respect of TV licences for accommodation for residential care
+
+#### 1. Type and description of TV licence
+
+(1) This Schedule specifies the fee payable in respect of a TV licence known as a “**TV licence (including colour) Accommodation for Residential Care Composite Form**”.
+
+(2)[^key-e36c19d5be80af7547835acdd8f072f6] A licence of the type referred to in sub-paragraph (1) is a licence to install and use television receivers at those parts of accommodation for residential care mentioned in the following provisions of this paragraph.
+
+(3) Where accommodation for residential care comprises a group of dwellings, the licence is a licence to install and use television receivers at such parts of the accommodation as consist of residential care dwellings and which are specified in the licence.
+
+(4) Where a dwelling constitutes accommodation for residential care by virtue of paragraph 12, the licence is a licence to install and use television receivers at any part of the dwelling.
+
+(5) In all other cases, the licence is a licence to install and use television receivers at such parts of the accommodation as consist of living rooms or bedrooms provided for the private occupation of residents and which are specified in the licence.
+
+#### 2. Issue fee
+
+(1) Subject to regulation 6(3), the fee for a TV licence of the type referred to in paragraph 1 shall be determined in accordance with sub-paragraphs (2) to (4).
+
+(2) In the case of accommodation described or referred to in paragraph (a) of any of the definitions of “accommodation for residential care” in paragraphs 4 and 7 to 11 of this Schedule, the fee shall be £7.50[^key-e7d92de95dc36f4a32f82f728443ba5b] for each unit of accommodation specified in the licence.
+
+(3) In the case of accommodation which consists of a group of dwellings, the fee shall be £7.50 for each residential care dwelling specified in the licence.
+
+(4) In the case of accommodation which is accommodation for residential care by virtue of paragraph 12 of this Schedule, the fee shall be £7.50.
+
+### PART 2 — Interpretation
+
+#### 3. General
+
+(1) In this Schedule—
+
+- “**resident**” means—
+  - (a) in relation to accommodation which is accommodation for residential care by virtue of any of paragraphs 4 to 12, a disabled or retired person who is [^key-836832f3cd4160ea6938700fb79dfe89]... resident in the accommodation, but does not include a person in charge of the accommodation or otherwise employed in it, or a member of the family of either of them;
+  - (b) in relation to accommodation which is accommodation for residential care by virtue of paragraph 13 below, an eligible person (within the meaning of that paragraph);
+- “**residential care dwelling**” means—
+  - (a) in relation to a group of dwellings which is accommodation for residential care by virtue of any of paragraphs 4 to 11 below, any dwelling which satisfies the requirements of sub-paragraph (4)(a) to (c);
+  - (b) in relation to a group of dwellings which is accommodation for residential care by virtue of paragraph 13, any dwelling occupied by an eligible person (within the meaning of that paragraph);
+- “**retired**” means any person who is aged 60 years or more and, if he works—
+  - (a) whose working hours do not exceed 15 hours a week; or
+  - (b) where they do exceed that amount, immediately before 1st April 2004 the person—
+    - (i) was ordinarily resident in accommodation in respect of which a television licence for accommodation for residential care was in force; and
+    - (ii) [^c9253611]was living in that accommodation as a resident (within the meaning of the Wireless Telegraphy (Television Licence Fees) Regulations 1997 as they had effect at that time).
+
+(2) In this Schedule “**publicly provided or managed**”, in relation to a dwelling, means provided or managed in one of the ways specified in—
+
+- (a) paragraph 6; or
+- (b) paragraph (b) of each of the definitions of accommodation for residential care in paragraphs 7 to 11.
+
+(3) For the purposes of this Schedule a person is disabled if—
+
+- (a) his sight, hearing or speech is substantially impaired;
+- (b) he has a mental disorder; or
+- (c) he is physically substantially disabled by any illness, any impairment present from birth, or otherwise.
+
+(4) In this Schedule “**a group of specially provided dwellings**” means a group of at least four dwellings which fall within a common and exclusive boundary and (subject to sub-paragraph (5))—
+
+- (a) which are provided for occupation by disabled or retired persons;
+- (b) which have been erected or converted for the purposes of such occupation; and
+- (c) for which there is a person whose function is to care for the needs of the persons referred to in paragraph (a) and who either lives in one of the dwellings within the group or is employed to work in that group for at least 30 hours a week.
+
+(5) The conditions in paragraphs (a) to (c) of sub-paragraph (4) shall not cease to be satisfied in relation to a group of dwellings because—
+
+- (a) (where the group of dwellings is situated in England, Wales, Scotland or Northern Ireland) not more than 25 per cent of the dwellings are right to buy dwellings which do not satisfy the condition in sub-paragraph (4)(a);
+- (b) any dwelling is also occupied by any member of the family of any person referred to in sub-paragraph (4)(a);
+- (c) any dwelling is occupied by a person who, although aged 60 years or over, is not retired;
+- (d) any dwelling is occupied by the person referred to in sub-paragraph (4)(c);
+- (e) one dwelling within the group is occupied by a person who is employed to maintain the dwellings in the group or the grounds of those dwellings and that person works in that employment at least 30 hours a week;
+- (f) any dwelling occupied by the person referred to in sub-paragraph (4)(c) or in paragraph (e) above is also occupied by a member of that person's family; or
+- (g) one dwelling within the group is used for overnight accommodation, for no longer than 28 nights in any consecutive period, for any member of the family of any person referred to in sub-paragraph (4)(a).
+
+(6) In this paragraph, “**employed**” has the same meaning as in section 230 of the Employment Rights Act 1996 [^c9253621].
+
+(7) For the purposes of this paragraph, a person is not to be regarded as working if he receives no remuneration for his work.
+
+(8) Sub-paragraph (9) is to apply for the purposes of calculating the number of hours a week worked by any person referred to in sub-paragraph (1), (4)(c) or (5)(e).
+
+(9) The number of hours a week a person works is to be the average number of hours worked in each week for the period of 12 weeks ending—
+
+- (a) where the date (referred to in this sub-paragraph as “**the relevant date**”) on which the application for the licence is made is the last day of a week, with that week; or
+- (b) in any other case, with the last complete week before the relevant date.
+
+(10) In calculating the period of 12 weeks referred to in sub-paragraph (9) no account shall be taken of any week during which the person concerned was absent from work for any reason.
+
+(11) For the purposes of this paragraph, “**week**” means any period of 7 days ending on a Saturday.
+
+(12) In this Schedule two persons are members of the same family if—
+
+- (a) they are married;
+- (b) they are partners;
+- (c) one of them is the other's parent, grandparent, brother, sister, half-brother, half-sister, aunt or uncle;
+- (d) one of them is the child, parent, grandchild, grandparent, brother, sister, half-brother, half-sister, aunt or uncle of the other's spouse or partner;
+- (e) one of them is or has been the foster child of the other;
+- (f) one of them is or has been the foster child of the other's spouse or partner;
+- (g) the parent or present or former foster parent of one of them is or has been the other's foster parent; or
+- (h) one of them is or has been regularly involved in caring for or being in sole charge of the other whilst living in the same household.
+
+(13)[^key-74e52c1df1da7b0a060335da5ae7dda5] For the purposes of this Schedule, a person is the foster child of another person under the law of any part of the British Islands if he is the foster child of that person in one of the ways described in sub-paragraph (2)(a) of any of paragraphs 4, 7, 8, 9, 10 and 11.
+
+(14) For the purposes of sub-paragraph (12)—
+
+- (a) “**aunt**” means the sister or half-sister of a person's parent, and “**uncle**” has a corresponding meaning; and
+- (b) a person is another's partner (whether they are of different sexes or the same sex) if they live together as partners in an enduring family relationship.
+
+#### 4. England and Wales
+
+(1)[^key-b3f2dee335be1d268bd4efeb1fc56c27] In this Schedule, in relation to England and Wales—
+
+- “**accommodation for residential care**” means, subject to paragraphs 12 and 13, either—
+  - (a) an establishment to which paragraph 5 applies, or
+  - (b) a group of specially provided dwellings which meets the condition specified in paragraph 6;
+- “**mental disorder**” means mental illness, arrested or incomplete development of mind, psychopathic disorder, and any other disorder or disability of mind;
+- “**psychopathic disorder**” means a persistent disorder or disability of mind (whether or not including significant impairment of intelligence) which results in abnormally aggressive or seriously irresponsible conduct on the part of the person concerned; and
+- “**right to buy dwelling**” is a dwelling owned by a person who bought the dwelling in exercise of his right to buy under Part V of the Housing Act 1985 or any successor in title of such a person.
+
+(2)[^key-f318a4202144c620bbc8857d12fca26c] For the purposes of this Schedule, in relation to England and Wales, a person is another’s foster child if—
+
+- (a) he has been placed with that person under section 23(2)(a) or 59(1)(a) of the Children Act 1989, or that other person fosters him privately within the meaning given by section 66(1)(b) of that Act; or
+- (b) he is the foster child of that person under the law of any other part of the British Islands.
+
+**5.** (1) This paragraph applies to any establishment the sole or main object of which is, or is held out to be, the provision of accommodation, whether for reward or not, for disabled or retired persons and which is—
+
+- (a) provided by a local authority under section 21(1)(a) of the National Assistance Act 1948 [^c9253641];
+- (aa) provided to meet needs under sections 18 or 19 of the Care Act 2014 (duty and power to meet needs for care and support);[^key-347705df86c4e05657083fbf5015a566]
+- (b) an independent school within the meaning of the Education Act 1996 [^c9253651]—
+  - (i) which provides accommodation for 50 or fewer children under the age of 18 years and which is not for the time being approved by the Secretary of State under section 347 of the Education Act 1996 [^c9253661]; and
+  - (ii) which provides or is intended to provide residential accommodation with both board and personal care for children at the school who are in need of personal care by reason of being disabled, including by reason of a past or present mental disorder;
+- (c)[^key-af6b27aef43774bd778bc12fa34c8e65] an establishment—
+  - (i) in England, that is carried on or managed by a person who is registered under Chapter 2 of Part 1 of the Health and Social Care Act 2008 in respect of the provision of residential accommodation, together with nursing or personal care, in the establishment, and
+  - (ii) in Wales, that is carried on or managed by a person who is registered under Part 2 of the Care Standards Act 2000 to carry on or manage the establishment as a care home within the meaning of section 3 of that Act, or who would be so registered but for regulation 3(1)(a) or (d) of the Care Homes (Wales) Regulations 2002;
+- (d) a care hospital; or
+- (e) an almshouse established as such before 1st November 1949.
+
+(2) In sub-paragraph (1)(d) the reference to a care hospital is to—
+
+- (a)[^key-0dcc11377eceab7fc1bca09b90392437] any establishment—
+  - (i) in England, that is a hospital as defined by section 275 of the National Health Service Act 2006 that is not a health service hospital as defined by that section, and
+  - (ii) in Wales, that is carried on or managed by a person who is registered under Part 2 of the Care Standards Act 2000 to carry on or manage the establishment as an independent hospital within the meaning of section 2 of that Act; or
+- (b) a health service hospital.
+
+(3) In this paragraph—
+
+- “health service hospital” has the same meaning—[^key-f14b4c53afbe4568a8ba48ea63f6c307]
+  - (a) in England, as in section 275 of the National Health Service Act 2006; and
+  - (b) in Wales, as in section 206 of the National Health Service (Wales) Act 2006;
+- “**personal care**” means care which includes assistance with bodily functions where such assistance is required.
+
+**6.** Where accommodation for residential care comprises a group of specially provided dwellings, the dwellings which satisfy the requirements of paragraph 3(4)(a) to (c) must all be dwellings which are provided or managed—
+
+- (a) under Part II of the Housing Act 1985 [^c9253721];
+- (b) by a housing association within the meaning of the Housing Associations Act 1985 [^c9253731]; or
+- (c) by a development corporation within the meaning of the New Towns Act 1981 [^c9253741].
+
+#### 7. Scotland
+
+(1)[^key-40a6e3efb2b6675ef17c659ca09b1fcc] In this Schedule in relation to Scotland—
+
+- “**accommodation for residential care**” means, subject to paragraphs 12 and 13, either—
+  - (a) any establishment the sole or main object of which is, or is held out to be, the provision of accommodation, whether for reward or not, for disabled or retired persons and—
+    - (i) which is provided by a local authority under sections 12, 13A, 13B and 59 of the Social Work (Scotland) Act 1968 [^c9253751], or section 25 of the Mental Health (Care and Treatment) (Scotland) Act 2003[^key-c209a42e7b20ed38b7abc32f3f686891];
+    - (ii) at which a care service is provided (within the meaning of section 47 of the Public Services Reform (Scotland) Act 2010) and that service is registered under Part 5 of that Act; or[^key-c63be6383a3c290bdbc9e716e853c4b4]
+    - (iii) which is a health service hospital; or
+  - (b) a group of specially provided dwellings in which the dwellings which satisfy the requirements of paragraph 3(4)(a) to (c) of this Schedule are dwellings which are provided or managed—
+    - (i) under Part 1 of the Housing (Scotland) Act 1987 [^c9253781];
+    - (ii) by a registered social landlord within the meaning of section 165 of the Housing (Scotland) Act 2010[^key-ab0365db90275101c122bc57ee7f0cb4]; or
+    - (iii) by Scottish Homes under section 1 of the Housing (Scotland) Act 1988 [^c9253791];
+- “**health service hospital**” has the meaning given by section 108(1) of the National Health Service (Scotland) Act 1978 [^c9253801];
+- “**mental disorder**” means any mental disorder within the meaning of the Mental Health (Care and Treatment) (Scotland) Act 2003[^key-bf2483dfc6f75117af16bf1796152357]; and
+- “**right to buy dwelling**” is a dwelling owned by a person who bought the dwelling in exercise of his right to buy under Part III of the Housing (Scotland) Act 1987 or any successor in title of such a person.
+
+(2)[^key-9bcccf0bad87416f3985cc49b92884c1] For the purposes of this Schedule, in relation to Scotland, a person is another’s foster child if—
+
+- (a) he has been placed as a foster child with that other person by a local authority or he is a foster child of that other person within the meaning of the Foster Children (Scotland) Act 1984; or
+- (b) he is the foster child of that person under the law of any other part of the British Islands.
+
+#### 8. Northern Ireland
+
+(1)[^key-eb8d358e9f6f6f7404d7e6ab1a1aae03] In this Schedule in relation to Northern Ireland—
+
+- “**accommodation for residential care**” means, subject to paragraphs 12 and 13, either—
+  - (a) any establishment the sole or main object of which is, or is held out to be, the provision of accommodation, whether for reward or not, for disabled or retired persons and which—
+    - (i) is provided by the Department of Health, Social Services and Public Safety[^key-41d87342917825a18ea71649e61c6985] under Article 15 of the Health and Personal Social Services (Northern Ireland) Order 1972 [^c9253821]; or[^key-a359fd0033c80739a2852f695af137a8]
+    - (ii) is carried on or managed by a person who is registered under Part III of the Health and Personal Social Services (Quality, Improvement and Regulation) (Northern Ireland) Order 2003[^key-66b77bb1a8aa8bdb70e9b4cac55b079e] to carry on or manage the establishment as a residential care home or nursing home within the meaning of Article 10 or 11 of that Order, or who would be subject to registration under that Part but for Article 11(2)(a) of that Order;
+  - (b) a group of specially provided dwellings in which the dwellings which satisfy the requirements of paragraph 3(4)(a) to (c) of this Schedule are dwellings which are provided or managed—
+    - (i) under the Housing (Northern Ireland) Order 1981 [^c9253841]; or
+    - (ii) by a Housing Association within the meaning of the Housing (Northern Ireland) Order 1992 [^c9253851];
+- “**mental disorder**” means any mental disorder within the meaning of the Mental Health (Northern Ireland) Order 1986 [^c9253861]; and
+- “**right to buy dwelling**” is a dwelling owned by a person—
+  - (a) who bought the dwelling in exercise of his right to buy under Part II of the Housing (Northern Ireland) Order 1983 [^c9253871] as it had effect immediately before the day of the coming into operation of Article 96 of the Housing (Northern Ireland) Order 1992; or
+  - (b) who bought it under a scheme made under Article 3 of the Housing (Northern Ireland) Order 1983 as substituted by Article 96 of the Housing (Northern Ireland) Order 1992, or under an earlier scheme made by the Northern Ireland Housing Executive and having like effect; or[^key-aab49616699537a349e197be276134a4]
+  - (c) who bought it under a scheme made under Article 3A of the Housing (Northern Ireland) Order 1983 as inserted by Article 131 of the Housing (Northern Ireland) Order 2003,
+
+  or any successor in title of such a person.
+
+(2)[^key-bbc79d2524deab6e7df16e87c82bcd7c] For the purposes of this Schedule, in relation to Northern Ireland, a person is another’s foster child if—
+
+- (a) he has been placed with that person under Article 27(2)(a) or 75(1)(a) of the Children (Northern Ireland) Order 1995, or that other person fosters him privately within the meaning given by Article 106(1) of that Order; or
+- (b) he is the foster child of that person under the law of any other part of the British Islands.
+
+#### 9. Guernsey
+
+(1)[^key-9b264050ea514b5d0724b5d128adcd01] In this Schedule in relation to the Bailiwick of Guernsey—
+
+- “**accommodation for residential care**” means, subject to paragraphs 12 and 13, either—
+  - (a) any establishment the sole or main object of which is, or is held out to be, the provision of accommodation, whether for reward or not, for disabled or retired persons and which—
+    - (i) is carried on by a person who is duly registered in respect thereof under the Nursing Homes and Residential Homes (Guernsey) Law 1976; or
+    - (ii) is exempt from registration under section 6 of that Law; or
+  - (b) a group of specially provided dwellings which are provided or managed—
+    - (i) by any Department[^key-05afa24b922c106f920ef0f7872d5d75] of the States of Guernsey; or
+    - (ii) by a body approved in writing for the purposes of these Regulations by the[^key-9c3ae42e5520a9b9300748ac54fa8b42] Health and Social Services Department[^key-35e7a3ea482be27f02eccb9a70e024c4] ;
+- “**mental disorder**” means any mental ailment within the meaning of the Mental Treatment Law (Guernsey) 1939.
+
+(2)[^key-445e9b9f88490352d20a9f1527eee947] For the purposes of this Schedule, in relation to the Bailiwick of Guernsey, a person is another’s foster child if—
+
+- (a) he has been boarded out with that person by the Health and Social Services Department under Article V of the Loi Ayant Rapport à L'Asile des Enfants; or
+- (b) he is the foster child of that person under the law of any other part of the British Islands.
+
+#### 10. Isle of Man
+
+(1)[^key-62eb37fcf8643611975f6f82b4a8cc63] In this Schedule in relation to the Isle of Man—
+
+- “**accommodation for residential care**” means, subject to paragraphs 12 and 13, either—
+  - (a) any establishment the sole or main object of which is, or is held out to be, the provision of accommodation, whether for reward or not, for disabled or retired persons and which—
+    - (i) [^key-4baf3fd0b73226fde4df00e39268e314]...
+    - (ii) is provided under the National Health Service Act 2001[^key-7f85914568f8cc585c8f6390c99c1802]; or
+    - (iii) is provided under section 2 of the Social Services Act 2011;
+    - (iv) is carried on by a person who is duly registered in respect thereof under the Regulation of Care Act 2013[^key-626dc950b26b18de1e5dbbaef676fbdc] or would be so registered but for section 54 of that Act; or
+  - (b) a group of specially provided dwellings which are provided or managed—
+    - (i) under Part IV of the Housing Act 1955 [^c9253911]; or
+    - (ii) by a housing association under Part II of the Housing (Miscellaneous Provisions) Act 1976 [^c9253921];
+- “**mental disorder**” means any mental disorder within the meaning of the Mental Health Act 1998 [^c9253931].
+
+(2)[^key-527878100680fd53169dfcb79608bbab] For the purposes of this Schedule, in relation to the Isle of Man, a person is another’s foster child if—
+
+- (a) he has been placed with that person under section 26(1)(a) of the Children and Young Persons Act 2001, or that other person fosters him privately within the meaning given by section 57(1) of that Act; or
+- (b) he is the foster child of that person under the law of any other part of the British Islands.
+
+#### 11. Jersey
+
+(1)[^key-4e1f0b41aab459fb91f140a86a394c78] In this Schedule in relation to the Bailiwick of Jersey—
+
+- “**accommodation for residential care**” means, subject to paragraph 13, either—
+  - (a) any establishment the sole or main object of which is, or is held out to be, the provision of accommodation, whether for reward or not, for disabled or retired persons and which—
+    - (i) is carried on by a person who is duly registered in respect thereof under the Nursing and Residential Homes (Jersey) Law 1994; or
+    - (ii) is exempt from registration under that Law; or
+  - (b) a group of specially provided dwellings which are provided or managed—
+    - (i) by a Committee of the States;
+    - (ii) by one of the Parishes; or
+    - (iii) by a body approved in writing for the purposes of these Regulations by the Health and Social Services Committee;
+- “**mental disorder**” means a mental disorder as defined in the Mental Health (Jersey) Law 1969.
+
+(2)[^key-1ee6eb43d3c0e67b03805dcd955e99be] For the purposes of this Schedule, in relation to the Bailiwick of Jersey, a person is another’s foster child if—
+
+- (a) he is a foster child within the meaning of Article 56 of the Children (Jersey) Law 1969 and his care and maintenance has been undertaken by that other person; or
+- (b) he is the foster child of that person under the law of any other part of the British Islands.
+
+#### 12. Accommodation for residential care: supplementary provisions
+
+(1) For the purposes of Part 1 of this Schedule, accommodation for residential care is to include a dwelling which is occupied by—
+
+- (a) a person who immediately before 19th May 1988 was licensed by a television licence for accommodation for residential care (“**a licensee**”); or
+- (b) a person who immediately before that date was living with a licensee and who would, at that time, have qualified to be so licensed,
+
+and which is publicly provided or managed.
+
+(2) A dwelling, which is situated in England, Wales, Scotland or Northern Ireland, shall not constitute accommodation for residential care by virtue of sub-paragraph (1) if every person occupying it who falls within paragraph (a) or (b) of that sub-paragraph is aged 75 years or more.
+
+(3) Sub-paragraph (1) does not apply in the Bailiwick of Jersey.
+
+**13.** (1) For the purposes of Part 1 of this Schedule, accommodation for residential care is to include qualifying accommodation in which one or more eligible persons are living.
+
+(2) In this paragraph—
+
+- (a) “**eligible person**”, in relation to any qualifying accommodation, means any person who—
+  - (i) is a disabled or retired person;
+  - (ii) is ordinarily resident in the accommodation in a dwelling which is provided for occupation by such persons, and which was erected or converted for the purposes of such occupation;
+  - (iii) (where the accommodation is situated in England, Wales, Scotland or Northern Ireland) is under the age of 75 years;
+  - (iv) was ordinarily resident in any dwelling forming part of the accommodation at any time on or after 1st June 1998 during the period specified in a relevant licence issued in respect of the accommodation; and
+  - (v) at that time was a disabled or retired person, and was living in the accommodation in a dwelling which was provided for occupation by such persons, and which was erected or converted for the purposes of such occupation;
+- (b) “**qualifying accommodation**” means a group of at least 4 dwellings—
+  - (i) which are publicly provided or managed;
+  - (ii) one or more of which are provided for occupation by disabled or retired persons and were erected or converted for the purposes of such occupation; and
+  - (iii) which together constituted accommodation in respect of which a relevant licence was issued for any period ending on or after 1st June 1998;
+- (c) “**relevant licence**” means a licence of the type specified in paragraph 1 of this Schedule which was issued on the grounds that the accommodation to which it applied constituted accommodation for residential care by virtue of being a group of specially provided dwellings as described or referred to in any of paragraphs 4 to 11 above.
+
+(3) For the purposes of sub-paragraph (2)—
+
+- (a) a dwelling does not cease to be provided for occupation by a disabled or retired person by reason only that it is also occupied by members of that person's family;
+- (b) in the case of a group of dwellings in England, Wales, Scotland or Northern Ireland, the dwellings are to be treated as being publicly provided or managed if—
+  - (i) at least 75 per cent of the dwellings are so provided or managed (including all of those provided for occupation by disabled persons or retired persons); and
+  - (ii) the remainder are right to buy dwellings.
+
+## SCHEDULE 5 — TV Licence Fees for Hotels and Hospitality Areas and Mobile Units
+
+Regulation 3(1)(e)
+
+### 1. Interpretation
+
+In this Schedule—
+
+- “**hospitality area**” means any establishment, other than a hotel, within the same premises or, as the case may be, on the same site which provides rooms or other similar places (referred to below as “**entertainment units**”) in which entertainment is provided for guests (whether or not for payment);
+- “hotel” means any establishment (including an inn, guest house, holiday camp, caravan site or camp site) within the same premises or, as the case may be, on the same site which (whether or not it also provides other services) offers accommodation consisting wholly or mainly of units of overnight accommodation for guests staying for no longer than 28 consecutive nights;[^key-4b4c6971f27fb21d40ebd7407672239d]
+- “**mobile units**” means mobile units of overnight accommodation (whether or not used at other times) for guests, which are provided by the same person and operated from the same place;
+- “**relevant amount**”, where it is used for the purposes of determining an amount payable in respect of television receivers installed or used in one or more units, means—
+  - (a) where black and white television receivers only are installed or used in the units, £60.50[^key-66b286557d060646ac622fc5ce945f4e];
+  - (b) in any other case, £180.00[^key-26a2872eba42709bb0d33bbc8288715b]; and
+- “**units**” means entertainment units in a hospitality area, units of overnight accommodation in a hotel or mobile units, as the case may be;
+- “unit of overnight accommodation” in relation to a hotel means all or part of any roofed or covered building or structure designed, adapted or offered for human habitation and–[^key-74f3fdb5c738872343cfdac4e660a2c4]
+  - (a) includes a caravan, mobile home, movable dwelling, tent or other like structure, but
+  - (b) does not include land (whether or not provided with services) on which guests are permitted to place such structures not offered to them by the hotel.
+
+### 2. Type and description of TV licence
+
+(1) This Schedule specifies the fee payable in respect of a TV licence known as a “**TV licence Hospitality Area, Hotel and Mobile Units Comprehensive Form**”.
+
+(2) A licence of the type referred to in sub-paragraph (1) is a licence to install and use television receivers in a hospitality area, hotel or mobile units.
+
+### 3. Issue fee
+
+(1) Where television receivers are only installed or used otherwise than in units used or available for use by guests, the fee is—
+
+- (a) £60.50[^key-f480e58ff438460b45b71449164f5a9b], where only black and white television receivers are used or installed; or
+- (b) in any other case, £180.00[^key-ea5258e76e766aab2df69bdd4bdc43da].
+
+(2) In any case not falling within sub-paragraph (1) the fee is to be determined as follows—
+
+- (a) if the number of units used or available for use by guests in which television receivers are installed or used does not exceed 15, the fee is the relevant amount;
+- (b) if the number of such units exceeds 15 and forms a multiple of 5, the fee is—
+
+  A + B, where
+
+  A is the relevant amount, and
+
+  B is the total amount payable in respect of the units exceeding 15 where the amount payable in respect of each multiple of 5 such units is the relevant amount;
+- (c) if the number of units used or available for use by guests in which television receivers are installed or used exceeds 15 but does not form a multiple of 5, the fee is the fee applicable under paragraph (b) above for the multiple next above that number.
+
+(3) For the purposes of determining the fee under sub-paragraph (2) units in which colour television receivers are installed or used shall be counted first.
+
+## SCHEDULE 6 — Revocations
+
+Regulation 7(1)
+
+|  |  |
+| --- | --- |
+| The Wireless Telegraphy (Television Licence Fees) Regulations 1997 | S.I. 1997/290 |
+| The Wireless Telegraphy (Television Licence Fees) (Amendment) Regulations 1998 | S.I. 1998/558 |
+| The Wireless Telegraphy (Television Licence Fees) (Amendment) Regulations 1999 | S.I. 1999/765 |
+| The Wireless Telegraphy (Television Licence Fees) (Amendment) Regulations 2000 | S.I. 2000/630 |
+| The Wireless Telegraphy (Television Licence Fees) (Amendment) Regulations 2001 | S.I. 2001/772 |
+| The Wireless Telegraphy (Television Licence Fees) (Amendment) Regulations 2002 | S.I. 2002/641 |
+| The Wireless Telegraphy (Television Licence Fees) (Amendment) Regulations 2003 | S.I. 2003/663 |
+
+*(This note is not part of the Regulations)*
+
+These Regulations prescribe the fees payable for TV licences; define “**television receiver**” for the purposes of Part 4 of the Communications Act 2003 (licensing of TV reception); and define terms used for the purposes of Part 1 of the Wireless Telegraphy Act 1967 (information as to sale and hire of television sets).
+
+Part 2 of the Regulations consolidates the Regulations specified in Schedule 6. In addition to drafting amendments, the Regulations—
+
+- (a) increase the licence fee for a basic black and white only TV licence from £38.50 to £40.50 and from £116.00 to £121.00 for a basic colour TV licence;
+- (b) increase the fee for a premium instalment licence, which is a colour TV licence paid in quarterly instalments, from a total cost of £121.00 to £126.00 (not available in the Channel Islands);
+- (c) increase the fee for a budget instalment licence from a total cost of £116.00 to £121.00. Part 2 of Schedule 2 sets out the different instalment schemes which apply to such a licence, including the circumstances in which each such scheme will apply. Different instalment schemes apply depending on whether or not the licence holder has entered into arrangements with the BBC to make payments in respect of the licence before the date on which that person is required to obtain the licence in accordance with the Communications Act 2003 (“**the due date**”). Different instalment schemes also apply depending on the length of the period of the licence;
+- (d) increase the fee for the easy entry licence (which is not available in the Channel Islands or the Isle of Man) from a total cost of £116.00 to £121.00. Part 3 of Schedule 2 sets out the different instalment schemes which apply to such a licence, including the circumstances in which each such scheme will apply. Different instalment schemes apply depending on whether or not the licence holder has entered into arrangements with the BBC to make payments in respect of the licence before the due date. Different instalment schemes also apply depending on the length of the period of the licence;
+- (e) provide for an increase in the fee payable for an interim licence. An interim licence is issued to any person who is over 74 years of age and who will therefore attain the age of 75 years in less than a year (at which point the person will be eligible for a free licence). The fee is calculated on a monthly basis. Where the licence is for black and white TV receivers only, the fee has been increased from £3.208 to £3.375 for each month, or part of a month, of the licence period. Where the licence authorises the installation and use of a colour TV receiver, the fee has been increased from £9.666 to £10.083 for each month. Part 2 of Schedule 3 specifies the circumstances in which instalments are payable for an interim licence, the amounts of any instalment payments and the date on which they are payable;
+- (f) provide for the fee payable by a blind person in respect of a TV licence, authorising the installation and use of a TV receiver at the person's residence, to be reduced by 50 per cent. This replaces the blind concession provided for by the Secretary of State's determination under section 2(2) of the Wireless Telegraphy Act 1949, dated 31 March 2000 (and as amended on 29 March 2001);
+- (g) provide for persons over the age of 75 years to be able to obtain a free TV licence for their sole or main residence. This replaces the Secretary of State's direction to the BBC under section 1(2) of the Wireless Telegraphy Act 1949, dated 30 October 2000 (and as amended on 29 March 2001), directing that TV licences be issued free to persons aged 75 and over;
+- (h) update the definition of “accommodation for residential care” for England and Wales so that it refers to the Care Standards Act 2000 and regulations made under that Act rather than referring to the Registered Homes Act 1984, which has now been repealed;
+- (i) update the definition of “accommodation for residential care” for Scotland so that it refers to the Regulation of Care (Scotland) Act 2001 rather than referring to sections 61 to 63 of the Social Work (Scotland) Act 1968, which have been repealed.
+
+## Definitions for the purposes of the Communications Act 2003 and the Wireless Telegraphy Act 1967
+
+Part 3 of the Regulations—
+
+- (j) defines “**television receiver**” for the purposes of Part 4 of the Communications Act 2003 (which re-enacts the requirement for the installation and use of a TV receiver to be authorised by a TV licence); and
+- (k) defines “**television dealer**” and “**television set**” for the purposes of Part 1 of the Wireless Telegraphy Act 1967 (which imposes upon the television dealers an obligation to notify the BBC, as the authority responsible for TV licensing, of certain particulars relating to the sale of hire of a television set).
+
+A Regulatory Impact Assessment has not been prepared in relation to these Regulations.
+
+## Annotations
+
+[^c9253521]: Marginal citation: [1967 c. 72](https://www.legislation.gov.uk/ukpga/1967/72); [section 6(1)](https://www.legislation.gov.uk/uksi/2004/692/section/6/1) (interpretation of provisions requiring notification of sale and hire of television sets) was amended by the [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [section 367](https://www.legislation.gov.uk/ukpga/2003/21/section/367).
+
+[^c9253531]: Marginal citation: [2003 c. 21](https://www.legislation.gov.uk/ukpga/2003/21).
+
+[^c9253541]: Marginal citation: [S.I. 2004/308](https://www.legislation.gov.uk/uksi/2004/308).
+
+[^c9253551]: Marginal citation: [S.I. 2004/307](https://www.legislation.gov.uk/uksi/2004/307).
+
+[^c9253561]: Marginal citation: [S.I. 2003/3198](https://www.legislation.gov.uk/uksi/2003/3198), amended by [S.I. 2004/309](https://www.legislation.gov.uk/uksi/2004/309).
+
+[^key-2c58c8d1a02eabb6fa24b10bbb8a73f8]: Textual amendment: Reg. 1(2) substituted (1.4.2020) by [The Communications (Television Licensing) (Amendment) (No. 2) Regulations 2020 (S.I. 2020/160)](https://www.legislation.gov.uk/uksi/2020/160), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/160/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2020/160/regulation/3)
+
+[^key-1ff0aa19e0448085f0cd5aad50288db5]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2004/692/regulation/1/2) omitted (1.5.2021) by virtue of [The Communications (Television Licensing) (Amendment) (No. 2) Regulations 2021 (S.I. 2021/227)](https://www.legislation.gov.uk/uksi/2021/227), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/227/regulation/1/1), [4(1)](https://www.legislation.gov.uk/uksi/2021/227/regulation/4/1)
+
+[^key-1a97b720add8718694a472115b98efb2]: Textual amendment: [Reg. 1(2A)](https://www.legislation.gov.uk/uksi/2004/692/regulation/1/2A) inserted (1.5.2021) by [The Communications (Television Licensing) (Amendment) (No. 2) Regulations 2021 (S.I. 2021/227)](https://www.legislation.gov.uk/uksi/2021/227), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/227/regulation/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2021/227/regulation/4/2)
+
+[^key-a736e873d2f4d5c723e815755b87fd68]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2004/692/regulation/2/1) inserted (1.4.2007) by [The Communications (Television Licensing) (Amendment) Regulations 2007 (S.I. 2007/718)](https://www.legislation.gov.uk/uksi/2007/718), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/718/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2007/718/regulation/3) (with [reg. 13](https://www.legislation.gov.uk/uksi/2007/718/regulation/13))
+
+[^key-876d8feed989e67c0a24e60433dc86a0]: Textual amendment: Words in [reg. 3(1)(b)](https://www.legislation.gov.uk/uksi/2004/692/regulation/3/1/b) substituted (1.4.2018) by [The Communications (Television Licensing) (Amendment) (No. 2) Regulations 2018 (S.I. 2018/339)](https://www.legislation.gov.uk/uksi/2018/339), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/339/regulation/1/2), [3(a)](https://www.legislation.gov.uk/uksi/2018/339/regulation/3/a)
+
+[^key-7ad5c99f0e4bd304985e27d68587fea3]: Textual amendment: Words in [reg. 3(1)(b)](https://www.legislation.gov.uk/uksi/2004/692/regulation/3/1/b) substituted (1.4.2018) by [The Communications (Television Licensing) (Amendment) (No. 2) Regulations 2018 (S.I. 2018/339)](https://www.legislation.gov.uk/uksi/2018/339), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/339/regulation/1/2), [3(b)](https://www.legislation.gov.uk/uksi/2018/339/regulation/3/b)
+
+[^key-88471e8563201a8e5e0f5c609d251622]: Textual amendment: Reg. 3(4) added (1.4.2007) by [The Communications (Television Licensing) (Amendment) Regulations 2007 (S.I. 2007/718)](https://www.legislation.gov.uk/uksi/2007/718), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/718/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2007/718/regulation/4) (with [reg. 13](https://www.legislation.gov.uk/uksi/2007/718/regulation/13))
+
+[^key-fb142e64cfa96029aec9a694d2e34064]: Textual amendment: Word in [reg. 4](https://www.legislation.gov.uk/uksi/2004/692/regulation/4) substituted (1.4.2005) by [The Communications (Television Licensing) (Amendment) Regulations 2005 (S.I. 2005/606)](https://www.legislation.gov.uk/uksi/2005/606), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/606/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2005/606/regulation/3) (with [reg. 10](https://www.legislation.gov.uk/uksi/2005/606/regulation/10))
+
+[^key-7eeefc0761ff071fba3a1e3a47fc8027]: Textual amendment: Word in reg. 5(1) substituted (1.4.2005) by [The Communications (Television Licensing) (Amendment) Regulations 2005 (S.I. 2005/606)](https://www.legislation.gov.uk/uksi/2005/606), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/606/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2005/606/regulation/4) (with [reg. 10](https://www.legislation.gov.uk/uksi/2005/606/regulation/10))
+
+[^key-ab5b15ae72a5e2f6700282a3b47a6b11]: Textual amendment: Reg. 5(2)(a) substituted (1.4.2007) by [The Communications (Television Licensing) (Amendment) Regulations 2007 (S.I. 2007/718)](https://www.legislation.gov.uk/uksi/2007/718), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/718/regulation/1/1), [5(1)](https://www.legislation.gov.uk/uksi/2007/718/regulation/5/1) (with [reg. 13](https://www.legislation.gov.uk/uksi/2007/718/regulation/13))
+
+[^key-db3e904374483cedf338a426721b8291]: Textual amendment: Words in [reg. 5(2)(a)(iii)](https://www.legislation.gov.uk/uksi/2004/692/regulation/5/2/a/iii) substituted (1.9.2016) by [The Communications (Television Licensing) (Amendment) Regulations 2016 (S.I. 2016/704)](https://www.legislation.gov.uk/uksi/2016/704), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/704/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2016/704/regulation/3)
+
+[^key-250462cf680ebfc58257921701be98a6]: Textual amendment: Reg. 5(3) substituted (1.4.2007) by [The Communications (Television Licensing) (Amendment) Regulations 2007 (S.I. 2007/718)](https://www.legislation.gov.uk/uksi/2007/718), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/718/regulation/1/1), [5(2)](https://www.legislation.gov.uk/uksi/2007/718/regulation/5/2) (with [reg. 13](https://www.legislation.gov.uk/uksi/2007/718/regulation/13))
+
+[^c9253571]: Marginal citation: [1994 c. 39](https://www.legislation.gov.uk/ukpga/1994/39).
+
+[^key-173b6a4a526edf71b4815244f0f4a633]: Textual amendment: Word in reg. 5(5) omitted (1.4.2007) by virtue of [The Communications (Television Licensing) (Amendment) Regulations 2007 (S.I. 2007/718)](https://www.legislation.gov.uk/uksi/2007/718), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/718/regulation/1/1), [5(3)](https://www.legislation.gov.uk/uksi/2007/718/regulation/5/3) (with [reg. 13](https://www.legislation.gov.uk/uksi/2007/718/regulation/13))
+
+[^key-7b7047d629a88f20b186dc7eaf9ac4a4]: Textual amendment: Words in reg. 5(5) omitted (1.4.2007) by virtue of [The Communications (Television Licensing) (Amendment) Regulations 2007 (S.I. 2007/718)](https://www.legislation.gov.uk/uksi/2007/718), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/718/regulation/1/1), [5(3)](https://www.legislation.gov.uk/uksi/2007/718/regulation/5/3) (with [reg. 13](https://www.legislation.gov.uk/uksi/2007/718/regulation/13))
+
+[^c9253581]: Marginal citation: [S.I. 1995/3208](https://www.legislation.gov.uk/uksi/1995/3208), amended by [S.I. 2002/849](https://www.legislation.gov.uk/uksi/2002/849).
+
+[^key-c9e3a4fb20e5b5524fdca34c58a82c0e]: Textual amendment: Words in reg. 6(2) omitted (1.9.2016) by virtue of [The Communications (Television Licensing) (Amendment) Regulations 2016 (S.I. 2016/704)](https://www.legislation.gov.uk/uksi/2016/704), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/704/regulation/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2016/704/regulation/4/2)
+
+[^key-07d77646d2ccd8a29f38b52573d9bf0d]: Textual amendment: Words in reg. 6(2) inserted (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Communications (Television Licensing) (Amendment) Regulations 2018 (S.I. 2018/219)](https://www.legislation.gov.uk/uksi/2018/219), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/219/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2018/219/regulation/3)
+
+[^key-c97c8d74394dab1a0c1fbd2183a0303a]: Textual amendment: Reg. 6(2A) inserted (1.9.2016) by [The Communications (Television Licensing) (Amendment) Regulations 2016 (S.I. 2016/704)](https://www.legislation.gov.uk/uksi/2016/704), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/704/regulation/1/1), [4(3)](https://www.legislation.gov.uk/uksi/2016/704/regulation/4/3)
+
+[^c9253591]: Marginal citation: [S.I. 1997/290](https://www.legislation.gov.uk/uksi/1997/290), amended by [S.I. 1998/558](https://www.legislation.gov.uk/uksi/1998/558), 1999/765, 2000/630, 2001/772, 2002/641, and 2003/663.
+
+[^c9253601]: Marginal citation: [1949 c. 54](https://www.legislation.gov.uk/ukpga/1949/54); [section 1(7)](https://www.legislation.gov.uk/uksi/2004/692/section/1/7) defines “television licence”, which was inserted by the [Broadcasting Act 1990 (c. 42)](https://www.legislation.gov.uk/ukpga/1990/42), [section 180](https://www.legislation.gov.uk/ukpga/1990/42/section/180), and Schedule 18, Part I, paragraph 1.
+
+[^key-18c3627e08461d81c1696ea369621477]: Textual amendment: Words in reg. 8 inserted (1.4.2007) by [The Communications (Television Licensing) (Amendment) Regulations 2007 (S.I. 2007/718)](https://www.legislation.gov.uk/uksi/2007/718), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/718/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2007/718/regulation/6) (with [reg. 13](https://www.legislation.gov.uk/uksi/2007/718/regulation/13))
+
+[^key-4f48a08a3e9f7c48075807f47607846a]: Textual amendment: Words in [reg. 8](https://www.legislation.gov.uk/uksi/2004/692/regulation/8) inserted (1.9.2016) by [The Communications (Television Licensing) (Amendment) Regulations 2016 (S.I. 2016/704)](https://www.legislation.gov.uk/uksi/2016/704), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/704/regulation/1/1), [5(1)](https://www.legislation.gov.uk/uksi/2016/704/regulation/5/1)
+
+[^key-26016a42e11f0df3cb9191c5b04d72ed]: Textual amendment: [Reg. 9(1)](https://www.legislation.gov.uk/uksi/2004/692/regulation/9/1) substituted (1.9.2016) by [The Communications (Television Licensing) (Amendment) Regulations 2016 (S.I. 2016/704)](https://www.legislation.gov.uk/uksi/2016/704), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/704/regulation/1/1), [6(1)](https://www.legislation.gov.uk/uksi/2016/704/regulation/6/1)
+
+[^key-6d78ec1bb8ce2ba4b33428ba32055df2]: Textual amendment: Reg. 9(2) inserted (1.4.2007) by [The Communications (Television Licensing) (Amendment) Regulations 2007 (S.I. 2007/718)](https://www.legislation.gov.uk/uksi/2007/718), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/718/regulation/1/1), [7(b)](https://www.legislation.gov.uk/uksi/2007/718/regulation/7/b) (with [reg. 13](https://www.legislation.gov.uk/uksi/2007/718/regulation/13))
+
+[^key-adfa68d07140fab43f3750f38a763af5]: Textual amendment: Reg. 9(2) renumbered as reg. 9(3) (1.4.2007) by [The Communications (Television Licensing) (Amendment) Regulations 2007 (S.I. 2007/718)](https://www.legislation.gov.uk/uksi/2007/718), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/718/regulation/1/1), [7(c)](https://www.legislation.gov.uk/uksi/2007/718/regulation/7/c) (with [reg. 13](https://www.legislation.gov.uk/uksi/2007/718/regulation/13))
+
+[^key-aeb5c2a2581901cef60138ee4acae29c]: Textual amendment: Regs. 10, 11 omitted (14.8.2013) by virtue of [The Enterprise and Regulatory Reform Act 2013 (Broadcasting Consequential Amendments) Order 2013 (S.I. 2013/1854)](https://www.legislation.gov.uk/uksi/2013/1854), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1854/article/1), [2](https://www.legislation.gov.uk/uksi/2013/1854/article/2)
+
+[^key-d30b637a11ec7395f6bfbe3d6cf21390]: Textual amendment: Sum in [Sch. 1](https://www.legislation.gov.uk/uksi/2004/692/schedule/1) substituted (1.4.2026) by [The Communications (Television Licensing) (Amendment) Regulations 2026 (S.I. 2026/104)](https://www.legislation.gov.uk/uksi/2026/104), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/104/regulation/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2026/104/regulation/3/2) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2026/104/regulation/1/3))
+
+[^key-1811d0ea196ad2fc8e8f1c2a0204ae2a]: Textual amendment: Words in Sch. 1 substituted (1.4.2007) by [The Communications (Television Licensing) (Amendment) Regulations 2007 (S.I. 2007/718)](https://www.legislation.gov.uk/uksi/2007/718), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/718/regulation/1/1), [8(c)(i)](https://www.legislation.gov.uk/uksi/2007/718/regulation/8/c/i) (with [reg. 13](https://www.legislation.gov.uk/uksi/2007/718/regulation/13))
+
+[^key-bea38c1cd2bef1a435f23690a1f35bf4]: Textual amendment: Words in Sch. 1 inserted (1.4.2007) by [The Communications (Television Licensing) (Amendment) Regulations 2007 (S.I. 2007/718)](https://www.legislation.gov.uk/uksi/2007/718), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/718/regulation/1/1), [8(c)(ii)](https://www.legislation.gov.uk/uksi/2007/718/regulation/8/c/ii) (with [reg. 13](https://www.legislation.gov.uk/uksi/2007/718/regulation/13))
+
+[^key-220c34f604c5132651662e81996f22ad]: Textual amendment: Sum in [Sch. 1](https://www.legislation.gov.uk/uksi/2004/692/schedule/1) substituted (1.4.2026) by [The Communications (Television Licensing) (Amendment) Regulations 2026 (S.I. 2026/104)](https://www.legislation.gov.uk/uksi/2026/104), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/104/regulation/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2026/104/regulation/3/3) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2026/104/regulation/1/3))
+
+[^key-2cabc268139025c05402f99b173d6986]: Textual amendment: Sum in [Sch. 1](https://www.legislation.gov.uk/uksi/2004/692/schedule/1) substituted (1.4.2026) by [The Communications (Television Licensing) (Amendment) Regulations 2026 (S.I. 2026/104)](https://www.legislation.gov.uk/uksi/2026/104), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/104/regulation/1/2), [3(4)](https://www.legislation.gov.uk/uksi/2026/104/regulation/3/4) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2026/104/regulation/1/3))
+
+[^key-486ce6a0571a8ef395eb3b79118ea995]: Textual amendment: Words in Sch. 1 substituted (1.4.2007) by [The Communications (Television Licensing) (Amendment) Regulations 2007 (S.I. 2007/718)](https://www.legislation.gov.uk/uksi/2007/718), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/718/regulation/1/1), [8(d)(i)](https://www.legislation.gov.uk/uksi/2007/718/regulation/8/d/i) (with [reg. 13](https://www.legislation.gov.uk/uksi/2007/718/regulation/13))
+
+[^key-4b8ea8550f0fbb48c00b3153309a1c73]: Textual amendment: Words in Sch. 1 inserted (1.4.2007) by [The Communications (Television Licensing) (Amendment) Regulations 2007 (S.I. 2007/718)](https://www.legislation.gov.uk/uksi/2007/718), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/718/regulation/1/1), [8(d)(ii)](https://www.legislation.gov.uk/uksi/2007/718/regulation/8/d/ii) (with [reg. 13](https://www.legislation.gov.uk/uksi/2007/718/regulation/13))
+
+[^key-b1fc20026439c5ab6db251dd89a26df5]: Textual amendment: Sum in [Sch. 1](https://www.legislation.gov.uk/uksi/2004/692/schedule/1) substituted (1.4.2026) by [The Communications (Television Licensing) (Amendment) Regulations 2026 (S.I. 2026/104)](https://www.legislation.gov.uk/uksi/2026/104), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/104/regulation/1/2), [3(5)](https://www.legislation.gov.uk/uksi/2026/104/regulation/3/5) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2026/104/regulation/1/3))
+
+[^key-8134afe45bef8a80701aa50ebb2d2733]: Textual amendment: Sch. 2 para. 1(3) omitted (1.4.2009) by virtue of [The Communications (Television Licensing) (Amendment) Regulations 2009 (S.I. 2009/505)](https://www.legislation.gov.uk/uksi/2009/505), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/505/regulation/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2009/505/regulation/4/2) (with [reg. 7](https://www.legislation.gov.uk/uksi/2009/505/regulation/7))
+
+[^key-777da71a47544382a8acea9f8510e593]: Textual amendment: Sch. 2 para. 2(1) substituted (1.4.2005) by [The Communications (Television Licensing) (Amendment) Regulations 2005 (S.I. 2005/606)](https://www.legislation.gov.uk/uksi/2005/606), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/606/regulation/1/1), [6(2)(a)](https://www.legislation.gov.uk/uksi/2005/606/regulation/6/2/a) (with [reg. 10](https://www.legislation.gov.uk/uksi/2005/606/regulation/10))
+
+[^key-7ea813e69424691072a0ff8c7c9eecad]: Textual amendment: Sum in [Sch. 2 para. 2(1)](https://www.legislation.gov.uk/uksi/2004/692/schedule/2/paragraph/2/1) substituted (1.4.2026) by [The Communications (Television Licensing) (Amendment) Regulations 2026 (S.I. 2026/104)](https://www.legislation.gov.uk/uksi/2026/104), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/104/regulation/1/2), [4(2)(a)](https://www.legislation.gov.uk/uksi/2026/104/regulation/4/2/a) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2026/104/regulation/1/3))
+
+[^key-4077f476a7c68a37efdc59f67940dc8e]: Textual amendment: Sum in [Sch. 2 para. 2(1)](https://www.legislation.gov.uk/uksi/2004/692/schedule/2/paragraph/2/1) substituted (1.4.2026) by [The Communications (Television Licensing) (Amendment) Regulations 2026 (S.I. 2026/104)](https://www.legislation.gov.uk/uksi/2026/104), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/104/regulation/1/2), [4(2)(b)](https://www.legislation.gov.uk/uksi/2026/104/regulation/4/2/b) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2026/104/regulation/1/3))
+
+[^key-08dd9bce781281fa6dd75a272ca1dcad]: Textual amendment: Word in Sch. 2 para. 2(2)(d) substituted (1.4.2005) by [The Communications (Television Licensing) (Amendment) Regulations 2005 (S.I. 2005/606)](https://www.legislation.gov.uk/uksi/2005/606), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/606/regulation/1/1), [6(2)(b)(i)](https://www.legislation.gov.uk/uksi/2005/606/regulation/6/2/b/i)
+
+[^key-9ef34ca879e309ce7cbd1e855e189376]: Textual amendment: Word in Sch. 2 para. 2(2)(d) substituted (1.4.2005) by [The Communications (Television Licensing) (Amendment) Regulations 2005 (S.I. 2005/606)](https://www.legislation.gov.uk/uksi/2005/606), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/606/regulation/1/1), [6(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2005/606/regulation/6/2/b/ii)
+
+[^key-3b7cf52e1ad1ba4929f3aacb8596be90]: Textual amendment: Word in [Sch. 2 para. 5(1)](https://www.legislation.gov.uk/uksi/2004/692/schedule/2/paragraph/5/1) substituted (1.4.2026) by [The Communications (Television Licensing) (Amendment) Regulations 2026 (S.I. 2026/104)](https://www.legislation.gov.uk/uksi/2026/104), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/104/regulation/1/2), [4(3)](https://www.legislation.gov.uk/uksi/2026/104/regulation/4/3) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2026/104/regulation/1/3))
+
+[^key-609067e1caf7fa2d30dab72adc1c134b]: Textual amendment: Sch. 2 para. 5 Table 1 substituted (1.4.2026) by [The Communications (Television Licensing) (Amendment) Regulations 2026 (S.I. 2026/104)](https://www.legislation.gov.uk/uksi/2026/104), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/104/regulation/1/2), [Sch. 1 Table 1](https://www.legislation.gov.uk/uksi/2026/104/schedule/1) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2026/104/regulation/1/3))
+
+[^key-b28d17bb2a285de8dd0373813795c40d]: Textual amendment: Word in [Sch. 2 para. 6(1)](https://www.legislation.gov.uk/uksi/2004/692/schedule/2/paragraph/6/1) substituted (1.4.2026) by [The Communications (Television Licensing) (Amendment) Regulations 2026 (S.I. 2026/104)](https://www.legislation.gov.uk/uksi/2026/104), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/104/regulation/1/2), [4(5)](https://www.legislation.gov.uk/uksi/2026/104/regulation/4/5) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2026/104/regulation/1/3))
+
+[^key-062ccdb27b021320d477f1f65c96126a]: Textual amendment: [Sch. 2 para. 6 Table 2](https://www.legislation.gov.uk/uksi/2004/692/schedule/2/paragraph/6) substituted (1.4.2026) by [The Communications (Television Licensing) (Amendment) Regulations 2026 (S.I. 2026/104)](https://www.legislation.gov.uk/uksi/2026/104), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/104/regulation/1/2), [Sch. 1 Table 2](https://www.legislation.gov.uk/uksi/2026/104/schedule/1) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2026/104/regulation/1/3))
+
+[^key-b226ba7d7130b7c599fd3c37e75da742]: Textual amendment: Words in Sch. 2 para. 7(6)(b) inserted (1.4.2005) by [The Communications (Television Licensing) (Amendment) Regulations 2005 (S.I. 2005/606)](https://www.legislation.gov.uk/uksi/2005/606), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/606/regulation/1/1), [6(6)(a)](https://www.legislation.gov.uk/uksi/2005/606/regulation/6/6/a) (with [reg. 10](https://www.legislation.gov.uk/uksi/2005/606/regulation/10))
+
+[^key-3d4af981428856ef5044e65a9403d6c4]: Textual amendment: Word in [Sch. 2 para. 7(6)(b)](https://www.legislation.gov.uk/uksi/2004/692/schedule/2/paragraph/7/6/b) substituted (1.4.2026) by [The Communications (Television Licensing) (Amendment) Regulations 2026 (S.I. 2026/104)](https://www.legislation.gov.uk/uksi/2026/104), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/104/regulation/1/2), [4(7)](https://www.legislation.gov.uk/uksi/2026/104/regulation/4/7) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2026/104/regulation/1/3))
+
+[^key-d6686a21ad7e3e617c69a564f20f6334]: Textual amendment: Words in Sch. 2 para. 7(6) substituted (1.4.2005) by [The Communications (Television Licensing) (Amendment) Regulations 2005 (S.I. 2005/606)](https://www.legislation.gov.uk/uksi/2005/606), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/606/regulation/1/1), [6(6)(b)](https://www.legislation.gov.uk/uksi/2005/606/regulation/6/6/b)
+
+[^key-bda9787dd58e6c6d43e77cae2aa4ec94]: Textual amendment: Sum in [Sch. 2 para. 7(6)](https://www.legislation.gov.uk/uksi/2004/692/schedule/2/paragraph/7/6) substituted (1.4.2026) by [The Communications (Television Licensing) (Amendment) Regulations 2026 (S.I. 2026/104)](https://www.legislation.gov.uk/uksi/2026/104), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/104/regulation/1/2), [4(8)(a)](https://www.legislation.gov.uk/uksi/2026/104/regulation/4/8/a) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2026/104/regulation/1/3))
+
+[^key-8a3008c0c59e0ddc507d543727ff4309]: Textual amendment: Sum in [Sch. 2 para. 7(6)](https://www.legislation.gov.uk/uksi/2004/692/schedule/2/paragraph/7/6) substituted (1.4.2026) by [The Communications (Television Licensing) (Amendment) Regulations 2026 (S.I. 2026/104)](https://www.legislation.gov.uk/uksi/2026/104), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/104/regulation/1/2), [4(8)(b)](https://www.legislation.gov.uk/uksi/2026/104/regulation/4/8/b) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2026/104/regulation/1/3))
+
+[^key-8e3e9bf71c9d31875d8e308395229e66]: Textual amendment: [Sch. 2 para. 7 Table 3](https://www.legislation.gov.uk/uksi/2004/692/schedule/2/paragraph/7) substituted (1.4.2026) by [The Communications (Television Licensing) (Amendment) Regulations 2026 (S.I. 2026/104)](https://www.legislation.gov.uk/uksi/2026/104), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/104/regulation/1/2), [Sch. 1 Table 3](https://www.legislation.gov.uk/uksi/2026/104/schedule/1) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2026/104/regulation/1/3))
+
+[^key-f4e7546b8e048bae7ebc8ee84c634de0]: Textual amendment: Sch. 2 para. 8(2) substituted (1.4.2007) by [The Communications (Television Licensing) (Amendment) Regulations 2007 (S.I. 2007/718)](https://www.legislation.gov.uk/uksi/2007/718), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/718/regulation/1/1), [9(8)](https://www.legislation.gov.uk/uksi/2007/718/regulation/9/8) (with [reg. 13](https://www.legislation.gov.uk/uksi/2007/718/regulation/13))
+
+[^key-8169ad050377eecd95c5ec01186c1d74]: Textual amendment: Sch. 2 para. 8(3) omitted (1.4.2009) by virtue of [The Communications (Television Licensing) (Amendment) Regulations 2009 (S.I. 2009/505)](https://www.legislation.gov.uk/uksi/2009/505), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/505/regulation/1/1), [4(9)](https://www.legislation.gov.uk/uksi/2009/505/regulation/4/9) (with [reg. 7](https://www.legislation.gov.uk/uksi/2009/505/regulation/7))
+
+[^key-9912b7804e8ba7449a1e56974c82e7bf]: Textual amendment: Sum in Sch. 2 para. 9(a) substituted (1.4.2024) by [The Communications (Television Licensing) (Amendment) Regulations 2024 (S.I. 2024/150)](https://www.legislation.gov.uk/uksi/2024/150), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/150/regulation/1/2), [4(10)](https://www.legislation.gov.uk/uksi/2024/150/regulation/4/10) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/150/regulation/1/3))
+
+[^key-d7badd9b2f8ceb92a1182a52d168a87d]: Textual amendment: [Sch. 2 para. 9(c)](https://www.legislation.gov.uk/uksi/2004/692/schedule/2/paragraph/9/c) substituted (1.4.2026) by [The Communications (Television Licensing) (Amendment) Regulations 2026 (S.I. 2026/104)](https://www.legislation.gov.uk/uksi/2026/104), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/104/regulation/1/2), [4(10)](https://www.legislation.gov.uk/uksi/2026/104/regulation/4/10) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2026/104/regulation/1/3))
+
+[^key-e56b54fba813381f95a85b48fc720d87]: Textual amendment: Sum in [Sch. 2 para. 11(1)](https://www.legislation.gov.uk/uksi/2004/692/schedule/2/paragraph/11/1) substituted (1.4.2026) by [The Communications (Television Licensing) (Amendment) Regulations 2026 (S.I. 2026/104)](https://www.legislation.gov.uk/uksi/2026/104), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/104/regulation/1/2), [4(11)](https://www.legislation.gov.uk/uksi/2026/104/regulation/4/11) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2026/104/regulation/1/3))
+
+[^key-9e2627abb36d95e920153291dc0e880e]: Textual amendment: Sum in [Sch. 2 para. 11(2)](https://www.legislation.gov.uk/uksi/2004/692/schedule/2/paragraph/11/2) substituted (1.4.2026) by [The Communications (Television Licensing) (Amendment) Regulations 2026 (S.I. 2026/104)](https://www.legislation.gov.uk/uksi/2026/104), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/104/regulation/1/2), [4(12)](https://www.legislation.gov.uk/uksi/2026/104/regulation/4/12) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2026/104/regulation/1/3))
+
+[^key-088d6d5c1683ab138734e0826a79ff5d]: Textual amendment: Sum in [Sch. 2 para. 11(3)](https://www.legislation.gov.uk/uksi/2004/692/schedule/2/paragraph/11/3) substituted (1.4.2025) by [The Communications (Television Licensing) (Amendment) Regulations 2025 (S.I. 2025/133)](https://www.legislation.gov.uk/uksi/2025/133), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/133/regulation/1/2), [4(12)](https://www.legislation.gov.uk/uksi/2025/133/regulation/4/12) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/133/regulation/1/3))
+
+[^key-471b27c423d12ffc945317676d819c18]: Textual amendment: Sum in [Sch. 2 para. 11(4)](https://www.legislation.gov.uk/uksi/2004/692/schedule/2/paragraph/11/4) substituted (1.4.2025) by [The Communications (Television Licensing) (Amendment) Regulations 2025 (S.I. 2025/133)](https://www.legislation.gov.uk/uksi/2025/133), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/133/regulation/1/2), [4(13)](https://www.legislation.gov.uk/uksi/2025/133/regulation/4/13) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/133/regulation/1/3))
+
+[^key-fc948e14cbc7bdcc255519e76a1e38c2]: Textual amendment: Sum in [Sch. 2 para. 11(5)](https://www.legislation.gov.uk/uksi/2004/692/schedule/2/paragraph/11/5) substituted (1.4.2026) by [The Communications (Television Licensing) (Amendment) Regulations 2026 (S.I. 2026/104)](https://www.legislation.gov.uk/uksi/2026/104), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/104/regulation/1/2), [4(13)](https://www.legislation.gov.uk/uksi/2026/104/regulation/4/13) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2026/104/regulation/1/3))
+
+[^key-8d82cc6e744c7050f8a39a10c9594b9e]: Textual amendment: Word in Sch. 2 para. 11(6)(i) omitted (1.4.2005) by virtue of [The Communications (Television Licensing) (Amendment) Regulations 2005 (S.I. 2005/606)](https://www.legislation.gov.uk/uksi/2005/606), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/606/regulation/1/1), [6(9)(e)(i)](https://www.legislation.gov.uk/uksi/2005/606/regulation/6/9/e/i)
+
+[^key-33e33f79f5412030bf57dd7e0fbec99f]: Textual amendment: Sum in [Sch. 2 para. 11(6)](https://www.legislation.gov.uk/uksi/2004/692/schedule/2/paragraph/11/6) substituted (1.4.2026) by [The Communications (Television Licensing) (Amendment) Regulations 2026 (S.I. 2026/104)](https://www.legislation.gov.uk/uksi/2026/104), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/104/regulation/1/2), [4(14)](https://www.legislation.gov.uk/uksi/2026/104/regulation/4/14) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2026/104/regulation/1/3))
+
+[^key-d73812d5053c93ef5d903b972799e12c]: Textual amendment: Sum in [Sch. 2 para. 12(1)](https://www.legislation.gov.uk/uksi/2004/692/schedule/2/paragraph/12/1) substituted (1.4.2026) by [The Communications (Television Licensing) (Amendment) Regulations 2026 (S.I. 2026/104)](https://www.legislation.gov.uk/uksi/2026/104), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/104/regulation/1/2), [4(15)](https://www.legislation.gov.uk/uksi/2026/104/regulation/4/15) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2026/104/regulation/1/3))
+
+[^key-b4b6ea6953816878de3e9ec2b9d13df9]: Textual amendment: Sch. 2 para. 12(2)(b) substituted (1.4.2006) by [The Communications (Television Licensing) (Amendment) Regulations 2006 (S.I. 2006/619)](https://www.legislation.gov.uk/uksi/2006/619), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/619/regulation/1/1), [5(10)(b)](https://www.legislation.gov.uk/uksi/2006/619/regulation/5/10/b) (with [reg. 9](https://www.legislation.gov.uk/uksi/2006/619/regulation/9))
+
+[^key-3ef3e37be0b355c4808b097fb513391b]: Textual amendment: Sum in [Sch. 2 para. 12(2)(b)](https://www.legislation.gov.uk/uksi/2004/692/schedule/2/paragraph/12/2/b) substituted (1.4.2026) by [The Communications (Television Licensing) (Amendment) Regulations 2026 (S.I. 2026/104)](https://www.legislation.gov.uk/uksi/2026/104), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/104/regulation/1/2), [4(16)](https://www.legislation.gov.uk/uksi/2026/104/regulation/4/16) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2026/104/regulation/1/3))
+
+[^key-de1a9bdfef11b6a2f42cc772cb98fa4e]: Textual amendment: Sch. 2 para. 12(3)(b) substituted (1.4.2020) by [The Communications (Television Licensing) (Amendment) Regulations 2020 (S.I. 2020/80)](https://www.legislation.gov.uk/uksi/2020/80), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/80/regulation/1/2), [4(17)](https://www.legislation.gov.uk/uksi/2020/80/regulation/4/17) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/80/regulation/1/3))
+
+[^key-ca8addb53c903c37005df2e9f4c76a84]: Textual amendment: Words in Sch. 2 para. 12(3)(b) substituted (1.4.2024) by [The Communications (Television Licensing) (Amendment) Regulations 2024 (S.I. 2024/150)](https://www.legislation.gov.uk/uksi/2024/150), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/150/regulation/1/2), [4(20)](https://www.legislation.gov.uk/uksi/2024/150/regulation/4/20) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/150/regulation/1/3))
+
+[^key-9d29eef50f5a8a92f2aa81fdb14dfdbb]: Textual amendment: Sum in [Sch. 2 para. 12(3)(b)](https://www.legislation.gov.uk/uksi/2004/692/schedule/2/paragraph/12/3/b) substituted (1.4.2026) by [The Communications (Television Licensing) (Amendment) Regulations 2026 (S.I. 2026/104)](https://www.legislation.gov.uk/uksi/2026/104), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/104/regulation/1/2), [4(17)(a)](https://www.legislation.gov.uk/uksi/2026/104/regulation/4/17/a) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2026/104/regulation/1/3))
+
+[^key-50dd78b4ec5c55eb365074bf50fe7d84]: Textual amendment: Sum in [Sch. 2 para. 12(3)(b)](https://www.legislation.gov.uk/uksi/2004/692/schedule/2/paragraph/12/3/b) substituted (1.4.2026) by [The Communications (Television Licensing) (Amendment) Regulations 2026 (S.I. 2026/104)](https://www.legislation.gov.uk/uksi/2026/104), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/104/regulation/1/2), [4(17)(b)](https://www.legislation.gov.uk/uksi/2026/104/regulation/4/17/b) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2026/104/regulation/1/3))
+
+[^key-a4f49051fee8c24b139f6d43c6bdf27d]: Textual amendment: Words in Sch. 2 para. 12(4)(b) substituted (1.4.2024) by [The Communications (Television Licensing) (Amendment) Regulations 2024 (S.I. 2024/150)](https://www.legislation.gov.uk/uksi/2024/150), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/150/regulation/1/2), [4(21)](https://www.legislation.gov.uk/uksi/2024/150/regulation/4/21) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/150/regulation/1/3))
+
+[^key-dc4c08e74f82f59879983a63a8dc114b]: Textual amendment: Sum in [Sch. 2 para. 12(4)(b)](https://www.legislation.gov.uk/uksi/2004/692/schedule/2/paragraph/12/4/b) substituted (1.4.2026) by [The Communications (Television Licensing) (Amendment) Regulations 2026 (S.I. 2026/104)](https://www.legislation.gov.uk/uksi/2026/104), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/104/regulation/1/2), [4(18)(a)](https://www.legislation.gov.uk/uksi/2026/104/regulation/4/18/a) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2026/104/regulation/1/3))
+
+[^key-2676ba47d5bad3496d7972df71969f59]: Textual amendment: Sum in [Sch. 2 para. 12(4)(b)](https://www.legislation.gov.uk/uksi/2004/692/schedule/2/paragraph/12/4/b) substituted (1.4.2026) by [The Communications (Television Licensing) (Amendment) Regulations 2026 (S.I. 2026/104)](https://www.legislation.gov.uk/uksi/2026/104), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/104/regulation/1/2), [4(18)(b)](https://www.legislation.gov.uk/uksi/2026/104/regulation/4/18/b) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2026/104/regulation/1/3))
+
+[^key-8b2bad2ff0dab3d15dacb597c7cace22]: Textual amendment: [Sch. 2 para. 12(5)(b)](https://www.legislation.gov.uk/uksi/2004/692/schedule/2/paragraph/12/5/b) substituted (1.4.2026) by [The Communications (Television Licensing) (Amendment) Regulations 2026 (S.I. 2026/104)](https://www.legislation.gov.uk/uksi/2026/104), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/104/regulation/1/2), [4(19)](https://www.legislation.gov.uk/uksi/2026/104/regulation/4/19) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2026/104/regulation/1/3))
+
+[^key-01f66e8a4c92e6c238371f4c94749f46]: Textual amendment: Sum in [Sch. 2 para. 13(1)](https://www.legislation.gov.uk/uksi/2004/692/schedule/2/paragraph/13/1) substituted (1.4.2026) by [The Communications (Television Licensing) (Amendment) Regulations 2026 (S.I. 2026/104)](https://www.legislation.gov.uk/uksi/2026/104), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/104/regulation/1/2), [4(20)](https://www.legislation.gov.uk/uksi/2026/104/regulation/4/20) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2026/104/regulation/1/3))
+
+[^key-f661f7bcfb9059d00c36863592e46ef5]: Textual amendment: Sch. 2 para. 13(2)(a)-(d) substituted (1.4.2008) by [The Communications (Television Licensing) (Amendment) Regulations 2008 (S.I. 2008/643)](https://www.legislation.gov.uk/uksi/2008/643), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/643/regulation/1/1), [4(11)(b)](https://www.legislation.gov.uk/uksi/2008/643/regulation/4/11/b) (with [reg. 7](https://www.legislation.gov.uk/uksi/2008/643/regulation/7))
+
+[^key-d751e9106da065186971f2783c3fdeb3]: Textual amendment: Sum in [Sch. 2 para. 13(2)(a)](https://www.legislation.gov.uk/uksi/2004/692/schedule/2/paragraph/13/2/a) substituted (1.4.2026) by [The Communications (Television Licensing) (Amendment) Regulations 2026 (S.I. 2026/104)](https://www.legislation.gov.uk/uksi/2026/104), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/104/regulation/1/2), [4(21)](https://www.legislation.gov.uk/uksi/2026/104/regulation/4/21) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2026/104/regulation/1/3))
+
+[^M_F_09ab0e8b-0801-4319-d49a-332efe173c1b]: Textual amendment: Sch. 2 para. 13(2)(b) substituted (1.4.2010) by [The Communications (Television Licensing) (Amendment) Regulations 2010 (S.I. 2010/640)](https://www.legislation.gov.uk/uksi/2010/640), regs. 1(1), 4(11)(c) (with reg. 7)
+
+[^key-39226fac36c5803bd4e5e62b5da49f4b]: Textual amendment: Words in [Sch. 2 para. 13(2)(b)](https://www.legislation.gov.uk/uksi/2004/692/schedule/2/paragraph/13/2/b) substituted (1.4.2026) by [The Communications (Television Licensing) (Amendment) Regulations 2026 (S.I. 2026/104)](https://www.legislation.gov.uk/uksi/2026/104), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/104/regulation/1/2), [4(22)](https://www.legislation.gov.uk/uksi/2026/104/regulation/4/22) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2026/104/regulation/1/3))
+
+[^key-8b49ebb6b6f5daf8d349a5fce24df569]: Textual amendment: Sch. 2 para. 13(2)(c) substituted (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Communications (Television Licensing) (Amendment) Regulations 2021 (S.I. 2021/124)](https://www.legislation.gov.uk/uksi/2021/124), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/124/regulation/1/2), [4(17)](https://www.legislation.gov.uk/uksi/2021/124/regulation/4/17)
+
+[^key-73b543a2dc340428656beb013c1a33ac]: Textual amendment: Words in [Sch. 2 para. 13(2)(c)](https://www.legislation.gov.uk/uksi/2004/692/schedule/2/paragraph/13/2/c) substituted (1.4.2025) by [The Communications (Television Licensing) (Amendment) Regulations 2025 (S.I. 2025/133)](https://www.legislation.gov.uk/uksi/2025/133), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/133/regulation/1/2), [4(17)](https://www.legislation.gov.uk/uksi/2025/133/regulation/4/17) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/133/regulation/1/3))
+
+[^key-bf605b82693ad57f87ed89c297a50bb1]: Textual amendment: Sum in [Sch. 2 para. 13(2)(c)](https://www.legislation.gov.uk/uksi/2004/692/schedule/2/paragraph/13/2/c) substituted (1.4.2026) by [The Communications (Television Licensing) (Amendment) Regulations 2026 (S.I. 2026/104)](https://www.legislation.gov.uk/uksi/2026/104), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/104/regulation/1/2), [4(23)(a)](https://www.legislation.gov.uk/uksi/2026/104/regulation/4/23/a) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2026/104/regulation/1/3))
+
+[^key-79da83bf8a3c536e61f92aeace03fd6f]: Textual amendment: Sum in [Sch. 2 para. 13(2)(c)](https://www.legislation.gov.uk/uksi/2004/692/schedule/2/paragraph/13/2/c) substituted (1.4.2026) by [The Communications (Television Licensing) (Amendment) Regulations 2026 (S.I. 2026/104)](https://www.legislation.gov.uk/uksi/2026/104), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/104/regulation/1/2), [4(23)(b)](https://www.legislation.gov.uk/uksi/2026/104/regulation/4/23/b) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2026/104/regulation/1/3))
+
+[^key-7aaa78bd37c097888d92f7359d59e36a]: Textual amendment: Sch. 2 para. 13(2)(d) substituted (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Communications (Television Licensing) (Amendment) Regulations 2021 (S.I. 2021/124)](https://www.legislation.gov.uk/uksi/2021/124), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/124/regulation/1/2), [4(18)](https://www.legislation.gov.uk/uksi/2021/124/regulation/4/18)
+
+[^key-0b7d67ad0b620776ff878110607f6182]: Textual amendment: Words in [Sch. 2 para. 13(2)(d)](https://www.legislation.gov.uk/uksi/2004/692/schedule/2/paragraph/13/2/d) substituted (1.4.2026) by [The Communications (Television Licensing) (Amendment) Regulations 2026 (S.I. 2026/104)](https://www.legislation.gov.uk/uksi/2026/104), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/104/regulation/1/2), [4(24)](https://www.legislation.gov.uk/uksi/2026/104/regulation/4/24) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2026/104/regulation/1/3))
+
+[^key-f5b7062f4dd9c3161fe9a62579b8411e]: Textual amendment: Sum in [Sch. 2 para. 14(1)](https://www.legislation.gov.uk/uksi/2004/692/schedule/2/paragraph/14/1) substituted (1.4.2025) by [The Communications (Television Licensing) (Amendment) Regulations 2025 (S.I. 2025/133)](https://www.legislation.gov.uk/uksi/2025/133), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/133/regulation/1/2), [4(19)](https://www.legislation.gov.uk/uksi/2025/133/regulation/4/19) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/133/regulation/1/3))
+
+[^key-d56ccb0f23d4496399233fdc0e90b923]: Textual amendment: Sch. 2 para. 14(2)(a) substituted (1.4.2008) by [The Communications (Television Licensing) (Amendment) Regulations 2008 (S.I. 2008/643)](https://www.legislation.gov.uk/uksi/2008/643), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/643/regulation/1/1), [4(12)(a)](https://www.legislation.gov.uk/uksi/2008/643/regulation/4/12/a) (with [reg. 7](https://www.legislation.gov.uk/uksi/2008/643/regulation/7))
+
+[^key-ede3fdcd61f9ff3440f3ca928736d642]: Textual amendment: Sum in [Sch. 2 para. 14(2)(a)](https://www.legislation.gov.uk/uksi/2004/692/schedule/2/paragraph/14/2/a) substituted (1.4.2026) by [The Communications (Television Licensing) (Amendment) Regulations 2026 (S.I. 2026/104)](https://www.legislation.gov.uk/uksi/2026/104), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/104/regulation/1/2), [4(25)](https://www.legislation.gov.uk/uksi/2026/104/regulation/4/25) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2026/104/regulation/1/3))
+
+[^key-82807256d6c717ee3e09d9cd67e9b1bb]: Textual amendment: Words in [Sch. 2 para. 14(2)(b)](https://www.legislation.gov.uk/uksi/2004/692/schedule/2/paragraph/14/2/b) substituted (1.4.2025) by [The Communications (Television Licensing) (Amendment) Regulations 2025 (S.I. 2025/133)](https://www.legislation.gov.uk/uksi/2025/133), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/133/regulation/1/2), [4(21)](https://www.legislation.gov.uk/uksi/2025/133/regulation/4/21) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/133/regulation/1/3))
+
+[^key-9380dbe17145e85685f536bdecf0bdd5]: Textual amendment: Sum in [Sch. 2 para. 14(2)(b)](https://www.legislation.gov.uk/uksi/2004/692/schedule/2/paragraph/14/2/b) substituted (1.4.2026) by [The Communications (Television Licensing) (Amendment) Regulations 2026 (S.I. 2026/104)](https://www.legislation.gov.uk/uksi/2026/104), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/104/regulation/1/2), [4(26)(a)](https://www.legislation.gov.uk/uksi/2026/104/regulation/4/26/a) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2026/104/regulation/1/3))
+
+[^key-7bea7405883a0090f4f6a1391947d2f7]: Textual amendment: Sum in [Sch. 2 para. 14(2)(b)](https://www.legislation.gov.uk/uksi/2004/692/schedule/2/paragraph/14/2/b) substituted (1.4.2026) by [The Communications (Television Licensing) (Amendment) Regulations 2026 (S.I. 2026/104)](https://www.legislation.gov.uk/uksi/2026/104), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/104/regulation/1/2), [4(26)(b)](https://www.legislation.gov.uk/uksi/2026/104/regulation/4/26/b) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2026/104/regulation/1/3))
+
+[^key-a9823fb3043e9131936533aae40b0594]: Textual amendment: Sch. 2 para. 14(2)(c) substituted (1.4.2010) by [The Communications (Television Licensing) (Amendment) Regulations 2010 (S.I. 2010/640)](https://www.legislation.gov.uk/uksi/2010/640), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/640/regulation/1/1), [4(12)(d)](https://www.legislation.gov.uk/uksi/2010/640/regulation/4/12/d) (with [reg. 7](https://www.legislation.gov.uk/uksi/2010/640/regulation/7))
+
+[^key-0edd73147e3fc622427e06861787caf4]: Textual amendment: Words in [Sch. 2 para. 14(2)(c)](https://www.legislation.gov.uk/uksi/2004/692/schedule/2/paragraph/14/2/c) substituted (1.4.2026) by [The Communications (Television Licensing) (Amendment) Regulations 2026 (S.I. 2026/104)](https://www.legislation.gov.uk/uksi/2026/104), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/104/regulation/1/2), [4(27)](https://www.legislation.gov.uk/uksi/2026/104/regulation/4/27) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2026/104/regulation/1/3))
+
+[^key-b702d44909541ccc1cbc439819c2745a]: Textual amendment: Sch. 2 para. 14(2)(d) substituted (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Communications (Television Licensing) (Amendment) Regulations 2021 (S.I. 2021/124)](https://www.legislation.gov.uk/uksi/2021/124), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/124/regulation/1/2), [4(22)](https://www.legislation.gov.uk/uksi/2021/124/regulation/4/22)
+
+[^key-538b9579a6e7a007a5a4c642db430f02]: Textual amendment: Words in [Sch. 2 para. 14(2)(d)](https://www.legislation.gov.uk/uksi/2004/692/schedule/2/paragraph/14/2/d) substituted (1.4.2026) by [The Communications (Television Licensing) (Amendment) Regulations 2026 (S.I. 2026/104)](https://www.legislation.gov.uk/uksi/2026/104), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/104/regulation/1/2), [4(28)](https://www.legislation.gov.uk/uksi/2026/104/regulation/4/28) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2026/104/regulation/1/3))
+
+[^key-05698dff2226f017ab89bc1153fd00e6]: Textual amendment: Sum in [Sch. 2 para. 15(1)](https://www.legislation.gov.uk/uksi/2004/692/schedule/2/paragraph/15/1) substituted (1.4.2025) by [The Communications (Television Licensing) (Amendment) Regulations 2025 (S.I. 2025/133)](https://www.legislation.gov.uk/uksi/2025/133), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/133/regulation/1/2), [4(24)](https://www.legislation.gov.uk/uksi/2025/133/regulation/4/24) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/133/regulation/1/3))
+
+[^key-6db95aae13d6b7f62df7193104aa0222]: Textual amendment: Sch. 2 para. 15(2)(a) substituted (1.4.2008) by [The Communications (Television Licensing) (Amendment) Regulations 2008 (S.I. 2008/643)](https://www.legislation.gov.uk/uksi/2008/643), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/643/regulation/1/1), [4(13)(b)](https://www.legislation.gov.uk/uksi/2008/643/regulation/4/13/b) (with [reg. 7](https://www.legislation.gov.uk/uksi/2008/643/regulation/7))
+
+[^key-7012681b9956f473a525ef981d4cefa1]: Textual amendment: Sum in [Sch. 2 para. 15(2)(a)](https://www.legislation.gov.uk/uksi/2004/692/schedule/2/paragraph/15/2/a) substituted (1.4.2026) by [The Communications (Television Licensing) (Amendment) Regulations 2026 (S.I. 2026/104)](https://www.legislation.gov.uk/uksi/2026/104), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/104/regulation/1/2), [4(29)](https://www.legislation.gov.uk/uksi/2026/104/regulation/4/29) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2026/104/regulation/1/3))
+
+[^key-b9cae72b10b353462cea349cb5041dd6]: Textual amendment: Sch. 2 para. 15(2)(b) substituted (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Communications (Television Licensing) (Amendment) Regulations 2021 (S.I. 2021/124)](https://www.legislation.gov.uk/uksi/2021/124), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/124/regulation/1/2), [4(24)](https://www.legislation.gov.uk/uksi/2021/124/regulation/4/24)
+
+[^key-ebb4ba076147581984b3976af0dfaa4b]: Textual amendment: Words in [Sch. 2 para. 15(2)(b)](https://www.legislation.gov.uk/uksi/2004/692/schedule/2/paragraph/15/2/b) substituted (1.4.2026) by [The Communications (Television Licensing) (Amendment) Regulations 2026 (S.I. 2026/104)](https://www.legislation.gov.uk/uksi/2026/104), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/104/regulation/1/2), [4(30)](https://www.legislation.gov.uk/uksi/2026/104/regulation/4/30) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2026/104/regulation/1/3))
+
+[^key-bd1d2f679c10f8624bf922801f5dad2b]: Textual amendment: Sch. 2 para. 15(2)(c) substituted (1.4.2020) by [The Communications (Television Licensing) (Amendment) Regulations 2020 (S.I. 2020/80)](https://www.legislation.gov.uk/uksi/2020/80), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/80/regulation/1/2), [4(28)](https://www.legislation.gov.uk/uksi/2020/80/regulation/4/28) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/80/regulation/1/3))
+
+[^key-d515183d39f2bee4aebc43de1290f4a1]: Textual amendment: Words in [Sch. 2 para. 15(2)(c)](https://www.legislation.gov.uk/uksi/2004/692/schedule/2/paragraph/15/2/c) substituted (1.4.2026) by [The Communications (Television Licensing) (Amendment) Regulations 2026 (S.I. 2026/104)](https://www.legislation.gov.uk/uksi/2026/104), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/104/regulation/1/2), [4(31)](https://www.legislation.gov.uk/uksi/2026/104/regulation/4/31) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2026/104/regulation/1/3))
+
+[^key-c6e1c78851d90d300ffd6fccd89b2077]: Textual amendment: Sch. 2 para. 15(2)(d) substituted (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Communications (Television Licensing) (Amendment) Regulations 2021 (S.I. 2021/124)](https://www.legislation.gov.uk/uksi/2021/124), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/124/regulation/1/2), [4(26)](https://www.legislation.gov.uk/uksi/2021/124/regulation/4/26)
+
+[^key-bd4b1ecad450ca083ae1bc920ae8e4c8]: Textual amendment: Words in [Sch. 2 para. 15(2)(d)](https://www.legislation.gov.uk/uksi/2004/692/schedule/2/paragraph/15/2/d) substituted (1.4.2026) by [The Communications (Television Licensing) (Amendment) Regulations 2026 (S.I. 2026/104)](https://www.legislation.gov.uk/uksi/2026/104), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/104/regulation/1/2), [4(32)](https://www.legislation.gov.uk/uksi/2026/104/regulation/4/32) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2026/104/regulation/1/3))
+
+[^key-7029f2b6924f536da4afc7fe15382179]: Textual amendment: Sum in [Sch. 2 para. 16(1)](https://www.legislation.gov.uk/uksi/2004/692/schedule/2/paragraph/16/1) substituted (1.4.2026) by [The Communications (Television Licensing) (Amendment) Regulations 2026 (S.I. 2026/104)](https://www.legislation.gov.uk/uksi/2026/104), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/104/regulation/1/2), [4(33)](https://www.legislation.gov.uk/uksi/2026/104/regulation/4/33) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2026/104/regulation/1/3))
+
+[^key-739bb2d94dad5b0efd934b935772e6ed]: Textual amendment: Sch. 2 para. 16(2)(a) substituted (1.4.2009) by [The Communications (Television Licensing) (Amendment) Regulations 2009 (S.I. 2009/505)](https://www.legislation.gov.uk/uksi/2009/505), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/505/regulation/1/1), [4(16)(a)](https://www.legislation.gov.uk/uksi/2009/505/regulation/4/16/a) (with [reg. 7](https://www.legislation.gov.uk/uksi/2009/505/regulation/7))
+
+[^key-78c937c660f18126650469d96cc59b25]: Textual amendment: Sum in [Sch. 2 para. 16(2)(a)](https://www.legislation.gov.uk/uksi/2004/692/schedule/2/paragraph/16/2/a) substituted (1.4.2026) by [The Communications (Television Licensing) (Amendment) Regulations 2026 (S.I. 2026/104)](https://www.legislation.gov.uk/uksi/2026/104), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/104/regulation/1/2), [4(34)](https://www.legislation.gov.uk/uksi/2026/104/regulation/4/34) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2026/104/regulation/1/3))
+
+[^key-19bf8168f528015349b7e017dcc59248]: Textual amendment: Sch. 2 para. 16(2)(b) substituted (1.4.2005) by [The Communications (Television Licensing) (Amendment) Regulations 2005 (S.I. 2005/606)](https://www.legislation.gov.uk/uksi/2005/606), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/606/regulation/1/1), [6(14)(c)](https://www.legislation.gov.uk/uksi/2005/606/regulation/6/14/c) (with [reg. 10](https://www.legislation.gov.uk/uksi/2005/606/regulation/10))
+
+[^key-46ae85be9d256caac3456a7b743e3386]: Textual amendment: Words in Sch. 2 para. 16(2)(b) substituted (1.4.2019) by [The Communications (Television Licensing) (Amendment) Regulations 2019 (S.I. 2019/151)](https://www.legislation.gov.uk/uksi/2019/151), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/151/regulation/1/2), [4(37)](https://www.legislation.gov.uk/uksi/2019/151/regulation/4/37) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/151/regulation/1/3))
+
+[^key-10e1a4512b1313d197bbc3b9e491b04d]: Textual amendment: Sum in [Sch. 2 para. 16(2)(b)](https://www.legislation.gov.uk/uksi/2004/692/schedule/2/paragraph/16/2/b) substituted (1.4.2026) by [The Communications (Television Licensing) (Amendment) Regulations 2026 (S.I. 2026/104)](https://www.legislation.gov.uk/uksi/2026/104), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/104/regulation/1/2), [4(35)(a)](https://www.legislation.gov.uk/uksi/2026/104/regulation/4/35/a) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2026/104/regulation/1/3))
+
+[^key-58bc0d0efb0c300fb27fc2cf3c13f299]: Textual amendment: Sum in [Sch. 2 para. 16(2)(b)](https://www.legislation.gov.uk/uksi/2004/692/schedule/2/paragraph/16/2/b) substituted (1.4.2026) by [The Communications (Television Licensing) (Amendment) Regulations 2026 (S.I. 2026/104)](https://www.legislation.gov.uk/uksi/2026/104), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/104/regulation/1/2), [4(35)(b)](https://www.legislation.gov.uk/uksi/2026/104/regulation/4/35/b) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2026/104/regulation/1/3))
+
+[^key-0d24fbf6056f9ad7e77941f26731d7f9]: Textual amendment: Sch. 2 para. 16(2)(c) substituted (1.4.2008) by [The Communications (Television Licensing) (Amendment) Regulations 2008 (S.I. 2008/643)](https://www.legislation.gov.uk/uksi/2008/643), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/643/regulation/1/1), [4(14)(d)](https://www.legislation.gov.uk/uksi/2008/643/regulation/4/14/d) (with [reg. 7](https://www.legislation.gov.uk/uksi/2008/643/regulation/7))
+
+[^key-63fe7f1e9411441c7757d5e78b15162e]: Textual amendment: Words in [Sch. 2 para. 16(2)(c)](https://www.legislation.gov.uk/uksi/2004/692/schedule/2/paragraph/16/2/c) substituted (1.4.2026) by [The Communications (Television Licensing) (Amendment) Regulations 2026 (S.I. 2026/104)](https://www.legislation.gov.uk/uksi/2026/104), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/104/regulation/1/2), [4(36)](https://www.legislation.gov.uk/uksi/2026/104/regulation/4/36) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2026/104/regulation/1/3))
+
+[^key-d67f161c2b1070f76d5ebb85250d6c70]: Textual amendment: Sch. 2 para. 16(2)(d) substituted (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Communications (Television Licensing) (Amendment) Regulations 2021 (S.I. 2021/124)](https://www.legislation.gov.uk/uksi/2021/124), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/124/regulation/1/2), [4(30)](https://www.legislation.gov.uk/uksi/2021/124/regulation/4/30)
+
+[^key-0162f80967753c214625c268c674b826]: Textual amendment: Word in Sch. 2 para. 16(2)(d) substituted (1.4.2024) by [The Communications (Television Licensing) (Amendment) Regulations 2024 (S.I. 2024/150)](https://www.legislation.gov.uk/uksi/2024/150), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/150/regulation/1/2), [4(42)](https://www.legislation.gov.uk/uksi/2024/150/regulation/4/42) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/150/regulation/1/3))
+
+[^key-9adbb9055662b08a0200b6da26c7ee05]: Textual amendment: Sum in [Sch. 2 para. 16(2)(d)](https://www.legislation.gov.uk/uksi/2004/692/schedule/2/paragraph/16/2/d) substituted (1.4.2026) by [The Communications (Television Licensing) (Amendment) Regulations 2026 (S.I. 2026/104)](https://www.legislation.gov.uk/uksi/2026/104), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/104/regulation/1/2), [4(37)(a)](https://www.legislation.gov.uk/uksi/2026/104/regulation/4/37/a) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2026/104/regulation/1/3))
+
+[^key-f8bb74c8a497c5ca0c526c670ff2eeed]: Textual amendment: Sum in [Sch. 2 para. 16(2)(d)](https://www.legislation.gov.uk/uksi/2004/692/schedule/2/paragraph/16/2/d) substituted (1.4.2026) by [The Communications (Television Licensing) (Amendment) Regulations 2026 (S.I. 2026/104)](https://www.legislation.gov.uk/uksi/2026/104), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/104/regulation/1/2), [4(37)(b)](https://www.legislation.gov.uk/uksi/2026/104/regulation/4/37/b) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2026/104/regulation/1/3))
+
+[^key-5ef3082f2bdb8fe93caa6c8378900ec6]: Textual amendment: Sum in [Sch. 2 para. 17(1)](https://www.legislation.gov.uk/uksi/2004/692/schedule/2/paragraph/17/1) substituted (1.4.2026) by [The Communications (Television Licensing) (Amendment) Regulations 2026 (S.I. 2026/104)](https://www.legislation.gov.uk/uksi/2026/104), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/104/regulation/1/2), [4(38)](https://www.legislation.gov.uk/uksi/2026/104/regulation/4/38) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2026/104/regulation/1/3))
+
+[^key-204d0ed5ed78caee784f7b13d960be6b]: Textual amendment: Sch. 2 para. 17(2)(a) substituted (1.4.2008) by [The Communications (Television Licensing) (Amendment) Regulations 2008 (S.I. 2008/643)](https://www.legislation.gov.uk/uksi/2008/643), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/643/regulation/1/1), [4(15)(a)](https://www.legislation.gov.uk/uksi/2008/643/regulation/4/15/a) (with [reg. 7](https://www.legislation.gov.uk/uksi/2008/643/regulation/7))
+
+[^key-c60155a06cecc3968009ff15d717c9c1]: Textual amendment: Sum in [Sch. 2 para. 17(2)(a)](https://www.legislation.gov.uk/uksi/2004/692/schedule/2/paragraph/17/2/a) substituted (1.4.2026) by [The Communications (Television Licensing) (Amendment) Regulations 2026 (S.I. 2026/104)](https://www.legislation.gov.uk/uksi/2026/104), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/104/regulation/1/2), [4(39)](https://www.legislation.gov.uk/uksi/2026/104/regulation/4/39) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2026/104/regulation/1/3))
+
+[^key-2dcd45763d2ffb32773ecc9f66e7dc85]: Textual amendment: Sch. 2 para. 17(2)(b) substituted (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Communications (Television Licensing) (Amendment) Regulations 2021 (S.I. 2021/124)](https://www.legislation.gov.uk/uksi/2021/124), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/124/regulation/1/2), [4(32)](https://www.legislation.gov.uk/uksi/2021/124/regulation/4/32)
+
+[^key-a1315ab506396947534774f83d5dc9a4]: Textual amendment: Words in [Sch. 2 para. 17(2)(b)](https://www.legislation.gov.uk/uksi/2004/692/schedule/2/paragraph/17/2/b) substituted (1.4.2026) by [The Communications (Television Licensing) (Amendment) Regulations 2026 (S.I. 2026/104)](https://www.legislation.gov.uk/uksi/2026/104), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/104/regulation/1/2), [4(40)](https://www.legislation.gov.uk/uksi/2026/104/regulation/4/40) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2026/104/regulation/1/3))
+
+[^key-2145d2c11b5101e327ed2709575e072c]: Textual amendment: Sch. 2 para. 17(2)(c) substituted (1.4.2019) by [The Communications (Television Licensing) (Amendment) Regulations 2019 (S.I. 2019/151)](https://www.legislation.gov.uk/uksi/2019/151), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/151/regulation/1/2), [4(43)](https://www.legislation.gov.uk/uksi/2019/151/regulation/4/43) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/151/regulation/1/3))
+
+[^key-24f79cc8cb5eee7da411be97062e63ef]: Textual amendment: Words in [Sch. 2 para. 17(2)(c)](https://www.legislation.gov.uk/uksi/2004/692/schedule/2/paragraph/17/2/c) substituted (1.4.2025) by [The Communications (Television Licensing) (Amendment) Regulations 2025 (S.I. 2025/133)](https://www.legislation.gov.uk/uksi/2025/133), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/133/regulation/1/2), [4(35)](https://www.legislation.gov.uk/uksi/2025/133/regulation/4/35) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/133/regulation/1/3))
+
+[^key-6926b58369d64ad542c05223174595ed]: Textual amendment: Words in [Sch. 2 para. 17(2)(c)](https://www.legislation.gov.uk/uksi/2004/692/schedule/2/paragraph/17/2/c) substituted (1.4.2026) by [The Communications (Television Licensing) (Amendment) Regulations 2026 (S.I. 2026/104)](https://www.legislation.gov.uk/uksi/2026/104), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/104/regulation/1/2), [4(41)](https://www.legislation.gov.uk/uksi/2026/104/regulation/4/41) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2026/104/regulation/1/3))
+
+[^key-15fc7eddc21e268a8a66a7f7b960d44d]: Textual amendment: Sch. 2 para. 17(2)(d) substituted (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Communications (Television Licensing) (Amendment) Regulations 2021 (S.I. 2021/124)](https://www.legislation.gov.uk/uksi/2021/124), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/124/regulation/1/2), [4(34)](https://www.legislation.gov.uk/uksi/2021/124/regulation/4/34)
+
+[^key-6db8c352bef4f336971f42901c64fc57]: Textual amendment: Words in Sch. 2 para. 17(2)(d) substituted (1.4.2024) by [The Communications (Television Licensing) (Amendment) Regulations 2024 (S.I. 2024/150)](https://www.legislation.gov.uk/uksi/2024/150), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/150/regulation/1/2), [4(47)](https://www.legislation.gov.uk/uksi/2024/150/regulation/4/47) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/150/regulation/1/3))
+
+[^key-f28c45f3476fe60ed45241ff79d889a5]: Textual amendment: Sum in [Sch. 2 para. 17(2)(d)](https://www.legislation.gov.uk/uksi/2004/692/schedule/2/paragraph/17/2/d) substituted (1.4.2026) by [The Communications (Television Licensing) (Amendment) Regulations 2026 (S.I. 2026/104)](https://www.legislation.gov.uk/uksi/2026/104), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/104/regulation/1/2), [4(42)](https://www.legislation.gov.uk/uksi/2026/104/regulation/4/42) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2026/104/regulation/1/3))
+
+[^key-6336e7495f4af6854e3539469c1ad375]: Modification: Sch. 2 Pt. 4 extended (Isle of Man) (1.5.2021) by [The Communications (Television Licensing) (Amendment) (No. 2) Regulations 2021 (S.I. 2021/227)](https://www.legislation.gov.uk/uksi/2021/227), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/227/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2021/227/regulation/2)
+
+[^key-b7f9cd791b1488b462e644dd306d992d]: Textual amendment: Sch. 2 Pt. 4 inserted (1.4.2018) by [The Communications (Television Licensing) (Amendment) (No. 2) Regulations 2018 (S.I. 2018/339)](https://www.legislation.gov.uk/uksi/2018/339), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/339/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2018/339/regulation/4)
+
+[^key-ddcdd13c6d7ec306030d20ed8b7976d9]: Textual amendment: Sch. 2 para. 18(3) substituted (1.4.2020) by [The Communications (Television Licensing) (Amendment) (No. 2) Regulations 2020 (S.I. 2020/160)](https://www.legislation.gov.uk/uksi/2020/160), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/160/regulation/1/1), [4(a)](https://www.legislation.gov.uk/uksi/2020/160/regulation/4/a)
+
+[^key-74ba6571b6ab4f13a76bc47508b21a11]: Textual amendment: Sch. 2 para. 19(1A) substituted for Sch. 2 para. 19(1)-(3) (1.4.2020) by [The Communications (Television Licensing) (Amendment) (No. 2) Regulations 2020 (S.I. 2020/160)](https://www.legislation.gov.uk/uksi/2020/160), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/160/regulation/1/1), [4(b)](https://www.legislation.gov.uk/uksi/2020/160/regulation/4/b)
+
+[^key-934de221667686b1e2d809e7758f5086]: Textual amendment: Word in [Sch. 2 para. 19(1A)](https://www.legislation.gov.uk/uksi/2004/692/schedule/2/paragraph/19/1A) substituted (31.1.2025) by virtue of [The Communications (Television Licensing) (Amendment) (No. 2) Regulations 2024 (S.I. 2024/1330)](https://www.legislation.gov.uk/uksi/2024/1330), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1330/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2024/1330/regulation/2/2)
+
+[^key-fd4ebc6efa9aa9a3f3183c95b3093787]: Textual amendment: Words in Sch. 2 para. 20(1) substituted (1.4.2020) by [The Communications (Television Licensing) (Amendment) (No. 2) Regulations 2020 (S.I. 2020/160)](https://www.legislation.gov.uk/uksi/2020/160), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/160/regulation/1/1), [4(c)(i)](https://www.legislation.gov.uk/uksi/2020/160/regulation/4/c/i)
+
+[^key-eca199796099d68272b4eef87ccbd34b]: Textual amendment: Word in Sch. 2 para. 20(1) substituted (1.4.2020) by [The Communications (Television Licensing) (Amendment) (No. 2) Regulations 2020 (S.I. 2020/160)](https://www.legislation.gov.uk/uksi/2020/160), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/160/regulation/1/1), [4(c)(ii)](https://www.legislation.gov.uk/uksi/2020/160/regulation/4/c/ii)
+
+[^key-2d9a416d9dab6b07b376549c0b368454]: Textual amendment: Words in [Sch. 2 para. 20(2)](https://www.legislation.gov.uk/uksi/2004/692/schedule/2/paragraph/20/2) substituted (31.1.2025) by [The Communications (Television Licensing) (Amendment) (No. 2) Regulations 2024 (S.I. 2024/1330)](https://www.legislation.gov.uk/uksi/2024/1330), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1330/regulation/1/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2024/1330/regulation/2/3/a)
+
+[^key-4815f7be4f6cf824c2b156cf249cd56c]: Textual amendment: Words in [Sch. 2 para. 20(2)](https://www.legislation.gov.uk/uksi/2004/692/schedule/2/paragraph/20/2) omitted (31.1.2025) by virtue of [The Communications (Television Licensing) (Amendment) (No. 2) Regulations 2024 (S.I. 2024/1330)](https://www.legislation.gov.uk/uksi/2024/1330), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1330/regulation/1/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2024/1330/regulation/2/3/b)
+
+[^key-bb60eb6249a4dc22cd6a507908d093d5]: Textual amendment: Sch. 2 para. 20(3A) inserted (1.4.2020) by [The Communications (Television Licensing) (Amendment) (No. 2) Regulations 2020 (S.I. 2020/160)](https://www.legislation.gov.uk/uksi/2020/160), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/160/regulation/1/1), [4(d)](https://www.legislation.gov.uk/uksi/2020/160/regulation/4/d)
+
+[^key-a2a2ba01b6ebc3a0d672a9521fafdf71]: Textual amendment: [Sch. 2 para. 20(3B)](https://www.legislation.gov.uk/uksi/2004/692/schedule/2/paragraph/20/3B) inserted (31.1.2025) by [The Communications (Television Licensing) (Amendment) (No. 2) Regulations 2024 (S.I. 2024/1330)](https://www.legislation.gov.uk/uksi/2024/1330), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1330/regulation/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2024/1330/regulation/2/4)
+
+[^key-156cab9f359e999a4fb3b1098e4ed119]: Textual amendment: Words in [Sch. 2 para. 20(4)](https://www.legislation.gov.uk/uksi/2004/692/schedule/2/paragraph/20/4) substituted (31.1.2025) by [The Communications (Television Licensing) (Amendment) (No. 2) Regulations 2024 (S.I. 2024/1330)](https://www.legislation.gov.uk/uksi/2024/1330), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1330/regulation/1/1), [2(5)](https://www.legislation.gov.uk/uksi/2024/1330/regulation/2/5)
+
+[^key-2f808e76c456901b68f7d00dedf01431]: Textual amendment: Words in Sch. 2 para. 21(2) substituted (1.4.2020) by [The Communications (Television Licensing) (Amendment) (No. 2) Regulations 2020 (S.I. 2020/160)](https://www.legislation.gov.uk/uksi/2020/160), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/160/regulation/1/1), [4(f)](https://www.legislation.gov.uk/uksi/2020/160/regulation/4/f)
+
+[^key-a9227b235178c98fb404e4d84bc3cfd5]: Textual amendment: Sch. 2 para. 21(2A)-(2I) substituted for Sch. 2 para. 21(3)-(8) (1.4.2020) by [The Communications (Television Licensing) (Amendment) (No. 2) Regulations 2020 (S.I. 2020/160)](https://www.legislation.gov.uk/uksi/2020/160), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/160/regulation/1/1), [4(g)](https://www.legislation.gov.uk/uksi/2020/160/regulation/4/g)
+
+[^key-0aee2df8bc7df34054b2e2eaaca8f57f]: Textual amendment: [Sch. 2 para. 21 Table 1](https://www.legislation.gov.uk/uksi/2004/692/schedule/2/paragraph/21) substituted (1.4.2026) by [The Communications (Television Licensing) (Amendment) Regulations 2026 (S.I. 2026/104)](https://www.legislation.gov.uk/uksi/2026/104), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/104/regulation/1/2), [Sch. 2 Table 1](https://www.legislation.gov.uk/uksi/2026/104/schedule/2) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2026/104/regulation/1/3))
+
+[^key-f6b3b7541a11fd55548403b05bfcd7bd]: Textual amendment: [Sch. 2 para. 21 Table 2](https://www.legislation.gov.uk/uksi/2004/692/schedule/2/paragraph/21) substituted (1.4.2026) by [The Communications (Television Licensing) (Amendment) Regulations 2026 (S.I. 2026/104)](https://www.legislation.gov.uk/uksi/2026/104), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/104/regulation/1/2), [Sch. 2 Table 2](https://www.legislation.gov.uk/uksi/2026/104/schedule/2) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2026/104/regulation/1/3))
+
+[^key-9f61ca3e96ebeb6086e971cc113de1c6]: Textual amendment: Words in Sch. 3 Pt. 1 table substituted (1.9.2016) by [The Communications (Television Licensing) (Amendment) Regulations 2016 (S.I. 2016/704)](https://www.legislation.gov.uk/uksi/2016/704), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/704/regulation/1/1), [7(2)](https://www.legislation.gov.uk/uksi/2016/704/regulation/7/2)
+
+[^key-78417c18d332fbe99fc8967fe116d737]: Textual amendment: Sum in [Sch. 3](https://www.legislation.gov.uk/uksi/2004/692/schedule/3) Table substituted (1.4.2020) by [The Communications (Television Licensing) (Amendment) Regulations 2020 (S.I. 2020/80)](https://www.legislation.gov.uk/uksi/2020/80), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/80/regulation/1/2), [5(2)](https://www.legislation.gov.uk/uksi/2020/80/regulation/5/2) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/80/regulation/1/3))
+
+[^key-65d721242a2440675e1793f55f4734bb]: Textual amendment: Sum in [Sch. 3](https://www.legislation.gov.uk/uksi/2004/692/schedule/3) Table substituted (1.4.2020) by [The Communications (Television Licensing) (Amendment) Regulations 2020 (S.I. 2020/80)](https://www.legislation.gov.uk/uksi/2020/80), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/80/regulation/1/2), [5(3)](https://www.legislation.gov.uk/uksi/2020/80/regulation/5/3) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/80/regulation/1/3))
+
+[^key-ab44ab36f9d1830f41a217121d757316]: Textual amendment: Sum in [Sch. 3 para. 1(5)(b)](https://www.legislation.gov.uk/uksi/2004/692/schedule/3/paragraph/1/5/b) substituted (1.4.2020) by [The Communications (Television Licensing) (Amendment) Regulations 2020 (S.I. 2020/80)](https://www.legislation.gov.uk/uksi/2020/80), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/80/regulation/1/2), [5(4)](https://www.legislation.gov.uk/uksi/2020/80/regulation/5/4) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/80/regulation/1/3))
+
+[^key-e36c19d5be80af7547835acdd8f072f6]: Textual amendment: [Sch. 4 para. 1(2)-(5)](https://www.legislation.gov.uk/uksi/2004/692/schedule/4/paragraph/1/2) substituted for [Sch. 4](https://www.legislation.gov.uk/uksi/2004/692/schedule/4) [para. 1(2)](https://www.legislation.gov.uk/uksi/2004/692/schedule/4/paragraph/1/2) (1.4.2005) by [The Communications (Television Licensing) (Amendment) Regulations 2005 (S.I. 2005/606)](https://www.legislation.gov.uk/uksi/2005/606), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/606/regulation/1/1), [8(2)](https://www.legislation.gov.uk/uksi/2005/606/regulation/8/2) (with [reg. 10](https://www.legislation.gov.uk/uksi/2005/606/regulation/10))
+
+[^key-e7d92de95dc36f4a32f82f728443ba5b]: Textual amendment: Word in [Sch. 4 para. 2](https://www.legislation.gov.uk/uksi/2004/692/schedule/4/paragraph/2) substituted (1.4.2007) by [The Communications (Television Licensing) (Amendment) Regulations 2007 (S.I. 2007/718)](https://www.legislation.gov.uk/uksi/2007/718), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/718/regulation/1/1), [11(1)](https://www.legislation.gov.uk/uksi/2007/718/regulation/11/1) (with [reg. 13](https://www.legislation.gov.uk/uksi/2007/718/regulation/13))
+
+[^key-836832f3cd4160ea6938700fb79dfe89]: Textual amendment: Word in [Sch. 4 para. 3(1)](https://www.legislation.gov.uk/uksi/2004/692/schedule/4/paragraph/3/1) omitted (1.4.2007) by virtue of [The Communications (Television Licensing) (Amendment) Regulations 2007 (S.I. 2007/718)](https://www.legislation.gov.uk/uksi/2007/718), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/718/regulation/1/1), [11(2)](https://www.legislation.gov.uk/uksi/2007/718/regulation/11/2) (with [reg. 13](https://www.legislation.gov.uk/uksi/2007/718/regulation/13))
+
+[^c9253611]: Marginal citation: [S.I. 1997/290](https://www.legislation.gov.uk/uksi/1997/290), amended by [S.I. 1998/558](https://www.legislation.gov.uk/uksi/1998/558), 1999/765, 2000/630, 2001/772, 2002/641, and 2003/663.
+
+[^c9253621]: Marginal citation: [1996 c. 18](https://www.legislation.gov.uk/ukpga/1996/18); section 230 was amended by the [Public Interest Disclosure Act 1998 (c. 23)](https://www.legislation.gov.uk/ukpga/1998/23), [section 15(1)](https://www.legislation.gov.uk/ukpga/1998/23/section/15/1).
+
+[^key-74e52c1df1da7b0a060335da5ae7dda5]: Textual amendment: Sch. 4 para. 3(13) substituted (1.4.2005) by [The Communications (Television Licensing) (Amendment) Regulations 2005 (S.I. 2005/606)](https://www.legislation.gov.uk/uksi/2005/606), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/606/regulation/1/1), [8(3)](https://www.legislation.gov.uk/uksi/2005/606/regulation/8/3) (with [reg. 10](https://www.legislation.gov.uk/uksi/2005/606/regulation/10))
+
+[^key-b3f2dee335be1d268bd4efeb1fc56c27]: Textual amendment: Sch. 4 para. 4 renumbered as Sch. 4 para. 4(1) (1.4.2005) by [The Communications (Television Licensing) (Amendment) Regulations 2005 (S.I. 2005/606)](https://www.legislation.gov.uk/uksi/2005/606), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/606/regulation/1/1), [8(4)](https://www.legislation.gov.uk/uksi/2005/606/regulation/8/4) (with [reg. 10](https://www.legislation.gov.uk/uksi/2005/606/regulation/10))
+
+[^key-f318a4202144c620bbc8857d12fca26c]: Textual amendment: [Sch. 4 para. 4(2)](https://www.legislation.gov.uk/uksi/2004/692/schedule/4/paragraph/4/2) inserted (1.4.2005) by [The Communications (Television Licensing) (Amendment) Regulations 2005 (S.I. 2005/606)](https://www.legislation.gov.uk/uksi/2005/606), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/606/regulation/1/1), [8(4)](https://www.legislation.gov.uk/uksi/2005/606/regulation/8/4) (with [reg. 10](https://www.legislation.gov.uk/uksi/2005/606/regulation/10))
+
+[^c9253641]: Marginal citation: [1948 c. 29](https://www.legislation.gov.uk/ukpga/1948/29); section 21(a) was amended by the [Children Act 1989 (c. 41)](https://www.legislation.gov.uk/ukpga/1989/41), [section 108(5)](https://www.legislation.gov.uk/ukpga/1989/41/section/108/5) and Schedule 13, paragraph 11(1), and by the [National Health Service and Community Care Act 1990 (c. 19)](https://www.legislation.gov.uk/ukpga/1990/19), [section 42(1)](https://www.legislation.gov.uk/ukpga/1990/19/section/42/1). Section 21 was repealed in relation to Scotland by the [Social Work (Scotland) Act 1968 (c. 49)](https://www.legislation.gov.uk/ukpga/1968/49), [section 95(2)](https://www.legislation.gov.uk/ukpga/1968/49/section/95/2) and Schedule 9, Part 1.
+
+[^key-347705df86c4e05657083fbf5015a566]: Textual amendment: [Sch. 4 para. 5(1)(aa)](https://www.legislation.gov.uk/uksi/2004/692/schedule/4/paragraph/5/1/aa) inserted (1.4.2015) by [The Care Act 2014 (Consequential Amendments) (Secondary Legislation) Order 2015 (S.I. 2015/643)](https://www.legislation.gov.uk/uksi/2015/643), [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/643/article/1/2), [Sch. para. 23](https://www.legislation.gov.uk/uksi/2015/643/schedule/paragraph/23) (with [art. 4](https://www.legislation.gov.uk/uksi/2015/643/article/4))
+
+[^c9253651]: Marginal citation: [1996 c. 56](https://www.legislation.gov.uk/ukpga/1996/56); section 463 of the [Education Act 1996 (c. 56)](https://www.legislation.gov.uk/ukpga/1996/56) defines “independent school”. That definition has been amended by the [Education Act 2002 (c. 32)](https://www.legislation.gov.uk/ukpga/2002/32), [section 172](https://www.legislation.gov.uk/ukpga/2002/32/section/172). The new definition is in force in relation to England but not yet in force in relation to Wales. The definition still in force for Wales has been amended by the [School Standards and Framework Act 1998 (c. 31)](https://www.legislation.gov.uk/ukpga/1998/31), [section 140(1)](https://www.legislation.gov.uk/ukpga/1998/31/section/140/1) and (3), Schedule 30, paragraph 124(a) and Schedule 31, paragraph 124(b).
+
+[^c9253661]: Marginal citation: [1996 c. 56](https://www.legislation.gov.uk/ukpga/1996/56); section 347 was amended by the [Special Educational Needs and Disability Act 2001 (c. 10)](https://www.legislation.gov.uk/ukpga/2001/10), [section 42(1)](https://www.legislation.gov.uk/ukpga/2001/10/section/42/1) and Schedule 8, Part 1, paragraphs 1 and 12. Section 347 was also amended by the [Education Act 2002 (c. 32)](https://www.legislation.gov.uk/ukpga/2002/32), [section 174](https://www.legislation.gov.uk/ukpga/2002/32/section/174). This amendment is in force in relation to England but not Wales. Functions of the Secretary of State, so far as exercisable in relation to Wales, have been transferred to the National Assembly for Wales, by the [National Assembly for Wales (Transfer of Functions) Order 1999 (S.I. 1999/672)](https://www.legislation.gov.uk/uksi/1999/672), [article 2](https://www.legislation.gov.uk/uksi/1999/672/article/2) and Schedule 1.
+
+[^key-af6b27aef43774bd778bc12fa34c8e65]: Textual amendment: Sch. 4 para. 5(1)(c) substituted (1.10.2010) by [The Health and Social Care Act 2008 (Miscellaneous Consequential Amendments) Order 2010 (S.I. 2010/1881)](https://www.legislation.gov.uk/uksi/2010/1881), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2010/1881/article/1/1), [15(a)](https://www.legislation.gov.uk/uksi/2010/1881/article/15/a)
+
+[^key-0dcc11377eceab7fc1bca09b90392437]: Textual amendment: Sch. 4 para. 5(2)(a) substituted (1.10.2010) by [The Health and Social Care Act 2008 (Miscellaneous Consequential Amendments) Order 2010 (S.I. 2010/1881)](https://www.legislation.gov.uk/uksi/2010/1881), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2010/1881/article/1/1), [15(b)](https://www.legislation.gov.uk/uksi/2010/1881/article/15/b)
+
+[^key-f14b4c53afbe4568a8ba48ea63f6c307]: Textual amendment: Words in Sch. 4 para. 5(3) substituted (1.10.2010) by [The Health and Social Care Act 2008 (Miscellaneous Consequential Amendments) Order 2010 (S.I. 2010/1881)](https://www.legislation.gov.uk/uksi/2010/1881), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2010/1881/article/1/1), [15(c)](https://www.legislation.gov.uk/uksi/2010/1881/article/15/c)
+
+[^c9253721]: Marginal citation: [1985 c. 68](https://www.legislation.gov.uk/ukpga/1985/68).
+
+[^c9253731]: Marginal citation: [1985 c. 69](https://www.legislation.gov.uk/ukpga/1985/69); section 1 defines “housing association”.
+
+[^c9253741]: Marginal citation: [1981 c. 64](https://www.legislation.gov.uk/ukpga/1981/64); a development corporation is defined in section 3. Section 3 was amended by the [Government of Wales Act 1998 (c. 38)](https://www.legislation.gov.uk/ukpga/1998/38), [section 152](https://www.legislation.gov.uk/ukpga/1998/38/section/152) and Schedule 18, Part 4.
+
+[^key-40a6e3efb2b6675ef17c659ca09b1fcc]: Textual amendment: Sch. 4 para. 7 renumbered as Sch. 4 para. 7(1) (1.4.2005) by [The Communications (Television Licensing) (Amendment) Regulations 2005 (S.I. 2005/606)](https://www.legislation.gov.uk/uksi/2005/606), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/606/regulation/1/1), [8(5)](https://www.legislation.gov.uk/uksi/2005/606/regulation/8/5) (with [reg. 10](https://www.legislation.gov.uk/uksi/2005/606/regulation/10))
+
+[^c9253751]: Marginal citation: [1968 c. 49](https://www.legislation.gov.uk/ukpga/1968/49); section 12 was amended by the [National Health Service and Community Care Act 1990 (c. 19)](https://www.legislation.gov.uk/ukpga/1990/19), [section 66(1)](https://www.legislation.gov.uk/ukpga/1990/19/section/66/1) and Schedule 9, paragraph 10(5), the [Children (Scotland) Act 1995 (c. 36)](https://www.legislation.gov.uk/ukpga/1995/36), [section 105(4)](https://www.legislation.gov.uk/ukpga/1995/36/section/105/4) and Schedule 4, paragraph 15(11), the [Community Care (Residential Accommodation) Act 1998 (c. 19)](https://www.legislation.gov.uk/ukpga/1998/19), [sections 2](https://www.legislation.gov.uk/ukpga/1998/19/section/2) and 3(2), the [Immigration and Asylum Act 1999 (c. 33)](https://www.legislation.gov.uk/ukpga/1999/33), [section 120(1)](https://www.legislation.gov.uk/ukpga/1999/33/section/120/1), the [Community Care and Health (Scotland) Act 2002 (asp 5)](https://www.legislation.gov.uk/asp/2002/5), [section 3](https://www.legislation.gov.uk/asp/2002/5/section/3), and the [Nationality, Immigration and Asylum Act 2002 (c. 41)](https://www.legislation.gov.uk/ukpga/2002/41), [section 46](https://www.legislation.gov.uk/ukpga/2002/41/section/46). Section 13A was amended by the [Immigration and Asylum Act 1999 (c. 33)](https://www.legislation.gov.uk/ukpga/1999/33), [section 120(2)](https://www.legislation.gov.uk/ukpga/1999/33/section/120/2), the [Regulation of Care (Scotland) Act 2001 (asp 8)](https://www.legislation.gov.uk/asp/2001/8), [sections 72](https://www.legislation.gov.uk/asp/2001/8/section/72), [79](https://www.legislation.gov.uk/asp/2001/8/section/79) and Schedule 3, paragraph 4, the [Community Care and Health (Scotland) Act 2002 (asp 5)](https://www.legislation.gov.uk/asp/2002/5), [Schedule 2](https://www.legislation.gov.uk/asp/2002/5/schedule/2), [paragraph 1](https://www.legislation.gov.uk/asp/2002/5/paragraph/1), and the [Nationality, Immigration and Asylum Act 2002 (c. 41)](https://www.legislation.gov.uk/ukpga/2002/41), [section 46](https://www.legislation.gov.uk/ukpga/2002/41/section/46). Section 13B was amended by the [Immigration and Asylum Act 1999 (c. 33)](https://www.legislation.gov.uk/ukpga/1999/33), [section 120](https://www.legislation.gov.uk/ukpga/1999/33/section/120), and the [Nationality, Immigration and Asylum Act 2002 (c. 41)](https://www.legislation.gov.uk/ukpga/2002/41), [section 46](https://www.legislation.gov.uk/ukpga/2002/41/section/46). Section 59 was amended by the [National Health Service and Community Care Act 1990 (c. 19)](https://www.legislation.gov.uk/ukpga/1990/19), [Schedule 9](https://www.legislation.gov.uk/ukpga/1990/19/schedule/9), [paragraph 10(7)](https://www.legislation.gov.uk/ukpga/1990/19/paragraph/10/7), the [Children (Scotland) Act 1995 (c. 36)](https://www.legislation.gov.uk/ukpga/1995/36), [Schedule 4](https://www.legislation.gov.uk/ukpga/1995/36/schedule/4), and by the [Regulation of Care (Scotland) Act 2001 (asp 8)](https://www.legislation.gov.uk/asp/2001/8), [section 72](https://www.legislation.gov.uk/asp/2001/8/section/72).
+
+[^key-c209a42e7b20ed38b7abc32f3f686891]: Textual amendment: Words in Sch. 4 para. 7(1) substituted (E.W.N.I.) (5.10.2005) by [The Mental Health (Care and Treatment) (Scotland) Act 2003 (Consequential Provisions) Order 2005 (S.I. 2005/2078)](https://www.legislation.gov.uk/uksi/2005/2078), [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/2078/article/1/1), [Sch. 2 para. 26(2)(a)](https://www.legislation.gov.uk/uksi/2005/2078/schedule/2/paragraph/26/2/a) and words in Sch. 4 para. 7(1) substituted (S.) (5.10.2005) by [The Mental Health (Care and Treatment) (Scotland) Act 2003 (Modification of Subordinate Legislation) Order 2005 (S.S.I. 2005/445)](https://www.legislation.gov.uk/ssi/2005/445), [arts. 1](https://www.legislation.gov.uk/ssi/2005/445/article/1), [2](https://www.legislation.gov.uk/ssi/2005/445/article/2), [sch. para. 49(1)(a)](https://www.legislation.gov.uk/ssi/2005/445/schedule/paragraph/49/1/a)
+
+[^key-c63be6383a3c290bdbc9e716e853c4b4]: Textual amendment: Words in Sch. 4 para. 7(1) substituted (28.10.2011) by [The Public Services Reform (Scotland) Act 2010 (Consequential Modifications of Enactments) Order 2011 (S.I. 2011/2581)](https://www.legislation.gov.uk/uksi/2011/2581), [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2011/2581/article/1/2/b), [Sch. 2 para. 39](https://www.legislation.gov.uk/uksi/2011/2581/schedule/2/paragraph/39)
+
+[^c9253781]: Marginal citation: [1987 c. 26](https://www.legislation.gov.uk/ukpga/1987/26).
+
+[^key-ab0365db90275101c122bc57ee7f0cb4]: Textual amendment: Words in Sch. 4 para. 7(1) substituted (1.4.2012) by [The Housing (Scotland) Act 2010 (Consequential Provisions and Modifications) Order 2012 (S.I. 2012/700)](https://www.legislation.gov.uk/uksi/2012/700), [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/700/article/1/3), [Sch. para. 13](https://www.legislation.gov.uk/uksi/2012/700/schedule/paragraph/13)
+
+[^c9253791]: Marginal citation: [1988 c. 43](https://www.legislation.gov.uk/ukpga/1988/43); section 1 was amended by the Housing (Scotland) Act 2001, section 112 and Schedule 10, paragraph 14(1), (2)(a) and (2)(b)(i) - (2)(b)(iv). Scottish Homes continue to exercise their functions under section 1(3)(b) of the [Housing (Scotland) Act 1988 (c. 43)](https://www.legislation.gov.uk/ukpga/1988/43) by virtue of regulation 3(a) of [S.S.I. 2001/397](https://www.legislation.gov.uk/ssi/2001/397).
+
+[^c9253801]: Marginal citation: [1978 c. 29](https://www.legislation.gov.uk/ukpga/1978/29); the definition of “health service hospital” was amended by the [National Health Service and Community Care Act 1990 (c. 19)](https://www.legislation.gov.uk/ukpga/1990/19), [section 66(1)](https://www.legislation.gov.uk/ukpga/1990/19/section/66/1) and Schedule 9, paragraph 19(22)(b).
+
+[^key-bf2483dfc6f75117af16bf1796152357]: Textual amendment: Words in Sch. 4 para. 7(1) substituted (E.W.N.I.) (5.10.2005) by [The Mental Health (Care and Treatment) (Scotland) Act 2003 (Consequential Provisions) Order 2005 (S.I. 2005/2078)](https://www.legislation.gov.uk/uksi/2005/2078), [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/2078/article/1/1), [Sch. 2 para. 26(2)(b)](https://www.legislation.gov.uk/uksi/2005/2078/schedule/2/paragraph/26/2/b) and words in Sch. 4 para. 7(1) substituted (S.) (5.10.2005) by [The Mental Health (Care and Treatment) (Scotland) Act 2003 (Modification of Subordinate Legislation) Order 2005 (S.S.I. 2005/445)](https://www.legislation.gov.uk/ssi/2005/445), [arts. 1](https://www.legislation.gov.uk/ssi/2005/445/article/1), [2](https://www.legislation.gov.uk/ssi/2005/445/article/2), [sch. para. 49(1)(a)](https://www.legislation.gov.uk/ssi/2005/445/schedule/paragraph/49/1/a)
+
+[^key-9bcccf0bad87416f3985cc49b92884c1]: Textual amendment: Sch. 4 para. 7(2) inserted (1.4.2005) by [The Communications (Television Licensing) (Amendment) Regulations 2005 (S.I. 2005/606)](https://www.legislation.gov.uk/uksi/2005/606), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/606/regulation/1/1), [8(5)](https://www.legislation.gov.uk/uksi/2005/606/regulation/8/5) (with [reg. 10](https://www.legislation.gov.uk/uksi/2005/606/regulation/10))
+
+[^key-eb8d358e9f6f6f7404d7e6ab1a1aae03]: Textual amendment: Sch. 4 para. 8 renumbered as Sch. 4 para. 8(1) (1.4.2005) by [The Communications (Television Licensing) (Amendment) Regulations 2005 (S.I. 2005/606)](https://www.legislation.gov.uk/uksi/2005/606), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/606/regulation/1/1), [8(6)](https://www.legislation.gov.uk/uksi/2005/606/regulation/8/6) (with [reg. 10](https://www.legislation.gov.uk/uksi/2005/606/regulation/10))
+
+[^key-41d87342917825a18ea71649e61c6985]: Textual amendment: Words in Sch. 4 para. 8(1) substituted (1.4.2005) by [The Communications (Television Licensing) (Amendment) Regulations 2005 (S.I. 2005/606)](https://www.legislation.gov.uk/uksi/2005/606), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/606/regulation/1/1), [8(7)(a)](https://www.legislation.gov.uk/uksi/2005/606/regulation/8/7/a) (with [reg. 10](https://www.legislation.gov.uk/uksi/2005/606/regulation/10))
+
+[^c9253821]: Marginal citation: [S.I. 1972/1265 (N.I. 14)](https://www.legislation.gov.uk/nisi/1972/1265); article 15 was amended by [S.I. 1992/3204 (N.I. 20)](https://www.legislation.gov.uk/nisi/1992/3204), [article 37](https://www.legislation.gov.uk/nisi/1992/3204/article/37) and Schedule 1, [S.I. 1991/194 (N.I. 1)](https://www.legislation.gov.uk/nisi/1991/194), [article 34](https://www.legislation.gov.uk/nisi/1991/194/article/34) and Schedule 5, the [Immigration and Asylum Act 1999 (c. 33)](https://www.legislation.gov.uk/ukpga/1999/33), [section 121](https://www.legislation.gov.uk/ukpga/1999/33/section/121), and the [Personal Social Services (Preserved Rights) Act (Northern Ireland) 2002 (c. 5)](https://www.legislation.gov.uk/nia/2002/5) (N.I.), section 4 and the Schedule.
+
+[^key-a359fd0033c80739a2852f695af137a8]: Textual amendment: Word in [Sch. 4 para. 8(1)](https://www.legislation.gov.uk/uksi/2004/692/schedule/4/paragraph/8/1/a/i) inserted (1.4.2006) by [The Communications (Television Licensing) (Amendment) Regulations 2006 (S.I. 2006/619)](https://www.legislation.gov.uk/uksi/2006/619), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/619/regulation/1/1), [7(2)(a)](https://www.legislation.gov.uk/uksi/2006/619/regulation/7/2/a) (with [reg. 9](https://www.legislation.gov.uk/uksi/2006/619/regulation/9))
+
+[^key-66b77bb1a8aa8bdb70e9b4cac55b079e]: Textual amendment: [Words in Sch. 4 para. 8(1)](https://www.legislation.gov.uk/uksi/2004/692/schedule/4/paragraph/8/1/a/ii) substituted (1.4.2006) by [The Communications (Television Licensing) (Amendment) Regulations 2006 (S.I. 2006/619)](https://www.legislation.gov.uk/uksi/2006/619), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/619/regulation/1/1), [7(2)(b)](https://www.legislation.gov.uk/uksi/2006/619/regulation/7/2/b) (with [reg. 9](https://www.legislation.gov.uk/uksi/2006/619/regulation/9))
+
+[^c9253841]: Marginal citation: [S.I. 1981/156 (N.I. 3)](https://www.legislation.gov.uk/nisi/1981/156).
+
+[^c9253851]: Marginal citation: [S.I. 1992/1725 (N.I. 15)](https://www.legislation.gov.uk/nisi/1992/1725). “Housing association” is defined in article 3.
+
+[^c9253861]: Marginal citation: [S.I. 1986/595 (N.I. 4)](https://www.legislation.gov.uk/nisi/1986/595).
+
+[^c9253871]: Marginal citation: [S.I. 1983/1118 (N.I. 15)](https://www.legislation.gov.uk/nisi/1983/1118); Part II was amended by article 96 of [S.I. 1992/1725 (N.I. 15)](https://www.legislation.gov.uk/nisi/1992/1725).
+
+[^key-aab49616699537a349e197be276134a4]: Textual amendment: Words in Sch. 4 para. 8(1) inserted (1.4.2005) by [The Communications (Television Licensing) (Amendment) Regulations 2005 (S.I. 2005/606)](https://www.legislation.gov.uk/uksi/2005/606), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/606/regulation/1/1), [8(7)(b)](https://www.legislation.gov.uk/uksi/2005/606/regulation/8/7/b) (with [reg. 10](https://www.legislation.gov.uk/uksi/2005/606/regulation/10))
+
+[^key-bbc79d2524deab6e7df16e87c82bcd7c]: Textual amendment: Sch. 4 para. 8(2) inserted (1.4.2005) by [The Communications (Television Licensing) (Amendment) Regulations 2005 (S.I. 2005/606)](https://www.legislation.gov.uk/uksi/2005/606), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/606/regulation/1/1), [8(8)](https://www.legislation.gov.uk/uksi/2005/606/regulation/8/8) (with [reg. 10](https://www.legislation.gov.uk/uksi/2005/606/regulation/10))
+
+[^key-9b264050ea514b5d0724b5d128adcd01]: Textual amendment: Sch. 4 para. 9 renumbered as Sch. 4 para. 9(1) (1.4.2005) by [The Communications (Television Licensing) (Amendment) Regulations 2005 (S.I. 2005/606)](https://www.legislation.gov.uk/uksi/2005/606), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/606/regulation/1/1), [8(9)](https://www.legislation.gov.uk/uksi/2005/606/regulation/8/9) (with [reg. 10](https://www.legislation.gov.uk/uksi/2005/606/regulation/10))
+
+[^key-05afa24b922c106f920ef0f7872d5d75]: Textual amendment: Word in [Sch. 4 para. 9(1)](https://www.legislation.gov.uk/uksi/2004/692/schedule/4/paragraph/9/1/b/i) substituted (1.4.2006) by [The Communications (Television Licensing) (Amendment) Regulations 2006 (S.I. 2006/619)](https://www.legislation.gov.uk/uksi/2006/619), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/619/regulation/1/1), [7(3)(a)](https://www.legislation.gov.uk/uksi/2006/619/regulation/7/3/a) (with [reg. 9](https://www.legislation.gov.uk/uksi/2006/619/regulation/9))
+
+[^key-9c3ae42e5520a9b9300748ac54fa8b42]: Textual amendment: Words in Sch. 4 para. 9(1) substituted (1.4.2005) by [The Communications (Television Licensing) (Amendment) Regulations 2005 (S.I. 2005/606)](https://www.legislation.gov.uk/uksi/2005/606), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/606/regulation/1/1), [8(10)](https://www.legislation.gov.uk/uksi/2005/606/regulation/8/10) (with [reg. 10](https://www.legislation.gov.uk/uksi/2005/606/regulation/10))
+
+[^key-35e7a3ea482be27f02eccb9a70e024c4]: Textual amendment: Words in [Sch. 4 para. 9(1)](https://www.legislation.gov.uk/uksi/2004/692/schedule/4/paragraph/9/1/b/ii) substituted (1.4.2006) by [The Communications (Television Licensing) (Amendment) Regulations 2006 (S.I. 2006/619)](https://www.legislation.gov.uk/uksi/2006/619), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/619/regulation/1/1), [7(3)(b)](https://www.legislation.gov.uk/uksi/2006/619/regulation/7/3/b) (with [reg. 9](https://www.legislation.gov.uk/uksi/2006/619/regulation/9))
+
+[^key-445e9b9f88490352d20a9f1527eee947]: Textual amendment: Sch. 4 para. 9(2) inserted (1.4.2005) by [The Communications (Television Licensing) (Amendment) Regulations 2005 (S.I. 2005/606)](https://www.legislation.gov.uk/uksi/2005/606), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/606/regulation/1/1), [8(11)](https://www.legislation.gov.uk/uksi/2005/606/regulation/8/11) (with [reg. 10](https://www.legislation.gov.uk/uksi/2005/606/regulation/10))
+
+[^key-62eb37fcf8643611975f6f82b4a8cc63]: Textual amendment: Sch. 4 para. 10 renumbered as Sch. 4 para. 10(1) (1.4.2005) by [The Communications (Television Licensing) (Amendment) Regulations 2005 (S.I. 2005/606)](https://www.legislation.gov.uk/uksi/2005/606), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/606/regulation/1/1), [8(12)](https://www.legislation.gov.uk/uksi/2005/606/regulation/8/12) (with [reg. 10](https://www.legislation.gov.uk/uksi/2005/606/regulation/10))
+
+[^key-4baf3fd0b73226fde4df00e39268e314]: Textual amendment: Words in Sch. 4 para. 10(1) omitted (1.4.2005) by virtue of [The Communications (Television Licensing) (Amendment) Regulations 2005 (S.I. 2005/606)](https://www.legislation.gov.uk/uksi/2005/606), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/606/regulation/1/1), [8(13)](https://www.legislation.gov.uk/uksi/2005/606/regulation/8/13) (with [reg. 10](https://www.legislation.gov.uk/uksi/2005/606/regulation/10))
+
+[^key-7f85914568f8cc585c8f6390c99c1802]: Textual amendment: Words in [Sch. 4 para. 10(1)](https://www.legislation.gov.uk/uksi/2004/692/schedule/4/paragraph/10/1/a/ii) substituted (1.9.2016) by [The Communications (Television Licensing) (Amendment) Regulations 2016 (S.I. 2016/704)](https://www.legislation.gov.uk/uksi/2016/704), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/704/regulation/1/1), [8(2)](https://www.legislation.gov.uk/uksi/2016/704/regulation/8/2)
+
+[^key-626dc950b26b18de1e5dbbaef676fbdc]: Textual amendment: Words in [Sch. 4 para. 10(1)](https://www.legislation.gov.uk/uksi/2004/692/schedule/4/paragraph/10/1/a/iv) inserted (1.9.2016) by [The Communications (Television Licensing) (Amendment) Regulations 2016 (S.I. 2016/704)](https://www.legislation.gov.uk/uksi/2016/704), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/704/regulation/1/1), [8(3)](https://www.legislation.gov.uk/uksi/2016/704/regulation/8/3)
+
+[^c9253911]: Marginal citation: An Act of Tynwald.
+
+[^c9253921]: Marginal citation: An Act of Tynwald.
+
+[^c9253931]: Marginal citation: An Act of Tynwald.
+
+[^key-527878100680fd53169dfcb79608bbab]: Textual amendment: Sch. 4 para. 10(2) inserted (1.4.2005) by [The Communications (Television Licensing) (Amendment) Regulations 2005 (S.I. 2005/606)](https://www.legislation.gov.uk/uksi/2005/606), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/606/regulation/1/1), [8(14)](https://www.legislation.gov.uk/uksi/2005/606/regulation/8/14) (with [reg. 10](https://www.legislation.gov.uk/uksi/2005/606/regulation/10))
+
+[^key-4e1f0b41aab459fb91f140a86a394c78]: Textual amendment: Sch. 4 para. 11 renumbered as Sch. 4 para. 11(1) (1.4.2005) by [The Communications (Television Licensing) (Amendment) Regulations 2005 (S.I. 2005/606)](https://www.legislation.gov.uk/uksi/2005/606), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/606/regulation/1/1), [8(15)](https://www.legislation.gov.uk/uksi/2005/606/regulation/8/15) (with [reg. 10](https://www.legislation.gov.uk/uksi/2005/606/regulation/10))
+
+[^key-1ee6eb43d3c0e67b03805dcd955e99be]: Textual amendment: [Sch. 4 para. 11(2)](https://www.legislation.gov.uk/uksi/2004/692/schedule/4/paragraph/11/2) inserted (1.4.2005) by [The Communications (Television Licensing) (Amendment) Regulations 2005 (S.I. 2005/606)](https://www.legislation.gov.uk/uksi/2005/606), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/606/regulation/1/1), [8(16)](https://www.legislation.gov.uk/uksi/2005/606/regulation/8/16) (with [reg. 10](https://www.legislation.gov.uk/uksi/2005/606/regulation/10))
+
+[^key-4b4c6971f27fb21d40ebd7407672239d]: Textual amendment: Words in Sch. 5 para. 1 substituted (1.4.2007) by [The Communications (Television Licensing) (Amendment) Regulations 2007 (S.I. 2007/718)](https://www.legislation.gov.uk/uksi/2007/718), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/718/regulation/1/1), [12(a)(i)](https://www.legislation.gov.uk/uksi/2007/718/regulation/12/a/i) (with [reg. 13](https://www.legislation.gov.uk/uksi/2007/718/regulation/13))
+
+[^key-66b286557d060646ac622fc5ce945f4e]: Textual amendment: Sum in [Sch. 5 para. 1](https://www.legislation.gov.uk/uksi/2004/692/schedule/5/paragraph/1) substituted (1.4.2026) by [The Communications (Television Licensing) (Amendment) Regulations 2026 (S.I. 2026/104)](https://www.legislation.gov.uk/uksi/2026/104), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/104/regulation/1/2), [5(2)(a)](https://www.legislation.gov.uk/uksi/2026/104/regulation/5/2/a) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2026/104/regulation/1/3))
+
+[^key-26a2872eba42709bb0d33bbc8288715b]: Textual amendment: Sum in [Sch. 5 para. 1](https://www.legislation.gov.uk/uksi/2004/692/schedule/5/paragraph/1) substituted (1.4.2026) by [The Communications (Television Licensing) (Amendment) Regulations 2026 (S.I. 2026/104)](https://www.legislation.gov.uk/uksi/2026/104), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/104/regulation/1/2), [5(2)(b)](https://www.legislation.gov.uk/uksi/2026/104/regulation/5/2/b) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2026/104/regulation/1/3))
+
+[^key-74f3fdb5c738872343cfdac4e660a2c4]: Textual amendment: Words in Sch. 5 para. 1 added (1.4.2007) by [The Communications (Television Licensing) (Amendment) Regulations 2007 (S.I. 2007/718)](https://www.legislation.gov.uk/uksi/2007/718), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/718/regulation/1/1), [12(a)(ii)](https://www.legislation.gov.uk/uksi/2007/718/regulation/12/a/ii) (with [reg. 13](https://www.legislation.gov.uk/uksi/2007/718/regulation/13))
+
+[^key-f480e58ff438460b45b71449164f5a9b]: Textual amendment: Sum in [Sch. 5 para. 3(1)(a)](https://www.legislation.gov.uk/uksi/2004/692/schedule/5/paragraph/3/1/a) substituted (1.4.2026) by [The Communications (Television Licensing) (Amendment) Regulations 2026 (S.I. 2026/104)](https://www.legislation.gov.uk/uksi/2026/104), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/104/regulation/1/2), [5(3)](https://www.legislation.gov.uk/uksi/2026/104/regulation/5/3) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2026/104/regulation/1/3))
+
+[^key-ea5258e76e766aab2df69bdd4bdc43da]: Textual amendment: Sum in [Sch. 5 para. 3(1)(b)](https://www.legislation.gov.uk/uksi/2004/692/schedule/5/paragraph/3/1/b) substituted (1.4.2026) by [The Communications (Television Licensing) (Amendment) Regulations 2026 (S.I. 2026/104)](https://www.legislation.gov.uk/uksi/2026/104), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/104/regulation/1/2), [5(4)](https://www.legislation.gov.uk/uksi/2026/104/regulation/5/4) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2026/104/regulation/1/3))

@@ -1,0 +1,176 @@
+---
+title: The Management of Offenders etc. (Scotland) Act 2005 (Disclosure of Information) Order 2010
+id: uksi/2010/912
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2010-03-23'
+text_date: '2012-08-01'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/uksi/2010/912
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2010/912/pdfs/uksiem_20100912_en.pdf
+- http://www.legislation.gov.uk/uksi/2010/912/pdfs/uksi_20100912_en.pdf
+- http://www.legislation.gov.uk/uksi/2010/912/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Management of Offenders etc. (Scotland) Act 2005 (Disclosure of Information) Order 2010
+
+> Text as at 2012-08-01.
+>
+> Extent: England, Wales, Scotland.
+
+*Extent: E+W+S*
+
+2010 No. 912
+
+Constitutional Law
+
+Devolution, Scotland
+
+Criminal Law
+
+The Management of Offenders etc. (Scotland) Act 2005 (Disclosure of Information) Order 2010
+
+Made
+
+23rd March 2010
+
+Laid before Parliament
+
+25th March 2010
+
+Coming into force
+
+1st July 2010
+
+The Secretary of State makes the following Order in exercise of the powers conferred by sections 104, 112(1) and 113(2) of the Scotland Act 1998[^f00001].
+
+## 1. Citation, commencement and extent[^key-dddefe5766ec0cdfc48b02359942dd19]
+
+(1) This Order may be cited as the Management of Offenders etc. (Scotland) Act 2005 (Disclosure of Information) Order 2010 and comes into force on 1st July 2010.
+
+(2) This Order extends to England and Wales and Scotland only.
+
+## 2. Interpretation[^key-3996185defdcef64fdd99140e7d76828]
+
+In this Order—
+
+- “the 2005 Act” means the Management of Offenders etc. (Scotland) Act 2005[^f00002];
+- [^key-e8f498a075c8231fd2da93d72d7104ce]...[^f00003]
+- “offender” means a person falling within any paragraph of section 10(1) of the 2005 Act; and
+- “responsible authority” has the meaning given in section 10(7) of the 2005 Act.
+
+## 3. Disclosure of information to the Secretary of State ...[^key-2e2ea6f388f8acb92d7e29c9303b3126][^key-a7f21d4c49116f14db04e9ee606199fc]
+
+(1) A responsible authority for the area of a local authority in Scotland may disclose information relating to an offender which it holds in connection with functions under section 10 of the 2005 Act to—
+
+- (a) the Secretary of State for the purpose referred to in paragraph (2), [^key-1701578c67d94a98f2939411056426eb]...
+- (b)[^key-d8a4aa8d8952f7b90fd5ad459379374f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) The Secretary of State may use information disclosed under paragraph (1)(a) for the purpose of managing risks posed by that offender which may arise in connection with the exercise of any function of the Secretary of State relating to—
+
+- (a) social security, [^key-8b73b46e4337869f5c5a92a723980acb]...
+- (b) employment and training or[^key-352188e4f4559d5ff3812fe7fbe8aa90]
+- (c) child support.
+
+(3)[^key-9d6a78f2ec3ffef986a071baafdf3669] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 4. Disclosure of information to responsible authorities[^key-75191389537e16fb8cefc128f1653c4e]
+
+(1) The Secretary of State may disclose to any responsible authority for the area of a local authority in Scotland in which the Secretary of State reasonably believes an offender to be living, information relating to that offender held in connection with the exercise of any function of the Secretary of State relating to—
+
+- (a) social security, [^key-8cca83b16ddd2ad4cba251a76aaf3f83]...
+- (b) employment and training or[^key-9eab9372721119f31d91546f6edaade0]
+- (c) child support.
+
+(2)[^key-db4499585fe89f8b635f17ffbcb75499] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) A responsible authority for the area of a local authority in Scotland may disclose information relating to an offender which it has received under this article to—
+
+- (a) any other responsible authority for the area of that local authority, and
+- (b) any person with whom the responsible authorities for that area are required by section 10(3) of the 2005 Act to act in co-operation.
+
+(4) A responsible authority for the area of a local authority in Scotland may disclose information relating to an offender which it has received under this article to any responsible authority for the area of another local authority in Scotland if it reasonably believes that the offender—
+
+- (a) has moved, or intends to move, to live in the area of the other local authority on a temporary or permanent basis;
+- (b) works in the area of the other local authority; or
+- (c) visits or travels to the area of the other local authority in circumstances (including the frequency or duration of the visits) which make it necessary or desirable to disclose the information.
+
+(5) Information may be disclosed to a responsible authority for the area of a local authority in Scotland under paragraphs (1) to (4) if the responsible authority has responsibility for any part of that local authority area.
+
+(6) Information may be disclosed and used under paragraphs (1) to (4) only for purposes connected with the establishment and implementation of arrangements under section 10 of the 2005 Act in relation to the offender to whom the information relates.
+
+Ann McKechin
+
+Parliamentary Under Secretary of State Scotland Office
+
+Ministry of Justice
+
+Dover House
+
+London
+
+23rd March 2010
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order makes provision in consequence of the Management of Offenders etc. (Scotland) Act 2005 (“the 2005 Act”).
+
+Under section 10 of the 2005 Act, responsible authorities (which are the Chief Constable of a police force, local authorities, Health Boards or Special Health Boards and the Scottish Ministers in relation to functions exercised by the Scottish Prison Service) must jointly establish arrangements for the assessment and management of the risks posed in each local authority area by certain offenders. Under section 10 responsible authorities and persons specified under secondary legislation for the purpose of section 10, have a duty to co-operate with each other in the establishment and implementation of the arrangements under section 10.
+
+Article 3 of the Order enables a responsible authority for the area of a local authority in Scotland to disclose to the Secretary of State or Child Maintenance and Enforcement Commission (“the Commission”), as appropriate, information about an offender which the authority holds for the purposes of its functions under section 10 of the 2005 Act. The information may only be disclosed in order that the Secretary of State can manage the risks posed by the offender in relation to the exercise of the Secretary of State’s functions in relation to social security, or employment and training, and for the Commission to manage the risks posed in relation to the exercise of its functions. The Secretary of State and the Commission may only use the information for those respective purposes.
+
+Article 4(1) and (2) enables the Secretary of State and the Commission to disclose information relating to an offender to any responsible authority for the area of a local authority in Scotland in which the Secretary of State or the Commission, as appropriate, reasonably believes the offender to be living. The information may be disclosed for the purpose of enabling the authority to use the information in connection with the establishment and implementation in their area of arrangements under section 10 of the 2005 Act in relation to the offender.
+
+Article 4(3) enables a responsible authority which receives information under article 4 to disclose the information to a responsible authority which has responsibility in the same local authority area. It also enables the responsible authority to disclose the information to another person with whom the responsible authorities in that area are required by section 10(3) to co-operate.
+
+Article 4(4) enables a responsible authority to disclose information received by it under article 4, to a responsible authority in the area of another local authority in Scotland where it reasonably believes the offender has moved, or intends to move, to live on a temporary or permanent basis, or works. Information may also be disclosed to a responsible authority for an area of a local authority in Scotland which an offender visits, where the disclosing authority reasonably believes that disclosure is necessary or desirable because of the circumstances of the visits.
+
+Article 4(5) makes it clear that information may be disclosed to a responsible authority under Article 4 if it has responsibility for any part of a local authority area.
+
+Article 4(6) requires that disclosure may only be made and the information may only be used under paragraphs (1) to (4) of article 4 for purposes connected with the establishment and implementation of arrangements under section 10 of the 2005 Act in relation to the offender to whom the information relates.
+
+A full regulatory impact assessment has not been produced for this instrument as no impact on the private or voluntary sectors is foreseen.
+
+## Annotations
+
+[^f00001]: Footnote: [1998 c.46](https://www.legislation.gov.uk/ukpga/1998/46).
+
+[^key-dddefe5766ec0cdfc48b02359942dd19]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2010/912/article/1) in force at 1.7.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/912/article/1/1)
+
+[^key-3996185defdcef64fdd99140e7d76828]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2010/912/article/2) in force at 1.7.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/912/article/1/1)
+
+[^f00002]: Footnote: [2005 asp 14](https://www.legislation.gov.uk/asp/2005/14).
+
+[^key-e8f498a075c8231fd2da93d72d7104ce]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2010/912/article/2) omitted (1.8.2012) by virtue of [The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007)](https://www.legislation.gov.uk/uksi/2012/2007), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2007/article/1/2), [Sch. para. 124(2)](https://www.legislation.gov.uk/uksi/2012/2007/schedule/paragraph/124/2)
+
+[^f00003]: Footnote: the Child Maintenance and Enforcement Commission was established by section 1 of the Child Maintenance and Other Payments Act [2008 (c.6)](https://www.legislation.gov.uk/ukpga/2008/6).
+
+[^key-2e2ea6f388f8acb92d7e29c9303b3126]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2010/912/article/3) in force at 1.7.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/912/article/1/1)
+
+[^key-a7f21d4c49116f14db04e9ee606199fc]: Textual amendment: Words in [article 3](https://www.legislation.gov.uk/uksi/2010/912/article/3) heading omitted (1.8.2012) by virtue of [The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007)](https://www.legislation.gov.uk/uksi/2012/2007), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2007/article/1/2), [Sch. para. 124(3)(a)](https://www.legislation.gov.uk/uksi/2012/2007/schedule/paragraph/124/3/a)
+
+[^key-1701578c67d94a98f2939411056426eb]: Textual amendment: Word in [art. 3(1)(a)](https://www.legislation.gov.uk/uksi/2010/912/article/3/1/a) omitted (1.8.2012) by virtue of [The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007)](https://www.legislation.gov.uk/uksi/2012/2007), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2007/article/1/2), [Sch. para. 124(3)(b)](https://www.legislation.gov.uk/uksi/2012/2007/schedule/paragraph/124/3/b)
+
+[^key-d8a4aa8d8952f7b90fd5ad459379374f]: Textual amendment: [Art. 3(1)(b)](https://www.legislation.gov.uk/uksi/2010/912/article/3/1/b) omitted (1.8.2012) by virtue of [The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007)](https://www.legislation.gov.uk/uksi/2012/2007), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2007/article/1/2), [Sch. para. 124(3)(c)](https://www.legislation.gov.uk/uksi/2012/2007/schedule/paragraph/124/3/c)
+
+[^key-8b73b46e4337869f5c5a92a723980acb]: Textual amendment: Word in [art. 3(2)(a)](https://www.legislation.gov.uk/uksi/2010/912/article/3/2/a) omitted (1.8.2012) by virtue of [The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007)](https://www.legislation.gov.uk/uksi/2012/2007), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2007/article/1/2), [Sch. para. 124(3)(d)](https://www.legislation.gov.uk/uksi/2012/2007/schedule/paragraph/124/3/d)
+
+[^key-352188e4f4559d5ff3812fe7fbe8aa90]: Textual amendment: [Art. 3(2)(c)](https://www.legislation.gov.uk/uksi/2010/912/article/3/2/c) and word inserted (1.8.2012) by [The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007)](https://www.legislation.gov.uk/uksi/2012/2007), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2007/article/1/2), [Sch. para. 124(3)(e)](https://www.legislation.gov.uk/uksi/2012/2007/schedule/paragraph/124/3/e)
+
+[^key-9d6a78f2ec3ffef986a071baafdf3669]: Textual amendment: [Art. 3(3)](https://www.legislation.gov.uk/uksi/2010/912/article/3/3) omitted (1.8.2012) by virtue of [The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007)](https://www.legislation.gov.uk/uksi/2012/2007), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2007/article/1/2), [Sch. para. 124(3)(f)](https://www.legislation.gov.uk/uksi/2012/2007/schedule/paragraph/124/3/f)
+
+[^key-75191389537e16fb8cefc128f1653c4e]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2010/912/article/4) in force at 1.7.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/912/article/1/1)
+
+[^key-8cca83b16ddd2ad4cba251a76aaf3f83]: Textual amendment: Word in [art. 4(1)(a)](https://www.legislation.gov.uk/uksi/2010/912/article/4/1/a) omitted (1.8.2012) by virtue of [The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007)](https://www.legislation.gov.uk/uksi/2012/2007), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2007/article/1/2), [Sch. para. 124(4)(a)](https://www.legislation.gov.uk/uksi/2012/2007/schedule/paragraph/124/4/a)
+
+[^key-9eab9372721119f31d91546f6edaade0]: Textual amendment: [Art. 4(1)(c)](https://www.legislation.gov.uk/uksi/2010/912/article/4/1/c) and word inserted (1.8.2012) by [The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007)](https://www.legislation.gov.uk/uksi/2012/2007), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2007/article/1/2), [Sch. para. 124(4)(b)](https://www.legislation.gov.uk/uksi/2012/2007/schedule/paragraph/124/4/b)
+
+[^key-db4499585fe89f8b635f17ffbcb75499]: Textual amendment: [Art. 4(2)](https://www.legislation.gov.uk/uksi/2010/912/article/4/2) omitted (1.8.2012) by virtue of [The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007)](https://www.legislation.gov.uk/uksi/2012/2007), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2007/article/1/2), [Sch. para. 124(4)(c)](https://www.legislation.gov.uk/uksi/2012/2007/schedule/paragraph/124/4/c)

@@ -1,0 +1,503 @@
+---
+title: The Welfare Reform Act 2012 (Commencement No. 13 and Transitional and Transitory Provisions) Order 2013
+id: uksi/2013/2657
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2013-10-14'
+text_date: '2020-08-04'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2013/2657
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2013/2657/pdfs/uksi_20132657_310518_en.pdf
+- http://www.legislation.gov.uk/uksi/2013/2657/pdfs/uksi_20132657_300916_en.pdf
+- http://www.legislation.gov.uk/uksi/2013/2657/pdfs/uksi_20132657_310815_en.pdf
+- http://www.legislation.gov.uk/uksi/2013/2657/pdfs/uksi_20132657_280215_en.pdf
+- http://www.legislation.gov.uk/uksi/2013/2657/pdfs/uksi_20132657_301114_en.pdf
+- http://www.legislation.gov.uk/uksi/2013/2657/pdfs/uksi_20132657_en.pdf
+- http://www.legislation.gov.uk/uksi/2013/2657/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Welfare Reform Act 2012 (Commencement No. 13 and Transitional and Transitory Provisions) Order 2013
+
+> Text as at 2020-08-04.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2013 No. 2657 (C. 107)
+
+Social Security
+
+The Welfare Reform Act 2012 (Commencement No. 13 and Transitional and Transitory Provisions) Order 2013
+
+Made
+
+14th October 2013
+
+The Secretary of State, in exercise of the powers conferred by section 150(3) and (4)(a), (b)(i) and (c) of the Welfare Reform Act 2012 [^c2191910], makes the following Order:[^key-a6d6873f0c2bbb35e749b089eaf68eda][^key-5819c1ba30d15ffd452d43eddc450bd3][^key-cc9e8de71990fcef7238a5e86e212f4e][^key-70e0a25dd5cdec994a5df5eaa42bb7ff][^key-f839d1e3db3b78775b59294834eea946][^key-4f89c9705ace813edfd5e746156c13df]
+
+## 1. Citation
+
+This Order may be cited as the Welfare Reform Act 2012 (Commencement No. 13 and Transitional and Transitory Provisions) Order 2013.
+
+## 2. Interpretation[^key-8e2a90d7d7d39156ffe247a67a7ad8d8][^key-4683bf7f032370412dbce3c6ee94e50b]
+
+(1) In this Order—
+
+- “**the Act**” means the Welfare Reform Act 2012;
+- “**the amending provisions**” means the provisions referred to in article 4(1)(a) to (c) of the No. 9 Order (day appointed for the abolition of income-related employment and support allowance and income-based jobseeker's allowance);
+- “claimant”—[^key-3f7688772b2c27969e5de346ea2ae25c]
+  - (a) in relation to an employment and support allowance, has the same meaning as in Part 1 of the Welfare Reform Act 2007, save as mentioned in article 5(1A) of the No. 9 Order as applied by article 4(7);
+  - (b) in relation to a jobseeker’s allowance, has the same meaning as in the Jobseekers Act 1995 (as it applies apart from the amendments made by Part 1 of Schedule 14 to the Act that remove references to an income-based jobseeker’s allowance), save as mentioned in article 5(1A) of the No. 9 Order as applied by article 4(7);
+  - (c) in relation to universal credit, has the same meaning as in Part 1 of the Act;
+- “**employment and support allowance**” means an employment and support allowance under Part 1 of the Welfare Reform Act 2007 [^c2191911];
+- “First-tier Tribunal” has the same meaning as in the Social Security Act 1998;[^key-2da127b7644c08addf60803539c6ffba]
+- “gateway conditions” means the conditions specified in Schedule 5 to the[^key-59dad3c3261ab862a56af9af274fb62f] No. 9 Order
+- “**jobseeker's allowance**” means a jobseeker's allowance under the Jobseekers Act 1995 [^c2191912];
+- “joint claimants” in relation to universal credit, has the same meaning as in Part 1 of[^key-1bd2e3a9b5b54913e57f616d79ed13d9] the Act ;
+- “**No. 4 relevant districts**” means the postcode part-districts specified in the Schedule;
+- “**the No. 9 Order**” means the Welfare Reform Act 2012 (Commencement No. 9 and Transitional and Transitory Provisions and Commencement No. 8 and Savings and Transitional Provisions (Amendment)) Order 2013 [^c2191913].
+- “single claimant”, in relation to universal credit, has the same meaning as in Part 1 of the Act ;
+- “Upper Tribunal” has the same meaning as in the Social Security Act 1998.
+
+(2) For the purposes of this Order, the Universal Credit, Personal Independence Payment, Jobseeker’s Allowance and Employment and Support Allowance (Claims and Payments) Regulations 2013 apply for the purpose of deciding—
+
+- (a) whether a claim for universal credit is made; and
+- (b) the date on which such a claim is made.
+
+(3)[^key-59dad3c3261ab862a56af9af274fb62f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4)[^key-59dad3c3261ab862a56af9af274fb62f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 3. Day appointed for commencement of the universal credit provisions in Part 1 of the Act[^key-272f5248acc19ee765cf50e7bb012638][^key-c071b179f2dd6d7ffe881b12684e4c57]
+
+(1) The day appointed for the coming into force of the provisions of the Act listed in Schedule 2 to the No. 9 Order, in so far as they are not already in force, in relation to the case of a claim referred to in paragraph (2), and any award that is made in respect of the claim, is the day appointed in accordance with paragraph (3).
+
+(2)[^key-9dee10356fcc583a5c01a905fd8bb864] The claims referred to are—
+
+- (a)[^key-09c3b5a17a563968dfd2a8f6a70c3107][^key-fbc243074ab203c169ecdf485dbfb09c][^key-84c8b257f414f857342617497c778254][^key-c167ed53c66b9b21007e1552c6bfaee8] a claim for universal credit where, on the date on which the claim is made, the claimant resides in one of the No. 4 relevant districts and meets the gateway conditions; and
+- (b) a claim for universal credit where—[^key-a9c1fabbd2bbed75e9197cf55fc17b40]
+  - (i) in the case of a single claimant, the claimant gives incorrect information regarding the claimant residing in a No. 4 relevant district or meeting the gateway conditions and the claimant does not reside in such a district or does not meet the gateway conditions on the date on which the claim is made;
+  - (ii) in the case of joint claimants, either or both of the joint claimants gives or give incorrect information regarding his or her (or their) residing in such a district or meeting the gateway conditions and one or both of them does not or do not reside in such a district or does not or do not meet those conditions on the date on which the claim is made; and
+  - (iii) after a decision is made that the single claimant is, or the joint claimants are, entitled to universal credit and one or more payments have been made in respect of the single claimant or the joint claimants, the Secretary of State discovers that incorrect information has been given regarding residence or meeting the gateway conditions.
+
+(3) The day appointed in relation to the case of a claim referred to in paragraph (2), and any award that is made in respect of the claim, is the first day of the period in respect of which the claim is made [^key-9f700dfdacd168a53368388c8b6e677f]....
+
+(4)[^key-9dee10356fcc583a5c01a905fd8bb864] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5) Article 3(6) of the No. 9 Order applies for the purposes of paragraph (3) as it applies for the purposes of article 3(4)(a) of the No. 9 Order.
+
+(6)[^key-97455601f6408f14330a18e3b197cb29] Article 3A of the No. 9 Order applies in connection with a claim for universal credit where a single claimant, or, as the case may be, either or both of joint claimants, gives incorrect information regarding his or her (or their) residing in a No. 4 relevant district or meeting the gateway conditions, as it applies in connection with the giving of incorrect information regarding a claimant residing in a relevant district (as defined in the No. 9 Order) or meeting the gateway conditions.
+
+## 4. Day appointed for the abolition of income-related employment and support allowance and income-based jobseeker's allowance[^key-eb6ee2729727a35775c7c9fe5ad50256][^key-e04c89edb9116d8c85f9219141e1d70a][^key-01678734181b445c2a7e737e140e110d][^key-b474cbb0106041b8cd4be113f63d5c46]
+
+(1) The day appointed for the coming into force of the amending provisions, in relation to the case of a claim referred to in paragraph (2) and any award that is made in respect of the claim, is the day appointed in accordance with paragraph (3).
+
+(2) The claims referred to are—
+
+- (a)[^key-f9d5aba3284aad68c769bebdb6f191e4][^key-f9ed1255f8d3383af5683006133be79a][^key-310a35cf57742bb993b8d6641036a904][^key-3d8d5a04a2d58bee335a4f5d1710baeb] a claim for universal credit, an employment and support allowance or a jobseeker’s allowance where, on the date on which the claim is made or treated as made[^key-308c393bdda9fcbfb497d05d752278e6], the claimant—
+  - (i) resides in one of the No. 4 relevant districts; and
+  - (ii) meets the gateway conditions;
+- (b) a claim for universal credit where—[^key-4f0e0ed24f77096459772883e7eba3ba]
+  - (i) in the case of a single claimant, the claimant gives incorrect information regarding the claimant residing in a No. 4 relevant district or meeting the gateway conditions and does not reside in such a district or does not meet the gateway conditions on the date on which the claim is made;
+  - (ii) in the case of joint claimants, either or both of the joint claimants gives or give incorrect information regarding his or her (or their) residing in such a district or meeting those conditions and one or both of them does not or do not reside in such a district or does not or do not meet those conditions on the date on which the claim is made; and
+  - (iii) after a decision is made that the single claimant is, or the joint claimants are, entitled to universal credit and one or more payments have been made in respect of the single claimant or the joint claimants, the Secretary of State discovers that incorrect information has been given regarding residence or meeting the gateway conditions;
+- (c) a claim for an employment and support allowance or a jobseeker’s allowance other than one referred to in sub-paragraph (a) that is made or treated as made during the relevant period by a single claimant of universal credit or by either of two joint claimants of universal credit who has or have made a claim for universal credit within sub-paragraph (a) or (b).
+
+(3) The day appointed in relation to the case of a claim referred to in paragraph (2), and any award that is made in respect of the claim, is the first day of the period in respect of which the claim is made.
+
+(4) For the purposes of paragraph (2)(c), “relevant period” means, in relation to a claim for universal credit referred to in paragraph (2)(a) or (b), any UC claim period, and any period subsequent to any UC claim period in respect of which the claimant is entitled to an award of universal credit in respect of the claim.
+
+(5) For the purposes of paragraph (4), a “ UC claim period” is a period when—
+
+- (a) a claim for universal credit as referred to in paragraph (2)(a), (b)(i) or (ii) has been made but a decision has not yet been made on the claim; or
+- (b) a decision has been made that the claimant is not entitled to universal credit and—
+  - (i) the Secretary of State is considering whether to revise that decision under section 9 of the Social Security Act 1998, whether on an application made for that purpose, or on the Secretary of State’s own initiative; or
+  - (ii) the claimant has appealed against that decision to the First-tier Tribunal and that appeal or any subsequent appeal to the Upper Tribunal or to a court has not been finally determined.
+
+(6)[^key-88c36a70b2b38f40f8f0bad5fe64a9cf] Paragraphs (6) and (7) of article 4 of the No. 9 Order apply in relation to the case of a claim for universal credit referred to in paragraph (2) (and any award that is made in respect of the claim) as they apply in relation to the case of a claim for universal credit referred to in sub-paragraphs (a) and (b) of article 4(2) of the No. 9 Order (and any award that is made in respect of the claim).
+
+(7) Paragraphs (1) to (1B) of article 5 of the[^key-6a29ca5817e16652fbdbfb669b35d5cb] No. 9 Order apply for the purposes of paragraph (2)(a) as they apply for the purposes of article 4(2)(a) of the No. 9 Order.
+
+(8) Paragraphs (5) to (7) of article 5 of the No. 9 Order apply for the purposes of sub-paragraphs (a) and (c) of paragraph (2) as they apply for the purposes of sub-paragraphs (a) and (g) of article 4(2) of the No. 9 Order .
+
+(9) Article 5(8) of the No. 9 Order applies for the purposes of paragraph (3) as it applies for the purposes of article 4(3)(a) of the No. 9 Order.
+
+## 5. Amendment of the No. 9 Order
+
+With effect from 29th October 2013—
+
+- (a) in article 11(2)(f)(ii) of the No. 9 Order, for “paragraph (2)(b)(iii)” substitute “ paragraph (4)(c) ”; and
+- (b) in article 5 of the Welfare Reform Act 2012 (Commencement No. 11 and Transitional and Transitory Provisions and Commencement No. 9 and Transitional and Transitory Provisions (Amendment)) Order 2013 [^c2191915], the reference to article 11 of the No. 9 Order is a reference to article 11 as amended by paragraph (a).
+
+## 6. Application of the No. 9 Order
+
+Articles[^M_F_95591b68-d85a-4882-ecfc-09bfc6d3a6b1] 9 to 22 of the No. 9 Order [^c2191916][^key-dc35e8e623050fc0cc0202b622729ed6] apply in connection with the coming into force of the amending provisions in relation to the case of a claim referred to in article 4(2), and any award made in respect of the claim, as they apply in connection with the coming into force of the amending provisions in relation to the case of a claim referred to in sub-paragraphs (a), (b) and (g) of article 4(2)[^key-ee4abc7214dd27daf9fedca47b239053] of the No.9 Order and any award made in respect of the claim.
+
+Signed by authority of the Secretary of State for Work and Pensions
+
+Freud
+
+Parliamentary Under Secretary of State
+
+Department for Work and Pensions
+
+## SCHEDULE — The No. 4 relevant districts
+
+Article 2(1)
+
+**1.** M35 5.
+
+**2.** W6 0.
+
+**3.** W6 6 to W6 9.
+
+**4.** W14 0.
+
+**5.** W14 4.
+
+**6.** W14 8 and W14 9.
+
+**7.** WN1 3.
+
+*(This note is not part of the Order)*
+
+This Order brings into force provisions of the Welfare Reform Act 2012 (c.5) (“**the Act**”) that relate to universal credit (“UC”) and the abolition of income-related employment and support allowance and income-based jobseeker's allowance, by reference to the cases set out in articles 3 and 4. It also amends a transitional provision in the Welfare Reform Act 2012 (Commencement No. 9 and Transitional and Transitory Provisions and Commencement No. 8 and Savings and Transitional Provisions (Amendment)) Order 2013 (S.I. 2013/ 983, C.41) (“**the No. 9 Order**”).
+
+Article 3 brings into force provisions relating to UC in Part 1 of the Act, as set out in Schedule 2 to the No. 9 Order (“**the UC provisions**”) in relation to two different cases.
+
+The case in article 3(2)(a) relates to the making of a claim for UC on or after 28th October 2013 in respect of a period that begins on or after 28th October 2013 where a person resides in a “No. 4 relevant district” at the time that the claim is made (the “No. 4 relevant districts” are described in the Schedule). Other conditions (“Pathfinder Group conditions”) for making a claim for UC are set out in the Universal Credit (Transitional Provisions) Regulations 2013 (S.I. 2013/386).
+
+The case in article 3(2)(b) relates to the making of a claim for UC where a person claims UC on or after 28th October 2013 in respect of a period that begins on or after 28th October 2013 and provides incorrect information as to their residence in a No. 4 relevant district, but this is only discovered once payments of UC have been made.
+
+Under article 3(3), the day appointed for the commencement of the UC provisions in the above cases is the first day of the period in respect of which the claim is made or treated as made.
+
+Article 3(4) and (5) applies the provisions of article 3(5) and (6) of the No. 9 Order to the cases in article 3(2) of this Order.
+
+Article 4 brings into force provisions relating to the abolition of income-related employment and support allowance and of income-based jobseeker's allowance (“**the amending provisions**”), in relation to two different cases.
+
+Under article 4(2)(a), the amending provisions come into force in relation to a claim for UC, an employment and support allowance (“ESA”) or a jobseeker's allowance (“JSA”), and any award that is made in respect of the claim, where a person claims UC, ESA or JSA on or after 28th October 2013 in respect of a period that begins on or after 28th October 2013 and, at the time that the claim is made, resides in a No. 4 relevant district and meets the Pathfinder Group conditions.
+
+Under article 4(2)(b), the amending provisions come into force in relation to a claim for UC and any award that is made in respect of the claim where a person claims UC on or after 28th October 2013 in respect of a period that begins on or after 28th October 2013 and provides incorrect information as to their residence in a No. 4 relevant district, or as to their meeting the Pathfinder Group conditions, but this is only discovered once payments of UC have been made.
+
+Under article 4(3), the day appointed for the coming into force of the amending provisions in the above cases is the first day of the period in respect of which the claim is made or treated as made.
+
+Article 4(4) to (7) applies the provisions of article 4(4) and (5) and article 5 of the No. 9 Order to the cases in article 4(2).
+
+Article 5 amends article 11(2)(f)(ii) of the No. 9 Order (transition from new style ESA) consequent on a technical amendment made to regulation 30 of the Employment and Support Allowance Regulations 2008 (S.I. 2008/794) by the Social Security (Miscellaneous Amendments) (No. 3) Regulations 2013 (S.I. 2013/2536).
+
+Article 6 provides that articles 6 and 9 to 22 of the No. 9 Order apply in relation to the case of a claim referred to in article 4(2), and any award made in respect of the claim, as they apply in relation to the case of a claim referred to in article 4(2)(a) and (b) of the No. 9 Order, and any award made in respect of the claim.
+
+*(This note is not part of the Order)*
+
+The following provisions of the Welfare Reform Act 2012 (c.5) were brought into force by a Statutory Instrument which was made before this Order was made.
+
+| *Provision* | *Date of commencement* | *S.I. Number* |
+| --- | --- | --- |
+| Section 1 (partially) | 29th April 2013 | [^c2191917]2013/983 |
+| Section 1 (partially) | 1st July 2013 | 2013/1511 |
+| Section 1 (partially) | 29th July 2013 | 2013/1511 |
+| Section 2(1) (partially) | As section 1 | As section 1 |
+| Section 2(2) | 25th February 2013 | 2013/358 |
+| Section 3 (partially) | As section 1 | As section 1 |
+| Section 4(1) and (4) (partially) | As section 1 | As section 1 |
+| Section 4(2), (3) and (5) to (7) | 25th February 2013 | 2013/358 |
+| Section 5 (partially) | 25th February 2013 | 2013/358 |
+| Section 5 (partially) | 29th April 2013 | 2013/983 |
+| Section 5 (partially) | 1st July 2013 | 2013/1511 |
+| Section 5 (partially) | 29th July 2013 | 2013/1511 |
+| Section 6(1)(a) and (3) (partially) | 25th February 2013 | 2013/358 |
+| Section 6 (partially) | As section 1 | As section 1 |
+| Section 7(1) and (4) (partially) | As section 1 | As section 1 |
+| Section 7(2) and (3) | 25th February 2013 | 2013/358\` |
+| Section 8 (partially) | As section 1 | As section 1 |
+| Section 8(3) (partially) | 25th February 2013 | 2013/358 |
+| Section 9(1) (partially) | As section 1 | As section 1 |
+| Sections 9(2) and (3), 10(2) to (5) and 11(3) to (5) | 25th February 2013 | 2013/358 |
+| Section 10(1) (partially) | As section 1 | As section 1 |
+| Section 11(1) and (2) (partially) | As section 1 | As section 1 |
+| Section 12(1) (partially) | 25th February 2013 | 2013/358 |
+| Section 12(1) and (2) (partially) | As section 1 | As section 1 |
+| Section 12(3) and (4) | 25th February 2013 | 2013/358 |
+| Section 13 (partially) | As section 1 | As section 1 |
+| Section 14 (partially) | As section 1 | As section 1 |
+| Section 14(5) (partially) | 25th February 2013 | 2013/358 |
+| Section 15(1) and (4) (partially) | As section 1 | As section 1 |
+| Sections 15(2) and (3) and 17(3)(f) | 25th February 2013 | 2013/358 |
+| Section 16 (partially) | As section 1 | As section 1 |
+| Section 17(1), (2), (3)(a) to (e), (4) and (5) (partially) | As section 1 | As section 1 |
+| Section 17(4) and (5) (partially) | 25th February 2013 | 2013/358 |
+| Section 18 (partially) | As section 1 | As section 1 |
+| Section 18(3) and (5) (partially) | 25th February 2013 | 2013/358 |
+| Section 19(1), (2)(a) to (c), (5) and (6) (partially) | As section 1 | As section 1 |
+| Section 19(2)(d), (3) and (4) | 25th February 2013 | 2013/358 |
+| Section 20(1) (partially) | 25th February 2013 | 2013/358 |
+| Section 20 (partially) | As section 1 | As section 1 |
+| Section 21 (partially) | As section 1 | As section 1 |
+| Section 22 (partially) | As section 1 | As section 1 |
+| Section 22(2) (partially) | 25th February 2013 | 2013/358 |
+| Section 23 (partially) | As section 1 | As section 1 |
+| Sections 24(1), (5) and (6) and 25 | 25th February 2013 | 2013/358 |
+| Section 24(2), (3) and (4) (partially) | As section 1 | As section 1 |
+| Section 26(1) to (5) (partially) | As section 1 | As section 1 |
+| Section 26(2)(a) (partially) | 25th February 2013 | 2013/358 |
+| Sections 26(6) to (8), 27(4), (5) and (9) and 28 | 25th February 2013 | 2013/358 |
+| Section 27(1) to (3) and (6) to (8) (partially) | As section 1 | As section 1 |
+| Section 29 | 29th April 2013 | 2013/983 |
+| Sections 30 and 31 (partially) | 25th February 2013 | 2013/358 |
+| Section 31 (partially) | 1st April 2013 | 2013/358 |
+| Section 31 (partially) | 29th April 2013 | 2013/358 |
+| Section 31 (partially) | 29th April 2013 | 2013/983 |
+| Section 32 | 25th February 2013 | 2013/358 |
+| Section 33(1)(a) and (b), (2) and (3) (partially) | As section 1 | As section 1 |
+| Section 33(1)(e) | 1st April 2013 | 2013/358 |
+| Sections 33(3) (partially) | 1st April 2013 | 2013/358 |
+| Section 35 (partially) | 25th February 2013 | 2013/358 |
+| Section 35 (partially) | 29th April 2013 | 2013/983 |
+| Section 36 (partially) | 25th February 2013 | 2013/358 |
+| Sections 37(3) to (7) and 39(3)(a) | 25th February 2013 | 2013/358 |
+| Section 37 (for all remaining purposes) | 29th April 2013 | 2013/983 |
+| Section 38 | 29th April 2013 | 2013/983 |
+| Section 39 (for all remaining purposes) | 29th April 2013 | 2013/983 |
+| Sections 40, 42 and 43 | 25th February 2013 | 2013/358 |
+| Section 44(1) (partially) | As section 1 | As section 1 |
+| Section 44(2) (partially) | As section 1 | As section 1 |
+| Section 44(5) | 10th June 2012 | 2012/1246 |
+| Section 45 | 8th October 2012 | 2012/2530 |
+| Section 46(1) and (3) (partially) | 10th June 2012 | 2012/1246 |
+| Section 46(1) (partially) | 22nd October 2012 | 2012/2530 |
+| Section 46(2) | 10th June 2012 | 2012/1246 |
+| Section 46(3) (for all remaining purposes) | 22nd October 2012 | 2012/2530 |
+| Section 46(4) | 22nd October 2012 | 2012/2530 |
+| Section 47 | 20th March 2012 | 2012/863 |
+| Section 48 (partially) | 22nd October 2012 | 2012/2530 |
+| Section 49(1) and (3) (partially) | 25th February 2013 | 2013/358 |
+| Section 49(1), (2) and (3) to (5) (partially) | As section 1 | As section 1 |
+| Section 49(6) | 25th February 2013 | 2013/358 |
+| Section 51 (partially) | 20th March 2012 | 2012/863 |
+| Section 51 (for all remaining purposes) | 1st May 2012 | 2012/863 |
+| Sections 52 and 53 | 1st May 2012 | 2012/863 |
+| Section 54(1) (partially) | 25th February 2013 | 2013/358 |
+| Section 54(1) and (2) (partially) | As section 1 | As section 1 |
+| Section 54(6) | 25th February 2013 | 2013/358 |
+| Section 55 | 3rd December 2012 | 2012/2530 |
+| Section 56 | 26th November 2012 | 2012/2530 |
+| Section 57(1) and (2) (partially) | 25th February 2013 | 2013/358 |
+| Section 57(1), (2), (4), (5) and (9) (partially) | As section 1 | As section 1 |
+| Section 57(6) | 25th February 2013 | 2013/358 |
+| Section 58(1) and (2) | 20th March 2012 | 2012/863 |
+| Section 64 (partially) | 30th October 2012 | 2012/2530 |
+| Section 64 (for all remaining purposes) | 5th December 2012 | 2012/2530 |
+| Section 65 | 5th December 2012 | 2012/2530 |
+| Section 66 (partially) | 30th October 2012 | 2012/2530 |
+| Section 66 (partially) | 31st October 2013 | 2013/2534 |
+| Sections 67 and 68 | 5th December 2012 | 2012/2530 |
+| Section 69 (partially) | 27th November 2012 | 2012/2946 |
+| Section 69 (for all remaining purposes) | 1st January 2013 | 2012/2946 |
+| Section 70(1) and (3) to (10) | 1st April 2013 | 2012/3090 |
+| Section 70(2) | 1st August 2013 | 2012/3090 |
+| Section 73 | 1st April 2013 | 2012/3090 |
+| Section 77(3) (partially) | 25th February 2013 | 2013/358 |
+| Section 77(1) to (3) (partially) | 8th April 2013 | 2013/358 |
+| Section 77(1) to (3) (for all remaining purposes) | 10th June 2013 | 2013/1250 |
+| Section 78(1), (2), (5) and (6) (partially) | 8th April 2013 | 2013/358 |
+| Section 78(1), (2), (5) and (6) (for all remaining purposes) | 10th June 2013 | 2013/1250 |
+| Section 78(3) and (4) | 25th February 2013 | 2013/358 |
+| Section 79(1), (2), (5) and (6) (partially) | 8th April 2013 | 2013/358 |
+| Section 79(1), (2), (5) and (6) (for all remaining purposes) | 10th June 2013 | 2013/1250 |
+| Section 79(3), (4) and (7) | 25th February 2013 | 2013/358 |
+| Sections 80 and 81 | 25th February 2013 | 2013/358 |
+| Section 82 (partially) | 8th April 2013 | 2013/358 |
+| Section 82 (for all remaining purposes) | 10th June 2013 | 2013/1250 |
+| Section 83(3) (partially) | 25th February 2013 | 2013/358 |
+| Section 83(1) to (3) and 84 (partially) | 8th April 2013 | 2013/358 |
+| Section 83(1) to (3) and 84 (for all remaining purposes) | 10th June 2013 | 2013/1250 |
+| Sections 85 and 86 | 25th February 2013 | 2013/358 |
+| Section 87 (partially) | 25th February 2013 | 2013/358 |
+| Section 87 (partially) | 8th April 2013 | 2013/358 |
+| Section 87 (for all remaining purposes) | 10th June 2013 | 2013/1250 |
+| Sections 88 and 89 (partially) | 8th April 2013 | 2013/358 |
+| Sections 88 and 89 (for all remaining purposes) | 10th June 2013 | 2013/1250 |
+| Section 91 (partially) | 25th February 2013 | 2013/358 |
+| Section 91 (partially) | 8th April 2013 | 2013/358 |
+| Section 91 (partially) | 10th June 2013 | 2013/1250 |
+| Sections 92, 93 and 94 | 25th February 2013 | 2013/358 |
+| Section 95 (partially) | 25th February 2013 | 2013/358 |
+| Section 95 (partially) | 8th April 2013 | 2013/358 |
+| Section 95 (for all remaining purposes) | 10th June 2013 | 2013/1250 |
+| Section 96 (partially) | 27th November 2012 | 2012/2946 |
+| Section 96 (for all remaining purposes) | 15th April 2013 | 2012/2946 |
+| Section 97(1) to (4) | 27th November 2012 | 2012/2946 |
+| Section 97(5) and (6) | 15th April 2013 | 2012/2946 |
+| Sections 98 and 99 | 25th February 2013 | 2013/358 |
+| Section 100 | 25th February 2013 | 2013/358 |
+| Section 101(1) (partially) | 25th February 2013 | 2013/358 |
+| Section 101(2) | 1st April 2013 | 2013/358 |
+| Section 102(1) (partially) | 25th February 2013 | 2013/358 |
+| Section 102(2) to (5) | 25th February 2013 | 2013/358 |
+| Section 102(6) (partially) | 25th February 2013 | 2013/358 |
+| Section 102(6) (partially) | 29<sup>th</sup> April 2013 | 2013/983 |
+| Section 104 | 25th February 2013 | 2013/358 |
+| Section 105(1) (partially) | 1st July 2012 | 2012/1246 |
+| Section 105(1) (partially) | 1st October 2012 | 2012/1246 |
+| Section 105(1) (partially) | 29th April 2013 | 2013/358 |
+| Section 105(3), (5) and (6) | 29th April 2013 | 2013/358 |
+| Section 105(4) | 1st October 2012 | 2012/1246 |
+| Section 105(7) (partially) | 29th April 2013 | 2013/358 |
+| Section 106 | 1st July 2012 | 2012/1246 |
+| Section 110 (partially) | 17th June 2013 | 2013/1250 |
+| Section 110 | 1st October 2013 | 2013/1250 |
+| Sections 113 to 115 | 8th May 2012 | 2012/863 |
+| Section 116(1) (partially) | 10th May 2012 | 2012/1246 |
+| Section 116(1) (for all remaining purposes) | 1st October 2012 | 2012/1246 |
+| Section 116(2) | 10th May 2012 | 2012/1246 |
+| Section 117(1) (partially) | 1st April 2013 | 2013/358 |
+| Section 117(1) (for all remaining purposes) | 6th April 2013 | 2013/358 |
+| Section 117(2) | 1st April 2013 | 2013/358 |
+| Section 117(3) | 6th April 2013 | 2013/358 |
+| Section 118(1), (2), (5) and (8)(b) (partially) | 25th February 2013 | 2013/358 |
+| Section 118(1), (2), (5) and (8)(b) (for all remaining purposes) | 1st April 2013 | 2013/358 |
+| Sections 118(3), (4), (6), (7) and (8)(a) and (c) and 119 | 1st April 2013 | 2013/358 |
+| Section 120 (partially) | 1st February 2013 | 2013/178 |
+| Section 120 (for all remaining purposes) | 6th April 2013 | 2013/178 |
+| [^c2191918]Sections 122, 123 and 125 | 6th June 2012 | 2012/1246 |
+| Sections 128 and 129 | 20th March 2012 | 2012/863 |
+| Section 130 (partially) | 20th March 2012 | 2012/863 |
+| Section 130 (for all remaining purposes) | 8th May 2012 | 2012/863 |
+| Section 131 (partially) | 20th March 2012 | 2012/863 |
+| Section 131 (for all remaining purposes) | 8th May 2012 | 2012/863 |
+| Section 132(8) | 20th March 2012 | 2012/863 |
+| Section 132 (for all remaining purposes) | 8th May 2012 | 2012/863 |
+| Section 133(1) to (4) | 20th March 2012 | 2012/863 |
+| Section 133(6) | 2nd July 2012 | 2012/1651 |
+| Sections 143, 144 and 146 | 8th May 2012 | 2012/863 |
+| Schedule 1 (partially) | 25th February 2013 | 2013/358 |
+| Schedule 2 (partially) | 25th February 2013 | 2013/358 |
+| Schedule 2 (partially) | 1st April 2013 | 2013/358 |
+| Schedule 2 (partially) | 29th April 2013 | 2013/358 |
+| Schedule 2 (partially) | 29th April 2013 | 2013/983 |
+| Schedule 3 (partially) | 1st April 2013 | 2013/358 |
+| Schedule 3 (partially) | 29th April 2013 | 2013/983 |
+| Schedule 3 (partially) | 1st July 2013 | 2013/1511 |
+| Schedule 3 (partially) | 29th July 2013 | 2013/1511 |
+| Schedule 5 (partially) | 25th February 2013 | 2013/358 |
+| Schedule 5 (partially) | 29th April 2013 | 2013/983 |
+| Schedule 6 (partially) | 25th February 2013 | 2013/358 |
+| Schedule 7 (partially) | 22nd October 2012 | 2012/2530 |
+| Schedule 8 (partially) | 1st April 2013 | 2012/3090 |
+| Schedule 8 (for all remaining purposes) | 1st August 2013 | 2012/3090 |
+| Schedule 9 (partially) | 25th February 2013 | 2013/358 |
+| Schedule 9 (partially) | 8th April 2013 | 2013/358 |
+| Schedule 9 (partially) | 10th June 2013 | 2013/1250 |
+| Schedule 10 | 25th February 2013 | 2013/358 |
+| Schedule 11 (partially) | 25th February 2013 | 2013/358 |
+| Schedule 11 (partially) | 29th April 2013 | 2013/983 |
+| Part 1 of Schedule 14 (partially) | 1st April 2013 | 2013/358 |
+| Part 1 of Schedule 14 (partially) | 29th April 2013 | 2013/983 |
+| Part 1 of Schedule 14 (partially) | 1st July 2013 | 2013/1511 |
+| Part 1 of Schedule 14 (partially) | 29th July 2013 | 2013/1511 |
+| Part 3 of Schedule 14 (partially) | 22nd October 2012 | 2012/2530 |
+| Parts 4 and 5 of Schedule 14 (partially) | As section 1 | As section 1 |
+| Part 8 of Schedule 14 (partially) | 1st April 2013 | 2012/3090 |
+| Part 8 of Schedule 14 (partially) | 1st August 2013 | 2012/3090 |
+| Part 11 of Schedule 14 (partially) | 1st April 2013 | 2013/358 |
+| Part 11 of Schedule 14 (partially) | 29th April 2013 | 2013/358 |
+| Part 14 of Schedule 14 | 8th May 2012 | 2012/863 |
+
+## Annotations
+
+[^c2191910]: Marginal citation: [2012 c.5](https://www.legislation.gov.uk/ukpga/2012/5).
+
+[^key-a6d6873f0c2bbb35e749b089eaf68eda]: Modification: Instrument modified (24.11.2014) by [The Welfare Reform Act 2012 (Commencement No. 9, 11, 13 14, 16, 17 and 19 and Transitional and Transitory Provisions (Amendment)) Order 2014 (S.I. 2014/3067)](https://www.legislation.gov.uk/uksi/2014/3067), [art. 7](https://www.legislation.gov.uk/uksi/2014/3067/article/7)[(b)](https://www.legislation.gov.uk/uksi/2014/3067/article/7/b)
+
+[^key-5819c1ba30d15ffd452d43eddc450bd3]: Modification: Instrument modified (26.1.2015 for specified purposes) by [The Welfare Reform Act 2012 (Commencement No. 9, 11, 13, 14, 16, 17 and 19 and Transitional and Transitory Provisions (Amendment)) Order 2015 (S.I. 2015/32)](https://www.legislation.gov.uk/uksi/2015/32), [arts. 3(1)](https://www.legislation.gov.uk/uksi/2015/32/article/3/1), [6(2)](https://www.legislation.gov.uk/uksi/2015/32/article/6/2)
+
+[^key-cc9e8de71990fcef7238a5e86e212f4e]: Modification: Instrument modified (26.1.2015 for specified purposes) by [The Welfare Reform Act 2012 (Commencement No. 9, 11, 13, 14, 16, 17 and 19 and Transitional and Transitory Provisions (Amendment)) Order 2015 (S.I. 2015/32)](https://www.legislation.gov.uk/uksi/2015/32), [arts. 3(1)](https://www.legislation.gov.uk/uksi/2015/32/article/3/1), [6(1)](https://www.legislation.gov.uk/uksi/2015/32/article/6/1)
+
+[^key-70e0a25dd5cdec994a5df5eaa42bb7ff]: Modification: Instrument amended (10.3.2015) by [The Welfare Reform Act 2012 (Commencement No. 23 and Transitional and Transitory Provisions) Order 2015 (S.I. 2015/634)](https://www.legislation.gov.uk/uksi/2015/634), [art. 8(1)](https://www.legislation.gov.uk/uksi/2015/634/article/8/1)[(3)](https://www.legislation.gov.uk/uksi/2015/634/article/8/3)
+
+[^key-f839d1e3db3b78775b59294834eea946]: Modification: Instrument modified (6.4.2015 for specified purposes) by [The Welfare Reform Act 2012 (Commencement No. 9, 11, 13, 14, 16, 17 and 19 and Transitional and Transitory Provisions (Amendment)) Order 2015 (S.I. 2015/32)](https://www.legislation.gov.uk/uksi/2015/32), [arts. 3(3)](https://www.legislation.gov.uk/uksi/2015/32/article/3/3), [6(4)](https://www.legislation.gov.uk/uksi/2015/32/article/6/4)
+
+[^key-4f89c9705ace813edfd5e746156c13df]: Modification: [Instrument](https://www.legislation.gov.uk/uksi/2013/2657) amended (20.7.2015) by [The Welfare Reform Act 2012 (Commencement No. 24 and Transitional and Transitory Provisions and Commencement No. 9 and Transitional and Transitory Provisions (Amendment)) Order 2015 (S.I. 2015/1537)](https://www.legislation.gov.uk/uksi/2015/1537), [art. 5(1)](https://www.legislation.gov.uk/uksi/2015/1537/article/5/1)[(2)(b)](https://www.legislation.gov.uk/uksi/2015/1537/article/5/2/b)
+
+[^key-8e2a90d7d7d39156ffe247a67a7ad8d8]: Modification: [Art. 2](https://www.legislation.gov.uk/uksi/2013/2657/article/2) modified (29.6.2016) by [The Welfare Reform Act 2012 (Commencement No. 13, 14, 16, 19, 22, 23 and 24 and Transitional and Transitory Provisions (Modification)) Order 2016 (S.I. 2016/596)](https://www.legislation.gov.uk/uksi/2016/596), [art. 6(1)](https://www.legislation.gov.uk/uksi/2016/596/article/6/1)[(2)(a)](https://www.legislation.gov.uk/uksi/2016/596/article/6/2/a)
+
+[^key-4683bf7f032370412dbce3c6ee94e50b]: Modification: [Art. 2](https://www.legislation.gov.uk/uksi/2013/2657/article/2) modified (26.4.2017) by [The Welfare Reform Act 2012 (Commencement No. 11, 13, 16, 22, 23 and 24 and Transitional and Transitory Provisions (Modification)) Order 2017 (S.I. 2017/57)](https://www.legislation.gov.uk/uksi/2017/57), [art. 15](https://www.legislation.gov.uk/uksi/2017/57/article/15)
+
+[^key-3f7688772b2c27969e5de346ea2ae25c]: Textual amendment: [Art. 2(1)](https://www.legislation.gov.uk/uksi/2013/2657/article/2/1) amended (24.11.2014 for specified purposes) by [The Welfare Reform Act 2012 (Commencement No. 9, 11, 13 14, 16, 17 and 19 and Transitional and Transitory Provisions (Amendment)) Order 2014 (S.I. 2014/3067)](https://www.legislation.gov.uk/uksi/2014/3067), [arts. 3](https://www.legislation.gov.uk/uksi/2014/3067/article/3), [6(3)](https://www.legislation.gov.uk/uksi/2014/3067/article/6/3)
+
+[^c2191911]: Marginal citation: [2007 c.5](https://www.legislation.gov.uk/ukpga/2007/5).
+
+[^key-2da127b7644c08addf60803539c6ffba]: Textual amendment: Art. 2 amended (16.6.2014 for specified purposes) by [The Welfare Reform Act 2012 (Commencement No. 9, 11, 13, 14 and 16 and Transitional and Transitory Provisions (Amendment)) Order 2014 (S.I. 2014/1452)](https://www.legislation.gov.uk/uksi/2014/1452), [arts. 3](https://www.legislation.gov.uk/uksi/2014/1452/article/3), [19(1)](https://www.legislation.gov.uk/uksi/2014/1452/article/19/1), [19(2)](https://www.legislation.gov.uk/uksi/2014/1452/article/19/2)
+
+[^key-59dad3c3261ab862a56af9af274fb62f]: Textual amendment: Art. 2 amended (28.7.2014 for specified purposes) by [The Welfare Reform Act 2012 (Commencement No. 9, 11, 13, 14, 16 and 17 and Transitional and Transitory Provisions (Amendment) (No. 2)) Order 2014 (S.I. 2014/1923)](https://www.legislation.gov.uk/uksi/2014/1923), [arts. 3](https://www.legislation.gov.uk/uksi/2014/1923/article/3), [7(2)](https://www.legislation.gov.uk/uksi/2014/1923/article/7/2)
+
+[^c2191912]: Marginal citation: [1995 c.18](https://www.legislation.gov.uk/ukpga/1995/18).
+
+[^key-1bd2e3a9b5b54913e57f616d79ed13d9]: Textual amendment: Art. 2 amended (30.6.2014 for specified purposes) by [The Welfare Reform Act 2012 (Commencement No. 9, 11, 13 14, 16 and 17 and Transitional and Transitory Provisions (Amendment)) Order 2014 (S.I. 2014/1661)](https://www.legislation.gov.uk/uksi/2014/1661), [arts. 3](https://www.legislation.gov.uk/uksi/2014/1661/article/3), [6(3)](https://www.legislation.gov.uk/uksi/2014/1661/article/6/3)
+
+[^c2191913]: Marginal citation: [S.I. 2013/983](https://www.legislation.gov.uk/uksi/2013/983) (C. 41).
+
+[^key-272f5248acc19ee765cf50e7bb012638]: Modification: [Art. 3](https://www.legislation.gov.uk/uksi/2013/2657/article/3) modified (29.6.2016) by [The Welfare Reform Act 2012 (Commencement No. 13, 14, 16, 19, 22, 23 and 24 and Transitional and Transitory Provisions (Modification)) Order 2016 (S.I. 2016/596)](https://www.legislation.gov.uk/uksi/2016/596), [art. 6(1)](https://www.legislation.gov.uk/uksi/2016/596/article/6/1)[(2)(b)](https://www.legislation.gov.uk/uksi/2016/596/article/6/2/b)[(c)](https://www.legislation.gov.uk/uksi/2016/596/article/6/2/c)
+
+[^key-c071b179f2dd6d7ffe881b12684e4c57]: Modification: [Art. 3](https://www.legislation.gov.uk/uksi/2013/2657/article/3) modified (26.4.2017) by [The Welfare Reform Act 2012 (Commencement No. 11, 13, 16, 22, 23 and 24 and Transitional and Transitory Provisions (Modification)) Order 2017 (S.I. 2017/57)](https://www.legislation.gov.uk/uksi/2017/57), [art. 15](https://www.legislation.gov.uk/uksi/2017/57/article/15)
+
+[^key-9dee10356fcc583a5c01a905fd8bb864]: Textual amendment: Art. 3 amended (16.6.2014 for specified purposes) by [The Welfare Reform Act 2012 (Commencement No. 9, 11, 13, 14 and 16 and Transitional and Transitory Provisions (Amendment)) Order 2014 (S.I. 2014/1452)](https://www.legislation.gov.uk/uksi/2014/1452), [arts. 3](https://www.legislation.gov.uk/uksi/2014/1452/article/3), [19(1)](https://www.legislation.gov.uk/uksi/2014/1452/article/19/1), [19(3)](https://www.legislation.gov.uk/uksi/2014/1452/article/19/3)
+
+[^key-09c3b5a17a563968dfd2a8f6a70c3107]: Modification: [Art. 3(2)(a)](https://www.legislation.gov.uk/uksi/2013/2657/article/3/2/a) modified (29.6.2016) by [The Welfare Reform Act 2012 (Commencement No. 13, 14, 16, 19, 22, 23 and 24 and Transitional and Transitory Provisions (Modification)) Order 2016 (S.I. 2016/596)](https://www.legislation.gov.uk/uksi/2016/596), [art. 4](https://www.legislation.gov.uk/uksi/2016/596/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2016/596/schedule)
+
+[^key-fbc243074ab203c169ecdf485dbfb09c]: Modification: [Art. 3(2)(a)](https://www.legislation.gov.uk/uksi/2013/2657/article/3/2/a) modified (27.7.2016) by [The Welfare Reform Act 2012 (Commencement No. 13, 14, 16, 19, 22, 23 and 24 and Transitional and Transitory Provisions (Modification)) Order 2016 (S.I. 2016/596)](https://www.legislation.gov.uk/uksi/2016/596), [art. 5](https://www.legislation.gov.uk/uksi/2016/596/article/5), [Sch.](https://www.legislation.gov.uk/uksi/2016/596/schedule)
+
+[^key-84c8b257f414f857342617497c778254]: Modification: [Art. 3(2)(a)](https://www.legislation.gov.uk/uksi/2013/2657/article/3/2/a) modified (26.4.2017) by [The Welfare Reform Act 2012 (Commencement No. 11, 13, 16, 22, 23 and 24 and Transitional and Transitory Provisions (Modification)) Order 2017 (S.I. 2017/57)](https://www.legislation.gov.uk/uksi/2017/57), [art. 13](https://www.legislation.gov.uk/uksi/2017/57/article/13), [Sch.](https://www.legislation.gov.uk/uksi/2017/57/schedule)
+
+[^key-c167ed53c66b9b21007e1552c6bfaee8]: Modification: [Art. 3(2)(a)](https://www.legislation.gov.uk/uksi/2013/2657/article/3/2/a) modified (18.4.2018) by [The Welfare Reform Act 2012 (Commencement No. 9, 21 and 23 (Amendment), Commencement No. 11, 13, 17, 19, 22, 23 and 24 (Modification), Transitional and Transitory Provisions) Order 2018 (S.I. 2018/138)](https://www.legislation.gov.uk/uksi/2018/138), [art. 4](https://www.legislation.gov.uk/uksi/2018/138/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2018/138/schedule) (with [art. 5](https://www.legislation.gov.uk/uksi/2018/138/article/5))
+
+[^key-a9c1fabbd2bbed75e9197cf55fc17b40]: Textual amendment: Art. 3 amended (30.6.2014 for specified purposes) by [The Welfare Reform Act 2012 (Commencement No. 9, 11, 13 14, 16 and 17 and Transitional and Transitory Provisions (Amendment)) Order 2014 (S.I. 2014/1661)](https://www.legislation.gov.uk/uksi/2014/1661), [arts. 3](https://www.legislation.gov.uk/uksi/2014/1661/article/3), [6(4)](https://www.legislation.gov.uk/uksi/2014/1661/article/6/4)
+
+[^key-9f700dfdacd168a53368388c8b6e677f]: Textual amendment: Words in art. 3(3) omitted (30.6.2014) by virtue of [The Welfare Reform Act 2012 (Commencement No. 9, 11, 13 14, 16 and 17 and Transitional and Transitory Provisions (Amendment)) Order 2014 (S.I. 2014/1661)](https://www.legislation.gov.uk/uksi/2014/1661), [art. 6(1)](https://www.legislation.gov.uk/uksi/2014/1661/article/6/1)[(b)](https://www.legislation.gov.uk/uksi/2014/1661/article/6/1/b)
+
+[^key-97455601f6408f14330a18e3b197cb29]: Textual amendment: [Art. 3](https://www.legislation.gov.uk/uksi/2013/2657/article/3) amended (28.7.2014 for specified purposes) by [The Welfare Reform Act 2012 (Commencement No. 9, 11, 13, 14, 16 and 17 and Transitional and Transitory Provisions (Amendment) (No. 2)) Order 2014 (S.I. 2014/1923)](https://www.legislation.gov.uk/uksi/2014/1923), [arts. 3](https://www.legislation.gov.uk/uksi/2014/1923/article/3), [7(3)](https://www.legislation.gov.uk/uksi/2014/1923/article/7/3)
+
+[^key-eb6ee2729727a35775c7c9fe5ad50256]: Modification: Art. 4 modified (29.6.2016) by [The Welfare Reform Act 2012 (Commencement No. 13, 14, 16, 19, 22, 23 and 24 and Transitional and Transitory Provisions (Modification)) Order 2016 (S.I. 2016/596)](https://www.legislation.gov.uk/uksi/2016/596), [art. 6(1)](https://www.legislation.gov.uk/uksi/2016/596/article/6/1)[(2)(d)](https://www.legislation.gov.uk/uksi/2016/596/article/6/2/d)[(e)](https://www.legislation.gov.uk/uksi/2016/596/article/6/2/e)
+
+[^key-e04c89edb9116d8c85f9219141e1d70a]: Modification: Art. 4 modified (26.4.2017) by [The Welfare Reform Act 2012 (Commencement No. 11, 13, 16, 22, 23 and 24 and Transitional and Transitory Provisions (Modification)) Order 2017 (S.I. 2017/57)](https://www.legislation.gov.uk/uksi/2017/57), [art. 15](https://www.legislation.gov.uk/uksi/2017/57/article/15)
+
+[^key-01678734181b445c2a7e737e140e110d]: Modification: Art. 4 modified (22.7.2020) by [The Universal Credit (Managed Migration Pilot and Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1152)](https://www.legislation.gov.uk/uksi/2019/1152), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1152/regulation/1/3), [5(1)](https://www.legislation.gov.uk/uksi/2019/1152/regulation/5/1) (with [reg. 5(2)](https://www.legislation.gov.uk/uksi/2019/1152/regulation/5/2)) (as amended: (4.8.2020) by (S.I. 2020/826), regs. 1, 2(2)).
+
+[^key-b474cbb0106041b8cd4be113f63d5c46]: Textual amendment: Art. 4 amended (16.6.2014 for specified purposes) by [The Welfare Reform Act 2012 (Commencement No. 9, 11, 13, 14 and 16 and Transitional and Transitory Provisions (Amendment)) Order 2014 (S.I. 2014/1452)](https://www.legislation.gov.uk/uksi/2014/1452), [arts. 3](https://www.legislation.gov.uk/uksi/2014/1452/article/3), [19(1)](https://www.legislation.gov.uk/uksi/2014/1452/article/19/1), [19(4)](https://www.legislation.gov.uk/uksi/2014/1452/article/19/4)
+
+[^key-f9d5aba3284aad68c769bebdb6f191e4]: Modification: Art. 4(2)(a) modified (29.6.2016) by [The Welfare Reform Act 2012 (Commencement No. 13, 14, 16, 19, 22, 23 and 24 and Transitional and Transitory Provisions (Modification)) Order 2016 (S.I. 2016/596)](https://www.legislation.gov.uk/uksi/2016/596), [art. 4](https://www.legislation.gov.uk/uksi/2016/596/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2016/596/schedule)
+
+[^key-f9ed1255f8d3383af5683006133be79a]: Modification: Art. 4(2)(a) modified (27.7.2016) by [The Welfare Reform Act 2012 (Commencement No. 13, 14, 16, 19, 22, 23 and 24 and Transitional and Transitory Provisions (Modification)) Order 2016 (S.I. 2016/596)](https://www.legislation.gov.uk/uksi/2016/596), [art. 5](https://www.legislation.gov.uk/uksi/2016/596/article/5), [Sch.](https://www.legislation.gov.uk/uksi/2016/596/schedule)
+
+[^key-310a35cf57742bb993b8d6641036a904]: Modification: Art. 4(2)(a) modified (26.4.2017) by [The Welfare Reform Act 2012 (Commencement No. 11, 13, 16, 22, 23 and 24 and Transitional and Transitory Provisions (Modification)) Order 2017 (S.I. 2017/57)](https://www.legislation.gov.uk/uksi/2017/57), [art. 13](https://www.legislation.gov.uk/uksi/2017/57/article/13), [Sch.](https://www.legislation.gov.uk/uksi/2017/57/schedule)
+
+[^key-3d8d5a04a2d58bee335a4f5d1710baeb]: Modification: Art. 4(2)(a) modified (18.4.2018) by [The Welfare Reform Act 2012 (Commencement No. 9, 21 and 23 (Amendment), Commencement No. 11, 13, 17, 19, 22, 23 and 24 (Modification), Transitional and Transitory Provisions) Order 2018 (S.I. 2018/138)](https://www.legislation.gov.uk/uksi/2018/138), [art. 4](https://www.legislation.gov.uk/uksi/2018/138/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2018/138/schedule) (with [art. 5](https://www.legislation.gov.uk/uksi/2018/138/article/5))
+
+[^key-308c393bdda9fcbfb497d05d752278e6]: Textual amendment: Art. 4 amended (28.7.2014 for specified purposes) by [The Welfare Reform Act 2012 (Commencement No. 9, 11, 13, 14, 16 and 17 and Transitional and Transitory Provisions (Amendment) (No. 2)) Order 2014 (S.I. 2014/1923)](https://www.legislation.gov.uk/uksi/2014/1923), [arts. 3](https://www.legislation.gov.uk/uksi/2014/1923/article/3), [7(4)](https://www.legislation.gov.uk/uksi/2014/1923/article/7/4)
+
+[^key-4f0e0ed24f77096459772883e7eba3ba]: Textual amendment: Art. 4 amended (30.6.2014 for specified purposes) by [The Welfare Reform Act 2012 (Commencement No. 9, 11, 13 14, 16 and 17 and Transitional and Transitory Provisions (Amendment)) Order 2014 (S.I. 2014/1661)](https://www.legislation.gov.uk/uksi/2014/1661), [arts. 3](https://www.legislation.gov.uk/uksi/2014/1661/article/3), [6(5)](https://www.legislation.gov.uk/uksi/2014/1661/article/6/5)
+
+[^key-88c36a70b2b38f40f8f0bad5fe64a9cf]: Modification: Art. 4(6) amended (26.1.2015 for specified purposes) by [The Welfare Reform Act 2012 (Commencement No. 9, 11, 13, 14, 16, 17 and 19 and Transitional and Transitory Provisions (Amendment)) Order 2015 (S.I. 2015/32)](https://www.legislation.gov.uk/uksi/2015/32), [arts. 3(1)](https://www.legislation.gov.uk/uksi/2015/32/article/3/1), [9](https://www.legislation.gov.uk/uksi/2015/32/article/9)
+
+[^key-6a29ca5817e16652fbdbfb669b35d5cb]: Textual amendment: Art. 4(7) amended (24.11.2014 for specified purposes) by [The Welfare Reform Act 2012 (Commencement No. 9, 11, 13 14, 16, 17 and 19 and Transitional and Transitory Provisions (Amendment)) Order 2014 (S.I. 2014/3067)](https://www.legislation.gov.uk/uksi/2014/3067), [arts. 3](https://www.legislation.gov.uk/uksi/2014/3067/article/3), [6(4)](https://www.legislation.gov.uk/uksi/2014/3067/article/6/4)
+
+[^c2191915]: Marginal citation: [S.I. 2013/1511](https://www.legislation.gov.uk/uksi/2013/1511) (C. 60).
+
+[^M_F_95591b68-d85a-4882-ecfc-09bfc6d3a6b1]: Textual amendment: Art. 6 amended (16.6.2014 for specified purposes) by [The Welfare Reform Act 2012 (Commencement No. 9, 11, 13, 14 and 16 and Transitional and Transitory Provisions (Amendment)) Order 2014 (S.I. 2014/1452)](https://www.legislation.gov.uk/uksi/2014/1452), [art. 19(5)](https://www.legislation.gov.uk/uksi/2014/1452/article/19)
+
+[^c2191916]: Marginal citation: Articles 10 to 13 of, and Schedule 4 (which takes effect under article 9) to, the Order were amended by [S.I. 2013/1511](https://www.legislation.gov.uk/uksi/2013/1511) (C.60); article 11 of the Order was amended by article 5 of this Order
+
+[^key-dc35e8e623050fc0cc0202b622729ed6]: Textual amendment: Art. 6 amended (16.6.2014 for specified purposes) by [The Welfare Reform Act 2012 (Commencement No. 9, 11, 13, 14 and 16 and Transitional and Transitory Provisions (Amendment)) Order 2014 (S.I. 2014/1452)](https://www.legislation.gov.uk/uksi/2014/1452), [art. 17](https://www.legislation.gov.uk/uksi/2014/1452/article/17)
+
+[^key-ee4abc7214dd27daf9fedca47b239053]: Textual amendment: Art. 6 amended (30.6.2014 for specified purposes) by [The Welfare Reform Act 2012 (Commencement No. 9, 11, 13 14, 16 and 17 and Transitional and Transitory Provisions (Amendment)) Order 2014 (S.I. 2014/1661)](https://www.legislation.gov.uk/uksi/2014/1661), [arts. 3](https://www.legislation.gov.uk/uksi/2014/1661/article/3), [6(6)](https://www.legislation.gov.uk/uksi/2014/1661/article/6/6)
+
+[^c2191917]: Marginal citation: [S.I. 2013/983](https://www.legislation.gov.uk/uksi/2013/983) was amended by [S.I. 2013/1511](https://www.legislation.gov.uk/uksi/2013/1511).
+
+[^c2191918]: Marginal citation: [S.I. 2012/1246](https://www.legislation.gov.uk/uksi/2012/1246) was amended by [S.I. 2012/1440](https://www.legislation.gov.uk/uksi/2012/1440) and 2530.

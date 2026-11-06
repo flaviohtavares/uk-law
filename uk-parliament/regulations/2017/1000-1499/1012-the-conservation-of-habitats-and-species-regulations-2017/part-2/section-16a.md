@@ -1,0 +1,62 @@
+---
+title: The Conservation of Habitats and Species Regulations 2017, section 16A
+act: The Conservation of Habitats and Species Regulations 2017
+section: 16A
+status: revised-with-pending-changes
+text_date: '2026-07-16'
+extent: E.W.
+source_url: https://www.legislation.gov.uk/uksi/2017/1012/section/16A
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Conservation of Habitats and Species Regulations 2017, section 16A
+
+> **Warning: changes not yet applied to this text (22).** Text as at 2026-07-16. See https://www.legislation.gov.uk/changes/affected/uksi/2017/1012
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 16A. Management objectives of the national site network[^key-03cb543290b25b959090cf3a7f27d5ef]
+
+*Extent: E.W.*
+
+(1) The appropriate authority must, in co-operation with any other authority having a corresponding responsibility, manage, and where necessary adapt, the national site network, so far as it consists of European sites, with a view to contributing to the achievement of the management objectives of the national site network.
+
+(2) The management objectives of the national site network are—
+
+- (a) to maintain at, or where appropriate restore to, a favourable conservation status in their natural range (so far as it lies in the United Kingdom’s territory, and so far as is proportionate)—
+  - (i) the natural habitat types listed in Annex I to the Habitats Directive;
+  - (ii) the species listed in Annex II to that Directive whose natural range includes any part of the United Kingdom’s territory;
+- (b) to contribute, in their area of distribution, to ensuring the survival and reproduction of—
+  - (i) the species of birds listed in Annex I to the new Wild Birds Directive which naturally occur in the United Kingdom’s territory;
+  - (ii) regularly occurring migratory species of birds not listed in that Annex which naturally occur in the United Kingdom’s territory;
+- (c) to contribute, to securing compliance with the requirements of Article 2 of the new Wild Birds Directive for the purposes of the duty in regulation 9(1) in relation to the species of birds in paragraph (b) within their area of distribution.
+
+(3) In complying with the obligation in paragraph (1), the appropriate authority must have regard—
+
+- (a) in relation to any European sites which are not of a kind mentioned in regulation 8(1)(d), to the considerations mentioned in paragraph (4);
+- (b) in relation to European sites of a kind mentioned in regulation 8(1)(d), to the considerations mentioned in paragraph (5).
+
+(4) The considerations mentioned in paragraph (3)(a) are—
+
+- (a) the importance of the sites for meeting the objective in paragraph (2)(a);
+- (b) the importance of the sites for the coherence of national site network;
+- (c) the threats of degradation or destruction (including deterioration and disturbance of protected features) to which the sites are exposed.
+
+(5) The considerations mentioned in paragraph (3)(b) are—
+
+- (a) the importance of the sites for meeting the objectives in paragraph 2(b) and (c);
+- (b) in the case of migratory species, the importance of their breeding, moulting and wintering areas and staging points along their migration routes;
+- (c) the importance of the sites for the coherence of national site network;
+- (d) the threats of degradation or destruction (including deterioration and disturbance of protected features) to which the sites are exposed.
+
+(6) In paragraph (2)(a), “proportionate” means proportionate to the relative importance of—
+
+- (a) the part of the natural range lying in the United Kingdom’s territory, and
+- (b) the part of the natural range lying outside the United Kingdom’s territory,
+
+for achieving a favourable conservation status.
+
+## Annotations
+
+[^key-03cb543290b25b959090cf3a7f27d5ef]: Textual amendment: Reg. 16A inserted (31.12.2020) by [The Conservation of Habitats and Species (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/579)](https://www.legislation.gov.uk/uksi/2019/579), [regs. 1](https://www.legislation.gov.uk/uksi/2019/579/regulation/1), [13](https://www.legislation.gov.uk/uksi/2019/579/regulation/13); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

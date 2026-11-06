@@ -1,0 +1,679 @@
+---
+title: The Merchant Shipping and Fishing Vessels (Health and Safety at Work) (Chemical Agents) Regulations 2010
+id: uksi/2010/330
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2010-02-11'
+text_date: '2026-04-10'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2010/330
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2010/330/pdfs/uksiem_20100330_en.pdf
+- http://www.legislation.gov.uk/uksi/2010/330/pdfs/uksi_20100330_en.pdf
+- http://www.legislation.gov.uk/uksi/2010/330/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Merchant Shipping and Fishing Vessels (Health and Safety at Work) (Chemical Agents) Regulations 2010
+
+> Text as at 2026-04-10.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2010 No. 330
+
+Merchant Shipping
+
+The Merchant Shipping and Fishing Vessels (Health and Safety at Work) (Chemical Agents) Regulations 2010
+
+Made
+
+11th February 2010
+
+Laid before Parliament
+
+18th February 2010
+
+Coming into force
+
+6th April 2010
+
+The Secretary of State makes the following Regulations in exercise of the powers conferred by section 2(2) of the European Communities Act 1972 [^c20133901] and sections 85(1)(a) and (b), (3), (5) to (7) and 86(1) of the Merchant Shipping Act 1995 [^c20133911] (“**the Act**”) as read with paragraph 1A of Schedule 2 to the European Communities Act 1972 [^c20133921].
+
+The Secretary of State is a Minister designated [^c20133931] for the purpose of section 2(2) of the European Communities Act 1972 in relation to measures relating to the safety of ships, and the health and safety of persons on them.
+
+These Regulations make provision for a purpose mentioned in section 2(2) of the European Communities Act 1972 and it appears to the Secretary of State that it is expedient for certain references to provisions of Council Directive [98/24/EC](https://www.legislation.gov.uk/european/directive/1998/0024) on the protection of the health and safety of workers from the risks related to chemical agents at work (fourteenth individual Directive within the meaning of Article 16(1) of Directive [89/391/EEC](https://www.legislation.gov.uk/european/directive/1989/0391)) [^c20133941] to be construed as references to those provisions as amended from time to time.
+
+In accordance with section 86(4) of the Act the Secretary of State has consulted the persons referred to in that section.
+
+## PART 1 — GENERAL
+
+### 1. Citation and commencement
+
+These Regulations may be cited as the Merchant Shipping and Fishing Vessels (Health and Safety at Work) (Chemical Agents) Regulations 2010 and shall come into force on 6th April 2010.
+
+### 2. Interpretation
+
+(1) In these Regulations—
+
+- “**the Act**” means the Merchant Shipping Act 1995;
+- “**binding biological limit value**” in relation to a chemical agent means the binding biological limit value established for that agent under Annex II to the Directive;
+- “**binding occupational exposure limit value**” in relation to a chemical agent means any binding occupational exposure limit value established for that agent in Annex I to the Directive;
+- “**chemical agent**” means any chemical element or compound, on its own or admixed, as it occurs in the natural state or as produced, used or released, including release as waste, by any work activity, whether or not produced intentionally, and whether or not placed on the market;
+- “[^key-e886194e3d061f4791ab3a1c46d79104]**the CLP Regulation**” means Regulation [(EC) No 1272/2008](https://www.legislation.gov.uk/eur/2008/1272) of the European Parliament and of the Council of 16 December 2008 on classification, labelling and packaging of substances and mixtures, amending and repealing Directives [67/548/EEC](https://www.legislation.gov.uk/eudr/1967/548) and [1999/45/EC](https://www.legislation.gov.uk/eudr/1999/45) and amending Regulation [(EC) No 1907/2006](https://www.legislation.gov.uk/eur/2006/1907), of which Articles 6(5), 11(3), 12, 14, 18(3)(b), 23, 25 to 29, 35(2) second and third sub-paragraphs and Annexes I to VII are to be read as amended from time to time;
+- “**the Directive**” means Council Directive [98/24/EC](https://www.legislation.gov.uk/eudr/1998/24) on the protection of the health and safety of workers from the risks related to chemical agents at work (fourteenth individual Directive within the meaning of Article 16(1) of Directive [89/391/EEC](https://www.legislation.gov.uk/eudr/1989/391)) , as amended by Directive 2014/27/[^key-e28236282541885806a673e969b7afbe]EU of the European Parliament and of the Council of 26 February 2014 amending Council Directives [92/58/EEC](https://www.legislation.gov.uk/eudr/1992/58), [92/85/EEC](https://www.legislation.gov.uk/eudr/1992/85), [94/33/EC](https://www.legislation.gov.uk/eudr/1994/33), [98/24/EC](https://www.legislation.gov.uk/eudr/1998/24) and [Directive 2004/37/EC](https://www.legislation.gov.uk/eudr/2004/0037) of the European Parliament and of the Council in order to align them to Regulation [(EC) No 1272/2008](https://www.legislation.gov.uk/eur/2008/1272) on classification, labelling and packaging of substances and mixtures;
+- “**document EH40**” means the document by that number published by the Health and Safety Executive from time to time [^c20133951];
+- “**employer**” means a person by whom a worker is employed on a ship under a contract of employment;
+- “**exposure**” means exposure at work to chemical agents;
+- [^key-9fe00b67a3a21459333fcf6ee60f4dcd]...
+- “**the General Duties Regulations**” means the Merchant Shipping and Fishing Vessels (Health and Safety at Work) Regulations 1997 [^c20133961];
+- “[^key-812564540ec15da55baf8b1a10850bf8]**hazardous chemical agent**” means—
+  - (a) any chemical agent which meets the criteria for classification as hazardous within any physical and/or health hazard class laid down in Annex I to[^key-9c8d498ab5b5605f4101a2da6c9f22d7] the CLP Regulation, whether or not that chemical agent is classified under that Regulation; or
+  - (b) any chemical agent which, whilst not meeting the criteria for classification as hazardous in accordance with sub-paragraph (a) may, because of its physico-chemical, chemical or toxicological properties and the way it is used or is present on the ship, presents a risk to the safety and health of workers, including any chemical agent that is assigned a national occupational exposure limit value[^key-0e4a4b97c383f8c592b4f82a4072c793];
+- “**health and safety**” includes the occupational health and safety of persons whilst on board a ship and whilst boarding or leaving the ship;
+- “**health surveillance**” means the assessment of an individual worker to determine the state of health of that individual, as related to exposure to specific chemical agents at work;
+- “**MCA**” means the Maritime and Coastguard Agency, an executive agency of the Department for Transport;
+- “**Merchant Shipping Notice**” means a notice described as such and issued by the MCA;
+- “[^key-b05056c94ea54cd22134cc4af2567b1e]**national occupational exposure limit value**” in relation to a chemical agent means any workplace exposure limit established for that agent in document EH40;
+- “**occupational exposure limit value**” in relation to a chemical agent means the binding occupational exposure limit value or the national occupational exposure limit value established for that agent, whichever is the more stringent;
+- “[^key-579abb1c70fbeb9d372eb989a5bf7155]**the REACH Regulation**” means Regulation [(EC) No 1907/2006](https://www.legislation.gov.uk/eur/2006/1907) of the European Parliament and of the Council of 18 December 2006 concerning the Registration, Evaluation, Authorisation and Restriction of Chemicals (REACH), establishing a European Chemicals Agency;
+- “**regulation 6(2) assessment**” has the meaning given by regulation 6(7);
+- “**representative**” in relation to workers means any person lawfully elected, chosen or designated to represent the workers in regard to issues about the health and safety of workers at work;
+- “[^key-462ecfe838eb6dd8a0194a72f7433a67]**safety data sheet**” means a safety data sheet within the meaning of Article 31 of and Annex II to the REACH Regulation;
+- “**ship**” includes hovercraft;
+- “**substance**” means any natural or artificial substance whether in solid or in liquid form or in the form of a gas or vapour and includes micro-organisms;
+- “**surveyor of ships**” has the meaning given by section 256(9) of the Act; and
+- “**United Kingdom ship**” means a ship which—
+  - (a) is a United Kingdom ship within the meaning of section 85(2) of the Act [^c20134031]; or[^key-807b0cef11014e3fec7fb91dfd0718d8]
+  - (b) [^key-9fe00b67a3a21459333fcf6ee60f4dcd]...
+  - (c) is a hovercraft registered under the Hovercraft Act 1968 [^c20134041].
+
+(2) In these Regulations any reference to an Annex to the Directive is a reference to that Annex as it had effect immediately before IP completion day[^key-ca4fe880f6b82eede90f09d143cb8030].
+
+(3) Subject to paragraph (1) and regulation 3, words and expressions used in these Regulations have the same meaning as in the Directive.
+
+(4) In the application of these Regulations to a hovercraft, a reference to the master of a ship includes a reference to the captain of that hovercraft.
+
+### 3. Meaning of “worker”
+
+(1) In these Regulations, “**worker**” means a person employed under a contract of employment, and includes a trainee or apprentice other than a person who is training in a vessel which is being used—
+
+- (a) to provide instruction in the principles of responsibility, resourcefulness, loyalty and team endeavour and to advance education in the art of seamanship, or
+- (b) to provide instruction in navigation and seamanship for yachtsmen,
+
+and which is operating under a relevant code.
+
+(2) In paragraph (1) “**a relevant code**” means—
+
+- (a) the Large Commercial Yacht Code as set out in Merchant Shipping Notice No. 1792(M) – Edition 2;
+- (b) the Code of Practice for the Safety of Small Commercial Sailing Vessels [^c20134051];
+- (c) the Code of Practice for the Safety of Small Commercial Motor Vessels [^c20134061]; or
+- (d) the Code of Practice for the Safety of Small Vessels in Commercial Use for Sport or Pleasure Operating from a Nominated Departure Point [^c20134071].
+
+(3) In paragraph (2) each reference to a Code includes a reference to any document containing an amendment or replacement of that Code which is considered by the Secretary of State to be relevant from time to time and is specified in a Merchant Shipping Notice.
+
+### 4. Application
+
+(1) Without prejudice to regulation 5 of the General Duties Regulations, and subject to paragraphs (2) to (4), these Regulations apply in relation to —
+
+- (a) hazardous chemical agents that are or may be present on United Kingdom ships, giving rise to risks or the likelihood of risks to the health and safety of workers on those ships whether as a result of that presence or as a result of any work activity involving such agents; and
+- (b) United Kingdom ships on which such agents are or may be present.
+
+(2) Where—
+
+- (a) a ship is being used in the course of public service activities or activities for the purpose of the civil protection services, and
+- (b) characteristics peculiar to those activities inevitably conflict with a provision of these Regulations,
+
+that provision does not apply in relation to that ship to the extent of that conflict.
+
+(3) To the extent that a provision of these Regulations does not apply in relation to a ship because of paragraph (2) there is in relation to that ship a duty on the employer to ensure, so far as is reasonably practicable, the health and safety of workers who are or who are likely to be exposed to risks from chemical agents as a result of their work.
+
+(4) This regulation (other than paragraph (1)) and regulations 5, 19 and 21 apply where hazardous chemical agents are present or may be present on ships other than United Kingdom ships which are for the time being in United Kingdom waters giving rise to risks or the likelihood of risks to the health and safety of workers on those ships, whether as a result of that presence or as a result of any work activity involving such agents.
+
+(5) In paragraph (2)—
+
+- (a) “**civil protection services**” includes the fire and rescue and ambulance services and search and rescue services provided by any other person; and
+- (b) “**public service activities**” includes the activities of the armed forces, HM Coastguard, HM Revenue and Customs, immigration officers, police, prison officers and the security and intelligence services.
+
+### 5. Application of related legislation
+
+(1) The provisions of the General Duties Regulations continue to apply to activities to which these Regulations apply, where these regulations contain more stringent or specific provisions then such provisions apply.
+
+(2) These Regulations apply without prejudice to—
+
+- (a)[^key-7043e53d38b1bbefab37b2ccb83a3d50] any provisions for the protection of workers from ionising radiation;
+- (b) any more stringent or specific provision contained in the Merchant Shipping and Fishing Vessels (Health and Safety at Work) (Carcinogens and Mutagens) Regulations 2007 [^c20134081]; or
+- (c) any more stringent or specific provision relating to the transport of hazardous chemical agents by water contained in the IMDG Code, the IBC Code, the IGC Code, the European Agreement concerning the International Carriage of Dangerous Goods by Inland Waters [^c20134091] or the Regulation for the Carriage of Dangerous Substances on the Rhine [^c20134101].
+
+(3)[^key-3392ec4374fcce98a963aeabef60d981] In this regulation—
+
+- (a) “**IBC Code**” and “**IGC Code**” have the same meaning as in the Merchant Shipping (Prevention of Pollution from Noxious Liquid Substances in Bulk) Regulations 2018; and
+- (b) “**IMDG Code**” has the same meaning as in the Dangerous Goods in Harbour Areas Regulations 2016.
+
+(4) These Regulations do not apply to activities to which the Control of Substances Hazardous to Health Regulations 2002 [^c20134131] or the Control of Substances Hazardous to Health Regulations (Northern Ireland) 2003 [^c20134141] apply.
+
+## PART 2 — DUTIES OF EMPLOYERS AND OTHERS
+
+### 6. Assessment of health risks
+
+(1) In carrying out the assessment required by regulation 7 of the General Duties Regulations, the employer shall first determine whether hazardous chemical agents are present.
+
+(2) If the employer determines that hazardous chemical agents are present the employer shall then assess any risk to the health and safety of workers arising from the presence of those agents, taking into consideration—
+
+- (a) their hazardous properties;
+- (b) information on health and safety provided by the supplier;
+- (c) the level, type and duration of exposure;
+- (d) the circumstances of work involving such agents, including their amount;
+- (e) the occupational exposure limit values and binding biological limit values relevant to those agents;
+- (f) the effect of preventive measures taken or to be taken; and
+- (g) where available, the conclusions to be drawn from any health surveillance already undertaken.
+
+(3) The employer shall obtain additional information which is needed for the regulation 6(2) assessment from the supplier of each chemical agent concerned or other readily available sources [^key-33af5ce44438c5d3189a1777e6b69c37]....
+
+(4) The regulation 6(2) assessment—
+
+- (a) shall identify the measures taken in accordance with regulations 7 and 8;
+- (b) shall be documented in a suitable form;
+- (c) may include a justification by the employer that the nature and extent of the risks related to chemical agents make a further detailed risk assessment unnecessary;
+- (d) shall be kept up-to-date, particularly if there have been significant changes which could render it out-of-date, or when the results of health surveillance show it to be necessary;
+- (e) shall cover activities such as maintenance, in respect of which it is foreseeable that there is a potential for significant exposure, or which may result in deleterious effects to health and safety for other reasons, even after the taking of all technical measures; and
+- (f) in the case of activities involving exposure to several hazardous chemical agents, shall include an assessment on the basis of the risk presented by all such chemical agents in combination.
+
+(5) In the case of a new activity involving hazardous chemical agents, the employer shall ensure that work does not start until a further regulation 6(2) assessment of the risk of that activity has been made and any preventive measures identified have been implemented.
+
+(6) The employer shall take into account the results of the procedures referred to in regulation 8(7) and (8) in carrying out the obligations imposed, or resulting from, this regulation.
+
+(7) An assessment carried out in accordance with paragraph (2), whether for the first time or by way of renewal, is in these Regulations called a regulation 6(2) assessment.
+
+### 7. General principles for prevention of risks
+
+(1) In carrying out the duty of an employer under regulation 5 of the General Duties Regulations the employer shall eliminate or reduce to a minimum risks to the health and safety of workers at work involving hazardous chemical agents—
+
+- (a) through the design and organisation of systems of work on the ship;
+- (b) by taking the measures specified in paragraph (2); and
+- (c) by taking into account the results of health surveillance undertaken under regulation 12.
+
+(2) The measures referred to in paragraph (1)(b) are—
+
+- (a) the provision of suitable equipment for work with chemical agents and maintenance procedures which ensure the health and safety of workers at work;
+- (b) reducing to a minimum the number of workers exposed or likely to be exposed;
+- (c) reducing to a minimum the duration and intensity of exposure;
+- (d) appropriate hygiene measures;
+- (e) reducing the quantity of chemical agents present on the ship to the minimum required for the type of work concerned; and
+- (f) suitable working procedures, including arrangements for the safe handling, storage and transport on the ship of hazardous chemical agents and of waste containing such agents.
+
+### 8. Specific protection and prevention measures
+
+(1) This regulation does not apply where the results of the regulation 6(2) assessment reveal only a slight risk to the health and safety of workers and the measures taken in accordance with regulation 7 are sufficient to reduce that risk.
+
+(2) The employer shall ensure that the risk from a hazardous chemical agent to the health and safety of workers at work is eliminated or reduced to a minimum by taking the measures specified in paragraphs (3) to (5).
+
+(3) The employer shall, wherever practicable, avoid the use of a hazardous chemical agent by replacing it with a chemical agent or a substance or a process which is not hazardous or less hazardous to workers' health and safety.
+
+(4) Where the nature of the activity in which a hazardous chemical agent is used does not permit the risk to be eliminated in accordance with paragraph (3), having regard to the regulation 6(2) assessment, the employer shall ensure that the risk is reduced to a minimum by the application of protection and prevention measures, consistent with the regulation 6(2) assessment.
+
+(5) In order of priority, the protection and prevention measures shall include—
+
+- (a) design of appropriate work processes and engineering controls and use of adequate equipment and materials so as to avoid or minimise the release of hazardous chemical agents which may present a risk to workers' health and safety at the place of work within the ship;
+- (b) application of collective protection measures at the source of the risk, such as adequate ventilation and appropriate organisational measures; and
+- (c) where exposure cannot be prevented by other means, application of individual protection measures including personal protective equipment.
+
+(6) The measures referred to in paragraphs (3), (4) and (5) shall be accompanied by health surveillance in accordance with regulation 12 if that is appropriate to the nature of the risk.
+
+(7) Unless the employer clearly demonstrates by other means of evaluation that, in accordance with paragraphs (3), (4) and (5), adequate protection and prevention have been achieved, the employer shall carry out such measurements of chemical agents which may present a risk to workers' health and safety on a ship as are necessary, in particular in relation to the occupational exposure limit values.
+
+(8) Such measurements shall be carried out regularly and in any event when any change occurs in the conditions which may affect workers' exposure to chemical agents.
+
+(9) In any event, where an occupational exposure limit value has been exceeded, the employer shall immediately take steps, taking into account the nature of that limit, to remedy the situation by carrying out preventive and protective measures.
+
+(10) On the basis of a regulation 6(2) assessment and of the general principles for the prevention of risks referred to in regulation 7, the employer shall take technical and organisational measures appropriate to the nature of the operation including storage, handling and segregation of incompatible chemical agents, providing protection for workers against hazards arising from the physico-chemical properties of chemical agents.
+
+(11) In order of priority, the technical and organisational measures shall include measures to–
+
+- (a) prevent the presence of hazardous concentrations of inflammable substances or hazardous quantities of chemically unstable substances where the operation of the ship so permits;
+- (b) avoid the presence of ignition sources which could give rise to fires or explosions, or avoid adverse conditions which could cause chemically unstable substances or mixtures of substances to give rise to harmful physical effects; and
+- (c) mitigate the detrimental effects to the health and safety of workers in the event of fire or explosion due to the ignition of inflammable substances, or harmful physical effects arising from chemically unstable substances or mixtures of substances.
+
+(12) The employer shall take measures to provide sufficient control of plant, equipment and machinery or provision of explosion suppression equipment or explosion pressure relief arrangements.
+
+### 9. Accidents, incidents and emergencies
+
+(1) This regulation does not apply where the results of the regulation 6(2) assessment reveal only a slight risk to the health and safety of workers and the measures taken in accordance with regulation 7 are sufficient to reduce that risk.
+
+(2) The employer shall, in order to protect the health and safety of workers from an accident, incident or emergency related to the presence of hazardous chemical agents in a ship (“a relevant incident”), establish procedures which can be put into effect when a relevant incident occurs, so that the appropriate action is taken.
+
+(3) Arrangements under paragraph (2) shall include—
+
+- (a) relevant safety drills to be performed at intervals not less than once every six months; and
+- (b) the provision of appropriate first aid facilities.
+
+(4) When a relevant incident occurs the employer shall—
+
+- (a) immediately take steps to mitigate the effects of the relevant incident and to inform the workers concerned; and
+- (b) in order to restore the situation to normal—
+  - (i) implement appropriate measures to remedy the situation as soon as possible; and
+  - (ii) permit only those workers who are essential to the carrying out of repairs and other necessary work to work in the affected area.
+
+(5) The employer shall provide workers who are permitted to work in an area affected by a relevant incident with appropriate protective clothing, personal protective equipment, specialised safety equipment and plant.
+
+(6) The employer shall not permit unprotected persons to remain in, or to enter an area affected by a relevant incident.
+
+(7) The employer shall take such measures as are necessary to provide the warning and other communication systems required—
+
+- (a) to signal an increased risk to health and safety;
+- (b) to enable an appropriate response to be made; and
+- (c) to enable remedial actions, assistance, escape and rescue operations to be launched immediately if necessary.
+
+(8) The employer shall ensure that—
+
+- (a) information on emergency arrangements involving hazardous chemical agents is available;
+- (b) the relevant internal and external accident and emergency services have access to this information; and
+- (c) the information includes—
+  - (i) advance notice of relevant work hazards, hazard identification arrangements, precautions and procedures and precautionary measures sufficient to enable the emergency services to prepare their own response procedures and precautionary measures; and
+  - (ii) any available information concerning specific hazards arising, or likely to arise, at the time of a relevant incident, including information on procedures prepared under this regulation.
+
+### 10. Information and training for workers
+
+(1) The employer shall ensure that workers or their representatives, or both, are provided with the information described in paragraph (2) and that the information is—
+
+- (a) provided in a manner, which may vary from oral communication to individual instructions and training supported by information in writing, appropriate to the nature and degree of risk revealed by the regulation 6(2) assessment; and
+- (b) updated to take account of changing circumstances.
+
+(2) The information referred to in paragraph (1) is —
+
+- (a) the data obtained under regulation 6;
+- (b) information on the hazardous chemical agents occurring in a ship including the identity of those agents, the risks to health and safety, relevant occupational exposure limit values and relevant legislative provisions; and
+- (c) training and information on appropriate precautions and actions to be taken in order to safeguard workers on the ship.
+
+(3) The employer shall ensure that workers or their representatives, or both, are given access to relevant safety data sheets provided by suppliers under Article 31 of and Annex II to the REACH Regulation[^key-3657cfa82fc68abf7a03797f80a6e5e4].
+
+(4) The employer shall ensure that the nature and any associated hazards of the contents of containers and pipes for hazardous chemical agents are clearly identifiable.
+
+(5) The obligation in paragraph (4) is satisfied where containers or pipes are—
+
+- (a)[^key-bf78c53e5dce9f126519c529eb3bda54] marked in accordance with the CLP Regulation and Schedule 1, Part III to the Health and Safety (Safety Signs and Signals) Regulations 1996;or
+- (b) the subject of a derogation from being so marked provided for in that legislation.
+
+(6)[^key-33f951ddf85030e150258d4266762b15] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 11. Prohibited activities
+
+(1) Subject to paragraph(2), a person shall not undertake —
+
+- (a) the production, manufacture or use on a ship of the chemical agents set out in part (a) of Annex 1 of Merchant Shipping Notice 1888 (M+F)[^key-e53d98a75abbe46915bc8879ea5da9ac], or
+- (b) any activities set out in part (b) of Annex 1 of Merchant Shipping Notice 1888 (M+F)[^key-e71a1f789c1249e934c63859e1f7b481],
+
+to the extent set out in that Annex.
+
+(2) Subject to paragraphs (3) and (4) the Secretary of State may grant to a person an exemption from the prohibitions in paragraph (1) upon application by that person, but only—
+
+- (a) for the sole purpose of scientific research and testing, including analysis;
+- (b) for activities intended to eliminate chemical agents that are present in the form of by-products or waste products; or
+- (c) for the production of a chemical agent referred to in part (a) of Annex 1 of Merchant Shipping Notice 1888 (M+F)[^key-a0dfa6591df6fdcdc186a9937260cae6] for use as an intermediate, and for such use.
+
+(3) The Secretary of State may not grant an exemption under paragraph (2) without first consulting the workers concerned or their representatives.
+
+(4) The Secretary of State may not grant an exemption under paragraph (2) without having sufficient information to determine—
+
+- (a) the reason for requesting the exemption;
+- (b) the quantity of the chemical agent to be used annually;
+- (c) the activities and the reaction or processes involved;
+- (d) the number of workers who may be involved;
+- (e) the precautions envisaged to protect the health and safety of workers concerned; and
+- (f) the technical and organisational measures taken to prevent the exposure of workers.
+
+(5) An exemption granted under paragraph (2)—
+
+- (a) is valid only if in writing;
+- (b) is valid only for the period, not exceeding four years, specified in the exemption;
+- (c) may be granted subject to such conditions as the Secretary of State sees fit; and
+- (d) may be withdrawn when the Secretary of State is satisfied, after consulting with the person to whom it is granted, that it is no longer justified.
+
+(6) A person to whom an exemption under paragraph (2) is granted shall ensure that—
+
+- (a) no worker is exposed, in consequence of that exemption, to a chemical agent referred to in part (a) of Annex 1 of Merchant Shipping Notice 1888 (M+F)[^key-f560d2e32b6d54b907ddf699d98e24d5]; and
+- (b) [^key-54ac08ba4c5f3764872581a71af43f15]... the production of a chemical agent referred to in part (a) of Annex 1 of Merchant Shipping Notice 1888 (M+F)[^key-ccfb3eadcd3a814a395e35e9e6935715] for use as an intermediate, and its first use as such, takes place in a single closed system from which that agent may be removed only to the extent necessary to monitor the process or service the system.
+
+### 12. Health surveillance
+
+(1) This regulation does not apply where the results of the regulation 6(2) assessment reveal only a slight risk to the health and safety of workers and the measures taken in accordance with regulation 7 are sufficient to reduce that risk.
+
+(2) The employer shall ensure that there are arrangements whereby workers for whom a regulation 6(2) assessment reveals a risk to health and safety are kept under appropriate health surveillance.
+
+(3) For the purpose of paragraph (2) health surveillance is appropriate for a worker where —
+
+- (a) the exposure of the worker to a hazardous chemical agent is such that an identifiable disease or adverse health effect may be related to the exposure;
+- (b) there is a likelihood that the disease or the adverse health effect may occur under the particular conditions of the worker's work; and
+- (c) the technique of investigation is of low risk to workers.
+
+(4) The employer shall ensure that valid techniques for detecting indications of the disease or the adverse health effect referred to in paragraph (3)(a) are available in respect of any chemical agent to which a worker may be exposed on a ship.
+
+(5) Where a binding biological limit value has been established in respect of a hazardous chemical agent the employer shall not permit a person to work with that agent unless that person is the subject of health surveillance that accords with Annex 2 of Merchant Shipping Notice 1888 (M+F)[^key-b33a39c42c8d569526572c65bd793d33].
+
+(6) The employer shall inform workers of the requirement in paragraph (5) before they are assigned a task involving risk of exposure to the chemical agent in question.
+
+(7) In cases where health surveillance is carried out, the employer shall ensure that individual health and exposure records are made and kept up to date.
+
+(8) The employer shall ensure that every health and exposure record contains a summary of the results of health surveillance carried out and of any monitoring data representative of the exposure of the worker.
+
+(9) Biological monitoring and related requirements may form part of health surveillance.
+
+(10) The employer shall keep all health and exposure records in a form suitable for consultation at a later date, taking into account any requirements of confidentiality.
+
+(11) The employer shall provide each worker on request with access to health and exposure records which concern that worker.
+
+(12) The employer shall supply copies of health and exposure records to the Secretary of State on request.
+
+(13) An employer who ceases to trade shall supply the health and exposure records of that employer's workers to the Secretary of State.
+
+(14) Paragraphs (15) and (16) apply where, as a result of health surveillance—
+
+- (a) a worker is found to have an identifiable disease or adverse effect which is considered by a doctor or occupational health-care professional to be the result of exposure at work to a hazardous chemical agent; or
+- (b) a binding biological limit value in respect of a hazardous chemical agent is found to have been exceeded.
+
+(15) The doctor or other suitably qualified person responsible for the carrying out of a worker's health surveillance shall inform that worker of the result of that health surveillance and provide the worker with information and advice as to health surveillance following the end of exposure.
+
+(16) The employer shall —
+
+- (a) review the regulation 6(2) assessment;
+- (b) review the measures provided under regulations 7 and 8 to eliminate or reduce risks;
+- (c) take into account advice provided by a health-care professional or other suitably qualified person or the Secretary of State in implementing measures required to eliminate or reduce risk in accordance with regulation 8;
+- (d) consider the possibility of assigning the worker to alternative work; and
+- (e) arrange continued health surveillance and provide for a review of the health status of any other worker who has been similarly exposed.
+
+### 13. Consultation with workers
+
+The employer shall consult workers or their representatives about matters covered by these Regulations in accordance with regulation 20 of the General Duties Regulations.
+
+### 14. Duties of other persons
+
+(1) Where a person on whom a duty is imposed by any of the preceding provisions of these Regulations does not have control of the matter to which that provision relates because responsibility for the operation of the ship falls upon another person that duty also extends to any other person who has control of that matter.
+
+(2) It is the duty of every worker performing activities to which these Regulations apply to—
+
+- (a) make full and proper use of all clothing and equipment provided by the employer to that worker in pursuance of these Regulations; and
+- (b) give effect to all instructions and training provided to that worker under regulation 10.
+
+## PART 3 — ENFORCEMENT
+
+### 15. Offences and penalties
+
+(1) Any person who acts in contravention of, or fails to comply with, regulation 6, 7, 8, 9 or 11(6) or the conditions attached under regulation 11(5)(c) is guilty of an offence and is liable—
+
+- (a) on summary conviction to a fine not exceeding the statutory maximum; and
+- (b) on conviction on indictment to imprisonment for a term not exceeding two years or to a fine or to both.
+
+(2) Any person who acts in contravention of, or fails to comply with, regulation 13 is guilty of an offence and is liable on summary conviction to a fine not exceeding level 4 on the standard scale.
+
+(3) Any person who acts in contravention of, or fails to comply with, regulation 10, 12 or 23 is guilty of an offence and is liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+
+(4) A worker who fails to comply with regulation 14(2) is guilty of an offence and is liable on summary conviction to a fine not exceeding level 2 on the standard scale.
+
+(5) Section 146(1) of the Act (enforcement of fines) applies to any fine imposed for an offence under paragraphs (1) to (3), as if the reference to proceedings against the owner or master of a ship for an offence under Chapter 2 were a reference to proceedings against any person for an offence under those paragraphs.
+
+### 16. Offences by body corporate
+
+(1) Where a body corporate is guilty of an offence under these Regulations and that offence is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, any director, manager, secretary or other similar officer of the body corporate or a person who was purporting to act in any such capacity, that person as well as the body corporate is guilty of that offence and is liable to be proceeded against and punished accordingly.
+
+(2) Where the affairs of a body corporate are managed by its members, paragraph (1) applies in relation to the acts and defaults of a member in connection with that member's functions of management as if that member were a director of the body corporate.
+
+(3) Where an offence under these Regulations committed by a Scottish partnership is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, a partner, that partner as well as the partnership is guilty of that offence and is liable to be proceeded against and punished accordingly.
+
+### 17. Onus of proving what is reasonably practicable
+
+In any proceedings under these Regulations consisting of a failure to comply with the duty in regulation 4(3) to do something so far as is reasonably practicable, it shall be for the defendant to prove that it was not reasonably practicable to do more than was in fact done to satisfy that duty.
+
+### 18. Detention of a United Kingdom ship
+
+(1) Where a surveyor of ships is satisfied that there is or has been a failure to comply in relation to any ship with the requirements of these Regulations, that ship is liable to be detained until a surveyor of ships is satisfied that those requirements are complied with.
+
+(2) A surveyor of ships may permit a ship which is liable to be detained under paragraph (1) to proceed to sea for the purpose of proceeding to the nearest appropriate repair yard.
+
+(3) A ship shall not be delayed or detained unreasonably under this regulation.
+
+(4) Where a ship is detained because in relation to it there has been a failure to comply with the requirements of these Regulations, and that failure has ceased, a person having power to detain the ship shall, at the request of the owner or master, immediately release the ship—
+
+- (a) if no proceedings for an offence arising from the failure in question are instituted within the period of seven days beginning with the day on which the ship is detained;
+- (b) if proceedings for an offence arising from the failure in question, having been instituted within that period, are concluded without the employer or other person having control of the matter in question being convicted;
+- (c) if either—
+  - (i) the sum of £30,000 is paid to the Secretary of State by way of security, or
+  - (ii) security which, in the opinion of the Secretary of State, is satisfactory and is for an amount not less than £30,000 is given to the Secretary of State,
+
+  by or on behalf of the employer or other person having control of the matter in question;
+- (d) where the employer or other person having control of the matter in question is convicted of an offence arising from the failure in question, if any costs or expenses ordered to be paid by that person, and any fine imposed on that person, have been paid; or
+- (e) if the release is ordered by a court or tribunal referred to in article 292 of the United Nations Convention on the Law of the Sea 1982 [^c20134171], and any bond or other financial security ordered by such court or tribunal is posted.
+
+(5) The Secretary of State shall repay any sum paid in pursuance of paragraph (4)(c) or release any security so given—
+
+- (a) if no proceedings for an offence arising from the failure in question are instituted within the period of seven days beginning with the day on which the sum is paid; or
+- (b) if proceedings for an offence arising from the failure in question, having been instituted within that period, are concluded without the employer or other person having control of the matter in question being convicted.
+
+(6) Where a sum has been paid, or security has been given, by any person in pursuance of paragraph (4)(c) and the employer or other person having control of the matter in question is convicted of an offence arising from the failure in question, the sum so paid or the amount made available under the security shall be applied as follows—
+
+- (a) first in payment of any costs or expenses ordered by the court to be paid by the employer or other person having control of the matter in question, and
+- (b) next in payment of any fine imposed by the court,
+
+and any balance shall be repaid to the first-mentioned person.
+
+(7) Section 145 of the Act (interpretation of section 144) applies for the purposes of paragraphs (4) to (6) as if—
+
+- (a) references to the master or owner of the ship were references to the employer or other person having control of the matter in question; and
+- (b) references to an offence under section 131 were references to an offence arising from the failure in question.
+
+### 19. Inspection and other measures in respect of ships registered outside the United Kingdom
+
+(1) When a ship which is not a United Kingdom ship is in United Kingdom waters, a relevant inspector may inspect that ship to ascertain whether the standards required in relation to United Kingdom ships by these Regulations are met in relation to that ship.
+
+(2) Where a surveyor of ships is satisfied that the standards required in relation to United Kingdom ships by these Regulations are not met in relation to a ship which is not a United Kingdom ship but is in United Kingdom waters, that surveyor of ships may—
+
+- (a) send a report to the government of the State whose flag the ship is entitled to fly, and a copy to the Director General of the International Labour Office [^c20134181]; and
+- (b) where conditions on board are clearly hazardous to health and safety, take such measures as are necessary to ensure those conditions are rectified.
+
+(3) A ship to which paragraph (2)(b) applies is liable to be detained until a surveyor of ships is satisfied that those conditions are rectified.
+
+(4) A surveyor of ships may permit a ship which is liable to be detained under paragraph (3) to proceed to sea for the purposes of proceeding to the nearest appropriate repair yard.
+
+(5) If any of the measures specified in paragraph (2)(b) or (3) are taken, the surveyor of ships shall immediately notify the nearest maritime, consular or diplomatic representative of the State whose flag the ship is entitled to fly.
+
+(6) A ship shall not in the exercise of the power under this regulation be delayed or detained unreasonably.
+
+(7) In paragraph (1), “**relevant inspector**” means a person mentioned in paragraph (a), (b) or (c) of section 258(1) of the Act [^c20134191].
+
+### 20. Application of powers of inspectors in relation to Government ships[^key-5fcb2ac79e2bbc1c88ab078e26bac31e]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 21. Enforcement of detention
+
+(1) Section 284 of the Act [^c20134211] (enforcing detention of ship) applies where a ship is liable to be detained under these Regulations as if—
+
+- (a) references to detention of a ship under the Act were references to detention of the ship in question under these Regulations; and
+- (b) subsection (7) were omitted.
+
+(2) Where a ship is liable to be detained under these Regulations the person detaining the ship shall serve on the master of the ship a detention notice which shall—
+
+- (a) state that a surveyor of ships is of the opinion that in relation to that ship there is a failure to comply with the requirements of these Regulations;
+- (b) specify the matters which, in the opinion of the surveyor of ships, have the effect that in relation to that ship those requirements are not met; and
+- (c) require the terms of the notice to be complied with until the ship is released by any person mentioned in section 284(1) of the Act.
+
+### 22. Right of appeal and compensation[^key-567c2f40f1f57319b4a5b37b6b6338f7]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 23. Prohibition on levy
+
+No charge in respect of anything done or provided in pursuance of any specific requirement of these Regulations shall be levied or permitted to be levied on any worker.
+
+### 24. Review[^key-9fe03e6ac61486c9a444b5ad64783f80]
+
+(1) The Secretary of State must from time to time—
+
+- (a) carry out a review of these Regulations;
+- (b) set out the conclusions of the review in a report; and
+- (c) publish the report.
+
+(2) In carrying out the review the Secretary of State must, so far as is reasonable, have regard to how the Directive (in so far as it is implemented in the United Kingdom by means of these Regulations) is implemented in other member States.
+
+(3) The report must in particular—
+
+- (a) set out the objectives intended to be achieved by the regulatory system established by these Regulations;
+- (b) assess the extent to which those objectives are achieved; and
+- (c) assess whether those objectives remain appropriate and, if so, the extent to which they could be achieved with a system that imposes less regulation.
+
+(4) The first report under this regulation must be published before the end of the period of five years beginning with 10th August 2012.
+
+(5) Reports under this regulation are afterwards to be published at intervals not exceeding five years.
+
+Signed by authority of the Secretary of State for Transport
+
+Paul Clark
+
+Parliamentary Under Secretary of State
+
+Department for Transport
+
+*(This note is not part of the Regulations)*
+
+These Regulations implement, in relation to United Kingdom ships (as defined by *regulation 2*), Council Directive [98/24/EC](https://www.legislation.gov.uk/european/directive/1998/0024) on the protection of the health and safety of workers from the risks related to chemical agents at work (Official Journal No. L 131, 5.5.1998, p. 11). Directive [98/24/EC](https://www.legislation.gov.uk/european/directive/1998/0024) is an individual Directive within the meaning of Article 16(1) of Directive [89/395/EEC](https://www.legislation.gov.uk/european/directive/1989/0395) on the introduction of measures to encourage improvements in the health and safety of workers at work.
+
+*Regulations 2 and 3* set out meanings for terms used in the regulations.
+
+*Regulations 4 and 5* set out the precise application of the Regulations and apply certain regulations also to non-United Kingdom ships when they are in UK waters.
+
+In the case of an activity likely to involve the risk of exposure to hazardous chemical agents *regulation 6* imposes particular duties on an employer in relation to the risk assessment which the employer is required to carry out under regulation 7 of the Merchant Shipping and Fishing Vessels (Health and Safety at Work) Regulations 1997 (S.I. 1997/2962).
+
+*Regulations 7 and 8* place employers under general duties in relation to the elimination or reduction of such risks and require specific protection and prevention measures where replacement of the chemical agent is not possible.
+
+*Regulation 9* places an employer under a general obligation to establish safety procedures in the event accidents occur.
+
+*Regulation 10* specifies the information and training that employers must provide for workers.
+
+*Regulation 11* places an obligation on persons, subject to possible exemption, not to undertake the production or use of certain chemical agents or certain work activities on a ship.
+
+Under *regulation 12,* where an assessment under regulation 6 reveals a risk to health, the employer must ensure that the workers concerned are kept under health surveillance. Regulation 12 also makes detailed provision as to such surveillance.
+
+*Regulation 13* imposes a general duty on employers to consult with workers or their representatives about matters covered by these Regulations.
+
+*Regulation 14* prescribes other persons whose duty it is to comply with the provisions of the Regulations and requires workers to make proper use of protective clothing and equipment and to give effect to instructions and training.
+
+*Regulations 15 to 22* concern offences, penalties, inspection, detention of ships and compensation for wrongful detention.
+
+*Regulation 23* prohibits the levying of any charge on a worker in respect of anything done or provided in pursuance of any specific requirement of these Regulations.
+
+These Regulations are made under powers contained in the Merchant Shipping Act 1995, except in respect of their application to Government ships (regulation 2(1)) where the power is provided by section 2(2) of the European Communities Act 1972.
+
+A full impact assessment of the effect that this instrument will have on the costs of business and the voluntary sector is available from the Maritime and Coastguard Agency, Spring Place, 105 Commercial Road, Southampton SO15 1EG (telephone number 02380 329100). A copy of that assessment is annexed to the Explanatory Memorandum which is available on the Office of Public Sector Information website – www.opsi.gov.uk. A copy of the Transposition Note is also available from the Maritime and Coastguard Agency.
+
+A copy of both the impact assessment and the Transposition Note has been placed in the Library of each House of Parliament.
+
+Merchant Shipping Notices are published by the MCA and copies may be obtained from M-Notices Subscriptions, PO Box 362, Europa Park, Grays, Essex RM17 9AY (telephone number 01375 484 54; fax 01375 484 556; email orders mnotices@ecgroup.co.uk). A copy may also be downloaded from http://www.mcga.gov.uk. That website also has details of any amendments or replacements.
+
+Copies of the IBC, IGC and IMDG Codes can be obtained from the offices of the International Maritime Organisation at 4 Albert Embankment, London SE1 7SR.
+
+Copies of the European Agreement concerning the International Carriage of Dangerous Goods by Inland Waters can be obtained from The Stationery Office via their online bookshop -www.tso.co.uk. Their customer services telephone number is 0870 600 5522.
+
+Copies of the Regulation for the Carriage of Dangerous Substances on the Rhine can be obtained (in German and French languages only) from the offices of the Central Commission for Navigation on the Rhine, Palais du Rhin, 2 Place de la Republique, 67082 Strasbourg Cedex. Telephone number 0033 388 522 010. Fax number 0033 388 321 072. Email ccnr-zkr.org. A copy may also be downloaded from http://www.ccr-zkr.org/ in German, French and Dutch languages.
+
+## Annotations
+
+[^c20133901]: Marginal citation: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68); by virtue of the amendment of section 1(2) of the European Communities Act 1972 by section 1 of the [European Economic Area Act 1993 (c.51)](https://www.legislation.gov.uk/ukpga/1993/51) regulations may be made under section 2(2) of the European Communities Act 1972 to implement obligations of the United Kingdom created or arising by or under the Agreement on the European Economic Area signed at Oporto on 2nd May 1992 (Cm 2073) and the Protocol adjusting the Agreement signed at Brussels on 17th March 1993 (Cm 2183).
+
+[^c20133911]: Marginal citation: [1995 c. 21](https://www.legislation.gov.uk/ukpga/1995/21); [sections 85](https://www.legislation.gov.uk/uksi/2010/330/section/85) and 86 were amended by the [Merchant Shipping and Maritime Security Act 1997 (c. 28)](https://www.legislation.gov.uk/ukpga/1997/28) sections 8 and 29, Schedule 7, Part I and are applied to hovercraft by the [Hovercraft (Application of Enactments) Order 1989 (S.I. 1989/1350)](https://www.legislation.gov.uk/uksi/1989/1350) to which there are amendments not relevant to these Regulations.
+
+[^c20133921]: Marginal citation: [Paragraph 1A](https://www.legislation.gov.uk/uksi/2010/330/paragraph/1A) was inserted by the [Legislative and Regulatory Reform Act 2006 (c.51)](https://www.legislation.gov.uk/ukpga/2006/51), [section 28](https://www.legislation.gov.uk/ukpga/2006/51/section/28).
+
+[^c20133931]: Marginal citation: [S.I. 1993/595](https://www.legislation.gov.uk/uksi/1993/595).
+
+[^c20133941]: Marginal citation: O.J. No. L 131, 5.5.1998, p. 11; relevant instruments that amend or supplement this Directive are Directive 2007/30/EC of the European Parliament and of the Council (O.J. No. L 165, 27.6.2007, p.21), Commission Directive 2000/39/EC (O.J. No. L 142, 16.6.2000, p. 14) and Commission Directive 2006/15/EC (O.J. No. L 38, 9.2.2006, p. 36). Added to Annex XVIII of the EEA Agreement by Article 1 of the Decision of the EEA Joint Committee No. 97/1999 of 16th July 1999 (O.J. No. L 296, 23.11.2000, p.75). Directive 89/391/EEC is to be found at O.J. No. L 103, 29.6.1989, p. 1.
+
+[^key-e886194e3d061f4791ab3a1c46d79104]: Textual amendment: Words in reg. 2(1) inserted (1.6.2015) by [The Classification, Labelling and Packaging of Chemicals (Amendments to Secondary Legislation) Regulations 2015 (S.I. 2015/21)](https://www.legislation.gov.uk/uksi/2015/21), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2015/21/regulation/1/3), [20(2)(a)](https://www.legislation.gov.uk/uksi/2015/21/regulation/20/2/a)
+
+[^key-e28236282541885806a673e969b7afbe]: Textual amendment: Words in reg. 2(1) added (1.6.2015) by [The Classification, Labelling and Packaging of Chemicals (Amendments to Secondary Legislation) Regulations 2015 (S.I. 2015/21)](https://www.legislation.gov.uk/uksi/2015/21), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2015/21/regulation/1/3), [20(2)(b)](https://www.legislation.gov.uk/uksi/2015/21/regulation/20/2/b)
+
+[^c20133951]: Marginal citation: The latest version of document EH40 is document EH40/2005 (ISBN 0-7176-2981-3). Table 1, which sets out workplace exposure limits, was updated in October 2007 and is available on the HSE website – www.hse.gov.uk/coshh/index.htm
+
+[^key-9fe00b67a3a21459333fcf6ee60f4dcd]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2010/330/regulation/2/1) omitted (10.4.2026) by virtue of [The Merchant Shipping (Maritime Labour Convention and Miscellaneous Amendments) Regulations 2026 (S.I. 2026/260)](https://www.legislation.gov.uk/uksi/2026/260), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/260/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2026/260/schedule/1)
+
+[^c20133961]: Marginal citation: [S.I. 1997/2962](https://www.legislation.gov.uk/uksi/1997/2962), amended by [S.I. 1998/2411](https://www.legislation.gov.uk/uksi/1998/2411) and [2001/54](https://www.legislation.gov.uk/uksi/2001/54).
+
+[^key-812564540ec15da55baf8b1a10850bf8]: Textual amendment: Words in reg. 2(1) substituted (1.6.2015) by [The Classification, Labelling and Packaging of Chemicals (Amendments to Secondary Legislation) Regulations 2015 (S.I. 2015/21)](https://www.legislation.gov.uk/uksi/2015/21), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2015/21/regulation/1/3), [20(2)(c)](https://www.legislation.gov.uk/uksi/2015/21/regulation/20/2/c)
+
+[^key-9c8d498ab5b5605f4101a2da6c9f22d7]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2010/330/regulation/2/1) inserted (31.12.2020) by [The Merchant Shipping and Fishing Vessels (Health and Safety at Work) (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1202)](https://www.legislation.gov.uk/uksi/2018/1202), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/1/2), [9(2)(a)(i)(aa)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/9/2/a/i/aa); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-0e4a4b97c383f8c592b4f82a4072c793]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2010/330/regulation/2/1) substituted (31.12.2020) by [The Merchant Shipping and Fishing Vessels (Health and Safety at Work) (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1202)](https://www.legislation.gov.uk/uksi/2018/1202), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/1/2), [9(2)(a)(i)(bb)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/9/2/a/i/bb); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-b05056c94ea54cd22134cc4af2567b1e]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2010/330/regulation/2/1) substituted (31.12.2020) by [The Merchant Shipping and Fishing Vessels (Health and Safety at Work) (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1202)](https://www.legislation.gov.uk/uksi/2018/1202), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/1/2), [9(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/9/2/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-579abb1c70fbeb9d372eb989a5bf7155]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2010/330/regulation/2/1) inserted (31.12.2020) by [The Merchant Shipping and Fishing Vessels (Health and Safety at Work) (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1202)](https://www.legislation.gov.uk/uksi/2018/1202), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/1/2), [9(2)(a)(iii)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/9/2/a/iii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-462ecfe838eb6dd8a0194a72f7433a67]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2010/330/regulation/2/1) inserted (31.12.2020) by [The Merchant Shipping and Fishing Vessels (Health and Safety at Work) (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1202)](https://www.legislation.gov.uk/uksi/2018/1202), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/1/2), [9(2)(a)(iv)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/9/2/a/iv); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c20134031]: Marginal citation: [The British Overseas Territories Act 2002 (c.8)](https://www.legislation.gov.uk/ukpga/2002/8), [section 2(3)](https://www.legislation.gov.uk/ukpga/2002/8/section/2/3), makes a non-textual amendment to section 85(2) of the Act.
+
+[^key-807b0cef11014e3fec7fb91dfd0718d8]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2010/330/regulation/2/1) inserted (10.4.2026) by [The Merchant Shipping (Maritime Labour Convention and Miscellaneous Amendments) Regulations 2026 (S.I. 2026/260)](https://www.legislation.gov.uk/uksi/2026/260), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/260/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2026/260/schedule/1)
+
+[^c20134041]: Marginal citation: [1968 c. 59](https://www.legislation.gov.uk/ukpga/1968/59).
+
+[^key-ca4fe880f6b82eede90f09d143cb8030]: Textual amendment: Words in reg. 2(2) substituted (31.12.2020) by [The Merchant Shipping and Fishing Vessels (Health and Safety at Work) (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1202)](https://www.legislation.gov.uk/uksi/2018/1202), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/1/2), [9(2)(b)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/9/2/b) (as amended by [S.I. 2020/1000](https://www.legislation.gov.uk/uksi/2020/1000), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1000/regulation/1), [2](https://www.legislation.gov.uk/uksi/2020/1000/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c20134051]: Marginal citation: Published by the Stationery Office in 1993 (ISBN 0-11-551184-9).
+
+[^c20134061]: Marginal citation: Published by the Stationery Office in 1993 (ISBN 0-11-551185-7).
+
+[^c20134071]: Marginal citation: Published by the Stationery Office in 1999 (ISBN 0-11-551812-6).
+
+[^key-7043e53d38b1bbefab37b2ccb83a3d50]: Textual amendment: [Reg. 5(2)(a)](https://www.legislation.gov.uk/uksi/2010/330/regulation/5/2/a) substituted (31.12.2020) by [The Merchant Shipping and Fishing Vessels (Health and Safety at Work) (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1202)](https://www.legislation.gov.uk/uksi/2018/1202), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/1/2), [9(3)(a)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/9/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c20134081]: Marginal citation: [S.I. 2007/3100](https://www.legislation.gov.uk/uksi/2007/3100)**.**
+
+[^c20134091]: Marginal citation: ISBN 92-1-139118-0. This is a United Nations publication published in New York and Geneva in 2006.
+
+[^c20134101]: Marginal citation: Published by the Central Commission for Navigation on the Rhine in Strasbourg in 2006.
+
+[^key-3392ec4374fcce98a963aeabef60d981]: Textual amendment: [Reg. 5(3)](https://www.legislation.gov.uk/uksi/2010/330/regulation/5/3) substituted (31.12.2020) by [The Merchant Shipping and Fishing Vessels (Health and Safety at Work) (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1202)](https://www.legislation.gov.uk/uksi/2018/1202), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/1/2), [9(3)(b)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/9/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c20134131]: Marginal citation: [S.I. 2002/2677](https://www.legislation.gov.uk/uksi/2002/2677) amended by [S.I. 2003/978](https://www.legislation.gov.uk/uksi/2003/978), 2004/568, 2004/3386, 2006/557, 2006/2739, 2007/1573, 2007/1894, 2008/960, 2008/2852 and 2009/716.
+
+[^c20134141]: Marginal citation: S.R. (NI) 2003/34 amended by S.R. (NI) 2003/288, 2005/165, 2006/173, 2007/31 and 2009/238; also amended and revoked in part by [S.I. 2008/2852](https://www.legislation.gov.uk/uksi/2008/2852)..
+
+[^key-33af5ce44438c5d3189a1777e6b69c37]: Textual amendment: Words in [reg. 6(3)](https://www.legislation.gov.uk/uksi/2010/330/regulation/6/3) omitted (31.12.2020) by virtue of [The Merchant Shipping and Fishing Vessels (Health and Safety at Work) (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1202)](https://www.legislation.gov.uk/uksi/2018/1202), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/1/2), [9(4)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/9/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-3657cfa82fc68abf7a03797f80a6e5e4]: Textual amendment: Words in [reg. 10(3)](https://www.legislation.gov.uk/uksi/2010/330/regulation/10/3) substituted (31.12.2020) by [The Merchant Shipping and Fishing Vessels (Health and Safety at Work) (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1202)](https://www.legislation.gov.uk/uksi/2018/1202), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/1/2), [9(5)(a)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/9/5/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-bf78c53e5dce9f126519c529eb3bda54]: Textual amendment: [Reg. 10(5)(a)](https://www.legislation.gov.uk/uksi/2010/330/regulation/10/5/a) substituted (31.12.2020) by [The Merchant Shipping and Fishing Vessels (Health and Safety at Work) (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1202)](https://www.legislation.gov.uk/uksi/2018/1202), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/1/2), [9(5)(b)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/9/5/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-33f951ddf85030e150258d4266762b15]: Textual amendment: [Reg. 10(6)](https://www.legislation.gov.uk/uksi/2010/330/regulation/10/6) omitted (31.12.2020) by virtue of [The Merchant Shipping and Fishing Vessels (Health and Safety at Work) (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1202)](https://www.legislation.gov.uk/uksi/2018/1202), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/1/2), [9(5)(c)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/9/5/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-e53d98a75abbe46915bc8879ea5da9ac]: Textual amendment: Words in [reg. 11(1)(a)](https://www.legislation.gov.uk/uksi/2010/330/regulation/11/1/a) substituted (31.12.2020) by [The Merchant Shipping and Fishing Vessels (Health and Safety at Work) (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1202)](https://www.legislation.gov.uk/uksi/2018/1202), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/1/2), [9(6)(a)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/9/6/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-e71a1f789c1249e934c63859e1f7b481]: Textual amendment: Words in [reg. 11(1)(b)](https://www.legislation.gov.uk/uksi/2010/330/regulation/11/1/b) substituted (31.12.2020) by [The Merchant Shipping and Fishing Vessels (Health and Safety at Work) (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1202)](https://www.legislation.gov.uk/uksi/2018/1202), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/1/2), [9(6)(b)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/9/6/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-a0dfa6591df6fdcdc186a9937260cae6]: Textual amendment: Words in [reg. 11(2)(c)](https://www.legislation.gov.uk/uksi/2010/330/regulation/11/2/c) substituted (31.12.2020) by [The Merchant Shipping and Fishing Vessels (Health and Safety at Work) (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1202)](https://www.legislation.gov.uk/uksi/2018/1202), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/1/2), [9(6)(c)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/9/6/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-f560d2e32b6d54b907ddf699d98e24d5]: Textual amendment: Words in [reg. 11(6)(a)](https://www.legislation.gov.uk/uksi/2010/330/regulation/11/6/a) substituted (31.12.2020) by [The Merchant Shipping and Fishing Vessels (Health and Safety at Work) (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1202)](https://www.legislation.gov.uk/uksi/2018/1202), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/1/2), [9(6)(d)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/9/6/d); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-54ac08ba4c5f3764872581a71af43f15]: Textual amendment: Word in reg. 11(6)(b) omitted (5.4.2010) by virtue of [The Merchant Shipping and Fishing Vessels (Health and Safety at Work) (Miscellaneous Amendments) Regulations 2010 (S.I. 2010/1110)](https://www.legislation.gov.uk/uksi/2010/1110), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/1110/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2010/1110/regulation/5)
+
+[^key-ccfb3eadcd3a814a395e35e9e6935715]: Textual amendment: Words in [reg. 11(6)(b)](https://www.legislation.gov.uk/uksi/2010/330/regulation/11/6/b) substituted (31.12.2020) by [The Merchant Shipping and Fishing Vessels (Health and Safety at Work) (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1202)](https://www.legislation.gov.uk/uksi/2018/1202), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/1/2), [9(6)(e)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/9/6/e); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-b33a39c42c8d569526572c65bd793d33]: Textual amendment: Words in [reg. 12(5)](https://www.legislation.gov.uk/uksi/2010/330/regulation/12/5) substituted (31.12.2020) by [The Merchant Shipping and Fishing Vessels (Health and Safety at Work) (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1202)](https://www.legislation.gov.uk/uksi/2018/1202), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/1/2), [9(7)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/9/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c20134171]: Marginal citation: Cmnd. 8941.
+
+[^c20134181]: Marginal citation: The International Labour Office is the permanent secretariat of the International Labour Organisation which is an agency of the United Nations.
+
+[^c20134191]: Marginal citation: Section 258(1) was amended by the [Merchant Shipping and Maritime Security Act 1997 (c.28)](https://www.legislation.gov.uk/ukpga/1997/28), [Schedule 1 paragraph 4](https://www.legislation.gov.uk/ukpga/1997/28/schedule/1/paragraph/4) and Schedule 7 Part1.
+
+[^key-5fcb2ac79e2bbc1c88ab078e26bac31e]: Textual amendment: [Reg. 20](https://www.legislation.gov.uk/uksi/2010/330/regulation/20) omitted (10.4.2026) by virtue of [The Merchant Shipping (Maritime Labour Convention and Miscellaneous Amendments) Regulations 2026 (S.I. 2026/260)](https://www.legislation.gov.uk/uksi/2026/260), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/260/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2026/260/schedule/1)
+
+[^c20134211]: Marginal citation: Section 284 was amended by the Merchant Shipping and Maritime Security Act 1997, Schedule 1 paragraph 5.
+
+[^key-567c2f40f1f57319b4a5b37b6b6338f7]: Textual amendment: [Reg. 22](https://www.legislation.gov.uk/uksi/2010/330/regulation/22) omitted (10.4.2026) by virtue of [The Merchant Shipping (Maritime Labour Convention and Miscellaneous Amendments) Regulations 2026 (S.I. 2026/260)](https://www.legislation.gov.uk/uksi/2026/260), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/260/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2026/260/schedule/1)
+
+[^key-9fe03e6ac61486c9a444b5ad64783f80]: Textual amendment: Reg. 24 inserted (10.8.2012) by [The Merchant Shipping and Fishing Vessels (Health and Safety at Work) (Chemical Agents) (Amendment) Regulations 2012 (S.I. 2012/1844)](https://www.legislation.gov.uk/uksi/2012/1844), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/1844/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2012/1844/regulation/3)

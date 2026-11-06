@@ -1,0 +1,149 @@
+---
+title: The National Health Service (Primary Dental Services) (Miscellaneous Amendments) Regulations 2012
+id: uksi/2012/502
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2012-02-23'
+text_date: '2013-04-01'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2012/502
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2012/502/pdfs/uksiem_20120502_en.pdf
+- http://www.legislation.gov.uk/uksi/2012/502/pdfs/uksi_20120502_en.pdf
+- http://www.legislation.gov.uk/uksi/2012/502/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The National Health Service (Primary Dental Services) (Miscellaneous Amendments) Regulations 2012
+
+> Text as at 2013-04-01.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+This Statutory Instrument rectifies a defect in [S.I. 2011/1182](https://www.legislation.gov.uk/uksi/2011/1182) and is being issued free of charge to all known recipients of that Statutory Instrument.
+
+2012 No. 502
+
+National Health Service, England
+
+The National Health Service (Primary Dental Services) (Miscellaneous Amendments) Regulations 2012
+
+Made
+
+23rd February 2012
+
+Laid before Parliament
+
+28th February 2012
+
+Coming into force
+
+1st April 2012
+
+The Secretary of State for Health makes the following Regulations in exercise of the powers conferred by sections 14(2)(b), 19(2)(b), 104, 109, 176 and 272(7) and (8) of the National Health Service Act 2006[^f00001].
+
+## 1. Citation and commencement[^key-8f61a32faf398cd6243aab1c7fd67bb0]
+
+These Regulations may be cited as the National Health Service (Primary Dental Services) (Miscellaneous Amendments) Regulations 2012 and come into force on 1st April 2012.
+
+## 2. Amendment of the National Health Service (General Dental Services Contracts) Regulations 2005[^key-700622bde6da82c49a43d484f19ef1d2]
+
+(1) The National Health Service (General Dental Services Contracts) Regulations 2005[^f00002] are amended as follows.
+
+(2) In regulation 2 (interpretation), after—
+
+- (a) the definition of “Capitation and Quality Scheme Agreement”, insert—
+
+  > - “Care Quality Commission” means the body established by section 1 of the Health and Social Care Act 2008[^f00003] (The Care Quality Commission);
+
+  ; and
+- (b) the definition of “sedation services”, insert—
+
+  > - “service provider” has the same meaning as in regulation 2 of the Care Quality Commission (Registration) Regulations 2009[^f00004] (interpretation);
+
+  .
+
+(3) In regulation 14 (mandatory services)—
+
+- (a) at the beginning of paragraph (1), insert “Subject to paragraph (1A),”; and
+- (b) after paragraph (1), insert—
+
+  > (1A) The services described in paragraphs (2) to (4) are not required to be provided by the contractor during any period in respect of which the Care Quality Commission has suspended the contractor as a service provider under section 18 of the Health and Social Care Act 2008 (suspension of registration).
+
+  .
+
+(4) In Schedule 3 (other contractual terms), in paragraph 65(2) (termination on the death of an individual dental practitioner), for “three month period”, substitute “6 month period”.
+
+## 3. Amendment of the National Health Service (Personal Dental Services Agreements) Regulations 2005[^key-16f0ad666917f9270bada353aca09f70]
+
+In the National Health Service (Personal Dental Services Agreements) Regulations 2005[^f00005], in Schedule 3 (other contractual terms), in paragraph 63(2) (termination on the death of an individual), for “three month period”, substitute “6 month period”.
+
+## 4. Amendment of the National Health Service (Dental Charges) Regulations 2005[^key-67ce5158c08226c900a13514bcd9c0d3]
+
+(1) The National Health Service (Dental Charges) Regulations 2005[^f00006] are amended as follows.
+
+(2) In regulation 4 (calculation of charges)—
+
+- (a) in paragraph (1), for “£17.00” substitute “£17.50”;
+- (b) in paragraph (2), for “£47.00” substitute “£48.00”;
+- (c) in paragraph (3), for “£204.00” substitute “£209.00”;
+- (d) in paragraph (4), for “£204.00” substitute “£209.00”; and
+- (e) in paragraph (5), for “£17.00” substitute “£17.50”.
+
+## 5. Amendment of the Functions of Primary Care Trusts and Strategic Health Authorities and the NHS Business Services Authority (Awdurdod Gwasanaethau Busnes y GIG) (Primary Dental Services) (England) Regulations 2006[^key-9cb761b1ff4ec975181d2ae4c94dc310]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Signed by authority of the Secretary of State for Health.
+
+Earl Howe
+
+Parliamentary Under Secretary of State,
+
+Department of Health
+
+23rd February 2012
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations amend the National Health Service (General Dental Services Contracts) Regulations 2005 (“the GDS Contracts Regulations”), the National Health Service (Personal Dental Services Agreements) Regulations 2005 (“the PDS Agreements Regulations”), the National Health Service (Dental Charges) Regulations 2005 (“the Dental Charges Regulations”) and the Functions of Primary Care Trusts and Strategic Health Authorities and the NHS Business Services Authority (Awdurdod Gwasanaethau Busnes y GIG) (Primary Dental Services) (England) Regulations 2006 (“the BSA Functions Regulations”).
+
+Regulation 2(3) amends regulation 14 of the GDS Contracts Regulations to ensure that a contractor under its contractual terms is not required to provide mandatory services during any period in respect of which the Care Quality Commission has suspended the contractor as a service provider. Regulation 2(2) makes consequential amendments to insert two new definitions.
+
+Regulation 2(4) amends paragraph 65(2) of Schedule 3 to the GDS Contracts Regulations to provide that a PCT may extend a contract for a further period of six months where there is another contractor who wishes to provide mandatory services which were provided by a deceased dental practitioner. Regulation 3 makes a mirror amendment to the PDS Agreements Regulations. These amendments clarify the policy and correct a drafting error made in [S.I. 2011/1182](https://www.legislation.gov.uk/uksi/2011/1182) in respect of both of these provisions.
+
+Regulation 4 amends regulation 4 of the Dental Charges Regulations to increase the applicable charge payable for a Band 1 course of treatment from £17.00 to £17.50, for a Band 2 course of treatment from £47.00 to £48.00 and a Band 3 course of treatment from £204.00 to £209.00.
+
+Regulation 5 amends the BSA Functions Regulations to update references to the functions exercised by the Business Services Authority in relation to the National Health Service Pension Scheme Regulations 2008 ([S.I. 2008/653](https://www.legislation.gov.uk/uksi/2008/653)) and to reflect amendments made by the National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2011 ([S.I. 2011/2586](https://www.legislation.gov.uk/uksi/2011/2586)).
+
+## Annotations
+
+[^f00001]: Footnote: [2006 c.41](https://www.legislation.gov.uk/ukpga/2006/41). By virtue of section 271 of the Act, the powers conferred by these sections are exercisable by the Secretary of State only in relation to England. *See* section 275(1) for the definition of “prescribed” and “regulations”.
+
+[^key-8f61a32faf398cd6243aab1c7fd67bb0]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2012/502/regulation/1) in force at 1.4.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/502/regulation/1)
+
+[^key-700622bde6da82c49a43d484f19ef1d2]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2012/502/regulation/2) in force at 1.4.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/502/regulation/1)
+
+[^f00002]: Footnote: [S.I. 2005/3361](https://www.legislation.gov.uk/uksi/2005/3361). Relevant amending instrument is [S.I. 2011/1182](https://www.legislation.gov.uk/uksi/2011/1182).
+
+[^f00003]: Footnote: [2008 c.14](https://www.legislation.gov.uk/ukpga/2008/14).
+
+[^f00004]: Footnote: [S.I. 2009/3112](https://www.legislation.gov.uk/uksi/2009/3112) amended by [S.I. 2010/49](https://www.legislation.gov.uk/uksi/2010/49).
+
+[^key-16f0ad666917f9270bada353aca09f70]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2012/502/regulation/3) in force at 1.4.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/502/regulation/1)
+
+[^f00005]: Footnote: [S.I. 2005/3373](https://www.legislation.gov.uk/uksi/2005/3373). Relevant amending instrument is [S.I. 2011/1182](https://www.legislation.gov.uk/uksi/2011/1182).
+
+[^key-67ce5158c08226c900a13514bcd9c0d3]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2012/502/regulation/4) in force at 1.4.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/502/regulation/1)
+
+[^f00006]: Footnote: [S.I. 2005/3477](https://www.legislation.gov.uk/uksi/2005/3477), amended by [S.I. 2006/1837](https://www.legislation.gov.uk/uksi/2006/1837), [2007/544](https://www.legislation.gov.uk/uksi/2007/544), [2008/547](https://www.legislation.gov.uk/uksi/2008/547), [2009/407](https://www.legislation.gov.uk/uksi/2009/407) and [2011/519](https://www.legislation.gov.uk/uksi/2011/519).
+
+[^key-9cb761b1ff4ec975181d2ae4c94dc310]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/uksi/2012/502/regulation/5) revoked (1.4.2013) by [The Functions of the National Health Service Commissioning Board and the NHS Business Services Authority (Awdurdod Gwasanaethau Busnes y GIG) (Primary Dental Services) (England) Regulations 2013 (S.I. 2013/469)](https://www.legislation.gov.uk/uksi/2013/469), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/469/regulation/1/1), [5(b)](https://www.legislation.gov.uk/uksi/2013/469/regulation/5/b)

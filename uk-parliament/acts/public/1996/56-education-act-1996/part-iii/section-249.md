@@ -1,0 +1,27 @@
+---
+title: Education Act 1996, section 249
+act: Education Act 1996
+section: '249'
+status: revised-with-pending-changes
+text_date: '2026-09-01'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/1996/56/section/249
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Education Act 1996, section 249
+
+> **Warning: changes not yet applied to this text (69).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1996/56
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 249. Application of sections 250 to 254.[^c15245331]
+
+*Extent: E+W*
+
+Before the Schools Funding Council for Wales begin to exercise their functions, sections 250 to 254 shall have effect in relation to grant-maintained schools in Wales in place of sections 244(1) and (3), 245(1), 246(1), 247 and 248.
+
+## Annotations
+
+[^c15245331]: Textual amendment: [S. 249](https://www.legislation.gov.uk/ukpga/1996/56/section/249) repealed (1.4.1999 for specified purposes and otherwise prosp.) by [1998 c. 31](https://www.legislation.gov.uk/ukpga/1998/31), [ss. 140(1)(3)](https://www.legislation.gov.uk/ukpga/1998/31/section/140/1/3), [145(3)](https://www.legislation.gov.uk/ukpga/1998/31/section/145/3), [Sch. 30](https://www.legislation.gov.uk/ukpga/1998/31/schedule/30), [para. 70](https://www.legislation.gov.uk/ukpga/1998/31/paragraph/70), [Sch. 31](https://www.legislation.gov.uk/ukpga/1998/31/schedule/31) (with [ss. 138(9)](https://www.legislation.gov.uk/ukpga/1998/31/section/138/9), [144(6)](https://www.legislation.gov.uk/ukpga/1998/31/section/144/6)); [S.I. 1999/1016](https://www.legislation.gov.uk/uksi/1999/1016), [art. 2(1)](https://www.legislation.gov.uk/uksi/1999/1016/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/1016/schedule/1) (subject to savings in [S.I. 1999/2323](https://www.legislation.gov.uk/uksi/1999/2323), [Sch. 7 paras. 2](https://www.legislation.gov.uk/uksi/1999/2323/schedule/7/paragraph/2), [5](https://www.legislation.gov.uk/uksi/1999/2323/schedule/7/paragraph/5), [6](https://www.legislation.gov.uk/uksi/1999/2323/schedule/7/paragraph/6), [10](https://www.legislation.gov.uk/uksi/1999/2323/schedule/7/paragraph/10), [12](https://www.legislation.gov.uk/uksi/1999/2323/schedule/7/paragraph/12))

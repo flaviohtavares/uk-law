@@ -1,0 +1,190 @@
+---
+title: The Council Tax (Reductions for Disabilities) Regulations 1992
+id: uksi/1992/554
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '1992-03-09'
+text_date: '2005-03-16'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/1992/554
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1992/554/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Council Tax (Reductions for Disabilities) Regulations 1992
+
+> Text as at 2005-03-16.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+1992 No. 554
+
+COUNCIL TAX, ENGLAND AND WALES
+
+The Council Tax (Reductions for Disabilities) Regulations 1992
+
+Made
+
+9th March 1992
+
+Laid before Parliament
+
+10th March 1992
+
+Coming into force
+
+31st March 1992
+
+The Secretary of State for the Environment, as respects England, and the Secretary of State for Wales, as respects Wales, in exercise of the powers conferred on them by sections 13(1) to (4), (6) and (7), and 113(1) and (2) of the Local Government Finance Act 1992[^f00001]and of all other powers enabling them in that behalf, hereby make the following Regulations:
+
+## 1. Citation, commencement and interpretation[^key-d1f43c105bb49379b3340d3f5d888f56][^key-a6d1870e65eaac665cb7b0c39235ff08]
+
+(1) These Regulations may be cited as the Council Tax (Reductions for Disabilities) Regulations 1992 and shall come into force on 31st March 1992.
+
+(2) In these Regulations–
+
+- “the Act” means the Local Government Finance Act 1992;
+- “qualifying individual” means a person who is substantially and permanently disabled (whether by illness, injury, congenital deformity or otherwise) [^key-f202e7edcd766eb9fde3e00e0aed56ce]...
+- [^key-53fa4dcc9433a2dbad1ffebb24d6faef]...
+
+(3) Any reference in these Regulations to a liable person is a reference to a person who is liable (whether his liability is sole or joint and several) to pay to a billing authority, in respect of a particular dwelling, an amount in respect of council tax, and includes, unless the context otherwise requires, a reference to a person who in the opinion of the authority will be so liable.
+
+(4)[^key-422cd4320c233ec6792bcb094f3c93c2] Any reference in these Regulations to the relevant valuation band in relation to a dwelling is a reference to the valuation band shown as applicable to the dwelling—
+
+- (a) in the billing authority’s valuation list; or
+- (b) if no such list is in force—
+  - (i) except in a case to which paragraph (5) applies, in the copy of the proposed list supplied to the authority under section 22(5)(b) of the Act;
+  - (ii) in a case to which paragraph (5) applies, in information which for the purposes of this paragraph is relevant information.
+
+(5) This paragraph applies where the listing officer supplies the authority with information relating to property shown in the proposed list (including information relating to the application to such property of article 3 or 4 of the Council Tax (Chargeable Dwellings) Order 1992); and such information is relevant information for the purposes of paragraph (4)(b)(ii) to the extent that it differs from information contained in the proposed list.
+
+## 2. Prescribed years[^key-5a51b7dc1e55641cde956de2121c69f6]
+
+The financial years commencing with the financial year beginning on 1st April 1993 are prescribed as the years for which these Regulations apply.
+
+## 3. Eligible persons[^key-72b56353d0baf26c3a7e1a0c9952a752]
+
+(1) [^key-278d6113cc396ac1df2a5c52736b1f71]... A person is an eligible person for the purposes of these Regulations if–
+
+- (a) he is a liable person as regards a dwelling which is the sole or main residence of at least one qualifying individual and in which there is provided–
+- (i) a room which is not a bathroom, a kitchen or a lavatory and which is predominantly used (whether for providing therapy or otherwise) by and is required for meeting the needs of any qualifying individual resident in the dwelling; or
+  - (ii) a bathroom or kitchen which is not the only bathroom or kitchen within the dwelling and which is required for meeting the needs of any qualifying individual resident in the dwelling; or
+  - (iii) sufficient floor space to permit the use of a wheelchair required for meeting the needs of any qualifying individual resident in the dwelling; and
+- (b) as regards the financial year in question, an application is made in writing by him or on his behalf to that authority.
+
+(2) For the purposes of paragraph (1), and subject to paragraph (3), references to anything being required for meeting the needs of a qualifying individual are references to its being essential or of major importance to his well-being by reason of the nature and extent of his disability.
+
+(3) A wheelchair is not required for meeting an individual’s needs if he does not need to use it within the living accommodation comprising or included in the dwelling concerned.
+
+(4)[^key-5dca4a2fdc7b0b8070a7ddb9758e295c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5) Where the liability of a liable person who is an eligible person is joint and several, an application made by him for the purposes of these Regulations shall be treated as also made on behalf of each of the other liable persons.
+
+## 4. Calculation of amount payable[^key-b6d65d09a4428d6a473359d5ba7ebc24]
+
+(1) In this regulation–
+
+- “alternative valuation band” means the valuation band which appears in the Table in section 5(2) of the Act or, as the case may be, section 5(3) of the Act immediately above the valuation band which is the relevant valuation band as regards the dwelling in question; and
+- “the appropriate percentage” shall be construed in accordance with section 11(3) of the Act.
+
+(2) Subject to paragraphs (4) and (6), the amount of council tax payable by an eligible person in respect of the dwelling in question and each day on which the condition referred to in regulation 3(1)(a) is satisfied shall be calculated in accordance with the formula set out in paragraph (3).
+
+(3) The formula is–
+
+[formula: see source](https://www.legislation.gov.uk/uksi/1992/554)
+
+where–
+
+- A is the amount determined in accordance with paragraph (3A)[^key-7529e1fa76d493961e7895e98aa037ce]; and
+- B is the number of days in the financial year.
+
+(3A)[^key-297165ad6de5edbc63ff4d006405fee6] For the purposes of this regulation–
+
+- (a) in respect of a dwelling in relation to which the relevant valuation band is any of valuation bands B to H *(Extent: W)* *(affected by repeal, see note)*[^key-1cc59c597f3773b8cd02fdc58248d919] B to I *(Extent: W)*, A is the amount which, for the financial year in which the day falls and the alternative valuation band, has been set by the authority for its area or (as the case may be) the part of its area in which the dwelling is situated; and
+- (b) in respect of a dwelling in relation to which the relevant valuation band is valuation band A, A is an amount equal to five ninths of the amount which, for the financial year in which the day falls and valuation band D, has been set by the authority for its area or (as the case may be) the part of its area in which the dwelling is situated.
+
+(3B) References in paragraph (3A) to an amount set by an authority include a reference to an amount set in substitution for such an amount.
+
+(4) Where, but for these Regulations, the amount of council tax payable by an eligible person as regards the dwelling in question and any day would be subject to a discount in accordance with section 11 or 12 of the Act, paragraph (2) shall apply in his case as if the reference to the formula set out in paragraph (3) were a reference to the formula set out in paragraph (5).
+
+(5) The formula is–
+
+[formula: see source](https://www.legislation.gov.uk/uksi/1992/554)
+
+where A and B have the same connotations as in paragraph (3) and C is the appropriate percentage or, as the circumstances require, twice the appropriate percentage applicable in the case of the eligible person concerned.
+
+(6) Where, as regards an eligible person, the dwelling in question and a day on which the condition referred to in regulation 3(1)(a) is satisfied–
+
+- (a)[^key-2a60141491d0db6ad5334d86cf529b4d] regulations under section 13 of the Act (other than these Regulations) apply; or
+- (b) the amount of any council tax benefit to which he is entitled takes the form of a reduction in the amount he is liable to pay as regards that day,
+
+the amount payable shall be calculated in accordance with these Regulations as read with those regulations or, as the case may be, regulations relating to that reduction[^f00002].
+
+## 5. Provision of information[^key-1b784cce507216cba6247657df2475c9]
+
+(1) A billing authority may, for the purpose of considering whether these Regulations apply to any person, by written notice request that person to furnish to the authority within such period, not being less than 21 days, as it may reasonably specify such information specified in the notice as it may reasonably request of that person to assist it in considering that question.
+
+(2) Where a person has reason to believe that he has ceased to be an eligible person for the purposes of these Regulations, he shall notify the relevant billing authority of his belief.
+
+Michael Heseltine
+
+Secretary of State for the Environment
+
+David Hunt
+
+Secretary of State for Wales
+
+(This note is not part of the Regulations)
+
+Section 10 of the Local Government Finance Act 1992 (“the Act”) provides for the calculation of the basic amount that a person is liable to pay by way of council tax.
+
+These Regulations, which apply as regards financial years commencing with the financial year beginning on 1st April 1993, make different provision. Subject to one exception and the making of an application to the billing authority concerned, they apply where the dwelling in respect of which a person is liable to council tax is the sole or main residence of a person who is substantially and permanently disabled and the dwelling satisfies the condition specified in regulation 3(1)(a).
+
+The exception relates to dwellings shown in the billing authority’s valuation list or, where an application is made before 1st April 1993, in its copy of the proposed list, in valuation band A (not exceeding £40,000 in England, or £30,000 in Wales).
+
+The council tax bill of a person to whom the Regulations apply (“the eligible person”) will be calculated, in accordance with regulation 4, as if the dwelling in respect of which his liability arises was in a lower valuation band than is in fact the case. If the eligible person would otherwise have been entitled to a discount under section 11 or 12 of the Act or he is entitled to council tax benefit, or other regulations under section 13 of the Act apply in his case, the amount payable is calculated accordingly.
+
+Regulation 5 allows a billing authority to obtain information relevant to the application of the Regulations and requires a person to notify the authority if he has reason to believe that he is no longer an eligible person for the purposes of the Regulations.
+
+## Annotations
+
+[^f00001]: Footnote: [1992 c. 14](https://www.legislation.gov.uk/ukpga/1992/14). See section 116(1) for the definition of “prescribed”.
+
+[^key-d1f43c105bb49379b3340d3f5d888f56]: Commencement: Reg. 1 in force at 31.3.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/554/regulation/1/1)
+
+[^key-a6d1870e65eaac665cb7b0c39235ff08]: Modification: [Reg. 1](https://www.legislation.gov.uk/uksi/1992/554/regulation/1) modified (1.1.1996) by [The Local Government Reorganisation (Wales) (Finance) (Miscellaneous Amendments and Transitional Provisions) Order 1995 (S.I. 1995/3150)](https://www.legislation.gov.uk/uksi/1995/3150), [arts. 1](https://www.legislation.gov.uk/uksi/1995/3150/article/1), [4](https://www.legislation.gov.uk/uksi/1995/3150/article/4)
+
+[^key-f202e7edcd766eb9fde3e00e0aed56ce]: Textual amendment: Word in [reg. 1(2)](https://www.legislation.gov.uk/uksi/1992/554/regulation/1/2) revoked (15.2.1993) by [The Council Tax (Reductions for Disabilities) (Amendment) Regulations 1993 (S.I. 1993/195)](https://www.legislation.gov.uk/uksi/1993/195), [regs. 1](https://www.legislation.gov.uk/uksi/1993/195/regulation/1), [2(a)(i)](https://www.legislation.gov.uk/uksi/1993/195/regulation/2/a/i)
+
+[^key-53fa4dcc9433a2dbad1ffebb24d6faef]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/1992/554/regulation/1/2) revoked (15.2.1993) by [The Council Tax (Reductions for Disabilities) (Amendment) Regulations 1993 (S.I. 1993/195)](https://www.legislation.gov.uk/uksi/1993/195), [regs. 1](https://www.legislation.gov.uk/uksi/1993/195/regulation/1), [2(a)(ii)](https://www.legislation.gov.uk/uksi/1993/195/regulation/2/a/ii)
+
+[^key-422cd4320c233ec6792bcb094f3c93c2]: Textual amendment: [Reg. 1(4)](https://www.legislation.gov.uk/uksi/1992/554/regulation/1/4)[(5)](https://www.legislation.gov.uk/uksi/1992/554/regulation/1/5) added (15.2.1993) by [The Council Tax (Reductions for Disabilities) (Amendment) Regulations 1993 (S.I. 1993/195)](https://www.legislation.gov.uk/uksi/1993/195), [regs. 1](https://www.legislation.gov.uk/uksi/1993/195/regulation/1), [2(b)](https://www.legislation.gov.uk/uksi/1993/195/regulation/2/b)
+
+[^key-5a51b7dc1e55641cde956de2121c69f6]: Commencement: Reg. 2 in force at 31.3.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/554/regulation/1/1)
+
+[^key-72b56353d0baf26c3a7e1a0c9952a752]: Commencement: Reg. 3 in force at 31.3.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/554/regulation/1/1)
+
+[^key-278d6113cc396ac1df2a5c52736b1f71]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/1992/554/regulation/3/1) revoked (1.4.2000) by [The Council Tax (Reductions for Disabilities) (Amendment) Regulations 1999 (S.I. 1999/1004)](https://www.legislation.gov.uk/uksi/1999/1004), [regs. 1](https://www.legislation.gov.uk/uksi/1999/1004/regulation/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/1999/1004/regulation/2/4/a)
+
+[^key-5dca4a2fdc7b0b8070a7ddb9758e295c]: Textual amendment: [Reg. 3(4)](https://www.legislation.gov.uk/uksi/1992/554/regulation/3/4) revoked (1.4.2000) by [The Council Tax (Reductions for Disabilities) (Amendment) Regulations 1999 (S.I. 1999/1004)](https://www.legislation.gov.uk/uksi/1999/1004), [regs. 1](https://www.legislation.gov.uk/uksi/1999/1004/regulation/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/1999/1004/regulation/2/4/b)
+
+[^key-b6d65d09a4428d6a473359d5ba7ebc24]: Commencement: Reg. 4 in force at 31.3.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/554/regulation/1/1)
+
+[^key-7529e1fa76d493961e7895e98aa037ce]: Textual amendment: Words in [reg. 4(3)](https://www.legislation.gov.uk/uksi/1992/554/regulation/4/3) substituted (1.4.2000) by [The Council Tax (Reductions for Disabilities) (Amendment) Regulations 1999 (S.I. 1999/1004)](https://www.legislation.gov.uk/uksi/1999/1004), [regs. 1](https://www.legislation.gov.uk/uksi/1999/1004/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/1999/1004/regulation/2/2)
+
+[^key-297165ad6de5edbc63ff4d006405fee6]: Textual amendment: [Reg. 4(3A)](https://www.legislation.gov.uk/uksi/1992/554/regulation/4/3A)[(3B)](https://www.legislation.gov.uk/uksi/1992/554/regulation/4/3B) inserted (1.4.2000) by [The Council Tax (Reductions for Disabilities) (Amendment) Regulations 1999 (S.I. 1999/1004)](https://www.legislation.gov.uk/uksi/1999/1004), [regs. 1](https://www.legislation.gov.uk/uksi/1999/1004/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/1999/1004/regulation/2/3)
+
+[^key-1cc59c597f3773b8cd02fdc58248d919]: Textual amendment: Words in [reg. 4(3A)(a)](https://www.legislation.gov.uk/uksi/1992/554/regulation/4/3A/a) substituted (W.) (16.3.2005) by [The Council Tax (Reductions for Disabilities and Transitional Arrangements) (Wales) (Amendment) Regulations 2005 (S.I. 2005/702)](https://www.legislation.gov.uk/wsi/2005/702), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2005/702/regulation/1/1), [3(2)](https://www.legislation.gov.uk/wsi/2005/702/regulation/3/2)
+
+[^key-2a60141491d0db6ad5334d86cf529b4d]: Modification: [Reg. 4(6)(a)](https://www.legislation.gov.uk/uksi/1992/554/regulation/4/6/a) modified (W.) (1.12.2004) by [The Council Tax (Transitional Arrangements) (Wales) Regulations 2004 (S.I. 2004/3142)](https://www.legislation.gov.uk/wsi/2004/3142), [regs. 1](https://www.legislation.gov.uk/wsi/2004/3142/regulation/1), [6](https://www.legislation.gov.uk/wsi/2004/3142/regulation/6)
+
+[^f00002]: Footnote: See section 138 of the Social Security Administration Act [1992 (c. 5)](https://www.legislation.gov.uk/ukpga/1992/5), as amended by the Local Government Finance Act 1992, Schedule 9, paragraph 19.
+
+[^key-1b784cce507216cba6247657df2475c9]: Commencement: Reg. 5 in force at 31.3.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/554/regulation/1/1)

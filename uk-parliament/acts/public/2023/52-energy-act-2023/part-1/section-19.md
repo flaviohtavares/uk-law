@@ -1,0 +1,58 @@
+---
+title: Energy Act 2023, section 19
+act: Energy Act 2023
+section: '19'
+status: revised
+text_date: '2026-09-30'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2023/52/section/19
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Energy Act 2023, section 19
+
+> Text as at 2026-09-30.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 19. Consenting to transfer[^key-97a43b1b153ffb9a96e413f0bd6f4644]
+
+*Extent: E+W+S+N.I.*
+
+(1) Before giving consent to the transfer of a licence under section 18(1), the economic regulator must—
+
+- (a) publish a notice stating that it proposes to grant consent to the transfer,
+- (b) send a copy of the notice to—
+  - (i) the Scottish Ministers, if an activity authorised by the licence is within Scottish devolved competence,
+  - (ii) the Welsh Ministers, if an activity authorised by the licence is within Welsh devolved competence,
+  - (iii) the Department for the Economy in Northern Ireland, if an activity authorised by the licence is within Northern Ireland devolved competence,
+  - (iv) the Oil and Gas Authority, and
+  - (v) such other persons as the economic regulator considers are likely to be affected by the decision, and
+- (c) consider any representations or objections that are duly made and not withdrawn.
+
+(2) Section 17(4) (activities authorised by a licence: devolved competence) applies for the purposes of subsection (1)(b) of this section as it applies for the purposes of section 17.
+
+(3) A notice under subsection (1) must—
+
+- (a) state the reasons why the economic regulator proposes to give consent;
+- (b) specify any conditions the economic regulator proposes to impose under section 18(4);
+- (c) specify the time from the date of publication of the notice (which must not be less than two months) within which representations or objections with respect to the proposed transfer may be made,
+
+and must be published in such manner as the economic regulator considers appropriate for bringing it to the attention of persons likely to be affected by the transfer.
+
+(4) Subject to subsection (6), the economic regulator must, following consideration of any representations or objections under subsection (3), give the Secretary of State not less than 28 days’ notice of—
+
+- (a) any proposal to give consent to the transfer, and
+- (b) any conditions the economic regulator proposes to impose under section 18(4).
+
+(5) If, before the expiry of the time specified in a notice under subsection (4), the Secretary of State gives the economic regulator a direction not to consent to the transfer, the economic regulator must comply with that direction.
+
+(6) Where the Secretary of State gives no direction under subsection (5), the economic regulator may give consent to the transfer of the licence after—
+
+- (a) the expiry of the time specified in the notice under subsection (4), or
+- (b) if earlier than the time in paragraph (a), the time at which the Secretary of State informs the economic regulator that in relation to the notice no direction will be given under subsection (5).
+
+## Annotations
+
+[^key-97a43b1b153ffb9a96e413f0bd6f4644]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2023/52/section/19) in force at 26.12.2023, see [s. 334(3)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a)

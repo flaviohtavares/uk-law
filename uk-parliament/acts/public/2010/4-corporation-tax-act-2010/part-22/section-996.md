@@ -1,0 +1,40 @@
+---
+title: Corporation Tax Act 2010, section 996
+act: Corporation Tax Act 2010
+section: '996'
+status: revised-with-pending-changes
+text_date: '2026-03-18'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2010/4/section/996
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Corporation Tax Act 2010, section 996
+
+> **Warning: changes not yet applied to this text (16).** Text as at 2026-03-18. See https://www.legislation.gov.uk/changes/affected/ukpga/2010/4
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 996. Use of different accounting practices within a group of companies
+
+*Extent: E+W+S+N.I.*
+
+(1) Subsection (2) applies if—
+
+- (a) a company (“company A”) prepares accounts in accordance with international accounting standards,
+- (b) another company (“company B”) in the same group of companies prepares accounts in accordance with UK generally accepted accounting practice,
+- (c) there is a transaction between, or a series of transactions involving, company A and company B, and
+- (d) a tax advantage would (apart from this section) be obtained by either or both of those companies in relation to the transaction or series of transactions as a result of the use of different accounting practices.
+
+(2) The Tax Acts apply in relation to the transaction or series of transactions as if both company A and company B prepared accounts in accordance with UK generally accepted accounting practice.
+
+(3) Section 170(3) to (6) of TCGA 1992 apply to determine for the purposes of this section whether companies are in the same group of companies.
+
+(4) None of the following circumstances (individually or in combination) prevents a series of transactions from being a series of transactions involving company A and company B—
+
+- (a) there is no transaction in the series to which both those companies are parties,
+- (b) the parties to any arrangements in pursuance of which the transactions in the series are entered into do not include one or both of those companies,
+- (c) there are one or more transactions in the series to which neither of those companies is a party.
+
+(5) In this section “**tax advantage**” has the meaning given by section 1139.

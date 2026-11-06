@@ -1,0 +1,68 @@
+---
+title: European Union Referendum Act 2015, section 11
+act: European Union Referendum Act 2015
+section: '11'
+status: revised
+text_date: '2023-02-07'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2015/36/section/11
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# European Union Referendum Act 2015, section 11
+
+> Text as at 2023-02-07.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 11. Definitions
+
+*Extent: E+W+S+N.I.*
+
+(1) In this Act—
+
+- “**the 1983 Act**” means the Representation of the People Act 1983;
+- “**the 2000 Act**” means the Political Parties, Elections and Referendums Act 2000;
+- “**the 2011 Act**” means the Parliamentary Voting System and Constituencies Act 2011;
+- “body”, without more, means a body corporate or any combination of persons or other unincorporated association;
+- “**Chief Counting Officer**” means the Chief Counting Officer for the referendum (see section 128(2) of the 2000 Act);
+- “**conduct regulations**” means regulations under section 4(1)(a);
+- “**counting officer**” has the meaning given by paragraph 3 of Schedule 3;
+- “**designated organisation**” means a person or body designated under section 108 of the 2000 Act (designation of organisations to whom assistance is available) in respect of the referendum;
+- “**document**” means a document in whatever form;
+- “**enactment**” includes—
+  - (a) any provision of an Act,
+  - (b) any provision of, or of any instrument made under, an Act of the Scottish Parliament,
+  - (c) any provision of, or of any instrument made under, Northern Ireland legislation, and
+  - (d) any provision of subordinate legislation (within the meaning of the Interpretation Act 1978);
+- “**Gibraltar conduct law**” has the meaning given by section 5(2);
+- “**the Gibraltar standard scale**” means the standard scale set out in Part A of Schedule 9 to the Criminal Procedure and Evidence Act;
+- “**the Minister**” means the Secretary of State or the Minister for the Cabinet Office[^key-76938523c9d1079dad0da5542c0dbf4a];
+- “**permitted participant**” means a person who, in relation to the referendum, is a permitted participant within the meaning given by section 105(1) of the 2000 Act (as modified by paragraph 2 of Schedule 1);
+- “**the referendum**” means the referendum under section 1;
+- “**referendum expenses**” has the meaning given by section 111 of the 2000 Act (see also paragraph 19 of Schedule 1);
+- “**the referendum period**” has the meaning given by paragraph 1 of Schedule 1;
+- “**Regional Counting Officer**” means an officer appointed under paragraph 5(1) of Schedule 3;
+- “**registered party**” and “**minor party**” have the same meaning as in the 2000 Act (see section 160(1) of that Act);
+- “**registration officer**” has the meaning given by section 8 of the 1983 Act;
+- “**responsible person**”, in relation to a permitted participant, means the responsible person within the meaning given by section 105(2) of the 2000 Act (as modified by paragraph 5 of Schedule 1);
+- “**voting area**” has the meaning given by subsection (2).
+
+(2) Each of the following, as it exists on the day of the referendum, is a “**voting area**” for the purposes of this Act—
+
+- (a) a district in England for which there is a district council;
+- (b) a county in England in which there are no districts with councils;
+- (c) a London borough;
+- (d) the City of London (including the Inner and Middle Temples);
+- (e) the Isles of Scilly;
+- (f) a county or county borough in Wales;
+- (g) a local government area in Scotland;
+- (h) Northern Ireland;
+- (i) Gibraltar.
+
+(3) References in this Act to a named Act (with no date) are to the Gibraltar Act of that name.
+
+## Annotations
+
+[^key-76938523c9d1079dad0da5542c0dbf4a]: Textual amendment: Words in s. 11(1) substituted (9.11.2016) by [The Transfer of Functions (Elections, Referendums, Third Sector and Information) Order 2016 (S.I. 2016/997)](https://www.legislation.gov.uk/uksi/2016/997), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2), [Sch. 2 para. 30](https://www.legislation.gov.uk/uksi/2016/997/schedule/2/paragraph/30) (with [art. 12](https://www.legislation.gov.uk/uksi/2016/997/article/12))

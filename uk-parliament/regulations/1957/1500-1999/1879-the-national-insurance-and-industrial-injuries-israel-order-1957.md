@@ -1,0 +1,428 @@
+---
+title: The National Insurance and Industrial Injuries (Israel) Order, 1957
+id: uksi/1957/1879
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '1957-10-31'
+text_date: '2017-04-06'
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1957/1879
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1957/1879/pdfs/uksi_19571879_en.pdf
+- http://www.legislation.gov.uk/uksi/1957/1879/pdfs/uksi_19571879_301114_en.pdf
+- http://www.legislation.gov.uk/uksi/1957/1879/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Westlaw UK derived from Crown Copyright material and contributed to legislation.gov.uk
+summary: ''
+---
+
+# The National Insurance and Industrial Injuries (Israel) Order, 1957
+
+> Text as at 2017-04-06.
+
+1957 No. 1879
+
+NATIONAL INSURANCE
+
+The National Insurance and Industrial Injuries (Israel) Order, 1957
+
+Made
+
+31st October 1957
+
+Coming into Operation
+
+1st November 1957
+
+At the Court at Buckingham Palace, the 31st day of October, 1957
+
+Present,
+
+The Queen's Most Excellent Majesty in Council
+
+Whereas at London on the twenty-ninth day of April, nineteen hundred and fifty-seven, a Convention between the Government of the United Kingdom of Great Britain and Northern Ireland and the Government of Israel on social security (which Convention is set out in the Schedule hereto) was signed on behalf of those Governments:
+
+And Whereas by Article 30 of the said Convention it was provided that the Convention should enter into force on the first day of the second month following the month in which the instruments of ratification had been exchanged:
+
+And Whereas the said Convention has been ratified by the Governments of the United Kingdom of Great Britain and Northern Ireland and of Israel and the instruments of ratification were exchanged on the 25th day of September, 1957, and accordingly the said Convention enters into force on the 1st day of November, 1957:
+
+And Whereas by section 64 of the National Insurance Act, 1946, and section 85 of the National Insurance (Industrial Injuries) Act, 1946, it is provided that Her Majesty may by Order in Council make provision for modifying or adapting those Acts in their application to cases affected by agreements with other governments providing for reciprocity in the matters specified in those sections:
+
+Now, therefore, Her Majesty, in pursuance of the said section 64 of the National Insurance Act, 1946, and the said section 85 of the National Insurance (Industrial Injuries) Act, 1946, and of all other powers enabling Her in that behalf, is pleased, by and with the advice of Her Privy Council, to order, and it is hereby ordered, as follows:—[^M_C_8e9ebbf9-b12c-4242-afe8-e69a9e263a0f][^M_C_a2408ae9-5cf0-4c98-c8ec-85c09f1289aa][^key-8b03a90f3037e3ececf3b1d39282c080][^key-c008df6309da906a3d678a2e2b739dae][^key-da01e1f700b4cb50f70dc2031eb39a6a][^key-bd52c39b3e694a5fbe8a8e8cf22c0190][^key-2fc6f71d910e2563e00810a1d9fe41d4]
+
+## 1. Citation, commencement and interpretation
+
+(1) This Order may be cited as the National Insurance and Industrial Injuries (Israel) Order, 1957, and shall come into operation on the 1st day of November, 1957.
+
+(2) The Interpretation Act, 1889, applies to the interpretation of this Order as it applies to the interpretation of an Act of Parliament.
+
+## 2. Modification of Acts
+
+The provisions contained in the Convention set out in the Schedule to this Order shall have full force and effect, so far as the same relate to England, Wales and Scotland and provide by way of agreement with the Government of Israel for reciprocity in any matters specified in either subsection (1) of section 64 of the National Insurance Act, 1946, or subsection (1) of section 85 of the National Insurance (Industrial Injuries) Act, 1946, and the National Insurance Acts, 1946 to 1957, and the National Insurance (Industrial Injuries) Acts, 1946 to 1957, shall have effect subject to such modifications as may be required therein for the purpose of giving effect to the said provisions.
+
+W. G. Agnew
+
+## SCHEDULE[^key-89cdc8ad62fb0913be3379c21437a2dc]
+
+> CONVENTION ON SOCIAL SECURITY BETWEEN THE UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND AND ISRAEL
+>
+> The Government of the United Kingdom of Great Britain and Northern Ireland and the Government of Israel,
+>
+> Being resolved to co-operate in the social field,
+>
+> Affirming the principle, already accepted by both Contracting Parties, that the nationals of one Party should receive under the social security legislation of the other Party equal treatment with the nationals of the latter Party,
+>
+> Desirous of making arrangements enabling persons who go from the territory of one Party to the territory of the other either to keep the rights which they have acquired under the legislation of the former Party or to enjoy corresponding rights under the legislation of the latter,
+>
+> Desirous also of making arrangements for insurance periods completed under the legislation of the two Parties to be added together for the purpose of determining the right to receive benefit,
+>
+> Have agreed as follows:
+>
+> **PART I — DEFINITIONS AND SCOPE**
+>
+> **ARTICLE 1.** For the purpose of the present Convention—
+>
+> (1) “**territory**” means, in relation to the United Kingdom, England, Scotland, Wales, Northern Ireland and the Isle of Man, and, in relation to Israel, the territory of Israel, which, for the purpose of this Convention, shall mean the territory administered by the Government of Israel on the 19th of July, 1956;
+>
+> (2) “**national**” means, in relation to the United Kingdom, a citizen of the United Kingdom and Colonies, and, in relation to Israel, a person having Israeli citizenship;
+>
+> (3) “**legislation**” means, according to the context, the laws and regulations specified in Article 2 in force in any part of the territory of one of the Contracting Parties[^M_F_8ca0bbdb-b933-436f-9ec9-23c637fe7858];
+>
+> (4)[^M_F_c59e4ac5-cf78-4cd9-cc82-42150ba8a6a0] "**competent authority**" means the authority responsible for the social security schemes in all or part of a territory of each Party; in relation to the territory of the United Kingdom, the Secretary of State for Social Services, the Department of Health and Social Services for Northern Ireland, and the Isle of Man Board of Social Security, and, in relation to Israel, the Minister of Labour and Social Affairs;
+>
+> (5) “**child**” means, in relation to any person, a child, within the meaning of the legislation which is being applied, who is treated under that legislation as being a child of that person or included in his family;
+>
+> (5A)[^M_F_fc8de914-34a9-421b-f052-c031d035908a] "**children's allowances**" means, in relation to the United Kingdom, child benefit payable under the legislation of the United Kingdom, and, in relation to Israel, children's allowance payable under the legislation of Israel;
+>
+> (6) “**parent**” includes a person who is treated as a parent under the legislation which is being applied;
+>
+> (7) “**dependant**” means a person for whom an increase of benefit is payable under the legislation which is being applied;
+>
+> (8)[^M_F_c35dbb1d-4b9c-4d9b-f447-43675af5f33e] "**insurance period**" means a period in respect of which contributions appropriate to the benefit in question have been paid, credited, or treated as paid under the legislation of one of the Contracting Parties;
+>
+> (9) the words “**benefit**” and “**pension**” include any increase in the benefit or pension and any additional allowances payable therewith;
+>
+> (10) “**old age pension**” means, in relation to the United Kingdom, a contributory old age pension or retirement pension payable under the legislation of the United Kingdom, and, in relation to Israel, an old age pension payable under the legislation of Israel;
+>
+> (11)[^M_F_ed327a85-f84a-4c7a-cde1-e7d012d9e971] "**widow's benefit**" means, in relation to the United Kingdom; widow's allowance, widowed mother's allowance and widow's pension payable under the legislation of the United Kingdom and, in relation to Israel, survivor's benefit (except orphan's benefit) payable under the legislation of Israel;
+>
+> (12) "**orphan's benefit**" means, in relation to the United Kingdom, a guardian's allowance payable under the legislation of the United Kingdom and, in relation to Israel, a survivor's benefit payable in respect of a double orphan under the legislation of Israel;
+>
+> (13) "**benefit in respect of an industrial injury**" means, in relation to the United Kingdom:
+>
+> - (a) sickness benefit or invalidity pension payable in respect of incapacity for work resulting from
+>   - (i) personal injury caused by an accident arising out of and in the course of employment; or
+>   - (ii) an industrial disease or personal injury due to the nature of any employment
+>
+>   which is payable within a period of ninety days (disregarding Sundays) beginning with the day of the accident or the date of onset of the disease;
+> - (b) disablement benefit;
+> - (c) industrial death benefit;
+>
+> and, in relation to Israel, industrial injury benefit payable under the legislation of Israel;
+>
+> (14) "**competent institution**" means the authority from which the person concerned is entitled to receive benefit or would be entitled to receive benefit if he were resident in the territory of the Party where that authority is situated;
+>
+> (15) other terms in this Convention have the meaning given to them under the applicable legislation.
+>
+> **ARTICLE 2.**[^M_F_0c0fff97-da4c-4f21-de89-400426278525] (1) The provisions of this Convention shall apply,
+>
+> - (a) in relation to the United Kingdom, to:
+>   - (i) the Social Security Acts 1975 to 1982 and the Social Security (Northern Ireland) Acts 1975 to 1982;
+>   - (ii) the Social Security Acts 1975 to 1982 (Acts of Parliament) as applied to the Isle of Man by Orders made under the provisions of the Social Security Act 1982 (an Act of Tynwald);
+>   - (iii) the Child Benefit Act 1975, the Child Benefit (Northern Ireland) Order 1975, and the Child Benefit Act 1975 (an Act of Parliament) as applied to the Isle of Man by Orders made under the provisions of the Social Security Act 1982 (an Act of Tynwald);
+>
+>   and the legislation which was consolidated by those Acts or Orders or repealed by legislation consolidated by them;
+> - (b) in relation to Israel; to:
+>
+> the National Insurance Law (Consolidated Version) 5728–1968, as far as it applies to the insurance branches included in this Convention.
+>
+> (2) Subject to the provisions of paragraphs (3), (4) and (5) of this Article, this Convention shall apply also to any legislation which supersedes, replaces, amends, supplements or consolidates the legislation specified in paragraph (1) of this Article.
+>
+> (3) This Convention shall apply, unless the Parties agree otherwise, only to benefits described in the legislation specified in paragraph (1) of this Article at the date of coming into force of this Convention and for which specific provision is made in this Convention.
+>
+> (4) This Convention shall apply to any legislation which relates to a branch of social security not covered by the legislation specified in paragraph (1) of this Article only if the two Parties make an agreement to that effect.
+>
+> (5) This Convention shall not apply to legislation on social security of the Institutions of the European Communities nor to any convention on social security which either Party has concluded with a third party nor to any laws or regulations which amend the legislation specified in paragraph (1) of this Article for the purpose of giving effect to such a convention but shall not prevent either Party from taking into account under its legislation the provisions of any other convention which that Party has concluded with a third party provided this shall not reduce the amount of benefit payable under the provisions of this Convention.
+>
+> **PART II — GENERAL PROVISIONS**
+>
+> **ARTICLE 3.** Subject to the provisions of the present Convention, a national of one Contracting Party shall be subject to the obligations, and entitled to enjoy the advantages, of the legislation of the other Party under the same conditions as a national of the latter Party.
+>
+> **ARTICLE 4.** (1)[^M_F_0c3b4d74-8b12-4c4b-c99b-1281afb525d2] If a person is temporarily employed in the territory of one Contracting Party and is not ordinarily resident there, and if his employer is resident in the territory of the other Party, or has his principal place of business there, then—
+>
+> - (a) for the first two years of that employment[^M_F_20eef1f5-4f39-4363-d1eb-2b040e456d11] those provisions of the legislation of the latter Party which concern the payment of contributions shall apply to him as if he were employed in the territory of that Party;
+> - (b) the legislation of the former Party shall not apply to him.
+>
+> (2)[^M_F_3870ea90-f09c-4b14-fc35-a57012325651] Where the person's employment continues for longer than two years, the legislation of the latter Party shall continue to apply to him provided that the competent authorities of the two Parties agree thereto, and provided that the employment has not lasted for longer than five years.
+>
+> **ARTICLE 5.** (1) The present Convention shall not apply to established members of the Foreign Service of either Contracting Party.
+>
+> (2)[^M_F_5ed2c8cc-63cc-41fa-c577-bd01bcc3a199] Subject to the provisions of paragraph (1) of this Article, where a person is employed in:
+>
+> - (i) the government service, or
+> - (ii) the public service, or
+> - (iii) the maritime or airline undertakings
+>
+> of one Party in the territory of the other Party and is not ordinarily resident in that territory, or a person is employed in the private service of a person referred to in sub-paragraph (i) or (ii) of this paragraph and is not ordinarily resident in that territory, then those provisions of the legislation of the former Party which concern the payment of contributions shall apply to him as if he were employed in the territory of that Party and the legislation of the latter Party shall not apply to him.
+>
+> (3) Where a person to whom paragraphs (1) and (2) of this Article do not apply is employed in a diplomatic or consular post of one Party in the territory of the other, or is employed there in the private service of a diplomatic or consular official of the former Party, the legislation of the Party in whose territory he is employed shall apply to him.
+>
+> **ARTICLE 6.** Where a person is employed in the territory of one Contracting Party and those provisions of the legislation of the other Party which concern the payment of contributions apply to him in accordance with the provisions of Article 4 or Article 5, he shall be treated, under that legislation, for the purpose of any claim to receive benefit for an industrial accident occurring, or an industrial disease contracted, during his employment in the territory of the former Party, as if that employment were insurable, and as if the accident had occurred or the disease had been contracted in the territory of the latter Party; and, if the latter Party is the United Kingdom, he shall be treated for the purpose of any claim to receive sickness benefit under the legislation of the United Kingdom as if he were in the territory of the United Kingdom.
+>
+> **ARTICLE 7.** The competent authorities of the two Contracting Parties may agree to modify the provisions of Articles 4 and 5 in relation to particular persons of classes of persons.
+>
+> **PART III — BENEFIT**
+>
+> **BENEFIT OF ONE PARTY PAYABLE IN THE TERRITORY OF THE OTHER**
+>
+> **ARTICLE 8.** (1) Where, under the legislation of one Contracting Party, a person would be entitled to receive an old age pension, widow's benefit or[^M_F_daf0c064-4b8c-4fda-c341-f97bf43059fc], benefit in respect of an industrial injury, [^M_F_d91bd9ff-59ea-4308-d954-62ad13c08b0c]... if he were in the territory of that Party, he shall be entitled to receive that benefit while he is in the territory of the other Party.
+>
+> (2) So long as there are restrictions imposed by one Contracting Party on the transfer of funds to persons outside the territory of that Party, and these restrictions prevent persons in the territory of the other Party from receiving any benefit under the legislation of the former Party in accordance with the provisions of paragraph (1) of this Article, arrangements shall be made to enable any such person to appoint a person or bank in the territory of the former Party to receive that benefit on his behalf or to enable him to receive that benefit on his return to that territory.
+>
+> (3)[^M_F_8a6d2ac0-5aea-42bf-86f7-d450926dbf05] Except where otherwise provided for in this Convention, pensions and other cash benefits may not be reduced, modified, suspended or withdrawn on account of the recipient residing in the territory of the other Contracting Party.
+>
+> **BENEFICIARY OF ONE PARTY WITH DEPENDANT IN THE TERRITORY OF THE OTHER**
+>
+> **ARTICLE 9.** Where a person is entitled to receive an old age pension, widow's benefit or benefit in respect of an industrial injury under the legislation of one Contracting Party, and would be entitled to receive an increase of that benefit for a dependant if the dependant were in the territory of that Party, he shall be entitled to receive that increase while the dependant is in the territory of the other Party.
+>
+> **BENEFIT OF ONE PARTY IN RESPECT OF A CHILD IN THE TERRITORY OF THE OTHER**
+>
+> **ARTICLE 10.** (1) Where, under the legislation of one Contracting Party, a person[^M_F_37e8d472-3c2d-402c-bad6-c148e103a6fe] would be entitled to receive widow's benefit or benefit in respect of an industrial injury[^M_F_86742ae8-8490-4a10-e92f-31bef3a92d84] if a child had been in the territory of that Party at the time when one of his parents died, that person[^M_F_4a7c6cf7-67c6-4289-b5c4-2560be040444] shall be entitled to receive that benefit if the child was in the territory of the other Party at that time.
+>
+> (2) Where, under the legislation of one Party, a woman would be entitled to receive widow's benefit or benefit in respect of an industrial injury[^M_F_b1c07dfb-9549-44eb-e4a2-25a3458b3a14] if a child were in the territory of that Party, she shall be entitled to receive that benefit while the child is in the territory of the other Party.
+>
+> **SPECIAL PROVISIONS RELATING TO THE APPLICATION OF THE LEGISLATION OF THE TERRITORY OF THE UNITED KINGDOM AND ISRAEL[^M_F_d937b5fd-2156-4481-c99e-5be9b1dd862d]**
+>
+> **ARTICLE 10A.** (1) For the purpose of calculating entitlement under the legislation of the United Kingdom to an old age pension in accordance with Article 12 of this Convention, or to widow's benefit in accordance with Article 14, insurance periods completed under the legislation of Israel before 6 April 1975 shall be treated as if they had been insurance periods completed under the legislation of the United Kingdom.
+>
+> (2) For the purpose of calculating entitlement under the legislation of the United Kingdom to an old age pension in accordance with Article 12 of this Convention, to widow's benefit in accordance with Article 14, or to maternity allowance in accordance with Article 19, insurance periods completed as a self-employed person or as a non-employed person or credited insurance periods under the legislation of Israel after 5 April 1975 shall be treated as if they had been insurance periods completed as a self-employed person or as a non-employed person, or credited insurance periods as the case may be, under the legislation of the United Kingdom.
+>
+> (3) Subject to the provisions of Article 11(2) of this Convention, for the purpose of calculating an earnings factor for assessing entitlement to any benefit referred to in Articles 12, 14 or 19 of this Convention and provided under the legislation of the United Kingdom, a person shall be treated for each week beginning in a relevant tax year commencing on or after 6 April 1975, the whole of which week is an insurance period completed as an employed person under the legislation of Israel, as having paid a contribution as an employed earner on earnings equivalent to two-thirds of that year's upper earnings limit.
+>
+> (4) For the purpose of calculating entitlement under the legislation of Israel to an old age pension in accordance with Article 12 of this Convention, or to widow's benefits in accordance with Article 14, or to maternity allowance in accordance with Article 19, insurance periods completed under the legislation of the United Kingdom before 6 April 1975 shall be treated as if they had been insurance periods completed under the legislation of Israel.
+>
+> (5) For the purpose of calculating entitlement under the legislation of Israel to an old age pension in accordance with Article 12 of this Convention, or to widow's benefit in accordance with Article 14, or to maternity allowance in accordance with Article 19, any earnings factor achieved in any tax year commencing on or after 6 April 1975 under the legislation of the United Kingdom shall be converted by the competent authority of the United Kingdom to an insurance period by dividing the earnings factor by that year's lower earnings limit. The result shall be expressed as a whole number, any remaining fraction being ignored. The figure so calculated, subject to a maximum of the number of weeks during which the person was subject to that legislation in that year, shall be treated as representing the number of weeks in the insurance period completed under that legislation.
+>
+> (6) Where it is not possible to determine accurately the periods of time in which certain insurance periods were completed under the legislation of one Party, such periods shall be treated as if they did not overlap with insurance periods completed under the legislation of the other Party, and they shall be taken into account to the best advantage of the beneficiary.
+>
+> **OLD AGE PENSIONS AND WIDOW'S BENEFIT[^M_F_ca0d29e7-72fd-4209-b097-7de56694cb4c]**
+>
+> **ARTICLE 11.** (1) Where a person is entitled to an old age pension, otherwise than by virtue of the provisions of this Convention, that pension shall be payable and the provisions of Article 12 of this Convention shall not apply under that legislation. For the purpose of this paragraph, “old age pension” shall not include a Category B retirement pension payable to a married woman under the legislation of the United Kingdom by virtue of the contributions of her husband.
+>
+> (2) For the purpose of determining entitlement to additional component payable under the legislation of the United Kingdom, no account shall be taken of any insurance period completed under the legislation of Israel; and for the purposes of this Article and Article 12 of this Convention additional component shall be treated as a separate benefit to which the provisions of Article 12 do not apply.
+>
+> **...[^M_F_c7aa030b-4c5f-40df-cf0e-d8082b0e6243]**
+>
+> **ARTICLE 12.** (1) The provisions of this Article shall apply for the purpose of determining entitlement to old age pension in respect of a person under the legislation of one Party under which there is no entitlement in respect of that person in accordance with the provisions of Article 11 of this Convention.
+>
+> (2) In accordance with the provisions of Article 10A of this Convention, the insurance authority of that Party shall determine:
+>
+> - (a) the amount of the theoretical pension which would be payable if all the insurance periods completed by that person under the legislation of both Parties had been completed under its own legislation;
+> - (b) the proportion of such theoretical pension which bears the same relation to the whole as the total of the insurance periods completed by him under the legislation of that Party bears to the total of all the insurance periods which he has completed under the legislation of both Parties.
+>
+> The proportionate amount thus calculated shall be the rate of pension actually payable to that person by the competent institution.
+>
+> (3) For the purpose of applying the provisions of paragraph (2) of this Article:
+>
+> - (a) the insurance authority of the United Kingdom shall take account only of insurance periods (completed under the legislation of either Party) which would be taken into account for the determination of pensions under the legislation of the United Kingdom if they were completed under that legislation and, where appropriate, shall take into account in accordance with that legislation insurance periods completed by a spouse;
+> - (b) no account shall be taken of any graduated contributions paid under the legislation of the United Kingdom before 6 April 1975 and the amount of any graduated pension payable by virtue of such contributions shall be added to the amount of any pension payable in accordance with paragraph (2) of this Article under that legislation;
+> - (c) no account shall be taken under the legislation of the United Kingdom of any increase of benefit payable under that legislation by virtue of deferred retirement, but any such increase of benefit payable under that legislation shall be added to any benefit payable under that legislation which has been calculated in accordance with paragraph (2) of this Article;
+> - (d) where a compulsory insurance period completed under the legislation of one Party coincides with a voluntary insurance period completed under the legislation of the other Party, only the compulsory insurance period shall be taken into account, provided that the amount of pension payable under the legislation of either Party in accordance with paragraph (2) of this Article shall be increased by the amount by which the pension payable in accordance with that legislation would have been increased if all voluntary contributions paid under that legislation had been taken into account;
+> - (e) where a period for which contributions have been paid under the legislation of one Party, other than a voluntary contribution period, coincides with a period for which contributions have been credited under the legislation of the other Party, only the former period shall be taken into account.
+>
+> (4) For the purpose of applying the provisions of paragraphs (1) to (3) of this Article, no account shall be taken under the legislation of Israel of any contribution paid or credited under the legislation of the United Kingdom for any contribution year which ended before 1 April 1954.
+>
+> (5) The right to an old age pension under the legislation of Israel shall remain conditional on the beneficiary having been a resident of Israel or the United Kingdom or the Isle of Man immediately before becoming entitled to an old age pension.
+>
+> (6) Any provisions under the legislation of Israel regarding exemption of Israeli residents from qualifying periods giving entitlement to old age pension will not apply to the provisions of paragraph (5) of this Article in relation to old age pension.
+>
+> **...[^M_F_309a3b37-11c4-4f2a-ab5c-954579a5214b]**
+>
+> **ARTICLE 13.** Where a person does not simultaneously satisfy the conditions for entitlement to an old age pension under the legislation of both Parties, his entitlement under the legislation of one Party shall be established as and when he satisfies the conditions laid down by the legislation of that Party. The provisions of Article 12 of this Convention shall be applied where there is no entitlement under the provisions of Article 11 of this Convention to an old age pension under the legislation of that Party and his entitlement shall be determined afresh under those provisions when the conditions under the legislation of the other Party are satisfied.
+>
+> **...[^M_F_dc9b2ce7-2c6d-4ee9-a694-563ec4bdd677]**
+>
+> **ARTICLE 14.** (1) Subject to the provisions of paragraph (2) of this Article, the provisions contained in Articles 11 to 13 of this Convention shall apply, with such modifications as the differing nature of the benefits shall require, to widow's benefits.
+>
+> (2) The right to a widow's pension under the legislation of Israel shall remain conditional on the beneficiary and the deceased having been residents of Israel or of the United Kingdom or the Isle of Man at the time of the death.
+>
+> (3) Any provisions under the legislation of Israel regarding exemption of Israeli residents from qualifying periods giving entitlement to widow's pension will not apply to the provisions of paragraph (2) of this Article in relation to widow's pension.
+>
+> (4) Vocational training and subsistence allowance for widows and orphans under the legislation of Israel are payable only to persons if they reside in Israel and only for as long as they are actually present in Israel.
+>
+> (5) Funeral grant under the legislation of Israel shall not be payable in respect of a person who died outside Israel and was not a resident of Israel on the day of his death.
+>
+> **ORPHAN'S BENEFIT[^M_F_3e218fda-fc00-4273-fc14-c1f1102ac1f7]**
+>
+> **ARTICLE 14A.** (1) Where orphan's benefit is payable to a person under the legislation of the United Kingdom it shall not cease to be payable solely because that person and/or the orphan in respect of whom it is payable is resident in the territory of Israel.
+>
+> (2) Where orphan's benefit is payable to an orphan under the legislation of Israel it shall not cease to be payable solely because that person is ordinarily resident in the United Kingdom.
+>
+> (3) The right to an orphan's benefit under the legislation of Israel shall remain conditional on the orphan and the deceased having been residents of Israel or of the United Kingdom or the Isle of Man at the time of the death.
+>
+> (4) Vocational training and subsistence allowance for widows and orphans under the legislation of Israel are payable only to persons if they reside in Israel and only for as long as they are actually present in Israel.
+>
+> (5) Any provisions under the legislation of Israel regarding exemption of Israeli residents from qualifying periods giving entitlement to orphan's benefit will not apply to the provisions of paragraph (3) of this Article in relation to orphan's benefit.
+>
+> (6) Where, but for the provisions of this paragraph, orphan's benefit would be payable under the legislation of both Parties, benefit shall be payable only under the legislation of the Party in whose territory the orphan is resident.
+>
+> **INDUSTRIAL INJURIES AND DISEASES[^M_F_c6f3cb06-4f93-47bf-ae2d-c71478176d9d]**
+>
+> **ARTICLE 15.** Where a person has contracted an industrial disease and has been employed in the territory of both Contracting Parties in occupations involving the risk of that disease, he shall, subject to the provisions of Articles 6 and 16, be treated, for the purpose of any claim to receive benefit for that disease under the legislation of the Party in whose territory he was last so employed, as if he had been so employed only in that territory.
+>
+> **ARTICLE 16.** Where a person is receiving or has received any benefit for an industrial injury under the legislation of one Contracting Party, and claims benefit for an industrial injury under the legislation of the other Party, account shall be taken of the former benefit as if it were or had been paid under the legislation of the latter Party.
+>
+> **ARTICLE 17.** (1) If the person is in the territory of Israel and is entitled to receive benefit under the legislation of the United Kingdom in respect of an industrial injury, he shall be entitled to receive also under the legislation of Israel such medical treatment as he would have been entitled to receive if the injury had been an industrial injury as defined by the legislation of Israel.
+>
+> (2) If a person is in the territory of the United Kingdom and is entitled to receive benefit under the legislation of Israel in respect of an industrial injury, he shall be entitled to receive the benefits in kind provided under the National Health Services of the United Kingdom.
+>
+> **MATERNITY BENEFIT**
+>
+> **ARTICLE 18.** (1) Where a woman would have been entitled to receive a maternity grant under the legislation of one Contracting Party if she had been confined in the territory of that Party, she shall be entitled to receive that grant if she is confined in the territory of the other Party.
+>
+> (2) A woman who is confined in the territory of the United Kingdom shall not be disqualified for receiving a maternity grant under the legislation of Israel on the ground that her confinement did not take place in a hospital.
+>
+> (3)[^M_F_893998e9-a7db-491a-d192-9287a1efa2be] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> **ARTICLE 19.**[^M_F_9bad01e5-f03a-4a67-fb82-665e850fb2fe] (1) For the purposes of a claim to receive maternity allowance under the legislation of the United Kingdom, a woman in the territory of the United Kingdom who has paid contributions in respect of gainful employment during a period, or periods, amounting to at least twenty-two weeks between the date of her last arrival in the territory of the United Kingdom and the date of her claim for maternity allowance, shall be treated as if any insurance period completed by her under the legislation of Israel were an insurance period completed by her under the legislation of the United Kingdom.
+>
+> (2) For the purposes of a claim to receive maternity allowance under the legislation of Israel, a woman who gives birth in the territory of Israel and has completed insurance periods amounting to at least five months under the legislation of Israel between the date of her last arrival in the territory of Israel and the date of her confinement, and who is not entitled to maternity allowance under the legislation of the United Kingdom, shall be treated as if any contributions paid by her as an employed earner or self-employed person under the legislation of the United Kingdom were an insurance period completed by her under the legislation of Israel.
+>
+> (3) When calculating the rate of benefit in accordance with paragraph (2) of this Article, only income accrued in the territory of Israel shall be taken into account.
+>
+> **CHILDREN'S ALLOWANCES[^M_F_14f608a8-4193-44d6-899c-91195503ffa8]**
+>
+> **ARTICLE 20.** (1) Entitlement to children's allowances shall be determined in accordance with the legislation of the Contracting Party in whose territory the children reside.
+>
+> (2) Where entitlement to children's allowances exists under the legislation of both Contracting Parties they shall be paid only by the Contracting Party in whose territory the children reside.
+>
+> **PART IV — MISCELLANEOUS PROVISIONS**
+>
+> **ARTICLE 21.** The competent authorities—
+>
+> - (i) shall make such administrative arrangements as may be required for the application of the present Convention;
+> - (ii) shall communicate to each other information regarding any measure taken by them for the application of the Convention;
+> - (iii) shall communicate to each other, as soon as possible, information regarding any changes made under their national legislation which affect the application of the Convention;
+> - (iv) shall furnish assistance to one another with regard to any matter relating to the application of the Convention.
+>
+> **ARTICLE 22.** Where, under the provisions of the present Convention, any benefit is payable by an authority of one Contracting Party to a person who is in the territory of the other Party, the payment may, at the request of that authority, be made by an authority of the latter Party as agent for the authority of the former Party.
+>
+> **ARTICLE 23.**[^M_F_9a208941-ab2f-4903-b202-7db5c745432c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> **ARTICLE 24.** Where, for the purpose of a claim to receive benefit under the legislation of one Contracting Party, it is necessary for a person in the territory of the other Party to be medically examined, the competent authority of the latter Party, at the request of the competent authority of the former Party, shall arrange for him to be examined at its own expense.
+>
+> **ARTICLE 25.** (1) Any exemption from, or reduction of, legal dues, charges and fees provided for in the legislation of one Contracting Party in connexion with the issue of any certificate or document required to be produced for the purpose of that legislation, shall be extended to certificates and documents required to be produced for the purposes of the legislation of the other Party.
+>
+> (2) Where any certificate or other document has to be produced to the competent authority of one of the Contracting Parties[^M_F_81fb34f5-b034-45b6-ff66-d81ab3175a19] for the purpose of applying the present Convention, that authority shall not require the certificate or other document to be legalised or authenticated by a diplomatic or consular authority.
+>
+> **ARTICLE 26.** Any claim, notice or appeal which should, for the purposes of the legislation of one Contracting Party, have been presented within a prescribed period to an authority of that Party, but which is in fact presented within the same period to the corresponding authority of the other Party, shall be treated as if it had been presented to the authority of the former Party. In such cases, the authority of the latter Party shall, as soon as possible, arrange for the claim, notice or appeal to be sent to the competent authority of the former Party.
+>
+> **ARTICLE 27.** (1) The competent authorities of the two Contracting Parties shall endeavour to resolve by negotiation any disagreement relating to the interpretation or application of the present Convention.
+>
+> (2) If any such disagreement has not been resolved by negotiation within a period of three months, the disagreement shall be submitted to arbitration by an arbitral body, whose composition and procedure shall be agreed upon by the two Parties.
+>
+> (3) The decision of the arbitral body shall be made in accordance with the principles and spirit of the present Convention and shall be final and binding.
+>
+> **ARTICLE 28.** (1) No provision of the present Convention shall confer any right to receive any payment of benefit for a period before the date of the entry into force of the Convention.
+>
+> (2) No provision of Part II of the Convention shall apply to any period during which a person was employed before the date of the entry into force of the Convention.
+>
+> (3) Subject to the provisions of paragraphs (1) and (2) of this Article, any benefit, other than a maternity grant, shall be payable in accordance with the provisions of the Convention in respect of events which happened before the date of its entry into force; and such benefit shall be paid as from that date, if the claim therefor is submitted within six months of that date.
+>
+> (4) Any period during which a person was insured under the legislation of one (or the other) Contracting Party before the date of entry into force of the Convention shall be taken into account for the purpose of determining any right to benefit in accordance with the provisions of the Convention.
+>
+> **ARTICLE 29.** In the event of the termination of the present Convention, any right acquired by a person in accordance with its provisions shall be maintained, and negotiations shall take place for the settlement of any rights then in course of acquisition by virtue of those provisions.
+>
+> **ARTICLE 30.** The present Convention shall be ratified and the instruments of ratification shall be exchanged as soon as possible. The Convention shall enter into force on the first day of the second month following the month in which the instruments of ratification are exchanged.
+>
+> **ARTICLE 31.** The present Convention shall remain in force for a period of one year from the date of its entry into force. Thereafter it shall continue in force from year to year unless it is denounced by notice in writing given by either Contracting Party to the other three months before the expiry of any such yearly period.
+>
+> In witness whereof the undersigned, duly authorised by their respective Governments, have signed the present Convention and affixed thereto their seals.
+>
+> Done in duplicate at London, this 29th day of April, 1957, in the English and Hebrew languages, both texts being equally authoritative.
+>
+> ALLAN NOBLE
+>
+> ELIAHU ELATH
+
+EXPLANATORY NOTE
+
+This Order gives effect in England, Wales and Scotland to the Convention (set out in the Schedule) made between the Governments of the United Kingdom and of Israel and modifies the National Insurance Acts, 1946 to 1957, and the National Insurance (Industrial Injuries) Acts, 1946 to 1957, in their application to persons affected by that Convention.
+
+## Annotations
+
+[^M_C_8e9ebbf9-b12c-4242-afe8-e69a9e263a0f]: Modification: Order modified (18.2.1976) by [The Social Security (Reciprocal Agreements) Order 1976 (S.I. 1976/225)](https://www.legislation.gov.uk/uksi/1976/225), [arts. 2](https://www.legislation.gov.uk/uksi/1976/225/article/2), [3](https://www.legislation.gov.uk/uksi/1976/225/article/3), [Schs. 1](https://www.legislation.gov.uk/uksi/1976/225/schedule/1), [2](https://www.legislation.gov.uk/uksi/1976/225/schedule/2)
+
+[^M_C_a2408ae9-5cf0-4c98-c8ec-85c09f1289aa]: Modification: Order modified (6.4.1979) by [The Social Security (Reciprocal Agreements) Order 1979 (S.I. 1979/290)](https://www.legislation.gov.uk/uksi/1979/290), [art. 2](https://www.legislation.gov.uk/uksi/1979/290/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1979/290/schedule)
+
+[^key-8b03a90f3037e3ececf3b1d39282c080]: Modification: Order modified (11.4.1988) by [The Social Security (Reciprocal Agreements) Order 1988 (S.I. 1988/591)](https://www.legislation.gov.uk/uksi/1988/591), [arts. 2](https://www.legislation.gov.uk/uksi/1988/591/article/2), [3](https://www.legislation.gov.uk/uksi/1988/591/article/3), [Sch.](https://www.legislation.gov.uk/uksi/1988/591/schedule)
+
+[^key-c008df6309da906a3d678a2e2b739dae]: Modification: Order modified (13.4.1995) by [The Social Security (Reciprocal Agreements) Order 1995 (S.I. 1995/767)](https://www.legislation.gov.uk/uksi/1995/767), [art. 2](https://www.legislation.gov.uk/uksi/1995/767/article/2), [Schs. 1](https://www.legislation.gov.uk/uksi/1995/767/schedule/1), [2](https://www.legislation.gov.uk/uksi/1995/767/schedule/2)
+
+[^key-da01e1f700b4cb50f70dc2031eb39a6a]: Modification: Order modified (9.4.2001) by [The Social Security (Reciprocal Agreements) Order 2001 (S.I. 2001/407)](https://www.legislation.gov.uk/uksi/2001/407), [art. 2](https://www.legislation.gov.uk/uksi/2001/407/article/2), [Schs. 1](https://www.legislation.gov.uk/uksi/2001/407/schedule/1), [2](https://www.legislation.gov.uk/uksi/2001/407/schedule/2)
+
+[^key-bd52c39b3e694a5fbe8a8e8cf22c0190]: Modification: Order modified (6.4.2016) by [The Social Security (Reciprocal Agreements) Order 2016 (S.I. 2016/158)](https://www.legislation.gov.uk/uksi/2016/158), [art. 2](https://www.legislation.gov.uk/uksi/2016/158/article/2), [Schs. 1](https://www.legislation.gov.uk/uksi/2016/158/schedule/1), [2](https://www.legislation.gov.uk/uksi/2016/158/schedule/2)
+
+[^key-2fc6f71d910e2563e00810a1d9fe41d4]: Modification: [Order](https://www.legislation.gov.uk/uksi/1957/1879) modified (6.4.2017) by [The Social Security (Reciprocal Agreements) Order 2017 (S.I. 2017/159)](https://www.legislation.gov.uk/uksi/2017/159), [art. 1](https://www.legislation.gov.uk/uksi/2017/159/article/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2017/159/schedule/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2017/159/schedule/2)
+
+[^key-89cdc8ad62fb0913be3379c21437a2dc]: Modification: [Sch.](https://www.legislation.gov.uk/uksi/1957/1879/schedule) modified (5.12.2005) by [The Social Security (Reciprocal Agreements) Order 2005 (S.I. 2005/2765)](https://www.legislation.gov.uk/uksi/2005/2765), [art. 1](https://www.legislation.gov.uk/uksi/2005/2765/article/1), [Schs. 1](https://www.legislation.gov.uk/uksi/2005/2765/schedule/1), [2](https://www.legislation.gov.uk/uksi/2005/2765/schedule/2)
+
+[^M_F_8ca0bbdb-b933-436f-9ec9-23c637fe7858]: Textual amendment: Words in Sch. Art. 1(3) substituted (1.4.1984) by [The Social Security (Israel) Order 1984 (S.I. 1984/354)](https://www.legislation.gov.uk/uksi/1984/354), [art. 2](https://www.legislation.gov.uk/uksi/1984/354/article/2), [Protocol](https://www.legislation.gov.uk/uksi/1984/354/schedule/PROTOCOL/made)
+
+[^M_F_c59e4ac5-cf78-4cd9-cc82-42150ba8a6a0]: Textual amendment: Sch. Art. 1(4) substituted (1.4.1984) by [The Social Security (Israel) Order 1984 (S.I. 1984/354)](https://www.legislation.gov.uk/uksi/1984/354), [art. 2](https://www.legislation.gov.uk/uksi/1984/354/article/2), [Protocol](https://www.legislation.gov.uk/uksi/1984/354/schedule/PROTOCOL/made)
+
+[^M_F_fc8de914-34a9-421b-f052-c031d035908a]: Textual amendment: Sch. Art. 1(5A) inserted (1.4.1984) by [The Social Security (Israel) Order 1984 (S.I. 1984/354)](https://www.legislation.gov.uk/uksi/1984/354), [art. 2](https://www.legislation.gov.uk/uksi/1984/354/article/2), [Protocol](https://www.legislation.gov.uk/uksi/1984/354/schedule/PROTOCOL/made)
+
+[^M_F_c35dbb1d-4b9c-4d9b-f447-43675af5f33e]: Textual amendment: Sch. Art. 1(8) substituted (1.4.1984) by [The Social Security (Israel) Order 1984 (S.I. 1984/354)](https://www.legislation.gov.uk/uksi/1984/354), [art. 2](https://www.legislation.gov.uk/uksi/1984/354/article/2), [Protocol](https://www.legislation.gov.uk/uksi/1984/354/schedule/PROTOCOL/made)
+
+[^M_F_ed327a85-f84a-4c7a-cde1-e7d012d9e971]: Textual amendment: Sch. Art. 1(11)-(15) substituted for Art. 1(11)-(13) (1.4.1984) by [The Social Security (Israel) Order 1984 (S.I. 1984/354)](https://www.legislation.gov.uk/uksi/1984/354), [art. 2](https://www.legislation.gov.uk/uksi/1984/354/article/2), [Protocol](https://www.legislation.gov.uk/uksi/1984/354/schedule/PROTOCOL/made)
+
+[^M_F_0c0fff97-da4c-4f21-de89-400426278525]: Textual amendment: Sch. Art. 2 substituted (1.4.1984) by [The Social Security (Israel) Order 1984 (S.I. 1984/354)](https://www.legislation.gov.uk/uksi/1984/354), [art. 2](https://www.legislation.gov.uk/uksi/1984/354/article/2), [Protocol](https://www.legislation.gov.uk/uksi/1984/354/schedule/PROTOCOL/made)
+
+[^M_F_0c3b4d74-8b12-4c4b-c99b-1281afb525d2]: Textual amendment: Sch. Art. 4 renumbered as Art. 4(1) (1.4.1984) by [The Social Security (Israel) Order 1984 (S.I. 1984/354)](https://www.legislation.gov.uk/uksi/1984/354), [art. 2](https://www.legislation.gov.uk/uksi/1984/354/article/2), [Protocol](https://www.legislation.gov.uk/uksi/1984/354/schedule/PROTOCOL/made)
+
+[^M_F_20eef1f5-4f39-4363-d1eb-2b040e456d11]: Textual amendment: Words inserted in Sch. Art. 4(1)(a) (1.4.1984) by [The Social Security (Israel) Order 1984 (S.I. 1984/354)](https://www.legislation.gov.uk/uksi/1984/354), [art. 2](https://www.legislation.gov.uk/uksi/1984/354/article/2), [Protocol](https://www.legislation.gov.uk/uksi/1984/354/schedule/PROTOCOL/made)
+
+[^M_F_3870ea90-f09c-4b14-fc35-a57012325651]: Textual amendment: Sch. Art. 4(2) inserted (1.4.1984) by [The Social Security (Israel) Order 1984 (S.I. 1984/354)](https://www.legislation.gov.uk/uksi/1984/354), [art. 2](https://www.legislation.gov.uk/uksi/1984/354/article/2), [Protocol](https://www.legislation.gov.uk/uksi/1984/354/schedule/PROTOCOL/made)
+
+[^M_F_5ed2c8cc-63cc-41fa-c577-bd01bcc3a199]: Textual amendment: Sch. Art. 5(2) substituted (1.4.1984) by [The Social Security (Israel) Order 1984 (S.I. 1984/354)](https://www.legislation.gov.uk/uksi/1984/354), [art. 2](https://www.legislation.gov.uk/uksi/1984/354/article/2), [Protocol](https://www.legislation.gov.uk/uksi/1984/354/schedule/PROTOCOL/made)
+
+[^M_F_daf0c064-4b8c-4fda-c341-f97bf43059fc]: Textual amendment: Word in Sch. Art. 8(1) inserted (1.4.1984) by [The Social Security (Israel) Order 1984 (S.I. 1984/354)](https://www.legislation.gov.uk/uksi/1984/354), [art. 2](https://www.legislation.gov.uk/uksi/1984/354/article/2), [Protocol](https://www.legislation.gov.uk/uksi/1984/354/schedule/PROTOCOL/made)
+
+[^M_F_d91bd9ff-59ea-4308-d954-62ad13c08b0c]: Textual amendment: Word in Sch. Art. 8(1) omitted (1.4.1984) by virtue of [The Social Security (Israel) Order 1984 (S.I. 1984/354)](https://www.legislation.gov.uk/uksi/1984/354), [art. 2](https://www.legislation.gov.uk/uksi/1984/354/article/2), [Protocol](https://www.legislation.gov.uk/uksi/1984/354/schedule/PROTOCOL/made)
+
+[^M_F_8a6d2ac0-5aea-42bf-86f7-d450926dbf05]: Textual amendment: Sch. Art. 8(3) inserted (1.4.1984) by [The Social Security (Israel) Order 1984 (S.I. 1984/354)](https://www.legislation.gov.uk/uksi/1984/354), [art. 2](https://www.legislation.gov.uk/uksi/1984/354/article/2), [Protocol](https://www.legislation.gov.uk/uksi/1984/354/schedule/PROTOCOL/made)
+
+[^M_F_37e8d472-3c2d-402c-bad6-c148e103a6fe]: Textual amendment: Word in Sch. Art. 10(1) substituted (1.4.1984) by [The Social Security (Israel) Order 1984 (S.I. 1984/354)](https://www.legislation.gov.uk/uksi/1984/354), [art. 2](https://www.legislation.gov.uk/uksi/1984/354/article/2), [Protocol](https://www.legislation.gov.uk/uksi/1984/354/schedule/PROTOCOL/made)
+
+[^M_F_86742ae8-8490-4a10-e92f-31bef3a92d84]: Textual amendment: Words in Sch. Art. 10(1) substituted (1.4.1984) by [The Social Security (Israel) Order 1984 (S.I. 1984/354)](https://www.legislation.gov.uk/uksi/1984/354), [art. 2](https://www.legislation.gov.uk/uksi/1984/354/article/2), [Protocol](https://www.legislation.gov.uk/uksi/1984/354/schedule/PROTOCOL/made)
+
+[^M_F_4a7c6cf7-67c6-4289-b5c4-2560be040444]: Textual amendment: Words in Sch. Art. 10(1) substituted (1.4.1984) by [The Social Security (Israel) Order 1984 (S.I. 1984/354)](https://www.legislation.gov.uk/uksi/1984/354), [art. 2](https://www.legislation.gov.uk/uksi/1984/354/article/2), [Protocol](https://www.legislation.gov.uk/uksi/1984/354/schedule/PROTOCOL/made)
+
+[^M_F_b1c07dfb-9549-44eb-e4a2-25a3458b3a14]: Textual amendment: Words in Sch. Art. 10(2) substituted (1.4.1984) by [The Social Security (Israel) Order 1984 (S.I. 1984/354)](https://www.legislation.gov.uk/uksi/1984/354), [art. 2](https://www.legislation.gov.uk/uksi/1984/354/article/2), [Protocol](https://www.legislation.gov.uk/uksi/1984/354/schedule/PROTOCOL/made)
+
+[^M_F_d937b5fd-2156-4481-c99e-5be9b1dd862d]: Textual amendment: Sch. Art. 10A and heading inserted (1.4.1984) by [The Social Security (Israel) Order 1984 (S.I. 1984/354)](https://www.legislation.gov.uk/uksi/1984/354), [art. 2](https://www.legislation.gov.uk/uksi/1984/354/article/2), [Protocol](https://www.legislation.gov.uk/uksi/1984/354/schedule/PROTOCOL/made)
+
+[^M_F_ca0d29e7-72fd-4209-b097-7de56694cb4c]: Textual amendment: Sch. Art. 11 and heading substituted (1.4.1984) by [The Social Security (Israel) Order 1984 (S.I. 1984/354)](https://www.legislation.gov.uk/uksi/1984/354), [art. 2](https://www.legislation.gov.uk/uksi/1984/354/article/2), [Protocol](https://www.legislation.gov.uk/uksi/1984/354/schedule/PROTOCOL/made)
+
+[^M_F_c7aa030b-4c5f-40df-cf0e-d8082b0e6243]: Textual amendment: Sch. Art. 12 substituted for Art. 12 and heading (1.4.1984) by [The Social Security (Israel) Order 1984 (S.I. 1984/354)](https://www.legislation.gov.uk/uksi/1984/354), [art. 2](https://www.legislation.gov.uk/uksi/1984/354/article/2), [Protocol](https://www.legislation.gov.uk/uksi/1984/354/schedule/PROTOCOL/made)
+
+[^M_F_309a3b37-11c4-4f2a-ab5c-954579a5214b]: Textual amendment: Sch. Art. 13 substituted for Art. 13 and heading (1.4.1984) by [The Social Security (Israel) Order 1984 (S.I. 1984/354)](https://www.legislation.gov.uk/uksi/1984/354), [art. 2](https://www.legislation.gov.uk/uksi/1984/354/article/2), [Protocol](https://www.legislation.gov.uk/uksi/1984/354/schedule/PROTOCOL/made)
+
+[^M_F_dc9b2ce7-2c6d-4ee9-a694-563ec4bdd677]: Textual amendment: Sch. Art. 14 substituted for Art. 14 and heading (1.4.1984) by [The Social Security (Israel) Order 1984 (S.I. 1984/354)](https://www.legislation.gov.uk/uksi/1984/354), [art. 2](https://www.legislation.gov.uk/uksi/1984/354/article/2), [Protocol](https://www.legislation.gov.uk/uksi/1984/354/schedule/PROTOCOL/made)
+
+[^M_F_3e218fda-fc00-4273-fc14-c1f1102ac1f7]: Textual amendment: Sch. Art. 14A and heading inserted (1.4.1984) by [The Social Security (Israel) Order 1984 (S.I. 1984/354)](https://www.legislation.gov.uk/uksi/1984/354), [art. 2](https://www.legislation.gov.uk/uksi/1984/354/article/2), [Protocol](https://www.legislation.gov.uk/uksi/1984/354/schedule/PROTOCOL/made)
+
+[^M_F_c6f3cb06-4f93-47bf-ae2d-c71478176d9d]: Textual amendment: Words in Sch. Art. 15 heading inserted (1.4.1984) by [The Social Security (Israel) Order 1984 (S.I. 1984/354)](https://www.legislation.gov.uk/uksi/1984/354), [art. 2](https://www.legislation.gov.uk/uksi/1984/354/article/2), [Protocol](https://www.legislation.gov.uk/uksi/1984/354/schedule/PROTOCOL/made)
+
+[^M_F_893998e9-a7db-491a-d192-9287a1efa2be]: Textual amendment: Sch. Art. 18(3) omitted (1.4.1984) by virtue of [The Social Security (Israel) Order 1984 (S.I. 1984/354)](https://www.legislation.gov.uk/uksi/1984/354), [art. 2](https://www.legislation.gov.uk/uksi/1984/354/article/2), [Protocol](https://www.legislation.gov.uk/uksi/1984/354/schedule/PROTOCOL/made)
+
+[^M_F_9bad01e5-f03a-4a67-fb82-665e850fb2fe]: Textual amendment: Sch. Art. 19 substituted (1.4.1984) by [The Social Security (Israel) Order 1984 (S.I. 1984/354)](https://www.legislation.gov.uk/uksi/1984/354), [art. 2](https://www.legislation.gov.uk/uksi/1984/354/article/2), [Protocol](https://www.legislation.gov.uk/uksi/1984/354/schedule/PROTOCOL/made)
+
+[^M_F_14f608a8-4193-44d6-899c-91195503ffa8]: Textual amendment: Sch. Art. 20 and heading substituted (1.4.1984) by [The Social Security (Israel) Order 1984 (S.I. 1984/354)](https://www.legislation.gov.uk/uksi/1984/354), [art. 2](https://www.legislation.gov.uk/uksi/1984/354/article/2), [Protocol](https://www.legislation.gov.uk/uksi/1984/354/schedule/PROTOCOL/made)
+
+[^M_F_9a208941-ab2f-4903-b202-7db5c745432c]: Textual amendment: Sch. Art. 23 omitted (1.4.1984) by virtue of [The Social Security (Israel) Order 1984 (S.I. 1984/354)](https://www.legislation.gov.uk/uksi/1984/354), [art. 2](https://www.legislation.gov.uk/uksi/1984/354/article/2), [Protocol](https://www.legislation.gov.uk/uksi/1984/354/schedule/PROTOCOL/made)
+
+[^M_F_81fb34f5-b034-45b6-ff66-d81ab3175a19]: Textual amendment: Words in Sch. Art. 25(2) substituted (1.4.1984) by [The Social Security (Israel) Order 1984 (S.I. 1984/354)](https://www.legislation.gov.uk/uksi/1984/354), [art. 2](https://www.legislation.gov.uk/uksi/1984/354/article/2), [Protocol](https://www.legislation.gov.uk/uksi/1984/354/schedule/PROTOCOL/made)

@@ -1,0 +1,54 @@
+---
+title: Town and Country Planning (Scotland) Act 1997, section 95
+act: Town and Country Planning (Scotland) Act 1997
+section: '95'
+status: revised-with-pending-changes
+text_date: '2026-09-24'
+extent: S
+source_url: https://www.legislation.gov.uk/ukpga/1997/8/section/95
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Town and Country Planning (Scotland) Act 1997, section 95
+
+> **Warning: changes not yet applied to this text (56).** Text as at 2026-09-24. See https://www.legislation.gov.uk/changes/affected/ukpga/1997/8
+>
+> Extent: England, Wales, Scotland.
+
+## 95. Special provisions as to compensation where purchase notice served.
+
+*Extent: S*
+
+(1) Where compensation is payable by virtue of section 76 in respect of expenditure incurred in carrying out any work on land, any compensation payable in respect of the acquisition of an interest in the land in pursuance of a purchase notice shall be reduced by an amount equal to the value of those works.
+
+(2)[^key-4b543e4b280a36e4d885ab5fabc7453d] Where—
+
+- (a) the Secretary of State directs under section 92(3) that, if an application for it is made, planning permission must be granted for the development of any land, and
+- (b) on a claim made to the planning authority within the prescribed time and in the prescribed manner, it is shown that the permitted development value of the interest in that land in respect of which the purchase notice was served is less than its Schedule 11 value,
+
+the planning authority shall pay the person entitled to that interest compensation of an amount equal to the difference.
+
+(3) If the planning permission mentioned in subsection (2)(a) would be granted subject to conditions for regulating the design or external appearance, or the size or height of buildings, or for regulating the number of buildings to be erected on the land, the Secretary of State may direct that in assessing any compensation payable under subsection (2) those conditions must be disregarded, either altogether or to such extent as may be specified in the direction.
+
+(4) The Secretary of State may give a direction under subsection (3) only if it appears to him to be reasonable to do so having regard to the local circumstances.
+
+(5) Sections 86 and 87 shall have effect in relation to compensation under subsection (2) as they have effect in relation to compensation to which those sections apply.
+
+(6) In this section—
+
+- “**permitted development value**”, in relation to an interest in land in respect of which a direction is given under section 92(3), means the value of that interest calculated with regard to that direction, but on the assumption that no planning permission would be granted otherwise than in accordance with that direction, and
+- “**Schedule 11 value**”, in relation to such an interest, means the value of that interest calculated on the assumption that planning permission would be granted—
+  - (a) subject to the conditions set out in Schedule 12, for any development of a class specified in paragraph 1 of Schedule 11, and
+  - (b) for any development of a class specified in paragraph 2 of Schedule 11.
+
+(7) Where a purchase notice in respect of an interest in land is served in consequence of an order under section 71 or paragraph 1 of Schedule 8, then if—
+
+- (a) that interest is acquired in accordance with this Chapter, or
+- (b) compensation is payable in respect of that interest under subsection (2),
+
+no compensation shall be payable in respect of that order under section 83.
+
+## Annotations
+
+[^key-4b543e4b280a36e4d885ab5fabc7453d]: Modification: [S. 95(2)](https://www.legislation.gov.uk/ukpga/1997/8/section/95/2) applied (29.7.2021) by [Space Industry Act 2018 (c. 5)](https://www.legislation.gov.uk/ukpga/2018/5), [ss. 47(3)(b)](https://www.legislation.gov.uk/ukpga/2018/5/section/47/3/b), [70(1)](https://www.legislation.gov.uk/ukpga/2018/5/section/70/1); [S.I. 2021/817](https://www.legislation.gov.uk/uksi/2021/817), [reg. 2](https://www.legislation.gov.uk/uksi/2021/817/regulation/2), [Sch. para. 84](https://www.legislation.gov.uk/uksi/2021/817/schedule/paragraph/84) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/817/regulation/3))

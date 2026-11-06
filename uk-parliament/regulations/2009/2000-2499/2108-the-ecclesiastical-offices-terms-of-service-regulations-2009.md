@@ -1,0 +1,982 @@
+---
+title: The Ecclesiastical Offices (Terms of Service) Regulations 2009
+id: uksi/2009/2108
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised-with-pending-changes
+made_date: '2009-07-29'
+text_date: '2024-01-25'
+extent: E
+source_url: https://www.legislation.gov.uk/uksi/2009/2108
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2009/2108/pdfs/uksi_20092108_en.pdf
+- http://www.legislation.gov.uk/uksi/2009/2108/data.pdf
+pending_changes: 5
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Ecclesiastical Offices (Terms of Service) Regulations 2009
+
+> **Warning: changes not yet applied to this text (5).** Text as at 2024-01-25. See https://www.legislation.gov.uk/changes/affected/uksi/2009/2108
+>
+> Extent: England.
+
+*Extent: E*
+
+2009 No. 2108
+
+Ecclesiastical Law, England
+
+The Ecclesiastical Offices (Terms of Service) Regulations 2009
+
+Made (sealed by the Archbishops’ Council)
+
+29th July 2009
+
+Laid before Parliament
+
+6th August 2009
+
+Coming into force
+
+1st January 2010
+
+In pursuance of section 2 of the Ecclesiastical Offices (Terms of Service) Measure 2009[^f00001], the Archbishops’ Council hereby makes the following Regulations:
+
+## PART I — INTRODUCTORY
+
+### 1. Citation and coming into force[^key-e9665fcedf49b10bbbbfd9ae1a9e84cf]
+
+These Regulations may be cited as the Ecclesiastical Offices (Terms of Service) Regulations 2009 and shall come into force on 1st January 2010.
+
+### 2. Interpretation[^key-1aa889459551ea73f464fa5668f86d6f]
+
+(1) In these Regulations—
+
+- “capability procedures” means the procedures described in regulation 31 below;
+- “grievance procedures” means the procedures described in regulation 32 below;
+- “[^key-5312e896a4ae7fe39f2b68ab1200ac2b]**residentiary canon**” includes a lay residentiary canon;
+- “working day” means any day which is not a rest day or part of a rest period or which is not taken as part of annual or special leave or any such leave as is referred to in regulation 23(1) below and cognate expressions shall be construed accordingly;
+- “the Measure” means the Ecclesiastical Offices (Terms of Service) Measure 2009[^f00001].
+
+(2) Subject to[^key-5c31a7f21d4f65d5c010491049ef8619] paragraphs (3) and (3A)[^key-70c8fed884289e5c3d50ceb9b864aa99] below, these Regulations apply to all office holders holding office subject to Common Tenure, whenever appointed to their office, and the following provisions of these Regulations (except **r**egulation 33(3) below) shall apply to an office holder who becomes subject to Common Tenure whilst holding his or her office as if he or she had taken up that office on the day on which he or she became subject to Common Tenure.
+
+(3)[^key-cca19eec3e563220e48d61a5a01eeefe] Where an office holder holds an office in pursuance of a contract of employment, these Regulations shall not apply to the office holder in respect of that office, without prejudice to the application of the Regulations in respect of any other office held by that office holder.
+
+(3A)[^key-b438f5ad6a349662eaa93675ed6566dc] These Regulations do not apply to a person licensed under section 2A of the Extra-Parochial Ministry Measure 1967 (ministry by member of religious community) in respect of the performance of offices or services in accordance with that licence.
+
+(4)[^key-803f485a8e78f46d301f3e6305cf9348] For the purposes of these Regulations, a residentiary canon is a “qualifying residentiary canon” if—
+
+- (a) the Commissioners are required to make payments to the residentiary canon under section 28(1)(b) of the Cathedrals Measure 2021,
+- (b) the Chapter of the cathedral concerned pays the whole of the residentiary canon’s stipend or other emoluments and provides the residentiary canon’s housing, or
+- (c) the residentiary canon does not come within sub-paragraph (a) or (b) but the Chapter of the cathedral concerned has resolved that the residentiary canon is nonetheless to be regarded as being a qualifying residentiary canon.
+
+## PART II — PARTICULARS OF OFFICE
+
+### Right to statement of particulars of office
+
+#### 3. Statement of initial particulars of office[^key-fe68fc857cd91a8a23e17810f734238d]
+
+(1) An office holder shall be given a written statement of particulars of office by—
+
+- (a) an officer of the diocese nominated for that purpose by the diocesan bishop, or
+- (b) in the case of an office holder who is an archbishop or a diocesan bishop, by an officer of the province nominated by the registrar of the province in which the diocese is situated.
+
+(2) The statement may be given in instalments and (whether or not given in instalments) shall be given not later than the relevant date.
+
+(3) The relevant date for the purposes of paragraph (2) above shall be the expiry of the period of one month from the date on which the office holder took up the office.
+
+(4) The statement shall contain particulars of—
+
+- (a) the name of the office holder and the title or description of the officer nominated by the bishop or registrar under paragraph (1) above and the body which is to be treated, for the purpose of these Regulations, as the respondent in any proceedings brought by the office holder before an employment tribunal,
+- (b) the title of the office to which the office holder has been appointed, and
+- (c) the date when the appointment took effect.
+
+(5) The statement shall also contain particulars, as at a specified date not more than seven days before the statement (or the instalment containing them) is given, of—
+
+- (a) whether the office holder is entitled to a stipend and, if so, the amount of the stipend or the method of calculating it,
+- (b) the person or body responsible for the payment of the stipend,
+- (c) the intervals at which any stipend is payable (that is, weekly, monthly or other specified intervals),
+- (d) whether the office holder is entitled to receive parochial fees and the relationship, if any, of the receipt of such fees to any stipend,
+- (e) any terms and conditions relating to the reimbursement of expenses incurred in connection with the exercise of the office,
+- (f) whether the office is full-time or part-time and, in the case of part-time posts, and of posts for which special provision has been made for hours of work, any terms and conditions relating to hours of work (including any terms and conditions relating to normal working hours),
+- (g) any terms and conditions relating to any of the following—
+  - (i) entitlement to rest periods and holidays, including public holidays,
+  - (ii) incapacity for work due to sickness or injury, including any provision for sick pay,
+  - (iii) pensions and pensions schemes, including, where the office holder comes within either the Church of England Pensions Scheme or the Church of England Funded Pensions Scheme, or both, a statement to that effect, and
+  - (iv) entitlements to maternity, paternity, parental , adoption, shared parental and parental bereavement leave[^key-c2652bbd3e6d2425172595c48fcb1b39] and time off work to care for dependants[^key-125880eeaed3e9d3e442b6290e2aac86] in accordance with regulation 23 below,
+- (h) where the office holder is required, for the better performance of his or her duties, to occupy any particular residence, details of the address of the property concerned, the person or body to whom or which it belongs, the terms of occupation and any contents to be provided by the relevant housing provider,
+- (i) the length of notice which the office holder is required to give and, if applicable, receive to terminate the appointment, and
+- (j) where the appointment is not intended to be permanent, the circumstances in which it may be terminated or, if it is for a fixed term, the date when it is to end.
+
+(6)[^key-537843a142352e88fff6bd76886d1084] The Archbishops’ Council may issue guidance on the preparation of a statement under this regulation.
+
+(7) A person preparing a statement under this regulation must, in doing so, have regard to any guidance that is issued under paragraph (6).
+
+#### 4. Statement of initial particulars: supplementary[^key-f1289c0b255a355f7bfb7979194b3b98]
+
+(1) If, in the case of a statement under regulation 3 above, there are no particulars to be entered under any of the paragraphs of that regulation or any of the heads of any such paragraph, that fact shall be stated.
+
+(2) A statement under regulation 3 above may refer the office holder for particulars of any of the matters mentioned in it to these Regulations, to any Measure or Canon, to other regulations of the General Synod or specified provisions thereof or to the provisions of some other document which is reasonably accessible to the office holder.
+
+(3) A statement shall be given to an office holder even if his or her appointment ends before the end of the period within which the statement is required to be given.
+
+#### 5. Note about disciplinary, capability and grievance procedures and pensions[^key-cb8d42b714c272842dccb8fa05a461aa]
+
+(1) A statement under regulation 3 above shall include a note—
+
+- (a) in the case of office holders to whom the provisions of the Ecclesiastical Jurisdiction Measure 1963[^f00002] relating to offences or of the Clergy Discipline Measure 2003[^f00003] relating to misconduct apply specifying those provisions,
+- (b) in the case of office holders other than those referred to in paragraph (a) above, specifying any disciplinary rules or procedures applicable to the office held by the office holder, and
+- (c) in the case of all office holders, specifying any capability or grievance procedures relating to office holders.
+
+(2) A note included in a statement under paragraph (1) above may comply with that paragraph by referring the office holder to any such laws or documents as are referred to in regulation 4(2) above.
+
+(3)[^key-1144f1fdfe68ac2539789ba373f94796] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 6. Statement of changes[^key-4a77871d23751e6ed1867a233ca04abb]
+
+(1) If, after the material date, there is a change in any of the matters particulars of which are required by regulations 3 to 5 above to be included or referred to in a statement under regulation 3, the officer nominated by the bishop or registrar under regulation 3(1) shall give to the office holder a written statement containing particulars of the change.
+
+(2) For the purposes of paragraph (1) above—
+
+- (a) in relation to a matter particulars of which are included or referred to in a statement given under regulation 3 other than in instalments, the material date is the date to which the statement relates,
+- (b) in relation to a matter particulars of which are included or referred to in an instalment of a statement given under regulation 3, the material date is the date to which the instalment relates, and
+- (c) in relation to any other matter, the material date is the date by which a statement under regulation 3 is required to be given.
+
+(2A)[^key-f4faac7abae3f21d7aba0566ed47e3bc] If a residentiary canon becomes a qualifying residentiary canon by virtue of a resolution under regulation 2(4)(c), the officer nominated by the bishop under regulation 3(1) shall give to the residentiary canon a written statement to that effect.
+
+(3) A statement under paragraph (1) or (2A)[^key-a376b4d87e1c598f1b75de7dddf7174e] above shall be given at the earliest opportunity and, in any event, not later than one month after the change in question.
+
+(4) A statement under paragraph (1) or (2A)[^key-433ecfd7ba7e90f5e889a5f4a69d56d0] may refer the office holder to any such laws or documents as are referred to in regulation 4(2) above.
+
+#### 7. Reasonably accessible document[^key-b98029c067cad504305f73a967842c79]
+
+In regulation 4 above the reference to a document which is reasonably accessible to an office holder is a reference to a document which—
+
+- (a) the office holder has reasonable opportunities of reading in the course of the exercise of his or her office, or
+- (b) where details of a website have been provided to the office holder, the office holder can gain access to without incurring unreasonable expense, or
+- (c) is made reasonably accessible to the office holder in some other way.
+
+#### 8. Right to itemised statement of stipend[^key-8452c78df6800eb03d0a34e4265e3dc0]
+
+(1) An office holder to whom a stipend is payable has the right to receive from the person or body who or which is responsible for the payment of the stipend, at or before the time at which any payment of stipend is made to him or her, a written itemised statement of stipend.
+
+(2) The statement shall contain particulars of—
+
+- (a) the gross amount of the stipend,
+- (b) the amounts of any deductions from that gross amount and the purposes for which they are made, and
+- (c) the net amount of stipend payable.
+
+### Enforcement
+
+#### 9. References to employment tribunals[^key-b8152cc948f66be761ac172598971a97]
+
+(1) Where the officer nominated under regulation 3 above does not give an office holder a statement as required by regulation 3 or 6 or where the office holder is not given a statement as required by regulation 8 (either because the person or body concerned gives no statement or because the statement which is given does not comply with what is required), the office holder may require a reference to be made to an employment tribunal to determine what particulars ought to have been included or referred to in a statement so as to comply with the requirements of the provision concerned.
+
+(2) Where—
+
+- (a) a statement purporting to be a statement under regulation 3 or 6 above, or a statement of stipend purporting to comply with regulation 8, has been given to an office holder, and
+- (b) a question arises as to the particulars which ought to have been included or referred to in the statement so as to comply with the requirements of this Part of these Regulations,
+
+either the person or body concerned or the office holder may require the question to be referred to and determined by an employment tribunal.
+
+(3) For the purposes of this paragraph—
+
+- (a) a question as to the particulars which ought to have been included in the note required by regulation 5 above to be included in the statement under regulation 3 does not include any question whether the office is, has been or will be treated as contracted-out employment (for the purposes of Part III of the Pensions Schemes Act 1993[^f00005]), and
+- (b) a question as to the particulars which ought to have been included in a statement of stipend does not include a question solely as to the accuracy of an amount stated in any such particulars.
+
+(4) An employment tribunal shall not consider a reference under this section in a case where the appointment to which the reference relates has ended unless an application requiring the reference to be made was made—
+
+- (a) before the end of the period of three months beginning with the date on which the appointment ended, or
+- (b) within such period as the tribunal considers reasonable in a case where it is satisfied that it was not reasonably practicable for the application to be made before the end of that period of three months.
+
+(5)[^key-75daaa4e22fe194725af7d5cfc56dc3d] Regulation 9A (extension of time limits to facilitate conciliation before institution of proceedings) applies for the purposes of paragraph (4)(a).
+
+#### 9A. Extension of time limits to facilitate conciliation before institution of proceedings[^key-5bbe188da7596d7f0b93e8a7178e8af4]
+
+(1) In this regulation—
+
+- (a) Day A is the day on which the office holder concerned complies with the requirement in subsection (1) of section 18A of the Employment Tribunals Act 1996 (requirement to contact ACAS before instituting proceedings) in relation to the matter in respect of which the proceedings are brought, and
+- (b) Day B is the day on which the office holder concerned receives or, if earlier, is treated as receiving (by virtue of regulations made under subsection (11) of that section) the certificate issued under subsection (4) of that section.
+
+(2) In working out when the time limit set by regulation 9(4)(a) expires the period beginning with the day after Day A and ending with Day B is not to be counted.
+
+(3) If the time limit set by regulation 9(4)(a) would (if not extended by this paragraph) expire during the period beginning with Day A and ending one month after Day B, the time limit expires instead at the end of that period.
+
+(4) The power conferred on the employment tribunal by regulation 9(4)(b) to extend the time limit set by paragraph (4)(a) of that regulation is exercisable in relation to that time limit as extended by this regulation.
+
+#### 10. Determination of references[^key-9adad1bff5b07710ab939823520bf56a]
+
+(1) Where, on a reference under regulation 9 above, an employment tribunal determines particulars as being those which ought to have been included or referred to in a statement given under regulation 3 or 6 above, the officer nominated under regulation 3 shall be deemed to have given the office holder a statement in which those particulars were included, or referred to, as specified in the decision of the tribunal.
+
+(2) On determining a reference under regulation 9(2) above relating to a statement purporting to be a statement under regulation 3 or 6, an employment tribunal may—
+
+- (a) confirm the particulars as included or referred to in the statement given by the person nominated under regulation 3,
+- (b) amend those particulars, or
+- (c) substitute other particulars for them,
+
+as the tribunal may determine to be appropriate; and the statement shall be deemed to have been given by that person to the office holder in accordance with the decision of the tribunal.
+
+(3) Where on a reference under regulation 9 above an employment tribunal finds—
+
+- (a) that the person or body responsible has failed to give an office holder a statement of stipend in accordance with regulation 8, or
+- (b) that a statement of stipend does not, in relation to any deduction, contain the particulars required to be included in that statement by that regulation,
+
+the tribunal shall make a declaration to that effect.
+
+(4) Where on a reference in a case to which paragraph (3) above applies the tribunal further finds that any un-notified deductions have been made from the stipend of the office holder during the period of thirteen weeks immediately preceding the date of the application for the reference (whether or not the deductions were made in breach of the terms and conditions of the appointment), the tribunal may order the person or body who or which is responsible for the payment of the stipend to pay the office holder a sum not exceeding the aggregate of the un-notified deductions so made.
+
+(5) For the purposes of paragraph (4) above a deduction is an un-notified deduction if it is made without the person or body concerned giving the office holder, in any statement of stipend, the particulars of the deduction required by regulation 8.
+
+## PART III — RIGHT TO STIPEND AND PROVISION OF ACCOMMODATION
+
+### Entitlement to stipend
+
+#### 11. Entitlement to stipend of office holders[^key-6e3f53174c7f611a8e5c89f9a5e21bf2]
+
+(1) Subject to paragraph (3), an office holder who is occupying a full-time stipendiary post which is stated to be such in his or her terms of appointment shall be entitled to receive an annual stipend of an amount—
+
+- (a) which is not less than the National Minimum Stipend, or
+- (b) which, together with any income received by the office holder from other sources which is related to or derived from the duties of the office, is not less than the National Minimum Stipend.
+
+(1A)[^key-798d55482de06303110cafeb3935416d] Any stipend which an office holder who is occupying a full-time stipendiary post as mentioned in paragraph (1) gives up in return for the provision of a benefit under arrangements made with an officer of the Commissioners is nonetheless to be treated for the purposes of this regulation as stipend received by the office holder.
+
+(2) In sub-paragraph (1) above “National Minimum Stipend” means the amount specified from time to time by the Archbishops’ Council, in exercise of its functions as the Central Stipends Authority, as the National Minimum Stipend, and the circumstances in which income is treated, for the purposes of paragraph (1)(b) above, as to be taken into account for the purpose of calculating an office holder’s entitlement, shall be specified from time to time by the Council in the exercise of those functions.
+
+(3) An office holder who is occupying a part-time post shall be entitled to such stipend as may be specified in the statement of particulars of office given under regulation 3 above.
+
+(4) Paragraphs (1) and (3) above do not apply to an office holder who is serving a sentence of imprisonment following a conviction for a criminal offence.
+
+(5) Any directions given by a diocesan bishop under section 5(2) of the Diocesan Stipends Funds Measure 1953[^f00006] with respect to providing or augmenting the stipends of the office holders mentioned in that section shall be consistent with the provisions of this regulation.
+
+### Provision of accommodation
+
+#### 12. Duties of relevant housing provider[^key-2257dc5f90fff94e29ec491ac06fc397]
+
+(1) The relevant housing provider which provides a house of residence or other accommodation under section 4 or 5 of the Measure shall be under a duty—
+
+- (a) to keep the property in repair;
+- (b) to arrange for a qualified surveyor (within the meaning of section 7(6)(b) of the Measure) to inspect the property at least every five years and, in the case of a new building, as soon as possible after the building is provided, and for a report to be submitted to the housing provider describing the state and condition of the property, including the state and condition of the interior, and the grounds and of any contents of the property provided by the housing provider;
+- (c) to send a copy of the surveyor’s report to the office holder and, after consulting the office holder, to carry out within a reasonable time any repairs recommended in the report which appear to the housing provider to be appropriate;
+- (d) to pay the Council Tax and such other recurring charges as may be specified in the statement of particulars of office given under regulation 3 above (or in any statement of changes given under regulation 6 above);
+- (e) to insure the property against all such risks as are included in the usual form of house owner’s policy relating to buildings.
+
+(2) In this regulation “repairs” means such works of repair and replacement as are needed—
+
+- (a) to keep in repair the structure and exterior of the buildings of the property, including doors, windows, drains, gutters and external pipes;
+- (b) to keep in repair all walls, fences, gates, drives and drains of the property, other than those which some person other than the office holder is wholly liable to repair; and
+- (c) to keep in repair and proper working order—
+  - (i) the installations in the property for the supply of water, gas and electricity, and for sanitation, including basins, sinks, baths and sanitary conveniences,
+  - (ii) the installations in the property for space heating or heating water, and
+  - (iii) any fixtures, fittings and appliances in the property (other than those mentioned in the preceding sub-paragraphs) provided by the relevant housing provider,
+
+including works of interior decoration necessitated in consequence of such works as aforesaid.
+
+(3) In determining for the purposes of this regulation the standard of repair appropriate to any building regard shall be had to the age, character and prospective life of the building and, in particular, in the case of a building included in a list under section 1 of the Planning (Listed Buildings and Conservation Areas) Act 1990[^f00007] or a building in a conservation area, to the special architectural or historic interest of the building.
+
+(4) In this regulation and regulations 13, 14 and 15 below “property” includes any land or other buildings which forms or form part of or is or are ancillary to the house of residence or other accommodation.
+
+#### 13. Rights of entry[^key-2e7d5a7d35409c2984875ec0354bdf35]
+
+The relevant housing provider or its officers or agents may enter any property which is provided as a house of residence or other accommodation under section 4 or 5 of the Measure on first giving, except in an emergency, reasonable notice to the office holder, to inspect or carry out repairs to the property or to inspect, repair, replace or remove any contents of the property which have been provided by the housing provider or for such other reasonable purpose as is consistent with the powers and obligations of the provider.
+
+#### 14. Duties of office holder[^key-d85099dce24f7996e2c12a9bdf6e12f1]
+
+(1) An office holder who is in occupation of a house of residence or other accommodation provided under section 4 or 5 of the Measure shall be under a duty—
+
+- (a) to permit the relevant housing provider or its officers or agents to enter the property in exercise of the provider’s rights under regulation 13 above;
+- (b) to use all reasonable endeavours to keep the property and any contents of the property provided by the relevant housing provider, clean and free from deterioration, with the exception of fair wear and tear, and to keep any garden or other grounds belonging to the property in a reasonable state of upkeep;
+- (c) to notify the relevant housing provider of any works of repair that may from time to time be needed to the property as soon as reasonably practicable after the office holder becomes aware of them;
+- (d) if required to do so by the relevant housing provider, to the extent that it is not recoverable under any insurance policy, to pay the whole or part of the reasonable cost of any repairs to the property which a report of a qualified surveyor as mentioned in regulation 12(1)(b) above authorised by the relevant housing provider specifies to be necessary as the result of damage caused or aggravated by the deliberate act of the office holder or a member of the office holder’s household residing with him or her or by a breach of the office holder’s obligations under this regulation;
+- (e) not to use the property except as a private residence for the office holder and his or her household and for such other purposes as may be agreed by the relevant housing provider, which agreement shall not be unreasonably withheld;
+- (f) not to make any repairs, alterations or additions to the property without the consent of the relevant housing provider;
+- (g) where the property is held on a lease, to observe any term, condition or covenant binding the tenant under the lease and, in any case, to indemnify the relevant housing provider in respect of any breach by the office holder or by any member of the office holder’s household living in the property of any term, condition or covenant binding on the occupier; and
+- (h) to vacate the property within the period of one month from the date on which the office holder ceases to hold the office or on which he or she takes up a new office, whichever is sooner or within such longer period as the relevant housing provider may allow and to leave the property clean and tidy and clear of all personal possessions belonging to the office holder or any members of his or her household residing in the property.
+
+(2) If an office holder dies whilst occupying the property any member of his or her household living in the property at that time may remain in occupation for the period of three months from the date of the office holder’s death or such longer period as the relevant housing provider may allow and any such person shall, for the duration of his or her occupation, be subject to the same obligations, so far as relevant, under this regulation as is the office holder.
+
+(3) The office holder shall keep the relevant housing provider informed of matters arising from any notice given to him or her by a Government department, local or other public authority, public utility undertaker or, in the case of property held on a lease or tenancy, the landlord of the property; and the relevant housing provider shall, unless it agrees otherwise with the office holder, advise on or undertake negotiations in respect of any such matters.
+
+#### 15. Disputes and variation of terms[^key-7c5cfa452095e2f0bb7e24a7b7c11de7]
+
+(1) If there is any dispute about the performance of the respective obligations of the relevant housing provider and the office holder under section 4, 5 or 6 or regulations 12 to 14 above which cannot be resolved by the grievance procedures, it shall be referred for arbitration by a single arbiter appointed by agreement between the relevant housing provider and the office holder or, failing agreement, by the President of the Royal Institution of Chartered Surveyors and the decision of any arbiter so appointed shall be final.
+
+(2) The terms of occupation of the property by the office holder may, subject to regulations 12 to 14 above, be varied by agreement between the relevant housing provider and the office holder and, where appropriate, the statement of particulars of office shall be amended to reflect any such variation.
+
+### Regulated transactions
+
+#### 16. Rights to object to regulated transactions[^key-7f180cf63c5d541c84f7d9bfc3409009]
+
+(1) Where under section 7 of the Measure a relevant housing provider has served notice on an office holder or other person or body of a regulated transaction any person or body on whom or which notice is served may object to the transaction by giving notice to the relevant housing provider, stating the grounds of the objection, within the period of twenty eight days beginning on the next working day after the date of the relevant housing provider’s notice.
+
+(2) Subject to paragraph (3) below, within the period of five days of the receipt of any notice of objection given under paragraph (1) above, the relevant housing provider shall send it for consideration—
+
+- (a) where the provider is the Commissioners or where the consent of the Commissioners is required to the transaction, to the Archbishops’ Council,
+- (b) in any other case, to the Commissioners.
+
+(3) If the relevant housing provider considers that the objection is well founded, it need not refer it under paragraph (2) above and shall—
+
+- (a) notify the person or body which served the notice accordingly; and
+- (b) either discontinue any action with respect to the regulated transaction or consider whether to proceed with a different regulated transaction.
+
+(4) The Archbishops’ Council or the Commissioners, as the case may be, shall, after considering the grounds of objection and all relevant circumstances, direct that the transaction shall proceed if the relevant housing provider satisfies it or them that any objection should not be upheld and, in any other case, direct that the transaction shall not proceed.
+
+(5) Without prejudice to their powers to appoint committees, the Archbishops’ Council may delegate the consideration of any objections to a committee appointed by the Council for the purposes of this regulation and the Commissioners may delegate the consideration of objections to any committee of the Commissioners established by or appointed under the Church Commissioners Measure 1947[^f00008].
+
+(6) If the relevant housing provider is satisfied that the issue of any notice under section 7[^key-5ddcc489ee11f9e6b02544ffbe27bda0] of the Measure should be dispensed with owing to the urgency of a proposed regulated transaction, or if the Archbishops’ Council or the Commissioners are satisfied that, owing to the urgency of the transaction, objections should not be considered, the Council or the Commissioners, as the case may be, may direct that the transaction shall proceed without issuing the notice or consideration of any objections, as the case may be, provided that every person or body on whom notice of the transaction has been served (or is required to be served, as the case may be) agrees.
+
+(7) Paragraph (5) above applies to the consideration of the matters referred to in paragraph (6) above as it applies to the consideration of objections.
+
+### Service of notices
+
+#### 17. Service of notices[^key-f4b5a74c3c0df663b752fc4594eceb5d]
+
+(1) Any notice required or authorised by the Measure or these regulations to be served on, sent or given to a person may be served, sent or given by delivering it to that person, or by leaving it at that person’s proper address, or by sending it by post or by facsimile transmission or electronic mail.
+
+(2) The proper address for the purpose of paragraph (1) above shall be that person’s last known address, except that—
+
+- (a) in the case of a secretary or clerk of a corporation, it shall be the registered or principal office of the corporation;
+- (b) in the case of a parochial church council, it shall be the address of the secretary or acting secretary or, in the absence of such a person, the address of such other person as may be deemed by the person serving the notice to be appropriate.
+
+## PART IV — MINISTERIAL DEVELOPMENT REVIEW, EDUCATION AND TRAINING
+
+### Ministerial development review and continuing ministerial development[^key-c97cb766ccce41fdb79004115bd1895d]
+
+#### 18. Ministerial development review[^key-9d713e66420a34d54803c68d07cb3f2d]
+
+(1) Every diocesan bishop shall make, and keep under review, a scheme containing arrangements for a person nominated by the bishop[^key-3d93daced9411460bc0b87a26c1a29a4] to conduct with each office holder in that diocese a review of his or her ministry to be known as a “ministerial development review” on at least one occasion in each period of two calendar years.
+
+(2) The archbishop of each province shall arrange for every diocesan bishop in the province to undertake a ministerial development review and for the archbishop’s[^key-9577734af77edf26ab175b90126aa12f] own ministerial development review on at least one occasion in each period of two calendar years.
+
+(3) It shall be the duty of each office holder to co-operate in any ministerial development review undertaken under this regulation.
+
+(4) The bishop or, as the case may be, the archbishop, shall have regard, in carrying out [^key-bb333af52830848801d7d9246634d197]... functions under paragraphs (1) and (2) above, to guidance issued by the Archbishops’ Council ; and the guidance may relate to annual reviews for executive residentiary canons under regulation 18A[^key-86f41819f686bddf5d023c783035842e].
+
+(5) The bishop or, as the case may be, the archbishop, shall keep a written record of the outcome of any ministerial development review and of any relevant matters relating to such a review, which shall be signed by the office holder and the person conducting the review.
+
+#### 18A. Executive residentiary canons: annual review[^key-718b6ec5e6035869a92bf48ff7bb07f2]
+
+(1) In the case of each office holder who is an executive residentiary canon, the dean of the cathedral shall, on at least one occasion in each calendar year, conduct a review with the residentiary canon of his or her exercise of cathedral duties.
+
+(2) A review under this regulation is to be known as an “annual review” and is in addition to the ministerial development review.
+
+(3) It shall be the duty of each executive residentiary canon to co-operate in any annual review undertaken under this regulation.
+
+(4) The dean shall keep a written record of the outcome of any annual review and of any relevant matters relating to such a review, which shall be signed by the residentiary canon and the dean.
+
+(5) In this regulation, “executive residentiary canon” means a residentiary canon who is an executive member of the Chapter of the cathedral concerned; and “executive member” and “cathedral duties” each have the same meaning as in the Cathedrals Measure 2021.
+
+#### 19. Continuing ministerial development[^key-66a9c811e6086ddac0b29daf659295c7][^key-07b16a7957c1fed390d7e243a0b4b33b]
+
+(1) Each office holder (other than an archbishop) shall be under a duty to participate in arrangements approved by the diocesan bishop or, in the case of a diocesan bishop, by the archbishop of the province concerned, as appropriate for the continuing ministerial development[^key-b3e0382e48cb2ee5ce4405d129f7bbba] of that office holder.
+
+(2) The bishop or, as the case may be, the archbishop, shall have regard, in carrying out [^key-2a14870c5e2c3e7d258cca42ed0d137f]... functions under paragraph (1) above of approving the arrangements referred to therein, to any guidance issued by the Archbishops’ Council.
+
+(3) Each archbishop shall make such arrangements as he or she[^key-aed0f2b5dafff47e5070b79dfdaa6b1b] thinks appropriate for his or her[^key-d76d7a66513d66af18f356e9efe59c90] continuing ministerial development[^key-242229036b7eb1b9ea119ad04d02bce0].
+
+(4) Any diocesan bishop shall be under a duty to use all reasonable endeavours to ensure that every office holder in the diocese is afforded opportunities to participate in such education or training as is appropriate to promote that office holder’s ministerial development.
+
+(5)[^key-03e519a15fe07e0b572cf106bbd31dd9] In the case of an office holder who is a qualifying residentiary canon, the functions imposed by paragraphs (1), (2) and (4) are instead to be carried out by the dean of the cathedral concerned; and the references in those paragraphs to the diocesan bishop are accordingly to be read as references to the dean.
+
+(6) But paragraph (5) does not apply in so far as the functions imposed by paragraphs (1), (2) and (4) relate to education or training on the safeguarding of children or vulnerable adults (within the meaning of the Safeguarding and Clergy Discipline Measure 2016).
+
+### Training
+
+#### 20. Holders of designated training posts[^key-0f78caa15ed22674c061719162cbc241]
+
+(1) Every bishop of a diocese in which an office holder holds an office designated under regulation 29(1)(c) below as a training post shall make arrangements so as to ensure that any such officer holder is provided with suitable training and afforded such time off work as is necessary to undertake it.
+
+(1A)[^key-b0205b8c0ad30adb7887d4acbb3e195a] During any period for which an office referred to in paragraph (1) above continues to be designated as a training post as a result of regulation 29(3A), the duty in paragraph (1) above does not apply in relation to the office but the duty in paragraph 19(1) does.
+
+(2) An office holder who holds an office referred to in paragraph (1) above shall be under a duty to use all reasonable endeavours to participate in and complete any training which is required to be provided to him or her under that paragraph.
+
+## PART V — TIME OFF WORK, TIME SPENT ON OTHER DUTIES AND SICKNESS
+
+### Time off and annual leave
+
+#### 21. Weekly rest period[^key-9733696dc65a413fc850d2a0a8b4d377]
+
+(1) An office holder shall be entitled to an uninterrupted rest period of not less than 24 hours in any period of seven days, but the statement of particulars of office issued under regulation 3 above may specify that any rest period may not be taken on or include a Sunday or any or all of the principal Feasts of the Church of England or Ash Wednesday or Good Friday.
+
+#### 22. Annual leave[^key-351619322c4aac16253c34c8d123604f]
+
+(1) An office holder occupying a full-time post shall be entitled to thirty six days annual leave or such greater amount as may be specified in the statement of particulars of office in any calendar year without any deduction of any stipend to which the office holder is entitled, but the statement of particulars may specify particular days on which annual leave shall or may not be taken and may, in particular, specify the maximum number of Sundays on which annual leave may be taken.
+
+(2) During the first calendar year of the appointment, the amount of leave which an office holder may take at any time in exercise of the entitlement under paragraph (1) above is limited to the amount which is deemed to have accrued in his or her case at that time under paragraph (3) below, as modified by paragraph (4) where that paragraph applies, less the amount of leave (if any) that he or she has already taken during that year.
+
+(3) For the purposes of paragraph (2) above leave is deemed to accrue over the course of the first year of the appointment at a rate which is proportionate to the proportion of the calendar year remaining after the date on which the appointment begins.
+
+(4) Where the amount of leave that has accrued in a particular case includes a fraction of a day the fraction shall be treated as a whole day.
+
+(5) For the purposes of paragraph (1) above, the amount of leave allowed by that paragraph shall exclude any period of special leave allowed by the diocesan bishop (or in the case of an office holder who is a diocesan bishop, the archbishop of the province in which the diocese is situated or in the case of an office holder who is a qualifying residentiary canon, the dean of the cathedral concerned[^key-245e11c1883289c18fc23e00302e0c10]), including any such leave granted for the purposes of removal and re-settlement.
+
+(6) Paragraphs (3) and (4) above shall apply during the final calendar year of the appointment as they apply during the first such year.
+
+(7) An office holder occupying a part-time post shall be entitled to such period of annual leave as may be specified in the statement of particulars of office given to the office holder under regulation 3 above and paragraphs (2) to (5) above shall apply accordingly.
+
+#### 22A. Special leave for qualifying residentiary canons[^key-9ee63bd12989b9a11f2041d3ce2978a5]
+
+(1) When allowing a period of special leave to a qualifying residentiary canon, the dean of the cathedral shall notify the diocesan bishop in writing.
+
+(2) Where the dean of a cathedral has allowed a qualifying residentiary canon a period or periods of special leave in any calendar year totalling three months, the dean may not allow any further period of special leave to the qualifying residentiary canon in that calendar year without having obtained the written consent of the diocesan bishop.
+
+### Maternity, paternity, parental and adoption leave and time spent on public duties
+
+#### 23. Maternity, parental, adoption etc. leave and time off for carers[^key-ba3708a6f88808e06ff1ccd6d5d6a338]
+
+(1) An office holder is entitled to maternity, paternity, parental, adoption , shared parental or parental bereavement leave[^key-1f88cc756a1ef3780af27307b11bb3c8] for the same periods and subject to the same conditions as for the time being apply in the case of an employee under the Employment Rights Act 1996 or regulations made under it.
+
+(2) Before exercising an entitlement under paragraph (1), an office holder must, in consultation with a responsible person or authority, use all reasonable endeavours to make arrangements for the duties of the office to be performed by one or more other persons during the period of leave.
+
+(3) An office holder may request the appropriate authority to give him or her time off work or to make adjustments to the duties of the office to allow him or her to care for a dependant; and for this purpose, “the appropriate authority” is—
+
+- (a) unless the office holder holds office in a cathedral, the bishop of the diocese;
+- (b) if the office holder is the dean of a cathedral, the bishop of the diocese;
+- (c) if the office holder holds another office in a cathedral, the dean of the cathedral.
+
+(4) A request under paragraph (3) must be in writing; and the Archbishops' Council may impose other conditions as to the manner in which the request is to be made, including as to the supply of information with the request.
+
+(5) The appropriate authority must consider a request under paragraph (3); and when doing so in the case of an office holder who does not hold office in a cathedral, it must consult the parochial church council of each parish belonging to the benefice concerned.
+
+(6) Where the appropriate authority decides to grant a request under paragraph (3), it may—
+
+- (a) give such time off work or make such adjustments to the duties of the office as appear to it to be reasonable, and
+- (b) impose reasonable conditions on the grant of the request, including appropriate variations in the stipend which would otherwise be payable to the office holder.
+
+(7) In this regulation—
+
+- “**dependant**”, in relation to an office-holder, means any person who would, if the office-holder were an employee for the purposes of the Employment Rights Act 1996, be a dependant within the meaning of section 57A of that Act,
+- “parental bereavement leave” means leave under section 80EA of that Act,[^key-61c0cba8fcef725ff9b682be3dd1da83] and
+- “**shared parental leave**” means leave under section 75E or 75G of that Act.
+
+#### 24. Right to time spent on public duties[^key-19eb49f9c056dc2313b2a77f0f227513]
+
+(1) An office holder may, subject to paragraph (2) below, spend time on public duties other than the duties of his or her office.
+
+(2) The amount of time which an office holder may spend on public duties under this regulation, the occasions on which and any conditions subject to which the time may be spent, are those that are reasonable in all the circumstances, having regard, in particular, to—
+
+- (a) how much time is required for the performance of the particular public duty;
+- (b) how much time has already been spent on public duties under this regulation;
+- (c) the nature of the office and its duties and the effect of the absence of the office holder on the performance of the duties of the office; and
+- (d) any remuneration which the office holder is entitled to receive in connection with the duties of the office.
+
+(3) In the event of any dispute as to any of the matters referred to in sub-paragraph (2) above, the matter shall be determined by the diocesan bishop or, in the case of an office holder who is a diocesan bishop, the archbishop of the province in which the diocese is situated or, in the case of an office holder who is a qualifying residentiary canon, the dean of the cathedral concerned or, if the qualifying residentiary canon is in dispute with the dean, the diocesan bishop[^key-fbbd6a3a69e32f797832f5f1baa1355e].
+
+(4) In this regulation “public duties” means—
+
+- (a) any work done for a public authority, including membership of a court or tribunal, or for a charity within the meaning of the Charities Act 2006[^f00011] or an incorporated or a registered friendly society, and
+- (b) any work done in connection with the activities of an independent trade union representing office holders of a description which includes the person in question.
+
+#### 25. Right to time off for ante-natal care[^key-57850b1074d9ee6447b8dc6aacf9140e]
+
+(1) An office holder who—
+
+- (a) is pregnant, and
+- (b) has, on the advice of a registered medical practitioner, registered midwife or registered health visitor, made an appointment to attend at any place for the purpose of receiving ante-natal care,
+
+is entitled to take time off during her working hours in order to enable her to keep the appointment.
+
+(2) As soon as is reasonably practicable after the office holder’s pregnancy is confirmed, she shall notify the officer of the diocese nominated under regulation 3(1)(a) above.
+
+#### 26. Payment of stipend during time off or time spent on public duties[^key-7b7542989d48f0b98d5c85d719e9214c]
+
+(1) An office holder who takes any time off or spends time on public duties to which he or she is entitled under regulations 24 or 25 above and who is, under the terms of his or her service, entitled to the payment of a stipend, shall not suffer any reduction in his or her stipend during the time off or time spent on public duties, as the case may be, except, in the case of time spent on public duties, such reduction, if any, as may be specified in the statement of particulars of office given under regulation 3 above (including any statement of changes given under regulation 6 above).
+
+### Sickness
+
+#### 27. Sickness[^key-d993c3cb7184770641f2502f88feb0f0]
+
+(1) If an office holder who is in receipt of a stipend is unable to perform the duties of his or her office because of illness for a period of one working day or longer he or she must report the absence to the person nominated for the purposes of this regulation[^key-5dcf06e2688bf3eda98fdf7b35bfa680], who shall inform the Commissioners and, if the report is in writing, send them a copy thereof.
+
+(1A)[^key-23c7b8f932c89a28ca49fe7fa39c369f] The person nominated under paragraph (1) above shall be nominated–
+
+- (a) in the case of an office holder other than the diocesan bishop, by the diocesan bishop, and
+- (b) in the case of an office holder who is a diocesan bishop, by the registrar of the province in which the diocese is situated.
+
+(2) If an office holder who is in receipt of a stipend[^key-c188a62878dbef1ee4eee184faaf681f] is absent from work because of illness for a continuous period of more than seven days he or she must supply the person nominated as aforesaid with a certificate signed by a qualified medical practitioner and that person shall send a copy of the certificate to the Commissioners.
+
+(2A)[^key-f0ecc63920b6826e069e02f68b525485] If an office holder who is a qualifying residentiary canon is absent from work because of illness for a continuous period of more than seven days he or she must supply the dean of the cathedral concerned with a certificate of the kind referred to in paragraph (2) (in addition to supplying the certificate to the person nominated under paragraph (1), if required to do so).
+
+(3) An office holder who is absent from work because of illness must use all reasonable endeavours to make arrangements for the duties of the office to be performed by another person during the absence which may, where appropriate, consist of notifying a responsible person or authority of the absence.
+
+(4) If an office holder is entitled to receive statutory sick pay under Part XI of the Social Security and Contributions and Benefits Act 1992[^f00012] for any period of absence from work, the office holder shall be entitled during that period to receive in full any stipend which is payable in respect of the office.
+
+(5) The diocesan bishop or, in the case of an office holder who is a diocesan bishop, the archbishop of the province in which the diocese is situated, may, if he is satisfied that the office holder is, by reason of illness, unable adequately to discharge the duties of his or her office, permit the office holder to be absent from work for such period as he thinks appropriate and may make provision for the discharge of those duties during the period of absence of the office holder.
+
+(6) When giving any directions under section 5(2) of the Diocesan Stipends Funds Measure 1953[^f00013] in relation to the payment of a stipend to an office holder who is absent from work for illness for any period after the date on which he or she is entitled to receive statutory sick pay under the said Part XI, a diocesan bishop shall have regard to any guidance issued by the Archbishops’ Council in the exercise of its functions as the Central Stipends Authority.
+
+#### 28. Medical examination[^key-378f73f6093764238651ae0cbf51a7f8]
+
+(1) The diocesan bishop or, in the case of an office holder who is a diocesan bishop, the archbishop of the province in which the diocese is situated may, if he or she[^key-d02011e1d83e32c98138eb84cee7afd4] has reasonable grounds for concern about the physical or mental health of an office holder, direct that the office holder shall undergo a medical examination by a medical practitioner selected by agreement between the bishop (or archbishop) and the office holder or, in default of agreement, by medical practitioners consisting of a practitioner chosen by each party.
+
+(1A)[^key-28bffb652843453fc06dd81aceccf28e] The archbishop of either province may, if he or she[^key-7885917ba391c5d9bc838d628444bce8] has reasonable grounds for concern about the physical or mental health of the archbishop of the other province, direct that that archbishop shall undergo a medical examination by a medical practitioner selected by agreement between both archbishops or, in default of agreement, by medical practitioners consisting of a practitioner chosen by each archbishop.
+
+(1B)[^key-90d4d741a73facac7e864a856e9f8765] In the case of an office holder who is a qualifying residentiary canon, the power conferred by paragraph (1) is instead exercisable by the dean of the cathedral concerned; and the first reference in that paragraph to the diocesan bishop is accordingly to be read as a reference to the dean.
+
+(2) If an office holder fails to comply with a direction given under paragraph (1) or (1A)[^key-97004ed1b38a3e360e6740cef0f1f6e8] above or fails to disclose or authorise the disclosure of any relevant medical records, when requested to do so, any person or body responsible for operating any capability procedures in respect of the office holder may draw such inferences as appear to that person or body to be appropriate having regard to all the circumstances.
+
+## PART VI — DURATION AND TERMINATION OF APPOINTMENTS AND COMPENSATION
+
+### Limited appointments and termination of appointments
+
+#### 29. Fixed and other limited term appointments[^key-313deb517ce31db6616bbda5c5c73f23]
+
+(1) A person who holds or is to hold office under Common Tenure may be appointed for a fixed term or under terms which provide for the appointment to be terminated on the occurrence of a specified event if—
+
+- (a) the office holder occupies a post which is designated as a post created in order to cover an office holder’s authorised absence from work,
+- (b)[^key-aa8734f483682df7504222e206ffb178] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c) the office is designated as a training post,
+- (d) the office is designated as a post subject to sponsorship funding,
+- (e) the office is designated as a probationary office,
+- (f) the office is created by a bishop’s mission order made under section 80 or 83 of the Mission and Pastoral Measure 2011[^key-9d26d99df8b90c17784301e459f478bd], [^key-d39b94d8bd914c3565caf0ac3f066c7e]...
+- (g) the office holder holds a post which is designated as a post which is held in connection or conjunction with another office or employment,
+- (h)[^key-829ec511f3af0b4691cc7b6af7610f96] the office holder does not have the right of abode, or unlimited leave to enter or remain, in the United Kingdom; [^key-01a253a6cc2ab28f6abe6e7cc9bda577]...
+- (i) the office holder occupies a post which is designated as a Locally Supported Ministry Post , or[^key-260c6838325195013be19ec1fb8db0fb]
+- (j) the office is designated as an interim post,
+
+[^key-416a797e2b9d35b72d2c9aa91a4cc2f1]....
+
+(2) Where a person holds office in any circumstances mentioned in paragraph (1) above the statement of particulars of office required to be given to the office holder under regulation 3 above shall, in addition, contain particulars of any relevant term mentioned in that paragraph.
+
+(3) An office may be designated as a training post if the office holder is required by the diocesan bishop to undertake initial ministerial education.
+
+(3A)[^key-18e8482a8dcc7cc79229e15fd3dfb93e] An office designated as a training post may continue to be designated as such for a period of no more than one year following the completion by the office holder of the initial ministerial education.
+
+(4) An office may be designated as a post subject to sponsorship funding if—
+
+- (a) the holder of the post is a person referred to in section 1(1)(g) or (h) of the Measure (other than a vicar in a team ministry), and
+- (b) any part of the cost of the holder’s stipend or other remuneration, pension, housing accommodation or other expenses is defrayed by a person or body other than a diocesan board of finance, parsonages board, parochial church council or the Commissioners.
+
+(5) An office may be designated as a probationary office if, on the date of the appointment of the office holder to the office, the office holder has not held any ecclesiastical office in any place during the period of twelve months immediately preceding that date.
+
+(6) An office may be designated as a probationary office if the office holder has been removed from a previous office by a final adjudication under the capability procedures and the office designated as a probationary office under this paragraph is the first office occupied by the office holder after his or her removal from office.
+
+(7) An office may be designated as a probationary office if—
+
+- (a) the office holder has been the subject of a complaint under the Ecclesiastical Jurisdiction Measure 1963[^f00016] and has had a censure of prohibition, inhibition or suspension imposed on him or her or he or she has resigned, or
+- (b) the office holder has had imposed on him or her a penalty of removal from office, prohibition for a limited term or revocation of his or her licence under the Clergy Discipline Measure 2003[^f00017] or he or she has resigned in accordance with that Measure,
+
+and appointment to the office is made on the recommendation of the diocesan bishop with a view to facilitating his or her return to the ministry.
+
+(7A)[^key-4be3b6847163ca5d2e6782b441d0b5bf] An office may be designated as a Locally Supported Ministry Post if—
+
+- (a)[^key-04486b097fb9426dddf6cea712b86cc2] the post is held by an assistant curate who is not the priest-in-charge of the benefice to which the parish in which he or she serves belongs,
+- (b) the parochial church council of that parish has entered into a legally binding agreement with the diocesan board of finance of the diocese in which the parish is situated to pay the whole cost of the office holder’s stipend or other remuneration and expenses, including any pension and housing accommodation and other expenses, and
+- (c) the designation is in writing, signed by the bishop of the diocese, acting with the consent of the office holder and the parochial church council.
+
+(7B)[^key-47a09b6d4eda4b5793ce56f3cc5a3722] An office (other than an office in a cathedral) may be designated as an interim post if the designation is in writing, signed by the bishop of the diocese in which the office is situated acting with the consent of—
+
+- (a) the office holder, and
+- (b) the mission and pastoral committee of the diocese.
+
+(7C) An office in a cathedral may be designated as an interim post if the designation is in writing, signed by the bishop of the diocese in which the cathedral is situated acting with the consent of—
+
+- (a) the office holder,
+- (b) the dean of the cathedral, and
+- (c) the Chapter of the cathedral.
+
+(7D) In deciding whether to designate an office as an interim post, the bishop shall have regard to any guidance issued by the Archbishops’ Council.
+
+(7E) The term of an office designated as an interim post may not exceed three years.
+
+(7F) An office designated as an interim post may be designated as such again for a further period of up to three years; but an office may not be designated as an interim post if it was designated as such on the two immediately preceding appointments.
+
+(8) The term of office of any office holder appointed for a fixed term or until the occurrence of a specified event shall terminate on the expiry of the fixed term (unless that term is extended for a further period or periods) or on the occurrence of the event, as the case may be.
+
+#### 29A. Holding office beyond the age of 70[^key-4be2a20c25c5334ebdaccdf9848e300c]
+
+(1) A person who holds or is to hold office under Common Tenure and has attained the age of 70 years may be appointed, or may have his or her appointment continued, for a fixed term or under terms which provide for the appointment to be terminated on the occurrence of a specified event if the person occupies a post by virtue of a direction given under this regulation.
+
+(2) An archbishop may give a direction for a person holding the office of diocesan bishop in the archbishop’s province who has attained the age of 70 years to continue to hold that office for the period specified in the direction.
+
+(3) A diocesan bishop may, with the concurrence of the archbishop in whose province the diocese is situated, give a direction for a person holding the office of suffragan bishop or dean in the diocese who has attained the age of 70 years to continue to hold that office for the period specified in the direction.
+
+(4) A diocesan bishop may give a direction for a person holding the office of residentiary canon or archdeacon in the diocese who has attained the age of 70 years to continue to hold that office for the period specified in the direction.
+
+(4A)[^key-9af4eab24c8deca436b3894c20d13a4e] In the case of an office holder who is a qualifying residentiary canon, the diocesan bishop may not give a direction under paragraph (4) without having obtained the written agreement of the dean of the cathedral.
+
+(5) A diocesan bishop may give a direction for a person who has attained the age of 70 years to hold or to continue to hold the office of incumbent of a benefice in the diocese, or to hold or to continue to hold an office in the diocese under a licence granted by the bishop, for the period specified in the direction (including in a case where the person was holding the office immediately before attaining that age).
+
+(6) The power to give a direction under a paragraph of this regulation includes, in the case of a person holding office by virtue of a previous direction under that paragraph, a power to give one or more further directions under that paragraph.
+
+(7) The period specified in a direction given under paragraph (2), (3) or (4)—
+
+- (a) must begin with the day on which the person attains the age of 70 years or, where the person is holding the office by virtue of a previous direction given under that paragraph, immediately after the end of the period specified in that previous direction, and
+- (b) must end on the date, or on the occurrence of an event, specified in the direction but must not extend beyond the day on which the person attains the age of 75 years.
+
+(8) The period specified in a direction given under paragraph (5)—
+
+- (a) must begin on or after the day on which the person attains the age of 70 years or, where the person is holding the office by virtue of a previous direction given under that paragraph, immediately after the end of the period specified in that previous direction, and
+- (b) must end on the date, or on the occurrence of an event, specified in the direction (and may extend beyond the day on which the person attains the age of 75 years),
+
+(9) An archbishop or diocesan bishop may not give a direction under this regulation unless he or she considers that the person in question will be capable of performing the duties of the office throughout the period for which the person is to hold the office.
+
+(10) A diocesan bishop may not give a direction under paragraph (5) in the case of a person holding the office of incumbent or priest in charge of, or vicar in a team ministry for, a benefice in the diocese or the office of assistant curate in the diocese unless the bishop—
+
+- (a) considers that the pastoral needs of the parish or parishes concerned or of the diocese make it desirable to give the direction, and
+- (b) has obtained the consent of the parochial church council of the parish or each of the parishes concerned.
+
+(11) In deciding whether to give a direction under this regulation, an archbishop or diocesan bishop shall have regard to any guidance issued by the Archbishops’ Council.
+
+(12) A direction given under this regulation must be in writing.
+
+### Compensation for loss of certain offices
+
+#### 30. Posts subject to potential pastoral reorganisation and priests-in-charge[^key-b08c2f086c2b2b9792690b4493a334af]
+
+(1) Where—
+
+- (a) an office holder is appointed to hold office as an archdeacon or incumbent or a vicar in a team ministry [^key-bd91eaf74e103dd89f627a6ce339f1db]..., and
+- (b) at the time when the appointment is made, the mission and pastoral committee of the diocese in which the office is situated has invited the views of the interested parties before submitting proposals to the diocesan bishop in accordance with section 6 of the Mission and Pastoral Measure 2011[^key-75f7895dc0ef7d2ffec87d8475b36877] for inclusion in a draft pastoral scheme or order which might affect the office,
+
+the diocesan bishop may designate the office as an office which is subject to potential pastoral reorganisation and the statement of particulars required to be given to the office holder under regulation 3 above shall contain a declaration of that designation.
+
+(2)[^key-47c337756f3cd7e8da978e5964de39b4] If an office designated under paragraph (1) above ceases to exist in consequence of a pastoral scheme or order and the office holder is in receipt of a stipend or other emoluments, the office holder shall be entitled to compensation under Schedule 4 to the Mission and Pastoral Measure 2011.
+
+(2A) For that purpose, any periodical payments or lump sum payable under paragraph 5(1) of Schedule 4 to that Measure, and any entitlement in respect of a period of service deemed by paragraph 11(1)(a) of that Schedule to be a period of pensionable service for the purposes of that Measure, shall be calculated on the basis of the loss of one year’s service.
+
+(3) If, following the designation of an office under paragraph (1) above, no pastoral scheme or order is made affecting the office within such period not exceeding five years immediately following the appointment of the office holder as may be specified by the bishop, the bishop shall notify the office holder that the office is no longer designated under that paragraph.
+
+(4) Where notification is given to the office holder under paragraph (3) above, section 40 of and Schedule 4 to the Mission and Pastoral Measure 2011[^key-0b8f46103094435f2619666f90faca8d] shall apply to the office holder (and paragraph (2A) above shall not)[^key-218eb86939fbf80f9ee30a4e6e5f3f79].
+
+(5) Paragraphs (2) and (2A)[^key-e5b1e3c5625d70c2d8154584bfa53f2f] above shall also apply to any other office holder whose office ceases to exist in consequence of a pastoral scheme or order and who is not otherwise entitled to compensation under section 40 of and Schedule 4 to the Mission and Pastoral Measure 2011[^key-7e88cef8c5018be1bb22354b872da74d].
+
+(6) Where the licence of a priest-in-charge appointed to a benefice during a vacancy is revoked, in accordance with section 3(4) of the Measure, the priest-in-charge shall be entitled to compensation calculated on the same basis as that on which compensation is calculated under paragraphs (2) and (2A)[^key-b3357dac5ccb4fe04c9ae126932af76d] above.
+
+## PART VII — CAPABILITY AND GRIEVANCE PROCEDURES
+
+### Capability procedures
+
+#### 31. Capability procedures to be conducted in accordance with Codes of Practice[^key-9613e39b45e813de1dbaa2ebd16b9f77]
+
+(1) The diocesan bishop may, if the bishop[^key-e96a0ee4120eecc49771f47429cb5567] considers that the performance of an office holder affords grounds for concern, instigate an inquiry into the capability of an office holder to perform the duties of his or her office in accordance with the following provisions of this regulation.
+
+(1A)[^key-a61c9993338d74bd53e5606d99c8b505] Where the office holder is a diocesan bishop or an archbishop an inquiry may be instigated under paragraph (1)above—
+
+- (a) in the case of an office holder who is a diocesan bishop, by the archbishop of the province in which the diocese is situated, and
+- (b) in the case of an office holder who is an archbishop, by the archbishop of the other province.
+
+(2) An office holder who is the subject of an inquiry under paragraph (1) above shall be entitled, before the inquiry begins, to be informed in writing of—
+
+- (a) any matters relating to the office holder’s performance which are to be taken into account in assessing his or her performance;
+- (b) the procedure which is to be followed in assessing his or her performance, which shall include the opportunity of a meeting between the office holder and the person or authority which is to carry out the procedure and the appointment of a panel or other body to adjudicate on issues concerning the officer holder’s capability;
+- (c) the identity of the person or authority who or which is to carry out the procedure;
+- (d) any action which may be taken following the completion of the procedure; and
+- (e) the office holder’s rights of appeal against the decision to take any action against the office holder.
+
+(3) Any inquiry instituted under paragraph (1) above shall be conducted in accordance with a Code of Practice issued under section 8 of the Measure.
+
+(4) Any Code of Practice issued under paragraph (3) above may provide for different procedures for different circumstances and may make provision for any other matters which the Archbishops’ Council considers appropriate.
+
+(5) When issuing any Code of Practice under paragraph (3) above the Archbishops’ Council shall endeavour to ensure that an office holder who is the subject of the capability procedures under this regulation is placed in a position which is no less favourable than that in which an employee would be placed under a Code of Practice issued under Chapter III of Part IV of the Trade Union and Labour Relations (Consolidation) Act 1992[^f00019].
+
+### Grievance procedures
+
+#### 32. Archbishops’ Council to issue Codes of Practice concerning grievance procedures[^key-31b794ddb92471ef6bb4ca93124be78f]
+
+(1) The Archbishops’ Council shall issue a Code of Practice under section 8 of the Measure containing procedures for enabling an office holder to seek redress for grievances.
+
+(2) Any Code of Practice issued under paragraph (1) above shall make provision for—
+
+- (a) the office holder to state his or her grievance in writing;
+- (b) informing the office holder of the person or authority to whom or to which the office holder is to address the grievance;
+- (c) informing the office holder of the procedures to be followed in discussing the grievance and for taking any action to redress it, including the opportunity for a meeting between the office holder and the person or authority to whom or to which the grievance is to be addressed;
+- (d) rights of appeal against the decision relating to the grievance and informing the office holder of such rights; and
+- (e) informing the office holder of any action which may be taken following the completion of the procedure.
+
+(3) Any Code of Practice issued under paragraph (1) above may provide for different procedures for different circumstances and may make provision for any other matters which the Archbishops’ Council considers appropriate.
+
+(4) When issuing a Code of Practice under paragraph (1) above the Archbishops’ Council shall endeavour to ensure that an office holder who seeks redress under this regulation is placed in a position which is no less favourable than that in which an employee would be placed under a Code of Practice issued under Chapter III of Part IV of the Trade Union and Labour Relations (Consolidation) Act 1992 [^f00020].
+
+## PART VIII — UNFAIR DISMISSAL
+
+### Rights on unfair dismissal
+
+#### 33. Right to apply to employment tribunal[^key-021559cd62fcccc9e63ff475b1c8e8f2]
+
+(1) Where the appointment of an office holder has been terminated by notice given under section 3(6) of the Measure following adjudication under procedures carried out under regulation 31 above, the office holder shall have the right not to be unfairly dismissed.
+
+(2) Subject to paragraph (3) and (4) below Part X of the Employment Rights Act 1996[^f00021] (in this regulation referred to as “the 1996 Act”) shall apply in relation to an office holder who is dismissed in the circumstances described in paragraph (1) above as it applies to an employee who is dismissed for a reason relating to the capability of the employee in accordance with section 98(2) of the 1996 Act and as if in that Act—
+
+- (a) any reference to an employee were a reference to the office holder;
+- (b) except in the case of a person holding office in a cathedral, any reference to an employer were a reference to the Diocesan Board of Finance for the diocese in which, on the date on which the office was terminated, the office holder exercised his or her[^key-1def9a03535444c5cf0c06c87bb50f0c] office;
+- (c) in the case of a person holding office in a cathedral, any reference to an employer were a reference to the Chapter of the cathedral; and
+- (d) any reference to employment were a reference to the holding of an office;
+
+and as if the office holder had been dismissed by that Diocesan Board of Finance or that Chapter, as the case may be, and the reason or principal reason stated in the notice referred to in paragraph (1) above were the reason or principal reason for the dismissal.
+
+(3) Section 108 of the 1996 Act shall not apply in relation to an office holder who has the right not to be unfairly dismissed under this regulation and for the purposes of Part X of that Act the office holder shall be treated as if the period of continuous holding of the office were the period beginning with the date on which the office holder was appointed and ending with the date of the notice referred to in paragraph (1) above.
+
+(4) This regulation shall not apply to any office holder who has attained the retirement age specified in relation to the office holder’s office in section 1 of the Ecclesiastical Offices (Age Limit) Measure 1975[^f00022]
+
+David Williams
+
+Clerk to the Synod
+
+Church House, London
+
+THE COMMON SEAL of the Archbishops’ Council was hereunto affixed on 29<sup>th</sup> July 2009
+
+D P White
+
+K Norris
+
+Church House, London
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations make provision for the terms of service of the holders of ecclesiastical office who, under the Ecclesiastical Offices (Terms of Service) Measure 2009 are subject to Common Tenure. They confer rights on office holders which, in many respects, are comparable to those enjoyed by employees.
+
+Part II of the Regulations confers entitlements on office holders to be given particulars of the terms of their appointment and information about disciplinary, capability and grievance procedures. Provision is made for access to employment tribunals where these requirements are not complied with.
+
+Part III confers on a full-time stipendiary office holder a right to be paid a stipend of not less than the National Minimum Stipend and sets out the rights and obligations of office holders and the authorities which provide them with accommodation. The office holder is given the right to object to certain transactions proposed to be carried out in relation to a house of residence occupied by the office holder and provision is made for the resolution of disputes.
+
+Part IV makes provision for the ministerial development review, education and training of office holders. Part V confers entitlements to time off work for maternity, paternity, parental and adoption leave and to time spent on the performance of public duties and makes provision for sickness. Directions under regulation 23 (entitlement to maternity, paternity, parental and adoption leave) must approved in draft by the General Synod and be laid before Parliament and be subject to annulment in pursuance of a resolution of either House.
+
+Part VI relates to fixed and limited term appointments and makes provision for the compensation of office holders whose office is potentially affected by pastoral reorganisation schemes or orders under the Pastoral Measure 1983.
+
+Part VII provides for procedures for assessing the capability of an office holder to perform his or her duties and for enabling office holders to seek redress for grievances in accordance with Codes of Practice issued by the Archbishops’ Council under section 8 of the Measure. Part VIII confers a right on an office holder who has not reached the retirement age not to be unfairly dismissed where his or her appointment has been terminated following the application of the capability procedures. Part X of the Employment Rights Act 1996 is applied, with modifications, so as to enable an office holder to have a claim for unfair dismissal heard by an employment tribunal.
+
+Directions under regulation 23 (entitlement to maternity, paternity, parental and adoption leave) must be approved in draft by the General Synod and be laid before Parliament and be subject to annulment in pursuance of a resolution of either House.
+
+## Annotations
+
+[^f00001]: Footnote: [2009 No.1](https://www.legislation.gov.uk/ukcm/2009/1).
+
+[^key-e9665fcedf49b10bbbbfd9ae1a9e84cf]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2009/2108/regulation/1) in force at 1.1.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/2108/regulation/1)
+
+[^key-1aa889459551ea73f464fa5668f86d6f]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2009/2108/regulation/2) in force at 1.1.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/2108/regulation/1)
+
+[^key-5312e896a4ae7fe39f2b68ab1200ac2b]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2009/2108/regulation/2/1) inserted (coming into force in accordance with s. 22(3) of the amending Measure) by [Church of England (Miscellaneous Provisions) Measure 2024 (No. 1)](https://www.legislation.gov.uk/ukcm/2024/1), [Sch. 1 para. 8](https://www.legislation.gov.uk/ukcm/2024/1/schedule/1/paragraph/8) (with [s. 7(5)](https://www.legislation.gov.uk/ukcm/2024/1/section/7/5))
+
+[^key-5c31a7f21d4f65d5c010491049ef8619]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/2009/2108/regulation/2/2) inserted (31.1.2011) by [The Ecclesiastical Offices (Terms of Service) (Amendment) (No.2) Regulations 2010 (S.I. 2010/2848)](https://www.legislation.gov.uk/uksi/2010/2848), [regs. 1](https://www.legislation.gov.uk/uksi/2010/2848/regulation/1), [2(a)](https://www.legislation.gov.uk/uksi/2010/2848/regulation/2/a)
+
+[^key-70c8fed884289e5c3d50ceb9b864aa99]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/2009/2108/regulation/2/2) substituted (25.1.2024) by [Church of England (Miscellaneous Provisions) Measure 2024 (No. 1)](https://www.legislation.gov.uk/ukcm/2024/1), [ss. 5(2)](https://www.legislation.gov.uk/ukcm/2024/1/section/5/2), [22(2)(d)](https://www.legislation.gov.uk/ukcm/2024/1/section/22/2/d) (with [s. 5(6)](https://www.legislation.gov.uk/ukcm/2024/1/section/5/6))
+
+[^key-cca19eec3e563220e48d61a5a01eeefe]: Textual amendment: [Reg. 2(3)](https://www.legislation.gov.uk/uksi/2009/2108/regulation/2/3) added (31.1.2011) by [The Ecclesiastical Offices (Terms of Service) (Amendment) (No.2) Regulations 2010 (S.I. 2010/2848)](https://www.legislation.gov.uk/uksi/2010/2848), [regs. 1](https://www.legislation.gov.uk/uksi/2010/2848/regulation/1), [2(b)](https://www.legislation.gov.uk/uksi/2010/2848/regulation/2/b)
+
+[^key-b438f5ad6a349662eaa93675ed6566dc]: Textual amendment: [Reg. 2(3A)](https://www.legislation.gov.uk/uksi/2009/2108/regulation/2/3A) inserted (25.1.2024) by [Church of England (Miscellaneous Provisions) Measure 2024 (No. 1)](https://www.legislation.gov.uk/ukcm/2024/1), [ss. 5(1)](https://www.legislation.gov.uk/ukcm/2024/1/section/5/1), [22(2)(d)](https://www.legislation.gov.uk/ukcm/2024/1/section/22/2/d) (with [s. 5(6)](https://www.legislation.gov.uk/ukcm/2024/1/section/5/6))
+
+[^key-803f485a8e78f46d301f3e6305cf9348]: Textual amendment: [Reg. 2(4)](https://www.legislation.gov.uk/uksi/2009/2108/regulation/2/4) inserted (coming into force in accordance with reg. 1(3) of the amending S.I.) by [The Ecclesiastical Offices (Terms of Service) (Amendment) Regulations 2021 (S.I. 2021/840)](https://www.legislation.gov.uk/uksi/2021/840), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2021/840/regulation/2/1)
+
+[^key-fe68fc857cd91a8a23e17810f734238d]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2009/2108/regulation/3) in force at 1.1.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/2108/regulation/1)
+
+[^key-c2652bbd3e6d2425172595c48fcb1b39]: Textual amendment: Words in [reg. 3(5)(g)(iv)](https://www.legislation.gov.uk/uksi/2009/2108/regulation/3/5/g/iv) substituted (18.12.2020) by [The Ecclesiastical Offices (Terms of Service) (Amendment) Regulations 2020 (S.I. 2020/1543)](https://www.legislation.gov.uk/uksi/2020/1543), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1543/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2020/1543/regulation/2/3)
+
+[^key-125880eeaed3e9d3e442b6290e2aac86]: Textual amendment: Words in [reg. 3(5)(g)(iv)](https://www.legislation.gov.uk/uksi/2009/2108/regulation/3/5/g/iv) inserted (1.1.2011) by [The Ecclesiastical Offices (Terms of Service) (Amendment) Regulations 2010 (S.I. 2010/2407)](https://www.legislation.gov.uk/uksi/2010/2407), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/2407/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2010/2407/regulation/2)
+
+[^key-537843a142352e88fff6bd76886d1084]: Textual amendment: [Reg. 3(6)](https://www.legislation.gov.uk/uksi/2009/2108/regulation/3/6)[(7)](https://www.legislation.gov.uk/uksi/2009/2108/regulation/3/7) inserted (25.1.2024) by [Church of England (Miscellaneous Provisions) Measure 2024 (No. 1)](https://www.legislation.gov.uk/ukcm/2024/1), [ss. 5(3)](https://www.legislation.gov.uk/ukcm/2024/1/section/5/3), [22(2)(d)](https://www.legislation.gov.uk/ukcm/2024/1/section/22/2/d) (with [s. 5(6)](https://www.legislation.gov.uk/ukcm/2024/1/section/5/6))
+
+[^key-f1289c0b255a355f7bfb7979194b3b98]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2009/2108/regulation/4) in force at 1.1.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/2108/regulation/1)
+
+[^key-cb8d42b714c272842dccb8fa05a461aa]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2009/2108/regulation/5) in force at 1.1.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/2108/regulation/1)
+
+[^f00002]: Footnote: [1963 No.1](https://www.legislation.gov.uk/ukcm/1963/1).
+
+[^f00003]: Footnote: [2003 No.3](https://www.legislation.gov.uk/ukcm/2003/3).
+
+[^key-1144f1fdfe68ac2539789ba373f94796]: Textual amendment: [Reg. 5(3)](https://www.legislation.gov.uk/uksi/2009/2108/regulation/5/3) omitted (1.3.2019) by virtue of [Church of England (Miscellaneous Provisions) Measure 2018 (No. 7)](https://www.legislation.gov.uk/ukcm/2018/7), [ss. 6(9)](https://www.legislation.gov.uk/ukcm/2018/7/section/6/9), [17(3)](https://www.legislation.gov.uk/ukcm/2018/7/section/17/3); [S.I. 2019/67](https://www.legislation.gov.uk/uksi/2019/67), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2019/67/article/2/1/e)
+
+[^key-4a77871d23751e6ed1867a233ca04abb]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2009/2108/regulation/6) in force at 1.1.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/2108/regulation/1)
+
+[^key-f4faac7abae3f21d7aba0566ed47e3bc]: Textual amendment: [Reg. 6(2A)](https://www.legislation.gov.uk/uksi/2009/2108/regulation/6/2A) inserted (coming into force in accordance with reg. 1(3) of the amending S.I.) by [The Ecclesiastical Offices (Terms of Service) (Amendment) Regulations 2021 (S.I. 2021/840)](https://www.legislation.gov.uk/uksi/2021/840), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2021/840/regulation/2/2)
+
+[^key-a376b4d87e1c598f1b75de7dddf7174e]: Textual amendment: Words in [reg. 6(3)](https://www.legislation.gov.uk/uksi/2009/2108/regulation/6/3) inserted (coming into force in accordance with reg. 1(3) of the amending S.I.) by [The Ecclesiastical Offices (Terms of Service) (Amendment) Regulations 2021 (S.I. 2021/840)](https://www.legislation.gov.uk/uksi/2021/840), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2021/840/regulation/2/3)
+
+[^key-433ecfd7ba7e90f5e889a5f4a69d56d0]: Textual amendment: Words in [reg. 6(4)](https://www.legislation.gov.uk/uksi/2009/2108/regulation/6/4) inserted (coming into force in accordance with reg. 1(3) of the amending S.I.) by [The Ecclesiastical Offices (Terms of Service) (Amendment) Regulations 2021 (S.I. 2021/840)](https://www.legislation.gov.uk/uksi/2021/840), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2021/840/regulation/2/3)
+
+[^key-b98029c067cad504305f73a967842c79]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2009/2108/regulation/7) in force at 1.1.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/2108/regulation/1)
+
+[^key-8452c78df6800eb03d0a34e4265e3dc0]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2009/2108/regulation/8) in force at 1.1.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/2108/regulation/1)
+
+[^key-b8152cc948f66be761ac172598971a97]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2009/2108/regulation/9) in force at 1.1.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/2108/regulation/1)
+
+[^f00005]: Footnote: [1993 c. 48](https://www.legislation.gov.uk/ukpga/1993/48).
+
+[^key-75daaa4e22fe194725af7d5cfc56dc3d]: Textual amendment: [Reg. 9(5)](https://www.legislation.gov.uk/uksi/2009/2108/regulation/9/5) inserted (6.4.2014) by [The Employment Tribunals Act 1996 (Application of Conciliation Provisions) Order 2014 (S.I. 2014/431)](https://www.legislation.gov.uk/uksi/2014/431), [art. 1](https://www.legislation.gov.uk/uksi/2014/431/article/1), [Sch. para. 36](https://www.legislation.gov.uk/uksi/2014/431/schedule/paragraph/36)
+
+[^key-5bbe188da7596d7f0b93e8a7178e8af4]: Textual amendment: [Reg. 9A](https://www.legislation.gov.uk/uksi/2009/2108/regulation/9A) inserted (6.4.2014) by [The Employment Tribunals Act 1996 (Application of Conciliation Provisions) Order 2014 (S.I. 2014/431)](https://www.legislation.gov.uk/uksi/2014/431), [art. 1](https://www.legislation.gov.uk/uksi/2014/431/article/1), [Sch. para. 37](https://www.legislation.gov.uk/uksi/2014/431/schedule/paragraph/37)
+
+[^key-9adad1bff5b07710ab939823520bf56a]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2009/2108/regulation/10) in force at 1.1.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/2108/regulation/1)
+
+[^key-6e3f53174c7f611a8e5c89f9a5e21bf2]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2009/2108/regulation/11) in force at 1.1.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/2108/regulation/1)
+
+[^key-798d55482de06303110cafeb3935416d]: Textual amendment: [Reg. 11(1A)](https://www.legislation.gov.uk/uksi/2009/2108/regulation/11/1A) inserted (28.7.2021) by [The Ecclesiastical Offices (Terms of Service) (Amendment) Regulations 2021 (S.I. 2021/840)](https://www.legislation.gov.uk/uksi/2021/840), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/840/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2021/840/regulation/9)
+
+[^f00006]: Footnote: 1 & 2 Eliz.2 No.2.
+
+[^key-2257dc5f90fff94e29ec491ac06fc397]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2009/2108/regulation/12) in force at 1.1.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/2108/regulation/1)
+
+[^f00007]: Footnote: [1990 c.9](https://www.legislation.gov.uk/ukpga/1990/9).
+
+[^key-2e7d5a7d35409c2984875ec0354bdf35]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2009/2108/regulation/13) in force at 1.1.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/2108/regulation/1)
+
+[^key-d85099dce24f7996e2c12a9bdf6e12f1]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2009/2108/regulation/14) in force at 1.1.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/2108/regulation/1)
+
+[^key-7c5cfa452095e2f0bb7e24a7b7c11de7]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2009/2108/regulation/15) in force at 1.1.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/2108/regulation/1)
+
+[^key-7f180cf63c5d541c84f7d9bfc3409009]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2009/2108/regulation/16) in force at 1.1.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/2108/regulation/1)
+
+[^f00008]: Footnote: [10 & 11 Geo. 6 No.2](https://www.legislation.gov.uk/ukcm/1947/2).
+
+[^key-5ddcc489ee11f9e6b02544ffbe27bda0]: Textual amendment: Words in [reg. 16(6)](https://www.legislation.gov.uk/uksi/2009/2108/regulation/16/6) substituted (1.1.2011) by [The Ecclesiastical Offices (Terms of Service) (Amendment) Regulations 2010 (S.I. 2010/2407)](https://www.legislation.gov.uk/uksi/2010/2407), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/2407/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2010/2407/regulation/3)
+
+[^key-f4b5a74c3c0df663b752fc4594eceb5d]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2009/2108/regulation/17) in force at 1.1.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/2108/regulation/1)
+
+[^key-c97cb766ccce41fdb79004115bd1895d]: Textual amendment: Words in [reg. 18 cross-heading](https://www.legislation.gov.uk/uksi/2009/2108/part/IV/crossheading/ministerial-development-review-and-continuing-ministerial-education) substituted (25.1.2024) by [Church of England (Miscellaneous Provisions) Measure 2024 (No. 1)](https://www.legislation.gov.uk/ukcm/2024/1), [ss. 5(5)](https://www.legislation.gov.uk/ukcm/2024/1/section/5/5), [22(2)(d)](https://www.legislation.gov.uk/ukcm/2024/1/section/22/2/d) (with [s. 5(6)](https://www.legislation.gov.uk/ukcm/2024/1/section/5/6))
+
+[^key-9d713e66420a34d54803c68d07cb3f2d]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2009/2108/regulation/18) in force at 1.1.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/2108/regulation/1)
+
+[^key-3d93daced9411460bc0b87a26c1a29a4]: Textual amendment: Words in [reg. 18(1)](https://www.legislation.gov.uk/uksi/2009/2108/regulation/18/1) substituted (28.7.2021) by [The Ecclesiastical Offices (Terms of Service) (Amendment) Regulations 2021 (S.I. 2021/840)](https://www.legislation.gov.uk/uksi/2021/840), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/840/regulation/1/2), [10(2)](https://www.legislation.gov.uk/uksi/2021/840/regulation/10/2)
+
+[^key-9577734af77edf26ab175b90126aa12f]: Textual amendment: Words in [reg. 18(2)](https://www.legislation.gov.uk/uksi/2009/2108/regulation/18/2) substituted (28.7.2021) by [The Ecclesiastical Offices (Terms of Service) (Amendment) Regulations 2021 (S.I. 2021/840)](https://www.legislation.gov.uk/uksi/2021/840), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/840/regulation/1/2), [10(3)](https://www.legislation.gov.uk/uksi/2021/840/regulation/10/3)
+
+[^key-bb333af52830848801d7d9246634d197]: Textual amendment: Word in [reg. 18(4)](https://www.legislation.gov.uk/uksi/2009/2108/regulation/18/4) omitted (28.7.2021) by virtue of [The Ecclesiastical Offices (Terms of Service) (Amendment) Regulations 2021 (S.I. 2021/840)](https://www.legislation.gov.uk/uksi/2021/840), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/840/regulation/1/2), [10(4)](https://www.legislation.gov.uk/uksi/2021/840/regulation/10/4)
+
+[^key-86f41819f686bddf5d023c783035842e]: Textual amendment: Words in [reg. 18(4)](https://www.legislation.gov.uk/uksi/2009/2108/regulation/18/4) inserted (coming into force in accordance with reg. 1(3) of the amending S.I.) by [The Ecclesiastical Offices (Terms of Service) (Amendment) Regulations 2021 (S.I. 2021/840)](https://www.legislation.gov.uk/uksi/2021/840), [reg. 3(2)](https://www.legislation.gov.uk/uksi/2021/840/regulation/3/2)
+
+[^key-718b6ec5e6035869a92bf48ff7bb07f2]: Textual amendment: [Reg. 18A](https://www.legislation.gov.uk/uksi/2009/2108/regulation/18A) inserted (coming into force in accordance with reg. 1(3) of the amending S.I.) by [The Ecclesiastical Offices (Terms of Service) (Amendment) Regulations 2021 (S.I. 2021/840)](https://www.legislation.gov.uk/uksi/2021/840), [reg. 3(1)](https://www.legislation.gov.uk/uksi/2021/840/regulation/3/1)
+
+[^key-66a9c811e6086ddac0b29daf659295c7]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2009/2108/regulation/19) in force at 1.1.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/2108/regulation/1)
+
+[^key-07b16a7957c1fed390d7e243a0b4b33b]: Textual amendment: Words in [reg. 19 heading](https://www.legislation.gov.uk/uksi/2009/2108/part/IV/crossheading/ministerial-development-review-and-continuing-ministerial-education) substituted (25.1.2024) by [Church of England (Miscellaneous Provisions) Measure 2024 (No. 1)](https://www.legislation.gov.uk/ukcm/2024/1), [ss. 5(4)](https://www.legislation.gov.uk/ukcm/2024/1/section/5/4), [22(2)(d)](https://www.legislation.gov.uk/ukcm/2024/1/section/22/2/d) (with [s. 5(6)](https://www.legislation.gov.uk/ukcm/2024/1/section/5/6))
+
+[^key-b3e0382e48cb2ee5ce4405d129f7bbba]: Textual amendment: Words in [reg. 19(1)](https://www.legislation.gov.uk/uksi/2009/2108/regulation/19/1) substituted (25.1.2024) by [Church of England (Miscellaneous Provisions) Measure 2024 (No. 1)](https://www.legislation.gov.uk/ukcm/2024/1), [ss. 5(4)](https://www.legislation.gov.uk/ukcm/2024/1/section/5/4), [22(2)(d)](https://www.legislation.gov.uk/ukcm/2024/1/section/22/2/d) (with [s. 5(6)](https://www.legislation.gov.uk/ukcm/2024/1/section/5/6))
+
+[^key-2a14870c5e2c3e7d258cca42ed0d137f]: Textual amendment: Word in [reg. 19(2)](https://www.legislation.gov.uk/uksi/2009/2108/regulation/19/2) omitted (28.7.2021) by virtue of [The Ecclesiastical Offices (Terms of Service) (Amendment) Regulations 2021 (S.I. 2021/840)](https://www.legislation.gov.uk/uksi/2021/840), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/840/regulation/1/2), [10(4)](https://www.legislation.gov.uk/uksi/2021/840/regulation/10/4)
+
+[^key-aed0f2b5dafff47e5070b79dfdaa6b1b]: Textual amendment: Words in [reg. 19(3)](https://www.legislation.gov.uk/uksi/2009/2108/regulation/19/3) inserted (28.7.2021) by [The Ecclesiastical Offices (Terms of Service) (Amendment) Regulations 2021 (S.I. 2021/840)](https://www.legislation.gov.uk/uksi/2021/840), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/840/regulation/1/2), [10(5)](https://www.legislation.gov.uk/uksi/2021/840/regulation/10/5)
+
+[^key-d76d7a66513d66af18f356e9efe59c90]: Textual amendment: Words in [reg. 19(3)](https://www.legislation.gov.uk/uksi/2009/2108/regulation/19/3) inserted (28.7.2021) by [The Ecclesiastical Offices (Terms of Service) (Amendment) Regulations 2021 (S.I. 2021/840)](https://www.legislation.gov.uk/uksi/2021/840), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/840/regulation/1/2), [10(6)](https://www.legislation.gov.uk/uksi/2021/840/regulation/10/6)
+
+[^key-242229036b7eb1b9ea119ad04d02bce0]: Textual amendment: Words in [reg. 19(3)](https://www.legislation.gov.uk/uksi/2009/2108/regulation/19/3) substituted (25.1.2024) by [Church of England (Miscellaneous Provisions) Measure 2024 (No. 1)](https://www.legislation.gov.uk/ukcm/2024/1), [ss. 5(4)](https://www.legislation.gov.uk/ukcm/2024/1/section/5/4), [22(2)(d)](https://www.legislation.gov.uk/ukcm/2024/1/section/22/2/d) (with [s. 5(6)](https://www.legislation.gov.uk/ukcm/2024/1/section/5/6))
+
+[^key-03e519a15fe07e0b572cf106bbd31dd9]: Textual amendment: [Reg. 19(5)](https://www.legislation.gov.uk/uksi/2009/2108/regulation/19/5)[(6)](https://www.legislation.gov.uk/uksi/2009/2108/regulation/19/6) inserted (coming into force in accordance with reg. 1(3) of the amending S.I.) by [The Ecclesiastical Offices (Terms of Service) (Amendment) Regulations 2021 (S.I. 2021/840)](https://www.legislation.gov.uk/uksi/2021/840), [reg. 4](https://www.legislation.gov.uk/uksi/2021/840/regulation/4)
+
+[^key-0f78caa15ed22674c061719162cbc241]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2009/2108/regulation/20) in force at 1.1.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/2108/regulation/1)
+
+[^key-b0205b8c0ad30adb7887d4acbb3e195a]: Textual amendment: [Reg. 20(1A)](https://www.legislation.gov.uk/uksi/2009/2108/regulation/20/1A) inserted (1.11.2015) by [The Ecclesiastical Offices (Terms of Service) (Amendment) Regulations 2015 (S.I. 2015/1654)](https://www.legislation.gov.uk/uksi/2015/1654), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1654/regulation/1), [4(4)](https://www.legislation.gov.uk/uksi/2015/1654/regulation/4/4)
+
+[^key-9733696dc65a413fc850d2a0a8b4d377]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2009/2108/regulation/21) in force at 1.1.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/2108/regulation/1)
+
+[^key-351619322c4aac16253c34c8d123604f]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2009/2108/regulation/22) in force at 1.1.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/2108/regulation/1)
+
+[^key-245e11c1883289c18fc23e00302e0c10]: Textual amendment: Words in [reg. 22(5)](https://www.legislation.gov.uk/uksi/2009/2108/regulation/22/5) inserted (coming into force in accordance with reg. 1(3) of the amending S.I.) by [The Ecclesiastical Offices (Terms of Service) (Amendment) Regulations 2021 (S.I. 2021/840)](https://www.legislation.gov.uk/uksi/2021/840), [reg. 5(1)](https://www.legislation.gov.uk/uksi/2021/840/regulation/5/1)
+
+[^key-9ee63bd12989b9a11f2041d3ce2978a5]: Textual amendment: [Reg. 22A](https://www.legislation.gov.uk/uksi/2009/2108/regulation/22A) inserted (coming into force in accordance with reg. 1(3) of the amending S.I.) by [The Ecclesiastical Offices (Terms of Service) (Amendment) Regulations 2021 (S.I. 2021/840)](https://www.legislation.gov.uk/uksi/2021/840), [reg. 5(2)](https://www.legislation.gov.uk/uksi/2021/840/regulation/5/2)
+
+[^key-ba3708a6f88808e06ff1ccd6d5d6a338]: Textual amendment: [Reg. 23](https://www.legislation.gov.uk/uksi/2009/2108/regulation/23) substituted (1.3.2019) by [Church of England (Miscellaneous Provisions) Measure 2018 (No. 7)](https://www.legislation.gov.uk/ukcm/2018/7), [ss. 6(10)](https://www.legislation.gov.uk/ukcm/2018/7/section/6/10), [17(3)](https://www.legislation.gov.uk/ukcm/2018/7/section/17/3) (with [s. 6(13)](https://www.legislation.gov.uk/ukcm/2018/7/section/6/13)[(14)](https://www.legislation.gov.uk/ukcm/2018/7/section/6/14)); [S.I. 2019/67](https://www.legislation.gov.uk/uksi/2019/67), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2019/67/article/2/1/e)
+
+[^key-1f88cc756a1ef3780af27307b11bb3c8]: Textual amendment: Words in [reg. 23(1)](https://www.legislation.gov.uk/uksi/2009/2108/regulation/23/1) substituted (18.12.2020) by [The Ecclesiastical Offices (Terms of Service) (Amendment) Regulations 2020 (S.I. 2020/1543)](https://www.legislation.gov.uk/uksi/2020/1543), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1543/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2020/1543/regulation/2/1)
+
+[^key-61c0cba8fcef725ff9b682be3dd1da83]: Textual amendment: Words in [reg. 23(7)](https://www.legislation.gov.uk/uksi/2009/2108/regulation/23/7) inserted (18.12.2020) by [The Ecclesiastical Offices (Terms of Service) (Amendment) Regulations 2020 (S.I. 2020/1543)](https://www.legislation.gov.uk/uksi/2020/1543), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1543/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2020/1543/regulation/2/2)
+
+[^key-19eb49f9c056dc2313b2a77f0f227513]: Commencement: [Reg. 24](https://www.legislation.gov.uk/uksi/2009/2108/regulation/24) in force at 1.1.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/2108/regulation/1)
+
+[^key-fbbd6a3a69e32f797832f5f1baa1355e]: Textual amendment: Words in [reg. 24(3)](https://www.legislation.gov.uk/uksi/2009/2108/regulation/24/3) inserted (coming into force in accordance with reg. 1(3) of the amending S.I.) by [The Ecclesiastical Offices (Terms of Service) (Amendment) Regulations 2021 (S.I. 2021/840)](https://www.legislation.gov.uk/uksi/2021/840), [reg. 6](https://www.legislation.gov.uk/uksi/2021/840/regulation/6)
+
+[^f00011]: Footnote: [2006 c.50](https://www.legislation.gov.uk/ukpga/2006/50).
+
+[^key-57850b1074d9ee6447b8dc6aacf9140e]: Commencement: [Reg. 25](https://www.legislation.gov.uk/uksi/2009/2108/regulation/25) in force at 1.1.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/2108/regulation/1)
+
+[^key-7b7542989d48f0b98d5c85d719e9214c]: Commencement: [Reg. 26](https://www.legislation.gov.uk/uksi/2009/2108/regulation/26) in force at 1.1.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/2108/regulation/1)
+
+[^key-d993c3cb7184770641f2502f88feb0f0]: Commencement: [Reg. 27](https://www.legislation.gov.uk/uksi/2009/2108/regulation/27) in force at 1.1.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/2108/regulation/1)
+
+[^key-5dcf06e2688bf3eda98fdf7b35bfa680]: Textual amendment: Words in [reg. 27(1)](https://www.legislation.gov.uk/uksi/2009/2108/regulation/27/1) substituted (1.1.2011) by [The Ecclesiastical Offices (Terms of Service) (Amendment) Regulations 2010 (S.I. 2010/2407)](https://www.legislation.gov.uk/uksi/2010/2407), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/2407/regulation/1/1), [4(a)](https://www.legislation.gov.uk/uksi/2010/2407/regulation/4/a)
+
+[^key-23c7b8f932c89a28ca49fe7fa39c369f]: Textual amendment: [Reg. 27(1A)](https://www.legislation.gov.uk/uksi/2009/2108/regulation/27/1A) inserted (1.1.2011) by [The Ecclesiastical Offices (Terms of Service) (Amendment) Regulations 2010 (S.I. 2010/2407)](https://www.legislation.gov.uk/uksi/2010/2407), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/2407/regulation/1/1), [4(b)](https://www.legislation.gov.uk/uksi/2010/2407/regulation/4/b)
+
+[^key-c188a62878dbef1ee4eee184faaf681f]: Textual amendment: Words in [reg. 27(2)](https://www.legislation.gov.uk/uksi/2009/2108/regulation/27/2) inserted (1.11.2015) by [The Ecclesiastical Offices (Terms of Service) (Amendment) Regulations 2015 (S.I. 2015/1654)](https://www.legislation.gov.uk/uksi/2015/1654), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1654/regulation/1), [2](https://www.legislation.gov.uk/uksi/2015/1654/regulation/2)
+
+[^key-f0ecc63920b6826e069e02f68b525485]: Textual amendment: [Reg. 27(2A)](https://www.legislation.gov.uk/uksi/2009/2108/regulation/27/2A) inserted (coming into force in accordance with reg. 1(3) of the amending S.I.) by [The Ecclesiastical Offices (Terms of Service) (Amendment) Regulations 2021 (S.I. 2021/840)](https://www.legislation.gov.uk/uksi/2021/840), [reg. 7(1)](https://www.legislation.gov.uk/uksi/2021/840/regulation/7/1)
+
+[^f00012]: Footnote: [1992 c.4](https://www.legislation.gov.uk/ukpga/1992/4)
+
+[^f00013]: Footnote: [1 & 2 Eliz. No.2](https://www.legislation.gov.uk/ukcm/1953/2)
+
+[^key-378f73f6093764238651ae0cbf51a7f8]: Commencement: [Reg. 28](https://www.legislation.gov.uk/uksi/2009/2108/regulation/28) in force at 1.1.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/2108/regulation/1)
+
+[^key-d02011e1d83e32c98138eb84cee7afd4]: Textual amendment: Words in [reg. 28(1)](https://www.legislation.gov.uk/uksi/2009/2108/regulation/28/1) inserted (28.7.2021) by [The Ecclesiastical Offices (Terms of Service) (Amendment) Regulations 2021 (S.I. 2021/840)](https://www.legislation.gov.uk/uksi/2021/840), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/840/regulation/1/2), [10(5)](https://www.legislation.gov.uk/uksi/2021/840/regulation/10/5)
+
+[^key-28bffb652843453fc06dd81aceccf28e]: Textual amendment: [Reg. 28(1A)](https://www.legislation.gov.uk/uksi/2009/2108/regulation/28/1A) inserted (1.1.2011) by [The Ecclesiastical Offices (Terms of Service) (Amendment) Regulations 2010 (S.I. 2010/2407)](https://www.legislation.gov.uk/uksi/2010/2407), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/2407/regulation/1/1), [5(a)](https://www.legislation.gov.uk/uksi/2010/2407/regulation/5/a)
+
+[^key-7885917ba391c5d9bc838d628444bce8]: Textual amendment: Words in [reg. 28(1A)](https://www.legislation.gov.uk/uksi/2009/2108/regulation/28/1A) inserted (28.7.2021) by [The Ecclesiastical Offices (Terms of Service) (Amendment) Regulations 2021 (S.I. 2021/840)](https://www.legislation.gov.uk/uksi/2021/840), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/840/regulation/1/2), [10(5)](https://www.legislation.gov.uk/uksi/2021/840/regulation/10/5)
+
+[^key-90d4d741a73facac7e864a856e9f8765]: Textual amendment: [Reg. 28(1B)](https://www.legislation.gov.uk/uksi/2009/2108/regulation/28/1B) inserted (coming into force in accordance with reg. 1(3) of the amending S.I.) by [The Ecclesiastical Offices (Terms of Service) (Amendment) Regulations 2021 (S.I. 2021/840)](https://www.legislation.gov.uk/uksi/2021/840), [reg. 7(2)](https://www.legislation.gov.uk/uksi/2021/840/regulation/7/2)
+
+[^key-97004ed1b38a3e360e6740cef0f1f6e8]: Textual amendment: Words in [reg. 28(2)](https://www.legislation.gov.uk/uksi/2009/2108/regulation/28/2) inserted (1.1.2011) by [The Ecclesiastical Offices (Terms of Service) (Amendment) Regulations 2010 (S.I. 2010/2407)](https://www.legislation.gov.uk/uksi/2010/2407), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/2407/regulation/1/1), [5(b)](https://www.legislation.gov.uk/uksi/2010/2407/regulation/5/b)
+
+[^key-313deb517ce31db6616bbda5c5c73f23]: Commencement: [Reg. 29](https://www.legislation.gov.uk/uksi/2009/2108/regulation/29) in force at 1.1.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/2108/regulation/1)
+
+[^key-aa8734f483682df7504222e206ffb178]: Textual amendment: [Reg. 29(1)(b)](https://www.legislation.gov.uk/uksi/2009/2108/regulation/29/1/b) omitted (1.7.2017) by virtue of [The Ecclesiastical Offices (Terms of Service) (Amendment) Regulations 2017 (S.I. 2017/316)](https://www.legislation.gov.uk/uksi/2017/316), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/316/regulation/1/2), [2(3)(a)](https://www.legislation.gov.uk/uksi/2017/316/regulation/2/3/a)
+
+[^key-9d26d99df8b90c17784301e459f478bd]: Textual amendment: Words in [reg. 29(1)(f)](https://www.legislation.gov.uk/uksi/2009/2108/regulation/29/1/f) substituted (1.11.2015) by [The Ecclesiastical Offices (Terms of Service) (Amendment) Regulations 2015 (S.I. 2015/1654)](https://www.legislation.gov.uk/uksi/2015/1654), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1654/regulation/1), [4(3)](https://www.legislation.gov.uk/uksi/2015/1654/regulation/4/3)
+
+[^key-d39b94d8bd914c3565caf0ac3f066c7e]: Textual amendment: Word in [reg. 29(1)](https://www.legislation.gov.uk/uksi/2009/2108/regulation/29/1) omitted (1.1.2011) by virtue of [The Ecclesiastical Offices (Terms of Service) (Amendment) Regulations 2010 (S.I. 2010/2407)](https://www.legislation.gov.uk/uksi/2010/2407), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/2407/regulation/1/1), [6(1)](https://www.legislation.gov.uk/uksi/2010/2407/regulation/6/1)
+
+[^key-829ec511f3af0b4691cc7b6af7610f96]: Textual amendment: [Reg. 29(1)(h)(i)](https://www.legislation.gov.uk/uksi/2009/2108/regulation/29/1/h/i) inserted (1.1.2011) by [The Ecclesiastical Offices (Terms of Service) (Amendment) Regulations 2010 (S.I. 2010/2407)](https://www.legislation.gov.uk/uksi/2010/2407), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/2407/regulation/1/1), [6(1)](https://www.legislation.gov.uk/uksi/2010/2407/regulation/6/1)
+
+[^key-01a253a6cc2ab28f6abe6e7cc9bda577]: Textual amendment: Word in [reg. 29(1)](https://www.legislation.gov.uk/uksi/2009/2108/regulation/29/1) omitted (1.11.2015) by virtue of [The Ecclesiastical Offices (Terms of Service) (Amendment) Regulations 2015 (S.I. 2015/1654)](https://www.legislation.gov.uk/uksi/2015/1654), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1654/regulation/1), [3(1)(a)](https://www.legislation.gov.uk/uksi/2015/1654/regulation/3/1/a)
+
+[^key-260c6838325195013be19ec1fb8db0fb]: Textual amendment: [Reg. 29(1)(j)](https://www.legislation.gov.uk/uksi/2009/2108/regulation/29/1/j) and word inserted (1.11.2015) by [The Ecclesiastical Offices (Terms of Service) (Amendment) Regulations 2015 (S.I. 2015/1654)](https://www.legislation.gov.uk/uksi/2015/1654), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1654/regulation/1), [3(1)(b)](https://www.legislation.gov.uk/uksi/2015/1654/regulation/3/1/b)
+
+[^key-416a797e2b9d35b72d2c9aa91a4cc2f1]: Textual amendment: Words in [reg. 29(1)](https://www.legislation.gov.uk/uksi/2009/2108/regulation/29/1) omitted (1.7.2017) by virtue of [The Ecclesiastical Offices (Terms of Service) (Amendment) Regulations 2017 (S.I. 2017/316)](https://www.legislation.gov.uk/uksi/2017/316), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/316/regulation/1/2), [2(3)(b)](https://www.legislation.gov.uk/uksi/2017/316/regulation/2/3/b)
+
+[^key-18e8482a8dcc7cc79229e15fd3dfb93e]: Textual amendment: [Reg. 29(3A)](https://www.legislation.gov.uk/uksi/2009/2108/regulation/29/3A) inserted (1.11.2015) by [The Ecclesiastical Offices (Terms of Service) (Amendment) Regulations 2015 (S.I. 2015/1654)](https://www.legislation.gov.uk/uksi/2015/1654), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1654/regulation/1), [4(1)](https://www.legislation.gov.uk/uksi/2015/1654/regulation/4/1)
+
+[^f00016]: Footnote: [1963 No.1](https://www.legislation.gov.uk/ukcm/1963/1).
+
+[^f00017]: Footnote: [2003 No.3](https://www.legislation.gov.uk/ukcm/2003/3).
+
+[^key-4be3b6847163ca5d2e6782b441d0b5bf]: Textual amendment: [Reg. 29(7A)](https://www.legislation.gov.uk/uksi/2009/2108/regulation/29/7A) inserted (1.1.2011) by [The Ecclesiastical Offices (Terms of Service) (Amendment) Regulations 2010 (S.I. 2010/2407)](https://www.legislation.gov.uk/uksi/2010/2407), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/2407/regulation/1/1), [6(2)](https://www.legislation.gov.uk/uksi/2010/2407/regulation/6/2)
+
+[^key-04486b097fb9426dddf6cea712b86cc2]: Textual amendment: [Reg. 29(7A)(a)](https://www.legislation.gov.uk/uksi/2009/2108/regulation/29/7A/a) substituted (1.11.2015) by [The Ecclesiastical Offices (Terms of Service) (Amendment) Regulations 2015 (S.I. 2015/1654)](https://www.legislation.gov.uk/uksi/2015/1654), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1654/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/2015/1654/regulation/4/2)
+
+[^key-47a09b6d4eda4b5793ce56f3cc5a3722]: Textual amendment: [Reg. 29(7B)-(7F)](https://www.legislation.gov.uk/uksi/2009/2108/regulation/29/7B) inserted (1.11.2015) by [The Ecclesiastical Offices (Terms of Service) (Amendment) Regulations 2015 (S.I. 2015/1654)](https://www.legislation.gov.uk/uksi/2015/1654), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1654/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2015/1654/regulation/3/2)
+
+[^key-4be2a20c25c5334ebdaccdf9848e300c]: Textual amendment: [Reg. 29A](https://www.legislation.gov.uk/uksi/2009/2108/regulation/29A) inserted (1.7.2017) by [The Ecclesiastical Offices (Terms of Service) (Amendment) Regulations 2017 (S.I. 2017/316)](https://www.legislation.gov.uk/uksi/2017/316), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/316/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2017/316/regulation/2/1) (with [reg. 2(2)](https://www.legislation.gov.uk/uksi/2017/316/regulation/2/2))
+
+[^key-9af4eab24c8deca436b3894c20d13a4e]: Textual amendment: [Reg. 29A(4A)](https://www.legislation.gov.uk/uksi/2009/2108/regulation/29A/4A) inserted (coming into force in accordance with reg. 1(3) of the amending S.I.) by [The Ecclesiastical Offices (Terms of Service) (Amendment) Regulations 2021 (S.I. 2021/840)](https://www.legislation.gov.uk/uksi/2021/840), [reg. 8](https://www.legislation.gov.uk/uksi/2021/840/regulation/8)
+
+[^key-b08c2f086c2b2b9792690b4493a334af]: Commencement: [Reg. 30](https://www.legislation.gov.uk/uksi/2009/2108/regulation/30) in force at 1.1.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/2108/regulation/1)
+
+[^key-bd91eaf74e103dd89f627a6ce339f1db]: Textual amendment: Words in [reg. 30(1)(a)](https://www.legislation.gov.uk/uksi/2009/2108/regulation/30/1/a) omitted (1.1.2011) by virtue of [The Ecclesiastical Offices (Terms of Service) (Amendment) Regulations 2010 (S.I. 2010/2407)](https://www.legislation.gov.uk/uksi/2010/2407), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/2407/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2010/2407/regulation/7)
+
+[^key-75f7895dc0ef7d2ffec87d8475b36877]: Textual amendment: Words in [reg. 30(1)(b)](https://www.legislation.gov.uk/uksi/2009/2108/regulation/30/1/b) substituted (30.11.2014) by [The Ecclesiastical Offices (Terms of Service) (Amendment) Regulations 2014 (S.I. 2014/2083)](https://www.legislation.gov.uk/uksi/2014/2083), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2083/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2014/2083/regulation/2/2)
+
+[^key-47c337756f3cd7e8da978e5964de39b4]: Textual amendment: [Reg. 30(2)](https://www.legislation.gov.uk/uksi/2009/2108/regulation/30/2)[(2A)](https://www.legislation.gov.uk/uksi/2009/2108/regulation/30/2A) substituted for [reg. 30(2)](https://www.legislation.gov.uk/uksi/2009/2108/regulation/30/2) (30.11.2014) by [The Ecclesiastical Offices (Terms of Service) (Amendment) Regulations 2014 (S.I. 2014/2083)](https://www.legislation.gov.uk/uksi/2014/2083), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2083/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2014/2083/regulation/2/3)
+
+[^key-0b8f46103094435f2619666f90faca8d]: Textual amendment: Words in [reg. 30(4)](https://www.legislation.gov.uk/uksi/2009/2108/regulation/30/4) substituted (30.11.2014) by [The Ecclesiastical Offices (Terms of Service) (Amendment) Regulations 2014 (S.I. 2014/2083)](https://www.legislation.gov.uk/uksi/2014/2083), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2083/regulation/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/2014/2083/regulation/2/4/a)
+
+[^key-218eb86939fbf80f9ee30a4e6e5f3f79]: Textual amendment: Words in [reg. 30(4)](https://www.legislation.gov.uk/uksi/2009/2108/regulation/30/4) substituted (30.11.2014) by [The Ecclesiastical Offices (Terms of Service) (Amendment) Regulations 2014 (S.I. 2014/2083)](https://www.legislation.gov.uk/uksi/2014/2083), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2083/regulation/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/2014/2083/regulation/2/4/b)
+
+[^key-e5b1e3c5625d70c2d8154584bfa53f2f]: Textual amendment: Words in [reg. 30(5)](https://www.legislation.gov.uk/uksi/2009/2108/regulation/30/5) substituted (30.11.2014) by [The Ecclesiastical Offices (Terms of Service) (Amendment) Regulations 2014 (S.I. 2014/2083)](https://www.legislation.gov.uk/uksi/2014/2083), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2083/regulation/1), [2(5)(a)](https://www.legislation.gov.uk/uksi/2014/2083/regulation/2/5/a)
+
+[^key-7e88cef8c5018be1bb22354b872da74d]: Textual amendment: Words in [reg. 30(5)](https://www.legislation.gov.uk/uksi/2009/2108/regulation/30/5) substituted (30.11.2014) by [The Ecclesiastical Offices (Terms of Service) (Amendment) Regulations 2014 (S.I. 2014/2083)](https://www.legislation.gov.uk/uksi/2014/2083), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2083/regulation/1), [2(5)(b)](https://www.legislation.gov.uk/uksi/2014/2083/regulation/2/5/b)
+
+[^key-b3357dac5ccb4fe04c9ae126932af76d]: Textual amendment: Words in [reg. 30(6)](https://www.legislation.gov.uk/uksi/2009/2108/regulation/30/6) substituted (30.11.2014) by [The Ecclesiastical Offices (Terms of Service) (Amendment) Regulations 2014 (S.I. 2014/2083)](https://www.legislation.gov.uk/uksi/2014/2083), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2083/regulation/1), [2(6)](https://www.legislation.gov.uk/uksi/2014/2083/regulation/2/6)
+
+[^key-9613e39b45e813de1dbaa2ebd16b9f77]: Commencement: [Reg. 31](https://www.legislation.gov.uk/uksi/2009/2108/regulation/31) in force at 1.1.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/2108/regulation/1)
+
+[^key-e96a0ee4120eecc49771f47429cb5567]: Textual amendment: Words in [reg. 31(1)](https://www.legislation.gov.uk/uksi/2009/2108/regulation/31/1) substituted (28.7.2021) by [The Ecclesiastical Offices (Terms of Service) (Amendment) Regulations 2021 (S.I. 2021/840)](https://www.legislation.gov.uk/uksi/2021/840), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/840/regulation/1/2), [10(7)](https://www.legislation.gov.uk/uksi/2021/840/regulation/10/7)
+
+[^key-a61c9993338d74bd53e5606d99c8b505]: Textual amendment: [Reg. 31(1A)](https://www.legislation.gov.uk/uksi/2009/2108/regulation/31/1A) inserted (1.1.2011) by [The Ecclesiastical Offices (Terms of Service) (Amendment) Regulations 2010 (S.I. 2010/2407)](https://www.legislation.gov.uk/uksi/2010/2407), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/2407/regulation/1/1), [8](https://www.legislation.gov.uk/uksi/2010/2407/regulation/8)
+
+[^f00019]: Footnote: [1992 c.52](https://www.legislation.gov.uk/ukpga/1992/52).
+
+[^key-31b794ddb92471ef6bb4ca93124be78f]: Commencement: [Reg. 32](https://www.legislation.gov.uk/uksi/2009/2108/regulation/32) in force at 1.1.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/2108/regulation/1)
+
+[^f00020]: Footnote: [1992c.52](https://www.legislation.gov.uk/ukpga/1992/52).
+
+[^key-021559cd62fcccc9e63ff475b1c8e8f2]: Commencement: [Reg. 33](https://www.legislation.gov.uk/uksi/2009/2108/regulation/33) in force at 1.1.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/2108/regulation/1)
+
+[^f00021]: Footnote: [1996 c.18](https://www.legislation.gov.uk/ukpga/1996/18).
+
+[^key-1def9a03535444c5cf0c06c87bb50f0c]: Textual amendment: Words in [reg. 33(2)(b)](https://www.legislation.gov.uk/uksi/2009/2108/regulation/33/2/b) inserted (28.7.2021) by [The Ecclesiastical Offices (Terms of Service) (Amendment) Regulations 2021 (S.I. 2021/840)](https://www.legislation.gov.uk/uksi/2021/840), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/840/regulation/1/2), [10(6)](https://www.legislation.gov.uk/uksi/2021/840/regulation/10/6)
+
+[^f00022]: Footnote: [1975 No.2](https://www.legislation.gov.uk/ukcm/1975/2).

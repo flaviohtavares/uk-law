@@ -1,0 +1,56 @@
+---
+title: Corporation Tax Act 2010, section 357KC
+act: Corporation Tax Act 2010
+section: 357KC
+status: revised-with-pending-changes
+text_date: '2026-03-18'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2010/4/section/357KC
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Corporation Tax Act 2010, section 357KC
+
+> **Warning: changes not yet applied to this text (16).** Text as at 2026-03-18. See https://www.legislation.gov.uk/changes/affected/ukpga/2010/4
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 357KC. “SME”[^key-daff5b22d7ee6f395950067d2a1daa9d]
+
+*Extent: E+W+S+N.I.*
+
+(1) A company is an “**SME**” in relation to an accounting period if the company is a micro, small or medium-sized enterprise as defined in the Annex—
+
+- (a) in that accounting period, or
+- (b) in each accounting period any part of which falls within the period of 12 months preceding that accounting period.
+
+(2) In this section “**the Annex**” means the Annex to Commission Recommendation No 2003/361/EC of 6 May 2003.
+
+(3) For the purposes of this Part the Annex has effect with the following modifications.
+
+(4) Where any enterprise is in liquidation or administration, the rights of the liquidator or administrator (in that capacity) are to be left out of account when applying Article 3(3)(b) in determining for the purposes of this Part whether—
+
+- (a) that enterprise, or
+- (b) any other enterprise (including that of the liquidator or administrator),
+
+is an SME.
+
+(5) Article 3 has effect as if paragraph 5 (declaration in good faith where control cannot be determined etc) were omitted.
+
+(6) In Article 4, the first sentence of paragraph 1 has effect as if the data to apply to—
+
+- (a) the headcount of staff, and
+- (b) the financial amounts,
+
+were the data relating to the accounting period or periods mentioned in subsection (1) above (instead of the period referred to in that sentence) and calculated on an annual basis.
+
+(7) Article 4 has effect as if the following provisions were omitted—
+
+- (a) in paragraph 1, the second sentence (data to be taken into account from date of closure of accounts);
+- (b) paragraph 2 (no change of status unless enterprise's change of size sustained over two consecutive periods);
+- (c) paragraph 3 (genuine estimate in case of newly established enterprise).
+
+## Annotations
+
+[^key-daff5b22d7ee6f395950067d2a1daa9d]: Textual amendment: Pt. 8B inserted (with effect in accordance with s. 5 of the amending Act) by [Corporation Tax (Northern Ireland) Act 2015 (c. 21)](https://www.legislation.gov.uk/ukpga/2015/21), [s. 1](https://www.legislation.gov.uk/ukpga/2015/21/section/1)

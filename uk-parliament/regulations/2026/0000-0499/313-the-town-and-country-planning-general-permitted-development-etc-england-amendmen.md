@@ -1,0 +1,185 @@
+---
+title: The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) Order 2026
+id: uksi/2026/313
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2026-03-17'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2026/313
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2026/313/pdfs/uksiem_20260313_en_001.pdf
+- http://www.legislation.gov.uk/uksi/2026/313/pdfs/uksi_20260313_en.pdf
+- http://www.legislation.gov.uk/uksi/2026/313/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) Order 2026
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+This Statutory Instrument corrects errors in [S.I. 2015/595](https://www.legislation.gov.uk/uksi/2015/596/contents) and [S.I. 2015/596](https://www.legislation.gov.uk/uksi/2015/595/contents) and is being issued free of charge to all known recipients of those Statutory Instruments.
+
+2026 No. 313
+
+TOWN AND COUNTRY PLANNING, ENGLAND
+
+The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) Order 2026
+
+Made
+
+17th March 2026
+
+Laid before Parliament
+
+19th March 2026
+
+Coming into force
+
+9th April 2026
+
+The Secretary of State makes this Order in exercise of the powers conferred by [sections 59](https://www.legislation.gov.uk/ukpga/1990/8/section/59), [60](https://www.legislation.gov.uk/ukpga/1990/8/section/60), [61](https://www.legislation.gov.uk/ukpga/1990/8/section/61) [(1)](https://www.legislation.gov.uk/ukpga/1990/8/section/61) and [333](https://www.legislation.gov.uk/ukpga/1990/8/section/333) [(7)](https://www.legislation.gov.uk/ukpga/1990/8/section/333) of the [Town and Country Planning Act 1990](https://www.legislation.gov.uk/ukpga/1990/8/contents)[^f00001] and [section 54](https://www.legislation.gov.uk/ukpga/2004/5/section/54) [(2)](https://www.legislation.gov.uk/ukpga/2004/5/section/54) [(b)](https://www.legislation.gov.uk/ukpga/2004/5/section/54) of the [Planning and Compulsory Purchase Act 2004](https://www.legislation.gov.uk/ukpga/2004/5/contents)[^f00002].
+
+## 1. Citation, commencement and extent
+
+(1) This Order may be cited as the Town and Country Planning (General Permitted Development etc.) (England) (Amendment) Order 2026.
+
+(2) This Order comes into force on 9th April 2026.
+
+(3) This Order extends to England and Wales.
+
+## 2. Amendment of the Town and Country Planning (General Permitted Development) (England) Order 2015
+
+The [Town and Country Planning (General Permitted Development) (England) Order 2015](https://www.legislation.gov.uk/uksi/2015/596/contents)[^f00003] is amended in accordance with articles 3 to 8.
+
+## 3. Amendment of article 2 (interpretation)
+
+In article 2(1), after the definition of “mining operations” insert—
+
+> - “**National Planning Policy Framework**” means the National Planning Policy Framework issued by the Ministry of Housing, Communities and Local Government in December 2024[^f00004];
+
+.
+
+## 4. Amendment of article 4 (directions restricting permitted development)
+
+In article 4(1), after “of Part 4” insert “, Class CA of Part 7”.
+
+## 5. Amendment of Class S of Part 3 of Schedule 2 (agricultural buildings to state-funded school)
+
+In Schedule 2, in Part 3, in Class S, in paragraph S.1(e)(ii), for “Class Q”, in both instances, substitute “Class S”.
+
+## 6. Insertion of Class CA in Part 7 of Schedule 2 (installation etc of a reverse vending machine)
+
+In Schedule 2, in Part 7, after Class C (click and collect facilities) insert—
+
+> **Class CA — installation etc of a reverse vending machine**
+>
+> **CA. Permitted development**
+>
+> Development consisting of the installation, alteration or replacement of a reverse vending machine in a wall of a shop or within the curtilage of a shop.
+>
+> **CA1. Development not permitted**
+>
+> Development is not permitted by Class CA if—
+>
+> - (a) the gross floor space of the reverse vending machine would exceed 80 square metres;
+> - (b) the height of the reverse vending machine would exceed 4 metres;
+> - (c) in the case of a reverse vending machine installed, or to be installed, in a wall of a shop, where any part of the reverse vending machine would protrude 2 metres or more beyond the outer surface of that wall;
+> - (d) where any land adjacent to the shop is used for a purpose within Part C of Schedule 1 to the Use Classes Order (residential purposes), any part of the reverse vending machine would be within 15 metres of the boundary of the curtilage of that residential land;
+> - (e) any part of the reverse vending machine would face onto and be within 5 metres of a highway; or
+> - (f) any part of the reverse vending machine would be—
+>   - (i) on article 2(3) land;
+>   - (ii) in a site of special scientific interest;
+>   - (iii) within the curtilage of a listed building; or
+>   - (iv) on the site of a scheduled monument.
+>
+> **CA2. Condition**
+>
+> Development is permitted by Class CA subject to the condition that where the reverse vending machine is no longer in operation—
+>
+> - (a) the development must be removed as soon as reasonably practicable; and
+> - (b) the land on which the development was situated, including any wall in which the development was installed, must be, as soon as reasonably practicable, and so far as reasonably practicable, reinstated to its condition before that development was carried out.
+>
+> **CA3. Interpretation of Class CA**
+>
+> For the purposes of Class CA—
+>
+> - “**deposit item**” has the meaning given in [regulation 4](https://www.legislation.gov.uk/uksi/2025/67/regulation/4) of the [Deposit Scheme for Drinks Containers (England and Northern Ireland) Regulations 2025](https://www.legislation.gov.uk/uksi/2025/67/contents)[^f00005];
+> - “**reverse vending machine**” means a machine for the purpose of accepting deposit items, reimbursing deposits for each deposit item accepted, and retaining the deposit item for collection and any associated enclosure, building, canopy or other structure;
+> - “**shop**” means a building used for any purpose within Class E(a) (display or retail sale of goods other than hot food) of Schedule 2 to the Use Classes Order.
+
+.
+
+## 7. Amendment of Class M of Part 7 of Schedule 2 (extensions etc for schools, colleges, universities, prisons and hospitals)
+
+In Schedule 2, in Part 7, in Class M—
+
+- (a) omit paragraph M.1(da); and
+- (b) after paragraph M.1(e) insert—
+
+  > - (ea) if the height of any rooftop structure would exceed 1.5 metres above the height of the new building or the building as extended or altered (as the case may be);
+
+  .
+
+## 8. Amendment of references to the National Planning Policy Framework in Schedule 2
+
+In Schedule 2—
+
+- (a) in each of the following places omit “issued by the Ministry of Housing, Communities and Local Government in July 2021”—
+  - (i) paragraphs AA.3(11)(b) and (12)(b) of Class AA of Part 1 (development within the curtilage of a dwellinghouse);
+  - (ii) paragraph W(10)(b) of Part 3 (changes of use);
+  - (iii) paragraph BB.3(9)(b) of Class BB of Part 4 (temporary buildings and uses);
+  - (iv) paragraph E.3(10)(b) of Class E of Part 4 (temporary buildings and uses);
+  - (v) paragraph C.2(7)(b) of Class C of Part 7 (non-domestic extensions, alterations etc);
+  - (vi) paragraph J.4(8)(b) of Class J of Part 14 (renewable energy);
+  - (vii) paragraph TA.4(7)(b) of Class TA of Part 19 (development by the Crown or for national security purposes);
+  - (viii) paragraphs B(14)(b) and (15)(b) of Part 20 (construction of new dwellinghouses);
+- (b) in paragraph BC.3(4)(b) of Class BC of Part 4 (temporary buildings and uses), omit “issued by the Department for Levelling Up, Housing and Communities in July 2021”.
+
+## 9. Amendment to the [Town and Country Planning (Development Management Procedure) (England) Order 2015](https://www.legislation.gov.uk/uksi/2015/595/contents)
+
+In [article 22](https://www.legislation.gov.uk/uksi/2015/595/article/22) [(1)](https://www.legislation.gov.uk/uksi/2015/595/article/22) (duty to respond to consultation) of the [Town and Country Planning (Development Management Procedure) (England) Order 2015](https://www.legislation.gov.uk/uksi/2015/595/contents)[^f00006], in sub-paragraph (f), for “paragraph A.3(5)(a)” substitute “paragraph A.3(6)(a) and (ab)”.
+
+Signed by authority of the Secretary of State for Housing, Communities and Local Government
+
+Matthew Pennycook
+
+Minister of State
+
+Ministry of Housing, Communities and Local Government
+
+17th March 2026
+
+Explanatory Note
+
+(This note is not part of the Order)
+
+This Order amends the Town and Country Planning (General Permitted Development) (England) Order 2015 (“the GPDO”). The GPDO grants planning permission for certain classes of development without the requirement for a planning application to be made under Part 3 of the Town and Country Planning Act 1990. The classes of permission, together with their accompanying conditions, limitations and restrictions, are set out in Schedule 2 to the GPDO.
+
+A new Class CA (installation etc of a reverse vending machine) is inserted into Part 7 of Schedule 2 to the GPDO to permit the installation, alteration or replacement of reverse vending machines within the curtilage or walls of a shop, subject to the stated limitations and condition (see article 6). The new Class CA is excluded from the scope of article 4 of the GPDO (meaning that neither a local planning authority nor the Secretary of State will be able to direct that Class CA is not to apply in relation to a specified area) (see article 4).
+
+Class M of Part 7 of Schedule 2 (which permits new buildings, extensions and alterations for schools, colleges, universities, prisons and hospitals) is amended to clarify that it does not permit development where the height of any rooftop structure would exceed 1.5 metres above the height of the relevant new building or extended or altered building (see article 7).
+
+References in the GPDO to the National Planning Policy Framework published by the Ministry of Housing, Communities and Local Government are updated so that they refer to the most recent version of that publication (see articles 3 and 8).
+
+This Order also corrects two incorrect cross-references: one in Class S of Part 3 of Schedule 2 to the GPDO, and one in article 22(1) of the Town and Country Planning (Development Management Procedure) (England) Order 2015 (see articles 5 and 9).
+
+A full impact assessment has not been produced for this Order as no, or no significant, impact on the private, voluntary sector or community bodies is foreseen. An explanatory memorandum is published alongside this instrument at www.legislation.gov.uk.
+
+## Annotations
+
+[^f00001]: Footnote: [1990 c. 8](https://www.legislation.gov.uk/ukpga/1990/8/contents). Section 59 was amended by paragraph 4 of Schedule 1 to the Growth and Infrastructure Act [2013 (c. 27)](https://www.legislation.gov.uk/ukpga/2013/27) and paragraph 3 of Schedule 4 and paragraph 5 of Schedule 7 to the Planning (Wales) Act [2015 (anaw 4)](https://www.legislation.gov.uk/anaw/2015/4). Section 60 was amended by [section 4](https://www.legislation.gov.uk/ukpga/2013/27/section/4) [(1)](https://www.legislation.gov.uk/ukpga/2013/27/section/4) of the [Growth and Infrastructure Act 2013](https://www.legislation.gov.uk/ukpga/2013/27/contents) (c. 27) and [section 152](https://www.legislation.gov.uk/ukpga/2016/22/section/152) of the [Housing and Planning Act 2016](https://www.legislation.gov.uk/ukpga/2016/22/contents) (c. 22).
+
+[^f00002]: Footnote: [2004 c. 5](https://www.legislation.gov.uk/ukpga/2004/5/contents).
+
+[^f00003]: Footnote: [S.I. 2015/596](https://www.legislation.gov.uk/uksi/2015/596/contents); relevant amending instruments are [S.I. 2016/332](https://www.legislation.gov.uk/uksi/2016/332), [2019/907](https://www.legislation.gov.uk/uksi/2019/907), [2020/330](https://www.legislation.gov.uk/uksi/2020/330), [2021/428](https://www.legislation.gov.uk/uksi/2021/428), [2021/1464](https://www.legislation.gov.uk/uksi/2021/1464) and [2023/747](https://www.legislation.gov.uk/uksi/2023/747).
+
+[^f00004]: Footnote: This is a reference to the National Planning Policy Framework, available online at https://www.gov.uk/government/publications/national-planning-policy-framework--2 and a copy of which may be inspected at the Planning Directorate, the Ministry of Housing, Communities and Local Government, 2 Marsham Street, London SW1P 4DF.
+
+[^f00005]: Footnote: [S.I. 2025/67](https://www.legislation.gov.uk/uksi/2025/67/contents).
+
+[^f00006]: Footnote: [S.I. 2015/595](https://www.legislation.gov.uk/uksi/2015/595/contents). [Article 22(1)](https://www.legislation.gov.uk/uksi/2015/595/article/22) was amended by [article 10](https://www.legislation.gov.uk/uksi/2021/814/article/10) of [S.I. 2021/814](https://www.legislation.gov.uk/uksi/2021/814/contents), [article 7](https://www.legislation.gov.uk/uksi/2023/747/article/7) of [S.I. 2023/747](https://www.legislation.gov.uk/uksi/2023/747/contents) and [article 11](https://www.legislation.gov.uk/uksi/2023/1279/article/11) of [S.I. 2023/1279](https://www.legislation.gov.uk/uksi/2023/1279/contents).

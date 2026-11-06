@@ -1,0 +1,410 @@
+---
+title: The Greenhouse Gas Emissions Trading Scheme (Amendment) and National Emissions Inventory Regulations 2005
+id: uksi/2005/2903
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2005-10-16'
+text_date: '2021-05-01'
+extent: E+W+S+NI
+source_url: https://www.legislation.gov.uk/uksi/2005/2903
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2005/2903/pdfs/uksiem_20052903_en.pdf
+- http://www.legislation.gov.uk/uksi/2005/2903/pdfs/uksi_20052903_en.pdf
+- http://www.legislation.gov.uk/uksi/2005/2903/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Greenhouse Gas Emissions Trading Scheme (Amendment) and National Emissions Inventory Regulations 2005
+
+> Text as at 2021-05-01.
+>
+> Extent: England, Wales, Scotland, NI.
+
+*Extent: E+W+S+NI*
+
+2005 No. 2903
+
+ENVIRONMENTAL PROTECTION
+
+The Greenhouse Gas Emissions Trading Scheme (Amendment) and National Emissions Inventory Regulations 2005
+
+Made
+
+16th October 2005
+
+Laid before Parliament
+
+19th October 2005
+
+Coming into force
+
+13th November 2005
+
+The Secretary of State, being a Minister designated for the purpose of section 2(2) of the European Communities Act 1972[^f00001] in relation to greenhouse gas emission allowance trading[^f00002] in exercise of the powers conferred upon her by section 2(2) of that Act[^f00003] makes the following Regulations:
+
+## PART 1 — GENERAL
+
+### 1. Title and commencement
+
+These Regulations may be cited as the Greenhouse Gas Emissions Trading Scheme (Amendment) and National Emissions Inventory Regulations 2005 and shall come into force on 13th November 2005.
+
+### 1A. Duty to review these Regulations[^key-227b75284643a7f3c4d56370855a4b34]
+
+(1) The Secretary of State must from time to time—
+
+- (a) carry out a review of these Regulations;
+- (b) set out the conclusions of the review in a report; and
+- (c) publish the report.
+
+(2) In carrying out the review the Secretary of State must, so far as is reasonable, have regard to how the Emissions Trading Directive and Decision [280/2004/EC](https://www.legislation.gov.uk/european/decision/2004/0280) are implemented in other member States.
+
+(3) The report must in particular—
+
+- (a) set out the objectives intended to be achieved by the regulatory system established by these Regulations;
+- (b) assess the extent to which those objectives are achieved; and
+- (c) assess whether those objectives remain appropriate and, if so, the extent to which they could be achieved with a system that imposes less regulation.
+
+(4) The first report under this regulation must be published before the end of the period of five years beginning with the day on which the Greenhouse Gas Emissions Trading Scheme and National Emissions Inventory (Amendment) Regulations 2013 come into force.
+
+(5) Reports under this regulation are afterwards to be published at intervals not exceeding five years.
+
+### 2. Interpretation
+
+(1) In these Regulations—
+
+- [^key-5c78536c3808ac510cda87cebf72d71f]...
+- “Annex I party” means a country which—
+  - (a) is listed in Annex I to the UNFCCC or which has given notice in accordance with Article 4(2)(g) of the UNFCCC; and
+  - (b) has ratified the Kyoto Protocol to the UNFCCC signed at Kyoto on 11th December 1997;
+- “approval” means, in relation to a proposed project activity—
+  - (a) the approval of an Article 6 project activity required by Article 6(1)(a) of the Kyoto Protocol; or
+  - (b) the approval of voluntary participation in an Article 12 project activity required by Article 12(5)(a) of the Kyoto Protocol,
+
+  and “approve” shall be construed accordingly;
+- “Article 6 project activity” means a project within the meaning of Article 6 of the Kyoto Protocol, that is to say a project in an Annex I party aimed at reducing anthropogenic emissions by sources or enhancing anthropogenic removals by sinks of greenhouse gases in any sector of the economy;
+- “Article 12 project activity” means a project activity within the meaning of Article 12 of the Kyoto Protocol, that is to say a project activity under the clean development mechanism;
+- “the Emissions Trading Directive” means Directive [2003/87/EC](https://www.legislation.gov.uk/european/directive/2003/0087) of the European Parliament and of the Council establishing a scheme for greenhouse gas emission allowance trading within the Community[^f00005] as amended by Directive [2004/101/EC](https://www.legislation.gov.uk/european/directive/2004/0101)[^f00006];
+- “Kyoto Protocol” means the Kyoto Protocol to the UNFCCC signed at Kyoto on 11th December 1997[^f00007];
+- “national inventory” means the estimation, under Article 4(1)(a) of the UNFCCC, of anthropogenic emissions of greenhouse gases (that is, those gaseous constituents of the atmosphere that absorb and remit infrared radiation) by sources and removals of all greenhouse gases by sinks not controlled by the Montreal Protocol on Substances that Deplete the Ozone Layer adopted at Montreal on 16th September 1987;
+- “project activity” means an Article 6 project activity or an Article 12 project activity;
+- “sink” means any process, activity or mechanism which removes a greenhouse gas, an aerosol or a precursor of a greenhouse gas from the atmosphere; and
+- “UNFCCC” means the United Nations Framework Convention on Climate Change signed in New York on 9th May 1992[^f00008].
+
+(2) Expressions used in these Regulations have the same meaning as in the Emissions Trading Directive unless otherwise stated.
+
+(3) For the purposes of these Regulations—
+
+- (a) “Scottish applicant” means a person whose principal place of residence is in Scotland or, where the applicant is a body corporate or partnership, whose principal office is in Scotland;
+- (b) “NI applicant” means a person whose principal place of residence is in Northern Ireland or, where the applicant is a body corporate or a partnership, whose principal office is in Northern Ireland; and
+- (c) “Welsh applicant” means a person whose principal place of residence is in Wales or, where the applicant is a body corporate or a partnership, whose principal office is in Wales.
+
+### 3. Notices
+
+Schedule 2 to the Greenhouse Gas Emissions Trading Scheme Regulations 2012[^key-0516237bf17f2f74766f09656c54afd6] shall apply to a notice or document served under these Regulations.
+
+## PART 2 — AMENDMENT OF 2005 REGULATIONS
+
+### 4. Amendment of the 2005 Regulations[^key-e9338aa02b144a8074f328bc90dd35a8]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART 3 — Project approval and authorisation to participate[^key-aae1bbe4aa1339626ecd3bce2f00b84f]
+
+### 5. Approval of and authorisation to participate in project activities
+
+(1) A person wishing to have a proposed project activity approved may, in accordance with this regulation, apply to the Environment Agency for approval of the proposed project activity.
+
+(2) A person wishing to be authorised to participate in a project activity or a proposed project activity may, in accordance with this regulation, apply to the Environment Agency for such authorisation.
+
+(3) An application under this regulation must be made in the English language and contain the following information—
+
+- (a) the applicant’s name and address;
+- (b) a description of the project activity or proposed project activity; and
+- (c) any other information that the Environment Agency may require for the purpose of determining the application.
+
+(4) An application under this regulation must be made in such form as may be required by the Environment Agency.
+
+(5) The Environment Agency may require any information included in an application made under this regulation to be independently verified and a requirement under this paragraph may include a requirement for the verification to be provided by a person of a description specified by the Environment Agency.
+
+(6) An application under paragraph (2) may be combined with an application under paragraph (1).
+
+(7) An application made under this regulation may be withdrawn at any time before it is determined.
+
+### 6. Request for further information
+
+(1) For the purposes of determining an application made under regulation 5, the Environment Agency may serve a notice on the applicant requesting further information.
+
+(2) A notice under paragraph (1) must specify the information required and the date by which the further information must be provided.
+
+(3) A notice under paragraph (1) may include a requirement for information provided in connection with an application made under regulation 5 to be independently verified and a requirement under this paragraph may include a requirement for the verification to be provided by a person of a description specified by the Environment Agency.
+
+(4) If an applicant fails to comply with a notice served under paragraph (1), the Environment Agency may serve a notice on the applicant stating that the application is deemed to have been withdrawn.
+
+### 7. Determination of application
+
+(1) Where an application is made under regulation 5, the Environment Agency must, in accordance with this regulation, determine whether to approve the proposed project activity or to authorise participation in the project activity or proposed project activity (as the case may require).
+
+(2) When determining an application made under regulation 5, the Environment Agency may attach such conditions to an approval or authorisation as it considers necessary.
+
+(3) The Environment Agency must give notice of its determination to the applicant within—
+
+- (a) a period of two months beginning with the date on which the application was received by the Environment Agency; or
+- (b) such longer period as may be agreed in writing with the applicant.
+
+(4) For the purposes of calculating the periods referred to in paragraph (3), no account is to be taken of any period beginning on the date on which notice is served under regulation 6(1) and ending on the date on which the applicant provides the further information.
+
+(5) The Environment Agency may not approve a proposed project activity to be carried out in the United Kingdom.
+
+(6) The Environment Agency may only approve a proposed project activity if it is satisfied that—
+
+- (a)[^key-5fac4976e950d5ba1ef0b3c9c5a3e0e1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) in relation to a proposed project activity for the production of hydro-electric power with a generating capacity of more than 20 megawatts, the development of the proposed project activity will respect the criteria and guidelines identified in the report produced by the World Commission on Dams on 16th November 2000 entitled “Dams and Development - A New Framework for Decision-Making”[^f00006].
+
+(7)[^key-b0c6ce8809aae5428cb46965d1b637f6] The Environment Agency may only authorise an applicant’s participation in a project activity or a proposed project activity if the Environment Agency is satisfied that to do so would be consistent with—
+
+- (i) the UNFCCC;
+- (ii) the Kyoto Protocol; and
+- (iii) the decisions adopted pursuant to the UNFCCC or the Kyoto Protocol, as adopted and amended from time to time.
+
+### 8. Agreement with the devolved administrations on project approval
+
+The power of the Environment Agency to determine an application under regulation 7 is exercisable—
+
+- (a) in so far as an application under regulation 5(1) relates to a Scottish applicant, only with the agreement of the Scottish Ministers;
+- (b) in so far as an application under regulation 5(1) relates to a NI applicant, only with the agreement of the Department of the Environment; and
+- (c) in so far as an application under regulation 5(1) relates to a Welsh applicant, only with the agreement of the National Assembly for Wales.
+
+### 8A. Duty to consult the Secretary of State and referral of applications
+
+(1) The Environment Agency must consult the Secretary of State as soon as reasonably practicable before determining—
+
+- (a) an application made under regulation 5 in relation to a project activity or proposed project activity which is not of a type—
+  - (i) which has been approved by the Secretary of State or the Environment Agency; or
+  - (ii) in respect of which participation has been authorised by the Secretary of State or the Environment Agency,
+
+  on or before the date on which the application is received;
+- (b) an application made under regulation 5 in relation to a project activity or proposed project activity which the Environment Agency reasonably considers to be novel, contentious or controversial;
+- (c) an application made under regulation 5 in relation to a project activity or proposed project activity for the production of hydro-electric power with a generating capacity of more than 20 megawatts.
+
+(2) The Secretary of State may require the Environment Agency to refer an application made under regulation 5 to the Secretary of State for the Secretary of State to determine in accordance with this Part.
+
+(3) Where the Environment Agency has referred an application to the Secretary State under paragraph (2)—
+
+- (a) the functions of the Environment Agency under regulations 6, 7 and 8 in respect of that application must be exercised by the Secretary of State; and
+- (b) the references to the Environment Agency in regulations 6, 7 , 8 and 9 are to be read as references to the Secretary of State.
+
+### 9. Appeals
+
+(1) A person may appeal to the First-tier Tribunal[^f00007] against a determination to—
+
+- (a) refuse an application made under regulation 5; or
+- (b) attach a condition to an approval or authorisation notified under regulation 7.
+
+(2) The bringing of an appeal against a condition attached to an approval or authorisation to participate suspends the approval or authorisation to participate pending the final determination or withdrawal of the appeal.
+
+(3) The First-tier Tribunal may—
+
+- (a) in relation to a determination to refuse an application under regulation 5—
+  - (i) affirm the determination;
+  - (ii) quash the determination and remit it to the Environment Agency;
+- (b) in relation to a determination to attach a condition to an approval or authorisation notified under regulation 7—
+  - (i) affirm or vary the determination;
+  - (ii) quash the determination and remit it to the Environment Agency.
+
+## PART 4 — NATIONAL INVENTORY
+
+### 10. Information for the preparation of a national inventory
+
+(1) For the purposes of preparing a national inventory, the Secretary of State may require any person to furnish information by serving a notice on that person.
+
+(2) A notice under this regulation shall specify—
+
+- (a) the information required to be furnished;
+- (b) if the Secretary of State requires the information to be furnished in a particular form, the form in which it is to be furnished; and
+- (c) the date by which the information is required to be furnished.
+
+(3) The information which a person may be required to furnish by a notice served under this regulation includes—
+
+- (a) information, which, although it is not in that person’s possession or under his control, is information which it is reasonable to require that person to obtain and, where relevant, to compile;
+- (b) evidence that information furnished to the Secretary of State for the purposes of preparing a national inventory (whether or not the information is furnished for the purpose of complying with a notice under this regulation) has been independently verified.
+
+### 11. Powers of entry[^key-3e8234f431c3bc161bdff62aded0496a]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 12. Agreement with devolved administrations on national inventory
+
+The power of the Secretary of State to serve a notice under regulation 10 [^key-6bf4d5bec63330968b1b332fb1462462]... is exercisable—
+
+- (a) where a notice is to be served in Scotland [^key-34b55419224eadbfac253f1db041e2ca]..., only with the agreement of the Scottish Ministers;
+- (b) where a notice is to be served in Northern Ireland [^key-9d3f7238c14a34f58743833305f12587]..., only with the agreement of the Department of the Environment; and
+- (c) where a notice is to be served in Wales [^key-dd6cf1c5ed2f1fd6c73fd00bdedbf812]..., only with the agreement of the National Assembly for Wales.
+
+## ...[^key-755195956ce98974b0b17d1ea0167145]
+
+[^key-755195956ce98974b0b17d1ea0167145]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART 6 — Civil penalties[^key-9938b13652f709cfdede8d74b91e448e]
+
+### 13A. Interpretation: Part 6[^key-aca05fa48b31ef3c8fadf9fa743d2654]
+
+In this Part, “the regulator” means—
+
+- (a) the Secretary of State; or
+- (b) in the case of an application made under regulation 5 that has not been referred to the Secretary of State under regulation 8A(2), the Environment Agency.
+
+### 14. Penalty notices
+
+(1) Subject to regulation 15, where the regulator[^key-bafef315ef745b25d4c8179429a2de7b] is satisfied that a person (“P”) is liable to a civil penalty under this Part the regulator must, serve a notice on P (a “penalty notice”).
+
+(2) The penalty notice must specify—
+
+- (a) the regulation under which that liability arises;
+- (b) the amount of the civil penalty due;
+- (c) whether or not P may be liable to a civil penalty in accordance with regulation 16(2)(b) (an “additional daily penalty”); and
+- (d) if P will not be liable to an additional daily penalty, the date by which the penalty for which P is liable must be paid.
+
+(3) Subject to regulation 15, where the regulator is satisfied that P is liable to an additional daily penalty the regulator must, when the amount of that additional daily penalty can be determined, serve a notice on P (an “additional penalty notice”) specifying—
+
+- (a) the total amount of the civil penalties due; and
+- (b) the date by which that amount must be paid.
+
+(4) A civil penalty imposed by a penalty notice or an additional penalty notice must be paid to the regulator by the date specified in the notice.
+
+(5) Any such civil penalty is recoverable by the regulator as a civil debt.
+
+(6)[^key-0f0e6f76c0abdf620baaba2f242f22c4] If the regulator is the Environment Agency it must, as soon as reasonably practicable—
+
+- (a) notify the Secretary of State if it serves a penalty notice under this regulation; and
+- (b) pass to the Secretary of State any civil penalty that has been paid to it pursuant to such notice.
+
+### 15. Discretion in imposing civil penalties
+
+Where the regulator[^key-dcd42bada3ca18bff4d02a8151ab645e] considers it appropriate to do so, the regulator may—
+
+- (a) refrain from imposing a civil penalty under this Part;
+- (b) reduce the amount of a penalty (including the amount of an additional daily penalty);
+- (c) extend the time for payment specified in the penalty notice or additional penalty notice;
+- (d) withdraw a penalty notice or an additional penalty notice; or
+- (e) modify the notice by substituting a lower penalty.
+
+### 16. Failure to comply with a notice under regulation 10(1)
+
+(1) A person (“P”) is liable to the civil penalties in paragraph (2) where P fails to comply (or to comply on time) with the requirements of a notice served under regulation 10(1) (an “information notice”).
+
+(2) The civil penalties are—
+
+- (a) £1,500; and
+- (b) £150 for each day that P fails to comply with the requirements of the information notice, following service of a penalty notice, up to a maximum of £13,500.
+
+### 17. Providing false or misleading information
+
+(1) Where paragraph (2) applies, a person is liable to the civil penalty in paragraph (3) where that person provides false or misleading information, or makes a statement which is false or misleading in a material particular.
+
+(2)[^key-879cf916a7f1d73153cff7928ce7e50e] This paragraph applies where the statement is made or the information is provided to the regulator in writing—
+
+- (a) in connection with an application made under regulation 5; or
+- (b) for the purpose of preparing a national inventory, whether or not the statement is made (or the information provided) in purported compliance with a requirement imposed by a notice under regulation 10(1).
+
+(3) The civil penalty is £1,000.
+
+### 18. Appeals
+
+(1) A person on whom a penalty notice or additional penalty notice has been served under this Part may appeal to the First-tier tribunal.
+
+(2) The bringing of the appeal suspends the effect of the notice pending the final determination or withdrawal of the appeal.
+
+(3) In determining the appeal the First-tier tribunal may—
+
+- (a) affirm or quash the notice; or
+- (b) reduce the amount of the penalty imposed by the notice (including the amount of any additional daily penalty).
+
+Elliot Morley
+
+Minister of State
+
+Department for Environment, Food and Rural Affairs
+
+## SCHEDULE — List of Least Developed Countries[^key-8c7bc8aa232f35d85a973844ed91842e]
+
+**No longer in force.**
+
+Regulation 5(9)
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(This note is not part of the Regulations)
+
+These Regulations transpose Directive [2004/101/EC](https://www.legislation.gov.uk/european/directive/2004/0101) of the European Parliament and of the Council amending Directive [2003/87/EC](https://www.legislation.gov.uk/european/directive/2003/0087) establishing a Scheme for greenhouse gas emission allowance trading within the Community, in respect of the Kyoto Protocol’s project mechanisms. They also provide the Secretary of State with powers to assist her in carrying out her obligations under Decision [280/2004/EC](https://www.legislation.gov.uk/european/decision/19280/2004) of the Council and of the Parliament to prepare a national emissions inventory and makes a small number of other provisions relating to the collection of data.
+
+Part 2 of the Regulations amends the Greenhouse Gas Emissions Trading Scheme Regulations 2005 (S.I. [2005/925](https://www.legislation.gov.uk/uksi/2005/925)) (“the ETS Regulations”) to permit holders of accounts in the UK emissions trading registry to hold certain types of Certified Emissions Reductions (CERs) and Emissions Reduction Units (ERUs) in their registry accounts (regulation 26(17) of the ETS Regulations). It also allows people with obligations to surrender allowances under the EU Emissions Trading Scheme, subject to specified limitations, to use certain types of CERs and ERUs as well as allowances towards complying with those obligations (regulation 27A of the ETS Regulations). It also extends the power that the Secretary of State and other bodies have under the ETS Regulations to require people to supply information (regulation 35(4)-(5) of the ETS Regulations).
+
+Part 3 of the Regulations establishes an application procedure by which a person may apply to the Secretary of State for approval of one of the project activities established under the Kyoto Protocol or for authorisation to participate in the project activity (regulation 5). It sets out certain conditions that the Secretary of State must ensure when considering whether or not to approve such a project or authorise participation (regulation 7). It also provides a procedure for the applicant to appeal against the determination of his application (regulation 9).
+
+Part 4 of the Regulations provide a power for the Secretary of State and devolved administrations to require a person to supply information for the purposes of compiling a national emissions inventory (regulation 10). Regulation 11 sets out powers of entry and inspection which may be exercised by an authorised person for the purpose of preparing such an inventory.
+
+Part 5 makes it an offence to comply with a number of obligations imposed under the Regulations (regulation 13(1)) and specifies the maximum penalties which may be imposed for such an offence (regulation 13(2)). It also provides that where an offence is committed by a body corporate or by a Scottish partnership, specified individuals may also be guilty of that offence if it were committed with that person’s consent or connivance, or as a result of their neglect (regulation 13(3)-(5)).
+
+A regulatory impact assessment and a transposition note has been prepared and placed in the library of each House of Parliament. Copies can be obtained from National Climate Change Policy Division, Department for Environment, Food and Rural Affairs, Ashdown House, 123 Victoria Street, London SW1E 6DE.
+
+## Annotations
+
+[^f00001]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68).
+
+[^f00002]: Footnote: S.I. [2004/1984](https://www.legislation.gov.uk/uksi/2004/1984).
+
+[^f00003]: Footnote: As regards Scotland, see also section 57(1) of the Scotland Act [1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46), which provides that, despite the transfer to the Scottish Ministers by virtue of that Act of functions in relation to observing and implementing obligations under Community law, any function of a Minister of the Crown in relation to any matter shall continue to be exercisable by him as regards Scotland for the purposes specified in section 2(2) of the European Communities Act 1972.
+
+[^key-227b75284643a7f3c4d56370855a4b34]: Textual amendment: Reg. 1A inserted (31.1.2014) by [The Greenhouse Gas Emissions Trading Scheme and National Emissions Inventory (Amendment) Regulations 2013 (S.I. 2013/3135)](https://www.legislation.gov.uk/uksi/2013/3135), [regs. 1](https://www.legislation.gov.uk/uksi/2013/3135/regulation/1), [8](https://www.legislation.gov.uk/uksi/2013/3135/regulation/8)
+
+[^key-5c78536c3808ac510cda87cebf72d71f]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2005/2903/regulation/2/1) omitted (1.2.2015) by virtue of [The Greenhouse Gas Emissions Trading Scheme (Amendment) and National Emissions Inventory (Amendment) Regulations2014 (S.I. 2014/3075)](https://www.legislation.gov.uk/uksi/2014/3075), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/3075/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2014/3075/regulation/2/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2014/3075/regulation/3))
+
+[^f00005]: Footnote: OJ No. L 275, 25.10.2003, p.32. The Directive is amended by Directive [2004/101/EC](https://www.legislation.gov.uk/european/directive/2004/0101), OJ No.L 338, 13.11.2004, p.18.
+
+[^f00006]: Footnote: OJ No. L 338, 13.11.2004, p.18.
+
+[^f00007]: Footnote: This is available at http://unfccc.int/resource/docs/convkp/kpeng.html.
+
+[^f00008]: Footnote: This is available at http://unfccc.int/resource/docs/convkp/conveng.pdf.
+
+[^key-0516237bf17f2f74766f09656c54afd6]: Textual amendment: Words in reg. 3 substituted (31.1.2014) by [The Greenhouse Gas Emissions Trading Scheme and National Emissions Inventory (Amendment) Regulations 2013 (S.I. 2013/3135)](https://www.legislation.gov.uk/uksi/2013/3135), [regs. 1](https://www.legislation.gov.uk/uksi/2013/3135/regulation/1), [9](https://www.legislation.gov.uk/uksi/2013/3135/regulation/9)
+
+[^key-e9338aa02b144a8074f328bc90dd35a8]: Textual amendment: Reg. 4 revoked (1.1.2013) by [The Greenhouse Gas Emissions Trading Scheme Regulations 2012 (S.I. 2012/3038)](https://www.legislation.gov.uk/uksi/2012/3038), [regs. 1](https://www.legislation.gov.uk/uksi/2012/3038/regulation/1), [85(b)(vi)](https://www.legislation.gov.uk/uksi/2012/3038/regulation/85/b/vi) (with [regs. 85](https://www.legislation.gov.uk/uksi/2012/3038/regulation/85), [87](https://www.legislation.gov.uk/uksi/2012/3038/regulation/87), [Sch. 1](https://www.legislation.gov.uk/uksi/2012/3038/schedule/1))
+
+[^key-aae1bbe4aa1339626ecd3bce2f00b84f]: Textual amendment: Pt. 3 substituted (1.2.2015) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) and National Emissions Inventory (Amendment) Regulations2014 (S.I. 2014/3075)](https://www.legislation.gov.uk/uksi/2014/3075), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/3075/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2014/3075/regulation/2/3) (with [reg. 3](https://www.legislation.gov.uk/uksi/2014/3075/regulation/3))
+
+[^key-5fac4976e950d5ba1ef0b3c9c5a3e0e1]: Textual amendment: Reg. 7(6)(a) omitted (1.5.2021) by virtue of [The Greenhouse Gas Emissions (Kyoto Protocol Registry) Regulations 2021 (S.I. 2021/511)](https://www.legislation.gov.uk/uksi/2021/511), [regs. 1](https://www.legislation.gov.uk/uksi/2021/511/regulation/1), [2(a)](https://www.legislation.gov.uk/uksi/2021/511/regulation/2/a)
+
+[^key-b0c6ce8809aae5428cb46965d1b637f6]: Textual amendment: Reg. 7(7) substituted (1.5.2021) by [The Greenhouse Gas Emissions (Kyoto Protocol Registry) Regulations 2021 (S.I. 2021/511)](https://www.legislation.gov.uk/uksi/2021/511), [regs. 1](https://www.legislation.gov.uk/uksi/2021/511/regulation/1), [2(b)](https://www.legislation.gov.uk/uksi/2021/511/regulation/2/b)
+
+[^key-3e8234f431c3bc161bdff62aded0496a]: Textual amendment: Reg. 11 omitted (31.1.2014) by virtue of [The Greenhouse Gas Emissions Trading Scheme and National Emissions Inventory (Amendment) Regulations 2013 (S.I. 2013/3135)](https://www.legislation.gov.uk/uksi/2013/3135), [regs. 1](https://www.legislation.gov.uk/uksi/2013/3135/regulation/1), [10(1)](https://www.legislation.gov.uk/uksi/2013/3135/regulation/10/1)
+
+[^key-6bf4d5bec63330968b1b332fb1462462]: Textual amendment: Words in reg. 12 omitted (31.1.2014) by virtue of [The Greenhouse Gas Emissions Trading Scheme and National Emissions Inventory (Amendment) Regulations 2013 (S.I. 2013/3135)](https://www.legislation.gov.uk/uksi/2013/3135), [regs. 1](https://www.legislation.gov.uk/uksi/2013/3135/regulation/1), [10(2)(a)](https://www.legislation.gov.uk/uksi/2013/3135/regulation/10/2/a)
+
+[^key-34b55419224eadbfac253f1db041e2ca]: Textual amendment: Words in reg. 12 omitted (31.1.2014) by virtue of [The Greenhouse Gas Emissions Trading Scheme and National Emissions Inventory (Amendment) Regulations 2013 (S.I. 2013/3135)](https://www.legislation.gov.uk/uksi/2013/3135), [regs. 1](https://www.legislation.gov.uk/uksi/2013/3135/regulation/1), [10(2)(b)](https://www.legislation.gov.uk/uksi/2013/3135/regulation/10/2/b)
+
+[^key-9d3f7238c14a34f58743833305f12587]: Textual amendment: Words in reg. 12 omitted (31.1.2014) by virtue of [The Greenhouse Gas Emissions Trading Scheme and National Emissions Inventory (Amendment) Regulations 2013 (S.I. 2013/3135)](https://www.legislation.gov.uk/uksi/2013/3135), [regs. 1](https://www.legislation.gov.uk/uksi/2013/3135/regulation/1), [10(2)(c)](https://www.legislation.gov.uk/uksi/2013/3135/regulation/10/2/c)
+
+[^key-dd6cf1c5ed2f1fd6c73fd00bdedbf812]: Textual amendment: Words in reg. 12 omitted (31.1.2014) by virtue of [The Greenhouse Gas Emissions Trading Scheme and National Emissions Inventory (Amendment) Regulations 2013 (S.I. 2013/3135)](https://www.legislation.gov.uk/uksi/2013/3135), [regs. 1](https://www.legislation.gov.uk/uksi/2013/3135/regulation/1), [10(2)(d)](https://www.legislation.gov.uk/uksi/2013/3135/regulation/10/2/d)
+
+[^key-755195956ce98974b0b17d1ea0167145]: Textual amendment: [Pt. 5](https://www.legislation.gov.uk/uksi/2005/2903/part/5) omitted (1.2.2015) by virtue of [The Greenhouse Gas Emissions Trading Scheme (Amendment) and National Emissions Inventory (Amendment) Regulations2014 (S.I. 2014/3075)](https://www.legislation.gov.uk/uksi/2014/3075), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/3075/regulation/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2014/3075/regulation/2/4) (with [reg. 3](https://www.legislation.gov.uk/uksi/2014/3075/regulation/3))
+
+[^key-9938b13652f709cfdede8d74b91e448e]: Textual amendment: Pt. 6 inserted (31.1.2014) by [The Greenhouse Gas Emissions Trading Scheme and National Emissions Inventory (Amendment) Regulations 2013 (S.I. 2013/3135)](https://www.legislation.gov.uk/uksi/2013/3135), [regs. 1](https://www.legislation.gov.uk/uksi/2013/3135/regulation/1), [12](https://www.legislation.gov.uk/uksi/2013/3135/regulation/12)
+
+[^key-aca05fa48b31ef3c8fadf9fa743d2654]: Textual amendment: [Reg. 13A](https://www.legislation.gov.uk/uksi/2005/2903/regulation/13A) inserted (1.2.2015) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) and National Emissions Inventory (Amendment) Regulations2014 (S.I. 2014/3075)](https://www.legislation.gov.uk/uksi/2014/3075), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/3075/regulation/1/1), [2(5)](https://www.legislation.gov.uk/uksi/2014/3075/regulation/2/5) (with [reg. 3](https://www.legislation.gov.uk/uksi/2014/3075/regulation/3))
+
+[^key-bafef315ef745b25d4c8179429a2de7b]: Textual amendment: Word in reg. 14 substituted (1.2.2015) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) and National Emissions Inventory (Amendment) Regulations2014 (S.I. 2014/3075)](https://www.legislation.gov.uk/uksi/2014/3075), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/3075/regulation/1/1), [2(6)](https://www.legislation.gov.uk/uksi/2014/3075/regulation/2/6) (with [reg. 3](https://www.legislation.gov.uk/uksi/2014/3075/regulation/3))
+
+[^key-0f0e6f76c0abdf620baaba2f242f22c4]: Textual amendment: Reg. 14(6) inserted (1.2.2015) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) and National Emissions Inventory (Amendment) Regulations2014 (S.I. 2014/3075)](https://www.legislation.gov.uk/uksi/2014/3075), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/3075/regulation/1/1), [2(7)](https://www.legislation.gov.uk/uksi/2014/3075/regulation/2/7) (with [reg. 3](https://www.legislation.gov.uk/uksi/2014/3075/regulation/3))
+
+[^key-dcd42bada3ca18bff4d02a8151ab645e]: Textual amendment: Word in reg. 15 substituted (1.2.2015) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) and National Emissions Inventory (Amendment) Regulations2014 (S.I. 2014/3075)](https://www.legislation.gov.uk/uksi/2014/3075), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/3075/regulation/1/1), [2(6)](https://www.legislation.gov.uk/uksi/2014/3075/regulation/2/6) (with [reg. 3](https://www.legislation.gov.uk/uksi/2014/3075/regulation/3))
+
+[^key-879cf916a7f1d73153cff7928ce7e50e]: Textual amendment: [Reg. 17(2)](https://www.legislation.gov.uk/uksi/2005/2903/regulation/17/2) substituted (1.2.2015) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) and National Emissions Inventory (Amendment) Regulations2014 (S.I. 2014/3075)](https://www.legislation.gov.uk/uksi/2014/3075), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/3075/regulation/1/1), [2(8)](https://www.legislation.gov.uk/uksi/2014/3075/regulation/2/8) (with [reg. 3](https://www.legislation.gov.uk/uksi/2014/3075/regulation/3))
+
+[^key-8c7bc8aa232f35d85a973844ed91842e]: Textual amendment: [Sch.](https://www.legislation.gov.uk/uksi/2005/2903/schedule) omitted (1.2.2015) by virtue of [The Greenhouse Gas Emissions Trading Scheme (Amendment) and National Emissions Inventory (Amendment) Regulations2014 (S.I. 2014/3075)](https://www.legislation.gov.uk/uksi/2014/3075), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/3075/regulation/1/1), [2(9)](https://www.legislation.gov.uk/uksi/2014/3075/regulation/2/9) (with [reg. 3](https://www.legislation.gov.uk/uksi/2014/3075/regulation/3))

@@ -1,0 +1,59 @@
+---
+title: Licensing Act 2003, section 25B
+act: Licensing Act 2003
+section: 25B
+status: revised-with-pending-changes
+text_date: '2026-06-29'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/2003/17/section/25B
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Licensing Act 2003, section 25B
+
+> **Warning: changes not yet applied to this text (40).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/17
+>
+> Extent: England, Wales, Northern Ireland.
+
+## 25B. Power of the Mayor of London to determine applications[^key-a413b69964a9e38254db50fa22cf9eac]
+
+*Extent: E+W*
+
+(1) This section applies where on an application of potential strategic importance to Greater London a London licensing authority—
+
+- (a) grants a premises licence having taken one or more of the steps under section 18(4)(a) to (c) in relation to the licence, or
+- (b) rejects the application to grant a premises licence under section 18(4)(d).
+
+(2) The London licensing authority must as soon as possible give notice to the applicant and the Greater London Authority of—
+
+- (a) its decision to grant the premises licence and the steps, and reasons for the steps, taken under section 18(4)(a) to (c) in relation to the licence (including the detail of any modifications made to conditions under section 18(4)(a)), or
+- (b) its decision to reject the application under section 18(4)(d) and the reasons for doing so.
+
+(3) But the decision of the London licensing authority in relation to the application does not otherwise have effect unless and until the Mayor of London gives notice under subsection (6) of a decision under subsection (5)(b).
+
+(4) Accordingly, the London licensing authority must not take any steps under this Act in relation to the decision (including giving notice under section 23) unless and until such a notice is given.
+
+(5) The Mayor of London must by the end of the specified period decide—
+
+- (a) to give a direction to the London licensing authority in relation to the application (see section 25C), or
+- (b) that the decision of the London licensing authority in relation to the application is to have effect for the purposes of this Act (and, accordingly, any requirements in relation to that decision now apply).
+
+(6) The Mayor of London must give notice of the Mayor’s decision under subsection (5) to—
+
+- (a) each interested party;
+- (b) any person who made relevant representations in relation to the application under section 18.
+
+(7) On receipt of a notice under subsection (6), the London licensing authority must as soon as reasonably practicable advertise the decision of the Mayor.
+
+(8) The Secretary of State must by regulations specify the form and manner in which an advertisement under subsection (7) is to be made.
+
+(9) In this section—
+
+- “**application of potential strategic importance to Greater London**” means an application that has been notified to a London licensing authority by the Greater London Authority under section 17A(3) as being of potential strategic importance to Greater London;
+- “**interested party**” has the same meaning as in section 17A (see subsection (7) of that section);
+- “**specified**” means specified in regulations made by the Secretary of State.
+
+## Annotations
+
+[^key-a413b69964a9e38254db50fa22cf9eac]: Textual amendment: [Ss. 25B-25D](https://www.legislation.gov.uk/ukpga/2003/17/section/25B) and cross-heading inserted (29.4.2026 for specified purposes, 29.6.2026 in so far as not already in force) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(1)(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/5), [Sch. 26 para. 12](https://www.legislation.gov.uk/ukpga/2026/23/schedule/26/paragraph/12) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102), [Sch. 26 para. 21](https://www.legislation.gov.uk/ukpga/2026/23/schedule/26/paragraph/21))

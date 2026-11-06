@@ -1,0 +1,371 @@
+---
+title: The Ship Recycling (Requirements in relation to Hazardous Materials on Ships) (Amendment etc.) Regulations 2018
+id: uksi/2018/1122
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2018-10-30'
+text_date: '2026-06-23'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2018/1122
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2018/1122/pdfs/uksiem_20181122_en_001.pdf
+- http://www.legislation.gov.uk/uksi/2018/1122/pdfs/uksiem_20181122_en.pdf
+- http://www.legislation.gov.uk/uksi/2018/1122/pdfs/uksi_20181122_en.pdf
+- http://www.legislation.gov.uk/uksi/2018/1122/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Ship Recycling (Requirements in relation to Hazardous Materials on Ships) (Amendment etc.) Regulations 2018
+
+> Text as at 2026-06-23.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2018 No. 1122
+
+Merchant Shipping
+
+Environmental Protection
+
+Health And Safety
+
+The Ship Recycling (Requirements in relation to Hazardous Materials on Ships) (Amendment etc.) Regulations 2018
+
+Made
+
+30th October 2018
+
+Laid before Parliament
+
+1st November 2018
+
+Coming into force
+
+31st December 2018
+
+The Secretary of State makes these Regulations in exercise of the powers conferred by section 2(2) of the European Communities Act 1972 [^c23424111] (“**the 1972 Act**”) and section 56(1) of the Finance Act 1973 [^c23424121], as read with paragraph 1A of Schedule 2 to the 1972 Act [^c23424131].
+
+The Treasury has consented to the making of these Regulations as required by section 56(1) of the Finance Act 1973.
+
+The Secretary of State is designated for the purposes of section 2(2) of the 1972 Act in relation to—
+
+- (a) measures relating to the safety of ships and the health and safety of persons on them [^c23424141];
+- (b) measures relating to employers' obligations in respect of the health and safety of workers [^c23424151];
+- (c) the environment [^c23424161].
+
+These Regulations make provision for a purpose mentioned in section 2(2) of the 1972 Act and it appears to the Secretary of State that it is expedient for the references to Annex I and II of Regulation (EU) No 1257/2013 of the European Parliament and of the Council on ship recycling [^c23424171] to be construed as references to those Annexes as amended from time to time.
+
+## 1. Citation and commencement
+
+These Regulations may be cited as the Ship Recycling (Requirements in relation to Hazardous Materials on Ships) (Amendment etc.) Regulations 2018 and come into force on 31st December 2018.
+
+## 2. Interpretation
+
+(1) In these Regulations—
+
+- “**the 1995 Act**” means the Merchant Shipping Act 1995 [^c23424181];
+- “**Annex I hazardous material**” means material of a type mentioned in the first column of the table in Annex I to the EU Ship Recycling Regulation and defined in the second column;
+- “**Annex I control measures**” means the measures set out in column 3 of the table in Annex I to the Ship Recycling Regulation;
+- “**an Article 8 survey**” means a survey of a type referred to in Article 8(3);
+- “**authorised recognised organisation**” means a recognised organisation that the Secretary of State has authorised to carry out Article 8 surveys;
+- “**Crown employment**” has the meaning given by section 191(3) of the Employment Rights Act 1996 [^c23424191];
+- “**the EU Ship Recycling Regulation**” means Regulation (EU) No 1257/2013 of the European Parliament and of the Council on ship recycling;
+- “**UK Government officer**” means a person in Crown employment authorised by the Secretary of State to carry out an Article 8 survey, as described in regulation 3(2);
+- “**United Kingdom ship**” means a ship registered in the United Kingdom under Part 2 of the 1995 Act;
+- “**United Kingdom waters**” means the sea or other waters within the seaward limits of the territorial sea of the United Kingdom;
+- “**valid inventory of hazardous materials**”, in relation to a ship, means an inventory that the ship is required to have on board under Article 5(1), (2) or 12(1) which—
+  - (a) identifies Annex I hazardous material as required by the EU Ship Recycling Regulation;
+  - (b) where required by the Regulation, also identifies the other hazardous materials listed in Annex II to that Regulation;
+  - (c) is properly maintained and updated; and
+  - (d) complies with the other requirements of the Regulation for such an inventory.
+
+(2) Terms which are used in these Regulations that are used in the EU Ship Recycling Regulation, and are not otherwise defined in these Regulations, have the meaning they bear in that EU Regulation.
+
+(3) A reference in these Regulations to the EU Ship Recycling Regulation or[^key-29dcd3726d04c793b55207b0308c4c49] Annex I or II of the EU Ship Recycling Regulation is to that Regulation or[^key-9cafc177fd928b0b110bf1ebf7b798d0] Annex as amended from time to time.
+
+(4) A reference in these Regulations to an Article is to an Article of the EU Ship Recycling Regulation.
+
+## 3. Article 3: designation of the administration and officers of the administration
+
+(1) The Secretary of State is designated as the administration in respect of the United Kingdom for the purposes of the EU Ship Recycling Regulation.
+
+(2) The reference in Article 8(1) to officers of the administration is to persons in Crown employment who are authorised by the Secretary of State to carry out Article 8 surveys.
+
+## 4. Article 6(1)(b): timeframe for notifying an intention to recycle
+
+A ship owner notifying the Secretary of State under Article 6(1)(b) must do so before the date on which the ship is sent for recycling.
+
+## 5. Article 8: powers of surveyors carrying out an Article 8 survey
+
+(1) This regulation applies to—
+
+- (a) a UK Government officer; and
+- (b) an officer of an authorised recognised organisation suitably qualified and experienced to carry out an Article 8 survey.
+
+(2) When carrying out an Article 8 survey, the officer has the powers conferred under section 258(1) to (3) of the 1995 Act [^c23424201] as if—
+
+- (a) that officer were a surveyor of ships appointed under section 256(2) of that Act; and
+- (b) the EU Ship Recycling Regulation were a provision of that Act.
+
+(3) For the purposes of paragraph (2), the power to inspect any document conferred by section 258(1) is a power to inspect any document carried in the ship in pursuance of the EU Ship Recycling Regulation.
+
+(4) If any person obstructs an officer in the exercise of his or her powers under paragraph (2), that person commits an offence and is liable, on summary conviction—
+
+- (a) in England and Wales, to a fine;
+- (b) in Scotland or Northern Ireland, to a fine not exceeding level 5 on the standard scale.
+
+## 6. Articles 8 and 9: Fees for surveys and certificates in respect of work done by UK Government officers
+
+(1) This regulation applies where a UK Government officer—
+
+- (a) carries out an Article 8 survey; or
+- (b) issues, endorses or extends the validity of a certificate under Article 9.
+
+(2) The Secretary of State may charge a fee in respect of the work mentioned in paragraph (1)(a) or (b).
+
+(3) The Merchant Shipping (Fees) Regulations 2018 [^c23424211] apply in relation to a fee under paragraph (2) as if—
+
+- (a) the work mentioned in paragraph (1)(a) or (b) were described in paragraph 2 of Part 1 of Schedule 1 to those Regulations as a service or function to which that Part of that Schedule applies;
+- (b) references in regulation 3 of those Regulations to the issue of a certificate include references to the extension of the validity of a certificate;
+- (c) the reference in paragraph 4(1) of Part 1 of Schedule 1 to those Regulations to a service mentioned in paragraph 2(1)(a) or (c) includes a reference to an Article 8 survey;
+- (d) references in Part 14 of that Schedule to an inspection include references to an Article 8 survey; and
+- (e) references in the Regulations to the Agency were references to the Secretary of State.
+
+## 7. Articles 11 and 12: application of Port State Control provisions[^key-0b13b1a832e94a26fd4e5a994ec91f57]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 8. Detention of ships to which the Merchant Shipping (Port State Control) Regulations 2026 do not apply[^key-97866dca99521e7ff4a34c17a9dd2fd1]
+
+(1) This regulation applies to a ship to which the EU Ship Recycling Regulation applies but the Merchant Shipping (Port State Control) Regulations 2026 do[^key-623200d2551803c5c204f44a44e5e363] not apply.
+
+(2) If a person carrying out an Article 8 survey or an inspector appointed under regulation 12 is of the opinion that at least one of the matters referred to in paragraph (3) is subsisting in contravention of the EU Ship Recycling Regulation, he or she may detain the ship by serving a notice (“a detention notice”) on the master.
+
+(3) The matters referred to in paragraph (2) are—
+
+- (a) the ship does not have on board a valid inventory of hazardous materials;
+- (b) Annex I hazardous material is installed or used on the ship in a manner contrary to the Annex I control measures.
+
+(4) The detention notice must—
+
+- (a) set out the grounds of detention; and
+- (b) the steps that must be taken in order for the ship to be released.
+
+(5) A detention notice may—
+
+- (a) include a direction that the ship must remain in a particular place, or must move to a particular anchorage or berth; and
+- (b) specify circumstances when the master of the ship may move that ship from a specified place for reasons of safety or prevention of pollution.
+
+(6) A person commits an offence if that person fails to comply with a requirement of a detention notice.
+
+(7) It is a defence for a person (P) charged under paragraph (6) to prove that P took all reasonable steps to avoid committing the offence.
+
+(8) A person who is guilty of an offence under paragraph (6) is liable —
+
+- (a) on summary conviction—
+  - (i) in England and Wales, to a fine; or
+  - (ii) in Scotland or Northern Ireland, to a fine not exceeding the statutory maximum; or
+- (b) on conviction on indictment, to a fine or to imprisonment for a term not exceeding two years or to both.
+
+## 9. Offences for contravention of the EU Ship Recycling Regulation in respect of United Kingdom ships[^key-b861525af478d310418847b4d15f060e]
+
+(1) This regulation applies to the owner of a ship—
+
+- (a) to which the EU Ship Recycling Regulation applies; and
+- (b)[^key-ed49a62de647dd3cc03223dcca73ad7b] which is a United Kingdom ship
+
+wherever the ship maybe.
+
+(2)[^key-da1f4ea4288fe7cf54feee4f7f53120a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3)[^key-0fd81043821164b03016974fc8ec837f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) The ship owner is guilty of an offence if, in contravention of the EU Ship Recycling Regulation, any of the following apply—
+
+- (a) Annex I hazardous material is installed or used on the ship in a manner contrary to the Annex I control measures;
+- (b) the ship does not have on board a valid inventory of hazardous materials;
+- (c) the ship owner does not comply with any requirement of Article 6(1) to (4);
+- (d) the ship has not been submitted for an initial, renewal or final survey when one is required under Article 8.
+
+(5)[^key-5b435e658f3a9dd0eaeba8dd1deae515] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 10. Offences for contravention of the EU Ship Recycling Regulation in respect of ships other than United Kingdom ships[^key-d0b979b47e7b6c98676533ce5af63c51]
+
+(1) This regulation applies to the owner and master of a ship—
+
+- (a) to which the EU Ship Recycling Regulation applies;
+- (b) to which regulation 9 does not apply; and
+- (c) which is in port or at anchorage in the United Kingdom or in United Kingdom waters.
+
+(2) The owner and master are each guilty of an offence if, in contravention of the EU Ship Recycling Regulation, any of the following apply—
+
+- (a) Annex I hazardous material is installed or used on the ship in a manner contrary to the Annex I control measures;
+- (b) the ship does not have on board a valid inventory of hazardous materials;
+- (c) a statement of compliance that satisfies the requirements of Article 12(6) and (7) of the Regulation has not been issued in relation to the ship.
+
+## 11. Offences under regulations 9 and 10: supplementary
+
+(1) In proceedings for an offence under regulation 9 or 10, it is a defence for a person charged under either regulation to prove that they took all reasonable steps to avoid committing the offence.
+
+(2) A ship owner or master who is guilty of an offence under regulation 9 or 10 is liable—
+
+- (a) on summary conviction—
+  - (i) in England and Wales, to a fine;
+  - (ii) in Scotland or Northern Ireland, to a fine not exceeding the statutory maximum; or
+- (b) on conviction on indictment, to a fine or to imprisonment for a term not exceeding two years or to both.
+
+## 12. Inspectors: detention of certain ships and offences
+
+(1) The Secretary of State may appoint any person as an inspector—
+
+- (a) for the purposes of regulation 8; or
+- (b) to investigate whether an offence under regulation 9 or 10 has been committed.
+
+(2) An inspector appointed under paragraph (1) has the powers available to an inspector under section 259(2) of the 1995 Act, and subsections (7), and (9) to (12), of section 259 apply to the exercise of those powers.
+
+(3) For the purposes of paragraph (2), section 259(2)(h)(iii) (articles or substances detained as evidence) applies as if these Regulations were an instrument made under the 1995 Act.
+
+(4) A person (P) commits an offence if P—
+
+- (a) intentionally obstructs an inspector in the exercise of any power available to the inspector by virtue of paragraph (2);
+- (b) without reasonable excuse, does not comply with a requirement imposed in pursuance of section 259(2) as applied by paragraph (2) or prevents another person from complying with such a requirement; or
+- (c) without prejudice to the generality of sub-paragraph (b), makes a statement or signs a declaration which P knows is false, or recklessly makes a statement or signs a declaration which is false, in purported compliance with a requirement imposed in pursuance of section 259(2)(i) of the 1995 Act, as applied by paragraph (2).
+
+(5) A person who commits an offence under paragraph (4) is liable—
+
+- (a) on summary conviction—
+  - (i) in England and Wales, to a fine;
+  - (ii) in Scotland or Northern Ireland, to a fine not exceeding the statutory maximum; or
+- (b) on conviction on indictment, to a fine or to imprisonment for a term not exceeding two years or to both;
+
+(6) Nothing in section 259(2) as applied by paragraph (2) is to be taken to compel the production by any person of a document of which that person would on grounds of legal professional privilege be entitled to withhold production on an order for discovery in an action in the High Court or, as the case may be, on an order for the production of documents in an action in the Court of Session.
+
+(7) Any Regulations made under section 259(8) or 260(3) of the 1995 Act and amended from time to time apply for the purposes of the provisions of section 259 as applied by paragraph (2) as they apply for the purposes of the 1995 Act.
+
+## 13. Amendment of the Ship Recycling Facilities Regulations 2015
+
+(1) The Ship Recycling Facilities Regulations 2015 [^c23424241] are amended as follows.
+
+(2) In regulation 2 (interpretation), in the definition of “the European List”, after “established” insert “ and updated from time to time ”.
+
+## 14. Review
+
+(1) The Secretary of State must from time to time—
+
+- (a) carry out a review of the regulatory provision contained in these Regulations, except for that contained in regulation 7; and
+- (b) publish a report setting out the conclusions of the review.
+
+(2) The first report must be published before 31st December 2023.
+
+(3) Subsequent reports must be published at intervals not exceeding 5 years.
+
+(4) Section 30(4) of the Small Business, Enterprise and Employment Act 2015 [^c23424251] requires that a report published under this regulation must, in particular—
+
+- (a) set out the objectives intended to be achieved by the regulatory provision referred to in paragraph (1)(a);
+- (b) assess the extent to which those objectives are achieved;
+- (c) assess whether those objectives remain appropriate; and
+- (d) if those objectives remain appropriate, the extent to which they could be achieved in another way which involves less onerous regulatory provision.
+
+(5) In this regulation, “**regulatory provision**” has the same meaning as in sections 28 to 32 of the Small Business, Enterprise and Employment Act 2015 (see section 32 of that Act).
+
+Signed by authority of the Secretary of State for Transport
+
+Nusrat Ghani
+
+Parliamentary Under Secretary of State
+
+Department for Transport
+
+We consent
+
+Paul Maynard
+
+Rebecca Harris
+
+Two of the Lords Commissioners of Her Majesty's Treasury
+
+*(This note is not part of the Regulations)*
+
+These Regulations make provision in connection with those parts of EU Regulation No 1257/2013 of the European Parliament and of the Council on ship recycling (OJ No L 330, 10.12.2013) (“**the EU Ship Recycling Regulation**”) that concern requirements that apply in relation to the construction of a ship, the ship during its working life and its preparation for recycling. Separate Regulations have been made in connection with those parts of the EU Ship Recycling Regulation that concern requirements that apply to facilities used for ship recycling (the Ship Recycling Facilities Regulations 2015 (S.I. 2015/430) and the Ship Recycling Facilities (Northern Ireland) Regulations 2015 (S.R. (NI) 2015 No 229). References in this Note to Articles are to Articles of the EU Ship Recycling Regulation.
+
+Regulation 3 designates the Secretary of State as the administration in respect of the United Kingdom and makes connected provision in relation to “officers of the administration” as used in Article 8(1).
+
+Regulation 4 makes provision about the date by which a ship owner must, by virtue of Article 6(1)(b), notify the Secretary of State of an intention to recycle a ship.
+
+Regulation 5 confers, by reference to provisions of the Merchant Shipping Act 1995, powers on those carrying out an Article 8 survey (as defined in regulation 2) and provides for a criminal offence of obstruction in relation to those powers.
+
+Regulation 6 provides for a power for the Secretary of State to charge a fee in relation to the carrying out by a UK Government officer (as defined in regulation 2) of an Article 8 survey or the issuing etc of a certificate under Article 9. In doing so it applies certain provisions of the Merchant Shipping (Fees) Regulations 2018 (S.I. 2018/1104).
+
+Regulation 7 amends the Merchant Shipping (Port State Control) Regulations 2011 (S.I. 2011/2601) so that inspections carried out under those Regulations take account of the requirements of the EU Ship Recycling Regulation. Regulation 7 also makes connected amendment to enforcement provisions that relate to those inspections.
+
+Regulation 8 gives a power for a person carrying out an Article 8 survey or an inspector appointed under regulation 12 to detain a ship which is not subject to Part 1 of the Merchant Shipping (Port State Control) Regulations 2011. That power is available if, in the opinion of the person or inspector, the ship does not have on board a valid inventory of hazardous materials or certain hazardous materials are installed or used on the ship in a manner contrary to the Annex I control measures (as defined in regulation 2). Regulation 8 also provides for a criminal offence for failing to comply with a detention notice.
+
+Regulation 9 provides for offences in relation to United Kingdom ships or ships of other member States (including a ship of an EEA state).
+
+Regulation 10 provides for offences in relation to ships that are not United Kingdom ships or ships of other member States.
+
+Regulation 11 makes supplementary provision in connection with regulations 9 and 10.
+
+Regulation 12 gives a power to the Secretary of State to appoint an inspector for the purposes of regulation 8 (detaining a ship to which Part 1 of the Merchant Shipping (Port State Control) Regulations 2011 does not apply) or investigating whether an offence under regulation 9 or 10 has been committed. It confers, by reference to provisions of the Merchant Shipping Act 1995, powers on an inspector and provides for criminal offences in connection with those powers.
+
+Regulation 13 makes clear that the definition of “the European List” which is used in the Ship Recycling Facilities Regulations 2015 (S.I. 2015/430) is that list as it is updated from time to time.
+
+Regulation 14 imposes a requirement to review these Regulations.
+
+A full impact assessment has not been produced for this instrument as no, or no significant, impact on the private, voluntary or public sector is foreseen. A copy of this impact assessment is available from the Department for Transport, Great Minster House, 33 Horseferry Road, London, SW1P 4DR. It is also published alongside these Regulations and their Explanatory Memorandum at www.legislation.gov.uk.
+
+## Annotations
+
+[^c23424111]: Marginal citation: [1972 c.68](https://www.legislation.gov.uk/ukpga/1972/68). Section 2(2) was amended by section 27 of the [Legislative and Regulatory Reform Act 2006 (c.51)](https://www.legislation.gov.uk/ukpga/2006/51) and by section 3 of, and Part 1 of the Schedule to, the [European Union (Amendment) Act 2008 (c.7)](https://www.legislation.gov.uk/ukpga/2008/7).
+
+[^c23424121]: Marginal citation: [1973 c.51](https://www.legislation.gov.uk/ukpga/1973/51). Section 56(1) was amended by article 6(1)(e) of the [Treaty of Lisbon (Changes of Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043).
+
+[^c23424131]: Marginal citation: [Paragraph 1A](https://www.legislation.gov.uk/uksi/2018/1122/paragraph/1A) was inserted by section 28 of the Legislative and Regulatory Reform Act 2006 and amended by [S.I. 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043).
+
+[^c23424141]: Marginal citation: [S.I. 1993/595](https://www.legislation.gov.uk/uksi/1993/595) to which there are amendments not relevant to these Regulations.
+
+[^c23424151]: Marginal citation: [S.I. 1999/2027](https://www.legislation.gov.uk/uksi/1999/2027).
+
+[^c23424161]: Marginal citation: [S.I. 2008/301](https://www.legislation.gov.uk/uksi/2008/301).
+
+[^c23424171]: Marginal citation: OJ No L 330, 10.12.2013, p 1, amended by OJ No L 150, 14.6.2018, p. 155.
+
+[^c23424181]: Marginal citation: [1995 c. 21](https://www.legislation.gov.uk/ukpga/1995/21).
+
+[^c23424191]: Marginal citation: [1996 c.18](https://www.legislation.gov.uk/ukpga/1996/18).
+
+[^key-29dcd3726d04c793b55207b0308c4c49]: Textual amendment: Words in [reg. 2(3)](https://www.legislation.gov.uk/uksi/2018/1122/regulation/2/3) inserted (31.12.2020) by [The Ship Recycling (Facilities and Requirements for Hazardous Materials on Ships) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/277)](https://www.legislation.gov.uk/uksi/2019/277), [regs. 1](https://www.legislation.gov.uk/uksi/2019/277/regulation/1), [5(2)(a)](https://www.legislation.gov.uk/uksi/2019/277/regulation/5/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-9cafc177fd928b0b110bf1ebf7b798d0]: Textual amendment: Words in [reg. 2(3)](https://www.legislation.gov.uk/uksi/2018/1122/regulation/2/3) inserted (31.12.2020) by [The Ship Recycling (Facilities and Requirements for Hazardous Materials on Ships) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/277)](https://www.legislation.gov.uk/uksi/2019/277), [regs. 1](https://www.legislation.gov.uk/uksi/2019/277/regulation/1), [5(2)(b)](https://www.legislation.gov.uk/uksi/2019/277/regulation/5/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c23424201]: Marginal citation: [Section 258](https://www.legislation.gov.uk/uksi/2018/1122/section/258) was amended by the [Merchant Shipping and Maritime Security Act 1997 (c.28)](https://www.legislation.gov.uk/ukpga/1997/28) (“**the 1997 Act**”), Schedule 1, paragraph 4. For the definition of “qualifying foreign ship” in section 258, see [section 313A](https://www.legislation.gov.uk/uksi/2018/1122/section/313A) of the 1995 Act (inserted by the 1997 Act, Schedule 6, paragraph 20).
+
+[^c23424211]: Marginal citation: [S.I. 2018/1104](https://www.legislation.gov.uk/uksi/2018/1104).
+
+[^key-0b13b1a832e94a26fd4e5a994ec91f57]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/uksi/2018/1122/regulation/7) revoked (23.6.2026) by [The Merchant Shipping (Port State Control) Regulations 2026 (S.I. 2026/563)](https://www.legislation.gov.uk/uksi/2026/563), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/563/regulation/1/2), [Sch. 4](https://www.legislation.gov.uk/uksi/2026/563/schedule/4) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/563/regulation/4))
+
+[^key-97866dca99521e7ff4a34c17a9dd2fd1]: Textual amendment: Words in [reg. 8](https://www.legislation.gov.uk/uksi/2018/1122/regulation/8) heading substituted (23.6.2026) by [The Merchant Shipping (Port State Control) Regulations 2026 (S.I. 2026/563)](https://www.legislation.gov.uk/uksi/2026/563), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/563/regulation/1/2), [Sch. 4](https://www.legislation.gov.uk/uksi/2026/563/schedule/4) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/563/regulation/4))
+
+[^key-623200d2551803c5c204f44a44e5e363]: Textual amendment: Words in [reg. 8(1)](https://www.legislation.gov.uk/uksi/2018/1122/regulation/8/1) substituted (23.6.2026) by [The Merchant Shipping (Port State Control) Regulations 2026 (S.I. 2026/563)](https://www.legislation.gov.uk/uksi/2026/563), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/563/regulation/1/2), [Sch. 4](https://www.legislation.gov.uk/uksi/2026/563/schedule/4) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/563/regulation/4))
+
+[^key-b861525af478d310418847b4d15f060e]: Textual amendment: Words in [reg. 9](https://www.legislation.gov.uk/uksi/2018/1122/regulation/9) heading substituted (31.12.2020) by [The Ship Recycling (Facilities and Requirements for Hazardous Materials on Ships) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/277)](https://www.legislation.gov.uk/uksi/2019/277), [regs. 1](https://www.legislation.gov.uk/uksi/2019/277/regulation/1), [5(3)(a)](https://www.legislation.gov.uk/uksi/2019/277/regulation/5/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-ed49a62de647dd3cc03223dcca73ad7b]: Textual amendment: [Reg. 9(1)(b)](https://www.legislation.gov.uk/uksi/2018/1122/regulation/9/1/b) substituted (31.12.2020) by [The Ship Recycling (Facilities and Requirements for Hazardous Materials on Ships) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/277)](https://www.legislation.gov.uk/uksi/2019/277), [regs. 1](https://www.legislation.gov.uk/uksi/2019/277/regulation/1), [5(3)(b)](https://www.legislation.gov.uk/uksi/2019/277/regulation/5/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-da1f4ea4288fe7cf54feee4f7f53120a]: Textual amendment: [Reg. 9(2)](https://www.legislation.gov.uk/uksi/2018/1122/regulation/9/2) omitted (31.12.2020) by virtue of [The Ship Recycling (Facilities and Requirements for Hazardous Materials on Ships) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/277)](https://www.legislation.gov.uk/uksi/2019/277), [regs. 1](https://www.legislation.gov.uk/uksi/2019/277/regulation/1), [5(3)(c)](https://www.legislation.gov.uk/uksi/2019/277/regulation/5/3/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-0fd81043821164b03016974fc8ec837f]: Textual amendment: [Reg. 9(3)](https://www.legislation.gov.uk/uksi/2018/1122/regulation/9/3) omitted (31.12.2020) by virtue of [The Ship Recycling (Facilities and Requirements for Hazardous Materials on Ships) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/277)](https://www.legislation.gov.uk/uksi/2019/277), [regs. 1](https://www.legislation.gov.uk/uksi/2019/277/regulation/1), [5(3)(d)](https://www.legislation.gov.uk/uksi/2019/277/regulation/5/3/d); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-5b435e658f3a9dd0eaeba8dd1deae515]: Textual amendment: [Reg. 9(5)](https://www.legislation.gov.uk/uksi/2018/1122/regulation/9/5) omitted (31.12.2020) by virtue of [The Ship Recycling (Facilities and Requirements for Hazardous Materials on Ships) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/277)](https://www.legislation.gov.uk/uksi/2019/277), [regs. 1](https://www.legislation.gov.uk/uksi/2019/277/regulation/1), [5(3)(e)](https://www.legislation.gov.uk/uksi/2019/277/regulation/5/3/e); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-d0b979b47e7b6c98676533ce5af63c51]: Textual amendment: Words in [reg. 10](https://www.legislation.gov.uk/uksi/2018/1122/regulation/10) heading substituted (31.12.2020) by [The Ship Recycling (Facilities and Requirements for Hazardous Materials on Ships) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/277)](https://www.legislation.gov.uk/uksi/2019/277), [regs. 1](https://www.legislation.gov.uk/uksi/2019/277/regulation/1), [5(4)](https://www.legislation.gov.uk/uksi/2019/277/regulation/5/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c23424241]: Marginal citation: [S.I. 2015/430](https://www.legislation.gov.uk/uksi/2015/430), amended by [S.I. 2016/1154](https://www.legislation.gov.uk/uksi/2016/1154).
+
+[^c23424251]: Marginal citation: [2015 c.26](https://www.legislation.gov.uk/ukpga/2015/26). Section 30 was amended by the [Enterprise Act 2016 (c. 12)](https://www.legislation.gov.uk/ukpga/2016/12), [section 19](https://www.legislation.gov.uk/ukpga/2016/12/section/19), and by paragraph 36(a) of Part 2 of Schedule 8 to the [European Union (Withdrawal) Act 2018 (c. 16)](https://www.legislation.gov.uk/ukpga/2018/16), subject to the consequential provision made in regulation 5 of the [European Union (Withdrawal) Act 2018 (Commencement and Transitional Provisions) Regulations 2018 (S.I. 2018/808)](https://www.legislation.gov.uk/uksi/2018/808).

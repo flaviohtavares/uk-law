@@ -1,0 +1,353 @@
+---
+title: The Data Protection (Charges and Information) Regulations 2018
+id: uksi/2018/480
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2018-04-11'
+text_date: '2026-09-30'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2018/480
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2018/480/pdfs/uksiem_20180480_en.pdf
+- http://www.legislation.gov.uk/uksi/2018/480/pdfs/uksi_20180480_en.pdf
+- http://www.legislation.gov.uk/uksi/2018/480/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Data Protection (Charges and Information) Regulations 2018
+
+> Text as at 2026-09-30.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2018 No. 480
+
+Data Protection
+
+The Data Protection (Charges and Information) Regulations 2018
+
+Made
+
+11th April 2018
+
+Coming into force
+
+25th May 2018
+
+The Secretary of State makes the following Regulations in exercise of the powers conferred by sections 108(1) and (5) and 110(6) of the Digital Economy Act 2017 [^c22938941].
+
+The Secretary of State makes these Regulations—
+
+- (a) after consultation in accordance with section 109(1) of that Act; and
+- (b) having regard to the matters specified in section 109(2) of that Act.
+
+In accordance with section 110(2) of that Act, a draft of this instrument was laid before Parliament and approved by a resolution of each House of Parliament.
+
+## 1. Citation, commencement and interpretation
+
+(1) These Regulations may be cited as the Data Protection (Charges and Information) Regulations 2018 and come into force on 25th May 2018.
+
+(2) In these Regulations—
+
+- “**business**” includes any trade or profession;
+- “**charge period**” has the meaning given in regulation 2(6);
+- “[^key-62fd27d54cdf083596f8df05e5d63e55]**data controller**” means a person who is a controller for the purposes of Parts 5 to 7 of the Data Protection Act 2018 (see section 3(6) and (14) of that Act);
+- “**data controller's financial year**” means—
+  - (a) if the data controller [^c22938951] has been in existence for less than 12 months, the period of its existence, or
+  - (b) in any other case, the most recent financial year of the data controller that ended prior to the first day of the charge period in respect of which information is being provided, or a charge is being paid, pursuant to regulation 2;
+- “**exempt processing**” has the meaning given in the Schedule;
+- “financial year”, in paragraph (b) of the definition of “data controller's financial year”—
+  - (a) in relation to a company, is determined in accordance with section 390 of the Companies Act 2006 [^c22938961],
+  - (b) in relation to a limited liability partnership, is determined in accordance with section 390 of the Companies Act 2006 as applied by regulation 7 of the Limited Liability Partnerships (Accounts and Audit) (Application of Companies Act 2006) Regulations 2008 [^c22938971], and
+  - (c) in relation to any other case, means the period, covering 12 consecutive months, over which a data controller determines income and expenditure;
+- “**member of staff**” means any—
+  - (a) employee,
+  - (b) worker within the meaning given in section 296 of the Trade Union and Labour Relations (Consolidation) Act 1992 [^c22938981],
+  - (c) office holder, or
+  - (d) partner;
+- “**number of members of staff**” means the number calculated by—
+  - (a) ascertaining for each completed month of the data controller's financial year the total number of persons who have been members of staff of the data controller in that month,
+  - (b) adding together the monthly totals, and
+  - (c) dividing by the number of months in the data controller's financial year;
+- “**personal data**” has the same meaning as in Parts 5 to 7 of the Data Protection Act 2018 (see section 3(2) and (14) of that Act);
+- “**processing**”, in relation to personal data, means an operation or set of operations which is performed on personal data;
+- “**public authority**” means a public authority as defined by the Freedom of Information Act 2000 [^c22938991] or a Scottish public authority as defined by the Freedom of Information (Scotland) Act 2002 [^c22939001];
+- “turnover”—
+  - (a) in relation to a company, has the meaning given in section 474 of the Companies Act 2006,
+  - (b) in relation to a limited liability partnership, has the meaning given in section 474 of the Companies Act 2006 as applied by regulation 32 of the Limited Liability Partnerships (Accounts and Audit) (Application of Companies Act 2006) Regulations 2008, and
+  - (c) in relation to any other case, means the amounts derived by the data controller from the provision of goods and services falling within the data controller's ordinary activities, after deduction of—
+    - (i) trade discounts,
+    - (ii) value added tax, and
+    - (iii) any other taxes based on the amounts so derived.
+
+## 2. Requirements on data controllers
+
+(1) A data controller must comply with the requirements of this regulation unless all of the processing of personal data they undertake is exempt processing.
+
+(2) Within the first 21 days of each charge period a data controller must pay a charge to the Information Commission[^key-ea00aa694412f9ea4b30b7fa06c80e86], determined in accordance with regulation 3.
+
+(3) Within the first 21 days of each charge period a data controller must provide to the Information Commission[^key-a3bcdc64d3bff7f9ceff03598f310122] the following information, as of the first day of each charge period—
+
+- (a) the name and address of the data controller;
+- (b) whether the number of members of staff of the data controller is—
+  - (i) less than or equal to 10,
+  - (ii) greater than 10 but less than or equal to 250, or
+  - (iii) greater than 250;
+- (c) whether the turnover for the data controller's financial year is—
+  - (i) less than or equal to £632,000,
+  - (ii) greater than £632,000 but less than or equal to £36 million, or
+  - (iii) greater than £36 million; and
+- (d) whether the data controller is a public authority.
+
+(4) Paragraph (3)(c) does not apply to a data controller that is a public authority.
+
+(5) For the purposes of paragraph (3)(a)—
+
+- (a) the address of a registered company is that of its registered office, and
+- (b) the address of a person (other than a registered company) carrying on a business is that of the person's principal place of business in the UK.
+
+(6) In this regulation—
+
+- “**charge period**” means—
+  - (a) for a person who is a data controller immediately before 25th May 2018 and has paid a fee pursuant to section 18(5) or 19(4) of the Data Protection Act 1998 [^c22939011]—
+    - (i) the period of 12 months beginning on the date which is 12 months after the date on which that fee was most recently received by the Information Commissioner, and
+    - (ii) each subsequent period of 12 months;
+  - (b) for a person who is a data controller immediately before 25th May 2018 but has not paid a fee pursuant to section 18(5) or 19(4) of the Data Protection Act 1998—
+    - (i) the period of 12 months beginning on 25th May 2018, and
+    - (ii) each subsequent period of 12 months; or
+  - (c) for a person who becomes a data controller on or after 25th May 2018—
+    - (i) the period of 12 months beginning on the date on which the person becomes a data controller, and
+    - (ii) each subsequent period of 12 months;
+- “**registered company**” means a company registered under the Companies Acts as defined by section 2(1) of the Companies Act 2006.
+
+## 3. Amount of charge payable under regulation 2
+
+(1) For the purposes of regulation 2(2), the charge payable by a data controller in—
+
+- (a) tier 1 (micro organisations), is £52[^key-e8534c566a601a734c7f13c5e583bda1];
+- (b) tier 2 (small and medium organisations), is £78[^key-181268aaf6beedbd434b64226036cf8a];
+- (c) tier 3 (large organisations), is £3,763[^key-8ebab014c4162c0f85676932bd9be6b5].
+
+(2) For the purposes of this regulation, a data controller is, subject to paragraph (3)—
+
+- (a) in tier 1 if—
+  - (i) it has a turnover of less than or equal to £632,000 for the data controller's financial year,
+  - (ii) the number of members of staff of the data controller is less than or equal to 10,
+  - (iii) it is a charity, or
+  - (iv) it is a small occupational pension scheme;
+- (b) in tier 2 if it is not in tier 1 and—
+  - (i) it has a turnover of less than or equal to £36 million for the data controller's financial year, or
+  - (ii) the number of members of staff of the data controller is less than or equal to 250;
+- (c) in tier 3 if it is not in tier 1 or tier 2.
+
+(3) Paragraphs (2)(a)(i) and (2)(b)(i) are to be disregarded in relation to a public authority.
+
+(4) For the purposes of regulation 3(2), the turnover and number of members of staff is determined on the first day of the charge period to which the charge relates.
+
+(5) The applicable charge in paragraph (1) is reduced by £5.00 for a data controller that makes payment of the charge by direct debit.
+
+(6) In this regulation—
+
+- “charity”—
+  - (i) in relation to England and Wales, has the meaning given in section 1 of the Charities Act 2011 [^c22939021],
+  - (ii) in relation to Scotland, means a body entered in the Scottish Charity Register maintained under section 3 of the Charity and Trustee Investment (Scotland) Act 2005 [^c22939031], and
+  - (iii) in relation to Northern Ireland, has the meaning given in section 1 of the Charities Act (Northern Ireland) 2008 [^c22939041];
+- “**small occupational pension scheme**” has the meaning given in regulation 4 of the Occupational and Personal Pension Schemes (Consultation by Employers and Miscellaneous Amendment) Regulations 2006 [^c22939051].
+
+## 4. Requirements in respect of partnerships
+
+(1) In any case in which two or more persons carrying on a business in partnership are the data controllers in respect of personal data for the purposes of that business, the requirements of regulation 2 may be satisfied in respect of those persons in the name of the firm.
+
+(2) Where the requirements of regulation 2 are satisfied in the name of a firm under paragraph (1) above—
+
+- (a) the name to be specified for the purposes of regulation 2(3)(a) is the name of that firm, and
+- (b) the address to be specified for the purposes of regulation 2(3)(a) is the address of that firm's principal place of business.
+
+(3) For the purposes of regulations 2 and 3, references to the turnover and number of members of staff of a data controller which is a partnership are references to the turnover and number of members of staff of the firm as a whole.
+
+## 5. Requirements in respect of the governing body of, and head teacher at, any school
+
+(1) In any case in which a governing body of a school and a head teacher at a school are both data controllers for the purposes of that school, the requirements of regulation 2 may be satisfied in respect of that governing body and head teacher in the name of the school.
+
+(2) Where the requirements of regulation 2 are satisfied in the name of a school under paragraph (1) above, the name and address to be specified for the purposes of regulation 2(3)(a) are those of the school.
+
+(3) For the purposes of this regulation, in the definition of “number of members of staff” in regulation 1(2) any reference to a data controller is to be treated as a reference to the school.
+
+(4) In this regulation—
+
+- “**head teacher**” includes, in Northern Ireland, the principal of a school;
+- “school”—
+  - (a) in relation to England and Wales, has the same meaning as in the Education Act 1996 [^c22939061],
+  - (b) in relation to Scotland, has the same meaning as in the Education (Scotland) Act 1980 [^c22939071], and
+  - (c) in relation to Northern Ireland, has the same meaning as in the Education and Libraries (Northern Ireland) Order 1986 [^c22939081].
+
+## 6. Crown application
+
+These Regulations bind the Crown but do not apply to—
+
+- (a) Her Majesty in Her private capacity,
+- (b) Her Majesty in right of the Duchy of Lancaster, or
+- (c) the Duke of Cornwall.
+
+Margot James
+
+Minister of State
+
+Department for Digital, Culture, Media and Sport
+
+## SCHEDULE — EXEMPT PROCESSING
+
+Regulation 2(1)
+
+### 1. Interpretation
+
+In this Schedule—
+
+- “elected representative” has the meaning given in paragraph 23(3)(a) to (d) and (f) to (m) of Schedule 1 to the Data Protection Act 2018;[^key-d03839635a44a161a3893499cdbdce78]
+- “**judge**” includes—
+  - (a) a justice of the peace (or, in Northern Ireland, a lay magistrate),
+  - (b) a member of a tribunal, and
+  - (c) a clerk or other officer entitled to exercise the jurisdiction of a court or tribunal;
+- “**public register**” means any register which, pursuant to a requirement imposed—
+  - (a) by or under any enactment, or
+  - (b) in pursuance of any international agreement,
+
+is open to public inspection or open to any inspection by any person having a legitimate interest.
+
+### 2. Exempt processing
+
+(1) For the purposes of regulation 2(1), processing of personal data is exempt processing if it—
+
+- (a) falls within one or more of the descriptions of processing set out in sub-paragraph (2), or
+- (b) does not fall within one or more of those descriptions solely by virtue of the fact that disclosure of the personal data is made for one of the reasons set out in sub-paragraph (3).
+
+(2) The processing is—
+
+- (a) of personal data which is not being processed wholly or partly by automated means or recorded with the intention that it should be processed wholly or partly by automated means;
+- (b) undertaken by a data controller for the purposes of their personal, family or household affairs, including—
+  - (i) the processing of personal data for recreational purposes, and
+  - (ii) the capturing of images, in a public space, containing personal data;
+- (c) for the purpose of the maintenance of a public register;
+- (d) for the purposes of matters of administration in relation to the members of staff and volunteers of, or persons working under any contract for services provided to, the data controller;
+- (e) for the purposes of advertising, marketing and public relations in respect of the data controller's business, activity, goods or services;
+- (f) subject to sub-paragraph (4), for the purposes of—
+  - (i) keeping accounts, or records of purchases, sales or other transactions,
+  - (ii) deciding whether to accept any person as a customer or supplier, or
+  - (iii) making financial or financial management forecasts,
+
+  in relation to any activity carried on by the data controller;
+- (g) carried out by a body or association which is not established or conducted for profit and which carries out the processing for the purposes of establishing or maintaining membership or support for the body or association, or providing or administering activities for individuals who are either a member of the body or association or who have regular contact with it; [^key-25a7c8235a8b481295a9ff48aaf1073b]...
+- (h) carried out by—
+  - (i) a judge, or
+  - (ii) a person acting on the instructions, or on behalf, of a judge,
+
+  for the purposes of exercising judicial functions including the functions of appointment, discipline, administration or leadership of judges; or[^key-df7644f3483f14056e5b2a1e05930f57]
+- (i)[^key-5a41a98dfbf3c464233bb8dfb92e6b2e] carried out by—
+  - (i) a member of the House of Lords who is entitled to receive writs of summons to attend that House, or
+  - (ii) a person acting on the instructions, or on behalf, of such a member,
+
+  for the purposes of exercising the member’s functions as such;
+- (j) carried out by—
+  - (i) an elected representative, or
+  - (ii) a person acting on the instructions, or on behalf, of such a representative,
+
+  for the purposes of exercising the elected representative’s functions as such;
+- (k) carried out by—
+  - (i) a person seeking to become (or remain) an elected representative (a “prospective representative”), or
+  - (ii) a person acting on the instructions, or on behalf, of a prospective representative,
+
+  in connection with any activity which can be reasonably regarded as intended to promote or procure the election (or re-election) of the prospective representative.
+
+(3) The disclosure is—
+
+- (a) required by or under any enactment, by any rule of law or by the order of a court;
+- (b) made for the purposes of—
+  - (i) the prevention or detection of crime,
+  - (ii) the apprehension or prosecution of offenders, or
+  - (iii) the assessment or collection of any tax or duty or of any imposition of a similar nature,
+
+  and not otherwise being able to make the disclosure would be likely to prejudice any of the matters in (i) to (iii) above;
+- (c) necessary—
+  - (i) for the purpose of, or in connection with, any legal proceedings (including prospective legal proceedings), or
+  - (ii) for the purposes of obtaining legal advice,
+
+  or is otherwise necessary for the purposes of establishing, exercising or defending legal rights; or
+- (d) required for the purpose of avoiding an infringement of the privileges of either House of Parliament.
+
+(4) The processing of personal data by or obtained from a credit reference agency (within the meaning of section 145(8) of the Consumer Credit Act 1974 [^c22939091]) does not fall within the description of processing set out in sub-paragraph (2)(f).
+
+*(This note is not part of the Regulations)*
+
+These Regulations set out the circumstances in which data controllers are required to pay a charge, and provide information, to the Information Commissioner from 25th May 2018. They will replace the previous regime under the Data Protection (Notification and Notification Fees) Regulations 2000 (S.I. 2000/188).
+
+Regulation 2 requires a data controller to pay an annual charge to the Information Commissioner unless all the processing of personal data by the data controller is exempt processing. The descriptions of exempt processing are set out in paragraph 2 of the Schedule to the Regulations and cover non-automated processing; processing undertaken for the purposes of personal, family or household affairs; processing for the purpose of the maintenance of a public register; processing for the purposes of operations involving staff administration; processing for the purposes of advertising, marketing and public relations in respect of the data controller's own activities; processing for the purposes of accounts, record keeping and the making of financial forecasts; processing carried out by non profit-making organisations for certain purposes; and processing for the purposes of exercising judicial functions. An exemption from the requirements of regulation 2 is not lost solely because the data controller makes a disclosure of personal data in the circumstances described in paragraph 2(3) of the Schedule.
+
+Regulation 2 also sets out specified information that a data controller is required to provide to the Information Commissioner to determine the correct charge.
+
+Regulation 3 makes provision for the amount of a charge to be paid by a data controller to the Information Commissioner in respect of each “charge period”. Three tiers of charge are prescribed, in the amounts of £40, £60 and £2900 according to criteria relating to a data controller's turnover and number of members of staff (or only members of staff, for a public authority). Specific provision is made for charities and small occupational pension schemes and the charge is reduced if a data controller pays the charge by direct debit.
+
+Regulations 4 and 5 make special provision in two cases where there is more than one data controller in respect of personal data; regulation 4 provides for the requirements of regulation 2(2) to be satisfied by business partners in the name of the partnership and regulation 5 for the requirements to be satisfied by the governing body and head teacher of a school in the name of the school.
+
+Regulation 6 makes provision in respect of the extent to which these Regulations apply to the Crown.
+
+A full regulatory impact assessment has not been produced for this instrument as no significant impact on the private or voluntary sectors is foreseen.
+
+## Annotations
+
+[^c22938941]: Marginal citation: [2017 c. 30](https://www.legislation.gov.uk/ukpga/2017/30).
+
+[^key-62fd27d54cdf083596f8df05e5d63e55]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/480/regulation/1/2) inserted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 421](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/421) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210), [Sch. 20 para. 26](https://www.legislation.gov.uk/ukpga/2018/12/schedule/20/paragraph/26)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
+
+[^c22938951]: Marginal citation: “**Data controller**” for the purposes of these Regulations is defined by s.108(8) of the Digital Economy Act 2017.
+
+[^c22938961]: Marginal citation: [2006 c. 46](https://www.legislation.gov.uk/ukpga/2006/46).
+
+[^c22938971]: Marginal citation: [S.I. 2008/1911](https://www.legislation.gov.uk/uksi/2008/1911), to which there are amendments not relevant to these Regulations.
+
+[^c22938981]: Marginal citation: [1992 c. 52](https://www.legislation.gov.uk/ukpga/1992/52). There are amendments to this section which are not relevant to these Regulations.
+
+[^c22938991]: Marginal citation: [2000 c. 36](https://www.legislation.gov.uk/ukpga/2000/36).
+
+[^c22939001]: Marginal citation: [2002 asp 13](https://www.legislation.gov.uk/asp/2002/13).
+
+[^key-ea00aa694412f9ea4b30b7fa06c80e86]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/2018/480/regulation/2/2) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 3 para. 23](https://www.legislation.gov.uk/uksi/2026/386/schedule/3/paragraph/23); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
+
+[^key-a3bcdc64d3bff7f9ceff03598f310122]: Textual amendment: Words in [reg. 2(3)](https://www.legislation.gov.uk/uksi/2018/480/regulation/2/3) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 3 para. 23](https://www.legislation.gov.uk/uksi/2026/386/schedule/3/paragraph/23); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
+
+[^c22939011]: Marginal citation: [1998 c. 29](https://www.legislation.gov.uk/ukpga/1998/29).
+
+[^key-e8534c566a601a734c7f13c5e583bda1]: Textual amendment: Sum in [reg. 3(1)(a)](https://www.legislation.gov.uk/uksi/2018/480/regulation/3/1/a) substituted (17.2.2025) by [The Data Protection (Charges and Information) (Amendment) Regulations 2025 (S.I. 2025/63)](https://www.legislation.gov.uk/uksi/2025/63), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/63/regulation/1/1), [2(a)](https://www.legislation.gov.uk/uksi/2025/63/regulation/2/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2025/63/regulation/3))
+
+[^key-181268aaf6beedbd434b64226036cf8a]: Textual amendment: Sum in [reg. 3(1)(b)](https://www.legislation.gov.uk/uksi/2018/480/regulation/3/1/b) substituted (17.2.2025) by [The Data Protection (Charges and Information) (Amendment) Regulations 2025 (S.I. 2025/63)](https://www.legislation.gov.uk/uksi/2025/63), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/63/regulation/1/1), [2(b)](https://www.legislation.gov.uk/uksi/2025/63/regulation/2/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2025/63/regulation/3))
+
+[^key-8ebab014c4162c0f85676932bd9be6b5]: Textual amendment: Sum in [reg. 3(1)(c)](https://www.legislation.gov.uk/uksi/2018/480/regulation/3/1/c) substituted (17.2.2025) by [The Data Protection (Charges and Information) (Amendment) Regulations 2025 (S.I. 2025/63)](https://www.legislation.gov.uk/uksi/2025/63), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/63/regulation/1/1), [2(c)](https://www.legislation.gov.uk/uksi/2025/63/regulation/2/c) (with [reg. 3](https://www.legislation.gov.uk/uksi/2025/63/regulation/3))
+
+[^c22939021]: Marginal citation: [2011 c. 25](https://www.legislation.gov.uk/ukpga/2011/25).
+
+[^c22939031]: Marginal citation: [2005 asp 10](https://www.legislation.gov.uk/asp/2005/10).
+
+[^c22939041]: Marginal citation: [2008 c. 12](https://www.legislation.gov.uk/ukpga/2008/12). Section 1 is modified for certain purposes by S.R. [2013 No. 211](https://www.legislation.gov.uk/ukcm/2013/211), [art. 2](https://www.legislation.gov.uk/ukcm/2013/211/article/2).
+
+[^c22939051]: Marginal citation: [S.I. 2006/349](https://www.legislation.gov.uk/uksi/2006/349).
+
+[^c22939061]: Marginal citation: [1996 c. 56](https://www.legislation.gov.uk/ukpga/1996/56).
+
+[^c22939071]: Marginal citation: [1980 c. 44](https://www.legislation.gov.uk/ukpga/1980/44).
+
+[^c22939081]: Marginal citation: [S.I. 1986/594 (N.I. 3)](https://www.legislation.gov.uk/nisi/1986/594), as applied by [S.I. 1993/2810 (N.I. 12)](https://www.legislation.gov.uk/nisi/1993/2810) and [S.I. 2003/424 (N.I. 12)](https://www.legislation.gov.uk/nisi/2003/424).
+
+[^key-d03839635a44a161a3893499cdbdce78]: Textual amendment: Words in Sch. para. 1 inserted (1.4.2019) by [The Data Protection (Charges and Information) (Amendment) Regulations 2019 (S.I. 2019/478)](https://www.legislation.gov.uk/uksi/2019/478), [regs. 1](https://www.legislation.gov.uk/uksi/2019/478/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/478/regulation/2/2)
+
+[^key-25a7c8235a8b481295a9ff48aaf1073b]: Textual amendment: Word in Sch. para. 2(2)(g) omitted (1.4.2019) by virtue of [The Data Protection (Charges and Information) (Amendment) Regulations 2019 (S.I. 2019/478)](https://www.legislation.gov.uk/uksi/2019/478), [regs. 1](https://www.legislation.gov.uk/uksi/2019/478/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2019/478/regulation/2/3/a)
+
+[^key-df7644f3483f14056e5b2a1e05930f57]: Textual amendment: Word in Sch. para. 2(2)(h) inserted (1.4.2019) by [The Data Protection (Charges and Information) (Amendment) Regulations 2019 (S.I. 2019/478)](https://www.legislation.gov.uk/uksi/2019/478), [regs. 1](https://www.legislation.gov.uk/uksi/2019/478/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2019/478/regulation/2/3/b)
+
+[^key-5a41a98dfbf3c464233bb8dfb92e6b2e]: Textual amendment: Sch. para. 2(2)(i)-(k) inserted (1.4.2019) by [The Data Protection (Charges and Information) (Amendment) Regulations 2019 (S.I. 2019/478)](https://www.legislation.gov.uk/uksi/2019/478), [regs. 1](https://www.legislation.gov.uk/uksi/2019/478/regulation/1), [2(3)(c)](https://www.legislation.gov.uk/uksi/2019/478/regulation/2/3/c)
+
+[^c22939091]: Marginal citation: [1974 c. 39](https://www.legislation.gov.uk/ukpga/1974/39). Section 145(8) was substituted by S.I 2013/1881, art. 20(1) and (41)(g).

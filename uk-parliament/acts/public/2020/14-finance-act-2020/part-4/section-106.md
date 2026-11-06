@@ -1,0 +1,58 @@
+---
+title: Finance Act 2020, section 106
+act: Finance Act 2020
+section: '106'
+status: revised
+text_date: '2026-03-18'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2020/14/section/106
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Finance Act 2020, section 106
+
+> Text as at 2026-03-18.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 106. Taxation of coronavirus support payments
+
+*Extent: E+W+S+N.I.*
+
+(1) Schedule 16 makes provision about the taxation of coronavirus support payments.
+
+(2) In this section, and in that Schedule, “**coronavirus support payment**” means a payment made (whether before or after the passing of this Act) under any of the following schemes—
+
+- (a) the coronavirus job retention scheme;
+- (b) the self-employment income support scheme;
+- (c) any other scheme that is the subject of a direction given under section 76 of the Coronavirus Act 2020 (functions of Her Majesty's Revenue and Customs in relation to coronavirus or coronavirus disease);
+- (d) the coronavirus statutory sick pay rebate scheme;
+- (e) a coronavirus business support grant scheme;
+- (f) any scheme specified or described in regulations made under this section by the Treasury.
+
+(3) The Treasury may by regulations make provision about (including provision modifying)[^key-66f4daf13e54b3e4f553dce4f3bf93c0] the application of Schedule 16 to a scheme falling within subsection (2)(b)[^key-87a5a06297d2a3ed7369ec50ba5f6124] to (f) (including provision modifying paragraph 8 of that Schedule so that it applies to payments made under a coronavirus business support grant scheme).
+
+(4) Regulations under this section may make provision about coronavirus support payments made before (as well as after) the making of the regulations.
+
+(5) In this section, and in that Schedule—
+
+- “coronavirus” and “coronavirus disease” have the meaning they have in the Coronavirus Act 2020 (see section 1 of that Act);
+- “**coronavirus business support grant scheme**” means any scheme (whether announced or operating before or after the passing of this Act), other than a scheme within subsection (2)(a) to (d), under which a public authority makes grants to businesses with the object of providing support to those businesses in connection with any effect or anticipated effect (direct or indirect) of coronavirus or coronavirus disease;
+- “**the coronavirus job retention scheme**” means the scheme (as it has effect from time to time) that is the subject of the direction given by the Treasury on 15 April 2020 under section 76 of the Coronavirus Act 2020;
+- “**the coronavirus statutory sick pay rebate scheme**” means the scheme (as it has effect from time to time) given effect to by the Statutory Sick Pay (Coronavirus) (Funding of Employers' Liabilities) Regulations 2020 (S.I. 2020/512);
+- “**employment-related scheme**” means the coronavirus job retention scheme or the coronavirus statutory sick pay rebate scheme;
+- “**the self-employment income support scheme**” means the scheme (as it has effect from time to time) that is the subject of the direction given by the Treasury on 30 April 2020 under section 76 of the Coronavirus Act 2020.
+
+(6) Examples of coronavirus business support grant schemes as at 24 June 2020 include—
+
+- (a) the small business grant fund that is the subject of the guidance about that scheme and the retail, hospitality and leisure grant fund published by the Department for Business, Energy & Industrial Strategy on 1 April 2020;
+- (b) the retail, hospitality and leisure grant fund that is the subject of that guidance;
+- (c) the local authority discretionary grants fund that is the subject of the guidance about that scheme published by the Department for Business, Energy & Industrial Strategy on 13 May 2020;
+- (d) the schemes corresponding to the small business grant fund, retail and hospitality grant fund and local authority discretionary grants fund in Scotland, Wales and Northern Ireland.
+
+## Annotations
+
+[^key-66f4daf13e54b3e4f553dce4f3bf93c0]: Textual amendment: Words in [s. 106(3)](https://www.legislation.gov.uk/ukpga/2020/14/section/106/3) inserted (with effect in accordance with s. 32(4) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 32(1)(a)](https://www.legislation.gov.uk/ukpga/2021/26/section/32/1/a)
+
+[^key-87a5a06297d2a3ed7369ec50ba5f6124]: Textual amendment: Word in [s. 106(3)](https://www.legislation.gov.uk/ukpga/2020/14/section/106/3) substituted (with effect in accordance with s. 32(4) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 32(1)(b)](https://www.legislation.gov.uk/ukpga/2021/26/section/32/1/b)

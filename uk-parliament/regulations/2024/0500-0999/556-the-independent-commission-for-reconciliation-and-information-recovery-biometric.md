@@ -1,0 +1,137 @@
+---
+title: The Independent Commission for Reconciliation and Information Recovery (Biometric Material) Regulations 2024
+id: uksi/2024/556
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2024-04-23'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2024/556
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2024/556/pdfs/uksiem_20240556_en_001.pdf
+- http://www.legislation.gov.uk/uksi/2024/556/pdfs/uksi_20240556_en.pdf
+- http://www.legislation.gov.uk/uksi/2024/556/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Independent Commission for Reconciliation and Information Recovery (Biometric Material) Regulations 2024
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2024 No. 556
+
+Northern Ireland
+
+The Independent Commission for Reconciliation and Information Recovery (Biometric Material) Regulations 2024
+
+Made
+
+23rd April 2024
+
+Laid before Parliament
+
+24th April 2024
+
+Coming into force
+
+1st May 2024
+
+The Secretary of State makes these Regulations in exercise of the powers conferred by section 35(1) and (2) of the Northern Ireland Troubles (Legacy and Reconciliation) Act 2023[^f00001].
+
+## 1. Citation, commencement and extent
+
+(1) These Regulations may be cited as the Independent Commission for Reconciliation and Information Recovery (Biometric Material) Regulations 2024.
+
+(2) They come into force on 1st May 2024.
+
+(3) They extend to England and Wales, Scotland and Northern Ireland.
+
+## 2. Interpretation
+
+In these Regulations—
+
+- “**the Act**” means the Northern Ireland Troubles (Legacy and Reconciliation) Act 2023;
+- “**relevant ICRIR functions**” means the functions of the ICRIR[^f00002] listed in section 2(5) of the Act, except the function in paragraph (f);
+- “**preserved material**” means biometric material[^f00003] retained by virtue of regulation 3(2).
+
+## 3. Designation and retention of biometric material
+
+(1) The following collections of biometric material are designated for the purposes of section 35 of the Act—
+
+- (a) biometric material taken in Northern Ireland, and
+- (b) biometric material taken in England and Wales or Scotland from persons who were arrested for, or convicted of, an offence under any of the following Acts during the period beginning with 1st January 1966 and ending with 10th April 1998—
+  - (i) the Explosive Substances Act 1883[^f00004];
+  - (ii) the Prevention of Terrorism (Temporary Provisions) Act 1974[^f00005];
+  - (iii) the Prevention of Terrorism (Temporary Provisions) Act 1976[^f00006];
+  - (iv) the Prevention of Terrorism (Temporary Provisions) Act 1984[^f00007], and
+  - (v) the Prevention of Terrorism (Temporary Provisions) Act 1989[^f00008].
+
+(2) Where the destruction provisions[^f00009] would otherwise require biometric material in the collections designated under paragraph (1) to be destroyed, that material—
+
+- (a) must not be destroyed in accordance with those provisions, and
+- (b) must be retained until it is destroyed in accordance with these Regulations.
+
+## 4. Use of preserved material
+
+Preserved material may be used for the purposes of, or in connection with, the exercise of any of the relevant ICRIR functions.
+
+## 5. Periodic review and destruction of preserved material
+
+(1) The ICRIR must carry out periodic reviews of the need to retain preserved material.
+
+(2) Where, following a review under paragraph (1), the ICRIR determines that there is no need to retain preserved material, the ICRIR must give notice to the person holding the material that it is to be destroyed.
+
+(3) Within a reasonable period of concluding its work in connection with the relevant ICRIR functions, the ICRIR must give notice to each person holding preserved material that the material is to be destroyed.
+
+(4) A notice under paragraph (2) or (3) must–
+
+- (a) be in writing, and
+- (b) specify the preserved material to be destroyed.
+
+(5) Where a person receives a notice under paragraph (2) or (3), the person must destroy the material specified in the notice as soon as reasonably practicable.
+
+Steve Baker
+
+Minister of State
+
+Northern Ireland Office
+
+23rd April 2024
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations provide for the retention of biometric material, which would otherwise be destroyed, for use by the Independent Commission for Reconciliation and Information Recovery (“the ICRIR”).
+
+Regulation 3 designates collections of biometric material for the purposes of section 35 of the Northern Ireland Troubles (Legacy and Reconciliation) Act [2023 (c. 41)](https://www.legislation.gov.uk/ukpga/2023/41) (“**the Act**”). It also provides that the biometric material in the designated collections which would otherwise be required to be destroyed by the destruction provisions (as defined in section 35(4) of the Act) must not be destroyed and must be retained. This material is “**preserved material**” for the purposes of the Regulations.
+
+Regulation 4 provides that preserved material may be used for the purposes of, or in connection with, the exercise of the relevant ICRIR functions. The relevant ICRIR functions are defined as the ICRIR functions listed in section 2(5) of the Act except the function of producing the historical record.
+
+Regulation 5 requires the ICRIR to carry out periodic reviews of the need to retain preserved material. Where the ICRIR determines that there is no need to retain preserved material then regulation 5 provides that the ICRIR must give notice to the person holding the material that it is to be destroyed. In addition, within a reasonable period after the conclusion of the ICRIR’s work in connection with the relevant ICRIR functions, the ICRIR must notify persons holding preserved material that the preserved material is to be destroyed. Persons in receipt of a notice requiring destruction of preserved material must destroy the material specified in the notice as soon as reasonably practicable.
+
+A full impact assessment has not been produced for this instrument as no, or no significant, impact on the private, voluntary or public sector is foreseen.
+
+## Annotations
+
+[^f00001]: Footnote: [2023 c. 41](https://www.legislation.gov.uk/ukpga/2023/41).
+
+[^f00002]: Footnote: See the definition of “the ICRIR” in section 60(1) of the Act.
+
+[^f00003]: Footnote: See the definition of “biometric material” in section 35(4) of the Act.
+
+[^f00004]: Footnote: [1883 c. 3](https://www.legislation.gov.uk/ukpga/1883/3) (46 and 47 Vict).
+
+[^f00005]: Footnote: [1974 c. 56](https://www.legislation.gov.uk/ukpga/1974/56); this Act was repealed by section 18(1) of the Prevention of Terrorism (Temporary Provisions) Act [1976 (c. 8)](https://www.legislation.gov.uk/ukpga/1976/8).
+
+[^f00006]: Footnote: [1976 c. 8](https://www.legislation.gov.uk/ukpga/1976/8); this Act was repealed by section 18(1) of the Prevention of Terrorism (Temporary Provisions) Act [1984 (c. 8)](https://www.legislation.gov.uk/ukpga/1984/8).
+
+[^f00007]: Footnote: [1984 c. 8](https://www.legislation.gov.uk/ukpga/1984/8); this Act was repealed by Schedule 9 to the Prevention of Terrorism (Temporary Provisions) Act [1989 (c. 4)](https://www.legislation.gov.uk/ukpga/1989/4).
+
+[^f00008]: Footnote: [1989 c. 4](https://www.legislation.gov.uk/ukpga/1989/4); this Act ceased to have effect by virtue of section 2(1)(a) of the Terrorism Act [2000 (c.11)](https://www.legislation.gov.uk/ukpga/2000/11).
+
+[^f00009]: Footnote: See the definition of “destruction provisions” in section 35(4) of the Act.

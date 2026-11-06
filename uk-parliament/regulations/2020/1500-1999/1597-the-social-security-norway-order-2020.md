@@ -1,0 +1,170 @@
+---
+title: The Social Security (Norway) Order 2020
+id: uksi/2020/1597
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2020-12-16'
+text_date: '2023-10-12'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2020/1597
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2020/1597/pdfs/uksi_20201597_en.pdf
+- http://www.legislation.gov.uk/uksi/2020/1597/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Social Security (Norway) Order 2020
+
+> Text as at 2023-10-12.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2020 No. 1597
+
+Social Security
+
+The Social Security (Norway) Order 2020
+
+Made
+
+16th December 2020
+
+Coming into force
+
+1st January 2021
+
+At the Court at Windsor Castle, the 16th day of December 2020
+
+Present,
+
+The Queen’s Most Excellent Majesty in Council
+
+Whereas by the Social Security (Norway) Order 1991[^f00001] (hereinafter referred to as the “Principal Order”) made in pursuance of section 143 of the Social Security Act 1975[^f00002] and section 15 of the Child Benefit Act 1975[^f00003], it was ordered that these Acts be modified to such extent as may be required to give effect to the provisions contained in the Convention[^f00004] and the Protocol set out in the Schedule to the Principal Order (hereinafter referred to as the “Principal Convention”), so far as the same relates to England, Wales and Scotland:
+
+And Whereas by the Social Security (Norway) Order 1992[^f00005] (hereinafter referred to as the “Amending Order”) made in pursuance of section 179 of the Social Security Administration Act 1992[^f00006], it was ordered that the Social Security Administration Act 1992 and the Social Security Contributions and Benefits Act 1992[^f00007] be modified, and the Principal Order varied, to such extent as may be required to give effect to the provisions contained in the Agreement contained in the Notes exchanged on behalf of the Government of the United Kingdom of Great Britain and Northern Ireland and the Government of the Kingdom of Norway on 5th November 1992[^f00008] which amended the Principal Convention as set out in the Schedule to the Amending Order:
+
+And Whereas the Principal Convention was further amended by the Agreement[^f00009] contained in the Letters exchanged on behalf of the Government of the United Kingdom of Great Britain and Northern Ireland and the Government of the Kingdom of Norway on 7th December 2020 (which Letters are set out in the Schedule to this Order):
+
+And Whereas by section 179(1) and (2) of the Social Security Administration Act 1992, it is provided that Her Majesty may by Order in Council make provision for modifying or adapting specified legislation in its application to cases affected by agreement with the Governments of countries outside the United Kingdom providing for matters specified in that section:
+
+Now therefore, Her Majesty, in pursuance of section 179(1) and (2) of the Social Security Administration Act 1992 and of all other powers enabling Her to do so, is pleased, by and with the advice of Her Privy Council, to order as follows:
+
+## 1. Citation and commencement[^key-c0944fc6e64254496b97c1b8529fa5af]
+
+This Order may be cited as the Social Security (Norway) Order 2020 and comes into force on 1st January 2021.
+
+## 2. Modification of legislation and variation of the Principal Order[^key-27b389b2ef269c0327f3fbdac2bd6097]
+
+(1) Subject to paragraph (3), the legislation specified in paragraph (2) is modified, and the Principal Order is varied, to the extent required to give effect to the Principal Convention as amended by the Agreement set out in the Schedule to this Order, as it applies to England, Wales and Scotland.
+
+(2) The legislation specified in this paragraph is—
+
+- (a) the Social Security Administration Act 1992[^f00010];
+- (b) the Social Security Contributions and Benefits Act 1992;
+- (c) the Jobseekers Act 1995[^f00011];
+- (d) Chapter 2 of Part 1 of the Social Security Act 1998[^f00012];
+- (e) Part 2 of the Social Security Contributions (Transfer of Functions, etc) Act 1999[^f00013];
+- (f) the State Pension Credit Act 2002[^f00014];
+- (g) Part 1 of the Welfare Reform Act 2007[^f00015];
+- (h) Parts 1 and 4 of the Welfare Reform Act 2012[^f00016];
+- (i) Parts 1 and 5 of the Pensions Act 2014[^f00017];
+- (j) the following as they form part of domestic law by virtue of section 3 of the European Union (Withdrawal) Act 2018[^f00018]—
+  - (i) Regulation [(EC) No 883/2004](https://www.legislation.gov.uk/european/regulation/2004/0883) of the European Parliament and of the Council of 29 April 2004 on the coordination of social security systems;
+  - (ii) Regulation [(EC) No 987/2009](https://www.legislation.gov.uk/european/regulation/2009/0987) of the European Parliament and of the Council of 16 September 2009 laying down the procedure for implementing Regulation [(EC) No 883/2004](https://www.legislation.gov.uk/european/regulation/2004/0883) on the coordination of social security systems;
+- (k) regulations within the scope of section 179(5)[^f00019] of the Social Security Administration Act 1992.
+
+(3) Paragraph (1) does not modify legislation in so far as it would be within the legislative competence of the Scottish Parliament to make such modifications[^key-a1f85a9545ccfd187e20aed3659a7150]...[^f00020].
+
+(4) Paragraph (1) also modifies Part 3[^key-a8d041b7a1ab10c04348c5432a8d3924] of the Social Security Contributions (Transfer of Functions, etc) (Northern Ireland) Order 1999 so far as such provision relates to Northern Ireland[^f00021].
+
+## 3. Revocations[^key-b6961ed19cde251da0d9124a88c36151]
+
+The Social Security (Norway) Order 1992[^f00022] is revoked[^f00023].
+
+Richard Tilbrook
+
+Clerk of the Privy Council
+
+## SCHEDULE — Exchange of Letters between the Government of the United Kingdom of Great Britain and Northern Ireland and the Government of the Kingdom of Norway for the continued application and amendment of the Convention on Social Security between the Government of the United Kingdom of Great Britain and Northern Ireland and the Government of the Kingdom of Norway, and the Protocol concerning Medical Treatment, done at Oslo on 19 June 1990[^key-e0b3b80c8b9106b4194b02d1eea918e3]
+
+Article 2
+
+[image: see source](https://www.legislation.gov.uk/uksi/2020/1597/images/uksi_20201597_en_001)[image: see source](https://www.legislation.gov.uk/uksi/2020/1597/images/uksi_20201597_en_002)[image: see source](https://www.legislation.gov.uk/uksi/2020/1597/images/uksi_20201597_en_003)[image: see source](https://www.legislation.gov.uk/uksi/2020/1597/images/uksi_20201597_en_004)[image: see source](https://www.legislation.gov.uk/uksi/2020/1597/images/uksi_20201597_en_005)[image: see source](https://www.legislation.gov.uk/uksi/2020/1597/images/uksi_20201597_en_006)[image: see source](https://www.legislation.gov.uk/uksi/2020/1597/images/uksi_20201597_en_007)[image: see source](https://www.legislation.gov.uk/uksi/2020/1597/images/uksi_20201597_en_008)[image: see source](https://www.legislation.gov.uk/uksi/2020/1597/images/uksi_20201597_en_009)[image: see source](https://www.legislation.gov.uk/uksi/2020/1597/images/uksi_20201597_en_010)
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order makes provision for the modification of specified social security legislation, so as to give effect in Great Britain to the amendments agreed on 7th December 2020 (“the Agreement”) to the Convention on Social Security between the Government of the United Kingdom of Great Britain and Northern Ireland and the Government of the Kingdom of Norway, and the Protocol concerning Medical Treatment, done at Oslo at 19 June 1990 (“the Convention”).
+
+The Agreement provides for the changes to the Convention to take effect from 1st January 2021.
+
+This Order revokes the Social Security (Norway) Order 1992.
+
+The Order does not impose any costs on business, charities or the voluntary sector. A Tax Information and Impact Note has not been prepared for this instrument as it gives effect to previously announced policy.
+
+## Annotations
+
+[^f00001]: Footnote: [S.I. 1991/767](https://www.legislation.gov.uk/uksi/1991/767), relevant amending instruments are [S.I. 1992/3212](https://www.legislation.gov.uk/uksi/1992/3212), [1995/767](https://www.legislation.gov.uk/uksi/1995/767), and [2005/2765](https://www.legislation.gov.uk/uksi/2005/2765).
+
+[^f00002]: Footnote: [1975 c. 14](https://www.legislation.gov.uk/ukpga/1975/14). This provision is now replaced by section 179 of the Social Security Administration Act [1992 c. 5](https://www.legislation.gov.uk/ukpga/1992/5).
+
+[^f00003]: Footnote: [1975 c. 61](https://www.legislation.gov.uk/ukpga/1975/61). This provision is now replaced by section 179 of the Social Security Administration Act 1992.
+
+[^f00004]: Footnote: 1991 Cm 1331.
+
+[^f00005]: Footnote: [S.I. 1992/3212](https://www.legislation.gov.uk/uksi/1992/3212).
+
+[^f00006]: Footnote: [1992 (c. 5)](https://www.legislation.gov.uk/ukpga/1992/5). Section 179 has been relevantly amended by paragraph 2(2) of Schedule 6 to the Social Security Contributions (Transfer of Functions, etc.) (Northern Ireland) Order 1999 ([S.I. 1999/671](https://www.legislation.gov.uk/uksi/1999/671)).
+
+[^f00007]: Footnote: [1992 c. 4](https://www.legislation.gov.uk/ukpga/1992/4).
+
+[^f00008]: Footnote: Cm 2107.
+
+[^f00009]: Footnote: The Agreement is laid before Parliament in the Treaty Series for information.
+
+[^key-c0944fc6e64254496b97c1b8529fa5af]: Commencement: Art. 1 in force at 1.1.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1597/article/1)
+
+[^key-27b389b2ef269c0327f3fbdac2bd6097]: Commencement: Art. 2 in force at 1.1.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1597/article/1)
+
+[^f00010]: Footnote: No modifications are made in respect of community charge benefits, payments out of the social fund, Christmas bonus, statutory sick pay, or statutory maternity pay because the power in section 179(4)(b)(i)-(v) of the Social Security Administration Act 1992 excludes these benefits from the scope of the power.
+
+[^f00011]: Footnote: [1995 c. 18](https://www.legislation.gov.uk/ukpga/1995/18).
+
+[^f00012]: Footnote: [1998 c. 14](https://www.legislation.gov.uk/ukpga/1998/14).
+
+[^f00013]: Footnote: [1999 c. 2](https://www.legislation.gov.uk/ukpga/1999/2).
+
+[^f00014]: Footnote: [2002 c. 16](https://www.legislation.gov.uk/ukpga/2002/16).
+
+[^f00015]: Footnote: [2007 c. 5](https://www.legislation.gov.uk/ukpga/2007/5).
+
+[^f00016]: Footnote: [2012 c. 5](https://www.legislation.gov.uk/ukpga/2012/5).
+
+[^f00017]: Footnote: [2014 c. 19](https://www.legislation.gov.uk/ukpga/2014/19).
+
+[^f00018]: Footnote: [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16). Section 3 is to be amended by section 25(2) of the European Union (Withdrawal Agreement) Act [2020 (c. 1)](https://www.legislation.gov.uk/ukpga/2020/1). Regulation 883/2004 and 987/2009 as they form part of domestic law under section 3 of the European Union (Withdrawal Agreement) Act 2020 are revoked (with savings) by [S.I. 2020/1508](https://www.legislation.gov.uk/uksi/2020/1508).
+
+[^f00019]: Footnote: Subsection (5) of section 179 has been amended by paragraph 70(4) of Schedule 2 to the Jobseekers Act 1995; paragraph 21(4) of Schedule 2 to the State Pension Credit Act 2002; paragraph 1 of Schedule 6 to the Tax Credits Act [2002 (c. 21)](https://www.legislation.gov.uk/ukpga/2002/21); paragraph 10(29)(c) of Schedule 3 to the Welfare Reform Act 2007; paragraph 27(4) of Schedule 2, to the Welfare Reform Act 2012 and paragraph 25(4)(a) and (b) of Schedule 12, and paragraph 33(4)(a) and (b) of Schedule 16, to the Pensions Act 2014 and by regulation 3 of [S.I. 2011/2425](https://www.legislation.gov.uk/uksi/2011/2425).
+
+[^key-a1f85a9545ccfd187e20aed3659a7150]: Textual amendment: Words in [art. 2(3)](https://www.legislation.gov.uk/uksi/2020/1597/article/2/3) omitted (12.10.2023) by virtue of [The Social Security (Iceland) (Liechtenstein) (Norway) Order 2023 (S.I. 2023/1060)](https://www.legislation.gov.uk/uksi/2023/1060), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1060/article/1/2), [4(1)(a)](https://www.legislation.gov.uk/uksi/2023/1060/article/4/1/a)
+
+[^f00020]: Footnote: [S. I. 2017/444](https://www.legislation.gov.uk/uksi/2017/444).
+
+[^key-a8d041b7a1ab10c04348c5432a8d3924]: Textual amendment: Words in [art. 2(4)](https://www.legislation.gov.uk/uksi/2020/1597/article/2/4) substituted (12.10.2023) by [The Social Security (Iceland) (Liechtenstein) (Norway) Order 2023 (S.I. 2023/1060)](https://www.legislation.gov.uk/uksi/2023/1060), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1060/article/1/2), [4(1)(b)](https://www.legislation.gov.uk/uksi/2023/1060/article/4/1/b)
+
+[^f00021]: Footnote: [S.I. 1999/671](https://www.legislation.gov.uk/uksi/1999/671).
+
+[^key-b6961ed19cde251da0d9124a88c36151]: Commencement: Art. 3 in force at 1.1.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1597/article/1)
+
+[^f00022]: Footnote: [S.I. 1992/3212](https://www.legislation.gov.uk/uksi/1992/3212).
+
+[^f00023]: Footnote: The Agreement set out in the Schedule to this Order renders the Social Security (Norway) Order 1992 ([S.I. 1992/3212](https://www.legislation.gov.uk/uksi/1992/3212)) redundant.
+
+[^key-e0b3b80c8b9106b4194b02d1eea918e3]: Commencement: Sch. in force at 1.1.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1597/article/1)

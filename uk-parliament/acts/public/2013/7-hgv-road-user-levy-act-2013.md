@@ -1,0 +1,816 @@
+---
+title: HGV Road User Levy Act 2013
+id: ukpga/2013/7
+type: UnitedKingdomPublicGeneralAct
+category: primary
+status: revised
+made_date: '2013-02-28'
+text_date: '2026-04-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2013/7
+pdf_urls:
+- http://www.legislation.gov.uk/ukpga/2013/7/pdfs/ukpga_20130007_en.pdf
+- http://www.legislation.gov.uk/ukpga/2013/7/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# HGV Road User Levy Act 2013
+
+> Text as at 2026-04-01.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+HGV Road User Levy Act 2013
+
+2013 c. 7
+
+An Act to make provision charging a levy in respect of the use or keeping of heavy goods vehicles on public roads in the United Kingdom, and for connected purposes.
+
+\[28th February 2013\]
+
+Most Gracious Sovereign
+
+WE, Your Majesty's most dutiful and loyal subjects, the Commons of the United Kingdom in Parliament assembled, towards raising the necessary supplies to defray Your Majesty's public expenses, and making an addition to the public revenue, have freely and voluntarily resolved to make the provision hereinafter mentioned; and do therefore most humbly beseech Your Majesty that it may be enacted, and be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-9cacb7af9c81db25a5c446b8bb8a1a5a]
+
+## Charging provisions
+
+### 1. Charge to HGV road user levy[^key-daebdb012c0d4a25565b958b45c6c155]
+
+(1) A duty of excise, called HGV road user levy, is charged in respect of —[^key-043c534c11e0daeece6f4ccc507c8f82]
+
+- (a) any UK heavy goods vehicle that is used or kept on a road to which this Act applies by virtue of section 3(1A)(a), and
+- (b) any non-UK heavy goods vehicle that is used on a road to which this Act applies by virtue of section 3(1A)(b).
+
+(2) HGV road user levy is to be levied by the Secretary of State.
+
+### 2. Meaning of ““heavy goods vehicle””[^key-c5186f623a29a18e23c7de689a1db972]
+
+(1) In this Act “**"heavy goods vehicle”**” means a mechanically propelled vehicle with a revenue weight of 12,000 kilograms or more, or a heavy motor car within the meaning given by section 185 of the Road Traffic Act 1988, in respect of which vehicle excise duty—
+
+- (a) is charged at the rate applicable to the vehicle in accordance with Part 6 (vehicles used for exceptional loads) or Part 8 (goods vehicles) of Schedule 1 to the Vehicle Excise and Registration Act 1994 (“**"the 1994 Act”**”), or
+- (b) would be so charged but for an exemption granted on the basis that the vehicle is only temporarily in the United Kingdom.
+
+(2) In this Act—
+
+- “**"UK heavy goods vehicle”**” means a heavy goods vehicle within subsection (1)(a);
+- “**"non-UK heavy goods vehicle”**” means a heavy goods vehicle within subsection (1)(b).
+
+(3) The Secretary of State may by order amend subsection (1) by substituting a different number of kilograms for the number for the time being specified there.
+
+(4) An order under subsection (3) may make consequential amendments to Schedule 1.
+
+(5) An order under subsection (3) may not be made unless a draft of the statutory instrument containing it has been laid before the House of Commons and approved by a resolution of that House.
+
+### 3. Roads to which this Act applies[^key-6c00e21394d353c3574a3d7d258fe2c1]
+
+(1A)[^key-57bb9e39a9c041db74f8e42198932a10] Subject to subsection (2), this Act applies—
+
+- (a) in relation to UK heavy goods vehicles, to all public roads in the United Kingdom, and
+- (b) in relation to non-UK heavy goods vehicles, to any road which, under the system for assigning identification numbers to roads administered by the Secretary of State, Northern Ireland Ministers, Scottish Ministers or Welsh Ministers, has been assigned a number prefixed by A or M.
+
+(2) The Secretary of State may by order provide in respect of UK heavy goods vehicles or non-UK heavy goods vehicles (or both)[^key-61d9ac8cf6319f287342bfc8f989cde4]—
+
+- (a) that this Act does not apply to specified roads, or roads of a specified description, or
+- (b) that this Act applies only to specified roads, or roads of a specified description.
+
+(3) An order under subsection (2) may not be made unless a draft of the statutory instrument containing it has been laid before the House of Commons and approved by a resolution of that House.
+
+(4) In subsection (1A)(a)[^key-d7b019b8dd3b7f420ebe808250cd04bb] ““public road””—
+
+- (a) in England and Wales and Northern Ireland, means a road that is repairable at public expense;
+- (b) in Scotland, has the same meaning as in the Roads (Scotland) Act 1984 (see section 151 of that Act).
+
+### 4. Liability for levy[^key-85ed9d34020d6e2ea464c1935a1b2122]
+
+(1) In the case of a UK heavy goods vehicle—
+
+- (a) each person in whose name the vehicle is registered under the 1994 Act is liable for any HGV road user levy in respect of the vehicle, and
+- (b) any person (not within paragraph (a)) by whom the vehicle is kept is also liable.
+
+(2) In the case of a non-UK heavy goods vehicle—
+
+- (a) each person who is the holder of a Community licence in respect of the vehicle is liable for any HGV road user levy in respect of it, and
+- (b) any person (not within paragraph (a)) by whom the vehicle is kept is also liable.
+
+(3) Where two or more persons are liable for levy in respect of the same vehicle at the same time, their liability is joint and several.
+
+(4) Where a vehicle is stolen from a person liable for levy in respect of it—
+
+- (a) the person is exempt from liability after the day of the theft, but
+- (b) if the person recovers the vehicle, the exemption ceases at the start of the day of the recovery.
+
+(5) Where the person who is liable for levy in respect of a vehicle by reason of subsection (1)(a) sells or disposes of it, the vehicle is treated for the purposes of this section as ceasing to be registered in the person's name at the end of the day of the sale or disposal.
+
+(6) Where the person who is liable for levy in respect of a vehicle by reason of subsection (2)(a) sells or disposes of it, the person is treated for the purposes of this section as ceasing to be the holder of a Community licence in respect of the vehicle at the end of the day of the sale or disposal.
+
+(7) Subsections (4) to (6) do not affect liability for any levy—
+
+- (a) paid on or before the day of the theft, sale or disposal, or
+- (b) due to be paid under section 5 for a period beginning on or before that day.
+
+(8) In this section “**"Community licence”**” means a licence issued under Regulation [(EC) No. 1072/2009](https://www.legislation.gov.uk/european/regulation/2009/1072) of the European Parliament and of the Council dated 21 October 2009 on common rules for access to the international road haulage market as it has effect in EU law[^key-522180b51a84f2822ac6a1b4c521da84].
+
+## Payment, rebates, exemptions and reductions
+
+### 5. Payment of levy for UK heavy goods vehicles[^key-f1d89d3169d9348e100199394beaf65d]
+
+(1) This section applies to a UK heavy goods vehicle.
+
+(2)[^key-2adb061ebea1bc7765ee4c2994143a39][^key-b630a76c847d99bc926aa64bee9c5c93] HGV road user levy must be paid for all periods for which the vehicle is charged to vehicle excise duty.
+
+(3) Where vehicle excise duty is paid for a year, the levy must be paid for the same year.
+
+(4) Where vehicle excise duty is paid for 6 months, the levy must be paid for the same 6 months.
+
+(5) Levy for a year is charged at the appropriate rate shown in the column headed ““Yearly rate”” in Table 1 or Table 1A in Schedule 1 (depending on which of those Tables applies to the vehicle)[^key-d77b8cd39f754b87ef080fa2aaa7e565] .
+
+(6) Levy for 6 months is charged at the appropriate rate shown in the column headed ““Half-yearly rate”” in that Table.
+
+(7) The appropriate rate depends on what Band the vehicle is in, and this is given by paragraph 1(3) of that Schedule and Table 1B[^key-a4245cdfeb53e8dcd2e1a5f08a7f3da1].
+
+### 6. Payment of levy for non-UK heavy goods vehicles[^key-7efec3567e51f7c45a84bdeee59c9aa2]
+
+(1) This section applies to a non-UK heavy goods vehicle.
+
+(2)[^key-089a0499c7472b85b7aa013710caa197] HGV road user levy must be paid in respect of each day on which the vehicle is used [^key-619ddfb1f50ab8b3ad520bf2f080afb5]... on a road to which this Act applies by virtue of section 3(1A)(b)[^key-2692b0c428ba1dcf5572c7e8bcdc4ae3].
+
+(3) It may be paid for a period of one year, or any shorter period, chosen by the person paying the levy.
+
+(4) Levy for a year is charged at the appropriate rate shown in the column headed ““Yearly rate”” in Table 1 or Table 1A in Schedule 1 (depending on which of those Tables applies to the vehicle)[^key-f4450a825ff7666d8b2254fa8b4c5470].
+
+(5) Levy for—
+
+- (a) a period of 6 months, or
+- (b) 6 months out of a longer period,
+
+is charged at the appropriate rate shown in the column headed ““Half-yearly rate”” in that Table.
+
+(6) Levy for—
+
+- (a) one or more whole months (fewer than 6), or
+- (b) so much of a period (not taken into account under subsection (5)) as comprises one or more whole months,
+
+is charged at the appropriate rate shown in the column headed ““Monthly rate”” in that Table.
+
+(7) Levy for—
+
+- (a) a period (less than a month) of one or more whole weeks, or
+- (b) so much of a period (not taken into account under subsection (5) or (6)) as comprises one or more whole weeks,
+
+is charged at the appropriate rate shown in the column headed ““Weekly rate”” in that Table.
+
+(8) Levy for—
+
+- (a) a period (less than a week) of one or more days, or
+- (b) so much of a period as is not taken into account under subsection (5), (6) or (7),
+
+is charged at the appropriate rate shown in the column headed ““Daily rate”” in that Table.
+
+(9) The appropriate rate depends on what Band the vehicle is in, and this is given by paragraph 1(3) of that Schedule and Table 1B[^key-6f8cf6dafb1ed1007e311cf6aaae3a03].
+
+### 7. Rebate of levy[^key-1cfe6f6bdf5467b311f2a9cedf8df36d][^key-7a48e1cf7225d33fd7f66954a63b495f]
+
+(1) Where—
+
+- (a) HGV road user levy has been paid in respect of a vehicle for a period of more than one month (““the levy period””), and
+- (b) a rebate entitlement arises more than one month before the end of the levy period,
+
+the person who paid the levy is entitled to the appropriate rebate of levy on making an application to the Secretary of State.
+
+(2) A rebate entitlement arises in the following cases—
+
+- (a) the vehicle is stolen;
+- (b) the vehicle is destroyed and the person who paid the levy notifies the Secretary of State of that fact;
+- (c)[^key-586b4149cf07cb4b469bd726e6a90921] the person who paid the levy notifies the Secretary of State that—
+  - (i) in the case of a UK heavy goods vehicle, the vehicle is not intended to be used or kept on a road to which this Act applies by virtue of section 3(1A)(a) at any time during the rest of the levy period, or
+  - (ii) in the case of a non-UK heavy goods vehicle, the vehicle is not intended to be used on a road to which this Act applies by virtue of section 3(1A)(b) at any time during the rest of the levy period;
+- (d) the vehicle has been sold or disposed of and the person who paid the levy provides the Secretary of State with prescribed information, in the prescribed manner, in relation to the sale or disposal.
+
+(2A)[^key-5fcf3b9bc3a113a0b2ac7408dd0ad077] A rebate entitlement also arises where—
+
+- (a) HGV road user levy has been paid in respect of a vehicle at the rate applicable to a vehicle that does not meet Euro 6 emissions standards, and
+- (b) the vehicle becomes a vehicle that meets those standards.
+
+(3) The appropriate rebate where the levy was paid for a whole year is—
+
+[formula: see source](https://www.legislation.gov.uk/ukpga/2013/7)
+
+where—
+
+A is one-tenth of the amount paid;
+
+B is the number of months in the period beginning with the start of the levy period and ending with the date of the application, rounded up (if not an exact number of months) to the next whole number.
+
+(4) The appropriate rebate in any other case is—
+
+[formula: see source](https://www.legislation.gov.uk/ukpga/2013/7)
+
+where—
+
+C is one-tenth of the amount that was the yearly rate of levy for the vehicle at the start of the levy period;
+
+D is the number of whole months in the period beginning with the day after the date of the application and ending with the end of the levy period.
+
+(5) The Secretary of State may specify conditions with which a person must comply before making an application for a rebate.
+
+(6) The conditions that may be specified include (in particular)—
+
+- (a) a condition requiring that information which has to be provided to the Secretary of State is transmitted by specified electronic means;
+- (b) in a case within subsection (2)(a), conditions relating to the reporting to the police that the vehicle has been stolen.
+
+(7) The Secretary of State may specify an administration fee for an application for a rebate of HGV road user levy, to be deducted from the rebate.
+
+(8) No rebate is due—
+
+- (a) where a fee is specified under subsection (7) and the amount given by subsection (3) or (4) is less than the amount of the fee;
+- (b) where subsection (3) applies and the amount given by that subsection is nil or a negative amount.
+
+(9) Matters specified under this section must be published in whatever way the Secretary of State thinks appropriate.
+
+(10) The Secretary of State may by regulations provide for rebates of HGV road user levy in circumstances other than those set out in this section.
+
+### 8. Exemptions and reductions[^key-5da3fa522fe7bc2cf312775f544292d1]
+
+(1) HGV road user levy is not charged in respect of vehicles within paragraph 9(2) of Schedule 1 to the 1994 Act (certain rigid goods vehicles charged to vehicle excise duty at the basic goods vehicle rate).
+
+(2) HGV road user levy is not charged in respect of a vehicle for a period during which the vehicle is licensed by a licence under section 11 of the 1994 Act (trade licences).
+
+(3) Regulations may provide for HGV road user levy not to be charged, or to be charged at a reduced rate, in respect of prescribed categories of heavy goods vehicle.
+
+## Collection and enforcement
+
+### 9. Collection of levy[^key-1e5798f9c45ed1655e3ab7b230bc6354]
+
+(1) For the purpose of levying HGV road user levy the Secretary of State and his or her officers (including any individual or body authorised by the Secretary of State to act as his or her agent for the purposes of this Act) have the same powers, duties and liabilities as the Commissioners for Her Majesty's Revenue and Customs and their officers have with respect to—
+
+- (a) duties of excise (other than duties on imported goods), and
+- (b) other matters (except matters relating only to duties on imported goods),
+
+under the enactments relating to duties of excise.
+
+(2) The enactments relating to duties of excise or punishment and penalties in connection with those duties (other than enactments relating only to duties on imported goods) apply accordingly.
+
+(3) Subsections (1) and (2) have effect subject to the provisions of this Act (including in particular, in the case of subsection (2), subsection (4) of this section, section 11(3) and paragraphs 1 and 2 of Schedule 2).
+
+(4) HGV road user levy is to be paid into the Consolidated Fund.
+
+### 10. Power to stop[^key-8c9ee3a3f7c7c172c728fc6163a423d3]
+
+(1) A stopping officer may direct the driver of a mechanically propelled vehicle in Great Britain to stop the vehicle if it appears to the officer that the vehicle might be a heavy goods vehicle.
+
+(2) The power conferred by subsection (1) is exercisable for the purpose of enabling checks to be carried out to establish whether any HGV road user levy is unpaid in respect of the vehicle.
+
+(3) In this section “**"stopping officer”**” means an officer appointed under section 66B of the Road Traffic Act 1988.
+
+### 11. Offence of using or keeping heavy goods vehicle if levy not paid[^key-bd8d8d0cc07c2779ad48ceb00aede304][^key-c0e43ceb1633675978fe7a05f551fb19]
+
+(1) If a person uses or keeps a UK heavy goods vehicle on a road to which this Act applies by virtue of section 3(1A)(a), or uses a non-UK heavy goods vehicle on a road to which this Act applies by virtue of section 3(1A)(b), on a day in respect of which the HGV road user levy charged in respect of the vehicle has not been paid—[^key-a22e2a5fa366f72ca623ead34ad35dcd]
+
+- (a) that person commits an offence, and
+- (b) each person (not within paragraph (a)) who is liable for the levy also commits an offence.
+
+(2) A person guilty of an offence under this section is liable on summary conviction to a fine not exceeding level 5 on the standard scale.
+
+(3) A fine imposed under this section that would not otherwise be paid into the Consolidated Fund is to be paid into the Consolidated Fund.
+
+### 12. Legal proceedings[^key-b7b5a33c901c2aa2103892c4e7aa45fc]
+
+Schedule 2 (legal proceedings) has effect.
+
+### 13. Fixed penalties[^key-fa41f219ad808d22b2dabe54bc674b25][^key-ca36e920317f673b520d3eb6e1893943]
+
+In Schedule 3 to the Road Traffic Offenders Act 1988 (fixed penalty offences), at the end there is inserted—
+
+> *Offence under the HGV Road User Levy Act 2013 (c. 7)*
+>
+> |  |  |
+> | --- | --- |
+> | Section 11 of the HGV Road User Levy Act 2013 | Using or keeping heavy goods vehicle if HGV road user levy not paid. |
+
+## Miscellaneous
+
+### 14. Register of levy paid or due to be paid[^key-82fe69ac4b9be3d71bc990587b51ac64]
+
+(1) The Secretary of State may[^key-860d34d1bd8ea1f4484e7b050da63339] set up and keep a register of the heavy goods vehicles in respect of which HGV road user levy has been paid.
+
+(1A)[^key-e01326d055f3fe553efb1cf28d69151b] Subsections (2) to (5) apply in relation to any register set up and kept under subsection (1).
+
+(2) In relation to each vehicle the register must show—
+
+- (a) the registration number;
+- (b) the country or territory under the law of which the vehicle is registered;
+- (c) the period in respect of which levy has been paid or, in the case of UK heavy goods vehicles, the date from which levy is next due to be paid.
+
+(3) The information referred to in subsection (2) must be shown on a website that is, and indicates that it is, kept by or on behalf of the Secretary of State.
+
+(4) The website must be free to view but need not be accessible to all members of the public[^key-d55f5c471d8f361660fe2bdad40ab75d].
+
+(5) Neither the register nor the website need include entries for vehicles in respect of which levy has been paid only for periods that have expired.
+
+### 14A. Disclosure of information by Revenue and Customs[^key-29aff352a5dd209fb9866d1316e25cfc]
+
+(1) Information which is held as mentioned in section 18(1) of the Commissioners for Revenue and Customs Act 2005 (confidentiality) may be disclosed by or with the authority of the Commissioners for Her Majesty's Revenue and Customs to—
+
+- (a) the Secretary of State, or
+- (b) a person providing services to the Secretary of State,
+
+for the purpose of enabling or assisting the exercise of any of the Secretary of State's functions under or by virtue of this Act.
+
+(2) Information disclosed in accordance with subsection (1) may not be further disclosed except—
+
+- (a) to any other person to whom it could have been disclosed in accordance with that subsection, or
+- (b) with the consent of the Commissioners for Her Majesty's Revenue and Customs (which may be general or specific).
+
+(3) If, in contravention of subsection (2), any revenue and customs information relating to a person is disclosed and the identity of the person—
+
+- (a) is specified in the disclosure, or
+- (b) can be deduced from it,
+
+section 19 of the Commissioners for Revenue and Customs Act 2005 (offence of wrongful disclosure) applies as it applies in relation to a disclosure of such information in contravention of section 20(9) of that Act.
+
+(4) In subsection (3) “**revenue and customs information relating to a person**” has the meaning given by section 19(2) of the Commissioners for Revenue and Customs Act 2005.
+
+(5) Nothing in this section authorises the making of a disclosure which contravenes the data protection legislation[^key-5be37997b62ec5e64746694fc5407d01].
+
+(6)[^key-3d15dd03f23f44d8d1e981860b8d5521] In this section, “**the data protection legislation**” has the same meaning as in the Data Protection Act 2018 (see section 3 of that Act).
+
+### 15. HGV road user levy and vehicle licences[^key-ba307c48d89324cad4a1a8070b00f85a]
+
+(1) In section 7 of the 1994 Act (issue of vehicle licences), after subsection (5) there is inserted—
+
+> (5A) The Secretary of State is not required to issue a vehicle licence for a heavy goods vehicle if not satisfied that the appropriate HGV road user levy has been paid.
+
+(2) In subsection (8) of that section, for ““section ““special vehicle”””” there is substituted “section—
+
+> ”the appropriate HGV road user levy”, in relation to a vehicle licence, means the HGV road user levy charged for the period for which the licence would have effect;
+>
+> “**"heavy goods vehicle”**” has the same meaning as in the HGV Road User Levy Act 2013;
+>
+> ““special vehicle””
+
+.
+
+### 16. Power to install equipment for detection of offences under section 11[^key-c980ea5c5498e72ec81a148d1f1e8b4f]
+
+(1) In section 95A of the Highways Act 1980 (power of highway authority to install equipment for detection of traffic offences)—
+
+- (a) in the sidenote, after ““traffic offences”” there is inserted “ etc ”;
+- (b) in the body of the section, after ““traffic offences”” there is inserted “ or offences under section 11 of the HGV Road User Levy Act 2013 (using or keeping heavy goods vehicle if HGV road user levy not paid) ”.
+
+(2) In section 49A of the Roads (Scotland) Act 1984 (power of roads authority to install equipment for detection of traffic offences)—
+
+- (a) in the sidenote and in the preceding cross-heading, after ““traffic offences”” there is inserted “ etc ”;
+- (b) in the body of the section, after ““traffic offences”” there is inserted “ or offences under section 11 of the HGV Road User Levy Act 2013 (using or keeping heavy goods vehicle if HGV road user levy not paid) ”.
+
+(3) In Article 65A of the Roads (Northern Ireland) Order 1993 (S.I. 1993/3160 (N.I. 15)) (power of Department to install equipment for detection of traffic offences)—
+
+- (a) in the heading, after ““traffic offences”” there is inserted “ etc ”;
+- (b) in the body of the Article, after ““traffic offences”” there is inserted “ or offences under section 11 of the HGV Road User Levy Act 2013 (using or keeping heavy goods vehicle if HGV road user levy not paid) ”.
+
+## Regulations and orders
+
+### 17. Regulations
+
+(1) The Secretary of State may make regulations generally for the purpose of carrying into effect the provisions of this Act.
+
+(2) Regulations under this Act—
+
+- (a) may make different provision for different cases or circumstances (including different provision for UK heavy goods vehicles and non-UK heavy goods vehicles);
+- (b) may make different provision for different parts of the United Kingdom;
+- (c) may provide for exemption from any provision of the regulations;
+- (d) may make incidental, consequential, supplementary, transitional, transitory or saving provision.
+
+(3) Nothing in any other provision of this Act limits subsections (1) and (2).
+
+(4) A power under this Act to make regulations is exercisable by the Secretary of State by statutory instrument.
+
+(5) A statutory instrument containing regulations under this Act is subject to annulment in pursuance of a resolution of the House of Commons.
+
+### 18. Orders
+
+(1) An order under this Act may make transitional, transitory or saving provision.
+
+(2) A power under this Act to make an order is exercisable by statutory instrument.
+
+## General
+
+### 19. Interpretation
+
+(1) In this Act—
+
+- “**"the 1994 Act”**” means the Vehicle Excise and Registration Act 1994;
+- ““heavy goods vehicle””, ““UK heavy goods vehicle”” and ““non-UK heavy goods vehicle”” each has the meaning given in section 2;
+- “**"prescribed”**” means prescribed by regulations;
+- “**"revenue weight”**” has the same meaning as in the 1994 Act (see section 60A of that Act) , subject to paragraph 5(2) of Schedule 1[^key-72ad71e009285b0dcffee026b23825d2].
+
+(2) Regulations under paragraph 13 of Schedule 1 to the 1994 Act (under which goods vehicles are in some cases treated as having a lower revenue weight for the purposes of Part 8 of that Schedule) have effect also for the purposes of this Act.
+
+(3) For the purposes of this Act—
+
+- (a) HGV road user levy is paid in respect of a particular day if the levy charged in respect of the vehicle in question is paid either for that day or for a period which includes that day;
+- (b) where a person receives a rebate of levy in respect of a vehicle as a result of an entitlement arising under section 7(2)[^key-531d49dba4c1dd09fb72ddeda0073bf8], the person is treated as not having paid levy in respect of the vehicle for the period starting with the day after the date of the application for the rebate and ending with the end of the levy period.
+- (c)[^key-f884a9a24abb0449e9586c10e413e0a4] where a person receives a rebate of levy in respect of a vehicle as a result of an entitlement arising under section 7(2A), the person is treated as not having paid levy in respect of the vehicle for the period starting with the first day of the month after the month in which the application for a rebate was made and ending with the end of the levy period.
+
+(4)[^key-28a61a09edcc32d50b7a2144a3bf1567] For the purposes of subsection (3)(c), a month starts on the day of the month on which the levy period started.
+
+### 20. Extent
+
+This Act extends to England and Wales, Scotland and Northern Ireland, except that an amendment by this Act of another enactment has the same extent as the enactment amended.
+
+### 21. Commencement
+
+(1) This Act comes into force in accordance with provision made by order by the Secretary of State.
+
+(2) Different provision may be made under subsection (1) for different purposes.
+
+In particular, different transitional provision (made by virtue of section 18(1)) may be made for UK heavy goods vehicles and non-UK heavy goods vehicles.
+
+(3) Subsection (1) does not apply to sections 17 to 22 (which accordingly come into force on the day on which this Act is passed).
+
+### 22. Short title
+
+This Act may be cited as the HGV Road User Levy Act 2013.
+
+SCHEDULES
+
+## SCHEDULE 1 — Rates of HGV road user levy
+
+Sections 5 and 6
+
+**1.**[^key-56b7f7db9750251d7bc00fb91c337533][^key-682c27a163f254906450d2c4fbae6ecd] (1) Table 1 applies to a heavy goods vehicle that meets Euro 6 emissions standards.
+
+(2) Table 1A applies to a heavy goods vehicle that does not meet Euro 6 emissions standards.
+
+(3) Table 1B sets out the Bands for the purposes of Tables 1 and 1A (and those Bands depend on the revenue weight of the vehicle).[^key-0aff4477f4bd87f1c800263ffd1b783d]
+
+**2.**[^key-907e2cbed92f5a68782958753ad1ef76] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**3.**[^key-907e2cbed92f5a68782958753ad1ef76] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**4.**[^key-907e2cbed92f5a68782958753ad1ef76] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**5.**[^key-1357a69627d9938cd7ae391adbf09ae9] (1)[^key-0bfcf14d906444e7400dce1f95801075] In this Schedule—
+
+- (a) [^key-d3a6391a19af6206a32db4e2b13f07db]... “rigid goods vehicle” [^key-a9219a1610737e7980126255e8b92663]... has the same meaning as in the 1994 Act (see section 62(1) of that Act);
+- (b) a reference to a revenue weight of more than 11,999 kilograms is to be read as a reference to a revenue weight of 12,000 kilograms or more.
+- (c)[^key-b47c7bd209b03e71b60281f0773c5a6e] a heavy goods vehicle meets Euro 6 emissions standards if it complies with the emission limits set out in Annex 1 of Regulation [(EC) No. 595/2009](https://www.legislation.gov.uk/european/regulation/2009/0595) of the European Parliament and of the Council of 18th June 2009 on type approval of motor vehicles and engines with respect to emissions from heavy duty vehicles (Euro VI) and on access to repair and maintenance information.
+
+(2)[^key-8f7a099b65a74d5a43501578d2500b30] For the purposes of this Schedule—
+
+- (a) in calculating the revenue weight of a rigid goods vehicle drawing a trailer weighing less than 4,000 kilograms, the weight of the trailer is to be ignored;
+- (b) in calculating the revenue weight of a rigid goods vehicle drawing a trailer weighing 4,000 kilograms or more, the weight of the trailer is to be added to the revenue weight of the vehicle.
+
+TABLE 1: VEHICLES MEETING EURO 6 EMISSIONS STANDARDS — RATES FOR EACH BAND[^key-7ae04481c844bd6c60e5ea5293fa3c5f]
+
+| Band | Daily rate | Weekly rate | Monthly rate | Half-yearly rate | Yearly rate |
+| --- | --- | --- | --- | --- | --- |
+| A | £3.22 | £8.05 | £16.10 | £96.60 | £161 |
+| B | £7.74 | £19.35 | £38.70 | £232.20 | £387 |
+| C | £9.67 | £30.95 | £61.90 | £371.40 | £619 |
+
+TABLE 1A: VEHICLES NOT MEETING EURO 6 EMISSIONS STANDARDS — RATES FOR EACH BAND[^key-59ea0b839933e6ac05f2cf689a346b37]
+
+| Band | Daily rate | Weekly rate | Monthly rate | Half-yearly rate | Yearly rate |
+| --- | --- | --- | --- | --- | --- |
+| A | £4.18 | £10.45 | £20.90 | £125.40 | £209 |
+| B | £10.06 | £25.15 | £50.30 | £301.80 | £503 |
+| C | £10.74 | £40.20 | £80.40 | £482.40 | £804 |
+
+TABLE 1B: BANDS FOR THE PURPOSES OF TABLES 1 AND 1A[^key-5eca2348da8dee45b0a58e4f9f674ef9]
+
+| Revenue weight of vehicle | Band |
+| --- | --- |
+| More than 11,999kgs but not more than 31,000kgs | A |
+| More than 31,000kgs but not more than 38,000kgs | B |
+| More than 38,000kgs | C |
+
+[^key-cdfe9e15134f21816ef5d6bf0a800d55]...
+
+<table>
+<tbody>
+<tr><th colspan="2"></th><th></th><th></th><th></th></tr>
+<tr><th></th><th></th><th></th><th></th><th></th></tr>
+<tr><th></th><th></th><th></th><th></th><th></th></tr>
+<tr><td>. . .</td><td>. . .</td><td>. . .</td><td>. . .</td><td>. . .</td></tr>
+<tr><td>. . .</td><td>. . .</td><td>. . .</td><td>. . .</td><td>. . .</td></tr>
+<tr><td>. . .</td><td>. . .</td><td>. . .</td><td>. . .</td><td>. . .</td></tr>
+<tr><td>. . .</td><td>. . .</td><td>. . .</td><td>. . .</td><td>. . .</td></tr>
+<tr><td>. . .</td><td>. . .</td><td>. . .</td><td>. . .</td><td>. . .</td></tr>
+<tr><td>. . .</td><td>. . .</td><td>. . .</td><td>. . .</td><td>. . .</td></tr>
+</tbody>
+</table>
+
+[^key-cdfe9e15134f21816ef5d6bf0a800d55][^key-cdfe9e15134f21816ef5d6bf0a800d55][^key-cdfe9e15134f21816ef5d6bf0a800d55][^key-cdfe9e15134f21816ef5d6bf0a800d55][^key-cdfe9e15134f21816ef5d6bf0a800d55][^key-cdfe9e15134f21816ef5d6bf0a800d55][^key-cdfe9e15134f21816ef5d6bf0a800d55][^key-cdfe9e15134f21816ef5d6bf0a800d55][^key-cdfe9e15134f21816ef5d6bf0a800d55][^key-cdfe9e15134f21816ef5d6bf0a800d55][^key-cdfe9e15134f21816ef5d6bf0a800d55][^key-cdfe9e15134f21816ef5d6bf0a800d55][^key-cdfe9e15134f21816ef5d6bf0a800d55][^key-cdfe9e15134f21816ef5d6bf0a800d55][^key-cdfe9e15134f21816ef5d6bf0a800d55][^key-cdfe9e15134f21816ef5d6bf0a800d55][^key-cdfe9e15134f21816ef5d6bf0a800d55][^key-cdfe9e15134f21816ef5d6bf0a800d55][^key-cdfe9e15134f21816ef5d6bf0a800d55][^key-cdfe9e15134f21816ef5d6bf0a800d55][^key-cdfe9e15134f21816ef5d6bf0a800d55][^key-cdfe9e15134f21816ef5d6bf0a800d55][^key-cdfe9e15134f21816ef5d6bf0a800d55][^key-cdfe9e15134f21816ef5d6bf0a800d55][^key-cdfe9e15134f21816ef5d6bf0a800d55][^key-cdfe9e15134f21816ef5d6bf0a800d55][^key-cdfe9e15134f21816ef5d6bf0a800d55][^key-cdfe9e15134f21816ef5d6bf0a800d55][^key-cdfe9e15134f21816ef5d6bf0a800d55][^key-cdfe9e15134f21816ef5d6bf0a800d55]
+
+[^key-cdfe9e15134f21816ef5d6bf0a800d55]...
+
+<table>
+<tbody>
+<tr><th colspan="2"></th><th></th><th></th><th></th></tr>
+<tr><th></th><th></th><th></th><th></th><th></th></tr>
+<tr><th></th><th></th><th></th><th></th><th></th></tr>
+<tr><td>. . .</td><td>. . .</td><td>. . .</td><td>. . .</td><td>. . .</td></tr>
+<tr><td>. . .</td><td>. . .</td><td>. . .</td><td>. . .</td><td>. . .</td></tr>
+<tr><td>. . .</td><td>. . .</td><td>. . .</td><td>. . .</td><td>. . .</td></tr>
+<tr><td>. . .</td><td>. . .</td><td>. . .</td><td>. . .</td><td>. . .</td></tr>
+<tr><td>. . .</td><td>. . .</td><td>. . .</td><td>. . .</td><td>. . .</td></tr>
+<tr><td>. . .</td><td>. . .</td><td>. . .</td><td>. . .</td><td>. . .</td></tr>
+</tbody>
+</table>
+
+[^key-cdfe9e15134f21816ef5d6bf0a800d55][^key-cdfe9e15134f21816ef5d6bf0a800d55][^key-cdfe9e15134f21816ef5d6bf0a800d55][^key-cdfe9e15134f21816ef5d6bf0a800d55][^key-cdfe9e15134f21816ef5d6bf0a800d55][^key-cdfe9e15134f21816ef5d6bf0a800d55][^key-cdfe9e15134f21816ef5d6bf0a800d55][^key-cdfe9e15134f21816ef5d6bf0a800d55][^key-cdfe9e15134f21816ef5d6bf0a800d55][^key-cdfe9e15134f21816ef5d6bf0a800d55][^key-cdfe9e15134f21816ef5d6bf0a800d55][^key-cdfe9e15134f21816ef5d6bf0a800d55][^key-cdfe9e15134f21816ef5d6bf0a800d55][^key-cdfe9e15134f21816ef5d6bf0a800d55][^key-cdfe9e15134f21816ef5d6bf0a800d55][^key-cdfe9e15134f21816ef5d6bf0a800d55][^key-cdfe9e15134f21816ef5d6bf0a800d55][^key-cdfe9e15134f21816ef5d6bf0a800d55][^key-cdfe9e15134f21816ef5d6bf0a800d55][^key-cdfe9e15134f21816ef5d6bf0a800d55][^key-cdfe9e15134f21816ef5d6bf0a800d55][^key-cdfe9e15134f21816ef5d6bf0a800d55][^key-cdfe9e15134f21816ef5d6bf0a800d55][^key-cdfe9e15134f21816ef5d6bf0a800d55][^key-cdfe9e15134f21816ef5d6bf0a800d55][^key-cdfe9e15134f21816ef5d6bf0a800d55][^key-cdfe9e15134f21816ef5d6bf0a800d55][^key-cdfe9e15134f21816ef5d6bf0a800d55][^key-cdfe9e15134f21816ef5d6bf0a800d55][^key-cdfe9e15134f21816ef5d6bf0a800d55]
+
+[^key-cdfe9e15134f21816ef5d6bf0a800d55]...
+
+<table>
+<tbody>
+<tr><th colspan="2"></th><th></th><th></th><th></th></tr>
+<tr><th></th><th></th><th></th><th></th><th></th></tr>
+<tr><th></th><th></th><th></th><th></th><th></th></tr>
+<tr><td>. . .</td><td>. . .</td><td>. . .</td><td>. . .</td><td>. . .</td></tr>
+<tr><td>. . .</td><td>. . .</td><td>. . .</td><td>. . .</td><td>. . .</td></tr>
+<tr><td>. . .</td><td>. . .</td><td>. . .</td><td>. . .</td><td>. . .</td></tr>
+<tr><td>. . .</td><td>. . .</td><td>. . .</td><td>. . .</td><td>. . .</td></tr>
+<tr><td>. . .</td><td>. . .</td><td>. . .</td><td>. . .</td><td>. . .</td></tr>
+<tr><td>. . .</td><td>. . .</td><td>. . .</td><td>. . .</td><td>. . .</td></tr>
+</tbody>
+</table>
+
+[^key-cdfe9e15134f21816ef5d6bf0a800d55][^key-cdfe9e15134f21816ef5d6bf0a800d55][^key-cdfe9e15134f21816ef5d6bf0a800d55][^key-cdfe9e15134f21816ef5d6bf0a800d55][^key-cdfe9e15134f21816ef5d6bf0a800d55][^key-cdfe9e15134f21816ef5d6bf0a800d55][^key-cdfe9e15134f21816ef5d6bf0a800d55][^key-cdfe9e15134f21816ef5d6bf0a800d55][^key-cdfe9e15134f21816ef5d6bf0a800d55][^key-cdfe9e15134f21816ef5d6bf0a800d55][^key-cdfe9e15134f21816ef5d6bf0a800d55][^key-cdfe9e15134f21816ef5d6bf0a800d55][^key-cdfe9e15134f21816ef5d6bf0a800d55][^key-cdfe9e15134f21816ef5d6bf0a800d55][^key-cdfe9e15134f21816ef5d6bf0a800d55][^key-cdfe9e15134f21816ef5d6bf0a800d55][^key-cdfe9e15134f21816ef5d6bf0a800d55][^key-cdfe9e15134f21816ef5d6bf0a800d55][^key-cdfe9e15134f21816ef5d6bf0a800d55][^key-cdfe9e15134f21816ef5d6bf0a800d55][^key-cdfe9e15134f21816ef5d6bf0a800d55][^key-cdfe9e15134f21816ef5d6bf0a800d55][^key-cdfe9e15134f21816ef5d6bf0a800d55][^key-cdfe9e15134f21816ef5d6bf0a800d55][^key-cdfe9e15134f21816ef5d6bf0a800d55][^key-cdfe9e15134f21816ef5d6bf0a800d55][^key-cdfe9e15134f21816ef5d6bf0a800d55][^key-cdfe9e15134f21816ef5d6bf0a800d55][^key-cdfe9e15134f21816ef5d6bf0a800d55][^key-cdfe9e15134f21816ef5d6bf0a800d55]
+
+[^key-cdfe9e15134f21816ef5d6bf0a800d55]...
+
+<table>
+<tbody>
+<tr><th colspan="2"></th><th></th><th></th><th></th></tr>
+<tr><th></th><th></th><th></th><th></th><th></th></tr>
+<tr><th></th><th></th><th></th><th></th><th></th></tr>
+<tr><td>. . .</td><td>. . .</td><td>. . .</td><td>. . .</td><td>. . .</td></tr>
+<tr><td>. . .</td><td>. . .</td><td>. . .</td><td>. . .</td><td>. . .</td></tr>
+<tr><td>. . .</td><td>. . .</td><td>. . .</td><td>. . .</td><td>. . .</td></tr>
+<tr><td>. . .</td><td>. . .</td><td>. . .</td><td>. . .</td><td>. . .</td></tr>
+<tr><td>. . .</td><td>. . .</td><td>. . .</td><td>. . .</td><td>. . .</td></tr>
+<tr><td>. . .</td><td>. . .</td><td>. . .</td><td>. . .</td><td>. . .</td></tr>
+<tr><td>. . .</td><td>. . .</td><td>. . .</td><td>. . .</td><td>. . .</td></tr>
+</tbody>
+</table>
+
+[^key-cdfe9e15134f21816ef5d6bf0a800d55][^key-cdfe9e15134f21816ef5d6bf0a800d55][^key-cdfe9e15134f21816ef5d6bf0a800d55][^key-cdfe9e15134f21816ef5d6bf0a800d55][^key-cdfe9e15134f21816ef5d6bf0a800d55][^key-cdfe9e15134f21816ef5d6bf0a800d55][^key-cdfe9e15134f21816ef5d6bf0a800d55][^key-cdfe9e15134f21816ef5d6bf0a800d55][^key-cdfe9e15134f21816ef5d6bf0a800d55][^key-cdfe9e15134f21816ef5d6bf0a800d55][^key-cdfe9e15134f21816ef5d6bf0a800d55][^key-cdfe9e15134f21816ef5d6bf0a800d55][^key-cdfe9e15134f21816ef5d6bf0a800d55][^key-cdfe9e15134f21816ef5d6bf0a800d55][^key-cdfe9e15134f21816ef5d6bf0a800d55][^key-cdfe9e15134f21816ef5d6bf0a800d55][^key-cdfe9e15134f21816ef5d6bf0a800d55][^key-cdfe9e15134f21816ef5d6bf0a800d55][^key-cdfe9e15134f21816ef5d6bf0a800d55][^key-cdfe9e15134f21816ef5d6bf0a800d55][^key-cdfe9e15134f21816ef5d6bf0a800d55][^key-cdfe9e15134f21816ef5d6bf0a800d55][^key-cdfe9e15134f21816ef5d6bf0a800d55][^key-cdfe9e15134f21816ef5d6bf0a800d55][^key-cdfe9e15134f21816ef5d6bf0a800d55][^key-cdfe9e15134f21816ef5d6bf0a800d55][^key-cdfe9e15134f21816ef5d6bf0a800d55][^key-cdfe9e15134f21816ef5d6bf0a800d55][^key-cdfe9e15134f21816ef5d6bf0a800d55][^key-cdfe9e15134f21816ef5d6bf0a800d55][^key-cdfe9e15134f21816ef5d6bf0a800d55][^key-cdfe9e15134f21816ef5d6bf0a800d55][^key-cdfe9e15134f21816ef5d6bf0a800d55][^key-cdfe9e15134f21816ef5d6bf0a800d55][^key-cdfe9e15134f21816ef5d6bf0a800d55]
+
+## SCHEDULE 2 — Legal proceedings
+
+Section 12
+
+### Proceedings in England and Wales or Northern Ireland
+
+**1.**[^key-99b7df42a62df797b28051c450a3120f] (1) Proceedings in England and Wales or Northern Ireland for an offence under section 11 may be instituted only—
+
+- (a) by the Secretary of State, or
+- (b) by a constable with the approval of the Secretary of State.
+
+(2) Proceedings in England and Wales or Northern Ireland for an offence under section 11 may be started at any time within 6 months from the date on which evidence sufficient, in the opinion of the person instituting the proceedings, to justify the proceedings came to the person's knowledge.
+
+(3) No proceedings may be started by virtue of sub-paragraph (2) more than three years after the commission of the offence.
+
+(4) A certificate—
+
+- (a) stating that the Secretary of State's approval is given for the institution by a constable of the proceedings specified in the certificate, and
+- (b) signed by or on behalf of the Secretary of State,
+
+is conclusive evidence of that approval.
+
+(5) A certificate—
+
+- (a) stating the date on which the evidence referred to in sub-paragraph (2) came to the knowledge of the person instituting the proceedings, and
+- (b) signed by or on behalf of that person,
+
+is conclusive evidence of that date.
+
+(6) A certificate—
+
+- (a) including a statement under paragraph (a) of sub-paragraph (4) or (5), and
+- (b) purporting to be signed as mentioned in paragraph (b) of the sub-paragraph concerned,
+
+is to be deemed to be so signed unless the contrary is proved.
+
+(7) Sections 145 and 146A of the Customs and Excise Management Act 1979 (procedural restrictions and time limits on starting proceedings for offences under the customs and excise Acts) do not apply to proceedings in England and Wales or Northern Ireland for an offence under section 11.
+
+### Proceedings in Scotland
+
+**2.**[^key-c99282896a45cba4e7aeaefb60313819] (1) Proceedings in Scotland for an offence under section 11 may not be started more than 3 years after the commission of the offence.
+
+(2) Subject to that (and despite anything in section 136 of the Criminal Procedure (Scotland) Act 1995 (limitation of time for proceedings in statutory offences)), any such proceedings may be started—
+
+- (a) in the case of proceedings instituted by the procurator fiscal as a result of information supplied by the Secretary of State, at any time within 6 months from the date on which the information came to the knowledge of the Secretary of State;
+- (b) in any other case, at any time within 6 months from the date on which evidence sufficient, in the opinion of the person instituting the proceedings, to justify the proceedings came to the person's knowledge.
+
+Subsection (3) of that section applies for the purposes of this sub-paragraph as it applies for the purposes of that section.
+
+(3) A certificate—
+
+- (a) stating the date on which the information referred to in sub-paragraph (2)(a) came to the knowledge of the Secretary of State, and
+- (b) signed by or on behalf of the Secretary of State,
+
+is conclusive evidence of that date.
+
+(4) A certificate—
+
+- (a) stating the date on which the evidence referred to in sub-paragraph (2)(b) came to the knowledge of the person instituting the proceedings, and
+- (b) signed by or on behalf of that person,
+
+is conclusive evidence of that date.
+
+(5) A certificate—
+
+- (a) including a statement under paragraph (a) of sub-paragraph (3) or (4), and
+- (b) purporting to be signed as mentioned in paragraph (b) of the sub-paragraph concerned,
+
+is to be deemed to be so signed unless the contrary is proved.
+
+(6) Sections 145 and 146A of the Customs and Excise Management Act 1979 (procedural restrictions and time limits on starting proceedings for offences under the customs and excise Acts) do not apply to proceedings in Scotland for an offence under section 11.
+
+### Authorised persons
+
+**3.**[^key-68ec71db40644a2d0b4e429ecbb35619] A person authorised by the Secretary of State for the purposes of this paragraph may on behalf of the Secretary of State conduct and appear in any proceedings by or against the Secretary of State under this Act—
+
+- (a) in England and Wales, in a magistrates' court or the county court;
+- (b) in Scotland, in any court other than the Court of Session;
+- (c) in Northern Ireland, in a court of summary jurisdiction or before a county court.
+
+### Time limit for recovery of underpayments and overpayments
+
+**4.**[^key-d311e76e9e91f67ef8c2852aee6b0c44] No proceedings may be brought—
+
+- (a) by the Secretary of State for the recovery of any underpayment of HGV road user levy, or
+- (b) by any person for the recovery of any overpayment of levy,
+
+after the end of the period of 12 months beginning with the end of the period in respect of which the levy was paid.
+
+### Records
+
+**5.**[^key-814db3f70ad6ab50de95dc325413ade9] (1) A statement to which this paragraph applies is admissible in any proceedings as evidence (or, in Scotland, sufficient evidence) of any fact stated in it with respect to prescribed matters to the same extent as oral evidence of that fact is admissible in the proceedings.
+
+(2) This paragraph applies to a statement contained in a document purporting to be—
+
+- (a) a part of the records maintained by the Secretary of State in connection with any functions exercisable by him or her under or by virtue of this Act,
+- (b) a copy of a document forming part of those records, or
+- (c) a note of any information contained in those records,
+
+and to be authenticated by a person authorised to do so by the Secretary of State.
+
+(3) In this paragraph—
+
+- “**"document”**” means anything in which information of any description is recorded;
+- “**"copy”**”, in relation to a document, means anything on to which information recorded in the document has been copied, by whatever means and whether directly or indirectly;
+- “**"statement”**” means any representation of fact, however made.
+
+### Single witness sufficient in certain Scottish proceedings
+
+**6.**[^key-dc7761e15e971799959ea654e7824956] In proceedings in Scotland for an offence under section 11 the accused may be convicted on the evidence of one witness.
+
+### Transitory provision
+
+**7.**[^key-008eddb1279161e73bf538af0307b442] Until the coming into force of section 16(1) of the Crime and Courts Act 2013, paragraph 3(a) has effect as if ““or before a district judge of a county court”” were substituted for “ or the county court ”.
+
+## Annotations
+
+[^key-9cacb7af9c81db25a5c446b8bb8a1a5a]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2013/7) excluded (1.4.2014) by [The HGV Road User Levy (Exemption of Specified Roads) Order 2014 (S.I. 2014/800)](https://www.legislation.gov.uk/uksi/2014/800), [arts. 1](https://www.legislation.gov.uk/uksi/2014/800/article/1), [2](https://www.legislation.gov.uk/uksi/2014/800/article/2)
+
+[^key-daebdb012c0d4a25565b958b45c6c155]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2013/7/section/1) in force at 1.4.2014 by [S.I. 2014/797](https://www.legislation.gov.uk/uksi/2014/797), [art. 2](https://www.legislation.gov.uk/uksi/2014/797/article/2)
+
+[^key-043c534c11e0daeece6f4ccc507c8f82]: Textual amendment: [S. 1(1)(a)](https://www.legislation.gov.uk/ukpga/2013/7/section/1/1/a)[(b)](https://www.legislation.gov.uk/ukpga/2013/7/section/1/1/b) substituted for words (1.8.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 22 paras. 2](https://www.legislation.gov.uk/ukpga/2023/30/schedule/22/paragraph/2), [12](https://www.legislation.gov.uk/ukpga/2023/30/schedule/22/paragraph/12)
+
+[^key-c5186f623a29a18e23c7de689a1db972]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2013/7/section/2) in force at 1.4.2014 by [S.I. 2014/797](https://www.legislation.gov.uk/uksi/2014/797), [art. 2](https://www.legislation.gov.uk/uksi/2014/797/article/2)
+
+[^key-6c00e21394d353c3574a3d7d258fe2c1]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2013/7/section/3) in force at 1.4.2014 by [S.I. 2014/797](https://www.legislation.gov.uk/uksi/2014/797), [art. 2](https://www.legislation.gov.uk/uksi/2014/797/article/2)
+
+[^key-57bb9e39a9c041db74f8e42198932a10]: Textual amendment: [S. 3(1A)](https://www.legislation.gov.uk/ukpga/2013/7/section/3/1A) substituted for s. 3(1) (1.8.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 22 paras. 3(2)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/22/paragraph/3/2), [12](https://www.legislation.gov.uk/ukpga/2023/30/schedule/22/paragraph/12)
+
+[^key-61d9ac8cf6319f287342bfc8f989cde4]: Textual amendment: Words in [s. 3(2)](https://www.legislation.gov.uk/ukpga/2013/7/section/3/2) inserted (1.8.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 22 paras. 3(3)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/22/paragraph/3/3), [12](https://www.legislation.gov.uk/ukpga/2023/30/schedule/22/paragraph/12)
+
+[^key-d7b019b8dd3b7f420ebe808250cd04bb]: Textual amendment: Words in [s. 3(4)](https://www.legislation.gov.uk/ukpga/2013/7/section/3/4) substituted (1.8.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 22 paras. 3(4)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/22/paragraph/3/4), [12](https://www.legislation.gov.uk/ukpga/2023/30/schedule/22/paragraph/12)
+
+[^key-85ed9d34020d6e2ea464c1935a1b2122]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2013/7/section/4) in force at 1.4.2014 by [S.I. 2014/797](https://www.legislation.gov.uk/uksi/2014/797), [art. 2](https://www.legislation.gov.uk/uksi/2014/797/article/2)
+
+[^key-522180b51a84f2822ac6a1b4c521da84]: Textual amendment: Words in s. 4(8) inserted (31.12.2020) by [The Licensing of Operators and International Road Haulage (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/708)](https://www.legislation.gov.uk/uksi/2019/708), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/708/regulation/1/1), [11](https://www.legislation.gov.uk/uksi/2019/708/regulation/11); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-f1d89d3169d9348e100199394beaf65d]: Commencement: S. 5 in force at 1.4.2014 by [S.I. 2014/797](https://www.legislation.gov.uk/uksi/2014/797), [art. 2](https://www.legislation.gov.uk/uksi/2014/797/article/2)
+
+[^key-2adb061ebea1bc7765ee4c2994143a39]: Modification: S. 5(2) excluded (22.7.2020) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [s. 88(1)](https://www.legislation.gov.uk/ukpga/2020/14/section/88/1)[(3)](https://www.legislation.gov.uk/ukpga/2020/14/section/88/3)
+
+[^key-b630a76c847d99bc926aa64bee9c5c93]: Modification: [S. 5(2)](https://www.legislation.gov.uk/ukpga/2013/7/section/5/2) applied (11.7.2023) by [2020 c. 14](https://www.legislation.gov.uk/ukpga/2020/14), [s. 88A(2)](https://www.legislation.gov.uk/ukpga/2020/14/section/88A/2) (as inserted by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [s. 326(2)](https://www.legislation.gov.uk/ukpga/2023/30/section/326/2))
+
+[^key-d77b8cd39f754b87ef080fa2aaa7e565]: Textual amendment: Words in s. 5(5) substituted (with effect in accordance with s. 60(9) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 60(2)](https://www.legislation.gov.uk/ukpga/2019/1/section/60/2)
+
+[^key-a4245cdfeb53e8dcd2e1a5f08a7f3da1]: Textual amendment: Words in [s. 5(7)](https://www.legislation.gov.uk/ukpga/2013/7/section/5/7) substituted (1.8.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 22 paras. 4](https://www.legislation.gov.uk/ukpga/2023/30/schedule/22/paragraph/4), [12](https://www.legislation.gov.uk/ukpga/2023/30/schedule/22/paragraph/12)
+
+[^key-7efec3567e51f7c45a84bdeee59c9aa2]: Commencement: S. 6 in force at 1.4.2014 by [S.I. 2014/797](https://www.legislation.gov.uk/uksi/2014/797), [art. 2](https://www.legislation.gov.uk/uksi/2014/797/article/2)
+
+[^key-089a0499c7472b85b7aa013710caa197]: Modification: S. 6(2) excluded (22.7.2020) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [s. 88(2)](https://www.legislation.gov.uk/ukpga/2020/14/section/88/2)[(3)](https://www.legislation.gov.uk/ukpga/2020/14/section/88/3)
+
+[^key-619ddfb1f50ab8b3ad520bf2f080afb5]: Textual amendment: Words in [s. 6(2)](https://www.legislation.gov.uk/ukpga/2013/7/section/6/2) omitted (1.8.2023) by virtue of [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 22 paras. 5(2)(a)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/22/paragraph/5/2/a), [12](https://www.legislation.gov.uk/ukpga/2023/30/schedule/22/paragraph/12)
+
+[^key-2692b0c428ba1dcf5572c7e8bcdc4ae3]: Textual amendment: Words in [s. 6(2)](https://www.legislation.gov.uk/ukpga/2013/7/section/6/2) inserted (1.8.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 22 paras. 5(2)(b)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/22/paragraph/5/2/b), [12](https://www.legislation.gov.uk/ukpga/2023/30/schedule/22/paragraph/12)
+
+[^key-f4450a825ff7666d8b2254fa8b4c5470]: Textual amendment: Words in s. 6(4) substituted (with effect in accordance with s. 60(9) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 60(3)](https://www.legislation.gov.uk/ukpga/2019/1/section/60/3)
+
+[^key-6f8cf6dafb1ed1007e311cf6aaae3a03]: Textual amendment: Words in [s. 6(9)](https://www.legislation.gov.uk/ukpga/2013/7/section/6/9) substituted (1.8.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 22 paras. 5(3)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/22/paragraph/5/3), [12](https://www.legislation.gov.uk/ukpga/2023/30/schedule/22/paragraph/12)
+
+[^key-1cfe6f6bdf5467b311f2a9cedf8df36d]: Commencement: S. 7 in force at 1.4.2014 by [S.I. 2014/797](https://www.legislation.gov.uk/uksi/2014/797), [art. 2](https://www.legislation.gov.uk/uksi/2014/797/article/2)
+
+[^key-7a48e1cf7225d33fd7f66954a63b495f]: Modification: S. 7 modified (22.7.2020) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [s. 88(4)](https://www.legislation.gov.uk/ukpga/2020/14/section/88/4)
+
+[^key-586b4149cf07cb4b469bd726e6a90921]: Textual amendment: [S. 7(2)(c)](https://www.legislation.gov.uk/ukpga/2013/7/section/7/2/c) substituted (1.8.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 22 paras. 6](https://www.legislation.gov.uk/ukpga/2023/30/schedule/22/paragraph/6), [12](https://www.legislation.gov.uk/ukpga/2023/30/schedule/22/paragraph/12)
+
+[^key-5fcf3b9bc3a113a0b2ac7408dd0ad077]: Textual amendment: S. 7(2A) inserted (with effect in accordance with s. 60(9) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 60(4)](https://www.legislation.gov.uk/ukpga/2019/1/section/60/4)
+
+[^key-5da3fa522fe7bc2cf312775f544292d1]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2013/7/section/8) in force at 1.4.2014 by [S.I. 2014/797](https://www.legislation.gov.uk/uksi/2014/797), [art. 2](https://www.legislation.gov.uk/uksi/2014/797/article/2)
+
+[^key-1e5798f9c45ed1655e3ab7b230bc6354]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2013/7/section/9) in force at 1.4.2014 by [S.I. 2014/797](https://www.legislation.gov.uk/uksi/2014/797), [art. 2](https://www.legislation.gov.uk/uksi/2014/797/article/2)
+
+[^key-8c9ee3a3f7c7c172c728fc6163a423d3]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2013/7/section/10) in force at 1.4.2014 by [S.I. 2014/797](https://www.legislation.gov.uk/uksi/2014/797), [art. 2](https://www.legislation.gov.uk/uksi/2014/797/article/2)
+
+[^key-bd8d8d0cc07c2779ad48ceb00aede304]: Commencement: S. 11 in force for specified purposes at 30.1.2014 by [S.I. 2014/175](https://www.legislation.gov.uk/uksi/2014/175), [art. 2](https://www.legislation.gov.uk/uksi/2014/175/article/2)
+
+[^key-c0e43ceb1633675978fe7a05f551fb19]: Commencement: S. 11 in force in so far as not already in force at 1.4.2014 by [S.I. 2014/797](https://www.legislation.gov.uk/uksi/2014/797), [art. 2](https://www.legislation.gov.uk/uksi/2014/797/article/2)
+
+[^key-a22e2a5fa366f72ca623ead34ad35dcd]: Textual amendment: Words in [s. 11(1)](https://www.legislation.gov.uk/ukpga/2013/7/section/11/1) substituted (1.8.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 22 paras. 7](https://www.legislation.gov.uk/ukpga/2023/30/schedule/22/paragraph/7), [12](https://www.legislation.gov.uk/ukpga/2023/30/schedule/22/paragraph/12)
+
+[^key-b7b5a33c901c2aa2103892c4e7aa45fc]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2013/7/section/12) in force at 1.4.2014 by [S.I. 2014/797](https://www.legislation.gov.uk/uksi/2014/797), [art. 2](https://www.legislation.gov.uk/uksi/2014/797/article/2)
+
+[^key-fa41f219ad808d22b2dabe54bc674b25]: Commencement: S. 13 in force for specified purposes at 30.1.2014 by [S.I. 2014/175](https://www.legislation.gov.uk/uksi/2014/175), [art. 2](https://www.legislation.gov.uk/uksi/2014/175/article/2)
+
+[^key-ca36e920317f673b520d3eb6e1893943]: Commencement: S. 13 in force in so far as not already in force at 1.4.2014 by [S.I. 2014/797](https://www.legislation.gov.uk/uksi/2014/797), [art. 2](https://www.legislation.gov.uk/uksi/2014/797/article/2)
+
+[^key-82fe69ac4b9be3d71bc990587b51ac64]: Commencement: S. 14 in force at 1.4.2014 by [S.I. 2014/797](https://www.legislation.gov.uk/uksi/2014/797) , [art. 2](https://www.legislation.gov.uk/uksi/2014/797/article/2)
+
+[^key-860d34d1bd8ea1f4484e7b050da63339]: Textual amendment: Word in [s. 14(1)](https://www.legislation.gov.uk/ukpga/2013/7/section/14/1) substituted (1.8.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 22 paras. 8(2)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/22/paragraph/8/2), [12](https://www.legislation.gov.uk/ukpga/2023/30/schedule/22/paragraph/12)
+
+[^key-e01326d055f3fe553efb1cf28d69151b]: Textual amendment: [S. 14(1A)](https://www.legislation.gov.uk/ukpga/2013/7/section/14/1A) inserted (1.8.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 22 paras. 8(3)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/22/paragraph/8/3), [12](https://www.legislation.gov.uk/ukpga/2023/30/schedule/22/paragraph/12)
+
+[^key-d55f5c471d8f361660fe2bdad40ab75d]: Textual amendment: Words in [s. 14(4)](https://www.legislation.gov.uk/ukpga/2013/7/section/14/4) inserted (1.8.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 22 paras. 8(4)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/22/paragraph/8/4), [12](https://www.legislation.gov.uk/ukpga/2023/30/schedule/22/paragraph/12)
+
+[^key-29aff352a5dd209fb9866d1316e25cfc]: Textual amendment: S. 14A inserted (17.7.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 93(1)](https://www.legislation.gov.uk/ukpga/2014/26/section/93/1)
+
+[^key-5be37997b62ec5e64746694fc5407d01]: Textual amendment: Words in s. 14A(5) substituted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 179(2)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/179/2) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
+
+[^key-3d15dd03f23f44d8d1e981860b8d5521]: Textual amendment: S. 14A(6) inserted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 179(3)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/179/3) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
+
+[^key-ba307c48d89324cad4a1a8070b00f85a]: Commencement: S. 15 in force at 1.4.2014 by [S.I. 2014/797](https://www.legislation.gov.uk/uksi/2014/797), [art. 2](https://www.legislation.gov.uk/uksi/2014/797/article/2)
+
+[^key-c980ea5c5498e72ec81a148d1f1e8b4f]: Commencement: S. 16 in force at 1.4.2014 by [S.I. 2014/797](https://www.legislation.gov.uk/uksi/2014/797), [art. 2](https://www.legislation.gov.uk/uksi/2014/797/article/2)
+
+[^key-72ad71e009285b0dcffee026b23825d2]: Textual amendment: Words in [s. 19(1)](https://www.legislation.gov.uk/ukpga/2013/7/section/19/1) inserted (1.8.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 22 paras. 9](https://www.legislation.gov.uk/ukpga/2023/30/schedule/22/paragraph/9), [12](https://www.legislation.gov.uk/ukpga/2023/30/schedule/22/paragraph/12)
+
+[^key-531d49dba4c1dd09fb72ddeda0073bf8]: Textual amendment: Words in s. 19(3)(b) substituted (with effect in accordance with s. 60(9) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 60(5)(a)(i)](https://www.legislation.gov.uk/ukpga/2019/1/section/60/5/a/i)
+
+[^key-f884a9a24abb0449e9586c10e413e0a4]: Textual amendment: S. 19(3)(c) inserted (with effect in accordance with s. 60(9) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 60(5)(a)(ii)](https://www.legislation.gov.uk/ukpga/2019/1/section/60/5/a/ii)
+
+[^key-28a61a09edcc32d50b7a2144a3bf1567]: Textual amendment: S. 19(4) inserted (with effect in accordance with s. 60(9) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 60(5)(b)](https://www.legislation.gov.uk/ukpga/2019/1/section/60/5/b)
+
+[^key-56b7f7db9750251d7bc00fb91c337533]: Commencement: Sch. 1 para. 1 in force at 1.4.2014 by [S.I. 2014/797](https://www.legislation.gov.uk/uksi/2014/797), [art. 2](https://www.legislation.gov.uk/uksi/2014/797/article/2)
+
+[^key-682c27a163f254906450d2c4fbae6ecd]: Textual amendment: Sch. 1 para. 1 substituted (with effect in accordance with s. 60(9) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 60(6)(a)](https://www.legislation.gov.uk/ukpga/2019/1/section/60/6/a)
+
+[^key-0aff4477f4bd87f1c800263ffd1b783d]: Textual amendment: [Sch. 1 para. 1(3)](https://www.legislation.gov.uk/ukpga/2013/7/schedule/1/paragraph/1/3) substituted (1.8.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 22 paras. 10(2)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/22/paragraph/10/2), [12](https://www.legislation.gov.uk/ukpga/2023/30/schedule/22/paragraph/12)
+
+[^key-907e2cbed92f5a68782958753ad1ef76]: Textual amendment: [Sch. 1 paras. 2-4](https://www.legislation.gov.uk/ukpga/2013/7/schedule/1/paragraph/2) omitted (1.8.2023) by virtue of [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 22 paras. 10(3)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/22/paragraph/10/3), [12](https://www.legislation.gov.uk/ukpga/2023/30/schedule/22/paragraph/12)
+
+[^key-1357a69627d9938cd7ae391adbf09ae9]: Commencement: Sch. 1 para. 5 in force at 1.4.2014 by [S.I. 2014/797](https://www.legislation.gov.uk/uksi/2014/797), [art. 2](https://www.legislation.gov.uk/uksi/2014/797/article/2)
+
+[^key-0bfcf14d906444e7400dce1f95801075]: Textual amendment: [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2013/7/schedule/1/paragraph/5) renumbered as Sch. 1 para. 5(1) (1.8.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 22 paras. 10(4)(a)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/22/paragraph/10/4/a), [12](https://www.legislation.gov.uk/ukpga/2023/30/schedule/22/paragraph/12)
+
+[^key-d3a6391a19af6206a32db4e2b13f07db]: Textual amendment: Word in [Sch. 1 para. 5(1)(a)](https://www.legislation.gov.uk/ukpga/2013/7/schedule/1/paragraph/5/1/a) omitted (1.8.2023) by virtue of [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 22 paras. 10(4)(b)(i)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/22/paragraph/10/4/b/i), [12](https://www.legislation.gov.uk/ukpga/2023/30/schedule/22/paragraph/12)
+
+[^key-a9219a1610737e7980126255e8b92663]: Textual amendment: Words in [Sch. 1 para. 5(1)(a)](https://www.legislation.gov.uk/ukpga/2013/7/schedule/1/paragraph/5/1/a) omitted (1.8.2023) by virtue of [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 22 paras. 10(4)(b)(ii)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/22/paragraph/10/4/b/ii), [12](https://www.legislation.gov.uk/ukpga/2023/30/schedule/22/paragraph/12)
+
+[^key-b47c7bd209b03e71b60281f0773c5a6e]: Textual amendment: Sch. 1 para. 5(c) inserted (with effect in accordance with s. 60(9) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 60(6)(b)](https://www.legislation.gov.uk/ukpga/2019/1/section/60/6/b)
+
+[^key-8f7a099b65a74d5a43501578d2500b30]: Textual amendment: [Sch. 1 para. 5(2)](https://www.legislation.gov.uk/ukpga/2013/7/schedule/1/paragraph/5/2) inserted (1.8.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 22 paras. 10(4)(c)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/22/paragraph/10/4/c), [12](https://www.legislation.gov.uk/ukpga/2023/30/schedule/22/paragraph/12)
+
+[^key-7ae04481c844bd6c60e5ea5293fa3c5f]: Textual amendment: Sch. 1 Table 1 substituted (1.4.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 98(2)](https://www.legislation.gov.uk/ukpga/2026/11/section/98/2)[(4)](https://www.legislation.gov.uk/ukpga/2026/11/section/98/4)
+
+[^key-59ea0b839933e6ac05f2cf689a346b37]: Textual amendment: Sch. 1 Table 1A substituted (1.4.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 98(3)](https://www.legislation.gov.uk/ukpga/2026/11/section/98/3)[(4)](https://www.legislation.gov.uk/ukpga/2026/11/section/98/4)
+
+[^key-5eca2348da8dee45b0a58e4f9f674ef9]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/ukpga/2013/7/schedule/1) Table 1B inserted (1.8.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 22 paras. 10(7)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/22/paragraph/10/7), [12](https://www.legislation.gov.uk/ukpga/2023/30/schedule/22/paragraph/12)
+
+[^key-cdfe9e15134f21816ef5d6bf0a800d55]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/ukpga/2013/7/schedule/1) Tables 2-5 omitted (1.8.2023) by virtue of [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 22 paras. 10(8)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/22/paragraph/10/8), [12](https://www.legislation.gov.uk/ukpga/2023/30/schedule/22/paragraph/12)
+
+[^key-99b7df42a62df797b28051c450a3120f]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2013/7/schedule/2/paragraph/1) in force at 1.4.2014 by [S.I. 2014/797](https://www.legislation.gov.uk/uksi/2014/797), [art. 2](https://www.legislation.gov.uk/uksi/2014/797/article/2)
+
+[^key-c99282896a45cba4e7aeaefb60313819]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2013/7/schedule/2/paragraph/2) in force at 1.4.2014 by [S.I. 2014/797](https://www.legislation.gov.uk/uksi/2014/797), [art. 2](https://www.legislation.gov.uk/uksi/2014/797/article/2)
+
+[^key-68ec71db40644a2d0b4e429ecbb35619]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/2013/7/schedule/2/paragraph/3) in force at 1.4.2014 by [S.I. 2014/797](https://www.legislation.gov.uk/uksi/2014/797), [art. 2](https://www.legislation.gov.uk/uksi/2014/797/article/2)
+
+[^key-d311e76e9e91f67ef8c2852aee6b0c44]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/2013/7/schedule/2/paragraph/4) in force at 1.4.2014 by [S.I. 2014/797](https://www.legislation.gov.uk/uksi/2014/797), [art. 2](https://www.legislation.gov.uk/uksi/2014/797/article/2)
+
+[^key-814db3f70ad6ab50de95dc325413ade9]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/ukpga/2013/7/schedule/2/paragraph/5) in force at 1.4.2014 by [S.I. 2014/797](https://www.legislation.gov.uk/uksi/2014/797), [art. 2](https://www.legislation.gov.uk/uksi/2014/797/article/2)
+
+[^key-dc7761e15e971799959ea654e7824956]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/ukpga/2013/7/schedule/2/paragraph/6) in force at 1.4.2014 by [S.I. 2014/797](https://www.legislation.gov.uk/uksi/2014/797), [art. 2](https://www.legislation.gov.uk/uksi/2014/797/article/2)
+
+[^key-008eddb1279161e73bf538af0307b442]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/ukpga/2013/7/schedule/2/paragraph/7) in force at 1.4.2014 by [S.I. 2014/797](https://www.legislation.gov.uk/uksi/2014/797), [art. 2](https://www.legislation.gov.uk/uksi/2014/797/article/2)

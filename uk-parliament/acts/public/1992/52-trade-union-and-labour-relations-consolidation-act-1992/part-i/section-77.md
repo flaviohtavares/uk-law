@@ -1,0 +1,46 @@
+---
+title: Trade Union and Labour Relations (Consolidation) Act 1992, section 77
+act: Trade Union and Labour Relations (Consolidation) Act 1992
+section: '77'
+status: revised-with-pending-changes
+text_date: '2026-10-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/1992/52/section/77
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Trade Union and Labour Relations (Consolidation) Act 1992, section 77
+
+> **Warning: changes not yet applied to this text (156).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1992/52
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 77. Voting.
+
+*Extent: E+W+S+N.I.*
+
+(1) The method of voting must be by the marking of a voting paper by the person voting.
+
+(2) Each voting paper must—
+
+- (a) state the name of the independent scrutineer and clearly specify the address to which, and the date by which, it is to be returned, and
+- (b) be given one of a series of consecutive whole numbers every one of which is used in giving a different number in that series to each voting paper printed or otherwise produced for the purposes of the ballot, and
+- (c) be marked with its number.
+
+(3) Every person who is entitled to vote in the ballot must—
+
+- (a) be allowed to vote without interference from, or constraint imposed by, the union or any of its members, officials or employees, and
+- (b) so far as is reasonably practicable, be enabled to do so without incurring any direct cost to himself.
+
+(4) So far as is reasonably practicable, every person who is entitled to vote in the ballot must—
+
+- (a) have a voting paper sent to him by post at his home address or another address which he has requested the trade union in writing to treat as his postal address, and
+- (b) be given a convenient opportunity to vote by post.
+
+(5) The ballot shall be conducted so as to secure that—
+
+- (a) so far as is reasonably practicable, those voting do so in secret, and
+- (b) the votes given in the ballot are fairly and accurately counted.
+
+For the purposes of paragraph (b) an inaccuracy in counting shall be disregarded if it is accidental and on a scale which could not affect the result of the ballot.

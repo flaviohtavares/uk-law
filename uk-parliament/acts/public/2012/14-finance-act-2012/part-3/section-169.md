@@ -1,0 +1,55 @@
+---
+title: Finance Act 2012, section 169
+act: Finance Act 2012
+section: '169'
+status: revised
+text_date: '2026-04-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2012/14/section/169
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Finance Act 2012, section 169
+
+> Text as at 2026-04-01.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 169. Payments by non-qualifying societies treated as qualifying distributions
+
+*Extent: E+W+S+N.I.*
+
+(1) This section applies if—
+
+- (a) a friendly society which is not a qualifying society makes a payment to a member in respect of the member's interest in the society,
+- (b) the payment is made in the course of relevant other business, and
+- (c) the payment exceeds the total amount of any sums paid by the member to the society by way of contributions or deposits after deducting from that total any relevant previous payment and any relevant earlier repayment.
+
+(2) The excess is treated for the purposes of corporation tax and income tax as a [^key-5b7adc8c5198100abf6c8f39c27464ff]... distribution.
+
+(3) In this section—
+
+- (a) the reference to a relevant previous payment is to the amount of any previous payment made by the society to the member in respect of the member's interest in the society, and
+- (b) the reference to a relevant earlier repayment is to the amount of any earlier repayment of sums paid by the member to the society by way of contributions or deposits.
+
+(4) In the case of an incorporated friendly society which, immediately before its incorporation, was a registered friendly society which was not a qualifying society—
+
+- (a) references in this section to payments (or repayments) to or from the society include payments (or repayments) to or from the registered friendly society, but
+- (b) subsection (3)(a) does not apply to a payment made before 27 March 1974 or, if the registered friendly society was previously a qualifying society but ceased to be one as a result of a direction given to it under section 168(1)(a), a payment made on or before such later date as was specified in the direction.
+
+(5) In the case of any other incorporated friendly society which was previously a qualifying society but ceased to be one as a result of a direction given to it under section 168(1)(b), subsection (3)(a) does not apply to a payment made on or before the date specified in the direction.
+
+(6) In the case of a registered friendly society, subsection (3)(a) does not apply to—
+
+- (a) a payment made before 27 March 1974, or
+- (b) if the society was previously a qualifying society but ceased to be one as a result of a direction given to it under section 168(1)(a), a payment made on or before such later date as was specified in the direction.
+
+(7) For the purposes of this section—
+
+- (a) a registered friendly society is not a qualifying society at any time if, at that time, it is not a qualifying society within the meaning of section 164, and
+- (b) an incorporated friendly society is not a qualifying society at any time if, at that time, it is not a qualifying society within the meaning of section 165.
+
+## Annotations
+
+[^key-5b7adc8c5198100abf6c8f39c27464ff]: Textual amendment: Word in [s. 169(2)](https://www.legislation.gov.uk/ukpga/2012/14/section/169/2) omitted (with effect in accordance with Sch. 1 para. 73 of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 1 para. 70](https://www.legislation.gov.uk/ukpga/2016/24/schedule/1/paragraph/70)

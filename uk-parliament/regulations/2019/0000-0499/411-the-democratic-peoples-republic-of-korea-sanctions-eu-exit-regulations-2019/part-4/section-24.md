@@ -1,0 +1,36 @@
+---
+title: The Democratic People's Republic of Korea (Sanctions) (EU Exit) Regulations 2019, section 24
+act: The Democratic People's Republic of Korea (Sanctions) (EU Exit) Regulations 2019
+section: '24'
+status: revised
+text_date: '2026-05-13'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2019/411/section/24
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Democratic People's Republic of Korea (Sanctions) (EU Exit) Regulations 2019, section 24
+
+> Text as at 2026-05-13.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 24. Business arrangements with designated persons[^key-28eeabfc631d9d876de261b1f7371e49][^key-ba561b88a5cd5a541da74c890193924c]
+
+*Extent: E+W+S+N.I.*
+
+(1) A person (“P”) must not participate, directly or indirectly, in business arrangements, including joint ventures, with a person who P knows to be, or has reasonable cause to suspect is—
+
+- (a) a designated person, or
+- (b) acting on behalf of or at the direction of a designated person.
+
+(2) Paragraph (1) is subject to Part 9 (Exceptions and licences).
+
+(3) A person who contravenes the prohibition in paragraph (1) commits an offence.
+
+## Annotations
+
+[^key-28eeabfc631d9d876de261b1f7371e49]: Commencement: Reg. 24 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/411/regulation/1/2)
+
+[^key-ba561b88a5cd5a541da74c890193924c]: Commencement: [Reg. 24](https://www.legislation.gov.uk/uksi/2019/411/regulation/24) in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 7(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/7/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

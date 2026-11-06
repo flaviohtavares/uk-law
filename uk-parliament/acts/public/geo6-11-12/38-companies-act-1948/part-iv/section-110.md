@@ -1,0 +1,40 @@
+---
+title: Companies Act 1948, section 110
+act: Companies Act 1948
+section: '110'
+status: as-enacted
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/ukpga/Geo6/11-12/38/section/110
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Companies Act 1948, section 110
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+## 110. Register of members.
+
+(1) Every company shall keep a register of its members and enter therein the following particulars:—
+
+- (a) the names and addresses of the members, and in the case of a company having a share capital a statement of the shares held by each member, distinguishing each share by its number so long as the share has a number, and of the amount paid or agreed to be considered as paid on the shares of each member;
+- (b) the date at which each person was entered in the register as a member;
+- (c) the date at which any person ceased to be a member:
+
+Provided that, where the company has converted any of its shares into stock and given notice of the conversion to the registrar of companies, the register shall show the amount of stock held by each member instead of the amount of shares and the particulars relating to shares specified in paragraph (a) of this subsection.
+
+(2) The register of members shall be kept at the registered office of the company:
+
+Provided that,—
+
+- (a) if the work of making it up is done at another office of the company, it may be kept at that other office; and
+- (b) if the company arranges with some other person for the making up of the register to be undertaken on behalf of the company by that other person, it may be kept at the office of that other person at which the work is done;
+
+so, however, that it shall not be kept, in the case of a company registered in England, at a place outside England, and, in the case of a company registered in Scotland, at a place outside Scotland.
+
+(3) Every company shall send notice to the registrar of companies of the place where its register of members is kept and of any change in that place:
+
+Provided that a company shall not be bound to send notice under this subsection where the register has, at all times since it came into existence or, in the case of a register in existence at the commencement of this Act, at all times since then, been kept at the registered office of the company.
+
+(4) Where a company makes default in complying with subsection (1) of this section or makes default for fourteen days in complying with the last foregoing subsection, the company and every officer of the company who is in default shall be liable to a default fine.

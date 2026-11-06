@@ -1,0 +1,88 @@
+---
+title: Employment Relations Act 2004, section 25
+act: Employment Relations Act 2004
+section: '25'
+status: revised-with-pending-changes
+text_date: '2026-04-07'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/ukpga/2004/24/section/25
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Employment Relations Act 2004, section 25
+
+> **Warning: changes not yet applied to this text (14).** Text as at 2026-04-07. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/24
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 25. Information about employees to be contained in notice of industrial action[^key-bc9d3824dd49bb5f9c6acf5bdccfbd88]
+
+*Extent: E+W+S*
+
+(1) Section 234A of the 1992 Act (notice to employers of industrial action) is amended as follows.
+
+(2) In subsection (3)—
+
+- (a) for paragraph (a) substitute—
+
+  > - (a) contains—
+  >   - (i) the lists mentioned in subsection (3A) and the figures mentioned in subsection (3B), together with an explanation of how those figures were arrived at, or
+  >   - (ii) where some or all of the affected employees are employees from whose wages the employer makes deductions representing payments to the union, either those lists and figures and that explanation or the information mentioned in subsection (3C), and
+
+  ;
+- (b) omit paragraph (c) and the word “and” immediately preceding it.
+
+(3) After subsection (3) insert—
+
+> (3A) The lists referred to in subsection (3)(a) are—
+>
+> - (a) a list of the categories of employee to which the affected employees belong, and
+> - (b) a list of the workplaces at which the affected employees work.
+>
+> (3B) The figures referred to in subsection (3)(a) are—
+>
+> - (a) the total number of the affected employees,
+> - (b) the number of the affected employees in each of the categories in the list mentioned in subsection (3A)(a), and
+> - (c) the number of the affected employees who work at each workplace in the list mentioned in subsection (3A)(b).
+>
+> (3C) The information referred to in subsection (3)(a)(ii) is such information as will enable the employer readily to deduce—
+>
+> - (a) the total number of the affected employees,
+> - (b) the categories of employee to which the affected employees belong and the number of the affected employees in each of those categories, and
+> - (c) the workplaces at which the affected employees work and the number of them who work at each of those workplaces.
+>
+> (3D) The lists and figures supplied under this section, or the information mentioned in subsection (3C) that is so supplied, must be as accurate as is reasonably practicable in the light of the information in the possession of the union at the time when it complies with subsection (1).
+>
+> (3E) For the purposes of subsection (3D) information is in the possession of the union if it is held, for union purposes—
+>
+> - (a) in a document, whether in electronic form or any other form, and
+> - (b) in the possession or under the control of an officer or employee of the union.
+>
+> (3F) Nothing in this section requires a union to supply an employer with the names of the affected employees.
+
+(4) In subsection (5), for “is one of the affected employees” substitute “ falls within a notified category of employee and the workplace at which he works is a notified workplace ”.
+
+(5) For subsection (5A) substitute—
+
+> (5B) In subsection (5)—
+>
+> - (a) a “**notified category of employee**” means—
+>   - (i) a category of employee that is listed in the notice, or
+>   - (ii) where the notice contains the information mentioned in subsection (3C), a category of employee that the employer (at the time he receives the notice) can readily deduce from the notice is a category of employee to which some or all of the affected employees belong, and
+> - (b) a “**notified workplace**” means—
+>   - (i) a workplace that is listed in the notice, or
+>   - (ii) where the notice contains the information mentioned in subsection (3C), a workplace that the employer (at the time he receives the notice) can readily deduce from the notice is the workplace at which some or all of the affected employees work.
+>
+> (5C) In this section references to the “**affected employees**” are references to those employees of the employer who the union reasonably believes will be induced by the union, or have been so induced, to take part or continue to take part in the industrial action.
+>
+> (5D) For the purposes of this section, the workplace at which an employee works is—
+>
+> - (a) in relation to an employee who works at or from a single set of premises, those premises, and
+> - (b) in relation to any other employee, the premises with which his employment has the closest connection.
+
+(6) In subsection (8), after “, (5)” insert “ , (5C) ”.
+
+## Annotations
+
+[^key-bc9d3824dd49bb5f9c6acf5bdccfbd88]: Commencement: [S. 25](https://www.legislation.gov.uk/ukpga/2004/24/section/25) in force at 1.10.2005 by [S.I. 2005/2419](https://www.legislation.gov.uk/uksi/2005/2419), [art. 3(a)](https://www.legislation.gov.uk/uksi/2005/2419/article/3/a) (with [art. 7](https://www.legislation.gov.uk/uksi/2005/2419/article/7))

@@ -1,0 +1,86 @@
+---
+title: The Income Tax (Construction Industry Scheme) (Amendment) (Northern Ireland) Regulations 2022
+id: uksi/2022/385
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2022-03-28'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2022/385
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2022/385/pdfs/uksiem_20220385_en.pdf
+- http://www.legislation.gov.uk/uksi/2022/385/pdfs/uksi_20220385_en.pdf
+- http://www.legislation.gov.uk/uksi/2022/385/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Income Tax (Construction Industry Scheme) (Amendment) (Northern Ireland) Regulations 2022
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2022 No. 385
+
+Income Tax, Northern Ireland
+
+The Income Tax (Construction Industry Scheme) (Amendment) (Northern Ireland) Regulations 2022
+
+Made
+
+at 10.40 a.m. on 28th March 2022
+
+Laid before House of Commons
+
+at 3.00 p.m. on 28th March 2022
+
+Coming into force
+
+6th April 2022
+
+These Regulations are made by the Commissioners for Her Majesty’s Revenue and Customs in exercise of the powers conferred by sections 62(3)(b), (6) and (7) and 71 of the Finance Act 2004[^f00001] and now exercisable by them[^f00002].
+
+## 1. Citation and commencement
+
+These Regulations may be cited as the Income Tax (Construction Industry Scheme) (Amendment) (Northern Ireland) Regulations 2022 and come into force on 6th April 2022.
+
+## 2. Amendment of the Income Tax (Construction Industry Scheme) Regulations 2005
+
+(1) The Income Tax (Construction Industry Scheme) Regulations 2005[^f00003] are amended as follows.
+
+(2) In regulation 56(7)(d) (application by the Commissioners for Her Majesty’s Revenue and Customs of sums deducted under section 61) —
+
+- (a) after “regulations 4, 5, 6 and 8 of” insert “either”, and
+- (b) after “Statutory Parental Bereavement Pay (Administration) Regulations 2020” insert “or corresponding regulations relating to statutory parental bereavement pay[^f00004] made under articles 8, 9, 11 and 16(1) of the Employment (Northern Ireland) Order 2002[^f00005]”.
+
+Angela MacDonald
+
+Justin Holliday
+
+Two of the Commissioners for Her Majesty’s Revenue and Customs
+
+At 10.40 a.m. on 28th March 2022
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+Section 2 of the Parental Bereavement (Leave and Pay) Act (Northern Ireland) [2022 (c. 5)](https://www.legislation.gov.uk/ukpga/2022/5) (“**the 2022 Act**”) inserted a new Part 12ZD into the Social Security Contributions and Benefits (Northern Ireland) Act [1992 (c. 7)](https://www.legislation.gov.uk/ukpga/1992/7). This created an entitlement to statutory parental bereavement pay in Northern Ireland.
+
+These Regulations make consequential amendments to the Income Tax (Construction Industry Scheme) Regulations 2005 ([S.I. 2005/2045](https://www.legislation.gov.uk/uksi/2005/2045)) to include reference to statutory parental bereavement pay payable in Northern Ireland to bring Northern Ireland in line with Great Britain.
+
+A Tax Information and Impact Note has not been prepared for these Regulations as they are part of a package of legislative measures and the relevant impact assessments are “Parental Bereavement Leave and Pay Regulatory Impact Assessment” and “Rural Needs Impact Assessment” which were published on June 2020. A copy of both impact assessments is available at: https://www.economy-ni.gov.uk/consultations/parental-bereavement-leave-and-pay. A paper copy of the impact assessments can be obtained by e-mailing pblpconsultation@economy-ni.gov.uk.
+
+## Annotations
+
+[^f00001]: Footnote: [2004 c. 12](https://www.legislation.gov.uk/ukpga/2004/12). Section 71 was amended by sections 1322 and 1326 of, and paragraph 570 of Schedule 1 and Part 1 of Schedule 3 to, the Corporation Tax Act [2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4).
+
+[^f00002]: Footnote: The functions of the Commissioners of Inland Revenue were transferred to the Commissioners for Her Majesty’s Revenue and Customs by section 5(2) of the Commissioners for Revenue and Customs Act [2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11). Section 50(1) of that Act provides that a reference to the Commissioners of Inland Revenue, however expressed, shall be taken as a reference to the Commissioners for Her Majesty’s Revenue and Customs.
+
+[^f00003]: Footnote: [S.I. 2005/2045](https://www.legislation.gov.uk/uksi/2005/2045); relevantly amended by [S.I. 2015/125](https://www.legislation.gov.uk/uksi/2015/125) and [S.I. 2020/240](https://www.legislation.gov.uk/uksi/2020/240).
+
+[^f00004]: Footnote: “Statutory parental bereavement pay” is defined in section 167ZZ9 of the Parental Bereavement (Leave and Pay) Act (Northern Ireland) [2022 (c. 5)](https://www.legislation.gov.uk/ukpga/2022/5).
+
+[^f00005]: Footnote: [S.I. 2002/2836](https://www.legislation.gov.uk/uksi/2002/2836) amended by [S.I. 2006/1947](https://www.legislation.gov.uk/uksi/2006/1947).

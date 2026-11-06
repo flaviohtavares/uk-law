@@ -1,0 +1,452 @@
+---
+title: The Value Added Tax (Special Provisions) Order 1995
+id: uksi/1995/1268
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '1995-05-10'
+text_date: '2021-12-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/1995/1268
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1995/1268/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Value Added Tax (Special Provisions) Order 1995
+
+> Text as at 2021-12-01.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+1995 No. 1268
+
+VALUE ADDED TAX
+
+The Value Added Tax (Special Provisions) Order 1995
+
+Made
+
+10th May 1995
+
+Laid before the House of Commons
+
+10th May 1995
+
+Coming into force
+
+1st June 1995
+
+The Treasury, in exercise of the powers conferred on them by sections 5(3) and (5), 11(4), 43(2) and 50A of the Value Added Tax Act 1994[^f00001] and of all other powers enabling them in that behalf, hereby make the following Order:
+
+## 1. Citation and commencement[^key-68117eba720bc546e2cf9cdd895a9dee]
+
+This Order may be cited as the Value Added Tax (Special provisions) Order 1995, and shall come into force on 1st June 1995.
+
+## 2. Interpretation[^key-138d27f15f8f4b97c30fb65f88063606]
+
+(1)[^key-d9f67dece34eca700e13d457fc7517d5] In this Order—
+
+- “finance agreement” means an agreement for the sale of goods whereby the property in those goods is not to be transferred until the whole of the price has been paid and the seller retains the right to repossess the goods;
+- [^key-3140f70150db5763cce7c9d88943aaba]...
+- “marine mortgage” means a mortgage which is registered in accordance with the Merchant Shipping Act 1995[^key-223dc5c74396b9ae0aa93de14ef99ebe] and by virtue of which a boat (but not any share thereof) is made a security for a loan;
+- “aircraft mortgage” means a mortgage which is registered in accordance with the Mortgaging of Aircraft Order 1972[^f00004] and by virtue of which an aircraft is made security for a loan;
+- “the Act” means the Value Added Tax Act 1994;
+- “the Manx Act” means the Value Added Tax Act 1996[^key-4b1eb4267e6678a2bfd5b871c8a1cf23];
+- “work of art” has the same meaning as in section 21 of the Act.[^key-429184ba1017ba8f99a6a2fa0e3dfdb5]
+- “antiques” means objects other than works of art or collectors' items, which are more than 100 years old;
+- “collectors' items” means any collection or collector’s piece falling within section 21(5) of the Act but excluding investment gold coins within the meaning of Note 1(b) and (c) to Group 15 of Schedule 9 to the Act;[^key-13cdce28f4b95ef3e900b221657ef607]
+- “Motor car” means any motor vehicle of a kind normally used on public roads which has three or more wheels and either—[^key-a1f7ce9c2d26879a95f021271801d837]
+  - (a) is constructed or adapted solely or mainly for the carriage of passengers; or
+  - (b) has to the rear of the driver’s seat roofed accommodation which is fitted with side windows or which is constructed or adapted for the fitting of side windows;
+  - but does not include—
+    - (i) vehicles capable of accommodating only one person;
+    - (ii) vehicles which meet the requirements of Schedule 6 to the Road Vehicles (Construction and Use) Regulations 1986 and are capable of carrying twelve or more seated persons;
+    - (iii) vehicles of not less than three tonnes unladen weight (as defined in the Table to regulation 3(2) of the Road Vehicles (Construction and Use) Regulations 1986);
+    - (iv) vehicles constructed to carry a payload (the difference between a vehicle’s kerb weight (as defined in the Table to regulation 3(2) of the Road Vehicles (Construction and Use) Regulations 1986) and its maximum gross weight (as defined in that Table)) of one tonne or more;
+    - (v) caravans, ambulances and prison vans;
+    - (vi) vehicles constructed for a special purpose other than the carriage of persons and having no other accommodation for carrying persons than such as is incidental to that purpose;
+- “second-hand goods” means tangible movable property that is suitable for further use as it is or after repair, other than motor cars, works of art, collectors' items or antiques and other than precious metals and precious stones;
+- [^key-214e1dc6bf07a552043641acacf19df5]...
+- “auctioneer” means a person who sells or offers for sale goods at any public sale where persons become purchasers by competition, being the highest bidders.
+
+(2)[^key-487ca193b493746e41b6c926dbee159a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 3. Revocations[^key-a0bb33584244e862bc6b877ffca1e711]
+
+(1) The Value Added Tax (Horses and Ponies) Order 1983[^f00007] is hereby revoked.
+
+(2) The Value Added Tax (Special Provisions) Order 1992[^f00008] is hereby revoked.
+
+(3) The Value Added Tax (Special Provisions) (Amendment) Order 1995[^f00009] is hereby revoked.
+
+## 4. Treatment of transactions[^key-e89bb7cd7f114d6bd29d06ae2cafcc9e]
+
+(1) Each of the following descriptions of transactions shall be treated as neither a supply of goods nor a supply of services—
+
+- (a) the disposal of any of the goods described in paragraph (3) below by a person who repossessed them under the terms of a finance agreement;
+- (b) the disposal of any of the goods described in paragraph (3) below by an insurer who has taken possession of them in settlement of a claim under a policy of insurance;
+- (c) the disposal of a boat by a mortgagee after he has taken possession thereof under the terms of a marine mortgage;
+- (d) the disposal of an aircraft by a mortgagee after he has taken possession thereof under the terms of an aircraft mortgage;
+
+if, in each case, the goods so disposed of are in the same condition at the time of disposal as they were when they were repossessed or taken into possession, as the case may be, and if a supply of them in the United Kingdom by the person from whom in each case they were obtained would not have been chargeable with VAT, or would have been chargeable with VAT on less than the full value of such supply.
+
+(1A)[^key-325858ce828f2f5e7be93fb67f4faa0f] Paragraph (1)(a) above shall not apply where adjustment, whether or not made under regulation 38 of the Value Added Tax Regulations 1995, has taken account, or may later take account, of VAT on the initial supply under the finance agreement as a result of repossession and the goods delivered under that agreement were delivered on or after 1st September 2006.
+
+(2) Paragraph (1) of this article shall not apply to reimported goods which were previously exported from the United Kingdom or the Isle of Man free of VAT chargeable under the Act or VAT chargeable under Part I of the Manx Act by reason of the zero-rating provisions of either Act, or[^key-78319444960232d1f359db7970b7f512] regulations made under either Act, or to imported goods which have not borne VAT chargeable under either of those Acts in the United Kingdom or the Isle of Man.
+
+(3) The goods referred to in subparagraphs (a) and (b) of paragraph (1) above are as follows:
+
+- (a) works of art, antiques and collectors' items;
+- (b) second-hand goods.
+
+## 5.[^key-514043dffaf9d383a7115f871b079462]
+
+(1) Subject to paragraph (2) below, there shall be treated as neither a supply of goods nor a supply of services the following supplies by a person of assets of his business—
+
+- (a) their supply to a person to whom he transfers his business as a going concern where—
+  - (i) the assets are to be used by the transferee in carrying on the same kind of business, whether or not as part of any existing business, as that carried on by the transferor, and
+  - (ii) in a case where the transferor is a taxable person, the transferee is already, or immediately becomes as a result of the transfer, a taxable person or a person defined as such in section 3(1)[^key-fa8431a52e868570881488fadfa50417] of the Manx Act;
+- (b) their supply to a person to whom he transfers part of his business as a going concern where—
+  - (i) that part is capable of separate operation,
+  - (ii) the assets are to be used by the transferee in carrying on the same kind of business, whether or not as part of any existing business, as that carried on by the transferor in relation to that part, and
+  - (iii) in a case where the transferor is a taxable person, the transferee is already, or immediately becomes as a result of the transfer, a taxable person or a person defined as such in section 3(1)[^key-5fc4e3768cf6e966500d47a37a34994d] of the Manx Act.
+
+(2) A supply of assets shall not be treated as neither a supply of goods nor a supply of services by virtue of paragraph (1) above to the extent that it consists of—
+
+- (a) a grant which would, but for an option which the transferor has exercised[^M_F_c9a1d15b-65f0-40e6-8d2a-404536919f0d], fall within item 1 of Group 1 of Schedule 9 to the Act; or
+- (b) a grant of a fee simple which falls within paragraph (a) of item 1 of Group 1 of Schedule 9 to the Act,
+
+unless the conditions contained in paragraph (2A) below are satisfied[^key-34ac4552bf06ee3e5101c1ca7a6a93f9].
+
+(2A)[^key-27a48304533868d0a38fbc46ab4871cf] The conditions referred to in paragraph (2) above are that the transferee has, no later than the relevant date—
+
+- (a) exercised an option[^M_F_338bf2e9-fcb0-4e91-e738-0ccd40a393eb] in relation to the land which has effect on the relevant date and has given any written notification of the option required by paragraph 20 of Schedule 10[^M_F_410ef78e-be15-44ae-f810-4466240604d4] to the Act; and
+- (b) notified the transferor that paragraph (2B) below does not apply to him.
+
+(2B) This paragraph applies to a transferee where—
+
+- (a) the supply of the asset that is to be transferred to him would become, in relation to him, a capital item as described in regulation 113 of the Value Added Tax Regulations 1995 if the supply of that asset to him—
+  - (i) were to be treated as neither a supply of goods nor a supply of services; or
+  - (ii) were not so treated; and
+- (b) his supplies of that asset will, or would fall, to be exempt supplies by virtue of paragraph 12 of Schedule 10[^M_F_a96d2c95-e047-4e9b-e6ea-86734878fbdf] to the Act.
+
+(3) In paragraph (2) of this article—
+
+- [^M_F_5fde3ee9-6acb-4f63-d840-6df520c7eea2]...
+- “option” means an option to tax any land having effect under Part 1 of Schedule 10 to the Act;[^M_F_67017cd5-d8c7-4568-e575-6e4a4af518fd]
+- “relevant date” means the date upon which the grant would have been treated as having been made or, if there is more than one such date, the earliest of them;
+- “transferor” and“transferee” include a relevant associate of either respectively as defined in paragraph 3 of Schedule 10[^M_F_10420c89-09d9-4bc2-e96c-cb1d5d9c425b] to the Act.
+
+(4) There shall be treated as neither a supply of goods nor a supply of services the assignment by an owner of goods comprised in a hire-purchase or conditional sale agreement of his rights and interest thereunder, and the goods comprised therein, to a bank or other financial institution.
+
+## 6.[^key-7d222bd4fa4dfadee331a5710362b9c6]
+
+The following description of transaction shall be treated as a supply of services and not as a supply of goods– the exchange of a reconditioned article for an unserviceable article of a similar kind by a person who regularly offers in the course of his business to provide a reconditioning facility by that means.
+
+## 7.[^key-2795feeb9751649b510b962dc5d92c67]
+
+The following description of transaction shall not be treated as the acquisition of goods in Northern Ireland[^key-0f02dc44a3d591b8e7b72fd064e3e325] from a member State[^key-9586c8542957183f99aeaa5ed4c9a64d]– the removal of goods to Northern Ireland[^key-a426b69aa913bd104a597c9ea9c04562] in pursuance of a supply to a taxable person, made by a person in a member State, where VAT on that supply is to be accounted for and paid in a member State by reference to the profit margin on the supply by virtue of the law of that member State corresponding to section 50A of the Act and any Orders made thereunder.
+
+## 8.[^key-ca0b4465ad59d7c43824fcf20635283a]
+
+The following description of transaction shall be treated as neither a supply of goods nor a supply of services– the removal of goods to Northern Ireland[^key-1276760a3fc722cdbdbb37fef4e96f6b] in pursuance of a supply to a person, made by a person in a member State[^key-6009670d4e0c9a386fb5d7471ff03c8f] where VAT on that supply is to be accounted for and paid in a member State by reference to the profit margin on the supply by virtue of the law of that member State corresponding to section 50A of the Act and any Orders made thereunder.
+
+## 9.[^key-56443ad9eea632ea4846063e92b0d3eb]
+
+The following description of transaction shall be treated as neither a supply of goods nor a supply of services– services in connection with a supply of goods provided by an agent acting in his own name to the purchaser of the goods the consideration for which is taken into account by virtue of article 12(6) below in calculating the price at which the agent obtained the goods.
+
+## 10.[^key-327088b633edba814f33af9e1a9388f5]
+
+The following description of transaction shall be treated as neither a supply of goods nor a supply of services– services in connection with the sale of goods provided by an auctioneer acting in his own name to the vendor or the purchaser of the goods the consideration for which is taken into account by virtue of article 12(7) below in calculating the price at which the auctioneer obtained (or as the case may be) sold the goods.
+
+## 11. Self-supply[^key-a63f1af20263bb781dd5a8f043569334]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 12. Relief for certain goods[^key-09a922b50705120e3b6bf73831a77673]
+
+(1) Without prejudice to article 13 below and subject to complying with such conditions as the Commissioners may direct in a notice published by them for the purposes of this Order or may otherwise direct and subject to paragraph (4) below, where a person supplies goods of a description in paragraph (2) below, of which he took possession in any of the circumstances set out in paragraph (3) below, he may opt to account for the VAT chargeable on the supply on the profit margin[^f00011] on the supply instead of by reference to its value.
+
+(2) The supplies referred to in paragraph (1) above are supplies of—
+
+- (a) works of art, antiques and collectors' items;
+- (b) second-hand goods.
+
+(3) The circumstances mentioned in paragraph (1) above are—
+
+- (a)[^key-34046d1c43a2812d09e61e19465340a9] subject to paragraph (aa),[^key-6ffbc47e76c24a7546cfc2ea40888d3f] that the taxable person took possession of the goods pursuant to—
+  - (i) a supply in respect of which no VAT was chargeable under the Act or under Part I of the Manx Act;
+  - (ii) a supply on which VAT was chargeable on the profit margin in accordance with paragraph (1) above or a corresponding provision made under the Manx Act or a corresponding provision of the law of a member State[^key-c543564ae41b1d8d9f5383470582273d] where the goods are removed to Northern Ireland[^key-c6bf20ce9e81437f413571401c9fdd22];
+  - (iii)[^key-d552e1cdb3769858cf0522d184c1cc7a] a de-supplied transaction, other than an article 5 transaction;
+  - (iv) subject to paragraph (3A) below, an article 5 transaction;
+  - (v) (if the goods are a work of art) a supply to the taxable person by, or an acquisition from a member State by him from its creator or his successor in title;
+- (aa)[^key-f1dd3ab39933ca21fce02b525a0c6893] but the circumstances in sub-paragraph (a) do not apply if the person took possession of the goods in Great Britain or the Isle of Man and the goods are removed to Northern Ireland.
+- (b) (if the goods are a work of art, an antique or a collectors' item) that they were imported by the taxable person himself , which includes – if the taxable person is an auctioneer – the auctioneer having placed them in—[^key-d5320574360bbdf314bcde1fa2955350]
+  - (i)[^key-f84ddbdcf71df39671025cbb6cb37355] a temporary admission procedure under Part 1 of the Taxation (Cross-border Trade) Act 2018, where full relief from a liability to import duty is to be given under regulation 40 of the Customs (Special Procedures and Outward Processing) (EU Exit) Regulations 2018;
+  - (ii) the customs procedure for temporary importation with total relief from import duties provided for in Articles 250, 251 and 253 of Regulation (EU) No 952/2013 of the European Parliament and of the Council of 9 October 2013 laying down the Union Customs Code as it has effect in Northern Ireland as a result of section 7A of the European Union (Withdrawal) Act 2018[^key-55b574f41f35ce123294ef525f12fc75].
+
+(3A)[^key-b2a6833c68f76820de52e3753a38173c] An article 5 transaction does not fall within paragraph (iv) of paragraph (3)(a) above unless the taxable person has a relevant predecessor in title.
+
+(4) A taxable person—
+
+- (a) may not opt under paragraph (1) above where—
+  - (i) the supply is a letting on hire;
+  - (ii) an invoice or similar document showing an amount as being VAT or as being attributable to VAT is issued in respect of the supply;
+  - (iii) the supply is of an air gun unless the taxable person is registered for the purposes of the Firearms Act 1968[^f00012]; [^key-629c71219583f947100f6b993423a3d3]...
+  - (iv) the supply is of goods which are being disposed of in the circumstances mentioned in article 4(1)(a)(b)(c) or (d) above but which is not disregarded by virtue of that article;
+  - (v)[^key-e21137f174d833b420286df8322ad90f] the supply is a supply of goods that are treated as supplied in the United Kingdom as a result of section 7(5B) of the Act; or
+  - (vi) the supply is a supply of goods that is treated as made by the operator of an online marketplace under section 5A of the Act by virtue of the condition in subsection (1)(c)(ii) being satisfied;
+- (b) may only exercise the option under paragraph (1) above in relation to supplies of—
+  - (i) works of art of which he took possession in the circumstances mentioned in paragraph (3)(a)(v)[^key-1e6371618c1208dd6fe39afc51f8c94d] above, or
+  - (ii) works of art, antiques or collectors' items of which he took possession in circumstances set out in paragraph (3)(b) above,
+
+  if at the same time he exercises the option in relation to the other.
+
+(5) Subject to paragraph (6) below, for the purposes of determining the profit margin—
+
+- (a) the price at which goods were obtained shall be calculated as follows—
+  - (i) (where the taxable person took possession of the goods pursuant to a supply) in the same way as the consideration for the supply would be calculated for the purposes of the Act;
+  - (ii) (where the taxable person is a sole proprietor and the goods were supplied to him in his private capacity) in the same way as the consideration for the supply to him as a private individual would be calculated for the purposes of the Act;
+  - (iii) (where the goods are a work of art which was acquired from a member State by the taxable person pursuant to a supply to him by the creator of the item or his successor in title) in the same way as the value of the acquisition would be calculated for the purposes of the Act plus the VAT chargeable on the acquisition;
+  - (iv) (where the goods are a work of art, an antique or a collectors' item which the taxable person has imported himself , which includes – if the taxable person is an auctioneer – the auctioneer having placed them in[^key-1bc396ab955b6f8bd03a3a08ff32315f] a temporary admission procedure mentioned in article 12(3)(b)(i) or the customs procedure for temporary importation mentioned in article 12(3)(b)(ii) as the case may be[^key-27909fde0cab0866d9adb51d78c21fa7]) in the same way as the value of the goods for the purpose of charging VAT on their importation would be calculated for the purposes of the Act plus any VAT chargeable on their importation;
+  - (v)[^key-bb65b0f076f4b04a6a7af638dec7584a] (where the taxable person took possession of the goods pursuant to a de-supplied transaction, other than an article 5 transaction) by taking the price he paid pursuant to the transaction;
+  - (vi) (where the taxable person took possession of the goods pursuant to an article 5 transaction) by taking the price at which his relevant predecessor in title obtained the goods;
+- (b) the price at which goods are sold shall be calculated in the same way as the consideration for the supply would be calculated for the purposes of the Act.
+- (c)[^key-e1b6de6903c5ee573d441d1e46babb08] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(6) Subject to paragraph (7) below, where the taxable person is an agent acting in his own name the price at which the goods were obtained shall be calculated in accordance with paragraph (5)(a) above, but the selling price calculated in accordance with paragraph (5)(b) above shall be increased by the amount of any consideration payable to the taxable person in respect of services supplied by him to the purchaser in connection with the supply of the goods.
+
+(7) Instead of calculating the price at which goods were obtained or supplied in accordance with paragraph (6) above an auctioneer acting in his own name may—
+
+- (a)[^key-e031a542e5f62e1b227be76bb8cccf78] calculate the price at which they were obtained by deducting from the successful bid the amount of the commission payable to him under his contract with the vendor for the sale of the goods;
+- (b) calculate the price at which they were supplied by adding to the successful bid the consideration for any supply of services by him to the purchaser in connection with the sale of the goods,
+
+in either (or both) cases excluding the consideration for supplies of services that are not chargeable to VAT.
+
+(8) Where a taxable person opts under paragraph (1) above in respect of goods of which he took possession in the circumstances set out in paragraph (3)(a)(v)[^key-71b295952665dba816be29b089440acc] and (b) above, the exercise of the option shall—
+
+- (a) be notified by him to the Commissioners in writing;
+- (b) have effect from the date of that notification or such later date as may be specified therein;
+- (c) subject to paragraph (9) below, apply to all supplies of such goods made by the taxable person in the period ending 2 years after the date on which it first had effect or the date on which written notification of its revocation is given to the Commissioners, whichever is the later.
+
+(9) Notwithstanding paragraph (8)(c) above a taxable person may elect to account for VAT chargeable on any particular supply of such goods by reference to the value of that supply.
+
+(10)[^key-cf1952b2ce57dd3989b0dd5d692ae092] For the purposes of this article—
+
+- “article 5 transaction” means a transaction which is a de-supplied transaction by virtue of a provision of article 5 above or a corresponding provision made under the Manx Act;
+- “de-supplied transaction” means a transaction which was treated by virtue of any Order made or having effect as if made under section 5(3) of the Act or under the corresponding provisions of the Manx Act as being neither a supply of goods nor a supply of services.
+
+(11) For the purposes of this article a person is a relevant predecessor in title of a taxable person if—
+
+- (a) he is the person from whom the taxable person took possession of the goods and himself took possession of them in any of the circumstances described in paragraph (3) above, but not pursuant to an article 5 transaction; or
+- (b) where the goods have been the subject of a succession of two or more article 5 transactions (culminating in the article 5 transaction to which the taxable person was a party), he was a party to one of those transactions and himself took possession of the goods in any of the circumstances described in paragraph (3) above, but not pursuant to an article 5 transaction.
+
+## 12A. Relief for certain goods removed from Northern Ireland to Great Britain[^key-ac45aa66aa6295ba66d1c6d341b37866]
+
+Article 12 has effect as if in paragraph (1)—
+
+- (a) after “in any of the circumstances set out in paragraph (3) below,” there were inserted “ and the supply involves the removal of the goods from Northern Ireland to Great Britain, ”; and
+- (b) for “VAT chargeable on the supply” there were substituted “ VAT chargeable on the removal ”.
+
+## 13. Global Accounting[^key-2df7ffc043d301250f62a644d23cc13d]
+
+(1) Subject to complying with such conditions as the Commissioners may direct in a notice published by them for the purposes of this Order or may otherwise direct, and subject to paragraph (2) below, a taxable person who has opted under article 12(1) above may account for VAT on the total profit margin on goods supplied by him during a prescribed accounting period, calculated in accordance with paragraph (3) below, instead of the profit margin on each supply.
+
+(2) Paragraph (1) above does not apply to supplies of—
+
+- (a) motor vehicles;
+- (b) aircraft;
+- (c) boats and outboard motors;
+- (d) caravans and motor caravans;
+- (e) horses and ponies;
+- (f) any other individual items whose value calculated in accordance with article 12(5)(a) above, exceeds £500.
+
+(3)[^key-1932443360f32057be5219114bec3bcf] The total profit margin for a prescribed accounting period shall be the amount (if any) by which the total selling price calculated in accordance with paragraph (4) below, exceeds the total purchase price calculated in accordance with paragraph (5) below.
+
+(4) For the purposes of paragraph (3) above the total selling price shall be calculated by aggregating for all goods sold during the period the prices (calculated in accordance with article 12(5) or (6) above as appropriate) for which they were sold.
+
+(5) For the purposes of paragraph (3) above the total purchase price shall be calculated by aggregating for all goods obtained during the period the prices (calculated in accordance with article 12(5) above) at which they were obtained and adding to that total the amount (if any) carried forward from the previous period in accordance with paragraph (6) below;
+
+(6) If in any prescribed accounting period the total purchase price calculated in accordance with paragraph (5) above exceeds the total selling price, the excess amount shall be carried forward to the following prescribed accounting period for inclusion in the calculation of the total purchase price for that period.
+
+Derek Conway
+
+Andrew Mackay
+
+Two of the Lord Commissioners of Her Majesty’s Treasury
+
+10th May, 1995
+
+(This note is not part of the Order)
+
+Under the directive of the Council of the European Communities dated 17th May 1977, No. [77/388/EEC](https://www.legislation.gov.uk/european/directive/1977/0388) (OJ No. L 145, 13.7.77, p. 1) as amended by the directive of that Council dated 14th February 1994, No. [94/5/EC](https://www.legislation.gov.uk/european/directive/1994/0005) (OJ No. L60, 3.3.94, p. 16) effective from 1st January 1995, member States are required to provide, for certain goods, a scheme of accounting on which VAT is calculated by reference to the profit margin (the margin scheme). The directives enable the United Kingdom to allow taxable persons to continue to calculate VAT by reference to the profit margin on certain goods and also to extend this facility to other goods, all of which become subject to conditions contained in the directives. One of these conditions is that goods supplied under the margin scheme are always taxable in the member State of origin and thus the normal VAT rules for intra-EC transactions do not apply.
+
+This Order revokes and re-anacts, with amendments, the provisions of the [Value Added Tax (Horses and Ponies) Order 1983 (No. 1088)](https://www.legislation.gov.uk/uksi/1983/1088), the [Value Added Tax (Special Provisions) Order 1992 (No. 3129)](https://www.legislation.gov.uk/uksi/1992/3129) (the 1992 Order) and the [Value Added Tax (Special Provisions) (Amendment) Order 1995 (No. 957)](https://www.legislation.gov.uk/uksi/1995/957).
+
+Article 2 re-enacts, with amendments, article 2 of the 1992 order and defines the wider range of goods made eligible for the margin scheme by virtue of the above directives.
+
+Article 4 re-enacts, with amendments, article 4 of the 1992 order. It extends the range of goods (which will have borne VAT on an earlier transaction) the disposal of which by mortgagees, finance houses and insurers are excluded from the scope of the tax.
+
+Article 5 re-enacts article 5 of the 1992 order. It excludes from the scope of VAT, in certain circumstances, the transfer of assets of a business, on the transfer as a going concern of the business, or of a part of the business which is capable of separate operation.
+
+Article 6 re-enacts article 6 of the 1992 order. It treats certain exchanges of re-conditioned articles for similar unserviceable articles as a supply of services, and not a supply of goods.
+
+Article 7 is a new provision which excludes from the scope of the tax acquisitions from another member State of goods removed to the United Kingdom in pursuance of a supply to a taxable person made by a person in another member State where VAT on that supply is to be accounted for and paid in that other member State on the profit margin in accordance with the above directives.
+
+Article 8 is a new provision which excludes from the scope of the tax the removal of goods to the United Kingdom in the circumstances described in article 7 by providing that such a removal is to be treated as neither a supply of goods nor a supply of services.
+
+Article 9 is a new provision which excludes from the scope of the tax services in connection with a supply of goods provided by an agent acting in his own name to the purchaser where the consideration for those services is taken into account in calculating the profit margin on the supply of the goods.
+
+Article 10 is a new provision which excludes from the scope of the tax services in connection with a sale of goods provided by an auctioneer acting in his own name to the purchaser or the vendor where the consideration for those services is taken into account in calculating the profit margin on the sale of the goods.
+
+Article 11 re-enacts article 7 of the 1992 order. Its effect is that, in certain circumstances, where a person who is not a fully taxable person produces printed matter for use in his business (otherwise than by way of supplying them or incorporating them in other goods), the printed matter is to be treated as both supplied to him and by him.
+
+Article 12 re-enacts, with amendments, article 8 of the 1992 order. It allows taxable persons to opt to use the margin scheme in the circumstances and for the range of goods provided for in the above directives. It sets out how the profit margin on margin scheme supplies is to be calculated and provides variations from the normal rules for agents, and auctioneers in particular, who act in their own names. It also sets out how the option to use the scheme is to be exercised.
+
+Article 13 enables taxable persons who have opted to use the scheme under article 12 to choose a simplified system of accounting for certain goods, whereby VAT is calculated on the profit margin between the total purchase price and total selling price (terms defined in the article) in each accounting period.
+
+## Annotations
+
+[^f00001]: Footnote: [1994 c. 23](https://www.legislation.gov.uk/ukpga/1994/23); section 50A was inserted by section 24 of the Finance Act [1995 (c. 4)](https://www.legislation.gov.uk/ukpga/1995/4).
+
+[^key-68117eba720bc546e2cf9cdd895a9dee]: Commencement: Art. 1 in force at 1.6.1995, see [art. 1](https://www.legislation.gov.uk/uksi/1995/1268/article/1)
+
+[^key-138d27f15f8f4b97c30fb65f88063606]: Commencement: Art. 2 in force at 1.6.1995, see [art. 1](https://www.legislation.gov.uk/uksi/1995/1268/article/1)
+
+[^key-d9f67dece34eca700e13d457fc7517d5]: Textual amendment: [Art. 2](https://www.legislation.gov.uk/uksi/1995/1268/article/2) renumbered as art. 2(1) (1.12.2001) by [The Financial Services and Markets Act 2000 (Consequential Amendments and Repeals) Order 2001 (S.I. 2001/3649)](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [500(a)](https://www.legislation.gov.uk/uksi/2001/3649/article/500/a)
+
+[^key-3140f70150db5763cce7c9d88943aaba]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/1995/1268/article/2) omitted (1.1.2005) by virtue of [The Value Added Tax (Special Provisions) (Amendment) (No.2) Order 2004 (S.I. 2004/3085)](https://www.legislation.gov.uk/uksi/2004/3085), [arts. 1](https://www.legislation.gov.uk/uksi/2004/3085/article/1), [2(a)](https://www.legislation.gov.uk/uksi/2004/3085/article/2/a)
+
+[^key-223dc5c74396b9ae0aa93de14ef99ebe]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/1995/1268/article/2/1) substituted (1.9.2006) by [The Value Added Tax (Treatment of Transactions and Special Provisions) (Amendment) Order 2006 (S.I. 2006/2187)](https://www.legislation.gov.uk/uksi/2006/2187), [arts. 1](https://www.legislation.gov.uk/uksi/2006/2187/article/1), [3(1)](https://www.legislation.gov.uk/uksi/2006/2187/article/3/1)
+
+[^f00004]: Footnote: S.I. [1972/1268](https://www.legislation.gov.uk/uksi/1972/1268).
+
+[^key-4b1eb4267e6678a2bfd5b871c8a1cf23]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/1995/1268/article/2) substituted (18.3.1998) by [The Value Added Tax (Special Provisions) (Amendment) Order 1998 (S.I. 1998/760)](https://www.legislation.gov.uk/uksi/1998/760), [arts. 1](https://www.legislation.gov.uk/uksi/1998/760/article/1), [3](https://www.legislation.gov.uk/uksi/1998/760/article/3)
+
+[^key-429184ba1017ba8f99a6a2fa0e3dfdb5]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/1995/1268/article/2) substituted (1.1.2000) by [The Value Added Tax (Special Provisions) (Amendment) (No. 2) Order 1999 (S.I. 1999/3120)](https://www.legislation.gov.uk/uksi/1999/3120), [arts. 1](https://www.legislation.gov.uk/uksi/1999/3120/article/1), [3(b)](https://www.legislation.gov.uk/uksi/1999/3120/article/3/b)
+
+[^key-13cdce28f4b95ef3e900b221657ef607]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/1995/1268/article/2) substituted (1.1.2000) by [The Value Added Tax (Special Provisions) (Amendment) (No. 2) Order 1999 (S.I. 1999/3120)](https://www.legislation.gov.uk/uksi/1999/3120), [arts. 1](https://www.legislation.gov.uk/uksi/1999/3120/article/1), [3(a)](https://www.legislation.gov.uk/uksi/1999/3120/article/3/a)
+
+[^key-a1f7ce9c2d26879a95f021271801d837]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/1995/1268/article/2) substituted (1.12.1999) by [The Value Added Tax (Special Provisions) (Amendment) Order 1999 (S.I. 1999/2831)](https://www.legislation.gov.uk/uksi/1999/2831), [arts. 1](https://www.legislation.gov.uk/uksi/1999/2831/article/1), [2](https://www.legislation.gov.uk/uksi/1999/2831/article/2)
+
+[^key-214e1dc6bf07a552043641acacf19df5]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/1995/1268/article/2) omitted (1.6.2002) by virtue of [The Value Added Tax (Special Provisions) (Amendment) Order 2002 (S.I. 2002/1280)](https://www.legislation.gov.uk/uksi/2002/1280), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2002/1280/article/1/1), [3](https://www.legislation.gov.uk/uksi/2002/1280/article/3) (with [art. 1(2)](https://www.legislation.gov.uk/uksi/2002/1280/article/1/2))
+
+[^key-487ca193b493746e41b6c926dbee159a]: Textual amendment: [Art. 2(2)](https://www.legislation.gov.uk/uksi/1995/1268/article/2) omitted (1.1.2005) by virtue of [The Value Added Tax (Special Provisions) (Amendment) (No.2) Order 2004 (S.I. 2004/3085)](https://www.legislation.gov.uk/uksi/2004/3085), [arts. 1](https://www.legislation.gov.uk/uksi/2004/3085/article/1), [2(b)](https://www.legislation.gov.uk/uksi/2004/3085/article/2/b)
+
+[^key-a0bb33584244e862bc6b877ffca1e711]: Commencement: Art. 3 in force at 1.6.1995, see [art. 1](https://www.legislation.gov.uk/uksi/1995/1268/article/1)
+
+[^f00007]: Footnote: S.I. [1983/1088](https://www.legislation.gov.uk/uksi/1983/1088).
+
+[^f00008]: Footnote: S.I. [1992/3129](https://www.legislation.gov.uk/uksi/1992/3129).
+
+[^f00009]: Footnote: S.I. [1995/957](https://www.legislation.gov.uk/uksi/1995/957).
+
+[^key-e89bb7cd7f114d6bd29d06ae2cafcc9e]: Commencement: Art. 4 in force at 1.6.1995, see [art. 1](https://www.legislation.gov.uk/uksi/1995/1268/article/1)
+
+[^key-325858ce828f2f5e7be93fb67f4faa0f]: Textual amendment: [Art. 4(1A)](https://www.legislation.gov.uk/uksi/1995/1268/article/4/1A) inserted (13.4.2006) by [The Value Added Tax (Special Provisions) (Amendment) Order 2006 (S.I. 2006/869)](https://www.legislation.gov.uk/uksi/2006/869), [arts. 1](https://www.legislation.gov.uk/uksi/2006/869/article/1), [3](https://www.legislation.gov.uk/uksi/2006/869/article/3)
+
+[^key-78319444960232d1f359db7970b7f512]: Textual amendment: Words in [art. 4(2)](https://www.legislation.gov.uk/uksi/1995/1268/article/4/2) inserted (1.6.1995) by [The Value Added Tax (Special Provisions) Order 1995 (Amendment) Order 1995 (S.I. 1995/1385)](https://www.legislation.gov.uk/uksi/1995/1385), [arts. 1](https://www.legislation.gov.uk/uksi/1995/1385/article/1), [2](https://www.legislation.gov.uk/uksi/1995/1385/article/2)
+
+[^key-514043dffaf9d383a7115f871b079462]: Commencement: Art. 5 in force at 1.6.1995, see [art. 1](https://www.legislation.gov.uk/uksi/1995/1268/article/1)
+
+[^key-fa8431a52e868570881488fadfa50417]: Textual amendment: Words in [art. 5(1)(a)(ii)](https://www.legislation.gov.uk/uksi/1995/1268/article/5/1/a/ii) substituted (18.3.1998) by [The Value Added Tax (Special Provisions) (Amendment) Order 1998 (S.I. 1998/760)](https://www.legislation.gov.uk/uksi/1998/760), [arts. 1](https://www.legislation.gov.uk/uksi/1998/760/article/1), [4](https://www.legislation.gov.uk/uksi/1998/760/article/4)
+
+[^key-5fc4e3768cf6e966500d47a37a34994d]: Textual amendment: Words in [art. 5(1)(b)(iii)](https://www.legislation.gov.uk/uksi/1995/1268/article/5/1/b/iii) substituted (18.3.1998) by [The Value Added Tax (Special Provisions) (Amendment) Order 1998 (S.I. 1998/760)](https://www.legislation.gov.uk/uksi/1998/760), [arts. 1](https://www.legislation.gov.uk/uksi/1998/760/article/1), [4](https://www.legislation.gov.uk/uksi/1998/760/article/4)
+
+[^M_F_c9a1d15b-65f0-40e6-8d2a-404536919f0d]: Textual amendment: Words in art. 5(2)(a) substituted (with effect in accordance with art. 1(2) of the amending S.I.) by [The Value Added Tax (Buildings and Land) Order 2008 (S.I. 2008/1146)](https://www.legislation.gov.uk/uksi/2008/1146), [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/1146/article/1/1), [Sch. 1 para. 15(a)](https://www.legislation.gov.uk/uksi/2008/1146/schedule/1/paragraph/15/a) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2008/1146/schedule/2))
+
+[^key-34ac4552bf06ee3e5101c1ca7a6a93f9]: Textual amendment: Words in [art. 5(2)](https://www.legislation.gov.uk/uksi/1995/1268/article/5/2) substituted (18.3.2004) by virtue of [The Value Added Tax (Special Provisions) (Amendment) Order 2004 (S.I. 2004/779)](https://www.legislation.gov.uk/uksi/2004/779), [arts. 1](https://www.legislation.gov.uk/uksi/2004/779/article/1), [3](https://www.legislation.gov.uk/uksi/2004/779/article/3)
+
+[^key-27a48304533868d0a38fbc46ab4871cf]: Textual amendment: [Art. 5(2A)](https://www.legislation.gov.uk/uksi/1995/1268/article/5/2A)[(2B)](https://www.legislation.gov.uk/uksi/1995/1268/article/5/2B) inserted (18.3.2004) by [The Value Added Tax (Special Provisions) (Amendment) Order 2004 (S.I. 2004/779)](https://www.legislation.gov.uk/uksi/2004/779), [arts. 1](https://www.legislation.gov.uk/uksi/2004/779/article/1), [4](https://www.legislation.gov.uk/uksi/2004/779/article/4)
+
+[^M_F_338bf2e9-fcb0-4e91-e738-0ccd40a393eb]: Textual amendment: Words in art. 5(2A)(a) substituted (with effect in accordance with art. 1(2) of the amending S.I.) by [The Value Added Tax (Buildings and Land) Order 2008 (S.I. 2008/1146)](https://www.legislation.gov.uk/uksi/2008/1146), [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/1146/article/1/1), [Sch. 1 para. 15(b)](https://www.legislation.gov.uk/uksi/2008/1146/schedule/1/paragraph/15/a) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2008/1146/schedule/2))
+
+[^M_F_410ef78e-be15-44ae-f810-4466240604d4]: Textual amendment: Words in art. 5(2A)(a) substituted (with effect in accordance with art. 1(2) of the amending S.I.) by [The Value Added Tax (Buildings and Land) Order 2008 (S.I. 2008/1146)](https://www.legislation.gov.uk/uksi/2008/1146), [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/1146/article/1/1), [Sch. 1 para. 15(b)](https://www.legislation.gov.uk/uksi/2008/1146/schedule/1/paragraph/15/a) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2008/1146/schedule/2))
+
+[^M_F_a96d2c95-e047-4e9b-e6ea-86734878fbdf]: Textual amendment: Words in art. 5(2B)(b) substituted (with effect in accordance with art. 1(2) of the amending S.I.) by [The Value Added Tax (Buildings and Land) Order 2008 (S.I. 2008/1146)](https://www.legislation.gov.uk/uksi/2008/1146), [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/1146/article/1/1), [Sch. 1 para. 15(c)](https://www.legislation.gov.uk/uksi/2008/1146/schedule/1/paragraph/15/a) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2008/1146/schedule/2))
+
+[^M_F_5fde3ee9-6acb-4f63-d840-6df520c7eea2]: Textual amendment: Words in art. 5(3) omitted (with effect in accordance with art. 1(2) of the amending S.I.) by [The Value Added Tax (Buildings and Land) Order 2008 (S.I. 2008/1146)](https://www.legislation.gov.uk/uksi/2008/1146), [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/1146/article/1/1), [Sch. 1 para. 15(d)](https://www.legislation.gov.uk/uksi/2008/1146/schedule/1/paragraph/15/a) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2008/1146/schedule/2))
+
+[^M_F_67017cd5-d8c7-4568-e575-6e4a4af518fd]: Textual amendment: Words in art. 5(3) inserted (with effect in accordance with art. 1(2) of the amending S.I.) by [The Value Added Tax (Buildings and Land) Order 2008 (S.I. 2008/1146)](https://www.legislation.gov.uk/uksi/2008/1146), [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/1146/article/1/1), [Sch. 1 para. 15(d)](https://www.legislation.gov.uk/uksi/2008/1146/schedule/1/paragraph/15/a) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2008/1146/schedule/2))
+
+[^M_F_10420c89-09d9-4bc2-e96c-cb1d5d9c425b]: Textual amendment: Words in art. 5(3) substituted (with effect in accordance with art. 1(2) of the amending S.I.) by [The Value Added Tax (Buildings and Land) Order 2008 (S.I. 2008/1146)](https://www.legislation.gov.uk/uksi/2008/1146), [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/1146/article/1/1), [Sch. 1 para. 15(e)](https://www.legislation.gov.uk/uksi/2008/1146/schedule/1/paragraph/15/a) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2008/1146/schedule/2))
+
+[^key-7d222bd4fa4dfadee331a5710362b9c6]: Commencement: Art. 6 in force at 1.6.1995, see [art. 1](https://www.legislation.gov.uk/uksi/1995/1268/article/1)
+
+[^key-2795feeb9751649b510b962dc5d92c67]: Commencement: Art. 7 in force at 1.6.1995, see [art. 1](https://www.legislation.gov.uk/uksi/1995/1268/article/1)
+
+[^key-0f02dc44a3d591b8e7b72fd064e3e325]: Textual amendment: Words in [art. 7](https://www.legislation.gov.uk/uksi/1995/1268/article/7) inserted (31.12.2020) by [The Value Added Tax (Miscellaneous Amendments, Northern Ireland Protocol and Savings and Transitional Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1545)](https://www.legislation.gov.uk/uksi/2020/1545), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1545/regulation/1), [30(3)(a)](https://www.legislation.gov.uk/uksi/2020/1545/regulation/30/3/a) (with [regs. 109-131](https://www.legislation.gov.uk/uksi/2020/1545/regulation/109)); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+
+[^key-9586c8542957183f99aeaa5ed4c9a64d]: Textual amendment: Words in [art. 7](https://www.legislation.gov.uk/uksi/1995/1268/article/7) substituted (31.12.2020) by [The Value Added Tax (Miscellaneous Amendments, Northern Ireland Protocol and Savings and Transitional Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1545)](https://www.legislation.gov.uk/uksi/2020/1545), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1545/regulation/1), [30(2)](https://www.legislation.gov.uk/uksi/2020/1545/regulation/30/2) (with [regs. 109-131](https://www.legislation.gov.uk/uksi/2020/1545/regulation/109)); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+
+[^key-a426b69aa913bd104a597c9ea9c04562]: Textual amendment: Words in [art. 7](https://www.legislation.gov.uk/uksi/1995/1268/article/7) substituted (31.12.2020) by [The Value Added Tax (Miscellaneous Amendments, Northern Ireland Protocol and Savings and Transitional Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1545)](https://www.legislation.gov.uk/uksi/2020/1545), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1545/regulation/1), [30(3)(b)](https://www.legislation.gov.uk/uksi/2020/1545/regulation/30/3/b) (with [regs. 109-131](https://www.legislation.gov.uk/uksi/2020/1545/regulation/109)); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+
+[^key-ca0b4465ad59d7c43824fcf20635283a]: Commencement: Art. 8 in force at 1.6.1995, see [art. 1](https://www.legislation.gov.uk/uksi/1995/1268/article/1)
+
+[^key-1276760a3fc722cdbdbb37fef4e96f6b]: Textual amendment: Words in [art. 8](https://www.legislation.gov.uk/uksi/1995/1268/article/8) substituted (31.12.2020) by [The Value Added Tax (Miscellaneous Amendments, Northern Ireland Protocol and Savings and Transitional Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1545)](https://www.legislation.gov.uk/uksi/2020/1545), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1545/regulation/1), [30(4)](https://www.legislation.gov.uk/uksi/2020/1545/regulation/30/4) (with [regs. 109-131](https://www.legislation.gov.uk/uksi/2020/1545/regulation/109)); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+
+[^key-6009670d4e0c9a386fb5d7471ff03c8f]: Textual amendment: Words in [art. 8](https://www.legislation.gov.uk/uksi/1995/1268/article/8) substituted (31.12.2020) by [The Value Added Tax (Miscellaneous Amendments, Northern Ireland Protocol and Savings and Transitional Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1545)](https://www.legislation.gov.uk/uksi/2020/1545), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1545/regulation/1), [30(2)](https://www.legislation.gov.uk/uksi/2020/1545/regulation/30/2) (with [regs. 109-131](https://www.legislation.gov.uk/uksi/2020/1545/regulation/109)); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+
+[^key-56443ad9eea632ea4846063e92b0d3eb]: Commencement: Art. 9 in force at 1.6.1995, see [art. 1](https://www.legislation.gov.uk/uksi/1995/1268/article/1)
+
+[^key-327088b633edba814f33af9e1a9388f5]: Commencement: Art. 10 in force at 1.6.1995, see [art. 1](https://www.legislation.gov.uk/uksi/1995/1268/article/1)
+
+[^key-a63f1af20263bb781dd5a8f043569334]: Textual amendment: [Art. 11](https://www.legislation.gov.uk/uksi/1995/1268/article/11) omitted (1.6.2002) by virtue of [The Value Added Tax (Special Provisions) (Amendment) Order 2002 (S.I. 2002/1280)](https://www.legislation.gov.uk/uksi/2002/1280), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2002/1280/article/1/1), [4](https://www.legislation.gov.uk/uksi/2002/1280/article/4) (with [art. 1(2)](https://www.legislation.gov.uk/uksi/2002/1280/article/1/2))
+
+[^key-09a922b50705120e3b6bf73831a77673]: Commencement: Art. 12 in force at 1.6.1995, see [art. 1](https://www.legislation.gov.uk/uksi/1995/1268/article/1)
+
+[^f00011]: Footnote: Profit margin is defined for these purposes in section 50A (4) of the Value Added Tax Act [1994 (c. 23)](https://www.legislation.gov.uk/ukpga/1994/23) which was inserted by section 24(1) of the Finance Act [1995 (c. 4)](https://www.legislation.gov.uk/ukpga/1995/4).
+
+[^key-34046d1c43a2812d09e61e19465340a9]: Textual amendment: [Art. 12(3)(a)](https://www.legislation.gov.uk/uksi/1995/1268/article/12/3/a) substituted (3.7.1997) by [The Value Added Tax (Special Provisions) (Amendment) Order 1997 (S.I. 1997/1616)](https://www.legislation.gov.uk/uksi/1997/1616), [arts. 1](https://www.legislation.gov.uk/uksi/1997/1616/article/1), [3](https://www.legislation.gov.uk/uksi/1997/1616/article/3)
+
+[^key-6ffbc47e76c24a7546cfc2ea40888d3f]: Textual amendment: Words in [art. 12(3)(a)](https://www.legislation.gov.uk/uksi/1995/1268/article/12/3/a) inserted (31.12.2020) by [The Value Added Tax (Miscellaneous Amendments, Northern Ireland Protocol and Savings and Transitional Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1545)](https://www.legislation.gov.uk/uksi/2020/1545), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1545/regulation/1), [30(5)(a)](https://www.legislation.gov.uk/uksi/2020/1545/regulation/30/5/a) (with [regs. 109-131](https://www.legislation.gov.uk/uksi/2020/1545/regulation/109)); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+
+[^key-c543564ae41b1d8d9f5383470582273d]: Textual amendment: Words in [art. 12](https://www.legislation.gov.uk/uksi/1995/1268/article/12) substituted (31.12.2020) by [The Value Added Tax (Miscellaneous Amendments, Northern Ireland Protocol and Savings and Transitional Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1545)](https://www.legislation.gov.uk/uksi/2020/1545), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1545/regulation/1), [30(2)](https://www.legislation.gov.uk/uksi/2020/1545/regulation/30/2) (with [regs. 109-131](https://www.legislation.gov.uk/uksi/2020/1545/regulation/109)); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+
+[^key-c6bf20ce9e81437f413571401c9fdd22]: Textual amendment: Words in [art. 12(3)(a)(ii)](https://www.legislation.gov.uk/uksi/1995/1268/article/12/3/a/ii) inserted (31.12.2020) by [The Value Added Tax (Miscellaneous Amendments, Northern Ireland Protocol and Savings and Transitional Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1545)](https://www.legislation.gov.uk/uksi/2020/1545), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1545/regulation/1), [30(5)(b)](https://www.legislation.gov.uk/uksi/2020/1545/regulation/30/5/b) (with [regs. 109-131](https://www.legislation.gov.uk/uksi/2020/1545/regulation/109)); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+
+[^key-d552e1cdb3769858cf0522d184c1cc7a]: Textual amendment: [Art. 12(3)(a)(iii)](https://www.legislation.gov.uk/uksi/1995/1268/article/12/3/a/iii)[(iv)](https://www.legislation.gov.uk/uksi/1995/1268/article/12/3/a/iv) substituted (1.7.2002) by [The Value Added Tax (Special Provisions) (Amendment) (No. 2) Order 2002 (S.I. 2002/1503)](https://www.legislation.gov.uk/uksi/2002/1503), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2002/1503/article/1/1), [2(a)](https://www.legislation.gov.uk/uksi/2002/1503/article/2/a) (with [art. 1(2)](https://www.legislation.gov.uk/uksi/2002/1503/article/1/2))
+
+[^key-f1dd3ab39933ca21fce02b525a0c6893]: Textual amendment: [Art. 12(3)(aa)](https://www.legislation.gov.uk/uksi/1995/1268/article/12/3/aa) inserted (31.12.2020) by [The Value Added Tax (Miscellaneous Amendments, Northern Ireland Protocol and Savings and Transitional Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1545)](https://www.legislation.gov.uk/uksi/2020/1545), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1545/regulation/1), [30(5)(c)](https://www.legislation.gov.uk/uksi/2020/1545/regulation/30/5/c) (with [regs. 109-131](https://www.legislation.gov.uk/uksi/2020/1545/regulation/109)); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+
+[^key-d5320574360bbdf314bcde1fa2955350]: Textual amendment: Words in [art. 12(3)(b)](https://www.legislation.gov.uk/uksi/1995/1268/article/12/3/b) inserted (1.9.2006) by [The Value Added Tax (Treatment of Transactions and Special Provisions) (Amendment) Order 2006 (S.I. 2006/2187)](https://www.legislation.gov.uk/uksi/2006/2187), [arts. 1](https://www.legislation.gov.uk/uksi/2006/2187/article/1), [3(2)](https://www.legislation.gov.uk/uksi/2006/2187/article/3/2)
+
+[^key-f84ddbdcf71df39671025cbb6cb37355]: Textual amendment: [Art. 12(3)(b)(i)](https://www.legislation.gov.uk/uksi/1995/1268/article/12/3/b/i)[(ii)](https://www.legislation.gov.uk/uksi/1995/1268/article/12/3/b/ii) substituted for words (31.12.2020) by [The Value Added Tax (Miscellaneous Amendments, Northern Ireland Protocol and Savings and Transitional Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1545)](https://www.legislation.gov.uk/uksi/2020/1545), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1545/regulation/1), [30(5)(d)](https://www.legislation.gov.uk/uksi/2020/1545/regulation/30/5/d) (with [regs. 109-131](https://www.legislation.gov.uk/uksi/2020/1545/regulation/109)); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+
+[^key-55b574f41f35ce123294ef525f12fc75]: Textual amendment: Words in [art. 12(3)(b)(ii)](https://www.legislation.gov.uk/uksi/1995/1268/article/12/3/b/ii) substituted (1.12.2021) by [The Value Added Tax (Distance Selling and Miscellaneous Amendments) Regulations 2021 (S.I. 2021/1164)](https://www.legislation.gov.uk/uksi/2021/1164), [regs. 1](https://www.legislation.gov.uk/uksi/2021/1164/regulation/1), [34](https://www.legislation.gov.uk/uksi/2021/1164/regulation/34)
+
+[^key-b2a6833c68f76820de52e3753a38173c]: Textual amendment: [Art. 12(3A)](https://www.legislation.gov.uk/uksi/1995/1268/article/12/3A) inserted (1.7.2002) by [The Value Added Tax (Special Provisions) (Amendment) (No. 2) Order 2002 (S.I. 2002/1503)](https://www.legislation.gov.uk/uksi/2002/1503), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2002/1503/article/1/1), [2(b)](https://www.legislation.gov.uk/uksi/2002/1503/article/2/b) (with [art. 1(2)](https://www.legislation.gov.uk/uksi/2002/1503/article/1/2))
+
+[^f00012]: Footnote: [1968 c. 27](https://www.legislation.gov.uk/ukpga/1968/27); section 5(1) was amended by section 1 of the Firearms (Amendment) Act [1988 (c. 45)](https://www.legislation.gov.uk/ukpga/1988/45).
+
+[^key-629c71219583f947100f6b993423a3d3]: Textual amendment: Word in [art. 12(4)(a)(iii)](https://www.legislation.gov.uk/uksi/1995/1268/article/12/4/a/iii) omitted (1.8.2021) by virtue of [The Value Added Tax (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/715)](https://www.legislation.gov.uk/uksi/2021/715), [regs. 1](https://www.legislation.gov.uk/uksi/2021/715/regulation/1), [13(a)](https://www.legislation.gov.uk/uksi/2021/715/regulation/13/a)
+
+[^key-e21137f174d833b420286df8322ad90f]: Textual amendment: [Art. 12(4)(a)(v)](https://www.legislation.gov.uk/uksi/1995/1268/article/12/4/a/v)[(vi)](https://www.legislation.gov.uk/uksi/1995/1268/article/12/4/a/vi) inserted (1.8.2021) by [The Value Added Tax (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/715)](https://www.legislation.gov.uk/uksi/2021/715), [regs. 1](https://www.legislation.gov.uk/uksi/2021/715/regulation/1), [13(b)](https://www.legislation.gov.uk/uksi/2021/715/regulation/13/b)
+
+[^key-1e6371618c1208dd6fe39afc51f8c94d]: Textual amendment: Word in [art. 12(4)(b)(i)](https://www.legislation.gov.uk/uksi/1995/1268/article/12/4/b/i) substituted (18.3.1998) by [The Value Added Tax (Special Provisions) (Amendment) Order 1998 (S.I. 1998/760)](https://www.legislation.gov.uk/uksi/1998/760), [arts. 1](https://www.legislation.gov.uk/uksi/1998/760/article/1), [5](https://www.legislation.gov.uk/uksi/1998/760/article/5)
+
+[^key-1bc396ab955b6f8bd03a3a08ff32315f]: Textual amendment: Words in [art. 12(5)(a)(iv)](https://www.legislation.gov.uk/uksi/1995/1268/article/12/5/a/iv) inserted (1.9.2006) by [The Value Added Tax (Treatment of Transactions and Special Provisions) (Amendment) Order 2006 (S.I. 2006/2187)](https://www.legislation.gov.uk/uksi/2006/2187), [arts. 1](https://www.legislation.gov.uk/uksi/2006/2187/article/1), [3(3)](https://www.legislation.gov.uk/uksi/2006/2187/article/3/3)
+
+[^key-27909fde0cab0866d9adb51d78c21fa7]: Textual amendment: Words in [art. 12(5)(iv)](https://www.legislation.gov.uk/uksi/1995/1268/article/12/5/iv) substituted (31.12.2020) by [The Value Added Tax (Miscellaneous Amendments, Northern Ireland Protocol and Savings and Transitional Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1545)](https://www.legislation.gov.uk/uksi/2020/1545), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1545/regulation/1), [30(5)(e)](https://www.legislation.gov.uk/uksi/2020/1545/regulation/30/5/e) (with [regs. 109-131](https://www.legislation.gov.uk/uksi/2020/1545/regulation/109)); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+
+[^key-bb65b0f076f4b04a6a7af638dec7584a]: Textual amendment: [Art. 12(5)(a)(v)](https://www.legislation.gov.uk/uksi/1995/1268/article/12/5/a/v)[(vi)](https://www.legislation.gov.uk/uksi/1995/1268/article/12/5/a/vi) substituted for [art. 12(5)(a)(v)](https://www.legislation.gov.uk/uksi/1995/1268/article/12/5/a/v) (1.7.2002) by [The Value Added Tax (Special Provisions) (Amendment) (No. 2) Order 2002 (S.I. 2002/1503)](https://www.legislation.gov.uk/uksi/2002/1503), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2002/1503/article/1/1), [2(c)](https://www.legislation.gov.uk/uksi/2002/1503/article/2/c) (with [art. 1(2)](https://www.legislation.gov.uk/uksi/2002/1503/article/1/2))
+
+[^key-e1b6de6903c5ee573d441d1e46babb08]: Textual amendment: [Art. 12(5)(c)](https://www.legislation.gov.uk/uksi/1995/1268/article/12/5/c) omitted (1.7.2002) by virtue of [The Value Added Tax (Special Provisions) (Amendment) (No. 2) Order 2002 (S.I. 2002/1503)](https://www.legislation.gov.uk/uksi/2002/1503), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2002/1503/article/1/1), [2(d)](https://www.legislation.gov.uk/uksi/2002/1503/article/2/d) (with [art. 1(2)](https://www.legislation.gov.uk/uksi/2002/1503/article/1/2))
+
+[^key-e031a542e5f62e1b227be76bb8cccf78]: Textual amendment: [Art. 12(7)(a)](https://www.legislation.gov.uk/uksi/1995/1268/article/12/7/a) substituted (2.1.2002) by [The Value Added Tax (Special Provisions) (Amendment) Order 2001 (S.I. 2001/3753)](https://www.legislation.gov.uk/uksi/2001/3753), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3753/article/1), [3](https://www.legislation.gov.uk/uksi/2001/3753/article/3)
+
+[^key-71b295952665dba816be29b089440acc]: Textual amendment: Word in [art. 12(8)](https://www.legislation.gov.uk/uksi/1995/1268/article/12/8) substituted (18.3.1998) by virtue of [The Value Added Tax (Special Provisions) (Amendment) Order 1998 (S.I. 1998/760)](https://www.legislation.gov.uk/uksi/1998/760), [arts. 1](https://www.legislation.gov.uk/uksi/1998/760/article/1), [5](https://www.legislation.gov.uk/uksi/1998/760/article/5)
+
+[^key-cf1952b2ce57dd3989b0dd5d692ae092]: Textual amendment: [Art. 12(10)](https://www.legislation.gov.uk/uksi/1995/1268/article/12/10)[(11)](https://www.legislation.gov.uk/uksi/1995/1268/article/12/11) added (1.7.2002) by [The Value Added Tax (Special Provisions) (Amendment) (No. 2) Order 2002 (S.I. 2002/1503)](https://www.legislation.gov.uk/uksi/2002/1503), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2002/1503/article/1/1), [2(e)](https://www.legislation.gov.uk/uksi/2002/1503/article/2/e) (with [art. 1(2)](https://www.legislation.gov.uk/uksi/2002/1503/article/1/2))
+
+[^key-ac45aa66aa6295ba66d1c6d341b37866]: Textual amendment: [Art. 12A](https://www.legislation.gov.uk/uksi/1995/1268/article/12A) inserted (31.12.2020) by [The Value Added Tax (Miscellaneous Amendments, Northern Ireland Protocol and Savings and Transitional Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1545)](https://www.legislation.gov.uk/uksi/2020/1545), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1545/regulation/1), [30(6)](https://www.legislation.gov.uk/uksi/2020/1545/regulation/30/6) (with [regs. 109-131](https://www.legislation.gov.uk/uksi/2020/1545/regulation/109)); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+
+[^key-2df7ffc043d301250f62a644d23cc13d]: Commencement: Art. 13 in force at 1.6.1995, see [art. 1](https://www.legislation.gov.uk/uksi/1995/1268/article/1)
+
+[^key-1932443360f32057be5219114bec3bcf]: Textual amendment: [Art. 13(3)](https://www.legislation.gov.uk/uksi/1995/1268/article/13/3) substituted (1.1.2000) by [The Value Added Tax (Special Provisions) (Amendment) (No. 2) Order 1999 (S.I. 1999/3120)](https://www.legislation.gov.uk/uksi/1999/3120), [arts. 1](https://www.legislation.gov.uk/uksi/1999/3120/article/1), [4](https://www.legislation.gov.uk/uksi/1999/3120/article/4)

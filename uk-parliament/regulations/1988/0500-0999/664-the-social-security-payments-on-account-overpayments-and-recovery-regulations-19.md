@@ -1,0 +1,1095 @@
+---
+title: The Social Security (Payments on account, Overpayments and Recovery) Regulations 1988
+id: uksi/1988/664
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised-with-pending-changes
+made_date: '1988-03-30'
+text_date: '2026-10-29'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/1988/664
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1988/664/pdfs/uksi_19880664_301114_en.pdf
+- http://www.legislation.gov.uk/uksi/1988/664/data.pdf
+pending_changes: 1
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Social Security (Payments on account, Overpayments and Recovery) Regulations 1988
+
+> **Warning: changes not yet applied to this text (1).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/uksi/1988/664
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+1988 No. 664
+
+SOCIAL SECURITY
+
+The Social Security (Payments on account, Overpayments and Recovery) Regulations 1988
+
+Made
+
+30th March 1988
+
+Coming into force
+
+11th April 1988
+
+[^c2181059]Whereas a draft of the following Regulations was laid before Parliament in accordance with the provisions of section 83(3)(b) of the Social Security Act 1986 and approved by resolution of each House of Parliament.
+
+Now, therefore, the Secretary of State for Social Services, in exercise of the powers conferred on him by sections 23(8), 27, 51(1)(t) and (u), 53, 83(1), 84(1) and 89 of that Act [^c2181060] and all other powers enabling him in that behalf, by this instrument, which contains only regulations made under the sections of the Social Security Act 1986 specified above and provisions consequential on those sections and which is made before the end of a period of 12 months from the commencement of those sections, makes the following Regulations:[^key-e4d5cf935a5cb97e0729f54dfbc119fa][^key-0ebf2d7364b1e3b7bedb2816d2b3cbb0]
+
+## PART I — GENERAL
+
+### 1. Citation, commencement and interpretation
+
+(1) These Regulations may be cited as the Social Security (Payments on account, Overpayments and Recovery) Regulations 1988 and shall come into force on 11th April 1988.
+
+(2)[^M_C_6419cfd1-ceb9-4628-c67b-fd2112a8053d] In these Regulations, unless the context otherwise requires—
+
+- “the[^key-2ed120052b9d713bd8578b8b76dde98b] 1995 Act ” means the Jobseekers Act 1995;
+- “the 2007 Act ” means the Welfare Reform Act 2007;
+- “the[^key-a5fa46bd20086654952337af18cb76cf] 2012 Act ” means the Welfare Reform Act 2012;
+- “**the Act**” means the Social Security Act 1986;
+- “[^key-a23a40148e72f198e1f8ed78903f3e6e] **adjudicating authority** ” means, as the case may require, the Board, an officer of the Board, the First-tier Tribunal or the Upper Tribunal;[^key-53e2b4afc0283cfdd8de9672bbc09344];
+- “the Administration Act” means the Social Security Administration Act 1992;[^key-05d4a81dc1883832fc235a7600516704]
+- “**benefit**” means a[^key-7556d4ab627e1f3f77a3ab76867f549e] jobseeker’s allowance, state pension credit[^key-d8054839c29474d5e953368ceb01f1f7],[^key-1bcb7d28ca5492b68d3105dee11c6008] personal independence payment,[^key-a31574db48cd45ce126ee427db4825f2] an employment and support allowance and any benefit under the Social Security Act 1975 , a state pension under Part 1 of the Pensions Act 2014[^key-e8ff43b3be7373dab9a0a1054e255b39][^c2181061], child benefit, disabled person’s tax credit, working families' tax credit[^key-e8ed6ef65d96e1e9102012b4f1988e85], income support and any social fund payment under sections 32(2)(a) and 32(2A) of the Act[^M_F_f138e10b-f7b7-4ac0-e481-b9736d036f94] and any incapacity benefit under sections 30A(1) and (5) of the Contributions and Benefits Act[^key-9903e8f2febe282cc77662aaf449790b];
+- [^key-a3d2485dfa7c93b497a7912c8ecac345]...
+- “the Board” means the Commissioners of Inland Revenue;[^key-38815a477296d48557813a1bdde25090]
+- “**child benefit**” means benefit under Part I of the Child Benefit Act 1975 [^c2181062];
+- “**the Claims and Payments Regulations**” means the Social Security (Claims and Payments) Regulations 1987 [^c2181063];
+- “the Contributions and Benefits Act” means the Social Security Contributions and Benefits Act 1992;[^key-a701277d0fe917d60f2684c15e2e28d7]
+- “disability living allowance” means a disability living allowance under section 37ZA of the Social Security Act 1975;[^M_F_5fac2da6-8f14-44ae-cf60-4337a552daeb]
+- “disabled person’s tax credit” means a disabled person’s tax credit under section 129 of the Contributions and Benefits Act and, in relation to things done, or falling to be done, prior to 5th October 1999, shall include a reference to disability working allowance;[^key-922d56cefa56cacdb5b522f98878aa84]
+- “employment and support allowance” means, for the purposes of Parts 3 to 6, employment and support allowance under Part 1 of the[^key-83e008d47090ef04b35f39d626561785] 2007 Act as that Part has effect apart from the amendments made by Schedule 3, and Part 1 of Schedule 14, to the 2012 Act that remove references to an income-related allowance;
+- “the Employment and Support Allowance Regulations” means the Employment and Support Allowance Regulations 2008;[^key-cc0440b6ca0efbdc7d8d407b1bd4ea16]
+- [^key-2c865cbc8af1a482069c045777154629]...
+- “**guardian's allowance**” means an allowance under section 38 of the Social Security Act 1975 [^c2181064];
+- “**income support**” means income support under Part II of the Act and includes personal expenses addition, special transitional addition and transitional addition as defined in the Income Support (Transitional) Regulations 1987 [^c2181065];
+- “**Income Support Regulations**” means the Income Support (General) Regulations 1987 [^c2181066];
+- “jobseeker’s allowance” means, for the purposes of Parts 3 to 6, jobseeker’s allowance under the[^key-433e27e8c179127e973370f7a78f96ed] 1995 Act as that Act has effect apart from the amendments made by Part 1 of Schedule 14 to the 2012 Act that remove references to an income-based allowance;
+- “Jobseeker’s Allowance Regulations” means the Jobseeker’s Allowance Regulations 1996;[^key-ac4a7cf74f4bbcd44cf241b8aa6c7fad]
+- “personal independence payment” means the allowance under Part 4 of the[^key-36522378fc7737802acf52342ba046ca] 2012 Act ;
+- “**severe disablement allowance**” means an allowance under section 36 of the Social Security Act 1975 [^c2181067].
+- “state pension credit” means the benefit payable under the State Pension Credit Act 2002;[^key-4ae9166136abbc72ceb4e8ebb0c42636]
+- “the State Pension Credit Regulations ” means the State Pension Credit Regulations 2002”.
+- “start notification” means a notification of entitlement to tax credit furnished to an employer by the Board, referred to in section 6(2)(a) of the Tax Credits Act 1999;[^key-9f5154602b0c1440692ed21a4b8c408e]
+- “tax credit” means working families' tax credit or disabled person’s tax credit;
+- “universal credit” means universal credit under Part 1 of the[^key-4fe51ac154acd89a4d8ac1fc8b4bfb2e] 2012 Act ;
+- “the Welfare Reform Act” means the Welfare Reform Act 2007;[^key-0a4118bcb44aafcde407cdbdf7b475c6]
+- “working families' tax credit” means working families' tax credit under section 128 of the Contributions and Benefits Act and, in relation to things done, or falling to be done, prior to 5th October 1999, shall include a reference to family credit.
+
+(3) Unless the context otherwise requires, any reference in these Regulations to a numbered Part or regulation is a reference to the Part or regulation bearing that number in these Regulations and any reference in a regulation to a numbered paragraph is a reference to the paragraph of that regulation bearing that number.a numbered Part or regulation is a reference to the Part or regulation bearing that number in these Regulations and any reference in a regulation to a numbered paragraph is a reference to the paragraph of that regulation bearing that number.
+
+## PART II — INTERIM PAYMENTS[^M_C_c18ef557-2ec7-42d7-e961-bdbc757cb266]
+
+### 2. Making of interim payments
+
+(1) Subject to paragraph (1A),[^M_F_539cc30b-7387-4be0-b340-af603d917152] the Board may, in their discretion[^key-92255133068d13bdde95ea0bff1ea39d], make an interim payment, that is to say a payment on account of any benefit to which it appears to them[^key-b837754ce475a35cea090ecd2cc78a7b] that a person is or may be entitled (or, where sub-paragraph (a) applies, entitled apart from satisfying the condition of making a claim)[^key-da65ad3e971f9be542dc44b6873a4d54], in the following circumstances—
+
+- (a) a claim for that benefit has not been made in accordance with the Claims and Payments Regulations and it is impracticable for such a claim to be made immediately, including where it is impracticable to satisfy immediately the national insurance number requirements in section 1(1A) and (1B) of the Administration Act[^key-b3b9508cf135ce7b653d11d7f6b08edd]; or
+- (b)[^M_C_e59d0ac2-b90e-405c-86aa-aca3ee0e0466] a claim for that benefit has been so made, but it is impracticable for it or a reference, revision, supersession[^key-a646e0f37d9c9e4368b47ae76bb0750c], application or appeal which relates to it to be determined immediately; or
+- (c) an award of that benefit has been made but it is impracticable for the beneficiary to be paid immediately, except by means of an interim payment.
+
+(1A)[^key-f7816a5ace14a87b2509f4a871a30c2a] Paragraph (1) shall not apply pending the determination of an appeal.
+
+(2) Subject to paragraph (3),[^M_F_f6c4b2e0-f3ce-4ae0-f970-d9d913cd7aa6] on or before the making of an interim payment the recipient shall be given notice in writing of his liability under this Part to have it brought into account and to repay any overpayment.
+
+(3)[^M_F_d08c9d19-c41a-4e10-c0cc-f7dfc8394b57] Where the recipient of an interim payment of disability living allowance–
+
+- (a) is terminally ill within the meaning of section 35(2C) of the Social Security Act 1975; or
+- (b) had an invalid carriage or other vehicle provided by the Secretary of State under section 5(2)(a) of the National Health Service Act 1977 and Schedule 2 to that Act or under section 46 of the National Health Service (Scotland) Act 1978,
+
+the requirement to give notice in paragraph (2) of this regulation shall be omitted.
+
+(4)[^M_F_1358b181-cdcd-4078-f5a0-01683b8b51a8] Where an interim payment of income support or income-related employment and support allowance[^key-ee7b0d371a39fff2c167f51946a8ed78] is made because a payment to which the recipient is entitled by way of child support maintenance under the Child Support Act 1991, or periodical payments under a maintenance agreement within the meaning of section 9(1) of that Act or under a maintenance order within the meaning of section 107(15) of the Social Security Administration Act 1992, has not been made, the requirement in paragraph (2) of this regulation to give notice shall be omitted.
+
+### 3. Bringing interim payments into account[^M_F_8dc7cd4a-a54f-4199-8b1c-177f25286001]
+
+(1)[^key-d62666ac61692db0915e5c8ed1aefcc5] Subject to paragraph (2), where[^key-bd9064ce039cadf147bdd07cfbe3a660] it is practicable to do so and, where notice is required to be given under regulation 2(2), such notice has been given—
+
+- (a) any interim payment, other than an interim payment made in the circumstances mentioned in regulation 2(4),—
+  - (i) which was made in anticipation of an award of benefit shall be offset by the adjudicating authority in reduction of the benefit to be awarded; and
+  - (ii) whether or not made in anticipation of an award, which is not offset under sub-paragraph (i) shall be deducted by the Secretary of State from—
+- (a) the sum payable under the award of benefit on account of which the interim payment was made; or
+- (b) any sum payable under any subsequent award of the same benefit to the same person; and
+- (b) any interim payment made in the circumstances mentioned in regulation 2(4) shall be offset by the Secretary of State against any sum received by him in respect of arrears of child support maintenance payable to the person to whom the interim payment was made.
+
+(2)[^key-bcb8970b91508f051e4e2a2a8921d686] Where the interim payment mentioned in paragraph (1)(a) is a payment on account of tax credit, paragraph 1(a), but not paragraph 1(b), shall apply with the modification that, for the words “Secretary of State” there is substituted the word “Board”.
+
+### 4. Recovery of overpaid interim payments
+
+(1) Where the adjudicating authority has determined that an interim payment has been overpaid in circumstances which fall within paragraph (3) and where notice is required to be given under regulation 2(2), such notice has been given[^M_F_d0eb861c-f3b0-4c70-ed04-170ecd0c20d1], that authority shall determine the amount of the overpayment.
+
+(2) The amount of the overpayment shall be recoverable by the Secretary of State by the same procedures and subject to the same conditions as if it were recoverable under section 53(1) of the Act.
+
+(3) The circumstances in which an interim payment may be determined to have been overpaid are as follows—
+
+- (a) an interim payment has been made under regulation 2(1)(a) or (b) but—
+  - (i) the recipient has failed to make a claim in accordance with the Claims and Payments Regulations as soon as practicable or has made a claim which is either defective or is not made on the form approved for the time being by the Secretary of State and the Secretary of State has not treated the claim as duly made under regulation 4(7) of the Claims and Payments Regulations, or
+  - (ii) it has been determined that there is no entitlement on the claim, or that the entitlement is less than the amount of the interim payment, or that benefit on the claim is not payable, or
+  - (iii) the claim has been withdrawn under regulation 5(2) of the Claims and Payments Regulations; or
+- (b) an interim payment has been made under regulation 2(1)(c) which exceeds the entitlement under the award of benefit on account of which the interim payment was made; or[^M_F_4f972a88-3bf2-46c8-848f-a73e6f3638e2]
+- (c) an interim payment of income support[^M_F_7837e2fc-3726-406f-96b3-10885ab4b3c6] or income-related employment and support allowance[^key-835306ca96f416cce4733eff1b48be4a] has been made under regulation 2(1)(b) in the circumstances mentioned in regulation 2(4).
+
+(4) For the purposes of this regulation a claim is defective if it is made on the form approved for the time being by the Secretary of State but is not completed in accordance with the instructions on the form.
+
+(5)[^key-6b32ecdb4c961d8cb7e4b6fbcfac21cc] Where the interim payment is a payment on account of tax credit paragraphs (2) to (4) shall apply with the modification that for references to “the Secretary of State” there shall be substituted references to “the Board”.
+
+## PART III — OFFSETTING
+
+### 5. Offsetting prior payment against subsequent award
+
+(1) Subject to paragraphs (1A)[^key-f89423f3689e408a57c490a6932c9444], (2A) and (6)[^key-f20f7e96efbd32a1ad69ba34e2e4a906] and regulation 6 (exception from offset of recoverable overpayment), any sum paid in respect of a period covered by a subsequent determination in any of the cases set out in paragraph (2) shall be offset against arrears of entitlement under the subsequent determination and, except to the extent that the sum exceeds the arrears, shall be treated as properly paid on account of them.
+
+(1A)[^key-4779fa4f8303bf127567aba543394420] In paragraph (1) the reference to “any sum paid” shall, in relation to tax credit, include a reference to any amount or calculation of tax credit payable in respect of a period prior to the date of the subsequent determination, which is included in a start notification given by the Board to an employer, and for the payment of which the employer remains responsible.
+
+(2)[^M_C_3dee016c-2003-48ee-d1ec-32df4cc730b9] Paragraph (1) applies in the following cases—
+
+- *Case 1: Payment under an award which is revised, superseded[^key-87cdc6a37c8896b20bbff5722b50f30e] or varied* Where a person has been paid a sum by way of benefit or by way of a shared additional pension under section 55A[^key-391328197ad084f1cbbec20a40c97010] or 55AA[^key-8730fee4e27f7c0dd8d1ec1a399933b7] of the Contributions and Benefits Act under an award which is subsequently varied on appeal or revised or superseded[^key-ae05b265d3f906e2aeb7c65394ed2a74].
+- *Case 2: Award or payment of benefit in lieu* Where a person has been paid a sum by way of benefit under the original award and it is subsequently decided, on a revision, supersession or appeal[^key-ded01576f5993c1874d07160927e4293], that another benefit or, as the case may be, universal credit[^key-7ef6a8f0c52a285fdf9a2a1f5a225ac3] should be awarded or is payable in lieu of the first.
+- *Case 3: Child benefit and severe disablement allowance* Where either—
+  - (a) a person has been awarded and paid child benefit for a period in respect of which severe disablement allowance, employment and support allowance for those persons with limited capability for work in relation to youth in accordance with paragraph 4 of Schedule 1 to the Welfare Reform Act 2007,[^key-219d668175e187b84ea1e35f5e193afa] or incapacity benefit for persons incapacitated in youth in accordance with section 30A(1)(b) and (2A) of the Contributions and Benefits Act[^key-a40bd98c024cd0274284a9b1ab038a49] is subsequently determined to be payable to the child concerned; or
+  - (b) severe disablement allowance, employment and support allowance for those persons with limited capability for work in relation to youth in accordance with paragraph 4 of Schedule 1 to the Welfare Reform Act 2007,[^key-e9f6fae743467b37d72bedee1e1a68f4] or incapacity benefit for persons incapacitated in youth in accordance with section 30A(1)(b) and (2A) of the Contributions and Benefits Act is awarded and paid for a period in respect of which child benefit is subsequently awarded to someone else, the child concerned in the subsequent determination being the beneficiary of the original award.
+- *Case 4: Increase of benefit for dependant* Where a person has been paid a sum by way of an increase in respect of a dependent person under the original award and it is subsequently determined that that other person is entitled to benefit for that period, or that a third person is entitled to the increase for that period in priority to the beneficiary of the original award.
+- *Case 5: Increase of benefit for partner* Where a person has been paid a sum by way of an increase in respect of a partner (as defined in regulation 2 of the Income Support Regulations) and it is subsequently determined that that other person is entitled to benefit for that period.
+- *Case 6: Carer Support Payment[^key-6d047dde92388c1950f18f9d863a8af4]* Where a person has been paid carer support payment for a period in respect of which any overlapping benefit is subsequently determined to be payable.
+
+(2A)[^key-5a6c5488cd7c2c26e2a976f5c26a455e] In paragraph (2), Case 2 shall not apply where either—
+
+- (a) the sum paid under the original award, or
+- (b) the subsequent decision on the revision, supersession or appeal,
+
+referred to in that Case (but not both) is or relates to tax credit.
+
+(2B)[^key-0cea5d133c655abad8f58840026bca1f] In paragraph (2), for the purposes of Case 6—
+
+- “**carer support payment**” means the carer support payment component of carer support[^key-467dcb90e0f533ed3b002aed98569233] given in accordance with the Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023;
+- “**overlapping benefit**” means a benefit specified in paragraph (2C).
+
+(2C) The following are overlapping benefits for the purposes of paragraph (2B)—
+
+- (a) state pension or retirement pension;
+- (b) incapacity benefit;
+- (c) severe disablement allowance;
+- (d) unemployability supplement that is paid with industrial injuries disablement benefit or war pension;
+- (e) widowed parent’s allowance, widowed mother’s allowance or widow’s pension, excluding additional pension;
+- (f) bereavement allowance;
+- (g) war pension;
+- (h) maternity allowance;
+- (i) industrial death benefit;
+- (j) contribution-based jobseeker’s allowance;
+- (k) contributory employment and support allowance; and
+- (l) training allowance.
+
+(2D) For the purposes of paragraph (2C)—
+
+- “**the 2003 Act**” means the Income Tax (Earnings and Pensions) Act 2003;
+- “**bereavement allowance**” means an allowance referred to in section 39B of the Contributions and Benefits Act, subject to the transitional provisions specified in article 4 of the Pensions Act 2014 (Commencement No. 10) Order 2017;
+- “**contribution-based jobseeker’s allowance**” means an allowance under the 1995 Act, as amended by the provisions of Part 1 of Schedule 14 to the 2012 Act that remove references to an income-based allowance, and a contribution-based allowance under the 1995 Act, as that Act has effect apart from those provisions;
+- “**contributory employment and support allowance**” means an allowance under Part 1 of the 2007 Act, as amended by the provisions of Schedule 3, and Part 1 of Schedule 14, to the 2012 Act that remove references to an income-related allowance, and a contributory allowance under Part 1 of the 2007 Act, as that Part has effect apart from those provisions;
+- “**incapacity benefit**” means a benefit referred to in section 30A of the Contributions and Benefits Act;
+- “**industrial death benefit**” means a benefit referred to in Part VI of Schedule 7 to the Contributions and Benefits Act;
+- “**maternity allowance**” means an allowance referred to in sections 35 and 35B of the Contributions and Benefits Act;
+- “**Personal Injuries Scheme**” means any scheme made under the Personal Injuries (Emergency Provisions) Act 1939 or under the Pensions (Navy, Army, Air Force and Mercantile Marine) Act 1939;
+- “**retirement pension**” means a pension payable under Part II and Part III of the Contributions and Benefits Act, excluding any additional pension or graduated retirement benefit;
+- “**Service Pensions Instrument**” means any instrument described in paragraph (a) or (b) below in so far, but only in so far, as the pensions or other benefits provided by that instrument are not calculated or determined by reference to length of service, namely—
+  - (a) any instrument made in exercise of powers—
+    - (i) referred to in section 12(1) of the Social Security (Miscellaneous Provisions) Act 1977 (pensions or other benefits for disablement or death due to service in the armed forces of the Crown); or
+    - (ii) under section 1 of the Polish Resettlement Act 1947 (pensions and other benefits for disablement or death due to service in certain Polish forces); or
+  - (b) any instrument under which a pension or other benefit may be paid to a person (not being a member of the armed forces of the Crown) out of public funds in respect of death or disablement, wound, injury or disease due to service in any nursing service or other auxiliary service of any of the armed forces of the Crown, or in any other organisation established under the control of the Defence Council or formerly established under the control of the Admiralty, the Army Council or the Air Council;
+- “**state pension**” means a pension payable under Part 1 of the Pensions Act 2014;
+- “**training allowance**” means an allowance (whether by way of periodical grants or otherwise) payable—
+  - (a) out of public funds by a Government department or by or on behalf of the Secretary of State, Skills Development Scotland, Scottish Enterprise, Highlands and Islands Enterprise or the Welsh Ministers;
+  - (b) to a person (“**P**”) for P’s maintenance or in respect of a member of P’s family; and
+  - (c) for the period, or part of the period, during which P is following a course of training or instruction provided by, or in pursuance of arrangements made with, that department or approved by that department in relation to P or so provided or approved by or on behalf of the Secretary of State, Skills Development Scotland, Scottish Enterprise, Highlands and Islands Enterprise or the Welsh Ministers,
+
+  but it does not include an allowance paid by any Government department to or in respect of P by reason of the fact that P is following a course of full-time education, other than under arrangements made under section 2 of the Employment and Training Act 1973 or section 2 of the Enterprise and New Towns (Scotland) Act 1990, or is training as a teacher;
+- “**unemployability supplement**” includes an increase on account of unemployability under any Personal Injuries Scheme or a Service Pensions Instrument;
+- “**war disablement pension**” means any retired pay or pension or allowance payable in respect of disablement under an instrument specified in section 639(2) of the 2003 Act;
+- “**war pension**” means a war disablement pension, a war widow’s pension or a war widower’s pension;
+- “**war widow’s pension**” means any pension or allowance payable to a woman as a widow or surviving civil partner under an instrument specified in section 639(2) of the 2003 Act in respect of the death or disablement of any person;
+- “**war widower’s pension**” means any pension or allowance payable to a man as a widower or surviving civil partner under an instrument specified in section 639(2) of the 2003 Act in respect of the death or disablement of any person;
+- “**widowed mother’s allowance**” means an allowance referred to in section 37 of the Contributions and Benefits Act;
+- “**widowed parent’s allowance**” means an allowance referred to in section 39A of the Contributions and Benefits Act;
+- “**widow’s pension**” means a pension referred to in section 38 of the Contributions and Benefits Act.
+
+(3) Where an amount has been deducted under regulation 13(b) (sums to be deducted in calculating recoverable amounts) an equivalent sum shall be offset against any arrears of entitlement of that person under a subsequent award of income support, or state pension credit[^key-9974c361b7667556f4f8c0518e8bc80e], or income-based jobseeker’s allowance[^key-0410eaffb66633d285cb2a4185953294] or an income-related employment and support allowance[^key-bd6b83885a52f750eb16e886290e6b14] for the period to which the deducted amount relates.
+
+(4) Where child benefit which has been paid under an award in favour of a person (the original beneficiary) is subsequently awarded to someone else for any week, the benefit shall nevertheless be treated as properly paid if it was received by someone other than the original beneficiary, who—
+
+- (a) either had the child living with him or was contributing towards the cost of providing for the child at a weekly rate which was not less than the weekly rate under the original award, and
+- (b) could have been entitled to child benefit in respect of that child for that week had a claim been made in time.
+
+(5) Any amount which is treated under paragraph (4) as properly paid shall be deducted from the amount payable to the beneficiary under the subsequent award.
+
+(6)[^key-92c544846c1d0a250127da7169808ff8] Subject to regulation 6, any sums under—
+
+- (a) Schedule 5 or 5A to the Contributions and Benefits Act (pension increases or lump sum where entitlement to retirement pension or shared additional pension is deferred); or
+- (b) Schedule 1 to the Social Security (Graduated Retirement Benefit) Regulations 2005 (increases or lump sum where entitlement to graduated retirement benefit is deferred),
+- (c)[^key-84944717697010f19a4a00a487c6a3f5] sections 8 or 9 of the Pensions Act 2014; or
+- (d) Regulations under section 10 of that Act which make provision corresponding or similar to sections 8 or 9 of that Act,
+
+paid pursuant to a decision which is subsequently revised under section 9 of the Social Security Act 1998, superseded under section 10 of that Act or overturned on appeal, shall be offset against any sums due under the subsequent determination and, except to the extent that the sum exceeds the amount now due, shall be treated as properly paid on account of it.
+
+### 6. Exception from offset of recoverable overpayment
+
+No amount may be offset under regulation 5(1) which has been determined to be a recoverable overpayment for the purposes of section 53(1) of the Act.
+
+## PART IV — PREVENTION OF DUPLICATION OF PAYMENTS
+
+### 7. Duplication and prescribed income
+
+(1)[^M_F_b5889a96-3026-4b62-afc8-65d51bf1e4ff] For the purposes of section 74(1) of the Social Security Administration Act 1992 (income support, state pension credit[^key-8ec7aa0db3d26ce3f2838fe5ef7af2e0] , income-based jobseeker’s allowance, income-related employment and support allowance[^key-d453b3babf358735d4ed83a21e92292c] and other payments), a person’s prescribed income is—
+
+- (a) income required to be taken into account in accordance with Part V of the Income Support Regulations or, as the case may be, Part VIII of the Jobseeker’s Allowance Regulations[^key-c41b00d648064665b658d33ffb0e458d] or Part III of the[^key-45e50040f464e6feb052ae6531c4fc72] State Pension Credit Regulations or Part 10 of the Employment and Support Allowance Regulations[^key-e54c6cf88366b0f5704136169874bec8], except for the income specified in sub-paragraph (b); and
+- (b) income which, if it were actually paid, would be required to be taken into account in accordance with Chapter VIIA of Part V of the Income Support Regulations or, as the case may be, Chapter[^key-b700f0d0257c2771902994a745bd96f5] VIII of Part VIII of the Jobseeker’s Allowance Regulations (child support maintenance) or Chapter 9 of Part 10 to the Employment and Support Allowance Regulations (child support)[^key-0bf91a651b619f3b357503bab41aa67b]; but only in so far as it relates to the period beginning with the effective date of the maintenance assessment under which it is payable, as determined in accordance with regulation 30 of the Child Support (Maintenance Assessment Procedure) Regulations 1992, and ending with the first day which is a day specified by the Secretary of State under regulation 4(1) of the Child Support (Collection and Enforcement) Regulations 1992 as being a day on which payment of child support maintenance under that maintenance assessment is due.
+
+(2) The prescribed date in relation to any payment of income prescribed by paragraph (1)(a)[^M_F_91d65058-fef9-4280-b190-ef3311ae8fae] is—
+
+- (a) where it is made in respect of a specific day or period, that day or the first day of the period;
+- (b) where it is not so made, the day or the first day of the period to which it is fairly attributable.
+
+(3)[^M_F_c726c4b3-c0b2-4cd5-d0f7-939ac22e4972] Subject to paragraph (4), the prescribed date in relation to any payment of income prescribed by paragraph (1)(b) is the last day of the maintenance period, determined in accordance with regulation 33 of the Child Support (Maintenance Assessment Procedure) Regulations 1992, to which it relates.
+
+(4) Where the period referred to in paragraph (1)(b) does not consist of a number of complete maintenance periods the prescribed date in relation to income prescribed by that sub-paragraph which relates to any part of that period which is not a complete maintenance period is the last day of that period.
+
+### 8. Duplication and prescribed payments
+
+(1) For the purposes of section 74(2) of the Administration Act[^key-b44cf5c15ec5cbe617d3ab17602ad86b] (recovery of amount of benefit awarded because prescribed payment not made on prescribed date), the payment of any of the following is a prescribed payment—
+
+- (za)[^key-ee634fa286f3873d10dd4e35f9c1cf63] a state pension under Part 1 of the Pensions Act 2014;
+- (a) any benefit under the Social Security Act 1975 [^c2181068] other than any gratuity or a widow's payment [^c2181069];
+- (aa) any personal independence payment;[^key-1cc55f443b085c3b55de4ec1f2ef4c21]
+- (b) any child benefit;
+- (c)[^key-bcbe6b1e18cebb4c699997ffa0d83f02] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d) any war disablement pension or war widow's pension [^c2181070] which is not in the form of a gratuity and any payment which the Secretary of State accepts as analogous to any such pension;
+- (e) any allowance paid under the Job Release Act 1977 [^c2181071];
+- (f) any allowance payable by or on behalf of Scottish Enterprise, Highlands and Islands Enterprise or[^key-69b945312b8c9036ac9b2e110b29678b] the Secretary of State[^M_F_0034b9f3-2d77-4e13-a55c-ed7f6b23f440] to or in respect of a person for his maintenance for any period during which he is following a course of training or instruction provided or approved by Scottish Enterprise, Highlands and Islands Enterprise or the Secretary of State[^M_F_9449f624-4c03-482d-b7ca-4994b00093c7];
+- (g) any payment of benefit under the legislation of any member State [^key-541b1b3ebc7bf3533b2da718d6ae30e6]... concerning the branches of social security mentioned in Article 4(1) of Regulation [(EEC) No. 1408/71](https://www.legislation.gov.uk/european/regulation/1971/1408) as amended from time to time,[^key-a832914006633c5701033f0de0f02650] on the application of social security schemes to employed persons, to self-employed persons and to members of their families moving within the Community [^c2181072], or in Article 3(1) of Regulation[^key-70ccf00240d6c8cd56542433c00f7488] [(EC) No. 883/2004](https://www.legislation.gov.uk/european/regulation/2004/0883) of the European Parliament and of the Council of 29 April 2004, as amended from time to time, on the coordination of social security systems, whether or not the benefit has been acquired by virtue of the provisions of either Regulation, as amended from time to time[^key-256e853191e34f892db639b65163f382].
+- (h)[^key-0f1734c8381618afa807cd2cc7374325] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (i)[^key-941bfa4283bf04f8b0061d7fcf2966ec] any widowed parent’s allowance under section 39A of the Contributions and Benefits Act;
+- (j)[^key-1579d0181b63d896936140cd4f1123b4] any contribution-based jobseeker’s allowance within the meaning of section 1(4) of the Jobseekers Act 1995.
+- (k)[^key-40d4ac7f9d19a3394d063794d9cab90e] payments under the Financial Assistance Scheme Regulations 2005.
+- (l)[^key-c5809e4189be6a94205c2ab2e7cc83de] a contributory employment and support allowance.
+
+(2)[^M_C_210cb5ce-0bb8-4cea-d903-f7918e1ca009] The prescribed date, in relation to any payment prescribed by paragraph (1) is the date by which receipt of or entitlement to that benefit would have to be notified to the Secretary of State if it were to be taken into account in determining, whether on review or otherwise, the amount of or entitlement to income support,[^key-228deb09ee1eb023e5289cde74fbf8a3] universal credit,[^key-1179a6c28471c17714b9f3dd03dbc678] or state pension credit, or income-based jobseeker’s allowance[^key-909b71a987df04212baffaa22714d84d] or income-related employment and support allowance[^key-340183b3217ca5dc3ba2a0f9bfcab678].
+
+### 9. Duplication and maintenance payments
+
+For the purposes of section 27(3) of the Act (recovery of amount of benefit awarded because maintenance payments not made), the following benefits are prescribed—
+
+- (a) child benefit;
+- (b) increases for dependants of any benefit under the Social Security Act 1975;
+- (c) child's special allowance under section 31 of the Social Security Act 1975 [^c2181073]; and
+- (d) guardian's allowance.
+
+### 10. Conversion of payments made in a foreign currency
+
+(1)[^key-6f362791f4a4f0b5ae372c74d1d3d668] Where a payment of income prescribed by regulation 7(1), or a payment prescribed by regulation 8(1), is made in a currency other than sterling, its value in sterling, for the purposes of section 27 of the Act and this Part, shall be determined, after conversion by the Bank of England, or by any authorised deposit-taker[^key-55a0c7b3abbcb719a295e4cd87a7b1e9], as the net sterling sum into which it is converted, after any banking charge or commission on the transaction has been deducted.
+
+(2)[^key-45dd61cf70c23dce26609357e6fcc400] In this regulation “authorised deposit-taker” means—
+
+- (a) a person who has permission under Part 4 of the Financial Services and Markets Act 2000 to accept deposits; [^key-61f0f719b4fd2bc1ff4decba3de2561b]...
+- (b)[^key-61f0f719b4fd2bc1ff4decba3de2561b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) Paragraph (2) must be read with—
+
+- (a) section 22 of the Financial Services and Markets Act 2000;
+- (b) any relevant order under that section; and
+- (c) Schedule 2 to that Act.
+
+## PART V — DIRECT CREDIT TRANSFER OVERPAYMENTS
+
+### 11. Recovery of overpayments by automated or other direct credit transfer
+
+(A1)[^key-25da643fc6d2ea54629818fdf5ff25c2] This regulation applies only in respect of payments of benefit to which section 71 of the Administration Act applies.
+
+(1) Subject to paragraph (4), where[^key-2f14a14bb86b3d8e1d6f82df0742b712] it is determined by the adjudicating authority that a payment in excess of entitlement has been credited to a bank or other account under an arrangement for automated or other direct credit transfer made in accordance with regulation 21 of the Claims and Payments Regulations and that the conditions prescribed by paragraph (2) are satisfied, the excess, or the specified part of it to which the Secretary of State's certificate relates, shall be recoverable under this regulation.
+
+(2) The prescribed conditions for recoverability under paragraph (1) are as follows—
+
+- (a) the Secretary of State has certified that the payment in excess of entitlement, or a specified part of it, is materially due to the arrangement for payments to be made by automated or other direct credit transfer; and
+- (b)[^key-65b0be4239d7efca61e528133c3297ea] notice of the effect which this regulation would have, in the event of an overpayment, was given to the beneficiary or to a person acting for him—
+  - (i) in writing, where the claim was made in writing; or
+  - (ii) either orally or in writing, where the claim was made by telephone
+
+  before the arrangement came into effect[^key-e2ef24d96bc258d88c9af2af5bf827d3].
+
+(3) Where the arrangement was agreed to before 6th April 1987 the condition prescribed by paragraph 2(b) need not be satisfied in any case where the application for benefit to be paid by automated or other direct credit transfer contained a statement, or was accompanied by a writen statement made by the applicant, which complied with the provisions of regulation 16A(3)(b) and (8) of the Social Security (Claims and Payments) Regulations 1979 or, as the case may be, regulation 7(2)(b) and (6) of the Child Benefit (Claims and Payments) Regulations 1984 [^c2181075].
+
+(4)[^key-2f5bd8fd36254a8457e4dc1dbfa53c29] Where the payment mentioned in paragraph (1) is a payment of tax credit, paragraphs (1) and (2) shall apply with the modifications that—
+
+- (a) in paragraph (1) for the words “Secretary of State's” there is substituted the word “Board's”, and
+- (b) in paragraph (2) for the words “Secretary of State” there is substituted the word “Board”.
+
+## PART VI — REVISION OF DETERMINATION AND CALCULATION OF AMOUNT RECOVERABLE[^M_C_c78e79c3-b590-471d-ffb1-8ccbe1544fe9]
+
+### 12. Circumstances in which determination need not be revised[^M_C_a97f0e1f-4543-44e4-b695-fad931b4fa66]
+
+Section 71(5) or (5A) of the Administration Act[^key-f505fd8d82cf837cbaca1afcf64fd94a] (recoverability dependent on reversal, variation, revision or supersession[^key-38e9f40238a55835bafa064564499eb8] of determination) shall not apply where the fact and circumstances of the misrepresentation or non-disclosure do not provide a basis for revising or superseding[^key-52cdb20d5f4faac3a57593b51ed8a53f] the determination under which payment was made.
+
+### 13. Sums to be deducted in calculating recoverable amounts
+
+(1)[^M_F_990c22bd-9025-4590-bd9b-5a16445fd82d] Subject to paragraphs (1C) and (2), in calculating an amount recoverable under section 71(1) of the Administration Act or under regulation 11 (“the overpayment”), the adjudicating authority must deduct—
+
+- (a) any amount which has been offset under Part 3;
+- (b) any additional amount of a benefit specified in paragraph (1A) which was not payable under the original, or any other, determination but which should have been determined to be payable in respect of all or part of the overpayment period to the claimant or their partner—
+  - (i) on the basis of the claim as presented to the adjudicating authority; or
+  - (ii) on the basis that any misrepresentation or failure to disclose a material fact had been remedied prior to the award being made.
+
+(1A) The specified benefits are—
+
+- (a) universal credit;
+- (b) income support;
+- (c) state pension credit;
+- (d) income-based jobseeker’s allowance; and
+- (e) income-related employment and support allowance.
+
+(1B) In paragraph (1), “overpayment period” means the period over which the overpayment accrued.
+
+(1C) No other deduction is to be made in respect of any other entitlement to benefit which may be, or might have been, determined to exist.
+
+(2)[^key-bbc420abbaaf0dc5544c1b036cd62f8d] Paragraph (1) shall apply to tax credit only where both—
+
+- (a) the overpayment of benefit referred to in that paragraph, and
+- (b) the amount referred to in sub-paragraph (a) of that paragraph,
+
+are tax credit, and with the modification that sub-paragraph (b) of that paragraph is omitted.
+
+### 14. Quarterly diminution of capital
+
+(1) For the purposes of section 53(1) of the Act, where income support, or state pension credit[^key-74e174d90896d17e9597a13d4b03312d], or income-based jobseeker’s allowance[^key-0c84969008e45076a7051ea501afda33], or income-related employment and support allowance[^key-285f0fe91aab36c5c67e420463f5c95d] or working families' tax credit or disabled person’s tax credit[^key-fbcd29d29fd8d4775e5a58e60c3a6949] has been overpaid in consequence of a misrepresentation as to the capital a claimant possesses or a failure to disclose its existence, the adjudicating authority shall treat that capital as having been reduced at the end of each quarter from the start of the overpayment period by the amount overpaid by way of income support, or state pension credit, or income-based jobseeker’s allowance, or income-related employment and support allowance or working families' tax credit or disabled person’s tax credit within that quarter.
+
+(2) Capital shall not be treated as reduced over any period other than a quarter or in any circumstances other than those for which paragraph (1) provides.
+
+(3) In this regulation—
+
+- “**a quarter**” means a period of 13 weeks starting with the first day on which the overpayment period began and ending on the 90th consecutive day thereafter;
+- “overpayment period” is a period during which income support or an income-based jobseeker’s allowance,[^M_F_b58e02a9-008a-42d1-ba0b-0e63347a9b24] or working families' tax credit or disabled person’s tax credit is overpaid in consequence of a misrepresentation as to capital or a failure to disclose its existence.
+
+## PART VII — THE PROCESS OF RECOVERY
+
+### 15. Recovery by deduction from prescribed benefits
+
+(1) Subject to regulation 16, where any amount is recoverable under sections 27 or 53(1) of the Act, or under these Regulations, that amount shall be recoverable by the Secretary of State from any of the benefits prescribed by the next paragraph to which the person from whom the amount is determined[^M_F_619df9ab-7159-464d-9b2c-eea68e4a7076] to be recoverable is entitled.
+
+(2) The following benefits are prescribed for the purposes of this regulation—
+
+- (a) subject to paragraphs (1) and (2) of regulation 16, any benefit under the Social Security Act 1975 [^c2181076];
+- (aa)[^key-5e6fcba519574fa55c176c1716c5ee8f] a state pension under Part 1 of the Pensions Act 2014;
+- (b) subject to paragraphs (1) and (2) of regulation 16, any child benefit;
+- (c)[^key-2de255ca10899af30f51dee544f3f8a7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d) subject to regulation 16, any income support,[^key-0ae0262195c445811c03289f593acae9] an employment and support allowance,[^key-b4e00db5b986a1191905e3ebd9bd9cee] or state pension credit or a jobseeker’s allowance[^M_F_d1948e30-92a7-4675-8635-050019480461].
+- (e)[^key-c0b4a4f089181a1921f95505d3555cbf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (f)[^key-8f34ef88009c74c491577f227f477b66] any incapacity benefit.
+- (g)[^key-61f343c60d5b986999649d5c57cc5d06] personal independence payment.
+- (h)[^key-b69810db1ae80c88a11eeebd8ee9e4bb] universal credit.
+
+### 16. Limitations on deductions from prescribed benefits
+
+(1) Deductions may not be made from entitlement to the benefits prescribed by paragraph (2) except as a means of recovering an overpayment of the benefit from which the deduction is to be made.
+
+(2) The benefits prescribed[^M_F_d7876a09-18a0-4e33-ecec-2574ce06fd88] for the purposes of paragraph (1) are guardian's allowance, [^M_F_798ef24e-cea9-429d-930b-e59799e09d21]..., and child benefit.
+
+(2A)[^key-598800c029ff1897c7a79ff61cd0cfa6] Paragraphs (3) to (7) do not apply where paragraph (7A) applies.
+
+(3) Regulation 15 shall apply without limitation to any payment of arrears of benefit other than any arrears caused by the operation of regulation 20 of the Social Security and Child Support (Decisions and Appeals) Regulations 1999 (making of payments which have been suspended)[^key-b828d906e0f6b958550d107654e32b4a].
+
+(4) Regulation 15 shall apply to the amount of benefit[^M_F_4ddc42e2-fe61-4795-fcc3-1a0c355474d2] to which a person is presently entitled only to the extent that there may[^key-dbc92deed32faa2573f3bbe980ec7ef2]... be recovered in respect of any one benefit week—
+
+- (a) in a case to which paragraph (5) applies, not more than the amount there specified; and
+- (b) in any other case, 3 times 5 per cent. of the personal allowance for a single claimant aged not less than 25, that 5 per cent. being, where it is not a multiple of 5 pence, rounded to the next higher such multiple.
+
+(4A)[^M_F_67ff0b51-170c-4ccc-9554-c2492e587250] Paragraph (4) shall apply to the following benefits—
+
+- (a) income support;
+- (b) an income-based jobseeker’s allowance;
+- (c) where, if there was no entitlement to a contribution-based jobseeker’s allowance, there would be entitlement to an income-based jobseeker’s allowance at the same rate, a contribution-based jobseeker’s allowance.
+- (d)[^key-39dbb9061f136e481f276c0cb7b92ff3] state pension credit.
+- (e)[^key-6edec0280b79fe9c98cc2bf5902cc30c] an income-related employment and support allowance;
+- (f) where, if there was no entitlement to a contributory employment and support allowance, there would be entitlement to an income-related employment and support allowance at the same rate, a contributory employment and support allowance.
+
+(5)[^key-4ce7da83b1f6909528e41b9c0a09b3ee] Where a person responsible for the misrepresentation of or failure to disclose a material fact has, by reason thereof—
+
+- (a) been convicted[^key-e93fdf7e1a1cd8b65079cfc40c5a610d] of an offence whether under statute or otherwise; or
+- (b) made an admission after caution of deception or fraud for the purpose of obtaining benefit; or
+- (c) agreed to pay a penalty under section 115A of the Social Security Administration Act 1992 and the agreement has not been withdrawn,
+
+the amount mentioned in paragraph (4)(a) shall, subject to paragraph (5ZA), be 8 times[^key-f0bc37b5984ba5a47b9951bf8517e958] 5 per cent. of the personal allowance for a single claimant aged not less than 25, that 5 per cent. being, where it is not a multiple of 5 pence, rounded to the next higher such multiple[^key-1e91bc32dd3daba8faada0d079735f3f].
+
+(5ZA)[^key-ea25e7242a3db23c1f86077d5856055c] In a case to which paragraph (5) applies, where deductions fall to be made under Schedule 9 to the Claims and Payments Regulations (payments to third parties), the total of the amount deductible under paragraph (5) and the amount deductible under that Schedule shall not exceed 8 times 5 per cent. of the personal allowance mentioned in paragraph (5).
+
+(5ZB) Paragraph (4)(b) is subject to paragraphs 8 and 9 of Schedule 9 to the Claims and Payments Regulations.
+
+(5A)[^M_F_6f60f77c-ba23-4970-de63-7c20caea2a93] Regulation 15 shall apply to an amount of a contribution-based jobseeker’s allowance, other than a contribution-based jobseeker’s allowance to which paragraph (4) applies in accordance with paragraph (4A)(c), to which a person is presently entitled only to the extent that there may, subject to paragraphs 8 and 9 of Schedule 9 to the Claims and Payments Regulations be recovered in respect of any one benefit week a sum equal to one third of the age-related amount applicable to the claimant under section 4(1)(a) of the Jobseekers Act 1995.
+
+(5B) For the purposes at paragraph (5A) where the sum that would otherwise fall to be deducted includes a fraction of a penny, the sum to be deducted shall be rounded down to the nearest whole penny.
+
+(6) Where—[^key-fed7fa52b23d2ebaf4d4522fbdcb8018]
+
+-
+  - (a) in the calculation of the income of a person to whom income support is payable, the amount of earnings or other income falling to be taken into account is reduced by paragraphs 4 to 9 of Schedule 8 to the Income Support Regulations (sums to be disregarded in the calculation of earnings) or paragraphs 15 and 16 of Schedule 9 to those Regulations (sums to be disregarded in the calculation of income other than earnings); or
+  - (b) in the calculation of the income of a person to whom income-based jobseeker’s allowance is payable, the amount of earnings or other income falling to be taken into account is reduced by paragraphs 5 to 12 of Schedule 6 to the Jobseeker’s Allowance Regulations (sums to be disregarded in the calculation of earnings) or paragraphs 15 and 17 of Schedule 7 to those Regulations (sums to be disregarded in the calculation of income other than earnings), or[^key-b56d2e67603bb65b52d3f1444dfcc3d9]
+  - (c) in the calculation of the income of a person to whom state pension credit is payable, the amount of earnings or other income falling to be taken into account is reduced in accordance with paragraph 1 of Schedule 4 (sums to be disregarded in the calculation of income other than capital), or Schedule 6 (sums disregarded from claimant’s earnings) to the State Pension Credit Regulations, or[^key-64d33a8a1b2f900c783b6e818b19c092]
+  - (d) in the calculation of the income of a person to whom income-related employment and support allowance is payable, the amount of earnings or other income falling to be taken into account is reduced by paragraph 7 of Schedule 7 to the Employment and Support Allowance Regulations (sums to be disregarded in the calculation of earnings) or paragraphs 16 and 17 of Schedule 8 to those Regulations (sums to be disregarded in the calculation of income other than earnings),
+
+  the weekly amount applicable under paragraph (4) may be increased by not more than half the amount of the reduction[^key-fe1eb5069ce8f78d81175e52a96cd5ca]....
+
+(7) Regulation 15 shall not be applied to a specified benefit so as to reduce the benefit in any one benefit week to less than 10 pence.
+
+(7A)[^key-2407183706ddf97696fc4c506e7aab06] This paragraph applies where the benefit from which the deduction is to be made under regulation 15 is universal credit.
+
+(7B) Where paragraph (7A) applies, regulation 11 of the Social Security (Overpayments and Recovery) Regulations 2013 applies in relation to those deductions as it applies to deductions from universal credit for the recovery of recoverable amounts under those Regulations.
+
+(8) In this regulation—
+
+- “admission after caution” means—[^key-ab329abd126c9503c18bbe4842370d94]
+  - (i) in England and Wales, an admission after a caution has been administered in accordance with a Code issued under the Police and Criminal Evidence Act 1984;
+  - (ii) in Scotland, an admission after a caution has been administered, such admission being duly witnessed by two persons;
+- “**benefit week**” means the week corresponding to the week in respect of which the benefit is paid;
+- “[^key-ba5b5ebbf946af3ee518b6351568bf6e] **personal allowance for a single claimant aged not less than 25** ” means—
+  - (a) in the case of a person who is entitled to an employment and support allowance,[^key-a9055d79ac935d88654194a893ac5165] income support or state pension credit, the amount for the time being specified in paragraph 1(1)(e) of column (2) of Schedule 2 to the Income Support Regulations; or
+  - (b) in the case of a person who is entitled to income-based jobseeker’s allowance, the amount for the time being specified in paragraph 1(1)(e) of column (2) of Schedule 1 to the Jobseeker’s Allowance Regulations;
+- “specified benefit” means—[^key-db5500715ec2646d8b646b7710e44d0e]
+  - (a) a jobseeker’s allowance;
+  - (b) income support when paid alone or together with any incapacity benefit, retirement pension or severe disablement allowance in a combined payment in respect of any period;
+  - (c) if incapacity benefit, retirement pension or severe disablement allowance is paid concurrently with income support in respect of any period but not in a combined payment, income support and such of those benefits as are paid concurrently;
+  - (d) state pension credit when paid alone or together with any retirement pension, incapacity benefit or severe disablement allowance in a combined payment in respect of any period; [^key-a4625aa4eb4b1fd336ec7a0a87217d3a] ...
+  - (e) if retirement pension, incapacity benefit or severe disablement allowance is paid concurrently with state pension credit in respect of any period but not in a combined payment, state pension credit and such of those benefits as are paid concurrently, and[^key-98cd10ab85454d4910e81db2d03aec82]
+  - (f) an employment and support allowance,
+
+  but does not include any sum payable by way of child maintenance bonus in accordance with section 10 of the Child Support Act 1995 and the Social Security (Child Maintenance Bonus) Regulations 1996.
+- [^key-e46450583611c2922791021f0bd12c26]...
+
+### 17. Recovery from couples
+
+In the case of an overpayment of income support, or state pension credit[^key-952b3013de77e80f1b8fd798409a8a64], or income-based jobseeker’s allowance[^key-1585bdb3681dd4815a4ed8f8c13a8e27] or income-related employment and support allowance[^key-7fb4d99303b88305689e70a451b6405f] [^key-bece948a5088c3844bcfd83e7bc2837f]... to one of a couple[^key-ddfa1b946e32bfcf174932cbbe1e602e], the amount recoverable by deduction, in accordance with regulation 15, may be recovered by deduction from income support, or state pension credit, or income-based jobseeker’s allowance or income-related employment and support allowance [^key-bece948a5088c3844bcfd83e7bc2837f]... payable to either of them, provided that the two of them are a couple at the date of the deduction.
+
+## PART VIII — RECOVERY BY DEDUCTIONS FROM EARNINGS FOLLOWING TRADE DISPUTE
+
+### 18. Recovery by deductions from earnings
+
+(1) Any sum paid to a person on an award of income support made to him by virtue of section 23(8) of the Act (effect of return to work after a trade dispute) shall be recoverable from him in accordance with this Part of these Regulations.
+
+(2) In this Part, unless the context otherwise requires—
+
+- “**available earnings**” means the earnings, including any remuneration paid by or on behalf of an employer to an employee who is for the time being unable to work owing to sickness, which remain payable to a claimant on any pay-day after deduction by his employer of all amounts lawfully deductible by the employer otherwise than by virtue of a deduction notice;
+- “**claimant**” means a person to whom an award is made by virtue of section 23(8) of the Act;
+- “**deduction notice**” means a notice under regulation 20 or 25;
+- “**employment**” means employment (including employment which has been suspended but not terminated) in remunerative work, and related expressions shall be construed accordingly;
+- “**pay-day**” means an occasion on which earnings are paid to a claimant;
+- “**protected earnings**” means protected earnings as determined by an adjudicating authority, in accordance with regulation 19(2), under regulation 19(1)(a) or 24;
+- “**recoverable amount**” means the amount (determined in accordance with regulation 20(3) or (5) or regulation 25(2)(a)) by reference to which deductions are to be made by an employer from a claimant's earnings by virtue of a deduction notice;
+- “**repaid by the claimant**” means paid by the claimant directly to the Secretary of State by way of repayment of income support otherwise recoverable under this Part of these Regulations.
+
+(3) Any notice or other document required or authorised to be given or sent to any person under the provisions of this Part shall be deemed to have been given or sent if it was sent by post to that person in accordance with paragraph (6) of regulation 27 where that regulation applies and, in any other case, at his ordinary or last known address or in the case of an employer at the place of business where the claimant to which it relates is employed, and if so sent to have been given or sent on the day on which it was posted.
+
+### 19. Award and protected earnings
+
+(1) Where an adjudicating authority determines that a person claiming income support is entitled by virtue of section 23(8) of the Act (effect of return to work after a trade dispute) and makes an award to him accordingly he shall determine the claimant's protected earnings (that is to say the amount below which his actual earnings must not be reduced by any deduction made under this Part).
+
+(2) The adjudicating authority shall include in his decision—
+
+- (a) the amount of income support awarded together with a statement that the claimant is a person entitled by virtue of section 23(8) of the Act and that accordingly any sum paid to him on that award will be recoverable from him as provided in this Part;
+- (b) the amount of the claimant's protected earnings, and
+- (c) a statement of the claimant's duty under regulation 28 (duty to give notice of cessation or resumption of employment).
+
+(3)[^M_F_f1e980d8-973e-4dff-c363-a58831ae320a] The protected earnings of the claimant shall be the sum determined by—
+
+- (a) taking the sum specified in paragraph (4),
+- (b) adding the sum specified in paragraph (5), and
+- (c) subtracting from the result any child benefit which falls to be taken into account in calculating his income for the purposes of Part V of the Income Support Regulations.
+
+(4) The sum referred to in paragraph (3)(a) shall be the aggregate of the amounts calculated under regulation 17(a) to (d), 18(a) to (e), 20 or 21, as the case may be, of the Income Support Regulations.
+
+(5) The sum referred to in paragraph (3)(b) shall be £27 except where the sum referred to in paragraph (3)(a) includes an amount calculated under regulation 20 in which case the sum shall be £8.
+
+### 20. Service and contents of deduction notices
+
+(1) Where the amount of income support has not already been repaid by the claimant, the Secretary of State shall serve a deduction notice on the employer of the claimant.
+
+(2) A deduction notice shall contain the following particulars—
+
+- (a) particulars enabling the employer to identify the claimant;
+- (b) the recoverable amount;
+- (c) the claimant's protected earnings as specified in the notification of award.
+
+(3) Subject to paragraph (5), the recoverable amount shall be—
+
+- (a) the amount specified in the decision as having been awarded to the claimant by way of income support; reduced by
+- (b) the amount (if any) which has been repaid by the claimant before the date of the deduction notice.
+
+(4) If a further award relating to the claimant is made the Secretary of State shall cancel the deduction notice (giving written notice of the cancellation to the employer and the claimant) and serve on the employer a further deduction notice.
+
+(5) The recoverable amount to be specified in the further deduction notice shall be the sum of—
+
+- (a) the amount determined by applying paragraph (3) to the further award; and
+- (b) the recoverable amount specified in the cancelled deduction notice less any part of that amount which before the date of the further notice has already been deducted by virtue of the cancelled notice or repaid by the claimant.
+- (b) the recoverable amount specified in the cancelled deduction notice less any part of that amount which before the date of the further notice has already been deducted by virtue of the cancelled notice or repaid by the claimant.
+
+### 21. Period for which deduction notice has effect
+
+(1) A deduction notice shall come into force when it is served on the employer of the claimant to whom it relates and shall cease to have effect as soon as any of the following conditions is fulfilled—
+
+- (a) the notice is cancelled by virtue of regulation 20(4) or paragraph (2) of this regulation;
+- (b) the claimant ceases to be in the employment of the person on whom the notice was served;
+- (c) the aggregate of—
+  - (i) any part of the recoverable amount repaid by the claimant on or after the date of the deduction notice, and
+  - (ii) the total amount deducted by virtue of the notice,
+
+  reaches the recoverable amount;
+- (d) there has elapsed a period of 26 weeks beginning with the date of the notice.
+
+(2) The Secretary of State may at any time give a direction in writing cancelling a deduction notice and—
+
+- (a) he shall cause a copy of the direction to be served on the employer concerned and on the claimant;
+- (b) the direction shall take effect when a copy of it is served on the employer concerned.
+
+### 22. Effect of deduction notice
+
+(1) While a deduction notice is in force the following provisions of this regulation shall apply as regards any relevant pay-day.
+
+(2) Where a claimant's earnings include any bonus, commission or other similar payment which is paid other than on a day on which the remainder of his earnings is paid, then in order to calculate his available earnings for the purposes of this regulation any such bonus, commission or other similar payment shall be treated as being paid to him on the next day of payment of the remainder of his earnings instead of on the day of actual payment.
+
+(3) If on a relevant pay-day a claimant's available earnings—
+
+- (a) do not exceed his protected earnings by at least £1, no deduction shall be made;
+- (b) do exceed his protected earnings by at least £1, his employer shall deduct from the claimant's available earnings one half of the excess over his protected earnings,
+
+so however that where earnings are paid other than weekly the amount of the protected earnings and the figure of £1 shall be adjusted accordingly, in particular—
+
+- (c) where earnings are paid monthly, they shall for this purpose be treated as paid every five weeks (and the protected earnings and the figure of £1 accordingly multiplied by five);
+- (d) where earnings are paid daily, the protected earnings and the figure of £1 shall be divided by five,
+
+and if, in any case to which sub-paragraph (c) or (d) does not apply, there is doubt as to the adjustment to be made this shall be determined by the Secretary of State on the application of the employer or the claimant.
+
+(4) Where on a relevant pay-day earnings are payable to the claimant in respect of more than one pay-day the amount of the protected earnings and the figure of £1 referred to in the preceding paragraph, adjusted where appropriate in accordance with the provisions of that paragraph, shall be multiplied by the number of pay-days to which the earnings relate.
+
+(5) Notwithstanding anything in paragraph (3)—
+
+- (a) the employer shall not make a deduction on a relevant pay-day if the claimant satisfies him that up to that day he has not obtained payment of the income support to which the deduction notice relates;
+- (b) the employer shall not on any relevant pay-day deduct from the claimant's earnings by virtue of the deduction notice an amount greater than the excess of the recoverable amount over the aggregate of all such amounts as, in relation to that notice, are mentioned in regulation 21(1)(c)(i) and (ii); and
+- (c) where the amount of any deduction which by this regulation the employer is required to make would otherwise include a fraction of 1p, that amount shall be reduced by that fraction.
+
+(6) For the purpose of this regulation “**relevant pay-day**” means any pay-day beginning with—
+
+- (a) the first pay-day falling after the expiration of the period of one month from the date on which the deduction notice comes into force; or
+- (b) if the employer so chooses, any earlier pay-day after the notice has come into force.
+
+### 23. Increase of amount of award on appeal or review[^M_C_2d6d9564-f055-4b61-ebee-b49977a56c2a]
+
+If the amount of the award is increased, whether on appeal or on review by an adjudicating authority, this Part shall have effect as if on the date on which the amount of the award was increased—
+
+- (a) the amount of the increase was the recoverable amount; and
+- (b) the claimant's protected earnings were the earnings subsequently reviewed under regulation 24.
+
+### 24. Review of determination of protected earnings[^M_C_866ec56c-d4e6-4af3-8da3-0f11bcc9e450]
+
+(1) A determination of a claimant's protected earnings, whether made under regulation 19(1)(a) or under this regulation, may be reviewed by an adjudicating authority if he is satisfied that it was based on a mistake as to the law or was made in ignorance of, or was based on a mistake as to, some material fact.
+
+(2) Where the claimant's protected earnings are reviewed under paragraph (1) the Secretary of State shall give the employer written notice varying the deduction notice by substituting for the amount of the protected earnings as there specified (or as previously reviewed under this regulation) the amount of the protected earnings determined on review.
+
+(3) Variation of a deduction notice under paragraph (2) shall take effect either from the end of the period of 10 working days beginning with the day on which notice of the variation is given to the employer or, if the employer so chooses, at any earlier time after notice is given.
+
+### 25. Power to serve further deduction notice on resumption of employment
+
+(1) Where a deduction notice has ceased to have effect by reason of the claimant ceasing to be in the employment of the person on whom the notice was served, the Secretary of State may, if he thinks fit, serve a further deduction notice on any person by whom the claimant is for the time being employed.
+
+(2) Notwithstanding anything in the foregoing provisions of these Regulations, in any such deduction notice—
+
+- (a) the recoverable amount shall be equal to the recoverable amount as specified in the previous deduction notice less the aggregate of—
+  - (i) the total of any amounts required to be deducted by virtue of that notice, and
+  - (ii) any additional part of that recoverable amount repaid by the claimant on or after the date of that notice,
+
+  or, where this regulation applies in respect of more than one such previous notice, the aggregate of the amounts as so calculated in respect of each such notice;
+- (b)[^M_C_3da20a1e-1106-4d41-95db-ab8a9aea70b1] the amount specified as the claimant's protected earnings shall be the same as that so specified in the last deduction notice relating to him which was previously in force or as subsequently reviewed under regulation 24.
+
+### 26. Right of Secretary of State to recover direct from claimant[^M_C_86e48551-5d1b-40bd-8bd6-8c6145c1ba37]
+
+Where the Secretary of State has received a notification of award and it is at any time not practicable for him, by means of a deduction notice, to effect recovery of the recoverable amount or of so much of that amount as remains to be recovered from the claimant, the amount which remains to be recovered shall, by virtue of this regulation, be recoverable from the claimant by the Secretary of State.
+
+### 27. Duties and liabilities of employers
+
+(1) An employer shall keep a record of the available earnings of each claimant who is an employee in respect of whom a deduction notice is in force and of the payments which he makes in pursuance of the notice.
+
+(2) A record of every deduction made by an employer under a deduction notice on any pay-day shall be given or sent by him to the Secretary of State, together with payment of the amount deducted, by not later than the 19th day of the following month.
+
+(3) Where by reason only of the circumstances mentioned in regulation 22(5)(a) the employer makes no deduction from a claimant's weekly earnings on any pay-day he shall within 10 working days after that pay-day give notice of that fact to the Secretary of State.
+
+(4) Where a deduction notice is cancelled by virtue of regulation 20(4) or 21(2) or ceases to have effect by virtue of regulation 21(1) the employer shall within 10 working days after the date on which the notice is cancelled or, as the case may be, ceases to have effect—
+
+- (a) return the notice to the Secretary of State and, where regulation 21(1) applies, give notice of the reason for its return;
+- (b) give notice, in relation to each relevant pay-day (as defined in regulation 22(6)), of the available earnings of the claimant and of any deduction made from those earnings.
+
+(5) If on any pay-day to which regulation 22(3)(b) applies the employer makes no deduction from a claimant's available earnings, or makes a smaller deduction than he was thereby required to make, and in consequence any amount is not deducted while the deduction notice, or any further notice which under regulation 20(4) cancels that notice, has effect—
+
+- (a) the amount which is not deducted shall, without prejudice to any other method of recovery from the claimant or otherwise, be recoverable from the employer by the Secretary of State; and
+- (b) any amount so recovered shall, for the purposes of these Regulations, be deemed to have been repaid by the claimant.
+
+(6) All records and notices to which this regulation applies shall be given or sent to the Secretary of State, on a form approved by him, at such office of the Department of Social Security[^M_F_f580e0b5-a3e7-4aea-ca4b-954336f38fc4] as he may direct.
+
+### 28. Claimants to give notice of cessation or resumption of employment
+
+(1) Where a claimant ceases to be in the employment of a person on whom a deduction notice relating to him has been duly served knowing that the full amount of the recoverable amount has not been deducted from his earnings or otherwise recovered by the Secretary of State, he shall give notice within 10 working days to the Secretary of State of his address and of the date of such cessation of employment.
+
+(2) Where on or after such cessation the claimant resumes employment (whether with the same or some other employer) he shall within 10 working days give notice to the Secretary of State of the name of the employer and of the address of his place of employment.
+
+### 29. Failure to notify
+
+If a person fails to comply with any requirement under regulation 27 or 28 to give notice of any matter to the Secretary of State he shall be guilty of an offence and liable on summary conviction to a fine not exceeding—
+
+- (a) for any one offence, level 3 on the standard scale; or
+- (b) for an offence of continuing any such contravention, £40 for each day on which it is so continued.
+
+## PART   8A — Recovery by deduction from earnings: other cases[^key-3441a289e434b07b2b77efd61b277552]
+
+### 29A. Recovery by deduction from earnings: other cases
+
+(1) Any amount which is recoverable by virtue of section 71(1) or (4), 71ZA or 78(1) of the Administration Act may be recovered by the Secretary of State by deduction from the earnings of the person from whom it is recoverable.
+
+(2) Part 6 of the Social Security (Overpayments and Recovery) Regulations 2013 applies in relation to recovery by deduction from the earnings of a person specified in paragraph (1) by the Secretary of State as it applies to recovery by deduction from the earnings of persons of recoverable amounts under that Part of those Regulations by an appropriate authority.
+
+## PART IX — REVOCATION, TRANSITIONAL PROVISIONS AND SAVINGS
+
+### 30. Revocation
+
+Subject to regulation 31(3), the Social Security (Payments on account, Overpayments and Recovery) Regulations 1987 [^c2181079] are hereby revoked except for regulations 19 and The Schedule thereto and 20(2) and (3) which shall continue in force.
+
+### 31. Transitional provisions
+
+(1) These Regulations shall apply to any question relating to the repayment or recoverability of family income supplement and supplementary benefit as though the definition of “benefit” in regulation 1(2) included references to both those benefits and as though any reference in Part VIII to income support was a reference to income support and supplementary benefit.
+
+(2) Anything done or begun under the Social Security (Payments on account, Overpayments and Recovery) Regulations 1987 or Part IV of the Supplementary Benefit (Trade Disputes and Recovery from Earnings) Regulations 1980 [^c2181080] shall be deemed to have been done or, as the case may be, continued under the corresponding provisions of these Regulations.
+
+(3) Where this regulation applies—
+
+- (a) regulation 3(b)(ii) shall have effect as though for the words “the same benefit” there were substituted the words “ income support ” if the interim payment was of supplementary benefit and “family credit” if the interim payment was of family income supplement;
+- (b) regulation 13(b) shall have effect as though for the words “income support” there were substituted the words “ supplementary benefit ”.
+
+(4) In this Part—
+
+- “**family income supplement**” means benefit under the Family Income Supplements Act 1970 [^c2181081];
+- “**supplementary benefit**” means benefit under Part I of the Supplementary Benefits Act 1976 [^c2181082].
+
+Signed by authority of the Secretary of State for Social Services.
+
+Michael Portillo
+
+Parliamentary Under-Secretary of State,
+
+Department of Health and Social Security
+
+*(This note is not part of the Regulations)*
+
+These Regulations, a draft of which has been laid before and approved by resolution of each House of Parliament, come into force on 11th April 1988 and replace, with amendments, the Social Security (Payments on account, Overpayments and Recovery) Regulations 1987 (S.I. 1987/491) and Part IV of the Supplementary Benefit (Trade Disputes and Recovery from Earnings) Regulations 1980 (S.I. 1980/1641) which cease to have effect.
+
+The main amendments are consequential upon the introduction of family credit and income support. Other amendments—
+
+- (1) take account of the change in the assessment of capital for income support (tariff income) in calculating overpayments flowing from a misrepresentation as to claimant's capital (regulation 14);
+- (2) relate to the amount of income support which can be deducted in respect of overpayment of benefit (regulation 16(4));
+- (3) provide that, in the calculation of a claimant's protected earnings, housing costs are calculated at a fixed rate (regulation 19).
+
+The Regulations contain transitional provisions which enable recovery of supplementary benefit and family income supplement to continue to be made by including those benefits in the definition of “benefit” and provide for continuity of action done or begun under the regulations which are revoked.
+
+The Regulations are made under provisions of the Social Security Act 1986 none of which has yet been in force for 12 months. Accordingly, the Regulations are exempt, by section 61(5) of the Social Security Act 1986, from reference to the Social Security Advisory Committee and have not been so referred.
+
+## Annotations
+
+[^c2181059]: Marginal citation: [1986 c. 50](https://www.legislation.gov.uk/ukpga/1986/50).
+
+[^c2181060]: Marginal citation: [Section 83(1)](https://www.legislation.gov.uk/uksi/1988/664/section/83/1) provides for section 166(1) to (3A) of the [Social Security Act 1975 (c. 14)](https://www.legislation.gov.uk/ukpga/1975/14) (extent of powers) to apply to regulation-making powers conferred by the Social Security Act 1986 and section 84 is cited because of the meaning ascribed to the words “prescribed” and “regulations”.
+
+[^key-e4d5cf935a5cb97e0729f54dfbc119fa]: Modification: [Instrument](https://www.legislation.gov.uk/uksi/1988/664) modified (7.4.2003 for specified purposes) by [The Child Benefit and Guardian’s Allowance (Administration) Regulations 2003 (S.I. 2003/492)](https://www.legislation.gov.uk/uksi/2003/492), [regs. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1), [43](https://www.legislation.gov.uk/uksi/2003/492/regulation/43), [Sch. 3 Pts. 1](https://www.legislation.gov.uk/uksi/2003/492/schedule/3/part/1) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/2), [44](https://www.legislation.gov.uk/uksi/2003/492/regulation/44))
+
+[^key-0ebf2d7364b1e3b7bedb2816d2b3cbb0]: Modification: [Instrument](https://www.legislation.gov.uk/uksi/1988/664) applied (with modifications) (1.10.2010) by [Employment and Support Allowance (Transitional Provisions, Housing Benefit and Council Tax Benefit) (Existing Awards) (No.2) Regulations 2010 (S.I. 2010/1907)](https://www.legislation.gov.uk/uksi/2010/1907), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/1907/regulation/1/2), [16(2)(e)(iii)](https://www.legislation.gov.uk/uksi/2010/1907/regulation/16/2/e/iii), [16(3)](https://www.legislation.gov.uk/uksi/2010/1907/regulation/16/3) (with [reg. 3](https://www.legislation.gov.uk/uksi/2010/1907/regulation/3))
+
+[^M_C_6419cfd1-ceb9-4628-c67b-fd2112a8053d]: Modification: Reg. 1(2) modified (1st June, 5th July, 6th September, 5th and 18th October and 29th November 1999) by the Social Security Act 1998, 1999/1958, 2422, 2739, 2860 and 3178, Sch.9 para. 1
+
+[^key-2ed120052b9d713bd8578b8b76dde98b]: Textual amendment: Words in reg. 1(2) inserted (29.4.2013) by [The Social Security (Overpayments and Recovery) Regulations 2013 (S.I. 2013/384)](https://www.legislation.gov.uk/uksi/2013/384), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2013/384/regulation/1/3), [31(2)(b)](https://www.legislation.gov.uk/uksi/2013/384/regulation/31/2/b)
+
+[^key-a5fa46bd20086654952337af18cb76cf]: Textual amendment: Words in reg. 1(2) inserted (8.4.2013) by [The Social Security (Overpayments and Recovery) Regulations 2013 (S.I. 2013/384)](https://www.legislation.gov.uk/uksi/2013/384), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2013/384/regulation/1/2/c), [31(2)(a)](https://www.legislation.gov.uk/uksi/2013/384/regulation/31/2/a)
+
+[^key-a23a40148e72f198e1f8ed78903f3e6e]: Textual amendment: Words in reg. 1(2) substituted (5.10.1999 with effect in accordance with reg. 1(2)) by [The Tax Credits (Payments on Account, Overpayments and Recovery) (Amendment) Regulations 1999 (S.I. 1999/2571)](https://www.legislation.gov.uk/uksi/1999/2571), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/2571/regulation/1/1), [3(a)](https://www.legislation.gov.uk/uksi/1999/2571/regulation/3/a)
+
+[^key-53e2b4afc0283cfdd8de9672bbc09344]: Textual amendment: Words in reg. 1(2) substituted (3.11.2008) by [Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683), [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1), [Sch. 1 para. 44](https://www.legislation.gov.uk/uksi/2008/2683/schedule/1/paragraph/44)
+
+[^key-05d4a81dc1883832fc235a7600516704]: Textual amendment: Words in reg. 1(2) inserted (18.3.2005) by [Social Security, Child Support and Tax Credits (Miscellaneous Amendments) Regulations 2005 (S.I. 2005/337)](https://www.legislation.gov.uk/uksi/2005/337), [regs. 1](https://www.legislation.gov.uk/uksi/2005/337/regulation/1), [10(2)](https://www.legislation.gov.uk/uksi/2005/337/regulation/10/2)
+
+[^key-7556d4ab627e1f3f77a3ab76867f549e]: Textual amendment: Words in reg. 1(2) inserted (7.10.1996) by [The Social Security and Child Support (Jobseeker’s Allowance) (Consequential Amendments) Regulations 1996 (S.I. 1996/1345)](https://www.legislation.gov.uk/uksi/1996/1345), [regs. 1](https://www.legislation.gov.uk/uksi/1996/1345/regulation/1), [23(2)(a)](https://www.legislation.gov.uk/uksi/1996/1345/regulation/23/2/a)
+
+[^key-d8054839c29474d5e953368ceb01f1f7]: Textual amendment: Words in reg. 1(2) substituted (6.10.2003) by [State Pension Credit (Consequential, Transitional and Miscellaneous Provisions) Regulations 2002 (S.I. 2002/3019)](https://www.legislation.gov.uk/uksi/2002/3019), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2002/3019/regulation/1/2/b), [24(2)(a)](https://www.legislation.gov.uk/uksi/2002/3019/regulation/24/2/a)
+
+[^key-1bcb7d28ca5492b68d3105dee11c6008]: Textual amendment: Words in reg. 1(2) inserted (27.10.2008) by [Employment and Support Allowance (Consequential Provisions) (No.2) Regulations 2008 (S.I. 2008/1554)](https://www.legislation.gov.uk/uksi/2008/1554), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2008/1554/regulation/1/2/b), [52(2)(a)](https://www.legislation.gov.uk/uksi/2008/1554/regulation/52/2/a)
+
+[^key-a31574db48cd45ce126ee427db4825f2]: Textual amendment: Words in reg. 1(2) inserted (8.4.2013) by [The Social Security (Overpayments and Recovery) Regulations 2013 (S.I. 2013/384)](https://www.legislation.gov.uk/uksi/2013/384), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2013/384/regulation/1/2/c), [31(2)(c)](https://www.legislation.gov.uk/uksi/2013/384/regulation/31/2/c)
+
+[^key-e8ff43b3be7373dab9a0a1054e255b39]: Textual amendment: Words in reg. 1(2) inserted (6.4.2016 coming into force in accordance with art. 1(2)(b)) by [The Pensions Act 2014 (Consequential, Supplementary and Incidental Amendments) Order 2015 (S.I. 2015/1985)](https://www.legislation.gov.uk/uksi/2015/1985), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2015/1985/article/1/2/b), [11(2)](https://www.legislation.gov.uk/uksi/2015/1985/article/11/2)
+
+[^c2181061]: Marginal citation: [1975 c. 14](https://www.legislation.gov.uk/ukpga/1975/14); amendments altering the range of benefits available under this Act were made by the [Social Security Pensions Act 1975 (c. 60)](https://www.legislation.gov.uk/ukpga/1975/60), [sections 15](https://www.legislation.gov.uk/ukpga/1975/60/section/15), [16](https://www.legislation.gov.uk/ukpga/1975/60/section/16), [22](https://www.legislation.gov.uk/ukpga/1975/60/section/22) and 66(2), the [Social Security and Housing Benefits Act 1982 (c. 24)](https://www.legislation.gov.uk/ukpga/1982/24), [section 39](https://www.legislation.gov.uk/ukpga/1982/24/section/39), the [Health and Social Security Act 1984 (c. 48)](https://www.legislation.gov.uk/ukpga/1984/48), [sections 11 to 13](https://www.legislation.gov.uk/ukpga/1984/48/section/11) and Schedule 5 and the [Social Security Act 1986 (c. 50)](https://www.legislation.gov.uk/ukpga/1986/50) sections 36 to 42, Schedule 3 and Schedule 4, paragraph 13.
+
+[^key-e8ed6ef65d96e1e9102012b4f1988e85]: Textual amendment: Words in reg. 1(2) substituted (5.10.1999 with effect in accordance with reg. 1(2)) by [The Tax Credits (Payments on Account, Overpayments and Recovery) (Amendment) Regulations 1999 (S.I. 1999/2571)](https://www.legislation.gov.uk/uksi/1999/2571), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/2571/regulation/1/1), [3(b)](https://www.legislation.gov.uk/uksi/1999/2571/regulation/3/b)
+
+[^M_F_f138e10b-f7b7-4ac0-e481-b9736d036f94]: Textual amendment: Words in reg. 1(2) substituted (7.11.1988) by [S.I. 1988/1725](https://www.legislation.gov.uk/uksi/1988/1725), [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/1725/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/1988/1725/regulation/4) (from 7.11.88. to 26.2.89 inclusive), and by reg. 1(1), 3 of S.I. 1989/ 136 as from 27.2.89.
+
+[^key-9903e8f2febe282cc77662aaf449790b]: Textual amendment: Words in reg. 1(2) added (13.4.1995) by [The Social Security (Incapacity Benefit) (Consequential and Transitional Amendments and Savings) Regulations 1995 (S.I. 1995/829)](https://www.legislation.gov.uk/uksi/1995/829), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1995/829/regulation/1/1), [21(2)(a)](https://www.legislation.gov.uk/uksi/1995/829/regulation/21/2/a) (with [Pt. III](https://www.legislation.gov.uk/uksi/1995/829/part/III))
+
+[^key-a3d2485dfa7c93b497a7912c8ecac345]: Textual amendment: Words in reg. 1(2) omitted (6.4.2017 coming into force in accordance with art. 1-3) by virtue of [The Pensions Act 2014 (Consequential, Supplementary and Incidental Amendments) Order 2017 (S.I. 2017/422)](https://www.legislation.gov.uk/uksi/2017/422), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2017/422/article/1/2), [13(2)](https://www.legislation.gov.uk/uksi/2017/422/article/13/2)
+
+[^key-38815a477296d48557813a1bdde25090]: Textual amendment: Words in reg. 1(2) inserted (5.10.1999 with effect in accordance with reg. 1(2)) by [The Tax Credits (Payments on Account, Overpayments and Recovery) (Amendment) Regulations 1999 (S.I. 1999/2571)](https://www.legislation.gov.uk/uksi/1999/2571), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/2571/regulation/1/1), [3(c)](https://www.legislation.gov.uk/uksi/1999/2571/regulation/3/c)
+
+[^c2181062]: Marginal citation: [1975 c. 61](https://www.legislation.gov.uk/ukpga/1975/61).
+
+[^c2181063]: Marginal citation: [S.I. 1987/1968](https://www.legislation.gov.uk/uksi/1987/1968).
+
+[^key-a701277d0fe917d60f2684c15e2e28d7]: Textual amendment: Words in reg. 1(2) inserted (13.4.1995) by [The Social Security (Incapacity Benefit) (Consequential and Transitional Amendments and Savings) Regulations 1995 (S.I. 1995/829)](https://www.legislation.gov.uk/uksi/1995/829), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1995/829/regulation/1/1), [21(2)(b)](https://www.legislation.gov.uk/uksi/1995/829/regulation/21/2/b) (with [Pt. III](https://www.legislation.gov.uk/uksi/1995/829/part/III))
+
+[^M_F_5fac2da6-8f14-44ae-cf60-4337a552daeb]: Textual amendment: Words inserted (6.4.92) by [S.I. 1991/2742](https://www.legislation.gov.uk/uksi/1991/2742), [reg. 1(1)(2)](https://www.legislation.gov.uk/uksi/1991/2742/regulation/1/1/2), [15(2)(b)](https://www.legislation.gov.uk/uksi/1991/2742/regulation/15/2/b)
+
+[^key-922d56cefa56cacdb5b522f98878aa84]: Textual amendment: Words in reg. 1(2) substituted (5.10.1999 with effect in accordance with reg. 1(2)) by [The Tax Credits (Payments on Account, Overpayments and Recovery) (Amendment) Regulations 1999 (S.I. 1999/2571)](https://www.legislation.gov.uk/uksi/1999/2571), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/2571/regulation/1/1), [3(d)](https://www.legislation.gov.uk/uksi/1999/2571/regulation/3/d)
+
+[^key-83e008d47090ef04b35f39d626561785]: Textual amendment: Words in reg. 1(2) inserted (29.4.2013) by [The Social Security (Overpayments and Recovery) Regulations 2013 (S.I. 2013/384)](https://www.legislation.gov.uk/uksi/2013/384), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2013/384/regulation/1/3), [31(2)(d)](https://www.legislation.gov.uk/uksi/2013/384/regulation/31/2/d)
+
+[^key-cc0440b6ca0efbdc7d8d407b1bd4ea16]: Textual amendment: Words in reg. 1(2) inserted (27.10.2008) by [Employment and Support Allowance (Consequential Provisions) (No.2) Regulations 2008 (S.I. 2008/1554)](https://www.legislation.gov.uk/uksi/2008/1554), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2008/1554/regulation/1/2/b), [52(2)(b)](https://www.legislation.gov.uk/uksi/2008/1554/regulation/52/2/b)
+
+[^key-2c865cbc8af1a482069c045777154629]: Textual amendment: Words in reg. 1(2) omitted (5.10.1999 with effect in accordance with reg. 1(2)) by virtue of [The Tax Credits (Payments on Account, Overpayments and Recovery) (Amendment) Regulations 1999 (S.I. 1999/2571)](https://www.legislation.gov.uk/uksi/1999/2571), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/2571/regulation/1/1), [3(e)](https://www.legislation.gov.uk/uksi/1999/2571/regulation/3/e)
+
+[^c2181064]: Marginal citation: [1975 c. 14](https://www.legislation.gov.uk/ukpga/1975/14); section 38 was amended by the [Child Benefit Act 1975 (c. 61)](https://www.legislation.gov.uk/ukpga/1975/61), [Schedule 4](https://www.legislation.gov.uk/ukpga/1975/61/schedule/4), [paragraph 12(a)](https://www.legislation.gov.uk/ukpga/1975/61/paragraph/12/a) and (c) and by the [Social Security Act 1986 (c. 50)](https://www.legislation.gov.uk/ukpga/1986/50), [section 45](https://www.legislation.gov.uk/ukpga/1986/50/section/45).
+
+[^c2181065]: Marginal citation: [S.I. 1987/1969](https://www.legislation.gov.uk/uksi/1987/1969).
+
+[^c2181066]: Marginal citation: [S.I. 1987/1967](https://www.legislation.gov.uk/uksi/1987/1967).
+
+[^key-433e27e8c179127e973370f7a78f96ed]: Textual amendment: Words in reg. 1(2) inserted (29.4.2013) by [The Social Security (Overpayments and Recovery) Regulations 2013 (S.I. 2013/384)](https://www.legislation.gov.uk/uksi/2013/384), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2013/384/regulation/1/3), [31(2)(e)](https://www.legislation.gov.uk/uksi/2013/384/regulation/31/2/e)
+
+[^key-ac4a7cf74f4bbcd44cf241b8aa6c7fad]: Textual amendment: Words in reg. 1(2) inserted (7.10.1996) by [The Social Security and Child Support (Jobseeker’s Allowance) (Consequential Amendments) Regulations 1996 (S.I. 1996/1345)](https://www.legislation.gov.uk/uksi/1996/1345), [regs. 1](https://www.legislation.gov.uk/uksi/1996/1345/regulation/1), [23(2)(b)](https://www.legislation.gov.uk/uksi/1996/1345/regulation/23/2/b)
+
+[^key-36522378fc7737802acf52342ba046ca]: Textual amendment: Words in reg. 1(2) inserted (8.4.2013) by [The Social Security (Overpayments and Recovery) Regulations 2013 (S.I. 2013/384)](https://www.legislation.gov.uk/uksi/2013/384), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2013/384/regulation/1/2/c), [31(2)(f)](https://www.legislation.gov.uk/uksi/2013/384/regulation/31/2/f)
+
+[^c2181067]: Marginal citation: [1975 c. 14](https://www.legislation.gov.uk/ukpga/1975/14); section 36 was substituted by section 11 of the [Health and Social Security Act 1984 (c. 48)](https://www.legislation.gov.uk/ukpga/1984/48).
+
+[^key-4ae9166136abbc72ceb4e8ebb0c42636]: Textual amendment: Words in reg. 1(2) inserted (6.10.2003) by [State Pension Credit (Consequential, Transitional and Miscellaneous Provisions) Regulations 2002 (S.I. 2002/3019)](https://www.legislation.gov.uk/uksi/2002/3019), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2002/3019/regulation/1/2/b), [24(2)(b)](https://www.legislation.gov.uk/uksi/2002/3019/regulation/24/2/b)
+
+[^key-9f5154602b0c1440692ed21a4b8c408e]: Textual amendment: Words in reg. 1(2) added (5.10.1999 with effect in accordance with reg. 1(2)) by [The Tax Credits (Payments on Account, Overpayments and Recovery) (Amendment) Regulations 1999 (S.I. 1999/2571)](https://www.legislation.gov.uk/uksi/1999/2571), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/2571/regulation/1/1), [3(f)](https://www.legislation.gov.uk/uksi/1999/2571/regulation/3/f)
+
+[^key-4fe51ac154acd89a4d8ac1fc8b4bfb2e]: Textual amendment: Words in reg. 1(2) inserted (29.4.2013) by [The Social Security (Overpayments and Recovery) Regulations 2013 (S.I. 2013/384)](https://www.legislation.gov.uk/uksi/2013/384), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2013/384/regulation/1/3), [31(2)(g)](https://www.legislation.gov.uk/uksi/2013/384/regulation/31/2/g)
+
+[^key-0a4118bcb44aafcde407cdbdf7b475c6]: Textual amendment: Words in reg. 1(2) inserted (27.10.2008) by [Employment and Support Allowance (Consequential Provisions) (No.2) Regulations 2008 (S.I. 2008/1554)](https://www.legislation.gov.uk/uksi/2008/1554), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2008/1554/regulation/1/2/b), [52(2)(c)](https://www.legislation.gov.uk/uksi/2008/1554/regulation/52/2/c)
+
+[^M_C_c18ef557-2ec7-42d7-e961-bdbc757cb266]: Modification: Modification of Part II, revoked with savings (1.4.13) by S.I. 2013/383, reg. 1(2)(a), 19(1)(2)
+
+[^M_F_539cc30b-7387-4be0-b340-af603d917152]: Textual amendment: Words in reg. 2(1) added (5.2.96) by S.I. 1996/30, reg. 1(1), 10(a)
+
+[^key-92255133068d13bdde95ea0bff1ea39d]: Textual amendment: Words in reg. 2(1) substituted (5.10.1999 with effect in accordance with reg. 1(2)) by [The Tax Credits (Payments on Account, Overpayments and Recovery) (Amendment) Regulations 1999 (S.I. 1999/2571)](https://www.legislation.gov.uk/uksi/1999/2571), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/2571/regulation/1/1), [4(2)(a)](https://www.legislation.gov.uk/uksi/1999/2571/regulation/4/2/a)
+
+[^key-b837754ce475a35cea090ecd2cc78a7b]: Textual amendment: Word in reg. 2(1) substituted (5.10.1999 with effect in accordance with reg. 1(2)) by [The Tax Credits (Payments on Account, Overpayments and Recovery) (Amendment) Regulations 1999 (S.I. 1999/2571)](https://www.legislation.gov.uk/uksi/1999/2571), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/2571/regulation/1/1), [4(2)(b)](https://www.legislation.gov.uk/uksi/1999/2571/regulation/4/2/b)
+
+[^key-da65ad3e971f9be542dc44b6873a4d54]: Textual amendment: Words in reg. 2(1) inserted (18.3.2005) by [Social Security, Child Support and Tax Credits (Miscellaneous Amendments) Regulations 2005 (S.I. 2005/337)](https://www.legislation.gov.uk/uksi/2005/337), [regs. 1](https://www.legislation.gov.uk/uksi/2005/337/regulation/1), [10(3)(a)(i)](https://www.legislation.gov.uk/uksi/2005/337/regulation/10/3/a/i)
+
+[^key-b3b9508cf135ce7b653d11d7f6b08edd]: Textual amendment: Words in reg. 2(1)(a) inserted (18.3.2005) by [Social Security, Child Support and Tax Credits (Miscellaneous Amendments) Regulations 2005 (S.I. 2005/337)](https://www.legislation.gov.uk/uksi/2005/337), [regs. 1](https://www.legislation.gov.uk/uksi/2005/337/regulation/1), [10(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2005/337/regulation/10/3/a/ii)
+
+[^M_C_e59d0ac2-b90e-405c-86aa-aca3ee0e0466]: Modification: Reg. 2(1)(b) modified (1st June, 5th July, 6th September, 5th and 18th October and 29th November 1999) by the Social Security Act 1998, 1999/1958, 2422, 2739, 2860 and 3178, Sch.9 para. 2
+
+[^key-a646e0f37d9c9e4368b47ae76bb0750c]: Textual amendment: Words in reg. 2(1)(b) substituted (5.10.1999 with effect in accordance with reg. 1(2)) by [The Tax Credits (Payments on Account, Overpayments and Recovery) (Amendment) Regulations 1999 (S.I. 1999/2571)](https://www.legislation.gov.uk/uksi/1999/2571), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/2571/regulation/1/1), [4(2)(c)](https://www.legislation.gov.uk/uksi/1999/2571/regulation/4/2/c)
+
+[^key-f7816a5ace14a87b2509f4a871a30c2a]: Textual amendment: Reg. 2(1A) substituted (18.3.2005) by [Social Security, Child Support and Tax Credits (Miscellaneous Amendments) Regulations 2005 (S.I. 2005/337)](https://www.legislation.gov.uk/uksi/2005/337), [regs. 1](https://www.legislation.gov.uk/uksi/2005/337/regulation/1), [10(3)(b)](https://www.legislation.gov.uk/uksi/2005/337/regulation/10/3/b)
+
+[^M_F_f6c4b2e0-f3ce-4ae0-f970-d9d913cd7aa6]: Textual amendment: Words in reg. 2(2) added (6.4.92) by S.I. 1991/2742, reg. 1(1), 15(3)(a)
+
+[^M_F_d08c9d19-c41a-4e10-c0cc-f7dfc8394b57]: Textual amendment: Reg. 2(3) inserted (6.4.92) by S.I. 1991/2742, reg. 1(1), 15(3)(b)
+
+[^M_F_1358b181-cdcd-4078-f5a0-01683b8b51a8]: Textual amendment: Reg. 2(4) inserted (5.4.93) by S.I. 1993/650, reg. 1(1), 2(1)
+
+[^key-ee7b0d371a39fff2c167f51946a8ed78]: Textual amendment: Words in reg. 2(4) inserted (27.10.2008) by [Employment and Support Allowance (Consequential Provisions) (No.2) Regulations 2008 (S.I. 2008/1554)](https://www.legislation.gov.uk/uksi/2008/1554), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2008/1554/regulation/1/2/b), [52(3)](https://www.legislation.gov.uk/uksi/2008/1554/regulation/52/3)
+
+[^M_F_8dc7cd4a-a54f-4199-8b1c-177f25286001]: Textual amendment: Reg. 3 substituted (5.4.93) by S.I. 1993/650, reg. 1(1), 2(2)
+
+[^key-d62666ac61692db0915e5c8ed1aefcc5]: Textual amendment: Reg. 3(1): reg. 3 renumbered as reg. 3(1) (5.10.1999 with effect in accordance with reg. 1(2)) by [The Tax Credits (Payments on Account, Overpayments and Recovery) (Amendment) Regulations 1999 (S.I. 1999/2571)](https://www.legislation.gov.uk/uksi/1999/2571), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/2571/regulation/1/1), [5(2)](https://www.legislation.gov.uk/uksi/1999/2571/regulation/5/2)
+
+[^key-bd9064ce039cadf147bdd07cfbe3a660]: Textual amendment: Words in reg. 3(1) substituted (5.10.1999 with effect in accordance with reg. 1(2)) by [The Tax Credits (Payments on Account, Overpayments and Recovery) (Amendment) Regulations 1999 (S.I. 1999/2571)](https://www.legislation.gov.uk/uksi/1999/2571), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/2571/regulation/1/1), [5(2)](https://www.legislation.gov.uk/uksi/1999/2571/regulation/5/2)
+
+[^key-bcb8970b91508f051e4e2a2a8921d686]: Textual amendment: Reg. 3(2) added (5.10.1999 with effect in accordance with reg. 1(2)) by [The Tax Credits (Payments on Account, Overpayments and Recovery) (Amendment) Regulations 1999 (S.I. 1999/2571)](https://www.legislation.gov.uk/uksi/1999/2571), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/2571/regulation/1/1), [5(3)](https://www.legislation.gov.uk/uksi/1999/2571/regulation/5/3)
+
+[^M_F_d0eb861c-f3b0-4c70-ed04-170ecd0c20d1]: Textual amendment: Words in reg. 4(1) substituted (5.4.93) by S.I. 1993/650, reg. 1(1), 2(3)(a)
+
+[^M_F_4f972a88-3bf2-46c8-848f-a73e6f3638e2]: Textual amendment: Word in reg. 4(3)(b) inserted (5.4.93) by S.I. 1993/650, reg. 1(1), 2(3)(b)
+
+[^M_F_7837e2fc-3726-406f-96b3-10885ab4b3c6]: Textual amendment: Reg. 4(3)(c) inserted (5.4.93) by S.I. 1993/650, reg. 1(1), 2(3)(c)
+
+[^key-835306ca96f416cce4733eff1b48be4a]: Textual amendment: Words in reg. 4(3)(c) inserted (27.10.2008) by [Employment and Support Allowance (Consequential Provisions) (No.2) Regulations 2008 (S.I. 2008/1554)](https://www.legislation.gov.uk/uksi/2008/1554), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2008/1554/regulation/1/2/b), [52(4)](https://www.legislation.gov.uk/uksi/2008/1554/regulation/52/4)
+
+[^key-6b32ecdb4c961d8cb7e4b6fbcfac21cc]: Textual amendment: Reg. 4(5) added (5.10.1999 with effect in accordance with reg. 1(2)) by [The Tax Credits (Payments on Account, Overpayments and Recovery) (Amendment) Regulations 1999 (S.I. 1999/2571)](https://www.legislation.gov.uk/uksi/1999/2571), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/2571/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/1999/2571/regulation/6)
+
+[^key-f89423f3689e408a57c490a6932c9444]: Textual amendment: Words in reg. 5(1) added (5.10.1999 with effect in accordance with reg. 1(2)) by [The Tax Credits (Payments on Account, Overpayments and Recovery) (Amendment) Regulations 1999 (S.I. 1999/2571)](https://www.legislation.gov.uk/uksi/1999/2571), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/2571/regulation/1/1), [7(2)](https://www.legislation.gov.uk/uksi/1999/2571/regulation/7/2)
+
+[^key-f20f7e96efbd32a1ad69ba34e2e4a906]: Textual amendment: Words in reg. 5(1) substituted (6.4.2006) by [Social Security (Deferral of Retirement Pensions etc.) Regulations 2006 (S.I. 2006/516)](https://www.legislation.gov.uk/uksi/2006/516), [regs. 1](https://www.legislation.gov.uk/uksi/2006/516/regulation/1), [6(a)](https://www.legislation.gov.uk/uksi/2006/516/regulation/6/a)
+
+[^key-4779fa4f8303bf127567aba543394420]: Textual amendment: Reg. 5(1A) inserted (5.10.1999 with effect in accordance with reg. 1(2)) by [The Tax Credits (Payments on Account, Overpayments and Recovery) (Amendment) Regulations 1999 (S.I. 1999/2571)](https://www.legislation.gov.uk/uksi/1999/2571), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/2571/regulation/1/1), [7(3)](https://www.legislation.gov.uk/uksi/1999/2571/regulation/7/3)
+
+[^M_C_3dee016c-2003-48ee-d1ec-32df4cc730b9]: Modification: Reg. 5(2) modified (1st June, 5th July, 6th September, 5th and 18th October and 29th November 1999) by the Social Security Act 1998, 1999/1958, 2422, 2739, 2860 and 3178, Sch.9 para. 3
+
+[^key-87cdc6a37c8896b20bbff5722b50f30e]: Textual amendment: Word in reg. 5(2) substituted (5.10.1999 with effect in accordance with reg. 1(2)) by [The Tax Credits (Payments on Account, Overpayments and Recovery) (Amendment) Regulations 1999 (S.I. 1999/2571)](https://www.legislation.gov.uk/uksi/1999/2571), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/2571/regulation/1/1), [7(4)(a)](https://www.legislation.gov.uk/uksi/1999/2571/regulation/7/4/a)
+
+[^key-391328197ad084f1cbbec20a40c97010]: Textual amendment: Words in reg. 5(2) inserted (6.7.2005) by [Social Security (Shared Additional Pension) (Miscellaneous Amendments) Regulations 2005 (S.I. 2005/1551)](https://www.legislation.gov.uk/uksi/2005/1551), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/2005/1551/regulation/1/1/a), [8](https://www.legislation.gov.uk/uksi/2005/1551/regulation/8) (with [reg. 10](https://www.legislation.gov.uk/uksi/2005/1551/regulation/10))
+
+[^key-8730fee4e27f7c0dd8d1ec1a399933b7]: Textual amendment: Words in [reg. 5(2)](https://www.legislation.gov.uk/uksi/1988/664/regulation/5/2) inserted (6.4.2016 coming into force in accordance with art. 1(2)(b)) by [The Pensions Act 2014 (Consequential, Supplementary and Incidental Amendments) Order 2015 (S.I. 2015/1985)](https://www.legislation.gov.uk/uksi/2015/1985), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2015/1985/article/1/2/b), [11(3)(a)](https://www.legislation.gov.uk/uksi/2015/1985/article/11/3/a)
+
+[^key-ae05b265d3f906e2aeb7c65394ed2a74]: Textual amendment: Words in reg. 5(2) substituted (5.10.1999 with effect in accordance with reg. 1(2)) by [The Tax Credits (Payments on Account, Overpayments and Recovery) (Amendment) Regulations 1999 (S.I. 1999/2571)](https://www.legislation.gov.uk/uksi/1999/2571), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/2571/regulation/1/1), [7(4)(b)](https://www.legislation.gov.uk/uksi/1999/2571/regulation/7/4/b)
+
+[^key-ded01576f5993c1874d07160927e4293]: Textual amendment: Words in reg. 5(2) substituted (5.10.1999 with effect in accordance with reg. 1(2)) by [The Tax Credits (Payments on Account, Overpayments and Recovery) (Amendment) Regulations 1999 (S.I. 1999/2571)](https://www.legislation.gov.uk/uksi/1999/2571), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/2571/regulation/1/1), [7(4)(c)](https://www.legislation.gov.uk/uksi/1999/2571/regulation/7/4/c)
+
+[^key-7ef6a8f0c52a285fdf9a2a1f5a225ac3]: Textual amendment: Words in reg. 5(2) inserted (8.4.2013) by [The Social Security (Overpayments and Recovery) Regulations 2013 (S.I. 2013/384)](https://www.legislation.gov.uk/uksi/2013/384), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2013/384/regulation/1/2/c), [31(3)](https://www.legislation.gov.uk/uksi/2013/384/regulation/31/3)
+
+[^key-219d668175e187b84ea1e35f5e193afa]: Textual amendment: Words in reg. 5(2) inserted (28.6.2010) by [Social Security (Miscellaneous Amendments) (No.3) Regulations 2010 (S.I. 2010/840)](https://www.legislation.gov.uk/uksi/2010/840), [regs. 1](https://www.legislation.gov.uk/uksi/2010/840/regulation/1), [3](https://www.legislation.gov.uk/uksi/2010/840/regulation/3)
+
+[^key-a40bd98c024cd0274284a9b1ab038a49]: Textual amendment: Words in reg. 5(2) inserted (6.4.2001) by [The Social Security (Incapacity Benefit) Miscellaneous Amendments Regulations 2000 (S.I. 2000/3120)](https://www.legislation.gov.uk/uksi/2000/3120), [regs. 1](https://www.legislation.gov.uk/uksi/2000/3120/regulation/1), [5](https://www.legislation.gov.uk/uksi/2000/3120/regulation/5) (with [reg. 6](https://www.legislation.gov.uk/uksi/2000/3120/regulation/6))
+
+[^key-e9f6fae743467b37d72bedee1e1a68f4]: Textual amendment: Words in reg. 5(2) inserted (28.6.2010) by [Social Security (Miscellaneous Amendments) (No.3) Regulations 2010 (S.I. 2010/840)](https://www.legislation.gov.uk/uksi/2010/840), [regs. 1](https://www.legislation.gov.uk/uksi/2010/840/regulation/1), [3](https://www.legislation.gov.uk/uksi/2010/840/regulation/3)
+
+[^key-6d047dde92388c1950f18f9d863a8af4]: Textual amendment: Words in [reg. 5(2)](https://www.legislation.gov.uk/uksi/1988/664/regulation/5/2) inserted (26.3.2024) by [The Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023 (Consequential Amendments) Order 2024 (S.I. 2024/282)](https://www.legislation.gov.uk/uksi/2024/282), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/282/article/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2024/282/article/2/2)
+
+[^key-5a6c5488cd7c2c26e2a976f5c26a455e]: Textual amendment: Reg. 5(2A) inserted (5.10.1999 with effect in accordance with reg. 1(2)) by [The Tax Credits (Payments on Account, Overpayments and Recovery) (Amendment) Regulations 1999 (S.I. 1999/2571)](https://www.legislation.gov.uk/uksi/1999/2571), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/2571/regulation/1/1), [7(5)](https://www.legislation.gov.uk/uksi/1999/2571/regulation/7/5)
+
+[^key-0cea5d133c655abad8f58840026bca1f]: Textual amendment: [Reg. 5(2B)-(2D)](https://www.legislation.gov.uk/uksi/1988/664/regulation/5/2B) inserted (26.3.2024) by [The Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023 (Consequential Amendments) Order 2024 (S.I. 2024/282)](https://www.legislation.gov.uk/uksi/2024/282), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/282/article/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2024/282/article/2/3)
+
+[^key-467dcb90e0f533ed3b002aed98569233]: Textual amendment: Words in [reg. 5(2B)](https://www.legislation.gov.uk/uksi/1988/664/regulation/5/2B) substituted (15.3.2026) by [The Social Security (Scotland) Act 2018 (Carer’s Assistance) (Consequential Modifications) Order 2026 (S.I. 2026/246)](https://www.legislation.gov.uk/uksi/2026/246), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/246/article/1/2), [10](https://www.legislation.gov.uk/uksi/2026/246/article/10)
+
+[^key-9974c361b7667556f4f8c0518e8bc80e]: Textual amendment: Words in reg. 5(3) inserted (6.10.2003) by [State Pension Credit (Consequential, Transitional and Miscellaneous Provisions) Regulations 2002 (S.I. 2002/3019)](https://www.legislation.gov.uk/uksi/2002/3019), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2002/3019/regulation/1/2/b), [24(5)](https://www.legislation.gov.uk/uksi/2002/3019/regulation/24/5), [24(6)(a)](https://www.legislation.gov.uk/uksi/2002/3019/regulation/24/6/a)
+
+[^key-0410eaffb66633d285cb2a4185953294]: Textual amendment: Words in reg. 5(3) inserted (7.10.1996) by [The Social Security and Child Support (Jobseeker’s Allowance) (Consequential Amendments) Regulations 1996 (S.I. 1996/1345)](https://www.legislation.gov.uk/uksi/1996/1345), [regs. 1](https://www.legislation.gov.uk/uksi/1996/1345/regulation/1), [23(5)](https://www.legislation.gov.uk/uksi/1996/1345/regulation/23/5), [23(6)(a)](https://www.legislation.gov.uk/uksi/1996/1345/regulation/23/6/a)
+
+[^key-bd6b83885a52f750eb16e886290e6b14]: Textual amendment: Words in reg. 5(3) inserted (27.10.2008) by [Employment and Support Allowance (Consequential Provisions) (No.2) Regulations 2008 (S.I. 2008/1554)](https://www.legislation.gov.uk/uksi/2008/1554), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2008/1554/regulation/1/2/b), [52(5)](https://www.legislation.gov.uk/uksi/2008/1554/regulation/52/5)
+
+[^key-92c544846c1d0a250127da7169808ff8]: Textual amendment: Reg. 5(6) added (6.4.2006) by [Social Security (Deferral of Retirement Pensions etc.) Regulations 2006 (S.I. 2006/516)](https://www.legislation.gov.uk/uksi/2006/516), [regs. 1](https://www.legislation.gov.uk/uksi/2006/516/regulation/1), [6(b)](https://www.legislation.gov.uk/uksi/2006/516/regulation/6/b)
+
+[^key-84944717697010f19a4a00a487c6a3f5]: Textual amendment: [Reg. 5(6)(c)](https://www.legislation.gov.uk/uksi/1988/664/regulation/5/6/c)[(d)](https://www.legislation.gov.uk/uksi/1988/664/regulation/5/6/d) inserted (6.4.2016 coming into force in accordance with art. 1(2)(b)) by [The Pensions Act 2014 (Consequential, Supplementary and Incidental Amendments) Order 2015 (S.I. 2015/1985)](https://www.legislation.gov.uk/uksi/2015/1985), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2015/1985/article/1/2/b), [11(3)(b)](https://www.legislation.gov.uk/uksi/2015/1985/article/11/3/b)
+
+[^M_F_b5889a96-3026-4b62-afc8-65d51bf1e4ff]: Textual amendment: Reg. 7(1) substituted (5.4.93 for reg. 7(1), 7(1)(a), and 19.4.93 for reg. 7(1)(b)) by S.I. 1993/650, reg. 1(1), 2(4)(a)
+
+[^key-8ec7aa0db3d26ce3f2838fe5ef7af2e0]: Textual amendment: Words in reg. 7(1) substituted (6.10.2003) by [State Pension Credit (Consequential, Transitional and Miscellaneous Provisions) Regulations 2002 (S.I. 2002/3019)](https://www.legislation.gov.uk/uksi/2002/3019), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2002/3019/regulation/1/2/b), [24(3)(a)](https://www.legislation.gov.uk/uksi/2002/3019/regulation/24/3/a)
+
+[^key-d453b3babf358735d4ed83a21e92292c]: Textual amendment: Words in reg. 7(1) substituted (27.10.2008) by [The Employment and Support Allowance (Miscellaneous Amendments) Regulations 2008 (S.I. 2008/2428)](https://www.legislation.gov.uk/uksi/2008/2428), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/2428/regulation/1/2), [22](https://www.legislation.gov.uk/uksi/2008/2428/regulation/22)
+
+[^key-c41b00d648064665b658d33ffb0e458d]: Textual amendment: Words in reg. 7(1)(a) inserted (7.10.1996) by [The Social Security and Child Support (Jobseeker’s Allowance) (Consequential Amendments) Regulations 1996 (S.I. 1996/1345)](https://www.legislation.gov.uk/uksi/1996/1345), [regs. 1](https://www.legislation.gov.uk/uksi/1996/1345/regulation/1), [23(3)(b)](https://www.legislation.gov.uk/uksi/1996/1345/regulation/23/3/b)
+
+[^key-45e50040f464e6feb052ae6531c4fc72]: Textual amendment: Words in reg. 7(1)(a) inserted (6.10.2003) by [State Pension Credit (Consequential, Transitional and Miscellaneous Provisions) Regulations 2002 (S.I. 2002/3019)](https://www.legislation.gov.uk/uksi/2002/3019), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2002/3019/regulation/1/2/b), [24(3)(b)](https://www.legislation.gov.uk/uksi/2002/3019/regulation/24/3/b)
+
+[^key-e54c6cf88366b0f5704136169874bec8]: Textual amendment: Words in reg. 7(1)(a) inserted (27.10.2008) by [Employment and Support Allowance (Consequential Provisions) (No.2) Regulations 2008 (S.I. 2008/1554)](https://www.legislation.gov.uk/uksi/2008/1554), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2008/1554/regulation/1/2/b), [52(6)(a)](https://www.legislation.gov.uk/uksi/2008/1554/regulation/52/6/a)
+
+[^key-b700f0d0257c2771902994a745bd96f5]: Textual amendment: Words in reg. 7(1)(b) inserted (7.10.1996) by [The Social Security and Child Support (Jobseeker’s Allowance) (Consequential Amendments) Regulations 1996 (S.I. 1996/1345)](https://www.legislation.gov.uk/uksi/1996/1345), [regs. 1](https://www.legislation.gov.uk/uksi/1996/1345/regulation/1), [23(3)(c)](https://www.legislation.gov.uk/uksi/1996/1345/regulation/23/3/c)
+
+[^key-0bf91a651b619f3b357503bab41aa67b]: Textual amendment: Words in reg. 7(1)(b) inserted (27.10.2008) by [Employment and Support Allowance (Consequential Provisions) (No.2) Regulations 2008 (S.I. 2008/1554)](https://www.legislation.gov.uk/uksi/2008/1554), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2008/1554/regulation/1/2/b), [52(6)(b)](https://www.legislation.gov.uk/uksi/2008/1554/regulation/52/6/b)
+
+[^M_F_91d65058-fef9-4280-b190-ef3311ae8fae]: Textual amendment: Words in reg. 7(2) substituted (5.4.93) by S.I. 1993/650, reg. 1(1), 2(4)(b)
+
+[^M_F_c726c4b3-c0b2-4cd5-d0f7-939ac22e4972]: Textual amendment: Reg. 7(3)(4) inserted (5.4.93) by S.I. 1993/650, reg. 1(1), 2(4)(c)
+
+[^key-b44cf5c15ec5cbe617d3ab17602ad86b]: Textual amendment: Words in reg. 8(1) substituted (18.3.2005) by [Social Security, Child Support and Tax Credits (Miscellaneous Amendments) Regulations 2005 (S.I. 2005/337)](https://www.legislation.gov.uk/uksi/2005/337), [regs. 1](https://www.legislation.gov.uk/uksi/2005/337/regulation/1), [10(4)(a)](https://www.legislation.gov.uk/uksi/2005/337/regulation/10/4/a)
+
+[^key-ee634fa286f3873d10dd4e35f9c1cf63]: Textual amendment: Reg. 8(1)(za) inserted (6.4.2016 coming into force in accordance with art. 1(2)(b)) by [The Pensions Act 2014 (Consequential, Supplementary and Incidental Amendments) Order 2015 (S.I. 2015/1985)](https://www.legislation.gov.uk/uksi/2015/1985), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2015/1985/article/1/2/b), [11(4)](https://www.legislation.gov.uk/uksi/2015/1985/article/11/4)
+
+[^c2181068]: Marginal citation: [1975 c. 14](https://www.legislation.gov.uk/ukpga/1975/14).
+
+[^c2181069]: Marginal citation: Section 24 of the Social Security Act 1975 inserted by section 36 of the Act.
+
+[^key-1cc55f443b085c3b55de4ec1f2ef4c21]: Textual amendment: Reg. 8(1)(aa) inserted (8.4.2013) by [The Social Security (Overpayments and Recovery) Regulations 2013 (S.I. 2013/384)](https://www.legislation.gov.uk/uksi/2013/384), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2013/384/regulation/1/2/c), [31(4)(a)](https://www.legislation.gov.uk/uksi/2013/384/regulation/31/4/a)
+
+[^key-bcbe6b1e18cebb4c699997ffa0d83f02]: Textual amendment: Reg. 8(1)(c) omitted (5.10.1999 with effect in accordance with reg. 1(2)) by virtue of [The Tax Credits (Payments on Account, Overpayments and Recovery) (Amendment) Regulations 1999 (S.I. 1999/2571)](https://www.legislation.gov.uk/uksi/1999/2571), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/2571/regulation/1/1), [8](https://www.legislation.gov.uk/uksi/1999/2571/regulation/8)
+
+[^c2181070]: Marginal citation: “War disablement pension” and “war widow's pension” are each defined in section 84(1) of the [Social Security Act 1986 (c. 50)](https://www.legislation.gov.uk/ukpga/1986/50).
+
+[^c2181071]: Marginal citation: [1977 c. 8](https://www.legislation.gov.uk/ukpga/1977/8).
+
+[^key-69b945312b8c9036ac9b2e110b29678b]: Textual amendment: Words in reg. 8(1)(f) added (1.4.1991) by [The Enterprise (Scotland) Consequential Amendments Order 1991 (S.I. 1991/387)](https://www.legislation.gov.uk/uksi/1991/387), [arts. 1](https://www.legislation.gov.uk/uksi/1991/387/article/1), [14](https://www.legislation.gov.uk/uksi/1991/387/article/14)
+
+[^M_F_0034b9f3-2d77-4e13-a55c-ed7f6b23f440]: Textual amendment: Words in reg. 8(1)(f) substituted (16.11.89) by the Employment Act 1989, [1989 c.38](https://www.legislation.gov.uk/ukpga/1989/38), [ss. 30](https://www.legislation.gov.uk/ukpga/1989/38/section/30), [22(5)](https://www.legislation.gov.uk/ukpga/1989/38/section/22/5), [sch. 5 paras. 1](https://www.legislation.gov.uk/ukpga/1989/38/schedule/5/paragraph/1) & 4
+
+[^M_F_9449f624-4c03-482d-b7ca-4994b00093c7]: Textual amendment: Words in reg. 8(1)(f) substituted (16.11.89) by the Employment Act 1989, [1989 c.38](https://www.legislation.gov.uk/ukpga/1989/38), [ss. 30](https://www.legislation.gov.uk/ukpga/1989/38/section/30), [22(5)](https://www.legislation.gov.uk/ukpga/1989/38/section/22/5), [sch. 5 paras. 1](https://www.legislation.gov.uk/ukpga/1989/38/schedule/5/paragraph/1) & 4
+
+[^key-541b1b3ebc7bf3533b2da718d6ae30e6]: Textual amendment: Words in [reg. 8(1)(g)](https://www.legislation.gov.uk/uksi/1988/664/regulation/8/1/g) omitted (31.12.2020) by virtue of [The Social Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/128)](https://www.legislation.gov.uk/uksi/2019/128), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/128/regulation/1/2), [Sch. paras. 5(2)](https://www.legislation.gov.uk/uksi/2019/128/schedule/paragraph/5/2)[(3)](https://www.legislation.gov.uk/uksi/2019/128/schedule/paragraph/5/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-a832914006633c5701033f0de0f02650]: Textual amendment: Words in reg. 8(1)(g) inserted (15.11.2018) by [The Social Security (Updating of EU References) (Amendment) Regulations 2018 (S.I. 2018/1084)](https://www.legislation.gov.uk/uksi/2018/1084), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1084/regulation/1), [Sch. para. 7(2)(a)](https://www.legislation.gov.uk/uksi/2018/1084/schedule/paragraph/7/2/a)[(3)](https://www.legislation.gov.uk/uksi/2018/1084/schedule/paragraph/7/3)
+
+[^c2181072]: Marginal citation: O.J. No. L149, 5.7.1971; Regulations No. 1408/71 and No. 574/72 were restated in amended form in Regulation No. 2001/83 (O.J. No. L230, 22.8.1983) and further amended by Council Regulation (EEC) No. 1660/85 (O.J. No. L160, 20.6.1985), Council Regulation (EEC) No. 1661/85 (O.J. No. L160, 20.6.1985) and Commission Regulation (EEC) No. 513/86 (O.J. No. L57, 28.2.1986).
+
+[^key-70ccf00240d6c8cd56542433c00f7488]: Textual amendment: Words in reg. 8(1)(g) inserted (15.11.2018) by [The Social Security (Updating of EU References) (Amendment) Regulations 2018 (S.I. 2018/1084)](https://www.legislation.gov.uk/uksi/2018/1084), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1084/regulation/1), [Sch. para. 7(2)(b)](https://www.legislation.gov.uk/uksi/2018/1084/schedule/paragraph/7/2/b)[(3)](https://www.legislation.gov.uk/uksi/2018/1084/schedule/paragraph/7/3)
+
+[^key-256e853191e34f892db639b65163f382]: Textual amendment: Words in reg. 8(1)(g) substituted (15.11.2018) by [The Social Security (Updating of EU References) (Amendment) Regulations 2018 (S.I. 2018/1084)](https://www.legislation.gov.uk/uksi/2018/1084), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1084/regulation/1), [Sch. para. 7(2)(c)](https://www.legislation.gov.uk/uksi/2018/1084/schedule/paragraph/7/2/c)[(3)](https://www.legislation.gov.uk/uksi/2018/1084/schedule/paragraph/7/3)
+
+[^key-0f1734c8381618afa807cd2cc7374325]: Textual amendment: Reg. 8(1)(h) omitted (5.10.1999 with effect in accordance with reg. 1(2)) by virtue of [The Tax Credits (Payments on Account, Overpayments and Recovery) (Amendment) Regulations 1999 (S.I. 1999/2571)](https://www.legislation.gov.uk/uksi/1999/2571), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/2571/regulation/1/1), [8](https://www.legislation.gov.uk/uksi/1999/2571/regulation/8)
+
+[^key-941bfa4283bf04f8b0061d7fcf2966ec]: Textual amendment: Reg. 8(1)(i) substituted (6.4.2017 coming into force in accordance with art. 1-3) by [The Pensions Act 2014 (Consequential, Supplementary and Incidental Amendments) Order 2017 (S.I. 2017/422)](https://www.legislation.gov.uk/uksi/2017/422), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2017/422/article/1/2), [13(3)](https://www.legislation.gov.uk/uksi/2017/422/article/13/3)
+
+[^key-1579d0181b63d896936140cd4f1123b4]: Textual amendment: Reg. 8(1)(j) added (18.3.2005) by [Social Security, Child Support and Tax Credits (Miscellaneous Amendments) Regulations 2005 (S.I. 2005/337)](https://www.legislation.gov.uk/uksi/2005/337), [regs. 1](https://www.legislation.gov.uk/uksi/2005/337/regulation/1), [10(4)(b)](https://www.legislation.gov.uk/uksi/2005/337/regulation/10/4/b)
+
+[^key-40d4ac7f9d19a3394d063794d9cab90e]: Textual amendment: Reg. 8(1)(k) added (19.1.2006) by [Social Security (Payments on account, Overpayments and Recovery) Amendment Regulations 2005 (S.I. 2005/3476)](https://www.legislation.gov.uk/uksi/2005/3476), [regs. 1](https://www.legislation.gov.uk/uksi/2005/3476/regulation/1), [2](https://www.legislation.gov.uk/uksi/2005/3476/regulation/2)
+
+[^key-c5809e4189be6a94205c2ab2e7cc83de]: Textual amendment: Reg. 8(1)(l) added (27.10.2008) by [Employment and Support Allowance (Consequential Provisions) (No.2) Regulations 2008 (S.I. 2008/1554)](https://www.legislation.gov.uk/uksi/2008/1554), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2008/1554/regulation/1/2/b), [52(7)(a)](https://www.legislation.gov.uk/uksi/2008/1554/regulation/52/7/a)
+
+[^M_C_210cb5ce-0bb8-4cea-d903-f7918e1ca009]: Modification: Reg. 8(2) modified (1st June, 5th July, 6th September, 5th and 18th October and 29th November 1999) by the Social Security Act 1998, 1999/1958, 2422, 2739, 2860 and 3178, Sch.9 para. 4
+
+[^key-228deb09ee1eb023e5289cde74fbf8a3]: Textual amendment: Words in reg. 8(2) inserted (6.10.2003) by [State Pension Credit (Consequential, Transitional and Miscellaneous Provisions) Regulations 2002 (S.I. 2002/3019)](https://www.legislation.gov.uk/uksi/2002/3019), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2002/3019/regulation/1/2/b), [24(5)](https://www.legislation.gov.uk/uksi/2002/3019/regulation/24/5), [24(6)(b)](https://www.legislation.gov.uk/uksi/2002/3019/regulation/24/6/b)
+
+[^key-1179a6c28471c17714b9f3dd03dbc678]: Textual amendment: Words in reg. 8(2) inserted (29.4.2013) by [The Social Security (Overpayments and Recovery) Regulations 2013 (S.I. 2013/384)](https://www.legislation.gov.uk/uksi/2013/384), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2013/384/regulation/1/3), [31(4)(b)](https://www.legislation.gov.uk/uksi/2013/384/regulation/31/4/b)
+
+[^key-909b71a987df04212baffaa22714d84d]: Textual amendment: Words in reg. 8(2) inserted (7.10.1996) by [The Social Security and Child Support (Jobseeker’s Allowance) (Consequential Amendments) Regulations 1996 (S.I. 1996/1345)](https://www.legislation.gov.uk/uksi/1996/1345), [regs. 1](https://www.legislation.gov.uk/uksi/1996/1345/regulation/1), [23(5)](https://www.legislation.gov.uk/uksi/1996/1345/regulation/23/5), [23(6)(b)](https://www.legislation.gov.uk/uksi/1996/1345/regulation/23/6/b)
+
+[^key-340183b3217ca5dc3ba2a0f9bfcab678]: Textual amendment: Words in reg. 8(2) added (27.10.2008) by [Employment and Support Allowance (Consequential Provisions) (No.2) Regulations 2008 (S.I. 2008/1554)](https://www.legislation.gov.uk/uksi/2008/1554), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2008/1554/regulation/1/2/b), [52(7)(b)](https://www.legislation.gov.uk/uksi/2008/1554/regulation/52/7/b)
+
+[^c2181073]: Marginal citation: [1975 c. 14](https://www.legislation.gov.uk/ukpga/1975/14); child's special allowance is abolished except for existing beneficiaries by [Social Security Act 1986 (c. 50)](https://www.legislation.gov.uk/ukpga/1986/50), [section 40](https://www.legislation.gov.uk/ukpga/1986/50/section/40).
+
+[^key-6f362791f4a4f0b5ae372c74d1d3d668]: Textual amendment: Reg. 10(1): reg. 10 renumbered as reg. 10(1) (1.12.2001) by [The Financial Services and Markets Act 2000 (Consequential Amendments and Repeals) Order 2001 (S.I. 2001/3649)](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [389(a)](https://www.legislation.gov.uk/uksi/2001/3649/article/389/a)
+
+[^key-55a0c7b3abbcb719a295e4cd87a7b1e9]: Textual amendment: Words in reg. 10(1) substituted (1.12.2001) by [The Financial Services and Markets Act 2000 (Consequential Amendments and Repeals) Order 2001 (S.I. 2001/3649)](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [389(b)](https://www.legislation.gov.uk/uksi/2001/3649/article/389/b)
+
+[^key-45dd61cf70c23dce26609357e6fcc400]: Textual amendment: Reg. 10(2) - Reg. 10(3) inserted (1.12.2001) by [The Financial Services and Markets Act 2000 (Consequential Amendments and Repeals) Order 2001 (S.I. 2001/3649)](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [389(c)](https://www.legislation.gov.uk/uksi/2001/3649/article/389/c)
+
+[^key-61f0f719b4fd2bc1ff4decba3de2561b]: Textual amendment: [Reg. 10(2)(b)](https://www.legislation.gov.uk/uksi/1988/664/regulation/10/2/b) and word omitted (31.12.2020) by virtue of [The EEA Passport Rights (Amendment, etc., and Transitional Provisions) (EU Exit) Regulations 2018 (S.I. 2018/1149)](https://www.legislation.gov.uk/uksi/2018/1149), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2018/1149/regulation/1/3), [Sch. para. 45](https://www.legislation.gov.uk/uksi/2018/1149/schedule/paragraph/45) (with [reg. 4](https://www.legislation.gov.uk/uksi/2018/1149/regulation/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-25da643fc6d2ea54629818fdf5ff25c2]: Textual amendment: [Reg. 11(A1)](https://www.legislation.gov.uk/uksi/1988/664/regulation/11/A1) inserted (8.4.2013) by [The Social Security (Overpayments and Recovery) Regulations 2013 (S.I. 2013/384)](https://www.legislation.gov.uk/uksi/2013/384), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2013/384/regulation/1/2/c), [31(5)](https://www.legislation.gov.uk/uksi/2013/384/regulation/31/5)
+
+[^key-2f14a14bb86b3d8e1d6f82df0742b712]: Textual amendment: Words in reg. 11(1) substituted (5.10.1999 with effect in accordance with reg. 1(2)) by [The Tax Credits (Payments on Account, Overpayments and Recovery) (Amendment) Regulations 1999 (S.I. 1999/2571)](https://www.legislation.gov.uk/uksi/1999/2571), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/2571/regulation/1/1), [9(2)](https://www.legislation.gov.uk/uksi/1999/2571/regulation/9/2)
+
+[^key-65b0be4239d7efca61e528133c3297ea]: Textual amendment: Reg. 11(2)(b) substituted (2.5.2005) by [Social Security (Claims and Payments and Payments on account, Overpayments and Recovery) Amendment Regulations 2005 (S.I. 2005/34)](https://www.legislation.gov.uk/uksi/2005/34), [regs. 1](https://www.legislation.gov.uk/uksi/2005/34/regulation/1), [3](https://www.legislation.gov.uk/uksi/2005/34/regulation/3)
+
+[^key-e2ef24d96bc258d88c9af2af5bf827d3]: Textual amendment: Words in reg. 11(2)(b) substituted (1.4.2012) by [The Social Security (Miscellaneous Amendments) Regulations 2012 (S.I. 2012/757)](https://www.legislation.gov.uk/uksi/2012/757), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2012/757/regulation/1/4), [16](https://www.legislation.gov.uk/uksi/2012/757/regulation/16)
+
+[^c2181075]: Marginal citation: Both sets of provisions are in part revoked by the [Social Security (Payments on account, Overpayments and Recovery) Regulations 1987 (S.I. 1987/491) and the Social Security (Claims and Payments) Regulations 1987 (S.I. 1987/1968)](https://www.legislation.gov.uk/uksi/1987/1968).
+
+[^key-2f5bd8fd36254a8457e4dc1dbfa53c29]: Textual amendment: Reg. 11(4) added (5.10.1999 with effect in accordance with reg. 1(2)) by [The Tax Credits (Payments on Account, Overpayments and Recovery) (Amendment) Regulations 1999 (S.I. 1999/2571)](https://www.legislation.gov.uk/uksi/1999/2571), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/2571/regulation/1/1), [9(3)](https://www.legislation.gov.uk/uksi/1999/2571/regulation/9/3)
+
+[^M_C_c78e79c3-b590-471d-ffb1-8ccbe1544fe9]: Modification: Heading to Part VI modified (1st June, 5th July, 6th September, 5th and 18th October and 29th November 1999) by the Social Security Act 1998, 1999/1958, 2422, 2739, 2860 and 3178, Sch.9 para. 5
+
+[^M_C_a97f0e1f-4543-44e4-b695-fad931b4fa66]: Modification: Reg. 12 modified (1st June, 5th July, 6th September, 5th and 18th October and 29th November 1999) by the Social Security Act 1998, 1999/1958, 2422, 2739, 2860 and 3178, Sch.9 para. 6
+
+[^key-f505fd8d82cf837cbaca1afcf64fd94a]: Textual amendment: Words in reg. 12 substituted (18.3.2005) by [Social Security, Child Support and Tax Credits (Miscellaneous Amendments) Regulations 2005 (S.I. 2005/337)](https://www.legislation.gov.uk/uksi/2005/337), [regs. 1](https://www.legislation.gov.uk/uksi/2005/337/regulation/1), [10(5)](https://www.legislation.gov.uk/uksi/2005/337/regulation/10/5)
+
+[^key-38e9f40238a55835bafa064564499eb8]: Textual amendment: Words in reg. 12 substituted (5.10.1999 with effect in accordance with reg. 1(2)) by [The Tax Credits (Payments on Account, Overpayments and Recovery) (Amendment) Regulations 1999 (S.I. 1999/2571)](https://www.legislation.gov.uk/uksi/1999/2571), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/2571/regulation/1/1), [10(a)](https://www.legislation.gov.uk/uksi/1999/2571/regulation/10/a)
+
+[^key-52cdb20d5f4faac3a57593b51ed8a53f]: Textual amendment: Words in reg. 12 substituted (5.10.1999 with effect in accordance with reg. 1(2)) by [The Tax Credits (Payments on Account, Overpayments and Recovery) (Amendment) Regulations 1999 (S.I. 1999/2571)](https://www.legislation.gov.uk/uksi/1999/2571), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/2571/regulation/1/1), [10(b)](https://www.legislation.gov.uk/uksi/1999/2571/regulation/10/b)
+
+[^M_F_990c22bd-9025-4590-bd9b-5a16445fd82d]: Textual amendment: Reg. 13(1) - (1C) substituted for reg. 13(1) (8.4.13) by S.I. 2013/384, reg. 1(2), 31(6)
+
+[^key-bbc420abbaaf0dc5544c1b036cd62f8d]: Textual amendment: Reg. 13(2) added (5.10.1999 with effect in accordance with reg. 1(2)) by [The Tax Credits (Payments on Account, Overpayments and Recovery) (Amendment) Regulations 1999 (S.I. 1999/2571)](https://www.legislation.gov.uk/uksi/1999/2571), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/2571/regulation/1/1), [11(3)](https://www.legislation.gov.uk/uksi/1999/2571/regulation/11/3)
+
+[^key-74e174d90896d17e9597a13d4b03312d]: Textual amendment: Words in reg. 14(1) inserted (6.10.2003) by [State Pension Credit (Consequential, Transitional and Miscellaneous Provisions) Regulations 2002 (S.I. 2002/3019)](https://www.legislation.gov.uk/uksi/2002/3019), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2002/3019/regulation/1/2/b), [24(5)](https://www.legislation.gov.uk/uksi/2002/3019/regulation/24/5), [24(6)(e)](https://www.legislation.gov.uk/uksi/2002/3019/regulation/24/6/e)
+
+[^key-0c84969008e45076a7051ea501afda33]: Textual amendment: Words in reg. 14(1) inserted (7.10.1996) by [The Social Security and Child Support (Jobseeker’s Allowance) (Consequential Amendments) Regulations 1996 (S.I. 1996/1345)](https://www.legislation.gov.uk/uksi/1996/1345), [regs. 1](https://www.legislation.gov.uk/uksi/1996/1345/regulation/1), [23(5)](https://www.legislation.gov.uk/uksi/1996/1345/regulation/23/5), [23(6)(d)](https://www.legislation.gov.uk/uksi/1996/1345/regulation/23/6/d)
+
+[^key-285f0fe91aab36c5c67e420463f5c95d]: Textual amendment: Words in reg. 14 inserted (27.10.2008) by [Employment and Support Allowance (Consequential Provisions) (No.2) Regulations 2008 (S.I. 2008/1554)](https://www.legislation.gov.uk/uksi/2008/1554), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2008/1554/regulation/1/2/b), [52(9)](https://www.legislation.gov.uk/uksi/2008/1554/regulation/52/9)
+
+[^key-fbcd29d29fd8d4775e5a58e60c3a6949]: Textual amendment: Words in reg. 14 substituted (5.10.1999 with effect in accordance with reg. 1(2)) by [The Tax Credits (Payments on Account, Overpayments and Recovery) (Amendment) Regulations 1999 (S.I. 1999/2571)](https://www.legislation.gov.uk/uksi/1999/2571), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/2571/regulation/1/1), [12](https://www.legislation.gov.uk/uksi/1999/2571/regulation/12)
+
+[^M_F_b58e02a9-008a-42d1-ba0b-0e63347a9b24]: Textual amendment: Words in reg. 14(3) inserted (7.10.1996) by S.I. 1996/2519, reg. 1, 3(2)
+
+[^M_F_619df9ab-7159-464d-9b2c-eea68e4a7076]: Textual amendment: Words in reg. 15(1) substituted by [S.I. 1988/688](https://www.legislation.gov.uk/uksi/1988/688), [reg. 1](https://www.legislation.gov.uk/uksi/1988/688/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/1988/688/regulation/2/3)
+
+[^c2181076]: Marginal citation: [1975 c. 14](https://www.legislation.gov.uk/ukpga/1975/14).
+
+[^key-5e6fcba519574fa55c176c1716c5ee8f]: Textual amendment: [Reg. 15(2)(aa)](https://www.legislation.gov.uk/uksi/1988/664/regulation/15/2/aa) inserted (6.4.2016 coming into force in accordance with art. 1(2)(b)) by [The Pensions Act 2014 (Consequential, Supplementary and Incidental Amendments) Order 2015 (S.I. 2015/1985)](https://www.legislation.gov.uk/uksi/2015/1985), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2015/1985/article/1/2/b), [11(5)](https://www.legislation.gov.uk/uksi/2015/1985/article/11/5)
+
+[^key-2de255ca10899af30f51dee544f3f8a7]: Textual amendment: Reg. 15(2)(c) omitted (5.10.1999 with effect in accordance with reg. 1(2)) by virtue of [The Tax Credits (Payments on Account, Overpayments and Recovery) (Amendment) Regulations 1999 (S.I. 1999/2571)](https://www.legislation.gov.uk/uksi/1999/2571), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/2571/regulation/1/1), [13](https://www.legislation.gov.uk/uksi/1999/2571/regulation/13)
+
+[^key-0ae0262195c445811c03289f593acae9]: Textual amendment: Words in reg. 15(2)(d) inserted (6.10.2003) by [State Pension Credit (Consequential, Transitional and Miscellaneous Provisions) Regulations 2002 (S.I. 2002/3019)](https://www.legislation.gov.uk/uksi/2002/3019), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2002/3019/regulation/1/2/b), [24(5)](https://www.legislation.gov.uk/uksi/2002/3019/regulation/24/5), [24(6)(f)](https://www.legislation.gov.uk/uksi/2002/3019/regulation/24/6/f)
+
+[^key-b4e00db5b986a1191905e3ebd9bd9cee]: Textual amendment: Words in reg. 15(2)(d) inserted (27.10.2008) by [Employment and Support Allowance (Consequential Provisions) (No.2) Regulations 2008 (S.I. 2008/1554)](https://www.legislation.gov.uk/uksi/2008/1554), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2008/1554/regulation/1/2/b), [52(10)](https://www.legislation.gov.uk/uksi/2008/1554/regulation/52/10)
+
+[^M_F_d1948e30-92a7-4675-8635-050019480461]: Textual amendment: Words in reg. 15(2)(d) substituted (7.10.1996) by [S.I. 1996/2519](https://www.legislation.gov.uk/uksi/1996/2519), [reg. 1](https://www.legislation.gov.uk/uksi/1996/2519/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/1996/2519/regulation/3/3)
+
+[^key-c0b4a4f089181a1921f95505d3555cbf]: Textual amendment: Reg. 15(2)(e) omitted (5.10.1999 with effect in accordance with reg. 1(2)) by virtue of [The Tax Credits (Payments on Account, Overpayments and Recovery) (Amendment) Regulations 1999 (S.I. 1999/2571)](https://www.legislation.gov.uk/uksi/1999/2571), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/2571/regulation/1/1), [13](https://www.legislation.gov.uk/uksi/1999/2571/regulation/13)
+
+[^key-8f34ef88009c74c491577f227f477b66]: Textual amendment: Reg. 15(2)(f) added (13.4.1995) by [The Social Security (Incapacity Benefit) (Consequential and Transitional Amendments and Savings) Regulations 1995 (S.I. 1995/829)](https://www.legislation.gov.uk/uksi/1995/829), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1995/829/regulation/1/1), [21(3)](https://www.legislation.gov.uk/uksi/1995/829/regulation/21/3) (with [Pt. III](https://www.legislation.gov.uk/uksi/1995/829/part/III))
+
+[^key-61f343c60d5b986999649d5c57cc5d06]: Textual amendment: Reg. 15(2)(g) added (8.4.2013) by [The Social Security (Overpayments and Recovery) Regulations 2013 (S.I. 2013/384)](https://www.legislation.gov.uk/uksi/2013/384), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2013/384/regulation/1/2/c), [31(7)(a)](https://www.legislation.gov.uk/uksi/2013/384/regulation/31/7/a)
+
+[^key-b69810db1ae80c88a11eeebd8ee9e4bb]: Textual amendment: Reg. 15(2)(h) added (29.4.2013) by [The Social Security (Overpayments and Recovery) Regulations 2013 (S.I. 2013/384)](https://www.legislation.gov.uk/uksi/2013/384), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2013/384/regulation/1/3), [31(7)(b)](https://www.legislation.gov.uk/uksi/2013/384/regulation/31/7/b)
+
+[^M_F_d7876a09-18a0-4e33-ecec-2574ce06fd88]: Textual amendment: Word in reg. 16(2) substituted (11.4.88) by [S.I. 1988/688](https://www.legislation.gov.uk/uksi/1988/688), [reg. 1](https://www.legislation.gov.uk/uksi/1988/688/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/1988/688/regulation/2/4)
+
+[^M_F_798ef24e-cea9-429d-930b-e59799e09d21]: Textual amendment: Words in reg. 16(2) omitted (6.4.92) by [S.I. 1991/2742](https://www.legislation.gov.uk/uksi/1991/2742), [reg. 1(1)](https://www.legislation.gov.uk/uksi/1991/2742/regulation/1/1), [15(7)](https://www.legislation.gov.uk/uksi/1991/2742/regulation/15/7)
+
+[^key-598800c029ff1897c7a79ff61cd0cfa6]: Textual amendment: Reg. 16(2A) inserted (8.4.2013) by [The Social Security (Overpayments and Recovery) Regulations 2013 (S.I. 2013/384)](https://www.legislation.gov.uk/uksi/2013/384), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2013/384/regulation/1/2/c), [31(8)(a)](https://www.legislation.gov.uk/uksi/2013/384/regulation/31/8/a)
+
+[^key-b828d906e0f6b958550d107654e32b4a]: Textual amendment: Words in reg. 16(3) substituted (18.3.2005) by [Social Security, Child Support and Tax Credits (Miscellaneous Amendments) Regulations 2005 (S.I. 2005/337)](https://www.legislation.gov.uk/uksi/2005/337), [regs. 1](https://www.legislation.gov.uk/uksi/2005/337/regulation/1), [10(6)](https://www.legislation.gov.uk/uksi/2005/337/regulation/10/6)
+
+[^M_F_4ddc42e2-fe61-4795-fcc3-1a0c355474d2]: Textual amendment: Words in reg. 16(4) substituted (7.10.1996) by [S.I. 1996/2519](https://www.legislation.gov.uk/uksi/1996/2519), [reg. 1](https://www.legislation.gov.uk/uksi/1996/2519/regulation/1), [3(4)(a)](https://www.legislation.gov.uk/uksi/1996/2519/regulation/3/4/a)
+
+[^key-dbc92deed32faa2573f3bbe980ec7ef2]: Textual amendment: Words in [reg. 16(4)](https://www.legislation.gov.uk/uksi/1988/664/regulation/16/4) omitted (6.4.2015) by virtue of [The Social Security (Overpayments and Recovery) Amendment Regulations 2015 (S.I. 2015/499)](https://www.legislation.gov.uk/uksi/2015/499), [regs. 1](https://www.legislation.gov.uk/uksi/2015/499/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2015/499/regulation/2/2)
+
+[^M_F_67ff0b51-170c-4ccc-9554-c2492e587250]: Textual amendment: Reg. 16(4A) inserted (7/10/1996) by [S.I. 1996/2519](https://www.legislation.gov.uk/uksi/1996/2519), [reg. 1](https://www.legislation.gov.uk/uksi/1996/2519/regulation/1), [3(4)(b)](https://www.legislation.gov.uk/uksi/1996/2519/regulation/3/4/b)
+
+[^key-39dbb9061f136e481f276c0cb7b92ff3]: Textual amendment: Reg. 16(4A)(d) inserted (6.10.2003) by [State Pension Credit (Consequential, Transitional and Miscellaneous Provisions) Regulations 2002 (S.I. 2002/3019)](https://www.legislation.gov.uk/uksi/2002/3019), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2002/3019/regulation/1/2/b), [24(4)(a)](https://www.legislation.gov.uk/uksi/2002/3019/regulation/24/4/a)
+
+[^key-6edec0280b79fe9c98cc2bf5902cc30c]: Textual amendment: Reg. 16(4A)(e) - Reg. 16(4A)(f) added (27.10.2008) by [Employment and Support Allowance (Consequential Provisions) (No.2) Regulations 2008 (S.I. 2008/1554)](https://www.legislation.gov.uk/uksi/2008/1554), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2008/1554/regulation/1/2/b), [52(11)(a)](https://www.legislation.gov.uk/uksi/2008/1554/regulation/52/11/a)
+
+[^key-4ce7da83b1f6909528e41b9c0a09b3ee]: Textual amendment: Reg. 16(5) substituted (2.10.2000) by [The Social Security (Payments on account, Overpayments and Recovery) Amendment Regulations 2000 (S.I. 2000/2336)](https://www.legislation.gov.uk/uksi/2000/2336), [regs. 1](https://www.legislation.gov.uk/uksi/2000/2336/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2000/2336/regulation/2/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2000/2336/regulation/3))
+
+[^key-e93fdf7e1a1cd8b65079cfc40c5a610d]: Textual amendment: Word in [reg. 16(5)(a)](https://www.legislation.gov.uk/uksi/1988/664/regulation/16/5/a) substituted (29.10.2026) by [The Social Security (Further Methods of Recovery) Regulations 2026 (S.I. 2026/1069)](https://www.legislation.gov.uk/uksi/2026/1069), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1069/regulation/1/2), [32](https://www.legislation.gov.uk/uksi/2026/1069/regulation/32)
+
+[^key-f0bc37b5984ba5a47b9951bf8517e958]: Textual amendment: Words in [reg. 16(5)](https://www.legislation.gov.uk/uksi/1988/664/regulation/16/5) substituted (6.4.2015) by [The Social Security (Overpayments and Recovery) Amendment Regulations 2015 (S.I. 2015/499)](https://www.legislation.gov.uk/uksi/2015/499), [regs. 1](https://www.legislation.gov.uk/uksi/2015/499/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2015/499/regulation/2/3)
+
+[^key-1e91bc32dd3daba8faada0d079735f3f]: Textual amendment: Words in reg. 16(5) substituted (1.4.2012) by [The Social Security (Recovery) (Amendment) Regulations 2012 (S.I. 2012/645)](https://www.legislation.gov.uk/uksi/2012/645), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/645/regulation/1/1), [3(1)(b)](https://www.legislation.gov.uk/uksi/2012/645/regulation/3/1/b)
+
+[^key-ea25e7242a3db23c1f86077d5856055c]: Textual amendment: [Reg. 16(5ZA)](https://www.legislation.gov.uk/uksi/1988/664/regulation/16/5ZA) - [Reg. 16(5ZB)](https://www.legislation.gov.uk/uksi/1988/664/regulation/16/5ZB) inserted (6.4.2015) by [The Social Security (Overpayments and Recovery) Amendment Regulations 2015 (S.I. 2015/499)](https://www.legislation.gov.uk/uksi/2015/499), [regs. 1](https://www.legislation.gov.uk/uksi/2015/499/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2015/499/regulation/2/4)
+
+[^M_F_6f60f77c-ba23-4970-de63-7c20caea2a93]: Textual amendment: Regs. 16(5A)(5B) inserted (7.10.1996) by [S.I. 1996/2519](https://www.legislation.gov.uk/uksi/1996/2519), [reg. 1](https://www.legislation.gov.uk/uksi/1996/2519/regulation/1), [3(4)(c)](https://www.legislation.gov.uk/uksi/1996/2519/regulation/3/4/c)
+
+[^key-fed7fa52b23d2ebaf4d4522fbdcb8018]: Textual amendment: Words in reg. 16(6) substituted (7.10.1996) by [The Social Security and Child Support (Jobseeker’s Allowance) (Consequential Amendments) Regulations 1996 (S.I. 1996/1345)](https://www.legislation.gov.uk/uksi/1996/1345), [regs. 1](https://www.legislation.gov.uk/uksi/1996/1345/regulation/1), [23(4)(b)](https://www.legislation.gov.uk/uksi/1996/1345/regulation/23/4/b)
+
+[^key-b56d2e67603bb65b52d3f1444dfcc3d9]: Textual amendment: Reg. 16(6)(c) inserted (6.10.2003) by [State Pension Credit (Consequential, Transitional and Miscellaneous Provisions) Regulations 2002 (S.I. 2002/3019)](https://www.legislation.gov.uk/uksi/2002/3019), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2002/3019/regulation/1/2/b), [24(4)(b)](https://www.legislation.gov.uk/uksi/2002/3019/regulation/24/4/b)
+
+[^key-64d33a8a1b2f900c783b6e818b19c092]: Textual amendment: Reg. 16(6)(d) and preceding word added (27.10.2008) by [Employment and Support Allowance (Consequential Provisions) (No.2) Regulations 2008 (S.I. 2008/1554)](https://www.legislation.gov.uk/uksi/2008/1554), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2008/1554/regulation/1/2/b), [52(11)(b)](https://www.legislation.gov.uk/uksi/2008/1554/regulation/52/11/b)
+
+[^key-fe1eb5069ce8f78d81175e52a96cd5ca]: Textual amendment: Words in reg. 16(6) omitted (8.4.2013 for specified purposes, 29.4.2013 for specified purposes) by virtue of [The Universal Credit, Personal Independence Payment, Jobseeker’s Allowance and Employment and Support Allowance (Claims and Payments) Regulations 2013 (S.I. 2013/380)](https://www.legislation.gov.uk/uksi/2013/380), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/380/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2013/380/regulation/1/3), [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2013/380/schedule/3/paragraph/2)
+
+[^key-2407183706ddf97696fc4c506e7aab06]: Textual amendment: Reg. 16(7A) - Reg. 16(7B) inserted (8.4.2013) by [The Social Security (Overpayments and Recovery) Regulations 2013 (S.I. 2013/384)](https://www.legislation.gov.uk/uksi/2013/384), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2013/384/regulation/1/2/c), [31(8)(b)](https://www.legislation.gov.uk/uksi/2013/384/regulation/31/8/b)
+
+[^key-ab329abd126c9503c18bbe4842370d94]: Textual amendment: Words in reg. 16(8) inserted (2.10.2000) by [The Social Security (Payments on account, Overpayments and Recovery) Amendment Regulations 2000 (S.I. 2000/2336)](https://www.legislation.gov.uk/uksi/2000/2336), [regs. 1](https://www.legislation.gov.uk/uksi/2000/2336/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2000/2336/regulation/2/3/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2000/2336/regulation/3))
+
+[^key-ba5b5ebbf946af3ee518b6351568bf6e]: Textual amendment: Words in reg. 16(8) substituted (6.10.2003) by [State Pension Credit (Consequential, Transitional and Miscellaneous Provisions) Regulations 2002 (S.I. 2002/3019)](https://www.legislation.gov.uk/uksi/2002/3019), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2002/3019/regulation/1/2/b), [24(4)(c)(i)](https://www.legislation.gov.uk/uksi/2002/3019/regulation/24/4/c/i)
+
+[^key-a9055d79ac935d88654194a893ac5165]: Textual amendment: Words in reg. 16(8) substituted (27.10.2008) by [Employment and Support Allowance (Consequential Provisions) (No.2) Regulations 2008 (S.I. 2008/1554)](https://www.legislation.gov.uk/uksi/2008/1554), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2008/1554/regulation/1/2/b), [52(11)(c)(i)](https://www.legislation.gov.uk/uksi/2008/1554/regulation/52/11/c/i)
+
+[^key-db5500715ec2646d8b646b7710e44d0e]: Textual amendment: Words in reg. 16(8) substituted (6.10.2003) by [State Pension Credit (Consequential, Transitional and Miscellaneous Provisions) Regulations 2002 (S.I. 2002/3019)](https://www.legislation.gov.uk/uksi/2002/3019), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2002/3019/regulation/1/2/b), [24(4)(c)(ii)](https://www.legislation.gov.uk/uksi/2002/3019/regulation/24/4/c/ii)
+
+[^key-a4625aa4eb4b1fd336ec7a0a87217d3a]: Textual amendment: Word in reg. 16(8) omitted (27.10.2008) by virtue of [Employment and Support Allowance (Consequential Provisions) (No.2) Regulations 2008 (S.I. 2008/1554)](https://www.legislation.gov.uk/uksi/2008/1554), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2008/1554/regulation/1/2/b), [52(11)(aa)](https://www.legislation.gov.uk/uksi/2008/1554/regulation/52/11/aa), [52(11)(c)(ii)](https://www.legislation.gov.uk/uksi/2008/1554/regulation/52/11/c/ii)
+
+[^key-98cd10ab85454d4910e81db2d03aec82]: Textual amendment: Words in reg. 16(8) added (27.10.2008) by [Employment and Support Allowance (Consequential Provisions) (No.2) Regulations 2008 (S.I. 2008/1554)](https://www.legislation.gov.uk/uksi/2008/1554), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2008/1554/regulation/1/2/b), [52(11)(bb)](https://www.legislation.gov.uk/uksi/2008/1554/regulation/52/11/bb), [52(11)(c)(ii)](https://www.legislation.gov.uk/uksi/2008/1554/regulation/52/11/c/ii)
+
+[^key-e46450583611c2922791021f0bd12c26]: Textual amendment: Words in reg. 16(8) omitted (2.10.2000) by virtue of [The Social Security (Payments on account, Overpayments and Recovery) Amendment Regulations 2000 (S.I. 2000/2336)](https://www.legislation.gov.uk/uksi/2000/2336), [regs. 1](https://www.legislation.gov.uk/uksi/2000/2336/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2000/2336/regulation/2/3/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2000/2336/regulation/3))
+
+[^key-952b3013de77e80f1b8fd798409a8a64]: Textual amendment: Words in reg. 17 inserted (6.10.2003) by [State Pension Credit (Consequential, Transitional and Miscellaneous Provisions) Regulations 2002 (S.I. 2002/3019)](https://www.legislation.gov.uk/uksi/2002/3019), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2002/3019/regulation/1/2/b), [24(5)](https://www.legislation.gov.uk/uksi/2002/3019/regulation/24/5), [24(6)(g)](https://www.legislation.gov.uk/uksi/2002/3019/regulation/24/6/g)
+
+[^key-1585bdb3681dd4815a4ed8f8c13a8e27]: Textual amendment: Words in reg. 17 inserted (7.10.1996) by [The Social Security and Child Support (Jobseeker’s Allowance) (Consequential Amendments) Regulations 1996 (S.I. 1996/1345)](https://www.legislation.gov.uk/uksi/1996/1345), [regs. 1](https://www.legislation.gov.uk/uksi/1996/1345/regulation/1), [23(5)](https://www.legislation.gov.uk/uksi/1996/1345/regulation/23/5), [23(6)(f)](https://www.legislation.gov.uk/uksi/1996/1345/regulation/23/6/f)
+
+[^key-7fb4d99303b88305689e70a451b6405f]: Textual amendment: Words in reg. 17 inserted (27.10.2008) by [Employment and Support Allowance (Consequential Provisions) (No.2) Regulations 2008 (S.I. 2008/1554)](https://www.legislation.gov.uk/uksi/2008/1554), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2008/1554/regulation/1/2/b), [52(12)](https://www.legislation.gov.uk/uksi/2008/1554/regulation/52/12)
+
+[^key-bece948a5088c3844bcfd83e7bc2837f]: Textual amendment: Words in reg. 17 omitted (5.10.1999 with effect in accordance with reg. 1(2)) by virtue of [The Tax Credits (Payments on Account, Overpayments and Recovery) (Amendment) Regulations 1999 (S.I. 1999/2571)](https://www.legislation.gov.uk/uksi/1999/2571), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/2571/regulation/1/1), [14](https://www.legislation.gov.uk/uksi/1999/2571/regulation/14)
+
+[^key-ddfa1b946e32bfcf174932cbbe1e602e]: Textual amendment: Words in [reg. 17](https://www.legislation.gov.uk/uksi/1988/664/regulation/17) substituted (5.12.2005) by [The Civil Partnership (Pensions, Social Security and Child Support) (Consequential, etc. Provisions) Order 2005 (S.I. 2005/2877)](https://www.legislation.gov.uk/uksi/2005/2877), [art. 1](https://www.legislation.gov.uk/uksi/2005/2877/article/1), [Sch. 3 para. 18](https://www.legislation.gov.uk/uksi/2005/2877/schedule/3/paragraph/18) (with [art. 3](https://www.legislation.gov.uk/uksi/2005/2877/article/3))
+
+[^M_F_f1e980d8-973e-4dff-c363-a58831ae320a]: Textual amendment: Reg. 19(3) substituted (11.4.88) by S.I. 1988/688, reg. 1, 2(5)
+
+[^M_C_2d6d9564-f055-4b61-ebee-b49977a56c2a]: Modification: Reg. 23 modified (1st June, 5th July, 6th September, 5th and 18th October and 29th November 1999) by the Social Security Act 1998, 1999/1958, 2422, 2739, 2860 and 3178, Sch.9 para. 7
+
+[^M_C_866ec56c-d4e6-4af3-8da3-0f11bcc9e450]: Modification: Reg. 24 and heading modified (1st June, 5th July, 6th September, 5th and 18th October and 29th November 1999) by the Social Security Act 1998, 1999/1958, 2422, 2739, 2860 and 3178, Sch.9 para. 8
+
+[^M_C_3da20a1e-1106-4d41-95db-ab8a9aea70b1]: Modification: Reg. 25(2)(b) modified (1st June, 5th July, 6th September, 5th and 18th October and 29th November 1999) by the Social Security Act 1998, 1999/1958, 2422, 2739, 2860 and 3178, Sch.9 para. 9
+
+[^M_C_86e48551-5d1b-40bd-8bd6-8c6145c1ba37]: Modification: Reg. 26 modified (1st June, 5th July, 6th September, 5th and 18th October and 29th November 1999) by the Social Security Act 1998, 1999/1958, 2422, 2739, 2860 and 3178, Sch.9 para. 10
+
+[^M_F_f580e0b5-a3e7-4aea-ca4b-954336f38fc4]: Textual amendment: Word substituted (28.11.88) by S.I. 1988/1843, art. 1, 3(4)
+
+[^key-3441a289e434b07b2b77efd61b277552]: Textual amendment: Pt. 8A inserted (8.4.2013) by [The Social Security (Overpayments and Recovery) Regulations 2013 (S.I. 2013/384)](https://www.legislation.gov.uk/uksi/2013/384), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2013/384/regulation/1/2/c), [31(9)](https://www.legislation.gov.uk/uksi/2013/384/regulation/31/9)
+
+[^c2181079]: Marginal citation: [S.I. 1987/491](https://www.legislation.gov.uk/uksi/1987/491).
+
+[^c2181080]: Marginal citation: [S.I. 1980/1641](https://www.legislation.gov.uk/uksi/1980/1641).
+
+[^c2181081]: Marginal citation: [1970 c. 55](https://www.legislation.gov.uk/ukpga/1970/55).
+
+[^c2181082]: Marginal citation: [1976 c. 71](https://www.legislation.gov.uk/ukpga/1976/71).

@@ -1,0 +1,211 @@
+---
+title: The Vaccine Damage Payments Regulations 1979
+id: uksi/1979/432
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '1979-04-05'
+text_date: '2019-12-02'
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1979/432
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1979/432/pdfs/uksi_19790432_301114_en.pdf
+- http://www.legislation.gov.uk/uksi/1979/432/pdfs/uksi_19790432_en.pdf
+- http://www.legislation.gov.uk/uksi/1979/432/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Westlaw UK derived from Crown Copyright material and contributed to legislation.gov.uk
+summary: ''
+---
+
+# The Vaccine Damage Payments Regulations 1979
+
+> Text as at 2019-12-02.
+
+1979 No. 432
+
+PUBLIC HEALTH, ENGLAND AND WALES PUBLIC HEALTH, SCOTLAND PUBLIC HEALTH, NORTHERN IRELAND
+
+The Vaccine Damage Payments Regulations 1979
+
+Made
+
+5th April 1979
+
+Laid before Parliament
+
+5th April 1979
+
+Coming into Operation
+
+6th April 1979
+
+The Secretary of State for Social Services in exercise of powers conferred on him by sections 2(5), 3(1)(b), 4(1), 5(2), 7(5) and 8(3) of the Vaccine Damage Payments Act 1979 and of all other powers enabling him in that behalf, hereby makes the following regulations:—
+
+## PART I — GENERAL
+
+### 1. Citation, commencement and interpretation
+
+(1) These regulations may be cited as the Vaccine Damage Payments Regulations 1979 and shall come into operation on 6th April 1979.
+
+(2) In these regulations, unless the context otherwise requires—
+
+- “**the Act**” means the Vaccine Damage Payments Act 1979;
+- “**hearing**” means oral hearing;
+- “**medical practitioner**” means registered medical practitioner;
+- “**payment**” means a payment under section 1(1) of the Act;
+- [^key-9b01ad8c98abb8dfbac793cd637425f8]...
+- [^key-9b01ad8c98abb8dfbac793cd637425f8]...
+
+(3) Any notice required to be given to any person under the provisions of these regulations may be given by being sent by post to that person at his ordinary or last known address.
+
+## PART II — CLAIMS
+
+### 2. Claims to be made to the Secretary of State in writing
+
+(1) Every claim for payment shall be made in writing to the Secretary of State on the form approved by him, or in such other manner, being in writing, as he may accept as sufficient in the circumstances of any particular case or class of cases.
+
+(2) Any person who has made a claim in accordance with the provisions of this regulation may amend his claim, at any time before a decision has been given thereon, by notice in writing delivered or sent to the Secretary of State, and any claim so amended may be treated as if it had been so amended in the first instance.
+
+### 3. Information to be given when making a claim
+
+Every person who makes a claim shall furnish such certificates, documents, information and evidence for the purpose of determining the claim as may be required by the Secretary of State.
+
+### 4. Obligations of disabled person
+
+(1) Subject to the following provisions of this regulation, every disabled person in respect of whom a claim has been made under section 3 of the Act shall comply with every notice given to him or, where he is not the claimant, to the claimant by the Secretary of State which requires such disabled person to submit himself to a medical examination either by a medical practitioner appointed by the Secretary of State or by an appeal tribunal[^key-a95df2a966b1f6ad06ecbdb8987bdce0] for the purpose of determining whether he is severely disabled as a result of vaccination against any of the diseases to which the Act applies.
+
+(2) Every notice given under the preceding paragraph shall be given in writing and shall specify the time and place of examination and shall not require the disabled person to submit himself to examination before the expiration of the period of fourteen days beginning with the date of the notice or such shorter period as may be reasonable in the circumstances.
+
+### 5. Vaccinations to be treated as carried out in England
+
+(1) Vaccinations given outside the United Kingdom and the Isle of Man to serving members of Her Majesty's forces or members of their families shall be treated for the purposes of the Act as carried out in England where the vaccination in question has been given as part of medical facilities provided under arrangements made by or on behalf of the service authorities.
+
+(2) For the purposes of section 2(5) of the Act—
+
+- (a) “**serving members of Her Majesty's forces**” means a member of the naval, military or air forces of the Crown or of any women's service administered by the Defence Council;
+- (b)[^key-5ac89c5352ef5361585127f42c634fd7] a person is a member of the family of a serving member of Her Majesty’s forces if—
+  - (i) he is the spouse or civil partner of that serving member,
+  - (ii) he and that serving member live together as if they were a married couple or[^key-8d0d7048e118005faf4a0d971f397c73] civil partners, or
+  - (iii) he is a child whose requirements are provided by that serving member.
+
+### 5A. Circumstances prescribed in relation to cases of damage through contact[^key-275de96d248332fbf2d402077bd9dcc3]
+
+The circumstances prescribed for the purposes of section 1(3) of the Vaccine Damage Payments Act 1979 (Act to have effect with respect to a person severely disabled as a result of contracting a disease through contact with a third person who was vaccinated against it) are that:—
+
+(1) the disabled person has been in close physical contact with a person who has been vaccinated against poliomyelitis with orally administered vaccine;
+
+(2) that contact occurred within a period of sixty days beginning with the fourth day immediately following such vaccination; and
+
+(3) the disabled person was, within the period referred to in paragraph (2) of this regulation, either—
+
+- (a) looking after the person who has been vaccinated, or
+- (b) himself being looked after together with the person who has been vaccinated.
+
+### 6. Claims made prior to the passing of the Act
+
+(1) A claim made before the passing of the Act in connection with the non-statutory scheme of payments for severe vaccine damage established by the Secretary of State for Social Services in anticipation of the passing of the Act and which has not been disposed of at the commencement of the Act shall be treated as a claim falling within section 3(1) of the Act.
+
+(2) Any information and other evidence furnished and other things done before the commencement of the Act in connection with any such claim made before the passing of the Act shall be treated as furnished or done in connection with a claim falling within section 3(1) of the Act.
+
+## PART III — REVIEW BY TRIBUNALS[^key-8dda1252fa4bc2ee846bb3c8715e6394]
+
+**No longer in force.**
+
+### 7. Vaccine damage tribunals[^key-8dda1252fa4bc2ee846bb3c8715e6394]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 8. Procedure of vaccine damage tribunals[^key-8dda1252fa4bc2ee846bb3c8715e6394]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 9. Notice of decision of tribunal[^key-8dda1252fa4bc2ee846bb3c8715e6394]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 10. Non-disclosure of evidence[^key-8dda1252fa4bc2ee846bb3c8715e6394]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART IV — DECISIONS REVERSING EARLIER DECISIONS[^key-9aee0a44ccd1ed3a456a226698d2a12c]
+
+### 11. Decisions reversing earlier decisions made by the Secretary of State or appeal tribunals
+
+(1) The Secretary of State may make a decision under section 3A(1) of the Act which reverses a decision of his, made under section 3 of the Act, or of an appeal tribunal, made under section 4 of the Act—
+
+- (a) pursuant to an application in the circumstances described in paragraph (2) below; or
+- (b) except where paragraph (3) applies, on his own initiative.
+
+(2) The circumstances referred to in paragraph (1)(a) above are—
+
+- (a) the application is made in writing and contains an explanation as to why the applicant believes the decision in respect of which the application is made to be wrong; and
+- (b) where the application is in respect of a decision of the Secretary of State, the application is made at any time after notification of that decision was given but before a decision of an appeal tribunal has been made[^key-0af18f9c9cdd19ed01fbb833e41e7b12]; or
+- (c) where the application is in respect of a decision of an appeal tribunal, the application is made before whichever is the later of—
+  - (i) the date two years after the date on which notification of that decision was given; or
+  - (ii) the date six years after the date on which notification of the decision of the Secretary of State which was appealed was given.
+
+(3) This paragraph applies where—
+
+- (a) less than 21 days have elapsed since notice under regulation 12 below was given; or
+- (b) more than six years have elapsed since the date on which notification of that decision was given except where it appears to the Secretary of State that a payment was made in consequence of a misrepresentation or failure to disclose any material fact.
+
+(4) Where the Secretary of State has made a decision under section 3A(1) of the Act, he shall notify—
+
+- (a) the disabled person (if he is alive) to whom the decision relates; and
+- (b) if the disabled person is not a claimant, the claimant who made the claim in respect of that disabled person,
+
+of that decision and the reasons for it.
+
+### 11A. Consideration of reversal before appeal[^key-fc70ca1ca0a5f21a3cb0447553cb613f]
+
+(1) This regulation applies in a case where—
+
+- (a) the claimant’s address is not in Northern Ireland;
+- (b) the Secretary of State gives a person written notice of a decision; and
+- (c) that notice includes a statement to the effect that there is a right of appeal to the First-tier Tribunal in relation to the decision only if the Secretary of State has considered an application for a reversal of the decision.
+
+(2) In a case to which this regulation applies, a person has a right of appeal under section 4 of the Act in relation to the decision only if the Secretary of State has considered whether to reverse the decision under section 3A of the Act.
+
+(3) The notice referred to in paragraph (1) must inform the person that, where the notice does not include a statement of the reasons for the decision, he may, within one month of the date of the notice, request that the Secretary of State provide him with written reasons.
+
+(4) Where written reasons are requested under paragraph (3), the Secretary of State must provide them within 14 days of receipt of the request or as soon as practicable afterwards.
+
+(5) Where, as the result of paragraph (2), there is no right of appeal against a decision, the Secretary of State may treat any purported appeal as an application for a reversal of the decision under section 3A of the Act.
+
+### 12. Procedure by which a decision may be made under section 3A of the Act on the Secretary of State’s own initiative
+
+Where the Secretary of State on his own initiative proposes to make a decision under section 3A of the Act reversing a decision (“the original decision") of his or of an appeal tribunal he shall give notice in writing of his proposal to—
+
+- (a) the disabled person (if he is alive) to whom the original decision relates; and
+- (b) the claimant in relation to the original decision where he is not the disabled person.
+
+David Ennals
+
+Secretary of State for Social Services
+
+EXPLANATORY NOTE
+
+These Regulations contain provisions relating to claims for payment made under section 1(1) of the Vaccine Damage Payments Act 1979, the information to be given when claiming and for treating claims made prior to the passing of the Vaccine Damage Payments Act 1979 as claims falling within section 3(1) of that Act. The Regulations provide that vaccinations given outside the United Kingdom and the Isle of Man to serving members of Her Majesty's forces and members of their families are to be treated as carried out in England.
+
+The Regulations also make provision for the appointment by the Secretary of State of vaccine damage tribunals, for the procedure of the tribunals and for the reconsideration of the Secretary of State's determination in certain circumstances.
+
+## Annotations
+
+[^key-9b01ad8c98abb8dfbac793cd637425f8]: Textual amendment: Words in reg. 1(2) omitted (18.10.1999) by virtue of [The Social Security and Child Support (Decisions and Appeals), Vaccine Damage Payments and Jobseeker’s Allowance (Amendment) Regulations 1999 (S.I. 1999/2677)](https://www.legislation.gov.uk/uksi/1999/2677), [regs. 1](https://www.legislation.gov.uk/uksi/1999/2677/regulation/1), [2](https://www.legislation.gov.uk/uksi/1999/2677/regulation/2)
+
+[^key-a95df2a966b1f6ad06ecbdb8987bdce0]: Textual amendment: Words in reg. 4(1) substituted (18.10.1999) by [The Social Security and Child Support (Decisions and Appeals), Vaccine Damage Payments and Jobseeker’s Allowance (Amendment) Regulations 1999 (S.I. 1999/2677)](https://www.legislation.gov.uk/uksi/1999/2677), [regs. 1](https://www.legislation.gov.uk/uksi/1999/2677/regulation/1), [3](https://www.legislation.gov.uk/uksi/1999/2677/regulation/3)
+
+[^key-5ac89c5352ef5361585127f42c634fd7]: Textual amendment: Reg. 5(2)(b) substituted (5.12.2005) by [The Vaccine Damage Payments (Amendment) Regulations 2005 (S.I. 2005/3070)](https://www.legislation.gov.uk/uksi/2005/3070), [regs. 1](https://www.legislation.gov.uk/uksi/2005/3070/regulation/1), [2](https://www.legislation.gov.uk/uksi/2005/3070/regulation/2)
+
+[^key-8d0d7048e118005faf4a0d971f397c73]: Textual amendment: Words in [reg. 5(2)(b)(ii)](https://www.legislation.gov.uk/uksi/1979/432/regulation/5/2/b/ii) substituted (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [Sch. 3 para. 39](https://www.legislation.gov.uk/uksi/2019/1458/schedule/3/paragraph/39)
+
+[^key-275de96d248332fbf2d402077bd9dcc3]: Textual amendment: Reg. 5A inserted (13.12.1979) by [The Vaccine Damage Payments (Amendment) Regulations 1979 (S.I. 1979/1441)](https://www.legislation.gov.uk/uksi/1979/1441), [regs. 1](https://www.legislation.gov.uk/uksi/1979/1441/regulation/1), [2](https://www.legislation.gov.uk/uksi/1979/1441/regulation/2)
+
+[^key-8dda1252fa4bc2ee846bb3c8715e6394]: Textual amendment: Pt. III revoked (5.7.1999 for specified purposes, 6.9.1999 for specified purposes, 5.10.1999 for specified purposes, 18.10.1999 for specified purposes, 29.11.1999 in so far as not already in force) by [The Social Security and Child Support (Decisions and Appeals) Regulations 1999 (S.I. 1999/991)](https://www.legislation.gov.uk/uksi/1999/991), [reg. 59(1)](https://www.legislation.gov.uk/uksi/1999/991/regulation/59/1), [Sch. 4](https://www.legislation.gov.uk/uksi/1999/991/schedule/4) (with [reg. 59(2)](https://www.legislation.gov.uk/uksi/1999/991/regulation/59/2)[(3)](https://www.legislation.gov.uk/uksi/1999/991/regulation/59/3))
+
+[^key-9aee0a44ccd1ed3a456a226698d2a12c]: Textual amendment: Pt. IV substituted (18.10.1999) by [The Social Security and Child Support (Decisions and Appeals), Vaccine Damage Payments and Jobseeker’s Allowance (Amendment) Regulations 1999 (S.I. 1999/2677)](https://www.legislation.gov.uk/uksi/1999/2677), [regs. 1](https://www.legislation.gov.uk/uksi/1999/2677/regulation/1), [4](https://www.legislation.gov.uk/uksi/1999/2677/regulation/4)
+
+[^key-0af18f9c9cdd19ed01fbb833e41e7b12]: Textual amendment: Words in reg. 11(2)(b) substituted (28.10.2013) by [The Social Security, Child Support, Vaccine Damage and Other Payments (Decisions and Appeals) (Amendment) Regulations 2013 (S.I. 2013/2380)](https://www.legislation.gov.uk/uksi/2013/2380), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/2380/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2013/2380/regulation/2/2)
+
+[^key-fc70ca1ca0a5f21a3cb0447553cb613f]: Textual amendment: [Reg. 11A](https://www.legislation.gov.uk/uksi/1979/432/regulation/11A) inserted (28.10.2013) by [The Social Security, Child Support, Vaccine Damage and Other Payments (Decisions and Appeals) (Amendment) Regulations 2013 (S.I. 2013/2380)](https://www.legislation.gov.uk/uksi/2013/2380), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/2380/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2013/2380/regulation/2/3)

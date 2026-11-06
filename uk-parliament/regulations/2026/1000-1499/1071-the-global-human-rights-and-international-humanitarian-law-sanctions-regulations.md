@@ -1,0 +1,1905 @@
+---
+title: The Global Human Rights and International Humanitarian Law Sanctions Regulations 2026
+id: uksi/2026/1071
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised-with-pending-changes
+made_date: '2026-10-12'
+text_date: '2026-10-15'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2026/1071
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2026/1071/pdfs/uksiem_20261071_en_001.pdf
+- http://www.legislation.gov.uk/uksi/2026/1071/pdfs/uksi_20261071_en.pdf
+- http://www.legislation.gov.uk/uksi/2026/1071/data.pdf
+pending_changes: 1
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Global Human Rights and International Humanitarian Law Sanctions Regulations 2026
+
+> **Warning: changes not yet applied to this text (1).** Text as at 2026-10-15. See https://www.legislation.gov.uk/changes/affected/uksi/2026/1071
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+Regulations made by the Secretary of State, laid before Parliament under section 55(3) of the Sanctions and Anti-Money Laundering Act [2018 (c. 13)](https://www.legislation.gov.uk/ukpga/2018/13), for approval by resolution of each House of Parliament within 28 days beginning with the day on which the instrument was made, subject to extension for periods of dissolution, prorogation or adjournment of both Houses for more than four days.
+
+2026 No. 1071
+
+SANCTIONS
+
+The Global Human Rights and International Humanitarian Law Sanctions Regulations 2026
+
+Made
+
+12th October 2026
+
+Laid before Parliament
+
+13th October 2026
+
+Coming into force
+
+15th October 2026
+
+The Secretary of State[^f00001] makes these Regulations in exercise of the powers conferred by section 1(1)(c) and (3)(b), 3(1)(a) and (d)(i), 3A, 4, 9(2)(a), 10(2) to (4), 11(1A) to (9), 12(1A) to (9), 15(2)(a) and (b), (3), (3A), (3B), (4)(b), (5) and (6), 16, 17(2) to (5) and (8), 21(1), 45(1)(a), 54(1) and (2), and 62(4) and (5) of the Sanctions and Anti-Money Laundering Act 2018[^f00002].
+
+## Part 1 — General
+
+### 1. Citation, commencement and extent[^key-30f58e8fa85c8a4acb5610a1a2b99e25]
+
+(1) These Regulations may be cited as the Global Human Rights and International Humanitarian Law Sanctions Regulations 2026.
+
+(2) These Regulations come into force on 15th October 2026.
+
+(3) These Regulations extend to England and Wales, Scotland and Northern Ireland.
+
+### 2. Interpretation[^key-6c68d539158a11cbdf1ca5718cd538b5]
+
+In these Regulations—
+
+- “**the Act**” means the Sanctions and Anti-Money Laundering Act 2018;
+- “**arrangement**” includes any agreement, understanding, scheme, transaction or series of transactions, whether or not legally enforceable (but see paragraph 12 of Schedule 1 for the meaning of that term in that Schedule);
+- “**conduct**” includes acts and omissions;
+- “**director disqualification licence**” means a licence under regulation 27 (director disqualification licences);
+- “**document**” includes information recorded in any form and, in relation to information recorded otherwise than in legible form, references to its production include producing a copy of the information in legible form;
+- “**Treasury licence**” means a licence under regulation 26(1) (Treasury licences);
+- “**United Kingdom person**” has the same meaning as in section 21 (extra-territorial application) of the Act.
+
+### 3. Application of prohibitions and requirements outside the United Kingdom[^key-6e2dad3d65a047f9d2255da4c98674a0]
+
+(1) A United Kingdom person may contravene a relevant prohibition by conduct wholly or partly outside the United Kingdom.
+
+(2) Any person may contravene a relevant prohibition by conduct in the territorial sea.
+
+(3) In this regulation, a “**relevant prohibition**” means any prohibition imposed by—
+
+- (a) regulation 12(2) (confidential information),
+- (b) Part 3 (Finance), or
+- (c) a condition of a Treasury licence.
+
+(4) A United Kingdom person may comply, or fail to comply, with a relevant requirement by conduct wholly or partly outside the United Kingdom.
+
+(5) Any person may comply, or fail to comply, with a relevant requirement by conduct in the territorial sea.
+
+(6) In this regulation, a “**relevant requirement**” means any requirement imposed—
+
+- (a) by or under Part 7 (Information and records), or by reason of a request made under a power conferred by that Part, or
+- (b) by a condition of a Treasury licence.
+
+(7) Nothing in this regulation is to be taken to prevent a relevant prohibition or a relevant requirement from applying to conduct (by any person) in the United Kingdom.
+
+### 4. Purposes[^key-10359b80678e8d11eec1ca1e7c3a41dd]
+
+(1) The purposes of the regulations contained in this instrument are to deter, and provide accountability for, activities falling within paragraphs (2) to (4).
+
+(2) An activity falls within this paragraph if it is an activity which, if carried out by or on behalf of a State within the territory of that State, would amount to a serious violation by that State of an individual's—
+
+- (a) right to life,
+- (b) right not to be subjected to torture or cruel, inhuman or degrading treatment or punishment,
+- (c) right to be free from slavery, not to be held in servitude or required to perform forced or compulsory labour, or
+- (d) right to liberty and security of person,
+
+whether or not the activity is carried out by or on behalf of a State.
+
+(3) An activity falls within this paragraph if it constitutes a serious violation of international humanitarian law.
+
+(4) An activity falls within this paragraph if it constitutes obstruction of the delivery or distribution of, or access to, humanitarian assistance.
+
+(5) An activity falls within paragraph (2), (3) or (4) if it is carried out—
+
+- (a) outside the British Islands and British overseas territories by any person, or
+- (b) in the British Islands or a British overseas territory by a person who is not a United Kingdom national or a person incorporated or constituted under the law of any part of the British Islands or a British overseas territory.
+
+(6) In paragraphs (2) to (4) an “**activity**” includes an omission.
+
+## Part 2 — Designation of persons
+
+### 5. Power to designate persons[^key-b737ae84634820fe043dbb07975c41e6]
+
+(1) The Secretary of State may designate persons by name for the purposes of any of the following—
+
+- (a) regulations 14 to 18 (asset-freeze etc.);
+- (b) regulation 20 (director disqualification sanctions);
+- (c) regulation 21 (immigration).
+
+(2) The Secretary of State may designate persons by description for the purposes of any of the following—
+
+- (a) regulations 14 to 18;
+- (b) regulation 20;
+- (c) regulation 21.
+
+(3) The Secretary of State may designate different persons for the purposes of different provisions mentioned in paragraph (1) or (2).
+
+(4) For the purposes of these Regulations, persons “designated under regulation 5” for the purpose of a particular regulation means—
+
+- (a) persons who are designated by name under paragraph (1) for the purposes of that particular regulation, and
+- (b) where the Secretary of State makes provision under paragraph (2) that persons of a specified description are designated persons for the purposes of that regulation, persons of that description.
+
+### 6. Conditions for designation of persons by name[^key-6e9e25bc65e7d900d7d339ccff5461b0]
+
+(1) The Secretary of State may choose whether to designate a person under regulation 5(1) (power to designate persons by name) under—
+
+- (a) the standard procedure, or
+- (b) the urgent procedure.
+
+(2) Paragraph (3) applies where the Secretary of State chooses to designate a person under the standard procedure.
+
+(3) The Secretary of State may not designate a person except where condition A is met.
+
+(4) Paragraphs (5) to (7) apply where the Secretary of State chooses to designate a person under the urgent procedure.
+
+(5) The Secretary of State may designate a person where condition A is not met, but conditions B and C are met.
+
+(6) A person ceases to be a designated person at the end of the period of 56 days beginning with the day following the day on which the person became a designated person unless, within that period, the Secretary of State certifies that—
+
+- (a) condition A is met, or
+- (b) conditions B and C continue to be met.
+
+(7) Where the Secretary of State makes a certification under paragraph (6)(b), the designation ceases to have effect at the end of the period of 56 days beginning with the day immediately following the period mentioned in paragraph (6) unless, within that period, the Secretary of State certifies that condition A is met.
+
+(8) Condition A is that the Secretary of State has reasonable grounds to suspect that that person is an involved person.
+
+(9) Condition B is that relevant provision (whenever made) applies to, or in relation to, the person under the law of—
+
+- (a) the United States of America;
+- (b) the European Union;
+- (c) Australia;
+- (d) Canada.
+
+(10) Condition C is that the Secretary of State considers that it is in the public interest to make designations under the urgent procedure.
+
+(11) For the purposes of condition B, “relevant provision” is provision that the Secretary of State considers—
+
+- (a) corresponds, or is similar, to the type of sanction or sanctions in these Regulations, or
+- (b) is made for purposes corresponding, or similar, to any purpose of any type of sanction or sanctions in these Regulations.
+
+(12) In this regulation, “**involved person**” has the meaning given in regulation 8 (designation criteria: meaning of “involved person”).
+
+### 7. Conditions for designation of persons by description[^key-994980f4e1c5d681fff6ea10a332a421]
+
+(1) The Secretary of State may choose whether to designate persons under regulation 5(2) (power to designate persons by description) under—
+
+- (a) the standard procedure, or
+- (b) the urgent procedure.
+
+(2) Paragraph (3) applies where the Secretary of State chooses to designate persons under the standard procedure.
+
+(3) The Secretary of State may not designate persons except where conditions A and C are met.
+
+(4) Paragraphs (5) to (7) apply where the Secretary of State chooses to designate persons under the urgent procedure.
+
+(5) The Secretary of State may designate persons where condition C is not met, but conditions A, D and E are met.
+
+(6) Persons of the specified description cease to be designated persons at the end of the period of 56 days beginning with the day following the day on which the Secretary of State provides that persons of that description are designated persons unless, within that period, the Secretary of State certifies that—
+
+- (a) conditions A and C are met, or
+- (b) conditions A, D and E continue to be met.
+
+(7) Where the Secretary of State makes a certification under paragraph (6)(b), the designation ceases to have effect at the end of the period of 56 days beginning with the day immediately following the period mentioned in paragraph (6) unless, within that period, the Secretary of State certifies that conditions A and C are met.
+
+(8) Condition A is that the description of persons specified is such that a reasonable person would know whether that person fell within it.
+
+(9) Condition C is that the Secretary of State has reasonable grounds to suspect—
+
+- (a) in a case where the specified description is members of a particular organisation, that the organisation is an involved person, or
+- (b) in the case of any other specified description, that any person falling within that description would necessarily be an involved person.
+
+(10) Condition D is that the description of persons specified is of persons (or some persons) to which, or in relation to which, relevant provision (whenever made) applies under the law of—
+
+- (a) the United States of America;
+- (b) the European Union;
+- (c) Australia;
+- (d) Canada.
+
+(11) Condition E is that the Secretary of State considers that it is in the public interest to provide that persons of a specified description are designated persons under the urgent procedure.
+
+(12) For the purposes of condition D, “relevant provision” is provision that the Secretary of State considers—
+
+- (a) corresponds, or is similar, to the type of sanction or sanctions in these Regulations, or
+- (b) is made for purposes corresponding, or similar, to any purpose of any type of sanction or sanctions in these Regulations.
+
+(13) In this regulation—
+
+- “**involved person**” has the meaning given in regulation 8 (designation criteria: meaning of “involved person”);
+- “**organisation**” includes any body, association or combination of persons.
+
+### 8. Designation criteria: meaning of “involved person”[^key-3abdb0f064c397f6ae52dc50f7ee4f5a]
+
+(1) For the purposes of regulations 6(8) (conditions for the designation of persons by name) and 7(9) (conditions for the designation of persons by description), an “**involved person**” means a person who—
+
+- (a) is or has been involved in a relevant activity,
+- (b) is owned or controlled directly or indirectly (within the meaning of regulation 9 (meaning of “**owned or controlled directly or indirectly**”)) by a person who is or has been so involved,
+- (c) is acting on behalf of or at the direction of a person who is or has been so involved, or
+- (d) is a member of, or associated with, a person who is or has been so involved.
+
+(2) In this regulation, a “**relevant activity**” means an activity falling within paragraphs (2) to (4) of regulation 4 (purposes).
+
+(3) For the purposes of this regulation, a person is involved in a relevant activity if—
+
+- (a) the person is responsible for or engages in such an activity;
+- (b) the person facilitates, incites, promotes or provides support for such an activity;
+- (c) the person conceals evidence of such an activity;
+- (d) the person provides financial services, or makes available funds, economic resources, goods or technology, knowing or having reasonable cause to suspect that those financial services, funds, economic resources, goods or technology will or may contribute to such an activity;
+- (e) the person provides financial services, or makes available funds, economic resources, goods or technology, to a person mentioned in sub-paragraph (a);
+- (f) the person profits financially or obtains any other benefit from such an activity;
+- (g) the person is responsible for the investigation or prosecution of such an activity and intentionally or recklessly fails to fulfil that responsibility;
+- (h) the person contravenes, or assists with the contravention of, any provision of Part 3 (Finance) of these Regulations.
+
+(4) Nothing in any sub-paragraph of paragraph (3) is to be taken to limit the meaning of any of the other sub-paragraphs of that paragraph.
+
+(5) Any reference in this regulation to being involved in an activity includes being so involved wherever any actions constituting the involvement take place.
+
+### 9. Meaning of “owned or controlled directly or indirectly”[^key-78aa42749bd505b0d75595f89607664c]
+
+(1) A person who is not an individual (“**C**”) is “owned or controlled directly or indirectly” by another person (“**P**”) if either of the following two conditions is met (or both are met).
+
+(2) The first condition is that P—
+
+- (a) holds directly or indirectly more than 50% of the shares in C,
+- (b) holds directly or indirectly more than 50% of the voting rights in C, or
+- (c) holds the right directly or indirectly to appoint or remove a majority of the board of directors of C.
+
+(3) Schedule 1 (rules for interpretation of regulation 9(2)) contains provision applying for the purpose of interpreting paragraph (2).
+
+(4) The second condition is that it is reasonable, having regard to all the circumstances, to expect that P would (if P chose to) be able, in most cases or in significant respects, by whatever means and whether directly or indirectly, to achieve the result that affairs of C are conducted in accordance with P's wishes.
+
+### 10. Notification and publicity where power to designate by name is used[^key-e9ab468f4bd53a15f661cd1ce8a50a01]
+
+(1) Paragraph (2) applies where the Secretary of State—
+
+- (a) has made a designation under regulation 5(1) (power to designate persons by name), or
+- (b) has by virtue of section 22 (power to vary or revoke designation made under regulations) of the Act varied or revoked a designation made under that regulation.
+
+(2) The Secretary of State—
+
+- (a) must without delay take such steps as are reasonably practicable to inform the designated person of the designation, variation or revocation, and
+- (b) must take steps to publicise the designation, variation or revocation.
+
+(3) The information given under paragraph (2)(a)—
+
+- (a) where the Secretary of State designates a person under the standard procedure, must include a statement of reasons, or
+- (b) where the Secretary of State designates a person under the urgent procedure, must include a statement—
+  - (i) that the provision is made under the urgent procedure,
+  - (ii) identifying the relevant provision by reference to which the Secretary of State considers that condition B is met in relation to the person, and
+  - (iii) setting out why the Secretary of State considers that condition C is met.
+
+(4) Where the Secretary of State designates a person under the urgent procedure, the Secretary of State must, after the end of the period mentioned in paragraph (6) of regulation 6 (conditions for the designation of persons by name), or if the Secretary of State has made a certification under paragraph (6)(b) of that regulation, the period mentioned in paragraph (7) of that regulation, but otherwise without delay—
+
+- (a) in a case where the person ceases to be a designated person, take such steps as are reasonably practicable to inform the person that they have ceased to be a designated person, or
+- (b) in any other case, take such steps as are reasonably practicable to give the person a statement of reasons.
+
+(5) In this regulation, a “**statement of reasons**” means a brief statement of the matters that the Secretary of State knows, or has reasonable grounds to suspect, in relation to the designated person—
+
+- (a) in the case of a designation under the standard procedure, which have led the Secretary of State to make the designation, and
+- (b) in the case of a designation under the urgent procedure, as a result of which the person does not cease to be a designated person at the end of the period mentioned in regulation 6(6) or (7) (as the case may be).
+
+(6) Matters that would otherwise be required by paragraph (5) to be included in a statement of reasons may be excluded from it where the Secretary of State considers that they should be excluded—
+
+- (a) in the interests of national security or international relations,
+- (b) for reasons connected with the prevention or detection of serious crime in the United Kingdom or elsewhere, or
+- (c) in the interests of justice.
+
+(7) The steps taken under paragraph (2)(b) must—
+
+- (a) unless one or more of the restricted publicity conditions is met, be steps to publicise generally—
+  - (i) the designation, variation or revocation, and
+  - (ii) in the case of—
+    - (aa) a designation under the standard procedure, the statement of reasons relating to it;
+    - (bb) a designation under the urgent procedure, the statement required under paragraph (3)(b) relating to it;
+- (b) if one or more of those conditions is met, be steps to inform only such persons as the Secretary of State considers appropriate of—
+  - (i) the designation, variation or revocation, and
+  - (ii) in the case of—
+    - (aa) a designation under the standard procedure, the contents of the statement of reasons relating to it;
+    - (bb) a designation under the urgent procedure, the contents of the statement required under paragraph (3)(b) relating to it.
+
+(8) The “restricted publicity conditions” are as follows—
+
+- (a) the designation is of a person believed by the Secretary of State to be an individual under the age of 18;
+- (b) the Secretary of State considers that disclosure of the designation, variation or revocation should be restricted—
+  - (i) in the interests of national security or international relations,
+  - (ii) for reasons connected with the prevention or detection of serious crime in the United Kingdom or elsewhere, or
+  - (iii) in the interests of justice.
+
+(9) Paragraph (10) applies if—
+
+- (a) when a designation is made, one or more of the restricted publicity conditions is met, but
+- (b) at any time when the designation has effect, it becomes the case that none of the restricted publicity conditions is met.
+
+(10) The Secretary of State must—
+
+- (a) take such steps as are reasonably practicable to inform the designated person that none of the restricted publicity conditions is now met, and
+- (b) take steps to publicise generally the designation and the statement of reasons, or the statement required under paragraph (3)(b), relating to it.
+
+(11) In this regulation—
+
+- “**condition B**” means the condition set out in regulation 6(9);
+- “**condition C**” means the condition set out in regulation 6(10).
+
+### 11. Notification and publicity where power to designate by description is used[^key-43a79cb5378c0e29b5905f7ff24468e5]
+
+(1) Paragraph (2) applies where the Secretary of State—
+
+- (a) has provided that persons of a specified description are designated persons under regulation 5(2) (power to designate persons by description), or
+- (b) has by virtue of section 22 (power to vary or revoke designation made under regulations) of the Act varied or revoked a designation made under that regulation.
+
+(2) The Secretary of State—
+
+- (a) must without delay take such steps as are reasonably practicable to inform persons of the specified description of the designation, variation or revocation, and
+- (b) must take steps to publicise the designation, variation or revocation.
+
+(3) The information given under paragraph (2)(a)—
+
+- (a) where the Secretary of State provides that persons of a specified description are designated persons under the standard procedure, must include a statement of reasons, or
+- (b) where the Secretary of State provides that persons of a specified description are designated persons under the urgent procedure, must include a statement—
+  - (i) that the provision is made under the urgent procedure,
+  - (ii) identifying the relevant provision by reference to which the Secretary of State considers that condition D is met in relation to persons of the specified description, and
+  - (iii) setting out why the Secretary of State considers that condition E is met.
+
+(4) Where the Secretary of State provides that persons of a specified description are designated persons under the urgent procedure, the Secretary of State must, after the end of the period mentioned in paragraph (6) of regulation 7 (conditions for the designation of persons by description), or if the Secretary of State has made a certification under paragraph (6)(b) of that regulation the period mentioned in paragraph (7) of that regulation, but otherwise without delay—
+
+- (a) in a case where the persons cease to be designated persons, take such steps as are reasonably practicable to inform persons of the specified description that they have ceased to be designated persons, or
+- (b) in any other case, take such steps as are reasonably practicable to give each person of the specified description a statement of reasons.
+
+(5) In this regulation, a “**statement of reasons**” means a brief statement of the matters that the Secretary of State knows, or has reasonable cause to suspect, in relation to persons of the specified description—
+
+- (a) in the case of a designation under the standard procedure, which have led the Secretary of State to make the provision designating persons of that description, and
+- (b) in the case of a designation under the urgent procedure, as a result of which the persons do not cease to be designated persons at the end of the period mentioned in regulation 7(6) or (7) (as the case may be).
+
+(6) Matters that would otherwise be required by paragraph (5) to be included in a statement of reasons may be excluded from it where the Secretary of State considers that they should be excluded—
+
+- (a) in the interests of national security or international relations,
+- (b) for reasons connected with the prevention or detection of serious crime in the United Kingdom or elsewhere, or
+- (c) in the interests of justice.
+
+(7) The steps taken under paragraph (2)(b) must—
+
+- (a) unless one or more of the restricted publicity conditions is met, be steps to publicise generally—
+  - (i) the designation, variation or revocation, and
+  - (ii) in the case of—
+    - (aa) a designation under the standard procedure, the statement of reasons relating to it;
+    - (bb) a designation under the urgent procedure, the statement required under paragraph (3)(b) relating to it;
+- (b) if one or more of those conditions is met, be steps to inform only such persons as the Secretary of State considers appropriate of—
+  - (i) the designation, variation or revocation, and
+  - (ii) in the case of—
+    - (aa) a designation under the standard procedure, the contents of the statement of reasons relating to it;
+    - (bb) a designation under the urgent procedure, the contents of the statement required under paragraph (3)(b) relating to it.
+
+(8) The “restricted publicity conditions” are that the Secretary of State considers that disclosure of the designation, variation or revocation should be restricted—
+
+- (a) in the interests of national security or international relations,
+- (b) for reasons connected with the prevention or detection of serious crime in the United Kingdom or elsewhere, or
+- (c) in the interests of justice.
+
+(9) Paragraph (10) applies if—
+
+- (a) when a designation is made, one or more of the restricted publicity conditions is met, but
+- (b) at any time when the designation has effect, it becomes the case that none of the restricted publicity conditions is met.
+
+(10) The Secretary of State must—
+
+- (a) take such steps as are reasonably practicable to inform persons of the specified description that none of the restricted publicity conditions is now met, and
+- (b) take steps to publicise generally the designation and the statement of reasons, or the statement required under paragraph (3)(b), relating to it.
+
+(11) In this regulation—
+
+- “**condition D**” means the condition set out in regulation 7(10);
+- “**condition E**” means the condition set out in regulation 7(11).
+
+### 12. Confidential information in certain cases where designation power used[^key-cb52d9f2a576ec89022ef0a4de5480e3]
+
+(1) Where the Secretary of State in accordance with regulation 10(7)(b) (notification and publicity where power to designate by name is used) or regulation 11(7)(b) (notification and publicity where power to designate by description is used) informs only certain persons of a designation, variation or revocation and (in the case of a designation) of the contents of the statement of reasons, or the statement to be given under regulation 10(3)(b) or 11(3)(b), the Secretary of State may specify that any of that information is to be treated as confidential.
+
+(2) A person (“**P**”) who—
+
+- (a) is provided with information that is to be treated as confidential in accordance with paragraph (1), or
+- (b) otherwise obtains such information,
+
+must not, subject to paragraph (3), disclose it if P knows, or has reasonable cause to suspect, that the information is to be treated as confidential.
+
+(3) The prohibition in paragraph (2) does not apply to any disclosure made by P with lawful authority.
+
+(4) For this purpose information is disclosed with lawful authority only if and to the extent that—
+
+- (a) the disclosure is by, or is authorised by, the Secretary of State,
+- (b) the disclosure is by or with the consent of the person who is or was the subject of the designation,
+- (c) the disclosure is necessary to give effect to a requirement imposed under or by virtue of these Regulations or any other enactment, or
+- (d) the disclosure is required, under rules of court, tribunal rules or a court or tribunal order, for the purposes of legal proceedings of any description.
+
+(5) This regulation does not prevent the disclosure of information that is already, or has previously been, available to the public from other sources.
+
+(6) A person who contravenes the prohibition in paragraph (2) commits an offence.
+
+(7) The High Court (in Scotland, the Court of Session) may, on the application of—
+
+- (a) the person who is the subject of the information, or
+- (b) the Secretary of State,
+
+grant an injunction (in Scotland, an interdict) to prevent a breach of the prohibition in paragraph (2).
+
+(8) In paragraph (4)(c), “**enactment**” has the meaning given by section 54(6) (regulations: general) of the Act.
+
+## Part 3 — Finance
+
+### 13. Meaning of “designated person” in Part 3[^key-f8d6a4e3a8b297bed346ad8199a65ab7]
+
+In this Part, a “**designated person**” means a person who is designated under regulation 5 (power to designate persons) for the purposes of regulations 14 to 18 (asset-freeze etc).
+
+### 14. Asset-freeze in relation to designated persons[^key-a01ca945eb009ca8a7beeea5096d1a0c]
+
+(1) A person (“**P**”) must not deal with funds or economic resources owned, held or controlled by a designated person if P knows, or has reasonable cause to suspect, that P is dealing with such funds or economic resources.
+
+(2) Paragraph (1) is subject to Part 6 (Exceptions and licences).
+
+(3) A person who contravenes the prohibition in paragraph (1) commits an offence.
+
+(4) For the purposes of paragraph (1) a person “deals with” funds if the person—
+
+- (a) uses, alters, moves, transfers or allows access to the funds,
+- (b) deals with the funds in any other way that would result in any change in volume, amount, location, ownership, possession, character or destination, or
+- (c) makes any other change, including portfolio management, that would enable use of the funds.
+
+(5) For the purposes of paragraph (1) a person “deals with” economic resources if the person—
+
+- (a) exchanges the economic resources for funds, goods or services, or
+- (b) uses the economic resources in exchange for funds, goods or services (whether by pledging them as security or otherwise).
+
+(6) The reference in paragraph (1) to funds or economic resources that are “owned, held or controlled” by a person includes, in particular, a reference to—
+
+- (a) funds or economic resources in which the person has any legal or equitable interest, regardless of whether the interest is held jointly with any other person and regardless of whether any other person holds an interest in the funds or economic resources;
+- (b) any tangible property (other than real property) or bearer security that is comprised in funds or economic resources and is in the possession of the person.
+
+(7) For the purposes of paragraph (1) funds or economic resources are to be treated as owned, held or controlled by a designated person if they are owned, held or controlled by a person who is owned or controlled directly or indirectly (within the meaning of regulation 9 (meaning of “**owned or controlled directly or indirectly**”)) by the designated person.
+
+(8) For the avoidance of doubt, the reference in paragraph (1) to a designated person includes P if P is a designated person.
+
+### 15. Making funds available to designated persons[^key-b51261f81773b43a178d5137a327ede3]
+
+(1) A person (“**P**”) must not make funds available directly or indirectly to a designated person if P knows, or has reasonable cause to suspect, that P is making the funds so available.
+
+(2) Paragraph (1) is subject to Part 6 (Exceptions and licences).
+
+(3) A person who contravenes the prohibition in paragraph (1) commits an offence.
+
+(4) The reference in paragraph (1) to making funds available indirectly to a designated person includes, in particular, a reference to making them available to a person who is owned or controlled directly or indirectly (within the meaning of regulation 9 (meaning of “**owned or controlled directly or indirectly**”)) by the designated person.
+
+### 16. Making funds available for benefit of designated persons[^key-75ffaea77b6f00e622ecae7fc2eb7b68]
+
+(1) A person (“**P**”) must not make funds available to any person for the benefit of a designated person if P knows, or has reasonable cause to suspect, that P is making the funds so available.
+
+(2) Paragraph (1) is subject to Part 6 (Exceptions and licences).
+
+(3) A person who contravenes the prohibition in paragraph (1) commits an offence.
+
+(4) The reference in paragraph (1) to making funds available to any person for the benefit of a designated person includes making funds available for the benefit of a person who is owned or controlled directly or indirectly (within the meaning of regulation 9 (meaning of “**owned or controlled directly or indirectly**”)) by the designated person (and references to designated person in paragraph (5) are to be read accordingly).
+
+(5) For the purposes of this regulation—
+
+- (a) funds are made available for the benefit of a designated person only if that person thereby obtains, or is able to obtain, a significant financial benefit, and
+- (b) “**financial benefit**” includes the discharge (or partial discharge) of a financial obligation for which the designated person is wholly or partly responsible.
+
+### 17. Making economic resources available to designated persons[^key-8ee0742aef6848f9f8e6e352ae375d6d]
+
+(1) A person (“**P**”) must not make economic resources available directly or indirectly to a designated person if P knows, or has reasonable cause to suspect—
+
+- (a) that P is making the economic resources so available, and
+- (b) that the designated person would be likely to exchange the economic resources for, or use them in exchange for, funds, goods or services.
+
+(2) Paragraph (1) is subject to Part 6 (Exceptions and licences).
+
+(3) A person who contravenes the prohibition in paragraph (1) commits an offence.
+
+(4) The reference in paragraph (1) to making economic resources available indirectly to a designated person includes, in particular, a reference to making them available to a person who is owned or controlled directly or indirectly (within the meaning of regulation 9 (meaning of “**owned or controlled directly or indirectly**”)) by the designated person.
+
+### 18. Making economic resources available for benefit of designated persons[^key-ef1697a7eb22c4ee2c2f9da0df1b49df]
+
+(1) A person (“**P**”) must not make economic resources available to any person for the benefit of a designated person if P knows, or has reasonable cause to suspect, that P is making the economic resources so available.
+
+(2) Paragraph (1) is subject to Part 6 (Exceptions and licences).
+
+(3) A person who contravenes the prohibition in paragraph (1) commits an offence.
+
+(4) The reference in paragraph (1) to making economic resources available to any person for the benefit of a designated person includes making economic resources available for the benefit of a person who is owned or controlled directly or indirectly (within the meaning of regulation 9 (meaning of “**owned or controlled directly or indirectly**”)) by the designated person (and references to designated person in paragraph (5) are to be read accordingly).
+
+(5) For the purposes of paragraph (1)—
+
+- (a) economic resources are made available for the benefit of a designated person only if that person thereby obtains, or is able to obtain, a significant financial benefit, and
+- (b) “**financial benefit**” includes the discharge (or partial discharge) of a financial obligation for which the designated person is wholly or partly responsible.
+
+### 19. Circumventing etc. prohibitions[^key-1c6778437d9c5089ec2ba5995f5c476e]
+
+(1) A person must not intentionally participate in activities knowing that the object or effect of them is (whether directly or indirectly)—
+
+- (a) to circumvent any of the prohibitions in regulations 14 to 18 (asset-freeze etc.), or
+- (b) to enable or facilitate the contravention of any such prohibition.
+
+(2) A person who contravenes the prohibition in paragraph (1) commits an offence.
+
+## Part 4 — Director disqualification sanctions
+
+### 20. Director disqualification sanctions[^key-d686a1180f7924b03fa427fb8c823d3a]
+
+A person who is designated under regulation 5 (power to designate persons) for the purposes of this regulation is subject to director disqualification sanctions for the purposes of—
+
+- (a) section 11A (designated persons under sanctions legislation) of the Company Directors Disqualification Act 1986[^f00003], and
+- (b) article 15A (designated persons under sanctions legislation) of the Company Directors Disqualification (Northern Ireland) Order 2002[^f00004].
+
+## Part 5 — Immigration
+
+### 21. Immigration[^key-57ea23320bf83ce29c926baad23bbc9b]
+
+A person who is designated under regulation 5 (power to designate persons) for the purposes of this regulation is an excluded person for the purposes of section 8B (persons excluded from the United Kingdom under certain instruments) of the Immigration Act 1971[^f00005].
+
+## Part 6 — Exceptions and licences
+
+### 22. Finance: exceptions from prohibitions[^key-4b59013ef7b7b298fd28b102b811f370]
+
+(1) The prohibition in regulation 14 (asset-freeze in relation to designated persons) is not contravened by an independent person (“**P**”) transferring to another person a legal or equitable interest in funds or economic resources where, immediately before the transfer, the interest—
+
+- (a) is held by P, and
+- (b) is not held jointly with the designated person.
+
+(2) In paragraph (1), “**independent person**” means a person who—
+
+- (a) is not the designated person, and
+- (b) is not owned or controlled directly or indirectly (within the meaning of regulation 9 (meaning of “**owned or controlled directly or indirectly**”)) by the designated person.
+
+(3) The prohibitions in regulations 14 to 16 (asset-freeze in relation to, and making funds available to, or for the benefit of, designated persons) are not contravened by a relevant institution crediting a frozen account with interest or other earnings due on the account.
+
+(4) The prohibitions in regulations 15 and 16 (making funds available to, or for the benefit of, designated persons) are not contravened by a relevant institution crediting a frozen account where it receives funds transferred to that institution for crediting to that account.
+
+(5) The prohibitions in regulations 15 and 16 are not contravened by the transfer of funds to a relevant institution for crediting to an account held or controlled (directly or indirectly) by a designated person, where those funds are transferred in discharge (or partial discharge) of an obligation which arose before the date on which the person became a designated person.
+
+(6) The prohibitions in regulations 14 to 16 are not contravened in relation to a designated person (“**P**”) by a transfer of funds from account A to account B, where—
+
+- (a) account A is with a relevant institution which carries on an excluded activity within the meaning of [section 142D](https://www.legislation.gov.uk/ukpga/2000/8/section/142D) (excluded activities) of the [Financial Services and Markets Act 2000](https://www.legislation.gov.uk/ukpga/2000/8/contents)[^f00006],
+- (b) account B is with a ring-fenced body within the meaning of [section 142A](https://www.legislation.gov.uk/ukpga/2000/8/section/142A) (“ring-fenced body”) of the [Financial Services and Markets Act 2000](https://www.legislation.gov.uk/ukpga/2000/8/contents)[^f00007], and
+- (c) accounts A and B are held or controlled (directly or indirectly) by P.
+
+(7) In this regulation—
+
+- “**designated person**” has the same meaning as it has in Part 3 (Finance);
+- “**frozen account**” means an account with a relevant institution which is held or controlled (directly or indirectly) by a designated person;
+- “**relevant institution**” means a person that has permission under [Part 4A](https://www.legislation.gov.uk/ukpga/2000/8/part/4A) (Permission to carry on regulated activities) of the [Financial Services and Markets Act 2000](https://www.legislation.gov.uk/ukpga/2000/8/contents)[^f00008].
+
+(8) The definition of “relevant institution” in paragraph (7) is to be read with [section 22](https://www.legislation.gov.uk/ukpga/2000/8/section/22) (regulated activities) of the [Financial Services and Markets Act 2000](https://www.legislation.gov.uk/ukpga/2000/8/contents)[^f00009], any relevant order under [that section](https://www.legislation.gov.uk/ukpga/2000/8/section/22)[^f00010] and Schedule 2 (regulated activities) to that Act[^f00011].
+
+(9) For the purposes of paragraphs (1)(b), (5), and (6) and the definition of “frozen account” in paragraph (7)—
+
+- (a) references to a designated person are to be read as including a person (“**C**”) who is owned or controlled directly or indirectly by the designated person (“**D**”) in accordance with regulation 9 (meaning of “**owned or controlled directly or indirectly**”), and
+- (b) in respect of C, the reference in paragraph (5) to the “date on which the person became a designated person” is to be read as the date on which D became a designated person.
+
+### 23. Finance: exception from prohibitions for required payments[^key-e5488865aa4d7d178e3f2e7c2bdc02f0]
+
+(1) This regulation applies to required payments within the meaning of paragraph (2).
+
+(2) A required payment is a payment which—
+
+- (a) a designated person is required to make under or by virtue of any enactment to—
+  - (i) the registrar of companies,
+  - (ii) the Commissioners for His Majesty's Revenue and Customs,
+  - (iii) the Welsh Revenue Authority,
+  - (iv) Revenue Scotland,
+  - (v) the Financial Conduct Authority,
+  - (vi) the Secretary of State,
+  - (vii) the Welsh Ministers,
+  - (viii) the Department of Finance in Northern Ireland, or
+  - (ix) a local authority, and
+- (b) is not an excluded payment.
+
+(3) The prohibitions in regulations 14 (asset-freeze in relation to designated persons) and 16 (making funds available for benefit of designated person) are not contravened by a person making a required payment.
+
+(4) Where a required payment is made by a person other than a designated person, the prohibition in regulation 14 is not contravened by the designated person making a reimbursement payment to that person.
+
+(5) The reference in paragraph (3) to a person making a required payment includes a designated person, but only where they are making a required payment on their own behalf.
+
+(6) The following payments are to be treated as payments which a designated person is required to make under or by virtue of an enactment for the purposes of this regulation, where made by a designated person on their own behalf or by a person, other than a designated person, on behalf of a designated person—
+
+- (a) a payment to the Financial Conduct Authority of a levy imposed by the scheme manager of the Financial Services Compensation Scheme by virtue of section 213 (the compensation scheme) of the Financial Services and Markets Act 2000[^f00012];
+- (b) a payment to the Financial Conduct Authority which is collected by that Authority on behalf of the Financial Reporting Council Limited[^f00013].
+
+(7) For the purposes of this regulation, references to a designated person are to be read as including a person who is owned or controlled directly or indirectly (within the meaning of regulation 9 (meaning of “**owned or controlled directly or indirectly**”)) by the designated person.
+
+(8) In this regulation—
+
+- “**BID levy**” means a levy that is imposed on those persons who are, in respect of particular business improvement district proposals, entitled to vote in accordance with section 39(3) (entitlement to vote in ballot) of the Planning etc. (Scotland) Act 2006[^f00014];
+- “**business improvement district**” has the meaning given in section 33 (arrangements with respect to business improvement districts) of the Planning etc. (Scotland) Act 2006;
+- “**designated person**” has the same meaning as it has in Part 3 (Finance);
+- “**enactment**” has the meaning given in section 54(6) (regulations: general) of the Act[^f00015];
+- “**excluded payment**” means, in relation to—
+  - (a) the registrar of companies, a payment of fees for—
+    - (i) the incorporation of a firm;
+    - (ii) the restoration of a firm to a register which is administered by the registrar;
+  - (b) the Financial Conduct Authority, a payment of fees for—
+    - (i) an application for permission from, authorisation by, registration with or recognition from the Financial Conduct Authority which relates to the carrying on of any activity falling within any function of the Financial Conduct Authority;
+    - (ii) an application for a variation of such permission, authorisation, registration or recognition;
+    - (iii) an application for listing or for eligibility for listing;
+    - (iv) an application for review or approval of a document relating to listing;
+    - (v) an application for approval as a sponsor or primary information provider;
+    - (vi) an application for review or approval of—
+      - (aa) a document under rules made by the Financial Conduct Authority by virtue of Part 3 (Regulation of public offers and admissions to trading) of the Public Offers and Admissions to Trading Regulations 2024[^f00016];
+      - (bb) listing particulars under section 79 (listing particulars and other documents) of the Financial Services and Markets Act 2000[^f00017] or supplementary listing particulars under section 81 (supplementary listing particulars) of that Act[^f00018];
+  - (c) the Secretary of State or the Welsh Ministers, a payment that a designated person is required to make under or by virtue of an enactment other than a payment under or by virtue of Part 3 (Non-domestic rating) of the Local Government Finance Act 1988[^f00019];
+  - (d) the Department of Finance in Northern Ireland, a payment that a designated person is required to make under or by virtue of an enactment other than a payment under or by virtue of Part 2 (Rating) of the Rates (Northern Ireland) Order 1977[^f00020];
+  - (e) a local authority, a payment that a designated person is required to make under or by virtue of an enactment other than a payment under or by virtue of—
+    - (i) Part 1 (Finance) of the Local Government (Scotland) Act 1975[^f00021];
+    - (ii) Part 3 (Non-domestic rating) of the Local Government Finance Act 1988[^f00022];
+    - (iii) Parts 1 (Council tax: England and Wales) and 2 (Council tax: Scotland) of the Local Government Finance Act 1992[^f00023];
+    - (iv) Part 4 (Business improvement districts) of the Local Government Act 2003[^f00024];
+    - (v) Part 9 (Business improvement districts) of the Planning etc. (Scotland) Act 2006;
+    - (vi) the Business Rate Supplements Act 2009[^f00025];
+    - (vii) the Business Improvement Districts Act (Northern Ireland) 2013[^f00026];
+- “**firm**” has the meaning given in section 1173(1) (minor definitions) of the Companies Act 2006[^f00027];
+- “**listing**” means being included in the official list maintained by the Financial Conduct Authority in accordance with Part 6 (Official listing) of the Financial Services and Markets Act 2000;
+- “**local authority**” means—
+  - (a) in relation to England—
+    - (i) a district council;
+    - (ii) a county council for any area for which there is no district council;
+    - (iii) a London borough council;
+    - (iv) the Common Council of the City of London in its capacity as a local authority;
+    - (v) the Council of the Isles of Scilly;
+  - (b) in relation to Wales, a county council or a county borough council;
+  - (c) in relation to Scotland, a council constituted under section 2 (constitution of councils) of the Local Government etc. (Scotland) Act 1994[^f00028] or a person appointed by such a council for the purposes of the administration, collection and recovery of a BID levy;
+  - (d) in relation to Northern Ireland, a district council;
+- “**primary information provider**” has the meaning given in section 89P(2) (primary information providers) of the Financial Services and Markets Act 2000[^f00029];
+- “**registrar of companies**” has the meaning given in section 1060 (the registrar) of the Companies Act 2006;
+- “**reimbursement payment**” means a repayment from the designated person to the person who made a required payment which is of the same amount as that required payment;
+- “**scheme manager**” has the meaning given in section 212 (the scheme manager) of the Financial Services and Markets Act 2000[^f00030];
+- “**sponsor**” has the meaning given in section 88(2) (sponsors) of the Financial Services and Markets Act 2000[^f00031].
+
+### 24. Finance: exception for authorised conduct in a relevant country[^key-ed2ef04f1808e873e4907258ed42c3f3]
+
+(1) Where a person's conduct in a relevant country would, in the absence of this regulation, contravene a prohibition in any of regulations 14 to 18 (asset-freeze etc.) (“the relevant prohibition”), the relevant prohibition is not contravened if the conduct is authorised by a licence or other authorisation which is—
+
+- (a) issued under the law of the relevant country, and
+- (b) for the purpose of disapplying a prohibition in that jurisdiction which corresponds to the relevant prohibition.
+
+(2) In this regulation, “**relevant country**” means—
+
+- (a) any of the Channel Islands;
+- (b) the Isle of Man;
+- (c) any British overseas territory.
+
+### 25. Exception for acts done for purposes of national security or prevention of serious crime[^key-570ceb7ec91ea9df91b9fd5c25804abb]
+
+(1) Where an act would, in the absence of this paragraph, be prohibited by regulation 12(2) (confidentiality) or any prohibition in Part 3 (Finance), that prohibition does not apply to the act if the act is one which a responsible officer has determined would be in the interests of—
+
+- (a) national security, or
+- (b) the prevention or detection of serious crime in the United Kingdom or elsewhere.
+
+(2) Where, in the absence of this paragraph, a thing would be required to be done under or by virtue of a provision of Part 7 (Information and records), that requirement does not apply if a responsible officer has determined that not doing the thing in question would be in the interests of—
+
+- (a) national security, or
+- (b) the prevention or detection of serious crime in the United Kingdom or elsewhere.
+
+(3) In this regulation, “**responsible officer**” means a person in the service of the Crown or holding office under the Crown, acting in the course of that person's duty.
+
+### 26. Treasury licences[^key-9f9ad6391e8a9b184e84c5e0b44fb984]
+
+(1) The prohibitions in regulations 14 to 18 (asset-freeze etc.) do not apply to anything done under the authority of a licence issued by the Treasury under this paragraph.
+
+(2) The Treasury may issue a licence which authorises acts by a particular person only where the Treasury consider that it is appropriate to issue the licence for a purpose set out in Schedule 2 (Treasury licences: purposes).
+
+### 27. Director disqualification licences[^key-68a51210105989e896a4480affd34ec0]
+
+The Secretary of State may issue a licence in relation to any person who is designated under regulation 5 (power to designate persons) for the purposes of regulation 20 (director disqualification sanctions) providing that the prohibitions in—
+
+- (a) section 11A (designated persons under sanctions legislation) of the Company Directors Disqualification Act 1986, and
+- (b) Article 15A (designated persons under sanctions legislation) of the Company Directors Disqualification (Northern Ireland) Order 2002,
+
+do not apply to anything done under the authority of that licence.
+
+### 28. Licences: general provisions[^key-a9d07f1aaf6af121c3d68d37299d1162]
+
+(1) This regulation applies in relation to Treasury licences and director disqualification licences.
+
+(2) A licence must specify the acts authorised by it.
+
+(3) A licence may be general or may authorise acts by a particular person or persons of a particular description.
+
+(4) A licence may—
+
+- (a) contain conditions;
+- (b) be of indefinite duration or a defined duration.
+
+(5) A person who issues a licence may vary, revoke or suspend it at any time.
+
+(6) A person who issues, varies, revokes or suspends a licence which authorises acts by a particular person must give written notice to that person of the issue, variation, revocation or suspension of the licence.
+
+(7) A person who issues, varies, revokes or suspends a general licence or a licence which authorises acts by persons of a particular description must take such steps as that person considers appropriate to publicise the issue, variation, revocation or suspension of the licence.
+
+### 29. Notices[^key-d2d11c4ee5eeef6748c9b85fbde9bc54]
+
+(1) This regulation applies in relation to a notice required by regulation 28(6) (licences: general provisions) to be given to a person.
+
+(2) The notice may be given to an individual—
+
+- (a) by delivering it to the individual,
+- (b) by sending it to the individual by post addressed to the individual at his or her usual or last-known place of residence or business, or
+- (c) by leaving it for the individual at that place.
+
+(3) The notice may be given to a person other than an individual—
+
+- (a) by sending it by post to the proper officer of the body at its principal office, or
+- (b) by addressing it to the proper officer of the body and leaving it at that office.
+
+(4) The notice may be given to the person by electronic means.
+
+(5) The notice may be given to the person by other means with the person's consent.
+
+(6) In this regulation, the reference in paragraph (3) to a “principal office”—
+
+- (a) in relation to a registered company, is to be read as a reference to the company's registered office;
+- (b) in relation to a body incorporated or constituted under the law of a country other than the United Kingdom, includes a reference to the body's principal office in the United Kingdom (if any).
+
+(7) In this regulation—
+
+- “**proper officer**”—
+  - (a) in relation to a body other than a partnership, means the secretary or other executive officer charged with the conduct of the body’s general affairs, and
+  - (b) in relation to a partnership, means a partner or a person who has the control or management of the partnership business;
+- “**registered company**” means a company registered under the enactments relating to companies for the time being in force in the United Kingdom.
+
+### 30. Finance: licensing offences[^key-83e917eaff4ae7e9b8d333addf4f4018]
+
+(1) A person (“**P**”) commits an offence if P knowingly or recklessly—
+
+- (a) provides information that is false in a material respect, or
+- (b) provides or produces a document that is not what it purports to be,
+
+for the purpose of obtaining a Treasury licence (whether for P or anyone else).
+
+(2) A person who purports to act under the authority of a Treasury licence but who fails to comply with any condition of the licence commits an offence.
+
+### 31. Director disqualification: licensing offences[^key-22fe8a3772f3d325610509d5815e19e7]
+
+(1) A person (“**P**”) commits an offence if P knowingly or recklessly—
+
+- (a) provides information that is false in a material respect, or
+- (b) provides or produces a document that is not what it purports to be,
+
+for the purpose of obtaining a director disqualification licence (whether for P or anyone else).
+
+(2) A person who purports to act under the authority of a director disqualification licence but who fails to comply with any condition of the licence commits an offence.
+
+(3) A licence in respect of which an offence under paragraph (1) has been committed is to be treated as void from the time at which it was issued.
+
+### 32. Section 8B(1) to (3) of the Immigration Act 1971: directions[^key-0a69464e53423d5d4c5088a2b741bd07]
+
+(1) The Secretary of State may direct that, in relation to any person within regulation 21 (immigration) whose name is specified, or who is of a specified description, section 8B(1) and (2) (persons excluded from the United Kingdom under certain instruments) of the Immigration Act 1971, or section 8B(3) of that Act, have effect subject to specified exceptions.
+
+(2) A direction under this regulation—
+
+- (a) may contain conditions;
+- (b) must be of a defined duration (and that duration may be expressed in any way, including, for example, being expressed in a way such that the direction ceases to have effect on, or within a specified period after, the occurrence of a specified event).
+
+(3) The Secretary of State may vary, revoke or suspend a direction under this regulation at any time.
+
+(4) On the issue, variation, revocation or suspension of a direction under this regulation, the Secretary of State may take such steps as the Secretary of State considers appropriate to publicise the issue, variation, revocation or suspension of the direction.
+
+(5) In this regulation, “**specified**” means specified in a direction under this regulation.
+
+## Part 7 — Information and records
+
+### 33. Finance: reporting obligations[^key-b347b7f33f2e1d993d31baef908495c1]
+
+(1) A relevant firm must inform the Treasury as soon as practicable if—
+
+- (a) it knows, or has reasonable cause to suspect, that a person—
+  - (i) is a designated person, or
+  - (ii) has breached a prohibition or failed to comply with an obligation under any provision of Part 3 (Finance) or regulation 30 (finance: licensing offences), and
+- (b) the information or other matter on which the knowledge or cause for suspicion is based came to it in the course of carrying on its business.
+
+(2) Where a relevant firm informs the Treasury under paragraph (1), it must state—
+
+- (a) the information or other matter on which the knowledge or suspicion is based, and
+- (b) any information it holds about the person by which the person can be identified.
+
+(3) Paragraph (4) applies if—
+
+- (a) a relevant firm informs the Treasury under paragraph (1) that it knows, or has reasonable cause to suspect, that a person is a designated person, and
+- (b) that person is a customer of the relevant firm.
+
+(4) The relevant firm must also state the nature and amount or quantity of any funds or economic resources held by it for the customer at the time when it first had the knowledge or suspicion.
+
+(5) Where a person (“**P**”) knows, or has reasonable cause to suspect, that P holds funds or economic resources owned, held or controlled by a designated person, P must by no later than 30th November in each calendar year provide a report to the Treasury as to the nature and amount or quantity of those funds or economic resources held by P as of 30th September in that calendar year.
+
+(6) Where a report has been provided further to paragraph (5) but as of 30th September in the following calendar year P no longer holds funds or economic resources owned, held or controlled by the designated person, P must no later than 30th November in that calendar year report this to the Treasury.
+
+(7) For the purposes of paragraphs (5) and (6), funds or economic resources are to be treated as owned, held or controlled by a designated person if they are owned, held or controlled by a person who is owned or controlled directly or indirectly (within the meaning of regulation 9 (meaning of “**owned or controlled directly or indirectly**”)) by the designated person.
+
+(8) A relevant institution must inform the Treasury without delay if that institution—
+
+- (a) credits a frozen account in accordance with regulation 22(4) (finance: exceptions from prohibitions), or
+- (b) transfers funds from a frozen account in accordance with regulation 22(6).
+
+(9) A person who fails to comply with a requirement in paragraph (1), (2) or (4) commits an offence.
+
+(10) A person commits an offence if that person, without reasonable excuse, fails to comply with a requirement in paragraph (5) or (6).
+
+(11) In this regulation—
+
+- “**designated person**” has the same meaning as it has in Part 3;
+- “**frozen account**” has the same meaning as it has in regulation 22;
+- “**relevant firm**” is to be read in accordance with regulation 35 (“relevant firm”);
+- “**relevant institution**” has the same meaning as it has in regulation 22.
+
+### 34. Finance: reporting obligations for required payments[^key-d0da6765c663d4b0b57862a6579c597f]
+
+(1) A designated person must inform the Treasury without delay if they make a required payment.
+
+(2) A person who makes a required payment on behalf of a designated person must inform the Treasury without delay that they have made the required payment.
+
+(3) A person must inform the Treasury without delay if they receive a reimbursement payment.
+
+(4) For the purposes of this regulation, references to a designated person are to be read as including a person who is owned or controlled directly or indirectly (within the meaning of regulation 9 (meaning of “**owned or controlled directly or indirectly**”)) by a designated person.
+
+(5) In this regulation—
+
+- “**designated person**” has the same meaning as it has in Part 3 (Finance);
+- “**reimbursement payment**” has the meaning given in regulation 23(8) (finance: exception from prohibitions for required payments);
+- “**required payment**” has the meaning given in regulation 23(2).
+
+### 35. “Relevant firm”[^key-6d4f709d884030657de8edea8f57e7eb]
+
+(1) The following are relevant firms for the purposes of regulation 33 (finance: reporting obligations for required payments)—
+
+- (a) a person that has permission under [Part 4A](https://www.legislation.gov.uk/ukpga/2000/8/part/4A) (Permission to carry on regulated activities) of the [Financial Services and Markets Act 2000](https://www.legislation.gov.uk/ukpga/2000/8/contents);
+- (b) an undertaking that by way of business—
+  - (i) operates a currency exchange office,
+  - (ii) transmits money (or any representation of monetary value) by any means, or
+  - (iii) cashes cheques that are made payable to customers;
+- (c) a firm or sole practitioner that is—
+  - (i) a statutory auditor within the meaning of [Part 42](https://www.legislation.gov.uk/ukpga/2006/46/part/42) (Statutory Auditors) of the [Companies Act 2006](https://www.legislation.gov.uk/ukpga/2006/46/contents)[^f00032], or
+  - (ii) a local auditor within the meaning of [section 4](https://www.legislation.gov.uk/ukpga/2014/2/section/4) [(1)](https://www.legislation.gov.uk/ukpga/2014/2/section/4) (general requirements for audit) of the [Local Audit and Accountability Act 2014](https://www.legislation.gov.uk/ukpga/2014/2/contents)[^f00033];
+- (d) a firm or sole practitioner that provides to other persons, by way of business—
+  - (i) accountancy services,
+  - (ii) legal or notarial services,
+  - (iii) advice about tax affairs, or
+  - (iv) trust or company services within the meaning of paragraph (2);
+- (e) a firm or sole practitioner that carries out, or whose employees carry out, estate agency work;
+- (f) the holder of a casino operating licence within the meaning given by [section 65](https://www.legislation.gov.uk/ukpga/2005/19/section/65) [(2)](https://www.legislation.gov.uk/ukpga/2005/19/section/65) [(a)](https://www.legislation.gov.uk/ukpga/2005/19/section/65) (nature of a licence) of the [Gambling Act 2005](https://www.legislation.gov.uk/ukpga/2005/19/contents)[^f00034];
+- (g) a person engaged in the business of making, supplying, selling (including selling by auction) or exchanging—
+  - (i) articles made from gold, silver, platinum or palladium, or
+  - (ii) precious stones or pearls;
+- (h) a cryptoasset exchange provider;
+- (i) a custodian wallet provider;
+- (j) a high value dealer;
+- (k) an art market participant;
+- (l) an insolvency practitioner;
+- (m) a firm or sole practitioner (“**P**”) that carries out, or whose employees carry out, letting agency work.
+
+(2) In paragraph (1) “**trust or company services**” means any of the following services—
+
+- (a) forming companies or other legal persons;
+- (b) acting, or arranging for another person to act—
+  - (i) as a director or secretary of a company,
+  - (ii) as a partner of a partnership, or
+  - (iii) in a similar capacity in relation to other legal persons;
+- (c) providing a registered office, business address, correspondence or administrative address or other related services for a company, partnership or any other legal person or arrangement;
+- (d) acting, or arranging for another person to act, as—
+  - (i) a trustee of an express trust or similar legal arrangement, or
+  - (ii) a nominee shareholder for a person.
+
+(3) In paragraph (1)—
+
+- “**estate agency work**” is to be read in accordance with [section 1](https://www.legislation.gov.uk/ukpga/1979/38/section/1) (estate agency work) of the [Estate Agents Act 1979](https://www.legislation.gov.uk/ukpga/1979/38/contents)[^f00035], but as if references in [that section](https://www.legislation.gov.uk/ukpga/1979/38/section/1) to disposing of or acquiring an interest in land included (despite anything in [section 2](https://www.legislation.gov.uk/ukpga/1979/38/section/2) (interests in land) of [that Act](https://www.legislation.gov.uk/ukpga/1979/38/contents)) references to disposing of or acquiring an estate or interest in land outside the United Kingdom where that estate or interest is capable of being owned or held as a separate interest;
+- “**firm**” means any entity that, whether or not a legal person, is not an individual, and includes a body corporate and a partnership or other unincorporated body.
+
+(4) In paragraph (1), a “**cryptoasset exchange provider**” means a firm or sole practitioner that by way of business provides one or more of the following services, including where the firm or sole practitioner does so as creator or issuer of any of the cryptoassets involved—
+
+- (a) exchanging, or arranging or making arrangements with a view to the exchange of, cryptoassets for money or money for cryptoassets,
+- (b) exchanging, or arranging or making arrangements with a view to the exchange of, one cryptoasset for another, or
+- (c) operating a machine which utilises automated processes to exchange cryptoassets for money or money for cryptoassets.
+
+(5) In paragraph (1), a “**custodian wallet provider**” means a firm or sole practitioner that by way of business provides services to safeguard, or to safeguard and administer—
+
+- (a) cryptoassets on behalf of its customers, or
+- (b) private cryptographic keys on behalf of its customers in order to hold, store and transfer cryptoassets.
+
+(6) For the purposes of this regulation—
+
+- (a) “**cryptoasset**” means a cryptographically secured digital representation of value or contractual rights that uses a form of distributed ledger technology and can be transferred, stored or traded electronically;
+- (b) “**money**” means—
+  - (i) money in sterling,
+  - (ii) money in any other currency, or
+  - (iii) money in any other medium of exchange,
+
+  but does not include a cryptoasset; and
+- (c) in sub-paragraphs (a) to (c) of paragraph (4), “**cryptoasset**” includes a right to, or interest in, the cryptoasset.
+
+(7) In paragraph (1), a “**high value dealer**” means a firm or sole trader that by way of business trades in goods (including an auctioneer dealing in goods), when the firm or sole trader makes or receives, in respect of any transaction, a payment or payments in case of at least £10,000 in total, whether the transaction is excuted in a single operation or in several operations which appear to be linked.
+
+(8) In paragraph (1), an “**art market participant**” means, subject to paragraph (9), a firm or sole practitioner that is registered or required to register with the Commissioners for His Majesty’s Revenue and Customs as an art market participant under [regulations 56](https://www.legislation.gov.uk/uksi/2017/692/regulation/56) [(5)](https://www.legislation.gov.uk/uksi/2017/692/regulation/56) and [(6)](https://www.legislation.gov.uk/uksi/2017/692/regulation/56) (requirement to be registered) of the [Money Laundering, Terrorist Financing and Transfer of Funds (Information on the Payer) Regulations 2017](https://www.legislation.gov.uk/uksi/2017/692/contents)[^f00036].
+
+(9) A firm or sole practitioner is not an art market participant for the purposes of paragraph (8) in relation to the sale or storage of a work of art which is created by, or is attributable to, a member of the firm or the sole practitioner.
+
+(10) For the purposes of this regulation, “**work of art**” means anything which, in accordance with section 21(6) to (6B) (value of imported goods) of the Value Added Tax Act 1994[^f00037], is a work of art for the purposes of section 21 (5) (a) of that Act.
+
+(11) In paragraph (1), an “**insolvency practitioner**” means a firm or individual who acts as an insolvency practitioner within the meaning of section 388 (meaning of “**act as insolvency practitioner**”) of the Insolvency Act 1986[^f00038] or Article 3 (“act as insolvency practitioner”) of the Insolvency (Northern Ireland) Order 1989[^f00039].
+
+(12) In paragraph (1), “**letting agency work**” means work—
+
+- (a) consisting of things done in response to instructions received from—
+  - (i) a person (a “prospective landlord”) seeking to find another person to whom to let land for a term of a month or more, or
+  - (ii) a person (a “prospective tenant”) seeking to find land to rent for a term of a month or more, and
+- (b) done—
+  - (i) in relation to a prospective landlord, from the point that the prospective landlord instructs P, or
+  - (ii) otherwise in the course of concluding an agreement for the letting of land for a term of a month or more.
+
+(13) For the purposes of paragraph (12)—
+
+- “**land**” includes part of a building and part of any other structure;
+- “**letting agency work**” does not include the things listed in paragraph (14) when done by, or by employees of, a firm or sole practitioner if neither the firm or sole practitioner, nor any of their employees, does anything else within paragraph (12).
+
+(14) Those things are—
+
+- (a) publishing advertisements or disseminating information;
+- (b) providing a means by which a prospective landlord or a prospective tenant can, in response to an advertisement or dissemination of information, make direct contact with a prospective tenant or a prospective landlord;
+- (c) providing a means by which a prospective landlord and a prospective tenant can communicate directly with each other;
+- (d) the provision of legal or notarial services by a barrister, advocate, solicitor or other legal representative communications with whom may be the subject of a claim to professional privilege or, in Scotland, protected from disclosure in legal proceedings on grounds of confidentiality of communications.
+
+(15) Paragraph (1)(a) and (b) are to be read with [section 22](https://www.legislation.gov.uk/ukpga/2000/8/section/22) (regulated activities) of the [Financial Services and Markets Act 2000](https://www.legislation.gov.uk/ukpga/2000/8/contents), any relevant order under [that section](https://www.legislation.gov.uk/ukpga/2000/8/section/22) and [Schedule 2](https://www.legislation.gov.uk/ukpga/2000/8/schedule/2) (regulated activities) to [that Act](https://www.legislation.gov.uk/ukpga/2000/8/contents).
+
+(16) For the purposes of regulation 33(1) (finance: reporting obligations), information or another matter comes to a relevant firm “in the course of carrying on its business” if the information or other matter comes to the firm—
+
+- (a) in the case of a relevant firm within paragraph (1)(a), in the course of carrying on an activity in respect of which the permission mentioned in that provision is required;
+- (b) in the case of a relevant firm within paragraph (1)(c)(i), in the course of carrying out statutory audit work within the meaning of [section 1210](https://www.legislation.gov.uk/ukpga/2006/46/section/1210) (meaning of statutory auditor) of the [Companies Act 2006](https://www.legislation.gov.uk/ukpga/2006/46/contents)[^f00040];
+- (c) in the case of a relevant firm within paragraph (1)(c)(ii), in the course of carrying out an audit required by the [Local Audit and Accountability Act 2014](https://www.legislation.gov.uk/ukpga/2014/2/contents);
+- (d) in the case of a relevant firm within paragraph (1)(f), in the course of carrying on an activity in respect of which the licence mentioned in that provision is required;
+- (e) in the case of a relevant firm within paragraph (1)(k)—
+  - (i) in the course of trading, or acting as an intermediary in the sale or purchase of, works of art when the value of the transaction, or a series of linked transactions, amounts to £10,000 or more, or
+  - (ii) in the course of storing works of art where the value of the works of art so stored for a person amounts to £10,000 or more;
+- (f) in the case of a relevant firm within any other provision of paragraph (1), in the course of carrying on an activity mentioned in that provision.
+
+### 36. Finance: powers to request information[^key-f12cf4462ece866fd01f7866d5aaa8c0]
+
+(1) The Treasury may request a designated person to provide information about—
+
+- (a) funds or economic resources owned, held or controlled by or on behalf of the designated person, or
+- (b) any disposal of such funds or economic resources.
+
+(2) The Treasury may request a designated person to provide such information as the Treasury may reasonably require about expenditure—
+
+- (a) by the designated person, or
+- (b) for the benefit of the designated person.
+
+(3) For the purposes of paragraph (2) expenditure for the benefit of a designated person includes expenditure on the discharge (or partial discharge) of a financial obligation for which the designated person is wholly or partly responsible.
+
+(4) The power in paragraph (1) or (2) is exercisable only where the Treasury believes that it is necessary for the purpose of monitoring compliance with or detecting evasion of any provision of Part 3 (Finance).
+
+(5) The Treasury may request a person acting under a Treasury licence to provide information about—
+
+- (a) funds or economic resources dealt with under the licence, or
+- (b) funds or economic resources made available under the licence.
+
+(6) The Treasury may request a person to provide information within paragraph (7) if the Treasury believes that the person may be able to provide the information.
+
+(7) Information within this paragraph is such information as the Treasury may reasonably require for the purpose of—
+
+- (a) establishing for the purposes of any provision of Part 3 (Finance)—
+  - (i) the nature and amount or quantity of any funds or economic resources owned, held or controlled by or on behalf of a designated person,
+  - (ii) the nature and amount or quantity of any funds or economic resources made available directly or indirectly to, or for the benefit of, a designated person, or
+  - (iii) the nature of any financial transactions entered into by a designated person;
+- (b) monitoring compliance with or detecting evasion of—
+  - (i) any provision of Part 3,
+  - (ii) regulation 33 (finance: reporting obligations), or
+  - (iii) any condition of a Treasury licence;
+- (c) detecting or obtaining evidence of the commission of an offence under Part 3 or regulation 30 (finance: licensing offences) or 33.
+
+(8) The Treasury may specify the way in which, and the period within which, information is to be provided.
+
+(9) If no such period is specified, the information which has been requested must be provided within a reasonable time.
+
+(10) A request may include a continuing obligation to keep the Treasury informed as circumstances change, or on such regular basis as the Treasury may specify.
+
+(11) Information requested under this regulation may relate to any period of time during which a person is, or was, a designated person.
+
+(12) Information requested by virtue of paragraph (1)(b), (2), or (7)(a)(iii) may relate to any period before a person became a designated person (as well as, or instead of, any subsequent period).
+
+(13) Expressions used in this regulation have the same meaning as they have in Part 3.
+
+### 37. Finance: production of documents[^key-424f789b284e40720c96827625da8458]
+
+(1) A request under regulation 36 (finance: powers to request information) may include a request to produce specified documents or documents of a specified description.
+
+(2) Where the Treasury requests that documents be produced, the Treasury may—
+
+- (a) take copies of or extracts from any document so produced,
+- (b) request any person producing a document to give an explanation of it, and
+- (c) where that person is a body corporate, partnership or unincorporated body other than a partnership, request any person who is—
+  - (i) in the case of a partnership, a present or past partner or employee of the partnership, or
+  - (ii) in any other case, a present or past officer or employee of the body concerned,
+
+  to give such an explanation.
+
+(3) Where the Treasury requests a designated person or a person acting under a Treasury licence to produce documents, that person must—
+
+- (a) take reasonable steps to obtain the documents (if they are not already in the person's possession or control);
+- (b) keep the documents under the person's possession or control (except for the purpose of providing them to the Treasury or as the Treasury may otherwise permit).
+
+(4) In this regulation, “**designated person**” has the same meaning as it has in Part 3 (Finance).
+
+### 38. Finance: information offences[^key-b7fd2eb0bbab15517be2ffc3aa759d1b]
+
+(1) A person commits an offence, if that person—
+
+- (a) without reasonable excuse, refuses or fails within the time and in the manner specified (or, if no time has been specified, within a reasonable time) to comply with any request under regulation 36 (finance: powers to request information);
+- (b) knowingly or recklessly gives any information, or produces any document, which is false in a material particular in response to such a request;
+- (c) with intent to evade any provision of regulation 36 or 37 (finance: production of documents), destroys, mutilates, defaces, conceals or removes any document;
+- (d) otherwise intentionally obstructs the Treasury in the exercise of their powers under regulation 36 or 37.
+
+(2) Where a person is convicted of an offence under this regulation, the court may make an order requiring that person, within such period as may be specified in the order, to comply with the request.
+
+### 39. Disclosure of information[^key-622c07879ee46822134fe92ace721a8f]
+
+(1) The Secretary of State or the Treasury may, in accordance with this regulation, disclose—
+
+- (a) any information obtained under or by virtue of Part 6 (Exceptions and licences) or this Part, or
+- (b) any information held in connection with—
+  - (i) anything done under or by virtue of Part 2 (Designation of persons), Part 3 (Finance) or Part 4 (Director disqualification sanctions), or
+  - (ii) any exception or licence under Part 6 or anything done in accordance with such an exception or under the authority of such a licence.
+
+(2) Information referred to in paragraph (1) may be disclosed for, or in connection with, any of the following purposes—
+
+- (a) any purpose stated in regulation 4 (purposes);
+- (b) the exercise of functions under these Regulations;
+- (c) facilitating, monitoring or ensuring compliance with these Regulations;
+- (d) taking any action with a view to instituting, or otherwise for the purposes of, any proceedings in the United Kingdom—
+  - (i) for an offence under any provision of these Regulations, or
+  - (ii) in relation to a monetary penalty under [section 146](https://www.legislation.gov.uk/ukpga/2017/3/section/146) (breach of financial sanctions legislation) of the [Policing and Crime Act 2017](https://www.legislation.gov.uk/ukpga/2017/3/contents)[^f00041];
+- (e) taking any action with a view to instituting, or otherwise for the purposes of, any proceedings in any of the Channel Islands, the Isle of Man or any British overseas territory for an offence under a provision in any such jurisdiction that is similar to a provision of these Regulations;
+- (f) compliance with an international obligation[^f00042];
+- (g) facilitating the exercise by an authority outside the United Kingdom or by an international organisation of functions which correspond to functions under these Regulations.
+
+(3) Information referred to in paragraph (1) may be disclosed to the following persons—
+
+- (a) a police officer;
+- (b) any person holding or acting in any office under or in the service of—
+  - (i) the Crown in right of the Government of the United Kingdom,
+  - (ii) the Crown in right of the Scottish Government, the Northern Ireland Executive or the Welsh Government,
+  - (iii) the States of Jersey, Guernsey or Alderney or the Chief Pleas of Sark,
+  - (iv) the Government of the Isle of Man, or
+  - (v) the Government of any British overseas territory;
+- (c) any law officer of the Crown for Jersey, Guernsey or the Isle of Man;
+- (d) the Scottish Legal Aid Board;
+- (e) the Financial Conduct Authority, the Prudential Regulation Authority, the Bank of England, the Jersey Financial Services Commission, the Guernsey Financial Services Commission or the Isle of Man Financial Services Authority;
+- (f) any other regulatory body (whether or not in the United Kingdom);
+- (g) any organ of the United Nations;
+- (h) the Council of the European Union, the European Commission or the European External Action Service;
+- (i) the Government of any country;
+- (j) any other person where the Secretary of State or the Treasury (as the case may be) consider that it is appropriate to disclose the information.
+
+(4) Information referred to in paragraph (1) may be disclosed to any person with the consent of a person who, in their own right, is entitled to the information.
+
+(5) In paragraph (4), “**in their own right**” means not merely in the capacity as a servant or agent of another person.
+
+(6) In paragraph (1)(b), the reference to information includes information obtained at a time when any provision of these Regulations is not in force.
+
+### 40. Finance: disclosure to the Treasury[^key-3bd68dd92408a9f61bddaa5a1deaad8d]
+
+(1) A relevant public authority may disclose information to the Treasury if the disclosure is made for the purpose of enabling or assisting the Treasury to discharge any of its functions in connection with any sanctions regulations[^f00043] contained in these Regulations.
+
+(2) In this regulation—
+
+- “**relevant public authority**” means—
+  - (a) any person holding or acting in any office under or in the service of—
+    - (i) the Crown in right of the Government of the United Kingdom;
+    - (ii) the Crown in right of the Scottish Government, the Northern Ireland Executive or the Welsh Government;
+  - (b) any local authority;
+  - (c) any police officer;
+  - (d) the Financial Conduct Authority, the Prudential Regulation Authority, the Bank of England or any other regulatory body in the United Kingdom;
+  - (e) any other person exercising functions of a public nature;
+- “**local authority**” means—
+  - (a) in relation to England—
+    - (i) a county council;
+    - (ii) a district council;
+    - (iii) a London Borough council;
+    - (iv) the Common Council of the City of London in its capacity as a local authority;
+    - (v) the Council of the Isles of Scilly;
+    - (vi) an eligible parish council within the meaning of [section 1](https://www.legislation.gov.uk/ukpga/2000/22/section/1) [(2)](https://www.legislation.gov.uk/ukpga/2000/22/section/1) (meaning of “**local authority**” in Part I) of the [Local Government Act 2000](https://www.legislation.gov.uk/ukpga/2000/22/contents)[^f00044];
+  - (b) in relation to Wales, a county council, a county borough council or a community council;
+  - (c) in relation to Scotland, a council constituted under [section 2](https://www.legislation.gov.uk/ukpga/1994/39/section/2) (constitution of councils) of the [Local Government etc. (Scotland) Act 1994](https://www.legislation.gov.uk/ukpga/1994/39/contents)[^f00045];
+  - (d) in relation to Northern Ireland, a district council.
+
+### 41. Part 7: supplementary[^key-5f0f2e1fe6f3c97d8c635728ecfc214e]
+
+(1) A disclosure of information under regulation 39 (disclosure of information) or 40 (finance: disclosure to the Treasury) does not breach any restriction on such disclosure imposed by statute or otherwise.
+
+(2) But nothing in those regulations authorises a disclosure that—
+
+- (a) contravenes the data protection legislation, or
+- (b) is prohibited by any of [Parts 1](https://www.legislation.gov.uk/ukpga/2016/25/part/1) (General privacy protections) to [7](https://www.legislation.gov.uk/ukpga/2016/25/part/7) (Bulk personal dataset warrants) or [Chapter 1](https://www.legislation.gov.uk/ukpga/2016/25/part/9/chapter/1) of [Part 9](https://www.legislation.gov.uk/ukpga/2016/25/part/9) (Miscellaneous and general provisions) of the [Investigatory Powers Act 2016](https://www.legislation.gov.uk/ukpga/2016/25/contents)[^f00046].
+
+(3) Nothing in this Part is to be read as requiring a person who has acted or is acting as counsel or solicitor for any person to disclose any privileged information in their possession in that capacity.
+
+(4) Regulations 39 and 40 do not limit the circumstances in which information may be disclosed apart from those regulations.
+
+(5) Nothing in this Part limits any conditions which may be contained in a Treasury licence.
+
+(6) In this regulation—
+
+- “**the data protection legislation**” has the same meaning as in the [Data Protection Act 2018](https://www.legislation.gov.uk/ukpga/2018/12/contents) (see section 3 (terms relating to the processing of personal data) of that Act)[^f00047];
+- “**privileged information**” means information with respect to which a claim to legal professional privilege (in Scotland, to confidentiality of communications) could be maintained in legal proceedings.
+
+## Part 8 — Enforcement
+
+### 42. Penalties for offences[^key-0a4ae60c02f01d720708527b5de06277]
+
+(1) A person who commits an offence under any provision of Part 3 (Finance) or regulation 30 (finance: licensing offences) is liable—
+
+- (a) on summary conviction in England and Wales, to imprisonment for a term not exceeding the general limit in a magistrates’ court or a fine (or both);
+- (b) on summary conviction in Scotland, to imprisonment for a term not exceeding 12 months or a fine not exceeding the statutory maximum (or both);
+- (c) on summary conviction in Northern Ireland, to imprisonment for a term not exceeding 6 months or a fine not exceeding the statutory maximum (or both);
+- (d) on conviction on indictment, to imprisonment for a term not exceeding 7 years or a fine (or both).
+
+(2) A person who commits an offence under regulation 12(6) (confidential information in certain cases where designation power used) or 31 (director disqualification: licensing offences) is liable—
+
+- (a) on summary conviction in England and Wales, to imprisonment for a term not exceeding the general limit in a magistrates’ court or a fine (or both);
+- (b) on summary conviction in Scotland, to imprisonment for a term not exceeding 12 months or a fine not exceeding the statutory maximum (or both);
+- (c) on summary conviction in Northern Ireland, to imprisonment for a term not exceeding 6 months or a fine not exceeding the statutory maximum (or both);
+- (d) on conviction on indictment, to imprisonment for a term not exceeding 2 years or a fine (or both).
+
+(3) A person who commits an offence under regulation 33(9) or (10) (finance: reporting obligations) or regulation 38 (finance: information offences) is liable—
+
+- (a) on summary conviction in England and Wales, to imprisonment for a term not exceeding 6 months or a fine (or both);
+- (b) on summary conviction in Scotland, to imprisonment for a term not exceeding 6 months or a fine not exceeding level 5 on the standard scale (or both);
+- (c) on summary conviction in Northern Ireland, to imprisonment for a term not exceeding 6 months or a fine not exceeding level 5 on the standard scale (or both).
+
+### 43. Liability of officers of bodies corporate etc.[^key-02042055cf0fce52701f4a426c55b95d]
+
+(1) Where an offence under these Regulations, committed by a body corporate—
+
+- (a) is committed with the consent or connivance of any director, manager, secretary or other similar officer of the body corporate, or any person who was purporting to act in any such capacity, or
+- (b) is attributable to any neglect on the part of any such person,
+
+that person as well as the body corporate is guilty of the offence and is liable to be proceeded against and punished accordingly.
+
+(2) In paragraph (1), “**director**”, in relation to a body corporate whose affairs are managed by its members, means a member of the body corporate.
+
+(3) Paragraph (1) also applies in relation to a body that is not a body corporate, with the substitution for the reference to a director of the body of a reference—
+
+- (a) in the case of a partnership, to a partner;
+- (b) in the case of an unincorporated body other than a partnership—
+  - (i) where the body’s affairs are managed by its members, to a member of the body;
+  - (ii) in any other case, to a member of the governing body.
+
+### 44. Jurisdiction to try offences[^key-2e322281fa72ee00e0e948cf4aa482c1]
+
+(1) Wherever an offence under these Regulations is committed (whether in the United Kingdom or outside the United Kingdom)—
+
+- (a) proceedings for the offence may be taken at any place in the United Kingdom, and
+- (b) the offence may for all incidental purposes be treated as having been committed at any such place.
+
+(2) In the application of paragraph (1) to Scotland, any such proceedings against a person may be taken—
+
+- (a) in any sheriff court district in which the person is apprehended or is in custody, or
+- (b) in such sheriff court district as the Lord Advocate may determine.
+
+(3) In paragraph (2), “**sheriff court district**” is to be read in accordance with the Criminal Procedure (Scotland) Act 1995 (see section 307(1) (interpretation) of that Act)[^f00048].
+
+### 45. Procedure for offences by unincorporated bodies[^key-4b3383442f56ba912a015e3ca21c6d46]
+
+(1) Paragraphs (2) and (3) apply if it is alleged that an offence under these Regulations has been committed by an unincorporated body (as opposed to by a member of the body).
+
+(2) Proceedings in England and Wales or Northern Ireland for such an offence must be brought against the body in its own name.
+
+(3) For the purposes of proceedings for such an offence brought against an unincorporated body—
+
+- (a) rules of court relating to the service of documents have effect as if the body were a body corporate;
+- (b) the following provisions apply as they apply in relation to a body corporate—
+  - (i) section 33 (procedure on charge of offence against corporation) of the Criminal Justice Act 1925[^f00049] and Schedule 3 (Corporations) to the Magistrates' Courts Act 1980[^f00050];
+  - (ii) section 18 (procedure on charge) of the Criminal Justice Act (Northern Ireland) 1945[^f00051] and Article 166 (corporations) of, and Schedule 4 (Corporations) to, the Magistrates' Courts (Northern Ireland) Order 1981[^f00052].
+
+(4) A fine imposed on an unincorporated body on its conviction of an offence under these Regulations is to be paid out of the funds of the body.
+
+### 46. Time limit for proceedings for summary offences[^key-452f94cdfbd4d32ed71487ce74ef9e7d]
+
+(1) Proceedings for an offence under these Regulations which is triable only summarily may be brought within the period of 12 months beginning with the date on which evidence sufficient in the opinion of the prosecutor to justify the proceedings comes to the prosecutor's knowledge.
+
+(2) But such proceedings may not be brought by virtue of paragraph (1) more than 3 years after the commission of the offence.
+
+(3) A certificate signed by the prosecutor as to the date on which the evidence in question came to the prosecutor's knowledge is conclusive evidence of the date on which it did so; and a certificate to that effect and purporting to be so signed is to be treated as being so signed unless the contrary is proved.
+
+(4) In relation to proceedings in Scotland—
+
+- (a) [section 136](https://www.legislation.gov.uk/ukpga/1995/46/section/136) [(3)](https://www.legislation.gov.uk/ukpga/1995/46/section/136) (date of commencement of summary proceedings) of the [Criminal Procedure (Scotland) Act 1995](https://www.legislation.gov.uk/ukpga/1995/46/contents)[^f00053] applies for the purposes of this regulation as it applies for the purposes of [that section](https://www.legislation.gov.uk/ukpga/1995/46/section/136), and
+- (b) references in this regulation to the prosecutor are to be treated as references to the Lord Advocate.
+
+### 47. Application of Chapter 1 of Part 2 of the Serious Organised Crime and Police Act 2005[^key-a3e65e3cbc483921d382fd573811fcd9]
+
+Chapter 1 of Part 2 (Investigatory powers) of the Serious Organised Crime and Police Act 2005[^f00054] applies to any offence under Part 3 (Finance) or regulation 30 (finance: licensing offences).
+
+## Part 9 — Revocation and transitional provision
+
+### 48. Revocation of the Global Human Rights Sanctions Regulations[^key-8d34a97efebc34d780824216e1f26b91]
+
+The Global Human Rights Sanctions Regulations 2020[^f00055] are revoked.
+
+### 49. Transitional provision: designations[^key-5e9672d88913d11f185245256de722b1]
+
+(1) This regulation applies to a person (“**P**”) who, immediately before the relevant date, was designated by the Secretary of State under regulation 5 (power to designate persons) of the 2020 Regulations for the purposes of—
+
+- (a) regulations 11 to 15 (asset-freeze etc.) of those Regulations,
+- (b) regulation 16A (director disqualification) of those Regulations, or
+- (c) regulation 17 (immigration) of those Regulations.
+
+(2) P is to be treated on and after the relevant date as if P had been designated by the Secretary of State under regulation 5(1) (power to designate persons by name) for the purposes of (as the case may be)—
+
+- (a) regulations 14 to 18 (asset-freeze etc.),
+- (b) regulation 20 (director disqualification), or
+- (c) regulation 21 (immigration).
+
+(3) Any reference in a provision mentioned in paragraph (4) to the date on which P became a designated person is a reference to the date on which P was designated by the Secretary of State under regulation 5 of the 2020 Regulations.
+
+(4) The provisions referred to in paragraph (3) are—
+
+- (a) regulation 6(6) (conditions for the designation of persons by name),
+- (b) regulation 22(5) (finance: exceptions from prohibitions), and
+- (c) paragraph 8(a) of Schedule 2 (Treasury licences: purposes).
+
+### 50. Transitional provision: Treasury licences[^key-32406af764b99f43ad6d8ba948000469]
+
+(1) Paragraphs (2) to (4) apply to a licence which—
+
+- (a) was issued by the Treasury under regulation 20(1) (Treasury licences) of the 2020 Regulations,
+- (b) was in effect immediately before the relevant date, and
+- (c) authorises conduct which would on and after the relevant date, and in the absence of paragraphs (2) to (4) be prohibited under Part 3 (Finance),
+
+and such a licence is referred to in this regulation as an “**existing Treasury licence**”.
+
+(2) An existing Treasury licence has effect on and after the relevant date as if it had been issued by the Treasury under regulation 26(1) (Treasury licences).
+
+(3) Any reference in an existing Treasury licence to the 2020 Regulations is to be treated on and after the relevant date as a reference to these Regulations.
+
+(4) Any reference in an existing Treasury licence to a prohibition in Part 3 (Finance) of the 2020 Regulations is to be treated on and after the relevant date as a reference to the corresponding prohibition in Part 3.
+
+(5) Paragraph (6) applies where—
+
+- (a) an application for a licence, or for the variation of a licence, under the 2020 Regulations was made before the relevant date,
+- (b) the application is for the authorisation of conduct which would (on or after the relevant date) be prohibited under Part 3, and
+- (c) a decision to grant or refuse the application has not been made before that date.
+
+(6) The application is to be treated on and after the relevant date as an application for a licence, or for the variation of a licence (as the case may be), under regulation 26(1).
+
+### 51. Transitional provision: director disqualification licences[^key-dcc7aec23d331c2a41414f1f9cc683a6]
+
+(1) Paragraphs (2) to (4) apply to a licence granted by the Secretary of State which—
+
+- (a) was issued by the Secretary of State under regulation 20A (director disqualification licences) of the 2020 Regulations,
+- (b) was in effect immediately before the relevant date, and
+- (c) authorises an act which would (on and after the relevant date, and in the absence of paragraphs (2) to (4)) be prohibited under Part 4 (Director disqualification sanctions),
+
+and such a licence is referred to in this regulation as an “**existing director disqualification licence**”.
+
+(2) An existing director disqualification licence has effect on and after the relevant date as if it were a licence which had been issued by the Secretary of State under regulation 27 (director disqualification licences).
+
+(3) Any reference in an existing director disqualification licence to the 2020 Regulations is to be treated on and after the relevant date as a reference to these Regulations.
+
+(4) Any reference in an existing director disqualification licence to a prohibition in Part 3A (Director disqualification sanctions) of the 2020 Regulations is to be treated on and after the relevant date as a reference to the corresponding prohibition in Part 4.
+
+(5) Paragraph (6) applies where—
+
+- (a) an application for a licence, or for a variation of a licence, under the 2020 Regulations was made before the relevant date,
+- (b) the application is for the authorisation of conduct which would (on and after the relevant date) be prohibited under Part 4, and
+- (c) a decision to grant or refuse the application has not been made before that date.
+
+(6) The application is to be treated on and after the relevant date as an application for a licence, or for the variation of a licence (as the case may be), under regulation 27.
+
+### 52. Interpretation of Part 9[^key-22871e340fd5b9e24ade2495191ef7bc]
+
+In this Part—
+
+- “**the 2020 Regulations**” means the Global Human Rights Sanctions Regulations 2020;
+- “**relevant date**” means the date on which these Regulations come into force.
+
+Stephen Doughty
+
+Minister of State
+
+Foreign, Commonwealth and Development Office
+
+12th October 2026
+
+SCHEDULES
+
+## Schedule 1 — Rules for interpretation of regulation 9(2)
+
+Regulation 9(3)
+
+### 1. Application of Schedule[^key-78647ffa1c074fad504d9fd6866805a7]
+
+(1) The rules set out in the following paragraphs of this Schedule apply for the purpose of interpreting regulation 9(2) (meaning of “**owned or controlled directly or indirectly**”).
+
+(2) They also apply for the purpose of interpreting this Schedule.
+
+### 2. Joint interests[^key-fbf7aafe0bfe1c87b4867aa7eaf6adbf]
+
+If two or more persons each hold a share or right jointly, each of them is treated as holding that share or right.
+
+### 3. Joint arrangements[^key-c94cc81884385d8c870355383b42ddbc]
+
+(1) If shares or rights held by a person and shares or rights held by another person are the subject of a joint arrangement between those persons, each of them is treated as holding the combined shares or rights of both of them.
+
+(2) A “joint arrangement” is an arrangement between the holders of shares or rights that they will exercise all or substantially all the rights conferred by their respective shares or rights jointly in a way that is pre-determined by the arrangement.
+
+(3) “**Arrangement**” has the meaning given by paragraph 12 of this Schedule.
+
+### 4. Calculating shareholdings[^key-544e059e5cc0bc531d5cf95f635bf3a4]
+
+(1) In relation to a person who has a share capital, a reference to holding “more than 50% of the shares” in that person is to holding shares comprised in the issued share capital of that person of a nominal value exceeding (in aggregate) 50% of that share capital.
+
+(2) In relation to a person who does not have a share capital—
+
+- (a) a reference to holding shares in that person is to holding a right or rights to share in the capital or, as the case may be, profits of that person;
+- (b) a reference to holding “more than 50% of the shares” in that person is to holding a right or rights to share in more than 50% of the capital or, as the case may be, profits of that person.
+
+### 5. Voting rights[^key-50f3b4305211a787fba646d8d5ef23a5]
+
+(1) A reference to the voting rights in a person is to the rights conferred on shareholders in respect of their shares (or, in the case of a person not having a share capital, on members) to vote at general meetings of the person on all or substantially all matters.
+
+(2) In relation to a person that does not have general meetings at which matters are decided by the exercise of voting rights—
+
+- (a) a reference to holding voting rights in the person is to be read as a reference to holding rights in relation to the person that are equivalent to those of a person entitled to exercise voting rights in a company;
+- (b) a reference to holding “more than 50% of the voting rights” in the person is to be read as a reference to holding the right under the constitution of the person to block changes to the overall policy of the person or to the terms of its constitution.
+
+**6.**[^key-6a837e06f4fcca0403a5ae40a658b7c0] In applying regulation 9(2) (meaning of “**owned or controlled directly or indirectly**”) and this Schedule, the voting rights in a person are to be reduced by any rights held by the person itself.
+
+### 7. Rights to appoint or remove members of the board[^key-657236c9318924de4a8b7ab80b50f55c]
+
+A reference to the right to appoint or remove a majority of the board of directors of a person is to the right to appoint or remove directors holding a majority of the voting rights at meetings of the board on all or substantially all matters.
+
+**8.**[^key-81805ba92416764604ffe2a52445e140] A reference to a board of directors, in the case of a person who does not have such a board, is to be read as a reference to the equivalent management body of that person.
+
+### 9. Shares or rights held “indirectly”[^key-1f7f3136cd675f3748ca36d100a238b4]
+
+(1) A person holds a share “indirectly” if the person has a majority stake in another person and that other person—
+
+- (a) holds the share in question, or
+- (b) is part of a chain of persons—
+  - (i) each of whom (other than the last) has a majority stake in the person immediately below it in the chain, and
+  - (ii) the last of whom holds the share.
+
+(2) A person holds a right “indirectly” if the person has a majority stake in another person and that other person—
+
+- (a) holds that right, or
+- (b) is part of a chain of persons—
+  - (i) each of whom (other than the last) has a majority stake in the person immediately below it in the chain, and
+  - (ii) the last of whom holds that right.
+
+(3) For these purposes, a person (“**A**”) has a “majority stake” in another person (“**B**”) if—
+
+- (a) A holds a majority of the voting rights in B,
+- (b) A is a member of B and has the right to appoint or remove a majority of the board of directors of B,
+- (c) A is a member of B and controls alone, pursuant to an agreement with other shareholders or members, a majority of the voting rights in B, or
+- (d) A has the right to exercise, or actually exercises, dominant influence or control over B.
+
+(4) In the application of this paragraph to the right to appoint or remove a majority of the board of directors, a person (“**A**”) is to be treated as having the right to appoint a director if—
+
+- (a) any person's appointment as director follows necessarily from that person's appointment as director of A, or
+- (b) the directorship is held by A itself.
+
+### 10. Shares held by nominees[^key-330215d80f45fddaf4af197269f8fde4]
+
+A share held by a person as nominee for another is to be treated as held by the other (and not by the nominee).
+
+### 11. Rights treated as held by person who controls their exercise[^key-2c6c5d45934a490547ede5f79fb58e94]
+
+(1) Where a person controls a right, the right is to be treated as held by that person (and not by the person who in fact holds the right, unless that person also controls it).
+
+(2) A person “controls” a right if, by virtue of any arrangement between that person and others, the right is exercisable only—
+
+- (a) by that person,
+- (b) in accordance with that person's directions or instructions, or
+- (c) with that person's consent or concurrence.
+
+**12.**[^key-0253333edfcc67cd7d7b73358ca94f75] “**Arrangement**” includes—
+
+- (a) any scheme, agreement or understanding, whether or not it is legally enforceable, and
+- (b) any convention, custom or practice of any kind.
+
+### 13. Rights exercisable only in certain circumstances etc.[^key-ea8880f78e637fee8a3fb57be42fdceb]
+
+(1) Rights that are exercisable only in certain circumstances are to be taken into account only—
+
+- (a) when the circumstances have arisen, and for so long as they continue to obtain, or
+- (b) when the circumstances are within the control of the person having the rights.
+
+(2) But rights that are exercisable by an administrator or by creditors while a person is subject to relevant insolvency proceedings are not to be taken into account while the person is subject to those proceedings.
+
+(3) “**Relevant insolvency proceedings**” means—
+
+- (a) administration within the meaning of the Insolvency Act 1986,
+- (b) administration within the meaning of the Insolvency (Northern Ireland) Order 1989, or
+- (c) proceedings under the insolvency law of another country during which a person's assets and affairs are subject to the control or supervision of a third party or creditor.
+
+(4) Rights that are normally exercisable but are temporarily incapable of exercise are to continue to be taken into account.
+
+### 14. Rights attached to shares held by way of security[^key-1a55937ac4c4b92d31853dea14edb3ad]
+
+Rights attached to shares held by way of security provided by a person are to be treated for the purposes of this Schedule as held by that person—
+
+- (a) where, apart from the right to exercise them for the purpose of preserving the value of the security, or of realising it, the rights are exercisable only in accordance with that person's instructions, and
+- (b) where the shares are held in connection with the granting of loans as part of normal business activities and apart from the right to exercise them for the purpose of preserving the value of the security, or of realising it, the rights are exercisable only in that person's interests.
+
+## Schedule 2 — Treasury licences: purposes
+
+Regulation 26(2)
+
+### 1. Interpretation[^key-db30f20b6c059a1a1099a9d6a70d649a]
+
+(1) In this Schedule—
+
+- “**designated person**” has the same meaning as it has in Part 3 (Finance);
+- “**frozen account**” has the same meaning as in regulation 22 (finance: exceptions from prohibitions);
+- “**frozen funds or economic resources**” means funds or economic resources frozen by virtue of regulation 14 (asset-freeze in relation to designated persons).
+
+(2) For the purposes of this Schedule, references to a designated person are to be read as including a person (“**C**”) who is owned or controlled directly or indirectly (within the meaning of regulation 9 (meaning of “**owned or controlled directly or indirectly**”)) by the designated person (“**P**”).
+
+(3) When determining for the purposes of paragraph 8 when a person became a designated person, C is to be treated as having become a designated person at the same time as P.
+
+### 2. Basic needs[^key-f37ac2bf074b2b2b021f423a9ce78eee]
+
+(1) To enable the basic needs of a designated person, or (in the case of an individual) any dependent family member of such a person, to be met.
+
+(2) In the case of an individual, in sub-paragraph (1) “**basic needs**” includes—
+
+- (a) medical needs;
+- (b) needs for—
+  - (i) food;
+  - (ii) payment of insurance premiums;
+  - (iii) payment of tax;
+  - (iv) rent or mortgage payments;
+  - (v) utility payments.
+
+(3) In the case of a person other than an individual, in sub-paragraph (1) “**basic needs**” includes needs for—
+
+- (a) payment of insurance premiums;
+- (b) payment of reasonable fees for the provision of property management services;
+- (c) payment of remuneration, allowances or pensions of employees;
+- (d) payment of tax;
+- (e) rent or mortgage payments;
+- (f) utility payments.
+
+(4) In sub-paragraph (1)—
+
+- “**dependent**” means financially dependent;
+- “**family member**” includes—
+  - (a) the wife or husband of the designated person;
+  - (b) the civil partner of the designated person;
+  - (c) any parent or other ascendant of the designated person;
+  - (d) any child or other descendant of the designated person;
+  - (e) any person who is a brother or sister of the designated person, or a child or other descendant of such a person.
+
+### 3. Legal services[^key-320904252a4d3e875de2d02200121d93]
+
+To enable the payment of—
+
+- (a) reasonable professional fees for the provision of legal services, or
+- (b) reasonable expenses associated with the provision of legal services.
+
+### 4. Maintenance of frozen funds and economic resources[^key-ef1f9947155d7a0d6e74f0dc17d1a424]
+
+To enable the payment of—
+
+- (a) reasonable fees, or
+- (b) reasonable service charges,
+
+arising from the routine holding or maintenance of frozen funds or economic resources.
+
+### 5. Extraordinary expenses[^key-e9ce72a42cfd59440b76a028f95feb66]
+
+To enable an extraordinary expense of a designated person to be met.
+
+### 6. Judicial decisions etc.[^key-f350f2d41afe689f02f92c75bf10e368]
+
+To enable the implementation or satisfaction (in whole or in part) of a judicial, administrative or arbitral decision or lien which is enforceable in the United Kingdom (the “judicial decision”), provided that—
+
+- (a) where funds or economic resources are made available to a designated person, they are credited to a frozen account or otherwise frozen by virtue of regulation 14 (asset-freeze in relation to designated persons);
+- (b) where funds or economic resources are made available by a person (including a designated person) to a designated person to enable the implementation or satisfaction of a judicial decision, no other designated person benefits, directly or indirectly.
+
+### 7. Extraordinary situation[^key-6061edade2757d82f346062ba0bd4e2d]
+
+To enable anything to be done to deal with an extraordinary situation.
+
+### 8. Prior obligations[^key-aa9b5fa7b77637075009e5c3cf2a42cf]
+
+To enable the satisfaction of an obligation of a designated person (whether arising under a contract, other agreement or otherwise), provided that—
+
+- (a) the obligation arose before the date on which the person became a designated person, and
+- (b) no payments are made to another designated person, whether directly or indirectly.
+
+### 9. Diplomatic missions etc.[^key-964f6e70c36c7d7cd6c3edfa094501fd]
+
+(1) To enable anything to be done in order that the functions of a diplomatic mission or consular post, or of an international organisation enjoying immunities in accordance with international law, may be carried out.
+
+(2) In this paragraph—
+
+- “**consular post**” has the same meaning as in the Vienna Convention on Consular Relations done at Vienna on 24 April 1963[^f00056], and any reference to the functions of a consular post is to be read in accordance with that Convention;
+- “**diplomatic mission**” and any reference to the functions of a diplomatic mission are to be read in accordance with the Vienna Convention on Diplomatic Relations done at Vienna on 18 April 1961[^f00057].
+
+### 10. Humanitarian assistance activity[^key-f3a91278235094b2e9651b01afaa5cab]
+
+(1) To enable anything to be done in connection with the performance of any humanitarian assistance activity.
+
+(2) In sub-paragraph (1), “**humanitarian assistance activity**” includes the work of international and non-governmental organisations carrying out relief activities for the benefit of the civilian population of a country.
+
+### 11. Insolvency[^key-0d327fb90afbe2ed2f6fb95e228fca6c]
+
+(1) To enable anything to be done in connection with—
+
+- (a) any insolvency and restructuring proceedings relating to an insolvent person,
+- (b) any other relevant proceedings relating to a person other than an individual, or
+- (c) proceedings under the insolvency law of a country other than the United Kingdom that correspond to the proceedings in paragraph (a) or (b),
+
+provided that any payments made directly or indirectly to a designated person are credited to a frozen account.
+
+(2) In this paragraph—
+
+- “**enactment**” has the meaning given in section 54(6) (regulations: general) of the Act;
+- “**insolvency and restructuring proceedings**” includes—
+  - (a) the regimes and proceedings set out in Parts A1 (Moratorium) to 6 (Miscellaneous provisions applying to companies which are insolvent or in liquidation) of the Insolvency Act 1986[^f00058], Parts 1A (Moratorium) to 7 (Miscellaneous provisions applying to companies which are insolvent or in liquidation) of the Insolvency (Northern Ireland) Order 1989[^f00059] and so much of Part 1 (Introductory) of that Order as applies for the purposes of those Parts, but excluding—
+    - (i) proceedings under Chapter 3 of Part 4 (Members’ voluntary winding up) of the Insolvency Act 1986[^f00060], and
+    - (ii) proceedings under Chapter 3 of Part 5 (Members’ voluntary winding up) of the Insolvency (Northern Ireland) Order 1989[^f00061];
+  - (b) arrangements and reconstructions under Part 26 (Arrangements and reconstructions: general) of the Companies Act 2006;
+  - (c) arrangements and reconstructions for companies in financial difficulty under Part 26A (Arrangements and reconstructions: companies in financial difficulty) of the Companies Act 2006[^f00062];
+  - (d) the proceedings and arrangements set out in the Bankruptcy (Scotland) Act 2016[^f00063];
+- “**insolvent person**” means a person (“**P**”), other than an individual, where—
+  - (a) P is unable to pay its debts as they fall due, or
+  - (b) the value of P’s assets is less than the amount of its liabilities, taking into account its contingent and prospective liabilities;
+- “**other relevant proceedings**” means—
+  - (a) the regimes and proceedings set out in—
+    - (i) sections 367 (winding-up petitions) and 377A to 377J (write-down orders, etc.) of, or Schedule 19C (insurers in financial difficulties: enforcement of contracts) to, the Financial Services and Markets Act 2000[^f00064];
+    - (ii) the Insurers (Reorganisation and Winding Up) (Lloyd’s) Regulations 2005[^f00065];
+    - (iii) Parts 1 to 3 (Special resolution regime, etc.) of the Banking Act 2009[^f00066] (including Parts 2 (Bank insolvency) and 3 (Bank administration) as applied to building societies[^f00067] by section 90C (application of bank insolvency and administration legislation to building societies) of the Building Societies Act 1986[^f00068]);
+    - (iv) The Investment Bank Special Administration Regulations 2011[^f00069];
+    - (v) Part 6 (Special administration for operators of certain infrastructure systems) of the Financial Services (Banking Reform) Act 2013[^f00070];
+    - (vi) the Payment and Electronic Money Institution Insolvency Regulations 2021[^f00071];
+    - (vii) Schedule 11 (central counterparties) to the Financial Services and Markets Act 2023;
+  - (b) proceedings under any other special administration regime;
+- “**special administration regime**” means provision made by an enactment for an insolvency procedure that—
+  - (a) is similar or corresponds to the ordinary administration procedure provided for by Schedule B1 (administration) to the Insolvency Act 1986[^f00072] or Schedule B1 (administration) to the Insolvency (Northern Ireland) Order 1989[^f00073], and
+  - (b) provides for the administrator to have one or more special objectives instead of or in addition to the objectives of ordinary administration.
+
+Explanatory Note
+
+(This note is not part of the Regulations)
+
+These Regulations are made under the Sanctions and Anti-Money Laundering Act [2018 (c. 13)](https://www.legislation.gov.uk/ukpga/2018/13) to establish a sanctions regime for the purposes of: deterring, and providing accountability for: activities which, if carried out by or on behalf of a State, would amount to serious violations of certain human rights by that State; serious violations of international humanitarian law; and obstruction of the delivery or distribution of, or access to humanitarian assistance around the world.
+
+The Regulations revoke and replace the Global Human Rights Sanctions Regulations 2020 ([S.I. 2020/680](https://www.legislation.gov.uk/uksi/2020/680)) (“**the 2020 Regulations**”).
+
+The Regulations confer a power on the Secretary of State to designate persons who are, or have been, involved: in activities which, if carried out by or on behalf of a State, would amount to serious violations of certain human rights by that State; in serious violations of international humanitarian law; or in the obstruction of the delivery or distribution of, or access to, humanitarian assistance. Designated persons may be excluded from the United Kingdom, may be made subject to financial sanctions, including having their funds or economic resources frozen, and may be made subject to director disqualification sanctions.
+
+The Regulations provide for certain exceptions to this sanctions regime (for example to allow for frozen accounts to be credited with interest or other earnings and to allow acts done for the purpose of national security or the prevention of serious crime). The Regulations also confer powers on the Treasury to issue licences in respect of activities that would otherwise be prohibited under the asset freeze, etc. provisions in regulations 14 to 18. Schedule 2 sets out the purposes under which the Treasury will issue licences to particular persons. The Regulations also confer powers on the Secretary of State to issue licences in respect of activities that would otherwise be prohibited under the director disqualification sanctions imposed.
+
+The Regulations prescribe powers for the provision and sharing of information to enable the effective implementation and enforcement of the sanctions regime. The Regulations make it a criminal offence to contravene, or circumvent, any of the prohibitions in these Regulations and prescribe the mode of trial and penalties that apply to such offences.
+
+The Regulations also contain supplementary provision, including transitional provision to ensure that designations made and licences issued under the 2020 Regulations continue to have effect under these Regulations.
+
+A full impact assessment has not been produced for this instrument as no, or no significant, impact on the private, voluntary or public sector is foreseen. Instead a de minimis assessment has been prepared as this instrument is likely to entail some costs for businesses, but the net impact is estimated to be below £5 million per year.
+
+## Annotations
+
+[^f00001]: Footnote: The power to make regulations under Part 1 of the Sanctions and Anti-Money Laundering Act [2018 (c. 13)](https://www.legislation.gov.uk/ukpga/2018/13) is conferred on an “appropriate Minister”. Section 1(9)(a) of that Act defines an “appropriate Minister” as including the Secretary of State.
+
+[^f00002]: Footnote: [2018 c. 13](https://www.legislation.gov.uk/ukpga/2018/13). Section 17(5)(b)(i) (enforcement) is amended by the Sentencing Act [2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), Schedule 24, paragraph 443(1). Sections 1, 11 and 16 are amended by the Economic Crime (Transparency and Enforcement) Act [2022 (c. 10)](https://www.legislation.gov.uk/ukpga/2022/10), sections 57, 58, 59 and 65. Section 3A and 15(3A) and (3B) were inserted by the Economic Crime and Corporate Transparency Act [2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), section 35(3) and is in force only for the limited purpose of conferring power to make regulations.
+
+[^key-30f58e8fa85c8a4acb5610a1a2b99e25]: Commencement: Reg. 1 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
+
+[^key-6c68d539158a11cbdf1ca5718cd538b5]: Commencement: Reg. 2 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
+
+[^key-6e2dad3d65a047f9d2255da4c98674a0]: Commencement: Reg. 3 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
+
+[^key-10359b80678e8d11eec1ca1e7c3a41dd]: Commencement: Reg. 4 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
+
+[^key-b737ae84634820fe043dbb07975c41e6]: Commencement: Reg. 5 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
+
+[^key-6e9e25bc65e7d900d7d339ccff5461b0]: Commencement: Reg. 6 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
+
+[^key-994980f4e1c5d681fff6ea10a332a421]: Commencement: Reg. 7 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
+
+[^key-3abdb0f064c397f6ae52dc50f7ee4f5a]: Commencement: Reg. 8 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
+
+[^key-78aa42749bd505b0d75595f89607664c]: Commencement: Reg. 9 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
+
+[^key-e9ab468f4bd53a15f661cd1ce8a50a01]: Commencement: Reg. 10 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
+
+[^key-43a79cb5378c0e29b5905f7ff24468e5]: Commencement: Reg. 11 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
+
+[^key-cb52d9f2a576ec89022ef0a4de5480e3]: Commencement: Reg. 12 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
+
+[^key-f8d6a4e3a8b297bed346ad8199a65ab7]: Commencement: Reg. 13 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
+
+[^key-a01ca945eb009ca8a7beeea5096d1a0c]: Commencement: Reg. 14 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
+
+[^key-b51261f81773b43a178d5137a327ede3]: Commencement: Reg. 15 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
+
+[^key-75ffaea77b6f00e622ecae7fc2eb7b68]: Commencement: Reg. 16 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
+
+[^key-8ee0742aef6848f9f8e6e352ae375d6d]: Commencement: Reg. 17 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
+
+[^key-ef1697a7eb22c4ee2c2f9da0df1b49df]: Commencement: Reg. 18 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
+
+[^key-1c6778437d9c5089ec2ba5995f5c476e]: Commencement: Reg. 19 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
+
+[^key-d686a1180f7924b03fa427fb8c823d3a]: Commencement: Reg. 20 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
+
+[^f00003]: Footnote: [1986 c. 46](https://www.legislation.gov.uk/ukpga/1986/46). Section 11A was inserted the Economic Crime and Corporate Transparency Act 2023, section 36.
+
+[^f00004]: Footnote: [S.I. 2002/3150 (N.I. 4)](https://www.legislation.gov.uk/nisi/2002/3150). Article 15A was inserted by the Economic Crime and Corporate Transparency Act 2023, section 38.
+
+[^key-57ea23320bf83ce29c926baad23bbc9b]: Commencement: Reg. 21 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
+
+[^f00005]: Footnote: [1971 c. 77](https://www.legislation.gov.uk/ukpga/1971/77). Section 8B was inserted by the Immigration and Asylum Act [1999 (c. 33)](https://www.legislation.gov.uk/ukpga/1999/33), section 8, and amended by the Immigration Act [2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), section 76, and by the Sanctions and Anti-Money Laundering Act 2018, section 59 and Part 1 of Schedule 3.
+
+[^key-4b59013ef7b7b298fd28b102b811f370]: Commencement: Reg. 22 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
+
+[^f00006]: Footnote: [2000 c. 8](https://www.legislation.gov.uk/ukpga/2000/8/contents). [Section 142D](https://www.legislation.gov.uk/ukpga/2000/8/section/142D) was inserted by the [Financial Services (Banking Reform) Act 2013 (c. 33)](https://www.legislation.gov.uk/ukpga/2013/33/contents), section 4(1).
+
+[^f00007]: Footnote: [Section 142A](https://www.legislation.gov.uk/ukpga/2000/8/section/142A) was inserted by the Financial Services (Banking Reform) Act [2013 (c. 33)](https://www.legislation.gov.uk/ukpga/2013/33), section 4(1).
+
+[^f00008]: Footnote: [Part 4A](https://www.legislation.gov.uk/ukpga/2000/8/part/4A) was inserted by the [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21/contents), [section 11](https://www.legislation.gov.uk/ukpga/2012/21/section/11) [(2)](https://www.legislation.gov.uk/ukpga/2012/21/section/11) and most recently amended by the Financial Services Act [2021 (c. 22)](https://www.legislation.gov.uk/ukpga/2021/22), [section 28](https://www.legislation.gov.uk/uksi/2018/135/section/28) and Schedule 11, paragraphs 2 and 3; the [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29/contents), [sections 20](https://www.legislation.gov.uk/ukpga/2023/29/section/20) [(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/20) and [86](https://www.legislation.gov.uk/ukpga/2023/29/section/86), Schedule 5, [paragraphs 4 to 12](https://www.legislation.gov.uk/ukpga/2023/29/schedule/5/paragraph/4) and Schedule 8, paragraph 4; [S.I. 2021/1376](https://www.legislation.gov.uk/uksi/2021/1376/contents); [S.I. 2023/612](https://www.legislation.gov.uk/uksi/2023/612/contents); [S.I. 2023/1410](https://www.legislation.gov.uk/uksi/2023/1410/contents); and [S.I. 2023/1424](https://www.legislation.gov.uk/uksi/2023/1424/contents).
+
+[^f00009]: Footnote: Section 22 was amended by the [Financial Services Act 2012](https://www.legislation.gov.uk/ukpga/2012/21/contents), section 7(1); the [Financial Guidance and Claims Act 2018 (c. 10)](https://www.legislation.gov.uk/ukpga/2018/10/contents), section 27(4); the [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29/contents), section 69(3); [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113/contents); [S.I. 2018/135](https://www.legislation.gov.uk/uksi/2018/135/contents) and [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779/contents).
+
+[^f00010]: Footnote: [S.I. 2001/544](https://www.legislation.gov.uk/uksi/2001/544/contents) as most recently amended by [S.I. 2021/494](https://www.legislation.gov.uk/uksi/2021/494); [S.I. 2021/90](https://www.legislation.gov.uk/uksi/2021/90/contents); [S.I. 2022/466](https://www.legislation.gov.uk/uksi/2022/466/contents); [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582/contents); [S.I. 2022/726](https://www.legislation.gov.uk/uksi/2022/726/contents); [S.I. 2023/1411](https://www.legislation.gov.uk/uksi/2023/1411/contents); [S.I. 2024/105](https://www.legislation.gov.uk/uksi/2024/105/contents); and [S.I. 2024/169](https://www.legislation.gov.uk/uksi/2024/169/contents).
+
+[^f00011]: Footnote: Schedule 2 was amended by the [Regulation of Financial Services (Land Transactions) Act 2005 (c. 24)](https://www.legislation.gov.uk/ukpga/2005/24/contents), section 1; the [Dormant Bank and Building Society Accounts Act 2008 (c. 31)](https://www.legislation.gov.uk/ukpga/2008/31/contents), section 15 and Schedule 2, paragraph 1; the [Financial Services Act 2012](https://www.legislation.gov.uk/ukpga/2012/21/contents), sections 7(2) to (5) and 8; the [Financial Guidance and Claims Act 2018 (c. 10)](https://www.legislation.gov.uk/ukpga/2018/10/contents), section 27(13); [S.I. 2013/1881](https://www.legislation.gov.uk/uksi/2013/1881/contents); [S.I. 2018/135](https://www.legislation.gov.uk/uksi/2018/135/contents); and [S.I. 2019/632](https://www.legislation.gov.uk/uksi/2019/632/contents).
+
+[^key-e5488865aa4d7d178e3f2e7c2bdc02f0]: Commencement: Reg. 23 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
+
+[^f00012]: Footnote: [2000 c. 8](https://www.legislation.gov.uk/ukpga/2000/8); section 213 was amended by the Banking Act [2009 (c. 1)](https://www.legislation.gov.uk/ukpga/2009/1), section 170(2); by the Financial Services Act [2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), section 122(3) and Schedules 2, 8 and 10; [S.I. 2017/701](https://www.legislation.gov.uk/uksi/2017/701); [S.I. 2018/1149](https://www.legislation.gov.uk/uksi/2018/1149); [S.I. 2022/466](https://www.legislation.gov.uk/uksi/2022/466).
+
+[^f00013]: Footnote: A company registered in England and Wales with number 02486368.
+
+[^f00014]: Footnote: [2006 asp 17](https://www.legislation.gov.uk/asp/2006/17).
+
+[^f00015]: Footnote: [2018 c. 13](https://www.legislation.gov.uk/ukpga/2018/13); section 54(6)(e) was amended by [S.I. 2023/1424](https://www.legislation.gov.uk/uksi/2023/1424).
+
+[^f00016]: Footnote: [S.I. 2024/105](https://www.legislation.gov.uk/uksi/2024/105).
+
+[^f00017]: Footnote: Section 79 was amended by the Financial Services Act 2012, section 16(2) and (3)(a); and by [S.I. 2005/1433](https://www.legislation.gov.uk/uksi/2005/1433) and [2024/105](https://www.legislation.gov.uk/uksi/2024/105).
+
+[^f00018]: Footnote: Section 81 was amended by the Financial Services Act 2012, section 16(2) and (3)(a).
+
+[^f00019]: Footnote: [1988 c. 41](https://www.legislation.gov.uk/ukpga/1988/41).
+
+[^f00020]: Footnote: [S.I. 1977/2157 (N.I. 28)](https://www.legislation.gov.uk/nisi/1977/2157). Section 1(4) of the Departments Act (Northern Ireland) [2016 (c. 5)](https://www.legislation.gov.uk/ukpga/2016/5) renamed the Department of Finance and Personnel (as referenced in the 1977 Order) the Department of Finance.
+
+[^f00021]: Footnote: [1975 c. 30](https://www.legislation.gov.uk/ukpga/1975/30).
+
+[^f00022]: Footnote: [1988 c. 41](https://www.legislation.gov.uk/ukpga/1988/41).
+
+[^f00023]: Footnote: [1992 c. 14](https://www.legislation.gov.uk/ukpga/1992/14).
+
+[^f00024]: Footnote: [2003 c. 26](https://www.legislation.gov.uk/ukpga/2003/26).
+
+[^f00025]: Footnote: [2009 c. 7](https://www.legislation.gov.uk/ukpga/2009/7).
+
+[^f00026]: Footnote: [2013 c. 5 (N.I.)](https://www.legislation.gov.uk/nia/2013/5).
+
+[^f00027]: Footnote: [2006 c. 46](https://www.legislation.gov.uk/ukpga/2006/46).
+
+[^f00028]: Footnote: [1994 c. 39](https://www.legislation.gov.uk/ukpga/1994/39); section 2 was amended by the Environment Act [1995 (c. 25)](https://www.legislation.gov.uk/ukpga/1995/25), paragraph 232(1) of Schedule 22.
+
+[^f00029]: Footnote: Section 89P was inserted by the Financial Services Act 2012, section 19(1).
+
+[^f00030]: Footnote: Section 212 was amended by the Financial Services Act 2012, Schedule 10, paragraph 2, the Financial Services (Banking Reform) Act [2013 (c. 33)](https://www.legislation.gov.uk/ukpga/2013/33), section 16 and the Financial Services and Markets Act 2023, section 62(2).
+
+[^f00031]: Footnote: Section 88 was amended by the Financial Services Act 2012, section 16(2) and 16(3).
+
+[^key-ed2ef04f1808e873e4907258ed42c3f3]: Commencement: Reg. 24 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
+
+[^key-570ceb7ec91ea9df91b9fd5c25804abb]: Commencement: Reg. 25 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
+
+[^key-9f9ad6391e8a9b184e84c5e0b44fb984]: Commencement: Reg. 26 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
+
+[^key-68a51210105989e896a4480affd34ec0]: Commencement: Reg. 27 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
+
+[^key-a9d07f1aaf6af121c3d68d37299d1162]: Commencement: Reg. 28 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
+
+[^key-d2d11c4ee5eeef6748c9b85fbde9bc54]: Commencement: Reg. 29 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
+
+[^key-83e917eaff4ae7e9b8d333addf4f4018]: Commencement: Reg. 30 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
+
+[^key-22fe8a3772f3d325610509d5815e19e7]: Commencement: Reg. 31 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
+
+[^key-0a69464e53423d5d4c5088a2b741bd07]: Commencement: Reg. 32 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
+
+[^key-b347b7f33f2e1d993d31baef908495c1]: Commencement: Reg. 33 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
+
+[^key-d0da6765c663d4b0b57862a6579c597f]: Commencement: Reg. 34 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
+
+[^key-6d4f709d884030657de8edea8f57e7eb]: Commencement: Reg. 35 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
+
+[^f00032]: Footnote: [2006 c. 46](https://www.legislation.gov.uk/ukpga/2006/46/contents).
+
+[^f00033]: Footnote: [2014 c. 2](https://www.legislation.gov.uk/ukpga/2014/2/contents).
+
+[^f00034]: Footnote: [2005 c. 19](https://www.legislation.gov.uk/ukpga/2005/19/contents).
+
+[^f00035]: Footnote: [1979 c. 38](https://www.legislation.gov.uk/ukpga/1979/38/contents). Section 1 was amended by the [Law Reform (Miscellaneous Provisions) (Scotland) Act 1985 (c. 73)](https://www.legislation.gov.uk/ukpga/1985/73/contents), paragraph 40 of Schedule 1; the Planning (Consequential Provisions) Act [1990 (c. 11)](https://www.legislation.gov.uk/ukpga/1990/11), paragraph 42 of Schedule 2; the Planning (Consequential Provisions) (Scotland) Act [1997 (c. 11)](https://www.legislation.gov.uk/ukpga/1997/11), paragraph 28 of Schedule 2; the Enterprise and Regulatory Reform Act [2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), section 70; [S.I. 2000/121](https://www.legislation.gov.uk/uksi/2000/121); and [S.I. 2001/1281](https://www.legislation.gov.uk/uksi/2001/1281).
+
+[^f00036]: Footnote: [S.I. 2017/692](https://www.legislation.gov.uk/uksi/2017/692/contents); relevant amendments were made by [S.I. 2019/1511](https://www.legislation.gov.uk/uksi/2019/1511/contents) and [2020/991](https://www.legislation.gov.uk/uksi/2020/991/contents).
+
+[^f00037]: Footnote: [1994 c. 23](https://www.legislation.gov.uk/ukpga/1994/23/contents); section 21(6) was originally inserted by the [Finance Act 1995 (c. 4)](https://www.legislation.gov.uk/ukpga/1995/4/contents); subsections (6) to (6B) were inserted by the Finance Act [1999 (c. 16)](https://www.legislation.gov.uk/ukpga/1999/16), section 12(2).
+
+[^f00038]: Footnote: [1986 c. 45](https://www.legislation.gov.uk/ukpga/1986/45/contents); section 388 was amended by the [Bankruptcy (Scotland) Act 1993 (c. 6)](https://www.legislation.gov.uk/ukpga/1993/6/contents), section 11(1); by the [Insolvency Act 2000 (c. 39)](https://www.legislation.gov.uk/ukpga/2000/39/contents), section 4(2); by the [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20/contents), Schedule 6, paragraph 2(11)(f); by the [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12/contents), Schedule 3, paragraph 21; and by [S.I. 1994/2421](https://www.legislation.gov.uk/uksi/1994/2421/contents), [2002/1240](https://www.legislation.gov.uk/uksi/2002/1240/contents), [2002/2708](https://www.legislation.gov.uk/uksi/2002/2708/contents), [2009/1941](https://www.legislation.gov.uk/uksi/2009/1941/contents), [2016/1034](https://www.legislation.gov.uk/uksi/2016/1034/contents) and [2019/146](https://www.legislation.gov.uk/uksi/2019/146/contents).
+
+[^f00039]: Footnote: [S.I. 1989/2405 (N.I. 19)](https://www.legislation.gov.uk/nisi/1989/2405/contents). Article 3 was amended by the [Insolvency (Amendment) Act (Northern Ireland) 2016 (c. 2) (N.I.)](https://www.legislation.gov.uk/nia/2016/2/contents), Schedule 4 by the Corporate Insolvency and Governance Act [2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), Schedule 7, paragraph 4; by [S.R. 1995 No. 225](https://www.legislation.gov.uk/nisr/1995/225), and [and](https://www.legislation.gov.uk/nisr/2003/550); by [S.I. 2002/3152 (N.I. 6)](https://www.legislation.gov.uk/nisi/2002/3152/contents); and by [S.I. 2009/1941](https://www.legislation.gov.uk/uksi/2009/1941/contents) and [2019/146](https://www.legislation.gov.uk/uksi/2019/146/contents).
+
+[^f00040]: Footnote: Section 1210 was amended by [S.I. 2008/565](https://www.legislation.gov.uk/uksi/2008/565/contents); [S.I. 2008/567](https://www.legislation.gov.uk/uksi/2008/567/contents); [S.I. 2008/1950](https://www.legislation.gov.uk/uksi/2008/1950/contents); [S.I. 2011/99](https://www.legislation.gov.uk/uksi/2011/99/contents); [S.I. 2012/1809](https://www.legislation.gov.uk/uksi/2012/1809/contents); [S.I. 2013/3115](https://www.legislation.gov.uk/uksi/2013/3115/contents); [S.I. 2017/516](https://www.legislation.gov.uk/uksi/2017/516/contents); [S.I. 2017/1164](https://www.legislation.gov.uk/uksi/2017/1164/contents); and [S.I. 2019/177](https://www.legislation.gov.uk/uksi/2019/177/contents).
+
+[^key-f12cf4462ece866fd01f7866d5aaa8c0]: Commencement: Reg. 36 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
+
+[^key-424f789b284e40720c96827625da8458]: Commencement: Reg. 37 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
+
+[^key-b7fd2eb0bbab15517be2ffc3aa759d1b]: Commencement: Reg. 38 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
+
+[^key-622c07879ee46822134fe92ace721a8f]: Commencement: Reg. 39 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
+
+[^f00041]: Footnote: [2017 c. 3](https://www.legislation.gov.uk/ukpga/2017/3/contents). Section 146 was amended by the [Economic Crime (Transparency and Enforcement) Act 2022 (c. 10)](https://www.legislation.gov.uk/ukpga/2022/10/contents), section 54.
+
+[^f00042]: Footnote: Section 1(8) of the Act defines an “international obligation” as an obligation of the United Kingdom created or arising by or under any international agreement.
+
+[^key-3bd68dd92408a9f61bddaa5a1deaad8d]: Commencement: Reg. 40 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
+
+[^f00043]: Footnote: “**Sanctions regulations**” has the meaning given in section 1(5) of the Sanctions and Anti-Money Laundering Act 2018; section 1(5) was amended by the Economic Crime and Corporate Transparency Act 2023, section 35(2).
+
+[^f00044]: Footnote: [2000 c. 22](https://www.legislation.gov.uk/ukpga/2000/22/contents).
+
+[^f00045]: Footnote: [1994 c. 39](https://www.legislation.gov.uk/ukpga/1994/39/contents). Section 2 has been amended by the [Environment Act 1995 (c. 25)](https://www.legislation.gov.uk/ukpga/1995/25/contents), [Schedule 22](https://www.legislation.gov.uk/ukpga/1995/25/schedule/22), [paragraph 232](https://www.legislation.gov.uk/ukpga/1995/25/schedule/22/paragraph/232).
+
+[^key-5f0f2e1fe6f3c97d8c635728ecfc214e]: Commencement: Reg. 41 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
+
+[^f00046]: Footnote: [2016 c. 25](https://www.legislation.gov.uk/ukpga/2016/25/contents). Amendments have been made most recently by the Sanctions and Anti-Money Laundering Act 2018, section 59(4), Schedule 3, paragraph 7; the [Counter-Terrorism and Border Security Act 2019 (c. 3)](https://www.legislation.gov.uk/ukpga/2019/3/contents), Schedule 4, paragraph 33; the Crime (Overseas Production Orders) Act 2019 (c. 5), section 16; the Armed Forces Act 2021, (c. 35), section 24(1) and Schedule 5, paragraphs 44 and 45 and Schedule 4, paragraph 2; the [Finance (No. 2) Act 2023 (c. 30), section 352](https://www.legislation.gov.uk/ukpga/2023/30/section/352); the National Security Act 2023 (c. 32), Schedule 18, paragraph 10; the Northern Ireland Troubles (Legacy and Reconciliation) Act 2023 (c. 41), Schedule 13, paragraph 9; [S.I. 2018/378](https://www.legislation.gov.uk/uksi/2018/378/contents); [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652/contents); [S.I. 2018/905](https://www.legislation.gov.uk/uksi/2018/905/contents); [S.I. 2018/1123](https://www.legislation.gov.uk/uksi/2018/1123/contents); [S.I. 2019/419](https://www.legislation.gov.uk/uksi/2019/419/contents); [S.I. 2019/742](https://www.legislation.gov.uk/uksi/2019/742/contents); [S.I. 2019/939](https://www.legislation.gov.uk/uksi/2019/939/contents); [S.I. 2020/661](https://www.legislation.gov.uk/uksi/2020/661/contents); [S.I. 2020/360](https://www.legislation.gov.uk/uksi/2020/360/contents); [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792/contents); [S.I. 2023/149](https://www.legislation.gov.uk/uksi/2023/149/contents); [S.I. 2023/621](https://www.legislation.gov.uk/uksi/2023/621/contents); and [S.I. 2024/514](https://www.legislation.gov.uk/uksi/2024/514/contents).
+
+[^f00047]: Footnote: [2018 c. 12](https://www.legislation.gov.uk/ukpga/2018/12/contents). There are amendments to this Act that are not relevant to these Regulations.
+
+[^key-0a4ae60c02f01d720708527b5de06277]: Commencement: Reg. 42 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
+
+[^key-02042055cf0fce52701f4a426c55b95d]: Commencement: Reg. 43 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
+
+[^key-2e322281fa72ee00e0e948cf4aa482c1]: Commencement: Reg. 44 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
+
+[^f00048]: Footnote: [1995 c. 46](https://www.legislation.gov.uk/ukpga/1995/46).
+
+[^key-4b3383442f56ba912a015e3ca21c6d46]: Commencement: Reg. 45 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
+
+[^f00049]: Footnote: [1925 c. 86](https://www.legislation.gov.uk/ukpga/1925/86) as amended by the Statute Law (Repeals) Act [2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), section 1(1) and Schedule 1, Part 17. Other amendments have been made to section 33 that are not relevant to these Regulations.
+
+[^f00050]: Footnote: [1980 c. 43](https://www.legislation.gov.uk/ukpga/1980/43). Amendments have been made to Schedule 3 that are not relevant to these Regulations.
+
+[^f00051]: Footnote: [1945 c. 15 (N.I.)](https://www.legislation.gov.uk/apni/1945/15).
+
+[^f00052]: Footnote: [S.I. 1981/1675 (N.I. 26)](https://www.legislation.gov.uk/nisi/1981/1675).
+
+[^key-452f94cdfbd4d32ed71487ce74ef9e7d]: Commencement: Reg. 46 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
+
+[^f00053]: Footnote: [1995 c. 46](https://www.legislation.gov.uk/ukpga/1995/46/contents).
+
+[^key-a3e65e3cbc483921d382fd573811fcd9]: Commencement: Reg. 47 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
+
+[^f00054]: Footnote: [2005 c. 15](https://www.legislation.gov.uk/ukpga/2005/15). Chapter 1 of Part 2 has been amended by the Terrorism Act [2006 (c. 11)](https://www.legislation.gov.uk/ukpga/2006/11), section 33(3) and (4); the Northern Ireland (Miscellaneous Provisions) Act [2006 (c. 33)](https://www.legislation.gov.uk/ukpga/2006/33), sections 26(2) and 30(2) and Schedules 3 and 5; the Bribery Act [2010 (c. 23)](https://www.legislation.gov.uk/ukpga/2010/23), section 17(2) and Schedule 1; the Criminal Justice and Licensing (Scotland) Act [2010 (asp. 13)](https://www.legislation.gov.uk/asp/2010/13), section 203 and Schedule 7, paragraph 77; the Crime and Courts Act [2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), section 15 and Schedule 8, paragraphs 157 and 159; the Criminal Finances Act [2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22), section 51(1); the Sanctions and Anti-Money Laundering Act 2018, section 59(4) and Schedule 3, paragraph 4; the Economic Crime and Corporate Transparency Act [2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), section 206; [S.I. 2006/1629](https://www.legislation.gov.uk/uksi/2006/1629); [S.I. 2014/834](https://www.legislation.gov.uk/uksi/2014/834); and [S.I. 2023/149](https://www.legislation.gov.uk/uksi/2023/149).
+
+[^key-8d34a97efebc34d780824216e1f26b91]: Commencement: Reg. 48 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
+
+[^f00055]: Footnote: [S.I. 2020/680](https://www.legislation.gov.uk/uksi/2020/680).
+
+[^key-5e9672d88913d11f185245256de722b1]: Commencement: Reg. 49 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
+
+[^key-32406af764b99f43ad6d8ba948000469]: Commencement: Reg. 50 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
+
+[^key-dcc7aec23d331c2a41414f1f9cc683a6]: Commencement: Reg. 51 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
+
+[^key-22871e340fd5b9e24ade2495191ef7bc]: Commencement: Reg. 52 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
+
+[^key-78647ffa1c074fad504d9fd6866805a7]: Commencement: Sch. 1 para. 1 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
+
+[^key-fbf7aafe0bfe1c87b4867aa7eaf6adbf]: Commencement: Sch. 1 para. 2 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
+
+[^key-c94cc81884385d8c870355383b42ddbc]: Commencement: Sch. 1 para. 3 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
+
+[^key-544e059e5cc0bc531d5cf95f635bf3a4]: Commencement: Sch. 1 para. 4 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
+
+[^key-50f3b4305211a787fba646d8d5ef23a5]: Commencement: Sch. 1 para. 5 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
+
+[^key-6a837e06f4fcca0403a5ae40a658b7c0]: Commencement: Sch. 1 para. 6 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
+
+[^key-657236c9318924de4a8b7ab80b50f55c]: Commencement: Sch. 1 para. 7 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
+
+[^key-81805ba92416764604ffe2a52445e140]: Commencement: Sch. 1 para. 8 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
+
+[^key-1f7f3136cd675f3748ca36d100a238b4]: Commencement: Sch. 1 para. 9 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
+
+[^key-330215d80f45fddaf4af197269f8fde4]: Commencement: Sch. 1 para. 10 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
+
+[^key-2c6c5d45934a490547ede5f79fb58e94]: Commencement: Sch. 1 para. 11 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
+
+[^key-0253333edfcc67cd7d7b73358ca94f75]: Commencement: Sch. 1 para. 12 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
+
+[^key-ea8880f78e637fee8a3fb57be42fdceb]: Commencement: Sch. 1 para. 13 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
+
+[^key-1a55937ac4c4b92d31853dea14edb3ad]: Commencement: Sch. 1 para. 14 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
+
+[^key-db30f20b6c059a1a1099a9d6a70d649a]: Commencement: Sch. 2 para. 1 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
+
+[^key-f37ac2bf074b2b2b021f423a9ce78eee]: Commencement: Sch. 2 para. 2 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
+
+[^key-320904252a4d3e875de2d02200121d93]: Commencement: Sch. 2 para. 3 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
+
+[^key-ef1f9947155d7a0d6e74f0dc17d1a424]: Commencement: Sch. 2 para. 4 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
+
+[^key-e9ce72a42cfd59440b76a028f95feb66]: Commencement: Sch. 2 para. 5 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
+
+[^key-f350f2d41afe689f02f92c75bf10e368]: Commencement: Sch. 2 para. 6 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
+
+[^key-6061edade2757d82f346062ba0bd4e2d]: Commencement: Sch. 2 para. 7 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
+
+[^key-aa9b5fa7b77637075009e5c3cf2a42cf]: Commencement: Sch. 2 para. 8 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
+
+[^key-964f6e70c36c7d7cd6c3edfa094501fd]: Commencement: Sch. 2 para. 9 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
+
+[^f00056]: Footnote: United Nations Treaty Series, vol. 596, p. 261.
+
+[^f00057]: Footnote: United Nations Treaty Series, vol. 500, p. 95.
+
+[^key-f3a91278235094b2e9651b01afaa5cab]: Commencement: Sch. 2 para. 10 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
+
+[^key-0d327fb90afbe2ed2f6fb95e228fca6c]: Commencement: Sch. 2 para. 11 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
+
+[^f00058]: Footnote: [1986 c. 45](https://www.legislation.gov.uk/ukpga/1986/45); Part A1 was inserted by the Corporate Insolvency and Governance Act 2020, section 1(1).
+
+[^f00059]: Footnote: [S.I. 1989/2405 (N.I. 19)](https://www.legislation.gov.uk/nisi/1989/2405); Part 1A was inserted by the Corporate Insolvency and Governance Act 2020, section 4(1).
+
+[^f00060]: Footnote: Section 92A was inserted by the Legislative Reform (Insolvency) (Miscellaneous Provisions) Order 2010 ([S.I. 2010/18](https://www.legislation.gov.uk/uksi/2010/18)), article 6 and amended by the Public Services Reform (Insolvency) (Scotland) Order 2016 ([S.S.I. 2016/141](https://www.legislation.gov.uk/ssi/2016/141)), articles 1(2) to (4) and 5(1)(a) and (b) and the Small Business, Enterprise and Employment Act 2015, section 164; section 93 was repealed by the Public Services Reform (Corporate Insolvency and Bankruptcy) (Scotland) Order 2017 ([S.S.I. 2017/209](https://www.legislation.gov.uk/ssi/2017/209)), articles 1(2) and 8(3); section 94 was substituted for specific purposes in England and Wales by the Small Business, Enterprise and Employment Act 2015, section 164(1) and Schedule 9, paragraph 18; section 95 was amended by the Legislative Reform (Insolvency) (Miscellaneous Provisions) Order 2010 ([S.I. 2010/18](https://www.legislation.gov.uk/uksi/2010/18)), article 5(2)(a) and (b), in relation to England and Wales by the Small Business, Enterprise and Employment Act [2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), section 164(1) and Schedule 9, paragraphs 19(2), (3), (4) and (5), and in relation to Scotland by the Public Services Reform (Insolvency) (Scotland) Order 2016, articles 1(2) to (4) and 8(a) to (c); Section 96 was substituted and amended for specific purposes in England and Wales by the Small Business, Enterprise and Employment Act 2015, section 164(1) and Schedule 9, paragraph 20(1) and (2).
+
+[^f00061]: Footnote: Article 80(3A) and (3B) was omitted by virtue of the Insolvency (Amendment) (EU Exit) Regulations 2019 ([S.I. 2019/146](https://www.legislation.gov.uk/uksi/2019/146)), regulation 1(2).
+
+[^f00062]: Footnote: Part 26A was inserted by the Corporate Insolvency and Governance Act 2020, Schedule 9, paragraph 1.
+
+[^f00063]: Footnote: [2016 asp 21](https://www.legislation.gov.uk/asp/2016/21).
+
+[^f00064]: Footnote: Section 367 was amended by the Financial Services Act 2012, Schedule 14, paragraph 14; by the Financial Services and Markets Act [2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), section 1(1), Schedule 1, Part 4 (to be appointed); and by [S.I. 2015/575](https://www.legislation.gov.uk/uksi/2015/575). Sections 377A to 377J were inserted by the Financial Services and Markets Act 2023, Schedule 12, paragraph 1(4). Schedule 19C was inserted by the Financial Services and Markets Act 2023, Schedule 13, paragraph 1(3).
+
+[^f00065]: Footnote: [S.I. 2005/1998](https://www.legislation.gov.uk/uksi/2005/1998).
+
+[^f00066]: Footnote: [2009 c. 1](https://www.legislation.gov.uk/ukpga/2009/1).
+
+[^f00067]: Footnote: A “building society” is defined in section 119(1) of the Building Societies Act [1986 (c. 53)](https://www.legislation.gov.uk/ukpga/1986/53).
+
+[^f00068]: Footnote: [1986 c. 53](https://www.legislation.gov.uk/ukpga/1986/53). Section 90C was inserted by [S.I. 2009/805](https://www.legislation.gov.uk/uksi/2009/805).
+
+[^f00069]: Footnote: [S.I. 2011/245](https://www.legislation.gov.uk/uksi/2011/245).
+
+[^f00070]: Footnote: [2013 c. 33](https://www.legislation.gov.uk/ukpga/2013/33).
+
+[^f00071]: Footnote: [S.I. 2021/716](https://www.legislation.gov.uk/uksi/2021/716).
+
+[^f00072]: Footnote: Schedule B1 was inserted by the Enterprise Act [2002 (c. 40)](https://www.legislation.gov.uk/ukpga/2002/40), Schedule 16.
+
+[^f00073]: Footnote: Schedule B1 was inserted by [S.I. 2005/1455 (N.I. 10)](https://www.legislation.gov.uk/nisi/2005/1455).

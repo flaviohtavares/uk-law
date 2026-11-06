@@ -1,0 +1,155 @@
+---
+title: The Tope (Prohibition of Fishing) Order 2008
+id: uksi/2008/691
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2008-03-09'
+text_date: '2020-12-31'
+extent: E+W+S+NI
+source_url: https://www.legislation.gov.uk/uksi/2008/691
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2008/691/pdfs/uksiem_20080691_en.pdf
+- http://www.legislation.gov.uk/uksi/2008/691/pdfs/uksi_20080691_en.pdf
+- http://www.legislation.gov.uk/uksi/2008/691/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Tope (Prohibition of Fishing) Order 2008
+
+> Text as at 2020-12-31.
+>
+> Extent: England, Wales, Scotland, NI.
+
+*Extent: E+W+S+NI*
+
+2008 No. 691
+
+Sea Fisheries, England
+
+The Tope (Prohibition of Fishing) Order 2008
+
+Made
+
+9th March 2008
+
+Laid before Parliament
+
+13th March 2008
+
+Coming into force
+
+6th April 2008
+
+The Secretary of State for Environment, Food and Rural Affairs and the Secretary of State concerned with the sea fishing industry in Northern Ireland, having consulted the Secretary of State for Trade and Industry[^f00001], make this Order in exercise of the powers conferred by sections 5(1), 5(6), 6(1), 6(1A) and 15(3) of the Sea Fish (Conservation) Act 1967[^f00002].
+
+## 1. Citation and commencement
+
+This Order may be cited as the Tope (Prohibition of Fishing) Order 2008 and comes into force on 6th April 2008.
+
+## 2. Application
+
+(1) Subject to the provisions of this article, this Order applies within British fishery limits.
+
+(2)[^key-eb802e6006cbf5c2455be20ed0a4a7ec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) Articles 3 and 4 do not apply in the Northern Ireland zone, the Scottish zone, Wales or the territorial sea adjacent to the Channel Islands or the Isle of Man[^f00004].
+
+(4) In paragraph (3)—
+
+- (a) “the Northern Ireland zone” has the meaning given by section 98 of the Northern Ireland Act 1998[^f00005];
+- (b) “the Scottish zone” has the meaning given by section 126(1) of the Scotland Act 1998[^f00006]; and
+- (c) “Wales” has the meaning given by section 158(1) of the Government of Wales Act 2006[^f00007].
+
+## 3. Fishing prohibition
+
+(1) Fishing for tope (other than by rod and line) is prohibited.
+
+(2) If tope are taken on board, they may be retained provided that the total liveweight does not exceed 45 kilogrammes per day.
+
+(3) In paragraph (2), “liveweight” means the weight of the gutted carcasses of tope multiplied by a factor of 1.125.
+
+## 4. Trans-shipment prohibition
+
+The trans-shipment of tope is prohibited.
+
+## 5. Landing prohibition
+
+No person may land in England—
+
+- (a) tope caught by rod and line, or
+- (b) beheaded tope.
+
+## 6. Powers of British sea-fishery officers
+
+(1) For the purposes of enforcing this Order, an officer may exercise the following powers—
+
+- (a)[^key-020b02b8a45690a7efd1ce7f51405591] in relation to a relevant British fishing boat that is registered in the United Kingdom or is British-owned, wherever it may be; and
+- (b) in relation to any other fishing boat, in any waters adjacent to the United Kingdom and within relevant British fishery limits.
+
+(2) An officer may go on board a fishing boat, with or without persons assigned to assist in the exercise of the officer’s duties, and for that purpose may require the boat to stop and do anything else which will facilitate the boarding of the boat.
+
+(3) An officer may require the attendance of the master and other persons on board the boat and may make any examination or inquiry appearing to the officer to be necessary for the purpose of enforcing this Order and, in particular—
+
+- (a) may examine any fish on the boat and the equipment of the boat, including the fishing gear, and require persons on board the boat to do anything appearing to the officer to be necessary for facilitating the examination;
+- (b) may require any person on board the boat to produce any document relating to the boat, to its fishing operations or other operations ancillary thereto or to the persons on board, which is in that person’s custody or possession and may take copies of any such document;
+- (c) for the purpose of ascertaining whether the master, owner or charterer of the boat has committed an offence under section 5 or 6 of the Sea Fish (Conservation) Act 1967 as read with this Order, may search the boat for any such document and may require any person on board the boat to do anything appearing to the officer to be necessary for facilitating the search; and
+- (d) where the boat is one in relation to which the officer has reason to suspect that such an offence has been committed, may seize and detain any such document produced to the officer or found on board for the purpose of enabling the document to be used as evidence in proceedings for the offence.
+
+(4) Nothing in paragraph (3)(d) enables the officer to seize and detain any document required by law to be carried on board the boat except while the boat is detained in a port.
+
+(5) Where it appears to an officer that a contravention of any provision of this Order has at any time taken place, the officer may—
+
+- (a) take, or require the master to take, the boat and its crew to the port appearing to the officer to be the nearest convenient port; and
+- (b) detain, or require the master to detain, the boat in the port.
+
+(6) An officer who detains or requires the detention of a boat must serve on the master a notice in writing stating that the boat will be or is required to be detained until the notice is withdrawn by the service on the master of a further notice in writing signed by an officer.
+
+(7) In this article, “officer” means a British sea-fishery officer.
+
+Jonathan Shaw
+
+Parliamentary Under Secretary of State
+
+Department for Environment, Food and Rural Affairs
+
+Paul Goggins
+
+Minister of State
+
+Northern Ireland Office
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+Article 3 of this Order prohibits the fishing for tope by any method other than by rod and line. The retention on board of tope up to a maximum liveweight of 45 kilogrammes per day is permitted.
+
+Article 4 prohibits the trans-shipment of tope.
+
+Article 5 prohibits the landing in England of tope caught by rod and line or beheaded tope.
+
+Article 6 sets out the powers of British sea-fishery officers in respect of this Order, in addition to their powers under the Sea Fish (Conservation) Act 1967. Criminal sanctions are prescribed by sections 5(1), 5(7), 6(5), 6(5A) and 11 of that Act.
+
+A full impact assessment of the effect that this instrument will have on the costs of business and the voluntary sector is available from the Defra Resource Centre, Lower Ground Floor, Ergon House, 17 Smith Square, London SW1P 3JR and is annexed to the Explanatory Memorandum which is available alongside the instrument on the Office of Public Sector Information website.
+
+## Annotations
+
+[^f00001]: Footnote: The functions of the Board of Trade under section 6(1) and the functions of the Secretary of State for Trade under section 6(1A) have been transferred to the Secretary of State for Business, Enterprise and Regulatory Reform by virtue of [S.I. 1970/1537](https://www.legislation.gov.uk/uksi/1970/1537) articles 2(1) and 5(3), [S.I. 1974/692](https://www.legislation.gov.uk/uksi/1974/692) article 2(1) and Part III of Schedule 1, [S.I. 1983/1127](https://www.legislation.gov.uk/uksi/1983/1127) article 2(1), and [S.I. 2007/3224](https://www.legislation.gov.uk/uksi/2007/3224) article 11. The consultation requirement for this Order was undertaken with the Secretary of State for Trade and Industry prior to the transfer of functions to the Secretary of State for Business, Enterprise and Regulatory Reform.
+
+[^f00002]: Footnote: [1967 c. 84](https://www.legislation.gov.uk/ukpga/1967/84). Section 5(1) was amended by the Fisheries Act [1981 (c. 29)](https://www.legislation.gov.uk/ukpga/1981/29), section 22(1). Section 5A was inserted by the Environment Act [1995 (c. 25)](https://www.legislation.gov.uk/ukpga/1995/25), section 103(1). Section 6(1A) was inserted by the Fisheries Act 1981, section 23(2). Section 15(3) was substituted by the Sea Fisheries Act [1968 (c. 77)](https://www.legislation.gov.uk/ukpga/1968/77), section 22(1), Schedule 1, Part II and amended by the Fishery Limits Act [1976 (c. 86)](https://www.legislation.gov.uk/ukpga/1976/86) section 9(1), Schedule 2, paragraph 16(1). Sections 6(1), 6(1A) and 15(3) were substituted, in part, by [S.I. 1999/1820](https://www.legislation.gov.uk/uksi/1999/1820), Schedule 2, paragraph 43(2) and (6) respectively. See section 22(2)(a) for definitions of “the Ministers” for the purposes of sections 5, 6 and 15(3); section 22(2) was amended by the Fisheries Act 1981, sections 19(2)(d) and 45(b) and (c) and by [S.I. 1999/1820](https://www.legislation.gov.uk/uksi/1999/1820), Schedule 2, paragraph 43(12). Article 2(a) of the National Assembly for Wales (Transfer of Functions) Order 1999 ([S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672)) transferred functions of the Secretary of State for Wales under the 1967 Act to the National Assembly in so far as exercisable in relation to Wales (acting concurrently with the Secretary of State in relation to section 15(3)). Section 53 of the Scotland Act [1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46) transferred functions of the Secretary of State for Scotland to the Scottish Ministers. Article 3(1) of, and Schedule 1 to, the Scotland Act 1998 (Concurrent Functions) Order 1999 ([S.I. 1999/1592](https://www.legislation.gov.uk/uksi/1999/1592)) provide for the functions exercisable under section 15(3) of the 1967 Act to be exercised by the person by whom it was exercisable immediately before that transfer concurrently with Scottish Ministers, in relation to relevant British fishing boats within the Scottish zone and Scottish fishing boats within British fishery limits outside the Scottish zone. Paragraph 3(1)(m) of Schedule 1 to the Sea Fisheries (Northern Ireland) Order 2002 ([S.I. 2002/790](https://www.legislation.gov.uk/uksi/2002/790)) transferred the functions of the Ministers under section 15(3) of the 1967 Act to the Department of Agriculture and Rural Development, but paragraph 3(2) retains a concurrent function for Ministers to make an order in relation to British fishing boats, other than Northern Ireland boats, within the Northern Ireland zone and in relation to Northern Ireland fishing boats within British fishery limits but outside the Northern Ireland zone. Functions of the Secretaries of State for Scotland and Wales in England were transferred to the Minister of Agriculture, Fisheries and Food by article 2(1) of, and the Schedule to, the Transfer of Functions (Agriculture and Fisheries) Order 2000 ([S.I. 2000/1812](https://www.legislation.gov.uk/uksi/2000/1812)). The functions of the Ministers of Agriculture, Fisheries and Food and a named Secretary of State acting jointly were transferred to the Secretary of State for Environment, Food and Rural Affairs and the named Secretary of State acting jointly by article 2(5) of the Ministry of Agriculture, Fisheries and Food (Dissolution) Order 2002 ([S.I. 2002/794](https://www.legislation.gov.uk/uksi/2002/794)).
+
+[^key-eb802e6006cbf5c2455be20ed0a4a7ec]: Textual amendment: [Art. 2(2)](https://www.legislation.gov.uk/uksi/2008/691/article/2/2) omitted (31.12.2020) by virtue of [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/a), [Sch. 2 para. 13(2)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/2/paragraph/13/2) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+
+[^f00004]: Footnote: See section 1 of the Territorial Sea Act [1987 (c. 49)](https://www.legislation.gov.uk/ukpga/1987/49), as extended to Jersey by the Territorial Sea Act 1987 (Jersey) Order 1997 ([S.I. 1997/278](https://www.legislation.gov.uk/uksi/1997/278)), as amended by [S.I. 2002/250](https://www.legislation.gov.uk/uksi/2002/250) and to the Isle of Man by the Territorial Sea Act 1987 (Isle of Man) Order 1991 ([S.I. 1991/1722](https://www.legislation.gov.uk/uksi/1991/1722)).
+
+[^f00005]: Footnote: [1998 c. 47](https://www.legislation.gov.uk/ukpga/1998/47).
+
+[^f00006]: Footnote: [1998 c. 46](https://www.legislation.gov.uk/ukpga/1998/46).
+
+[^f00007]: Footnote: [2006 c. 32](https://www.legislation.gov.uk/ukpga/2006/32).
+
+[^key-020b02b8a45690a7efd1ce7f51405591]: Textual amendment: [Art. 6(1)(a)](https://www.legislation.gov.uk/uksi/2008/691/article/6/1/a)[(b)](https://www.legislation.gov.uk/uksi/2008/691/article/6/1/b) inserted (31.12.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/a), [Sch. 2 para. 13(3)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/2/paragraph/13/3) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))

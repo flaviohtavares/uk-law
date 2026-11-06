@@ -1,0 +1,354 @@
+---
+title: The Merchant Shipping (Fees) (Amendment) Regulations 2003
+id: uksi/2003/788
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2003-03-14'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2003/788
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2003/788/pdfs/uksi_20030788_en.pdf
+- http://www.legislation.gov.uk/uksi/2003/788/made/data.pdf
+pending_changes: 1
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Merchant Shipping (Fees) (Amendment) Regulations 2003
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2003 No. 788
+
+MERCHANT SHIPPING
+
+The Merchant Shipping (Fees) (Amendment) Regulations 2003
+
+Made
+
+14 March 2003
+
+Laid before Parliament
+
+21 March 2003
+
+Coming into force
+
+14 April 2003
+
+The Secretary of State for Transport, in exercise of the powers conferred by section 302(1) of the Merchant Shipping Act 1995[^f00001], and of all other powers enabling him in that behalf, with the consent of the Treasury, hereby makes the following Regulations:
+
+## 1. Citation and commencement
+
+These Regulations may be cited as the Merchant Shipping (Fees) (Amendment) Regulations 2003 and shall come into force on 14 April 2003.
+
+## 2. Amendment of the Merchant Shipping (Fees) Regulations 1996
+
+(1) The Schedule to the Merchant Shipping (Fees) Regulations 1996[^f00002] shall be amended as follows.
+
+(2) In Part I—
+
+- (a) in paragraph 1(2), at the end of section F, there shall be added the following title and number:
+
+  > |  |  |
+  > | --- | --- |
+  > | Fishing Vessels (EC Directive on Harmonised Safety Regime) Regulations 1999 | 2998 |
+- (b) at the end of paragraph 1(2), after section M, there shall be added the following:
+
+  > |  |  |
+  > | --- | --- |
+  > | *N. SAFETY MANAGEMENT* |  |
+  > | Merchant Shipping (ISM Code) (Ro-Ro Passenger Ferries) Regulations 1997 | 3022 |
+  > | Merchant Shipping (International Safety Management (ISM) Code Regulations 1998 | 1561 |
+  > | Merchant Shipping (Domestic Passenger Ships) (Safety Management Code) Regulations 2001 | 3209 |
+
+  .
+- (c) in paragraph 2(1), for “£74” there shall be substituted “£76”.
+- (d) in paragraphs 3(a) and (f), for the words “survey or inspection” there shall be substituted the words “survey, inspection or audit”.
+- (e) after paragraph 3(h), there shall be added the following:
+
+  > ; and
+  >
+  > - (i) any issue or re-issue of a statutory certificate or the issue of a letter of acceptance in lieu of a statutory certificate.
+
+  .
+
+(3) In Part VII, for paragraph 1 there shall be substituted the following:
+
+> | Service | Fee |
+> | --- | --- |
+> | **1.** —<br>(1) Registration of ship (including registration of ship whose registry has expired) | £130 |
+> | (2) Registration of transfer of ownership of a registered ship |  |
+> | - (a) one transfer | £80 |
+> | - (b) where more than one transfer in relation to a ship is lodged at the same time |  |
+> | two transfers | £95 |
+> | three transfers | £115 |
+> | four transfers or more | £130 |
+> | (3) Renewal of registration under regulation 42 of the Merchant Shipping (Registration of Ships) Regulations 1993[^f00003] | £50 |
+> | (4) Registration of mortgages |  |
+> | - (a) one mortgage | £105 |
+> | - (b) where two or more mortgages of the same ship and in relation to the same loan are lodged at the same time— |  |
+> | - two mortgages | £200 |
+> | - three mortgages | £275 |
+> | - four mortgages | £340 |
+> | - five mortgages or more | £400 |
+> | (5) Registration of notice of intended mortgage | £25 |
+> | (6) Issue of duplicate certificate | £13 |
+> | (7) Issue of transcripts of entries in the Register relating to any one ship: |  |
+> | - (a) for current entries | £13 |
+> | - (b) for other entries | £25 |
+> | (8) Personal inspection of the Register | £12 |
+> | (9) Registration of change of name of a ship | £35 |
+> | (10) Registration of change of port of choice | £35 |
+> | (11) Registration of change of measurement, tonnage or engine particulars recorded in the Register | £35 |
+> | (12) Transfer to a port in a British possession | £35 |
+> | (13) Transfer from a port in a British possession | £115 |
+> | (14) Application to the Registrar for provisional registration of a ship | £115 |
+> | (15) Registration of a ship following provisional registration by the Registrar | £55 |
+> | (16) Issue of a certificate of registry for a small ship in Part III of the Register, including an amended certificate or a duplicate copy of the certificate | £12 |
+> | (17) Issue of a transcript of entries in Part III of the Register relating to any one ship— |  |
+> | - (a) for current entries | £6 |
+> | - (b) for other entries | £12 |
+> | (18) Application to register a submersible craft | £35 |
+
+(4) In Part VIII, for paragraphs 1 to 15 and the final paragraph beginning with the words “Where two or more changes” there shall be substituted the following:
+
+> <table>
+> <thead>
+> <tr><th>Service</th><th>Fee</th><th>Additional Fees for Counter Service</th></tr>
+> </thead>
+> <tfoot>
+> <tr><td colspan="3">Where two or more changes under items 10, 11 or 12 in respect of any one vessel are to be inspected for the purpose of verifying the changes on the same visit, the fee for the second and subsequent services shall be reduced by £20 each.</td></tr>
+> </tfoot>
+> <tbody>
+> <tr><td>1. Registration of a vessel (including registration of a vessel whose registry has expired):</td><td></td><td></td></tr>
+> <tr><td>(a) with full registration</td><td>£160</td><td>£180</td></tr>
+> <tr><td>(b) with simple registration</td><td>£120</td><td>£180</td></tr>
+> <tr><td>2. Registration of transfer of ownership of a registered vessel:</td><td></td><td></td></tr>
+> <tr><td>(a) with full registration</td><td>£80</td><td>£115</td></tr>
+> <tr><td>(b) with simple registration</td><td>£58</td><td>£115</td></tr>
+> <tr><td>(c) where more than one transfer in relation to the ship is lodged at the same time——</td><td></td><td></td></tr>
+> <tr><td>two transfers</td><td></td><td></td></tr>
+> <tr><td>(i) with full registration</td><td>£95</td><td>£125</td></tr>
+> <tr><td>(ii) with simple registration</td><td>£70</td><td>125</td></tr>
+> <tr><td>three transfers</td><td></td><td></td></tr>
+> <tr><td>(i) with full registration</td><td>£115</td><td>£135</td></tr>
+> <tr><td>(ii) with simple registration</td><td>£80</td><td>£135</td></tr>
+> <tr><td>four transfers</td><td></td><td></td></tr>
+> <tr><td>(i) with full registration</td><td>£135</td><td>£150</td></tr>
+> <tr><td>(ii) with simple registration</td><td>£80</td><td>£150</td></tr>
+> <tr><td>five transfers or more</td><td></td><td></td></tr>
+> <tr><td>(i) with full registration</td><td>£160</td><td>£160</td></tr>
+> <tr><td>(ii) with simple registration</td><td>£120</td><td>£160</td></tr>
+> <tr><td>3. Renewal of registration under regulation 42 of the Merchant Shipping (Registration of Ships) Regulations 1993</td><td>£50</td><td>£80</td></tr>
+> <tr><td>4. Change of registered vessel from simple to full registration</td><td>£50</td><td>£105</td></tr>
+> <tr><td>5. Registration of mortgage:</td><td></td><td></td></tr>
+> <tr><td>(a) one mortgage</td><td>£105</td><td>£58</td></tr>
+> <tr><td>(b) where two or more mortgages of the same vessel and in relation to the same loan are lodged at the same time—</td><td></td><td></td></tr>
+> <tr><td>two mortgages</td><td>£200</td><td>£70</td></tr>
+> <tr><td>three mortgages</td><td>£275</td><td>£80</td></tr>
+> <tr><td>four mortgages</td><td>£340</td><td>£90</td></tr>
+> <tr><td>five mortgages or more</td><td>£400</td><td>£105</td></tr>
+> <tr><td>6. Registration of notice of intended mortgage</td><td>£25</td><td>£35</td></tr>
+> <tr><td>7. Issue of duplicate certificate</td><td>£13</td><td>£22</td></tr>
+> <tr><td>8. Issue of transcript of entries in the Register relating to any one vessel:</td><td></td><td></td></tr>
+> <tr><td>(a) for current entries</td><td>£13</td><td>£18</td></tr>
+> <tr><td>(b) for other entries</td><td>£25</td><td>£22</td></tr>
+> <tr><td>9. Personal inspection of the Register</td><td>£12</td><td>N/A</td></tr>
+> <tr><td>10. Registration of change of name of vessel</td><td>£40</td><td>£90</td></tr>
+> <tr><td>11. Registration of change of port of choice and/or port number</td><td>£40</td><td>£90</td></tr>
+> <tr><td>12. Registration of change of measurement, tonnage or engine particulars recorded in Register</td><td>£40</td><td>£90</td></tr>
+> <tr><td>13. Application to the Registrar for provisional registration of a vessel</td><td>£115</td><td>N/A</td></tr>
+> <tr><td>14. Registration of a vessel following provisional registration by the Registrar</td><td>£75</td><td>N/A</td></tr>
+> </tbody>
+> </table>
+
+(5) In Part XII, in the Table, the entries listed in the third column headed “*Other surveys, inspections and tests, per hour or part thereof*” shall be amended as follows:
+
+- (a) for the entries in paragraphs 1 and 2, there shall be substituted—
+
+  > No fee
+  >
+  > £76.00
+  >
+  > £152.00
+  >
+  > £76.00;
+
+  and
+- (b) the following entries shall be inserted in paragraph 3—
+
+  > £38.00
+  >
+  > £76.00
+
+  .
+
+(6) In Part XIII, for “£74” there shall be substituted “£76”.
+
+Signed by authority of the Secretary of State for Transport
+
+David Jamieson
+
+Parliamentary Under-Secretary of State,
+
+Department for Transport
+
+12 March 2003
+
+We consent to the making of these Regulations
+
+Jim Fitzpatrick
+
+John Heppell
+
+Two of the Lords Commissioners of Her Majesty’s Treasury
+
+14 March 2003
+
+(This note is not part of the Regulation)
+
+These Regulations further amend the Merchant Shipping (Fees) Regulations 1996 (S.I. [1996/3243](https://www.legislation.gov.uk/uksi/1996/3243)).
+
+The Regulations amend the Schedule to prescribe changes in some of the fees charged and to introduce new fees. In particular—
+
+(1) the hourly rate for fees relating to certain services listed in Parts I and XII has been increased from £74 to £76;
+
+(2) fees have been reintroduced for “out of normal hours” working (Part XII—additional charges) in respect of surveys, inspections and tests other than radio surveys (for which fees are already charged);
+
+(3) revised fees have been introduced in relation to services listed in Part VII (registration etc of ships and submersible craft) and Part VIII (registration of fishing vessels).
+
+The Regulations also amend the statutory references in Part I, in particular adding a new Part N (Safety Management).
+
+The principal changes to the fees charged are shown in the following table:
+
+| Description of fee | Old fee £ | New fee £ |
+| --- | --- | --- |
+| **Registration of ships and submersible craft** |  |  |
+| Registration of vessel (including a vessel whose registry has expired) | 115.00 | 130.00 |
+| Registration of transfer of ownership of a registered ship | 69.00 | 80.00 |
+| Registration of transfer of share or share(s) in a registered vessel: |  |  |
+| - (a) one transfer | 69.00 | 80.00 |
+| - (b) where more than one transfer in relation to a vessel is lodged at the same time: |  |  |
+| two transfers | 84.00 | 95.00 |
+| three transfers | 100.00 | 115.00 |
+| four transfers or more | 115.00 | 130.00 |
+| Renewal of registration under r.42 of the Merchant Shipping (Registration of Ships) Regulations 1993 | 46.00 | 50.00 |
+| Registration of mortgages |  |  |
+| - (a) one mortgage | 92.00 | 105.00 |
+| - (b) where two or more mortgages of the same vessel and in relation to the same loan are lodged at the same time: |  |  |
+| - two mortgages | 173.00 | 200.00 |
+| - three mortgages | 242.00 | 275.00 |
+| - four mortgages | 299.00 | 340.00 |
+| - five mortgages or more | 345.00 | 400.00 |
+| Registration of notice of intended mortgage | 23.00 | 25.00 |
+| Issue of duplicate certificate | 12.00 | 13.00 |
+| Issue of transcripts of entries in the Register relating to any one ship: |  |  |
+| - (a) for current entries | 12.00 | 13.00 |
+| - (b) for other entries | 23.00 | 25.00 |
+| Personal inspection of the Register | 10.00 | 12.00 |
+| Registration of change of name of a ship | 30.00 | 35.00 |
+| Registration of change of port of choice | 30.00 | 35.00 |
+| Registration of change of measurement, tonnage or engine particulars recorded in the Register | 30.00 | 35.00 |
+| Transfer to a port in a British possession | 30.00 | 35.00 |
+| Transfer from a port in a British possession | 100.00 | 115.00 |
+| Application to the Registrar for provisional registration of a ship | 100.00 | 115.00 |
+| Registration of a ship following provisional registration by the Registrar | 50.00 | 55.00 |
+| Issue of a certificate of registry for a small ship on Part III of the Register, including an amended certificate or a duplicate copy of the certificate | 10.00 | 12.00 |
+| Issue of a transcript of entries in Part III of the Register relating to any one ship: |  |  |
+| - (a) for current entries | 5.00 | 6.00 |
+| - (b) or other entries | 10.00 | 12.00 |
+| On application to register a submersible craft | 32.00 | 35.00 |
+| **Registration of fishing vessels** |  |  |
+| Registration of a vessel (including registration of a vessel whose registry has expired) |  |  |
+| - (a) with full registration | 138.00 | 160.00 |
+| - *Additional fees for counter service* | 160.00 | 180.00 |
+| - (b) with simple registration | 104.00 | 120.00 |
+| - *Additional fees for counter service* | 160.00 | 180.00 |
+| Registration of transfer of ownership of a registered vessel |  |  |
+| - (a) with full registration | 69.00 | 80.00 |
+| - *Additional fees for counter service* | 100.00 | 115.00 |
+| - (b) with simple registration | 52.00 | 58.00 |
+| - *Additional fees for counter service* | 100.00 | 115.00 |
+| - (c) where more than one transfer in relation to the ship is lodged on the same occasion: |  |  |
+| two transfers |  |  |
+| - (i) with full registration | 84.00 | 95.00 |
+| - *Additional fees for counter service* | 110.00 | 125.00 |
+| - (ii) with simple registration | 62.00 | 70.00 |
+| - *Additional fees for counter service* | 110.00 | 125.00 |
+| three transfers |  |  |
+| - (i) with full registration | 100.00 | 115.00 |
+| - *Additional fees for counter service* | 120.00 | 135.00 |
+| - (ii) with simple registration | 70.00 | 80.00 |
+| *Additional fees for counter service* | 120.00 | 135.00 |
+| four transfers |  |  |
+| - (i) with full registration | 120.00 | 135.00 |
+| - *Additional fees for counter service* | 130.00 | 150.00 |
+| - (ii) with simple registration | 88.00 | 80.00 |
+| - *Additional fees for counter service* | 130.00 | 150.00 |
+| five transfers or more |  |  |
+| - (i) with full registration | 138.00 | 160.00 |
+| - *Additional fees for counter service* | 140.00 | 160.00 |
+| - (ii) with simple registration | 104.00 | 120.00 |
+| - *Additional fees for counter service* | 140.00 | 160.00 |
+| Renewal of registration under r.42 of the Merchant Shipping (Registration of Ships) Regulations 1993 | 46.00 | 50.00 |
+| - *Additional fees for counter service* | 70.00 | 80.00 |
+| Change of registered vessel from simple to full registration | 46.00 | 50.00 |
+| - *Additional fees for counter service* | 90.00 | 105.00 |
+| Registration of mortgage: |  |  |
+| - (a) one mortgage | 92.00 | 105.00 |
+| - *Additional fees for counter service* | 50.00 | 58.00 |
+| - (b) where two or more mortgages of the same vessel and in relation to the same loan are lodged at the same time: |  |  |
+| two mortgages | 173.00 | 200.00 |
+| - *Additional fees for counter service* | 60.00 | 70.00 |
+| three mortgages | 242.00 | 275.00 |
+| - *Additional fees for counter service* | 70.00 | 80.00 |
+| four mortgages | 299.00 | 340.00 |
+| - *Additional fees for counter service* | 80.00 | 90.00 |
+| five mortgages or more | 345.00 | 400.00 |
+| - *Additional fees for counter service* | 90.00 | 105.00 |
+| Registration of notice of intended mortgage | 23.00 | 25.00 |
+| - *Additional fees for counter service* | 30.00 | 35.00 |
+| Issue of duplicate certificate | 12.00 | 13.00 |
+| - *Additional fees for counter service* | 20.00 | 22.00 |
+| Issue of transcript of entries in the Register relating to any one vessel: |  |  |
+| - (a) for current entries | 12.00 | 13.00 |
+| *Additional fees for counter service* | 15.00 | 18.00 |
+| - (b) for other entries | 23.00 | 25.00 |
+| - *Additional fees for counter service* | 20.00 | 22.00 |
+| Personal inspection of the Register | 10.00 | 12.00 |
+| - *Additional fees for counter service* | N/A | N/A |
+| Registration of change of name of vessel | 35.00 | 40.00 |
+| - *Additional fees for counter service* | 80.00 | 90.00 |
+| Registration of change of port of choice and/or port number | 35.00 | 40.00 |
+| - *Additional fees for counter service* | 80.00 | 90.00 |
+| Registration of change of measurement, tonnage or engine particulars recorded in the Register | 35.00 | 40.00 |
+| - *Additional fees for counter service* | 80.00 | 90.00 |
+| Application to the Registrar for provisional registration of a vessel | 100.00 | 115.00 |
+| - *Additional fees for counter service* | N/A | N/A |
+| Registration of a vessel following provisional registration by the Registrar | 50.00 | 75.00 |
+| - *Additional fees for counter service* | N/A | N/A |
+| **Additional charges (fees in respect of surveys or inspections in or outside the UK, for waiting time and attendance at unusual hours, weekends and public holidays)** |  |  |
+| Surveys, inspections and tests (other than radio surveys) per hour or part thereof: |  |  |
+| For waiting time prior to commencement of and during the course of a survey or inspection: |  |  |
+| For a period not in excess of one hour | No fee | No fee |
+| For periods in excess of one hour |  |  |
+| for surveys in the UK | 74.00 | 76.00 |
+| for surveys abroad | 148.00 | 152.00 |
+| For abortive visits in the UK: for time wasted in excess of one hour at the place of survey or inspection plus the travelling time to and from the place of survey | 74.00 | 76.00 |
+| When a surveyor or inspector is called upon to perform services at unusual hours; for work undertaken during the following times including travelling time: |  |  |
+| 6 pm to 8 am Monday to Friday and all day Saturday | No Fee | 38.00 |
+| Sundays and Public Holidays | No Fee | 76.00 |
+
+A Regulatory Impact Assessment has been carried out and a copy placed in the library of both Houses of Parliament. Copies can be obtained from the Finance and Contracts Directorate, Maritime and Coastguard Agency, Spring Place, 105 Commercial Road, Southampton SO15 1EG (telephone 02380 329472).
+
+## Annotations
+
+[^f00001]: Footnote: [1995 c. 21](https://www.legislation.gov.uk/ukpga/1995/21).
+
+[^f00002]: Footnote: S.I. [1996/3243](https://www.legislation.gov.uk/uksi/1996/3243); the relevant amending instruments are S.I. [1998/531](https://www.legislation.gov.uk/uksi/1998/531) and S.I. [2001/3268](https://www.legislation.gov.uk/uksi/2001/3268).
+
+[^f00003]: Footnote: S.I. [1993/3138](https://www.legislation.gov.uk/uksi/1993/3138); the relevant amending instruments are S.I. [1998/1915](https://www.legislation.gov.uk/uksi/1998/1915) and [1999/3206](https://www.legislation.gov.uk/uksi/1999/3206).

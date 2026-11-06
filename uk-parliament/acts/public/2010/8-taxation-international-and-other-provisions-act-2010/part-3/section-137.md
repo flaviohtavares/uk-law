@@ -1,0 +1,49 @@
+---
+title: Taxation (International and Other Provisions) Act 2010, section 137
+act: Taxation (International and Other Provisions) Act 2010
+section: '137'
+status: revised-with-pending-changes
+text_date: '2026-03-18'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2010/8/section/137
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Taxation (International and Other Provisions) Act 2010, section 137
+
+> **Warning: changes not yet applied to this text (4).** Text as at 2026-03-18. See https://www.legislation.gov.uk/changes/affected/ukpga/2010/8
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 137. Income tax credit etc for special withholding tax
+
+*Extent: E+W+S+N.I.*
+
+(1) Subsection (5) applies if each of conditions A to C is met.
+
+(2) Condition A is that a person—
+
+- (a) is liable to income tax for a tax year in respect of a payment of savings income, or
+- (b) would be liable to income tax for a tax year in respect of a payment of savings income but for any exemption or relief.
+
+(3) Condition B is that special withholding tax is levied in respect of the payment.
+
+(4) Condition C is that the person is UK resident for the tax year.
+
+(5) On the making of a claim, income tax (“the deemed tax”) is to be treated as having been—
+
+- (a) paid by or on behalf of the person for the tax year, and
+- (b) deducted at source for the tax year for the purposes of the provisions listed in subsection (7).
+
+(6) The amount of the deemed tax is given by section 138.
+
+(7) The provisions mentioned in subsection (5)(b) are—
+
+- section 7 of TMA 1970 (notice of liability to income tax and capital gains tax),
+- section 8 of TMA 1970 (personal return),
+- section 8A of TMA 1970 (trustee's return),
+- section 9 of TMA 1970 (returns to include self-assessment),
+- section 59A of TMA 1970 (payments on account of income tax),
+- section 59B of TMA 1970 (payments of income tax and capital gains tax), and
+- section 824(3) of ICTA (repayment supplements: determination of relevant time).

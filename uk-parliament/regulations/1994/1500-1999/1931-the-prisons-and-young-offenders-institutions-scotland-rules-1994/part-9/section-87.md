@@ -1,0 +1,23 @@
+---
+title: The Prisons and Young Offenders Institutions (Scotland) Rules 1994, section 87
+act: The Prisons and Young Offenders Institutions (Scotland) Rules 1994
+section: '87'
+status: as-enacted
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1994/1931/section/87
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Prisons and Young Offenders Institutions (Scotland) Rules 1994, section 87
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+## 87. Viewing of prisons
+
+(1) No person shall be permitted to view a prison unless authorised by any enactment or by the Governor or the Secretary of State.
+
+(2) No person viewing the prison shall be permitted to take a photograph, make any film, sound recording or sketch or communicate with a prisoner unless authorised by any enactment or by the Governor or the Secretary of State.
+
+(3) Without prejudice to paragraph (2), no person viewing the prison shall be permitted to take a photograph of a prisoner unless he has obtained the prisoner’s prior consent.

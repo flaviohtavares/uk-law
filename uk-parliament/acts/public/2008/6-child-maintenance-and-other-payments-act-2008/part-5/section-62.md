@@ -1,0 +1,31 @@
+---
+title: Child Maintenance and Other Payments Act 2008, section 62
+act: Child Maintenance and Other Payments Act 2008
+section: '62'
+status: revised-with-pending-changes
+text_date: '2023-09-20'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2008/6/section/62
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Child Maintenance and Other Payments Act 2008, section 62
+
+> **Warning: changes not yet applied to this text (10).** Text as at 2023-09-20. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/6
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 62. Commencement
+
+*Extent: E+W+S+N.I.*
+
+(1) This section and sections 55, 59(8), 61 and 63 shall come into force on the day on which this Act is passed.
+
+(2) Section 35 shall come into force on the day after the day on which this Act is passed.
+
+(3) The remaining provisions of this Act shall come into force on such day as the Secretary of State may by order made by statutory instrument appoint, and different days may be so appointed for different purposes.
+
+(4) An order under subsection (3) may include such transitional provision or savings as the Secretary of State considers necessary or expedient in connection with bringing any provision of this Act into force.
+
+(5) An order under subsection (3) appointing the day on which section 39 is to come into force in England and Wales may be made only with the consent of the Lord Chancellor.

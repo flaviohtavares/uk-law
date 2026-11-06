@@ -1,0 +1,248 @@
+---
+title: Education (Pupil Referral Units) (Closure) (England) Regulations 2010
+id: uksi/2010/1071
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2010-03-29'
+text_date: '2012-09-01'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2010/1071
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2010/1071/pdfs/uksiem_20101071_en.pdf
+- http://www.legislation.gov.uk/uksi/2010/1071/pdfs/uksi_20101071_en.pdf
+- http://www.legislation.gov.uk/uksi/2010/1071/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Education (Pupil Referral Units) (Closure) (England) Regulations 2010
+
+> Text as at 2012-09-01.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2010 No. 1071
+
+Education, England
+
+Education (Pupil Referral Units) (Closure) (England) Regulations 2010[^key-d5820b44c30180f717e264ee9375514d]
+
+Made
+
+29th March 2010
+
+Laid before Parliament
+
+6th April 2010
+
+Coming into force
+
+1st September 2010
+
+The Secretary of State for Children, Schools and Families makes the following Regulations in exercise of the powers conferred by sections 19(7) and 569(4) of and paragraph 3A of Schedule 1 to the Education Act 1996[^f00001]:[^key-c7cc1eaa2f3dadc6bced41e5261f3b7f]
+
+## PART 1 — INTRODUCTORY
+
+### 1. Citation, commencement, application and interpretation[^key-cbeaa91fb4a327fc1030fb02435fa79e]
+
+(1) These Regulations may be cited as the Education (Pupil Referral Units) (Closure) (England) Regulations 2010[^M_F_7931d0c3-3d6f-4163-d2ff-a60a1ca73ed4] and come into force on 1st September 2010.
+
+(2) They apply to units[^M_F_91b7d358-250e-4f9b-faf9-77fac80608d5] in England.
+
+(3) In these Regulations—
+
+- “alternative arrangements” has the meaning given by regulation 3(3),
+- “alternative arrangements direction” has the meaning given by regulation 3(4),
+- “the Chief Inspector” means Her Majesty’s Chief Inspector of Education, Children’s Services and Skills,
+- “closure direction” means a direction under section 68(1) of the Education and Inspections Act 2006 (as applied to units with modifications by paragraph 23 of part 1 of Schedule 1 to the Education (Pupil Referral Units) (Application of Enactments) (England) Regulations 2007);[^key-02f46988790efc77f1d91a43ed65afd3] [^f00002].
+
+## PART 2 — ARRANGEMENTS FOLLOWING CLOSURE DIRECTION
+
+### 2. Duty to make statement of proposals following closure direction[^key-fdd1a003ba75744d0d89a2cc10e01614]
+
+(1) This regulation applies where a local authority has been given a closure direction in relation to a unit.
+
+(2) The authority must prepare a written statement of the arrangements it proposes to make under section 19 of the Education Act 1996[^f00003] to replace the education provision which will be lost as a result of the closure direction.
+
+(3) The statement must include information about—
+
+- (a) the number of children and young persons for whom education is expected to be provided under the proposed arrangements, and their ages;
+- (b) the nature of the education to be provided (including any specific needs which the education is expected to be capable of meeting);
+- (c) the means by which the education is expected to be provided.
+
+(4) Before the end of the permitted period the authority must send a copy of the statement to the Secretary of State and the Chief Inspector.
+
+(5) “The permitted period” is—
+
+- (a) the period of 28 days beginning with the date on which the closure direction was given, or
+- (b) if the Secretary of State is of the opinion that the urgency of the case requires a shorter period, such shorter period as the Secretary of State may specify when the closure direction is given.
+
+### 3. Power to give alternative arrangements direction[^key-3c46d5adf0963227a14a22e132e59db1]
+
+(1) This regulation applies where—
+
+- (a) the Secretary of State has given a closure direction to a local authority in relation to a unit, and
+- (b) one or more of the conditions in paragraph (2) is met.
+
+(2) The conditions are—
+
+- (a) that the authority has failed to send a copy of the statement prepared under regulation 2(2) to the Secretary of State in accordance with regulation 2(4);
+- (b) that the authority has sent a copy of the statement prepared under regulation 2(2) to the Secretary of State in accordance with regulation 2(4) but the Secretary of State is not satisfied that the arrangements proposed by the authority are adequate;
+- (c) that the Secretary of State is of the opinion that the urgency of the case requires a direction under paragraph (3) to be given without delay.
+
+(3) The Secretary of State may give a direction to the authority as to the arrangements (“the alternative arrangements”) to be made by it under section 19 of the Education Act 1996 to replace the education provision which will be lost as a result of the closure direction.
+
+(4) A direction under paragraph (3) (an “alternative arrangements direction”) may (in particular)—
+
+- (a) specify the number of children and young persons for whom education is to be provided under the alternative arrangements, and their ages;
+- (b) specify the nature of the education to be provided (including any specific needs which the education is to be capable of meeting);
+- (c) specify the means by which the education is to be provided;
+- (d) require the authority to invite bids from education providers for the provision of education under the alternative arrangements;
+- (e) include requirements about the management and review of the alternative arrangements.
+
+(5) An alternative arrangements direction may not specify the particular provider by whom education is to be provided.
+
+(6) If an alternative arrangements direction includes a requirement to invite bids as provided for in paragraph (4)(d), the requirement may in particular—
+
+- (a) relate to all or part of the education to be provided under the alternative arrangements;
+- (b) specify the manner in which the invitation to bid must be made;
+- (c) specify the date by which the invitation must be issued; and
+- (d) specify the period during which the authority must allow for bids to be made.
+
+(7) The Secretary of State must send a copy of any alternative arrangements direction to the Chief Inspector.
+
+### 4. Compliance with alternative arrangements direction[^key-9fd41ee91454f54465e9790ef60b7c28]
+
+(1) This regulation applies when a local authority—
+
+- (a) has been given a closure direction in relation to a unit; and
+- (b) is given an alternative arrangements direction as a result of the closure direction.
+
+(2) The local authority must secure that the education to be provided under the alternative arrangements, in accordance with the alternative arrangements direction, is provided from the closure date until the alternative arrangements direction is revoked in accordance with regulation 6 (2).
+
+(3) The “closure date” is the date specified in the closure direction for the discontinuance of the unit.
+
+(4) The duty imposed by paragraph (1) does not affect the local authority’s duty under section 19 of the Education Act 1996 (exceptional provision of education in units or elsewhere).
+
+### 5. Duty to report on bid process[^key-bd9d942801fc32655751b0a168113515]
+
+(1) This regulation applies when—
+
+- (a) an alternative arrangements direction given to a local authority includes a requirement to invite bids as provided for in regulation 3(4)(d);
+- (b) the authority has issued the invitation to bid; and
+- (c) the period for making bids has expired.
+
+(2) The authority must prepare a written report on the bid process and send it to the Secretary of State within 28 days of the expiry of the period for making bids.
+
+(3) The report must state—
+
+- (a) the steps taken by the authority to invite bids; and
+- (b) details of any bids received.
+
+(4) If any bids were received by the authority the report must give—
+
+- (a) a description of any arrangements the authority has entered into, or is proposing to enter into, as a result of the bids; or
+- (b) if no arrangements are to be entered into as a result of the bids, the reason for this.
+
+### 6. Alternative arrangements directions: supplementary[^key-dec8e0e8f70521d17956b158ce66ca60]
+
+(1) An alternative arrangements direction may make different provision for different purposes.
+
+(2) An alternative arrangements direction may be varied or revoked by the Secretary of State at any time after the direction is given.
+
+(3) If the Secretary of State varies or revokes an alternative arrangements direction, the Secretary of State must notify in writing —
+
+- (a) the Chief Inspector, and
+- (b) the local authority to whom the direction was given.
+
+## PART 3 — CONSENT FOR CLOSURE
+
+### 7. Units: closure subject to consent of Secretary of State[^key-e22d47d9f6a365440ded5e6763565076][^key-c845029e78b516906a4a7f12e296acf1]
+
+(1) In [^key-e30eb56d922f7bf2c14dc299f8f8111b]... the circumstances specified in paragraph (2) in relation to a unit, a local authority must obtain the consent of the Secretary of State before discontinuing the unit[^key-9f4f734129f2179cb7ed60c827c26b97].
+
+(2)[^key-c9b6954b72d4a69958a5f686aeab1221] The circumstances are—
+
+- (a) that the circumstances set out in paragraphs (a) and (b) of—
+  - (i) section 61 of the Education and Inspections Act 2006 (significant improvement required); or
+  - (ii) section 62 of that Act (special measures required),
+
+  apply in relation to the unit;
+- (b) that the Chief Inspector has notified the unit that an inspection of the unit is to take place under section 5 or 8 of the Education Act 2005; or
+- (c) that the Secretary of State has given the local authority a notice under section 69 of the Education and Inspections Act 2006 (as that provision is applied to units with modifications by regulation 24(1) of the Education (Pupil Referral Units) (Management Committees etc) (England) Regulations 2007 (power of Secretary of State to notify authority that committee is to consist of interim executive members)).
+
+(3) In the circumstances specified in paragraph (2)(b), the requirement in paragraph (1) to obtain consent ceases to apply when—
+
+- (a) a report of the inspection is published under section 11 of the Education Act 2005, or
+- (b) the Chief Inspector gives notice to the authority that no report of the inspection is to be made.
+
+## PART 4 — TRANSITIONAL PROVISIONS
+
+### 8. Transitional provision: references to “local authority”[^key-7fe67c2e9ff98f325618990e6f1bbb7b]
+
+Until an order under section 162(1)(a) of the Education and Inspections Act 2006 comes into force, these regulations have effect as if each reference to a local authority were a reference to a local education authority.
+
+Vernon Coaker
+
+Minister of State
+
+Department for Children, Schools and Families
+
+29th March 2010
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+Section 19 of the Education Act 1996 imposes a duty on local authorities to make arrangements for securing suitable education for children who, because of exclusion from school or for any other reason, may not receive such education if the arrangements are not made for them. Section 19(2B) recognises that local authorities may fulfil this duty by establishing and maintaining schools which are specifically organised to make educational provision for children falling within that section and where they do so, these schools are known as pupil referral units. Section 249(1) of the Apprenticeships, Skills, Children and Learning Act 2009 changes the name of any school falling within section 19(2B) of the Education Act 1996 from “pupil referral unit” to “short stay school”. It comes into force on 1 September 2010.
+
+The Secretary of State has the power to direct the closure of a school that is causing concern (Section 68, Part 4 of the Education and Inspections Act 2006). Section 68 is applied to short stay schools by paragraph 23 of Schedule 1 to [SI 2007/2979](https://www.legislation.gov.uk/uksi/2007/2979). Part 2 of these regulations enables the Secretary of State to direct the alternative education provision that will replace a short stay school that he decides should close (including specifying the features that the provision should exhibit) and to require the local authority to invite bids from external providers for the delivery of the provision.
+
+The Education and Inspections Act 2006 limits the powers of a local authority to close schools maintained by it (sections 15 and 16 and schedule 2). Short stay schools are not covered by these limitations. Part 3 of these regulations provides that, in certain circumstances, a short stay school may not be closed without the consent of the Secretary of State. In seeking the Secretary of State’s consent, it is expected that the local authority would need to demonstrate that, in closing the short stay school, it had made arrangements to ensure that adequate and appropriate provision will be made for those children affected by the closure. A full regulatory impact assessment of the effect of this instrument was carried out during the passage of the Apprenticeships, Skills, Children and Learning Act 2009 and relevant extracts are annexed to the Explanatory Memorandum. The full impact assessment is available from Lesley Hollick, Exclusions and Alternative Provision Team, DCSF - lesley.hollick@dcsf.gsi.gov.uk
+
+## Annotations
+
+[^key-d5820b44c30180f717e264ee9375514d]: Textual amendment: Regulations renamed (1.9.2012) by [The Pupil Referral Units (Miscellaneous Amendments) (England) Regulations 2012 (S.I. 2012/1825)](https://www.legislation.gov.uk/uksi/2012/1825), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/1825/regulation/1/1), [4(1)](https://www.legislation.gov.uk/uksi/2012/1825/regulation/4/1)
+
+[^f00001]: Footnote: [1996 c.56](https://www.legislation.gov.uk/ukpga/1996/56). Paragraph 3A of Schedule 1 was inserted by section 249(3) of the Apprenticeships, Skills, Children and Learning Act [2009 (c.22)](https://www.legislation.gov.uk/ukpga/2009/22). Section 249(3) will come into force on 1st September 2010.
+
+[^key-c7cc1eaa2f3dadc6bced41e5261f3b7f]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2010/1071) modified (temp.) (1.9.2010) by [The Education (Short Stay Schools) (Closure) (England) (Amendment) Regulations 2010 (S.I. 2010/1920)](https://www.legislation.gov.uk/uksi/2010/1920), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1920/regulation/1), [2(a)](https://www.legislation.gov.uk/uksi/2010/1920/regulation/2/a)
+
+[^key-cbeaa91fb4a327fc1030fb02435fa79e]: Commencement: Reg. 1 in force at 1.9.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/1071/regulation/1/1)
+
+[^M_F_7931d0c3-3d6f-4163-d2ff-a60a1ca73ed4]: Textual amendment: Word in reg. 1(1) substituted (1.9.2012) by virtue of [The Pupil Referral Units (Miscellaneous Amendments) (England) Regulations 2012 (S.I. 2012/1825)](https://www.legislation.gov.uk/uksi/2012/1825), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/1825/regulation/1/1), [4(2)(a)](https://www.legislation.gov.uk/uksi/2012/1825/regulation/4/2/a)
+
+[^M_F_91b7d358-250e-4f9b-faf9-77fac80608d5]: Textual amendment: Word in Regulations substituted (1.9.2012) by [The Pupil Referral Units (Miscellaneous Amendments) (England) Regulations 2012 (S.I. 2012/1825)](https://www.legislation.gov.uk/uksi/2012/1825), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/1825/regulation/1/1), [4(1)](https://www.legislation.gov.uk/uksi/2012/1825/regulation/4/1)
+
+[^key-02f46988790efc77f1d91a43ed65afd3]: Textual amendment: Words in reg. 1(3) inserted (1.9.2012) by [The Pupil Referral Units (Miscellaneous Amendments) (England) Regulations 2012 (S.I. 2012/1825)](https://www.legislation.gov.uk/uksi/2012/1825), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/1825/regulation/1/1), [4(2)(b)](https://www.legislation.gov.uk/uksi/2012/1825/regulation/4/2/b)
+
+[^f00002]: Footnote: [2006 c. 40](https://www.legislation.gov.uk/ukpga/2006/40). Section 68 is applied to short stay schools by paragraph 23 of Schedule 1 to [S.I. 2007/2979](https://www.legislation.gov.uk/uksi/2007/2979).
+
+[^key-fdd1a003ba75744d0d89a2cc10e01614]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2010/1071/regulation/2) in force at 1.9.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/1071/regulation/1/1)
+
+[^f00003]: Footnote: Section 19 was amended by sections 47(1) to (4) and 57(4) of, and Schedule 8 to the Education Act 1997; regulation 2 of [S.I. 2007/1507](https://www.legislation.gov.uk/uksi/2007/1507); section 101(1) to (3) of the Education and Inspections Act 2006.
+
+[^key-3c46d5adf0963227a14a22e132e59db1]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2010/1071/regulation/3) in force at 1.9.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/1071/regulation/1/1)
+
+[^key-9fd41ee91454f54465e9790ef60b7c28]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2010/1071/regulation/4) in force at 1.9.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/1071/regulation/1/1)
+
+[^key-bd9d942801fc32655751b0a168113515]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2010/1071/regulation/5) in force at 1.9.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/1071/regulation/1/1)
+
+[^key-dec8e0e8f70521d17956b158ce66ca60]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2010/1071/regulation/6) in force at 1.9.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/1071/regulation/1/1)
+
+[^key-e22d47d9f6a365440ded5e6763565076]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2010/1071/regulation/7) in force at 1.9.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/1071/regulation/1/1)
+
+[^key-c845029e78b516906a4a7f12e296acf1]: Modification: [Reg. 7](https://www.legislation.gov.uk/uksi/2010/1071/regulation/7) modified (temp.) (1.9.2010) by [The Education (Short Stay Schools) (Closure) (England) (Amendment) Regulations 2010 (S.I. 2010/1920)](https://www.legislation.gov.uk/uksi/2010/1920), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1920/regulation/1), [2(b)](https://www.legislation.gov.uk/uksi/2010/1920/regulation/2/b)
+
+[^key-e30eb56d922f7bf2c14dc299f8f8111b]: Textual amendment: Words in [reg. 7(1)](https://www.legislation.gov.uk/uksi/2010/1071/regulation/7/1) omitted (1.9.2012) by virtue of [The Pupil Referral Units (Miscellaneous Amendments) (England) Regulations 2012 (S.I. 2012/1825)](https://www.legislation.gov.uk/uksi/2012/1825), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/1825/regulation/1/1), [4(2)(c)(i)](https://www.legislation.gov.uk/uksi/2012/1825/regulation/4/2/c/i)
+
+[^key-9f4f734129f2179cb7ed60c827c26b97]: Textual amendment: Words in [reg. 7(1)](https://www.legislation.gov.uk/uksi/2010/1071/regulation/7/1) substituted (1.9.2012) by [The Pupil Referral Units (Miscellaneous Amendments) (England) Regulations 2012 (S.I. 2012/1825)](https://www.legislation.gov.uk/uksi/2012/1825), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/1825/regulation/1/1), [4(2)(c)(ii)](https://www.legislation.gov.uk/uksi/2012/1825/regulation/4/2/c/ii)
+
+[^key-c9b6954b72d4a69958a5f686aeab1221]: Textual amendment: [Reg. 7(2)](https://www.legislation.gov.uk/uksi/2010/1071/regulation/7/2) substituted (1.9.2012) by [The Pupil Referral Units (Miscellaneous Amendments) (England) Regulations 2012 (S.I. 2012/1825)](https://www.legislation.gov.uk/uksi/2012/1825), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/1825/regulation/1/1), [4(2)(d)](https://www.legislation.gov.uk/uksi/2012/1825/regulation/4/2/d)
+
+[^key-7fe67c2e9ff98f325618990e6f1bbb7b]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2010/1071/regulation/8) in force at 1.9.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/1071/regulation/1/1)

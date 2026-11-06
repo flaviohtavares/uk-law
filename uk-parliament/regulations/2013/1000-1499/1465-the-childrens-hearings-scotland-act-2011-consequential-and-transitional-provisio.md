@@ -1,0 +1,1283 @@
+---
+title: The Children’s Hearings (Scotland) Act 2011 (Consequential and Transitional Provisions and Savings) Order 2013
+id: uksi/2013/1465
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2013-06-11'
+text_date: '2017-04-27'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2013/1465
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2013/1465/pdfs/uksiem_20131465_en.pdf
+- http://www.legislation.gov.uk/uksi/2013/1465/pdfs/uksi_20131465_en.pdf
+- http://www.legislation.gov.uk/uksi/2013/1465/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Children’s Hearings (Scotland) Act 2011 (Consequential and Transitional Provisions and Savings) Order 2013
+
+> Text as at 2017-04-27.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2013 No. 1465
+
+Constitutional Law
+
+Devolution, Scotland
+
+Children And Young Persons
+
+The Children’s Hearings (Scotland) Act 2011 (Consequential and Transitional Provisions and Savings) Order 2013
+
+Made
+
+11th June 2013
+
+Coming into force in accordance with article 1(2)
+
+The Secretary of State makes the following Order in exercise of the powers conferred by sections 104, 112(1) and (4) and 113(2), (3), (4) and (5) of the Scotland Act 1998[^f00001].
+
+In accordance with section 115 of, and paragraphs 1, 2 and 3 of Schedule 7, to that Act, a draft of this instrument has been laid before and approved by a resolution of each House of Parliament.
+
+## 1. Citation and commencement[^key-21c259d2bacbde527279b0072f2dee6f]
+
+(1) This Order may be cited as the Children’s Hearings (Scotland) Act 2011 (Consequential and Transitional Provisions and Savings) Order 2013.
+
+(2) This Order comes into force on the same day as section 7 (holding of children’s hearing) of the 2011 Act comes into force.
+
+## 2. Interpretation[^key-c5140a7e4b027e21c448c25062d40e11]
+
+(1) Subject to paragraph (3), in this Order unless the context otherwise requires—
+
+- “the 1986 Order” means the Education and Libraries (Northern Ireland) Order 1986[^f00002];
+- “the 1989 Act” means the Children Act 1989[^f00003];
+- “the 1995 Act” means the Children (Scotland) Act 1995[^f00004];
+- “the 1995 Order” means the Children (Northern Ireland) Order 1995[^f00005];
+- “the 2011 Act” means the Children’s Hearings (Scotland) Act 2011[^f00006];
+- “child” has the meaning given by section 199 of the 2011 Act;
+- “child assessment order” means an order mentioned in section 35 of the 2011 Act;
+- “child protection order” means an order mentioned in section 37 of the 2011 Act;
+- “children’s hearing” is to be construed in accordance with section 5 of the 2011 Act;
+- “compulsory supervision order” has the meaning given by section 83 of the 2011 Act;
+- “constable” includes a constable within the meaning of section 43A of the Interpretation Act (Northern Ireland) 1954[^f00007];
+- “court”, in relation to Northern Ireland, means a court of summary jurisdiction;
+- “interim compulsory supervision order” has the meaning given by section 86 of the 2011 Act;
+- “local authority” means—
+  - (a) in relation to England, the council of a county, a metropolitan district, a London borough or the Common Council of the City of London;
+  - (b) in relation to Wales, the council of a county or a county borough;
+  - (c) in relation to Northern Ireland, a Health and Social Care Trust established under Article 10 of the Health and Personal Social Services (Northern Ireland) Order 1991[^f00008] and renamed by section 1(3) of the Health and Social Care (Reform) Act (Northern Ireland) 2009[^f00009]; and
+  - (d) in relation to Scotland, a council constituted under section 2 of the Local Government etc. (Scotland) Act 1994[^f00010];
+- “medical examination order” has the meaning given by section 87 of the 2011 Act;
+- “place of safety”, in relation to a child, means—
+  - (a) a residential or other establishment provided by a local authority;
+  - (b) a community home within the meaning of section 53 of the 1989 Act;
+  - (c) a police station;
+  - (d) a hospital or surgery in England or Wales, the person or body of persons responsible for the management of which is willing temporarily to receive the child;
+  - (e) a hospital in Northern Ireland under the management of a Health and Social Care Trust[^f00011], the body or persons responsible for the management of which is willing temporarily to receive the child;
+  - (f) the dwelling-house of a suitable person who is so willing; or
+  - (g) any other suitable place, the occupier of which is so willing;
+- “pre-hearing panel” has the meaning given by section 79(2)(a) of the 2011 Act;
+- “residential establishment” means—
+  - (a) an establishment in Scotland (whether managed by a local authority, a voluntary organisation or any other person) which provides residential accommodation for children for the purposes of the 2011 Act, the 1995 Act or the Social Work (Scotland) Act 1968[^f00012];
+  - (b) a home in England or Wales that is—
+    - (i) a community home within the meaning of section 53 of the 1989 Act;
+    - (ii) a voluntary home within the meaning of that Act; or
+    - (iii) a private children’s home within the meaning of that Act; or
+  - (c) an establishment in Northern Ireland that is—
+    - (i) a private children’s home, within the meaning of the 1995 Order[^f00013];
+    - (ii) an authority home provided under Part VII of that Order[^f00014]; or
+    - (iii) a voluntary home provided under Part VIII of that Order;
+- “secure accommodation” means accommodation provided for the purpose of restricting the liberty of children which—
+  - (a) in Scotland, is provided in a residential establishment approved in accordance with regulations made under section 78(2) of the Public Service Reform (Scotland) Act 2010[^f00015];
+  - (b) in England, is provided in a children’s home within the meaning of the Care Standards Act 2000[^f00016] (“the 2000 Act”) in respect of which a person is registered under Part 2 of that Act, except that before the coming into force of section 107(2) of the Health and Social Care (Community Health Standards) Act 2003[^f00017], “secure accommodation” means accommodation in relation to England which—
+    - (i) is provided in a children’s home, within the meaning of the 2000 Act, in respect of which a person is registered under Part 2 of that Act; and
+    - (ii) is approved by the Secretary of State for the purpose of restricting the liberty of children;
+  - (c) in Wales, is provided in a children’s home within the meaning of the 2000 Act in respect of which a person is registered under Part 2 of that Act; and
+- “warrant to secure attendance” has the meaning given by section 88 of the 2011 Act.
+
+(2) Any notification mentioned in article 13(1)(c) or 14(1)(c) or consent mentioned in article 13(1)(d) or 14(1)(d) which must be done in writing may be made in electronic form which is—
+
+- (a) sent by electronic means; and
+- (b) capable of being reproduced in legible form.
+
+(3) For the purpose of article 4, the definition of “place of safety” in paragraph (1) does not apply.
+
+## 3. Extent[^key-3db38287d06b8ec80c2b3369bbc755d3]
+
+(1) Except as provided in paragraphs (2) to (6) below, this Order extends to England and Wales, Scotland and Northern Ireland.
+
+(2) The modifications made by the Schedules have the same extent as the provisions being modified.
+
+(3) Articles 7, 13 and 16 extend to England and Wales and Scotland only.
+
+(4) Articles 10, 11 and 12 extend to England and Wales and Northern Ireland only.
+
+(5) Article 14 extends to Scotland and Northern Ireland only.
+
+(6) Article 20 extends to England and Wales only.
+
+## 4. Transitional provisions and savings[^key-849f5d1f6f10e496e418306fd33bcf95]
+
+(1) Section 70(4) of the 1995 Act (disposal of referral by children’s hearing: supervision requirements, including residence in secure accommodation) continues to have effect where a supervision requirement has been or is made under section 70 of that Act before or after section 7 of the 2011 Act comes into force.
+
+(2) Section 74 of the 1995 Act (further provision as respects children subject to supervision requirements) and the Children’s Hearings (Transmission of Information etc.) (Scotland) Regulations 1996[^f00018] continue to have effect in respect of a child subject to a supervision requirement made under that Act before or after section 7 of the 2011 Act comes into force.
+
+(3) Section 82 of the 1995 Act (recovery of certain fugitive children) continues to have effect in respect of a child who is required or who continues to be required to be kept in a place of safety, relevant place or with any person under Part 2 of the 1995 Act before or after section 7 of the 2011 Act comes into force.
+
+(4) In paragraph (3)—
+
+- “relevant place” has the same meaning as in section 82(1)(b) of the 1995 Act; and
+- “person” has the same meaning as in section 82(1)(c) and (3) of the 1995 Act.
+
+(5) Section 83 of the 1995 Act (harbouring) continues to have effect in respect of a child who by virtue of paragraph (3) continues to be liable to arrest under section 82(1) or (3) of that Act.
+
+(6) The definitions of “local government area”, “place of safety”, “compulsory measures of supervision”, “relevant local authority” and “supervision requirement” in section 93(1) of the 1995 Act (interpretation of Part 2) continue to have effect for the purposes of paragraphs (1) to (5).
+
+## 5. Enforcement of orders[^key-e47c89782c2f7be09c2970982ec855e8]
+
+(1) Paragraph (2) applies where a relevant order authorising the keeping of a child in a particular place (an “authorised place”) is in force in relation to a child and that child is in England, Wales or Northern Ireland.
+
+(2) A constable may enforce the order—
+
+- (a) by searching for the child;
+- (b) by apprehending the child;
+- (c) by taking the child to the authorised place;
+- (d) where it is not reasonably practicable to take the child immediately to the authorised place, by taking the child to, and detaining the child in, a place of safety for as short a period of time as is practicable; and
+- (e) by entering premises if the constable has reasonable grounds for believing the child is on those premises.
+
+(3) A constable may use reasonable force, if necessary, in the exercise of the powers set out in paragraph (2)(a) to (e).
+
+(4) In this article, “relevant order” means—
+
+- (a) a child assessment order;
+- (b) a child protection order;
+- (c) an order under section 55 of the 2011 Act;
+- (d) a compulsory supervision order;
+- (e) an interim compulsory supervision order; or
+- (f) a medical examination order.
+
+## 6. Warrants to secure attendance[^key-37ae2a7ed96251d1e89c6480909c42c8]
+
+(1) Paragraph (2) applies where a warrant to secure attendance is in force in relation to a child, and that child is in England, Wales or Northern Ireland.
+
+(2) A constable may enforce the warrant—
+
+- (a) by searching for the child;
+- (b) by apprehending the child;
+- (c) by taking the child to, and detaining the child in, a place of safety;
+- (d) by bringing the child before the relevant proceedings; and
+- (e) so far as is necessary for the execution of the warrant, by entering premises if the constable has reasonable grounds for believing the child is on those premises.
+
+(3) A constable may use reasonable force, if necessary, in the exercise of the powers set out in paragraph (2)(a) to (e).
+
+(4) In this article, “relevant proceedings”, in relation to a warrant to secure attendance, means the children’s hearing or, as the case may be, proceedings before the sheriff in respect of which it is granted.
+
+## 7. Compulsory supervision orders and interim compulsory supervision orders[^key-1c67786768ba2ffa31a73dd455802bc6]
+
+*Extent: E+W+S*
+
+(1) Where a compulsory supervision order or interim compulsory supervision order contains a requirement of the type mentioned in section 83(2)(a) of the 2011 Act (meaning of “compulsory supervision order”), the place specified in that requirement may be a place in England or Wales.
+
+(2) Where a compulsory supervision order or interim compulsory supervision order contains a direction of the type mentioned in section 83(2)(b) of the 2011 Act and the place at which the child is required to reside in accordance with the order is a place in England or Wales, the order is authority for the person in charge of that place to restrict the child’s liberty to the extent that the person considers appropriate having regard to the measures included in the order.
+
+(3)[^key-26090e5a54a87a04f8b1c696664d88d8] Where—
+
+- (a) a compulsory supervision order or interim compulsory supervision order contains a requirement of the type mentioned in section 83(2)(a) of the 2011 Act and a secure accommodation authorisation (as defined in section 85 of that Act),
+- (b) the place at which the child is required to reside in accordance with the order is a place in England or Wales, and
+- (c) by virtue of a decision to consent to the placement of the child in secure accommodation made under article 16, the child is to be placed in secure accommodation within that place,
+
+the order is authority for the child to be placed and kept in secure accommodation within that place.
+
+## 8. Child absconding from place[^key-e327eb0d34bf878ad9ac4374b4a9f4bb]
+
+(1) This article applies where—
+
+- (a) a child requires to be kept in a particular place by virtue of—
+  - (i) a child assessment order;
+  - (ii) a child protection order;
+  - (iii) an order under section 55 of the 2011 Act;
+  - (iv) section 56 of the 2011 Act;
+  - (v) section 65 of the 2011 Act;
+  - (vi) a compulsory supervision order;
+  - (vii) an interim compulsory supervision order;
+  - (viii) a medical examination order;
+  - (ix) a warrant to secure attendance; or
+  - (x) section 143 of the 2011 Act; and
+- (b) the child absconds from that place or, at the end of a period of leave, fails to return to that place and is in another place and that other place is in England, Wales or Northern Ireland.
+
+(2) The child may be arrested without warrant and taken to the place mentioned in paragraph (1).
+
+(3) If a court is satisfied that there are reasonable grounds for believing that the child is within premises in that court’s jurisdiction, the court may grant a warrant authorising a constable to—
+
+- (a) enter those premises; and
+- (b) search for the child.
+
+(4) The court may authorise the constable to use reasonable force for those purposes.
+
+(5) Where the child is returned to the place mentioned in paragraph (1), but the occupier of that place is unwilling or unable to receive the child—
+
+- (a) the constable returning the child must immediately notify the Principal Reporter[^f00019] of that fact; and
+- (b) the child must be kept in a place of safety until the occurrence of the relevant event.
+
+(6) In paragraph (5), the relevant event is—
+
+- (a) in the case mentioned in paragraph (1)(a)(i), the end of the period specified in the child assessment order;
+- (b) in the case mentioned in paragraph (1)(a)(ii), whichever of the following first occurs—
+  - (i) the children’s hearing arranged under section 45 or 69 of the 2011 Act; or
+  - (ii) the termination of the child protection order;
+- (c) in the case mentioned in paragraph (1)(a)(iii), whichever of the following first occurs—
+  - (i) the order ceasing to have effect under section 55(4) or (5) of the 2011 Act; or
+  - (ii) the determination by the sheriff of an application for a child protection order in respect of the child;
+- (d) in the case mentioned in paragraph (1)(a)(iv), whichever of the following first occurs—
+  - (i) the giving of notice under section 56(5) of the 2011 Act; or
+  - (ii) the end of the period mentioned in section 56(3) of that Act;
+- (e) in the case mentioned in paragraph (1)(a)(v), whichever of the following first occurs—
+  - (i) the giving of a direction by the Principal Reporter under section 68(2) or 72(2)(a) of the 2011 Act; or
+  - (ii) the children’s hearing arranged by virtue of section 69(2) of the 2011 Act;
+- (f) in the case mentioned in paragraph (1)(a)(vi), the children’s hearing arranged by virtue of section 131(2)(b) of the 2011 Act;
+- (g) in the cases mentioned in paragraph (1)(a)(vii) and (ix), whichever of the following first occurs—
+  - (i) the next children’s hearing that has been arranged in relation to the child; or
+  - (ii) the next hearing before the sheriff relating to the child that is to take place by virtue of the 2011 Act; or
+- (h) in the cases mentioned in paragraph (1)(a)(viii) and (x), the next children’s hearing that has been arranged in relation to the child.
+
+## 9. Child absconding from person[^key-0d4a1f511131e9780b166c2bd4c02678]
+
+(1) This article applies where—
+
+- (a) a person has (or is authorised to have) control of a child by virtue of—
+  - (i) a child assessment order;
+  - (ii) a child protection order;
+  - (iii) an order under section 55 of the 2011 Act;
+  - (iv) section 56 of the 2011 Act;
+  - (v) section 65 of the 2011 Act;
+  - (vi) a compulsory supervision order;
+  - (vii) an interim compulsory supervision order;
+  - (viii) a medical examination order;
+  - (ix) a warrant to secure attendance; or
+  - (x) section 143 of the 2011 Act; and
+- (b) the child absconds from that person and the child is in a place in England, Wales or Northern Ireland.
+
+(2) The child may be arrested without warrant and taken to that person*.*
+
+(3) If a court is satisfied that there are reasonable grounds for believing that the child is within premises in that court’s jurisdiction, the court may grant a warrant authorising a constable to—
+
+- (a) enter those premises; and
+- (b) search for the child.
+
+(4) The court may authorise the constable to use reasonable force for those purposes.
+
+(5) Where the child is returned to the person mentioned in paragraph (1), but the person is unwilling or unable to receive the child—
+
+- (a) the constable returning the child must immediately notify the Principal Reporter of that fact; and
+- (b) the child must be kept in a place of safety until the occurrence of the relevant event.
+
+(6) In paragraph (5), the relevant event is—
+
+- (a) in the case mentioned in paragraph (1)(a)(i), the end of the period specified in the child assessment order;
+- (b) in the case mentioned in paragraph (1)(a)(ii), whichever of the following first occurs—
+  - (i) the children’s hearing arranged under section 45 or 69 of the 2011 Act; or
+  - (ii) the termination of the child protection order;
+- (c) in the case mentioned in paragraph (1)(a)(iii), whichever of the following first occurs—
+  - (i) the order ceasing to have effect under section 55(4) or (5) of the 2011 Act; or
+  - (ii) the determination by the sheriff of an application for a child protection order in respect of the child;
+- (d) in the case mentioned in paragraph (1)(a)(iv), whichever of the following first occurs—
+  - (i) the giving of notice under section 56(5) of the 2011 Act; or
+  - (ii) the end of the period mentioned in section 56(3) of that Act;
+- (e) in the case mentioned in paragraph (1)(a)(v), whichever of the following first occurs—
+  - (i) the giving of a direction by the Principal Reporter under section 68(2) or 72(2)(a) of the 2011 Act; or
+  - (ii) the children’s hearing arranged by virtue of section 69(2) of the 2011 Act;
+- (f) in the case mentioned in paragraph (1)(a)(vi), the children’s hearing arranged by virtue of section 131(2)(b) of the 2011 Act;
+- (g) in the cases mentioned in paragraph (1)(a)(vii) and (ix) whichever of the following first occurs—
+  - (i) the next children’s hearing that has been arranged in relation to the child; or
+  - (ii) the next hearing before the sheriff relating to the child that is to take place by virtue of the 2011 Act; or
+- (h) in the cases mentioned in paragraph (1)(a)(viii) and (x), the next children’s hearing that has been arranged in relation to the child.
+
+## 10. Offences relating to absconding[^key-d2baf4a31a1a7e7b24e535012f629479]
+
+*Extent: E+W+N.I.*
+
+(1) This article applies where—
+
+- (a) a child requires to be kept in a particular place by virtue of—
+  - (i) a child assessment order;
+  - (ii) a child protection order;
+  - (iii) a compulsory supervision order;
+  - (iv) an interim compulsory supervision order;
+  - (v) a medical examination order; or
+  - (vi) a warrant to secure attendance; or
+- (b) a person has (or is authorised to have) control of a child by virtue of such an order or warrant.
+
+(2) A person commits an offence if the person—
+
+- (a) knowingly assists or induces the child to abscond from the place or person (mentioned in paragraph (1));
+- (b) knowingly harbours or conceals a child who has absconded from that place or person; or
+- (c) knowingly prevents a child from returning to that place or person.
+
+(3) The person is liable on summary conviction to a fine not exceeding level 5 on the standard scale, to imprisonment for a term not exceeding 3 months, or to both.
+
+(4) This article is subject to—
+
+- (a) section 38(3) and (4) of the 1995 Act;
+- (b) section 51(5) and (6) of the 1989 Act; and
+- (c) Article 70(5) and (6) of the 1995 Order.
+
+## 11. Offence of intentional obstruction[^key-167ae89bbd09146f587c1322ca9b7e28]
+
+*Extent: E+W+N.I.*
+
+(1) A person commits an offence if the person intentionally obstructs—
+
+- (a) a person acting under a child assessment order;
+- (b) a person acting under a child protection order;
+- (c) a person acting under an order under section 55 of the 2011 Act; or
+- (d) a constable acting under section 56(1) of the 2011 Act.
+
+(2) A person guilty of an offence under paragraph (1) is liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+
+## 12. Publishing restrictions[^key-d6cfcee9d4b8be0f9df810da503e85ba]
+
+*Extent: E+W+N.I.*
+
+(1) A person must not publish protected information if the publication of the information is intended, or is likely, to identify—
+
+- (a) a child mentioned in the protected information; or
+- (b) an address or school as being that of such a child.
+
+(2) A person who contravenes paragraph (1) commits an offence and is liable on summary conviction to a fine not exceeding level 4 on the standard scale.
+
+(3) It is a defence for a person (“P”) charged with a contravention of paragraph (1) to show that P did not know or have reason to suspect that the publication of the protected information was likely to identify a child mentioned in the protected information, or, as the case may be, an address or school of such a child.
+
+(4) The prohibition in paragraph (1) does not apply in relation to the publication, by or on behalf of a local authority or an adoption agency, of information about a child for the purposes of making arrangements in relation to the child under the 2011 Act or the Adoption and Children (Scotland) Act 2007[^f00020].
+
+(5) In paragraph (4), “adoption agency” has the meaning given by the Adoption and Children (Scotland) Act 2007.
+
+(6) In this article—
+
+- “protected information” means—
+  - (a) information in relation to—
+    - (i) a children’s hearing or a pre-hearing panel;
+    - (ii) an appeal against a decision of a children’s hearing or a determination of a pre‑hearing panel;
+    - (iii) proceedings before the sheriff under Part 10 or 15 of the 2011 Act; or
+    - (iv) an appeal from any decision of the sheriff or sheriff principal made under the 2011 Act; and
+  - (b) information given to the Principal Reporter in respect of a child in reliance on, or satisfaction of, a provision of the 2011 Act or any other enactment; and
+- “publish” includes in particular—
+  - (a) to publish matter in a programme service, as defined by section 201 of the Broadcasting Act 1990[^f00021]; and
+  - (b) to cause matter to be published.
+
+## 13. Transfer of child from Scotland to England or Wales: effect of compulsory supervision order[^key-8dd2fdb15f50104955a891f9dfecb542]
+
+*Extent: E+W+S*
+
+(1) This article applies where—
+
+- (a) a child is subject to a compulsory supervision order and notification is given under section 134(2) of the 2011 Act (duty to initiate review if child taken out of Scotland) that it is proposed to move the child to England or Wales;
+- (b) a children’s hearing continues the compulsory supervision order under section 138 of the 2011 Act (powers of children’s hearing on review) following a review initiated under section 134(3) of that Act;
+- (c) the Principal Reporter has notified in writing the local authority in England or Wales under whose care, supervision or education supervision the child would be, and in whose area it is proposed the child will reside, after the proposed transfer; and
+- (d) the local authority has consented to the proposed transfer by informing the Principal Reporter in writing.
+
+(2) The 1989 Act applies, in relation to a compulsory supervision order to which section 145(1) of the 2011 Act applies (duty where order requires child to reside in certain place), as it applies in relation to a supervision order (as defined in section 31(11) of the 1989 Act).
+
+(3) The 1989 Act applies, in relation to a compulsory supervision order to which section 145(1) of the 2011 Act does not apply, as it applies in relation to a care order (as defined in section 31(11) of the 1989 Act).
+
+(4) The 1989 Act applies, in relation to a compulsory supervision order which falls within paragraph (5), as it applies in relation to an education supervision order (as defined in section 36(2) of the 1989 Act).
+
+(5) A compulsory supervision order falls within this paragraph if—
+
+- (a) the child to whom the order relates is of compulsory school age (as determined in accordance with section 8 of the Education Act 1996); and
+- (b) the order was made after acceptance or establishment of the ground mentioned in section 67(2)(o) of the 2011 Act (failure to attend school regularly).
+
+(6) Where paragraph (2), (3) or (4) applies, the compulsory supervision order ceases to have effect for the purposes of the law of Scotland.
+
+(7) The reference in paragraph (5)(b) to the ground mentioned in section 67(2)(o) of the 2011 Act being accepted or established includes a reference to the ground being accepted or established by virtue of section 70(2)(a) (requirement under Antisocial Behaviour etc. (Scotland) Act 2004) or 71(3)(a) (case remitted under section 49 of the Criminal Procedure (Scotland) Act 1995) of the 2011 Act.
+
+## 14. Transfer of child from Scotland to Northern Ireland: effect of compulsory supervision order[^key-b310b621e5eeabbbc6f535e5fb55358c]
+
+*Extent: S+N.I.*
+
+(1) This article applies where—
+
+- (a) a child is subject to a compulsory supervision order (other than where the only ground which is established is that listed in section 67(2)(j) of the 2011 Act (offence ground)) and notification is given under section 134(2) of that Act that it is proposed to move the child to Northern Ireland;
+- (b) a children’s hearing continues the compulsory supervision order under section 138 of the 2011 Act following a review initiated under section 134(3) of that Act;
+- (c) the Principal Reporter has notified in writing the local authority in Northern Ireland, under whose care, supervision or education supervision the child will be, and in whose area it is proposed the child will reside, of the proposed transfer; and
+- (d) the local authority has consented to the proposed transfer by informing the Principal Reporter in writing.
+
+(2) The 1995 Order applies, in relation to a compulsory supervision order to which section 145(1) of the 2011 Act applies as it applies in relation to a supervision order as defined in Article 49(1) of the 1995 Order.
+
+(3) The 1995 Order applies, in relation to a compulsory supervision order to which section 145(1) of the 2011 Act does not apply, as it applies in relation to a care order (as defined in Article 49(1) of the 1995 Order).
+
+(4) The 1995 Order applies, in relation to a compulsory supervision order which falls within paragraph (5), as it applies in relation to an education supervision order (as defined in Article 49(1) of the 1995 Order).
+
+(5) A compulsory supervision order falls within this paragraph if—
+
+- (a) the child to whom the order relates is of compulsory school age within the meaning of Article 46 of the 1986 Order[^f00022]; and
+- (b) the order was made after acceptance or establishment of the ground mentioned in section 67(2)(o) of the 2011 Act.
+
+(6) Where paragraph (2), (3) or (4) applies, the compulsory supervision order ceases to have effect for the purposes of the law of Scotland.
+
+(7) The reference in paragraph (5)(b) to the ground mentioned in section 67(2)(o) of the 2011 Act being accepted or established includes a reference to the ground being established by virtue of section 70(2)(a) (requirement under Antisocial Behaviour etc. (Scotland) Act 2004) or 71(3)(a) (case remitted under section 49 of the Criminal Procedure (Scotland) Act 1995) of the 2011 Act.
+
+## 15. Transfer of child from England, Wales or Northern Ireland to Scotland: effect of orders made in England, Wales and Northern Ireland[^key-b0713ba7893eb210185b7ebb5d5c4253]
+
+(1) Where regulation 3(2) or 4(2) (effect of orders made in England and Wales) of the Children’s Hearings (Scotland) Act 2011 (Transfer of Children to Scotland – Effect of Orders made in England, Wales and Northern Ireland) Regulations 2013[^f00023] applies, the care order, supervision order or education supervision order ceases to have effect for the purposes of the law of England and Wales.
+
+(2) Where regulation 5(2) or 6(2) (effect of orders made in Northern Ireland) of the Children’s Hearings (Scotland) Act 2011 (Transfer of Children to Scotland – Effect of Orders made in England, Wales and Northern Ireland) Regulations 2013 applies, the care order, supervision order or education supervision order ceases to have effect for the purposes of the law of Northern Ireland.
+
+## 16. Child placed in secure accommodation: decision of the head of unit[^key-adf2f94881b8103a2061627612377e8c]
+
+*Extent: E+W+S*
+
+(1) This article applies where—
+
+- (a) a child is subject to a relevant order or warrant that includes a secure accommodation authorisation; and
+- (b) the person in charge of the residential establishment containing the secure accommodation in which the child is to be placed (the “head of unit”) has been consulted by the chief social work officer and has received notice of the chief social work officer’s decision to place the child in secure accommodation and the reasons for making that decision.
+
+(2) The head of unit must, in coming to a decision on whether to consent to the placement of the child in secure accommodation, comply with the requirements in paragraph (3)(a) and, having made the decision, comply with the requirements in paragraph (3)(b) and (c).
+
+(3) The requirements are—
+
+- (a) to assess whether placement in secure accommodation within the residential establishment managed by the head of unit would—
+  - (i) be appropriate to the child’s needs, having regard to that establishment’s statement of purpose; and
+  - (ii) not, in the opinion of the head of unit, be detrimental to the other children residing in that unit;
+- (b) to record—
+  - (i) the decision; and
+  - (ii) the reasons for reaching that decision; and
+- (c) to send the chief social work officer, within 48 hours from receiving notification of the chief social work officer’s decision to place the child in secure accommodation, notice of the head of unit’s decision and reasons for reaching that decision.
+
+(4) In this article—
+
+- (a) “relevant order or warrant” means—
+  - (i) a compulsory supervision order;
+  - (ii) an interim compulsory supervision order; or
+  - (iii) a warrant to secure attendance;
+- (b) “secure accommodation authorisation” has the meaning given by section 85 of the 2011 Act; and
+- (c) references to the chief social work officer are to the chief social work officer who may implement a secure accommodation authorisation under section 151 of the 2011 Act.
+
+## 17. Modifications: general[^key-09ffaae405e8656cee37b43611b73199]
+
+(1) The modifications in Parts 1 and 2 of Schedule 1 have effect.
+
+(2) The enactments specified in Part 3 of Schedule 1 are repealed or, as the case may be, revoked to the extent specified.
+
+## 18. Modifications extending to England and Wales and Northern Ireland[^key-848171b63e30f2f7cd9c16e54d940a91]
+
+(1) The modifications in Part 1 of Schedule 2 have effect.
+
+(2) The enactments specified in Part 2 of Schedule 2 are repealed or, as the case may be, revoked to the extent specified.
+
+## 19. Modifications extending to Scotland and England and Wales[^key-926e797a8af69749153b78d09671508c]
+
+The modifications in Schedule 3 have effect.
+
+## 20. Repeal extending to England and Wales[^key-351f4ba6e09398e5616987b2a4130714]
+
+*Extent: E+W*
+
+Section 70(4) of the 1995 Act is repealed.
+
+David Mundell
+
+Parliamentary Under Secretary of State
+
+Scotland Office
+
+Dover House,
+
+London
+
+11th June 2013
+
+## SCHEDULE 1 — MODIFICATIONS: GENERAL
+
+Article 17
+
+### PART 1 — Modification of Acts
+
+#### 1. Child Abduction and Custody Act 1985[^key-c66da6680eab61df2e2417f4359bbce3]
+
+(1) The Child Abduction and Custody Act 1985[^f00024] is amended as follows.
+
+(2) In section 20 (suspension of court’s powers), after subsection (5) insert—
+
+> (6) In subsection (5), “children’s hearing” is to be construed in accordance with section 5 of the Children’s Hearings (Scotland) Act 2011.
+
+.
+
+(3) In Schedule 3 (custody orders)—
+
+- (a) after paragraph 5(viii)insert—
+
+  > - (ix) an order made, or warrant or authorisation granted, under or by virtue of the Children’s Hearings (Scotland) Act 2011 to remove the child to a place of safety or to secure accommodation (those expressions having the meanings given by section 202(1) of that Act), to keep the child at such a place or in such accommodation, or to prevent the removal of the child from a place where the child is being accommodated (or an order continuing, varying or discharging any order, warrant or authorisation so made or granted).
+
+  ; and
+- (b) for paragraph 6 substitute—
+
+  > **6.** A compulsory supervision order (as defined in section 83 of the Children’s Hearings (Scotland) Act 2011) and any order made by a court in England and Wales or in Northern Ireland which, by virtue section 190 of that Act has effect as if it were a compulsory supervision order.
+
+  .
+
+#### 2. Children Act 1989[^key-3058e352682a45a9c1312dc36448fee6]
+
+(1) The Children Act 1989[^f00025] is amended as follows.
+
+(2) In section 31(7)(b) (care and supervision orders), for sub-paragraph (iii) substitute—
+
+> - (iii) a compulsory supervision order or interim compulsory supervision order as defined by sections 83 and 86 of the Children’s Hearings (Scotland) Act 2011.
+
+.
+
+(3) In section 51(7) (refuges for children at risk), for paragraph (b) substitute—
+
+> - (b) articles 9, 10 and 11 of the Children’s Hearing (Scotland) Act 2011 (Consequential and Transitional Provisions and Savings) Order 2013, so far as they apply to anything done in England and Wales;
+
+.
+
+(4) In Schedule 8 (privately fostered children) in paragraph 3, for sub-paragraph (b) substitute—
+
+> - (b) a compulsory supervision order or interim compulsory supervision order as defined by sections 83 and 86 of the Children’s Hearings (Scotland) Act 2011.
+
+.
+
+#### 3. Armed Forces Act 1991[^key-0f52124085bdc8b368fbc894a68641ed]
+
+In section 21(4)(b) of the Armed Forces Act 1991[^f00026] (duration of protection orders), for “the Children (Scotland) Act 1995” substitute “the Children’s Hearings (Scotland) Act 2011”.
+
+#### 4. Social Security Contributions and Benefits Act 1992[^key-0ec70bd1325ede4f88547a703a6bfd0e]
+
+(1) The Social Security Contributions and Benefits Act 1992[^f00027] is amended as follows.
+
+(2) In section 143(3)(c) (disregard of days of absence in the case of children in residential accommodation in pursuance of arrangements made under the specified enactments)[^f00028], for sub-paragraph (vii) and the word “or” immediately preceding it substitute—
+
+> - (vii) the Children (Scotland) Act 1995; or
+> - (viii) the Children’s Hearings (Scotland) Act 2011.
+
+.
+
+(3) In paragraph 1 of Schedule 9 (exclusions from entitlement to child benefit)[^f00029] for sub‑paragraph (b) substitute—
+
+> - (b) is subject to a compulsory supervision order (within the meaning of section 83 of the Children’s Hearings (Scotland) Act 2011) and is residing in a residential establishment (within the meaning of section 202(1) of that Act);
+
+.
+
+#### 5. Children (Scotland) Act 1995[^key-e72d132524c80597d0b0697f345c3d2b]
+
+In section 93(1) (interpretation of Part 2) of the 1995 Act[^f00030], in the definition of “residential establishment”, at the end of paragraph (a), insert “or the Children’s Hearings (Scotland) Act 2011;”.
+
+#### 6. National Minimum Wage Act 1998[^key-614ae8284d90b525b862585b33702586]
+
+In section 44(4) of the National Minimum Wage Act 1998[^f00031] (voluntary workers) in the definition of “statutory body”, after “legislation)” insert “and includes the Children’s Panel”.
+
+#### 7. Private Security Industry Act 2001[^key-2aff67cfae82eca7b21bcdf206181b8b]
+
+In paragraph 4A(1)(b) of Schedule 2 (activities liable to control under the Act) to the Private Security Industry Act 2001[^f00032], for the words from “under” to the end substitute “to the sheriff by virtue of section 93(2)(a) or 94(2)(a) of the Children’s Hearings (Scotland) Act 2011.”.
+
+#### 8. Tax Credits Act 2002[^key-8904416bd17da8d8e9d70cc79652fdd7]
+
+In paragraph 10A(2)(b) of Schedule 5 (use and disclosure of information) to the Tax Credits Act 2002[^f00033], after “1995” insert “, or Part 5, 6, 13 or 14 of the Children’s Hearings (Scotland) Act 2011,”.
+
+#### 9. Adoption and Children Act 2002[^key-192195d11520a6c404338915d7240edb]
+
+In section 46(2) (adoption orders) of the Adoption and Children Act 2002[^f00034], after paragraph (c) insert—
+
+> - (ca) any child assessment order or child protection order within the meaning given in section 202(1) of the Children’s Hearing (Scotland) Act 2011,
+
+.
+
+#### 10. Income Tax (Trading and Other Income) Act 2005[^key-f00f926a39ffe62d67505924ffc68478]
+
+In section 806 of the Income Tax (Trading and Other Income) Act 2005[^f00035] (meaning of providing foster care)—
+
+- (a) for subsection (2) substitute—
+
+  > (2) An individual is a foster carer if the child is placed with the individual by virtue of a compulsory supervision order or interim compulsory supervision order, or under any of the following enactments, unless the individual is excluded by subsection (5).
+
+  ;
+- (b) in subsection (3), omit paragraph (c);
+- (c) for subsection (4), substitute—
+
+  > (4) An individual is also a foster carer if the individual is approved as a foster carer by a local authority or a voluntary organisation in accordance with regulations under section 5 of the Social Work (Scotland) Act 1968, and the child in respect of whom the accommodation is provided—
+  >
+  > - (a) is being looked after by a local authority within the meaning of section 17(6) of the Children (Scotland) Act 1995, or
+  > - (b) is subject to an order or warrant made by the children’s hearing or sheriff under the Children’s Hearings (Scotland) Act 2011,
+  >
+  > unless the individual is excluded by subsection (5).
+
+  ; and
+- (d) after subsection (5) insert—
+
+  > (6) In this section—
+  >
+  > - “compulsory supervision order” has the meaning given by section 83 of the Children’s Hearings (Scotland) Act 2011; and
+  > - “interim compulsory supervision order” has the meaning given by section 86 of that Act.
+
+  .
+
+#### 11. Corporate Manslaughter and Corporate Homicide Act 2007[^key-d5a08c170daee869911c4cd10e0e5be5]
+
+In section 7(2) (child-protection and probation functions) of the Corporate Manslaughter and Corporate Homicide Act 2007[^f00036], after paragraph (b) insert—
+
+> - (ba) the Children’s Hearings (Scotland) Act 2011,
+
+.
+
+### PART 2 — Modification of Statutory Instruments
+
+#### 12. Income Support (General) Regulations 1987[^key-1bcab9e07bf97a8ad7de1b9f9eb8ea8e]
+
+(1) The Income Support (General) Regulations 1987[^f00037] are amended as follows.
+
+(2) In regulation 13(2)(dd) (circumstances in which persons in relevant education are to be entitled to income support)[^f00038], after “(promotion of children’s welfare by local authorities and by children’s hearings etc.)” insert “, or by virtue of any order or warrant made under the Children’s Hearings (Scotland) Act 2011,”.
+
+(3) In Schedule 1B[^f00039], for paragraph 2 (prescribed categories of person – single persons looking after foster children) substitute—
+
+> **2.** A single claimant or a lone parent with whom a child is placed—
+>
+> - (a) by a local authority or voluntary organisation within the meaning of the Children Act 1989;
+> - (b) by a local authority or voluntary organisation within the meaning of the Children (Scotland) Act 1995;
+> - (c) by virtue of any order or warrant made under the Children’s Hearings (Scotland) Act 2011.
+
+.
+
+#### 13. The Children (Northern Ireland) Order 1995[^key-d8305d4168c73b9d6f7ecf6532e341b9]
+
+In Article 70(7)(c) (refuges for children at risk) of the 1995 Order[^f00040], for the words “section 83 of the Children (Scotland) Act 1995” substitute “section 171(2) of the Children’s Hearings (Scotland) Act 2011”.
+
+#### 14. The Children (Reciprocal Enforcement of Prescribed Orders etc. (England, Wales and Northern Ireland)) (Scotland) Regulations 1996[^key-1bf3bb0790cda0f491dc24761348e0ca]
+
+(1) The Children (Reciprocal Enforcement of Prescribed Orders etc. (England, Wales and Northern Ireland)) (Scotland) Regulations 1996[^f00041] are amended as follows.
+
+(2) In regulation 1 (interpretation)—
+
+- (a) in paragraph (2)—
+  - (i) omit the definition of “the Act”;
+  - (ii) omit the definition of “the 1969 Act”;
+  - (iii) omit the definition of “the Northern Ireland 1968 Act”;
+  - (iv) omit the definition of “the 1950 Act”;
+  - (v) for the definition of “authority” substitute—
+
+    > - “authority” means in relation to Northern Ireland a Health and Social Care Trust established by Article 10 of the Health and Personal Social Services (Northern Ireland) Order 1991[^f00042] and renamed by section 1(3) of the Health and Social Care (Reform) Act (Northern Ireland) 2009[^f00043];
+
+    ;
+  - (vi) in the definition of “corresponding England and Wales Order” omit “supervision requirement or”;
+  - (vii) in the definition of “corresponding Northern Ireland Order” omit “supervision requirement or”; and
+  - (viii) omit the definition of “supervision requirement”;
+- (b) in paragraph (4), for “regulations 2 and 4” substitute “regulation 4”; and
+- (c) in paragraph (5), for “regulations 3 and 5” substitute “regulation 5”.
+
+(3) Omit regulations 2 (transfer of care etc. orders from England and Wales to Scotland) and 3 (transfer of care etc. orders from Northern Ireland to Scotland) and Schedules 1, 2 and 3.
+
+(4) In regulation 4 (the title of which becomes “Transfer of permanence orders from Scotland to England and Wales”)—
+
+- (a) for paragraph (1) substitute—
+
+  > (1) A permanence order, as described and listed in column 1 of Schedule 4 (appearing to the Secretary of State as generally corresponding in effect to a care order as described and listed in column 2 of that Schedule) shall, in the circumstances described in paragraphs (2) and (3) have effect for all the purposes of the 1989 Act as if it were a care order made under the 1989 Act placing the child in the care of the local authority in whose area the child is to live.
+
+  ;
+- (b) in paragraph (2) omit sub-paragraph (a);
+- (c) in paragraph (3) omit “, supervision or education supervision”, “through the Principal Reporter in the case of a supervision requirement, or, in the case of a permanence order” and “supervision requirement or”; and
+- (d) in paragraph (4) omit “supervision requirements and”.
+
+(5) In regulation 5 (the title of which becomes “Transfer of permanence orders from Scotland to Northern Ireland”)—
+
+- (a) for paragraph (1) substitute—
+
+  > (1) A permanence order, as described and listed in column 1 of Schedule 5 (appearing to the Secretary of State as generally corresponding in effect to a care order as described and listed in column 2 of that Schedule) shall, in the circumstances described in paragraphs (2) and (3) have effect for all the purposes of the 1995 Order as if it were a care order made under the 1995 Order placing the child in the care of the authority in whose area the child is to live.
+
+  ;
+- (b) in paragraph (2) omit sub-paragraph (a);
+- (c) in paragraph (3) omit “, supervision or education supervision, probation or training”, “through the Principal Reporter in the case of a supervision requirement, or, in the case of a permanence order” and “supervision requirement or”; and
+- (d) in paragraph (4) omit “supervision requirements and”.
+
+(6) In Schedule 4 omit all but paragraph 6 in columns 1 and 2 (C. court orders and family court orders).
+
+(7) In Schedule 5 omit all but paragraph 6 in columns 1 and 2 (C. court orders and the Children (Northern Ireland) Order 1995).
+
+#### 15. Redundancy Payments (Continuity of Employment in Local Government etc.) (Modification) Order 1999[^key-bb7e11b8f0c6ff9eb6cb0927bab5ce16]
+
+In paragraph 20 of section 10 of Schedule 1 to the Redundancy Payments (Continuity of Employment in Local Government etc.) (Modification) Order 1999[^f00044], after “section 128 of the 1994 Act” insert “and continued by section 15 (the Scottish Children’s Reporter Administration) of the Children’s Hearings (Scotland) Act 2011[^f00045]”.
+
+#### 16. Data Protection (Subject Access Modification) (Education) Order 2000[^key-99a50119e5e0dace6cbbde83442b9125]
+
+In article 2 (interpretation) of the Data Protection (Subject Access Modification) (Education) Order 2000[^f00046], in the definition of “Principal Reporter”—
+
+- (a) for “section 127 of the Local Government etc. (Scotland) Act 1994” substitute “the Children’s Hearings (Scotland) Act 2011”; and
+- (b) for “section 131(1) of that Act” substitute “paragraph 10(1) of schedule 3 to that Act”.
+
+#### 17. Data Protection (Subject Access Modification) (Social Work) Order 2000[^key-af8a340aacfae261e5f7205e801d05b3]
+
+(1) The Data Protection (Subject Access Modification) (Social Work) Order 2000[^f00047] is amended as follows.
+
+(2) In article 2 (interpretation)[^f00048], in the definition of “Principal Reporter”—
+
+- (a) for “section 127 of the Local Government etc. (Scotland) Act 1994” substitute “the Children’s Hearings (Scotland) Act 2011”; and
+- (b) for “section 131(1) of that Act” substitute “paragraph 10(1) of schedule 3 to that Act”.
+
+(3) In the Schedule (personal data to which this order applies), in paragraph 1(p), for “section 41 of the Children (Scotland) Act 1995” substitute “section 30(2) or 31(3) of the Children’s Hearings (Scotland) Act 2011” [^f00049].
+
+#### 18. Disqualification from Caring for Children (England) Regulations 2002[^key-3226253a5e2eed123956f6e388dc8d06]
+
+(1) The Disqualification from Caring for Children (England) Regulations 2002[^f00050] are amended as follows.
+
+(2) In regulation 2 (grounds for disqualification), after paragraph (4) insert—
+
+> (4A) A compulsory supervision order, within the meaning of section 83 of the Children’s Hearings (Scotland) Act 2011 or an interim compulsory supervision order, within the meaning of section 86 of that Act, has been made at any time with respect to a child so as to remove that child from his care.
+
+.
+
+(3) In the Schedule (specified offences)—
+
+- (a) in paragraph 2(6)(a) (offences in Scotland), at the start insert “section 59(1) or 171(2) of the Children’s Hearings (Scotland) Act 2011,”; and
+- (b) after paragraph 4(3) (other offences) insert—
+
+  > (4) An offence contrary to article 10(2) (offences relating to absconding) or article 11(1) (offence of intentional obstruction) of the Children’s Hearings (Scotland) Act 2011 (Consequential and Transitional Provisions and Savings) Order 2013.
+
+  .
+
+#### 19. The Child Tax Credit Regulations 2002[^key-fbc36cc5192beb5c3fc83e6468a9c48b]
+
+(1) The Child Tax Credit Regulations 2002[^f00051] are amended as follows.
+
+(2) In regulation 2(1) (interpretation), in the definition of “looked after by a local authority”, at the end insert “, and (in Scotland) includes a child in respect of which a child assessment order within the meaning of section 35 of the Children’s Hearings (Scotland) Act 2011 has been made or a child protection order within the meaning of section 37 of that Act has been made.”
+
+(3) In regulation 3(1), Rule 4.1, Case A (circumstances in which a person is or is not responsible for a child or qualifying young person), after “Part II of the Children (Scotland) Act 1995” insert “by virtue of a requirement in a child assessment order within the meaning of section 35 of the Children’s Hearings (Scotland) Act 2011, a child protection order within the meaning of section 37 of that Act, a compulsory supervision order within the meaning of section 83 of that Act or an interim compulsory supervision order within the meaning of section 86 of that Act,”.
+
+#### 20. The Children (Leaving Care) Social Security Benefits (Scotland) Regulations 2004[^key-73adb75ee45ca6278b0d2ddbbd04b5fb]
+
+In regulation 2(4)(b) (entitlement to benefits (Scotland): meaning of “accommodated”) of the Children (Leaving Care) Social Security Benefits (Scotland) Regulations 2004[^f00052]—
+
+- (a) for “in compliance with a direction made in a supervision requirement under section 70(3) of that Act,” substitute “by giving effect to a compulsory supervision order and a requirement within that order of the type mentioned in section 83(2)(a) of the Children’s Hearings (Scotland) Act 2011,”;
+- (b) for “that Act or in compliance with a direction made in a supervision requirement under that Act,” substitute “the Children (Scotland) Act 1995 or by giving effect to a requirement within a compulsory supervision order under the Children’s Hearings (Scotland) Act 2011,”.
+
+#### 21. The Child Trust Funds Regulations 2004[^key-cd3ed9d1324da4d08fb809e68ff6852e]
+
+In regulation 33A(2) (the Official Solicitor or Accountant of Court to be the person who has the authority to manage an account) of the Child Trust Funds Regulations 2004[^f00053], in Condition 3—
+
+- (a) for “(or, in Scotland, a supervision requirement made with a condition regulating contact under section 70(5)(b) of the Children (Scotland) Act 1995 that the child shall have no contact with a person with parental responsibilities)” substitute “(or, in Scotland, a compulsory supervision order or an interim compulsory supervision order is in force and contains a direction regulating contact to the effect that the child has no contact with a person who has parental responsibilities in relation to that child)”;
+- (b) at the end insert—
+
+  > In this Condition—
+  >
+  > - (a) “compulsory supervision order” has the meaning given by section 83 of the Children’s Hearings (Scotland) Act 2011;
+  > - (b) “interim compulsory supervision order” has the meaning given by section 86 of that Act; and
+  > - (c) “contact direction” means a measure mentioned in section 83(2)(g) of that Act and contained within a compulsory supervision order or an interim compulsory supervision order.
+
+  .
+
+#### 22. Disqualification from Caring for Children (Wales) Regulations 2004/Rheoliadau Datgymhwyso rhag Gofalu am Blant (Cymru) 2004[^key-3a3e85c99183b93e76a95c075043ecb5]
+
+(1) In the Schedule (specified offences, relevant persons and relevant lists) to the English language text of the Disqualification from Caring for Children (Wales) Regulations 2004[^f00054]—
+
+- (a) in paragraph 10, after “the Children (Scotland) Act 1995” insert “, section 59(1) or 171(2) of the Children’s Hearings (Scotland) Act 2011”;
+- (b) after paragraph 20 insert—
+
+  > **20A.** An offence contrary to article 10(2) (offences relating to absconding) or article 11(1) (offence of intentional obstruction) of the Children’s Hearings (Scotland) Act 2011 (Consequential and Transitional Provisions and Savings) Order 2013.
+
+  ;
+- (c) in paragraph 22(f), after “1995” insert “or section 37 of the Children’s Hearings (Scotland) Act 2011”; and
+- (d) after paragraph 23 insert—
+
+  > **23A.** A compulsory supervision order, within the meaning of section 83 of the Children’s Hearings (Scotland) Act 2011, or an interim compulsory supervision order within the meaning of section 86 of that Act, has been made at any time with respect to a child so as to remove that child from that person’s care.
+
+  .
+
+(2) In the Schedule (tramgwyddau penodedig, personau perthnasol a rhestri pethnasol) to the Welsh language text of those Regulations (Rheoliadau Datgymhwyso rhag Gofalu am Blant (Cymru) 2004)—
+
+- (a) in paragraph 10, after “Ddeddf Plant (Yr Alban) 1995” insert “, adran 59(1) neu 171(2) o Ddeddf Gwrandawiadau Plant (Yr Alban) 2011”;
+- (b) after paragraph 20 insert—
+
+  > **20A.** Tramgwydd yn groes i erthygl 10(2) (tramgwyddau mewn perthynas â dianc) neu erthygl 11(1) (tramgwydd rhwystro bwriadol) o Orchymyn Deddf Gwrandawiadau Plant (Yr Alban) 2011 (Addasiadau Canlyniadol, Darpariaethau Trosiannol ac Arbed) 2013.
+
+  ;
+- (c) in paragraph 22(dd) after “1995” insert “neu adran 37 o Ddeddf Gwrandawiadau Plant (Yr Alban) 2011”; and
+- (d) after paragraph 23 insert—
+
+  > **23A.** Mae gorchymyn goruchwylio gorfodol, o fewn ystyr “compulsory supervision order” yn adran 83 o Ddeddf Gwrandawiadau Plant (Yr Alban) 2011, neu orchymyn goruchwylio gorfodol dros dro, o fewn ystyr “interim compulsory supervision order” yn adran 86 o’r Ddeddf honno, wedi’i wneud ar unrhyw bryd ynglŷn â phlentyn er mwyn symud y plentyn hwnnw o ofal y person hwnnw.
+
+  .
+
+#### 23. The Housing Benefit Regulations 2006[^key-b8f81c898dd4abbe484582053e8236d7]
+
+(1) The Housing Benefit Regulations 2006[^f00055] are amended as follows.
+
+(2) In regulation 2(1) (interpretation)[^f00056], in the definition of “young individual” after paragraph (h) insert—
+
+> or
+>
+> - (i) who is a person who has not attained the age of 22 years and has ceased to be subject to a compulsory supervision order within the meaning of section 83 of the Children’s Hearings (Scotland) Act 2011 (“the 2011 Act”) which had continued after that person attained the age of 16 years, other than a case where—
+>   - (i) the section 67 ground (within the meaning of that Act) was based on the sole condition as to the need for compulsory measures of supervision specified in section 67(2)(j) (the child has committed an offence)of the 2011 Act; or
+>   - (ii) that person was required by virtue of the compulsory supervision order to reside with a parent or guardian of that person within the meaning of the 1995 Act, or with a friend or relative of that person or of that person’s parent or guardian;
+
+.
+
+(3) In regulation 13D(2)(a)(ii) (determination of a maximum rent (LHA))[^f00057], after “paragraphs (b) to (f)” insert “or (i)”.
+
+(4) In regulation 21 (circumstances in which a person is to be treated as being or not being a member of the household)[^f00058]—
+
+- (a) in paragraph (3)(a), after “boarded out”, insert “or placed”; and
+- (b) in paragraph (6)—
+  - (i) omit the final “and”; and
+  - (ii) at the end insert “and the Children’s Hearings (Scotland) Act 2011.”.
+
+#### 24. The Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations 2006[^key-7c1daa0cb7a79da996c0d6fea5113a0e]
+
+(1) The Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations 2006[^f00059] are amended as follows.
+
+(2) In regulation 13D(12) (determination of a maximum rent (LHA))[^f00060], in the definition of “care leaver” after paragraph (c) insert—
+
+> - (ca) that person has ceased to be subject to a compulsory supervision order within the meaning of section 83 of the Children’s Hearings (Scotland) Act 2011 (“the 2011 Act”) which had continued after that person attained the age of 16 years, other than a case where—
+>   - (i) the section 67 ground (within the meaning of that Act) was based on the sole condition as to the need for compulsory measures of supervision specified in section 67(2)(j) of the 2011 Act (the child has committed an offence); or
+>   - (ii) that person was required by virtue of the compulsory supervision order to reside with a parent or guardian of that person within the meaning of the 1995 Act, or with a friend or relative of that person or of that person’s parent or guardian;
+
+.
+
+(3) In regulation 21 (circumstances in which a person is to be treated as being or not being a member of the household)[^f00061]—
+
+- (a) in paragraph (3)(a) after “boarded out”, insert “or placed”; and
+- (b) in paragraph (6)—
+  - (i) omit the final “and”; and
+  - (ii) at the end insert “and the Children’s Hearings (Scotland) Act 2011.”.
+
+#### 25. The Child Benefit (General) Regulations 2006[^key-03e878a104a664dbda4fff6ea7fb2c22]
+
+In regulation 18(a) (child or qualifying young person in care) of the Child Benefit (General) Regulations 2006[^f00062], after “the 1995 Act” insert “, by virtue of a requirement in a child assessment order within the meaning of section 35 of the Children’s Hearings (Scotland) Act 2011, a child protection order within the meaning of section 37 of that Act, a compulsory supervision order within the meaning of section 83 of that Act or an interim compulsory supervision order within the meaning of section 86 of that Act,”.
+
+#### 26. Childcare (Disqualification) Regulations 2009[^key-a3835f79d84e15213d18ce9c9fd9d867]
+
+(1) The Childcare (Disqualification) Regulations 2009[^f00063] are amended as follows.
+
+(2) In Schedule 1 (orders etc. relating to the care of children)—
+
+- (a) in paragraph 10, at the end insert “or section 37 of the Children’s Hearings (Scotland) Act 2011”; and
+- (b) after paragraph 13 insert—
+
+  > **13A.** A compulsory supervision order, within the meaning of section 83 of the Children’s Hearings (Scotland) Act 2011, or interim compulsory supervision order, within the meaning of section 86 of that Act, made at any time with respect to a child so as to remove that child from P’s care.
+
+  .
+
+(3) In Schedule 3 (specified offences)—
+
+- (a) in paragraph 2(6)(a)(offences in Scotland) after “the Children (Scotland) Act 1995” insert “, section 59(1) or 171(2) of the Children’s Hearings (Scotland) Act 2011”; and
+- (b) after paragraph 7(3) (other offences) insert—
+
+  > (4) An offence contrary to article 10(2) (offences relating to absconding) or article 11(1) (offence of intentional obstruction) of the Children’s Hearings (Scotland) Act 2011 (Consequential and Transitional Provisions and Savings) Order 2013.
+
+  .
+
+#### 27. Child Minding and Day Care (Disqualification) (Wales) Regulations 2010/Rheoliadau Gwarchod Plant a Gofal Dydd (Anghymhwyso) (Cymru) 2010[^key-584ea8c0792e1cbbe99e5ecf301b33bd]
+
+(1) The English language text of the Child Minding and Day Care (Disqualification) (Wales) Regulations 2010[^f00064] is amended as follows.
+
+(2) In Schedule 1 (orders etc. relating to the care of children)—
+
+- (a) in paragraph 11, after “1995” insert “or made under section 37 of the Children’s Hearings (Scotland) Act 2011”; and
+- (b) after paragraph 14 insert—
+
+  > **14A.** A compulsory supervision order, within the meaning of section 83 of the Children’s Hearings (Scotland) Act 2011, or an interim compulsory supervision order, within the meaning of section 86 of that Act, made at any time with respect to a child so as to remove that child from P’s care.
+
+  .
+
+(3) In Schedule 3 (specified offences)—
+
+- (a) in paragraph 2(6)(a) (offences in Scotland), after “the Children (Scotland) Act 1995” insert “, section 59(1) or 171(2) of the Children’s Hearings (Scotland) Act 2011”; and
+- (b) after paragraph 7(3) (other offences) insert—
+
+  > (4) An offence contrary to article 10(2) (offences relating to absconding) or article 11(1) (offence of intentional obstruction) of the Children’s Hearings (Scotland) Act 2011 (Consequential and Transitional Provisions and Savings) Order 2013.
+
+  .
+
+(4) The Welsh language text of those Regulations (Rheoliadau Gwarchod Plant a Gofal Dydd (Anghymhwyso) (Cymru) 2010) is amended as follows.
+
+(5) In Schedule 1 (gorchmynion etc. mewn perthynas â gofal plant)—
+
+- (a) in paragraph 11, after “1995” insert “neu a wneir o dan adran 37 o Ddeddf Gwrandawiadau Plant (Yr Alban) 2011”; and
+- (b) after paragraph 14 insert—
+
+  > **14A.** Gorchymyn goruchwylio gorfodol, o fewn ystyr “compulsory supervision order” yn adran 83 o Ddeddf Gwrandawiadau Plant (Yr Alban) 2011, neu orchymyn goruchwylio gorfodol dros dro, o fewn ystyr “interim compulsory supervision order” yn adran 86 o’r Ddeddf honno, a wneir ar unrhyw adeg mewn perthynas â phlentyn er mwyn symud y plentyn hwnnw o ofal P.
+
+  .
+
+(6) In Schedule 3 (tramgwyddau penodedig)—
+
+- (a) in paragraph 2(6)(a) (tramgwyddau yn yr Alban), after “Ddeddf Plant (Yr Alban) 1995” insert “, adran 59(1) neu 171(2) o Ddeddf Gwrandawiadau Plant (Yr Alban) 2011”; and
+- (b) after paragraph 7(3) (tramgwyddau eraill) insert—
+
+  > (4) Tramgwydd yn groes i erthygl 10(2) (tramgwyddau mewn perthynas â dianc) neu erthygl 11(1) (tramgwydd rhwystro bwriadol) o Orchymyn Deddf Gwrandawiadau Plant (Yr Alban) 2011 (Addasiadau Canlyniadol, Darpariaethau Trosiannol ac Arbed) 2013.
+
+  .
+
+#### 28. Family Procedure Rules 2010[^key-145a74fd9470d71656beb40172b76c3d]
+
+In rule 12.52(1)(a) of the Family Procedure Rules 2010[^f00065] (stay of proceedings upon notification of wrongful removal etc.), for paragraph (vi) substitute—
+
+> - (vi) a children’s hearing within the meaning of the Children’s Hearings (Scotland) Act 2011;
+
+.
+
+### PART 3 — Repeals and Revocations[^key-2c9b5bd08c7b704b7048777802af25e9]
+
+| Enactment | Extent of repeal or revocation |
+| --- | --- |
+| House of Commons Disqualification Act [1975 (c.24)](https://www.legislation.gov.uk/ukpga/1975/24) | In Part II of Schedule 1, the words “The Scottish Children’s Reporter Administration.”. |
+| Child Abduction and Custody Act [1985 (c.60)](https://www.legislation.gov.uk/ukpga/1985/60) | In section 20(5), the words from “(as” to “1995)”. |
+|  | In Schedule 3, paragraph 5(v). |
+| Children (Scotland) Act [1995 (c.36)](https://www.legislation.gov.uk/ukpga/1995/36) | In section 33(2), the word “or” immediately after paragraph (a). |
+| Scottish Parliament (Disqualification) Order 2010 ([S.I. 2010/2476](https://www.legislation.gov.uk/uksi/2010/2476)) | In Part 1 of the Schedule, the words “Any member of the Scottish Children’s Reporter Administration.”. |
+
+## SCHEDULE 2 — MODIFICATIONS: ENGLAND AND WALES AND NORTHERN IRELAND
+
+Article 18
+
+### PART 1 — Modification of Acts[^key-c071bb3dd5b53d03e92d4819757a196a]
+
+#### Children (Scotland) Act 1995
+
+In section 93(1) (interpretation) of the 1995 Act, in the definition of “children’s hearing”, for “section 39(3), but does not include a business meeting arranged under section 64, of this Act” substitute “section 5 of the Children’s Hearings (Scotland) Act 2011”.
+
+### PART 2 — Repeals and Revocations[^key-2cd87143d97e2886e6ecd3a5255f97dc]
+
+| *Enactment* | *Extent of repeal or revocation* |
+| --- | --- |
+| Tribunals and Inquiries Act [1992 (c.53)](https://www.legislation.gov.uk/ukpga/1992/53) | In Part 2 of Schedule 1, paragraph 61(a) and the title (“Social Work”) relating to it. |
+| Children (Scotland) Act [1995 (c.36)](https://www.legislation.gov.uk/ukpga/1995/36) | In section 33, in subsection (1), the words “or to a supervision requirement” and the words “or, as the case may be, as if it were a supervision requirement”; in subsection (2), paragraph (b) and in the full-out words, the words “or requirement”; subsection (4); and in subsection (5)(b) and (c) the words “or to a supervision requirement”. |
+|  | Sections 74, 82 and 83. |
+|  | In section 93, in subsection (1), the definitions of “chief social work officer”, “child assessment order”, “child protection order”, “compulsory measures of supervision”, “education authority”, “local government area”, “place of safety”, “the Principal Reporter”, “relevant local authority”, “supervision requirement” and “working day”; and, in subsection (2)(b), the definition of “relevant person”. |
+|  | In section 105, in subsection (8), the words “70(4), 74, 82, 83” and “(except section 70(4))”; and subsection (10). |
+| Children’s Hearings (Transmission of Information etc.) (Scotland) Regulations 1996 [S.I. 1996/3260](https://www.legislation.gov.uk/uksi/1996/3260) | The whole instrument. |
+
+## SCHEDULE 3 — MODIFICATIONS: SCOTLAND AND ENGLAND AND WALES
+
+Article 19
+
+### Modification of Acts
+
+#### 1. Social Work (Scotland) Act 1968[^key-d60d4050e817a49e6a88a04c3c5e68b9]
+
+(1) The Social Work (Scotland) Act 1968[^f00066] is amended as follows.
+
+(2) In section 86 (adjustments between authority providing accommodation etc. and authority of area of residence)[^f00067]—
+
+- (a) in subsection (1)(b)—
+  - (i) after “the said Act of 1995” insert “or under or by virtue of the Children’s Hearings (Scotland) Act 2011”; and
+  - (ii) for “that Act” substitute “the Act of 1995”;
+- (b) in subsection (1)(d), for “supervision requirement” substitute “compulsory supervision order or interim compulsory supervision order”;
+- (c) in subsection (3), for “supervision requirement” substitute “compulsory supervision order or interim compulsory supervision order”;
+- (d) in subsection (4)—
+  - (i) at the end of paragraph (b), omit the word “or” ;
+  - (ii) after paragraph (c) insert—
+
+    > - (d) the Children’s Hearings (Scotland) Act 2011
+
+    ;
+- (e) in subsection (6)—
+  - (i) at the end of paragraph (b), omit the word “or” ;
+  - (ii) after paragraph (c) insert—
+
+    > - (d) the Children’s Hearings (Scotland) Act 2011.
+
+    ; and
+- (f) after subsection (10) insert—
+
+  > (11) In this section—
+  >
+  > - “compulsory supervision order” has the meaning given by section 83 of the Children’s Hearings (Scotland) Act 2011; and
+  > - “interim compulsory supervision order” has the meaning given by section 86 of that Act.
+
+  .
+
+#### 2. Criminal Procedure (Scotland) Act 1995[^key-c7b019fb0d416a191e7b663f033d707a]
+
+Section 44 of the Criminal Procedure (Scotland) Act 1995[^f00068] (detention of children) is amended as follows—
+
+- (a) in subsection (3), for “supervision requirement” substitute “compulsory supervision order”;
+- (b) in subsections (4) and (7), for “supervision requirement”, in each place it occurs substitute “compulsory supervision order or interim compulsory supervision order”;
+- (c) in subsection (7), for “requirement” substitute “order”; and
+- (d) in subsection (11), for the definition of “secure accommodation” substitute—
+
+  > - “secure accommodation” means accommodation provided for the purpose of restricting the liberty of children which—
+  >   - (a) in Scotland, is provided in a residential establishment approved in accordance with regulations made under section 78(2) of the Public Service Reform (Scotland) Act 2010;
+  >   - (b) in England, is provided in a children’s home within the meaning of the 2000 Act in respect of which a person is registered under Part 2 of that Act, except that before the coming into force of section 107(2) of the Health and Social Care (Community Health Standards) Act 2003, “secure accommodation” means accommodation in relation to England which—
+  >     - (i) is provided in a children’s home, within the meaning of the 2000 Act, in respect of which a person is registered under Part 2 of that Act; and
+  >     - (ii) is approved by the Secretary of State for the purpose of restricting the liberty of children; and
+  >   - (c) in Wales, is provided in a children’s home within the meaning of the 2000 Act in respect of which a person is registered under Part 2 of that Act;
+
+  .
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order makes provision consequential on the Children’s Hearings (Scotland) Act 2011 (“the 2011 Act”) which restates and amends the law relating to children’s hearings in Scotland.
+
+Articles 2 and 3 contain the extent and interpretation provisions.
+
+Article 4 contains transitional provisions and savings. The Children (Scotland) Act 1995 (“the 1995 Act”) contains provisions which extend to England, Wales and Northern Ireland and these provisions require to continue in effect in respect of cases which, on the coming into force of the 2011 Act, will, for a period, continue under the 1995 Act.
+
+Article 5 makes provision to enable a “relevant order” made under the 2011 Act to be enforced in England, Wales and Northern Ireland. Article 6 makes similar provision in respect of enforcement of a warrant to secure attendance made under the 2011 Act.
+
+Under the 2011 Act, a child can be required, in a Compulsory Supervision Order or an Interim Compulsory Supervision Order, to reside at a specified place. Article 7 provides that that place may be in England or Wales. Provision is also made in respect of the restriction of the child’s liberty where the child is so placed.
+
+An order made under the 2011 Act may require a child to be kept in a particular place. If a child absconds from that place to a place in England, Wales or Northern Ireland, article 8 makes provision regarding the return of that child. Article 9 makes similar provision in respect of a child who absconds from a person who has or is authorised to have control of the child by virtue of an order made under the 2011 Act.
+
+Article 10 creates offences in relation to assisting or inducing a child to abscond, harbouring or concealing a child who has absconded and preventing an absconding child from returning.
+
+Article 11 provides that a person who intentionally obstructs a person acting under certain orders made under the 2011 Act commits an offence.
+
+Article 12 prohibits the publication of “protected information” if publication is intended or is likely to identify a child mentioned in the information or the child’s address or school. Such publication is a criminal offence.
+
+Article 13 makes provision in respect of a child subject to a compulsory supervision order who is taken to live in England or Wales. Article 14 makes similar provision in respect of a child who is taken to live in Northern Ireland. Article 15 makes provision in respect of children subject to orders made in England and Wales and Northern Ireland who transfer to live in Scotland.
+
+Article 16 makes provision in relation to the decision of the person in charge of secure accommodation in which a child is to be placed as to whether to consent to the child being placed in that accommodation.
+
+Articles 17-20 and the Schedules make provision for consequential amendments to primary and secondary legislation in consequence of the 2011 Act.
+
+## Annotations
+
+[^f00001]: Footnote: [1998 c.46](https://www.legislation.gov.uk/ukpga/1998/46).
+
+[^key-21c259d2bacbde527279b0072f2dee6f]: Commencement: Art. 1 in force at 24.6.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1465/article/1/2)
+
+[^key-c5140a7e4b027e21c448c25062d40e11]: Commencement: Art. 2 in force at 24.6.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1465/article/1/2)
+
+[^f00002]: Footnote: [S.I. 1986/594 (N.I. 3)](https://www.legislation.gov.uk/nisi/1986/594).
+
+[^f00003]: Footnote: [1989 c.41](https://www.legislation.gov.uk/ukpga/1989/41).
+
+[^f00004]: Footnote: [1995 c.36](https://www.legislation.gov.uk/ukpga/1995/36).
+
+[^f00005]: Footnote: [S.I. 1995/755 (N.I. 2)](https://www.legislation.gov.uk/nisi/1995/755).
+
+[^f00006]: Footnote: [2011 asp 1](https://www.legislation.gov.uk/asp/2011/1).
+
+[^f00007]: Footnote: [1954 c.33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33).
+
+[^f00008]: Footnote: [S.I. 1991/194 (N.I. 1)](https://www.legislation.gov.uk/nisi/1991/194).
+
+[^f00009]: Footnote: [2009 c.1 (N.I.)](https://www.legislation.gov.uk/nia/2009/1). Pursuant to Article 2(3) of the 1995 Order and [S.R. 1994 No. 64](https://www.legislation.gov.uk/nisr/1994/64) (as amended by [S.R. 1996 No. 439](https://www.legislation.gov.uk/nisr/1996/439)), references in the 1995 Order to an “authority” are construed as references to a Health and Social Care Trust.
+
+[^f00010]: Footnote: [1994 c.39](https://www.legislation.gov.uk/ukpga/1994/39).
+
+[^f00011]: Footnote: Established by Article 10 of [S.I. 1991/194 (N.I. 1)](https://www.legislation.gov.uk/nisi/1991/194) and renamed by section 1(3) of the Health and Social Care (Reform) Act (Northern Ireland) 2009.
+
+[^f00012]: Footnote: [1968 c.49](https://www.legislation.gov.uk/ukpga/1968/49).
+
+[^f00013]: Footnote: Relevant amending instrument is [S.I. 2003/431 (N.I. 9)](https://www.legislation.gov.uk/nisi/2003/431).
+
+[^f00014]: Footnote: Pursuant to Article 2(3) of the 1995 Order and [S.R. 1994 No. 64](https://www.legislation.gov.uk/nisr/1994/64) (as amended by [S.R. 1996 No. 439](https://www.legislation.gov.uk/nisr/1996/439)), references in the 1995 Order to an “authority” are construed as references to a Health and Social Care Trust.
+
+[^f00015]: Footnote: [2010 asp 8](https://www.legislation.gov.uk/asp/2010/8).
+
+[^f00016]: Footnote: [2000 c.14](https://www.legislation.gov.uk/ukpga/2000/14).
+
+[^f00017]: Footnote: [2003 c.43](https://www.legislation.gov.uk/ukpga/2003/43).
+
+[^key-3db38287d06b8ec80c2b3369bbc755d3]: Commencement: Art. 3 in force at 24.6.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1465/article/1/2)
+
+[^key-849f5d1f6f10e496e418306fd33bcf95]: Commencement: Art. 4 in force at 24.6.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1465/article/1/2)
+
+[^f00018]: Footnote: [S.I. 1996/3260](https://www.legislation.gov.uk/uksi/1996/3260).
+
+[^key-e47c89782c2f7be09c2970982ec855e8]: Commencement: Art. 5 in force at 24.6.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1465/article/1/2)
+
+[^key-37ae2a7ed96251d1e89c6480909c42c8]: Commencement: Art. 6 in force at 24.6.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1465/article/1/2)
+
+[^key-1c67786768ba2ffa31a73dd455802bc6]: Commencement: Art. 7 in force at 24.6.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1465/article/1/2)
+
+[^key-26090e5a54a87a04f8b1c696664d88d8]: Textual amendment: [Art. 7(3)](https://www.legislation.gov.uk/uksi/2013/1465/article/7/3) inserted (27.4.2017) by [Children and Social Work Act 2017 (c. 16)](https://www.legislation.gov.uk/ukpga/2017/16), [s. 70(1)(a)](https://www.legislation.gov.uk/ukpga/2017/16/section/70/1/a), [Sch. 1 para. 12](https://www.legislation.gov.uk/ukpga/2017/16/schedule/1/paragraph/12) (with [Sch. 1 para. 14](https://www.legislation.gov.uk/ukpga/2017/16/schedule/1/paragraph/14))
+
+[^key-e327eb0d34bf878ad9ac4374b4a9f4bb]: Commencement: Art. 8 in force at 24.6.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1465/article/1/2)
+
+[^f00019]: Footnote: Section 14 of the 2011 Act provides that there continues to be an officer known as the Principal Reporter.
+
+[^key-0d4a1f511131e9780b166c2bd4c02678]: Commencement: Art. 9 in force at 24.6.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1465/article/1/2)
+
+[^key-d2baf4a31a1a7e7b24e535012f629479]: Commencement: Art. 10 in force at 24.6.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1465/article/1/2)
+
+[^key-167ae89bbd09146f587c1322ca9b7e28]: Commencement: Art. 11 in force at 24.6.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1465/article/1/2)
+
+[^key-d6cfcee9d4b8be0f9df810da503e85ba]: Commencement: Art. 12 in force at 24.6.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1465/article/1/2)
+
+[^f00020]: Footnote: [2007 asp 4](https://www.legislation.gov.uk/asp/2007/4).
+
+[^f00021]: Footnote: [1990 c.42](https://www.legislation.gov.uk/ukpga/1990/42).
+
+[^key-8dd2fdb15f50104955a891f9dfecb542]: Commencement: Art. 13 in force at 24.6.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1465/article/1/2)
+
+[^key-b310b621e5eeabbbc6f535e5fb55358c]: Commencement: Art. 14 in force at 24.6.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1465/article/1/2)
+
+[^f00022]: Footnote: Article 46 was substituted by article 156 of [S.I. 1989/2406 (N.I. 20)](https://www.legislation.gov.uk/nisi/1989/2406).
+
+[^key-b0713ba7893eb210185b7ebb5d5c4253]: Commencement: Art. 15 in force at 24.6.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1465/article/1/2)
+
+[^f00023]: Footnote: [S.S.I. 2013/99](https://www.legislation.gov.uk/ssi/2013/99).
+
+[^key-adf2f94881b8103a2061627612377e8c]: Commencement: Art. 16 in force at 24.6.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1465/article/1/2)
+
+[^key-09ffaae405e8656cee37b43611b73199]: Commencement: Art. 17 in force at 24.6.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1465/article/1/2)
+
+[^key-848171b63e30f2f7cd9c16e54d940a91]: Commencement: Art. 18 in force at 24.6.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1465/article/1/2)
+
+[^key-926e797a8af69749153b78d09671508c]: Commencement: Art. 19 in force at 24.6.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1465/article/1/2)
+
+[^key-351f4ba6e09398e5616987b2a4130714]: Commencement: Art. 20 in force at 24.6.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1465/article/1/2)
+
+[^key-c66da6680eab61df2e2417f4359bbce3]: Commencement: Sch. 1 para. 1 in force at 24.6.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1465/article/1/2)
+
+[^f00024]: Footnote: [1985 c.60](https://www.legislation.gov.uk/ukpga/1985/60).
+
+[^key-3058e352682a45a9c1312dc36448fee6]: Commencement: Sch. 1 para. 2 in force at 24.6.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1465/article/1/2)
+
+[^f00025]: Footnote: [1989 c.41](https://www.legislation.gov.uk/ukpga/1989/41).
+
+[^key-0f52124085bdc8b368fbc894a68641ed]: Commencement: Sch. 1 para. 3 in force at 24.6.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1465/article/1/2)
+
+[^f00026]: Footnote: [1991 c.62](https://www.legislation.gov.uk/ukpga/1991/62).
+
+[^key-0ec70bd1325ede4f88547a703a6bfd0e]: Commencement: Sch. 1 para. 4 in force at 24.6.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1465/article/1/2)
+
+[^f00027]: Footnote: [1992 c.4](https://www.legislation.gov.uk/ukpga/1992/4).
+
+[^f00028]: Footnote: Section 143(3)(c) was amended by: the Child Benefit Act [2005 (c.6)](https://www.legislation.gov.uk/ukpga/2005/6), Schedule 2(1), paragraph 1; the Social Security (Consequential Provisions) Act [1992 (c.6)](https://www.legislation.gov.uk/ukpga/1992/6), Schedule 4(I), paragraph 5; the National Health Service (Consequential Provisions) Act [2006 (c.43)](https://www.legislation.gov.uk/ukpga/2006/43).
+
+[^f00029]: Footnote: Paragraph 1 was amended by the Child Benefit Act [2005 (c.6)](https://www.legislation.gov.uk/ukpga/2005/6), Schedule 1(1), paragraph 17(2).
+
+[^key-e72d132524c80597d0b0697f345c3d2b]: Commencement: Sch. 1 para. 5 in force at 24.6.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1465/article/1/2)
+
+[^f00030]: Footnote: [1995 c.36](https://www.legislation.gov.uk/ukpga/1995/36). Section 39 is prospectively amended by the Children’s Hearings (Scotland) Act 2011, asp 1, schedule 5, paragraph 2(6).
+
+[^key-614ae8284d90b525b862585b33702586]: Commencement: Sch. 1 para. 6 in force at 24.6.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1465/article/1/2)
+
+[^f00031]: Footnote: [1998 c.39](https://www.legislation.gov.uk/ukpga/1998/39).
+
+[^key-2aff67cfae82eca7b21bcdf206181b8b]: Commencement: Sch. 1 para. 7 in force at 24.6.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1465/article/1/2)
+
+[^f00032]: Footnote: [2001 c.12](https://www.legislation.gov.uk/ukpga/2001/12). Paragraph 4A was inserted by the Serious Organised Crime and Police Act [2005 (c.15)](https://www.legislation.gov.uk/ukpga/2005/15), Schedule 15, paragraph 14(c).
+
+[^key-8904416bd17da8d8e9d70cc79652fdd7]: Commencement: Sch. 1 para. 8 in force at 24.6.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1465/article/1/2)
+
+[^f00033]: Footnote: [2002 c.21](https://www.legislation.gov.uk/ukpga/2002/21). Paragraph 10A was inserted by the Children Act [2004 (c. 31)](https://www.legislation.gov.uk/ukpga/2004/31), section 63(1).
+
+[^key-192195d11520a6c404338915d7240edb]: Commencement: Sch. 1 para. 9 in force at 24.6.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1465/article/1/2)
+
+[^f00034]: Footnote: [2002 c.38](https://www.legislation.gov.uk/ukpga/2002/38).
+
+[^key-f00f926a39ffe62d67505924ffc68478]: Commencement: Sch. 1 para. 10 in force at 24.6.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1465/article/1/2)
+
+[^f00035]: Footnote: [2005 c.5](https://www.legislation.gov.uk/ukpga/2005/5).
+
+[^key-d5a08c170daee869911c4cd10e0e5be5]: Commencement: Sch. 1 para. 11 in force at 24.6.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1465/article/1/2)
+
+[^f00036]: Footnote: [2007 c.19](https://www.legislation.gov.uk/ukpga/2007/19).
+
+[^key-1bcab9e07bf97a8ad7de1b9f9eb8ea8e]: Commencement: Sch. 1 para. 12 in force at 24.6.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1465/article/1/2)
+
+[^f00037]: Footnote: [S.I. 1987/1967](https://www.legislation.gov.uk/uksi/1987/1967).
+
+[^f00038]: Footnote: Sub-paragraph (dd) was inserted by [S.I. 1992/468](https://www.legislation.gov.uk/uksi/1992/468).
+
+[^f00039]: Footnote: Schedule 1B was inserted by [S.I. 1992/206](https://www.legislation.gov.uk/uksi/1992/206) and paragraph 2 was amended by [S.I. 2009/2655](https://www.legislation.gov.uk/uksi/2009/2655).
+
+[^key-d8305d4168c73b9d6f7ecf6532e341b9]: Commencement: Sch. 1 para. 13 in force at 24.6.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1465/article/1/2)
+
+[^f00040]: Footnote: [S.I. 1995/755 (N.I. 2)](https://www.legislation.gov.uk/nisi/1995/755). Amended by the Children (Scotland) Act 1995, Schedule 4, paragraph 58.
+
+[^key-1bf3bb0790cda0f491dc24761348e0ca]: Commencement: Sch. 1 para. 14 in force at 24.6.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1465/article/1/2)
+
+[^f00041]: Footnote: [S.I. 1996/3267](https://www.legislation.gov.uk/uksi/1996/3267) as amended by [S.S.I. 2009/420](https://www.legislation.gov.uk/ssi/2009/420) and [S.I. 2011/1740](https://www.legislation.gov.uk/uksi/2011/1740).
+
+[^f00042]: Footnote: [S.I. 1991/194 (N.I. 1)](https://www.legislation.gov.uk/nisi/1991/194).
+
+[^f00043]: Footnote: [2009 c.1 (N.I.)](https://www.legislation.gov.uk/nia/2009/1).
+
+[^key-bb7e11b8f0c6ff9eb6cb0927bab5ce16]: Commencement: Sch. 1 para. 15 in force at 24.6.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1465/article/1/2)
+
+[^f00044]: Footnote: [S.I. 1999/2277](https://www.legislation.gov.uk/uksi/1999/2277), to which there have been amendments not relevant to this Order.
+
+[^f00045]: Footnote: Section 15 provides that there continues to be a body corporate known as the Scottish Children’s Reporter Administration.
+
+[^key-99a50119e5e0dace6cbbde83442b9125]: Commencement: Sch. 1 para. 16 in force at 24.6.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1465/article/1/2)
+
+[^f00046]: Footnote: [S.I. 2000/414](https://www.legislation.gov.uk/uksi/2000/414), to which there have been amendments not relevant to this Order.
+
+[^key-af8a340aacfae261e5f7205e801d05b3]: Commencement: Sch. 1 para. 17 in force at 24.6.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1465/article/1/2)
+
+[^f00047]: Footnote: [S.I. 2000/415](https://www.legislation.gov.uk/uksi/2000/415).
+
+[^f00048]: Footnote: There have been amendments to article 2 which are not relevant to this Order.
+
+[^f00049]: Footnote: Paragraph 1(p) was amended by [S.I. 2002/3220](https://www.legislation.gov.uk/uksi/2002/3220) and [2005/467](https://www.legislation.gov.uk/uksi/2005/467).
+
+[^key-3226253a5e2eed123956f6e388dc8d06]: Commencement: Sch. 1 para. 18 in force at 24.6.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1465/article/1/2)
+
+[^f00050]: Footnote: [S.I. 2002/635](https://www.legislation.gov.uk/uksi/2002/635), to which there have been amendments not relevant to this Order.
+
+[^key-fbc36cc5192beb5c3fc83e6468a9c48b]: Commencement: Sch. 1 para. 19 in force at 24.6.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1465/article/1/2)
+
+[^f00051]: Footnote: [S.I. 2002/2007](https://www.legislation.gov.uk/uksi/2002/2007).
+
+[^key-73adb75ee45ca6278b0d2ddbbd04b5fb]: Commencement: Sch. 1 para. 20 in force at 24.6.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1465/article/1/2)
+
+[^f00052]: Footnote: [S.I. 2004/747](https://www.legislation.gov.uk/uksi/2004/747), to which there have been amendments not relevant to this Order.
+
+[^key-cd3ed9d1324da4d08fb809e68ff6852e]: Commencement: Sch. 1 para. 21 in force at 24.6.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1465/article/1/2)
+
+[^f00053]: Footnote: [S.I. 2004/1450](https://www.legislation.gov.uk/uksi/2004/1450). Regulation 33A was inserted [S.I. 2004/3382](https://www.legislation.gov.uk/uksi/2004/3382). There have been amendments to paragraph (2) of regulation 33A which are not relevant to this Order.
+
+[^key-3a3e85c99183b93e76a95c075043ecb5]: Commencement: Sch. 1 para. 22 in force at 24.6.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1465/article/1/2)
+
+[^f00054]: Footnote: [S.I. 2004/2695 (W. 235)](https://www.legislation.gov.uk/wsi/2004/2695), to which there have been amendments not relevant to this Order.
+
+[^key-b8f81c898dd4abbe484582053e8236d7]: Commencement: Sch. 1 para. 23 in force at 24.6.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1465/article/1/2)
+
+[^f00055]: Footnote: [S.I. 2006/213](https://www.legislation.gov.uk/uksi/2006/213).
+
+[^f00056]: Footnote: There have been amendments to regulation 2 which are not relevant to this Order.
+
+[^f00057]: Footnote: Regulation 13D was inserted by [S.I. 2007/2868](https://www.legislation.gov.uk/uksi/2007/2868). There have been amendments to regulation 13D which are not relevant to this Order.
+
+[^f00058]: Footnote: Regulation 21(3)(a) was amended by the Housing Benefit and Council Tax Benefit (Miscellaneous Amendments) Regulations 2010 ([S.I. 2010/2449](https://www.legislation.gov.uk/uksi/2010/2449)), regulation 2(3); and regulation 21(6) was amended by the Adoption and Children (Scotland) Act 2007 (Consequential Modifications) Order ([S.I. 2011/1740](https://www.legislation.gov.uk/uksi/2011/1740)), schedule 1(2), paragraph 39(3)(b).
+
+[^key-7c1daa0cb7a79da996c0d6fea5113a0e]: Commencement: Sch. 1 para. 24 in force at 24.6.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1465/article/1/2)
+
+[^f00059]: Footnote: [S.I. 2006/214](https://www.legislation.gov.uk/uksi/2006/214).
+
+[^f00060]: Footnote: Regulation 13D was inserted by [S.I. 2007/2869](https://www.legislation.gov.uk/uksi/2007/2869). There have been amendments to regulation 13D which are not relevant to this Order.
+
+[^f00061]: Footnote: Regulation 21(3)(a) was amended by [S.I. 2010/2449](https://www.legislation.gov.uk/uksi/2010/2449) and regulation 21(6) was amended by [S.I. 2011/1740](https://www.legislation.gov.uk/uksi/2011/1740).
+
+[^key-03e878a104a664dbda4fff6ea7fb2c22]: Commencement: Sch. 1 para. 25 in force at 24.6.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1465/article/1/2)
+
+[^f00062]: Footnote: [S.I. 2006/223](https://www.legislation.gov.uk/uksi/2006/223).
+
+[^key-a3835f79d84e15213d18ce9c9fd9d867]: Commencement: Sch. 1 para. 26 in force at 24.6.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1465/article/1/2)
+
+[^f00063]: Footnote: [S.I. 2009/1547](https://www.legislation.gov.uk/uksi/2009/1547).
+
+[^key-584ea8c0792e1cbbe99e5ecf301b33bd]: Commencement: Sch. 1 para. 27 in force at 24.6.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1465/article/1/2)
+
+[^f00064]: Footnote: [S.I. 2010/1703 (W. 163)](https://www.legislation.gov.uk/wsi/2010/1703), to which there have been amendments not relevant to this Order.
+
+[^key-145a74fd9470d71656beb40172b76c3d]: Commencement: Sch. 1 para. 28 in force at 24.6.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1465/article/1/2)
+
+[^f00065]: Footnote: [S.I. 2010/2955](https://www.legislation.gov.uk/uksi/2010/2955).
+
+[^key-2c9b5bd08c7b704b7048777802af25e9]: Commencement: Sch. 1 Pt. 3 in force at 24.6.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1465/article/1/2)
+
+[^key-c071bb3dd5b53d03e92d4819757a196a]: Commencement: Sch. 2 Pt. 1 in force at 24.6.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1465/article/1/2)
+
+[^key-2cd87143d97e2886e6ecd3a5255f97dc]: Commencement: Sch. 2 Pt. 2 in force at 24.6.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1465/article/1/2)
+
+[^key-d60d4050e817a49e6a88a04c3c5e68b9]: Commencement: Sch. 3 para. 1 in force at 24.6.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1465/article/1/2)
+
+[^f00066]: Footnote: [1968 c.49](https://www.legislation.gov.uk/ukpga/1968/49).
+
+[^f00067]: Footnote: Section 86 was amended by the Children Act [1989 (c.41)](https://www.legislation.gov.uk/ukpga/1989/41), Schedule 13, paragraph 23; the National Health Service and Community Care Act [1995 (c.36)](https://www.legislation.gov.uk/ukpga/1995/36), Schedule 4, paragraph 15; the Mental Health (Care and Treatment) (Scotland) Act [2003 (asp 13)](https://www.legislation.gov.uk/asp/2003/13), schedule 4, paragraph 1; the National Health Service (Consequential Provisions) Act [2006, c.43](https://www.legislation.gov.uk/ukpga/2006/43), Schedule 1, paragraph 42; the Adult Support and Protection (Scotland) Act [2007 (asp 10)](https://www.legislation.gov.uk/asp/2007/10), section 65(1); the Criminal Justice and Immigration Act [2008 (c.4)](https://www.legislation.gov.uk/ukpga/2008/4), Schedule 4, paragraph 12; and by the Criminal Justice and Licensing (Scotland) Act [2010 asp 13](https://www.legislation.gov.uk/asp/2010/13), schedule 2, paragraph 31.
+
+[^key-c7b019fb0d416a191e7b663f033d707a]: Commencement: Sch. 3 para. 2 in force at 24.6.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1465/article/1/2)
+
+[^f00068]: Footnote: [1995 c.46](https://www.legislation.gov.uk/ukpga/1995/46).

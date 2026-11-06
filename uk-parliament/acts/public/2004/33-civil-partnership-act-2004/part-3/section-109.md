@@ -1,0 +1,31 @@
+---
+title: Civil Partnership Act 2004, section 109
+act: Civil Partnership Act 2004
+section: '109'
+status: revised-with-pending-changes
+text_date: '2026-07-01'
+extent: S
+source_url: https://www.legislation.gov.uk/ukpga/2004/33/section/109
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Civil Partnership Act 2004, section 109
+
+> **Warning: changes not yet applied to this text (29).** Text as at 2026-07-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/33
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 109. Provisions where both civil partners have title
+
+*Extent: S*
+
+(1) Subject to subsection (2), where, apart from the provisions of this Chapter, both civil partners are entitled to occupy a family home—
+
+- (a) the rights in that home of one civil partner are not prejudiced by reason only of any dealing of the other civil partner, and
+- (b) a third party is not by reason only of such a dealing entitled to occupy that home or any part of it.
+
+(2) Sections 106(3) and 107 and the definition of “dealing” in section 106(2) apply for the purposes of subsection (1) as they apply for the purposes of section 106(1) but subject to the following modifications—
+
+- (a) any reference to the entitled partner and to the non-entitled partner is to be construed as a reference to a civil partner who has entered into, or as the case may be proposes to enter into, a dealing and to the other civil partner respectively, and
+- (b) in paragraph (b) of section 107(4) the reference to occupancy rights is to be construed as a reference to any rights in the family home.

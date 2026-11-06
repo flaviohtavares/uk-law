@@ -1,0 +1,67 @@
+---
+title: Finance Act 2014, section 160
+act: Finance Act 2014
+section: '160'
+status: revised-with-pending-changes
+text_date: '2026-06-25'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2014/26/section/160
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Finance Act 2014, section 160
+
+> **Warning: changes not yet applied to this text (30).** Text as at 2026-06-25. See https://www.legislation.gov.uk/changes/affected/ukpga/2014/26
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 160. Prizes
+
+*Extent: E+W+S+N.I.*
+
+(1) A reference in section 156 or 157 to providing a prize to a person includes a reference to crediting money to an account only[^key-2c7f71e431fa32754bcfefd49d842f4e] if the person is notified that—
+
+- (a) the money is being held in the account, and
+- (b) the person is entitled to withdraw it on demand.
+
+(2)[^key-df908860ef57dfd511a7acf24ffd9c43] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) The return of all or part of a gaming payment is to be treated for the purposes of sections 156 and 157 as the provision of a prize (but where a gaming payment is returned by being credited to an account this subsection has effect subject to subsection (1))[^key-be3906e2f9c5f618f307f8240fa6e3ff].
+
+(4) Where a prize is obtained by or on behalf of a gaming provider from a person not connected with the person who obtains the prize, the cost to the person who obtains the prize is to be treated as the expenditure on the prize for the purposes of sections 156 and 157.
+
+(5) Where a prize is a voucher which—
+
+- (a) may be used in place of money as whole or partial payment for benefits of a specified kind obtained from a specified person,
+- (b) specifies an amount as the sum or maximum sum in place of which the voucher may be used, and
+- (c) does not fall within subsection (4),
+
+the specified amount is the value of the voucher for the purposes of sections 156 and 157.
+
+(6) Where a prize is a voucher (whether or not it falls within subsection (4)) no expenditure is to be treated as having been incurred on the prize for the purposes of sections 156 and 157 if—
+
+- (a) it does not satisfy subsection (5)(a) and (b), or
+- (b) its use as described in subsection (5)(a) is subject to a specified restriction, condition or limitation which may make the value of the voucher to the recipient significantly less than the amount mentioned in subsection (5)(b).
+
+(7) In the case of a prize which is neither money nor a voucher and which does not fall within subsection (4), the expenditure on the prize for the purposes of sections 156 and 157 is—
+
+- (a) the amount which the prize would cost if obtained from a person not connected with the person who provides it, or
+- (b) where no amount can reasonably be determined in accordance with paragraph (a), nil.
+
+(8) For the purposes of this section—
+
+- (a) a reference to connection between two persons is to be construed in accordance with section 1122 of CTA 2010 (connected persons), and
+- (b) an amount paid by way of value added tax on the acquisition of a thing is to be treated as part of its cost (irrespective of whether or not the amount is taken into account for the purpose of a credit or refund).
+
+(9)[^key-c4448c64298d738df5852f03700f2b56] This section has effect subject to section 160A.
+
+## Annotations
+
+[^key-2c7f71e431fa32754bcfefd49d842f4e]: Textual amendment: Word in s. 160(1) inserted (with effect in accordance with s. 46(9) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 46(4)(a)](https://www.legislation.gov.uk/ukpga/2017/32/section/46/4/a)
+
+[^key-df908860ef57dfd511a7acf24ffd9c43]: Textual amendment: S. 160(2) omitted (with effect in accordance with s. 46(9) of the amending Act) by virtue of [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 46(4)(b)](https://www.legislation.gov.uk/ukpga/2017/32/section/46/4/b)
+
+[^key-be3906e2f9c5f618f307f8240fa6e3ff]: Textual amendment: Words in s. 160(3) inserted (with effect in accordance with s. 46(9) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 46(4)(c)](https://www.legislation.gov.uk/ukpga/2017/32/section/46/4/c)
+
+[^key-c4448c64298d738df5852f03700f2b56]: Textual amendment: S. 160(9) inserted (with effect in accordance with s. 46(9) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 46(4)(d)](https://www.legislation.gov.uk/ukpga/2017/32/section/46/4/d)

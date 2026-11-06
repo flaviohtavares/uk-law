@@ -1,0 +1,132 @@
+---
+title: The Registered Pension Schemes etc (Information) (Prescribed Descriptions of Persons) Regulations 2010
+id: uksi/2010/650
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2010-03-08'
+text_date: '2013-10-14'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2010/650
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2010/650/pdfs/uksiem_20100650_en.pdf
+- http://www.legislation.gov.uk/uksi/2010/650/pdfs/uksi_20100650_en.pdf
+- http://www.legislation.gov.uk/uksi/2010/650/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Registered Pension Schemes etc (Information) (Prescribed Descriptions of Persons) Regulations 2010
+
+> Text as at 2013-10-14.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2010 No. 650
+
+Income Tax
+
+The Registered Pension Schemes etc (Information) (Prescribed Descriptions of Persons) Regulations 2010
+
+Made
+
+8th March 2010
+
+Laid before the House of Commons
+
+10th March 2010
+
+Coming into force
+
+1st April 2010
+
+The Commissioners for Her Majesty’s Revenue and Customs, in exercise of the powers conferred by paragraph 34B(8) of Schedule 36 to the Finance Act 2008[^f00001], make the following Regulations:
+
+## 1. Citation, commencement and interpretation[^key-4a18df4b8b6fce5a62113e5204ada56e]
+
+(1) These Regulations may be cited as the Registered Pension Schemes etc (Information) (Prescribed Descriptions of Persons) Regulations 2010 and shall come into force on 1st April 2010.
+
+(2) In these Regulations, “the description” means the prescribed description of person for the purposes of sub-paragraph (8) of paragraph 34B of Schedule 36 to the Finance Act 2008 (information and inspection powers: registered pension schemes etc).
+
+## 2. Prescribed descriptions of persons: registered pension schemes[^key-cd5dd06083e83d54b665a1e550c78f32]
+
+(1) In relation to a registered pension scheme, the descriptions are—
+
+- (a) any person who is, or at any time during the relevant period has been, the scheme administrator;
+- (b) any person who is, or at any time during the relevant period has been, a trustee of the scheme;
+- (c) any person who is, or at any time during the relevant period has been, a sponsoring employer in relation to the scheme; and
+- (d) any person who receives a notice under paragraph 5 of Schedule 36 to the Finance Act 2008 which requires information or the production of a document for the purposes of identifying the scheme administrator.
+
+(2) The relevant period is the period which—
+
+- (a) begins with the time the event in relation to which information is required by the third party notice or notice under paragraph 5 of Schedule 36 to the Finance Act 2008 occurred; and
+- (b) ends with the end of the sixth tax year following the one in which that event occurred.
+
+(3) “Sponsoring employer” has the meaning given by subsection (6) of section 150 of the Finance Act 2004[^f00002].
+
+## 2A. Prescribed descriptions of persons: QROPS and former QROPS[^key-e9fb04ddc7d6055288378b3364ce3da0]
+
+(1) In relation to a QROPS or former QROPS the description is any person who is, or at any time during the relevant period has been, the scheme manager.
+
+(2) For the purposes of paragraph (1) the relevant period has the meaning given in regulation 2(2), subject to the substitution of “tenth” for “sixth” in regulation 2(2)(b).
+
+## 3. Prescribed description of persons: annuities purchased with pension scheme assets[^key-39cf5aac31111f92df5312e4f22fab95]
+
+(1) In relation to an annuity purchased with sums or assets held for the purposes of a registered pension scheme or a pre-2006 pension scheme, the description is the insurance company or other person from whom the annuity has been purchased.
+
+(2) “Insurance company” has the meaning given by section 275 of the Finance Act 2004.
+
+## 4. Prescribed descriptions of persons: employer-financed retirement benefit schemes[^key-2b9170bc208f7b64b676ee1f8f3d93c7]
+
+(1) In relation to the coming into operation of an employer-financed retirement benefits scheme, the description is the responsible person at the time the scheme comes into operation.
+
+(2) In relation to the provision of relevant benefits under an employer-financed retirement benefits scheme, the description is the responsible person at the time the third party notice or notice under paragraph 5 of Schedule 36 to the Finance Act 2008 is issued.
+
+(3) In relation to either the coming into operation of or the provision of relevant benefits under an employer-financed retirement benefits scheme, the description is also any person who receives a notice under paragraph 5 of Schedule 36 to the Finance Act 2008 which requires information or the production of a document for the purposes of identifying the responsible person.
+
+(4) A scheme comes into operation on the earlier of—
+
+- (a) the first date on or after the coming into force of these Regulations on which an employer makes a contribution to the scheme; and
+- (b) the first date on or after the coming into force of these Regulations on which relevant benefits are provided.
+
+(5) “Relevant benefits” has the meaning given by section 393B of the Income Tax (Earnings and Pensions) Act 2003[^f00003].
+
+Dave Hartnett
+
+Steve Lamey
+
+Two of the Commissioners for Her Majesty’s Revenue and Customs
+
+8th March 2010
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+Schedule 36 to the Finance Act 2008 contains powers for Her Majesty’s Revenue and Customs (“HMRC”) to require information and documents from a taxpayer or third party for the purpose of checking the taxpayer’s tax position. There are also powers for HMRC to require information from a third party for the purpose of checking another person’s tax position where that person’s identity is not known.
+
+Paragraph 34B of Schedule 36 makes special provision in relation to requirements by HMRC for information about certain pensions matters. This provision includes a requirement that where HMRC requires information from a third party, a copy of the notice requiring the information is given to the scheme administrator in relation to a registered pension scheme or the responsible person in relation to an employer-financed retirement benefits scheme. However, under sub-paragraph (8) of paragraph 34B, this requirement does not apply where the third party is a prescribed description of person. These Regulations prescribe descriptions of persons for the purposes of that sub-paragraph.
+
+A full Impact Assessment has not been produced for this instrument as no impact on the private or voluntary sectors is foreseen.
+
+## Annotations
+
+[^f00001]: Footnote: [2008 c.9](https://www.legislation.gov.uk/ukpga/2008/9). The definition of “prescribed” for the purposes of paragraph 34B(8) is set out in paragraph 34C. Paragraphs 34B and 34C were inserted by paragraph 11 of Schedule 48 to the [Finance Act 2009 (c.10)](https://www.legislation.gov.uk/ukpga/2009/10).
+
+[^key-4a18df4b8b6fce5a62113e5204ada56e]: Commencement: Reg. 1 in force at 1.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/650/regulation/1/1)
+
+[^key-cd5dd06083e83d54b665a1e550c78f32]: Commencement: Reg. 2 in force at 1.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/650/regulation/1/1)
+
+[^f00002]: Footnote: [2004 c.12](https://www.legislation.gov.uk/ukpga/2004/12).
+
+[^key-e9fb04ddc7d6055288378b3364ce3da0]: Textual amendment: [Reg. 2A](https://www.legislation.gov.uk/uksi/2010/650/regulation/2A) inserted (E.W.S.) (14.10.2013) by [The Registered Pension Schemes and Overseas Pension Schemes (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/2259)](https://www.legislation.gov.uk/uksi/2013/2259), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2259/regulation/1), [25](https://www.legislation.gov.uk/uksi/2013/2259/regulation/25)
+
+[^key-39cf5aac31111f92df5312e4f22fab95]: Commencement: Reg. 3 in force at 1.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/650/regulation/1/1)
+
+[^key-2b9170bc208f7b64b676ee1f8f3d93c7]: Commencement: Reg. 4 in force at 1.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/650/regulation/1/1)
+
+[^f00003]: Footnote: [2003 c.1](https://www.legislation.gov.uk/ukpga/2003/1). Section 393B was inserted by subsection (3) of section 249 of the [Finance Act 2004 (c.12)](https://www.legislation.gov.uk/ukpga/2004/12).

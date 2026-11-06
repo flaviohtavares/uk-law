@@ -1,0 +1,45 @@
+---
+title: Crime (International Co-operation) Act 2003, section 93
+act: Crime (International Co-operation) Act 2003
+section: '93'
+status: revised-with-pending-changes
+text_date: '2022-11-30'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2003/32/section/93
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Crime (International Co-operation) Act 2003, section 93
+
+> **Warning: changes not yet applied to this text (11).** Text as at 2022-11-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/32
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 93. Supplementary and consequential provision
+
+*Extent: E+W+S+N.I.*
+
+(1) The appropriate Minister may by order made by statutory instrument make—
+
+- (a) any supplementary, incidental or consequential provision,
+- (b) any transitory, transitional or saving provision,
+
+which he considers necessary or expedient for the purposes of, in consequence of or for giving full effect to any provision of this Act.
+
+(2) The appropriate Minister means—
+
+- (a) in relation to any provision that would, if included in an Act of the Scottish Parliament, be within the legislative competence of that Parliament, the Scottish Ministers,
+- (b) in relation to any other provision, the Secretary of State.
+
+(3) The provision which may be made under subsection (1) includes provision amending or repealing any enactment or instrument.
+
+(4) An order under this section may make different provision for different purposes.
+
+(5) A statutory instrument (other than an instrument to which subsection (6) applies) containing an order under this section made by the Secretary of State is subject to annulment in pursuance of a resolution of either House of Parliament.
+
+(6) A statutory instrument containing such an order which adds to, replaces or omits any part of the text of an Act is not to be made unless a draft of the instrument has been laid before, and approved by a resolution of, each House of Parliament.
+
+(7) A statutory instrument (other than an instrument to which subsection (8) applies) containing an order under this section made by the Scottish Ministers is subject to annulment in pursuance of a resolution of the Scottish Parliament.
+
+(8) A statutory instrument containing such an order which adds to, replaces or omits any part of the text of an Act or of an Act of the Scottish Parliament is not to be made unless a draft of the instrument has been laid before, and approved by a resolution of, the Scottish Parliament.

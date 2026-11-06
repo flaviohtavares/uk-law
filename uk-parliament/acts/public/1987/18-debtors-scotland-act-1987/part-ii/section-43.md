@@ -1,0 +1,41 @@
+---
+title: Debtors (Scotland) Act 1987, section 43
+act: Debtors (Scotland) Act 1987
+section: '43'
+status: revised-with-pending-changes
+text_date: '2025-04-06'
+extent: S
+source_url: https://www.legislation.gov.uk/ukpga/1987/18/section/43
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Debtors (Scotland) Act 1987, section 43
+
+> **Warning: changes not yet applied to this text (40).** Text as at 2025-04-06. See https://www.legislation.gov.uk/changes/affected/ukpga/1987/18
+>
+> Extent: Scotland.
+
+## 43. Conjoining of further poinding with original poinding.
+
+*Extent: S*
+
+**May not be in force at this date. Check the source.**
+
+(1) Subject to subsection (2) below, where a report of a further poinding by the same creditor to enforce the same debt executed in pursuance of section 9(12), 23(2), 28(2) or (6), 29(2), 40(5) or 41(6) of this Act has been received under section 22 of this Act, the sheriff shall, on an application made to him by the creditor or by an officer of court on his behalf, make an order conjoining the further poinding with the original poinding.
+
+(2) It shall not be competent for the sheriff to make an order under subsection (1) above—
+
+- (a) where a warrant of sale has been granted in respect of the original poinding or the further poinding;
+- (b) until 14 days after the date of execution of the further poinding; or
+- (c) while an application under this Part of this Act in relation to the further poinding is pending or, where such an application has been disposed of by the sheriff—
+  - (i) until the period for leave to appeal has expired without an application for leave having been made;
+  - (ii) where an application for leave to appeal is made, until leave has been refused or the application has been abandoned;
+  - (iii) where leave to appeal has been granted, until the period for an appeal has expired without an appeal being made; or
+  - (iv) where an appeal against the decision is made, until the matter has been finally determined or the appeal has been abandoned.
+
+(3) Where the sheriff makes an order under subsection (1) above, it shall not thereafter be competent for him to grant any application for warrant of sale relating to the original poinding which is pending when the order is made.
+
+(4) The effect of an order under subsection (1) above shall be that thereafter the further poinding shall be treated for all purposes as if it were part of the original poinding, except that the references to a poinding being invalid or having ceased to have effect in sections 24(1), 30(2)(a)(i) and 35(2)(a) of this Act shall be construed as references to either poinding being invalid or having ceased to have effect.
+
+(5) The decision of the sheriff under subsection (1) above shall not be subject to appeal.

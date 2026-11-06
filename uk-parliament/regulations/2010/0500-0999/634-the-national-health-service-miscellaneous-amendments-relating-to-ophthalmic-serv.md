@@ -1,0 +1,240 @@
+---
+title: The National Health Service (Miscellaneous Amendments Relating to Ophthalmic Services) Regulations 2010
+id: uksi/2010/634
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2010-03-06'
+text_date: '2013-04-01'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2010/634
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2010/634/pdfs/uksiem_20100634_en.pdf
+- http://www.legislation.gov.uk/uksi/2010/634/pdfs/uksi_20100634_en.pdf
+- http://www.legislation.gov.uk/uksi/2010/634/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The National Health Service (Miscellaneous Amendments Relating to Ophthalmic Services) Regulations 2010
+
+> Text as at 2013-04-01.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2010 No. 634
+
+National Health Service, England
+
+The National Health Service (Miscellaneous Amendments Relating to Ophthalmic Services) Regulations 2010
+
+Made
+
+6th March 2010
+
+Laid before Parliament
+
+10th March 2010
+
+Coming into force
+
+1st April 2010
+
+The Secretary of State for Health makes the following Regulations in exercise of the powers conferred by sections 115, 118, 119, 121, 122 and 272(7) and (8) of the National Health Service Act 2006[^f00001].
+
+## 1. Citation, commencement and application[^key-6e433d8ea2d90e2cbd072f812470a5ac]
+
+(1) These Regulations may be cited as the National Health Service (Miscellaneous Amendments Relating to Ophthalmic Services) Regulations 2010 and come into force on 1st April 2010.
+
+(2) These Regulations apply in relation to England.
+
+## 2. Amendments to the Primary Ophthalmic Services Regulations 2008[^key-8e0a9662bfbcafde96235c44380d1ad4]
+
+(1) The Primary Ophthalmic Services Regulations 2008[^f00002] are amended as follows.
+
+(2) In regulation 2 (interpretation)—
+
+- (a) for the definition of “additional services” substitute—
+
+  > - “additional services” means mobile services which are provided to persons falling within regulation 3(1)(a) to (h);
+
+  ;
+- (b) after the definition of “Charges Regulations” insert—
+
+  > - “child” means a person who has not attained the age of 16 years;
+
+  ;
+- (c) for the definition of “mandatory services” substitute—
+
+  > - “mandatory services” means the primary ophthalmic services provided under section 115(1)(a) of the Act (sight-testing service) to a person who falls within regulation 3(1) except sight-testing services provided as mobile services;
+
+  ;
+- (d) in the definition of “mobile services” for “additional services in its locality;” substitute “such services in its area;”; and
+- (e) in the definition of “sight test form” after “accordance with” insert “the”.
+
+(3) After regulation 2 (interpretation), insert—
+
+> **2A. Sight-testing services**
+>
+> Sight-testing services provided by way of mobile services are prescribed primary ophthalmic services for the purposes of section 115(1)(b) of the Act.
+
+.
+
+(4) In regulation 4 (sight tests – applications), omit paragraph (5).
+
+(5) In regulation 6 (applications and signatures by children or persons incapable), for paragraph (1) substitute—
+
+> (1) Subject to paragraph (2), an application for mandatory services or additional services may be made, and a signature required under regulation 4 by these Regulations may be given—
+>
+> - (a) on behalf of a child by—
+>   - (i) either parent,
+>   - (ii) the guardian or other adult person who has the care of the child,
+>   - (iii) a person duly authorised by a local authority to whose care the child has been committed under the Children Act 1989[^f00003], or
+>   - (iv) a person duly authorised by a voluntary organisation which is accommodating the child under the provisions of that Act; or
+> - (b) on behalf of any adult who is incapable of making such an application, or of authorising such an application to be made on their behalf, by a relative or the primary carer of that person.
+
+.
+
+## 3. Amendments to the General Ophthalmic Services Contracts Regulations 2008[^key-7fce03d59e0f5f85347ea0d61daff333]
+
+(1) The General Ophthalmic Services Contracts Regulations 2008[^f00004] are amended as follows.
+
+(2) In regulation 2 (interpretation)—
+
+- (a) for the definition of “additional services” substitute—
+
+  > - “additional services” means mobile services which are provided to persons falling within regulation 3(1)(a) to (h) of the POS Regulations;
+
+  ; and
+- (b) for the definition of “mandatory services” substitute—
+
+  > - “mandatory services” means the primary ophthalmic services provided under section 115(1)(a) of the Act (sight-testing service) to a person who falls within regulation 3(1) except sight-testing services provided as mobile services;
+
+  ; and
+- (c) in the definition of “mobile services” for “additional services in its locality;” substitute “such services in its area;”.
+
+(3) In regulation 4 (persons eligible to enter into GOS contracts), in paragraph (3)—
+
+- (a) in paragraph (f), omit “(d),”; and
+- (b) in paragraph (m), for sub-paragraph (ii) substitute—
+
+  > - (ii) been removed under—
+  >   - (aa) section 7 of the Law Reform (Miscellaneous Provisions) (Scotland) Act 1990[^f00005] (powers of the Court of Session to deal with management of charities), or
+  >   - (bb) section 34(5)(e) of the Charities and Trustee Investment (Scotland) Act 2005[^f00006] (powers of the Court of Session),
+  >
+  >   from being concerned with the management or control of any body; or;
+
+  .
+
+(4) In regulation 6 (appeals and contract disqualifications), in paragraph (4), for “contract disqualification” substitute “contract disqualification order”.
+
+(5) In regulation 16 (fees, charges and financial interests of the contractor), omit paragraph (8).
+
+(6) In Part 1 of Schedule 1 (other contractual terms – patients), in paragraph 1 (persons to whom mandatory services are to be provided)—
+
+- (a) in sub-paragraph (1), for “the contractor shall provide mandatory services” substitute “the contractor may provide mandatory services”; and
+- (b) in sub-paragraph (2), for paragraph (a) substitute—
+
+  > - (a) on behalf of a child by—
+  >   - (i) either parent,
+  >   - (ii) the guardian or other adult person who has the care of the child,
+  >   - (iii) a person duly authorised by a local authority to whose care the child has been committed under the Children Act 1989, or
+  >   - (iv) a person duly authorised by a voluntary organisation which is accommodating the child under the provisions of that Act.
+
+  .
+
+(7) In Part 2 of Schedule 1 (other contractual terms – provision of services), after paragraph 2 insert—
+
+> **2A. Patient preference of performer**
+>
+> (1) Where the contractor has agreed to provide services to a patient, it must notify the patient (or, in the case of a child or incapable adult, the person who made the application on their behalf) of the patient’s right to express a preference to receive services from a particular performer where more than one performer is available.
+>
+> (2) The contractor must try to comply with any reasonable preference expressed under sub-paragraph (1) but need not do so if the preferred performer has reasonable grounds for refusing to provide services to the patient.
+
+.
+
+(8) In Part 4 of Schedule 1 (other contractual terms – records, information, notifications, name and rights of entry), in paragraph 17(3)(a) (notice provisions specific to a contract with a corporate body), for “maybe” substitute “may be”.
+
+(9) In Part 7 of Schedule 1 (other contractual terms – variation and termination of contracts)—
+
+- (a) in paragraph 40(3)(a) (late payment notices), for “paragraph 30” substitute “paragraph 31”;
+- (b) in paragraph 43(b) (termination by the PCT for the provision of untrue etc. information), for “17(2), 18(2) or 19(2)” substitute “17(2) or 18(2)”;
+- (c) in paragraph 44(2) (termination by the PCT on grounds of suitability etc.), in paragraph (k), for sub-paragraph (ii) substitute—
+
+  > - (ii) removed under—
+  >   - (aa) section 7 of the Law Reform (Miscellaneous Provisions) (Scotland) Act 1990 (powers of the Court of Session to deal with management of charities), or
+  >   - (bb) section 34(5)(e) of the Charities and Trustee Investment (Scotland) Act 2005 (powers of the Court of Session),
+  >
+  >   from being concerned with the management or control of any body; or;
+
+  ;
+- (d) in paragraph 46(8) (termination by the PCT: remedial notices and breach notices), for “that obligation which is subject of the breach.” substitute “the obligation which is the subject of the breach.”;
+- (e) in paragraph 47(2) (termination by the PCT: additional provisions), from “consequence the” to the end of the sub-paragraph substitute “consequence the contractor is no longer suitable to be a contractor.”;
+- (f) in paragraph 49(2)(a) (contract sanctions and the NHS dispute resolution procedure), for “paragraph 33” substitute “paragraph 31”; and
+- (g) in paragraph 50(4)(a) (termination and the NHS dispute resolution procedure), for “the contact” substitute “the contract”.
+
+(10) In Schedule 2 (additional services), in paragraph 4 (inspection of premises where additional services are being provided), for “practise premises” substitute “practice premises”.
+
+## 4. Amendment to the National Health Service (Optical Charges and Payments) Regulations 1997[^key-5e47033e6ae360cffd33d49d0ab9cd7f]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Signed by authority of the Secretary of State for Health
+
+Ann Keen
+
+Parliamentary Under-Secretary of State,
+
+Department of Health
+
+6th March 2010
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations amend the Primary Ophthalmic Services Regulations 2008 (the POS Regulations), the General Ophthalmic Services Contracts Regulations 2008 (the GOS Contracts Regulations) and the National Health Service (Optical Charges and Payments) Regulations 1997 (the Optical Charges Regulations).
+
+The amendments to the POS Regulations and the GOS Contracts Regulations are made as a consequence of drafting errors or as a consequence of provisions which did not achieve the policy intention.
+
+Regulation 2(2)(a), (c) and (d) amends regulation 2(1) of the POS Regulations to amend the definitions of additional services, mandatory services and mobile services. Regulation 3(2)(a) to (c) makes similar amendments to regulation 2(1) of the GOS Contracts Regulations. Regulation 2(2)(b) inserts a new definition of child into regulation 2(1) of the POS Regulations. Regulation 2(2)(e) corrects a drafting error in the definition of sight test form in regulation 2(1) of those Regulations.
+
+Regulation 2(3) inserts a new regulation 2A into the POS Regulations which prescribes mobile services as other primary ophthalmic services.
+
+Regulation 2(4) amends regulation 4 of the POS Regulations to remove the contractor’s right to charge patients for missed appointments. Regulation 3(5) amends regulation 16 of the GOS Contracts Regulations to make a similar provision.
+
+Regulations 2(5) and 3(6)(b) respectively amend regulation 6(1) of the POS Regulations and paragraph 1(2)(a) of Schedule 1 to the GOS Contracts Regulations. These regulations provide that applications for a sight test in respect of a child may be made by either parent, the guardian or any other person who has care of the child, a person duly authorised by a local authority to whose care the child has been committed under the Children Act 1989 or by a person duly authorised by a voluntary organisation which is accommodating the child under the provisions of that Act. Regulation 2(5) also amends regulation 6(1) of the POS Regulations to bring it into line with the similar provision in paragraph 1(2)(b) of Schedule 1 to the GOS Contracts Regulations which deals with applications for a sight test in respect of any adult who is incapable of making such an application, or of authorising such an application to be made on their behalf.
+
+Regulation 3(3) and (4) correct drafting errors in regulations 4(3) and 6(4) of the GOS Contracts Regulations. Regulation 3(6)(a) amends paragraph 1(1) of Schedule 1 to the GOS Contracts Regulations to provide that a contractor may provide mandatory services. Regulation 3(7) inserts new paragraph 2A into that Schedule to provide that a patient has a right to express a preference to receive services from a particular performer. Regulation 3(8) and (9) correct further drafting errors in Schedule 1 to the GOS Contracts Regulations.
+
+Regulation 3(10) corrects a drafting error in paragraph 4 of Schedule 2 to the GOS Contracts Regulations.
+
+Regulation 4 amends the definition of “NHS sight test fee” in regulation 1 of the Optical Charges Regulations to reflect the increase in the fees for NHS sight tests which are set out in Directions made by the Secretary of State (published on the Department of Health website www.dh.gov.uk) by an overall 2.2% approximately. NHS sight test fees are negotiated with the representative bodies for ophthalmic services contractors as part of a three year negotiated fee settlement covering the period 2008 to 2011.
+
+A full regulatory impact assessment has not been produced for this instrument as no impact on the private or voluntary sectors is foreseen.
+
+## Annotations
+
+[^f00001]: Footnote: [2006 c.41](https://www.legislation.gov.uk/ukpga/2006/41)*. See* section 275(1) for the definitions of “prescribed” and “regulations”.
+
+[^key-6e433d8ea2d90e2cbd072f812470a5ac]: Commencement: Reg. 1 in force at 1.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/634/regulation/1/1)
+
+[^key-8e0a9662bfbcafde96235c44380d1ad4]: Commencement: Reg. 2 in force at 1.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/634/regulation/1/1)
+
+[^f00002]: Footnote: [S.I. 2008/1186](https://www.legislation.gov.uk/uksi/2008/1186); the amending instruments are [S.I. 2008/2449](https://www.legislation.gov.uk/uksi/2008/2449) and [2009/409](https://www.legislation.gov.uk/uksi/2009/409).
+
+[^f00003]: Footnote: [1989 c.41](https://www.legislation.gov.uk/ukpga/1989/41).
+
+[^key-7fce03d59e0f5f85347ea0d61daff333]: Commencement: Reg. 3 in force at 1.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/634/regulation/1/1)
+
+[^f00004]: Footnote: [S.I. 2008/1185](https://www.legislation.gov.uk/uksi/2008/1185); the amending instruments are [S.I. 2008/1700](https://www.legislation.gov.uk/uksi/2008/1700) and [2010/22](https://www.legislation.gov.uk/uksi/2010/22).
+
+[^f00005]: Footnote: [1990 c.40](https://www.legislation.gov.uk/ukpga/1990/40); section 7 was repealed by the Charities and Trustee Investment (Scotland) Act [2005 (asp 10)](https://www.legislation.gov.uk/asp/2005/10), Schedule 4, paragraph 7(b).
+
+[^f00006]: Footnote: [2005 asp 10](https://www.legislation.gov.uk/asp/2005/10).
+
+[^key-5e47033e6ae360cffd33d49d0ab9cd7f]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/2010/634/regulation/4) revoked (1.4.2013) by [The National Health Service (Optical Charges and Payments) Regulations 2013 (S.I. 2013/461)](https://www.legislation.gov.uk/uksi/2013/461), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/461/regulation/1/1), [Sch. 4](https://www.legislation.gov.uk/uksi/2013/461/schedule/4)

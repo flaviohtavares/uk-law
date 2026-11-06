@@ -1,0 +1,104 @@
+---
+title: The Criminal Law Act 1977 (Commencement No. 1) Order 1977
+id: uksi/1977/1365
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '1977-08-04'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1977/1365
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1977/1365/pdfs/uksi_19771365_en.pdf
+- http://www.legislation.gov.uk/uksi/1977/1365/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Westlaw UK derived from Crown Copyright material and contributed to legislation.gov.uk
+summary: ''
+---
+
+# The Criminal Law Act 1977 (Commencement No. 1) Order 1977
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+1977 No. 1365 (C. 47)
+
+CRIMINAL LAW, ENGLAND AND WALES
+
+CRIMINAL LAW, SCOTLAND
+
+CRIMINAL LAW, NORTHERN IRELAND
+
+The Criminal Law Act 1977 (Commencement No. 1) Order 1977
+
+Made
+
+4th August 1977
+
+In exercise of the powers conferred on me by section 65(7) of the Criminal Law Act 1977, I hereby make the following Order:—
+
+**1.** This Order may be cited as the Criminal Law Act 1977 (Commencement No. 1) Order 1977.
+
+**2.** The provisions of the Criminal Law Act 1977 specified in column 1 of the Schedule to this Order (which relate to the matters specified in column 2 thereof) shall come into force on 8th September 1977.
+
+Merlyn Rees
+
+One of Her Majesty's Principal Secretaries of State
+
+Home Office
+
+4th August 1977
+
+## SCHEDULE — PROVISIONS OF THE CRIMINAL LAW ACT 1977 COMING INTO FORCE ON 8TH SEPTEMBER 1977
+
+| Provisions of the Act | Subject matter of provisions |
+| --- | --- |
+| Section 5(10)(b) | Amendment to section 4 of the Offences Against the Person Act 1861. |
+| Section 31(1). | Increase of fines for certain summary offences. |
+| Section 33. | Penalty for offences under section 3 of Explosive Substances Act 1883. |
+| Section 43. | Peremptory challenge of jurors. |
+| Section 51. | Bomb hoaxes. |
+| Section 52. | Misuse of Drugs Act 1971: redefinition of cannabis. |
+| Section 54. | Inciting girl under sixteen to have incestuous sexual intercourse. |
+| Section 55. | Amendment of Rabies Act 1974 and Diseases of Animals (N.I.) Order 1975. |
+| Section 57. | Probation and conditional discharge; power to vary statutory minimum or maximum period. |
+| Section 63(1) and so much of section 63(2) as relates to any provisions specified in this Schedule, or in Appendix A or B hereto. | Provisions applying to Scotland. |
+| Section 65. | Citation, etc. |
+| Schedule 6 | Increase of fines for certain summary offences. |
+| In Schedule 11–<br>so much of paragraph 5 as relates to section 289C(1) of the Criminal Procedure (Scotland) Act 1975; paragraph 13. | Amendments of Criminal Procedure (Scotland) Act 1975. |
+| So much of Schedule 12 as is specified in Appendix A hereto. | Minor and consequential amendments. |
+| So much of Schedule 13 as is specified in Appendix B hereto. | Repeals. |
+| Schedule 14. | Transitional provisions. |
+
+### APPENDIX A — PROVISIONS OF SCHEDULE 12 TO THE CRIMINAL LAW ACT 1977 COMING INTO FORCE ON 8TH SEPTEMBER 1977
+
+So much of Schedule 12 as amends the following enactments:—
+
+- The Offences Against the Person Act 1861 (c. 100).
+- The Explosive Substances Act 1883 (c. 3).
+- The Criminal Justice Act 1948 (c. 58).
+- Paragraphs 14 and 15 of Part II of Schedule 2 to the Sexual Offences Act 1956 (c. 69).
+- The Adoption Act 1958 (c. 5).
+- Section 169 of the Licensing Act 1964 (c. 26).
+- The Housing Act 1964 (c. 56).
+- The Housing (Scotland) Act 1966 (c. 49).
+- Section 8(7) of the Gaming Act 1968 (c. 65).
+- Section 13(3) of the Children and Young Persons Act 1969 (c. 54).
+- Sections 15(2) and 17(3) of and paragraph 9 of Schedule 3 to the Powers of Criminal Courts Act 1973 (c. 62).
+- The Adoption Act 1976 (c. 36).
+- Sections 3(8) and 5 of the Bail Act 1976 (c. 63).
+
+### APPENDIX B — REPEALS TAKING EFFECT ON 8TH SEPTEMBER 1977
+
+| Chapter | Short Title | Extent of repeal |
+| --- | --- | --- |
+| 11 & 12 Geo. 6 |  |  |
+| 1948 c. 58 | Criminal Justice Act 1948. | In section 19(3), the words “or justice”. |
+| 1969 c. 54 | Children and Young Persons Act 1969. | In section 13(3), the words from “or if” to “place”. |
+| 1967 c. 80 | Criminal Justice Act 1967. | The entry relating to Part I of Schedule 3. |
+| 1973 c. 62 | Powers of Criminal Courts Act 1973. | In Schedule 3, in paragraph 9, the words from “or if” to “place”. |
+| 1976 c. 63 | Bail Act 1976. | In Schedule 2, in paragraph 38 the words “in paragraph (a)”. |
+
+EXPLANATORY NOTE
+
+This Order brings into force on 8th September 1977 the provisions of the Criminal Law Act 1977 set out in the Schedule to the Order.

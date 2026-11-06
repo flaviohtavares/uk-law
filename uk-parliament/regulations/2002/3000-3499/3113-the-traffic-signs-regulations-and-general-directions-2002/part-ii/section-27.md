@@ -1,0 +1,34 @@
+---
+title: The Traffic Signs Regulations and General Directions 2002, section 27
+act: The Traffic Signs Regulations and General Directions 2002
+section: '27'
+status: revised-with-pending-changes
+text_date: '2016-05-23'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/uksi/2002/3113/section/27
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Traffic Signs Regulations and General Directions 2002, section 27
+
+> **Warning: changes not yet applied to this text (4).** Text as at 2016-05-23. See https://www.legislation.gov.uk/changes/affected/uksi/2002/3113
+>
+> Extent: England, Wales, Scotland.
+
+## 27. Signs to be placed only at specified sites or for specified purposes (affected by repeal, see note)[^key-e6fc0092d01c528d36953c7705fe3143][^key-719e96ccad5bb6f3737643df272d45a5][^key-719e96ccad5bb6f3737643df272d45a5]
+
+*Extent: E+W+S*
+
+The sign shown in diagram 545, when placed in combination with— *(affected by repeal, see note)*[^key-719e96ccad5bb6f3737643df272d45a5]
+
+- (a) the plate shown in diagram 547.1; or *(affected by repeal, see note)*[^key-719e96ccad5bb6f3737643df272d45a5]
+- (b) the plate shown in diagram 546, 547.1 or 547.7 together with the light signal shown in diagram 4004, *(affected by repeal, see note)*[^key-719e96ccad5bb6f3737643df272d45a5]
+
+may be placed only at or near a school crossing place. *(affected by repeal, see note)*[^key-719e96ccad5bb6f3737643df272d45a5]
+
+## Annotations
+
+[^key-e6fc0092d01c528d36953c7705fe3143]: Commencement: Dir. 27 in force at 31.1.2003, see [dir. 1(b)](https://www.legislation.gov.uk/uksi/2002/3113/part/II/regulation/1/b)
+
+[^key-719e96ccad5bb6f3737643df272d45a5]: Textual amendment: Pt. 2 revoked (22.4.2016) by [The Traffic Signs Regulations and General Directions 2016 (S.I. 2016/362)](https://www.legislation.gov.uk/uksi/2016/362), [dir. 1(1)(b)](https://www.legislation.gov.uk/uksi/2016/362/part/2/regulation/1/1), [Sch. 19 Pt. 2](https://www.legislation.gov.uk/uksi/2016/362/schedule/19/part/2) (with [dirs. 12](https://www.legislation.gov.uk/uksi/2016/362/part/2/regulation/12), [13](https://www.legislation.gov.uk/uksi/2016/362/part/2/regulation/13))

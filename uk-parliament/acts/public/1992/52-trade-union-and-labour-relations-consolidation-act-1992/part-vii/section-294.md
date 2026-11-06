@@ -1,0 +1,42 @@
+---
+title: Trade Union and Labour Relations (Consolidation) Act 1992, section 294
+act: Trade Union and Labour Relations (Consolidation) Act 1992
+section: '294'
+status: revised-with-pending-changes
+text_date: '2026-10-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/1992/52/section/294
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Trade Union and Labour Relations (Consolidation) Act 1992, section 294
+
+> **Warning: changes not yet applied to this text (156).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1992/52
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 294. Reciprocal arrangements with Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+(1) If provision is made by Northern Ireland legislation for purposes corresponding to the purposes of any provision of this Act re-enacting a provision of the [^c14523811]Employment Protection Act 1975 or the [^c14523821]Employment Protection (Consolidation) Act 1978, the Secretary of State may, with the consent of the Treasury, make reciprocal arrangements with the appropriate Northern Ireland authority for co-ordinating the relevant provisions of this Act with the corresponding Northern Ireland provisions so as to secure that they operate, to such extent as may be provided by the arrangements, as a single system.
+
+(2) The Secretary of State may make regulations for giving effect to any such arrangements.
+
+(3) The regulations may make different provision for different cases and may contain such supplementary, incidental and transitional provisions as appear to the Secretary of State to be necessary or expedient.
+
+(4) The regulations may provide that the relevant provisions of this Act shall have effect in relation to persons affected by the arrangements subject to such modifications and adaptations as may be specified in the regulations, including provisions—
+
+- (a) for securing that acts, omission and events having any effect for the purposes of the Northern Ireland legislation have a corresponding effect for the purposes of the relevant provisions of this Act (but not so as to confer a right to double payment in respect of the same act, omission or event, and
+- (b) for determining, in cases where rights accrue both under the relevant provisions of this Act and under the Northern Ireland legislation, which of this rights is available to the person concerned.
+
+(5) In this section the appropriate Northern Ireland authority means such authority as is specified in that behalf in the Northern Ireland legislation.
+
+(6) Regulations under this section shall be made by statutory instrument which shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+## Annotations
+
+[^c14523811]: Marginal citation: [1975 c. 71](https://www.legislation.gov.uk/ukpga/1975/71).
+
+[^c14523821]: Marginal citation: [1978 c. 44](https://www.legislation.gov.uk/ukpga/1978/44).

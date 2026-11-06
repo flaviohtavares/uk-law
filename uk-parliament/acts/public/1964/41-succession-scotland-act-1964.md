@@ -1,0 +1,1043 @@
+---
+title: Succession (Scotland) Act 1964
+id: ukpga/1964/41
+type: UnitedKingdomPublicGeneralAct
+category: primary
+status: revised-with-pending-changes
+made_date: '1964-06-10'
+text_date: '2024-04-30'
+extent: S
+source_url: https://www.legislation.gov.uk/ukpga/1964/41
+pdf_urls:
+- http://www.legislation.gov.uk/ukpga/1964/41/pdfs/ukpga_19640041_en.pdf
+- http://www.legislation.gov.uk/ukpga/1964/41/data.pdf
+pending_changes: 18
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Succession (Scotland) Act 1964
+
+> **Warning: changes not yet applied to this text (18).** Text as at 2024-04-30. See https://www.legislation.gov.uk/changes/affected/ukpga/1964/41
+>
+> Extent: Scotland.
+
+*Extent: S*
+
+Succession (Scotland) Act 1964
+
+1964 c. 41
+
+An Act to assimilate and amend the law of Scotland with respect to the succession to the heritable and moveable property of deceased persons; to amend the law in relation to the legal and other prior rights exigible out of such property, to the administration of deceased persons’ estates and other property passing on death, to the capacity of minors to test, and to the presumption of survivorship; to provide for certain testamentary dispositions to be probative; to provide for adopted persons to be treated for certain purposes as children of their adopters; to make new provision as to the financial rights and obligations of the parties on the dissolution of a marriage; and for purposes connected with the matters aforesaid.
+
+\[10th June 1964\][^c14265611][^c14265621][^c14265631]
+
+## Part I — Intestate Succession[^c14265641][^key-ca1ced02962130d9711d70c26a1bde87]
+
+### 1. Assimilation of heritage to moveables for purpose of devolution on intestacy.
+
+(1) The whole of the intestate estate of any person dying after the commencement of this Act (so far as it is estate the succession to which falls to be regulated by the law of Scotland) shall devolve, without distinction as between heritable and moveable property, in accordance with—
+
+- (a) the provisions of this Part of this Act, and
+- (b) any enactment or rule of law in force immediately before the commencement of this Act which is not inconsistent with those provisions and which, apart from this section, would apply to that person’s moveable intestate estate, if any;
+
+and, subject to section 37 of this Act, any enactment or rule of law in force immediately before the commencement of this Act with respect to the succession to intestate estates shall, in so far as it is inconsistent with the provisions of this Part of this Act, cease to have effect.
+
+(2) Nothing in this Part of this Act shall affect legal rights or the prior rights of a surviving spouse or civil partner[^c21778611]; and accordingly any reference in this Part of this Act to an intestate estate shall be construed as a reference to so much of the net intestate estate as remains after the satisfaction of those rights, or the proportion thereof properly attributable to the intestate estate.
+
+### 2. Rights of succession to intestate estate.
+
+(1) Subject to the following provisions of this Part of this Act—
+
+- (a) where an intestate is survived by children, they shall have right to the whole of the intestate estate;
+- (ab)[^key-099ae63fcef34280f379770fb9c40cec] where an intestate is survived by a husband, wife or civil partner, but is not survived by any prior relative, the surviving spouse or civil partner shall have right to the whole of the intestate estate;
+- (b) where an intestate is survived by either of, or both, his parents and is also survived by brothers or sisters, but is not survived by any prior relative, the surviving parent or parents shall have right to one half of the intestate estate and the surviving brothers and sisters to the other half thereof;
+- (c) where an intestate is survived by brothers or sisters, but is not survived by any prior relative, the surviving brothers and sisters shall have right to the whole of the intestate estate;
+- (d) where an intestate is survived by either of, or both, his parents, but is not survived by any prior relative, the surviving parent or parents shall have right to the whole of the intestate estate;
+- (e)[^key-3c3ee42f46bffdf6385ad90ce18acf16] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (f) where an intestate is survived by uncles or aunts (being brothers or sisters of either parent of the intestate), but is not survived by any prior relative, the surviving uncles and aunts shall have right to the whole of the intestate estate;
+- (g) where an intestate is survived by a grandparent or grandparents (being a parent or parents of either parent of the intestate), but is not survived by any prior relative, the surviving grandparent or grandparents shall have right to the whole of the intestate estate;
+- (h) where an intestate is survived by brothers or sisters of any of his grandparents (being a parent or parents of either parent of the intestate), but is not survived by any prior relative, those surviving brothers and sisters shall have right to the whole of the intestate estate;
+- (i) where an intestate is not survived by any prior relative, the ancestors of the intestate (being remoter than grandparents) generation by generation successively, without distinction between the paternal and maternal lines, shall have right to the whole of the intestate estate; so however that, failing ancestors of any generation, the brothers and sisters of any of those ancestors shall have right thereto before ancestors of the next more remote generation.
+
+(2) References in the foregoing subsection to brothers or sisters include respectively brothers and sisters of the half blood as well as of the whole blood; and in the said subsection “**prior relative**”, in relation to any class of person mentioned in any paragraph of that subsection, means a person of any other class who, if he had survived the intestate, would have had right to the intestate estate or any of it by virtue of an earlier paragraph of that subsection or by virtue of any such paragraph and section 5 of this Act.
+
+### 3. Succession of collaterals.
+
+Subject to section 5 of this Act, where brothers and sisters of an intestate or of an ancestor of an intestate (in this section referred to as “**collaterals**”) have right to the whole, or, in a case to which subsection (1)(b) of the last foregoing section applies, to a half, of the intestate estate, the collaterals of the whole blood shall be entitled to succeed thereto in preference to the collaterals of the half blood; but where the collaterals of the half blood have right as aforesaid they shall rank without distinction as between those related to the intestate, or, as the case may be, the ancestor, through their father and those so related through their mother.
+
+### 4. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c14265651]
+
+### 5. Representation.
+
+(1) Subject to section 6 of this Act, where a person who, if he had survived an intestate, would, by virtue of any of the foregoing provisions of this Part of this Act, have had right (otherwise than as a parent , spouse or civil partner[^c21778671] of the intestate) to the whole or to any part of the intestate estate has failed to survive[^key-7074e68291ea6df911dc3e9d8b088031] the intestate, but has left issue who survive the intestate, such issue shall have the like right to the whole or to that part of the intestate estate as the said person would have had if he had survived the intestate.
+
+(2) The right of any issue entitled to share in an intestate estate by virtue of the foregoing subsection to be appointed to the office of executor on the intestate estate shall be postponed to the right thereto of any person who succeeds to the whole or part of the intestate estate by virtue of the foregoing provisions of this Act apart from this section and who applies for appointment to that office.
+
+### 6. Division of intestate estate among those having right thereto.
+
+If, by virtue of the foregoing provisions of this Part of this Act, there are two or more persons having right among them to the whole, or, in a case to which section 2(1)(b) of this Act relates, to a half, of an intestate estate, then the said estate, or, as the case may be, that half thereof, shall—
+
+- (a) if all of those persons are in the same degree of relationship to the intestate, be divided among them equally, and
+- (b) in any other case, be divided equally into a number of parts equal to the aggregate of—
+  - (i) those of the said persons who are nearest in degree of relationship to the intestate (in this section referred to as “**the nearest surviving relatives**”) and
+  - (ii) any other persons who were related to the intestate in that degree, but who have failed to survive[^key-fc29e5963670cf2cdc20472dbe486ed0] him leaving issue who survive him;
+
+  and, of those parts, one shall be taken by each of the nearest surviving relatives, and one shall be taken*per stirpes*by the issue of each of the said persons who have failed to survive the deceased[^key-212728f2e91aca264b9c39aec043a1a4].
+
+[^c14265661]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 7. Saving of right of Crown asultimus haeres.
+
+Nothing in this Part of this Act shall be held to affect the right of the Crown as*ultimus haeres*to any estate to which no person is entitled by virtue of this Act to succeed.
+
+## Part II — Legal and other prior Rights in Estates of Deceased Persons
+
+### 8. Prior rights of surviving spouse or civil partner, on intestacy, in dwelling house and furniture.[^c21781951][^c14265851]
+
+(1) Where a person dies intestate leaving a spouse or civil partner[^c21781861], and the intestate estate includes a relevant interest in a dwelling house mentioned in subsection (4)(a) of this section,[^c21782231] the surviving spouse or civil partner shall be entitled , subject to subsection (2B) of this section,[^c21782271] to receive out of the intestate estate—
+
+- (a)[^c14265861][^c21778491][^c21783201] where the value of the relevant interest does not exceed £30,000 or such larger amount as may from time to time be fixed by order of the Secretary of State[^c14265871]—
+  - (i) if subsection (2) of this section does not apply, the relevant interest;
+  - (ii) if the said subsection (2) applies, a sum equal to the value of the relevant interest;
+- (b)[^c14265861][^c21778491][^c21783201] in any other case, the sum of £30,000 or such larger amount as may from time to time be fixed by order of the Secretary of State.
+
+[^c21782291]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) This subsection shall apply for the purposes of paragraph (a) of the foregoing subsection if—
+
+- (a) the dwelling house forms part only of the subjects comprised in one tenancy or lease under which the intestate was the tenant; or
+- (b) the dwelling house forms the whole or part of subjects an interest in which is comprised in the intestate estate and which were used by the intestate for carrying on a trade, profession or occupation, and the value of the estate as a whole would be likely to be substantially diminished if the dwelling house were disposed of otherwise than with the assets of the trade, profession or occupation.
+
+(2A)[^c21782311] Where the tenant of a croft dies intestate leaving a spouse or civil partner or, where he dies leaving no spouse or civil partner, leaving a cohabitant, and the intestate estate includes a relevant interest in a dwelling house mentioned in subsection (4)(b) of this section, the surviving spouse, civil partner or, as the case may be, cohabitant shall be entitled, subject to subsection (2B) of this section, to receive out of the intestate estate—
+
+- (a) where the value of the relevant interest does not exceed the amount for the time being fixed by order under subsection (1)(a) of this section, the tenancy of the croft;
+- (b) in any other case, the sum for the time being fixed by order under subsection (1)(b) of this section.
+
+(2B) If the intestate estate comprises—
+
+- (a) a relevant interest in two or more dwelling houses mentioned in subsection (4)(a) of this section, subsection (1) of this section shall have effect only in relation to such one of them as the surviving spouse or civil partner may elect for the purposes of subsection (1) within 6 months after the date of death of the intestate;
+- (b) a relevant interest in two or more dwelling houses mentioned in subsection (4)(b) of this section, subsection (2A) of this section shall have effect only in relation to such one of them as the surviving spouse, civil partner or cohabitant may elect for the purposes of subsection (2A) within 6 months after that date;
+- (c) a relevant interest in both—
+  - (i) one or more dwelling houses mentioned in subsection (4)(a) of this section; and
+  - (ii) one or more dwelling houses mentioned in subsection (4)(b) of this section,
+
+  the surviving spouse or civil partner shall not be entitled to receive both the entitlement under subsection (1) of this section and that under subsection (2A) of this section and must elect within 6 months after that date whether to take the entitlement under the said subsection (1) or under the said subsection (2A).
+
+(3) Where a person dies intestate leaving a spouse or civil partner[^c21781901], and the intestate estate includes the furniture and plenishings of a dwelling house to which this section applies (whether or not the dwelling house is comprised in the intestate estate), the surviving spouse or civil partner shall be entitled to receive out of the intestate estate—
+
+- (a)[^c14265901][^c21778521][^c21783241] where the value of the furniture and plenishings does not exceed £8,000 or such larger amount as may from time to time be fixed by order of the Secretary of State, the whole thereof;
+- (b)[^c14265901][^c21778521][^c21783241] in any other case, such part of the furniture and plenishings, to a value not exceeding £8,000 or such larger amount as may from time to time be fixed by order of the Secretary of State, as may be chosen by the surviving spouse or civil partner:
+
+Provided that, if the intestate estate comprises the furniture and plenishings of two or more such dwelling houses, this subsection shall have effect only in relation to the furniture and plenishings of such one of them as the surviving spouse or civil partner may elect for the purposes of this subsection within six months of the date of death of the intestate.
+
+(4)[^c21782331] The dwelling house is—
+
+- (a) in a case mentioned in subsection (1) of this section, any dwelling house in which the surviving spouse or civil partner of the intestate was ordinarily resident at the date of death of the intestate and which did not, at that date, form part of a croft of which the intestate was tenant;
+- (b) in a case mentioned in subsection (2A) of this section, any dwelling house in which the surviving spouse, civil partner or cohabitant was ordinarily resident at the date of death of the intestate and which, at that date, formed part of a croft of which the intestate was tenant.
+
+(5) Where any question arises as to the value of any furniture or plenishings, or of any interest in a dwelling house, for the purposes of any provision of this section the question shall be determined by arbitration by a single arbiter appointed, in default of agreement, by the sheriff of the county in which the intestate was domiciled at the date of his death or, if that county is uncertain or the intestate was domiciled furth of Scotland, the sheriff of the Lothians and Peebles at Edinburgh.
+
+(6) In this section—
+
+- (za)[^c21782351] “ **cohabitant** ” means a person—
+  - (i) who was living with the intestate as if married to him; or
+  - (ii) who was living with the intestate as if in civil partnership with him,
+
+  and had been so living for at least 2 years.
+- (a) “**dwelling house**” includes a part of a building occupied (at the date of death of the intestate) as a separate dwelling; and any reference to a dwelling house shall be construed as including any garden or portion of ground attached to, and usually occupied with, the dwelling house or otherwise required for the amenity or convenience of the dwelling house;
+- (b) “**furniture and plenishings**” includes garden effects, domestic animals, plate, plated articles, linen, china, glass, books, pictures, prints, articles of household use and consumable stores; but does not include any article or animal used at the date of death of the intestate for business purposes, or money or securities for money, or any heirloom;
+- (c) “**heirloom**”, in relation to an intestate estate, means any article which has associations with the intestate’s family of such nature and extent that it ought to pass to some member of that family other than the surviving spouse of the intestate;
+- (d) “**relevant interest**”, in relation to a dwelling house, means the interest therein of an owner, or the interest therein of a tenant, subject in either case to any heritable debt secured over the interest; and for the purposes of this definition “**tenant**” means a tenant under a tenancy or lease (whether of the dwelling house alone or of the dwelling house together with other subjects) which is not a tenancy to which the Rent and Mortgage Interest Restrictions Acts 1920 to 1939 apply.
+
+### 9. Prior right of surviving spouse or civil partner to financial provision on intestacy.[^c21781981][^c14266121]
+
+(1) Where a person dies intestate and is survived by a husband , wife or civil partner the survivor[^c21781961] shall be entitled to receive out of the intestate estate—
+
+- (a)[^c14266131][^c21778551][^c21783281] if the intestate is survived by issue . . . [^c14266141]the sum of £4,000 or such larger amount as may from time to time be fixed by order of the Secretary of State, or[^c14266151]
+- (b)[^c14266161][^c21778571][^c21783301] if the intestate is not survived by issue . . . [^c14266141]the sum of £8,000 or such larger amount as may from time to time be fixed by order of the Secretary of State,
+
+together with, in either case, interest at the rate of 4 per cent. per annum or, at such rate as may from time to time be fixed by order of the Secretary of State,[^c14266191] on such sum from the date of the intestate’s death until payment:
+
+Provided that where the surviving spouse or civil partner[^c21782001] is entitled to receive a legacy out of the estate of the intestate (other than a legacy of any dwelling house to which the last foregoing section applies or of any furniture and plenishings of any such dwelling house), he or she shall, unless he or she renounces the legacy, be entitled under this subsection to receive only such sum, if any, as remains after deducting from the sum fixed by virtue of paragraph (a) of this subsection or the sum fixed by virtue of paragraph (b) of this subsection, as the case may be, the amount or value of the legacy.
+
+(2) Where the intestate estate is less than the amount which the surviving spouse or civil partner is entitled to receive by virtue of subsection (1) of this section the right conferred by the said subsection on the surviving spouse or civil partner shall be satisfied by the transfer to him or her of the whole of the intestate estate.
+
+(3) The amount which the surviving spouse or civil partner is entitled to receive by virtue of subsection (1) of this section shall be borne by, and paid out of, the parts of the intestate estate consisting of heritable and moveable property respectively in proportion to the respective amounts of those parts.
+
+(4) Where by virtue of subsection (2) of this section a surviving spouse or civil partner has right to the whole of the intestate estate, he or she shall have the right to be appointed executor.
+
+(5) The rights conferred by the Intestate Husband’s Estate (Scotland) Acts 1911 to 1959 on a surviving spouse in his or her deceased spouse’s estate shall not be exigible out of the estate of any person dying after the commencement of this Act.
+
+(6) For the purposes of this section—
+
+- (a) the expression “**intestate estate**” means so much of the net intestate estate as remains after the satisfaction of any claims under the last foregoing section; and
+- (b) the expression “**legacy**” includes any payment or benefit to which a surviving spouse or civil partner becomes entitled by virtue of any testamentary disposition; and the amount or value of any legacy shall be ascertained as at the date of the intestate’s death.
+
+### 9A.— Provisions supplementary to ss. 8 and 9.[^c14266211]
+
+Any order of the Secretary of State, under section 8 or 9 of this Act, fixing an amount or rate—
+
+(a) shall be made by statutory instrument which shall be subject to annulment in pursuance of a resolution of either House of Parliament; and
+
+(b) shall have effect in relation to the estate of any person dying after the coming into force of the order.
+
+### 10. Abolition of terce and courtesy, and calculation of legal rights.
+
+(1) The right of courtesy of a surviving husband in his deceased wife’s estate and the right of terce of a surviving wife in her deceased husband’s estate shall not be exigible out of the estate of a person dying after the commencement of this Act.
+
+(2) The amount of any claim to legal rights[^c21782091] out of an estate shall be calculated by reference to so much of the net moveable estate as remains after the satisfaction of any claims thereon under the two last foregoing sections.
+
+### 10A. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c14266221]
+
+### 11. Representation in, and division of, legitim.
+
+(1) Subject to the next following subsection, where a person (hereinafter in this section referred to as “**the deceased**”) dies in circumstances where a child who has failed to survive the deceased[^key-0acffc1fe54afe5214c930b6959dc92d] has left issue who survive the deceased, and the child would, if he had survived the deceased, have been entitled [^c14266231]. . . to legitim out of the deceased’s estate, such issue shall have the like right to legitim as the child would have had if he had survived the deceased.
+
+[^c14266241]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) If, by virtue of the foregoing subsection or otherwise, there are two or more persons having right among them to legitim, then the legitim shall—
+
+- (a) if all of those persons are in the same degree of relationship to the deceased, be divided among them equally, and
+- (b) in any other case, be divided equally into a number of parts equal to the aggregate of—
+  - (i) those of the said persons who are nearest in degree of relationship to the deceased (in this paragraph referred to as “**the nearest surviving relatives**”) and
+  - (ii) any other persons who were related to the deceased in that degree and who (if they had survived him) would have been entitled to legitim out of his estate, but who have failed to survive[^key-325dc66860552f1d552ffba906cf6180] him leaving issue who survive him and are entitled to legitim out of his estate;
+
+  and, of those parts, one shall be taken by each of the nearest surviving relatives, and one shall be taken*per stirpes*by the issue of each of the said persons who have failed to survive the deceased[^key-94830950f8d060dd8f78715b94fd8279], being issue who are entitled as aforesaid.
+
+[^c14266241]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) Nothing in the last foregoing subsection shall be construed as altering any rule of law as to collation of advances; and where any person is entitled to claim legitim out of the estate of a deceased person by virtue of subsection (1) of this section he shall be under the like duty to collate any advances made by the deceased to him, and the proportion appropriate to him of any advances so made to any person through whom he derives such entitlement, as if he had been entitled to claim such legitim otherwise than by virtue of the said subsection (1).
+
+(4) For the avoidance of doubt it is hereby declared that where any person is entitled by virtue of [^c14266261]. . . subsection (1) of this section to legitim out of the estate of the deceased, and the deceased is not survived by any child, the proportion of the estate due to any surviving spouse in respect of*jus relicti or jus relictae*shall be ascertained as if the deceased had been survived by a child.
+
+### 12. Legitim not to be discharged by ante-nuptial marriage contract.
+
+Nothing in any ante-nuptial contract of marriage executed after the commencement of this Act shall operate so as to exclude, on the occurrence of the death of either party to the marriage, the right of any child of the marriage (or of any issue of his coming in his place by virtue of the last foregoing section) to legitim out of the estate of that party unless such child or issue shall elect to accept in lieu of legitim the provision made in his favour under the contract.
+
+### 13. Equitable compensation.
+
+Every testamentary disposition executed after the commencement of this Act by which provision is made in favour of the spouse or of any issue of the testator and which does not contain a declaration that the provision so made is in full and final satisfaction of the right to any share in the testator’s estate to which the spouse or the issue, as the case may be, is entitled by virtue of*jus relicti, jus relictae*or legitim, shall (unless the disposition contains an express provision to the contrary) have effect as if it contained such a declaration.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c14266271]
+
+## Part III — Administration and winding up of estates
+
+### 14. Assimilation for purposes of administration, etc., of heritage to moveables.
+
+(1) Subject to subsection (3) of this section the enactments and rules of law in force immediately before the commencement of this Act with respect to the administration and winding up of the estate of a deceased person so far as consisting of moveable property shall have effect (as modified by the provisions of this Act) in relation to the whole of the estate without distinction between moveable property and heritable property; and accordingly on the death of any person (whether testate or intestate) every part of his estate (whether consisting of moveable property or heritable property) falling to be administered under the law of Scotland shall, by virtue of confirmation thereto, vest for the purposes of administration in the executor thereby confirmed and shall be administered and disposed of according to law by such executor.
+
+(2)[^c14266281] Provision shall be made by the Court of Session by act of sederunt made under the enactments mentioned in section 22 of this Act (as extended by that section) for the inclusion in the confirmation of an executor, by reference to an appended inventory or otherwise, of a description, in such form as may be so provided, of any heritable property forming part of the estate.
+
+(3) Nothing in this section shall be taken to alter any rule of law whereby any particular debt of a deceased person falls to be paid out of any particular part of his estate.
+
+### 15. Provisions as to transfer of heritage.
+
+(1) Section 5(2) of the [^c14266291]Conveyancing (Scotland) Act 1924 (which provides that a confirmation which includes a heritable security shall be a valid title to the debt thereby secured) shall have effect as if any reference therein to a heritable security, or to a debt secured by a heritable security, included a reference to any interest in heritable property which has vested in an executor in pursuance of the last foregoing section by virtue of a confirmation:
+
+Provided that a confirmation (other than an implied confirmation within the meaning of the said section 5(2))[^c14266301] shall not be deemed for the purposes of the said section 5(2) to include any such interest unless a description of the property, in accordance with any act of sederunt such as is mentioned in subsection (2) of the last foregoing section, is included or referred to in the confirmation.
+
+(2) Where in pursuance of the last foregoing section any heritable property has vested in an executor by virtue of a confirmation, and it is necessary for him in distributing the estate to transfer that property—
+
+- (a) to any person in satisfaction of a claim to legal rights or the prior rights of a surviving spouse or civil partner[^c21782111] out of the estate, or
+- (b) to any person entitled to share in the estate by virtue of this Act, or
+- (c) to any person entitled to take the said property under any testamentary disposition of the deceased,
+
+the executor may effect such transfer by endorsing on the confirmation (or where a certificate of confirmation relating to the property has been issued in pursuance of any act of sederunt, on the certificate) a docket in favour of that person in the form set out in Schedule 1 to this Act, or in a form as nearly as may be to the like effect, and any such docket may be specified as a midcouple or link in title in any deduction of title; but this section shall not be construed as prejudicing the competence of any other mode of transfer.
+
+### 16. Provisions relating to leases.[^c14266431]
+
+(1) This section applies to any interest, being the interest of a tenant under a lease, which is comprised in the estate of a deceased person and has accordingly vested in the deceased’s executor by virtue of section 14 of this Act; and in the following provisions of this section “**interest**” means an interest to which this section applies.
+
+(2) Subject to subsection (4A),[^c21778241] where an interest—
+
+- (a) is not the subject of a valid bequest by the deceased, or
+- (b) is the subject of such a bequest, but the bequest is not accepted by the legatee, or
+- (c) being an interest under an agricultural lease, is the subject of such a bequest, but the bequest is declared null and void in pursuance of section 16 of the Act of 1886 or section 12A or 12B[^key-dfa5a1dc5e34d1ec44c84ff6a728225b][^c14266441] of the 1991 Act or becomes null and void under section 10 of the Act of 1955,[^c14266451]
+
+and there is among the conditions of the lease (whether expressly or by implication) a condition prohibiting assignation of the interest, the executor shall be entitled, subject to subsection (2A) of this section, to transfer the interest.[^c21782641]
+
+(2A)[^c21782661] Transfer by an executor pursuant to subsection (2) of this section—
+
+- (a) [^c21783021]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) of an interest under any lease (other than[^c21783041] the lease of a 1991 Act tenancy or[^key-1d267848576533c5e2023852f284a6db] the lease of a croft within the meaning of section 3(1) of the Crofters (Scotland) Act 1993 (c.44)) and which is not a transfer to one of the persons entitled to succeed to the deceased's intestate estate or to claim legal rights or the prior rights of a surviving spouse or civil partner out of the estate, in satisfaction of that person's entitlement or claim, shall require the consent of the landlord.
+
+(3) Subject to subsection (4C),[^c21778261] if in the case of any interest—
+
+- (a) at any time the executor is satisfied that the interest cannot be disposed of according to law and so informs the landlord, or
+- (b) subject to subsection (3A)[^c21783061] the interest is not so disposed of within a period of one year or such longer period as may be fixed by agreement between the landlord and the executor or, failing agreement, by the relevant court on the application of[^c21778281] the executor—
+  - (i) in the case of an interest under an agricultural lease which is the subject of a petition to the Land Court under section 16 of the Act of 1886 , an application under section 12A of the 1991 Act or an appeal under section 12B of that Act to that court[^key-e96ef23e9885daabed4618cb4381d514], from the date of the determination or withdrawal of the petition , the application or, as the case may be, the appeal[^key-a7f86d5e217507b3adbc2c4a18b2fb4f] ,
+  - (ia)[^c14266481] [^c21782721]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (ib) [^c21783081]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (ii) in any other case, from the date of death of the deceased,
+
+either the landlord or the executor may, on giving notice in accordance with the next following subsection to the other, terminate the lease (in so far as it relates to the interest) notwithstanding any provision therein, or any enactment or rule of law, to the contrary effect.
+
+(3A)[^c21783101] In the case of an interest in an agricultural lease which is a lease of a croft within the meaning of section 3(1) of the Crofters (Scotland) Act 1993 (c.44), the period for the purposes of subsection (3)(b) is 24 months.
+
+(4) The period of notice given under the last foregoing subsection shall be—
+
+- (a) in the case of an agricultural lease, such period as may be agreed, or, failing agreement, a period of not less than one year and not more than two years ending with such term of Whitsunday or Martinmas as may be specified in the notice; and
+- (b) in the case of any other lease, a period of six months:
+
+Provided that paragraph (b) of this subsection shall be without prejudice to any enactment prescribing a shorter period of notice in relation to the lease in question.
+
+(4A)[^c21778221] Where an interest, being an interest under a lease constituting a short limited duration tenancy , a limited duration tenancy, a modern limited duration tenancy or a repairing tenancy[^key-b3e1341c088b0fbe119c0934f49ff43a] —
+
+- (a) is not the subject of a valid bequest by the deceased; or
+- (b) is the subject of such a bequest, but the bequest is not accepted by the legatee; or
+- (c) is the subject of such a bequest, but the bequest is declared null and void by virtue of section 21 of the 2003 Act,
+
+and there is among the conditions of the lease (whether expressly or by implication) a condition prohibiting assignation of the interest, the executor shall be entitled, notwithstanding that condition, to transfer the interest to a person to whom subsection (4B) below applies; and the executor shall be entitled so to transfer the interest without the consent of the landlord.
+
+(4B) This subsection applies to—
+
+- (a) any one of the persons entitled to succeed to the deceased’s intestate estate, or to claim legal rights or the prior rights of a surviving spouse out of the estate, in or towards satisfaction of that person’s entitlement or claim; or
+- (b) any other person.
+
+(4C) In the case of any interest under a lease constituting a short limited duration tenancy , a limited duration tenancy, a modern limited duration tenancy or a repairing tenancy[^key-c3d52547d3480141b173799823dde0d4] —
+
+- (a) if at any time the executor is satisfied that the interest cannot be disposed of according to law and so informs the landlord, the executor may terminate the tenancy (in so far as it relates to the interest); and
+- (b) if the interest is not so disposed of within the period referred to in subsection (4D) below, the lease shall (in so far as it relates to the interest) terminate at the expiry of the period,
+
+notwithstanding any provision in the lease, or any enactment or rule of law, to the contrary effect.
+
+(4D) The period is one year or such longer period as may be fixed by agreement or, failing agreement, by the Land Court on the application of the executor—
+
+- (a) in the case of an interest which is the subject of an application to that court by virtue of section 21 of the 2003 Act, from the date of the determination or withdrawal of the application; and
+- (b) in any other case, from the date of death of the deceased.
+
+(4E) The—
+
+- (a) interest may be transferred under subsections (4A) and (4B) above; or
+- (b) tenancy may be terminated under subsection (4C)(a) above,
+
+only if the transfer, or as the case may be, termination is in the best interests of the deceased’s estate.
+
+(5) Subsection (3) of this section shall not prejudice any claim by any party to the lease for compensation or damages in respect of the termination of the lease (or any rights under it) in pursuance of that subsection; but any award of compensation or damages in respect of such termination at the instance of the executor shall be enforceable only against the estate of the deceased and not against the executor personally.
+
+(6) Where an interest is an interest under an agricultural lease, and—
+
+- (a) an application is made under section 3 of the Act of 1931 or section 13 of the Act of 1955[^c14266491] to the Land Court for an order for removal, or
+- (b) a reference is made under section 23(2) and (3) of the 1991 Act[^c14266501] for the determination of[^c21778301] any question which has arisen under section 22(2)(e) of that Act in connection with a notice to quit,
+
+the order or determination shall not be[^c21778321] in favour of the landlord, unless [^c21778341]. . . it is reasonable, having regard to the fact that the interest is vested in the executor in his capacity as executor, that it should be made.
+
+(7) Where an interest is not an interest under an agricultural lease, and the landlord brings an action of removing against the executor in respect of a breach of a condition of the lease, the court shall not grant decree in the action unless it is satisfied that the condition alleged to have been breached is one which it is reasonable to expect the executor to have observed, having regard to the fact that the interest is vested in him in his capacity as an executor.
+
+(8) Where an interest is an interest under an agricultural lease and is the subject of a valid bequest by the deceased, the fact that the interest is vested in the executor under the said section 14 shall not prevent the operation, in relation to the legatee, of paragraphs (a) to (h) of section 16 of the Act of 1886 , sections 11(8), 12A and 12B of the 1991 Act,[^key-efb4b0c2b96518e71974151214f331ed] section 21(2) and (3) of the 2003 Act, or, as the case may be, subsection (2) to (7) of section 10 of the Act of 1955[^c14266531].
+
+(8A)[^c21778381] For the purposes of subsection (3)(b) above, the “relevant court” is—
+
+- (a) in the case of an interest under a lease constituting a 1991 Act tenancy, the Land Court; and
+- (b) in any other case, the sheriff,
+
+and an application to the sheriff in any such other case shall be by summary application.
+
+(9) In this section—
+
+- “**agricultural lease**” means a lease of a holding within the meaning of the Small Landholders (Scotland) Acts 1886 to 1931 , or a lease of a croft within the meaning of section 3(1) of the[^c21778401] Crofters (Scotland) Act 1993 (or of any part of a croft if it is a part consisting of a right mentioned in section 3(4)(a) of that Act)[^c21782681], or a lease constituting a 1991 Act tenancy, or a lease constituting a short limited duration tenancy , a limited duration tenancy, a modern limited duration tenancy or a repairing tenancy[^key-dd4bc1de48717a56fbfac405c3ab7744] ;
+- “**the Act of 1886**” means the [^c14266561]Crofters Holdings (Scotland) Act 1886;
+- “**the Act of 1931**” means the [^c14266571]Small Landholders and Agricultural Holdings (Scotland) Act 1931;
+- “[^c14266581]**the 1991 Act**” means the Agricultural Holdings (Scotland) Act 1991;
+- “[^c21778421]**the 2003 Act**” means the Agricultural Holdings (Scotland) Act 2003 (asp 11);
+- “[^c14266591]**the Act of 1955**” means the [^c14266601]Crofters (Scotland) Act 1955;
+- “**lease**” includes tenancy;
+- “[^c21778441]**1991 Act tenancy**”, “**short limited duration tenancy**” , “limited duration tenancy”, “modern limited duration tenancy” and “repairing tenancy”[^key-ba0676b2d60ed3212f91c5a17298d838] shall be construed in accordance with the 2003 Act.
+
+### 16A. Leases of crofts: special provision relating to the Crofters (Scotland) Act 1993[^c21782701]
+
+[^c21783121]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 17. Protection of persons acquiring title.[^key-9daff1c9da535a95af4475c41dac1a35]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 18. Provisions as to entails and special destinations.
+
+(1)[^c22561001] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) On the death of a person entitled to any heritable property subject to a special destination in favour of some other person, being a destination which the deceased could not competently have, or in fact has not, evacuated by testamentary disposition or otherwise, the property shall, if the executor of the deceased is confirmed thereto, vest in the executor for the purpose of enabling it to be conveyed to the person next entitled thereto under the destination (if such conveyance is necessary) and for that purpose only.
+
+(3) Section 14(2) of this Act shall apply in relation to property to which this section refers as it applies to property to which the said section 14(2) refers.
+
+(4) Sections 15 and 17 of this Act shall apply to property which has vested in an executor by virtue of this section as they apply to property which has vested in an executor by virtue of section 14 of this Act, as if the person next entitled to the first mentioned property were a person entitled to share in the estate of the deceased.
+
+### 19. Estate Duty.[^c14266631]
+
+(1) The executor of a deceased person shall be accountable for all estate duty which may become leviable or payable on the death of the deceased in respect of heritable property which vests in such executor.
+
+(2) For the purpose of raising the duty and the expenses of so doing, the executor shall have all the powers which are by any enactment conferred for raising the duty.
+
+(3) Nothing in this Act shall alter any duty payable in respect of heritable property or impose any new duty thereon or affect the remedies of the Commissioners of Inland Revenue against any person or property.
+
+(4) Nothing in this Act shall be held to require the payment of estate duty on any estate or any part of an estate at a date earlier than the date on which such payment would have been exigible if this Act had not passed.
+
+(5) Notwithstanding that any estate duty is by this Act made payable by the executor, nothing in this Act shall affect the liability of the persons beneficially interested or their respective interests in respect of any duty and they shall accordingly account for or repay the duty and any interest and expenses attributable thereto to the Commissioners of Inland Revenue or to the executor, as the case may require.
+
+(6) Nothing in this section shall impose on the executor as such any liability for payment of duty in excess of the assets (including any heritable property) which shall for the time being be available in his hand for the payment of the duty or which would have been so available but for his own neglect or default.
+
+(7) The Commissioners of Inland Revenue, on being satisfied that the executor or other person accountable has paid or commuted or will pay or commute all estate duty for which he is accountable in respect of the heritable property vested in him or any part thereof, shall, if required by him, give a certificate to that effect, which shall discharge from any further claim for estate duty the property to which the certificate extends.
+
+### 20. Executor dative to have powers of a trustee.
+
+An executor dative appointed to administer the estate of a deceased person shall have in his administration of such estate the whole powers, privileges and immunities, and be subject to the same obligations, limitations and restrictions, which gratuitous trustees have, or are subject to, under any enactment or under common law, and the [^c14266641] Trusts (Scotland) Acts 1921 and [^c14266651]1961 shall have effect as if any reference therein to a trustee included a reference to such an executor dative:
+
+Provided that nothing in this section shall exempt an executor dative from finding caution for his intromissions or confer upon him any power to resign or to assume new trustees.
+
+### 21. Evidence as to holograph wills in commissary proceedings.
+
+Notwithstanding any rule of law or practice to the contrary, confirmation of an executor to property disposed of in a holograph testamentary disposition shall not be granted unless the court is satisfied by evidence consisting at least of an affidavit by each of two persons that the writing and signature of the disposition are in the handwriting of the testator.
+
+(2)[^c14266661] This section shall not apply to a testamentary document executed after the commencement of the Requirements of Writing (Scotland) Act 1995.
+
+### 21A. Evidence as to testamentary documents in commissary proceedings.[^c14266671]
+
+Confirmation of an executor to property disposed of in a testamentary document executed after the commencement of the Requirements of Writing (Scotland) Act 1995 shall not be granted unless the formal validity of the document is governed—
+
+- (a) by Scots law and the document is presumed under section 3 or 4 of that Act to have been subscribed or under section 9C or 9D (or by virtue of section 9E(1)) of that Act to have been authenticated[^M_F_b5c3dedc-305b-46c1-ae1b-3e3dd0c13641] by the granter so disposing of that property; or
+- (b) by a law other than Scots law and the court is satisfied that the document is formally valid according to the law governing such validity.
+
+### 22. Court of Session may regulate procedure in commissary proceedings.
+
+(1) The powers exercisable by the Court of Session by act of sederunt under section 18 of the [^c14266681]Confirmation of Executors (Scotland) Act 1858, section 16 of the [^c14266691] Sheriff Courts and Legal Officers (Scotland) Act 1927 and section 34 of the [^c14266701]Administration of Justice (Scotland) Act 1933 (which empower the court to regulate*inter alia*procedure in proceedings in the sheriff court and in proceedings for the confirmation of executors) shall include power to regulate the procedure to be followed, and to prescribe the form and content of any petition, writ or other document to be used, in connection with the confirmation of executors in cases where, by virtue of this Act, heritable property devolves upon the executor.
+
+(2) Without prejudice to the generality of the powers conferred on the court by the said sections and by this section, the power conferred by the said section 34 to modify, amend or repeal by act of sederunt enactments relating to certain matters shall include power so to modify, amend or repeal any enactment relating to the procedure to be followed in proceedings for the confirmation of executors in such cases as aforesaid.
+
+(3) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c14266711]
+
+(4)[^c14266721] Nothing in the foregoing provisions of this section shall affect the power conferred by section 8(14) of the Finance Act 1894 or otherwise on the Commissioners of Inland Revenue to prescribe the form of, or the particulars to be contained in, affidavits and other documents used for the purposes of Part I of that Act.
+
+## Part IV — Adopted Persons
+
+### 23. Adopted person to be treated for purposes of succession etc. as child of adopter.[^c14266771]
+
+(1)[^c14266781] For all purposes relating to—
+
+- (a) the succession to a deceased person (whether testate or intestate), and
+- (b) the disposal of property by virtue of any*inter vivos*deed,
+
+an adopted person shall be treated as the child of the adopter and not as the child of any other person.
+
+In this subsection and in the following provisions of this Part of this Act any reference to succession to a deceased person shall be construed as including a reference to the distribution of any property in consequence of the death of the deceased person and any claim to legal rights or the prior rights of a surviving spouse out of his estate.
+
+(2) In any deed whereby property is conveyed or under which a succession arises, being a deed executed after the making of an adoption order, unless the contrary intention appears, any reference (whether express or implied)—
+
+- (a) to the child or children of the adopter shall be construed as, or as including, a reference to the adopted person;
+- (b) to the child or children of the adopted person’s natural parents or either of them shall be construed as not being, or as not including, a reference to the adopted person; and
+- (c) to a person related to the adopted person in any particular degree shall be construed as a reference to the person who would be related to him in that degree if he were the child of the adopter and were not the child of any other person:
+
+Provided that for the purposes of this subsection a deed containing a provision taking effect on the death of any person shall be deemed to have been executed on the date of death of that person.
+
+(3) Where the terms of any deed provide that any property or interest in property shall devolve along with a title, honour or dignity, nothing in this section or in the Children Act 1975 or in the Adoption (Scotland) Act 1978[^c14266791] or in the Adoption and Children (Scotland) Act 2007 (asp 4)[^c21782811] shall prevent that property or interest from so devolving.
+
+(4) Nothing in this section shall affect any deed executed, or the devolution of any property on, or in consequence of, the death of a person who dies, before the commencement of this Act.
+
+(5)[^c14266801] In this Part of this Act the expression “**adoption order**”—
+
+- (a)[^c21782791] has the same meaning as in section 38 of the Adoption (Scotland) Act 1978 (whether the order took effect before or after the commencement of this Act); and[^c21782831]
+- (b) includes an adoption order within the meaning of section 28(1) of the Adoption and Children (Scotland) Act 2007 (asp 4);
+
+and “adopted" means adopted in pursuance of an adoption order.
+
+### 24. Provisions supplementary to s. 23.[^c14266821]
+
+(1) For the purposes of the law regulating the succession to any property and for the purposes of the construction of any such deed as is mentioned in the last foregoing section, an adopted person shall be deemed to be related to any other person, being the child or the adopted child of the adopter or (in the case of a joint adoption) of either of the adopters,
+
+- (a) where he or she was adopted by two spouses jointly and that other person is the child or adopted child of both of them, as a brother or sister of the whole blood;
+- (b) in any other case, as a brother or sister of the half blood.
+
+(1A)[^c14266831] Where, in relation to any purpose specified in section 23(1) of this Act, any right is conferred or any obligation is imposed, whether by operation of law or under any deed coming into operation after the commencement of the Children Act 1975, by reference to the relative seniority of the members of a class of persons, then, [^c21783351]. . .
+
+- (a) any member of that class who is an adopted person shall rank as if he had been born on the date of his adoption, and
+- (b) if two or more members of the class are adopted persons whose dates of adoption are the same, they shall rank as between themselves in accordance with their respective times of birth.
+
+(2)[^key-054da40cb096218d846199b651f66d5f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) Where an adoption order is made in respect of a person who has been previously adopted, the previous adoption shall be disregarded for the purposes of the last foregoing section in relation to the devolution of any property on the death of any person dying after the date of the subsequent adoption order, and in relation to any deed executed after that date whereby property is conveyed or under which a succession arises.
+
+(4) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c14266841]
+
+## Part V — Financial Provision on Divorce
+
+### 25—27. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c14266851]
+
+## Part VI — Miscellaneous and Supplementary
+
+### 28. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c14266861]
+
+### 29. Right of tenant to bequeath interest under lease.
+
+(1) A bequest by a tenant of his interest under a tenancy or lease to any one of the persons who, if the tenant had died intestate, would be, or would in any circumstances have been, entitled to succeed to his intestate estate by virtue of this Act shall not be treated as invalid by reason only that there is among the conditions of the tenancy or lease an implied condition prohibiting assignation.
+
+(2) This section shall not prejudice the operation of section 16 of the [^c14266911] Crofters Holdings (Scotland) Act 1886 or sections 11 or 12A to 12C[^key-2e582db494bfd8d94485fe4654afd10a][^c14266921] of the Agricultural Holdings (Scotland) Act 1991 or section 21 of the Agricultural Holdings (Scotland) Act 2003 (asp 11)[^c21778461] (which relate to bequests in the case of agricultural leases) or of section 10 of the[^c14266931] [^c14266941]Crofters (Scotland) Act 1955 (which makes similar provisions in relation to crofts.)
+
+### 30. Effect of testamentary dispositions on special destinations.
+
+A testamentary disposition executed after the commencement of this Act shall not have effect so as to evacuate a special destination (being a destination which could competently be evacuated by the testamentary disposition) unless it contains a specific reference to the destination and a declared intention on the part of the testator to evacuate it.
+
+### 31. Presumption of survivorship in respect of claims to property.[^key-c6342f7da26a6dbb250b2a26bfcb9037]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 32. Certain testamentary dispositions to be formally valid.[^c14266971]
+
+(1) For the purpose of any question arising as to entitlement, by virtue of a testamentary disposition, to any relevant property or to any interest therein, the disposition shall be treated as valid in respect of the formalities of execution.
+
+(2) Subsection (1) above is without prejudice to any right to challenge the validity of the testamentary disposition on the ground of forgery or on any other ground of essential invalidity.
+
+(3) In this section “**relevant property**” means property disposed of in the testamentary disposition in respect of which—
+
+- (a) confirmation has been granted; or
+- (b) probate, letters of administration or other grant of representation—
+  - (i) has been issued, and has noted the domicile of the deceased to be, in England and Wales or Northern Ireland; or
+  - (ii) has been issued outwith the United Kingdom and had been sealed in Scotland under section 2 of the Colonial Probates Act 1892.
+
+### 33. Construction of existing deeds.
+
+(1) Subject to subsection (2) of this section, any reference in any deed taking effect after the commencement of this Act to*jus relicti, jus relictae*or legitim shall be construed as a reference to the right to*jus relicti, jus relictae*or legitim, as the case may be, as modified by Part II of this Act . . . [^c14266981]; and any reference in any such deed[^c14266991] to courtesy or terce shall be of no effect.
+
+(2) Any reference to legal rights in a marriage contract made before the commencement of this Act and taking effect in consequence of a decree of divorce granted in an action commenced after the commencement of this Act shall be construed as a reference to any right which the husband or the wife, as the case may be, might obtain by virtue of the provisions of section 26 of this Act or section 5 of the Divorce (Scotland) Act 1976[^c14267001] or section 29 of the Matrimonial and Family Proceedings Act 1984[^c14267011] or section 8 of the Family Law (Scotland) Act 1985[^c14267021].
+
+### 34. Modification of enactments and repeals.
+
+(1) Subject to the provisions of section 37 of this Act, the enactments mentioned in Schedule 2 to this Act shall have effect subject to the modifications specified in that Schedule, being modifications consequential on the provisions of this Act.
+
+(2) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c14267031]
+
+### 35. Transfer of certain jurisdiction to Sheriff of Chancery.
+
+(1) If at any time it appears to the Secretary of State expedient to do so he may by order transfer to the Sheriff of Chancery the jurisdiction of any other sheriff in relation to the service of heirs.
+
+(2) An order made under this section may contain such consequential provisions as appears to the Secretary of State to be necessary, including provisions for the consequential repeal or consequential modification of any enactment relating to the matters dealt with in the order.
+
+(3) Any order made under this section shall be made by statutory instrument.
+
+### 36. Interpretation.
+
+(1) In this Act the following expressions shall, unless the context otherwise requires, have the meanings hereby respectively assigned to them, that is to say—
+
+- “**deed**” includes any disposition, contract, instrument or writing, whether*inter vivos*or*mortis causa*;
+- “**an intestate**” means a person who has died leaving undisposed of by testamentary disposition the whole or any part of his estate, and “**intestate**” shall be construed accordingly;
+- “**intestate estate**”, in relation to an intestate, means (subject to sections 1(2) and 9(6)(a) of this Act) so much of his estate as is undisposed of by testamentary disposition;
+- “**issue**” means . . . [^c14267041]issue however remote;
+- “**Land Court**” means the Scottish Land Court;
+- “**lease**” and “**tenancy**” include sub-lease and sub-tenancy, and tenant shall be construed accordingly;
+- “**legal rights**” means *jus relicti, jus relictae,*legitim and rights under section 131 of the Civil Partnership Act 2004[^c21778591];
+- “**net estate**” and “**net intestate estate**” mean respectively so much of an estate or an intestate estate as remains after provision for the satisfaction of estate duty and other liabilities of the estate having priority over legal rights, the prior rights of a surviving spouse and rights of succession, or, as the case may be, the proportion thereof properly attributable to the intestate estate;
+- “**owner**” in relation to any heritable property means the person entitled to receive the rents thereof (other than rents under a sub-lease or sub-tenancy);
+- “**prior rights**”, in relation to a surviving spouse or civil partner[^c21782191], means the rights conferred by sections 8 and 9 of this Act;
+- “**testamentary disposition**”, in relation to a deceased, includes any deed taking effect on his death whereby any part of his estate is disposed of or under which a succession thereto arises.
+
+(2) Any reference in this Act to the estate of a deceased person shall, unless the context otherwise requires, be construed as a reference to the whole estate, whether heritable or moveable, or partly heritable and partly moveable, belonging to the deceased at the time of his death or over which the deceased had a power of appointment and, where the deceased immediately before his death held the interest of a tenant under a tenancy or lease which was not expressed to expire on his death, includes that interest:
+
+Provided that—
+
+- (a) where any heritable property belonging to a deceased person at the date of his death is subject to a special destination in favour of any person, the property shall not be treated for the purposes of this Act as part of the estate of the deceased unless the destination is one which could competently be, and has in fact been, evacuated by the deceased by testamentary disposition or otherwise; and in that case the property shall be treated for the purposes of this Act as if it were part of the deceased’s estate on which he has tested; and
+- (b) where any heritable property over which a deceased person had a power of appointment has not been disposed of in exercise of that power and is in those circumstances subject to a power of appointment by some other person, that property shall not be treated for the purposes of this Act as part of the estate of the deceased.
+
+(3) Without prejudice to the proviso to section 23(2) of this Act, references in this Act to the date of execution of a testamentary disposition shall be construed as references to the date on which the disposition was actually executed and not to the date of death of the testator.
+
+(4) References in this Act to any enactment shall, except where the context otherwise requires, be construed as references to that enactment as amended by or under any other enactment, including this Act.
+
+(5)[^c14267051] Section 1(1) (legal equality of children) of the Law Reform (Parent and Child) (Scotland) Act 1986 shall apply to this Act; and any reference (however expressed) in this Act to a relative shall be construed accordingly.
+
+### 37. Exclusion of certain matters from operation of Act.
+
+(1)[^c14267061][^c21782881][^key-0c138f431fb896027ec95170aeca889e] Save as otherwise expressly provided, nothing in this Act or (as respects paragraph ([^c14267071]*a*) of this subsection) in the Children Act 1975 or the Adoption (Scotland) Act 1978 or the Adoption and Children (Scotland) Act 2007 (asp 4)[^c21782851] shall—
+
+- (a) apply to any title, coat of arms, honour or dignity transmissible on the death of the holder thereof or affect the succession thereto or the devolution thereof;
+- (b) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c14267081]
+- (c) affect any right on the part of a surviving spouse to claim from the representatives of his or her deceased spouse payment of aliment out of the estate of that spouse;
+- (d) affect the administration, winding up or distribution of or the making up of title to any part of the estate of any person who died before the commencement of this Act or the rights of succession to such an estate or any claim for legal rights or terce or courtesy or any rights arising under the Intestate Husband’s Estate (Scotland) Acts 1911 to 1959 out of such an estate or the right to take any legal proceedings with respect to any such matters;
+- (e) affect any claim for legal rights arising out of an action of divorce commenced before the commencement of this Act;
+
+and in relation to the matters aforesaid the law in force immediately before the commencement of this Act shall continue to have effect as if this Act had not passed.
+
+(2) Nothing in this Act shall be construed as affecting the operation of any rule of law applicable immediately before the commencement of this Act to the choice of the system of law governing the administration, winding up or distribution of the estate, or any part of the estate, of any deceased person.
+
+### 38. Citation, extent and commencement.
+
+(1) This Act may be cited as the Succession (Scotland) Act 1964.
+
+(2) This Act shall extend to Scotland only.
+
+(3) This Act shall come into operation on the expiration of the period of three months beginning with the date on which it is passed.
+
+SCHEDULES
+
+## SCHEDULE 1 — Form of Docket
+
+Section 15.
+
+I, AB, being by virtue of the within confirmation \[*or certificate of confirmation*\] the executor on the estate of the deceased CD so far as specified in the confirmation \[*or certificate or inventory attached hereto*\] hereby nominate EF \[*design*\] as the person entitled—
+
+(a) in \[part\] satisfaction of his claim to prior rights, as a surviving spouse, on the death of the deceased,
+
+(b) in \[part\] satisfaction of his claim to legal rights on the death of the deceased,
+
+(c) in \[part\] satisfaction of his share in the said estate,
+
+(d) in \[part\] implement of a trust disposition and settlement, \[*or will, or as the case may be*\] of the deceased dated, and registered in the Books of Council and Session ,
+
+to the following item of estate, that is to say, \[*short description*\] being number of the items of the estate specified in the said confirmation \[*or certificate or inventory*\].
+
+Testing clause+[^c14267091]
+
+\+Note—Subscription of the document by the granter of it will be sufficient for the document to be formally valid, but witnessing of it may be necessary or desirable for other purposes (see the Requirements of Writing (Scotland) Act 1995).
+
+## SCHEDULE 2 — Modification of Enactments
+
+Section 34.
+
+### General modifications
+
+**1.** Subject to the specific modifications made by the following provisions of this Schedule, references in any enactment to the heir-at-law of a deceased person in relation to any heritable property . . . [^c14267101] shall be construed as references to the persons who by virtue of this Act are entitled to succeed to such property on intestacy.
+
+**2.** Subject as aforesaid references in general terms in any enactment to the heirs of a deceased person shall include—
+
+- (a) the persons entitled by virtue of this Act to succeed on intestacy to any part of the estate of the deceased; and
+- (b) so far as is necessary for the purposes of Part III of this Act, the executor of the deceased.
+
+**3.** References in any enactment relating to the confirmation of executors or the administration of the moveable estates of deceased persons to the moveable or personal property or estate of a deceased person shall, except where the context otherwise requires, be construed as references to the whole estate of the deceased person.
+
+**4.** References in any enactment (other than in this Act) to courtesy or terce shall be of no effect.
+
+### Specific modifications
+
+The Registration of Leases (Scotland) Act 1857.
+
+20 & 21 Vict. c. 26.
+
+**5.** In sections 8 and 9, and Schedules (C) and (F), for references to the heir or heirs or to the general disponee (other than a general disponee under an*inter vivos*deed) of a person in right of a lease to which the Act applies or of an assignation in security of such a lease there shall be substituted references to the executor of such a person; and for any reference to service there shall be substituted a reference to confirmation.
+
+**6.**[^c14267111] In Schedule (C), for the words from “court before which” to “retoured to Chancery” there shall be substituted the words “ court by which confirmation has been granted ”.
+
+**7.**[^c14267121] In Schedule (F), for the words “court before which the heir has been served” there shall be substituted the words “ court by which confirmation has been granted ”.
+
+### The Titles to Land Consolidation (Scotland) Act 1868.
+
+31 & 32 Vict. c. 101.
+
+**8.**[^c14267131] In section 20, for the words from “equivalent to a general disposition” to “competent to a general disponee” there shall be substituted the words “ valid as a settlement on a grantee or legatee of the lands to which it applies; and the executor of the grantor may complete title to such lands by expeding and recording a notarial instrument as aforesaid ”.
+
+### The Crofters Holdings (Scotland) Act 1886.
+
+49 & 50 Vict. c. 29.
+
+**9.**[^c14267141] In section 16, for the words from “a member” to “case of intestacy” there shall be substituted the words “ his son-in-law or any one of the persons who would be, or would in any circumstances have been, entitled to succeed to the estate on intestacy by virtue of the Succession (Scotland) Act 1964 ”.
+
+**10.**[^c14267151] In section 16, at end of paragraph (e) there shall be inserted the words “ and shall be intimated by the landlord to the executor of the deceased tenant ”.
+
+**11.**[^c14267161] In section 16, in paragraph (f), after the word “legatee”, where that word second occurs, there shall be inserted the words “ with the consent of the executor in whom the tenancy is vested under section 14 of the Succession (Scotland) Act 1964 ”.
+
+**12.**[^c14267171] In section 16, for paragraph (h) there shall be substituted the following paragraph:—
+
+> - (h) if the legatee does not accept the bequest, or if the bequest is declared to be null and void as aforesaid, the right to the holding shall be treated as intestate estate of the deceased tenant in accordance with Part I of the Succession (Scotland) Act 1964; and where a tenancy is transferred under section 16 of the said Act of 1964, the executor of the deceased tenant shall as soon as may be furnish particulars of the transferee to the landlord who shall accept the transferee as tenant.
+
+.
+
+### The Executors (Scotland) Act 1900.
+
+63 & 64 Vict. c. 55.
+
+**13.** In section 6—
+
+(a) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c14267181]
+
+(b)[^c14267191] for the words “funds in Scotland standing or invested in his name” there shall be substituted the words “ property (whether heritable or moveable) in Scotland vested in him ”; and
+
+(c)[^c14267191] for any other reference to funds there shall be substituted a reference to property.
+
+**14.**[^c14267211] In section 7, after the words “estate contained therein”, there shall be inserted the words “ and it shall be competent to specify such confirmation as a midcouple or link of title for the purposes of any deduction of title in relation to such estate from the former executors ”.
+
+### The Small Landholders (Scotland) Act 1911.
+
+1 & 2 Geo. 5. c. 49.
+
+**15.**[^c14267221] In section 21, for the words from “a member” to “case of intestacy” there shall be substituted the words “ his son-in-law or any one of the persons who would be, or would in any circumstances have been, entitled to succeed to the estate on intestacy by virtue of the Succession (Scotland) Act 1964 ”.
+
+**16.**[^c14267231] In section 31, after the words “whether as” there shall be inserted the words “ a person to whom a tenancy is transferred under section 16 of the Succession (Scotland) Act 1964 or the executor or ”.
+
+### The Conveyancing (Scotland) Act 1924.
+
+14 & 15 Geo. 5. c. 27.
+
+**17.**[^c14267241] In section 32, after the words “person be dead, the” insert the words “ executor or ”.
+
+**18.**[^c14267251] In section 33, after the words “then to the” insert the words “ executor or ”.
+
+### The Agricultural Holdings (Scotland) Act 1949.
+
+12, 13 & 14 Geo. 6. c. 75.
+
+**19.**[^c14267271] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**20.**[^c14267291] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**21.**[^c14267311] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**22.**[^c14267331] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### The Agriculture Act 1958.
+
+6 & 7 Eliz. 2. c. 71.
+
+**23.**[^c14267341] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 3[^c14267351][^c14267351]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c14267351]
+
+## Annotations
+
+[^c14265611]: Modification: Act applied by [Law Reform (Miscellaneous Provisions) (Scotland) Act 1968 (c. 70)](https://www.legislation.gov.uk/ukpga/1968/70), [s. 8](https://www.legislation.gov.uk/ukpga/1968/70/section/8)
+
+[^c14265621]: Modification: Words of enactment omitted under authority of [Statute Law Revision Act 1948 (c. 62)](https://www.legislation.gov.uk/ukpga/1948/62), [s. 3](https://www.legislation.gov.uk/ukpga/1948/62/section/3)
+
+[^c14265631]: Commencement: Act wholly in force at 10.9.1964 see [s. 38(3)](https://www.legislation.gov.uk/ukpga/1964/41/section/38/3).
+
+[^c14265641]: Modification: Pt. I applied (25.9.1991) by [Agricultural Holdings (Scotland) Act 1991 (c. 55, SIF 2:3)](https://www.legislation.gov.uk/ukpga/1991/55), [ss. 11(8)](https://www.legislation.gov.uk/ukpga/1991/55/section/11/8), [89(2)](https://www.legislation.gov.uk/ukpga/1991/55/section/89/2) (with [ss. 45(3)](https://www.legislation.gov.uk/ukpga/1991/55/section/45/3), [51(1)](https://www.legislation.gov.uk/ukpga/1991/55/section/51/1), [Sch. 12 para. 3](https://www.legislation.gov.uk/ukpga/1991/55/schedule/12/paragraph/3))
+
+    Pt. I applied (5.1.1994) by [1993 c. 44](https://www.legislation.gov.uk/ukpga/1993/44), [ss. 10(5)](https://www.legislation.gov.uk/ukpga/1993/44/section/10/5), [11(1)](https://www.legislation.gov.uk/ukpga/1993/44/section/11/1), [64(2)](https://www.legislation.gov.uk/ukpga/1993/44/section/64/2) (with [ss. 30(5)](https://www.legislation.gov.uk/ukpga/1993/44/section/30/5), [58(1)(4)](https://www.legislation.gov.uk/ukpga/1993/44/section/58/1/4), [Sch. 6 para. 4](https://www.legislation.gov.uk/ukpga/1993/44/schedule/6/paragraph/4)).
+
+[^key-ca1ced02962130d9711d70c26a1bde87]: Modification: Pt. I applied by 1991 c. 55, s. 12C(3) (as inserted (23.12.2016) by [Land Reform (Scotland) Act 2016 (asp 18)](https://www.legislation.gov.uk/asp/2016/18), [ss. 109(4)](https://www.legislation.gov.uk/asp/2016/18/section/109/4), [130(1)](https://www.legislation.gov.uk/asp/2016/18/section/130/1) (with [s. 128](https://www.legislation.gov.uk/asp/2016/18/section/128)); [S.S.I. 2016/365](https://www.legislation.gov.uk/ssi/2016/365), [reg. 2](https://www.legislation.gov.uk/ssi/2016/365/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/365/schedule) (with [regs. 5-8](https://www.legislation.gov.uk/ssi/2016/365/regulation/5)))
+
+[^c21778611]: Textual amendment: Words in s. 1(2) inserted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [ss. 261(2)](https://www.legislation.gov.uk/ukpga/2004/33/section/261/2), [263(10)(c)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/10/c), [Sch. 28 para. 1](https://www.legislation.gov.uk/ukpga/2004/33/schedule/28/paragraph/1); [S.S.I. 2005/604](https://www.legislation.gov.uk/ssi/2005/604), {art. (2(c)}
+
+[^key-099ae63fcef34280f379770fb9c40cec]: Textual amendment: [S. 2(1)(ab)](https://www.legislation.gov.uk/ukpga/1964/41/section/2/1/ab) inserted (30.4.2024) by [Trusts and Succession (Scotland) Act 2024 (asp 2)](https://www.legislation.gov.uk/asp/2024/2), [ss. 77(1)(a)](https://www.legislation.gov.uk/asp/2024/2/section/77/1/a), [88(2)](https://www.legislation.gov.uk/asp/2024/2/section/88/2) (with [s. 77(2)](https://www.legislation.gov.uk/asp/2024/2/section/77/2))
+
+[^key-3c3ee42f46bffdf6385ad90ce18acf16]: Textual amendment: [S. 2(1)(e)](https://www.legislation.gov.uk/ukpga/1964/41/section/2/1/e) repealed (30.4.2024) by [Trusts and Succession (Scotland) Act 2024 (asp 2)](https://www.legislation.gov.uk/asp/2024/2), [ss. 77(1)(b)](https://www.legislation.gov.uk/asp/2024/2/section/77/1/b), [88(2)](https://www.legislation.gov.uk/asp/2024/2/section/88/2) (with [s. 77(2)](https://www.legislation.gov.uk/asp/2024/2/section/77/2))
+
+[^c14265651]: Textual amendment: S. 4 repealed by [Law Reform (Parent and Child) (Scotland) Act 1986 (c. 9, SIF 49:8)](https://www.legislation.gov.uk/ukpga/1986/9), [s. 10(2)](https://www.legislation.gov.uk/ukpga/1986/9/section/10/2), [Sch. 2](https://www.legislation.gov.uk/ukpga/1986/9/schedule/2)
+
+[^c21778671]: Textual amendment: Words in s. 5(1) substituted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [ss. 261(2)](https://www.legislation.gov.uk/ukpga/2004/33/section/261/2), [263(10)(c)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/10/c), [Sch. 28 para. 3](https://www.legislation.gov.uk/ukpga/2004/33/schedule/28/paragraph/3); [S.S.I. 2005/604](https://www.legislation.gov.uk/ssi/2005/604), {art. (2(c)}
+
+[^key-7074e68291ea6df911dc3e9d8b088031]: Textual amendment: Words in s. 5(1) substituted (1.11.2016) by [Succession (Scotland) Act 2016 (asp 7)](https://www.legislation.gov.uk/asp/2016/7), [s. 31(2)](https://www.legislation.gov.uk/asp/2016/7/section/31/2), [sch. para. 1(2)](https://www.legislation.gov.uk/asp/2016/7/schedule/paragraph/1/2); [S.S.I. 2016/210](https://www.legislation.gov.uk/ssi/2016/210), [reg. 2(1)(a)](https://www.legislation.gov.uk/ssi/2016/210/regulation/2/1/a)[(2)](https://www.legislation.gov.uk/ssi/2016/210/regulation/2/2)
+
+[^key-fc29e5963670cf2cdc20472dbe486ed0]: Textual amendment: Words in s. 6(b) substituted (1.11.2016) by [Succession (Scotland) Act 2016 (asp 7)](https://www.legislation.gov.uk/asp/2016/7), [s. 31(2)](https://www.legislation.gov.uk/asp/2016/7/section/31/2), [sch. para. 1(3)(a)](https://www.legislation.gov.uk/asp/2016/7/schedule/paragraph/1/3/a); [S.S.I. 2016/210](https://www.legislation.gov.uk/ssi/2016/210), [reg. 2(1)(a)](https://www.legislation.gov.uk/ssi/2016/210/regulation/2/1/a)[(2)](https://www.legislation.gov.uk/ssi/2016/210/regulation/2/2)
+
+[^key-212728f2e91aca264b9c39aec043a1a4]: Textual amendment: Words in s. 6(b) substituted (1.11.2016) by [Succession (Scotland) Act 2016 (asp 7)](https://www.legislation.gov.uk/asp/2016/7), [s. 31(2)](https://www.legislation.gov.uk/asp/2016/7/section/31/2), [sch. para. 1(3)(b)](https://www.legislation.gov.uk/asp/2016/7/schedule/paragraph/1/3/b); [S.S.I. 2016/210](https://www.legislation.gov.uk/ssi/2016/210), [reg. 2(1)(a)](https://www.legislation.gov.uk/ssi/2016/210/regulation/2/1/a)[(2)](https://www.legislation.gov.uk/ssi/2016/210/regulation/2/2)
+
+[^c14265661]: Textual amendment: [Words (which were added by Law Reform (Miscellaneous Provisions) (Scotland) Act 1968 (c. 70)](https://www.legislation.gov.uk/ukpga/1968/70) Sch. 1) repealed by [Law Reform (Parent and Child) (Scotland) Act 1986 (c. 9, SIF 49:8)](https://www.legislation.gov.uk/ukpga/1986/9), [s. 10(2)](https://www.legislation.gov.uk/ukpga/1986/9/section/10/2), [Sch. 2](https://www.legislation.gov.uk/ukpga/1986/9/schedule/2)
+
+[^c21781951]: Textual amendment: Words in s. 8 sidenote inserted (5.12.2005) by virtue of [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [ss. 261(2)](https://www.legislation.gov.uk/ukpga/2004/33/section/261/2), [263(10)(c)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/10/c), [Sch. 28 para. 4](https://www.legislation.gov.uk/ukpga/2004/33/schedule/28/paragraph/4); [S.S.I. 2005/604](https://www.legislation.gov.uk/ssi/2005/604), {art. (2(c)}
+
+[^c14265851]: Modification: S. 8 saved (25.7.1976) by [Prescription and Limitation (Scotland) Act 1973 (c. 52)](https://www.legislation.gov.uk/ukpga/1973/52), [s. 6(2)](https://www.legislation.gov.uk/ukpga/1973/52/section/6/2), [Sch. 1 para. 2(f)](https://www.legislation.gov.uk/ukpga/1973/52/schedule/1/paragraph/2/f)
+
+[^c21781861]: Textual amendment: Words in s. 8(1) inserted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [ss. 261(2)](https://www.legislation.gov.uk/ukpga/2004/33/section/261/2), [263(10)(c)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/10/c), [Sch. 28 para. 4](https://www.legislation.gov.uk/ukpga/2004/33/schedule/28/paragraph/4); [S.S.I. 2005/604](https://www.legislation.gov.uk/ssi/2005/604), {art. (2(c)}
+
+[^c21782231]: Textual amendment: Words in s. 8(1) substituted (28.1.2008) by [Crofting Reform etc. Act 2007 (asp 7)](https://www.legislation.gov.uk/asp/2007/7), [ss. 14(2)(a)](https://www.legislation.gov.uk/asp/2007/7/section/14/2/a), [43](https://www.legislation.gov.uk/asp/2007/7/section/43) (with ss. 40,43(2)); [S.S.I. 2007/568](https://www.legislation.gov.uk/ssi/2007/568), [art. 2](https://www.legislation.gov.uk/ssi/2007/568/article/2)
+
+[^c21782271]: Textual amendment: Words in s. 8(1) inserted (28.1.2008) by [Crofting Reform etc. Act 2007 (asp 7)](https://www.legislation.gov.uk/asp/2007/7), [ss. 14(2)(b)](https://www.legislation.gov.uk/asp/2007/7/section/14/2/b), [43](https://www.legislation.gov.uk/asp/2007/7/section/43) (with ss. 40,43(2)); [S.S.I. 2007/568](https://www.legislation.gov.uk/ssi/2007/568), [art. 2](https://www.legislation.gov.uk/ssi/2007/568/article/2)
+
+[^c14265861]: Modification: S. 8(1)(a)(b): new amount of £130,000 specified (1.4.1999) by [S.I. 1999/445](https://www.legislation.gov.uk/uksi/1999/445), [art. 2](https://www.legislation.gov.uk/uksi/1999/445/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1999/445/schedule)
+
+[^c21778491]: Modification: S. 8(1)(a)(b): new amount of £300,000 specified (1.6.2005) by [The Prior Rights of Surviving Spouse (Scotland) Order 2005 (S.S.I. 2005/252)](https://www.legislation.gov.uk/ssi/2005/252), [art. 2](https://www.legislation.gov.uk/ssi/2005/252/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2005/252/schedule)
+
+[^c21783201]: Modification: S. 8(1)(a)(b): new amount of £473,000 specified (1.2.2012) by [The Prior Rights of Surviving Spouse and Civil Partner (Scotland) Order 2011 (S.S.I. 2011/436)](https://www.legislation.gov.uk/ssi/2011/436), [art. 2](https://www.legislation.gov.uk/ssi/2011/436/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/436/schedule)
+
+[^c14265871]: Textual amendment: Words substituted by [Succession (Scotland) Act 1973 (c. 25)](https://www.legislation.gov.uk/ukpga/1973/25), [s. 1(1)(a)](https://www.legislation.gov.uk/ukpga/1973/25/section/1/1/a)
+
+[^c21782291]: Textual amendment: S. 8(1) proviso repealed (28.1.2008) by [Crofting Reform etc. Act 2007 (asp 7)](https://www.legislation.gov.uk/asp/2007/7), [ss. 14(2)(c)](https://www.legislation.gov.uk/asp/2007/7/section/14/2/c), [43](https://www.legislation.gov.uk/asp/2007/7/section/43) (with ss. 40,43(2)); [S.S.I. 2007/568](https://www.legislation.gov.uk/ssi/2007/568), [art. 2](https://www.legislation.gov.uk/ssi/2007/568/article/2)
+
+[^c21782311]: Textual amendment: S. 8(2A)(2B) inserted (28.1.2008) by [Crofting Reform etc. Act 2007 (asp 7)](https://www.legislation.gov.uk/asp/2007/7), [ss. 14(3)](https://www.legislation.gov.uk/asp/2007/7/section/14/3), [43](https://www.legislation.gov.uk/asp/2007/7/section/43) (with ss. 40,43(2)); [S.S.I. 2007/568](https://www.legislation.gov.uk/ssi/2007/568), [art. 2](https://www.legislation.gov.uk/ssi/2007/568/article/2)
+
+[^c21781901]: Textual amendment: Words in s. 8(3) inserted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [ss. 261(2)](https://www.legislation.gov.uk/ukpga/2004/33/section/261/2), [263(10)(c)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/10/c), [Sch. 28 para. 4](https://www.legislation.gov.uk/ukpga/2004/33/schedule/28/paragraph/4); [S.S.I. 2005/604](https://www.legislation.gov.uk/ssi/2005/604), {art. (2(c)}
+
+[^c14265901]: Modification: S. 8(3)(a)(b): new amount of £22,000 specified (1.4.1999) by [S.I. 1999/445](https://www.legislation.gov.uk/uksi/1999/445), [art. 2](https://www.legislation.gov.uk/uksi/1999/445/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1999/445/schedule)
+
+[^c21778521]: Modification: S. 8(3)(a)(b): new amount of £24,000 specified (1.6.2005) by [The Prior Rights of Surviving Spouse (Scotland) Order 2005 (S.S.I. 2005/252)](https://www.legislation.gov.uk/ssi/2005/252), [art. 2](https://www.legislation.gov.uk/ssi/2005/252/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2005/252/schedule)
+
+[^c21783241]: Modification: S. 8(3)(a)(b): new amount of £29,000 specified (1.2.2012) by [The Prior Rights of Surviving Spouse and Civil Partner (Scotland) Order 2011 (S.S.I. 2011/436)](https://www.legislation.gov.uk/ssi/2011/436), [art. 2](https://www.legislation.gov.uk/ssi/2011/436/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/436/schedule)
+
+[^c21782331]: Textual amendment: S. 8(4) substituted (28.1.2008) by [Crofting Reform etc. Act 2007 (asp 7)](https://www.legislation.gov.uk/asp/2007/7), [ss. 14(4)](https://www.legislation.gov.uk/asp/2007/7/section/14/4), [43](https://www.legislation.gov.uk/asp/2007/7/section/43) (with ss. 40,43(2)); [S.S.I. 2007/568](https://www.legislation.gov.uk/ssi/2007/568), [art. 2](https://www.legislation.gov.uk/ssi/2007/568/article/2)
+
+[^c21782351]: Textual amendment: S. 8(6)(za) inserted (28.1.2008) by [Crofting Reform etc. Act 2007 (asp 7)](https://www.legislation.gov.uk/asp/2007/7), [ss. 14(5)](https://www.legislation.gov.uk/asp/2007/7/section/14/5), [43](https://www.legislation.gov.uk/asp/2007/7/section/43) (with ss. 40,43(2)); [S.S.I. 2007/568](https://www.legislation.gov.uk/ssi/2007/568), [art. 2](https://www.legislation.gov.uk/ssi/2007/568/article/2)
+
+[^c21781981]: Textual amendment: Words in s. 9(1) sidenote inserted (5.12.2005) by virtue of [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [ss. 261(2)](https://www.legislation.gov.uk/ukpga/2004/33/section/261/2), [263(10)(c)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/10/c), [Sch. 28 para. 5(b)](https://www.legislation.gov.uk/ukpga/2004/33/schedule/28/paragraph/5/b); [S.S.I. 2005/604](https://www.legislation.gov.uk/ssi/2005/604), {art. (2(c)}
+
+[^c14266121]: Modification: S. 9 saved (25.7.1976) by [Prescription and Limitation (Scotland) Act 1973 (c. 52)](https://www.legislation.gov.uk/ukpga/1973/52), [s. 6(2)](https://www.legislation.gov.uk/ukpga/1973/52/section/6/2), [Sch. 1 para. 2(f)](https://www.legislation.gov.uk/ukpga/1973/52/schedule/1/paragraph/2/f)
+
+[^c21781961]: Textual amendment: Words in s. 9(1) substituted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [ss. 261(2)](https://www.legislation.gov.uk/ukpga/2004/33/section/261/2), [263(10)(c)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/10/c), [Sch. 28 para. 5(a)](https://www.legislation.gov.uk/ukpga/2004/33/schedule/28/paragraph/5/a); [S.S.I. 2005/604](https://www.legislation.gov.uk/ssi/2005/604), {art. (2(c)}
+
+[^c14266131]: Modification: S. 9(1)(a): new amount of £35,000 specified (1.4.1999) by [S.I. 1999/445](https://www.legislation.gov.uk/uksi/1999/445), [art. 2](https://www.legislation.gov.uk/uksi/1999/445/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1999/445/schedule)
+
+[^c21778551]: Modification: S. 9(1)(a): new amount of £42,000 specified (1.6.2005) by [The Prior Rights of Surviving Spouse (Scotland) Order 2005 (S.S.I. 2005/252)](https://www.legislation.gov.uk/ssi/2005/252), [art. 2](https://www.legislation.gov.uk/ssi/2005/252/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2005/252/schedule)
+
+[^c21783281]: Modification: S. 9(1)(a): new amount of £50,000 specified (1.2.2012) by [The Prior Rights of Surviving Spouse and Civil Partner (Scotland) Order 2011 (S.S.I. 2011/436)](https://www.legislation.gov.uk/ssi/2011/436), [art. 2](https://www.legislation.gov.uk/ssi/2011/436/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/436/schedule)
+
+[^c14266141]: Textual amendment: [Words (which were inserted by Law Reform (Miscellaneous Provisions) (Scotland) Act 1968 (c. 70)](https://www.legislation.gov.uk/ukpga/1968/70), [Sch. 1](https://www.legislation.gov.uk/ukpga/1968/70/schedule/1)) repealed by [Law Reform (Parent and Child) (Scotland) Act 1986 (c. 9, SIF 49:8)](https://www.legislation.gov.uk/ukpga/1986/9), [s. 10(2)](https://www.legislation.gov.uk/ukpga/1986/9/section/10/2), [Sch. 2](https://www.legislation.gov.uk/ukpga/1986/9/schedule/2)
+
+[^c14266151]: Textual amendment: Words substituted by [Succession (Scotland) Act 1973 (c. 25)](https://www.legislation.gov.uk/ukpga/1973/25), [s. 1(1)(b)](https://www.legislation.gov.uk/ukpga/1973/25/section/1/1/b)
+
+[^c14266161]: Modification: S. 9(1)(b): new amount of £58,000 specified (1.4.1999) by [S.I. 1999/445](https://www.legislation.gov.uk/uksi/1999/445), [art. 2](https://www.legislation.gov.uk/uksi/1999/445/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1999/445/schedule)
+
+[^c21778571]: Modification: S. 9(1)(b): new amount of £75,000 specified (1.6.2005) by [The Prior Rights of Surviving Spouse (Scotland) Order 2005 (S.S.I. 2005/252)](https://www.legislation.gov.uk/ssi/2005/252), [art. 2](https://www.legislation.gov.uk/ssi/2005/252/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2005/252/schedule)
+
+[^c21783301]: Modification: S. 9(1)(b): new amount of £89,000 specified (1.2.2012) by [The Prior Rights of Surviving Spouse and Civil Partner (Scotland) Order 2011 (S.S.I. 2011/436)](https://www.legislation.gov.uk/ssi/2011/436), [art. 2](https://www.legislation.gov.uk/ssi/2011/436/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/436/schedule)
+
+[^c14266191]: Textual amendment: Words inserted by [Law Reform (Miscellaneous Provisions) (Scotland) Act 1980 (c. 55, SIF 36:3)](https://www.legislation.gov.uk/ukpga/1980/55), [s. 4](https://www.legislation.gov.uk/ukpga/1980/55/section/4)(*a*)
+
+[^c21782001]: Textual amendment: Words in s. 9(1)(2)(3)(4)(6) inserted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [ss. 261(2)](https://www.legislation.gov.uk/ukpga/2004/33/section/261/2), [263(10)(c)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/10/c), [Sch. 28 para. 5(b)](https://www.legislation.gov.uk/ukpga/2004/33/schedule/28/paragraph/5/b); [S.S.I. 2005/604](https://www.legislation.gov.uk/ssi/2005/604), {art. (2(c)}
+
+[^c14266211]: Textual amendment: [S. 9A](https://www.legislation.gov.uk/ukpga/1964/41/section/9A) inserted by [Law Reform (Miscellaneous Provisions) (Scotland) Act 1980 (c. 55, SIF 36:3)](https://www.legislation.gov.uk/ukpga/1980/55), [s. 4](https://www.legislation.gov.uk/ukpga/1980/55/section/4)(*b*)
+
+[^c21782091]: Textual amendment: Words in [s. 10(2)](https://www.legislation.gov.uk/ukpga/1964/41/section/10/2) substituted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [ss. 261(2)](https://www.legislation.gov.uk/ukpga/2004/33/section/261/2), [263(10)(c)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/10/c), [Sch. 28 para. 6](https://www.legislation.gov.uk/ukpga/2004/33/schedule/28/paragraph/6); [S.S.I. 2005/604](https://www.legislation.gov.uk/ssi/2005/604), {art. (2(c)}
+
+[^c14266221]: Textual amendment: [S. 10A](https://www.legislation.gov.uk/ukpga/1964/41/section/10A) (which was added by [Law Reform (Miscellaneous Provisions) (Scotland) Act 1968 (c. 70)](https://www.legislation.gov.uk/ukpga/1968/70) s. 2) repealed by [Law Reform (Parent and Child) (Scotland) Act 1986 (c. 9, SIF 49:8)](https://www.legislation.gov.uk/ukpga/1986/9), [s. 10(2)](https://www.legislation.gov.uk/ukpga/1986/9/section/10/2), [Sch. 2](https://www.legislation.gov.uk/ukpga/1986/9/schedule/2)
+
+[^key-0acffc1fe54afe5214c930b6959dc92d]: Textual amendment: Words in s. 11(1) substituted (1.11.2016) by [Succession (Scotland) Act 2016 (asp 7)](https://www.legislation.gov.uk/asp/2016/7), [s. 31(2)](https://www.legislation.gov.uk/asp/2016/7/section/31/2), [sch. para. 1(4)(a)](https://www.legislation.gov.uk/asp/2016/7/schedule/paragraph/1/4/a); [S.S.I. 2016/210](https://www.legislation.gov.uk/ssi/2016/210), [reg. 2(1)(a)](https://www.legislation.gov.uk/ssi/2016/210/regulation/2/1/a)[(2)](https://www.legislation.gov.uk/ssi/2016/210/regulation/2/2)
+
+[^c14266231]: Textual amendment: Words repealed by [Law Reform (Parent and Child) (Scotland) Act 1986 (c. 9, SIF 49:8)](https://www.legislation.gov.uk/ukpga/1986/9), [s. 10(2)](https://www.legislation.gov.uk/ukpga/1986/9/section/10/2), [Sch. 2](https://www.legislation.gov.uk/ukpga/1986/9/schedule/2)
+
+[^c14266241]: Textual amendment: [Words (which were added by Law Reform (Miscellaneous Provisions) (Scotland) Act 1968 (c. 70)](https://www.legislation.gov.uk/ukpga/1968/70) Sch. 1) repealed by [Law Reform (Parent and Child) (Scotland) Act 1986 (c. 9, SIF 49:8)](https://www.legislation.gov.uk/ukpga/1986/9), [s. 10(2)](https://www.legislation.gov.uk/ukpga/1986/9/section/10/2), [Sch. 2](https://www.legislation.gov.uk/ukpga/1986/9/schedule/2)
+
+[^key-325dc66860552f1d552ffba906cf6180]: Textual amendment: Words in s. 11(2)(b) substituted (1.11.2016) by [Succession (Scotland) Act 2016 (asp 7)](https://www.legislation.gov.uk/asp/2016/7), [s. 31(2)](https://www.legislation.gov.uk/asp/2016/7/section/31/2), [sch. para. 1(4)(b)(i)](https://www.legislation.gov.uk/asp/2016/7/schedule/paragraph/1/4/b/i); [S.S.I. 2016/210](https://www.legislation.gov.uk/ssi/2016/210), [reg. 2(1)(a)](https://www.legislation.gov.uk/ssi/2016/210/regulation/2/1/a)[(2)](https://www.legislation.gov.uk/ssi/2016/210/regulation/2/2)
+
+[^key-94830950f8d060dd8f78715b94fd8279]: Textual amendment: Words in s. 11(2)(b) substituted (1.11.2016) by [Succession (Scotland) Act 2016 (asp 7)](https://www.legislation.gov.uk/asp/2016/7), [s. 31(2)](https://www.legislation.gov.uk/asp/2016/7/section/31/2), [sch. para. 1(4)(b)(ii)](https://www.legislation.gov.uk/asp/2016/7/schedule/paragraph/1/4/b/ii); [S.S.I. 2016/210](https://www.legislation.gov.uk/ssi/2016/210), [reg. 2(1)(a)](https://www.legislation.gov.uk/ssi/2016/210/regulation/2/1/a)[(2)](https://www.legislation.gov.uk/ssi/2016/210/regulation/2/2)
+
+[^c14266261]: Textual amendment: [Words (which were inserted by Law Reform (Miscellaneous Provisions) (Scotland) Act 1968 (c. 70)](https://www.legislation.gov.uk/ukpga/1968/70), [Sch. 1](https://www.legislation.gov.uk/ukpga/1968/70/schedule/1)) repealed by [Law Reform (Parent and Child) (Scotland) Act 1986 (c. 9, SIF 49:8)](https://www.legislation.gov.uk/ukpga/1986/9), [s. 10(2)](https://www.legislation.gov.uk/ukpga/1986/9/section/10/2), [Sch. 2](https://www.legislation.gov.uk/ukpga/1986/9/schedule/2)
+
+[^c14266271]: Textual amendment: [Words (which were added by Law Reform (Miscellaneous Provisions) (Scotland) Act 1968 (c. 70)](https://www.legislation.gov.uk/ukpga/1968/70) Sch. 1) repealed by [Law Reform (Parent and Child) (Scotland) Act 1986 (c. 9, SIF 49:8)](https://www.legislation.gov.uk/ukpga/1986/9), [s. 10(2)](https://www.legislation.gov.uk/ukpga/1986/9/section/10/2), [Sch. 2](https://www.legislation.gov.uk/ukpga/1986/9/schedule/2)
+
+[^c14266281]: Modification: [S. 14(2)](https://www.legislation.gov.uk/ukpga/1964/41/section/14/2) amended by [Administration of Estates Act 1971 (c. 25)](https://www.legislation.gov.uk/ukpga/1971/25), [s. 6(2)](https://www.legislation.gov.uk/ukpga/1971/25/section/6/2)
+
+[^c14266291]: Marginal citation: [1924 c. 27](https://www.legislation.gov.uk/ukpga/1924/27).
+
+[^c14266301]: Textual amendment: Words inserted retrospectively by Law Reform (Miscellaneous Provisions)(Scotland) Act 1968 (c. 70), s. 19
+
+[^c21782111]: Textual amendment: Words in [s. 15(2)(a)](https://www.legislation.gov.uk/ukpga/1964/41/section/15/2/a) inserted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [ss. 261(2)](https://www.legislation.gov.uk/ukpga/2004/33/section/261/2), [263(10)(c)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/10/c), [Sch. 28 para. 7](https://www.legislation.gov.uk/ukpga/2004/33/schedule/28/paragraph/7); [S.S.I. 2005/604](https://www.legislation.gov.uk/ssi/2005/604), {art. (2(c)}
+
+[^c14266431]: Textual amendment: S. 16 is set out as it has effect in accordance with [Law Reform (Miscellaneous Provisions) Act 1968 (c. 70)](https://www.legislation.gov.uk/ukpga/1968/70), [s. 8](https://www.legislation.gov.uk/ukpga/1968/70/section/8), and as subsequently amended
+
+[^c21778241]: Textual amendment: Words in s. 16(2) inserted (27.11.2003) by [Agricultural Holdings (Scotland) Act 2003 (asp 11)](https://www.legislation.gov.uk/asp/2003/11), [ss. 94](https://www.legislation.gov.uk/asp/2003/11/section/94), [95(3)(4)](https://www.legislation.gov.uk/asp/2003/11/section/95/3/4), [Sch. para. 2(1)(a)](https://www.legislation.gov.uk/asp/2003/11/schedule/paragraph/2/1/a) (with [s. 95(2)](https://www.legislation.gov.uk/asp/2003/11/section/95/2)); [S.S.I. 2003/548](https://www.legislation.gov.uk/ssi/2003/548), [art. 2(i)](https://www.legislation.gov.uk/ssi/2003/548/article/2/i) (with [art. 3](https://www.legislation.gov.uk/ssi/2003/548/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2003/548/schedule))
+
+[^key-dfa5a1dc5e34d1ec44c84ff6a728225b]: Textual amendment: Words in s. 16(2)(c) substituted (23.12.2016) by [Land Reform (Scotland) Act 2016 (asp 18)](https://www.legislation.gov.uk/asp/2016/18), [s. 130(1)](https://www.legislation.gov.uk/asp/2016/18/section/130/1), [sch. 2 para. 14(2)(a)](https://www.legislation.gov.uk/asp/2016/18/schedule/2/paragraph/14/2/a) (with [s. 128](https://www.legislation.gov.uk/asp/2016/18/section/128)); [S.S.I. 2016/365](https://www.legislation.gov.uk/ssi/2016/365), [reg. 2](https://www.legislation.gov.uk/ssi/2016/365/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/365/schedule) (with [regs. 5-8](https://www.legislation.gov.uk/ssi/2016/365/regulation/5))
+
+[^c14266441]: Textual amendment: Words in s. 16(2)(c) and s. 16(3)(b)(i) substituted (25.9.1991) by [Agricultural Holdings (Scotland) Act 1991 (c. 55, SIF 2:3)](https://www.legislation.gov.uk/ukpga/1991/55), [ss. 88(1)](https://www.legislation.gov.uk/ukpga/1991/55/section/88/1), [89(2)](https://www.legislation.gov.uk/ukpga/1991/55/section/89/2), [Sch. 11 para. 24(a)](https://www.legislation.gov.uk/ukpga/1991/55/schedule/11/paragraph/24/a) (with [s. 45(3)](https://www.legislation.gov.uk/ukpga/1991/55/section/45/3), [Sch. 12 para. 3](https://www.legislation.gov.uk/ukpga/1991/55/schedule/12/paragraph/3))
+
+[^c14266451]: Textual amendment: Words added by Law Reform (Miscellaneous Provisions)(Scotland) Act 1968 (c. 70), s. 8, Sch. 2 Pt. I para. 22(a)
+
+[^c21782641]: Textual amendment: Words in s. 16(2) substituted (28.1.2008) by [Crofting Reform etc. Act 2007 (asp 7)](https://www.legislation.gov.uk/asp/2007/7), [ss. 15(2)](https://www.legislation.gov.uk/asp/2007/7/section/15/2), [43](https://www.legislation.gov.uk/asp/2007/7/section/43) (with ss. 40,43(2)); [S.S.I. 2007/568](https://www.legislation.gov.uk/ssi/2007/568), [art. 2](https://www.legislation.gov.uk/ssi/2007/568/article/2)
+
+[^c21782661]: Textual amendment: S. 16(2A) inserted (28.1.2008) by [Crofting Reform etc. Act 2007 (asp 7)](https://www.legislation.gov.uk/asp/2007/7), [ss. 15(3)](https://www.legislation.gov.uk/asp/2007/7/section/15/3), [43](https://www.legislation.gov.uk/asp/2007/7/section/43) (with ss. 40,43(2)); [S.S.I. 2007/568](https://www.legislation.gov.uk/ssi/2007/568), [art. 2](https://www.legislation.gov.uk/ssi/2007/568/article/2)
+
+[^c21783021]: Textual amendment: S. 16(2A)(a) and word repealed (1.10.2011) by [Crofting Reform (Scotland) Act 2010 (asp 14)](https://www.legislation.gov.uk/asp/2010/14), [ss. 55](https://www.legislation.gov.uk/asp/2010/14/section/55), [57(2)(3)](https://www.legislation.gov.uk/asp/2010/14/section/57/2/3), [Sch. 4 para. 2(2)(a)(i)](https://www.legislation.gov.uk/asp/2010/14/schedule/4/paragraph/2/2/a/i) (with [s. 57(4)](https://www.legislation.gov.uk/asp/2010/14/section/57/4)); [S.S.I. 2011/334](https://www.legislation.gov.uk/ssi/2011/334), [art. 3(1)(a)](https://www.legislation.gov.uk/ssi/2011/334/article/3/1/a), [Sch.](https://www.legislation.gov.uk/ssi/2011/334/schedule)
+
+[^c21783041]: Textual amendment: Words in s. 16(2A)(b) substituted (1.10.2011) by [Crofting Reform (Scotland) Act 2010 (asp 14)](https://www.legislation.gov.uk/asp/2010/14), [ss. 55](https://www.legislation.gov.uk/asp/2010/14/section/55), [57(2)(3)](https://www.legislation.gov.uk/asp/2010/14/section/57/2/3), [Sch. 4 para. 2(2)(a)(ii)](https://www.legislation.gov.uk/asp/2010/14/schedule/4/paragraph/2/2/a/ii) (with [s. 57(4)](https://www.legislation.gov.uk/asp/2010/14/section/57/4)); [S.S.I. 2011/334](https://www.legislation.gov.uk/ssi/2011/334), [art. 3(1)(a)](https://www.legislation.gov.uk/ssi/2011/334/article/3/1/a), [Sch.](https://www.legislation.gov.uk/ssi/2011/334/schedule)
+
+[^key-1d267848576533c5e2023852f284a6db]: Textual amendment: Words in s. 16(2A)(b) inserted (23.12.2016) by [Land Reform (Scotland) Act 2016 (asp 18)](https://www.legislation.gov.uk/asp/2016/18), [s. 130(1)](https://www.legislation.gov.uk/asp/2016/18/section/130/1), [sch. 2 para. 14(2)(b)](https://www.legislation.gov.uk/asp/2016/18/schedule/2/paragraph/14/2/b) (with [s. 128](https://www.legislation.gov.uk/asp/2016/18/section/128)); [S.S.I. 2016/365](https://www.legislation.gov.uk/ssi/2016/365), [reg. 2](https://www.legislation.gov.uk/ssi/2016/365/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/365/schedule) (with [regs. 5-8](https://www.legislation.gov.uk/ssi/2016/365/regulation/5))
+
+[^c21778261]: Textual amendment: Words in s. 16(3) inserted (27.11.2003) by [Agricultural Holdings (Scotland) Act 2003 (asp 11)](https://www.legislation.gov.uk/asp/2003/11), [ss. 94](https://www.legislation.gov.uk/asp/2003/11/section/94), [95(3)(4)](https://www.legislation.gov.uk/asp/2003/11/section/95/3/4), [Sch. para. 2(1)(b)(i)](https://www.legislation.gov.uk/asp/2003/11/schedule/paragraph/2/1/b/i) (with [s. 95(2)](https://www.legislation.gov.uk/asp/2003/11/section/95/2)); [S.S.I. 2003/548](https://www.legislation.gov.uk/ssi/2003/548), [art. 2(i)](https://www.legislation.gov.uk/ssi/2003/548/article/2/i) (with [art. 3](https://www.legislation.gov.uk/ssi/2003/548/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2003/548/schedule))
+
+[^c21783061]: Textual amendment: Words in s. 16(3)(b) inserted (1.10.2011) by [Crofting Reform (Scotland) Act 2010 (asp 14)](https://www.legislation.gov.uk/asp/2010/14), [ss. 55](https://www.legislation.gov.uk/asp/2010/14/section/55), [57(2)(3)](https://www.legislation.gov.uk/asp/2010/14/section/57/2/3), [Sch. 4 para. 2(2)(b)(i)](https://www.legislation.gov.uk/asp/2010/14/schedule/4/paragraph/2/2/b/i) (with [s. 57(4)](https://www.legislation.gov.uk/asp/2010/14/section/57/4)); [S.S.I. 2011/334](https://www.legislation.gov.uk/ssi/2011/334), [art. 3(1)(a)](https://www.legislation.gov.uk/ssi/2011/334/article/3/1/a), [Sch.](https://www.legislation.gov.uk/ssi/2011/334/schedule)
+
+[^c21778281]: Textual amendment: Words in s. 16(3)(b) substituted (27.11.2003) by [Agricultural Holdings (Scotland) Act 2003 (asp 11)](https://www.legislation.gov.uk/asp/2003/11), [ss. 94](https://www.legislation.gov.uk/asp/2003/11/section/94), [95(3)(4)](https://www.legislation.gov.uk/asp/2003/11/section/95/3/4), [Sch. para. 2(1)(b)(ii)](https://www.legislation.gov.uk/asp/2003/11/schedule/paragraph/2/1/b/ii) (with [s. 95(2)](https://www.legislation.gov.uk/asp/2003/11/section/95/2)); [S.S.I. 2003/548](https://www.legislation.gov.uk/ssi/2003/548), [art. 2(i)](https://www.legislation.gov.uk/ssi/2003/548/article/2/i) (with [art. 3](https://www.legislation.gov.uk/ssi/2003/548/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2003/548/schedule))
+
+[^key-e96ef23e9885daabed4618cb4381d514]: Textual amendment: Words in s. 16(3)(b)(i) substituted (23.12.2016) by [Land Reform (Scotland) Act 2016 (asp 18)](https://www.legislation.gov.uk/asp/2016/18), [s. 130(1)](https://www.legislation.gov.uk/asp/2016/18/section/130/1), [sch. 2 para. 14(2)(c)(i)](https://www.legislation.gov.uk/asp/2016/18/schedule/2/paragraph/14/2/c/i) (with [s. 128](https://www.legislation.gov.uk/asp/2016/18/section/128)); [S.S.I. 2016/365](https://www.legislation.gov.uk/ssi/2016/365), [reg. 2](https://www.legislation.gov.uk/ssi/2016/365/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/365/schedule) (with [regs. 5-8](https://www.legislation.gov.uk/ssi/2016/365/regulation/5))
+
+[^key-a7f86d5e217507b3adbc2c4a18b2fb4f]: Textual amendment: Words in s. 16(3)(b)(i) substituted (23.12.2016) by [Land Reform (Scotland) Act 2016 (asp 18)](https://www.legislation.gov.uk/asp/2016/18), [s. 130(1)](https://www.legislation.gov.uk/asp/2016/18/section/130/1), [sch. 2 para. 14(2)(c)(ii)](https://www.legislation.gov.uk/asp/2016/18/schedule/2/paragraph/14/2/c/ii) (with [s. 128](https://www.legislation.gov.uk/asp/2016/18/section/128)); [S.S.I. 2016/365](https://www.legislation.gov.uk/ssi/2016/365), [reg. 2](https://www.legislation.gov.uk/ssi/2016/365/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/365/schedule) (with [regs. 5-8](https://www.legislation.gov.uk/ssi/2016/365/regulation/5))
+
+[^c14266481]: Textual amendment: S. 16(3)(*b*)(i*a*)(i*b*) added by Law Reform (Miscellaneous Provisions)(Scotland) Act 1968 (c. 70), s. 8, Sch. 2 Pt. I para. 23
+
+[^c21782721]: Textual amendment: S. 16(3)(b)(ia) repealed (28.1.2008) by [Crofting Reform etc. Act 2007 (asp 7)](https://www.legislation.gov.uk/asp/2007/7), [ss. 42](https://www.legislation.gov.uk/asp/2007/7/section/42), [43(3)](https://www.legislation.gov.uk/asp/2007/7/section/43/3), [Sch. 2](https://www.legislation.gov.uk/asp/2007/7/schedule/2) (with ss. 40,43(2)); [S.S.I. 2007/568](https://www.legislation.gov.uk/ssi/2007/568), [art. 2](https://www.legislation.gov.uk/ssi/2007/568/article/2)
+
+[^c21783081]: Textual amendment: S. 16(3)(b)(ib) repealed (1.10.2011) by [Crofting Reform (Scotland) Act 2010 (asp 14)](https://www.legislation.gov.uk/asp/2010/14), [ss. 55](https://www.legislation.gov.uk/asp/2010/14/section/55), [57(2)(3)](https://www.legislation.gov.uk/asp/2010/14/section/57/2/3), [Sch. 4 para. 2(2)(b)(ii)](https://www.legislation.gov.uk/asp/2010/14/schedule/4/paragraph/2/2/b/ii) (with [s. 57(4)](https://www.legislation.gov.uk/asp/2010/14/section/57/4)); [S.S.I. 2011/334](https://www.legislation.gov.uk/ssi/2011/334), [art. 3(1)(a)](https://www.legislation.gov.uk/ssi/2011/334/article/3/1/a), [Sch.](https://www.legislation.gov.uk/ssi/2011/334/schedule)
+
+[^c21783101]: Textual amendment: S. 16(3A) inserted (1.10.2011) by [Crofting Reform (Scotland) Act 2010 (asp 14)](https://www.legislation.gov.uk/asp/2010/14), [ss. 55](https://www.legislation.gov.uk/asp/2010/14/section/55), [57(2)(3)](https://www.legislation.gov.uk/asp/2010/14/section/57/2/3), [Sch. 4 para. 2(2)(c)](https://www.legislation.gov.uk/asp/2010/14/schedule/4/paragraph/2/2/c) (with [s. 57(4)](https://www.legislation.gov.uk/asp/2010/14/section/57/4)); [S.S.I. 2011/334](https://www.legislation.gov.uk/ssi/2011/334), [art. 3(1)(a)](https://www.legislation.gov.uk/ssi/2011/334/article/3/1/a), [Sch.](https://www.legislation.gov.uk/ssi/2011/334/schedule)
+
+[^c21778221]: Textual amendment: S. 16(4A)-(4E) inserted (27.11.2003) by [Agricultural Holdings (Scotland) Act 2003 (asp 11)](https://www.legislation.gov.uk/asp/2003/11), [ss. 20](https://www.legislation.gov.uk/asp/2003/11/section/20), [95(3)(4)](https://www.legislation.gov.uk/asp/2003/11/section/95/3/4) (with [s. 95(2)](https://www.legislation.gov.uk/asp/2003/11/section/95/2)); [S.S.I. 2003/548](https://www.legislation.gov.uk/ssi/2003/548), [art. 2(a)](https://www.legislation.gov.uk/ssi/2003/548/article/2/a) (with [art. 3](https://www.legislation.gov.uk/ssi/2003/548/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2003/548/schedule))
+
+[^key-b3e1341c088b0fbe119c0934f49ff43a]: Textual amendment: Words in s. 16(4A) substituted (30.11.2017) by [Land Reform (Scotland) Act 2016 (asp 18)](https://www.legislation.gov.uk/asp/2016/18), [ss. 108(1)(a)](https://www.legislation.gov.uk/asp/2016/18/section/108/1/a), [130(1)](https://www.legislation.gov.uk/asp/2016/18/section/130/1) (with [s. 128](https://www.legislation.gov.uk/asp/2016/18/section/128)); [S.S.I. 2017/299](https://www.legislation.gov.uk/ssi/2017/299), [reg. 2](https://www.legislation.gov.uk/ssi/2017/299/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/299/schedule) (with [reg. 7](https://www.legislation.gov.uk/ssi/2017/299/regulation/7))
+
+[^key-c3d52547d3480141b173799823dde0d4]: Textual amendment: Words in [s. 16(4C)](https://www.legislation.gov.uk/ukpga/1964/41/section/16/4C) substituted (30.11.2017) by [Land Reform (Scotland) Act 2016 (asp 18)](https://www.legislation.gov.uk/asp/2016/18), [ss. 108(1)(b)](https://www.legislation.gov.uk/asp/2016/18/section/108/1/b), [130(1)](https://www.legislation.gov.uk/asp/2016/18/section/130/1) (with [s. 128](https://www.legislation.gov.uk/asp/2016/18/section/128)); [S.S.I. 2017/299](https://www.legislation.gov.uk/ssi/2017/299), [reg. 2](https://www.legislation.gov.uk/ssi/2017/299/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/299/schedule) (with [reg. 7](https://www.legislation.gov.uk/ssi/2017/299/regulation/7))
+
+[^c14266491]: Textual amendment: Words inserted by Law Reform (Miscellaneous Provisions)(Scotland) Act 1968 (c. 70), s. 8 Sch. 2 Pt. I para. 24
+
+[^c14266501]: Textual amendment: Words in s. 16(6)(b) substituted (25.9.1991) by [Agricultural Holdings (Scotland) Act 1991 (c. 55, SIF 2:3)](https://www.legislation.gov.uk/ukpga/1991/55), [ss. 88(1)](https://www.legislation.gov.uk/ukpga/1991/55/section/88/1), [89(2)](https://www.legislation.gov.uk/ukpga/1991/55/section/89/2), [Sch. 11 para. 24(b)](https://www.legislation.gov.uk/ukpga/1991/55/schedule/11/paragraph/24/b) (with [s. 45(3)](https://www.legislation.gov.uk/ukpga/1991/55/section/45/3), [Sch. 12 para. 3](https://www.legislation.gov.uk/ukpga/1991/55/schedule/12/paragraph/3))
+
+[^c21778301]: Textual amendment: Words in s. 16(6) substituted (27.11.2003) by [Agricultural Holdings (Scotland) Act 2003 (asp 11)](https://www.legislation.gov.uk/asp/2003/11), [ss. 94](https://www.legislation.gov.uk/asp/2003/11/section/94), [95(3)(4)](https://www.legislation.gov.uk/asp/2003/11/section/95/3/4), [Sch. para. 2(1)(c)(i)](https://www.legislation.gov.uk/asp/2003/11/schedule/paragraph/2/1/c/i) (with [s. 95(2)](https://www.legislation.gov.uk/asp/2003/11/section/95/2)); [S.S.I. 2003/548](https://www.legislation.gov.uk/ssi/2003/548), [art. 2(i)](https://www.legislation.gov.uk/ssi/2003/548/article/2/i) (with [art. 3](https://www.legislation.gov.uk/ssi/2003/548/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2003/548/schedule))
+
+[^c21778321]: Textual amendment: Words in s. 16(6) substituted (27.11.2003) by [Agricultural Holdings (Scotland) Act 2003 (asp 11)](https://www.legislation.gov.uk/asp/2003/11), [ss. 94](https://www.legislation.gov.uk/asp/2003/11/section/94), [95(3)(4)](https://www.legislation.gov.uk/asp/2003/11/section/95/3/4), [Sch. para. 2(1)(c)(ii)](https://www.legislation.gov.uk/asp/2003/11/schedule/paragraph/2/1/c/ii) (with [s. 95(2)](https://www.legislation.gov.uk/asp/2003/11/section/95/2)); [S.S.I. 2003/548](https://www.legislation.gov.uk/ssi/2003/548), [art. 2(i)](https://www.legislation.gov.uk/ssi/2003/548/article/2/i) (with [art. 3](https://www.legislation.gov.uk/ssi/2003/548/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2003/548/schedule))
+
+[^c21778341]: Textual amendment: Words in s. 16(6) repealed (27.11.2003) by [Agricultural Holdings (Scotland) Act 2003 (asp 11)](https://www.legislation.gov.uk/asp/2003/11), [ss. 94](https://www.legislation.gov.uk/asp/2003/11/section/94), [95(3)(4)](https://www.legislation.gov.uk/asp/2003/11/section/95/3/4), [Sch. para. 2(1)(c)(iii)](https://www.legislation.gov.uk/asp/2003/11/schedule/paragraph/2/1/c/iii) (with [s. 95(2)](https://www.legislation.gov.uk/asp/2003/11/section/95/2)); [S.S.I. 2003/548](https://www.legislation.gov.uk/ssi/2003/548), [art. 2(i)](https://www.legislation.gov.uk/ssi/2003/548/article/2/i) (with [art. 3](https://www.legislation.gov.uk/ssi/2003/548/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2003/548/schedule))
+
+[^key-efb4b0c2b96518e71974151214f331ed]: Textual amendment: Words in s. 16(8) substituted (23.12.2016) by [Land Reform (Scotland) Act 2016 (asp 18)](https://www.legislation.gov.uk/asp/2016/18), [s. 130(1)](https://www.legislation.gov.uk/asp/2016/18/section/130/1), [sch. 2 para. 14(2)(d)](https://www.legislation.gov.uk/asp/2016/18/schedule/2/paragraph/14/2/d) (with [s. 128](https://www.legislation.gov.uk/asp/2016/18/section/128)); [S.S.I. 2016/365](https://www.legislation.gov.uk/ssi/2016/365), [reg. 2](https://www.legislation.gov.uk/ssi/2016/365/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/365/schedule) (with [regs. 5-8](https://www.legislation.gov.uk/ssi/2016/365/regulation/5))
+
+[^c14266531]: Textual amendment: Words added by Law Reform (Miscellaneous Provisions)(Scotland) Act 1968 (c. 70), s. 8, Sch. 2 Pt. I para. 25
+
+[^c21778381]: Textual amendment: Words in s. 16(8A) inserted (27.11.2003) by [Agricultural Holdings (Scotland) Act 2003 (asp 11)](https://www.legislation.gov.uk/asp/2003/11), [ss. 94](https://www.legislation.gov.uk/asp/2003/11/section/94), [95(3)(4)](https://www.legislation.gov.uk/asp/2003/11/section/95/3/4), [Sch. para. 2(1)(e)](https://www.legislation.gov.uk/asp/2003/11/schedule/paragraph/2/1/e) (with [s. 95(2)](https://www.legislation.gov.uk/asp/2003/11/section/95/2)); [S.S.I. 2003/548](https://www.legislation.gov.uk/ssi/2003/548), [art. 2(i)](https://www.legislation.gov.uk/ssi/2003/548/article/2/i) (with [art. 3](https://www.legislation.gov.uk/ssi/2003/548/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2003/548/schedule))
+
+[^c21778401]: Textual amendment: S. 19(9): words in definition of "agricultural lease" substituted (27.11.2003) by [Agricultural Holdings (Scotland) Act 2003 (asp 11)](https://www.legislation.gov.uk/asp/2003/11), [ss. 94](https://www.legislation.gov.uk/asp/2003/11/section/94), [95(3)(4)](https://www.legislation.gov.uk/asp/2003/11/section/95/3/4), [Sch. para. 2(1)(f)(i)](https://www.legislation.gov.uk/asp/2003/11/schedule/paragraph/2/1/f/i) (with [s. 95(2)](https://www.legislation.gov.uk/asp/2003/11/section/95/2)); [S.S.I. 2003/548](https://www.legislation.gov.uk/ssi/2003/548), [art. 2(i)](https://www.legislation.gov.uk/ssi/2003/548/article/2/i) (with [art. 3](https://www.legislation.gov.uk/ssi/2003/548/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2003/548/schedule))
+
+[^c21782681]: Textual amendment: Words in s. 16(9) substituted (28.1.2008) by [Crofting Reform etc. Act 2007 (asp 7)](https://www.legislation.gov.uk/asp/2007/7), [ss. 15(4)](https://www.legislation.gov.uk/asp/2007/7/section/15/4), [43](https://www.legislation.gov.uk/asp/2007/7/section/43) (with ss. 40,43(2)); [S.S.I. 2007/568](https://www.legislation.gov.uk/ssi/2007/568), [art. 2](https://www.legislation.gov.uk/ssi/2007/568/article/2)
+
+[^key-dd4bc1de48717a56fbfac405c3ab7744]: Textual amendment: Words in [s. 16(9)](https://www.legislation.gov.uk/ukpga/1964/41/section/16/9) substituted (30.11.2017) by [Land Reform (Scotland) Act 2016 (asp 18)](https://www.legislation.gov.uk/asp/2016/18), [ss. 108(1)(c)(i)](https://www.legislation.gov.uk/asp/2016/18/section/108/1/c/i), [130(1)](https://www.legislation.gov.uk/asp/2016/18/section/130/1) (with [s. 128](https://www.legislation.gov.uk/asp/2016/18/section/128)); [S.S.I. 2017/299](https://www.legislation.gov.uk/ssi/2017/299), [reg. 2](https://www.legislation.gov.uk/ssi/2017/299/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/299/schedule) (with [reg. 7](https://www.legislation.gov.uk/ssi/2017/299/regulation/7))
+
+[^c14266561]: Marginal citation: [1886 c. 29](https://www.legislation.gov.uk/ukpga/1886/29).
+
+[^c14266571]: Marginal citation: [1931 c. 44](https://www.legislation.gov.uk/ukpga/1931/44).
+
+[^c14266581]: Textual amendment: S. 16(9): definition of "the 1991 Act" substituted (25.9.1991) for definition of "the Act of 1949" by [Agricultural Holdings (Scotland) Act 1991 (c. 55, SIF 2:3)](https://www.legislation.gov.uk/ukpga/1991/55), [ss. 88(1)](https://www.legislation.gov.uk/ukpga/1991/55/section/88/1), [89(2)](https://www.legislation.gov.uk/ukpga/1991/55/section/89/2), [Sch. 11 para. 24(d)(ii)](https://www.legislation.gov.uk/ukpga/1991/55/schedule/11/paragraph/24/d/ii) (with [s. 45(3)](https://www.legislation.gov.uk/ukpga/1991/55/section/45/3), [Sch. 12 para. 3](https://www.legislation.gov.uk/ukpga/1991/55/schedule/12/paragraph/3))
+
+[^c21778421]: Textual amendment: S. 16(9): definition of "the 2003 Act" inserted (27.11.2003) by [Agricultural Holdings (Scotland) Act 2003 (asp 11)](https://www.legislation.gov.uk/asp/2003/11), [ss. 94](https://www.legislation.gov.uk/asp/2003/11/section/94), [95(3)(4)](https://www.legislation.gov.uk/asp/2003/11/section/95/3/4), [Sch. para. 2(1)(f)(ii)](https://www.legislation.gov.uk/asp/2003/11/schedule/paragraph/2/1/f/ii) (with [s. 95(2)](https://www.legislation.gov.uk/asp/2003/11/section/95/2)); [S.S.I. 2003/548](https://www.legislation.gov.uk/ssi/2003/548), [art. 2(i)](https://www.legislation.gov.uk/ssi/2003/548/article/2/i) (with [art. 3](https://www.legislation.gov.uk/ssi/2003/548/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2003/548/schedule))
+
+[^c14266591]: Textual amendment: S. 16(9): definition of "the Act of 1955" added by Law Reform (Miscellaneous Provisions)(Scotland) Act 1968 (c. 70), s. 8, Sch. 2 Pt. I para. 26(b)
+
+[^c14266601]: Marginal citation: [1955 c. 21](https://www.legislation.gov.uk/ukpga/1955/21).
+
+[^c21778441]: Textual amendment: S. 16(9): definition of "1991 Act tenancy" inserted (27.11.2003) by [Agricultural Holdings (Scotland) Act 2003 (asp 11)](https://www.legislation.gov.uk/asp/2003/11), [ss. 94](https://www.legislation.gov.uk/asp/2003/11/section/94), [95(3)(4)](https://www.legislation.gov.uk/asp/2003/11/section/95/3/4), [Sch. para. 2(1)(f)(iii)](https://www.legislation.gov.uk/asp/2003/11/schedule/paragraph/2/1/f/iii) (with [s. 95(2)](https://www.legislation.gov.uk/asp/2003/11/section/95/2)); [S.S.I. 2003/548](https://www.legislation.gov.uk/ssi/2003/548), [art. 2(i)](https://www.legislation.gov.uk/ssi/2003/548/article/2/i) (with [art. 3](https://www.legislation.gov.uk/ssi/2003/548/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2003/548/schedule))
+
+[^key-ba0676b2d60ed3212f91c5a17298d838]: Textual amendment: Words in [s. 16(9)](https://www.legislation.gov.uk/ukpga/1964/41/section/16/9) substituted (30.11.2017) by [Land Reform (Scotland) Act 2016 (asp 18)](https://www.legislation.gov.uk/asp/2016/18), [ss. 108(1)(c)(ii)](https://www.legislation.gov.uk/asp/2016/18/section/108/1/c/ii), [130(1)](https://www.legislation.gov.uk/asp/2016/18/section/130/1) (with [s. 128](https://www.legislation.gov.uk/asp/2016/18/section/128)); [S.S.I. 2017/299](https://www.legislation.gov.uk/ssi/2017/299), [reg. 2](https://www.legislation.gov.uk/ssi/2017/299/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/299/schedule) (with [reg. 7](https://www.legislation.gov.uk/ssi/2017/299/regulation/7))
+
+[^c21782701]: Textual amendment: [S. 16A](https://www.legislation.gov.uk/ukpga/1964/41/section/16A) inserted (28.1.2008) by [Crofting Reform etc. Act 2007 (asp 7)](https://www.legislation.gov.uk/asp/2007/7), [ss. 16](https://www.legislation.gov.uk/asp/2007/7/section/16), [43](https://www.legislation.gov.uk/asp/2007/7/section/43) (with ss. 40,43(2)); [S.S.I. 2007/568](https://www.legislation.gov.uk/ssi/2007/568), [art. 2](https://www.legislation.gov.uk/ssi/2007/568/article/2)
+
+[^c21783121]: Textual amendment: [S. 16A](https://www.legislation.gov.uk/ukpga/1964/41/section/16A) repealed (1.10.2011) by [Crofting Reform (Scotland) Act 2010 (asp 14)](https://www.legislation.gov.uk/asp/2010/14), [ss. 55](https://www.legislation.gov.uk/asp/2010/14/section/55), [57(2)(3)](https://www.legislation.gov.uk/asp/2010/14/section/57/2/3), [Sch. 4 para. 2(3)](https://www.legislation.gov.uk/asp/2010/14/schedule/4/paragraph/2/3) (with [s. 57(4)](https://www.legislation.gov.uk/asp/2010/14/section/57/4)); [S.S.I. 2011/334](https://www.legislation.gov.uk/ssi/2011/334), [art. 3(1)(a)](https://www.legislation.gov.uk/ssi/2011/334/article/3/1/a), [Sch.](https://www.legislation.gov.uk/ssi/2011/334/schedule)
+
+[^key-9daff1c9da535a95af4475c41dac1a35]: Textual amendment: S. 17 repealed (1.11.2016) by [Succession (Scotland) Act 2016 (asp 7)](https://www.legislation.gov.uk/asp/2016/7), [s. 31(2)](https://www.legislation.gov.uk/asp/2016/7/section/31/2), [sch. para. 1(5)(a)](https://www.legislation.gov.uk/asp/2016/7/schedule/paragraph/1/5/a); [S.S.I. 2016/210](https://www.legislation.gov.uk/ssi/2016/210), [reg. 2(1)(b)](https://www.legislation.gov.uk/ssi/2016/210/regulation/2/1/b) (with [reg. 3(4)](https://www.legislation.gov.uk/ssi/2016/210/regulation/3/4))
+
+[^c22561001]: Textual amendment: S. 18(1) repealed (28.11.2004) by [2000 asp 5](https://www.legislation.gov.uk/asp/2000/5), [ss. 76(2)](https://www.legislation.gov.uk/asp/2000/5/section/76/2), [77(4)](https://www.legislation.gov.uk/asp/2000/5/section/77/4), [Sch. 13 Pt. 1](https://www.legislation.gov.uk/asp/2000/5/schedule/13/part/1) (with [ss. 58](https://www.legislation.gov.uk/asp/2000/5/section/58), [62](https://www.legislation.gov.uk/asp/2000/5/section/62), [75](https://www.legislation.gov.uk/asp/2000/5/section/75)); [S.S.I. 2003/456](https://www.legislation.gov.uk/ssi/2003/456), [art. 2](https://www.legislation.gov.uk/ssi/2003/456/article/2)
+
+[^c14266631]: Textual amendment: [Ss. 19](https://www.legislation.gov.uk/ukpga/1964/41/section/19), [22(4)](https://www.legislation.gov.uk/ukpga/1964/41/section/22/4) repealed in relation to deaths occurring after 13.4.1975 and, so far as regards certain duties in relation to any death, by [Finance Act 1975 (c. 7, SIF 99:3)](https://www.legislation.gov.uk/ukpga/1975/7), [ss. 52(2)](https://www.legislation.gov.uk/ukpga/1975/7/section/52/2), [59](https://www.legislation.gov.uk/ukpga/1975/7/section/59), [Sch. 13 Pt. I](https://www.legislation.gov.uk/ukpga/1975/7/schedule/13/part/I), note (with a saving in s. 52(3) in relation to repayment or allowance in respect of certain sums paid before 13.3.1975 on account)
+
+[^c14266641]: Marginal citation: [1921 c. 58](https://www.legislation.gov.uk/ukpga/1921/58).
+
+[^c14266651]: Marginal citation: [1961 c. 57](https://www.legislation.gov.uk/ukpga/1961/57).
+
+[^c14266661]: Textual amendment: [S. 21(2)](https://www.legislation.gov.uk/ukpga/1964/41/section/21/2) added (1.8.1995) by [1995 c. 7](https://www.legislation.gov.uk/ukpga/1995/7), [ss. 14(1)](https://www.legislation.gov.uk/ukpga/1995/7/section/14/1), [15(2)](https://www.legislation.gov.uk/ukpga/1995/7/section/15/2), [Sch. 4 para. 38](https://www.legislation.gov.uk/ukpga/1995/7/schedule/4/paragraph/38) (with [ss. 9(3)(5)(7)](https://www.legislation.gov.uk/ukpga/1995/7/section/9/3/5/7), [13](https://www.legislation.gov.uk/ukpga/1995/7/section/13), [14(3)](https://www.legislation.gov.uk/ukpga/1995/7/section/14/3))
+
+[^c14266671]: Textual amendment: S. 21A inserted (1.8.1995) by [1995 c. 7](https://www.legislation.gov.uk/ukpga/1995/7), [ss. 14(1)](https://www.legislation.gov.uk/ukpga/1995/7/section/14/1), [15(2)](https://www.legislation.gov.uk/ukpga/1995/7/section/15/2), [Sch. 4 para. 39](https://www.legislation.gov.uk/ukpga/1995/7/schedule/4/paragraph/39) (with [ss. 9(3)(5)(7)](https://www.legislation.gov.uk/ukpga/1995/7/section/9/3/5/7), [13](https://www.legislation.gov.uk/ukpga/1995/7/section/13), [14(3)](https://www.legislation.gov.uk/ukpga/1995/7/section/14/3))
+
+[^M_F_b5c3dedc-305b-46c1-ae1b-3e3dd0c13641]: Textual amendment: Words in s. 21A(a) inserted (8.12.2014) by [Land Registration etc. (Scotland) Act 2012 (asp 5)](https://www.legislation.gov.uk/asp/2012/5), [ss. 122](https://www.legislation.gov.uk/asp/2012/5/section/122), [123](https://www.legislation.gov.uk/asp/2012/5/section/123), [Sch. 5 para. 14](https://www.legislation.gov.uk/asp/2012/5/schedule/5/paragraph/14) (with [s. 121](https://www.legislation.gov.uk/asp/2012/5/section/121), [Sch. 4 paras. 13](https://www.legislation.gov.uk/asp/2012/5/schedule/4/paragraph/13), [16](https://www.legislation.gov.uk/asp/2012/5/schedule/4/paragraph/16)) (as amended by S.S.I. 2014/346, arts. 1(2), 3); [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
+
+[^c14266681]: Marginal citation: [1858 c. 56](https://www.legislation.gov.uk/ukpga/1858/56).
+
+[^c14266691]: Marginal citation: [1927 c. 35](https://www.legislation.gov.uk/ukpga/1927/35).
+
+[^c14266701]: Marginal citation: [1933 c. 41](https://www.legislation.gov.uk/ukpga/1933/41).
+
+[^c14266711]: Textual amendment: [S. 22(3)](https://www.legislation.gov.uk/ukpga/1964/41/section/22/3) repealed by Law Reform (Miscellaneous Provisions)(Scotland) Act 1966 (c. 19), Sch. Pt. I
+
+[^c14266721]: Textual amendment: [Ss. 19](https://www.legislation.gov.uk/ukpga/1964/41/section/19), [22(4)](https://www.legislation.gov.uk/ukpga/1964/41/section/22/4) repealed in relation to deaths occurring after 13.4.1975 and, so far as regards certain duties in relation to any death, by [Finance Act 1975 (c. 7, SIF 99:3)](https://www.legislation.gov.uk/ukpga/1975/7), [ss. 52(2)](https://www.legislation.gov.uk/ukpga/1975/7/section/52/2), [59](https://www.legislation.gov.uk/ukpga/1975/7/section/59), [Sch. 13 Pt. I](https://www.legislation.gov.uk/ukpga/1975/7/schedule/13/part/I), note (with a saving in s. 52(3) in relation to repayment or allowance in respect of certain sums paid before 13.3.1975 on account)
+
+[^c14266771]: Modification: [S. 23](https://www.legislation.gov.uk/ukpga/1964/41/section/23) saved by [Legitimation (Scotland) Act 1968 (c. 22)](https://www.legislation.gov.uk/ukpga/1968/22), [ss. 2(6)](https://www.legislation.gov.uk/ukpga/1968/22/section/2/6), [6(2)](https://www.legislation.gov.uk/ukpga/1968/22/section/6/2)
+
+[^c14266781]: Modification: [S. 23(1)](https://www.legislation.gov.uk/ukpga/1964/41/section/23/1) excluded by Law Reform (Miscellaneous Provisions)(Scotland) Act 1966 (c. 19), s. 5(1)
+
+[^c14266791]: Textual amendment: Words substituted by [Adoption (Scotland) Act 1978 (c. 28, SIF 49:11)](https://www.legislation.gov.uk/ukpga/1978/28), [s. 66](https://www.legislation.gov.uk/ukpga/1978/28/section/66), [Sch. 3 para. 4](https://www.legislation.gov.uk/ukpga/1978/28/schedule/3/paragraph/4)
+
+[^c21782811]: Textual amendment: Words in [s. 23(3)](https://www.legislation.gov.uk/ukpga/1964/41/section/23/3) inserted (28.9.2009) by [Adoption and Children (Scotland) Act 2007 (asp 4)](https://www.legislation.gov.uk/asp/2007/4), [ss. 120(1)](https://www.legislation.gov.uk/asp/2007/4/section/120/1), [121(2)](https://www.legislation.gov.uk/asp/2007/4/section/121/2), [Sch. 2 para. 1(2)(a)](https://www.legislation.gov.uk/asp/2007/4/schedule/2/paragraph/1/2/a); [S.S.I. 2009/267](https://www.legislation.gov.uk/ssi/2009/267), [art. 2](https://www.legislation.gov.uk/ssi/2009/267/article/2) (with [arts. 3-21](https://www.legislation.gov.uk/ssi/2009/267/article/3)) (as amended by [S.S.I. 2012/99](https://www.legislation.gov.uk/ssi/2012/99), [art. 2](https://www.legislation.gov.uk/ssi/2012/99/article/2))
+
+[^c14266801]: Modification: Definition in s. 23(5) applied (25.9.1991) by [Agricultural Holdings (Scotland) Act 1991 (c. 55, SIF 2:3)](https://www.legislation.gov.uk/ukpga/1991/55), [ss. 25(5)](https://www.legislation.gov.uk/ukpga/1991/55/section/25/5), [89(2)](https://www.legislation.gov.uk/ukpga/1991/55/section/89/2), [Sch. 2 Pt. III](https://www.legislation.gov.uk/ukpga/1991/55/schedule/2/part/III), [para.1](https://www.legislation.gov.uk/ukpga/1991/55/paragraph/1) (with [s. 45(3)](https://www.legislation.gov.uk/ukpga/1991/55/section/45/3), [Sch. 12 para. 3](https://www.legislation.gov.uk/ukpga/1991/55/schedule/12/paragraph/3))
+
+[^c21782791]: Textual amendment: Words in [s. 23(5)](https://www.legislation.gov.uk/ukpga/1964/41/section/23/5) renumbered as s. 23(5)(a) (28.9.2009) by [Adoption and Children (Scotland) Act 2007 (asp 4)](https://www.legislation.gov.uk/asp/2007/4), [ss. 120(1)](https://www.legislation.gov.uk/asp/2007/4/section/120/1), [121(2)](https://www.legislation.gov.uk/asp/2007/4/section/121/2), [Sch. 2 para. 1(2)(b)(i)](https://www.legislation.gov.uk/asp/2007/4/schedule/2/paragraph/1/2/b/i); [S.S.I. 2009/267](https://www.legislation.gov.uk/ssi/2009/267), [art. 2](https://www.legislation.gov.uk/ssi/2009/267/article/2) (with [arts. 3-21](https://www.legislation.gov.uk/ssi/2009/267/article/3)) (as amended by [S.S.I. 2012/99](https://www.legislation.gov.uk/ssi/2012/99), [art. 2](https://www.legislation.gov.uk/ssi/2012/99/article/2))
+
+[^c21782831]: Textual amendment: [S. 23(5)(b)](https://www.legislation.gov.uk/ukpga/1964/41/section/23/5/b) and word inserted (28.9.2009) by [Adoption and Children (Scotland) Act 2007 (asp 4)](https://www.legislation.gov.uk/asp/2007/4), [ss. 120(1)](https://www.legislation.gov.uk/asp/2007/4/section/120/1), [121(2)](https://www.legislation.gov.uk/asp/2007/4/section/121/2), [Sch. 2 para. 1(2)(b)(ii)](https://www.legislation.gov.uk/asp/2007/4/schedule/2/paragraph/1/2/b/ii); [S.S.I. 2009/267](https://www.legislation.gov.uk/ssi/2009/267), [art. 2](https://www.legislation.gov.uk/ssi/2009/267/article/2) (with [arts. 3-21](https://www.legislation.gov.uk/ssi/2009/267/article/3)) (as amended by [S.S.I. 2012/99](https://www.legislation.gov.uk/ssi/2012/99), [art. 2](https://www.legislation.gov.uk/ssi/2012/99/article/2))
+
+[^c14266821]: Modification: S. 24 saved by [Legitimation (Scotland) Act 1968 (c. 22)](https://www.legislation.gov.uk/ukpga/1968/22), [ss. 2(6)](https://www.legislation.gov.uk/ukpga/1968/22/section/2/6), [6(2)](https://www.legislation.gov.uk/ukpga/1968/22/section/6/2)
+
+[^c14266831]: Textual amendment: S. 24(1A) added by [Children Act 1975 (c. 72, SIF 49:9, 10)](https://www.legislation.gov.uk/ukpga/1975/72), [s. 8(10)](https://www.legislation.gov.uk/ukpga/1975/72/section/8/10), [Sch. 2 para. 5(3)](https://www.legislation.gov.uk/ukpga/1975/72/schedule/2/paragraph/5/3)
+
+[^c21783351]: Textual amendment: Words in s. 24(1A) repealed (30.6.2006) by [The Family Law (Scotland) Act 2006 (Consequential Modifications) Order 2006 (S.S.I. 2006/384)](https://www.legislation.gov.uk/ssi/2006/384), [art. 2](https://www.legislation.gov.uk/ssi/2006/384/article/2)
+
+[^key-054da40cb096218d846199b651f66d5f]: Textual amendment: [S. 24(2)](https://www.legislation.gov.uk/ukpga/1964/41/section/24/2) repealed (1.11.2016) by [Succession (Scotland) Act 2016 (asp 7)](https://www.legislation.gov.uk/asp/2016/7), [s. 31(2)](https://www.legislation.gov.uk/asp/2016/7/section/31/2), [sch. para. 1(5)(b)](https://www.legislation.gov.uk/asp/2016/7/schedule/paragraph/1/5/b); [S.S.I. 2016/210](https://www.legislation.gov.uk/ssi/2016/210), [reg. 2(1)(b)](https://www.legislation.gov.uk/ssi/2016/210/regulation/2/1/b) (with [reg. 3(4)](https://www.legislation.gov.uk/ssi/2016/210/regulation/3/4)[(5)](https://www.legislation.gov.uk/ssi/2016/210/regulation/3/5))
+
+[^c14266841]: Textual amendment: S. 24(4) repealed by [Adoption (Scotland) Act 1978 (c. 28, SIF 49:11)](https://www.legislation.gov.uk/ukpga/1978/28), [s. 66](https://www.legislation.gov.uk/ukpga/1978/28/section/66), [Sch. 4](https://www.legislation.gov.uk/ukpga/1978/28/schedule/4)
+
+[^c14266851]: Textual amendment: [Ss. 25–27](https://www.legislation.gov.uk/ukpga/1964/41/section/25) repealed by [Divorce (Scotland) Act 1976 (c. 39, SIF 49:3)](https://www.legislation.gov.uk/ukpga/1976/39), [s. 12(2)](https://www.legislation.gov.uk/ukpga/1976/39/section/12/2), [Sch. 2](https://www.legislation.gov.uk/ukpga/1976/39/schedule/2) (with savings in s. 12(3) for proceedings brought, anything done or the operation of any order made, under the repealed enactment)
+
+[^c14266861]: Textual amendment: [S. 28](https://www.legislation.gov.uk/ukpga/1964/41/section/28) repealed (25.9.1991) by [Age of Legal Capacity (Scotland) Act 1991 (c. 50, SIF 49:8)](https://www.legislation.gov.uk/ukpga/1991/50), [ss. 10(2)](https://www.legislation.gov.uk/ukpga/1991/50/section/10/2), [11(2)](https://www.legislation.gov.uk/ukpga/1991/50/section/11/2), [Sch.2](https://www.legislation.gov.uk/ukpga/1991/50/schedule/2) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/1991/50/section/1/3))
+
+[^c14266911]: Marginal citation: [1886 c. 29](https://www.legislation.gov.uk/ukpga/1886/29).
+
+[^key-2e582db494bfd8d94485fe4654afd10a]: Textual amendment: Words in [s. 29(2)](https://www.legislation.gov.uk/ukpga/1964/41/section/29/2) substituted (23.12.2016) by [Land Reform (Scotland) Act 2016 (asp 18)](https://www.legislation.gov.uk/asp/2016/18), [s. 130(1)](https://www.legislation.gov.uk/asp/2016/18/section/130/1), [sch. 2 para. 14(3)](https://www.legislation.gov.uk/asp/2016/18/schedule/2/paragraph/14/3) (with [s. 128](https://www.legislation.gov.uk/asp/2016/18/section/128)); [S.S.I. 2016/365](https://www.legislation.gov.uk/ssi/2016/365), [reg. 2](https://www.legislation.gov.uk/ssi/2016/365/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/365/schedule) (with [regs. 5-8](https://www.legislation.gov.uk/ssi/2016/365/regulation/5))
+
+[^c14266921]: Textual amendment: Words in s. 29(2) substituted (25.9.1991) by [Agricultural Holdings (Scotland) Act 1991 (c. 55, SIF 2:3)](https://www.legislation.gov.uk/ukpga/1991/55), [ss. 88(1)](https://www.legislation.gov.uk/ukpga/1991/55/section/88/1), [89(2)](https://www.legislation.gov.uk/ukpga/1991/55/section/89/2), [Sch. 11 para.25](https://www.legislation.gov.uk/ukpga/1991/55/schedule/11/paragraph/25) (with [s. 45(3)](https://www.legislation.gov.uk/ukpga/1991/55/section/45/3), [Sch. 12 para. 3](https://www.legislation.gov.uk/ukpga/1991/55/schedule/12/paragraph/3))
+
+[^c21778461]: Textual amendment: Words in s. 29(2) inserted (27.11.2003) by [Agricultural Holdings (Scotland) Act 2003 (asp 11)](https://www.legislation.gov.uk/asp/2003/11), [ss. 94](https://www.legislation.gov.uk/asp/2003/11/section/94), [95(3)(4)](https://www.legislation.gov.uk/asp/2003/11/section/95/3/4), [Sch. para. 2(2)](https://www.legislation.gov.uk/asp/2003/11/schedule/paragraph/2/2) (with [s. 95(2)](https://www.legislation.gov.uk/asp/2003/11/section/95/2)); [S.S.I. 2003/548](https://www.legislation.gov.uk/ssi/2003/548), [art. 2(i)](https://www.legislation.gov.uk/ssi/2003/548/article/2/i) (with [art. 3](https://www.legislation.gov.uk/ssi/2003/548/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2003/548/schedule))
+
+[^c14266931]: Textual amendment: Words added by Law Reform (Miscellaneous Provisions)(Scotland) Act 1968 (c. 70), s. 8, Sch. 2 Pt. I para. 27
+
+[^c14266941]: Marginal citation: [1955 c. 21](https://www.legislation.gov.uk/ukpga/1955/21).
+
+[^key-c6342f7da26a6dbb250b2a26bfcb9037]: Textual amendment: [S. 31](https://www.legislation.gov.uk/ukpga/1964/41/section/31) repealed (1.11.2016) by [Succession (Scotland) Act 2016 (asp 7)](https://www.legislation.gov.uk/asp/2016/7), [s. 31(2)](https://www.legislation.gov.uk/asp/2016/7/section/31/2), [sch. para. 1(5)(c)](https://www.legislation.gov.uk/asp/2016/7/schedule/paragraph/1/5/c); [S.S.I. 2016/210](https://www.legislation.gov.uk/ssi/2016/210), [reg. 2(1)(a)](https://www.legislation.gov.uk/ssi/2016/210/regulation/2/1/a)[(2)](https://www.legislation.gov.uk/ssi/2016/210/regulation/2/2)
+
+[^c14266971]: Textual amendment: [S. 32](https://www.legislation.gov.uk/ukpga/1964/41/section/32) substituted (1.8.1995) by [1995 c. 7](https://www.legislation.gov.uk/ukpga/1995/7), [ss. 14(1)](https://www.legislation.gov.uk/ukpga/1995/7/section/14/1), [15(2)](https://www.legislation.gov.uk/ukpga/1995/7/section/15/2), [Sch. 4 para. 40](https://www.legislation.gov.uk/ukpga/1995/7/schedule/4/paragraph/40) (with [ss. 9(3)(5)(7)](https://www.legislation.gov.uk/ukpga/1995/7/section/9/3/5/7), [13](https://www.legislation.gov.uk/ukpga/1995/7/section/13), [14(3)](https://www.legislation.gov.uk/ukpga/1995/7/section/14/3))
+
+[^c14266981]: Textual amendment: [Words (which were inserted by Law Reform (Miscellaneous Provisions) (Scotland) Act 1968 (c. 70)](https://www.legislation.gov.uk/ukpga/1968/70), [Sch. 1](https://www.legislation.gov.uk/ukpga/1968/70/schedule/1)) repealed by [Law Reform (Parent and Child) (Scotland) Act 1986 (c. 9, SIF 49:8)](https://www.legislation.gov.uk/ukpga/1986/9), [s. 10(2)](https://www.legislation.gov.uk/ukpga/1986/9/section/10/2), [Sch. 2](https://www.legislation.gov.uk/ukpga/1986/9/schedule/2)
+
+[^c14266991]: Textual amendment: Words substituted by virtue of [Law Reform (Parent and Child) (Scotland) Act 1986 (c. 9, SIF 49:8)](https://www.legislation.gov.uk/ukpga/1986/9), [s. 10(1)](https://www.legislation.gov.uk/ukpga/1986/9/section/10/1), [Sch. 1 para. 7(1)](https://www.legislation.gov.uk/ukpga/1986/9/schedule/1/paragraph/7/1)
+
+[^c14267001]: Textual amendment: Words added by [Divorce (Scotland) Act 1976 (c. 39, SIF 49:3)](https://www.legislation.gov.uk/ukpga/1976/39), [s. 12(1)](https://www.legislation.gov.uk/ukpga/1976/39/section/12/1), [Sch. 1](https://www.legislation.gov.uk/ukpga/1976/39/schedule/1)
+
+[^c14267011]: Textual amendment: Words added by [Matrimonial and Family Proceedings Act 1984 (c. 42, SIF 49:3)](https://www.legislation.gov.uk/ukpga/1984/42), [s. 46(1)](https://www.legislation.gov.uk/ukpga/1984/42/section/46/1), [Sch. 1 para. 6](https://www.legislation.gov.uk/ukpga/1984/42/schedule/1/paragraph/6)
+
+[^c14267021]: Textual amendment: Words added by [Family Law (Scotland) Act 1985 (c. 37, SIF 49:3)](https://www.legislation.gov.uk/ukpga/1985/37), [s. 28(1)](https://www.legislation.gov.uk/ukpga/1985/37/section/28/1), [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/1985/37/schedule/1/paragraph/4)
+
+[^c14267031]: Textual amendment: [S. 34(2)](https://www.legislation.gov.uk/ukpga/1964/41/section/34/2), [Sch. 2 para. 13](https://www.legislation.gov.uk/ukpga/1964/41/schedule/2/paragraph/13)(*a*) and Sch. 3 repealed by [Statute Law (Repeals) Act 1974 (c. 22)](https://www.legislation.gov.uk/ukpga/1974/22), [Sch. Pt. XI](https://www.legislation.gov.uk/ukpga/1974/22/schedule/part/XI)
+
+[^c14267041]: Textual amendment: Word repealed by [Law Reform (Parent and Child) (Scotland) Act 1986 (c. 9, SIF 49:8)](https://www.legislation.gov.uk/ukpga/1986/9), [s. 10(2)](https://www.legislation.gov.uk/ukpga/1986/9/section/10/2), [Sch. 2](https://www.legislation.gov.uk/ukpga/1986/9/schedule/2)
+
+[^c21778591]: Textual amendment: Words in [s. 36(1)](https://www.legislation.gov.uk/ukpga/1964/41/section/36/1) substituted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [ss. 131(5)](https://www.legislation.gov.uk/ukpga/2004/33/section/131/5), [263(3)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/3); [S.S.I. 2005/604](https://www.legislation.gov.uk/ssi/2005/604), {art. (2(b)}
+
+[^c21782191]: Textual amendment: Words in [s. 36(1)](https://www.legislation.gov.uk/ukpga/1964/41/section/36/1) inserted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [ss. 261(2)](https://www.legislation.gov.uk/ukpga/2004/33/section/261/2), [263(10)(c)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/10/c), [Sch. 28 para. 10](https://www.legislation.gov.uk/ukpga/2004/33/schedule/28/paragraph/10); [S.S.I. 2005/604](https://www.legislation.gov.uk/ssi/2005/604), {art. (2(c)}
+
+[^c14267051]: Textual amendment: [S. 36(5)](https://www.legislation.gov.uk/ukpga/1964/41/section/36/5) added by [Law Reform (Parent and Child) (Scotland) Act 1986 (c. 9, SIF 49:8)](https://www.legislation.gov.uk/ukpga/1986/9), [s. 10(1)](https://www.legislation.gov.uk/ukpga/1986/9/section/10/1), [Sch. 1 para. 7(2)](https://www.legislation.gov.uk/ukpga/1986/9/schedule/1/paragraph/7/2)
+
+[^c14267061]: Modification: [S. 37(1)](https://www.legislation.gov.uk/ukpga/1964/41/section/37/1) modified (1.11.1994) by [S.I. 1994/2804](https://www.legislation.gov.uk/uksi/1994/2804), [reg. 3](https://www.legislation.gov.uk/uksi/1994/2804/regulation/3), [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/1994/2804/schedule/2/paragraph/1)
+
+[^c21782881]: Modification: [S. 37(1)](https://www.legislation.gov.uk/ukpga/1964/41/section/37/1) modified (6.4.2010) by [The Human Fertilisation and Embryology (Parental Orders) Regulations 2010 (S.I. 2010/985)](https://www.legislation.gov.uk/uksi/2010/985), [reg. 5](https://www.legislation.gov.uk/uksi/2010/985/regulation/5), [Sch. 4 para. 2](https://www.legislation.gov.uk/uksi/2010/985/schedule/4/paragraph/2)
+
+[^key-0c138f431fb896027ec95170aeca889e]: Modification: [S. 37(1)](https://www.legislation.gov.uk/ukpga/1964/41/section/37/1) modified (21.12.2018) by [The Human Fertilisation and Embryology (Parental Orders) Regulations 2018 (S.I. 2018/1412)](https://www.legislation.gov.uk/uksi/2018/1412), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1412/regulation/1/2), [Sch. 4 para. 2](https://www.legislation.gov.uk/uksi/2018/1412/schedule/4/paragraph/2)
+
+[^c14267071]: Textual amendment: Words substituted by the [Adoption (Scotland) Act 1978 (c. 28, SIF 49:11)](https://www.legislation.gov.uk/ukpga/1978/28), [s. 66](https://www.legislation.gov.uk/ukpga/1978/28/section/66), [Sch. 3 para. 5](https://www.legislation.gov.uk/ukpga/1978/28/schedule/3/paragraph/5)
+
+[^c21782851]: Textual amendment: Words in [s. 37(1)](https://www.legislation.gov.uk/ukpga/1964/41/section/37/1) inserted (28.9.2009) by [Adoption and Children (Scotland) Act 2007 (asp 4)](https://www.legislation.gov.uk/asp/2007/4), [ss. 120(1)](https://www.legislation.gov.uk/asp/2007/4/section/120/1), [121(2)](https://www.legislation.gov.uk/asp/2007/4/section/121/2), [Sch. 2 para. 1(3)](https://www.legislation.gov.uk/asp/2007/4/schedule/2/paragraph/1/3); [S.S.I. 2009/267](https://www.legislation.gov.uk/ssi/2009/267), [art. 2](https://www.legislation.gov.uk/ssi/2009/267/article/2) (with [arts. 3-21](https://www.legislation.gov.uk/ssi/2009/267/article/3)) (as amended by [S.S.I. 2012/99](https://www.legislation.gov.uk/ssi/2012/99), [art. 2](https://www.legislation.gov.uk/ssi/2012/99/article/2))
+
+[^c14267081]: Textual amendment: [S. 37(1)](https://www.legislation.gov.uk/ukpga/1964/41/section/37/1)(*b*) repealed by [Law Reform (Miscellaneous Provisions) (Scotland) Act 1968 (c. 70)](https://www.legislation.gov.uk/ukpga/1968/70), [ss. 8](https://www.legislation.gov.uk/ukpga/1968/70/section/8), [22(3)](https://www.legislation.gov.uk/ukpga/1968/70/section/22/3), [Sch. 2 Pt. I para. 28](https://www.legislation.gov.uk/ukpga/1968/70/schedule/2/part/I/paragraph/28), [Sch. 3](https://www.legislation.gov.uk/ukpga/1968/70/schedule/3)
+
+[^c14267091]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/ukpga/1964/41/schedule/1) substituted (1.8.1995) by [1995 c. 7](https://www.legislation.gov.uk/ukpga/1995/7), [ss. 14(1)](https://www.legislation.gov.uk/ukpga/1995/7/section/14/1), [15(2)](https://www.legislation.gov.uk/ukpga/1995/7/section/15/2), [Sch. 4 para. 41](https://www.legislation.gov.uk/ukpga/1995/7/schedule/4/paragraph/41) (with [ss. 9(3)(5)(7)](https://www.legislation.gov.uk/ukpga/1995/7/section/9/3/5/7), [13](https://www.legislation.gov.uk/ukpga/1995/7/section/13), [14(3)](https://www.legislation.gov.uk/ukpga/1995/7/section/14/3))
+
+[^c14267101]: Textual amendment: Words repealed by Law Reform (Miscellaneous Provisions)(Scotland) Act 1968 (c. 70), ss. 8, 22(3), Sch. 2 Pt. I para. 29, Sch. 3
+
+[^c14267111]: Modification: The text of Sch. 2 paras. 6–12, 13(*b*)(*c*), 14–23 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991
+
+[^c14267121]: Modification: The text of Sch. 2 paras. 6–12, 13(*b*)(*c*), 14–23 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991
+
+[^c14267131]: Modification: The text of Sch. 2 paras. 6–12, 13(*b*)(*c*), 14–23 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991
+
+[^c14267141]: Modification: The text of Sch. 2 paras. 6–12, 13(*b*)(*c*), 14–23 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991
+
+[^c14267151]: Modification: The text of Sch. 2 paras. 6–12, 13(*b*)(*c*), 14–23 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991
+
+[^c14267161]: Modification: The text of Sch. 2 paras. 6–12, 13(*b*)(*c*), 14–23 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991
+
+[^c14267171]: Modification: The text of Sch. 2 paras. 6–12, 13(*b*)(*c*), 14–23 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991
+
+[^c14267181]: Textual amendment: [S. 34(2)](https://www.legislation.gov.uk/ukpga/1964/41/section/34/2), [Sch. 2 para. 13](https://www.legislation.gov.uk/ukpga/1964/41/schedule/2/paragraph/13)(*a*) and Sch. 3 repealed by [Statute Law (Repeals) Act 1974 (c. 22)](https://www.legislation.gov.uk/ukpga/1974/22), [Sch. Pt. XI](https://www.legislation.gov.uk/ukpga/1974/22/schedule/part/XI)
+
+[^c14267191]: Modification: The text of Sch. 2 paras. 6–12, 13(*b*)(*c*), 14–23 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991
+
+[^c14267211]: Modification: The text of Sch. 2 paras. 6–12, 13(*b*)(*c*), 14–23 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991
+
+[^c14267221]: Modification: The text of Sch. 2 paras. 6–12, 13(*b*)(*c*), 14–23 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991
+
+[^c14267231]: Modification: The text of Sch. 2 paras. 6–12, 13(*b*)(*c*), 14–23 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991
+
+[^c14267241]: Modification: The text of Sch. 2 paras. 6–12, 13(*b*)(*c*), 14–23 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991
+
+[^c14267251]: Modification: The text of Sch. 2 paras. 6–12, 13(*b*)(*c*), 14–23 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991
+
+[^c14267271]: Textual amendment: [Sch. 2 para. 19](https://www.legislation.gov.uk/ukpga/1964/41/schedule/2/paragraph/19) repealed (25.9.1991) by [Agricultural Holdings (Scotland) Act 1991 (c. 55, SIF 2:3)](https://www.legislation.gov.uk/ukpga/1991/55), [ss. 88(2)](https://www.legislation.gov.uk/ukpga/1991/55/section/88/2), [89(2)](https://www.legislation.gov.uk/ukpga/1991/55/section/89/2), [Sch.13 Pt. I](https://www.legislation.gov.uk/ukpga/1991/55/schedule/13/part/I) (with [s. 45(3)](https://www.legislation.gov.uk/ukpga/1991/55/section/45/3), [Sch. 12 paras. 1](https://www.legislation.gov.uk/ukpga/1991/55/schedule/12/paragraph/1), [3](https://www.legislation.gov.uk/ukpga/1991/55/schedule/12/paragraph/3))
+
+[^c14267291]: Textual amendment: [Sch. 2 para. 20](https://www.legislation.gov.uk/ukpga/1964/41/schedule/2/paragraph/20) repealed (25.9.1991) by [Agricultural Holdings (Scotland) Act 1991 (c. 55, SIF 2:3)](https://www.legislation.gov.uk/ukpga/1991/55), [ss. 88(2)](https://www.legislation.gov.uk/ukpga/1991/55/section/88/2), [89(2)](https://www.legislation.gov.uk/ukpga/1991/55/section/89/2), [Sch.13 Pt. I](https://www.legislation.gov.uk/ukpga/1991/55/schedule/13/part/I) (with [s. 45(3)](https://www.legislation.gov.uk/ukpga/1991/55/section/45/3), [Sch. 12 paras. 1](https://www.legislation.gov.uk/ukpga/1991/55/schedule/12/paragraph/1), [3](https://www.legislation.gov.uk/ukpga/1991/55/schedule/12/paragraph/3))
+
+[^c14267311]: Textual amendment: [Sch. 2 para. 21](https://www.legislation.gov.uk/ukpga/1964/41/schedule/2/paragraph/21) repealed (25.9.1991) by [Agricultural Holdings (Scotland) Act 1991 (c. 55, SIF 2:3)](https://www.legislation.gov.uk/ukpga/1991/55) ss. 88(2), 89(2), Sch.13 Pt. I (with s. 45(3), Sch. 12 paras. 1, 3)
+
+[^c14267331]: Textual amendment: [Sch. 2 para. 22](https://www.legislation.gov.uk/ukpga/1964/41/schedule/2/paragraph/22) repealed (25.9.1991) by [Agricultural Holdings (Scotland) Act 1991 (c. 55, SIF 2:3)](https://www.legislation.gov.uk/ukpga/1991/55), [ss. 88(2)](https://www.legislation.gov.uk/ukpga/1991/55/section/88/2), [89(2)](https://www.legislation.gov.uk/ukpga/1991/55/section/89/2), [Sch.13 Pt. I](https://www.legislation.gov.uk/ukpga/1991/55/schedule/13/part/I) (with [s. 45(3)](https://www.legislation.gov.uk/ukpga/1991/55/section/45/3), [Sch. 12 paras. 1](https://www.legislation.gov.uk/ukpga/1991/55/schedule/12/paragraph/1), [3](https://www.legislation.gov.uk/ukpga/1991/55/schedule/12/paragraph/3))
+
+[^c14267341]: Textual amendment: [Sch. 2 para. 23](https://www.legislation.gov.uk/ukpga/1964/41/schedule/2/paragraph/23) repealed (25.9.1991) by Agricultural Holdings (Scotland) Act 1991 (c. 55. SIF 2:3), ss. 88(2), 89(2), Sch.13 Pt. I (with s. 45(3), Sch. 12 paras. 1, 3)
+
+[^c14267351]: Textual amendment: [S. 34(2)](https://www.legislation.gov.uk/ukpga/1964/41/section/34/2), [Sch. 2 para. 13](https://www.legislation.gov.uk/ukpga/1964/41/schedule/2/paragraph/13)(*a*) and Sch. 3 repealed by [Statute Law (Repeals) Act 1974 (c. 22)](https://www.legislation.gov.uk/ukpga/1974/22), [Sch. Pt. XI](https://www.legislation.gov.uk/ukpga/1974/22/schedule/part/XI)

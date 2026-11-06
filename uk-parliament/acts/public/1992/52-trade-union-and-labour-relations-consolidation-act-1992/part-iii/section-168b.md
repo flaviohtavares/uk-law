@@ -1,0 +1,86 @@
+---
+title: Trade Union and Labour Relations (Consolidation) Act 1992, section 168B
+act: Trade Union and Labour Relations (Consolidation) Act 1992
+section: 168B
+status: revised-with-pending-changes
+text_date: '2026-10-01'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/ukpga/1992/52/section/168B
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Trade Union and Labour Relations (Consolidation) Act 1992, section 168B
+
+> **Warning: changes not yet applied to this text (156).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1992/52
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 168B. Time off for union equality representatives[^key-3aefcd8c10ef8351203fcabeb2f7c623]
+
+*Extent: E+W+S*
+
+(1) An employer must permit an employee who is—
+
+- (a) a member of an independent trade union recognised by the employer, and
+- (b) an equality representative of the trade union,
+
+to take time off during the employee’s working hours for any of the following purposes.
+
+(2) The purposes are—
+
+- (a) carrying out activities for the purpose of promoting the value of equality in the workplace;
+- (b) arranging learning or training on matters relating to equality in the workplace;
+- (c) providing information, advice or support to qualifying members of the trade union in relation to matters relating to equality in the workplace;
+- (d) consulting with the employer on matters relating to equality in the workplace;
+- (e) obtaining and analysing information relating to equality in the workplace;
+- (f) preparing for any of the things mentioned in paragraphs (a) to (e).
+
+(3) Subsection (1) applies only if—
+
+- (a) the trade union has given the employer notice in writing that the employee is an equality representative of the union, and
+- (b) the training condition is met in relation to the employee.
+
+(4) The training condition is met if—
+
+- (a) the employee has undergone sufficient training to enable the employee to carry on activities mentioned in subsection (2), and the trade union has given the employer notice in writing of that fact,
+- (b) the trade union has in the last six months given the employer notice in writing that the employee will be undergoing such training, or
+- (c) within six months of the trade union giving the employer notice in writing that the employee will be undergoing such training, the employee has done so, and the trade union has given the employer notice of that fact.
+
+(5) Only one notice under subsection (4)(b) may be given in respect of any one employee.
+
+(6) References in subsection (4) to sufficient training to carry out activities mentioned in subsection (2) are to training that is sufficient for those purposes having regard to any relevant provision of a Code of Practice issued by ACAS or the Secretary of State.
+
+(7) If an employer is required to permit an employee to take time off under subsection (1), the employer must also permit the employee to take time off during the employee’s working hours for the following purposes—
+
+- (a) undergoing training which is relevant to the employee’s functions as an equality representative, and
+- (b) where the trade union has in the last six months given the employer notice under subsection (4)(b) in relation to the employee, undergoing such training as is mentioned in subsection (4)(a).
+
+(8) The amount of time off which an employee is to be permitted to take under this section and the purposes for which, the occasions on which and any conditions subject to which time off may be so taken are those that are reasonable in all the circumstances, having regard to any relevant provision of a Code of Practice issued by ACAS or the Secretary of State.
+
+(9) An employer that permits an employee to take time off as required by this section must, where requested by the employee, provide the employee with such accommodation and other facilities in relation to the purposes for which the employee takes time off as is reasonable in all the circumstances, having regard to any relevant provisions of a Code of Practice issued by ACAS.
+
+(10) An employee may present a complaint to an employment tribunal that the employer has failed—
+
+- (a) to permit the employee to take time off, or
+- (b) to provide the employee with facilities,
+
+as required by this section.
+
+(11) On a complaint under subsection (10)(a), it is for the employer to show that the amount of time off which the employee proposed to take was not a reasonable amount of time off.
+
+(12) For the purposes of this section—
+
+- (a) a person is an equality representative of a trade union if the person is appointed or elected as such in accordance with its rules;
+- (b) “**equality**”, in relation to a workplace, means—
+  - (i) the elimination of discrimination, harassment and victimisation, each of which is to be read in accordance with the Equality Act 2010, and of any other conduct that is prohibited by or under that Act;
+  - (ii) the advancement of equality of opportunity between persons who share a relevant protected characteristic and persons who do not share it;
+  - (iii) the fostering of good relations between persons who share a relevant protected characteristic and persons who do not share it;
+- (c) “**relevant protected characteristic**” means age, disability, gender reassignment, pregnancy and maternity, race, religion or belief, sex or sexual orientation, each of which is to be read in accordance with the Equality Act 2010;
+- (d) a reference to qualifying members of the trade union is a reference to members of the trade union—
+  - (i) who are employees of the employer of a description in respect of which the union is recognised by the employer, and
+  - (ii) in relation to whom it is the function of the equality representative to act as such.
+
+## Annotations
+
+[^key-3aefcd8c10ef8351203fcabeb2f7c623]: Textual amendment: [S. 168B](https://www.legislation.gov.uk/ukpga/1992/52/section/168B) inserted (6.1.2026 for specified purposes) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 65(2)](https://www.legislation.gov.uk/ukpga/2025/36/section/65/2), [159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3); [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(22)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/22)

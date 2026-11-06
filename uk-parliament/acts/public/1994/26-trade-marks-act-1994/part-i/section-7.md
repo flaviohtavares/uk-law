@@ -1,0 +1,43 @@
+---
+title: Trade Marks Act 1994, section 7
+act: Trade Marks Act 1994
+section: '7'
+status: revised
+text_date: '2025-07-10'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/1994/26/section/7
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Trade Marks Act 1994, section 7
+
+> Text as at 2025-07-10.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 7. Raising of relative grounds in case of honest concurrent use.
+
+*Extent: E+W+S+N.I.*
+
+(1) This section applies where on an application for the registration of a trade mark it appears to the registrar—
+
+- (a) that there is an earlier trade mark in relation to which the conditions set out in section 5(1), (2) or (3) obtain, or
+- (b) that there is an earlier right in relation to which the condition set out in section 5(4) is satisfied,
+
+but the applicant shows to the satisfaction of the registrar that there has been honest concurrent use of the trade mark for which registration is sought.
+
+(2) In that case the registrar shall not refuse the application by reason of the earlier trade mark or other earlier right unless objection on that ground is raised in opposition proceedings by the proprietor of that earlier trade mark or other earlier right.
+
+(3) For the purposes of this section “**honest concurrent use**” means such use in the United Kingdom, by the applicant or with his consent, as would formerly have amounted to honest concurrent use for the purposes of section 12(2) of the [^c1130335]Trade Marks Act 1938.
+
+(4) Nothing in this section affects—
+
+- (a) the refusal of registration on the grounds mentioned in section 3 (absolute grounds for refusal), or
+- (b) the making of an application for a declaration of invalidity under section 47(2) (application on relative grounds where no consent to registration).
+
+(5) This section does not apply when there is an order in force under section 8 below.
+
+## Annotations
+
+[^c1130335]: Marginal citation: [1938 c. 22](https://www.legislation.gov.uk/ukpga/1938/22).

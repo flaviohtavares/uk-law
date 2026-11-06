@@ -1,0 +1,38 @@
+---
+title: Housing and Regeneration Act 2008, section 284
+act: Housing and Regeneration Act 2008
+section: '284'
+status: not-yet-in-force
+text_date: '2026-05-01'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/2008/17/section/284
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Housing and Regeneration Act 2008, section 284
+
+> This provision is not yet in force.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 284. Power to require production of certificates or statements
+
+*Extent: E+W*
+
+**Not yet in force.**
+
+(1) Subsection (2) applies if an authorised officer of an enforcement authority believes that a person is, or has been, subject to a duty imposed by virtue of section 279 to supply a certificate or statement in relation to a particular property.
+
+(2) The officer may require the person to produce for inspection a copy of the certificate or statement.
+
+(3) The power conferred by subsection (2) includes power—
+
+- (a) to require the production of a legible hard copy of any certificate or statement which is held in electronic form, and
+- (b) to take copies of any hard copy produced for inspection.
+
+(4) A requirement under this section may not be imposed more than 6 months after the last day for supplying the certificate or statement concerned in pursuance of the duty imposed by virtue of section 279.
+
+(5) A person is not required to comply with a requirement under this section if the person has a reasonable excuse for not complying with the requirement.
+
+(6) Subject to this, a person subject to such a requirement must comply with it within the period of 7 days beginning with the day after that on which it is imposed.

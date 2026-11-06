@@ -1,0 +1,67 @@
+---
+title: Clean Neighbourhoods and Environment Act 2005, section 95A
+act: Clean Neighbourhoods and Environment Act 2005
+section: 95A
+status: revised-with-pending-changes
+text_date: '2024-04-01'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/2005/16/section/95A
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Clean Neighbourhoods and Environment Act 2005, section 95A
+
+> **Warning: changes not yet applied to this text (1).** Text as at 2024-04-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2005/16
+>
+> Extent: England, Wales.
+
+## 95A. Use of fixed penalty receipts: higher tier authorities in England[^key-95a699d419269dbb46c352ad1a3bda39]
+
+*Extent: E+W*
+
+(1) This section applies in relation to amounts paid to an authority in England, other than a parish or community council, in pursuance of notices under—
+
+- (a) section 88 of the Environmental Protection Act 1990 (fixed penalty notices for leaving litter);
+- (b) paragraph 7 of Schedule 3A to the Environmental Protection Act 1990 (free distribution of printed matter on designated land: fixed penalty notices);
+- (c) section 43(1) of the Anti-social Behaviour Act 2003 (penalty notices for graffiti and fly-posting).
+
+(2) The amounts to which this section applies which are paid to an authority are in this section called the authority's “fixed penalty receipts”.
+
+(3) An authority may use its fixed penalty receipts paid to it in pursuance of a notice under section 88 of the Environmental Protection Act 1990 only for the purposes of—
+
+- (a) the employment or engagement of its authorised officers, as defined in section 88(10) of the Environmental Protection Act 1990, or any of the functions of those officers,
+- (b) its functions relating to offences under the following provisions of the Environmental Protection Act 1990—
+  - (i) section 87(1) (offence of leaving litter), or
+  - (ii) section 88(8B) (offence of failing to give a name and address or giving a false or inaccurate name or address),
+- (c) its functions relating to the collection and disposal of litter and refuse,
+- (d) its functions relating to the restoration of land following littering, and
+- (e) such other of its functions as may be specified in regulations made by the Secretary of State.
+
+(4) An authority may use its fixed penalty receipts paid to it in pursuance of a notice under paragraph 7 of Schedule 3A to the Environmental Protection Act 1990 or section 43(1) of the Anti-social Behaviour Act 2003 only for the purposes of—
+
+- (a) its functions under Part 4 of the Environmental Protection Act 1990 (litter etc);
+- (b) its functions under section 43 of the Anti-social Behaviour Act 2003 (penalty notices for graffiti and fly-posting);
+- (c) such other of its functions as may be specified in regulations made by the Secretary of State.
+
+(5) Regulations under subsection (4)(c) may (in particular) have the effect that an authority may use those fixed penalty receipts for the purposes of any of its functions.
+
+(6) An authority must supply the Secretary of State with such information relating to its fixed penalty receipts as the Secretary of State may require.
+
+(7) The Secretary of State may by regulations make provision—
+
+- (a) about what an authority must do with its fixed penalty receipts pending the use of those receipts for the purposes referred to in subsection (3) or (4);
+- (b) about the period within which an authority must use those fixed penalty receipts for those purposes;
+- (c) about what an authority must do with those fixed penalty receipts that are not used for those purposes within that period;
+- (d) for accounting arrangements in respect of an authority’s fixed penalty receipts.
+
+(8) The provision that may be made under subsection (7)(c) includes (in particular) provision for the payment of sums to a person (including the Secretary of State) other than the authority.
+
+(9) Before making regulations under this section, the Secretary of State must consult—
+
+- (a) the authorities to which the regulations are to apply;
+- (b) such other persons as the Secretary of State thinks fit.
+
+## Annotations
+
+[^key-95a699d419269dbb46c352ad1a3bda39]: Textual amendment: [S. 95A](https://www.legislation.gov.uk/ukpga/2005/16/section/95A) inserted (1.4.2024) by [The Waste Enforcement (Fixed Penalty Receipts) (Amendment) (England and Wales) Regulations 2024 (S.I. 2024/365)](https://www.legislation.gov.uk/uksi/2024/365), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/365/regulation/1/1), [3(a)](https://www.legislation.gov.uk/uksi/2024/365/regulation/3/a)

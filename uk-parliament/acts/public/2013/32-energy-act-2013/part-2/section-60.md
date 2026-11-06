@@ -1,0 +1,36 @@
+---
+title: Energy Act 2013, section 60
+act: Energy Act 2013
+section: '60'
+status: revised-with-pending-changes
+text_date: '2024-10-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2013/32/section/60
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Energy Act 2013, section 60
+
+> **Warning: changes not yet applied to this text (1).** Text as at 2024-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2013/32
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 60. Monitoring and enforcement
+
+*Extent: E+W+S+N.I.*
+
+(1) It is the duty of the appropriate national authority to make arrangements for monitoring compliance with, and enforcement of, the emissions limit duty.
+
+(2) The appropriate national authority may by regulations make any provision mentioned in Schedule 5 (monitoring compliance with, and enforcement of, the emissions limit duty).
+
+(3) The arrangements under subsection (1) must include arrangements for giving effect to directions under section 59 (and, in particular, for compliance by enforcing authorities with any requirements imposed on them under subsection (10) of that section).
+
+(4) In this section (and Schedule 5), the “**appropriate national authority**” means—
+
+- (a) in relation to England, the Secretary of State;
+- (b) in relation to Scotland, the Scottish Ministers;
+- (c) in relation to Wales, the Welsh Ministers;
+- (d) in relation to Northern Ireland, the Department of Environment.
+
+(5) Subsection (4) is subject to paragraph 5 of Schedule 5 (which provides for the Secretary of State to make certain provision for Scotland, Wales and Northern Ireland).

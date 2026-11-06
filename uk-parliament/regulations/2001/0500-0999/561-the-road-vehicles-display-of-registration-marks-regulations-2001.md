@@ -1,0 +1,853 @@
+---
+title: The Road Vehicles (Display of Registration Marks) Regulations 2001
+id: uksi/2001/561
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2001-02-26'
+text_date: '2025-02-27'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2001/561
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2001/561/pdfs/uksi_20010561_en.pdf
+- http://www.legislation.gov.uk/uksi/2001/561/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Road Vehicles (Display of Registration Marks) Regulations 2001
+
+> Text as at 2025-02-27.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2001 No. 561
+
+ROAD TRAFFIC
+
+The Road Vehicles (Display of Registration Marks) Regulations 2001
+
+Made
+
+26th February 2001
+
+Laid before Parliament
+
+28th February 2001
+
+Coming into force
+
+for the purposes of regulations 1(1)(a) and 17
+
+21st March 2001
+
+for all other purposes
+
+1st September 2001
+
+The Secretary of State for the Environment, Transport and the Regions, in exercise of the powers conferred by sections 23(3) and (4) and 57 of the Vehicle Excise and Registration Act 1994[^c15844491], and of all other powers enabling him in that behalf, hereby make the following Regulations:—
+
+## PART I — PRELIMINARY
+
+### 1. Citation, commencement and revocation
+
+(1) These Regulations may be cited as the Road Vehicles (Display of Registration Marks) Regulations 2001 and shall come into force—
+
+- (a) for the purposes of this paragraph and regulation 17, on 21st March 2001, and
+- (b) for all other purposes, on 1st September 2001.
+
+(2) The regulations specified in Schedule 1 are hereby revoked.
+
+### 2. Interpretation: general
+
+(1) In these Regulations the following expressions shall have the following meanings—
+
+- “the Act” means the Vehicle Excise and Registration Act 1994;
+- “agricultural machine” means a vehicle which is an agricultural tractor, an off-road tractor, a light agricultural vehicle, an agricultural engine or a mowing machine;[^key-9badf9911974577e13a13279511917b0]
+- “agricultural tractor” means a tractor used on public roads solely for—[^key-fa55bf3f32fe050620488030dc028608]
+  - (a) purposes relating to agriculture, horticulture or forestry,
+  - (b) cutting verges bordering public roads, or
+  - (c) cutting hedges or trees bordering public roads or bordering verges which border public roads;
+- [^key-f38543c43cf1515b35dafd8e5ce60416]...
+- [^key-f38543c43cf1515b35dafd8e5ce60416]...
+- “[^key-d09f194385304468520cd251c7993928]EEA State” has the meaning given by Schedule 1 to the Interpretation Act 1978
+- “light agricultural vehicle” means a vehicle which—[^key-4e788de6582e107218af8665b7a57159]
+  - (a) has a revenue weight not exceeding 1,000 kilograms,
+  - (b) is designed and constructed so as to seat only the driver,
+  - (c) is designed and constructed primarily for use otherwise than on roads, and
+  - (d) is used solely for purposes relating to agriculture, horticulture or forestry;
+- “motor cycle” means a vehicle having 2 wheels and includes a vehicle of that description in combination with a sidecar;
+- “motor tricycle” means a vehicle having 3 wheels symmetrically arranged;
+- “off-road tractor” means a tractor which is not an agricultural tractor and which—[^key-e7777abbd2eeb943da20024c349cea34]
+  - (a) is designed and constructed primarily for use otherwise than on roads, and
+  - (b) is incapable by reason of its construction of exceeding a speed of twenty five miles per hour on the level under its own power;
+- “quadricycle” means a vehicle having four wheels, a maximum net engine power not exceeding 15 kilowatts and an unladen mass (excluding the mass of batteries in the case of an electrically-powered vehicle) not exceeding—
+  - (a) 550 kilograms in the case of a goods vehicle, and
+  - (b) 400 kilograms in any other case;
+- “registration plate” means a plate or other device displaying the registration mark of the vehicle , but does not include such part of a plate or device as is intended for the display of material specified in regulation[^key-d3a5d85b12573766c321aa518860afc2] 16(3), (4), (4A), (4B) and (4D)[^key-7810cecc7078fd8e9dd62ee191f5f2cc];
+- “prescribed font” means the style shown in Schedule 4 for a character of the height specified in that Schedule;
+- “relevant date” means—
+  - (a) in Great Britain, 1st October 1938, and
+  - (b) in Northern Ireland, 1st January 1948;
+- “works truck” means a vehicle which is—
+  - (a) designed for use in private premises, and
+  - (b) used on public roads only—
+    - (i) for carrying goods between private premises and a vehicle on a road in the immediate vicinity, or
+    - (ii) in passing from one part of private premises to another or between private premises and other private premises in the immediate vicinity, or
+    - (iii) in connection with road works at or in the immediate vicinity of the site of the works.
+
+(2) Unless the context otherwise requires, a reference in these Regulations to—
+
+- (a) a registration plate fixed or to be fixed to a vehicle, or
+- (b) a registration mark displayed or to be displayed on a plate,
+
+is to be construed, where the vehicle is towing a trailer, so as to include a reference to the registration plate which is required under these Regulations to be fixed to the trailer or a reference to the mark displayed on the plate fixed to that trailer.
+
+### 3. Exempt vehicles
+
+Nothing in these Regulations applies to—
+
+- (a) an invalid vehicle, that is a vehicle the unladen weight of which does not exceed 254 kilograms and which is specially designed and constructed, and not merely adapted, for the use of a person suffering from a physical disability and solely used by that person; or
+- (b) a pedestrian-controlled vehicle, that is a vehicle the unladen weight of which does not exceed 450 kilograms which is neither constructed nor adapted for the carriage of a driver or passenger.
+
+## PART II — REGISTRATION PLATES
+
+### 4. Interpretation of Part II
+
+In this Part the following expressions shall have the following meanings—
+
+- “diagonal length”, in relation to a relevant area, means the length of a line drawn diagonally across the square enclosing the area (so that the extent of the relevant area is thereby delimited);
+- “relevant area”, in relation to a registration plate, means the area contained in a square described on the ground—
+  - (a) in front of the vehicle in the case of a plate fixed on the front of the vehicle, and
+  - (b) behind the vehicle in the case of a plate fixed on the rear of the vehicle,
+
+  where one corner of the square is immediately below the middle of the plate and the diagonal of the square from that corner is parallel to the longitudinal axis of the vehicle;
+- [^key-fc308d56df867468145b4c587896b3c5]...
+
+### 5. Fixing of rear registration plates: vehicles registered on or after the relevant date
+
+(1) This regulation applies to vehicles, other than works trucks, road rollers and agricultural machines, first registered on or after the relevant date.
+
+(2) A registration plate must be fixed on the rear of—
+
+- (a) the vehicle, or
+- (b) where the vehicle is towing a trailer, the trailer, or
+- (c) where the vehicle is towing more than one trailer, the rearmost trailer.
+
+(3) Where a vehicle (or, in a case where the plate is required to be fixed on a trailer, that trailer) has been constructed so as to satisfy the requirements of EU[^key-b6742e03867e90ba61e3e07737e26240] law , or[^key-efa09bb167ba48b036c99ddb9065d4e5] assimilated[^key-bb635467de45832063e861bf85a124c3] law, in force at the time of construction as regards the space to be provided for the fixing of the rear registration plate, whether or not it was required by law to satisfy them, the plate may be fixed in the space provided in accordance with those requirements but if it is not so fixed it must be fixed in the manner required by paragraph (5).
+
+(4) Except as provided in paragraph (3) the plate must be fixed in the manner required by paragraph (5).
+
+(5) This paragraph requires the plate to be fixed—
+
+- (a) vertically or, where that is not reasonably practicable, in a position as close to the vertical as is reasonably practicable, and
+- (b) in such a position that in normal daylight the characters of the registration mark are easily distinguishable from every part of a relevant area having the diagonal length specified in paragraph (6).
+
+(6) The diagonal length of the relevant area is—
+
+- (a) in the case of a mark having characters the width of which is at least 57 millimetres, 22 metres,
+- (b) in the case of a mark having characters the width of which is 50 millimetres, 21.5 metres,
+- (c) in the case of a mark having characters the width of which is 44 millimetres, 18 metres.
+
+### 6. Fixing of front registration plates: vehicles registered on or after the relevant date
+
+(1) This regulation applies to vehicles, other than works trucks, road rollers and agricultural machines, first registered on or after the relevant date.
+
+(2) Except as provided in paragraph (5), a registration plate must be fixed on the front of the vehicle in the manner required by paragraph (3).
+
+(3) This paragraph requires the plate to be fixed—
+
+- (a) vertically or, where that is not reasonably practicable, in a position as close to the vertical as is reasonably practicable,
+- (b) in such a position that in normal daylight the characters of the registration mark are easily distinguishable from every part of a relevant area having the diagonal length specified in paragraph (4).
+
+(4) The diagonal length of the relevant area is—
+
+- (a) in the case of a mark having characters the width of which is at least 57 millimetres, 22 metres,
+- (b) in the case of a mark having characters the width of which is 50 millimetres, 21.5 metres,
+- (c) in the case of a mark having characters the width of which is 44 millimetres, 18 metres.
+
+(5) In the case of a motor cycle or a motor tricycle which does not have a body of a type which is characteristic of the body of a four-wheeled vehicle—
+
+- (a) a registration plate must not be fixed on the front of a vehicle if it was first registered on or after 1st September 2001,
+- (b) a plate need not be fixed on the front of the vehicle if it was first registered before 1st September 2001.
+
+### 7. Fixing of registration plates: vehicles registered before the relevant date
+
+(1) This regulation applies to vehicles, other than works trucks, road rollers and agricultural machines, first registered before the relevant date.
+
+(2) Except as provided in paragraph (4), a registration plate must be fixed in the manner required by paragraph (3) on—
+
+- (a) the front of the vehicle, and
+- (b) the rear of—
+  - (i) the vehicle or,
+  - (ii) where the vehicle is towing a trailer, the trailer or,
+  - (iii) where the vehicle is towing more than one trailer, the rearmost trailer.
+
+(3) This paragraph requires each plate to be fixed—
+
+- (a) in a vertical position or, where that is not possible, in a position as close to the vertical as is reasonably practicable, and
+- (b) in such a position that in normal daylight the characters of the registration mark are easily distinguishable, in the case of a plate fixed on the front of the vehicle, from in front of the vehicle and, in the case of a plate fixed on the rear of the vehicle or trailer, from behind the vehicle or trailer.
+
+(4) In the case of a motor cycle and a motor tricycle which does not have a body of a type which is characteristic of the body of a four-wheeled vehicle, a registration plate need not be fixed on the front of the vehicle.
+
+### 8. Fixing of registration plates: works trucks, road rollers and agricultural machines
+
+(1) This regulation applies to works trucks, road rollers and agricultural machines.
+
+(2) A registration plate must be fixed on the vehicle in a vertical position or, where that is not possible, in a position as close to the vertical as is reasonably practicable—
+
+- (a) on both sides of the vehicles, so that the characters of the mark are easily distinguishable from both sides of the vehicle, or
+- (b) on the rear of the vehicle, so that the characters of the mark are easily distinguishable from behind the vehicle, or
+- (c) where the vehicle is towing a trailer or trailers and the plate is not fixed on the sides of the vehicle, on the trailer or the rearmost trailer (as the case may be) so that the characters of the mark are easily distinguishable from behind the trailer.
+
+(3) Where the towing vehicle is an agricultural machine, a plate fixed on the trailer may, instead of displaying the registration mark of the towing vehicle, display the mark of any other agricultural machine kept by the keeper of the towing vehicle.
+
+### 9. Lighting of rear registration plates
+
+(1) This regulation applies to vehicles other than—
+
+- (a) works trucks,
+- (b) road rollers,
+- (c) agricultural machines, and
+- (d) vehicles first registered before the relevant date.
+
+(2) Where the vehicle is being used on a road between sunset and sunrise the registration plate fixed on the rear of—
+
+- (a) the vehicle, or
+- (b) where the vehicle is towing a trailer, the trailer or,
+- (c) where the vehicle is towing more than one trailer, the rearmost trailer,
+
+must be lit in accordance with this regulation.
+
+(3) Where a vehicle (or, in a case where the plate is required to be fixed on a trailer, that trailer) has been constructed so as to satisfy the requirements of EU[^key-6f0372c95d912e0937a7a427e7ac275c] law , or[^key-7bca1ed1346d6fda91fe5b779a5c8f9a] assimilated[^key-cdc7cf8a741a4c779a4a6ca95e8f55ac] law, in force at the time of construction as regards the rear registration plate lamp, whether or not it was required by law to satisfy them, that plate may be lit by a lamp which complies with those requirements but if it is not so lit it must be lit in the manner required by paragraph (5).
+
+(4) Except as provided in paragraph (3) that plate must be lit in the manner required by paragraph (5).
+
+(5) This paragraph requires the plate to be lit so that it is easily distinguishable from every part of a relevant area having a diagonal length—
+
+- (a) in the case of a plate displaying a mark having characters with a width of 44 millimetres, of 15 metres, and
+- (b) in any other case, of 18 metres.
+
+### 10. Specifications for registration plates
+
+(1) A registration mark must be displayed on a registration plate conforming to the requirements prescribed by this regulation.
+
+(1A)[^key-35f19723b4caeab70460f6ab683ee68f] In the case of a vehicle first registered on or after 1st September 2021 the registration plate must conform to the requirements set out in Part A1 of Schedule 2.
+
+(2) Subject to paragraph (4A),[^key-c07989855f87d4b216943571221465e0] in the case of a vehicle first registered on or after 1st September 2001 but before 1st September 2021[^key-356a5b61e0bbfef2927a42e1e2ed20d3] the registration plate must conform to the requirements set out in Part 1 of Schedule 2.
+
+(3) Subject to paragraph (4) or (4A)[^key-e04681a11f40e82f7bbcc39b4df10c5a], in the case of a vehicle first registered on or after 1st January 1973 but before 1st September 2001 the registration plate must conform either to the requirements set out in Part 2 of Schedule 2 or to the requirements set out in Part A1 or[^key-63fd8fa0391c05684a4f85e2111f5a77] Part 1 of that Schedule.
+
+(4) Where on or after 1st September 2001 but before 1st September 2021[^key-acd09b372612d47292e0696412ac21d1] a new registration plate is fixed to a vehicle to which paragraph (3) applies to replace a plate previously fixed thereto, the plate must conform to the requirements set out in Part 1 of Schedule 2.
+
+(4A)[^key-2c4ba20d87dbeb3f4a004171e00b7e89] Where on or after 1st September 2021 a new registration plate is fixed to a vehicle to which either paragraph (2) or paragraph (3) applies to replace a plate previously fixed thereto, the plate must conform to the requirements set out in Part A1 of Schedule 2.
+
+(5) In the case of a vehicle first registered before 1st January 1973, the registration plate must conform either to one of the requirements set out in Part 3 of Schedule 2 or to the requirements set out in Part 2 of that Schedule or to the requirements set out in Part A1 or[^key-3d2e6d3554b98e2cf14a0f3d4d8f4eeb] Part 1 of that Schedule.
+
+(6) The corners of a registration plate may be rounded off provided that the requirements of regulation 14(9) (margins around registration marks) are not thereby infringed.
+
+### 11. Further requirements for registration plates
+
+(1) No reflex-reflecting material may be applied to any part of a registration plate and the plate must not be treated in such a way that the characters of the registration mark become, or are caused to act as, retroreflective characters.
+
+(1A)[^key-223f5d9a6f500b868fc5cdc1c062485f] The surface of a registration plate must not comprise or incorporate any design, pattern or texture, or be treated in any way which gives to any part of the plate the appearance of a design, pattern or texture.
+
+(2) A registration plate must not be treated in any other way which renders the characters of the registration mark less easily distinguishable to the eye or which would prevent or impair the making of a true photographic image of the plate through the medium of camera and film or any other device.
+
+(3) A registration plate must not be fixed to a vehicle—
+
+- (a) by means of a screw, bolt or other fixing device of any type or colour,
+- (b) by the placing of a screw, bolt or other fixing device in any position, or
+- (c) in any other manner,
+
+which has the effect of changing the appearance or legibility of any of the characters of the registration mark, which renders the characters of the registration mark less easily distinguishable to the eye or which prevents or impairs the making of a true photographic image of the plate through the medium of camera and film or any other device.
+
+(4) Section 59(2)(a) of the Act (regulations the contravention of which attracts a level 3 fine) applies to paragraphs (1), (2) and (3) of this regulation.
+
+## PART III — REGISTRATION MARKS
+
+### 12. Interpretation of Part III
+
+(1) In this Part and in Schedule 3, the following expressions shall have the following meanings—
+
+- (a) “diagram” means a diagram shown in Part 2 of Schedule 3 and a reference to a numbered diagram is a reference to the diagram identified by that number in that part of that Schedule,
+- (b) “Table A” means the table in Part 1 of Schedule 3,
+- (c) “Table B” means the table in Part 3 of Schedule 3,
+- (d) a reference to “relevant character height” , except in relation to a vehicle to which regulation 14A applies,[^key-759e6f04d0e8b3bafe197fe8b8a5f94c] is a reference to the height of the characters in the registration mark shown at the head of column (2), (3) or (4) of Table B as the case may be.
+
+(2) Any provision as to measurement contained in this Part or in Schedule 3 shall be taken to be complied with—
+
+- (a) in the case of a provision prescribing character height, if the height of the character is not more than 1 millimetre more or less than the measurement prescribed herein, and
+- (b) in the case of a provision prescribing any other dimension, if the dimension of the character or the space in question is not more than 0.5 millimetres more or less than the measurement prescribed herein.
+
+(3) For the purpose of any provision contained in this Part or in Schedule 3 as to the spacing between characters or between groups of characters or as to the width of a margin the measurement shall be made—
+
+- (a) in the case of a horizontal spacing requirement, between vertical lines passing through the extreme edges of each character or group of characters or between a vertical line passing through the extreme edge of a character and the lateral edge of the plate (as the case may be), and
+- (b) in the case of a vertical spacing requirement, between horizontal lines passing through the extreme edges of each group of characters or between a horizontal line passing through the extreme edge of a group of characters and the top or bottom edge of the plate (as the case may be).
+
+### 13. Layout of marks
+
+(1) Subject to paragraphs (2) and (3), a registration mark of a description specified in column (1) of Table A must be laid out on the registration plate in conformity with one of the diagrams specified in relation to that description in column (2) of Table A.
+
+(2) A mark displayed on a motor cycle may not be laid out in conformity with diagram 1a, 2a, 3a, 4a, 5a, 6a, 7a, 8a or 9a.
+
+(3) A mark may not be laid out in conformity with diagram 2c, 3c, 4b or 7b if it is displayed on—
+
+- (a) a registration plate fixed to a vehicle first registered on or after 1st September 2001, or
+- (b) a new registration plate fixed to a vehicle on or after 1st September 2001 to replace a plate previously fixed thereto (except where the vehicle was first registered before 1st January 1973).
+
+### 14. Size and spacing of characters
+
+(1) Except in the cases mentioned in paragraphs (2) and (3) and regulation 14A[^key-d30f7bf4be0496f1ec57ba41d10a9435], each character in a registration mark must be 79 millimetres high.
+
+(2) In the case of a registration mark displayed on a vehicle first registered before 1st September 2001, a character in a registration mark may be 89 millimetres high unless—
+
+- (a) the vehicle was first registered on or after 1st January 1973 and the mark is displayed on a new registration plate fixed to the vehicle to replace a plate previously fixed thereto, or
+- (b) the vehicle is a motor cycle, motor tricycle, quadricycle, agricultural machine, works truck or road roller.
+
+(3) In the case of a registration mark fixed on a motor cycle, motor tricycle, quadricycle, agricultural machine, works truck or road roller, each character of the mark may be 64 millimetres high.
+
+(4) Subject to regulation 14A, the[^key-63543505a36e293409a8aba3f34754f6] width of each character of a mark other than the letter “I” and the figure “1” must be—
+
+- (a) in the case of a mark displayed—
+  - (i) on a registration plate fixed to a vehicle first registered on or after 1st September 2001, or
+  - (ii) on a new registration plate fixed to a vehicle on or after 1st September 2001 to replace a plate previously fixed thereto (except where the vehicle was first registered before 1st January 1973),
+
+  that shown in line 1 of Table B in relation to the relevant character height,
+- (b) in any other case, that shown in line 2 of Table B in relation to the relevant character height.
+
+(5) Subject to regulation 14A, the width of every part of the stroke forming a character in a mark must be that shown in line 3 of Table B in relation to the relevant character height.
+
+(6) Except in a case to which paragraph (11) or regulation 14A[^key-fde4c67ca6193f8dccb6e3cb02a3c98a] applies, the spacing between any two characters within a group must be that shown in line 4 of Table B in relation to the relevant character height.
+
+(7) Subject to regulation 14A, the[^key-d36c98087b2c8af6909718e180567039] horizontal spacing between groups of characters in a mark must be that shown in line 5 of Table B in relation to the relevant character height.
+
+(8) The vertical spacing between groups of characters must be that shown in line 6 of Table B in relation to the relevant character height.
+
+(9) Subject to regulation 14A, the width of a margin between the mark and the top, bottom and lateral edges of the registration plate must be not less than that shown in line 7 of Table B in relation to the relevant character height.
+
+(10) Paragraph (11) applies where—
+
+- (a) one or both of the characters is “I” or “1”,
+- (b) those characters are either 79 millimetres or 89 millimetres high,
+- (c) the mark is displayed on a vehicle first registered before 1st September 2001,
+- (d) the registration plate displaying the mark was fixed to the vehicle before 1st September 2001 or, if that is not the case, the vehicle was first registered before 1st January 1973 and,
+- (e) the plate is made of cast or pressed metal with raised characters.
+
+(11) Where this paragraph applies the spacing between—
+
+- (a)[^key-2da15366ee2f4c32213599a8f35a707d] two characters one of which is “I” or “1” must be within the limits shown in line 8 of Table B in relation to the relevant character height, and
+- (b)[^key-20c80c8479889605ab9b9d6b18bc0b53] two characters both of which are “I” or “1” must be within the limits shown in line 9 of Table B in relation to the relevant character height,
+
+but where one or more characters in a group is “I” or “1” all the characters within that group must be evenly spaced.
+
+### 14A. Size and spacing of characters: special cases[^key-b5ec9870de81e758d34ac058d0d8ed26]
+
+(1) This regulation applies in relation to any vehicle imported into the United Kingdom which—
+
+- (a) does not have European Community Whole Vehicle Type Approval; and
+- (b) is so constructed that the area available for the fixing of the registration plate precludes the display on the plate of a registration mark in conformity with the requirements of regulation 14.
+
+(2) In relation to a vehicle to which this regulation applies—
+
+- (a) each character in the registration mark must be 64 millimetres high;
+- (b) the width of each character of the mark, other than the letter “I” and the figure “1”, must be 44 millimetres;
+- (c) the width of every part of the stroke forming a character in a mark must be 10 millimetres;
+- (d) the spacing between any two characters within a group must be 10 millimetres;
+- (e) the vertical spacing between groups of characters must be 5 millimetres;
+- (f) the width of a margin between the mark and the top and lateral sides of the registration plate must be not less than 5 millimetres;
+- (g) the space between the bottom of the mark and the bottom of the registration plate must be not less than 13 millimetres; but, within that space, the space between the bottom of the mark and the top of the name and postcode of the person by whom the plate was supplied must be not less than 5 millimetres.
+
+### 15. Style of characters
+
+(1) In the case of a registration mark displayed—
+
+- (a) on a registration plate fixed to a vehicle first registered on or after 1st September 2001, or
+- (b) on a new registration plate fixed to a vehicle on or after 1st September 2001 to replace a plate previously fixed thereto (except where the vehicle was first registered before 1st January 1973),
+
+each of the characters of the mark must be in the prescribed font.
+
+(2) Except in a case to which paragraph (1) applies, each of the characters of the registration mark must either be in the prescribed font or in a style which is substantially similar to the prescribed font so that the character is easily distinguishable and in particular, but without prejudice to the generality of those requirements, characters must not be formed in any way described in paragraph (4) or in a manner which is similar to any of those ways.
+
+(3) For the purposes of paragraph (2), a character shall not be treated as being in a style which is not substantially similar to the prescribed font merely by virtue of the fact that it has, or does not have, serifs.
+
+(4) The ways of forming characters referred to in paragraph (2) are their formation—
+
+- (a) in italic script,
+- (b) using a font, other than italic script, in which the characters are not vertical,
+- (c) using a font in which the curvature or alignment of the lines of the stroke is substantially different from the prescribed font,
+- (d) using multiple strokes,
+- (e) using a broken stroke,
+- (f) in such a way as to make a character or more than one character appear like a different character or characters.
+
+## PART IV — MISCELLANEOUS
+
+### 16. International distinguishing signs and other material[^key-6d72f91aec314f6fca41eb1c55c81c4e]
+
+(1) No material other than a registration mark and material complying with the requirements of any of the relevant standards mentioned in Schedule 2 may be displayed on a registration plate.
+
+(2) Subject to the following paragraphs of this regulation, a registration plate may not be combined with any other plate or a device of any kind.
+
+(3) The letters “GB” may be displayed on a plate or other device in accordance with the Annex to Council Regulation [(EC) No. 2411/98](https://www.legislation.gov.uk/eur/1998/2411) on the recognition in intra-Community traffic of the distinguishing sign of the Member State in which motor vehicles and their trailers are registered , provided the plate or other device was originally fixed to the vehicle, and complied with the Annex, before IP completion day[^key-2de7964be00a4c189ed29b7e57bd02c1].
+
+(4) Subject to paragraphs (5) to (8), there may be displayed on a plate or other device an arrangement of letters corresponding with one of the sub-paragraphs of paragraph (9) and an emblem corresponding with one of the sub-paragraphs of paragraph (10).
+
+(4A)[^key-734809ff52768a73294e92fbd997fca9] Subject to paragraph (4B), an eligible vehicle may display a plate or device which is green in colour.
+
+(4B) The plate or other device referred to in paragraph (4A) must be—
+
+- (a) made from retroreflective material;
+- (b) colour Pantone 7481c or a colour match that is as close as possible to this colour;
+- (c) no less than forty millimetres and no more than fifty millimetres in width.
+
+(4C) No other vehicle may display a plate or other device which is green in colour.
+
+(4D) Subject to paragraphs (5) to (8) there may be displayed on a plate or other device referred to in (4A) an arrangement of letters corresponding with one of the sub-paragraphs of paragraph (9) and an emblem corresponding with one of the sub-paragraphs of paragraph (10).
+
+(5) The plate or other device,[^key-2985ce530958fcc9a4320554027205f6] arrangement of letters and emblem referred to in paragraph (4) , (4A), (4B) and (4D)—
+
+- (a) must be displayed to the left of the registration plate;
+- (b) must not encroach into the margin,
+
+and for this purpose the expression “margin” is to have the same meaning as in regulations 14(9) and 14A(2)(f).
+
+(6) The emblem referred to in paragraph (4) must be positioned above the arrangement of letters referred to in that paragraph.
+
+(7) Neither the arrangement of letters referred to in paragraph (4), nor the emblem referred to in that paragraph, must be more than fifty millimetres wide.
+
+(8) Paragraph (4) does not apply—
+
+- (a) if the letters “GB” are displayed in accordance with paragraph (3); or
+- (b) if the relevant vehicle is recorded in the part of the register relating to Northern Ireland.
+
+(9) The arrangements of letters referred to in paragraph (4) are—
+
+- (a) “United Kingdom” or “UNITED KINGDOM”;
+- (b) “UK”;
+- (c) “Great Britain” or “GREAT BRITAIN”;
+- (d) “GB”;
+- (e) “England” or “ENGLAND”;
+- (f) “Eng” or “ENG”;
+- (g) “Scotland” or “SCOTLAND”;
+- (h) “Sco” or “SCO”;
+- (i) “Wales” or “WALES”;
+- (j) “Cymru” or “CYMRU”;
+- (k) “Cym” or “CYM”.
+
+(10) The emblems referred to in paragraph (4) are—
+
+- (a) an image of the Union flag;
+- (b) an image of the Cross of Saint George, as depicted on the flag of England;
+- (c) an image of the Cross of Saint Andrew (the Saltire), as depicted on the flag of Scotland;
+- (d) an image of the Red Dragon of Wales, as depicted on the flag of Wales.
+
+(11)[^key-00956576c4046febf485584c75d11b7c] In this regulation—
+
+- (a) an “eligible vehicle” means a vehicle to which these regulations apply and which cannot produce any tailpipe emissions;
+- (b) where the eligible vehicle is towing a trailer, paragraphs (4A), (4B), and (4D) may also apply to the plate or other device fixed to that trailer.
+
+### 17. Optional early use of new-specification plates and prescribed font
+
+(1) This regulation applies in a case where, on or after 21st March and before 1st September 2001 a registration mark on a vehicle—
+
+- (a) is displayed on a registration plate which conforms to the specification set out in Part 1 of Schedule 2 and is otherwise fixed on the vehicle and lit in accordance with the requirements of Part II of these Regulations,
+- (b) conforms to the requirements of regulations 13 and 14 as to layout and spacing of characters in so far as they apply to vehicles first registered on or after 1st September 2001, and
+- (c) is comprised of characters each of which is in the prescribed font.
+
+(2) Where this regulation applies—
+
+- (a) regulations 17 to 22 of the Road Vehicles (Registration and Licensing) Regulations 1971 [^c15844581] or, as the case may be,
+- (b) regulations 18 to 23 of the Road Vehicles (Registration and Licensing) Regulations (Northern Ireland) 1973 [^c15844591],
+
+(which provide for the format and means of display of registration plates and marks) shall cease to apply in respect of that vehicle and any trailer being towed by it and the provisions of these Regulations shall apply instead.
+
+### 17A. Optional early compliance with Schedule 2, Part A1[^key-a9d6e1f6705d9ab3b0d3cca9178a35ae]
+
+A new or replacement registration plate fixed to a vehicle on or after the 1st January 2021, and before 1st September 2021, may conform to the requirements set out in Part A1 of Schedule 2.
+
+### 18. Saving for vehicles constructed before 1st January 1973
+
+For the purposes of these Regulations a vehicle which was first registered on or after 1st January 1973 shall be treated as if it was first registered before that date if—
+
+- (a) it is an exempt vehicle for the purposes of paragraph 1A(1) of Schedule 2 to the Act [^c15844601] and was constructed on or before 1st January 1980[^key-807b01484d54c4c070aca13f5313fff6], or
+- (b) not being such a vehicle, it was constructed before 1st January 1973.
+
+### 19. Offences under section 59 of the Act
+
+(1) For the purposes of section 59(1) of the Act (regulations: offences), the person responsible for complying with these Regulations is the person driving the vehicle or, where it is not being driven, the person keeping it.
+
+(2) Paragraph (1) does not apply to a regulation the breach of which would constitute an offence under section 42(1) of the Act (not fixing a registration mark as required by virtue of section 23).
+
+Signed on behalf of the Secretary of State for the Environment, Transport and the Regions
+
+Larry Whitty
+
+Parliamentary Under-Secretary,
+
+Department for the Environment, Transport and the Regions
+
+## SCHEDULE 1 — REGULATIONS REVOKED
+
+Regulation 1(2)
+
+| *Title of Regulations* | *Number* | *Extent of revocation* |
+| --- | --- | --- |
+| The Road Vehicles (Registration and Licensing) Regulations 1971 | 1971/450 | Regulations 17 to 22 and Schedules 2 and 3. |
+| The Road Vehicles (Registration and Licensing) (Amendment) Regulations 1972 | 1972/1865 | Regulation 6. |
+| The Road Vehicles (Registration and Licensing) Regulations (Northern Ireland) 1973 | S.R. & O. (N.I.) 1973 No. 490 | Regulations 18 to 23 and Schedule 2 and 3. |
+| The Road Vehicles (Registration and Licensing) (Amendment) Regulations 1975 | 1975/1089 | The whole instrument. |
+| The Road Vehicles (Registration and Licensing) (Amendment) (No. 2) Regulations (Northern Ireland) 1976 | 1976/2180 | Regulation 2(6), (8) and (9). |
+| The Road Vehicles (Registration and Licensing) (Amendment) Regulations 1984 | 1984/814 | The whole instrument. |
+
+## SCHEDULE 2 — REQUIREMENTS FOR REGISTRATION PLATES
+
+Regulation 10
+
+### PART A1 — VEHICLES REGISTERED AND NEW REGISTRATION PLATES FITTED ON OR AFTER 1ST SEPTEMBER 2021 (MANDATORY SPECIFICATION)[^key-82968befb16fd7597c7da798529d1ccf]
+
+**1.** The plate must be made of retroreflecting material which, as regards its construction, colour and other qualities, complies with the requirements of—
+
+- (a) the British Standard specification for retroreflecting number plates published on 28th February 2018 under number BS AU 145e, or
+- (b) any other relevant standard or specification recognised for use in an EEA State and which, when in use, offers a performance equivalent to that offered by a plate complying with the British Standard specification,
+
+and which in either case, is marked with the number (or such other information as is necessary to permit identification) of that standard or specification.
+
+**2.** Where the registration mark is displayed on the front of the vehicle, it must have black characters on a white background.
+
+**3.** Where the registration mark is displayed on the back of a vehicle, it must have black characters on a yellow background.
+
+**4.** Subject to the paragraphs below, other than the registration mark, no additional markings may be displayed on a registration plate.
+
+**5.** Each plate must display below the registration mark additional markings showing—
+
+- (a) the number of the British standard or other relevant standard or specification as referred to in paragraph 1;
+- (b) the name of the supplier or manufacturer of the parts used to assemble the registration plate; and
+- (c) the name and postcode of the supplying outlet of the assembled registration plate displaying the registration mark.
+
+**6.** The markings required under paragraph 5 must be—
+
+- (a) permanently marked;
+- (b) non-retroreflecting;
+- (c) of a single shade of non-retroreflecting colour; and
+- (d) no more than 10 millimetres in height and no less than 3 millimetres in height.
+
+**7.** The space between the bottom of the registration mark and any other markings must not be less than 7 millimetres.
+
+**8.** A border may be displayed on a registration plate where the border is—
+
+- (a) permanently marked;
+- (b) non-retroreflecting;
+- (c) of a single shade of non-retroreflecting colour without any design, pattern or texture;
+- (d) positioned no closer than 10 millimetres from the edge of any character of the registration mark;
+- (e) not positioned above any other markings; and
+- (f) no more than 5 millimetres in width.
+
+### PART 1 — VEHICLES REGISTERED AND NEW REGISTRATION PLATES FITTED ON OR AFTER 1ST SEPTEMBER 2001 AND BEFORE 1ST SEPTEMBER 2021 (MANDATORY SPECIFICATION)[^key-7ed77b78728193a03a5b93e3269851f0]
+
+**1.** The plate must be made of retroreflecting material which, as regards its construction, colour and other qualities, complies with the requirements of—
+
+- (a) the British Standard specification for retroreflecting number plates published on 15 January 1998 under number BS AU 145d [^c15844611], or
+- (b) any other relevant standard or specification recognised for use in an EEA State and which, when in use, offers a performance equivalent to that offered by a plate complying with the British Standard specification,
+
+and which, in either case, is marked with the number (or such other information as is necessary to permit identification) of that standard or specification.
+
+**2.** Where the registration mark is displayed on the front of the vehicle, it must have black characters on a white background.
+
+**3.** Where the registration mark is displayed on the back of the vehicle, it must have black characters on a yellow background.
+
+### PART 2 — VEHICLES REGISTERED ON OR AFTER 1ST JANUARY 1973 AND BEFORE 1ST SEPTEMBER 2001 (OPTIONAL SPECIFICATION)
+
+**1.** The plate must be made of reflex-reflecting material which, as regards its construction, colour and other qualities, complies with the requirements of—
+
+- (a) the British Standard Specification for reflex-reflecting number plates, published on 11 September 1972 under the number BS AU 145a [^c15844621], or
+- (b) any other relevant standard or specification recognised for use in an EEA State and which, when in use, offers a performance equivalent to that offered by a plate complying with the British Standard specification,
+
+and which, in either case, is marked with the number (or such other information as is necessary to permit identification) of that standard or specification.
+
+**2.** Where the registration mark is displayed on the front of the vehicle, it must have black characters on a white background.
+
+**3.** Where the registration mark is displayed on the back of the vehicle, it must have black characters on a yellow background.
+
+### PART 3 — VEHICLES REGISTERED BEFORE 1ST JANUARY 1973 (OPTIONAL SPECIFICATIONS)
+
+**A.** *Requirements where the vehicle carries a registration plate which is constructed so that the mark may be illuminated from behind by virtue of the translucency of its characters.*
+
+**1.** The registration mark must be formed of white translucent characters on a black background on the surface of that plate.
+
+**2.** When the registration mark is illuminated during the hours of darkness, the characters on that plate must appear white against a black background.
+
+**B.** *Requirements where the vehicle carries a registration plate which is not so constructed.*
+
+Either of the following is permitted—
+
+**1.** A plate made of reflex-reflecting material complying with the requirements of the British Standard Specification for reflex-reflecting number plates published on 31 October 1967 under the number BS AU 145 [^c15844631] and which displays black characters on a white background where it is fixed on the front of the vehicle and black characters on a yellow background where it is fixed on the rear of the vehicle.
+
+**2.** A plate displaying white, silver or light grey letters and numbers on a black surface having every character indelibly inscribed on the surface or so attached to the surface that it cannot readily be detached from it, which may either—
+
+- (a) be made of cast or pressed metal with raised characters, or
+- (b) consist of a plate to which separate characters are attached, or
+- (c) consist of a plastic plate having either reverse engraved characters or characters of a foil type, or
+- (d) consist of an unbroken rectangular area on the surface of the vehicle which is either flat or, if there is no flat area where the mark is required to be displayed, an area which is almost flat.
+
+## SCHEDULE 3 — LAYOUT OF REGISTRATION MARKS
+
+Regulation 12, 13 and 14
+
+### PART 1 — TABLE A — PERMITTED LAYOUTS FOR REGISTRATION MARKS
+
+| *(1)* | *(2)* |
+| --- | --- |
+| *Description of mark* | *Permitted layouts* |
+| 1.A group consisting of two letters and two numbers followed by a group of 3 letters (for example DE51 ABC). | Diagrams 1a and 1b. |
+| 2.A group consisting of a single letter and not more than 3 numbers followed by a group of 3 letters (for example A123 ABC). | Diagrams 2a, 2b and 2c. |
+| 3.A group of 3 letters followed by a group consisting of not more than 3 numbers and a single letter (for example ABC 123A). | Diagrams 3a, 3b and 3c. |
+| 4.A group of 4 numbers followed by a single letter or a group of 2 letters (for example 1234 AB, 1234 A). | Diagrams 4a and 4b. |
+| 5.A group of not more than 3 numbers followed by a group of not more than 3 letters (for example 123 ABC, 123 AB, 12 A). | Diagrams 5a and 5b. |
+| 6.A group of not more than 3 letters followed by a group of not more than 3 numbers (for example ABC 123, AB 123, A 12). | Diagrams 6a and 6b. |
+| 7.A single letter or group of 2 letters followed by a group of 4 numbers (for example AB 1234, A 1234). | Diagrams 7a and 7b. |
+| 8.A group of 3 letters followed by a group of 4 numbers (for example ABZ 1234, being a form of mark issued only in Northern Ireland). | Diagrams 8a and 8b. |
+| 9.A group of 4 numbers followed by a group of 3 letters (for example 1234 ABZ, being a form of mark issued only in Northern Ireland). | Diagrams 9a and 9b. |
+
+### PART 2 — DIAGRAMS SHOWING PERMITTED LAYOUTS
+
+Diagram 1a
+
+[image: see source](https://www.legislation.gov.uk/uksi/2001/561/images/uksi_20010561_en_sld_001)
+
+Diagram 1b
+
+[image: see source](https://www.legislation.gov.uk/uksi/2001/561/images/uksi_20010561_en_sld_002)
+
+Diagram 2a
+
+[image: see source](https://www.legislation.gov.uk/uksi/2001/561/images/uksi_20010561_en_sld_003)
+
+Diagram 2b
+
+[image: see source](https://www.legislation.gov.uk/uksi/2001/561/images/uksi_20010561_en_sld_004)
+
+Diagram 2c
+
+[image: see source](https://www.legislation.gov.uk/uksi/2001/561/images/uksi_20010561_en_sld_005)
+
+Diagram 3a
+
+[image: see source](https://www.legislation.gov.uk/uksi/2001/561/images/uksi_20010561_en_sld_006)
+
+Diagram 3b
+
+[image: see source](https://www.legislation.gov.uk/uksi/2001/561/images/uksi_20010561_en_sld_007)
+
+Diagram 3c
+
+[image: see source](https://www.legislation.gov.uk/uksi/2001/561/images/uksi_20010561_en_sld_008)
+
+Diagram 4a
+
+[image: see source](https://www.legislation.gov.uk/uksi/2001/561/images/uksi_20010561_en_sld_009)
+
+Diagram 4b
+
+[image: see source](https://www.legislation.gov.uk/uksi/2001/561/images/uksi_20010561_en_sld_010)
+
+Diagram 5a
+
+[image: see source](https://www.legislation.gov.uk/uksi/2001/561/images/uksi_20010561_en_sld_011)
+
+Diagram 5b
+
+[image: see source](https://www.legislation.gov.uk/uksi/2001/561/images/uksi_20010561_en_sld_012)
+
+Diagram 6a
+
+[image: see source](https://www.legislation.gov.uk/uksi/2001/561/images/uksi_20010561_en_sld_013)
+
+Diagram 6b
+
+[image: see source](https://www.legislation.gov.uk/uksi/2001/561/images/uksi_20010561_en_sld_014)
+
+Diagram 7a
+
+[image: see source](https://www.legislation.gov.uk/uksi/2001/561/images/uksi_20010561_en_sld_015)
+
+Diagram 7b
+
+[image: see source](https://www.legislation.gov.uk/uksi/2001/561/images/uksi_20010561_en_sld_016)
+
+Diagram 8a
+
+[image: see source](https://www.legislation.gov.uk/uksi/2001/561/images/uksi_20010561_en_sld_017)
+
+Diagram 8b
+
+[image: see source](https://www.legislation.gov.uk/uksi/2001/561/images/uksi_20010561_en_sld_018)
+
+Diagram 9a
+
+[image: see source](https://www.legislation.gov.uk/uksi/2001/561/images/uksi_20010561_en_sld_019)
+
+Diagram 9b
+
+[image: see source](https://www.legislation.gov.uk/uksi/2001/561/images/uksi_20010561_en_sld_020)
+
+### PART 3 — TABLE B — STROKE AND CHARACTER WIDTH, SPACING AND MARGINS
+
+<table>
+<tbody>
+<tr><th><em>(1) Relevant dimension</em></th><th colspan="3"><em>Relevant character height:</em></th></tr>
+<tr><th></th><th><em>(2) 89 mm.</em></th><th><em>(3) 79 mm.</em></th><th><em>(4) 64 mm.</em></th></tr>
+<tr><td>1.Character width (all new registration plates from 1.9.01 except replacement of “classic” plates)</td><td></td><td>50 mm.</td><td>44 mm.</td></tr>
+<tr><td>2.Character width (other registration plates)</td><td>64 mm.</td><td>57 mm.</td><td>44 mm.</td></tr>
+<tr><td>3.Stroke width</td><td>16 mm.</td><td>14 mm.</td><td>10 mm.</td></tr>
+<tr><td>4.Space between two characters within group: general rule</td><td>13 mm.</td><td>11 mm.</td><td>10 mm.</td></tr>
+<tr><td>5.Horizontal space between groups</td><td>38 mm.</td><td>33 mm.</td><td>30 mm.</td></tr>
+<tr><td>6.Vertical space between groups</td><td>19 mm.</td><td>19 mm.</td><td>13 mm.</td></tr>
+<tr><td>7.Minimum margin</td><td>13 mm.</td><td>11 mm.</td><td>11 mm.</td></tr>
+<tr><td>8.Pressed/embossed plates fixed before 1.9.01 and “classic” plates: space permitted between “I” or “1” and another character</td><td>13 to 37 mm.</td><td>11 to 33 mm.</td><td></td></tr>
+<tr><td>9.Pressed/embossed plates fixed before 1.9.01 and “classic” plates: space permitted between characters if both “I” or “1”</td><td>13 to 60 mm.</td><td>11 to 54 mm.</td><td></td></tr>
+</tbody>
+</table>
+
+## SCHEDULE 4 — PRESCRIBED FONT
+
+Regulation 15(1)
+
+### PART 1 — FONT DESCRIBED FOR CHARACTERS 79 MILIMETRES IN HEIGHT
+
+[image: see source](https://www.legislation.gov.uk/uksi/2001/561/images/uksi_20010561_en_sld_021)
+
+### PART 2 — FONT PRESCRIBED FOR CHARACTERS 64 MILIMETRES IN HEIGHT
+
+[image: see source](https://www.legislation.gov.uk/uksi/2001/561/images/uksi_20010561_en_sld_022)
+
+*(This note is not part of the Regulations)*
+
+These Regulations revoke and replace regulations 17 to 22 of the Road Vehicles (Registration and Licensing) Regulations 1971 and regulations 18 to 23 of the Road Vehicles (Registration and Licensing) Regulations (Northern Ireland) 1973 and instruments amending those regulations by making new provision in respect of the fixing and lighting of registration plates on vehicles and for the format of registration marks.
+
+The principal changes from the revoked provisions are:
+
+**a)** The introduction of a mandatory requirement for the use of registration plates conforming to British Standard specification BS AU 145d or an equivalent standard laid down by an EEA State (in this note called “the mandatory plates”) on all vehicles first registered on or after 1st September 2001 and on other vehicles registered on or after 1st January 1973 if an existing plate is replaced.*(See regulation 10 and Schedule 2.)*
+
+**b)** [^c15844861]Provision making it lawful (where it would hitherto have been unlawful) for rear plates to be fixed in the space provided on vehicles constructed in accordance with the requirements of relevant EC type-approval directives and to be lit in a manner provided for in those directives. These Regulations implement those directives to that extent.*(See regulations 5 and 9.)*
+
+**c)** Provision for the introduction of a new registration mark format.*(See regulation 13 and Schedule 3 Parts 1 and 2.)*
+
+**d)** The introduction of new mandatory character sizes and a mandatory standard character font (“the prescribed font”) for registration marks on vehicles first registered on or after 1st September 2001 and on other vehicles registered on or after 1st January 1973 if an existing plate is replaced.*(See regulations 14 and 15(1), Schedule 3 (Part 3) and Schedule 4.)*
+
+**e)** As regards registration marks on other vehicles, the prohibition both of fonts which are not substantially the same as the prescribed font and of layouts which make a mark relatively difficult to read or which disguise one character as another or part of another.*(See regulation 15(2) and (3).)*
+
+**f)** The prohibition of plates fitted or treated in such a manner as to obscure or disguise the mark or make it difficult or impossible to photograph.*(See regulation 11.)*
+
+**g)** The making of provision for the display of the international distinguishing sign of the United Kingdom adjacent to the registration mark in accordance with Council Regulation [(EC) No. 2411/98](https://www.legislation.gov.uk/european/regulation/1998/2411) (a copy of which can be obtained from the Stationery Office).*(See regulation 16.)*
+
+**h)** The exemption of small invalid vehicles and pedestrian-controlled vehicles from the requirement to carry registration marks and provision permitting “classic” vehicles to use old-style plates indefinitely.*(See regulations 3 and 18 and regulations 10 to 14 passim.)*
+
+The Regulations make the use of mandatory plates containing characters of the specified size in the prescribed font (with or without the international distinguishing sign) optional on vehicles either currently registered or first registered before 1st September 2001 with effect from 21st March 2001.*(See regulation 17.)*
+
+A draft of these Regulations has been communicated to the European Commission in accordance with Article 8 of Directive [98/34/EC](https://www.legislation.gov.uk/european/directive/1998/0034) (a directive of the European Parliament and Council of 22 June 1998 laying down a procedure for the provision of information in the field of technical standards and regulations; OJ No. L204, 21.7.98, p. 37).
+
+The Regulations have been made in conjunction with the Road Vehicles Lighting (Amendment) Regulations 2001 (S.I. 2001/560). A combined Regulatory Impact Assessment for the two instruments has been prepared and copies can be obtained from the Road Safety Division of the Department of the Environment, Transport and the Regions, Zone 2/09 Great Minster House, 76 Marsham Street, London SW1P 4DR (telephone number 020 7944 2452) or viewed on the DETR website www.detr.gov.uk. A copy has been placed in the library of both Houses of Parliament.
+
+## Annotations
+
+[^c15844491]: Marginal citation: [1994 c. 22](https://www.legislation.gov.uk/ukpga/1994/22). Section 57(1) was amended by the [Finance Act 1996 (c. 8)](https://www.legislation.gov.uk/ukpga/1996/8), [Schedule 2](https://www.legislation.gov.uk/ukpga/1996/8/schedule/2), [paragraph 16](https://www.legislation.gov.uk/ukpga/1996/8/paragraph/16).
+
+[^key-9badf9911974577e13a13279511917b0]: Textual amendment: Words in reg. 2(1) substituted (28.12.2018) by [The Road Vehicles (Registration, Registration Plates and Excise Exemption) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1295)](https://www.legislation.gov.uk/uksi/2018/1295), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1295/regulation/1/3), [3(2)(a)](https://www.legislation.gov.uk/uksi/2018/1295/regulation/3/2/a)
+
+[^key-fa55bf3f32fe050620488030dc028608]: Textual amendment: Words in reg. 2(1) inserted (28.12.2018) by [The Road Vehicles (Registration, Registration Plates and Excise Exemption) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1295)](https://www.legislation.gov.uk/uksi/2018/1295), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1295/regulation/1/3), [3(2)(b)](https://www.legislation.gov.uk/uksi/2018/1295/regulation/3/2/b)
+
+[^key-f38543c43cf1515b35dafd8e5ce60416]: Textual amendment: Words in reg. 2(1) omitted (27.4.2009) by virtue of [The Road Vehicles (Display of Registration Marks) (Amendment) Regulations 2009 (S.I. 2009/811)](https://www.legislation.gov.uk/uksi/2009/811), [regs. 1](https://www.legislation.gov.uk/uksi/2009/811/regulation/1), [3(a)](https://www.legislation.gov.uk/uksi/2009/811/regulation/3/a)
+
+[^key-d09f194385304468520cd251c7993928]: Textual amendment: Words in reg. 2(1) substituted (28.12.2018) by [The Road Vehicles (Registration, Registration Plates and Excise Exemption) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1295)](https://www.legislation.gov.uk/uksi/2018/1295), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1295/regulation/1/3), [3(2)(c)](https://www.legislation.gov.uk/uksi/2018/1295/regulation/3/2/c)
+
+[^key-4e788de6582e107218af8665b7a57159]: Textual amendment: Words in reg. 2(1) inserted (28.12.2018) by [The Road Vehicles (Registration, Registration Plates and Excise Exemption) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1295)](https://www.legislation.gov.uk/uksi/2018/1295), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1295/regulation/1/3), [3(2)(d)](https://www.legislation.gov.uk/uksi/2018/1295/regulation/3/2/d)
+
+[^key-e7777abbd2eeb943da20024c349cea34]: Textual amendment: Words in reg. 2(1) inserted (28.12.2018) by [The Road Vehicles (Registration, Registration Plates and Excise Exemption) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1295)](https://www.legislation.gov.uk/uksi/2018/1295), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1295/regulation/1/3), [3(2)(e)](https://www.legislation.gov.uk/uksi/2018/1295/regulation/3/2/e)
+
+[^key-d3a5d85b12573766c321aa518860afc2]: Textual amendment: Words in reg. 2(1) substituted (27.4.2009) by [The Road Vehicles (Display of Registration Marks) (Amendment) Regulations 2009 (S.I. 2009/811)](https://www.legislation.gov.uk/uksi/2009/811), [regs. 1](https://www.legislation.gov.uk/uksi/2009/811/regulation/1), [3(b)](https://www.legislation.gov.uk/uksi/2009/811/regulation/3/b)
+
+[^key-7810cecc7078fd8e9dd62ee191f5f2cc]: Textual amendment: Words in reg. 2 substituted (8.12.2020) by [The Road Vehicles (Display of Registration Marks) (Amendment) Regulations 2020 (S.I. 2020/1276)](https://www.legislation.gov.uk/uksi/2020/1276), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1276/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1276/regulation/3)
+
+[^key-fc308d56df867468145b4c587896b3c5]: Textual amendment: Words in [reg. 4](https://www.legislation.gov.uk/uksi/2001/561/regulation/4) omitted (28.12.2018) by virtue of [The Road Vehicles (Registration, Registration Plates and Excise Exemption) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1295)](https://www.legislation.gov.uk/uksi/2018/1295), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1295/regulation/1/3), [3(3)](https://www.legislation.gov.uk/uksi/2018/1295/regulation/3/3)
+
+[^key-b6742e03867e90ba61e3e07737e26240]: Textual amendment: Words in [reg. 5(3)](https://www.legislation.gov.uk/uksi/2001/561/regulation/5/3) substituted (28.12.2018) by [The Road Vehicles (Registration, Registration Plates and Excise Exemption) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1295)](https://www.legislation.gov.uk/uksi/2018/1295), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1295/regulation/1/3), [3(4)](https://www.legislation.gov.uk/uksi/2018/1295/regulation/3/4)
+
+[^key-efa09bb167ba48b036c99ddb9065d4e5]: Textual amendment: Words in [reg. 5(3)](https://www.legislation.gov.uk/uksi/2001/561/regulation/5/3) inserted (31.12.2020) by [The Road Vehicles (Registration, Registration Plates and Excise Exemption) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1295)](https://www.legislation.gov.uk/uksi/2018/1295), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1295/regulation/1/2), [3(5)](https://www.legislation.gov.uk/uksi/2018/1295/regulation/3/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-bb635467de45832063e861bf85a124c3]: Textual amendment: Word in [reg. 5(3)](https://www.legislation.gov.uk/uksi/2001/561/regulation/5/3) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 8 para. 2(a)](https://www.legislation.gov.uk/uksi/2025/82/schedule/8/paragraph/2/a)
+
+[^key-6f0372c95d912e0937a7a427e7ac275c]: Textual amendment: Words in [reg. 9(3)](https://www.legislation.gov.uk/uksi/2001/561/regulation/9/3) substituted (28.12.2018) by [The Road Vehicles (Registration, Registration Plates and Excise Exemption) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1295)](https://www.legislation.gov.uk/uksi/2018/1295), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1295/regulation/1/3), [3(6)](https://www.legislation.gov.uk/uksi/2018/1295/regulation/3/6)
+
+[^key-7bca1ed1346d6fda91fe5b779a5c8f9a]: Textual amendment: Words in [reg. 9(3)](https://www.legislation.gov.uk/uksi/2001/561/regulation/9/3) inserted (31.12.2020) by [The Road Vehicles (Registration, Registration Plates and Excise Exemption) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1295)](https://www.legislation.gov.uk/uksi/2018/1295), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1295/regulation/1/2), [3(7)](https://www.legislation.gov.uk/uksi/2018/1295/regulation/3/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-cdc7cf8a741a4c779a4a6ca95e8f55ac]: Textual amendment: Word in [reg. 9(3)](https://www.legislation.gov.uk/uksi/2001/561/regulation/9/3) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 8 para. 2(b)](https://www.legislation.gov.uk/uksi/2025/82/schedule/8/paragraph/2/b)
+
+[^key-35f19723b4caeab70460f6ab683ee68f]: Textual amendment: [Reg. 10(1A)](https://www.legislation.gov.uk/uksi/2001/561/regulation/10/1A) inserted (1.1.2021) by [The Road Vehicles (Display of Registration Marks) (Amendment) (EU Exit) (No. 2) Regulations 2020 (S.I. 2020/1363)](https://www.legislation.gov.uk/uksi/2020/1363), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1363/regulation/1/2), [3(a)](https://www.legislation.gov.uk/uksi/2020/1363/regulation/3/a)
+
+[^key-c07989855f87d4b216943571221465e0]: Textual amendment: Words in [reg. 10(2)](https://www.legislation.gov.uk/uksi/2001/561/regulation/10/2) inserted (27.8.2021) by [The Road Vehicles (Display of Registration Marks) (Amendment) Regulations 2021 (S.I. 2021/831)](https://www.legislation.gov.uk/uksi/2021/831), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/831/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2021/831/regulation/3)
+
+[^key-356a5b61e0bbfef2927a42e1e2ed20d3]: Textual amendment: Words in [reg. 10(2)](https://www.legislation.gov.uk/uksi/2001/561/regulation/10/2) inserted (1.1.2021) by [The Road Vehicles (Display of Registration Marks) (Amendment) (EU Exit) (No. 2) Regulations 2020 (S.I. 2020/1363)](https://www.legislation.gov.uk/uksi/2020/1363), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1363/regulation/1/2), [3(b)](https://www.legislation.gov.uk/uksi/2020/1363/regulation/3/b)
+
+[^key-e04681a11f40e82f7bbcc39b4df10c5a]: Textual amendment: Words in [reg. 10(3)](https://www.legislation.gov.uk/uksi/2001/561/regulation/10/3) inserted (1.1.2021) by [The Road Vehicles (Display of Registration Marks) (Amendment) (EU Exit) (No. 2) Regulations 2020 (S.I. 2020/1363)](https://www.legislation.gov.uk/uksi/2020/1363), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1363/regulation/1/2), [3(c)(i)](https://www.legislation.gov.uk/uksi/2020/1363/regulation/3/c/i)
+
+[^key-63fd8fa0391c05684a4f85e2111f5a77]: Textual amendment: Words in [reg. 10(3)](https://www.legislation.gov.uk/uksi/2001/561/regulation/10/3) inserted (1.1.2021) by [The Road Vehicles (Display of Registration Marks) (Amendment) (EU Exit) (No. 2) Regulations 2020 (S.I. 2020/1363)](https://www.legislation.gov.uk/uksi/2020/1363), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1363/regulation/1/2), [3(c)(ii)](https://www.legislation.gov.uk/uksi/2020/1363/regulation/3/c/ii)
+
+[^key-acd09b372612d47292e0696412ac21d1]: Textual amendment: Words in [reg. 10(4)](https://www.legislation.gov.uk/uksi/2001/561/regulation/10/4) inserted (1.1.2021) by [The Road Vehicles (Display of Registration Marks) (Amendment) (EU Exit) (No. 2) Regulations 2020 (S.I. 2020/1363)](https://www.legislation.gov.uk/uksi/2020/1363), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1363/regulation/1/2), [3(d)](https://www.legislation.gov.uk/uksi/2020/1363/regulation/3/d)
+
+[^key-2c4ba20d87dbeb3f4a004171e00b7e89]: Textual amendment: [Reg. 10(4A)](https://www.legislation.gov.uk/uksi/2001/561/regulation/10/4A) inserted (1.1.2021) by [The Road Vehicles (Display of Registration Marks) (Amendment) (EU Exit) (No. 2) Regulations 2020 (S.I. 2020/1363)](https://www.legislation.gov.uk/uksi/2020/1363), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1363/regulation/1/2), [3(e)](https://www.legislation.gov.uk/uksi/2020/1363/regulation/3/e)
+
+[^key-3d2e6d3554b98e2cf14a0f3d4d8f4eeb]: Textual amendment: Words in [reg. 10(5)](https://www.legislation.gov.uk/uksi/2001/561/regulation/10/5) inserted (1.1.2021) by [The Road Vehicles (Display of Registration Marks) (Amendment) (EU Exit) (No. 2) Regulations 2020 (S.I. 2020/1363)](https://www.legislation.gov.uk/uksi/2020/1363), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1363/regulation/1/2), [3(f)](https://www.legislation.gov.uk/uksi/2020/1363/regulation/3/f)
+
+[^key-223f5d9a6f500b868fc5cdc1c062485f]: Textual amendment: [Reg. 11(1A)](https://www.legislation.gov.uk/uksi/2001/561/regulation/11/1A) inserted (22.11.2002) by [The Road Vehicles (Display of Registration Marks) (Amendment) Regulations 2002 (S.I. 2002/2687)](https://www.legislation.gov.uk/uksi/2002/2687), [regs. 1](https://www.legislation.gov.uk/uksi/2002/2687/regulation/1), [3](https://www.legislation.gov.uk/uksi/2002/2687/regulation/3)
+
+[^key-759e6f04d0e8b3bafe197fe8b8a5f94c]: Textual amendment: Words in [reg. 12(1)(d)](https://www.legislation.gov.uk/uksi/2001/561/regulation/12/1/d) inserted (22.11.2002) by [The Road Vehicles (Display of Registration Marks) (Amendment) Regulations 2002 (S.I. 2002/2687)](https://www.legislation.gov.uk/uksi/2002/2687), [regs. 1](https://www.legislation.gov.uk/uksi/2002/2687/regulation/1), [4](https://www.legislation.gov.uk/uksi/2002/2687/regulation/4)
+
+[^key-d30f7bf4be0496f1ec57ba41d10a9435]: Textual amendment: Words in reg. 14(1) inserted (22.11.2002) by [The Road Vehicles (Display of Registration Marks) (Amendment) Regulations 2002 (S.I. 2002/2687)](https://www.legislation.gov.uk/uksi/2002/2687), [regs. 1](https://www.legislation.gov.uk/uksi/2002/2687/regulation/1), [5(1)(a)](https://www.legislation.gov.uk/uksi/2002/2687/regulation/5/1/a)
+
+[^key-63543505a36e293409a8aba3f34754f6]: Textual amendment: Words in reg. 14(4)(5) substituted (22.11.2002) by [The Road Vehicles (Display of Registration Marks) (Amendment) Regulations 2002 (S.I. 2002/2687)](https://www.legislation.gov.uk/uksi/2002/2687), [regs. 1](https://www.legislation.gov.uk/uksi/2002/2687/regulation/1), [5(1)(b)](https://www.legislation.gov.uk/uksi/2002/2687/regulation/5/1/b)
+
+[^key-fde4c67ca6193f8dccb6e3cb02a3c98a]: Textual amendment: Words in reg. 14(6) inserted (22.11.2002) by [The Road Vehicles (Display of Registration Marks) (Amendment) Regulations 2002 (S.I. 2002/2687)](https://www.legislation.gov.uk/uksi/2002/2687), [regs. 1](https://www.legislation.gov.uk/uksi/2002/2687/regulation/1), [5(1)(c)](https://www.legislation.gov.uk/uksi/2002/2687/regulation/5/1/c)
+
+[^key-d36c98087b2c8af6909718e180567039]: Textual amendment: Words in reg. 14(7)-(9) substituted (22.11.2002) by [The Road Vehicles (Display of Registration Marks) (Amendment) Regulations 2002 (S.I. 2002/2687)](https://www.legislation.gov.uk/uksi/2002/2687), [regs. 1](https://www.legislation.gov.uk/uksi/2002/2687/regulation/1), [5(1)(d)](https://www.legislation.gov.uk/uksi/2002/2687/regulation/5/1/d)
+
+[^key-2da15366ee2f4c32213599a8f35a707d]: Textual amendment: Word in reg. 14(11) substituted (1.9.2001) by [The Road Vehicles (Display of Registration Marks) (Amendment) Regulations 2001 (S.I. 2001/1079)](https://www.legislation.gov.uk/uksi/2001/1079), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2001/1079/regulation/1/1/b), [2(2)(a)](https://www.legislation.gov.uk/uksi/2001/1079/regulation/2/2/a) (with [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/2001/1079/regulation/1/1/a))
+
+[^key-20c80c8479889605ab9b9d6b18bc0b53]: Textual amendment: Word in reg. 14(11) substituted (1.9.2001) by [The Road Vehicles (Display of Registration Marks) (Amendment) Regulations 2001 (S.I. 2001/1079)](https://www.legislation.gov.uk/uksi/2001/1079), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2001/1079/regulation/1/1/b), [2(2)(b)](https://www.legislation.gov.uk/uksi/2001/1079/regulation/2/2/b) (with [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/2001/1079/regulation/1/1/a))
+
+[^key-b5ec9870de81e758d34ac058d0d8ed26]: Textual amendment: [Reg. 14A](https://www.legislation.gov.uk/uksi/2001/561/regulation/14A) inserted (22.11.2002) by [The Road Vehicles (Display of Registration Marks) (Amendment) Regulations 2002 (S.I. 2002/2687)](https://www.legislation.gov.uk/uksi/2002/2687), [regs. 1](https://www.legislation.gov.uk/uksi/2002/2687/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2002/2687/regulation/5/2)
+
+[^key-6d72f91aec314f6fca41eb1c55c81c4e]: Textual amendment: Reg. 16 substituted (27.4.2009) by [The Road Vehicles (Display of Registration Marks) (Amendment) Regulations 2009 (S.I. 2009/811)](https://www.legislation.gov.uk/uksi/2009/811), [regs. 1](https://www.legislation.gov.uk/uksi/2009/811/regulation/1), [4](https://www.legislation.gov.uk/uksi/2009/811/regulation/4)
+
+[^key-2de7964be00a4c189ed29b7e57bd02c1]: Textual amendment: Words in [reg. 16(3)](https://www.legislation.gov.uk/uksi/2001/561/regulation/16/3) inserted (31.12.2020) by [The Road Vehicles (Display of Registration Marks) (Amendment) (EU Exit) (No. 2) Regulations 2020 (S.I. 2020/1363)](https://www.legislation.gov.uk/uksi/2020/1363), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1363/regulation/1/3), [4](https://www.legislation.gov.uk/uksi/2020/1363/regulation/4)
+
+[^key-734809ff52768a73294e92fbd997fca9]: Textual amendment: [Reg. 16(4A)-(4D)](https://www.legislation.gov.uk/uksi/2001/561/regulation/16/4A) inserted (8.12.2020) by [The Road Vehicles (Display of Registration Marks) (Amendment) Regulations 2020 (S.I. 2020/1276)](https://www.legislation.gov.uk/uksi/2020/1276), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1276/regulation/1), [4(a)](https://www.legislation.gov.uk/uksi/2020/1276/regulation/4/a)
+
+[^key-2985ce530958fcc9a4320554027205f6]: Textual amendment: Words in [reg. 16(5)](https://www.legislation.gov.uk/uksi/2001/561/regulation/16/5) inserted (8.12.2020) by [The Road Vehicles (Display of Registration Marks) (Amendment) Regulations 2020 (S.I. 2020/1276)](https://www.legislation.gov.uk/uksi/2020/1276), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1276/regulation/1), [4(b)](https://www.legislation.gov.uk/uksi/2020/1276/regulation/4/b)
+
+[^key-00956576c4046febf485584c75d11b7c]: Textual amendment: [Reg. 16(11)](https://www.legislation.gov.uk/uksi/2001/561/regulation/16/11) inserted (8.12.2020) by [The Road Vehicles (Display of Registration Marks) (Amendment) Regulations 2020 (S.I. 2020/1276)](https://www.legislation.gov.uk/uksi/2020/1276), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1276/regulation/1), [4(c)](https://www.legislation.gov.uk/uksi/2020/1276/regulation/4/c)
+
+[^c15844581]: Marginal citation: [S.I. 1971/450](https://www.legislation.gov.uk/uksi/1971/450). The Relevant amendments are by [S.I. 1972/1865](https://www.legislation.gov.uk/uksi/1972/1865), 1975/1089 and 1984/814.
+
+[^c15844591]: Marginal citation: S.R. & O. (N.I.) [1973 No. 490](https://www.legislation.gov.uk/ukcm/1973/490). The relevant amendments are by [S.I. 1976/2180](https://www.legislation.gov.uk/uksi/1976/2180).
+
+[^key-a9d6e1f6705d9ab3b0d3cca9178a35ae]: Textual amendment: [Reg. 17A](https://www.legislation.gov.uk/uksi/2001/561/regulation/17A) inserted (1.1.2021) by [The Road Vehicles (Display of Registration Marks) (Amendment) (EU Exit) (No. 2) Regulations 2020 (S.I. 2020/1363)](https://www.legislation.gov.uk/uksi/2020/1363), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1363/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2020/1363/regulation/5)
+
+[^c15844601]: Marginal citation: [Paragraph 1A](https://www.legislation.gov.uk/uksi/2001/561/paragraph/1A) was inserted by the Finance act 1996, s. 19, and amended by the Finance Act 1998, s. 17.
+
+[^key-807b01484d54c4c070aca13f5313fff6]: Textual amendment: Words in [reg. 18(a)](https://www.legislation.gov.uk/uksi/2001/561/regulation/18/a) inserted (1.1.2021) by [The Road Vehicles (Display of Registration Marks) (Amendment) (EU Exit) (No. 2) Regulations 2020 (S.I. 2020/1363)](https://www.legislation.gov.uk/uksi/2020/1363), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1363/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2020/1363/regulation/6)
+
+[^key-82968befb16fd7597c7da798529d1ccf]: Textual amendment: [Sch. 2 Pt. A1](https://www.legislation.gov.uk/uksi/2001/561/schedule/2/part/A1) inserted (1.1.2021) by [The Road Vehicles (Display of Registration Marks) (Amendment) (EU Exit) (No. 2) Regulations 2020 (S.I. 2020/1363)](https://www.legislation.gov.uk/uksi/2020/1363), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1363/regulation/1/2), [7](https://www.legislation.gov.uk/uksi/2020/1363/regulation/7)
+
+[^key-7ed77b78728193a03a5b93e3269851f0]: Textual amendment: Words in [Sch. 2 Pt. 1 heading](https://www.legislation.gov.uk/uksi/2001/561/schedule/2/part/1) inserted (1.1.2021) by [The Road Vehicles (Display of Registration Marks) (Amendment) (EU Exit) (No. 2) Regulations 2020 (S.I. 2020/1363)](https://www.legislation.gov.uk/uksi/2020/1363), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1363/regulation/1/2), [8](https://www.legislation.gov.uk/uksi/2020/1363/regulation/8)
+
+[^c15844611]: Marginal citation: Published by the British Standards Institution, 389 Chiswick High Road, London W4 4AL. The ISBN number is 0 580 28985 0. Copies may be obtained by post from BSI Customer Services, Sales Department, at the above address or from a BSI sales outlet.
+
+[^c15844621]: Marginal citation: Published by the British Standards Institution, 389 Chiswick High Road, London W4 4AL, being the first revision of the standard first published in 1967. The ISBN number is 0 580 07327 0. Copies may be obtained by post from BSI Customer Services, Sales Department, at the above address or from a BSI sales outlet.
+
+[^c15844631]: Marginal citation: Published by the British Standards Institution, 389 Chiswick High Road, London W4 4AL, the standard having been revised in 1972 to BS AU 145a, as to which see the immediately preceding footnote.
+
+[^c15844861]: Marginal citation: The directives are Council Directives 70/222/EEC, 76/760/EEC (as amended by Commission Directive 97/31/EC), 93/92/EEC (as amended by Commission Directive 99/26/EC) and 93/94/EEC.

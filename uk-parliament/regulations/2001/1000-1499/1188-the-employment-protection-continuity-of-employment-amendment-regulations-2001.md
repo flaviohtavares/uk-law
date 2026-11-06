@@ -1,0 +1,78 @@
+---
+title: The Employment Protection (Continuity of Employment) (Amendment) Regulations 2001
+id: uksi/2001/1188
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2001-03-23'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2001/1188
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2001/1188/pdfs/uksi_20011188_en.pdf
+- http://www.legislation.gov.uk/uksi/2001/1188/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Employment Protection (Continuity of Employment) (Amendment) Regulations 2001
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2001 No. 1188
+
+TERMS AND CONDITIONS OF EMPLOYMENT
+
+The Employment Protection (Continuity of Employment) (Amendment) Regulations 2001
+
+Made
+
+23rd March 2001
+
+Laid before Parliament
+
+27th March 2001
+
+Coming into force
+
+21st May 2001
+
+The Secretary of State, in exercise of the powers conferred on him by section 219(1) of the Employment Rights Act 1996[^f00001] and of all other powers enabling him in that behalf, hereby makes the following Regulations:
+
+## 1. Citation, commencement and interpretation
+
+(1) These Regulations may be cited as the Employment Protection (Continuity of Employment) (Amendment) Regulations 2001 and shall come into force on 21st May 2001.
+
+(2) In these Regulations, “the principal Regulations” means the Employment Protection (Continuity of Employment) Regulations 1996[^f00002].
+
+## 2. Amendments to the principal Regulations
+
+(1) The principal Regulations shall be amended as follows.
+
+(2) In regulation 2 (application)—
+
+- (a) at the end of paragraph (c), omit “or”;
+- (b) at the end of paragraph (d), add “or”, and
+- (c) after paragraph (d), add the following paragraph—
+
+  > - (e) the making of an agreement to submit a dispute to arbitration in accordance with a scheme having effect by virtue of an order under section 212A of the Trade Union and Labour Relations (Consolidation) Act 1992.
+
+Alan Johnson,
+
+Parliamentary Under Secretary of State for Competitiveness,
+
+Department of Trade and Industry
+
+23rd March 2001
+
+(This note is not part of the Regulations)
+
+These Regulations amend the Employment Protection (Continuity of Employment) Regulations 1996, which preserve an employee’s continuity of employment where he is dismissed and subsequently reinstated or re-employed. The 1996 Regulations apply where the reinstatement or re-employment is a consequence of action taken of a kind specified in the Regulations, such as making a claim in accordance with a dismissal procedures agreement. These Regulations add to the kinds of action specified the making of an agreement to submit a dispute to arbitration in accordance with a scheme under section 212A of the Trade Union and Labour Relations (Consolidation) Act [1992 (c. 52)](https://www.legislation.gov.uk/ukpga/1992/52). Section 212A was inserted into the 1992 Act by section 7 of the Employment Rights (Dispute Resolution) Act [1998 (c. 8)](https://www.legislation.gov.uk/ukpga/1998/8) and provides for ACAS to prepare a scheme for arbitration in the case of disputes involving claims which could be the subject of employment tribunal proceedings, including in particular disputes arising out of the provisions of the Employment Rights Act 1996 relating to unfair dismissal.
+
+## Annotations
+
+[^f00001]: Footnote: [1996 c. 18](https://www.legislation.gov.uk/ukpga/1996/18); section 219 was amended by the Employment Rights (Dispute Resolution) Act [1998 (c. 8)](https://www.legislation.gov.uk/ukpga/1998/8), Schedule 1, paragraph 25.
+
+[^f00002]: Footnote: S.I. [1996/3147](https://www.legislation.gov.uk/uksi/1996/3147).

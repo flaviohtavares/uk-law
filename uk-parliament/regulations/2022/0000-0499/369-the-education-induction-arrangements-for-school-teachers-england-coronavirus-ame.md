@@ -1,0 +1,79 @@
+---
+title: The Education (Induction Arrangements for School Teachers) (England) (Coronavirus) (Amendment) Regulations 2022
+id: uksi/2022/369
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2022-03-23'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2022/369
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2022/369/pdfs/uksiem_20220369_en.pdf
+- http://www.legislation.gov.uk/uksi/2022/369/pdfs/uksi_20220369_en.pdf
+- http://www.legislation.gov.uk/uksi/2022/369/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Education (Induction Arrangements for School Teachers) (England) (Coronavirus) (Amendment) Regulations 2022
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2022 No. 369
+
+Education, England
+
+The Education (Induction Arrangements for School Teachers) (England) (Coronavirus) (Amendment) Regulations 2022
+
+Made
+
+23rd March 2022
+
+Laid before Parliament
+
+29th March 2022
+
+Coming into force
+
+18th April 2022
+
+The Secretary of State, in exercise of the powers conferred by sections 135A(1) and (2) and 210(7)(b) of the Education Act 2002[^f00001], makes the following Regulations:
+
+## 1. Citation and commencement
+
+These Regulations may be cited as the Education (Induction Arrangements for School Teachers) (England) (Coronavirus) (Amendment) Regulations 2022 and come into force on 18 April 2022.
+
+## 2. Amendment to the Education (Induction Arrangements for School Teachers) (England) Regulations 2012
+
+(1) The Education (Induction Arrangements for School Teachers) (England) Regulations 2012 [^f00002] are amended as follows.
+
+(2) In regulation 8(1A) (extension of an induction period before completion), for “1st September 2021” substitute “1st September 2022”.
+
+Robin Walker
+
+Minister of State
+
+Department for Education
+
+23rd March 2022
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations amend regulation 8 of the Education (Induction Arrangements for School Teachers) (England) Regulations 2012 (“**the 2012 Regulations**”) which sets out the circumstances in which the statutory induction period provided by those regulations can be amended before its completion. Regulation 8 of the 2012 Regulations was previously amended to allow a school teacher to complete an induction period before 1st September 2021 without it being extended due to absence from work of 30 or more days if that absence would have been less than 30 days but for a reason relating to the incidence or transmission of coronavirus.
+
+Regulation 2 of these Regulations further amends regulation 8 by substituting a new expiry date of 1st September 2022.
+
+An impact assessment has not been produced for this instrument as no, or no significant, impact on the private or voluntary sector is foreseen.
+
+An Explanatory Memorandum is published alongside this instrument on www.legislation.gov.uk.
+
+## Annotations
+
+[^f00001]: Footnote: [2002 c. 32](https://www.legislation.gov.uk/ukpga/2002/32); section 135A was inserted by section 9 of the Education Act [2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21); section 135A(1) was amended by [SI 2012/976](https://www.legislation.gov.uk/uksi/2012/976) and section 135A(1) and (2) were amended by paragraph 13 of Schedule 13 to the Education Act 2011. For the meaning of “prescribed” and “regulations” see section 212(1); there are amendments to section 212(1) which are not relevant to these Regulations.
+
+[^f00002]: Footnote: [S.I. 2012/1115](https://www.legislation.gov.uk/uksi/2012/1115). Regulation 8(1) is amended by [S.I. 2020/354](https://www.legislation.gov.uk/uksi/2020/354), [2020/464](https://www.legislation.gov.uk/uksi/2020/464), [2020/842](https://www.legislation.gov.uk/uksi/2020/842) and [2021/385](https://www.legislation.gov.uk/uksi/2021/385); there are other amendments to [S.I.2012/1115](https://www.legislation.gov.uk/uksi/2012/1115) which are not relevant to these Regulations.

@@ -1,0 +1,27 @@
+---
+title: The Virgin Islands Constitution Order 2007, section 112
+act: The Virgin Islands Constitution Order 2007
+section: '112'
+status: as-enacted
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2007/1678/section/112
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Virgin Islands Constitution Order 2007, section 112
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+## 112. Registration of interests
+
+(1) There shall be for the Virgin Islands a Register of Interests, which shall be maintained by a Registrar who shall be appointed, and may be removed from office, by the Governor acting in his or her discretion.
+
+(2) It shall be the duty of any person to whom this section applies to declare to the Registrar, for entry in the Register of Interests, such interests, assets, income and liabilities of that person, or of any other person connected with him or her, as may be prescribed by law.
+
+(3) A person shall make a declaration under subsection (2) upon assuming the functions of his or her office and at such intervals thereafter (being no longer than twelve months) as may be prescribed by law.
+
+(4) This section applies to all members of the House of Assembly (including Ministers) and the holders of such other offices (except that of Governor) as may be prescribed by law.
+
+(5) A law made under this Constitution shall make provision for giving effect to this section, including the sanctions which may be imposed for a failure to comply with, or the making of false statements in purported compliance with, subsections (2) and (3) and, notwithstanding anything contained in Chapter 5, the sanctions which may be imposed may include the suspension of a member of the House of Assembly from sitting and voting in the House for such period as may be prescribed in such a law.

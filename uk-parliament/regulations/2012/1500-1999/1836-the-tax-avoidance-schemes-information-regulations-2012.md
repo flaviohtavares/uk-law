@@ -1,0 +1,751 @@
+---
+title: The Tax Avoidance Schemes (Information) Regulations 2012
+id: uksi/2012/1836
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2012-07-12'
+text_date: '2022-06-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2012/1836
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2012/1836/pdfs/uksiem_20121836_en.pdf
+- http://www.legislation.gov.uk/uksi/2012/1836/pdfs/uksi_20121836_en.pdf
+- http://www.legislation.gov.uk/uksi/2012/1836/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Tax Avoidance Schemes (Information) Regulations 2012
+
+> Text as at 2022-06-01.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2012 No. 1836
+
+Taxes
+
+The Tax Avoidance Schemes (Information) Regulations 2012
+
+Made
+
+12th July 2012
+
+Laid before the House of Commons
+
+13th July 2012
+
+Coming into force
+
+1st September 2012
+
+The Commissioners for Her Majesty’s Revenue and Customs[^f00001] in exercise of the powers conferred by section 98C(2A),(2B) and (2C)(b) of the Taxes Management Act 1970[^f00002], section 132 of the Finance Act 1999[^f00003], section 135 of the Finance Act 2002[^f00004] and sections 306A(6), 307(5), 308(1) and (3), 308A(5) and (6)(a), 309(1), 310, 312(2) and (5), 312A(2) and (5), 313(1) and (3), 313ZA(3) and (4), 313A(4)(a), 313B(2)(a), 313C(1) and (3)(a), 317(2) and 318(1) of the Finance Act 2004[^f00005], make the following Regulations:[^key-62f7e812f4393e6c159df2d0547dcb15]
+
+## 1. Citation and commencement[^key-2a983fa3649a43a00b46bc9049ceeca3]
+
+These Regulations may be cited as the Tax Avoidance Schemes (Information) Regulations 2012 and shall come into force on 1st September 2012.
+
+## 2. Interpretation[^key-e07506dbd4094e50c98cc603e9458d62]
+
+(1) In these Regulations a reference to a numbered section (without more) is a reference to the section of the Finance Act 2004 which is so numbered.
+
+(2) In these Regulations—
+
+- “employment” has the same meaning as it has for the purposes of the employment income Parts of the Income Tax (Earnings and Pensions) Act 2003[^f00006] (see section 4 of that Act) and includes offices to which the provisions of those Parts that are expressed to apply to employments apply equally (see section 5 of that Act); and “employee” and “employer” have corresponding meanings;
+- “the filing date” is—
+  - (a) whichever date in regulation 12(4)(a) to (c) applies to the relevant return or in the case of inheritance tax the last day of the period mentioned in regulation 9(5)(b); or
+  - (b) in the case of regulation 10(7) the date by which the relevant return is required to be delivered;
+- “[^key-90ed7cbbff27ab2b1d262a0959643fe8]**the prescribed taxes**” means the apprenticeship levy,[^key-5663be7187b2aab877690ceb0189b7c2] capital gains tax, corporation tax, income tax, inheritance tax, stamp duty land tax and annual tax on enveloped dwellings.
+
+(3) In reckoning any period under regulation 5 (apart from paragraph (8)), or regulations 8A, 13A,[^key-53f4208e6e1d578fec5f882016dd91b9] 14, 15 and 16, any day which is a non-business day within the meaning of section 92 of the Bills of Exchange Act 1882[^f00007] (computation of time) shall be disregarded.
+
+(4) In regulations 10(2) and (3), 11(4) and 12(2) expressions which are used in Part 4 of the Finance Act 2003[^f00008] have the same meaning as in that Part.
+
+## 3. Revocations[^key-27ff8cfe95f83b6faf5f96c925ac630f]
+
+(1) The Regulations described in the Schedule to these Regulations are revoked.
+
+(2) Anything begun under or for the purpose of any Regulations revoked by these Regulations shall be continued under or, as the case may be, for the purpose of the corresponding provision of these Regulations.
+
+(3) Where any document refers to a provision of a regulation revoked by these Regulations, such reference shall, unless the context otherwise requires, be construed as a reference to the corresponding provision of these Regulations.
+
+## 4. Prescribed information in respect of notifiable proposals and arrangements[^key-468b3e4742e929ae99d935dc8558eae3]
+
+(1) The information which must be provided to HMRC by a promoter under section 308(1) or (3) (duties of promoter) in respect of a notifiable proposal or notifiable arrangements is sufficient information as might reasonably be expected to enable an officer of HMRC to comprehend the manner in which the proposal or arrangements are intended to operate, including—
+
+- (a) the promoter’s name and address;
+- (b) details of the provision of the Arrangements Regulations, the ATED Arrangements Regulations,[^key-471fd3cc39e4ee0aa9780a70b968509a] the IHT Arrangements Regulations or the SDLT Arrangements Regulations by virtue of which the arrangements or the proposed arrangements are notifiable;
+- (c) a summary of the arrangements or proposed arrangements and the name (if any) by which they are known;
+- (d) information explaining each element of the arrangements or proposed arrangements (including the way in which they are structured) from which the tax advantage expected to be obtained under those arrangements arises; and
+- (e) the statutory provisions, relating to any of the prescribed taxes, on which that tax advantage is based.
+
+(2) The information which must be provided to HMRC by a client under section 309 (duty of person dealing with promoter outside the United Kingdom) in respect of notifiable arrangements is sufficient information as might reasonably be expected to enable an officer of HMRC to comprehend the manner in which the arrangements are intended to operate, including—
+
+- (a) the client’s name and address;
+- (b) the name and address of the promoter;
+- (c) details of the provision of the Arrangements Regulations, the ATED Arrangements Regulations,[^key-37b73b191750cd5e352f04bf0dcf280c] the IHT Arrangements Regulations or the SDLT Arrangements Regulations by virtue of which the arrangements are notifiable;
+- (d) a summary of the arrangements, and the name (if any) by which they are known;
+- (e) information explaining each element of the arrangements (including the way in which they are structured) from which the tax advantage expected to be obtained under the arrangements arises; and
+- (f) the statutory provisions, relating to any of the prescribed taxes, on which that tax advantage is based.
+
+(3) The information which must be provided to HMRC by a person obliged to do so by section 310 (duty of parties to notifiable arrangements not involving promoter) is sufficient information as might reasonably be expected to enable an officer of HMRC to comprehend the manner in which the arrangements of which that transaction forms part are intended to operate, including—
+
+- (a) the name and address of the person entering into the transaction;
+- (b) details of the provision of the Arrangements Regulations, the ATED Arrangements Regulations,[^key-817433b1f3199dfdd0d9df9ad5f0241e] the IHT Arrangements Regulations or the SDLT Arrangements Regulations by virtue of which the arrangements are notifiable;
+- (c) a summary of the arrangements and the name (if any) by which they are known;
+- (d) information explaining each element of the arrangements (including the way in which they are structured) from which the tax advantage expected to be obtained under the arrangements arises; and
+- (e) the statutory provisions, relating to any of the prescribed taxes, on which that tax advantage is based.
+
+(4) If, but for this paragraph—
+
+- (a) a person would be obliged to provide information in relation to two or more notifiable arrangements,
+- (b) those arrangements are substantially the same (whether they relate to the same parties or different parties), and
+- (c) the person has already provided information under paragraph (2) or (3) in relation to any of the other arrangements,
+
+the person need not provide further information under paragraph (2) or (3).
+
+(5) In this regulation—
+
+- “the Arrangements Regulations” means the Tax Avoidance Schemes (Prescribed Descriptions of Arrangements) Regulations 2006[^f00009];
+- “the ATED Arrangements Regulations” means the Annual Tax on Enveloped Dwellings Avoidance Schemes (Prescribed Descriptions of Arrangements) Regulations 2013;[^key-35f8a9a859ba0341779d089b64c13a31]
+- “the IHT Arrangements Regulations” means the Inheritance Tax Avoidance Schemes (Prescribed Descriptions of Arrangements) Regulations 2017[^key-8ae41c871b68f286a876b9457b044319];
+- “the SDLT Arrangements Regulations” means the Stamp Duty Land Tax Avoidance Schemes (Prescribed Descriptions of Arrangements) Regulations 2005[^f00011].
+
+## 5. Time for providing information under section 308, 308A, 309 or 310[^key-5afa2d208d6c664ebfc064979eee17d1][^key-3709681289e28a5e70e6f0c1333e5ced]
+
+(1) The period or time (as the case may be) within which—
+
+- (a) the prescribed information under section 308, 309 or 310, and
+- (b) the information or documents which will support or explain the prescribed information under section 308A (supplemental information),
+
+must be provided to HMRC is found in accordance with the following paragraphs of this regulation.
+
+(2) Where a proposal or arrangements (not being otherwise notifiable) is or are treated as notifiable by virtue of an order under section 306A(1) (doubt as to notifiability) the prescribed period is the period of 10 days beginning on the day after that on which the order is made.
+
+(3) In the case of a requirement to provide specified information about, or documents relating to, the notifiable proposal or arrangements which arises by virtue of an order under section 308A(2), the prescribed period is the period of 10 days beginning on the day after that on which the order is made.
+
+(4) In any other case of a notification under section 308(1), the prescribed period is the period of 5 days beginning on the day after the relevant date.
+
+(5) In any other case of a notification under section 308(3), the prescribed period is the period of 5 days beginning on the day after that on which the promoter first becomes aware of any transaction forming part of arrangements to which that subsection applies.
+
+(6) In the case of a notification under section 309(1), the prescribed period is the period of 5 days beginning on the day after that on which the client enters into the first transaction forming part of notifiable arrangements to which that subsection applies.
+
+(7) In the case of a notification under section 310 which arises by virtue of the application of regulation 6 of the Tax Avoidance Schemes (Promoters and Prescribed Circumstances) Regulations 2004[^f00012] (persons not to be treated as promoters: legal professional privilege), the prescribed time is any time during the period of 5 days beginning on the day after that on which the person enters into the first transaction forming part of the notifiable arrangements.
+
+(8) In any other case of a notification under section 310 the prescribed time is any time during the period of 30 days beginning on the day after that on which the person enters into the first transaction forming part of the notifiable arrangements.
+
+## 6. Prescribed information under sections 312 , 312ZA and 312A[^key-67f0467060d01930e356af064017fe9e][^key-bf124d9f058bae02e8cb7b87315278b0]
+
+For the purposes of sections 312(2) and (5) (duty of promoter to notify client of number: section 311(2) case), section 312ZA(2) (duty to notify client of reference number: section 311(3) case)[^key-facc07c4e7e67faad278890a039e65c4] and 312A(2) and (2A) (duty of client to provide information to parties)[^key-3928228d7478219dbc44ad2f9125fa68] the prescribed information is—
+
+- (a) the name and address of the promoter or the person under the duty in section 312ZA(2)[^key-8dd5abc0722ab1a223aca691bbcb8511];
+- (b) the name, or a brief description of the arrangements or proposed arrangements[^key-2bec8e66197cfc8331f1e27cb159b0c7];
+- (c)[^key-a1aff61e834209bced86f1c132488138] the reference number (or if more than one, any one reference number) allocated by HMRC under section 311 (allocation of reference number to arrangements) to—
+  - (i) the arrangements or proposed arrangements; or
+  - (ii) any arrangements substantially the same as the arrangements or proposed arrangements;
+- (d) the date that the reference number was—
+  - (i)[^key-4c14df4d2a65c9ca7ccb20f60fc3ec70] sent to the client by the promoter or the person under the duty in section 312ZA(2); or (as the case may be)
+  - (ii) sent to any other person by the client under section 312A(2) or (2A)[^key-b204f76d9b5c5835bbd08105d7d238dc].
+
+## 7. Time for providing information under section 312A[^key-f2b8d3ce6e134540a4ebb101b8e38a21]
+
+The prescribed period for a notification under section 312A(2) or (2A) is the period of 30 days beginning with—
+
+- (a) the day on which the prescribed information is notified to the client by—
+  - (i) the promoter under section 312; or
+  - (ii) the person under the duty in section 312ZA(2) under section 312ZA; or
+- (b) if later, the day on which the client first becomes aware of any transaction forming part of the arrangements or proposed arrangements.
+
+## 8. Exemption from duty under section 312A[^key-30897cf1f86c266f30b44c0591f20663]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 8A. Prescribed information under section 312B: information and timing[^key-1f259ff0a40cf66152a4aaeb4fa9ce77]
+
+(1) For the purposes of section 312B (duty of client to provide information)[^key-7e110c5dd7f2c69a9573e4191369b334]—
+
+- (a)[^key-769b2b04108e41bdcdafbe70f375ced9] the prescribed period is 10 days beginning with the later of—
+  - (i) the day that the client receives the reference number allocated by HMRC under section 311 to the arrangements; and
+  - (ii) the day the client first enters into a transaction which forms part of the arrangements;
+- (b) the prescribed information is—
+  - (i) any identification number allocated to the client by HMRC (“unique taxpayer number”) and the client’s national insurance number; or
+  - (ii) confirmation that the client does not have a unique taxpayer number or a national insurance number or has neither number.
+
+## 8B. Exemption from duty under section 313[^key-861e2901c059f52b15160c05294cf354]
+
+Where an employee receives prescribed information from an employer under section 312A(2) or (2A) in circumstances where the employer has a duty to notify HMRC under section 313ZC in respect of that employee, then no duty arises under section 313(1) in respect of that employee.
+
+## 9. Prescribed cases under section 313(3)(a)[^key-6c7075fea31b78cc81878ae4e9901f2f]
+
+(1) The prescribed cases for the purposes of section 313(3)(a) (cases in which the information is to be included in returns) are as follows.
+
+(2) Subject to regulation 10(7)[^key-f22635d545006c25a32a0e2dcfc987bd] and (8), in the case of a person who—
+
+- (a) expects an advantage to arise in respect of that person’s liability to pay, entitlement to a repayment of, or to a deferment of the liability to pay, income tax or capital gains tax as a result of [^key-6072f5fbd6e5b5190169f7091c2978c7]... arrangements; and
+- (b) is required to make a return to HMRC by a notice under section 8 or 8A of the Taxes Management Act 1970[^f00013] (income tax and capital gains tax: personal return and trustee’s return), in respect of income tax or capital gains tax,
+
+the prescribed information shall be included in the return (under the section which applies) which relates to the year of assessment in which the person first enters into a transaction forming part of the [^key-9af794dfb6fcdf0a71b3fca4c3338a00]... arrangements and in the return for each subsequent year of assessment until the advantage ceases to apply to that person.
+
+(3) Subject to regulation 10(7)[^key-7c59c8db07dcb7d14655f3580f5815e6] and (8) in the case of a company which—
+
+- (a) expects a tax advantage to arise in respect of its liability to pay, entitlement to a repayment of, or to a deferment of its liability to pay, corporation tax as a result of [^key-4a58457045f509e4984d9e051882c21a]... arrangements; and
+- (b) is required to make a return to HMRC by a notice under paragraph 3 of Schedule 18 to the Finance Act 1998[^f00014] (company tax return), in respect of corporation tax,
+
+the prescribed information shall be included in the return under that paragraph covering the period in which the company first enters into a transaction forming part of the [^key-3d2f5588da7d1d2d61d25b4151be33bf]... arrangements and in the return covering each subsequent period until the tax advantage ceases to apply to the company.
+
+(4) Subject to regulation 10(7)[^key-78d357d902fbbdcbef08efebfc976efa] and (8) in the case of a partnership—
+
+- (a) which expects an advantage to arise in respect of a partner’s liability to pay, entitlement to a repayment of, or to a deferment of the liability to pay income tax, capital gains tax or corporation tax in respect of partnership profits or gains as a result of [^key-f76a1d6035eb0766a3df9ccebd9f5ba0]... arrangements; and
+- (b) in respect of which a return is required to be made to HMRC by virtue of a notice under section 12AA of the Taxes Management Act 1970[^f00015] (partnership return) in respect of income tax, capital gains tax or corporation tax,
+
+in addition to any duty under paragraph (2) or (3) the prescribed information shall be included in the return under that section covering the period in which the partnership first enters into a transaction forming part of the [^key-618abbc57918163527accefb5b633377]... arrangements and in the returns covering each subsequent period until the tax advantage ceases to apply to the partner in question.
+
+(5) Subject to regulation 10(7) and (8) in the case of a person who—
+
+- (a) expects an advantage to arise in respect of that person’s liability to pay, entitlement to a repayment of, or to a deferment of the liability to pay inheritance tax as a result of [^key-e1d87551ef12241b60591fdce09c28ad]... arrangements; and
+- (b) is required to make a return to HMRC under section 216 of the Inheritance Tax Act 1984[^f00016] (accounts and information) in respect of a transaction forming part of the [^key-f4a6aac8190752a977e938b1b03b8e6a]... arrangements within a period of 12 months from the end of the month in which the first transaction forming part of the arrangements is entered into,
+
+the prescribed information shall be included in the return under that section.
+
+(6)[^key-e6e56cd194792f2c6fc83d7e45a8ea6c] Subject to regulation 10(7) and (8) in the case of a person who—
+
+- (a) expects an advantage to arise in respect of that person’s liability to pay, entitlement to a repayment of, or deferment of the liability to pay, annual tax on enveloped dwellings as a result of [^key-a249991123fc7491af0ccabb9b4464dd]... arrangements; and
+- (b) is required to make a return to HMRC under section 159 of the Finance Act 2013 in respect of annual tax on enveloped dwellings;
+
+the prescribed information shall be included in the return under that section.
+
+## 10. Prescribed cases under section 313(3)(b)[^key-90d3a09071e0b66b5e610e6c34f2d7b1]
+
+(1) The prescribed cases for the purposes of section 313(3)(b) (cases in which the information is to be provided separately) are as follows.
+
+(2) In a case where a purchaser expects an advantage to arise in respect of that person’s liability to pay, entitlement to a repayment of, or to a deferment of the liability to pay stamp duty land tax as a result of [^key-00009388c8f58ffeb39fcb6febff7fb9]... arrangements the prescribed information shall be provided separately to HMRC in such form and manner as they may specify.
+
+(3) If paragraph (2) applies in relation to a land transaction entered into as purchaser by or on behalf of a partnership notification of the prescribed information by or in relation to the responsible partners may instead be done by or in relation to a representative partner or partners.
+
+(4)[^key-7340a96e551a7e844990c3527a7d89b9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5) In the case of a person who would be obliged to comply with a duty under regulation 9(2) to (4), but is not required, in respect of a year of assessment, accounting period or tax year—
+
+- (a) in the case of [^key-90bf7613be3f2bb9780cb1bd110aa589]... arrangements to which regulation 9(2) applies, to make a return under either of the provisions referred to in regulation 9(2)(b);
+- (b) in the case of [^key-b1bd370de68b7ca9317f5ece08891d91]... arrangements to which regulation 9(3) applies, to make a return under the provision referred to in regulation 9(3)(b); or
+- (c) in the case of [^key-ddb199c8cfb79e11643cc7408908c36e]... arrangements to which regulation 9(4) applies, to make a return under the provision referred to in regulation 9(4)(b);
+
+the prescribed information shall be provided separately to HMRC in such form and manner as they may specify.
+
+(6) In the case of a person who—
+
+- (a) expects an advantage to arise in respect of that person’s liability to pay, entitlement to a repayment of, or to a deferment of the liability to pay inheritance tax as a result of [^key-ccbe9c322df1ab56e36caa93897a6f13]... arrangements; and
+- (b) is not required to make a return to HMRC under section 216 of the Inheritance Tax Act 1984 in respect of a transaction forming part of the [^key-31755a933bfe994f9e159146b27ef2ed]... arrangements within a period of 12 months from the end of the month in which the first transaction forming part of the arrangements is entered into,
+
+the prescribed information shall be provided separately to HMRC in such form and manner as they may specify.
+
+(6A)[^key-70348c209b89eb544283edaa3fb62667] In the case of a person who—
+
+- (a) expects an advantage to arise in respect of that person’s liability to pay, entitlement to a repayment of, or deferment of the liability to pay, annual tax on enveloped dwellings as a result of [^key-b159652016d200f67615fd4b1c81c875]... arrangements; and
+- (b) is not required to make a return to HMRC under section 159 of the Finance Act 2013 in respect of a transaction forming part of the [^key-05c2d952db3b2eb5e6a487f787a681ff]... arrangements within a period of 30 days beginning with the later of—
+  - (i) the effective date of the first transaction which forms part of the arrangements; or
+  - (ii) the date of the receipt of the reference number allocated under the provisions of section 311;
+
+the prescribed information shall be provided separately to HMRC.
+
+(6B)[^key-528f4ef6d13350ba9541b3e996ca554f] In the case of a person who expects an advantage to arise in respect of that person’s liability to pay, entitlement to a repayment of, or deferment of the liability to pay, the apprenticeship levy as a result of [^key-d8307ea332066d8ad66d7c443cd4508a]... arrangements, the prescribed information shall be provided separately to HMRC in such form and manner as they may specify.
+
+(7) In a case of a person who would, but for this paragraph, be obliged to comply with a duty under regulation 9 and—
+
+- (a) the relevant return is not delivered by the filing date; or
+- (b) the relevant return is delivered by the filing date but does not include the prescribed information;
+
+the prescribed information shall be provided separately to HMRC in such form and manner as they may specify.
+
+(8) In a case where—
+
+- (a) a person is required to provide information relating to more than one reference number;
+- (b) the information is included in a return under regulation 9; and
+- (c) the number of reference numbers in relation to which information is required exceeds the number of spaces allocated to the information on the return form;
+
+the information relating to so many of the reference numbers as exceeds the number of allocated spaces shall be provided separately to HMRC in such form and manner as they may specify.
+
+(9) In addition to the duty under any other paragraph above, or regulation 9, in a case where the arrangements give rise to a claim submitted separately from the return under—
+
+- (a) section 261B of the Taxation of Chargeable Gains Act 1992[^f00017] (treating trade loss etc as CGT loss); or
+- (b) Part 4 of the Income Tax Act 2007[^f00018] (loss relief);
+
+the prescribed information shall be provided separately to HMRC in such form and manner as they may specify.
+
+## 11. Prescribed information under section 313(1)[^key-4db67072b0628f400ac897c6da83334d]
+
+(1) For the purposes of section 313(1) (duty of parties to notify HMRC of reference number etc)[^key-84b0d271b540286184b15933aea826e3] the prescribed information is that specified in whichever of paragraph (2), (3) or (4) is applicable.
+
+(2) In cases prescribed in regulation 9 the prescribed information is—
+
+- (a) the reference number (or if more than one, any one reference number) allocated by HMRC under section 311 to the [^key-47486a598524e82ab5b1f427ae185415]... arrangements or proposed [^key-47486a598524e82ab5b1f427ae185415]... arrangements; and
+- (b) the year of assessment, tax year or accounting period (as the case may be) in which, or the date on which, the person providing the information expects a tax advantage to be obtained.
+
+(3) In the cases prescribed in regulation 10 (apart from paragraph (2) and any case relating to annual tax on enveloped dwellings[^key-bd6db5af41d82f35582a81e665756d39]) the prescribed information is—
+
+- (a) the name and address of the person providing it;
+- (b) any National Insurance number, tax reference number, PAYE reference number or other personal identifier allocated by HMRC to the person to whom the information relates;
+- (c) the reference number (or if more than one, any one reference number) allocated by HMRC under section 311 to the [^key-73fce897729888c5416a2a5cd716d15d]... arrangements or proposed [^key-73fce897729888c5416a2a5cd716d15d]... arrangements;
+- (d) the year of assessment, tax year or accounting period (as the case may be) in which, or the date on which, the person providing the information [^key-b835e89aee1fadc66a538498c664bec0]... expects to obtain a tax advantage by virtue of the [^key-dd69537891196a2cdf76a2b34f0e3a49]... arrangements;
+- (e) the name of the person providing the declaration as to the accuracy and completeness of the notification; and
+- (f) the capacity in which the person mentioned in sub-paragraph (e) is acting.
+
+(4) In the case prescribed at regulation 10(2) the prescribed information is —
+
+- (a) the name and address of the purchaser;
+- (b) the reference number (or if more than one, any one reference number) allocated by HMRC under section 311 to the [^key-f2ca3628c0e6a42683fe3b08b04512ab]... arrangements or proposed [^key-f2ca3628c0e6a42683fe3b08b04512ab]... arrangements;
+- (c) the address of the property forming the subject of the arrangements (“the property”);
+- (d) the title number of the property (if any is allocated);
+- (e) the unique transaction reference number[^f00019](if a land transaction return has been submitted to HMRC at the time the prescribed information is provided);
+- (f) the market value of the property, taking into account all chargeable interests in the property held by the same person or connected persons;
+- (g) the effective date of the first land transaction which forms part of the arrangements;
+- (h) the name of the person providing the declaration as to the accuracy and completeness of the notification; and
+- (i) the capacity in which that person is acting.
+
+(5)[^key-e5f0d317000f0119591321e8b0f25678] In the cases prescribed in regulation 10(6A), (7) and (8), where they relate to annual tax on enveloped dwellings, the prescribed information is—
+
+- (a) the name and address of the person providing the information;
+- (b) any tax reference number or other personal identifier allocated by HMRC or a foreign tax authority to the person to whom the information relates;
+- (c) where a foreign tax authority has allocated a personal identifier, the name of the country on behalf of which that foreign tax authority acts;
+- (d) the reference number (or if more than one, any one reference number) allocated by HMRC under section 311 to the [^key-e52da4c934dbabe5dc5b89ab2b444fd8]... arrangements or proposed [^key-e52da4c934dbabe5dc5b89ab2b444fd8]... arrangements;
+- (e) the address of the property forming the subject of the arrangements (“**the property**”);
+- (f) the title number of the property (if any is allocated);
+- (g) the first chargeable period (within the meaning of section 94(8) of the Finance Act 2013) in which the person providing the information expects to obtain a tax advantage by virtue of the [^key-0fe7d0fa6e8a85821a5c9d51f54586d6]... arrangements;
+- (h) the name of the person providing the declaration as to the accuracy and completeness of the notification, where different from information provided under sub-paragraph (a); and
+- (i) the capacity in which the person mentioned in sub-paragraph (h) is acting.
+
+## 12. Time for providing information under section 313(3)(b)[^key-a700577a40539bab4b6bc16ced502e96]
+
+(1) The prescribed times for providing information in the cases prescribed in regulation 10 are as follows.
+
+(2) In the case of regulation 10(2) any time during the period of 30 days beginning with the later of—
+
+- (a) the effective date of the first land transaction which forms part of the arrangements; or
+- (b) the date of the receipt of the reference number allocated under the provisions of section 311.
+
+(3)[^key-df4ad85ac6020e49c1328d988f70e013] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) In the case of regulation 10(5)—
+
+- (a) for regulation 10(5)(a), any time during the period ending on 31st January next following the end of the year of assessment in question;
+- (b) for regulation 10(5)(b), any time during the period ending on the date defined as the filing date for the purposes of paragraph 14 of Schedule 18 to the Finance Act 1998 in respect of the period of account in question;
+- (c) for regulation 10(5)(c), any time during the period ending on the earliest date by which the person in question could be required to file a return under section 12AA of the Taxes Management Act 1970, determined in accordance with whichever of subsections (4) and (5) of that section is applicable.
+
+(5) In the case of regulation 10(6) any time during the period of 12 months from the end of the month in which the first transaction forming part of the arrangements is entered into.
+
+(5A)[^key-fc56933bf05f34e9efc11d214636d768] In the cases of regulation 10(6A), (7) and (8), where it relates to annual tax on enveloped dwellings, any time during the period of 30 days beginning with the later of—
+
+- (a) the effective date of the first transaction which forms part of the arrangements; or
+- (b) the date of the receipt of the reference number allocated under the provisions of section 311.
+
+(5B)[^key-58ecf9e5375fdccc36c57ce03fd34ed9] In the case of regulation 10(6B) 14 days after the end of the final tax period in respect of the tax year in which any person first enters into a transaction forming part of the [^key-105033ecab7aef2d96594e9aec36c7f6]... arrangements and on the same date in each subsequent year until an advantage ceases to apply to any person.
+
+(5C) In paragraph (5B) “tax period” has the meaning given in regulation 2(1) (interpretation) of the Income Tax (Pay As You Earn) Regulations 2003.
+
+(6) In the case of regulation 10(7) and (8) , except where they relate to annual tax on enveloped dwellings,[^key-c54cec6256f1fccfecf229a0d2a01235] any time during the period ending on the filing date for the relevant return.
+
+(7) In the case of regulation 10(9) the time that the claim is made.
+
+## 13. Prescribed information under section 313ZA: information and timing[^key-97e73cab831950a646c7549d84eda54e]
+
+(1) For the purposes of section 313ZA(3) (duty to provide details of clients)[^key-1bbbb73ac63a6fd24d628d134a94501b]—
+
+- (a)[^key-bebd1243713544caf6b0a6f9cbe28680] the prescribed period is—
+  - (i) 30 days; or
+  - (ii) where the circumstances in sub-paragraph (d)(iii) apply, 60 days in respect of the information prescribed under sub-paragraph (b)(iii) only;
+- (b) the prescribed information is—
+  - (i)[^key-96eb1c198166632f9de2ca6fd0ecbeea] any relevant reference number;
+  - (ii) the name and address of each client in relation to whom the relevant date (within the meaning of section 312(3) or section 312ZA(3))[^key-5700b28a4591c46542b94ec3d6cbbc1f] occurs in the relevant period in relation to which the information is being provided;
+  - (iii)[^key-16970bed0b6556555524a7d15191466d] any identification number allocated by HMRC (“unique taxpayer number”) and national insurance number for each client in relation to whom the relevant date (within the meaning of section 312(3) or section 312ZA(3))[^key-641d9d30637e3023745a25ec3d49aca9] occurs in the relevant period in relation to which the information is being provided;
+  - (iv) the promoter’s or provider’s[^key-723d789b0e7ff69164d127cc7a9a0bbf] name and address; and
+  - (v) the end date of the relevant period in relation to which the information is being provided.
+- (ba)[^key-c698ab2516bc82ead4e47f11774fdad0] in sub-paragraph (b)(i), “relevant reference number” means a reference number allocated by HMRC under section 311 to—
+  - (i) the arrangements;
+  - (ii) the proposed arrangements; or
+  - (iii) arrangements which are substantially the same as the arrangements or proposed arrangements;
+
+  to which the information provided relates;
+- (c) in sub-paragraph (b)(ii), the address of the client is the address to which the prescribed information has been, or would have been, sent by the promoter under section 312 or the provider under section 312ZA;
+- (d)[^key-db88114ca00ce8c1f9a1e42cf6506efd] at the end of the prescribed period under sub-paragraph (a)(i), where the promoter is unable to provide any unique taxpayer number or national insurance number, the prescribed information under sub-paragraph (b) must include confirmation that one of the following applies—
+  - (i) the client has complied with section 312B and does not have a unique taxpayer number or national insurance number or has neither number;
+  - (ii) the client has not complied with section 312B;
+  - (iii) on the sixteenth day after the end of the relevant period, the prescribed period under regulation 8A(1)(a) had not yet expired;
+- (e) at the end of the prescribed period under sub-paragraph (a)(ii), where the promoter is unable to provide any unique taxpayer number or national insurance number, the prescribed information under sub-paragraph (b) must include confirmation that either sub-paragraph (d)(i) or sub-paragraph (d)(ii) applies.
+
+(2) For the purposes of section 313ZA(4) the relevant period is each calendar quarter.
+
+## 13A. Prescribed information under section 313ZB: information and timing[^key-b301744f8de238bf6a151f544f5ea7c5]
+
+(1) For the purposes of section 313ZB (enquiry following disclosure of client details)[^key-a34e89064a5401e661adf409d33d49da]—
+
+- (a) the prescribed period is 10 days from the date that the service provider[^key-33ff633e919f71f2820012ffd2705b25] receives the written notice under section 313ZB; and
+- (b) the prescribed information is—
+  - (i) the name and address of any person described in section 313ZB(2) (but only those who will, or are likely to, either sell the arrangements to another person, or achieve a tax advantage by implementing the arrangements);
+  - (ii) any identification number allocated by HMRC to any person mentioned at sub-paragraph (b)(i); and
+  - (iii) sufficient information as might reasonably be expected to enable an officer of HMRC to comprehend the manner in which any person mentioned at sub-paragraph (b)(i) is involved in the arrangements.
+
+(2) Paragraph (1)(b) only extends to information held by the service provider[^key-f3aa31983ba84e3f421488a75373cb0f] at the time of receipt of a written notice under section 313ZB(2).
+
+## 13B. Prescribed information under section 313ZC: information and timing[^key-de3659b74938bfb48d61b34603df269b]
+
+(1) For the purposes of section 313ZC (duty of employer to notify HMRC of details of employees etc) the prescribed time for providing prescribed information is 14 days after the end of the final tax period in respect of the tax year in which any person first enters into a transaction forming part of the [^key-462157075c7b6aa9ac8abc6364adc1e1]... arrangements and on the same date in each subsequent year until an advantage ceases to apply to the employee and the employer.
+
+- In this paragraph, “tax period” has the meaning given in regulation 2(1) (interpretation) of the Income Tax (Pay As You Earn) Regulations 2003.
+
+(2) For the purposes of section 313ZC the prescribed information is—
+
+- (a) the name, address and reference number of the employer;
+- (b) the name and any National Insurance Number of the employee;
+- (c) the reference number (or, if more than one, any one reference number) allocated by HMRC under section 311 (allocation of reference number to arrangements)[^key-3c77a550391ef22f3e14ba5389115f19] to the [^key-c7fd025f5332fb3eabd7f99f0026da15]... arrangements or proposed [^key-c7fd025f5332fb3eabd7f99f0026da15]... arrangements;
+- (d) where the employee obtains or might reasonably be expected to obtain a tax advantage by virtue of the [^key-8808b17677ad7ba5eaa3c7d420205926]... arrangements, the tax year in which the employee obtains or expects to obtain the tax advantage;
+- (e) where a tax advantage is obtained or might reasonably be expected to be obtained only by a person other than the employee by virtue of the [^key-81c751a9726f9d6413dfe7ae1e6a295f]... arrangements, confirmation that the employee’s tax advantage is expected to be nil; [^key-1015cfb09c32d716da5fe5d8cc27c3cb]...
+- (f)[^key-141cb447435d9152d3b0528de7faf4a6] the name and address of—
+  - (i) the promoter; or
+  - (ii) the person who is providing (or has provided) services to the employer in connection with the arrangements or proposal; and
+- (g) if the arrangements were notified under section 308, any name given to the arrangements.
+
+## 14. Time for providing information under section 313A and 313B[^key-52b699357dded26f7333f9ccbf467fa5]
+
+(1) In the case of a requirement under or by virtue of section 313A(1) (pre-disclosure enquiry), the prescribed period is the period of 10 days beginning on the day after that on which the notice is issued.
+
+(2) In the case of a requirement under or by virtue of section 313B(1) (reasons for non-disclosure: supporting information), the prescribed period is the period of 14 days beginning on the day after that on which the order is made.
+
+## 15. Prescribed information under section 313C: information and timing[^key-d8ab6d1351cf3bf949e4c3058d1ce647]
+
+(1) For the purposes of section 313C(1) (information provided to introducers) the prescribed information is –
+
+- (a) P’s name and address; [^key-ab5115681f76c84e7858f48d318c83ad]...
+- (b) the name and address of each person who has provided P with any information relating to the proposal ; and[^key-22512d8f2d4d69d1f407fd6574386305]
+- (c) the name and address of each person with whom P has made a marketing contact.
+
+(2) For the purposes of section 313C(3)(a) the prescribed period is 10 days.
+
+## 16. Higher rate of penalty following a failure to comply with an order under section 306A or 314A[^key-626706deaf43c29ed39cd6b647aef6bc]
+
+(1) For the purposes of section 98C(2A) of the Taxes Management Act 1970 (higher rate of penalty after the making of an order under section 306A) the prescribed period is the period of 10 days beginning on the date on which the order is made.
+
+(2) For the purposes of section 98C(2B) of the Taxes Management Act 1970 (higher rate of penalty after the making of an order under section 314A) the prescribed period is the period of 10 days beginning on the date on which the order is made.
+
+## 17. Electronic delivery of information[^key-d01480bc24344627ac8bda5aef1bb9b4]
+
+(1) Information required to be delivered to HMRC or to any other person by virtue of these Regulations may be delivered in such form and by such means of electronic communications as are for the time being authorised for that purpose.
+
+(2) The use of a particular means of electronic communications is authorised for the purposes of paragraph (1) only if—
+
+- (a) it is authorised by directions given by HMRC under section 132(5) of the Finance Act 1999[^f00021] (voluntary filing by electronic means of returns and other documents); and
+- (b) the user complies with any conditions imposed by HMRC under that section.
+
+(3) Nothing in this regulation prevents the delivery of information by electronic communications if the information is contained in a return which is—
+
+- (a) authorised to be delivered electronically by virtue of regulations under section 132 of the Finance Act 1999; or
+- (b) required to be so delivered by virtue of regulations under section 135 of the Finance Act 2002[^f00022] (mandatory e-filing).
+
+## 18. Amendment of the Tax Avoidance Schemes (Promoters and Prescribed Circumstances) Regulations 2004[^key-0ce62dc6b33f9ba809298f4998b63b4c]
+
+In regulation 6 of the Tax Avoidance Schemes (Promoters and Prescribed Circumstances) Regulations 2004[^f00023] for “paragraph (1) or (2) (as the case may be) of regulation 3 of the Tax Avoidance Schemes (Information) Regulations 2004” substitute “regulation 4(1) of the Tax Avoidance Schemes (Information) Regulations 2012”.
+
+Dave Hartnett
+
+Mike Eland
+
+Two of the Commissioners for Her Majesty’s Revenue and Customs
+
+12th July 2012
+
+## SCHEDULE — REVOCATIONS[^key-fad5df2181e7e5891ed8d87f64436207]
+
+Regulation 3
+
+|  |  |  |
+| --- | --- | --- |
+| **Statutory Instrument Number** | **Title of Regulations** | **Extent of revocation** |
+| [S.I.2004/1864](https://www.legislation.gov.uk/uksi/2004/1864) | The Tax Avoidance Schemes (Information) Regulations 2004 | The whole regulations |
+| [S.I. 2004/2613](https://www.legislation.gov.uk/uksi/2004/2613) | The Tax Avoidance Schemes (Promoters, Prescribed Circumstances and Information) (Amendment) Regulations 2004 | Regulation 3 |
+| [S.I. 2005/1869](https://www.legislation.gov.uk/uksi/2005/1869) | The Tax Avoidance Schemes (Information) (Amendment) Regulations 2005 | The whole regulations |
+| [S.I. 2006/1544](https://www.legislation.gov.uk/uksi/2006/1544) | The Tax Avoidance Schemes (Information) (Amendment) Regulations 2006 | The whole regulations |
+| [S.I. 2007/2153](https://www.legislation.gov.uk/uksi/2007/2153) | The Tax Avoidance Schemes (Information) (Amendment) Regulations 2007 | The whole regulations |
+| [S.I. 2007/3103](https://www.legislation.gov.uk/uksi/2007/3103) | The Tax Avoidance Schemes (Information) (Amendment) (No. 2) Regulations 2007 | The whole regulations |
+| [S.I. 2008/1947](https://www.legislation.gov.uk/uksi/2008/1947) | The Tax Avoidance Schemes (Information) (Amendment) Regulations 2008 | The whole regulations |
+| [S.I. 2009/611](https://www.legislation.gov.uk/uksi/2009/611) | The Tax Avoidance Schemes (Information) (Amendment) Regulations 2009 | The whole regulations |
+| [S.I. 2010/410](https://www.legislation.gov.uk/uksi/2010/410) | The Tax Avoidance Schemes (Information) (Amendment) Regulations 2010 | The whole regulations |
+| [S.I. 2010/2928](https://www.legislation.gov.uk/uksi/2010/2928) | The Tax Avoidance Schemes (Information) (Amendment) Regulations (No. 2) 2010 | The whole regulations |
+| [S.I. 2011/171](https://www.legislation.gov.uk/uksi/2011/171) | The Tax Avoidance Schemes (Information) (Amendment) Regulations 2011 | The whole regulations |
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations revoke and replace the Tax Avoidance Schemes (Information) Regulations 2004 ([S.I. 2004/1864](https://www.legislation.gov.uk/uksi/2004/1864)) (“the 2004 Regulations”) and consolidate all subsequent amendments to those Regulations with some minor further amendments.
+
+These regulations prescribe the information which is to be given to HMRC under Part 7 of the Finance Act 2004 (“the 2004 Act”) in relation to tax avoidance schemes which are prescribed by the Tax Avoidance Schemes (Prescribed Descriptions of Arrangements) Regulations 2006 ([S.I. 2006/1543](https://www.legislation.gov.uk/uksi/2006/1543)).
+
+Regulation 2 provides the interpretation of terms used in these Regulations.
+
+Regulation 3 revokes the 2004 Regulations and amending regulations (as set out in the Schedule to these Regulations) and provides that anything begun under the 2004 Regulations shall be continued under the corresponding provision of these Regulations.
+
+Regulations 4 to 15 prescribe (a) the information to be given in respect of notifiable proposals and arrangements under Part 7 of the 2004 Act (b) whether certain information is to be provided on a return or separately to HMRC and (c) except where information is included in a return, the time within which such information is to be provided.
+
+Regulation 16 provides the prescribed period for a higher rate of penalty under section 98C(2A) of the Taxes Management Act 1970 following a failure to comply with an order under section 306A or 314A of the 2004 Act.
+
+Regulation 17 provides for information required to be delivered to HMRC by virtue of these Regulations to be delivered by means of authorised electronic communications.
+
+Regulation 18 makes a consequential amendment to the Tax Avoidance Schemes (Promoters and Prescribed Circumstances) Regulations 2004 ([S.I. 2004/1865](https://www.legislation.gov.uk/uksi/2004/1865)).
+
+A Tax Information and Impact Note has not been prepared for this instrument as it contains no substantive changes to tax policy.
+
+## Annotations
+
+[^f00001]: Footnote: The functions of the Commissioners (Board) of Inland Revenue were transferred to the Commissioners for Her Majesty’s Revenue and Customs by section 5(2) of the Commissioners for Revenue and Customs Act [2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11). Section 50(1) of that Act provides that a reference to the Commissioners of Inland Revenue, however expressed, shall be taken as a reference to the Commissioners for Her Majesty’s Revenue and Customs.
+
+[^f00002]: Footnote: [1970 c. 9](https://www.legislation.gov.uk/ukpga/1970/9). Section 98C was inserted by section 315 of the Finance Act [2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12) and subsections (2A), (2B) and (2C) were inserted by section 108 of the Finance Act [2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11).
+
+[^f00003]: Footnote: [1999 c. 16](https://www.legislation.gov.uk/ukpga/1999/16). Section 132 was amended by paragraph 56 of Schedule 17 to the Communications Act [2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21).
+
+[^f00004]: Footnote: [2002 c. 23](https://www.legislation.gov.uk/ukpga/2002/23). Section 135 was amended by paragraphs 94 and 95 of the Commissioners for Revenue and Customs Act (c. 11) and sections 93(1) to (3) of the Finance Act 2007 (c. ).
+
+[^f00005]: Footnote: [2004 c. 12](https://www.legislation.gov.uk/ukpga/2004/12). Sections 306A, 308A, 313A and 313B were inserted by section 108 of the Finance Act [2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), section 313A was amended by paragraph 4 of Schedule 17 to the Finance Act [2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13) and section 313B was amended by [S.I. 2009/56](https://www.legislation.gov.uk/uksi/2009/56). Sections 308, 312 and 313 were amended by and section 312A inserted by Schedule 38 to the Finance Act [2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9). Sections 313ZA and 313C were inserted by and section 317 was amended by schedule 17 to the Finance Act 2010. Section 318(1) is cited because of the meaning of “prescribed”.
+
+[^key-62f7e812f4393e6c159df2d0547dcb15]: Modification: Regulations applied (with modifications) (1.9.2012) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) Regulations 2012 (S.I. 2012/1868)](https://www.legislation.gov.uk/uksi/2012/1868), [regs. 1](https://www.legislation.gov.uk/uksi/2012/1868/regulation/1), [26](https://www.legislation.gov.uk/uksi/2012/1868/regulation/26) (as amended (21.12.2017) by [S.I. 2017/1174](https://www.legislation.gov.uk/uksi/2017/1174), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1174/regulation/1/2), [14(b)](https://www.legislation.gov.uk/uksi/2017/1174/regulation/14/b) (as amended by [S.I. 2017/1308](https://www.legislation.gov.uk/uksi/2017/1308), [reg. 3](https://www.legislation.gov.uk/uksi/2017/1308/regulation/3)); and (1.6.2022) by [S.I. 2022/526](https://www.legislation.gov.uk/uksi/2022/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/526/regulation/1/2), [23](https://www.legislation.gov.uk/uksi/2022/526/regulation/23))
+
+[^key-2a983fa3649a43a00b46bc9049ceeca3]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2012/1836/regulation/1) in force at 1.9.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1836/regulation/1)
+
+[^key-e07506dbd4094e50c98cc603e9458d62]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2012/1836/regulation/2) in force at 1.9.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1836/regulation/1)
+
+[^f00006]: Footnote: [2003 c. 1](https://www.legislation.gov.uk/ukpga/2003/1).
+
+[^key-90ed7cbbff27ab2b1d262a0959643fe8]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/2012/1836/regulation/2/2) substituted (4.11.2013) by [The Tax Avoidance Schemes (Information) (Amendment, etc) Regulations 2013 (S.I. 2013/2592)](https://www.legislation.gov.uk/uksi/2013/2592), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2592/regulation/1), [4](https://www.legislation.gov.uk/uksi/2013/2592/regulation/4)
+
+[^key-5663be7187b2aab877690ceb0189b7c2]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/2012/1836/regulation/2/2) inserted (21.12.2017) by [The Tax Avoidance Schemes (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/1171)](https://www.legislation.gov.uk/uksi/2017/1171), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/1171/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2017/1171/regulation/6) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1171/regulation/1/2))
+
+[^key-53f4208e6e1d578fec5f882016dd91b9]: Textual amendment: Words in [reg. 2(3)](https://www.legislation.gov.uk/uksi/2012/1836/regulation/2/3) inserted (4.11.2013) by [The Tax Avoidance Schemes (Information) (Amendment, etc) Regulations 2013 (S.I. 2013/2592)](https://www.legislation.gov.uk/uksi/2013/2592), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2592/regulation/1), [15](https://www.legislation.gov.uk/uksi/2013/2592/regulation/15)
+
+[^f00007]: Footnote: [1882 c. 61](https://www.legislation.gov.uk/ukpga/1882/61). Section 92 was amended by sections 3 and 4 of the Banking and Financial Dealings Act [1971 (c. 80)](https://www.legislation.gov.uk/ukpga/1971/80).
+
+[^f00008]: Footnote: [2003 c. 14](https://www.legislation.gov.uk/ukpga/2003/14).
+
+[^key-27ff8cfe95f83b6faf5f96c925ac630f]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2012/1836/regulation/3) in force at 1.9.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1836/regulation/1)
+
+[^key-468b3e4742e929ae99d935dc8558eae3]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2012/1836/regulation/4) in force at 1.9.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1836/regulation/1)
+
+[^key-471fd3cc39e4ee0aa9780a70b968509a]: Textual amendment: Words in [reg. 4(1)(b)](https://www.legislation.gov.uk/uksi/2012/1836/regulation/4/1/b) inserted (4.11.2013) by [The Tax Avoidance Schemes (Information) (Amendment, etc) Regulations 2013 (S.I. 2013/2592)](https://www.legislation.gov.uk/uksi/2013/2592), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2592/regulation/1), [5](https://www.legislation.gov.uk/uksi/2013/2592/regulation/5)
+
+[^key-37b73b191750cd5e352f04bf0dcf280c]: Textual amendment: Words in [reg. 4(2)(c)](https://www.legislation.gov.uk/uksi/2012/1836/regulation/4/2/c) inserted (4.11.2013) by [The Tax Avoidance Schemes (Information) (Amendment, etc) Regulations 2013 (S.I. 2013/2592)](https://www.legislation.gov.uk/uksi/2013/2592), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2592/regulation/1), [6](https://www.legislation.gov.uk/uksi/2013/2592/regulation/6)
+
+[^key-817433b1f3199dfdd0d9df9ad5f0241e]: Textual amendment: Words in [reg. 4(3)(b)](https://www.legislation.gov.uk/uksi/2012/1836/regulation/4/3/b) inserted (4.11.2013) by [The Tax Avoidance Schemes (Information) (Amendment, etc) Regulations 2013 (S.I. 2013/2592)](https://www.legislation.gov.uk/uksi/2013/2592), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2592/regulation/1), [7](https://www.legislation.gov.uk/uksi/2013/2592/regulation/7)
+
+[^f00009]: Footnote: [S.I. 2006/1543](https://www.legislation.gov.uk/uksi/2006/1543).
+
+[^key-35f8a9a859ba0341779d089b64c13a31]: Textual amendment: Words in [reg. 4(5)](https://www.legislation.gov.uk/uksi/2012/1836/regulation/4/5) inserted (4.11.2013) by [The Tax Avoidance Schemes (Information) (Amendment, etc) Regulations 2013 (S.I. 2013/2592)](https://www.legislation.gov.uk/uksi/2013/2592), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2592/regulation/1), [8](https://www.legislation.gov.uk/uksi/2013/2592/regulation/8)
+
+[^key-8ae41c871b68f286a876b9457b044319]: Textual amendment: Word in [reg. 4(5)](https://www.legislation.gov.uk/uksi/2012/1836/regulation/4/5) substituted (1.4.2018) by [The Inheritance Tax Avoidance Schemes (Prescribed Descriptions of Arrangements) Regulations 2017 (S.I. 2017/1172)](https://www.legislation.gov.uk/uksi/2017/1172), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/1172/regulation/1/1), [6(2)](https://www.legislation.gov.uk/uksi/2017/1172/regulation/6/2) (with [reg. 1](https://www.legislation.gov.uk/uksi/2017/1172/regulation/1))
+
+[^f00011]: Footnote: [S.I. 2005/1869](https://www.legislation.gov.uk/uksi/2005/1869).
+
+[^key-5afa2d208d6c664ebfc064979eee17d1]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2012/1836/regulation/5) in force at 1.9.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1836/regulation/1)
+
+[^key-3709681289e28a5e70e6f0c1333e5ced]: Modification: [Reg. 5](https://www.legislation.gov.uk/uksi/2012/1836/regulation/5) modified (4.11.2013) by [The Tax Avoidance Schemes (Information) (Amendment, etc) Regulations 2013 (S.I. 2013/2592)](https://www.legislation.gov.uk/uksi/2013/2592), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2592/regulation/1), [2(1)](https://www.legislation.gov.uk/uksi/2013/2592/regulation/2/1)
+
+[^f00012]: Footnote: [S.I. 2004/1865](https://www.legislation.gov.uk/uksi/2004/1865) as amended by [S.I. 2004/2613](https://www.legislation.gov.uk/uksi/2004/2613).
+
+[^key-67f0467060d01930e356af064017fe9e]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2012/1836/regulation/6) in force at 1.9.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1836/regulation/1)
+
+[^key-bf124d9f058bae02e8cb7b87315278b0]: Textual amendment: Word in [reg. 6](https://www.legislation.gov.uk/uksi/2012/1836/regulation/6) heading inserted (30.9.2021) by [The Tax Avoidance Schemes (Information) (Amendment) Regulations 2021 (S.I. 2021/980)](https://www.legislation.gov.uk/uksi/2021/980), [regs. 1](https://www.legislation.gov.uk/uksi/2021/980/regulation/1), [3(a)](https://www.legislation.gov.uk/uksi/2021/980/regulation/3/a)
+
+[^key-facc07c4e7e67faad278890a039e65c4]: Textual amendment: Words in [reg. 6](https://www.legislation.gov.uk/uksi/2012/1836/regulation/6) substituted (30.9.2021) by [The Tax Avoidance Schemes (Information) (Amendment) Regulations 2021 (S.I. 2021/980)](https://www.legislation.gov.uk/uksi/2021/980), [regs. 1](https://www.legislation.gov.uk/uksi/2021/980/regulation/1), [3(b)](https://www.legislation.gov.uk/uksi/2021/980/regulation/3/b)
+
+[^key-3928228d7478219dbc44ad2f9125fa68]: Textual amendment: Words in [reg. 6](https://www.legislation.gov.uk/uksi/2012/1836/regulation/6) substituted (16.4.2015) by [The Tax Avoidance Schemes (Information) (Amendment) Regulations 2015 (S.I. 2015/948)](https://www.legislation.gov.uk/uksi/2015/948), [regs. 1](https://www.legislation.gov.uk/uksi/2015/948/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2015/948/regulation/3/2)
+
+[^key-8dd5abc0722ab1a223aca691bbcb8511]: Textual amendment: Words in [reg. 6(a)](https://www.legislation.gov.uk/uksi/2012/1836/regulation/6/a) inserted (30.9.2021) by [The Tax Avoidance Schemes (Information) (Amendment) Regulations 2021 (S.I. 2021/980)](https://www.legislation.gov.uk/uksi/2021/980), [regs. 1](https://www.legislation.gov.uk/uksi/2021/980/regulation/1), [3(c)](https://www.legislation.gov.uk/uksi/2021/980/regulation/3/c)
+
+[^key-2bec8e66197cfc8331f1e27cb159b0c7]: Textual amendment: Words in [reg. 6(b)](https://www.legislation.gov.uk/uksi/2012/1836/regulation/6/b) substituted (30.9.2021) by [The Tax Avoidance Schemes (Information) (Amendment) Regulations 2021 (S.I. 2021/980)](https://www.legislation.gov.uk/uksi/2021/980), [regs. 1](https://www.legislation.gov.uk/uksi/2021/980/regulation/1), [3(d)](https://www.legislation.gov.uk/uksi/2021/980/regulation/3/d)
+
+[^key-a1aff61e834209bced86f1c132488138]: Textual amendment: [Reg. 6(c)](https://www.legislation.gov.uk/uksi/2012/1836/regulation/6/c) substituted (30.9.2021) by [The Tax Avoidance Schemes (Information) (Amendment) Regulations 2021 (S.I. 2021/980)](https://www.legislation.gov.uk/uksi/2021/980), [regs. 1](https://www.legislation.gov.uk/uksi/2021/980/regulation/1), [3(e)](https://www.legislation.gov.uk/uksi/2021/980/regulation/3/e)
+
+[^key-4c14df4d2a65c9ca7ccb20f60fc3ec70]: Textual amendment: [Reg. 6(d)(i)](https://www.legislation.gov.uk/uksi/2012/1836/regulation/6/d/i) substituted (30.9.2021) by [The Tax Avoidance Schemes (Information) (Amendment) Regulations 2021 (S.I. 2021/980)](https://www.legislation.gov.uk/uksi/2021/980), [regs. 1](https://www.legislation.gov.uk/uksi/2021/980/regulation/1), [3(f)](https://www.legislation.gov.uk/uksi/2021/980/regulation/3/f)
+
+[^key-b204f76d9b5c5835bbd08105d7d238dc]: Textual amendment: Words in [reg. 6(d)(ii)](https://www.legislation.gov.uk/uksi/2012/1836/regulation/6/d/ii) inserted (16.4.2015) by [The Tax Avoidance Schemes (Information) (Amendment) Regulations 2015 (S.I. 2015/948)](https://www.legislation.gov.uk/uksi/2015/948), [regs. 1](https://www.legislation.gov.uk/uksi/2015/948/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2015/948/regulation/3/3)
+
+[^key-f2b8d3ce6e134540a4ebb101b8e38a21]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/uksi/2012/1836/regulation/7) substituted (30.9.2021) by [The Tax Avoidance Schemes (Information) (Amendment) Regulations 2021 (S.I. 2021/980)](https://www.legislation.gov.uk/uksi/2021/980), [regs. 1](https://www.legislation.gov.uk/uksi/2021/980/regulation/1), [4](https://www.legislation.gov.uk/uksi/2021/980/regulation/4)
+
+[^key-30897cf1f86c266f30b44c0591f20663]: Textual amendment: [Reg. 8](https://www.legislation.gov.uk/uksi/2012/1836/regulation/8) omitted (16.4.2015) by virtue of [The Tax Avoidance Schemes (Information) (Amendment) Regulations 2015 (S.I. 2015/948)](https://www.legislation.gov.uk/uksi/2015/948), [regs. 1](https://www.legislation.gov.uk/uksi/2015/948/regulation/1), [5](https://www.legislation.gov.uk/uksi/2015/948/regulation/5)
+
+[^key-1f259ff0a40cf66152a4aaeb4fa9ce77]: Textual amendment: [Reg. 8A](https://www.legislation.gov.uk/uksi/2012/1836/regulation/8A) inserted (4.11.2013) by [The Tax Avoidance Schemes (Information) (Amendment, etc) Regulations 2013 (S.I. 2013/2592)](https://www.legislation.gov.uk/uksi/2013/2592), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2592/regulation/1), [16](https://www.legislation.gov.uk/uksi/2013/2592/regulation/16)
+
+[^key-7e110c5dd7f2c69a9573e4191369b334]: Textual amendment: Words in [reg. 8A(1)](https://www.legislation.gov.uk/uksi/2012/1836/regulation/8A/1) substituted (30.9.2021) by [The Tax Avoidance Schemes (Information) (Amendment) Regulations 2021 (S.I. 2021/980)](https://www.legislation.gov.uk/uksi/2021/980), [regs. 1](https://www.legislation.gov.uk/uksi/2021/980/regulation/1), [5(a)](https://www.legislation.gov.uk/uksi/2021/980/regulation/5/a)
+
+[^key-769b2b04108e41bdcdafbe70f375ced9]: Textual amendment: [Reg. 8A(1)(a)](https://www.legislation.gov.uk/uksi/2012/1836/regulation/8A/1/a) substituted (30.9.2021) by [The Tax Avoidance Schemes (Information) (Amendment) Regulations 2021 (S.I. 2021/980)](https://www.legislation.gov.uk/uksi/2021/980), [regs. 1](https://www.legislation.gov.uk/uksi/2021/980/regulation/1), [5(b)](https://www.legislation.gov.uk/uksi/2021/980/regulation/5/b)
+
+[^key-861e2901c059f52b15160c05294cf354]: Textual amendment: [Reg. 8B](https://www.legislation.gov.uk/uksi/2012/1836/regulation/8B) inserted (16.4.2015) by [The Tax Avoidance Schemes (Information) (Amendment) Regulations 2015 (S.I. 2015/948)](https://www.legislation.gov.uk/uksi/2015/948), [regs. 1](https://www.legislation.gov.uk/uksi/2015/948/regulation/1), [6](https://www.legislation.gov.uk/uksi/2015/948/regulation/6)
+
+[^key-6c7075fea31b78cc81878ae4e9901f2f]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2012/1836/regulation/9) in force at 1.9.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1836/regulation/1)
+
+[^key-f22635d545006c25a32a0e2dcfc987bd]: Textual amendment: Word in [reg. 9(2)](https://www.legislation.gov.uk/uksi/2012/1836/regulation/9/2) substituted (16.4.2015) by [The Tax Avoidance Schemes (Information) (Amendment) Regulations 2015 (S.I. 2015/948)](https://www.legislation.gov.uk/uksi/2015/948), [regs. 1](https://www.legislation.gov.uk/uksi/2015/948/regulation/1), [7](https://www.legislation.gov.uk/uksi/2015/948/regulation/7)
+
+[^key-6072f5fbd6e5b5190169f7091c2978c7]: Textual amendment: Word in [reg. 9(2)(a)](https://www.legislation.gov.uk/uksi/2012/1836/regulation/9/2/a) omitted (30.9.2021) by virtue of [The Tax Avoidance Schemes (Information) (Amendment) Regulations 2021 (S.I. 2021/980)](https://www.legislation.gov.uk/uksi/2021/980), [regs. 1](https://www.legislation.gov.uk/uksi/2021/980/regulation/1), [6(a)](https://www.legislation.gov.uk/uksi/2021/980/regulation/6/a)
+
+[^f00013]: Footnote: Sections 8 and 8A were substituted by section 90 of the Finance Act [1990 (c.29)](https://www.legislation.gov.uk/ukpga/1990/29). Section 8 was amended by sections 178 and 199 of the Finance Act [1994 (c. 9)](https://www.legislation.gov.uk/ukpga/1994/9), section 104 of the Finance Act 1995 (c.4 ) section 121 of the Finance Act [1996 (c. 8)](https://www.legislation.gov.uk/ukpga/1996/8), paragraphs 357 and 359 of Schedule 1 to the Income Tax (Trading and Other Income) Act [2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), paragraphs 7 and 8 of Schedule 12 to the Finance Act [2008 (c. 36)](https://www.legislation.gov.uk/ukpga/2008/36), paragraph 9 of Schedule 19 of the Finance Act [2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10) and paragraphs 11 and 12 of Schedule 7 to the Taxation (International etc) Act [2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8). Section 8A was amended by sections 178 and 199 of the Finance Act 1994, section 103 of the Finance Act 1995, section 121 of the Finance Act 1996, paragraphs 357 and 360 of Schedule 1 to the Income Tax (Trading and Other Income) Act 2005, paragraphs 7 and 9 of Schedule 12 to the Finance Act 2008 and paragraph 9 of Schedule 19 to the Finance Act 2009.
+
+[^key-9af794dfb6fcdf0a71b3fca4c3338a00]: Textual amendment: Word in [reg. 9(2)](https://www.legislation.gov.uk/uksi/2012/1836/regulation/9/2) omitted (30.9.2021) by virtue of [The Tax Avoidance Schemes (Information) (Amendment) Regulations 2021 (S.I. 2021/980)](https://www.legislation.gov.uk/uksi/2021/980), [regs. 1](https://www.legislation.gov.uk/uksi/2021/980/regulation/1), [6(b)](https://www.legislation.gov.uk/uksi/2021/980/regulation/6/b)
+
+[^key-7c59c8db07dcb7d14655f3580f5815e6]: Textual amendment: Word in [reg. 9(3)](https://www.legislation.gov.uk/uksi/2012/1836/regulation/9/3) substituted (16.4.2015) by [The Tax Avoidance Schemes (Information) (Amendment) Regulations 2015 (S.I. 2015/948)](https://www.legislation.gov.uk/uksi/2015/948), [regs. 1](https://www.legislation.gov.uk/uksi/2015/948/regulation/1), [7](https://www.legislation.gov.uk/uksi/2015/948/regulation/7)
+
+[^key-4a58457045f509e4984d9e051882c21a]: Textual amendment: Word in [reg. 9(3)(a)](https://www.legislation.gov.uk/uksi/2012/1836/regulation/9/3/a) omitted (30.9.2021) by virtue of [The Tax Avoidance Schemes (Information) (Amendment) Regulations 2021 (S.I. 2021/980)](https://www.legislation.gov.uk/uksi/2021/980), [regs. 1](https://www.legislation.gov.uk/uksi/2021/980/regulation/1), [6(c)](https://www.legislation.gov.uk/uksi/2021/980/regulation/6/c)
+
+[^f00014]: Footnote: [1998 c. 36](https://www.legislation.gov.uk/ukpga/1998/36). Paragraph 3 was amended by paragraphs 380 and 385 of Schedule 1 to the Income Tax Act [2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3).
+
+[^key-3d2f5588da7d1d2d61d25b4151be33bf]: Textual amendment: Word in [reg. 9(3)](https://www.legislation.gov.uk/uksi/2012/1836/regulation/9/3) omitted (30.9.2021) by virtue of [The Tax Avoidance Schemes (Information) (Amendment) Regulations 2021 (S.I. 2021/980)](https://www.legislation.gov.uk/uksi/2021/980), [regs. 1](https://www.legislation.gov.uk/uksi/2021/980/regulation/1), [6(d)](https://www.legislation.gov.uk/uksi/2021/980/regulation/6/d)
+
+[^key-78d357d902fbbdcbef08efebfc976efa]: Textual amendment: Word in [reg. 9(4)](https://www.legislation.gov.uk/uksi/2012/1836/regulation/9/4) substituted (16.4.2015) by [The Tax Avoidance Schemes (Information) (Amendment) Regulations 2015 (S.I. 2015/948)](https://www.legislation.gov.uk/uksi/2015/948), [regs. 1](https://www.legislation.gov.uk/uksi/2015/948/regulation/1), [7](https://www.legislation.gov.uk/uksi/2015/948/regulation/7)
+
+[^key-f76a1d6035eb0766a3df9ccebd9f5ba0]: Textual amendment: Word in [reg. 9(4)(a)](https://www.legislation.gov.uk/uksi/2012/1836/regulation/9/4/a) omitted (30.9.2021) by virtue of [The Tax Avoidance Schemes (Information) (Amendment) Regulations 2021 (S.I. 2021/980)](https://www.legislation.gov.uk/uksi/2021/980), [regs. 1](https://www.legislation.gov.uk/uksi/2021/980/regulation/1), [6(e)](https://www.legislation.gov.uk/uksi/2021/980/regulation/6/e)
+
+[^f00015]: Footnote: Section 12AA was inserted by sections 184 and 199 of the Finance Act 1994 and was amended by section 104 of the Finance Act 1995, section 121, 123 and 124 of the Finance Act 1996, paragraph 18 of Schedule 29 to the Finance Act [2001 (c. 9)](https://www.legislation.gov.uk/ukpga/2001/9), paragraphs 357 and 363 of Schedule 1 to the Income Tax (Trading and Other Income) Act 2005, paragraphs 7 and 11 of the Finance Act 2008, paragraph 9 of Schedule 19 to the Finance Act 2009 and [S.I. 2009/2035](https://www.legislation.gov.uk/uksi/2009/2035).
+
+[^key-618abbc57918163527accefb5b633377]: Textual amendment: Word in [reg. 9(4)](https://www.legislation.gov.uk/uksi/2012/1836/regulation/9/4) omitted (30.9.2021) by virtue of [The Tax Avoidance Schemes (Information) (Amendment) Regulations 2021 (S.I. 2021/980)](https://www.legislation.gov.uk/uksi/2021/980), [regs. 1](https://www.legislation.gov.uk/uksi/2021/980/regulation/1), [6(f)](https://www.legislation.gov.uk/uksi/2021/980/regulation/6/f)
+
+[^key-e1d87551ef12241b60591fdce09c28ad]: Textual amendment: Word in [reg. 9(5)(a)](https://www.legislation.gov.uk/uksi/2012/1836/regulation/9/5/a) omitted (30.9.2021) by virtue of [The Tax Avoidance Schemes (Information) (Amendment) Regulations 2021 (S.I. 2021/980)](https://www.legislation.gov.uk/uksi/2021/980), [regs. 1](https://www.legislation.gov.uk/uksi/2021/980/regulation/1), [6(g)](https://www.legislation.gov.uk/uksi/2021/980/regulation/6/g)
+
+[^f00016]: Footnote: [1984 c. 51](https://www.legislation.gov.uk/ukpga/1984/51). Section 216 has been amended by paragraph 11 of Schedule 26 of the Finance Act 1985 (c. ), paragraph 29 of Schedule 19 to the Finance Act [1986 (c. 41)](https://www.legislation.gov.uk/ukpga/1986/41), section 105 of the Finance Act [1999 (c. 16)](https://www.legislation.gov.uk/ukpga/1999/16), paragraph 4 of Schedule 7 to the Finance (No. 2) Act [1987 (c. 51)](https://www.legislation.gov.uk/ukpga/1987/51), paragraphs 19, 24 and 29 of Schedule 19 to the Finance Act [2007 (c.11)](https://www.legislation.gov.uk/ukpga/2007/11), paragraphs 6 and 12 of Schedule 28 to the Finance Act [2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9) and paragraphs 49 and 54 of Schedule 16 to the Finance Act [2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11).
+
+[^key-f4a6aac8190752a977e938b1b03b8e6a]: Textual amendment: Word in [reg. 9(5)(b)](https://www.legislation.gov.uk/uksi/2012/1836/regulation/9/5/b) omitted (30.9.2021) by virtue of [The Tax Avoidance Schemes (Information) (Amendment) Regulations 2021 (S.I. 2021/980)](https://www.legislation.gov.uk/uksi/2021/980), [regs. 1](https://www.legislation.gov.uk/uksi/2021/980/regulation/1), [6(h)](https://www.legislation.gov.uk/uksi/2021/980/regulation/6/h)
+
+[^key-e6e56cd194792f2c6fc83d7e45a8ea6c]: Textual amendment: [Reg. 9(6)](https://www.legislation.gov.uk/uksi/2012/1836/regulation/9/6) inserted (4.11.2013) by [The Tax Avoidance Schemes (Information) (Amendment, etc) Regulations 2013 (S.I. 2013/2592)](https://www.legislation.gov.uk/uksi/2013/2592), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2592/regulation/1), [9](https://www.legislation.gov.uk/uksi/2013/2592/regulation/9)
+
+[^key-a249991123fc7491af0ccabb9b4464dd]: Textual amendment: Word in [reg. 9(6)(a)](https://www.legislation.gov.uk/uksi/2012/1836/regulation/9/6/a) omitted (30.9.2021) by virtue of [The Tax Avoidance Schemes (Information) (Amendment) Regulations 2021 (S.I. 2021/980)](https://www.legislation.gov.uk/uksi/2021/980), [regs. 1](https://www.legislation.gov.uk/uksi/2021/980/regulation/1), [6(i)](https://www.legislation.gov.uk/uksi/2021/980/regulation/6/i)
+
+[^key-90d3a09071e0b66b5e610e6c34f2d7b1]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2012/1836/regulation/10) in force at 1.9.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1836/regulation/1)
+
+[^key-00009388c8f58ffeb39fcb6febff7fb9]: Textual amendment: Word in [reg. 10(2)](https://www.legislation.gov.uk/uksi/2012/1836/regulation/10/2) omitted (30.9.2021) by virtue of [The Tax Avoidance Schemes (Information) (Amendment) Regulations 2021 (S.I. 2021/980)](https://www.legislation.gov.uk/uksi/2021/980), [regs. 1](https://www.legislation.gov.uk/uksi/2021/980/regulation/1), [7(a)](https://www.legislation.gov.uk/uksi/2021/980/regulation/7/a)
+
+[^key-7340a96e551a7e844990c3527a7d89b9]: Textual amendment: [Reg. 10(4)](https://www.legislation.gov.uk/uksi/2012/1836/regulation/10/4) omitted (16.4.2015) by virtue of [The Tax Avoidance Schemes (Information) (Amendment) Regulations 2015 (S.I. 2015/948)](https://www.legislation.gov.uk/uksi/2015/948), [regs. 1](https://www.legislation.gov.uk/uksi/2015/948/regulation/1), [8](https://www.legislation.gov.uk/uksi/2015/948/regulation/8)
+
+[^key-90bf7613be3f2bb9780cb1bd110aa589]: Textual amendment: Word in [reg. 10(5)(a)](https://www.legislation.gov.uk/uksi/2012/1836/regulation/10/5/a) omitted (30.9.2021) by virtue of [The Tax Avoidance Schemes (Information) (Amendment) Regulations 2021 (S.I. 2021/980)](https://www.legislation.gov.uk/uksi/2021/980), [regs. 1](https://www.legislation.gov.uk/uksi/2021/980/regulation/1), [7(b)](https://www.legislation.gov.uk/uksi/2021/980/regulation/7/b)
+
+[^key-b1bd370de68b7ca9317f5ece08891d91]: Textual amendment: Word in [reg. 10(5)(b)](https://www.legislation.gov.uk/uksi/2012/1836/regulation/10/5/b) omitted (30.9.2021) by virtue of [The Tax Avoidance Schemes (Information) (Amendment) Regulations 2021 (S.I. 2021/980)](https://www.legislation.gov.uk/uksi/2021/980), [regs. 1](https://www.legislation.gov.uk/uksi/2021/980/regulation/1), [7(c)](https://www.legislation.gov.uk/uksi/2021/980/regulation/7/c)
+
+[^key-ddb199c8cfb79e11643cc7408908c36e]: Textual amendment: Word in [reg. 10(5)(c)](https://www.legislation.gov.uk/uksi/2012/1836/regulation/10/5/c) omitted (30.9.2021) by virtue of [The Tax Avoidance Schemes (Information) (Amendment) Regulations 2021 (S.I. 2021/980)](https://www.legislation.gov.uk/uksi/2021/980), [regs. 1](https://www.legislation.gov.uk/uksi/2021/980/regulation/1), [7(d)](https://www.legislation.gov.uk/uksi/2021/980/regulation/7/d)
+
+[^key-ccbe9c322df1ab56e36caa93897a6f13]: Textual amendment: Word in [reg. 10(6)(a)](https://www.legislation.gov.uk/uksi/2012/1836/regulation/10/6/a) omitted (30.9.2021) by virtue of [The Tax Avoidance Schemes (Information) (Amendment) Regulations 2021 (S.I. 2021/980)](https://www.legislation.gov.uk/uksi/2021/980), [regs. 1](https://www.legislation.gov.uk/uksi/2021/980/regulation/1), [7(e)](https://www.legislation.gov.uk/uksi/2021/980/regulation/7/e)
+
+[^key-31755a933bfe994f9e159146b27ef2ed]: Textual amendment: Word in [reg. 10(6)(b)](https://www.legislation.gov.uk/uksi/2012/1836/regulation/10/6/b) omitted (30.9.2021) by virtue of [The Tax Avoidance Schemes (Information) (Amendment) Regulations 2021 (S.I. 2021/980)](https://www.legislation.gov.uk/uksi/2021/980), [regs. 1](https://www.legislation.gov.uk/uksi/2021/980/regulation/1), [7(f)](https://www.legislation.gov.uk/uksi/2021/980/regulation/7/f)
+
+[^key-70348c209b89eb544283edaa3fb62667]: Textual amendment: [Reg. 10(6A)](https://www.legislation.gov.uk/uksi/2012/1836/regulation/10/6A) inserted (4.11.2013) by [The Tax Avoidance Schemes (Information) (Amendment, etc) Regulations 2013 (S.I. 2013/2592)](https://www.legislation.gov.uk/uksi/2013/2592), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2592/regulation/1), [10](https://www.legislation.gov.uk/uksi/2013/2592/regulation/10)
+
+[^key-b159652016d200f67615fd4b1c81c875]: Textual amendment: Word in [reg. 10(6A)(a)](https://www.legislation.gov.uk/uksi/2012/1836/regulation/10/6A/a) omitted (30.9.2021) by virtue of [The Tax Avoidance Schemes (Information) (Amendment) Regulations 2021 (S.I. 2021/980)](https://www.legislation.gov.uk/uksi/2021/980), [regs. 1](https://www.legislation.gov.uk/uksi/2021/980/regulation/1), [7(g)](https://www.legislation.gov.uk/uksi/2021/980/regulation/7/g)
+
+[^key-05c2d952db3b2eb5e6a487f787a681ff]: Textual amendment: Word in [reg. 10(6A)(b)](https://www.legislation.gov.uk/uksi/2012/1836/regulation/10/6A/b) omitted (30.9.2021) by virtue of [The Tax Avoidance Schemes (Information) (Amendment) Regulations 2021 (S.I. 2021/980)](https://www.legislation.gov.uk/uksi/2021/980), [regs. 1](https://www.legislation.gov.uk/uksi/2021/980/regulation/1), [7(h)](https://www.legislation.gov.uk/uksi/2021/980/regulation/7/h)
+
+[^key-528f4ef6d13350ba9541b3e996ca554f]: Textual amendment: [Reg. 10(6B)](https://www.legislation.gov.uk/uksi/2012/1836/regulation/10/6B) inserted (21.12.2017) by [The Tax Avoidance Schemes (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/1171)](https://www.legislation.gov.uk/uksi/2017/1171), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/1171/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2017/1171/regulation/7) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1171/regulation/1/2))
+
+[^key-d8307ea332066d8ad66d7c443cd4508a]: Textual amendment: Word in [reg. 10(6B)](https://www.legislation.gov.uk/uksi/2012/1836/regulation/10/6B) omitted (30.9.2021) by virtue of [The Tax Avoidance Schemes (Information) (Amendment) Regulations 2021 (S.I. 2021/980)](https://www.legislation.gov.uk/uksi/2021/980), [regs. 1](https://www.legislation.gov.uk/uksi/2021/980/regulation/1), [7(i)](https://www.legislation.gov.uk/uksi/2021/980/regulation/7/i)
+
+[^f00017]: Footnote: [1992 c. 12](https://www.legislation.gov.uk/ukpga/1992/12). Section 261B was inserted by paragraph 329 of Schedule 1 to the Income Tax Act [2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3).
+
+[^f00018]: Footnote: [2007 c. 3](https://www.legislation.gov.uk/ukpga/2007/3).
+
+[^key-4db67072b0628f400ac897c6da83334d]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2012/1836/regulation/11) in force at 1.9.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1836/regulation/1)
+
+[^key-84b0d271b540286184b15933aea826e3]: Textual amendment: Words in [reg. 11(1)](https://www.legislation.gov.uk/uksi/2012/1836/regulation/11/1) substituted (30.9.2021) by [The Tax Avoidance Schemes (Information) (Amendment) Regulations 2021 (S.I. 2021/980)](https://www.legislation.gov.uk/uksi/2021/980), [regs. 1](https://www.legislation.gov.uk/uksi/2021/980/regulation/1), [8(a)](https://www.legislation.gov.uk/uksi/2021/980/regulation/8/a)
+
+[^key-47486a598524e82ab5b1f427ae185415]: Textual amendment: Word in [reg. 11(2)(a)](https://www.legislation.gov.uk/uksi/2012/1836/regulation/11/2/a) omitted (30.9.2021) by virtue of [The Tax Avoidance Schemes (Information) (Amendment) Regulations 2021 (S.I. 2021/980)](https://www.legislation.gov.uk/uksi/2021/980), [regs. 1](https://www.legislation.gov.uk/uksi/2021/980/regulation/1), [8(b)](https://www.legislation.gov.uk/uksi/2021/980/regulation/8/b)
+
+[^key-bd6db5af41d82f35582a81e665756d39]: Textual amendment: Words in [reg. 11(3)](https://www.legislation.gov.uk/uksi/2012/1836/regulation/11/3) inserted (4.11.2013) by [The Tax Avoidance Schemes (Information) (Amendment, etc) Regulations 2013 (S.I. 2013/2592)](https://www.legislation.gov.uk/uksi/2013/2592), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2592/regulation/1), [11](https://www.legislation.gov.uk/uksi/2013/2592/regulation/11)
+
+[^key-73fce897729888c5416a2a5cd716d15d]: Textual amendment: Word in [reg. 11(3)(c)](https://www.legislation.gov.uk/uksi/2012/1836/regulation/11/3/c) omitted (30.9.2021) by virtue of [The Tax Avoidance Schemes (Information) (Amendment) Regulations 2021 (S.I. 2021/980)](https://www.legislation.gov.uk/uksi/2021/980), [regs. 1](https://www.legislation.gov.uk/uksi/2021/980/regulation/1), [8(c)](https://www.legislation.gov.uk/uksi/2021/980/regulation/8/c)
+
+[^key-b835e89aee1fadc66a538498c664bec0]: Textual amendment: Words in [reg. 11(3)(d)](https://www.legislation.gov.uk/uksi/2012/1836/regulation/11/3/d) omitted (16.4.2015) by virtue of [The Tax Avoidance Schemes (Information) (Amendment) Regulations 2015 (S.I. 2015/948)](https://www.legislation.gov.uk/uksi/2015/948), [regs. 1](https://www.legislation.gov.uk/uksi/2015/948/regulation/1), [9](https://www.legislation.gov.uk/uksi/2015/948/regulation/9)
+
+[^key-dd69537891196a2cdf76a2b34f0e3a49]: Textual amendment: Word in [reg. 11(3)(d)](https://www.legislation.gov.uk/uksi/2012/1836/regulation/11/3/d) omitted (30.9.2021) by virtue of [The Tax Avoidance Schemes (Information) (Amendment) Regulations 2021 (S.I. 2021/980)](https://www.legislation.gov.uk/uksi/2021/980), [regs. 1](https://www.legislation.gov.uk/uksi/2021/980/regulation/1), [8(d)](https://www.legislation.gov.uk/uksi/2021/980/regulation/8/d)
+
+[^key-f2ca3628c0e6a42683fe3b08b04512ab]: Textual amendment: Word in [reg. 11(4)(b)](https://www.legislation.gov.uk/uksi/2012/1836/regulation/11/4/b) omitted (30.9.2021) by virtue of [The Tax Avoidance Schemes (Information) (Amendment) Regulations 2021 (S.I. 2021/980)](https://www.legislation.gov.uk/uksi/2021/980), [regs. 1](https://www.legislation.gov.uk/uksi/2021/980/regulation/1), [8(e)](https://www.legislation.gov.uk/uksi/2021/980/regulation/8/e)
+
+[^f00019]: Footnote: The unique transaction reference number is found, for a paper return, in the “Reference” box attached to the payslip on the Land Transaction Return (Form SDLT 1) referred to in Part 1 of Schedule 2 to [S.I. 2003/2387](https://www.legislation.gov.uk/uksi/2003/2387) or, for an electronic return, on the electronic SDLT submission receipt.
+
+[^key-e5f0d317000f0119591321e8b0f25678]: Textual amendment: [Reg. 11(5)](https://www.legislation.gov.uk/uksi/2012/1836/regulation/11/5) inserted (4.11.2013) by [The Tax Avoidance Schemes (Information) (Amendment, etc) Regulations 2013 (S.I. 2013/2592)](https://www.legislation.gov.uk/uksi/2013/2592), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2592/regulation/1), [12](https://www.legislation.gov.uk/uksi/2013/2592/regulation/12)
+
+[^key-e52da4c934dbabe5dc5b89ab2b444fd8]: Textual amendment: Word in [reg. 11(5)(d)](https://www.legislation.gov.uk/uksi/2012/1836/regulation/11/5/d) omitted (30.9.2021) by virtue of [The Tax Avoidance Schemes (Information) (Amendment) Regulations 2021 (S.I. 2021/980)](https://www.legislation.gov.uk/uksi/2021/980), [regs. 1](https://www.legislation.gov.uk/uksi/2021/980/regulation/1), [8(f)](https://www.legislation.gov.uk/uksi/2021/980/regulation/8/f)
+
+[^key-0fe7d0fa6e8a85821a5c9d51f54586d6]: Textual amendment: Word in [reg. 11(5)(g)](https://www.legislation.gov.uk/uksi/2012/1836/regulation/11/5/g) omitted (30.9.2021) by virtue of [The Tax Avoidance Schemes (Information) (Amendment) Regulations 2021 (S.I. 2021/980)](https://www.legislation.gov.uk/uksi/2021/980), [regs. 1](https://www.legislation.gov.uk/uksi/2021/980/regulation/1), [8(g)](https://www.legislation.gov.uk/uksi/2021/980/regulation/8/g)
+
+[^key-a700577a40539bab4b6bc16ced502e96]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2012/1836/regulation/12) in force at 1.9.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1836/regulation/1)
+
+[^key-df4ad85ac6020e49c1328d988f70e013]: Textual amendment: [Reg. 12(3)](https://www.legislation.gov.uk/uksi/2012/1836/regulation/12/3) omitted (16.4.2015) by virtue of [The Tax Avoidance Schemes (Information) (Amendment) Regulations 2015 (S.I. 2015/948)](https://www.legislation.gov.uk/uksi/2015/948), [regs. 1](https://www.legislation.gov.uk/uksi/2015/948/regulation/1), [10](https://www.legislation.gov.uk/uksi/2015/948/regulation/10)
+
+[^key-fc56933bf05f34e9efc11d214636d768]: Textual amendment: [Reg. 12(5A)](https://www.legislation.gov.uk/uksi/2012/1836/regulation/12/5A) inserted (4.11.2013) by [The Tax Avoidance Schemes (Information) (Amendment, etc) Regulations 2013 (S.I. 2013/2592)](https://www.legislation.gov.uk/uksi/2013/2592), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2592/regulation/1), [13](https://www.legislation.gov.uk/uksi/2013/2592/regulation/13)
+
+[^key-58ecf9e5375fdccc36c57ce03fd34ed9]: Textual amendment: [Reg. 12(5B)](https://www.legislation.gov.uk/uksi/2012/1836/regulation/12/5B)[(5C)](https://www.legislation.gov.uk/uksi/2012/1836/regulation/12/5C) inserted (21.12.2017) by [The Tax Avoidance Schemes (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/1171)](https://www.legislation.gov.uk/uksi/2017/1171), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/1171/regulation/1/1), [8](https://www.legislation.gov.uk/uksi/2017/1171/regulation/8) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1171/regulation/1/2))
+
+[^key-105033ecab7aef2d96594e9aec36c7f6]: Textual amendment: Word in [reg. 12(5B)](https://www.legislation.gov.uk/uksi/2012/1836/regulation/12/5B) omitted (30.9.2021) by virtue of [The Tax Avoidance Schemes (Information) (Amendment) Regulations 2021 (S.I. 2021/980)](https://www.legislation.gov.uk/uksi/2021/980), [regs. 1](https://www.legislation.gov.uk/uksi/2021/980/regulation/1), [9](https://www.legislation.gov.uk/uksi/2021/980/regulation/9)
+
+[^key-c54cec6256f1fccfecf229a0d2a01235]: Textual amendment: Words in [reg. 12(6)](https://www.legislation.gov.uk/uksi/2012/1836/regulation/12/6) inserted (4.11.2013) by [The Tax Avoidance Schemes (Information) (Amendment, etc) Regulations 2013 (S.I. 2013/2592)](https://www.legislation.gov.uk/uksi/2013/2592), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2592/regulation/1), [14](https://www.legislation.gov.uk/uksi/2013/2592/regulation/14)
+
+[^key-97e73cab831950a646c7549d84eda54e]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2012/1836/regulation/13) in force at 1.9.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1836/regulation/1)
+
+[^key-1bbbb73ac63a6fd24d628d134a94501b]: Textual amendment: Words in [reg. 13(1)](https://www.legislation.gov.uk/uksi/2012/1836/regulation/13/1) substituted (30.9.2021) by [The Tax Avoidance Schemes (Information) (Amendment) Regulations 2021 (S.I. 2021/980)](https://www.legislation.gov.uk/uksi/2021/980), [regs. 1](https://www.legislation.gov.uk/uksi/2021/980/regulation/1), [10(a)](https://www.legislation.gov.uk/uksi/2021/980/regulation/10/a)
+
+[^key-bebd1243713544caf6b0a6f9cbe28680]: Textual amendment: [Reg. 13(1)(a)](https://www.legislation.gov.uk/uksi/2012/1836/regulation/13/1/a) substituted (4.11.2013) by [The Tax Avoidance Schemes (Information) (Amendment, etc) Regulations 2013 (S.I. 2013/2592)](https://www.legislation.gov.uk/uksi/2013/2592), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2592/regulation/1), [17](https://www.legislation.gov.uk/uksi/2013/2592/regulation/17)
+
+[^key-96eb1c198166632f9de2ca6fd0ecbeea]: Textual amendment: [Reg. 13(1)(b)(i)](https://www.legislation.gov.uk/uksi/2012/1836/regulation/13/1/b/i) substituted (30.9.2021) by [The Tax Avoidance Schemes (Information) (Amendment) Regulations 2021 (S.I. 2021/980)](https://www.legislation.gov.uk/uksi/2021/980), [regs. 1](https://www.legislation.gov.uk/uksi/2021/980/regulation/1), [10(b)](https://www.legislation.gov.uk/uksi/2021/980/regulation/10/b)
+
+[^key-5700b28a4591c46542b94ec3d6cbbc1f]: Textual amendment: Words in [reg. 13(1)(b)(ii)](https://www.legislation.gov.uk/uksi/2012/1836/regulation/13/1/b/ii) substituted (30.9.2021) by [The Tax Avoidance Schemes (Information) (Amendment) Regulations 2021 (S.I. 2021/980)](https://www.legislation.gov.uk/uksi/2021/980), [regs. 1](https://www.legislation.gov.uk/uksi/2021/980/regulation/1), [10(c)](https://www.legislation.gov.uk/uksi/2021/980/regulation/10/c)
+
+[^key-16970bed0b6556555524a7d15191466d]: Textual amendment: [Reg. 13(1)(b)(iii)-(v)](https://www.legislation.gov.uk/uksi/2012/1836/regulation/13/1/b/iii) substituted for reg. 13(1)(b)(iii)(iv) (4.11.2013) by [The Tax Avoidance Schemes (Information) (Amendment, etc) Regulations 2013 (S.I. 2013/2592)](https://www.legislation.gov.uk/uksi/2013/2592), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2592/regulation/1), [18](https://www.legislation.gov.uk/uksi/2013/2592/regulation/18)
+
+[^key-641d9d30637e3023745a25ec3d49aca9]: Textual amendment: Words in [reg. 13(1)(b)(iii)](https://www.legislation.gov.uk/uksi/2012/1836/regulation/13/1/b/iii) substituted (30.9.2021) by [The Tax Avoidance Schemes (Information) (Amendment) Regulations 2021 (S.I. 2021/980)](https://www.legislation.gov.uk/uksi/2021/980), [regs. 1](https://www.legislation.gov.uk/uksi/2021/980/regulation/1), [10(d)](https://www.legislation.gov.uk/uksi/2021/980/regulation/10/d)
+
+[^key-723d789b0e7ff69164d127cc7a9a0bbf]: Textual amendment: Words in [reg. 13(1)(b)(iv)](https://www.legislation.gov.uk/uksi/2012/1836/regulation/13/1/b/iv) inserted (30.9.2021) by [The Tax Avoidance Schemes (Information) (Amendment) Regulations 2021 (S.I. 2021/980)](https://www.legislation.gov.uk/uksi/2021/980), [regs. 1](https://www.legislation.gov.uk/uksi/2021/980/regulation/1), [10(e)](https://www.legislation.gov.uk/uksi/2021/980/regulation/10/e)
+
+[^key-c698ab2516bc82ead4e47f11774fdad0]: Textual amendment: [Reg. 13(1)(ba)](https://www.legislation.gov.uk/uksi/2012/1836/regulation/13/1/ba)[(c)](https://www.legislation.gov.uk/uksi/2012/1836/regulation/13/1/c) substituted for [reg. 13(1)(c)](https://www.legislation.gov.uk/uksi/2012/1836/regulation/13/1/c) (30.9.2021) by [The Tax Avoidance Schemes (Information) (Amendment) Regulations 2021 (S.I. 2021/980)](https://www.legislation.gov.uk/uksi/2021/980), [regs. 1](https://www.legislation.gov.uk/uksi/2021/980/regulation/1), [10(f)](https://www.legislation.gov.uk/uksi/2021/980/regulation/10/f)
+
+[^key-db88114ca00ce8c1f9a1e42cf6506efd]: Textual amendment: [Reg. 13(1)(d)](https://www.legislation.gov.uk/uksi/2012/1836/regulation/13/1/d)[(e)](https://www.legislation.gov.uk/uksi/2012/1836/regulation/13/1/e) inserted (4.11.2013) by [The Tax Avoidance Schemes (Information) (Amendment, etc) Regulations 2013 (S.I. 2013/2592)](https://www.legislation.gov.uk/uksi/2013/2592), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2592/regulation/1), [19](https://www.legislation.gov.uk/uksi/2013/2592/regulation/19)
+
+[^key-b301744f8de238bf6a151f544f5ea7c5]: Textual amendment: [Reg. 13A](https://www.legislation.gov.uk/uksi/2012/1836/regulation/13A) inserted (4.11.2013) by [The Tax Avoidance Schemes (Information) (Amendment, etc) Regulations 2013 (S.I. 2013/2592)](https://www.legislation.gov.uk/uksi/2013/2592), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2592/regulation/1), [20](https://www.legislation.gov.uk/uksi/2013/2592/regulation/20)
+
+[^key-a34e89064a5401e661adf409d33d49da]: Textual amendment: Words in [reg. 13A(1)](https://www.legislation.gov.uk/uksi/2012/1836/regulation/13A/1) substituted (30.9.2021) by [The Tax Avoidance Schemes (Information) (Amendment) Regulations 2021 (S.I. 2021/980)](https://www.legislation.gov.uk/uksi/2021/980), [regs. 1](https://www.legislation.gov.uk/uksi/2021/980/regulation/1), [11(a)](https://www.legislation.gov.uk/uksi/2021/980/regulation/11/a)
+
+[^key-33ff633e919f71f2820012ffd2705b25]: Textual amendment: Words in [reg. 13A(1)(a)](https://www.legislation.gov.uk/uksi/2012/1836/regulation/13A/1/a) substituted (30.9.2021) by [The Tax Avoidance Schemes (Information) (Amendment) Regulations 2021 (S.I. 2021/980)](https://www.legislation.gov.uk/uksi/2021/980), [regs. 1](https://www.legislation.gov.uk/uksi/2021/980/regulation/1), [11(b)](https://www.legislation.gov.uk/uksi/2021/980/regulation/11/b)
+
+[^key-f3aa31983ba84e3f421488a75373cb0f]: Textual amendment: Words in [reg. 13A(2)](https://www.legislation.gov.uk/uksi/2012/1836/regulation/13A/2) substituted (30.9.2021) by [The Tax Avoidance Schemes (Information) (Amendment) Regulations 2021 (S.I. 2021/980)](https://www.legislation.gov.uk/uksi/2021/980), [regs. 1](https://www.legislation.gov.uk/uksi/2021/980/regulation/1), [11(c)](https://www.legislation.gov.uk/uksi/2021/980/regulation/11/c)
+
+[^key-de3659b74938bfb48d61b34603df269b]: Textual amendment: [Reg. 13B](https://www.legislation.gov.uk/uksi/2012/1836/regulation/13B) inserted (16.4.2015) by [The Tax Avoidance Schemes (Information) (Amendment) Regulations 2015 (S.I. 2015/948)](https://www.legislation.gov.uk/uksi/2015/948), [regs. 1](https://www.legislation.gov.uk/uksi/2015/948/regulation/1), [11](https://www.legislation.gov.uk/uksi/2015/948/regulation/11)
+
+[^key-462157075c7b6aa9ac8abc6364adc1e1]: Textual amendment: Word in [reg. 13B(1)](https://www.legislation.gov.uk/uksi/2012/1836/regulation/13B/1) omitted (30.9.2021) by virtue of [The Tax Avoidance Schemes (Information) (Amendment) Regulations 2021 (S.I. 2021/980)](https://www.legislation.gov.uk/uksi/2021/980), [regs. 1](https://www.legislation.gov.uk/uksi/2021/980/regulation/1), [12(a)](https://www.legislation.gov.uk/uksi/2021/980/regulation/12/a)
+
+[^key-3c77a550391ef22f3e14ba5389115f19]: Textual amendment: Words in [reg. 13B(2)(c)](https://www.legislation.gov.uk/uksi/2012/1836/regulation/13B/2/c) substituted (30.9.2021) by [The Tax Avoidance Schemes (Information) (Amendment) Regulations 2021 (S.I. 2021/980)](https://www.legislation.gov.uk/uksi/2021/980), [regs. 1](https://www.legislation.gov.uk/uksi/2021/980/regulation/1), [12(b)(i)](https://www.legislation.gov.uk/uksi/2021/980/regulation/12/b/i)
+
+[^key-c7fd025f5332fb3eabd7f99f0026da15]: Textual amendment: Word in [reg. 13B(2)(c)](https://www.legislation.gov.uk/uksi/2012/1836/regulation/13B/2/c) omitted (30.9.2021) by virtue of [The Tax Avoidance Schemes (Information) (Amendment) Regulations 2021 (S.I. 2021/980)](https://www.legislation.gov.uk/uksi/2021/980), [regs. 1](https://www.legislation.gov.uk/uksi/2021/980/regulation/1), [12(b)(ii)](https://www.legislation.gov.uk/uksi/2021/980/regulation/12/b/ii)
+
+[^key-8808b17677ad7ba5eaa3c7d420205926]: Textual amendment: Word in [reg. 13B(2)(d)](https://www.legislation.gov.uk/uksi/2012/1836/regulation/13B/2/d) omitted (30.9.2021) by virtue of [The Tax Avoidance Schemes (Information) (Amendment) Regulations 2021 (S.I. 2021/980)](https://www.legislation.gov.uk/uksi/2021/980), [regs. 1](https://www.legislation.gov.uk/uksi/2021/980/regulation/1), [12(c)](https://www.legislation.gov.uk/uksi/2021/980/regulation/12/c)
+
+[^key-81c751a9726f9d6413dfe7ae1e6a295f]: Textual amendment: Word in [reg. 13B(2)(e)](https://www.legislation.gov.uk/uksi/2012/1836/regulation/13B/2/e) omitted (30.9.2021) by virtue of [The Tax Avoidance Schemes (Information) (Amendment) Regulations 2021 (S.I. 2021/980)](https://www.legislation.gov.uk/uksi/2021/980), [regs. 1](https://www.legislation.gov.uk/uksi/2021/980/regulation/1), [12(d)](https://www.legislation.gov.uk/uksi/2021/980/regulation/12/d)
+
+[^key-1015cfb09c32d716da5fe5d8cc27c3cb]: Textual amendment: Word in [reg. 13B(2)(e)](https://www.legislation.gov.uk/uksi/2012/1836/regulation/13B/2) omitted (30.9.2021) by virtue of [The Tax Avoidance Schemes (Information) (Amendment) Regulations 2021 (S.I. 2021/980)](https://www.legislation.gov.uk/uksi/2021/980), [regs. 1](https://www.legislation.gov.uk/uksi/2021/980/regulation/1), [12(e)](https://www.legislation.gov.uk/uksi/2021/980/regulation/12/e)
+
+[^key-141cb447435d9152d3b0528de7faf4a6]: Textual amendment: [Reg. 13B(2)(f)](https://www.legislation.gov.uk/uksi/2012/1836/regulation/13B/2/f)[(g)](https://www.legislation.gov.uk/uksi/2012/1836/regulation/13B/2/g) substituted for [reg. 13B(2)(f)](https://www.legislation.gov.uk/uksi/2012/1836/regulation/13B/2/f) (30.9.2021) by [The Tax Avoidance Schemes (Information) (Amendment) Regulations 2021 (S.I. 2021/980)](https://www.legislation.gov.uk/uksi/2021/980), [regs. 1](https://www.legislation.gov.uk/uksi/2021/980/regulation/1), [12(f)](https://www.legislation.gov.uk/uksi/2021/980/regulation/12/f)
+
+[^key-52b699357dded26f7333f9ccbf467fa5]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2012/1836/regulation/14) in force at 1.9.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1836/regulation/1)
+
+[^key-d8ab6d1351cf3bf949e4c3058d1ce647]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2012/1836/regulation/15) in force at 1.9.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1836/regulation/1)
+
+[^key-ab5115681f76c84e7858f48d318c83ad]: Textual amendment: Word in [reg. 15(1)](https://www.legislation.gov.uk/uksi/2012/1836/regulation/15/1) omitted (16.4.2015) by virtue of [The Tax Avoidance Schemes (Information) (Amendment) Regulations 2015 (S.I. 2015/948)](https://www.legislation.gov.uk/uksi/2015/948), [regs. 1](https://www.legislation.gov.uk/uksi/2015/948/regulation/1), [12(a)](https://www.legislation.gov.uk/uksi/2015/948/regulation/12/a)
+
+[^key-22512d8f2d4d69d1f407fd6574386305]: Textual amendment: [Reg. 15(1)(c)](https://www.legislation.gov.uk/uksi/2012/1836/regulation/15/1/c) and word inserted (16.4.2015) by [The Tax Avoidance Schemes (Information) (Amendment) Regulations 2015 (S.I. 2015/948)](https://www.legislation.gov.uk/uksi/2015/948), [regs. 1](https://www.legislation.gov.uk/uksi/2015/948/regulation/1), [12(b)](https://www.legislation.gov.uk/uksi/2015/948/regulation/12/b)
+
+[^key-626706deaf43c29ed39cd6b647aef6bc]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2012/1836/regulation/16) in force at 1.9.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1836/regulation/1)
+
+[^key-d01480bc24344627ac8bda5aef1bb9b4]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2012/1836/regulation/17) in force at 1.9.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1836/regulation/1)
+
+[^f00021]: Footnote: [1999 c. 16](https://www.legislation.gov.uk/ukpga/1999/16). Section 132 was amended by paragraph 156 of Schedule 17 to the Communications Act [2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21).
+
+[^f00022]: Footnote: [2002 c. 23](https://www.legislation.gov.uk/ukpga/2002/23). Section 135 was amended by paragraphs 94 and 95 of the Commissioners for Revenue and Customs Act [2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11) and section 93 of the Finance act [2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11).
+
+[^key-0ce62dc6b33f9ba809298f4998b63b4c]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2012/1836/regulation/18) in force at 1.9.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1836/regulation/1)
+
+[^f00023]: Footnote: [S.I. 2004/1865](https://www.legislation.gov.uk/uksi/2004/1865); regulation 6 was added by [S.I. 2004/2613](https://www.legislation.gov.uk/uksi/2004/2613).
+
+[^key-fad5df2181e7e5891ed8d87f64436207]: Commencement: [Sch.](https://www.legislation.gov.uk/uksi/2012/1836/schedule) in force at 1.9.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1836/regulation/1)

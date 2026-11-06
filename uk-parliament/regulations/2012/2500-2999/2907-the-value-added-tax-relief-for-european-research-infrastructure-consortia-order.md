@@ -1,0 +1,143 @@
+---
+title: The Value Added Tax (Relief for European Research Infrastructure Consortia) Order 2012
+id: uksi/2012/2907
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2012-11-20'
+text_date: '2020-12-31'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2012/2907
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2012/2907/pdfs/uksiem_20122907_en.pdf
+- http://www.legislation.gov.uk/uksi/2012/2907/pdfs/uksi_20122907_en.pdf
+- http://www.legislation.gov.uk/uksi/2012/2907/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Value Added Tax (Relief for European Research Infrastructure Consortia) Order 2012
+
+> Text as at 2020-12-31.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2012 No. 2907
+
+Value Added Tax
+
+The Value Added Tax (Relief for European Research Infrastructure Consortia) Order 2012
+
+Made
+
+20th November 2012
+
+Laid before the House of Commons
+
+21st November 2012
+
+Coming into force
+
+1st January 2013
+
+The Treasury make the following Order in exercise of the powers conferred by sections 30(4), 36A, 37(1) and 96(9) of the Value Added Tax Act 1994[^f00001].
+
+It appears to the Treasury that it is expedient to make this Order having regard to the need to conform with Articles 3(1)(a), 143(1)(g) and 151(1)(b) of Council Directive [2006/112/EC](https://www.legislation.gov.uk/european/directive/2006/0112) on the common system of value added tax[^f00002].
+
+## 1. Citation, commencement and effect[^key-c8772003de016ce88cba56c7d8a3f972]
+
+(1) This Order may be cited as the Value Added Tax (Relief for European Research Infrastructure Consortia) Order 2012 and comes into force on 1st January 2013.
+
+(2) This Order has effect in relation to importations, acquisitions or supplies made on or after 1st January 2013.
+
+## 2. Relief from value added tax on importation or acquisition of goods[^key-e174b20ae592b96e013f8502e8473f77]
+
+(1) No VAT shall be chargeable on the importation of goods [^key-215ca7b6e9fc50c638e0b240e50f4a68]..., or on the acquisition of goods from a[^key-2eeaf1167b4d347b24be83acc0fa5271] member State, by an ERIC.
+
+(2) Paragraph (1) applies only where the following requirements are met—
+
+- (a) the statutory seat of the ERIC referred to in Article 8(1) of Council Regulation [(EC) No 723/2009](https://www.legislation.gov.uk/european/regulation/2009/0723) on the Community legal framework for a European Research Infrastructure Consortium[^f00003] is located in the United Kingdom, a member State or an associated country (within the meaning given by Article 2(c) of that Regulation)[^key-b968c4d5c3622305915f14ba814653ec],
+- (b) the goods are for the official use of the ERIC,
+- (c) relief is not precluded by the limitations and conditions laid down in the agreement between the members of the ERIC referred to in Article 5(1)(d) of Council Regulation [(EC) No 723/2009](https://www.legislation.gov.uk/european/regulation/2009/0723), and
+- (d) a certificate in writing has been given to the Commissioners on behalf of the ERIC that the requirements in paragraphs (a), (b) and (c) are met in relation to the importation or acquisition.
+
+(3) In this article “ERIC” means a body set up as a European Research Infrastructure Consortium by a decision under Article 6(1)(a) of Council Regulation [(EC) No 723/2009](https://www.legislation.gov.uk/european/regulation/2009/0723).
+
+## 3. Amendment of Schedule 8 to the Value Added Tax Act 1994[^key-9fb782f474de1fb283c43db98847a523]
+
+(1) In Part 1 of Schedule 8 to the Value Added Tax Act 1994 (zero rating: index to zero-rated supplies of goods and services) insert in the appropriate alphabetical place—
+
+> |  |  |  |
+> | --- | --- | --- |
+> | European Research Infrastructure Consortia | Group 18 |  |
+
+.
+
+(2) In Part 2 of that Schedule (zero rating: the Groups) at the end[^f00004] add—
+
+> **GROUP 18 — EUROPEAN RESEARCH INFRASTRUCTURE CONSORTIA**
+>
+> Item No.
+>
+> **1.** The supply of goods or services to an ERIC.
+>
+> NOTES
+>
+> (1) “ERIC” means a body set up as a European Research Infrastructure Consortium by a decision under Article 6(1)(a) of Council Regulation [(EC) No 723/2009](https://www.legislation.gov.uk/european/regulation/2009/0723) on the Community legal framework for a European Research Infrastructure Consortium.
+>
+> (2) Item 1 applies only where the following requirements are met—
+>
+> - (a) the statutory seat of the ERIC referred to in Article 8(1) of Council Regulation [(EC) No 723/2009](https://www.legislation.gov.uk/european/regulation/2009/0723) is located in a member State;
+> - (b) the goods or services are for the official use of the ERIC;
+> - (c) a certificate in writing has been given to the supplier on behalf of the ERIC that—
+>   - (i) the requirements in paragraphs (a) and (b) are met in relation to the supply, and
+>   - (ii) the relief is not precluded by the limitations and conditions referred to in Note (3); and
+> - (d) VAT would have been chargeable on the supply but for item 1.
+>
+> (3) Item 1 is subject to the limitations and conditions laid down in the agreement between the members of the ERIC referred to in Article 5(1)(d) of Council Regulation [(EC) No 723/2009](https://www.legislation.gov.uk/european/regulation/2009/0723).
+
+.
+
+Desmond Swayne
+
+Mark Lancaster
+
+Two of the Lords Commissioners of Her Majesty’s Treasury
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order provides VAT relief for European Research Infrastructure Consortia (“ERIC”) established under Council Regulation [(EC) No 723/2009](https://www.legislation.gov.uk/european/regulation/2009/0723) on the Community legal framework for a European Research Infrastructure Consortium (OJ No L 206, 8.8.09, p1). The relief applies to imports, acquisitions, or supplies made on or after 1st January 2013.
+
+Article 2 provides that where the requirements of that article are met VAT is not chargeable on imports or acquisitions of goods by an ERIC.
+
+Article 3 adds a new Group 18 “European Research Infrastructure Consortia” to Schedule 8 to the Value Added Tax Act 1994. Group 18 applies the zero rate of VAT to supplies of goods or services to an ERIC where the requirements of that Group are met.
+
+A Tax Information and Impact Note covering this instrument will be published on the HMRC website at http://www.hmrc.gov.uk/thelibrary/tiins.htm.
+
+## Annotations
+
+[^f00001]: Footnote: [1994 c. 23](https://www.legislation.gov.uk/ukpga/1994/23); section 36A was inserted by section 25 of the Finance Act [2002 (c. 23)](https://www.legislation.gov.uk/ukpga/2002/23). Section 96(9) has been amended but the amendment is not relevant to this Order.
+
+[^f00002]: Footnote: OJ No L 347, 11.12.06, p1.
+
+[^key-c8772003de016ce88cba56c7d8a3f972]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2012/2907/article/1) in force at 1.1.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/2907/article/1/1)
+
+[^key-e174b20ae592b96e013f8502e8473f77]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2012/2907/article/2) in force at 1.1.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/2907/article/1/1)
+
+[^key-215ca7b6e9fc50c638e0b240e50f4a68]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2012/2907/article/2/1) omitted (17.12.2020 for specified purposes, 31.12.2020 in so far as not already in force) by virtue of [Taxation (Post-transition Period) Act 2020 (c. 26)](https://www.legislation.gov.uk/ukpga/2020/26), [s. 11(1)(e)](https://www.legislation.gov.uk/ukpga/2020/26/section/11/1/e), [Sch. 2 para. 12(a)(i)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/12/a/i) (with [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9)
+
+[^key-2eeaf1167b4d347b24be83acc0fa5271]: Textual amendment: Word in [art. 2(1)](https://www.legislation.gov.uk/uksi/2012/2907/article/2/1) substituted (17.12.2020 for specified purposes, 31.12.2020 in so far as not already in force) by [Taxation (Post-transition Period) Act 2020 (c. 26)](https://www.legislation.gov.uk/ukpga/2020/26), [s. 11(1)(e)](https://www.legislation.gov.uk/ukpga/2020/26/section/11/1/e), [Sch. 2 para. 12(a)(ii)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/12/a/ii) (with [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9)
+
+[^f00003]: Footnote: OJ No L 206, 8.8.09, p1.
+
+[^key-b968c4d5c3622305915f14ba814653ec]: Textual amendment: Words in [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2012/2907/article/2/2/a) substituted (17.12.2020 for specified purposes, 31.12.2020 in so far as not already in force) by [Taxation (Post-transition Period) Act 2020 (c. 26)](https://www.legislation.gov.uk/ukpga/2020/26), [s. 11(1)(e)](https://www.legislation.gov.uk/ukpga/2020/26/section/11/1/e), [Sch. 2 para. 12(b)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/12/b) (with [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9)
+
+[^key-9fb782f474de1fb283c43db98847a523]: Commencement: Art. 3 in force at 1.1.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/2907/article/1/1)
+
+[^f00004]: Footnote: Group 17 (Emissions Allowances) was inserted by [S.I. 2009/2093](https://www.legislation.gov.uk/uksi/2009/2093) and omitted by [S.I. 2010/2549](https://www.legislation.gov.uk/uksi/2010/2549).

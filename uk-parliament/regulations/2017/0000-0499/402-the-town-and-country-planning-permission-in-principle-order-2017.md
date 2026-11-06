@@ -1,0 +1,799 @@
+---
+title: The Town and Country Planning (Permission in Principle) Order 2017
+id: uksi/2017/402
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2017-03-20'
+text_date: '2025-05-01'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2017/402
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2017/402/pdfs/uksiem_20170402_en.pdf
+- http://www.legislation.gov.uk/uksi/2017/402/pdfs/uksi_20170402_en.pdf
+- http://www.legislation.gov.uk/uksi/2017/402/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Town and Country Planning (Permission in Principle) Order 2017
+
+> Text as at 2025-05-01.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2017 No. 402
+
+Town And Country Planning, England
+
+The Town and Country Planning (Permission in Principle) Order 2017
+
+Made
+
+20th March 2017
+
+Laid before Parliament
+
+23rd March 2017
+
+Coming into force
+
+15th April 2017
+
+The Secretary of State, in exercise of the powers conferred by sections 59, 59A, 61(1), 62, 65, 70(2ZZC), 71, 71A, 74, 78 and 107(4A) of the Town and Country Planning Act 1990[^f00001], makes the following Order.
+
+## PART 1 — Preliminary
+
+### 1. Citation and commencement[^key-097b985048f3ccb77867b87cdbd4c8d4]
+
+This Order may be cited as the Town and Country Planning (Permission in Principle) Order 2017 and comes into force on 15th April 2017.
+
+### 2. Interpretation[^key-a40f8320e107d693c6ab7f8c0c79b804]
+
+In this Order—
+
+- “the 1990 Act” means the Town and Country Planning Act 1990;
+- “brownfield land register” means a register kept under regulation 3 of the Town and Country Planning (Brownfield Land Register) Regulations 2017[^f00002];
+- “by site display” means by posting the notice in question by firm fixture to some object so that the notice is displayed in such a way as to be easily visible and legible by members of the public;[^key-68bce4c7f009d567eade45aa7fc20c35]
+- “dwelling” includes a flat contained within a building of one or more flats;
+- “electronic communication” has the same meaning as in section 15(1) of the Electronic Communications Act 2000;
+- “flat” means a separate and self-contained set of premises constructed or adapted for use for the purpose of a dwelling and forming part of a building from some other part of which it is divided horizontally;
+- “housing development” means development for the provision of dwellings[^f00003]; [^key-1d00fc6a855c5d947cde477dcf533d43]...
+- “infrastructure manager” means any person who, in relation to relevant railway land—
+  - (a) is responsible for developing or maintaining the land; or
+  - (b) manages or uses the land, or permits the land to be used for the operation of a railway;
+- “non-housing development” means development other than housing development;
+- “public holiday” means Christmas Day, Good Friday or a day which under the Banking and Financial Dealings Act 1971 is a bank holiday in England;[^key-6de57c5a8744d9e7362895ac7d8f373e]
+- “relevant railway land” means land—
+  - (a) forming part of any operational railway; or
+  - (b) which is authorised to be used for the purposes of an operational railway under—
+    - (i) a planning permission granted or deemed to be granted,
+    - (ii) a development consent granted by an order made under the Planning Act 2008, or
+    - (iii) an Act of Parliament,
+
+  including viaducts, tunnels, retaining walls, sidings, shafts, bridges, or other structures used in connection with an operational railway and excluding car parks, offices, shops, hotels or any other land which, by its nature or situation, is comparable with land in general rather than land which is used for the purpose of an operational railway;
+- “residential development” means development the main purpose of which is housing development.
+
+## PART 2 — Permission in principle: brownfield land register
+
+### 3. Prescribed particulars for land allocated in a brownfield land register[^key-b63576e59c8b67299b2ad8cd4b31390c]
+
+For the purposes of section 59A(2)(c) of the 1990 Act, to allocate land for development in a brownfield land register an entry in the register for the land (in addition to including an indication that the land is allocated for development for the purposes of section 59A of the 1990 Act) must include the information required by regulation 15 of, and Schedule 2 to, the Town and Country Planning (Brownfield Land Register) Regulations 2017.
+
+### 4. Permission in principle on allocation of land in a brownfield land register[^key-e3fa5912686cef48192347da4ac83f60]
+
+Permission in principle is hereby granted for development of land allocated in Part 2 of a brownfield land register consisting of—
+
+- (a) housing development for the provision of a number of dwellings falling within the range specified in the relevant entry in the brownfield land register; and
+- (b) where the relevant entry in the brownfield land register specifies non-housing development of the land, non-housing development of a description falling within the description in that entry.
+
+### 5. Direction by local planning authority as to when permission in principle takes effect[^key-3cba3033cd9444304af62db18926c20e]
+
+A local planning authority may direct that permission in principle granted pursuant to article 4 takes effect on a date specified in the direction instead of the date provided for in section 59A(4)(a) or (b) of the 1990 Act.
+
+## Part 2A — Permission in principle: applications to local planning authorities[^key-6b4f2d7bfe9f91fcf0c0992bde50249b]
+
+### 5A. Permission in principle
+
+(1) A local planning authority may grant permission in principle on an application to the authority in accordance with the provisions of this Order.
+
+(2) Subject to article 5B, for the purposes of section 59A(1)(b) of the 1990 Act, the description of development in relation to which a local planning authority may grant permission in principle is residential development of land.
+
+(3) When granting permission in principle under paragraph (1) the local planning authority must—
+
+- (a) in relation to the housing development, specify the minimum and maximum net number of dwellings which are, in principle, permitted; and
+- (b) in relation to the non-housing development (if any is, in principle, permitted), specify the scale of any such development which is, in principle, permitted and the use to which it may be put.
+
+(4) In this article—
+
+- “maximum net number of dwellings” means the maximum number of dwellings on the land after the proposed development less the number of dwellings on the land immediately prior to the date the application for permission in principle is submitted; and
+- “minimum net number of dwellings” means the minimum number of dwellings on the land after the proposed development less the number of dwellings on the land immediately prior to the date the application for permission in principle is submitted.
+
+### 5B. Exemption of certain developments
+
+(1) A local planning authority may not grant permission in principle, on an application to the authority, in relation to development which is—
+
+- (a) major development;
+- (b) habitats development;
+- (c) householder development; or
+- (d) Schedule 1 development.
+
+(2) A local planning authority may not grant permission in principle, on an application to the authority, in relation to Schedule 2 development unless—
+
+- (a) the local planning authority has adopted a screening opinion under regulation 6 of the EIA Regulations that the development (up to and including the maximum net number of dwellings) is not EIA development;
+- (b) the Secretary of State has made a screening direction under regulation 7 of the EIA Regulations that the development is not EIA development; or
+- (c) the Secretary of State has made a direction under regulation 63 of the EIA Regulations that the development is exempted from the application of those Regulations.
+
+(3) Where it appears to the local planning authority that—
+
+- (a) an application for permission in principle which is before them for determination may be Schedule 2 development; and
+- (b) the development in question has not been the subject of a screening opinion or screening direction,
+
+paragraphs (5) and (6) of regulation 6 of the EIA Regulations apply as if the receipt of the application were a request made under regulation 6(1) of those Regulations.
+
+(4) For the purposes of paragraphs (2) and (3), the EIA Regulations have effect in relation to applications for permission in principle as if the reference to an application for planning permission in Part 2 (screening) and in regulation 63 of the EIA Regulations were a reference to an application for permission in principle.
+
+(5) In this article—
+
+- “competent authority” has the meaning given by regulation 7 of the Conservation of Habitats and Species Regulations 2017;[^key-43debe26a68f731f4b06fc343a29f3d0]
+- “EIA development” has the same meaning as in regulation 2 of the EIA Regulations;
+- “EIA Regulations” means the Town and Country Planning (Environmental Impact Assessment) Regulations 2017;
+- “European offshore marine site” has the meaning given in regulation 18 of the Conservation of Offshore Marine Habitats and Species Regulations 2017;
+- “European site” has the meaning given by regulation 8 of the Conservation of Habitats and Species Regulations 2017;
+- “habitats development” means development—[^key-20bb0dd8e486eb18f98e46a17f2b9433]
+  - (a) which is likely to have a significant effect on a European site or a European offshore marine site (either alone or in combination with other plans or projects) and is not directly connected with or necessary to the management of the site; and
+  - (b) for which the competent authority has not given consent, permission, or other authorisation in accordance with regulation 63 of the Conservation of Habitats and Species Regulations 2017 (Assessment of implications for European sites and European offshore marine sites);
+- “house” does not include a building containing one or more flats, or a flat contained within such a building;
+- “householder development” means development of an existing dwelling, or development within the curtilage of such a dwelling for any purpose incidental to the enjoyment of the dwelling, but does not include change of use or change in the number of dwellings in a building;
+- “major development” means development involving any one or more of the following—
+  - (a) the provision of dwellings where the number of houses to be provided is 10 or more;
+  - (b) the provision of a building or buildings where the floor space to be created is 1,000 square metres or more; or
+  - (c) development carried out on a site having an area of 1 hectare or more;
+- “maximum net number of dwellings” has the same meaning as in article 5A; and
+- “Schedule 1 development” and “Schedule 2 development” have the same meanings as in regulation 2 of the EIA Regulations.
+
+### 5C. Consultation before applying for permission in principle
+
+For the purposes of section 61W of the 1990 Act (requirement to carry out pre-application consultation) a person must carry out consultation on a proposed application for permission in principle for any residential development involving an installation for the harnessing of wind power for energy production where—
+
+- (a) the development involves the installation of more than 2 turbines; or
+- (b) the hub height of any turbine exceeds 15 metres.
+
+### 5D. Applications for permission in principle
+
+(1) An application for permission in principle must—
+
+- (a) be made in writing, to the local planning authority for the area in which the land is situated, on a form published by the Secretary of State (or a form to substantially the same effect);
+- (b) include the particulars specified or referred to in the form;
+- (c) be accompanied, whether electronically or otherwise, by—
+  - (i) a plan which identifies the land to which the application relates;
+  - (ii) except where the application is made by electronic communications or the local planning authority indicate that a lesser number is required, 3 copies of the form; and
+  - (iii) where consultation is required by virtue of article 5C, particulars of—
+    - (aa) how the applicant complied with section 61W(1) of the 1990 Act;
+    - (bb) any responses to the consultation that were received by the applicant; and
+    - (cc) the account taken of those responses by the applicant.
+
+(2) A plan required to be provided by paragraph (1)(c)(i) must be drawn to an identified scale and must show the direction of North.
+
+(3) Where an application is made using electronic communications to transmit a form to the local planning authority, the applicant is taken to have agreed—
+
+- (a) to the use of such communications by the local planning authority for the purposes of the application;
+- (b) that the applicant’s address for those purposes is the address incorporated in, or otherwise logically associated with, the application; and
+- (c) that the applicant’s deemed agreement under this paragraph subsists until the applicant gives notice in writing of the withdrawal of consent to the use of electronic communications under article 7A.
+
+### 5E. Applications in respect of Crown land
+
+An application for permission in principle in respect of Crown land must be accompanied by—
+
+- (a) a statement that the application is made in respect of Crown land; and
+- (b) where the application is made by a person authorised in writing by the appropriate authority, a copy of that authorisation.
+
+### 5F. Acknowledgement etc of applications
+
+(1) When the local planning authority receive an application which—
+
+- (a) complies with the requirements of article 5D; and
+- (b) is accompanied by the fee required to be paid in respect of the application,
+
+the authority must, as soon as is reasonably practicable, send to the applicant an acknowledgement of the application in the terms (or substantially in the terms) set out in Schedule 1.
+
+(2) Where, after sending an acknowledgement as required by paragraph (1), the local planning authority consider that the application is invalid, they must as soon as reasonably practicable notify the applicant that the application is invalid.
+
+(3) In this article, an application is invalid if it is not a valid application within the meaning of article 5S(3).
+
+### 5G. Publicity for applications for permission in principle
+
+(1) An application for permission in principle made to a local planning authority must be publicised by the authority—
+
+- (a) in accordance with the requirements in paragraph (3), and
+- (b) by giving requisite notice by site display in at least one place on or near the land to which the application relates for not less than 14 days.
+
+(2) Where the notice referred to in paragraph (1)(b) is, without any fault or intention of the local planning authority, removed, obscured or defaced before the period of 14 days referred to has elapsed, the authority is to be treated as having complied with the requirements of paragraph (1)(b) if they have taken reasonable steps for protection of the notice and, if need be, its replacement.
+
+(3) The following information must be published on a website maintained by the local planning authority—
+
+- (a) the address or location of the proposed development;
+- (b) a description of the proposed development;
+- (c) the date by which any representations about the application must be made, which must not be before the last day of the period of 14 days beginning with the date on which the information is published;
+- (d) where and when the application may be inspected; and
+- (e) how representations may be made about the application.
+
+(4) Where the local planning authority have failed to satisfy the requirements of this article in respect of an application for permission in principle at the time—
+
+- (a) the application is referred to the Secretary of State under section 77 (reference of applications to Secretary of State) of the 1990 Act, or
+- (b) any appeal to the Secretary of State is made under section 78(2) (appeals in relation to non-determined applications) of the 1990 Act,
+
+this article continues to apply as if such referral or appeal to the Secretary of State had not been made.
+
+(5) Where paragraph (4) applies, the local planning authority must inform the Secretary of State as soon as they have satisfied the relevant requirements in this article.
+
+(6) In this article “requisite notice” means notice in the appropriate form set out in Schedule 1 or in a form substantially to the same effect.
+
+(7)[^key-67865c5f763bf3b7d436de0a5aadedeb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(8)[^key-913834e491461b32c16b574abc2c980f] When computing the number of days in paragraphs (1)(b), (2) and (3)(c), any day which is a public holiday must be disregarded unless the application is one to which paragraph (7) applies.
+
+### 5H. Notification of applications for permission in principle within 10 metres of relevant railway land
+
+(1) This article applies where the development to which an application for permission in principle relates is situated within 10 metres of relevant railway land.
+
+(2) The local planning authority must, except where paragraph (3) applies, publicise an application for permission in principle by serving requisite notice on any infrastructure manager of relevant railway land.
+
+(3) Where an infrastructure manager has instructed the local planning authority in writing that they do not require notification in relation to—
+
+- (a) a particular description of development,
+- (b) a particular type of building operation, or
+- (c) specified sites or geographical areas (“the instruction”),
+
+the local planning authority is not required to notify that infrastructure manager.
+
+(4) The infrastructure manager may withdraw the instruction at any time by notifying the local planning authority in writing.
+
+(5) In this article “requisite notice” means a notice in the appropriate form as set out in Schedule 1 or in a form substantially to the same effect.
+
+### 5I. Notice of reference of applications to the Secretary of State
+
+On referring any application for permission in principle to the Secretary of State under section 77 (reference of applications to Secretary of State) of the 1990 Act pursuant to a direction given under that section, a local planning authority must serve on the applicant a notice—
+
+- (a) setting out the terms of the direction and any reasons given by the Secretary of State for issuing it; and
+- (b) stating that the application has been referred to the Secretary of State.
+
+### 5J. Consultations in relation to applications for permission in principle
+
+(1) Before determining whether to grant a permission in principle for development of land which, in their opinion, falls within a category set out in the Table in Schedule 4 to the Town and Country Planning (Development Management Procedure) (England) Order 2015, a local planning authority must consult each body mentioned in relation to that category.
+
+(2) The local planning authority must also consult any body with whom they would have been required to consult on an application for planning permission for the development proposed.
+
+(3) The duty to consult a body pursuant to paragraph (1) or (2) does not apply where—
+
+- (a) the local planning authority are the body;
+- (b) the local planning authority are already required to consult the body under paragraph 7 of Schedule 1 to the 1990 Act;
+- (c) the body has advised the local planning authority that it does not wish to be consulted; or
+- (d) the development is subject to any standing advice published by the body in relation to the category of development.
+
+(4) The exception in paragraph (3)(d) does not apply where the standing advice was published more than 2 years before the date of the application for permission in principle and the advice has not been amended or confirmed as being current by the body within that period.
+
+(5) The Secretary of State may give directions to a local planning authority requiring that authority to consult any body mentioned in the directions in relation to any category of development specified in the directions.
+
+(6) Where a local planning authority are required to consult a body pursuant to this article before determining whether to grant permission in principle—
+
+- (a) they must give notice of any application for permission in principle to the body, unless the applicant has served a copy of the application on that body; and
+- (b) subject to paragraph (7), they must not determine the application until at least 14 days after the date on which notice is given under sub-paragraph (a) or, if earlier, 14 days after the date of service of a copy of the application on the body by the applicant.
+
+(7) Paragraph (6)(b) ceases to apply if before the end of the period referred to in that paragraph—
+
+- (a) the local planning authority have received representations concerning the application from the bodies consulted; or
+- (b) the bodies consulted have given notice that they do not intend to make representations.
+
+(8) The local planning authority must, in determining the application, take into account any representations received from any body consulted.
+
+### 5K. Consultations before the grant of planning permission: urgent Crown development[^key-55ca46d2971216a2fa82d89d8a20596e]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 5L. Consultation with county planning authority
+
+In relation to applications for permission in principle, the period prescribed for the purposes of paragraph 7(7)(c) of Schedule 1 to the 1990 Act is 14 days.
+
+### 5M. Representations by parish council or neighbourhood forum before determination of application
+
+(1) Where, in relation to an application for permission in principle—
+
+- (a) a parish council is given information pursuant to paragraph 8(1) of Schedule 1 to the 1990 Act; or
+- (b) a neighbourhood forum is given information pursuant to paragraph 8A of that Schedule,
+
+the council or the forum, as the case may be, must, as soon as practicable, notify the local planning authority who are determining the application whether it proposes to make any representations about the manner in which the application should be determined, and must make any representations to that authority within 14 days of the notification of the application.
+
+(2) A local planning authority must not determine any application in respect of which a parish council or neighbourhood forum are required to be given information before—
+
+- (a) the council or the forum, as the case may be, inform them that it does not propose to make any representations;
+- (b) representations are made by that council or forum; or
+- (c) the period of 14 days mentioned in paragraph (1) has elapsed,
+
+whichever occurs first; and in determining the application the authority must take into account any representations received.
+
+(3) The local planning register authority must notify the parish council, or as the case may be, the neighbourhood forum of—
+
+- (a) the terms of the decision on any such application; or
+- (b) where the application is referred to the Secretary of State—
+  - (i) the date when it was so referred; and
+  - (ii) when notified to the authority, the terms of the Secretary of State’s decision.
+
+(4) For the purposes of paragraph (3), “the local planning register authority” has the same meaning as in article 40 of the Town and Country Planning (Development Management Procedure) (England) Order 2015.
+
+### 5N. Duty to respond to consultation and annual reports
+
+(1) Subject to paragraph (2), for the purposes of applications for permission in principle, the requirements to consult which are prescribed for the purposes of section 54(2)(b) of the Planning and Compulsory Purchase Act 2004 (“the 2004 Act”) are those contained in—
+
+- (a) articles 5J and 5K of this Order and Schedule 4 to the Town and Country Planning (Development Management Procedure) (England) Order 2015 (as applied by those articles);
+- (b) article 5L of this Order;
+- (c) paragraph 4(2) of Schedule 1 to the 1990 Act; and
+- (d) paragraph 7 of Schedule 1 to the 1990 Act.
+
+(2) A requirement to consult under paragraph (zb)(iii) of Schedule 4 to the Town and Country Planning (Development Management Procedure) (England) Order 2015 is not a prescribed requirement for the purposes of section 54(2)(b) of the 2004 Act.
+
+(3) The period prescribed for the purposes of section 54(4)(a) of the 2004 Act in relation to applications for permission in principle is 14 days beginning with the day on which—
+
+- (a) the document on which the views of consultees are sought, or
+- (b) where there is more than one such document and they are sent on different days, the last of those documents,
+
+is received by the consultee, or such other period as may be agreed in writing between the consultee and the local planning authority.
+
+(4) The information to be provided to the consultee for the purposes of the consultation, pursuant to section 54(5)(b) of the 2004 Act, is such information as will enable that person to provide a substantive response.
+
+(5) For the purposes of this article and pursuant to section 54(5)(c) of the 2004 Act, a substantive response is one which—
+
+- (a) states that the consultee has no comment to make;
+- (b) states that, on the basis of the information available, the consultee is content with the development proposed;
+- (c) refers the local planning authority to current standing advice by the consultee on the subject of the consultation; or
+- (d) provides advice to the local planning authority.
+
+(6) Each consultee who is, by virtue of section 54 of the 2004 Act and this article, under a duty to respond to consultation must give to the Secretary of State, not later than 1st July in each year (beginning on 1st July 2019), a report as to that consultee’s compliance with section 54(4) of the 2004 Act in relation to the application for permission in principle.
+
+(7) The report must—
+
+- (a) in relation to the first report, relate to the period from 1st June 2018 until 31st March 2019; and
+- (b) in relation to subsequent reports, relate to the period of 12 months commencing on 1st April in the preceding year.
+
+(8) Each report must contain—
+
+- (a) a statement as to the number of occasions on which the consultee was consulted by a local planning authority;
+- (b) a statement as to the number of occasions on which a substantive response was given to a local planning authority within the period referred to in section 54(4) of the 2004 Act; and
+- (c) in relation to occasions on which the consultee has given a substantive response outside the period referred to in section 54(4) of the 2004 Act, a summary of the reasons why the consultee failed to comply with the duty to respond within that period.
+
+### 5P. Directions by the Secretary of State
+
+(1) The Secretary of State may give directions restricting the grant of permission in principle by a local planning authority, either indefinitely or during such a period as may be specified in the directions, in respect of any development or in respect of development of any class so specified.
+
+(2) A local planning authority must deal with applications for permission in principle for development to which a direction given under paragraph (1) applies, in such manner as to give effect to the direction.
+
+### 5Q. Development departing from the development plan
+
+A local planning authority may in such cases and subject to such conditions as may be prescribed by directions given by the Secretary of State under this Order, grant permission in principle for development which does not accord with the provisions of the development plan in force in the area in which the land to which the application relates is situated.
+
+### 5R. Representations to be taken into account
+
+(1) A local planning authority must, in determining an application for permission in principle, take into account any representations made where any notice of, or information about, the application has been—
+
+- (a) given by site display under article 5G, within 14 days beginning with the date when the notice was first displayed by site display;
+- (b) served on an infrastructure manager under article 5H, within 14 days beginning with the date when the notice was served on that person, provided that the representations are made by any person who they are satisfied is such an infrastructure manager; or
+- (c) published on a website under article 5G, within the period of 14 days beginning with the date on which the notice or information was published.
+
+(2) A local planning authority must give notice of their decision to every person who has made representations which they were required to take into account in accordance with paragraph (1).
+
+(3) Paragraphs (1) and (2) apply to applications referred to the Secretary of State under section 77 of the 1990 Act [^key-959f219ffe4277847323ed825c8d1b81]... and paragraphs (1) and (2) apply to appeals to the Secretary of State made under section 78 of the 1990 Act, as if the references to—
+
+- (a) a local planning authority were to the Secretary of State; and
+- (b) determining an application for permission in principle were to determining such an application or appeal, as the case may be.
+
+(4)[^key-80ba956a9a8d6612a0826fd3ea3f9e5f] When computing the number of days in paragraphs (1)(a) and (c), any day which is a public holiday must be disregarded [^key-c54c9a5f87061fcdc0288432c3734072]....
+
+### 5S. Time periods for decisions
+
+(1) Subject to paragraph (6), where a valid application has been received by a local planning authority the authority must within the period specified in paragraph (2) give the applicant notice of their decision or notice that the application has been referred to the Secretary of State.
+
+(2) The period specified in this paragraph is—
+
+- (a) 5 weeks beginning with the day immediately following that on which the application is received by the local planning authority; or
+- (b) unless the applicant has already given notice of appeal to the Secretary of State, such extended period as may be agreed in writing between the applicant and the local planning authority.
+
+(3) In this article “valid application” means an application which—
+
+- (a) complies with the requirements of article 5D, and
+- (b) consists of any fee required to be paid in respect of the application (and for this purpose, lodging a cheque for the amount of a fee is to be taken as payment),
+
+and a valid application is taken to have been received where the last of the documents or particulars referred to in article 5D(1) have been received by the authority and any fee required has been paid.
+
+(4) Where a fee due in respect of an application has been paid by a cheque which is subsequently dishonoured—
+
+- (a) paragraph (2)(a) has effect as if for “the application is received by the local planning authority” there were substituted “the local planning authority are satisfied that they have received the full amount of the fee”; and
+- (b) paragraph (2)(b) has effect as if, at the end, there were added “once the authority are satisfied that they have received the full amount of the fee”.
+
+(5) A local planning authority must provide such information about applications made under article 5D as the Secretary of State may by direction require and any such direction may include provision as to the persons to be informed and the manner in which the information is to be provided.
+
+(6) A local planning authority must not determine an application for permission in principle where any notice of, or information about, the application has been—
+
+- (a) given by site display under article 5G, before the end of the period of 14 days beginning with the date when the notice was first displayed by site display;
+- (b) served on an infrastructure manager under article 5H, before the end of the period of 14 days beginning with the date when the notice was served on that person; or
+- (c) published on a website under article 5G, within the period of 14 days beginning with the date on which the notice or information was published.
+
+(7)[^key-0069b008cb83c7552cbf8feb04cfcdfe] When computing the number of days in paragraphs (6)(a) and (6)(c), any day which is a public holiday must be disregarded.
+
+### 5T. Written notice of decision or determination relating to a planning application
+
+(1) When the local planning authority give notice of a decision in relation to an application for permission in principle—
+
+- (a) where permission in principle is refused, the notice must state clearly and precisely their full reasons for the refusal, specifying all policies and proposals in the development plan which are relevant to the decision; or
+- (b) where permission in principle is refused in pursuance of a direction given by the Secretary of State, the notice must give details of the direction.
+
+(2) Where paragraph (1)(a) applies, the notice must also include a statement explaining, whether, and if so how, in dealing with the application, the local planning authority have worked with the applicant in a positive and proactive manner based on seeking solutions to problems arising in relation to dealing with an application.
+
+(3) Where paragraph (1)(a) or (b) applies, the notice must be accompanied by a notification in the terms (or substantially in the terms) set out in Schedule 1.
+
+### 5U. Applications for non-material changes to permission in principle
+
+(1) This article applies in relation to an application made under section 96A(4) of the 1990 Act for a non-material change to a permission in principle.
+
+(2) An application must be made in writing to the local planning authority on a form published by the Secretary of State (or a form substantially to the same effect).
+
+(3) Where a local planning authority receive an application made in accordance with paragraph (2) they must give the applicant notice in writing of their decision on the application within 28 days of receipt of the application or such longer period as may be agreed in writing between the applicant and the authority.
+
+### 5V. Appeals in relation to permission in principle applications
+
+(1) An applicant who wishes to appeal to the Secretary of State under section 78 of the 1990 Act must give notice of appeal to the Secretary of State by serving on the Secretary of State within—
+
+- (a) the time limit specified in paragraph (3); or
+- (b) such longer period as the Secretary of State may at any time allow,
+
+a completed appeal form, obtained from the Secretary of State, together with such of the documents specified in paragraph (4) as are relevant to the appeal.
+
+(2) As soon as reasonably practicable after giving notice of appeal under paragraph (1), the applicant who wishes to appeal must serve on the local planning authority—
+
+- (a) a copy of the completed appeal form mentioned in paragraph (1); and
+- (b) a copy of the documents mentioned in paragraphs (4)(d) and (f) to (h) (where those paragraphs apply).
+
+(3) The time limit mentioned in paragraph (1) is 6 months from—
+
+- (a) the date of the notice of the decision or determination giving rise to the appeal; or
+- (b) in any other case, the expiry of the specified period.
+
+(4) The documents mentioned in paragraph (1) or (2) are—
+
+- (a) a copy of the application which was sent to the local planning authority which has occasioned the appeal;
+- (b) all plans, drawings and documents sent to the authority in connection with the application;
+- (c) all correspondence with the authority relating to the application;
+- (d) any other relevant plans, documents or drawings relating to the application which were not sent to the authority;
+- (e) the notice of the decision or determination, if any;
+- (f) subject to paragraph (5), the applicant’s full statement of case (if they wish to make additional representations);
+- (g) subject to paragraph (5), a statement of which procedure (written representations, a hearing or an inquiry) the applicant considers should be used to determine the appeal; and
+- (h) subject to paragraph (5), a draft statement of common ground if the applicant considers that the appeal should be determined through a hearing or an inquiry.
+
+(5) The relevant documents required in paragraphs (4)(d) and (4)(f) to (h) are not required to accompany the notice under paragraph (1) or be sent to the local planning authority under paragraph (2) where—
+
+- (a) a direction is given by the Secretary of State under section 321(3) of the 1990 Act (matters related to national security); [^key-a52aba81e166f160f7c9c112b9a0f112]...
+- (b)[^key-a52aba81e166f160f7c9c112b9a0f112] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(6) The Secretary of State may refuse to accept a notice of appeal from an applicant if the completed appeal form required under paragraph (1) and the documents required under paragraph (4) are not served on the Secretary of State within the time limit specified in paragraph (3).
+
+(7) The Secretary of State may provide, or arrange for the provision of, a website for use for such purposes as the Secretary of State thinks fit which—
+
+- (a) relate to appeals under section 78 of the 1990 Act and this article; and
+- (b) are capable of being carried out electronically.
+
+(8) Where a person gives notice of appeal to the Secretary of State using electronic communications, the person is taken to have agreed—
+
+- (a) to the use of such communications for all purposes relating to the appeal which are capable of being carried out electronically;
+- (b) that the person’s address for the purpose of such communications is the address incorporated into, or otherwise logically associated with, the person’s notice of appeal; and
+- (c) that the person’s deemed agreement under this paragraph subsists until notice is given in accordance with article 7A that the person wishes to revoke the agreement.
+
+(9) In this article—
+
+- “draft statement of common ground” means a written statement containing factual information about the proposal which is the subject of the appeal that the applicant reasonably considers will not be disputed by the local planning authority;
+- “full statement of case” means, and is comprised of, a written statement which contains full particulars of the case which a person proposes to put forward and copies of any documents which that person intends to refer to or put in evidence; and
+- “specified period” means the period specified in article 5S.
+
+## PART 3 — Permission in principle: general
+
+### 6. Planning register: permission in principle[^key-a8b9b5559461a47168fa3f0e1bb57b8c]
+
+(1) The planning register kept by each local planning register authority must also include, as Part 2A, a part relating to permissions in principle.
+
+(2) Part 2A of the planning register must consist of three sections—
+
+- (a) the first section must contain, in respect of every permission in principle granted pursuant to article 4 (permission in principle on allocation of land in a brownfield land register) in relation to land in the area of the local planning register authority—
+  - (i) a copy (which may be photographic or in electronic form) of the entry in the brownfield land register which relates to the land;
+  - (ii) the date the permission in principle takes effect and the date it expires; and
+  - (iii) the name of the local planning authority which allocated the land in the brownfield land register;
+- (b) the second section must contain, in respect of every application for permission in principle relating to land in the area of the local planning register authority made or sent to the authority and not finally disposed of, a copy (which may be photographic or in electronic form) of each application together with any accompanying plan and drawings; and
+- (c) the third section must contain, in respect of every application for permission in principle relating to land in the area of the local planning register authority which has been finally disposed of—
+  - (i) a copy (which may be photographic or in electronic form) of the application and of any plans and drawings submitted in relation to it;
+  - (ii) particulars of any direction given under the 1990 Act or this Order in respect of the application;
+  - (iii) the decision, if any, of the local planning authority in respect of the application, the date of such decision and the name of the local planning authority; and
+  - (iv) the reference number, the date and effect of any decision of the Secretary of State in respect of the application, whether on appeal [^key-e5a83f76fbe527b9d24e9ea17281ca63]... or on a reference under section 77 of the 1990 Act (reference of applications to Secretary of State).
+
+(3) Subject to paragraph (4), every entry in Part 2A of the planning register must be made—
+
+- (a) in the case of entries required under paragraph (2)(a), within 14 days of entering the land into Part 2 of the brownfield land register; and
+- (b) in the case of entries required under paragraph (2)(b) or (c), within 14 days of the receipt of an application, or of the giving or making of the relevant direction or decision, as the case may be.
+
+(4)[^key-a1cf746a947f295a4512ece3eb1ff9e6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5) For the purposes of paragraph (2), an application is not treated as finally disposed of unless and until—
+
+- (a) it has been decided by the authority (or the period specified in article 5S has expired without their giving a decision) and the time limit specified in article 5V has expired without any appeal having been made to the Secretary of State;
+- (b) it has been referred to the Secretary of State under section 77 of the 1990 Act (reference of applications to the Secretary of State) or an appeal has been made to the Secretary of State under section 78 of the 1990 Act, the Secretary of State has issued a decision and the period of 6 weeks specified in section 288 of the 1990 Act has expired without any application having been made to the High Court under that section;
+- (c) an application has been made to the High Court under section 288 of the 1990 Act and the matter has been finally determined, either by final dismissal of the application by a court or by the quashing of the Secretary of State’s decision and the issue of a fresh decision (without a further application under section 288 of that Act); or
+- (d) it has been withdrawn before being decided by the authority or the Secretary of State, as the case may be, or an appeal has been withdrawn before the Secretary of State has issued a decision.
+
+(6) In this article—
+
+- “local planning register authority” has the same meaning as in article 40 of the Town and Country Planning (Development Management Procedure) (England) Order 2015; and
+- “planning register” means the register kept by a local planning register authority under article 40 of that Order.
+
+### 7. Prescribed period for the purposes of section 70(2ZZC) of the 1990 Act[^key-744789d2f6f148dd9b45b8abbb54a711]
+
+For the purposes of section 70(2ZZC) of the 1990 Act the prescribed period for a permission in principle —[^key-00f144c69b24f14df0849bff357103e8]
+
+- (a) granted pursuant to article 4 is 5 years; and
+- (b) granted following an application to the local planning authority is 3 years.
+
+### 7A. Electronic communications[^key-8ea534af45fddf140fd1be4bcf4dd012]
+
+Where a person is no longer willing to accept the use of electronic communications for any purpose of this Order which is capable of being carried out electronically, the person must give notice in writing—
+
+- (a) withdrawing any address notified to the Secretary of State or to a local planning authority for that purpose; or
+- (b) revoking any agreement entered into or deemed to have been entered into with the Secretary of State or with a local planning authority for that purpose,
+
+and such withdrawal or revocation takes effect on the date specified by the person in the notice which date must not be less than 7 days after the date on which the notice is given.
+
+## PART 4 — Miscellaneous
+
+### 8. Amendments to secondary legislation in relation to permission in principle[^key-3ebfbf8d8cb74e968cd427619b5445a9]
+
+The Schedule, which contains amendments to secondary legislation, has effect.
+
+### 9. Review[^key-9a3fa9546e51bbfc040f3efd3b587fab]
+
+(1) The Secretary of State must from time to time—
+
+- (a) carry out a review of the regulatory provisions contained in this Order; and
+- (b) publish a report setting out the conclusions of the review.
+
+(2) The first report must be published by 15th April 2022.
+
+(3) Subsequent reports must be published at intervals not exceeding 5 years.
+
+(4) Section 30(4) of the Small Business, Enterprise and Employment Act 2015[^f00005] requires that a report published under this article must, in particular—
+
+- (a) set out the objectives intended to be achieved by the regulatory provision referred to in paragraph (1)(a),
+- (b) assess the extent to which those objectives are achieved,
+- (c) assess whether those objectives remain appropriate, and
+- (d) if those objectives remain appropriate, assess the extent to which they could be achieved in another way which involves less onerous regulatory provision.
+
+(5) In this article, “regulatory provision” has the same meaning as given by sections 28 to 32 of the Small Business, Enterprise and Employment Act 2015 (see section 32 of that Act).
+
+Signed by authority of the Secretary of State for Communities and Local Government
+
+Gavin Barwell
+
+Minister of State
+
+Department for Communities and Local Government
+
+20th March 2017
+
+## SCHEDULE 1[^key-c8999285eb0153eccfb339d0bfe08907][^key-847dc2a04298f2c9ce1eca5ddf1964e8]
+
+Article 8
+
+[image: see source](https://www.legislation.gov.uk/uksi/2017/402/images/uksi_20170402_en_epp_001.gif)[image: see source](https://www.legislation.gov.uk/uksi/2017/402/images/uksi_20170402_en_epp_002.gif)[image: see source](https://www.legislation.gov.uk/uksi/2017/402/images/uksi_20170402_en_epp_003.gif)
+
+ 
+
+## SCHEDULE 2 — Amendments to secondary legislation[^key-1c0ce13997d8bb0d3d81146ca4b7cd2e]
+
+Article 8
+
+### 1. Amendment of the Town and Country Planning (Environmental Impact Assessment) Regulations 2011[^key-02ab9c407a373df910b082f4cb400da9]
+
+(1) The Town and Country Planning (Environmental Impact Assessment) Regulations 2011[^f00006] are amended as follows.
+
+(2) In regulation 61 for paragraph (2) substitute—
+
+> (2) Subject to paragraph (3), where it falls to an authority to determine an EIA application, articles 27 (applications made under planning condition) and 34 (time periods for decision) of the Town and Country Planning (Development Management Procedure) (England) Order 2015 shall have effect as if for each of the references in article 27(2) and 34(2)(a) and (b) to a period of 8 and 13 weeks respectively there were substituted a reference to a period of 16 weeks.
+>
+> (3) Where it falls to an authority to determine an application for technical details consent for EIA development, article 34 (time periods for decisions) of the Town and Country Planning (Development Management Procedure) (England) Order 2015 shall have effect as if for each reference in article 34(2) to a period of 5 or 10 weeks respectively there were substituted a reference to a period of 16 weeks.
+
+.
+
+### 2. Amendment of the Town and Country Planning (Development Management Procedure) (England) Order 2015[^key-30618aa4410d83a4257991f833573eff]
+
+(1) The Town and Country Planning (Development Management Procedure) (England) Order 2015[^f00007] is amended as follows.
+
+(2) In article 15 (publicity for applications for planning permission)—
+
+- (a) after paragraph (4) insert—
+
+  > (4A) In a case of an application for technical details consent to which neither paragraph (2) nor paragraph (4) applies, the application must be publicised—
+  >
+  > - (a) in accordance with the requirements of paragraph (7), and
+  > - (b) by giving requisite notice by site display in at least one place on or near the land to which the application relates for not less than 21 days.
+
+  ;
+- (b) in paragraph (5) for “neither paragraph (2) nor paragraph (4) applies” substitute “paragraphs (2), (4) or (4A) do not apply”; and
+- (c) in paragraph (6) after “paragraph (3)(a), (4)(a)(i)” insert “, (4A)(b)”.
+
+(3) In article 18 (consultations before grant of permission)—
+
+- (a) in paragraph (1) at the beginning insert “Subject to paragraph (1A),”;
+- (b) after paragraph (1) insert—
+
+  > (1A) Paragraph (1) does not apply in relation to an application for technical details consent unless the authority or person mentioned in relation to a category in the Table in Schedule 4 has advised the local planning authority by a valid notice that they wish to be consulted in relation to the development.
+  >
+  > (1B) For the purposes of paragraph (1A) a notice is valid if it specifies a particular site and it was given in writing to the local planning authority before the date on which the permission in principle to which the application for technical details consent relates was granted.
+
+  .
+
+(4) In article 34 (time period for decisions)—
+
+- (a) in sub-paragraph (a) of paragraph (2), at the beginning insert “subject to sub-paragraph (aa),”;
+- (b) after sub-paragraph (a) of paragraph (2) insert—
+
+  > - (aa) in relation to an application for technical details consent for major development, 10 weeks beginning with the day immediately following that on which the application is received by the local planning authority;
+
+  ;
+- (c) in sub-paragraph (b) of paragraph (2), at the beginning insert “subject to sub-paragraph (bb),”; and
+- (d) after sub-paragraph (b) of paragraph (2) insert—
+
+  > - (bb) in relation to an application for technical details consent which is not major development, 5 weeks beginning with the day immediately following that on which the application is received by the local planning authority;
+
+  .
+
+(5) In article 37(3) (appeals) after paragraph (iii) of sub-paragraph (b) insert—
+
+> - (iiia) where the application was an application for technical details consent, details of the relevant permission in principle;
+
+.
+
+(6) In Schedule 1 (letter to be sent to an applicant on receipt of application) for “in case of applications for major development, 13 weeks, or in all other cases, 8 weeks,”, in both places, substitute—
+
+> *in the case of applications for technical details consent for major development, 10 weeks,*
+>
+> *in the case of other applications for major development, 13 weeks,*
+>
+> *in the case of applications for technical details consent which is not major development, 5 weeks,*
+>
+> *in the case of any other applications, 8 weeks,*
+
+.
+
+(7) In Schedule 3 (requisite notice) at the end insert the notice set out below—
+
+[image: see source](https://www.legislation.gov.uk/uksi/2017/402/images/uksi_20170402_en_001)
+
+### 3. Amendment of the Town and Country Planning (Compensation) (England) Regulations 2015[^key-188b9d668c781e6dfac7850a3086c6ef]
+
+(1) The Town and Country Planning (Compensation) (England) Regulations 2015[^f00008] are amended as follows.
+
+(2) After regulation 1 insert—
+
+> **1A. Compensation for revocation or modification of permission in principle granted by development order**
+>
+> (1) Paragraph (2) applies where, in relation to development on particular land—
+>
+> - (a) permission in principle granted by a development order is revoked or modified pursuant to section 97(1)(b) of the 1990 Act (including section 97 as applied by section 100 of the Act), and
+> - (b) on an application made under Part 3 of the 1990 Act before the end of the period of 12 months beginning with the date on which the revocation or modification takes effect, outline planning permission (within the meaning in section 92 of the 1990 Act) is refused for development of a description that is the same as, or falls within, the development described in the permission in principle (before it was revoked or modified).
+>
+> (2) Subject to paragraph (3), where paragraph (1) applies section 107 of the 1990 Act shall apply as if the permission in principle granted by the development order had been granted by the local planning authority under Part 3 of the 1990 Act, and had been revoked or modified by an order under section 97(1)(a) of the 1990 Act.
+>
+> (3) Paragraph (2) does not apply if the order under section 97 of the 1990 Act to revoke or modify the permission in principle is made at least 12 months and not more than 5 years before the revocation or modification takes effect.
+
+.
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order, which applies in England only, makes provisions in relation to permission in principle. Permission in principle and its effect are described in sections 58A, 59A and 70(2ZZA) to (2ZZC) of the Town and Country Planning Act 1990 (“the 1990 Act”) (those provisions were inserted by section 150 of the Housing and Planning Act [2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22)).
+
+Article 3 prescribes the particulars which a register under section 14A of the Planning and Compulsory Purchase Act 2004 (“brownfield land register”) must contain if the land in question is to be granted permission in principle as land allocated in that qualifying document.
+
+Article 4 grants permission in principle to any land entered in Part 2 of the brownfield land register. The Town and Country Planning (Brownfield Land Register) Regulations 2017 ([S.I. 2017/403](https://www.legislation.gov.uk/uksi/2017/403)) provide that local planning authorities must enter land in Part 2 of the brownfield land register where they allocate land for residential development (which is defined in those Regulations as development the main purpose of which is housing development). The permission granted by article 4 of this Order is an ‘in principle’ permission for development of land. Planning permission, in the form of technical details consent, would still be needed before development of the land could begin.
+
+Article 5 provides that a local planning authority may, by direction, set the date when permission in principle in relation to a particular allocation comes into force.
+
+Article 6 requires that each local planning register authority, as Part 2A of their planning register, must keep a register of any permission in principle, and sets out what each entry for permission in principle must contain and the date by which the entry must be made.
+
+Article 7 prescribes the period of 5 years as the period during which a technical details application must be determined in accordance with the permission in principle.
+
+Article 8 and the Schedule set out a number of amendments to secondary legislation relating to permission in principle and technical details consent. In particular the amendments to the Town and Country Planning (Development Management Procedure) (England) Order 2015 ([S.I. 2015/595](https://www.legislation.gov.uk/uksi/2015/595)) make a number of changes to the application procedure for planning permission in the form of technical details consent. The Schedule also inserts into the Town and Country Planning (Compensation) (England) Regulations 2015 ([S.I. 2015/598](https://www.legislation.gov.uk/uksi/2015/598)) a new provision (regulation 1A) for compensation in relation to the modification or revocation of permission in principle granted under article 4 of this Order. This provides that where such permission in principle for development is modified or revoked by an order under section 97 of the 1990 Act and subsequent to that modification or revocation (but within 12 months) an application for outline planning permission is refused for that development then compensation is payable under section 107 of the 1990 Act in the same way as for the modification or revocation of a planning permission. Paragraph (3) of new regulation 1A provides that compensation is not payable if at least 12 months’ notice of the revocation or modification is given (but the notice may not be given more than 5 years before the revocation or modification is to take effect).
+
+Article 9 provides for a review of the Order by 15th April 2022.
+
+An Impact Assessment was prepared in relation to section 150 of the Housing and Planning Act 2016 and can be found at www.parliament.uk/documents/impact-assessments/IA16-002C.pdf and a further Impact Assessment is being prepared in relation to the policies in this Order and will be published at www.legislation.gov.uk. Copies may be obtained from the Planning Directorate, Department for Communities and Local Government, Fry Building, 2 Marsham Street, London SW1P 4DF.
+
+## Annotations
+
+[^f00001]: Footnote: [1990 c. 8](https://www.legislation.gov.uk/ukpga/1990/8); section 59A was inserted by section 150(2) of the Housing and Planning Act [2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22) (“the 2016 Act”); section 62 was substituted by section 42(1) of the Planning and Compulsory Purchase Act [2004 (c. 5)](https://www.legislation.gov.uk/ukpga/2004/5) (“the 2004 Act”) and amended by paragraphs 7 and 8 of Schedule 12 to the 2016 Act; section 65 was substituted by section 16(1) of the Planning and Compensation Act [1991 (c. 34)](https://www.legislation.gov.uk/ukpga/1991/34) (“the 1991 Act”) and relevant amendments are made by paragraph 9 of Schedule 12 to the 2016 Act; section 70(2ZZC) was inserted by section 150(3) of the 2016 Act; section 71 was amended by section 16 of, and paragraph 15 of Schedule 7 to, the 1991 Act and by paragraph 15 of Schedule 12 to the 2016 Act; section 71A was inserted by section 15 of the 1991 Act and amended by paragraph 16 of Schedule 12 to the 2016 Act; section 74 was amended by sections 19(1) and 84(6) of, and paragraph 17 of Schedule 7 and Part 1 of Schedule 19 to, the 1991 Act, paragraph 9 of Schedule 12 to the Localism Act [2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20) (“the 2011 Act”) and paragraph 17 of Schedule 12 to the 2016 Act; section 78 was amended by section 17(2) of the 1991 Act, section 43(2) of the 2004 Act, paragraph 7 of Schedule 7 and paragraphs 1 and 2 of Schedule 11 to the Planning Act 2008 Act (c. 29), section 123 of the 2011 Act and paragraph 8 of Schedule 1 to the Growth and Infrastructure Act [2013 (c. 27)](https://www.legislation.gov.uk/ukpga/2013/27) and by paragraph 21 of Schedule 12 to the 2016 Act; and section 107(4A) was inserted by paragraph 28 of Schedule 12 to the 2016 Act.
+
+[^key-097b985048f3ccb77867b87cdbd4c8d4]: Commencement: Art. 1 in force at 15.4.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/402/article/1)
+
+[^key-a40f8320e107d693c6ab7f8c0c79b804]: Commencement: Art. 2 in force at 15.4.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/402/article/1)
+
+[^f00002]: Footnote: [S.I. 2017/403](https://www.legislation.gov.uk/uksi/2017/403).
+
+[^key-68bce4c7f009d567eade45aa7fc20c35]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2017/402/article/2) inserted (1.6.2018) by [The Town and Country Planning (Permission in Principle) (Amendment) Order 2017 (S.I. 2017/1309)](https://www.legislation.gov.uk/uksi/2017/1309), [arts. 1](https://www.legislation.gov.uk/uksi/2017/1309/article/1), [3](https://www.legislation.gov.uk/uksi/2017/1309/article/3)
+
+[^f00003]: Footnote: Development is defined in section 55 of the 1990 Act and includes material change of use of buildings.
+
+[^key-1d00fc6a855c5d947cde477dcf533d43]: Textual amendment: Word in [art. 2](https://www.legislation.gov.uk/uksi/2017/402/article/2) omitted (coming into force in accordance with art. 1(6) of the amending S.I.) by virtue of [The Town and Country Planning (Local Authority Consultations etc.) (England) Order 2018 (S.I. 2018/119)](https://www.legislation.gov.uk/uksi/2018/119), [art. 28(a)](https://www.legislation.gov.uk/uksi/2018/119/article/28/a)
+
+[^key-6de57c5a8744d9e7362895ac7d8f373e]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2017/402/article/2) inserted (coming into force in accordance with art. 1(6) of the amending S.I.) by [The Town and Country Planning (Local Authority Consultations etc.) (England) Order 2018 (S.I. 2018/119)](https://www.legislation.gov.uk/uksi/2018/119), [art. 28(b)](https://www.legislation.gov.uk/uksi/2018/119/article/28/b)
+
+[^key-b63576e59c8b67299b2ad8cd4b31390c]: Commencement: Art. 3 in force at 15.4.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/402/article/1)
+
+[^key-e3fa5912686cef48192347da4ac83f60]: Commencement: Art. 4 in force at 15.4.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/402/article/1)
+
+[^key-3cba3033cd9444304af62db18926c20e]: Commencement: Art. 5 in force at 15.4.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/402/article/1)
+
+[^key-6b4f2d7bfe9f91fcf0c0992bde50249b]: Textual amendment: [Pt. 2A](https://www.legislation.gov.uk/uksi/2017/402/part/2A) inserted (1.6.2018) by [The Town and Country Planning (Permission in Principle) (Amendment) Order 2017 (S.I. 2017/1309)](https://www.legislation.gov.uk/uksi/2017/1309), [arts. 1](https://www.legislation.gov.uk/uksi/2017/1309/article/1), [4](https://www.legislation.gov.uk/uksi/2017/1309/article/4)
+
+[^key-43debe26a68f731f4b06fc343a29f3d0]: Textual amendment: Words in [art. 5B(5)](https://www.legislation.gov.uk/uksi/2017/402/article/5B/5) inserted (28.12.2018) by [The Conservation of Habitats and Species and Planning (Various Amendments) (England and Wales) Regulations 2018 (S.I. 2018/1307)](https://www.legislation.gov.uk/uksi/2018/1307), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1307/regulation/1/1), [4(2)(a)](https://www.legislation.gov.uk/uksi/2018/1307/regulation/4/2/a)
+
+[^key-20bb0dd8e486eb18f98e46a17f2b9433]: Textual amendment: Words in [art. 5B(5)](https://www.legislation.gov.uk/uksi/2017/402/article/5B/5) substituted (28.12.2018) by [The Conservation of Habitats and Species and Planning (Various Amendments) (England and Wales) Regulations 2018 (S.I. 2018/1307)](https://www.legislation.gov.uk/uksi/2018/1307), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1307/regulation/1/1), [4(2)(b)](https://www.legislation.gov.uk/uksi/2018/1307/regulation/4/2/b)
+
+[^key-67865c5f763bf3b7d436de0a5aadedeb]: Textual amendment: [Art. 5G(7)](https://www.legislation.gov.uk/uksi/2017/402/article/5G/7) omitted (1.5.2025) by virtue of [The Town and Country Planning (Consequential and Miscellaneous Amendments) Regulations 2025 (S.I. 2025/412)](https://www.legislation.gov.uk/uksi/2025/412), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/412/regulation/1/1), [14(2)](https://www.legislation.gov.uk/uksi/2025/412/regulation/14/2)
+
+[^key-913834e491461b32c16b574abc2c980f]: Textual amendment: [Art. 5G(8)](https://www.legislation.gov.uk/uksi/2017/402/article/5G/8) inserted (coming into force in accordance with art. 1(6) of the amending S.I.) by [The Town and Country Planning (Local Authority Consultations etc.) (England) Order 2018 (S.I. 2018/119)](https://www.legislation.gov.uk/uksi/2018/119), [art. 29](https://www.legislation.gov.uk/uksi/2018/119/article/29)
+
+[^key-55ca46d2971216a2fa82d89d8a20596e]: Textual amendment: [Art. 5K](https://www.legislation.gov.uk/uksi/2017/402/article/5K) omitted (1.5.2025) by virtue of [The Town and Country Planning (Consequential and Miscellaneous Amendments) Regulations 2025 (S.I. 2025/412)](https://www.legislation.gov.uk/uksi/2025/412), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/412/regulation/1/1), [14(3)](https://www.legislation.gov.uk/uksi/2025/412/regulation/14/3)
+
+[^key-959f219ffe4277847323ed825c8d1b81]: Textual amendment: Words in [art. 5R(3)](https://www.legislation.gov.uk/uksi/2017/402/article/5R/3) omitted (1.5.2025) by virtue of [The Town and Country Planning (Consequential and Miscellaneous Amendments) Regulations 2025 (S.I. 2025/412)](https://www.legislation.gov.uk/uksi/2025/412), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/412/regulation/1/1), [14(4)(a)](https://www.legislation.gov.uk/uksi/2025/412/regulation/14/4/a)
+
+[^key-80ba956a9a8d6612a0826fd3ea3f9e5f]: Textual amendment: [Art. 5R(4)](https://www.legislation.gov.uk/uksi/2017/402/article/5R/4) inserted (coming into force in accordance with art. 1(6) of the amending S.I.) by [The Town and Country Planning (Local Authority Consultations etc.) (England) Order 2018 (S.I. 2018/119)](https://www.legislation.gov.uk/uksi/2018/119), [art. 30](https://www.legislation.gov.uk/uksi/2018/119/article/30)
+
+[^key-c54c9a5f87061fcdc0288432c3734072]: Textual amendment: Words in [art. 5R(4)](https://www.legislation.gov.uk/uksi/2017/402/article/5R/4) omitted (1.5.2025) by virtue of [The Town and Country Planning (Consequential and Miscellaneous Amendments) Regulations 2025 (S.I. 2025/412)](https://www.legislation.gov.uk/uksi/2025/412), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/412/regulation/1/1), [14(4)(b)](https://www.legislation.gov.uk/uksi/2025/412/regulation/14/4/b)
+
+[^key-0069b008cb83c7552cbf8feb04cfcdfe]: Textual amendment: [Art. 5S(7)](https://www.legislation.gov.uk/uksi/2017/402/article/5S/7) inserted (coming into force in accordance with art. 1(6) of the amending S.I.) by [The Town and Country Planning (Local Authority Consultations etc.) (England) Order 2018 (S.I. 2018/119)](https://www.legislation.gov.uk/uksi/2018/119), [art. 31](https://www.legislation.gov.uk/uksi/2018/119/article/31)
+
+[^key-a52aba81e166f160f7c9c112b9a0f112]: Textual amendment: [Art. 5V(5)(b)](https://www.legislation.gov.uk/uksi/2017/402/article/5V/5/b) and word omitted (1.5.2025) by virtue of [The Town and Country Planning (Consequential and Miscellaneous Amendments) Regulations 2025 (S.I. 2025/412)](https://www.legislation.gov.uk/uksi/2025/412), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/412/regulation/1/1), [14(5)](https://www.legislation.gov.uk/uksi/2025/412/regulation/14/5)
+
+[^key-a8b9b5559461a47168fa3f0e1bb57b8c]: Textual amendment: [Art. 6](https://www.legislation.gov.uk/uksi/2017/402/article/6) substituted (1.6.2018) by [The Town and Country Planning (Permission in Principle) (Amendment) Order 2017 (S.I. 2017/1309)](https://www.legislation.gov.uk/uksi/2017/1309), [arts. 1](https://www.legislation.gov.uk/uksi/2017/1309/article/1), [5](https://www.legislation.gov.uk/uksi/2017/1309/article/5)
+
+[^key-e5a83f76fbe527b9d24e9ea17281ca63]: Textual amendment: Words in [art. 6(2)(c)(iv)](https://www.legislation.gov.uk/uksi/2017/402/article/6/2/c/iv) omitted (1.5.2025) by virtue of [The Town and Country Planning (Consequential and Miscellaneous Amendments) Regulations 2025 (S.I. 2025/412)](https://www.legislation.gov.uk/uksi/2025/412), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/412/regulation/1/1), [14(6)(a)](https://www.legislation.gov.uk/uksi/2025/412/regulation/14/6/a)
+
+[^key-a1cf746a947f295a4512ece3eb1ff9e6]: Textual amendment: [Art. 6(4)](https://www.legislation.gov.uk/uksi/2017/402/article/6/4) omitted (1.5.2025) by virtue of [The Town and Country Planning (Consequential and Miscellaneous Amendments) Regulations 2025 (S.I. 2025/412)](https://www.legislation.gov.uk/uksi/2025/412), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/412/regulation/1/1), [14(6)(b)](https://www.legislation.gov.uk/uksi/2025/412/regulation/14/6/b)
+
+[^key-744789d2f6f148dd9b45b8abbb54a711]: Commencement: Art. 7 in force at 15.4.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/402/article/1)
+
+[^key-00f144c69b24f14df0849bff357103e8]: Textual amendment: [Art. 7(a)(b)](https://www.legislation.gov.uk/uksi/2017/402/article/7/a/b) substituted for words (1.6.2018) by [The Town and Country Planning (Permission in Principle) (Amendment) Order 2017 (S.I. 2017/1309)](https://www.legislation.gov.uk/uksi/2017/1309), [arts. 1](https://www.legislation.gov.uk/uksi/2017/1309/article/1), [6](https://www.legislation.gov.uk/uksi/2017/1309/article/6)
+
+[^key-8ea534af45fddf140fd1be4bcf4dd012]: Textual amendment: [Art. 7A](https://www.legislation.gov.uk/uksi/2017/402/article/7A) inserted (1.6.2018) by [The Town and Country Planning (Permission in Principle) (Amendment) Order 2017 (S.I. 2017/1309)](https://www.legislation.gov.uk/uksi/2017/1309), [arts. 1](https://www.legislation.gov.uk/uksi/2017/1309/article/1), [7](https://www.legislation.gov.uk/uksi/2017/1309/article/7)
+
+[^key-3ebfbf8d8cb74e968cd427619b5445a9]: Commencement: Art. 8 in force at 15.4.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/402/article/1)
+
+[^key-9a3fa9546e51bbfc040f3efd3b587fab]: Commencement: Art. 9 in force at 15.4.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/402/article/1)
+
+[^f00005]: Footnote: [2015 c. 26](https://www.legislation.gov.uk/ukpga/2015/26).
+
+[^key-c8999285eb0153eccfb339d0bfe08907]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/2017/402/schedule/1): in the second notice, in the list of insertions, (f) is substituted (coming into force in accordance with art. 1(6) of the amending S.I.) by [The Town and Country Planning (Local Authority Consultations etc.) (England) Order 2018 (S.I. 2018/119)](https://www.legislation.gov.uk/uksi/2018/119), [art. 32](https://www.legislation.gov.uk/uksi/2018/119/article/32)
+
+[^key-847dc2a04298f2c9ce1eca5ddf1964e8]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/2017/402/schedule/1) inserted (1.6.2018) by [The Town and Country Planning (Permission in Principle) (Amendment) Order 2017 (S.I. 2017/1309)](https://www.legislation.gov.uk/uksi/2017/1309), [arts. 1](https://www.legislation.gov.uk/uksi/2017/1309/article/1), [8](https://www.legislation.gov.uk/uksi/2017/1309/article/8), [Sch. 1](https://www.legislation.gov.uk/uksi/2017/1309/schedule/1)
+
+[^key-1c0ce13997d8bb0d3d81146ca4b7cd2e]: Textual amendment: [Sch.](https://www.legislation.gov.uk/uksi/2017/402/schedule/2) renumbered as Sch. 2 (1.6.2018) by [The Town and Country Planning (Permission in Principle) (Amendment) Order 2017 (S.I. 2017/1309)](https://www.legislation.gov.uk/uksi/2017/1309), [arts. 1](https://www.legislation.gov.uk/uksi/2017/1309/article/1), [8](https://www.legislation.gov.uk/uksi/2017/1309/article/8)
+
+[^key-02ab9c407a373df910b082f4cb400da9]: Commencement: Sch. para. 1 in force at 15.4.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/402/article/1)
+
+[^f00006]: Footnote: [S.I. 2011/1824](https://www.legislation.gov.uk/uksi/2011/1824) to which there are amendments not relevant to this Order.
+
+[^key-30618aa4410d83a4257991f833573eff]: Commencement: Sch. para. 2 in force at 15.4.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/402/article/1)
+
+[^f00007]: Footnote: [S.I. 2015/595](https://www.legislation.gov.uk/uksi/2015/595).
+
+[^key-188b9d668c781e6dfac7850a3086c6ef]: Commencement: Sch. para. 3 in force at 15.4.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/402/article/1)
+
+[^f00008]: Footnote: [S.I. 2015/598](https://www.legislation.gov.uk/uksi/2015/598), as amended by [S.I. 2016/331](https://www.legislation.gov.uk/uksi/2016/331).

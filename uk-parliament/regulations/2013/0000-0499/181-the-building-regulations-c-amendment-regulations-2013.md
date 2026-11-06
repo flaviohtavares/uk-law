@@ -1,0 +1,214 @@
+---
+title: The Building Regulations &c. (Amendment) Regulations 2013
+id: uksi/2013/181
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2013-01-31'
+text_date: '2024-04-06'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2013/181
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2013/181/pdfs/uksiem_20130181_en.pdf
+- http://www.legislation.gov.uk/uksi/2013/181/pdfs/uksi_20130181_en.pdf
+- http://www.legislation.gov.uk/uksi/2013/181/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Building Regulations &c. (Amendment) Regulations 2013
+
+> Text as at 2024-04-06.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+This Statutory Instrument has been made in consequence of defects in [S.I. 2012/3118](https://www.legislation.gov.uk/uksi/2012/3118) and [S.I. 2012/3119](https://www.legislation.gov.uk/uksi/2012/3119) and is being issued free of charge to all known recipients of those Statutory Instruments.
+
+2013 No. 181
+
+Building And Buildings, England And Wales
+
+The Building Regulations &c. (Amendment) Regulations 2013
+
+Made
+
+31st January 2013
+
+Laid before Parliament
+
+5th February 2013
+
+Coming into force in accordance with regulation 1
+
+The Secretary of State is a Minister designated[^f00001] for the purposes of section 2(2) of the European Communities Act 1972[^f00002] in relation to measures relating to the environment.
+
+The Secretary of State, in exercise of the powers conferred by section 2(2) of the European Communities Act 1972 and sections 1, 2A, 16(9) and (10), 17(1) and (6), 34, 47(1) to (5), 49(5), 50(1), (4) and (6), 51(1) and (2), 51A(2), (3) and (6) and 56(1) and (2) of, and paragraphs 1, 2, 4, 4A, 7, 8 and 10 of Schedule 1 to, the Building Act 1984[^f00003], makes the following Regulations:
+
+## PART 1 — Introductory
+
+### 1. Citation, extent and commencement[^key-cb5a0d9ef24ea9fbbae13d882ef00749]
+
+(1) These Regulations may be cited as the Building Regulations &c. (Amendment) Regulations 2013.
+
+(2) These Regulations extend to England and Wales.
+
+(3) These Regulations shall come into force on the day after they are laid.
+
+### 2. Interpretation[^key-06f121ffd0ec0c3b526eed7d304de44b]
+
+In these Regulations—
+
+- “the 2010 Regulations” means the Building Regulations 2010[^f00004];
+- “the Building Amendment Regulations” means the Building Regulations &c. (Amendment) Regulations 2012[^f00005]; and
+- “the EPB Regulations” means the Energy Performance of Buildings (England and Wales) Regulations 2012[^f00006].
+
+### 3. Amendment of regulations[^key-6410112cdb31320feb78e7a1ac7f687c]
+
+These Regulations amend the Building Amendment Regulations, the 2010 Regulations and the EPB Regulations.
+
+## PART 2 — Amendments to the Building Amendment Regulations
+
+### 4. Amendments to the Building Amendment Regulations[^key-1d5c301c2f926c99d4534845f1348e5a]
+
+The Building Amendment Regulations are amended in accordance with regulations 5 and 6.
+
+**5.**[^key-f67981d76aa9e1b87b27fe8bb2ae1b16] In Schedule 1 in the table of commencement, for the provisions that come into force after 28th January 2013, substitute the provisions set out in the table in the Schedule to these Regulations.
+
+**6.**[^key-782e3e82e33fd7f854a9c77d6b401dcd] In regulation 41— *(Extent: E)* *(affected by repeal, see note)*[^M_F_0138965d-9db4-431e-e51a-26fbb01ed23a]
+
+- (a (Extent: E) (affected by repeal, see note))[^M_F_0138965d-9db4-431e-e51a-26fbb01ed23a] for paragraph (2)(b) substitute— *(Extent: E)* *(affected by repeal, see note)*[^M_F_0138965d-9db4-431e-e51a-26fbb01ed23a]
+
+  > - (b (Extent: E) (affected by repeal, see note))[^M_F_0138965d-9db4-431e-e51a-26fbb01ed23a] after the end of paragraph 11 insert— *(Extent: E)* *(affected by repeal, see note)*[^M_F_0138965d-9db4-431e-e51a-26fbb01ed23a]
+  >
+  >   > **12 (Extent: E) (affected by repeal, see note).**[^M_F_0138965d-9db4-431e-e51a-26fbb01ed23a] I *(Extent: E)* *(affected by repeal, see note)*[^M_F_0138965d-9db4-431e-e51a-26fbb01ed23a] **(7) *(Extent: E)* *(affected by repeal, see note)*[^M_F_0138965d-9db4-431e-e51a-26fbb01ed23a]** am an approved inspector for the purposes of Part 2 of the Act in respect of the work described in this notice. *(Extent: E)* *(affected by repeal, see note)*[^M_F_0138965d-9db4-431e-e51a-26fbb01ed23a]
+  >   >
+  >   > **13 (Extent: E) (affected by repeal, see note).**[^M_F_0138965d-9db4-431e-e51a-26fbb01ed23a] Copies of the notice of approval and of a declaration of insurance relevant to the work described in this notice are on the register kept by the body designated under regulation 3 of the *(Extent: E)* *(affected by repeal, see note)*[^M_F_0138965d-9db4-431e-e51a-26fbb01ed23a] 2010 Regulations *(Extent: E)* *(affected by repeal, see note)*[^M_F_0138965d-9db4-431e-e51a-26fbb01ed23a]. *(Extent: E)* *(affected by repeal, see note)*[^M_F_0138965d-9db4-431e-e51a-26fbb01ed23a]
+  >
+  >   . *(Extent: E)* *(affected by repeal, see note)*[^M_F_0138965d-9db4-431e-e51a-26fbb01ed23a]
+
+  ; *(Extent: E)* *(affected by repeal, see note)*[^M_F_0138965d-9db4-431e-e51a-26fbb01ed23a]
+- (b (Extent: E) (affected by repeal, see note))[^M_F_0138965d-9db4-431e-e51a-26fbb01ed23a] for paragraph (5)(b) substitute— *(Extent: E)* *(affected by repeal, see note)*[^M_F_0138965d-9db4-431e-e51a-26fbb01ed23a]
+
+  > - (b (Extent: E) (affected by repeal, see note))[^M_F_0138965d-9db4-431e-e51a-26fbb01ed23a] after the end of paragraph 15 insert— *(Extent: E)* *(affected by repeal, see note)*[^M_F_0138965d-9db4-431e-e51a-26fbb01ed23a]
+  >
+  >   > **16 (Extent: E) (affected by repeal, see note).**[^M_F_0138965d-9db4-431e-e51a-26fbb01ed23a] I *(Extent: E)* *(affected by repeal, see note)*[^M_F_0138965d-9db4-431e-e51a-26fbb01ed23a] **(7) *(Extent: E)* *(affected by repeal, see note)*[^M_F_0138965d-9db4-431e-e51a-26fbb01ed23a]** am an approved inspector for the purposes of Part 2 of the Act in respect of the work described in this notice. *(Extent: E)* *(affected by repeal, see note)*[^M_F_0138965d-9db4-431e-e51a-26fbb01ed23a]
+  >   >
+  >   > **17 (Extent: E) (affected by repeal, see note).**[^M_F_0138965d-9db4-431e-e51a-26fbb01ed23a] Copies of the notice of approval and of a declaration of insurance relevant to the work described in this notice are on the register kept by the body designated under regulation 3 of the *(Extent: E)* *(affected by repeal, see note)*[^M_F_0138965d-9db4-431e-e51a-26fbb01ed23a] 2010 Regulations *(Extent: E)* *(affected by repeal, see note)*[^M_F_0138965d-9db4-431e-e51a-26fbb01ed23a]. *(Extent: E)* *(affected by repeal, see note)*[^M_F_0138965d-9db4-431e-e51a-26fbb01ed23a]
+  >
+  >   . *(Extent: E)* *(affected by repeal, see note)*[^M_F_0138965d-9db4-431e-e51a-26fbb01ed23a]
+
+  ; and *(Extent: E)* *(affected by repeal, see note)*[^M_F_0138965d-9db4-431e-e51a-26fbb01ed23a]
+- (c (Extent: E) (affected by repeal, see note))[^M_F_0138965d-9db4-431e-e51a-26fbb01ed23a] omit paragraphs (2)(c) and (5)(c). *(Extent: E)* *(affected by repeal, see note)*[^M_F_0138965d-9db4-431e-e51a-26fbb01ed23a]
+
+## PART 3 — Amendment to the 2010 Regulations
+
+### 7. Amendment to the 2010 Regulations[^key-55074f35ebd500f6d73ea6a4771b9e14]
+
+For regulation 34 (and the preceding heading) of the 2010 Regulations, substitute—
+
+> **34. Application of building regulations to educational buildings, buildings of statutory undertakers and Crown Buildings**
+>
+> (1) Regulations 21, 23(1)(a), 25, 25A, 25B, 26, 29 (apart from regulations 29(4)(e), 29(9A), 29(10), 29(11) and 29(12)), 29A and 35(1) apply (in so far as applicable by virtue of regulation 21) to—
+>
+> - (a) educational buildings and buildings of statutory undertakers (notwithstanding section 4(1) of the Act);
+> - (b) Crown buildings; and
+> - (c) building work carried out or proposed to be carried out by Crown authorities.
+>
+> (2) In this regulation “educational buildings and buildings of statutory undertakers” means buildings which fall within paragraphs (a), (b) or (c) of section 4(1) of the Act.
+
+.
+
+## PART 4 — Amendments to the EPB Regulations
+
+### 8. Amendments to the EPB Regulations[^key-84ca12f2d8c7c9f3ef0048986309fe36]
+
+The EPB Regulations are amended in accordance with regulations 9 and 10.
+
+**9.**[^key-87f5abb461d7f93b2f8e398cf0acc387] In regulation 2 (interpretation), in the definition of “building”, after “climate” insert “, and (other than in regulations 9(4) and 11) reference to a building includes reference to a building unit in that building”.
+
+**10.**[^key-4fbdfb9ff9721eabdb22a8ee3c7d4b7c] In regulation 4 (recommendation reports), omit the words “or building unit” in paragraphs 4(1) and (5)(c).
+
+Signed by the authority of the Secretary of State for Communities and Local Government
+
+Don Foster
+
+Parliamentary Under Secretary of State
+
+Department for Communities and Local Government
+
+31st January 2013
+
+## SCHEDULE[^key-178a25a0742150ef31f6685601c28a4b]
+
+Regulation 5
+
+|  |  |  |
+| --- | --- | --- |
+| 11th February 2013 | Regulation 37 | In respect of new buildings occupied by public authorities |
+| 6th April 2013 | Regulation 4, 5, 6, 9, 27, 28, 29(2)(a), 32(a), 35, 36, 40 to 44 and Schedule 2 | All purposes |
+| 9th July 2013 | Regulation 15 | In respect of all buildings |
+| 9th July 2013 | Regulation 17 (for the purpose of new regulation 25A) | In respect of all new buildings |
+| 9th July 2013 | Regulation 37 | In respect of all other new buildings |
+| 1st October 2013 | Regulation 13(a) (so far as not otherwise commenced) | All purposes |
+| 1st January 2019 | Regulation 17 (for the purpose of new regulation 25B) | In respect of new buildings owned and occupied by public authorities |
+| 31st December 2020 | Regulation 17 (for the purpose of new regulation 25B) | In respect of all other new buildings |
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+This statutory instrument has been issued in order to correct defects in two previous instruments, both of which came into force on 9th January 2013: the Building Regulations etc. (Amendment) Regulations 2012 (the “Building Amendment Regulations”); and the Energy Performance of Buildings (England and Wales) Regulations 2012 (the “EPB Regulations”).
+
+The defects which have been corrected are as follows. In the Building Amendment Regulations, firstly the preamble did not cite section 2(2) of the European Communities Act 1972 (“ECA 1972”) as a power under which certain of the provisions were made. This omission meant that certain amendments to the Building Regulations 2010 did not take effect in relation to particular buildings. Secondly there were defects in Schedule 1 (commencement of provisions), in that regulation 37 was not commenced, while regulation 38 was commenced on two different dates (9th January and 6th April 2013) and regulation 17 (for the purpose of new regulation 25B) should have referred to new buildings owned and occupied by public authorities.
+
+In the EPB Regulations, the distinction between “building” and “building unit” created uncertainty as to whether certain requirements regarding energy performance certificates would apply to a building unit, such as a flat in a block of flats.
+
+Regulation 5 introduces a revised table of commencement setting out the dates for the commencement of provisions in the Building Amendment Regulations which take place on and after the date on which these Regulations come into force.
+
+Regulation 6 corrects regulation 41 of the Building Amendment Regulations, which amends the wording of two forms specified in Schedule 1 to the Building (Approved Inspectors etc.) Regulations 2010. In Form 1 (initial notice) and Form 4 (combined initial notice and plans certificate) new wording is substituted for the statement that the inspector is approved for the purposes of Part 2 of the Act in respect of the work to which the initial notice, or combined initial notice, relates.
+
+Regulation 7 substitutes a new version of regulation 34 in the Building Regulations 2010 in reliance on the power in section 2(2) of the ECA 1972.
+
+Regulations 9 and 10 amend the EPB Regulations to clarify that (other than in regulations 9(4) and 11 of the EPB Regulations) “building” includes “building unit” so that duties applying in relation to buildings also apply to building units.
+
+## Annotations
+
+[^f00001]: Footnote: [S.I. 2008/301](https://www.legislation.gov.uk/uksi/2008/301). This instrument, which came into force on 15 March 2008, revoked the previous designation of the Secretary of State in relation to the energy performance of buildings in Article 2 of [S.I. 2004/3328](https://www.legislation.gov.uk/uksi/2004/3328).
+
+[^f00002]: Footnote: [1972 c.68](https://www.legislation.gov.uk/ukpga/1972/68). Section 2(2) was amended by section 27(1)(a) of the Legislative and Regulatory Reform Act [2006 (c.51)](https://www.legislation.gov.uk/ukpga/2006/51) and section 3(3) of, and Part 1 of the Schedule to, the European Union (Amendment) Act [2008 (c.7)](https://www.legislation.gov.uk/ukpga/2008/7).
+
+[^f00003]: Footnote: [1984 c.55](https://www.legislation.gov.uk/ukpga/1984/55). There have been amendments to this Act which are not relevant to these Regulations.
+
+[^key-cb5a0d9ef24ea9fbbae13d882ef00749]: Commencement: Reg. 1 in force at 6.2.2013, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2013/181/regulation/1/3)
+
+[^key-06f121ffd0ec0c3b526eed7d304de44b]: Commencement: Reg. 2 in force at 6.2.2013, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2013/181/regulation/1/3)
+
+[^f00004]: Footnote: [S.I. 2010/2214](https://www.legislation.gov.uk/uksi/2010/2214). The Building Regulations 2010 have been amended by [S.I. 2011/1515](https://www.legislation.gov.uk/uksi/2011/1515), [S.I. 2012/718](https://www.legislation.gov.uk/uksi/2012/718), [S.I. 2012/3119](https://www.legislation.gov.uk/uksi/2012/3119) and [S.I. 2013/10](https://www.legislation.gov.uk/uksi/2013/10).
+
+[^f00005]: Footnote: [S.I. 2012/3119](https://www.legislation.gov.uk/uksi/2012/3119).
+
+[^f00006]: Footnote: [S.I. 2012/3118](https://www.legislation.gov.uk/uksi/2012/3118).
+
+[^key-6410112cdb31320feb78e7a1ac7f687c]: Commencement: Reg. 3 in force at 6.2.2013, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2013/181/regulation/1/3)
+
+[^key-1d5c301c2f926c99d4534845f1348e5a]: Commencement: Reg. 4 in force at 6.2.2013, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2013/181/regulation/1/3)
+
+[^key-f67981d76aa9e1b87b27fe8bb2ae1b16]: Commencement: Reg. 5 in force at 6.2.2013, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2013/181/regulation/1/3)
+
+[^key-782e3e82e33fd7f854a9c77d6b401dcd]: Commencement: Reg. 6 in force at 6.2.2013, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2013/181/regulation/1/3)
+
+[^M_F_0138965d-9db4-431e-e51a-26fbb01ed23a]: Textual amendment: Reg. 6 revoked (E.) (6.4.2024) by [The Building (Registered Building Control Approvers etc.) (England) Regulations 2024 (S.I. 2024/110)](https://www.legislation.gov.uk/uksi/2024/110), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/110/regulation/1/3), [43(a)(iii)](https://www.legislation.gov.uk/uksi/2024/110/regulation/43/a/iii) (with [regs. 44-47](https://www.legislation.gov.uk/uksi/2024/110/regulation/44))
+
+[^key-55074f35ebd500f6d73ea6a4771b9e14]: Commencement: Reg. 7 in force at 6.2.2013, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2013/181/regulation/1/3)
+
+[^key-84ca12f2d8c7c9f3ef0048986309fe36]: Commencement: Reg. 8 in force at 6.2.2013, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2013/181/regulation/1/3)
+
+[^key-87f5abb461d7f93b2f8e398cf0acc387]: Commencement: Reg. 9 in force at 6.2.2013, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2013/181/regulation/1/3)
+
+[^key-4fbdfb9ff9721eabdb22a8ee3c7d4b7c]: Commencement: Reg. 10 in force at 6.2.2013, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2013/181/regulation/1/3)
+
+[^key-178a25a0742150ef31f6685601c28a4b]: Commencement: Sch. in force at 6.2.2013, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2013/181/regulation/1/3)

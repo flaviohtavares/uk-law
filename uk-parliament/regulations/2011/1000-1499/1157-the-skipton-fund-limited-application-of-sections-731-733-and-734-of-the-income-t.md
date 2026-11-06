@@ -1,0 +1,113 @@
+---
+title: The Skipton Fund Limited (Application of Sections 731, 733 and 734 of the Income Tax (Trading and Other Income) Act 2005) Order 2011
+id: uksi/2011/1157
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2011-04-26'
+text_date: '2012-05-23'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2011/1157
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2011/1157/pdfs/uksiem_20111157_en.pdf
+- http://www.legislation.gov.uk/uksi/2011/1157/pdfs/uksi_20111157_en.pdf
+- http://www.legislation.gov.uk/uksi/2011/1157/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Skipton Fund Limited (Application of Sections 731, 733 and 734 of the Income Tax (Trading and Other Income) Act 2005) Order 2011
+
+> Text as at 2012-05-23.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2011 No. 1157
+
+Income Tax
+
+The Skipton Fund Limited (Application of Sections 731, 733 and 734 of the Income Tax (Trading and Other Income) Act 2005) Order 2011
+
+Made
+
+26th April 2011
+
+Laid before the House of Commons
+
+27th April 2011
+
+Coming into force
+
+18th May 2011
+
+The Treasury make the following Order in exercise of the powers conferred by section 732(2) of the Income Tax (Trading and Other Income) Act 2005[^f00001]:
+
+## 1. Citation, commencement and interpretation[^key-faacae5d9f7ce4087e0ed0da2e511453]
+
+(1) This Order may be cited as the Skipton Fund Limited (Application of Sections 731, 733 and 734 of the Income Tax (Trading and Other Income) Act 2005) Order 2011 and shall come into force on 18th May 2011.
+
+(2) In this Order “Skipton Fund Limited” and “Qualifying Person” have the meanings given in respectively section 731(7) and (8) of the Income Tax (Trading and Other Income) Act 2005 (treated as inserted by article 2(2)(b)).
+
+## 2. Application of sections 731, 733 and 734 of the Income Tax (Trading and Other Income) Act 2005[^key-7dafb997e8e1d833d75e6c452cbad4e7]
+
+(1) Sections 731, 733 and 734 of the Income Tax (Trading and Other Income) Act 2005 shall have effect with the following modifications in relation to payments made pursuant to a scheme or arrangement administered by Skipton Fund Limited to a Qualifying Person.
+
+(2) In section 731 (periodical payments of personal injury damages etc.)—
+
+- (a) in subsection (2)—
+  - (i) the “or” at the end of the paragraph (d) is treated as omitted;
+  - (ii) after paragraph (e) there is treated as inserted—
+
+    > , or
+    >
+    > - (f) a scheme or arrangement administered by Skipton Fund Limited, so far as it relates to a Qualifying Person.
+
+    ;
+- (b) after subsection (6) there is treated as inserted—
+
+  > (7) In this section “Skipton Fund Limited” means the company limited by guarantee of that name (company number 5084964).
+  >
+  > (8) In this section and sections 733 and 734 “Qualifying person” has the meaning given in the agreement entered into between the Secretary of State for Health and Skipton Fund Limited dated 24th March 2011 , as amended on 30th April 2012[^key-84041ab604f45b6bba21f584a62e0bbc].
+
+  .
+
+(3) In section 733(a) (persons entitled to exemption for personal injury payments etc.)—
+
+- (a) after “the person” there is treated as inserted “(“A”) who is a Qualifying Person or who is”;
+- (b) “(“A”) is treated as omitted.
+
+(4) In section 734(1)(a) (payments from trusts for injured persons) after “who is” there is to be treated as inserted “a Qualifying Person or who is”.
+
+Angela Watkinson
+
+Michael Fabricant
+
+Two of the Lords Commissioners of Her Majesty’s Treasury
+
+26th April 2011
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order applies sections 731, 733 and 734 of the Income Tax (Trading and Other Income) Act [2005 (c.5)](https://www.legislation.gov.uk/ukpga/2005/5) (periodical payments of personal injury damages etc.) to certain periodical payments to persons infected by hepatitis C through contaminated blood or blood products used by the NHS. The effect of the Order is that no liability to income tax will arise for the recipients of those payments.
+
+Article 1 defines Skipton Fund Limited and Qualifying Person. Skipton Fund Limited is a company which has been set up to administer payments funded by the Department of Health to Qualifying Persons. A Qualifying Person is defined by reference to the agreement entered into between the Secretary of State for Health and Skipton Fund Limited dated 24 March 2011. A copy of the agreement may be obtained by writing to the registered office of the company. The address is Skipton Fund Limited c/o Ward Williams Business Advisers Limited, Bay Lodge, 36 Harefield Road, Uxbridge, Middlesex, UB8 1PH.
+
+Article 2 applies sections 731, 732 and 734 to payments made to a Qualifying Person pursuant to a scheme or arrangement administered by Skipton Fund Limited, subject to modifications specified in the article.
+
+A Tax Information and Impact Note covering this instrument will be published on the HMRC website athttp://www.hmrc.gov.uk/thelibrary/tiins.htm
+
+## Annotations
+
+[^f00001]: Footnote: [2005 c.5](https://www.legislation.gov.uk/ukpga/2005/5). Section 732 was amended by paragraph 3 of Schedule 2 to the Crime and Security Act [2010 (c. 17)](https://www.legislation.gov.uk/ukpga/2010/17).
+
+[^key-faacae5d9f7ce4087e0ed0da2e511453]: Commencement: Art. 1 in force at 18.5.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/1157/article/1/1)
+
+[^key-7dafb997e8e1d833d75e6c452cbad4e7]: Commencement: Art. 2 in force at 18.5.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/1157/article/1/1)
+
+[^key-84041ab604f45b6bba21f584a62e0bbc]: Textual amendment: Words in [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2011/1157/article/2/2/b) inserted (23.5.2012) by [The Skipton Fund Limited (Application of Sections 731, 733 and 734 of the Income Tax (Trading and Other Income) Act 2005) (Amendment) Order 2012 (S.I. 2012/1188)](https://www.legislation.gov.uk/uksi/2012/1188), [arts. 1](https://www.legislation.gov.uk/uksi/2012/1188/article/1), [2](https://www.legislation.gov.uk/uksi/2012/1188/article/2)

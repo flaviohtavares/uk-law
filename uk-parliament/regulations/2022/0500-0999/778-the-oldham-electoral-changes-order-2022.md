@@ -1,0 +1,201 @@
+---
+title: The Oldham (Electoral Changes) Order 2022
+id: uksi/2022/778
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2022-07-08'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2022/778
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2022/778/pdfs/uksiem_20220778_en.pdf
+- http://www.legislation.gov.uk/uksi/2022/778/pdfs/uksi_20220778_en.pdf
+- http://www.legislation.gov.uk/uksi/2022/778/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Oldham (Electoral Changes) Order 2022
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2022 No. 778
+
+Local Government, England
+
+The Oldham (Electoral Changes) Order 2022
+
+Made
+
+8th July 2022
+
+Coming into force in accordance with article 1(2) and (3)
+
+Under section 58(4) of the Local Democracy, Economic Development and Construction Act 2009[^f00001] (“**the Act**”) the Local Government Boundary Commission for England[^f00002] (“**the Commission**”) published a report dated November 2021[^f00003] stating its recommendations for changes to the electoral arrangements for the borough of Oldham. The Commission has decided to give effect to the recommendations.
+
+A draft of the instrument has been laid before Parliament and a period of forty days has expired since the day on which it was laid and neither House has resolved that the instrument be not made.
+
+The Commission makes the following Order in exercise of the power conferred by section 59(1) of the Act.
+
+## 1. Citation, commencement, extent and application
+
+(1) This Order may be cited as the Oldham (Electoral Changes) Order 2022.
+
+(2) This article and article 2 come into force on 15th October 2022.
+
+(3) Articles 3, 4 and 5 come into force—
+
+- (a) for the purpose of proceedings preliminary or relating to the election of councillors, on 15th October 2022;
+- (b) for all other purposes, on the ordinary day of election of councillors in England[^f00004] in 2023.
+
+(4) This Order extends to England and Wales but applies in relation to England only.
+
+## 2. Interpretation
+
+(1) In this Order, “**the map**” means the map marked “Map referred to in the Oldham (Electoral Changes) Order 2022”, held by the Local Government Boundary Commission for England[^f00005].
+
+(2) Where a boundary is shown on the map as running along a road, railway line, footway, watercourse or similar geographical feature, it is to be treated as running along the centre line of the feature.
+
+## 3. Wards of the borough of Oldham and number of councillors
+
+(1) The existing wards of the borough of Oldham are abolished.
+
+(2) The borough of Oldham is divided into the 20 wards listed in Schedule 1.
+
+(3) Each ward comprises the area identified on the map by reference to the name of the ward.
+
+(4) Three councillors are to be elected for each ward.
+
+## 4. Elections of the borough of Oldham
+
+(1) Elections of all councillors for each ward of the borough of Oldham are to be held simultaneously on the ordinary day of election of councillors in England in 2023.
+
+(2) The councillors holding office for any ward abolished by article 3(1) immediately before the fourth day after the ordinary day of election of councillors in 2023 are to retire on that fourth day, and the newly elected councillors are to come into office on that fourth day.
+
+(3) Of the councillors elected for a ward in 2023—
+
+- (a) one is to retire on the fourth day after the ordinary day of election of councillors in England in 2024;
+- (b) one is to retire on the fourth day after the ordinary day of election of councillors in England in 2026;
+- (c) one is to retire on the fourth day after the ordinary day of election of councillors in England in 2027.
+
+(4) Of the councillors elected for a ward in 2023—
+
+- (a) the first councillor for each ward to retire is to be the councillor elected by the smallest number of votes; and
+- (b) the second councillor for each ward to retire is to be the councillor elected by the next smallest number of votes.
+
+(5) In the case of an equality of votes between any persons elected which makes it uncertain which of them is to retire in any year, the person to retire in that year is to be determined by lot.
+
+(6) If an election of councillors for any ward is not contested, the person to retire in each year is to be determined by lot.
+
+(7) An election to replace a councillor who is to retire under paragraph (3) is to be held on the ordinary day of election of councillors in England in the year in which the retirement is due to take place, and any newly elected councillor is to come into office on the fourth day after that day.
+
+(8) Where under this article any question is to be determined by lot, the lot is to be drawn at the next practicable meeting of the council after the question has arisen and the drawing is to be conducted under the direction of the person presiding at the meeting.
+
+## 5. Wards of the parish of Shaw & Crompton
+
+(1) The existing parish wards of the parish of Shaw & Crompton are abolished.
+
+(2) The parish of Shaw & Crompton is divided into the five parish wards listed in the first column of the table in Schedule 2.
+
+(3) Each parish ward comprises the area identified on the map by reference to the name of the parish ward.
+
+(4) The number of parish councillors to be elected for each parish ward is the number specified in relation to that ward in the second column of the table in Schedule 2.
+
+Sealed with the seal of the Local Government Boundary Commission for England
+
+Jolyon Jackson
+
+Chief Executive
+
+Local Government Boundary Commission for England
+
+8th July 2022
+
+## SCHEDULE 1 — Names of wards of the borough of Oldham
+
+Article 3(2)
+
+**1.** Alexandra
+
+**2.** Chadderton Central
+
+**3.** Chadderton North
+
+**4.** Chadderton South
+
+**5.** Coldhurst
+
+**6.** Crompton
+
+**7.** Failsworth East
+
+**8.** Failsworth West
+
+**9.** Hollinwood
+
+**10.** Medlock Vale
+
+**11.** Royton North
+
+**12.** Royton South
+
+**13.** Saddleworth North
+
+**14.** Saddleworth South
+
+**15.** Saddleworth West & Lees
+
+**16.** Shaw
+
+**17.** St James’
+
+**18.** St Mary’s
+
+**19.** Waterhead
+
+**20.** Werneth
+
+## SCHEDULE 2 — Names of parish wards and number of parish councillors in the parish of Shaw & Crompton
+
+Article 5
+
+| *(1)*<br>*Names of parish wards* | *(2)*<br>*Number of parish councillors* |
+| --- | --- |
+| East | 3 |
+| North | 4 |
+| South | 3 |
+| South West | 1 |
+| West | 3 |
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order makes changes to electoral arrangements for the borough of Oldham following recommendations made by the Local Government Boundary Commission for England. The area of the borough remains unchanged.
+
+Article 3 abolishes the existing electoral wards of the borough of Oldham and replaces them with 20 new ones for the purpose of elections held on or after the ordinary day of election of councillors in England in 2023. It establishes the names and areas of the new electoral wards and the number of councillors for each.
+
+Article 4 makes provision for a whole borough council election in 2023. Subsequently, the council will revert to the existing system of election by thirds. That article also provides for the order of retirement of councillors in 2024, 2026 and 2027 and the election of their replacements.
+
+Article 5 makes changes to the parish wards of the parish of Shaw & Crompton that are consequential on the changes made by article 3.
+
+The area covered by each ward created by this Order is identified on a map which is available for inspection at reasonable times at the offices of the Local Government Boundary Commission for England, 1st Floor, Windsor House, 50 Victoria Street, London SW1H 0TL.
+
+The map may also be accessed at https://www.lgbce.org.uk/all-reviews/north-west/greater-manchester/oldham.
+
+A full impact assessment has not been produced for this instrument as no, or no significant, impact on the private, voluntary or public sectors is foreseen.
+
+## Annotations
+
+[^f00001]: Footnote: [2009 c. 20](https://www.legislation.gov.uk/ukpga/2009/20).
+
+[^f00002]: Footnote: The Local Government Boundary Commission for England was established on 1st April 2010 by section 55(1) of the Local Democracy, Economic Development and Construction Act 2009.
+
+[^f00003]: Footnote: The report is available for inspection at reasonable times at the principal office of the Local Government Boundary Commission for England, 1st Floor, Windsor House, 50 Victoria Street, London SW1H 0TL. It is also accessible online at https://www.lgbce.org.uk/all-reviews/north-west/greater-manchester/oldham.
+
+[^f00004]: Footnote: The ordinary day of election of councillors in England is prescribed by section 37(1) of the Representation of the People Act [1983 (c. 2)](https://www.legislation.gov.uk/ukpga/1983/2), as amended by section 18(2) of the Representation of the People Act [1985 (c. 50)](https://www.legislation.gov.uk/ukpga/1985/50), renumbered by paragraph 5 of Schedule 3 to the Greater London Authority Act [1999 (c. 29)](https://www.legislation.gov.uk/ukpga/1999/29), and further amended by section 6(16) of the Wales Act [2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4).
+
+[^f00005]: Footnote: Prints of the map are available for inspection at reasonable times at the principal office of the Local Government Boundary Commission for England, 1st Floor, Windsor House, 50 Victoria Street, London SW1H 0TL. It is also accessible online at https://www.lgbce.org.uk/all-reviews/north-west/greater-manchester/oldham.

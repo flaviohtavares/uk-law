@@ -1,0 +1,999 @@
+---
+title: The Railways (Penalty Fares) Regulations 2018
+id: uksi/2018/366
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2018-03-12'
+text_date: '2023-01-23'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/uksi/2018/366
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2018/366/pdfs/uksiem_20180366_en.pdf
+- http://www.legislation.gov.uk/uksi/2018/366/pdfs/uksi_20180366_en.pdf
+- http://www.legislation.gov.uk/uksi/2018/366/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Railways (Penalty Fares) Regulations 2018
+
+> Text as at 2023-01-23.
+>
+> Extent: England, Wales, Scotland.
+
+*Extent: E+W+S*
+
+2018 No. 366
+
+Transport
+
+The Railways (Penalty Fares) Regulations 2018
+
+Made
+
+12th March 2018
+
+Laid before Parliament
+
+15th March 2018
+
+Coming into force
+
+6th April 2018
+
+The Secretary of State makes the following Regulations in exercise of the powers conferred by sections 130(1) to (4) and (7) and 143(3) and (4) of the Railways Act 1993[^f00001].
+
+## PART 1 — Preliminary
+
+### 1. Citation, commencement and extent[^key-e2c673402c02e9c112704a3621957ca3]
+
+These Regulations—
+
+- (a) may be cited as the Railways (Penalty Fares) Regulations 2018;
+- (b) come into force on 6th April 2018; and
+- (c) extend to England and Wales and Scotland.
+
+### 2. Application[^key-bb5ea7c9a2715c2c5e09a138b59bcaa3]
+
+(1) These Regulations apply in relation to—
+
+- (a) a railway passenger service[^f00002] within the scope of paragraph (2); and
+- (b) any station[^f00003] at which a railway passenger service within the scope of paragraph (2) makes a scheduled call[^f00004].
+
+(2) A railway passenger service is within the scope of this paragraph unless it is—
+
+- (a) provided under a Scottish franchise agreement[^f00005];
+- (b) a Scotland-only service[^f00006];
+- (c) a service the provision of which is secured by the Scottish Ministers; or
+- (d) provided by—
+  - (i) Transport for London or any of its subsidiaries; or
+  - (ii) any person in pursuance of an agreement entered into by Transport for London under section 156(2) or (3)(a) of the Greater London Authority Act 1999[^f00007], or in pursuance of a transport subsidiary’s agreement[^f00008].
+
+### 3. Interpretation[^key-8ecf3844afa03019d344db10dc65e6c6]
+
+(1) In these Regulations—
+
+- “the 1994 Regulations” means the Railways (Penalty Fares) Regulations 1994[^f00009];
+- “Appeal Panel” means a body, which complies with the requirements of regulation 15(1), that considers appeals under regulations 16 and 17 and “the relevant Appeal Panel” means, in relation to an operator, the Appeal Panel that considers appeals under those regulations against penalty fares charged on behalf of that operator;
+- “Appeal Procedure” means the procedure specified in Schedule 2;
+- “authorising operator”, in relation to a collector, means the operator that authorised the collector to charge penalty fares under regulations 10(5) or 10(6);
+- “compulsory ticket area” means any area at a station which a person must not enter or be present in without being able to produce—
+  - (a) a valid travel ticket authorising travel on a train arriving at or departing from that area; or
+  - (b) a platform ticket authorising their entry to or presence in that area;
+- “Final Appeal Panel” means a body, which complies with the requirements of regulation 15(2), that considers appeals under regulation 18 and “the relevant Final Appeal Panel” means, in relation to an operator, the Final Appeal Panel that considers appeals under that regulation against penalty fares charged on behalf of that operator;
+- “identification number”, in relation to a collector, means a unique number or alphanumeric code assigned by the authorising operator to the collector for identification purposes;
+- “[^key-9dfaf6d7f8ef3c5139b3abf2e6e8f64e]**in respect of England**” means, in relation to railway passenger services, a service which is not a service in respect of which the Welsh Ministers have the power to make penalty fares regulations under section 130(1) of the Railways Act 1993 (read with section 130(1ZA) to (1ZD) of that Act);
+- “operator”, in relation to any train, means the person having the management of that train for the time being and, in relation to any station, means the person having the management of that station for the time being, and “operated” shall be construed accordingly;
+- “penalty fare number” means a number or alphanumeric code which is unique to an individual penalty fare charged on behalf of any operator;
+- “platform ticket” means a ticket or alternative authorisation which permits a person to enter or be present in a compulsory ticket area otherwise than for the purpose of travel;
+- “preceding train”, in relation to a train which a person is travelling by, present on or leaving, means any train—
+  - (a) the person travelled by, as part of the same journey, before changing to that train; and
+  - (b) which was operated by the same operator as that train;
+- “ *(Extent: E)*[^key-0da5a11971a232f3360ebbcafe90331b]**time on appeal *(Extent: E)***” means the period beginning with the day on which an appeal is made under regulation 16 and ending on the day on which there is final disposal of or withdrawal of the appeal; *(Extent: E)*
+- “travel ticket” means a ticket or other authority which authorises a person to make a journey on a railway passenger service to which these Regulations apply;
+- “working day” means any day other than—
+  - (a) a Saturday or a Sunday;
+  - (b) Christmas Day;
+  - (c) Good Friday;
+  - (d) a day which is a bank holiday under the Banking and Financial Dealings Act 1971[^f00010] in England and Wales.
+
+(2) In these Regulations—
+
+- (a) any reference to a “valid travel ticket” is a reference to a travel ticket in a person’s possession which is valid for—
+  - (i) the day and time of the journey that person is making, has made or intends to make;
+  - (ii) the train and route used for that journey;
+  - (iii) the age of that person;
+  - (iv) use with any rail card in the possession of that person which they are entitled to use for that journey;
+  - (v) use in combination with any other travel ticket in the possession of that person which they are entitled to use for that journey; and
+  - (vi) the class of travel used by that person; and
+- (b) any reference to a person leaving a train includes a person present in or leaving—
+  - (i) a station, having left a train arriving at that station; or
+  - (ii) a compulsory ticket area, having left a train arriving at that compulsory ticket area.
+
+(3) Where the terms on which a travel ticket is issued require the holder to produce on request any other document[^f00011]when using that ticket for travel, any reference in these Regulations to a travel ticket includes such a document.
+
+## PART 2 — Penalty Fares
+
+### 4. Requirement to produce a ticket[^key-78b1be92210497b207372305738712e9]
+
+(1) A person travelling by, present on, or leaving a train must, if required to do so by or on behalf of an operator, produce a valid travel ticket.
+
+(2) A person present in or leaving a compulsory ticket area, other than as a result of leaving a train that arrived at that compulsory ticket area, must if required to do so by or on behalf of an operator produce—
+
+- (a) a valid travel ticket; or
+- (b) a platform ticket where that person does not intend to board a train for the purpose of travel.
+
+(3) In paragraph (1) the reference to “an operator” is to the operator of—
+
+- (a) the train which the person in question is travelling by, present on or leaving;
+- (b) the station, where the person in question is present in or leaving a station, having left a train arriving at that station; or
+- (c) where the person in question is present in or leaving a compulsory ticket area, having left a train arriving at that compulsory ticket area—
+  - (i) the station of which the compulsory ticket area forms part; or
+  - (ii) any train that arrives at, or departs from, the compulsory ticket area.
+
+(4) In paragraph (2) the reference to “an operator” is to the operator of—
+
+- (a) the station of which the compulsory ticket area forms part; or
+- (b) any train that arrives at, or departs from, the compulsory ticket area.
+
+### 5. Penalty fares[^key-3c12369513211f91d2c51f823c2ddb2a]
+
+(1) Subject to regulations 6, 7 and 10, if a person fails to produce a platform ticket or a valid travel ticket in accordance with regulation 4, a collector may charge that person a penalty fare.
+
+(2) Where a collector charges a penalty fare to a person under paragraph (1), the collector must provide that person with the following information in writing at the time the penalty fare is charged—
+
+- (a) a statement that the person is being charged a penalty fare;
+- (b) an explanation of why the person is being charged a penalty fare;
+- (c) the identification number of the collector;
+- (d) the name of the operator on whose behalf the penalty fare is charged;
+- (e) the penalty fare number;
+- (f) the amount of the penalty fare;
+- (g) a statement that the person has the right to appeal against the penalty fare and an explanation of how the person can appeal;
+- (h) a statement that the person must either pay, or appeal against, the penalty fare within 21 days beginning with the day following the day on which the penalty fare is charged;
+- (i) an explanation of how the penalty fare may be paid; and
+- (j) a statement that the person is entitled to a receipt if they pay the penalty fare.
+
+(2A)[^key-519bf8084193a209a8e05e055538edbf] in respect of England, the information provided by the collector must also include—
+
+- (a) in respect of the amount of the penalty fare—
+  - (i) the reduction in the amount of the penalty fare if it is paid within 21 days beginning with the day following the day on which the penalty fare is charged; and
+  - (ii) the fact that the 21 days to pay the reduced amount of the penalty fare does not include any time on appeal;
+- (b) where the penalty fare authorises a person to travel, the station to which the penalty fare authorises the person to travel.
+
+(3) Where a person who is charged a penalty fare under paragraph (1) pays the penalty fare, or part of it, that person must immediately be issued with written confirmation that the penalty fare in question has been paid, or paid in part, as the case may be.
+
+(4) Where a person described in paragraph (3) is not provided with written confirmation of payment, that person is entitled to an immediate refund of the amount paid, but that person remains liable for the full amount of the penalty fare in accordance with these Regulations.
+
+(5) Subject to paragraph (6) *(Extent: E)* *(affected by repeal, see note)*[^key-c6adb3b87199033fc91e16343d21796a] Subject to paragraphs (5A) and (6) *(Extent: E)*, a penalty fare charged under paragraph (1) to a person travelling by or present on a train authorises that person to—
+
+- (a) travel by that train as far as, but no further than, the next station at which the train is due to make a scheduled call; and
+- (b) exit the relevant station described in sub-paragraph (a), including exiting through any compulsory ticket area.
+
+(5A)[^key-df954eebe5ee626395afb693db6033dc] In respect of England, the penalty fare charged under paragraph (1) to a person travelling by or present on a train authorises a person to travel to—
+
+- (a) a station in England at which the train is due to make a scheduled call that they may specify, if the collector considers that this is reasonable in all the circumstances; or
+- (b) otherwise, the next station at which the train is due to make a scheduled call.
+
+(6) Subject to paragraph (5A), *(Extent: E)*[^key-193a09cf42a6cecb7cc8f81e1e4af058] Paragraph (5) does not apply where, at the time a penalty fare is charged under paragraph (1), the train is stationary at a station and there is sufficient opportunity for the person charged to leave the train at that station.
+
+(7) A penalty fare charged under paragraph (1)—
+
+- (a) in the circumstances described at paragraph (6); or
+- (b) to a person who is leaving a train,
+
+authorises that person to leave the train and exit the station, including exiting through any compulsory ticket area.
+
+(8) Subject to paragraph (8A), *(Extent: E)*[^key-1a9a4a77af2ee1ba326e55e6786dd965] Where a person present in or leaving a compulsory ticket area, other than as a result of leaving a train that arrived at that compulsory ticket area, is charged a penalty fare under paragraph (1), that penalty fare authorises that person to leave the compulsory ticket area and exit the station of which the compulsory ticket area forms part.
+
+(8A)[^key-bcb7f209f83571406e5b49a0fd2d829e] in respect of England, where a person present in or leaving a compulsory ticket area, other than as a result of leaving a train that arrived at that compulsory ticket area, is charged a penalty fare under paragraph (1), that penalty fare authorises that person—
+
+- (a) where they do not intend to board a train for the purpose of travel, to leave the compulsory ticket area and exit the station of which the compulsory ticket area forms part;
+- (b) where they do intend to board a train for the purpose of travel, to board a train that calls at that station, and to travel—
+  - (i) to a station in England at which that train is due to make a scheduled call that they may specify, if the collector considers that this is reasonable in all the circumstances; or
+  - (ii) otherwise, to the next station at which that train is due to make a scheduled call.
+
+(9) Paragraphs (5) to (8) apply whether or not any payment has been made in respect of the penalty fare charged.
+
+### 6. Penalty fares – train passenger exclusions[^key-78817e350f040aeccc21348558df4553]
+
+(1) Subject to paragraph (6), a person travelling by, present on, or leaving a train (in this regulation “the passenger”) must not be charged a penalty fare where either paragraph (2) or (3) applies.
+
+(2) This paragraph applies if, at the time when, and at the station where, the passenger boarded the train—
+
+- (a) there were no facilities in operation for the sale of a travel ticket for that passenger’s journey;
+- (b) the requirements for the display of notices specified in regulation 8 were not satisfied;
+- (c) a notice was displayed indicating that the passenger was, or persons generally were, permitted to travel by or be present on the train without having a travel ticket; or
+- (d) the operator of the train or the station, or a person acting or purporting to act on behalf of the operator, indicated that the passenger was, or persons generally were, permitted to travel by or be present on the train without having a travel ticket.
+
+(3) This paragraph applies if—
+
+- (a) the passenger has travelled on a preceding train;
+- (b) at the time when, and at the station where, the passenger boarded the first of the preceding trains, any of sub-paragraphs (a) to (d) of paragraph (2) applied; and
+- (c) at the time when, and at the station where, the passenger changed from any preceding train—
+  - (i) any of sub-paragraphs (a) to (d) of paragraph (2) applied; or
+  - (ii) the passenger did not have sufficient time between leaving one train and boarding the next to purchase a travel ticket.
+
+(4) In paragraph (2)(a), there are no facilities in operation for the sale of a travel ticket if—
+
+- (a) the passenger is not able to use any means of payment the passenger has available at the relevant time; and
+- (b) the passenger would usually be able to purchase a travel ticket at the station in question at the relevant time of day using one of those means of payment.
+
+(5) A person must not be charged a penalty fare where the travel ticket which they have produced, in response to a request made under regulation 4(1), would be a valid travel ticket but for the fact that it is not valid for the class of travel used by that person if, at the time that person began using the relevant class of travel—
+
+- (a) a notice was displayed indicating that the person was, or persons generally were, permitted to use that class of travel without having a travel ticket valid for that class of travel; or
+- (b) the operator of the train, or a person acting or purporting to act on behalf of the operator of the train, indicated that the person was, or persons generally were, permitted to use that class of travel without having a travel ticket valid for that class of travel.
+
+(6) The passenger may, despite paragraph (2) or (3) applying, be charged a penalty fare where the passenger has, while travelling on the train or any preceding train, been invited by anybody acting on behalf of the operator of that train to obtain a travel ticket valid for the journey, train and class of travel used and has refused to do so.
+
+(7) A person who is present on a train, which is stationary in a station, must not be charged a penalty fare where—
+
+- (a) the person has not boarded the train for the purpose of travel;
+- (b) the person is present on the train for the sole purpose of providing assistance to another person who is also present on that train; and
+- (c) that other person has a valid travel ticket.
+
+### 7. Penalty fares – compulsory ticket area exclusions[^key-e493b37277ea49946891c0d16b22ecf6]
+
+(1) A person present in or leaving a compulsory ticket area, other than as a result of leaving a train that arrived at that compulsory ticket area, must not be charged a penalty fare where paragraph (2) or (3) applies.
+
+(2) This paragraph applies if, at the time when, and at the station where, the person entered the compulsory ticket area—
+
+- (a) there were no facilities in operation for the sale of—
+  - (i) a travel ticket for the journey that person intends to make; or
+  - (ii) a platform ticket permitting that person to be present in that compulsory ticket area, where that person does not intend to board a train for the purpose of travel;
+- (b) the requirements for the display of notices specified in regulation 8 were not satisfied;
+- (c) a notice was displayed indicating that the person was, or persons generally were, permitted to be present in that compulsory ticket area without having a platform ticket or a valid travel ticket; or
+- (d) the operator of, or a person acting or purporting to act on behalf of the operator of—
+  - (i) any train departing from that compulsory ticket area; or
+  - (ii) the station of which the compulsory ticket area forms part,
+
+  indicated that the person was, or persons generally were, permitted to enter or be present in that compulsory ticket area without having a platform ticket or a valid travel ticket.
+
+(3) This paragraph applies if the sole purpose of the person’s presence in the compulsory ticket area is to provide assistance to another person and that other person has a platform ticket or a valid travel ticket entitling that person to be present in that compulsory ticket area.
+
+(4) In paragraph (2)(a), there are no facilities in operation for the sale of a platform ticket or a travel ticket if—
+
+- (a) the person is not able to use any means of payment that person has available at the relevant time; and
+- (b) the person would usually be able to purchase a platform ticket or a travel ticket at the station in question using one of those means of payment.
+
+### 8. Display of Notices[^key-08ad64de6e697da313ae92dbde312a8c]
+
+(1) The requirements for the display of notices are as follows.
+
+(2) Where any entrance onto a platform at the station is not the entrance to, or situated within, a compulsory ticket area, a notice complying with the requirements of paragraph 1 of Part 1 of Schedule 1 (“a standard notice”) must be displayed at that entrance.
+
+(3) If the station has one or more compulsory ticket areas, a notice complying with the requirements of paragraph 2 of Part 1 of Schedule 1 (“a compulsory ticket area notice”) must be displayed at each entrance into a compulsory ticket area.
+
+(4) Standard notices and compulsory ticket area notices must also be displayed at sufficient locations around the station so that at least one notice is readily visible to passengers prior to boarding a train at the station, including passengers changing from one train to another train.
+
+### 9. Amount of penalty fare[^key-c48e3edd96079145c3fbb9684e61f78c]
+
+(1) Subject to paragraph (1A), *(Extent: E)*[^key-9e28c1f5dffe3ecb41dd75de2daa5a42] Where a penalty fare is charged under regulation 5(1) to a person travelling by, present on, or leaving a train, the amount of that penalty fare is £20 or twice the full single fare applicable, whichever is greater.
+
+(1A)[^key-d8181c6c6a44c18711b18dfdf8ece87c] In respect of England, where a penalty fare is charged under regulation 5(1) to a person travelling by, present on, or leaving a train, the amount of the penalty fare is—
+
+- (a) £100 plus the price of the full single fare applicable, or
+- (b) if paid before the end of the period of 21 days beginning with the day following the day on which the penalty fare is charged, £50 plus the price of the full single fare applicable.
+
+(1B) In calculating the period referred to in paragraph (1A)(b) no account is to be taken of any time on appeal.
+
+(2) In paragraph (1), “the full single fare applicable” is the full single fare for the journey in question from the boarding station to—
+
+- (a) the next station at which the train is due to make a scheduled call; or
+- (b) the station at which the person leaves the train if, at the time the penalty fare is charged—
+  - (i) the person is leaving the train; or
+  - (ii) the train is stationary at a station and there is sufficient opportunity for the person charged to leave the train at that station.
+
+(2A)[^key-54af152af8873ba679c4ea9391edd4b9] In paragraph (1A), “the full single fare applicable” is the full single fare for the journey in question from the boarding station to the station that the penalty fare authorises the person to travel to under regulation 5(5A).
+
+(3) In paragraph (2) *(Extent: E)* *(affected by repeal, see note)*[^key-9ebd028cd45d6273d8d63bfa5f1866b3] In paragraph (2) and (2A) *(Extent: E)*, “the boarding station” means—
+
+- (a) the station at which the person boarded the train; or
+- (b) where the station mentioned in sub-paragraph (a) is not known to the collector, the station at which the train last made a scheduled call.
+
+(4) Subject to paragraph (4A), *(Extent: E)*[^key-ef7fdcf57263da65ba851544dd49e8df] Where a person present in or leaving a compulsory ticket area, other than as a result of leaving a train that arrived at that compulsory ticket area, is charged a penalty fare under regulation 5(1), the amount of the penalty fare is—
+
+- (a) £20 or twice the full single fare applicable, whichever is greater; or
+- (b) £20 where that person does not intend to board a train for the purpose of travel.
+
+(4A)[^key-b4d7858b60dc8df4b71e0905f2bd3d14] In respect of England, where a person present in or leaving a compulsory ticket area, other than as a result of leaving a train that arrived at the compulsory ticket area, is charged a penalty fare under regulation 5(1), the amount of the penalty fare is—
+
+- (a) where that person intends to board a train for the purpose of travel—
+  - (i) £100 plus the price of the full single fare applicable, or
+  - (ii) if paid before the end of the period of 21 days beginning with the day following the day on which the penalty fare is charged, £50 plus the price of the full single fare applicable;
+- (b) where that person does not intend to board a train for the purpose of travel—
+  - (i) £100, or
+  - (ii) if paid before the end of the period of 21 days beginning with the day following the day on which the penalty fare is charged, £50.
+
+(4B) In calculating the period referred to in paragraph (4A)(a)(ii) or (b)(ii) no account is to be taken of any time on appeal.
+
+(5) In paragraph (4)(a) “the full single fare applicable” is the full single fare for a journey from the station of which the compulsory ticket area forms part, to the next station where the train, which that person intends to board, is due to make a scheduled call.
+
+*Extent: E*
+
+(5A)[^key-771d9e88c7111dda31f973277dc3b144] In paragraph (4A)(a) “the full single fare applicable” is the full single fare for the journey in question from the boarding station to the station that the penalty fare authorises the person to travel to under regulation 5(8A)(b).
+
+(6) In this regulation “the full single fare applicable” is to be determined by reference to—
+
+- (a) the age of the person in question;
+- (b) the day and time of the journey that person is making, has made or intends to make, as the case may be; and
+- (c) the train and route that person is using, has used or intends to use.
+
+### 10. Collectors[^key-a045daef85d361745ece5a92564c922f]
+
+(1) A collector must be in possession of that collector’s identification when performing the functions conferred on collectors by these Regulations.
+
+(2) A collector’s identification must contain the information specified in Part 2 of Schedule 1.
+
+(3) Where a collector requires a person to do anything under these Regulations, that collector must, if the person concerned so requests, produce the collector’s identification.
+
+(4) A collector—
+
+- (a) who fails to comply with paragraph (1) or (3); or
+- (b) whose identification does not comply with paragraph (2),
+
+has no authority to require a person to do anything, or to charge a penalty fare, under these Regulations.
+
+(5) A collector may only charge a penalty fare under regulation 5(1) to a person who is travelling by, present on or leaving a train if the collector has been authorised to charge a penalty fare by the operator of that train.
+
+(6) A person present in or leaving a compulsory ticket area, other than as a result of leaving a train that arrived at that compulsory ticket area, may only be charged a penalty fare under regulation 5(1) by a collector, if the collector has been authorised to charge a penalty fare by the operator of—
+
+- (a) the station of which the compulsory ticket area forms part; or
+- (b) any train that arrives at, or departs from, the compulsory ticket area.
+
+### 11. Penalty fares and criminal offences[^key-7e81b2dbb9576e05d889041150ec1943]
+
+(1) A person who has been charged a penalty fare under regulation 5(1) is not liable to pay where proceedings for any of the offences specified in paragraph (4) are also brought against that person in relation to the same failure to produce a platform ticket or a valid travel ticket which gave rise to that penalty fare.
+
+(2) Subject to paragraph (2A), *(Extent: E)*[^key-42a386ba39f683213f2ba8ef1e7d9edf] If a person to whom paragraph (1) applies has paid the penalty fare, or part of it, the operator on whose behalf the penalty fare was charged must refund that person the amount paid within the period of 10 working days, beginning with the day on which proceedings are brought.
+
+*Extent: E*
+
+(2A)[^key-512b425696ea6532f4e12091cfbdd13c] If a person to whom paragraph (1) applies has paid a penalty fare calculated in accordance with regulation 9(1A) or (4A), or part of such penalty fare, the operator on whose behalf the penalty fare was charged must refund the person any amount paid that exceeds the amount of the full single fare applicable for their journey within the period of 10 working days, beginning with the day on which proceedings are brought.
+
+(3) Where a person falling within paragraph (1)(a) has appealed against the penalty fare under regulation 16, proceedings for any of the offences specified in paragraph (4) may only be brought against that person for the same failure to produce a platform ticket or a valid travel ticket if the operator, on whose behalf the penalty fare was charged, notifies the relevant Appeal Panel that the penalty fare is cancelled before—
+
+- (a) the relevant Appeal Panel has decided the outcome of the appeal under regulation 16; or
+- (b) the time period mentioned in paragraph 6 of Schedule 2 expires,
+
+whichever is sooner.
+
+(4) The offences referred to in paragraphs (1) and (3) are the offences under—
+
+- (a) section 5(3)(a) or (b) of the Regulation of the Railways Act 1889[^f00012];
+- (b) any byelaw made under—
+  - (i) section 67 of the Transport Act 1962[^f00013];
+  - (ii) section 129 of the Railways Act 1993[^f00014];
+  - (iii) section 219 of the Transport Act 2000[^f00015];
+  - (iv) section 46 of the Railways Act 2005[^f00016].
+- (c)[^key-45b52f95a89082546e0a5057f6ee1979] in respect of England, section 11 of the Fraud Act 2006.
+
+### 12. Recovery of penalty fare as a civil debt[^key-7b5deb57f3bf701d1c6aad7f1633216b]
+
+(1) Where a person charged a penalty fare under regulation 5(1) has not paid the penalty fare in full, the operator on whose behalf the penalty fare was charged may recover the amount outstanding as a civil debt in any of the following circumstances—
+
+- (a) the person did not appeal under regulation 16 against the penalty fare within the 21 day period provided for by regulation 16(1)(a);
+- (b) the person—
+  - (i) appealed under regulation 16 within that period;
+  - (ii) the relevant Appeal Panel notified the person that it had not allowed the appeal;
+  - (iii) the relevant Appeal Panel adhered to the time period specified in paragraph 6 of Schedule 2; and
+  - (iv) the person did not appeal under regulation 17 against that decision within the 14 day period provided for by regulation 17(1)(a);
+- (c) the person—
+  - (i) appealed under regulation 17 within that period;
+  - (ii) the relevant Appeal Panel notified the person that it had not allowed the appeal;
+  - (iii) the relevant Appeal Panel adhered to the time period specified in paragraph 6 of Schedule 2; and
+  - (iv) the person did not appeal under regulation 18 against that decision within the 14 day period provided for by regulation 18(1)(a); or
+- (d) the person—
+  - (i) appealed under regulation 18 within that period;
+  - (ii) the relevant Final Appeal Panel notified the person that it had not allowed the appeal; and
+  - (iii) the period of 14 days, beginning with the day following the day on which the notice of that decision was received, has elapsed.
+
+### 13. Requirement for a person to give name and address[^key-8b3e0fe7a6327d2c107bd4b5c4951439]
+
+(1) Where a collector proposes to charge a person a penalty fare under regulation 5(1), that person must, subject to regulation 10(4), provide their name and address , and, in respect of England, their date of birth, *(Extent: E)*[^key-7b73731d42ac39e97e09a63870e86b68] when required to do so by the collector.
+
+(2) Any person who fails to provide their name and address , or, in respect of England, their date of birth, *(Extent: E)*[^key-11c1dee2f2f1b9558dff38ddb9b8a2a5] in accordance with paragraph (1) is guilty of an offence and liable on summary conviction to a fine not exceeding level 2 on the standard scale.
+
+## PART 3 — Appeals
+
+### 14. Operator requirements[^key-e3e9dca8e6ea1b0c52fd89e047627040]
+
+(1) Where, at any time, an operator does not satisfy the appeals requirements the operator must ensure that a collector authorised by the operator does not charge a penalty fare on the operator’s behalf.
+
+(2) Where a penalty fare is charged to a person on behalf of an operator and paragraph (4) applies, the person is not liable to pay the penalty fare.
+
+(3) Subject to paragraph (3A), *(Extent: E)*[^key-9b45900c0c0577dca6d34c55d75bbd2e] If the person referred to in paragraph (2) has paid the penalty fare, or part of it, the operator must refund that person the amount paid within the period of 10 working days, beginning with the day on which the operator knows that paragraph (4) applies.
+
+*Extent: E*
+
+(3A)[^key-8edc2c9096ade660e1f10504ee9a5e09] If a person to whom paragraph (3) applies has paid a penalty fare calculated in accordance with regulation 9(1A) or (4A), or part of such penalty fare, the operator on whose behalf the penalty fare was charged must refund that person any amount paid that exceeds the amount of the full single fare applicable for their journey within the period of 10 working days, beginning with the day on which the operator knows that paragraph (4) applies.
+
+(4) This paragraph applies if—
+
+- (a) the operator did not satisfy the appeals requirements at the time the penalty fare was charged; or
+- (b) there is a time at which the person could appeal under regulation 16, 17 or 18, and at that time the operator does not satisfy the appeals requirements.
+
+(5) An operator “satisfies the appeals requirements” for the purposes of this regulation if the operator has—
+
+- (a) made arrangements for—
+  - (i) an Appeal Panel to consider any appeal under regulations 16 and 17 against a penalty fare charged on its behalf, and
+  - (ii) a Final Appeal Panel to consider any appeal under regulation 18 against a penalty fare charged on its behalf; and
+- (b) established and maintained a financial arrangement with the relevant Appeal Panel and the relevant Final Appeal Panel to ensure that all of the costs associated with appeals under regulations 16, 17 and 18 against penalty fares charged on behalf of the operator are paid for by the operator.
+
+### 15. Appeal Panel and Final Appeal Panel requirements[^key-331f68c09991f95c19154cfaa8eaaa52]
+
+(1) To comply with the requirements in this paragraph a body must—
+
+- (a) be managerially and organisationally independent of any operator and any affiliate of an operator; and
+- (b) have arrangements to ensure that any appeal under regulation 17 can be considered by a different person to the person who decided not to allow the appeal under regulation 16.
+
+(2) To comply with the requirements in this paragraph a body must be—
+
+- (a) managerially and organisationally independent of any operator and any affiliate of an operator; and
+- (b) independent of the panels which considered the appeal under regulations 16 and 17 in the appeal concerned.
+
+(3) In this regulation—
+
+- (a) “affiliate of an operator” means a subsidiary or holding company of that operator and any subsidiary or holding company of such holding company (and, for the purposes of this definition, “subsidiary” and “holding company” have the meanings ascribed to them in section 1261(1) of the Companies Act 2006[^f00017]); and
+- (b) a body is “independent of the panels which considered the appeal under regulations 16 and 17 in the appeal concerned” if it has arrangements in place to ensure that the requirement in paragraph 15(b) of Schedule 2 can be complied with.
+
+### 16. Appeals – stage one[^key-d3a2096f9217f1514ad9a749c340b6fb]
+
+(1) A person (“the appellant”) charged a penalty fare under regulation 5(1) may appeal against that penalty fare to the relevant Appeal Panel—
+
+- (a) before the end of the period of 21 days beginning with the day after the day on which the penalty fare is charged; or
+- (b) within such longer period as the relevant Appeal Panel may allow.
+
+(2) An appeal under this regulation must be made—
+
+- (a) in accordance with the Appeal Procedure; and
+- (b) on one or more of the grounds specified in paragraph (3).
+
+(3) The grounds on which an appeal under this regulation may be made are that—
+
+- (a) the penalty fare was not charged in accordance with the requirements of these Regulations;
+- (b) the appellant is not the person liable for the payment of the penalty fare;
+- (c) the appellant owns a season ticket valid for the journey in question but was not in possession of the season ticket at the time the penalty fare was charged; or
+- (d) there are compelling reasons why, in the particular circumstances of the case, the appellant should not be liable to pay the penalty fare.
+
+(4) Where the appellant makes representations as part of an appeal under this regulation in relation to any of the matters specified in paragraph (5), it is for the operator on whose behalf the penalty fare was charged to provide evidence that reasonably demonstrates that any fact described by the appellant in relation to any of those matters is not true.
+
+(5) The matters referred to in paragraph (4) are—
+
+- (a) in circumstances where the appellant was charged a penalty fare in relation to travelling by, being present on, or leaving a train—
+  - (i) by which train and preceding train or trains, if any, the appellant was travelling or had travelled or on which train the appellant was present or had been present;
+  - (ii) at which station the appellant boarded the train and any preceding train or trains and at which station the appellant intended to leave that train;
+  - (iii) whether any of the circumstances mentioned in regulations 6(2) applied;
+- (b) in circumstances where, being a person present in or leaving a compulsory ticket area, other than as a result of leaving a train that arrived at that compulsory ticket area, the appellant was charged a penalty fare in respect of being present in or leaving that compulsory ticket area—
+  - (i) whether the appellant intended to travel by train, and if so, by which train and to which station, and if not, the appellant’s reason for being in the compulsory ticket area;
+  - (ii) whether any of the circumstances mentioned in regulation 7 applied.
+
+(6) The relevant Appeal Panel must consider an appeal under this regulation in accordance with the Appeal Procedure.
+
+(7) If the relevant Appeal Panel, after considering an appeal under this regulation, concludes that any ground specified in paragraph (3) applies, it must, subject to paragraph (10), allow the appeal.
+
+(8) If the relevant Appeal Panel, after considering an appeal under this regulation, concludes that no ground specified in paragraph (3) applies, it must not allow the appeal.
+
+(9) The relevant Appeal Panel must, in accordance with the Appeal Procedure, notify the operator concerned and the appellant of any decision made under paragraph (7) or (8).
+
+(10) Where the relevant Appeal Panel concludes that the ground in paragraph (3)(c) applies, the Panel may decide to not allow the appeal if the operator has provided evidence that the appellant has made a journey on at least two occasions previously where the ground in paragraph (3)(c) applied.
+
+(11) Subject to paragraph (11A), *(Extent: E)*[^key-fde10e2cc0a68348384f687a2c678fb4] Where the relevant Appeal Panel—
+
+- (a) notifies the operator that an appeal has been allowed; or
+- (b) fails to adhere to the time period specified in paragraph 6 of Schedule 2,
+
+the appellant is not liable to pay the penalty fare in question.
+
+*Extent: E*
+
+(11A)[^key-cf3bbdac435845d649edf108ac9fd35f] If an appeal is against a penalty fare calculated in accordance with regulation 9(1A) or (4A), where the relevant Appeal Panel—
+
+- (a) notifies the operator that an appeal has been allowed; or
+- (b) fails to adhere to the time period specified in paragraph 6 of schedule 2, the appellant is not liable to pay the penalty fare in question and is only liable to pay the full single fare applicable for their journey.
+
+(12) If the appellant referred to in paragraph (11) has paid the penalty fare, or part of it, the operator on whose behalf the penalty fare was charged must repay to the appellant the amount paid within the period of 10 working days, beginning with whichever is the earlier of—
+
+- (a) the day on which that operator receives notification that the appeal has been allowed; or
+- (b) the day on which the time period specified in paragraph 6 of Schedule 2 expires.
+
+*Extent: E*
+
+(12A)[^key-ae8343c4fe58f2293aedfac20e5e7c95] If the appellant referred to in paragraph (11A) has paid the penalty fare, or any part of it, the operator on whose behalf the penalty fare was charged must repay to the appellant any amount paid that exceeds the amount of the full single fare applicable for their journey within the period of 10 working days, beginning with whichever is the earlier of—
+
+- (a) the day on which that operator receives notification that the appeal has been allowed; or
+- (b) the day on which the time period specified in paragraph 6 of Schedule 2 expires.
+
+(13) In this regulation “season ticket” means a ticket which entitles the person to whom it is issued to make an unlimited number of journeys in any direction between the stations, or within the zones, for which the ticket is valid during a specified period whether or not the entitlement is subject to further restrictions.
+
+### 17. Appeals – stage two[^key-6575d838aef3cf623e9b033ffd7394d3]
+
+(1) Where an Appeal Panel has notified an appellant that it has not allowed an appeal made under regulation 16, the appellant may appeal to the relevant Appeal Panel against that decision—
+
+- (a) before the end of the period of 14 days beginning with the day on which the notice of such decision is received; or
+- (b) within such longer period as the relevant Appeal Panel may allow.
+
+(2) An appeal under this regulation must be made—
+
+- (a) in accordance with the Appeal Procedure; and
+- (b) on one or more of the grounds specified in regulation 16(3).
+
+(3) The relevant Appeal Panel must consider an appeal under this regulation in accordance with the Appeal Procedure.
+
+(4) If the relevant Appeal Panel, after considering an appeal under this regulation, concludes that any ground specified in regulation 16(3) applies, it must, subject to paragraph (7), allow the appeal.
+
+(5) If the relevant Appeal Panel, after considering an appeal under this regulation, concludes that no ground specified in regulation 16(3) applies, it must not allow the appeal.
+
+(6) The relevant Appeal Panel must, in accordance with the Appeal Procedure, notify the operator concerned and the appellant of any decision made under paragraph (4) or (5).
+
+(7) Where the relevant Appeal Panel concludes that the ground in regulation 16(3)(c) applies, the Panel may decide to not allow the appeal if the operator has provided evidence that the appellant has made a journey on at least two occasions previously where the ground in regulation 16(3)(c) applied.
+
+(8) Subject to paragraph (8A), *(Extent: E)*[^key-6d7bf7ebed7e51b4f5eb0c8f38b79446] Where the relevant Appeal Panel—
+
+- (a) notifies the operator that an appeal has been allowed; or
+- (b) fails to adhere to the time period specified in paragraph 6 of Schedule 2,
+
+the appellant is not liable to pay the penalty fare in question.
+
+*Extent: E*
+
+(8A)[^key-60d8f6f10949dea05056b00e32240849] If an appeal is against a penalty fare calculated in accordance with regulation 9(1A) or (4A), where the relevant Appeal Panel—
+
+- (a) notifies the operator that an appeal has been allowed; or
+- (b) fails to adhere to the time period specified in paragraph 6 of Schedule 2, the appellant is not liable to pay the penalty fare in question and is only liable to pay the full single fare applicable for their journey.
+
+(9) If the appellant referred to in paragraph (8) has paid the penalty fare, or part of it, the operator on whose behalf the penalty fare was charged must repay to the person the amount paid within the period of 10 working days, beginning with whichever is the earlier of—
+
+- (a) the day on which that operator receives notification that the appeal has been allowed; or
+- (b) the day on which the time period specified in paragraph 6 of Schedule 2 expires.
+
+*Extent: E*
+
+(10)[^key-696ff881ac4c018bcf37bb602c6d96c7] If the appellant referred to in paragraph (8A) has paid the penalty fare, or part of it, the operator on whose behalf the penalty fare was charged must repay to the person any amount paid that exceeds the amount of the full single fare applicable for their journey within the period of 10 working days, beginning with whichever is the earlier of—
+
+- (a) the day on which that operator receives notification that the appeal has been allowed; or
+- (b) the day on which the time period specified in paragraph 6 of Schedule 2 expires.
+
+### 18. Appeals – final stage[^key-f09631fe01afcbea5a0aa3c192e0c51d]
+
+(1) Where an Appeal Panel has notified an appellant that it has not allowed an appeal under regulation 17 the appellant may appeal to the relevant Final Appeal Panel against that decision—
+
+- (a) before the end of the period of 14 days beginning with the day on which the notice of such decision is received; or
+- (b) within such longer period as the relevant Final Appeal Panel may allow.
+
+(2) An appeal under this regulation must be made—
+
+- (a) in accordance with the Appeal Procedure; and
+- (b) on one or more of the grounds specified in regulation 16(3).
+
+(3) The relevant Final Appeal Panel must consider an appeal under this regulation in accordance with the Appeal Procedure.
+
+(4) If the relevant Final Appeal Panel, after considering an appeal under this regulation, concludes that any ground specified in regulation 16(3) applies, it must, subject to paragraph (7), allow the appeal.
+
+(5) If the relevant Final Appeal Panel, after considering an appeal under this regulation, concludes that no ground specified in regulation 16(3) applies, it must not allow the appeal.
+
+(6) The relevant Final Appeal Panel must, in accordance with the Appeal Procedure, notify the operator concerned and the appellant of any decision under paragraph (4) or (5).
+
+(7) Where the relevant Final Appeal Panel concludes that the ground in regulation 16(3)(c) applies, the Panel may decide to not allow the appeal if the operator has provided evidence that the appellant has made a journey on at least two occasions previously where the ground in regulation 16(3)(c) applied.
+
+(8) Subject to paragraph (8A), *(Extent: E)*[^key-b4407e6e526f7146e3b963b1bca573f8] Where the relevant Final Appeal Panel—
+
+- (a) notifies the operator that an appeal has been allowed; or
+- (b) fails to adhere to the time period specified in paragraph 15(d) of Schedule 2,
+
+the appellant is not liable to pay the penalty fare in question.
+
+*Extent: E*
+
+(8A)[^key-4618c803935fdef17012780a20155895] If an appeal is against a penalty fare calculated in accordance with regulation 9(1A) or (4A), where the relevant Final Appeal Panel—
+
+- (a) notifies the operator that an appeal has been allowed; or
+- (b) fails to adhere to the time period specified in paragraph 15(d) of Schedule 2, the appellant is not liable to pay the penalty fare in question and is only liable to pay the full single fare applicable for their journey.
+
+(9) If the appellant referred to in paragraph (8) has paid the penalty fare, or part of it, the operator on whose behalf the penalty fare was charged must repay to the person the amount paid within the period of 10 working days, beginning with whichever is the earlier of—
+
+- (a) the day on which that operator receives notification that the appeal has been allowed; or
+- (b) the day on which the time period specified in paragraph 6 of Schedule 2 expires.
+
+*Extent: E*
+
+(10)[^key-d5ca0881a9581f7e288ee5ddb9f3a22a] If the appellant referred to in paragraph (8) has paid the penalty fare, or part of it, the operator on whose behalf the penalty fare was charged must repay to the person any amount paid that exceeds the amount of the full single fare applicable for their journey within the period of 10 working days, beginning with whichever is the earlier of—
+
+- (a) the day on which that operator receives notification that the appeal has been allowed; or
+- (b) the day on which the time period specified in paragraph 6 of schedule 2 expires.
+
+## PART 4 — Final provisions
+
+### 19. Revocation[^key-933f10b55879a1a16baf96eb9d8c0c31]
+
+The following instruments are revoked—
+
+- (a) the 1994 Regulations; and
+- (b) the Railways (Penalty Fares) (Amendment) Regulations 2005[^f00018].
+
+### 20. Transitional Provisions[^key-8b8ab58be9d4d1c982423b6b5a943bcd]
+
+(1) A penalty fare charged under the 1994 Regulations (a “pre-commencement penalty fare”) is to be treated as having been charged under these Regulations.
+
+(2) For the purposes of regulation 14 the operator concerned is treated as having satisfied the appeals requirements, which are particularised in regulation 14(5), at the time that a pre-commencement penalty fare was charged.
+
+(3) Where a person who has been charged a pre-commencement penalty fare made an appeal within the period of 21 days, beginning with the day on which that penalty fare was charged, and that appeal has not been finally determined before 6th April 2018—
+
+- (a) the person is to be treated as having made an appeal to the relevant Appeal Panel under, and in compliance with, regulation 16 on the ground set out in regulation 16(3)(d); and
+- (b) the relevant Appeal Panel may request any further particulars required in order to determine the appeal in accordance with the Appeal Procedure.
+
+(4) Where a person who has been charged a pre-commencement penalty fare has not made an appeal, but the period of 21 days, beginning with the day on which that penalty fare was charged, has not ended before 6th April 2018—
+
+- (a) the pre-commencement penalty fare is to be treated for the purposes of these Regulations as if it were charged on 6th April 2018; and
+- (b) these Regulations have effect as if regulation 16(3)(a) were omitted.
+
+(5) Any person who, immediately before the coming into force of these Regulations, would be treated as an authorised collector[^f00019] entitled to charge a penalty fare on behalf of an operator under the 1994 Regulations (“an existing collector”), is to be treated as a collector who has been authorised to charge a penalty fare on behalf of that same operator for the purpose of these Regulations.
+
+(6) Any document issued as identification, prior to the coming into force of these Regulations, by an operator to an existing collector, for the purpose of proving the collector was authorised to collect penalty fares, shall be treated as if it were identification containing the information specified in Part 2 of Schedule 1, for a period of 90 days beginning with the day following the day on which these Regulations come into force.
+
+Signed by authority of the Secretary of State for Transport
+
+Jo Johnson
+
+Minister of State
+
+Department for Transport
+
+12th March 2018
+
+## SCHEDULE 1 — Notices and Identification
+
+Regulations 8 and 10
+
+### PART 1 — Notices
+
+#### 1. Standard notice[^key-939b3a75a8f5cde6f550e6806807018c]
+
+(1) A standard notice must contain—
+
+- (a) the penalty fares logo as shown in Part 3;
+- (b) the word “WARNING” in large, prominent text at the top of the notice;
+- (c) the wording “Please buy your ticket before you travel otherwise you may be charged a Penalty Fare”;
+- (d) subject to paragraph (da), *(Extent: E)*[^key-1979155c01c824331f227ad52ef50c5c] the wording “A Penalty Fare is £20 or twice the full single fare applicable to your journey (whichever is greater)”;
+
+*Extent: E*
+
+- (da)[^key-5e7aafb4bc7146eaaf1a787673cb40c4] in stations in England, the wording “A Penalty Fare is £100 plus the price of the full single fare applicable for your intended journey. However, if it is paid within 21 days, the Penalty Fare is reduced to £50 plus the price of the single fare applicable”;
+- (e) wording which indicates where information about the circumstances in which a person may be charged a penalty fare in relation to travel by, presence on or leaving a train is published or may be obtained; and
+- (f) the logo, and name if the logo does not contain the name, of each operator that charges penalty fares in relation to trains arriving at or departing from the area of the station to which the notice applies.
+
+(2) The absence of a logo or name, as required by sub-paragraph (1)(f), on a notice only invalidates the notice in relation to the operator whose logo or name is missing.
+
+#### 2. Compulsory ticket area notice[^key-0d5efa3676928500f82500702e3fb2f1]
+
+(1) A compulsory ticket area notice must contain—
+
+- (a) the penalty fares logo as shown in Part 3;
+- (b) the word “WARNING” in large, prominent text at the top of the notice;
+- (c) the wording—
+  - (i) “You are about to enter a Compulsory Ticket Area”;
+  - (ii) “You must have a platform ticket or valid travel ticket before passing this point”; and
+  - (iii) “Otherwise you may be charged a Penalty Fare”;
+- (d) subject to paragraph (da) *(Extent: E)*[^key-2042c7a82c0e23e00fe977dded79f84e] the wording “A Penalty Fare is a minimum of £20. If you intend to travel, a Penalty Fare is £20 or twice the full single fare applicable to your journey (whichever is greater)”;
+
+*Extent: E*
+
+- (da)[^key-5e16b7de810813047ebea06aacf4e7c5] in stations in England, the wording “A penalty fare is £100 (reduced to £50 if it is paid within 21 days) plus, if you intend to travel, the full single fare applicable to your journey”;
+- (e) wording which indicates where information about the circumstances in which a person may be charged a penalty fare for being in or leaving a compulsory ticket area is published or may be obtained; and
+- (f) the logo, and name if the logo does not contain the name, of each operator that charges penalty fares in relation to trains arriving at or departing from the compulsory ticket area.
+
+(2) The absence of a logo or name, as required by sub-paragraph (1)(f), on a notice only invalidates the notice in relation to the operator whose logo or name is missing.
+
+### PART 2 — Identification for Collectors
+
+**3.**[^key-4a275744cd78242f5e6400dc4305088f] Identification issued to a collector (“the collector”) must contain—
+
+- (a) the penalty fares logo as shown in Part 3;
+- (b) the logo, and name if the logo does not contain the name, of the authorising operator;
+- (c) a photograph of the collector;
+- (d) the identification number of the collector;
+- (e) the following wording—
+
+  > The person identified by this card is a collector for \[*name of authorising operator*\] under the Railways (Penalty Fares) Regulations 2018
+
+  ; and
+- (f) the signature of the person who, on behalf of the authorising operator, authorised the collector.
+
+### PART 3 — Penalty Fares Logo[^key-41be3a970506c79f5e1e08f4f3ca94d9]
+
+[image: see source](https://www.legislation.gov.uk/uksi/2018/366/images/uksi_20180366_en_001)
+
+## SCHEDULE 2 — Appeal Procedure
+
+Regulations 15, 16, 17 and 18
+
+**1.**[^key-28357195d40a5f39e8cee39d58aab2de] An appeal must be made in writing and may be sent to the address of the relevant Appeal Panel or, as the case may be, the relevant Final Appeal Panel by—
+
+- (a) sending it by prepaid post;
+- (b) sending it by electronic transmission;
+- (c) delivering it to or otherwise leaving it at that address; or
+- (d) by any other means specifically authorised by the relevant Appeal Panel or, as the case may be, the relevant Final Appeal Panel.
+
+**2.**[^key-194d205828f1d0ab28d5db2f9ddac3c0] Any reference in these Regulations to a period of time within which a person may make an appeal is a reference to the time within which the appeal must be received by the relevant Appeal Panel or, as the case may be, the relevant Final Appeal Panel.
+
+**3.**[^key-dee4a12b5ae775f3dff74571e921c55e] An appeal or a decision notice sent by post is to be presumed, unless the contrary is proved, to have been received on the second working day after the day on which it is posted.
+
+**4.**[^key-79c7e213d0d20585487d0aa07c6447c0] An appeal under regulation 16 must contain the following particulars—
+
+- (a) the name and address of the appellant;
+- (b) the penalty fare number;
+- (c) a statement setting out which one or more of the appeal grounds specified in regulation 16(3) is relied on;
+- (d) a statement setting out any representations made in relation to any of the matters specified in regulation 16(5).
+
+**5.**[^key-ff99ff7b89961e293cb903c05e28fa29] An appeal under regulation 16 may contain any other relevant information.
+
+**6.**[^key-0cd5cda9a6bd1faa6da1e967f9604f2f] Where an Appeal Panel receives an appeal under regulation 16 or 17, it must decide whether to allow or not allow the appeal before the end of the period of 21 days beginning with the day on which the appeal is received.
+
+**7.**[^key-c8c0f5084602290e601cc5766bf1b2b8] When an Appeal Panel notifies its decision to allow or not allow an appeal under regulation 16 or 17, it must—
+
+- (a) do so in writing to both the operator concerned and the appellant;
+- (b) give reasons for its decision;
+- (c) if the appeal was received by post, notify its decision by post to the postal address the appellant has provided;
+- (d) if the appeal was received by electronic transmission, notify its decision either by electronic transmission to the email address used by the appellant to submit the appeal or by post to the postal address the appellant has provided.
+
+**8.**[^key-eac6b887a5ce468bb9f705b60a15ed44] Where an Appeal Panel notifies its decision not to allow an appeal under regulation 16 it must provide the appellant with a statement that—
+
+- (a) the person has the right to appeal against the decision to the relevant Appeal Panel;
+- (b) that the appeal would be considered by a different person at the relevant Appeal Panel;
+- (c) if the appeal was unsuccessful the person would have the right to appeal to the relevant Final Appeal Panel; and
+- (d) the operator will be entitled to commence court proceedings to recover the penalty fare if the appellant does not—
+  - (i) appeal the decision to the relevant Appeal Panel within the 14 day period provided for by regulation 17(1)(a); or
+  - (ii) pay the penalty fare within that period.
+
+**9.**[^key-b2972c16a7079df38a3451e24aa11589] An appeal under regulation 17 must contain—
+
+- (a) the particulars specified in paragraph 4; and
+- (b) a statement explaining the reason or reasons for the appeal against the decision to not allow the appeal under regulation 16.
+
+**10.**[^key-055ef05a31eb6e652299265d335072d6] An appeal under regulation 17 may contain any other relevant information.
+
+**11.**[^key-ce4727f8ced7da50a85c2513908efd41] Where an Appeal Panel receives an appeal under regulation 17, the appeal must be considered by, and the decision to allow or not to allow the appeal must be made by, a different person to the person who decided not to allow the appeal under regulation 16.
+
+**12.**[^key-40856921d737cf8f90df16602fc28172] Where an Appeal Panel notifies its decision not to allow an appeal under regulation 17 it must provide the appellant with a statement that—
+
+- (a) the person has the right to appeal against the decision to the relevant Final Appeal Panel; and
+- (b) the operator will be entitled to commence court proceedings to recover the penalty fare if the appellant does not—
+  - (i) appeal the decision to the relevant Final Appeal Panel within the 14 day period provided for by regulation 18(1)(a); or
+  - (ii) pay the penalty fare within that period.
+
+**13.**[^key-3266b0bd57146aad1e6d18a407f2d35c] An appeal under regulation 18 must contain—
+
+- (a) the particulars specified in paragraph 4; and
+- (b) a statement explaining the reasons for the appeal against the decision to not allow the appeal under regulation 17.
+
+**14.**[^key-0329c2daa3583f2efee425435d6fd893] An appeal under regulation 18 may contain any other relevant information.
+
+**15.**[^key-f981712b4547837c3c3d67c146d6c28f] Where a Final Appeal Panel receives an appeal under regulation 18—
+
+- (a) the appeal must be considered by, and the decision to allow or not to allow the appeal must be made by, a panel comprising three decision makers;
+- (b) the panel referred to in sub-paragraph (a) must not contain any person who was involved in the decision in respect of the appeal under regulation 16 or 17;
+- (c) every decision maker referred to in sub-paragraph (a) must give a decision on the appeal; and
+- (d) the relevant Final Appeal Panel must decide whether to allow or not to allow the appeal before the end of the period of 21 days beginning with the day on which the appeal is received.
+
+**16.**[^key-aac1aaec47003c799170c92c29bde30c] If the decision makers referred to in paragraph 15(a) cannot reach a unanimous decision to allow, or not allow, an appeal the decision may be made by a majority of those decision makers.
+
+**17.**[^key-50c3b8edf3f0dff5aa75218af6ca4ad1] When a Final Appeal Panel notifies its decision to allow or not allow an appeal, it must—
+
+- (a) do so in writing to both the operator concerned and the appellant;
+- (b) give reasons for its decision;
+- (c) if the appeal was received by post, notify its decision by post to the postal address the appellant has provided;
+- (d) if the appeal was received by electronic transmission, notify its decision either by electronic transmission to the email address used by the appellant to submit the appeal or by post to the postal address the appellant has provided.
+
+**18.**[^key-4badf47e80e190ad31df33919f6dc528] Where a Final Appeal Panel notifies its decision not to allow an appeal under regulation 18, it must provide the appellant with a statement that if the appellant does not pay the penalty fare within the period of 14 days, beginning with the day on which the appellant receives the panel’s decision, the operator will be entitled to commence court proceedings to recover the penalty fare.
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations make provision for the charging of penalty fares for the failure to produce, when required to do so, a ticket or other authority authorising a person to travel by train or to be present in a compulsory ticket area at a station.
+
+Part 1 of the Regulations makes provision in relation to the scope of the Regulations and defines terms used in the Regulations.
+
+Part 2 of the Regulations imposes a requirement to produce a ticket or other authority for travel or presence on a train or presence in a compulsory ticket area (regulation 4). Regulation 5 makes provision for the charging of penalty fares where a person fails to comply with the requirements in regulation 4 and regulations 6 and 7 set out circumstances in which a penalty fare must not be charged. Regulation 8 and Schedule 1 make provision for the notices which an operator must display in order to be able to charge penalty fares. Regulation 9 sets out the amount of the penalty fare that may be charged. Regulation 10 sets out the circumstances in which a collector may act and the requirement for collectors to carry identification. Regulation 11 prevents a person being liable to pay a penalty fare where proceedings for a criminal offence are brought in relation to the same matter. Regulation 12 provides the circumstances in which operators may recover penalty fares. Regulation 13 requires a person required to pay a penalty fare to provide their name and address if required to do so. Any person who fails to do so is guilty of an offence.
+
+Part 3 of the Regulations, together with Schedule 2, provides that an operator may only charge penalty fares if they have in place an appeals process that complies with these Regulations (regulation 14). Regulation 15 sets out the requirements that appeal panels must satisfy and regulations 16 to 18, together with Schedule 2, set out the processes and procedures that must be followed.
+
+Part 4 of the Regulations revokes the Railways (Penalty Fares) Regulations 1994 and the Railways (Penalty Fares) (Amendment) Regulations 2005 (regulation 19). Regulation 20 makes provision for how penalty fares charged under the Railways (Penalty Fares) Regulations 1994, and the persons who were authorised to collect penalty fares under those regulations, are to be treated for the purpose of this instrument.
+
+A full impact assessment has not been produced for this instrument as no significant impact on the private, voluntary or public sectors is foreseen. An Explanatory Memorandum has been prepared for these Regulations and is available alongside this instrument on the UK Legislation website www.legislation.gov.uk.
+
+## Annotations
+
+[^f00001]: Footnote: [1993 c. 43](https://www.legislation.gov.uk/ukpga/1993/43); section 130 was amended by section 47 of, and Part 1 of Schedule 1 to, the Railways Act [2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14). There are other amendments to sections 130 and 143 not relevant to this S.I. See section 130(12) for the meaning of “collectors” and “prescribed”.
+
+[^key-e2c673402c02e9c112704a3621957ca3]: Commencement: Reg. 1 in force at 6.4.2018, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2018/366/regulation/1/b)
+
+[^key-bb5ea7c9a2715c2c5e09a138b59bcaa3]: Commencement: Reg. 2 in force at 6.4.2018, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2018/366/regulation/1/b)
+
+[^f00002]: Footnote: By virtue of section 130(12) of the Railways Act 1993 the definition of “railway passenger service” in section 83(1) of that Act applies for the purposes of section 130.
+
+[^f00003]: Footnote: By virtue of section 130(12) of the Railways Act 1993 the definition of “station” in section 83(1) of that Act applies for the purposes of section 130 subject to the further definition in section 130(12).
+
+[^f00004]: Footnote: By virtue of section 130(12) of the Railways Act 1993 the definition of “scheduled call” in section 83(1) of that Act (inserted into that subsection by paragraph 37(3) of Schedule 1 to the Railways Act 2005) applies for the purposes of section 130.
+
+[^f00005]: Footnote: By virtue of section 130(12) of the Railways Act 1993 the definition of “Scottish franchise agreement” in section 83(1) of that Act (inserted into that subsection by paragraph 37(3) of Part 2 of Schedule 1 to the Railways Act 2005) applies for the purposes of section 130.
+
+[^f00006]: Footnote: By virtue of section 130(12) of the Railways Act 1993 the definition of “Scotland-only service” in section 83(1) of that Act (inserted into that subsection by paragraph 37(3) of Part 2 of Schedule 1 to the Railways Act 2005) applies for the purposes of section 130.
+
+[^f00007]: Footnote: [1999 c. 29](https://www.legislation.gov.uk/ukpga/1999/29).
+
+[^f00008]: Footnote: “Transport subsidiary’s agreement” is defined in section 169 of the Greater London Authority Act 1999.
+
+[^key-8ecf3844afa03019d344db10dc65e6c6]: Commencement: Reg. 3 in force at 6.4.2018, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2018/366/regulation/1/b)
+
+[^f00009]: Footnote: [S.I. 1994/576](https://www.legislation.gov.uk/uksi/1994/576), amended by [S.I. 2005/1095](https://www.legislation.gov.uk/uksi/2005/1095).
+
+[^key-9dfaf6d7f8ef3c5139b3abf2e6e8f64e]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/uksi/2018/366/regulation/3) inserted (E.W. with application in respect of E.) (23.1.2023) by [The Railways (Penalty Fares) (Amendment) Regulations 2022 (S.I. 2022/1094)](https://www.legislation.gov.uk/uksi/2022/1094), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2022/1094/regulation/1/b), [3(a)](https://www.legislation.gov.uk/uksi/2022/1094/regulation/3/a)
+
+[^key-0da5a11971a232f3360ebbcafe90331b]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/uksi/2018/366/regulation/3) inserted (E.W. with application in respect of E.) (23.1.2023) by [The Railways (Penalty Fares) (Amendment) Regulations 2022 (S.I. 2022/1094)](https://www.legislation.gov.uk/uksi/2022/1094), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2022/1094/regulation/1/b), [3(b)](https://www.legislation.gov.uk/uksi/2022/1094/regulation/3/b)
+
+[^f00010]: Footnote: [1971 c. 80](https://www.legislation.gov.uk/ukpga/1971/80).
+
+[^f00011]: Footnote: See section 130(12) of the Railways Act [1993 (c.43)](https://www.legislation.gov.uk/ukpga/1993/43) for the meaning of “document”
+
+[^key-78b1be92210497b207372305738712e9]: Commencement: Reg. 4 in force at 6.4.2018, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2018/366/regulation/1/b)
+
+[^key-3c12369513211f91d2c51f823c2ddb2a]: Commencement: Reg. 5 in force at 6.4.2018, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2018/366/regulation/1/b)
+
+[^key-519bf8084193a209a8e05e055538edbf]: Textual amendment: [Reg. 5(2A)](https://www.legislation.gov.uk/uksi/2018/366/regulation/5/2A) inserted (E.W. with application in respect of E.) (23.1.2023) by [The Railways (Penalty Fares) (Amendment) Regulations 2022 (S.I. 2022/1094)](https://www.legislation.gov.uk/uksi/2022/1094), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2022/1094/regulation/1/b), [4(1)](https://www.legislation.gov.uk/uksi/2022/1094/regulation/4/1)
+
+[^key-c6adb3b87199033fc91e16343d21796a]: Textual amendment: Words in [reg. 5(5)](https://www.legislation.gov.uk/uksi/2018/366/regulation/5/5) substituted (E.W. with application in respect of E.) (23.1.2023) by [The Railways (Penalty Fares) (Amendment) Regulations 2022 (S.I. 2022/1094)](https://www.legislation.gov.uk/uksi/2022/1094), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2022/1094/regulation/1/b), [4(2)](https://www.legislation.gov.uk/uksi/2022/1094/regulation/4/2)
+
+[^key-df954eebe5ee626395afb693db6033dc]: Textual amendment: [Reg. 5(5A)](https://www.legislation.gov.uk/uksi/2018/366/regulation/5/5A) inserted (E.W. with application in respect of E.) (23.1.2023) by [The Railways (Penalty Fares) (Amendment) Regulations 2022 (S.I. 2022/1094)](https://www.legislation.gov.uk/uksi/2022/1094), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2022/1094/regulation/1/b), [4(3)](https://www.legislation.gov.uk/uksi/2022/1094/regulation/4/3)
+
+[^key-193a09cf42a6cecb7cc8f81e1e4af058]: Textual amendment: Words in [reg. 5(6)](https://www.legislation.gov.uk/uksi/2018/366/regulation/5/6) inserted (E.W. with application in respect of E.) (23.1.2023) by [The Railways (Penalty Fares) (Amendment) Regulations 2022 (S.I. 2022/1094)](https://www.legislation.gov.uk/uksi/2022/1094), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2022/1094/regulation/1/b), [4(4)](https://www.legislation.gov.uk/uksi/2022/1094/regulation/4/4)
+
+[^key-1a9a4a77af2ee1ba326e55e6786dd965]: Textual amendment: Words in [reg. 5(8)](https://www.legislation.gov.uk/uksi/2018/366/regulation/5/8) inserted (E.W. with application in respect of E.) (23.1.2023) by [The Railways (Penalty Fares) (Amendment) Regulations 2022 (S.I. 2022/1094)](https://www.legislation.gov.uk/uksi/2022/1094), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2022/1094/regulation/1/b), [4(5)](https://www.legislation.gov.uk/uksi/2022/1094/regulation/4/5)
+
+[^key-bcb7f209f83571406e5b49a0fd2d829e]: Textual amendment: [Reg. 5(8A)](https://www.legislation.gov.uk/uksi/2018/366/regulation/5/8A) inserted (E.W. with application in respect of E.) (23.1.2023) by [The Railways (Penalty Fares) (Amendment) Regulations 2022 (S.I. 2022/1094)](https://www.legislation.gov.uk/uksi/2022/1094), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2022/1094/regulation/1/b), [4(6)](https://www.legislation.gov.uk/uksi/2022/1094/regulation/4/6)
+
+[^key-78817e350f040aeccc21348558df4553]: Commencement: Reg. 6 in force at 6.4.2018, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2018/366/regulation/1/b)
+
+[^key-e493b37277ea49946891c0d16b22ecf6]: Commencement: Reg. 7 in force at 6.4.2018, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2018/366/regulation/1/b)
+
+[^key-08ad64de6e697da313ae92dbde312a8c]: Commencement: Reg. 8 in force at 6.4.2018, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2018/366/regulation/1/b)
+
+[^key-c48e3edd96079145c3fbb9684e61f78c]: Commencement: Reg. 9 in force at 6.4.2018, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2018/366/regulation/1/b)
+
+[^key-9e28c1f5dffe3ecb41dd75de2daa5a42]: Textual amendment: Words in [reg. 9(1)](https://www.legislation.gov.uk/uksi/2018/366/regulation/9/1) inserted (E.W. with application in respect of E.) (23.1.2023) by [The Railways (Penalty Fares) (Amendment) Regulations 2022 (S.I. 2022/1094)](https://www.legislation.gov.uk/uksi/2022/1094), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2022/1094/regulation/1/b), [5(1)](https://www.legislation.gov.uk/uksi/2022/1094/regulation/5/1)
+
+[^key-d8181c6c6a44c18711b18dfdf8ece87c]: Textual amendment: [Reg. 9(1A)(1B)](https://www.legislation.gov.uk/uksi/2018/366/regulation/9/1A/1B) inserted (E.W. with application in respect of E.) (23.1.2023) by [The Railways (Penalty Fares) (Amendment) Regulations 2022 (S.I. 2022/1094)](https://www.legislation.gov.uk/uksi/2022/1094), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2022/1094/regulation/1/b), [5(2)](https://www.legislation.gov.uk/uksi/2022/1094/regulation/5/2)
+
+[^key-54af152af8873ba679c4ea9391edd4b9]: Textual amendment: [Reg. 9(2A)](https://www.legislation.gov.uk/uksi/2018/366/regulation/9/2A) inserted (E.W. with application in respect of E.) (23.1.2023) by [The Railways (Penalty Fares) (Amendment) Regulations 2022 (S.I. 2022/1094)](https://www.legislation.gov.uk/uksi/2022/1094), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2022/1094/regulation/1/b), [5(3)](https://www.legislation.gov.uk/uksi/2022/1094/regulation/5/3)
+
+[^key-9ebd028cd45d6273d8d63bfa5f1866b3]: Textual amendment: Words in [reg. 9(3)](https://www.legislation.gov.uk/uksi/2018/366/regulation/9/3) substituted (E.W. with application in respect of E.) (23.1.2023) by [The Railways (Penalty Fares) (Amendment) Regulations 2022 (S.I. 2022/1094)](https://www.legislation.gov.uk/uksi/2022/1094), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2022/1094/regulation/1/b), [5(4)](https://www.legislation.gov.uk/uksi/2022/1094/regulation/5/4)
+
+[^key-ef7fdcf57263da65ba851544dd49e8df]: Textual amendment: Words in [reg. 9(4)](https://www.legislation.gov.uk/uksi/2018/366/regulation/9/4) inserted (E.W. with application in respect of E.) (23.1.2023) by [The Railways (Penalty Fares) (Amendment) Regulations 2022 (S.I. 2022/1094)](https://www.legislation.gov.uk/uksi/2022/1094), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2022/1094/regulation/1/b), [5(5)](https://www.legislation.gov.uk/uksi/2022/1094/regulation/5/5)
+
+[^key-b4d7858b60dc8df4b71e0905f2bd3d14]: Textual amendment: [Reg. 9(4A)(4B)](https://www.legislation.gov.uk/uksi/2018/366/regulation/9/4A/4B) inserted (E.W. with application in respect of E.) (23.1.2023) by [The Railways (Penalty Fares) (Amendment) Regulations 2022 (S.I. 2022/1094)](https://www.legislation.gov.uk/uksi/2022/1094), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2022/1094/regulation/1/b), [5(6)](https://www.legislation.gov.uk/uksi/2022/1094/regulation/5/6)
+
+[^key-771d9e88c7111dda31f973277dc3b144]: Textual amendment: [Reg. 9(5A)](https://www.legislation.gov.uk/uksi/2018/366/regulation/9/5A) inserted (E.W. with application in respect of E.) (23.1.2023) by [The Railways (Penalty Fares) (Amendment) Regulations 2022 (S.I. 2022/1094)](https://www.legislation.gov.uk/uksi/2022/1094), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2022/1094/regulation/1/b), [5(7)](https://www.legislation.gov.uk/uksi/2022/1094/regulation/5/7)
+
+[^key-a045daef85d361745ece5a92564c922f]: Commencement: Reg. 10 in force at 6.4.2018, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2018/366/regulation/1/b)
+
+[^key-7e81b2dbb9576e05d889041150ec1943]: Commencement: Reg. 11 in force at 6.4.2018, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2018/366/regulation/1/b)
+
+[^key-42a386ba39f683213f2ba8ef1e7d9edf]: Textual amendment: Words in [reg. 11(2)](https://www.legislation.gov.uk/uksi/2018/366/regulation/11/2) inserted (E.W. with application in respect of E.) (23.1.2023) by [The Railways (Penalty Fares) (Amendment) Regulations 2022 (S.I. 2022/1094)](https://www.legislation.gov.uk/uksi/2022/1094), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2022/1094/regulation/1/b), [6(1)](https://www.legislation.gov.uk/uksi/2022/1094/regulation/6/1)
+
+[^key-512b425696ea6532f4e12091cfbdd13c]: Textual amendment: [Reg. 11(2A)](https://www.legislation.gov.uk/uksi/2018/366/regulation/11/2A) inserted (E.W. with application in respect of E.) (23.1.2023) by [The Railways (Penalty Fares) (Amendment) Regulations 2022 (S.I. 2022/1094)](https://www.legislation.gov.uk/uksi/2022/1094), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2022/1094/regulation/1/b), [6(2)](https://www.legislation.gov.uk/uksi/2022/1094/regulation/6/2)
+
+[^f00012]: Footnote: [1889 c. 57](https://www.legislation.gov.uk/ukpga/1889/57); the maximum fine in section 5(3) was increased by Schedule 1 to the British Railways Act 1977 (c. xvii) and then subsequently converted to level 3 on the standard scale in England and Wales by section 46 of the Criminal Justice Act [1982 (c. 48)](https://www.legislation.gov.uk/ukpga/1982/48) and in Scotland by section 289G of the Criminal Procedure (Scotland) Act [1975 (c. 21)](https://www.legislation.gov.uk/ukpga/1975/21).
+
+[^f00013]: Footnote: [1962 c. 46](https://www.legislation.gov.uk/ukpga/1962/46); subsection (3) of section 67 was substituted by section 37 of the Transport Act [1981 (c. 56)](https://www.legislation.gov.uk/ukpga/1981/56); the penalty in paragraph (a), and the first mentioned fine in paragraph (b), of that subsection were subsequently converted to references to the standard scale in England and Wales by section 46 of the Criminal Justice Act 1982; section 67 was subsequently repealed by Part 4 of Schedule 31 to the Transport Act [2000 (c. 38)](https://www.legislation.gov.uk/ukpga/2000/38) but any byelaws made under section 67 that were in force immediately before it was repealed continue in force by virtue of paragraph 5 of Schedule 28 to the Transport Act 2000.
+
+[^f00014]: Footnote: [1993 c. 43](https://www.legislation.gov.uk/ukpga/1993/43); section 129 was repealed by Part 4 of Schedule 31 to the Transport Act [2000 (c. 38)](https://www.legislation.gov.uk/ukpga/2000/38) but any byelaws made under section 129 that were in force immediately before it was repealed continue in force by virtue of paragraph 5 of Schedule 28 to the Transport Act 2000.
+
+[^f00015]: Footnote: [2000 c. 38](https://www.legislation.gov.uk/ukpga/2000/38); section 219 was repealed by Part 1 of Schedule 13 to the Railways Act [2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14) but any byelaws made under section 219 that were in force immediately before it was repealed continue in force by virtue of section 46(4) of, and paragraph 2 of Part 2 of Schedule 13 to, the Railways Act [2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14).
+
+[^f00016]: Footnote: [2005 c. 14](https://www.legislation.gov.uk/ukpga/2005/14); section 46 was amended by [S.I. 2005/3050](https://www.legislation.gov.uk/uksi/2005/3050).
+
+[^key-45b52f95a89082546e0a5057f6ee1979]: Textual amendment: [Reg. 11(4)(c)](https://www.legislation.gov.uk/uksi/2018/366/regulation/11/4/c) inserted (E.W. with application in respect of E.) (23.1.2023) by [The Railways (Penalty Fares) (Amendment) Regulations 2022 (S.I. 2022/1094)](https://www.legislation.gov.uk/uksi/2022/1094), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2022/1094/regulation/1/b), [6(3)](https://www.legislation.gov.uk/uksi/2022/1094/regulation/6/3)
+
+[^key-7b5deb57f3bf701d1c6aad7f1633216b]: Commencement: Reg. 12 in force at 6.4.2018, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2018/366/regulation/1/b)
+
+[^key-8b3e0fe7a6327d2c107bd4b5c4951439]: Commencement: Reg. 13 in force at 6.4.2018, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2018/366/regulation/1/b)
+
+[^key-7b73731d42ac39e97e09a63870e86b68]: Textual amendment: Words in [reg. 13(1)](https://www.legislation.gov.uk/uksi/2018/366/regulation/13/1) inserted (E.W. with application in respect of E.) (23.1.2023) by [The Railways (Penalty Fares) (Amendment) Regulations 2022 (S.I. 2022/1094)](https://www.legislation.gov.uk/uksi/2022/1094), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2022/1094/regulation/1/b), [7(1)](https://www.legislation.gov.uk/uksi/2022/1094/regulation/7/1)
+
+[^key-11c1dee2f2f1b9558dff38ddb9b8a2a5]: Textual amendment: Words in [reg. 13(2)](https://www.legislation.gov.uk/uksi/2018/366/regulation/13/2) inserted (E.W. with application in respect of E.) (23.1.2023) by [The Railways (Penalty Fares) (Amendment) Regulations 2022 (S.I. 2022/1094)](https://www.legislation.gov.uk/uksi/2022/1094), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2022/1094/regulation/1/b), [7(2)](https://www.legislation.gov.uk/uksi/2022/1094/regulation/7/2)
+
+[^key-e3e9dca8e6ea1b0c52fd89e047627040]: Commencement: Reg. 14 in force at 6.4.2018, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2018/366/regulation/1/b)
+
+[^key-9b45900c0c0577dca6d34c55d75bbd2e]: Textual amendment: Words in [reg. 14(3)](https://www.legislation.gov.uk/uksi/2018/366/regulation/14/3) inserted (E.W. with application in respect of E.) (23.1.2023) by [The Railways (Penalty Fares) (Amendment) Regulations 2022 (S.I. 2022/1094)](https://www.legislation.gov.uk/uksi/2022/1094), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2022/1094/regulation/1/b), [8(1)](https://www.legislation.gov.uk/uksi/2022/1094/regulation/8/1)
+
+[^key-8edc2c9096ade660e1f10504ee9a5e09]: Textual amendment: [Reg. 14(3A)](https://www.legislation.gov.uk/uksi/2018/366/regulation/14/3A) inserted (E.W. with application in respect of E.) (23.1.2023) by [The Railways (Penalty Fares) (Amendment) Regulations 2022 (S.I. 2022/1094)](https://www.legislation.gov.uk/uksi/2022/1094), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2022/1094/regulation/1/b), [8(2)](https://www.legislation.gov.uk/uksi/2022/1094/regulation/8/2)
+
+[^key-331f68c09991f95c19154cfaa8eaaa52]: Commencement: Reg. 15 in force at 6.4.2018, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2018/366/regulation/1/b)
+
+[^f00017]: Footnote: [2006 c. 46](https://www.legislation.gov.uk/ukpga/2006/46). There are amendments to section 1261(1) not relevant to these Regulations.
+
+[^key-d3a2096f9217f1514ad9a749c340b6fb]: Commencement: Reg. 16 in force at 6.4.2018, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2018/366/regulation/1/b)
+
+[^key-fde10e2cc0a68348384f687a2c678fb4]: Textual amendment: Words in [reg. 16(11)](https://www.legislation.gov.uk/uksi/2018/366/regulation/16/11) inserted (E.W. with application in respect of E.) (23.1.2023) by [The Railways (Penalty Fares) (Amendment) Regulations 2022 (S.I. 2022/1094)](https://www.legislation.gov.uk/uksi/2022/1094), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2022/1094/regulation/1/b), [9(1)](https://www.legislation.gov.uk/uksi/2022/1094/regulation/9/1)
+
+[^key-cf3bbdac435845d649edf108ac9fd35f]: Textual amendment: [Reg. 16(11A)](https://www.legislation.gov.uk/uksi/2018/366/regulation/16/11A) inserted (E.W. with application in respect of E.) (23.1.2023) by [The Railways (Penalty Fares) (Amendment) Regulations 2022 (S.I. 2022/1094)](https://www.legislation.gov.uk/uksi/2022/1094), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2022/1094/regulation/1/b), [9(2)](https://www.legislation.gov.uk/uksi/2022/1094/regulation/9/2)
+
+[^key-ae8343c4fe58f2293aedfac20e5e7c95]: Textual amendment: [Reg. 16(12A)](https://www.legislation.gov.uk/uksi/2018/366/regulation/16/12A) inserted (E.W. with application in respect of E.) (23.1.2023) by [The Railways (Penalty Fares) (Amendment) Regulations 2022 (S.I. 2022/1094)](https://www.legislation.gov.uk/uksi/2022/1094), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2022/1094/regulation/1/b), [9(3)](https://www.legislation.gov.uk/uksi/2022/1094/regulation/9/3)
+
+[^key-6575d838aef3cf623e9b033ffd7394d3]: Commencement: Reg. 17 in force at 6.4.2018, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2018/366/regulation/1/b)
+
+[^key-6d7bf7ebed7e51b4f5eb0c8f38b79446]: Textual amendment: Words in [reg. 17(8)](https://www.legislation.gov.uk/uksi/2018/366/regulation/17/8) inserted (E.W. with application in respect of E.) (23.1.2023) by [The Railways (Penalty Fares) (Amendment) Regulations 2022 (S.I. 2022/1094)](https://www.legislation.gov.uk/uksi/2022/1094), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2022/1094/regulation/1/b), [10(1)](https://www.legislation.gov.uk/uksi/2022/1094/regulation/10/1)
+
+[^key-60d8f6f10949dea05056b00e32240849]: Textual amendment: [Reg. 17(8A)](https://www.legislation.gov.uk/uksi/2018/366/regulation/17/8A) inserted (E.W. with application in respect of E.) (23.1.2023) by [The Railways (Penalty Fares) (Amendment) Regulations 2022 (S.I. 2022/1094)](https://www.legislation.gov.uk/uksi/2022/1094), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2022/1094/regulation/1/b), [10(2)](https://www.legislation.gov.uk/uksi/2022/1094/regulation/10/2)
+
+[^key-696ff881ac4c018bcf37bb602c6d96c7]: Textual amendment: [Reg. 17(10)](https://www.legislation.gov.uk/uksi/2018/366/regulation/17/10) inserted (E.W. with application in respect of E.) (23.1.2023) by [The Railways (Penalty Fares) (Amendment) Regulations 2022 (S.I. 2022/1094)](https://www.legislation.gov.uk/uksi/2022/1094), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2022/1094/regulation/1/b), [10(3)](https://www.legislation.gov.uk/uksi/2022/1094/regulation/10/3)
+
+[^key-f09631fe01afcbea5a0aa3c192e0c51d]: Commencement: Reg. 18 in force at 6.4.2018, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2018/366/regulation/1/b)
+
+[^key-b4407e6e526f7146e3b963b1bca573f8]: Textual amendment: Words in [reg. 18(8)](https://www.legislation.gov.uk/uksi/2018/366/regulation/18/8) inserted (E.W. with application in respect of E.) (23.1.2023) by [The Railways (Penalty Fares) (Amendment) Regulations 2022 (S.I. 2022/1094)](https://www.legislation.gov.uk/uksi/2022/1094), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2022/1094/regulation/1/b), [11(1)](https://www.legislation.gov.uk/uksi/2022/1094/regulation/11/1)
+
+[^key-4618c803935fdef17012780a20155895]: Textual amendment: [Reg. 18(8A)](https://www.legislation.gov.uk/uksi/2018/366/regulation/18/8A) inserted (E.W. with application in respect of E.) (23.1.2023) by [The Railways (Penalty Fares) (Amendment) Regulations 2022 (S.I. 2022/1094)](https://www.legislation.gov.uk/uksi/2022/1094), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2022/1094/regulation/1/b), [11(2)](https://www.legislation.gov.uk/uksi/2022/1094/regulation/11/2)
+
+[^key-d5ca0881a9581f7e288ee5ddb9f3a22a]: Textual amendment: [Reg. 18(10)](https://www.legislation.gov.uk/uksi/2018/366/regulation/18/10) inserted (E.W. with application in respect of E.) (23.1.2023) by [The Railways (Penalty Fares) (Amendment) Regulations 2022 (S.I. 2022/1094)](https://www.legislation.gov.uk/uksi/2022/1094), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2022/1094/regulation/1/b), [11(3)](https://www.legislation.gov.uk/uksi/2022/1094/regulation/11/3)
+
+[^key-933f10b55879a1a16baf96eb9d8c0c31]: Commencement: Reg. 19 in force at 6.4.2018, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2018/366/regulation/1/b)
+
+[^f00018]: Footnote: [S.I. 2005/1095](https://www.legislation.gov.uk/uksi/2005/1095).
+
+[^key-8b8ab58be9d4d1c982423b6b5a943bcd]: Commencement: Reg. 20 in force at 6.4.2018, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2018/366/regulation/1/b)
+
+[^f00019]: Footnote: See [S.I.1994/576](https://www.legislation.gov.uk/uksi/1994/576), regulation 2(1) for the definition of “authorised collector”.
+
+[^key-939b3a75a8f5cde6f550e6806807018c]: Commencement: Sch. 1 para. 1 in force at 6.4.2018, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2018/366/regulation/1/b)
+
+[^key-1979155c01c824331f227ad52ef50c5c]: Textual amendment: Words in [Sch. 1 para. 1(1)(d)](https://www.legislation.gov.uk/uksi/2018/366/schedule/1/paragraph/1/1/d) inserted (E.W. with application in respect of E.) (23.1.2023) by [The Railways (Penalty Fares) (Amendment) Regulations 2022 (S.I. 2022/1094)](https://www.legislation.gov.uk/uksi/2022/1094), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2022/1094/regulation/1/b), [12(1)](https://www.legislation.gov.uk/uksi/2022/1094/regulation/12/1)
+
+[^key-5e7aafb4bc7146eaaf1a787673cb40c4]: Textual amendment: [Sch. 1 para. 1(1)(da)](https://www.legislation.gov.uk/uksi/2018/366/schedule/1/paragraph/1/1/da) inserted (E.W. with application in respect of E.) (23.1.2023) by [The Railways (Penalty Fares) (Amendment) Regulations 2022 (S.I. 2022/1094)](https://www.legislation.gov.uk/uksi/2022/1094), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2022/1094/regulation/1/b), [12(2)](https://www.legislation.gov.uk/uksi/2022/1094/regulation/12/2)
+
+[^key-0d5efa3676928500f82500702e3fb2f1]: Commencement: Sch. 1 para. 2 in force at 6.4.2018, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2018/366/regulation/1/b)
+
+[^key-2042c7a82c0e23e00fe977dded79f84e]: Textual amendment: Words in [Sch. 1 para. 2(1)(d)](https://www.legislation.gov.uk/uksi/2018/366/schedule/1/paragraph/2/1/d) inserted (E.W. with application in respect of E.) (23.1.2023) by [The Railways (Penalty Fares) (Amendment) Regulations 2022 (S.I. 2022/1094)](https://www.legislation.gov.uk/uksi/2022/1094), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2022/1094/regulation/1/b), [12(3)](https://www.legislation.gov.uk/uksi/2022/1094/regulation/12/3)
+
+[^key-5e16b7de810813047ebea06aacf4e7c5]: Textual amendment: [Sch. 1 para. 2(1)(da)](https://www.legislation.gov.uk/uksi/2018/366/schedule/1/paragraph/2/1/da) inserted (E.W. with application in respect of E.) (23.1.2023) by [The Railways (Penalty Fares) (Amendment) Regulations 2022 (S.I. 2022/1094)](https://www.legislation.gov.uk/uksi/2022/1094), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2022/1094/regulation/1/b), [12(4)](https://www.legislation.gov.uk/uksi/2022/1094/regulation/12/4)
+
+[^key-4a275744cd78242f5e6400dc4305088f]: Commencement: Sch. 1 para. 3 in force at 6.4.2018, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2018/366/regulation/1/b)
+
+[^key-41be3a970506c79f5e1e08f4f3ca94d9]: Commencement: Sch. 1 Pt. 3 in force at 6.4.2018, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2018/366/regulation/1/b)
+
+[^key-28357195d40a5f39e8cee39d58aab2de]: Commencement: Sch. 2 para. 1 in force at 6.4.2018, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2018/366/regulation/1/b)
+
+[^key-194d205828f1d0ab28d5db2f9ddac3c0]: Commencement: Sch. 2 para. 2 in force at 6.4.2018, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2018/366/regulation/1/b)
+
+[^key-dee4a12b5ae775f3dff74571e921c55e]: Commencement: Sch. 2 para. 3 in force at 6.4.2018, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2018/366/regulation/1/b)
+
+[^key-79c7e213d0d20585487d0aa07c6447c0]: Commencement: Sch. 2 para. 4 in force at 6.4.2018, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2018/366/regulation/1/b)
+
+[^key-ff99ff7b89961e293cb903c05e28fa29]: Commencement: Sch. 2 para. 5 in force at 6.4.2018, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2018/366/regulation/1/b)
+
+[^key-0cd5cda9a6bd1faa6da1e967f9604f2f]: Commencement: Sch. 2 para. 6 in force at 6.4.2018, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2018/366/regulation/1/b)
+
+[^key-c8c0f5084602290e601cc5766bf1b2b8]: Commencement: Sch. 2 para. 7 in force at 6.4.2018, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2018/366/regulation/1/b)
+
+[^key-eac6b887a5ce468bb9f705b60a15ed44]: Commencement: Sch. 2 para. 8 in force at 6.4.2018, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2018/366/regulation/1/b)
+
+[^key-b2972c16a7079df38a3451e24aa11589]: Commencement: Sch. 2 para. 9 in force at 6.4.2018, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2018/366/regulation/1/b)
+
+[^key-055ef05a31eb6e652299265d335072d6]: Commencement: Sch. 2 para. 10 in force at 6.4.2018, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2018/366/regulation/1/b)
+
+[^key-ce4727f8ced7da50a85c2513908efd41]: Commencement: Sch. 2 para. 11 in force at 6.4.2018, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2018/366/regulation/1/b)
+
+[^key-40856921d737cf8f90df16602fc28172]: Commencement: Sch. 2 para. 12 in force at 6.4.2018, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2018/366/regulation/1/b)
+
+[^key-3266b0bd57146aad1e6d18a407f2d35c]: Commencement: Sch. 2 para. 13 in force at 6.4.2018, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2018/366/regulation/1/b)
+
+[^key-0329c2daa3583f2efee425435d6fd893]: Commencement: Sch. 2 para. 14 in force at 6.4.2018, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2018/366/regulation/1/b)
+
+[^key-f981712b4547837c3c3d67c146d6c28f]: Commencement: Sch. 2 para. 15 in force at 6.4.2018, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2018/366/regulation/1/b)
+
+[^key-aac1aaec47003c799170c92c29bde30c]: Commencement: Sch. 2 para. 16 in force at 6.4.2018, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2018/366/regulation/1/b)
+
+[^key-50c3b8edf3f0dff5aa75218af6ca4ad1]: Commencement: Sch. 2 para. 17 in force at 6.4.2018, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2018/366/regulation/1/b)
+
+[^key-4badf47e80e190ad31df33919f6dc528]: Commencement: Sch. 2 para. 18 in force at 6.4.2018, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2018/366/regulation/1/b)

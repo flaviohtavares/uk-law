@@ -1,0 +1,109 @@
+---
+title: The Criminal Justice (International Co-operation) Act 1990 (Enforcement of Overseas Forfeiture Orders) (Amendment) Order 1994
+id: uksi/1994/1640
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '1994-06-22'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1994/1640
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1994/1640/made/data.pdf
+pending_changes: 2
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Criminal Justice (International Co-operation) Act 1990 (Enforcement of Overseas Forfeiture Orders) (Amendment) Order 1994
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+1994 No. 1640
+
+CRIMINAL LAW, ENGLAND AND WALES
+
+CRIMINAL LAW, NORTHERN IRELAND
+
+The Criminal Justice (International Co-operation) Act 1990 (Enforcement of Overseas Forfeiture Orders) (Amendment) Order 1994
+
+Made
+
+22nd June 1994
+
+Laid before Parliament
+
+4th July 1994
+
+Coming into force
+
+1st August 1994
+
+At the Court at Buckingham Palace, the 22nd day of June 1994
+
+Present,
+
+The Queen’s Most Excellent Majesty in Council
+
+Her Majesty, in exercise of the powers conferred upon Her by section 9 of the Criminal Justice (International Co-operation) Act 1990[^f00001], is pleased, by and with the advice of Her Privy Council, to order, and it is hereby ordered, as follows:
+
+**1.** (1) This Order may be cited as the Criminal Justice (International Co-operation) Act 1990 (Enforcement of Overseas Forfeiture Orders) (Amendment) Order 1994 and shall come into force on 1st August 1994.
+
+(2) In this Order “the principal Order” means—
+
+- (a) in relation to England and Wales, the Criminal Justice (International Co-operation) Act 1990 (Enforcement of Overseas Forfeiture Orders) Order 1991[^f00002]; and
+- (b) in relation to Northern Ireland, the Criminal Justice (International Co-operation) Act 1990 (Enforcement of Overseas Forfeiture Orders) (Northern Ireland) Order 1991[^f00003].
+
+**2.** In article 3(1) and article 12(1)(e) of the principal Order the words “or intended for use” shall be inserted after “used”.
+
+**3.** Schedule 1 to the principal Order (which defines the institution of proceedings for the purposes of article 2(5) of that Order) shall be amended, after the entry relating to Bermuda by the insertion of the following—
+
+> |  |  |
+> | --- | --- |
+> | British Virgin Islands | - (a) when a summons or warrant is issued in respect of an offence;<br>- (b) when a person is charged with an offence after being taken into custody without a warrant;<br>- (c) when an indictment is preferred |
+
+**4.** Schedule 2 to the principal Order shall be amended as follows—
+
+- (a) by the insertion, at the appropriate places in alphabetical order, of the entries for those countries and territories specified in Schedule 1 to this Order (including where so specified the appropriate authority for a country or territory); and
+- (b) by the removal of the entry relating to Czechoslovakia.
+
+**5.** There shall be inserted in Schedule 3 to the principal Order, after the entry for Switzerland, the entry for the United States of America (including the appropriate authority) specified in Schedule 2 to this Order.
+
+N. H. Nicholls
+
+Clerk of the Privy Council
+
+## SCHEDULE 1 — DESIGNATED COUNTRIES — DRUG TRAFFICKING OFFENCES
+
+Article 4
+
+| *Designated country* | *Appropriate authority* |
+| --- | --- |
+| British Virgin Islands | The Attorney General of the British Virgin Islands |
+| The Czech Republic |  |
+| Finland |  |
+| Latvia |  |
+| Sudan |  |
+
+## SCHEDULE 2 — DESIGNATED COUNTRIES — OTHER OFFENCES
+
+Article 5
+
+| *Designated country* | *Appropriate authority* |
+| --- | --- |
+| United States of America | The Attorney General of the United States of America |
+
+(This note is not part of the Order)
+
+This Order amends the Criminal Justice (International Co-operation) Act 1990 (Enforcement of Overseas Forfeiture Orders) Order 1991 (S.I. [1991/1463](https://www.legislation.gov.uk/uksi/1991/1463)) and the Criminal Justice (International Co-operation) Act 1990 (Enforcement of Overseas Forfeiture Orders) (Northern Ireland) Order 1991 (S.I. [1991/1464](https://www.legislation.gov.uk/uksi/1991/1464)). These provide for the enforcement in England and Wales and Northern Ireland of orders made by a court in a designated country or territory for the forfeiture and destruction or other disposal of property used in connection with the commission of a drug trafficking offence. The powers in each of the 1991 Orders also apply to proceedings which have been, or are to be, instituted in a designated country or territory and may result in such an order being made there. The Orders were extended by the Criminal Justice (International Co-operation) Act 1990 (Enforcement of Overseas Forfeiture Orders) (Amendment) Order 1993 (S.I. [1993/1791](https://www.legislation.gov.uk/uksi/1993/1791)) to include offences corresponding to indictable offences to which Part VI of the Criminal Justice Act [1988 (c. 33)](https://www.legislation.gov.uk/ukpga/1988/33) applies and corresponding offences under the law of Northern Ireland.
+
+This Order makes amendments in respect of the countries and territories to which the 1991 Orders apply. It also amends articles 3(1) and 12(1) of the 1991 Orders to enable an external order for the forfeiture of anything which was intended for use in the commission of a relevant offence to be enforced in England and Wales and Northern Ireland.
+
+## Annotations
+
+[^f00001]: Footnote: [1990 c. 5](https://www.legislation.gov.uk/ukpga/1990/5); section 9 was amended by section 21 of the Criminal Justice Act [1993 (c. 36)](https://www.legislation.gov.uk/ukpga/1993/36).
+
+[^f00002]: Footnote: S.I. [1991/1463](https://www.legislation.gov.uk/uksi/1991/1463), amended by S.I. [1992/1721](https://www.legislation.gov.uk/uksi/1992/1721), [1993/1791](https://www.legislation.gov.uk/uksi/1993/1791) and [1993/3148](https://www.legislation.gov.uk/uksi/1993/3148).
+
+[^f00003]: Footnote: S.I. [1991/1464](https://www.legislation.gov.uk/uksi/1991/1464), amended by S.I. [1992/1721](https://www.legislation.gov.uk/uksi/1992/1721), [1993/1791](https://www.legislation.gov.uk/uksi/1993/1791) and [1993/3148](https://www.legislation.gov.uk/uksi/1993/3148).

@@ -1,0 +1,237 @@
+---
+title: The Civil Partnership Act 2004 (Overseas Relationships) Order 2012
+id: uksi/2012/2976
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2012-11-21'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2012/2976
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2012/2976/pdfs/uksiem_20122976_en.pdf
+- http://www.legislation.gov.uk/uksi/2012/2976/pdfs/uksi_20122976_en.pdf
+- http://www.legislation.gov.uk/uksi/2012/2976/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Civil Partnership Act 2004 (Overseas Relationships) Order 2012
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2012 No. 2976
+
+Civil Partnership
+
+The Civil Partnership Act 2004 (Overseas Relationships) Order 2012
+
+Made
+
+21st November 2012
+
+Laid before Parliament
+
+3rd December 2012
+
+Coming into force
+
+31st January 2013
+
+The Secretary of State makes the following Order in exercise of the power conferred by section 213 of the Civil Partnership Act 2004[^f00001] and with the consent of the Scottish Ministers and the Department of Finance and Personnel:
+
+## 1. Citation and commencement
+
+This Order may be cited as the Civil Partnership Act 2004 (Overseas Relationships) Order 2012 and comes into force on 31st January 2013.
+
+## 2. Amendment of Schedule 20 to the Civil Partnership Act 2004
+
+Schedule 20 to the Civil Partnership Act 2004 (meaning of overseas relationship: specified relationships) is amended in accordance with the Schedule to this Order.
+
+Jo Swinson
+
+Minister for Women and Equalities
+
+Department for Culture, Media and Sport
+
+4th November 2012
+
+The Scottish Ministers consent to the making of this Order.
+
+Alex Neil
+
+A member of the Scottish Government
+
+21st November 2012
+
+The Department of Finance and Personnel consents to the making of this Order.
+
+Sealed with the Official Seal of the Department of Finance and Personnel
+
+Oswyn Paulin
+
+A Senior Officer of the Department of Finance and Personnel
+
+7th November 2012
+
+## SCHEDULE
+
+Article 2
+
+**1.** In Schedule 20 to the Civil Partnership Act 2004 (meaning of overseas relationship: specified relationships), the table is amended as follows.
+
+**2.** After the entry relating to Andorra, insert—
+
+> |  |  |
+> | --- | --- |
+> | Argentina | marriage |
+> | Argentina: Autonomous City of Buenos Aires | unión civil |
+> | Australia: Australian Capital Territory | civil partnership |
+> | Australia: New South Wales | a relationship registered under the Relationships Register Act 2010 |
+> | Australia: Queensland | civil partnership |
+
+**3.** After the entry relating to Australia: Tasmania, insert—
+
+> |  |  |
+> | --- | --- |
+> | Australia: Victoria | registered domestic relationship |
+> | Austria | eingetragene Partnerschaft |
+
+**4.** After the second entry relating to Belgium, insert—
+
+> |  |  |
+> | --- | --- |
+> | Brazil | marriage |
+> | Brazil | união estável |
+
+**5.** After the entry relating to Canada, insert—
+
+> |  |  |
+> | --- | --- |
+> | Canada: Manitoba | the relationship referred to as common-law relationship or as union de fait |
+
+**6.** After the entry relating to Canada: Quebec, insert—
+
+> |  |  |
+> | --- | --- |
+> | Colombia | unión de hecho |
+> | Czech Republic | registrované partnertsví |
+> | Denmark | marriage |
+
+**7.** After the entry relating to Denmark, insert—
+
+> |  |  |
+> | --- | --- |
+> | Ecuador | unión civil |
+
+**8.** After the entry relating to Germany, insert—
+
+> |  |  |
+> | --- | --- |
+> | Greenland | the relationship referred to as nalunaarsukkamik inooqatigiinneq or as registreret partnerskab |
+> | Hungary | bejegyzett élettársi kapcsolat |
+> | Iceland | marriage |
+
+**9.** After the entry relating to Iceland, insert—
+
+> |  |  |
+> | --- | --- |
+> | Ireland | civil partnership |
+> | Isle of Man | civil partnership |
+> | Jersey | civil partnership |
+> | Liechtenstein | eingetragene Partnerschaft |
+
+**10.** After the entry relating to Luxembourg, insert—
+
+> |  |  |
+> | --- | --- |
+> | Mexico: Coahuila | pacto civil de solidaridad |
+> | Mexico: Mexico City Federal District | marriage |
+> | Mexico: Mexico City Federal District | sociedad de convivencia |
+
+**11.** After the entry relating to New Zealand, insert—
+
+> |  |  |
+> | --- | --- |
+> | Norway | marriage |
+
+**12.** After the entry relating to Norway, insert—
+
+> |  |  |
+> | --- | --- |
+> | Portugal | marriage |
+> | Slovenia | zakon o registraciji istospolne partnerske skupnosti |
+> | South Africa | civil partnership |
+> | South Africa | marriage |
+
+**13.** After the entry relating to Spain, insert—
+
+> |  |  |
+> | --- | --- |
+> | Sweden | marriage |
+
+**14.** After the entry relating to Sweden, insert—
+
+> |  |  |
+> | --- | --- |
+> | Switzerland | the relationship referred to as eingetragene Partnerschaft, as partnenariat enregistré or as unione domestica registrata |
+
+**15.** After the entry relating to the United States of America: California, insert—
+
+> |  |  |
+> | --- | --- |
+> | United States of America: California | marriage |
+> | United States of America: Colorado | the relationship between designated beneficiaries |
+
+**16.** After the entry relating to the United States of America: Connecticut, insert—
+
+> |  |  |
+> | --- | --- |
+> | United States of America: Connecticut | marriage |
+> | United States of America: Delaware | civil union |
+> | United States of America: District of Columbia | marriage |
+> | United States of America: Hawaii | civil union |
+> | United States of America: Hawaii | reciprocal beneficiary relationship |
+> | United States of America: Illinois | civil union |
+> | United States of America: Iowa | marriage |
+
+**17.** After the entry relating to the United States of America: Massachusetts, insert—
+
+> |  |  |
+> | --- | --- |
+> | United States of America: Nevada | domestic partnership |
+> | United States of America: New Hampshire | marriage |
+> | United States of America: New Jersey | civil union |
+
+**18.** After the entry relating to the United States of America: New Jersey, insert—
+
+> |  |  |
+> | --- | --- |
+> | United States of America: New York | marriage |
+> | United States of America: Oregon | domestic partnership |
+> | United States of America: Rhode Island | civil union |
+
+**19.** After the entry relating to the United States of America: Vermont, insert—
+
+> |  |  |
+> | --- | --- |
+> | United States of America: Vermont | marriage |
+> | United States of America: Washington | state registered domestic partnership |
+> | United States of America: Wisconsin | domestic partnership |
+> | Uruguay | unión concubinaria |
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order amends Schedule 20 to the Civil Partnership Act [2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33) (“the Act”). Schedule 20 specifies overseas relationships that may be treated as civil partnerships for the purposes of the Act, provided certain other conditions in the Act are satisfied.
+
+Article 2 adds 50 relationships to the specified relationships in the table in Schedule 20.
+
+A full impact assessment has not been produced for this instrument as no, or no significant, impact on the private, voluntary or public sectors is foreseen.
+
+## Annotations
+
+[^f00001]: Footnote: [2004 c. 33](https://www.legislation.gov.uk/ukpga/2004/33); section 213(2) was amended by [S.I. 2010/1839](https://www.legislation.gov.uk/uksi/2010/1839); Schedule 20 was amended by [S.I. 2005/3129](https://www.legislation.gov.uk/uksi/2005/3129) and [2005/3135](https://www.legislation.gov.uk/uksi/2005/3135).

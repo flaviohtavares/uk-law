@@ -1,0 +1,49 @@
+---
+title: Tribunals, Courts and Enforcement Act 2007, section 130
+act: Tribunals, Courts and Enforcement Act 2007
+section: '130'
+status: not-yet-in-force
+text_date: '2026-10-01'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/2007/15/section/130
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Tribunals, Courts and Enforcement Act 2007, section 130
+
+> This provision is not yet in force.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 130. Regulations
+
+*Extent: E+W*
+
+**Not yet in force.**
+
+(1) It is for the Lord Chancellor to make regulations.
+
+(2) The power to make regulations is exercisable by statutory instrument.
+
+(3) A statutory instrument containing regulations is subject to annulment in pursuance of a resolution of either House of Parliament.
+
+(4) But subsection (3) does not apply in the case of a statutory instrument that contains either or both of the following—
+
+- (a) the first regulations under a particular section of this Chapter;
+- (b) any regulations under section 118(6);
+- (c) any regulations under section 120 that amend section 98 of the Courts Act 2003 (c. 39);
+- (d) any regulations that amend section 122 or 123.
+
+(5) In such a case the statutory instrument may not be made unless a draft of the instrument has been laid before, and approved by a resolution of, each House of Parliament.
+
+(6) Regulations may make different provision in relation to different cases.
+
+(7) Regulations may make any or all of the following provision if the Lord Chancellor thinks it is necessary or expedient—
+
+- (a) supplementary, incidental or consequential provision;
+- (b) transitory, transitional or saving provision.
+
+(8) Provision under subsection (7) may, in particular, amend section 122 or 123 (including by making provision for further grounds of appeal).
+
+(9) In this section (except in subsection (4)(a) to (c)) “**regulations**” means regulations under any provision of this Chapter.

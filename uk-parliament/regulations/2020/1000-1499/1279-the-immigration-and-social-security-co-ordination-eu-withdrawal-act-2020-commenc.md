@@ -1,0 +1,91 @@
+---
+title: The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Commencement) Regulations 2020
+id: uksi/2020/1279
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2020-11-13'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2020/1279
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2020/1279/pdfs/uksi_20201279_en.pdf
+- http://www.legislation.gov.uk/uksi/2020/1279/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Commencement) Regulations 2020
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2020 No. 1279 (C. 36)
+
+Exiting The European Union
+
+Immigration
+
+Social Security
+
+The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Commencement) Regulations 2020
+
+Made
+
+13th November 2020
+
+The Secretary of State makes these Regulations in exercise of the powers conferred by section 9(1) and (3) to (5) of the Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020[^f00001].
+
+## 1. Citation and interpretation
+
+(1) These Regulations may be cited as the Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Commencement) Regulations 2020.
+
+(2) In these Regulations, “the Act” means the Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020.
+
+## 2. Commencement
+
+The following provisions of the Act come into force on the day after the day on which these Regulations are made—
+
+- (a) section 5;
+- (b) section 6;
+- (c) Schedule 2;
+- (d) Schedule 3.
+
+**3.** Section 2 (Irish citizens: entitlement to enter or remain without leave) of the Act comes into force immediately before IP completion day[^f00002].
+
+**4.** The following provisions of the Act come into force on IP completion day for all purposes—
+
+- (a) section 1 (repeal of the main retained EU law relating to free movement etc.);
+- (b) section 4 (meaning of “the Immigration Acts” etc.);
+- (c) Schedule 1 (repeal of the main retained EU law relating to free movement etc.).
+
+**5.** Section 3 (protection claimants: legal routes from the EU and family reunion) of the Act, so far as not already brought into force by section 9(2) of the Act, comes into force on 12th January 2021.
+
+Kevin Foster
+
+Parliamentary Under Secretary of State
+
+Home Office
+
+13th November 2020
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+Regulation 2 of these Regulations brings section 5 and 6 and Schedules 2 and 3 of the Immigration and Social Security Co-ordination (EU Withdrawal) Act [2020 (c. 20)](https://www.legislation.gov.uk/ukpga/2020/20) (“the Act”) into force on the day after the day on which these Regulations are made. Section 5 is a power to make provision by regulations in consequence of, or in connection with, Part 1 of the Act. Section 6 of the Act provides a power to make regulations modifying retained direct EU legislation relating to social security co-ordination and Schedules 2 and 3 make associated provision.
+
+Regulation 3 commences section 2 immediately before IP completion day (23.00 GMT on 31st December 2020). Section 2 inserts a new section 3ZA into the Immigration Act [1971 (c. 77)](https://www.legislation.gov.uk/ukpga/1971/77) clarifying that Irish citizens do not require leave to enter or remain in the United Kingdom, except in certain circumstances.
+
+Regulation 4 commences the remaining provisions of the Act, except section 3, on IP completion day. Section 1 introduces Schedule 1, which repeals the principal provisions of retained EU law relating to the free movement of persons. Section 3 amends section 61 of the UK Borders Act [2007 (c. 30)](https://www.legislation.gov.uk/ukpga/2007/30) by adding the Act to the list of legislation falling within the definition of “the Immigration Acts”.
+
+Regulation 5 commences section 3 of the Act on 12th January 2021, so far as that section is not brought into force by section 9(2) of the Act. Section 3 requires a review of the ways in which protection claimants (and, in particular, unaccompanied children) who are in a member State of the European Union can come to the United Kingdom lawfully, a consultation on unaccompanied children in a member State of the European Union, as well as the publication of a report on that review.
+
+A full impact assessment has not been produced for this instrument as no, or no significant, impact on the private, voluntary or public sector is foreseen.
+
+## Annotations
+
+[^f00001]: Footnote: [2020 c. 20](https://www.legislation.gov.uk/ukpga/2020/20).
+
+[^f00002]: Footnote: “IP completion day” is defined in section 39 of the European Union (Withdrawal Agreement) Act 2020.

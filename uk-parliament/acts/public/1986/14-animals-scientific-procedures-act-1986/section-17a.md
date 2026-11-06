@@ -1,0 +1,47 @@
+---
+title: Animals (Scientific Procedures) Act 1986, section 17A
+act: Animals (Scientific Procedures) Act 1986
+section: 17A
+status: revised-with-pending-changes
+text_date: '2026-06-19'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/1986/14/section/17A
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Animals (Scientific Procedures) Act 1986, section 17A
+
+> **Warning: changes not yet applied to this text (3).** Text as at 2026-06-19. See https://www.legislation.gov.uk/changes/affected/ukpga/1986/14
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 17A. Setting free and re-homing protected animals[^M_F_dcf1feac-465f-4031-d121-3cb27f5595da]
+
+*Extent: E+W+S+N.I.*
+
+(1) A person who holds a licence under this Act must not set free a relevant protected animal, or permit any person acting on their behalf to do so, unless—
+
+- (a) the Secretary of State has consented to the setting free of the animal; or
+- (b) the animal is set free during the course of a series of regulated procedures.
+
+(2) A person who holds a licence under this Act must not re-home a relevant protected animal, or permit any person acting on their behalf to do so, unless the Secretary of State has consented to the re-homing of the animal.
+
+(3) The Secretary of State must not consent to the setting free or re-homing of a relevant protected animal unless satisfied—
+
+- (a) that the animal’s state of health allows it to be set free or re-homed;
+- (b) that the setting free or re-homing of the animal poses no danger to public health, animal health or the environment;
+- (c) that there is an adequate scheme in place for ensuring the socialisation of the animal upon being set free or re-homed; and
+- (d) that other appropriate measures have been taken to safeguard the animal’s well-being upon being set free or re-homed.
+
+(4) The Secretary of State must not consent to the setting free of a relevant protected animal which has been taken from the wild unless the Secretary of State is also satisfied that the animal has undergone a programme of rehabilitation or that it would be inappropriate for the animal to be required to undergo such a programme.
+
+(5) For the purposes of this section—
+
+- (a) “relevant protected animal” has the same meaning as in section 15A(11);
+- (b) a reference to a person who holds a licence under this Act includes a reference to a person who held a licence under this Act which is no longer in force;
+- (c) an animal is not to be treated as being “re-homed” if it is moved to live in a place which is for the time being specified in a section 2C licence.
+
+## Annotations
+
+[^M_F_dcf1feac-465f-4031-d121-3cb27f5595da]: Textual amendment: S. 17A inserted (19.12.2012 for specified purposes, 1.1.2013 in so far as not already in force) by [The Animals (Scientific Procedures) Act 1986 Amendment Regulations 2012 (S.I. 2012/3039)](https://www.legislation.gov.uk/uksi/2012/3039), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/3039/regulation/1/2)[(3)(b)](https://www.legislation.gov.uk/uksi/2012/3039/regulation/1/3/b), [18](https://www.legislation.gov.uk/uksi/2012/3039/regulation/18) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2012/3039/schedule/3))

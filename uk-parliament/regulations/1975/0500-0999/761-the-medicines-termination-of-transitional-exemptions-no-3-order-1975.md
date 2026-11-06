@@ -1,0 +1,90 @@
+---
+title: The Medicines (Termination of Transitional Exemptions) (No. 3) Order 1975
+id: uksi/1975/761
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '1975-05-07'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1975/761
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1975/761/pdfs/uksi_19750761_en.pdf
+- http://www.legislation.gov.uk/uksi/1975/761/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Westlaw UK derived from Crown Copyright material and contributed to legislation.gov.uk
+summary: ''
+---
+
+# The Medicines (Termination of Transitional Exemptions) (No. 3) Order 1975
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+1975 No. 761
+
+MEDICINES
+
+The Medicines (Termination of Transitional Exemptions) (No. 3) Order 1975
+
+Made
+
+7th May 1975
+
+The Secretaries of State respectively concerned with health in England and in Wales, the Secretary of State concerned with health and with agriculture in Scotland, the Minister of Agriculture, Fisheries and Food, the Department of Health and Social Services for Northern Ireland and the Department of Agriculture for Northern Ireland, acting jointly, in exercise of powers conferred by section 17 of the Medicines Act 1968 and now vested in them[^f00001] and of all other powers enabling them in that behalf, after consulting such organisations as appear to them to be representative of interests likely to be substantially affected by the following Order, hereby make the following Order:—
+
+## 1. Citation and interpretation
+
+(1) This Order may be cited as the Medicines (Termination of Transitional Exemptions) (No. 3) Order 1975.
+
+(2) In this Order, unless the context otherwise requires, “**the Act**” means the Medicines Act 1968 and other expressions have the same meanings as in the Act.
+
+(3) The rules for the construction of Acts of Parliament contained in the Interpretation Act 1889 shall apply for the purposes of the interpretation of this Order as they apply for the purposes of the interpretation of an Act of Parliament.
+
+## 2. Termination of transitional exemptions from licences for wholesale dealing in certain medicinal products for human use
+
+The 1st June 1975 shall be the day appointed for the purposes of subsections (2) to (5) of section 16 of the Act (transitional exemptions) as being the day upon which those subsections shall cease to have effect in relation to anything done on or after that day in so far as it consists of the sale or offer for sale by way of wholesale dealing of a medicinal product, other than a veterinary drug, which may be lawfully sold by retail otherwise than in accordance with a prescription given by a doctor or dentist, or from premises other than a registered pharmacy.
+
+Barbara Castle
+
+Secretary of State for Social Services
+
+23rd April 1975
+
+John Morris
+
+Secretary of State for Wales
+
+23rd April 1975
+
+William Ross
+
+Secretary of State for Scotland
+
+24th April 1975
+
+In witness whereof the official seal of the Minister of Agriculture, Fisheries and Food is hereunto affixed on 30th April 1975.
+
+Frederick Peart
+
+Minister of Agriculture, Fisheries and Food
+
+Sealed with the official seal of the Department of Health and Social Services for Northern Ireland this 7th day of May 1975.
+
+N. Dugdale
+
+Permanent Secretary
+
+Sealed with the official seal of the Department of Agriculture for Northern Ireland this 6th day of May 1975.
+
+J.A. Young
+
+Permanent Secretary
+
+EXPLANATORY NOTE
+
+The Medicines (Termination of Transitional Exemptions) (No. 1) Order 1972 (S.I. 1972/1198) appointed 1st September 1972 as the day upon which the transitional exemptions from the licensing requirements of the Medicines Act 1968 (section 16) ceased to have effect in relation to anything done on or after that day, except in relation to ingredients that are medicinal products (section 130(1)(b) and (3) of that Act) and wholesale dealing in certain medicinal products for human use only. The Medicines (Termination of Transitional Exemptions) (No. 2) Order 1974 (S.I. 1974/1149) appointed 1st September 1974 as the day for the ending of the transitional exemptions in relation to such ingredients and this Order appoints 1st June 1975 as the day for finally ending the remaining transitional exemptions in relation to such wholesale dealing.
+
+## Annotations
+
+[^f00001]: Footnote: In the case of the Secretaries of State concerned with health in England and in Wales by virtue of Article 2(2) of, and Schedule 1 to, the Transfer of Functions (Wales) Order 1969 (S.I. 1969/388; 1969 I, p. 1070), and in the case of the Northern Ireland Departments by virtue of section 40 of, and Schedule 5 to, the Northern Ireland Constitution Act 1973 (c. 36), and paragraph 2(1)(b) of Schedule 1 to the Northern Ireland Act 1974 (c. 28).

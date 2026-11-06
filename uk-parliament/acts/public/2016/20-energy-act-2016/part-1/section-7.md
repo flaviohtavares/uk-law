@@ -1,0 +1,39 @@
+---
+title: Energy Act 2016, section 7
+act: Energy Act 2016
+section: '7'
+status: revised
+text_date: '2025-04-15'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2016/20/section/7
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Energy Act 2016, section 7
+
+> Text as at 2025-04-15.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 7. Contracting out of functions to the OGA[^key-687f4508a842bff4ea991f440f6665b6]
+
+*Extent: E+W+S+N.I.*
+
+(1) Subsection (2) applies if, under section 69 of the Deregulation and Contracting Out Act 1994, the OGA is, or employees of the OGA are, authorised to exercise a function to which that section applies.
+
+(2) Subsection (5)(a) of that section applies in relation to the authorisation as if the words “, not exceeding 10 years,” were omitted.
+
+(3) The Welsh Ministers may enter into an agreement with the OGA authorising the OGA to exercise any functions of the Welsh Ministers.
+
+(4) The reference in subsection (3) to functions does not include functions of making, confirming or approving subordinate legislation contained in a statutory instrument.
+
+(5) An agreement under subsection (3) does not affect the responsibility of the Welsh Ministers.
+
+(6) An agreement under subsection (3) does not prevent the Welsh Ministers from exercising a function to which the agreement relates.
+
+(7) The Welsh Ministers must arrange for a copy of any agreement under subsection (3) to be published in such manner as the Welsh Ministers consider appropriate for bringing it to the attention of the persons who, in the Welsh Ministers' opinion, are likely to be affected by it.
+
+## Annotations
+
+[^key-687f4508a842bff4ea991f440f6665b6]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2016/20/section/7) in force at 1.10.2016 by [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/a)

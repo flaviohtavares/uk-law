@@ -1,0 +1,27 @@
+---
+title: The Willington C Gas Pipeline Order 2014, section 4
+act: The Willington C Gas Pipeline Order 2014
+section: '4'
+status: revised
+text_date: '2017-12-28'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/uksi/2014/3328/section/4
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Willington C Gas Pipeline Order 2014, section 4
+
+> Text as at 2017-12-28.
+>
+> Extent: England, Wales, Scotland.
+
+## 4. Development consent granted by Order[^key-b0bb419fae85ae61515b54ddd21ee2a3]
+
+*Extent: E+W+S*
+
+Subject to the provisions of this Order and to the Requirements, the undertaker is granted development consent for the authorised development to be carried out within the Order limits.
+
+## Annotations
+
+[^key-b0bb419fae85ae61515b54ddd21ee2a3]: Commencement: Art. 4 in force at 7.1.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3328/article/1)

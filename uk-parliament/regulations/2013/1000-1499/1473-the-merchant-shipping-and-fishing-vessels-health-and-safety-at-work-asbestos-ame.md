@@ -1,0 +1,120 @@
+---
+title: The Merchant Shipping and Fishing Vessels (Health and Safety at Work) (Asbestos) (Amendment) Regulations 2013
+id: uksi/2013/1473
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2013-06-13'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2013/1473
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2013/1473/pdfs/uksiem_20131473_en.pdf
+- http://www.legislation.gov.uk/uksi/2013/1473/pdfs/uksi_20131473_en.pdf
+- http://www.legislation.gov.uk/uksi/2013/1473/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Merchant Shipping and Fishing Vessels (Health and Safety at Work) (Asbestos) (Amendment) Regulations 2013
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2013 No. 1473
+
+Merchant Shipping
+
+The Merchant Shipping and Fishing Vessels (Health and Safety at Work) (Asbestos) (Amendment) Regulations 2013
+
+Made
+
+13th June 2013
+
+Laid before Parliament
+
+18th June 2013
+
+Coming into force
+
+12th July 2013
+
+The Secretary of State, makes the following regulations in exercise of the powers conferred by section 2(2) of the European Communities Act 1972[^f00001] and by sections 85(1), (3), (5) and (7) and 86(1) of the Merchant Shipping Act 1995[^f00002].
+
+The Secretary of State is a Minister designated[^f00003] for the purpose of section 2(2) of the European Communities Act 1972 in relation to measures relating to the safety of ships and the health and safety of persons on them.
+
+In accordance with section 86(4) of the Merchant Shipping Act 1995 the Secretary of State has consulted the persons referred to in that section.
+
+## 1. Citation and commencement
+
+These Regulations may be cited as the Merchant Shipping and Fishing Vessels (Health and Safety at Work) (Asbestos) (Amendment) Regulations 2013 and come into force on 12th July 2013.
+
+## 2. Amendment of the Merchant Shipping and Fishing Vessels (Health and Safety at Work) (Asbestos) Regulations 2010
+
+(1) The Merchant Shipping and Fishing Vessels (Health and Safety at Work) (Asbestos) Regulations 2010[^f00004] are amended as follows.
+
+(2) In regulation 2 (interpretation), in the definition of asbestos, for “chrysotile, CAS No 12001-29-5” substitute “chrysotile, CAS No 12001-29-5 or CAS No 132207-32-0”.
+
+(3) In regulation 4 (application)—
+
+- (a) in paragraph (8)(c)(i) after “activities” insert “in which only non-friable materials are handled”, and
+- (b) in paragraph (8) (c) (ii) after “removal” delete “of” and insert “without deterioration of non-degraded”.
+
+(4) After regulation 29 insert—
+
+> **30. Review**
+>
+> (1) The Secretary of State must from time to time—
+>
+> - (a) carry out a review of these Regulations,
+> - (b) set out the conclusions of the review in a report; and
+> - (c) publish the report.
+>
+> (2) In carrying out the review the Secretary of State must have regard to how Council [Directive 2009/148/EC](https://www.legislation.gov.uk/european/directive/2009/0148) [^f00005], on the protection of workers from the risks of exposure to asbestos at work is implemented in other Member States.
+>
+> (3) The report must in particular—
+>
+> - (a) set out the objectives intended to be achieved by the regulatory system established by those regulations;
+> - (b) assess the extent to which those objectives are achieved ; and
+> - (c) assess whether those objectives remain appropriate and, if so, the extent to which they could be achieved with a system that imposes less regulation.
+>
+> (4) The first report under this regulation must be published before the end of the period of five years expiring on 12th July 2018**.**
+>
+> (5) Reports under this regulation are afterwards to be published at intervals not exceeding five years.
+
+.
+
+Signed by authority of the Secretary of State
+
+Stephen Hammond
+
+Parliamentary Under Secretary of State
+
+Department for Transport
+
+13th June 2013
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations amend the Merchant Shipping and Fishing Vessels (Health and Safety at Work) (Asbestos) Regulations 2010 (“the 2010 Regulations”) which implement Council [Directive 83/477/EEC](https://www.legislation.gov.uk/european/directive/1983/0477)(OJ No L263, 24.9.83, p25) as amended by Council [Directive 91/382/EC](https://www.legislation.gov.uk/european/directive/1991/0382) (OJ No L206, 29.7.91 p16) and [Directive 2003/18/EC](https://www.legislation.gov.uk/european/directive/2003/0018) (OJ No L97, 15.4.03, p48) of the European Parliament and of the Council on the protection of workers from the risk of exposure to asbestos at work. These directives have been repealed and replaced by a consolidated instrument, Council [Directive 2009/148/EC](https://www.legislation.gov.uk/european/directive/2009/0148) (OJ No. L330, 16.12.2009, p28), which is given effect in relation to activities other than shipping through the Control of Asbestos Regulations 2012 ([S.I.2012/632](https://www.legislation.gov.uk/uksi/2012/632)) (“the CAR Regulations”).
+
+Regulation 2 amends regulation 2 and regulation 4(8) of the 2010 Regulations. The changes bring these provisions into line with regulations 2 and 3 of the CAR Regulations.
+
+They also introduce a new provision into the 2010 Regulations which requires the Secretary of State to review the operation and effect of the 2010 Regulations and publish a report by 12th July 2018, which is five years after the date on which these Regulations come into force and within every five years after that. Following a review it will fall to the Secretary of State to consider whether the 2010 Regulations should remain as they are, or be revoked or be amended. A further instrument would be needed to revoke the 2010 Regulations or to amend them.
+
+A full impact assessment of the effect that these Regulations will have on the costs of business and the voluntary sector is available from the Maritime and Coastguard Agency, Spring Place, 105 Commercial Road, Southampton, SO15 1EG and is published with the Explanatory Memorandum alongside these Regulations at www.legislation.gov.uk.
+
+## Annotations
+
+[^f00001]: Footnote: [1972 c.68](https://www.legislation.gov.uk/ukpga/1972/68). Section 2(2) was amended by section 27 of the Legislative and Regulatory Reform Act [2006 (c.51)](https://www.legislation.gov.uk/ukpga/2006/51) and by section 3 of, and Part 1 of the Schedule to, the European Union (Amendment) Act [2008 (c.7)](https://www.legislation.gov.uk/ukpga/2008/7). By virtue of the amendment of section 1(2) of the European Communities Act 1972 by section 1 of the European Economic Area Act [1993 (c.51)](https://www.legislation.gov.uk/ukpga/1993/51) regulations may be made under section 2(2) of the European Communities Act 1972 to implement obligations of the United Kingdom created or arising by or under the Agreement on the European Economic Area signed at Oporto on 2nd May 1972 (Cm 2073) and the Protocol adjusting the Agreement signed at Brussels on 17th March 1993 (Cm 2183).
+
+[^f00002]: Footnote: [1995 c.21](https://www.legislation.gov.uk/ukpga/1995/21). Subsections (1) and (3) of section 85 were amended by the Merchant Shipping and Maritime Security Act [1997(c.28)](https://www.legislation.gov.uk/ukpga/1997/28), section 8 and Schedule 7 Part I, and sections 85 and 86 of the Merchant Shipping Act 1995 apply in relation to hovercraft as they apply in relation to ships, by virtue of article 4 of the Hovercraft (Application of Enactments) Order 1989([S.I. 1989/1350](https://www.legislation.gov.uk/uksi/1989/1350)) and section 17(2) (a) of the Interpretation Act [1978 (c.30)](https://www.legislation.gov.uk/ukpga/1978/30).
+
+[^f00003]: Footnote: [S.I. 1993/595](https://www.legislation.gov.uk/uksi/1993/595).
+
+[^f00004]: Footnote: [S.I. 2010/2984](https://www.legislation.gov.uk/uksi/2010/2984), amended by [S.I.2012/632](https://www.legislation.gov.uk/uksi/2012/632).
+
+[^f00005]: Footnote: O.J. L 330, 16.12.2009, p.28. This directive repealed and consolidated Council [Directive 83/477/EEC](https://www.legislation.gov.uk/european/directive/1983/0477) (OJ L.263, 24.9.83, p25), Council [Directive 91/382/EC](https://www.legislation.gov.uk/european/directive/1991/0382) (OJ L206, 29.7.91, p16) and [Directive 2003/18/EC](https://www.legislation.gov.uk/european/directive/2003/0018) (OJ L97, 15.4.03, p.48).

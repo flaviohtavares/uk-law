@@ -1,0 +1,1077 @@
+---
+title: The Social Security Contributions (Intermediaries) Regulations 2000
+id: uksi/2000/727
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2000-03-13'
+text_date: '2026-04-06'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/uksi/2000/727
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2000/727/pdfs/uksi_20000727_en.pdf
+- http://www.legislation.gov.uk/uksi/2000/727/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Social Security Contributions (Intermediaries) Regulations 2000
+
+> Text as at 2026-04-06.
+>
+> Extent: England, Wales, Scotland.
+
+*Extent: E+W+S*
+
+2000 No. 727
+
+SOCIAL SECURITY
+
+The Social Security Contributions (Intermediaries) Regulations 2000
+
+Made
+
+13th March 2000
+
+Laid before Parliament
+
+13th March 2000
+
+Coming into force
+
+6th April 2000
+
+The Treasury, with the concurrence of the Secretary of State for Social Security, in exercise of the powers conferred on them by sections 4A, 122(1) and 175(1A), (2) to (4) of the Social Security Contributions and Benefits Act 1992[^c1619254] and of all other powers enabling them in that behalf, and the Commissioners of Inland Revenue, in exercise of the powers conferred on them by section 8(1)(m) of the Social Security Contributions (Transfer of Functions, etc.) Act 1999[^c1619255] and of all other powers enabling them in that behalf, hereby make the following Regulations:[^key-7a2f88199e53d5196d353072d6cfb575]
+
+## 1. Citation, commencement and effect
+
+(1) These Regulations may be cited as the Social Security Contributions (Intermediaries) Regulations 2000 and shall come into force on 6th April 2000.
+
+(2) These Regulations have effect for the tax year 2000–01 and subsequent years and apply in relation to services performed, or to be performed, on or after 6th April 2000.
+
+(3) Payments or other benefits in respect of such services received before that date shall be treated as if received in the tax year 2000–01.
+
+## Part 1 — Intermediaries – general provisions and workers' services provided to small clients[^key-9ceec2f3945a705f21af46c0ffad57da]
+
+### 2. Interpretation
+
+(1) In these Regulations unless the context otherwise requires–
+
+- [^key-e4d6ac04d37f904d4e7e08fe57d53379]...
+- “associate" has the meaning given by regulation 3;
+- “attributable earnings" in relation to a worker shall be construed in accordance with regulation 6(3)(a);
+- “the Board” means the Commissioners for Her Majesty’s Revenue and Customs;[^key-e745d29c3515849051b37a2f0c8e9256]
+- [^key-4693b684bfae905fcdcf14e66ddc66ba]...
+- “Class 1A contributions" has the meaning given by section 10 of the Contributions and Benefits Act [^c1619256];
+- [^key-e4d6ac04d37f904d4e7e08fe57d53379]...
+- “company" means any body corporate or unincorporated association, but does not include a partnership;
+- “the Contributions and Benefits Act" means the Social Security Contributions and Benefits Act 1992;
+- “the Contributions Regulations” means the Social Security (Contributions) Regulations 2001;[^key-7dcac1059f99737d32af37b1cc0f8309]
+- “CTA 2010” means the Corporation Taxes Act 2010;[^key-64680cb73eb33955d674af37060b101e]
+- [^key-e4d6ac04d37f904d4e7e08fe57d53379]...
+- “public authority” has the meaning given by regulation 3A;[^key-32ebc569711a9c91c5fcfea49eec5abf]
+- “relevant benefit" means any benefit falling within regulation 4 that is provided to the intermediary or to or on behalf of the worker under the arrangements;
+- “relevant payment" means any payment made to an intermediary or to or on behalf of the worker under the arrangements;
+- “secondary Class 1 contributions" has the meaning given by section 6 of the Contributions and Benefits Act [^c1619258];
+- “secondary contributor" has the meaning given by section 7 of the Contributions and Benefits Act [^c1619259];
+- “statutory auditor” has the meaning given by Part 42 of the Companies Act 2006.[^key-9888e786710828497815351a0d81b346]
+- “the Taxes Act" means the Income and Corporation Taxes Act 1988 [^c1619260];
+- “tax year" means year of assessment;
+- [^key-e4d6ac04d37f904d4e7e08fe57d53379]...
+
+(2) References in these Regulations to payments or benefits received or receivable from a partnership or unincorporated association include payments or benefits to which a person is or may be entitled in his capacity as a member of the partnership or association.
+
+(3) For the purposes of these Regulations–
+
+- (a) anything done by or in relation to an associate of an intermediary is treated as done by or in relation to the intermediary, and
+- (b) a payment or other benefit provided to a member of an individual’s family or household is treated as provided to the individual.
+
+(4) The reference in paragraph (3)(b) to an individual’s family or household shall be construed in accordance with sections 721(4) and (5) of ITEPA 2003[^key-fb52a3e72e83b13bc0c9a21a11fe3cd9].
+
+(5)[^key-81f3f26e6dbfabf15b5da70916e877b3] For the purposes of these Regulations, two people living together as if they were a married couple or civil partners are treated as if they were married to, or civil partners of, each other.
+
+(7)[^key-cecb86609e7e4ab527df1b39d4135e72] For the purposes of these Regulations “connected” shall be construed in accordance with section 993 of the Income Tax Act 2007.
+
+(8) For the purposes of these Regulations “controlled” shall be construed in accordance with section 995 of the Income Tax Act 2007.
+
+### 2A. Definitions for the purposes of Part 1[^key-0fce652332258f7bc5e3091dc3326401]
+
+In this Part—
+
+- “arrangements” means the arrangements referred to in regulation 6(1)(b);
+- “client” shall be construed in accordance with regulation 6(1)(b);
+- “intermediary” has the meaning given by regulation 5; and
+- “worker” means the individual referred to in regulation 6(1)(a).
+
+### 3. Meaning of associate
+
+(1) In these Regulations “associate"–
+
+- (a) in relation to an individual, has the meaning given by section 417(3) and (4) of the Taxes Act [^c1619261], subject to the following provisions of this regulation;
+- (b) in relation to a company, means a person connected with the company within the meaning of section 839 of the Taxes Act [^c1619262]; and
+- (c) in relation to a partnership, means any associate of a member of the partnership.
+
+(2) Where an individual has an interest in shares or obligations of the company as a beneficiary of an employee benefit trust, the trustees are not regarded as associates of his by reason only of that interest except in the following circumstances.
+
+(3) The exception is where–
+
+- (a) the individual, either on his own or with one or more of his associates, or
+- (b) any associate of his, with or without other such associates,
+
+has been the beneficial owner of, or able (directly or through the medium of other companies or by any other indirect means) to control, more than 5 per cent. of the ordinary share capital of the company.
+
+(4) In paragraph (2) “employee benefit trust" has the same meaning as in sections 550 and 551 of ITEPA 2003.[^key-f9dd39010a3f38179d9a4f97ed546b4b]
+
+### 3A. Meaning of public authority[^key-ff40cc70f3259cb2fb3512c653a0d05b]
+
+(1) In these Regulations “public authority” means—
+
+- (a) a public authority as defined by the Freedom of Information Act 2000,
+- (aa)[^key-259d9a1c00b8c2a94eec69110717dd9f] a body specified in section 23(3) of the Freedom of Information Act 2000,
+- (b) a Scottish public authority as defined by the Freedom of Information (Scotland) Act 2002,
+- (ba)[^key-213d5e7b37ea9bfc0929200a4089b75a] the Advanced Research and Invention Agency,
+- (c) the Corporate Officer of the House of Commons,
+- (d) the Corporate Officer of the House of Lords,
+- (e) the National Assembly for Wales Commission, [^key-ac1387d1226d48dabff41a90754f48ce]...
+- (f) the Northern Ireland Assembly Commission, or[^key-3415a4df7c835ee4f88640c5f6646ba5]
+- (g) a company connected with any person mentioned in sub-paragraphs (a) to (f).
+
+(2) An authority within paragraph (1)(a) or (b) is a public authority for the purposes of these Regulations in relation to all its activities even if provisions of the Act mentioned in that paragraph do not apply to all information held by the authority.
+
+(3) Paragraph (1) is subject to paragraph (4).
+
+(4) A primary-healthcare provider is a public authority for the purposes of these Regulations only if the primary-healthcare provider—
+
+- (a) has a registered patient list for the purposes of relevant medical-services regulations,
+- (b) is within paragraph 43A in Part 3 of Schedule 1 to the Freedom of Information Act 2000 (providers of primary healthcare services in England and Wales) by reason of being a person providing primary dental services,
+- (c) is within paragraph 51 in that Part of that Schedule (providers of healthcare services in Northern Ireland) by reason of being a person providing general dental services, or
+- (d) is within paragraph 33 in Part 4 of Schedule 1 to the Freedom of Information (Scotland) Act 2002 (providers of healthcare services in Scotland) by reason of being a person providing general dental services.
+
+(5) In paragraph (4)—
+
+- “primary-healthcare provider” means an authority that is within paragraph (1)(a) or (b) only because it is within a relevant paragraph,
+- “relevant paragraph” means—
+  - (a) any of paragraphs 43A to 45A and 51 in Part 3 of Schedule 1 to the Freedom of Information Act 2000, or
+  - (b) any of paragraphs 33 to 35 in Part 4 of Schedule 1 to the Freedom of Information (Scotland) Act 2002, and
+- “relevant medical-services regulations” means any of the following—
+  - (a) the Primary Medical Services (Sale of Goodwill and Restrictions on Sub-contracting) Regulations 2004,
+  - (b) the Primary Medical Services (Sale of Goodwill and Restrictions on Sub-contracting) (Wales) Regulations 2004,
+  - (c) the Primary Medical Services (Sale of Goodwill and Restrictions on Sub-contracting) (Scotland) Regulations 2004, and
+  - (d) the Primary Medical Services (Sale of Goodwill and Restrictions on Sub-contracting) Regulations (Northern Ireland) 2004.
+
+### 4. Meaning of benefit
+
+(1)[^key-762993ffcc95430e26c64dd6d3def207] For the purposes of these Regulations a “benefit” means anything that, if received by an employee for performing the duties of an employment, would be general earnings of the employment.
+
+(2) The amount of a benefit is taken to be–
+
+- (a) in the case of a cash benefit, the amount received, and
+- (b) in the case of a non-cash benefit, the cash equivalent of the benefit.
+
+(3) The cash equivalent of a non-cash benefit is taken to be whichever is the greater of–
+
+- (a)[^key-073187fa35d179fbd3e642fcdda34122] the amount that would, for income tax purposes, be general earnings if the benefit were general earnings from an employment, and
+- (b) the cash equivalent determined in accordance with section 398(2)(b) of 2003.
+
+(4) For the purposes of these Regulations a benefit is treated as received–
+
+- (a) in the case of a cash benefit, when payment is made of or on account of the benefit; and
+- (b) in the case of an non-cash benefit, when it is used or enjoyed.
+
+### 5. Meaning of intermediary
+
+(1) In this Part[^key-c2ab5f689e293ed46de797654b806e5b] “intermediary" means any person, including a partnership or unincorporated association of which the worker is a member–
+
+- (a) whose relationship with the worker in any tax year satisfies the conditions specified in paragraph (2), (6), (7) or (8), and
+- (b) from whom the worker, or an associate of the worker–
+  - (i) receives, directly or indirectly, in that year a payment or benefit that is not chargeable to tax as employment income under[^key-43373ceee49335aa7f2dca453734cfc0] ITEPA 2003, or
+  - (ii) is entitled to receive, or in any circumstances would be entitled to receive, directly or indirectly, in that year any such payment or benefit.
+
+(2) Where the intermediary is a company the conditions are that–
+
+- (a) the intermediary is not an associated company of the client, within the meaning of section 416 of the Taxes Act [^c1619266], by reason of the intermediary and the client both being under the control of the worker, or under the control of the worker and another person; and
+- (b) either–
+  - (i) the worker has a material interest in the intermediary, or
+  - (ii) the payment or benefit is received or receivable by the worker directly from the intermediary, and can reasonably be taken to represent remuneration for services provided by the worker to the client.
+
+(3) A worker is treated as having a material interest in a company for the purposes of paragraph (2)(a) if–
+
+- (a) the worker, alone or with one or more associates of his, or
+- (b) an associate of the worker, with or without other such associates,
+
+has a material interest in the company.
+
+(4) For this purpose a material interest means–
+
+- (a) beneficial ownership of, or the ability to control, directly or through the medium of other companies or by any other indirect means, more than 5 per cent. of the ordinary share capital of the company; or
+- (b) possession of, or entitlement to acquire, rights entitling the holder to receive more than 5 per cent. of any distributions that may be made by the company; or
+- (c) where the company is a close company, possession of, or entitlement to acquire, rights that would in the event of the winding up of the company, or in any other circumstances, entitle the holder to receive more than 5 per cent. of the assets that would then be available for distribution among the participators.
+
+In sub-paragraph (c) “close company" has the meaning given by sections 414 and 415 of the Taxes Act [^c1619267], and “participator" has the meaning given by section 417(1) of that Act.
+
+(5) Where the intermediary is a partnership the conditions are as follows.
+
+(6) In relation to payments or benefits received or receivable by the worker as a member of the partnership, the conditions are–
+
+- (a) that the worker, alone or with one or more relatives, is entitled to 60 per cent. or more of the profits of the partnership; or
+- (b) that most of the profits of the partnership derive from the provision of services under the arrangements–
+  - (i) to a single client, or
+  - (ii) to a single client together with an associate or associates of that client; or
+- (c) that under the profit sharing arrangements the income of any of the partners is based on the amount of income generated by that partner by the provision of services under the arrangements.
+
+In sub-paragraph (a) “relative" means spouse or civil partner[^key-fd99b749fc87134cebbe7e05d5e9db3a], parent or child or remoter relation in the direct line, or brother or sister.[^key-9b769b2a70e7127c344ed11b941642ae]
+
+(7) In relation to payments or benefits received or receivable by the worker otherwise than as a member of the partnership, the conditions are that the payment or benefit–
+
+- (a) is received or receivable by the worker directly from the intermediary, and
+- (b) can reasonably be taken to represent remuneration for services provided by the worker to the client.
+
+(8) Where the intermediary is an individual the conditions are that the payment or benefit–
+
+- (a) is received or receivable by the worker directly from the intermediary, and
+- (b) can reasonably be taken to represent remuneration for services provided by the worker to the client.
+
+### 5A. When a client qualifies as small and has a UK connection for a tax year[^key-abff126fbfdb43aaec7d91fa8e0b20c9]
+
+(1) For the purposes of this Part a person qualifies as small for a tax year if the person qualifies as small for that tax year under sections 60A to 60G of ITEPA 2003.
+
+(2) For the purposes of this Part a person has a UK connection for a tax year if the person fulfils the conditions as to residence and presence for liability to pay secondary Class 1 contributions prescribed under section 1(6)(a) of the Contributions and Benefits Act.
+
+### 5B. Duty on client to state whether it qualifies as small for a tax year
+
+(1) This regulation applies if, in the case of an engagement that meets conditions (a) to (b) in regulation 6(1), the client receives from the client's agent or the worker a request to state whether in the client's opinion the client qualifies as small for a tax year specified in the request.
+
+(2) The client must provide to the person who made the request a statement as to whether in the client's opinion the client qualifies as small for the tax year specified in the request.
+
+(3) If the client fails to provide the statement by the time mentioned in paragraph (4) the duty to do so is enforceable by an injunction or, in Scotland, by an order for specific performance under section 45 of the Court of Session Act 1988 .
+
+(4) The time is whichever is the later of—
+
+- (a) the end of the period of 45 days beginning with the date the client receives the request, and
+- (b) the beginning of the period of 45 days ending with the start of the tax year specified in the request.
+
+(5) In this regulation “**the client's agent**” means a person with whom the client entered into a contract as part of the arrangements mentioned in sub-paragraph (b) of regulation 6(1).
+
+### 6. Provision of services through intermediary
+
+(1) This Part applies[^key-99cc01bd8e0975cc5b4799a387a47120] where–
+
+- (a) an individual (“the worker") personally performs, or is under an obligation personally to perform, services for another person[^key-c5f2d5e074457ea3f5701a7e5b411e2f] (“the client"), who is not a public authority[^key-069e5ba8c0008c88ec605f3692ce18fe]
+- (aa)[^key-8a5d02adce3b333b94abf81fd16c9d49] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (ab)[^key-8ebf201ae7d975b8c9bf21f70720e9f7] the client either qualifies as small for a tax year or does not have a UK connection for a tax year,
+- (b) the performance of those services by the worker is carried out, not under a contract directly between the client and the worker, but under arrangements involving an intermediary, and
+- (c) the circumstances are such that, had the arrangements taken the form of a contract between the worker and the client, the worker would be regarded for the purposes of Parts I to V of the Contributions and Benefits Act as employed in employed earner’s employment by the client.
+
+(2) Paragraph (1)(b) has effect irrespective of whether or not–
+
+- (a) there exists a contract between the client and the worker, or
+- (b) the worker is the holder of an office with the client.
+
+(2A)[^key-a96e7acbeab5111423e33b7afcac39b1] Holding office as a statutory auditor of the client does not count as the worker being the holder of an office with the client for the purposes of paragraph 6(2)(b).
+
+(2B)[^key-dd9acfb902300a4fe9cc55b1043fe24e] The condition in paragraph (1)(ab) is to be ignored if—
+
+- (a) the client concerned is an individual, and
+- (b) the services concerned are performed otherwise than for the purposes of the client's business.
+
+(2C) For the purposes of paragraph (1)(ab) the client is to be treated as not qualifying as small for the tax year concerned if the client is treated as medium or large for that tax year by reason of regulation 20A(3)(a).
+
+(3) Where this Part applies[^key-d1e336a60c55c23a5c13fdb5f087ee25]–
+
+- (a) the worker is treated, for the purposes of Parts I to V of the Contributions and Benefits Act, and in relation to the amount deriving from relevant payments and relevant benefits that is calculated in accordance with regulation 7 (“ the worker’s attributable earnings"), as employed in employed earner’s employment by the intermediary, and
+- (b) the intermediary, whether or not he fulfils the conditions prescribed under section 1(6)(a) of the Contributions and Benefits Act [^c1619268] for secondary contributors, is treated for those purposes as the secondary contributor in respect of the worker’s attributable earnings,
+
+and Parts I to V of that Act have effect accordingly.
+
+(4) Any issue whether the circumstances are such as are mentioned in paragraph (1)(c) is an issue relating to contributions that is prescribed for the purposes of section 8(1)(m) of the Social Security Contributions (Transfer of Functions, etc.) Act 1999 (decision by officer of the Board).
+
+### 7. Worker’s attributable earnings—calculation
+
+(1)[^key-f2b45aca7d4122ffbd867d66e4896f0b] For the purposes of regulation 6(3)(a) the amount of the worker’s attributable earnings for a tax year is calculated as follows:
+
+*Step One*
+
+Find the total amount of all payments and benefits received by the intermediary in that year under the arrangements but excluding amounts on which Class 1 or Class 1A contributions are payable by virtue of regulation 3 or 4 of the Social Security Contributions (Limited Liability Partnership) Regulations 2014[^key-4f9b2a092d240af271b8ec66db8ec6bb], and reduce that amount by 5 per cent.
+
+*Step Two*
+
+Add the amount of any payments and benefits received by the worker in that year under the arrangements, otherwise than from the intermediary, that–
+
+- (a) are not chargeable to income tax as employment income under[^key-5f9300bdb41959b2e569ec2b6441181d] ITEPA 2003, and
+- (b) would be so chargeable if the worker were employed by the client.
+
+*Step Three*
+
+Deduct the amount of any expenses met in that year by the intermediary that under ITEPA 2003[^key-429a8d557d62d9295b14c3cb9dc1aef5] would have been deductible from the taxable earnings of the employment, within the meaning of section 10 of[^key-dc5a21abad23d6a2b72c9d092227cac5] ITEPA 2003, in accordance with section 327(3) to (5) of that Act if the worker had been employed by the client and the expenses had been met by the worker out of those earnings[^key-96e3732b2f65047c5abe2bd66dcc5794].
+
+*Step Four*
+
+Deduct the amount of any capital allowances in respect of expenditure incurred by the intermediary in that year that could have been claimed by the worker under Part 2 of the Capital Allowances Act 2001 (plant and machinery allowances) by virtue of section 15(1)(i) of that Act (which provides that employment is a qualifying activity for the purposes of that Part)[^key-00242dce1c962550e7565096d9921f6d]) if the worker had been employed by the client and had incurred the expenditure.
+
+*Step Five*
+
+Deduct any contributions made in that year for the benefit of the worker by the intermediary to a registered pension scheme for the purposes of Part 4 of the Finance Act 2004[^key-704fc29dd22d039153ff55e271965919][^M_M_9c99bce2-80fb-4df4-acc5-e2b2237a0884]that if made by an employer for the benefit of an employee would not be chargeable to income tax as income of the employee, and any payments made in that year in respect of the worker by the intermediary in respect of any of the Pensions Act levies[^key-65ed18f5fec03834336e8b331a9ac4af].
+
+This does not apply to excess contributions made and later repaid.
+
+*Step Six*
+
+Deduct the amount of secondary Class 1 contributions and Class 1A contributions paid by the intermediary for that year in respect of earnings of the worker.
+
+*Step Seven*
+
+Deduct–
+
+- (a) the amount of any payments made by the intermediary to the worker in that year that constitute remuneration derived from the worker’s employment by that intermediary including, where the intermediary is a body corporate and the worker is a director of that body corporate, payments treated as remuneration derived from that employment by virtue of regulation22(2)[^key-811dcf2d71d6cdea603b989f2380cf06] of the Contributions Regulations [^c1619270] (payments to directors to be treated as earnings), but excluding payments which represent items in respect of which a deduction was made under Step Three and payments within paragraph 25 of Part 10 of Schedule 3 to the Contributions Regulations[^key-23c420fb50cdf49b7b9d206bc6582be4], and
+- (b) the amount of any benefits provided by the intermediary to the worker in that year, being benefits that constitute amounts of general earnings[^key-5bf9e47be69a526453d40595b89f9985] in respect of which Class 1A contributions are payable, but excluding any benefits which represent items in respect of which a deduction was made under Step Three.
+
+If the result at this point is nil or a negative amount, there are no worker’s attributable earnings for that year.
+
+*Step Eight*
+
+Find the amount that, together with the amount of secondary Class 1 contributions payable in respect of it, is equal to the amount resulting from Step Seven (if that amount is a positive amount).
+
+*Step Nine*
+
+The result is the amount of the worker’s attributable earnings for that year.
+
+(2) Where section 559 of the Taxes Act applies (sub-contractors in the construction industry: payments to be made under deduction) the intermediary is treated for the purposes of Step One of the calculation in paragraph (1) as receiving the amount that would have been received had no deduction been made under that section.
+
+(3) For the purpose of calculating the amount of deductible expenses referred to in Step Three of the calculation in paragraph (1) it shall be assumed that all engagements of the worker under the arrangements involving the intermediary are undertaken in the course of the same employment.
+
+(4) For the purposes of this regulation any necessary apportionment shall be made on a just and reasonable basis of amounts received by the intermediary that are referable–
+
+- (a) to the services of more than one worker, or
+- (b) partly to the services of the worker and partly to other matters.
+
+(5) For the purposes of this regulation the time when payments are received by the intermediary or the worker under the arrangements shall be found in accordance with the rules contained in sections 18 and 19 of[^key-20648e40336c11955a2cfda30393ecb7] ITEPA 2003, subject to the qualification that the worker shall not be treated, by virtue of Rule 2 in section 18, as receiving a payment prior to the time of its actual receipt.
+
+(6)[^key-d0972d9c19d5901628f8b5c16cb2504b] The reference in Step Three of the calculation in paragraph (1) to expenses met by the intermediary includes expenses met by the worker and reimbursed by the intermediary.
+
+(7) Where the intermediary is a partnership and the worker is a member of the partnership, expenses met by the worker for and on behalf of the intermediary shall be treated for the purposes of paragraph (6) as expenses met by the worker and reimbursed by the intermediary.
+
+(8) Where—
+
+- (a) the intermediary provides a vehicle for the worker, and
+- (b) the worker would have been entitled to an amount of mileage allowance relief under section 231 of[^key-50656c5c8704d51aa86e6337691bcbbf] ITEPA 2003 for a tax year in respect of the use of the vehicle if the worker had been employed by the client, or would have been so entitled if the worker had been employed by the client and the vehicle had not been a company vehicle,
+
+Step Three of the calculation in paragraph (1) shall have effect as if that amount were an amount of expenses deductible under that Step.
+
+(9) Where—
+
+- (a) the intermediary is a partnership,
+- (b) the worker is a member of the partnership, and
+- (c) the worker provides a vehicle for the purposes of the business of the partnership,
+
+then for the purposes of paragraph (8) the vehicle shall be regarded as provided by the intermediary for the worker.
+
+(10) Where the intermediary makes payments to the worker that are exempt from income tax as employment income under[^key-05183d427279fbc8048bf87ea20d6899] ITEPA 2003 by virtue of section 229 or 233 of[^key-c4c53f62c788ec8c815a6b6a6099a30a] ITEPA 2003 (mileage allowance payments and passenger payments), paragraph (a) of Step Seven of the calculation in paragraph (1) shall have effect as if the intermediary had made payments to the worker that constituted remuneration derived from the worker’s employment by the intermediary.
+
+(11)[^key-a5e0fc0b88fd3048e2147e59dd6d160a] In this regulation “the Pensions Act levies” means—
+
+- (a) the administration levy referred to in section 117(1) of the Pensions Act 2004;
+- (b) the initial levy referred to in section 174(1) of that Act;
+- (c) the risk-based pension protection levy referred to in section 175(1)(a) of that Act;
+- (d) the scheme-based pension protection levy referred to in section 175(1)(b) of that Act;
+- (e) the fraud compensation levy referred to in section 189(1) of that Act;
+- (f) a levy in respect of eligible schemes imposed by regulations made under section 209(7) of that Act (the Ombudsman for the Board of the Pension Protection Fund).
+
+### 8. Worker’s attributable earnings—deemed payment
+
+(1) The amount referred to in Step Nine of the calculation in regulation 7(1) is treated, for the purposes of Parts I to V of the Contributions and Benefits Act, as a single payment of the worker’s attributable earnings made by the intermediary on the 5th April in the tax year concerned or, as the case may be, on the date found in accordance with paragraphs (4) to (7), and those Parts of that Act shall have effect accordingly.
+
+(2) The worker’s attributable earnings shall be aggregated with any other earnings paid to the worker by the intermediary in the year concerned to or for the benefit of the worker in respect of employed earner’s employment, and the amount of earnings-related contributions payable in respect of that aggregate amount shall be assessed in accordance with the appropriate earnings period specified in regulation 8[^key-d6866b5bcd2e4b5926bfc2efc26b9fd4] of the Contributions Regulations (earnings period for directors), whether or not the worker is a director of a company during that year.
+
+(3) Where the intermediary is a partnership or unincorporated association, the amount referred to in Step Nine of the calculation in regulation 7(1) is treated, for the purposes of Parts I to V of the Contributions and Benefits Act, as received by the worker in his personal capacity and not as income of the partnership or association.
+
+(4) If in a tax year–
+
+- (a) an amount of the worker’s attributable earnings is treated as made under paragraph (1), and
+- (b) before the date on which the payment would be treated as made under that paragraph any relevant event (as defined below) occurs in relation to the intermediary,
+
+that amount is treated, for the purposes of Parts I to V of the Contributions and Benefits Act, as having been made immediately before that event or, if there is more than one, immediately before the first of them.
+
+(5) Where the intermediary is a company the following are relevant events–
+
+- (a) where the worker is a member of the company, his ceasing to be such a member;
+- (b) where the worker holds an office with the company, his ceasing to hold such an office;
+- (c) where the worker is employed by the company, his ceasing to be so employed.
+- (d)[^key-747739c61391b7b5b92345a4d728064e] the company ceasing to trade.
+
+(6) Where the intermediary is a partnership the following are relevant events–
+
+- (a) the dissolution of the partnership or the partnership ceasing to trade or a partner ceasing to act as such;
+- (b) where the worker is employed by the partnership, his ceasing to be so employed.
+
+(7) Where the intermediary is an individual and the worker is employed by him, it is a relevant event if the worker ceases to be so employed.
+
+(8) The fact that an amount of the worker’s attributable earnings is treated as made under paragraph (1) before the end of the tax year concerned does not affect what payments and benefits are taken into account in calculating that amount.
+
+### 9. Multiple intermediaries—general
+
+(1) Regulations 10 and 11 apply where in any tax year the arrangements involve more than one intermediary.
+
+(2) Except as provided by regulations 10 and 11, the provisions of this Part[^key-39843bd9acd0149cd4a13db7edd8b966] apply[^key-86e7f552b34c55ede0dc997193a4231b] separately in relation to each intermediary.
+
+### 10. Multiple intermediaries—avoidance of double-counting
+
+(1) This regulation applies where a payment or benefit has been made or provided, directly or indirectly, from one intermediary to another intermediary under the arrangements.
+
+(2) In that case, the amount taken into account in relation to any intermediary in Step One or Step Two of the calculation in regulation 7(1) shall be reduced to such extent as is necessary to avoid double-counting having regard to the amount so taken into account in relation to any other intermediary.
+
+### 11. Multiple intermediaries—joint and several liability
+
+(1) Where the arrangements involve more than one intermediary, all the intermediaries are jointly and severally liable, subject to paragraph (3), to pay contributions in respect of the amount of the worker’s attributable earnings treated in accordance with regulation 8(1) as paid by any of them–
+
+- (a) under those arrangements, or
+- (b) under those arrangements together with other arrangements.
+
+(2) For the purposes of paragraph (1), each amount of the worker’s attributable earnings shall be aggregated, and the aggregate amount shall be treated for the purposes of regulation 8(1) as a single payment of the worker’s attributable earnings, but so that the total liability of the intermediaries to pay contributions in respect of that aggregate amount is not less than it would have been if the arrangements had involved a single intermediary and that aggregate amount had been an amount treated as paid in accordance with regulation 8(1) by a single intermediary.
+
+(3) An intermediary is not jointly and severally liable as mentioned in paragraph (1) if the intermediary has not received any payment or benefit under the arrangements concerned or under any such other arrangements as are mentioned in sub-paragraph (b) of that paragraph.
+
+### 12. Application of the Social Security (Categorisation of Earners) Regulations 1978 and the Social Security Contributions (Managed Services Companies) Regulations 2007[^key-9abc9fb6fa90399452f980ea9d3fd00f]
+
+(1)[^key-491bb8c31524d2eb0cb096c0d02ea33d] Nothing in these Regulations affects the operation of regulation 2 of the Social Security (Categorisation of Earners) Regulations 1978 [^c1619273] (treatment of earners in one category of earners as falling within another category and disregard of employments) as that regulation applies to employment listed in paragraph 2 in column (A) of Part I of Schedule 1 to those Regulations (earner supplied through a third person treated as employed earner).
+
+(2)[^key-e2cc75ffbeebae6f56a5a12a8343a036] This Part does not apply to services provided by a managed service company (within the meaning of the Social Security Contributions (Managed Service Companies) Regulations 2007).
+
+### 12A. When a client qualifies as medium or large and has a UK connection for a tax year[^key-3ba742b70a451c265dad1f6789afeea1]
+
+(1) For the purposes of this Part a person qualifies as medium or large for a tax year if the person does not qualify as small for the tax year for the purposes of Part 1 of these Regulations.
+
+(2) For the purposes of this Part a person has a UK connection for a tax year if the person fulfils the conditions as to residence and presence for liability to pay secondary Class 1 contributions prescribed under section 1(6)(a) of the Contributions and Benefits Act.
+
+## Part 2 — Intermediaries – workers' services provided to public authorities or medium or large clients[^key-c3494c2d9d9f04a38f8af1c33d7319d8][^key-7b3667b618b9cf0190941a4fb4279b34]
+
+### 13. Engagements to which this Part applies
+
+(1) Regulations 14 to 18 apply where—
+
+- (a) an individual (“the worker”) personally performs, or is under an obligation personally to perform, services for another person (“the client”),
+- (b)[^key-83e1c8f2d989c5b80813e732c41fb4e5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c) the services are provided not under a contract directly between the client and the worker but under arrangements involving a third party (“the intermediary”), [^key-514d7d0931c3fb10454df78bfb1cf11c]...
+- (ca)[^key-fbd6587f5fcc961d85dd5cf1034bb52f] the client—
+  - (i) is a public authority, or
+  - (ii) is a person who qualifies as medium or large and has a UK connection for one or more tax years during which the arrangements mentioned in sub-paragraph (c) have effect, and
+- (d) the circumstances are such that—
+  - (i) if the services were provided under a contract directly between the client and the worker, the worker would be regarded for the purposes of Parts I to V of the Contributions and Benefits Act as employed in employed earner’s employment by the client, or
+  - (ii) the worker is an office-holder who holds that office under the client and the services relate to that office.
+
+(1A)[^key-3a99944d3f0b83cdb32b6aa13a304c76] But regulations 14 to 18 do not apply if—
+
+- (a) the client is an individual, and
+- (b) the services are provided otherwise than for the purposes of the client's trade or business.
+
+(2) The references in sub-paragraph (1)(c) to “third party” includes a partnership or unincorporated association of which the worker is a member.
+
+(3) The circumstances referred to in sub-paragraph (1)(d) includes the terms on which the services are provided, having regard to the terms of the contracts forming part of the arrangements under which the services are provided.
+
+(4) Holding office as a statutory auditor of the client does not count as holding office under the client for the purposes of sub-paragraph (1)(d).
+
+### 14. Worker treated as receiving earnings from employment
+
+(1) If one of conditions A to C in paragraphs (9) to (11) is met, identify the chain of two or more persons where—
+
+- (a) the highest person in the chain is the client,
+- (b) the lowest person in the chain is the intermediary, and
+- (c) each person in the chain above the lowest makes a chain payment to the person immediately below them in the chain.
+
+(See regulation 21 for cases where one of conditions A to C is treated as being met).
+
+(2) In this Part—
+
+- (a) “chain payment” means a payment, or money’s worth that can reasonably be taken to be for the worker’s services to the client,
+- (b) “make” in relation to a chain payment that is money’s worth, means transfer, and
+- (c) “the fee-payer” means the person in the chain immediately above the lowest.
+
+(3) The fee-payer is treated as making to the worker, and the worker is treated as receiving, a payment (“the deemed direct earnings”) which is to be treated for the purposes of Parts 1 to 5 of the Contributions and Benefits Act as earnings from an employed earner’s employment, but this is subject to paragraphs (5) to (7) and (8A)[^key-cab89af90eec7faa875c7989ae850d22] and regulations 20, 20A[^key-45a8e4c3a06382476c852838e5c4cf1c], 22 and 24[^key-c40699fd088b278f8a2d717b712c89c8].
+
+(4) The deemed direct earnings are treated as paid at the same time as the chain payment made by the fee-payer.
+
+(5)[^key-b49a1206275d4559b8eaf760dfb16086] Unless and until the client gives a status determination statement to the worker in accordance with regulation 14A, paragraphs (3) and (4) have effect as if for any reference to the fee-payer there were substituted a reference to the client; but this is subject to regulations 22 and 24[^key-20fff84298563ee79fd5f7eba23e4ab5].
+
+(5A) Paragraphs (6) and (7) apply, subject to regulations 20, 20A, 22 and 24[^key-33d70aee44181fa6efe7df32e464844b], if—
+
+- (a) the client has given a status determination statement to the worker,
+- (b) the client is not the fee-payer, and
+- (c) the fee-payer is not a qualifying person.
+
+(6) If there is no person in the chain below the highest and above the lowest who is a qualifying person, paragraphs (3) and (4) have effect as if for any reference to the fee-payer there were substituted a reference to the client.
+
+(7) Otherwise, paragraphs (3) and (4) have effect as if for any reference to the fee-payer there were substituted a reference to the person in the chain who—
+
+- (a) is above the lowest,
+- (b) is a qualifying person, and
+- (c) is lower in the chain than any other person in the chain who—
+  - (i) is above the lowest, and
+  - (ii) is a qualifying person.
+
+(8) In paragraphs (5) to (7) a “qualifying person” is a person who—
+
+- (za)[^key-29ae7c210f86f444e94e287a6f9a335e] has been given by the person immediately above them in the chain the status determination statement given by the client to the worker,
+- (a) is resident in the United Kingdom or has a place of business in the United Kingdom,
+- (b) is not a person who is controlled by—
+  - (i) the worker, alone or with one or more associates of the worker, or
+  - (ii) an associate of the worker, with or without other associates of the worker, and
+- (c) if a company, is not one in which—
+  - (i) the worker, alone or with one or more associates of the worker, or
+  - (ii) an associate of the worker, with or without other associates of the worker,
+
+has a material interest (within the meaning given by section 51(4) and (5) of ITEPA 2003 (meaning of material interest)).
+
+(8A)[^key-a96abdcf1d604cad8aced33a0199d940] If the client is not a public authority, a person is to be treated by paragraph (3) as making a payment of deemed direct earnings to the worker only if the chain payment made by the person is made in a tax year for which the client qualifies as medium or large and has a UK connection.
+
+(9) Condition A is that—
+
+- (a) the intermediary is a company, and
+- (b) the conditions in regulation 15 are met in relation to the intermediary.
+
+(10) Condition B is that—
+
+- (a) the intermediary is a partnership,
+- (b) the worker is a member of the partnership,
+- (c) the provision of the services is by the worker as a member of the partnership, and
+- (d) the condition in regulation 16 is met in relation to the intermediary.
+
+(11) Condition C is that the intermediary is an individual.
+
+(12) Where a payment or money’s worth can reasonably be taken to be for both—
+
+- (a) the worker’s services to the client, and
+- (b) anything else,
+
+then, for the purposes of this Part, so much of it as can, on a just and reasonable apportionment, be taken to be for the worker’s services is to be treated as (and the rest is to be treated as not being) a payment or money’s worth, that can reasonably be taken to be for the worker’s services.
+
+### 14A. Meaning of status determination statement[^key-ebbb3474838a47155390ca363b1a3feb]
+
+(1) For the purposes of regulation 14 “**status determination statement**” means a statement by the client that—
+
+- (a) states that the client has concluded that the condition in regulation 13(1)(d) is met in the case of the engagement and explains the reasons for that conclusion, or
+- (b) states (albeit incorrectly) that the client has concluded that the condition in regulation 13(1)(d) is not met in the case of the engagement and explains the reasons for that conclusion.
+
+(2) But a statement is not a status determination statement if the client fails to take reasonable care in coming to the conclusion mentioned in it.
+
+### 15. Conditions where intermediary is a company
+
+(1) The conditions mentioned in regulation 14(9)(b) are that—
+
+- (a) the intermediary is not an associated company of the client that falls within sub-paragraph (2), and
+- (b)[^key-3d2c6dd3c155eff950c831546b134688] paragraph (1A) or (1B) is satisfied.
+
+(1A)[^key-622ed405c7f339f96b463fb075ef313b] This paragraph is satisfied where the worker has a material interest in the intermediary.
+
+(1B) This paragraph is satisfied where—
+
+- (a) the worker has a non-material interest in the intermediary,
+- (b) the worker—
+  - (i) has received,
+  - (ii) has rights which entitle, or which in any circumstances would entitle, the worker to receive, or
+  - (iii) expects to receive,
+
+  a chain payment from the intermediary, and
+- (c) the chain payment does not, or will not, wholly constitute earnings from an employed earner’s employment of the worker (apart from as a result of this Part).
+
+(2) An associated company of the client falls within this paragraph if it is such a company by reason of the intermediary and the client being under the control—
+
+- (a) of the worker, or
+- (b) of the worker and other persons.
+
+(3) The worker is treated as having a material interest in the intermediary if—
+
+- (a) the worker, alone or with one or more associates of the worker, or
+- (b) an associate of the worker, with or without other associates of the worker,
+
+has a material interest in the intermediary.
+
+(4) For this purpose “material interest” has the meaning given by section 51(4) and (5) of ITEPA 2003.
+
+(4A)[^key-fec470dae4dfb42e2bac7d28646a331a] The worker is treated as having a non-material interest in the intermediary if—
+
+- (a) the worker, alone or with one or more associates of the worker, or
+- (b) an associate of the worker, with or without other associates of the worker,
+
+has a non-material interest in the intermediary.
+
+(4B) For this purpose a non-material interest means—
+
+- (a) beneficial ownership of, or the ability to control, directly or through the medium of other companies or by any other indirect means, 5% or less of the ordinary share capital of the company,
+- (b) possession of, or entitlement to acquire, rights entitling the holder to receive 5% or less of any distributions that may be made by the company, or
+- (c) where the company is a close company, possession of, or entitlement to acquire, rights that would in the event of the winding up of the company, or in any other circumstances, entitle the holder to receive 5% or less of the assets that would then be available for distribution among the participators.
+
+(4C) In paragraph (4B)(c)—
+
+- “close company” has the meaning given by section 989 of the Income Tax Act 2007;
+- “participator” has the meaning given by section 454 of CTA 2010.
+
+(5) In this regulation “associated company” has the meaning given by section 449 of CTA 2010.
+
+### 16. Conditions where intermediary is a partnership
+
+(1) The condition mentioned in regulation 14(10)(d) is—
+
+- (a) that the worker, alone or with one or more relatives, is entitled to 60 per cent or more of the profits of the partnership, or
+- (b) that most of the profits of the partnership derive from the provision of services under engagements to which one or other of this Part and Part 1 applies—
+  - (i) to a single client, or
+  - (ii) to a single client together with associates of that client, or
+- (c) that under the profit sharing arrangements the income of any of the partners is based on the amount of income generated by that partner by the provision of services under engagements to which one or other of this Part and Part 1 applies.
+
+(2) In sub-paragraph (1)(a) “relative” means spouse or civil partner, parent or child or remoter relation in the direct line, or brother or sister.
+
+(3)[^key-c40efc3431783564b097675444b38787] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 17. Calculation of deemed direct earnings
+
+(1) The amount of the deemed direct earnings is the amount resulting from the following steps—
+
+Step 1
+
+Identify the amount or value of the chain payment made by the person who is treated as making the deemed direct earnings, and deduct from that amount so much of it (if any) as is in respect of value added tax.
+
+Step 2
+
+Deduct, from the amount resulting from Step 1, so much of that amount as represents the direct cost to the intermediary of materials used, or to be used, in the performance of the services.
+
+Step 3
+
+Deduct, at the option of the person treated as making the deemed direct earnings, from the amount resulting from Step 2, so much of that amount as represents expenses met by the intermediary that under ITEPA 2003 would have been deductible from the taxable earnings of the employment under section 10 ITEPA 2003, in accordance with section 327(3) to (5) of that Act, if—
+
+- (a) the worker had been employed by the client, and
+- (b) the expenses had been met by the worker out of those earnings.
+
+Step 4
+
+If the amount resulting from the preceding Steps is nil or negative, there are no deemed direct earnings. Otherwise, that amount is the amount of the deemed direct earnings.
+
+(2) For the purposes of Step 1 of paragraph (1), exclude amounts on which Class 1 or Class 1A contributions are payable by virtue of regulation 3 or 4 of the Social Security Contributions (Limited Liability Partnership) Regulations 2014.
+
+(3) In paragraph (1), the reference to the amount or value of the chain payment means the amount or value of that payment before the deduction (if any) permitted under regulation 19.
+
+(4) If the actual amount or value of the chain payment mentioned in Step 1 of paragraph (1) is such that its recipient bears the cost of amounts due under the Income Tax (Pay As You Earn) Regulations 2003 or the Contributions Regulations in respect of the deemed direct earnings, that Step applies as if the amount or value of the chain payment were what it would be if the burden of that cost were not being passed on through the setting of the level of the payment.
+
+(5) In Step 3 of paragraph (1), the reference to “expenses met by the intermediary” includes—
+
+- (a) expenses met by the worker and reimbursed by the intermediary, and
+- (b) where the intermediary is a partnership and the worker is a member of the partnership, expenses met by the worker for and on behalf of the partnership.
+
+(6) The deemed direct earnings are to be assessed on the amount of such earnings paid, or treated as paid, in the earnings period specified in regulations 3 to 6 or 8 of the Contributions Regulations.
+
+(7) For the purposes of paragraph (6), the definition of “regular interval” in regulation 1(2) of the Contributions Regulations is to be read as if “employed earner” were replaced with “intermediary” and the words “of earnings” were deleted.
+
+### 18. Application of Social Security Contributions and Benefits Act 1992 to deemed employment
+
+(1) This regulation applies where deemed direct earnings are treated as having been paid in any tax year under regulation 14.
+
+(2) For the purposes of Parts 1 to 5 of the Contributions and Benefits Act—
+
+- (a) the amount of any deemed direct earnings calculated under regulation 17 shall be treated as remuneration derived from an employed earner’s employment,
+- (b) the worker shall be treated, in relation to the deemed direct earnings as employed in employed earner’s employment by the person treated as making the payment of deemed direct earnings,
+- (c) the services were performed, or are to be performed, by the worker in the course of performing the duties of that employment, and
+- (d) the person treated as making the payment of deemed direct earnings shall be treated as the secondary contributor in relation to the deemed direct earnings.
+
+### 19. Deductions from chain payments
+
+(1) This regulation applies if, as a result of regulation 18, a person who is treated as making a payment of deemed direct earnings is required under the Contributions Regulations to pay primary Class 1 contributions to the Commissioners for Her Majesty’s Revenue and Customs (the Commissioners) in respect of the payment.
+
+(But see paragraph (4)).
+
+(2) The person may deduct from the underlying chain payment an amount which is equal to the amount payable to the Commissioners in respect of primary Class 1 contributions, but where the amount or value of the underlying chain payment is treated by regulation 17(4) as increased by the cost of any amount due under the Contributions Regulations, the amount that may be deducted is limited to the difference (if any) between the amount of primary Class 1 contributions payable to the Commissioners and the amount of that increase.
+
+(3) Where a person in the chain other than the intermediary receives a chain payment from which an amount has been deducted in reliance on paragraph (2) or this paragraph, that person may deduct the same amount from the chain payment made by them.
+
+(4) This regulation does not apply in a case to which regulation 22(2) applies.
+
+(5) In paragraph (2) “the underlying chain payment” means the chain payment whose amount is used at Step 1 of regulation 17(1) as the starting point for calculating the amount of the deemed direct earnings.
+
+### 20. Client-led status disagreement process[^key-ca0af57cc48d8e36a3bfb638dee6098e]
+
+(1) This regulation applies if, before the final chain payment is made in the case of an engagement to which this Part applies, the worker or the deemed employer makes representations to the client that the conclusion contained in a status determination statement is incorrect.
+
+(2) The client must either—
+
+- (a) give a statement to the worker or (as the case may be) the deemed employer that—
+  - (i) states that the client has considered the representations and has decided that the conclusion contained in the status determination statement is correct, and
+  - (ii) states the reasons for that decision, or
+- (b) give a new status determination statement to the worker and the deemed employer that—
+  - (i) contains a different conclusion from the conclusion contained in the previous status determination,
+  - (ii) states the date from which the client considers that the conclusion contained in the new status determination statement became correct, and
+  - (iii) states that the previous status determination statement is withdrawn.
+
+(3) If the client fails to comply with the duty in paragraph (2) before the end of the period of 45 days beginning with the date the client receives the representations, regulation 14(3) and (4) has effect from the end of that period until the duty is complied with as if for any reference to the fee-payer there were substituted a reference to the client; but this is subject to regulations 22 and 24[^key-cc064876d0834867d0e037b444c8ff92].
+
+(4) A new status determination statement given to the deemed employer under paragraph (2)(b) is to be treated for the purposes of regulation 14(8)(za) as having been given to the deemed employer by the person immediately above the deemed employer in the chain.
+
+(5) In this regulation—
+
+- “**the deemed employer**” means the person who, assuming one of conditions A to C in regulation 14 were met, would be treated as making a payment of deemed direct earnings to the worker under regulation 14(3) on the making of a chain payment;
+- “**status determination statement**” has the meaning given by regulation 14A.
+
+### 20A. Duty for client to withdraw status determination statement if it ceases to be medium or large
+
+(1) This regulation applies if in the case of an engagement to which this Part applies—
+
+- (a) the client is not a public authority,
+- (b) the client gives a status determination statement to the worker, the client's agent or both, and
+- (c) the client does not (but for this regulation) qualify as medium or large for a tax year beginning after the status determination statement is given.
+
+(2) Before the beginning of the tax year the client must give a statement to the relevant person, or (as the case may be) to both of the relevant persons, stating—
+
+- (a) that the client does not qualify as medium or large for the tax year, and
+- (b) that the status determination statement is withdrawn with effect from the beginning of the tax year.
+
+(3) If the client fails to comply with that duty the following rules apply in relation to the engagement for the tax year—
+
+- (a) the client is to be treated as medium or large for the tax year, and
+- (b) regulation 14(3) and (4) has effect as if for any reference to the fee-payer there were substituted a reference to the client.
+
+(4) For the purposes of paragraph (2)—
+
+- (a) the worker is a relevant person if the status determination statement was given to the worker, and
+- (b) the deemed employer is a relevant person if the status determination statement was given to the client's agent.
+
+(5) In this regulation—
+
+- “**client's agent**” means a person with whom the client entered into a contract as part of the arrangements mentioned in regulation 13(1)(c);
+- “**the deemed employer**” means the person who, assuming one of conditions A to C in regulation 14 were met, would be treated as making a payment of deemed direct earnings to the worker under regulation 14(3) on the making of a chain payment;
+- “**status determination statement**” has the meaning given by regulation 14A.
+
+### 21. Information to be provided by worker or intermediary and consequences of failure[^key-3bf43a2f922192c59c94cab1ba90cd09]
+
+(1) In the case of an engagement to which this Part applies, the relevant person[^key-f45af8d07700c7bbf8864bb8b816c2f3] must inform the potential deemed employer of which one of the following is applicable—
+
+- (a) that one of conditions A to C in regulation 14 is met in the case,
+- (b) that none of conditions A to C in regulation 14 is met in the case.
+
+(2) If the relevant person[^key-46f087890589a6e360ba5b77b4244ecb] has not complied with paragraph (1), then for the purposes of regulation 14(1), one of conditions A to C in regulation 14 is to be treated as met.
+
+(3) In this regulation—[^key-88ff3561289763eef0bf99f2b69e0539]
+
+“relevant person” means the worker or, in a case where the worker has not complied with paragraph (1), the intermediary;
+
+“the potential deemed employer” is the person who, if one of conditions A to C in regulation 14 were met, would be treated as making a payment of deemed direct earnings to the worker under regulation 14(3).
+
+### 22. Consequences of providing fraudulent information
+
+(1) Paragraph (2) applies if in any case—
+
+- (a) a person (“the deemed employer”) would, but for this paragraph, be treated by regulation 14(3) as making a payment to another person (“the services-provider”), and
+- (b) the fraudulent documentation condition is met.
+
+(2) Regulation 14(3) has effect in the case as if the reference to the fee-payer were a reference to the relevant person (or if more than one, the first relevant person) in relation to whom the fraudulent documentation condition is met[^key-110e0d5a2404e81b46247f4bf316fe76], but
+
+- (a) regulation 14(4) continues to have effect as if the reference to the fee-payer were a reference to the deemed employer, and
+- (b) Step 1 of regulation 17(1) continues to have effect as referring to the chain payment to be made by the deemed employer.
+
+(3) Paragraph (2) has effect even though that may involve a services-provider[^key-99336068004769e77db17d8765040095] being treated as both employer and employee in relation to the deemed employment under regulation 14(3).
+
+(4) “The fraudulent documentation condition” is that a relevant person provided any person with a fraudulent document intended to constitute evidence—
+
+- (a) that the case is not an engagement to which this Part applies, or
+- (b) that none of the conditions A to C in regulation 14 is met in the case.
+
+(4A)[^key-b822d792027cdf24b2cb46b8b331d9d6] But where the fraudulent documentation condition would, ignoring this paragraph, be met as a result of the provision of a fraudulent document intended to constitute evidence that regulation 3 of the Social Security Contributions (Umbrella Companies) Regulations 2026 applies in relation to the services provided by the worker, that condition is to be treated as not met.
+
+(5) For the purposes of this regulation a “relevant person” is—
+
+- (a) the services-provider,
+- (b) a person connected with the services-provider,
+- (c) if the intermediary in the case is a company, an office-holder in that company.
+- (d)[^key-16b202621a147f13272b15843d1ee384] a person in the chain who fulfils the conditions as to residence and presence for liability to pay secondary Class 1 contributions prescribed under section 1(6)(a) of the Contributions and Benefits Act.
+
+### 23. Prevention of double liability to national insurance contributions and allowance of certain deductions
+
+(1) Paragraph (2) applies where—
+
+- (a) a person (“the payee”) receives a payment (“the end-of-line remuneration”) from another person (“the paying intermediary”),
+- (b) the end-of-line remuneration can reasonably be taken to represent remuneration for services of the payee to another person (“[^key-f5dad12db54a0d7bbcd03bd2b7038814]**the client**”),
+- (c) a payment (“the deemed payment”) has been treated by regulation 14(3) as paid to the payee,
+- (d) the underlying chain payment can reasonably be taken to be for the same services of the payee to the client[^key-44f9685a1d2b1b0b5c731bb6466f393f], and
+- (e) the recipient of the underlying chain payment has (whether by deduction from that payment or otherwise) borne the cost of any amounts due, under Income Tax (Pay As You Earn) Regulations 2003 and Contributions Regulations in respect of the deemed payment from the person treated by regulation 14(3) as making the deemed payment.
+
+(2) For national insurance contributions purposes, the paying intermediary may treat the amount of the end-of-line remuneration as reduced (but not below nil) by the amount (see regulation 17) of the deemed payment less the amount of income tax and primary Class 1 national insurance contributions deducted from that amount.
+
+(3) Nothing in paragraph (2) shall be read as removing a worker’s entitlement to Statutory Maternity Pay which would have existed but for the operation of that paragraph.
+
+(4) In sub-paragraph (1)(d) “the underlying chain payment” means the chain payment whose amount is used at Step 1 of regulation 17(1) as the starting point for calculating the amount of the deemed direct earnings.
+
+### 24. Anti-avoidance[^key-e503521b79253b1879611df59b004cd7]
+
+(1) This regulation applies if in any case at least one relevant person in a chain participates in a relevant avoidance arrangement.
+
+(2) An arrangement is a “relevant avoidance arrangement” if its main purpose, or one of its main purposes, is to secure a NICs advantage by securing that at least one of the conditions mentioned in regulation 15 or 16 is not met in relation to an intermediary.
+
+(3) Regulation 14(3) has effect as if the reference to the fee-payer were a reference to the participating person, but—
+
+- (a) regulation 14(4) continues to have effect as if the reference to the fee-payer were a reference to the deemed employer, and
+- (b) Step 1 of regulation 17(1) continues to have effect as referring to the chain payment made by the deemed employer.
+
+(4) The “participating person” is—
+
+- (a) in a case where only one relevant person participates in the arrangement, that person;
+- (b) in any other case the highest relevant person in the chain who participated in the arrangement and from whom Her Majesty’s Revenue and Customs considers there is a realistic prospect of recovering, within a reasonable period, the amount of NICs that would have been paid (or not repaid) in the absence of the arrangement.
+
+(5) Paragraph (3) has effect even though that may involve a participating person being treated as both employer and employee in relation to the deemed employment under regulation 14(3).
+
+(6) In this regulation—
+
+- “arrangement” includes any agreement, understanding, scheme, transaction or series of transactions (whether or not legally enforceable);
+- “deemed employer” means a person who would, but for this regulation, be treated by regulation 14(3) as making a payment to the worker;
+- “NICs” means National Insurance contributions (and “NICs advantage” is to be construed accordingly);
+- “NICs advantage” includes—
+  - (a) avoidance or reduction of a NICs liability,
+  - (b) repayment or increased repayment of NICs,
+  - (c) avoidance of a possible NICs liability, and
+  - (d) deferral of a payment of NICs or advancement of a repayment of NICs;
+- “relevant person” means—
+  - (a) the worker;
+  - (b) a person who fulfils the conditions as to residence and presence for liability to pay secondary Class 1 contributions prescribed under section 1(6)(a) of the Contributions and Benefits Act.
+
+Greg Pope
+
+Bob Ainsworth
+
+Two of the Lords Commissioners of Her Majesty’s Treasury
+
+The Secretary of State for Social Security hereby concurs.
+
+Signed by authority of the Secretary of State for Social Security
+
+Jeff Rooker
+
+Nick Montagu
+
+Steve Matheson
+
+Two of the Commissioners of Inland Revenue
+
+(This note is not part of the Regulations)
+
+These Regulations, which come into force on 6th April 2000, make provision for ensuring that social security contributions payable in relation to employed earner’s employment remain payable notwithstanding the existence of arrangements whereby the services of the worker for another person (“the client") are performed through another person (“the intermediary") and not pursuant to a contract of employment between the worker and the client.
+
+Regulation 1 provides for citation, commencement and effect, and regulations 2 to 5 contain definitions.
+
+Regulation 6 provides that, where the worker’s services are carried out in pursuance of arrangements involving an intermediary, the worker shall be treated, for the purposes of social security contributions in respect of a calculated amount of payments or benefits made or provided under the arrangements, as employed in employed earner’s employment by the intermediary, and the intermediary shall be treated as the secondary contributor for those purposes. The regulation also provides that an officer of the Board of Inland Revenue may make a decision on whether the regulation applies in a particular case.
+
+Regulation 7 provides the method of calculation of the amount of payments and benefits in respect of which social security contributions are payable by virtue of regulation 6.
+
+Regulation 8 treats the amount found under regulation 7 as a single payment of earnings made by the intermediary on 5th April in the year of assessment concerned or, where one or more specified events occur in that year, immediately before that event or the earliest of those events.
+
+Regulations 9 to 11 make provision for the case where more than one intermediary is involved in the same arrangements.
+
+Regulation 12 contains a saving provision that nothing in these Regulations affects the operation of secondary legislation relating to agency workers.
+
+## Annotations
+
+[^c1619254]: Marginal citation: [1992 c. 4](https://www.legislation.gov.uk/ukpga/1992/4). Section 4A was inserted by section 75 of the [Welfare Reform and Pensions Act 1999 (c. 30)](https://www.legislation.gov.uk/ukpga/1999/30). Section 122(1) is cited because of the meaning ascribed to the word “prescribe". Section 175 was amended by paragraph 29 of Schedule 3 to the [Social Security Contributions (Transfer of Functions, etc.) Act 1999 (c. 2)](https://www.legislation.gov.uk/ukpga/1999/2).
+
+[^c1619255]: Marginal citation: [1999 c. 2](https://www.legislation.gov.uk/ukpga/1999/2).
+
+[^key-7a2f88199e53d5196d353072d6cfb575]: Modification: [Instrument](https://www.legislation.gov.uk/uksi/2000/727) excluded by [National Insurance Contributions Act 2011 (c. 3)](https://www.legislation.gov.uk/ukpga/2011/3), [ss. 6(5)(a)](https://www.legislation.gov.uk/ukpga/2011/3/section/6/5/a), [13(2)](https://www.legislation.gov.uk/ukpga/2011/3/section/13/2)
+
+[^key-9ceec2f3945a705f21af46c0ffad57da]: Textual amendment: Pt. 1 heading substituted (6.4.2021) by [The Social Security Contributions (Intermediaries) (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/1220)](https://www.legislation.gov.uk/uksi/2020/1220), regs. 1(1), [2(2)](https://www.legislation.gov.uk/uksi/2020/1220/regulation/2/2) (with reg. 5)
+
+[^key-e4d6ac04d37f904d4e7e08fe57d53379]: Textual amendment: Words in reg. 2(1) omitted (6.4.2017) by virtue of [The Social Security (Miscellaneous Amendments No. 2) Regulations 2017 (S.I. 2017/373)](https://www.legislation.gov.uk/uksi/2017/373), [regs. 1](https://www.legislation.gov.uk/uksi/2017/373/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2017/373/regulation/2/3/a)
+
+[^key-e745d29c3515849051b37a2f0c8e9256]: Textual amendment: Words in reg. 2(1) substituted (5.12.2005) by [Social Security Contributions (Intermediaries) (Amendment) Regulations 2005 (S.I. 2005/3131)](https://www.legislation.gov.uk/uksi/2005/3131), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2005/3131/regulation/1/2), [4(2)](https://www.legislation.gov.uk/uksi/2005/3131/regulation/4/2)
+
+[^key-4693b684bfae905fcdcf14e66ddc66ba]: Textual amendment: Words in reg. 2(1) omitted (1.9.2003) by virtue of [Social Security Contributions (Intermediaries) (Amendment) Regulations 2003 (S.I. 2003/2079)](https://www.legislation.gov.uk/uksi/2003/2079), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/2079/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2003/2079/regulation/4) (with [reg. 7](https://www.legislation.gov.uk/uksi/2003/2079/regulation/7))
+
+[^c1619256]: Marginal citation: Section 10 was amended by section 52 of, and paragraph 58 of Schedule 7 to, the [Social Security Act 1998 (c. 14)](https://www.legislation.gov.uk/ukpga/1998/14), [paragraph 10](https://www.legislation.gov.uk/ukpga/1998/14/paragraph/10) of Schedule 3 to the Social Security Contributions (Transfer of Functions, etc.) Act 1999 and regulation 4 of [S.I. 1994/667](https://www.legislation.gov.uk/uksi/1994/667).
+
+[^key-7dcac1059f99737d32af37b1cc0f8309]: Textual amendment: Words in reg. 2(1) substituted (6.4.2002) by [Social Security Contributions (Intermediaries) (Amendment) Regulations 2002 (S.I. 2002/703)](https://www.legislation.gov.uk/uksi/2002/703), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2002/703/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2002/703/regulation/3)
+
+[^key-64680cb73eb33955d674af37060b101e]: Textual amendment: Words in reg. 2(1) inserted (6.4.2017) by [The Social Security (Miscellaneous Amendments No. 2) Regulations 2017 (S.I. 2017/373)](https://www.legislation.gov.uk/uksi/2017/373), [regs. 1](https://www.legislation.gov.uk/uksi/2017/373/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2017/373/regulation/2/3/b)
+
+[^key-32ebc569711a9c91c5fcfea49eec5abf]: Textual amendment: Words in reg. 2(1) inserted (6.4.2017) by [The Social Security (Miscellaneous Amendments No. 2) Regulations 2017 (S.I. 2017/373)](https://www.legislation.gov.uk/uksi/2017/373), [regs. 1](https://www.legislation.gov.uk/uksi/2017/373/regulation/1), [2(3)(c)](https://www.legislation.gov.uk/uksi/2017/373/regulation/2/3/c)
+
+[^c1619258]: Marginal citation: Section 6 was substituted by paragraph 2 of Schedule 9 to the Welfare Reform and Pensions Act 1999.
+
+[^c1619259]: Marginal citation: Section 7 was amended by paragraph 7 of Schedule 3 to the Social Security Contributions (Transfer of Functions, etc.) Act 1999.
+
+[^key-9888e786710828497815351a0d81b346]: Textual amendment: Words in reg. 2(1) inserted (6.4.2017) by [The Social Security (Miscellaneous Amendments No. 2) Regulations 2017 (S.I. 2017/373)](https://www.legislation.gov.uk/uksi/2017/373), [regs. 1](https://www.legislation.gov.uk/uksi/2017/373/regulation/1), [2(3)(d)](https://www.legislation.gov.uk/uksi/2017/373/regulation/2/3/d)
+
+[^c1619260]: Marginal citation: [1988 c. 1](https://www.legislation.gov.uk/ukpga/1988/1).
+
+[^key-fb52a3e72e83b13bc0c9a21a11fe3cd9]: Textual amendment: Words in reg. 2(4) substituted (6.4.2004) by [The Social Security (Contributions, Categorisation of Earners and Intermediaries) (Amendment) Regulations 2004 (S.I. 2004/770)](https://www.legislation.gov.uk/uksi/2004/770), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/770/regulation/1/1), [35(2)](https://www.legislation.gov.uk/uksi/2004/770/regulation/35/2)
+
+[^key-81f3f26e6dbfabf15b5da70916e877b3]: Textual amendment: Reg. 2(5) substituted for reg. 2(5)(6) (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [Sch. 3 para. 57](https://www.legislation.gov.uk/uksi/2019/1458/schedule/3/paragraph/57)
+
+[^key-cecb86609e7e4ab527df1b39d4135e72]: Textual amendment: Reg. 2(7)(8) inserted (6.4.2017) by [The Social Security (Miscellaneous Amendments No. 2) Regulations 2017 (S.I. 2017/373)](https://www.legislation.gov.uk/uksi/2017/373), [regs. 1](https://www.legislation.gov.uk/uksi/2017/373/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2017/373/regulation/2/4)
+
+[^key-0fce652332258f7bc5e3091dc3326401]: Textual amendment: Reg. 2A inserted (6.4.2017) by [The Social Security (Miscellaneous Amendments No. 2) Regulations 2017 (S.I. 2017/373)](https://www.legislation.gov.uk/uksi/2017/373), [regs. 1](https://www.legislation.gov.uk/uksi/2017/373/regulation/1), [2(5)](https://www.legislation.gov.uk/uksi/2017/373/regulation/2/5)
+
+[^c1619261]: Marginal citation: Section 417 was amended by paragraph 6 of Schedule 17 to the [Finance Act 1995 (c. 4)](https://www.legislation.gov.uk/ukpga/1995/4).
+
+[^c1619262]: Marginal citation: Section 839 was amended by paragraph 20 of Schedule 17 to the Finance Act 1995.
+
+[^key-f9dd39010a3f38179d9a4f97ed546b4b]: Textual amendment: Words in reg. 3(4) substituted (6.4.2004) by [The Social Security (Contributions, Categorisation of Earners and Intermediaries) (Amendment) Regulations 2004 (S.I. 2004/770)](https://www.legislation.gov.uk/uksi/2004/770), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/770/regulation/1/1), [35(3)](https://www.legislation.gov.uk/uksi/2004/770/regulation/35/3)
+
+[^key-ff40cc70f3259cb2fb3512c653a0d05b]: Textual amendment: Reg. 3A substituted (18.5.2017) by [The Social Security (Miscellaneous Amendments No. 3) Regulations 2017 (S.I. 2017/613)](https://www.legislation.gov.uk/uksi/2017/613), [regs. 1](https://www.legislation.gov.uk/uksi/2017/613/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2017/613/regulation/2/2)
+
+[^key-259d9a1c00b8c2a94eec69110717dd9f]: Textual amendment: Reg. 3A(1)(aa) inserted (6.4.2021) by [The Social Security Contributions (Intermediaries) (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/1220)](https://www.legislation.gov.uk/uksi/2020/1220), [regs. 1(1)(3)](https://www.legislation.gov.uk/uksi/2020/1220/regulation/1/1/3), [2(3)(a)](https://www.legislation.gov.uk/uksi/2020/1220/regulation/2/3/a) (with [reg. 5](https://www.legislation.gov.uk/uksi/2020/1220/regulation/5))
+
+[^key-213d5e7b37ea9bfc0929200a4089b75a]: Textual amendment: [Reg. 3A(ba)](https://www.legislation.gov.uk/uksi/2000/727/regulation/3A/ba) inserted (25.1.2023) by [Advanced Research and Invention Agency Act 2022 (c. 4)](https://www.legislation.gov.uk/ukpga/2022/4), [s. 13(1)](https://www.legislation.gov.uk/ukpga/2022/4/section/13/1), [Sch. 3 para. 16(1)](https://www.legislation.gov.uk/ukpga/2022/4/schedule/3/paragraph/16/1); [S.I. 2023/58](https://www.legislation.gov.uk/uksi/2023/58), [reg. 2](https://www.legislation.gov.uk/uksi/2023/58/regulation/2)
+
+[^key-ac1387d1226d48dabff41a90754f48ce]: Textual amendment: Word in reg. 3A(1)(e) omitted (6.4.2021) by virtue of [The Social Security Contributions (Intermediaries) (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/1220)](https://www.legislation.gov.uk/uksi/2020/1220), [regs. 1(1)(3)](https://www.legislation.gov.uk/uksi/2020/1220/regulation/1/1/3), [2(3)(b)](https://www.legislation.gov.uk/uksi/2020/1220/regulation/2/3/b) (with [reg. 5](https://www.legislation.gov.uk/uksi/2020/1220/regulation/5))
+
+[^key-3415a4df7c835ee4f88640c5f6646ba5]: Textual amendment: Reg. 3A(1)(g) and word inserted (6.4.2021) by [The Social Security Contributions (Intermediaries) (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/1220)](https://www.legislation.gov.uk/uksi/2020/1220), [regs. 1(1)(3)](https://www.legislation.gov.uk/uksi/2020/1220/regulation/1/1/3), [2(3)(c)](https://www.legislation.gov.uk/uksi/2020/1220/regulation/2/3/c) (with [reg. 5](https://www.legislation.gov.uk/uksi/2020/1220/regulation/5))
+
+[^key-762993ffcc95430e26c64dd6d3def207]: Textual amendment: Reg. 4(1) substituted (6.4.2004) by [The Social Security (Contributions, Categorisation of Earners and Intermediaries) (Amendment) Regulations 2004 (S.I. 2004/770)](https://www.legislation.gov.uk/uksi/2004/770), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/770/regulation/1/1), [35(4)(a)](https://www.legislation.gov.uk/uksi/2004/770/regulation/35/4/a)
+
+[^key-073187fa35d179fbd3e642fcdda34122]: Textual amendment: Reg. 4(3)(a)(b) substituted (6.4.2004) by [The Social Security (Contributions, Categorisation of Earners and Intermediaries) (Amendment) Regulations 2004 (S.I. 2004/770)](https://www.legislation.gov.uk/uksi/2004/770), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/770/regulation/1/1), [35(4)(b)](https://www.legislation.gov.uk/uksi/2004/770/regulation/35/4/b)
+
+[^key-c2ab5f689e293ed46de797654b806e5b]: Textual amendment: Words in reg. 5(1) replaced (6.4.2017) by [The Social Security (Miscellaneous Amendments No. 2) Regulations 2017 (S.I. 2017/373)](https://www.legislation.gov.uk/uksi/2017/373), [regs. 1](https://www.legislation.gov.uk/uksi/2017/373/regulation/1), [2(7)](https://www.legislation.gov.uk/uksi/2017/373/regulation/2/7)
+
+[^key-43373ceee49335aa7f2dca453734cfc0]: Textual amendment: Words in reg. 5(1)(b)(i) substituted (6.4.2004) by virtue of [The Social Security (Contributions, Categorisation of Earners and Intermediaries) (Amendment) Regulations 2004 (S.I. 2004/770)](https://www.legislation.gov.uk/uksi/2004/770), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/770/regulation/1/1), [35(5)](https://www.legislation.gov.uk/uksi/2004/770/regulation/35/5)
+
+[^c1619266]: Marginal citation: Section 416 was amended by Part V of Schedule 17 to the Finance Act 1989.
+
+[^c1619267]: Marginal citation: Section 414 was amended by section 104 of, and Part V of Schedule 17 to, the Finance Act 1989. Section 415 was amended by paragraph 6(2)(f) of Schedule 38 to the Finance Act 1996.
+
+[^key-fd99b749fc87134cebbe7e05d5e9db3a]: Textual amendment: Words in reg. 5(6) substituted (5.12.2005) by [Social Security Contributions (Intermediaries) (Amendment) Regulations 2005 (S.I. 2005/3131)](https://www.legislation.gov.uk/uksi/2005/3131), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2005/3131/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2005/3131/regulation/5)
+
+[^key-9b769b2a70e7127c344ed11b941642ae]: Textual amendment: Words in reg. 5(6) substituted (6.4.2017) by [The Social Security (Miscellaneous Amendments No. 2) Regulations 2017 (S.I. 2017/373)](https://www.legislation.gov.uk/uksi/2017/373), [regs. 1](https://www.legislation.gov.uk/uksi/2017/373/regulation/1), [2(8)](https://www.legislation.gov.uk/uksi/2017/373/regulation/2/8)
+
+[^key-abff126fbfdb43aaec7d91fa8e0b20c9]: Textual amendment: Regs. 5A, 5B inserted (6.4.2021) by [The Social Security Contributions (Intermediaries) (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/1220)](https://www.legislation.gov.uk/uksi/2020/1220), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1220/regulation/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2020/1220/regulation/2/4) (with reg. 5)
+
+[^key-99cc01bd8e0975cc5b4799a387a47120]: Textual amendment: Words in reg. 6(1) replaced (6.4.2017) by [The Social Security (Miscellaneous Amendments No. 2) Regulations 2017 (S.I. 2017/373)](https://www.legislation.gov.uk/uksi/2017/373), [regs. 1](https://www.legislation.gov.uk/uksi/2017/373/regulation/1), [2(9)](https://www.legislation.gov.uk/uksi/2017/373/regulation/2/9)
+
+[^key-c5f2d5e074457ea3f5701a7e5b411e2f]: Textual amendment: Words in reg. 6(1)(a) substituted (1.9.2003) by [Social Security Contributions (Intermediaries) (Amendment) Regulations 2003 (S.I. 2003/2079)](https://www.legislation.gov.uk/uksi/2003/2079), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/2079/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2003/2079/regulation/5) (with [reg. 7](https://www.legislation.gov.uk/uksi/2003/2079/regulation/7))
+
+[^key-069e5ba8c0008c88ec605f3692ce18fe]: Textual amendment: Words in reg. 6(1)(a) inserted (6.4.2021) by [The Social Security Contributions (Intermediaries) (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/1220)](https://www.legislation.gov.uk/uksi/2020/1220), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1220/regulation/1/1), [2(5)(a)(i)](https://www.legislation.gov.uk/uksi/2020/1220/regulation/2/5/a/i) (with [reg. 5](https://www.legislation.gov.uk/uksi/2020/1220/regulation/5))
+
+[^key-8a5d02adce3b333b94abf81fd16c9d49]: Textual amendment: Reg. 6(1)(aa) omitted (6.4.2021) by virtue of [The Social Security Contributions (Intermediaries) (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/1220)](https://www.legislation.gov.uk/uksi/2020/1220), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1220/regulation/1/1), [2(5)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1220/regulation/2/5/a/ii) (with [reg. 5](https://www.legislation.gov.uk/uksi/2020/1220/regulation/5))
+
+[^key-8ebf201ae7d975b8c9bf21f70720e9f7]: Textual amendment: Reg. 6(1)(ab) inserted (6.4.2021) by [The Social Security Contributions (Intermediaries) (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/1220)](https://www.legislation.gov.uk/uksi/2020/1220), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1220/regulation/1/1), [2(5)(a)(iii)](https://www.legislation.gov.uk/uksi/2020/1220/regulation/2/5/a/iii) (with [reg. 5](https://www.legislation.gov.uk/uksi/2020/1220/regulation/5))
+
+[^key-a96e7acbeab5111423e33b7afcac39b1]: Textual amendment: Reg. 6(2A) inserted (6.4.2017) by [The Social Security (Miscellaneous Amendments No. 2) Regulations 2017 (S.I. 2017/373)](https://www.legislation.gov.uk/uksi/2017/373), [regs. 1](https://www.legislation.gov.uk/uksi/2017/373/regulation/1), [2(11)](https://www.legislation.gov.uk/uksi/2017/373/regulation/2/11)
+
+[^key-dd9acfb902300a4fe9cc55b1043fe24e]: Textual amendment: Reg. 6(2B)(2C) inserted (6.4.2021) by [The Social Security Contributions (Intermediaries) (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/1220)](https://www.legislation.gov.uk/uksi/2020/1220), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1220/regulation/1/1), [2(5)(b)](https://www.legislation.gov.uk/uksi/2020/1220/regulation/2/5/b) (with [reg. 5](https://www.legislation.gov.uk/uksi/2020/1220/regulation/5))
+
+[^key-d1e336a60c55c23a5c13fdb5f087ee25]: Textual amendment: Words in reg. 6(3) substituted (6.4.2021) by [The Social Security Contributions (Intermediaries) (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/1220)](https://www.legislation.gov.uk/uksi/2020/1220), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1220/regulation/1/1), [2(5)(c)](https://www.legislation.gov.uk/uksi/2020/1220/regulation/2/5/c) (with [reg. 5](https://www.legislation.gov.uk/uksi/2020/1220/regulation/5))
+
+[^c1619268]: Marginal citation: Section 1(6) was amended by paragraph 56(3) of Schedule 7 to the Social Security Act 1998.
+
+[^key-f2b45aca7d4122ffbd867d66e4896f0b]: Modification: Reg. 7(1) modified (5.12.2005) by [Social Security Contributions (Intermediaries) (Amendment) Regulations 2005 (S.I. 2005/3131)](https://www.legislation.gov.uk/uksi/2005/3131), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2005/3131/regulation/1/2), [7(2)](https://www.legislation.gov.uk/uksi/2005/3131/regulation/7/2) (with [reg. 7(1)](https://www.legislation.gov.uk/uksi/2005/3131/regulation/7/1))
+
+[^key-4f9b2a092d240af271b8ec66db8ec6bb]: Textual amendment: Words in reg. 7(1) inserted (5.12.2014) by [The Social Security Contributions (Limited Liability Partnership) Regulations 2014 (S.I. 2014/3159)](https://www.legislation.gov.uk/uksi/2014/3159), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/3159/regulation/1/2), [6(2)(a)](https://www.legislation.gov.uk/uksi/2014/3159/regulation/6/2/a)
+
+[^key-5f9300bdb41959b2e569ec2b6441181d]: Textual amendment: Words in reg. 7(1) substituted (1.9.2003) by [Social Security Contributions (Intermediaries) (Amendment) Regulations 2003 (S.I. 2003/2079)](https://www.legislation.gov.uk/uksi/2003/2079), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/2079/regulation/1/1), [6(2)(a)](https://www.legislation.gov.uk/uksi/2003/2079/regulation/6/2/a) (with [reg. 7](https://www.legislation.gov.uk/uksi/2003/2079/regulation/7))
+
+[^key-429a8d557d62d9295b14c3cb9dc1aef5]: Textual amendment: Words in reg. 7(1) substituted (1.9.2003) by [Social Security Contributions (Intermediaries) (Amendment) Regulations 2003 (S.I. 2003/2079)](https://www.legislation.gov.uk/uksi/2003/2079), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/2079/regulation/1/1), [6(2)(b)(i)](https://www.legislation.gov.uk/uksi/2003/2079/regulation/6/2/b/i) (with [reg. 7](https://www.legislation.gov.uk/uksi/2003/2079/regulation/7))
+
+[^key-dc5a21abad23d6a2b72c9d092227cac5]: Textual amendment: Words in reg. 7(1) substituted (1.9.2003) by [Social Security Contributions (Intermediaries) (Amendment) Regulations 2003 (S.I. 2003/2079)](https://www.legislation.gov.uk/uksi/2003/2079), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/2079/regulation/1/1), [6(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2003/2079/regulation/6/2/b/ii) (with [reg. 7](https://www.legislation.gov.uk/uksi/2003/2079/regulation/7))
+
+[^key-96e3732b2f65047c5abe2bd66dcc5794]: Textual amendment: Words in reg. 7(1) substituted (1.9.2003) by [Social Security Contributions (Intermediaries) (Amendment) Regulations 2003 (S.I. 2003/2079)](https://www.legislation.gov.uk/uksi/2003/2079), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/2079/regulation/1/1), [6(2)(b)(iii)](https://www.legislation.gov.uk/uksi/2003/2079/regulation/6/2/b/iii) (with [reg. 7](https://www.legislation.gov.uk/uksi/2003/2079/regulation/7))
+
+[^key-00242dce1c962550e7565096d9921f6d]: Textual amendment: Words in reg. 7(1) substituted (1.9.2003) by [Social Security Contributions (Intermediaries) (Amendment) Regulations 2003 (S.I. 2003/2079)](https://www.legislation.gov.uk/uksi/2003/2079), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/2079/regulation/1/1), [6(2)(c)](https://www.legislation.gov.uk/uksi/2003/2079/regulation/6/2/c) (with [reg. 7](https://www.legislation.gov.uk/uksi/2003/2079/regulation/7))
+
+[^key-704fc29dd22d039153ff55e271965919]: Textual amendment: Words in reg. 7(1) substituted (6.4.2006) by [Social Security Contributions (Intermediaries) (Amendment) Regulations 2005 (S.I. 2005/3131)](https://www.legislation.gov.uk/uksi/2005/3131), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2005/3131/regulation/1/3), [8(2)](https://www.legislation.gov.uk/uksi/2005/3131/regulation/8/2)
+
+[^M_M_9c99bce2-80fb-4df4-acc5-e2b2237a0884]: Marginal citation: [2004 c. 12](https://www.legislation.gov.uk/ukpga/2004/12)
+
+[^key-65ed18f5fec03834336e8b331a9ac4af]: Textual amendment: Words in reg. 7(1) inserted (5.12.2005) by [Social Security Contributions (Intermediaries) (Amendment) Regulations 2005 (S.I. 2005/3131)](https://www.legislation.gov.uk/uksi/2005/3131), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2005/3131/regulation/1/2), [6(2)](https://www.legislation.gov.uk/uksi/2005/3131/regulation/6/2)
+
+[^key-811dcf2d71d6cdea603b989f2380cf06]: Textual amendment: Word in reg. 7(1)(a) substituted (6.4.2002) by [Social Security Contributions (Intermediaries) (Amendment) Regulations 2002 (S.I. 2002/703)](https://www.legislation.gov.uk/uksi/2002/703), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2002/703/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2002/703/regulation/4)
+
+[^c1619270]: Marginal citation: Regulation 17A was inserted by regulation 5 of [S.I. 1983/10](https://www.legislation.gov.uk/uksi/1983/10).
+
+[^key-23c420fb50cdf49b7b9d206bc6582be4]: Textual amendment: Words in reg. 7(1) inserted (5.12.2014) by [The Social Security Contributions (Limited Liability Partnership) Regulations 2014 (S.I. 2014/3159)](https://www.legislation.gov.uk/uksi/2014/3159), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/3159/regulation/1/2), [6(2)(b)](https://www.legislation.gov.uk/uksi/2014/3159/regulation/6/2/b)
+
+[^key-5bf9e47be69a526453d40595b89f9985]: Textual amendment: Words in reg. 7(1)(b) substituted (6.4.2004) by [The Social Security (Contributions, Categorisation of Earners and Intermediaries) (Amendment) Regulations 2004 (S.I. 2004/770)](https://www.legislation.gov.uk/uksi/2004/770), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/770/regulation/1/1), [35(6)](https://www.legislation.gov.uk/uksi/2004/770/regulation/35/6)
+
+[^key-20648e40336c11955a2cfda30393ecb7]: Textual amendment: Words in reg. 7(5) substituted (1.9.2003) by [Social Security Contributions (Intermediaries) (Amendment) Regulations 2003 (S.I. 2003/2079)](https://www.legislation.gov.uk/uksi/2003/2079), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/2079/regulation/1/1), [6(3)](https://www.legislation.gov.uk/uksi/2003/2079/regulation/6/3) (with [reg. 7](https://www.legislation.gov.uk/uksi/2003/2079/regulation/7))
+
+[^key-d0972d9c19d5901628f8b5c16cb2504b]: Textual amendment: Reg. 7(6)-(10) inserted (6.4.2002) by virtue of [Social Security Contributions (Intermediaries) (Amendment) Regulations 2002 (S.I. 2002/703)](https://www.legislation.gov.uk/uksi/2002/703), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2002/703/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2002/703/regulation/5)
+
+[^key-50656c5c8704d51aa86e6337691bcbbf]: Textual amendment: Words in reg. 7(8)(b) substituted (1.9.2003) by [Social Security Contributions (Intermediaries) (Amendment) Regulations 2003 (S.I. 2003/2079)](https://www.legislation.gov.uk/uksi/2003/2079), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/2079/regulation/1/1), [6(4)](https://www.legislation.gov.uk/uksi/2003/2079/regulation/6/4) (with [reg. 7](https://www.legislation.gov.uk/uksi/2003/2079/regulation/7))
+
+[^key-05183d427279fbc8048bf87ea20d6899]: Textual amendment: Words in reg. 7(10) substituted (1.9.2003) by [Social Security Contributions (Intermediaries) (Amendment) Regulations 2003 (S.I. 2003/2079)](https://www.legislation.gov.uk/uksi/2003/2079), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/2079/regulation/1/1), [6(5)(a)](https://www.legislation.gov.uk/uksi/2003/2079/regulation/6/5/a) (with [reg. 7](https://www.legislation.gov.uk/uksi/2003/2079/regulation/7))
+
+[^key-c4c53f62c788ec8c815a6b6a6099a30a]: Textual amendment: Words in reg. 7(10) substituted (1.9.2003) by [Social Security Contributions (Intermediaries) (Amendment) Regulations 2003 (S.I. 2003/2079)](https://www.legislation.gov.uk/uksi/2003/2079), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/2079/regulation/1/1), [6(5)(b)](https://www.legislation.gov.uk/uksi/2003/2079/regulation/6/5/b) (with [reg. 7](https://www.legislation.gov.uk/uksi/2003/2079/regulation/7))
+
+[^key-a5e0fc0b88fd3048e2147e59dd6d160a]: Textual amendment: Reg. 7(11) inserted (5.12.2005) by [Social Security Contributions (Intermediaries) (Amendment) Regulations 2005 (S.I. 2005/3131)](https://www.legislation.gov.uk/uksi/2005/3131), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2005/3131/regulation/1/2), [6(3)](https://www.legislation.gov.uk/uksi/2005/3131/regulation/6/3)
+
+[^key-d6866b5bcd2e4b5926bfc2efc26b9fd4]: Textual amendment: Word in reg. 8(2) substituted (6.4.2002) by [Social Security Contributions (Intermediaries) (Amendment) Regulations 2002 (S.I. 2002/703)](https://www.legislation.gov.uk/uksi/2002/703), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2002/703/regulation/1/1), [6(1)(a)](https://www.legislation.gov.uk/uksi/2002/703/regulation/6/1/a)
+
+[^key-747739c61391b7b5b92345a4d728064e]: Textual amendment: Reg. 8(5)(d) added (6.4.2002) by [Social Security Contributions (Intermediaries) (Amendment) Regulations 2002 (S.I. 2002/703)](https://www.legislation.gov.uk/uksi/2002/703), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2002/703/regulation/1/1), [6(1)(b)](https://www.legislation.gov.uk/uksi/2002/703/regulation/6/1/b)
+
+[^key-39843bd9acd0149cd4a13db7edd8b966]: Textual amendment: Words in reg. 9(2) replaced (6.4.2017) by [The Social Security (Miscellaneous Amendments No. 2) Regulations 2017 (S.I. 2017/373)](https://www.legislation.gov.uk/uksi/2017/373), [regs. 1](https://www.legislation.gov.uk/uksi/2017/373/regulation/1), [2(12)](https://www.legislation.gov.uk/uksi/2017/373/regulation/2/12)
+
+[^key-86e7f552b34c55ede0dc997193a4231b]: Textual amendment: Word in reg. 9(2) substituted (6.4.2021) by [The Social Security Contributions (Intermediaries) (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/1220)](https://www.legislation.gov.uk/uksi/2020/1220), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1220/regulation/1/1), [2(6)](https://www.legislation.gov.uk/uksi/2020/1220/regulation/2/6) (with [reg. 5](https://www.legislation.gov.uk/uksi/2020/1220/regulation/5))
+
+[^key-9abc9fb6fa90399452f980ea9d3fd00f]: Textual amendment: Reg. 12 heading substituted (6.4.2021) by [The Social Security Contributions (Intermediaries) (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/1220)](https://www.legislation.gov.uk/uksi/2020/1220), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1220/regulation/1/1), [2(7)(a)](https://www.legislation.gov.uk/uksi/2020/1220/regulation/2/7/a) (with [reg. 5](https://www.legislation.gov.uk/uksi/2020/1220/regulation/5))
+
+[^key-491bb8c31524d2eb0cb096c0d02ea33d]: Textual amendment: Reg. 12(1): reg. 12 renumbered (6.4.2021) by [The Social Security Contributions (Intermediaries) (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/1220)](https://www.legislation.gov.uk/uksi/2020/1220), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1220/regulation/1/1), [2(7)(b)](https://www.legislation.gov.uk/uksi/2020/1220/regulation/2/7/b) (with [reg. 5](https://www.legislation.gov.uk/uksi/2020/1220/regulation/5))
+
+[^c1619273]: Marginal citation: [S.I. 1978/1689](https://www.legislation.gov.uk/uksi/1978/1689).
+
+[^key-e2cc75ffbeebae6f56a5a12a8343a036]: Textual amendment: Reg. 12(2) inserted (6.4.2021) by [The Social Security Contributions (Intermediaries) (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/1220)](https://www.legislation.gov.uk/uksi/2020/1220), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1220/regulation/1/1), [2(7)(c)](https://www.legislation.gov.uk/uksi/2020/1220/regulation/2/7/c) (with [reg. 5](https://www.legislation.gov.uk/uksi/2020/1220/regulation/5))
+
+[^key-3ba742b70a451c265dad1f6789afeea1]: Textual amendment: Reg. 12A inserted (6.4.2021) by [The Social Security Contributions (Intermediaries) (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/1220)](https://www.legislation.gov.uk/uksi/2020/1220), [regs. 1(1)(3)](https://www.legislation.gov.uk/uksi/2020/1220/regulation/1/1/3), [2(8)(b)](https://www.legislation.gov.uk/uksi/2020/1220/regulation/2/8/b) (with [reg. 5](https://www.legislation.gov.uk/uksi/2020/1220/regulation/5))
+
+[^key-c3494c2d9d9f04a38f8af1c33d7319d8]: Textual amendment: Pt. 2 heading substituted (6.4.2021) by [The Social Security Contributions (Intermediaries) (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/1220)](https://www.legislation.gov.uk/uksi/2020/1220), [regs. 1(1)(3)](https://www.legislation.gov.uk/uksi/2020/1220/regulation/1/1/3), [2(8)(a)](https://www.legislation.gov.uk/uksi/2020/1220/regulation/2/8/a) (with [reg. 5](https://www.legislation.gov.uk/uksi/2020/1220/regulation/5))
+
+[^key-7b3667b618b9cf0190941a4fb4279b34]: Textual amendment: Part 2 inserted (incorporating regs. 13-23) (6.4.2017) by [The Social Security (Miscellaneous Amendments No. 2) Regulations 2017 (S.I. 2017/373)](https://www.legislation.gov.uk/uksi/2017/373), [regs. 1](https://www.legislation.gov.uk/uksi/2017/373/regulation/1), [2(13)](https://www.legislation.gov.uk/uksi/2017/373/regulation/2/13)
+
+[^key-83e1c8f2d989c5b80813e732c41fb4e5]: Textual amendment: [Reg. 13(1)(b)](https://www.legislation.gov.uk/uksi/2000/727/regulation/13/1/b) omitted (6.4.2021) by virtue of [The Social Security Contributions (Intermediaries) (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/1220)](https://www.legislation.gov.uk/uksi/2020/1220), [regs. 1(1)(3)](https://www.legislation.gov.uk/uksi/2020/1220/regulation/1/1), [2(9)(a)(i)](https://www.legislation.gov.uk/uksi/2020/1220/regulation/2/9/a/i) (with reg. 5)
+
+[^key-514d7d0931c3fb10454df78bfb1cf11c]: Textual amendment: Word in [reg. 13(1)](https://www.legislation.gov.uk/uksi/2000/727/regulation/13/1) omitted (6.4.2021) by virtue of [The Social Security Contributions (Intermediaries) (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/1220)](https://www.legislation.gov.uk/uksi/2020/1220), [regs. 1(1)(3)](https://www.legislation.gov.uk/uksi/2020/1220/regulation/1/1), [2(9)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1220/regulation/2/9/a/ii) (with reg. 5)
+
+[^key-fbd6587f5fcc961d85dd5cf1034bb52f]: Textual amendment: [Reg. 13(1)(ca)](https://www.legislation.gov.uk/uksi/2000/727/regulation/13/1/ca) inserted (6.4.2021) by [The Social Security Contributions (Intermediaries) (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/1220)](https://www.legislation.gov.uk/uksi/2020/1220), [regs. 1(1)(3)](https://www.legislation.gov.uk/uksi/2020/1220/regulation/1/1), [2(9)(a)(iii)](https://www.legislation.gov.uk/uksi/2020/1220/regulation/2/9/a/iii) (with reg. 5)
+
+[^key-3a99944d3f0b83cdb32b6aa13a304c76]: Textual amendment: [Reg. 13(1A)](https://www.legislation.gov.uk/uksi/2000/727/regulation/13/1A) inserted (6.4.2021) by [The Social Security Contributions (Intermediaries) (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/1220)](https://www.legislation.gov.uk/uksi/2020/1220), [regs. 1(1)(3)](https://www.legislation.gov.uk/uksi/2020/1220/regulation/1/1), [2(9)(b)](https://www.legislation.gov.uk/uksi/2020/1220/regulation/2/9/b) (with reg. 5)
+
+[^key-cab89af90eec7faa875c7989ae850d22]: Textual amendment: Words in [reg. 14(3)](https://www.legislation.gov.uk/uksi/2000/727/regulation/14/3) inserted (6.4.2021) by [The Social Security Contributions (Intermediaries) (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/1220)](https://www.legislation.gov.uk/uksi/2020/1220), [regs. 1(1)(3)](https://www.legislation.gov.uk/uksi/2020/1220/regulation/1/1), [2(10)(a)(i)](https://www.legislation.gov.uk/uksi/2020/1220/regulation/2/10/a/i) (with reg. 5)
+
+[^key-45a8e4c3a06382476c852838e5c4cf1c]: Textual amendment: Word in [reg. 14(3)](https://www.legislation.gov.uk/uksi/2000/727/regulation/14/3) inserted (6.4.2021) by [The Social Security Contributions (Intermediaries) (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/1220)](https://www.legislation.gov.uk/uksi/2020/1220), [regs. 1(1)(3)](https://www.legislation.gov.uk/uksi/2020/1220/regulation/1/1), [2(10)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1220/regulation/2/10/a/ii) (with reg. 5)
+
+[^key-c40699fd088b278f8a2d717b712c89c8]: Textual amendment: Words in [reg. 14(3)](https://www.legislation.gov.uk/uksi/2000/727/regulation/14/3) substituted (6.4.2021) by [The Social Security Contributions (Intermediaries) (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/308)](https://www.legislation.gov.uk/uksi/2021/308), [regs. 1(3)(4)](https://www.legislation.gov.uk/uksi/2021/308/regulation/1/3), [3(2)(a)](https://www.legislation.gov.uk/uksi/2021/308/regulation/3/2/a)
+
+[^key-b49a1206275d4559b8eaf760dfb16086]: Textual amendment: [Reg. 14(5)](https://www.legislation.gov.uk/uksi/2000/727/regulation/14/5)[(5A)](https://www.legislation.gov.uk/uksi/2000/727/regulation/14/5A) substituted for [reg. 14(5)](https://www.legislation.gov.uk/uksi/2000/727/regulation/14/5) (6.4.2021) by [The Social Security Contributions (Intermediaries) (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/1220)](https://www.legislation.gov.uk/uksi/2020/1220), [regs. 1(1)(3)](https://www.legislation.gov.uk/uksi/2020/1220/regulation/1/1), [2(10)(b)](https://www.legislation.gov.uk/uksi/2020/1220/regulation/2/10/b) (with reg. 5)
+
+[^key-20fff84298563ee79fd5f7eba23e4ab5]: Textual amendment: Words in [reg. 14(5)](https://www.legislation.gov.uk/uksi/2000/727/regulation/14/5) substituted (6.4.2021) by [The Social Security Contributions (Intermediaries) (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/308)](https://www.legislation.gov.uk/uksi/2021/308), [regs. 1(3)(4)](https://www.legislation.gov.uk/uksi/2021/308/regulation/1/3), [3(2)(b)](https://www.legislation.gov.uk/uksi/2021/308/regulation/3/2/b)
+
+[^key-33d70aee44181fa6efe7df32e464844b]: Textual amendment: Words in [reg. 14(5A)](https://www.legislation.gov.uk/uksi/2000/727/regulation/14/5A) substituted (6.4.2021) by [The Social Security Contributions (Intermediaries) (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/308)](https://www.legislation.gov.uk/uksi/2021/308), [regs. 1(3)(4)](https://www.legislation.gov.uk/uksi/2021/308/regulation/1/3), [3(2)(c)](https://www.legislation.gov.uk/uksi/2021/308/regulation/3/2/c)
+
+[^key-29ae7c210f86f444e94e287a6f9a335e]: Textual amendment: [Reg. 14(8)(za)](https://www.legislation.gov.uk/uksi/2000/727/regulation/14/8/za) inserted (6.4.2021) by [The Social Security Contributions (Intermediaries) (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/1220)](https://www.legislation.gov.uk/uksi/2020/1220), [regs. 1(1)(3)](https://www.legislation.gov.uk/uksi/2020/1220/regulation/1/1), [2(10)(c)](https://www.legislation.gov.uk/uksi/2020/1220/regulation/2/10/c) (with reg. 5)
+
+[^key-a96abdcf1d604cad8aced33a0199d940]: Textual amendment: [Reg. 14(8A)](https://www.legislation.gov.uk/uksi/2000/727/regulation/14/8A) inserted (6.4.2021) by [The Social Security Contributions (Intermediaries) (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/1220)](https://www.legislation.gov.uk/uksi/2020/1220), [regs. 1(1)(3)](https://www.legislation.gov.uk/uksi/2020/1220/regulation/1/1), [2(10)(d)](https://www.legislation.gov.uk/uksi/2020/1220/regulation/2/10/d) (with reg. 5)
+
+[^key-ebbb3474838a47155390ca363b1a3feb]: Textual amendment: Reg. 14A inserted (6.4.2021) by [The Social Security Contributions (Intermediaries) (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/1220)](https://www.legislation.gov.uk/uksi/2020/1220), [regs. 1(1)(3)](https://www.legislation.gov.uk/uksi/2020/1220/regulation/1/1/3), [2(11)](https://www.legislation.gov.uk/uksi/2020/1220/regulation/2/11) (with [reg. 5](https://www.legislation.gov.uk/uksi/2020/1220/regulation/5))
+
+[^key-3d2c6dd3c155eff950c831546b134688]: Textual amendment: [Reg. 15(1)(b)](https://www.legislation.gov.uk/uksi/2000/727/regulation/15/1/b) substituted (6.4.2021) by [The Social Security Contributions (Intermediaries) (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/308)](https://www.legislation.gov.uk/uksi/2021/308), [regs. 1(3)(4)](https://www.legislation.gov.uk/uksi/2021/308/regulation/1/3), [3(3)(a)](https://www.legislation.gov.uk/uksi/2021/308/regulation/3/3/a)
+
+[^key-622ed405c7f339f96b463fb075ef313b]: Textual amendment: [Reg. 15(1A)](https://www.legislation.gov.uk/uksi/2000/727/regulation/15/1A)[(1B)](https://www.legislation.gov.uk/uksi/2000/727/regulation/15/1B) inserted (6.4.2021) by [The Social Security Contributions (Intermediaries) (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/308)](https://www.legislation.gov.uk/uksi/2021/308), [regs. 1(3)(4)](https://www.legislation.gov.uk/uksi/2021/308/regulation/1/3), [3(3)(b)](https://www.legislation.gov.uk/uksi/2021/308/regulation/3/3/b)
+
+[^key-fec470dae4dfb42e2bac7d28646a331a]: Textual amendment: [Reg. 15(4A)-(4C)](https://www.legislation.gov.uk/uksi/2000/727/regulation/15/4A) inserted (6.4.2021) by [The Social Security Contributions (Intermediaries) (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/308)](https://www.legislation.gov.uk/uksi/2021/308), [regs. 1(3)(4)](https://www.legislation.gov.uk/uksi/2021/308/regulation/1/3), [3(3)(c)](https://www.legislation.gov.uk/uksi/2021/308/regulation/3/3/c)
+
+[^key-c40efc3431783564b097675444b38787]: Textual amendment: [Reg. 16(3)](https://www.legislation.gov.uk/uksi/2000/727/regulation/16/3) omitted (6.4.2021) by virtue of [The Social Security Contributions (Intermediaries) (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/1220)](https://www.legislation.gov.uk/uksi/2020/1220), [regs. 1(1)(3)](https://www.legislation.gov.uk/uksi/2020/1220/regulation/1/1), [2(13)](https://www.legislation.gov.uk/uksi/2020/1220/regulation/2/13) (with reg. 5)
+
+[^key-ca0af57cc48d8e36a3bfb638dee6098e]: Textual amendment: Regs. 20 and 20A substituted for reg. 20 (6.4.2021) by [The Social Security Contributions (Intermediaries) (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/1220)](https://www.legislation.gov.uk/uksi/2020/1220), [regs. 1(1)(3)](https://www.legislation.gov.uk/uksi/2020/1220/regulation/1/1/3), [2(14)](https://www.legislation.gov.uk/uksi/2020/1220/regulation/2/14) (with [reg. 5](https://www.legislation.gov.uk/uksi/2020/1220/regulation/5))
+
+[^key-cc064876d0834867d0e037b444c8ff92]: Textual amendment: Words in [reg. 20(3)](https://www.legislation.gov.uk/uksi/2000/727/regulation/20/3) substituted (6.4.2021) by [The Social Security Contributions (Intermediaries) (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/308)](https://www.legislation.gov.uk/uksi/2021/308), [regs. 1(3)(4)](https://www.legislation.gov.uk/uksi/2021/308/regulation/1/3), [3(4)](https://www.legislation.gov.uk/uksi/2021/308/regulation/3/4)
+
+[^key-3bf43a2f922192c59c94cab1ba90cd09]: Textual amendment: Words in [reg. 21](https://www.legislation.gov.uk/uksi/2000/727/regulation/21) heading inserted (6.4.2021) by [The Social Security Contributions (Intermediaries) (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/308)](https://www.legislation.gov.uk/uksi/2021/308), [regs. 1(3)(4)](https://www.legislation.gov.uk/uksi/2021/308/regulation/1/3), [3(5)(a)](https://www.legislation.gov.uk/uksi/2021/308/regulation/3/5/a)
+
+[^key-f45af8d07700c7bbf8864bb8b816c2f3]: Textual amendment: Words in [reg. 21(1)](https://www.legislation.gov.uk/uksi/2000/727/regulation/21/1) substituted (6.4.2021) by [The Social Security Contributions (Intermediaries) (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/308)](https://www.legislation.gov.uk/uksi/2021/308), [regs. 1(3)(4)](https://www.legislation.gov.uk/uksi/2021/308/regulation/1/3), [3(5)(b)](https://www.legislation.gov.uk/uksi/2021/308/regulation/3/5/b)
+
+[^key-46f087890589a6e360ba5b77b4244ecb]: Textual amendment: Words in [reg. 21(2)](https://www.legislation.gov.uk/uksi/2000/727/regulation/21/2) substituted (6.4.2021) by [The Social Security Contributions (Intermediaries) (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/308)](https://www.legislation.gov.uk/uksi/2021/308), [regs. 1(3)(4)](https://www.legislation.gov.uk/uksi/2021/308/regulation/1/3), [3(5)(b)](https://www.legislation.gov.uk/uksi/2021/308/regulation/3/5/b)
+
+[^key-88ff3561289763eef0bf99f2b69e0539]: Textual amendment: Words in [reg. 21(3)](https://www.legislation.gov.uk/uksi/2000/727/regulation/21/3) inserted (6.4.2021) by [The Social Security Contributions (Intermediaries) (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/308)](https://www.legislation.gov.uk/uksi/2021/308), [regs. 1(3)(4)](https://www.legislation.gov.uk/uksi/2021/308/regulation/1/3), [3(5)(c)](https://www.legislation.gov.uk/uksi/2021/308/regulation/3/5/c)
+
+[^key-110e0d5a2404e81b46247f4bf316fe76]: Textual amendment: Words in [reg. 22(2)](https://www.legislation.gov.uk/uksi/2000/727/regulation/22/2) substituted (6.4.2021) by [The Social Security Contributions (Intermediaries) (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/308)](https://www.legislation.gov.uk/uksi/2021/308), [regs. 1(3)(4)](https://www.legislation.gov.uk/uksi/2021/308/regulation/1/3), [3(6)(a)](https://www.legislation.gov.uk/uksi/2021/308/regulation/3/6/a)
+
+[^key-99336068004769e77db17d8765040095]: Textual amendment: Words in [reg. 22(3)](https://www.legislation.gov.uk/uksi/2000/727/regulation/22/3) substituted (6.4.2021) by [The Social Security Contributions (Intermediaries) (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/308)](https://www.legislation.gov.uk/uksi/2021/308), [regs. 1(3)(4)](https://www.legislation.gov.uk/uksi/2021/308/regulation/1/3), [3(6)(b)](https://www.legislation.gov.uk/uksi/2021/308/regulation/3/6/b)
+
+[^key-b822d792027cdf24b2cb46b8b331d9d6]: Textual amendment: [Reg. 22(4A)](https://www.legislation.gov.uk/uksi/2000/727/regulation/22/4A) inserted (6.4.2026) by [The Social Security Contributions (Umbrella Companies) Regulations 2026 (S.I. 2026/388)](https://www.legislation.gov.uk/uksi/2026/388), [regs. 1](https://www.legislation.gov.uk/uksi/2026/388/regulation/1), [8](https://www.legislation.gov.uk/uksi/2026/388/regulation/8)
+
+[^key-16b202621a147f13272b15843d1ee384]: Textual amendment: [Reg. 22(5)(d)](https://www.legislation.gov.uk/uksi/2000/727/regulation/22/5/d) inserted (6.4.2021) by [The Social Security Contributions (Intermediaries) (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/308)](https://www.legislation.gov.uk/uksi/2021/308), [regs. 1(3)(4)](https://www.legislation.gov.uk/uksi/2021/308/regulation/1/3), [3(6)(c)](https://www.legislation.gov.uk/uksi/2021/308/regulation/3/6/c)
+
+[^key-f5dad12db54a0d7bbcd03bd2b7038814]: Textual amendment: Words in [reg. 23(1)(b)](https://www.legislation.gov.uk/uksi/2000/727/regulation/23/1/b) substituted (6.4.2021) by [The Social Security Contributions (Intermediaries) (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/1220)](https://www.legislation.gov.uk/uksi/2020/1220), [regs. 1(1)(3)](https://www.legislation.gov.uk/uksi/2020/1220/regulation/1/1), [2(15)(a)](https://www.legislation.gov.uk/uksi/2020/1220/regulation/2/15/a) (with reg. 5)
+
+[^key-44f9685a1d2b1b0b5c731bb6466f393f]: Textual amendment: Words in [reg. 23(1)(d)](https://www.legislation.gov.uk/uksi/2000/727/regulation/23/1/d) substituted (6.4.2021) by [The Social Security Contributions (Intermediaries) (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/1220)](https://www.legislation.gov.uk/uksi/2020/1220), [regs. 1(1)(3)](https://www.legislation.gov.uk/uksi/2020/1220/regulation/1/1), [2(15)(b)](https://www.legislation.gov.uk/uksi/2020/1220/regulation/2/15/b) (with reg. 5)
+
+[^key-e503521b79253b1879611df59b004cd7]: Textual amendment: [Reg. 24](https://www.legislation.gov.uk/uksi/2000/727/regulation/24) inserted (6.4.2021) by [The Social Security Contributions (Intermediaries) (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/308)](https://www.legislation.gov.uk/uksi/2021/308), [regs. 1(3)(4)](https://www.legislation.gov.uk/uksi/2021/308/regulation/1/3), [3(7)](https://www.legislation.gov.uk/uksi/2021/308/regulation/3/7)

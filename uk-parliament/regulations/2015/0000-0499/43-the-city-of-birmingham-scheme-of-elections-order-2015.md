@@ -1,0 +1,117 @@
+---
+title: The City of Birmingham (Scheme of Elections) Order 2015
+id: uksi/2015/43
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2015-01-21'
+text_date: '2015-04-16'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2015/43
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2015/43/pdfs/uksiem_20150043_en.pdf
+- http://www.legislation.gov.uk/uksi/2015/43/pdfs/uksi_20150043_en.pdf
+- http://www.legislation.gov.uk/uksi/2015/43/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The City of Birmingham (Scheme of Elections) Order 2015
+
+> Text as at 2015-04-16.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2015 No. 43
+
+Local Government, England
+
+The City of Birmingham (Scheme of Elections) Order 2015
+
+Made
+
+21st January 2015
+
+Laid before Parliament
+
+22nd January 2015
+
+Coming into force
+
+16th February 2015
+
+The Secretary of State, in exercise of the powers conferred by sections 86(A1), (3), (4) and (7), 87(1) and (3) and 105 of the Local Government Act 2000[^f00001] makes the following Order:
+
+## 1. Citation, commencement and interpretation[^key-ca09cfd8812d6b2428c3fb2f5d73e2ea]
+
+(1) This Order may be cited as the City of Birmingham (Scheme of Elections) Order 2015 and shall come into force on 16th February 2015.
+
+(2) In this Order—
+
+- “city” means the City of Birmingham[^f00002];
+- “the ordinary day of election of councillors” has the same meaning as in section 37 of the Representation of the People Act 1983[^f00003].
+
+## 2. Elections of the council of the City of Birmingham[^key-903d0cb8cf605f64a26798b3480f7190]
+
+(1) Subject to paragraph (4), the scheme for the ordinary elections of councillors for all wards of the city is a scheme under which—
+
+- (a) the term of office of councillors is four years;
+- (b) the elections are held in a given year and every fourth year after it;
+- (c) all the councillors are elected in each year in which the elections are held; and
+- (d) the councillors retire together.
+
+(2) The first ordinary elections of councillors under the scheme referred to in paragraph (1) shall be held on the ordinary day of election of councillors in 2018[^key-5b6e754300bb3b031a8723935a0788f6].
+
+(3) The councillors holding office for any ward of the city immediately before the fourth day after the ordinary day of election of councillors in 2018 shall retire on that date and the newly elected councillors for those wards shall come into office on that date.
+
+(4) The scheme specified in paragraph (1) only has effect in relation to the ordinary elections of councillors on or after the ordinary day of election of councillors in 2018.
+
+## 3. Changes to years of parish elections for the parish of New Frankley[^key-c0f753a024029b07d2edaf2161dd545c]
+
+(1) The ordinary elections of parish councillors for the parish of New Frankley that would, but for this Order, have taken place in 2016 and every fourth year after 2016 shall instead take place on the ordinary day of election of councillors in 2018[^key-f5cb3c874a4d27ce66c518f23ad30e2b] and every fourth year after 2018.
+
+(2) The parish councillors holding office in the parish of New Frankley who would, but for this Order, have retired on the fourth day after the ordinary day of election of councillors in 2016 shall retire on the fourth day after the ordinary day of election of councillors in 2018 and the newly elected parish councillors shall come into office on that date.
+
+Signed by
+
+Eric Pickles
+
+Secretary of State
+
+Department for Communities and Local Government
+
+21st January 2015
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order provides a new scheme for the holding of the ordinary elections of councillors of all wards in the City of Birmingham. It replaces the previous scheme for the ordinary election of councillors by thirds. It also changes the year of election for parish councillors in the parish of New Frankley within the city.
+
+Article 2 provides for whole council elections every four years starting in 2017. It deals with the retirement of existing councillors and the coming into office of newly elected councillors following the elections in 2017.
+
+Article 3 provides for the parish of New Frankley to have parish council elections in 2017 and every fourth year thereafter, so that they take place in the same year as city council elections.
+
+An impact assessment has not been produced for this instrument as no impact on business or the private or voluntary sector is foreseen.
+
+## Annotations
+
+[^f00001]: Footnote: [2000 c.22](https://www.legislation.gov.uk/ukpga/2000/22). Subsection (A1) was inserted by section 54(3) of the Local Government and Public Involvement in Health Act [2007 (c.28)](https://www.legislation.gov.uk/ukpga/2007/28).
+
+[^key-ca09cfd8812d6b2428c3fb2f5d73e2ea]: Commencement: Art. 1 in force at 16.2.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/43/article/1/1)
+
+[^f00002]: Footnote: The metropolitan borough of Birmingham has the status of a city.
+
+[^f00003]: Footnote: [1983 c. 2](https://www.legislation.gov.uk/ukpga/1983/2). Relevant amendments were made by the Greater London Authority Act [1999 (c. 29)](https://www.legislation.gov.uk/ukpga/1999/29), section 17 and Schedule 3 and by the Local Government and Public Involvement in Health Act [2007 (c. 28)](https://www.legislation.gov.uk/ukpga/2007/28), section 245(2).
+
+[^key-903d0cb8cf605f64a26798b3480f7190]: Commencement: Art. 2 in force at 16.2.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/43/article/1/1)
+
+[^key-5b6e754300bb3b031a8723935a0788f6]: Textual amendment: Word in [art. 2](https://www.legislation.gov.uk/uksi/2015/43/article/2) substituted (16.4.2015) by [The City of Birmingham (Scheme of Elections) (Amendment) Order 2015 (S.I. 2015/666)](https://www.legislation.gov.uk/uksi/2015/666), [arts. 1](https://www.legislation.gov.uk/uksi/2015/666/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2015/666/article/2/2)
+
+[^key-c0f753a024029b07d2edaf2161dd545c]: Commencement: Art. 3 in force at 16.2.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/43/article/1/1)
+
+[^key-f5cb3c874a4d27ce66c518f23ad30e2b]: Textual amendment: Word in [art. 3](https://www.legislation.gov.uk/uksi/2015/43/article/3) substituted (16.4.2015) by [The City of Birmingham (Scheme of Elections) (Amendment) Order 2015 (S.I. 2015/666)](https://www.legislation.gov.uk/uksi/2015/666), [arts. 1](https://www.legislation.gov.uk/uksi/2015/666/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2015/666/article/2/2)

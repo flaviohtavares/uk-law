@@ -1,0 +1,270 @@
+---
+title: Social Security (Additional Payments) Act 2023
+id: ukpga/2023/7
+type: UnitedKingdomPublicGeneralAct
+category: primary
+status: revised
+made_date: '2023-03-23'
+text_date: '2023-03-23'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2023/7
+pdf_urls:
+- http://www.legislation.gov.uk/ukpga/2023/7/pdfs/ukpgaen_20230007_en.pdf
+- http://www.legislation.gov.uk/ukpga/2023/7/pdfs/ukpga_20230007_en.pdf
+- http://www.legislation.gov.uk/ukpga/2023/7/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Social Security (Additional Payments) Act 2023
+
+> Text as at 2023-03-23.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+Social Security (Additional Payments) Act 2023
+
+2023 Chapter 7
+
+An Act to make provision about additional payments to recipients of means-tested benefits, tax credits and disability benefits.
+
+\[23rd March 2023\]
+
+Be it enacted by the King’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
+
+## Means-tested additional payments
+
+### 1. Means-tested additional payments: main payments[^key-3007981296003981882fdb6a3319b4de]
+
+(1) The Secretary of State must secure that—
+
+- (a) a single payment of £301 is made to any person who has a qualifying entitlement to a social security benefit in respect of the first qualifying day,
+- (b) a single payment of £300 is made to any person who has a qualifying entitlement to a social security benefit in respect of the second qualifying day, and
+- (c) a single payment of £299 is made to any person who has a qualifying entitlement to a social security benefit in respect of the third qualifying day.
+
+(2) HMRC must secure that—
+
+- (a) a single payment of £301 is made to any person who has a qualifying entitlement to child tax credit or working tax credit, but not to a social security benefit, in respect of the first qualifying day,
+- (b) a single payment of £300 is made to any person who has a qualifying entitlement to child tax credit or working tax credit, but not to a social security benefit, in respect of the second qualifying day, and
+- (c) a single payment of £299 is made to any person who has a qualifying entitlement to child tax credit or working tax credit, but not to a social security benefit, in respect of the third qualifying day.
+
+(3) The social security benefits are—
+
+- (a) universal credit under the Welfare Reform Act 2012 or the Welfare Reform (Northern Ireland) Order 2015 ([S.I. 2015/2006 (N.I. 1))](https://www.legislation.gov.uk/nisi/2015/2006);
+- (b) state pension credit under the State Pension Credit Act 2002 or the State Pension Credit Act (Northern Ireland) 2002;
+- (c) an income-based jobseeker’s allowance under the Jobseekers Act 1995 or the Jobseekers (Northern Ireland) Order 1995 ([S.I. 1995/2705 (N.I. 15))](https://www.legislation.gov.uk/nisi/1995/2705);
+- (d) an income-related employment and support allowance under Part 1 of the Welfare Reform Act 2007 or Part 1 of the Welfare Reform Act (Northern Ireland) 2007;
+- (e) income support under section 124 of the Social Security Contributions and Benefits Act 1992 or section 123 of the Social Security Contributions and Benefits (Northern Ireland) Act 1992.
+
+(4) The first qualifying day is such day, not later than 30 April 2023, as may be specified by the Secretary of State in regulations.
+
+(5) Regulations under subsection (4) may specify a day before this Act or the regulations are in force.
+
+(6) The second qualifying day is such day, not later than 31 October 2023, as may be specified by the Secretary of State in regulations.
+
+(7) The third qualifying day is such day, not later than 29 February 2024, as may be specified by the Secretary of State in regulations.
+
+(8) Regulations under subsections (6) and (7) may specify a day before the regulations are in force.
+
+(9) In this section, and in sections 2 to 4, references to a “person” are to an individual or to a couple (but not to each member of a couple separately).
+
+### 2. Qualifying entitlements: social security benefits[^key-5fd835da32a9d2b6e0a3618ab9f62ee8]
+
+(1) A person has a qualifying entitlement to a social security benefit in respect of a qualifying day if—
+
+- (a) in respect of universal credit, the person is entitled to a payment of at least 1p in respect of an assessment period ending during the period of one month ending with the qualifying day;
+- (b) in respect of state pension credit, an income-based jobseeker’s allowance, an income-related employment and support allowance or income support, the person is entitled to a payment of at least 1p in respect of any day during the period of one month ending with the qualifying day.
+
+(2) For the purposes of subsection (1)(b), a person is considered to be entitled to a payment irrespective of whether that payment is not payable as a result of—
+
+- (a) regulation 13 of the State Pension Credit Regulations 2002 ([S.I. 2002/1792](https://www.legislation.gov.uk/uksi/2002/1792));
+- (b) regulation 13 of the State Pension Credit Regulations (Northern Ireland) 2003 (S.R. [(N.I.) 2003 No. 28](https://www.legislation.gov.uk/nisr/2003/28));
+- (c) regulation 87A of the Jobseeker’s Allowance Regulations 1996 ([S.I. 1996/207](https://www.legislation.gov.uk/uksi/1996/207));
+- (d) regulation 87A of the Jobseeker’s Allowance Regulations (Northern Ireland) 1996 (S.R. [(N.I.) 1996 No. 198](https://www.legislation.gov.uk/nisr/1996/198));
+- (e) regulation 26(4) or 26C(6) of the Social Security (Claims and Payments) Regulations 1987 ([S.I. 1987/1968](https://www.legislation.gov.uk/uksi/1987/1968));
+- (f) regulation 26(4) or 26C(6) of the Social Security (Claims and Payments) Regulations (Northern Ireland) 1987 (S.R. [(N.I.) 1987 No. 465](https://www.legislation.gov.uk/nisr/1987/465)).
+
+### 3. Qualifying entitlements: tax credits[^key-9e120c694bbadd936a5db68d9f6a426f]
+
+(1) A person has a qualifying entitlement to child tax credit or working tax credit in respect of a qualifying day if HMRC makes a payment to the person of the credit in question in respect of a day falling within the period of one month ending with that qualifying day (the “qualifying period”).
+
+(2) References in this section to HMRC making a payment do not include—
+
+- (a) a payment made under regulation 10 of the Tax Credits (Payments by the Commissioners) Regulations 2002 ([S.I. 2002/2173](https://www.legislation.gov.uk/uksi/2002/2173)), where the person to whom HMRC has made the payment would not be entitled to that payment if their entitlement were assessed on any day during the qualifying period, or
+- (b) a payment made as a result of fraud.
+
+### 4. Applicable benefits or tax credits[^key-2a5660229a70365e86564bc1eee783e1]
+
+(1) Where a person has a qualifying entitlement to more than one social security benefit in respect of a qualifying day, the benefit by reference to which the means-tested additional payment in respect of the qualifying day is to be paid is the first benefit in the list in section 1(3) to which the person has a qualifying entitlement (if the payment is made under section 1(1)).
+
+(2) Where a person has a qualifying entitlement to child tax credit and to working tax credit in respect of a qualifying day, the tax credit by reference to which the means-tested additional payment in respect of the qualifying day is to be paid is child tax credit (if the payment is made under section 1(2)).
+
+## Disability additional payments
+
+### 5. Disability additional payments[^key-41457704ae157012101972eafdc04df7]
+
+(1) The Secretary of State must secure that a single payment of £150 (a “disability additional payment”) is made to each individual who is entitled to a payment of a disability benefit that is payable in respect of the disability additional payment day.
+
+(2) The disability benefits are—
+
+- (a) a disability living allowance under section 71 of the Social Security Contributions and Benefits Act 1992 or section 71 of the Social Security Contributions and Benefits (Northern Ireland) Act 1992;
+- (b) a personal independence payment under the Welfare Reform Act 2012 or Part 5 of the Welfare Reform (Northern Ireland) Order 2015 ([S.I. 2015/2006 (N.I. 1))](https://www.legislation.gov.uk/nisi/2015/2006);
+- (c) an attendance allowance under section 64 of the Social Security Contributions and Benefits Act 1992 or section 64 of the Social Security Contributions and Benefits (Northern Ireland) Act 1992;
+- (d) a constant attendance allowance under section 104 of the Social Security Contributions and Benefits Act 1992 or section 104 of the Social Security Contributions and Benefits (Northern Ireland) Act 1992;
+- (e) an adult disability payment under the Disability Assistance for Working Age People (Scotland) Regulations 2022 ([S.S.I. 2022/54](https://www.legislation.gov.uk/ssi/2022/54)) or the Disability Assistance for Working Age People (Transitional Provisions and Miscellaneous Amendment) (Scotland) Regulations 2022 ([S.S.I. 2022/217](https://www.legislation.gov.uk/ssi/2022/217));
+- (f) a child disability payment under the Disability Assistance for Children and Young People (Scotland) Regulations 2021 ([S.S.I. 2021/174](https://www.legislation.gov.uk/ssi/2021/174));
+- (g) an armed forces independence payment under article 24A of the Armed Forces and Reserve Forces (Compensation Scheme) Order 2011 ([S.I. 2011/517](https://www.legislation.gov.uk/uksi/2011/517));
+- (h) a constant attendance allowance under—
+  - (i) article 14 or 43 of the Personal Injuries (Civilians) Scheme 1983 ([S.I. 1983/686](https://www.legislation.gov.uk/uksi/1983/686));
+  - (ii) article 8 of the Naval, Military and Air Forces etc. (Disablement and Death) Service Pensions Order 2006 ([S.I. 2006/606](https://www.legislation.gov.uk/uksi/2006/606));
+- (i) a mobility supplement under—
+  - (i) article 25A or 48A of the Personal Injuries (Civilians) Scheme 1983;
+  - (ii) article 20 of the Naval, Military and Air Forces etc. (Disablement and Death) Service Pensions Order 2006 ([S.I. 2006/606](https://www.legislation.gov.uk/uksi/2006/606)).
+
+(3) The disability additional payment day is such day, not later than 30 June 2023, as may be specified by the Secretary of State in regulations.
+
+(4) Regulations under subsection (3) may specify a day before the regulations are in force.
+
+(5) Where an individual is entitled to a payment of more than one disability benefit that is payable in respect of the disability additional payment day, the benefit by reference to which the disability additional payment is to be made is the first benefit in the list in subsection (2) to which the individual is entitled.
+
+## Administration etc
+
+### 6. Administration of additional payments[^key-3addab17e0050d3524d46d326722be5e]
+
+(1) For all purposes relating to the administration of an additional payment, any provision applying in relation to a social security benefit, child tax credit, working tax credit or disability benefit by reference to which that payment is made is to apply in relation to that payment as if that payment were a payment of the social security benefit, child tax credit, working tax credit or disability benefit in question.
+
+(2) The provision applied by subsection (1)—
+
+- (a) includes provision relating to overpayments and recovery, and appeals relating to overpayments and recovery (but not provision relating to appeals or reviews about entitlement to the social security benefit, tax credit or disability benefit in question), and
+- (b) is subject to any necessary modifications.
+
+(3) Subsection (1) has effect in relation to a payment made in purported compliance with a duty in section 1 or 5 as if that payment were the additional payment which it purported to be.
+
+(4) Subsection (1) (including as it has effect as a result of subsection (3)) is subject to regulations made by the Secretary of State, the Treasury or HMRC under subsection (5).
+
+(5) The Secretary of State, the Treasury or HMRC may by regulations make provision, in relation to additional payments or payments purporting to be additional payments, applying or disapplying, with or without modifications, any provision applying in relation to a social security benefit, child tax credit, working tax credit or disability benefit.
+
+(6) The regulations may make provision having effect from the day on which this Act comes into force.
+
+### 7. Cooperation etc between the Secretary of State and HMRC[^key-a81c86adb02ef299a2701f168ad1a679]
+
+(1) The Secretary of State and HMRC must cooperate in exercising their functions in relation to additional payments.
+
+(2) Section 3 of the Social Security Act 1998 (use of information) has effect—
+
+- (a) in relation to HMRC as it has effect in relation to the Secretary of State, and
+- (b) as if, in subsection (1A), the reference to social security included additional payments.
+
+(3) Section 127 of the Welfare Reform Act 2012 (information-sharing between Secretary of State and HMRC) has effect as if—
+
+- (a) functions of HMRC conferred by or under this Act were HMRC functions within the meaning of that section, and
+- (b) functions of the Secretary of State conferred by or under this Act were departmental functions within the meaning of that section.
+
+(4) Section 34 of the Scotland Act 2016 (information-sharing between the Secretary of State and the Scottish Ministers) has effect as if, in subsection (7), the reference to social security in the definition of “social security function” included additional payments.
+
+(5) Subsection (6) applies where—
+
+- (a) the Secretary of State or HMRC make a payment to a person in purported compliance with a duty in section 1,
+- (b) the person was entitled to receive an additional payment of an amount equal to that payment under a different duty in section 1 (“the applicable duty”), and
+- (c) the person does not receive the additional payment to which they are entitled under the applicable duty.
+
+(6) The payment made in purported compliance with a duty in section 1 is to be treated as if it had been made in accordance with the applicable duty (and, accordingly, the payment is not recoverable on the grounds that it was not made in compliance with a duty in section 1).
+
+### 8. Payments to be disregarded for the purposes of tax and social security[^key-f6867d0aaa8b74da916da445bc4be8e2]
+
+No account is to be taken of an additional payment in considering a person’s—
+
+- (a) liability to tax,
+- (b) entitlement to a benefit under an enactment relating to social security (irrespective of the name or nature of the benefit), or
+- (c) entitlement to a tax credit.
+
+### 9. Amendments to other legislation[^key-c99e7c3e5832ce8ade3d5392b8c4886a]
+
+(1) In the Social Security (Additional Payments) Act 2022, in section 6(3), for “or 4” substitute “, 4 or 5”.
+
+(2) The amendment made by subsection (1) is to be treated as having come into force on 28 June 2022.
+
+(3) The Tax Credits Act 2002 (Additional Payments Modification and Disapplication) Regulations 2022 ([S.I. 2022/1208](https://www.legislation.gov.uk/uksi/2022/1208)) are amended in accordance with subsections (4) and (5).
+
+(4) In paragraph (2) of regulation 1—
+
+- (a) for “payments” substitute “a payment”;
+- (b) at the end insert “or section 1(2) of the Social Security (Additional Payments) Act 2023.”
+
+(5) In regulation 6, after “2022” insert “, a payment made under section 1(2) of the Social Security (Additional Payments) Act 2023,”.
+
+(6) The amendments made by subsections (4) and (5) are to be treated as if they had been made by regulations made under sections 6(5) and (6) and 11(1) of this Act.
+
+## Final provisions
+
+### 10. Interpretation[^key-5117cd33fdbf1b8cba31a05c7165fc3b]
+
+(1) In this Act—
+
+- “**additional payment**” means a means-tested additional payment or a disability additional payment;
+- “**disability additional payment**” has the meaning given by section 5(1);
+- “**the disability additional payment day**” means the day specified in regulations under section 5(3);
+- “**disability benefit**” means a benefit listed in section 5(2);
+- “**the first qualifying day**” means the day specified in regulations under section 1(4);
+- “**HMRC**” means the Commissioners for His Majesty’s Revenue and Customs;
+- “**means-tested additional payment**” means a payment under section 1;
+- “**the second qualifying day**” means the day specified in regulations under section 1(6);
+- “**social security benefit**” means a benefit listed in section 1(3);
+- “**the third qualifying day**” means the day specified in regulations under section 1(7).
+
+(2) In this Act—
+
+- (a) references to “a qualifying day” are to—
+  - (i) the first qualifying day specified in regulations under section 1(4),
+  - (ii) the second qualifying day specified in regulations under section 1(6),
+  - (iii) the third qualifying day specified in regulations under section 1(7);
+- (b) references to child tax credit or working tax credit are to child tax credit or working tax credit under the Tax Credits Act 2002.
+
+### 11. Regulations[^key-f8c346b209559fb8ea2208b47ddb1f0b]
+
+(1) A power to make regulations under any provision of this Act includes power to make—
+
+- (a) consequential, supplementary, incidental, transitional or saving provision;
+- (b) different provision for different purposes.
+
+(2) Regulations under this Act are to be made by statutory instrument.
+
+(3) A statutory instrument containing regulations under this Act is subject to annulment in pursuance of a resolution of either House of Parliament.
+
+### 12. Extent, commencement and short title[^key-d7f581ae2f0011cbe9b5a1823c3f2d6e]
+
+(1) This Act extends to England and Wales, Scotland and Northern Ireland.
+
+(2) This Act comes into force on the day on which it is passed.
+
+(3) This Act may be cited as the Social Security (Additional Payments) Act 2023.
+
+## Annotations
+
+[^key-3007981296003981882fdb6a3319b4de]: Commencement: S. 1 in force at Royal Assent, see [s. 12(2)](https://www.legislation.gov.uk/ukpga/2023/7/section/12/2)
+
+[^key-5fd835da32a9d2b6e0a3618ab9f62ee8]: Commencement: S. 2 in force at Royal Assent, see [s. 12(2)](https://www.legislation.gov.uk/ukpga/2023/7/section/12/2)
+
+[^key-9e120c694bbadd936a5db68d9f6a426f]: Commencement: S. 3 in force at Royal Assent, see [s. 12(2)](https://www.legislation.gov.uk/ukpga/2023/7/section/12/2)
+
+[^key-2a5660229a70365e86564bc1eee783e1]: Commencement: S. 4 in force at Royal Assent, see [s. 12(2)](https://www.legislation.gov.uk/ukpga/2023/7/section/12/2)
+
+[^key-41457704ae157012101972eafdc04df7]: Commencement: S. 5 in force at Royal Assent, see [s. 12(2)](https://www.legislation.gov.uk/ukpga/2023/7/section/12/2)
+
+[^key-3addab17e0050d3524d46d326722be5e]: Commencement: S. 6 in force at Royal Assent, see [s. 12(2)](https://www.legislation.gov.uk/ukpga/2023/7/section/12/2)
+
+[^key-a81c86adb02ef299a2701f168ad1a679]: Commencement: S. 7 in force at Royal Assent, see [s. 12(2)](https://www.legislation.gov.uk/ukpga/2023/7/section/12/2)
+
+[^key-f6867d0aaa8b74da916da445bc4be8e2]: Commencement: S. 8 in force at Royal Assent, see [s. 12(2)](https://www.legislation.gov.uk/ukpga/2023/7/section/12/2)
+
+[^key-c99e7c3e5832ce8ade3d5392b8c4886a]: Commencement: S. 9 in force at Royal Assent, see [s. 12(2)](https://www.legislation.gov.uk/ukpga/2023/7/section/12/2)
+
+[^key-5117cd33fdbf1b8cba31a05c7165fc3b]: Commencement: S. 10 in force at Royal Assent, see [s. 12(2)](https://www.legislation.gov.uk/ukpga/2023/7/section/12/2)
+
+[^key-f8c346b209559fb8ea2208b47ddb1f0b]: Commencement: S. 11 in force at Royal Assent, see [s. 12(2)](https://www.legislation.gov.uk/ukpga/2023/7/section/12/2)
+
+[^key-d7f581ae2f0011cbe9b5a1823c3f2d6e]: Commencement: S. 12 in force at Royal Assent, see [s. 12(2)](https://www.legislation.gov.uk/ukpga/2023/7/section/12/2)

@@ -1,0 +1,66 @@
+---
+title: Finance Act 1988, section 18
+act: Finance Act 1988
+section: '18'
+status: repealed
+text_date: '2024-02-22'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/1988/39/section/18
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Finance Act 1988, section 18
+
+> This provision is no longer in force.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 18. Failures to notify and unauthorised issue of invoices.
+
+*Extent: E+W+S+N.I.*
+
+**No longer in force (ended 1994-09-01).**
+
+(1) In subsection (1) of section 15 of the [^c13526531]Finance Act 1985 (failures to notify and unauthorised issue of invoices)—
+
+- (a) in paragraph (a), after the words “paragraphs 3, 4 and 11(2)” there shall be inserted the words “and (3)”;
+- (b) in paragraph (b), for the words “an invoice” there shall be substituted the words “one or more invoices”; and
+- (c) for the words “30 per cent.” there shall be substituted the words “the specified percentage”.
+
+(2) In subsection (3) of that section—
+
+- (a) in paragraph (a), for the word “discovered” there shall be substituted the words “became fully aware of”;
+- (b) in paragraph (b), after the words “sub-paragraph (2)” there shall be inserted the words “or (3)” and for the word “discovered” there shall be substituted the words “became fully aware of”; and
+- (c) in paragraph (c), for the words “such an invoice as is” there shall be substituted the words “one or more such invoices as are” and for the words from “the amount” onwards there shall be substituted the words
+
+  > the amount which is, or the aggregate of the amounts which are—
+  >
+  > - (i) shown on the invoice or invoices as tax, or
+  > - (ii) to be taken as representing tax.
+
+(3) After that subsection there shall be inserted—
+
+> (3A) For the purposes of subsection (1) above the specified percentage is—
+>
+> - (a) 10 per cent. where the relevant tax is given by paragraph (a) or (b) of subsection (3) above and the period referred to in that paragraph does not exceed nine months;
+> - (b) 20 per cent. where that tax is so given and the period so referred to exceeds nine months but does not exceed eighteen months; and
+> - (c) 30 per cent. in any other case.
+
+(4) In section 18 of that Act—
+
+- (a) subsection (2) (which provides for tax to carry interest in certain cases of conduct falling within section 15(1)(a) of that Act) shall cease to have effect; and
+- (b) in subsection (3), for the words “If, in a case where subsection (2) does not apply” there shall be substituted the words “In any case where”.
+
+(5) Where—
+
+- (a) a person is liable to a penalty for conduct falling within paragraph (a) of subsection (1) of section 15 of that Act; and
+- (b) any relevant tax by reference to which that penalty is to be assessed is payable for a period before 16th March 1988,
+
+that subsection shall apply without the amendment made by subsection (1)(c) above in relation to so much of the assessment as is to be made by reference to that tax.
+
+(6) Subsections (1)(b) and (c), (2)(c) and (3) above shall be deemed to have come into force on 16th March 1988.
+
+## Annotations
+
+[^c13526531]: Marginal citation: [1985 c. 54](https://www.legislation.gov.uk/ukpga/1985/54).

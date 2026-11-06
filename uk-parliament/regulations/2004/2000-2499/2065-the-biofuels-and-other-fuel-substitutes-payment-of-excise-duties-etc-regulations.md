@@ -1,0 +1,876 @@
+---
+title: The Biofuels and Other Fuel Substitutes (Payment of Excise Duties etc.) Regulations 2004
+id: uksi/2004/2065
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2004-08-06'
+text_date: '2022-04-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2004/2065
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2004/2065/pdfs/uksiem_20042065_en.pdf
+- http://www.legislation.gov.uk/uksi/2004/2065/pdfs/uksi_20042065_en.pdf
+- http://www.legislation.gov.uk/uksi/2004/2065/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Biofuels and Other Fuel Substitutes (Payment of Excise Duties etc.) Regulations 2004
+
+> Text as at 2022-04-01.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2004 No. 2065
+
+CUSTOMS AND EXCISE
+
+The Biofuels and Other Fuel Substitutes (Payment of Excise Duties etc.) Regulations 2004
+
+Made
+
+6th August 2004
+
+Laid before Parliament
+
+10th August 2004
+
+Coming into force
+
+1st September 2004
+
+The Commissioners of Customs and Excise, in exercise of the powers conferred upon them by sections 93(1)(a), (b), (c), (2)(a) and (c) and (3), 100G(1), 100H(1)(b) and (2), 118A(1) and (2), and 127A(1), (2) and (4) of the Customs and Excise Management Act 1979 [^c9255551], sections 6AC(1)(a) and (b), (2) and (4), 6AF(1)(a) and (b), (2) and (4), 20AA(1)(a) and (2)(a) to (d), (g) (h) and (i), 21(1)(a) and (2) and 24(1) of, and paragraphs 3 and 11 of Schedule 3 and paragraphs 3, 17 and 21 of Schedule 4 to, the Hydrocarbon Oil Duties Act 1979 [^c9255561] and section 1(1), (3), (4)(a) and (6) of the Finance (No. 2) Act 1992 [^c9255571], hereby make the following Regulations:
+
+## PART 1 — Preliminary
+
+### 1. Citation and commencement
+
+(1) These Regulations may be cited as the Biofuels and Other Fuel Substitutes (Payment of Excise Duties etc.) Regulations 2004 and come into force on 1st September 2004.
+
+(2) Part 7 (relief for electricity generation) has effect in relation to any biofuel that is used as motor fuel in a generator to produce electricity on or after 1st September 2004.
+
+### 2. Interpretation
+
+(1)[^key-c864c5d7c32bfd3b6e6401e88d8690cb] In these Regulations—
+
+- “**approved person**” means a person approved by the Commissioners under regulation 4 of the Deferment Regulations;
+- “aqua methanol duty” means the duty charged on aqua methanol by section 6AG of the Oil Act;[^key-401f1df467f5742da131b4617c63f849]
+- “**authorised person**” means a person authorised by the Commissioners;
+- “**biodiesel duty**” means the duty charged on biodiesel by section 6AA(1) of the Oil Act [^c9255581];
+- “**bioethanol duty**” means the duty charged on bioethanol by section 6AD(1) of the Oil Act [^c9255591];
+- “**biofuel**” means aqua methanol,[^key-e9b2da02d641e1778fc83e32df49069b] biodiesel, bioethanol or fuel substitute;
+- “**biofuels duty**” means aqua methanol duty,[^key-d24aeb6d8555362569c0774e49263125] bioethanol duty, biodiesel duty or fuel substitute duty;
+- “**chargeable use**”—
+  - (za) in relation to aqua methanol, means chargeable use within the meaning of section 6AG(2) of the Oil Act,[^key-66ca7e69fc3972be128d6e11439c79b5]
+  - (a) in relation to biodiesel, means chargeable use within the meaning of section 6AA(2) of the Oil Act [^c9255601],
+  - (b) in relation to bioethanol, means chargeable use within the meaning of section 6AD(2) of the Oil Act, and
+  - (c) in relation to fuel substitute, means chargeable use within the meaning of section 6A(2) of the Oil Act [^c9255611];
+- “**the Deferment Regulations**” means the Excise Duties (Deferred Payment) Regulations 1992 [^c9255621];
+- “**duty**” means any duty of excise;
+- “**entered premises**” means premises that have been entered in accordance with regulation 8A or 8E[^key-ac8bf34b9bdcc656a54f9ed0ccabf850];
+- “exempt producer” means a producer who is not liable under regulation 8A or 8E to make entry of production premises;[^key-be05a358e418e946d0322e9f02691651]
+- “**fuel substitute**” means a liquid that is charged with fuel substitute duty;
+- “**fuel substitute duty**” means the duty charged by section 6A of the Oil Act [^c9255631];
+- “[^key-292845ca3949813c090071b2b5e20244]**kerosene heating system**” means a heating system which uses a furnace or boiler which is designed or adapted to use kerosene as fuel;
+- “large producer” means a producer whom the Commissioners have notified is a large producer in accordance with regulation 19A(1) (and that notification has not been withdrawn);[^key-9e3f35584600ae424f310ba4907ec2e4]
+- “**light oil heating system**” means a heating system which uses a furnace or boiler which is designed or adapted to use light oil as fuel;
+- “[^key-849e7533b19d00ac245053c58eafdf47]**motor and heating fuels record**” has the meaning given in regulation 13;
+- “**non-kerosene heating system**” means a heating system which uses a furnace or boiler which is designed or adapted to use heavy oil other than kerosene as fuel;
+- “**the Oil Act**” means the Hydrocarbon Oil Duties Act 1979;
+- “**producer**” means a person who—
+  - (a) sets aside biofuel for a chargeable use, or
+  - (b) makes a chargeable use of biofuel,
+
+  with the consequence that biofuels duty is charged;
+- “**production premises**” means any premises in relation to which a person is a producer[^key-7e68d78b4ef558d0fa66a2e0457413d2]...;
+- “quarter” means the period of three calendar months commencing on 1st January, 1st April, 1st July and 1st October in any year;[^key-6e8266663a843103e671aba51204af32]
+- “section 108” means section 108 of the Customs and Excise Management Act 1979;
+- “**used as motor fuel**” means used—
+  - (a) as fuel for any engine, motor or other machinery, or
+  - (b) as an additive or extender in any substance so used.
+
+(2)[^key-7e8bfffdad100595426fc95fab7c8854] References to “making entry” are references to making entry under section 108 of the Customs and Excise Management Act 1979.
+
+## PART 2 — Effect on other enactments
+
+### 3. Construction of references to hydrocarbon oil etc. in the Oil Act
+
+(1) The references to hydrocarbon oil in the following provisions of the Oil Act are to be construed as including references to biodiesel and bioethanol—
+
+- (a) section 15(1) (drawback of duty on exportation etc.) [^c9255641];
+- (b) section 19(3) (fuel used in lifeboats etc.) [^c9255651];
+- (c) section 20AA(1)(a) (power to allow reliefs)
+- (d) section 21(2) (regulations with respect to hydrocarbon oil);
+- (e) paragraphs 3 and 11 of Schedule 3 (subjects for regulations);
+- (f) paragraphs 17 and 21 of Schedule 4 (subjects for regulations).
+
+(1A)[^key-d41f542facbb8e32321e17a4bb8d35ef] The references to hydrocarbon oil in the following provisions of the Oil Act are to be construed as including references to biodiesel–
+
+- (a) section 24A(2),(3), (5) and (8) (penalties for misuse of marked oil);
+- (b) paragraphs 5, 8 to 10, and 12 to 16 of Schedule 4 (subjects for regulations).
+
+(2) The references to hydrocarbon oil in the following provisions of the Oil Act are to be construed as including references to bioblend and bioethanol blend—
+
+- (a) section 3 (hydrocarbon oil as an ingredient in imported goods);
+- (b) section 15(1) (drawback of duty on exportation etc.);
+- (c) section 19(3) (fuel used in lifeboats etc.);
+- (d) section 20(1)(a) and (3)(a) (contaminated oil);[^key-5482630e5b82314e5d3a0100af31c4e0]
+- (e)[^key-11c413842d25180c4307ac2bf6a216f6] section 20AA(1)(a) (power to allow reliefs)
+- (f) section 21(2) (regulations with respect to hydrocarbon oil etc.);
+- (g) paragraphs 3 and 6 to 11 of Schedule 3 (subjects for regulations).
+
+(2A)[^key-ac14bbd879c5338ac17bddb84bd1130b] The references to hydrocarbon oil in the following provisions of the Oil Act are to be construed as including references to bioblend—
+
+- (a) section 24A(2), (3), (5) and (8) (penalties for misuse of marked oil);
+- (c) paragraphs 5, 8 to 10, 12 to 17 and 21 of Schedule 4 (subjects for regulations).
+
+(2B)[^key-20726394b6ad8bd69a17b227754f8c56] The references to hydrocarbon oil in the following provisions of the Oil Act are to be construed as including references to aqua methanol—
+
+- (a) section 15(1) (drawback of duty on exportation etc.);
+- (b) section 21(1) and (2) (regulations with respect to hydrocarbon oil);
+- (c) paragraphs 3 and 11 of Schedule 3 (subjects for regulations);
+- (d) paragraphs 17 and 21 of Schedule 4 (subjects for regulations);
+
+(3) The reference to the duty on hydrocarbon oil in section 15(1) of the Oil Act is to be construed as including reference to—
+
+- (za)[^key-1fa75d8b244290eb6ce06e9a10ec4dba] aqua methanol duty;
+- (a) biodiesel duty,
+- (b) the duty under section 6AB (bioblend) of the Oil Act [^c9255671],
+- (c) bioethanol duty, and
+- (d) the duty under section 6AE (bioethanol blend) of the Oil Act [^c9255681].
+
+(3A)[^key-bd2042b920985c69602733348449c660] For the purpose of section 17 of the Oil Act (heavy oil used by horticultural producers) bioblend shall be treated as falling within the description of heavy oil.
+
+(4) The references to the duty on hydrocarbon oil in section 20AA(1)(a) of the Oil Act are to be construed as including references to aqua methanol duty,[^key-cac200a96097f96a2b6ef65c8a0c964d] biodiesel duty, bioethanol duty, and duty under sections 6AB and 6AE of the Oil Act[^key-1b66a56539b930e24bac5261608b6139] .
+
+### 4. Revocations
+
+(1) The Other Fuel Substitutes (Payment of Excise Duty etc.) Regulations 1995 [^c9255691] are revoked.
+
+(2) The Biodiesel and Bioblend Regulations 2002 [^c9255701] are revoked.
+
+### 5. Amendment of the Deferment Regulations
+
+(1) Amend the Deferment Regulations as follows.
+
+(2) In regulation 2—
+
+- (a) after the definition of “approved person” insert—
+
+  > “**biofuels**” means a liquid that is charged with excise duty under section 6AA(2) (biodiesel), 6AD(2) (bioethanol) or 6A(2) (other liquid fuel substitutes) of the Hydrocarbon Oil Duties Act 1979;
+
+  , and
+- (b) in the definition of “hydrocarbon oil”, for the words in the parentheses substitute “ except biofuels and road fuel gas ”.
+
+(3) In regulation 3(a), after “spirits,” insert “ biofuels, ”.
+
+(4) In regulation 5(3), after sub-paragraph (b) insert—
+
+> - (ba) in the case of biofuels on which the duty would, but for deferment granted by these Regulations, be payable on or after the 15th day of one month and not later than the 14th day of the next month, the last business day of that next month;
+
+(5) In regulation 6(1) (set-offs), after the words “Hydrocarbon Oil Duties (Marine Voyages Reliefs) Regulations 1992” insert “ , all sums to which he is entitled to relief under regulation 21 of the Biofuels and Other Fuel Substitutes (Payment of Excise Duties etc.) Regulations 2004 ”.
+
+(6) In regulation 11 (purposes for which duty is treated as paid), immediately after paragraph (e) insert—
+
+> ;
+>
+> - (f) regulation 21 of the Biofuels and Other Fuel Substitutes (Payment of Excise Duties etc.) Regulations 2004.
+
+## PART 3 — Warehousing
+
+### 6. Production in warehouse
+
+Part 4 (production premises) does not apply where—
+
+- (a) the premises are an excise warehouse approved by the Commissioners under section 92 of the Customs and Excise Management Act 1979 [^c9255711], for the production and holding of the biofuel in question, and
+- (b) the producer is an authorized warehousekeeper (within the meaning of that term in regulation 3 of the Warehousekeepers and Owners of Warehoused Goods Regulations 1999 [^c9255721]) authorised by the terms of his approval to hold biofuels of that class or description.
+
+### 7. Warehousing
+
+(1) Only biofuel that is—
+
+- (a) special energy product, [^key-131d25dbf04ecf148e81555f2ef555a7]...
+- (b) bioethanol for the production of bioethanol blend, or,[^key-c26b993d48d6c42d8f53de224209adc5]
+- (c)[^key-f321eb7338168ad9d12f6c4848be63b6] bioethanol for the production of biodiesel,
+
+may be produced in an excise warehouse or warehoused.
+
+(2) Subject to, and in accordance with, warehousing regulations—
+
+- (a) biofuel that is special energy product may be warehoused for any purpose,
+- (b)[^key-48540b6e40aa317b67d53507b721ea33] bioethanol may be warehoused only for the purpose of —
+  - (i) blending with hydrocarbon oil to produce bioethanol blend; or
+  - (ii) producing biodiesel.
+
+(3) In this regulation, “**special energy product**” has the same meaning as in regulation 2 of the Excise Warehousing (Energy Products) Regulations 2004 [^c9255731].
+
+## PART 4 — Production premises
+
+### 8. Requirement to make entry of production premises[^key-6abb1959eafc2e038d92eecef2f5592f]
+
+(1) Regulation 8A applies to a producer of biofuel with respect to whom [^key-c6c567771e114ec32c8b342515977202]... the first condition, the second condition or the third condition[^key-76807c5b054e220ef91b1508b76be044] is satisfied.
+
+(2) The first condition is that at the end of any calendar month the producer has produced 2,500 litres or more of biofuel in the previous 12 months.
+
+(3) The second condition is that at any time there are reasonable grounds to believe that the producer will produce 2,500 litres or more of biofuel in the following 12 months.
+
+(4)[^key-90e4adf1bfa4737ef4caa361c8c03f1e] The third condition is that the producer has produced aqua methanol.
+
+**8A.** (1) A producer to whom this regulation applies is liable to make entry of all premises at which he has produced or will produce biofuel, but this is subject to regulations 8B and 8C.
+
+(2) A producer liable to make entry of premises must make entry of them not later than the day specified in paragraph (3).
+
+(3) The specified day is—
+
+- (a) in the case of a producer with respect to whom the first condition is satisfied, the thirtieth day following the end of the calendar month in question;
+- (b) in the case of a producer with respect to whom the second condition is satisfied, the thirtieth day following the day on which reasonable grounds arise for believing that he will produce that quantity;[^key-5ec532ed94be34354851a017fa46a341]
+- (c)[^key-150d73ccd15198315de363c5bcb4297e] in the case of a producer with respect to whom the third condition is satisfied, the thirtieth day following the day on which aqua methanol is first produced.
+
+**8B.** A producer is not liable to make entry of production premises under regulation 8A if he has already entered the premises in accordance with section 108 for—
+
+- (a) the purposes of that regulation; or
+- (b) purposes treated as having effect under that regulation, and
+
+  that entry has not been cancelled by the Commissioners under regulation 8F.
+
+**8C.** A producer who meets the first condition specified in regulation 8(2) ceases to be liable to make entry of production premises if he satisfies the Commissioners that he will produce less than 2,500 litres of biofuel in the 12 months immediately following the date he becomes liable.
+
+**8D.** A producer to whom regulation 8A applies must not send out from any premises a consignment of biofuel, which is charged with biofuels duty because it is set aside for chargeable use, before he makes entry of those premises.
+
+### 8E. Requirement to make entry of production premises used by several producers
+
+(1) Subject to paragraph (11), this[^key-f9e2628282f93c5b19b92b10c1864974] regulation applies to two or more producers of biofuel with respect to whom—
+
+- (a) the first and second conditions are satisfied; and
+- (b) either the third condition or the fourth condition is satisfied.
+
+(2) The first condition is that the producers produce biofuel at the same premises or at the same sets of premises (“those premises”).
+
+(3) The second condition is that the producers have not previously made entry of those premises for the purpose of this regulation or the purposes specified in regulation 8(B); or, if they have made such entry, that entry has been cancelled by the Commissioners under regulation 8F.
+
+(4) The third condition is that at the end of any calendar month the total quantity of biofuel produced by all of those producers at all of those premises in the previous 12 months is 2,500 litres or more.
+
+(5) The fourth condition is that at any time there are reasonable grounds to believe that the total quantity of biofuel produced by all of those producers at all of those premises will be 2,500 litres or more in the following 12 months.
+
+(6) Each producer of biofuel to whom this regulation applies is liable to make entry of all those premises at which he has produced or, there are reasonable grounds to believe, will produce biofuel, but this is subject to paragraph (10).
+
+(7) A producer liable to make entry of those premises under paragraph (6) must make entry of them not later than the day specified in paragraph (8).
+
+(8) The specified day is—
+
+- (a) in the case of a producer with respect to whom the third condition is satisfied, the thirtieth day following the end of the calendar month in question;
+- (b) in the case of a producer with respect to whom the fourth condition is satisfied, the thirtieth day following the day on which reasonable grounds arise for believing that quantity will be produced.
+
+(9) Each producer to whom this regulation applies must not send out from any of those premises a consignment of biofuel, which is charged with biofuels duty because it is set aside for chargeable use, before he makes entry of those premises.
+
+(10) A producer who meets the third condition ceases to be liable to make entry of those premises if he satisfies the Commissioners that the total quantity of biofuel produced by all of those producers at all of those premises will be less than 2,500 litres of biofuel in the 12 months following the date on which he becomes liable.
+
+(11)[^key-e627bb1ca2e08a53f3eefb5c3adb6224] This regulation does not apply to producers of biofuel that is aqua methanol.
+
+### 8F. Cancellation of an entry of production premises
+
+(1) The Commissioners may at any time cancel an entry made by a producer in respect of production premises if the Commissioners are satisfied that the producer—
+
+- (a) has produced less than 2,500 litres of biofuel in the 12 months immediately preceding the proposed date of cancellation; or
+- (b) will produce less than 2,500 litres of biofuel in the 12 months immediately following the proposed date of cancellation.
+
+(2) Where two or more producers produce biofuel at the same premises or same sets of premises and the Commissioners are satisfied that the total quantity of biofuel produced by all those producers at all those premises—
+
+- (a) is less than 2,500 litres in the 12 months immediately preceding the proposed date of cancellation; or
+- (b) will be less than 2,500 litres in the 12 months immediately following the proposed date of cancellation,
+
+  they may cancel the entries of those premises.
+
+(3) The Commissioners must give a producer at least 30 days notice that they propose to cancel an entry before cancelling it.
+
+(4)[^key-9009e6067276b3f245bb3b823eed51f2] This regulation does not apply to an entry made by a producer in respect of production premises used for the production of biofuel that is aqua methanol.
+
+### 9. Storage of biofuels on production premises
+
+Biofuels of different descriptions must be stored separately while on production premises, but this does not prevent biofuels from being mixed together to produce another biofuel.
+
+### 10. Rights of access
+
+(1) An authorised person may enter and inspect any production premises, other than a private dwellinghouse.
+
+(2) An authorised person may examine any vehicle on those premises.
+
+(3) An authorised person may inspect or sample any biofuel found on those premises.
+
+(4) An authorised person may inspect or sample any biofuel found on or in any vehicle on those premises.
+
+### 11. Provision of facilities by producers etc.
+
+Any person occupying or for the time being in charge of any premises which an authorised person enters and inspects under regulation 10 must, if required by the authorised person, give facilities for the inspection or sampling of any biofuel found—
+
+- (a) on those premises, or
+- (b) in or on any vehicle on those premises.
+
+### 12. Removal of biofuel from production premises for warehousing
+
+Subject to regulation 7 (warehousing), biofuel that is charged with biofuels duty while on entered premises may be removed from those premises for warehousing in an excise warehouse adjacent to the entered premises without payment of the biofuels duty.
+
+## PART 5 — Records and measurement
+
+### 13. Motor and heating fuels record[^key-23f5f4bd6038819c3260bdd58ce00642]
+
+(1) Every producer, other than an exempt producer,[^key-2814cf17d42bdcd14c20a24f78e3b2b2] must keep and preserve at production premises a record (“**the motor and heating[^key-d73ac43d84c13600d6ac9c4a66fbabd8] fuels record**”) in accordance with the provisions of, and containing the particulars specified in, the Schedule.
+
+(2) In the Schedule, a reference to “**standard litres**” means a litre of any liquid at a temperature of 15ºC.
+
+(3) The motor and heating[^key-a38bd8f4f5b0244852802cbd1ae2bacc] fuels record must be preserved by the producer for a period of 6 years, or such lesser period as the Commissioners may allow, starting on the day that the record is made.
+
+**13A.**[^key-62ed08c426b82b2886a0d525e9c6e8f2] (1) Every exempt producer must keep and preserve at production premises such records as may be specified in a notice published by the Commissioners and not withdrawn by a further notice.
+
+(2) The records required to be preserved by virtue of paragraph (1) must be preserved by the exempt producer for 6 years, or such lesser period as the Commissioner may allow, starting on the day the record is made.
+
+### 14. Fuel substitutes record and biodiesel record
+
+(1) This regulation applies if, before 1st September 2004, a person was obliged to keep and preserve—
+
+- (a) the fuel substitutes record governed by regulation 6 of the Other Fuel Substitutes (Payment of Excise Duty etc.) Regulations 1995 [^c9255771], or
+- (b) the biodiesel record governed by regulation 7 of the Biodiesel and Bioblend Regulations 2002 [^c9255781],
+
+(2) Notwithstanding the revocation of the regulations described in paragraph (1), the person must continue to preserve the fuel substitutes record or the biodiesel record, as the case may be, for a period of 6 years, or such lesser period as the Commissioners may allow, starting on the day that the record is made.
+
+### 15. Delivery note
+
+(1) This regulation applies if—
+
+- (a) a producer sends out from production premises a consignment of biofuel, and
+- (b) that biofuel is charged with biofuel duty because it is set aside for chargeable use when on those production premises.
+
+(2) The producer must, in respect of each consignment sent out from production premises, issue to the consignee a serially numbered delivery note containing the particulars specified in paragraph (3).
+
+(3) The particulars that are to be set out in the delivery note are as follows—
+
+- (a) the particulars set out in sub-paragraphs (a) to (f) of paragraph 1 of the Schedule; and
+- (b) the address from which that consignment is sent out.
+
+### 16. Measurement
+
+Where an authorised person requires the use of—
+
+- (a) a particular method of measurement,
+- (b) a particular method of calibration, or
+- (c) particular conversion tables,
+
+to ascertain any quantity of biofuel at or received into, used at or sent out from a production premises or an excise warehouse, the occupier of the production premises or the excise warehouse must comply with such requirement.
+
+## PART 6 — Excise duty points, returns and payment
+
+### 17. Excise duty points
+
+(1) Save—
+
+- (a) in the case specified in paragraph (2), or
+- (b) where duty suspension arrangements apply to the biofuel,
+
+the excise duty point for biofuel produced by a producer liable to make entry of premises under regulation 8A or 8E(6), who has not made such entry,[^key-64345eee43cbc0266001b75493974b08] is the time when it is charged with biofuels duty.
+
+(2) The excise duty point for biofuel that is sent out from entered premises having been charged with biofuels duty when on those premises is the time that the biofuel is sent out.
+
+(3) Where biofuel is removed from entered premises in accordance with regulation 12, but it is not deposited in an adjacent excise warehouse within a reasonable time, the excise duty point for the biofuel is the time that it was sent out from the entered premises.
+
+(4) In this regulation, “**duty suspension arrangements**” means any provision made by or under the customs and excise Acts (including provision made by these Regulations) for enabling goods to be held or moved without payment of duty or any provision made by or under those Acts in connection with any provision enabling goods to be so held or moved.
+
+### 18. Person liable
+
+The person liable to pay the biofuels duty at an excise duty point fixed by regulation 17 is—
+
+- (a) in the case of biofuel that is charged to biofuels duty on production premises, the producer;
+- (b) in any other case, the person who caused the biofuel to be charged with biofuels duty.
+
+### 19. Returns, time and method of payment
+
+(1)[^key-f472a662cc744acf8ab6ef5b6d849cd6] The requirements in paragraph (1A) apply to a producer, other than a large producer, in relation to—
+
+- (a) each of his entered premises, and
+- (b) any premises for which he is liable to make entry that have not been entered.
+
+(1A) A producer to whom this paragraph applies must no later than the fifteenth day of each quarter—
+
+- (a) furnish a return of the quantities of aqua methanol,[^key-09501e728ec4838c357b5070533c2008] biodiesel, bioethanol and fuel substitute, and
+- (b) pay the biofuels duty
+
+in respect of which there was an excise duty point in the preceding quarter.
+
+(2) The return must be made on forms provided by the Commissioners for the purpose.
+
+(3) The return must be furnished, and the payment made, to the Commissioners at such address as is specified in directions made by the Commissioners under section 116(1) of the Customs and Excise Management Act 1979.
+
+(4) Where the fifteenth day of the quarter[^key-fe55538ace1cadb125b6de1b393780c1] would fall on a day that is not a business day, the requirements of paragraph (1A)[^key-bd29b36a9b6dc82e8e32132ff85af675] must be complied with no later than the last business day before that fifteenth day.
+
+(5) In paragraph (4), “**business day**” means a day that is a business day within the meaning of section 92 of the Bills of Exchange Act 1882 [^c9255791].
+
+(6) If the producer is an approved person who is granted deferment of the biofuels duty in accordance with regulation 5 of the Deferment Regulations, then—
+
+- (a) no information need be furnished to the Commissioners in accordance with paragraph (1A)[^key-fc11ab2df700e25514d41f1dfea99e06] above in relation to biofuel that is subject to that deferment, and
+- (b) the time when the biofuels duty is to be paid shall be the payment day specified by the Deferment Regulations.
+
+(7) In any other case for which an excise duty point is fixed by these Regulations, the biofuels duty must be paid on or before the excise duty point.
+
+(8)[^key-dffb64b3ae257c9e411e31f3ca733cd4] Every producer who is a producer on 30th June 2007 must, in relation to each of his entered premises, no later than 13 July 2007 —
+
+- (a) furnish a return of the quantities of biodiesel, bioethanol, and fuel substitute; and
+- (b) pay the biofuels duty,
+
+in respect of which there was an excise duty point in June 2007.
+
+### 19A. Large producers[^key-07c0dd35d799a90f0df8b47828888285]
+
+(1) The Commissioners may at any time notify a producer that he is a large producer if—
+
+- (a) in the 12 months immediately preceding notification the producer has produced 450,000 litres or more of biofuel; or
+- (b) they have reasonable grounds to believe that the producer will produce 450,000 litres or more of biofuel in the 12 months following notification.
+
+(2) The Commissioners may withdraw a notification given to a large producer under paragraph (1)[^key-a95191c4a56cc1a10dc6c3004066203a] if the producer satisfies them by a statement in writing that—
+
+- (a) he has produced less than 450,000 litres of biofuel in the 12 months immediately preceding that statement, and
+- (b) there are reasonable grounds to believe he will produce less than 450,000 litres of biofuel in the 12 months immediately following that statement.
+
+(3) The requirements in paragraph (4) apply to a producer who is for the time being a large producer in relation to —
+
+- (a) each of his entered premises, and
+- (b) any premises for which he is liable to make entry that have not been entered.
+
+(4) A large producer must no later than the fifteenth day of each month—
+
+- (a) furnish a return of the quantities of aqua methanol,[^key-53d54bdb5cbd1dd31ae34b456e5324b6] biodiesel, bioethanol and fuel substitute, and
+- (b) pay the biofuels duty
+
+  in respect of which there was an excise duty point in the preceding month.
+
+(5)[^key-0fb04d625096bae4e1707fc1806d5a1f] Regulations 19(2) to (6) apply to large producers as they apply to producers with the modifications specified in paragraphs (6) and (7).
+
+(6) Regulation 19(4) applies as if the reference to a “quarter” was a reference to a “month” and the reference to “paragraph (1A)” was a reference to “regulation 19A(4)”.
+
+(7) Regulation 19(6)(a) applies as if the reference to “paragraph (1A) above” was a reference to “regulation 19A(4)”.
+
+## PART 7 — Relief for electricity generation
+
+### 20. Interpretation of this Part
+
+In this Part, “**qualified claimant**” means a person who causes biofuel to be used as motor fuel in a generator to produce electricity.
+
+### 21. Relief
+
+(1) Relief is afforded in accordance with this Part if a quantity of biofuel has been—
+
+- (a) charged with biofuels duty, and
+- (b) used as motor fuel in a generator to produce electricity,
+
+(2) The amount that is afforded is the amount of the biofuels duty that has been charged and paid.
+
+(3) Relief is allowed only upon the written application of a qualified claimant.
+
+(4) No relief is allowed in respect of any biofuels duty that is the subject of any other application or claim for repayment, remission or drawback.
+
+### 22. Form of relief
+
+(1) If, at the time that the claim is made, the qualified claimant is an approved person, relief shall be in the form of an allowance to be set-off against duty payable to the Commissioners by the qualified claimant.
+
+(2) If, at the time that the claim is made, the qualified claimant—
+
+- (a) is not an approved person,
+- (b) is a producer in relation to the biofuel that is the subject of the claim for relief, and
+- (c) has entered the premises (in accordance with regulation 8) on which that biofuel was charged with biofuels duty,
+
+relief shall be in the form of an allowance to be set-off against the biofuels duty payable to the Commissioners by the qualified claimant in respect of the biofuel that is the subject of the claim for relief.
+
+(3) In any other case, the relief shall be in the form of a repayment by the Commissioners to the qualified claimant.
+
+(4) If two or more qualified claimants make application for relief relating to the same fuel, the Commissioners may determine which one shall be afforded the relief.
+
+(5) If in relation to any application for relief it appears to the Commissioners that the relief applied for exceeds the amount allowable under regulation 21, they may, in such circumstances as they see fit and notwithstanding the provisions of regulations 25(1) and 26(3), reduce the amount of the claim to such lesser sum as appears to them to be allowable.
+
+### 23. Set-off
+
+(1) In the case described by regulation 22(1) (approved persons), the qualified claimant must set-off the relief in accordance with regulation 6 of the Deferment Regulations.
+
+(2) In the case described by regulation 22(2) (producers), the qualified claimant must set-off the relief against the biofuels duty that he is obliged to pay under regulation 19(1).
+
+(3) In any other case, the Commissioners may set-off the amount of any repayment under regulation 22(3) against any other debt then due to them from the qualified claimant.
+
+### 24. Applications
+
+(1) Applications for relief that is set-off in accordance with regulation 23(1) must be made by submitting the claim for set-off governed by regulation 6(2) of the Deferment Regulations.
+
+(2) Applications for relief that is set-off in accordance with regulation 23(2) must accompany the return governed by regulation 19(1) that he is obliged to furnish in respect of the biofuels duty.
+
+(3) Applications for repayment—
+
+- (a) must be made no later than 3 months after the period to which they relate, and that period must not be shorter than 2 months nor longer than 3 years, and
+- (b) shall not lie where the amount to be paid is less than £50.
+
+### 25. Cancellation of relief
+
+(1) If there is a contravention of, or failure to comply with, any condition imposed by or under regulation 26 or 27, the relief allowed shall be cancelled.
+
+(2) Where any relief is cancelled, any person who is a qualified claimant in relation to the application for relief shall, on demand, be liable to repay the amount of the relief.
+
+### 26. General conditions
+
+(1) Relief is allowed subject to the following conditions.
+
+(2) The qualified claimant must, on being so required by the Commissioners, furnish to their satisfaction evidence that—
+
+- (a) the biofuel that is the subject of the application for relief has been used as motor fuel in a generator to produce electricity, and
+- (b) the biofuels duty that is the subject of the application for relief has been paid and is not the subject of any other application or claim for repayment, remission or drawback.
+
+(3) The amount of relief applied for must not exceed the amount of relief that may be allowed by regulation 21.
+
+### 27. Conditions imposed by the Commissioners
+
+Relief is allowed subject to such conditions (if any) as the Commissioners impose on a qualified claimant.
+
+## PART 8 — Biodiesel used otherwise than as road fuel[^key-9e3f0d390431c3a789a8aa7f253d4003]
+
+**No longer in force.**
+
+### 28. Applications for repayment under section 17A of the Oil Act[^key-9e3f0d390431c3a789a8aa7f253d4003]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+MW Norgrove
+
+Commissioner of Customs and Excise
+
+New King's Beam House 22 Upper Ground London SE1 9PJ
+
+## SCHEDULE — Particulars to be entered in the motor and Heating fuels record[^key-d4b6ce9ad04ba67bfa8f8b16b6e2feab]
+
+Regulation 13(1)
+
+### 1. Charge arising on setting aside
+
+In respect of each consignment of aqua methanol,[^key-a5d92b3926e68c91b19db369db554c35] biodiesel, bioethanol or fuel substitute that is charged with biofuels duty because it is set aside for chargeable use when on the premises from which it is sent out, the following particulars must be entered in the motor and heating[^key-004540bb26051eb84518fc07e06db0c5] fuels record before the consignment is sent out from his premises—
+
+- (a) the date on which the consignment is sent out;
+- (b) a description of that consignment indicating whether it is aqua methanol, biodiesel, bioethanol or fuel substitute;
+- (bb)[^key-b888ea85c93632b32c59cc2f4e875fb7] in the case of a consignment of biodiesel on which a rebate of duty has been allowed under section 14A of the Oil Act, a description indicating that it was set aside for use as fuel for an excepted machine[^key-a54c018d40d7da639cf778fc65dc93fd] or as an additive or extender to any substance so used;
+- (bc)[^key-3c74f0ad5c8ade76bdd4334dca5c6668] in the case of a consignment of aqua methanol, a description indicating that the aqua methanol has been charged with aqua methanol duty upon being set aside as—
+  - (i) suitable only as fuel for an engine, motor or other machinery powered by aqua methanol;
+  - (ii) suitable only as an additive or extender in fuel for an engine, motor or other machinery powered by diesel;
+  - (iii) suitable only as an additive or extender in fuel for an engine, motor or other machinery powered by light oil other than unleaded petrol;
+  - (iv) suitable only as an additive or extender in fuel for an engine, motor or other machinery powered by unleaded petrol;
+  - (v) suitable only as an additive or extender in fuel for an engine, motor or other machinery not falling within sub-paragraphs (ii) to (iv);
+- (c) in the case of a consignment of fuel substitute, a description indicating that the fuel substitute has been charged with fuel substitute duty upon being set aside as—
+  - (i) suitable only as fuel for a diesel engine,
+  - (ii) suitable only as fuel for an engine, other than a piston engine, of an aircraft,
+  - (iii) suitable only as fuel for a petrol engine powered by fuel other than unleaded petrol[^key-69e96ec688e2ce7d6b9005371504db13],
+  - (iv) suitable only as fuel for a petrol engine powered by unleaded petrol,
+  - (v) specially produced as fuel for a piston engine of an aircraft,
+  - (vi) fuel for an engine, motor or machinery, but not falling within sub-paragraphs (i) to (v),
+  - (via)[^key-205ed99eddb53e74660fc2e2df96dc38] suitable only for use in a light oil heating system;
+  - (vib) suitable only for use in a kerosene heating system;
+  - (vic) suitable only for use in a non-kerosene heating system;
+  - (vii) suitable only as an additive or extender in fuel for a diesel engine,
+  - (viii) suitable only as an additive or extender in fuel for an engine, other than a piston engine of an aircraft,
+  - (ix) suitable only as an additive or extender in fuel for a petrol engine powered by fuel other than unleaded petrol[^key-33905f1ab185af2c35f6487438ee7060],
+  - (x) suitable only as an additive or extender in fuel for a petrol engine powered by unleaded petrol,
+  - (xa)[^key-3e86718f5965ba5c4373f6b9a25d359d] suitable only as an additive or extender in fuel for an engine powered by liquefied petroleum gas,
+  - (xb)[^key-1618421b16f2c588fa7dec1872a1c1a4] suitable only as an additive or extender in fuel for use in a light oil heating system;
+  - (xc) suitable only as an additive or extender in fuel for use in a kerosene heating system;
+  - (xd) suitable only as an additive or extender in fuel for use in a non-kerosene heating system;
+  - (xi) a multi-purpose additive or extender (designated, made and prepared as being for use as an additive or extender in any light oil),
+  - (xii) an additive or extender not falling within sub-paragraphs (vii) to (xi);
+- (d) the quantity, in standard litres, of that consignment;
+- (e) the name and address of the consignee to whom that consignment is sent;
+- (f) the address to which that consignment is consigned;
+- (g) the number of the delivery note (see regulation 15) that accompanied that consignment;
+- (h) the date upon which the entry in relation to the consignment is made in the motor and heating[^key-27221d54d1e992d3d7793e89f7954dc2] fuels record; and
+- (j) the amount and rate of biofuels duty charged in respect of that consignment.
+
+### 2. Charge arising on chargeable use
+
+In respect of each quantity of aqua methanol, biodiesel, bioethanol or fuel substitute that is charged with biofuels duty because it is put to chargeable use when on his premises, the following particulars must be entered in the motor and heating[^key-04434a5545e76c9cfac4fa96e9b9ea15] fuels record on the day of the chargeable use—
+
+- (a) the date of chargeable use;
+- (b) a description of the liquid indicating whether it is aqua methanol, biodiesel, bioethanol or fuel substitute;
+- (bb)[^key-37f61b84861d1823d50c78600d096847] in the case of aqua methanol, a description indicating that the aqua methanol has been charged with aqua methanol duty upon chargeable use as —
+  - (i) fuel for an engine, motor or other machinery powered by aqua methanol;
+  - (ii) an additive or extender in fuel for an engine, motor or other machinery powered by diesel;
+  - (iii) an additive or extender in fuel for an engine, motor or other machinery powered by unleaded petrol;
+  - (iv) an additive or extender in fuel for an engine, motor or other machinery powered by light oil other than unleaded petrol;
+  - (v) an additive or extender in fuel for an engine, motor or other machinery not falling within sub-paragraphs (ii) to (iv);
+- (c) in the case of fuel substitute, a description indicating that the fuel substitute has been charged with fuel substitute duty upon chargeable use as—
+  - (i) fuel for a diesel engine,
+  - (ii) fuel for an engine, other than a piston engine, of an aircraft,
+  - (iii) fuel for a petrol engine powered by fuel other than unleaded petrol[^key-1d89be133abea60f846376c495c8df8f],
+  - (iv) fuel for a petrol engine powered by unleaded petrol,
+  - (v) fuel for a piston engine of an aircraft,
+  - (vi) fuel for any other engine, motor or machinery not falling within sub-paragraphs (i) to (v)[^key-592f1534e10544d81848111945a2c403],
+  - (via)[^key-cdd476773464c782341415c4add05dca] suitable only for use in a light oil heating system;
+  - (vib) suitable only for use in a kerosene heating system;
+  - (vic) suitable only for use in a non-kerosene heating system;
+  - (vii) an additive or extender in fuel for a diesel engine,
+  - (viii) an additive or extender in fuel for an engine, other than a piston engine of an aircraft,
+  - (ix) an additive or extender in fuel for a petrol engine powered by fuel other than unleaded petrol[^key-f5deb0cecf029105261ed44d1e6ab078],
+  - (x) an additive or extender in fuel for a petrol engine powered by unleaded petrol,
+  - (xa)[^key-97bdc0292df428023740a03b504ef281] an additive or extender in fuel for an engine powered by liquefied petroleum gas,
+  - (xb)[^key-71d675c84b6b882b3fd85fff10b3ad26] suitable only as an additive or extender in fuel for use in a light oil heating system;
+  - (xc) suitable only as an additive or extender in fuel for use in a kerosene heating system;
+  - (xd) suitable only as an additive or extender in fuel for use in a non-kerosene heating system;
+  - (xi) an additive or extender in fuel for a piston engine of an aircraft, or
+  - (xii) an additive or extender in fuel for any engine, motor or machinery not falling within paragraphs (i) to (iv) or (xa)[^key-990654f592d4271c2e6544108b78865a];
+- (d) the quantity, in standard litres, of the biofuel put to chargeable use;
+- (e) the date upon which the entry in relation to the consignment is made in the motor and heating[^key-4b43b70b69eb4f299dd55ca0e07f1a9b] fuels record; and
+- (f) the amount and rate of biofuels duty charged in respect of that chargeable use.
+
+*(This note is not part of the Regulations)*
+
+These Regulations, which come into force on 1st September 2004, regulate the administration and collection of the excise duties charged on biodiesel, bioethanol and other fuel substitutes by sections 6AA, 6AD and 6A, respectively, of the Hydrocarbon Oil Duties Act 1979 c. 5 (“**the Oil Act**”). These Regulations also make provision in respect of bioblend and bioethanol blend charged to excise duty under sections 6AB and 6AE, respectively, of the Oil Act.
+
+Regulation 2 defines certain terms used in the Regulations such as “biofuel”, “motor fuels record” and “chargeable use”.
+
+Part 2
+
+Regulation 3 provides that certain references to hydrocarbon oil, or to the duty on hydrocarbon oil, in the Oil Act are to be construed to include references to biodiesel, bioblend, bioethanol and bioethanol blend, or to the duty on biodiesel and bioethanol, as the case may be.
+
+Regulation 4 revokes two instruments, the provisions of which are replaced with other provisions by these Regulations.
+
+Regulation 5 amends the Deferment Regulations so that those Regulations provide for the deferment of duty in respect of biofuels. Amendments are also made that are consequential on Part 7 of these Regulations.
+
+Part 3
+
+Regulation 6 provides that the provisions of Part 4 (production premises) do not apply in the case of an excise warehouse. Regulation 7 provides for the types of biofuels that may be produced and warehoused in an excise warehouse.
+
+Part 4
+
+Regulation 8 requires producers of biofuels to make entry of their premises in accordance with section 108 of the Customs and Excise Management Act 1979 (c. 2) and prescribes the time when such entry must be made. Regulation 9 requires producers to separately store biofuels. Regulation 10 provides for a right of access to biofuels production premises, and for examination, inspection and sampling by authorised persons. Regulation 11 requires producers and warehousekeepers to provide facilities for examination, inspection and sampling.
+
+Regulation 12 provides that biofuels may be removed from production premises, for warehousing (subject to the rules in regulation 7 regarding what kinds of biofuels may be warehoused).
+
+Part 5
+
+Regulation 13 requires producers to maintain a motor fuels record in accordance with the particulars set out in the Schedule of these Regulations. It also defines the term “standard litres” used in the Schedule and specifies how long the record should be preserved. Regulation 14 requires producers to continue to keep any records required under the instruments revoked by regulation 4.
+
+Regulation 15 requires producers to issue delivery notes in respect of certain consignments of biofuels sent out from their premises. It also contains details to be recorded on the delivery note.
+
+Regulation 16 requires occupiers of production premises or excise warehouses to comply with measurement and calibration requirements imposed by an authorised person.
+
+Part 6
+
+Regulation 17 fixes the excise duty points for biofuels, except for those biofuels that are subject to duty suspension arrangements (various other regulations set excise duty points in respect of excise goods that are subject to such arrangements). The only exception is biofuel that is removed from production premises duty suspended in order to be deposited in an adjacent excise warehouse. If such biofuel is not actually placed in the warehouse, the excise duty point is set by regulation 17(3).
+
+Regulation 18 prescribes who is liable for the biofuels duty. Regulation 19 requires the submission of returns and payment of duty within certain time limits.
+
+Part 7
+
+This Part provides for a relief from biofuels duty in respect of biofuels used for electricity generation. Relief is allowed upon application by a qualified claimant, who is defined in Regulation 20 as the person who causes biofuel to be used as motor fuel in a generator to produce electricity. Regulation 21 sets out the scope of the relief.
+
+Regulation 22 sets out the form that the relief will take (which depends on various factors to do with the qualified claimant, such as whether he also pays excise duty on biofuels or other dutiable goods). The relief is either in the form of an allowance to be set-off against duty payable to the Commissioners of Customs and Excise, or in the form of a repayment by the Commissioners.
+
+Regulation 23 describes how the relief is to be set-off against liability to duty of the qualified claimant. Regulation 24 provides for the way that applications for relief must be made.
+
+Regulation 25 requires the repayment of any relief where there is contravention of, or failure to comply with, the conditions under which the relief is granted.
+
+Regulation 26 imposes conditions that claimants for relief must, on demand, produce evidence that the fuel has been used in a generator to produce electricity and that the duty claimed has been paid. Regulation 27 provides for the imposition of further conditions on qualified claimants.
+
+Part 8
+
+Regulation 28 requires claims made for repayment of duty made under section 17A of the Oil Act to be made within a prescribed time limit, prescribes the minimum and maximum period of the claim and provides a monetary limit, below which claims will not be met.
+
+[^c9255811]Part 7 of this instrument gives effect to Article 14(1)(a) of Council Directive [2003/96/EC](https://www.legislation.gov.uk/european/directive/2003/0096) (of 27th October 2003 restructuring the Community framework for the taxation of energy products and electricity) in respect of biofuels used as motor fuel for electricity generation. A transposition note for the directive is available at www.hmce.gov.uk.
+
+A full regulatory impact assessment has not been produced for this instrument, as it has no impact on the costs of business, charities or voluntary bodies.
+
+## Annotations
+
+[^c9255551]: Marginal citation: [1979 c. 2](https://www.legislation.gov.uk/ukpga/1979/2); section 1(1) defines “the Commissioners” as meaning “the Commissioners of Customs and Excise”. Relevant amendments were made to section 93 by paragraph 2 of Schedule 8 to the [Finance Act 1981 (c. 35)](https://www.legislation.gov.uk/ukpga/1981/35), [paragraph 7](https://www.legislation.gov.uk/ukpga/1981/35/paragraph/7) of Schedule 3 to the [Finance Act 1986 (c. 41)](https://www.legislation.gov.uk/ukpga/1986/41), [paragraph 2](https://www.legislation.gov.uk/ukpga/1986/41/paragraph/2) of Schedule 2 to the [Finance (No. 2) Act 1992 (c. 48)](https://www.legislation.gov.uk/ukpga/1992/48) and paragraph 3 of Schedule 4 to the [Finance Act 1994 (c. 9)](https://www.legislation.gov.uk/ukpga/1994/9). Sections 100G and 100H were inserted by Schedule 4 to the [Finance Act 1991 (c. 31)](https://www.legislation.gov.uk/ukpga/1991/31); there are amendments not relevant to this instrument. Section 118A was inserted by Schedule 5 to the [Finance Act 1991 (c. 31)](https://www.legislation.gov.uk/ukpga/1991/31); there are amendments not relevant to this instrument. Section 127A was inserted by section 6 of the [Finance Act 1983 (c. 28)](https://www.legislation.gov.uk/ukpga/1983/28) and amended by paragraph 7 of Schedule 1 to the [Finance (No 2) Act 1992 (c. 48)](https://www.legislation.gov.uk/ukpga/1992/48).
+
+[^c9255561]: Marginal citation: [1979 c. 5](https://www.legislation.gov.uk/ukpga/1979/5); section 27(3) applies the definition of "the Commissioners" in section 1(1) of the [Customs and Excise Management Act 1979 (c. 2)](https://www.legislation.gov.uk/ukpga/1979/2). Section 1(2) defines "hydrocarbon oil". By virtue of section 6A(4) (inserted by section 11(1) of the [Finance Act 1993 (c. 34)](https://www.legislation.gov.uk/ukpga/1993/34)), the references to “hydrocarbon oil” in the following provisions (such as sections 21 and 24 and Schedules 3 and 4) shall be construed as including references to any substance on which duty is charged under section 6A and references to duty on hydrocarbon oil shall be construed, where a substance is to be treated as such oil, as including references to duty under section 6A. Section 6AC was added by section 5(4) of the [Finance Act 2002 (c. 23)](https://www.legislation.gov.uk/ukpga/2002/23); section 2AA(1) (inserted by section 5(2) of the Finance Act 2002) defines "biodiesel". Section 6AF was added by section 10(3) of the [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12); section 2AB(1) (inserted by section 10 (1) of the Finance Act 2004) defines "bioethanol". Section 20AA was inserted by section 2(1) of the [Finance Act 1989 (c. 26)](https://www.legislation.gov.uk/ukpga/1989/26) and amended by Part 1(4) of Schedule 23 to the [Finance Act 1993 (c. 34)](https://www.legislation.gov.uk/ukpga/1993/34), [paragraph 54](https://www.legislation.gov.uk/ukpga/1993/34/paragraph/54) of Schedule 4 to the [Finance Act 1994 (c. 9)](https://www.legislation.gov.uk/ukpga/1994/9) and section 10(3) of the [Finance Act 2002 (c. 23)](https://www.legislation.gov.uk/ukpga/2002/23). Relevant amendments were made to section 21 by Part 1(4) of Schedule 23 to the [Finance Act 1993 (c. 34)](https://www.legislation.gov.uk/ukpga/1993/34) and paragraph 55 of Schedule 4 to the [Finance (No. 2) Act 1992 (c. 48)](https://www.legislation.gov.uk/ukpga/1992/48). Amendments not relevant to these Regulations have been made to section 24(1). Paragraph 11 of Schedule 3 was amended by paragraph 4 of Schedule 4 to the [Finance Act 1985 (c. 54)](https://www.legislation.gov.uk/ukpga/1985/54). Paragraph 3 of Schedule 4 was substituted by section 6(3) of the [Finance Act 1981 (c. 35)](https://www.legislation.gov.uk/ukpga/1981/35) and relevant amendment was made by paragraph 4(2) of Schedule 2 to the [Finance Act 2002 (c. 23)](https://www.legislation.gov.uk/ukpga/2002/23).
+
+[^c9255571]: Marginal citation: [1992 c. 48](https://www.legislation.gov.uk/ukpga/1992/48).
+
+[^key-c864c5d7c32bfd3b6e6401e88d8690cb]: Textual amendment: Reg. 2 renumbered as reg. 2(1) (30.6.2007) by [The Biofuels and Other Fuel Substitutes (Payment of Excise Duties etc) (Amendment) Regulations 2007 (S.I. 2007/1640)](https://www.legislation.gov.uk/uksi/2007/1640), [regs. 1](https://www.legislation.gov.uk/uksi/2007/1640/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2007/1640/regulation/3/2)
+
+[^key-401f1df467f5742da131b4617c63f849]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2004/2065/regulation/2) inserted (14.11.2016) by [The Biofuels and Hydrocarbon Oil Duties (Miscellaneous Amendment) Regulations 2016 (S.I. 2016/976)](https://www.legislation.gov.uk/uksi/2016/976), [regs. 1](https://www.legislation.gov.uk/uksi/2016/976/regulation/1), [3(a)](https://www.legislation.gov.uk/uksi/2016/976/regulation/3/a)
+
+[^c9255581]: Marginal citation: Section 6AA was inserted by section 5(4) of the [Finance Act 2002 (c. 23)](https://www.legislation.gov.uk/ukpga/2002/23).
+
+[^c9255591]: Marginal citation: Section 6AD was inserted by section 10(3) of the [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12).
+
+[^key-e9b2da02d641e1778fc83e32df49069b]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2004/2065/regulation/2) inserted (14.11.2016) by [The Biofuels and Hydrocarbon Oil Duties (Miscellaneous Amendment) Regulations 2016 (S.I. 2016/976)](https://www.legislation.gov.uk/uksi/2016/976), [regs. 1](https://www.legislation.gov.uk/uksi/2016/976/regulation/1), [3(b)](https://www.legislation.gov.uk/uksi/2016/976/regulation/3/b)
+
+[^key-d24aeb6d8555362569c0774e49263125]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2004/2065/regulation/2) inserted (14.11.2016) by [The Biofuels and Hydrocarbon Oil Duties (Miscellaneous Amendment) Regulations 2016 (S.I. 2016/976)](https://www.legislation.gov.uk/uksi/2016/976), [regs. 1](https://www.legislation.gov.uk/uksi/2016/976/regulation/1), [3(c)](https://www.legislation.gov.uk/uksi/2016/976/regulation/3/c)
+
+[^key-66ca7e69fc3972be128d6e11439c79b5]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2004/2065/regulation/2) inserted (14.11.2016) by [The Biofuels and Hydrocarbon Oil Duties (Miscellaneous Amendment) Regulations 2016 (S.I. 2016/976)](https://www.legislation.gov.uk/uksi/2016/976), [regs. 1](https://www.legislation.gov.uk/uksi/2016/976/regulation/1), [3(d)](https://www.legislation.gov.uk/uksi/2016/976/regulation/3/d)
+
+[^c9255601]: Marginal citation: Section 6AA was inserted by section 5(4) of the [Finance Act 2002 (c. 23)](https://www.legislation.gov.uk/ukpga/2002/23) and subsection (2) was amended by section 11 of the [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12).
+
+[^c9255611]: Marginal citation: Section 6A was inserted by section 11(1) of the [Finance Act 1993 (c. 34)](https://www.legislation.gov.uk/ukpga/1993/34); subsection (2) was amended by section 12 of the [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12).
+
+[^c9255621]: Marginal citation: S.I. 1992/ 3152; amended by [S.I. 1996/2567](https://www.legislation.gov.uk/uksi/1996/2567).
+
+[^key-ac8bf34b9bdcc656a54f9ed0ccabf850]: Textual amendment: Words in reg. 2(1) substituted (30.6.2007) by [The Biofuels and Other Fuel Substitutes (Payment of Excise Duties etc) (Amendment) Regulations 2007 (S.I. 2007/1640)](https://www.legislation.gov.uk/uksi/2007/1640), [regs. 1](https://www.legislation.gov.uk/uksi/2007/1640/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2007/1640/regulation/3/3)
+
+[^key-be05a358e418e946d0322e9f02691651]: Textual amendment: Words in reg. 2(1) inserted (30.6.2007) by [The Biofuels and Other Fuel Substitutes (Payment of Excise Duties etc) (Amendment) Regulations 2007 (S.I. 2007/1640)](https://www.legislation.gov.uk/uksi/2007/1640), [regs. 1](https://www.legislation.gov.uk/uksi/2007/1640/regulation/1), [3(4)](https://www.legislation.gov.uk/uksi/2007/1640/regulation/3/4)
+
+[^c9255631]: Marginal citation: Section 6A was inserted by section 11(1) of the [Finance Act 1993 (c. 34)](https://www.legislation.gov.uk/ukpga/1993/34) and amended by paragraph 2 of Schedule 2 to the [Finance Act 2002 (c. 23)](https://www.legislation.gov.uk/ukpga/2002/23) and sections 10(4) and 12 of the [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12).
+
+[^key-292845ca3949813c090071b2b5e20244]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2004/2065/regulation/2/1) inserted (1.4.2022) by [The Hydrocarbon Oil Duties (Consequential Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/234)](https://www.legislation.gov.uk/uksi/2022/234), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/234/regulation/1/1), [7(2)(a)](https://www.legislation.gov.uk/uksi/2022/234/regulation/7/2/a) (with [regs. 9](https://www.legislation.gov.uk/uksi/2022/234/regulation/9), [10](https://www.legislation.gov.uk/uksi/2022/234/regulation/10))
+
+[^key-9e3f35584600ae424f310ba4907ec2e4]: Textual amendment: Words in reg. 2(1) inserted (30.6.2007) by [The Biofuels and Other Fuel Substitutes (Payment of Excise Duties etc) (Amendment) Regulations 2007 (S.I. 2007/1640)](https://www.legislation.gov.uk/uksi/2007/1640), [regs. 1](https://www.legislation.gov.uk/uksi/2007/1640/regulation/1), [3(5)](https://www.legislation.gov.uk/uksi/2007/1640/regulation/3/5)
+
+[^key-849e7533b19d00ac245053c58eafdf47]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2004/2065/regulation/2/1) substituted (1.4.2022) by [The Hydrocarbon Oil Duties (Consequential Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/234)](https://www.legislation.gov.uk/uksi/2022/234), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/234/regulation/1/1), [7(2)(b)](https://www.legislation.gov.uk/uksi/2022/234/regulation/7/2/b) (with [regs. 9](https://www.legislation.gov.uk/uksi/2022/234/regulation/9), [10](https://www.legislation.gov.uk/uksi/2022/234/regulation/10))
+
+[^key-7e68d78b4ef558d0fa66a2e0457413d2]: Textual amendment: Words in reg. 2(1) omitted (30.6.2007) by virtue of [The Biofuels and Other Fuel Substitutes (Payment of Excise Duties etc) (Amendment) Regulations 2007 (S.I. 2007/1640)](https://www.legislation.gov.uk/uksi/2007/1640), [regs. 1](https://www.legislation.gov.uk/uksi/2007/1640/regulation/1), [3(6)](https://www.legislation.gov.uk/uksi/2007/1640/regulation/3/6)
+
+[^key-6e8266663a843103e671aba51204af32]: Textual amendment: Words in reg. 2(1) inserted (30.6.2007) by [The Biofuels and Other Fuel Substitutes (Payment of Excise Duties etc) (Amendment) Regulations 2007 (S.I. 2007/1640)](https://www.legislation.gov.uk/uksi/2007/1640), [regs. 1](https://www.legislation.gov.uk/uksi/2007/1640/regulation/1), [3(7)](https://www.legislation.gov.uk/uksi/2007/1640/regulation/3/7)
+
+[^key-7e8bfffdad100595426fc95fab7c8854]: Textual amendment: Reg. 2(2) inserted (30.6.2007) by [The Biofuels and Other Fuel Substitutes (Payment of Excise Duties etc) (Amendment) Regulations 2007 (S.I. 2007/1640)](https://www.legislation.gov.uk/uksi/2007/1640), [regs. 1](https://www.legislation.gov.uk/uksi/2007/1640/regulation/1), [3(8)](https://www.legislation.gov.uk/uksi/2007/1640/regulation/3/8)
+
+[^c9255641]: Marginal citation: Section 15 was modified by section 12(3), and subsection (1) amended by section 12(7)(b), of the [Finance Act 1993 (c. 34)](https://www.legislation.gov.uk/ukpga/1993/34) and subsection (1) was amended by section 4 of the [Finance Act 1999 (c. 16)](https://www.legislation.gov.uk/ukpga/1999/16).
+
+[^c9255651]: Marginal citation: Section 19 was modified by section 12(3) of the [Finance Act 1993 (c. 34)](https://www.legislation.gov.uk/ukpga/1993/34) and amended by section 8(2)(b) of the [Finance Act 1996 (c. 8)](https://www.legislation.gov.uk/ukpga/1996/8). Subsection (3) was amended by section 6(4) of the Finance Act 1981.
+
+[^key-d41f542facbb8e32321e17a4bb8d35ef]: Textual amendment: Reg. 3(1A) inserted (1.4.2008) by [The Hydrocarbon Oil, Biofuels and Other Fuel Substitutes (Determination of Composition of a Substance and Miscellaneous Amendments) Regulations 2008 (S.I. 2008/753)](https://www.legislation.gov.uk/uksi/2008/753), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/753/regulation/1/2), [8(2)(a)](https://www.legislation.gov.uk/uksi/2008/753/regulation/8/2/a)
+
+[^key-5482630e5b82314e5d3a0100af31c4e0]: Textual amendment: Punctuation in reg. 3(2)(d) substituted (1.4.2008) by [The Hydrocarbon Oil, Biofuels and Other Fuel Substitutes (Determination of Composition of a Substance and Miscellaneous Amendments) Regulations 2008 (S.I. 2008/753)](https://www.legislation.gov.uk/uksi/2008/753), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/753/regulation/1/2), [8(2)(b)](https://www.legislation.gov.uk/uksi/2008/753/regulation/8/2/b)
+
+[^key-11c413842d25180c4307ac2bf6a216f6]: Textual amendment: Reg. 3(2)(e)-(g) inserted (1.4.2008) by [The Hydrocarbon Oil, Biofuels and Other Fuel Substitutes (Determination of Composition of a Substance and Miscellaneous Amendments) Regulations 2008 (S.I. 2008/753)](https://www.legislation.gov.uk/uksi/2008/753), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/753/regulation/1/2), [8(2)(c)](https://www.legislation.gov.uk/uksi/2008/753/regulation/8/2/c)
+
+[^key-ac14bbd879c5338ac17bddb84bd1130b]: Textual amendment: Reg. 3(2A) inserted (1.4.2008) by [The Hydrocarbon Oil, Biofuels and Other Fuel Substitutes (Determination of Composition of a Substance and Miscellaneous Amendments) Regulations 2008 (S.I. 2008/753)](https://www.legislation.gov.uk/uksi/2008/753), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/753/regulation/1/2), [8(2)(d)](https://www.legislation.gov.uk/uksi/2008/753/regulation/8/2/d)
+
+[^key-20726394b6ad8bd69a17b227754f8c56]: Textual amendment: Reg. 3(2B) inserted (14.11.2016) by [The Biofuels and Hydrocarbon Oil Duties (Miscellaneous Amendment) Regulations 2016 (S.I. 2016/976)](https://www.legislation.gov.uk/uksi/2016/976), [regs. 1](https://www.legislation.gov.uk/uksi/2016/976/regulation/1), [4(a)](https://www.legislation.gov.uk/uksi/2016/976/regulation/4/a)
+
+[^key-1fa75d8b244290eb6ce06e9a10ec4dba]: Textual amendment: Reg. 3(3)(za) inserted (14.11.2016) by [The Biofuels and Hydrocarbon Oil Duties (Miscellaneous Amendment) Regulations 2016 (S.I. 2016/976)](https://www.legislation.gov.uk/uksi/2016/976), [regs. 1](https://www.legislation.gov.uk/uksi/2016/976/regulation/1), [4(b)](https://www.legislation.gov.uk/uksi/2016/976/regulation/4/b)
+
+[^c9255671]: Marginal citation: Section 6AB was inserted by section 5(4) of the [Finance Act 2002 (c. 23)](https://www.legislation.gov.uk/ukpga/2002/23).
+
+[^c9255681]: Marginal citation: Section 6AE was inserted by section 10(3) of the [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12).
+
+[^key-bd2042b920985c69602733348449c660]: Textual amendment: Reg. 3(3A) inserted (1.4.2008) by [The Hydrocarbon Oil, Biofuels and Other Fuel Substitutes (Determination of Composition of a Substance and Miscellaneous Amendments) Regulations 2008 (S.I. 2008/753)](https://www.legislation.gov.uk/uksi/2008/753), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/753/regulation/1/2), [8(2)(e)](https://www.legislation.gov.uk/uksi/2008/753/regulation/8/2/e)
+
+[^key-cac200a96097f96a2b6ef65c8a0c964d]: Textual amendment: Words in reg. 3(4) inserted (14.11.2016) by [The Biofuels and Hydrocarbon Oil Duties (Miscellaneous Amendment) Regulations 2016 (S.I. 2016/976)](https://www.legislation.gov.uk/uksi/2016/976), [regs. 1](https://www.legislation.gov.uk/uksi/2016/976/regulation/1), [4(c)](https://www.legislation.gov.uk/uksi/2016/976/regulation/4/c)
+
+[^key-1b66a56539b930e24bac5261608b6139]: Textual amendment: Words in reg. 3(4) substituted (1.4.2008) by [The Hydrocarbon Oil, Biofuels and Other Fuel Substitutes (Determination of Composition of a Substance and Miscellaneous Amendments) Regulations 2008 (S.I. 2008/753)](https://www.legislation.gov.uk/uksi/2008/753), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/753/regulation/1/2), [8(2)(f)](https://www.legislation.gov.uk/uksi/2008/753/regulation/8/2/f)
+
+[^c9255691]: Marginal citation: [S.I. 1995/2717](https://www.legislation.gov.uk/uksi/1995/2717), amended by [S.I. 2002/1928](https://www.legislation.gov.uk/uksi/2002/1928).
+
+[^c9255701]: Marginal citation: [S.I. 2002/1928](https://www.legislation.gov.uk/uksi/2002/1928).
+
+[^c9255711]: Marginal citation: [1979 c. 2](https://www.legislation.gov.uk/ukpga/1979/2); relevant amendments were made by Schedule 1of the [Isle of Man Act 1979 (c. 58)](https://www.legislation.gov.uk/ukpga/1979/58) and paragraph 2 of Schedule 4 to the [Finance Act 1994 (c. 9)](https://www.legislation.gov.uk/ukpga/1994/9).
+
+[^c9255721]: Marginal citation: [S.I](https://www.legislation.gov.uk/uksi/2004/2065/section/I). 1999/ 1278; there are amendments not relevant to this instrument.
+
+[^key-131d25dbf04ecf148e81555f2ef555a7]: Textual amendment: Word in reg. 7(1)(a) omitted (1.4.2014) by virtue of [The Biofuels and Other Fuel Substitutes (Payment of Excise Duties etc.) (Amendment) Regulations 2014 (S.I. 2014/471)](https://www.legislation.gov.uk/uksi/2014/471), [regs. 1](https://www.legislation.gov.uk/uksi/2014/471/regulation/1), [3(a)(i)](https://www.legislation.gov.uk/uksi/2014/471/regulation/3/a/i)
+
+[^key-c26b993d48d6c42d8f53de224209adc5]: Textual amendment: Word in reg. 7(1)(b) inserted (1.4.2014) by [The Biofuels and Other Fuel Substitutes (Payment of Excise Duties etc.) (Amendment) Regulations 2014 (S.I. 2014/471)](https://www.legislation.gov.uk/uksi/2014/471), [regs. 1](https://www.legislation.gov.uk/uksi/2014/471/regulation/1), [3(a)(ii)](https://www.legislation.gov.uk/uksi/2014/471/regulation/3/a/ii)
+
+[^key-f321eb7338168ad9d12f6c4848be63b6]: Textual amendment: Reg. 7(1)(c) inserted (1.4.2014) by [The Biofuels and Other Fuel Substitutes (Payment of Excise Duties etc.) (Amendment) Regulations 2014 (S.I. 2014/471)](https://www.legislation.gov.uk/uksi/2014/471), [regs. 1](https://www.legislation.gov.uk/uksi/2014/471/regulation/1), [3(a)(iii)](https://www.legislation.gov.uk/uksi/2014/471/regulation/3/a/iii)
+
+[^key-48540b6e40aa317b67d53507b721ea33]: Textual amendment: Reg. 7(2)(b) substituted (1.4.2014) by [The Biofuels and Other Fuel Substitutes (Payment of Excise Duties etc.) (Amendment) Regulations 2014 (S.I. 2014/471)](https://www.legislation.gov.uk/uksi/2014/471), [regs. 1](https://www.legislation.gov.uk/uksi/2014/471/regulation/1), [3(b)](https://www.legislation.gov.uk/uksi/2014/471/regulation/3/b)
+
+[^c9255731]: Marginal citation: [S.I. 2004/2064](https://www.legislation.gov.uk/uksi/2004/2064).
+
+[^key-6abb1959eafc2e038d92eecef2f5592f]: Textual amendment: Regs. 8-8F substituted for reg. 8 (30.6.2007) by [The Biofuels and Other Fuel Substitutes (Payment of Excise Duties etc) (Amendment) Regulations 2007 (S.I. 2007/1640)](https://www.legislation.gov.uk/uksi/2007/1640), [regs. 1](https://www.legislation.gov.uk/uksi/2007/1640/regulation/1), [4(1)](https://www.legislation.gov.uk/uksi/2007/1640/regulation/4/1)
+
+[^key-c6c567771e114ec32c8b342515977202]: Textual amendment: Word in reg. 8(1) omitted (14.11.2016) by virtue of [The Biofuels and Hydrocarbon Oil Duties (Miscellaneous Amendment) Regulations 2016 (S.I. 2016/976)](https://www.legislation.gov.uk/uksi/2016/976), [regs. 1](https://www.legislation.gov.uk/uksi/2016/976/regulation/1), [5(a)(i)(aa)](https://www.legislation.gov.uk/uksi/2016/976/regulation/5/a/i/aa)
+
+[^key-76807c5b054e220ef91b1508b76be044]: Textual amendment: Words in reg. 8(1) substituted (14.11.2016) by [The Biofuels and Hydrocarbon Oil Duties (Miscellaneous Amendment) Regulations 2016 (S.I. 2016/976)](https://www.legislation.gov.uk/uksi/2016/976), [regs. 1](https://www.legislation.gov.uk/uksi/2016/976/regulation/1), [5(a)(i)(bb)](https://www.legislation.gov.uk/uksi/2016/976/regulation/5/a/i/bb)
+
+[^key-90e4adf1bfa4737ef4caa361c8c03f1e]: Textual amendment: Reg. 8(4) inserted (14.11.2016) by [The Biofuels and Hydrocarbon Oil Duties (Miscellaneous Amendment) Regulations 2016 (S.I. 2016/976)](https://www.legislation.gov.uk/uksi/2016/976), [regs. 1](https://www.legislation.gov.uk/uksi/2016/976/regulation/1), [5(a)(ii)](https://www.legislation.gov.uk/uksi/2016/976/regulation/5/a/ii)
+
+[^key-5ec532ed94be34354851a017fa46a341]: Textual amendment: Punctuation in reg. 8A(3)(b) substituted (14.11.2016) by [The Biofuels and Hydrocarbon Oil Duties (Miscellaneous Amendment) Regulations 2016 (S.I. 2016/976)](https://www.legislation.gov.uk/uksi/2016/976), [regs. 1](https://www.legislation.gov.uk/uksi/2016/976/regulation/1), [5(b)(i)](https://www.legislation.gov.uk/uksi/2016/976/regulation/5/b/i)
+
+[^key-150d73ccd15198315de363c5bcb4297e]: Textual amendment: Reg. 8A(3)(c) inserted (14.11.2016) by [The Biofuels and Hydrocarbon Oil Duties (Miscellaneous Amendment) Regulations 2016 (S.I. 2016/976)](https://www.legislation.gov.uk/uksi/2016/976), [regs. 1](https://www.legislation.gov.uk/uksi/2016/976/regulation/1), [5(b)(ii)](https://www.legislation.gov.uk/uksi/2016/976/regulation/5/b/ii)
+
+[^key-f9e2628282f93c5b19b92b10c1864974]: Textual amendment: Words in reg. 8E(1) substituted (14.11.2016) by [The Biofuels and Hydrocarbon Oil Duties (Miscellaneous Amendment) Regulations 2016 (S.I. 2016/976)](https://www.legislation.gov.uk/uksi/2016/976), [regs. 1](https://www.legislation.gov.uk/uksi/2016/976/regulation/1), [5(c)(i)](https://www.legislation.gov.uk/uksi/2016/976/regulation/5/c/i)
+
+[^key-e627bb1ca2e08a53f3eefb5c3adb6224]: Textual amendment: Reg. 8E(11) inserted (14.11.2016) by [The Biofuels and Hydrocarbon Oil Duties (Miscellaneous Amendment) Regulations 2016 (S.I. 2016/976)](https://www.legislation.gov.uk/uksi/2016/976), [regs. 1](https://www.legislation.gov.uk/uksi/2016/976/regulation/1), [5(c)(ii)](https://www.legislation.gov.uk/uksi/2016/976/regulation/5/c/ii)
+
+[^key-9009e6067276b3f245bb3b823eed51f2]: Textual amendment: Reg. 8F(4) inserted (14.11.2016) by [The Biofuels and Hydrocarbon Oil Duties (Miscellaneous Amendment) Regulations 2016 (S.I. 2016/976)](https://www.legislation.gov.uk/uksi/2016/976), [regs. 1](https://www.legislation.gov.uk/uksi/2016/976/regulation/1), [5(d)](https://www.legislation.gov.uk/uksi/2016/976/regulation/5/d)
+
+[^key-23f5f4bd6038819c3260bdd58ce00642]: Textual amendment: Words in [reg. 13](https://www.legislation.gov.uk/uksi/2004/2065/regulation/13) heading inserted (1.4.2022) by [The Hydrocarbon Oil Duties (Consequential Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/234)](https://www.legislation.gov.uk/uksi/2022/234), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/234/regulation/1/1), [7(3)](https://www.legislation.gov.uk/uksi/2022/234/regulation/7/3) (with [regs. 9](https://www.legislation.gov.uk/uksi/2022/234/regulation/9), [10](https://www.legislation.gov.uk/uksi/2022/234/regulation/10))
+
+[^key-2814cf17d42bdcd14c20a24f78e3b2b2]: Textual amendment: Words in [reg. 13(1)](https://www.legislation.gov.uk/uksi/2004/2065/regulation/13/1) inserted (30.6.2007) by [The Biofuels and Other Fuel Substitutes (Payment of Excise Duties etc) (Amendment) Regulations 2007 (S.I. 2007/1640)](https://www.legislation.gov.uk/uksi/2007/1640), [regs. 1](https://www.legislation.gov.uk/uksi/2007/1640/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2007/1640/regulation/5/2)
+
+[^key-d73ac43d84c13600d6ac9c4a66fbabd8]: Textual amendment: Words in [reg. 13(1)](https://www.legislation.gov.uk/uksi/2004/2065/regulation/13/1) inserted (1.4.2022) by [The Hydrocarbon Oil Duties (Consequential Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/234)](https://www.legislation.gov.uk/uksi/2022/234), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/234/regulation/1/1), [7(3)](https://www.legislation.gov.uk/uksi/2022/234/regulation/7/3) (with [regs. 9](https://www.legislation.gov.uk/uksi/2022/234/regulation/9), [10](https://www.legislation.gov.uk/uksi/2022/234/regulation/10))
+
+[^key-a38bd8f4f5b0244852802cbd1ae2bacc]: Textual amendment: Words in [reg. 13(3)](https://www.legislation.gov.uk/uksi/2004/2065/regulation/13/3) inserted (1.4.2022) by [The Hydrocarbon Oil Duties (Consequential Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/234)](https://www.legislation.gov.uk/uksi/2022/234), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/234/regulation/1/1), [7(3)](https://www.legislation.gov.uk/uksi/2022/234/regulation/7/3) (with [regs. 9](https://www.legislation.gov.uk/uksi/2022/234/regulation/9), [10](https://www.legislation.gov.uk/uksi/2022/234/regulation/10))
+
+[^key-62ed08c426b82b2886a0d525e9c6e8f2]: Textual amendment: [Reg. 13A](https://www.legislation.gov.uk/uksi/2004/2065/regulation/13A) inserted (30.6.2007) by [The Biofuels and Other Fuel Substitutes (Payment of Excise Duties etc) (Amendment) Regulations 2007 (S.I. 2007/1640)](https://www.legislation.gov.uk/uksi/2007/1640), [regs. 1](https://www.legislation.gov.uk/uksi/2007/1640/regulation/1), [6(1)](https://www.legislation.gov.uk/uksi/2007/1640/regulation/6/1)
+
+[^c9255771]: Marginal citation: [S.I. 1995/2717](https://www.legislation.gov.uk/uksi/1995/2717), amended by [S.I. 2002/1928](https://www.legislation.gov.uk/uksi/2002/1928).
+
+[^c9255781]: Marginal citation: [S.I. 2002/1928](https://www.legislation.gov.uk/uksi/2002/1928).
+
+[^key-64345eee43cbc0266001b75493974b08]: Textual amendment: Words in [reg. 17(1)](https://www.legislation.gov.uk/uksi/2004/2065/regulation/17/1) inserted (30.6.2007) by [The Biofuels and Other Fuel Substitutes (Payment of Excise Duties etc) (Amendment) Regulations 2007 (S.I. 2007/1640)](https://www.legislation.gov.uk/uksi/2007/1640), [regs. 1](https://www.legislation.gov.uk/uksi/2007/1640/regulation/1), [7(2)](https://www.legislation.gov.uk/uksi/2007/1640/regulation/7/2)
+
+[^key-f472a662cc744acf8ab6ef5b6d849cd6]: Textual amendment: Reg. 19(1)(1A) substituted for reg. 19(1) (30.6.2007) by [The Biofuels and Other Fuel Substitutes (Payment of Excise Duties etc) (Amendment) Regulations 2007 (S.I. 2007/1640)](https://www.legislation.gov.uk/uksi/2007/1640), [regs. 1](https://www.legislation.gov.uk/uksi/2007/1640/regulation/1), [8(2)](https://www.legislation.gov.uk/uksi/2007/1640/regulation/8/2)
+
+[^key-09501e728ec4838c357b5070533c2008]: Textual amendment: Words in reg. 19(1A)(a) inserted (14.11.2016) by [The Biofuels and Hydrocarbon Oil Duties (Miscellaneous Amendment) Regulations 2016 (S.I. 2016/976)](https://www.legislation.gov.uk/uksi/2016/976), [regs. 1](https://www.legislation.gov.uk/uksi/2016/976/regulation/1), [6](https://www.legislation.gov.uk/uksi/2016/976/regulation/6)
+
+[^key-fe55538ace1cadb125b6de1b393780c1]: Textual amendment: Word in reg. 19(4) substituted (30.6.2007) by [The Biofuels and Other Fuel Substitutes (Payment of Excise Duties etc) (Amendment) Regulations 2007 (S.I. 2007/1640)](https://www.legislation.gov.uk/uksi/2007/1640), [regs. 1](https://www.legislation.gov.uk/uksi/2007/1640/regulation/1), [8(3)](https://www.legislation.gov.uk/uksi/2007/1640/regulation/8/3)
+
+[^key-bd29b36a9b6dc82e8e32132ff85af675]: Textual amendment: Words in reg. 19(4) substituted (31.12.2007) by [The Biofuels and Hydrocarbon Oil Duties (Miscellaneous Amendments) Regulations 2007 (S.I. 2007/3307)](https://www.legislation.gov.uk/uksi/2007/3307), [regs. 1](https://www.legislation.gov.uk/uksi/2007/3307/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2007/3307/regulation/3/2)
+
+[^c9255791]: Marginal citation: [1882 c. 61](https://www.legislation.gov.uk/ukpga/1882/61); section 92 was amended by sections 3 and 4 of the [Banking and Financial Dealings Act 1971 (c. 80)](https://www.legislation.gov.uk/ukpga/1971/80).
+
+[^key-fc11ab2df700e25514d41f1dfea99e06]: Textual amendment: Words in reg. 19(6)(a) substituted (31.12.2007) by [The Biofuels and Hydrocarbon Oil Duties (Miscellaneous Amendments) Regulations 2007 (S.I. 2007/3307)](https://www.legislation.gov.uk/uksi/2007/3307), [regs. 1](https://www.legislation.gov.uk/uksi/2007/3307/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2007/3307/regulation/3/3)
+
+[^key-dffb64b3ae257c9e411e31f3ca733cd4]: Textual amendment: Reg. 19(8) inserted (30.6.2007) by [The Biofuels and Other Fuel Substitutes (Payment of Excise Duties etc) (Amendment) Regulations 2007 (S.I. 2007/1640)](https://www.legislation.gov.uk/uksi/2007/1640), [regs. 1](https://www.legislation.gov.uk/uksi/2007/1640/regulation/1), [8(4)](https://www.legislation.gov.uk/uksi/2007/1640/regulation/8/4)
+
+[^key-07c0dd35d799a90f0df8b47828888285]: Textual amendment: Reg. 19A inserted (30.6.2007) by [The Biofuels and Other Fuel Substitutes (Payment of Excise Duties etc) (Amendment) Regulations 2007 (S.I. 2007/1640)](https://www.legislation.gov.uk/uksi/2007/1640), [regs. 1](https://www.legislation.gov.uk/uksi/2007/1640/regulation/1), [9(1)](https://www.legislation.gov.uk/uksi/2007/1640/regulation/9/1)
+
+[^key-a95191c4a56cc1a10dc6c3004066203a]: Textual amendment: Words in reg. 19A(2) substituted (31.12.2007) by [The Biofuels and Hydrocarbon Oil Duties (Miscellaneous Amendments) Regulations 2007 (S.I. 2007/3307)](https://www.legislation.gov.uk/uksi/2007/3307), [regs. 1](https://www.legislation.gov.uk/uksi/2007/3307/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/2007/3307/regulation/4/2)
+
+[^key-53d54bdb5cbd1dd31ae34b456e5324b6]: Textual amendment: Words in reg. 19A(4)(a) inserted (14.11.2016) by [The Biofuels and Hydrocarbon Oil Duties (Miscellaneous Amendment) Regulations 2016 (S.I. 2016/976)](https://www.legislation.gov.uk/uksi/2016/976), [regs. 1](https://www.legislation.gov.uk/uksi/2016/976/regulation/1), [7](https://www.legislation.gov.uk/uksi/2016/976/regulation/7)
+
+[^key-0fb04d625096bae4e1707fc1806d5a1f]: Textual amendment: Regs. 19A(5)-(7) substituted for reg. 19A(5) (9.4.2008) by [The Hydrocarbon Oil, Biofuels and Other Fuel Substitutes (Determination of Composition of a Substance and Miscellaneous Amendments) Regulations 2008 (S.I. 2008/753)](https://www.legislation.gov.uk/uksi/2008/753), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/753/regulation/1/2), [8(3)](https://www.legislation.gov.uk/uksi/2008/753/regulation/8/3)
+
+[^key-9e3f0d390431c3a789a8aa7f253d4003]: Textual amendment: [Pt. 8](https://www.legislation.gov.uk/uksi/2004/2065/part/8) omitted (1.4.2008) by virtue of [The Hydrocarbon Oil, Biofuels and Other Fuel Substitutes (Determination of Composition of a Substance and Miscellaneous Amendments) Regulations 2008 (S.I. 2008/753)](https://www.legislation.gov.uk/uksi/2008/753), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/753/regulation/1/2), [8(4)](https://www.legislation.gov.uk/uksi/2008/753/regulation/8/4)
+
+[^key-d4b6ce9ad04ba67bfa8f8b16b6e2feab]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2004/2065/schedule) heading inserted (1.4.2022) by [The Hydrocarbon Oil Duties (Consequential Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/234)](https://www.legislation.gov.uk/uksi/2022/234), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/234/regulation/1/1), [7(4)(a)](https://www.legislation.gov.uk/uksi/2022/234/regulation/7/4/a) (with [regs. 9](https://www.legislation.gov.uk/uksi/2022/234/regulation/9), [10](https://www.legislation.gov.uk/uksi/2022/234/regulation/10))
+
+[^key-a5d92b3926e68c91b19db369db554c35]: Textual amendment: Words in Sch. inserted (14.11.2016) by [The Biofuels and Hydrocarbon Oil Duties (Miscellaneous Amendment) Regulations 2016 (S.I. 2016/976)](https://www.legislation.gov.uk/uksi/2016/976), [regs. 1](https://www.legislation.gov.uk/uksi/2016/976/regulation/1), [8(a)](https://www.legislation.gov.uk/uksi/2016/976/regulation/8/a)
+
+[^key-004540bb26051eb84518fc07e06db0c5]: Textual amendment: Words in [Sch. para. 1](https://www.legislation.gov.uk/uksi/2004/2065/schedule/paragraph/1) inserted (1.4.2022) by [The Hydrocarbon Oil Duties (Consequential Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/234)](https://www.legislation.gov.uk/uksi/2022/234), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/234/regulation/1/1), [7(4)(b)(i)](https://www.legislation.gov.uk/uksi/2022/234/regulation/7/4/b/i) (with [regs. 9](https://www.legislation.gov.uk/uksi/2022/234/regulation/9), [10](https://www.legislation.gov.uk/uksi/2022/234/regulation/10))
+
+[^key-b888ea85c93632b32c59cc2f4e875fb7]: Textual amendment: Sch. para. 1(bb) inserted (1.4.2008) by [The Hydrocarbon Oil, Biofuels and Other Fuel Substitutes (Determination of Composition of a Substance and Miscellaneous Amendments) Regulations 2008 (S.I. 2008/753)](https://www.legislation.gov.uk/uksi/2008/753), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/753/regulation/1/2), [8(5)(a)(i)](https://www.legislation.gov.uk/uksi/2008/753/regulation/8/5/a/i)
+
+[^key-a54c018d40d7da639cf778fc65dc93fd]: Textual amendment: Words in [Sch. para. 1(bb)](https://www.legislation.gov.uk/uksi/2004/2065/schedule/paragraph/1/bb) substituted (1.4.2022) by [The Hydrocarbon Oil Duties (Consequential Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/234)](https://www.legislation.gov.uk/uksi/2022/234), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/234/regulation/1/1), [7(4)(b)(ii)](https://www.legislation.gov.uk/uksi/2022/234/regulation/7/4/b/ii) (with [regs. 9](https://www.legislation.gov.uk/uksi/2022/234/regulation/9), [10](https://www.legislation.gov.uk/uksi/2022/234/regulation/10))
+
+[^key-3c74f0ad5c8ade76bdd4334dca5c6668]: Textual amendment: [Sch. para. 1(bc)](https://www.legislation.gov.uk/uksi/2004/2065/schedule/paragraph/1/bc) inserted (14.11.2016) by [The Biofuels and Hydrocarbon Oil Duties (Miscellaneous Amendment) Regulations 2016 (S.I. 2016/976)](https://www.legislation.gov.uk/uksi/2016/976), [regs. 1](https://www.legislation.gov.uk/uksi/2016/976/regulation/1), [8(b)](https://www.legislation.gov.uk/uksi/2016/976/regulation/8/b)
+
+[^key-69e96ec688e2ce7d6b9005371504db13]: Textual amendment: Words in Sch. para. 1(c)(iii) substituted (1.4.2008) by [The Hydrocarbon Oil, Biofuels and Other Fuel Substitutes (Determination of Composition of a Substance and Miscellaneous Amendments) Regulations 2008 (S.I. 2008/753)](https://www.legislation.gov.uk/uksi/2008/753), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/753/regulation/1/2), [8(5)(a)(ii)](https://www.legislation.gov.uk/uksi/2008/753/regulation/8/5/a/ii)
+
+[^key-205ed99eddb53e74660fc2e2df96dc38]: Textual amendment: Sch. paras. 1(c)(via)-(vic) inserted (1.4.2022) by [The Hydrocarbon Oil Duties (Consequential Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/234)](https://www.legislation.gov.uk/uksi/2022/234), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/234/regulation/1/1), [7(4)(b)(iii)](https://www.legislation.gov.uk/uksi/2022/234/regulation/7/4/b/iii) (with [regs. 9](https://www.legislation.gov.uk/uksi/2022/234/regulation/9), [10](https://www.legislation.gov.uk/uksi/2022/234/regulation/10))
+
+[^key-33905f1ab185af2c35f6487438ee7060]: Textual amendment: Words in Sch. para. 1(c)(ix) substituted (1.4.2008) by [The Hydrocarbon Oil, Biofuels and Other Fuel Substitutes (Determination of Composition of a Substance and Miscellaneous Amendments) Regulations 2008 (S.I. 2008/753)](https://www.legislation.gov.uk/uksi/2008/753), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/753/regulation/1/2), [8(5)(a)(ii)](https://www.legislation.gov.uk/uksi/2008/753/regulation/8/5/a/ii)
+
+[^key-3e86718f5965ba5c4373f6b9a25d359d]: Textual amendment: Sch. para. 1(c)(xa) inserted (1.4.2014) by [The Biofuels and Other Fuel Substitutes (Payment of Excise Duties etc.) (Amendment) Regulations 2014 (S.I. 2014/471)](https://www.legislation.gov.uk/uksi/2014/471), [regs. 1](https://www.legislation.gov.uk/uksi/2014/471/regulation/1), [4(a)](https://www.legislation.gov.uk/uksi/2014/471/regulation/4/a)
+
+[^key-1618421b16f2c588fa7dec1872a1c1a4]: Textual amendment: Sch. paras. 1(c)(xb)-(xd) inserted (1.4.2022) by [The Hydrocarbon Oil Duties (Consequential Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/234)](https://www.legislation.gov.uk/uksi/2022/234), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/234/regulation/1/1), [7(4)(b)(iv)](https://www.legislation.gov.uk/uksi/2022/234/regulation/7/4/b/iv) (with [regs. 9](https://www.legislation.gov.uk/uksi/2022/234/regulation/9), [10](https://www.legislation.gov.uk/uksi/2022/234/regulation/10))
+
+[^key-27221d54d1e992d3d7793e89f7954dc2]: Textual amendment: Words in [Sch. para. 1(h)](https://www.legislation.gov.uk/uksi/2004/2065/schedule/paragraph/1/h) inserted (1.4.2022) by [The Hydrocarbon Oil Duties (Consequential Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/234)](https://www.legislation.gov.uk/uksi/2022/234), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/234/regulation/1/1), [7(4)(b)(v)](https://www.legislation.gov.uk/uksi/2022/234/regulation/7/4/b/v) (with [regs. 9](https://www.legislation.gov.uk/uksi/2022/234/regulation/9), [10](https://www.legislation.gov.uk/uksi/2022/234/regulation/10))
+
+[^key-04434a5545e76c9cfac4fa96e9b9ea15]: Textual amendment: Words in [Sch. para. 2](https://www.legislation.gov.uk/uksi/2004/2065/schedule/paragraph/2) inserted (1.4.2022) by [The Hydrocarbon Oil Duties (Consequential Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/234)](https://www.legislation.gov.uk/uksi/2022/234), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/234/regulation/1/1), [7(4)(c)(i)](https://www.legislation.gov.uk/uksi/2022/234/regulation/7/4/c/i) (with [regs. 9](https://www.legislation.gov.uk/uksi/2022/234/regulation/9), [10](https://www.legislation.gov.uk/uksi/2022/234/regulation/10))
+
+[^key-37f61b84861d1823d50c78600d096847]: Textual amendment: [Sch. para. 2(bb)](https://www.legislation.gov.uk/uksi/2004/2065/schedule/paragraph/2/bb) inserted (14.11.2016) by [The Biofuels and Hydrocarbon Oil Duties (Miscellaneous Amendment) Regulations 2016 (S.I. 2016/976)](https://www.legislation.gov.uk/uksi/2016/976), [regs. 1](https://www.legislation.gov.uk/uksi/2016/976/regulation/1), [8(c)](https://www.legislation.gov.uk/uksi/2016/976/regulation/8/c)
+
+[^key-1d89be133abea60f846376c495c8df8f]: Textual amendment: Words in Sch. para. 2(c)(iii) substituted (1.4.2008) by [The Hydrocarbon Oil, Biofuels and Other Fuel Substitutes (Determination of Composition of a Substance and Miscellaneous Amendments) Regulations 2008 (S.I. 2008/753)](https://www.legislation.gov.uk/uksi/2008/753), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/753/regulation/1/2), [8(5)(b)](https://www.legislation.gov.uk/uksi/2008/753/regulation/8/5/b)
+
+[^key-592f1534e10544d81848111945a2c403]: Textual amendment: Word in [Sch. para. 2(c)(vi)](https://www.legislation.gov.uk/uksi/2004/2065/schedule/paragraph/2/c/vi) substituted (1.4.2022) by [The Hydrocarbon Oil Duties (Consequential Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/234)](https://www.legislation.gov.uk/uksi/2022/234), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/234/regulation/1/1), [7(4)(c)(ii)](https://www.legislation.gov.uk/uksi/2022/234/regulation/7/4/c/ii) (with [regs. 9](https://www.legislation.gov.uk/uksi/2022/234/regulation/9), [10](https://www.legislation.gov.uk/uksi/2022/234/regulation/10))
+
+[^key-cdd476773464c782341415c4add05dca]: Textual amendment: [Sch. paras. 2(c)(via)-(vic)](https://www.legislation.gov.uk/uksi/2004/2065/schedule/paragraph/2/c) inserted (1.4.2022) by [The Hydrocarbon Oil Duties (Consequential Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/234)](https://www.legislation.gov.uk/uksi/2022/234), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/234/regulation/1/1), [7(4)(c)(iii)](https://www.legislation.gov.uk/uksi/2022/234/regulation/7/4/c/iii) (with [regs. 9](https://www.legislation.gov.uk/uksi/2022/234/regulation/9), [10](https://www.legislation.gov.uk/uksi/2022/234/regulation/10))
+
+[^key-f5deb0cecf029105261ed44d1e6ab078]: Textual amendment: Words in Sch. para. 2(c)(ix) substituted (1.4.2008) by [The Hydrocarbon Oil, Biofuels and Other Fuel Substitutes (Determination of Composition of a Substance and Miscellaneous Amendments) Regulations 2008 (S.I. 2008/753)](https://www.legislation.gov.uk/uksi/2008/753), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/753/regulation/1/2), [8(5)(b)](https://www.legislation.gov.uk/uksi/2008/753/regulation/8/5/b)
+
+[^key-97bdc0292df428023740a03b504ef281]: Textual amendment: Sch. para. 2(c)(xa) inserted (1.4.2014) by [The Biofuels and Other Fuel Substitutes (Payment of Excise Duties etc.) (Amendment) Regulations 2014 (S.I. 2014/471)](https://www.legislation.gov.uk/uksi/2014/471), [regs. 1](https://www.legislation.gov.uk/uksi/2014/471/regulation/1), [4(b)(i)](https://www.legislation.gov.uk/uksi/2014/471/regulation/4/b/i)
+
+[^key-71d675c84b6b882b3fd85fff10b3ad26]: Textual amendment: Sch. paras. 2(c)(xb)-(xd) inserted (1.4.2022) by [The Hydrocarbon Oil Duties (Consequential Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/234)](https://www.legislation.gov.uk/uksi/2022/234), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/234/regulation/1/1), [7(4)(c)(iv)](https://www.legislation.gov.uk/uksi/2022/234/regulation/7/4/c/iv) (with [regs. 9](https://www.legislation.gov.uk/uksi/2022/234/regulation/9), [10](https://www.legislation.gov.uk/uksi/2022/234/regulation/10))
+
+[^key-990654f592d4271c2e6544108b78865a]: Textual amendment: Words in Sch. para. 2(c)(xii) inserted (1.4.2014) by [The Biofuels and Other Fuel Substitutes (Payment of Excise Duties etc.) (Amendment) Regulations 2014 (S.I. 2014/471)](https://www.legislation.gov.uk/uksi/2014/471), [regs. 1](https://www.legislation.gov.uk/uksi/2014/471/regulation/1), [4(b)(ii)](https://www.legislation.gov.uk/uksi/2014/471/regulation/4/b/ii)
+
+[^key-4b43b70b69eb4f299dd55ca0e07f1a9b]: Textual amendment: Words in [Sch. para. 2(e)](https://www.legislation.gov.uk/uksi/2004/2065/schedule/paragraph/2/e) inserted (1.4.2022) by [The Hydrocarbon Oil Duties (Consequential Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/234)](https://www.legislation.gov.uk/uksi/2022/234), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/234/regulation/1/1), [7(4)(c)(v)](https://www.legislation.gov.uk/uksi/2022/234/regulation/7/4/c/v) (with [regs. 9](https://www.legislation.gov.uk/uksi/2022/234/regulation/9), [10](https://www.legislation.gov.uk/uksi/2022/234/regulation/10))
+
+[^c9255811]: Marginal citation: OJ No L 283, 31.10.2003, p 51.

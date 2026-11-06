@@ -1,0 +1,53 @@
+---
+title: Domestic Abuse Act 2021, section 81
+act: Domestic Abuse Act 2021
+section: '81'
+status: revised-with-pending-changes
+text_date: '2026-03-25'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2021/17/section/81
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Domestic Abuse Act 2021, section 81
+
+> **Warning: changes not yet applied to this text (7).** Text as at 2026-03-25. See https://www.legislation.gov.uk/changes/affected/ukpga/2021/17
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 81. Review of processing of victims' personal data for immigration purposes
+
+*Extent: E+W+S+N.I.*
+
+(1) The Secretary of State must, before the end of the relevant period—
+
+- (a) review the processing of domestic abuse data carried out by specified public authorities for immigration purposes,
+- (b) prepare and publish a report setting out the findings of the review, and
+- (c) lay a copy of the report before Parliament.
+
+(2) In carrying out the review, the Secretary of State must have regard to the recommendations of the HMIC Report.
+
+(3) In subsection (1), the “**relevant period**” means the period beginning with the day on which this section comes into force and ending with 30 June 2021 (but see subsection (4)).
+
+(4) The Secretary of State may by regulations extend the relevant period by a further period of up to 6 months.
+
+(5) The power conferred by subsection (4) may be exercised only once.
+
+(6) In this section—
+
+- “**domestic abuse data**” means personal data obtained for the purposes of, or in connection with, the provision of support in relation to domestic abuse to victims of domestic abuse or their children;
+- “**the HMIC Report**” means the report on Liberty and Southall Black Sisters' super-complaint on policing and immigration status published by Her Majesty's Chief Inspector of Constabulary on 17 December 2020;
+- “**immigration officer**” means a person appointed as an immigration officer under paragraph 1 of Schedule 2 to the Immigration Act 1971;
+- “**immigration purposes**” means the purposes of—
+  - (a) the maintenance of effective immigration control, or
+  - (b) the investigation or detection of activities that would undermine the maintenance of effective immigration control;
+- “**personal data**” has the meaning given by section 3(2) of the Data Protection Act 2018;
+- “**processing**” has the meaning given by section 3(4) of that Act;
+- “**specified public authority**” means—
+  - (a) a chief officer of police of a police force maintained for a police area in England and Wales;
+  - (b) the chief constable of the Police Service of Scotland;
+  - (c) the Chief Constable of the Police Service of Northern Ireland;
+  - (d) the Chief Constable of the British Transport Police Force;
+  - (e) the Chief Constable of the Ministry of Defence Police;
+  - (f) an immigration officer or other official of the Secretary of State exercising functions in relation to immigration or asylum.

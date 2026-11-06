@@ -1,0 +1,2369 @@
+---
+title: The Merchant Shipping (Prevention of Air Pollution from Ships) Regulations 2008
+id: uksi/2008/2924
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2008-11-12'
+text_date: '2026-01-05'
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2008/2924
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2008/2924/pdfs/uksiem_20082924_en.pdf
+- http://www.legislation.gov.uk/uksi/2008/2924/pdfs/uksi_20082924_en.pdf
+- http://www.legislation.gov.uk/uksi/2008/2924/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Merchant Shipping (Prevention of Air Pollution from Ships) Regulations 2008
+
+> Text as at 2026-01-05.
+
+2008 No. 2924
+
+Marine Pollution
+
+The Merchant Shipping (Prevention of Air Pollution from Ships) Regulations 2008
+
+Made
+
+12th November 2008
+
+Laid before Parliament
+
+14th November 2008
+
+Coming into force
+
+8th December 2008
+
+The Secretary of State makes the following Regulations in exercise of the powers conferred by articles 2 and 3 of the Merchant Shipping (Prevention of Air Pollution from Ships) Order 2006[^f00001], article 2 of the Merchant Shipping (Prevention of Pollution)(Law of the Sea Convention) Order 1996[^f00002] and section 128(5) and (6) of the Merchant Shipping Act 1995[^f00003]:[^key-43aa0ea9605b58af790791c5d831574d]
+
+## PART 1 — General
+
+### 1. Citation and commencement
+
+These Regulations may be cited as the Merchant Shipping (Prevention of Air Pollution from    Ships) Regulations 2008 and come into force on 8<sup>th</sup> December 2008.
+
+### 2. Interpretation
+
+(1) In these Regulations—
+
+- “the 1995 Act” means the Merchant Shipping Act 1995;
+- “the 1995 Regulations” means the Merchant Shipping (Port State Control) Regulations 1995[^f00004];
+- [^key-eb13184d4d2af3f9484bfff7332ed043]...
+- “the 2016 Directive” means Directive ([^key-10a6c9230be9d8ad1c7057106be3fd37]EU) 2016/802 of the European Parliament and of the Council of 11th May 2016 relating to a reduction in the sulphur content of certain liquid fuels;
+- “additional survey” means a survey carried out under regulation 10(3);
+- “Annex VI” means Annex VI to the Convention;[^key-b87f75b69631e5f5bb063e1c6affb463]
+- “anniversary date” means the day and month of each year which will correspond to the date of expiry of the latest appropriate certificate which has been issued and which is still valid in respect of the ship in question;
+- “annual survey” means a survey carried out under regulation 7(2) and described in Regulation 5.1.4 of Annex VI[^key-e53191ebdc5b5b5b63c4ef3cc79ebfaa];
+- “annual survey period” means the period specified in regulation 7(5);
+- “appropriate certificate” means—
+  - (a) an IAPP Certificate, in relation to—
+    - (i) a platform which is or will be engaged in voyages to waters under the sovereignty or jurisdiction of a Contracting Government other than the United Kingdom, and
+    - (ii) any other United Kingdom ship of 400 GT or above which is or will be engaged in voyages to a port or offshore terminal under the jurisdiction of a Contracting Government other than the United Kingdom,
+  - (b) a UKAPP Certificate in relation to—
+    - (i) a platform which is not or will not be engaged in voyages to waters under the sovereignty or jurisdiction of a Contracting Government other than the United Kingdom, and
+    - (ii) any other United Kingdom ship of 400 GT or above which is not and will not be engaged in voyages to a port or offshore terminal under the jurisdiction of a Contracting Government other than the United Kingdom;
+- “Baltic Sea emission control area” means the area designated as such in regulation 1.11.2 of Annex I to the Convention;[^key-97077c0c532f711638cc6eec956de5ce]
+- “Certifying Authority” means the Secretary of State or any person authorised by the Secretary of State in accordance with regulation 4 (certifying authorities) of the Merchant Shipping (Survey and Certification) Regulations 2015;[^key-a74e0bff0b196a7cedc8f09869bf04af]
+- “Contracting Government” means the Government of a State which has consented to be bound by the Convention, and for which the Protocol of 1997 to the Convention is in force;
+- “the Convention” means the International Convention for the Prevention of Pollution from Ships, 1973[^f00006] including its protocols, annexes and appendices, as amended by the Protocols of 1978[^f00007] and 1997[^f00008] [^key-470439d53b4947ccf3968450335ee720]....
+- “continuous feed” in relation to a shipboard incinerator, means the process whereby waste is fed into a combustion chamber without human assistance while the incinerator is in normal operating conditions with the combustion chamber operative temperatures within the range of 850° and 1200°C;
+- “[^key-10fffd8b9d2f2ca7c72dbb147bb0d995]**controlled waters**” means the areas of sea specified by the Merchant Shipping (Prevention of Pollution) (Limits) Regulations 2014 as waters within which the jurisdiction and rights of the United Kingdom are exercisable in accordance with Part XII of the United Nations Convention on the Law of the Sea for the protection and preservation of the marine environment;
+- “date of expiry”, in relation to an appropriate certificate held in respect of a ship, means the last day of the period specified in that appropriate certificate as the period for which the certificate is valid;
+- “electronic record book” means any device or system approved by the Secretary of State which is used in lieu of a hard copy record book to record electronically any entry required by these Regulations in respect of any discharge, transfer or other operation;[^key-06b76e3b7071628b527b13a1348a5d17]
+- “emission” means any release of a substance subject to control by these Regulations from a ship into the atmosphere or sea;
+- “emission control area” means—[^key-019ccd256a5cfac1fe54865199d9f15f]
+  - (a) the Baltic Sea emission control area;
+  - (b) the North Sea emission control area;
+  - (c) the North American emission control area;
+  - (d) the United States Caribbean emission control area; and
+  - (e) any other sea area, including a port area, designated by the Marine Environment Protection Committee of the IMO as an emission control area for the purposes of Annex VI;
+- “exclusive economic zone”, in relation to a foreign State, means the area beyond and adjacent to the territorial sea of that State, but not extending beyond 200 nautical miles from the baselines from which the breadth of the territorial sea is measured;
+- “flag State”, in relation to a ship, means the State whose flag the ship is entitled to fly;
+- “fuel oil” means any fuel delivered to and intended for combustion purposes for propulsion or operation on board a ship, including gas, distillate and residual fuels;[^key-f43d2cb69d79406e895e61ee6cc7e2dc]
+- “GT” means gross tonnage, and the gross tonnage of a ship is to be determined for the purposes of these Regulations in accordance with Schedule 1;
+- “harbour master” has the same meaning as in section 144(7) of the 1995 Act;
+- “IAPP Certificate” means a certificate entitled “International Air Pollution Prevention Certificate” issued in accordance with the Convention;
+- ““IEE Certificate” means an international energy efficiency certificate issued in accordance with the Convention;[^key-a0841a3ba025cf13b21f4aa55a55c70b]
+- “IMO” means the International Maritime Organization;
+- “[^key-ea066f19503bca8e23c3e40817a76011]**intermediate survey**” means a survey carried out under regulation 8 and described in Regulation 5.1.3 of Annex VI;
+- “intermediate survey period” means the period specified in regulation 8(4);
+- “Marine Guidance Note” means a note described as such and issued by the MCA and any reference to a particular Marine Guidance Note includes a reference to a Marine Guidance Note amending or replacing that Note which is considered by the Secretary of State to be relevant from time to time;
+- “maximum continuous rating of the engine” means the rated power in kW as given in the Engine International Air Pollution Prevention Certificate issued in accordance with the NOx Technical Code;
+- “MCA” means the Maritime and Coastguard Agency, an executive agency of the Department for Transport;
+- “Merchant Shipping Notice” means a notice described as such and issued by the MCA, and any reference to any particular Merchant Shipping Notice includes a reference to a Merchant Shipping Notice amending or replacing that Notice which is considered by the Secretary of State to be relevant from time to time;
+- “nautical mile” means an international nautical mile of 1,852 metres;
+- “new installation” means the installation of systems, equipment, including new portable fire extinguishing units, insulation, or other material on a ship, but excludes repair or recharge of previously installed systems, equipment, insulation, or other material, and excludes recharge of portable fire extinguishing units;
+- “[^key-f2963b7f4c08487c19c4f77ef997c1e3]**non-conventional propulsion**” has the meaning given by Regulation 2.2.19 of Annex VI;
+- “North American emission control area” means the area designated as such in Appendix VII to Annex VI;[^key-981a6af9adfb0588cc77fcf0d0c470d6]
+- “North Sea emission control area” means the area designated as such in regulation 1.14.6 of Annex V to the Convention;[^key-ac5155cdd5bfed2ebe3baba1046b557b]
+- “noxious liquid substance” has the meaning given in regulation 1.10 of Annex II to the Convention;
+- “NOx Technical Code” means the Technical Code on Control of Emission of Nitrogen Oxides from Marine Diesel Engines [^f00010]and includes any document amending it which is considered by the Secretary of State to be relevant from time to time and is specified in a Merchant Shipping Notice;
+- “offshore terminal” means an installation situated away from the shore, where bulk, fluid or gas cargo (or more than one of these) is—
+  - (a) transferred between ships,
+  - (b) loaded onto a ship after having been transported from the shoreline, or
+  - (c) unloaded from a ship for transporting to the shoreline;
+- “ozone-depleting substance” means a controlled substance defined in paragraph 4 of article 1 of the Montreal Protocol on Substances that Deplete the Ozone Layer, 1987[^f00011] listed in Annex A, B, C or E to that Protocol and in Appendix 4 to Merchant Shipping Notice 1819 (M+F);
+- “platform” includes fixed and floating platforms and drilling rigs;
+- “[^key-23affdf710f67dee282c7fc8b68f937f]**Polar Code**” has the meaning given by Regulation 2.2.21 of Annex VI;
+- “**prescribed fee**” means any fee due under the Merchant Shipping (Fees) Regulations 2018;
+- “Protocol of 1997” means the Protocol, dated 26th September 1997, to amend the International Convention for the Prevention of Pollution from Ships, 1973, as modified by the Protocol of 1978 relating thereto;
+- “relevant IMO Guidelines” means—[^key-3e00a2c02211aecb2782c3e631867044]
+  - (a) in regulation 25A and paragraph 6D of Schedule 4, the 2022 Guidelines for the development of a ship energy efficiency management plan (SEEMP), adopted on 10th June 2022 by Resolution MEPC.346(78);
+  - (b) in paragraph 6A of Schedule 4, the 2022 Guidelines on operational carbon intensity indicators and the calculation methods (CII Guidelines, G1), adopted on 10th June 2022 by Resolution MEPC.352(78);
+  - (c) in paragraph 6C of Schedule 4—
+    - (i) the 2021 Guidelines on the operational carbon intensity reduction factors relative to reference lines (CII reduction factors Guidelines, G3), adopted on 17th June 2021 by Resolution MEPC.338(76);
+    - (ii) the 2022 Guidelines for administration verification of ship fuel oil consumption data and operational carbon intensity, adopted on 10th June 2022 by Resolution MEPC.348(78);
+    - (iii) the 2022 Guidelines on operational carbon intensity indicators and the calculation methods (CII Guidelines, G1) adopted on 10th June 2022 by Resolution MEPC.352(78);
+    - (iv) the 2022 Guidelines on the reference lines for use with operational carbon intensity indicators (CII reference lines Guidelines, G2) adopted on 10th June 2022 by Resolution MEPC.353(78);
+    - (v) the 2022 Guidelines on the operational carbon intensity rating of ships (CII rating Guidelines, G4), adopted on 10th June 2022 by Resolution MEPC.354(78);
+    - (vi) the 2022 Interim Guidelines on correction factors and voyage adjustments for CII calculations (CII Guidelines, G5) adopted on 10th June 2022 by Resolution MEPC.355(78);
+  - (d) in regulation 2A, any of the guidelines mentioned in paragraphs (a) to (c) of this definition;
+- “relevant offence” means an offence comprising a contravention of regulation[^key-c8104d02d0a066ab894d8f86a3512994] 11ZA(1) or (4), 13B(4), 19A(1) or (4),[^key-6449a3c08e415f8cece4e2776003057d] 20(1), 21(4), (4B) or (4D), 23(3) or (4), 24(1), (4) or (7), 25(3A) or (3B) , 25A(2) or (3), 25B(1)[^key-e4632c27f7df17e142dffc34932d6079] or paragraph 2(2), (3), (3A) or (5) of Schedule 2A;
+- “renewal survey” means a survey carried out under regulation 6(3) and described in Regulation 5.1.2 of Annex VI[^key-e1b92e33d97771d6d58cfc400ebded89];
+- “sea” includes any estuary or arm of the sea;
+- ““SEEMP” means a ship energy efficiency management plan described in regulation 25A;[^key-5e8e750b869044a9ed2d14b7f2827360]
+- “ship” means a vessel of any type whatsoever, including a hydrofoil boat, an air-cushion vehicle, a submersible, a floating craft and a platform, which is operating in the marine environment—
+  - (a) beyond the limits of waters in categories A and B, or
+  - (b) in waters in category C, but excluding deep lakes and lochs where the significant wave height (calculated as four times the square root of the area under the wave energy spectrum) could not be expected to exceed 1.2 metres at any time,
+
+  where categories A, B and C have the meanings given to them in Merchant Shipping Notice 1776(M);
+- “shipboard incineration” means the incineration on board a ship of wastes or other matter generated during the normal operation of the ship;
+- “shipboard incinerator” means a shipboard facility designed for the primary purpose of incineration;
+- “[^key-48f48595a5ed80d58b12b3780fbf0914]**short voyage**” means a voyage which—
+  - (a) does not exceed 1000 nautical miles between the last port of call in the country in which the voyage begins and the last port of call in the voyage before beginning any return voyage, and
+  - (b) on any return voyage does not exceed 1000 nautical miles between the port of call in which the ship begins its return voyage and the first port of call in the country in which the voyage began,
+
+  and for the purposes of this definition, no account is to be taken of any deviation by a ship from its intended voyage due solely to stress of weather or any other circumstances that neither the master nor the owner nor the charterer (if any) of the ship could have prevented or forestalled;
+- “sludge oil” means sludge from fuel or lubricating oil separators, waste lubricating oil from main or auxiliary machinery, or waste oil from bilge water separators, oil filtering equipment or drip trays;
+- “[^key-e0e0dab81502391bc358c7556f4de6f4]**Statement of Compliance**” means a statement of compliance relating to fuel oil consumption reporting and operational carbon intensity rating, issued in accordance with Regulation 6.6 or 6.7 of Annex VI;
+- “STCW Convention” means the International Convention on Standards of Training, Certification and Watchkeeping for Seafarers [^f00012], as amended in 1995 by resolution 1 of the STCW Convention [^f00013], convened at the IMO’s headquarters from 26th June to 7th July 1995;
+- [^key-1955484586536465be2a223bd94eb6d2]...
+- “surveyor” means a surveyor of ships or any other person appointed by a Certifying Authority (other than the Secretary of State) to be a surveyor and “survey” means a survey carried out by a surveyor;
+- “tanker” means—
+  - (a) an oil tanker as defined in regulation 1(5) of Annex I to the Convention, or
+  - (b) a chemical tanker as defined in regulation 1.16.1 of Annex II to the Convention;.
+- “terminal operator” means the person who controls the activities of any terminal, jetty, pier, floating structure or other work within a port at which ships can obtain shelter or ship and unship goods or passengers;
+- “UKAPP Certificate” means a certificate entitled “United Kingdom Air Pollution Prevention Certificate” issued by a Certifying Authority and evidencing compliance with these Regulations;
+- “United States Caribbean emission control area” means the area designated as such in Appendix VII to Annex VI;[^key-f27ac8bf249ba546eebd70b0147e3ff6]
+- “[^key-36a4cb7cc2ba0dc049da2faa75106fdf]**warship**” means a ship belonging to the armed forces of a State bearing the external marks distinguishing such ships of its nationality, under the command of an officer duly commissioned by the government of the State and whose name appears in the appropriate service list or its equivalent, and the crew of which is under regular armed forces discipline.
+
+(2) For the purposes of these Regulations, “United Kingdom ship” means a ship which—
+
+- (a) is registered in the United Kingdom, or
+- (b) is not registered under the law of any country but is wholly owned by persons each of whom is—
+  - (i) a British Citizen, a British overseas territories citizen or a British Overseas citizen, or
+  - (ii) a body corporate which is established under the law of any part of the United Kingdom and has its principal place of business in the United Kingdom.
+
+(3) Any reference in Part 2 to a survey, so far as it concerns a survey of engines and equipment for compliance with regulation 21, means a survey in accordance with the NOx Technical Code.
+
+(4) Any reference in these Regulations to the date of construction of a ship is a reference to the date on which the keel of the ship is laid or on which the ship is at a stage of construction at which—
+
+- (a) construction identifiable with a specific ship has begun, and
+- (b) assembly of that ship has incorporated at least 50 tonnes of structural material or one per cent of the estimated mass of all structural material, whichever is less.
+
+(5) In the application of these Regulations to—
+
+- (a) an air-cushion vehicle, a reference to the master of a ship includes a reference to the captain of that air-cushion vehicle, and
+- (b) a platform, a reference to the master of a ship includes a reference to the manager of that platform.
+
+### 2A. Ambulatory reference[^key-450991c454bd0ce5b356e8e393944932]
+
+(1) Any reference in these Regulations to the Convention, an Annex to the Convention, the Polar Code or relevant IMO Guidelines is to be construed—
+
+- (a) as a reference to the Convention, an Annex to the Convention, the Polar Code or relevant IMO Guidelines as modified from time to time; and
+- (b) as, if the Convention, an Annex to the Convention, the Polar Code or relevant IMO Guidelines are replaced, a reference to the replacement.
+
+(2) for the purposes of paragraph (1)—
+
+- (a) the Convention, an Annex to the Convention or the Polar Code is modified or replaced if a modification or replacement takes effect in accordance with Article 16 (amendments) of the Convention;
+- (b) relevant IMO Guidelines are modified or replaced if a modification or replacement takes effect in accordance with the 1948 Convention on the International Maritime Organisation.
+
+(3) A modification or replacement of the Convention, and Annex to the Convention or the Polar Code has effect at the time such modification or replacement comes into force in accordance with Article 16 of the Convention.
+
+(4) A modification or replacement of relevant IMO Guidelines has effect at the time such modification or replacement comes into force in accordance with the terms of the Resolution of the Maritime Environment Protection Committee of the IMO under which it is adopted.
+
+### 3. Application and exemptions
+
+(1)[^key-fbc3898c982f5ec18a74c5ca38ae4533] Subject to—
+
+- (a) paragraphs (2) to (12), and
+- (b) paragraphs 2 to 4, 6 and 7 of Schedule 2A,
+
+these Regulations apply to—
+
+- (i) a United Kingdom ship wherever it may be, and
+- (ii) any other ship while it is within United Kingdom waters.
+
+(2) Regulations 5 to 11 apply to—
+
+- (a) a platform, other than one that is registered in, or is not registered in but is entitled to fly the flag of, a country whose Government is a Contracting Government other than the United Kingdom,
+- (b) any other United Kingdom ship of 400 GT or above,
+
+wherever it may be.
+
+(2A)[^key-58029ef572e989a759abe48c10f7cbe9] Subject to paragraph (2B), regulations 11ZA, 11A and 13B apply to a ship—
+
+- (a) of 400 GT or above;
+- (b) which is a United Kingdom ship;
+- (c) which falls within paragraph 2.5, 2.7, 2.9, 2.11, 2.14 to 2.16, 2.22, or 2.26 to 2.29 of Regulation 2 of Annex VI; and
+- (d) which is engaged on voyages beyond the seaward limit of the United Kingdom territorial sea.
+
+(2B) Regulations 11ZA, 11A and 13B do not apply where the ship—
+
+- (a) is not propelled by mechanical means;
+- (b) has non-conventional propulsion, unless it is a ship which falls within paragraph 2.11 or 2.16 of Regulation 2 of Annex VI; or
+- (c) is a category A ship as defined in the Polar Code.
+
+(3) Regulation 12 applies to—
+
+- (a) a platform engaged in voyages to waters under the sovereignty or jurisdiction of a Contracting Government other than the United Kingdom,
+- (b) any United Kingdom ship of 400 GT or above engaged in voyages to ports or offshore terminals under the jurisdiction of a Contracting Government other than the United Kingdom.
+
+(3A)[^key-4a41613dde1f2036bf1bd4ee91973869] Regulation 12A applies to a ship to which regulation 11A applies, if it is engaged in voyages to ports or off-shore terminals under the jurisdiction of a Contracting Government.
+
+(4) Regulations 13 and 19(1) apply to a ship which is—
+
+- (a) not a United Kingdom ship,
+- (b) registered in, or is not registered in but is entitled to fly the flag of, a country whose Government is a Contracting Government,
+- (c) engaged in voyages to ports or offshore terminals under the jurisdiction of a Contracting Government,
+- (d) of 400 GT or above, unless it is a drilling rig, and
+- (e) in United Kingdom waters or controlled waters.
+
+(4A)[^key-fa892521c56d4cc1d85aa0523011ed71] Subject to paragraph (4B), regulation 13A applies to a ship—
+
+- (a) of 400 GT or above;
+- (b) which is—
+  - (i) registered in a country whose Government is a Contracting Government, or
+  - (ii) not so registered, but entitled to fly the flag of such a country;
+- (c) which falls within paragraph 2.5, 2.7, 2.9, 2.11, 2.14 to 2.16, 2.22, or 2.26 to 2.29 of Regulation 2 of Annex VI;
+- (d) which is engaged in voyages to ports or off-shore terminals under the jurisdiction of a Contracting Government; and
+- (e) which is in United Kingdom waters or controlled waters.
+
+(4B) Regulation 13A does not apply where the ship—
+
+- (a) is a United Kingdom ship;
+- (b) is not propelled by mechanical means;
+- (c) has non-conventional propulsion, unless it is a ship which falls within paragraph 2.11 or 2.16 of Regulation 2 of Annex VI; or
+- (d) is a category A ship as defined in the Polar Code
+
+(5) Regulations 14, 15, 16(1) to (5), 17 and 18(1) and (2) apply to—
+
+- (a) a platform other than one that is registered in, or is not registered in but is entitled to fly the flag of, a country whose Government is a Contracting Government other than the United Kingdom,
+- (b) any other United Kingdom ship of 400 GT or above,
+
+wherever it may be.
+
+(6)[^key-f9c7ef643c4b090c6667cda1916867c7] Regulation 16(1) and (2) also applies to a ship which—
+
+- (a) is not a United Kingdom ship,
+- (b) is engaged in voyages to ports or offshore terminals under the jurisdiction of a Contracting Government other than the United Kingdom,
+- (c) is of 400 GT or above, unless it is a drilling rig, and
+- (d) is—
+  - (i) in a port in the United Kingdom,
+  - (ii) at an offshore terminal in United Kingdom or controlled waters, or
+  - (iii) a floating platform in United Kingdom waters or controlled waters, other than a floating platform which is in transit;
+
+and regulation 16(6) has effect in relation to the application of regulation 16(1) and (2) to such a ship.
+
+(7) Regulation 18(3) and (4) applies in relation to a ship which is—
+
+- (a) a platform engaged in voyages to waters under the sovereignty or jurisdiction of a Contracting Government other than the United Kingdom,
+- (b) a United Kingdom ship, of 400 GT or above, wherever it may be, which is engaged in voyages to ports or offshore terminals under the jurisdiction of a Contracting Government other than the United Kingdom,
+- (c) any other ship of 400 GT or above while it is within United Kingdom waters which is not a United Kingdom ship.
+
+(8) Regulation 19(2) applies to a ship which satisfies all the criteria set out in paragraph (4) except for the criterion in paragraph (4)(b).
+
+(8A)[^key-2b2b3fd0920fae75cc63a665b898ef48] Subject to paragraph (8B), regulation 19A applies to a ship—
+
+- (a) of 400 GT or above;
+- (b) which is—
+  - (i) registered in a country whose Government is a Contracting Government, or
+  - (ii) not so registered, but entitled to fly the flag of such a country;
+- (c) which falls within paragraph 2.5, 2.7, 2.9, 2.11, 2.14 to 2.16, 2.22, or 2.26 to 2.29 of Regulation 2 of Annex VI; and
+- (d) which is in United Kingdom waters or controlled waters.
+
+(8B) Regulation 19A does not apply where the ship—
+
+- (a) is a United Kingdom ship;
+- (b) is not propelled by mechanical means;
+- (c) has non-conventional propulsion, unless it is a ship which falls within paragraph 2.11 or 2.16 of Regulation 2 of Annex VI; or
+- (d) is a category A ship as defined in the Polar Code.
+
+(9)[^key-78894baec2031ac4dfd12d5f10b7d6d9] Regulations 21(4) and (4B) apply to the engines installed on the ships referred to in regulations 21(4A) and (4C), respectively, wherever those ships may be.
+
+(9A)[^key-fe424e1df4fda481590930fedfff54c4] Regulation 21(4D) applies to the engines installed on the ships referred to in sub-paragraphs (a) to (c) of regulation 21(4E) when they are operating in the areas specified in those sub-paragraphs.
+
+(9AA)[^key-12329e321e7770399199c6a023b0ae94] Subject to paragraph (9AB), regulation 25A applies to a ship—
+
+- (a) of 400 GT or above;
+- (b) propelled by mechanical means; and
+- (c) which is not a platform.
+
+(9AB) Regulation 25A does not apply where the ship is a United Kingdom ship which is engaged solely on voyages within the seaward limit of the United Kingdom territorial sea.
+
+(9AC) Subject to paragraph (9AD), regulation 25B applies to a ship—
+
+- (a) of 5,000 GT or above;
+- (b) which is—
+  - (i) registered in a country whose Government is a Contracting Government, or
+  - (ii) not so registered, but entitled to fly the flag of such a country;
+- (c) propelled by mechanical means; and
+- (d) which is not a platform.
+
+(9AD) Regulation 25B does not apply where the ship is a United Kingdom ship which is engaged solely on voyages within the seaward limit of the United Kingdom territorial sea.
+
+(9B)[^key-48de33da6a2f5602cb3130597e08a77a] Schedule 4 applies to a ship—
+
+- (a) of 5,000 GT or above;
+- (b) which is a United Kingdom ship;
+- (c) propelled by mechanical means;
+- (d) which is not a platform; and
+- (e) which is engaged on voyages beyond the seaward limit of the United Kingdom territorial sea.
+
+(10)[^key-1ea325b3b0f9a83b9c4d31d4fc377121] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(11)[^key-1ea325b3b0f9a83b9c4d31d4fc377121] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(12) These Regulations do not apply to any warship, naval auxiliary or other ship owned or operated by a State and used for the time being on government, non-commercial service.
+
+(12A)[^key-bc9843f26c1e832539d17b2343aa812a] These Regulations do not apply to fuel oil—
+
+- (a) intended for the purpose of research and testing,
+- (b) intended for processing prior to final combustion, or
+- (c) to be processed in the refining industry.
+
+(13) These Regulations do not apply to any emission—
+
+- (a) necessary for the purpose of securing the safety of a ship or saving life at sea,
+- (b) resulting from damage to a ship or its equipment, except to the extent that the emission is due to—
+  - (i) a failure to take all reasonable precautions after the occurrence of the damage or discovery of the emission for the purpose of preventing or minimising the emission, or
+  - (ii) damage caused in consequence of the owner or master acting either intending to cause damage, or recklessly and with knowledge that damage would probably result,
+- (c) from any platform resulting from the incineration of substances that are solely and directly the result of exploration, exploitation and associated offshore processing of sea-bed mineral resources, including but not limited to—
+  - (i) the flaring of hydrocarbons and the burning of cuttings, muds and stimulation fluids during well completion and testing operations,
+  - (ii) flaring arising from upset conditions, and
+  - (iii) the release of gases and volatile compounds entrained in drilling fluids and cuttings,
+- (d) associated solely and directly with the treatment, handling or storage of a sea-bed mineral,
+- (e) from a diesel engine that is solely dedicated to the exploration, exploitation and associated off-shore processing of sea-bed mineral resources.
+
+### 4. Equivalents
+
+The Secretary of State may permit any fitting, material, appliance or apparatus to be fitted in a ship as an alternative to that required by these Regulations if that fitting, material, appliance or apparatus is at least as effective as that required by these Regulations.
+
+## PART 2 — Surveys and Certificates of Ships
+
+### 5. Requirement for appropriate certificate: initial survey
+
+(1) A ship to which this regulation applies must not—
+
+- (a) be put into service, or
+- (b) (if it is already in service) continue in service,
+
+on or at any time after the date applicable to that ship specified in paragraph (2) unless the requirements set out in paragraph (3) are met.
+
+(2) The date applicable to—
+
+- (a) a ship which was constructed before 19th May 2005 is 18th May 2008 or, if earlier, the date of its first scheduled dry-docking after the day before these Regulations come into force,
+- (b) any other ship is the date on which these Regulations come into force.
+
+(3) The requirements are that—
+
+- (a) a survey has been carried out in respect of the ship,
+- (b) at the date of the survey the surveyor is satisfied that the equipment, systems, fittings, arrangements and materials fully comply with the requirements of Part 3, or an alternative that has been permitted pursuant to regulation 4, and
+- (c) an appropriate certificate has been issued in respect of that ship and is still valid.
+
+(4) A survey carried out under paragraph (3) is referred to in these Regulations as an “initial survey”.
+
+### 6. Renewal of appropriate certificate: renewal survey
+
+(1) A ship to which this regulation applies must not—
+
+- (a) proceed to sea, or
+- (b) (if it is already at sea) remain at sea,
+
+after the date of expiry of an appropriate certificate in respect of that ship unless the requirements set out in paragraph (2) are met.
+
+(2) The requirements are that—
+
+- (a) a survey has been carried out in respect of the ship,
+- (b) at the date of the survey the surveyor is satisfied that the equipment, systems, fittings, arrangements and materials fully comply with the requirements of Part 3, or an alternative that has been permitted pursuant to regulation 4, and
+- (c) in consequence an appropriate certificate has been issued in respect of that ship and is still valid.
+
+(3) A survey carried out under paragraph (2) is referred to in these Regulations as a “renewal survey”.
+
+### 7. Annual survey
+
+(1) — Subject to paragraph (3), a ship to which this regulation applies must not—
+
+- (a) proceed to sea, or
+- (b) (if it is already at sea) remain at sea,
+
+after the end of any annual survey period for that ship unless the requirements set out in paragraph (2) are met.
+
+(2) The requirements are that—
+
+- (a) a survey has been carried out in respect of the ship, and
+- (b) the surveyor—
+  - (i) at the date of that survey is satisfied that the equipment, systems, fittings, arrangements and materials of that ship have been maintained in accordance with Part 3 and remain satisfactory for the service for which the ship is intended, and
+  - (ii) has endorsed the appropriate certificate to that effect.
+
+(3) Paragraph (1) does not apply if the requirements of regulation 6(2) or 8(2) have been met during the annual survey period in question.
+
+(4) An endorsement referred to in sub-paragraph (2)(b)(ii) must be—
+
+- (a) in the form set out in Appendix 1 to Annex VI where the certificate is an IAPP Certificate, and
+- (b) in the form set out in Appendix 5 to Merchant Shipping Notice 1819 (M+F) where the certificate is a UKAPP Certificate.
+
+(5) In this regulation, “annual survey period” means the period of six months beginning three months before each anniversary date.
+
+### 8. Intermediate surveys
+
+(1) Subject to paragraph (3), a ship to which this regulation applies must not—
+
+- (a) proceed to sea, or
+- (b) (if it is already at sea) remain at sea,
+
+after the third anniversary date, unless the requirements set out in paragraph (2) are met.
+
+(2) The requirements are that—
+
+- (a) a survey has been carried out in respect of the ship during an intermediate survey period, and
+- (b) the surveyor—
+  - (i) at the date of that survey is satisfied that the equipment and arrangements of that ship fully comply with the requirements of Part 3, or an alternative that has been permitted pursuant to regulation 4, and are at the time of the survey in good working order, and
+  - (ii) has endorsed the appropriate certificate to that effect.
+
+(3) An endorsement referred to in sub-paragraph (2)(b)(ii) must be—
+
+- (a) in the form set out in Appendix 1 to Annex VI where the certificate is an IAPP Certificate, and
+- (b) in the form set out in Appendix 5 to Merchant Shipping Notice 1819 (M+F) where the certificate is a UKAPP Certificate.
+
+(4) In this regulation, “intermediate survey period” means a period of six months beginning three months before the second or third anniversary date.
+
+### 9. Responsibilities of the owner and master of a ship
+
+(1) The owner and the master of a ship to which this regulation applies must ensure that the condition of the ship and its equipment are maintained to conform with the provisions of Part 3 so as to ensure that the ship in all respects remains fit to proceed to sea without presenting an unreasonable threat of harm to the marine environment.
+
+(2) The owner and the master of a ship to which this regulation applies must ensure that after any survey of the ship required by this Part has been completed, no change, except by way of direct replacement, is made to the equipment, systems, fittings, arrangements and materials of that ship covered by the survey without the approval of—
+
+- (a) the Certifying Authority who appointed the surveyor to carry out the survey, or
+- (b) the Secretary of State, where the IAPP Certificate was issued by a Contracting Government following a request made pursuant to regulation 12,
+
+as the case may be.
+
+(3) Whenever—
+
+- (a) an accident occurs to a ship, or
+- (b) a defect is discovered in a ship,
+
+which substantially affects the integrity of the ship or the efficiency or completeness of the equipment of the ship required under Part 3, the owner and the master of the ship must ensure that the requirements of paragraph (4) are complied with.
+
+(4) The requirements are that—
+
+- (a) the accident or defect, as the case may be, is reported at the earliest opportunity to the Certifying Authority that issued the appropriate certificate in respect of the ship, and
+- (b) in the case of a ship in a port outside the United Kingdom, the accident or the defect, as the case may be, is also immediately reported to the appropriate maritime authorities in the country in which the port is situated.
+
+(5) Whenever an accident or defect is reported to a Certifying Authority in accordance with paragraph (4)(a), the Certifying Authority—
+
+- (a) must cause an investigation to be initiated to determine whether or not an additional survey is necessary, and
+- (b) if it considers that an additional survey is necessary, must cause that survey to be carried out.
+
+(6) Whenever an accident or defect is reported to a Certifying Authority in accordance with paragraph (4)(a) and the ship in question is in a port outside the United Kingdom, the Certifying Authority must take all appropriate steps to ascertain that the requirement in paragraph (4)(b) has been complied with.
+
+(7) In paragraph (2) “direct replacement” means the direct replacement of equipment and fittings with equipment and fittings that conform with the provisions of Annex VI.
+
+### 10. Additional surveys
+
+(1) This regulation applies to a ship where—
+
+- (a) a repair resulting from an investigation referred to in regulation 9(5) has been made to the ship, or
+- (b) an important repair or renewal has been made to the ship.
+
+(2) A ship to which this regulation applies must not—
+
+- (a) proceed to sea, or
+- (b) (if it is already at sea) remain at sea,
+
+unless the requirements set out in paragraph (3) are met.
+
+(3) The requirements are that—
+
+- (a) a survey has been carried out in respect of the ship,
+- (b) at the date of the survey the surveyor is satisfied that—
+  - (i) the repair or renewal has been made effectively,
+  - (ii) the materials used in, and the workmanship of, the repair or renewal are satisfactory in all respects, and
+  - (iii) the ship complies in all respects with the requirements of Part 3, and
+- (c) the surveyor has issued a survey report expressing the satisfaction required by sub-paragraph (b).
+
+(4) A survey carried out under paragraph (3) is referred to in these Regulations as an “additional survey”.
+
+### 11. Issue of appropriate certificate by a Certifying Authority
+
+(1) Subject to the payment of the prescribed fee[^key-29ceed390ed7a4a4f4e80a94d1b028c6], on being notified by a surveyor that the surveyor—
+
+- (a) has carried out an initial survey or a renewal survey in respect of a ship to which this regulation applies, and
+- (b) is satisfied at the date of the survey that the equipment, systems, fittings, arrangements and materials fully comply with the requirements of Part 3 or an alternative that has been permitted pursuant to regulation 4,
+
+a Certifying Authority must issue an appropriate certificate in respect of that ship.
+
+(2) Where a ship becomes a ship to which this regulation applies on transfer from the flag of another Contracting Government, a Certifying Authority must issue an appropriate certificate in respect of that ship where—
+
+- (a) an IAPP Certificate has been issued in respect of the ship and was still valid immediately before the date of transfer,
+- (b) the Certifying Authority has caused a survey to be carried out in respect of the ship, and
+- (c) the Certifying Authority is satisfied that—
+  - (i) the condition of the ship and its equipment is maintained to conform with the provisions of Annex VI, so as to ensure that the ship is fit to proceed to sea without presenting an unreasonable threat of harm to the marine environment, and
+  - (ii) no change, other than a change referred to in paragraph (3) has been made to the equipment, systems, fittings, arrangements or material covered by the last survey carried out under regulation 5(1) of Annex VI without the approval of the Contracting Government in question.
+
+(3) The changes referred to in paragraph (2)(c)(ii) are the direct replacement of equipment and fittings with equipment and fittings that conform with the provisions of Annex VI.
+
+(4) An IAPP Certificate issued under this regulation must be in English and in the form set out in Appendix 1 to Annex VI.
+
+(5) A UKAPP Certificate issued under this regulation must be in the form prescribed by the Secretary of State in Appendix 5 to Merchant Shipping Notice 1819 (M+F).
+
+### 11ZA. Requirement for IEE Certificate[^key-14dbfb273c2f1508b550909c80eaa6e9]
+
+(1) A ship to which this regulation applies must not—
+
+- (a) be put into service, or
+- (b) if it is already in service, continue in service,
+
+on or at any time after the date specified in paragraph (2), unless the requirements set out in paragraph (3) are met.
+
+(2) The date applicable to the ship is—
+
+- (a) the date of the ship’s initial survey,
+- (b) the date of any general or partial survey, or
+- (c) in a case where sub-paragraph (a) does not apply and no such general or partial survey has been carried out, the date of the ship’s first annual survey, first intermediate survey or first renewal survey,
+
+to which the ship is subject on or after 24th April 2023.
+
+(3) The requirements referred to in paragraph (1) are that—
+
+- (a) an IEE Certificate has been issued in respect of the ship; and
+- (b) the Certificate has not been cancelled under regulation 13B(2).
+
+(4) The owner and master of a ship in respect of which an IEE Certificate has been issued and to which this regulation applies, must ensure that the Certificate is readily available on board the ship for inspection at all times.
+
+(5) In this regulation “initial survey” and “general or partial survey” have the meanings given by regulation 11A.
+
+### 11A. Issue of IEE certificates by a Certifying Authority[^key-f09fbbfcd1ac7fcce409a5d62b613a64]
+
+(1) Subject to the payment of the prescribed fee[^key-1771511a3ed3df60631216950371196d], on being notified by a surveyor that the surveyor—
+
+- (a) has carried out an initial survey, or a general or partial survey, in respect of a ship to which this regulation applies, and
+- (b) is satisfied at the date of the survey that—
+  - (i) the ship’s attained EEDI is in accordance with Chapter 4 of Annex VI; and
+  - (ii) the ship’s SEEMP is on board,
+
+a Certifying Authority must issue an IEE Certificate in respect of that ship.
+
+(1A)[^key-2ccf2dbd35fbf1d9a79ba3c9a708799d] Where an IEE Certificate has been issued under paragraph (1) before 24th April 2023, the Certifying Authority must report the attained EEDI and required EEDI for the ship to the IMO by 1st August 2023.
+
+(1B) Where an IEE Certificate has been issued under paragraph (1) on or after 24th April 2023, the Certifying Authority must report the attained EEDI and required EEDI for the ship to the IMO within seven months of the surveyor’s notification.
+
+(1C) Subject to the payment of the prescribed fee, on being notified by a surveyor that the surveyor—
+
+- (a) has carried out an annual survey, intermediate survey or renewal survey, in respect of a ship to which this regulation applies; and
+- (b) is satisfied at the date of the survey that—
+  - (i) the ship’s attained EEXI has not previously been calculated and recorded in an IEE Certificate,
+  - (ii) the ship’s attained EEXI is in accordance with Chapter 4 of Annex VI, and
+  - (ii) the ship’s SEEMP is on board,
+
+a Certifying Authority must either issue an IEE Certificate in respect of that ship if it does not already hold a valid IEE Certificate, or update the ship’s existing IEE Certificate.
+
+(2) Where the conditions in paragraphs (3) and (4) are met a Certifying Authority must issue an IEE Certificate in respect of a ship.
+
+(3) The first condition is that the ship has become a ship to which this regulation applies on transfer from the flag of another Contracting Government.
+
+(4) The other conditions are—
+
+- (a) an IEE Certificate has been issued in respect of the ship and was still valid immediately before the date of transfer,
+- (b) the Certifying Authority has caused a survey to be carried out in respect of the ship, and
+- (c) the Certifying Authority is satisfied that—
+  - (i)[^key-5d44f9342deec3b0c1a2e2f06d9ae998] in the case of a ship for which the attained EEDI was required to be calculated by Chapter 4 of Annex VI, the ship’s attained EEDI is in accordance with Chapter 4 of Annex VI;
+  - (ia) in the case of a ship for which the attained EEXI was required to be calculated by Chapter 4 of Annex VI, the ship’s attained EEXI is in accordance with Chapter 4 of Annex VI;
+  - (ii) the ship’s SEEMP is on board; and
+  - (iii) no change has been made to the equipment, systems, fittings, arrangements or material covered by the last survey carried out under regulation 5.4 of Annex VI without the approval of the Contracting Government in question.
+
+(5) An IEE Certificate issued under this regulation must be in English and in the form set out in Appendix VIII[^key-d8b42809a0289ec2c0f23741be40f1b7] to Annex VI.
+
+(6)[^key-5ab6e779889e93c1ef96135ba7279efa] In this regulation—
+
+- “**attained EEDI**” means the Attained Energy Efficiency Design Index relating to a ship calculated in accordance with Regulation 22 of Annex VI;
+- “**attained EEXI**” means the Attained Energy Efficiency Existing Ship Index relating to a ship calculated in accordance with Regulation 23 of Annex VI;
+- “**general or partial survey**” means a survey required by paragraph 4.2 of Regulation 5 of Annex VI;
+- “**initial survey**” means a survey required by paragraph 4.1 of Regulation 5 of Annex VI;
+- “**required EEDI**” means the Required Energy Efficiency Design Index relating to a ship calculated in accordance with Regulation 24 of Annex VI.
+
+### 12. Issue of IAPP Certificates by another Government in respect of United Kingdom ships
+
+(1) The Secretary of State may request a Contracting Government—
+
+- (a) to survey a ship to which this regulation applies, and
+- (b) to—
+  - (i) issue, or authorise the issue of, or
+  - (ii) endorse, or authorise the endorsement of,
+
+  an IAPP Certificate, in accordance with the requirements of Annex VI, in respect of that ship if the Contracting Government is satisfied that the ship complies with the requirements of Annex VI.
+
+(2) Where an IAPP Certificate is issued pursuant to paragraph (1)—
+
+- (a) the Secretary of State is to be treated as the Certifying Authority in relation to it, and
+- (b) any reference in these Regulations to the Certifying Authority that issued the certificate is to be treated as a reference to the Secretary of State.
+
+### 12A. Issue of IEE Certificates by another government in respect of United Kingdom ships[^key-17130c95cab7ae0097e1bd934426b409]
+
+(1) The Secretary of State may request a Contracting Government—
+
+- (a) to survey a ship to which this regulation applies, and
+- (b) to—
+  - (i) issue, or authorise the issue of, or
+  - (ii) endorse, or authorise the endorsement of,
+
+an IEE Certificate, in accordance with the requirements of Annex VI, in respect of that ship if the Contracting Government is satisfied that the ship complies with the requirements of Annex VI.
+
+(2) Where an IEE Certificate is issued pursuant to paragraph (1)—
+
+- (a) the Secretary of State is to be treated as the Certifying Authority in relation to it, and
+- (b) any reference in these Regulations to the Certifying Authority that issued the certificate is to be treated as a reference to the Secretary of State.
+
+### 13. Issue of IAPP Certificates in respect of ships which are not United Kingdom ships
+
+(1) When requested to do so by a Contracting Government, the Secretary of State—
+
+- (a) may cause a survey to be carried out in respect of a ship to which this regulation applies, and
+- (b) must, subject to the payment of the prescribed fee[^key-52763633db6c5471116b86cec10bfcdb], issue in respect of that ship an IAPP certificate, or endorse the IAPP Certificate, in accordance with the requirements of Annex VI, if the Secretary of State is satisfied that the requirements of Annex VI are complied with.
+
+(2) An IAPP Certificate issued pursuant to paragraph (1) must—
+
+- (a) be in English in the form set out in Appendix 1 to Annex VI,
+- (b) contain a statement that it has been so issued, and
+- (c) have the same effect as if it had been issued by the Contracting Government who made the request referred to in paragraph (1) and not by the Secretary of State.
+
+(3) The Secretary of State must send as soon as possible to the Contracting Government who made the request referred to in paragraph (1) a copy of—
+
+- (a) the IAPP Certificate issued pursuant to that paragraph, and
+- (b) the survey report.
+
+(4) The Secretary of State must not issue an IAPP Certificate in respect of a ship which —
+
+- (a) is registered in a country whose Government is not a Contracting Government, or
+- (b) is not registered, but is entitled to fly the flag of a country whose Government is not a Contracting Government.
+
+### 13A. Issue of IEE Certificates in respect of ships which are not United Kingdom ships[^key-fbefa7895af200d55005c302279d2162]
+
+(1) When requested to do so by a Contracting Government, the Secretary of State—
+
+- (a) may cause a survey to be carried out in respect of a ship to which this regulation applies, and
+- (b) must, subject to the payment of the prescribed fee[^key-930ff1e5f6b351923b95263779434862], issue in respect of that ship an IEE Certificate, or endorse the IEE Certificate, in accordance with the requirements of Annex VI, if the Secretary of State is satisfied that the requirements of Annex VI are complied with.
+
+(2) An IEE Certificate issued pursuant to paragraph (1) must—
+
+- (a) be in English in the form set out in Appendix VIII[^key-0fab66c74c666cb091ce00c8e8fd7c2f] to Annex VI,
+- (b) contain a statement that it has been so issued, and
+- (c) have the same effect as if it had been issued by the Contracting Government who made the request referred to in paragraph (1) and not by the Secretary of State.
+
+(3) The Secretary of State must send, as soon as possible, to the Contracting Government who made the request referred to in paragraph (1) a copy of—
+
+- (a) the IEE Certificate issued pursuant to that paragraph, and
+- (b) the survey report.
+
+(4) The Secretary of State must not issue an IEE Certificate in respect of a ship which—
+
+- (a) is registered in a country whose Government is not a Contracting Government, or
+- (b) is not so registered, but is entitled to fly the flag of a country whose Government is not a Contracting Government.
+
+### 13B. Duration and validity of IEE Certificates[^key-a3e0b4788975ca95d6c9f667b73ccfd8]
+
+(1) Subject to paragraph (2), an IEE Certificate issued in respect of a ship to which regulation 11A applies remains valid throughout the life of the ship.
+
+(2) The Secretary of State may cancel an IEE Certificate issued in respect of a ship to which regulation 11A applies where—
+
+- (a) the Secretary of State has reason to believe that the IEE Certificate was issued on false or erroneous information;
+- (b) the ship has been withdrawn from service;
+- (c) a new IEE Certificate has been issued following a major conversion of the ship;
+- (d) the ship has transferred to the flag of another State; or
+- (e) since the completion of any of the surveys referred to in regulation 11A(1)(a) or (1C)(a) the ship’s equipment, systems, fittings, arrangements or material covered by the survey have been changed without the express approval of the Secretary of State.
+
+(3) The Secretary of State may require that an IEE Certificate issued in respect of a ship to which regulation 11A applies and which has been cancelled, is to be surrendered within such time and in such manner as the Secretary of State may direct.
+
+(4) In relation to a ship to which regulation 11A applies, no person may—
+
+- (a) intentionally alter an IEE Certificate other than in accordance with these Regulations;
+- (b) intentionally make a false IEE Certificate;
+- (c) knowingly or recklessly provide false information in connection with a survey required under regulation 11A(1)(a) or (1C)(a);
+- (d) with intent to deceive, use or lend an IEE Certificate or permit an IEE Certificate to be used by another person;
+- (e) fail to surrender an IEE Certificate where required to do so pursuant to paragraph (3); or
+- (f) in Scotland, forge an IEE Certificate.
+
+### 14. Duration and validity of appropriate certificates
+
+(1) Subject to the following paragraphs and to regulations 16(3) and 18(1), an appropriate certificate issued in respect of a ship to which this regulation applies is valid for such period as is specified in the certificate, not exceeding five years beginning with the date of completion of the relevant initial or renewal survey.
+
+(2) Subject to paragraph (3) and regulation 15(9), where a renewal survey is completed—
+
+- (a) within the final three month period, or
+- (b) after the date of expiry of the latest appropriate certificate,
+
+the new appropriate certificate is valid for such period as is specified in the certificate, beginning with the date of the completion of the renewal survey and ending with a date not exceeding five years from the date of expiry of the latest appropriate certificate.
+
+(3) An appropriate certificate issued in respect of a ship ceases to be valid—
+
+- (a) upon whichever is the earlier of the following—
+  - (i) the ship being transferred to the flag of another State,
+  - (ii) the ship proceeding to sea where—
+    - (aa) a repair or renewal referred to in regulation 10(1) has been made, and
+    - (bb) the requirements set out in regulation 10(3) have not been complied with,
+- (b) if a survey under regulations 5, 6, 7 or 8 is not completed in accordance with the requirements of these Regulations, or
+- (c) if an appropriate certificate is not endorsed in accordance with the requirements of these Regulations,
+- (d) upon a new appropriate certificate being issued in respect of the ship, or
+- (e) upon the date of expiry of the certificate.
+
+(4) Where a ship is transferred to the flag of another State whose Government is a Contracting Government, and within three months after the date of transfer that Government so requests, the Secretary of State must send the Government a copy of—
+
+- (a) the IAPP certificate issued in respect of that ship, and
+- (b) if available, the survey report.
+
+(5) In this regulation, the “final three month period” means the period of three months ending on the date of expiry of the certificate in question.
+
+### 15. Extension of periods of validity of appropriate certificates
+
+(1) Where the period of validity of an appropriate certificate issued in respect of a ship to which this regulation applies is less than five years, the Certifying Authority that issued the certificate may extend its period of validity to a maximum period of five years provided that any survey required under regulation 7 or 8 has been carried out.
+
+(2) Where—
+
+- (a) a renewal survey has been completed by a surveyor, but
+- (b) a new appropriate certificate cannot be issued or placed on board the ship before the date of expiry of the latest appropriate certificate,
+
+the surveyor may endorse the latest appropriate certificate.
+
+(3) Where an appropriate certificate has been endorsed under paragraph (2), that certificate is valid for such further period as is specified in the certificate, not exceeding five months beginning with the original date of expiry of the certificate.
+
+(4) Where—
+
+- (a) a renewal survey has not been completed before the date of expiry of the latest appropriate certificate in question, and
+- (b) at the date of expiry the ship is not in the port in which the survey is to be carried out,
+
+the Certifying Authority that issued the latest appropriate certificate may extend the period of validity of that certificate for a period not exceeding three months, if it appears to the Certifying Authority that it is proper and reasonable to do so solely for the purpose of allowing the ship to complete its voyage to its port of survey.
+
+(5) Where the period of validity of an appropriate certificate has been extended pursuant to paragraph (4), the ship in question must not leave its port of survey until a new appropriate certificate has been issued in respect of that ship.
+
+(6) Subject to paragraph (7), the Certifying Authority that issued the latest appropriate certificate in respect of a ship engaged solely on short voyages may extend the period of validity of that certificate for a period not exceeding one month.
+
+(7) A Certifying Authority must not extend the period of validity of an appropriate certificate under paragraph (6) if the period of validity of that certificate has already been extended under paragraph (1), (3) or (4).
+
+(8) Subject to paragraph (9) and to regulations 16(3) and 18(1), where a renewal survey has been completed and a new appropriate certificate has been issued in respect of a ship referred to in paragraph (5) or (6), the new appropriate certificate is valid for such period as is specified in the certificate, not exceeding five years beginning with the original date of expiry of the previous appropriate certificate.
+
+(9) In the special circumstances set out in Marine Guidance Note 381 (M+F), the period of validity of a new appropriate certificate which is—
+
+- (a) issued in respect of a ship referred to in paragraph (5) or (6), or
+- (b) referred to in regulation 14(2) (b) and issued where the renewal survey is completed after the date of expiry of the latest appropriate certificate,
+
+is such period as is specified in the new certificate, not exceeding five years beginning with the date of the completion of the renewal survey in question.
+
+(10) Where the period of validity of an appropriate certificate is extended under paragraph (1), (4) or (6), or an endorsement is to be made pursuant to paragraph (2), the Certifying Authority in question must endorse the appropriate certificate in accordance with paragraph (11).
+
+(11) An endorsement referred to in paragraph (10) must be —
+
+- (a) in the form set out in Appendix 1 to Annex VI where the certificate is an IAPP certificate, and
+- (b) in the form set out in Appendix 5 to Merchant Shipping Notice 1819 (M+F) where the certificate is an UKAPP Certificate
+
+(12) Where—
+
+- (a) a survey is completed under regulation 7 before the annual survey period, or
+- (b) a survey is completed under regulation 8 before the intermediate survey period,
+
+the anniversary date shown on the appropriate certificate shall be amended by an endorsement on the appropriate certificate to a date which shall not be more than three months later than the date on which the survey referred to in sub-paragraph (a) or (b) was completed.
+
+(13) Where the anniversary date on an appropriate certificate is amended in accordance with paragraph (12) any subsequent annual or intermediate survey required under these Regulations shall be completed at the intervals prescribed by these Regulations using the new anniversary date.
+
+(14) Where—
+
+- (a) a survey is completed under regulation 7 before the annual survey period, or
+- (b) a survey is completed under regulation 8 before the intermediate survey period,
+
+the date of expiry of the appropriate certificate may remain unchanged provided that any surveys required by regulation 7 or 8 are carried out so that the maximum intervals between the surveys as required by these Regulations are not exceeded.
+
+(15) In this regulation—
+
+- (a) “annual survey period” has the same meaning as in regulation 7,
+- (b) “intermediate survey period” has the same meaning as in regulation 8, and
+- (c) “the original date of expiry” means the date on which an appropriate certificate would have expired but for any extension of its period of validity.
+
+### 16. Procedure to be adopted when a ship is deficient
+
+(1)[^key-db1d522e40362b81d31963cdc05d72aa] This regulation applies where a surveyor determines that—
+
+- (a) the condition of a ship or its equipment does not correspond substantially with the particulars of the appropriate certificate (if any) issued in respect of the ship, or
+- (b) a ship is not fit to proceed to sea without presenting an unreasonable threat of harm to the marine environment.
+
+(2) The surveyor must—
+
+- (a) advise the owner or master of the corrective action which in the opinion of the surveyor is required, and
+- (b) where an appropriate certificate has been issued in respect of the ship and is still valid, notify the Certifying Authority that issued the appropriate certificate—
+  - (i) that the surveyor has so advised the owner and master, and
+  - (ii) if that corrective action is not taken.
+
+(3) Where an appropriate certificate has been issued in respect of the ship and is still valid, the Certifying Authority may suspend the validity of that certificate until the corrective action has been taken.
+
+(4) Where the Certifying Authority suspends the validity of an appropriate certificate issued in respect of a ship, it must immediately give notice of such suspension—
+
+- (a) to the owner of the ship, and
+- (b) where the ship is in a port outside the United Kingdom, to the appropriate maritime authorities of the country in which the port is situated.
+
+(5) Where the owner of the ship is given notice of suspension, that owner must notify the master of the ship in question of the suspension.
+
+(6)[^key-02053b5b5e03122abf9c0bf6eb24e9b4] In the application of paragraphs (1) and (2) to a ship of the kind specified in regulation 3(6)—
+
+- (a) “**the Certifying Authority**” means the Government of the State where the ship is registered (or if the ship is not registered, the Government of the flag State), and
+- (b) “**surveyor**” includes a person authorised by that Government to survey the ship.
+
+### 17. Arbitration
+
+(1) If an applicant is dissatisfied for any reason with the outcome of a survey carried out in respect of a ship to which this regulation applies, the applicant may serve a written notice on the responsible person within 21 days of receiving notification of that outcome—
+
+- (a) stating that there is a dispute between them, and
+- (b) requesting that the dispute be referred to a single arbitrator.
+
+(2) Subject to paragraph (2A),[^key-991917c2b0d06baaa8570be9c4ffa2e1] an arbitrator referred to in paragraph (1) must be appointed by agreement between the applicant and the responsible person.
+
+(2A)[^key-fc6f8591fbdbd0aa7f4101cc1f0af000] In default of agreement between the applicant and the responsible person, the arbitrator is such person as may be appointed by the President or Vice-President of the Chartered Institute of Arbitrators following a request made by—
+
+- (a) one party, after giving written notice to the other party, or
+- (b) the parties jointly,
+
+but this paragraph does not apply in Scotland.
+
+(3) No person is to be an arbitrator under this regulation unless that person is—
+
+- (a) a person who holds a certificate to act as—
+  - (i) a master or chief mate on a seagoing ship of 3,000 GT or more, in accordance with Regulation II/2 of Chapter 2 of the the Annex to the STCW Convention, or
+  - (ii) a chief engineer officer or second engineer officer on a seagoing ship powered by main propulsion machinery of 3,000 kW propulsion power or more, in accordance with Regulation III/2 of Chapter 3 of the Annex to the STCW Convention,
+- (b) a person who holds a certificate of competency equivalent to a certificate referred to in sub-paragraph (a),
+- (c) a naval architect,
+- (d) a qualified person,
+- (e) a person with special experience of shipping matters, or of the fishing industry, or of activities carried on in ports, or
+- (f) a member of the Chartered Institute of Arbitrators.
+
+(4) An arbitrator appointed under this regulation has the powers of an inspector conferred by section 259 of the 1995 Act.
+
+(5) In the application of this regulation to Scotland—
+
+- (a) any reference to an arbitrator is to be construed as a reference to an arbiter, and
+- (b) the reference in paragraph (2) to a single arbitrator appointed by agreement between the applicant and the responsible person is to be construed as a reference to a single arbiter so appointed or, in default of agreement, appointed by a sheriff.
+
+(6) The rules for arbitration set out in Merchant Shipping Notice M 1613 apply unless alternative procedures are agreed between the applicant and the responsible person before the commencement of arbitration proceedings.
+
+(7) In this regulation—
+
+- (a) “applicant” means a person who makes an application for a survey required by these Regulations,
+- (b)[^key-8bbc87e1d17474d1c9223fc30848c95f] “**qualified person**” means—
+  - (i) a person who satisfies the judicial-appointment eligibility condition on a 7-year basis,
+  - (ii) a person who is an advocate or solicitor in Scotland of at least 7 years’ standing, or
+  - (iii) a person who is a member of the Bar of Northern Ireland or a solicitor of the Court of Judicature of Northern Ireland of at least 7 years’ standing,
+- (c) “responsible person” means—
+  - (i) the Certifying Authority responsible under regulation 11 or 12 for the issue of the appropriate certificate in connection with which a survey required by these Regulations is carried out, or
+  - (ii) in the case of a dispute relating to an additional survey required by regulation 10, the Certifying Authority which issued the appropriate certificate in respect of the ship.
+
+### 18. Miscellaneous provisions relating to appropriate certificates
+
+(1) The Secretary of State may cancel an appropriate certificate issued in respect of a ship to which this paragraph applies, where the Secretary of State has reason to believe that—
+
+- (a) the appropriate certificate was issued on false or erroneous information, or
+- (b) since the completion of any survey required by these Regulations, the equipment or machinery of the ship has sustained damage or is otherwise deficient.
+
+(2) The Secretary of State may require that an appropriate certificate issued in respect of a ship to which this paragraph applies, and which has expired or which has been cancelled, is to be surrendered within such time and in such manner as he may in writing direct.
+
+(3) In relation to a ship to which this paragraph applies, no person may—
+
+- (a) intentionally alter an appropriate certificate,
+- (b) intentionally make a false appropriate certificate,
+- (c) knowingly or recklessly provide false information in connection with a survey required under these Regulations,
+- (d) with intent to deceive, use or lend an appropriate certificate or permit an appropriate certificate to be used by another person,
+- (e) fail to surrender an appropriate certificate where required to do so pursuant to paragraph (2), or
+- (f) in Scotland, forge an appropriate certificate.
+
+(4) The owner and the master of a ship, in respect of which an appropriate certificate has been issued and to which this paragraph applies, must ensure that the certificate is readily available on board the ship for inspection at all times.
+
+### 19. Prohibition on non United Kingdom ships proceeding to sea without an IAPP Certificate
+
+(1) A ship to which this paragraph applies must not proceed to sea from a port in the United Kingdom unless—
+
+- (a) an IAPP certificate has been issued pursuant to Annex VI in respect of that ship and is still valid,
+- (b) a surveyor of ships is satisfied that the ship can proceed to sea without presenting an unreasonable threat of harm to the marine environment, or
+- (c) a person having power to detain the ship has permitted the ship to proceed to sea for the purpose of proceeding to the nearest appropriate repair yard available.
+
+(2) A ship to which this paragraph applies must not proceed to sea from a port in the United Kingdom unless documentation has been issued in respect of that ship which is still valid and shows that—
+
+- (a) a survey has been carried out in respect of the ship as if regulation 5 applied to the ship, and
+- (b) a surveyor of ships is satisfied that the ship can proceed to sea without presenting an unreasonable threat of harm to the marine environment, or a person having powers to detain the ship has permitted the ship to proceed to sea for the purposes of proceeding to the nearest appropriate repair yard available.
+
+### 19A. Prohibition on non-United Kingdom ships proceeding to sea without an IEE Certificate[^key-b92ed606781292449c07ec9fb39151fc]
+
+(1) A ship to which this regulation applies must not proceed to sea from a port in the United Kingdom on or at any time after the date specified in paragraph (2), unless the requirements set out in paragraph (3) are met.
+
+(2) The date applicable to the ship is—
+
+- (a) the date of the ship’s initial survey,
+- (b) the date of any general or partial survey of the ship, or
+- (c) in a case where sub-paragraph (a) does not apply and no such general or partial survey has been carried out, the date of the ship’s first annual survey, first intermediate survey or first renewal survey,
+
+to which the ship is subject on or after 24th April 2023.
+
+(3) The requirements referred to in paragraph (1) are that—
+
+- (a) an IEE Certificate has been issued in respect of that ship, and
+- (b) the Certificate has not ceased to be valid by virtue of Regulation 9.11 of Annex VI.
+
+(4) The owner and master of a ship in respect of which an IEE Certificate has been issued and to which this regulation applies, must ensure that the Certificate is readily available on board the ship for inspection at all times.
+
+(5) In this regulation “initial survey” and “general or partial survey” have the meanings given by regulation 11A.
+
+## PART 3 — Control of emissions from ships
+
+### 20. Ozone-depleting substances
+
+(1) The deliberate emission of an ozone-depleting substance from a ship is prohibited.
+
+(2) For the purposes of this regulation “deliberate emission” includes an emission occurring in the course of maintaining, servicing, repairing or disposing of systems or equipment, but does not include minimal releases associated with the recapture or recycling of an ozone-depleting substance.
+
+(3) New installations which involve the introduction on a ship, other than a United Kingdom ship, of an ozone-depleting substance are prohibited.
+
+(4) Prior to 1st January 2020, paragraph (3) has effect as if after “substance” there were inserted “other than hydrochlorofluorocarbons”.
+
+### 21. Nitrogen oxides
+
+(1)[^key-7f0a7a7c8d2174c1a10abff4aa17939e] Subject to paragraph (2), this regulation applies to every diesel engine with a power output of more than 130 kW which is installed on a ship (a “regulated engine”).
+
+(2)[^key-1729c5ae63d6445710cdb4284aa957b7] This regulation does not apply to any engine referred to in paragraph 1 of Schedule 2 and paragraph (4D) does not apply to any engine referred to in paragraph 1A of that Schedule.
+
+(3) Where a regulated[^key-5ffca2726ad702fb63a8077c5391636b] engine is installed on a United Kingdom ship engaged solely in voyages to ports or offshore terminals within United Kingdom waters, and—
+
+- (a) that ship was constructed; or
+- (b) the engine underwent a major conversion,
+
+before 19th May 2005, the Secretary of State may on application by the owner of the ship direct that this regulation does not apply to that engine.
+
+(4) Subject to paragraph (7), for the purpose of the emission standard set out in paragraph 3 (Tier I) of regulation 13 (nitrogen oxides) of Annex VI,[^key-5b2ac71caeb59eac985ccd4d79c757e8] the operation of a regulated engine to which this paragraph applies[^key-2096a000f2580c588a455959f272db71] is prohibited, except where the emission of nitrogen oxide (calculated as the total weighted emission of NO<sub>2</sub>) from the engine is no more than—
+
+- (a) 17.0 g/kWh when *n* is less than 130 rpm;
+- (b) 45.0 x *n* <sup>-0.2</sup> g/kWh when *n* is 130 or more but less than 2000 rpm;
+- (c) 9.8 g/kWh when *n* is 2000 rpm or more,
+
+where *n* = rated engine speed (crankshaft revolutions per minute).
+
+(4A)[^key-c92c0707ce485c3d087eaf42058be670] Subject to paragraph (9), paragraph (4) applies to every regulated engine which is installed on a ship which—
+
+- (a) was constructed on or after 1st January 1990 and before 1st January 2000 and has both—
+  - (i) a power output of more than 5,000 kW; and
+  - (ii) a per cylinder displacement at or above 90 L;
+- (b) was constructed on or after 1st January 2000 and before 1st January 2011; or
+- (c) underwent a major conversion on or after 1st January 2000 and before 1st January 2011.
+
+(4B) Subject to paragraph (7), for the purpose of the emission standard set out in paragraph 4 (Tier II) of regulation 13 (nitrogen oxides) of Annex VI, the operation of a regulated engine to which this paragraph applies is prohibited, except where the emission of nitrogen oxide (calculated as the total weighted emission of NO<sub>2</sub>) from the engine is no more than—
+
+- (a) 14.4 g/kWh when *n* is less than 130 rpm;
+- (b) 44.0 x *n*<sup>-0.23</sup> g/kWh when *n* is 130 or more but less than 2000 rpm;
+- (c) 7.7 g/kWh when *n* is 2000 rpm or more,
+
+  where *n* = rated engine speed (crankshaft revolutions per minute).
+
+(4C) Unless paragraph (4D) applies, paragraph (4B) applies to every regulated engine which is installed on a ship which—
+
+- (a) is or was constructed on or after 1st January 2011; or
+- (b) undergoes or has undergone a major conversion on or after that date.
+
+(4D) Subject to paragraph (7) and Schedule 2ZA, for the purpose of the emission standard set out in paragraph 5 (Tier III) of regulation 13 (nitrogen oxides) of Annex VI (“the Tier III Standard”), the operation of a regulated engine to which this paragraph applies is prohibited, except where the emission of nitrogen oxide (calculated as the total weighted emission of NO<sub>2</sub>) from the engine is no more than—
+
+- (a) 3.4 g/kWh when *n* is less than 130 rpm;
+- (b) 9.0 x *n*<sup>-0.2 </sup>g/kWh when *n* is 130 or more but less than 2000 rpm;
+- (c) 2.0 g/kWh when *n* is 2000 rpm or more,
+
+  where *n* = rated engine speed (crankshaft revolutions per minute).
+
+(4E) Paragraph (4D) applies to every regulated engine which is installed on a ship which—
+
+- (a) is operating in the North American emission control area or the United States Caribbean emission control area and—
+  - (i) is or was constructed on or after 1st January 2016; or
+  - (ii) undergoes or has undergone a major conversion on or after that date;
+- (b) is operating in the Baltic Sea emission control area or the North Sea emission control area and which—
+  - (i) is constructed on or after 1st January 2021; or
+  - (ii) undergoes a major conversion on or after that date;
+- (c) is operating in any other emission control area designated by the Marine Environment Protection Committee of the IMO for the purpose of the Tier III Standard and which is constructed or which undergoes a major conversion on or after—
+  - (i) the date of designation of that area; or
+  - (ii) such later date as may be specified in a Merchant Shipping Notice.
+
+(5) When assessing under paragraph (4) , (4B) or (4D)[^key-f4eeb832b6fe5613974da0835077a746] the emission of nitrogen oxide from a regulated[^key-117222f306b1b534b1a661b3257da8e2] engine using fuel composed of blends of hydrocarbons derived from petroleum refining, the test procedure and measurement methods must be in accordance with the NO<sub>x</sub> Technical Code.
+
+(6) The owner of a ship must ensure that the emission of nitrogen oxide from a regulated[^key-20b33fbbf7037ff1297fcf9c1733a3dd] engine that is installed on that ship and that has undergone a major conversion is recorded in accordance with the NO<sub>x</sub> Technical Code and approved by the Certifying Authority.
+
+(7) Notwithstanding paragraphs (4), (4B) and (4D)[^key-627b492adb4a13a0aa97b9dd5eb5a1ce], the operation of a regulated[^key-69eaefd75852a1bbb61787be546645b9] engine is permitted when either an exhaust gas cleaning system or any other equivalent method, approved in accordance with the Merchant Shipping (Marine Equipment) Regulations[^key-2ed145a49fe7e711b327f3be7563bc83] 2025[^key-58d7f71b212149662aaec9e02d241eb2], is applied to the engine in question to meet the applicable emission standard in paragraph (4), (4B) or (4D), respectively[^key-4b7106905b7552531cf122ad78e29ead].
+
+(8) In this regulation “major conversion” means a modification of an engine where—
+
+- (a) the engine is replaced by a new engine built on or after 1st January 2000 which has not been certified to one of the emission standards in paragraphs (4), (4B) or (4D)[^key-dcf72eb68bd05b831c278b0c6ebfd6b9]; or
+- (b) any substantial modification, as defined in the NO<sub>x</sub> Technical Code, is made to the engine; or
+- (c) the maximum continuous rating of the engine is increased by more than 10 per cent.
+
+(9)[^key-29435781878292bee1150507b129e994] Paragraph (4) only applies to an engine referred to in paragraph (4A)(a) if—
+
+- (a) an approved method of meeting the emission standard in paragraph (4) has been certified by a Certifying Authority in accordance with Chapter 7 of the NOx Technical Code; and
+- (b) notice of that certification has been deposited with the IMO by the Certifying Authority.
+
+(10) After certification and notification of an approved method in accordance with paragraph (9)—
+
+- (a) compliance with paragraph (4) must be achieved by the relevant owner no later than—
+  - (i) if an approved method is commercially available, the date of the first renewal survey that occurs at least 12 months after deposit of the notice of certification of the approved method; or
+  - (ii) if an approved method is not commercially available and the owner is able to demonstrate to the satisfaction of the Certifying Authority that the owner has exercised every effort to obtain such a method, the date of the next annual survey falling after the date on which such a method becomes commercially available;
+- (b) compliance with paragraph (4) must be demonstrated by either—
+  - (i) confirmation of the application of the certified approved method by a surveyor who must—
+    - (aa) employ the verification procedure specified as part of the approved method; and
+    - (bb) note the application on the appropriate certificate; or
+  - (ii) certification of the engine to confirm that it meets one or more of the emission standards in paragraphs (4), (4A) and (4D) and notation of that certification on the appropriate certificate;
+- (c) the appropriate certificate for each relevant engine must indicate that—
+  - (i) the approved method has been applied;
+  - (ii) the engine has been certified in accordance with sub-paragraph (b)(ii);
+  - (iii) the approved method is not yet commercially available; or
+  - (iv) the approved method is not applicable.
+
+(11) In respect of each engine referred to in paragraph (12) which is installed on a ship referred to in paragraph (4E), the log book or electronic record book of that ship must record—
+
+- (a) whether paragraph (12)(a) or (12)(b) applies to that engine;
+- (b) whether or not that engine is in operation at the time at which that ship enters or leaves an area referred to in paragraph (4E);
+- (c) the periods of time during which that engine is in operation whilst that ship is operating within such an area; and
+- (d) the times and periods of time referred to in sub-paragraphs (b) and (c), together with the relevant calendar dates and nautical positions of the ship—
+  - (i) at those times;
+  - (ii) during those periods; and
+  - (iii) on those dates.
+
+(12) Paragraph (11) applies to each engine on the ship in question which is certified to the standard set out in—
+
+- (a) both paragraphs (4B) and (4D); or
+- (b) paragraph (4B) only.
+
+### 22.[^key-ea628ea21578815a13862112ecc644cd]
+
+Schedule 2A has effect.
+
+### 23. Volatile organic compounds
+
+(1) The operation by a harbour authority or terminal operator of a vapour emission control system for volatile organic compounds is prohibited unless the Secretary of State has given his written approval for that system.
+
+(2) A harbour authority or terminal operator operating a vapour emission control system for volatile organic compounds must comply with Schedule 4 to Merchant Shipping Notice 1819 (M+F).
+
+(3) The owner and master of a United Kingdom tanker subject to vapour emission control in a harbour or terminal notified to the IMO as a designated harbour or terminal pursuant to the Convention must comply with Schedule 4 to Merchant Shipping Notice 1819 (M+F).
+
+(4) The owner and master of any tanker, other than a United Kingdom tanker, in United Kingdom waters that is subject to vapour emission control in a harbour or terminal designated by the Secretary of State must ensure that the tanker is fitted with an approved vapour emission collection system that is fully operational.
+
+(5) In paragraph (4) an approved vapour emission collection system is a vapour emission system that has been approved by the flag state pursuant to Annex VI.
+
+(6) The master shall, on demand, produce to the harbour authority, terminal operator or surveyor evidence of the approval referred to in paragraph (5).
+
+(7) This regulation only applies to a gas carrier if the type of loading and containment systems allow safe retention of non-methane volatile organic compounds on board or their safe return ashore.
+
+### 24. Shipboard incineration
+
+(1) Subject to paragraph (6), all shipboard incineration must take place in a shipboard incinerator.
+
+(2) Subject to paragraph (12),the owner of a ship on which a shipboard incinerator was installed after 31st December 1999 shall, on demand, demonstrate to a surveyor that the incinerator complies with the Merchant Shipping (Marine Equipment) Regulations[^key-9369dea50ad4ef9abadf5de5c67cfdf7] 2025[^key-0f0a30f7b2222182195a8e0b39df8cf3].
+
+(3) Where a shipboard incinerator was installed on or before 18th May 2005 on a United Kingdom ship solely engaged in voyages within United Kingdom waters, the Secretary of State may on application by the owner direct that paragraph (2) does not apply to that incinerator.
+
+(4) Shipboard incineration of the following is prohibited—
+
+- (a) the residues of any substances or materials referred to in Annex I, II or III of the Convention which have been carried as cargo in the ship and any related contaminated packing materials;
+- (b) polychlorinated biphenyls;
+- (c) garbage containing more than traces of heavy metals; and
+- (d) refined petroleum products containing halogen compounds.
+
+(5) In this regulation “garbage” means all kinds of victual, domestic and operational wastes generated during the normal operation of a ship and liable to be disposed of continuously or periodically, but does not include fresh fish and parts thereof or sewage.
+
+(6) While a ship is in a port, harbour or estuary, shipboard incineration of sewage sludge and sludge oil generated during the normal operation of the ship must not take place in the main or auxiliary power plant or boiler.
+
+(7) Shipboard incineration of polyvinyl chlorides is prohibited except in a shipboard incinerator for which a Type Approval Certificate, has been issued in accordance with the Merchant Shipping (Marine Equipment) Regulations 2025[^key-171c012f09afe0a170b237a97885e9c0].
+
+(8) A ship with a shipboard incinerator installed on it must at all times carry an operating manual of the manufacturer of that incinerator, which specifies how to operate the incinerator within the limits described in Schedule 5 to Merchant Shipping Notice 1819 (M+F).
+
+(9) Every person responsible for the operation of a shipboard incinerator must be trained and capable of implementing the guidance provided in the manufacturer’s operating manual.
+
+(10) Combustion flue gas outlet temperatures must be monitored at all times and the waste must not be fed into a continuous-feed shipboard incinerator when the temperature is below 850°C.
+
+(11) No batch-loaded shipboard incinerator is to be used if the temperature in the combustion chamber fails to reach 600°C within 5 minutes of start-up.
+
+(12) The Secretary of State may approve the design, installation and operation of alternative shipboard thermal waste treatment devices that meet or exceed the requirements of this regulation for use instead of one issued in accordance with the Merchant Shipping (Marine Equipment) Regulations 2025[^key-8df5db3eee104ecbecee2ecf1c36a58a].
+
+### 25. Fuel oil quality
+
+(1) This regulation does not apply to—
+
+- (a) coal in its solid form;
+- (b) nuclear fuels;
+- (c) any hydrocarbon which is produced on a platform and used on that platform as fuel, if that use has been approved by the Secretary of State.
+
+(2) A fuel oil supplier must ensure that fuel oil for combustion purposes delivered to a relevant ship for use on board that ship meets the requirements in paragraph (4) or (5) as applicable.
+
+(3) The master of a relevant ship must ensure that fuel oil for combustion purposes used on board that ship meets the requirements of paragraph (4) or (5).
+
+(3A)[^key-399af161e26dd03d037f18ef7e284e35] The master of a relevant ship must notify its flag state and the competent authority of the relevant port of destination when it cannot purchase fuel oil for combustion purposes to be used on board that ship that meets the requirements of paragraph (4) or (5).
+
+(3B) The master of a relevant ship which has on board fuel oil for combustion purposes which does not meet the requirements of paragraph (4) or (5) must comply with any requirement of the Secretary of State as notified in a Merchant Shipping Notice.
+
+(4) Where the fuel oil is blends of hydrocarbons derived from petroleum refining, it must not—
+
+- (a) incorporate more than a small amount of additives intended to improve some aspects of performance;
+- (b) contain inorganic acid;
+- (c) include any added substance or chemical waste which—
+  - (i) jeopardises the safety of the relevant ship;
+  - (ii) adversely affects the performance of the machinery;
+  - (iii) is harmful to personnel; or
+  - (iv) causes increased air pollution.
+
+(5) Fuel oil for combustion purposes derived by methods other than petroleum refining must not—
+
+- (a) exceed the appropriate sulphur content limit;
+- (b) cause an engine to exceed the nitrogen oxide emission limits in regulation 21(4) , (4B) or (4D)[^key-7fa17c8c7a16d763b2277915fb8bfe9d];
+- (c) contain any inorganic acid;
+- (d) jeopardise the safety of the relevant ship or adversely affect the performance of the machinery;
+- (e) be harmful to personnel; or
+- (f) include any added substance or chemical which causes additional air pollution.
+
+(6)[^key-81338b0ac95040edbc3566508d0d950f] For the purposes of paragraph (5), the appropriate sulphur content limit means—
+
+- (a) not more than 0.10 per cent by mass in the case of fuel oil used or intended to be used in an emission control area;
+- (b) subject to paragraph (c), not more than 0.50 per cent by mass in the case of fuel oil used or intended to be used outside an emission control area;
+- (c) not more than 0.10 per cent by mass in the case of fuel oil used or intended to be used by a ship while paragraph 4(3) of Schedule 2A applies to that ship.
+
+(7) A local supplier of fuel oil for combustion purposes delivered to and used on board a relevant ship must—
+
+- (a) register with the Secretary of State in accordance with the provisions of Schedule 7 to Merchant Shipping Notice 1819 (M+F);
+- (b) provide the master of the relevant ship with a bunker delivery note containing the information set out in Appendix V to Annex VI[^key-951bcb6214f6055d0d5f9686148a09fe];
+- (c) provide a declaration in the bunker delivery note that is signed by the fuel oil supplier’s representative that the fuel oil supplied conforms with regulations 14(1) or 14(4)(a) (as applicable) and 18(1) of Annex VI;
+- (d) retain a copy of the bunker delivery note for three years from the date of delivery; and
+- (e) not contaminate or blend the fuel so that it no longer conforms with the declaration required by sub-paragraph (c).
+
+(8) The master of a relevant ship must—
+
+- (a) ensure that the bunker delivery note is kept on board the ship in a place so as to be readily available for inspection at all reasonable times;
+- (b) when requested by an inspector appointed by the Secretary of State to do so, certify whether any copy of the bunker delivery note is a true copy of the original; and
+- (c) ensure that the bunker delivery note is retained for a period of three years from the day on which the fuel oil has been delivered on board.
+
+(9) The local supplier’s representative must provide a representative sample of the fuel oil delivered to accompany the bunker delivery note, and that sample must—
+
+- (a) be collected in accordance with Schedule 7 and Appendix 1 to Merchant Shipping Notice 1819 (M+F);
+- (b) on completion of bunkering operations be sealed and signed by the local supplier’s representative and the master or officer in charge of the bunkering operation; and
+- (c) be retained under the control of the master or owner of the ship for not less than twelve months starting with the day of delivery or until the fuel oil is substantially consumed if the fuel oil is not consumed in less than twelve months.
+
+(10) The bunker delivery note and the sample of fuel oil required under paragraphs (7), (8) and (9) must be available for inspection and verification at all reasonable times in accordance with Schedule 7 to Merchant Shipping Notice 1819 (M+F).
+
+(11) The bunker delivery note required under paragraphs (7) and (8) must be available for copies to be made at all reasonable times.
+
+(12) In this regulation—
+
+- (a) “fuel oil supplier” means a person who is responsible for the final blend of fuel oil supplied to a local supplier of fuel oil;
+- (b) “fuel oil supplier’s representative” means a person appointed by a fuel oil supplier to provide a declaration on the bunker delivery note that the fuel supplied complies with regulations 14(1) or 14(4)(a) (as applicable) and 18(1) of Annex VI;
+- (c) “local supplier of fuel oil” means a person who receives fuel oil with a view to its delivery to and use on board a relevant ship; and
+- (d) “local supplier’s representative” means a person who delivers fuel oil to a relevant ship on behalf of a local supplier of fuel oil; and
+- (e) “relevant ship” means—
+  - (i) a platform; or
+  - (ii) a ship, other than a platform, of 400GT or above.
+
+### 25A. Energy efficiency of ships[^key-e0149c7535bee78d9d43d14d456be4fa]
+
+(1)[^key-5b83a1a3f2449d0636777b50b205ce68] A SEEMP is a plan that meets the requirements of Regulation 26 of Annex VI and relevant IMO Guidelines.
+
+(2) Each ship to which this regulation applies[^key-dbd99b3765752a4941ac1c48f30d352c] must have a SEEMP which is specific to that ship.
+
+(3) The SEEMP must be kept on board the ship at all times.
+
+(4)[^key-517deabbbc6967d6878c487bf521affe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 25B. Collection and reporting of fuel consumption data and carbon intensity index[^key-f0d7ec31931d027c1ea5b143848dd3c0]
+
+(1) The owner and master of a ship in respect of which a Statement of Compliance has been issued and to which this regulation applies, must ensure that the Statement of Compliance is readily available on board the ship for inspection for a period of 5 years after the date it was issued.
+
+(2) Schedule 4 (collection and reporting of fuel consumption data and carbon intensity index) has effect.
+
+## PART 4 — Inspections, Detentions and Offences
+
+### 26. Inspection of ships
+
+(1) In so far as sections 258 and 259 of the 1995 Act [^f00016] (powers to inspect ships and their equipment, powers of inspectors in relation to premises and ships) apply in relation to a ship to which any of these Regulations apply or any ship delivering fuel oil for combustion purposes[^key-27528a10e262bd8ef02a70f49af4e7d8], for the purposes of checking compliance with these Regulations those sections have effect subject to the following modifications.
+
+(2) The power in those sections to inspect a ship and its equipment, any part of the ship, any articles on board and any documentation carried in the ship, is limited to—
+
+- (a) verifying whether an appropriate certificate has been issued in respect of the ship and is still valid,
+- (b) verifying whether documentation referred to in regulation 19(2) (“appropriate documentation”) has been issued in respect of the ship and is still valid,
+- (c) investigating any operation regulated by these Regulations, if there are clear grounds for believing that the master or the crew are not familiar with essential shipboard procedures relating to the prevention of air pollution,
+- (d) verifying whether the ship has emitted any substances in violation of these Regulations,
+- (e) inspecting the log book entries required under paragraph 5 of Schedule 2A[^key-fdde16a79a426d7f41eea7fe1b7fa479], or
+- (f) inspecting bunker delivery notes that are to be made available for inspection under regulation 25(8)(a),
+
+except where there are clear grounds for believing that the condition of the ship or its equipment does not correspond substantially with the particulars of the appropriate certificate or other appropriate documentation referred to in sub-paragraph (a) and (b).
+
+(2A)[^key-59160b75dcfb54f76f850a9042873292] The powers in sections 258 and 259 of the 1995 Act also apply to verifying—
+
+- (a) whether an IEE Certificate has been issued in respect of the ship;
+- (b) whether the ship has a SEEMP and that it is duly implemented in accordance with Regulation 28 of Annex VI; and
+- (c) whether a Statement of Compliance has been issued and is still valid.
+
+(3)[^key-77f127422caba50c640eb5b242b7b900] The power in those sections to go on board a ship may only be exercised if the ship in question is—
+
+- (a) in a port in the United Kingdom,
+- (b) at an offshore terminal in United Kingdom waters or controlled waters,
+- (c) a fixed platform in United Kingdom waters or controlled waters, or
+- (d) a floating platform in United Kingdom waters or controlled waters, other than a floating platform which is in transit.
+
+(4) Where the ship is inspected for the purposes of paragraph (2)(d) or (2A)[^key-a47000c326ce09880487125c1230d687] and is not a United Kingdom ship, the person exercising the powers of inspection must ensure that the report of the inspection is sent to—
+
+- (a) the consul or diplomatic representative of the State whose flag the ship is entitled to fly or the appropriate maritime authorities of that State, and
+- (b) any other Party to the Convention that requested the inspection.
+
+(5) Where log book entries are inspected under paragraph (2)(e), or bunker delivery notes are inspected under paragraph (2)(f), the person exercising the power of inspection may—
+
+- (a) make a copy of an entry in that book, and
+- (b) require the master of the ship to certify that the copy is a true copy of the original.
+
+(6) Any copy certified in accordance with paragraph (5) is to be admissible in any judicial proceeding as evidence of the facts stated in it.
+
+### 27. Investigation of alleged violations by United Kingdom ships
+
+Upon receiving evidence that a United Kingdom ship has emitted a substance in violation of these Regulations the Secretary of State must—
+
+- (a) cause the matter to be investigated,
+- (b) inform the IMO of the action taken, and
+- (c) where another State has reported the violation, inform that State of the action taken.
+
+### 28. General provisions on detention
+
+(1) Where a determination is made of the kind mentioned in regulation 16(1)[^key-5fbc51c49f036995d6bbb49177ad76a2] in relation to a ship, or a surveyor of ships has clear grounds for believing that—
+
+- (a) an appropriate certificate is required to have been issued in respect of a ship but has not been issued, or has been issued and is not valid,
+- (b) documentation referred to in regulation 19(2) (“appropriate documentation”) is required to have been issued in respect of a ship but has not been issued, or has been issued but is not valid,
+- (c) the condition of a ship or its equipment does not correspond substantially with the particulars of that certificate or other appropriate documentation,
+- (d) the master or crew of a ship are not familiar with essential shipboard procedures relating to the prevention of air pollution, or
+- (e) an offence under regulation 32(1)(a) to (e) is being committed in respect of the ship,
+
+the ship is liable to be detained until a surveyor of ships is satisfied that it can proceed to sea without presenting any unreasonable threat of harm to the marine environment.
+
+(2) But a person having powers to detain a ship may permit a ship which is liable to be detained under paragraph (1) to proceed to sea for the purposes of proceeding to the nearest appropriate repair yard available.
+
+(3) Where a surveyor of ships has clear grounds for believing that a relevant offence[^key-ad713b5c35fffa0e8951a34a8dd47364] has been committed in respect of a ship, the ship is liable to be detained.
+
+(4)[^key-c61ee7c3a2bcdde02b0555d7199ed4ed] The power under this regulation to detain a ship may only be exercised if the ship in question is—
+
+- (a) in a port in the United Kingdom,
+- (b) at an offshore terminal in United Kingdom waters or controlled waters,
+- (c) a fixed platform in United Kingdom waters or controlled waters, or
+- (d) a floating platform in United Kingdom waters or controlled waters, other than a floating platform which is in transit.
+
+(5) Section 284 of the 1995 Act[^f00017] (enforcing detention of a ship) applies where a ship is liable to be detained under the preceding provisions of this regulation as if—
+
+- (a) references to detention of a ship under the Act were references to detention of the ship in question under the preceding provisions of this regulation, and
+- (b) subsection (7) were omitted.
+
+(6) Where a ship is liable to be detained under the preceding provisions of this regulation, the person detaining the ship must serve on the master of the ship a detention notice which—
+
+- (a) states the grounds of the detention, and
+- (b) requires the terms of the notice to be complied with until the ship is released by any person mentioned in section 284(1) of the 1995 Act.
+
+(7) Where a ship other than a United Kingdom ship is detained, the Secretary of State must immediately inform the consul or diplomatic representative of the State whose flag the ship is entitled to fly or the appropriate maritime authorities of that State.
+
+(8) Where a ship is detained under paragraph (3), a person having power to detain the ship must, at the request of the owner, master, demise charterer or manager, immediately release the ship—
+
+- (a) if no proceedings for a relevant offence[^key-be9bf18ca7cf8ec7a15dab0d477af56d] are instituted within the period of seven days beginning with the day on which the ship is detained,
+- (b) if proceedings for a relevant offence[^key-416a6a5de69b12d3d5d2535d0d05d261] having been instituted within that period, are concluded without the owner, manager, demise charterer or master being convicted,
+- (c) if either—
+  - (i) the sum of £30,000 is paid to the Secretary of State by way of security, or
+  - (ii) security which, in the opinion of the Secretary of State, is satisfactory and is for an amount not less than £30,000 is given to the Secretary of State,
+
+  by or on behalf of the owner, manager, demise charterer or master.
+- (d) where the owner, manager, demise charterer or master is convicted of a relevant offence[^key-b785496a190a3654ba3e3336bf3ae6b3], if any costs or expenses ordered to be paid by that person, and any fine imposed on that person, have been paid, or
+- (e) the release is ordered by a court or tribunal referred to in Article 292 of the United Nations Convention on the Law of the Sea[^f00018], and any bond or other financial security ordered by such court or tribunal is posted.
+
+(9) The Secretary of State must repay any sum paid in pursuance of paragraph (8)(c) or release any security so given—
+
+- (a) if no proceedings for a relevant offence[^key-a51d76778d7fee5be89830b02619110b] are instituted within the period of seven days beginning with the day on which the sum is paid, or
+- (b) if proceedings for any such offence, having been instituted within that period, are concluded without the owner, manager or demise charterer or master being convicted.
+
+(10) Where a sum has been paid, or security has been given, by any person in pursuance of paragraph (8)(c) and the owner, manager, demise charterer or master is convicted of a relevant offence[^key-6c0f72e008ad781f8666be72e113497b], the sum so paid or the amount made available under the security must be applied as follows—
+
+- (a) first in payment of any costs or expenses ordered by the court to be paid by the owner, manager, demise charterer or master, and
+- (b) next in payment of any fine imposed by the court,
+
+and any balance must be repaid to the first-mentioned person.
+
+(11) Section 145 of the 1995 Act [^f00019] (interpretation of section 144) applies for the purposes of paragraphs (8) to (10) as if—
+
+- (a) references to the master or owner of the ship were references to the owner, manager, demise charterer or master, and
+- (b) references to an offence under section 131 were references to a relevant offence[^key-7bd8a8a38c393e649b840c2b50cc510e].
+
+### 29. Power for harbour master to detain
+
+(1) Where the harbour master of a harbour in the United Kingdom has clear grounds for believing that a relevant offence[^key-ec28504ca0756c2fe31705f1f81c8a31] other than a contravention of regulation 11ZA(1) or (4), 13B(4), 19A(1) or (4) or 25A(2) or (3)[^key-b24a4ed77733ad21681591564bc5788f] has been committed the harbour master may detain that ship.
+
+(2) Section 144(2) and (3) of the 1995 Act (harbour master’s power of detention of ships for certain offences) applies to a detention under paragraph (1) as it applies to a detention under section 144(1) of the 1995 Act.
+
+(3) Where a ship is liable to be detained under this regulation, the harbour master detaining the ship must serve on the master of the ship a detention notice which—
+
+- (a) states the grounds for the detention, and
+- (b) requires the terms of the notice to be complied with until the ship is released by the harbour authority.
+
+(4) Where a ship is detained under paragraph (2), the harbour master must immediately release the ship—
+
+- (a) if no proceedings for the relevant offence[^key-dd559d99900fbf5213e3ce0d31fd446b] are instituted within the period of seven days beginning with the day on which the ship is detained,
+- (b) if proceedings for the relevant offence, having been instituted within that period, are concluded without the owner, manager, demise charterer or master being convicted,
+- (c) if either—
+  - (i) the sum of £30,000 is paid to the harbour authority by way of security, or
+  - (ii) security which, in the opinion of the harbour authority, is satisfactory and is for an amount not less than £30,000 is given to the harbour authority,
+
+  by or on behalf of the owner, manager, demise charterer or master,
+- (d) where the owner, manager, demise charterer or master is convicted of the relevant offence if any costs or expenses ordered to be paid by that person, and any fine imposed on that person, have been paid, or
+- (e) the release is ordered by a court or tribunal referred to in article 292 of the United Nations Convention on the Law of the Sea 1982, and any bond or other financial security ordered by such court or tribunal is posted.
+
+(5) The harbour authority must repay any sum paid in pursuance of paragraph (4)(c) or release any security so given—
+
+- (a) if no proceedings for the relevant offence are instituted within the period of seven days beginning with the day on which the sum is paid, or
+- (b) if proceedings for the relevant offence, having been instituted within that period, are concluded without the owner, manager, demise charterer or master being convicted.
+
+(6) Where a sum has been paid, or security has been given, by any person in pursuance of paragraph (4)(c) and the owner, manager, demise charterer or master is convicted of the relevant offence, the sum so paid or the amount made available under the security must be applied as follows—
+
+- (a) first in payment of any costs or expenses ordered by the court to be paid by the owner, manager, demise charterer or master, and
+- (b) next in payment of any fine imposed by the court,
+
+and any balance must be repaid to the first-mentioned person,
+
+(7) Section 145 of the 1995 Act (interpretation of section 144) applies for the purposes of paragraphs (4) to (6) as if—
+
+- (a) references to the master or owner of the ship were references to the owner, manager, demise charterer or master, and
+- (b) references to an offence under section 131 were references to a relevant offence[^key-e54245d94dbb8df4754ef89c504a8262] other than a contravention of regulation 11ZA(1) or (4), 13B(4), 19A(1) or (4) or 25A(2) or (3)[^key-712a6588dcea459fd69fb8999a2cee82].
+
+### 30. Duty of harbour master to report deficient ships
+
+If the harbour master of a harbour in the United Kingdom has reason to believe that a ship is about to enter or leave the harbour and does not comply with the requirements of these Regulations, the harbour master must immediately report the matter to the Secretary of State.
+
+### 31. Right of appeal and compensation
+
+(1) — Regulations 11 and 12 of the 1995 Regulations (right of appeal and compensation) apply in relation to the exercise of the powers of detention under these Regulations as they apply in relation to the exercise of those powers under Part 1 of those Regulations, subject to the modifications referred to in paragraph (2).
+
+(2) The modifications are—
+
+- (a) references to “inspector” are to be taken as references to the authority detaining the ship or the harbour master, as the case may be,
+- (b) references to “access refusal notice”, “service of access refusal notice” and “refusal of access” are to be omitted, and
+- (c) in regulation 12(2) after “State” there is added “, except where the ship is detained by a harbour master, in which case any compensation awarded under this section shall be payable by the harbour authority.”.
+
+### 31A. Non-compliant fuel oil for combustion purposes[^key-a2d9c5b516f213076660c55135037fd7]
+
+(1) Where any person exercising a power of inspection under section 258 or 259 of the 1995 Act finds on a ship fuel oil for combustion purposes that does not comply with these Regulations and which is intended for use on a relevant ship, that person may require the relevant local supplier of fuel oil—
+
+- (a) to bring that fuel oil into compliance, or
+- (b) not to deliver that fuel oil to the relevant ship.
+
+(2) Where any person exercising a power of inspection under section 258 or 259 of the 1995 Act finds on a relevant ship fuel oil for combustion purposes that does not comply with these Regulations that person may require that it be brought into compliance or removed.
+
+(3) In this regulation “**local supplier of fuel oil**” and “**relevant ship**” have the same meaning as in regulation 25.
+
+### 32. Offences
+
+(1) Any contravention of—
+
+- (a) regulation 5(1), 6(1), 7(1), 8(1), 9(1), (2) or (3), 10(2), 11ZA(1) or (4),[^key-855b5171b278259394931e9eba881a6f] 18(4), 19(1) or (2), 19A(1) or (4),[^key-ec7cc9dd7dbf727f71989078d1145ae4] 20(3), 23(3) or (4) or 25(9)(c) ,[^key-04dd14759eca3629ed9a1b00db702a19] 25A(2) or (3), 25B(1)[^key-fad3a0b677534529324863bb52eb316d] or paragraph 5(6) of Schedule 2A [^key-f4d658c3e92857ba29c4ca5cc29722c4]..., is an offence by the owner and by the master of the ship in question,
+- (b) regulation 16(5)[^key-71eaf933dd5619aa9f8924a40e65189e], 21(6) or (10)[^key-83f569b0268f086c6477c3cff274cd59] or 24(2) is an offence by the owner of the ship in question,
+- (c)[^key-f1b757ccc5723eb07fe1f7f00050e6fb] regulation 20(1), 21(11), 23(6), 24(1), (4), (6), (7), (9), (10) or (11), 25(3), (3A) or (3B), (8), (10) or (11) or paragraph 2(3) to (5) or 5(1) to (5) of Schedule 2A is an offence by the master of the ship in question;
+- (d)[^key-0aa67aa83ca92150fa9f0d3f3fdb9dfe] regulation 15(5), 19 [^key-aee530f7c47f3741391c9dd4ac49fdf7]..., 21(4), (4B) or (4D), 24(8), 25(4) or (5) or paragraph 2(2) to 2(3A) or 4(3) of Schedule 2A is an offence by the owner, manager, demise charterer and master of the ship in question;
+- (e) regulation 13B(4) or[^key-01ca3feadc0053a9793da6773aba7c2a] 18(3) is an offence by the person in question;
+- (f) regulation 23(1) or (2) is an offence by the harbour authority or terminal operator in question;
+- (g) regulation 25(2) is an offence by the fuel oil supplier in question;
+- (h) regulation 25(7) or (9)(a) or (b) is an offence by the local supplier of fuel oil in question.
+
+(2) An offence under paragraph (1) is punishable—
+
+- (a) on summary conviction by a fine not exceeding the statutory maximum; or
+- (b) on conviction on indictment by a fine.
+
+(3) A fuel oil supplier’s representative who makes a false declaration in a bunker delivery note is guilty of an offence and punishable on summary conviction by a fine not exceeding the statutory maximum or on conviction on indictment by a fine.
+
+(3A)[^key-ec083d9b72ced6e61a517bcd749bae15] Where a ship uses an emission abatement method which is not—
+
+- (a) permitted in accordance with paragraph 6 or 7 of Schedule 2A,
+- (b) authorised for the purposes of paragraphs 2 and 4 of Article 8, and Article 9, of the 2016 Directive[^key-7f6afe4c3063180b5bdedb1ed8b84637] by an EEA state [^key-bbc01f9ca31bd441457156e690e25c82]..., or
+- (c) authorised for the purposes of Annex VI by a Contracting Government other than the United Kingdom,
+
+the owner and master are guilty of an offence and punishable on summary conviction by a fine not exceeding the statutory maximum or on conviction on indictment by a fine.
+
+(3B)[^key-4d6421d1640f13b52fb0ecb5cb6c3059] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3C) A local supplier of fuel oil who fails to comply with a requirement under regulation 31A(1) is guilty of an offence and punishable on summary conviction by a fine not exceeding the statutory maximum or on conviction on indictment by a fine.
+
+(3D) A person to whom a requirement under regulation 31A(2) is addressed who fails to comply with that requirement is guilty of an offence and punishable on summary conviction by a fine not exceeding the statutory maximum or on conviction on indictment by a fine.
+
+(4) Where an offence under these Regulations is committed, or would be committed save for the operation of regulation 37(1), by any person due to the act or default of some other person, that other person is also guilty of the offence, and a person may be charged with and convicted of an offence by virtue of this paragraph whether or not proceedings are taken against the first person.
+
+(5) In this regulation[^key-ba42123ec6ed624f1876adf1764e86c0] “fuel oil supplier’s representative”, “fuel oil supplier” and “local supplier of fuel oil” have the same meaning as in regulation 25.
+
+### 33. Service of documents of foreign companies
+
+Section 143(6) of the 1995 Act (service of documents on foreign companies required or authorised by any statutory provision in connection with proceedings for an offence under section 131 of the 1995 Act) applies to proceedings for an offence under these Regulations as it applies to proceedings for an offence under section 131 as if—
+
+- (a) the reference for section 131 were to these Regulations,
+- (b) in the case of an offence in respect of a ship other than a platform, the reference to the owner were to the owner, manager or demise charterer, and
+- (c) in the case of an offence in respect of a platform the reference to—
+  - (i) the owner of the ship were to the owner of the platform, and
+  - (ii) the master of the ship were to the manager of the platform.
+
+### 34. Enforcement and application of fines
+
+Section 146 of the 1995 Act (enforcement and application of fines) applies to any fine for a relevant offence[^key-99ca3156915aa50ca1a6d055a64c5563] as if—
+
+- (a) in subsection (1) of that section the reference to proceedings against the owner or master of a ship for an offence under Chapter 2 were a reference to proceedings against the owner, master, demise charterer or manager for a relevant offence[^key-1d9ff5420517fb0b02d043160c0a9d28], and
+- (b) in subsection (2) of that section, the reference to an offence under section 131 were a reference to a relevant offence[^key-e9c6c304885e76ded989fe25dde274e0].
+
+### 35. Restriction on jurisdiction over offences outside United Kingdom limits
+
+(1) Where there has been a contravention of regulation[^key-cbf49755fc341f0f7a8b5e42d99d610e] 21(4), (4B) or (4D) or paragraph 2(2), (3) or (3A)[^key-a6f455e0d9e84c815dda5f9735f8b91e] of Schedule 2A in respect of a ship which is not a United Kingdom ship in the internal waters, territorial sea or exclusive economic zone of a foreign State, proceedings in respect of that offence must not be instituted in the United Kingdom unless—
+
+- (a) that foreign State, the flag State of the ship in question or a State polluted or threatened with pollution as a result of the offence requests that proceedings be taken, or
+- (b) the offence has caused or is likely to cause air pollution in controlled waters or United Kingdom waters.
+
+(2) Where proceedings have been instituted but not concluded, they must be suspended upon the request of the foreign State in question and the Secretary of State must send all the evidence, court records and documents relating to the case, together with any sum paid or security given, to the foreign State.
+
+(3) In this regulation “foreign State” means a State other than the United Kingdom.
+
+### 36. Suspension of proceedings at flag state request
+
+(1) This regulation applies to proceedings instituted but not concluded in the United Kingdom in respect of a contravention of regulation 21(4), (4B) or (4D) or paragraph 2(2), (3) or (3A)[^key-50927b9a8bbe2c8e3e6e121bd6ac2a14][^key-a95d1d002c12d457d9255264676e9768] of Schedule 2A committed outside United Kingdom waters by a ship which is not a United Kingdom ship.
+
+(2) Subject to paragraph (3), any proceedings must be suspended if the court is satisfied that the flag State of the ship in question has instituted proceedings corresponding to the proceedings in the United Kingdom in respect of the contravention of that provision within six months of the institution of the proceedings by the United Kingdom.
+
+(3) Paragraph (2) does not apply—
+
+- (a) where the contravention of regulation 21(4), (4B) or (4D) or paragraph 2(2), (3) or (3A)[^key-794a070fae6351f947a61696eca486ac][^key-314ff218b8fac9ba6453cc16efdb3859] of Schedule 2A resulted in serious pollution to the United Kingdom; or
+- (b) the Secretary of State certifies that the flag State in question has repeatedly disregarded its obligation to enforce effectively the requirements of the Convention in respect of its ships.
+
+(4) Where proceedings instituted by the flag State have been brought to a conclusion, the suspended proceedings must be terminated.
+
+### 37. Defences
+
+(1) In any proceedings for an offence under these Regulations, it is a defence for the person charged to prove that person took all reasonable steps and exercised all due diligence to ensure that the regulation in question was complied with.
+
+(2) Without prejudice to paragraph (1), in any proceedings for an offence comprising a contravention of regulation[^key-d4e1001ca1be7ebc4a1f740cb5773ec2] 21(4), (4B) or (4D) or paragraph 2(2), (3) or (3A)[^key-57456c2e1c39adf2dbb7459f0390bd4e] of Schedule 2A it is a defence for the person charged to prove that—
+
+- (a) the ship was not a United Kingdom ship,
+- (b) the emission took place in waters that were neither controlled waters nor United Kingdom waters, and[^key-6e788bf6045c74356be7eaf2edd36d73]
+- (c) the ship was in a port in the United Kingdom at the time of the institution of proceedings by reason only of stress of weather or any other reason beyond the control of the master or owner or any charterer or manager.
+
+### 38. Review[^key-61f3b63ec45e950e300ae1e69f4bd65f]
+
+(1) The Secretary of State must from time to time—
+
+- (a) carry out a review of these Regulations;
+- (b) set out the conclusions of the review in a report; and
+- (c) publish the report.
+
+(2) In carrying out the review the Secretary of State must, so far as is reasonable, have regard to how Council [Directive 1999/12/EC](https://www.legislation.gov.uk/european/directive/1999/0012), relating to a reduction in the sulphur content of certain liquid fuels is implemented in other Member States.
+
+(3) The report must in particular—
+
+- (a) set out the objectives intended to be achieved by the regulatory system established by these regulations;
+- (b) assess the extent to which those objectives are achieved; and
+- (c) assess whether those objectives remain appropriate and, if so, the extent to which they could be achieved with a system that imposes less regulation.
+
+(4) The first report under this regulation must be published before 16th December 2019.
+
+(5) Reports under this regulation are afterwards to be published at intervals not exceeding five years.
+
+Signed by authority of the Secretary of State for Transport
+
+Jim Fitzpatrick
+
+Parliamentary Under Secretary of State
+
+Department for Transport
+
+12th November 2008
+
+## SCHEDULE 1 — Gross tonnage
+
+Regulation 2
+
+**1.** The “gross tonnage” of a United Kingdom ship is to be determined in accordance with paragraphs 3 to 7. The “gross tonnage” of a ship other than a United Kingdom ship is to be determined in accordance with paragraphs 8 to 10.
+
+**2.** In this Schedule—
+
+- “the 1997 Regulations” means the Merchant Shipping (Tonnage) Regulations 1997[^f00020];
+- “length overall” and “length” (except in the expression “length overall”) have the same meaning as in the 1997 Regulations; and
+- “the Tonnage Convention” means the International Convention on Tonnage Measurement of Ships, 1969[^f00021].
+
+### 3. United Kingdom ships
+
+In the case of a ship of 24 metres in length or over for which the Secretary of State permits the continuing use of a gross tonnage pursuant to regulation 12(1) of the 1997 Regulations, the “gross tonnage” is the smaller of—
+
+- (a) the largest gross tonnage permitted for that ship pursuant to regulation 12(1) of the 1997 Regulations; and
+- (b) the gross tonnage of the ship determined in accordance with regulation 6 of the 1997 Regulations.
+
+**4.** In the case of any other ship of 24 metres in length or over, the “gross tonnage” is the gross tonnage of the ship determined in accordance with regulation 6 of the 1997 Regulations.
+
+**5.** In the case of a fishing vessel of 15 metres or more in length overall but less than 24 metres in length, the “gross tonnage” is the tonnage of the vessel determined in accordance with regulations 6 and 12C[^f00022] of the 1997 Regulations.
+
+**6.** In the case of a fishing vessel of less than 15 metres in length overall and less than 24 metres in length, the “gross tonnage” is the Registered Tonnage of the vessel determined in accordance with regulation 7 of the Merchant Shipping (Fishing Vessels – Tonnage) Regulations 1988[^f00023].
+
+**7.** In the case of any other ship of less than 24 metres in length, the “gross tonnage” is the tonnage of the ship determined in accordance with regulation 14(2) of the 1997 Regulations.
+
+### 8. Ships other than United Kingdom ships
+
+Subject to paragraph 9, in the case of a ship which has a gross tonnage determined in accordance with the Tonnage Convention, the “gross tonnage” is that gross tonnage.
+
+**9.** Where a ship has a gross tonnage determined in accordance with the Tonnage Convention but the State whose flag the ship flies or is entitled to fly permits the use of some other gross tonnage, the “gross tonnage” of the ship is the smaller of—
+
+- (a) the largest gross tonnage permitted by the flag State to be used for that ship; and
+- (b) the gross tonnage determined in accordance with the Tonnage Convention.
+
+**10.** In the case of a ship which does not have a gross tonnage determined in accordance with the Tonnage Convention, the “gross tonnage” is the gross tonnage or equivalent measure determined in accordance with the law of the State whose flag the ship flies or is entitled to fly (and where the ship has more than one such gross tonnage or equivalent measure, the “gross tonnage” is to be taken to be the largest of them).
+
+## SCHEDULE 2 — Engines excluded from regulation 21
+
+Regulation 21(2)
+
+**1.** Regulation 21 does not apply to any—
+
+- (a) equipment or other device intended to be used solely in case of an emergency including any emergency diesel engine and any diesel engine installed in a lifeboat,
+- (b) diesel engine installed on a ship solely engaged in voyages within United Kingdom waters provided that the engine is subject to an alternative nitrogen oxide control measure that has been approved by the Secretary of State,
+- (c) marine diesel engine with a power output of more than 130 kW which is installed on or in a recreational craft or personal watercraft placed on the market within the United Kingdom or[^key-69aeaac6efe9b8ac71c644ae4d537c26] the European Economic Area.
+
+**1A.**[^key-d9e16bf928e91366678b9a6c470cd556] Regulation 21(4D) does not apply to a marine diesel engine which is installed on a ship which—
+
+- (a) is constructed before 1st January 2021 and—
+  - (i) is specifically designed and used solely for recreational purposes;
+  - (ii) has a hull length of 24 metres or over; and
+  - (iii) is less than 500 GT; or
+- (b) has a combined nameplate propulsion power of less than 750 kW, if it is demonstrated to the satisfaction of the Secretary of State that the ship cannot comply with regulation 21(4D) because of design or construction limitations.
+
+**2.** In this Schedule—
+
+- “marine diesel engine” means any reciprocating internal combustion engine operating on liquid or dual fuel, to which regulations 5, 6 and 13 of Annex VI apply, including booster and compound systems, if applied;
+- “recreational craft” means any boat of any type intended for sports and leisure purposes of hull length from 2.5 metres to 24 metres measured according to the harmonised standard, fitted with a marine diesel engine of over 130 kW and whether used for charter or recreational boating;
+- “personal watercraft” means a vessel less than 4 metres in length which uses an internal combustion engine having a jet water pump as its primary source of propulsion and designed to be operated by a person sitting, standing or kneeling on, rather than within the confines of, the hull;
+- “placed on the market” has the same meaning as in the Directive;
+- “the Directive” means Directive [94/25/EC](https://www.legislation.gov.uk/european/directive/1994/0025)[^f00024] of the European Parliament and of the Council on the approximation of the laws, regulations and administrative provisions of the member states relating to recreational craft as amended by Directive [2003/44/EC](https://www.legislation.gov.uk/european/directive/2003/0044) of the European Parliament and of the Council of 16th June 2003[^f00025].
+
+## Schedule 2ZA — Emissions exempted from regulation 21(4D)[^key-1bdf64e233f1b006b3919b460f549dbb]
+
+Regulation 21(4D)
+
+**1.** If the conditions set out in paragraph 2 are satisfied, no account may be taken when applying regulation 21(4D) of any emission from an engine which occurs during the relevant period specified in paragraph 3—
+
+- (a) following the building and sea trials of a newly constructed ship; or
+- (b) before and after conversion, repair or maintenance of a ship fitted with or maintenance or repair of—
+  - (i) an engine certified to the emission standard in regulation 21(4B); or
+  - (ii) a dual fuel engine during any period when gas fuel or gas cargo may not be carried on board in order to comply with applicable safety requirements.
+
+**2.** Paragraph 1 only applies if—
+
+- (a) the engine in question is certified to the emission standard in regulation 21(4B); and
+- (b) the ship in question—
+  - (i) proceeds to or from the relevant shipyard or other repair facility by the most direct route;
+  - (ii) does not load or unload cargo during the occurrence of the emission in question;
+  - (iii) complies with any routing directions of the port State in which that shipyard or other facility is located.
+
+**3.** For the purpose of paragraph 1, the relevant period is—
+
+- (a) in the case of paragraph 1(a), the period beginning when the ship is delivered from the relevant shipyard, including sea trials and ending when the ship—
+  - (i) leaves the emission control area in which that shipyard is located by the most direct route; or
+  - (ii) if fitted with a dual fuel engine, proceeds to the nearest appropriate gas fuel bunkering facility by the most direct route;
+- (b) in the case of paragraph 1(b)(i), the period beginning when the ship enters the emission control area in which the relevant shipyard or other repair facility is located and ending when the ship—
+  - (i) is released from that shipyard or facility; or
+  - (ii) if sea trials are applicable, leaves that area by the most direct route after performing those trials;
+- (c) in the case of paragraph 1(b)(ii), the period beginning when the ship—
+  - (i) enters the emission control area in which the relevant shipyard or other repair facility is located; or
+  - (ii) is degassed in that area and proceeds to that shipyard or other facility by the most direct route,
+
+  and ending when the ship—
+
+  - (iii) leaves that area by the most direct route after being released from that shipyard or other facility; or
+  - (iv) proceeds to the nearest appropriate gas fuel bunkering facility by the most direct route.
+
+## SCHEDULE 2A — Sulphur oxides[^key-47d59219c0eb7284249ed508527c4bc7]
+
+Regulation 22
+
+### 1. Interpretation
+
+In this Schedule—
+
+- [^key-4ed59580fd51af58856aa4e7a2d1c17e]...
+- “**approved exhaust gas cleaning system**” means an exhaust gas cleaning system approved in accordance with Merchant Shipping Notice 1734 (M+F) or Merchant Shipping Notice 1735 (M+F) as appropriate;
+- “emission abatement method” means any fitting, material, appliance or apparatus to be fitted in a ship or other procedure, alternative fuel or compliance method, used as an alternative to low sulphur[^key-aaa035740473c788a997ad4e3e195f1c] fuel oil[^key-410bdb09113bbbfb4d57c22762a4d13f] meeting the requirements set out in the 2016 Directive[^key-2436419f38538d36d9c67020adaff8ca] that is verifiable, quantifiable and enforceable;
+- [^key-6f331d8a01adb8ac5f35b3e82d190a30]...
+- [^key-6f331d8a01adb8ac5f35b3e82d190a30]...
+- [^key-02e380d9d4cd334ddfebdb96f8270db4]...
+- [^key-6f331d8a01adb8ac5f35b3e82d190a30]...
+
+### 2. Control of sulphur oxide emissions: general provisions
+
+(1)[^key-b04c329fff307a43c685240bea924b8c] This paragraph applies to any ship unless paragraph 4(3) or a permission granted under paragraph 6 or 7 applies to it.
+
+(2) While a ship to which this paragraph applies is within an[^key-0312af0ab94f927831768d11d44027ed] emission control area it must comply with at least one of the following conditions—
+
+- (a) the sulphur content of any fuel oil used on board the ship must not exceed [^key-3e45fcaa0ca6e9bebe8092b267b7ddbc]... 0.10 per cent by mass [^key-3e45fcaa0ca6e9bebe8092b267b7ddbc]...,
+- (b)[^key-93539536b44dc61fcafadb2ee518ba2d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c) an emission abatement method[^key-ff58b8b17a5c2b9767757a7ba88440f6] must be applied to ensure that the total emission of sulphur oxide from the ship, including both auxiliary and main propulsion engines, do not exceed the relevant amounts specified in paragraph 4 of Schedule 3 to Merchant Shipping Notice 1819(M+F),
+- (d) any other technological method to limit sulphur oxide emissions must be used that has been—
+  - (i) approved for the purposes of these Regulations by the Secretary of State in accordance with the provisions of a Merchant Shipping Notice, or
+  - (ii) authorised for the purposes of Annex VI by a contracting government other than the United Kingdom.
+
+(3)[^key-c017a029ec188a04fb77aaabc13047c3] A ship to which this paragraph applies must not use or carry for use fuel oil which has a sulphur content exceeding 0.50 per cent by mass without applying an emission abatement method.
+
+(3A)[^key-9686b8083c7edfd3cd5f6dda0c8009df] Any emission abatement method applied to the use of fuel oil which has a sulphur content exceeding 3.5 per cent by mass must—
+
+- (a) comply with Article 8 of the 2016 Directive; and
+- (b) be operated in closed mode.
+
+(4) The master of any ship using separate fuel oils to comply with sub paragraph 2(a) must—
+
+- (a) allow sufficient time for the fuel oil service system to be fully flushed of all fuels containing sulphur exceeding 0.10 per cent by mass prior to entry into an emission control zone[^key-0690b453bf1197556a3bb9f24b0e37fc], and
+- (b) record in accordance with paragraph 5 the details of any fuel changeover operation.
+
+(5) The master must ensure that waste streams from the use of an approved exhaust gas cleaning system [^key-35613a6cfc23f5cf46911d714ef61f18]... are not discharged into a port, harbour or estuary unless it is thoroughly documented that those waste streams will have no adverse impact on the ecosystems of the port, harbour or estuary.
+
+### 3. Maximum sulphur content of marine fuel used by passenger ships[^key-d4e5690721dfd9521904165dcb778000]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 4. Maximum content of fuel oil used by ships at berth ...[^key-a97a1876577e203b400e7154305dd885][^key-910d79e07f3e196474031b10871e5792]
+
+(1) This paragraph applies to—
+
+- (a)[^key-5d7c3f9fb04cd5258acd9feb7eee20a2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) a ship at berth.
+
+(2) This paragraph does not apply to—
+
+- (a) a ship at berth for that period of time which is sufficient to allow the crew to complete any necessary fuel changeover operations—
+  - (i) as soon as possible after arrival at berth, and
+  - (ii) as late as possible before departure,
+- (b) a ship which, according to published timetables, is due to be at berth for less than two hours,
+- (c) a ship which switches off all engines and uses shore-side electricity while at berth or[^key-474aa428b5361383757fed6b937c50c9],
+- (d)[^key-c464fc14be64153a8b112e8ab0636546] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e)[^key-640012b528c90f3b72833ea1401905ec] a ship using an emission abatement method that has been—
+  - (i) permitted in accordance with paragraph 6 or 7, or
+  - (ii) authorised for the purposes of paragraphs 2 and 4 of Article 8, and Article 9, of the 2016 Directive[^key-df7035351c43a6099024fb0eeeba5376] by an EEA State [^key-9ec210ea63ed5e2b27d037d68540707a]....
+
+(3) A ship [^key-26d76df3301b5981e3c1d501dbce7c05]... to which this paragraph applies must not use fuel oil[^key-af18092dd037c814008d2cfe6c50d173] which has a sulphur content exceeding 0.10 per cent by mass.
+
+(4) The master of a ship [^key-2d01e2f2e203945cb1982081fb0227a9]... to which this paragraph applies must record in accordance with paragraph 5 the details of any fuel changeover operation.
+
+(5) In this paragraph—
+
+- [^key-c044709bb14255c677ff3f7d1a0ae77c]...
+- “**ship at berth**” means a ship which is securely moored or anchored in a United Kingdom port while it is loading, unloading or hotelling, including the time spent when not engaged in cargo operations.
+
+### 5. Records in ship’s logbook
+
+(1)[^key-71af987eea213f2d1b93162eef8b809e] A record made pursuant to paragraph 2(4)(b) [^key-e530141ecb2013d9c2f66743bf97ff69]... of a fuel changeover operation consisting of a change from fuel oil having a sulphur content exceeding [^key-73ebb0cad88066822cfbbabbdb4ca0cf]... 0.10 per cent by mass, to fuel oil having a sulphur content not exceeding [^key-73ebb0cad88066822cfbbabbdb4ca0cf]... 0.10 per cent by mass, must state—
+
+- (a) the time, date and position of the ship when the operation is completed, and
+- (b) the amount, in each tank at that time, of fuel oil having a sulphur content not exceeding [^key-73ebb0cad88066822cfbbabbdb4ca0cf]... 0.10 per cent by mass.
+
+(2) A record made pursuant to paragraph 2(4)(b) [^key-114f777bb8e00fd35e90e3aaf66262cd]... of a fuel changeover operation consisting of a change from fuel oil having a sulphur content not exceeding [^key-0356f8c0d26cb9349d16141d132faae0]... 0.10 per cent by mass, to fuel oil having a sulphur content exceeding [^key-0356f8c0d26cb9349d16141d132faae0]... 0.10 per cent by mass, must state—
+
+- (a) the time, date and position of the ship when the operation commenced, and
+- (b) the amount, in each tank at that time, of fuel oil having a sulphur content not exceeding [^key-0356f8c0d26cb9349d16141d132faae0]... 0.10 per cent by mass.
+
+(3) A record made pursuant to paragraph 4(4) of a fuel changeover operation consisting of a change from fuel oil having a sulphur content exceeding [^key-a48ae82509407b095810ff2fbe84fc40]... 0.10 per cent by mass, to a fuel oil having a sulphur content not exceeding [^key-a48ae82509407b095810ff2fbe84fc40]... 0.10 per cent by mass, must state—
+
+- (a) the time and date when the operation commenced and is completed, and
+- (b) the amount in each tank at that time, of fuel oil having a sulphur content not exceeding [^key-a48ae82509407b095810ff2fbe84fc40]... 0.10 per cent by mass.
+
+(4) A record made pursuant to paragraph 4(4) of a fuel changeover operation consisting of a change from fuel oil having a sulphur content not exceeding [^key-b9c0e07d9600963c13a7aa86ba267496]... 0.10 per cent by mass, to fuel oil having a sulphur content exceeding [^key-b9c0e07d9600963c13a7aa86ba267496]... 0.10 per cent by mass, must state—
+
+- (a) the time and date when the operation commenced and is completed, and
+- (b) the amount, in each tank at that time, of fuel oil having a sulphur content not exceeding [^key-b9c0e07d9600963c13a7aa86ba267496]... 0.10 per cent by mass.
+
+(5) The master of a ship making a record referred to in sub-paragraph (1), (2), (3) or (4) must make it—
+
+- (a) in the case of a United Kingdom ship, in a log book in the format prescribed in Appendix 6 to Merchant Shipping Notice 1819 (M+F),
+- (b) in the case of any other ship, in a ship’s log book.
+
+(6)[^key-5cef79f55449372aa38231991f4e077a] For the purposes of sub-paragraphs (5)(a) and (b), a log book includes an electronic record book.
+
+### 6. Trials of emission abatement technologies
+
+(1) The Secretary of State may on application in writing by the owner of a ship grant permission for the ship to use emission abatement technologies for trial purposes—
+
+- (a) if the ship is a United Kingdom ship, or
+- (b) while the ship is operating within—
+  - (i) United Kingdom waters, or
+  - (ii) controlled waters.
+
+(2) A permission under sub-paragraph (1) is valid only if it—
+
+- (a) is in writing, and
+- (b) contains a limit on the period of the trial, such period not to exceed 18 months.
+
+(3) Subject to sub-paragraph (6), a permission under sub-paragraph (1) may—
+
+- (a) include such conditions as the Secretary of State believes appropriate to the trial in question, and
+- (b) be varied or revoked at any time by the Secretary of State giving written notice to the owner.
+
+(4)[^key-66d23c6750a16c18dfc94ee4b4c719cb] The Secretary of State must, at least six months before an intended trial begins, give notice of that trial in writing to any port State concerned.
+
+(5) For the purposes of sub-paragraph (4)[^key-e0785aba2d4ff7dfa99e3cc0ae4db07c]..., a port State concerned is a State to or from which a ship intends to operate during the intended trial.
+
+(6) Any permission granted under sub-paragraph (1) is subject to the following conditions—
+
+- (a) tamper-proof equipment must be installed on the ship to monitor continuously funnel gas emissions and such equipment must be used throughout the trial,
+- (b) emission reductions must be achieved which are at least equivalent to those which would have been achieved by the use of any fuel oil which complied with paragraph 2(2)(a), 3(3) or 4(3) as applicable,
+- (c) proper waste management systems must be in place during the trial in respect of any waste generated by the emission abatement technologies,
+- (d) throughout the trial, the owner must carry out an assessment of the impacts on the marine environment, particularly the ecosystems in enclosed ports, harbours and estuaries, and
+- (e) within five months of completion of the trial, the owner must—
+  - (i) provide full results of the assessment referred to in paragraph (d) to the Secretary of State, and
+  - (ii) make those results publicly available.
+
+### 7. Permission to use emission abatement methods[^key-c65c3c5387c8a40bb523449610d8f555]
+
+(1) The Secretary of State may on application in writing by the owner of a ship grant permission for the ship to use emission abatement methods[^key-f055f5ff4f13f77860e83fd23ae7bc43] while paragraph 3 [^M_F_d0b35750-9b2b-4d84-f26f-f2ba2944aac7]... applies to it.
+
+(2) A permission under sub-paragraph (1) is valid only if it is in writing.
+
+(3) Subject to sub-paragraph (5)[^key-9d7ae81ef023a9389513907d7d509e56], a permission under sub-paragraph (1) may—
+
+- (a) include such conditions as the Secretary of State believes appropriate, and
+- (b) be varied or revoked at any time by the Secretary of State giving written notice to the owner.
+
+(4)[^key-574fb12756d3b8d7d6b3fc6254a8611a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5) Any permission granted under sub-paragraph (1) is subject to the following conditions—
+
+- (a) emission reductions must be continuously achieved which are at least equivalent to those which would have been achieved by the use of fuel oil which complied with paragraph 2(2)(a), 3(3) or 4(3) as applicable,
+- (b) the ship must be fitted with continuous emission monitoring equipment, and
+- (c) there must be a record that thoroughly documents that any waste streams discharged into enclosed ports, harbours and estuaries have no impact on the ecosystems of those ports, harbours and estuaries based on any criteria communicated by the authorities of port States to the IMO.
+
+### 8. Restriction on the marketing of marine diesel oil[^key-3757060ba545bafcd50ab1d01e425a9f]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 9. Restriction on the marketing of marine gas oil[^key-50dc47ef36c4c0aa57ecebe21320acbb]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 10. Analysis
+
+(1) Analysis of fuel oil[^key-fcd24bae13bc7bb3d332d094e49480d0] to determine its sulphur content must be in accordance with the provisions of sub-paragraphs (2) to (3)[^key-739b6082be0eccb9db63187957e9497d].
+
+(2)[^key-fefe4f54924c43d6bee51ba63f446938] The reference method adopted for determining the sulphur content must be ISO method 8754 (2003) or BS EN 14596.
+
+(3) In order to determine whether fuel oil[^key-3237f3d3d11cf9b7b385813a8a5d1d20] delivered to and used on board ships is compliant with the sulphur limits required by Articles 4, 5, 6 and 7 of the 2016 Directive[^key-0a2c93ba8a0972c509f6a5b482276269] the fuel verification procedure set out in Appendix VI to Annex VI must be used.
+
+## SCHEDULE 3 — Information to be included in a bunker delivery note[^key-2a31a28255e9635070ee1b7983e3581c]
+
+**No longer in force.**
+
+Regulation 25(7)(b)
+
+**1.**[^key-2a31a28255e9635070ee1b7983e3581c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**2.**[^key-2a31a28255e9635070ee1b7983e3581c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**3.**[^key-2a31a28255e9635070ee1b7983e3581c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**4.**[^key-2a31a28255e9635070ee1b7983e3581c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**5.**[^key-2a31a28255e9635070ee1b7983e3581c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**6.**[^key-2a31a28255e9635070ee1b7983e3581c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**7.**[^key-2a31a28255e9635070ee1b7983e3581c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**8.**[^key-2a31a28255e9635070ee1b7983e3581c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**9.**[^key-2a31a28255e9635070ee1b7983e3581c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 4 — Collection and reporting of fuel consumption data and operational carbon intensity[^key-56420ab1289fb6dbf1cfb66114f2eaff][^key-49388a476ad7b1055a622a92abbbbeeb]
+
+Regulation 25B[^key-7d55e1bb3a5b6cc7696b2d727e67554b]
+
+### 1. Interpretation[^key-b74ffb79a09e6eea16cafe4db164ee47]
+
+Expressions used in this Schedule have the same meanings as in Annex VI and “**CII regulated ship**” means any of the following types of ship—
+
+- (a) a bulk carrier;
+- (b) a combination carrier;
+- (c) a containership;
+- (d) a cruise passenger ship;
+- (e) a gas carrier;
+- (f) a general cargo ship;
+- (g) a LNG carrier;
+- (h) a refrigerated cargo carrier;
+- (i) a ro-ro cargo ship;
+- (j) a ro-ro cargo ship (vehicle carrier)
+- (k) a ro-ro passenger ship;
+- (l) a tanker;
+
+but not a category A ship as defined in the Polar Code.
+
+### 2. Application[^key-301251e02f93846c12f9d8e3242f0e47]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 3. Ship Energy Efficiency Management Plan
+
+A ship’s SEEMP must include a description of the methodology that will be used to collect the data required by Regulation 27.1[^key-046e33d7ec736d33e0cb740d45a06451] of Annex VI which will be used to report the data to a Certifying Authority.
+
+**3A.**[^key-764b39cfb1ae2f74da608d0137963707] Where a ship is a CII regulated ship the ship’s SEEMP must also include—
+
+- (a) a description of the methodology that will be used to calculate the ship’s attained annual operational CII in accordance with Regulation 28 of Annex VI and the process that will be used to report this value to the Certifying Authority,
+- (b) the required annual operational CII, as determined in accordance with Regulation 28 of Annex VI, for the next 3 years,
+- (c) an implementation plan documenting how the required annual operational CII will be achieved during each of the next 3 years, and
+- (d) a procedure for self-evaluation and improvement.
+
+### 4.
+
+The methodology referred to in paragraph 3 and 3A[^key-7f7f4a37d69b794d06e52c745bd72297] must be approved by a Certifying Authority before the submission of the data.
+
+### 5. Collection and reporting of ship fuel oil consumption data
+
+The owner of a ship must collect the data, specified in Appendix IX of Annex VI, for each year or part of a year, as appropriate, according to the methodology included in the SEEMP. The owner must submit the data to a Certifying Authority for verification in accordance with the ship’s SEEMP.
+
+### 6. Verification of Data
+
+Upon receipt of the data collected pursuant to paragraph 5 the Certifying Authority must determine whether the data has been reported in accordance with Regulation 27[^key-f6b95aba8f9601f08befb9390a30e137] of Annex VI.
+
+### 6A. Operational carbon intensity indicator[^key-411264a5a560fc9a076dde9ef506e3f3]
+
+The owner of a CII regulated ship must use the data collected in accordance with paragraph 5, to calculate the attained annual operational CII of the ship for the preceding calendar year, taking into account the relevant IMO Guidelines.
+
+### 6B.
+
+The owner of a CII regulated ship must report its attained annual operational CII to a Certifying Authority by 31st March of the year following the year to which the data relate.
+
+### 6C.
+
+Upon receipt of the attained annual operational CII, the Certifying Authority must, taking into account the relevant IMO Guidelines—
+
+- (a) verify that the attained annual operational CII reported is based on the data submitted in accordance with Regulation 27 of Annex VI, and
+- (b) based on the verified attained annual operational CII, determine the operational carbon intensity rating of the ship in accordance with Regulation 28.6 of Annex VI.
+
+### 6D.
+
+Where a CII regulated ship has been rated by a Certifying Authority as “D” for three consecutive years, or as “E” for any year, the Certifying Authority shall inform the owner of the ship and the owner of the ship must—
+
+- (a) review the SEEMP and include in it a plan of corrective actions to achieve the required annual operational CII, which must be developed taking into account the relevant IMO Guidelines, and
+- (b) submit the revised SEEMP to the Certifying Authority which determined that ship’s operational carbon intensity rating within one month, or no later than the 30th April immediately after the date on which the ship’s attained annual operational CII was reported under paragraph 6B.
+
+### 7. Statement of Compliance[^key-fcb503990fc17b7589d6f8448c604700]
+
+The Certifying Authority must issue a Statement of Compliance no later than five months after the beginning of the year in which the data were reported if—
+
+- (a) it is satisfied that the fuel oil consumption data have been reported in accordance with Regulation 27 of Annex VI.
+- (b) in cases where paragraph 6D applies, it is satisfied that the revised SEEMP meets the requirements of paragraph 6D(a).
+
+### 8.
+
+The Statement of Compliance must be drawn up in accordance with the form in Appendix X to Annex VI.
+
+### 9.
+
+The Statement of Compliance is valid for the year in which it is issued and for the first five months of the following year.
+
+### 10. Statement of Compliance to be kept on Board Ship[^key-b193d213a3ee940864b6c01a1321b952]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 11. Reporting of Data
+
+The owner of a ship must report the data that has been verified in accordance with paragraph 6 to the MCA.
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations implement Annex VI (Regulations for the Prevention of Air Pollution from Ships) of the International Convention for the Prevention of Pollution from Ships, 1973, as modified by the Protocol of 1978 relating thereto (“the MARPOL Convention”). Annex VI came into force internationally on 19th May 2005.
+
+Detailed technical requirements are imposed by reference to Merchant Shipping Notices 1776 (M), 1734 (M+F), 1735 (M+F), 1613 and 1819 (M+F).
+
+*Part 2* of the Regulations provides for the survey and certification of ships;
+
+The main provisions of *Part 3—*
+
+control emissions of ozone-depleting substances, nitrogen oxide and sulphur oxide (*regulations 20 to 22*);
+
+where appropriate, regulate harbours or terminals operating vapour emission control systems for volatile compounds (*regulation 23)*;
+
+control shipboard incineration (r*egulation 24*);
+
+impose requirements in respect of fuel oil quality (*regulation 25*).
+
+Part 4 of the Regulations makes provision in relation to powers of inspection and detention of ships. Provision is also made for jurisdiction over offences committed outside United Kingdom waters (*regulation 35*) and for suspension of proceedings at flag state request *(regulation 36)*.
+
+A regulatory impact assessment has been prepared and copies may be obtained from the Maritime and Coastguard Agency (“MCA”), Spring Place, 105 Commercial Road, Southampton SO15 1EG and is annexed to the Explanatory Memorandum which is available alongside the instrument on the OPSI website www.opsi.gov.uk. A copy has been placed in the library of each House of Parliament.
+
+Merchant Shipping Notices and Marine Guidance Notes are published by the MCA. Copies may be obtained from Mail Marketing (Scotland), MCA, P O Box 87, Glasgow G14 0JF (telephone number 0141 300 4906; fax 0141 950 2726; e-mail orders mca@promo-solution.com). They may also be accessed via the MCA’s website http:/www.mcga.gov.uk, which also has details of any amendments or replacements.
+
+The STCW Convention, the MARPOL Convention, its Protocols and amendments and resolutions of the Marine Environment Protection Committee and the Tonnage Convention can be obtained from the International Maritime Organization, 4 Albert Embankment, London SE1 7SR.
+
+Copies of the British Standards publications referred to in these Regulations may be obtained from any outlet operated by the British Standards Institution or by post from the British Standards Institution at Standards House, 389 Chiswick High Road, London W4 4AL.
+
+The Montreal Protocol on Substances that Deplete the Ozone Layer is available from the United Nations Environment Programme P O Box 30552, Nairobi, Kenya (www.unep.org/ozone).
+
+## Annotations
+
+[^f00001]: Footnote: [S.I. 2006/1248](https://www.legislation.gov.uk/uksi/2006/1248).
+
+[^f00002]: Footnote: [S.I. 1996/282](https://www.legislation.gov.uk/uksi/1996/282).
+
+[^f00003]: Footnote: [1995 c.21](https://www.legislation.gov.uk/ukpga/1995/21): section 128 was amended by section 2 of the Merchant Shipping (Pollution) Act [2006 (c.8)](https://www.legislation.gov.uk/ukpga/2006/8) and there are other amendments to section 128 which are not relevant to these Regulations. In relation to section 128(6), these Regulations are “Regulations made by virtue of paragraph (f) of subsection 4” of section 128, since they are made under [S.I. 2006/1248](https://www.legislation.gov.uk/uksi/2006/1248), which pursuant to section 128(4)(f) authorises the making of regulations.
+
+[^key-43aa0ea9605b58af790791c5d831574d]: Modification: Regulations extended (with modifications) (16.10.2025) by [S.I. 1989/1350](https://www.legislation.gov.uk/uksi/1989/1350), [art. 3](https://www.legislation.gov.uk/uksi/1989/1350/article/3) (as amended by [The Hovercraft (Application of Enactments) (Amendment) Order 2025 (S.I. 2025/1094)](https://www.legislation.gov.uk/uksi/2025/1094), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/1094/article/1/2), [2(3)(e)(f)](https://www.legislation.gov.uk/uksi/2025/1094/article/2/3/e))
+
+[^f00004]: Footnote: [S.I. 1995/3128](https://www.legislation.gov.uk/uksi/1995/3128), amended by [S.I. 1998/1433](https://www.legislation.gov.uk/uksi/1998/1433), [1998/2198](https://www.legislation.gov.uk/uksi/1998/2198), [2001/2349](https://www.legislation.gov.uk/uksi/2001/2349) and [2003/1636](https://www.legislation.gov.uk/uksi/2003/1636).
+
+[^key-eb13184d4d2af3f9484bfff7332ed043]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2008/2924/regulation/2) omitted (12.3.2019) by virtue of [The Merchant Shipping and Other Transport (Environmental Protection) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/311)](https://www.legislation.gov.uk/uksi/2019/311), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/311/regulation/1/2), [3(2)(a)](https://www.legislation.gov.uk/uksi/2019/311/regulation/3/2/a)
+
+[^key-10a6c9230be9d8ad1c7057106be3fd37]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2008/2924/regulation/2) inserted (12.3.2019) by [The Merchant Shipping and Other Transport (Environmental Protection) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/311)](https://www.legislation.gov.uk/uksi/2019/311), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/311/regulation/1/2), [3(2)(b)](https://www.legislation.gov.uk/uksi/2019/311/regulation/3/2/b)
+
+[^key-b87f75b69631e5f5bb063e1c6affb463]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2008/2924/regulation/2/1) substituted (22.10.2021) by [The Merchant Shipping (Prevention of Air Pollution from Ships) (Amendment) Regulations 2021 (S.I. 2021/1108)](https://www.legislation.gov.uk/uksi/2021/1108), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2021/1108/regulation/1/b), [2(2)(a)](https://www.legislation.gov.uk/uksi/2021/1108/regulation/2/2/a)
+
+[^key-e53191ebdc5b5b5b63c4ef3cc79ebfaa]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2008/2924/regulation/2) substituted (24.4.2023) by [The Merchant Shipping (Prevention of Air Pollution from Ships) (Amendment) Regulations 2023 (S.I. 2023/384)](https://www.legislation.gov.uk/uksi/2023/384), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/384/regulation/1/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2023/384/regulation/2/2/a)
+
+[^key-97077c0c532f711638cc6eec956de5ce]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2008/2924/regulation/2/1) inserted (22.10.2021) by [The Merchant Shipping (Prevention of Air Pollution from Ships) (Amendment) Regulations 2021 (S.I. 2021/1108)](https://www.legislation.gov.uk/uksi/2021/1108), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2021/1108/regulation/1/b), [2(2)(b)](https://www.legislation.gov.uk/uksi/2021/1108/regulation/2/2/b)
+
+[^key-a74e0bff0b196a7cedc8f09869bf04af]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2008/2924/regulation/2) substituted (31.12.2020) by [The Merchant Shipping and Other Transport (Environmental Protection) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/311)](https://www.legislation.gov.uk/uksi/2019/311), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/311/regulation/1/3), [6(2)](https://www.legislation.gov.uk/uksi/2019/311/regulation/6/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^f00006]: Footnote: Cmnd 5748
+
+[^f00007]: Footnote: Cmnd 7347.
+
+[^f00008]: Footnote: Cmnd 4427.
+
+[^key-470439d53b4947ccf3968450335ee720]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2008/2924/regulation/2/1) omitted (22.10.2021) by virtue of [The Merchant Shipping (Prevention of Air Pollution from Ships) (Amendment) Regulations 2021 (S.I. 2021/1108)](https://www.legislation.gov.uk/uksi/2021/1108), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2021/1108/regulation/1/b), [2(2)(c)](https://www.legislation.gov.uk/uksi/2021/1108/regulation/2/2/c)
+
+[^key-10fffd8b9d2f2ca7c72dbb147bb0d995]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2008/2924/regulation/2/1) substituted (28.1.2015) by [The Merchant Shipping (Prevention of Pollution) (Limits) Regulations 2014 (S.I. 2014/3306)](https://www.legislation.gov.uk/uksi/2014/3306), [reg. 1](https://www.legislation.gov.uk/uksi/2014/3306/regulation/1), [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2014/3306/schedule/2/paragraph/6)
+
+[^key-06b76e3b7071628b527b13a1348a5d17]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2008/2924/regulation/2/1) inserted (22.10.2021) by [The Merchant Shipping (Prevention of Air Pollution from Ships) (Amendment) Regulations 2021 (S.I. 2021/1108)](https://www.legislation.gov.uk/uksi/2021/1108), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2021/1108/regulation/1/b), [2(2)(d)](https://www.legislation.gov.uk/uksi/2021/1108/regulation/2/2/d)
+
+[^key-019ccd256a5cfac1fe54865199d9f15f]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2008/2924/regulation/2/1) inserted (22.10.2021) by [The Merchant Shipping (Prevention of Air Pollution from Ships) (Amendment) Regulations 2021 (S.I. 2021/1108)](https://www.legislation.gov.uk/uksi/2021/1108), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2021/1108/regulation/1/b), [2(2)(e)](https://www.legislation.gov.uk/uksi/2021/1108/regulation/2/2/e)
+
+[^key-f43d2cb69d79406e895e61ee6cc7e2dc]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2008/2924/regulation/2/1) substituted (22.10.2021) by [The Merchant Shipping (Prevention of Air Pollution from Ships) (Amendment) Regulations 2021 (S.I. 2021/1108)](https://www.legislation.gov.uk/uksi/2021/1108), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2021/1108/regulation/1/b), [2(2)(f)](https://www.legislation.gov.uk/uksi/2021/1108/regulation/2/2/f)
+
+[^key-a0841a3ba025cf13b21f4aa55a55c70b]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2008/2924/regulation/2) inserted (30.6.2019) by [The Merchant Shipping (Prevention of Air Pollution from Ships) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/940)](https://www.legislation.gov.uk/uksi/2019/940), [regs. 1](https://www.legislation.gov.uk/uksi/2019/940/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2019/940/regulation/2/2/a)
+
+[^key-ea066f19503bca8e23c3e40817a76011]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2008/2924/regulation/2) inserted (24.4.2023) by [The Merchant Shipping (Prevention of Air Pollution from Ships) (Amendment) Regulations 2023 (S.I. 2023/384)](https://www.legislation.gov.uk/uksi/2023/384), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/384/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2023/384/regulation/2/2/b)
+
+[^key-f2963b7f4c08487c19c4f77ef997c1e3]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2008/2924/regulation/2) inserted (24.4.2023) by [The Merchant Shipping (Prevention of Air Pollution from Ships) (Amendment) Regulations 2023 (S.I. 2023/384)](https://www.legislation.gov.uk/uksi/2023/384), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/384/regulation/1/1), [2(2)(c)](https://www.legislation.gov.uk/uksi/2023/384/regulation/2/2/c)
+
+[^key-981a6af9adfb0588cc77fcf0d0c470d6]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2008/2924/regulation/2/1) inserted (22.10.2021) by [The Merchant Shipping (Prevention of Air Pollution from Ships) (Amendment) Regulations 2021 (S.I. 2021/1108)](https://www.legislation.gov.uk/uksi/2021/1108), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2021/1108/regulation/1/b), [2(2)(g)](https://www.legislation.gov.uk/uksi/2021/1108/regulation/2/2/g)
+
+[^key-ac5155cdd5bfed2ebe3baba1046b557b]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2008/2924/regulation/2/1) substituted (22.10.2021) by [The Merchant Shipping (Prevention of Air Pollution from Ships) (Amendment) Regulations 2021 (S.I. 2021/1108)](https://www.legislation.gov.uk/uksi/2021/1108), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2021/1108/regulation/1/b), [2(2)(h)](https://www.legislation.gov.uk/uksi/2021/1108/regulation/2/2/h)
+
+[^f00010]: Footnote: IMO publication, IMO – 664E; ISBN 92-801-6089-3.
+
+[^f00011]: Footnote: Publication of the United Nations Environment Programme; ISBN: 92-807-1888-6.
+
+[^key-23affdf710f67dee282c7fc8b68f937f]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2008/2924/regulation/2) inserted (24.4.2023) by [The Merchant Shipping (Prevention of Air Pollution from Ships) (Amendment) Regulations 2023 (S.I. 2023/384)](https://www.legislation.gov.uk/uksi/2023/384), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/384/regulation/1/1), [2(2)(d)](https://www.legislation.gov.uk/uksi/2023/384/regulation/2/2/d)
+
+[^key-3e00a2c02211aecb2782c3e631867044]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2008/2924/regulation/2) inserted (24.4.2023) by [The Merchant Shipping (Prevention of Air Pollution from Ships) (Amendment) Regulations 2023 (S.I. 2023/384)](https://www.legislation.gov.uk/uksi/2023/384), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/384/regulation/1/1), [2(2)(e)](https://www.legislation.gov.uk/uksi/2023/384/regulation/2/2/e)
+
+[^key-c8104d02d0a066ab894d8f86a3512994]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2008/2924/regulation/2/1) inserted (22.10.2021) by [The Merchant Shipping (Prevention of Air Pollution from Ships) (Amendment) Regulations 2021 (S.I. 2021/1108)](https://www.legislation.gov.uk/uksi/2021/1108), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2021/1108/regulation/1/b), [2(2)(i)](https://www.legislation.gov.uk/uksi/2021/1108/regulation/2/2/i)
+
+[^key-6449a3c08e415f8cece4e2776003057d]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2008/2924/regulation/2) inserted (24.4.2023) by [The Merchant Shipping (Prevention of Air Pollution from Ships) (Amendment) Regulations 2023 (S.I. 2023/384)](https://www.legislation.gov.uk/uksi/2023/384), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/384/regulation/1/1), [2(2)(f)(i)](https://www.legislation.gov.uk/uksi/2023/384/regulation/2/2/f/i)
+
+[^key-e4632c27f7df17e142dffc34932d6079]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2008/2924/regulation/2) inserted (24.4.2023) by [The Merchant Shipping (Prevention of Air Pollution from Ships) (Amendment) Regulations 2023 (S.I. 2023/384)](https://www.legislation.gov.uk/uksi/2023/384), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/384/regulation/1/1), [2(2)(f)(ii)](https://www.legislation.gov.uk/uksi/2023/384/regulation/2/2/f/ii)
+
+[^key-e1b92e33d97771d6d58cfc400ebded89]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2008/2924/regulation/2) inserted (24.4.2023) by [The Merchant Shipping (Prevention of Air Pollution from Ships) (Amendment) Regulations 2023 (S.I. 2023/384)](https://www.legislation.gov.uk/uksi/2023/384), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/384/regulation/1/1), [2(2)(g)](https://www.legislation.gov.uk/uksi/2023/384/regulation/2/2/g)
+
+[^key-5e8e750b869044a9ed2d14b7f2827360]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2008/2924/regulation/2) inserted (30.6.2019) by [The Merchant Shipping (Prevention of Air Pollution from Ships) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/940)](https://www.legislation.gov.uk/uksi/2019/940), [regs. 1](https://www.legislation.gov.uk/uksi/2019/940/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2019/940/regulation/2/2/b)
+
+[^key-48f48595a5ed80d58b12b3780fbf0914]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2008/2924/regulation/2/1) substituted (20.4.2010) by [The Merchant Shipping (Prevention of Air Pollution from Ships) (Amendment) Regulations 2010 (S.I. 2010/895)](https://www.legislation.gov.uk/uksi/2010/895), [reg. 1](https://www.legislation.gov.uk/uksi/2010/895/regulation/1), [Sch. 2 para. 2(c)](https://www.legislation.gov.uk/uksi/2010/895/schedule/2/paragraph/2/c)
+
+[^key-e0e0dab81502391bc358c7556f4de6f4]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2008/2924/regulation/2) substituted (24.4.2023) by [The Merchant Shipping (Prevention of Air Pollution from Ships) (Amendment) Regulations 2023 (S.I. 2023/384)](https://www.legislation.gov.uk/uksi/2023/384), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/384/regulation/1/1), [2(2)(h)](https://www.legislation.gov.uk/uksi/2023/384/regulation/2/2/h)
+
+[^f00012]: Footnote: Cmnd 9266.
+
+[^f00013]: Footnote: Cmnd 3772.
+
+[^key-1955484586536465be2a223bd94eb6d2]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2008/2924/regulation/2/1) omitted (22.10.2021) by virtue of [The Merchant Shipping (Prevention of Air Pollution from Ships) (Amendment) Regulations 2021 (S.I. 2021/1108)](https://www.legislation.gov.uk/uksi/2021/1108), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2021/1108/regulation/1/b), [2(2)(j)](https://www.legislation.gov.uk/uksi/2021/1108/regulation/2/2/j)
+
+[^key-f27ac8bf249ba546eebd70b0147e3ff6]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2008/2924/regulation/2/1) inserted (22.10.2021) by [The Merchant Shipping (Prevention of Air Pollution from Ships) (Amendment) Regulations 2021 (S.I. 2021/1108)](https://www.legislation.gov.uk/uksi/2021/1108), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2021/1108/regulation/1/b), [2(2)(k)](https://www.legislation.gov.uk/uksi/2021/1108/regulation/2/2/k)
+
+[^key-36a4cb7cc2ba0dc049da2faa75106fdf]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2008/2924/regulation/2/1) added (20.4.2010) by [The Merchant Shipping (Prevention of Air Pollution from Ships) (Amendment) Regulations 2010 (S.I. 2010/895)](https://www.legislation.gov.uk/uksi/2010/895), [reg. 1](https://www.legislation.gov.uk/uksi/2010/895/regulation/1), [Sch. 2 para. 2(e)](https://www.legislation.gov.uk/uksi/2010/895/schedule/2/paragraph/2/e)
+
+[^key-450991c454bd0ce5b356e8e393944932]: Textual amendment: [Reg. 2A](https://www.legislation.gov.uk/uksi/2008/2924/regulation/2A) substituted (24.4.2023) by [The Merchant Shipping (Prevention of Air Pollution from Ships) (Amendment) Regulations 2023 (S.I. 2023/384)](https://www.legislation.gov.uk/uksi/2023/384), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/384/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2023/384/regulation/2/3)
+
+[^key-fbc3898c982f5ec18a74c5ca38ae4533]: Textual amendment: [Reg. 3(1)](https://www.legislation.gov.uk/uksi/2008/2924/regulation/3/1) substituted (20.4.2010) by [The Merchant Shipping (Prevention of Air Pollution from Ships) (Amendment) Regulations 2010 (S.I. 2010/895)](https://www.legislation.gov.uk/uksi/2010/895), [reg. 1](https://www.legislation.gov.uk/uksi/2010/895/regulation/1), [Sch. 2 para. 3(a)](https://www.legislation.gov.uk/uksi/2010/895/schedule/2/paragraph/3/a)
+
+[^key-58029ef572e989a759abe48c10f7cbe9]: Textual amendment: [Reg. 3(2A)](https://www.legislation.gov.uk/uksi/2008/2924/regulation/3/2A)[(2B)](https://www.legislation.gov.uk/uksi/2008/2924/regulation/3/2B) substituted for [reg. 3(2A)](https://www.legislation.gov.uk/uksi/2008/2924/regulation/3/2A) (24.4.2023) by [The Merchant Shipping (Prevention of Air Pollution from Ships) (Amendment) Regulations 2023 (S.I. 2023/384)](https://www.legislation.gov.uk/uksi/2023/384), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/384/regulation/1/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/2023/384/regulation/2/4/a)
+
+[^key-4a41613dde1f2036bf1bd4ee91973869]: Textual amendment: [Reg. 3(3A)](https://www.legislation.gov.uk/uksi/2008/2924/regulation/3/3A) inserted (24.4.2023) by [The Merchant Shipping (Prevention of Air Pollution from Ships) (Amendment) Regulations 2023 (S.I. 2023/384)](https://www.legislation.gov.uk/uksi/2023/384), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/384/regulation/1/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/2023/384/regulation/2/4/b)
+
+[^key-fa892521c56d4cc1d85aa0523011ed71]: Textual amendment: [Reg. 3(4A)](https://www.legislation.gov.uk/uksi/2008/2924/regulation/3/4A)[(4B)](https://www.legislation.gov.uk/uksi/2008/2924/regulation/3/4B) inserted (24.4.2023) by [The Merchant Shipping (Prevention of Air Pollution from Ships) (Amendment) Regulations 2023 (S.I. 2023/384)](https://www.legislation.gov.uk/uksi/2023/384), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/384/regulation/1/1), [2(4)(c)](https://www.legislation.gov.uk/uksi/2023/384/regulation/2/4/c)
+
+[^key-f9c7ef643c4b090c6667cda1916867c7]: Textual amendment: [Reg. 3(6)](https://www.legislation.gov.uk/uksi/2008/2924/regulation/3/6) substituted (20.4.2010) by [The Merchant Shipping (Prevention of Air Pollution from Ships) (Amendment) Regulations 2010 (S.I. 2010/895)](https://www.legislation.gov.uk/uksi/2010/895), [reg. 1](https://www.legislation.gov.uk/uksi/2010/895/regulation/1), [Sch. 2 para. 3(b)](https://www.legislation.gov.uk/uksi/2010/895/schedule/2/paragraph/3/b)
+
+[^key-2b2b3fd0920fae75cc63a665b898ef48]: Textual amendment: [Reg. 3(8A)](https://www.legislation.gov.uk/uksi/2008/2924/regulation/3/8A)[(8B)](https://www.legislation.gov.uk/uksi/2008/2924/regulation/3/8B) inserted (24.4.2023) by [The Merchant Shipping (Prevention of Air Pollution from Ships) (Amendment) Regulations 2023 (S.I. 2023/384)](https://www.legislation.gov.uk/uksi/2023/384), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/384/regulation/1/1), [2(4)(d)](https://www.legislation.gov.uk/uksi/2023/384/regulation/2/4/d)
+
+[^key-78894baec2031ac4dfd12d5f10b7d6d9]: Textual amendment: [Reg. 3(9)](https://www.legislation.gov.uk/uksi/2008/2924/regulation/3/9) substituted (22.10.2021) by [The Merchant Shipping (Prevention of Air Pollution from Ships) (Amendment) Regulations 2021 (S.I. 2021/1108)](https://www.legislation.gov.uk/uksi/2021/1108), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2021/1108/regulation/1/b), [2(4)(a)](https://www.legislation.gov.uk/uksi/2021/1108/regulation/2/4/a)
+
+[^key-fe424e1df4fda481590930fedfff54c4]: Textual amendment: [Reg. 3(9A)](https://www.legislation.gov.uk/uksi/2008/2924/regulation/3/9A)[(9B)](https://www.legislation.gov.uk/uksi/2008/2924/regulation/3/9B) substituted for [reg. 3(9A)](https://www.legislation.gov.uk/uksi/2008/2924/regulation/3/9A) (22.10.2021) by [The Merchant Shipping (Prevention of Air Pollution from Ships) (Amendment) Regulations 2021 (S.I. 2021/1108)](https://www.legislation.gov.uk/uksi/2021/1108), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2021/1108/regulation/1/b), [2(4)(b)](https://www.legislation.gov.uk/uksi/2021/1108/regulation/2/4/b)
+
+[^key-12329e321e7770399199c6a023b0ae94]: Textual amendment: [Reg. 3(9AA)-(9AD)](https://www.legislation.gov.uk/uksi/2008/2924/regulation/3/9AA) inserted (24.4.2023) by [The Merchant Shipping (Prevention of Air Pollution from Ships) (Amendment) Regulations 2023 (S.I. 2023/384)](https://www.legislation.gov.uk/uksi/2023/384), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/384/regulation/1/1), [2(4)(e)](https://www.legislation.gov.uk/uksi/2023/384/regulation/2/4/e)
+
+[^key-48de33da6a2f5602cb3130597e08a77a]: Textual amendment: [Reg. 3(9B)](https://www.legislation.gov.uk/uksi/2008/2924/regulation/3/9B) substituted (24.4.2023) by [The Merchant Shipping (Prevention of Air Pollution from Ships) (Amendment) Regulations 2023 (S.I. 2023/384)](https://www.legislation.gov.uk/uksi/2023/384), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/384/regulation/1/1), [2(4)(f)](https://www.legislation.gov.uk/uksi/2023/384/regulation/2/4/f)
+
+[^key-1ea325b3b0f9a83b9c4d31d4fc377121]: Textual amendment: [Reg. 3(10)](https://www.legislation.gov.uk/uksi/2008/2924/regulation/3/10)[(11)](https://www.legislation.gov.uk/uksi/2008/2924/regulation/3/11) omitted (20.4.2010) by virtue of [The Merchant Shipping (Prevention of Air Pollution from Ships) (Amendment) Regulations 2010 (S.I. 2010/895)](https://www.legislation.gov.uk/uksi/2010/895), [reg. 1](https://www.legislation.gov.uk/uksi/2010/895/regulation/1), [Sch. 2 para. 3(c)](https://www.legislation.gov.uk/uksi/2010/895/schedule/2/paragraph/3/c)
+
+[^key-bc9843f26c1e832539d17b2343aa812a]: Textual amendment: Reg. 3(12A) inserted (20.4.2010) by [The Merchant Shipping (Prevention of Air Pollution from Ships) (Amendment) Regulations 2010 (S.I. 2010/895)](https://www.legislation.gov.uk/uksi/2010/895), [reg. 1](https://www.legislation.gov.uk/uksi/2010/895/regulation/1), [Sch. 2 para. 3(d)](https://www.legislation.gov.uk/uksi/2010/895/schedule/2/paragraph/3/d)
+
+[^key-29ceed390ed7a4a4f4e80a94d1b028c6]: Textual amendment: Words in [reg. 11(1)](https://www.legislation.gov.uk/uksi/2008/2924/regulation/11/1) substituted (24.4.2023) by [The Merchant Shipping (Prevention of Air Pollution from Ships) (Amendment) Regulations 2023 (S.I. 2023/384)](https://www.legislation.gov.uk/uksi/2023/384), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/384/regulation/1/1), [2(5)](https://www.legislation.gov.uk/uksi/2023/384/regulation/2/5)
+
+[^key-14dbfb273c2f1508b550909c80eaa6e9]: Textual amendment: [Reg. 11ZA](https://www.legislation.gov.uk/uksi/2008/2924/regulation/11ZA) inserted (24.4.2023) by [The Merchant Shipping (Prevention of Air Pollution from Ships) (Amendment) Regulations 2023 (S.I. 2023/384)](https://www.legislation.gov.uk/uksi/2023/384), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/384/regulation/1/1), [2(6)](https://www.legislation.gov.uk/uksi/2023/384/regulation/2/6)
+
+[^key-f09fbbfcd1ac7fcce409a5d62b613a64]: Textual amendment: [Reg. 11A](https://www.legislation.gov.uk/uksi/2008/2924/regulation/11A) inserted (30.6.2019) by [The Merchant Shipping (Prevention of Air Pollution from Ships) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/940)](https://www.legislation.gov.uk/uksi/2019/940), [regs. 1](https://www.legislation.gov.uk/uksi/2019/940/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2019/940/regulation/2/4)
+
+[^key-1771511a3ed3df60631216950371196d]: Textual amendment: Words in [reg. 11A(1)](https://www.legislation.gov.uk/uksi/2008/2924/regulation/11A/1) substituted (24.4.2023) by [The Merchant Shipping (Prevention of Air Pollution from Ships) (Amendment) Regulations 2023 (S.I. 2023/384)](https://www.legislation.gov.uk/uksi/2023/384), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/384/regulation/1/1), [2(5)](https://www.legislation.gov.uk/uksi/2023/384/regulation/2/5)
+
+[^key-2ccf2dbd35fbf1d9a79ba3c9a708799d]: Textual amendment: [Reg. 11A(1A)-(1C)](https://www.legislation.gov.uk/uksi/2008/2924/regulation/11A/1A) inserted (24.4.2023) by [The Merchant Shipping (Prevention of Air Pollution from Ships) (Amendment) Regulations 2023 (S.I. 2023/384)](https://www.legislation.gov.uk/uksi/2023/384), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/384/regulation/1/1), [2(7)(a)](https://www.legislation.gov.uk/uksi/2023/384/regulation/2/7/a)
+
+[^key-5d44f9342deec3b0c1a2e2f06d9ae998]: Textual amendment: [Reg. 11A(4)(c)(i)(ia)](https://www.legislation.gov.uk/uksi/2008/2924/regulation/11A/4/c/i/ia) substituted for [reg. 11A(4)(c)(i)](https://www.legislation.gov.uk/uksi/2008/2924/regulation/11A/4/c/i) (24.4.2023) by [The Merchant Shipping (Prevention of Air Pollution from Ships) (Amendment) Regulations 2023 (S.I. 2023/384)](https://www.legislation.gov.uk/uksi/2023/384), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/384/regulation/1/1), [2(7)(b)](https://www.legislation.gov.uk/uksi/2023/384/regulation/2/7/b)
+
+[^key-d8b42809a0289ec2c0f23741be40f1b7]: Textual amendment: Words in [reg. 11A(5)](https://www.legislation.gov.uk/uksi/2008/2924/regulation/11A/5) substituted (22.10.2021) by [The Merchant Shipping (Prevention of Air Pollution from Ships) (Amendment) Regulations 2021 (S.I. 2021/1108)](https://www.legislation.gov.uk/uksi/2021/1108), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2021/1108/regulation/1/b), [2(5)](https://www.legislation.gov.uk/uksi/2021/1108/regulation/2/5)
+
+[^key-5ab6e779889e93c1ef96135ba7279efa]: Textual amendment: [Reg. 11A(6)](https://www.legislation.gov.uk/uksi/2008/2924/regulation/11A/6) substituted (24.4.2023) by [The Merchant Shipping (Prevention of Air Pollution from Ships) (Amendment) Regulations 2023 (S.I. 2023/384)](https://www.legislation.gov.uk/uksi/2023/384), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/384/regulation/1/1), [2(7)(c)](https://www.legislation.gov.uk/uksi/2023/384/regulation/2/7/c)
+
+[^key-17130c95cab7ae0097e1bd934426b409]: Textual amendment: [Reg. 12A](https://www.legislation.gov.uk/uksi/2008/2924/regulation/12A) inserted (30.6.2019) by [The Merchant Shipping (Prevention of Air Pollution from Ships) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/940)](https://www.legislation.gov.uk/uksi/2019/940), [regs. 1](https://www.legislation.gov.uk/uksi/2019/940/regulation/1), [2(5)](https://www.legislation.gov.uk/uksi/2019/940/regulation/2/5)
+
+[^key-52763633db6c5471116b86cec10bfcdb]: Textual amendment: Words in [reg. 13(1)(b)](https://www.legislation.gov.uk/uksi/2008/2924/regulation/13/1/b) substituted (24.4.2023) by [The Merchant Shipping (Prevention of Air Pollution from Ships) (Amendment) Regulations 2023 (S.I. 2023/384)](https://www.legislation.gov.uk/uksi/2023/384), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/384/regulation/1/1), [2(5)](https://www.legislation.gov.uk/uksi/2023/384/regulation/2/5)
+
+[^key-fbefa7895af200d55005c302279d2162]: Textual amendment: [Reg. 13A](https://www.legislation.gov.uk/uksi/2008/2924/regulation/13A) inserted (30.6.2019) by [The Merchant Shipping (Prevention of Air Pollution from Ships) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/940)](https://www.legislation.gov.uk/uksi/2019/940), [regs. 1](https://www.legislation.gov.uk/uksi/2019/940/regulation/1), [2(6)](https://www.legislation.gov.uk/uksi/2019/940/regulation/2/6)
+
+[^key-930ff1e5f6b351923b95263779434862]: Textual amendment: Words in [reg. 13A(1)(b)](https://www.legislation.gov.uk/uksi/2008/2924/regulation/13A/1/b) substituted (24.4.2023) by [The Merchant Shipping (Prevention of Air Pollution from Ships) (Amendment) Regulations 2023 (S.I. 2023/384)](https://www.legislation.gov.uk/uksi/2023/384), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/384/regulation/1/1), [2(5)](https://www.legislation.gov.uk/uksi/2023/384/regulation/2/5)
+
+[^key-0fab66c74c666cb091ce00c8e8fd7c2f]: Textual amendment: Words in [reg. 13A(2)(a)](https://www.legislation.gov.uk/uksi/2008/2924/regulation/13A/2/a) substituted (22.10.2021) by [The Merchant Shipping (Prevention of Air Pollution from Ships) (Amendment) Regulations 2021 (S.I. 2021/1108)](https://www.legislation.gov.uk/uksi/2021/1108), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2021/1108/regulation/1/b), [2(6)](https://www.legislation.gov.uk/uksi/2021/1108/regulation/2/6)
+
+[^key-a3e0b4788975ca95d6c9f667b73ccfd8]: Textual amendment: [Reg. 13B](https://www.legislation.gov.uk/uksi/2008/2924/regulation/13B) inserted (24.4.2023) by [The Merchant Shipping (Prevention of Air Pollution from Ships) (Amendment) Regulations 2023 (S.I. 2023/384)](https://www.legislation.gov.uk/uksi/2023/384), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/384/regulation/1/1), [2(8)](https://www.legislation.gov.uk/uksi/2023/384/regulation/2/8)
+
+[^key-db1d522e40362b81d31963cdc05d72aa]: Textual amendment: [Reg. 16(1)](https://www.legislation.gov.uk/uksi/2008/2924/regulation/16/1) substituted (20.4.2010) by [The Merchant Shipping (Prevention of Air Pollution from Ships) (Amendment) Regulations 2010 (S.I. 2010/895)](https://www.legislation.gov.uk/uksi/2010/895), [reg. 1](https://www.legislation.gov.uk/uksi/2010/895/regulation/1), [Sch. 2 para. 4(a)](https://www.legislation.gov.uk/uksi/2010/895/schedule/2/paragraph/4/a)
+
+[^key-02053b5b5e03122abf9c0bf6eb24e9b4]: Textual amendment: [Reg. 16(6)](https://www.legislation.gov.uk/uksi/2008/2924/regulation/16/6) substituted (20.4.2010) by [The Merchant Shipping (Prevention of Air Pollution from Ships) (Amendment) Regulations 2010 (S.I. 2010/895)](https://www.legislation.gov.uk/uksi/2010/895), [reg. 1](https://www.legislation.gov.uk/uksi/2010/895/regulation/1), [Sch. 2 para. 4(b)](https://www.legislation.gov.uk/uksi/2010/895/schedule/2/paragraph/4/b)
+
+[^key-991917c2b0d06baaa8570be9c4ffa2e1]: Textual amendment: Words in [reg. 17(2)](https://www.legislation.gov.uk/uksi/2008/2924/regulation/17/2) inserted (20.4.2010) by [The Merchant Shipping (Prevention of Air Pollution from Ships) (Amendment) Regulations 2010 (S.I. 2010/895)](https://www.legislation.gov.uk/uksi/2010/895), [reg. 1](https://www.legislation.gov.uk/uksi/2010/895/regulation/1), [Sch. 2 para. 5(a)](https://www.legislation.gov.uk/uksi/2010/895/schedule/2/paragraph/5/a)
+
+[^key-fc6f8591fbdbd0aa7f4101cc1f0af000]: Textual amendment: Reg. 17(2A) inserted (20.4.2010) by [The Merchant Shipping (Prevention of Air Pollution from Ships) (Amendment) Regulations 2010 (S.I. 2010/895)](https://www.legislation.gov.uk/uksi/2010/895), [reg. 1](https://www.legislation.gov.uk/uksi/2010/895/regulation/1), [Sch. 2 para. 5(b)](https://www.legislation.gov.uk/uksi/2010/895/schedule/2/paragraph/5/b)
+
+[^key-8bbc87e1d17474d1c9223fc30848c95f]: Textual amendment: [Reg. 17(7)(b)](https://www.legislation.gov.uk/uksi/2008/2924/regulation/17/7/b) substituted (20.4.2010) by [The Merchant Shipping (Prevention of Air Pollution from Ships) (Amendment) Regulations 2010 (S.I. 2010/895)](https://www.legislation.gov.uk/uksi/2010/895), [reg. 1](https://www.legislation.gov.uk/uksi/2010/895/regulation/1), [Sch. 2 para. 5(c)](https://www.legislation.gov.uk/uksi/2010/895/schedule/2/paragraph/5/c)
+
+[^key-b92ed606781292449c07ec9fb39151fc]: Textual amendment: [Reg. 19A](https://www.legislation.gov.uk/uksi/2008/2924/regulation/19A) substituted (24.4.2023) by [The Merchant Shipping (Prevention of Air Pollution from Ships) (Amendment) Regulations 2023 (S.I. 2023/384)](https://www.legislation.gov.uk/uksi/2023/384), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/384/regulation/1/1), [2(9)](https://www.legislation.gov.uk/uksi/2023/384/regulation/2/9)
+
+[^key-7f0a7a7c8d2174c1a10abff4aa17939e]: Textual amendment: [Reg. 21(1)](https://www.legislation.gov.uk/uksi/2008/2924/regulation/21/1) substituted (22.10.2021) by [The Merchant Shipping (Prevention of Air Pollution from Ships) (Amendment) Regulations 2021 (S.I. 2021/1108)](https://www.legislation.gov.uk/uksi/2021/1108), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2021/1108/regulation/1/b), [2(7)(a)](https://www.legislation.gov.uk/uksi/2021/1108/regulation/2/7/a)
+
+[^key-1729c5ae63d6445710cdb4284aa957b7]: Textual amendment: [Reg. 21(2)](https://www.legislation.gov.uk/uksi/2008/2924/regulation/21/2) substituted (22.10.2021) by [The Merchant Shipping (Prevention of Air Pollution from Ships) (Amendment) Regulations 2021 (S.I. 2021/1108)](https://www.legislation.gov.uk/uksi/2021/1108), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2021/1108/regulation/1/b), [2(7)(b)](https://www.legislation.gov.uk/uksi/2021/1108/regulation/2/7/b)
+
+[^key-5ffca2726ad702fb63a8077c5391636b]: Textual amendment: Word in [reg. 21(3)](https://www.legislation.gov.uk/uksi/2008/2924/regulation/21/3) substituted (22.10.2021) by [The Merchant Shipping (Prevention of Air Pollution from Ships) (Amendment) Regulations 2021 (S.I. 2021/1108)](https://www.legislation.gov.uk/uksi/2021/1108), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2021/1108/regulation/1/b), [2(7)(c)](https://www.legislation.gov.uk/uksi/2021/1108/regulation/2/7/c)
+
+[^key-5b2ac71caeb59eac985ccd4d79c757e8]: Textual amendment: Words in [reg. 21(4)](https://www.legislation.gov.uk/uksi/2008/2924/regulation/21/4) inserted (22.10.2021) by [The Merchant Shipping (Prevention of Air Pollution from Ships) (Amendment) Regulations 2021 (S.I. 2021/1108)](https://www.legislation.gov.uk/uksi/2021/1108), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2021/1108/regulation/1/b), [2(7)(d)(i)](https://www.legislation.gov.uk/uksi/2021/1108/regulation/2/7/d/i)
+
+[^key-2096a000f2580c588a455959f272db71]: Textual amendment: Words in [reg. 21(4)](https://www.legislation.gov.uk/uksi/2008/2924/regulation/21/4) substituted (22.10.2021) by [The Merchant Shipping (Prevention of Air Pollution from Ships) (Amendment) Regulations 2021 (S.I. 2021/1108)](https://www.legislation.gov.uk/uksi/2021/1108), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2021/1108/regulation/1/b), [2(7)(d)(ii)](https://www.legislation.gov.uk/uksi/2021/1108/regulation/2/7/d/ii)
+
+[^key-c92c0707ce485c3d087eaf42058be670]: Textual amendment: [Reg. 21(4A)-(4E)](https://www.legislation.gov.uk/uksi/2008/2924/regulation/21/4A) inserted (22.10.2021) by [The Merchant Shipping (Prevention of Air Pollution from Ships) (Amendment) Regulations 2021 (S.I. 2021/1108)](https://www.legislation.gov.uk/uksi/2021/1108), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2021/1108/regulation/1/b), [2(7)(e)](https://www.legislation.gov.uk/uksi/2021/1108/regulation/2/7/e)
+
+[^key-f4eeb832b6fe5613974da0835077a746]: Textual amendment: Words in [reg. 21(5)](https://www.legislation.gov.uk/uksi/2008/2924/regulation/21/5) inserted (22.10.2021) by [The Merchant Shipping (Prevention of Air Pollution from Ships) (Amendment) Regulations 2021 (S.I. 2021/1108)](https://www.legislation.gov.uk/uksi/2021/1108), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2021/1108/regulation/1/b), [2(7)(f)(i)](https://www.legislation.gov.uk/uksi/2021/1108/regulation/2/7/f/i)
+
+[^key-117222f306b1b534b1a661b3257da8e2]: Textual amendment: Word in [reg. 21(5)](https://www.legislation.gov.uk/uksi/2008/2924/regulation/21/5) substituted (22.10.2021) by [The Merchant Shipping (Prevention of Air Pollution from Ships) (Amendment) Regulations 2021 (S.I. 2021/1108)](https://www.legislation.gov.uk/uksi/2021/1108), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2021/1108/regulation/1/b), [2(7)(f)(ii)](https://www.legislation.gov.uk/uksi/2021/1108/regulation/2/7/f/ii)
+
+[^key-20b33fbbf7037ff1297fcf9c1733a3dd]: Textual amendment: Word in [reg. 21(6)](https://www.legislation.gov.uk/uksi/2008/2924/regulation/21/6) substituted (22.10.2021) by [The Merchant Shipping (Prevention of Air Pollution from Ships) (Amendment) Regulations 2021 (S.I. 2021/1108)](https://www.legislation.gov.uk/uksi/2021/1108), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2021/1108/regulation/1/b), [2(7)(g)](https://www.legislation.gov.uk/uksi/2021/1108/regulation/2/7/g)
+
+[^key-627b492adb4a13a0aa97b9dd5eb5a1ce]: Textual amendment: Words in [reg. 21(7)](https://www.legislation.gov.uk/uksi/2008/2924/regulation/21/7) substituted (22.10.2021) by [The Merchant Shipping (Prevention of Air Pollution from Ships) (Amendment) Regulations 2021 (S.I. 2021/1108)](https://www.legislation.gov.uk/uksi/2021/1108), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2021/1108/regulation/1/b), [2(7)(h)(i)](https://www.legislation.gov.uk/uksi/2021/1108/regulation/2/7/h/i)
+
+[^key-69eaefd75852a1bbb61787be546645b9]: Textual amendment: Word in [reg. 21(7)](https://www.legislation.gov.uk/uksi/2008/2924/regulation/21/7) substituted (22.10.2021) by [The Merchant Shipping (Prevention of Air Pollution from Ships) (Amendment) Regulations 2021 (S.I. 2021/1108)](https://www.legislation.gov.uk/uksi/2021/1108), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2021/1108/regulation/1/b), [2(7)(h)(ii)](https://www.legislation.gov.uk/uksi/2021/1108/regulation/2/7/h/ii)
+
+[^key-2ed145a49fe7e711b327f3be7563bc83]: Textual amendment: Words in [reg. 21(7)](https://www.legislation.gov.uk/uksi/2008/2924/regulation/21/7) substituted (5.12.2016) by [The Merchant Shipping (Marine Equipment) Regulations 2016 (S.I. 2016/1025)](https://www.legislation.gov.uk/uksi/2016/1025), [reg. 1](https://www.legislation.gov.uk/uksi/2016/1025/regulation/1), [Sch. para. 16(2)](https://www.legislation.gov.uk/uksi/2016/1025/schedule/paragraph/16/2)
+
+[^key-58d7f71b212149662aaec9e02d241eb2]: Textual amendment: Word in [reg. 21(7)](https://www.legislation.gov.uk/uksi/2008/2924/regulation/21/7) substituted (5.1.2026) by [The Merchant Shipping (Marine Equipment) Regulations 2025 (S.I. 2025/1280)](https://www.legislation.gov.uk/uksi/2025/1280), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1280/regulation/1/1), [Sch. 1 para. 8(2)](https://www.legislation.gov.uk/uksi/2025/1280/schedule/1/paragraph/8/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2025/1280/regulation/3))
+
+[^key-4b7106905b7552531cf122ad78e29ead]: Textual amendment: Words in [reg. 21(7)](https://www.legislation.gov.uk/uksi/2008/2924/regulation/21/7) substituted (22.10.2021) by [The Merchant Shipping (Prevention of Air Pollution from Ships) (Amendment) Regulations 2021 (S.I. 2021/1108)](https://www.legislation.gov.uk/uksi/2021/1108), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2021/1108/regulation/1/b), [2(7)(h)(iii)](https://www.legislation.gov.uk/uksi/2021/1108/regulation/2/7/h/iii)
+
+[^key-dcf72eb68bd05b831c278b0c6ebfd6b9]: Textual amendment: Words in [reg. 21(8)(a)](https://www.legislation.gov.uk/uksi/2008/2924/regulation/21/8/a) inserted (22.10.2021) by [The Merchant Shipping (Prevention of Air Pollution from Ships) (Amendment) Regulations 2021 (S.I. 2021/1108)](https://www.legislation.gov.uk/uksi/2021/1108), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2021/1108/regulation/1/b), [2(7)(i)](https://www.legislation.gov.uk/uksi/2021/1108/regulation/2/7/i)
+
+[^key-29435781878292bee1150507b129e994]: Textual amendment: [Reg. 21(9)-(12)](https://www.legislation.gov.uk/uksi/2008/2924/regulation/21/9) inserted (22.10.2021) by [The Merchant Shipping (Prevention of Air Pollution from Ships) (Amendment) Regulations 2021 (S.I. 2021/1108)](https://www.legislation.gov.uk/uksi/2021/1108), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2021/1108/regulation/1/b), [2(7)(j)](https://www.legislation.gov.uk/uksi/2021/1108/regulation/2/7/j)
+
+[^key-ea628ea21578815a13862112ecc644cd]: Textual amendment: [Reg. 22](https://www.legislation.gov.uk/uksi/2008/2924/regulation/22) substituted (20.4.2010) by [The Merchant Shipping (Prevention of Air Pollution from Ships) (Amendment) Regulations 2010 (S.I. 2010/895)](https://www.legislation.gov.uk/uksi/2010/895), [regs. 1](https://www.legislation.gov.uk/uksi/2010/895/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2010/895/regulation/2/2)
+
+[^key-9369dea50ad4ef9abadf5de5c67cfdf7]: Textual amendment: Words in [reg. 24](https://www.legislation.gov.uk/uksi/2008/2924/regulation/24) substituted (5.12.2016) by [The Merchant Shipping (Marine Equipment) Regulations 2016 (S.I. 2016/1025)](https://www.legislation.gov.uk/uksi/2016/1025), [reg. 1](https://www.legislation.gov.uk/uksi/2016/1025/regulation/1), [Sch. para. 16(3)](https://www.legislation.gov.uk/uksi/2016/1025/schedule/paragraph/16/3)
+
+[^key-0f0a30f7b2222182195a8e0b39df8cf3]: Textual amendment: Word in [reg. 24(2)](https://www.legislation.gov.uk/uksi/2008/2924/regulation/24/2) substituted (5.1.2026) by [The Merchant Shipping (Marine Equipment) Regulations 2025 (S.I. 2025/1280)](https://www.legislation.gov.uk/uksi/2025/1280), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1280/regulation/1/1), [Sch. 1 para. 8(3)](https://www.legislation.gov.uk/uksi/2025/1280/schedule/1/paragraph/8/3) (with [reg. 3](https://www.legislation.gov.uk/uksi/2025/1280/regulation/3))
+
+[^key-171c012f09afe0a170b237a97885e9c0]: Textual amendment: Word in [reg. 24(7)](https://www.legislation.gov.uk/uksi/2008/2924/regulation/24/7) substituted (5.1.2026) by [The Merchant Shipping (Marine Equipment) Regulations 2025 (S.I. 2025/1280)](https://www.legislation.gov.uk/uksi/2025/1280), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1280/regulation/1/1), [Sch. 1 para. 8(3)](https://www.legislation.gov.uk/uksi/2025/1280/schedule/1/paragraph/8/3) (with [reg. 3](https://www.legislation.gov.uk/uksi/2025/1280/regulation/3))
+
+[^key-8df5db3eee104ecbecee2ecf1c36a58a]: Textual amendment: Word in [reg. 24(12)](https://www.legislation.gov.uk/uksi/2008/2924/regulation/24/12) substituted (5.1.2026) by [The Merchant Shipping (Marine Equipment) Regulations 2025 (S.I. 2025/1280)](https://www.legislation.gov.uk/uksi/2025/1280), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1280/regulation/1/1), [Sch. 1 para. 8(3)](https://www.legislation.gov.uk/uksi/2025/1280/schedule/1/paragraph/8/3) (with [reg. 3](https://www.legislation.gov.uk/uksi/2025/1280/regulation/3))
+
+[^key-399af161e26dd03d037f18ef7e284e35]: Textual amendment: [Reg. 25(3A)](https://www.legislation.gov.uk/uksi/2008/2924/regulation/25/3A)[(3B)](https://www.legislation.gov.uk/uksi/2008/2924/regulation/25/3B) inserted (16.12.2014) by [The Merchant Shipping (Prevention of Air Pollution from Ships) and Motor Fuel (Composition and Content) (Amendment) Regulations 2014 (S.I. 2014/3076)](https://www.legislation.gov.uk/uksi/2014/3076), [regs. 1](https://www.legislation.gov.uk/uksi/2014/3076/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2014/3076/regulation/2/3/a)
+
+[^key-7fa17c8c7a16d763b2277915fb8bfe9d]: Textual amendment: Words in [reg. 25(5)(b)](https://www.legislation.gov.uk/uksi/2008/2924/regulation/25/5/b) inserted (22.10.2021) by [The Merchant Shipping (Prevention of Air Pollution from Ships) (Amendment) Regulations 2021 (S.I. 2021/1108)](https://www.legislation.gov.uk/uksi/2021/1108), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2021/1108/regulation/1/b), [2(8)(a)](https://www.legislation.gov.uk/uksi/2021/1108/regulation/2/8/a)
+
+[^key-81338b0ac95040edbc3566508d0d950f]: Textual amendment: [Reg. 25(6)](https://www.legislation.gov.uk/uksi/2008/2924/regulation/25/6) substituted (22.10.2021) by [The Merchant Shipping (Prevention of Air Pollution from Ships) (Amendment) Regulations 2021 (S.I. 2021/1108)](https://www.legislation.gov.uk/uksi/2021/1108), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2021/1108/regulation/1/b), [2(8)(b)](https://www.legislation.gov.uk/uksi/2021/1108/regulation/2/8/b)
+
+[^key-951bcb6214f6055d0d5f9686148a09fe]: Textual amendment: Words in [reg. 25(7)(b)](https://www.legislation.gov.uk/uksi/2008/2924/regulation/25/7/b) substituted (22.10.2021) by [The Merchant Shipping (Prevention of Air Pollution from Ships) (Amendment) Regulations 2021 (S.I. 2021/1108)](https://www.legislation.gov.uk/uksi/2021/1108), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2021/1108/regulation/1/b), [2(8)(c)](https://www.legislation.gov.uk/uksi/2021/1108/regulation/2/8/c)
+
+[^key-e0149c7535bee78d9d43d14d456be4fa]: Textual amendment: [Reg. 25A](https://www.legislation.gov.uk/uksi/2008/2924/regulation/25A) inserted (30.6.2019) by [The Merchant Shipping (Prevention of Air Pollution from Ships) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/940)](https://www.legislation.gov.uk/uksi/2019/940), [regs. 1](https://www.legislation.gov.uk/uksi/2019/940/regulation/1), [2(8)](https://www.legislation.gov.uk/uksi/2019/940/regulation/2/8)
+
+[^key-5b83a1a3f2449d0636777b50b205ce68]: Textual amendment: [Reg. 25A(1)](https://www.legislation.gov.uk/uksi/2008/2924/regulation/25A/1) substituted (24.4.2023) by [The Merchant Shipping (Prevention of Air Pollution from Ships) (Amendment) Regulations 2023 (S.I. 2023/384)](https://www.legislation.gov.uk/uksi/2023/384), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/384/regulation/1/1), [2(10)(a)](https://www.legislation.gov.uk/uksi/2023/384/regulation/2/10/a)
+
+[^key-dbd99b3765752a4941ac1c48f30d352c]: Textual amendment: Words in [reg. 25A(2)](https://www.legislation.gov.uk/uksi/2008/2924/regulation/25A/2) inserted (24.4.2023) by [The Merchant Shipping (Prevention of Air Pollution from Ships) (Amendment) Regulations 2023 (S.I. 2023/384)](https://www.legislation.gov.uk/uksi/2023/384), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/384/regulation/1/1), [2(10)(b)](https://www.legislation.gov.uk/uksi/2023/384/regulation/2/10/b)
+
+[^key-517deabbbc6967d6878c487bf521affe]: Textual amendment: [Reg. 25A(4)](https://www.legislation.gov.uk/uksi/2008/2924/regulation/25A/4) omitted (24.4.2023) by virtue of [The Merchant Shipping (Prevention of Air Pollution from Ships) (Amendment) Regulations 2023 (S.I. 2023/384)](https://www.legislation.gov.uk/uksi/2023/384), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/384/regulation/1/1), [2(10)(c)](https://www.legislation.gov.uk/uksi/2023/384/regulation/2/10/c)
+
+[^key-f0d7ec31931d027c1ea5b143848dd3c0]: Textual amendment: [Reg. 25B](https://www.legislation.gov.uk/uksi/2008/2924/regulation/25B) inserted (24.4.2023) by [The Merchant Shipping (Prevention of Air Pollution from Ships) (Amendment) Regulations 2023 (S.I. 2023/384)](https://www.legislation.gov.uk/uksi/2023/384), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/384/regulation/1/1), [2(11)](https://www.legislation.gov.uk/uksi/2023/384/regulation/2/11)
+
+[^f00016]: Footnote: Section 258 was amended by the Merchant Shipping and Maritime Security Act [1997 (c.28)](https://www.legislation.gov.uk/ukpga/1997/28), Schedule 1, paragraph (4).
+
+[^key-27528a10e262bd8ef02a70f49af4e7d8]: Textual amendment: Words in [reg. 26(1)](https://www.legislation.gov.uk/uksi/2008/2924/regulation/26/1) inserted (20.4.2010) by [The Merchant Shipping (Prevention of Air Pollution from Ships) (Amendment) Regulations 2010 (S.I. 2010/895)](https://www.legislation.gov.uk/uksi/2010/895), [reg. 1](https://www.legislation.gov.uk/uksi/2010/895/regulation/1), [Sch. 2 para. 7(a)](https://www.legislation.gov.uk/uksi/2010/895/schedule/2/paragraph/7/a)
+
+[^key-fdde16a79a426d7f41eea7fe1b7fa479]: Textual amendment: Words in [reg. 26(2)(e)](https://www.legislation.gov.uk/uksi/2008/2924/regulation/26/2/e) substituted (20.4.2010) by [The Merchant Shipping (Prevention of Air Pollution from Ships) (Amendment) Regulations 2010 (S.I. 2010/895)](https://www.legislation.gov.uk/uksi/2010/895), [reg. 1](https://www.legislation.gov.uk/uksi/2010/895/regulation/1), [Sch. 2 para. 7(b)](https://www.legislation.gov.uk/uksi/2010/895/schedule/2/paragraph/7/b)
+
+[^key-59160b75dcfb54f76f850a9042873292]: Textual amendment: [Reg. 26(2A)](https://www.legislation.gov.uk/uksi/2008/2924/regulation/26/2A) inserted (24.4.2023) by [The Merchant Shipping (Prevention of Air Pollution from Ships) (Amendment) Regulations 2023 (S.I. 2023/384)](https://www.legislation.gov.uk/uksi/2023/384), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/384/regulation/1/1), [2(12)(a)](https://www.legislation.gov.uk/uksi/2023/384/regulation/2/12/a)
+
+[^key-77f127422caba50c640eb5b242b7b900]: Textual amendment: [Reg. 26(3)](https://www.legislation.gov.uk/uksi/2008/2924/regulation/26/3) substituted (20.4.2010) by [The Merchant Shipping (Prevention of Air Pollution from Ships) (Amendment) Regulations 2010 (S.I. 2010/895)](https://www.legislation.gov.uk/uksi/2010/895), [reg. 1](https://www.legislation.gov.uk/uksi/2010/895/regulation/1), [Sch. 2 para. 7(c)](https://www.legislation.gov.uk/uksi/2010/895/schedule/2/paragraph/7/c)
+
+[^key-a47000c326ce09880487125c1230d687]: Textual amendment: Words in [reg. 26(4)](https://www.legislation.gov.uk/uksi/2008/2924/regulation/26/4) inserted (24.4.2023) by [The Merchant Shipping (Prevention of Air Pollution from Ships) (Amendment) Regulations 2023 (S.I. 2023/384)](https://www.legislation.gov.uk/uksi/2023/384), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/384/regulation/1/1), [2(12)(b)](https://www.legislation.gov.uk/uksi/2023/384/regulation/2/12/b)
+
+[^key-5fbc51c49f036995d6bbb49177ad76a2]: Textual amendment: Words in [reg. 28(1)](https://www.legislation.gov.uk/uksi/2008/2924/regulation/28/1) substituted (20.4.2010) by [The Merchant Shipping (Prevention of Air Pollution from Ships) (Amendment) Regulations 2010 (S.I. 2010/895)](https://www.legislation.gov.uk/uksi/2010/895), [reg. 1](https://www.legislation.gov.uk/uksi/2010/895/regulation/1), [Sch. 2 para. 9(a)](https://www.legislation.gov.uk/uksi/2010/895/schedule/2/paragraph/9/a)
+
+[^key-ad713b5c35fffa0e8951a34a8dd47364]: Textual amendment: Words in [reg. 28(3)](https://www.legislation.gov.uk/uksi/2008/2924/regulation/28/3) substituted (22.10.2021) by [The Merchant Shipping (Prevention of Air Pollution from Ships) (Amendment) Regulations 2021 (S.I. 2021/1108)](https://www.legislation.gov.uk/uksi/2021/1108), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2021/1108/regulation/1/b), [2(9)(a)](https://www.legislation.gov.uk/uksi/2021/1108/regulation/2/9/a)
+
+[^key-c61ee7c3a2bcdde02b0555d7199ed4ed]: Textual amendment: [Reg. 28(4)](https://www.legislation.gov.uk/uksi/2008/2924/regulation/28/4) substituted (20.4.2010) by [The Merchant Shipping (Prevention of Air Pollution from Ships) (Amendment) Regulations 2010 (S.I. 2010/895)](https://www.legislation.gov.uk/uksi/2010/895), [reg. 1](https://www.legislation.gov.uk/uksi/2010/895/regulation/1), [Sch. 2 para. 9(b)](https://www.legislation.gov.uk/uksi/2010/895/schedule/2/paragraph/9/b)
+
+[^f00017]: Footnote: Section 284 was amended by the Maritime Shipping and Maritime Security Act [1997 (c.28)](https://www.legislation.gov.uk/ukpga/1997/28), Schedule 1.
+
+[^key-be9bf18ca7cf8ec7a15dab0d477af56d]: Textual amendment: Words in [reg. 28(8)(a)](https://www.legislation.gov.uk/uksi/2008/2924/regulation/28/8/a) substituted (22.10.2021) by [The Merchant Shipping (Prevention of Air Pollution from Ships) (Amendment) Regulations 2021 (S.I. 2021/1108)](https://www.legislation.gov.uk/uksi/2021/1108), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2021/1108/regulation/1/b), [2(9)(a)](https://www.legislation.gov.uk/uksi/2021/1108/regulation/2/9/a)
+
+[^key-416a6a5de69b12d3d5d2535d0d05d261]: Textual amendment: Words in [reg. 28(8)(b)](https://www.legislation.gov.uk/uksi/2008/2924/regulation/28/8/b) substituted (22.10.2021) by [The Merchant Shipping (Prevention of Air Pollution from Ships) (Amendment) Regulations 2021 (S.I. 2021/1108)](https://www.legislation.gov.uk/uksi/2021/1108), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2021/1108/regulation/1/b), [2(9)(b)](https://www.legislation.gov.uk/uksi/2021/1108/regulation/2/9/b)
+
+[^key-b785496a190a3654ba3e3336bf3ae6b3]: Textual amendment: Words in [reg. 28(8)(d)](https://www.legislation.gov.uk/uksi/2008/2924/regulation/28/8/d) substituted (22.10.2021) by [The Merchant Shipping (Prevention of Air Pollution from Ships) (Amendment) Regulations 2021 (S.I. 2021/1108)](https://www.legislation.gov.uk/uksi/2021/1108), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2021/1108/regulation/1/b), [2(9)(b)](https://www.legislation.gov.uk/uksi/2021/1108/regulation/2/9/b)
+
+[^f00018]: Footnote: Cmnd 8941.
+
+[^key-a51d76778d7fee5be89830b02619110b]: Textual amendment: Words in [reg. 28(9)(a)](https://www.legislation.gov.uk/uksi/2008/2924/regulation/28/9/a) substituted (22.10.2021) by [The Merchant Shipping (Prevention of Air Pollution from Ships) (Amendment) Regulations 2021 (S.I. 2021/1108)](https://www.legislation.gov.uk/uksi/2021/1108), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2021/1108/regulation/1/b), [2(9)(a)](https://www.legislation.gov.uk/uksi/2021/1108/regulation/2/9/a)
+
+[^key-6c0f72e008ad781f8666be72e113497b]: Textual amendment: Words in [reg. 28(10)](https://www.legislation.gov.uk/uksi/2008/2924/regulation/28/10) substituted (22.10.2021) by [The Merchant Shipping (Prevention of Air Pollution from Ships) (Amendment) Regulations 2021 (S.I. 2021/1108)](https://www.legislation.gov.uk/uksi/2021/1108), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2021/1108/regulation/1/b), [2(9)(a)](https://www.legislation.gov.uk/uksi/2021/1108/regulation/2/9/a)
+
+[^f00019]: Footnote: Section 145 was amended by the Criminal Justice Act [2003 (c.44)](https://www.legislation.gov.uk/ukpga/2003/44), Schedule 36.
+
+[^key-7bd8a8a38c393e649b840c2b50cc510e]: Textual amendment: Words in [reg. 28(11)(b)](https://www.legislation.gov.uk/uksi/2008/2924/regulation/28/11/b) substituted (22.10.2021) by [The Merchant Shipping (Prevention of Air Pollution from Ships) (Amendment) Regulations 2021 (S.I. 2021/1108)](https://www.legislation.gov.uk/uksi/2021/1108), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2021/1108/regulation/1/b), [2(9)(a)](https://www.legislation.gov.uk/uksi/2021/1108/regulation/2/9/a)
+
+[^key-ec28504ca0756c2fe31705f1f81c8a31]: Textual amendment: Words in [reg. 29(1)](https://www.legislation.gov.uk/uksi/2008/2924/regulation/29/1) substituted (22.10.2021) by [The Merchant Shipping (Prevention of Air Pollution from Ships) (Amendment) Regulations 2021 (S.I. 2021/1108)](https://www.legislation.gov.uk/uksi/2021/1108), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2021/1108/regulation/1/b), [2(10)(a)](https://www.legislation.gov.uk/uksi/2021/1108/regulation/2/10/a)
+
+[^key-b24a4ed77733ad21681591564bc5788f]: Textual amendment: Words in [reg. 29(1)](https://www.legislation.gov.uk/uksi/2008/2924/regulation/29/1) substituted (24.4.2023) by [The Merchant Shipping (Prevention of Air Pollution from Ships) (Amendment) Regulations 2023 (S.I. 2023/384)](https://www.legislation.gov.uk/uksi/2023/384), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/384/regulation/1/1), [2(13)(a)](https://www.legislation.gov.uk/uksi/2023/384/regulation/2/13/a)
+
+[^key-dd559d99900fbf5213e3ce0d31fd446b]: Textual amendment: Words in [reg. 29(4)-(6)](https://www.legislation.gov.uk/uksi/2008/2924/regulation/29/4) substituted (24.4.2023) by [The Merchant Shipping (Prevention of Air Pollution from Ships) (Amendment) Regulations 2023 (S.I. 2023/384)](https://www.legislation.gov.uk/uksi/2023/384), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/384/regulation/1/1), [2(13)(b)](https://www.legislation.gov.uk/uksi/2023/384/regulation/2/13/b)
+
+[^key-e54245d94dbb8df4754ef89c504a8262]: Textual amendment: Words in [reg. 29(7)(b)](https://www.legislation.gov.uk/uksi/2008/2924/regulation/29/7/b) substituted (22.10.2021) by [The Merchant Shipping (Prevention of Air Pollution from Ships) (Amendment) Regulations 2021 (S.I. 2021/1108)](https://www.legislation.gov.uk/uksi/2021/1108), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2021/1108/regulation/1/b), [2(10)(b)](https://www.legislation.gov.uk/uksi/2021/1108/regulation/2/10/b)
+
+[^key-712a6588dcea459fd69fb8999a2cee82]: Textual amendment: Words in [reg. 29(7)](https://www.legislation.gov.uk/uksi/2008/2924/regulation/29/7) inserted (24.4.2023) by [The Merchant Shipping (Prevention of Air Pollution from Ships) (Amendment) Regulations 2023 (S.I. 2023/384)](https://www.legislation.gov.uk/uksi/2023/384), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/384/regulation/1/1), [2(13)(c)](https://www.legislation.gov.uk/uksi/2023/384/regulation/2/13/c)
+
+[^key-a2d9c5b516f213076660c55135037fd7]: Textual amendment: Reg. 31A inserted (20.4.2010) by [The Merchant Shipping (Prevention of Air Pollution from Ships) (Amendment) Regulations 2010 (S.I. 2010/895)](https://www.legislation.gov.uk/uksi/2010/895), [reg. 1](https://www.legislation.gov.uk/uksi/2010/895/regulation/1), [Sch. 2 para. 11](https://www.legislation.gov.uk/uksi/2010/895/schedule/2/paragraph/11)
+
+[^key-855b5171b278259394931e9eba881a6f]: Textual amendment: Words in [reg. 32(1)(a)](https://www.legislation.gov.uk/uksi/2008/2924/regulation/32/1/a) inserted (24.4.2023) by [The Merchant Shipping (Prevention of Air Pollution from Ships) (Amendment) Regulations 2023 (S.I. 2023/384)](https://www.legislation.gov.uk/uksi/2023/384), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/384/regulation/1/1), [2(14)(a)(i)](https://www.legislation.gov.uk/uksi/2023/384/regulation/2/14/a/i)
+
+[^key-ec7cc9dd7dbf727f71989078d1145ae4]: Textual amendment: Words in [reg. 32(1)(a)](https://www.legislation.gov.uk/uksi/2008/2924/regulation/32/1/a) inserted (24.4.2023) by [The Merchant Shipping (Prevention of Air Pollution from Ships) (Amendment) Regulations 2023 (S.I. 2023/384)](https://www.legislation.gov.uk/uksi/2023/384), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/384/regulation/1/1), [2(14)(a)(ii)](https://www.legislation.gov.uk/uksi/2023/384/regulation/2/14/a/ii)
+
+[^key-04dd14759eca3629ed9a1b00db702a19]: Textual amendment: Words in [reg. 32(1)(a)](https://www.legislation.gov.uk/uksi/2008/2924/regulation/32/1/a) substituted (20.4.2010) by [The Merchant Shipping (Prevention of Air Pollution from Ships) (Amendment) Regulations 2010 (S.I. 2010/895)](https://www.legislation.gov.uk/uksi/2010/895), [reg. 1](https://www.legislation.gov.uk/uksi/2010/895/regulation/1), [Sch. 2 para. 12(a)](https://www.legislation.gov.uk/uksi/2010/895/schedule/2/paragraph/12/a)
+
+[^key-fad3a0b677534529324863bb52eb316d]: Textual amendment: Words in [reg. 32(1)(a)](https://www.legislation.gov.uk/uksi/2008/2924/regulation/32/1/a) inserted (24.4.2023) by [The Merchant Shipping (Prevention of Air Pollution from Ships) (Amendment) Regulations 2023 (S.I. 2023/384)](https://www.legislation.gov.uk/uksi/2023/384), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/384/regulation/1/1), [2(14)(a)(iii)](https://www.legislation.gov.uk/uksi/2023/384/regulation/2/14/a/iii)
+
+[^key-f4d658c3e92857ba29c4ca5cc29722c4]: Textual amendment: Words in [reg. 32(1)(a)](https://www.legislation.gov.uk/uksi/2008/2924/regulation/32/1/a) omitted (24.4.2023) by virtue of [The Merchant Shipping (Prevention of Air Pollution from Ships) (Amendment) Regulations 2023 (S.I. 2023/384)](https://www.legislation.gov.uk/uksi/2023/384), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/384/regulation/1/1), [2(14)(a)(iv)](https://www.legislation.gov.uk/uksi/2023/384/regulation/2/14/a/iv)
+
+[^key-71eaf933dd5619aa9f8924a40e65189e]: Textual amendment: Word in [reg. 32(1)(b)](https://www.legislation.gov.uk/uksi/2008/2924/regulation/32/1/b) substituted (20.4.2010) by [The Merchant Shipping (Prevention of Air Pollution from Ships) (Amendment) Regulations 2010 (S.I. 2010/895)](https://www.legislation.gov.uk/uksi/2010/895), [reg. 1](https://www.legislation.gov.uk/uksi/2010/895/regulation/1), [Sch. 2 para. 12(b)](https://www.legislation.gov.uk/uksi/2010/895/schedule/2/paragraph/12/b)
+
+[^key-83f569b0268f086c6477c3cff274cd59]: Textual amendment: Words in [reg. 32(1)(b)](https://www.legislation.gov.uk/uksi/2008/2924/regulation/32/1/b) inserted (22.10.2021) by [The Merchant Shipping (Prevention of Air Pollution from Ships) (Amendment) Regulations 2021 (S.I. 2021/1108)](https://www.legislation.gov.uk/uksi/2021/1108), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2021/1108/regulation/1/b), [2(11)(a)](https://www.legislation.gov.uk/uksi/2021/1108/regulation/2/11/a)
+
+[^key-f1b757ccc5723eb07fe1f7f00050e6fb]: Textual amendment: [Reg. 32(1)(c)](https://www.legislation.gov.uk/uksi/2008/2924/regulation/32/1/c) substituted (22.10.2021) by [The Merchant Shipping (Prevention of Air Pollution from Ships) (Amendment) Regulations 2021 (S.I. 2021/1108)](https://www.legislation.gov.uk/uksi/2021/1108), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2021/1108/regulation/1/b), [2(11)(b)](https://www.legislation.gov.uk/uksi/2021/1108/regulation/2/11/b)
+
+[^key-0aa67aa83ca92150fa9f0d3f3fdb9dfe]: Textual amendment: [Reg. 32(1)(d)](https://www.legislation.gov.uk/uksi/2008/2924/regulation/32/1/d) substituted (22.10.2021) by [The Merchant Shipping (Prevention of Air Pollution from Ships) (Amendment) Regulations 2021 (S.I. 2021/1108)](https://www.legislation.gov.uk/uksi/2021/1108), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2021/1108/regulation/1/b), [2(11)(c)](https://www.legislation.gov.uk/uksi/2021/1108/regulation/2/11/c)
+
+[^key-aee530f7c47f3741391c9dd4ac49fdf7]: Textual amendment: Words in [reg. 32(1)(d)](https://www.legislation.gov.uk/uksi/2008/2924/regulation/32/1/d) omitted (24.4.2023) by virtue of [The Merchant Shipping (Prevention of Air Pollution from Ships) (Amendment) Regulations 2023 (S.I. 2023/384)](https://www.legislation.gov.uk/uksi/2023/384), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/384/regulation/1/1), [2(14)(b)](https://www.legislation.gov.uk/uksi/2023/384/regulation/2/14/b)
+
+[^key-01ca3feadc0053a9793da6773aba7c2a]: Textual amendment: Words in [reg. 32(1)(e)](https://www.legislation.gov.uk/uksi/2008/2924/regulation/32/1/e) inserted (24.4.2023) by [The Merchant Shipping (Prevention of Air Pollution from Ships) (Amendment) Regulations 2023 (S.I. 2023/384)](https://www.legislation.gov.uk/uksi/2023/384), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/384/regulation/1/1), [2(14)(c)](https://www.legislation.gov.uk/uksi/2023/384/regulation/2/14/c)
+
+[^key-ec083d9b72ced6e61a517bcd749bae15]: Textual amendment: [Reg. 32(3A)](https://www.legislation.gov.uk/uksi/2008/2924/regulation/32/3A) substituted (16.12.2014) by [The Merchant Shipping (Prevention of Air Pollution from Ships) and Motor Fuel (Composition and Content) (Amendment) Regulations 2014 (S.I. 2014/3076)](https://www.legislation.gov.uk/uksi/2014/3076), [regs. 1](https://www.legislation.gov.uk/uksi/2014/3076/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2014/3076/regulation/2/4)
+
+[^key-7f6afe4c3063180b5bdedb1ed8b84637]: Textual amendment: Words in [reg. 32(3A)(b)](https://www.legislation.gov.uk/uksi/2008/2924/regulation/32/3A/b) substituted (12.3.2019) by [The Merchant Shipping and Other Transport (Environmental Protection) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/311)](https://www.legislation.gov.uk/uksi/2019/311), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/311/regulation/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2019/311/regulation/3/3)
+
+[^key-bbc01f9ca31bd441457156e690e25c82]: Textual amendment: Words in [reg. 32(3A)(b)](https://www.legislation.gov.uk/uksi/2008/2924/regulation/32/3A/b) omitted (31.12.2020) by virtue of [The Merchant Shipping and Other Transport (Environmental Protection) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/311)](https://www.legislation.gov.uk/uksi/2019/311), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/311/regulation/1/3), [6(3)](https://www.legislation.gov.uk/uksi/2019/311/regulation/6/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-4d6421d1640f13b52fb0ecb5cb6c3059]: Textual amendment: [Reg. 32(3B)](https://www.legislation.gov.uk/uksi/2008/2924/regulation/32/3B) omitted (14.1.2011) by virtue of [The Motor Fuel (Composition and Content) and Merchant Shipping (Prevention of Air Pollution from Ships) (Amendment) Regulations 2010 (S.I. 2010/3035)](https://www.legislation.gov.uk/uksi/2010/3035), [regs. 1](https://www.legislation.gov.uk/uksi/2010/3035/regulation/1), [16(3)](https://www.legislation.gov.uk/uksi/2010/3035/regulation/16/3)
+
+[^key-ba42123ec6ed624f1876adf1764e86c0]: Textual amendment: Words in [reg. 32(5)](https://www.legislation.gov.uk/uksi/2008/2924/regulation/32/5) inserted (20.4.2010) by [The Merchant Shipping (Prevention of Air Pollution from Ships) (Amendment) Regulations 2010 (S.I. 2010/895)](https://www.legislation.gov.uk/uksi/2010/895), [reg. 1](https://www.legislation.gov.uk/uksi/2010/895/regulation/1), [Sch. 2 para. 12(e)](https://www.legislation.gov.uk/uksi/2010/895/schedule/2/paragraph/12/e)
+
+[^key-99ca3156915aa50ca1a6d055a64c5563]: Textual amendment: Words in [reg. 34](https://www.legislation.gov.uk/uksi/2008/2924/regulation/34) substituted (22.10.2021) by [The Merchant Shipping (Prevention of Air Pollution from Ships) (Amendment) Regulations 2021 (S.I. 2021/1108)](https://www.legislation.gov.uk/uksi/2021/1108), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2021/1108/regulation/1/b), [2(12)(a)](https://www.legislation.gov.uk/uksi/2021/1108/regulation/2/12/a)
+
+[^key-1d9ff5420517fb0b02d043160c0a9d28]: Textual amendment: Words in [reg. 34(a)](https://www.legislation.gov.uk/uksi/2008/2924/regulation/34/a) substituted (22.10.2021) by [The Merchant Shipping (Prevention of Air Pollution from Ships) (Amendment) Regulations 2021 (S.I. 2021/1108)](https://www.legislation.gov.uk/uksi/2021/1108), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2021/1108/regulation/1/b), [2(12)(a)](https://www.legislation.gov.uk/uksi/2021/1108/regulation/2/12/a)
+
+[^key-e9c6c304885e76ded989fe25dde274e0]: Textual amendment: Words in [reg. 34(b)](https://www.legislation.gov.uk/uksi/2008/2924/regulation/34/b) substituted (22.10.2021) by [The Merchant Shipping (Prevention of Air Pollution from Ships) (Amendment) Regulations 2021 (S.I. 2021/1108)](https://www.legislation.gov.uk/uksi/2021/1108), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2021/1108/regulation/1/b), [2(12)(b)](https://www.legislation.gov.uk/uksi/2021/1108/regulation/2/12/b)
+
+[^key-cbf49755fc341f0f7a8b5e42d99d610e]: Textual amendment: Words in [reg. 35(1)](https://www.legislation.gov.uk/uksi/2008/2924/regulation/35/1) substituted (20.4.2010) by [The Merchant Shipping (Prevention of Air Pollution from Ships) (Amendment) Regulations 2010 (S.I. 2010/895)](https://www.legislation.gov.uk/uksi/2010/895), [reg. 1](https://www.legislation.gov.uk/uksi/2010/895/regulation/1), [Sch. 2 para. 13](https://www.legislation.gov.uk/uksi/2010/895/schedule/2/paragraph/13)
+
+[^key-a6f455e0d9e84c815dda5f9735f8b91e]: Textual amendment: Words in [reg. 35(1)](https://www.legislation.gov.uk/uksi/2008/2924/regulation/35/1) substituted (22.10.2021) by [The Merchant Shipping (Prevention of Air Pollution from Ships) (Amendment) Regulations 2021 (S.I. 2021/1108)](https://www.legislation.gov.uk/uksi/2021/1108), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2021/1108/regulation/1/b), [2(13)](https://www.legislation.gov.uk/uksi/2021/1108/regulation/2/13)
+
+[^key-50927b9a8bbe2c8e3e6e121bd6ac2a14]: Textual amendment: Words in [reg. 36(1)](https://www.legislation.gov.uk/uksi/2008/2924/regulation/36/1) substituted (22.10.2021) by [The Merchant Shipping (Prevention of Air Pollution from Ships) (Amendment) Regulations 2021 (S.I. 2021/1108)](https://www.legislation.gov.uk/uksi/2021/1108), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2021/1108/regulation/1/b), [2(13)](https://www.legislation.gov.uk/uksi/2021/1108/regulation/2/13)
+
+[^key-a95d1d002c12d457d9255264676e9768]: Textual amendment: Words in [reg. 36(1)](https://www.legislation.gov.uk/uksi/2008/2924/regulation/36/1) substituted (20.4.2010) by [The Merchant Shipping (Prevention of Air Pollution from Ships) (Amendment) Regulations 2010 (S.I. 2010/895)](https://www.legislation.gov.uk/uksi/2010/895), [reg. 1](https://www.legislation.gov.uk/uksi/2010/895/regulation/1), [Sch. 2 para. 14](https://www.legislation.gov.uk/uksi/2010/895/schedule/2/paragraph/14)
+
+[^key-794a070fae6351f947a61696eca486ac]: Textual amendment: Words in [reg. 36(3)(a)](https://www.legislation.gov.uk/uksi/2008/2924/regulation/36/3/a) substituted (22.10.2021) by [The Merchant Shipping (Prevention of Air Pollution from Ships) (Amendment) Regulations 2021 (S.I. 2021/1108)](https://www.legislation.gov.uk/uksi/2021/1108), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2021/1108/regulation/1/b), [2(13)](https://www.legislation.gov.uk/uksi/2021/1108/regulation/2/13)
+
+[^key-314ff218b8fac9ba6453cc16efdb3859]: Textual amendment: Words in [reg. 36(3)(a)](https://www.legislation.gov.uk/uksi/2008/2924/regulation/36/3/a) substituted (20.4.2010) by [The Merchant Shipping (Prevention of Air Pollution from Ships) (Amendment) Regulations 2010 (S.I. 2010/895)](https://www.legislation.gov.uk/uksi/2010/895), [reg. 1](https://www.legislation.gov.uk/uksi/2010/895/regulation/1), [Sch. 2 para. 14](https://www.legislation.gov.uk/uksi/2010/895/schedule/2/paragraph/14)
+
+[^key-d4e1001ca1be7ebc4a1f740cb5773ec2]: Textual amendment: Words in [reg. 37(2)](https://www.legislation.gov.uk/uksi/2008/2924/regulation/37/2) substituted (20.4.2010) by [The Merchant Shipping (Prevention of Air Pollution from Ships) (Amendment) Regulations 2010 (S.I. 2010/895)](https://www.legislation.gov.uk/uksi/2010/895), [reg. 1](https://www.legislation.gov.uk/uksi/2010/895/regulation/1), [Sch. 2 para. 15(a)](https://www.legislation.gov.uk/uksi/2010/895/schedule/2/paragraph/15/a)
+
+[^key-57456c2e1c39adf2dbb7459f0390bd4e]: Textual amendment: Words in [reg. 37(2)](https://www.legislation.gov.uk/uksi/2008/2924/regulation/37/2) substituted (22.10.2021) by [The Merchant Shipping (Prevention of Air Pollution from Ships) (Amendment) Regulations 2021 (S.I. 2021/1108)](https://www.legislation.gov.uk/uksi/2021/1108), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2021/1108/regulation/1/b), [2(13)](https://www.legislation.gov.uk/uksi/2021/1108/regulation/2/13)
+
+[^key-6e788bf6045c74356be7eaf2edd36d73]: Textual amendment: Words in [reg. 37(2)(b)](https://www.legislation.gov.uk/uksi/2008/2924/regulation/37/2/b) substituted (20.4.2010) by [The Merchant Shipping (Prevention of Air Pollution from Ships) (Amendment) Regulations 2010 (S.I. 2010/895)](https://www.legislation.gov.uk/uksi/2010/895), [reg. 1](https://www.legislation.gov.uk/uksi/2010/895/regulation/1), [Sch. 2 para. 15(b)](https://www.legislation.gov.uk/uksi/2010/895/schedule/2/paragraph/15/b)
+
+[^key-61f3b63ec45e950e300ae1e69f4bd65f]: Textual amendment: [Reg. 38](https://www.legislation.gov.uk/uksi/2008/2924/regulation/38) added (16.12.2014) by [The Merchant Shipping (Prevention of Air Pollution from Ships) and Motor Fuel (Composition and Content) (Amendment) Regulations 2014 (S.I. 2014/3076)](https://www.legislation.gov.uk/uksi/2014/3076), [regs. 1](https://www.legislation.gov.uk/uksi/2014/3076/regulation/1), [2(5)](https://www.legislation.gov.uk/uksi/2014/3076/regulation/2/5)
+
+[^f00020]: Footnote: [S.I. 1997/1510](https://www.legislation.gov.uk/uksi/1997/1510), amended by [S.I.1998/1916](https://www.legislation.gov.uk/uksi/1998/1916) and [1999/3206](https://www.legislation.gov.uk/uksi/1999/3206).
+
+[^f00021]: Footnote: Cmnd 4332.
+
+[^f00022]: Footnote: Regulation 12C was inserted by regulation 2(2) of [S.I. 1998/1916](https://www.legislation.gov.uk/uksi/1998/1916).
+
+[^f00023]: Footnote: [S.I. 1988/1909](https://www.legislation.gov.uk/uksi/1988/1909), amended by [S.I. 1998/1916](https://www.legislation.gov.uk/uksi/1998/1916) and [1999/3206](https://www.legislation.gov.uk/uksi/1999/3206).
+
+[^key-69aeaac6efe9b8ac71c644ae4d537c26]: Textual amendment: Words in [Sch. 2 para. 1(c)](https://www.legislation.gov.uk/uksi/2008/2924/schedule/2/paragraph/1/c) inserted (31.12.2020) by [The Merchant Shipping and Other Transport (Environmental Protection) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/311)](https://www.legislation.gov.uk/uksi/2019/311), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/311/regulation/1/3), [6(4)](https://www.legislation.gov.uk/uksi/2019/311/regulation/6/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-d9e16bf928e91366678b9a6c470cd556]: Textual amendment: [Sch. 2 para. 1A](https://www.legislation.gov.uk/uksi/2008/2924/schedule/2/paragraph/1A) inserted (22.10.2021) by [The Merchant Shipping (Prevention of Air Pollution from Ships) (Amendment) Regulations 2021 (S.I. 2021/1108)](https://www.legislation.gov.uk/uksi/2021/1108), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2021/1108/regulation/1/b), [2(14)](https://www.legislation.gov.uk/uksi/2021/1108/regulation/2/14)
+
+[^f00024]: Footnote: O.J. L164, 30.6.1994 15 -38.
+
+[^f00025]: Footnote: O.J. L214, 26.8.2003 18-35.
+
+[^key-1bdf64e233f1b006b3919b460f549dbb]: Textual amendment: [Sch. 2ZA](https://www.legislation.gov.uk/uksi/2008/2924/schedule/2ZA) inserted (22.10.2021) by [The Merchant Shipping (Prevention of Air Pollution from Ships) (Amendment) Regulations 2021 (S.I. 2021/1108)](https://www.legislation.gov.uk/uksi/2021/1108), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2021/1108/regulation/1/b), [2(15)](https://www.legislation.gov.uk/uksi/2021/1108/regulation/2/15)
+
+[^key-47d59219c0eb7284249ed508527c4bc7]: Textual amendment: Sch. 2A inserted (20.4.2010) by [The Merchant Shipping (Prevention of Air Pollution from Ships) (Amendment) Regulations 2010 (S.I. 2010/895)](https://www.legislation.gov.uk/uksi/2010/895), [regs. 1](https://www.legislation.gov.uk/uksi/2010/895/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2010/895/regulation/2/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2010/895/schedule/1)
+
+[^key-4ed59580fd51af58856aa4e7a2d1c17e]: Textual amendment: Words in [Sch. 2A para. 1](https://www.legislation.gov.uk/uksi/2008/2924/schedule/2A/paragraph/1) omitted (16.12.2014) by virtue of [The Merchant Shipping (Prevention of Air Pollution from Ships) and Motor Fuel (Composition and Content) (Amendment) Regulations 2014 (S.I. 2014/3076)](https://www.legislation.gov.uk/uksi/2014/3076), [regs. 1](https://www.legislation.gov.uk/uksi/2014/3076/regulation/1), [2(6)(a)(i)](https://www.legislation.gov.uk/uksi/2014/3076/regulation/2/6/a/i)
+
+[^key-aaa035740473c788a997ad4e3e195f1c]: Textual amendment: Words in [Sch. 2A para. 1](https://www.legislation.gov.uk/uksi/2008/2924/schedule/2A/paragraph/1) substituted (16.12.2014) by [The Merchant Shipping (Prevention of Air Pollution from Ships) and Motor Fuel (Composition and Content) (Amendment) Regulations 2014 (S.I. 2014/3076)](https://www.legislation.gov.uk/uksi/2014/3076), [regs. 1](https://www.legislation.gov.uk/uksi/2014/3076/regulation/1), [2(6)(a)(ii)](https://www.legislation.gov.uk/uksi/2014/3076/regulation/2/6/a/ii)
+
+[^key-410bdb09113bbbfb4d57c22762a4d13f]: Textual amendment: Words in [Sch. 2A para. 1](https://www.legislation.gov.uk/uksi/2008/2924/schedule/2A/paragraph/1) substituted (22.10.2021) by [The Merchant Shipping (Prevention of Air Pollution from Ships) (Amendment) Regulations 2021 (S.I. 2021/1108)](https://www.legislation.gov.uk/uksi/2021/1108), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2021/1108/regulation/1/b), [2(16)(a)(i)](https://www.legislation.gov.uk/uksi/2021/1108/regulation/2/16/a/i)
+
+[^key-2436419f38538d36d9c67020adaff8ca]: Textual amendment: Words in [Sch. 2A para. 1](https://www.legislation.gov.uk/uksi/2008/2924/schedule/2A/paragraph/1) substituted (12.3.2019) by [The Merchant Shipping and Other Transport (Environmental Protection) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/311)](https://www.legislation.gov.uk/uksi/2019/311), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/311/regulation/1/2), [3(4)(a)](https://www.legislation.gov.uk/uksi/2019/311/regulation/3/4/a)
+
+[^key-6f331d8a01adb8ac5f35b3e82d190a30]: Textual amendment: Words in [Sch. 2A para. 1](https://www.legislation.gov.uk/uksi/2008/2924/schedule/2A/paragraph/1) omitted (14.1.2011) by virtue of [The Motor Fuel (Composition and Content) and Merchant Shipping (Prevention of Air Pollution from Ships) (Amendment) Regulations 2010 (S.I. 2010/3035)](https://www.legislation.gov.uk/uksi/2010/3035), [regs. 1](https://www.legislation.gov.uk/uksi/2010/3035/regulation/1), [17(2)](https://www.legislation.gov.uk/uksi/2010/3035/regulation/17/2)
+
+[^key-02e380d9d4cd334ddfebdb96f8270db4]: Textual amendment: Words in [Sch. 2A para. 1](https://www.legislation.gov.uk/uksi/2008/2924/schedule/2A/paragraph/1) omitted (22.10.2021) by virtue of [The Merchant Shipping (Prevention of Air Pollution from Ships) (Amendment) Regulations 2021 (S.I. 2021/1108)](https://www.legislation.gov.uk/uksi/2021/1108), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2021/1108/regulation/1/b), [2(16)(a)(ii)](https://www.legislation.gov.uk/uksi/2021/1108/regulation/2/16/a/ii)
+
+[^key-b04c329fff307a43c685240bea924b8c]: Textual amendment: [Sch. 2A para. 2(1)-(4)](https://www.legislation.gov.uk/uksi/2008/2924/schedule/2A/paragraph/2/1) substituted (16.12.2014) by [The Merchant Shipping (Prevention of Air Pollution from Ships) and Motor Fuel (Composition and Content) (Amendment) Regulations 2014 (S.I. 2014/3076)](https://www.legislation.gov.uk/uksi/2014/3076), [regs. 1](https://www.legislation.gov.uk/uksi/2014/3076/regulation/1), [2(6)(b)](https://www.legislation.gov.uk/uksi/2014/3076/regulation/2/6/b)
+
+[^key-0312af0ab94f927831768d11d44027ed]: Textual amendment: Word in [Sch. 2A para. 2(2)](https://www.legislation.gov.uk/uksi/2008/2924/schedule/2A/paragraph/2/2) substituted (22.10.2021) by [The Merchant Shipping (Prevention of Air Pollution from Ships) (Amendment) Regulations 2021 (S.I. 2021/1108)](https://www.legislation.gov.uk/uksi/2021/1108), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2021/1108/regulation/1/b), [2(16)(b)(i)(aa)](https://www.legislation.gov.uk/uksi/2021/1108/regulation/2/16/b/i/aa)
+
+[^key-3e45fcaa0ca6e9bebe8092b267b7ddbc]: Textual amendment: Words in [Sch. 2A para. 2(2)(a)](https://www.legislation.gov.uk/uksi/2008/2924/schedule/2A/paragraph/2/2/a) omitted (22.10.2021) by virtue of [The Merchant Shipping (Prevention of Air Pollution from Ships) (Amendment) Regulations 2021 (S.I. 2021/1108)](https://www.legislation.gov.uk/uksi/2021/1108), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2021/1108/regulation/1/b), [2(16)(b)(i)(bb)](https://www.legislation.gov.uk/uksi/2021/1108/regulation/2/16/b/i/bb)
+
+[^key-93539536b44dc61fcafadb2ee518ba2d]: Textual amendment: [Sch. 2A para. 2(2)(b)](https://www.legislation.gov.uk/uksi/2008/2924/schedule/2A/paragraph/2/2/b) omitted (22.10.2021) by virtue of [The Merchant Shipping (Prevention of Air Pollution from Ships) (Amendment) Regulations 2021 (S.I. 2021/1108)](https://www.legislation.gov.uk/uksi/2021/1108), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2021/1108/regulation/1/b), [2(16)(b)(i)(cc)](https://www.legislation.gov.uk/uksi/2021/1108/regulation/2/16/b/i/cc)
+
+[^key-ff58b8b17a5c2b9767757a7ba88440f6]: Textual amendment: Words in [Sch. 2A para. 2(2)(c)](https://www.legislation.gov.uk/uksi/2008/2924/schedule/2A/paragraph/2/2/c) substituted (22.10.2021) by [The Merchant Shipping (Prevention of Air Pollution from Ships) (Amendment) Regulations 2021 (S.I. 2021/1108)](https://www.legislation.gov.uk/uksi/2021/1108), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2021/1108/regulation/1/b), [2(16)(b)(i)(dd)](https://www.legislation.gov.uk/uksi/2021/1108/regulation/2/16/b/i/dd)
+
+[^key-c017a029ec188a04fb77aaabc13047c3]: Textual amendment: [Sch. 2A para. 2(3)](https://www.legislation.gov.uk/uksi/2008/2924/schedule/2A/paragraph/2/3) substituted (22.10.2021) by [The Merchant Shipping (Prevention of Air Pollution from Ships) (Amendment) Regulations 2021 (S.I. 2021/1108)](https://www.legislation.gov.uk/uksi/2021/1108), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2021/1108/regulation/1/b), [2(16)(b)(ii)](https://www.legislation.gov.uk/uksi/2021/1108/regulation/2/16/b/ii)
+
+[^key-9686b8083c7edfd3cd5f6dda0c8009df]: Textual amendment: [Sch. 2A para. 2(3A)](https://www.legislation.gov.uk/uksi/2008/2924/schedule/2A/paragraph/2/3A) inserted (22.10.2021) by [The Merchant Shipping (Prevention of Air Pollution from Ships) (Amendment) Regulations 2021 (S.I. 2021/1108)](https://www.legislation.gov.uk/uksi/2021/1108), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2021/1108/regulation/1/b), [2(16)(b)(iii)](https://www.legislation.gov.uk/uksi/2021/1108/regulation/2/16/b/iii)
+
+[^key-0690b453bf1197556a3bb9f24b0e37fc]: Textual amendment: Words in [Sch. 2A para. 2(4)(a)](https://www.legislation.gov.uk/uksi/2008/2924/schedule/2A/paragraph/2/4/a) substituted (22.10.2021) by [The Merchant Shipping (Prevention of Air Pollution from Ships) (Amendment) Regulations 2021 (S.I. 2021/1108)](https://www.legislation.gov.uk/uksi/2021/1108), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2021/1108/regulation/1/b), [2(16)(b)(iv)](https://www.legislation.gov.uk/uksi/2021/1108/regulation/2/16/b/iv)
+
+[^key-35613a6cfc23f5cf46911d714ef61f18]: Textual amendment: Words in [Sch. 2A para. 2(5)](https://www.legislation.gov.uk/uksi/2008/2924/schedule/2A/paragraph/2/5) omitted (22.10.2021) by virtue of [The Merchant Shipping (Prevention of Air Pollution from Ships) (Amendment) Regulations 2021 (S.I. 2021/1108)](https://www.legislation.gov.uk/uksi/2021/1108), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2021/1108/regulation/1/b), [2(16)(b)(v)](https://www.legislation.gov.uk/uksi/2021/1108/regulation/2/16/b/v)
+
+[^key-d4e5690721dfd9521904165dcb778000]: Textual amendment: [Sch. 2A para. 3](https://www.legislation.gov.uk/uksi/2008/2924/schedule/2A/paragraph/3) omitted (22.10.2021) by virtue of [The Merchant Shipping (Prevention of Air Pollution from Ships) (Amendment) Regulations 2021 (S.I. 2021/1108)](https://www.legislation.gov.uk/uksi/2021/1108), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2021/1108/regulation/1/b), [2(16)(c)](https://www.legislation.gov.uk/uksi/2021/1108/regulation/2/16/c)
+
+[^key-a97a1876577e203b400e7154305dd885]: Textual amendment: Words in [Sch. 2A para. 4](https://www.legislation.gov.uk/uksi/2008/2924/schedule/2A/paragraph/4) heading substituted (22.10.2021) by [The Merchant Shipping (Prevention of Air Pollution from Ships) (Amendment) Regulations 2021 (S.I. 2021/1108)](https://www.legislation.gov.uk/uksi/2021/1108), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2021/1108/regulation/1/b), [2(16)(d)](https://www.legislation.gov.uk/uksi/2021/1108/regulation/2/16/d)
+
+[^key-910d79e07f3e196474031b10871e5792]: Textual amendment: Words in [Sch. 2A para. 4](https://www.legislation.gov.uk/uksi/2008/2924/schedule/2A/paragraph/4) heading omitted (14.1.2011) by virtue of [The Motor Fuel (Composition and Content) and Merchant Shipping (Prevention of Air Pollution from Ships) (Amendment) Regulations 2010 (S.I. 2010/3035)](https://www.legislation.gov.uk/uksi/2010/3035), [regs. 1](https://www.legislation.gov.uk/uksi/2010/3035/regulation/1), [17(3)(a)](https://www.legislation.gov.uk/uksi/2010/3035/regulation/17/3/a)
+
+[^key-5d7c3f9fb04cd5258acd9feb7eee20a2]: Textual amendment: [Sch. 2A para. 4(1)(a)](https://www.legislation.gov.uk/uksi/2008/2924/schedule/2A/paragraph/4/1/a) omitted (14.1.2011) by virtue of [The Motor Fuel (Composition and Content) and Merchant Shipping (Prevention of Air Pollution from Ships) (Amendment) Regulations 2010 (S.I. 2010/3035)](https://www.legislation.gov.uk/uksi/2010/3035), [regs. 1](https://www.legislation.gov.uk/uksi/2010/3035/regulation/1), [17(3)(b)](https://www.legislation.gov.uk/uksi/2010/3035/regulation/17/3/b)
+
+[^key-474aa428b5361383757fed6b937c50c9]: Textual amendment: Word in [Sch. 2A para. 4(2)(c)](https://www.legislation.gov.uk/uksi/2008/2924/schedule/2A/paragraph/4/2/c) inserted (14.1.2011) by [The Motor Fuel (Composition and Content) and Merchant Shipping (Prevention of Air Pollution from Ships) (Amendment) Regulations 2010 (S.I. 2010/3035)](https://www.legislation.gov.uk/uksi/2010/3035), [regs. 1](https://www.legislation.gov.uk/uksi/2010/3035/regulation/1), [17(3)(c)](https://www.legislation.gov.uk/uksi/2010/3035/regulation/17/3/c)
+
+[^key-c464fc14be64153a8b112e8ab0636546]: Textual amendment: [Sch. 2A para. 4(2)(d)](https://www.legislation.gov.uk/uksi/2008/2924/schedule/2A/paragraph/4/2/d) omitted (14.1.2011) by virtue of [The Motor Fuel (Composition and Content) and Merchant Shipping (Prevention of Air Pollution from Ships) (Amendment) Regulations 2010 (S.I. 2010/3035)](https://www.legislation.gov.uk/uksi/2010/3035), [regs. 1](https://www.legislation.gov.uk/uksi/2010/3035/regulation/1), [17(3)(d)](https://www.legislation.gov.uk/uksi/2010/3035/regulation/17/3/d)
+
+[^key-640012b528c90f3b72833ea1401905ec]: Textual amendment: [Sch. 2A para. 4(2)(e)](https://www.legislation.gov.uk/uksi/2008/2924/schedule/2A/paragraph/4/2/e) substituted (16.12.2014) by [The Merchant Shipping (Prevention of Air Pollution from Ships) and Motor Fuel (Composition and Content) (Amendment) Regulations 2014 (S.I. 2014/3076)](https://www.legislation.gov.uk/uksi/2014/3076), [regs. 1](https://www.legislation.gov.uk/uksi/2014/3076/regulation/1), [2(6)(d)](https://www.legislation.gov.uk/uksi/2014/3076/regulation/2/6/d)
+
+[^key-df7035351c43a6099024fb0eeeba5376]: Textual amendment: Words in [Sch. 2A para. 4(2)(e)(ii)](https://www.legislation.gov.uk/uksi/2008/2924/schedule/2A/paragraph/4/2/e/ii) substituted (12.3.2019) by [The Merchant Shipping and Other Transport (Environmental Protection) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/311)](https://www.legislation.gov.uk/uksi/2019/311), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/311/regulation/1/2), [3(4)(d)](https://www.legislation.gov.uk/uksi/2019/311/regulation/3/4/d)
+
+[^key-9ec210ea63ed5e2b27d037d68540707a]: Textual amendment: Words in [Sch. 2A para. 4(2)(e)(ii)](https://www.legislation.gov.uk/uksi/2008/2924/schedule/2A/paragraph/4/2/e/ii) omitted (31.12.2020) by virtue of [The Merchant Shipping and Other Transport (Environmental Protection) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/311)](https://www.legislation.gov.uk/uksi/2019/311), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/311/regulation/1/3), [6(5)(c)](https://www.legislation.gov.uk/uksi/2019/311/regulation/6/5/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-26d76df3301b5981e3c1d501dbce7c05]: Textual amendment: Words in [Sch. 2A para. 4(3)](https://www.legislation.gov.uk/uksi/2008/2924/schedule/2A/paragraph/4/3) omitted (14.1.2011) by virtue of [The Motor Fuel (Composition and Content) and Merchant Shipping (Prevention of Air Pollution from Ships) (Amendment) Regulations 2010 (S.I. 2010/3035)](https://www.legislation.gov.uk/uksi/2010/3035), [regs. 1](https://www.legislation.gov.uk/uksi/2010/3035/regulation/1), [17(3)(e)](https://www.legislation.gov.uk/uksi/2010/3035/regulation/17/3/e)
+
+[^key-af18092dd037c814008d2cfe6c50d173]: Textual amendment: Words in [Sch. 2A para. 4(3)](https://www.legislation.gov.uk/uksi/2008/2924/schedule/2A/paragraph/4/3) substituted (22.10.2021) by [The Merchant Shipping (Prevention of Air Pollution from Ships) (Amendment) Regulations 2021 (S.I. 2021/1108)](https://www.legislation.gov.uk/uksi/2021/1108), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2021/1108/regulation/1/b), [2(16)(d)](https://www.legislation.gov.uk/uksi/2021/1108/regulation/2/16/d)
+
+[^key-2d01e2f2e203945cb1982081fb0227a9]: Textual amendment: Words in [Sch. 2A para. 4(4)](https://www.legislation.gov.uk/uksi/2008/2924/schedule/2A/paragraph/4/4) omitted (14.1.2011) by virtue of [The Motor Fuel (Composition and Content) and Merchant Shipping (Prevention of Air Pollution from Ships) (Amendment) Regulations 2010 (S.I. 2010/3035)](https://www.legislation.gov.uk/uksi/2010/3035), [regs. 1](https://www.legislation.gov.uk/uksi/2010/3035/regulation/1), [17(3)(f)](https://www.legislation.gov.uk/uksi/2010/3035/regulation/17/3/f)
+
+[^key-c044709bb14255c677ff3f7d1a0ae77c]: Textual amendment: Words in [Sch. 2A para. 4(5)](https://www.legislation.gov.uk/uksi/2008/2924/schedule/2A/paragraph/4/5) omitted (14.1.2011) by virtue of [The Motor Fuel (Composition and Content) and Merchant Shipping (Prevention of Air Pollution from Ships) (Amendment) Regulations 2010 (S.I. 2010/3035)](https://www.legislation.gov.uk/uksi/2010/3035), [regs. 1](https://www.legislation.gov.uk/uksi/2010/3035/regulation/1), [17(3)(g)](https://www.legislation.gov.uk/uksi/2010/3035/regulation/17/3/g)
+
+[^key-71af987eea213f2d1b93162eef8b809e]: Textual amendment: [Sch. 2A para. 5(1)-(5)](https://www.legislation.gov.uk/uksi/2008/2924/schedule/2A/paragraph/5/1) substituted for Sch. 2A para. 5(1)-(6) (16.12.2014) by [The Merchant Shipping (Prevention of Air Pollution from Ships) and Motor Fuel (Composition and Content) (Amendment) Regulations 2014 (S.I. 2014/3076)](https://www.legislation.gov.uk/uksi/2014/3076), [regs. 1](https://www.legislation.gov.uk/uksi/2014/3076/regulation/1), [2(6)(e)](https://www.legislation.gov.uk/uksi/2014/3076/regulation/2/6/e)
+
+[^key-e530141ecb2013d9c2f66743bf97ff69]: Textual amendment: Words in [Sch. 2A para. 5(1)](https://www.legislation.gov.uk/uksi/2008/2924/schedule/2A/paragraph/5/1) omitted (22.10.2021) by virtue of [The Merchant Shipping (Prevention of Air Pollution from Ships) (Amendment) Regulations 2021 (S.I. 2021/1108)](https://www.legislation.gov.uk/uksi/2021/1108), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2021/1108/regulation/1/b), [2(16)(e)(i)](https://www.legislation.gov.uk/uksi/2021/1108/regulation/2/16/e/i)
+
+[^key-73ebb0cad88066822cfbbabbdb4ca0cf]: Textual amendment: Words in [Sch. 2A para. 5(1)](https://www.legislation.gov.uk/uksi/2008/2924/schedule/2A/paragraph/5/1) omitted (22.10.2021) by virtue of [The Merchant Shipping (Prevention of Air Pollution from Ships) (Amendment) Regulations 2021 (S.I. 2021/1108)](https://www.legislation.gov.uk/uksi/2021/1108), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2021/1108/regulation/1/b), [2(16)(e)(ii)](https://www.legislation.gov.uk/uksi/2021/1108/regulation/2/16/e/ii)
+
+[^key-114f777bb8e00fd35e90e3aaf66262cd]: Textual amendment: Words in [Sch. 2A para. 5(2)](https://www.legislation.gov.uk/uksi/2008/2924/schedule/2A/paragraph/5/2) omitted (22.10.2021) by virtue of [The Merchant Shipping (Prevention of Air Pollution from Ships) (Amendment) Regulations 2021 (S.I. 2021/1108)](https://www.legislation.gov.uk/uksi/2021/1108), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2021/1108/regulation/1/b), [2(16)(e)(i)](https://www.legislation.gov.uk/uksi/2021/1108/regulation/2/16/e/i)
+
+[^key-0356f8c0d26cb9349d16141d132faae0]: Textual amendment: Words in [Sch. 2A para. 5(2)](https://www.legislation.gov.uk/uksi/2008/2924/schedule/2A/paragraph/5/2) omitted (22.10.2021) by virtue of [The Merchant Shipping (Prevention of Air Pollution from Ships) (Amendment) Regulations 2021 (S.I. 2021/1108)](https://www.legislation.gov.uk/uksi/2021/1108), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2021/1108/regulation/1/b), [2(16)(e)(ii)](https://www.legislation.gov.uk/uksi/2021/1108/regulation/2/16/e/ii)
+
+[^key-a48ae82509407b095810ff2fbe84fc40]: Textual amendment: Words in [Sch. 2A para. 5(3)](https://www.legislation.gov.uk/uksi/2008/2924/schedule/2A/paragraph/5/3) omitted (22.10.2021) by virtue of [The Merchant Shipping (Prevention of Air Pollution from Ships) (Amendment) Regulations 2021 (S.I. 2021/1108)](https://www.legislation.gov.uk/uksi/2021/1108), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2021/1108/regulation/1/b), [2(16)(e)(ii)](https://www.legislation.gov.uk/uksi/2021/1108/regulation/2/16/e/ii)
+
+[^key-b9c0e07d9600963c13a7aa86ba267496]: Textual amendment: Words in [Sch. 2A para. 5(4)](https://www.legislation.gov.uk/uksi/2008/2924/schedule/2A/paragraph/5/4) omitted (22.10.2021) by virtue of [The Merchant Shipping (Prevention of Air Pollution from Ships) (Amendment) Regulations 2021 (S.I. 2021/1108)](https://www.legislation.gov.uk/uksi/2021/1108), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2021/1108/regulation/1/b), [2(16)(e)(ii)](https://www.legislation.gov.uk/uksi/2021/1108/regulation/2/16/e/ii)
+
+[^key-5cef79f55449372aa38231991f4e077a]: Textual amendment: [Sch. 2A para. 5(6)](https://www.legislation.gov.uk/uksi/2008/2924/schedule/2A/paragraph/5/6) inserted (22.10.2021) by [The Merchant Shipping (Prevention of Air Pollution from Ships) (Amendment) Regulations 2021 (S.I. 2021/1108)](https://www.legislation.gov.uk/uksi/2021/1108), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2021/1108/regulation/1/b), [2(16)(e)(iii)](https://www.legislation.gov.uk/uksi/2021/1108/regulation/2/16/e/iii)
+
+[^key-66d23c6750a16c18dfc94ee4b4c719cb]: Textual amendment: [Sch. 2A para. 6(4)](https://www.legislation.gov.uk/uksi/2008/2924/schedule/2A/paragraph/6/4) substituted (31.12.2020) by [The Merchant Shipping and Other Transport (Environmental Protection) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/311)](https://www.legislation.gov.uk/uksi/2019/311), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/311/regulation/1/3), [6(5)(d)(i)](https://www.legislation.gov.uk/uksi/2019/311/regulation/6/5/d/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-e0785aba2d4ff7dfa99e3cc0ae4db07c]: Textual amendment: Word in [Sch. 2A para. 6(5)](https://www.legislation.gov.uk/uksi/2008/2924/schedule/2A/paragraph/6/5) omitted (31.12.2020) by virtue of [The Merchant Shipping and Other Transport (Environmental Protection) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/311)](https://www.legislation.gov.uk/uksi/2019/311), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/311/regulation/1/3), [6(5)(d)(ii)](https://www.legislation.gov.uk/uksi/2019/311/regulation/6/5/d/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-c65c3c5387c8a40bb523449610d8f555]: Textual amendment: Words in [Sch. 2A para. 7](https://www.legislation.gov.uk/uksi/2008/2924/schedule/2A/paragraph/7) heading substituted (16.12.2014) by [The Merchant Shipping (Prevention of Air Pollution from Ships) and Motor Fuel (Composition and Content) (Amendment) Regulations 2014 (S.I. 2014/3076)](https://www.legislation.gov.uk/uksi/2014/3076), [regs. 1](https://www.legislation.gov.uk/uksi/2014/3076/regulation/1), [2(6)(f)(i)](https://www.legislation.gov.uk/uksi/2014/3076/regulation/2/6/f/i)
+
+[^key-f055f5ff4f13f77860e83fd23ae7bc43]: Textual amendment: Words in [Sch. 2A para. 7(1)](https://www.legislation.gov.uk/uksi/2008/2924/schedule/2A/paragraph/7/1) substituted (16.12.2014) by [The Merchant Shipping (Prevention of Air Pollution from Ships) and Motor Fuel (Composition and Content) (Amendment) Regulations 2014 (S.I. 2014/3076)](https://www.legislation.gov.uk/uksi/2014/3076), [regs. 1](https://www.legislation.gov.uk/uksi/2014/3076/regulation/1), [2(6)(f)(i)](https://www.legislation.gov.uk/uksi/2014/3076/regulation/2/6/f/i)
+
+[^M_F_d0b35750-9b2b-4d84-f26f-f2ba2944aac7]: Textual amendment: Words in Sch. 2A para. 7(1) omitted (16.12.2014) by virtue of [The Merchant Shipping (Prevention of Air Pollution from Ships) and Motor Fuel (Composition and Content) (Amendment) Regulations 2014 (S.I. 2014/3076)](https://www.legislation.gov.uk/uksi/2014/3076), [regs. 1](https://www.legislation.gov.uk/uksi/2014/3076/regulation/1), [2(6)(f)(i)](https://www.legislation.gov.uk/uksi/2014/3076/regulation/2/6/f/i)
+
+[^key-9d7ae81ef023a9389513907d7d509e56]: Textual amendment: Words in [Sch. 2A para. 7(3)](https://www.legislation.gov.uk/uksi/2008/2924/schedule/2A/paragraph/7/3) substituted (16.12.2014) by [The Merchant Shipping (Prevention of Air Pollution from Ships) and Motor Fuel (Composition and Content) (Amendment) Regulations 2014 (S.I. 2014/3076)](https://www.legislation.gov.uk/uksi/2014/3076), [regs. 1](https://www.legislation.gov.uk/uksi/2014/3076/regulation/1), [2(6)(f)(ii)](https://www.legislation.gov.uk/uksi/2014/3076/regulation/2/6/f/ii)
+
+[^key-574fb12756d3b8d7d6b3fc6254a8611a]: Textual amendment: [Sch. 2A para. 7(4)](https://www.legislation.gov.uk/uksi/2008/2924/schedule/2A/paragraph/7/4) omitted (16.12.2014) by virtue of [The Merchant Shipping (Prevention of Air Pollution from Ships) and Motor Fuel (Composition and Content) (Amendment) Regulations 2014 (S.I. 2014/3076)](https://www.legislation.gov.uk/uksi/2014/3076), [regs. 1](https://www.legislation.gov.uk/uksi/2014/3076/regulation/1), [2(6)(f)(iii)](https://www.legislation.gov.uk/uksi/2014/3076/regulation/2/6/f/iii)
+
+[^key-3757060ba545bafcd50ab1d01e425a9f]: Textual amendment: [Sch. 2A para. 8](https://www.legislation.gov.uk/uksi/2008/2924/schedule/2A/paragraph/8) omitted (14.1.2011) by virtue of [The Motor Fuel (Composition and Content) and Merchant Shipping (Prevention of Air Pollution from Ships) (Amendment) Regulations 2010 (S.I. 2010/3035)](https://www.legislation.gov.uk/uksi/2010/3035), [regs. 1](https://www.legislation.gov.uk/uksi/2010/3035/regulation/1), [17(4)](https://www.legislation.gov.uk/uksi/2010/3035/regulation/17/4)
+
+[^key-50dc47ef36c4c0aa57ecebe21320acbb]: Textual amendment: [Sch. 2A para. 9](https://www.legislation.gov.uk/uksi/2008/2924/schedule/2A/paragraph/9) omitted (14.1.2011) by virtue of [The Motor Fuel (Composition and Content) and Merchant Shipping (Prevention of Air Pollution from Ships) (Amendment) Regulations 2010 (S.I. 2010/3035)](https://www.legislation.gov.uk/uksi/2010/3035), [regs. 1](https://www.legislation.gov.uk/uksi/2010/3035/regulation/1), [17(4)](https://www.legislation.gov.uk/uksi/2010/3035/regulation/17/4)
+
+[^key-fcd24bae13bc7bb3d332d094e49480d0]: Textual amendment: Words in [Sch. 2A para. 10(1)](https://www.legislation.gov.uk/uksi/2008/2924/schedule/2A/paragraph/10/1) substituted (22.10.2021) by [The Merchant Shipping (Prevention of Air Pollution from Ships) (Amendment) Regulations 2021 (S.I. 2021/1108)](https://www.legislation.gov.uk/uksi/2021/1108), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2021/1108/regulation/1/b), [2(16)(f)](https://www.legislation.gov.uk/uksi/2021/1108/regulation/2/16/f)
+
+[^key-739b6082be0eccb9db63187957e9497d]: Textual amendment: Word in [Sch. 2A para. 10(1)](https://www.legislation.gov.uk/uksi/2008/2924/schedule/2A/paragraph/10/1) substituted (16.12.2014) by [The Merchant Shipping (Prevention of Air Pollution from Ships) and Motor Fuel (Composition and Content) (Amendment) Regulations 2014 (S.I. 2014/3076)](https://www.legislation.gov.uk/uksi/2014/3076), [regs. 1](https://www.legislation.gov.uk/uksi/2014/3076/regulation/1), [2(6)(g)(i)](https://www.legislation.gov.uk/uksi/2014/3076/regulation/2/6/g/i)
+
+[^key-fefe4f54924c43d6bee51ba63f446938]: Textual amendment: [Sch. 2A para. 10(2)](https://www.legislation.gov.uk/uksi/2008/2924/schedule/2A/paragraph/10/2)[(3)](https://www.legislation.gov.uk/uksi/2008/2924/schedule/2A/paragraph/10/3) substituted for [Sch. 2A](https://www.legislation.gov.uk/uksi/2008/2924/schedule/2A) para. 10(2)-(4) (16.12.2014) by [The Merchant Shipping (Prevention of Air Pollution from Ships) and Motor Fuel (Composition and Content) (Amendment) Regulations 2014 (S.I. 2014/3076)](https://www.legislation.gov.uk/uksi/2014/3076), [regs. 1](https://www.legislation.gov.uk/uksi/2014/3076/regulation/1), [2(6)(g)(ii)](https://www.legislation.gov.uk/uksi/2014/3076/regulation/2/6/g/ii)
+
+[^key-3237f3d3d11cf9b7b385813a8a5d1d20]: Textual amendment: Words in [Sch. 2A para. 10(3)](https://www.legislation.gov.uk/uksi/2008/2924/schedule/2A/paragraph/10/3) substituted (22.10.2021) by [The Merchant Shipping (Prevention of Air Pollution from Ships) (Amendment) Regulations 2021 (S.I. 2021/1108)](https://www.legislation.gov.uk/uksi/2021/1108), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2021/1108/regulation/1/b), [2(16)(f)](https://www.legislation.gov.uk/uksi/2021/1108/regulation/2/16/f)
+
+[^key-0a2c93ba8a0972c509f6a5b482276269]: Textual amendment: Words in [Sch. 2A para. 10(3)](https://www.legislation.gov.uk/uksi/2008/2924/schedule/2A/paragraph/10/3) substituted (12.3.2019) by [The Merchant Shipping and Other Transport (Environmental Protection) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/311)](https://www.legislation.gov.uk/uksi/2019/311), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/311/regulation/1/2), [3(4)(e)](https://www.legislation.gov.uk/uksi/2019/311/regulation/3/4/e)
+
+[^key-2a31a28255e9635070ee1b7983e3581c]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/uksi/2008/2924/schedule/3) omitted (22.10.2021) by virtue of [The Merchant Shipping (Prevention of Air Pollution from Ships) (Amendment) Regulations 2021 (S.I. 2021/1108)](https://www.legislation.gov.uk/uksi/2021/1108), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2021/1108/regulation/1/b), [2(17)](https://www.legislation.gov.uk/uksi/2021/1108/regulation/2/17)
+
+[^key-56420ab1289fb6dbf1cfb66114f2eaff]: Textual amendment: [Sch. 4](https://www.legislation.gov.uk/uksi/2008/2924/schedule/4) inserted (30.6.2019) by [The Merchant Shipping (Prevention of Air Pollution from Ships) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/940)](https://www.legislation.gov.uk/uksi/2019/940), [reg. 1](https://www.legislation.gov.uk/uksi/2019/940/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2019/940/schedule)
+
+[^key-49388a476ad7b1055a622a92abbbbeeb]: Textual amendment: Words in [Sch. 4](https://www.legislation.gov.uk/uksi/2008/2924/schedule/4) heading inserted (24.4.2023) by [The Merchant Shipping (Prevention of Air Pollution from Ships) (Amendment) Regulations 2023 (S.I. 2023/384)](https://www.legislation.gov.uk/uksi/2023/384), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/384/regulation/1/1), [2(15)(a)](https://www.legislation.gov.uk/uksi/2023/384/regulation/2/15/a)
+
+[^key-7d55e1bb3a5b6cc7696b2d727e67554b]: Textual amendment: [Sch. 4](https://www.legislation.gov.uk/uksi/2008/2924/schedule/4) shoulder note substituted (24.4.2023) by [The Merchant Shipping (Prevention of Air Pollution from Ships) (Amendment) Regulations 2023 (S.I. 2023/384)](https://www.legislation.gov.uk/uksi/2023/384), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/384/regulation/1/1), [2(15)(b)](https://www.legislation.gov.uk/uksi/2023/384/regulation/2/15/b)
+
+[^key-b74ffb79a09e6eea16cafe4db164ee47]: Textual amendment: [Sch. 4 para. 1](https://www.legislation.gov.uk/uksi/2008/2924/schedule/4/paragraph/1) substituted (24.4.2023) by [The Merchant Shipping (Prevention of Air Pollution from Ships) (Amendment) Regulations 2023 (S.I. 2023/384)](https://www.legislation.gov.uk/uksi/2023/384), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/384/regulation/1/1), [2(15)(c)](https://www.legislation.gov.uk/uksi/2023/384/regulation/2/15/c)
+
+[^key-301251e02f93846c12f9d8e3242f0e47]: Textual amendment: [Sch. 4 para. 2](https://www.legislation.gov.uk/uksi/2008/2924/schedule/4/paragraph/2) omitted (24.4.2023) by virtue of [The Merchant Shipping (Prevention of Air Pollution from Ships) (Amendment) Regulations 2023 (S.I. 2023/384)](https://www.legislation.gov.uk/uksi/2023/384), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/384/regulation/1/1), [2(15)(d)](https://www.legislation.gov.uk/uksi/2023/384/regulation/2/15/d)
+
+[^key-046e33d7ec736d33e0cb740d45a06451]: Textual amendment: Words in [Sch. 4 para. 3](https://www.legislation.gov.uk/uksi/2008/2924/schedule/4/paragraph/3) substituted (24.4.2023) by [The Merchant Shipping (Prevention of Air Pollution from Ships) (Amendment) Regulations 2023 (S.I. 2023/384)](https://www.legislation.gov.uk/uksi/2023/384), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/384/regulation/1/1), [2(15)(e)](https://www.legislation.gov.uk/uksi/2023/384/regulation/2/15/e)
+
+[^key-764b39cfb1ae2f74da608d0137963707]: Textual amendment: [Sch. 4 para. 3A](https://www.legislation.gov.uk/uksi/2008/2924/schedule/4/paragraph/3A) inserted (24.4.2023) by [The Merchant Shipping (Prevention of Air Pollution from Ships) (Amendment) Regulations 2023 (S.I. 2023/384)](https://www.legislation.gov.uk/uksi/2023/384), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/384/regulation/1/1), [2(15)(f)](https://www.legislation.gov.uk/uksi/2023/384/regulation/2/15/f)
+
+[^key-7f7f4a37d69b794d06e52c745bd72297]: Textual amendment: Words in [Sch. 4 para. 4](https://www.legislation.gov.uk/uksi/2008/2924/schedule/4/paragraph/4) inserted (24.4.2023) by [The Merchant Shipping (Prevention of Air Pollution from Ships) (Amendment) Regulations 2023 (S.I. 2023/384)](https://www.legislation.gov.uk/uksi/2023/384), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/384/regulation/1/1), [2(15)(g)](https://www.legislation.gov.uk/uksi/2023/384/regulation/2/15/g)
+
+[^key-f6b95aba8f9601f08befb9390a30e137]: Textual amendment: Words in [Sch. 4 para. 6](https://www.legislation.gov.uk/uksi/2008/2924/schedule/4/paragraph/6) substituted (24.4.2023) by [The Merchant Shipping (Prevention of Air Pollution from Ships) (Amendment) Regulations 2023 (S.I. 2023/384)](https://www.legislation.gov.uk/uksi/2023/384), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/384/regulation/1/1), [2(15)(h)](https://www.legislation.gov.uk/uksi/2023/384/regulation/2/15/h)
+
+[^key-411264a5a560fc9a076dde9ef506e3f3]: Textual amendment: [Sch. 4 paras. 6A-6D](https://www.legislation.gov.uk/uksi/2008/2924/schedule/4/paragraph/6A) inserted (24.4.2023) by [The Merchant Shipping (Prevention of Air Pollution from Ships) (Amendment) Regulations 2023 (S.I. 2023/384)](https://www.legislation.gov.uk/uksi/2023/384), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/384/regulation/1/1), [2(15)(i)](https://www.legislation.gov.uk/uksi/2023/384/regulation/2/15/i)
+
+[^key-fcb503990fc17b7589d6f8448c604700]: Textual amendment: [Sch. 4 para. 7](https://www.legislation.gov.uk/uksi/2008/2924/schedule/4/paragraph/7) substituted (24.4.2023) by [The Merchant Shipping (Prevention of Air Pollution from Ships) (Amendment) Regulations 2023 (S.I. 2023/384)](https://www.legislation.gov.uk/uksi/2023/384), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/384/regulation/1/1), [2(15)(j)](https://www.legislation.gov.uk/uksi/2023/384/regulation/2/15/j)
+
+[^key-b193d213a3ee940864b6c01a1321b952]: Textual amendment: [Sch. 4 para. 10](https://www.legislation.gov.uk/uksi/2008/2924/schedule/4/paragraph/10) omitted (24.4.2023) by virtue of [The Merchant Shipping (Prevention of Air Pollution from Ships) (Amendment) Regulations 2023 (S.I. 2023/384)](https://www.legislation.gov.uk/uksi/2023/384), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/384/regulation/1/1), [2(15)(k)](https://www.legislation.gov.uk/uksi/2023/384/regulation/2/15/k)

@@ -1,0 +1,54 @@
+---
+title: Equality Act 2010, section 160
+act: Equality Act 2010
+section: '160'
+status: not-yet-in-force
+text_date: '2026-10-30'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/ukpga/2010/15/section/160
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Equality Act 2010, section 160
+
+> This provision is not yet in force.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 160. Taxi accessibility regulations
+
+*Extent: E+W+S*
+
+**Not yet in force.**
+
+(1) The Secretary of State may make regulations (in this Chapter referred to as “**taxi accessibility regulations**”) for securing that it is possible for disabled persons—
+
+- (a) to get into and out of taxis in safety;
+- (b) to do so while in wheelchairs;
+- (c) to travel in taxis in safety and reasonable comfort;
+- (d) to do so while in wheelchairs.
+
+(2) The regulations may, in particular, require a regulated taxi to conform with provision as to—
+
+- (a) the size of a door opening for the use of passengers;
+- (b) the floor area of the passenger compartment;
+- (c) the amount of headroom in the passenger compartment;
+- (d) the fitting of restraining devices designed to ensure the stability of a wheelchair while the taxi is moving.
+
+(3) The regulations may also—
+
+- (a) require the driver of a regulated taxi which is plying for hire, or which has been hired, to comply with provisions as to the carrying of ramps or other devices designed to facilitate the loading and unloading of wheelchairs;
+- (b) require the driver of a regulated taxi in which a disabled person is being carried while in a wheelchair to comply with provisions as to the position in which the wheelchair is to be secured.
+
+(4) The driver of a regulated taxi which is plying for hire or has been hired commits an offence—
+
+- (a) by failing to comply with a requirement of the regulations, or
+- (b) if the taxi fails to conform with any provision of the regulations with which it is required to conform.
+
+(5) A person guilty of an offence under subsection (4) is liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+
+(6) In this section—
+
+- “passenger compartment” has such meaning as is specified in taxi accessibility regulations;
+- “**regulated taxi**” means a taxi to which taxi accessibility regulations are expressed to apply.

@@ -1,0 +1,56 @@
+---
+title: Postal Services Act 2011, section 69
+act: Postal Services Act 2011
+section: '69'
+status: revised
+text_date: '2025-01-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2011/5/section/69
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Postal Services Act 2011, section 69
+
+> Text as at 2025-01-01.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 69. Objective of a postal administration[^key-36ac50c32f8abeff15a1412ac4b2221c]
+
+*Extent: E+W+S+N.I.*
+
+(1) The objective of a postal administration is to secure—
+
+- (a) that a universal postal service is provided in accordance with the standards set out in the universal postal service order, and
+- (b) that it becomes unnecessary, by one or both of the following means, for the postal administration order to remain in force for that purpose.
+
+(2) Those means are—
+
+- (a) the rescue as a going concern of the company subject to the order, and
+- (b) relevant transfers.
+
+(3) A transfer is a “relevant” transfer if it is a transfer as a going concern—
+
+- (a) to another company, or
+- (b) as respects different parts of the undertaking of the company subject to the order, to two or more different companies,
+
+of so much of that undertaking as it is appropriate to transfer for the purpose of achieving the objective of the postal administration.
+
+(4) The means by which relevant transfers may be effected include, in particular—
+
+- (a) a transfer of the undertaking of the company subject to the order, or of a part of its undertaking, to a wholly-owned subsidiary of that company, and
+- (b) a transfer to a company of securities of a wholly-owned subsidiary to which there has been a transfer within paragraph (a).
+
+In this subsection “**wholly-owned subsidiary**” has the meaning given by section 1159 of the Companies Act 2006.
+
+(5) The objective of a postal administration may be achieved by relevant transfers to the extent only that—
+
+- (a) the rescue as a going concern of the company is not reasonably practicable or is not reasonably practicable without the transfers,
+- (b) the rescue of the company as a going concern will not achieve the objective of the postal administration or will not do so without the transfers,
+- (c) the transfers would produce a result for the company's creditors as a whole that is better than the result that would be produced without them, or
+- (d) the transfers would, without prejudicing the interests of the company's creditors as a whole, produce a result for the company's members as a whole that is better than the result that would be produced without them.
+
+## Annotations
+
+[^key-36ac50c32f8abeff15a1412ac4b2221c]: Commencement: [S. 69](https://www.legislation.gov.uk/ukpga/2011/5/section/69) in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)

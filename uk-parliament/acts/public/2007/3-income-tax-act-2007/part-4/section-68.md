@@ -1,0 +1,46 @@
+---
+title: Income Tax Act 2007, section 68
+act: Income Tax Act 2007
+section: '68'
+status: revised-with-pending-changes
+text_date: '2026-09-16'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2007/3/section/68
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Income Tax Act 2007, section 68
+
+> **Warning: changes not yet applied to this text (14).** Text as at 2026-09-16. See https://www.legislation.gov.uk/changes/affected/ukpga/2007/3
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 68. Reasonable expectation of profit[^key-24b6f7b68959e8585011b00cc7ce315e][^key-928080e83e5bdca0846d39a6d302def7]
+
+*Extent: E+W+S+N.I.*
+
+(1) This section explains how the farming or market gardening activities (“the activities”) meet the reasonable expectation of profit test for the purposes of section 67.
+
+(2) The test is decided by reference to the expectations of a competent farmer or market gardener (a “competent person”) carrying on the activities.
+
+(3) The test is met if—
+
+- (a) a competent person carrying on the activities in the current tax year would reasonably expect future profits (see subsection (4)), but
+- (b) a competent person carrying on the activities at the beginning of the prior period of loss (see subsection (5)) could not reasonably have expected the activities to become profitable until after the end of the current tax year.
+
+(4) In determining whether a competent person carrying on the activities in the current tax year would reasonably expect future profits regard must be had to—
+
+- (a) the nature of the whole of the activities, and
+- (b) the way in which the whole of the activities were carried on in the current tax year.
+
+(5) “**The prior period of loss**” means—
+
+- (a) the 5 tax years before the current tax year, or
+- (b) if losses in the trade, calculated without regard to capital allowances, were also made in successive tax years before those 5 tax years (see section 70), the period comprising both the successive tax years and the 5 tax years.
+
+## Annotations
+
+[^key-24b6f7b68959e8585011b00cc7ce315e]: Modification: Ss. 66-70 applied (21.7.2009) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 6 para. 1(11)(a)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/6/paragraph/1/11/a)
+
+[^key-928080e83e5bdca0846d39a6d302def7]: Modification: [Ss. 66-70](https://www.legislation.gov.uk/ukpga/2007/3/section/66) applied (10.6.2021) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 2 para. 3(1)(a)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/2/paragraph/3/1/a)

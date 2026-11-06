@@ -1,0 +1,80 @@
+---
+title: Income Tax (Earnings and Pensions) Act 2003, section 637H
+act: Income Tax (Earnings and Pensions) Act 2003
+section: 637H
+status: revised-with-pending-changes
+text_date: '2026-07-15'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2003/1/section/637H
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Income Tax (Earnings and Pensions) Act 2003, section 637H
+
+> **Warning: changes not yet applied to this text (46).** Text as at 2026-07-15. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/1
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 637H. Defined benefits lump sum death benefits[^key-a5e7a003c799e1d87c65b8ecbd2749d1]
+
+*Extent: E+W+S+N.I.*
+
+[^key-1c8e7e45a01c02128d04951496cc9009]
+
+(1) Subject to subsections (2) to (6), no liability to income tax arises on a defined benefits lump sum death benefit paid under a registered pension scheme.
+
+(2)[^key-56664b34372490deb17ef11c97f5fce8] If—
+
+- (a) a defined benefits lump sum death benefit under a registered pension scheme is paid in respect of a member who, on death, is under 75,
+- (b) the lump sum is paid before the end of the relevant two year period, and
+- (c) the lump sum exceeds the permitted maximum,
+
+section 579A (pensions) applies to the excess as it applies to any pension under a registered pension scheme.
+
+(3)[^key-56664b34372490deb17ef11c97f5fce8] If—
+
+- (a) a defined benefits lump sum death benefit under a registered pension scheme is paid in respect of a member who, on death, is under 75,
+- (b) the lump sum is not paid before the end of the relevant two year period, and
+- (c) the lump sum is paid to a qualifying person,
+
+section 579A (pensions) applies to the lump sum as it applies to any pension under a registered pension scheme.
+
+(4)[^key-56664b34372490deb17ef11c97f5fce8] If—
+
+- (a) a defined benefits lump sum death benefit under a registered pension scheme is paid in respect of a member who, on death, is under 75,
+- (b) the lump sum is not paid before the end of the relevant two year period, and
+- (c) the lump sum is paid to a non-qualifying person,
+
+the lump sum is subject to income tax under section 206 of FA 2004 (special lump sum death benefits charge on scheme administrator) but not otherwise.
+
+(5) If a defined benefits lump sum death benefit under a registered pension scheme is paid—
+
+- (a) in respect of a member who, on death, is 75 or over, and
+- (b) to a qualifying person,
+
+section 579A (pensions) applies to the lump sum as it applies to any pension under a registered pension scheme.
+
+(6) If a defined benefits lump sum death benefit under a registered pension scheme is paid—
+
+- (a) in respect of a member who, on death, is 75 or over, and
+- (b) to a non-qualifying person,
+
+the lump sum is subject to income tax under section 206 of FA 2004 (special lump sum death benefits charge on scheme administrator) but not otherwise.
+
+(7) In this section—
+
+- “**non-qualifying person**” has the same meaning as in section 206 of FA 2004;
+- “**the permitted maximum**”, in relation to a defined benefits lump sum death benefit paid in respect of a member, means so much of the member’s lump sum and death benefit allowance as is available on the lump sum being[^key-7fb003cac7a937f787ea73727dc11595] paid (see section 637S);
+- “**qualifying person**” means a person who is not a non-qualifying person;
+- “**the relevant two year period**” means the period of two years beginning with the day on which the scheme administrator of the scheme first knew of the member’s death or (if earlier) the day on which the scheme administrator could first reasonably have been expected to have known of it.
+
+## Annotations
+
+[^key-a5e7a003c799e1d87c65b8ecbd2749d1]: Textual amendment: Pt. 9 Ch. 15A substituted (for the tax year 2024-25 and subsequent tax years) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 9 paras. 41](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/41), [124](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/124) (with [Sch. 9 paras. 125-132A](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/125)) (as amended by [S.I. 2024/356](https://www.legislation.gov.uk/uksi/2024/356), [regs. 1](https://www.legislation.gov.uk/uksi/2024/356/regulation/1), [4](https://www.legislation.gov.uk/uksi/2024/356/regulation/4); and (18.11.2024 for the tax year 2024-25 and subsequent tax years) by [S.I. 2024/1012](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [17](https://www.legislation.gov.uk/uksi/2024/1012/regulation/17))
+
+[^key-1c8e7e45a01c02128d04951496cc9009]: Modification: [Pt. 9](https://www.legislation.gov.uk/ukpga/2003/1/part/9) modified (13.2.2025 with effect in relation to the tax year 2024-25 and subsequent tax years) by [The MPs’, Senedd and Assembly Pension Schemes (Tax) Regulations 2025 (S.I. 2025/52)](https://www.legislation.gov.uk/uksi/2025/52), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/52/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2025/52/regulation/1/3), [4](https://www.legislation.gov.uk/uksi/2025/52/regulation/4), [6](https://www.legislation.gov.uk/uksi/2025/52/regulation/6), [7](https://www.legislation.gov.uk/uksi/2025/52/regulation/7)
+
+[^key-56664b34372490deb17ef11c97f5fce8]: Modification: S. 637H(2)-(4) modified (with effect in relation to the tax year 2024-25 and subsequent tax years) by [The MPs’, Senedd and Assembly Pension Schemes (Tax) Regulations 2025 (S.I. 2025/52)](https://www.legislation.gov.uk/uksi/2025/52), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/52/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2025/52/regulation/1/3), [5](https://www.legislation.gov.uk/uksi/2025/52/regulation/5)
+
+[^key-7fb003cac7a937f787ea73727dc11595]: Textual amendment: Words in s. 637H(7) substituted (for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [3(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/3/3)

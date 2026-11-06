@@ -1,0 +1,313 @@
+---
+title: Immigration Act 1988
+id: ukpga/1988/14
+type: UnitedKingdomPublicGeneralAct
+category: primary
+status: revised-with-pending-changes
+made_date: '1988-05-10'
+text_date: '2024-04-25'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/1988/14
+pdf_urls:
+- http://www.legislation.gov.uk/ukpga/1988/14/pdfs/ukpga_19880014_en.pdf
+- http://www.legislation.gov.uk/ukpga/1988/14/data.pdf
+pending_changes: 1
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Immigration Act 1988
+
+> **Warning: changes not yet applied to this text (1).** Text as at 2024-04-25. See https://www.legislation.gov.uk/changes/affected/ukpga/1988/14
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+Immigration Act 1988
+
+1988 c. 14
+
+An Act to make further provision for the regulation of immigration into the United Kingdom; and for connected purposes.
+
+\[10th May 1988\] [^c803175]
+
+[^c803176]Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-0dc91ac929c4e3d9986a8bea9e2e17de][^key-1c2c7f6416ccfa99fbbf6b803f44a282][^key-04ca0ddf71c7048c979d73771a75cc93][^key-1845a8729ef83188976f5425e751587c]
+
+## 1. Termination of saving in respect of Commonwealth citizens settled before 1973.[^c803177]
+
+Section 1(5) of the [^c803178]Immigration Act 1971 (in this Act referred to as “**the principal Act**”) is hereby repealed.
+
+## 2. Restriction on exercise of right of abode in cases of polygamy.[^c803180][^c803181][^c803179]
+
+(1) This section applies to any woman who—
+
+- (a) has the right of abode in the United Kingdom under section 2(1)(b) of the principal Act as, or as having been, the wife of a man (“the husband”)—
+  - (i) to whom she is or was polygamously married; and
+  - (ii) who is or was such a citizen of the United Kingdom and Colonies, Commonwealth citizen or British subject as is mentioned in section 2(2)(a) or (b) of that Act as in force immediately before the commencement of the [^c803182]British Nationality Act 1981; and
+- (b) has not before the coming into force of this section and since her marriage to the husband been in the United Kingdom.
+
+(2) A woman to whom this section applies shall not be entitled to enter the United Kingdom in the exercise of the right of abode mentioned in subsection (1)(a) above or to be granted a certificate of entitlement in respect of that right if there is another woman living (whether or not one to whom this section applies) who is the wife or widow of the husband and who—
+
+- (a) is, or at any time since her marriage to the husband has been, in the United Kingdom; or
+- (b) has been granted a certificate of entitlement in respect of the right of abode mentioned in subsection (1)(a) above or an entry clearance to enter the United Kingdom as the wife of the husband.
+
+(3) So long as a woman is precluded by subsection (2) above from entering the United Kingdom in the exercise of her right of abode or being granted a certificate of entitlement in respect of that right the principal Act shall apply to her as it applies to a person not having a right of abode.
+
+(4) Subsection (2) above shall not preclude a woman from re-entering the United Kingdom if since her marriage to the husband she has at any time previously been in the United Kingdom and there was at that time no such other woman living as is mentioned in that subsection.
+
+(5) Where a woman claims that this section does not apply to her because she had been in the United Kingdom before the coming into force of this section and since her marriage to the husband it shall be for her to prove that fact.
+
+(6) For the purposes of this section a marriage may be polygamous although at its inception neither party has any spouse additional to the other.
+
+(7) For the purposes of subsections (1)(b), (2)(a), (4) and (5) above there shall be disregarded presence in the United Kingdom as a visitor or an illegal entrant and presence in circumstances in which a person is deemed by section 11(1) of the principal Act not to have entered the United Kingdom.
+
+(8) In subsection (2)(b) above the reference to a certificate of entitlement includes a reference to a certificate treated as such a certificate by virtue of section 39(8) of the [^c803183]British Nationality Act 1981.
+
+(9) No application by a woman for a certificate of entitlement in respect of such a right of abode as is mentioned in subsection (1)(a) above or for an entry clearance shall be granted if another application for such a certificate or clearance is pending and that application is made by a woman as the wife or widow of the same husband.
+
+(10) For the purposes of subsection (9) above an application shall be regarded as pending so long as it and any appeal proceedings relating to it have not been finally determined.
+
+## 3. Proof of right of abode.
+
+(1) For section 3(9) and (9A) of the principal Act there shall be substituted—
+
+> (9) A person seeking to enter the United Kingdom and claiming to have the right of abode there shall prove that he has that right by means of either—
+>
+> - (a) a United Kingdom passport describing him as a British citizen or as a citizen of the United Kingdom and Colonies having the right of abode in the United Kingdom; or
+> - (b) a certificate of entitlement issued by or on behalf of the Government of the United Kingdom certifying that he has such a right of abode.
+
+(2) For the provisions of section 13(3) of that Act up to the end of paragraph (b) there shall be substituted—
+
+> (3) A person shall not be entitled to appeal, on the ground that he has a right of abode in the United Kingdom, against a decision that he requires leave to enter the United Kingdom unless he holds such a passport or certificate as is mentioned in section 3(9) above;
+
+.
+
+(3) In section 2(2) of that Act for the words “sections 3(9) and (9A), 5(2) and 13(3)” there shall be substituted the words “ section 5(2) ”, subsections (3) and (5) of section 39 of the [^c803184]British Nationality Act 1981 are hereby repealed and in subsection (8) of that section for the words “as amended by this section” there shall be substituted the words “ as in force after commencement ”.
+
+## 4. Members of diplomatic missions.[^c803185]
+
+At the beginning of subsection (3) of section 8 of the principal Act (exemption from immigration control for members of diplomatic missions etc.) there shall be inserted the words “ Subject to subsection (3A) below, ” and after that subsection there shall be inserted—
+
+> (3A) In the case of a member of a mission other than a diplomatic agent (within the meaning of the said Act of 1964) subsection (3) above shall apply only if he enters or has entered the United Kingdom—
+>
+> - (a) as a member of that mission; or
+> - (b) in order to take up a post as such a member which was offered to him before his arrival;
+>
+> and references in that subsection to a member of a mission shall be construed accordingly.
+
+## 5. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c803187][^key-c3b3f5ea801dc69e78219d5e945aa49b]
+
+## 6. Knowingly overstaying limited leave.
+
+(1) After subsection (1) of section 24 of the principal Act (illegal entry and similar offences) there shall be inserted—
+
+> (1A) A person commits an offence under subsection (1)(b)(i) above on the day when he first knows that the time limited by his leave has expired and continues to commit it throughout any period during which he is in the United Kingdom thereafter; but a person shall not be prosecuted under that provision more than once in respect of the same limited leave.
+
+(2) In subsection (3) of that section (extension of time limit for prosecutions) for the words “subsection (1)(a), (b)(i) and (c)” there shall be substituted the words “ subsection (1)(a) and (c) ”.
+
+(3) These amendments do not apply in relation to a person whose leave has expired before the coming into force of this section.
+
+## 7. Persons exercising Community rights and nationals of member States.[^c803188][^c803189][^c803190][^key-225188912e5e01ac42d4513dfdd95aa7]
+
+(1)[^key-c255fde20199d64d3300af0d6f77db6e] A person shall not under the principal Act require leave to enter or remain in the United Kingdom in any case in which he is entitled to do so by virtue of an enforceable *(affected by repeal, see note)*[^key-225188912e5e01ac42d4513dfdd95aa7] EU[^key-81985b52ab1e1056ce7024c441dc5631] *(affected by repeal, see note)*[^key-225188912e5e01ac42d4513dfdd95aa7] right or of any provision made under section 2(2) of the *(affected by repeal, see note)*[^key-225188912e5e01ac42d4513dfdd95aa7] [^c803191]European Communities Act 1972. *(affected by repeal, see note)*[^key-225188912e5e01ac42d4513dfdd95aa7]
+
+(2) The Secretary of State may by order made by statutory instrument give leave to enter the United Kingdom for a limited period to any class of persons who are nationals of member States but who are not entitled to enter the United Kingdom as mentioned in subsection (1) above; and any such order may give leave subject to such conditions as may be imposed by the order. *(affected by repeal, see note)*[^key-225188912e5e01ac42d4513dfdd95aa7]
+
+(3) References in the principal Act to limited leave shall include references to leave given by an order under subsection (2) above and a person having leave by virtue of such an order shall be treated as having been given that leave by a notice given to him by an immigration officer within the period specified in paragraph 6(1) of Schedule 2 to that Act. *(affected by repeal, see note)*[^key-225188912e5e01ac42d4513dfdd95aa7]
+
+## 8. Examination of passengers prior to arrival.[^c803195][^c803196][^key-b78c0ba34347c545a17b7f0813c156b9]
+
+(1) This section applies to a person who arrives in the United Kingdom with a passport or other travel document bearing a stamp which—
+
+- (a) has been placed there by an immigration officer before that person’s departure on his journey to the United Kingdom or in the course of that journey; and
+- (b) states that the person may enter the United Kingdom either for an indefinite or a limited period and, if for a limited period, subject to specified conditions.
+
+(2) A person to whom this section applies shall for the purposes of the principal Act be deemed to have been given on arrival in the United Kingdom indefinite or, as the case may be, limited leave in terms corresponding to those of the stamp.
+
+(3) A person who is deemed to have leave by virtue of this section shall be treated as having been given it by a notice given to him by an immigration officer within the period specified in paragraph 6(1) of Schedule 2 to the principal Act.
+
+(4) A person deemed to have leave by virtue of this section shall not on his arrival in the United Kingdom be subject to examination under paragraph 2 of Schedule 2 to the principal Act but may be examined by an immigration officer for the purpose of establishing that he is such a person.
+
+(5) The leave which a person is deemed to have by virtue of this section may, at any time before the end of the period of twenty-four hours from his arrival at the port at which he seeks to enter the United Kingdom or, if he has been examined under subsection (4) above, from the conclusion of that examination, be cancelled by an immigration officer by giving him a notice in writing refusing him leave to enter.
+
+(6) Sub-paragraphs (3) and (4) of paragraph 6 of Schedule 2 to the principal Act shall have effect as if any notice under subsection (5) above were a notice under that paragraph.
+
+(7) References in this section to a person’s arrival in the United Kingdom are to the first occasion on which he arrives after the time when the stamp in question was placed in his passport or travel document, being an occasion not later than seven days after that time.
+
+(8)[^c803197] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 9. Charges.[^key-6bbb808f845c38913ef520ac0a263d54]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 10. Miscellaneous minor amendments.
+
+The principal Act shall have effect with the amendments specified in the Schedule to this Act.
+
+## 11. Expenses and receipts.[^c803207]
+
+(1) There shall be paid out of money provided by Parliament any expenses incurred by the Secretary of State in consequence of this Act.
+
+(2) Any sums received by the Secretary of State by virtue of this Act shall be paid into the Consolidated Fund.
+
+## 12. Short title, interpretation, commencement and extent.[^c803213][^c803214]
+
+(1) This Act may be cited as the Immigration Act 1988.
+
+(2) In this Act “**the principal Act**” means the [^c803215]Immigration Act 1971 and any expression which is also used in that Act has the same meaning as in that Act.
+
+(3) Except as provided in subsection (4) below this Act shall come into force at the end of the period of two months beginning with the day on which it is passed.
+
+(4)[^c803216][^c803217] Sections 1, 2, 3, 4, 5 and 7(1) and paragraph 1 of the Schedule shall come into force on such day as may be appointed by the Secretary of State by an order made by statutory instrument; and such an order may appoint different days for different provisions and contain such transitional provisions and savings as the Secretary of State thinks necessary or expedient in connection with any provision brought into force.
+
+(5)[^c803218] This Act extends to Northern Ireland and section 36 of the principal Act (power to extend any of its provisions to the Channel Islands or the Isle of Man) shall apply also to the provisions of this Act.
+
+## SCHEDULE — Minor Amendments
+
+Section 10.
+
+### Limitation and conditions on leave to be applicable also to subsequent leave granted after absence within period of earlier leave
+
+**1.**[^c803219] In section 3(3)(b) for the words “may be imposed (whether originally or on a variation) so that they will” there shall be substituted the words “ (whether imposed originally or on a variation) shall ”.
+
+### Power to pay expenses of persons liable to deportation who voluntarily leave the United Kingdom
+
+**2.** In section 5(6) for “3(5)(c)” there shall be substituted “ 3(5) ”.
+
+### Deportation order to terminate appeal pending in respect of limited leave
+
+**3.** At the end of section 14 there shall be inserted—
+
+> (5) Where a deportation order is made against a person any pending appeal by that person under subsection (1) above shall lapse.
+
+### Time-limit for proceedings
+
+**4.** In section 28(1)(a) for the words “a chief officer of police” there shall be substituted the words “ an officer of police above the rank of chief superintendent ” and for the words “his police force” there shall be substituted the words “ the police force to which he belongs ”.
+
+### Entry clearance as requisite evidence of eligibility
+
+**5.** In section 33(1), in the definition of “entry clearance”, after the word “evidence” there shall be inserted the words “ or the requisite evidence ”.
+
+### Power to detain passport etc.
+
+**6.** (1) After paragraph 4(2) of Schedule 2 there shall be inserted—
+
+> (2A) An immigration officer may detain any passport or other document produced pursuant to sub-paragraph (2)(a) above until the person concerned is given leave to enter the United Kingdom or is about to depart or be removed following refusal of leave.
+
+(2) This amendment does not apply in relation to any person whose examination under paragraph 2 or 3 of Schedule 2 began before the coming into force of this paragraph.
+
+### Time-limit for giving, refusing or cancelling leave to enter
+
+**7.** (1) In paragraph 6(1) and (2) of Schedule 2 for the words “twelve hours”, wherever they occur, there shall be substituted the words “ twenty-four hours ”.
+
+(2) This amendment does not apply in relation to any person whose examination under paragraph 2 began before the coming into force of this paragraph.
+
+### Leave in default of notice giving or refusing leave or cancelling refusal
+
+**8.** (1) In paragraph 6(1) of Schedule 2 for the words “indefinite leave to enter the United Kingdom” there shall be substituted the words “ leave to enter the United Kingdom for a period of six months subject to a condition prohibiting his taking employment ”.
+
+(2) In paragraph 6(3) of Schedule 2 for the words from “the immigration officer may” onwards there shall be substituted the words “ and the immigration officer does not at the same time give him indefinite or limited leave to enter, he shall be deemed to have been given leave to enter for a period of six months subject to a condition prohibiting his taking employment and the immigration officer shall as soon as may be give him written notice of that leave. ”
+
+(3) The amendment in sub-paragraph (1) above does not apply in relation to any person in whose case the time-limit in paragraph 6(1) of Schedule 2 has expired before the coming into force of this paragraph; and the amendment in sub-paragraph (2) above does not apply in relation to a person given a notice of cancellation under paragraph 6(3) of Schedule 2 before the coming into force of this paragraph.
+
+### Time-limit for removal directions
+
+**9.** (1) At the end of paragraph 8(2) of Schedule 2 there shall be inserted the words “ except that directions may be given under sub-paragraph (1)(b) or (c) after the end of that period if the immigration officer has within that period given written notice to the owners or agents in question of his intention to give directions to them in respect of that person ”.
+
+(2) In paragraph 10(1)(b) of Schedule 2 for the words “but that the time limited by paragraph 8(2) has passed” there shall be substituted the words “ but that the requirements of paragraph 8(2) have not been complied with ”.
+
+(3) In paragraph 28(4) of Schedule 2 after the words “directions under that paragraph for the removal of a person from the United Kingdom” there shall be inserted the words “ and for the giving of a notice of intention to give such directions ”.
+
+(4) These amendments do not apply in relation to any person refused leave to enter the United Kingdom before the coming into force of this paragraph.
+
+### Restriction on work in case of persons temporarily admitted etc.
+
+**10.** (1) In paragraph 21(2) of Schedule 2 after the words “as to residence” there shall be inserted the words “ , as to his employment or occupation ”.
+
+(2) In paragraphs 2(5) and 4 of Schedule 3 after the words “as to residence” there shall be inserted the words “ , as to his employment or occupation ”.
+
+(3) In section 24(1)(e) after the words “as to residence” there shall be inserted the words “ , as to his employment or occupation ”.
+
+(4) These amendments apply in relation to persons granted temporary admission or released from detention under paragraph 21 of Schedule 2, becoming liable to detention under paragraph 2(2) or (3) of Schedule 3, or directed to be released as mentioned in paragraph 4 of that Schedule, as the case may be, before as well as after the coming into force of this paragraph.
+
+## Annotations
+
+[^c803175]: Commencement: Act not in force at Royal Assent, see [s. 12(3)](https://www.legislation.gov.uk/ukpga/1988/14/section/12/3)
+
+[^c803176]: Modification: Act amended (2.10.2000) by [1999 c. 33](https://www.legislation.gov.uk/ukpga/1999/33), [s. 65(1)](https://www.legislation.gov.uk/ukpga/1999/33/section/65/1); [S.I. 2000/2444](https://www.legislation.gov.uk/uksi/2000/2444), [art. 2](https://www.legislation.gov.uk/uksi/2000/2444/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2000/2444/schedule/1)
+
+    Act modified (1.9.2001) by [2001 c. 17](https://www.legislation.gov.uk/ukpga/2001/17), [s. 32(7)](https://www.legislation.gov.uk/ukpga/2001/17/section/32/7) (with [ss. 27(3)](https://www.legislation.gov.uk/ukpga/2001/17/section/27/3), [39](https://www.legislation.gov.uk/ukpga/2001/17/section/39), [78](https://www.legislation.gov.uk/ukpga/2001/17/section/78)); [S.I. 2001/2161](https://www.legislation.gov.uk/uksi/2001/2161), [art. 2](https://www.legislation.gov.uk/uksi/2001/2161/article/2)
+
+[^key-0dc91ac929c4e3d9986a8bea9e2e17de]: Modification: Act extended in part (Isle of Man) (with modifications) (13.3.2008 for specified purposes, 1.5.2008 in so far as not already in force) by [Immigration (Isle of Man) Order 2008 (S.I. 2008/680)](https://www.legislation.gov.uk/uksi/2008/680), [art. 10](https://www.legislation.gov.uk/uksi/2008/680/article/10), [Sch. 4](https://www.legislation.gov.uk/uksi/2008/680/schedule/4) (with [art. 5](https://www.legislation.gov.uk/uksi/2008/680/article/5), [Sch. 2](https://www.legislation.gov.uk/uksi/2008/680/schedule/2)) (as amended: (14.3.2019) by [S.I. 2019/562](https://www.legislation.gov.uk/uksi/2019/562), [arts. 1](https://www.legislation.gov.uk/uksi/2019/562/article/1), [5](https://www.legislation.gov.uk/uksi/2019/562/article/5), [12](https://www.legislation.gov.uk/uksi/2019/562/article/12)); (coming into force in accordance with art. 1(2) of the amending S.I.) by [S.I. 2020/1576](https://www.legislation.gov.uk/uksi/2020/1576), [art. 9](https://www.legislation.gov.uk/uksi/2020/1576/article/9); and (31.12.2020) by [S.I. 2020/1214](https://www.legislation.gov.uk/uksi/2020/1214), [arts. 1](https://www.legislation.gov.uk/uksi/2020/1214/article/1), [7](https://www.legislation.gov.uk/uksi/2020/1214/article/7))
+
+[^key-1c2c7f6416ccfa99fbbf6b803f44a282]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1988/14) extended in part (Jersey) (with modifications) (coming into force in accordance with art. 1(1) of the amending S.I.) by [The Immigration (Jersey) Order 2021 (S.I. 2021/1281)](https://www.legislation.gov.uk/uksi/2021/1281), [art. 4](https://www.legislation.gov.uk/uksi/2021/1281/article/4), [Sch. 2](https://www.legislation.gov.uk/uksi/2021/1281/schedule/2), [Sch. 2A](https://www.legislation.gov.uk/uksi/2021/1281/schedule/2A) (with [art. 16](https://www.legislation.gov.uk/uksi/2021/1281/article/16))
+
+[^key-04ca0ddf71c7048c979d73771a75cc93]: Modification: Act: power to amend conferred (28.4.2022 for specified purposes, 28.6.2022 in so far as not already in force) by [Nationality and Borders Act 2022 (c. 36)](https://www.legislation.gov.uk/ukpga/2022/36), [ss. 82](https://www.legislation.gov.uk/ukpga/2022/36/section/82), [87(1)(4)(i)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1); [S.I. 2022/590](https://www.legislation.gov.uk/uksi/2022/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/590/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/590/regulation/2), [Sch. 1 para. 29](https://www.legislation.gov.uk/uksi/2022/590/schedule/1/paragraph/29)
+
+[^key-1845a8729ef83188976f5425e751587c]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1988/14) excluded (25.4.2024) by [Safety of Rwanda (Asylum and Immigration) Act 2024 (c. 8)](https://www.legislation.gov.uk/ukpga/2024/8), [ss. 2(5)(a)](https://www.legislation.gov.uk/ukpga/2024/8/section/2/5/a), [5](https://www.legislation.gov.uk/ukpga/2024/8/section/5), [10(1)](https://www.legislation.gov.uk/ukpga/2024/8/section/10/1) (with [ss. 4](https://www.legislation.gov.uk/ukpga/2024/8/section/4), [10(2)](https://www.legislation.gov.uk/ukpga/2024/8/section/10/2))
+
+[^c803177]: Modification: [Ss. 1](https://www.legislation.gov.uk/ukpga/1988/14/section/1), [2](https://www.legislation.gov.uk/ukpga/1988/14/section/2), [4](https://www.legislation.gov.uk/ukpga/1988/14/section/4) excluded by [S.I. 1988/1133](https://www.legislation.gov.uk/uksi/1988/1133), [art. 3](https://www.legislation.gov.uk/uksi/1988/1133/article/3)
+
+[^c803178]: Marginal citation: [1971 c. 77](https://www.legislation.gov.uk/ukpga/1971/77).
+
+[^c803180]: Modification: Ss. 2, 7-9 and 12 extended (with modifications) (1.8.1993) to Guernsey by [S.I. 1993/1796](https://www.legislation.gov.uk/uksi/1993/1796), [art. 3(4)](https://www.legislation.gov.uk/uksi/1993/1796/article/3/4), [Sch. 1 Pt. III](https://www.legislation.gov.uk/uksi/1993/1796/schedule/1/part/III)
+
+[^c803181]: Modification: S. 2 extended (with modifications) (1.8.1993) to Jersey by [S.I. 1993/1797](https://www.legislation.gov.uk/uksi/1993/1797), [art. 3(4)](https://www.legislation.gov.uk/uksi/1993/1797/article/3/4), [Sch. 1 Pt. 3](https://www.legislation.gov.uk/uksi/1993/1797/schedule/1/part/III) (as amended (coming into force in accordance with art. 1 of the amending S.I.) by [The Immigration (Jersey) (Amendment) Order 2017 (S.I. 2017/981)](https://www.legislation.gov.uk/uksi/2017/981), [Sch. Pt. 1 para. 3](https://www.legislation.gov.uk/uksi/2017/981/schedule/Pt/paragraph/3) (with [art. 6](https://www.legislation.gov.uk/uksi/2017/981/article/6))
+
+[^c803179]: Modification: Ss. 1, 2, 4 excluded by [S.I. 1988/1133](https://www.legislation.gov.uk/uksi/1988/1133), [art. 3](https://www.legislation.gov.uk/uksi/1988/1133/article/3)
+
+[^c803182]: Marginal citation: [1981 c. 61](https://www.legislation.gov.uk/ukpga/1981/61).
+
+[^c803183]: Marginal citation: [1981 c. 61](https://www.legislation.gov.uk/ukpga/1981/61).
+
+[^c803184]: Marginal citation: [1981 c. 61](https://www.legislation.gov.uk/ukpga/1981/61).
+
+[^c803185]: Modification: [Ss. 1](https://www.legislation.gov.uk/ukpga/1988/14/section/1), [2](https://www.legislation.gov.uk/ukpga/1988/14/section/2), [4](https://www.legislation.gov.uk/ukpga/1988/14/section/4) excluded by [S.I. 1988/1133](https://www.legislation.gov.uk/uksi/1988/1133), [art. 3](https://www.legislation.gov.uk/uksi/1988/1133/article/3)
+
+[^c803187]: Textual amendment: [S. 5](https://www.legislation.gov.uk/ukpga/1988/14/section/5) repealed (2.10.2000) by [1999 c. 33](https://www.legislation.gov.uk/ukpga/1999/33), [s. 169(1)(3)](https://www.legislation.gov.uk/ukpga/1999/33/section/169/1/3), [Sch. 14 paras. 83](https://www.legislation.gov.uk/ukpga/1999/33/schedule/14/paragraph/83), [84](https://www.legislation.gov.uk/ukpga/1999/33/schedule/14/paragraph/84), [Sch. 16](https://www.legislation.gov.uk/ukpga/1999/33/schedule/16) (with [Sch. 15 paras. 11](https://www.legislation.gov.uk/ukpga/1999/33/schedule/15/paragraph/11), [12](https://www.legislation.gov.uk/ukpga/1999/33/schedule/15/paragraph/12)); [S.I. 2000/2444](https://www.legislation.gov.uk/uksi/2000/2444), [art. 2](https://www.legislation.gov.uk/uksi/2000/2444/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2000/2444/schedule/1)
+
+[^key-c3b3f5ea801dc69e78219d5e945aa49b]: Modification: [S. 5](https://www.legislation.gov.uk/ukpga/1988/14/section/5) continued (14.3.2003) by [Nationality, Immigration and Asylum Act 2002 (Commencement No.4) Order 2003 (S.I. 2003/754)](https://www.legislation.gov.uk/uksi/2003/754), [Sch. 2 paras. 3](https://www.legislation.gov.uk/uksi/2003/754/schedule/2/paragraph/3), [6(2)](https://www.legislation.gov.uk/uksi/2003/754/schedule/2/paragraph/6/2)
+
+[^c803188]: Modification: Ss. 2, 7, 8, 9 and 12 extended (Guernsey) (with modifications) (1.8.1993) by [S.I. 1993/1796](https://www.legislation.gov.uk/uksi/1993/1796), [art. 3(4)](https://www.legislation.gov.uk/uksi/1993/1796/article/3/4), [Sch. 1 Pt. 3](https://www.legislation.gov.uk/uksi/1993/1796/schedule/1/part/3) (as amended (coming into force in accordance with art. 1(1) of the amending S.I.) by [S.I. 2020/1560](https://www.legislation.gov.uk/uksi/2020/1560), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2020/1560/article/1/1), [7](https://www.legislation.gov.uk/uksi/2020/1560/article/7))
+
+[^c803189]: Modification: S. 7 extended (Jersey) (with modifications) (1.8.1993) to by [S.I. 1993/1797](https://www.legislation.gov.uk/uksi/1993/1797), [art. 3(4)](https://www.legislation.gov.uk/uksi/1993/1797/article/3/4), [Sch. 1 Pt. 3](https://www.legislation.gov.uk/uksi/1993/1797/schedule/1/part/3) (as amended (coming into force in accordance with art. 1 of the amending S.I.) by [S.I. 2017/981](https://www.legislation.gov.uk/uksi/2017/981), [Sch. Pt. 1 para. 3](https://www.legislation.gov.uk/uksi/2017/981/schedule/part/1/paragraph/3) (with [art. 6](https://www.legislation.gov.uk/uksi/2017/981/article/6)) and as amended (coming into force in accordance with art. 1 of the amending S.I.) by [S.I. 2020/1566](https://www.legislation.gov.uk/uksi/2020/1566), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2020/1566/article/1/1), [3](https://www.legislation.gov.uk/uksi/2020/1566/article/3))
+
+[^c803190]: Commencement: S. 7 wholly in force (20.7.1994); s. 7(2)-(3) in force at 10.7.1988 see s. 12(3); s. 7(1) not in force at Royal Assent see s. 12(4); s. 7(1) in force at 20.7.1994 by [S.I. 1994/1923](https://www.legislation.gov.uk/uksi/1994/1923), [art. 2](https://www.legislation.gov.uk/uksi/1994/1923/article/2)
+
+[^key-225188912e5e01ac42d4513dfdd95aa7]: Textual amendment: [S. 7](https://www.legislation.gov.uk/ukpga/1988/14/section/7) omitted (31.12.2020) by virtue of Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (c. 20), s. 9(1), Sch. 1 para. 1 (with ss. 4(2), 5(4)); [S.I. 2020/1279](https://www.legislation.gov.uk/uksi/2020/1279), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2020/1279/regulation/4/c) (with saving in [S.I. 2020/1309](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2), [83](https://www.legislation.gov.uk/uksi/2020/1309/regulation/83), [Sch. 4 paras. 5-7](https://www.legislation.gov.uk/uksi/2020/1309/schedule/4/paragraph/5) (as amended by [S.I. 2023/12](https://www.legislation.gov.uk/uksi/2023/12), [reg. 5(2)(b)(c)](https://www.legislation.gov.uk/uksi/2023/12/regulation/5/2/b/c))
+
+[^key-c255fde20199d64d3300af0d6f77db6e]: Modification: S. 7(1) applied (with modifications) (31.12.2020) by [The Citizens' Rights (Application Deadline and Temporary Protection) (EU Exit) Regulations 2020 (S.I. 2020/1209)](https://www.legislation.gov.uk/uksi/2020/1209), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1209/regulation/1/1), [3(4)](https://www.legislation.gov.uk/uksi/2020/1209/regulation/3/4), [4(5)](https://www.legislation.gov.uk/uksi/2020/1209/regulation/4/5), [12(1)(g)](https://www.legislation.gov.uk/uksi/2020/1209/regulation/12/1/g)
+
+[^key-81985b52ab1e1056ce7024c441dc5631]: Textual amendment: Word in Act substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3](https://www.legislation.gov.uk/uksi/2011/1043/article/3), [6](https://www.legislation.gov.uk/uksi/2011/1043/article/6) (with [arts. 3(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/2)[(3),](https://www.legislation.gov.uk/uksi/2011/1043/article/3/3) [4(2),](https://www.legislation.gov.uk/uksi/2011/1043/article/4/2) [6(4)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/4)[(5)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/5))
+
+[^c803191]: Marginal citation: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68).
+
+[^c803195]: Modification: Ss. 2, 7, 8, 9 and 12 extended (with modifications) (1.8.1993) to Guernsey by [S.I. 1993/1796](https://www.legislation.gov.uk/uksi/1993/1796), [art. 3(4)](https://www.legislation.gov.uk/uksi/1993/1796/article/3/4), [Sch. 1 Pt. III](https://www.legislation.gov.uk/uksi/1993/1796/schedule/1/part/III)
+
+[^c803196]: Modification: S. 8 extended (with modifications) (1.8.1993) to Jersey by [S.I. 1993/1797](https://www.legislation.gov.uk/uksi/1993/1797), [art. 3(4)](https://www.legislation.gov.uk/uksi/1993/1797/article/3/4), [Sch. 1 Pt. 3](https://www.legislation.gov.uk/uksi/1993/1797/schedule/1/part/III) (as amended (coming into force in accordance with art. 1 of the amending S.I.) by [The Immigration (Jersey) (Amendment) Order 2017 (S.I. 2017/981)](https://www.legislation.gov.uk/uksi/2017/981), [Sch. Pt. 1 para. 3](https://www.legislation.gov.uk/uksi/2017/981/schedule/Pt/paragraph/3) (with [art. 6](https://www.legislation.gov.uk/uksi/2017/981/article/6))
+
+[^key-b78c0ba34347c545a17b7f0813c156b9]: Modification: S. 8 extended (with modifications) (5.6.2003) by [The Immigration and Asylum Act 1999 (Jersey) Order 2003 (S.I. 2003/1252)](https://www.legislation.gov.uk/uksi/2003/1252), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2003/1252/article/1/1), [2](https://www.legislation.gov.uk/uksi/2003/1252/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/1252/schedule)
+
+[^c803197]: Textual amendment: S. 8(8) repealed (2.8.1993) by [S.I. 1993/1813](https://www.legislation.gov.uk/uksi/1993/1813), [arts. 1](https://www.legislation.gov.uk/uksi/1993/1813/article/1), [9](https://www.legislation.gov.uk/uksi/1993/1813/article/9), [Sch. 6P](https://www.legislation.gov.uk/uksi/1993/1813/schedule/6P)t. I
+
+[^key-6bbb808f845c38913ef520ac0a263d54]: Textual amendment: S. 9 repealed (30.6.2003) by [Immigration and Asylum Act 1999 (c. 33)](https://www.legislation.gov.uk/ukpga/1999/33), [s. 170(4)](https://www.legislation.gov.uk/ukpga/1999/33/section/170/4), [Sch. 14 para. 86](https://www.legislation.gov.uk/ukpga/1999/33/schedule/14/paragraph/86), [Sch. 16](https://www.legislation.gov.uk/ukpga/1999/33/schedule/16); [S.I. 2003/1469](https://www.legislation.gov.uk/uksi/2003/1469), [art. 2](https://www.legislation.gov.uk/uksi/2003/1469/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/1469/schedule)
+
+[^c803207]: Modification: S. 11 extended (with modifications) (1.8.1993) to Jersey by [S.I. 1993/1797](https://www.legislation.gov.uk/uksi/1993/1797), [art. 3(4)](https://www.legislation.gov.uk/uksi/1993/1797/article/3/4), [Sch. 1 Pt. 3](https://www.legislation.gov.uk/uksi/1993/1797/schedule/1/part/III) (as amended (coming into force in accordance with art. 1 of the amending S.I.) by [The Immigration (Jersey) (Amendment) Order 2017 (S.I. 2017/981)](https://www.legislation.gov.uk/uksi/2017/981), [Sch. Pt. 1 para. 3](https://www.legislation.gov.uk/uksi/2017/981/schedule/Pt/paragraph/3) (with [art. 6](https://www.legislation.gov.uk/uksi/2017/981/article/6))
+
+[^c803213]: Modification: Ss. 2, 7, 8, 9 and 12 extended (with modifications) (1.8.1993) to Guernsey by [S.I. 1993/1796](https://www.legislation.gov.uk/uksi/1993/1796), [art. 3(4)](https://www.legislation.gov.uk/uksi/1993/1796/article/3/4)
+
+[^c803214]: Modification: S. 12 extended (with modifications) (1.8.1993) to Jersey by [S.I. 1993/1797](https://www.legislation.gov.uk/uksi/1993/1797), [art. 3(4)](https://www.legislation.gov.uk/uksi/1993/1797/article/3/4), [Sch. 1 Pt. 3](https://www.legislation.gov.uk/uksi/1993/1797/schedule/1/part/III) (as amended (coming into force in accordance with art. 1 of the amending S.I.) by [The Immigration (Jersey) (Amendment) Order 2017 (S.I. 2017/981)](https://www.legislation.gov.uk/uksi/2017/981), [Sch. Pt. 1 para. 3](https://www.legislation.gov.uk/uksi/2017/981/schedule/Pt/paragraph/3) (with [art. 6](https://www.legislation.gov.uk/uksi/2017/981/article/6))
+
+[^c803215]: Marginal citation: [1971 c. 77](https://www.legislation.gov.uk/ukpga/1971/77).
+
+[^c803216]: Modification: S. 12(4): power of appointment conferred by s. 12(4) partly exercised: [S.I. 1988/1133](https://www.legislation.gov.uk/uksi/1988/1133)
+
+[^c803217]: Subordinate legislation: S. 12: s. 12(4) power exercised by [S.I. 1991/1001](https://www.legislation.gov.uk/uksi/1991/1001)
+
+    For previous exercises of power see Index to Government Orders.
+
+[^c803218]: Subordinate legislation: S. 12(5): s. 12(5) power exercised by [S.I.1991/2630](https://www.legislation.gov.uk/uksi/1991/2630)
+
+[^c803219]: Commencement: [Para. 1](https://www.legislation.gov.uk/ukpga/1988/14/paragraph/1) of the Schedule wholly in force at 16.5.1991. See [S.I. 1991/1001](https://www.legislation.gov.uk/uksi/1991/1001) art.

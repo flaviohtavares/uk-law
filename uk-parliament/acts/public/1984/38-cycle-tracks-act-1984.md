@@ -1,0 +1,202 @@
+---
+title: Cycle Tracks Act 1984
+id: ukpga/1984/38
+type: UnitedKingdomPublicGeneralAct
+category: primary
+status: revised-with-pending-changes
+made_date: '1984-07-12'
+text_date: '2017-11-30'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/1984/38
+pdf_urls:
+- http://www.legislation.gov.uk/ukpga/1984/38/pdfs/ukpga_19840038_en.pdf
+- http://www.legislation.gov.uk/ukpga/1984/38/data.pdf
+pending_changes: 2
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Cycle Tracks Act 1984
+
+> **Warning: changes not yet applied to this text (2).** Text as at 2017-11-30. See https://www.legislation.gov.uk/changes/affected/ukpga/1984/38
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+Cycle Tracks Act 1984
+
+1984 c. 38
+
+An Act to amend the definition of “cycle track” in the Highways Act 1980 and to make further provision in relation to cycle tracks within the meaning of that Act.
+
+\[12th July 1984\]
+
+[^c765011]Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
+
+## 1. Amendment of definition of “cycle track”.
+
+(1) In section 329(1) of the [^c765012]Highways Act 1980 (referred to in this Act as “**the 1980 Act**”), in the definition of “cycle track” (which defines a cycle track as a way over which the public have a right of way on pedal cycles with or without a right of way on foot) after “pedal cycles” there shall be inserted “(other than pedal cycles which are motor vehicles within the meaning of the [^c765013]Road Traffic Act 1972)”.
+
+(2) Any way to which the said definition applied immediately before the commencement of subsection (1) above shall, as from that commencement, continue to be a cycle track within the meaning of the 1980 Act, but the public’s right of way on pedal cycles over that way shall in accordance with that subsection no longer include a right to use pedal cycles which are motor vehicles.
+
+## 2. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c765014]
+
+## 3. Conversion of footpaths into cycle tracks.[^c765015]
+
+(1) A local highway authority may in the case of any footpath for which they are the highway authority by order made by them and either—
+
+- (a) submitted to and confirmed by the Secretary of State, or
+- (b) confirmed by them as an unopposed order,
+
+designate the footpath or any part of it as a cycle track, with the effect that, on such date as the order takes effect in accordance with the following provisions of this section, the footpath or part of the footpath to which the order relates shall become a highway which for the purposes of the 1980 Act is a highway maintainable at the public expense and over which the public have a right of way on pedal cycles (other than pedal cycles which are motor vehicles) and a right of way on foot.
+
+(2) A local highway authority shall not make an order under this section designating as a cycle track any footpath or part of a footpath which crosses any agricultural land unless every person having a legal interest in that land has consented in writing to the making of the order.
+
+In this subsection “**agricultural land**” has the meaning given by section 1(4) of the Agricultural Holdings Act 1986[^c765016]; and “**legal interest**” does not include an interest under a letting of land having effect as a letting for an interest less than a tenancy from year to year.
+
+(3) An order made under this section by a local highway authority—
+
+- (a) may be confirmed by the Secretary of State either in the form in which it was made or subject to such modifications as he thinks fit;
+- (b) may be confirmed by the authority as an unopposed order only in the form in which it was made.
+
+(4) The Secretary of State may by regulations make provision with respect to the procedure to be followed in connection with the making, submission and confirmation of orders under this section; and the Secretary of State shall by regulations under this subsection make such provision as he considers appropriate with respect to—
+
+- (a) the publication of notice of the making of an order under this section and of its effect;
+- (b) the making and consideration of objections to any such order; and
+- (c) the publication of notice of the confirmation of any such order by the Secretary of State or by a local highway authority, and of the effect of the order as confirmed.
+
+(5) Without prejudice to the generality of subsection (4) above, regulations under that subsection may in particular make provision—
+
+- (a) for enabling the Secretary of State to cause a local inquiry to be held in connection with any order under this section submitted to him for confirmation;
+- (b) for the decision as to whether any such order should be confirmed, and, if so, as to the modifications (if any) subject to which it should be confirmed, to be made by a person appointed by the Secretary of State for the purpose instead of by the Secretary of State;
+- (c) for any decision made by any such person in pursuance of paragraph (b) above to be treated, for the purposes of any provision of the regulations or this section, as a decision of the Secretary of State;
+
+and subsections (2) to (5) of section 250 of the [^c765017]Local Government Act 1972 (giving of evidence at, and defraying of costs of, local inquiries) shall apply in relation to any local inquiry held in pursuance of paragraph (a) above as they apply in relation to a local inquiry which a Minister causes to be held under subsection (1) of that section.
+
+(6) If a person aggrieved by an order under this section desires to question its validity on the ground that it is not within the powers of this section or on the ground that any requirement of regulations made under subsection (4) above has not been complied with in relation to the order, he may, within six weeks from the date on which any such notice as is mentioned in subsection (4)(c) above is first published, make an application for the purpose to the High Court.
+
+(7) On any such application, the High Court—
+
+- (a) may by interim order suspend the operation of the order, either wholly or to such extent as it thinks fit, until the final determination of the proceedings; and
+- (b) if satisfied that the order is not within the powers of this section or that the interests of the applicant have been substantially prejudiced by a failure to comply with any such requirement as aforesaid, may quash the order, either wholly or to such extent as it thinks fit.
+
+(8) Subject to subsection (7) above, an order under this section shall not, either before or after it has been confirmed, be questioned in any legal proceedings whatever, and shall take effect on the date on which any such notice as is mentioned in subsection (4)(c) above is first published, or on such later date, if any, as may be specified in the order.
+
+(9) A local highway authority may (subject to and in accordance with the provisions of subsections (3) to (8) above) by order made by them and either—
+
+- (a) submitted to and confirmed by the Secretary of State, or
+- (b) confirmed by them as an unopposed order,
+
+revoke an order made by them under this section with the effect that, on such date as the order takes effect in accordance with those provisions, the way designated by the original order as a cycle track shall revert to being a footpath or a part of a footpath (as the case may be) and, as such, it shall only be maintainable at the public expense for the purposes of the 1980 Act if, prior to the original order taking effect, it constituted a highway so maintainable or, on the order under this subsection taking effect, it forms part of a highway so maintainable.
+
+(10)[^c765018][^key-fb0bf9a7b7c5c5bbdc6e95e922667be4][^key-426b6751762459ec633b73f8b40c7d2e] A local highway authority shall have power to carry out any works necessary for giving effect to an order under this section; and in so far as the carrying out of any such works, or any change in the use of land resulting from any such order, constitutes development within the meaning of the Town and Country Planning Act 1990[^c765019], permission for that development shall be deemed to be granted under Part III of that Act.
+
+(11) The power to make regulations under subsection (4) above shall be exercisable by statutory instrument, which shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+## 4. Provision of barriers in cycle tracks, etc.[^c765020][^key-c56c2e5cc07e8e0cdf0784a0aa83ea77][^key-d5c87302339209746267929ade593be9]
+
+(1) A highway authority may provide and maintain in any cycle track such barriers as they think necessary for the purpose of safeguarding persons using the cycle track.
+
+(2) A highway authority may, in the case of any cycle track which is adjacent to a footpath or footway, provide and maintain such works as they think necessary for the purpose of separating, in the interests of safety, persons using the cycle track from those using the footpath or footway.
+
+(3) A highway authority may alter or remove any works provided by them under subsection (1) or (2) above.
+
+(4) Any reference in this section to a cycle track is a reference to a cycle track constituting or comprised in a highway maintainable at the public expense, and any reference to a footpath or a footway is a reference to a footpath constituting or a footway comprised in such a highway.
+
+## 5. Compensation.
+
+(1)[^c765021][^key-dc3e73762494173a6c516927708968dc][^key-2e8ddf12691295b53c22384842e50986] Where any person suffers damage by reason of the execution by a highway authority of any works under section 3(10) or 4 above, he shall be entitled to recover compensation in respect of that damage from that authority.
+
+(2) Where in consequence of the coming into operation of an order under section 3 above any person suffers damage by the depreciation in value of any interest in land to which he is entitled, he shall be entitled to recover compensation in respect of that damage from the local highway authority which made the order; but a person shall not be entitled to recover any compensation under this subsection in respect of any depreciation—
+
+- (a) in respect of which compensation is recoverable by him under subsection (1) above; or
+- (b) which is attributable to the prospect of the execution of any such works as are referred to in that subsection.
+
+(3) Subsections (1) to (3) of section 307 of the 1980 Act (disputes as to compensation to be referred to Upper Tribunal[^key-926085b0fb80b2c1448baf5fba30c184]) shall apply in relation to any dispute arising on a claim for compensation under subsection (1) or (2) above as they apply in relation to any dispute arisising as mentioned in subsection (1) of that section.
+
+## 6. Application to Crown land.
+
+(1) In the case of any Crown land the appropriate authority and a highway authority may agree that any provisions of sections 3 and 4 above specified in the agreement shall apply to that land and, while the agreement is in force, those provisions shall apply to that land accordingly (subject, however, to the terms of the agreement).
+
+(2) Any such agreement as is referred to in subsection (1) above may contain such consequential and incidental provisions, including provisions of a financial character, as appear to the appropriate authority to be necessary or equitable; but provisions of a financial character shall not be included in an agreement made by a government department without the approval of the Treasury.
+
+(3) In this section “**Crown land**” means land belonging to Her Majesty in right of the Crown or of the Duchy of Lancaster, or belonging to the Duchy of Cornwall, or belonging to a government department or held in trust for Her Majesty for the purposes of a government department, and “**the appropriate authority**” means—
+
+- (a) in the case of land belonging to Her Majesty in right of the Crown, the Crown Estate Commissioners or other government department having the management of the land in question;
+- (b) in the case of land belonging to Her Majesty in right of the Duchy of Lancaster, the Chancellor of that Duchy;
+- (c) in the case of land belonging to the Duchy of Cornwall, such person as the Duke of Cornwall, or the possessor for the time being of the Duchy of Cornwall, appoints;
+- (d) in the case of land belonging to a government department or held in trust for Her Majesty for the purposes of a government department, that department.
+
+(4) If any question arises as to what authority is the appropriate authority in relation to any Crown land that question shall be referred to the Treasury, whose decision shall be final.
+
+## 7. Expenses.
+
+There shall be paid out of money provided by Parliament—
+
+- (a) any expenses incurred by the Secretary of State under this Act; and
+- (b) any increase attributable to this Act in the sums payable out of such money under any other Act.
+
+## 8. Interpretation.
+
+(1) In this Act—
+
+- “**the 1980 Act**” means the [^c765022]Highways Act 1980; and
+- “**motor vehicle**” means a motor vehicle within the meaning of the Road Traffic Act 1988[^c765023].
+
+(2) Except where the context otherwise requires, any expression used in this Act which is also used in the 1980 Act has the same meaning as in that Act.
+
+## 9. Short title, commencement and extent.
+
+(1) This Act may be cited as the Cycle Tracks Act 1984.
+
+(2) This Act shall come into force at the end of the period of two months beginning with the day on which it is passed.
+
+(3) This Act extends to England and Wales only.
+
+## Annotations
+
+[^c765011]: Commencement: Act wholly in force at 12.9.1984 see [s. 9(2)](https://www.legislation.gov.uk/ukpga/1984/38/section/9/2)
+
+[^c765012]: Marginal citation: [1980 c. 66](https://www.legislation.gov.uk/ukpga/1980/66).
+
+[^c765013]: Marginal citation: [1972 c. 20](https://www.legislation.gov.uk/ukpga/1972/20).
+
+[^c765014]: Textual amendment: [S. 2](https://www.legislation.gov.uk/ukpga/1984/38/section/2) repealed (15. 5. 1989) by [Road Traffic (Consequential Provisions) Act 1988 (c. 54, SIF 107:1)](https://www.legislation.gov.uk/ukpga/1988/54), [ss. 3](https://www.legislation.gov.uk/ukpga/1988/54/section/3), [5](https://www.legislation.gov.uk/ukpga/1988/54/section/5), [Sch. 1 Pt. I](https://www.legislation.gov.uk/ukpga/1988/54/schedule/1/part/I), [Sch. 4 paras. 1](https://www.legislation.gov.uk/ukpga/1988/54/schedule/4/paragraph/1), [2](https://www.legislation.gov.uk/ukpga/1988/54/schedule/4/paragraph/2) (and also expressed to be repealed in part by [Water Act 1989 (c. 15, SIF 130)](https://www.legislation.gov.uk/ukpga/1989/15), [ss. 58(7)](https://www.legislation.gov.uk/ukpga/1989/15/section/58/7), [101(1)](https://www.legislation.gov.uk/ukpga/1989/15/section/101/1), [141(6)](https://www.legislation.gov.uk/ukpga/1989/15/section/141/6), [160(1)(2)(4)](https://www.legislation.gov.uk/ukpga/1989/15/section/160/1/2/4), [163](https://www.legislation.gov.uk/ukpga/1989/15/section/163), [189(4)–(10)](https://www.legislation.gov.uk/ukpga/1989/15/section/189/4), [190](https://www.legislation.gov.uk/ukpga/1989/15/section/190), [193(1)](https://www.legislation.gov.uk/ukpga/1989/15/section/193/1), [Sch. 26 paras. 3(1)(2)](https://www.legislation.gov.uk/ukpga/1989/15/schedule/26/paragraph/3/1/2), [17](https://www.legislation.gov.uk/ukpga/1989/15/schedule/26/paragraph/17), [40(4)](https://www.legislation.gov.uk/ukpga/1989/15/schedule/26/paragraph/40/4), [41(1)](https://www.legislation.gov.uk/ukpga/1989/15/schedule/26/paragraph/41/1), [57(6)](https://www.legislation.gov.uk/ukpga/1989/15/schedule/26/paragraph/57/6), [58](https://www.legislation.gov.uk/ukpga/1989/15/schedule/26/paragraph/58), [Sch. 27](https://www.legislation.gov.uk/ukpga/1989/15/schedule/27), [Pt. I](https://www.legislation.gov.uk/ukpga/1989/15/part/I))
+
+[^c765015]: Modification: [S. 3](https://www.legislation.gov.uk/ukpga/1984/38/section/3): powers transferred (1.7.1999) by virtue of [S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672), [art. 2](https://www.legislation.gov.uk/uksi/1999/672/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/672/schedule/1)
+
+[^c765016]: Textual amendment: Words substituted by [Agricultural Holdings Act 1986 (c. 5, SIF 2:3)](https://www.legislation.gov.uk/ukpga/1986/5), [s. 100](https://www.legislation.gov.uk/ukpga/1986/5/section/100), [Sch. 14 para. 62](https://www.legislation.gov.uk/ukpga/1986/5/schedule/14/paragraph/62)
+
+[^c765017]: Marginal citation: [1972 c. 70](https://www.legislation.gov.uk/ukpga/1972/70).
+
+[^c765018]: Modification: [S. 3(10)](https://www.legislation.gov.uk/ukpga/1984/38/section/3/10) restricted (30.10.1994) by [S.I. 1994/2716](https://www.legislation.gov.uk/uksi/1994/2716), [regs. 1(2)](https://www.legislation.gov.uk/uksi/1994/2716/regulation/1/2),70
+
+[^key-fb0bf9a7b7c5c5bbdc6e95e922667be4]: Modification: [S. 3(10)](https://www.legislation.gov.uk/ukpga/1984/38/section/3/10) restricted (1.4.2010) by [The Conservation of Habitats and Species Regulations 2010 (S.I. 2010/490)](https://www.legislation.gov.uk/uksi/2010/490), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/490/regulation/1/2), [85](https://www.legislation.gov.uk/uksi/2010/490/regulation/85) (with [reg. 125](https://www.legislation.gov.uk/uksi/2010/490/regulation/125))
+
+[^key-426b6751762459ec633b73f8b40c7d2e]: Modification: [S. 3(10)](https://www.legislation.gov.uk/ukpga/1984/38/section/3/10) restricted (30.11.2017) by [The Conservation of Habitats and Species Regulations 2017 (S.I. 2017/1012)](https://www.legislation.gov.uk/uksi/2017/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/1/2), [88](https://www.legislation.gov.uk/uksi/2017/1012/regulation/88)
+
+[^c765019]: Textual amendment: Words substituted by [Planning (Consequential Provisions) Act 1990 (c. 11, SIF 123:1, 2)](https://www.legislation.gov.uk/ukpga/1990/11), [s. 4](https://www.legislation.gov.uk/ukpga/1990/11/section/4), [Sch. 2 para. 66](https://www.legislation.gov.uk/ukpga/1990/11/schedule/2/paragraph/66)
+
+[^c765020]: Modification: S. 4: certain functions of the Secretary of State for Transport made exercisable (25.7.1995) as specified by [S.I. 1995/1986](https://www.legislation.gov.uk/uksi/1995/1986), [arts.1](https://www.legislation.gov.uk/uksi/1995/1986/article/1), [2](https://www.legislation.gov.uk/uksi/1995/1986/article/2), [Sch. 3 para.8](https://www.legislation.gov.uk/uksi/1995/1986/schedule/3/paragraph/8)
+
+    S. 4: power conferred (23.7.1999) by [S.I. 1999/2106](https://www.legislation.gov.uk/uksi/1999/2106), [art. 2](https://www.legislation.gov.uk/uksi/1999/2106/article/2), [Sch. 3 para. 8](https://www.legislation.gov.uk/uksi/1999/2106/schedule/3/paragraph/8)
+
+[^key-c56c2e5cc07e8e0cdf0784a0aa83ea77]: Modification: S. 4: functions made exercisable as specified (24.3.2009) by [The Contracting Out (Highway Functions) Order 2009 (S.I. 2009/721)](https://www.legislation.gov.uk/uksi/2009/721), [arts. 1](https://www.legislation.gov.uk/uksi/2009/721/article/1), [3](https://www.legislation.gov.uk/uksi/2009/721/article/3), [Sch. 3 para. 8](https://www.legislation.gov.uk/uksi/2009/721/schedule/3/paragraph/8)
+
+[^key-d5c87302339209746267929ade593be9]: Modification: S. 4: functions made exercisable as specified (E.) (1.4.2015) by [The Delegation of Functions (Strategic Highways Companies) (England) Regulations 2015 (S.I. 2015/378)](https://www.legislation.gov.uk/uksi/2015/378), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/378/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2015/378/regulation/3), [Sch. 3 para. 6](https://www.legislation.gov.uk/uksi/2015/378/schedule/3/paragraph/6)
+
+[^c765021]: Modification: S. 5(1): certain functions of the Secretary of State for Transport made exercisable (25.7.1995) by [S.I. 1995/1986](https://www.legislation.gov.uk/uksi/1995/1986), [art. 2](https://www.legislation.gov.uk/uksi/1995/1986/article/2), [Sch. 3 para.8](https://www.legislation.gov.uk/uksi/1995/1986/schedule/3/paragraph/8)
+
+    S. 5(1): power conferred (23.7.1999) by [S.I. 1999/2106](https://www.legislation.gov.uk/uksi/1999/2106), [art. 2](https://www.legislation.gov.uk/uksi/1999/2106/article/2), [Sch. 3 para. 8](https://www.legislation.gov.uk/uksi/1999/2106/schedule/3/paragraph/8)
+
+[^key-dc3e73762494173a6c516927708968dc]: Modification: S. 5(1): functions made exercisable as specified (24.3.2009) by [The Contracting Out (Highway Functions) Order 2009 (S.I. 2009/721)](https://www.legislation.gov.uk/uksi/2009/721), [arts. 1](https://www.legislation.gov.uk/uksi/2009/721/article/1), [3](https://www.legislation.gov.uk/uksi/2009/721/article/3), [Sch. 3 para. 8](https://www.legislation.gov.uk/uksi/2009/721/schedule/3/paragraph/8)
+
+[^key-2e8ddf12691295b53c22384842e50986]: Modification: S. 5(1): functions made exercisable as specified (E.) (1.4.2015) by [The Delegation of Functions (Strategic Highways Companies) (England) Regulations 2015 (S.I. 2015/378)](https://www.legislation.gov.uk/uksi/2015/378), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/378/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2015/378/regulation/3), [Sch. 3 para. 6](https://www.legislation.gov.uk/uksi/2015/378/schedule/3/paragraph/6)
+
+[^key-926085b0fb80b2c1448baf5fba30c184]: Textual amendment: Words in s. 5(3) substituted (1.6.2009) by [The Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 (S.I. 2009/1307)](https://www.legislation.gov.uk/uksi/2009/1307), [art. 1](https://www.legislation.gov.uk/uksi/2009/1307/article/1), [Sch. 1 para. 166](https://www.legislation.gov.uk/uksi/2009/1307/schedule/1/paragraph/166) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2009/1307/schedule/5))
+
+[^c765022]: Marginal citation: [1980 c. 66](https://www.legislation.gov.uk/ukpga/1980/66).
+
+[^c765023]: Textual amendment: Words substituted by [Road Traffic (Consequential Provisions) Act 1988 (c. 54, SIF 107:1)](https://www.legislation.gov.uk/ukpga/1988/54), [s. 4](https://www.legislation.gov.uk/ukpga/1988/54/section/4), [Sch. 3](https://www.legislation.gov.uk/ukpga/1988/54/schedule/3), [para. 26](https://www.legislation.gov.uk/ukpga/1988/54/paragraph/26)

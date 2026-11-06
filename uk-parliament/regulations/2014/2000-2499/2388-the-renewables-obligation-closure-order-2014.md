@@ -1,0 +1,726 @@
+---
+title: The Renewables Obligation Closure Order 2014
+id: uksi/2014/2388
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised-with-pending-changes
+made_date: '2014-09-08'
+text_date: '2017-04-01'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/uksi/2014/2388
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2014/2388/pdfs/uksiem_20142388_en.pdf
+- http://www.legislation.gov.uk/uksi/2014/2388/pdfs/uksi_20142388_en.pdf
+- http://www.legislation.gov.uk/uksi/2014/2388/data.pdf
+pending_changes: 3
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Renewables Obligation Closure Order 2014
+
+> **Warning: changes not yet applied to this text (3).** Text as at 2017-04-01. See https://www.legislation.gov.uk/changes/affected/uksi/2014/2388
+>
+> Extent: England, Wales, Scotland.
+
+*Extent: E+W+S*
+
+2014 No. 2388
+
+Electricity
+
+The Renewables Obligation Closure Order 2014
+
+Made
+
+8th September 2014
+
+Coming into force in accordance with article 1
+
+This Order is made by the Secretary of State in exercise of the powers conferred by sections 32K and 32LA of the Electricity Act 1989[^f00001].
+
+The Secretary of State has consulted the Gas and Electricity Markets Authority[^f00002], the National Consumer Council[^f00003], such generators of electricity from renewable sources and other persons as the Secretary of State considered appropriate in accordance with section 32LB(1) of the Electricity Act 1989[^f00004].
+
+In accordance with section 32LB(3) of the Electricity Act 1989 a draft of this instrument was laid before Parliament and approved by a resolution of each House of Parliament.
+
+Accordingly the Secretary of State makes the following Order:
+
+## 1. Citation and commencement[^key-c6d89dafd154aee3660e795ea79073f5]
+
+This Order may be cited as the Renewables Obligation Closure Order 2014 and comes into force on the day after the day on which it is made.
+
+## 2. Interpretation[^key-009174d6e8ccdae3f3ecba154d045659]
+
+(1) In this Order—
+
+- “accredited” is to be construed in accordance with the definition of “accreditation” in article 2 of the Renewables Obligation Order 2015[^key-180e65645d8ebd12d539a5b4c648696f];
+- “additional capacity”, in relation to a[^key-e40bf174cadb97e8c0a5870e0d1c7381] [^key-c57d425f44e22d6f222dd7f92744ea78]... solar pv station, means any generating capacity which does not form part of the original capacity of the station;
+- “CHPQA 3” means the Combined Heat and Power Quality Assurance Standard, Issue 3, published by the Department for Environment, Food and Rural Affairs in January 2009[^f00006];
+- “CHPQA 5” means the Combined Heat and Power Quality Assurance Standard, Issue 5, published by the Department of Energy and Climate Change in November 2013[^f00007];
+- “CHPQA 6” means the Combined Heat and Power Quality Assurance Standard, Issue 6, October 2016;[^key-8fc3f5a012d01c8393e529f6574faf6c]
+- “commission” and “commissioned” are to be construed in accordance with the definition of “commissioned” in article 2 of the Renewables Obligation Order 2015;
+- “developer”, in relation to a [^key-c57d425f44e22d6f222dd7f92744ea78]... solar pv station, means a person who—
+  - (a) applied for planning permission for the station,
+  - (b) arranged for grid works to be carried out in relation to the station,
+  - (c) arranged for the construction of any part of the station,
+  - (d) constructed any part of the station, or
+  - (e) operates, or proposes to operate, the station;
+- “exclusivity agreement”, in relation to land, means an agreement, by the owner or a lessee of the land, not to permit any person (other than the persons identified in the agreement) to construct a solar pv station on the land;
+- “grid works”, in relation to a generating station, means—
+  - (a) the construction of a connection between the station and a transmission or distribution system for the purpose of enabling electricity to be conveyed from the station to that system, or
+  - (b) the carrying out of modifications to a connection between the station and a transmission or distribution system for the purpose of enabling an increase in the amount of electricity that can be conveyed over that connection from the station to that system;
+- “[^key-2b59507d4e0b244790587f83bb3d5ed7]**landfill**” has the meaning given in Article 2(g) of Council Directive [1999/31/EC](https://www.legislation.gov.uk/european/directive/1999/0031);
+- “large solar pv closure date” means 31st March 2015[^key-bb8d491be978bd33fd4c053e0ba82b21];
+- “large solar pv station” means a solar pv station where the total installed capacity of the RO capacity of the station is more than 5 megawatts;
+- “licensed network operator” means a distribution licence holder or a transmission licence holder;
+- “network operator” means a distribution exemption holder, distribution licence holder or a transmission licence holder;
+- “original capacity”, in relation to a generating station, means the generating capacity of the station as accredited;
+- “planning permission” has the meaning given in article 13 except that in articles 2B(3) , 2C(2), 2F(3) and 2G(2)[^key-f08eabd3f44ffaf5caf7a1e86401e9d9] it does not include—
+  - (a) outline planning permission within the meaning of section 92 of the Town and Country Planning Act 1990, or
+  - (b) planning permission in principle within the meaning of section 59 of the Town and Country Planning (Scotland) Act 1997;
+- “pre-2016 additional capacity”, in relation to a large solar pv station, means any additional capacity which in the Authority’s view first formed part of the station from a date which is no later than 31st March 2016;
+- “pre-2017 additional capacity”, in relation to a small solar pv station, means any additional capacity which in the Authority’s view first formed part of the station from a date which is no later than 31st March 2017[^key-b5c13f0c4a6ac00598dec38cec1d8b6e];
+- “radar works” means—
+  - (a) the construction of a radar station,
+  - (b) the installation of radar equipment,
+  - (c) the carrying out of modifications to a radar station or to radar equipment, or
+  - (d) the testing of a radar station or radar equipment;
+- “**regular biomass**” means biomass and bioliquids;
+- “relevant date” means the later of—
+  - (a) 31st October 2014, and
+  - (b) the date falling two months after the day on which this Order comes into force; [^key-e38a13565edf67e6b9d7a1aff26145ce]...
+- “[^key-10ca23cdc7e9b66a7291fbbca5c451f4]**relevant fossil fuel station**” has the same meaning as in Schedule 5 to the Renewables Obligation Order 2015;
+- “RO capacity” has—
+  - (a) in the case of a generating station located in Scotland, the same meaning as in the Renewables Obligation (Scotland) Order 2009, and
+  - (b) in any other case, the same meaning as in the Renewables Obligation Order 2015;
+- “Scotland” has the meaning given in section 32(3) of the Electricity Act 1989;
+- “small solar pv closure date” means the later of—
+  - (a) 31st March 2016, and
+  - (b) the last day of the month in which this Order comes into force;
+- “small solar pv station” means a solar pv station where the total installed capacity of the RO capacity of the station is less than or equal to 5 megawatts;
+- [^key-34d91cbb5ab18c70baa4d86d517d49d0]...
+- “solar pv station” means a generating station that generates electricity from the direct conversion of sunlight into electricity;
+- “valid application for planning permission” has the following meaning—
+  - (a) in relation to an application made in England, an application for planning permission which is either—
+    - (i) a “valid application” within the meaning of article 34(4) of the Town and Country Planning (Development Management Procedure) (England) Order 2015; or
+    - (ii) a “non-validated application” within the meaning of article 34(5) of that Order;
+  - (b) in relation to an application made in Wales, an application for planning permission which is a “valid application” within the meaning of article 22(3) of the Town and Country Planning (Development Management Procedure) (Wales) Order 2012;
+  - (c) in relation to an application made in Scotland, an application for planning permission made in accordance with regulation 9 of the Town and Country Planning (Development Management Procedure) (Scotland) Regulations 2013;
+- “**waste**” has the meaning given in section 75(2) of the Environmental Protection Act 1990 but does not include gas derived from landfill sites or gas produced from the treatment of sewage.
+
+(2) In this Order, the following have the same meaning as in the Renewables Obligation Order 2015[^key-d6e6058ce25b952c1eb1a5d61e21cd23]—
+
+- “biomass”;
+- “energy crops”;
+- “permitted ancillary purposes”;
+- [^key-db7f205eb34e48f2fa7d7ab78ee217aa]...
+- “total installed capacity”[^key-180ecde2ebdb71d7f2284af857213136][^key-9f0b706bb80466197fbf5a7d4e70488b]...
+- [^key-db7f205eb34e48f2fa7d7ab78ee217aa]....
+
+## 2A. No certificates to be issued in respect of electricity generated after the large solar pv closure date by large solar pv stations[^key-36834482df75fe32f6191f35c6910411][^key-df9bd3ca0da3e78416aaea394090739e]
+
+(1) Subject to paragraph (2), no renewables obligation certificates are to be issued under a renewables obligation order in respect of electricity generated after the large[^key-4c1f856b2100d1abd1a5773d7107096e] solar pv closure date by a large solar pv station.
+
+(2) Paragraph (1) does not apply to electricity generated in the circumstances set out in any one or more of articles 2B to 2D.
+
+## 2B. Circumstances relating to the original capacity of large solar pv stations
+
+(1) The circumstances set out in this article are where the electricity is generated using the original capacity of a large solar pv station—
+
+- (a) which was accredited on or before the large[^key-f998911860b3726a42d99f8a1d177af9] solar pv closure date,
+- (b) which was granted preliminary accreditation on or before 13th May 2014 and which was accredited on or before 31st March 2016, or
+- (c) which was accredited on or before 31st March 2016 and in respect of which the documents specified in paragraph (2) or (3) were provided to the Authority with the application for accreditation of the station.
+
+(2) The documents specified in this paragraph are—
+
+- (a) evidence of an agreement with a network operator (“the relevant network operator”) to carry out grid works in relation to the station (“the relevant grid works”);
+- (b) a copy of a document written by, or on behalf of, the relevant network operator which estimated or set a date for completion of the relevant grid works (“the planned grid works completion date”) which was no later than 31st March 2015;
+- (c) a letter or email written by, or on behalf of, the relevant network operator confirming (whether or not such confirmation is subject to any conditions or other terms) that—
+  - (i) the relevant grid works were completed after the planned grid works completion date, and
+  - (ii) in the relevant network operator’s opinion, the failure to complete the relevant grid works on or before the planned grid works completion date was not due to any breach by a developer of the station of any agreement with the relevant network operator; and
+- (d) a declaration by the operator of the station that, to the best of their knowledge and belief, the station would have been commissioned on or before 31st March 2015 if the relevant grid works had been completed on or before the planned grid works completion date.
+
+(3) The documents specified in this paragraph are—
+
+- (a) subject to paragraph (4), evidence that an application for planning permission for the station was made on or before 13th May 2014;
+- (b) subject to paragraph (5)—
+  - (i) a copy of an offer from a licensed network operator made on or before 13th May 2014 to carry out grid works in relation to the station, and
+  - (ii) evidence that the offer referred to in paragraph (i) was accepted on or before 13th May 2014 (whether or not such acceptance was subject to any conditions or other terms); and
+- (c) a declaration by the operator of the station that, to the best of their knowledge and belief, as at 13th May 2014 a developer of the station (or a person connected with a developer of the station within the meaning of section 1122 of the Corporation Tax Act 2010)—
+  - (i) was an owner or lessee of the land on which the station is situated,
+  - (ii) had entered into an agreement to lease the land on which the station is situated,
+  - (iii) had an option to purchase or to lease the land on which the station is situated; or
+  - (iv) was a party to an exclusivity agreement in relation to the land on which the station is situated.
+
+(4) Paragraph (3)(a) does not apply if the application for accreditation of the station is accompanied by—
+
+- (a) a copy of a planning permission for the station which was granted on or before 13th May 2014, or
+- (b) a declaration by the operator of the station that, to the best of their knowledge and belief, planning permission is not required for the station.
+
+(5) Paragraph (3)(b) does not apply if the application for accreditation of the station is accompanied by a declaration by the operator of the station that, to the best of their knowledge and belief, no grid works were required to be carried out by a licensed network operator in order to enable the station to be commissioned.
+
+(6) In paragraph (1)(b), “preliminary accreditation” has the same meaning as in the Renewables Obligation Order 2015[^key-7b3394fac711e97bb0882745d3c7842e].
+
+## 2C. Circumstances relating to pre-2016 additional capacity used by large solar pv stations accredited on or before 13th May 2014
+
+(1) The circumstances set out in this article are where the electricity is generated—
+
+- (a) using pre-2016 additional capacity, and
+- (b) by a large solar pv station—
+  - (i) which was accredited on or before 13th May 2014, and
+  - (ii) in relation to which the documents specified in paragraph (2) have been submitted by the operator of the station to the Authority.
+
+(2) The documents specified in this paragraph are—
+
+- (a) subject to paragraph (3), evidence that an application was made on or before 13th May 2014 for planning permission for the pre-2016 additional capacity to form part of the station;
+- (b) subject to paragraph (4)—
+  - (i) a copy of an offer from a licensed network operator made on or before 13th May 2014 to modify the connection between the station and a transmission or distribution system in order to enable the electricity generated using pre-2016 additional capacity to be conveyed over that connection, and
+  - (ii) evidence that the offer referred to in paragraph (i) was accepted on or before 13th May 2014 (whether or not such acceptance was subject to any conditions or other terms); and
+- (c) a declaration by the operator of the station that, to the best of their knowledge and belief, as at 13th May 2014 a developer of the station (or a person connected with a developer of the station within the meaning of section 1122 of the Corporation Tax Act 2010)—
+  - (i) was an owner or lessee of the land on which the station is situated,
+  - (ii) had entered into an agreement to lease the land on which the station is situated,
+  - (iii) had an option to purchase or to lease the land on which the station is situated, or
+  - (iv) was a party to an exclusivity agreement in relation to the land on which the station is situated.
+
+(3) Paragraph (2)(a) does not apply if the operator of the station has submitted to the Authority—
+
+- (a) a copy of a planning permission which was granted on or before 13th May 2014 for the pre-2016 additional capacity to form part of the station, or
+- (b) a declaration in writing by the operator of the station that, to the best of their knowledge and belief, planning permission is not required for the pre-2016 additional capacity to form part of the station.
+
+(4) Paragraph (2)(b) does not apply if the operator of the station has submitted to the Authority a declaration in writing that, to the best of their knowledge and belief—
+
+- (a) the station is not connected to any transmission or distribution system, or
+- (b) no modifications to the connection between the station and a transmission or distribution system were required to be carried out by a licensed network operator in order to enable the electricity generated using pre-2016 additional capacity to be conveyed over that connection.
+
+## 2D. Circumstances relating to additional capacity used by large solar pv stations accredited on or before the large solar pv closure date[^key-36226e7375c817af9a4582d7e6e41aa0]
+
+(1) The circumstances set out in this article are where the electricity is generated by a large solar pv station which was accredited on or before the large[^key-a0a27045a4ac435b149a4c1e9f70820a] solar pv closure date and generated using—
+
+- (a) additional capacity which in the Authority’s view first formed part of the station from a date no later than the solar pv closure date, or
+- (b) pre-2016 additional capacity in respect of which the documents specified in paragraph (2) have been submitted by the operator of the station to the Authority.
+
+(2) The documents specified in this paragraph are—
+
+- (a) evidence of an agreement with a network operator (“the relevant network operator”) to carry out grid works in relation to the station (“the relevant grid works”);
+- (b) a copy of a document written by, or on behalf of, the relevant network operator which estimated or set a date for completion of the relevant grid works (“the planned grid works completion date”) which was no later than 31st March 2015;
+- (c) a letter or email written by, or on behalf of, the relevant network operator confirming (whether or not such confirmation is subject to any conditions or other terms) that—
+  - (i) the relevant grid works were completed after the planned grid works completion date, and
+  - (ii) in the relevant network operator’s opinion, the failure to complete the relevant grid works on or before the planned grid works completion date was not due to any breach by a developer of the station of any agreement with the relevant network operator; and
+- (d) a declaration by the operator of the station that, to the best of their knowledge and belief, the pre-2016 additional capacity would have formed part of the station on or before 31st March 2015 if the relevant grid works had been completed on or before the planned grid works completion date.
+
+## 2E. No certificates to be issued in respect of electricity generated after the small solar pv closure date by small solar pv stations[^key-9ab93ffdd15c311fecfcdbd0795374fb]
+
+(1) Subject to paragraph (2), no renewables obligation certificates are to be issued under a renewables obligation order in respect of electricity generated after the small solar pv closure date by a small solar pv station.
+
+(2) Paragraph (1) does not apply to electricity generated in the circumstances set out in any one or more of articles 2F to 2H.
+
+## 2F. Circumstances relating to the original capacity of small solar pv stations
+
+(1) The circumstances set out in this article are where the electricity is generated using the original capacity of a small solar pv station—
+
+- (a) which was accredited on or before the small solar pv closure date,
+- (b) which was granted preliminary accreditation on or before 22nd July 2015 and which was accredited on or before 31st March 2017, or
+- (c) which was accredited on or before 31st March 2017 and in respect of which the documents specified in paragraph (2) or (3) were provided to the Authority with the application for accreditation of the station.
+
+(2) The documents specified in this paragraph are—
+
+- (a) evidence of an agreement with a network operator (“the relevant network operator”) to carry out grid works in relation to the station (“the relevant grid works”);
+- (b) a copy of a document written by, or on behalf of, the relevant network operator which estimated or set a date for completion of the relevant grid works (“the planned grid works completion date”) which was no later than 31st March 2016;
+- (c) a letter or email written by, or on behalf of, the relevant network operator confirming (whether or not such confirmation is subject to any conditions or other terms) that—
+  - (i) the relevant grid works were completed after the planned grid works completion date, and
+  - (ii) in the relevant network operator’s opinion, the failure to complete the relevant grid works on or before the planned grid works completion date was not due to any breach by a developer of the station of any agreement with the relevant network operator; and
+- (d) a declaration by the operator of the station that, to the best of their knowledge and belief, the station would have been commissioned on or before 31st March 2016 if the relevant grid works had been completed on or before the planned grid works completion date.
+
+(3) The documents specified in this paragraph are—
+
+- (a) subject to paragraph (4), evidence that a valid application for planning permission for the station was made on or before 22nd July 2015;
+- (b) subject to paragraph (5)—
+  - (i) a copy of an offer from a licensed network operator made on or before 22nd July 2015 to carry out grid works in relation to the station, and
+  - (ii) evidence that the offer referred to in paragraph (i) was accepted on or before 22nd July 2015 (whether or not such acceptance was subject to any conditions or other terms); and
+- (c) a declaration by the operator of the station that, to the best of their knowledge and belief, as at 22nd July 2015 a developer of the station (or a person connected with a developer of the station within the meaning of section 1122 of the Corporation Tax Act 2010)—
+  - (i) was an owner or lessee of the land on which the station is situated,
+  - (ii) had entered into an agreement to purchase or to lease the land on which the station is situated,
+  - (iii) had an option to purchase or to lease the land on which the station is situated; or
+  - (iv) was a party to an exclusivity agreement in relation to the land on which the station is situated.
+
+(4) Paragraph (3)(a) does not apply if the application for accreditation of the station is accompanied by—
+
+- (a) a copy of a planning permission for the station which was granted on or before 22nd July 2015, or
+- (b) a declaration by the operator of the station that, to the best of their knowledge and belief, planning permission is not required for the station.
+
+(5) Paragraph (3)(b) does not apply if the application for accreditation of the station is accompanied by a declaration by the operator of the station that, to the best of their knowledge and belief, no grid works were required to be carried out by a licensed network operator in order to enable the station to be commissioned.
+
+(6) In paragraph (1)(b), “preliminary accreditation” has the same meaning as in the Renewables Obligation Order 2015.
+
+## 2G. Circumstances relating to pre-2017 additional capacity used by small solar pv stations accredited on or before 22nd July 2015
+
+(1) The circumstances set out in this article are where the electricity is generated—
+
+- (a) using pre-2017 additional capacity, and
+- (b) by a small solar pv station—
+  - (i) which was accredited on or before 22nd July 2015, and
+  - (ii) in relation to which the documents specified in paragraph (2) have been submitted by the operator of the station to the Authority.
+
+(2) The documents specified in this paragraph are—
+
+- (a) subject to paragraph (3), evidence that a valid application for planning permission for the pre-2017 additional capacity to form part of the station was made on or before 22nd July 2015;
+- (b) subject to paragraph (4)—
+  - (i) a copy of an offer from a licensed network operator made on or before 22nd July 2015 to modify the connection between the station and a transmission or distribution system in order to enable the electricity generated using pre-2017 additional capacity to be conveyed over that connection, and
+  - (ii) evidence that the offer referred to in paragraph (i) was accepted on or before 22nd July 2015 (whether or not such acceptance was subject to any conditions or other terms); and
+- (c) a declaration by the operator of the station that, to the best of their knowledge and belief, as at 22nd July 2015 a developer of the station (or a person connected with a developer of the station within the meaning of section 1122 of the Corporation Tax Act 2010)—
+  - (i) was an owner or lessee of the land on which the station is situated,
+  - (ii) had entered into an agreement to purchase or to lease the land on which the station is situated,
+  - (iii) had an option to purchase or to lease the land on which the station is situated, or
+  - (iv) was a party to an exclusivity agreement in relation to the land on which the station is situated.
+
+(3) Paragraph (2)(a) does not apply if the operator of the station has submitted to the Authority—
+
+- (a) a copy of a planning permission which was granted on or before 22nd July 2015 for the pre-2017 additional capacity to form part of the station, or
+- (b) a declaration in writing by the operator of the station that, to the best of their knowledge and belief, planning permission is not required for the pre-2017 additional capacity to form part of the station.
+
+(4) Paragraph (2)(b) does not apply if the operator of the station has submitted to the Authority a declaration in writing that, to the best of their knowledge and belief—
+
+- (a) the station is not connected to any transmission or distribution system, or
+- (b) no modifications to the connection between the station and a transmission or distribution system were required to be carried out by a licensed network operator in order to enable the electricity generated using pre-2017 additional capacity to be conveyed over that connection.
+
+## 2H. Circumstances relating to additional capacity used by small solar pv stations accredited on or before the small solar pv closure date
+
+(1) The circumstances set out in this article are where the electricity is generated by a small solar pv station which was accredited on or before the small solar pv closure date and generated using—
+
+- (a) additional capacity which in the Authority’s view first formed part of the station from a date no later than the small solar pv closure date, or
+- (b) pre-2017 additional capacity in respect of which the documents specified in paragraph (2) have been submitted by the operator of the station to the Authority.
+
+(2) The documents specified in this paragraph are—
+
+- (a) evidence of an agreement with a network operator (“the relevant network operator”) to carry out grid works in relation to the station (“the relevant grid works”);
+- (b) a copy of a document written by, or on behalf of, the relevant network operator which estimated or set a date for completion of the relevant grid works (“the planned grid works completion date”) which was no later than 31st March 2016;
+- (c) a letter or email written by, or on behalf of, the relevant network operator confirming (whether or not such confirmation is subject to any conditions or other terms) that—
+  - (i) the relevant grid works were completed after the planned grid works completion date, and
+  - (ii) in the relevant network operator’s opinion, the failure to complete the relevant grid works on or before the planned grid works completion date was not due to any breach by a developer of the station of any agreement with the relevant network operator; and
+- (d) a declaration by the operator of the station that, to the best of their knowledge and belief, the pre-2017 additional capacity would have formed part of the station on or before 31st March 2016 if the relevant grid works had been completed on or before the planned grid works completion date.
+
+## 3. No certificates to be issued in respect of electricity generated after 31st March 2017 by stations which are not ... solar pv stations[^key-ecef46e0b5dfeb34537eb9106fdb2a17][^key-2781994f51fa0c6ceddafb3600b1c4eb][^key-e681503e2a861dec4d788b57975e4095]
+
+(1) Subject to paragraph (2), no renewables obligation certificates are to be issued under a renewables obligation order in respect of electricity generated after 31st March 2017 by a generating station which is not a[^key-46e68863c5ec246f8077229b39f53712] [^key-23debf4c31e0df5b34dd460b4373fc6c]... solar pv station.
+
+(2) Paragraph (1) does not apply to electricity generated in any one or more of the circumstances set out in articles 4 to 12.
+
+## 4. Circumstances relating to generating stations accredited, and generating capacity added, on or before 31st March 2017[^key-49e538db474b80663bfe949e755813b2]
+
+The circumstances set out in this article are where the electricity is—
+
+- (a) generated by a generating station which was accredited on or before 31st March 2017, and
+- (b) generated using—
+  - (i) the original capacity of the station, or
+  - (ii) any generating capacity which in the Authority’s view first formed part of the station from a date no later than 31st March 2017.
+
+## 5. Circumstances relating to certain delays in grid or radar works in the case of generating stations accredited on or before 31st March 2017[^key-93011d00e970d4be3fe1312b1edf11b7]
+
+(1) The circumstances set out in this article are where the electricity is—
+
+- (a) generated by a generating station which was accredited on or before 31st March 2017, and
+- (b) generated using 2017/18 capacity in respect of which the documents specified in paragraph (2), (3) or (4) have been submitted by the operator of the station to the Authority.
+
+(2) The documents specified in this paragraph are—
+
+- (a) evidence of an agreement with a network operator (“the relevant network operator”) to carry out grid works in relation to the station (“the relevant grid works”);
+- (b) a copy of a document written by, or on behalf of, the relevant network operator which estimated or set a date for completion of the relevant grid works (“the planned grid works completion date”) which was no later than 31st March 2017;
+- (c) a letter from the relevant network operator confirming (whether or not such confirmation is subject to any conditions or other terms) that—
+  - (i) the relevant grid works were completed after the planned grid works completion date, and
+  - (ii) in the relevant network operator’s opinion, the failure to complete the relevant grid works on or before the planned grid works completion date was not due to any breach by a generating station developer of any agreement with the relevant network operator; and
+- (d) a declaration by the operator of the generating station that, to the best of their knowledge and belief, the 2017/18 capacity would have formed part of the station on or before 31st March 2017 if the relevant grid works had been completed on or before the planned grid works completion date.
+
+(3) The documents specified in this paragraph are—
+
+- (a) evidence of an agreement between a generating station developer and a person who is not a generating station developer (“the radar works agreement”) for the carrying out of radar works (“the relevant radar works”);
+- (b) a copy of a document written by, or on behalf of, a party to the radar works agreement (other than a generating station developer) which estimated or set a date for completion of the relevant radar works (“the planned radar works completion date”) which was no later than 31st March 2017;
+- (c) a letter from a party to the radar works agreement (other than a generating station developer) confirming, whether or not such confirmation is subject to any conditions or other terms, that—
+  - (i) the relevant radar works were completed after the planned radar works completion date, and
+  - (ii) in that party’s opinion, the failure to complete the relevant radar works on or before the planned radar works completion date was not due to any breach of the radar works agreement by a generating station developer; and
+- (d) a declaration by the operator of the generating station that, to the best of their knowledge and belief, the 2017/18 capacity would have formed part of the station on or before 31st March 2017 if the relevant radar works had been completed on or before the planned radar works completion date.
+
+(4) The documents specified in this paragraph are—
+
+- (a) the documents specified in paragraph (2)(a), (b) and (c);
+- (b) the documents specified in paragraph (3)(a), (b) and (c); and
+- (c) a declaration by the operator of the generating station that, to the best of their knowledge and belief, the 2017/18 capacity would have formed part of the station on or before 31st March 2017 if—
+  - (i) the relevant grid works had been completed on or before the planned grid works completion date, and
+  - (ii) the relevant radar works had been completed on or before the planned radar works completion date.
+
+(5) In this article—
+
+- “2017/18 capacity”, in relation to a generating station, means any generating capacity—
+  - (a) which does not form part of the original capacity of the station, and
+  - (b) which, in the Authority’s view, first formed part of the station from a date no earlier than 1st April 2017 and no later than 31st March 2018; and
+- “generating station developer”, in relation to a generating station, means the operator of the station, or a person who arranged for the construction of the 2017/18 capacity of the station.
+
+## 6. Circumstances relating to certain delays in grid or radar works in the case of generating stations first accredited after 31st March 2017[^key-e809ddde2c6970d456588d7ebe8cca06]
+
+(1) The circumstances set out in this article are where the electricity is generated using the original capacity of a generating station—
+
+- (a) which was not accredited on or before 31st March 2017,
+- (b) which was accredited on or before 31st March 2018, and
+- (c) in respect of which the documents specified in paragraph (2), (3) or (4) were submitted by the operator of the station and received by the Authority on or before the date on which the Authority made its decision to accredit the station.
+
+(2) The documents specified in this paragraph are—
+
+- (a) evidence of an agreement with a network operator (“the relevant network operator”) to carry out grid works in relation to the station (“the relevant grid works”);
+- (b) a copy of a document written by, or on behalf of, the relevant network operator which estimated or set a date for completion of the relevant grid works (“the planned grid works completion date”) which was no later than 31st March 2017;
+- (c) a letter from the relevant network operator confirming (whether or not such confirmation is subject to any conditions or other terms) that—
+  - (i) the relevant grid works were completed after the planned grid works completion date, and
+  - (ii) in the relevant network operator’s opinion, the failure to complete the relevant grid works on or before the planned grid works completion date was not due to any breach by a generating station developer of any agreement with the relevant network operator; and
+- (d) a declaration by the operator of the generating station that, to the best of their knowledge and belief, the station would have been commissioned on or before 31st March 2017 if the relevant grid works had been completed on or before the planned grid works completion date.
+
+(3) The documents specified in this paragraph are—
+
+- (a) evidence of an agreement between a generating station developer and a person who is not a generating station developer (“the radar works agreement”) for the carrying out of radar works (“the relevant radar works”);
+- (b) a copy of a document written by, or on behalf of, a party to the radar works agreement (other than a generating station developer) which estimated or set a date for completion of the relevant radar works (“the planned radar works completion date”) which was no later than 31st March 2017;
+- (c) a letter from a party to the radar works agreement (other than a generating station developer) confirming, whether or not such confirmation is subject to any conditions or other terms, that—
+  - (i) the relevant radar works were completed after the planned radar works completion date, and
+  - (ii) in that party’s opinion, the failure to complete the relevant radar works on or before the planned radar works completion date was not due to any breach of the radar works agreement by a generating station developer; and
+- (d) a declaration by the operator of the generating station that, to the best of their knowledge and belief, the station would have been commissioned on or before 31st March 2017 if the relevant radar works had been completed on or before the planned radar works completion date.
+
+(4) The documents specified in this paragraph are—
+
+- (a) the documents specified in paragraph (2)(a), (b) and (c);
+- (b) the documents specified in paragraph (3)(a), (b) and (c); and
+- (c) a declaration by the operator of the generating station that, to the best of their knowledge and belief, the station would have been commissioned on or before 31st March 2017 if—
+  - (i) the relevant grid works had been completed on or before the planned grid works completion date, and
+  - (ii) the relevant radar works had been completed on or before the planned radar works completion date.
+
+(5) In this article, “generating station developer”, in relation to a generating station, means the operator of the station, or a person who arranged for the construction of the station.
+
+## 7. Circumstances relating to generating stations in respect of which an investment contract has ceased to have effect[^key-a2264439588c8d9c7ab796b0f7511b4a]
+
+(1) The circumstances set out in this article are where the electricity is generated using the original capacity of a generating station—
+
+- (a) which was accredited on or before 31st March 2018, and
+- (b) in respect of which the document specified in paragraph (2) was received by the Authority on or before the date on which the Authority made its decision to accredit the station.
+
+(2) The document specified in this paragraph is a letter from the Secretary of State confirming that—
+
+- (a) an investment contract was made in relation to the generation of electricity by the generating station, and
+- (b) the investment contract has been terminated or has otherwise ceased to have effect by reason of a permitted termination event.
+
+(3) In this article—
+
+- “investment contract” has the meaning given in paragraph 1 of Schedule 2 to the Energy Act 2013[^f00010]; and
+- “permitted termination event”, in relation to an investment contract, means—
+  - (a) a delay in the approval of the investment contract by the European Commission,
+  - (b) a refusal by the European Commission to approve the investment contract,
+  - (c) a condition attached by the European Commission to its approval of the investment contract,
+  - (d) a judgment of the Court of Justice of the European Union that invalidates an approval of the investment contract by the European Commission, or
+  - (e) an amendment to the investment contract that is made, or proposed, by the Secretary of State in the light of any standard terms and conditions of contracts for difference issued under section 11 of the Energy Act 2013.
+
+## 8. Circumstances relating to certain generating stations that have been allocated a place within the dedicated biomass cap[^key-cda0acd3e8b2e8a3cadcba0642db6721]
+
+(1) The circumstances set out in this article are where the electricity is generated—
+
+- (a) using the original capacity of a generating station—
+  - (i) which is not a relevant fossil fuel station[^key-96d17920d2154d0137310b709aa2b8e9],
+  - (ii) which was accredited on or before 30th September 2018,
+  - (iii) which has, in at least one month since it was accredited, generated electricity only from biomass, and
+  - (iv) in respect of which the documents specified in paragraph (3) were received by the Authority on or before the date on which the Authority made its decision to accredit the station, and
+- (b) in a month in which the station generates electricity wholly or partly from solid fuel which is—
+  - (i) regular biomass, or
+  - (ii) energy crops.
+
+(2) For the purposes of paragraph (1)(a)(iii), in determining whether electricity has been generated only from biomass, no account is to be taken of any fossil fuel or waste which the generating station uses for permitted ancillary purposes.
+
+(3) The documents specified in this paragraph are—
+
+- (a) a copy of a letter from the Secretary of State, where the letter—
+  - (i) is dated no later than 31st March 2017, and
+  - (ii) states that the generating station has been allocated a place under the dedicated biomass cap; and
+- (b) where the generating station has not been certified under CHPQA 3, CHPQA 5 or CHPQA 6[^key-5c6d5caf5e21545abd059515e4959265] at any time before it was commissioned, a declaration by the operator of the station that, to the best of their knowledge and belief, the station’s place under the dedicated biomass cap has not lapsed or been revoked or withdrawn by the Secretary of State.
+
+(4) In paragraph (3), “dedicated biomass cap” refers to the Government’s policy for a 400 megawatt cap on the total amount of new build generating capacity that receives support for the generation of electricity only from biomass[^f00011].
+
+## 9. Circumstances relating to certain Scottish offshore wind generating stations using test and demonstration wind turbines[^key-ee2a2d7781375c652277ab323b9e6561]
+
+The circumstances set out in this article are where—
+
+- (a) article 30C of the Renewables Obligation (Scotland) Order 2009[^f00012] applies to the electricity, and
+- (b) the electricity is generated using the original capacity of a generating station which was accredited on or before 30th September 2018.
+
+## 10. Circumstances relating to certain Scottish offshore wind generating stations using floating wind turbines[^key-2b4725ca4f13e76a9c526bb2a94306f1]
+
+The circumstances set out in this article are where—
+
+- (a) article 30D of the Renewables Obligation (Scotland) Order 2009[^f00013] applies to the electricity, and
+- (b) the electricity is generated using the original capacity of a generating station which was accredited on or before 30th September 2018.
+
+## 11. Circumstances relating to certain offshore wind, gasification or pyrolysis generating stations notified to the Authority on or before the relevant date[^key-7606f5da84ef5d72dba39c42893a1c14]
+
+The circumstances set out in this article are where the electricity is generated—
+
+- (a) using the original capacity of a generating station—
+  - (i) which was accredited on or before 31st March 2018, and
+  - (ii) in respect of which a notice of intent (within the meaning of article 13) was received by the Authority on or before the relevant date, and
+- (b) in the way described in Part 1 of Schedule 5 to the Renewables Obligation Order 2015[^key-34569bf9fadbea58fb923e2d5bbd2452] as—
+  - (i) advanced gasification/pyrolysis,
+  - (ii) offshore wind, or
+  - (iii) standard gasification/pyrolysis.
+
+## 12. Circumstances relating to certain biomass generating stations having been certified under the CHPQA and notified to the Authority on or before the relevant date[^key-f106143a2583c5854288abc1b3489e7d]
+
+(1) The circumstances set out in this article are where the electricity is generated—
+
+- (a) using the original capacity of a generating station—
+  - (i) which was certified under CHPQA 3 or CHPQA 5 at any time on or before the relevant date (whether or not the station remains so certified),
+  - (ii) which is not a relevant fossil fuel station[^key-cb7a89bce0cec5dfa87261cba466af92],
+  - (iii) which was accredited on or before 30th September 2018,
+  - (iv) which has, in at least one month since it was accredited, generated electricity only from biomass, and
+  - (v) in respect of which a notice of intent (within the meaning of article 13) was received by the Authority on or before the relevant date, and
+- (b) in a month in which the station generates electricity wholly or partly from solid fuel which is—
+  - (i) regular biomass, or
+  - (ii) energy crops.
+
+(2) For the purposes of paragraph (1)(a)(iv), in determining whether electricity has been generated only from biomass, no account is to be taken of any fossil fuel or waste which the generating station uses for permitted ancillary purposes.
+
+## 13. Notices of intent[^key-53b2b8b7b4bb762c70f50086caa65d63]
+
+(1) For the purposes of articles 11 and 12, a notice of intent, in relation to a generating station, is a notice which—
+
+- (a) meets the requirements specified in paragraphs (2) and (3),
+- (b) contains the declarations specified in paragraph (4), and
+- (c) is accompanied by the documents specified in paragraph (5).
+
+(2) The requirements specified in this paragraph are that the notice—
+
+- (a) is in writing,
+- (b) states the name and address of the person submitting the notice,
+- (c) states that it is being submitted as a notice of intent for the purposes of article 11 or 12,
+- (d) identifies the location, or proposed location, of the station to which the notice relates,
+- (e) confirms that the person submitting the notice is a person who proposes to construct or operate the station to which the notice relates, or a person who is arranging for the construction of the station, and
+- (f) confirms that the station is not yet commissioned.
+
+(3) The requirements specified in this paragraph are that each declaration contained in the notice in accordance with this article must—
+
+- (a) be signed by an appropriate individual, and
+- (b) state that it is made to the best of that individual’s knowledge and belief.
+
+(4) The declarations specified in this paragraph are—
+
+- (a) a declaration that following receipt of the confirmation referred to in paragraph (9)(b)—
+  - (i) the person submitting the notice will have access to sufficient resources to commission the station, and
+  - (ii) the station is expected to be commissioned on or before 31st March 2017; and
+- (b) in the case of a station that is not, or is not intended to be, an offshore generating station, a declaration that the person submitting the notice (or a person connected with that person within the meaning of section 1122 of the Corporation Tax Act 2010[^f00014])—
+  - (i) owns the land on which the station is, or is to be, situated,
+  - (ii) has entered into an agreement to lease the land on which the station is, or is to be, situated, or
+  - (iii) has an option to purchase or to lease the land on which the station is, or is to be, situated.
+
+(5) The documents specified in this paragraph are—
+
+- (a) subject to paragraph (6), a copy of—
+  - (i) an offer from a network operator (“the relevant network operator”) to carry out grid works in relation to the station (“the relevant grid works”); and
+  - (ii) a document written by, or on behalf of, the relevant network operator which estimates or sets a date for completion of the relevant grid works which is no later than 31st March 2017;
+- (b) subject to paragraph (7), a copy of the planning permission for the station; and
+- (c) in the case of a station that is, or is intended to be, an offshore generating station, documents demonstrating that the person submitting the notice (or a person connected with that person within the meaning of section 1122 of the Corporation Tax Act 2010) has entered into an agreement with the Crown Estate Commissioners or a relevant person[^key-2ba2af21f528b68d899a5de10771b7ac] for lease of the seabed where the station is, or is to be, situated.
+
+(6) Paragraph (5)(a) does not apply if the notice contains a declaration that no grid works are required in order to commission the generating station.
+
+(7) Paragraph (5)(b) does not apply if the notice contains a declaration that planning permission is not required for the generating station.
+
+(8) Where the Authority is satisfied that a notice—
+
+- (a) meets the requirements specified in paragraphs (2) and (3),
+- (b) contains the declarations specified in paragraph (4),
+- (c) was accompanied by the documents specified in paragraph (5), and
+- (d) was received by the Authority on or before the relevant date,
+
+the Authority must give the information specified in paragraph (9) to the person who submitted the notice.
+
+(9) The information specified in this paragraph is—
+
+- (a) the date on which the notice of intent was received by the Authority, and
+- (b) confirmation that the Authority is satisfied that the notice is a notice of intent for the purposes of article 11 or 12.
+
+(10) In this article—
+
+- “appropriate individual”, in relation to a notice, means—
+  - (a) where the person submitting the notice is a body corporate (other than a limited liability partnership), an individual who is a director, the treasurer, secretary or chief executive of that body,
+  - (b) where the person submitting the notice is a limited liability partnership, an individual who is a designated member of that partnership, within the meaning given in section 8 of the Limited Liability Partnerships Act 2000[^f00015],
+  - (c) where the person submitting the notice is a partnership (other than a limited liability partnership), an individual who is a partner in that partnership,
+  - (d) where the person submitting the notice is an unincorporated association (other than a partnership), an individual who is a member of the governing body of that association,
+  - (e) where the person submitting the notice is an individual, that individual;
+- “offshore generating station” means a generating station which generates electricity from wind and which—
+  - (a) has its wind turbines situated wholly in offshore waters, and
+  - (b) is not connected to dry land by means of a permanent structure which provides access to land above the mean low water mark;
+- “offshore waters” has the same meaning as in the Renewables Obligation Order 2015[^key-254ed8a6be2c3a6bc789a20705b60e5e]; [^key-aea34de17d931f3bee8125f0b6fdc847]...
+- “planning permission” means—
+  - (a) in the case of an offshore generating station—
+    - (i) consent under section 36 of the Electricity Act 1989[^f00017],
+    - (ii) consent under Article 39 of the Electricity (Northern Ireland) Order 1992[^f00018], or
+    - (iii) development consent under the Planning Act 2008[^f00019],
+  - (b) in all other cases—
+    - (i) consent under section 36 of the Electricity Act 1989,
+    - (ii) planning permission under the Town and Country Planning Act 1990[^f00020],
+    - (iii) planning permission under the Town and Country Planning (Scotland) Act 1997[^f00021], or
+    - (iv) development consent under the Planning Act 2008 ; and[^key-3cc42b961ca5715b1d603805aa97c887]
+- “relevant person”, in relation to any property, rights or interests to which section 90B(5) of the Scotland Act 1998 applies, means the person who manages that property or those rights or interests.
+
+(11) For the purposes of paragraph (2)(a), a notice that is “in writing” includes a notice that is submitted to the Authority by electronic mail, facsimile or similar means which are capable of producing a document containing the text of the notice.
+
+Matthew Hancock
+
+Minister of State
+
+Department of Energy and Climate Change
+
+8th September 2014
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order makes provision for no renewables obligation certificates to be issued under a renewables obligation order in respect of electricity generated after 31st March 2017 unless the electricity is generated in any one or more of the circumstances provided for in the Order.
+
+The circumstances set out in articles 4 and 5 relate to certain electricity generated by stations accredited on or before 31st March 2017.
+
+The circumstances set out in article 6 relate to certain electricity generated by stations accredited on or before 31st March 2018 which experience a delay in their commissioning until after 31st March 2017 due to certain grid works or radar works.
+
+The circumstances set out in article 7 relate to certain electricity generated by stations accredited on or before 31st March 2018 in respect of which an investment contract has been made and subsequently ceased to have effect by reason of certain specified events.
+
+The circumstances set out in articles 8 and 12 relate to certain electricity generated by certain stations accredited on or before 30th September 2018 that have for at least one month generated electricity only using biomass. Article 12 relates to those stations that were certified under the Combined Heat and Power Quality Assurance Standard before a particular date, and in respect of which the documents and information specified in article 13 were provided to the Authority on or before 31st October 2014 (or, if later, two months after the Order comes into force).
+
+The circumstances set out in articles 9 and 10 relate to certain electricity generated by certain offshore wind generating stations, where the stations are situated in waters in or adjacent to Scotland or in any part of a Renewable Energy Zone in relation to which Scottish Ministers have functions[^f00022], and where the stations were accredited on or before 30th September 2018.
+
+The circumstances set out in article 11 relate to certain electricity generated by certain offshore wind, gasification or pyrolysis generating stations accredited on or before 31st March 2018, in respect of which the documents and information specified in article 13 are provided to the Authority on or before 31st October 2014 (or, if later, two months after the Order comes into force).
+
+An explanatory memorandum is available alongside this Order on www.legislation.gov.uk. An impact assessment has not been produced for this Order.
+
+## Annotations
+
+[^f00001]: Footnote: [1989 c.29](https://www.legislation.gov.uk/ukpga/1989/29). Section 32K was inserted by section 37 of the Energy Act [2008 (c.32)](https://www.legislation.gov.uk/ukpga/2008/32). Section 32LA was inserted by section 55(1) of the Energy Act [2013 (c.32)](https://www.legislation.gov.uk/ukpga/2013/32).
+
+[^f00002]: Footnote: Section 32LB(1) of the Electricity Act 1989 refers to “the Authority”, this is defined in section 111(1) as inserted by paragraph 40(a) of Schedule 6 to the Utilities Act [2000 (c.27)](https://www.legislation.gov.uk/ukpga/2000/27).
+
+[^f00003]: Footnote: Section 32LB(1) of the Electricity Act 1989 refers to “the Council”. Section 111(1) as substituted by section 30(4)(b) of the Consumers, Estate Agents and Redress Act [2007 (c.17)](https://www.legislation.gov.uk/ukpga/2007/17) defined “the Council” as the National Consumer Council. This definition was omitted by paragraph 5(20)(b) of Schedule 1 to [S.I. 2014/631](https://www.legislation.gov.uk/uksi/2014/631), with effect from 1st April 2014. Article 2 of [S.I. 2014/631](https://www.legislation.gov.uk/uksi/2014/631) abolished the National Consumer Council with effect from 1st April 2014. Paragraph 28(1) of Schedule 1 to [S.I. 2014/631](https://www.legislation.gov.uk/uksi/2014/631) provides that nothing in that statutory instrument affects the validity of anything done (or having effect as if done) by or in relation to the National Consumer Council before 1st April 2014. Consultation on the subject matter of this Order was carried out in November 2013.
+
+[^f00004]: Footnote: Section 32LB was inserted by section 55(1) of the Energy Act 2013.
+
+[^key-c6d89dafd154aee3660e795ea79073f5]: Commencement: Art. 1 in force at 9.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2388/article/1)
+
+[^key-009174d6e8ccdae3f3ecba154d045659]: Commencement: Art. 2 in force at 9.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2388/article/1)
+
+[^key-180e65645d8ebd12d539a5b4c648696f]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/2388/article/2/1) substituted (1.12.2015) by [The Renewables Obligation Order 2015 (S.I. 2015/1947)](https://www.legislation.gov.uk/uksi/2015/1947), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1947/article/1/2), [97(2)(a)](https://www.legislation.gov.uk/uksi/2015/1947/article/97/2/a)
+
+[^key-e40bf174cadb97e8c0a5870e0d1c7381]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/2388/article/2/1) inserted (24.3.2015) by [The Renewables Obligation Closure (Amendment) Order 2015 (S.I. 2015/920)](https://www.legislation.gov.uk/uksi/2015/920), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2015/920/article/1/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2015/920/article/2/2/a)
+
+[^key-c57d425f44e22d6f222dd7f92744ea78]: Textual amendment: Word in [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/2388/article/2/1) omitted (25.3.2016) by virtue of [The Renewables Obligation Closure Etc. (Amendment) Order 2016 (S.I. 2016/457)](https://www.legislation.gov.uk/uksi/2016/457), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2016/457/article/1/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2016/457/article/2/2/a)
+
+[^f00006]: Footnote: Copies can be obtained from the Department of Energy and Climate Change, 3 Whitehall Place, London, SW1A 2AW and are available at http://chpqa.decc.gov.uk/chpqa-documents.
+
+[^f00007]: Footnote: Copies can be obtained from the Department of Energy and Climate Change, 3 Whitehall Place, London, SW1A 2AW and are available at http://chpqa.decc.gov.uk/chpqa-documents.
+
+[^key-8fc3f5a012d01c8393e529f6574faf6c]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/2388/article/2/1) inserted (1.1.2017) by [The Combined Heat and Power Quality Assurance Regulations 2016 (S.I. 2016/1108)](https://www.legislation.gov.uk/uksi/2016/1108), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/1108/regulation/1/1), [3(a)](https://www.legislation.gov.uk/uksi/2016/1108/regulation/3/a)
+
+[^key-2b59507d4e0b244790587f83bb3d5ed7]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/2388/article/2/1) inserted (1.12.2015) by [The Renewables Obligation Order 2015 (S.I. 2015/1947)](https://www.legislation.gov.uk/uksi/2015/1947), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1947/article/1/2), [97(2)(c)](https://www.legislation.gov.uk/uksi/2015/1947/article/97/2/c)
+
+[^key-bb8d491be978bd33fd4c053e0ba82b21]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/2388/article/2/1) inserted (25.3.2016) by [The Renewables Obligation Closure Etc. (Amendment) Order 2016 (S.I. 2016/457)](https://www.legislation.gov.uk/uksi/2016/457), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2016/457/article/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2016/457/article/2/2/b)
+
+[^key-f08eabd3f44ffaf5caf7a1e86401e9d9]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/2388/article/2/1) substituted (25.3.2016) by [The Renewables Obligation Closure Etc. (Amendment) Order 2016 (S.I. 2016/457)](https://www.legislation.gov.uk/uksi/2016/457), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2016/457/article/1/1), [2(2)(c)](https://www.legislation.gov.uk/uksi/2016/457/article/2/2/c)
+
+[^key-b5c13f0c4a6ac00598dec38cec1d8b6e]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/2388/article/2/1) inserted (25.3.2016) by [The Renewables Obligation Closure Etc. (Amendment) Order 2016 (S.I. 2016/457)](https://www.legislation.gov.uk/uksi/2016/457), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2016/457/article/1/1), [2(2)(d)](https://www.legislation.gov.uk/uksi/2016/457/article/2/2/d)
+
+[^key-e38a13565edf67e6b9d7a1aff26145ce]: Textual amendment: Word in [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/2388/article/2/1) omitted (24.3.2015) by virtue of [The Renewables Obligation Closure (Amendment) Order 2015 (S.I. 2015/920)](https://www.legislation.gov.uk/uksi/2015/920), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2015/920/article/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2015/920/article/2/2/b)
+
+[^key-10ca23cdc7e9b66a7291fbbca5c451f4]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/2388/article/2/1) substituted (1.12.2015) by [The Renewables Obligation Order 2015 (S.I. 2015/1947)](https://www.legislation.gov.uk/uksi/2015/1947), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1947/article/1/2), [97(2)(b)](https://www.legislation.gov.uk/uksi/2015/1947/article/97/2/b)
+
+[^key-34d91cbb5ab18c70baa4d86d517d49d0]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/2388/article/2/1) omitted (25.3.2016) by virtue of [The Renewables Obligation Closure Etc. (Amendment) Order 2016 (S.I. 2016/457)](https://www.legislation.gov.uk/uksi/2016/457), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2016/457/article/1/1), [2(2)(e)](https://www.legislation.gov.uk/uksi/2016/457/article/2/2/e)
+
+[^key-d6e6058ce25b952c1eb1a5d61e21cd23]: Textual amendment: Word in [art. 2(2)](https://www.legislation.gov.uk/uksi/2014/2388/article/2/2) substituted (1.12.2015) by [The Renewables Obligation Order 2015 (S.I. 2015/1947)](https://www.legislation.gov.uk/uksi/2015/1947), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1947/article/1/2), [97(3)(a)](https://www.legislation.gov.uk/uksi/2015/1947/article/97/3/a)
+
+[^key-db7f205eb34e48f2fa7d7ab78ee217aa]: Textual amendment: Words in [art. 2(2)](https://www.legislation.gov.uk/uksi/2014/2388/article/2/2) omitted (1.12.2015) by virtue of [The Renewables Obligation Order 2015 (S.I. 2015/1947)](https://www.legislation.gov.uk/uksi/2015/1947), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1947/article/1/2), [97(3)(b)](https://www.legislation.gov.uk/uksi/2015/1947/article/97/3/b)
+
+[^key-180ecde2ebdb71d7f2284af857213136]: Textual amendment: Words in [art. 2(2)](https://www.legislation.gov.uk/uksi/2014/2388/article/2/2) inserted (24.3.2015) by [The Renewables Obligation Closure (Amendment) Order 2015 (S.I. 2015/920)](https://www.legislation.gov.uk/uksi/2015/920), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2015/920/article/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2015/920/article/2/3)
+
+[^key-9f0b706bb80466197fbf5a7d4e70488b]: Textual amendment: [Art. 2(2)](https://www.legislation.gov.uk/uksi/2014/2388/article/2/2): semicolon omitted (1.12.2015) by virtue of [The Renewables Obligation Order 2015 (S.I. 2015/1947)](https://www.legislation.gov.uk/uksi/2015/1947), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1947/article/1/2), [97(3)(c)](https://www.legislation.gov.uk/uksi/2015/1947/article/97/3/c)
+
+[^key-36834482df75fe32f6191f35c6910411]: Textual amendment: [Arts. 2A-2D](https://www.legislation.gov.uk/uksi/2014/2388/article/2A) inserted (24.3.2015) by [The Renewables Obligation Closure (Amendment) Order 2015 (S.I. 2015/920)](https://www.legislation.gov.uk/uksi/2015/920), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2015/920/article/1/1), [3](https://www.legislation.gov.uk/uksi/2015/920/article/3)
+
+[^key-df9bd3ca0da3e78416aaea394090739e]: Textual amendment: Word in [art. 2A](https://www.legislation.gov.uk/uksi/2014/2388/article/2A) heading inserted (25.3.2016) by [The Renewables Obligation Closure Etc. (Amendment) Order 2016 (S.I. 2016/457)](https://www.legislation.gov.uk/uksi/2016/457), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2016/457/article/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2016/457/article/4/2)
+
+[^key-4c1f856b2100d1abd1a5773d7107096e]: Textual amendment: Word in [art. 2A(1)](https://www.legislation.gov.uk/uksi/2014/2388/article/2A/1) inserted (25.3.2016) by [The Renewables Obligation Closure Etc. (Amendment) Order 2016 (S.I. 2016/457)](https://www.legislation.gov.uk/uksi/2016/457), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2016/457/article/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2016/457/article/4/2)
+
+[^key-f998911860b3726a42d99f8a1d177af9]: Textual amendment: Word in [art. 2B(1)(a)](https://www.legislation.gov.uk/uksi/2014/2388/article/2B/1/a) inserted (25.3.2016) by [The Renewables Obligation Closure Etc. (Amendment) Order 2016 (S.I. 2016/457)](https://www.legislation.gov.uk/uksi/2016/457), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2016/457/article/1/1), [4(3)](https://www.legislation.gov.uk/uksi/2016/457/article/4/3)
+
+[^key-7b3394fac711e97bb0882745d3c7842e]: Textual amendment: Word in [art. 2B(6)](https://www.legislation.gov.uk/uksi/2014/2388/article/2B/6) substituted (1.12.2015) by [The Renewables Obligation Order 2015 (S.I. 2015/1947)](https://www.legislation.gov.uk/uksi/2015/1947), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1947/article/1/2), [97(4)](https://www.legislation.gov.uk/uksi/2015/1947/article/97/4)
+
+[^key-36226e7375c817af9a4582d7e6e41aa0]: Textual amendment: Word in [art. 2D](https://www.legislation.gov.uk/uksi/2014/2388/article/2D) heading inserted (25.3.2016) by [The Renewables Obligation Closure Etc. (Amendment) Order 2016 (S.I. 2016/457)](https://www.legislation.gov.uk/uksi/2016/457), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2016/457/article/1/1), [4(4)](https://www.legislation.gov.uk/uksi/2016/457/article/4/4)
+
+[^key-a0a27045a4ac435b149a4c1e9f70820a]: Textual amendment: Word in [art. 2D(1)](https://www.legislation.gov.uk/uksi/2014/2388/article/2D/1) inserted (25.3.2016) by [The Renewables Obligation Closure Etc. (Amendment) Order 2016 (S.I. 2016/457)](https://www.legislation.gov.uk/uksi/2016/457), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2016/457/article/1/1), [4(4)](https://www.legislation.gov.uk/uksi/2016/457/article/4/4)
+
+[^key-9ab93ffdd15c311fecfcdbd0795374fb]: Textual amendment: [Arts. 2E-2H](https://www.legislation.gov.uk/uksi/2014/2388/article/2E) inserted (25.3.2016) by [The Renewables Obligation Closure Etc. (Amendment) Order 2016 (S.I. 2016/457)](https://www.legislation.gov.uk/uksi/2016/457), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2016/457/article/1/1), [3](https://www.legislation.gov.uk/uksi/2016/457/article/3)
+
+[^key-ecef46e0b5dfeb34537eb9106fdb2a17]: Commencement: Art. 3 in force at 9.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2388/article/1)
+
+[^key-2781994f51fa0c6ceddafb3600b1c4eb]: Textual amendment: Words in [art. 3](https://www.legislation.gov.uk/uksi/2014/2388/article/3) heading inserted (24.3.2015) by [The Renewables Obligation Closure (Amendment) Order 2015 (S.I. 2015/920)](https://www.legislation.gov.uk/uksi/2015/920), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2015/920/article/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2015/920/article/4/2)
+
+[^key-e681503e2a861dec4d788b57975e4095]: Textual amendment: Word in [art. 3](https://www.legislation.gov.uk/uksi/2014/2388/article/3) heading omitted (25.3.2016) by virtue of [The Renewables Obligation Closure Etc. (Amendment) Order 2016 (S.I. 2016/457)](https://www.legislation.gov.uk/uksi/2016/457), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2016/457/article/1/1), [4(5)](https://www.legislation.gov.uk/uksi/2016/457/article/4/5)
+
+[^key-46e68863c5ec246f8077229b39f53712]: Textual amendment: Words in [art. 3(1)](https://www.legislation.gov.uk/uksi/2014/2388/article/3/1) inserted (24.3.2015) by [The Renewables Obligation Closure (Amendment) Order 2015 (S.I. 2015/920)](https://www.legislation.gov.uk/uksi/2015/920), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2015/920/article/1/1), [4(3)](https://www.legislation.gov.uk/uksi/2015/920/article/4/3)
+
+[^key-23debf4c31e0df5b34dd460b4373fc6c]: Textual amendment: Word in [art. 3(1)](https://www.legislation.gov.uk/uksi/2014/2388/article/3/1) omitted (25.3.2016) by virtue of [The Renewables Obligation Closure Etc. (Amendment) Order 2016 (S.I. 2016/457)](https://www.legislation.gov.uk/uksi/2016/457), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2016/457/article/1/1), [4(5)](https://www.legislation.gov.uk/uksi/2016/457/article/4/5)
+
+[^key-49e538db474b80663bfe949e755813b2]: Commencement: Art. 4 in force at 9.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2388/article/1)
+
+[^key-93011d00e970d4be3fe1312b1edf11b7]: Commencement: Art. 5 in force at 9.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2388/article/1)
+
+[^key-e809ddde2c6970d456588d7ebe8cca06]: Commencement: Art. 6 in force at 9.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2388/article/1)
+
+[^key-a2264439588c8d9c7ab796b0f7511b4a]: Commencement: Art. 7 in force at 9.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2388/article/1)
+
+[^f00010]: Footnote: [2013 c.32](https://www.legislation.gov.uk/ukpga/2013/32).
+
+[^key-cda0acd3e8b2e8a3cadcba0642db6721]: Commencement: Art. 8 in force at 9.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2388/article/1)
+
+[^key-96d17920d2154d0137310b709aa2b8e9]: Textual amendment: Words in [art. 8(1)(a)(i)](https://www.legislation.gov.uk/uksi/2014/2388/article/8/1/a/i) substituted (1.12.2015) by [The Renewables Obligation Order 2015 (S.I. 2015/1947)](https://www.legislation.gov.uk/uksi/2015/1947), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1947/article/1/2), [97(5)](https://www.legislation.gov.uk/uksi/2015/1947/article/97/5)
+
+[^key-5c6d5caf5e21545abd059515e4959265]: Textual amendment: Words in [art. 8(3)(b)](https://www.legislation.gov.uk/uksi/2014/2388/article/8/3/b) substituted (1.1.2017) by [The Combined Heat and Power Quality Assurance Regulations 2016 (S.I. 2016/1108)](https://www.legislation.gov.uk/uksi/2016/1108), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/1108/regulation/1/1), [3(b)](https://www.legislation.gov.uk/uksi/2016/1108/regulation/3/b)
+
+[^f00011]: Footnote: The policy is set out in the document titled “Renewables Obligation: notification process for new build dedicated biomass projects - Guidance on applying for a place within the 400MW cap” published by the Department of Energy and Climate Change in August 2013 (URN: 13D/232). Copies can be obtained from 3 Whitehall Place, London, SW1A 2AW and are available at www.gov.uk/government/publications/applying-for-a-place-within-the-400mw-cap-on-new-build-dedicated-biomass-projects-renewables-obligation.
+
+[^key-ee2a2d7781375c652277ab323b9e6561]: Commencement: Art. 9 in force at 9.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2388/article/1)
+
+[^f00012]: Footnote: [S.S.I. 2009/140](https://www.legislation.gov.uk/ssi/2009/140) as amended by [S.S.I. 2009/276](https://www.legislation.gov.uk/ssi/2009/276), [S.S.I. 2010/147](https://www.legislation.gov.uk/ssi/2010/147), [S.S.I. 2011/225](https://www.legislation.gov.uk/ssi/2011/225), paragraph 22 of the Schedule to [S.S.I. 2011/226](https://www.legislation.gov.uk/ssi/2011/226), [S.S.I .2013/116](https://www.legislation.gov.uk/ssi/2013/116) and [S.S.I. 2014/94](https://www.legislation.gov.uk/ssi/2014/94). Article 30C was inserted by article 13 of [S.S.I. 2014/94](https://www.legislation.gov.uk/ssi/2014/94).
+
+[^key-2b4725ca4f13e76a9c526bb2a94306f1]: Commencement: Art. 10 in force at 9.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2388/article/1)
+
+[^f00013]: Footnote: Article 30D of [S.S.I. 2009/140](https://www.legislation.gov.uk/ssi/2009/140) was inserted by article 13 of [S.S.I. 2014/94](https://www.legislation.gov.uk/ssi/2014/94).
+
+[^key-7606f5da84ef5d72dba39c42893a1c14]: Commencement: Art. 11 in force at 9.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2388/article/1)
+
+[^key-34569bf9fadbea58fb923e2d5bbd2452]: Textual amendment: Words in [art. 11(b)](https://www.legislation.gov.uk/uksi/2014/2388/article/11/b) substituted (1.12.2015) by [The Renewables Obligation Order 2015 (S.I. 2015/1947)](https://www.legislation.gov.uk/uksi/2015/1947), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1947/article/1/2), [97(6)](https://www.legislation.gov.uk/uksi/2015/1947/article/97/6)
+
+[^key-f106143a2583c5854288abc1b3489e7d]: Commencement: Art. 12 in force at 9.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2388/article/1)
+
+[^key-cb7a89bce0cec5dfa87261cba466af92]: Textual amendment: Words in [art. 12(1)(a)(ii)](https://www.legislation.gov.uk/uksi/2014/2388/article/12/1/a/ii) substituted (1.12.2015) by [The Renewables Obligation Order 2015 (S.I. 2015/1947)](https://www.legislation.gov.uk/uksi/2015/1947), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1947/article/1/2), [97(5)](https://www.legislation.gov.uk/uksi/2015/1947/article/97/5)
+
+[^key-53b2b8b7b4bb762c70f50086caa65d63]: Commencement: Art. 13 in force at 9.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2388/article/1)
+
+[^f00014]: Footnote: [2010 c.4](https://www.legislation.gov.uk/ukpga/2010/4).
+
+[^key-2ba2af21f528b68d899a5de10771b7ac]: Textual amendment: Words in [art. 13(5)(c)](https://www.legislation.gov.uk/uksi/2014/2388/article/13/5/c) inserted (1.4.2017) by [The Crown Estate Transfer Scheme 2017 (S.I. 2017/524)](https://www.legislation.gov.uk/uksi/2017/524), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/524/article/1/2), [Sch. 5 para. 133(a)](https://www.legislation.gov.uk/uksi/2017/524/schedule/5/paragraph/133/a)
+
+[^f00015]: Footnote: [2000 c.12](https://www.legislation.gov.uk/ukpga/2000/12). Section 8 has been amended by paragraph 4 of Schedule 3 to [S.I. 2009/1804](https://www.legislation.gov.uk/uksi/2009/1804).
+
+[^key-254ed8a6be2c3a6bc789a20705b60e5e]: Textual amendment: Word in [art. 13(10)](https://www.legislation.gov.uk/uksi/2014/2388/article/13/10) substituted (1.12.2015) by [The Renewables Obligation Order 2015 (S.I. 2015/1947)](https://www.legislation.gov.uk/uksi/2015/1947), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1947/article/1/2), [97(7)](https://www.legislation.gov.uk/uksi/2015/1947/article/97/7)
+
+[^key-aea34de17d931f3bee8125f0b6fdc847]: Textual amendment: Words in [art. 13(10)](https://www.legislation.gov.uk/uksi/2014/2388/article/13/10) omitted (1.4.2017) by virtue of [The Crown Estate Transfer Scheme 2017 (S.I. 2017/524)](https://www.legislation.gov.uk/uksi/2017/524), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/524/article/1/2), [Sch. 5 para. 133(b)(i)](https://www.legislation.gov.uk/uksi/2017/524/schedule/5/paragraph/133/b/i)
+
+[^f00017]: Footnote: Section 36 of the Electricity Act 1989 has been amended by section 93(1) and (3) of the Energy Act [2004 (c. 20)](https://www.legislation.gov.uk/ukpga/2004/20), paragraph 32 of Schedule 2 to the Planning Act [2008 (c. 29)](https://www.legislation.gov.uk/ukpga/2008/29) and section 12(7)(a) and (8) of the Marine and Coastal Access Act [2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23). It has also been amended in relation to Scotland by [S.I. 2006/1054](https://www.legislation.gov.uk/uksi/2006/1054). Functions of the Secretary of State under section 36 have been transferred to the Scottish Ministers by [S.I. 2006/1040](https://www.legislation.gov.uk/uksi/2006/1040), in so far as exercisable in or as regards Scotland (see also [S.I. 2005/3153](https://www.legislation.gov.uk/uksi/2005/3153)). Functions of the Secretary of State under section 36(1), (5) and (7) have been transferred to the Marine Management Organisation by section 12(1) to (4) of the Marine and Coastal Access Act 2009 as regards certain offshore generating stations.
+
+[^f00018]: Footnote: [S.I. 1992/231 (N.I. 1)](https://www.legislation.gov.uk/nisi/1992/231). Article 39 of that Order has been amended by [S.R. 1994/180](https://www.legislation.gov.uk/nisr/1994/180), regulation 9 of [S.R. 2005/335](https://www.legislation.gov.uk/nisr/2005/335) and regulation 3 of [S.R. 2011/247](https://www.legislation.gov.uk/nisr/2011/247). It has been modified by article 2 of [S.R. 2008/54](https://www.legislation.gov.uk/nisr/2008/54).
+
+[^f00019]: Footnote: [2008 c. 29](https://www.legislation.gov.uk/ukpga/2008/29). Amendments have been made by Chapter 6 of Part 6 of, Part 1 of Schedule 13 to, and Part 20 of Schedule 25 to, the Localism Act [2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20) and sections 18(3) and 26 of the Growth and Infrastructure Act [2013 (c.27)](https://www.legislation.gov.uk/ukpga/2013/27). There are other amendments which are not relevant.
+
+[^f00020]: Footnote: [1990 c.8](https://www.legislation.gov.uk/ukpga/1990/8). Amendments have been made by Schedules 6, 7 and 19 to the Planning and Compensation Act [1991 (c.34)](https://www.legislation.gov.uk/ukpga/1991/34), section 16 of the Transport and Works Act [1992 (c.42)](https://www.legislation.gov.uk/ukpga/1992/42), paragraph 32 of Schedule 10 to the Environment Act [1995 (c.25)](https://www.legislation.gov.uk/ukpga/1995/25), sections 40, 41, 44, 45 and 51 of, and Schedules 6 and 9 to, the Planning and Compulsory Purchase Act [2004 (c.5)](https://www.legislation.gov.uk/ukpga/2004/5), sections 188 and 190 of, and Schedules 2 and 13 to, the Planning Act [2008 (c.29)](https://www.legislation.gov.uk/ukpga/2008/29), Schedule 5 to the Local Democracy, Economic Development and Construction Act [2009 (c.20)](https://www.legislation.gov.uk/ukpga/2009/20), Schedules 9, 12 and 25 to the Localism Act [2011 (c.20)](https://www.legislation.gov.uk/ukpga/2011/20) and sections 1, 4, 5 and 21 of, and Schedule 1 to, the Growth and Infrastructure Act [2013 (c.27)](https://www.legislation.gov.uk/ukpga/2013/27). Certain functions of the Secretary of State under the Town and Country Planning Act 1990 have been transferred to the Welsh Ministers, by [S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672). There are other amendments which are not relevant.
+
+[^f00021]: Footnote: [1997 c.8](https://www.legislation.gov.uk/ukpga/1997/8). Amendments have been made by [S.I. 1999/1820](https://www.legislation.gov.uk/uksi/1999/1820), Part 3 of the Planning etc (Scotland) Act [2006 (asp 17)](https://www.legislation.gov.uk/asp/2006/17), paragraph 55 of Schedule 2 to the Planning Act [2008 (c.29)](https://www.legislation.gov.uk/ukpga/2008/29), [S.S.I. 2013/24](https://www.legislation.gov.uk/ssi/2013/24) and [S.S.I. 2013/26](https://www.legislation.gov.uk/ssi/2013/26). There are other amendments which are not relevant.
+
+[^key-3cc42b961ca5715b1d603805aa97c887]: Textual amendment: Words in [art. 13(10)](https://www.legislation.gov.uk/uksi/2014/2388/article/13/10) inserted (1.4.2017) by [The Crown Estate Transfer Scheme 2017 (S.I. 2017/524)](https://www.legislation.gov.uk/uksi/2017/524), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/524/article/1/2), [Sch. 5 para. 133(b)(ii)](https://www.legislation.gov.uk/uksi/2017/524/schedule/5/paragraph/133/b/ii)
+
+[^f00022]: Footnote: Renewable Energy Zone has the meaning given in section 84 of the Energy Act [2004 (c.20)](https://www.legislation.gov.uk/ukpga/2004/20) as amended by paragraph 4 of Schedule 4 to the Marine and Coastal Access Act 2009. The part of the Renewable Energy Zone in relation to which Scottish Ministers have functions has been designated by [S.I. 2005/3153](https://www.legislation.gov.uk/uksi/2005/3153).

@@ -1,0 +1,27 @@
+---
+title: Town and Country Planning Act 1968, section 46
+act: Town and Country Planning Act 1968
+section: '46'
+status: as-enacted
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/ukpga/1968/72/section/46
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Town and Country Planning Act 1968, section 46
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+## 46. Execution and cost of works required under enforcement procedure.
+
+(1) If, within the period allowed for compliance with a listed building enforcement notice any steps required by the notice to be taken have not been taken, the authority may enter on the land and take those steps and may recover from the person who is then the owner of the land any expenses reasonably incurred by them in doing so.
+
+(2) Any expenses incurred by the owner or occupier of a building for the purpose of complying with a listed building enforcement notice and any sums paid by the owner of a building under subsection (1) of this section in respect of expenses incurred by the local planning authority in taking steps required by such a notice to be taken, shall be deemed to be incurred or paid for the use and at the request of the person who carried out the works to which the notice relates.
+
+(3) Section 49(2) and (3) of the principal Act (application by regulations of certain provisions of the [^m00022]Public Health Act 1936 in relation to enforcement works) shall apply in relation to a listed building enforcement notice as they apply in relation to an enforcement notice; and any regulations made by virtue of this subsection may provide for the charging on the land on which the building stands of any expenses recoverable by a local planning authority under subsection (1) of this section.
+
+## Annotations
+
+[^m00022]: Marginal citation: [1936 c. 49](https://www.legislation.gov.uk/ukpga/1936/49).

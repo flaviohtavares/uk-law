@@ -1,0 +1,57 @@
+---
+title: Online Safety Act 2023, section 9
+act: Online Safety Act 2023
+section: '9'
+status: revised-with-pending-changes
+text_date: '2026-09-30'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2023/50/section/9
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Online Safety Act 2023, section 9
+
+> **Warning: changes not yet applied to this text (10).** Text as at 2026-09-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2023/50
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 9. Illegal content risk assessment duties[^key-8f2c49c642807488a051718b3bd5db53][^key-8238f9dbfe5684b38f0842230d72d0dc]
+
+*Extent: E+W+S+N.I.*
+
+(1) This section sets out the duties about risk assessments which apply in relation to all regulated user-to-user services.
+
+(2) A duty to carry out a suitable and sufficient illegal content risk assessment at a time set out in, or as provided by, Schedule 3.
+
+(3) A duty to take appropriate steps to keep an illegal content risk assessment up to date, including when OFCOM make any significant change to a risk profile that relates to services of the kind in question.
+
+(4) Before making any significant change to any aspect of a service’s design or operation, a duty to carry out a further suitable and sufficient illegal content risk assessment relating to the impacts of that proposed change.
+
+(5) An “illegal content risk assessment” of a service of a particular kind means an assessment of the following matters, taking into account the risk profile that relates to services of that kind—
+
+- (a) the user base;
+- (b) the level of risk of individuals who are users of the service encountering the following by means of the service—
+  - (i) each kind of priority illegal content (with each kind separately assessed), and
+  - (ii) other illegal content,
+
+  taking into account (in particular) algorithms used by the service, and how easily, quickly and widely content may be disseminated by means of the service;
+- (c) the level of risk of the service being used for the commission or facilitation of a priority offence;
+- (d) the level of risk of harm to individuals presented by illegal content of different kinds or by the use of the service for the commission or facilitation of a priority offence;
+- (e) the level of risk of functionalities of the service facilitating the presence or dissemination of illegal content or the use of the service for the commission or facilitation of a priority offence, identifying and assessing those functionalities that present higher levels of risk;
+- (f) the different ways in which the service is used, and the impact of such use on the level of risk of harm that might be suffered by individuals;
+- (g) the nature, and severity, of the harm that might be suffered by individuals from the matters identified in accordance with paragraphs (b) to (f);
+- (h) how the design and operation of the service (including the business model, governance, use of proactive technology, measures to promote users’ media literacy and safe use of the service, and other systems and processes) may reduce or increase the risks identified.
+
+(6) In this section references to risk profiles are to the risk profiles for the time being published under section 98 which relate to the risk of harm to individuals presented by illegal content.
+
+(7) See also—
+
+- (a) section 23(2) and (10) (records of risk assessments), and
+- (b) Schedule 3 (timing of providers’ assessments).
+
+## Annotations
+
+[^key-8f2c49c642807488a051718b3bd5db53]: Commencement: S. 9 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
+
+[^key-8238f9dbfe5684b38f0842230d72d0dc]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2023/50/section/9) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/c)

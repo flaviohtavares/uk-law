@@ -1,0 +1,53 @@
+---
+title: Ancient Monuments and Archaeological Areas Act 1979, section 44
+act: Ancient Monuments and Archaeological Areas Act 1979
+section: '44'
+status: revised-with-pending-changes
+text_date: '2024-11-04'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/ukpga/1979/46/section/44
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Ancient Monuments and Archaeological Areas Act 1979, section 44
+
+> **Warning: changes not yet applied to this text (4).** Text as at 2024-11-04. See https://www.legislation.gov.uk/changes/affected/ukpga/1979/46
+>
+> Extent: England, Wales, Scotland.
+
+## 44. Supplementary provisions with respect to powers of entry.
+
+*Extent: E+W+S*
+
+(1) A person may not in the exercise of any power of entry under this Act, other than that conferred by section 43, enter any building or part of a building occupied as a dwelling house without the consent of the occupier.
+
+(2) Subject to the following provisions of this subsection, a person may not in the exercise of any power of entry under this Act demand admission as of right to any land which is occupied unless prior notice of the intended entry has been given to the occupier—
+
+- (a) where the purpose of the entry is to carry out any works on the land (other than excavations in exercise of the power under section 26 or 38 of this Act), not less than fourteen days before the day on which admission is demanded; or
+- (b) in any other case, not less than twenty-four hours before admission is demanded.
+
+This subsection does not apply in relation to the power of entry under section 5 of this Act [^key-73e353f7f68da975803351c4567e5bb0]....
+
+(3) A person seeking to enter any land in exercise of any power of entry under this Act shall, if so required by or on behalf of the owner or occupier thereof, produce evidence of his authority before entering.
+
+(4) Any power of entry under this Act shall be construed as including power for any person entering any land in exercise of the power of entry to take with him any assistance or equipment reasonably required for the purpose to which his entry relates and to do there anything reasonably necessary for carrying out that purpose.
+
+(5) Without prejudice to subsection (4) above, where a person enters any land in exercise of any power of entry under this Act for the purpose of carrying out any archaeological investigation or examination of the land, he may take and remove such samples of any description as appear to him to be reasonably required for the purpose of archaelolgical analysis.
+
+(6) Subject to subsection (7) below, where any works are being carried out on any land in relation to which any power of entry under this Act is exercisable, a person acting in the exercise of that power shall comply with any reasonable requirements or conditions imposed by the person by whom the works are being carried out for the purpose of preventing interference with or delay to the works.
+
+(7) Any requirements or conditions imposed by a person by whom any works are being carried out shall not be regarded as reasonable for the purposes of subsection (6) above if compliance therewith would in effect frustrate the exercise of the power of entry or the purpose of the entry; and that subsection does not apply where the works in question are being carried out in contravention of section 2(1) or (6) or 35 of this Act.
+
+(8) Any person who intentionally obstructs a person acting in the exercise of any power of entry under this Act shall be guilty of an offence and liable on summary conviction or, in Scotland, on conviction before a court of summary jurisdiction, to a fine not exceeding level 3 on the standard scale[^c251041].
+
+(9) Where under section 43 of this Act a person proposes to carry out any works authorised by virtue of subsection (3) of that section—
+
+- (a) he shall not carry out those works unless notice of his intention to do so was included in the notice required by subsection (2)(a) above; and
+- (b) if the land in question is held by statutory undertakers, and those undertakers object to the proposed works on the grounds that the carrying out thereof would be seriously detrimental to the carrying on of their undertaking, the works shall not be carried out except with the authority of the Secretary of State.
+
+## Annotations
+
+[^key-73e353f7f68da975803351c4567e5bb0]: Textual amendment: Words in [s. 44(2)](https://www.legislation.gov.uk/ukpga/1979/46/section/44/2) omitted (E.W.) (4.11.2024) by virtue of [Historic Environment (Wales) Act 2023 (asc 3)](https://www.legislation.gov.uk/asc/2023/3), [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2), [Sch. 13 para. 40](https://www.legislation.gov.uk/asc/2023/3/schedule/13/paragraph/40) (with [Sch. 14 paras. 1-3](https://www.legislation.gov.uk/asc/2023/3/schedule/14/paragraph/1)); [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(d)](https://www.legislation.gov.uk/wsi/2024/860/article/3/d)
+
+[^c251041]: Textual amendment: Words substituted (E.W.) by virtue of [Criminal Justice Act 1982 (c. 48)](https://www.legislation.gov.uk/ukpga/1982/48), [s. 46](https://www.legislation.gov.uk/ukpga/1982/48/section/46); and (S.) by virtue of [Criminal Procedure (Scotland) Act 1975 (c. 21)](https://www.legislation.gov.uk/ukpga/1975/21), [s. 289G](https://www.legislation.gov.uk/ukpga/1975/21/section/289G) (as inserted by [Criminal Justice Act 1982 (c. 48)](https://www.legislation.gov.uk/ukpga/1982/48), [s. 54](https://www.legislation.gov.uk/ukpga/1982/48/section/54))

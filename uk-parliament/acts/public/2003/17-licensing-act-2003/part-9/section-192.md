@@ -1,0 +1,35 @@
+---
+title: Licensing Act 2003, section 192
+act: Licensing Act 2003
+section: '192'
+status: revised-with-pending-changes
+text_date: '2026-06-29'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/2003/17/section/192
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Licensing Act 2003, section 192
+
+> **Warning: changes not yet applied to this text (40).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/17
+>
+> Extent: England, Wales, Northern Ireland.
+
+## 192. Meaning of “sale by retail”
+
+*Extent: E+W*
+
+(1) For the purposes of this Act “**sale by retail**”, in relation to any alcohol, means a sale of alcohol to any person, other than a sale of alcohol that—
+
+- (a) is within subsection (2),
+- (b) is made from premises owned by the person making the sale, or occupied by him under a lease to which the provisions of Part 2 of the Landlord and Tenant Act 1954 (c. 56) (security of tenure) apply, and
+- (c) is made for consumption off the premises.
+
+(2) A sale of alcohol is within this subsection if it is—
+
+- (a) to a trader for the purposes of his trade,
+- (b) to a club, which holds a club premises certificate, for the purposes of that club,
+- (c) to the holder of a personal licence for the purpose of making sales authorised by a premises licence,
+- (d) to the holder of a premises licence for the purpose of making sales authorised by that licence, or
+- (e) to the premises user in relation to a temporary event notice for the purpose of making sales authorised by that notice.

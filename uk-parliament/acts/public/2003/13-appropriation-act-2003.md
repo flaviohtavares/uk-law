@@ -1,0 +1,486 @@
+---
+title: Appropriation Act 2003
+id: ukpga/2003/13
+type: UnitedKingdomPublicGeneralAct
+category: primary
+status: repealed
+made_date: '2003-07-10'
+text_date: '2005-07-20'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2003/13
+pdf_urls:
+- http://www.legislation.gov.uk/ukpga/2003/13/pdfs/ukpga_20030013_en.pdf
+- http://www.legislation.gov.uk/ukpga/2003/13/data.pdf
+pending_changes: 0
+repealed_on: unknown
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Appropriation Act 2003
+
+> This law has been repealed or revoked.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+**No longer in force.**
+
+Appropriation Act 2003 (repealed)
+
+2003 c. 13
+
+\[10th July 2003\]
+
+[^key-09a341f7a1aad7b10abbaf46db15c0d0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**No longer in force.**
+
+## 1. Use of resources for the year ending with 31st March 2004[^key-09a341f7a1aad7b10abbaf46db15c0d0][^key-09a341f7a1aad7b10abbaf46db15c0d0]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 2. Issue out of the Consolidated Fund for the year ending with 31st March 2004[^key-09a341f7a1aad7b10abbaf46db15c0d0][^key-09a341f7a1aad7b10abbaf46db15c0d0]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 3. Appropriation of amounts and sums voted for supply services and limits on appropriations in aid[^key-09a341f7a1aad7b10abbaf46db15c0d0][^key-09a341f7a1aad7b10abbaf46db15c0d0]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 4. Repeals[^key-09a341f7a1aad7b10abbaf46db15c0d0][^key-09a341f7a1aad7b10abbaf46db15c0d0]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 5. Short title[^key-09a341f7a1aad7b10abbaf46db15c0d0][^key-09a341f7a1aad7b10abbaf46db15c0d0]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**No longer in force.**
+
+## ABSTRACT OF SCHEDULE 1 — (Resources authorised for use and Grants out of the Consolidated Fund)[^key-09a341f7a1aad7b10abbaf46db15c0d0]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## ABSTRACT OF SCHEDULE 2 — (Appropriation of amounts and sums voted for supply services and limits on appropriations in aid)[^key-09a341f7a1aad7b10abbaf46db15c0d0]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 1 — Resources authorised for use and Grants out of the Consolidated Fund[^key-09a341f7a1aad7b10abbaf46db15c0d0]
+
+Section 3
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 2 — Appropriation of amounts and sums voted for supply services and limits on appropriations in aid[^key-09a341f7a1aad7b10abbaf46db15c0d0]
+
+Section 3
+
+### Part 1 — Excesses, 2001–02[^key-09a341f7a1aad7b10abbaf46db15c0d0]
+
+[^key-09a341f7a1aad7b10abbaf46db15c0d0]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Part 2 — Supplementary, 2002–03[^key-09a341f7a1aad7b10abbaf46db15c0d0]
+
+[^key-09a341f7a1aad7b10abbaf46db15c0d0]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-09a341f7a1aad7b10abbaf46db15c0d0]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-09a341f7a1aad7b10abbaf46db15c0d0]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-09a341f7a1aad7b10abbaf46db15c0d0]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-09a341f7a1aad7b10abbaf46db15c0d0]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-09a341f7a1aad7b10abbaf46db15c0d0]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-09a341f7a1aad7b10abbaf46db15c0d0]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-09a341f7a1aad7b10abbaf46db15c0d0]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-09a341f7a1aad7b10abbaf46db15c0d0]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Part 3 — New Estimate, 2002–03[^key-09a341f7a1aad7b10abbaf46db15c0d0]
+
+[^key-09a341f7a1aad7b10abbaf46db15c0d0]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Part 4 — Department for Education and Skills, 2003–04[^key-09a341f7a1aad7b10abbaf46db15c0d0]
+
+[^key-09a341f7a1aad7b10abbaf46db15c0d0]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Part 5 — Teachers' Pension Scheme, 2003–04[^key-09a341f7a1aad7b10abbaf46db15c0d0]
+
+[^key-09a341f7a1aad7b10abbaf46db15c0d0]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Part 6 — Office of Her Majesty’s Chief Inspector of Schools in England, 2003–04[^key-09a341f7a1aad7b10abbaf46db15c0d0]
+
+[^key-09a341f7a1aad7b10abbaf46db15c0d0]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Part 7 — Department of Health, 2003–04[^key-09a341f7a1aad7b10abbaf46db15c0d0]
+
+[^key-09a341f7a1aad7b10abbaf46db15c0d0]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Part 8 — National Health Service Pension Scheme, 2003–04[^key-09a341f7a1aad7b10abbaf46db15c0d0]
+
+[^key-09a341f7a1aad7b10abbaf46db15c0d0]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Part 9 — Food Standards Agency, 2003–04[^key-09a341f7a1aad7b10abbaf46db15c0d0]
+
+[^key-09a341f7a1aad7b10abbaf46db15c0d0]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Part 10 — Department for Transport, 2003–04[^key-09a341f7a1aad7b10abbaf46db15c0d0]
+
+[^key-09a341f7a1aad7b10abbaf46db15c0d0]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Part 11 — Office of the Deputy Prime Minister, 2003–04[^key-09a341f7a1aad7b10abbaf46db15c0d0]
+
+[^key-09a341f7a1aad7b10abbaf46db15c0d0]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Part 12 — Office of the Rail Regulator, 2003–04[^key-09a341f7a1aad7b10abbaf46db15c0d0]
+
+[^key-09a341f7a1aad7b10abbaf46db15c0d0]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Part 13 — Home Office, 2003–04[^key-09a341f7a1aad7b10abbaf46db15c0d0]
+
+[^key-09a341f7a1aad7b10abbaf46db15c0d0]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Part 14 — Assets Recovery Agency, 2003–04[^key-09a341f7a1aad7b10abbaf46db15c0d0]
+
+[^key-09a341f7a1aad7b10abbaf46db15c0d0]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Part 15 — Charity Commission, 2003–04[^key-09a341f7a1aad7b10abbaf46db15c0d0]
+
+[^key-09a341f7a1aad7b10abbaf46db15c0d0]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Part 16 — Lord Chancellor’s Department, 2003–04[^key-09a341f7a1aad7b10abbaf46db15c0d0]
+
+[^key-09a341f7a1aad7b10abbaf46db15c0d0]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Part 17 — Lord Chancellor’s Department: Judicial Pensions Scheme, 2003–04[^key-09a341f7a1aad7b10abbaf46db15c0d0]
+
+[^key-09a341f7a1aad7b10abbaf46db15c0d0]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Part 18 — Northern Ireland Court Service, 2003–04[^key-09a341f7a1aad7b10abbaf46db15c0d0]
+
+[^key-09a341f7a1aad7b10abbaf46db15c0d0]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Part 19 — The National Archives: Public Record Office and Historical Manuscripts Commission, 2003–04[^key-09a341f7a1aad7b10abbaf46db15c0d0]
+
+[^key-09a341f7a1aad7b10abbaf46db15c0d0]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Part 20 — The Crown Prosecution Service, 2003–04[^key-09a341f7a1aad7b10abbaf46db15c0d0]
+
+[^key-09a341f7a1aad7b10abbaf46db15c0d0]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Part 21 — Serious Fraud Office, 2003–04[^key-09a341f7a1aad7b10abbaf46db15c0d0]
+
+[^key-09a341f7a1aad7b10abbaf46db15c0d0]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Part 22 — HM Procurator General and Treasury Solicitor, 2003–04[^key-09a341f7a1aad7b10abbaf46db15c0d0]
+
+[^key-09a341f7a1aad7b10abbaf46db15c0d0]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Part 23 — Ministry of Defence, 2003–04[^key-09a341f7a1aad7b10abbaf46db15c0d0]
+
+[^key-09a341f7a1aad7b10abbaf46db15c0d0]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Part 24 — Armed Forces Retired Pay, Pensions etc, 2003–04[^key-09a341f7a1aad7b10abbaf46db15c0d0]
+
+[^key-09a341f7a1aad7b10abbaf46db15c0d0]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Part 25 — Foreign and Commonwealth Office, 2003–04[^key-09a341f7a1aad7b10abbaf46db15c0d0]
+
+[^key-09a341f7a1aad7b10abbaf46db15c0d0]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Part 26 — Department for International Development, 2003–04[^key-09a341f7a1aad7b10abbaf46db15c0d0]
+
+[^key-09a341f7a1aad7b10abbaf46db15c0d0]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Part 27 — Department for International Development: Overseas Superannuation, 2003–04[^key-09a341f7a1aad7b10abbaf46db15c0d0]
+
+[^key-09a341f7a1aad7b10abbaf46db15c0d0]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Part 28 — Department of Trade and Industry, 2003–04[^key-09a341f7a1aad7b10abbaf46db15c0d0]
+
+[^key-09a341f7a1aad7b10abbaf46db15c0d0]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Part 29 — British Trade International, 2003–04[^key-09a341f7a1aad7b10abbaf46db15c0d0]
+
+[^key-09a341f7a1aad7b10abbaf46db15c0d0]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Part 30 — Department of Trade and Industry United Kingdom Atomic Energy Authority superannuation Schemes, 2003–04[^key-09a341f7a1aad7b10abbaf46db15c0d0]
+
+[^key-09a341f7a1aad7b10abbaf46db15c0d0]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Part 31 — Export Credits Guarantee Department, 2003–04[^key-09a341f7a1aad7b10abbaf46db15c0d0]
+
+[^key-09a341f7a1aad7b10abbaf46db15c0d0]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Part 32 — Office of Fair Trading, 2003–04[^key-09a341f7a1aad7b10abbaf46db15c0d0]
+
+[^key-09a341f7a1aad7b10abbaf46db15c0d0]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Part 33 — Office of Telecommunications, 2003–04,[^key-09a341f7a1aad7b10abbaf46db15c0d0]
+
+[^key-09a341f7a1aad7b10abbaf46db15c0d0]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Part 34 — Office of Gas and Electricity Markets, 2003–04[^key-09a341f7a1aad7b10abbaf46db15c0d0]
+
+[^key-09a341f7a1aad7b10abbaf46db15c0d0]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Part 35 — Postal Services Commission, 2003–04[^key-09a341f7a1aad7b10abbaf46db15c0d0]
+
+[^key-09a341f7a1aad7b10abbaf46db15c0d0]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Part 36 — Department for Environment, Food and Rural Affairs, 2003–04[^key-09a341f7a1aad7b10abbaf46db15c0d0]
+
+[^key-09a341f7a1aad7b10abbaf46db15c0d0]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Part 37 — Forestry Commission, 2003–04[^key-09a341f7a1aad7b10abbaf46db15c0d0]
+
+[^key-09a341f7a1aad7b10abbaf46db15c0d0]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Part 38 — Office of Water Services, 2003–04[^key-09a341f7a1aad7b10abbaf46db15c0d0]
+
+[^key-09a341f7a1aad7b10abbaf46db15c0d0]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Part 39 — Department for Culture, Media and Sport, 2003–04[^key-09a341f7a1aad7b10abbaf46db15c0d0]
+
+[^key-09a341f7a1aad7b10abbaf46db15c0d0]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Part 40 — Department for Work and Pensions, 2003–04[^key-09a341f7a1aad7b10abbaf46db15c0d0]
+
+[^key-09a341f7a1aad7b10abbaf46db15c0d0]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Part 41 — Scotland Office, 2003–04[^key-09a341f7a1aad7b10abbaf46db15c0d0]
+
+[^key-09a341f7a1aad7b10abbaf46db15c0d0]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Part 42 — Wales Office, 2003–04[^key-09a341f7a1aad7b10abbaf46db15c0d0]
+
+[^key-09a341f7a1aad7b10abbaf46db15c0d0]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Part 43 — Northern Ireland Office, 2003–04[^key-09a341f7a1aad7b10abbaf46db15c0d0]
+
+[^key-09a341f7a1aad7b10abbaf46db15c0d0]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Part 44 — HM Treasury, 2003–04[^key-09a341f7a1aad7b10abbaf46db15c0d0]
+
+[^key-09a341f7a1aad7b10abbaf46db15c0d0]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Part 45 — HM Customs and Excise, 2003–04[^key-09a341f7a1aad7b10abbaf46db15c0d0]
+
+[^key-09a341f7a1aad7b10abbaf46db15c0d0]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Part 46 — Inland Revenue, 2003–04[^key-09a341f7a1aad7b10abbaf46db15c0d0]
+
+[^key-09a341f7a1aad7b10abbaf46db15c0d0]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Part 47 — National Savings and Investments, 2003–04[^key-09a341f7a1aad7b10abbaf46db15c0d0]
+
+[^key-09a341f7a1aad7b10abbaf46db15c0d0]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Part 48 — Office for National Statistics, 2003–04[^key-09a341f7a1aad7b10abbaf46db15c0d0]
+
+[^key-09a341f7a1aad7b10abbaf46db15c0d0]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Part 49 — Government Actuary’s Department, 2003–04[^key-09a341f7a1aad7b10abbaf46db15c0d0]
+
+[^key-09a341f7a1aad7b10abbaf46db15c0d0]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Part 50 — Crown Estate Office, 2003–04[^key-09a341f7a1aad7b10abbaf46db15c0d0]
+
+[^key-09a341f7a1aad7b10abbaf46db15c0d0]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Part 51 — Cabinet Office, 2003–04[^key-09a341f7a1aad7b10abbaf46db15c0d0]
+
+[^key-09a341f7a1aad7b10abbaf46db15c0d0]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Part 52 — Security and Intelligence Agencies, 2003–04[^key-09a341f7a1aad7b10abbaf46db15c0d0]
+
+[^key-09a341f7a1aad7b10abbaf46db15c0d0]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Part 53 — Cabinet Office: Civil superannuation, 2003–04[^key-09a341f7a1aad7b10abbaf46db15c0d0]
+
+[^key-09a341f7a1aad7b10abbaf46db15c0d0]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Part 54 — Central Office of Information, 2003–04[^key-09a341f7a1aad7b10abbaf46db15c0d0]
+
+[^key-09a341f7a1aad7b10abbaf46db15c0d0]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Part 55 — Privy Council Office, 2003–04[^key-09a341f7a1aad7b10abbaf46db15c0d0]
+
+[^key-09a341f7a1aad7b10abbaf46db15c0d0]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Part 56 — Office of the Parliamentary Commissioner and Health Service Commissioner for England, 2003–04[^key-09a341f7a1aad7b10abbaf46db15c0d0]
+
+[^key-09a341f7a1aad7b10abbaf46db15c0d0]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Part 57 — House of Lords, 2003–04[^key-09a341f7a1aad7b10abbaf46db15c0d0]
+
+[^key-09a341f7a1aad7b10abbaf46db15c0d0]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Part 58 — House of Commons: Members, 2003–04[^key-09a341f7a1aad7b10abbaf46db15c0d0]
+
+[^key-09a341f7a1aad7b10abbaf46db15c0d0]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Part 59 — House of Commons: Administration, 2003–04[^key-09a341f7a1aad7b10abbaf46db15c0d0]
+
+[^key-09a341f7a1aad7b10abbaf46db15c0d0]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Part 60 — National Audit Office, 2003–04[^key-09a341f7a1aad7b10abbaf46db15c0d0]
+
+[^key-09a341f7a1aad7b10abbaf46db15c0d0]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Part 61 — Electoral Commission, 2003–04[^key-09a341f7a1aad7b10abbaf46db15c0d0]
+
+[^key-09a341f7a1aad7b10abbaf46db15c0d0]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 3 — Repeals[^key-09a341f7a1aad7b10abbaf46db15c0d0]
+
+Section 4
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Annotations
+
+[^key-09a341f7a1aad7b10abbaf46db15c0d0]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/2003/13) repealed (20.7.2005) by [Appropriation (No. 3) Act 2005 (c. 21)](https://www.legislation.gov.uk/ukpga/2005/21), [Sch. 3](https://www.legislation.gov.uk/ukpga/2005/21/schedule/3)

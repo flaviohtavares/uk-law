@@ -1,0 +1,461 @@
+---
+title: The Consumer Credit (Early Settlement) Regulations 2004
+id: uksi/2004/1483
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2004-06-05'
+text_date: '2014-04-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2004/1483
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2004/1483/pdfs/uksi_20041483_en.pdf
+- http://www.legislation.gov.uk/uksi/2004/1483/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Consumer Credit (Early Settlement) Regulations 2004
+
+> Text as at 2014-04-01.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2004 No. 1483
+
+CONSUMER CREDIT
+
+The Consumer Credit (Early Settlement) Regulations 2004
+
+Made
+
+5th June 2004
+
+Laid before Parliament
+
+9th June 2004
+
+Coming into force
+
+31st May 2005
+
+The Secretary of State, in exercise of the powers conferred upon her by sections 95, 97(1), 182(2) and 189(1) of the Consumer Credit Act 1974[^f00001], hereby makes the following Regulations:
+
+## 1. Citation, commencement and interpretation[^key-7cc53d89c19414ca692c99c9a29554c8]
+
+(1) These Regulations may be cited as the Consumer Credit (Early Settlement) Regulations 2004, and shall come into force on 31st May 2005.
+
+(2) In these Regulations—
+
+- “the Act” means the Consumer Credit Act 1974;
+- “the APR” means the annual percentage rate of charge for credit determined in accordance with the total charge for credit rules[^key-7d6fd02dc6157a8573d66f9b4d47721c], subject to regulation 3(2) below;
+- “early settlement” shall be construed in accordance with regulation 2(1A)[^key-29396b6a26ec342f4e6f37974f763d98] below;
+- “[^key-c33c38b661060fe5351527ccfbf10919]**green deal plan**” has the meaning given in section 1 of the Energy Act 2011;
+- “rebate” means a rebate of charges for credit included in the total charge for credit;
+- “the relevant date” means—[^key-cf4b1f942e6e82a5b750179d77062e68]
+  - (a) where a date is specified in or determinable under an agreement at the date of its making as that on which the debtor is entitled to require the provision of anything under the agreement, the earliest such date, or
+  - (b) where no such date is specified or determinable, the date of making of the agreement;
+- “the settlement date”, means the settlement date provided for in regulation 5 and, where applicable, regulation 6;
+- “the total charge for credit” shall be determined in accordance with the total charge for credit rules, subject to regulations 3(2) and 7 below; and
+- “[^key-252d7d2b29879fc2ff8bce654458e139]**the total charge for credit rules**” means rules made by the Financial Conduct Authority under article 60M of the Financial Services and Markets Act 2000 (Regulated Activities) Order 2001 for the purposes of Chapter 14A of Part 2 of that Order;
+
+(3)[^key-c7aee6864d2270356defedec311ddb16] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) In these Regulations, references to repayment of credit are references to repayment of credit with any amount included in the total charge for credit payable at the same time.
+
+## 2. Entitlement to rebate[^key-46064f50c9a0aee82df303e2d976446a]
+
+(1)[^key-86b2bfe679128919d581406eaf200200] Where early settlement takes place the creditor shall, subject to the following provisions of this regulation, allow to the debtor under a regulated consumer credit agreement a rebate at least equal to that calculated in accordance with the following provisions of these Regulations.
+
+(1A)[^key-e5531de6d432e5cd73126ac71a50efce] Early settlement takes place under paragraph (1) where—
+
+- (a) the indebtedness of the debtor is discharged or becomes payable before the time fixed by the agreement—
+  - (i) under section 94(1) of the Act,
+  - (ii) on refinancing,
+  - (iii) on breach of the agreement, or
+  - (iv) for any other reason,
+- (b) the indebtedness of the debtor is discharged in part under section 94(3) of the Act, or
+- (c) any sum becomes payable by the debtor before the time fixed by the agreement.
+
+(2) Paragraph (1) does not apply in the case of agreements of the following descriptions—
+
+- (a) agreements under which no payments of items included in the total charge for credit are required to be made in respect of the period of time commencing on the settlement date;
+- (b) agreements for running-account credit;
+- (c) land mortgages under which no instalment repayments secured by the mortgage on the debtor’s home, and no payment of interest on the credit (other than interest charged when all or part of the credit is repaid voluntarily by the debtor), are due or capable of becoming due while the debtor continues to occupy the mortgaged land as his main residence.
+
+(3) Paragraph (1) does not apply where a hire-purchase or conditional sale agreement is terminated by the debtor under section 99 of the Act.
+
+(4) Where a sum less than the total remaining indebtedness of the debtor is required to be paid before the time fixed by the agreement, no consequential payment of any subsequent instalment required to be paid under the agreement, or under a modifying agreement not relating to the provision of additional credit or an increase in the total charge for credit, shall entitle the debtor to a rebate.
+
+## 3. Items included in the calculation of rebate[^key-93a8ca1bb12af164a1f2f4db800b8af0]
+
+(1) Subject to paragraph (2), the rebate shall be calculated by reference to all sums paid or payable by the debtor or a relative of his under or in connection with the agreement (whether to the creditor or any other person) and included in the total charge for credit.
+
+(2) There may be excluded from the calculation of the rebate—
+
+- (a) so much of the amount of[^key-75d7aa88c07f083faab3b1aa0d3adcc8] taxes, duties, fees and charges payable under or by virtue of any statute or payable to the Secretary of State or any other Minister or government department (including for this purpose a Northern Ireland department or a government department in any country outside the United Kingdom) or to a local authority or similar body outside the United Kingdom as is attributable to the period before the settlement date[^key-2e2a4a1f4b0952bd177382ec8eb18566];
+- (b) sums paid or payable under linked transactions, except sums paid before the settlement date in respect of cash, goods or services to be supplied under the transaction wholly or partly after that date;
+- (c) sums payable under linked transactions excluded under regulations made under section 96(3) of the Act from the operation of section 96(1);
+- (d) so much of[^key-8c2695e57fa8910cfaeff01d94430a7c] any fee or commission paid by the debtor or a relative of his under a credit brokerage contract relating to the agreement [^key-586dd268493c72cd91c7b0b43d22ec75]... as is attributable to the period before the settlement date[^key-230236ba2465a2d1b27bb1785340ba54] .
+
+(3)[^key-b1b408863e0b7fd48e20e8ae00627712] In relation to a regulated consumer credit agreement secured on land—
+
+- (a) paragraph (2)(a) shall apply as if the words “so much of the amount of” and “as is attributable to the period before the settlement date” were omitted; and
+- (b) paragraph (2)(d) shall apply as if the words “so much of” and “as is attributable to the period before the settlement date” were omitted.
+
+## 4. Calculation of the amount of rebate[^key-1d8c71bf99746c24e696208f2aafc155]
+
+(A1)[^key-c23bcc34bb16fc7b33f060fd228fce75] This regulation provides for the calculation of the amount of the rebate where early settlement takes place as provided in regulation 2(1A)(a) or (c) and the debtor pays the amount or sum by the time specified in regulation 5(1).
+
+(1) The amount of the rebate is the difference between the total amount of the repayments of credit that would fall due for payment after the settlement date if early settlement did not take place and the amount given by the following formula—
+
+[formula: see source](https://www.legislation.gov.uk/uksi/2004/1483)
+
+where:
+
+A<sub>i</sub>
+
+the amount of the *ith* advance of credit,
+
+B<sub>j</sub>
+
+the amount of the *jth* repayment of credit,
+
+r
+
+the periodic rate equivalent of the APR/100,
+
+m
+
+the number of advances of credit made before the settlement date,
+
+n
+
+the number of repayments of credit made before the settlement date,
+
+a<sub>i</sub>
+
+the time between the *ith* advance of credit and the settlement date, expressed in periods,
+
+b<sub>j</sub>
+
+the time between the *jth* repayment of credit and the settlement date, expressed in periods, and
+
+Σ represents the sum of all the terms indicated.
+
+(2) In calculating the rebate, where the creditor so elects, any repayment of credit not[^key-663e9ecbad445f4a3c46ea0a930e8482] made at a time or a rate [^key-31b62ddf93d7ebb61c11fd152a6dd91a]... provided for in the agreement (other than one made under section 94(3) of the Act)[^key-56237bcca7ff49ea720fd5d5ca45895c] shall be taken to have been made at the time or rate provided for.
+
+(3)[^key-159e3c59ff6e501e3551eac6f446d649] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 4A. Calculation of the amount of rebate (indebtedness discharged in part)[^key-c4b060eb51fc71c018647af079152b9c]
+
+(1) This regulation provides for the calculation of the amount of the rebate where early settlement takes place as provided in regulation 2(1A)(b) and the debtor pays the amount by the time specified in regulation 5(2).
+
+(2) The amount of the rebate is the amount given by the following formula—
+
+[formula: F-K-P](https://www.legislation.gov.uk/uksi/2004/1483)
+
+where:
+
+F
+
+the total amount of repayments of credit that would fall due for payment after the settlement date if early settlement did not take place,
+
+K
+
+the total amount of repayments of credit that will fall due for payment after the settlement date if early settlement takes place; in calculating K—
+
+- (i) the amount of the credit outstanding from the debtor and the amount of the accrued charges remaining unpaid by the debtor under the agreement on the settlement date if early settlement takes place are to be determined in accordance with the formula given in regulation 4(1), and
+- (ii) the amount paid by the debtor to the creditor where early settlement takes place shall be treated as though it were reduced by the amount (if any) which the creditor may claim under section 95A(2) or 95B(2)[^key-be6a6a9e6d3af481b4fad990e560cd5d] of the Act,
+
+P
+
+the amount paid by the debtor to the creditor where early settlement takes place.
+
+(3) In calculating the rebate, where the creditor so elects, any repayment of credit not made at a time or a rate provided for in the agreement (other than one made under section 94(3) of the Act) shall be taken to have been made at the time or rate provided for.
+
+## 5. Settlement date[^key-7634cbffd3b3bc8006a1c66a2fd14abe]
+
+(1)[^key-0d9b3a2a00b7df430c58bb550fcbac9d] The settlement date for calculation of the rebate in regulation 4[^key-444539b48a54298091070056c71fafc5] shall be taken to be—
+
+- (a) where the debtor has given notice under section 94(1)[^key-26354f3ca384623ba0175dda83046a0b] of the Act with a view to discharging his indebtedness under the agreement, the date falling 28 days after the date on which the notice was received by the creditor, or any later date specified as the date of early settlement in the notice, if the debtor pays the amount in question (less any rebate allowable under these Regulations) not later than that date;
+- (b) the date specified as the date for payment of any sum by the debtor involving early settlement in any notice served under section 76(1) of the Act, any default notice or any notice served under section 98(1), if the debtor pays the amount in question (less any rebate allowable under these Regulations) not later than that date;
+- (c) in any other case, the date on which the debtor pays any sum involving early settlement.
+
+(2)[^key-25aa518ad54f178d5adce3c758e928db] The settlement date for the calculation of the rebate in regulation 4A shall be taken to be the date falling 28 days after the date on which the notice under section 94(4)(a) of the Act was received by the creditor, or any later date specified as the date of early settlement in the notice, if the debtor pays the amount in question not later than that date.
+
+## 6. Deferment of settlement date[^key-c4908d4901033ccddeae8a7e3ec6e0ca]
+
+(1)[^key-09e76890a4d6ccb5e00b18d542fc2c87] Where the agreement provides for the credit to be repaid over, or at the end of, a period which is more than a year after the relevant date, the settlement date for calculation of the rebate may be deferred by—
+
+- (a) one month, or
+- (b) where the length of a month’s deferment would be more or less than 30 days and the creditor so elects, 30 days.
+
+(2)[^key-9e0ae340d298c309dd194a4f142d4f58] Paragraph (1) does not apply where the agreement is a green deal plan and the creditor under that plan is claiming a payment under section 95B(2) of the Act.
+
+## 7. Variation of rates and amounts[^key-b65754d8e4aab720439630925c4588e2]
+
+Where, under a power contained in the agreement, the rate or amount of any item included in the total charge for credit, the amount of any instalment of repayment of credit or the time fixed by the agreement for the debtor’s indebtedness to be discharged is or can be varied, the rate or amount, as the case may be, of any item to be included in the total charge for credit or the amount of any instalment of repayment of credit or the time fixed by the agreement for the debtor’s indebtedness to be discharged for the purpose of calculation of the rebate shall be taken to be, in respect of any period of time commencing on or after the settlement date, the rate or amount or time subsisting at that date.
+
+## 8. Revocation of Regulations[^key-d53a1dcaf97f7832d4818cdfe6ddc46d]
+
+Subject to regulation 10, the Consumer Credit (Rebate on Early Settlement) Regulations 1983[^f00003] are revoked.
+
+## 9. Amendment of Regulations[^key-abe064cdd526c1e2531e956e22942b6f]
+
+(1) Subject to regulation 10, the Consumer Credit (Settlement Information) Regulations 1983[^f00004] are amended as follows.
+
+(2) In regulation 3 (which determines the settlement date to be taken for the purposes of the Regulations)—
+
+- (a) paragraph (1) (which applies in the case of an agreement for credit to be repaid in instalments) is omitted, and
+- (b) in paragraph (2) (which applies in all other cases), the words “Where paragraph (1) does not apply” are omitted.
+
+(3) In regulation 4 (which prescribes the number of working days within which a creditor is required to respond to a request for a statement indicating the amount required to discharge a debt), for “12” there is substituted “7”.
+
+(4) In paragraph 7(a) of the Schedule (which provides for the statement to indicate, where any rebate is due, that the rebate has been calculated having regard to Regulations), for “the Consumer Credit (Rebate on Early Settlement) Regulations 1983” there is substituted “the Consumer Credit (Early Settlement) Regulations 2004”.
+
+## 10. Savings[^key-8a2d512a694e0344c4588268ea891f5a]
+
+(1) The Regulations referred to in regulation 8 continue to apply, in place of regulations 1-7 of these Regulations, and the amendments in regulation 9 do not apply, in the case of a regulated consumer credit agreement entered into before the date on which these Regulations come into force—
+
+- (a) until 31st May 2007, if the agreement is for a term of 10 years or less;
+- (b) until 31st May 2010, if the agreement is for a term of more than 10 years.
+
+(2) For the purposes of paragraph (1), the term of an agreement is the term originally provided for, or, in the case where the term was varied before the date on which these Regulations are made, the term provided for on that date.
+
+Gerry Sutcliffe,
+
+Parliamentary Under Secretary of State for Employment Relations, Competition and Consumer Affairs,
+
+Department of Trade and Industry
+
+5th June 2004
+
+## SCHEDULE — EXAMPLES ILLUSTRATING USE OF FORMULA FOR CALCULATING REBATE[^key-6b19b327a78f4e0f2909a60185ae5799]
+
+**No longer in force.**
+
+Regulation 4(3)
+
+### Example 1—medium term, medium value loan[^key-6b19b327a78f4e0f2909a60185ae5799]
+
+A loan of £5,000 is repayable by 48 monthly instalments of £134.57, starting one month after the relevant date. The monthly repayments include interest and all other charges included in the total charge for credit. Thus the total amount repayable = £134.57 x 48 = £6,459.36. The total charge for credit = £6,459.36 −£5,000 = £1,459.36.
+
+The creditor receives notice from the debtor requesting early settlement immediately after payment of the 12th instalment (i.e. after one year).
+
+Assuming that no charges are excluded from the calculation of the rebate under regulation 3(2), the APR on the loan required for the calculation of the rebate is 14% per annum.
+
+The creditor opts to calculate the rebate using periods of one month, giving a period rate equivalent of the APR = (1.14<sup>(1/12)</sup>−1) x 100 = 1.0979% per month. Hence, for the purposes of the formula in regulation 4(1)—
+
+- A<sub>1</sub> = 5,000
+- B<sub>1</sub> = 134.57 = B<sub>2</sub> = = B<sub>48</sub>
+- r = 1.0979/100 = 0.010979
+- m = 1
+- n = 12
+- a<sub>1</sub> = 12 (working in periods of 1 month)
+- b<sub>1</sub> = 11
+- b<sub>2</sub> = 10
+- b<sub>3</sub> = 9
+- :
+- b<sub>11</sub> = 1
+- b<sub>12</sub> = 0
+
+Then the loan outstanding immediately after payment of the12th instalment as calculated by the formula in regulation 4(1) is—
+
+- 5,000 x (1.010979)<sup>12</sup> − (134.57 x 1.010979<sup>11</sup> + 134.57 x 1.010979<sup>10</sup> + + 134.57 x 1.010979<sup>1</sup> + 134.57 x 1.010979<sup>0</sup>)
+- \= 5,700.01 − (151.74 + 150.10 + 148.47 + 146.85 + 145.26 + 143.68 + 142.12 + 140.58 + 139.05 + 137.54 + 136.05 + 134.57)
+- \= 5,700.01 − 1,716.01 = £3,984.00.
+
+If regulation 5(a) applies (making the settlement date 28 days after the debtor’s notice is received) no further payments will be due; thus the amount outstanding at the settlement date is—
+
+- £3,984.00 x 1.010979<sup>(28/30)</sup> = £4,024.81.
+- (this assumes that there are 30 days between the date for the 12th instalment and the 13th instalment; for months of 31 days, the amount outstanding would be
+- £3,984.00 x 1.010979<sup>(28/31)</sup> = £4,023.49.)
+
+If the creditor elects to defer the settlement date by a further month under regulation 6, this makes the date for calculating the rebate the 28th day after the payment date for the 13th instalment.
+
+For the calculation using the formula in regulation 4(1)—
+
+n
+
+13
+
+a<sub>1</sub>
+
+13 (working in periods of 1 month)
+
+b<sub>1</sub>
+
+12
+
+b<sub>2</sub>
+
+11
+
+b<sub>3</sub>
+
+10
+
+b<sub>12</sub>
+
+1
+
+b<sub>13</sub>
+
+0
+
+Then the loan outstanding to be repaid immediately after payment of the 13th instalment as calculated by the formula in regulation 4(1) is—
+
+- 5,000 x (1.010979)<sup>13</sup> − (134.57 x 1.010979<sup>12</sup> + 134.57 x 1.010979<sup>11</sup> + + 134.57 x 1.010979<sup>1</sup> + 134.57 x 1.010979<sup>0</sup>)
+- \= 5,762.59 − (153.41 + 151.74 + 150.10 + 148.47 + 146.85 + 145.26 + 143.68 + 142.12 + 140.58 = 139.05 + 137.54 + 136.05 + 134.57)
+- \= 5,762.59 − 1,869.42 = £3,893.17.
+
+The formula gives an amount outstanding after payment of the 13th instalment of £3,893.17. The amount outstanding at the settlement date is £3,893.17 x 1.010979<sup>(28/30)</sup> = £3,933.05 (assuming that the period between the 13th and 14th instalment dates is 30 days).
+
+The debtor will also have to pay the instalment due between the date of request for early settlement and the settlement date assumed for calculating the rebate (i.e. the 13th repayment of £134.57).
+
+Hence the total amount to be paid at the settlement date (which is 58 days after the date of request for early settlement) is £4,067.62.
+
+For this example, the rebate would be £776.90; this is calculated by deducting the early settlement figure of £3,933.05 from the total payments outstanding after the date assumed for calculating the rebate, which is £4,709.95 (=35 x £134.57).
+
+N.B. If the period between the 13th and 14th instalments were 31 days, the amount outstanding would be £3,893.17 x 1.010979<sup>(28/31)</sup> = £3,931.76 and the total amount still to be repaid would be £4,066.33. Other adjustments may be appropriate where the lender opted to choose the period of deferment as 30 days. In this case the settlement date for calculating the rebate would be 58 days after the date on which notice was received).
+
+### Example 2—longer term, high value loan[^key-6b19b327a78f4e0f2909a60185ae5799]
+
+A loan of £10,000 is repayable by 180 monthly instalments of £139.51 starting one month after the relevant date. The monthly repayments include interest and all other charges included in the total charge for credit.
+
+Thus total amount repayable = £139.51 x 180 = £25,111.80. The total charge for credit = £25,111.80 − £10,000 = £15,111.80.
+
+The creditor receives notice from the borrower requesting early settlement immediately after payment of the 72nd instalment (i.e. after six years).
+
+Assuming that no charges are excluded from the calculation of the rebate under regulation 3(2), the APR on the loan required for the calculation of the rebate is 16% per annum.
+
+The creditor opts to calculate the rebate using periods of one month, giving a period rate equivalent of the APR = (1.16<sup>(1/12)</sup> − 1) x 100 = 1.2445% per month. The creditor also opts to defer the settlement date for 30 days under regulation 6, so that the settlement date for the purposes of calculating the rebate is the 28th day after the payment date of the 73rd instalment. Hence, for the purposes of the formula in regulation 4(1)—
+
+- A<sub>1</sub> = 10,000
+- B<sub>1</sub> = 139.51 = B<sub>2</sub> = = B<sub>180</sub>
+- r = 1.2445/100 = 0.012445
+- m = 1
+- n = 73
+- a<sub>1</sub> = 73 (working in periods of 1 month)
+- b<sub>1</sub> = 72
+- b<sub>2</sub> = 71
+- b<sub>3</sub> = 70
+- :
+- b<sub>71</sub> = 1
+- b<sub>72</sub> = 0
+
+Then the loan outstanding to be repaid immediately after payment of the 73rd instalment as calculated by the formula in regulation 4(1) is—
+
+- 10,000 x (1.012445)<sup>73</sup> − (139.51 x 1.012445<sup>72</sup> + 139.51 x 1.012445<sup>71</sup> + + 139.51 x 1.012445<sup>1</sup> + 139.51 x 1.012445<sup>0</sup>)
+- \= 24,363.72 − (339.90 + 335.72 + . . . . + 141.25 + 139.51)
+- \= 24,666.93 − 16,441.81 = £8,225.12
+
+The amount outstanding at the settlement date is then—
+
+- £8,225.12 x 1.012445<sup>(28/30)</sup> = £8,320.62
+- (assuming that the period between the 72nd and 73rd instalments is 30 days or the creditor has opted for an additional deferment period of 30 days ). The debtor will also have to pay the instalment due between the date of request for early repayment and the settlement date assumed for calculating the rebate (i.e. the 73rd repayment of £139.51).
+
+Hence the total amount to be paid at the settlement date (which is 28 days after the date of request for early repayment) is £8,460.13.
+
+N.B. If the period between the 72nd and 73rd instalments were not 30 days, the amount outstanding would be slightly different.)
+
+For this example, the rebate is £6,606.95; this is calculated by deducting the early settlement figure of £8,320.62 from the total payments outstanding after the date assumed for calculating the rebate which is £14,927.57 (= 107 x £139.51).
+
+(This note is not part of the Regulations)
+
+These Regulations entitle the debtor under a regulated consumer credit agreement to a rebate where all or part of the amount payable to the creditor is paid before the date on which it is due. The Regulations replace the Consumer Credit (Rebate on Early Settlement) Regulations 1983 (“the 1983 Regulations”), subject to a saving in respect of agreements entered into before the commencement date.
+
+Regulations 4-6 differ from equivalent provisions in the 1983 Regulations. Regulation 4 incorporates an actuarial formula to be used in calculating the amount of the rebate, in place of different formulae provided for in the 1983 Regulations in relation to different cases. The Schedule contains examples which illustrate the application of the new formula. Regulation 5 determines the settlement date to be used in calculating the rebate. It differs from the corresponding provision of the 1983 Regulations in that the relevant date under that provision was generally determined by reference to the date of the next instalment due under the agreement. Regulation 6 provides for the settlement date to be deferred by a month (or, at the option of the creditor, 30 days) in the case of agreements for a term of more than a year. The 1983 Regulations provided for a deferment of two months in the case of an agreement for a term of up to five years, and a deferment of one month in the case of an agreement for a term of more than five years.
+
+These Regulations also amend the Consumer Credit (Settlement Information) Regulations 1983, which relate to the right of a debtor to a statement indicating the amount payable in order to settle a debt under a regulated consumer credit agreement. The settlement date assumed for the purpose of calculating this amount in a case where the credit is repayable in instalments becomes the date 28 days after the debtor’s request for a statement is received (as in cases where repayment is not in instalments), rather than the date of the first instalment due after 28 days have elapsed. The period within which the creditor must respond to a request for a statement is reduced from 12 to 7 days. There is also a consequential amendment related to the coming into force of the new provisions for calculating the rebate due on early settlement.
+
+A full regulatory impact assessment of the effect that this instrument will have on the costs to business is available from the Consumer and Competition Policy Directorate of the Department of Trade and Industry, 1 Victoria Street, London SW1H 0ET.
+
+## Annotations
+
+[^f00001]: Footnote: [1974 c. 39](https://www.legislation.gov.uk/ukpga/1974/39); section 189(1) is cited for the definitions of “prescribed” and “regulations”.
+
+[^key-7cc53d89c19414ca692c99c9a29554c8]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2004/1483/regulation/1) in force at 31.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/1483/regulation/1/1)
+
+[^key-7d6fd02dc6157a8573d66f9b4d47721c]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2004/1483/regulation/1/2) substituted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [24(b)](https://www.legislation.gov.uk/uksi/2013/1881/article/24/b)
+
+[^key-29396b6a26ec342f4e6f37974f763d98]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2004/1483/regulation/1/2) substituted (1.2.2011) by [The Consumer Credit (EU Directive) Regulations 2010 (S.I. 2010/1010)](https://www.legislation.gov.uk/uksi/2010/1010), [regs. 78(a)(i)](https://www.legislation.gov.uk/uksi/2010/1010/regulation/78/a/i), [99(1)](https://www.legislation.gov.uk/uksi/2010/1010/regulation/99/1) (with [regs. 100](https://www.legislation.gov.uk/uksi/2010/1010/regulation/100), [101](https://www.legislation.gov.uk/uksi/2010/1010/regulation/101))
+
+[^key-c33c38b661060fe5351527ccfbf10919]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2004/1483/regulation/1/2) inserted (E.W.S.) (28.1.2013) by [The Consumer Credit (Green Deal) Regulations 2012 (S.I. 2012/2798)](https://www.legislation.gov.uk/uksi/2012/2798), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2012/2798/regulation/1/b), [Sch. para. 3(2)](https://www.legislation.gov.uk/uksi/2012/2798/schedule/paragraph/3/2)
+
+[^key-cf4b1f942e6e82a5b750179d77062e68]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2004/1483/regulation/1/2) substituted (1.2.2011) by [The Consumer Credit (EU Directive) Regulations 2010 (S.I. 2010/1010)](https://www.legislation.gov.uk/uksi/2010/1010), [regs. 78(a)(ii)](https://www.legislation.gov.uk/uksi/2010/1010/regulation/78/a/ii), [99(1)](https://www.legislation.gov.uk/uksi/2010/1010/regulation/99/1) (with [regs. 100](https://www.legislation.gov.uk/uksi/2010/1010/regulation/100), [101](https://www.legislation.gov.uk/uksi/2010/1010/regulation/101))
+
+[^key-252d7d2b29879fc2ff8bce654458e139]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2004/1483/regulation/1/2) substituted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [arts. 1(2)(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2/6), [24(a)](https://www.legislation.gov.uk/uksi/2013/1881/article/24/a) \[Editorial note: In consequence of this amendment the second reg. 1(4) inserted by [S.I. 2010/1010](https://www.legislation.gov.uk/uksi/2010/1010), [reg. 78(c)](https://www.legislation.gov.uk/uksi/2010/1010/regulation/78/c) has been omitted as it no longer applies.\]
+
+[^key-c7aee6864d2270356defedec311ddb16]: Textual amendment: [Reg. 1(3)](https://www.legislation.gov.uk/uksi/2004/1483/regulation/1/3) omitted (1.2.2011) by virtue of [The Consumer Credit (EU Directive) Regulations 2010 (S.I. 2010/1010)](https://www.legislation.gov.uk/uksi/2010/1010), [regs. 78(b)](https://www.legislation.gov.uk/uksi/2010/1010/regulation/78/b), [99(1)](https://www.legislation.gov.uk/uksi/2010/1010/regulation/99/1) (with [regs. 100](https://www.legislation.gov.uk/uksi/2010/1010/regulation/100), [101](https://www.legislation.gov.uk/uksi/2010/1010/regulation/101))
+
+[^key-46064f50c9a0aee82df303e2d976446a]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2004/1483/regulation/2) in force at 31.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/1483/regulation/1/1)
+
+[^key-86b2bfe679128919d581406eaf200200]: Textual amendment: [Reg. 2(1)](https://www.legislation.gov.uk/uksi/2004/1483/regulation/2/1) substituted (1.2.2011) by [The Consumer Credit (EU Directive) Regulations 2010 (S.I. 2010/1010)](https://www.legislation.gov.uk/uksi/2010/1010), [regs. 79(a)](https://www.legislation.gov.uk/uksi/2010/1010/regulation/79/a), [99(1)](https://www.legislation.gov.uk/uksi/2010/1010/regulation/99/1) (with [regs. 100](https://www.legislation.gov.uk/uksi/2010/1010/regulation/100), [101](https://www.legislation.gov.uk/uksi/2010/1010/regulation/101))
+
+[^key-e5531de6d432e5cd73126ac71a50efce]: Textual amendment: [Reg. 2(1A)](https://www.legislation.gov.uk/uksi/2004/1483/regulation/2/1A) inserted (1.2.2011) by [The Consumer Credit (EU Directive) Regulations 2010 (S.I. 2010/1010)](https://www.legislation.gov.uk/uksi/2010/1010), [regs. 79(b)](https://www.legislation.gov.uk/uksi/2010/1010/regulation/79/b), [99(1)](https://www.legislation.gov.uk/uksi/2010/1010/regulation/99/1) (with [regs. 100](https://www.legislation.gov.uk/uksi/2010/1010/regulation/100), [101](https://www.legislation.gov.uk/uksi/2010/1010/regulation/101))
+
+[^key-93a8ca1bb12af164a1f2f4db800b8af0]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2004/1483/regulation/3) in force at 31.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/1483/regulation/1/1)
+
+[^key-75d7aa88c07f083faab3b1aa0d3adcc8]: Textual amendment: Words in [reg. 3(2)(a)](https://www.legislation.gov.uk/uksi/2004/1483/regulation/3/2/a) inserted (1.2.2011) by [The Consumer Credit (EU Directive) Regulations 2010 (S.I. 2010/1010)](https://www.legislation.gov.uk/uksi/2010/1010), [regs. 80(a)(i)(aa)](https://www.legislation.gov.uk/uksi/2010/1010/regulation/80/a), [99(1)](https://www.legislation.gov.uk/uksi/2010/1010/regulation/99/1) (with [regs. 100](https://www.legislation.gov.uk/uksi/2010/1010/regulation/100), [101](https://www.legislation.gov.uk/uksi/2010/1010/regulation/101))
+
+[^key-2e2a4a1f4b0952bd177382ec8eb18566]: Textual amendment: Words in [reg. 3(2)(a)](https://www.legislation.gov.uk/uksi/2004/1483/regulation/3/2/a) inserted (1.2.2011) by [The Consumer Credit (EU Directive) Regulations 2010 (S.I. 2010/1010)](https://www.legislation.gov.uk/uksi/2010/1010), [regs. 80(a)(i)(bb)](https://www.legislation.gov.uk/uksi/2010/1010/regulation/80/a), [99(1)](https://www.legislation.gov.uk/uksi/2010/1010/regulation/99/1) (with [regs. 100](https://www.legislation.gov.uk/uksi/2010/1010/regulation/100), [101](https://www.legislation.gov.uk/uksi/2010/1010/regulation/101))
+
+[^key-8c2695e57fa8910cfaeff01d94430a7c]: Textual amendment: Words in [reg. 3(2)(d)](https://www.legislation.gov.uk/uksi/2004/1483/regulation/3/2/d) inserted (1.2.2011) by [The Consumer Credit (EU Directive) Regulations 2010 (S.I. 2010/1010)](https://www.legislation.gov.uk/uksi/2010/1010), [regs. 80(a)(ii)(aa)](https://www.legislation.gov.uk/uksi/2010/1010/regulation/80/a), [99(1)](https://www.legislation.gov.uk/uksi/2010/1010/regulation/99/1) (with [regs. 100](https://www.legislation.gov.uk/uksi/2010/1010/regulation/100), [101](https://www.legislation.gov.uk/uksi/2010/1010/regulation/101))
+
+[^key-586dd268493c72cd91c7b0b43d22ec75]: Textual amendment: Words in [reg. 3(2)(d)](https://www.legislation.gov.uk/uksi/2004/1483/regulation/3/2/d) omitted (31.5.2005) by virtue of [The Consumer Credit (Miscellaneous Amendments) Regulations 2004 (S.I. 2004/2619)](https://www.legislation.gov.uk/uksi/2004/2619), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2004/2619/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2004/2619/regulation/4)
+
+[^key-230236ba2465a2d1b27bb1785340ba54]: Textual amendment: Words in [reg. 3(2)(d)](https://www.legislation.gov.uk/uksi/2004/1483/regulation/3/2/d) inserted (1.2.2011) by [The Consumer Credit (EU Directive) Regulations 2010 (S.I. 2010/1010)](https://www.legislation.gov.uk/uksi/2010/1010), [regs. 80(a)(ii)(bb)](https://www.legislation.gov.uk/uksi/2010/1010/regulation/80/a), [99(1)](https://www.legislation.gov.uk/uksi/2010/1010/regulation/99/1) (with [regs. 100](https://www.legislation.gov.uk/uksi/2010/1010/regulation/100), [101](https://www.legislation.gov.uk/uksi/2010/1010/regulation/101))
+
+[^key-b1b408863e0b7fd48e20e8ae00627712]: Textual amendment: [Reg. 3(3)](https://www.legislation.gov.uk/uksi/2004/1483/regulation/3/3) inserted (1.2.2011) by [The Consumer Credit (EU Directive) Regulations 2010 (S.I. 2010/1010)](https://www.legislation.gov.uk/uksi/2010/1010), [regs. 80(b)](https://www.legislation.gov.uk/uksi/2010/1010/regulation/80/b), [99(1)](https://www.legislation.gov.uk/uksi/2010/1010/regulation/99/1) (with [regs. 100](https://www.legislation.gov.uk/uksi/2010/1010/regulation/100), [101](https://www.legislation.gov.uk/uksi/2010/1010/regulation/101))
+
+[^key-1d8c71bf99746c24e696208f2aafc155]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2004/1483/regulation/4) in force at 31.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/1483/regulation/1/1)
+
+[^key-c23bcc34bb16fc7b33f060fd228fce75]: Textual amendment: [Reg. 4(A1)](https://www.legislation.gov.uk/uksi/2004/1483/regulation/4/A1) inserted (1.2.2011) by [The Consumer Credit (EU Directive) Regulations 2010 (S.I. 2010/1010)](https://www.legislation.gov.uk/uksi/2010/1010), [regs. 81(a)](https://www.legislation.gov.uk/uksi/2010/1010/regulation/81/a), [99(1)](https://www.legislation.gov.uk/uksi/2010/1010/regulation/99/1) (with [regs. 100](https://www.legislation.gov.uk/uksi/2010/1010/regulation/100), [101](https://www.legislation.gov.uk/uksi/2010/1010/regulation/101))
+
+[^key-663e9ecbad445f4a3c46ea0a930e8482]: Textual amendment: Word in [reg. 4(2)](https://www.legislation.gov.uk/uksi/2004/1483/regulation/4/2) inserted (1.2.2011) by [The Consumer Credit (EU Directive) Regulations 2010 (S.I. 2010/1010)](https://www.legislation.gov.uk/uksi/2010/1010), [regs. 81(b)(i)](https://www.legislation.gov.uk/uksi/2010/1010/regulation/81/b/i), [99(1)](https://www.legislation.gov.uk/uksi/2010/1010/regulation/99/1) (with [regs. 100](https://www.legislation.gov.uk/uksi/2010/1010/regulation/100), [101](https://www.legislation.gov.uk/uksi/2010/1010/regulation/101))
+
+[^key-31b62ddf93d7ebb61c11fd152a6dd91a]: Textual amendment: Words in [reg. 4(2)](https://www.legislation.gov.uk/uksi/2004/1483/regulation/4/2) omitted (1.2.2011) by virtue of [The Consumer Credit (EU Directive) Regulations 2010 (S.I. 2010/1010)](https://www.legislation.gov.uk/uksi/2010/1010), [regs. 81(b)(ii)](https://www.legislation.gov.uk/uksi/2010/1010/regulation/81/b/ii), [99(1)](https://www.legislation.gov.uk/uksi/2010/1010/regulation/99/1) (with [regs. 100](https://www.legislation.gov.uk/uksi/2010/1010/regulation/100), [101](https://www.legislation.gov.uk/uksi/2010/1010/regulation/101))
+
+[^key-56237bcca7ff49ea720fd5d5ca45895c]: Textual amendment: Words in [reg. 4(2)](https://www.legislation.gov.uk/uksi/2004/1483/regulation/4/2) inserted (1.2.2011) by [The Consumer Credit (EU Directive) Regulations 2010 (S.I. 2010/1010)](https://www.legislation.gov.uk/uksi/2010/1010), [regs. 81(b)(iii)](https://www.legislation.gov.uk/uksi/2010/1010/regulation/81/b/iii), [99(1)](https://www.legislation.gov.uk/uksi/2010/1010/regulation/99/1) (with [regs. 100](https://www.legislation.gov.uk/uksi/2010/1010/regulation/100), [101](https://www.legislation.gov.uk/uksi/2010/1010/regulation/101))
+
+[^key-159e3c59ff6e501e3551eac6f446d649]: Textual amendment: [Reg. 4(3)](https://www.legislation.gov.uk/uksi/2004/1483/regulation/4/3) omitted (1.2.2011) by virtue of [The Consumer Credit (EU Directive) Regulations 2010 (S.I. 2010/1010)](https://www.legislation.gov.uk/uksi/2010/1010), [regs. 81(c)](https://www.legislation.gov.uk/uksi/2010/1010/regulation/81/c), [99(1)](https://www.legislation.gov.uk/uksi/2010/1010/regulation/99/1) (with [regs. 100](https://www.legislation.gov.uk/uksi/2010/1010/regulation/100), [101](https://www.legislation.gov.uk/uksi/2010/1010/regulation/101))
+
+[^key-c4b060eb51fc71c018647af079152b9c]: Textual amendment: [Reg. 4A](https://www.legislation.gov.uk/uksi/2004/1483/regulation/4A) inserted (1.2.2011) by [The Consumer Credit (EU Directive) Regulations 2010 (S.I. 2010/1010)](https://www.legislation.gov.uk/uksi/2010/1010), [regs. 82](https://www.legislation.gov.uk/uksi/2010/1010/regulation/82), [99(1)](https://www.legislation.gov.uk/uksi/2010/1010/regulation/99/1) (with [regs. 100](https://www.legislation.gov.uk/uksi/2010/1010/regulation/100), [101](https://www.legislation.gov.uk/uksi/2010/1010/regulation/101))
+
+[^key-be6a6a9e6d3af481b4fad990e560cd5d]: Textual amendment: Words in [reg. 4A(2)](https://www.legislation.gov.uk/uksi/2004/1483/regulation/4A/2) inserted (E.W.S.) (28.1.2013) by [The Consumer Credit (Green Deal) Regulations 2012 (S.I. 2012/2798)](https://www.legislation.gov.uk/uksi/2012/2798), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2012/2798/regulation/1/b), [Sch. para. 3(3)](https://www.legislation.gov.uk/uksi/2012/2798/schedule/paragraph/3/3)
+
+[^key-7634cbffd3b3bc8006a1c66a2fd14abe]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2004/1483/regulation/5) in force at 31.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/1483/regulation/1/1)
+
+[^key-0d9b3a2a00b7df430c58bb550fcbac9d]: Textual amendment: [reg. 5](https://www.legislation.gov.uk/uksi/2004/1483/regulation/5) renumbered as reg. 5(1) (1.2.2011) by [The Consumer Credit (EU Directive) Regulations 2010 (S.I. 2010/1010)](https://www.legislation.gov.uk/uksi/2010/1010), [regs. 83(a)](https://www.legislation.gov.uk/uksi/2010/1010/regulation/83/a), [99(1)](https://www.legislation.gov.uk/uksi/2010/1010/regulation/99/1) (with [regs. 100](https://www.legislation.gov.uk/uksi/2010/1010/regulation/100), [101](https://www.legislation.gov.uk/uksi/2010/1010/regulation/101))
+
+[^key-444539b48a54298091070056c71fafc5]: Textual amendment: Words in [reg. 5(1)](https://www.legislation.gov.uk/uksi/2004/1483/regulation/5/1) inserted (1.2.2011) by [The Consumer Credit (EU Directive) Regulations 2010 (S.I. 2010/1010)](https://www.legislation.gov.uk/uksi/2010/1010), [regs. 83(b)(i)](https://www.legislation.gov.uk/uksi/2010/1010/regulation/83/b/i), [99(1)](https://www.legislation.gov.uk/uksi/2010/1010/regulation/99/1) (with [regs. 100](https://www.legislation.gov.uk/uksi/2010/1010/regulation/100), [101](https://www.legislation.gov.uk/uksi/2010/1010/regulation/101))
+
+[^key-26354f3ca384623ba0175dda83046a0b]: Textual amendment: Words in [reg. 5(1)(a)](https://www.legislation.gov.uk/uksi/2004/1483/regulation/5/1/a) substituted (1.2.2011) by [The Consumer Credit (EU Directive) Regulations 2010 (S.I. 2010/1010)](https://www.legislation.gov.uk/uksi/2010/1010), [regs. 83(b)(ii)](https://www.legislation.gov.uk/uksi/2010/1010/regulation/83/b/ii), [99(1)](https://www.legislation.gov.uk/uksi/2010/1010/regulation/99/1) (with [regs. 100](https://www.legislation.gov.uk/uksi/2010/1010/regulation/100), [101](https://www.legislation.gov.uk/uksi/2010/1010/regulation/101))
+
+[^key-25aa518ad54f178d5adce3c758e928db]: Textual amendment: [Reg. 5(2)](https://www.legislation.gov.uk/uksi/2004/1483/regulation/5/2) inserted (1.2.2011) by [The Consumer Credit (EU Directive) Regulations 2010 (S.I. 2010/1010)](https://www.legislation.gov.uk/uksi/2010/1010), [regs. 83(c)](https://www.legislation.gov.uk/uksi/2010/1010/regulation/83/c), [99(1)](https://www.legislation.gov.uk/uksi/2010/1010/regulation/99/1) (with [regs. 100](https://www.legislation.gov.uk/uksi/2010/1010/regulation/100), [101](https://www.legislation.gov.uk/uksi/2010/1010/regulation/101))
+
+[^key-c4908d4901033ccddeae8a7e3ec6e0ca]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2004/1483/regulation/6) in force at 31.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/1483/regulation/1/1)
+
+[^key-09e76890a4d6ccb5e00b18d542fc2c87]: Textual amendment: Reg. 6 renumbered as reg. 6(1) (E.W.S.) (28.1.2013) by [The Consumer Credit (Green Deal) Regulations 2012 (S.I. 2012/2798)](https://www.legislation.gov.uk/uksi/2012/2798), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2012/2798/regulation/1/b), [Sch. para. 3(3)](https://www.legislation.gov.uk/uksi/2012/2798/schedule/paragraph/3/3)
+
+[^key-9e0ae340d298c309dd194a4f142d4f58]: Textual amendment: [Reg. 6(2)](https://www.legislation.gov.uk/uksi/2004/1483/regulation/6/2) inserted (E.W.S.) (28.1.2013) by [The Consumer Credit (Green Deal) Regulations 2012 (S.I. 2012/2798)](https://www.legislation.gov.uk/uksi/2012/2798), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2012/2798/regulation/1/b), [Sch. para. 3(4)(b)](https://www.legislation.gov.uk/uksi/2012/2798/schedule/paragraph/3/4/b)
+
+[^key-b65754d8e4aab720439630925c4588e2]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2004/1483/regulation/7) in force at 31.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/1483/regulation/1/1)
+
+[^key-d53a1dcaf97f7832d4818cdfe6ddc46d]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2004/1483/regulation/8) in force at 31.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/1483/regulation/1/1)
+
+[^f00003]: Footnote: [S.I. 1983/1562](https://www.legislation.gov.uk/uksi/1983/1562), amended by [S.I. 1989/596](https://www.legislation.gov.uk/uksi/1989/596).
+
+[^key-abe064cdd526c1e2531e956e22942b6f]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2004/1483/regulation/9) in force at 31.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/1483/regulation/1/1)
+
+[^f00004]: Footnote: [S.I. 1983/1564](https://www.legislation.gov.uk/uksi/1983/1564).
+
+[^key-8a2d512a694e0344c4588268ea891f5a]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2004/1483/regulation/10) in force at 31.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/1483/regulation/1/1)
+
+[^key-6b19b327a78f4e0f2909a60185ae5799]: Textual amendment: [Sch.](https://www.legislation.gov.uk/uksi/2004/1483/schedule) omitted (1.2.2011) by virtue of [The Consumer Credit (EU Directive) Regulations 2010 (S.I. 2010/1010)](https://www.legislation.gov.uk/uksi/2010/1010), [regs. 84](https://www.legislation.gov.uk/uksi/2010/1010/regulation/84), [99(1)](https://www.legislation.gov.uk/uksi/2010/1010/regulation/99/1) (with [regs. 100](https://www.legislation.gov.uk/uksi/2010/1010/regulation/100), [101](https://www.legislation.gov.uk/uksi/2010/1010/regulation/101))

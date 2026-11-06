@@ -1,0 +1,946 @@
+---
+title: The Local Authorities (Funds) (England) Regulations 1992
+id: uksi/1992/2428
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '1992-10-13'
+text_date: '2021-12-22'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/1992/2428
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1992/2428/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Local Authorities (Funds) (England) Regulations 1992
+
+> Text as at 2021-12-22.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+1992 No. 2428
+
+LOCAL GOVERNMENT, ENGLAND AND WALES
+
+FINANCE
+
+The Local Authorities (Funds) (England) Regulations 1992
+
+Made
+
+13th October 1992
+
+Laid before Parliament
+
+14th October 1992
+
+Coming into force
+
+4th November 1992
+
+The Secretary of State, in exercise of the powers conferred on him by sections 89(5), 98(3), 99(1) to (4), 140(4), 143(1) and 146(6) of the Local Government Finance Act 1988[^f00001] and of all other powers enabling him in that behalf, hereby makes the following Regulations:—
+
+## 1. Citation, commencement and extent[^key-e38f54c28404162fd4c5e9906c846079]
+
+(1) These Regulations may be cited as the Local Authorities (Funds) (England) Regulations 1992 and shall come into force on 4th November 1992.
+
+(2) These Regulations extend to England only.
+
+## 2. Interpretation[^key-f1499b72052b8fa5c0915baaa436c800]
+
+(1) In these Regulations—
+
+- “the 1988 Act” means the Local Government Finance Act 1988;
+- “the 1992 Act” means the Local Government Finance Act 1992;
+- “principal authority” in relation to a billing authority means any relevant major precepting authority and the billing authority itself;
+- “the 1989 Regulations” means the Collection Fund (England) Regulations 1989[^f00002];
+- “relevant local precepting authority” in relation to a billing authority means any local precepting authority having power to issue a precept to that billing authority;
+- “relevant major precepting authority” in relation to a billing authority means any major precepting authority having power to issue a precept to that billing authority but the Greater London Authority is, and the Secretary of State is not, a relevant major precepting authority for the purposes of regulations 3(6), 3(7), 3(8) and 12 of and paragraph 6 of Schedule 2 to, these regulations in respect of the period beginning on 12th January 2000 and ending with 2nd July 2000, notwithstanding the transitional adaptation of section 39(1) of the Local Government Finance Act 1992;[^key-7b33108520ccff0186382ec746f9009c]
+- “relevant precepting authority” in relation to a billing authority means each relevant major precepting authority and each relevant local precepting authority;
+- “schedule of instalments” means a schedule determined by a billing authority, in accordance with regulations 4 and 6, with respect to the times for and the number and amounts of payments or transfers from its collection fund or its general fund in respect of its liabilities.
+
+(2) Any reference in these Regulations (however framed) to liabilities in relation to a billing authority is a reference to the liability of a billing authority to—
+
+- (a) pay anything from its collection fund in respect of any precept issued by a relevant major precepting authority under Part I of the 1992 Act, after taking into account any amount credited by that major precepting authority under section 42(4) of that Act,
+- (b) pay anything from its collection fund in respect of so much of any surplus in that fund as, in accordance with regulation 11, that billing authority calculates to be a relevant major precepting authority’s share,
+- (c) pay anything from its general fund in respect of any precept issued by a relevant local precepting authority under Part I of the 1992 Act, after taking into account any amount credited by that local precepting authority under section 42(4) of that Act,
+- (d) transfer anything from its collection fund or its general fund under section 97(1) or (2) of the 1988 Act[^f00003] (as the case may be), [^key-0cacd1e7e629c3556f2685e63236a81a]...
+- (e) transfer anything from its collection fund or its general fund under section 97(3) or (4) of the 1988 Act (as the case may be) in respect of so much of any surplus or deficit in its collection fund as, in accordance with regulation 11, that billing authority calculates to be its share or calculates must be borne by it , and[^key-2d5bb8c77a7fd51150426d34b92702bd]
+- (f) pay anything from its collection fund in respect of a variation to any payment or instalment of a payment relating to a precept agreed between that billing authority and a major precepting authority under paragraph 6(3)(b) of Schedule 1A to the 1992 Act in the circumstances described in regulation 10A or paragraph 6(4A) of Schedule 2.
+
+(3) Any reference in these Regulations to the making of a substitute calculation is a reference to the making of a substitute calculation by a billing authority in accordance with section 32(4) of the 1992 Act.
+
+## 3. Discharge of a billing authority’s liabilities[^key-80c46effaa701dbc218fd5f59ec8568f]
+
+(1) Subject to paragraph (2), in relation to each financial year beginning in or after 1993 a billing authority shall in accordance with its schedule of instalments—
+
+- (a) pay to its relevant precepting authorities from its collection fund or its general fund (as the case may be),
+- (b) transfer from its collection fund to its general fund, and
+- (c) transfer from its general fund to its collection fund,
+
+such amounts, if any, as will discharge its liabilities for that year.
+
+(2) The requirement in paragraph (1) to make payments or transfers in accordance with a schedule of instalments does not apply where any of the provisions in paragraphs (3) to (8) apply.
+
+(3) Where—
+
+- (a) a substitute precept or calculation has been issued or made in relation to a financial year, and
+- (b) that substitute precept or calculation has been issued or made on or after the day of the final instalment to be paid or transferred in accordance with the schedule of instalments in that year,
+
+any amounts to be paid or transferred by a billing authority in respect of its liabilities for that year which remain to be discharged immediately after the substitute precept or calculation is issued or made shall be paid or transferred as soon as reasonably practicable after the issue of that precept or making of that calculation.
+
+(4) Subject to paragraph (5), in relation to each financial year beginning in or after 1993 a billing authority shall transfer from its general fund to its collection fund such amounts as will discharge its liability to transfer anything from its general fund under section 97(2) of the 1988 Act at such times and in such instalments as it determines, provided it discharges any such liability within the financial year to which it relates.
+
+(5) Where a billing authority makes a substitute calculation after the end of the financial year to which it relates and becomes liable to transfer an amount under subsection (2) of section 97 of the 1988 Act, any amounts to be transferred by that authority in respect of its liabilities under that subsection which remain to be discharged immediately after the substitute calculation is made shall be transferred as soon as reasonably practicable after the making of that calculation.
+
+(6) In relation to each financial year beginning in or after 1994 a billing authority shall in accordance with paragraphs (7) and (8) discharge its liability to pay anything from its collection fund to a relevant major precepting authority in respect of so much of any surplus in that fund as, in accordance with regulation 11, that billing authority calculates to be that major precepting authority’s share as regards that year.
+
+(7) Subject, in the financial year beginning on 1st April 2000, to paragraph (7A) below,[^key-37eda92f8af9fa6e8e9d83f376ad98e7] any amount so calculated as regards the financial year in question shall be paid by a billing authority to a relevant major precepting authority in no more than 10 equal instalments during that financial year, provided that—
+
+- (a) the first and final instalments are paid in that year no later than 31st May and 31st March respectively, and
+- (b) there are an equal number of days between each instalment.
+
+(7A)[^key-eeed3e37f21a0ff598d926403f8001a5] Any amount so calculated by an authority in accordance with paragraphs 6(5), 6(6) or 6(7) of Schedule 2 to these Regulations shall be paid by a billing authority to the Greater London Authority in no more than 8 instalments during the financial year beginning on 1st April 2000 provided that—
+
+- (a) the first and final instalments are paid in that year no later than 6th July and 31st March respectively, and
+- (b) there are an equal number of days between each instalment.
+
+(8) For the purposes of the computation of days under paragraph (7)(b) or (7A)(b)[^key-39febf0bfd8ba2cee881bd788123cf7a] a day which is a Saturday, Sunday or bank holiday shall be excluded.
+
+(9) Any amount paid or transferred by a billing authority in respect of a liability for a financial year, whether or not paid or transferred in accordance with a schedule of instalments or in accordance with any of the provisions in paragraphs (3) to (8), shall be treated as discharging that liability to the extent of the payment or transfer.
+
+(10) For the purposes of paragraph (9), any amount paid or transferred which—
+
+- (a) was treated in accordance with that paragraph as discharging a billing authority’s liability, but which
+- (b) was subsequently repaid or credited by the relevant precepting authority concerned under section 42(2) of the 1992 Act, or transferred under regulation 9,
+
+shall, to the extent of the amount repaid or credited or transferred under regulation 9, cease to be treated as discharging that liability.
+
+(11) Any reference in this regulation to an authority’s schedule of instalments is a reference to the schedule of instalments determined by the authority in accordance with regulation 4, or where the authority has amended its schedule in accordance with regulation 6, to its schedule of instalments as it currently has effect.
+
+## 4. Schedules of instalments[^key-d63b47eb838869b09f5fdec217424053][^key-2484a22c5a0216ed313421d27d9606a3]
+
+(1) A billing authority shall determine a schedule of instalments in relation to each financial year beginning in or after 1993.
+
+(2) A billing authority shall determine a schedule of instalments under paragraph (1) before 31st January in the financial year preceding that to which the schedule will relate.
+
+(3) Subject to paragraph (4), a billing authority shall determine a schedule of instalments in accordance with the rules prescribed in Schedule 1 to these Regulations.
+
+(4) Where each relevant major precepting authority agrees before 31st January in the financial year preceding that to which a billing authority’s schedule of instalments will relate, a billing authority may determine a schedule of instalments otherwise than in accordance with one or more of the rules prescribed in paragraphs 1 to 5 of Schedule 1 to these Regulations, if the schedule satisfies the conditions specified in the following paragraph.
+
+(5) For the purposes of paragraph (4) and regulation 6(4) the conditions are that the schedule of instalments requires payments or transfers in at least two instalments the total of which will discharge the billing authority’s liabilities within the financial year to which it relates.
+
+## 5. Information on schedules of instalments[^key-2514d9503a042d6aacf74ca391f88397][^key-2484a22c5a0216ed313421d27d9606a3]
+
+(1) A billing authority shall, before 31st December in the financial year preceding that to which the schedule of instalments will relate, inform each relevant precepting authority of the schedule of instalments which it proposes to determine under regulation 4.
+
+(2) A billing authority shall, on or before 31st January in the financial year preceding that to which the schedule of instalments will relate, inform each relevant precepting authority of the schedule of instalments which it has determined under regulation 4.
+
+(3) A billing authority shall not determine a schedule of instalments under regulation 4 within 21 days of informing each relevant precepting authority under paragraph (1) of the schedule of instalments which it proposes to determine.
+
+## 6. Amendment of schedules of instalments[^key-6541997ed3e722aa0725a4b7955abb0f][^key-2484a22c5a0216ed313421d27d9606a3]
+
+(1) A billing authority may, with the agreement of each relevant major precepting authority, from time to time amend a schedule of instalments in so far as it relates to future payments, and any such amendment shall have effect from such time as is specified in the amendment.
+
+(2) The power under paragraph (1) to amend a schedule of instalments does not extend to the amendment of any provision in so far as it relates to relevant local precepting authorities.
+
+(3) Subject to paragraph (4), an amended schedule of instalments shall satisfy the requirements of paragraphs 1 to 5 of Schedule 1 to these Regulations.
+
+(4) A schedule of instalments may be amended otherwise than in accordance with one or more of the rules prescribed in paragraphs 1 to 5 of Schedule 1 to these Regulations, if the amended schedule of instalments satisfies the conditions specified in regulation 4(5).
+
+## 7. Interest on amount of instalments[^key-8437a054668d211d9b194a3be9625203]
+
+(1) A billing authority shall pay interest to a relevant precepting authority in respect of any amount which—
+
+- (a) has become payable to that precepting authority in accordance with a schedule of instalments, but
+- (b) has not been so paid.
+
+(2) Interest shall be payable under paragraph (1) on the amount outstanding for every day of the period beginning with the day on which the amount was due to be paid and ending with the day before the day on which it is paid.
+
+## 8. Calculation of interest on amount of instalments[^key-4efd9743f0f7605adf607dc5b2ac1ae0][^key-ff74e0cd00a9428e99505e45a474c80d]
+
+(1) Interest payable under regulation 7 in respect of an amount outstanding shall be calculated as the rate which is 2 per cent. above the highest base rate quoted by any of the reference banks at any time in the period for which that interest is payable.
+
+(2) The interest shall be paid at the same time as the amount outstanding is paid.
+
+(3)[^key-6cbb0d646d4580188be911aff539ce0c] For the purposes of paragraph (1), the reference banks are the seven largest persons for the time being who—
+
+- (a) have permission under Part 4 of the Financial Services and Markets Act 2000 to accept deposits,
+- (b) are incorporated in the United Kingdom and carrying on there a regulated activity of accepting deposits, and
+- (c) quote a base rate in sterling.
+
+(4) For the purposes of paragraph (3), the size of a person[^key-589b8f3f836760e0e32d0ee2bc97f77e] is to be determined by reference to his[^key-58ab1df68950fdc33aa76c30de6cb2c0] total consolidated gross assets denominated in sterling, as shown in his audited end-year accounts last published before the period for which interest is payable begins.
+
+(5) In this regulation—
+
+- “consolidated gross assets” of a person[^key-b350bbfd574a0b1c410d2354b2c9a5a5] is a reference to the gross assets of that person together with any subsidiary (within the meaning of section 736 of the Companies Act 1985)[^f00005];
+- [^key-7f08bfecbfbab0e5f793d5551f54a19f]...
+
+(6)[^key-c9ab1baade510505de296d7d8a85f094] Paragraph (3) must be read with—
+
+- (a) section 22 of the Financial Services and Markets Act 2000;
+- (b) any relevant order under that section; and
+- (c) Schedule 2 to that Act.
+
+## 9. Calculations under section 32(4) of the 1992 Act[^key-bcf61535378e1ccf7836ccdb3dca5f45]
+
+(1) Where—
+
+- (a) a billing authority has made a substitute calculation in relation to a financial year, and
+- (b) an amount transferred under section 97(1) of the 1988 Act from that authority’s collection fund to its general fund in relation to that financial year would not have been so transferred had the amount transferable in respect of the last calculation made before the substitute calculation been the same as the amount transferable, if any, in respect of the substitute calculation,
+
+that billing authority shall transfer from its general fund to its collection fund the amount which would not have been so transferred.
+
+(2) Where—
+
+- (a) a billing authority has made a substitute calculation in relation to a financial year, and
+- (b) an amount transferred under section 97(2) of the 1988 Act from that authority’s general fund to its collection fund in relation to that financial year would not have been so transferred had the amount transferable in respect of the last calculation made before the substitute calculation been the same as the amount transferable in respect of the substitute calculation,
+
+that billing authority shall transfer from its collection fund to its general fund the amount which would not have been so transferred.
+
+(3) The amount transferred under paragraph (1) or (2), as the case may be, shall be transferred—
+
+- (a) if the substitute calculation was made before the end of the financial year to which it relates, in that financial year,
+- (b) in any other case, on the day on which the substitute calculation is made.
+
+(4) In paragraphs (1) and (2) references to an amount transferable in respect of a calculation are references to the amount which a billing authority which has made calculations in accordance with sections 32 to 36 of the 1992 Act is required to transfer from its collection fund or its general fund under subsection (1) or (2) of section 97 of the 1988 Act, as the case may be.
+
+## 10. Estimation of surpluses and deficits[^key-e5dd540a2839dc34e0bca01d36bb3594]
+
+(1) A billing authority shall in accordance with the rules prescribed in Part I of Schedule 2 to these Regulations estimate as regards each financial year beginning in or after 1993 whether there is a surplus or deficit in its collection fund for the preceding financial year, and if so, the amount of that surplus or deficit.
+
+(2) A billing authority shall estimate the surplus or deficit under paragraph (1)—
+
+- (a) as regards the financial year beginning in 1993, on 15th February 1993,
+- (b) as regards a financial year beginning in or after 1994, on 15th January in the preceding financial year.
+
+(3) Where 15th January in a financial year is a Saturday, Sunday or bank holiday the estimate shall be made on the first working day thereafter.
+
+## 10A. Liability for variation in precept payment where no surplus or deficit[^key-bfedcd6537be7cd65734938b38798517]
+
+Where, as regards a financial year beginning in or after 2014—
+
+- (a) a billing authority has made the estimate required by regulation 10,
+- (b) there is no surplus or deficit in its collection fund for the preceding financial year, and
+- (c) a variation to any payment or instalment of a payment relating to a precept issued (or last issued) to a billing authority by a major precepting authority for the preceding financial year under section 40(2)(b) of the 1992 Act was agreed between the billing authority and that major precepting authority under paragraph 6(3)(b) of Schedule 1A to the 1992 Act,
+
+the billing authority shall, in discharging its liability to pay the amount of the variation to that major precepting authority, treat that amount for the purposes of regulation 3(6) as if it were that major precepting authority’s share of a surplus in the collection fund for that year, calculated in accordance with regulation 11.
+
+## 11. Apportionment of and liability for surpluses and deficits[^key-562d716dd75086d077ac4f5f3dfaf12e]
+
+(1) Any surplus or deficit estimated by a billing authority under regulation 10(1) as regards the financial year beginning in 1993 shall belong solely to, or be borne solely by, that authority.
+
+(2)[^key-52f4c6cf5422cfecea8dd2acf3808cb4] Any surplus or deficit estimated by a billing authority under regulation 10(1) as regards a financial year beginning in or after 1994 shall, in accordance with the rules prescribed in Part II of Schedule 2 to these Regulations, be shared among, or be borne between, that authority and its relevant major precepting authorities.
+
+(3)[^key-52f4c6cf5422cfecea8dd2acf3808cb4] A billing authority shall, within 7 working days of the day on which it makes an estimate under regulation 10(1) as regards each financial year beginning in or after 1994, inform its relevant major precepting authorities of the amount of any surplus or deficit and the amount equal to so much of any such surplus or deficit as, in accordance with the rules prescribed in Part II of Schedule 2 to these Regulations, that billing authority calculates to be each relevant major precepting authority’s share or the amount which must be borne by each such authority.
+
+## 12. Discharge of a relevant major precepting authority’s liabilities[^key-8186502927912c93aa08a7d32e4784df]
+
+(1) In relation to each financial year beginning in or after 1994 a relevant major precepting authority shall in accordance with paragraphs (2) and (3) discharge its liability to pay anything to a billing authority in respect of so much of any deficit in that authority’s collection fund as, in accordance with regulation 11, that billing authority calculates must be borne by that major precepting authority as regards that year.
+
+(2) Subject, in the financial year beginning on 1st April 2000, to paragraph (2A) below,[^key-9a4098c3b83c50e52b28adefa0c1eb62] any amount so calculated as regards the financial year in question shall be paid by a relevant major precepting authority to a billing authority in no more than 10 equal instalments during that financial year, provided that—
+
+- (a) the first and final instalments are paid in that year no later than 31st May and 31st March respectively, and
+- (b) there are an equal number of days between each instalment.
+
+(2A)[^key-8eb0b89fe7b750d5db924989e956bea9] Any amount so calculated by an authority in accordance with paragraphs 6(5), 6(6) or 6(7) of Schedule 2 to these Regulations shall be paid by the Greater London Authority to a billing authority in no more than 8 instalments during the financial year beginning on 1st April 2000 provided that—
+
+- (a) the first and final instalments are paid in that year no later than 6th July and 31st March respectively, and
+- (b) there are an equal number of days between each instalment.
+
+(3) For the purposes of the computation of days under paragraph (2)(b) or (2A)(b)[^key-e93d00386fd1773c2e9e7d2da6baf2d0] a day which is a Saturday, Sunday or bank holiday shall be excluded.
+
+## 13. Holdings and investments[^key-3abac4d3479679e6fcc1461a0e3e7f9a]
+
+(1) Any sum paid into a billing authority’s collection fund which is not immediately required for the purpose of making payments or transfers from that fund shall be—
+
+- (a) held in cash;
+- (b) invested [^key-94060078fbc379c837da961693bd9e13]...; or
+- (c) transferred to the billing authority’s general fund.
+
+(2) Any sum transferred under paragraph (1) from an authority’s collection fund to its general fund shall be—
+
+- (a) held in cash;
+- (b) invested [^key-2e2c68fbb16a6fa271e5f89cdeebadbe]...; or
+- (c) used for the discharge of the authority’s functions.
+
+(3)[^key-6c390e8dab084f810816e4ba8a442146] In carrying out its function of investment pursuant to paragraphs (1)(b) or (2)(b), a billing authority shall have regard to the code of practice contained in the document entitled “Treasury Management in the Public Services: Code of Practice and Cross-Sectoral Guidance Notes” (2017 Edition) published by the Chartered Institute of Public Finance and Accountancy.
+
+(4) Where a sum has been transferred to its general fund under paragraph (1), a billing authority shall—
+
+- (a) immediately retransfer the sum if such a retransfer is required to enable the authority to meet payments or transfers from its collection fund; and
+- (b) otherwise retransfer the sum as and when it thinks fit.
+
+## 14. The 1989 Regulations[^key-953fe00c4020c41f67e2f456406d4121]
+
+(1) Subject to paragraph (2), the 1989 Regulations shall cease to have effect in relation to any financial year beginning in or after 1993.
+
+(2) Any sum which—
+
+- (a) at the end of the financial year beginning in 1992 is held or is invested under regulation 10 of the 1989 Regulations, or
+- (b) before the end of that year has been transferred under that regulation and has not been retransferred under regulation 11 of the 1989 Regulations,
+
+shall with effect from 1st April 1993 be treated as if it is held or is invested or has been transferred under regulation 13 of these Regulations.
+
+Michael Howard
+
+One of Her Majesty’s Principal Secretaries of State
+
+Department of the Environment
+
+13th October 1992
+
+## SCHEDULE I — RULES FOR DETERMINATION OF SCHEDULES OF INSTALMENTS
+
+Regulations 4 and 6
+
+### PART I — PRINCIPAL AUTHORITIES
+
+**1.**[^key-5f036d46d35afca4a3fc11ba2b8931ec] (1) Subject to sub-paragraph (2), the schedule of instalments shall be determined so as to require any payments and transfers from a billing authority’s collection fund to principal authorities to be made in at least 10 instalments the total of which will discharge that billing authority’s liabilities within the financial year to which the schedule relates.
+
+(2) The reference in sub-paragraph (1) to transfers from a billing authority’s collection fund shall be construed, in the case of a liability under section 97(4) of the 1988 Act, as a reference to transfers from that authority’s general fund to its collection fund.
+
+(3) Any payments and transfers shall be made to each principal authority at the same times.
+
+**2.**[^key-3787d5b872bf61ca46d3bd27d56d5493] (1)[^key-d3ed81951b41da893c18d36b594e86ea] Subject to sub-paragraph (4), the schedule of instalments shall be determined so as to require—
+
+- (a) the first instalment to be paid or transferred to principal authorities within the following periods of the start of the financial year—
+  - (i) in relation to the financial year beginning in 1996, 32 days,
+  - (ii) in relation to the financial year beginning in 1997, 28 days,
+  - (iii) in relation to the financial year beginning in 1998, 24 days, and
+  - (iv) in relation to a financial year beginning in or after 1999, 21 days, and
+- (b) in relation to a financial year beginning in or after 1996, the final instalment to be so paid or transferred on or before the beginning of a period of 14 days prior to the end of the financial year.
+
+(2) There shall be an equal number of days between each instalment in a financial year.
+
+(3) For the purpose of the computation of days under sub-paragraph (2) a day which is a Saturday, Sunday, or bank holiday shall be excluded.
+
+(4)[^key-fc0d808569323348dc22ad10f835e370] Where the day on which the period referred to in sub-paragraph (1)(a) would end, or the period referred to in sub-paragraph (1)(b) would begin, is a Saturday, Sunday or bank holiday, then the periods shall respectively end, or be reduced to a period beginning, on the next day which is not a Saturday, Sunday or bank holiday.
+
+**3.**[^key-c6d44197555e0380104cbde872b5fa30] The schedule of instalments shall be determined so as to require the amount of each instalment which is to be paid or transferred to principal authorities, other than the last instalment in a financial year, to be a number of whole pounds.
+
+**4.**[^key-acfba8a762db79e281701df93b5b15cf] (1) The schedule of instalments shall be determined so as to require each instalment to represent the amount of the billing authority’s undischarged liability to a principal authority, divided by the number of instalments remaining to be paid or transferred.
+
+(2) The amount of the billing authority’s undischarged liability to a principal authority is the amount of its liability to that authority for the financial year in which the instalment falls to be paid or transferred, less the amount, if any, by which that liability is treated as discharged under regulation 3.
+
+(3) The number of instalments remaining to be paid or transferred means the number of instalments remaining to be paid or transferred immediately before the payment or transfer of the instalment in relation to which an amount is determined under sub-paragraph (1).
+
+**5.**[^key-028e190931b86c9bcd05475aa6fa85d7] (1) This paragraph applies where a billing authority determines its schedule of instalments otherwise than in accordance with the rules prescribed in paragraph 4.
+
+(2) Subject to sub-paragraphs (4) and (6), the schedule of instalments shall be determined so as to require each instalment paid or transferred to a principal authority after it has issued a substitute precept under section 42(1) of the 1992 Act or made a substitute calculation to be the amount calculated in accordance with sub-paragraph (3).
+
+(3) The amount calculated in accordance with this sub-paragraph shall be calculated by applying the formula—
+
+[formula: see source](https://www.legislation.gov.uk/uksi/1992/2428)
+
+where—
+
+- A is the amount which would have been paid or transferred on the date on which the instalment is paid or transferred had the substitute precept not been issued or the substitute calculation not been made (or, where there has been more than one such substitute precept or calculation, the latest such precept or calculation),
+- B is the amount payable or transferable in respect of the substitute precept or substitute calculation or the latest such precept or calculation,
+- C is the amount payable or transferable in respect of the previous precept or calculation or the last one to be issued or made before the substitute precept or calculation.
+
+(4) If the amount payable or transferable in respect of the substitute precept or calculation is greater than the amount payable or transferable in respect of the previous precept or calculation or the last one to be issued or made before the substitute precept or calculation, the amount paid or transferred to the principal authority which issued or made that substitute precept or calculation shall in the first instalment paid or transferred to that authority after the issue of that substitute precept or making of that substitute calculation be required to include the additional amount described in sub-paragraph (5).
+
+(5) For the purposes of sub-paragraph (4), the additional amount is the difference between—
+
+- (a) the total of
+  - (i) the amount paid or transferred for the financial year to the principal authority before the issue or making of the substitute precept or calculation, and
+  - (ii) the amount of the instalment calculated in accordance with sub-paragraph (3), and
+- (b) the amount which would have been paid or transferred for the financial year to the principal authority on and before the day of the payment or transfer to that authority of the first instalment after the issue of the substitute precept or making of the substitute calculation, had the amount payable or transferable in respect of the previous precept or calculation or the last one to be issued or made before the substitute precept or calculation was issued or made been the same as the amount payable or transferable in respect of the substitute precept or calculation.
+
+(6) If the amount payable or transferable in respect of the substitute precept or calculation is less than the amount payable or transferable in respect of the previous precept or calculation or the last one to be issued or made before the substitute precept or calculation, the amount paid or transferred to the principal authority in an instalment paid or transferred to that authority after the issue of the substitute precept or making of the substitute calculation by that authority shall not be required to be an amount greater than the amount described in sub-paragraph (7).
+
+(7) For the purposes of sub-paragraph (6), the amount is that necessary for the amount paid or transferred to the principal authority for the financial year on and before the day of the instalment to equal the amount which would have been so paid or transferred had the amount payable or transferable in respect of the previous precept or calculation or the last one to be issued or made before the substitute precept or calculation been the same as the amount payable or transferable in respect of the substitute precept or calculation.
+
+(8) In this paragraph any reference (however framed) to an amount payable in respect of a precept or transferable in respect of a calculation—
+
+- (a) in the case of an amount payable in respect of a precept, is a reference to the amount stated in a precept issued to the billing authority under section 40(2)(b) of the 1992 Act, and
+- (b) in the case of an amount transferable in respect of a calculation, is a reference to the amount which a billing authority which has made calculations in accordance with sections 32 to 36 of the 1992 Act is required to transfer from its collection fund to its general fund under section 97(1) of the 1988 Act.
+
+### PART II — RELEVANT LOCAL PRECEPTING AUTHORITIES
+
+**6.**[^key-34f1d815cc3fb54f821977ecb236e830] A schedule of instalments so far as it relates to relevant local precepting authorities shall be determined in accordance with this Part of this Schedule.
+
+**7.**[^key-323517cd79f9f8b037c23bf33fbf2a6c] The schedule of instalments shall be determined so as to require the amount of each instalment which is to be paid from a billing authority’s general fund to relevant local precepting authorities, other than the last instalment in a financial year, to be a number of whole pounds.
+
+**8.**[^key-d9971306ee59775c235258ec3fd23044] (1) Paragraph 9 shall apply in relation to a relevant local precepting authority where the amount referred to in sub-paragraph (3) for the financial year to which a schedule of instalments relates is 5 per cent. or less of the amount referred to in sub-paragraph (4).
+
+(2) In any other case paragraph 10 shall apply.
+
+(3) The amount referred to in this sub-paragraph is the amount of the liability of the billing authority in respect of a precept which has been issued to it by the relevant local precepting authority in question for the financial year to which the schedule of instalments relates.
+
+(4) The amount referred to in this sub-paragraph is the amount which the billing authority first calculated under section 32(4) of the 1992 Act for the financial year to which the schedule of instalments relates.
+
+**9.**[^key-78c8b5e3754190853d8d5ea10b062718] (1) In a case to which this paragraph applies, the schedule of instalments shall be determined so as to require that if the relevant local precepting authority has issued a precept before the start of the financial year in respect of which the precept was issued—
+
+- (a) at least 50 per cent. of the billing authority’s liability to that authority will be paid to that authority within 1 month of the start of the financial year in respect of which the precept was issued, and
+- (b) the remainder of the billing authority’s liability to that authority will be paid to that authority within 6 months of the start of that financial year.
+
+(2) In any other case to which this paragraph applies, the schedule of instalments shall be determined so as to require that—
+
+- (a) at least 50 per cent. of the billing authority’s liability to the relevant local precepting authority will be paid to that authority within 1 month of the issue to the billing authority of a precept by the relevant local precepting authority, and
+- (b) the remainder of the billing authority’s liability to that authority will be paid to that authority within 6 months of the issue to the billing authority of that precept,
+
+provided that the whole of the billing authority’s liability to the relevant local precepting authority under this sub-paragraph is paid to that authority by the end of the financial year in respect of which the precept was issued.
+
+**10.**[^key-1d90fb3cf6cf498cff9253c0f8175a49] (1) In a case to which this paragraph applies, the schedule of instalments shall be determined so as to require that if the relevant local precepting authority has issued a precept before the start of the financial year in respect of which the precept was issued—
+
+- (a) at least 50 per cent. of the billing authority’s liability to that authority will be paid to that authority within 3 months of the start of the financial year in respect of which the precept was issued, and
+- (b) the remainder of the billing authority’s liability to that authority will be paid to that authority within 9 months of the start of that financial year.
+
+(2) In any other case to which this paragraph applies, the schedule of instalments shall be determined so as to require that—
+
+- (a) at least 50 per cent. of the billing authority’s liability to the relevant local precepting authority will be paid to that authority within 3 months of the issue to the billing authority of a precept by the relevant local precepting authority, and
+- (b) the remainder of the billing authority’s liability to that authority will be paid to that authority within 9 months of the issue to the billing authority of that precept,
+
+provided that the whole of the billing authority’s liability to the relevant local precepting authority under this sub-paragraph is paid to that authority by the end of the financial year in respect of which the precept was issued.
+
+**11.**[^key-2d52834221b148461af633f1c9d075dd] The schedule of instalments shall be determined so as to provide that if—
+
+- (a) a relevant local precepting authority issues a substitute precept for a financial year which is greater that the amount of the previous precept to be issued or the last one to be issued, and
+- (b) that substitute precept was issued on or after the last day of a 1 or 3 month period which is prescribed in paragraph 9 or 10 and which applies to that relevant local precepting authority in that financial year, the difference between the liability in respect of that substitute precept and the liability in respect of the previous precept to be issued or the last one to be issued shall not be taken into account for the purpose of determining the amount of the liability to that relevant local precepting authority to be paid in that 1 or 3 month period.
+
+## SCHEDULE 2 — RULES FOR ESTIMATION AND APPORTIONMENT OF SURPLUSES AND DEFICITS
+
+Regulations 10 and 11
+
+### PART I — ESTIMATION OF SURPLUSES AND DEFICITS
+
+**1.**[^key-b533f73e1a45d283437fb80571f54637] (1) A billing authority shall as regards the financial year beginning in 1993 estimate whether there is a surplus or deficit in its collection fund for the financial year beginning in 1992, and if so, the amount of that surplus or deficit for that year, by calculating the difference between the amount referred to in sub-paragraph (3) and the amount referred to in sub-paragraph (4).
+
+(2) Where the amount referred to in sub-paragraph (3) is—
+
+- (a) more than the amount referred to in sub-paragraph (4), there is a surplus, the amount of which is the difference,
+- (b) less than the amount referred to in sub-paragraph (4), there is a deficit, the amount of which is the difference,
+- (c) the same as the amount referred to in sub-paragraph (4), there is no surplus or deficit.
+
+(3) The amount referred to in this sub-paragraph is the total of—
+
+- (a) the amount of any opening surplus on the income and expenditure account of the billing authority’s collection fund which was brought forward from the financial year beginning in 1991 and was shown in the billing authority’s accounts for that year as the collection fund income and expenditure account surplus, but if the accounts for that year have not been made up and balanced, the billing authority’s estimate of any such opening surplus;
+- (b) the sum of the billing authority’s estimates of the amounts credited or to be credited, in accordance with proper practices, to its collection fund income and expenditure account for the financial year beginning in 1992 in respect of the following items—
+  - (i) that authority’s share of the distributable amount calculated by the Secretary of State under Part III of Schedule 8 to the 1988 Act[^f00006],
+  - (ii) any grants payable by the Secretary of State,
+  - (iii) community charges,
+  - (iv) interest on sums held or invested in accordance with regulation 10 of the 1989 Regulations and amounts representing interest on sums transferred in accordance with that regulation and retransferred in accordance with regulation 11 of those Regulations,
+  - (v) transfers to that authority’s collection fund in respect of interest pursuant to any direction made by the Secretary of State under section 98(5) of the 1988 Act[^f00007],
+  - (vi) transfers pursuant to any direction made by the Secretary of State under section 98(4) and (5) of the 1988 Act in respect of community charge benefits, community charge transitional relief reductions and community charge discounts for prompt payment, and
+  - (vii) payments in respect of boundary changes made to that authority by any other billing authority pursuant to an agreement or award made under section 68 of the Local Government Act 1972[^f00008] which the Secretary of State specifies under section 90(1) of the 1988 Act[^f00009] are to be paid into that authority’s collection fund;
+- (c) in the case of the Common Council, an amount calculated by applying the formula—
+
+  [formula: see source](https://www.legislation.gov.uk/uksi/1992/2428)
+
+  where—
+
+  - A is that authority’s estimate of the amounts which will be paid under sections 43 and 45 of the 1988 Act[^f00010] for the financial year beginning in 1992,
+  - B is that authority’s estimate of the amounts which will be transferred to its collection fund pursuant to any direction made by the Secretary of State under section 98(5) of the 1988 Act in respect of non-domestic rates for that financial year,
+  - C is that authority’s estimate of the amounts payable under sections 43 and 45 of the 1988 Act for that financial year which will be taken into account in the calculation of its non-domestic rating contribution for that year,
+  - D is that authority’s estimate of the amounts which will be transferred to its general fund pursuant to any direction made by the Secretary of State under section 98(4) of the 1988 Act in respect of non-domestic rates for that financial year; and
+- (d) the sum of the billing authority’s estimates of any other amounts, excluding any amounts in respect of non-domestic rates, credited or to be credited, in accordance with proper practices, to its collection fund income and expenditure account for the financial year beginning in 1992, including prior year adjustments and amounts credited or to be credited relating to reductions in provision previously made for non-collection of community charges.
+
+(4) The amount referred to in this sub-paragraph is the total of—
+
+- (a) the amount of any opening deficit on the income and expenditure account of the billing authority’s collection fund which was brought forward from the financial year beginning in 1991 and was shown in the billing authority’s accounts for that year as the collection fund income and expenditure deficit, but if the accounts for that year have not been made up and balanced, the billing authority’s estimate of any such opening deficit;
+- (b) the sum of the billing authority’s estimates of the amounts charged or to be charged, in accordance with proper practices, to its collection fund income and expenditure account for the financial year beginning in 1992 in respect of the following items—
+  - (i) precepts payable under regulation 3 of the 1989 Regulations,
+  - (ii) transfers to that authority’s general fund under section 97 of the 1988 Act[^f00011],
+  - (iii) transfers to that authority’s general fund in respect of interest pursuant to any direction made by the Secretary of State under section 98(4) of the 1988 Act,
+  - (iv) transfers to that authority’s general fund in respect of an allowance for interest arising from the temporary investment of collection fund sums pursuant to any direction made by the Secretary of State under section 98(4) of the 1988 Act, and
+  - (v) payments in respect of boundary changes made by that authority to any other billing authority pursuant to an agreement or award made under section 68 of the Local Government Act 1972 which the Secretary of State specifies under section 90(2) of the 1988 Act are to be met from that authority’s collection fund; and
+- (c) the sum of the billing authority’s estimates of any other amounts, excluding any amounts in respect of non-domestic rates, charged or to be charged, in accordance with proper practices, to its collection fund income and expenditure account for the financial year beginning in 1992, including prior year adjustments and amounts charged or to be charged in respect of provision for non-collection of community charges.
+
+**2.**[^key-694ceb3aafbdea8a789738098d9607b2] (1) A billing authority shall as regards each financial year beginning in or after 1994 (“the year in question”) estimate whether there is a surplus or deficit in its collection fund for the preceding financial year and, if so, the amount of the surplus or deficit for that year, by calculating the difference between the amount referred to in sub-paragraph (3) and the amount referred to in sub-paragraph (4).
+
+(2) Where the amount referred to in sub-paragraph (3) is—
+
+- (a) more than the amount referred to in sub-paragraph (4), there is a surplus, the amount of which is the difference,
+- (b) less than the amount referred to in sub-paragraph (4), there is a deficit, the amount of which is the difference,
+- (c) the same as the amount referred to in sub-paragraph (4), there is no surplus or deficit.
+
+(3) Subject to sub-paragraphs (5) to (8),[^key-eb637ccde4f91e66f0d408c0e1af2b2f] the amount referred to in this sub-paragraph is the total of—
+
+- (a) the amount of any opening surplus on the income and expenditure account of the billing authority’s collection fund which was brought forward from the financial year (referred to in this paragraph as “the relevant prior year”) beginning two years before the beginning of the year in question and was shown in the billing authority’s accounts for the relevant prior year as the collection fund income and expenditure account surplus, but if the accounts for that year have not been made up and balanced, the billing authority’s estimate of any such opening surplus;
+- (b) the sum of the billing authority’s estimates of the amounts credited or to be credited, in accordance with proper practices, to its collection fund income and expenditure account for the preceding financial year in respect of the following items—
+  - (i) council tax,
+  - (ii) transfers pursuant to any direction made by the Secretary of State under section 98(4) and (5) of the 1988 Act in respect of council tax benefits, reductions in amounts of council tax and reductions for lump sum payment of council tax,
+  - (iii) transfers to that authority’s collection fund under section 97(4)
+
+    of the 1988 Act and any payments by relevant major precepting authorities under regulation 12 in respect of an estimated deficit in the billing authority’s collection fund for the relevant prior year,
+  - (iv) transfers to that authority’s collection fund under section 97(2)
+
+    of the 1988 Act, and
+  - (v) payments in respect of boundary changes made to that authority by any other billing authority pursuant to an agreement or award made under section 68 of the Local Government Act 1972 which the Secretary of State specifies under section 90(1) of the 1988 Act are to be paid into that authority’s collection fund; and
+- (c) the sum of the billing authority’s estimates of any other amounts, excluding any amounts in respect of non-domestic rates , business rate supplement[^key-71f02238f0d655348c2b7e9387856ea6] and community charges, credited or to be credited, in accordance with proper practices, to its collection fund income and expenditure account for the preceding financial year, including prior year adjustments and amounts credited or to be credited relating to reductions in provision previously made for non-collection of council tax.
+
+(4) Subject to sub-paragraph (5), the amount referred to in this sub-paragraph is the total of—
+
+- (a) the amount of any opening deficit on the income and expenditure account of the billing authority’s collection fund which was brought forward from the relevant prior year and was shown in the billing authority’s accounts for that year as the collection fund income and expenditure account deficit, but if the accounts for that year have not been made up and balanced, the billing authority’s estimate of any such opening deficit;
+- (b) the sum of the billing authority’s estimates of the amounts charged or to be charged, in accordance with proper practices, to its collection fund income and expenditure account for the preceding financial year in respect of the following items—
+  - (i) precepts payable to relevant major precepting authorities under regulation 3 disregarding any variation to any payment or instalment of a payment relating to a precept as agreed between the billing authority and the major precepting authority under paragraph 6(3)(b) of Schedule 1A to the 1992 Act[^key-5ab35c0698d9f83531d0f84e2e436b24],
+  - (ii) transfers to the billing authority’s general fund under section 97(1) of the 1988 Act,
+  - (iii) transfers to that authority’s general fund under section 97(3) of the 1988 Act and any payments to relevant major precepting authorities under regulation 3 in respect of an estimated surplus in the billing authority’s collection fund for the relevant prior year, and
+  - (iv) payments in respect of boundary changes made by that authority to any other billing authority pursuant to an agreement or award made under section 68 of the Local Government Act 1972 which the Secretary of State specifies under section 90 (2) of the 1988 Act are to be met from that authority’s collection fund; and
+- (c) the sum of the billing authority’s estimates of any other amounts, excluding any amounts in respect of non-domestic rates , business rate supplement[^key-6876a79971e90a750b3731c2a40af55a] and community charges, charged or to be charged, in accordance with proper practices, to its collection fund income and expenditure account for the preceding financial year, including prior year adjustments in respect of council tax and amounts charged or to be charged in respect of provision for non-collection of council tax.
+
+(5) As regards the financial year beginning in 1994, the items in sub-paragraphs (3)(a), (3)(b)(iii), (4)(a) and (4)(b)(iii) shall not be taken into account for the purposes of sub-paragraphs (3) and (4).
+
+(6)[^key-62645456eade7274b4ad3c5f6164a5c5] Sub-paragraphs (7) and (8) apply to a billing authority where, in the financial year beginning on 1st April 2021, the exceptional balance in the authority’s collection fund for the preceding financial year calculated in accordance with Part 3 of this Schedule is a negative amount.
+
+(7) As regards the financial year beginning on 1st April 2021, the amount referred to in sub-paragraph (3) is the total of the items listed in that sub-paragraph and a sum equivalent to two thirds of the exceptional balance (expressed as a positive amount).
+
+(8) As regards the financial year beginning on 1st April 2022, the amount referred to in sub-paragraph (3) is the total of the items listed in that sub-paragraph and a sum equivalent to one third of the exceptional balance (expressed as a positive amount).
+
+**3.**[^key-48a9e733aa96df0c91f801dd1b532b26] In this Part—
+
+- “community charge benefits” means the benefits referred to in section 123(1)(e) of the Social Security Contributions and Benefits Act 1992[^f00012] as that section has effect in respect of a day falling before 1st April 1993,
+- “community charge discounts for prompt payment” means any discount applicable by virtue of regulations made under paragraphs 5 and 5A of Schedule 2 to the 1988 Act[^f00013],
+- “community charge transitional relief reductions” means any relief or reduction applicable under any of the following Regulations—
+  - (a) the Personal Community Charge (Relief) (England) Regulations 1990[^f00014],
+  - (b) the Personal Community Charge (Reductions) (England) Regulations 1991[^f00015],
+  - (c) the Personal Community Charge (Reduction Scheme) (England) Regulations 1991[^f00016],
+- “council tax benefit” means council tax benefit under Part VII of the Social Security Contributions and Benefits Act 1992[^f00017],
+- “proper practices” has the meaning given in section 66(4) of the Local Government and Housing Act 1989[^f00018],
+- “reductions in amounts of council tax” means reductions in amounts of council tax payable by virtue of any regulations made under section 13 of the 1992 Act other than the Council Tax (Reductions for Disabilities) Regulations 1992[^f00019],
+- “reductions for lump sum payment of council tax” means the amounts of any reductions in council tax payable to a billing authority pursuant to regulations made under paragraphs 6 and 7 of Schedule 2 to the 1992 Act.
+
+**4.**[^key-0e204fb69f22eb6acd17d0f8dfb99128] In this Part—
+
+- (a) any reference to accounts being made up and balanced is a reference to the requirement for accounts to be made up and balanced in accordance with regulation 6 of the Accounts and Audit Regulations 1983[^f00020] ;
+- (b) any reference (however framed) to a billing authority’s collection fund income and expenditure account is a reference to a revenue account to which, in accordance with proper practices, are credited or charged, as the case may be, amounts in respect of the authority’s income and expenditure relating to sums paid or to be paid into or payments met or to be met from the authority’s collection fund;
+- (c) any references to a billing authority’s estimate in paragraph 1(3) and (4) and paragraph 2(3) and (4) are references to an estimate made by that authority immediately before the date on which that authority is required to estimate whether there is a surplus or deficit in its collection fund under regulation 10(2).
+
+**5.**[^key-2ef938425fcd5fb092a682e789f4a772] In paragraph 2(3)(c) and (4)(c) of this Part any reference to amounts in respect of community charges credited or to be credited or charged or to be charged, in accordance with proper practices, to a billing authority’s collection fund income and expenditure account is a reference to amounts so credited or charged in respect of—
+
+- (a) sums received or to be received and repayments made or to be made in respect of community charges,
+- (b) contributions in aid of community charges paid or to be paid under section 20 of the 1988 Act[^f00021],
+- (c) grant payable under section 4 of the Community Charges (General Reduction) Act 1991[^f00022],
+- (d) transfers to or from the billing authority’s general fund pursuant to any direction made by the Secretary of State under section 98(4) or (5) of the 1988 Act in respect of community charge benefits and community charge transitional relief reductions,
+- (e) provision for non-collection of community charges, including any increase or reduction in provision previously made for non-collection of such charges,
+- (f) prior year adjustments in respect of—
+  - (i) the items referred to in sub-paragraphs (a)
+
+    to (e), and
+  - (ii) any amounts credited or charged to the billing authority’s collection fund income and expenditure account for the financial year beginning in 1992 or any earlier financial year, other than any such amounts in respect of non-domestic rates, and
+- (g) transfers to or from the billing authority’s general fund pursuant to any direction made by the Secretary of State under section 98(4) and (5) of the 1988 Act relating to the difference between amounts in respect of community charges credited and charged to a revenue account for any earlier financial year.[^key-63e8d14343bcf5775dbe1b3bde703909]
+
+### PART II — APPORTIONMENT OF SURPLUSES AND DEFICITS
+
+**6.**[^key-c1e5905e0c2c8e04fbb8997a15086118] (1) A billing authority shall calculate in accordance with this Part of this Schedule as regards each financial year beginning in or after 1994 how the surplus or deficit estimated in accordance with Part I of this Schedule for the preceding financial year (“the year”) is to be shared among or borne between the authority and its relevant major precepting authorities.
+
+(2) Subject to sub-paragraph (14) below and paragraph 7,[^key-1b1c443d75e903c8adabe3aa1447c18e] the amount of any surplus which is to be the billing authority’s share or of any deficit which is to be borne by that authority for the year shall be calculated by applying the formula—
+
+[formula: see source](https://www.legislation.gov.uk/uksi/1992/2428)
+
+where, subject to sub-paragraph (3),—
+
+- A is the amount of the surplus or deficit, as the case may be, estimated by the authority under paragraph 2 of Part I of this Schedule for the year,
+- B is the amount calculated (or last calculated) by the authority under section 97(1) of the 1988 Act for the year,
+- C is the aggregate of the amounts stated by any relevant major precepting authorities in precepts issued (or last issued) to the authority for the year under section 40(2)(b) of the 1992 Act.
+
+(3) Where the amount last calculated by a billing authority under section 97(1) of the 1988 Act is a negative amount B shall be nil.
+
+(4)[^key-b84311be7bb0947a99a1e26911648a4c] Subject to sub-paragraphs (5) to (14) below and paragraph 7,[^key-967c987bba5cb01b8052fbbb47c270b1] the amount of any surplus which is to be a relevant major precepting authority’s share or of any deficit which is to be borne by that authority for the year shall be calculated by applying the formula—
+
+(A x (D divided by (B + C))) + L
+
+where—
+
+A, B and C have the same meanings as in sub-paragraphs (2) and (3),
+
+D is the amount stated by that precepting authority in a precept issued (or last issued) to a billing authority for the year under section 40(2)(b) of the 1992 Act,
+
+L is the amount of any variation to any payment or instalment of a payment relating to a precept as agreed between the billing authority and that major precepting authority under paragraph 6(3)(b) of Schedule 1A to the Local Government Finance Act 1992, expressed as a positive amount where the calculation concerns a surplus and a negative amount where the calculation concerns a deficit.
+
+(4A)[^key-c1199a5767d819a83594437d79d218bc] Where the amount given by sub-paragraph (4) is a negative amount, the billing authority shall be liable to pay the equivalent positive amount to that major precepting authority and shall treat that equivalent positive amount for the purposes of regulation 3(6) as if it were that major precepting authority’s share of a surplus in the collection fund for that year, calculated in accordance with regulation 11.
+
+(5)[^key-76f9483b2ff316e310e65b5d2263518f] The amount of any surplus which is to be the Greater London Authority’s share or of any deficit which is to be borne by the Greater London Authority for the year beginning on 1st April 2000 shall be calculated by the councils of the outer London boroughs by applying the formula—
+
+[formula: see source](https://www.legislation.gov.uk/uksi/1992/2428)
+
+where—
+
+- A, B, and C have the same meaning as in sub-paragraphs (2) and (3);
+- E is the amount stated by the Receiver for the Metropolitan Police District in a precept issued (or last issued) to the billing authority for the year beginning on 1st April 1999 under section 40(2)(b) of the 1992 Act;
+- F is the amount stated by the London Fire and Civil Defence Authority in a precept issued (or last issued) to the billing authority for the year beginning on 1st April 1999 under section 40(2)(b) of the 1992 Act.
+
+(6) The amount of any surplus which is to be the Greater London Authority’s share or of any deficit which is to be borne by the Greater London Authority for the year beginning on 1st April 2000 shall be calculated by the councils of the inner London boroughs by applying the formula—
+
+[formula: see source](https://www.legislation.gov.uk/uksi/1992/2428)
+
+where—
+
+- A, B, and C have the same meaning as in sub-paragraphs (2) and (3);
+- F is the amount stated by the London Fire and Civil Defence Authority in a precept issued (or last issued) to the billing authority for the year beginning on 1st April 1999 under section 40(2)(b) of the 1992 Act;
+- G is 83.61% of the amount stated by the Receiver for the Metropolitan Police District in a precept issued (or last issued) to the billing authority for the year beginning on 1st April 1999 under section 40(2)(b) of the 1992 Act.
+
+(7) The amount of any surplus which is to be the Greater London Authority’s share or of any deficit which is to be borne by the Greater London Authority for the year beginning on 1st April 2000 shall be calculated by the Common Council of the City of London by applying the formula—
+
+[formula: see source](https://www.legislation.gov.uk/uksi/1992/2428)
+
+where—
+
+- A, B, and C have the same meaning as in sub-paragraphs (2) and (3);
+- F has the same meaning as in sub-paragraph (5).
+
+(8) The amount of any surplus which is to be the Receiver for the Metropolitan Police District’s share or of any deficit which is to be borne by the Receiver for the Metropolitan Police District for the year beginning on 1st April 2000 shall be calculated by the councils of the inner London boroughs by applying the formula—
+
+[formula: see source](https://www.legislation.gov.uk/uksi/1992/2428)
+
+where—
+
+- A, B, and C have the same meaning as in sub-paragraphs (2) and (3);
+- H is 16.39%of the amount stated by the Receiver for the Metropolitan Police District in a precept issued (or last issued) to the billing authority for the year beginning on 1st April 1999 under section 40(2)(b) of the 1992 Act.
+
+(9) The amount of any surplus which is to be the Essex Police Authority’s share or of any deficit which is to be borne by the Essex Police Authority for the year beginning on 1st April 2000 shall be calculated by the Epping Forest District Council by applying the formula—
+
+[formula: see source](https://www.legislation.gov.uk/uksi/1992/2428)
+
+where—
+
+- A, B, and C have the same meaning as in sub-paragraphs (2) and (3);
+- E has the same meaning as in sub-paragraph (5);
+- I is the amount stated by the Essex Police Authority in a precept issued (or last issued) to Epping Forest District Council for the year beginning on 1st April 1999 under section 40(2)(b) of the 1992 Act.
+
+(10) The amount of any surplus which is to be the Surrey Police Authority’s share or of any deficit which is to be borne by the Surrey Police Authority for the year beginning on 1st April 2000 shall be calculated by Elmbridge Borough Council and Reigate & Banstead Borough Council by applying the formula—
+
+[formula: see source](https://www.legislation.gov.uk/uksi/1992/2428)
+
+where—
+
+- A, B, and C have the same meaning as in sub-paragraphs (2) and (3);
+- E has the same meaning as in sub-paragraph (5);
+- J is the amount stated by the Surrey Police Authority in a precept issued (or last issued) to the billing authority for the year beginning on 1st April 1999 under section 40(2)(b) of the 1992 Act.
+
+(11) The amount of any surplus which is to be the Surrey Police Authority’s share or of any deficit which is to be borne by the Surrey Police Authority for the year beginning on 1st April 2000 shall be calculated by the Council of the Borough of Spelthorne and Epsom & Ewell Borough Council by applying the formula—
+
+[formula: see source](https://www.legislation.gov.uk/uksi/1992/2428)
+
+where—
+
+- A, B, and C have the same meaning as in sub-paragraphs (2) and (3);
+- E has the same meaning as in sub-paragraph (5).
+
+(12) The amount of any surplus which is to be the Hertfordshire Police Authority’s share or of any deficit which is to be borne by the Hertfordshire Police Authority for the year beginning on 1st April 2000 shall be calculated by Hertsmere Borough Council by applying the formula—
+
+[formula: see source](https://www.legislation.gov.uk/uksi/1992/2428)
+
+where—
+
+- A, B, and C have the same meaning as in sub-paragraphs (2) and (3);
+- E has the same meaning as in sub-paragraph (5).
+
+(13) The amount of any surplus which is to be the Hertfordshire Police Authority’s share or of any deficit which is to be borne by the Hertfordshire Police Authority for the year beginning on 1st April 2000 shall be calculated by Broxbourne Borough Council and Welwyn Hatfield District Council by applying the formula—
+
+[formula: see source](https://www.legislation.gov.uk/uksi/1992/2428)
+
+where—
+
+- A, B, and C have the same meaning as in sub-paragraphs (2) and (3);
+- E has the same meaning as in sub-paragraph (5);
+- K is the amount stated by the Hertfordshire Police Authority in a precept issued (or last issued) to the billing authority for the year beginning on 1st April 1999 under section 40(2)(b) of the 1992 Act.
+
+(14)[^key-c4b5507f41d496dc9bb516d9582b8955] In relation to the Isle of Wight Council and the financial year beginning on 1st April 2021 sub-paragraphs (1) to (4) apply with the following modifications—
+
+- (a) the Hampshire and Isle of Wight Fire and Rescue Authority is treated as a relevant major precepting authority which, for the purposes of C and D, issued a precept of £3,347,939.09 for the year beginning on 1st April 2020 to the Isle of Wight Council;
+- (b) B is the amount calculated (or last calculated) by the authority under section 97(1) of the 1988 Act for the year beginning on 1st April 2020 minus £3,347,939.09.
+
+**7.**[^key-a9d85f8c0e392cbe1edc256724ad69c7] (1) This paragraph applies to a billing authority where, as regards the financial year beginning on 1st April 2021, the exceptional balance in the authority’s collection fund for the preceding financial year calculated in accordance with Part 3 of this Schedule is a negative amount.
+
+(2) As regards the financial years beginning on 1st April 2022 and 1st April 2023, paragraph 6(2) and (4) applies as if for the definition of “A” there were substituted—
+
+“A is—
+
+- (a) the amount of the surplus (expressed as a positive amount) or deficit (expressed as a negative amount), as the case may be, estimated by the authority under paragraph 2 of Part 1 of this Schedule for the year; less
+- (b) an amount equal to one third of the exceptional balance expressed as a negative amount;
+
+and where the resulting amount is—
+
+- (c) greater than zero, A is a surplus;
+- (d) less than zero, A is the equivalent positive amount and is a deficit;
+- (e) zero, there is no surplus or deficit,”.
+
+(3) As regards the financial years beginning on 1st April 2022 and 1st April 2023, subject to sub-paragraphs (7) to (9)[^key-ef2b627f2cae35a36c92dcc786e6233c] below, the amount of one third of the exceptional balance (expressed as a positive amount) which is to be borne by a billing authority for the year is calculated by applying the formula—
+
+- [image: see source](https://www.legislation.gov.uk/uksi/1992/2428/images/uksi_19922428_en_epp_010.gif)
+
+where—
+
+- N is one third of the exceptional balance (expressed as a positive amount);
+- O is, subject to sub-paragraph (4), the amount calculated (or last calculated) by the authority under section 97(1) of the 1988 Act for the year beginning on 1st April 2020;
+- P is the aggregate of the amounts stated by any relevant major precepting authorities in precepts issued (or last issued) to the authority for the year beginning on 1st April 2020 under section 40(2)(b) of the 1992 Act.
+
+(4) Where the amount last calculated by a billing authority under section 97(1) of the 1988 Act is a negative amount O is zero.
+
+(5) Subject to sub-paragraphs (6) to (10)[^key-d3b77881236eec6072778af6454edce3] below, the amount of one third of the exceptional balance (expressed as a positive amount) which is to be borne by a relevant major precepting authority for the year shall be calculated by applying the formula—
+
+- [image: see source](https://www.legislation.gov.uk/uksi/1992/2428/images/uksi_19922428_en_epp_011.gif)
+
+where—
+
+- N, O and P have the same meanings as in sub-paragraphs (3) and (4);
+- Q is the amount stated by that precepting authority in a precept issued (or last issued) to a billing authority for the year beginning on 1st April 2020 under section 40(2)(b) of the 1992 Act;
+- R is the amount of any variation to any payment or instalment of a payment relating to a precept as agreed between the billing authority and that major precepting authority for the year beginning on 1st April 2020 under paragraph 6(3)(b) of Schedule 1A to the 1992 Act, expressed as a negative amount where the calculation concerns a deficit.
+
+(6) Where the amount given by sub-paragraph (5) is a negative amount, the billing authority is liable to pay the equivalent positive amount to that major precepting authority and must treat that equivalent positive amount for the purposes of regulation 3(6) as if it were that major precepting authority’s share of a surplus in the collection fund for that year, calculated in accordance with regulation 11.
+
+(7) Sub-paragraphs (2) to (6) apply to the Isle of Wight Council with the following modifications—
+
+- (a) O has the same meaning as B in paragraph 6(14)(b); and
+- (b) the Hampshire and Isle of Wight Fire and Rescue Authority is treated as a relevant major precepting authority which, for the purposes of P and Q, issued a precept of £3,347,939.09 to the Isle of Wight Council for the year beginning on 1st April 2020.
+
+(8)[^key-f750f5b0160882d75b8a0ccb0d090a95] Sub-paragraphs (2) to (6) apply to the North Northamptonshire Council with the following modifications—
+
+- (a) O is £167,399,699; and
+- (b) P is £35,167,186.
+
+(9) Sub-paragraphs (2) to (6) apply to the West Northamptonshire Council with the following modifications—
+
+- (a) O is £214,621,716; and
+- (b) P is £44,011,766.
+
+(10) The amount stated by the West Yorkshire Police and Crime Commissioner in a precept issued to a billing authority for the financial year beginning on 1st April 2020 under section 40(2) of the 1992 Act is to be treated as if it had been issued to that billing authority by the Mayor for the West Yorkshire Combined Authority in respect of the Mayor’s police and crime commissioner functions.
+
+### PART 3 — Calculation of the exceptional balance[^key-fe7b2695e5740895e798ab973e381177]
+
+**8.** (1) A billing authority’s exceptional balance for the financial year beginning on 1st April 2021 is calculated in accordance with the formula—
+
+- [image: see source](https://www.legislation.gov.uk/uksi/1992/2428/images/uksi_19922428_en_epp_012.gif)
+
+where—
+
+- S is the billing authority’s estimated surplus (expressed as a positive amount) or deficit (expressed as a negative amount) for the preceding year, calculated in accordance with Part 1 of this Schedule (but ignoring the effect of paragraph 2(7));
+- T is the billing authority’s prior year balance, calculated in accordance with sub-paragraph (2) below.
+
+(2) A billing authority’s prior year balance for the year beginning on 1st April 2021 is calculated by applying the formula—
+
+- [image: see source](https://www.legislation.gov.uk/uksi/1992/2428/images/uksi_19922428_en_epp_013.gif)
+
+where—
+
+- U is the amount referred to in paragraph 2(3)(a);
+- V is the amount referred to in paragraph 2(3)(b)(iii);
+- W is the amount referred to in paragraph 2(4)(a);
+- X is the amount referred to in paragraph 2(4)(b)(iii).
+
+## SCHEDULE 3 — PRESCRIBED INVESTMENTS[^key-4ea1dd00b578823bcd0f495feee06cc3]
+
+**No longer in force.**
+
+Regulation 13
+
+**1.**[^key-4ea1dd00b578823bcd0f495feee06cc3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**2.**[^key-4ea1dd00b578823bcd0f495feee06cc3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**3.**[^key-4ea1dd00b578823bcd0f495feee06cc3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(This note is not part of the Regulations)
+
+These Regulations make provision for the discharge by a billing authority of its liabilities to pay amounts in respect of precepts from its collection and general funds and to make transfers between those funds to meet its estimated expenses. They also make provision for the discharge by a billing authority and its major precepting authorities of their liabilities to meet any estimated surplus or deficit in a billing authority’s collection fund.
+
+Regulation 3 makes provision for a billing authority to make certain payments and transfers from its collection and general funds in accordance with a schedule of instalments and otherwise, and for the circumstances in which certain liabilities of the authority are to be treated as discharged.
+
+Regulations 4 and 5, together with Schedule 1, provide that a billing authority shall determine a schedule of instalments in accordance with prescribed rules. Regulation 6 allows a schedule of instalments to be amended. Regulations 7 and 8 make provision as to the payment of interest where amounts payable in accordance with a schedule of instalments are not paid.
+
+Regulation 9 makes provision as to certain transfers where a billing authority has recalculated its budget requirement for the year. Regulations 10 and 11, together with Schedule 2, provide for the estimation and apportionment of, and liability for, a surplus or deficit in a billing authority’s collection fund. Copies of the Collection Fund (Community Charges) (England) Directions 1992 made under section 98 of the Local Government Finance Act 1988 on 12th October 1992 and referred to in paragraph 5 of Schedule 2 can be obtained free of charge from the Department of the Environment, Room N4/19, 2 Marsham Street, London SW1P 3EB.
+
+Regulation 12 provides for a major precepting authority to make payments to a billing authority where that precepting authority is liable for part of a collection fund deficit.
+
+Regulation 13, together with Schedule 3, make provision as to the holding, investment and use of sums paid into a billing authority’s collection fund.
+
+Regulation 14 provides, subject to a transitional provision, that the Collection Fund (England) Regulations 1989 cease to have effect in relation to any financial year beginning in or after 1993.
+
+## Annotations
+
+[^f00001]: Footnote: [1988 c. 41](https://www.legislation.gov.uk/ukpga/1988/41); section 89(5) was amended by the Local Government and Housing Act [1989 (c. 42)](https://www.legislation.gov.uk/ukpga/1989/42), Schedule 5, paragraph 62; section 98(3) was amended, and section 99 was substituted, by the Local Government Finance Act [1992 (c. 14)](https://www.legislation.gov.uk/ukpga/1992/14), Schedule 10, paragraphs 23 and 24 respectively, in relation to any financial year beginning on or after 1st April 1993.
+
+[^key-e38f54c28404162fd4c5e9906c846079]: Commencement: Reg. 1 in force at 4.11.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/2428/regulation/1/1)
+
+[^key-f1499b72052b8fa5c0915baaa436c800]: Commencement: Reg. 2 in force at 4.11.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/2428/regulation/1/1)
+
+[^f00002]: Footnote: S.I. [1989/2336](https://www.legislation.gov.uk/uksi/1989/2336), amended by S.I. [1992/620](https://www.legislation.gov.uk/uksi/1992/620).
+
+[^key-7b33108520ccff0186382ec746f9009c]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1992/2428/regulation/2/1) inserted (12.1.2000) by [The Local Authorities (Funds) (England) (Amendment No. 2) Regulations 1999 (S.I. 1999/3459)](https://www.legislation.gov.uk/uksi/1999/3459), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/3459/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/1999/3459/regulation/4)
+
+[^f00003]: Footnote: Section 97 was substituted by the Local Government Finance Act 1992, Schedule 10, paragraph 22, in relation to any financial year beginning on or after 1st April 1993.
+
+[^key-0cacd1e7e629c3556f2685e63236a81a]: Textual amendment: Word in [reg. 2(2)(d)](https://www.legislation.gov.uk/uksi/1992/2428/regulation/2/2/d) omitted (20.12.2013) by virtue of [The Local Authorities (Funds) (England) (Amendment) Regulations 2013 (S.I. 2013/2974)](https://www.legislation.gov.uk/uksi/2013/2974), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2974/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2013/2974/regulation/2/2/a)
+
+[^key-2d5bb8c77a7fd51150426d34b92702bd]: Textual amendment: [Reg. 2(2)(f)](https://www.legislation.gov.uk/uksi/1992/2428/regulation/2/2/f) and word inserted (20.12.2013) by [The Local Authorities (Funds) (England) (Amendment) Regulations 2013 (S.I. 2013/2974)](https://www.legislation.gov.uk/uksi/2013/2974), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2974/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2013/2974/regulation/2/2/b)
+
+[^key-80c46effaa701dbc218fd5f59ec8568f]: Commencement: Reg. 3 in force at 4.11.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/2428/regulation/1/1)
+
+[^key-37eda92f8af9fa6e8e9d83f376ad98e7]: Textual amendment: Words in [reg. 3(7)](https://www.legislation.gov.uk/uksi/1992/2428/regulation/3/7) inserted (12.1.2000) by [The Local Authorities (Funds) (England) (Amendment No. 2) Regulations 1999 (S.I. 1999/3459)](https://www.legislation.gov.uk/uksi/1999/3459), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/3459/regulation/1/1), [5(1)](https://www.legislation.gov.uk/uksi/1999/3459/regulation/5/1)
+
+[^key-eeed3e37f21a0ff598d926403f8001a5]: Textual amendment: [Reg. 3(7A)](https://www.legislation.gov.uk/uksi/1992/2428/regulation/3/7A) inserted (12.1.2000) by [The Local Authorities (Funds) (England) (Amendment No. 2) Regulations 1999 (S.I. 1999/3459)](https://www.legislation.gov.uk/uksi/1999/3459), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/3459/regulation/1/1), [5(2)](https://www.legislation.gov.uk/uksi/1999/3459/regulation/5/2)
+
+[^key-39febf0bfd8ba2cee881bd788123cf7a]: Textual amendment: Words in [reg. 3(8)](https://www.legislation.gov.uk/uksi/1992/2428/regulation/3/8) inserted (12.1.2000) by [The Local Authorities (Funds) (England) (Amendment No. 2) Regulations 1999 (S.I. 1999/3459)](https://www.legislation.gov.uk/uksi/1999/3459), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/3459/regulation/1/1), [5(3)](https://www.legislation.gov.uk/uksi/1999/3459/regulation/5/3)
+
+[^key-d63b47eb838869b09f5fdec217424053]: Commencement: Reg. 4 in force at 4.11.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/2428/regulation/1/1)
+
+[^key-2484a22c5a0216ed313421d27d9606a3]: Modification: [Regs. 4-6](https://www.legislation.gov.uk/uksi/1992/2428/regulation/4) excluded (29.12.1994) by [The Local Government Changes for England (Collection Fund Surpluses and Deficits) Regulations 1994 (S.I. 1994/3115)](https://www.legislation.gov.uk/uksi/1994/3115), [regs. 1](https://www.legislation.gov.uk/uksi/1994/3115/regulation/1), [2](https://www.legislation.gov.uk/uksi/1994/3115/regulation/2)
+
+[^key-2514d9503a042d6aacf74ca391f88397]: Commencement: Reg. 5 in force at 4.11.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/2428/regulation/1/1)
+
+[^key-6541997ed3e722aa0725a4b7955abb0f]: Commencement: Reg. 6 in force at 4.11.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/2428/regulation/1/1)
+
+[^key-8437a054668d211d9b194a3be9625203]: Commencement: Reg. 7 in force at 4.11.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/2428/regulation/1/1)
+
+[^key-4efd9743f0f7605adf607dc5b2ac1ae0]: Commencement: Reg. 8 in force at 4.11.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/2428/regulation/1/1)
+
+[^key-ff74e0cd00a9428e99505e45a474c80d]: Modification: [Reg. 8](https://www.legislation.gov.uk/uksi/1992/2428/regulation/8) applied (with modifications) (15.10.2009) by [The Business Rate Supplements (Transfers to Revenue Accounts) (England) Regulations 2009 (S.I. 2009/2543)](https://www.legislation.gov.uk/uksi/2009/2543), [reg. 1](https://www.legislation.gov.uk/uksi/2009/2543/regulation/1), [Sch. 2 para. 10(3)](https://www.legislation.gov.uk/uksi/2009/2543/schedule/2/paragraph/10/3)
+
+[^key-6cbb0d646d4580188be911aff539ce0c]: Textual amendment: [Reg. 8(3)](https://www.legislation.gov.uk/uksi/1992/2428/regulation/8/3) substituted (1.12.2001) by [The Financial Services and Markets Act 2000 (Consequential Amendments and Repeals) Order 2001 (S.I. 2001/3649)](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [427(1)](https://www.legislation.gov.uk/uksi/2001/3649/article/427/1)
+
+[^key-589b8f3f836760e0e32d0ee2bc97f77e]: Textual amendment: Words in [reg. 8(4)](https://www.legislation.gov.uk/uksi/1992/2428/regulation/8/4) substituted (1.12.2001) by [The Financial Services and Markets Act 2000 (Consequential Amendments and Repeals) Order 2001 (S.I. 2001/3649)](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [427(2)](https://www.legislation.gov.uk/uksi/2001/3649/article/427/2)
+
+[^key-58ab1df68950fdc33aa76c30de6cb2c0]: Textual amendment: Word in [reg. 8(4)](https://www.legislation.gov.uk/uksi/1992/2428/regulation/8/4) substituted (1.12.2001) by [The Financial Services and Markets Act 2000 (Consequential Amendments and Repeals) Order 2001 (S.I. 2001/3649)](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [427(2)](https://www.legislation.gov.uk/uksi/2001/3649/article/427/2)
+
+[^key-b350bbfd574a0b1c410d2354b2c9a5a5]: Textual amendment: Words in [reg. 8(5)](https://www.legislation.gov.uk/uksi/1992/2428/regulation/8/5) substituted (1.12.2001) by [The Financial Services and Markets Act 2000 (Consequential Amendments and Repeals) Order 2001 (S.I. 2001/3649)](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [427(3)(a)](https://www.legislation.gov.uk/uksi/2001/3649/article/427/3/a)
+
+[^f00005]: Footnote: [1985 c. 6](https://www.legislation.gov.uk/ukpga/1985/6); section 736 was substituted by section 144(1) of the Companies Act [1989 (c. 40)](https://www.legislation.gov.uk/ukpga/1989/40).
+
+[^key-7f08bfecbfbab0e5f793d5551f54a19f]: Textual amendment: Words in [reg. 8(5)](https://www.legislation.gov.uk/uksi/1992/2428/regulation/8/5) revoked (1.12.2001) by [The Financial Services and Markets Act 2000 (Consequential Amendments and Repeals) Order 2001 (S.I. 2001/3649)](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [427(3)(b)](https://www.legislation.gov.uk/uksi/2001/3649/article/427/3/b)
+
+[^key-c9ab1baade510505de296d7d8a85f094]: Textual amendment: [Reg. 8(6)](https://www.legislation.gov.uk/uksi/1992/2428/regulation/8/6) inserted (1.12.2001) by [The Financial Services and Markets Act 2000 (Consequential Amendments and Repeals) Order 2001 (S.I. 2001/3649)](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [427(4)](https://www.legislation.gov.uk/uksi/2001/3649/article/427/4)
+
+[^key-bcf61535378e1ccf7836ccdb3dca5f45]: Commencement: Reg. 9 in force at 4.11.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/2428/regulation/1/1)
+
+[^key-e5dd540a2839dc34e0bca01d36bb3594]: Commencement: Reg. 10 in force at 4.11.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/2428/regulation/1/1)
+
+[^key-bfedcd6537be7cd65734938b38798517]: Textual amendment: [Reg. 10A](https://www.legislation.gov.uk/uksi/1992/2428/regulation/10A) inserted (20.12.2013) by [The Local Authorities (Funds) (England) (Amendment) Regulations 2013 (S.I. 2013/2974)](https://www.legislation.gov.uk/uksi/2013/2974), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2974/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2013/2974/regulation/2/3)
+
+[^key-562d716dd75086d077ac4f5f3dfaf12e]: Commencement: Reg. 11 in force at 4.11.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/2428/regulation/1/1)
+
+[^key-52f4c6cf5422cfecea8dd2acf3808cb4]: Modification: [Reg. 11(2)](https://www.legislation.gov.uk/uksi/1992/2428/regulation/11/2)[(3)](https://www.legislation.gov.uk/uksi/1992/2428/regulation/11/3) modified (29.12.1994) by [The Local Government Changes for England (Collection Fund Surpluses and Deficits) Regulations 1994 (S.I. 1994/3115)](https://www.legislation.gov.uk/uksi/1994/3115), [regs. 1](https://www.legislation.gov.uk/uksi/1994/3115/regulation/1), [2](https://www.legislation.gov.uk/uksi/1994/3115/regulation/2)
+
+[^key-8186502927912c93aa08a7d32e4784df]: Commencement: Reg. 12 in force at 4.11.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/2428/regulation/1/1)
+
+[^key-9a4098c3b83c50e52b28adefa0c1eb62]: Textual amendment: Words in [reg. 12(2)](https://www.legislation.gov.uk/uksi/1992/2428/regulation/12/2) inserted (12.1.2000) by [The Local Authorities (Funds) (England) (Amendment No. 2) Regulations 1999 (S.I. 1999/3459)](https://www.legislation.gov.uk/uksi/1999/3459), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/3459/regulation/1/1), [6(1)](https://www.legislation.gov.uk/uksi/1999/3459/regulation/6/1)
+
+[^key-8eb0b89fe7b750d5db924989e956bea9]: Textual amendment: [Reg. 12(2A)](https://www.legislation.gov.uk/uksi/1992/2428/regulation/12/2A) inserted (12.1.2000) by [The Local Authorities (Funds) (England) (Amendment No. 2) Regulations 1999 (S.I. 1999/3459)](https://www.legislation.gov.uk/uksi/1999/3459), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/3459/regulation/1/1), [6(2)](https://www.legislation.gov.uk/uksi/1999/3459/regulation/6/2)
+
+[^key-e93d00386fd1773c2e9e7d2da6baf2d0]: Textual amendment: Words in [reg. 12(3)](https://www.legislation.gov.uk/uksi/1992/2428/regulation/12/3) inserted (12.1.2000) by [The Local Authorities (Funds) (England) (Amendment No. 2) Regulations 1999 (S.I. 1999/3459)](https://www.legislation.gov.uk/uksi/1999/3459), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/3459/regulation/1/1), [6(3)](https://www.legislation.gov.uk/uksi/1999/3459/regulation/6/3)
+
+[^key-3abac4d3479679e6fcc1461a0e3e7f9a]: Commencement: Reg. 13 in force at 4.11.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/2428/regulation/1/1)
+
+[^key-94060078fbc379c837da961693bd9e13]: Textual amendment: Words in [reg. 13(1)(b)](https://www.legislation.gov.uk/uksi/1992/2428/regulation/13/1/b) omitted (31.12.2020) by virtue of [The Local Government (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1386)](https://www.legislation.gov.uk/uksi/2018/1386), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1386/regulation/1), [3(a)](https://www.legislation.gov.uk/uksi/2018/1386/regulation/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-2e2c68fbb16a6fa271e5f89cdeebadbe]: Textual amendment: Words in [reg. 13(2)(b)](https://www.legislation.gov.uk/uksi/1992/2428/regulation/13/2) omitted (31.12.2020) by virtue of [The Local Government (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1386)](https://www.legislation.gov.uk/uksi/2018/1386), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1386/regulation/1), [3(a)](https://www.legislation.gov.uk/uksi/2018/1386/regulation/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-6c390e8dab084f810816e4ba8a442146]: Textual amendment: [Reg. 13(3)](https://www.legislation.gov.uk/uksi/1992/2428/regulation/13/3) substituted (31.12.2020) by [The Local Government (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1386)](https://www.legislation.gov.uk/uksi/2018/1386), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1386/regulation/1), [3(b)](https://www.legislation.gov.uk/uksi/2018/1386/regulation/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-953fe00c4020c41f67e2f456406d4121]: Commencement: Reg. 14 in force at 4.11.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/2428/regulation/1/1)
+
+[^key-5f036d46d35afca4a3fc11ba2b8931ec]: Commencement: Sch. 1 para. 1 in force at 4.11.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/2428/regulation/1/1)
+
+[^key-3787d5b872bf61ca46d3bd27d56d5493]: Commencement: Sch. 1 para. 2 in force at 4.11.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/2428/regulation/1/1)
+
+[^key-d3ed81951b41da893c18d36b594e86ea]: Textual amendment: [Sch. 1 para. 2(1)](https://www.legislation.gov.uk/uksi/1992/2428/schedule/1/paragraph/2/1) substituted (4.12.1995) by [The Local Authorities (Funds) (England) (Amendment) Regulations 1995 (S.I. 1995/2910)](https://www.legislation.gov.uk/uksi/1995/2910), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1995/2910/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/1995/2910/regulation/2/2)
+
+[^key-fc0d808569323348dc22ad10f835e370]: Textual amendment: [Sch. 1 para. 2(4)](https://www.legislation.gov.uk/uksi/1992/2428/schedule/1/paragraph/2/4) inserted (4.12.1995 in relation to a financial year beginning in or after 1996) by [The Local Authorities (Funds) (England) (Amendment) Regulations 1995 (S.I. 1995/2910)](https://www.legislation.gov.uk/uksi/1995/2910), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1995/2910/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/1995/2910/regulation/2/3)
+
+[^key-c6d44197555e0380104cbde872b5fa30]: Commencement: Sch. 1 para. 3 in force at 4.11.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/2428/regulation/1/1)
+
+[^key-acfba8a762db79e281701df93b5b15cf]: Commencement: Sch. 1 para. 4 in force at 4.11.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/2428/regulation/1/1)
+
+[^key-028e190931b86c9bcd05475aa6fa85d7]: Commencement: Sch. 1 para. 5 in force at 4.11.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/2428/regulation/1/1)
+
+[^key-34f1d815cc3fb54f821977ecb236e830]: Commencement: Sch. 1 para. 6 in force at 4.11.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/2428/regulation/1/1)
+
+[^key-323517cd79f9f8b037c23bf33fbf2a6c]: Commencement: Sch. 1 para. 7 in force at 4.11.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/2428/regulation/1/1)
+
+[^key-d9971306ee59775c235258ec3fd23044]: Commencement: Sch. 1 para. 8 in force at 4.11.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/2428/regulation/1/1)
+
+[^key-78c8b5e3754190853d8d5ea10b062718]: Commencement: Sch. 1 para. 9 in force at 4.11.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/2428/regulation/1/1)
+
+[^key-1d90fb3cf6cf498cff9253c0f8175a49]: Commencement: Sch. 1 para. 10 in force at 4.11.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/2428/regulation/1/1)
+
+[^key-2d52834221b148461af633f1c9d075dd]: Commencement: Sch. 1 para. 11 in force at 4.11.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/2428/regulation/1/1)
+
+[^key-b533f73e1a45d283437fb80571f54637]: Commencement: Sch. 2 para. 1 in force at 4.11.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/2428/regulation/1/1)
+
+[^f00006]: Footnote: Part III of Schedule 8 was substituted by the Local Government Finance Act [1992(c. 14)](https://www.legislation.gov.uk/ukpga/1992/14), Schedule 10, paragraph 7, in relation to any financial year beginning on or after 1st April 1993.
+
+[^f00007]: Footnote: Section 98 was amended by the Local Government Finance Act 1992, Schedule 10, paragraph 23, in relation to any financial year beginning on or after 1st April 1993.
+
+[^f00008]: Footnote: [1972 c. 70](https://www.legislation.gov.uk/ukpga/1972/70); section 68(6) and (7) was repealed by the Local Government and Housing Act [1989 (c. 42)](https://www.legislation.gov.uk/ukpga/1989/42), Schedule 12.
+
+[^f00009]: Footnote: Section 90 was substituted by the Local Government Finance Act 1992, Schedule 10, paragraph 20, in relation to any financial year beginning on or after 1st April 1993.
+
+[^f00010]: Footnote: Sections 43 and 45 were amended by the Local Government Finance Act 1992, Schedule 13, paragraphs 60 and 63 respectively, in relation to any financial year beginning on or after 1st April 1993.
+
+[^f00011]: Footnote: Section 97 was substituted by the Local Government Finance Act 1992, Schedule 10, paragraph 22, in relation to any financial year beginning on or after 1st April 1993.
+
+[^key-694ceb3aafbdea8a789738098d9607b2]: Commencement: Sch. 2 para. 2 in force at 4.11.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/2428/regulation/1/1)
+
+[^key-eb637ccde4f91e66f0d408c0e1af2b2f]: Textual amendment: Words in [Sch. 2 para. 2(3)](https://www.legislation.gov.uk/uksi/1992/2428/schedule/2/paragraph/2/3) substituted (1.12.2020) by [The Local Authorities (Collection Fund: Surplus and Deficit) (Coronavirus) (England) Regulations 2020 (S.I. 2020/1202)](https://www.legislation.gov.uk/uksi/2020/1202), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1202/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2020/1202/regulation/2/2)
+
+[^key-71f02238f0d655348c2b7e9387856ea6]: Textual amendment: Words in [Sch. 2 para. 2(3)(c)](https://www.legislation.gov.uk/uksi/1992/2428/schedule/2/paragraph/2/3/c) inserted (15.10.2009) by [The Business Rate Supplements (Transfers to Revenue Accounts) (England) Regulations 2009 (S.I. 2009/2543)](https://www.legislation.gov.uk/uksi/2009/2543), [regs. 1](https://www.legislation.gov.uk/uksi/2009/2543/regulation/1), [5(2)(a)](https://www.legislation.gov.uk/uksi/2009/2543/regulation/5/2/a)
+
+[^key-5ab35c0698d9f83531d0f84e2e436b24]: Textual amendment: Words in [Sch. 2 para. 2(4)(b)(i)](https://www.legislation.gov.uk/uksi/1992/2428/schedule/2/paragraph/2/4/b/i) inserted (20.12.2013) by [The Local Authorities (Funds) (England) (Amendment) Regulations 2013 (S.I. 2013/2974)](https://www.legislation.gov.uk/uksi/2013/2974), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2974/regulation/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/2013/2974/regulation/2/4/a)
+
+[^key-6876a79971e90a750b3731c2a40af55a]: Textual amendment: Words in [Sch. 2 para. 2(4)(c)](https://www.legislation.gov.uk/uksi/1992/2428/schedule/2/paragraph/2/4/c) inserted (15.10.2009) by [The Business Rate Supplements (Transfers to Revenue Accounts) (England) Regulations 2009 (S.I. 2009/2543)](https://www.legislation.gov.uk/uksi/2009/2543), [regs. 1](https://www.legislation.gov.uk/uksi/2009/2543/regulation/1), [5(2)(b)](https://www.legislation.gov.uk/uksi/2009/2543/regulation/5/2/b)
+
+[^key-62645456eade7274b4ad3c5f6164a5c5]: Textual amendment: [Sch. 2 para. 2(6)-(8)](https://www.legislation.gov.uk/uksi/1992/2428/schedule/2/paragraph/2/6) inserted (1.12.2020) by [The Local Authorities (Collection Fund: Surplus and Deficit) (Coronavirus) (England) Regulations 2020 (S.I. 2020/1202)](https://www.legislation.gov.uk/uksi/2020/1202), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1202/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2020/1202/regulation/2/3)
+
+[^key-48a9e733aa96df0c91f801dd1b532b26]: Commencement: Sch. 2 para. 3 in force at 4.11.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/2428/regulation/1/1)
+
+[^f00012]: Footnote: [1992 c. 4](https://www.legislation.gov.uk/ukpga/1992/4); section 123 was amended by the Local Government Finance Act 1992, Schedule 9, paragraph 1 but by virtue of section 118(4) of that Act the amendment does not affect the operation of section 123 in relation to any community charge benefit in respect of a day falling before 1st April 1993.
+
+[^f00013]: Footnote: Paragraph 5 was substituted, and paragraph 5A was inserted, by the Local Government and Housing Act 1989, Schedule 5, paragraph 11.
+
+[^f00014]: Footnote: S.I. [1990/2](https://www.legislation.gov.uk/uksi/1990/2), amended by S.I. [1990/402](https://www.legislation.gov.uk/uksi/1990/402).
+
+[^f00015]: Footnote: S.I. [1991/230](https://www.legislation.gov.uk/uksi/1991/230), amended by S.I. [1991/352](https://www.legislation.gov.uk/uksi/1991/352), [844](https://www.legislation.gov.uk/uksi/1991/844), [1061](https://www.legislation.gov.uk/uksi/1991/1061).
+
+[^f00016]: Footnote: S.I. [1991/2807](https://www.legislation.gov.uk/uksi/1991/2807).
+
+[^f00017]: Footnote: Part VII was amended by the Local Government Finance Act 1992, Schedule 9.
+
+[^f00018]: Footnote: [1989 c. 42](https://www.legislation.gov.uk/ukpga/1989/42).
+
+[^f00019]: Footnote: S.I. [1992/554](https://www.legislation.gov.uk/uksi/1992/554).
+
+[^key-0e204fb69f22eb6acd17d0f8dfb99128]: Commencement: Sch. 2 para. 4 in force at 4.11.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/2428/regulation/1/1)
+
+[^f00020]: Footnote: S.I. [1983/1761](https://www.legislation.gov.uk/uksi/1983/1761), to which there are amendments not relevant to these Regulations.
+
+[^key-2ef938425fcd5fb092a682e789f4a772]: Commencement: Sch. 2 para. 5 in force at 4.11.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/2428/regulation/1/1)
+
+[^f00021]: Footnote: Section 20 was repealed by the Local Government Finance Act 1992, Schedule 14, in relation to any financial year beginning on or after 1st April 1993.
+
+[^f00022]: Footnote: [1991 c. 9](https://www.legislation.gov.uk/ukpga/1991/9).
+
+[^key-63e8d14343bcf5775dbe1b3bde703909]: Textual amendment: Words in [Sch. 2 para. 5(g)](https://www.legislation.gov.uk/uksi/1992/2428/schedule/2/paragraph/5/g) substituted (8.2.1994) by [The Local Authorities (Alteration of Requisite Calculations and Funds) Regulations 1994 (S.I. 1994/246)](https://www.legislation.gov.uk/uksi/1994/246), [regs. 1](https://www.legislation.gov.uk/uksi/1994/246/regulation/1), [7](https://www.legislation.gov.uk/uksi/1994/246/regulation/7)
+
+[^key-c1e5905e0c2c8e04fbb8997a15086118]: Commencement: Sch. 2 para. 6 in force at 4.11.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/2428/regulation/1/1)
+
+[^key-1b1c443d75e903c8adabe3aa1447c18e]: Textual amendment: Words in [Sch. 2 para. 6(2)](https://www.legislation.gov.uk/uksi/1992/2428/schedule/2/paragraph/6/2) inserted (1.12.2020) by [The Local Authorities (Collection Fund: Surplus and Deficit) (Coronavirus) (England) Regulations 2020 (S.I. 2020/1202)](https://www.legislation.gov.uk/uksi/2020/1202), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1202/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2020/1202/regulation/2/4)
+
+[^key-b84311be7bb0947a99a1e26911648a4c]: Textual amendment: [Sch. 2 para. 6(4)](https://www.legislation.gov.uk/uksi/1992/2428/schedule/2/paragraph/6/4) substituted (20.12.2013) by [The Local Authorities (Funds) (England) (Amendment) Regulations 2013 (S.I. 2013/2974)](https://www.legislation.gov.uk/uksi/2013/2974), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2974/regulation/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/2013/2974/regulation/2/4/b)
+
+[^key-967c987bba5cb01b8052fbbb47c270b1]: Textual amendment: Words in [Sch. 2 para. 6(4)](https://www.legislation.gov.uk/uksi/1992/2428/schedule/2/paragraph/6/4) substituted (1.12.2020) by [The Local Authorities (Collection Fund: Surplus and Deficit) (Coronavirus) (England) Regulations 2020 (S.I. 2020/1202)](https://www.legislation.gov.uk/uksi/2020/1202), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1202/regulation/1), [2(5)](https://www.legislation.gov.uk/uksi/2020/1202/regulation/2/5)
+
+[^key-c1199a5767d819a83594437d79d218bc]: Textual amendment: [Sch. 2 para. 6(4A)](https://www.legislation.gov.uk/uksi/1992/2428/schedule/2/paragraph/6/4A) inserted (20.12.2013) by [The Local Authorities (Funds) (England) (Amendment) Regulations 2013 (S.I. 2013/2974)](https://www.legislation.gov.uk/uksi/2013/2974), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2974/regulation/1), [2(4)(c)](https://www.legislation.gov.uk/uksi/2013/2974/regulation/2/4/c)
+
+[^key-76f9483b2ff316e310e65b5d2263518f]: Textual amendment: [Sch. 2 para. 6(5)-(13)](https://www.legislation.gov.uk/uksi/1992/2428/schedule/2/paragraph/6/5) added (12.1.2000) by [The Local Authorities (Funds) (England) (Amendment No. 2) Regulations 1999 (S.I. 1999/3459)](https://www.legislation.gov.uk/uksi/1999/3459), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/3459/regulation/1/1), [7(2)](https://www.legislation.gov.uk/uksi/1999/3459/regulation/7/2)
+
+[^key-c4b5507f41d496dc9bb516d9582b8955]: Textual amendment: [Sch. 2 para. 6(14)](https://www.legislation.gov.uk/uksi/1992/2428/schedule/2/paragraph/6/14) inserted (1.12.2020) by [The Local Authorities (Collection Fund: Surplus and Deficit) (Coronavirus) (England) Regulations 2020 (S.I. 2020/1202)](https://www.legislation.gov.uk/uksi/2020/1202), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1202/regulation/1), [2(6)](https://www.legislation.gov.uk/uksi/2020/1202/regulation/2/6)
+
+[^key-a9d85f8c0e392cbe1edc256724ad69c7]: Textual amendment: [Sch. 2 para. 7](https://www.legislation.gov.uk/uksi/1992/2428/schedule/2/paragraph/7) inserted (1.12.2020) by [The Local Authorities (Collection Fund: Surplus and Deficit) (Coronavirus) (England) Regulations 2020 (S.I. 2020/1202)](https://www.legislation.gov.uk/uksi/2020/1202), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1202/regulation/1), [2(7)](https://www.legislation.gov.uk/uksi/2020/1202/regulation/2/7)
+
+[^key-ef2b627f2cae35a36c92dcc786e6233c]: Textual amendment: Words in [Sch. 2 para. 7(3)](https://www.legislation.gov.uk/uksi/1992/2428/schedule/2/paragraph/7/3) substituted (22.12.2021) by [The Local Authorities (Funds) (England) (Amendment) (Coronavirus) Regulations 2021 (S.I. 2021/1343)](https://www.legislation.gov.uk/uksi/2021/1343), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1343/regulation/1/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2021/1343/regulation/2/2/a)
+
+[^key-d3b77881236eec6072778af6454edce3]: Textual amendment: Words in [Sch. 2 para. 7(5)](https://www.legislation.gov.uk/uksi/1992/2428/schedule/2/paragraph/7/5) substituted (22.12.2021) by [The Local Authorities (Funds) (England) (Amendment) (Coronavirus) Regulations 2021 (S.I. 2021/1343)](https://www.legislation.gov.uk/uksi/2021/1343), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1343/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2021/1343/regulation/2/2/b)
+
+[^key-f750f5b0160882d75b8a0ccb0d090a95]: Textual amendment: [Sch. 2 para. 7(8)-(10)](https://www.legislation.gov.uk/uksi/1992/2428/schedule/2/paragraph/7/8) inserted (22.12.2021) by [The Local Authorities (Funds) (England) (Amendment) (Coronavirus) Regulations 2021 (S.I. 2021/1343)](https://www.legislation.gov.uk/uksi/2021/1343), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1343/regulation/1/1), [2(2)(c)](https://www.legislation.gov.uk/uksi/2021/1343/regulation/2/2/c)
+
+[^key-fe7b2695e5740895e798ab973e381177]: Textual amendment: [Sch. 2 Pt. 3](https://www.legislation.gov.uk/uksi/1992/2428/schedule/2/part/3) inserted (1.12.2020) by [The Local Authorities (Collection Fund: Surplus and Deficit) (Coronavirus) (England) Regulations 2020 (S.I. 2020/1202)](https://www.legislation.gov.uk/uksi/2020/1202), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1202/regulation/1), [2(7)](https://www.legislation.gov.uk/uksi/2020/1202/regulation/2/7)
+
+[^key-4ea1dd00b578823bcd0f495feee06cc3]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/uksi/1992/2428/schedule/3) omitted (31.12.2020) by virtue of [The Local Government (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1386)](https://www.legislation.gov.uk/uksi/2018/1386), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1386/regulation/1), [3(c)](https://www.legislation.gov.uk/uksi/2018/1386/regulation/3/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

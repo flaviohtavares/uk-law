@@ -1,0 +1,43 @@
+---
+title: The Air Navigation (Overseas Territories) Order 2007, SCHEDULE 11
+act: The Air Navigation (Overseas Territories) Order 2007
+section: schedule-11
+status: as-enacted
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2007/3468/schedule/11
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Air Navigation (Overseas Territories) Order 2007, SCHEDULE 11
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+## SCHEDULE 11 — AERODROME MANUAL
+
+Article 105
+
+Information and instructions relating to the following matters shall he included in the aerodrome manual referred to in article 105—
+
+- (i) the name and status of the official in charge of day to day operation of the aerodrome together with the names and status of other senior aerodrome operating staff and instructions as to the order and circumstances in which they may be required to act as the official in charge;
+- (ii) the system of aeronautical information service available;
+- (iii) procedures for promulgating information concerning the aerodrome’s state;
+- (iv) procedures for the control of access, vehicles and work in relation to the aerodrome manoeuvring area and apron;
+- (v) procedures for complying with article 139 and for the removal of disabled aircraft;
+- (vi) in the case of an aerodrome which has facilities for fuel storage, procedures for complying with article 114;
+- (vii)
+  - (aa) subject to sub-paragraph (bb), plans to a scale of 1:2500 depicting the layout of runways, taxiways and aprons, aerodrome markings, aerodrome lighting if such lighting is provided, and the siting of any navigational aids within the runway strip;
+  - (bb) in the case of copies of the manual or extracts thereof provided or made available to a member of the aerodrome operating staff, the plans shall be of a scale reasonably appropriate for the purposes of article 105(10) of this Order;
+- (viii) in respect of an aerodrome in relation to which there is a notified instrument approach procedure, survey information sufficient to provide data for the production of aeronautical charts relating to that aerodrome;
+- (ix) description height and location of obstacles which infringe standard obstacle limitation surfaces, and whether they are lit;
+- (x) data for and method of calculation of declared distances and elevations at the beginning and end of each declared distance;
+- (xi) method of calculating reduced declared distances and the procedure for their promulgation;
+- (xii) details of surfaces and bearing strengths of runways, taxiways and aprons;
+- (xiii) the system of the management of air traffic in the airspace associated with the aerodrome, including procedures for the co-ordination of traffic with adjacent aerodromes, except any such information or procedures already published in any, manual of air traffic services;
+- (xiv) operational procedures for the routine and special inspection of the aerodrome manoeuvring area and aprons;
+- (xv) if operations are permitted during periods of low visibility, procedures for the protection of the runways during such periods;
+- (xvi) procedures for the safe integration of all aviation activities undertaken at the aerodrome;
+- (xvii) procedures for the control of wildlife hazards;
+- (xviii) procedures for the use and inspection of the aerodrome lighting system, if such a system is provided; and
+- (xix) the scale of rescue, first aid and fire service facilities, the aerodrome emergency procedures and procedures to be adopted in the event of temporary depletion of the rescue and fire service facilities.

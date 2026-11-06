@@ -1,0 +1,19 @@
+---
+title: Medway Ports Authority Act 1973, section 25
+act: Medway Ports Authority Act 1973
+section: '25'
+status: as-enacted
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/ukla/1973/21/section/25
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Medway Ports Authority Act 1973, section 25
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+## 25. Master's responsibility to be unaffected
+
+The giving of a general direction or a special direction shall not diminish or in any other way affect the responsibility of the master of the vessel to which the direction is given in relation to his vessel, persons on board, its cargo or any other person or property.

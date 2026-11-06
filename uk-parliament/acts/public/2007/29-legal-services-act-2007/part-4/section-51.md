@@ -1,0 +1,57 @@
+---
+title: Legal Services Act 2007, section 51
+act: Legal Services Act 2007
+section: '51'
+status: revised-with-pending-changes
+text_date: '2025-01-01'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/2007/29/section/51
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Legal Services Act 2007, section 51
+
+> **Warning: changes not yet applied to this text (1).** Text as at 2025-01-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2007/29
+>
+> Extent: England, Wales, Scotland.
+
+## 51. Control of practising fees charged by approved regulators[^c20325251]
+
+*Extent: E+W*
+
+(1) In this section “**practising fee**”, in relation to an approved regulator, means a fee payable by a person under the approved regulator's regulatory arrangements in circumstances where the payment of the fee is a condition which must be satisfied for that person to be authorised by the approved regulator to carry on one or more activities which are reserved legal activities.
+
+(2) An approved regulator may only apply amounts raised by practising fees for one or more of the permitted purposes.
+
+(3) The Board must make rules specifying the permitted purposes.
+
+(4) Those rules must, in particular, provide that the following are permitted purposes—
+
+- (a) the regulation, accreditation, education and training of relevant authorised persons and those wishing to become such persons, including—
+  - (i) the maintaining and raising of their professional standards, and
+  - (ii) the giving of practical support, and advice about practice management, in relation to practices carried on by such persons;
+- (b) the payment of a levy imposed on the approved regulator under section 173;
+- (c) the participation by the approved regulator in law reform and the legislative process;
+- (d) the provision by relevant authorised persons, and those wishing to become relevant authorised persons, of reserved legal services, immigration advice or immigration services to the public free of charge;
+- (e) the promotion of the protection by law of human rights and fundamental freedoms;
+- (f) the promotion of relations between the approved regulator and relevant national or international bodies, governments or the legal professions of other jurisdictions.
+
+(5) A practising fee is payable under the regulatory arrangements of an approved regulator only if the Board has approved the level of the fee.
+
+(6) The Board must make rules containing provision—
+
+- (a) about the form and manner in which applications for approval for the purposes of subsection (5) must be made and the material which must accompany such applications;
+- (b) requiring applicants to have consulted such persons as may be prescribed by the rules in such manner as may be so prescribed before such an application is made;
+- (c) about the procedures and criteria that will be applied by the Board when determining whether to approve the level of a fee for the purposes of subsection (5).
+
+(7) Rules under subsection (6)(c) must, in particular, contain—
+
+- (a) provision requiring the Board, before it determines an application for approval of the level of a fee, to consult such persons as it considers appropriate about the impact of the proposed fee on persons providing non-commercial legal services;
+- (b) provision about the time limit for the determining of an application.
+
+(8) In this section “**relevant authorised persons**”, in relation to an approved regulator, means persons who are authorised by the approved regulator to carry on activities which are reserved legal activities.
+
+## Annotations
+
+[^c20325251]: Commencement: S. 51 wholly in force at 1.1.2010; s. 51 not in force at Royal Assent see s. 211; s. 51(1)(3)(4)(6)-(8) in force at 1.1.2009 by [S.I. 2008/3149](https://www.legislation.gov.uk/uksi/2008/3149), [art. 2(c)(i)](https://www.legislation.gov.uk/uksi/2008/3149/article/2/c/i); s. 51 in force otherwise at 1.1.2010 by [S.I. 2009/3250](https://www.legislation.gov.uk/uksi/2009/3250), [art. 2(c)(i)](https://www.legislation.gov.uk/uksi/2009/3250/article/2/c/i) (with [art. 9](https://www.legislation.gov.uk/uksi/2009/3250/article/9))

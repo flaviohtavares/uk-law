@@ -1,0 +1,861 @@
+---
+title: The National Health Service (Dental Charges) Regulations 2005
+id: uksi/2005/3477
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2005-12-19'
+text_date: '2026-06-23'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2005/3477
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2005/3477/pdfs/uksiem_20053477_en.pdf
+- http://www.legislation.gov.uk/uksi/2005/3477/pdfs/uksi_20053477_en.pdf
+- http://www.legislation.gov.uk/uksi/2005/3477/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The National Health Service (Dental Charges) Regulations 2005
+
+> Text as at 2026-06-23.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2005 No. 3477
+
+NATIONAL HEALTH SERVICE, ENGLAND
+
+The National Health Service (Dental Charges) Regulations 2005
+
+Made
+
+19th December 2005
+
+Coming into force
+
+1st April 2006
+
+The Secretary of State for Health makes the following Regulations in exercise of the powers conferred upon her by sections 79, 83A and 126(4) of, and Schedule 12ZA to, the National Health Service Act 1977[^f00001];
+
+In accordance with section 126(1A) of that Act[^f00002], a draft of this instrument was laid before Parliament and approved by a resolution of each House of Parliament.
+
+## 1. Citation, commencement and application[^key-4ef8ed31cb44821bd8e5701ff8d5b6bc]
+
+(1) These Regulations may be cited as the National Health Service (Dental Charges) Regulations 2005 and shall come into force on 1st April 2006.
+
+(2) These Regulations apply in relation to England.
+
+## 2. Interpretation[^key-6ecce6dfab84ca58a4361f32610d2c4f]
+
+(1) In these Regulations—
+
+- “the Act” means the National Health Service Act 1977;
+- “the 2006 Act” means the National Health Service Act 2006;[^key-a4f70bf9b3c11e0d8929fbd7effbf059]
+- “the 2012 Act” means the Health and Social Care Act 2012;
+- [^key-a549eaed0a694c1d4077bd5f04350d18]...
+- “bridge” means a fixed or a removable bridge which takes the place of any teeth;
+- “Capitation and Quality Scheme 2” means the scheme of that name, introduced by the Secretary of State on 1st April 2013, following the termination of the Capitation and Quality Scheme on 31st March 2013, that the Secretary of State has developed to assist in continuing to promote and secure improvement in the provision of dental services in accordance with the 2006 Act;”;[^key-5200449cee1ed88759df3de1c90fb49e]
+- “Capitation and Quality Scheme 2 Agreement” means an Agreement which forms a temporary part of a GDS contract or a PDS agreement and which is entered into as part of the Capitation and Quality Scheme 2 and in accordance with Directions made under section 114A of the 2006 Act;
+- “[^key-99370f7b8658a0146147bce1c8cf0988]**complex care pathway**” means complex care pathway 1, complex care pathway 2 or complex care pathway 3;
+- “**complex care pathway 1**” means a course of treatment consisting of all of the components specified under the appropriate heading of Schedule 4A;
+- “**complex care pathway 2**” means a course of treatment consisting of all of the components specified under the appropriate heading of Schedule 4A;
+- “**complex care pathway 3**” means a course of treatment consisting of all of the components specified under the appropriate heading of Schedule 4A;
+- “course of treatment” means—[^key-6589cc90755d183901cad2c4588690a8]
+  - (a) an examination of a patient, an assessment of that patient’s oral health, and the planning of any treatment to be provided to that patient as a result of that examination and assessment; and
+  - (b) the provision of any planned treatment (including any treatment planned at a time other than the time of the initial examination) to that patient up to the date on which—
+    - (i) each and every component of the planned treatment has been provided to the patient, [^key-3e317025d00d607449e13a4b4db8e4a1]...
+    - (ii) the patient either voluntarily withdraws from, or is withdrawn by the provider from, treatment, or[^key-374ef9b658e031a85f57c593c3d85b8a]
+  - ((iii)) the treatment provided as part of a complex care pathway is terminated following a suspension,[^key-f56c3d41a2f72de128a0b68a9b53f237]
+
+  by one or more providers of relevant primary dental services, except that where the course of treatment is an interim care course of treatment provided under a prototype agreement or a Capitation and Quality Scheme 2 Agreement in the context of regulation 12A,[^key-c163555dceff6c130558d68c41a12c72] it does not include the treatment mentioned in sub-paragraph (a).
+- “dental appliance” means a denture or bridge and for the purposes of this definition, a denture includes an obturator;
+- “Dental Charges Regulations 1989” means the National Health Service (Dental Charges) Regulations 1989[^f00003];
+- “dental public health services” means services provided under section 16CB(4)(c) of the Act;
+- “GDS Contract” is a contract within the meaning of section 100 of the 2006 Act (general dental services contracts: introductory);[^key-aa052408a09bf410091cf279381b501b]
+- “General Dental Services Regulations 1992” means the National Health Service (General Dental Services) Regulations 1992[^f00004];
+- “**modifiable risk factors**” means behaviours or conditions that can be changed or managed to reduce a patient’s risk of developing tooth decay or gum disease;
+- “[^key-d9c474fd1a4067f5cdb62fb7b5446a94]**NHS England**” means the body corporate established under section 1H of the 2006 Act;
+- “orthodontic appliance” means a device used in the mouth to move or immobilise the teeth in order to correct or prevent malocclusion;
+- “orthodontic treatment” means treatment of, or treatment to prevent, malocclusion of the teeth and jaws, and irregularities of the teeth;
+- “patient” includes (when the context requires) a person who pays or undertakes to pay a charge on behalf of a person to whom a dental appliance is supplied or to whom some other relevant primary dental service is provided;
+- “patient record” means a form supplied by NHS England[^key-04771da5f4b4cb202dd2d53e78e8ceb1] for the purpose of maintaining a record of treatment, and may include an electronic form;
+- “Primary Care Trust” means the body which until the date section 34 (abolition of Primary Care Trusts) of the 2012 Act comes into force, was—[^key-3679c8a0f74dd77836cf2c2a6601c07f]
+  - (a) where the Primary Care Trust was a party to the GDS contract or the PDS agreement, that Primary Care Trust;
+  - (b) where the Primary Care Trust was providing primary dental services under section 99(2) of the 2006 Act, the Primary Care Trust in whose area those services were provided; or
+  - (c) where the Primary Care Trust, NHS Trust, or NHS foundation trust supplied dental appliances other than as part of relevant primary dental services, that Primary Care Trust, or the Primary Care Trust in whose area all or most of the hospitals, establishments and facilities of the NHS Trust or NHS foundation trust, were situated;
+- “PDS Agreement means an agreement within the meaning of section 107 of the 2006 Act;[^key-3f84067eeb55823fd76905cca5bd7eb1]
+- “prison” includes a young offender institution but not a secure training centre or a naval, military or air force prison, and for the purposes of this definition—
+  - (a) “secure training centre” means a place in which offenders subject to detention and training orders within the meaning given by section 233 of the Sentencing Code[^key-5bc47b6c8b01ce893f77eade3da74a09] may be detained and given training and education and prepared for their release, and
+  - (b) “young offender institution” means a place for the detention of offenders sentenced to detention in a young offender institution or to detention in a young offender institution as part of a longer custodial sentence, including custody for life;
+- “prisoner” means a person who is detained in a prison in which medical, dental, ophthalmic, pharmaceutical or nursing services are provided under the Act under arrangements made by[^key-8c8560c987b4c027da687aa0f2d4a7a3] NHS England;
+- “prototype agreement” means a GDS contract or PDS agreement temporarily varied as part of the Prototype Agreements Scheme which contains—[^key-76336842c8dacb1408f5d1b68029305e]
+  - (a) the terms and conditions required under the National Health Service (Dental Services) (Prototype Agreements) Directions 2015; and
+  - (b) the terms and conditions required under the National Health Service (General Dental Services Contracts) Regulations 2005 or the National Health Service (Personal Dental Services Agreements) Regulations 2005;
+- “relevant primary dental services” means dental treatment (including urgent treatment and orthodontic treatment) provided and dental appliances and orthodontic appliances supplied—
+  - (i) under section 56(2) of the National Health Service (Wales) Act 2006 provided by a Local Health Board[^key-2613097c5cf106489d7738b4481b9194];
+  - (ii) under a general dental services contract; or
+  - (iii) under arrangements made under section 107 of the 2006 Act”[^key-1af0d792015937fffa09298029c4643d]
+- [^key-3c81b915221c362bf1bde471e69d8963]...
+- “restoration” means a filling, root filling, inlay, porcelain veneer or crown;
+- “trauma” means damage to teeth, gingival tissues or alveoli caused by a force arising outside the mouth, resulting in mobility, luxation, subluxation or fracture of the hard tissues or injury to the soft tissues;
+- “treatment” means all proper and necessary dental treatment which a provider of relevant primary dental services usually undertakes for a patient and which the patient is willing to undergo, including examination, diagnosis, advice on and planning of treatment, preventive care and treatment, periodontal treatment, conservative treatment, surgical treatment, the supply and repair of dental appliances and orthodontic appliances, orthodontic treatment, the taking of radiographs, the provision of sedation in connection with such treatment, the supply of listed drugs and the issue of prescriptions whether or not provided on referral to the provider of relevant primary dental services;
+- “urgent treatment” means one or more of the treatments listed in Schedule 4 that are provided to a person in circumstances where—
+  - (a) prompt care and treatment is clinically necessary[^key-aa4f95fbe8d6aa114932e711c1ec988a] because, in the opinion of the dental practitioner, that person’s oral health is likely to deteriorate significantly , or the person’s presentation indicates a need for treatment within seven days; and[^key-cd5f7e3110fd71a39e879a9f02ce9f8d]
+  - (b) care and treatment is provided only to the extent that is necessary to prevent that significant deterioration or treat that need[^key-3ea0239a34adff8a34f593b6aa5ac4a0],
+
+  and “urgent course of treatment” shall be construed accordingly;
+
+(2)[^key-0c6aa6d21d121e77c36786bf28181294] A reference to the Secretary of State includes a reference to a Special Health Authority or NHS England exercising functions on the Secretary of State’s behalf.
+
+## 3. Charges for the provision of dental services[^key-d546137e5b75288838a5773acdc16401]
+
+(1) Subject to paragraph (2) below, a charge of the amount provided for in, and calculated in accordance with, regulation 4 or 12A(2)[^key-45983c44eec69265f7eaa13bf66eb085] may be made and recovered in respect of—
+
+- (a) the provision of relevant primary dental services; and
+- (b) the supply of dental appliances under the Act otherwise than as part of relevant primary dental services.
+
+(2) No charge shall be made and recovered under paragraph (1) in respect of—
+
+- (a) a supply under the Act, otherwise than as part of relevant primary dental services, of dental appliances to a person who has undergone operative procedures affecting the mandible, the maxilla or the soft tissues of the mouth as part of treatment for invasive tumours;
+- (b) a prisoner;
+- (c) the provision of dental public health services;
+- (d) the removal of sutures; or
+- (e) the examination and assessment of a patient leading to—
+  - (i) the issue of a prescription,
+  - (ii) the repair of a dental appliance,
+  - (iii) the arrest of bleeding, or
+  - (iv) the removal of sutures,
+
+if, at the same time, no other treatment listed in Schedule 1, 1A,[^key-1f42b77fbb07b1bee1f0357aed16ebdc] 2 , 4 or 4A[^key-88863cb18bbf293eedaff2c1c33be5aa] is provided and no dental appliances listed in Schedule 3 are supplied.
+
+## 4. Calculation of charges[^key-6a7927dab507a0156750e7732168249f]
+
+(1) Subject to paragraph (6), a Band 1 charge, that is to say a charge of £27.90[^key-48c1eb9d70435bbffff9abdb35784835], may be made and recovered in respect of any course of treatment, the entirety of the components of which are set out in Schedule 1, provided as part of relevant primary dental services irrespective of whether any of the components of the course of treatment are also set out in Schedule 1A[^key-3f52ce5cec4b0a6d01e296c2e06c29a9].
+
+(2) Subject to paragraph (6), a Band 2 charge, that is to say a charge of £76.60[^key-fb23d5f78cc56bb25b0748ea6fa59fb4], may be made and recovered in respect of any course of treatment, one or more of the components of which are set out in Schedule 2, provided as part of relevant primary dental services, irrespective of whether the remainder of the components of the course of treatment are set out in Schedule 1 or 1A[^key-17728c9b13203fc229bc4a8c94ddc9e5].
+
+(3) Subject to paragraph (6), a Band 3 charge, that is to say a charge of £332.10[^key-9786c5ecdfc7490c341f265e832f8df2], may be made and recovered in respect of any course of treatment, one or more of the components of which are set out in Schedule 3, provided as part of relevant primary dental services, irrespective of whether the remainder of the components of the course of treatment are set out in Schedule 1 , 1A[^key-5f349f924724ad5a856d6c133f466c98] , 2 or 4A[^key-8d3c4e284b21083e014862312efabbc4].
+
+(4) A Band 3 charge, that is to say a charge of £332.10[^key-84ef8f7b6b53025b96a562a8dd447511], may be made and recovered in respect of dental appliances supplied under the Act otherwise than as part of relevant primary dental services.
+
+(5) A Band 1 charge, that is to say a charge of £27.90[^key-a2caa252440c2bf731862690dabfdef5], may be made and recovered in respect of any urgent course of treatment, the entirety of the components of which are set out in Schedule 4, provided as part of relevant primary dental services.
+
+(5A)[^key-60ee815230778a160c16bf9954be7173] A Band 2 charge, that is to say a charge of £76.60, may be made and recovered in respect of any complex care pathway, the components of which are set out in Schedule 4A, provided as part of relevant primary dental services, irrespective of whether the components of the course of treatment are also set out in Schedule 1 or 2.
+
+(6) For the purposes of paragraphs (1) to (3) , (5) and (5A)[^key-46b7365de4b0cb765f95f636fff791dc] above, only one charge may be made for any one course of treatment or urgent course of treatment provided, notwithstanding that a number of individual treatments may be provided or dental appliances or orthodontic appliances supplied during that course of treatment and a number of individual treatments may be provided during that urgent course of treatment.
+
+(7) Where—
+
+- (a) during a course of treatment —[^key-1e23c1dd9ec32a3f9ca682440ea53c11]
+  - (i) a patient voluntarily withdraws from treatment;
+  - (ii) a patient is withdrawn by the provider from treatment; or
+  - (iii) in the case of a course of treatment that is a complex care pathway, the complex care pathway is declared incomplete and terminated; and
+- (b) at least one of the components of that course of treatment has not been completed,
+
+the charge which may be made and recovered for that course of treatment is the charge which is payable under paragraphs (1) to (3) , (5) and (5A)[^key-73ea99dab47e1c92dcf7765847ce6624] of this regulation for the components of the course of treatment which have been completed but not for any components which are incomplete.
+
+(8) Where a dental appliance, an orthodontic appliance or a type of dental treatment is not listed in one of Schedules 1 to 4A[^key-21417e76bf1102416224b3207bfd3d39], the Secretary of State shall determine into which of the Schedules that appliance or treatment should fall so that the charge for a course of treatment or urgent course of treatment, or the supply of a dental appliance under the Act otherwise than as part of relevant primary dental services, can be determined in accordance with paragraphs (1) to (5A)[^key-885d677243581dc4e3eaeee488a8fa4b] above.
+
+## 5. Effect of referral to another provider of dental services on the calculation of charges[^key-d8c760d1b5905fa4c67bff9e8fbe8e9e]
+
+Where a patient has commenced a course of treatment or urgent course of treatment with one provider of relevant primary dental services but is referred to—
+
+- (a) an alternative provider of relevant primary dental services for part of the course of treatment or urgent course of treatment; or
+- (b) a hospital or other service provider under Part 1 of the Act for the supply of a dental appliance as part of the course of treatment,
+
+only one charge for the course of treatment or urgent course of treatment calculated in accordance with regulation 4 or 12A(2)[^key-eac57eea2809389507e5579541dafc89] may be made and recovered from the patient.
+
+## 6. Circumstances in which charges cannot be made for treatment that occurs after a course of treatment is completed[^key-7ea21a909e3d1ee872bc599d5e344fdc]
+
+(1) Subject to paragraphs (2) and (3), where a provider of relevant primary dental services has provided a restoration to a patient as part of a course of treatment or an urgent course of treatment for which the relevant charge calculated in accordance with regulation 4 has been made, or would have been made if the patient was not exempt from being charged, and within the relevant period that restoration has to be repaired or replaced to secure oral health, no charge may be made or recovered for the repair or replacement of the restoration.
+
+(2) Paragraph (1) shall not apply where—
+
+- (a) within the relevant period, a person other than the provider of relevant primary dental services who carried out the original restoration has provided treatment on the tooth in respect of which the restoration was provided;
+- (b) the patient was advised at the time of the restoration, and it was recorded on the patient record, that—
+  - (i) the restoration was intended to be temporary in nature, or
+  - (ii) a different form of restoration was more appropriate but, notwithstanding that advice, the patient insisted on the restoration that was provided; or
+- (c) the repair or replacement is required as a result of trauma.
+
+(3) In this regulation, “the relevant period” means the 12 month period beginning on the date on which the restoration was provided and ceasing 12 months after that date.
+
+(4) Where a provider of relevant primary dental services has completed a course of treatment other than an urgent course of treatment but, within 2 months of that course of treatment being completed, the same provider determines that the patient requires further treatment which falls within the same or a lower charging band, calculated in accordance with paragraphs (1) to (4) and (5A)[^key-7ac4ea5e40c1a01fdaee55275ad4d174] of regulation 4 or regulation 12A(2)[^key-8bc43c4df518720ee0b2a92c91a8b23e], as the previous treatment and that further treatment is provided (whether or not within 2 months of that course of treatment being completed) by the same provider, no charge may be made or recovered in respect of that further treatment.
+
+(4A)[^key-893bd9bee742c554bd10e71003f49464] Where a provider completes a Band 2 course of treatment for a patient and within 3 months of completion the provider commences a complex care pathway 3 for the patient, no charge may be made or recovered in respect of that complex care pathway.
+
+(5) In paragraph (4), “completed” means the patient has been provided with each and every component of the course of treatment.
+
+## 7. Conditions for exemption under the Act[^key-e95a76ed9fb79575252043e5fb1b1272]
+
+(1) It is a condition of the exemption under paragraph 1(1) of Schedule 12ZA to the Act in respect of the provision of relevant primary dental services or a supply of a dental appliance under the Act otherwise than as part of relevant primary dental services—
+
+- (a) that a written declaration on a form provided for that purpose by NHS England shall be made to the effect that that person is, at the relevant date, within one of the specified categories; and
+- (b) where the Secretary of State, an NHS trust, an NHS foundation trust or NHS England so requires, that the specified evidence shall be supplied by or on behalf of that person.
+
+(2) In this regulation “the relevant date” means—
+
+- (a) where a dental appliance is supplied under the Act otherwise than as part of relevant primary dental services, the date of the examination leading to the supply of the appliance; or
+- (b) where relevant primary dental services are provided, the date of the initial examination and assessment leading to the provision of a course of treatment.
+
+(3) The declaration referred to in paragraph (1) shall be made by the person to whom the services are to be provided, except that where the request for services is made by another person on his behalf it shall be made instead by the person who requests the services.
+
+(4) Nothing in paragraph (1)(b) prevents the Secretary of State, an NHS trust, an NHS foundation trust or NHS England from accepting evidence other than the specified evidence as establishing that a person is within one of the specified categories.
+
+(5) In this regulation “the specified categories” means the categories of person specified in column 1 of Schedule 5 and “the specified evidence”, in relation to any of those categories, means the evidence specified in relation to it in column (2) of that Schedule.
+
+## 8. Making and recovery of charges[^key-8bbadff572fa329cfe466007cc4f167a]
+
+(1) Where any charge is payable under regulation 4(4) in respect of the supply of a dental appliance under the Act otherwise than as part of relevant primary dental services, NHS England, NHS trust or NHS foundation trust —
+
+- (a) may, on arranging to supply it, make the appropriate charge;
+- (b) may, on supplying it or having it available for supply, recover the appropriate charge from the patient (if it has not previously been paid); and
+- (c) shall, on receiving a sum for payment (in full or in part) of the charge payable under these Regulations, give a receipt for it on—
+  - (i) a paper form provided for that purpose by NHS England; or
+  - (ii) an electronic form which identifies the person who supplied the dental appliance, the patient, the amount of the charge paid and the date on which it is paid.
+
+(2) A provider of relevant primary dental services, in providing relevant primary dental services for which a charge may be made under regulations 4(1) to (3) , (5) or (5A)[^key-86d248abf141186c590eb6b4ff66b779] or 12A(2)[^key-43c42a77d02019370e787641790cc1e5]—
+
+- (a) may, on arranging to provide a course of treatment or urgent course of treatment, make the appropriate charge;
+- (b) shall require the patient to acknowledge, on the appropriate part of the form supplied for that purpose by NHS England, and before that form is sent to the Secretary of State, his obligation to pay a charge which is made;
+- (c) may, on completing the course of treatment or urgent course of treatment, recover the charge from the patient (if it has not previously been paid);
+- (d) shall, on receiving a sum for payment (in full or in part) of the charge payable under these Regulations, give a receipt for it on—
+  - (i) a paper form provided for that purpose by NHS England; or
+  - (ii) an electronic form which identifies the provider of the relevant primary dental services, the patient, the amount of the charge paid and the date on which it is paid.
+
+(3) Where a provider of relevant primary dental services has commenced a course of treatment or urgent course of treatment with regard to a patient and refers the patient to—
+
+- (a) an alternative provider of relevant primary dental services for part of the course of treatment or urgent course of treatment; or
+- (b) a hospital or other service provider under Part 1 of the Act for the supply of a dental appliance as part of that course of treatment,
+
+only the original provider of the relevant primary dental services may make and recover the charge set out in regulation 4[^key-9206066528144d7e395acc60ef479430] or 12A(2)[^key-f4d0691b6cdcd7baac0727c8944fe785] and shall comply with sub-paragraphs (b) and (d) of paragraph (2) above.
+
+(4) Where a declaration has been made under regulation 7(1)(a), but the person about whom the declaration has been made is not at the relevant date within one of the specified categories, and in consequence of the declaration, a charge has not been recovered—
+
+- (a) in respect of relevant primary dental services; or
+- (b) in respect of a dental appliance supplied under the Act otherwise than as part of relevant primary dental services,
+
+the Secretary of State may recover the charge from the person who made the declaration (whether or not the obligation to pay has been acknowledged).
+
+(5) In this regulation, “relevant date” and “the specified categories” have the same meaning as in regulation 7.
+
+## 8A. Applications and signatures during a pandemic etc.[^key-4610c552a0e70ef878267fca95d3da90]
+
+(1) Where, under these Regulations, a person is required to complete any or any part of a form, make any declaration or provide any evidence, but as a consequence of a disease being, or in anticipation of a disease being imminently—
+
+- (a) pandemic; and
+- (b) a serious risk or potentially a serious risk to human health,
+
+the Secretary of State has made an announcement to the effect that, in order to assist in the management of the serious risk or potentially serious risk to human health, for the period specified in the announcement, that requirement is to be waived or modified in the manner specified in the announcement, that requirement is waived or is as modified in the specified manner for the specified period.
+
+(2) Modifications under paragraph (1) may include modifications imposing requirements on a person other than the person who, but for the announcement, would be required to complete any or any part of a form, sign any declaration or provide any evidence.
+
+(3) An announcement under paragraph (1) may be withdrawn or amended at any time.
+
+## 9. Remission and repayment of charges under other regulations[^key-641349f1ff51e63f14a4c8e7795a1960]
+
+The charges which may be made and recovered by virtue of the preceding provisions of these Regulations are subject to the provisions of regulations made under section 83A of the Act providing for remission and repayment.
+
+## 10. Repayment of charges[^key-8c33ccafcae51190d4de3575fc540c03]
+
+(1) This regulation applies to any person who—
+
+- (a) pays any charge for relevant primary dental services or the supply of a dental appliance under the Act otherwise than as part of relevant primary dental services, payable pursuant to section 79 of the Act; and
+- (b) would, but for regulation 7, be exempt from the charge under paragraph 1(1) of Schedule 12ZA to the Act.
+
+(2) Subject to the following provisions of this regulation, any person to whom this regulation applies is entitled to have such a charge repaid.
+
+(3) Subject to paragraph (4), it is a condition of the entitlement to a repayment under this regulation that the person makes a claim to the Secretary of State for the repayment—
+
+- (a) within—
+  - (i) three months after payment of the charge, or
+  - (ii) such further period as the Secretary of State may for good cause allow; and
+- (b) in a manner approved by the Secretary of State for that purpose; and
+- (c) supported by such evidence as the Secretary of State may reasonably require.
+
+(4) Subject to paragraph (5), where the person is unable for the time being to act, another person may make a claim on that person’s behalf.
+
+(5) The Secretary of State may refuse to accept a claim made by one person on behalf of another where, in the Secretary of State’s opinion—
+
+- (a) the person on whose behalf the claim is made is able to act; or
+- (b) the person making the claim is not a suitable person to act on behalf of that other person.
+
+(6) If satisfied that a person is entitled to repayment under this regulation, the Secretary of State shall cause a repayment to be made to that person in such manner as appears to the Secretary of State to be appropriate in the circumstances of the particular case.
+
+## 11. Charges for replacement in the course of the provision of relevant primary dental services[^key-523d5325e055a157f6614f6ca6163be4]
+
+(1) Where a provider of relevant primary dental services replaces a dental appliance or orthodontic appliance supplied as part of those services and it is determined in accordance with Schedule 6 that the replacement is necessitated by—
+
+- (a) an act or omission on the part of the person supplied; or
+- (b) if the act or omission occurred when the person supplied was under 16 years of age, an act or omission of the person supplied or of the person having charge of him when the act or omission occurred,
+
+the provider of relevant primary dental services may make and recover a charge from the relevant person.
+
+(2) The amount of the charge to be made and recovered under paragraph (1) is, subject to paragraph (3), 30% of the Band 3 charge (rounded down, where necessary, to the nearest whole ten pence) as set out in regulation 4(3).
+
+(3) If the Secretary of State considers—
+
+- (a) that payment of the full amount of the charge under paragraph (1) would involve undue hardship to the relevant person; or
+- (b) that the replacement, though necessitated by the relevant person’s act or omission, was not wholly necessitated by lack of reasonable care on his part,
+
+she may determine that the charge shall not be payable, or that its amount shall be reduced.
+
+(4) In this regulation, “relevant person” means—
+
+- (a) where paragraph (1)(b) applies, the person having charge of the person supplied when the act or omission occurred;
+- (b) in any other case, the person supplied.
+
+## 12. Reduction of remuneration and accounting for charges in relation to providers of relevant primary dental services[^key-85476bd481d833aaf89a0d83e6529d76][^key-0f364866113ee1ea6cb7abcd8b35189c]
+
+Where a provider of relevant primary dental services has provided relevant primary dental services for which a charge is payable under these Regulations, the remuneration which would otherwise be payable by NHS England to that provider shall be reduced by the amount of that charge, irrespective of whether or not that charge has been recovered by the provider.
+
+## 12A. Charges in respect of primary dental services provided under a prototype agreement ...[^key-81510fcfb0d51dc2e073c4d8574ee9be][^key-6549a749d1b75f3be5f0570cc05db11c]
+
+(1) This regulation applies in relation to primary dental services provided under a prototype agreement [^key-d869d234a1b69ca33dd83e0f2bf5773f]....
+
+(2) An additional charge to be known as a Band 1A charge of £23.80[^key-fe5e55ec19dd6168ca563bb6926cb510] may be made and recovered for the provision of any interim care course of treatment the entirety of the components of which are set out in Schedule 1A, irrespective of whether any of the components of the course of treatment are also set out in Schedule 1, where—
+
+- (a) subject to paragraph (3), all of the components of an interim care course of treatment proposed for a person at the initial examination have been provided (notwithstanding that they may have been provided at different times); and
+- (b) those components include at least one of the treatments set out at paragraphs (e) to (g) of Schedule 1A.
+
+(3) If—
+
+- (a) during an interim care course of treatment a patient voluntarily withdraws from, or is withdrawn by the provider from treatment; and
+- (b) at least one of the treatments set out at paragraphs (e) to (g) of Schedule 1A has been provided,
+
+a Band 1A charge may be made and recovered for the course of treatment (notwithstanding that the requirements of paragraph (2)(a) are not fully met).
+
+## 12B. Transitional provision relating to interim care provided under a Capitation and Quality Scheme 2 Agreement
+
+Where—
+
+- (a) an initial examination occurred on or before 31st March 2016[^key-2de527e9ab610465acb39b5defc3c79b];
+- (b) a course of treatment was planned that would constitute an interim care course of treatment for the purposes of regulation 12A had it been planned on or after 1st April 2016[^key-672aff86e81d3665123b99e0e3ccd643]; and
+- (c) all of that treatment is provided on or after 1st April 2016[^key-91b90eb12d062fb46d1fd2197bf192eb],
+
+the planned treatment must be treated as provided in accordance with the prototype agreement.
+
+## 13A. Charges in respect of primary dental services provided under a Capitation and Quality Scheme 2 Agreement[^key-b3c7ec4e09d750ad9f75b52ba2c1f7c3]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 13B. Transitional provision relating to interim care[^key-014f7034328dcd0ec6325876379b9151]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 13. Transitional provisions[^key-2faeaff42345f4176caabfce0f4491d3]
+
+(1) Subject to paragraphs (2) to (8) of this regulation, any charge which is payable under the Dental Charges Regulations 1989 prior to 1 April 2006 but which has not been made and recovered before that date, may be made and recovered in accordance with the provisions of those Regulations as though they remained in force.
+
+(2) Where a person, who is not otherwise exempt from paying a charge under these Regulations, as part of the provision of general dental services or services under a pilot scheme—
+
+- (a) has been accepted by a dentist for care and treatment under a continuing care arrangement or for services under a pilot scheme;
+- (b) is provided with a plan for treatment on a form supplied for that purpose by a Primary Care Trust—
+  - (i) in relation to a continuing care arrangement, pursuant to paragraph 4(1)(b) of Schedule 1 to the General Dental Services Regulations 1992, on or after 1 January 2006, or
+  - (ii) in relation to services under a pilot scheme, in accordance with the Secretary of State’s Directions to Health Authorities Concerning the Implementation of Pilot Schemes (Personal Dental Services)[^f00006], on or after 1 January 2006;
+- (c) has not been provided with all the treatment listed on that form prior to 1 April 2006; and
+- (d) receives part of the treatment listed on that form on or after 1 April 2006,
+
+a charge in accordance with paragraph (3) may be made and recovered for that treatment.
+
+(3) The charge which may be made and recovered from a person falling within paragraph (2) is the lower of the charges set out in sub-paragraphs (a) and (b)—
+
+- (a) the charge for the treatment listed on the plan referred to in paragraph (2)(b), which has been provided to the patient, calculated in accordance with regulation 4 of the Dental Charges Regulations 1989; or
+- (b) the charge for the treatment listed on the plan referred to in paragraph (2)(b), which has been provided to the patient, calculated in accordance with regulation 4 of these Regulations.
+
+(4) The calculation by the provider as to which of the charges referred to in paragraph (3) is the lower shall take place on—
+
+- (a) the date on which the final treatment listed on the plan referred to in paragraph (2)(b) is provided; or
+- (b) where a patient voluntarily withdraws from, or is withdrawn by the provider from, treatment before the final treatment listed on the plan referred to in paragraph (2)(b) has been provided, the date on which the withdrawal takes place.
+
+(5) Regulation 6(4) applies to a person falling within paragraph (2) and the 2 month period referred to in regulation 6(4) shall be deemed to run from—
+
+- (a) the date on which the final treatment listed on the form referred to in paragraph (2)(b) is provided; or
+- (b) where a patient voluntarily withdraws from, or is withdrawn by the provider from treatment, before the final treatment listed on the plan referred to in paragraph (2)(b) has been provided, the date on which the withdrawal takes place .
+
+(6) Where—
+
+- (a) an arrangement has been made for a dental appliance to be supplied on or after 1 January 2006 otherwise than as part of general dental services or services under a pilot scheme; and
+- (b) the dental appliance is not supplied prior to 1 April 2006,
+
+the charge that may be made and recovered for the supply of that appliance is the lower of—
+
+- (i) the charge for the supply of the appliance calculated in accordance with regulation 4 of the Dental Charges Regulations 1989, or
+- (ii) the charge for the supply of the appliance calculated in accordance with regulation 4(4) of these Regulations.
+
+(7) Where a person, who is not otherwise exempt from paying a charge under these Regulations, as part of the provision of general dental services is provided with at least part of a course of occasional treatment within the meaning of paragraph 17 of Schedule 1 to the General Dental Services Regulations 1992 on or after 1 January 2006 but prior to 1 April 2006 where—
+
+- (a) every treatment included in that course of occasional treatment is listed in Schedule 4 to these Regulations and therefore constitutes an urgent course of treatment under these Regulations;
+- (b) not all treatment included in that course of occasional treatment has been provided prior to 1 April 2006; and
+- (c) part of the course of occasional treatment is provided on or after 1 April 2006,
+
+the charge that may be made and recovered for that treatment is the lower of—
+
+- (i) the charge for the course of occasional treatment, which has been provided to the patient, calculated in accordance with regulation 4 of the Dental Charges Regulations 1989, or
+- (ii) the charge for the urgent course of treatment, which has been provided to the patient, calculated in accordance with regulation 4 of these Regulations.
+
+(8) The calculation by the provider as to which of the charges referred to in paragraph (7) is lower shall take place on—
+
+- (a) the date on which the final treatment in the course of occasional treatment referred to in paragraph (7) is provided; or
+- (b) where a patient voluntarily withdraws from, or is withdrawn by the provider from treatment, before the final treatment in the course of occasional treatment has been provided, the date on which the withdrawal takes place.
+
+(9) Where a person who falls within paragraph (2), (6) or (7) has paid part or all of a charge prior to 1 April 2006 for treatment provided or appliances supplied and that charge is higher than the charge he is required to pay under paragraph (3), (6) or (7) respectively, he is entitled to have repaid to him the amount of the charge he has paid in excess of the charge he is required to pay.
+
+(10) The repayment to a person in accordance with paragraph (9) shall be made by the provider who has provided treatment or supplied dental appliances to that person under this regulation.
+
+(11) For the purposes of this regulation—
+
+- (a) “continuing care arrangement” means an arrangement between the dentist and the patient whereby the dentist provides care and treatment in accordance with paragraph 4 of Schedule 1 to the General Dental Services Regulations 1992;
+- (b) “dentist” means a registered dental practitioner;
+- (c) “general dental services” has the meaning given in section 35(1A) of the Act;
+- (d) “pilot scheme” means a pilot scheme under Part I of the National Health Service (Primary Care) Act 1997[^f00007].
+
+## 14. Revocations[^key-3567815f10547220ac5deac2945867bf]
+
+The Regulations listed in Schedule 7 are hereby revoked.
+
+Signed by authority of the Secretary of State for Health
+
+Rosie Winterton
+
+Minister of State,
+
+Department of Health
+
+19th December 2005
+
+## SCHEDULE 1 — Band 1 Charges – Diagnosis, treatment planning and maintenance[^key-d6e12bf78adedb8ec371f54d81c69631]
+
+Regulation 4(1)
+
+[^key-d6e12bf78adedb8ec371f54d81c69631]
+
+- (a) clinical examination, case assessment and report
+- (b) orthodontic case assessment and report
+- (c) advice, dental charting, diagnosis and treatment planning
+- (d) radiographic examination, including panoral and lateral headplates, and radiological report
+- (e) study casts including in association with occlusal analysis
+- (f) colour photographs
+- (g) instruction in the prevention of dental and oral disease including dietary advice and dental hygiene instruction
+- (h)[^key-756bcf8ce0e6c95bf61c0975a726f6d7] surface application as a primary preventive measure of topical fluoride varnish preparations
+- (i) scaling, polishing and marginal correction of fillings
+- (j) taking material for pathological examination
+- (k) adjustments to and easing of dentures or orthodontic appliances
+- (l) treatment of sensitive cementum
+
+## SCHEDULE 1A — Band 1A Charges – Interim Care[^key-254dbbcb49766459e43e7f326b94827f]
+
+Regulation 12A[^key-0dc755a38a2c083cd24dcf2d11c5d4ad]
+
+- (a) the giving of specific advice in relation to diet, hygiene, personal habits and oral health in respect of a person to enable that person to be aware and to be able to take steps to prevent dental and oral disease;
+- (b) the giving of instructions on techniques and practice required by a person in relation to their dental hygiene to enable that person to improve their dental health and prevent oral disease;
+- (c) checking a person’s compliance in relation to the self care plan proposed at the oral health assessment or oral health review;
+- (d) the provision of a prescription for high fluoride toothpaste or mouth rinse if considered required (when delivered together with one or more of (a), (b), (c), (e), (f) or (g);
+- (e) the surface application of primary preventive measures such as topical fluoride varnish applications, and fissure sealants if required and necessary;
+- (f) scaling and polishing if required;
+- (g) follow up root surface debridement if required.
+
+## SCHEDULE 2 — Band 2 Charges – Treatment[^key-1ddc41e698340645336aa1c12ba6e62b]
+
+Regulation 4(2)
+
+[^key-1ddc41e698340645336aa1c12ba6e62b]
+
+- (a) non-surgical periodontal treatment including root-planing, deep scaling, irrigation of periodontal pockets and subgingival curettage and all necessary scaling and polishing
+- (b) surgical periodontal treatment, including gingivectomy, gingivoplasty or removal of an operculum
+- (c) surgical periodontal treatment, including raising and replacement of a mucoperiostal flap, curettage, root planing and bone resection
+- (d) free gingival grafts
+- (e) permanent fillings in amalgam, composite resin, synthetic resin, glass ionomer, compomers, silicate or silico-phosphate, including acid etch retention
+- (f) sealant restorations
+- (g) endodontic treatment of permanent or retained deciduous teeth
+- (h) pulpotomy
+- (i) apicectomy
+- (j) extraction of teeth
+- (k) transplantation of teeth
+- (l) oral surgery including surgical removal of cyst, buried root, unerupted tooth, impacted tooth or exostosed tooth and alveolectomy
+- (m) soft tissue surgery in relation to the buccal cavity and lips
+- (n) frenectomy, frenoplasty and frenotomy
+- (o) relining and rebasing dentures including soft linings
+- (p) addition of tooth, clasp, labial or buccal flange to dentures
+- (q) splints (other than laboratory fabricated splints) in relation to periodontally compromised teeth and in connection with external trauma
+- (r) bite raising appliances (other than laboratory fabricated appliances)
+- (s)[^key-35465a522ca3c2c47a8dccd92f0f2a86] surface application as primary preventive measures of sealants
+- (t) conservation treatment of deciduous teeth in a patient who is aged under 18 years at the beginning of a course of treatment
+
+## SCHEDULE 3 — Band 3 Charges – Provision of Appliances[^key-0072f20d1b0389947680785eb770ad4c]
+
+Regulation 4(3) and (4)
+
+[^key-0072f20d1b0389947680785eb770ad4c]
+
+- (a)[^key-3f372d07cb7ef2402d24d36b526048cb] laboratory fabricated porcelain or composite veneers, including acid etch retention
+- (b) inlays, pinlays, onlays and palatal veneers, in alloys containing 60% or more fine gold, porcelain, composite resin and ceramics
+
+### Crowns including any pin or post aids to retention[^key-0072f20d1b0389947680785eb770ad4c]
+
+- (c) full or three quarter crown cast in alloys containing not less than 33⅓% fine gold or platinum or palladium
+- (d) full or jacket crown cast in alloys containing stainless steel or cobalt chromium or nickel chromium
+- (e) crown in porcelain, synthetic resin and other non-metallic crowns
+- (f) full or jacket crowns in alloys containing not less than 33⅓% fine gold or platinum or palladium, or alloys containing stainless steel or cobalt chromium or nickel chromium, with thermally bonded porcelain
+- (g) jacket crown thermally bonded to wrought platinum coping
+- (h) prefabricated full or jacket crown, including any pin or post retention
+- (i)[^key-89805233a96a4caed1e67946a68c0169] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Bridges including any pin or post aids to retention[^key-0072f20d1b0389947680785eb770ad4c]
+
+- (j) bridges in alloys containing 60% or more fine gold with or without thermally bonded facings
+- (k) bridges cast in alloys containing stainless steel, cobalt chromium or nickel chromium, with or without thermally bonded facings
+- (l) acid etch retained bridges
+- (m) bridges in other non-metallic[^key-430e588c7f5832450c934def91ea4e6c] materials
+- (n) provision of full (complete) or partial dentures, overdentures and obturators in synthetic resin or metal or both synthetic resin and metal, including any cast or wrought metal components or aids to retention
+- (o) orthodontic treatment and appliances
+- (p) other custom made appliances excluding sports guards
+
+## SCHEDULE 4 — Urgent Treatment under Band 1 Charge[^key-196b1796b0a3ddf9afddaac11ca4a947]
+
+Regulation 4(5)
+
+[^key-196b1796b0a3ddf9afddaac11ca4a947]
+
+- (a) examination, assessment and advice
+- (b) radiographic examination and radiological report
+- (c) dressing of teeth and palliative treatment
+- (d) pulpectomy or vital pulpotomy
+- (e) re-implantation of a luxated or subluxated permanent tooth following trauma including any necessary endodontic treatment
+- (f) repair and refixing of inlays and crowns
+- (g) refixing a bridge
+- (h) temporary bridges
+- (i) extraction of not more than 2 teeth
+- (j) provision of post-operative care including treatment of infected sockets
+- (k) adjustment and alteration of dentures or orthodontic appliances
+- (l) urgent treatment for acute conditions of the gingivae or oral mucosa, including treatment for pericoronitis or for ulcers and herpetic lesions, and any necessary oral hygiene instruction in connection with such treatment
+- (m) treatment of sensitive cementum or dentine
+- (n) incising an abscess
+- (o) other treatment immediately necessary as a result of trauma
+- (p) not more than 1 permanent filling in amalgam, composite resin, synthetic resin, glass ionomer, compomers, silicate or silico-phosphate including acid etch retention
+
+## Schedule 4A — Complex Care Pathways under a Band 2 Charge[^key-a4355fa87866ad52d8f6f62209688ffe]
+
+Regulation 4(5A)
+
+**Complex care pathway 1**
+
+- (a) oral health assessment including clinically appropriate radiographs;
+- (b) recording of diagnosis and depth of active carious lesions;
+- (c) identification and recording of modifiable risk factors;
+- (d) development of a treatment plan in line with findings from the oral health assessment, which must be shared with the patient;
+- (e) provision of clinically evidenced preventative advice and support for the duration of the complex care pathway;
+- (f) provision of clinically appropriate restorations of all relevant and a minimum of 5 teeth and, if required, endodontic therapy;
+- (g) re-evaluation of the patient prior to completion of the complex care pathway;
+- (h) assessment to determine the clinically appropriate interval for a risk-based recall after the dental services in (a) to (g) are complete.
+
+**Complex care pathway 2**
+
+- (a) oral health assessment including clinically appropriate radiographs;
+- (b) recording of diagnosis and depth of active carious lesions;
+- (c) recording of the diagnosis statement for periodontitis;
+- (d) identification and recording of modifiable risk factors;
+- (e) development of a treatment plan in line with findings from the oral health assessment, which must be shared with the patient;
+- (f) provision of clinically evidenced preventative advice and support for the duration of the complex care pathway;
+- (g) provision of a minimum of 3 cycles of periodontal treatment to address periodontitis, in line with the patient’s treatment plan and clinically evidenced care;
+- (h) provision of clinically appropriate restorations of all relevant and a minimum of 5 teeth and, if required, endodontic therapy;
+- (i) assessment to determine the clinically appropriate interval for a risk-based recall after the dental services in (a) to (h) are complete.
+
+**Complex care pathway 3**
+
+- (a) oral health assessment including clinically appropriate radiographs;
+- (b) recording of the diagnosis statement for periodontitis;
+- (c) identification and recording of modifiable risk factors;
+- (d) development of a treatment plan in line with findings from the oral health assessment, which must be shared with the patient;
+- (e) provision of clinically evidenced preventative advice and support for the duration of the complex care pathway;
+- (f) provision of a minimum of 2 cycles of periodontal treatment to address periodontitis, in line with the patient’s treatment plan and clinically evidenced care;
+- (g) assessment to determine the clinically appropriate interval for a risk-based recall after the dental services in (a) to (f) are complete.
+
+## SCHEDULE 5 — Exemptions – Categories and Evidence[^key-416340f268bf5038e0e30ad017baa4f4]
+
+Regulation 7
+
+<table>
+<thead>
+<tr><th>(1)</th><th>(2)</th></tr>
+<tr><th>Category</th><th>Evidence</th></tr>
+</thead>
+<tbody>
+<tr><td>1. Under 18 years of age.</td><td>1. The person’s birth certificate</td></tr>
+<tr><td>2. 18 years of age and receiving qualifying full-time education (within the meaning set out in paragraph 1(2) of Schedule 12ZA to the Act)</td><td>2. The person’s birth certificate and a document signed by the principal or another officer of the recognised educational establishment (within the meaning of paragraph 1(3)(a) of Schedule 12ZA to the Act), or by or on behalf of the person providing instruction by other comparable means, to the effect that the person is receiving full-time instruction at the establishment or by other comparable means.</td></tr>
+<tr><td>3. Expectant mother</td><td>3. A certificate, signed by a registered medical practitioner or a registered midwife, as to the pregnancy</td></tr>
+<tr><td>4. Having borne a child in the previous 12 months</td><td>4. The child’s birth certificate</td></tr>
+</tbody>
+</table>
+
+## SCHEDULE 6 — Manner of determining Charge for Replacement
+
+Regulation 11
+
+**1.**[^key-5fc58172949f7f2fc6e08115b5dfc53c] Where the Secretary of State, on considering a claim submitted for the approval of a free replacement of a dental appliance or an orthodontic appliance supplied in the course of the provision of relevant primary dental services, considers that there are grounds for believing that—
+
+- (a) the replacement is necessitated by such an act or omission as is referred to in regulation 11(1); or
+- (b) the replacement, although necessitated by such an act or omission as is referred to in regulation 11(1), was not wholly necessitated by a lack of reasonable care as is referred to in regulation 11(3),
+
+she may investigate the matter.
+
+**2.**[^key-b5cd904285339708db610eb956c86da4] The Secretary of State may make such inquiry into any matter falling within paragraph 1 as she thinks fit and if either—
+
+- (a) in her opinion the circumstances so require; or
+- (b) the person supplied or (if he is under 16 years of age) the person in charge of him so requires,
+
+the inquiry shall take the form of an oral hearing by a committee appointed by the Secretary of State for the purpose.
+
+**3.**[^key-38022ef7a180698ea56e870d274396dc] The Secretary of State, having considered any report made by the committee under paragraph 2—
+
+- (a) shall determine whether the replacement is necessitated by an act or omission on the part of the person supplied or (if the act or omission occurred when the person supplied was under 16 years of age) of the person supplied or of the person having charge of him when the act or omission occurred;
+- (b) if it is so necessitated, shall determine whether the replacement was not wholly necessitated by a lack of reasonable care as referred to in regulation 11(3); and
+- (c) if it is so necessitated, shall determine, in accordance with regulation 11(2) and (3), the amount of the charge to be made and recovered.
+
+**4.**[^key-94490b9e0986b3bbad4712ba831888cd] The Secretary of State shall communicate her determination to—
+
+- (a) the relevant person (within the meaning of regulation 11(4));
+- (b) the provider of relevant primary dental services replacing the dental appliance or orthodontic appliance; and
+- (c) NHS England.
+
+## SCHEDULE 7 — Revocations[^key-e3ac08439af2dcee78c94c6c553702de]
+
+Regulation 14
+
+[^key-e3ac08439af2dcee78c94c6c553702de]
+
+- The National Health Service (Dental Charges) Regulations 1989 (S.I. [1989/394](https://www.legislation.gov.uk/uksi/1989/394))
+- The National Health Service (Dental Charges) Amendment Regulations 1993 (S.I. [1993/419](https://www.legislation.gov.uk/uksi/1993/419))
+- The National Health Service (Dental Charges) Amendment Regulations 1998 (S.I. [1998/2221](https://www.legislation.gov.uk/uksi/1998/2221))
+- The National Health Service (Dental Charges) Amendment (No.2) Regulations 2001 (S.I. [2001/2807](https://www.legislation.gov.uk/uksi/2001/2807))
+- The National Health Service (Miscellaneous Dental Charges Amendments) Regulations 2002 (S.I. [2002/2353](https://www.legislation.gov.uk/uksi/2002/2353))
+- The National Health Service (Dental Charges) Amendment Regulations 2004 (S.I. [2004/1091](https://www.legislation.gov.uk/uksi/2004/1091))
+- The National Health Service (Dental Charges) Amendment Regulations 2005 (S.I. [2005/576](https://www.legislation.gov.uk/uksi/2005/576))
+
+(This note is not part of the Regulations)
+
+These Regulations revoke and replace the National Health Service (Dental Charges) Regulations 1989 (“the 1989 Regulations”), as amended. They provide for the making and recovery of charges for the provision of dental treatment and the supply of dental appliances under the National Health Service Act 1977 (“the Act”) and reflect the new dental charging powers in section 79 of, and Schedule 12ZA to, the Act, which were inserted by section 183 of the Health and Social Care (Community Health and Standards) Act 2003 as a substitute for sections 78A, 79 and 79A, and for the paragraphs of Schedule 12 to the Act which dealt with dental charges.
+
+The Regulations provide for charges for the following:—
+
+- the provision of dental treatment, including urgent treatment and orthodontic treatment, and the supply of dental and orthodontic appliances by a provider of relevant primary dental services (regulation 3);
+- the supply of dental appliances under the Act otherwise than by a provider of relevant primary dental services (regulation 3);
+- the replacement, as part of relevant primary dental services, of a dental or orthodontic appliance lost or damaged by an act or omission of the patient (regulation 11 and Schedule 6).
+
+Regulation 3(2) sets out a number of circumstances in which no charge may be made and recovered for the provision of dental treatment or the supply of dental appliances under the Act. Other circumstances in which no charge may be made for dental services under the Act are set out in Schedule 12ZA of the Act.
+
+Regulation 4 sets out the applicable charges and the system for calculating those charges. Where a patient receives a course of treatment (which may include the supply of dental or orthodontic appliances) from a provider of relevant primary dental services, the charge that will be payable for that course of treatment, if none of the exemptions from charging apply, will be determined by examining in which of the Schedules to the Regulations each of the components of the course of treatment is listed. If any of the components of the course of treatment are listed in Schedule 3, a Band 3 charge of £189 will be payable. If any of the components of the course of treatment are listed in Schedule 2 and none of the components are listed in Schedule 3, a Band 2 charge of £42.40 will be payable. If all of the components of the course of treatment are listed in Schedule 1, a Band 1 charge of £15.50 will be payable.
+
+Where a dental appliance is supplied under the Act otherwise than by a provider of relevant primary dental services and none of the exemptions from charging apply, a Band 3 charge will be payable. Where a patient receives an urgent course of treatment and each component of that course of treatment is listed in Schedule 4, a Band 1 charge will be payable.
+
+Regulation 11 provides that where a patient receives a replacement dental or orthodontic appliance, the need for which it is determined in accordance with the procedure set out in Schedule 6 was brought about by an act or omission of the patient, the charge that will be payable for the replacement will be 30% of the Band 3 charge of £189 rounded down to the nearest 10 pence. The regulation does give the Secretary of State the power to reduce the charge or to determine that it shall not be payable in certain circumstances.
+
+The Regulations provide that only one charge for a course of treatment may be made and recovered even if provided by more than one provider (regulation 5); for circumstances in which charges cannot be made and recovered for both treatment provided after a course of treatment is complete and for the repair or replacement of a restoration (regulation 6); for conditions for statutory exemptions from charges (regulation 7 and Schedule 5); for the procedure for making and recovering charges due under the Regulations (regulation 8); for the repayment of charges which have been paid where a person has the benefit of a statutory exemption but has not complied with the conditions in regulation 7 (regulation 10); for a reduction in the remuneration of a provider of relevant primary dental services by the amount of the charges payable under the Regulations and for a dental practitioner remunerated by either a Primary Care Trust, NHS trust or NHS foundation trust, which is providing relevant primary dental services itself, to account for, and pay to, the body by which he is remunerated the amount of the charges he has recovered from patients under these Regulations (regulation 12); and for the revocation of superseded Regulations on dental charges (Regulation 14 and Schedule 7).
+
+Regulation 13 makes transitional provision for persons who, on or after 1 January 2006, are provided with a plan for treatment as part of the provision of general dental services or services under a pilot scheme and who receive part of that treatment prior to 1 April 2006 and part of that treatment after 1 April 2006. The provider calculates whether the overall charge for the treatment listed on the plan is lower if calculated in accordance with the 1989 Regulations or in accordance with these Regulations and the lower charge is payable. A similar calculation as to which of the charges is lower and, therefore, payable will also occur where an arrangement has been made for a dental appliance to be supplied on or after 1 January 2006 but that appliance is not supplied prior to 1 April 2006. Transitional provision is also made for a person who is provided with at least part of a course of occasional treatment, as part of the provision of general dental services, between 1 January 2006 and 1 April 2006, where a further part of the course of occasional treatment is provided on or after 1 April 2006, in circumstances where each and every treatment included in that course of occasional treatment is listed in Schedule 4 to these Regulations (Urgent Treatment under Band 1 Charge). In these circumstances, the provider will calculate whether the overall charge for the treatment received is lower if calculated as a course of occasional treatment in accordance with the 1989 Regulations or if calculated as an urgent course of treatment in accordance with these Regulations, and the lower charge is payable. The Directions referred to in paragraph (2)(b)(ii) of Regulation 13 which set out the requirements for a plan for treatment in relation to services under a pilot scheme are available from www.dh.gov.uk.
+
+If a person has paid some or all of the charges due for treatment under the 1989 Regulations prior to 1 April 2006 and, using the above mentioned calculations, it is determined that the amount paid is in excess of the amount due under the transitional provisions, the provider must repay the excess amount paid to that person.
+
+## Annotations
+
+[^f00001]: Footnote: [1977 c. 49](https://www.legislation.gov.uk/ukpga/1977/49). Section 79 was inserted by section 183 of the Health and Social Care (Community Health and Standards) Act [2003 (c. 43)](https://www.legislation.gov.uk/ukpga/2003/43) (“the 2003 Act”). Section 83A was inserted by section 14(1) of the Social Security Act [1988 (c. 7)](https://www.legislation.gov.uk/ukpga/1988/7) and amended by section 25 of, and paragraph 6 of Schedule 2 to, the Health and Medicines Act [1988 (c. 49)](https://www.legislation.gov.uk/ukpga/1988/49), article 2 of S.I. [1998/2385](https://www.legislation.gov.uk/uksi/1998/2385), article 3(1) of, and paragraph 5 and 13 of Schedule 1 to, S.I. [2000/90](https://www.legislation.gov.uk/uksi/2000/90), section 66(1) of, and paragraph 18 (5) of Schedule 9 to the National Health Service and Community Care Act [1990 (c. 19)](https://www.legislation.gov.uk/ukpga/1990/19) (“the 1990 Act”), section 2(1) of, and paragraph 40 of Schedule 1 to, the Health Authorities Act [1995 (c. 17)](https://www.legislation.gov.uk/ukpga/1995/17) , section 41(10) of, and paragraph 19 of Schedule 2 to, the National Health Service (Primary Care ) Act [1997 (c. 46)](https://www.legislation.gov.uk/ukpga/1997/46), section 2(5) of, and paragraphs 1 and 32 of Part 1 of Schedule 2 to, the National Health Service Reform and Health Care Professions Act [2002 (c. 17)](https://www.legislation.gov.uk/ukpga/2002/17) (“the 2002 Act”) and by sections 34 and 184 of, and paragraphs 23 and 32(b) of Schedule 4 to, and paragraphs 7 and 31 of Schedule 11 to, the 2003 Act. Section 126(4) was amended by section 65(2) of the 1990 Act, section 65(1) of, and paragraphs 4 and 37 of Schedule 4 to, the Health Act [1999 (c. 8)](https://www.legislation.gov.uk/ukpga/1999/8) (“the 1999 Act”), section 67(1) of, and paragraphs 5 and 13 of Part 1 of Schedule 5 to, the Health and Social Care [2001(c. 15)](https://www.legislation.gov.uk/ukpga/2001/15) and section 6(3)(c) and 37(1) of the 2002 Act. Schedule 12ZA was inserted by section 183 of the 2003 Act. The functions of the Secretary of State under these provisions are, so far as exercisable in relation to Wales, transferred to the National Assembly for Wales by article 2(a) of the National Assembly for Wales (Transfer of Functions) Order 1999 (S.I. [1999/672](https://www.legislation.gov.uk/uksi/1999/672)), as amended by section 66(5) of the 1999 Act. See section 128(1) of the National Health Service Act 1977, as amended by section 26 of the 1990 Act, for the meaning of “prescribed” and “regulations”.
+
+[^f00002]: Footnote: Section 126(1A) was inserted by section 183(3)(b) of the Health and Social Care Act [2003 (c. 43)](https://www.legislation.gov.uk/ukpga/2003/43).
+
+[^key-4ef8ed31cb44821bd8e5701ff8d5b6bc]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2005/3477/regulation/1) in force at 1.4.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3477/regulation/1/1)
+
+[^key-6ecce6dfab84ca58a4361f32610d2c4f]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2005/3477/regulation/2) in force at 1.4.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3477/regulation/1/1)
+
+[^key-a4f70bf9b3c11e0d8929fbd7effbf059]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2005/3477/regulation/2/1) inserted (1.4.2013) by [The National Health Service (Primary Dental Services) (Miscellaneous Amendments and Transitional Provisions) Regulations 2013 (S.I. 2013/364)](https://www.legislation.gov.uk/uksi/2013/364), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/364/regulation/1/1), [44(2)(a)](https://www.legislation.gov.uk/uksi/2013/364/regulation/44/2/a) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2013/364/schedule/2))
+
+[^key-a549eaed0a694c1d4077bd5f04350d18]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2005/3477/regulation/2/1) omitted (6.11.2023) by virtue of [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [19(2)(a)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/19/2/a)
+
+[^key-5200449cee1ed88759df3de1c90fb49e]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2005/3477/regulation/2/1) inserted (1.4.2013) by [The National Health Service (Primary Dental Services) (Miscellaneous Amendments and Transitional Provisions) Regulations 2013 (S.I. 2013/364)](https://www.legislation.gov.uk/uksi/2013/364), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/364/regulation/1/1), [44(2)(c)](https://www.legislation.gov.uk/uksi/2013/364/regulation/44/2/c) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2013/364/schedule/2))
+
+[^key-99370f7b8658a0146147bce1c8cf0988]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2005/3477/regulation/2/1) inserted (23.6.2026) by [The National Health Service (Primary Dental Services and Dental Charges) (Amendment) (No. 2) Regulations 2026 (S.I. 2026/554)](https://www.legislation.gov.uk/uksi/2026/554), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/554/regulation/1/2), [21(2)(b)](https://www.legislation.gov.uk/uksi/2026/554/regulation/21/2/b)
+
+[^key-6589cc90755d183901cad2c4588690a8]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2005/3477/regulation/2/1) substituted (1.4.2014) by [The National Health Service Primary Dental Services (Miscellaneous Amendments) Regulations 2014 (S.I. 2014/443)](https://www.legislation.gov.uk/uksi/2014/443), [regs. 1](https://www.legislation.gov.uk/uksi/2014/443/regulation/1), [5](https://www.legislation.gov.uk/uksi/2014/443/regulation/5)
+
+[^key-3e317025d00d607449e13a4b4db8e4a1]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2005/3477/regulation/2/1) omitted (23.6.2026) by virtue of [The National Health Service (Primary Dental Services and Dental Charges) (Amendment) (No. 2) Regulations 2026 (S.I. 2026/554)](https://www.legislation.gov.uk/uksi/2026/554), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/554/regulation/1/2), [21(2)(a)(i)](https://www.legislation.gov.uk/uksi/2026/554/regulation/21/2/a/i)
+
+[^key-374ef9b658e031a85f57c593c3d85b8a]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2005/3477/regulation/2/1) inserted (23.6.2026) by [The National Health Service (Primary Dental Services and Dental Charges) (Amendment) (No. 2) Regulations 2026 (S.I. 2026/554)](https://www.legislation.gov.uk/uksi/2026/554), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/554/regulation/1/2), [21(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2026/554/regulation/21/2/a/ii)
+
+[^key-f56c3d41a2f72de128a0b68a9b53f237]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2005/3477/regulation/2/1) inserted (23.6.2026) by [The National Health Service (Primary Dental Services and Dental Charges) (Amendment) (No. 2) Regulations 2026 (S.I. 2026/554)](https://www.legislation.gov.uk/uksi/2026/554), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/554/regulation/1/2), [21(2)(a)(iii)](https://www.legislation.gov.uk/uksi/2026/554/regulation/21/2/a/iii)
+
+[^key-c163555dceff6c130558d68c41a12c72]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2005/3477/regulation/2/1) substituted (1.11.2015) by [The National Health Service (Primary Dental Services) (Miscellaneous Amendments) (No. 2) Regulations 2015 (S.I. 2015/1728)](https://www.legislation.gov.uk/uksi/2015/1728), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1728/regulation/1/1), [19(a)](https://www.legislation.gov.uk/uksi/2015/1728/regulation/19/a)
+
+[^f00003]: Footnote: S.I. [1989/394](https://www.legislation.gov.uk/uksi/1989/394). This has been amended by S.I. [1990/1638](https://www.legislation.gov.uk/uksi/1990/1638), S.I. [1991/581](https://www.legislation.gov.uk/uksi/1991/581), S.I. [1992/369](https://www.legislation.gov.uk/uksi/1992/369), S.I. [1993/419](https://www.legislation.gov.uk/uksi/1993/419), S.I. [1994/530](https://www.legislation.gov.uk/uksi/1994/530), S.I. [1995/444](https://www.legislation.gov.uk/uksi/1995/444), S.I. [1996/389](https://www.legislation.gov.uk/uksi/1996/389), S.I. [1997/558](https://www.legislation.gov.uk/uksi/1997/558), S.I. [1998/490](https://www.legislation.gov.uk/uksi/1998/490), S.I. [1998/2221](https://www.legislation.gov.uk/uksi/1998/2221), S.I. [1999/544](https://www.legislation.gov.uk/uksi/1999/544), S.I. [2000/596](https://www.legislation.gov.uk/uksi/2000/596), S.I. [2001/707](https://www.legislation.gov.uk/uksi/2001/707), S.I. [2001/2807](https://www.legislation.gov.uk/uksi/2001/2807), S.I. [2002/544](https://www.legislation.gov.uk/uksi/2002/544), S.I. [2002/2353](https://www.legislation.gov.uk/uksi/2002/2353), S.I. [2003/586](https://www.legislation.gov.uk/uksi/2003/586), S.I. [2003/2382](https://www.legislation.gov.uk/uksi/2003/2382), S.I. [2004/696](https://www.legislation.gov.uk/uksi/2004/696), S.I. [2004/1091](https://www.legislation.gov.uk/uksi/2004/1091) and S.I. [2005/576](https://www.legislation.gov.uk/uksi/2005/576)
+
+[^key-aa052408a09bf410091cf279381b501b]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2005/3477/regulation/2/1) inserted (1.4.2013) by [The National Health Service (Primary Dental Services) (Miscellaneous Amendments and Transitional Provisions) Regulations 2013 (S.I. 2013/364)](https://www.legislation.gov.uk/uksi/2013/364), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/364/regulation/1/1), [44(2)(e)](https://www.legislation.gov.uk/uksi/2013/364/regulation/44/2/e) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2013/364/schedule/2))
+
+[^f00004]: Footnote: S.I. [1992/661](https://www.legislation.gov.uk/uksi/1992/661). Relevant amendments are to paragraph 4 of Schedule 1 to S.I. [1992/661](https://www.legislation.gov.uk/uksi/1992/661). Paragraph 4 of Schedule 1 was amended by S.I. [1996/2051](https://www.legislation.gov.uk/uksi/1996/2051), S.I. [2001/2421](https://www.legislation.gov.uk/uksi/2001/2421), S.I. [2001/3963](https://www.legislation.gov.uk/uksi/2001/3963) and S.I. [2002/2469](https://www.legislation.gov.uk/uksi/2002/2469),
+
+[^key-d9c474fd1a4067f5cdb62fb7b5446a94]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2005/3477/regulation/2/1) inserted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [19(2)(b)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/19/2/b)
+
+[^key-04771da5f4b4cb202dd2d53e78e8ceb1]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
+
+[^key-3679c8a0f74dd77836cf2c2a6601c07f]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2005/3477/regulation/2/1) inserted (1.4.2013) by [The National Health Service (Primary Dental Services) (Miscellaneous Amendments and Transitional Provisions) Regulations 2013 (S.I. 2013/364)](https://www.legislation.gov.uk/uksi/2013/364), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/364/regulation/1/1), [44(2)(g)](https://www.legislation.gov.uk/uksi/2013/364/regulation/44/2/g) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2013/364/schedule/2))
+
+[^key-3f84067eeb55823fd76905cca5bd7eb1]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2005/3477/regulation/2/1) inserted (1.4.2013) by [The National Health Service (Primary Dental Services) (Miscellaneous Amendments and Transitional Provisions) Regulations 2013 (S.I. 2013/364)](https://www.legislation.gov.uk/uksi/2013/364), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/364/regulation/1/1), [44(2)(h)](https://www.legislation.gov.uk/uksi/2013/364/regulation/44/2/h) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2013/364/schedule/2))
+
+[^key-5bc47b6c8b01ce893f77eade3da74a09]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2005/3477/regulation/2/1) substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 345](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/345) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+
+[^key-8c8560c987b4c027da687aa0f2d4a7a3]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2005/3477/regulation/2/1) substituted (1.4.2013) by [The National Health Service (Primary Dental Services) (Miscellaneous Amendments and Transitional Provisions) Regulations 2013 (S.I. 2013/364)](https://www.legislation.gov.uk/uksi/2013/364), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/364/regulation/1/1), [44(2)(i)](https://www.legislation.gov.uk/uksi/2013/364/regulation/44/2/i) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2013/364/schedule/2))
+
+[^key-76336842c8dacb1408f5d1b68029305e]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2005/3477/regulation/2/1) inserted (1.11.2015) by [The National Health Service (Primary Dental Services) (Miscellaneous Amendments) (No. 2) Regulations 2015 (S.I. 2015/1728)](https://www.legislation.gov.uk/uksi/2015/1728), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1728/regulation/1/1), [19(b)](https://www.legislation.gov.uk/uksi/2015/1728/regulation/19/b)
+
+[^key-2613097c5cf106489d7738b4481b9194]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2005/3477/regulation/2/1) substituted (1.4.2013) by [The National Health Service (Primary Dental Services) (Miscellaneous Amendments and Transitional Provisions) Regulations 2013 (S.I. 2013/364)](https://www.legislation.gov.uk/uksi/2013/364), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/364/regulation/1/1), [44(2)(k)(i)](https://www.legislation.gov.uk/uksi/2013/364/regulation/44/2/k/i) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2013/364/schedule/2))
+
+[^key-1af0d792015937fffa09298029c4643d]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2005/3477/regulation/2/1) substituted (1.4.2013) by [The National Health Service (Primary Dental Services) (Miscellaneous Amendments and Transitional Provisions) Regulations 2013 (S.I. 2013/364)](https://www.legislation.gov.uk/uksi/2013/364), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/364/regulation/1/1), [44(2)(k)(ii)](https://www.legislation.gov.uk/uksi/2013/364/regulation/44/2/k/ii) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2013/364/schedule/2))
+
+[^key-3c81b915221c362bf1bde471e69d8963]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2005/3477/regulation/2/1) omitted (1.4.2013) by virtue of [The National Health Service (Primary Dental Services) (Miscellaneous Amendments and Transitional Provisions) Regulations 2013 (S.I. 2013/364)](https://www.legislation.gov.uk/uksi/2013/364), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/364/regulation/1/1), [44(2)(j)](https://www.legislation.gov.uk/uksi/2013/364/regulation/44/2/j) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2013/364/schedule/2))
+
+[^key-aa4f95fbe8d6aa114932e711c1ec988a]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2005/3477/regulation/2/1) substituted (1.4.2026) by [The National Health Service (Primary Dental Services and Dental Charges) (Amendment) Regulations 2026 (S.I. 2026/265)](https://www.legislation.gov.uk/uksi/2026/265), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/265/regulation/1/2), [15(2)(a)(i)(aa)](https://www.legislation.gov.uk/uksi/2026/265/regulation/15/2/a/i/aa)
+
+[^key-cd5f7e3110fd71a39e879a9f02ce9f8d]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2005/3477/regulation/2/1) substituted (1.4.2026) by virtue of [The National Health Service (Primary Dental Services and Dental Charges) (Amendment) Regulations 2026 (S.I. 2026/265)](https://www.legislation.gov.uk/uksi/2026/265), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/265/regulation/1/2), [15(2)(a)(i)(bb)](https://www.legislation.gov.uk/uksi/2026/265/regulation/15/2/a/i/bb)
+
+[^key-3ea0239a34adff8a34f593b6aa5ac4a0]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2005/3477/regulation/2/1) substituted (1.4.2026) by [The National Health Service (Primary Dental Services and Dental Charges) (Amendment) Regulations 2026 (S.I. 2026/265)](https://www.legislation.gov.uk/uksi/2026/265), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/265/regulation/1/2), [15(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2026/265/regulation/15/2/a/ii)
+
+[^key-0c6aa6d21d121e77c36786bf28181294]: Textual amendment: [Reg. 2(2)](https://www.legislation.gov.uk/uksi/2005/3477/regulation/2/2) substituted (1.4.2013) by [The National Health Service (Primary Dental Services) (Miscellaneous Amendments and Transitional Provisions) Regulations 2013 (S.I. 2013/364)](https://www.legislation.gov.uk/uksi/2013/364), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/364/regulation/1/1), [44(3)](https://www.legislation.gov.uk/uksi/2013/364/regulation/44/3) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2013/364/schedule/2))
+
+[^key-d546137e5b75288838a5773acdc16401]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2005/3477/regulation/3) in force at 1.4.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3477/regulation/1/1)
+
+[^key-45983c44eec69265f7eaa13bf66eb085]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2005/3477/regulation/3/1) substituted (1.11.2015) by [The National Health Service (Primary Dental Services) (Miscellaneous Amendments) (No. 2) Regulations 2015 (S.I. 2015/1728)](https://www.legislation.gov.uk/uksi/2015/1728), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1728/regulation/1/1), [20](https://www.legislation.gov.uk/uksi/2015/1728/regulation/20)
+
+[^key-1f42b77fbb07b1bee1f0357aed16ebdc]: Textual amendment: Word in [reg. 3(2)](https://www.legislation.gov.uk/uksi/2005/3477/regulation/3/2) inserted (1.4.2013) by [The National Health Service (Primary Dental Services) (Miscellaneous Amendments and Transitional Provisions) Regulations 2013 (S.I. 2013/364)](https://www.legislation.gov.uk/uksi/2013/364), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/364/regulation/1/1), [45(b)](https://www.legislation.gov.uk/uksi/2013/364/regulation/45/b) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2013/364/schedule/2))
+
+[^key-88863cb18bbf293eedaff2c1c33be5aa]: Textual amendment: Words in [reg. 3(2)](https://www.legislation.gov.uk/uksi/2005/3477/regulation/3/2) substituted (23.6.2026) by [The National Health Service (Primary Dental Services and Dental Charges) (Amendment) (No. 2) Regulations 2026 (S.I. 2026/554)](https://www.legislation.gov.uk/uksi/2026/554), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/554/regulation/1/2), [22](https://www.legislation.gov.uk/uksi/2026/554/regulation/22)
+
+[^key-6a7927dab507a0156750e7732168249f]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2005/3477/regulation/4) in force at 1.4.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3477/regulation/1/1)
+
+[^key-48c1eb9d70435bbffff9abdb35784835]: Textual amendment: Sum in reg. 4(1) substituted (1.4.2026) by [The National Health Service (Primary Dental Services and Dental Charges) (Amendment) Regulations 2026 (S.I. 2026/265)](https://www.legislation.gov.uk/uksi/2026/265), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/310/regulation/1/2), [16(a)](https://www.legislation.gov.uk/uksi/2025/310/regulation/16/a)
+
+[^key-3f52ce5cec4b0a6d01e296c2e06c29a9]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/uksi/2005/3477/regulation/4/1) inserted (1.4.2013) by [The National Health Service (Primary Dental Services) (Miscellaneous Amendments to Charges) Regulations 2013 (S.I. 2013/711)](https://www.legislation.gov.uk/uksi/2013/711), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2013/711/regulation/1/3), [4(2)](https://www.legislation.gov.uk/uksi/2013/711/regulation/4/2)
+
+[^key-fb23d5f78cc56bb25b0748ea6fa59fb4]: Textual amendment: Sum in reg. 4(2) substituted (1.4.2026) by [The National Health Service (Primary Dental Services and Dental Charges) (Amendment) Regulations 2026 (S.I. 2026/265)](https://www.legislation.gov.uk/uksi/2026/265), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/310/regulation/1/2), [16(b)](https://www.legislation.gov.uk/uksi/2025/310/regulation/16/b)
+
+[^key-17728c9b13203fc229bc4a8c94ddc9e5]: Textual amendment: Words in [reg. 4(2)](https://www.legislation.gov.uk/uksi/2005/3477/regulation/4/2) inserted (1.4.2013) by [The National Health Service (Primary Dental Services) (Miscellaneous Amendments and Transitional Provisions) Regulations 2013 (S.I. 2013/364)](https://www.legislation.gov.uk/uksi/2013/364), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/364/regulation/1/1), [46(b)](https://www.legislation.gov.uk/uksi/2013/364/regulation/46/b) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2013/364/schedule/2))
+
+[^key-9786c5ecdfc7490c341f265e832f8df2]: Textual amendment: Sum in reg. 4(3) substituted (1.4.2026) by [The National Health Service (Primary Dental Services and Dental Charges) (Amendment) Regulations 2026 (S.I. 2026/265)](https://www.legislation.gov.uk/uksi/2026/265), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/310/regulation/1/2), [16(c)](https://www.legislation.gov.uk/uksi/2025/310/regulation/16/c)
+
+[^key-5f349f924724ad5a856d6c133f466c98]: Textual amendment: Words in [reg. 4(3)](https://www.legislation.gov.uk/uksi/2005/3477/regulation/4/3) inserted (1.4.2013) by [The National Health Service (Primary Dental Services) (Miscellaneous Amendments and Transitional Provisions) Regulations 2013 (S.I. 2013/364)](https://www.legislation.gov.uk/uksi/2013/364), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/364/regulation/1/1), [46(c)](https://www.legislation.gov.uk/uksi/2013/364/regulation/46/c) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2013/364/schedule/2))
+
+[^key-8d3c4e284b21083e014862312efabbc4]: Textual amendment: Words in [reg. 4(3)](https://www.legislation.gov.uk/uksi/2005/3477/regulation/4/3) substituted (23.6.2026) by [The National Health Service (Primary Dental Services and Dental Charges) (Amendment) (No. 2) Regulations 2026 (S.I. 2026/554)](https://www.legislation.gov.uk/uksi/2026/554), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/554/regulation/1/2), [23(2)](https://www.legislation.gov.uk/uksi/2026/554/regulation/23/2)
+
+[^key-84ef8f7b6b53025b96a562a8dd447511]: Textual amendment: Sum in reg. 4(4) substituted (1.4.2026) by [The National Health Service (Primary Dental Services and Dental Charges) (Amendment) Regulations 2026 (S.I. 2026/265)](https://www.legislation.gov.uk/uksi/2026/265), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/310/regulation/1/2), [16(c)](https://www.legislation.gov.uk/uksi/2025/310/regulation/16/c)
+
+[^key-a2caa252440c2bf731862690dabfdef5]: Textual amendment: Sum in reg. 4(5) substituted (1.4.2026) by [The National Health Service (Primary Dental Services and Dental Charges) (Amendment) Regulations 2026 (S.I. 2026/265)](https://www.legislation.gov.uk/uksi/2026/265), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/310/regulation/1/2), [16(a)](https://www.legislation.gov.uk/uksi/2025/310/regulation/16/a)
+
+[^key-60ee815230778a160c16bf9954be7173]: Textual amendment: [Reg. 4(5A)](https://www.legislation.gov.uk/uksi/2005/3477/regulation/4/5A) inserted (23.6.2026) by [The National Health Service (Primary Dental Services and Dental Charges) (Amendment) (No. 2) Regulations 2026 (S.I. 2026/554)](https://www.legislation.gov.uk/uksi/2026/554), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/554/regulation/1/2), [23(3)](https://www.legislation.gov.uk/uksi/2026/554/regulation/23/3)
+
+[^key-46b7365de4b0cb765f95f636fff791dc]: Textual amendment: Words in [reg. 4(6)](https://www.legislation.gov.uk/uksi/2005/3477/regulation/4/6) substituted (23.6.2026) by [The National Health Service (Primary Dental Services and Dental Charges) (Amendment) (No. 2) Regulations 2026 (S.I. 2026/554)](https://www.legislation.gov.uk/uksi/2026/554), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/554/regulation/1/2), [23(4)](https://www.legislation.gov.uk/uksi/2026/554/regulation/23/4)
+
+[^key-1e23c1dd9ec32a3f9ca682440ea53c11]: Textual amendment: Words in [reg. 4(7)(a)](https://www.legislation.gov.uk/uksi/2005/3477/regulation/4/7/a) substituted (23.6.2026) by [The National Health Service (Primary Dental Services and Dental Charges) (Amendment) (No. 2) Regulations 2026 (S.I. 2026/554)](https://www.legislation.gov.uk/uksi/2026/554), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/554/regulation/1/2), [23(5)(a)](https://www.legislation.gov.uk/uksi/2026/554/regulation/23/5/a)
+
+[^key-73ea99dab47e1c92dcf7765847ce6624]: Textual amendment: Words in [reg. 4(7)](https://www.legislation.gov.uk/uksi/2005/3477/regulation/4/7) substituted (23.6.2026) by [The National Health Service (Primary Dental Services and Dental Charges) (Amendment) (No. 2) Regulations 2026 (S.I. 2026/554)](https://www.legislation.gov.uk/uksi/2026/554), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/554/regulation/1/2), [23(5)(b)](https://www.legislation.gov.uk/uksi/2026/554/regulation/23/5/b)
+
+[^key-21417e76bf1102416224b3207bfd3d39]: Textual amendment: Word in [reg. 4(8)](https://www.legislation.gov.uk/uksi/2005/3477/regulation/4/8) substituted (23.6.2026) by [The National Health Service (Primary Dental Services and Dental Charges) (Amendment) (No. 2) Regulations 2026 (S.I. 2026/554)](https://www.legislation.gov.uk/uksi/2026/554), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/554/regulation/1/2), [23(6)(a)](https://www.legislation.gov.uk/uksi/2026/554/regulation/23/6/a)
+
+[^key-885d677243581dc4e3eaeee488a8fa4b]: Textual amendment: Word in [reg. 4(8)](https://www.legislation.gov.uk/uksi/2005/3477/regulation/4/8) substituted (23.6.2026) by [The National Health Service (Primary Dental Services and Dental Charges) (Amendment) (No. 2) Regulations 2026 (S.I. 2026/554)](https://www.legislation.gov.uk/uksi/2026/554), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/554/regulation/1/2), [23(6)(b)](https://www.legislation.gov.uk/uksi/2026/554/regulation/23/6/b)
+
+[^key-d8c760d1b5905fa4c67bff9e8fbe8e9e]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2005/3477/regulation/5) in force at 1.4.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3477/regulation/1/1)
+
+[^key-eac57eea2809389507e5579541dafc89]: Textual amendment: Words in [reg. 5](https://www.legislation.gov.uk/uksi/2005/3477/regulation/5) substituted (1.11.2015) by [The National Health Service (Primary Dental Services) (Miscellaneous Amendments) (No. 2) Regulations 2015 (S.I. 2015/1728)](https://www.legislation.gov.uk/uksi/2015/1728), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1728/regulation/1/1), [21](https://www.legislation.gov.uk/uksi/2015/1728/regulation/21)
+
+[^key-7ea21a909e3d1ee872bc599d5e344fdc]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2005/3477/regulation/6) in force at 1.4.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3477/regulation/1/1)
+
+[^key-7ac4ea5e40c1a01fdaee55275ad4d174]: Textual amendment: Words in [reg. 6(4)](https://www.legislation.gov.uk/uksi/2005/3477/regulation/6/4) inserted (23.6.2026) by [The National Health Service (Primary Dental Services and Dental Charges) (Amendment) (No. 2) Regulations 2026 (S.I. 2026/554)](https://www.legislation.gov.uk/uksi/2026/554), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/554/regulation/1/2), [24(1)](https://www.legislation.gov.uk/uksi/2026/554/regulation/24/1)
+
+[^key-8bc43c4df518720ee0b2a92c91a8b23e]: Textual amendment: Words in [reg. 6(4)](https://www.legislation.gov.uk/uksi/2005/3477/regulation/6/4) substituted (1.11.2015) by [The National Health Service (Primary Dental Services) (Miscellaneous Amendments) (No. 2) Regulations 2015 (S.I. 2015/1728)](https://www.legislation.gov.uk/uksi/2015/1728), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1728/regulation/1/1), [22](https://www.legislation.gov.uk/uksi/2015/1728/regulation/22)
+
+[^key-893bd9bee742c554bd10e71003f49464]: Textual amendment: [Reg. 6(4A)](https://www.legislation.gov.uk/uksi/2005/3477/regulation/6/4A) inserted (23.6.2026) by [The National Health Service (Primary Dental Services and Dental Charges) (Amendment) (No. 2) Regulations 2026 (S.I. 2026/554)](https://www.legislation.gov.uk/uksi/2026/554), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/554/regulation/1/2), [24(2)](https://www.legislation.gov.uk/uksi/2026/554/regulation/24/2)
+
+[^key-e95a76ed9fb79575252043e5fb1b1272]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2005/3477/regulation/7) in force at 1.4.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3477/regulation/1/1)
+
+[^key-8bbadff572fa329cfe466007cc4f167a]: Commencement: Reg. 8 in force at 1.4.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3477/regulation/1/1)
+
+[^key-86d248abf141186c590eb6b4ff66b779]: Textual amendment: Words in reg. 8(2) substituted (23.6.2026) by virtue of [The National Health Service (Primary Dental Services and Dental Charges) (Amendment) (No. 2) Regulations 2026 (S.I. 2026/554)](https://www.legislation.gov.uk/uksi/2026/554), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/554/regulation/1/2), [25](https://www.legislation.gov.uk/uksi/2026/554/regulation/25)
+
+[^key-43c42a77d02019370e787641790cc1e5]: Textual amendment: Words in reg. 8(2) substituted (1.11.2015) by [The National Health Service (Primary Dental Services) (Miscellaneous Amendments) (No. 2) Regulations 2015 (S.I. 2015/1728)](https://www.legislation.gov.uk/uksi/2015/1728), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1728/regulation/1/1), [23(a)](https://www.legislation.gov.uk/uksi/2015/1728/regulation/23/b)
+
+[^key-9206066528144d7e395acc60ef479430]: Textual amendment: Words in reg. 8(3) substituted (1.4.2013) by [The National Health Service (Primary Dental Services) (Miscellaneous Amendments and Transitional Provisions) Regulations 2013 (S.I. 2013/364)](https://www.legislation.gov.uk/uksi/2013/364), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/364/regulation/1/1), [49(c)](https://www.legislation.gov.uk/uksi/2013/364/regulation/49/c) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2013/364/schedule/2))
+
+[^key-f4d0691b6cdcd7baac0727c8944fe785]: Textual amendment: Words in reg. 8(3) substituted (1.11.2015) by [The National Health Service (Primary Dental Services) (Miscellaneous Amendments) (No. 2) Regulations 2015 (S.I. 2015/1728)](https://www.legislation.gov.uk/uksi/2015/1728), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1728/regulation/1/1), [23(b)](https://www.legislation.gov.uk/uksi/2015/1728/regulation/23/a)
+
+[^key-4610c552a0e70ef878267fca95d3da90]: Textual amendment: [Reg. 8A](https://www.legislation.gov.uk/uksi/2005/3477/regulation/8A) inserted (14.9.2020) by [The National Health Service (Coronavirus) (Charges and Further Amendments Relating to the Provision of Primary Care Services During a Pandemic etc.) Regulations 2020 (S.I. 2020/885)](https://www.legislation.gov.uk/uksi/2020/885), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/885/regulation/1/2), [7(2)](https://www.legislation.gov.uk/uksi/2020/885/regulation/7/2)
+
+[^key-641349f1ff51e63f14a4c8e7795a1960]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2005/3477/regulation/9) in force at 1.4.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3477/regulation/1/1)
+
+[^key-8c33ccafcae51190d4de3575fc540c03]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2005/3477/regulation/10) in force at 1.4.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3477/regulation/1/1)
+
+[^key-523d5325e055a157f6614f6ca6163be4]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2005/3477/regulation/11) in force at 1.4.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3477/regulation/1/1)
+
+[^key-85476bd481d833aaf89a0d83e6529d76]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2005/3477/regulation/12) in force at 1.4.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3477/regulation/1/1)
+
+[^key-0f364866113ee1ea6cb7abcd8b35189c]: Textual amendment: [Reg. 12](https://www.legislation.gov.uk/uksi/2005/3477/regulation/12) substituted (1.4.2013) by [The National Health Service (Primary Dental Services) (Miscellaneous Amendments and Transitional Provisions) Regulations 2013 (S.I. 2013/364)](https://www.legislation.gov.uk/uksi/2013/364), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/364/regulation/1/1), [50](https://www.legislation.gov.uk/uksi/2013/364/regulation/50) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2013/364/schedule/2))
+
+[^key-81510fcfb0d51dc2e073c4d8574ee9be]: Textual amendment: [Regs. 12A](https://www.legislation.gov.uk/uksi/2005/3477/regulation/12A), [12B](https://www.legislation.gov.uk/uksi/2005/3477/regulation/12B) inserted (1.11.2015) by [The National Health Service (Primary Dental Services) (Miscellaneous Amendments) (No. 2) Regulations 2015 (S.I. 2015/1728)](https://www.legislation.gov.uk/uksi/2015/1728), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1728/regulation/1/1), [24](https://www.legislation.gov.uk/uksi/2015/1728/regulation/24)
+
+[^key-6549a749d1b75f3be5f0570cc05db11c]: Textual amendment: Words in [reg. 12A](https://www.legislation.gov.uk/uksi/2005/3477/regulation/12A) heading omitted (1.4.2016) by virtue of [The National Health Service (Dental Charges) (Amendment) Regulations 2016 (S.I. 2016/324)](https://www.legislation.gov.uk/uksi/2016/324), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/324/regulation/1/2), [3(a)](https://www.legislation.gov.uk/uksi/2016/324/regulation/3/a)
+
+[^key-d869d234a1b69ca33dd83e0f2bf5773f]: Textual amendment: Words in [reg. 12A(1)](https://www.legislation.gov.uk/uksi/2005/3477/regulation/12A/1) omitted (1.4.2016) by virtue of [The National Health Service (Dental Charges) (Amendment) Regulations 2016 (S.I. 2016/324)](https://www.legislation.gov.uk/uksi/2016/324), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/324/regulation/1/2), [3(b)](https://www.legislation.gov.uk/uksi/2016/324/regulation/3/b)
+
+[^key-fe5e55ec19dd6168ca563bb6926cb510]: Textual amendment: Sum in [reg. 12A(2)](https://www.legislation.gov.uk/uksi/2005/3477/regulation/12A/2) substituted (14.12.2020) by [The National Health Service (Dental Charges) (Amendment) Regulations 2020 (S.I. 2020/1335)](https://www.legislation.gov.uk/uksi/2020/1335), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1335/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2020/1335/regulation/2/3)
+
+[^key-2de527e9ab610465acb39b5defc3c79b]: Textual amendment: Words in [reg. 12B(a)](https://www.legislation.gov.uk/uksi/2005/3477/regulation/12B/a) substituted (1.4.2016) by [The National Health Service (Dental Charges) (Amendment) Regulations 2016 (S.I. 2016/324)](https://www.legislation.gov.uk/uksi/2016/324), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/324/regulation/1/2), [4(a)](https://www.legislation.gov.uk/uksi/2016/324/regulation/4/a)
+
+[^key-672aff86e81d3665123b99e0e3ccd643]: Textual amendment: Words in [reg. 12B(b)](https://www.legislation.gov.uk/uksi/2005/3477/regulation/12B/b) substituted (1.4.2016) by [The National Health Service (Dental Charges) (Amendment) Regulations 2016 (S.I. 2016/324)](https://www.legislation.gov.uk/uksi/2016/324), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/324/regulation/1/2), [4(b)](https://www.legislation.gov.uk/uksi/2016/324/regulation/4/b)
+
+[^key-91b90eb12d062fb46d1fd2197bf192eb]: Textual amendment: Words in [reg. 12B(c)](https://www.legislation.gov.uk/uksi/2005/3477/regulation/12B/c) substituted (1.4.2016) by [The National Health Service (Dental Charges) (Amendment) Regulations 2016 (S.I. 2016/324)](https://www.legislation.gov.uk/uksi/2016/324), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/324/regulation/1/2), [4(c)](https://www.legislation.gov.uk/uksi/2016/324/regulation/4/c)
+
+[^key-b3c7ec4e09d750ad9f75b52ba2c1f7c3]: Textual amendment: [Reg. 13A](https://www.legislation.gov.uk/uksi/2005/3477/regulation/13A) revoked (1.11.2015) by [The National Health Service (Primary Dental Services) (Miscellaneous Amendments) (No. 2) Regulations 2015 (S.I. 2015/1728)](https://www.legislation.gov.uk/uksi/2015/1728), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1728/regulation/1/1), [25](https://www.legislation.gov.uk/uksi/2015/1728/regulation/25)
+
+[^key-014f7034328dcd0ec6325876379b9151]: Textual amendment: [Reg. 13B](https://www.legislation.gov.uk/uksi/2005/3477/regulation/13B) revoked (1.11.2015) by [The National Health Service (Primary Dental Services) (Miscellaneous Amendments) (No. 2) Regulations 2015 (S.I. 2015/1728)](https://www.legislation.gov.uk/uksi/2015/1728), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1728/regulation/1/1), [25](https://www.legislation.gov.uk/uksi/2015/1728/regulation/25)
+
+[^key-2faeaff42345f4176caabfce0f4491d3]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2005/3477/regulation/13) in force at 1.4.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3477/regulation/1/1)
+
+[^f00006]: Footnote: These Directions were made in August 1998 and are available at www.dh.gov.uk.
+
+[^f00007]: Footnote: [1997 (c. 46)](https://www.legislation.gov.uk/ukpga/1997/46)
+
+[^key-3567815f10547220ac5deac2945867bf]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2005/3477/regulation/14) in force at 1.4.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3477/regulation/1/1)
+
+[^key-d6e12bf78adedb8ec371f54d81c69631]: Commencement: [Sch. 1](https://www.legislation.gov.uk/uksi/2005/3477/schedule/1) in force at 1.4.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3477/regulation/1/1)
+
+[^key-756bcf8ce0e6c95bf61c0975a726f6d7]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/2005/3477/schedule/1) para. (h) substituted (1.4.2026) by [The National Health Service (Primary Dental Services and Dental Charges) (Amendment) Regulations 2026 (S.I. 2026/265)](https://www.legislation.gov.uk/uksi/2026/265), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/265/regulation/1/2), [17](https://www.legislation.gov.uk/uksi/2026/265/regulation/17)
+
+[^key-254dbbcb49766459e43e7f326b94827f]: Textual amendment: [Sch. 1A](https://www.legislation.gov.uk/uksi/2005/3477/schedule/1A) inserted (1.4.2013) by [The National Health Service (Primary Dental Services) (Miscellaneous Amendments and Transitional Provisions) Regulations 2013 (S.I. 2013/364)](https://www.legislation.gov.uk/uksi/2013/364), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/364/regulation/1/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2013/364/schedule/3) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2013/364/schedule/2))
+
+[^key-0dc755a38a2c083cd24dcf2d11c5d4ad]: Textual amendment: Words in [Sch. 1A](https://www.legislation.gov.uk/uksi/2005/3477/schedule/1A) heading substituted (1.11.2015) by [The National Health Service (Primary Dental Services) (Miscellaneous Amendments) (No. 2) Regulations 2015 (S.I. 2015/1728)](https://www.legislation.gov.uk/uksi/2015/1728), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1728/regulation/1/1), [26](https://www.legislation.gov.uk/uksi/2015/1728/regulation/26)
+
+[^key-1ddc41e698340645336aa1c12ba6e62b]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/2005/3477/schedule/2) in force at 1.4.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3477/regulation/1/1)
+
+[^key-35465a522ca3c2c47a8dccd92f0f2a86]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/2005/3477/schedule/2) paras. (s)(t) inserted (1.4.2026) by [The National Health Service (Primary Dental Services and Dental Charges) (Amendment) Regulations 2026 (S.I. 2026/265)](https://www.legislation.gov.uk/uksi/2026/265), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/265/regulation/1/2), [18](https://www.legislation.gov.uk/uksi/2026/265/regulation/18)
+
+[^key-0072f20d1b0389947680785eb770ad4c]: Commencement: [Sch. 3](https://www.legislation.gov.uk/uksi/2005/3477/schedule/3) in force at 1.4.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3477/regulation/1/1)
+
+[^key-3f372d07cb7ef2402d24d36b526048cb]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/uksi/2005/3477/schedule/3) para. (a) substituted (1.4.2008) by [The National Health Service (Dental Charges) Amendment Regulations 2008 (S.I. 2008/547)](https://www.legislation.gov.uk/uksi/2008/547), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/547/regulation/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2008/547/regulation/3/3)
+
+[^key-89805233a96a4caed1e67946a68c0169]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/uksi/2005/3477/schedule/3) para. (i) omitted (10.8.2006) by virtue of [The National Health Service (Dental Charges) Amendment Regulations 2006 (S.I. 2006/1837)](https://www.legislation.gov.uk/uksi/2006/1837), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/1837/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2006/1837/regulation/2)
+
+[^key-430e588c7f5832450c934def91ea4e6c]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/uksi/2005/3477/schedule/3) inserted (1.4.2007) by [The National Health Service (Dental Charges, General Dental Services Contracts and Personal Dental Services Agreements) Amendment Regulations 2007 (S.I. 2007/544)](https://www.legislation.gov.uk/uksi/2007/544), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/544/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2007/544/regulation/3/2)
+
+[^key-196b1796b0a3ddf9afddaac11ca4a947]: Commencement: [Sch. 4](https://www.legislation.gov.uk/uksi/2005/3477/schedule/4) in force at 1.4.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3477/regulation/1/1)
+
+[^key-a4355fa87866ad52d8f6f62209688ffe]: Textual amendment: Sch. 4A inserted (23.6.2026) by [The National Health Service (Primary Dental Services and Dental Charges) (Amendment) (No. 2) Regulations 2026 (S.I. 2026/554)](https://www.legislation.gov.uk/uksi/2026/554), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/554/regulation/1/2), [26](https://www.legislation.gov.uk/uksi/2026/554/regulation/26)
+
+[^key-416340f268bf5038e0e30ad017baa4f4]: Commencement: [Sch. 5](https://www.legislation.gov.uk/uksi/2005/3477/schedule/5) in force at 1.4.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3477/regulation/1/1)
+
+[^key-5fc58172949f7f2fc6e08115b5dfc53c]: Commencement: [Sch. 6 para. 1](https://www.legislation.gov.uk/uksi/2005/3477/schedule/6/paragraph/1) in force at 1.4.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3477/regulation/1/1)
+
+[^key-b5cd904285339708db610eb956c86da4]: Commencement: [Sch. 6 para. 2](https://www.legislation.gov.uk/uksi/2005/3477/schedule/6/paragraph/2) in force at 1.4.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3477/regulation/1/1)
+
+[^key-38022ef7a180698ea56e870d274396dc]: Commencement: [Sch. 6 para. 3](https://www.legislation.gov.uk/uksi/2005/3477/schedule/6/paragraph/3) in force at 1.4.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3477/regulation/1/1)
+
+[^key-94490b9e0986b3bbad4712ba831888cd]: Commencement: [Sch. 6 para. 4](https://www.legislation.gov.uk/uksi/2005/3477/schedule/6/paragraph/4) in force at 1.4.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3477/regulation/1/1)
+
+[^key-e3ac08439af2dcee78c94c6c553702de]: Commencement: [Sch. 7](https://www.legislation.gov.uk/uksi/2005/3477/schedule/7) in force at 1.4.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3477/regulation/1/1)

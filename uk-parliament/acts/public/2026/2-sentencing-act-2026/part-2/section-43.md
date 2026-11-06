@@ -1,0 +1,48 @@
+---
+title: Sentencing Act 2026, section 43
+act: Sentencing Act 2026
+section: '43'
+status: revised-with-pending-changes
+text_date: '2026-10-05'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/2026/2/section/43
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Sentencing Act 2026, section 43
+
+> **Warning: changes not yet applied to this text (1).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/2026/2
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 43. Powers of High Court on referral[^key-e437d2ef986aba97ab38c494a5334902]
+
+*Extent: E+W*
+
+(1) Section 32ZAC of the Crime (Sentences) Act 1997 (powers of the High Court on referral of release decision) is amended in accordance with subsections (2) to (4).
+
+(2) In subsection (1), after “section 32ZAA,” insert “and unless subsection (2B) applies on the referral,”.
+
+(3) After subsection (2) insert—
+
+> (2A) Subsection (2B) applies on a referral of a prisoner’s case under section 32ZAA if, by virtue of section 31A(4F)(a), the Parole Board has directed the Secretary of State to release the prisoner unconditionally.
+>
+> (2B) The High Court—
+>
+> - (a) must, if satisfied that it is no longer necessary for the protection of the public that the prisoner should be confined, make an order requiring the Secretary of State to give effect to the Parole Board’s direction to release the prisoner unconditionally;
+> - (b) otherwise, must make an order quashing the Parole Board’s direction to release the prisoner unconditionally.
+
+(4) In subsection (3), after “(1)(b)” insert “or (2B)(b)”.
+
+(5) Section 32ZB of the Crime (Sentences) Act 1997 (release at direction of Parole Board: timing) is amended in accordance with subsections (6) and (7).
+
+(6) In subsection (1), after “32ZAC(1)(a)” insert “or (2B)(a)”.
+
+(7) In subsection (2), after “the need” insert “where the life prisoner is to be released on licence”.
+
+(8) The amendments made by this section do not affect the duty of the Secretary of State to release a prisoner whose release has been directed by the Parole Board before this section comes into force.
+
+## Annotations
+
+[^key-e437d2ef986aba97ab38c494a5334902]: Commencement: [S. 43](https://www.legislation.gov.uk/ukpga/2026/2/section/43) in force at 22.3.2026, see [s. 49(4)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/4)

@@ -1,0 +1,1082 @@
+---
+title: The Central Securities Depositories (Amendment) (EU Exit) Regulations 2018
+id: uksi/2018/1320
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised-with-pending-changes
+made_date: '2018-12-06'
+text_date: '2023-07-11'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2018/1320
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2018/1320/pdfs/uksiem_20181320_en.pdf
+- http://www.legislation.gov.uk/uksi/2018/1320/pdfs/uksi_20181320_en.pdf
+- http://www.legislation.gov.uk/uksi/2018/1320/data.pdf
+pending_changes: 1
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Central Securities Depositories (Amendment) (EU Exit) Regulations 2018
+
+> **Warning: changes not yet applied to this text (1).** Text as at 2023-07-11. See https://www.legislation.gov.uk/changes/affected/uksi/2018/1320
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2018 No. 1320
+
+Exiting The European Union
+
+Financial Services
+
+The Central Securities Depositories (Amendment) (EU Exit) Regulations 2018
+
+Made
+
+*6th December* 2018
+
+Coming into force in accordance with regulation 1(2) and (3)
+
+[^c23882331]The Treasury, in exercise of the powers conferred by section 8(1) of, and paragraph 21 of Schedule 7 to, the European Union (Withdrawal) Act 2018 , make the following Regulations.
+
+A draft of these Regulations has been laid before Parliament and approved by a resolution of each House of Parliament in accordance with paragraph 1(1) of Schedule 7 to the European Union (Withdrawal) Act 2018.[^key-dca11edfdc7fbd0d8d4453ff5ba8232e][^key-6c0724e84a5b52fbfe59cab2e59da540]
+
+## PART 1 — General
+
+### 1. Citation and commencement
+
+(1) These Regulations may be cited as the Central Securities Depositories (Amendment) (EU Exit) Regulations 2018.
+
+(2) This regulation and Part 5 come into force on the day after the day on which these Regulations are made.
+
+(3) The other provisions in these Regulations come into force on exit day.
+
+## PART 2 — Amendment of subordinate legislation
+
+### 2. Amendment of the Central Securities Depositories Regulations 2014[^key-fa706165b0161ab15970bd150a86944c]
+
+(1) The Central Securities Depositories Regulations 2014 [^c23882341] are amended as follows.
+
+(2) In regulation 1, in paragraph (2)—
+
+- (a) in the definition of “credit institution”, for “Article 8 of Directive 2013/36/EU of the European Parliament and of the Council of 26 June 2013 on access to the activity of credit institutions and the prudential supervision of credit institutions and investment firms” substitute “ Part 4A of the Act [^c23882351] ”;
+- (b) omit the definition of “EEA CSD”.
+
+(3) In regulation 2 [^c23882361]—
+
+- (a) in paragraph (1), for “Article 5 of the markets in financial instruments directive” substitute “ Part 4A of the Act ”;
+- (b) in paragraph (2)—
+  - (i) in sub-paragraph (a), omit “referred to in the first sub-paragraph of Article 11(1) of the CSD regulation”;
+  - (ii) in sub-paragraph (aa)—
+    - (aa) omit “host Member State”;
+    - (bb) omit “EEA CSDs and”;
+  - (iii) in sub-paragraph (b), omit “Article 12(1)(a) of”;
+- (c) omit paragraph (3).
+
+(4) In regulation 5L, in paragraph (1)—
+
+- (a) omit sub-paragraph (d);
+- (b) in sub-paragraph (h), for “CSD authorised in the Union” substitute “ CSD or third-country CSD ”;
+- (c) in sub-paragraph (j), after “CSD” insert “ or third-country CSD ”;
+- (d) in sub-paragraphs (k) and (l), for “55(5)” substitute “ 55(3) ”.
+
+(5) In regulation 5N, for “directly applicable EU regulation” substitute “ retained EU law ”.
+
+(6) In regulation 10, omit paragraph (2) [^c23882371].
+
+### 3. Amendment of the Central Securities Depositories Regulations 2017[^key-714093a04148968c3fb19848f165f832]
+
+(1) The Central Securities Depositories Regulations 2017 [^c23882381] are amended as follows.
+
+(2) In regulation 7—
+
+- (a) in paragraph (2)(a), for “directly applicable EU regulation” substitute “ retained EU law ”;
+- (b) in paragraph (5)(b), for “directly applicable EU regulation” substitute “ retained EU law ”.
+
+(3) In regulation 8—
+
+- (a) omit paragraph (2);
+- (b) in paragraph (3)—
+  - (i) for “an EEA State” substitute “ the United Kingdom ”;
+  - (ii) for “69(3)” substitute “ 69(1) ” each time it occurs;
+- (c) in paragraph (5), at the end, insert “ or which immediately before IP completion day[^key-2961b589f7eb05511e03344384b7a1ae] was authorised under Article 16 of the CSD regulation ”.
+
+## PART 3 — Amendment of retained direct EU legislation
+
+### 4. Introduction to amendments of Regulation (EU) No 909/2014[^key-8dbf945ae61c3964868ab73fa3e78d6e]
+
+Regulation (EU) No 909/2014 of the European Parliament and of the Council of 23 July 2014 on improving securities settlement in the European Union and on central securities depositories and amending Directives [98/26/EC](https://www.legislation.gov.uk/eudr/1998/26) and 2014/65/EU and Regulation (EU) No 236/2012 is amended in accordance with this Part.
+
+### 5. Subject matter and scope[^key-af46fac05b280f2d6d49ba11d1394766]
+
+In Article 1—
+
+- (a) in paragraph 1—
+  - (i) omit “uniform”;
+  - (ii) for “Union” substitute “ United Kingdom ”;
+- (b) omit paragraph 3;
+- (c) in paragraph 4—
+  - (i) omit “or relevant authorities”;
+  - (ii) for “members of the ESCB” substitute “ Bank of England ”;
+  - (iii) omit “, other Member States' national bodies performing similar functions,”;
+  - (iv) for “Union” substitute “ United Kingdom ”.
+
+### 6. Definitions[^key-36263f83d116febf9526d515a4063269]
+
+(1) Article 2 is amended as follows.
+
+(2) In paragraph 1—
+
+- (a) for point (1) substitute—
+
+  > (1) ‘central securities depository’ or ‘CSD’ means a legal person established in the United Kingdom that operates a securities settlement system referred to in point (3) of Section A of the Annex and provides at least one other core service listed in Section A of the Annex;
+
+  ;
+- (b) for point (3) substitute—
+
+  > (3) ‘immobilisation’ means the act of concentrating the location of physical securities in a CSD or third-country CSD in a way that enables subsequent transfers to be made by book entry;
+
+  ;
+- (c) in point (5), after “another CSD” insert “ or third-country CSD ”;
+- (d) for point (6) substitute—
+
+  > (6) ‘requesting CSD’ means the CSD or third-country CSD which requests access to the services of a CSD through a CSD link;
+
+  ;
+- (e) for points (8) to (10) substitute—
+
+  > (8) ‘financial instruments’ or ‘securities’ means financial instruments as specified in Part 1 of Schedule 2 to the Financial Services and Markets Act 2000 (Regulated Activities) Order 2001 [^c23882391];
+  >
+  > (9) ‘transfer order’ means a transfer order as defined in regulation 2(1) of the Financial Markets and Insolvency (Settlement Finality) Regulations 1999 [^c23882401] at paragraph (b) of the definition thereof;
+  >
+  > (10) ‘securities settlement system’ means a system in relation to which a designation order made under regulation 4 of the Financial Markets and Insolvency (Settlement Finality) Regulations 1999 [^c23882411] is in force that is not operated by a recognised clearing house whose activity consists of the execution of transfer orders;
+  >
+  > (10A) ‘SSS’ means a securities settlement system or a similar service operated by a CSD or third-country CSD;
+
+  ;
+- (f) in point (11) omit “, including one authorised in accordance with Directive 2013/36/EU or with Directive 2014/65/EU,”;
+- (g) for point (14) substitute—
+
+  > (14) ‘business day’ shall cover both day and night-time settlements and shall encompass all events happening during the business cycle of a securities settlement system;
+
+  ;
+- (h) after point (16) insert—
+
+  > (16A) ‘UK CCP’ means a recognised central counterparty as defined in section 285 of FSMA [^c23882421];
+
+  ;
+- (i) for point (17) substitute—
+
+  > (17) ‘competent authority’ means the authority designated by regulation 2 of the Central Securities Depositories Regulations 2014;
+
+  ;
+- (j) omit point (18);
+- (k) for point (19) substitute—
+
+  > (19) ‘participant’ means any participant as defined in regulation 2(1) of the Financial Markets and Insolvency (Settlement Finality) Regulations 1999 [^c23882431];
+
+  ;
+- (l) for points (21) and (22) substitute—
+
+  > (21) ‘control’ means the relationship between two undertakings as described in section 1162 of the Companies Act 2006 [^c23882441], together with Schedule 7 to that Act;
+  >
+  > (22) ‘subsidiary’ means a subsidiary undertaking within the meaning of section 1162 of the Companies Act 2006, together with Schedule 7 to that Act;
+
+  ;
+- (m) omit points (23) and (24);
+- (n) for point (25) substitute—
+
+  > (25) ‘branch’ means a place of business in the United Kingdom other than a head office which is a part of a CSD or third-country CSD which has no legal personality and which provides CSD services for which the CSD has been authorised or the third-country CSD has been recognised;
+
+  ;
+- (o) for point (26) substitute—
+
+  > (26) ‘default’ in relation to a participant means a situation where insolvency proceedings within the meaning of regulation 2(1) of the Financial Markets and Insolvency (Settlement Finality) Regulations 1999 are opened against that participant;
+
+  ;
+- (p) for points (29) to (33) substitute—
+
+  > (29) ‘CSD link’ means an arrangement between CSDs or third-country CSDs whereby a CSD or third-country CSD becomes a participant in the SSS of a CSD or third-country CSD in order to facilitate the transfer of securities from the participants of the latter CSD or third-country CSD to the participants of the former CSD or third-country CSD or an arrangement whereby a CSD or third-country CSD accesses a CSD or third-country CSD indirectly via an intermediary. CSD links include standard links, customised links, indirect links, and interoperable links;
+  >
+  > (30) ‘standard link’ means a CSD link whereby a CSD or third-country CSD becomes a participant in the SSS of a CSD or third-country CSD under the same terms and conditions as applicable to any other participant in the SSS operated by the latter;
+  >
+  > (31) ‘customised link’ means a CSD link whereby a CSD or third-country CSD that becomes a participant in the SSS of a CSD or third-country CSD is provided with additional specific services to the services normally provided by that CSD or third-country CSD to participants in the SSS;
+  >
+  > (32) ‘indirect link’ means an arrangement between a CSD or third-country CSD and a third party other than a CSD or third-country CSD, that is a participant in the SSS of a CSD or third-country CSD. Such a link is set up by a CSD or third-country CSD in order to facilitate the transfer of securities to its participants from the participants of another CSD or third-country CSD;
+  >
+  > (33) ‘interoperable link’ means a CSD link whereby CSDs or third-country CSDs agree to establish mutual technical solutions for settlement in the SSS that they operate;
+
+  ;
+- (q) for point (35) substitute—
+
+  > (35) ‘transferable securities’ has the meaning in point (24) of Article 2(1) of Regulation EU (No) 600/2014/EU [^c23882451];
+
+  ;
+- (r) omit point (36);
+- (s) for points (37) to (43) substitute—
+
+  > (37) ‘money-market instruments’ has the meaning in point (25A) of Article 2(1) of Regulation (EU) No 600/2014;
+  >
+  > (38) ‘units in collective investment undertakings’ has the meaning in paragraph 3 of Part 1 of Schedule 2 to the Financial Services and Markets Act 2000 (Regulated Activities) Order 2001;
+  >
+  > (39) ‘emission allowance’ has the meaning in paragraph 11 of Part 1 of Schedule 2 to the Financial Services and Markets Act 2000 (Regulated Activities) Order 2001, excluding derivatives in emission allowances;
+  >
+  > (40) ‘regulated market’ has the meaning in point (13) of Article 2(1) of Regulation (EU) No 600/2014;
+  >
+  > (41) ‘multilateral trading facility’ or ‘MTF’ has the meaning in point (14) of Article 2(1) of Regulation (EU) No 600/2014;
+  >
+  > (42) ‘trading venue’ has the meaning in point (16) of Article 2(1) of Regulation (EU) No 600/2014;
+  >
+  > (42A) ‘UK trading venue’ has the meaning in point (16A) of Article 2(1) of Regulation (EU) No 600/2014;
+  >
+  > (43) ‘settlement agent’ means settlement agent as defined in regulation 2(1) of the Financial Markets and Insolvency (Settlement Finality) Regulations 1999 [^c23882461];
+
+  ;
+- (t) omit point (44);
+- (u) in point (45)—
+  - (i) for “national law” substitute “ the law applicable within the United Kingdom or any part of the United Kingdom ” each time it occurs;
+  - (ii) omit “the applicable”;
+- (v) after point (46), insert—
+
+  > (47) ‘financial collateral arrangement’ means a financial collateral arrangement as defined in regulation 3(1) of the Financial Collateral Arrangements (No.2) Regulations 2003 [^c23882471];
+  >
+  > (48) ‘FCA’ means the Financial Conduct Authority;
+  >
+  > (49) ‘PRA’ means the Prudential Regulation Authority;
+  >
+  > (50) ‘recognised clearing house’ means a recognised clearing house as defined in section 285(1)(b) of FSMA [^c23882481];
+  >
+  > (51) ‘FSMA’ means the Financial Services and Markets Act 2000 [^c23882491];
+  >
+  > (52) ‘Directive 2013/36/EU UK law’ has the meaning in Article 4(A)(1) of Regulation (EU) No 575/2013 [^c23882501];
+  >
+  > (53)  references to a ‘third country’ (including in expressions including the words “third country”) are to be read as references to a country other than the United Kingdom;
+  >
+  > (54) references to ‘the UK law on markets in financial instruments’ are to the law applicable within the United Kingdom or any part of the United Kingdom which was relied on immediately before IP completion day[^key-cbd20f7dc16b557bb607f99dc10ebb49] to implement Directive 2014/65/EU and its implementing measures—
+  >
+  > - (a) as they have effect on IP completion day, in the case of rules made by the FCA or by the PRA under FSMA, and
+  > - (b) as amended from time to time, in all other cases;
+  >
+  > (55) references to “data protection legislation” have the meaning in the Data Protection Act 2018 [^c23882511].
+
+  .
+
+(3) In paragraph 2, for “The Commission shall be empowered to adopt delegated acts in accordance with Article 67 concerning” substitute “ The Treasury may by regulations specify ”.
+
+### 7. Securities settlement[^key-6f93b8ecf36155133a2153d414b2c6fc]
+
+(1) In Article 3, in paragraph 2—
+
+- (a) for “trading venue” substitute “ UK trading venue ”;
+- (b) after “CSD” insert “ or third-country CSD ” each time it occurs;
+- (c) omit “as defined in point (a) of Article 2(1) of Directive [2002/47/EC](https://www.legislation.gov.uk/eudr/2002/47)”.
+
+(2) In Article 4—
+
+- (a) omit paragraph 1;
+- (b) for paragraphs 2 and 3 substitute—
+
+  > **2.**
+  >
+  > The competent authority shall ensure that the first sub-paragraph of Article 3(2) of this Regulation is applied where transferable securities are admitted to trading or traded on UK trading venues.
+  >
+  > **3.**
+  >
+  > The competent authority shall ensure that the second sub-paragraph of Article 3(2) of this Regulation is applied where transferable securities admitted to trading or traded on UK trading venues are transferred following a financial collateral arrangement.
+
+  .
+
+### 8.[^key-771450257af65f589f549197e368119d]
+
+In Article 5—
+
+- (a) in paragraph 2, for “trading venues” and “a trading venue” substitute “a UK trading venue” each time they occur;
+- (b) in paragraph 3—
+  - (i) in the first sub-paragraph, for “authorities” substitute “authority”;
+  - (ii) in the second sub-paragraph, for “authorities competent[^key-95ebdaa75a2d83227fc92ccad5c9ca9f]” substitute “competent authority”.
+
+### 9.[^key-70d7c3523f0c543742b419b6d3339dfc]
+
+(1) In Article 6, omit paragraph 5.
+
+(2) In Article 7, omit paragraphs 14 and 15.
+
+(3) Omit Article 8.
+
+### 10.[^key-989cb5a75459d188358d7df60fac0e5a]
+
+In Article 9—
+
+- (a) in paragraph 1—
+  - (i) in the first sub-paragraph, for “competent authorities of their place of establishment” substitute “ competent authority ”;
+  - (ii) omit the second sub-paragraph;
+- (b) in paragraph 2—
+  - (i) in the first sub-paragraph, for the words from the beginning to “develop draft” substitute “ The Bank of England may make ”;
+  - (ii) omit the second sub-paragraph;
+- (c) in paragraph 3—
+  - (i) for “ESMA shall develop draft” substitute “ The Bank of England may make ”;
+  - (ii) omit the second and third sub-paragraphs.
+
+### 11. Central securities depositories[^key-6520843805f64abdfa90107d19ade27a]
+
+(1) In Article 10—
+
+- (a) omit “Without prejudice to the oversight by the members of the ESCB referred to in Article 12(1),”;
+- (b) omit “of its home Member State”.
+
+(2) Omit Articles 11 and 12.
+
+(3) In Article 13—
+
+- (a) omit paragraph 1;
+- (b) in paragraph 2, omit “, relevant authorities, ESMA”.
+
+(4) Omit Articles 14 and 15.
+
+(5) In Article 16, in paragraph 1, omit “of the Member State where it is established”.
+
+(6) In Article 17—
+
+- (a) in paragraph 1, for “its” substitute “ the ”;
+- (b) omit paragraphs 4 to 7;
+- (c) in paragraph 9—
+  - (i) in the first sub-paragraph, for the words from the beginning to “develop draft” substitute “ The Bank of England may make ”;
+  - (ii) omit the second and third sub-paragraphs;
+- (d) in paragraph 10—
+  - (i) in the first sub-paragraph, for the words from the beginning to “develop draft” substitute “ The Bank of England may make ”;
+  - (ii) omit the second and third sub-paragraphs.
+
+(7) In Article 18—
+
+- (a) for paragraph 2, substitute—
+
+  > **2.**
+  >
+  > Securities settlements systems governed by the law applicable within the United Kingdom or any part of the United Kingdom may be operated only by authorised CSDs, the Bank of England (or other public bodies charged with or intervening in the management of public debt in the United Kingdom) acting as a CSD and third-country CSDs that are recognised in accordance with Article 25.
+
+  ;
+- (b) in paragraph 4—
+  - (i) in the first sub-paragraph—
+    - (aa) for the words from the beginning to “develop draft” substitute “ The Bank of England may make ”;
+    - (bb) for “competent authorities” substitute “ competent authority ”;
+  - (ii) omit the second and third sub-paragraphs.
+
+(8) In Article 19—
+
+- (a) in paragraph 1, omit “of its home Member State”;
+- (b) in paragraph 3—
+  - (i) omit “established in the Union”;
+  - (ii) for “their respective competent authorities” substitute “ the competent authority ”;
+  - (iii) omit the second and third sentences;
+- (c) in paragraph 4, for “authorities”, substitute “ authority ”;
+- (d) in paragraph 5—
+  - (i) for “CSDs' competent and relevant authorities” substitute “ competent authority ”;
+  - (ii) for “such authorities” substitute “ the competent authority ”;
+- (e) in paragraph 6—
+  - (i) omit “established and authorised in the Union”;
+  - (ii) omit “requesting”;
+- (f) in paragraph 7—
+  - (i) omit “of the requesting CSD”;
+  - (ii) for “that CSD” substitute “ a CSD ”;
+  - (iii) omit the final sentence.
+
+(9) In Article 20—
+
+- (a) in paragraph 1—
+  - (i) omit “of the home Member State”;
+  - (ii) in sub-paragraph (d), for “in Directive 2014/65/EU” substitute “ in the UK law on markets in financial instruments ”;
+- (b) omit the second and third paragraphs;
+- (c) in paragraph 5, after “another CSD” insert “ or third-country CSD ”.
+
+(10) In Article 21—
+
+- (a) omit the first and second paragraphs;
+- (b) in paragraph 3—
+  - (i) in the first sentence, after “CSD” insert “ or third-country CSD ” each time it occurs;
+  - (ii) in the second sentence—
+    - (aa) omit “branches operated by the CSD in other Member States,”;
+    - (bb) omit “and the information required under Article 31 where Member States have made use of the possibility provided for in that Article”;
+  - (iii) in the third sentence, for “ESMA” substitute “ The competent authority ”.
+
+### 12.[^key-edc7f0ff38661b68c8bd94bd6e37f773]
+
+(1) In Article 22—
+
+- (a) in paragraph 3, for “Directive 2014/59/EU” substitute “ the Bank Recovery and Resolution (No.2) Order 2014 [^c23882521] ”;
+- (b) omit paragraphs 6 to 8;
+- (c) in paragraph 10—
+  - (i) in the first sub-paragraph—
+    - (aa) for the words from the beginning to “develop draft” substitute “ The Bank of England may make ”;
+    - (bb) omit points (b) and (c);
+  - (ii) omit the second and third sub-paragraphs;
+- (d) in paragraph 11—
+  - (i) in the first sub-paragraph, for the words from the beginning to “develop draft” substitute “ The Bank of England may make ”;
+  - (ii) omit the second and third sub-paragraphs.
+
+(2) Omit Articles 23 and 24.
+
+### 13.[^key-b23b177344a09485ff05132c123a22ac]
+
+In Article 25—
+
+- (a) in paragraph 1, for “territory of the Union” substitute “ United Kingdom ”;
+- (b) for paragraph 2, substitute—
+
+  > **2.**
+  >
+  > Notwithstanding paragraph 1, a third-country CSD that intends to provide the core services referred to in points (1) and (2) of Section A of the Annex in relation to financial instruments constituted under the law applicable within the United Kingdom or any part of the United Kingdom or to set up a branch in the United Kingdom is subject to the procedure referred to in paragraphs 4 to 11 of this Article.
+
+  ;
+- (c) in paragraph 3, omit “established and authorised in the Union”;
+- (d) in paragraph 4—
+  - (i) for “ESMA” substitute “ the competent authority ” each time it occurs;
+  - (ii) in point (a), for “the Commission has adopted a decision” substitute “ the Treasury has made regulations ”;
+  - (iii) for point (d), substitute—
+
+    > - (d) where relevant, the third-country CSD takes the necessary measures to allow its users to comply with the relevant law applicable within the United Kingdom or any part of the United Kingdom and the adequacy of those measures has been confirmed by the competent authority.
+
+    ;
+- (e) in paragraph 5—
+  - (i) for “ESMA” substitute “ the competent authority ”;
+  - (ii) omit points (a) and (b);
+  - (iii) in point (c), before “CSDs” insert “ third-country ”;
+- (f) in paragraph 6—
+  - (i) for “applicant CSD” substitute “ applicant third-country CSD ” each time it occurs;
+  - (ii) for “ESMA”, substitute “ the competent authority ” each time it occurs;
+  - (iii) omit the third sub-paragraph;
+  - (iv) at the end, insert new sub-paragraphs as follows—
+
+    > Recognition under this Article must be granted only for services listed in the Annex and the decision granting recognition must specify the services which the third-country CSD is recognised to provide or perform.
+    >
+    > The applicant third-country CSD must, without undue delay, notify the competent authority of any material changes affecting the condition for recognition in point (b) of paragraph 4.
+
+    ;
+- (g) after paragraph 6 insert—
+
+  > **6A.**
+  >
+  > A third-country CSD recognised under paragraph 4 must, without undue delay, notify the competent authority of any material changes affecting the condition for recognition in point (b) of paragraph 4.
+
+  ;
+- (h) in paragraph 7—
+  - (i) for the introductory words, substitute:
+
+    > Where the third-country CSD, duly recognised under paragraph 4, provides CSD services in the United Kingdom, the competent authority may request the responsible third country authorities to:
+
+    ;
+  - (ii) in point (a), for “those host Member States” substitute “ the United Kingdom ”;
+  - (iii) in point (b)—
+    - (aa) for “that host Member State”, substitute “ the United Kingdom ”;
+    - (bb) for “the host Member State”, substitute “ the United Kingdom ”;
+- (i) in paragraph 8—
+  - (i) for “ESMA”, substitute “ The competent authority ” each time it occurs;
+  - (ii) for “that CSD” substitute “ the third-country CSD ” each time it occurs;
+  - (iii) for “Union”, substitute “ United Kingdom ”;
+  - (iv) at the end insert a new sub-paragraph as follows—
+
+    > The competent authority may—
+    >
+    > - (a) limit the withdrawal to a particular service; and
+    > - (b) direct that the withdrawal is to have effect subject to such transitional arrangements as the competent authority considers necessary or expedient.
+
+    ;
+- (j) in paragraph 9—
+  - (i) for the first sub-paragraph substitute—
+
+    > **9.**
+    >
+    > The Treasury may by regulations specify a third country which, in the opinion of the Treasury, has legal and supervisory arrangements which ensure that third-country CSDs authorised in that third country comply with legally binding requirements which are in effect equivalent to the requirements laid down in this Regulation, that those third-country CSDs are subject to effective supervision, oversight and enforcement in that third country on an ongoing basis and that the legal framework of that third country provides for an effective equivalent system for the recognition of third-country CSDs authorised under third country legal regimes and CSDs authorised under the law applicable in the United Kingdom[^key-1009cbe42a54e79decf7c8f45a801908].
+
+    ;
+  - (ii) in the second sub-paragraph, for “Commission” substitute “ Treasury ”;
+- (k) in paragraph 10—
+  - (i) in the introductory words in the first sub-paragraph—
+    - (aa) omit “In accordance with Article 33(1) of Regulation (EU) No 1095/2010,”;
+    - (bb) for “ESMA” substitute “ The competent authority ”;
+  - (ii) in point (a)—
+    - (aa) for “ESMA” substitute “ the competent authority ” each time it occurs;
+    - (bb) omit “, the competent authorities of the host Member State”;
+    - (cc) before “CSDs” insert “ third-country ”;
+  - (iii) in point (b)—
+    - (aa) for “ESMA”, substitute “ the competent authority ”;
+    - (bb) before “CSD” insert “ third-country ”;
+  - (iv) in the second sub-paragraph—
+    - (aa) for “Member State”, substitute “ public authority of the United Kingdom ”;
+    - (bb) for “Directive [95/46/EC](https://www.legislation.gov.uk/eudr/1995/46)” substitute “ data protection legislation ”;
+    - (cc) omit “and where a cooperation agreement provides for transfers of personal data by ESMA, such transfers shall comply with the provisions of Regulation (EU) No 45/2001”;
+- (l) in paragraph 11 for “territory of the Union”, substitute “ United Kingdom ”;
+- (m) in paragraph 12—
+  - (i) in the first sub-paragraph—
+    - (aa) for the words from the beginning to “develop draft” substitute “ The Bank of England may make ”;
+    - (bb) for “applicant CSD” substitute “ applicant third-country CSD ”;
+    - (cc) for “ESMA” substitute “ the competent authority ”;
+  - (ii) omit the second and third sub-paragraphs.
+
+### 14.[^key-9698d34bc266e3e897db61a536aedd05]
+
+(1) In Article 26—
+
+- (a) in paragraph 7, after “other CSDs” insert “ , third-country CSDs ”;
+- (b) in paragraph 8—
+  - (i) in the first sub-paragraph, for the words from the beginning to “develop draft” substitute “ The Bank of England may make ”;
+  - (ii) omit the second and third sub-paragraphs.
+
+(2) In Article 27—
+
+- (a) in paragraph 5, for “national law” substitute “ law applicable within the United Kingdom or of any part of the United Kingdom ”;
+- (b) in paragraph 7, in point (b), for “its competent authority” in each place it occurs, substitute “ the competent authority ”.
+
+(3) In Article 28, in paragraph 5, for “competent authorities” substitute “ the competent authority ”.
+
+(4) In Article 29—
+
+- (a) in paragraph 2;
+  - (i) omit “and the relevant authorities”;
+  - (ii) for “Union law or national law of its home Member State” substitute “ the law applicable within the United Kingdom or of any part of the United Kingdom ”;
+- (b) in paragraph 3—
+  - (i) in the first sub-paragraph, for the words from the beginning to “develop draft” substitute “ The Bank of England may make ”;
+  - (ii) omit the second and third sub-paragraphs;
+- (c) in paragraph 4—
+  - (i) in the first sub-paragraph, for the words from the beginning to “develop draft” substitute “ The Bank of England may make ”;
+  - (ii) omit the second and third sub-paragraphs.
+
+(5) In Article 30—
+
+- (a) in paragraph 1—
+  - (i) in point (h), omit “and the relevant authorities”;
+  - (ii) in point (i), for “Union” substitute “ United Kingdom ”;
+- (b) in paragraph 3, omit “and the relevant authorities”;
+- (c) in paragraph 5, for “authorities” substitute “ authority ”.
+
+(6) Omit Article 31.
+
+### 15.[^key-3879b30cc40c32ac25104b4ae5c7b04d]
+
+(1) In Article 33—
+
+- (a) in paragraph 3—
+  - (i) in the third sub-paragraph, for “That” substitute “ The ”;
+  - (ii) omit the fourth sub-paragraph;
+- (b) in paragraph 5—
+  - (i) in the first sub-paragraph—
+    - (aa) for the words from the beginning to “develop draft” substitute “ The Bank of England may make ”;
+    - (bb) for “competent authorities” substitute “ the competent authority ”;
+  - (ii) omit the second and third sub-paragraphs;
+- (c) in paragraph 6—
+  - (i) in the first sub-paragraph, for the words from the beginning to “develop draft” substitute “ The Bank of England may make ”;
+  - (ii) omit the second and third sub-paragraphs.
+
+(2) In Article 34, in paragraph 8, for “Union” substitute “ United Kingdom ”.
+
+### 16.[^key-6aa002fd885eb7aaa78c45b347af9dcd]
+
+(1) In Article 37—
+
+- (a) in paragraph 2, after “other CSDs” insert “ , third-country CSDs ”;
+- (b) in paragraph 4—
+  - (i) in the first sub-paragraph, for the words from the beginning to “develop draft” substitute “ The Bank of England may make ”;
+  - (ii) omit the second and third sub-paragraphs.
+
+(2) In Article 38, in paragraph 5, omit the second sub-paragraph.
+
+(3) In Article 39—
+
+- (a) in paragraph 1—
+  - (i) for “Member States” substitute “ The competent authority ”;
+  - (ii) for “point (a) of Article 2 of Directive [98/26/EC](https://www.legislation.gov.uk/eudr/1998/26)” substitute “ regulation 4 of the Financial Markets and Insolvency (Settlement Finality) Regulations 1999 ”;
+- (b) in paragraph 2, for “Articles 3 and 5 of Directive [98/26/EC](https://www.legislation.gov.uk/eudr/1998/26)” substitute “ regulation 20 of, and paragraph 5 of the Schedule to, the Financial Markets and Insolvency (Settlement Finality) Regulations 1999 [^c23882531] ”.
+
+(4) In Article 41, omit paragraph 4.
+
+### 17.[^key-5aead5af5ed72c4a951acc677849a01c]
+
+(1) In Article 45—
+
+- (a) in paragraph 6—
+  - (i) in the first sub-paragraph, for “competent and relevant authorities” substitute “ the competent authority ”;
+  - (ii) in the second sub-paragraph, omit “and relevant authorities”;
+- (b) in paragraph 7—
+  - (i) in the first sub-paragraph, for the words from the beginning to “develop draft” substitute “ The Bank of England may make ”;
+  - (ii) omit the second and third sub-paragraphs.
+
+(2) In Article 46—
+
+- (a) for paragraph 1, substitute—
+
+  > **1.**
+  >
+  > A CSD must hold its financial assets at any one or more of the following kinds of institution:
+  >
+  > - (a) central banks;
+  > - (b) credit institutions with permission to accept deposits under Part 4A of FSMA [^c23882541];
+  > - (c) CSDs and third-country CSDs recognised by the competent authority;
+  > - (d) third-country financial institutions that are subject to and comply with asset protection and prudential rules considered by the competent authority to be at least as stringent as those laid down in Directive 2013/36/EU UK law and Regulation (EU) No 575/2013, and which the CSD assesses as having—
+  >   - (i) robust accounting practices;
+  >   - (ii) safekeeping procedures;
+  >   - (iii) internal controls which ensure the full protection of those financial assets; and
+  >   - (iv) low credit risk based upon an internal assessment by the CSD; or
+  > - (e) third-country CSDs which comply with asset protection rules considered by the competent authority to be at least as stringent as those laid down in this Regulation, and which the CSD assesses as having—
+  >   - (i) robust accounting practices;
+  >   - (ii) safekeeping procedures; and
+  >   - (iii) internal controls which ensure the full protection of those financial assets.
+
+  ;
+- (b) in paragraph 5, for “authorised credit institution or authorised CSD” substitute “ institution of a kind referred to in paragraphs 1(b) to 1(e) ”;
+- (c) in paragraph 6—
+  - (i) in the first sub-paragraph, for the words from the beginning to “develop draft” substitute “ The Bank of England may make ”;
+  - (ii) omit the second and third sub-paragraphs.
+
+(3) In Article 47—
+
+- (a) in paragraph 3, in the first sub-paragraph, for the words from the beginning to “develop draft” substitute “ The Bank of England may make ”;
+- (b) omit the second and third sub-paragraphs.
+
+### 18.[^key-e8d288eb019fb363320c9767bd751d3d]
+
+In Article 48—
+
+- (a) in paragraph 2—
+  - (i) omit “of the requesting CSD” each time it occurs;
+  - (ii) for “and relevant authorities” substitute “ authority ”;
+- (b) in paragraph 5, after “another CSD” insert “ or third-country CSD ”;
+- (c) in paragraph 7—
+  - (i) after “Links between CSDs” insert “ and links between CSDs and third-country CSDs ”;
+  - (ii) for “relevant and competent authorities” substitute “ competent authority ”;
+- (d) in paragraph 9—
+  - (i) after “between CSDs” insert “ and links between CSDs and third-country CSDs ”;
+  - (ii) for “Member States”, substitute “ the United Kingdom ”;
+- (e) in paragraph 10—
+  - (i) in the first sub-paragraph, for the words from the beginning to “develop draft” substitute “ The Bank of England may make ”;
+  - (ii) omit the second and third sub-paragraphs.
+
+### 19.[^key-cb0d8b1b58a6f3b724874ab65b7943e0]
+
+(1) In the sub-heading for Section 1, after “CSDs” insert “ or third-country CSDs ”.
+
+(2) In Article 49—
+
+- (a) in the heading, for “authorised in the Union” substitute “ or third-country CSD ”;
+- (b) for paragraph 1 substitute—
+
+  > **1.**
+  >
+  > A UK issuer shall have the right to arrange for its securities admitted to trading on regulated markets or MTFs or traded on trading venues to be recorded in any CSD or third-country CSD recognised by the competent authority.
+  >
+  > **1A.**
+  >
+  > A third-country issuer shall have the right to arrange for its securities admitted to trading on regulated markets or MTFs or traded on trading venues to be recorded in any CSD.
+  >
+  > **1B.**
+  >
+  > Without prejudice to the UK issuer or third-country issuer's rights referred to in paragraphs 1 and 1A, the corporate or similar law of the country or territory under which the securities are constituted shall continue to apply.
+  >
+  > **1C.**
+  >
+  > The CSD or third-country CSD recognised by the competent authority may charge a reasonable commercial fee for the provision of its services to issuers on a cost-plus basis, unless otherwise agreed by both parties.
+
+  ;
+- (c) in paragraph 2—
+  - (i) after “CSD” insert “ or third-country CSD referred to in paragraphs 1 or 1A ”;
+  - (ii) for “latter” substitute “ CSD or third-country CSD ”;
+- (d) in paragraph 3—
+  - (i) after “CSD” insert “ or third-country CSD referred to in paragraphs 1 or 1A ” each time it occurs;
+  - (ii) for “Member State” substitute “ country or territory ”;
+- (e) in paragraph 4—
+  - (i) in the first sub-paragraph—
+    - (aa) for “Directive [2005/60/EC](https://www.legislation.gov.uk/eudr/2005/60) of the European Parliament and of the Council and Commission Directive [2006/70/EC](https://www.legislation.gov.uk/eudr/2006/70)” substitute “ the Money Laundering, Terrorist Financing and Transfer of Funds (Information on the Payer) Regulations 2017 [^c23882551] ”;
+    - (bb) after “CSD” insert “ or third-country CSD referred to in paragraphs 1 or 1A ”;
+  - (ii) in the second sub-paragraph, omit “of the CSD that refuses to provide its services”;
+  - (iii) in the third sub-paragraph, omit “of that CSD”;
+  - (iv) omit the fourth sub-paragraph;
+- (f) in paragraph 5—
+  - (i) in the first sub-paragraph, for the words from the beginning to “develop draft” substitute “ The Bank of England may make ”;
+  - (ii) for “competent authorities” substitute “ the competent authority ”;
+  - (iii) omit the second and third sub-paragraphs;
+- (g) in paragraph 6—
+  - (i) in the first sub-paragraph, for the words from the beginning to “develop draft” substitute “ The Bank of England may make ”;
+  - (ii) omit the second and third sub-paragraphs.
+
+(3) In the sub-heading for Section 2, after “Access between CSDs” insert “ and between CSDs and third-country CSDs ”.
+
+(4) For Article 50 substitute—
+
+> **Article 50 — Standard link access**
+>
+> A CSD or third-country CSD shall have the right to become a participant of a CSD and set up a standard link with that CSD in accordance with Article 33 and subject to the prior notification of the CSD link provided under Article 19(5).
+
+.
+
+(5) In Article 51, in paragraph 1—
+
+- (a) after “Where a CSD” insert “ or third-country CSD ”;
+- (b) for “another” substitute “ a ”.
+
+(6) In Article 52—
+
+- (a) in paragraph 1, for “CSD submits a request for access to another CSD” substitute “ CSD or third-country CSD submits a request for access to a CSD ”;
+- (b) in paragraph 2, omit the fifth sub-paragraph;
+- (c) in paragraph 3—
+  - (i) in the first sub-paragraph, for the words from the beginning to “develop draft” substitute “ The Bank of England may make ”;
+  - (ii) for “competent authorities” substitute “ the competent authority ”;
+  - (iii) omit the second and third sub-paragraphs;
+- (d) in paragraph 4—
+  - (i) in the first sub-paragraph, for the words from the beginning to “develop draft” substitute “ The Bank of England may make ”;
+  - (ii) omit the second and third sub-paragraphs.
+
+(7) In the sub-heading for Section 3, after “CSD” insert “ or third-country CSD ”;
+
+(8) In Article 53—
+
+- (a) in the heading, after “CSD” insert “ or third-country CSD ”;
+- (b) in paragraph 1, for the first sub-paragraph substitute—
+
+  > A UK CCP and a UK trading venue shall provide transaction feeds on a non-discriminatory and transparent basis to a CSD or third-country CSD upon request by the CSD or third-country CSD and may charge a reasonable commercial fee for such transaction feeds to the CSD or third-country CSD on a cost-plus basis unless otherwise agreed by both parties.
+
+  ;
+- (c) in paragraph 3—
+  - (i) in the second sub-paragraph, omit “of the party that has refused access”;
+  - (ii) in the third sub-paragraph, omit “of the receiving party and the relevant authority referred to in point (a) of Article 12(1)”;
+  - (iii) omit the fourth sub-paragraph;
+  - (iv) in the fifth sub-paragraph, omit “responsible”;
+- (d) in paragraph 4—
+  - (i) in the first sub-paragraph—
+    - (aa) for the words from the beginning to “develop draft” substitute “ The relevant authority may make ”;
+    - (bb) for “competent authorities” substitute “ the relevant authority ”;
+  - (ii) omit the second and third sub-paragraphs;
+- (e) in paragraph 5—
+  - (i) in the first sub-paragraph, for the words from the beginning to “develop draft” substitute “ The relevant authority may make ”;
+  - (ii) omit the second and third sub-paragraphs;
+- (f) after paragraph 5 insert—
+
+  > **6.**
+  >
+  > For the purposes of paragraphs 4 and 5, “**the relevant authority**” means—
+  >
+  > - (a) the Bank of England in the case of requests made to CSDs and UK CCPs;
+  > - (b) the FCA in the case of requests made to UK trading venues.
+
+### 20. Provision of banking-type ancillary services for CSD participants[^key-d05677eec28339ddb877b343f0cda385]
+
+(1) In Article 54—
+
+- (a) in paragraph 2, in point (b) for “authorised in accordance with Article 8 of Directive 2013/36/EU” substitute “ with permission to accept deposits under Part 4A of FSMA ”;
+- (b) in paragraph 3—
+  - (i) in point (a) for “authorised as a credit institution as provided for in Article 8 of Directive 2013/36/EU” substitute “ permitted under Part 4A of FSMA to carry on any regulated activity which is carried on for the purposes of, or in connection with, such services ”;
+  - (ii) in the final sub-paragraph, after “Directive 2013/36/EU” insert “ UK law ”;
+- (c) in paragraph 4, in point (a) for “authorised as a credit institution as provided for in Article 8 of Directive 2013/36/EU” substitute “ permitted to accept deposits under Part 4A of FSMA ”;
+- (d) in paragraph 5, in the second sub-paragraph, omit “and report its findings to ESMA”;
+- (e) in paragraph 8—
+  - (i) in the first sub-paragraph, for the words from the beginning to “develop draft” substitute “ The PRA may make ”;
+  - (ii) omit the second and third sub-paragraphs.
+
+(2) In Article 55—
+
+- (a) in paragraph 1, omit “of its home Member State”;
+- (b) omit paragraphs 4, 5 and 6;
+- (c) in paragraph 7—
+  - (i) in the first sub-paragraph, for the words from the beginning to “develop draft” substitute “ The Bank of England may make ”;
+  - (ii) omit the second and third sub-paragraphs;
+- (d) omit paragraph 8.
+
+(3) In Article 56, omit “of its home Member State”.
+
+(4) In Article 57—
+
+- (a) in paragraph 1, omit “of the CSD's home Member State”;
+- (b) omit paragraphs 2 and 3.
+
+(5) In Article 58—
+
+- (a) omit paragraph 1;
+- (b) in paragraph 2, for “ESMA” substitute “ The competent authority ”;
+- (c) omit paragraph 3.
+
+(6) In Article 59—
+
+- (a) in paragraph 4, in point (h)—
+  - (i) for “central bank” substitute “ Bank of England ” each time it occurs;
+  - (ii) omit “Union” each time it occurs;
+  - (iii) before “cash balances” insert “ sterling ”;
+  - (iv) for “central banks of issue” substitute “ the Bank of England ”;
+- (b) in paragraph 5—
+  - (i) in the first sub-paragraph, for the words from the beginning to “develop draft” substitute “ The PRA may make ”;
+  - (ii) omit the second and third sub-paragraphs.
+
+(7) In Article 60—
+
+- (a) in paragraph 1, in the third sub-paragraph, omit “which shall then inform the authorities referred to in Article 55(4),”;
+- (b) in paragraph 2, omit the second sub-paragraph;
+- (c) omit paragraph 3.
+
+### 21. Sanctions[^key-a648f15166b94e7be278b28ea1fc6036]
+
+(1) Omit Article 61.
+
+(2) In Article 62—
+
+- (a) in paragraph 1—
+  - (aa) in the first sub-paragraph, for “Member States shall ensure that the competent authorities publish on their official websites” substitute “ The competent authority must publish on its official website ”;
+  - (bb) in the second sub-paragraph, for “competent authorities shall, without undue delay, also publish on their official websites” substitute “ the competent authority must, without undue delay, publish on its official website ”;
+  - (cc) in the third sub-paragraph, for “Member States shall ensure that competent authorities” substitute “ the competent authority must ”;
+  - (dd) omit the fifth sub-paragraph;
+- (b) in paragraph 2—
+  - (aa) for “Competent authorities” substitute “ The competent authority ”;
+  - (bb) for “their” substitute “ its ”.
+
+(3) Omit Article 63.
+
+(4) In Article 64—
+
+- (a) omit “Member States shall ensure that,”;
+- (b) for “authorities” substitute “ authority ”;
+- (c) before “take”, insert “ must ”.
+
+(5) In Article 65—
+
+- (a) in paragraph 1, for “Member States shall ensure that competent authorities establish” substitute “ The competent authority must establish ”;
+- (b) in paragraph 2, for “Directive [95/46/EC](https://www.legislation.gov.uk/eudr/1995/46)” substitute “ data protection legislation ”;
+- (c) in paragraph 3, for “Member States” substitute “ The competent authority ”.
+
+(6) In Article 66, for “Member States”, substitute “ The competent authority ”.
+
+### 22. Delegation of Power, Implementing Powers, Transitional, Amending and Final Provisions[^key-704b4541afee51329a1affa540374f1c]
+
+(1) For the heading for Title VI, substitute “ Regulations, Transitional and Final Provisions ”.
+
+(2) For Article 67 substitute—
+
+> **Article 67 — Regulations**
+>
+> **1.**
+>
+> Any power to make regulations conferred on the Treasury by this Regulation is exercisable by statutory instrument.
+>
+> **2.**
+>
+> Such regulations may—
+>
+> - (a) contain incidental, supplemental, consequential and transitional provision; and
+> - (b) make different provision for different purposes.
+>
+> **3.**
+>
+> A statutory instrument containing regulations made under this Regulation is subject to annulment in pursuance of a resolution of either House of Parliament.
+
+.
+
+(3) Omit Article 68.
+
+(4) For Article 69 substitute—
+
+> **Article 69 — Transitional Provisions**
+>
+> **1.**
+>
+> six months of regulations being made under Article 25(9) specifying a third country, a third-country CSD established in the third-country must apply for recognition where it intends to provide services on the basis of Article 25.
+>
+> **2.**
+>
+> The law of the United Kingdom or any part of the United Kingdom relating to the recognition of third-country CSDs, which applied prior to the coming into force of this Regulation, continues to apply to a qualifying third-country CSD (within the meaning of regulation 25 of the Central Securities Depositories (Amendment) (EU Exit) Regulations 2018), where it has—
+>
+> - (a) made an application under Article 25 and the competent authority has not determined the application; or
+> - (b) not made an application under Article 25 and the six-month period referred to in paragraph 1 has not expired.
+>
+> **3.**
+>
+> The law of the United Kingdom or any part of the United Kingdom relating to the authorisation of CSDs, which applied prior to the coming into force of this Regulation, continues to apply to a CSD where, before 30 September 2017—
+>
+> - (a) the CSD made an application for authorisation pursuant to Article 17 of this Regulation; and
+> - (b) the competent authority has not determined the application.
+
+.
+
+(5) Omit Articles 70 to 72.
+
+(6) In Article 73—
+
+- (a) in the title, for “Directive 2014/65/EU” substitute “ the UK law on markets in financial instruments ”;
+- (b) in the first sentence, for “Directive 2014/65/EU” substitute “ the UK law on markets in financial instruments ”;
+- (c) in the second sentence, after “Articles 10 to 13” insert “ as implemented by the UK law on markets in financial instruments ”.
+
+(7) Omit Articles 74 and 75.
+
+(8) In Article 76—
+
+- (a) omit paragraphs 2, 4 and 5;
+- (b) in paragraph 6, omit “by the Commission”;
+- (c) omit paragraph 7.
+
+(9) After Article 76, omit the words “This Regulation shall be binding in its entirety and directly applicable in all Member States.”.
+
+### 23. Annex[^key-4957d8ca13be991fd4880c98d520fdd8]
+
+In point (c) of Section C of the Annex, for “point 4 of Annex I to Directive 2013/36/EU” substitute “ regulation 2 of the Payment Services Regulations 2017 [^c23882561] ”.
+
+## PART 4 — Revocation of EU delegated legislation
+
+### 24. Commission Delegated Regulation (EU) No 2017/389[^key-8b08cd3bfa784864ed5a8533456e75bd]
+
+Commission delegated regulation (EU) No 2017/389 of 11 November 2016 supplementing Regulation (EU) No 909/2014 of the European Parliament and of the Council as regards the parameters for the calculation of cash penalties for settlement fails and the operations of CSDs in host Member States is revoked.
+
+## PART 5 — Notification requirements
+
+### 25. Interpretation
+
+In this Part—
+
+- ‘qualifying third-country CSD’ means—
+  - (a) any legal entity established in a third country that provides the core service referred to in point (3) of Section A of the Annex to the CSD Regulation, or a service which is similar to such a service; and
+  - (b) performs at least one other core service listed in Section A of the Annex to the CSD Regulation, or a service which is similar to such a service, and which meets one or both of the following conditions:
+    - (i) that immediately before 28 November 2017, the entity provided the services referred to in Article 23 or 25 of the CSD Regulation (as it had effect before IP completion day[^key-8aabb8888ca3e53021e6329326afa4c7]) in the United Kingdom (including through a branch in the United Kingdom); and
+    - (ii) that the entity was authorised under Article 16 of the CSD Regulation before IP completion day;
+- ‘the CSD Regulation’ means Regulation (EU) No 909/2014 of the European Parliament and of the Council of 23 July 2014 on improving securities settlement in the European Union and on central securities depositories;
+- ‘third country’ means a country other than the United Kingdom.
+
+### 26. Notification requirements
+
+(1) Where a qualifying third-country CSD intends to provide services on the basis of Article 25 of the CSD Regulation in the United Kingdom on or after IP completion day[^key-33ee4bab0256af55a92d940d5f125e3c], it must notify the Bank of England that it intends to do so before IP completion day.
+
+(2) For the purposes of paragraph (1), the notification must—
+
+- (a) be made in such manner, and during such period, and
+- (b) contain, or be accompanied by, such information,
+
+as the Bank of England may direct.
+
+(3) Section 312E (Public censure) of the Financial Services and Markets Act 2000 [^c23882571] applies for the purposes of this regulation and is to be read for those purposes as if—
+
+- (a) the reference in subsection (1) to a recognised body included a reference to a qualifying third-country CSD; and
+- (b) in subsection (3), after paragraph (a), there were inserted—
+
+  > - (aa) the requirement in regulation 26(1) of the Central Securities Depositories (Amendment) (EU Exit) Regulations 2018.
+
+  .
+
+Paul Maynard
+
+Rebecca Harris
+
+Two of the Lords Commissioners of Her Majesty's Treasury
+
+*(This note is not part of the Regulations)*
+
+These Regulations are made in exercise of the powers in section 8(1) of the European Union (Withdrawal) Act 2018 (c.16) (“**the Act**”) in order to address failures of retained EU law to operate effectively and other deficiencies (in particular the deficiencies under paragraphs (b), (c), (d), (e) and (g) of section 8(2) of the Act) arising from the withdrawal of the United Kingdom from the European Union. They amend the regulation on improving securities settlement in the European Union and on central securities depositories (Regulation (EU) No 909/2014) and revoke the delegated legislation made by the Commission under that Regulation, namely: Commission Delegated Regulation (EU) No 2017/389. They also amend the Central Securities Depositories Regulations 2014 (SI 2014/2879) and the Central Securities Depositories Regulations 2017 (SI 2017/1064) which implemented parts of Regulation (EU) No 909/2014.
+
+An impact assessment of the effect that this instrument, and other instruments made by HM Treasury under the European Union (Withdrawal) Act 2018 at or about the same time, will have on the costs of business, the voluntary sector and the public sector is available from HM Treasury, 1 Horse Guards Road, London SW1A 2HQ and is published alongside this instrument at www.legislation.gov.uk.
+
+## Annotations
+
+[^c23882331]: Marginal citation: [2018 c.16](https://www.legislation.gov.uk/ukpga/2018/16).
+
+[^key-dca11edfdc7fbd0d8d4453ff5ba8232e]: Modification: Regulations modified (31.12.2020) by [The Gibraltar (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/680)](https://www.legislation.gov.uk/uksi/2019/680), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/680/regulation/1/2), [11(1)(4)(5)](https://www.legislation.gov.uk/uksi/2019/680/regulation/11/1/4/5) (with [reg. 11(8)-(10)](https://www.legislation.gov.uk/uksi/2019/680/regulation/11/8)) (as amended by [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 40(f)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/40/f)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-6c0724e84a5b52fbfe59cab2e59da540]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2018/1320): power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
+
+[^key-fa706165b0161ab15970bd150a86944c]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+
+[^c23882341]: Marginal citation: [S.I. 2014/2879](https://www.legislation.gov.uk/uksi/2014/2879).
+
+[^c23882351]: Marginal citation: [2000 c.8](https://www.legislation.gov.uk/ukpga/2000/8). Part 4A was inserted by section 11 of the Financial Services Act 2012 (c.21.).
+
+[^c23882361]: Marginal citation: Regulation 2 was amended by [S.I. 2017/1064](https://www.legislation.gov.uk/uksi/2017/1064).
+
+[^c23882371]: Marginal citation: Paragraph (2) was amended by [S.I. 2017/1064](https://www.legislation.gov.uk/uksi/2017/1064).
+
+[^key-714093a04148968c3fb19848f165f832]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+
+[^c23882381]: Marginal citation: [S.I. 2017/1064](https://www.legislation.gov.uk/uksi/2017/1064).
+
+[^key-2961b589f7eb05511e03344384b7a1ae]: Textual amendment: Words in reg. 3(3)(c) substituted (30.12.2020) by [The Financial Services and Economic and Monetary Policy (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1301)](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 8(a)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/8/a)
+
+[^key-8dbf945ae61c3964868ab73fa3e78d6e]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+
+[^key-af46fac05b280f2d6d49ba11d1394766]: Commencement: Reg. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+
+[^key-36263f83d116febf9526d515a4063269]: Commencement: Reg. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+
+[^c23882391]: Marginal citation: [S.I. 2001/544](https://www.legislation.gov.uk/uksi/2001/544). Part 1 of Schedule 2 was substituted by [S.I. 2006/3384](https://www.legislation.gov.uk/uksi/2006/3384) and amended by [S.I. 2017/488](https://www.legislation.gov.uk/uksi/2017/488).
+
+[^c23882401]: Marginal citation: [S.I. 1999/2979](https://www.legislation.gov.uk/uksi/1999/2979).
+
+[^c23882411]: Marginal citation: Regulation 4 was amended by [S.I. 2010/2993](https://www.legislation.gov.uk/uksi/2010/2993), [S.I](https://www.legislation.gov.uk/uksi/2010/2993/section/I). 2013/472, [S.I. 2015/347](https://www.legislation.gov.uk/uksi/2015/347) and [S.I. 2016/1095](https://www.legislation.gov.uk/uksi/2016/1095).
+
+[^c23882421]: Marginal citation: The definition of “recognised central counterparty” was inserted by [S.I. 2013/504](https://www.legislation.gov.uk/uksi/2013/504).
+
+[^c23882431]: Marginal citation: The definition of “participant” was amended by [S.I. 2010/2993](https://www.legislation.gov.uk/uksi/2010/2993).
+
+[^c23882441]: Marginal citation: [2006 c.46](https://www.legislation.gov.uk/ukpga/2006/46).
+
+[^c23882451]: Marginal citation: References to Regulation (EU) No 600/2014 are to that Regulation as amended by the Markets in Financial Instruments (Amendment) (EU Exit) Regulations.
+
+[^c23882461]: Marginal citation: The definition of “settlement agent” was amended by [S.I. 2010/2993](https://www.legislation.gov.uk/uksi/2010/2993).
+
+[^c23882471]: Marginal citation: [S.I. 2003/3226](https://www.legislation.gov.uk/uksi/2003/3226).
+
+[^c23882481]: Marginal citation: The definition of “recognised clearing house” was amended by [S.I. 2013/504](https://www.legislation.gov.uk/uksi/2013/504).
+
+[^c23882491]: Marginal citation: [2000 c.8](https://www.legislation.gov.uk/ukpga/2000/8).
+
+[^c23882501]: Marginal citation: References to Regulation (EU) No 575/2013 are to that Regulation as amended by the Capital Requirements (Amendment) (EU Exit) Regulations.
+
+[^key-cbd20f7dc16b557bb607f99dc10ebb49]: Textual amendment: Words in reg. 6(2)(v) substituted (30.12.2020) by [The Financial Services and Economic and Monetary Policy (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1301)](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 8(b)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/8/b)
+
+[^c23882511]: Marginal citation: [2018 c.12](https://www.legislation.gov.uk/ukpga/2018/12).
+
+[^key-6f93b8ecf36155133a2153d414b2c6fc]: Commencement: Reg. 7 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+
+[^key-771450257af65f589f549197e368119d]: Commencement: Reg. 8 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+
+[^key-95ebdaa75a2d83227fc92ccad5c9ca9f]: Textual amendment: Words in reg. 8(b)(ii) substituted (31.12.2020 immediately before IP completion day) by [The Financial Services (Miscellaneous) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/710)](https://www.legislation.gov.uk/uksi/2019/710), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/710/regulation/1/2), [15](https://www.legislation.gov.uk/uksi/2019/710/regulation/15); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-70d7c3523f0c543742b419b6d3339dfc]: Commencement: Reg. 9 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+
+[^key-989cb5a75459d188358d7df60fac0e5a]: Commencement: Reg. 10 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+
+[^key-6520843805f64abdfa90107d19ade27a]: Commencement: Reg. 11 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+
+[^key-edc7f0ff38661b68c8bd94bd6e37f773]: Commencement: Reg. 12 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+
+[^c23882521]: Marginal citation: [S.I. 2014/3348](https://www.legislation.gov.uk/uksi/2014/3348).
+
+[^key-b23b177344a09485ff05132c123a22ac]: Commencement: Reg. 13 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+
+[^key-1009cbe42a54e79decf7c8f45a801908]: Textual amendment: Words in reg. 13(j)(i) inserted (30.9.2020) by [The Equivalence Determinations for Financial Services (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1055)](https://www.legislation.gov.uk/uksi/2020/1055), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1055/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2020/1055/regulation/9)
+
+[^key-9698d34bc266e3e897db61a536aedd05]: Commencement: Reg. 14 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+
+[^key-3879b30cc40c32ac25104b4ae5c7b04d]: Commencement: Reg. 15 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+
+[^key-6aa002fd885eb7aaa78c45b347af9dcd]: Commencement: Reg. 16 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+
+[^c23882531]: Marginal citation: Regulation 20 was amended by [S.I. 2010/2993](https://www.legislation.gov.uk/uksi/2010/2993) and [S.I. 2013/504](https://www.legislation.gov.uk/uksi/2013/504). Paragraph 5 of the Schedule was amended by [S.I. 2010/2993](https://www.legislation.gov.uk/uksi/2010/2993).
+
+[^key-5aead5af5ed72c4a951acc677849a01c]: Commencement: Reg. 17 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+
+[^c23882541]: Marginal citation: Part 4A was inserted by section 11 of the [Financial Services Act 2012 (c.21)](https://www.legislation.gov.uk/ukpga/2012/21).
+
+[^key-e8d288eb019fb363320c9767bd751d3d]: Commencement: Reg. 18 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+
+[^key-cb0d8b1b58a6f3b724874ab65b7943e0]: Commencement: Reg. 19 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+
+[^c23882551]: Marginal citation: [S.I. 2017/692](https://www.legislation.gov.uk/uksi/2017/692).
+
+[^key-d05677eec28339ddb877b343f0cda385]: Commencement: Reg. 20 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+
+[^key-a648f15166b94e7be278b28ea1fc6036]: Commencement: Reg. 21 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+
+[^key-704b4541afee51329a1affa540374f1c]: Commencement: Reg. 22 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+
+[^key-4957d8ca13be991fd4880c98d520fdd8]: Commencement: Reg. 23 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+
+[^c23882561]: Marginal citation: [S.I. 2017/752](https://www.legislation.gov.uk/uksi/2017/752).
+
+[^key-8b08cd3bfa784864ed5a8533456e75bd]: Commencement: Reg. 24 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+
+[^key-8aabb8888ca3e53021e6329326afa4c7]: Textual amendment: Words in reg. 25 substituted (31.1.2020 immediately before exit day) by [The Financial Services (Consequential Amendments) Regulations 2020 (S.I. 2020/56)](https://www.legislation.gov.uk/uksi/2020/56), [regs. 1](https://www.legislation.gov.uk/uksi/2020/56/regulation/1), [10(a)](https://www.legislation.gov.uk/uksi/2020/56/regulation/10/a)
+
+[^key-33ee4bab0256af55a92d940d5f125e3c]: Textual amendment: Words in reg. 26 substituted (31.1.2020 immediately before exit day) by [The Financial Services (Consequential Amendments) Regulations 2020 (S.I. 2020/56)](https://www.legislation.gov.uk/uksi/2020/56), [regs. 1](https://www.legislation.gov.uk/uksi/2020/56/regulation/1), [10(b)](https://www.legislation.gov.uk/uksi/2020/56/regulation/10/b)
+
+[^c23882571]: Marginal citation: [2000 c.8](https://www.legislation.gov.uk/ukpga/2000/8). Section 312E was inserted by the [Financial Services Act 2012 (c.21)](https://www.legislation.gov.uk/ukpga/2012/21) and amended by [S.I. 2017/1064](https://www.legislation.gov.uk/uksi/2017/1064).

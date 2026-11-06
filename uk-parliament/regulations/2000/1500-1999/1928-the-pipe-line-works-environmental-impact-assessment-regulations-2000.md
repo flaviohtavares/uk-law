@@ -1,0 +1,977 @@
+---
+title: The Pipe-line Works (Environmental Impact Assessment) Regulations 2000
+id: uksi/2000/1928
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2000-07-17'
+text_date: '2025-05-16'
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2000/1928
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2000/1928/pdfs/uksi_20001928_en.pdf
+- http://www.legislation.gov.uk/uksi/2000/1928/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Pipe-line Works (Environmental Impact Assessment) Regulations 2000
+
+> Text as at 2025-05-16.
+
+2000 No. 1928
+
+PIPE-LINES
+
+The Pipe-line Works (Environmental Impact Assessment) Regulations 2000
+
+Made
+
+17th July 2000
+
+Laid before Parliament
+
+20th July 2000
+
+Coming into force
+
+1st September 2000
+
+The Secretary of State, being a Minister designated[^c1605009] for the purposes of section 2(2) of the European Communities Act 1972[^c1605010] in relation to measures relating to the requirement for an assessment of the impact on the environment of projects likely to have significant effects on the environment, in exercise of the powers conferred on him by that section hereby makes the following Regulations:—[^key-e711081414048952353a267b3b43e2f4][^key-6c53189a241475fb9e3888b5002c53a4][^key-b3eb2344f0609e27135ad0d479fdaf92][^key-560d121d9213bcc5018a98f9d48b73d8]
+
+## 1. Citation, commencement, application, transitional provisions and saving
+
+(1) These Regulations may be cited as the Pipe-line Works (Environmental Impact Assessment) Regulations 2000 and shall come into force on 1st September 2000.
+
+(2) These Regulations apply to any EIA application received by the Secretary of State after the coming into force of these Regulations.
+
+(3)[^key-2a820d7d3eeb53b846a32cf3731500f7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 2. Interpretation
+
+In these Regulations—
+
+- “the 1962 Act" means the Pipe-lines Act 1962 [^c1605013];
+- “additional information” means information which—[^key-5f1685a30ed16926ae554d72ec69c47f]
+  - (a) is made available to the Secretary of State—
+    - (i) after the date on which the EIA application, accompanied by the environmental statement, is received by the Secretary of State; and
+    - (ii) before his decision on whether to grant a pipe-line construction authorisation pursuant to regulation 3(2) or (3) below;
+  - (b) is of material relevance to the environmental statement; and
+  - (c) is not further information or supplementary information;
+- “applicant" means a person making an EIA application, and “prospective applicant" shall be construed accordingly;
+- “appropriate particulars” means the name and address of the applicant or prospective applicant and a description of the relevant pipe-line works which—[^key-036a1dbee70ed7bf97ca2280ce669849]
+  - (a) includes—
+    - (i) the physical characteristics of the whole works, and where relevant, of demolition works;
+    - (ii) the location of the works with particular regard to the environmental sensitivity of the geographical areas likely to be affected by the works;
+    - (iii) the aspects of the environment likely to be significantly affected by the works;
+    - (iv) any likely significant effects, to the extent of the information available on such effects, of the works on the environment resulting from—
+      - (aa) the expected residues and emissions and the production of waste, where relevant; and
+      - (bb) the use of natural resources, in particular soil, land, water and biodiversity;
+  - (b) takes into account the matters set out in Schedule 2 (matters to be taken into account in making an environmental determination etc.) and, where relevant, the results of other assessments of the effects on the environment carried out pursuant to assimilated[^key-7d341e9c477c244772fff927fd250372][^key-7f539c87ff5a55b114084fb1bf2e67db] law other than any law that implemented the Directive; and
+  - (c) may also include any features of the relevant pipe-line works or measures envisaged to avoid or prevent what might otherwise have been significant adverse effects on the environment;
+- “business day" means any day except a Saturday, a Sunday, Christmas Day, Good Friday or a bank holiday in any part of the United Kingdom by virtue of the Banking and Financial Dealings Act 1971 [^c1605014];
+- “construction", in relation to a pipe-line, includes placing, and cognate expressions shall be construed accordingly;
+- “the consultation bodies", in relation to relevant pipe-line works, means—
+  - (a) the relevant planning authority;
+  - (b) in the case of relevant pipe-line works in England, the Countryside Agency [^c1605015], the Nature Conservancy Council for England [^c1605016] and the Environment Agency [^c1605017];
+  - (c) in the case of relevant pipe-line works in Scotland, Scottish Natural Heritage [^c1605018] and the Scottish Environment Protection Agency [^c1605019];
+  - (d) in the case of relevant pipe-line works in Wales, the Natural Resources Body for Wales[^key-c270c581fdeee5ca6ad6d70292c24439]; and[^key-75b10be607e34a219059bea21a95476f]
+  - (e) any other body designated by statutory provision as having specific environmental responsibilities which the Secretary of State considers is likely to have an interest in the pipe-line works in question;
+- “contravention" includes a failure to comply;
+- “the Directive” means[^key-0546391d4ba2c68355512b3a56719c34] [Directive 2011/92/EU](https://www.legislation.gov.uk/european/directive/2011/0092) of the European Parliament and of the Council on the assessment of the effects of certain public and private projects on the environment;
+- “[^key-0f71f67bf0f24af17e8cd3923e790249]EEA State” means a member State, Norway, Iceland or Liechtenstein;
+- “EIA application" means an application for a pipe-line construction authorisation in respect of relevant pipe-line works;
+- “effect" includes, except where the context otherwise requires, any direct, indirect, secondary, cumulative, short, medium or long-term, permanent or temporary, or positive or negative effect;
+- “environmental impact assessment” shall be interpreted in accordance with regulation 2A;[^key-e3b4ada5a5930e51f5f58ca8fd050673]
+- “environmental statement” has the meaning set out in regulation 2B;
+- “further information” is to be construed in accordance with regulation 8(1);[^key-3b2268835b8a0548368742b5d37b7652]
+- “the Gazette" has the same meaning as in paragraph 3(2) of the First Schedule to the 1962 Act;
+- “in", in a context referring to a pipe-line or works or operations in land, includes a reference to a pipe-line, works or operations under, over, across, along or upon it;
+- “local planning authority" means an authority which is a local planning authority for the purposes of the Town and Country Planning Act 1990 [^c1605023];
+- “notice" means notice in writing and cognate expressions shall be construed accordingly;
+- “pipe-line" means a pipe-line within the meaning of section 65 of the 1962 Act the purpose of which is the conveyance of oil, gas or chemicals;
+- “pipe-line construction authorisation" means an authorisation for the construction of a cross-country pipe-line granted under section 1(1) of the 1962 Act;
+- “pipe-line works" means the carrying out of building, engineering or other operations in land for the construction of a pipe-line;
+- “planning authority" means a council constituted under section 2 of the Local Government etc. (Scotland) Act 1994 [^c1605024];
+- “public notice period" means, in relation to an application for a pipe-line construction authorisation, the period stated in the notices required to be published by the applicant under paragraph 3 of the First Schedule to the 1962 Act within which objections to the application can be sent to the Secretary of State;
+- “public website” means a website accessible to the public where the public can view and download information placed on it.[^key-420698d7581598610982f1431dcc9ac8]
+- “relevant planning authority" means, in the case of relevant pipe-line works, each local planning authority or planning authority within whose area any of the works are proposed to be carried out;
+- “relevant pipe-line works” means pipe-line works to which section 1(1) of the 1962 Act applies in respect of—[^key-5e30fb045aaba00f91d2d317efb321ba]
+  - (a) any pipe-line which is intended to convey oil or gas;
+  - (aa) any pipe-line which is intended to convey carbon dioxide streams for the purposes of geological storage, including associated booster stations; *(Extent: E+W+S)*[^key-e0e7625a073d1c74565b9acf83f3d2a2]
+  - (c) any pipe-line exceeding 40 kilometres in length and 800 millimetres in diameter which is intended to convey chemicals; or
+  - (d) any extension to a pipe-line which would in itself fall within sub-paragraph (b) above; and
+- “supplementary information” means information which is—[^key-49854e5c80c7207386badb3d034de517]
+  - (a) provided to the Secretary of State by the applicant in order to supplement the environmental statement; and
+  - (b) submitted to the Secretary of State no later than 14 days after the date of receipt by the Secretary of State of the environmental statement.
+
+## 2A. Environmental impact assessment[^key-0af7024bc406ab7d8531373f95eda63b]
+
+(1) In these Regulations, the “environmental impact assessment” means the process consisting of—
+
+- (a) the preparation and submission of an environmental statement by a prospective applicant;
+- (b) the carrying out of the consultations referred to in regulations 6 to 8A and, where relevant, regulation 10;
+- (c) the Secretary of State’s consideration of the information presented in the environmental statement, any further information or additional information provided in accordance with regulations 8 or 8A and any representations or opinions received as the result of the consultations referred to in sub-paragraph (b);
+- (d) the Secretary of State’s reasoned conclusion as required by regulation 3(2); and
+- (e) the integration of that conclusion into the decision as to whether the grant of pipe-line construction authorisation is to be given as required by regulation 3(2).
+
+(2) In carrying out the steps described in paragraph (1), the applicant shall identify, describe and assess in an appropriate manner—
+
+- (a) the direct and indirect significant effects of the relevant pipe-line works on the following factors—
+  - (i) population and human health;
+  - (ii) biodiversity, with particular attention to species and habitats protected under any law of any part of the United Kingdom that implemented[^key-dfe8c912521fa4dba48aaa16a1d7f093] Council [Directive 92/43/EEC](https://www.legislation.gov.uk/european/directive/1992/0043) on the conservation of natural habitats and of wild fauna and flora and [Directive 2009/147/EC](https://www.legislation.gov.uk/european/directive/2009/0147) of the European Parliament and of the Council on the conservation of wild birds;
+  - (iii) land, soil, water, air and climate;
+  - (iv) material assets, cultural heritage and the landscape; and
+  - (v) the interaction between the factors referred to in paragraphs (i) to (iv); and
+- (b) the operational effects of the relevant pipe-line works (where the works will have operational effects) and the expected effects deriving from the vulnerability of the works to risks of major accidents or disasters that are relevant to the works concerned.
+
+## 2B. Environmental statement
+
+(1) In these Regulations, an “environmental statement” means a report prepared as part of an environmental information assessment in respect of the relevant pipe-line works which includes—
+
+- (a) a description of the works comprising information on the location, design, size and other relevant features of the works;
+- (b) a description of the likely significant effects of the works on the environment;
+- (c) a description of the features of the works or measures envisaged in order to avoid, prevent or reduce, and if possible, offset likely significant adverse effects on the environment;
+- (d) a description of the reasonable alternatives studied by the applicant which are relevant to the works and their specific characteristics and an indication of the main reasons for the option chosen, taking into account the effects of the works on the environment;
+- (e) a non-technical summary of the information referred to in sub-paragraphs (a) to (d), and
+- (f) any additional information set out in Schedule 1 (information for the environmental statement) relevant to the specific characteristics of the relevant pipe-line works or type of works and to the environmental features likely to be affected.
+
+(2) In preparing the environmental statement, the applicant shall also take into account any available results of other relevant assessments under the law of any part of the United Kingdom[^key-9d79d970624f29e007de1978cb2d8627].
+
+(3) Where the Secretary of State has given an opinion under regulation 5 on the matters to be included in the environmental statement, the statement shall be based on that opinion and include the information that may be reasonably required for reaching a reasoned conclusion on the significant effects of the relevant pipe-line works on the environment, taking into account current knowledge and methods of assessment.
+
+(4) In order to ensure the completeness of the environmental statement, the applicant shall ensure that—
+
+- (a) the statement is prepared by competent experts; and
+- (b) the statement is accompanied by a statement from the applicant outlining the relevant expertise or qualifications of such experts.
+
+## 2C. Exempt pipe-line works
+
+(1) The Secretary of State may direct that—
+
+- (a) these Regulations do not apply in relation to relevant pipe-line works if those works comprise or form part of works—
+  - (i) having national defence as their sole purpose; or
+  - (ii) having the response to a civil emergency as their sole purpose, and
+
+  in the opinion of the Secretary of State compliance with these Regulations would have an adverse effect on that purpose; or
+- (b) where the relevant pipe-line works are the subject of an Act of Parliament or a measure made under powers contained in such an Act, and providing that the objectives of any law of any part of the United Kingdom that implemented[^key-c6a65f42b071216246f8bd4031bcbc1c] the Directive are met, the provisions of these Regulations relating to public consultation do not apply in respect of those works.
+
+(2) Subject to paragraph (4), the Secretary of State may, in exceptional cases, direct that any relevant pipe-line works shall be exempt in whole or in part from the requirements of these Regulations if circumstances exist such that the application of all or some of the provisions of these Regulations would adversely affect the purpose of those works.
+
+(3) Where a direction is given under paragraph (1) or (2) the Secretary of State shall send a copy of any such direction to the relevant planning authority.
+
+(4) A direction shall not be given under paragraph (2) unless the Secretary of State —
+
+- (a) has considered whether another form of assessment is appropriate, and
+- (b) in a case where the Secretary of State considers that the relevant pipe-line works are likely to have significant environmental effects on the environment in an EEA State[^key-ce4802a864104ebe586fc550733f9be3], is satisfied that a form of consultation with that state broadly equivalent to the form described in regulation 10 (projects affecting [^key-e2e98c6854c5defe2965ae665ded3868]... EEA states) will take place before any pipe-line construction authorisation is given in respect of the relevant pipe-line works [^key-a7d0ba5d61bd9ebf9e663ca00213cd3e]...
+- (c)[^key-a7d0ba5d61bd9ebf9e663ca00213cd3e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5) A direction given by the Secretary of State under paragraph (2) may disapply such provisions of these Regulations as may in the circumstances appear to the Secretary of State to be appropriate and shall—
+
+- (a) require the carrying out of such form of assessment as the Secretary of State considers appropriate in order to ensure a high level of protection of the environment and of human health;
+- (b) require that all information relating to the main effects the works are likely to have on the environment collected pursuant to sub-paragraph (a) is to be made available to the public and specify the manner in which it is to be made available;
+- (c) specify the extent to which these Regulations are to apply or that they are not going to apply at all; and
+- (d) include a statement of the Secretary of State’s reasons for giving the direction and the information on which that decision is based.
+
+(6) The Secretary of State shall publish—
+
+- (a) details of the direction given under paragraph (2) in the Gazette together with information as to how the public concerned may obtain a copy of the direction; and
+- (b) the direction itself on a public website.
+
+## 3. Grant of pipe-line construction authorisation by Secretary of State in respect of relevant pipe-line works
+
+(1) The Secretary of State shall not grant a pipe-line construction authorisation in respect of relevant pipe-line works unless—
+
+- (a) the applicant submits to the Secretary of State an environmental statement in respect of the relevant pipe-line works in question; or
+- (b) the EIA application in question is the subject of a direction given under regulation 4 below.
+
+(1A)[^key-486bc9017a941ad49c1346380497c8fa] Where in relation to relevant pipe-line works there is, in addition to a requirement for an environmental statement to be submitted in accordance with these Regulations, also a requirement to carry out a Habitats Regulations Assessment, the Secretary of State shall where appropriate ensure that the preparation of the assessment and the environmental statement are coordinated.
+
+(2)[^key-f318d33e46e3c315bfa1be390beb8046] Where an environmental statement is submitted to the Secretary of State in connection with an EIA application, the Secretary of State—
+
+- (a) being satisfied that the requirements of regulations 7 to 8A, as appropriate, have been substantially complied with;
+- (b) having taken into consideration—
+  - (i) the environmental statement and any supplementary information, ensuring that, where necessary, advice has been obtained by persons with appropriate expert knowledge who have examined the statement;
+  - (ii) any further information or additional information;
+  - (iii) any representations in respect of the relevant pipe-line works made by any person to whom a copy of the environmental statement was required to be sent pursuant to these Regulations; and
+  - (iv) any opinions of the public; and
+- (c) having reached a reasoned conclusion on the significant effects of the relevant pipe-line works on the environment taking into account the information, representations and opinions referred to in sub-paragraph (b),
+
+shall, subject to paragraph (3), integrate that conclusion into the decision as to whether or not to grant a pipe-line construction authorisation in respect of the works.
+
+(2A)[^key-48b898c153f406b96bff52034ef6a315] If the decision in paragraph (2) is to grant the pipe-line construction authorisation, the decision shall set out—
+
+- (a) any environmental conditions attached to the consent; and
+- (b) a description of any features of the relevant pipe-line works or measure envisaged to avoid, reduce or prevent and if possible offset any significant adverse effect on the environment; and
+- (c) any measures to monitor conditions imposed to avoid, prevent, or reduce and, if possible, offset significant adverse effects on the environment (“a monitoring condition”).
+
+(2B) If the decision in paragraph (2) is to refuse the pipe-line construction authorisation, the decision shall state the main reasons for the refusal.
+
+(2C) The reasoned conclusion referred to in paragraph (2)(c) shall be up to date at the time that the decision to grant the pipe-line construction authorisation is made but that conclusion shall be take to be up to date if, in the opinion of the Secretary of State it continues to address the significant effects that are likely to arise as a result of the relevant pipe-line works.
+
+(2D) When considering whether to impose a monitoring condition under paragraph (2A)(c), the Secretary of State shall—
+
+- (a) consider whether to make provision for potential remedial action;
+- (b) consider whether there are appropriate existing monitoring arrangements under any law of any part of the United Kingdom, other than any law which implemented the Directive,[^key-c465367bc6e1f032b3cfd15cc4ce10c4] to make the imposition of a monitoring condition unnecessary; and
+- (c) take steps to ensure that the type of parameters to be monitored and the duration of the monitoring are proportionate to the nature, location and size of the relevant pipe-line works and the significance of their effects on the environment.
+
+(2E) The decision of the Secretary of State referred to in paragraph (2) shall be taken within a reasonable period of time, taking into account the nature and complexity of the relevant pipe-line works, from the date on which the Secretary of State has been provided with the information referred to in paragraph (2)(b).
+
+(3) In any case where an[^key-5fefd1fd5cadcaadb7f7d66327b58ee4] EEA State has requested as described in regulation 10(2) below to participate in the procedure under these Regulations in relation to an EIA application, the Secretary of State shall not grant a pipe-line construction authorisation for the relevant pipe-line works the subject of that application unless he—
+
+- (a) is satisfied that the requirements of regulation 10(1) and (2) below have been complied with;
+- (b) has communicated to that EEA State the response that he proposes to make to the EIA application in question (including information as to any measures envisaged to reduce or eliminate any possible significant effects of the relevant pipe-line works concerned on the environment of the [^key-bdfe93689c5dda792891fdb6d7a4e0ed]... EEA State);
+- (c) is satisfied that—
+  - (i) the EEA State concerned has been consulted regarding the relevant pipe-line works for such reasonable period as may have been agreed with such EEA State pursuant to regulation 10(2)(b) below and in particular that it has been afforded a reasonable opportunity to make representations regarding the relevant pipe-line works and the proposed response referred to in sub-paragraph (b) above; and
+  - (ii) an opportunity has been afforded to the public in that EEA State and to those authorities which by reason of their particular environmental responsibilities in that EEA State are likely to be interested in the relevant pipe-line works to forward to the Secretary of State within a reasonable time (in respect of the public, at least 30 days)[^key-c35090a8b897f6634a508ab21f7b5db9] representations regarding the documents and information referred to in regulation 10(1) and (2)(a) below; and
+- (d) has taken into consideration any representations made by the EEA State, members of the public and authorities in that EEA State and any information regarding the relevant pipe-line works supplied by any of them.
+
+(4) In any case where an environmental statement is submitted to the Secretary of State in connection with an EIA application, the Secretary of State shall promptly[^key-4faf1b20add607b353c2a07349452ca2]—
+
+- (a)[^key-e3f69bd5121642717be67aff1fb836f6] notify the applicant, the consultation bodies specified in the notice given pursuant to regulation 7(2) below, and any EEA State which has been sent a copy of the environmental statement pursuant to regulation 10 below, of his decision in relation to the EIA application; and
+- (b) provide to such persons together with the notification mentioned in sub-paragraph (a) above, a statement setting out—
+  - (i) the content of the decision and, where applicable, any conditions to which the carrying out of the relevant pipe-line works is to be subject;
+  - (ii) a summary of the main concerns and opinions expressed by the persons affected or likely to be affected by, or having an interest in, the decision including where regulation 10 (projects affecting[^key-bebe305b240ecfb08ca1363214c67907] [^key-1c503ea8a82949327f68c2a84b162f16]... EEA states) applies, any representations made by an EEA State affected by the relevant pipe-line works, the public concerned or authorities in that state;
+  - (iii) the main reasons and considerations upon which the decision is based;
+  - (iv) a description, where necessary, of the main measures required to be taken to avoid, reduce and, if possible, offset the major adverse effects of the relevant pipe-line works , including any monitoring conditions[^key-77f73153a6fb14804d3aa5866bc75394]; and
+  - (v) an explanation of the right of a person aggrieved by a decision of the Secretary of State to make an application pursuant to regulation 12 below.
+
+(5)[^key-2f49b312031371397d491fe84a2b00ca] No later than 14 days after the date of the notification given pursuant to paragraph (4)(a) above, the applicant shall inform the public of the decision by publishing a notice containing the information specified in paragraph (5A) below—
+
+- (a) in the Gazette; and
+- (b) in one or more local newspapers circulating in each area in which the relevant pipe-line works would be carried out.
+- (c)[^key-abb6dd4a9a184d3b606a9393fcab9011] on a public website.
+
+(5A)[^key-fea2932eacfaf121aafeb816b67fc84b] A notice published under paragraph (5) shall—
+
+- (a) set out—
+  - (i) the contents of the decision;
+  - (ii) the main reasons and considerations on which the decision is based;
+  - (iii) a summary of all representations made to the Secretary of State by any person in respect of the relevant pipe-line works including where regulation 10 (projects affecting [^key-b4fe6ab7a04ab0bbcfabedd82cab5246]... EEA states) applies, any representations made by an EEA State affected by the relevant pipe-line works, the public concerned or authorities in that state, together with details of how those representations were taken into account; and
+- (b) specify where details of these matters may be obtained, including the address of the public website on which a copy of the notice is published.
+
+(5B)[^key-a1206ad0eb004b97c8852f905cb2b5ff] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(6) The applicant shall provide the Secretary of State with copies of each of the newspapers and the Gazette[^key-8b0ee30b9528f7c76a246870d71c2fd0] in which the notices referred to in paragraph (5) above appeared in each case no later than 7 days after the date of publication of those newspapers or the Gazette[^key-c4e4d73332735504e5b2dd53ab42fc38] and also the address of the public website on which the notice was published in accordance with paragraph (5).[^key-9bb0c3d8eb8339b2323d667da60ef294]
+
+(7)[^key-5b65c91c1a19ed1030cdfaa2bf72f92c] In this regulation, “a Habitats Regulations Assessment” means an assessment under regulation 63 of the Conservation of Habitats and Species Regulations 2017[^key-c88b504ff28961eca7a51dde8c773d73] in respect of the relevant pipe-line works.
+
+## 4. Directions that no environmental statement need be prepared
+
+(1) Where—
+
+- (a)[^key-c66551690b327e95f46f233b7ee205d2] no direction under paragraph (1A) is in force in respect of the relevant pipe-line works and a prospective applicant makes an application containing the appropriate particulars in respect of those works to the Secretary of State for the exercise the power conferred on the Secretary of State by sub-paragraph (b); and
+- (b) the Secretary of State is satisfied that either—
+  - (i) the carrying out of the relevant pipe-line works described in that application; or
+  - (ii) the carrying out of the relevant pipe-line works as modified or carried out in a particular way or carried out at a particular time,
+
+  is not likely to have a significant effect on the environment, he may, subject to paragraph (4) below, give a direction that any EIA application made while the direction remains in force in respect of those relevant pipe-line works or those relevant pipe-line works as modified or to be carried out in the manner or at the time specified in the direction need not be accompanied by an environmental statement.
+
+(1A)[^key-453cf0219d0934b831161b386d75667d] If the Secretary of State considers that a relevant pipe-line works is highly likely to have a significant effect on the environment given the environmental sensitivity of the location of the works, the Secretary of State may direct that no application may be made under paragraph (1) in respect of those works and that an environmental statement shall be required before the Secretary of State can agree to the grant of a pipe-line construction authorisation in respect of those works.
+
+(2) In deciding whether or not to give a direction under paragraph (1) above, the Secretary of State shall consult the relevant planning authority and take into consideration such of the matters set out in Schedule 2 to these Regulations as appear to him to be relevant and the results of any preliminary determinations or assessments on the environment carried out pursuant to[^key-cd1cc58b4a49865044f65cf0c43681d8] assimilated[^key-70dd6a6e0ebc02c201ff5be500c680a7][^key-d4b6aa366606f007e9164468daf420cc] law other than any law that implemented the Directive.
+
+(3) A prospective applicant shall provide to the Secretary of State such further information in relation to an application made by him under paragraph (1)(a) above as the Secretary of State may require.
+
+(4)[^key-89239de1d4adae90ca5e29e9bd26b51c] No direction shall be given under paragraph (1) above in respect of any application for a pipe-line construction authorisation—
+
+- (a) for the execution of works for the construction of a pipe-line exceeding 40 kilometres in length and 800 millimetres in diameter;
+- (b) for the execution of works for the extension of a pipe-line which would in itself fall within sub-paragraph (a) above; or
+- (c) in respect of which an EEA State[^key-62b1079bb5587010ff291dd97fc731e9] has requested as described in regulation 10(2) below to participate in the procedure under these Regulations.
+
+(5) Any direction given under this regulation shall remain in force for 12 months (or such shorter period as may be specified in the direction) from the date on which it was given.
+
+(6) The Secretary of State shall give notice to the prospective applicant concerned of his decision in relation to any application made under this regulation.
+
+(6A)[^key-e0c62bac33af63291da5476a989d245c] The Secretary of State shall make a decision in relation to any application made under paragraph (1) as soon as possible and in any event within 90 days of receiving the application, unless paragraph (6B) applies.
+
+(6B) Where an application referred to in paragraph (1) is for relevant pipe-line works that are, in the opinion of the Secretary of State, an exceptional case, for example in relation to their nature, complexity, location or size, the Secretary of State may extend the time limit referred to in paragraph (6A) by notifying the applicant as to when the decision is expected to be made and the reasons why the Secretary of State considers the extra time is needed.
+
+(7)[^key-a84c88eba430e2ea90e9c72dda11b42b] Paragraph (8) applies where either the Secretary of State—
+
+- (a) makes a direction under paragraph (1A); or
+- (b) directs, in response to an application under paragraph (1) that either—
+  - (i) an EIA application in respect of those relevant pipe-line works needs to be accompanied by an environmental statement; or
+  - (ii) an EIA application in respect of those relevant pipe-line works does not need to be accompanied by an environmental statement.
+
+(8) Where this paragraph applies, the Secretary of State shall—
+
+- (a) publish notice of the direction in the Gazette and on a public website; and
+- (b) publish with the notice a written statement of the main reasons for the direction, making references to the relevant criteria set out in Schedule 2 and where the direction is that the EIA application does not need to be accompanied by an environmental statement, shall state any features of the proposed works or measures imposed that are proposed by the prospective applicant to avoid or prevent significant adverse effects.
+
+## 5. Pre-application opinion by the Secretary of State as to content of environmental statement
+
+(1) This regulation applies where a prospective applicant makes a request to the Secretary of State accompanied by the appropriate particulars for the Secretary of State’s opinion in writing as to the scope and level of detail to be included by the applicant[^key-f5d0e5094401f1df4a4831ed7fd7c404] in an environmental statement in respect of the relevant pipe-line works referred to in the request.
+
+(2) Subject to paragraph (3) below, the Secretary of State shall give an opinion in response to a request under paragraph (1) above, having first—
+
+- (a) taken into account on the information provided[^key-08f0089e0793b865856bf3752eb731c9]—
+  - (i) the specific characteristics of the particular relevant pipe-line works including location and technical capacity[^key-7ab978f54d8e58f42d640e60568ea851];
+  - (ii) the specific characteristics of pipe-line works of the type concerned;
+  - (iii) the environmental features likely to be affected by the relevant pipe-line works; and
+  - (iv)[^key-91e774a3340c94ad408966d2bf481e81] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) consulted the prospective applicant and the consultation bodies.
+
+(3) Where the Secretary of State, having received a request under paragraph (1) above, considers that he has not been provided with sufficient information to enable him to give an opinion on the questions raised or to consult in accordance with paragraph (2)(b) above, he shall notify the prospective applicant of the particular points on which he requires further information.
+
+(4) The prospective applicant making the request under paragraph (1) above shall supply the Secretary of State with such number of additional copies of the plan accompanying the request as the Secretary of State may reasonably require.
+
+(5) The prospective applicant and the consultation bodies shall communicate their views (if any) on the consultation carried out by the Secretary of State under paragraph (2)(b) above no later than 30 days[^key-45df6f4f770d88ea8e9c94fb99873478] after the date on which they were consulted.
+
+(6) The Secretary of State shall give an opinion in response to a request under paragraph (1) above no later than 30 days after whichever is the later of—
+
+- (a) the date of receipt by him of further information pursuant to a notice under paragraph (3) above; or
+- (b) the expiry of the period for the prospective applicant and the consultation bodies to give their views to the Secretary of State in accordance with paragraph (5) above, or, if earlier, the date by which he has received the views of the prospective applicant and all the consultation bodies consulted under paragraph (2)(b) above,
+
+or by such later date as may be agreed in writing between him and the prospective applicant.
+
+(7) An opinion given by the Secretary of State under paragraph (2) above shall be without prejudice to the power of the Secretary of State to request further information under regulation 8 below.
+
+## 6. Provision of information
+
+(1) This regulation applies where a prospective applicant makes a request to the Secretary of State accompanied by the appropriate particulars for the provision to him of any information which—
+
+- (a) would assist him in the preparation of an environmental statement in respect of the relevant pipe-line works referred to in the appropriate particulars; and
+- (b) but for the provisions of this paragraph, could not readily be obtained by him.
+
+(2) Where the Secretary of State receives a request under paragraph (1) above, he shall—
+
+- (a) provide to the prospective applicant the name and address of any consultation body which he considers may have any information of the kind referred to in paragraph (1) above; and
+- (b) at the same time as he provides the name and address of any consultation body to the prospective applicant, serve on that body a notice which—
+  - (i) states that he has provided the name and address of the consultation body to the prospective applicant;
+  - (ii) refers to the duty imposed on the consultation body concerned by paragraph (3) below; and
+  - (iii) is accompanied by a copy of the request made under paragraph (1) above.
+
+(3) Any consultation body on which a notice in accordance with paragraph (2) above has been served shall, if so requested in writing by the prospective applicant, enter into consultation with him to determine whether the body has in its possession any information which it or the prospective applicant considers is of the kind referred to in paragraph (1) above, and if it has such information, the body shall, subject to paragraphs (4) and (5) below, make it available to the prospective applicant.
+
+(4) A reasonable charge reflecting the cost of making the relevant information available may be made by any body supplying it.
+
+(5) Nothing in this regulation shall require the disclosure of any information which is by virtue of any rule of the law of any part of Great Britain subject to any obligation of confidentiality.
+
+## 7. Publicity for environmental statements
+
+(1) In any case where an environmental statement has been submitted to the Secretary of State in connection with an EIA application and the Secretary of State has notified the applicant that the application is to be allowed to proceed, the following provisions of this regulation shall apply.
+
+(2)[^key-8a577c32bd0bc0b0ab72ce35aa3c5758] The Secretary of State shall serve on the applicant a notice specifying those consultation bodies on whom the applicant is to serve the documents referred to in paragraph (3) below.
+
+(3) The applicant shall, as soon as is reasonably practicable after the date of the notice referred to in paragraph (2) above, serve on each consultation body specified in that notice—[^key-d511a62546e67e066e062cce3034bce2]
+
+- (a) a copy of the EIA application in question (excluding any material which the applicant is not entitled to make available for public inspection or which the Secretary of State has agreed should not be made available for public inspection) and any plan submitted with it (unless he has already served those documents on the person concerned);
+- (b) a copy of the environmental statement and any supplementary information[^key-2f6be1225b22ee2e7f06bb994f9c9660] submitted in connection with the application; and
+- (c) a notice stating that representations may be made to the Secretary of State by a date specified in the notice which shall be at least 30 days after the date on which the environmental statement and any supplementary information[^key-6efdd10242bc55933c2a5834b1061503] was served on the person concerned,
+
+and he shall notify the Secretary of State of the name of every person he has served under this paragraph, and of the dates of such service, in each case no later than 7 days after such date.
+
+(4) The applicant shall—
+
+- (a) ensure that any notice which he is required to publish or serve under paragraph 3 of the First Schedule to the 1962 Act
+  - (i)[^key-441bb40a09b0d20f820612ba0dc74227] satisfies the requirements of paragraph (5); and
+  - (ii) is also published on a public website alongside electronic copies of the EIA application, environmental statement and any supplementary information which accompanied the statement;
+- (b) make available for public inspection at an address in the locality in which the land to which the application relates is situated between the hours of 10 a.m. and 4 p.m. on business days during the public notice period a copy of—
+  - (i) the application and any plan submitted with it (excluding any material which the applicant is not entitled to make available for public inspection or which the Secretary of State has agreed should not be made available for public inspection); and
+  - (ii) the environmental statement and any supplementary information[^key-19a5433c7e79e0c7d231f942be760a02] which accompanied it;
+- (c) make available at an address (whether or not the same as that referred to in sub-paragraph (b) above) in the locality in which the land to which the application relates is situated enough copies of the environmental statement and any supplementary information[^key-9a2892da2ace4cb9cefa170fc42e09b9] to be likely to satisfy all reasonable demands for copies pursuant to sub-paragraph (d) below; and
+- (d) subject to sub-paragraph (c) above and to the receipt by the applicant of any payment specified in accordance with paragraph (5)(d) below, supply during the public notice period to any person on request a copy of the environmental statement and any supplementary information[^key-a8324431c03223909b94937d1ad0c66c].
+
+(5) A notice to which paragraph (4)(a) above applies, shall—
+
+- (a)[^key-25c950fa45a887e6d4bc1c9f6d89105e] describe the application in question, state that it is accompanied by an environmental statement and any supplementary information and, where relevant, state that it is likely to have significant effects on the environment in an EEA State[^key-57f2fe14238d4c1fca94baf0dda8fcb9];
+- (b) state that a copy of the application, any plan submitted with it, the environmental statement and any supplementary information may be inspected by members of the public;
+- (c) give the address referred to in paragraph (4)(b) above at which the copy documents referred to in that paragraph may be inspected and the dates and times when they will be available for inspection;[^key-74bee378302be219f14e6e0ee974d2e3]...
+- (d) give the address referred to in paragraph (4)(c) above at which copies of the environmental statement and any supplementary information[^key-d369f32c751ccbe963fbd7c80188c07c] may be obtained and state that copies of the environmental statement and any supplementary information may be obtained there, specifying, subject to regulation 9 below, the amount of any payment required to be tendered for the statement;[^key-b0213eaaf178fec11ecb502345ee457a]
+- (e) state that any person wishing to make representations in relation to the application should make them in writing and send them to the Secretary of State within the public notice period, and specify the address to which any such representations should be sent;
+- (f) set out the nature of possible decisions to be taken in response to the application;
+- (g) describe the circumstances in which the Secretary of State may require a public inquiry into the application pursuant to the 1962 Act;
+- (h) be published as soon as reasonably practicable after the Secretary of State serves notice on the applicant in accordance with paragraph (2) above; and
+- (i) set out the arrangements made for consulting the public pursuant to this regulation
+
+(6) The applicant shall provide the Secretary of State with copies of each of the newspapers and the Gazette in which the notices referred to in paragraph (4)(a) above appeared, in each case no later than 7 days after the date of publication of those newspapers and the Gazette and also the address of the public website on which the notice was published in accordance with paragraph (4).[^key-a7b752bc5afafa37c76a1bfa80200344]
+
+## 8. Further information and evidence respecting environmental statements
+
+(1) Where the Secretary of State has been provided with an environmental statement in connection with an EIA application, he may in writing require the applicant concerned to provide such further information as he may specify which is directly relevant to enabling the Secretary of State to reach the reasoned conclusion referred to in regulation 3(2)(c)[^key-b8bb825ed0eb2f918156854dc6684d95], and such information provided by the applicant is referred to in this regulation, and regulations 2,[^key-e5c5ef2a5cf68e8ca5baac54b27ef068] 2A,[^key-037f7671bbd842acb39d7b47c5247974] 3 and 9, as “further information.
+
+(2) Where, in the opinion of the Secretary of State, any further information[^key-ae7e41e333d16dd64c452dd98ac89aa6] ought to have been included in the environmental statement in question, the Secretary of State shall notify the applicant in writing accordingly, specifying the further information[^key-776fc977193322b482da4e8da0be852a] in question, and the provisions of paragraphs (3) to (7) below shall apply in respect of such further information[^key-8e33f7e82b9790ee71a082bb59645f95].
+
+(3)[^key-74fdc150b8e640d1e9c570caea3613d5] The applicant shall serve a copy of the further information on those consultation bodies specified in the notice given pursuant to regulation 7(2) above, together with a notice which—
+
+- (a) refers to the information previously served on that person; and
+- (b) states that further representations may be made in writing to the Secretary of State by a date specified in the notice, which shall be at least 30 days after the date on which the further information and notice were served on that person.
+
+(3A)[^key-d0f06a925a237a079ecef782b0a27d52] The applicant shall notify the Secretary of State of the name of every person on whom he has served the further information pursuant to paragraph (3) above, and the date of such service.
+
+(4)[^key-3fd331c177e01fa6a658dff411cebdf6] The applicant shall make available to the public copies of the EIA application, the environmental statement, any supplementary information and the further information in the same way as the applicant previously made available the application, the environmental statement, and any supplementary information for the period commencing with the date of first publication of the notice referred to in paragraph (5) below and ending with a date not less than 30 days after the date on which the notice is to be last published pursuant to that paragraph.
+
+(5)[^key-0bb1f8f9d335bbd1a7e47292c1cd1d37] The applicant shall publish a notice containing the information specified in paragraph (6)—
+
+- (a) in two successive weeks in—
+  - (i) the Gazette, and
+  - (ii) one or more local newspapers circulating in each area in which the relevant pipe-line works would be carried out; and
+- (b) on a public website alongside the further information.
+
+(6)[^key-da11dcde3bde8159b89d50f6ce61c96b] A notice published pursuant to paragraph (5) above shall—
+
+- (a) refer to the previous notice in respect of the application, the environmental statement and any supplementary information and state that further information has been provided;
+- (b) state that a copy of the application, the environmental statement, any supplementary information and the further information may be inspected by members of the public;
+- (c) give the address and times at which copies of the documents referred to in sub-paragraph (b) above may be inspected and the latest date (being a date not less than 30 days after the date on which the notice is to be last published pursuant to paragraph (5) above) on which they will be available for inspection;
+- (d) give the address at which copies of the documents referred to in sub-paragraph (b) above may be obtained and state that copies of those documents may be obtained there and, where any charge is to be made pursuant to regulation 9 below for a copy of the environmental statement, any supplementary information or further information, specify the amount of any such charge; and
+- (e) state that any person wishing to make representations about the application should make them in writing to the Secretary of State by a date not less than 30 days after the date on which the notice is to be last published pursuant to paragraph (5) above, and specify the address to which any such representations should be sent.
+
+(7) The applicant shall provide the Secretary of State with copies of each of the newspapers and the Gazette in which the notice referred to in paragraph (5) above[^key-f1045f77d14391e3fa7922967d26f45f] appeared, in each case no later than 7 days after the date of publication of those newspapers and the Gazette and also the address of the public website on which the notice was published in accordance with paragraph (5).[^key-553cba3d5af5b923b39f6913fb2ff0f3]
+
+## 8A. Additional information and publicity[^key-69cecab6c873066d08eb133817b739b7]
+
+(1) Where additional information is received by the Secretary of State, he shall serve a copy of the additional information on the consultation bodies and either—
+
+- (a) in any case where the additional information is provided to the Secretary of State by the applicant, notify the applicant that the information has been served on the consultation bodies; or
+- (b) in any case where the additional information is provided to the Secretary of State by a person other than the applicant, serve a copy of the additional information on the applicant.
+
+(2) Where the applicant has been notified that additional information has been served on the consultation bodies in accordance with paragraph (1)(a) above, or has been served with a copy of the additional information pursuant to paragraph (1)(b) above, the applicant shall—
+
+- (a) publish in accordance with paragraph (4) below a notice containing the information specified in paragraph (5) below; and
+- (b) serve a copy of that notice on the Secretary of State.
+
+(3) Where the Secretary of State receives a notice which has been served on him by the applicant pursuant to paragraph (2)(b) above, he shall serve a copy of that notice on the consultation bodies.
+
+(4)[^key-6d4356af53aad36cce4809201a1d4b81] The applicant shall publish the notice referred to in paragraph (2)(a)—
+
+- (a) in two successive weeks in—
+  - (i) the Gazette, and
+  - (ii) one or more local newspapers circulating in each area in which the relevant pipe-line works would be carried out; and
+- (b) on a public website alongside the additional information.
+
+(5) The notice referred to in paragraph (2)(a) above shall—
+
+- (a) describe the application in question and state that the Secretary of State has received additional information;
+- (b) identify the relevant planning authority on whom the Secretary of State is required to serve a copy of the additional information pursuant to paragraph (1) above;
+- (c) state that the relevant planning authority identified in sub-paragraph (b) of this paragraph is required to take steps to ensure that the additional information is made available for inspection by the public at all reasonable hours;
+- (d) state that requests for copies of the additional information may be sent to the Secretary of Sate and specify an address for that purpose;
+- (e) state a date not less than 30 days after the date on which the notice is to be last published in accordance with paragraph (4) above by which any person may make representations to the Secretary of State in relation to the additional information, and specify the address to which any such representations are to be sent; and
+- (f) state that the requirements set out in sub-paragraphs (b) to (d) above will also apply in respect of any additional information received by the Secretary of State after the date of the notice.
+
+(6) Paragraphs (2) to (5) above shall not apply where a notice containing the information specified in paragraph (5) has previously been—
+
+- (a) published by the applicant in accordance with paragraph (4); and
+- (b) served on the Secretary of State pursuant to paragraph (2)(b) above.
+
+(7) The applicant shall provide the Secretary of State with copies of each of the newspapers and Gazette in which the notice referred to in paragraph (2)(a) above appeared in each case no later than 7 days after the date of publication of those newspapers and Gazette and also the address of the public website on which the notice was published in accordance with paragraph (4).[^key-281dba5d2dacf9b2240ef7d6a58ab073]
+
+(8) The Secretary of State shall not determine the application for consent until the later of—
+
+- (a) fourteen days after the last date on which a copy of the notice published pursuant to paragraph (2)(a) above was served by the Secretary of State in accordance with paragraph (3) above; or
+- (b) the date stated in the notice pursuant to paragraph (5)(e) above.
+
+## 9. Charges
+
+An applicant may make the supply, in accordance with regulations 7(4)(d) and 8(4) above, to any person of a copy of an environmental statement, any supplementary information,[^key-ed73050e1fdb9361010ecbcd807921c2] or any further information conditional on the receipt by the applicant, in relation to each supply, of a reasonable sum (in case of dispute, to be determined by the Secretary of State) calculated by reference to the cost of printing and distributing copies of the statement or further information, as the case may be.
+
+## 10. Projects affecting ... EEA States[^key-4845b04fe6a1edaa6069b1b8e1fae4b4]
+
+(1) Where an environmental statement is submitted to the Secretary of State in connection with an EIA application, he receives an application pursuant to regulation 4(1)(a) above or gives an opinion pursuant to regulation 5(2) above and—
+
+- (a) it appears to him that the relevant pipe-line works in question are likely to have significant effects on the environment of an EEA State[^key-2d28b8fff62299375b1b1f90ad5d5fdc]; or
+- (b) an EEA State[^key-8ce0edccbf0db5af6df0afa48057190a] which considers its environment is likely to be significantly affected by such works so requests,
+
+he shall send the EEA State in question as soon as possible and no later than the date on which the environmental statement in respect of the relevant pipe-line works is made available to the public (except in a case where a request is made by an EEA State after that date)—
+
+- (i) a description of the relevant pipe-line works, together with any available information on the possible significant effects of the relevant pipe-line works on the environment of the [^key-fe2e5d5d574aad118a3bf59c6c08545e]... EEA State; and
+- (ii) a notice explaining the nature of the decision to be taken as to whether or not to grant consent for the carrying out of the relevant pipe-line works and informing the EEA State in question that it may within such reasonable period as may be specified in the notice request to participate in the procedure relating to the taking of the decision pursuant to these Regulations.
+
+(2) Where an[^key-1b4fb9bb269f332e0afe535d169b7af2] EEA State requests to participate in the procedure under these Regulations in relation to particular relevant pipe-line works, the Secretary of State shall—
+
+- (a) save to the extent that he has not already done so, send that EEA State—
+  - (i) a copy of the EIA application (excluding any material which the applicant is not entitled to make available for public inspection or which the Secretary of State has agreed should not be made available for public inspection) and any plan submitted with it;
+  - (ii) the environmental statement in respect of the relevant pipe-line works; and
+  - (iii) to the extent that it is not included in the items referred to in sub-sub-paragraph (i) or (ii) above and subject to paragraph (3) below, any other available information which is relevant to the procedure under these Regulations including the address of the public website referred to in regulation 7(4)(a)[^key-6a7cff3f18b1abff91a2d5da8ff7da3e]; and
+- (b) enter into consultations with the EEA State concerned, for such reasonable period as may have been agreed with that EEA State, regarding, inter alia, the possible significant effects of the relevant pipe-line works on the environment of that EEA State and the measures envisaged to reduce or eliminate such effects.
+
+(3) Nothing in this regulation shall require the disclosure by the Secretary of State of any material which is subject to an obligation of confidentiality under the law of any part of Great Britain.
+
+## 11. Applications to court
+
+(1) Subject to paragraph (2) below, for the purposes of regulations 12 and 13 below, the expression “the court" means—
+
+- (a) in respect of relevant pipe-line works in England and Wales, the High Court; and
+- (b) in respect of relevant pipe-line works in Scotland, the Court of Session.
+
+(2) Where any relevant pipe-line works are carried out or are to be carried out in both England and Wales and Scotland, then the High Court and the Court of Session shall both have jurisdiction in relation to any application under regulation 12 or 13 below.
+
+## 12. Application to court by person aggrieved
+
+(1) On the application of any person aggrieved by—
+
+- (a) the grant of a pipe-line construction authorisation in respect of relevant pipe-line works, or
+- (b) the attaching by the Secretary of State, for reasons arising from his consideration of the environmental statement submitted by the applicant, of a condition to the permission deemed to be granted in respect of relevant pipe-line works under a direction by the Secretary of State under section 5 of the 1962 Act,
+
+the court may grant an order quashing the authorisation or, as the case may be, the condition where it is satisfied that the authorisation was granted or the condition attached, as the case may be, in contravention of regulation 3(2)(b) above or that the interests of the person applying to the court have been substantially prejudiced by any contravention of any other requirement of these Regulations.
+
+(2) An application to the court under this regulation shall be made no later than 6 weeks after the date of last publication by the applicant of details of the Secretary of State’s decision in respect of the EIA application in question in accordance with regulation 3(5) above.
+
+(3) The court may by interim order, pending the determination of any question referred to in paragraph (1) above, stay the operation of the authorisation or, as the case may be, any condition of the kind referred to in paragraph (1)(b) above on such terms as it may think fit.
+
+## 13. Application to the court by Secretary of State
+
+(1) Subject to paragraph (3) below, where an applicant carries out relevant pipe-line works in breach of a condition of the kind referred to in regulation 12(1)(b) above the court may, on the application of the Secretary of State, make an order restraining the applicant from proceeding or continuing with the works or compelling him to the performance of any act required of him by any such condition.
+
+(2) The court may, in addition to making such an order as is mentioned in paragraph (1) above, make an order requiring—
+
+- (a) the removal, so far as is practicable in all the circumstances, of any pipe-lines, structures or other things placed in land as a result of the carrying out of any relevant pipe-line works;
+- (b) where it so orders such removal, the reinstatement of the site where the works had been carried out.
+
+(3) The court shall not make an order under this regulation in respect of a breach of any condition of the kind referred to in regulation 12(1)(b) above where it is satisfied that—
+
+- (a) the breach in question was due to circumstances beyond the control of the applicant and the breach could not reasonably have been prevented by him; or
+- (b) the breach occurred as a result of anything required to be done as a matter of urgency for the purposes of securing the safety of any person.
+
+(4) Where the applicant fails to comply with an order made pursuant to paragraph (2) above within such time as may be specified in it or, in default of such specification, within a reasonable time of the making of the order, the Secretary of State may himself take the action required by the order and the reasonable costs and expenses of doing so shall be recoverable as a debt from the applicant.
+
+(5) Where the Secretary of State takes action in accordance with paragraph (4) above, that action shall be without prejudice to any consequences which may flow from the applicant’s failure to comply with the order.
+
+## 14. Offences
+
+(1) Any person who intentionally or recklessly submits to the Secretary of State—
+
+- (a)[^key-4b9cf5076516525e55c62ea28da12b39] an environmental statement;
+- (b) supplementary information;
+- (c) appropriate particulars;
+- (d) additional information; or
+- (e) any information required to be submitted by virtue of any provision of these Regulations,
+
+which is false or misleading in a material particular shall be guilty of an offence.
+
+(2) Subject to paragraph (3) below, an applicant who intentionally contravenes a condition of the kind referred to in regulation 12(1)(b) above shall be guilty of an offence.
+
+(3) It shall be a defence to a charge under paragraph (2) above for the applicant to show—
+
+- (a) that he took all reasonable steps and exercised all due diligence to avoid committing the offence; or
+- (b) that the acts in question were attributable to anything required to be done as a matter of urgency for the purposes of securing the safety of any person.
+
+(4) A person guilty of an offence under this regulation shall on summary conviction be liable to a fine not exceeding the statutory maximum and on conviction on indictment to a fine.
+
+(5) Where an offence under any provision of this regulation committed by a body corporate is proved to have been committed with the consent or connivance of, or to have been attributable to any neglect on the part of, any director, manager, secretary or other similar officer of the body corporate or a person who was purporting to act in such capacity, he as well as the body corporate shall be guilty of that offence and shall be liable to be proceeded against and punished accordingly.
+
+(6) Where the affairs of a body corporate are managed by its members, paragraph (5) above shall apply in relation to the acts or defaults of a member in connection with his functions of management as if he were a director of the body corporate.
+
+(7) No proceedings for an offence under this regulation shall be instituted in England and Wales except—
+
+- (a) by or with the consent of the Director of Public Prosecutions; or
+- (b) by the Secretary of State or a person authorised by him in that behalf.
+
+## 15. Service of notices
+
+(1) Any notice or other document required or authorised to be given to or served on any person under these Regulations may be given or served by—
+
+- (a) delivering it to that person; or
+- (b) leaving it at his proper address; or
+- (c) sending it to his proper address by the recorded delivery service.
+
+(2) Any notice or other document required or authorised to be given to or served on any body corporate or unincorporated association other than a partnership shall be duly given to or served on the secretary or clerk or other similar officer of that body.
+
+(3) Any notice or other document required or authorised to be given to or served on any partnership may be given to or served on a partner or a person having the control or management of the partnership business.
+
+(4) Subject to paragraph (5) below, for the purposes of this regulation, the proper address of any person to whom or on whom any such notice or document is to be given or served shall be his last known address except that such address shall be—
+
+- (a) in the case of a body corporate or their secretary or clerk, the address of the registered office or principal office of the body corporate;
+- (b) in the case of an unincorporated association (other than a partnership) or their secretary or clerk, the address of the principal office of the association; and
+- (c) in the case of a partnership or a person having control or the management of the partnership business, the address of the principal office of the partnership, and for the purposes of this paragraph the principal office of a company registered outside Great Britain or of a partnership carrying on business outside Great Britain shall be its principal office within Great Britain.
+
+(5) If the person to be given or served with any such notice or document has furnished the person by whom the notice or document is to be given or served with an address pursuant to any provision of these Regulations, that address shall also be treated for the purposes of this regulation as his proper address.
+
+## 16. Review[^key-6ebcbdff977a654336951191eb741cfd]
+
+(1) The Secretary of State must from time to time—
+
+- (a) carry out a review of the regulatory provision contained in these Regulations, and
+- (b) publish a report setting out the conclusions of the review.
+
+(2) The first report must be published before 16th May 2022.
+
+(3) Subsequent reports must be published at intervals not exceeding 5 years.
+
+(4) Section 30(3) of the Small Business, Enterprise and Employment Act 2015 requires that a review carried out under this regulation must, so far as is reasonable, have regard to how the Directive is implemented in other member States.
+
+(5) Section 30(4) of the Small Business, Enterprise and Employment Act 2015 requires that a report published under this regulation must, in particular—
+
+- (a) set out the objectives intended to be achieved by the regulatory provision referred to in paragraph (1)(a);
+- (b) assess the extent to which those objectives are achieved;
+- (c) assess whether those objectives remain appropriate; and
+- (d) if those objectives remain appropriate, assess the extent to which they could be achieved in another way which involves less onerous regulatory provision.
+
+(6) In this regulation, “regulatory provision” has the same meaning as in sections 28 to 32 of the Small Business, Enterprise and Employment Act 2015 (see section 32 of that Act).
+
+Helen Liddell,
+
+Minister for Energy and Competitiveness in Europe,
+
+Department of Trade and Industry
+
+## SCHEDULE 1 — Information for the Environmental Statement[^key-f63561cb698f2e10dbacf999abf5c527]
+
+Regulation 2B
+
+**1.** A description of the relevant pipe-line works, including in particular:
+
+- (a) a description of the location of the works;
+- (b) a description of the physical characteristics of the whole works, including, where relevant, requisite demolition works, and the land-use requirements during the construction and operational phases;
+- (c) a description of the main characteristics of the operational phase of the works (in particular any production process), for instance, energy demand and energy used, nature and quantity of the materials and natural resources (including water, land, soil and biodiversity) used;
+- (d) an estimate, by type and quantity, of expected residues and emissions (such as water, air, soil and subsoil pollution, noise, vibration, light, heat, radiation) and quantities and types of waste produced during the construction and operation phases.
+
+**2.** A description of the reasonable alternatives (for example in terms of project design, technology, location, size and scale) studied by the prospective applicant, which are relevant to the relevant pipe-line works and their specific characteristics, and an indication of the main reasons for selecting the chosen option, including a comparison of the environmental effects.
+
+**3.** A description of the relevant aspects of the current state of the environment (baseline scenario) and an outline of the likely evolution thereof without implementation of the relevant pipe-line works as far as natural changes from the baseline scenario can be assessed with reasonable effort on the basis of the availability of environmental information and scientific knowledge.
+
+**4.** A description of the factors set out in regulation 2A(2)(a)[^key-6ad0812475097b62d2aea24fadd1806e] likely to be significantly affected by the relevant pipe-line works: population, human health, biodiversity (for example fauna and flora), land (for example land take), soil (for example organic matter, erosion, compaction, sealing), water (for example hydromorphological changes, quantity and quality), air, climate (for example greenhouse gas emissions, impacts relevant to adaptation), material assets, cultural heritage, including architectural and archaeological aspects, and landscape.
+
+**5.** A description of the likely significant effects of the relevant pipe-line works on the environment resulting from, inter alia:
+
+- (a) the construction and existence of the works, including, where relevant, demolition works;
+- (b) the use of natural resources, in particular land, soil, water and biodiversity, considering as far as possible the sustainable availability of these resources;
+- (c) the emission of pollutants, noise, vibration, light, heat and radiation, the creation of nuisances, and the disposal and recovery of waste;
+- (d) the risks to human health, cultural heritage or the environment (for example due to accidents or disasters);
+- (e) the cumulation of effects with other existing or approved pipe-line works, taking into account any existing environmental problems relating to areas of particular environmental importance likely to be affected or the use of natural resources;
+- (f) the impact of the works on climate (for example the nature and magnitude of greenhouse gas emissions) and the vulnerability of the works to climate change;
+- (g) the technologies and the substances used, and
+
+these descriptions of the likely significant effects on the factors set out in regulation 2A(2)(a)[^key-b89f1f1cd6ca894f9424bfc311229c85] must cover the direct effects and any indirect, secondary, cumulative, transboundary, short-term, medium-term and long-term, permanent and temporary, positive and negative effects of the works and should take into account environmental protection objectives established at EU or at national level relevant to the works.
+
+**6.** A description of the forecasting methods or evidence, used to identify and assess the significant effects on the environment, including details of difficulties (for example technical deficiencies or lack of knowledge) encountered compiling the required information and the main uncertainties involved.
+
+**7.** A description of the measures envisaged to avoid, prevent, reduce or, if possible, offset any identified significant adverse effects on the environment and, where appropriate, of any proposed monitoring arrangements (for example the preparation of a post-project analysis).
+
+**8.** The description in paragraph 7 should explain the extent, to which significant adverse effects on the environment are avoided, prevented, reduced or offset, and should cover both the construction and operational phases.
+
+**9.** A description of the expected significant adverse effects of the relevant pipe-line works on the environment deriving from the vulnerability of the works to risks of major accidents or disasters which are relevant to the works concerned.
+
+**10.** Relevant information available and obtained through risk assessments pursuant to assimilated[^key-96f8ae86a575006c7bf1721cd28f960e][^key-84f9dd6acf0362e430ed2a5218840a82] law or relevant assessments carried out pursuant to any other law of any part of the United Kingdom may be used for describing the matters in paragraph 9, provided that the requirements of any law of any part of the United Kingdom that implemented[^key-21244a45303818ad57a066ac2ec35786] the Directive are met.
+
+**11.** In describing the matters in paragraph 9, the applicant should, where appropriate, include measures envisaged to prevent or mitigate the significant adverse effects of such events on the environment and details of the preparedness for and proposed response to such emergencies.
+
+**12.** A non-technical summary of the information provided under paragraphs 1 to 11.
+
+**13.** A reference list detailing the sources used for the descriptions and assessments included in the environmental statement.
+
+## SCHEDULE 2 — Matters to be Taken into Account in Giving a Direction under Regulation 4(2)[^key-6d0e01fd51e279a1fc3a883e42a4931a]
+
+Regulations 2 and 4
+
+### 1. Characteristics of relevant pipe-line works
+
+The characteristics of the relevant pipe-line works having regard, in particular, to—
+
+- (a) the size and design of the relevant pipe-line works and of the pipe-line;
+- (b) the cumulation with other existing or approved pipe-line works;
+- (c) the use of natural resources in particular land, soil, water and biodiversity;
+- (d) the production of waste, pollution and nuisances;
+- (e) the risk of major accidents or disasters which are relevant to the relevant pipe-line works or to the pipe-line, including those caused by climate change, in accordance with scientific knowledge; and
+- (f) the risks to human health (for example, due to water contamination or air pollution).
+
+### 2. Location of relevant pipe-line works
+
+The environmental sensitivity of geographical areas likely to be affected by the relevant pipe-line works, having regard in particular, to—
+
+- (a) the existing and approved land use;
+- (b) the relative abundance, availability, quality and regenerative capacity of natural resources (including soil, land, water and biodiversity) in the area and its underground;
+- (c) the absorption capacity of the natural environment, paying particular attention to the following areas—
+  - (i) wetlands, riparian areas, river mouths;
+  - (ii) coastal zones and the marine environment;
+  - (iii) mountain and forest areas;
+  - (iv) nature reserves and parks;
+  - (v) areas classified or protected under national legislation or Natura 2000 as defined in regulation 3(1) of the Conservation of Habitats and Species Regulations 2017;[^key-5dfc7b33dca6b9294c82b6e522f347e9]
+  - (vi) areas in which there has already been a failure to meet the environmental quality standards laid down in assimilated[^key-0fa6aa7068fefa4e71912fb3c59445bc][^key-c45dbf7a5136365f0e2fb989b1dd1b02] law and relevant to the project or in which it is considered that there is such a failure;
+  - (vii) densely populated areas; and
+  - (viii) landscapes and sites of historical, cultural or archaeological significance.
+
+### 3. Type and characteristics of the potential impact
+
+The likely significant effects of the relevant pipe-line works on the environment in relation to the criteria set out under paragraphs 1 and 2, and having regard in particular to the impact of the works on the factors specified in regulation 2A(2)(a)[^key-31a5d11e6016e65a88897d980ae0708b], taking into account—
+
+- (a) the magnitude and spatial extent of the impact (for example geographical area and size of the population likely to be affected);
+- (b) the nature of the impact;
+- (c) the transboundary nature of the impact;
+- (d) the intensity and complexity of the impact;
+- (e) the probability of the impact;
+- (f) the expected onset, duration, frequency and reversibility of the impact;
+- (g) the cumulation of the impact with the impact of other existing or approved developments; and
+- (h) the possibility of effectively reducing the impact.
+
+*(This note is not part of the Regulations)*
+
+These Regulations implement Council Directive [85/337/EEC](https://www.legislation.gov.uk/european/directive/1985/0337) (O.J. No. L175, 5.7.85, p.40) as amended by Council Directive [97/11/EC](https://www.legislation.gov.uk/european/directive/1997/0011) (O.J. No. L73, 3.3.97, p.5) on the assessment of the effects of certain public and private projects on the environment insofar as it relates to authorisations for the construction of oil, gas or chemical pipe-lines on land in Great Britain.
+
+The Electricity and Pipe-line Works (Assessment of Environmental Effects) Regulations 1990 (S.I. 1990/442) (to which there are amendments not relevant to these Regulations) implemented Directive [85/337/EEC](https://www.legislation.gov.uk/european/directive/1985/0337) in its unamended form insofar as it related both to authorisations under the Pipe-lines Act 1962 in respect of pipe-line works and to certain consents required under the Electricity Act 1989 (c. 29). The 1990 Regulations are revoked by the Electricity Works (Environmental Impact Assessment) (England and Wales) Regulations 2000 (S.I. 2000/1927) which re-enact the provisions of the 1990 Regulations in respect of electricity consents with the amendments necessary to implement Directive [97/11/EC](https://www.legislation.gov.uk/european/directive/1997/0011). These Regulations make separate provision for pipe-line works requiring the authorisation of the Secretary of State under the Pipe-lines Act 1962 and implement Directive [85/337/EEC](https://www.legislation.gov.uk/european/directive/1985/0337), as amended by Directive [97/11/EC](https://www.legislation.gov.uk/european/directive/1997/0011).
+
+Notwithstanding the revocation of the 1990 Regulations by the Electricity Works (Environmental Impact Assessment) (England and Wales) Regulations 2000, these Regulations make provision for the 1990 Regulations to continue to apply to any relevant application for an authorisation under the Pipe-lines Act 1962 which was received before these Regulations came into force (regulation 1(3)).
+
+Directive [85/337/EEC](https://www.legislation.gov.uk/european/directive/1985/0337), as amended by Directive [97/11/EC](https://www.legislation.gov.uk/european/directive/1997/0011), applies to the European Economic Area (“EEA") (see Article 74 of, and Annex XX to, the Agreement on the European Economic Area (Cm 2073) as adjusted by the Protocol signed at Brussels on 17th March 1993 (Cm 2183)) with the result that member States of the EEA are given rights to participate in the decision making process in respect of projects likely to have significant trans-boundary effects (regulation 10).
+
+Provision is made requiring applications for authorisation for the construction of certain pipe-lines to be accompanied by an environmental statement (regulation 3). (An environmental statement is a document or documents setting out the main features of the project in question and the likely environmental consequences of that project. The matters to be covered by an environmental statement are specified in regulation 2(1) and Schedule 1.) The relevant applications are those in respect of pipe-lines of more than 40 kilometres in length and more than 800 millimetres in diameter which carry oil, gas or chemicals (for which an environmental statement is mandatory) or any other pipe-line requiring authorisation which carries either oil or gas.
+
+Provision is made, in respect of those cases where an environmental statement is not mandatory, for the Secretary of State, where he is satisfied that the pipe-line works in question will not have a significant effect on the environment, to direct that an application need not be accompanied by an environmental statement (regulation 4). The applicant is required to submit particulars of the pipe-line works in question for consideration by the Secretary of State, who must consult the relevant planning authorities before giving a direction. Provision is made for copies of directions by the Secretary of State as to the need for an environmental statement to be made available to the public.
+
+Where an application is accompanied by an environmental statement, the Secretary of State must be satisfied before granting an authorisation that the requirements of the Regulations as to publicity and consultation have been substantially complied with and must consider any representations by environmental bodies interested in the works by reason of their environmental responsibilities and any representations by the public (regulation 3). Provision is also made for decisions by the Secretary of State in respect of authorisations to be made public.
+
+Provision is made requiring the Secretary of State, when so requested, to give a preliminary opinion to an applicant as to the information to be included in an environmental statement which the applicant is to submit (regulation 5). The Secretary of State is required to consult certain public bodies (defined in regulation 2(1) as “the consultation bodies") and the applicant before giving an opinion.
+
+Provision is made to enable persons proposing to carry out pipe-line works to obtain information from the consultation bodies to assist in the preparation of environmental statements (regulation 6).
+
+The Regulations also lay down requirements for publicity for and public consultation on the environmental statement and the application for authorisation (regulation 7). Power is conferred on the Secretary of State to require persons proposing to carry out pipe-line works to provide further information in relation to environmental statements submitted to him and for such information to be subject to publication requirements similar to those laid down by regulation 7 (regulation 8).
+
+Provision is made for other EEA member States to participate in the decision making process in relation to pipe-line works likely to have a significant effect on their environment (regulation 10).
+
+Provision is made by the Regulations for the making of applications to the court by persons challenging certain decisions of the Secretary of State. Subject to certain exceptions, provision is also made for the Secretary of State to make applications to the court to seek remedies in respect of the carrying out of pipe-line works in breach of any conditions imposed to protect the environment (regulations 11, 12 and 13).
+
+Provision is made creating offences in respect of the intentional or reckless submission of false or misleading information pursuant to the Regulations and, subject to certain exceptions, the carrying out of pipe-line works in breach of any conditions imposed to protect the environment (regulation 14).
+
+Provision is made in relation to the service of notices and other documents pursuant to the Regulations (regulation 15).
+
+A regulatory impact assessment has been prepared in relation to these Regulations. It has been placed in the Library of each House of Parliament and copies are available from Oil and Gas Directorate, Department of Trade and Industry, 1 Victoria Street, London SW1H 0ET (Tel: 020 7215 5151).
+
+## Annotations
+
+[^c1605009]: Marginal citation: [S.I. 1988/785](https://www.legislation.gov.uk/uksi/1988/785).
+
+[^c1605010]: Marginal citation: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68). By virtue of the amendment of section 1(2) of the European Communities Act 1972 by section 1 of the [European Economic Area Act 1993 (c. 51)](https://www.legislation.gov.uk/ukpga/1993/51) regulations may be made under section 2(2) of the European Communities Act 1972 to implement obligations created or arising by or under the Agreement on the European Economic Area signed at Oporto on 2nd May 1992 (Cm 2073) and the Protocol adjusting the Agreement signed at Brussels on 17th March 1993 (Cm 2183).
+
+[^key-e711081414048952353a267b3b43e2f4]: Modification: Regulations: functions made exercisable (14.12.2000) by [The Scotland Act 1998 (Transfer of Functions to the Scottish Ministers etc.) (No. 2) Order 2000 (S.I. 2000/3253)](https://www.legislation.gov.uk/uksi/2000/3253), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2000/3253/article/1/1), [2](https://www.legislation.gov.uk/uksi/2000/3253/article/2), [Sch. 1 para. 6(1)](https://www.legislation.gov.uk/uksi/2000/3253/schedule/1/paragraph/6/1)[(2)(b)](https://www.legislation.gov.uk/uksi/2000/3253/schedule/1/paragraph/6/2/b) (with [art. 6](https://www.legislation.gov.uk/uksi/2000/3253/article/6))
+
+[^key-6c53189a241475fb9e3888b5002c53a4]: Modification: Regulations: transfer of functions (15.12.2000) by [The Scotland Act 1998 (Transfer of Functions to the Scottish Ministers etc.) (No. 2) Order 2000 (S.I. 2000/3253)](https://www.legislation.gov.uk/uksi/2000/3253), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2000/3253/article/1/1), [3](https://www.legislation.gov.uk/uksi/2000/3253/article/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2000/3253/schedule/2) (with [art. 6](https://www.legislation.gov.uk/uksi/2000/3253/article/6))
+
+[^key-b3eb2344f0609e27135ad0d479fdaf92]: Modification: Regulations modified (31.12.2020) by [S.I. 2017/580](https://www.legislation.gov.uk/uksi/2017/580), [reg. 42(4A)](https://www.legislation.gov.uk/uksi/2017/580/regulation/42/4A) (as inserted by [The Pipe-lines, Petroleum, Electricity Works and Oil Stocking (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1325)](https://www.legislation.gov.uk/uksi/2018/1325), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1325/regulation/1/1), [10(9)](https://www.legislation.gov.uk/uksi/2018/1325/regulation/10/9); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1))
+
+[^key-560d121d9213bcc5018a98f9d48b73d8]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2000/1928): power to amend or revoke conferred (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 164(3)](https://www.legislation.gov.uk/ukpga/2023/55/section/164/3), [255(5)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/5), [Sch. 14 Pt. 1](https://www.legislation.gov.uk/ukpga/2023/55/schedule/14/part/1) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
+
+[^key-2a820d7d3eeb53b846a32cf3731500f7]: Textual amendment: [Reg. 1(3)](https://www.legislation.gov.uk/uksi/2000/1928/regulation/1/3) revoked (16.5.2025) by [The Energy (Euratom Decisions and Miscellaneous Provisions) (Amendment and Revocation) Regulations 2025 (S.I. 2025/514)](https://www.legislation.gov.uk/uksi/2025/514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/514/regulation/1/2), [4(2)](https://www.legislation.gov.uk/uksi/2025/514/regulation/4/2)
+
+[^c1605013]: Marginal citation: [1962 c. 58](https://www.legislation.gov.uk/ukpga/1962/58).
+
+[^key-5f1685a30ed16926ae554d72ec69c47f]: Textual amendment: Words in reg. 2 inserted (20.8.2007) by [The Pipe-line Works (Environmental Impact Assessment) (Amendment) Regulations 2007 (S.I. 2007/1992)](https://www.legislation.gov.uk/uksi/2007/1992), [regs. 1](https://www.legislation.gov.uk/uksi/2007/1992/regulation/1), [4(a)](https://www.legislation.gov.uk/uksi/2007/1992/regulation/4/a) (with [reg. 12](https://www.legislation.gov.uk/uksi/2007/1992/regulation/12))
+
+[^key-036a1dbee70ed7bf97ca2280ce669849]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2000/1928/regulation/2) substituted (16.5.2017) by [The Offshore Petroleum Production and Pipe-lines (Environmental Impact Assessment and other Miscellaneous Provisions) (Amendment) Regulations 2017 (S.I. 2017/582)](https://www.legislation.gov.uk/uksi/2017/582), [regs. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1), [46(a)](https://www.legislation.gov.uk/uksi/2017/582/regulation/46/a) (with [reg. 58](https://www.legislation.gov.uk/uksi/2017/582/regulation/58))
+
+[^key-7d341e9c477c244772fff927fd250372]: Textual amendment: Word in [reg. 2](https://www.legislation.gov.uk/uksi/2000/1928/regulation/2) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 13 para. 4(2)(a)](https://www.legislation.gov.uk/uksi/2025/82/schedule/13/paragraph/4/2/a)
+
+[^key-7f539c87ff5a55b114084fb1bf2e67db]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2000/1928/regulation/2) substituted (31.12.2020) by [The Pipe-lines, Petroleum, Electricity Works and Oil Stocking (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1325)](https://www.legislation.gov.uk/uksi/2018/1325), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1325/regulation/1/1), [5(2)](https://www.legislation.gov.uk/uksi/2018/1325/regulation/5/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c1605014]: Marginal citation: 1971\. c. 80.
+
+[^c1605015]: Marginal citation: *See* section 1(1) of the National Parks and Access to the [Countryside Act 1949 (c. 97)](https://www.legislation.gov.uk/ukpga/1949/97), as substituted by the [Environmental Protection Act 1990 (c. 43)](https://www.legislation.gov.uk/ukpga/1990/43), [section 130](https://www.legislation.gov.uk/ukpga/1990/43/section/130) and Schedule 8, paragraph 1 and as amended by [S.I. 1999/416](https://www.legislation.gov.uk/uksi/1999/416).
+
+[^c1605016]: Marginal citation: *See* section 128 of the Environmental Protection Act 1990.
+
+[^c1605017]: Marginal citation: *See* section 1(1) of the [Environment Act 1995 (c. 25)](https://www.legislation.gov.uk/ukpga/1995/25).
+
+[^c1605018]: Marginal citation: *See* section 1 of the [Natural Heritage (Scotland) Act 1991 (c. 28)](https://www.legislation.gov.uk/ukpga/1991/28).
+
+[^c1605019]: Marginal citation: *See* section 20 of the Environment Act 1995.
+
+[^key-c270c581fdeee5ca6ad6d70292c24439]: Textual amendment: Words in reg. 2 substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 131(2)](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/131/2) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+
+[^key-75b10be607e34a219059bea21a95476f]: Textual amendment: Words in reg. 2 inserted (20.8.2007) by [The Pipe-line Works (Environmental Impact Assessment) (Amendment) Regulations 2007 (S.I. 2007/1992)](https://www.legislation.gov.uk/uksi/2007/1992), [regs. 1](https://www.legislation.gov.uk/uksi/2007/1992/regulation/1), [4(b)](https://www.legislation.gov.uk/uksi/2007/1992/regulation/4/b) (with [reg. 12](https://www.legislation.gov.uk/uksi/2007/1992/regulation/12))
+
+[^key-0546391d4ba2c68355512b3a56719c34]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2000/1928/regulation/2) inserted (16.5.2017) by [The Offshore Petroleum Production and Pipe-lines (Environmental Impact Assessment and other Miscellaneous Provisions) (Amendment) Regulations 2017 (S.I. 2017/582)](https://www.legislation.gov.uk/uksi/2017/582), [regs. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1), [46(b)](https://www.legislation.gov.uk/uksi/2017/582/regulation/46/b) (with [reg. 58](https://www.legislation.gov.uk/uksi/2017/582/regulation/58))
+
+[^key-0f71f67bf0f24af17e8cd3923e790249]: Textual amendment: Words in reg. 2 substituted (20.8.2007) by [The Pipe-line Works (Environmental Impact Assessment) (Amendment) Regulations 2007 (S.I. 2007/1992)](https://www.legislation.gov.uk/uksi/2007/1992), [regs. 1](https://www.legislation.gov.uk/uksi/2007/1992/regulation/1), [4(c)](https://www.legislation.gov.uk/uksi/2007/1992/regulation/4/c) (with [reg. 12](https://www.legislation.gov.uk/uksi/2007/1992/regulation/12))
+
+[^key-e3b4ada5a5930e51f5f58ca8fd050673]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2000/1928/regulation/2) substituted (16.5.2017) by [The Offshore Petroleum Production and Pipe-lines (Environmental Impact Assessment and other Miscellaneous Provisions) (Amendment) Regulations 2017 (S.I. 2017/582)](https://www.legislation.gov.uk/uksi/2017/582), [regs. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1), [46(c)](https://www.legislation.gov.uk/uksi/2017/582/regulation/46/c) (with [reg. 58](https://www.legislation.gov.uk/uksi/2017/582/regulation/58))
+
+[^key-3b2268835b8a0548368742b5d37b7652]: Textual amendment: Words in reg. 2 inserted (20.8.2007) by [The Pipe-line Works (Environmental Impact Assessment) (Amendment) Regulations 2007 (S.I. 2007/1992)](https://www.legislation.gov.uk/uksi/2007/1992), [regs. 1](https://www.legislation.gov.uk/uksi/2007/1992/regulation/1), [4(d)](https://www.legislation.gov.uk/uksi/2007/1992/regulation/4/d) (with [reg. 12](https://www.legislation.gov.uk/uksi/2007/1992/regulation/12))
+
+[^c1605023]: Marginal citation: [1990 c. 8](https://www.legislation.gov.uk/ukpga/1990/8).
+
+[^c1605024]: Marginal citation: [1994 c. 39](https://www.legislation.gov.uk/ukpga/1994/39).
+
+[^key-420698d7581598610982f1431dcc9ac8]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2000/1928/regulation/2) inserted (16.5.2017) by [The Offshore Petroleum Production and Pipe-lines (Environmental Impact Assessment and other Miscellaneous Provisions) (Amendment) Regulations 2017 (S.I. 2017/582)](https://www.legislation.gov.uk/uksi/2017/582), [regs. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1), [46(d)](https://www.legislation.gov.uk/uksi/2017/582/regulation/46/d) (with [reg. 58](https://www.legislation.gov.uk/uksi/2017/582/regulation/58))
+
+[^key-5e30fb045aaba00f91d2d317efb321ba]: Textual amendment: Words in reg. 2 substituted (20.8.2007) by [The Pipe-line Works (Environmental Impact Assessment) (Amendment) Regulations 2007 (S.I. 2007/1992)](https://www.legislation.gov.uk/uksi/2007/1992), [regs. 1](https://www.legislation.gov.uk/uksi/2007/1992/regulation/1), [4(e)](https://www.legislation.gov.uk/uksi/2007/1992/regulation/4/e) (with [reg. 12](https://www.legislation.gov.uk/uksi/2007/1992/regulation/12))
+
+[^key-e0e7625a073d1c74565b9acf83f3d2a2]: Textual amendment: Words in reg. 2 inserted (16.11.2011) by [The Storage of Carbon Dioxide (Amendment of the Energy Act 2008 etc.) Regulations 2011 (S.I. 2011/2453)](https://www.legislation.gov.uk/uksi/2011/2453), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2453/regulation/1/1), [14(2)](https://www.legislation.gov.uk/uksi/2011/2453/regulation/14/2) (with [reg. 15](https://www.legislation.gov.uk/uksi/2011/2453/regulation/15))
+
+[^key-49854e5c80c7207386badb3d034de517]: Textual amendment: Words in reg. 2 inserted (20.8.2007) by [The Pipe-line Works (Environmental Impact Assessment) (Amendment) Regulations 2007 (S.I. 2007/1992)](https://www.legislation.gov.uk/uksi/2007/1992), [regs. 1](https://www.legislation.gov.uk/uksi/2007/1992/regulation/1), [4(f)](https://www.legislation.gov.uk/uksi/2007/1992/regulation/4/f) (with [reg. 12](https://www.legislation.gov.uk/uksi/2007/1992/regulation/12))
+
+[^key-0af7024bc406ab7d8531373f95eda63b]: Textual amendment: [Regs. 2A-2C](https://www.legislation.gov.uk/uksi/2000/1928/regulation/2A) inserted (16.5.2017) by [The Offshore Petroleum Production and Pipe-lines (Environmental Impact Assessment and other Miscellaneous Provisions) (Amendment) Regulations 2017 (S.I. 2017/582)](https://www.legislation.gov.uk/uksi/2017/582), [regs. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1), [47](https://www.legislation.gov.uk/uksi/2017/582/regulation/47) (with [reg. 58](https://www.legislation.gov.uk/uksi/2017/582/regulation/58))
+
+[^key-dfe8c912521fa4dba48aaa16a1d7f093]: Textual amendment: Words in [reg. 2A(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2000/1928/regulation/2A/2/a/ii) inserted (31.12.2020) by [The Pipe-lines, Petroleum, Electricity Works and Oil Stocking (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1325)](https://www.legislation.gov.uk/uksi/2018/1325), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1325/regulation/1/1), [5(3)](https://www.legislation.gov.uk/uksi/2018/1325/regulation/5/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-9d79d970624f29e007de1978cb2d8627]: Textual amendment: Words in [reg. 2B(2)](https://www.legislation.gov.uk/uksi/2000/1928/regulation/2B/2) substituted (31.12.2020) by [The Pipe-lines, Petroleum, Electricity Works and Oil Stocking (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1325)](https://www.legislation.gov.uk/uksi/2018/1325), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1325/regulation/1/1), [5(4)](https://www.legislation.gov.uk/uksi/2018/1325/regulation/5/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-c6a65f42b071216246f8bd4031bcbc1c]: Textual amendment: Words in [reg. 2C(1)(b)](https://www.legislation.gov.uk/uksi/2000/1928/regulation/2C/1/b) inserted (31.12.2020) by [The Pipe-lines, Petroleum, Electricity Works and Oil Stocking (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1325)](https://www.legislation.gov.uk/uksi/2018/1325), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1325/regulation/1/1), [5(5)](https://www.legislation.gov.uk/uksi/2018/1325/regulation/5/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-ce4802a864104ebe586fc550733f9be3]: Textual amendment: Words in [reg. 2C(4)(b)](https://www.legislation.gov.uk/uksi/2000/1928/regulation/2C/4/b) substituted (31.12.2020) by [The Pipe-lines, Petroleum, Electricity Works and Oil Stocking (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1325)](https://www.legislation.gov.uk/uksi/2018/1325), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1325/regulation/1/1), [5(7)](https://www.legislation.gov.uk/uksi/2018/1325/regulation/5/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-e2e98c6854c5defe2965ae665ded3868]: Textual amendment: Word in [reg. 2C(4)(b)](https://www.legislation.gov.uk/uksi/2000/1928/regulation/2C/4/b) omitted (31.12.2020) by virtue of [The Pipe-lines, Petroleum, Electricity Works and Oil Stocking (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1325)](https://www.legislation.gov.uk/uksi/2018/1325), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1325/regulation/1/1), [5(8)](https://www.legislation.gov.uk/uksi/2018/1325/regulation/5/8); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-a7d0ba5d61bd9ebf9e663ca00213cd3e]: Textual amendment: [Reg. 2C(4)(c)](https://www.legislation.gov.uk/uksi/2000/1928/regulation/2C/4/c) and word omitted (31.12.2020) by virtue of [The Pipe-lines, Petroleum, Electricity Works and Oil Stocking (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1325)](https://www.legislation.gov.uk/uksi/2018/1325), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1325/regulation/1/1), [5(6)](https://www.legislation.gov.uk/uksi/2018/1325/regulation/5/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-486bc9017a941ad49c1346380497c8fa]: Textual amendment: Reg. 3(1A) inserted (16.5.2017) by [The Offshore Petroleum Production and Pipe-lines (Environmental Impact Assessment and other Miscellaneous Provisions) (Amendment) Regulations 2017 (S.I. 2017/582)](https://www.legislation.gov.uk/uksi/2017/582), [regs. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1), [48(a)](https://www.legislation.gov.uk/uksi/2017/582/regulation/48/a) (with [reg. 58](https://www.legislation.gov.uk/uksi/2017/582/regulation/58))
+
+[^key-f318d33e46e3c315bfa1be390beb8046]: Textual amendment: Reg. 3(2) substituted (16.5.2017) by [The Offshore Petroleum Production and Pipe-lines (Environmental Impact Assessment and other Miscellaneous Provisions) (Amendment) Regulations 2017 (S.I. 2017/582)](https://www.legislation.gov.uk/uksi/2017/582), [regs. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1), [48(b)](https://www.legislation.gov.uk/uksi/2017/582/regulation/48/b) (with [reg. 58](https://www.legislation.gov.uk/uksi/2017/582/regulation/58))
+
+[^key-48b898c153f406b96bff52034ef6a315]: Textual amendment: Reg. 3(2A)-(2E) inserted (16.5.2017) by [The Offshore Petroleum Production and Pipe-lines (Environmental Impact Assessment and other Miscellaneous Provisions) (Amendment) Regulations 2017 (S.I. 2017/582)](https://www.legislation.gov.uk/uksi/2017/582), [regs. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1), [48(c)](https://www.legislation.gov.uk/uksi/2017/582/regulation/48/c) (with [reg. 58](https://www.legislation.gov.uk/uksi/2017/582/regulation/58))
+
+[^key-c465367bc6e1f032b3cfd15cc4ce10c4]: Textual amendment: Words in [reg. 3(2D)(b)](https://www.legislation.gov.uk/uksi/2000/1928/regulation/3/2D/b) substituted (31.12.2020) by [The Pipe-lines, Petroleum, Electricity Works and Oil Stocking (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1325)](https://www.legislation.gov.uk/uksi/2018/1325), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1325/regulation/1/1), [5(9)](https://www.legislation.gov.uk/uksi/2018/1325/regulation/5/9); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-5fefd1fd5cadcaadb7f7d66327b58ee4]: Textual amendment: Words in [reg. 3(3)](https://www.legislation.gov.uk/uksi/2000/1928/regulation/3/3) substituted (31.12.2020) by [The Pipe-lines, Petroleum, Electricity Works and Oil Stocking (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1325)](https://www.legislation.gov.uk/uksi/2018/1325), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1325/regulation/1/1), [5(7)](https://www.legislation.gov.uk/uksi/2018/1325/regulation/5/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-bdfe93689c5dda792891fdb6d7a4e0ed]: Textual amendment: Word in [reg. 3(3)(b)](https://www.legislation.gov.uk/uksi/2000/1928/regulation/3/3/b) omitted (31.12.2020) by virtue of [The Pipe-lines, Petroleum, Electricity Works and Oil Stocking (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1325)](https://www.legislation.gov.uk/uksi/2018/1325), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1325/regulation/1/1), [5(8)](https://www.legislation.gov.uk/uksi/2018/1325/regulation/5/8); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-c35090a8b897f6634a508ab21f7b5db9]: Textual amendment: Words in reg. 3(3)(c)(ii) inserted (16.5.2017) by [The Offshore Petroleum Production and Pipe-lines (Environmental Impact Assessment and other Miscellaneous Provisions) (Amendment) Regulations 2017 (S.I. 2017/582)](https://www.legislation.gov.uk/uksi/2017/582), [regs. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1), [48(d)](https://www.legislation.gov.uk/uksi/2017/582/regulation/48/d) (with [reg. 58](https://www.legislation.gov.uk/uksi/2017/582/regulation/58))
+
+[^key-4faf1b20add607b353c2a07349452ca2]: Textual amendment: Word in reg. 3(4) inserted (16.5.2017) by [The Offshore Petroleum Production and Pipe-lines (Environmental Impact Assessment and other Miscellaneous Provisions) (Amendment) Regulations 2017 (S.I. 2017/582)](https://www.legislation.gov.uk/uksi/2017/582), [regs. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1), [48(e)(i)](https://www.legislation.gov.uk/uksi/2017/582/regulation/48/e/i) (with [reg. 58](https://www.legislation.gov.uk/uksi/2017/582/regulation/58))
+
+[^key-e3f69bd5121642717be67aff1fb836f6]: Textual amendment: Reg. 3(4)(a)(b) substituted (20.8.2007) by [The Pipe-line Works (Environmental Impact Assessment) (Amendment) Regulations 2007 (S.I. 2007/1992)](https://www.legislation.gov.uk/uksi/2007/1992), [regs. 1](https://www.legislation.gov.uk/uksi/2007/1992/regulation/1), [5(b)](https://www.legislation.gov.uk/uksi/2007/1992/regulation/5/b) (with [reg. 12](https://www.legislation.gov.uk/uksi/2007/1992/regulation/12))
+
+[^key-bebe305b240ecfb08ca1363214c67907]: Textual amendment: Words in reg. 3(4)(b)(ii) inserted (16.5.2017) by [The Offshore Petroleum Production and Pipe-lines (Environmental Impact Assessment and other Miscellaneous Provisions) (Amendment) Regulations 2017 (S.I. 2017/582)](https://www.legislation.gov.uk/uksi/2017/582), [regs. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1), [48(e)(ii)](https://www.legislation.gov.uk/uksi/2017/582/regulation/48/e/ii) (with [reg. 58](https://www.legislation.gov.uk/uksi/2017/582/regulation/58))
+
+[^key-1c503ea8a82949327f68c2a84b162f16]: Textual amendment: Word in [reg. 3(4)(b)(ii)](https://www.legislation.gov.uk/uksi/2000/1928/regulation/3/4/b/ii) omitted (31.12.2020) by virtue of [The Pipe-lines, Petroleum, Electricity Works and Oil Stocking (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1325)](https://www.legislation.gov.uk/uksi/2018/1325), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1325/regulation/1/1), [5(8)](https://www.legislation.gov.uk/uksi/2018/1325/regulation/5/8); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-77f73153a6fb14804d3aa5866bc75394]: Textual amendment: Words in reg. 3(4)(b)(iv) inserted (16.5.2017) by [The Offshore Petroleum Production and Pipe-lines (Environmental Impact Assessment and other Miscellaneous Provisions) (Amendment) Regulations 2017 (S.I. 2017/582)](https://www.legislation.gov.uk/uksi/2017/582), [regs. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1), [48(e)(iii)](https://www.legislation.gov.uk/uksi/2017/582/regulation/48/e/iii) (with [reg. 58](https://www.legislation.gov.uk/uksi/2017/582/regulation/58))
+
+[^key-2f49b312031371397d491fe84a2b00ca]: Textual amendment: Reg. 3(5) substituted (20.8.2007) by [The Pipe-line Works (Environmental Impact Assessment) (Amendment) Regulations 2007 (S.I. 2007/1992)](https://www.legislation.gov.uk/uksi/2007/1992), [regs. 1](https://www.legislation.gov.uk/uksi/2007/1992/regulation/1), [5(c)](https://www.legislation.gov.uk/uksi/2007/1992/regulation/5/c) (with [reg. 12](https://www.legislation.gov.uk/uksi/2007/1992/regulation/12))
+
+[^key-abb6dd4a9a184d3b606a9393fcab9011]: Textual amendment: Reg. 3(5)(c) and word inserted (16.5.2017) by [The Offshore Petroleum Production and Pipe-lines (Environmental Impact Assessment and other Miscellaneous Provisions) (Amendment) Regulations 2017 (S.I. 2017/582)](https://www.legislation.gov.uk/uksi/2017/582), [regs. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1), [48(f)](https://www.legislation.gov.uk/uksi/2017/582/regulation/48/f) (with [reg. 58](https://www.legislation.gov.uk/uksi/2017/582/regulation/58))
+
+[^key-fea2932eacfaf121aafeb816b67fc84b]: Textual amendment: Reg. 3(5A) substituted (16.5.2017) by [The Offshore Petroleum Production and Pipe-lines (Environmental Impact Assessment and other Miscellaneous Provisions) (Amendment) Regulations 2017 (S.I. 2017/582)](https://www.legislation.gov.uk/uksi/2017/582), [regs. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1), [48(g)](https://www.legislation.gov.uk/uksi/2017/582/regulation/48/g) (with [reg. 58](https://www.legislation.gov.uk/uksi/2017/582/regulation/58))
+
+[^key-b4fe6ab7a04ab0bbcfabedd82cab5246]: Textual amendment: Word in [reg. 3(5A)(a)(iii)](https://www.legislation.gov.uk/uksi/2000/1928/regulation/3/5A/a/iii) omitted (31.12.2020) by virtue of [The Pipe-lines, Petroleum, Electricity Works and Oil Stocking (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1325)](https://www.legislation.gov.uk/uksi/2018/1325), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1325/regulation/1/1), [5(8)](https://www.legislation.gov.uk/uksi/2018/1325/regulation/5/8); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-a1206ad0eb004b97c8852f905cb2b5ff]: Textual amendment: Reg. 3(5B) omitted (16.5.2017) by virtue of [The Offshore Petroleum Production and Pipe-lines (Environmental Impact Assessment and other Miscellaneous Provisions) (Amendment) Regulations 2017 (S.I. 2017/582)](https://www.legislation.gov.uk/uksi/2017/582), [regs. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1), [48(h)](https://www.legislation.gov.uk/uksi/2017/582/regulation/48/h) (with [reg. 58](https://www.legislation.gov.uk/uksi/2017/582/regulation/58))
+
+[^key-8b0ee30b9528f7c76a246870d71c2fd0]: Textual amendment: Words in reg. 3(6) inserted (20.8.2007) by [The Pipe-line Works (Environmental Impact Assessment) (Amendment) Regulations 2007 (S.I. 2007/1992)](https://www.legislation.gov.uk/uksi/2007/1992), [regs. 1](https://www.legislation.gov.uk/uksi/2007/1992/regulation/1), [5(e)(i)](https://www.legislation.gov.uk/uksi/2007/1992/regulation/5/e/i) (with [reg. 12](https://www.legislation.gov.uk/uksi/2007/1992/regulation/12))
+
+[^key-c4e4d73332735504e5b2dd53ab42fc38]: Textual amendment: Words in reg. 3(6) inserted (20.8.2007) by [The Pipe-line Works (Environmental Impact Assessment) (Amendment) Regulations 2007 (S.I. 2007/1992)](https://www.legislation.gov.uk/uksi/2007/1992), [regs. 1](https://www.legislation.gov.uk/uksi/2007/1992/regulation/1), [5(e)(ii)](https://www.legislation.gov.uk/uksi/2007/1992/regulation/5/e/ii) (with [reg. 12](https://www.legislation.gov.uk/uksi/2007/1992/regulation/12))
+
+[^key-9bb0c3d8eb8339b2323d667da60ef294]: Textual amendment: Words in reg. 3(6) inserted (16.5.2017) by [The Offshore Petroleum Production and Pipe-lines (Environmental Impact Assessment and other Miscellaneous Provisions) (Amendment) Regulations 2017 (S.I. 2017/582)](https://www.legislation.gov.uk/uksi/2017/582), [regs. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1), [48(i)](https://www.legislation.gov.uk/uksi/2017/582/regulation/48/i) (with [reg. 58](https://www.legislation.gov.uk/uksi/2017/582/regulation/58))
+
+[^key-5b65c91c1a19ed1030cdfaa2bf72f92c]: Textual amendment: Reg. 3(7) inserted (16.5.2017) by [The Offshore Petroleum Production and Pipe-lines (Environmental Impact Assessment and other Miscellaneous Provisions) (Amendment) Regulations 2017 (S.I. 2017/582)](https://www.legislation.gov.uk/uksi/2017/582), [regs. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1), [48(j)](https://www.legislation.gov.uk/uksi/2017/582/regulation/48/j) (with [reg. 58](https://www.legislation.gov.uk/uksi/2017/582/regulation/58))
+
+[^key-c88b504ff28961eca7a51dde8c773d73]: Textual amendment: Words in [reg. 3(7)](https://www.legislation.gov.uk/uksi/2000/1928/regulation/3/7) substituted (30.11.2017) by [The Conservation of Habitats and Species Regulations 2017 (S.I. 2017/1012)](https://www.legislation.gov.uk/uksi/2017/1012), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/1/2), [Sch. 6 para. 12](https://www.legislation.gov.uk/uksi/2017/1012/schedule/6/paragraph/12)
+
+[^key-c66551690b327e95f46f233b7ee205d2]: Textual amendment: Reg. 4(1)(a) substituted (16.5.2017) by [The Offshore Petroleum Production and Pipe-lines (Environmental Impact Assessment and other Miscellaneous Provisions) (Amendment) Regulations 2017 (S.I. 2017/582)](https://www.legislation.gov.uk/uksi/2017/582), [regs. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1), [49(a)](https://www.legislation.gov.uk/uksi/2017/582/regulation/49/a) (with [reg. 58](https://www.legislation.gov.uk/uksi/2017/582/regulation/58))
+
+[^key-453cf0219d0934b831161b386d75667d]: Textual amendment: Reg. 4(1A) inserted (16.5.2017) by [The Offshore Petroleum Production and Pipe-lines (Environmental Impact Assessment and other Miscellaneous Provisions) (Amendment) Regulations 2017 (S.I. 2017/582)](https://www.legislation.gov.uk/uksi/2017/582), [regs. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1), [49(b)](https://www.legislation.gov.uk/uksi/2017/582/regulation/49/b) (with [reg. 58](https://www.legislation.gov.uk/uksi/2017/582/regulation/58))
+
+[^key-cd1cc58b4a49865044f65cf0c43681d8]: Textual amendment: Words in reg. 4(2) inserted (16.5.2017) by [The Offshore Petroleum Production and Pipe-lines (Environmental Impact Assessment and other Miscellaneous Provisions) (Amendment) Regulations 2017 (S.I. 2017/582)](https://www.legislation.gov.uk/uksi/2017/582), [regs. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1), [49(c)](https://www.legislation.gov.uk/uksi/2017/582/regulation/49/c) (with [reg. 58](https://www.legislation.gov.uk/uksi/2017/582/regulation/58))
+
+[^key-70dd6a6e0ebc02c201ff5be500c680a7]: Textual amendment: Word in [reg. 4(2)](https://www.legislation.gov.uk/uksi/2000/1928/regulation/4/2) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 13 para. 4(2)(b)](https://www.legislation.gov.uk/uksi/2025/82/schedule/13/paragraph/4/2/b)
+
+[^key-d4b6aa366606f007e9164468daf420cc]: Textual amendment: Words in [reg. 4(2)](https://www.legislation.gov.uk/uksi/2000/1928/regulation/4/2) substituted (31.12.2020) by [The Pipe-lines, Petroleum, Electricity Works and Oil Stocking (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1325)](https://www.legislation.gov.uk/uksi/2018/1325), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1325/regulation/1/1), [5(10)](https://www.legislation.gov.uk/uksi/2018/1325/regulation/5/10); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-89239de1d4adae90ca5e29e9bd26b51c]: Textual amendment: Reg. 4(4) substituted (20.8.2007) by [The Pipe-line Works (Environmental Impact Assessment) (Amendment) Regulations 2007 (S.I. 2007/1992)](https://www.legislation.gov.uk/uksi/2007/1992), [regs. 1](https://www.legislation.gov.uk/uksi/2007/1992/regulation/1), [6](https://www.legislation.gov.uk/uksi/2007/1992/regulation/6) (with [reg. 12](https://www.legislation.gov.uk/uksi/2007/1992/regulation/12))
+
+[^key-62b1079bb5587010ff291dd97fc731e9]: Textual amendment: Words in [reg. 4(4)(c)](https://www.legislation.gov.uk/uksi/2000/1928/regulation/4/4/c) substituted (31.12.2020) by [The Pipe-lines, Petroleum, Electricity Works and Oil Stocking (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1325)](https://www.legislation.gov.uk/uksi/2018/1325), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1325/regulation/1/1), [5(7)](https://www.legislation.gov.uk/uksi/2018/1325/regulation/5/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-e0c62bac33af63291da5476a989d245c]: Textual amendment: Reg. 4(6A)(6B) inserted (16.5.2017) by [The Offshore Petroleum Production and Pipe-lines (Environmental Impact Assessment and other Miscellaneous Provisions) (Amendment) Regulations 2017 (S.I. 2017/582)](https://www.legislation.gov.uk/uksi/2017/582), [regs. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1), [49(d)](https://www.legislation.gov.uk/uksi/2017/582/regulation/49/d) (with [reg. 58](https://www.legislation.gov.uk/uksi/2017/582/regulation/58))
+
+[^key-a84c88eba430e2ea90e9c72dda11b42b]: Textual amendment: Reg. 4(7)(8) substituted for reg. 4(7) (16.5.2017) by [The Offshore Petroleum Production and Pipe-lines (Environmental Impact Assessment and other Miscellaneous Provisions) (Amendment) Regulations 2017 (S.I. 2017/582)](https://www.legislation.gov.uk/uksi/2017/582), [regs. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1), [49(e)](https://www.legislation.gov.uk/uksi/2017/582/regulation/49/e) (with [reg. 58](https://www.legislation.gov.uk/uksi/2017/582/regulation/58))
+
+[^key-f5d0e5094401f1df4a4831ed7fd7c404]: Textual amendment: Words in reg. 5(1) substituted (16.5.2017) by [The Offshore Petroleum Production and Pipe-lines (Environmental Impact Assessment and other Miscellaneous Provisions) (Amendment) Regulations 2017 (S.I. 2017/582)](https://www.legislation.gov.uk/uksi/2017/582), [regs. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1), [50(1)(a)](https://www.legislation.gov.uk/uksi/2017/582/regulation/50/1/a) (with [reg. 58](https://www.legislation.gov.uk/uksi/2017/582/regulation/58))
+
+[^key-08f0089e0793b865856bf3752eb731c9]: Textual amendment: Words in reg. 5(2)(a) inserted (16.5.2017) by [The Offshore Petroleum Production and Pipe-lines (Environmental Impact Assessment and other Miscellaneous Provisions) (Amendment) Regulations 2017 (S.I. 2017/582)](https://www.legislation.gov.uk/uksi/2017/582), [regs. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1), [50(1)(b)(i)](https://www.legislation.gov.uk/uksi/2017/582/regulation/50/1/b/i) (with [reg. 58](https://www.legislation.gov.uk/uksi/2017/582/regulation/58))
+
+[^key-7ab978f54d8e58f42d640e60568ea851]: Textual amendment: Words in reg. 5(2)(a)(i) inserted (16.5.2017) by [The Offshore Petroleum Production and Pipe-lines (Environmental Impact Assessment and other Miscellaneous Provisions) (Amendment) Regulations 2017 (S.I. 2017/582)](https://www.legislation.gov.uk/uksi/2017/582), [regs. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1), [50(1)(b)(ii)](https://www.legislation.gov.uk/uksi/2017/582/regulation/50/1/b/ii) (with [reg. 58](https://www.legislation.gov.uk/uksi/2017/582/regulation/58))
+
+[^key-91e774a3340c94ad408966d2bf481e81]: Textual amendment: Reg. 5(2)(a)(iv) omitted (16.5.2017) by virtue of [The Offshore Petroleum Production and Pipe-lines (Environmental Impact Assessment and other Miscellaneous Provisions) (Amendment) Regulations 2017 (S.I. 2017/582)](https://www.legislation.gov.uk/uksi/2017/582), [regs. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1), [50(1)(b)(iii)](https://www.legislation.gov.uk/uksi/2017/582/regulation/50/1/b/iii) (with [reg. 58](https://www.legislation.gov.uk/uksi/2017/582/regulation/58))
+
+[^key-45df6f4f770d88ea8e9c94fb99873478]: Textual amendment: Words in Regulations substituted (16.5.2017) by [The Offshore Petroleum Production and Pipe-lines (Environmental Impact Assessment and other Miscellaneous Provisions) (Amendment) Regulations 2017 (S.I. 2017/582)](https://www.legislation.gov.uk/uksi/2017/582), [reg. 45](https://www.legislation.gov.uk/uksi/2017/582/regulation/45) (with [reg. 58](https://www.legislation.gov.uk/uksi/2017/582/regulation/58))
+
+[^key-8a577c32bd0bc0b0ab72ce35aa3c5758]: Textual amendment: Reg. 7(2) substituted (20.8.2007) by [The Pipe-line Works (Environmental Impact Assessment) (Amendment) Regulations 2007 (S.I. 2007/1992)](https://www.legislation.gov.uk/uksi/2007/1992), [regs. 1](https://www.legislation.gov.uk/uksi/2007/1992/regulation/1), [7(a)](https://www.legislation.gov.uk/uksi/2007/1992/regulation/7/a) (with [reg. 12](https://www.legislation.gov.uk/uksi/2007/1992/regulation/12))
+
+[^key-d511a62546e67e066e062cce3034bce2]: Textual amendment: Words in reg. 7(3) substituted (20.8.2007) by [The Pipe-line Works (Environmental Impact Assessment) (Amendment) Regulations 2007 (S.I. 2007/1992)](https://www.legislation.gov.uk/uksi/2007/1992), [regs. 1](https://www.legislation.gov.uk/uksi/2007/1992/regulation/1), [7(b)(i)](https://www.legislation.gov.uk/uksi/2007/1992/regulation/7/b/i) (with [reg. 12](https://www.legislation.gov.uk/uksi/2007/1992/regulation/12))
+
+[^key-2f6be1225b22ee2e7f06bb994f9c9660]: Textual amendment: Words in reg. 7(3)(b) inserted (20.8.2007) by [The Pipe-line Works (Environmental Impact Assessment) (Amendment) Regulations 2007 (S.I. 2007/1992)](https://www.legislation.gov.uk/uksi/2007/1992), [regs. 1](https://www.legislation.gov.uk/uksi/2007/1992/regulation/1), [7(b)(ii)](https://www.legislation.gov.uk/uksi/2007/1992/regulation/7/b/ii) (with [reg. 12](https://www.legislation.gov.uk/uksi/2007/1992/regulation/12))
+
+[^key-6efdd10242bc55933c2a5834b1061503]: Textual amendment: Words in reg. 7(3)(c) inserted (20.8.2007) by [The Pipe-line Works (Environmental Impact Assessment) (Amendment) Regulations 2007 (S.I. 2007/1992)](https://www.legislation.gov.uk/uksi/2007/1992), [regs. 1](https://www.legislation.gov.uk/uksi/2007/1992/regulation/1), [7(b)(iii)](https://www.legislation.gov.uk/uksi/2007/1992/regulation/7/b/iii) (with [reg. 12](https://www.legislation.gov.uk/uksi/2007/1992/regulation/12))
+
+[^key-441bb40a09b0d20f820612ba0dc74227]: Textual amendment: Words in reg. 7(4)(a) substituted (16.5.2017) by [The Offshore Petroleum Production and Pipe-lines (Environmental Impact Assessment and other Miscellaneous Provisions) (Amendment) Regulations 2017 (S.I. 2017/582)](https://www.legislation.gov.uk/uksi/2017/582), [regs. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1), [51(a)](https://www.legislation.gov.uk/uksi/2017/582/regulation/51/a) (with [reg. 58](https://www.legislation.gov.uk/uksi/2017/582/regulation/58))
+
+[^key-19a5433c7e79e0c7d231f942be760a02]: Textual amendment: Words in reg. 7(4)(b)(ii) inserted (20.8.2007) by [The Pipe-line Works (Environmental Impact Assessment) (Amendment) Regulations 2007 (S.I. 2007/1992)](https://www.legislation.gov.uk/uksi/2007/1992), [regs. 1](https://www.legislation.gov.uk/uksi/2007/1992/regulation/1), [7(c)(i)](https://www.legislation.gov.uk/uksi/2007/1992/regulation/7/c/i) (with [reg. 12](https://www.legislation.gov.uk/uksi/2007/1992/regulation/12))
+
+[^key-9a2892da2ace4cb9cefa170fc42e09b9]: Textual amendment: Words in reg. 7(4)(c) inserted (20.8.2007) by [The Pipe-line Works (Environmental Impact Assessment) (Amendment) Regulations 2007 (S.I. 2007/1992)](https://www.legislation.gov.uk/uksi/2007/1992), [regs. 1](https://www.legislation.gov.uk/uksi/2007/1992/regulation/1), [7(c)(ii)](https://www.legislation.gov.uk/uksi/2007/1992/regulation/7/c/ii) (with [reg. 12](https://www.legislation.gov.uk/uksi/2007/1992/regulation/12))
+
+[^key-a8324431c03223909b94937d1ad0c66c]: Textual amendment: Words in reg. 7(4)(d) inserted (20.8.2007) by [The Pipe-line Works (Environmental Impact Assessment) (Amendment) Regulations 2007 (S.I. 2007/1992)](https://www.legislation.gov.uk/uksi/2007/1992), [regs. 1](https://www.legislation.gov.uk/uksi/2007/1992/regulation/1), [7(c)(iii)](https://www.legislation.gov.uk/uksi/2007/1992/regulation/7/c/iii) (with [reg. 12](https://www.legislation.gov.uk/uksi/2007/1992/regulation/12))
+
+[^key-25c950fa45a887e6d4bc1c9f6d89105e]: Textual amendment: Reg. 7(5)(a)(b) substituted (20.8.2007) by [The Pipe-line Works (Environmental Impact Assessment) (Amendment) Regulations 2007 (S.I. 2007/1992)](https://www.legislation.gov.uk/uksi/2007/1992), [regs. 1](https://www.legislation.gov.uk/uksi/2007/1992/regulation/1), [7(d)(i)](https://www.legislation.gov.uk/uksi/2007/1992/regulation/7/d/i) (with [reg. 12](https://www.legislation.gov.uk/uksi/2007/1992/regulation/12))
+
+[^key-57f2fe14238d4c1fca94baf0dda8fcb9]: Textual amendment: Words in [reg. 7(5)(a)](https://www.legislation.gov.uk/uksi/2000/1928/regulation/7/5/a) substituted (31.12.2020) by [The Pipe-lines, Petroleum, Electricity Works and Oil Stocking (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1325)](https://www.legislation.gov.uk/uksi/2018/1325), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1325/regulation/1/1), [5(7)](https://www.legislation.gov.uk/uksi/2018/1325/regulation/5/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-74bee378302be219f14e6e0ee974d2e3]: Textual amendment: Word in reg. 7(5)(c) omitted (20.8.2007) by virtue of [The Pipe-line Works (Environmental Impact Assessment) (Amendment) Regulations 2007 (S.I. 2007/1992)](https://www.legislation.gov.uk/uksi/2007/1992), [regs. 1](https://www.legislation.gov.uk/uksi/2007/1992/regulation/1), [7(d)(ii)](https://www.legislation.gov.uk/uksi/2007/1992/regulation/7/d/ii) (with [reg. 12](https://www.legislation.gov.uk/uksi/2007/1992/regulation/12))
+
+[^key-d369f32c751ccbe963fbd7c80188c07c]: Textual amendment: Words in reg. 7(5)(d) inserted (20.8.2007) by [The Pipe-line Works (Environmental Impact Assessment) (Amendment) Regulations 2007 (S.I. 2007/1992)](https://www.legislation.gov.uk/uksi/2007/1992), [regs. 1](https://www.legislation.gov.uk/uksi/2007/1992/regulation/1), [7(d)(iii)](https://www.legislation.gov.uk/uksi/2007/1992/regulation/7/d/iii) (with [reg. 12](https://www.legislation.gov.uk/uksi/2007/1992/regulation/12))
+
+[^key-b0213eaaf178fec11ecb502345ee457a]: Textual amendment: Reg. 7(5)(e)-(i) inserted (20.8.2007) by [The Pipe-line Works (Environmental Impact Assessment) (Amendment) Regulations 2007 (S.I. 2007/1992)](https://www.legislation.gov.uk/uksi/2007/1992), [regs. 1](https://www.legislation.gov.uk/uksi/2007/1992/regulation/1), [7(d)(iv)](https://www.legislation.gov.uk/uksi/2007/1992/regulation/7/d/iv) (with [reg. 12](https://www.legislation.gov.uk/uksi/2007/1992/regulation/12))
+
+[^key-a7b752bc5afafa37c76a1bfa80200344]: Textual amendment: Words in reg. 7(6) inserted (16.5.2017) by [The Offshore Petroleum Production and Pipe-lines (Environmental Impact Assessment and other Miscellaneous Provisions) (Amendment) Regulations 2017 (S.I. 2017/582)](https://www.legislation.gov.uk/uksi/2017/582), [regs. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1), [51(b)](https://www.legislation.gov.uk/uksi/2017/582/regulation/51/b) (with [reg. 58](https://www.legislation.gov.uk/uksi/2017/582/regulation/58))
+
+[^key-b8bb825ed0eb2f918156854dc6684d95]: Textual amendment: Words in [reg. 8(1)](https://www.legislation.gov.uk/uksi/2000/1928/regulation/8/1) inserted (16.5.2017) by [The Offshore Petroleum Production and Pipe-lines (Environmental Impact Assessment and other Miscellaneous Provisions) (Amendment) Regulations 2017 (S.I. 2017/582)](https://www.legislation.gov.uk/uksi/2017/582), [regs. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1), [52(a)(i)](https://www.legislation.gov.uk/uksi/2017/582/regulation/52/a/i) (with [reg. 58](https://www.legislation.gov.uk/uksi/2017/582/regulation/58))
+
+[^key-e5c5ef2a5cf68e8ca5baac54b27ef068]: Textual amendment: Words in reg. 8(1) substituted (20.8.2007) by [The Pipe-line Works (Environmental Impact Assessment) (Amendment) Regulations 2007 (S.I. 2007/1992)](https://www.legislation.gov.uk/uksi/2007/1992), [regs. 1](https://www.legislation.gov.uk/uksi/2007/1992/regulation/1), [8(a)](https://www.legislation.gov.uk/uksi/2007/1992/regulation/8/a) (with [reg. 12](https://www.legislation.gov.uk/uksi/2007/1992/regulation/12))
+
+[^key-037f7671bbd842acb39d7b47c5247974]: Textual amendment: Words in [reg. 8(1)](https://www.legislation.gov.uk/uksi/2000/1928/regulation/8/1) inserted (16.5.2017) by [The Offshore Petroleum Production and Pipe-lines (Environmental Impact Assessment and other Miscellaneous Provisions) (Amendment) Regulations 2017 (S.I. 2017/582)](https://www.legislation.gov.uk/uksi/2017/582), [regs. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1), [52(a)(ii)](https://www.legislation.gov.uk/uksi/2017/582/regulation/52/a/ii) (with [reg. 58](https://www.legislation.gov.uk/uksi/2017/582/regulation/58))
+
+[^key-ae7e41e333d16dd64c452dd98ac89aa6]: Textual amendment: Words in reg. 8(2) substituted (20.8.2007) by [The Pipe-line Works (Environmental Impact Assessment) (Amendment) Regulations 2007 (S.I. 2007/1992)](https://www.legislation.gov.uk/uksi/2007/1992), [regs. 1](https://www.legislation.gov.uk/uksi/2007/1992/regulation/1), [8(b)(i)](https://www.legislation.gov.uk/uksi/2007/1992/regulation/8/b/i) (with [reg. 12](https://www.legislation.gov.uk/uksi/2007/1992/regulation/12))
+
+[^key-776fc977193322b482da4e8da0be852a]: Textual amendment: Words in reg. 8(2) substituted (20.8.2007) by [The Pipe-line Works (Environmental Impact Assessment) (Amendment) Regulations 2007 (S.I. 2007/1992)](https://www.legislation.gov.uk/uksi/2007/1992), [regs. 1](https://www.legislation.gov.uk/uksi/2007/1992/regulation/1), [8(b)(ii)](https://www.legislation.gov.uk/uksi/2007/1992/regulation/8/b/ii) (with [reg. 12](https://www.legislation.gov.uk/uksi/2007/1992/regulation/12))
+
+[^key-8e33f7e82b9790ee71a082bb59645f95]: Textual amendment: Words in reg. 8(2) substituted (20.8.2007) by [The Pipe-line Works (Environmental Impact Assessment) (Amendment) Regulations 2007 (S.I. 2007/1992)](https://www.legislation.gov.uk/uksi/2007/1992), [regs. 1](https://www.legislation.gov.uk/uksi/2007/1992/regulation/1), [8(b)(iii)](https://www.legislation.gov.uk/uksi/2007/1992/regulation/8/b/iii) (with [reg. 12](https://www.legislation.gov.uk/uksi/2007/1992/regulation/12))
+
+[^key-74fdc150b8e640d1e9c570caea3613d5]: Textual amendment: Reg. 8(3) substituted (20.8.2007) by [The Pipe-line Works (Environmental Impact Assessment) (Amendment) Regulations 2007 (S.I. 2007/1992)](https://www.legislation.gov.uk/uksi/2007/1992), [regs. 1](https://www.legislation.gov.uk/uksi/2007/1992/regulation/1), [8(c)](https://www.legislation.gov.uk/uksi/2007/1992/regulation/8/c) (with [reg. 12](https://www.legislation.gov.uk/uksi/2007/1992/regulation/12))
+
+[^key-d0f06a925a237a079ecef782b0a27d52]: Textual amendment: Reg. 8(3A) inserted (20.8.2007) by [The Pipe-line Works (Environmental Impact Assessment) (Amendment) Regulations 2007 (S.I. 2007/1992)](https://www.legislation.gov.uk/uksi/2007/1992), [regs. 1](https://www.legislation.gov.uk/uksi/2007/1992/regulation/1), [8(d)](https://www.legislation.gov.uk/uksi/2007/1992/regulation/8/d) (with [reg. 12](https://www.legislation.gov.uk/uksi/2007/1992/regulation/12))
+
+[^key-3fd331c177e01fa6a658dff411cebdf6]: Textual amendment: Reg. 8(4) substituted (20.8.2007) by [The Pipe-line Works (Environmental Impact Assessment) (Amendment) Regulations 2007 (S.I. 2007/1992)](https://www.legislation.gov.uk/uksi/2007/1992), [regs. 1](https://www.legislation.gov.uk/uksi/2007/1992/regulation/1), [8(e)](https://www.legislation.gov.uk/uksi/2007/1992/regulation/8/e) (with [reg. 12](https://www.legislation.gov.uk/uksi/2007/1992/regulation/12))
+
+[^key-0bb1f8f9d335bbd1a7e47292c1cd1d37]: Textual amendment: [Reg. 8(5)](https://www.legislation.gov.uk/uksi/2000/1928/regulation/8/5) substituted (16.5.2017) by [The Offshore Petroleum Production and Pipe-lines (Environmental Impact Assessment and other Miscellaneous Provisions) (Amendment) Regulations 2017 (S.I. 2017/582)](https://www.legislation.gov.uk/uksi/2017/582), [regs. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1), [52(b)](https://www.legislation.gov.uk/uksi/2017/582/regulation/52/b) (with [reg. 58](https://www.legislation.gov.uk/uksi/2017/582/regulation/58))
+
+[^key-da11dcde3bde8159b89d50f6ce61c96b]: Textual amendment: Reg. 8(6) substituted (20.8.2007) by [The Pipe-line Works (Environmental Impact Assessment) (Amendment) Regulations 2007 (S.I. 2007/1992)](https://www.legislation.gov.uk/uksi/2007/1992), [regs. 1](https://www.legislation.gov.uk/uksi/2007/1992/regulation/1), [8(g)](https://www.legislation.gov.uk/uksi/2007/1992/regulation/8/g) (with [reg. 12](https://www.legislation.gov.uk/uksi/2007/1992/regulation/12))
+
+[^key-f1045f77d14391e3fa7922967d26f45f]: Textual amendment: Words in reg. 8(7) substituted (20.8.2007) by [The Pipe-line Works (Environmental Impact Assessment) (Amendment) Regulations 2007 (S.I. 2007/1992)](https://www.legislation.gov.uk/uksi/2007/1992), [regs. 1](https://www.legislation.gov.uk/uksi/2007/1992/regulation/1), [8(h)](https://www.legislation.gov.uk/uksi/2007/1992/regulation/8/h) (with [reg. 12](https://www.legislation.gov.uk/uksi/2007/1992/regulation/12))
+
+[^key-553cba3d5af5b923b39f6913fb2ff0f3]: Textual amendment: Words in [reg. 8(7)](https://www.legislation.gov.uk/uksi/2000/1928/regulation/8/7) inserted (16.5.2017) by [The Offshore Petroleum Production and Pipe-lines (Environmental Impact Assessment and other Miscellaneous Provisions) (Amendment) Regulations 2017 (S.I. 2017/582)](https://www.legislation.gov.uk/uksi/2017/582), [regs. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1), [52(c)](https://www.legislation.gov.uk/uksi/2017/582/regulation/52/c) (with [reg. 58](https://www.legislation.gov.uk/uksi/2017/582/regulation/58))
+
+[^key-69cecab6c873066d08eb133817b739b7]: Textual amendment: Reg. 8A inserted (20.8.2007) by [The Pipe-line Works (Environmental Impact Assessment) (Amendment) Regulations 2007 (S.I. 2007/1992)](https://www.legislation.gov.uk/uksi/2007/1992), [regs. 1](https://www.legislation.gov.uk/uksi/2007/1992/regulation/1), [9](https://www.legislation.gov.uk/uksi/2007/1992/regulation/9) (with [reg. 12](https://www.legislation.gov.uk/uksi/2007/1992/regulation/12))
+
+[^key-6d4356af53aad36cce4809201a1d4b81]: Textual amendment: [Reg. 8A(4)](https://www.legislation.gov.uk/uksi/2000/1928/regulation/8A/4) substituted (16.5.2017) by [The Offshore Petroleum Production and Pipe-lines (Environmental Impact Assessment and other Miscellaneous Provisions) (Amendment) Regulations 2017 (S.I. 2017/582)](https://www.legislation.gov.uk/uksi/2017/582), [regs. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1), [53(a)](https://www.legislation.gov.uk/uksi/2017/582/regulation/53/a) (with [reg. 58](https://www.legislation.gov.uk/uksi/2017/582/regulation/58))
+
+[^key-281dba5d2dacf9b2240ef7d6a58ab073]: Textual amendment: Words in [reg. 8A(7)](https://www.legislation.gov.uk/uksi/2000/1928/regulation/8A/7) inserted (16.5.2017) by [The Offshore Petroleum Production and Pipe-lines (Environmental Impact Assessment and other Miscellaneous Provisions) (Amendment) Regulations 2017 (S.I. 2017/582)](https://www.legislation.gov.uk/uksi/2017/582), [regs. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1), [53(b)](https://www.legislation.gov.uk/uksi/2017/582/regulation/53/b) (with [reg. 58](https://www.legislation.gov.uk/uksi/2017/582/regulation/58))
+
+[^key-ed73050e1fdb9361010ecbcd807921c2]: Textual amendment: Words in reg. 9 inserted (20.8.2007) by [The Pipe-line Works (Environmental Impact Assessment) (Amendment) Regulations 2007 (S.I. 2007/1992)](https://www.legislation.gov.uk/uksi/2007/1992), [regs. 1](https://www.legislation.gov.uk/uksi/2007/1992/regulation/1), [10](https://www.legislation.gov.uk/uksi/2007/1992/regulation/10) (with [reg. 12](https://www.legislation.gov.uk/uksi/2007/1992/regulation/12))
+
+[^key-4845b04fe6a1edaa6069b1b8e1fae4b4]: Textual amendment: Word in [reg. 10](https://www.legislation.gov.uk/uksi/2000/1928/regulation/10) heading omitted (31.12.2020) by virtue of [The Pipe-lines, Petroleum, Electricity Works and Oil Stocking (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1325)](https://www.legislation.gov.uk/uksi/2018/1325), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1325/regulation/1/1), [5(8)](https://www.legislation.gov.uk/uksi/2018/1325/regulation/5/8); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-2d28b8fff62299375b1b1f90ad5d5fdc]: Textual amendment: Words in [reg. 10(1)(a)](https://www.legislation.gov.uk/uksi/2000/1928/regulation/10/1/a) substituted (31.12.2020) by [The Pipe-lines, Petroleum, Electricity Works and Oil Stocking (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1325)](https://www.legislation.gov.uk/uksi/2018/1325), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1325/regulation/1/1), [5(7)](https://www.legislation.gov.uk/uksi/2018/1325/regulation/5/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-8ce0edccbf0db5af6df0afa48057190a]: Textual amendment: Words in [reg. 10(1)(b)](https://www.legislation.gov.uk/uksi/2000/1928/regulation/10/1/b) substituted (31.12.2020) by [The Pipe-lines, Petroleum, Electricity Works and Oil Stocking (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1325)](https://www.legislation.gov.uk/uksi/2018/1325), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1325/regulation/1/1), [5(7)](https://www.legislation.gov.uk/uksi/2018/1325/regulation/5/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-fe2e5d5d574aad118a3bf59c6c08545e]: Textual amendment: Word in [reg. 10(1)(i)](https://www.legislation.gov.uk/uksi/2000/1928/regulation/10/1/i) omitted (31.12.2020) by virtue of [The Pipe-lines, Petroleum, Electricity Works and Oil Stocking (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1325)](https://www.legislation.gov.uk/uksi/2018/1325), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1325/regulation/1/1), [5(8)](https://www.legislation.gov.uk/uksi/2018/1325/regulation/5/8); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-1b4fb9bb269f332e0afe535d169b7af2]: Textual amendment: Words in [reg. 10(2)](https://www.legislation.gov.uk/uksi/2000/1928/regulation/10/2) substituted (31.12.2020) by [The Pipe-lines, Petroleum, Electricity Works and Oil Stocking (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1325)](https://www.legislation.gov.uk/uksi/2018/1325), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1325/regulation/1/1), [5(7)](https://www.legislation.gov.uk/uksi/2018/1325/regulation/5/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-6a7cff3f18b1abff91a2d5da8ff7da3e]: Textual amendment: Words in [reg. 10(2)(a)(iii)](https://www.legislation.gov.uk/uksi/2000/1928/regulation/10/2/a/iii) inserted (16.5.2017) by [The Offshore Petroleum Production and Pipe-lines (Environmental Impact Assessment and other Miscellaneous Provisions) (Amendment) Regulations 2017 (S.I. 2017/582)](https://www.legislation.gov.uk/uksi/2017/582), [regs. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1), [54](https://www.legislation.gov.uk/uksi/2017/582/regulation/54) (with [reg. 58](https://www.legislation.gov.uk/uksi/2017/582/regulation/58))
+
+[^key-4b9cf5076516525e55c62ea28da12b39]: Textual amendment: Reg. 14(1)(a)-(e) substituted for reg. 14(1)(a)-(c) (20.8.2007) by [The Pipe-line Works (Environmental Impact Assessment) (Amendment) Regulations 2007 (S.I. 2007/1992)](https://www.legislation.gov.uk/uksi/2007/1992), [regs. 1](https://www.legislation.gov.uk/uksi/2007/1992/regulation/1), [11](https://www.legislation.gov.uk/uksi/2007/1992/regulation/11) (with [reg. 12](https://www.legislation.gov.uk/uksi/2007/1992/regulation/12))
+
+[^key-6ebcbdff977a654336951191eb741cfd]: Textual amendment: [Reg. 16](https://www.legislation.gov.uk/uksi/2000/1928/regulation/16) inserted (16.5.2017) by [The Offshore Petroleum Production and Pipe-lines (Environmental Impact Assessment and other Miscellaneous Provisions) (Amendment) Regulations 2017 (S.I. 2017/582)](https://www.legislation.gov.uk/uksi/2017/582), [regs. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1), [55](https://www.legislation.gov.uk/uksi/2017/582/regulation/55) (with [reg. 58](https://www.legislation.gov.uk/uksi/2017/582/regulation/58))
+
+[^key-f63561cb698f2e10dbacf999abf5c527]: Textual amendment: Sch. 1 substituted (16.5.2017) by [The Offshore Petroleum Production and Pipe-lines (Environmental Impact Assessment and other Miscellaneous Provisions) (Amendment) Regulations 2017 (S.I. 2017/582)](https://www.legislation.gov.uk/uksi/2017/582), [reg. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1), [Sch. 5](https://www.legislation.gov.uk/uksi/2017/582/schedule/5) (with [reg. 58](https://www.legislation.gov.uk/uksi/2017/582/regulation/58))
+
+[^key-6ad0812475097b62d2aea24fadd1806e]: Textual amendment: Words in [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2000/1928/schedule/1/paragraph/4) substituted (31.12.2020) by [The Pipe-lines, Petroleum, Electricity Works and Oil Stocking (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1325)](https://www.legislation.gov.uk/uksi/2018/1325), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1325/regulation/1/1), [5(11)(a)](https://www.legislation.gov.uk/uksi/2018/1325/regulation/5/11/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-b89f1f1cd6ca894f9424bfc311229c85]: Textual amendment: Words in [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2000/1928/schedule/1/paragraph/5) substituted (31.12.2020) by [The Pipe-lines, Petroleum, Electricity Works and Oil Stocking (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1325)](https://www.legislation.gov.uk/uksi/2018/1325), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1325/regulation/1/1), [5(11)(a)](https://www.legislation.gov.uk/uksi/2018/1325/regulation/5/11/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-96f8ae86a575006c7bf1721cd28f960e]: Textual amendment: Word in [Sch. 1 para. 10](https://www.legislation.gov.uk/uksi/2000/1928/schedule/1/paragraph/10) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 13 para. 4(2)(c)](https://www.legislation.gov.uk/uksi/2025/82/schedule/13/paragraph/4/2/c)
+
+[^key-84f9dd6acf0362e430ed2a5218840a82]: Textual amendment: Words in [Sch. 1 para. 10](https://www.legislation.gov.uk/uksi/2000/1928/schedule/1/paragraph/10) substituted (31.12.2020) by [The Pipe-lines, Petroleum, Electricity Works and Oil Stocking (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1325)](https://www.legislation.gov.uk/uksi/2018/1325), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1325/regulation/1/1), [5(11)(b)(i)](https://www.legislation.gov.uk/uksi/2018/1325/regulation/5/11/b/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-21244a45303818ad57a066ac2ec35786]: Textual amendment: Words in [Sch. 1 para. 10](https://www.legislation.gov.uk/uksi/2000/1928/schedule/1/paragraph/10) inserted (31.12.2020) by [The Pipe-lines, Petroleum, Electricity Works and Oil Stocking (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1325)](https://www.legislation.gov.uk/uksi/2018/1325), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1325/regulation/1/1), [5(11)(b)(ii)](https://www.legislation.gov.uk/uksi/2018/1325/regulation/5/11/b/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-6d0e01fd51e279a1fc3a883e42a4931a]: Textual amendment: Sch. 2 substituted (16.5.2017) by [The Offshore Petroleum Production and Pipe-lines (Environmental Impact Assessment and other Miscellaneous Provisions) (Amendment) Regulations 2017 (S.I. 2017/582)](https://www.legislation.gov.uk/uksi/2017/582), [reg. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1), [Sch. 6](https://www.legislation.gov.uk/uksi/2017/582/schedule/6) (with [reg. 58](https://www.legislation.gov.uk/uksi/2017/582/regulation/58))
+
+[^key-5dfc7b33dca6b9294c82b6e522f347e9]: Textual amendment: Words in [Sch. 2 para. 2(c)(v)](https://www.legislation.gov.uk/uksi/2000/1928/schedule/2/paragraph/2/c/v) substituted (31.12.2020) by [The Pipe-lines, Petroleum, Electricity Works and Oil Stocking (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1325)](https://www.legislation.gov.uk/uksi/2018/1325), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1325/regulation/1/1), [5(12)(a)](https://www.legislation.gov.uk/uksi/2018/1325/regulation/5/12/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-0fa6aa7068fefa4e71912fb3c59445bc]: Textual amendment: Word in [Sch. 2 para. 2(c)(vi)](https://www.legislation.gov.uk/uksi/2000/1928/schedule/2/paragraph/2/c/vi) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 13 para. 4(2)(d)](https://www.legislation.gov.uk/uksi/2025/82/schedule/13/paragraph/4/2/d)
+
+[^key-c45dbf7a5136365f0e2fb989b1dd1b02]: Textual amendment: Words in [Sch. 2 para. 2(c)(vi)](https://www.legislation.gov.uk/uksi/2000/1928/schedule/2/paragraph/2/c/vi) substituted (31.12.2020) by [The Pipe-lines, Petroleum, Electricity Works and Oil Stocking (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1325)](https://www.legislation.gov.uk/uksi/2018/1325), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1325/regulation/1/1), [5(12)(b)](https://www.legislation.gov.uk/uksi/2018/1325/regulation/5/12/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-31a5d11e6016e65a88897d980ae0708b]: Textual amendment: Words in [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2000/1928/schedule/2/paragraph/3) substituted (31.12.2020) by [The Pipe-lines, Petroleum, Electricity Works and Oil Stocking (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1325)](https://www.legislation.gov.uk/uksi/2018/1325), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1325/regulation/1/1), [5(12)(c)](https://www.legislation.gov.uk/uksi/2018/1325/regulation/5/12/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

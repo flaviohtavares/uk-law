@@ -1,0 +1,961 @@
+---
+title: The Economic Growth (Regulatory Functions) Order 2017
+id: uksi/2017/267
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2017-03-08'
+text_date: '2026-09-30'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2017/267
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2017/267/pdfs/uksiem_20170267_en.pdf
+- http://www.legislation.gov.uk/uksi/2017/267/pdfs/uksi_20170267_en.pdf
+- http://www.legislation.gov.uk/uksi/2017/267/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Economic Growth (Regulatory Functions) Order 2017
+
+> Text as at 2026-09-30.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2017 No. 267
+
+Regulatory Reform
+
+The Economic Growth (Regulatory Functions) Order 2017
+
+Made
+
+8th March 2017
+
+Coming into force in accordance with regulation 1
+
+The Secretary of State makes the following Order in exercise of the powers conferred by section 109(1) of the Deregulation Act 2015[^f00001].
+
+In accordance with section 109(2) of that Act, the Secretary of State has consulted the persons whose functions are specified in this Order and such other persons as the Secretary of State considered appropriate.
+
+In accordance with section 109(5) of that Act, a draft of this instrument was laid before Parliament and approved by a resolution of each House of Parliament.
+
+## 1. Citation and commencement[^key-27613bb9a77c66d046344c60ad97288e]
+
+This Order may be cited as the Economic Growth (Regulatory Functions) Order 2017 and comes into force on the twenty first day after the day on which they are made.
+
+## 2. Regulatory functions[^key-464dc96677785c0f021240174baf09ca]
+
+(1) Section 108 of the Deregulation Act 2015 (exercise of regulatory functions: economic growth) applies to the regulatory functions specified in the Schedule.
+
+(2) Paragraph (1) does not apply to any regulatory function exercisable under an Act to make subordinate legislation.
+
+(3) Paragraph (1) does not apply to any regulatory function—
+
+- (a) so far as exercisable in Scotland, if or to the extent that the functions relate to matters which are not reserved matters;
+- (b) so far as exercisable in Northern Ireland, if or to the extent that the function relate to matters which are transferred matters; or
+- (c) so far as exercisable in Wales, if or to the extent that the function relates to matters which are devolved Welsh matters.
+
+## 3. Sunset in relation to Part 1 of the Schedule: certain functions of the Office of Communications[^key-4f8458208edb9cda592374592bb5b56d]
+
+In Part 1 of the Schedule, in relation to the Office of Communications, the words “any regulatory function which is an online safety function within the meaning of section 235 of the Online Safety Act 2023” cease to have effect from the end of 5th April 2026.
+
+Prior
+
+Parliamentary Under Secretary of State Minister for Small Business, Consumers and Corporate Responsibility
+
+Department for Business, Energy and Industrial Strategy
+
+## SCHEDULE
+
+Article 2(1)
+
+### PART 1[^key-7460e5edabe6860c76b73aa07e9a4755]
+
+All the regulatory functions exercisable by—
+
+British Hallmarking Council[^f00002]
+
+The Building Safety Regulator[^key-f3d6df616af96d7473349764dd3f00f8]
+
+Care Quality Commission[^f00003]
+
+Charity Commission for England and Wales[^f00004]
+
+Civil Aviation Authority[^f00005] other than any regulatory function under—
+
+- Part 1 (air traffic) of the Transport Act 2000[^f00006]
+- Part 1 (airports) of the Civil Aviation Act 2012[^f00007]
+- the Airports (Groundhandling) Regulations 1997[^f00008]
+- the Civil Aviation (Allocation of Scarce Capacity) Regulations 2007[^f00009]
+- the Airport Charges Regulations 2011[^f00010]
+
+Coal Authority[^f00011]
+
+Commissioners of Irish Lights
+
+Comptroller-General of Patents, Designs and Trade Marks[^f00012]
+
+[^key-42acb081cb6c1a5eb484f0820af474e1]...
+
+Environment Agency[^f00014]
+
+Financial Reporting Council Limited[^f00015]
+
+Food Standards Agency[^f00016]
+
+Forestry Commissioners[^f00017]
+
+Gambling Commission[^f00018] other than any regulatory function under—
+
+- the National Lottery etc. Act 1993[^f00019]
+- Part 3 (National Lottery: Olympic Lotteries) of the Horserace Betting and Olympic Lottery Act 2004 [^f00020]
+
+[^key-4dc18447f15a02d5893064aacb5638b3]...
+
+Gas and Electricity Markets Authority other than any regulatory function which is exercisable concurrently with the Competition and Markets Authority by virtue of—[^key-f1090199323696c3ae7ed188eb5317df]
+
+- section 36A of the Gas Act 1986
+- section 43 of the Electricity Act 1989
+
+Groceries Code Adjudicator[^f00022]
+
+Guardians of the Standard of Wrought Plate in Birmingham (the Birmingham Assay Office)[^f00023]
+
+Guardians of the Standard of Wrought Plate within the town of Sheffield (the Sheffield Assay Office)[^f00024]
+
+Health and Safety Executive[^f00025]
+
+Her Majesty’s Land Registry[^f00026]
+
+Her Majesty’s Revenue and Customs[^f00027] under or by virtue of the Money Laundering, Terrorist Financing and Transfer of Funds (Information on the Payer) Regulations 2017[^key-425804c9760fa93b5e2bd7d1edcebb31]
+
+[^key-42acb081cb6c1a5eb484f0820af474e1]...
+
+Historic Buildings and Monuments Commission for England[^f00030]
+
+Homes and Communities Agency[^f00031]
+
+Human Fertilisation and Embryology Authority[^f00032]
+
+Human Tissue Authority[^f00033]
+
+Incorporation of Goldsmiths of the City of Edinburgh (the Edinburgh Assay Office)[^f00034]
+
+Information Commission[^key-1a308a1c2e00a3bd31b856c1ee8827dd][^f00035] other than any regulatory function under the Freedom of Information Act 2000[^f00036]
+
+Marine Management Organisation[^f00037]
+
+Natural England[^f00038]
+
+Northern Lighthouse Board
+
+Office for Nuclear Regulation[^f00039]
+
+Office for Standards in Education, Children’s Services and Skills[^f00040]
+
+Office for Students[^key-327600bfd322ec3f27dd171bb55bdb64]
+
+Office of Communications other than any regulatory function—[^key-6c4ad995396d26596938b658dd3c31d3]
+
+- under Part 3 of the Enterprise Act 2002
+- which is exercisable concurrently with the Competition and Markets Authority by virtue of section 370 or 371 of the Communications Act 2003
+- which is an online safety function within the meaning of section 235 of the Online Safety Act 2023
+
+Office of Qualifications and Examinations Regulation[^f00041] other than any regulatory function which concerns a fee capping condition under sections 132 to 136 of the Apprenticeships, Skills, Children and Learning Act 2009[^f00042]
+
+Office of Rail and Road[^f00043] in connection with railway safety purposes (within the meaning of Schedule 3 to the Railways Act 2005[^f00044]) that are exercisable under or by virtue of—
+
+- the Railways Act 1993[^f00045];
+- the Railways Act 2005; or
+- the Health and Safety at Work etc Act 1974[^f00046].
+
+Oil and Gas Authority[^f00047]
+
+Registrars of companies[^f00048]
+
+Regulator of Community Interest Companies[^f00049]
+
+Security Industry Authority[^f00050]
+
+Sports Grounds Safety Authority[^f00051]
+
+Traffic Commissioners[^f00052]
+
+The Secretary of State under or by virtue of the labour market legislation listed in Part 1 of Schedule 7 to the Employment Rights Act 2025[^key-80e47fb4ac395a8526043501f6208289]
+
+The Trinity House (as defined in section 223(1) of the Merchant Shipping Act 1995)[^f00053]
+
+Wardens and Commonalty of the Mystery of Goldsmiths of the City of London (the London Assay Office)[^f00054]
+
+Water Services Regulation Authority other than any regulatory function which is exercisable concurrently with the Competition and Markets Authority by virtue of section 31 of the Water Industry Act 1991[^key-1e7db1fb3d1c2acacbc921fc47c8bf2e]
+
+### PART 2[^key-772135535b032fd5da801785b0908ccf]
+
+All the regulatory functions exercisable by—
+
+a person appointed by the Secretary of State under section 86(1) or (1A) of the Water Industry Act 1991[^f00055]
+
+a body designated by the Secretary of State under section 1252 of the Companies Act 2006[^f00056]
+
+a person authorised by the Secretary of State under section 457 of the Companies Act 2006[^f00057]
+
+### PART 3[^key-97bce065502c607ce355e05534b0db81]
+
+All the regulatory functions, other than a regulatory function exercisable in relation to a general customs matter within the meaning of section 1(2) of the Borders, Citizenship and Immigration Act 2009 (general customs functions of the Secretary of State)[^f00058], exercisable by a Minister of the Crown pursuant to the following EU instruments or under or by virtue of the following enactments (including any regulatory function conferred by subordinate legislation made under these enactments)—
+
+#### Agriculture
+
+Sections 98 to 101 and 106 of the Agriculture Act 1947[^f00059]
+
+Pests Act 1954[^f00060]
+
+Weeds Act 1959[^f00061]
+
+Agriculture and Horticulture Act 1964[^f00062]
+
+Dairy Produce Quotas (General Provisions) Regulations 2002[^f00063]
+
+Dairy Produce Quotas Regulations 2005[^f00064]
+
+Cattle Identification Regulations 2007[^f00065]
+
+Official Feed and Food Controls (England) Regulations 2009[^f00066]
+
+Beef and Pig Carcase Classification (England) Regulations 2010[^f00067]
+
+Beef and Veal Labelling Regulations 2010[^f00068]
+
+Conservation of Habitats and Species Regulations 2017[^key-542a51c448ffa3a0a565707c2c10609a]
+
+Environmental Permitting (England & Wales) Regulations 2010[^f00070]
+
+Regulation (EU) No 1151/2012 of the European Parliament and of the Council on quality schemes for agricultural products and foodstuffs[^f00071]
+
+#### Animal health and welfare
+
+Destructive Imported Animals Act 1932[^f00072]
+
+Conservation of Seals Act 1970[^f00073]
+
+Bees Act 1980[^f00074]
+
+Animal Health Act 1981[^f00075]
+
+Wildlife and Countryside Act 1981[^f00076]
+
+Zoo Licensing Act 1981[^f00077]
+
+Animal Health and Welfare Act 1984[^f00078]
+
+Protection of Badgers Act 1992[^f00079]
+
+Animal Welfare Act 2006[^f00080]
+
+Registration of Establishments (Laying Hens) (England) Regulations 2003[^f00081]
+
+Avian Influenza (Preventive Measures) (England) Regulations 2006[^f00082]
+
+Foot-and-Mouth Disease (Control of Vaccination) (England) Regulations 2006[^f00083]
+
+Official Controls (Animals, Feed, and Food) (England) Regulations 2006[^f00084]
+
+Bluetongue Regulations 2008[^f00085]
+
+Eggs and Chicks Regulations (England) 2009[^f00086]
+
+Transmissible Spongiform Encephalopathies (England) Regulations 2010[^f00087]
+
+Non-Commercial Movement of Pet Animals Order 2011[^f00088]
+
+Trade in Animal and Related Products Regulations 2011[^f00089]
+
+Veterinary Medicines Regulations 2013[^f00090]
+
+Animals and Animal Products (Examination for Residues and Maximum Residue Limits) (England and Scotland) Regulations 2015[^f00091]
+
+Regulation [(EC) No 1831/2003](https://www.legislation.gov.uk/european/regulation/2003/1831) of the European Parliament and of the Council of additives for use in animal nutrition[^f00092]
+
+Council Regulation [(EC) No 21/2004](https://www.legislation.gov.uk/european/regulation/2004/0021) establishing a system for the identification and registration of ovine and caprine animals and amending Regulation [(EC) No 1782/2003](https://www.legislation.gov.uk/european/regulation/2003/1782) and Directives [92/102/EEC](https://www.legislation.gov.uk/european/directive/1992/0102) and [64/452/EEC](https://www.legislation.gov.uk/european/directive/1964/0452)[^f00093]
+
+Regulation [(EC) No 882/2004](https://www.legislation.gov.uk/european/regulation/2004/0882) of the European Parliament and Council on official controls performed to ensure the verification of compliance with feed and food law, animal health and animal welfare rules[^f00094]
+
+[Commission Regulation (EC) No 1950/2006](https://www.legislation.gov.uk/european/regulation/2006/1950) establishing, in accordance with [Directive 2001/82/EC](https://www.legislation.gov.uk/european/directive/2001/0082) of the European Parliament and of the Council on the Community code relating to veterinary medicinal products, a list of substances essential for the treatment of equidae[^f00095]
+
+Commission Regulation EC 589/2008 laying down detailed rules for implementing Council Regulation [(EC) No 1234/2007](https://www.legislation.gov.uk/european/regulation/2007/1234) as regards marketing standards for eggs[^f00096]
+
+Commission Regulation EC No 617/2008 laying down detailed rules for implementing Regulation [(EC) No 1234/2007](https://www.legislation.gov.uk/european/regulation/2007/1234) as regards marketing standards of eggs for hatching and farmyard poultry chicks[^f00097]
+
+[Commission Regulation (EC) No 1234/2008](https://www.legislation.gov.uk/european/regulation/2008/1234) concerning the examination of variations to the terms of marketing authorisations for medicinal products for human use and veterinary medicinal products[^f00098]
+
+#### Claims Management Services
+
+Part 2 of the Financial Guidance and Claims Act 2018 (Claims Management Services)[^key-eeb496d5e94c2c64ab6f9f2f583469fc]
+
+#### Companies and other businesses
+
+Parts 5 (a company’s name), 41 (business names) and 42 (statutory auditors) of the Companies Act 2006[^f00100]
+
+#### Employment
+
+Employment Agencies Act 1973[^f00101]
+
+National Minimum Wage Act 1998 other than any regulatory function under sections 5 to 8[^f00102]
+
+#### Fish and fisheries
+
+Sea Fisheries (Shellfish) Act 1967[^f00103]
+
+Sea Fisheries Act 1968[^f00104]
+
+Fishery Limits Act 1976[^f00105]
+
+Import of Live Fish (England and Wales) Act 1980[^f00106]
+
+Fisheries Act 1981[^f00107]
+
+Registration of Fish Buyers and Sellers and Designation of Fish Auction Sites Regulations 2005[^f00108]
+
+Offshore Marine Conservation (Natural Habitats, &c.) Regulations 2007[^f00109] other than any regulatory function in Part 5 (licences) exercisable in connection with the licensing of anything done in the course of carrying on an activity specified in regulation 49(16), sub-paragraphs (a) to (f) and those in Part 6 (enforcement and supplementary provision relating to criminal offences) concerning the enforcement of these regulations as they apply in respect of the activities specified in regulation 49(16), sub-paragraphs (a) to (f), including the appointment of wildlife officers for this purpose
+
+Aquatic Animal Health (England and Wales) Regulations 2009[^f00110]
+
+#### Food standards and safety
+
+Food and Environment Protection Act 1985[^f00111]
+
+Pesticides (Maximum Residue Levels) (England and Wales) Regulations 2008[^f00112]
+
+Detergents Regulations 2010[^f00113]
+
+Plant Protection Products Regulations 2011[^f00114]
+
+Plant Protection Products (Sustainable Use) Regulations [2012/1657](https://www.legislation.gov.uk/uksi/2012/1657)[^f00115]
+
+Biocidal Products and Chemicals (Appointment of Authorities and Enforcement) Regulations 2013[^f00116]
+
+#### Horticulture
+
+Horticultural Produce Act 1986[^f00117]
+
+Marketing of Fresh Horticultural Produce Regulations 2009[^f00118]
+
+Organic Products Regulations 2009[^f00119]
+
+#### Insolvency
+
+Part 13 (insolvency practitioners and their qualification) of the Insolvency Act 1986[^f00120]
+
+#### Marine transport
+
+Harbours Act 1964[^f00121]
+
+Hovercraft Act 1968[^f00122]
+
+Protection of Wrecks Act 1973[^f00123]
+
+Dangerous Vessels Act 1985[^f00124]
+
+Aviation and Maritime Security Act 1990[^f00125]
+
+Merchant Shipping Act 1995[^f00126] other than any regulatory function in Part VI (prevention of pollution) (or enactments made thereunder) when exercised in connection with ships which are offshore installations within the meaning of that Act or any regulatory function in Part X (enforcement officers and powers) of that Act exercisable in connection with the appointment of inspectors in relation to offshore installations
+
+Railways and Transport Safety Act 2003[^f00127]
+
+Fishing Vessels (Certification of Deck Officers and Engineer Officers) Regulations 1984[^f00128]
+
+Merchant Shipping and Fishing Vessels (Medical Stores) Regulations 1995[^f00129]
+
+[^key-0b857047af47e41c4453b3bb1307cdcd]...
+
+Merchant Shipping (Carriage of Dangerous Goods and Harmful Substances) (Amendment) Regulations 2024[^key-85934d50dd6853b889d95d18c587d86c]
+
+Merchant Shipping and Fishing Vessels (Health and Safety at Work) Regulations 1997[^f00132]
+
+Merchant Shipping (Minimum Standards of Safety Communications) Regulations 1997[^f00133]
+
+Fishing Vessels (EC Directive on Harmonised Safety Regime) Regulations 1999[^f00134]
+
+the Merchant Shipping (Marine Equipment) Regulations 2025[^key-4d3f474786a1462c97d2b7881fee7871]
+
+Merchant Shipping (Domestic Passenger Ships) (Safety Management Code) Regulations 2001[^f00136]
+
+Fishing Vessels (Safety of 15-24 Metre Vessels) Regulations 2002[^f00137]
+
+Merchant Shipping (Hours of Work) Regulations 2002[^f00138]
+
+Merchant Shipping and Fishing Vessels (Port Waste Reception Facilities) Regulations 2003[^f00139]
+
+Merchant Shipping (Working Time: Inland Waterways) Regulations 2003[^f00140]
+
+Fishing Vessels (Working Time: Sea-fishermen) Regulations 2004[^f00141]
+
+Merchant Shipping (High Speed Craft) Regulations 2004[^f00142]
+
+Merchant Shipping (Vessel Traffic Monitoring and Reporting Requirements) Regulations 2004[^f00143]
+
+Merchant Shipping and Fishing Vessels (Lifting Operations and Lifting Equipment) Regulations 2006[^f00144]
+
+Merchant Shipping and Fishing Vessels (Control of Noise at Work) Regulations 2007[^f00145]
+
+Merchant Shipping and Fishing Vessels (Control of Vibration at Work) Regulations 2007[^f00146]
+
+Merchant Shipping and Fishing Vessels (Health and Safety at Work) (Carcinogens and Mutagens) Regulations 2007[^f00147]
+
+#### Medicines
+
+Medicines Act 1968[^f00148]
+
+Good Laboratory Practice Regulations 1999[^f00149]
+
+Medical Devices Regulations 2002[^f00150]
+
+Unlicensed Medicinal Products for Human Use (Transmissible Spongiform Encephalopathies) (Safety) Regulations 2003[^f00151]
+
+Medicines for Human Use (Clinical Trials) Regulations 2004[^f00152]
+
+Blood Safety and Quality Regulations 2005[^f00153]
+
+Human Medicines Regulations 2012[^f00154]
+
+Regulation [(EC) No 726/2004](https://www.legislation.gov.uk/european/regulation/2004/0726) of the European Parliament and of the Council laying down Community procedures for the authorisation and supervision of medicinal products for human and veterinary use and establishing a European Medicines Agency[^f00155]
+
+Regulation [(EC) No 1901/2006](https://www.legislation.gov.uk/european/regulation/2006/1901) of the European Parliament and of the Council on medicinal products for paediatric use and amending Regulation [(EEC) No 1768/92](https://www.legislation.gov.uk/european/regulation/1992/1768), [Directive 2001/20/EC](https://www.legislation.gov.uk/european/directive/2001/0020), [Directive 2001/83/EC](https://www.legislation.gov.uk/european/directive/2001/0083) and Regulation [(EC) No 726/2004](https://www.legislation.gov.uk/european/regulation/2004/0726)[^f00156]
+
+Regulation (EU) 2017/745 of the European Parliament and of the Council of 5 April 2017 on medical devices, amending[^key-855f429f7d71855ba4c8765983c0ee06] [Directive 2001/83/EC](https://www.legislation.gov.uk/european/directive/2001/0083), Regulation [(EC) No 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) and Regulation [(EC) No 1223/2009](https://www.legislation.gov.uk/european/regulation/2009/1223) and repealing Council Directives [90/385/EEC](https://www.legislation.gov.uk/european/directive/1990/0385) and [93/42/EEC](https://www.legislation.gov.uk/european/directive/1993/0042)
+
+[Regulation (EU) 2017/746](https://www.legislation.gov.uk/european/regulation/2017/0746)[^key-224d31fe9eea0db064f9bebc080f143c] of the European Parliament and of the Council of 5 April 2017 on *in vitro* diagnostic medical devices and repealing [Directive 98/79/EC](https://www.legislation.gov.uk/european/directive/1998/0079) and Commission [Decision 2010/227/EU](https://www.legislation.gov.uk/european/decision/2010/0227)
+
+Medical Devices (Northern Ireland Protocol) Regulations 2021
+
+#### Outer Space
+
+Outer Space Act 1986[^f00157]
+
+#### Plant health
+
+Plant Varieties and Seeds Act 1964[^f00158]
+
+Plant Health Act 1967[^f00159]
+
+Plant Varieties Act 1997[^f00160]
+
+Marketing of Vegetable Plant Material Regulations 1995[^f00161]
+
+Marketing of Ornamental Plant Propagating Material Regulations 1999[^f00162]
+
+Potatoes Originating in Egypt (England) Regulations 2004[^f00163]
+
+Marketing of Fruit Plant and Propagating Material (England) Regulations 2017[^key-31732cae1face6a551f698be5f98e626]
+
+Seed Marketing Regulations 2011[^f00165]
+
+#### Road transport
+
+Part 6 (drivers’ hours) of the Transport Act 1968[^f00166]
+
+Road Traffic (Foreign Vehicles) Act 1972[^f00167]
+
+International Carriage of Perishable Foodstuffs Act 1976[^f00168]
+
+Public Passenger Vehicles Act 1981[^f00169]
+
+Transport Act 1982[^f00170]
+
+Road Traffic Regulation Act 1984[^f00171]
+
+Transport Act 1985[^f00172]
+
+Parts 2 (construction and use of vehicles and equipment), 3 (licensing of drivers of vehicles), 4 (licensing of drivers of large goods vehicles and passenger-carrying vehicles), 5 (driving instruction), 6 (third-party liabilities) and 7 (miscellaneous and general) of the Road Traffic Act 1988[^f00173]
+
+Transport Act 2000[^f00174]
+
+Vehicles (Crime) Act 2001[^f00175]
+
+Sections 174 to 181 of the Equality Act 2010[^f00176]
+
+Motor Vehicles (International Circulation) Order 1975[^f00177]
+
+Passenger and Goods Vehicles (Recording Equipment) Regulations 1979[^f00178]
+
+Road Transport (International Passenger Services) Regulations 1984[^f00179]
+
+Goods Vehicles (Licensing of Operators) Regulations 1995[^f00180]
+
+Goods Vehicles (Licensing of Operators) Act 1995[^f00181]
+
+Motor Cycles Etc. (EC Type Approval) Regulations 1999[^f00182]
+
+End-of-Life Vehicles Regulations 2003[^f00183]
+
+Road Transport (Working Time) Regulations 2005[^f00184]
+
+Vehicle Drivers (Certificates of Professional Competence) Regulations 2007[^f00185]
+
+Carriage of Dangerous Goods and Use of Transportable Pressure Equipment Regulations 2009[^f00186]
+
+Road Vehicles (Approval) Regulations 2020[^key-759378e12dbacf86fcab697db683f7f6]
+
+Regulation (EU) 2018/858 of the European Parliament and of the Council of 30 May 2018 on the approval and market surveillance of motor vehicles and their trailers, and of systems, components and separate technical units intended for such vehicles
+
+#### Weights and measures
+
+Weights and Measures Act 1985[^f00188]
+
+Measuring Instruments (Cold-water Meters) Regulations 2006[^f00189]
+
+#### Wildlife
+
+Endangered Species (Import and Export) Act 1976[^f00190]
+
+Birds (Registration Charges) Act 1997[^f00191]
+
+[^key-656484b29636c873902c7a7b61982caf]...
+
+Council Regulation [(EC) No 338/97](https://www.legislation.gov.uk/european/regulation/1997/0338) on the protection of species of wild fauna and flora by regulating trade therein[^f00193]
+
+[Commission Regulation (EC) No 865/2006](https://www.legislation.gov.uk/european/regulation/2006/0865) laying down detailed rules concerning the implementation of Council Regulation [(EC) No 338/97](https://www.legislation.gov.uk/european/regulation/1997/0338) on the protection of species of wild fauna and flora by regulating trade therein[^f00194]
+
+Control of Trade in Endangered Species Regulations 2018[^key-58134dade88200edfe2ad42f93d23b25]
+
+#### Miscellaneous
+
+Restriction on the Use of Certain Hazardous Substances in Electrical and Electronic Equipment Regulations 2012[^f00195]
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+Section 108 of the Deregulation Act [2015 (c.20)](https://www.legislation.gov.uk/ukpga/2015/20) (the “Act”) imposes a duty on any person exercising a regulatory function to have regard to the desirability of promoting economic growth.
+
+Section 109 of the Act provides that by order, a Minister of the Crown may specify the regulatory functions to which the duty in section 108 applies. The term “regulatory function” is defined in section 111 of the Act.
+
+This Order specifies regulatory functions to which the duties in Section 108 apply. Part 1 of the Schedule specifies regulatory functions exercisable by specified named regulators. Part 2 of the Schedule specifies regulatory functions exercisable by regulators who are not named but are included by virtue of legislation under which they exercise regulatory functions. Part 3 specifies regulatory functions exercisable by a Minister of the Crown.
+
+A full impact assessment of the effect that this instrument will have on the costs of business and the voluntary sector is available at https://www.gov.uk/government/consultations/business-impact-target-growth-duty-and-small-business-appeals-champion.
+
+## Annotations
+
+[^f00001]: Footnote: [2015 c.20](https://www.legislation.gov.uk/ukpga/2015/20).
+
+[^key-27613bb9a77c66d046344c60ad97288e]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2017/267/article/1) in force at 29.3.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/267/article/1)
+
+[^key-464dc96677785c0f021240174baf09ca]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2017/267/article/2) in force at 29.3.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/267/article/1)
+
+[^key-4f8458208edb9cda592374592bb5b56d]: Textual amendment: [Art. 3](https://www.legislation.gov.uk/uksi/2017/267/article/3) inserted (21.5.2024) by [The Economic Growth (Regulatory Functions) (Amendment) Order 2024 (S.I. 2024/587)](https://www.legislation.gov.uk/uksi/2024/587), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/587/article/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2024/587/article/2/2)
+
+[^key-7460e5edabe6860c76b73aa07e9a4755]: Commencement: Sch. Pt. 1 in force at 29.3.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/267/article/1)
+
+[^f00002]: Footnote: See section 13 of the Hallmarking Act [1973 (c.43)](https://www.legislation.gov.uk/ukpga/1973/43).
+
+[^key-f3d6df616af96d7473349764dd3f00f8]: Textual amendment: Words in Sch. Pt. 1 inserted (27.1.2026) by [The Building Safety Regulator (Establishment of New Body and Transfer of Functions etc.) Regulations 2026 (S.I. 2026/20)](https://www.legislation.gov.uk/uksi/2026/20), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/20/regulation/1/2), [Sch. 1 para. 23](https://www.legislation.gov.uk/uksi/2026/20/schedule/1/paragraph/23) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/20/regulation/5))
+
+[^f00003]: Footnote: See section 1 of the Health and Social Care Act [2008 (c.14)](https://www.legislation.gov.uk/ukpga/2008/14).
+
+[^f00004]: Footnote: See section 13 of the Charities Act [2011 (c.25)](https://www.legislation.gov.uk/ukpga/2011/25).
+
+[^f00005]: Footnote: See section 2 of the Civil Aviation Act [1982 (c.16)](https://www.legislation.gov.uk/ukpga/1982/16).
+
+[^f00006]: Footnote: [2000 c.38](https://www.legislation.gov.uk/ukpga/2000/38).
+
+[^f00007]: Footnote: [2012 c.19](https://www.legislation.gov.uk/ukpga/2012/19).
+
+[^f00008]: Footnote: [S.I. 1997/2389](https://www.legislation.gov.uk/uksi/1997/2389).
+
+[^f00009]: Footnote: [S.I. 2007/3556](https://www.legislation.gov.uk/uksi/2007/3556).
+
+[^f00010]: Footnote: [S.I. 2011/2491](https://www.legislation.gov.uk/uksi/2011/2491).
+
+[^f00011]: Footnote: See section 1 of the Coal Industry Act [1994 (c.21)](https://www.legislation.gov.uk/ukpga/1994/21).
+
+[^f00012]: Footnote: See section 63 of the Patents and Designs Act [1907 (c.29)](https://www.legislation.gov.uk/ukpga/1907/29).
+
+[^key-42acb081cb6c1a5eb484f0820af474e1]: Textual amendment: Words in Sch. Pt. 1 omitted (1.8.2019) by virtue of [The Higher Education and Research Act 2017 (Further Implementation etc.) Regulations 2019 (S.I. 2019/1027)](https://www.legislation.gov.uk/uksi/2019/1027), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1027/regulation/1), [39(a)](https://www.legislation.gov.uk/uksi/2019/1027/regulation/39/a)
+
+[^f00014]: Footnote: See section 1 of the Environment Act [1995 (c.25)](https://www.legislation.gov.uk/ukpga/1995/25).
+
+[^f00015]: Footnote: A company registered in England and Wales with number 02486368.
+
+[^f00016]: Footnote: See section 1 of the Food Standards Act [1999 (c.28)](https://www.legislation.gov.uk/ukpga/1999/28).
+
+[^f00017]: Footnote: See section 1 of the Forestry Act [1967 (c.10)](https://www.legislation.gov.uk/ukpga/1967/10).
+
+[^f00018]: Footnote: See section 20 of the Gambling Act [2005 (c.19)](https://www.legislation.gov.uk/ukpga/2005/19).
+
+[^f00019]: Footnote: [1993 c.39](https://www.legislation.gov.uk/ukpga/1993/39).
+
+[^f00020]: Footnote: [2004 c.25](https://www.legislation.gov.uk/ukpga/2004/25).
+
+[^key-4dc18447f15a02d5893064aacb5638b3]: Textual amendment: Words in [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2017/267/schedule/part/1) omitted (7.4.2026) by virtue of [The Employment Rights Act 2025 (Enforcement) (Consequential Amendments) Regulations 2026 (S.I. 2026/302)](https://www.legislation.gov.uk/uksi/2026/302), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/302/regulation/1/1), [10(2)(a)](https://www.legislation.gov.uk/uksi/2026/302/regulation/10/2/a)
+
+[^key-f1090199323696c3ae7ed188eb5317df]: Textual amendment: Words in Sch. Pt. 1 inserted (21.5.2024) by [The Economic Growth (Regulatory Functions) (Amendment) Order 2024 (S.I. 2024/587)](https://www.legislation.gov.uk/uksi/2024/587), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/587/article/1/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2024/587/article/2/3/a)
+
+[^f00022]: Footnote: See section 1 of the Groceries Code Adjudicator Act [2013 (c.19)](https://www.legislation.gov.uk/ukpga/2013/19).
+
+[^f00023]: Footnote: See sections 15 and 22 of the Hallmarking Act [1973 (c.43)](https://www.legislation.gov.uk/ukpga/1973/43).
+
+[^f00024]: Footnote: See sections 15 and 22 of the Hallmarking Act [1973 (c.43)](https://www.legislation.gov.uk/ukpga/1973/43).
+
+[^f00025]: Footnote: See section 10 of the Health and Safety at Work etc. Act [1974 (c.37)](https://www.legislation.gov.uk/ukpga/1974/37).
+
+[^f00026]: Footnote: See section 99 of the Land Registration Act [2002 (c.9)](https://www.legislation.gov.uk/ukpga/2002/9).
+
+[^f00027]: Footnote: See section 4 of the Commissioners for Revenue and Customs Act [2005 (c.11)](https://www.legislation.gov.uk/ukpga/2005/11).
+
+[^key-425804c9760fa93b5e2bd7d1edcebb31]: Textual amendment: Words in Sch. Pt. 1 substituted (26.6.2017) by [The Money Laundering, Terrorist Financing and Transfer of Funds (Information on the Payer) Regulations 2017 (S.I. 2017/692)](https://www.legislation.gov.uk/uksi/2017/692), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/692/regulation/1/2), [Sch. 7 para. 35](https://www.legislation.gov.uk/uksi/2017/692/schedule/7/paragraph/35) (with [regs. 8](https://www.legislation.gov.uk/uksi/2017/692/regulation/8), [15](https://www.legislation.gov.uk/uksi/2017/692/regulation/15))
+
+[^f00030]: Footnote: See section 32 of the National Heritage Act [1983 (c.47)](https://www.legislation.gov.uk/ukpga/1983/47).
+
+[^f00031]: Footnote: See section 1 of the Housing and Regeneration Act [2008 (c.17)](https://www.legislation.gov.uk/ukpga/2008/17).
+
+[^f00032]: Footnote: See section 5 of the Human Fertilisation and Embryology Act [1990 (c.37)](https://www.legislation.gov.uk/ukpga/1990/37).
+
+[^f00033]: Footnote: See section 13 of the Human Tissue Act [2004 (c.30)](https://www.legislation.gov.uk/ukpga/2004/30).
+
+[^f00034]: Footnote: See sections 15 and 22 of the Hallmarking Act [1973 (c.43)](https://www.legislation.gov.uk/ukpga/1973/43).
+
+[^key-1a308a1c2e00a3bd31b856c1ee8827dd]: Textual amendment: Words in [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2017/267/schedule/part/1) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 3 para. 20](https://www.legislation.gov.uk/uksi/2026/386/schedule/3/paragraph/20); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
+
+[^f00035]: Footnote: See section 18 of the Freedom of Information Act [2000 (c.36)](https://www.legislation.gov.uk/ukpga/2000/36).
+
+[^f00036]: Footnote: [2000 c.36](https://www.legislation.gov.uk/ukpga/2000/36).
+
+[^f00037]: Footnote: See section 1 of the Marine and Coastal Access Act [2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23).
+
+[^f00038]: Footnote: See section 1 of the Natural Environment and Rural Communities Act [2006 (c.16)](https://www.legislation.gov.uk/ukpga/2006/16).
+
+[^f00039]: Footnote: See section 77 of the Energy Act [2013 (c.32)](https://www.legislation.gov.uk/ukpga/2013/32).
+
+[^f00040]: Footnote: See section 112 of the Education and Inspections Act [2006 (c.40)](https://www.legislation.gov.uk/ukpga/2006/40).
+
+[^key-327600bfd322ec3f27dd171bb55bdb64]: Textual amendment: Words in Sch. Pt. 1 inserted (1.8.2019) by [The Higher Education and Research Act 2017 (Further Implementation etc.) Regulations 2019 (S.I. 2019/1027)](https://www.legislation.gov.uk/uksi/2019/1027), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1027/regulation/1), [39(b)](https://www.legislation.gov.uk/uksi/2019/1027/regulation/39/b)
+
+[^key-6c4ad995396d26596938b658dd3c31d3]: Textual amendment: Words in Sch. Pt. 1 inserted (21.5.2024) by [The Economic Growth (Regulatory Functions) (Amendment) Order 2024 (S.I. 2024/587)](https://www.legislation.gov.uk/uksi/2024/587), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/587/article/1/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2024/587/article/2/3/b)
+
+[^f00041]: Footnote: See section 127 of the Apprenticeships, Skills, Children and Learning Act [2009 (c.22)](https://www.legislation.gov.uk/ukpga/2009/22).
+
+[^f00042]: Footnote: [2009 c.22](https://www.legislation.gov.uk/ukpga/2009/22); section 132 was amended by the Qualifications Wales Act [2015 (c.37)](https://www.legislation.gov.uk/ukpga/2015/37), section 35(2).
+
+[^f00043]: Footnote: See section 15 of the Railways and Transport Safety Act [2003 (c.20)](https://www.legislation.gov.uk/ukpga/2003/20).
+
+[^f00044]: Footnote: [2005 c.14](https://www.legislation.gov.uk/ukpga/2005/14).
+
+[^f00045]: Footnote: [1993 c.43](https://www.legislation.gov.uk/ukpga/1993/43).
+
+[^f00046]: Footnote: [1974 c.37](https://www.legislation.gov.uk/ukpga/1974/37).
+
+[^f00047]: Footnote: See section 1 of the Energy Act [2016 (c.20)](https://www.legislation.gov.uk/ukpga/2016/20).
+
+[^f00048]: Footnote: See section 1060 of the Companies Act [2006 (c.46)](https://www.legislation.gov.uk/ukpga/2006/46).
+
+[^f00049]: Footnote: See section 27 of the Companies (Audit, Investigations and Community Enterprise) Act [2004 (c.27)](https://www.legislation.gov.uk/ukpga/2004/27).
+
+[^f00050]: Footnote: See section 1 of the Private Security Industry Act [2001 (c.12)](https://www.legislation.gov.uk/ukpga/2001/12).
+
+[^f00051]: Footnote: See section 1 of the Sports Grounds Safety Authority Act [2011 (c.6)](https://www.legislation.gov.uk/ukpga/2011/6).
+
+[^f00052]: Footnote: See section 4 of the Public Passenger Vehicles Act [1981 (c.14)](https://www.legislation.gov.uk/ukpga/1981/14).
+
+[^key-80e47fb4ac395a8526043501f6208289]: Textual amendment: Words in [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2017/267/schedule/part/1) inserted (7.4.2026) by [The Employment Rights Act 2025 (Enforcement) (Consequential Amendments) Regulations 2026 (S.I. 2026/302)](https://www.legislation.gov.uk/uksi/2026/302), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/302/regulation/1/1), [10(2)(b)](https://www.legislation.gov.uk/uksi/2026/302/regulation/10/2/b)
+
+[^f00053]: Footnote: [1995 c.21](https://www.legislation.gov.uk/ukpga/1995/21).
+
+[^f00054]: Footnote: See sections 15 and 22 of the Hallmarking Act [1973 (c.43)](https://www.legislation.gov.uk/ukpga/1973/43).
+
+[^key-1e7db1fb3d1c2acacbc921fc47c8bf2e]: Textual amendment: Words in Sch. Pt. 1 inserted (21.5.2024) by [The Economic Growth (Regulatory Functions) (Amendment) Order 2024 (S.I. 2024/587)](https://www.legislation.gov.uk/uksi/2024/587), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/587/article/1/1), [2(3)(c)](https://www.legislation.gov.uk/uksi/2024/587/article/2/3/c)
+
+[^key-772135535b032fd5da801785b0908ccf]: Commencement: [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2017/267/schedule/part/2) in force at 29.3.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/267/article/1)
+
+[^f00055]: Footnote: [1991 c.56](https://www.legislation.gov.uk/ukpga/1991/56); section 86 was amended by the Water Act [2014 (c.21)](https://www.legislation.gov.uk/ukpga/2014/21), schedule 7, paragraph 75.
+
+[^f00056]: Footnote: [2006 c.46](https://www.legislation.gov.uk/ukpga/2006/46); section 1252 was amended by [S.I. 2007/3494](https://www.legislation.gov.uk/uksi/2007/3494), regulation 12.
+
+[^f00057]: Footnote: [2006 c.46](https://www.legislation.gov.uk/ukpga/2006/46), section 457 was amended by [S.I. 2013/1970](https://www.legislation.gov.uk/uksi/2013/1970), schedule, paragraphs 1 and 15.
+
+[^key-97bce065502c607ce355e05534b0db81]: Commencement: Sch. Pt. 3 in force at 29.3.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/267/article/1)
+
+[^f00058]: Footnote: [2009 c.11](https://www.legislation.gov.uk/ukpga/2009/11).
+
+[^f00059]: Footnote: [1947 c.48](https://www.legislation.gov.uk/ukpga/1947/48); section 98 was amended by the Pests Act [1954 (c.68)](https://www.legislation.gov.uk/ukpga/1954/68), section 2(1) and the schedule; the Protection of Birds Act [1954 (c.30)](https://www.legislation.gov.uk/ukpga/1954/30), schedule 5, paragraph 1; and the Agriculture Act [1958 (c.71)](https://www.legislation.gov.uk/ukpga/1958/71), schedule 3. Section 100 was amended by [S.I. 2007/2007](https://www.legislation.gov.uk/uksi/2007/2007), schedule 1, paragraph 1(i).
+
+[^f00060]: Footnote: [1954 c.68](https://www.legislation.gov.uk/ukpga/1954/68).
+
+[^f00061]: Footnote: [1959 c.54](https://www.legislation.gov.uk/ukpga/1959/54).
+
+[^f00062]: Footnote: [1964 c.28](https://www.legislation.gov.uk/ukpga/1964/28).
+
+[^f00063]: Footnote: [S.I. 2002/458](https://www.legislation.gov.uk/uksi/2002/458).
+
+[^f00064]: Footnote: [S.I. 2005/465](https://www.legislation.gov.uk/uksi/2005/465).
+
+[^f00065]: Footnote: [S.I. 2007/529](https://www.legislation.gov.uk/uksi/2007/529).
+
+[^f00066]: Footnote: [S.I. 2009/3255](https://www.legislation.gov.uk/uksi/2009/3255).
+
+[^f00067]: Footnote: [S.I. 2010/1090](https://www.legislation.gov.uk/uksi/2010/1090).
+
+[^f00068]: Footnote: [S.I. 2010/983](https://www.legislation.gov.uk/uksi/2010/983).
+
+[^key-542a51c448ffa3a0a565707c2c10609a]: Textual amendment: Words in Sch. Pt. 3 substituted (30.11.2017) by [The Conservation of Habitats and Species Regulations 2017 (S.I. 2017/1012)](https://www.legislation.gov.uk/uksi/2017/1012), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/1/2), [Sch. 6 para. 74](https://www.legislation.gov.uk/uksi/2017/1012/schedule/6/paragraph/74)
+
+[^f00070]: Footnote: [S.I. 2010/675](https://www.legislation.gov.uk/uksi/2010/675).
+
+[^f00071]: Footnote: OJ No L 343, 14.12.2012, p. 1.
+
+[^f00072]: Footnote: [1932 c.12](https://www.legislation.gov.uk/ukpga/1932/12).
+
+[^f00073]: Footnote: [1970 c.30](https://www.legislation.gov.uk/ukpga/1970/30).
+
+[^f00074]: Footnote: [1980 c.12](https://www.legislation.gov.uk/ukpga/1980/12).
+
+[^f00075]: Footnote: [1981 c.22](https://www.legislation.gov.uk/ukpga/1981/22).
+
+[^f00076]: Footnote: [1981 c.69](https://www.legislation.gov.uk/ukpga/1981/69).
+
+[^f00077]: Footnote: [1981 c.37](https://www.legislation.gov.uk/ukpga/1981/37).
+
+[^f00078]: Footnote: [1984 c.40](https://www.legislation.gov.uk/ukpga/1984/40).
+
+[^f00079]: Footnote: [1992 c.51](https://www.legislation.gov.uk/ukpga/1992/51).
+
+[^f00080]: Footnote: [2006 c.45](https://www.legislation.gov.uk/ukpga/2006/45).
+
+[^f00081]: Footnote: [S.I. 2003/3100](https://www.legislation.gov.uk/uksi/2003/3100).
+
+[^f00082]: Footnote: [S.I. 2006/2701](https://www.legislation.gov.uk/uksi/2006/2701).
+
+[^f00083]: Footnote: [S.I. 2006/183](https://www.legislation.gov.uk/uksi/2006/183).
+
+[^f00084]: Footnote: [S.I. 2006/3472](https://www.legislation.gov.uk/uksi/2006/3472).
+
+[^f00085]: Footnote: [S.I. 2008/962](https://www.legislation.gov.uk/uksi/2008/962).
+
+[^f00086]: Footnote: [S.I. 2009/2163](https://www.legislation.gov.uk/uksi/2009/2163).
+
+[^f00087]: Footnote: [S.I. 2010/801](https://www.legislation.gov.uk/uksi/2010/801).
+
+[^f00088]: Footnote: [S.I. 2011/2883](https://www.legislation.gov.uk/uksi/2011/2883).
+
+[^f00089]: Footnote: [S.I. 2011/1197](https://www.legislation.gov.uk/uksi/2011/1197).
+
+[^f00090]: Footnote: [S.I. 2013/2033](https://www.legislation.gov.uk/uksi/2013/2033).
+
+[^f00091]: Footnote: [S.I. 2015/787](https://www.legislation.gov.uk/uksi/2015/787).
+
+[^f00092]: Footnote: OJ No L 268, 18.10.2003, p. 29.
+
+[^f00093]: Footnote: OJ No L 5, 09.01.2004, p. 8.
+
+[^f00094]: Footnote: OJ No L 165, 30.04.2004, p. 1.
+
+[^f00095]: Footnote: OJ No L 367, 22.12.2006, p. 33.
+
+[^f00096]: Footnote: OJ No L 163, 24.06.2008, p. 6.
+
+[^f00097]: Footnote: OJ No L 168, 28.06.2008, p. 5.
+
+[^f00098]: Footnote: OJ No L 334, 12.12.2008, p. 7.
+
+[^key-eeb496d5e94c2c64ab6f9f2f583469fc]: Textual amendment: Words in Sch. Pt. 3 substituted (29.11.2018 for specified purposes, 1.4.2019 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Claims Management Activity) Order 2018 (S.I. 2018/1253)](https://www.legislation.gov.uk/uksi/2018/1253), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3), [104](https://www.legislation.gov.uk/uksi/2018/1253/article/104)
+
+[^f00100]: Footnote: [2006 c.46](https://www.legislation.gov.uk/ukpga/2006/46).
+
+[^f00101]: Footnote: [1973 c.35](https://www.legislation.gov.uk/ukpga/1973/35).
+
+[^f00102]: Footnote: [1998 c.39](https://www.legislation.gov.uk/ukpga/1998/39).
+
+[^f00103]: Footnote: [1967 c.83](https://www.legislation.gov.uk/ukpga/1967/83).
+
+[^f00104]: Footnote: [1968 c.77](https://www.legislation.gov.uk/ukpga/1968/77).
+
+[^f00105]: Footnote: [1976 c.86](https://www.legislation.gov.uk/ukpga/1976/86).
+
+[^f00106]: Footnote: [1980 c.27](https://www.legislation.gov.uk/ukpga/1980/27).
+
+[^f00107]: Footnote: [1981 c.29](https://www.legislation.gov.uk/ukpga/1981/29).
+
+[^f00108]: Footnote: [S.I. 2005/1605](https://www.legislation.gov.uk/uksi/2005/1605).
+
+[^f00109]: Footnote: [S.I. 2007/1842](https://www.legislation.gov.uk/uksi/2007/1842).
+
+[^f00110]: Footnote: [S.I. 2009/463](https://www.legislation.gov.uk/uksi/2009/463).
+
+[^f00111]: Footnote: [1985 c.48](https://www.legislation.gov.uk/ukpga/1985/48).
+
+[^f00112]: Footnote: [S.I. 2008/2570](https://www.legislation.gov.uk/uksi/2008/2570).
+
+[^f00113]: Footnote: [S.I. 2010/740](https://www.legislation.gov.uk/uksi/2010/740).
+
+[^f00114]: Footnote: [S.I. 2011/2131](https://www.legislation.gov.uk/uksi/2011/2131).
+
+[^f00115]: Footnote: [S.I. 2012/1657](https://www.legislation.gov.uk/uksi/2012/1657).
+
+[^f00116]: Footnote: [S.I. 2013/1506](https://www.legislation.gov.uk/uksi/2013/1506).
+
+[^f00117]: Footnote: [1986 c.20](https://www.legislation.gov.uk/ukpga/1986/20).
+
+[^f00118]: Footnote: [S.I. 2009/1361](https://www.legislation.gov.uk/uksi/2009/1361).
+
+[^f00119]: Footnote: [S.I. 2009/842](https://www.legislation.gov.uk/uksi/2009/842).
+
+[^f00120]: Footnote: [1986 c.45](https://www.legislation.gov.uk/ukpga/1986/45).
+
+[^f00121]: Footnote: [1964 c.40](https://www.legislation.gov.uk/ukpga/1964/40).
+
+[^f00122]: Footnote: [1968 c.59](https://www.legislation.gov.uk/ukpga/1968/59).
+
+[^f00123]: Footnote: [1973 c.33](https://www.legislation.gov.uk/ukpga/1973/33).
+
+[^f00124]: Footnote: [1985 c.22](https://www.legislation.gov.uk/ukpga/1985/22).
+
+[^f00125]: Footnote: [1990 c.31](https://www.legislation.gov.uk/ukpga/1990/31).
+
+[^f00126]: Footnote: [1995 c.21](https://www.legislation.gov.uk/ukpga/1995/21).
+
+[^f00127]: Footnote: [2003 c.20](https://www.legislation.gov.uk/ukpga/2003/20).
+
+[^f00128]: Footnote: [S.I. 1984/1115](https://www.legislation.gov.uk/uksi/1984/1115).
+
+[^f00129]: Footnote: [S.I. 1995/1802](https://www.legislation.gov.uk/uksi/1995/1802).
+
+[^key-0b857047af47e41c4453b3bb1307cdcd]: Textual amendment: Words in Sch. Pt. 3 omitted (11.6.2024) by virtue of [The Merchant Shipping (Carriage of Dangerous Goods and Harmful Substances) (Amendment) Regulations 2024 (S.I. 2024/636)](https://www.legislation.gov.uk/uksi/2024/636), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/636/regulation/1/1), [Sch. 1 para. 9(a)](https://www.legislation.gov.uk/uksi/2024/636/schedule/1/paragraph/9/a) (with [reg. 4](https://www.legislation.gov.uk/uksi/2024/636/regulation/4))
+
+[^key-85934d50dd6853b889d95d18c587d86c]: Textual amendment: Words in Sch. Pt. 3 substituted (11.6.2024) by [The Merchant Shipping (Carriage of Dangerous Goods and Harmful Substances) (Amendment) Regulations 2024 (S.I. 2024/636)](https://www.legislation.gov.uk/uksi/2024/636), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/636/regulation/1/1), [Sch. 1 para. 9(b)](https://www.legislation.gov.uk/uksi/2024/636/schedule/1/paragraph/9/b) (with [reg. 4](https://www.legislation.gov.uk/uksi/2024/636/regulation/4))
+
+[^f00132]: Footnote: [S.I. 1997/2962](https://www.legislation.gov.uk/uksi/1997/2962).
+
+[^f00133]: Footnote: [S.I. 1997/529](https://www.legislation.gov.uk/uksi/1997/529).
+
+[^f00134]: Footnote: [S.I. 1999/2998](https://www.legislation.gov.uk/uksi/1999/2998).
+
+[^key-4d3f474786a1462c97d2b7881fee7871]: Textual amendment: Words in Sch. Pt. 3 substituted (5.1.2026) by virtue of [The Merchant Shipping (Marine Equipment) Regulations 2025 (S.I. 2025/1280)](https://www.legislation.gov.uk/uksi/2025/1280), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1280/regulation/1/1), [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/2025/1280/schedule/1/paragraph/9) (with [reg. 3](https://www.legislation.gov.uk/uksi/2025/1280/regulation/3))
+
+[^f00136]: Footnote: [S.I. 2001/3209](https://www.legislation.gov.uk/uksi/2001/3209).
+
+[^f00137]: Footnote: [S.I. 2002/2201](https://www.legislation.gov.uk/uksi/2002/2201).
+
+[^f00138]: Footnote: [S.I. 2002/2125](https://www.legislation.gov.uk/uksi/2002/2125).
+
+[^f00139]: Footnote: [S.I. 2003/1809](https://www.legislation.gov.uk/uksi/2003/1809).
+
+[^f00140]: Footnote: [S.I. 2003/3049](https://www.legislation.gov.uk/uksi/2003/3049).
+
+[^f00141]: Footnote: [S.I. 2004/1713](https://www.legislation.gov.uk/uksi/2004/1713).
+
+[^f00142]: Footnote: [S.I. 2004/302](https://www.legislation.gov.uk/uksi/2004/302).
+
+[^f00143]: Footnote: [S.I. 2004/2110](https://www.legislation.gov.uk/uksi/2004/2110).
+
+[^f00144]: Footnote: [S.I. 2006/2184](https://www.legislation.gov.uk/uksi/2006/2184).
+
+[^f00145]: Footnote: [S.I. 2007/3075](https://www.legislation.gov.uk/uksi/2007/3075).
+
+[^f00146]: Footnote: [S.I. 2007/3077](https://www.legislation.gov.uk/uksi/2007/3077).
+
+[^f00147]: Footnote: [S.I. 2007/3100](https://www.legislation.gov.uk/uksi/2007/3100).
+
+[^f00148]: Footnote: [1968 c.67](https://www.legislation.gov.uk/ukpga/1968/67).
+
+[^f00149]: Footnote: [S.I. 1999/3106](https://www.legislation.gov.uk/uksi/1999/3106).
+
+[^f00150]: Footnote: [S.I. 2002/618](https://www.legislation.gov.uk/uksi/2002/618).
+
+[^f00151]: Footnote: [S.I. 2003/1680](https://www.legislation.gov.uk/uksi/2003/1680).
+
+[^f00152]: Footnote: [S.I. 2004/1031](https://www.legislation.gov.uk/uksi/2004/1031).
+
+[^f00153]: Footnote: [S.I. 2005/50](https://www.legislation.gov.uk/uksi/2005/50).
+
+[^f00154]: Footnote: [S.I. 2012/1916](https://www.legislation.gov.uk/uksi/2012/1916).
+
+[^f00155]: Footnote: OJ No L 136, 30.4.2004, p. 1.
+
+[^f00156]: Footnote: OJ No L 378, 27.12.2006, p. 1.
+
+[^key-855f429f7d71855ba4c8765983c0ee06]: Textual amendment: Words in Sch. Pt. 3 inserted (27.7.2021) by [The Medical Devices (Northern Ireland Protocol) Regulations 2021 (S.I. 2021/905)](https://www.legislation.gov.uk/uksi/2021/905), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/905/regulation/1/2), [42](https://www.legislation.gov.uk/uksi/2021/905/regulation/42)
+
+[^key-224d31fe9eea0db064f9bebc080f143c]: Textual amendment: Words in Sch. Pt. 3 inserted (21.3.2024) by [The Medical Devices (In Vitro Diagnostic Devices etc.) (Amendment) Regulations 2024 (S.I. 2024/221)](https://www.legislation.gov.uk/uksi/2024/221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/221/regulation/1/2), [25](https://www.legislation.gov.uk/uksi/2024/221/regulation/25)
+
+[^f00157]: Footnote: [1986 c.38](https://www.legislation.gov.uk/ukpga/1986/38).
+
+[^f00158]: Footnote: [1964 c.14](https://www.legislation.gov.uk/ukpga/1964/14).
+
+[^f00159]: Footnote: [1967 c.8](https://www.legislation.gov.uk/ukpga/1967/8).
+
+[^f00160]: Footnote: [1997 c.66](https://www.legislation.gov.uk/ukpga/1997/66).
+
+[^f00161]: Footnote: [S.I. 1995/2652](https://www.legislation.gov.uk/uksi/1995/2652).
+
+[^f00162]: Footnote: [S.I. 1999/1801](https://www.legislation.gov.uk/uksi/1999/1801).
+
+[^f00163]: Footnote: [S.I. 2004/1165](https://www.legislation.gov.uk/uksi/2004/1165).
+
+[^key-31732cae1face6a551f698be5f98e626]: Textual amendment: Words in Sch. Pt. 3 substituted (1.6.2017) by [The Marketing of Fruit Plant and Propagating Material (England) Regulations 2017 (S.I. 2017/595)](https://www.legislation.gov.uk/uksi/2017/595), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/595/regulation/1/1), [29(2)](https://www.legislation.gov.uk/uksi/2017/595/regulation/29/2)
+
+[^f00165]: Footnote: [S.I. 2011/463](https://www.legislation.gov.uk/uksi/2011/463).
+
+[^f00166]: Footnote: [1968 c.73](https://www.legislation.gov.uk/ukpga/1968/73).
+
+[^f00167]: Footnote: [1972 c.27](https://www.legislation.gov.uk/ukpga/1972/27).
+
+[^f00168]: Footnote: [1976 c.58](https://www.legislation.gov.uk/ukpga/1976/58).
+
+[^f00169]: Footnote: [1981 c.14](https://www.legislation.gov.uk/ukpga/1981/14).
+
+[^f00170]: Footnote: [1982 c.49](https://www.legislation.gov.uk/ukpga/1982/49).
+
+[^f00171]: Footnote: [1984 c.27](https://www.legislation.gov.uk/ukpga/1984/27).
+
+[^f00172]: Footnote: [1985 c.67](https://www.legislation.gov.uk/ukpga/1985/67).
+
+[^f00173]: Footnote: [1988 c.52](https://www.legislation.gov.uk/ukpga/1988/52).
+
+[^f00174]: Footnote: [2000 c.38](https://www.legislation.gov.uk/ukpga/2000/38).
+
+[^f00175]: Footnote: [2001 c.3](https://www.legislation.gov.uk/ukpga/2001/3).
+
+[^f00176]: Footnote: [2010 c.15](https://www.legislation.gov.uk/ukpga/2010/15).
+
+[^f00177]: Footnote: [S.I. 1975/1208](https://www.legislation.gov.uk/uksi/1975/1208).
+
+[^f00178]: Footnote: [S.I. 1979/1746](https://www.legislation.gov.uk/uksi/1979/1746).
+
+[^f00179]: Footnote: [S.I. 1984/748](https://www.legislation.gov.uk/uksi/1984/748).
+
+[^f00180]: Footnote: [S.I. 1995/2869](https://www.legislation.gov.uk/uksi/1995/2869).
+
+[^f00181]: Footnote: [1995 c.23](https://www.legislation.gov.uk/ukpga/1995/23).
+
+[^f00182]: Footnote: [S.I. 1999/2920](https://www.legislation.gov.uk/uksi/1999/2920).
+
+[^f00183]: Footnote: [S.I. 2003/2635](https://www.legislation.gov.uk/uksi/2003/2635).
+
+[^f00184]: Footnote: [S.I. 2005/639](https://www.legislation.gov.uk/uksi/2005/639).
+
+[^f00185]: Footnote: [S.I. 2007/605](https://www.legislation.gov.uk/uksi/2007/605).
+
+[^f00186]: Footnote: [S.I. 2009/1348](https://www.legislation.gov.uk/uksi/2009/1348).
+
+[^key-759378e12dbacf86fcab697db683f7f6]: Textual amendment: Words in Sch. Pt. 3 substituted (1.9.2020) by [The Road Vehicles (Approval) Regulations 2020 (S.I. 2020/818)](https://www.legislation.gov.uk/uksi/2020/818), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/818/regulation/1/b), [Sch. 6 para. 33(2)](https://www.legislation.gov.uk/uksi/2020/818/schedule/6/paragraph/33/2) (with [Sch. 4 paras. 16](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/16), [17](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/17))
+
+[^f00188]: Footnote: [1985 c.72](https://www.legislation.gov.uk/ukpga/1985/72).
+
+[^f00189]: Footnote: [S.I. 2006/1268](https://www.legislation.gov.uk/uksi/2006/1268).
+
+[^f00190]: Footnote: [1976 c.72](https://www.legislation.gov.uk/ukpga/1976/72).
+
+[^f00191]: Footnote: [1997 c.55](https://www.legislation.gov.uk/ukpga/1997/55).
+
+[^key-656484b29636c873902c7a7b61982caf]: Textual amendment: Words in Sch. Pt. 3 omitted (6.11.2019) by virtue of [The Control of Trade in Endangered Species (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1354)](https://www.legislation.gov.uk/uksi/2019/1354), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1354/regulation/1), [7(a)](https://www.legislation.gov.uk/uksi/2019/1354/regulation/7/a)
+
+[^f00193]: Footnote: OJ No L 61, 3.3.1997, p. 1.
+
+[^f00194]: Footnote: OJ No L 166, 19.6.2006, p. 1.
+
+[^key-58134dade88200edfe2ad42f93d23b25]: Textual amendment: Words in Sch. Pt. 3 inserted (6.11.2019) by [The Control of Trade in Endangered Species (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1354)](https://www.legislation.gov.uk/uksi/2019/1354), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1354/regulation/1), [7(b)](https://www.legislation.gov.uk/uksi/2019/1354/regulation/7/b)
+
+[^f00195]: Footnote: [S.I. 2012/3032](https://www.legislation.gov.uk/uksi/2012/3032).

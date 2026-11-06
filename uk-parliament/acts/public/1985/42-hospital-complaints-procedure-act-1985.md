@@ -1,0 +1,125 @@
+---
+title: Hospital Complaints Procedure Act 1985
+id: ukpga/1985/42
+type: UnitedKingdomPublicGeneralAct
+category: primary
+status: revised-with-pending-changes
+made_date: '1985-07-16'
+text_date: '2012-04-01'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/ukpga/1985/42
+pdf_urls:
+- http://www.legislation.gov.uk/ukpga/1985/42/pdfs/ukpga_19850042_en.pdf
+- http://www.legislation.gov.uk/ukpga/1985/42/data.pdf
+pending_changes: 4
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Hospital Complaints Procedure Act 1985
+
+> **Warning: changes not yet applied to this text (4).** Text as at 2012-04-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1985/42
+>
+> Extent: England, Wales, Scotland.
+
+*Extent: E+W+S*
+
+Hospital Complaints Procedure Act 1985
+
+1985 c. 42
+
+[^M_F_e89062d5-bc38-464c-b007-349f36a470e3]An Act to oblige health authorities in England and Wales and Health Boards in Scotland to establish a complaints procedure for hospital patients and to draw such a procedure to the attention of patients.
+
+\[16th July 1985\]
+
+[^c7662121]Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
+
+*Extent: E+W*
+
+## 1. Hospital complaints procedure.[^c7663121]
+
+(1) It shall be the duty of the Secretary of State to give to each Strategic Health Authority and Health Authority, to each[^c7663151][^c7663141] Special Health Authority in England and Wales and to each Health Board in Scotland such directions [^c7663161]. . . as appear to him necessary for the purpose of securing that, as respects each hospital [^c7663161]. . . which that Strategic Health Authority,[^c7663181]Health Authority, Special Health Authority or Board manage[^c7663201]—
+
+- (a) such arrangements are made for dealing with complaints made by or on behalf of persons who are or have been patients at that hospital; and
+- (b) such steps are taken for publicising the arrangements so made,
+
+as (in each case) are specified or described in the directions.
+
+(1A)[^c7663211] It shall also be the duty of the Secretary of State to give to each NHS trust which manages[^c7663221] a hospital such directions as appear necessary for the purpose of securing that, as respects each hospital [^c7663231]. . . which that NHS trust manages[^c7663241]—
+
+- (a) such arrangements are made for dealing with complaints made by or on behalf of persons who are or have been patients at that hospital; and
+- (b) such steps are taken for publicising the arrangements so made,
+
+as (in each case) are specified or described in the directions.
+
+(1B)[^c7663251] It shall also be the duty of the Secretary of State to give to each Primary Care Trust and Local Health Board[^c7663261] which manages a hospital such directions as appear necessary for the purpose of securing that, as respects each hospital which that Primary Care Trust or Local Health Board manages—
+
+- (a) such arrangements are made for dealing with complaints made by or on behalf of persons who are or have been patients at that hospital; and
+- (b) such steps are taken for publicising the arrangements so made,
+
+as (in each case) are specified or described in the directions.
+
+(1C) In this section, “**directions**” means—
+
+- (a) in relation to England and Wales, directions under section 17 of the [^c7663281]National Health Service Act 1977,
+- (b) in relation to Scotland, directions under section 2(5) of the [^c7663291]National Health Service (Scotland) Act 1978.
+
+(2) No right of appeal, reference or review conferred under this section shall preclude an investigation under the Health Service Commissioners Act 1993[^c7663311] in respect of any matter.
+
+(3) In this section—
+
+- (a) in its application to England and Wales, expressions which are also used in the said Act of 1977 have the same meanings as in that Act;
+- (b) in its application to Scotland, expressions which are also used in the said Act of 1978 have the same meanings as in that Act.
+
+## 1A. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c7663331]
+
+*Extent: E+W+S*
+
+## 2. Short title, commencement and extent.
+
+(1) This Act may be cited as the Hospital Complaints Procedure Act 1985.
+
+(2)[^c7663341] This Act shall come into force on such day as the Secretary of State may by order made by statutory instrument appoint.
+
+(3) This Act does not extend to Northern Ireland.
+
+## Annotations
+
+[^M_F_e89062d5-bc38-464c-b007-349f36a470e3]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/1985/42) repealed (S.) (1.4.2012) by [Patient Rights (Scotland) Act 2011 (asp 5)](https://www.legislation.gov.uk/asp/2011/5), [ss. 16](https://www.legislation.gov.uk/asp/2011/5/section/16), [26(3)](https://www.legislation.gov.uk/asp/2011/5/section/26/3) (with [ss. 18(3)](https://www.legislation.gov.uk/asp/2011/5/section/18/3), [20](https://www.legislation.gov.uk/asp/2011/5/section/20)); [S.S.I. 2012/35](https://www.legislation.gov.uk/ssi/2012/35), [art. 2(a)](https://www.legislation.gov.uk/ssi/2012/35/article/2/a)
+
+[^c7662121]: Commencement: Act not in force at Royal Assent see s. 2(2)
+
+[^c7663121]: Modification: S. 1: transfer of functions (1.7.1999) by [S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672), [arts. 1(2)](https://www.legislation.gov.uk/uksi/1999/672/article/1/2), [2](https://www.legislation.gov.uk/uksi/1999/672/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/672/schedule/1)
+
+[^c7663151]: Textual amendment: Words in s. 1(1) substituted (1.10.2002 for E.W.) by [2002 c. 17](https://www.legislation.gov.uk/ukpga/2002/17), [s. 1(3)](https://www.legislation.gov.uk/ukpga/2002/17/section/1/3), [Sch. 1 Pt. 2 para. 37(a)](https://www.legislation.gov.uk/ukpga/2002/17/schedule/1/part/2/paragraph/37/a); [S.I. 2002/2478](https://www.legislation.gov.uk/uksi/2002/2478), [art. 3(1)(a)(c)](https://www.legislation.gov.uk/uksi/2002/2478/article/3/1/a/c)
+
+[^c7663141]: Textual amendment: Words in s. 1(1) substituted (28.6.1995 for specified purposes and otherwise 1.4.1996) by [1995 c. 17](https://www.legislation.gov.uk/ukpga/1995/17), [ss. 2(1)(3)](https://www.legislation.gov.uk/ukpga/1995/17/section/2/1/3), [8](https://www.legislation.gov.uk/ukpga/1995/17/section/8), [Sch. 1 Pt. III para. 109(2)(a)](https://www.legislation.gov.uk/ukpga/1995/17/schedule/1/part/III/paragraph/109/2/a) (with [Sch. 2 paras. 6](https://www.legislation.gov.uk/ukpga/1995/17/schedule/2/paragraph/6), [16](https://www.legislation.gov.uk/ukpga/1995/17/schedule/2/paragraph/16))
+
+[^c7663161]: Textual amendment: Words in s. 1(1) repealed by [1999 c. 8](https://www.legislation.gov.uk/ukpga/1999/8), [s. 65](https://www.legislation.gov.uk/ukpga/1999/8/section/65), [Sch. 4 para. 71(a)](https://www.legislation.gov.uk/ukpga/1999/8/schedule/4/paragraph/71/a), [Sch. 5](https://www.legislation.gov.uk/ukpga/1999/8/schedule/5) (the repeal being brought into force: for Scotland on 1.10.1999 by S[S.I. 1999/90](https://www.legislation.gov.uk/uksi/1999/90), [art. 2](https://www.legislation.gov.uk/uksi/1999/90/article/2), [Sch. 2](https://www.legislation.gov.uk/uksi/1999/90/schedule/2); for England to the extent that the words are omitted by virtue of Sch. 4 para. 71(a) of the amaending Act on 1.10.1999 by [S.I. 1999/2540](https://www.legislation.gov.uk/uksi/1999/2540), and, to the extent that the words are repealed by [Sch. 5](https://www.legislation.gov.uk/uksi/2000/1041/schedule/5) of the amending Act, on 1.4.2000 by [S.I. 2000/1041](https://www.legislation.gov.uk/uksi/2000/1041), [art. 2](https://www.legislation.gov.uk/uksi/2000/1041/article/2); and for Wales on 1.4.2000 by [S.I. 2000/1026](https://www.legislation.gov.uk/uksi/2000/1026), [art. 2(1)](https://www.legislation.gov.uk/uksi/2000/1026/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2000/1026/schedule)
+
+[^c7663181]: Textual amendment: Words in s. 1(1) inserted (1.10.2002 for E.W.) by [2002 c. 17](https://www.legislation.gov.uk/ukpga/2002/17), [s. 1(3)](https://www.legislation.gov.uk/ukpga/2002/17/section/1/3), [Sch. 1 Pt. 2 para. 37(b)](https://www.legislation.gov.uk/ukpga/2002/17/schedule/1/part/2/paragraph/37/b); [S.I. 2002/2478](https://www.legislation.gov.uk/uksi/2002/2478), [art. 3(1)(a)(c)](https://www.legislation.gov.uk/uksi/2002/2478/article/3/1/a/c)
+
+[^c7663201]: Textual amendment: Word in s. 1(1) substituted (E.)(S.) (1.10.1999) and (W.) (1.4.2000) by [1999 c. 8](https://www.legislation.gov.uk/ukpga/1999/8), [s. 65(1)](https://www.legislation.gov.uk/ukpga/1999/8/section/65/1), [Sch. 4 para. 71(a)](https://www.legislation.gov.uk/ukpga/1999/8/schedule/4/paragraph/71/a); S.S.I 1999/90, art. 2(b); [S.I. 1999/2540](https://www.legislation.gov.uk/uksi/1999/2540), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/1999/2540/article/2/1/a), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/2540/schedule/1); [S.I. 2000/1026](https://www.legislation.gov.uk/uksi/2000/1026), [art. 2](https://www.legislation.gov.uk/uksi/2000/1026/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2000/1026/schedule)
+
+[^c7663211]: Textual amendment: S. 1(1A) inserted (28.6.1995 for specified purposes and otherwise 1.4.1996) by [1995 c. 17](https://www.legislation.gov.uk/ukpga/1995/17), [ss. 2(1)(3)](https://www.legislation.gov.uk/ukpga/1995/17/section/2/1/3), [8](https://www.legislation.gov.uk/ukpga/1995/17/section/8), [Sch. 1 Pt. III para. 109(2)(b)](https://www.legislation.gov.uk/ukpga/1995/17/schedule/1/part/III/paragraph/109/2/b) (with [Sch. 2 paras. 6](https://www.legislation.gov.uk/ukpga/1995/17/schedule/2/paragraph/6), [16](https://www.legislation.gov.uk/ukpga/1995/17/schedule/2/paragraph/16))
+
+[^c7663221]: Textual amendment: Word in s. 1(1A) substituted (E.)(S.) (1.10.1999) and (W.) (1.4.2000) by [1999 c. 8](https://www.legislation.gov.uk/ukpga/1999/8), [ss. 65(1)](https://www.legislation.gov.uk/ukpga/1999/8/section/65/1), [67(1)](https://www.legislation.gov.uk/ukpga/1999/8/section/67/1), [Sch. 4 para. 71(b)](https://www.legislation.gov.uk/ukpga/1999/8/schedule/4/paragraph/71/b); [S.S.I. 1999/90](https://www.legislation.gov.uk/ssi/1999/90), [art. 2(b)](https://www.legislation.gov.uk/ssi/1999/90/article/2/b); [S.I. 1999/2540](https://www.legislation.gov.uk/uksi/1999/2540), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/1999/2540/article/2/1/a), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/2540/schedule/1); [S.I. 2000/1026](https://www.legislation.gov.uk/uksi/2000/1026), [art. 2](https://www.legislation.gov.uk/uksi/2000/1026/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2000/1026/schedule)
+
+[^c7663231]: Textual amendment: Words in s. 1(1A) repealed (E.)(S.) (1.10.1999) and (W.) (1.4.2000) by [1999 c. 8](https://www.legislation.gov.uk/ukpga/1999/8), [s. 65](https://www.legislation.gov.uk/ukpga/1999/8/section/65), [Sch. 4 para. 71(b)](https://www.legislation.gov.uk/ukpga/1999/8/schedule/4/paragraph/71/b); [S.S.I. 1999/90](https://www.legislation.gov.uk/ssi/1999/90), [art. 2](https://www.legislation.gov.uk/ssi/1999/90/article/2), [Sch. 2](https://www.legislation.gov.uk/ssi/1999/90/schedule/2); [S.I. 1999/2540](https://www.legislation.gov.uk/uksi/1999/2540), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/1999/2540/article/2/1/a), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/2540/schedule/1); [S.I. 2000/1026](https://www.legislation.gov.uk/uksi/2000/1026), [art. 2](https://www.legislation.gov.uk/uksi/2000/1026/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2000/1026/schedule)
+
+[^c7663241]: Textual amendment: Word in s. 1(1A) substituted (E.)(S.) (1.10.1999) and (W.) (1.4.2000) by [1999 c. 8](https://www.legislation.gov.uk/ukpga/1999/8), [s. 65(1)](https://www.legislation.gov.uk/ukpga/1999/8/section/65/1), [Sch. 4 para. 71(b)](https://www.legislation.gov.uk/ukpga/1999/8/schedule/4/paragraph/71/b); [S.S.I. 1999/90](https://www.legislation.gov.uk/ssi/1999/90), [art. 2(b)](https://www.legislation.gov.uk/ssi/1999/90/article/2/b); [S.I. 1999/2540](https://www.legislation.gov.uk/uksi/1999/2540), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/1999/2540/article/2/1/a), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/2540/schedule/1); [S.I. 2000/1026](https://www.legislation.gov.uk/uksi/2000/1026), [art. 2](https://www.legislation.gov.uk/uksi/2000/1026/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2000/1026/schedule)
+
+[^c7663251]: Textual amendment: S. 1(1B)(1C) inserted (E.) (1.10.1999 for specified purposes and otherwise 4.1.2000), (S.) (1.10.1999) and otherwise (*prosp.)* by [1999 c. 8](https://www.legislation.gov.uk/ukpga/1999/8), [ss. 65(1)](https://www.legislation.gov.uk/ukpga/1999/8/section/65/1), [67(1)](https://www.legislation.gov.uk/ukpga/1999/8/section/67/1), [Sch. 4 para. 71(c)](https://www.legislation.gov.uk/ukpga/1999/8/schedule/4/paragraph/71/c); [S.S.I. 1999/90](https://www.legislation.gov.uk/ssi/1999/90), [art. 2(b)](https://www.legislation.gov.uk/ssi/1999/90/article/2/b); [S.I. 1999/2342](https://www.legislation.gov.uk/uksi/1999/2342), [art. 2(1)](https://www.legislation.gov.uk/uksi/1999/2342/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/2342/schedule/1); [S.I. 1999/2540](https://www.legislation.gov.uk/uksi/1999/2540), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/1999/2540/article/2/1/a), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/2540/schedule/1);
+
+[^c7663261]: Textual amendment: Words in s. 1(1B) inserted (10.10.2002 for W., 1.3.2007 in so far as not already in force, immediately before the National Health Service Act 2006 comes into force) by [2002 c. 17](https://www.legislation.gov.uk/ukpga/2002/17), [ss. 6(2)](https://www.legislation.gov.uk/ukpga/2002/17/section/6/2), [42(3)](https://www.legislation.gov.uk/ukpga/2002/17/section/42/3), [Sch. 5 para. 26](https://www.legislation.gov.uk/ukpga/2002/17/schedule/5/paragraph/26); [S.I. 2002/2532](https://www.legislation.gov.uk/uksi/2002/2532), [art. 2](https://www.legislation.gov.uk/uksi/2002/2532/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2002/2532/schedule); S.I. 2006/1407, art. 1(1), Sch. 1 Pt. 2 para. 12 (with art. 4)
+
+[^c7663281]: Marginal citation: [1977 c.49](https://www.legislation.gov.uk/ukpga/1977/49).
+
+[^c7663291]: Marginal citation: [1978 c.29](https://www.legislation.gov.uk/ukpga/1978/29).
+
+[^c7663311]: Textual amendment: Words in s. 1(2) substituted (5.2.1994) by [1993 c. 46](https://www.legislation.gov.uk/ukpga/1993/46), [s. 20(1)](https://www.legislation.gov.uk/ukpga/1993/46/section/20/1), [Sch. 2 para. 7](https://www.legislation.gov.uk/ukpga/1993/46/schedule/2/paragraph/7)
+
+[^c7663331]: Textual amendment: S. 1A repealed (28.6.1995 for specified purposes and otherwise 1.4.1996) by [1995 c. 17](https://www.legislation.gov.uk/ukpga/1995/17), [ss. 2(1)(3)](https://www.legislation.gov.uk/ukpga/1995/17/section/2/1/3), [5(1)(2)](https://www.legislation.gov.uk/ukpga/1995/17/section/5/1/2), [8](https://www.legislation.gov.uk/ukpga/1995/17/section/8), [Sch. 1 Pt. III para. 109(3)](https://www.legislation.gov.uk/ukpga/1995/17/schedule/1/part/III/paragraph/109/3), [Sch. 3](https://www.legislation.gov.uk/ukpga/1995/17/schedule/3) (with [Sch. 2 paras. 6](https://www.legislation.gov.uk/ukpga/1995/17/schedule/2/paragraph/6), [16](https://www.legislation.gov.uk/ukpga/1995/17/schedule/2/paragraph/16)) (but s. 1A expressed to be subject to transfer of powers (1.7.1999) by [S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672), [arts. 1(2)](https://www.legislation.gov.uk/uksi/1999/672/article/1/2), [2](https://www.legislation.gov.uk/uksi/1999/672/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/672/schedule/1))
+
+[^c7663341]: Modification: Power of appointment conferred by s. 2(2) fully exercised (11.7.1989): 1989/1191

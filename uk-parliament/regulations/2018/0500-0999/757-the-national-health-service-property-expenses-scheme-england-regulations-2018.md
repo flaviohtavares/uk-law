@@ -1,0 +1,507 @@
+---
+title: The National Health Service (Property Expenses Scheme) (England) Regulations 2018
+id: uksi/2018/757
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised-with-pending-changes
+made_date: '2018-06-25'
+text_date: '2023-11-06'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2018/757
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2018/757/pdfs/uksiem_20180757_en.pdf
+- http://www.legislation.gov.uk/uksi/2018/757/pdfs/uksi_20180757_en.pdf
+- http://www.legislation.gov.uk/uksi/2018/757/data.pdf
+pending_changes: 2
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The National Health Service (Property Expenses Scheme) (England) Regulations 2018
+
+> **Warning: changes not yet applied to this text (2).** Text as at 2023-11-06. See https://www.legislation.gov.uk/changes/affected/uksi/2018/757
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2018 No. 757
+
+National Health Service, England
+
+The National Health Service (Property Expenses Scheme) (England) Regulations 2018
+
+Made
+
+25th June 2018
+
+Laid before Parliament
+
+29th June 2018
+
+Coming into force
+
+1st August 2018
+
+The Secretary of State makes these Regulations in exercise of the powers conferred by sections 71 and 272(7) and (8) of the National Health Service Act 2006[^f00001].
+
+In accordance with section 71(1) of that Act, these Regulations are made with the consent of the Treasury.
+
+## PART 1 — General
+
+### 1. Citation, commencement and application[^key-81bab7e734692753476e14649da85df7]
+
+(1) These Regulations may be cited as the National Health Service (Property Expenses Scheme) (England) Regulations 2018.
+
+(2) These Regulations come into force on 1st August 2018.
+
+(3) These Regulations apply to England only.
+
+### 2. Interpretation[^key-c27abd67d44a068be76aae8a8628b541]
+
+In these Regulations—
+
+- “the 1999 Regulations” means the National Health Service (Property Expenses Scheme) Regulations 1999[^f00002];
+- “the 2006 Act” means the National Health Service Act 2006;
+- “the 2012 Act” means the Health and Social Care Act 2012[^f00003];
+- “the appointed day” means the day on which these Regulations come into force;
+- “eligible body” means a body specified in regulation 4;
+- “membership year” means, in relation to an eligible body, any period of 12 months beginning on 1st April during any part of which that body is a member of the Scheme;
+- “relevant function” means—
+  - (a) arranging for the provision of, or providing services for the purposes of, or exercising functions in relation to, the health service continued under section 1(1) of the NHS Act 2006;
+  - (b) a power exercised by virtue of section 7 of the Health and Medicines Act 1988[^f00004];
+  - (c) a power exercised under section 13W, 14Z5, 43(3) or 44 of, or paragraphs 19 or 20 of Schedule 4 to, the 2006 Act[^f00005];
+  - (d) a power exercised under section 243 or 270 of the 2012 Act;
+  - (e) a function conferred by regulations made under section 240(1)(a) or (b) of the 2012 Act.
+
+## PART 2 — The Scheme
+
+### 3. Property Expenses Scheme[^key-240a8cc0c584b4762d610412512f3cf8]
+
+(1) The Property Expenses Scheme (“the Scheme”)[^f00006] established by the 1999 Regulations shall continue to exist in accordance with, and as if it had been established under, these Regulations.
+
+(2) An eligible body may participate in the Scheme only if it is a member of the Scheme.
+
+(3) The Secretary of State is to continue to administer the Scheme.
+
+### 4. Eligible Bodies[^key-48fa98d561581cf1ab91658b3af59828]
+
+(1) The bodies which are eligible to be members of the Scheme are—
+
+- (a) NHS England[^key-1179ac23f23a77320fcac509ee1c34a4],
+- (b) an integrated care board[^key-07b7659f0e0e10922a57cac7ff54ddb5],
+- (c) an NHS Trust,
+- (d) a Special Health Authority,
+- (e) NICE[^f00008],
+- (f)[^key-bd567d49e58470b7ff694dc69f533488] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (g)[^key-6a5e74093ec3816f744efecc67a1724a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (h) an NHS foundation trust,
+- (i) the Care Quality Commission,
+- (j) the Health Research Authority, and
+- (k) a company formed under section 223 of the 2006 Act and wholly owned by the Secretary of State.
+
+### 5. Membership of the Scheme[^key-55a5154287b2ef61bc02603787f07446]
+
+(A1)[^key-2927b573cb5344fcfc24ed22f045c3c7] Every integrated care board is a member of the Scheme from the beginning of 1st July 2022 (subject to any cancellation of the membership under regulation 6 (cancellation by a member) or 7 (cancellation by the Secretary of State)).
+
+(1) Any eligible body may apply to the Secretary of State to become a member of the Scheme.
+
+(2) An application under paragraph (1) must—
+
+- (a) be in writing;
+- (b) be made in such form and submitted in such manner as the Secretary of State may require;
+- (c) specify a date on which the eligible body proposes that its membership should start; and
+- (d) if required by the Secretary of State, contain, or be accompanied by the information specified in paragraph (4).
+
+(3) At any time before determining an application, the Secretary of State may in writing require the applicant to provide such further information as the Secretary of State considers necessary for the purposes of that determination.
+
+(4) Information that may be required under paragraph (2) is—
+
+- (a) the nature of the applicant’s relevant functions;
+- (b) the number of employees of the applicant who are engaged in the performance by the applicant of any relevant function specified by the Secretary of State, or any part of such a function;
+- (c) the qualifications and experience of such employees; and
+- (d) the details of expenses to which the Scheme applies incurred by the applicant and the date on which they were incurred.
+
+(5) The Secretary of State must—
+
+- (a) within six weeks of receiving an application made in accordance with requirements under paragraph (1), determine whether or not to grant it; and
+- (b) as soon as reasonably practicable, inform the applicant of the determination by a notice in writing which, if the application is granted, must specify the date on which the applicant’s membership is to start.
+
+(6) In determining whether to grant an application, the Secretary of State must have regard to—
+
+- (a) the information provided by the applicant; and
+- (b) such other factors as the Secretary of State considers relevant.
+
+(7) Where an eligible body’s application is granted, the body’s membership of the Scheme starts on the date specified in the notice under paragraph (5)(b).
+
+### 6. Cancellation of membership by a member[^key-584ec4630253338e903142a74aee9de9]
+
+(1) This regulation applies only in relation to any member which has been a member of the Scheme for at least three consecutive membership years.
+
+(2) The member may cancel its membership of the Scheme by giving the Secretary of State notice in writing of the cancellation.
+
+(3) Where a notice under paragraph (2)—
+
+- (a) is given before 1st September in a membership year, the notice takes effect at the end of that membership year;
+- (b) is given on or after 1st September in a membership year, the notice takes effect at the end of the following membership year.
+
+### 7. Cancellation of membership by the Secretary of State[^key-883e46e79c7dcd18142fb37cc449eb4b]
+
+(1) The Secretary of State may cancel a member’s membership of the Scheme where any of paragraphs (2) to (4) apply.
+
+(2) This paragraph applies where the member is liable to make a payment to the Secretary of State under regulation 11 (duty of members to make contributions to the Scheme) and that payment remains unpaid for a period of 28 days or more which starts with the date on which the payment becomes due.
+
+(3) This paragraph applies where the member has failed to provide any information required under regulation 14 (duty of members to provide information)—
+
+- (a) before the end of the period of 28 days which starts with the date on which the Secretary of State requests the information; or
+- (b) if the Secretary of State in writing allows a further period for providing such information, before the end of that further period.
+
+(4) This paragraph applies where the Secretary of State considers that it would be detrimental to the efficient administration of the Scheme or the interests of other members for the member to remain a member of the Scheme.
+
+(5) Where the Secretary of State cancels a member’s membership under paragraph (1) the Secretary of State must inform the member by notice in writing that its membership of the Scheme is to cease with effect from a date specified in the notice and that date must not be earlier than the 28th day after the day on which the notice is sent
+
+(6) The Secretary of State may determine not to cancel the membership by giving the member a further notice in writing to that effect.
+
+(7) A notice given under paragraph (6) must be given before the date on which membership was to cease as specified in the notice given under paragraph (5).
+
+### 8. Automatic termination of membership[^key-e1dba196dd5c68827de0c687ad31e9d0]
+
+Where a member ceases to be an eligible body, its membership ceases immediately.
+
+### Expenses to which the Scheme applies
+
+#### 9. Expenses of members[^key-3be79df6c96bf5f8afce624ffa37f0ba]
+
+(1) The Scheme applies to any expense incurred by a member arising from any loss of, or damage to, the member’s property.
+
+(2) For the purposes of paragraph (1) an expense includes, but is not restricted to, an expense arising from—
+
+- (a) loss of, or damage to, property of the member or for which the member was responsible in the course of a relevant function;
+- (b) loss of use of equipment or other property as a result of it needing immediate repair or replacement before the member can resume normal working;
+- (c) loss of, or damage to, property arising from a deliberate act of fraud or dishonesty; and
+- (d) any consequential or ancillary expense which arises in connection with any expense referred to in any of sub-paragraphs (a) to (c) or in paragraph (1).
+
+(3) The Secretary of State and a member may agree—
+
+- (a) a minimum level of expense which must arise before a payment in respect of such an expense may be made under the Scheme; and
+- (b) an amount which is to be the maximum amount of any payment in respect of such an expense which may be made under the Scheme.
+
+### Payments into the Scheme
+
+#### 10. Determination of amounts payable by members[^key-3018fd032ebd3338976d3e1c23e0570f]
+
+(1) The Secretary of State must determine the amount which each member of the Scheme must pay to the Secretary of State in respect of each membership year.
+
+(2) In determining that amount in respect of any member, the Secretary of State may have regard to—
+
+- (a) the Secretary of State’s estimate of the total amount which, under regulation 13 (payments out of the Scheme), is likely to be payable during that membership year in respect of all expenses to which the Scheme applies;
+- (b) the nature of the member’s relevant functions;
+- (c) the number of the member’s employees who are engaged in the member’s performance of each relevant function or any part of a relevant function;
+- (d) the qualifications and experience of those employees;
+- (e) any agreement in respect of the member which falls within regulation 13(3)(c) (agreement that Scheme to cover expense incurred before membership starts);
+- (f) any agreement in respect of the member which falls within regulation 13(7)(c) (agreement that Scheme to cover expense which falls to be met after membership ceases); and
+- (g) the Secretary of State’s assessment of—
+  - (i) the likely effectiveness of any steps being taken, or to be taken, by the member as to the manner in which the member exercises any relevant function for the purpose of reducing the incidence of expenses in connection with that function to which the Scheme applies; and
+  - (ii) the effectiveness of any steps which have already been taken for that purpose; and
+- (h) any other factor relating to the member or any other member of the Scheme which the Secretary of State considers relevant to the determination under paragraph (1).
+
+(3) In respect of each membership year, the Secretary of State must give each member notice in writing which specifies the amount determined in respect of the member under paragraph (1).
+
+(4) In respect of a member’s—
+
+- (a) first membership year, the notice must be given no later than six months after the date on which the Secretary of State receives the member’s application to become a member;
+- (b) second membership year, the notice must be given no later than 1st July in that membership year;
+- (c) third and any subsequent membership year, the notice must be given no later than 31st December in the membership year before that to which the notice relates.
+
+(5) For the purposes of paragraph (4), reference to “the first membership year” of a body which is a member of the Scheme is to the whole or part of any membership year immediately following any period during which the body was not a member.
+
+#### 11. Duty of members to make contributions to the Scheme[^key-e7846ced0e1c2e4475f34e2d08ae04c9]
+
+(1) Where a member receives a notice under regulation 10(3) in respect of a membership year, the member must pay—
+
+- (a) the amount due in respect of the member’s first membership year no later than 8 months after the date on which the Secretary of State receives the member’s application to become a member;
+- (b) the amount due in respect of the member’s second membership year no later than 1st August in that membership year.
+
+(2) Where a member receives a notice under regulation 10(3) in respect of its third or a subsequent membership year, the member must pay the amount due—
+
+- (a) in accordance with such arrangements as may be agreed between the Secretary of State and the member (which may include payment in instalments to be made at an agreed time); and
+- (b) if no agreement is reached by 1st March immediately before the start of that membership year, by such time and in such a manner as the Secretary of State may determine.
+
+(3) For the purposes of paragraph (1), reference to “the first membership year” of a body which is a member of the Scheme is to be construed in accordance with regulation 10(5).
+
+#### 12. Revision of determination of payable amount[^key-322d49a0eb980ca6f73db5ce1ace9d05]
+
+(1) Paragraph (2) applies where the Secretary of State identifies before the end of a membership year that the amount determined under regulation 10(1) as being payable by the member in respect of that year—
+
+- (a) is incorrectly calculated;
+- (b) is determined by reference to information which was incorrect; or
+- (c) ought to be reconsidered in light of further information that has become available to the Secretary of State.
+
+(2) The Secretary of State—
+
+- (a) must reconsider the amount determined; and
+- (b) at any time before the end of the membership year in question, may revise the amount payable by the member in respect of that year.
+
+(3) The Secretary of State must give the member notice in writing of any revised amount determined under paragraph (2)(b).
+
+(4) Where the revised amount determined under paragraph (2)(b) is higher than the original amount, the member must pay the difference in respect of the membership year—
+
+- (a) in accordance with such arrangements as may be agreed between the Secretary of State and the member (which may include payment in instalments to be made at agreed times); and
+- (b) if no agreement is reached by the end of the membership year, by such time and in such manner as the Secretary of State may determine.
+
+(5) Where the revised amount determined under paragraph (2)(b) is lower than the original amount the member’s remaining payments for that membership year will be reduced to account for the revised amount and are to be paid in accordance with any arrangements that have been, or may be, agreed between the Secretary of State and the member.
+
+(6) The reference in paragraph (1) to an amount determined by the Secretary of State under regulation 10(1) includes any revised amount determined under paragraph (2)(b).
+
+### Payments out of the Scheme
+
+#### 13. Payments out of the Scheme: expenses of members[^key-f0af58ae09f266658abdf9efb926f0bd]
+
+(1) Where a member of the Scheme incurs an expense to which the Scheme applies, the Secretary of State may pay to the member or on the member’s behalf an amount determined by the Secretary of State in respect of that expense.
+
+(2) No payment may be made under paragraph (1) in respect of any liability which is of a nature in respect of which the Secretary of State has in respect of all members and in respect of the relevant membership year determined is not eligible for payment under the Scheme.
+
+(3) Except to such extent as the Secretary of State may determine, no payment may be made under paragraph (1) in respect of any expense incurred by the member which is excluded from the Scheme by any of paragraphs (4) to (8).
+
+(4) An expense that would have been an expense to which the Scheme applies, if at the time it was incurred, the eligible body was a member of the Scheme is excluded from the Scheme unless—
+
+- (a) some part of that expense was to be met by the eligible body after it became a member;
+- (b) the Secretary of State is satisfied that the eligible body informed the Secretary of State before the end of the qualifying period that the expense had arisen;
+- (c) the Secretary of State agreed before the start of the eligible body’s membership that any expense to which sub-paragraphs (a) and (b) apply should not be excluded from the Scheme; and
+- (d) that agreement remains in force at the date on which the expense falls to be met by the eligible body.
+
+(5) Any expense of a member which falls to be met after the member gives notice of cancellation under regulation 6(2) (cancellation of membership by a member) but before its membership has ceased is excluded from the Scheme unless—
+
+- (a) the Secretary of State is satisfied that the expense would have fallen to be met at that time irrespective of the member’s decision to give such a notice; and
+- (b) would otherwise be an expense to which the Scheme applies.
+
+(6) Any expense of a member which falls to be met after the Secretary of State gives notice of cancellation under regulation 7(1) (cancellation of membership by the Secretary of State) but before its membership has ceased is excluded from the Scheme unless the Secretary of State is satisfied that the expense would have fallen to be met at that time irrespective of its decision to give such a notice.
+
+(7) Any expense in relation to which the member has not complied with any condition imposed by the Secretary of State is excluded from the Scheme.
+
+(8) Any expense of a former member which falls to be met after its membership of the Scheme has ceased is excluded from the Scheme unless—
+
+- (a) the expense was incurred before the former member’s membership ceased;
+- (b) the Secretary of State is satisfied that the former member informed the Secretary of State before the end of the qualifying period that the expense had been incurred;
+- (c) the Secretary of State agreed before former member’s membership ceased that any expense to which sub-paragraphs (a) and (b) apply should not be excluded from the Scheme; and
+- (d) that agreement remained in force on the date on which the payment fell to be met.
+
+(9) In paragraph (3)(b) and (8)(b), the “qualifying period” is the period of 14 days starting with the date on which the member or former member (as the case may be) became aware that the expense had arisen or, if earlier, the date on which the Secretary of State considers that the member ought to have become aware that the expense had arisen.
+
+### Miscellaneous
+
+#### 14. Duty of members to provide information[^key-c1413186257161101cf479b06ef31af2]
+
+(1) In this regulation “specified” means specified by the Secretary of State in a notice under paragraph (2).
+
+(2) The Secretary of State may by notice in writing require a member to provide the Secretary of State with specified information.
+
+(3) Specified information includes—
+
+- (a) the nature of any relevant function carried on, or to be carried on, by the member in a specified membership year;
+- (b) the number of the member’s employees who are engaged in the member’s performance of a specified relevant function or in a specified part of any such function;
+- (c) the qualifications and experience of those employees; and
+- (d) any event of which the member is aware which it considers might give rise to an expense to which the Scheme applies.
+
+(4) The member must comply with a notice under paragraph (2) and must—
+
+- (a) provide the information within 28 days of the notice being sent or within such further period as the Secretary of State may in writing allow;
+- (b) provide the information in any specified form; and
+- (c) submit the information in any specified manner.
+
+#### 15. Directions and guidance[^key-4446bd64e0ba46993cb830132288880f]
+
+(1) The Secretary of State must make the following information available to eligible bodies in such form and at such times as the Secretary of State considers appropriate—
+
+- (a) any directions which the Secretary of State gives to a relevant body with respect to the exercise by that body of its functions in connection with administering the Scheme; and
+- (b) any guidance which the Secretary of State gives to a relevant body as to the manner in which the Scheme is to be administered.
+
+(2) “Relevant body” means a body directed by the Secretary of State under any enactment to carry out functions in connection with the administration of the Scheme.
+
+#### 16. Revocations and savings[^key-7f4149cf23bf2e44aae34b2a2126b4b8]
+
+(1) Subject to paragraph (2), the instruments specified in the first column of the table set out in the Schedule are, in relation to England only, revoked to the extent stated in the third column of that table.
+
+(2) Where an expense was incurred before the appointed day—
+
+- (a) any determination as to whether the Scheme applies to the expense; and
+- (b) any determination as to whether to make a payment in respect of the expense (and the amount of any such payment),
+
+is to be made in accordance with the relevant provisions of the 1999 Regulations as if those Regulations remained in force.
+
+#### 17. Transitional provision[^key-3f74acc1c5cc3506db6c516e1fc71b6d]
+
+(1) An eligible body which, immediately before the appointed day, was a member of the Scheme is to continue to be a member of the Scheme (subject to any cancellation of the membership under regulation 6 (cancellation by a member) or 7 (cancellation by the Secretary of State)[^f00009].
+
+(2) Any application for membership of the Scheme which—
+
+- (a) has been made under regulation 6 of the 1999 Regulations (membership of the Scheme) before the appointed day; and
+- (b) has not been determined before the appointed day,
+
+is to be dealt with as if the application had been made under regulation 5 of these Regulations (membership of the Scheme).
+
+(3) For the purposes of regulation 9(2)(a), in relation to loss of, or damage to, property which occurred on or after 1st April 1999 and before 1st May 2014, “relevant function” is to have the meaning given in regulation 1(2) of the 1999 Regulations on 1st May 2014.
+
+(4) Any amount payable by a member of the Scheme under regulation 8 of the 1999 Regulations (members’ contributions to the Scheme) which has not been paid before the appointed day is to be treated as payable under regulation 10 of these Regulations (duty of members to make contributions to the Scheme).
+
+(5) Where a period of time specified in the 1999 Regulations is current on the appointed day, and a period of time is also specified in a corresponding provision of these Regulations, these Regulations have effect as if the corresponding provision of these Regulations had been in force when the period began to run.
+
+(6) Except as stated in regulation 16(2)—
+
+- (a) anything done, if effective immediately before the appointed day, has effect after the appointed day as if done under or for the purposes of the corresponding provision of these Regulations; and
+- (b) any matter that is ongoing under or for the purposes of the 1999 Regulations immediately before the appointed day is to be treated as ongoing under these Regulations.
+
+#### 18. Provision that is consequential on the Health and Care Act 2022: liabilities transferred to integrated care boards and NHS England[^key-f79fb36be1f17329e1b429b94f1e288b]
+
+(1) A claim for an expense of an integrated care board that was made and not determined or paid before 1st July 2022 continues as a claim of the relevant integrated care board.
+
+(2) An expense of an integrated care board that arose and was not claimed before 1st July 2022 may be the subject of a claim on or after that date by the relevant integrated care board.
+
+(3) A claim for an expense of NHS TDA which was made and not determined or paid before 1st July 2022 continues as a claim of NHS England.
+
+(4) An expense of NHS TDA which arose and was not claimed before 1st July 2022 may be the subject of a claim on or after that date by NHS England.
+
+(5) An expense of Monitor which—
+
+- (a) arose before 1st July 2022, and
+- (b) is an expense of the kind which may be claimed by a member under the Scheme,
+
+may be claimed on or after that date by NHS England.
+
+(6) In this Regulation—
+
+- “**an integrated care board**” means a body corporate which, immediately before 1st July 2022, was established in accordance with Chapter A2 of Part 2 of the 2006 Act;
+- “**claim**” means a claim under the Scheme;
+- “**expense**” means an expense to which the Scheme applies;
+- “**Monitor**” means the body corporate which, immediately before 1st July 2022, was known as Monitor in accordance with section 61 of the Health and Social Care Act 2012;
+- “**NHS TDA**” means the Special Health Authority which, immediately before 1st July 2022, was established in accordance with article 2 of the National Health Service Trust Development Authority (Establishment and Constitution) Order 2012;
+- “**relevant integrated care board**” means the integrated care board to whom the liability was transferred under section 14Z28 of the 2006 Act.
+
+#### 19. Provision that is consequential on the transfer of functions from the Health and Social Care Information Centre to NHS England[^key-1a26ea73c42d8f1f1cf1f360c0e758f6]
+
+An expense of the Health and Social Care Information Centre which—
+
+- (a) arose before the day on which regulation 1 of the Health and Social Care Information Centre (Transfer of Functions, Abolition and Transitional Provisions) Regulations 2023 comes into force, and
+- (b) is an expense of the kind which may be claimed by a member under the Scheme,
+
+may be claimed on or after that date by NHS England.
+
+#### 20. ​Provision that is consequential on the transfer of functions from Heath Education England to NHS England[^key-fc8561154fc35a44b4a73b17b17affba]
+
+​An expense of Health Education England which—
+
+- (a) ​arose before 1st April 2023, and
+- (b) ​is an expense of the kind which may be claimed by a member under the Scheme,
+
+may be claimed on or after that date by NHS England.
+
+Signed by authority of the Secretary of State for Health and Social Care.
+
+O’Shaughnessy
+
+Parliamentary Under-Secretary of State,
+
+Department of Health and Social Care
+
+We consent
+
+Craig Whittaker
+
+Paul Maynard
+
+Two of the Lords Commissioners of Her Majesty’s Treasury
+
+## SCHEDULE[^key-5da7578a889d4d9d15ec444d11cc94c2]
+
+Regulation 16
+
+Table
+
+| Instrument | Reference | Extent of revocation |
+| --- | --- | --- |
+| The National Health Service (Property Expenses Scheme) Regulations 1999 | [SI 1999/874](https://www.legislation.gov.uk/uksi/1999/874) | The whole instrument |
+| The National Health Service (Property Expenses Scheme) Amendment Regulations 2000 | [SI 2000/2342](https://www.legislation.gov.uk/uksi/2000/2342) | The whole instrument |
+| The National Health Service (Property Expenses Scheme) (Amendment) Regulations 2014 | [SI 2014/932](https://www.legislation.gov.uk/uksi/2014/932) | The whole instrument |
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+The NHS Property Expenses Scheme covers property damage and is funded by membership contributions. It was established by the National Health Service (Property Expenses Scheme) Regulations 1999 (“the 1999 Regulations”).
+
+This instrument consolidates the 1999 Regulations and the instruments which amended them, in respect of their application to England. Regulation 16 revokes those instruments but saves the 1999 Regulations to a certain extent in certain circumstances. Regulation 16(2) provides that where an expense was incurred before the coming into force of these Regulations, the 1999 Regulations apply in relation to both the determination as to whether the Scheme applies, and whether a payment is to be made, in respect of that expense.
+
+Regulation 17 provides that these Regulations rather than the 1999 Regulations apply in relation to certain circumstances despite those circumstances arising before the coming into force of these Regulations.
+
+An impact assessment has not been produced for this instrument as no impact on the private or voluntary sectors is foreseen.
+
+## Annotations
+
+[^f00001]: Footnote: [2006 c. 41](https://www.legislation.gov.uk/ukpga/2006/41). Section 71 was amended by section 142 of, and paragraph 85 of Schedule 5 and Part 4 of Schedule 15 to, the Health and Social Care Act [2008 (c. 14)](https://www.legislation.gov.uk/ukpga/2008/14); by paragraph 18 of Schedule 4, paragraphs 17 and 19 of Schedule 7, paragraphs 1 and 28 of Schedule 14, paragraph 10(1) and (3) of Schedule 17 and paragraph 9(1) and (3) of Schedule 19 to the Health and Social Care Act 2012 (“the 2012 Act”); and by paragraph 24(3) of Schedule 5 and paragraph 18(9) of Schedule 7 to the Care Act [2014 (c. 23)](https://www.legislation.gov.uk/ukpga/2014/23). The powers conferred by the National Health Service Act 2006 which are exercised by the Secretary of State in making these Regulations are exercisable only in relation to England by virtue of section 271(1) of that Act.
+
+[^key-81bab7e734692753476e14649da85df7]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2018/757/regulation/1) in force at 1.8.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/757/regulation/1/2)
+
+[^key-c27abd67d44a068be76aae8a8628b541]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2018/757/regulation/2) in force at 1.8.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/757/regulation/1/2)
+
+[^f00002]: Footnote: [S.I. 1999/874](https://www.legislation.gov.uk/uksi/1999/874).
+
+[^f00003]: Footnote: [2012 c. 7](https://www.legislation.gov.uk/ukpga/2012/7).
+
+[^f00004]: Footnote: [1988 c. 49](https://www.legislation.gov.uk/ukpga/1988/49). Relevant amendments to section 7 were made by paragraph 116 of Schedule 1 to the National Health Service (Consequential Provisions) Act [2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43).
+
+[^f00005]: Footnote: Sections 13W and 14Z5 of the National Health Service Act 2006 were inserted by sections 23(1) and 26 (respectively) of the 2012 Act. Section 43(3) was amended by section 164 of the 2012 Act.
+
+[^key-240a8cc0c584b4762d610412512f3cf8]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2018/757/regulation/3) in force at 1.8.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/757/regulation/1/2)
+
+[^f00006]: Footnote: The 1999 Regulations were made in exercise of powers conferred by section 126(4) of the National Health Service Act [1977 (c. 49)](https://www.legislation.gov.uk/ukpga/1977/49) and powers conferred by section 21 of the National Health Service and Community Care Act [1990 (c. 19)](https://www.legislation.gov.uk/ukpga/1990/19) (“the 1990 Act”). Section 21 of the 1990 Act was re-enacted by section 71 of the National Health Service Act 2006. By virtue of paragraph 1(2) of Schedule 2 to the National Health Service (Consequential Provisions) Act 2006, anything done under a provision repealed by the NHS Act 2006 continues to have effect as if done under any re-enactment of the repealed provision. These Regulations are made in exercise of the powers conferred by sections 71 and 272(7) and (8) of the National Health Service Act 2006.
+
+[^key-48fa98d561581cf1ab91658b3af59828]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2018/757/regulation/4) in force at 1.8.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/757/regulation/1/2)
+
+[^key-1179ac23f23a77320fcac509ee1c34a4]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
+
+[^key-07b7659f0e0e10922a57cac7ff54ddb5]: Textual amendment: Words in [Regulations](https://www.legislation.gov.uk/uksi/2018/757) substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [Sch. para. 1(1)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/1)[(3)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/3) (with [Sch. para. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/2))
+
+[^f00008]: Footnote: “NICE” is the National Institute for Health and Care Excellence is a body corporate established under section 232 of the 2012 Act.
+
+[^key-bd567d49e58470b7ff694dc69f533488]: Textual amendment: [Reg. 4(1)(f)](https://www.legislation.gov.uk/uksi/2018/757/regulation/4/1/f) omitted (1.2.2023) by virtue of [The Health and Social Care Information Centre (Transfer of Functions, Abolition and Transitional Provisions) Regulations 2023 (S.I. 2023/98)](https://www.legislation.gov.uk/uksi/2023/98), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/98/regulation/1/2), [Sch. para. 60(2)](https://www.legislation.gov.uk/uksi/2023/98/schedule/paragraph/60/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/98/regulation/3))
+
+[^key-6a5e74093ec3816f744efecc67a1724a]: Textual amendment: [Reg. 4(1)(g)](https://www.legislation.gov.uk/uksi/2018/757/regulation/4/1/g) omitted (1.4.2023) by virtue of [The Health Education England (Transfer of Functions, Abolition and Transitional Provisions) Regulations 2023 (S.I. 2023/368)](https://www.legislation.gov.uk/uksi/2023/368), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/368/regulation/1/2), [Sch. 2 para. 26(2)](https://www.legislation.gov.uk/uksi/2023/368/schedule/2/paragraph/26/2) (with [reg. 7](https://www.legislation.gov.uk/uksi/2023/368/regulation/7))
+
+[^key-55a5154287b2ef61bc02603787f07446]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2018/757/regulation/5) in force at 1.8.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/757/regulation/1/2)
+
+[^key-2927b573cb5344fcfc24ed22f045c3c7]: Textual amendment: [Reg. 5(A1)](https://www.legislation.gov.uk/uksi/2018/757/regulation/5/A1) inserted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [219(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/219/2)
+
+[^key-584ec4630253338e903142a74aee9de9]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2018/757/regulation/6) in force at 1.8.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/757/regulation/1/2)
+
+[^key-883e46e79c7dcd18142fb37cc449eb4b]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2018/757/regulation/7) in force at 1.8.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/757/regulation/1/2)
+
+[^key-e1dba196dd5c68827de0c687ad31e9d0]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2018/757/regulation/8) in force at 1.8.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/757/regulation/1/2)
+
+[^key-3be79df6c96bf5f8afce624ffa37f0ba]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2018/757/regulation/9) in force at 1.8.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/757/regulation/1/2)
+
+[^key-3018fd032ebd3338976d3e1c23e0570f]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2018/757/regulation/10) in force at 1.8.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/757/regulation/1/2)
+
+[^key-e7846ced0e1c2e4475f34e2d08ae04c9]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2018/757/regulation/11) in force at 1.8.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/757/regulation/1/2)
+
+[^key-322d49a0eb980ca6f73db5ce1ace9d05]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2018/757/regulation/12) in force at 1.8.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/757/regulation/1/2)
+
+[^key-f0af58ae09f266658abdf9efb926f0bd]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2018/757/regulation/13) in force at 1.8.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/757/regulation/1/2)
+
+[^key-c1413186257161101cf479b06ef31af2]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2018/757/regulation/14) in force at 1.8.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/757/regulation/1/2)
+
+[^key-4446bd64e0ba46993cb830132288880f]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2018/757/regulation/15) in force at 1.8.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/757/regulation/1/2)
+
+[^key-7f4149cf23bf2e44aae34b2a2126b4b8]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2018/757/regulation/16) in force at 1.8.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/757/regulation/1/2)
+
+[^key-3f74acc1c5cc3506db6c516e1fc71b6d]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2018/757/regulation/17) in force at 1.8.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/757/regulation/1/2)
+
+[^f00009]: Footnote: By virtue of regulation 3(1) of these Regulations, a notice given under regulation 7 of the National Health Service (Property Expenses Scheme) Regulations 1999 (termination of membership) has effect as if given under the corresponding provisions of these Regulations in any case where membership of the Scheme has not ceased by the date on which these Regulations come into force.
+
+[^key-f79fb36be1f17329e1b429b94f1e288b]: Textual amendment: [Reg. 18](https://www.legislation.gov.uk/uksi/2018/757/regulation/18) inserted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [219(3)](https://www.legislation.gov.uk/uksi/2022/634/regulation/219/3)
+
+[^key-1a26ea73c42d8f1f1cf1f360c0e758f6]: Textual amendment: [Reg. 19](https://www.legislation.gov.uk/uksi/2018/757/regulation/19) inserted (1.2.2023) by [The Health and Social Care Information Centre (Transfer of Functions, Abolition and Transitional Provisions) Regulations 2023 (S.I. 2023/98)](https://www.legislation.gov.uk/uksi/2023/98), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/98/regulation/1/2), [Sch. para. 60(3)](https://www.legislation.gov.uk/uksi/2023/98/schedule/paragraph/60/3) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/98/regulation/3))
+
+[^key-fc8561154fc35a44b4a73b17b17affba]: Textual amendment: [Reg. 20](https://www.legislation.gov.uk/uksi/2018/757/regulation/20) inserted (1.4.2023) by [The Health Education England (Transfer of Functions, Abolition and Transitional Provisions) Regulations 2023 (S.I. 2023/368)](https://www.legislation.gov.uk/uksi/2023/368), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/368/regulation/1/2), [Sch. 2 para. 26(3)](https://www.legislation.gov.uk/uksi/2023/368/schedule/2/paragraph/26/3) (with [reg. 7](https://www.legislation.gov.uk/uksi/2023/368/regulation/7))
+
+[^key-5da7578a889d4d9d15ec444d11cc94c2]: Commencement: [Sch.](https://www.legislation.gov.uk/uksi/2018/757/schedule) in force at 1.8.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/757/regulation/1/2)

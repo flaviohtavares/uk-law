@@ -1,0 +1,611 @@
+---
+title: Development of Tourism Act 1969
+id: ukpga/1969/51
+type: UnitedKingdomPublicGeneralAct
+category: primary
+status: revised-with-pending-changes
+made_date: '1969-07-25'
+text_date: '2012-10-01'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/ukpga/1969/51
+pdf_urls:
+- http://www.legislation.gov.uk/ukpga/1969/51/pdfs/ukpga_19690051_en.pdf
+- http://www.legislation.gov.uk/ukpga/1969/51/data.pdf
+pending_changes: 30
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Development of Tourism Act 1969
+
+> **Warning: changes not yet applied to this text (30).** Text as at 2012-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1969/51
+>
+> Extent: England, Wales, Scotland.
+
+*Extent: E+W+S*
+
+Development of Tourism Act 1969
+
+1969 c. 51
+
+An Act to provide for the establishment of a British Tourist Authority and Tourist Boards for England, Scotland and Wales with responsibility for promoting the development of tourism to and within Great Britain; to provide for the giving of financial assistance out of public funds for the provision of new hotels and the extension, alteration and improvement of existing hotels; to enable provision to be made for the registration of hotels and other establishments at which sleeping accommodation is provided by way of trade or business and for securing that the prices charged there for such accommodation are brought to the notice of persons seeking to avail themselves of it; and for connected purposes.
+
+\[25th July 1969\][^c751408][^c751409][^c751410]
+
+## Part I — The Tourist Authority and the Tourist Boards
+
+### 1. Establishment of British Tourist Authority, English Tourist Board, Scottish Tourist Board and Wales Tourist Board (Extent: E+W) (affected by repeal, see note)and Scottish Tourist Board (Extent: E+W) (Extent: E+W) (affected by repeal, see note).[^key-e42e12426cdf5e1c83ec5705d4c6d133][^key-e42e12426cdf5e1c83ec5705d4c6d133]
+
+(1) For the purposes of this Act there shall be established four *(Extent: E+W)* *(affected by repeal, see note)*[^key-d12eb5e960e813a026e1e8c55e049637]three *(Extent: E+W)* *(Extent: E+W)* *(affected by repeal, see note)*[^key-d12eb5e960e813a026e1e8c55e049637] bodies to be known respectively as the British Tourist Authority, the English Tourist Board, *(Extent: E+W)* *(affected by repeal, see note)*[^key-03969c1bd6adfb365721c5bba01a1417] VisitScotland[^key-28a06e2ae14b7be926c99d20b8bfd0d6] *(Extent: E+W)* *(affected by repeal, see note)*[^key-03969c1bd6adfb365721c5bba01a1417] and the Wales Tourist Board *(Extent: E+W)* *(affected by repeal, see note)*[^key-03969c1bd6adfb365721c5bba01a1417].
+
+(2) The British Tourist Authority shall consist of—
+
+- (a) a chairman and not more than five other members appointed by the Secretary of State for Trade[^c751411]; and
+- (b) the chairman of the English Tourist Board, the chairman of VisitScotland and the chairman of the Wales Tourist Board *(Extent: E+W)* *(affected by repeal, see note)*[^key-09402003402b6a657e22c89adacdd96e]a person appointed by the National Assembly for Wales *(Extent: E+W)* *(Extent: E+W)* *(affected by repeal, see note)*[^key-09402003402b6a657e22c89adacdd96e].
+
+(3)[^c751412] The English Tourist Board shall consist of a chairman and not more than six other members appointed by the Secretary of State for Trade *(Extent: E+W)* *(affected by repeal, see note)*[^key-e795a10a18bdbd1689b3aaa06ee0fce1], *(Extent: E+W)* *(affected by repeal, see note)*[^key-e795a10a18bdbd1689b3aaa06ee0fce1]Trade and *(Extent: E+W)* *(Extent: E+W)* *(affected by repeal, see note)*[^key-e795a10a18bdbd1689b3aaa06ee0fce1] VisitScotland shall consist of a chairman and not more than six other members appointed by the Secretary of State for Scotland, and the Wales Tourist Board shall consist of a chairman and not more than *(Extent: E+W)* *(affected by repeal, see note)*[^key-dc44005963170ed20df4385475922dd7] eleven[^key-bd9835d5baba9af61a4b156cc68a8ab5] *(Extent: E+W)* *(affected by repeal, see note)*[^key-dc44005963170ed20df4385475922dd7] other members appointed by the Secretary of State for Wales *(Extent: E+W)* *(affected by repeal, see note)*[^key-dc44005963170ed20df4385475922dd7].
+
+(4) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c751414]
+
+(5) Schedule 1 to this Act shall have effect in relation to each of the bodies established by this section.
+
+(6)[^c751412] In this Act “**Tourist Board**” means any of the bodies established by this section, and “**the relevant Minister**” means, in relation to the British Tourist Authority and the English Tourist Board, the Secretary of State for Trade *(Extent: E+W)* *(affected by repeal, see note)*[^key-82e49ba531c49e13b605c120e883a759], *(Extent: E+W)* *(affected by repeal, see note)*[^key-82e49ba531c49e13b605c120e883a759]Trade and *(Extent: E+W)* *(Extent: E+W)* *(affected by repeal, see note)*[^key-82e49ba531c49e13b605c120e883a759] in relation to VisitScotland , the Secretary of State for Scotland and, in relation to the Wales Tourist Board, the Secretary of State for Wales *(Extent: E+W)* *(affected by repeal, see note)*[^key-4af5cac1916d5ea7cfd3dce41205d981].
+
+### 2. General functions and powers.[^c751417]
+
+(1) It shall be the function of the British Tourist Authority—
+
+- (a) to encourage people to visit Great Britain and people living in Great Britain to take their holidays there; and
+- (b) to encourage the provision and improvement of tourist amenities and facilities in Great Britain.
+
+and the English Tourist Board, VisitScotland and the Wales Tourist Board *(Extent: E+W)* *(affected by repeal, see note)*[^key-0dd6ea8df128dde6b4fe4bb3c8508842]National Assembly for Wales *(Extent: E+W)* *(Extent: E+W)* *(affected by repeal, see note)*[^key-0dd6ea8df128dde6b4fe4bb3c8508842] shall have the like functions as respects England, Scotland and Wales respectively.
+
+(2) In addition to the specific powers conferred on it by or under the subsequent provisions of this Act but subject to subsections (3) and (4) *(Extent: E+W)* *(affected by repeal, see note)*[^key-cc888f731c74321f12f5dfb06754f56e], (4) and (4A) *(Extent: E+W)* *(Extent: E+W)* *(affected by repeal, see note)*[^key-cc888f731c74321f12f5dfb06754f56e] of this section, each Tourist Board and the National Assembly for Wales *(Extent: E+W)*[^key-d419c5ea0bc839c82a9561e3899d7e34] shall have power to do anything for the purpose of discharging the functions conferred on it by this section or which is incidental or conducive to the discharge of those functions and in particular (but without prejudice to the generality of the foregoing provisions) for that purpose—
+
+- (a) to promote or undertake publicity in any form;
+- (b) to provide advisory and information services;
+- (c) to promote or undertake research;
+- (d) to establish committees to advise them in the performance of their functions;
+- (e) to contribute to or reimburse expenditure incurred by any other person or organisation in carrying on any activity which the Board or the National Assembly for Wales *(Extent: E+W)*[^key-19b23f2ef4a0c99ca39f812d498055d9] has power to carry on under paragraph (*a*), (*b*) or (*c*) of this subsection.
+
+(3)[^c751418][^c751419] Only the British Tourist Authority shall have power by virtue of subsection (2) of this section to carry on any activities outside the United Kingdom for the purpose of encouraging people to visit Great Britain or any part of it but this subsection shall not prevent the other Tourist Boards or the National Assembly for Wales *(Extent: E+W)*[^key-e434ca32c2c075ee9792ab5361d8bf91] engaging in such activities on behalf of the Authority.
+
+(4) None of the Tourist Boards shall have power, except as provided by sections 3 and 4 of this Act, to give financial assistance for the carrying out of, or itself to carry out, any project for providing or improving tourist amenities and facilities in Great Britain.
+
+(4A (Extent: E+W))[^key-efc0217226389bd45c0e30dbf89c12c6] The National Assembly for Wales shall also have no such power under this Act, except as provided by sections 3 and 4A. *(Extent: E+W)*
+
+(5) In discharging their functions under this section the English Tourist Board, VisitScotland and the Wales Tourist Board *(Extent: E+W)* *(affected by repeal, see note)*[^key-074b890c1317062b46b7ca44387c150c]National Assembly for Wales *(Extent: E+W)* *(Extent: E+W)* *(affected by repeal, see note)*[^key-074b890c1317062b46b7ca44387c150c] shall have regard to the desirability of fostering and, in appropriate cases, co-operating with organisations discharging functions corresponding to those of the Boards *(Extent: S)* *(affected by repeal, see note)*[^key-bf536b2b422f5fe6e414c21f54df21f3]those bodies *(Extent: S)*or the National Assembly for Wales *(Extent: E+W)*[^key-fd75dd7fc0c842f404a8e6513c182f72] in relation to particular areas within the countries for which the the Boards *(Extent: S)* *(affected by repeal, see note)*[^key-bf536b2b422f5fe6e414c21f54df21f3]those bodies *(Extent: S)* or the National Assembly for Wales *(Extent: E+W)* are respectively responsible; and, without prejudice to the foregoing provisions of this section, each of those Boards *(Extent: S)* *(affected by repeal, see note)*[^key-16f5af2a29886926b86fbba1a309ab0c]bodies *(Extent: S)*and the National Assembly for Wales *(Extent: E+W)* shall have power to provide such organisations with financial or other assistance.
+
+(6) In discharging its functions under this section each Tourist Board and the National Assembly for Wales *(Extent: E+W)*[^key-52f7c319cdb2ae165c17f21c407a7a38] shall have regard to the desirability of undertaking appropriate consultation with the other Tourist Boards and, as appropriate, the National Assembly for Wales *(Extent: E+W)*[^key-cf4e0261a94e05b971ca81adfb877ebb] and with persons and organisations, including those mentioned in the last foregoing subsection, who have knowledge of, or are interested in, any matters affecting the discharge of those functions.
+
+(7) A Tourist Board may charge for its services and receive contributions towards its expenses in carrying out any of its functions.
+
+(7A (Extent: E+W))[^key-87fb3bf424a57665716d7ba9625e5f78] The National Assembly for Wales may charge for its services and receive contributions towards its expenses in carrying out any of its functions under this Act as read with the Tourism (Overseas Promotion) (Wales) Act 1992 *(Extent: E+W)*
+
+(8)[^c751420] A Tourist Board shall not borrow money except with the consent of the relevant Minister and the Treasury.
+
+(8A (Extent: E+W))[^key-a8d490540b6e7e94b584ce07135340b7] The National Assembly for Wales may borrow money for the purposes of exercising its functions under this Act as read with the Tourism (Overseas Promotion)(Wales) Act 1992. *(Extent: E+W)*
+
+(9) In this Part of this Act “**tourist amenities and facilities**” means, in relation to any country, amenities and facilities for visitors to that country and for other people travelling within it on business or pleasure.
+
+### 3. General schemes of assistance for tourist projects.
+
+(1) The British Tourist Authority may, after consultation with the English Tourist Board, VisitScotland and the Wales Tourist Board *(Extent: E+W)* *(affected by repeal, see note)*[^key-e87ae8679dbb1f0676d4846368aacb7e]National Assembly for Wales *(Extent: E+W)* *(Extent: E+W)* *(affected by repeal, see note)*[^key-e87ae8679dbb1f0676d4846368aacb7e] prepare schemes providing for the giving of financial assistance by those Boards and the National Assembly for Wales *(Extent: E+W)*[^key-c3c9f64f4a71a3df8d07e25014a88ebb] for the carrying out of projects of such classes as may be specified in the schemes, being projects which in the opinion of the Authority will provide or improve tourist amenities and facilities in Great Britain.
+
+(2) Any scheme prepared under subsection (1) of this section shall be submitted to the Secretary of State for Trade[^c751421] who may, subject to subsection (6) of this section, by order confirm it with or without modification; and if a scheme is so confirmed it shall thereupon have effect.
+
+(3) A scheme under this section may provide for financial assistance to be given by way of grant or loan or by any combination of those methods.
+
+(4) In making a grant or loan under any scheme made by virtue of this section a Tourist Board and the National Assembly for Wales *(Extent: E+W)*[^key-f3e7a793267713e39670e1c9cbe39b94] may, subject to the provisions of the scheme and to any directions under section 19 of this Act, impose such terms and conditions as it thinks fit, including conditions for the repayment of a grant in specified circumstances; and Schedule 2 to this Act shall have effect for securing compliance with conditions subject to which any such grant is made.
+
+(5) A scheme which has effect under this section may be varied or revoked by a subsequent scheme prepared, submitted and confirmed in like manner or, subject to subsection (6) of this section, by an order made by the Secretary of State for Trade after consultation with the British Tourist Authority, the English Tourist Board, VisitScotland and the Wales Tourist Board *(Extent: E+W)* *(affected by repeal, see note)*[^key-b9f8f712a3106a58f135ae65340b4d56]National Assembly for Wales *(Extent: E+W)* *(Extent: E+W)* *(affected by repeal, see note)*[^key-b9f8f712a3106a58f135ae65340b4d56].
+
+(6) Any power of the Secretary of State for Trade to make orders under this section shall be exercisable by statutory instrument and any order under subsection (2) of this section shall set out the scheme which the order confirms; and no order shall be made under this section except with the consent of the Treasury and unless a draft of it has been laid before Parliament and approved by a resolution of each House.
+
+### 4. Execution of particular tourist projects.
+
+(1)[^c751424] A Tourist Board shall have power—
+
+- (a) in accordance with arrangements approved by the relevant Minister and the Treasury, to give financial assistance for the carrying out of any project which in the opinion of the Board will provide or improve tourist amenities and facilities in the country for which the Board is responsible;
+- (b) with the approval of the relevant Minister and the Treasury, to carry out any such project as aforesaid.
+
+(2) Financial assistance under subsection (1)(*a*) of this section may be given by way of grant or loan or, if the project is being or is to be carried out by a company incorporated in Great Britain, by subscribing for or otherwise acquiring shares or stock in the company, or by any combination of those methods.
+
+(3) In making a grant or loan in accordance with arrangements approved under subsection (1)(*a*) of this section a Tourist Board may, subject to the arrangements, impose such terms and conditions as it thinks fit, including conditions for the repayment of a grant in specified circumstances; and Schedule 2 to this Act shall have effect for securing compliance with conditions subject to which any such grant is made.
+
+(4)[^c751424] A Tourist Board shall not dispose of any shares or stock acquired by it by virtue of this section except—
+
+- (a) after consultation with the company in which the shares or stock are held; and
+- (b) with the approval of the relevant Minister and the Treasury.
+
+**4A.**[^key-f0eee3801fa513aa4abf60e66543e8e8] Execution of particular tourist projects: Wales
+
+(1) The National Assembly for Wales shall have power—
+
+- (a) to give financial assistance for the carrying out of any project which in its opinion will provide or improve tourist amenities and facilities in Wales;
+- (b) to carry out any such project as aforesaid.
+
+(2) Financial assistance under subsection (1) of this section may be given by way of grant or loan or, if the project is being or is to be carried out by a company incorporated in Great Britain, by subscribing for or otherwise acquiring shares or stock in the company or by any combination of those methods.
+
+(3) In making a grant or loan under subsection (1)(a) of this section the National Assembly for Wales may impose such terms and conditions as it thinks fit, including conditions for the repayment of a grant in specified circumstances; and Schedule 2 to this Act shall have effect for securing compliance with conditions subject to which any such grant is made.
+
+(4) The National Assembly for Wales shall not dispose of any shares or stock acquired by it by virtue of this section except after consultation with the company in which the shares or stock are held.
+
+### 5. Miscellaneous duties and powers.[^c751426]
+
+(1) It shall be the duty of the British Tourist Authority to advise any Minister or public body on such matters relating to tourism in Great Britain as a whole as the Minister or body may refer to it or as the Authority may think fit; and the English Tourist Board, VisitScotland and the Wales Tourist Board *(Extent: E+W)* *(affected by repeal, see note)*[^key-637faeef95c0acde34c9414b5bc26d12]National Assembly for Wales *(Extent: E+W)* *(Extent: E+W)* *(affected by repeal, see note)*[^key-637faeef95c0acde34c9414b5bc26d12] shall have the like duty as respects matters relating to tourism in England, Scotland and Wales respectively.
+
+(2) In the last foregoing subsection “**public body**” includes any local authority or statutory undertaker, and any trustees, commissioners, board or other persons, who, as a public body and not for their own profit, act under any enactment for the improvement of any place or the production or supply of any commodity or service.
+
+(3) The British Tourist Authority shall have power to carry on, at the request of any corresponding body established under the law of Northern Ireland, any of the Channel Islands or the Isle of Man and on such terms as may be agreed upon between the Authority and that body, activities outside the United Kingdom and those Islands for encouraging people to visit Northern Ireland or those Islands.
+
+(4) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c751427]
+
+### 6. Accounts and information.[^key-7a139a3fa30825621d5348f68a39dfea]
+
+(1)[^c751433] Each Tourist Board shall keep proper accounts and other records in relation to the accounts and shall prepare in respect of each of its financial years a statement of account in such form as the relevant Minister may, with the approval of the Treasury, determine.
+
+(2)[^c751433] The statement of account prepared by each Tourist Board for each financial year shall be submitted to the relevant Minister at such time as he may, with the approval of the Treasury, direct.
+
+(3)[^c751435] The relevant Minister shall, on or before 30th November in any year, transmit to the Comptroller and Auditor General the statement of account prepared by each Tourist Board under this section for the financial year last ended.
+
+(4)[^c751435][^c751437] The Comptroller and Auditor General shall examine and certify each statement of account transmitted to him under this section and lay before Parliament copies of the statement of account together with his report thereon.
+
+(5) Each Tourist Board shall provide the relevant Minister with such information relating to the activities or proposed activities of the Board as the Minister may from time to time require, and for that purpose shall permit any person authorised in that behalf by the Minister to inspect and make copies of its accounts, books, documents or papers and shall afford to that person such explanation thereof as he may reasonably require.
+
+(6) Each Tourist Board shall as soon as possible after the end of each financial year make to the relevant Minister a report dealing with the activities of the Board during that year, and the Minister shall lay a copy of the report before each House of Parliament.
+
+(7) In this section “**financial year**” means the period beginning with the commencement of this Act and ending with 31st March 1970, and each subsequent period of twelve months ending with 31st March.
+
+(8)[^c751438] In the application of this section to VisitScotland, for subsection (3) substitute– “
+
+> (3) The Scottish Ministers shall send each statement of account prepared by VisitScotland to the Auditor General for Scotland for auditing. ".
+
+## Part II — . . .[^c751439]
+
+### Hotel development grants
+
+#### 7. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c751440]
+
+#### 8. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c751441]
+
+#### 9. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c751442]
+
+#### 10. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c751443]
+
+#### 11. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c751445]
+
+#### 12. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c751446]
+
+### Loans for hotel development
+
+#### 13. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c751447]
+
+### Supplementary provisions
+
+#### 14. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c751467]
+
+#### 15. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c751468]
+
+#### 16. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c751471]
+
+## Part III — Miscellaneous and General
+
+### 17. Registration of tourist accommodation.
+
+(1) Her Majesty may by Order in Council make provision for the registration by the Tourist Boards and the National Assembly for Wales *(Extent: E+W)*[^key-0210e2848d36be03cb13a6eab50e7c9b] of, or of any class of, hotels and other establishments in Great Britain at which sleeping accommodation is provided by way of trade or business.
+
+(2) An Order under this section may in particular make provision—
+
+- (a) as to the form and contents of the register or registers to be maintained under the Order and as to the establishments to be registered therein;
+- (b) for requiring the person carrying on an establishment which is required to be registered to furnish, at such time or times as may be specified in the Order, to the body responsible for registering it such information as may be so specified;
+- (c) for the charging of annual or other periodical fees for registration;
+- (d) for the issue and display of certificates of registration and the display of signs indicating that an establishment is registered;
+- (e) for the inspection of establishments and for powers of entry for that purpose;
+- (f) for exemptions from any of the requirements of the Order;
+- (g)[^c751472] for securing compliance with any requirement of the Order by the imposition of a penalty not exceeding a fine of £200.
+
+(3) If provision is made by an Order under this section for the classification or grading of the establishments entered in a register, the Order shall also make provision—
+
+- (a) for requiring the criteria in accordance with which the classification or grading is carried out, so far as not prescribed by the Order, to be determined from time to time by the British Tourist Authority after consultation with the English Tourist Board, VisitScotland, the Wales Tourist Board *(Extent: E+W)* *(affected by repeal, see note)*[^key-112565f9b8dc743cb25a3b5e354b913f]National Assembly for Wales *(Extent: E+W)* *(Extent: E+W)* *(affected by repeal, see note)*[^key-112565f9b8dc743cb25a3b5e354b913f] and such other organisations as appear to the Authority to be representative of trade and consumer interests likely to be affected;
+- (b) for the publication of any criteria so determined;
+- (c) for enabling the person carrying on an establishment registered with any Tourist Board or the National Assembly for Wales *(Extent: E+W)*[^key-680d1374b50e7fa18aa1e30c42535ba7] to make representations to the Board or (as the case may be) the Assembly *(Extent: E+W)* before any classification or grade is accorded to the establishment and before its classification or grade is altered or cancelled.
+
+(4)[^c751473] An Order under this section may contain such supplementary and incidental provisions as appear to Her Majesty to be necessary or expedient, and may authorise the Secretary of State for Trade[^c751474], the Secretary of State for Scotland and the Secretary of State for Wales *(Extent: E+W)* *(affected by repeal, see note)*[^key-5a98dbd35257ec5be43f29ec7d7f3dde]National Assembly for Wales *(Extent: E+W)* *(Extent: E+W)* *(affected by repeal, see note)*[^key-5a98dbd35257ec5be43f29ec7d7f3dde] to make regulations as respects England, Scotland and Wales respectively for such purposes of the Order as may be specified therein; and the [^c751475]Statutory Instruments Act 1946 shall apply in relation to any such regulations as if they were made under powers conferred by an Act of Parliament.
+
+(5) An Order under this section and any regulations made thereunder may make different provision for different cases and, in particular, provision may be made for an Order to come into force at different times in relation to, or to different parts of, England, Scotland and Wales respectively.
+
+(6) Any Order under this section shall be subject to annulment in pursuance of a resolution of either House of Parliament and may be revoked or varied by a subsequent Order under this section.
+
+(7) A Tourist Board maintaining a register by virtue of an Order under this section shall have power to publish, or make available for publication, any information furnished to it by virtue of the Order and any information as to any classification or grade accorded under the Order to any establishment; and such information may be published or made available for publication either gratuitously or for consideration.
+
+(7A (Extent: E+W))[^key-f7b6457203482f9ec9b886c8b0c81d85] Subsection (7) applies in relation to the National Assembly for Wales if it is maintaining such a register as it applies in relation to a Tourist Board. *(Extent: E+W)*
+
+### 18. Notification of prices of accommodation.
+
+(1) Her Majesty may, by an Order in Council applying to, or to any class of, hotels and other establishments in Great Britain at which sleeping accommodation is provided by way of trade or business, make provision for requiring the display at the establishments of information with respect to the prices charged there for such accommodation as aforesaid or otherwise for securing that such information is brought to the notice of persons seeking to avail themselves of the accommodation.
+
+(2) Subsection (2)(*e*), (*f*) and (*g*) and subsections (4), (5) and (6) of section 17 of this Act shall apply to an Order under this section as they apply to an Order under that section.
+
+### 19. Directions.
+
+(1) The relevant Minister may, after consultation with a Tourist Board, give to it directions of a general character as to the exercise of its functions.
+
+(2) Subject to the provisions of any scheme under section 3 [^c751476]. . . of this Act, the relevant Minister may, with the approval of the Treasury, give to a Tourist Board directions as to—
+
+- (a) the matters with respect to which that Board must be satisfied before making a loan under the scheme [^c751476]. . .;
+- (b) the terms on which and the conditions subject to which any such loan is to be made;
+- (c) the conditions to be imposed in making any grant under the scheme [^c751476]. . .;
+
+and such directions may distinguish between different classes of case.
+
+(3) Without prejudice to the generality of paragraph (*a*) of subsection (2) of this section, directions given by virtue of that paragraph may require a Tourist Board to be satisfied that the applicant cannot obtain a loan for the purpose in question from any other source, whether on terms which are more or less favourable than those of any loan which might be made by the Board.
+
+(4) A Tourist Board shall give effect to any directions given to it under this section.
+
+### 20. Financial provisions.
+
+(1) The relevant Minister may pay to a Tourist Board such sums in respect of its expenditure as he may with the consent of the Treasury determine.
+
+(2) Any sums required by a relevant Minister for making payments under subsection (1) of this section and any other expenses of a relevant Minister under this Act shall be defrayed out of moneys provided by Parliament.
+
+(3) Any sums received by a Tourist Board—
+
+- (a) in repayment of, or as interest on, any loan made by it under this Act;
+- (b) in repayment of any grant made by it under this Act; or
+- (c) as dividend on, or otherwise in respect of, any shares or stock acquired by it under this Act,
+
+shall be paid to the relevant Minister.
+
+(4) Any sums received by a relevant Minister under subsection (3) of this section shall be paid into the Consolidated Fund.
+
+### 21. Short title, interpretation, commencement and extent.
+
+(1) This Act may be cited as the Development of Tourism Act 1969.
+
+(2) In this Act “**Wales**” includes Monmouthshire and references to England shall be construed accordingly.
+
+(3) This Act shall come into force at the expiration of the period of one month beginning with the day on which it is passed.
+
+(4) This Act, . . . [^c751479] does not extend to Northern Ireland.
+
+SCHEDULES
+
+## SCHEDULE 1 — The Tourist Boards
+
+Section 1.
+
+### Incorporation and status
+
+**1.** Each of the Tourist Boards (in this Schedule referred to as “**the Board**”) shall be a body corporate having perpetual succession and a common seal.
+
+**2.** The Board shall not be regarded as the servant or agent of the Crown or as enjoying any status, immunity or privilege of the Crown or as exempt from any tax, duty, levy or other charge whatsoever, and its property shall not be regarded as the property of, or property held on behalf of, the Crown.
+
+### Membership
+
+**3.** A member of the Board shall hold and vacate his office in accordance with the terms of his appointment.
+
+**4.** Any member of the Board may at any time by notice in writing to the relevant Minister resign his office.
+
+**5.** (1) If the relevant Minister is satisfied that a member of the Board—
+
+- (a) has been absent from meetings of the Board for a period longer than three consecutive months without the permission of the Board; or
+- (b) has become bankrupt or made an arrangement with his creditors; or
+- (ba)[^key-490d35f29aa911e05d7e5b5257a4a913] has had a debt relief order made in respect of him (under Part 7A of the Insolvency Act 1986); or
+- (c) is incapacitated by physical or mental illness; or
+- (d) is otherwise unable or unfit to discharge the functions of a member,
+
+the relevant Minister may declare his office as a member of the Board to be vacant and shall notify the fact in such manner as he thinks fit; and thereupon the office shall become vacant.
+
+(2) In the application of this paragraph to Scotland, for the references in the last foregoing sub-paragraph to a member’s having become bankrupt and to a member’s having made an arrangement with his creditors there shall be substituted respectively references to sequestration of a member’s estate having been awarded and to a member’s having made a trust deed for behoof of his creditors or a composition contract.
+
+(3)[^key-7fb62e3cdd8f7e017cad3c981698e7f6] In this paragraph, references to a member of the Board do not, in so far as sub-paragraph (1)(ba) applies, include persons who are members of VisitScotland.
+
+### Remuneration
+
+**6.** The Board shall pay to its members such salaries, fees or allowances as the relevant Minister may determine.
+
+**7.** The Board shall, as regards any members in whose case the relevant Minister may so determine, make provision for, or pay to or in respect of them, such pensions or gratuities as may be so determined.
+
+**8.** If a person ceases to be a member of the Board and it appears to the relevant Minister that there are special circumstances which make it right that that person should receive compensation, the Minister may require the Board to pay to that person a sum of such amount as the Minister may determine.
+
+**9.** The relevant Minister shall, as soon as possible after the first appointment of any person as a member of the Board, lay before each House of Parliament a statement of the sums that are or will be payable to or in respect of that member under paragraph 6 of this Schedule; and if any subsequent determination by the relevant Minister under that paragraph involves a departure from the terms of that statement, or if the relevant Minister makes a determination under paragraph 7 or 8 of this Schedule, he shall, as soon as possible after the determination, lay a statement before each House of Parliament of the sums that are or will be payable in consequence of that determination.
+
+### Staff
+
+**10.** The Board may appoint such officers and servants as it may, with the consent of the relevant Minister as to numbers and remuneration, determine.
+
+**11.** The Board shall, in the case of such of its officers and servants as the relevant Minister may determine, pay such pensions or gratuities to or in respect of them as may be so determined, make such payments towards the provision of such pensions or gratuities as may be so determined or provide and maintain such schemes (whether contributory or not) for the payment of such pensions or gratuities as may be so determined.
+
+### Proceedings
+
+**12.** The validity of any proceedings of the Board shall not be affected by any vacancy among the members or by any defect in the appointment of any member.
+
+**13.** The quorum of the Board and the arrangements relating to meetings of the Board shall be such as the Board may determine.
+
+**14.** A member of the Board who is in any way directly or indirectly interested in a transaction or project of the Board shall disclose the nature of his interest at a meeting of the Board; and the disclosure shall be recorded in the minutes of the Board, and the member shall not take any part in any deliberation or decision of the Board with respect to that transaction or project.
+
+**15.** The fixing of the seal of the Board shall be authenticated by the signature of the secretary of the Board or of some other person authorised either generally or specially by the Board to act for that purpose.
+
+**16.** Any document purporting to be a document duly executed under the seal of the Board shall be received in evidence and shall, unless the contrary is proved, be deemed to be a document so executed.
+
+### Requirement of approval of Minister for the Civil Service
+
+**17.**[^c751480] The approval of the Treasury[^c751481] shall be required for the making by the relevant Minister of any determination under paragraph 6, 7, 8 or 11 of this Schedule, for the imposition by him of any requirement under the said paragraph 8 and for the giving by him of any consent under paragraph 10 of this Schedule.
+
+### Interpretation
+
+**18.** In paragraphs 3 to 9 of this Schedule, references to a member of the Board do not include, in the case of the British Tourist Authority, references to persons who are members thereof by virtue of section 1(2)(*b*) of this Act.
+
+## SCHEDULE 2 — Enforcement of Conditions of Grant
+
+Sections 3, 4 and 12.
+
+### Power to call for information
+
+**1.** (1) A Tourist Board may by notice require any person who has received a grant from the Board under this Act, and any person acting on his behalf, to furnish to the Board such information, or to produce for examination on behalf of the Board such books, records or other documents, as may be specified in the notice for the purpose of enabling the Board to determine whether any condition subject to which the grant was made is satisfied or is being complied with or whether the grant has become repayable in whole or in part in accordance with any such condition.
+
+(1A)[^key-d9915b5ed5755d4cffd34b1f24443f74] Sub-paragraph (1) applies in relation to the National Assembly for Wales and any person who has received a grant from the Assembly (and any person acting on that person’s behalf) as it applies in relation to a Tourist Board and the corresponding persons.
+
+(2) A notice under this paragraph may require the information to which it relates to be furnished within such time as may be specified in the notice, and may require the documents to which it relates to be produced at such time and place as may be so specified:
+
+Provided that the time specified in such a notice for furnishing any information or producing any document shall not be earlier than the end of the period of twenty-eight days beginning with the service of the notice.
+
+(3) A notice under this paragraph may be served—
+
+- (a) by delivering it to the person on whom it is to be served;
+- (b) by leaving it at the usual or last known place of abode of that person;
+- (c) by sending it in a prepaid registered letter, or by the recorded delivery service, addressed to that person at his usual or last known place of abode; or
+- (d) in the case of an incorporated company or body, by delivering it to the secretary or clerk of the company or body at their registered or principal office, or sending it in a prepaid registered letter, or by the recorded delivery service, addressed to the secretary or clerk of the company or body at that office.
+
+(4)[^c751482] Any person who without reasonable excuse fails to comply with a notice under this paragraph shall be guilty of an offence and liable on summary conviction to a fine not exceeding £100[^c751483] level 5 on the standard scale or, on a second or subsequent conviction, £400 level 5 on the standard scale.
+
+### Power to enter and inspect premises
+
+**2.** (1) Any person duly authorised in that behalf by a Tourist Board or the National Assembly for Wales *(Extent: E+W)*[^key-8da9d9a49ed8b7bf6346b63358d3630c] may, on production (if so required) of written evidence of his authority, at all reasonable times enter and inspect any premises in relation to which a grant has been made by the Board or (as the case may be) the Assembly *(Extent: E+W)* under this Act for the purpose of determining whether any condition subject to which the grant was made is satisfied or is being complied with or whether the grant has become repayable in whole or in part in accordance with any such condition.
+
+(2) Any person who wilfully obstructs any person in the exercise of a right of entry conferred by this paragraph shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 3 on the standard scale[^c751487].
+
+### Failure to comply with condition requiring notification of event on which grant becomes repayable
+
+**3.** (1) Any person who without reasonable excuse fails to comply with any condition subject to which a grant was made to him under this Act requiring him to inform a Tourist Board or the National Assembly for Wales *(Extent: E+W)*[^key-8206fcf47ef665f945dbb105f656a3d3] of any event whereby the grant becomes repayable in whole or in part shall be guilty of an offence and liable to a fine which, if imposed on summary conviction, shall not exceed level 5 on the standard scale[^c751488].
+
+(2) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c751489]
+
+(3) Summary proceedings in Scotland for an offence under this paragraph shall not be commenced after the expiration of three years from the commission of the offence, but subject to the foregoing limitation and notwithstanding anything in section 331 of the[^c751490] [^c751491]Criminal Procedure (Scotland) Act 1975, such proceedings may be commenced at any time within twelve months after the date on which evidence sufficient in the opinion of the Lord Advocate to justify the proceedings comes to his knowledge; and subsection (3) of the said section 331 shall apply for the purposes of this sub-paragraph as it applies for the purposes of that section.
+
+(4) For the purposes of sub-paragraphs . . . [^c751493] (3) of this paragraph, a certificate of . . . [^c751493] the Lord Advocate, . . . [^c751493], as to the date on which such evidence as aforesaid came to his knowledge shall be conclusive evidence of that fact.
+
+### Offences by bodies corporate
+
+**4.** (1) Where an offence under this Schedule committed by a body corporate is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, any director, manager, secretary or other similar officer of the body corporate, or any person who was purporting to act in any such capacity, he as well as the body corporate shall be guilty of that offence and shall be liable to be proceeded against and punished accordingly.
+
+(2) In this paragraph “**director**”, in relation to a body corporate established by or under any enactment for the purpose of carrying on under national ownership any industry or undertaking or part of an industry or undertaking, being a body corporate whose affairs are managed by its members, means a member of that body.
+
+## SCHEDULE 3 — . . .[^c751496]
+
+## SCHEDULE 4 — . . .[^c751497]
+
+### Interpretation
+
+**No longer in force (ended 1998-11-19).**
+
+#### 1.
+
+(1) In this Schedule—
+
+- “**lease**” includes a sublease and an agreement for a lease or sublease and references to the grant of a lease shall be construed accordingly;
+- “**transferred**” includes transferred by operation of law;
+
+and references to the occupier or a lessor of a hotel and to the relevant time shall be construed in the same manner as in section 10 of this Act.
+
+(2) Where by virtue of this Schedule expenditure is treated as if it had been incurred by any person it shall be treated as incurred by him to the exclusion of anyone else.
+
+### Expenditure incurred by predecessor in title of occupier or lessor
+
+**No longer in force (ended 1998-11-19).**
+
+#### 2.
+
+Subject to paragraph 3 of this Schedule, where—
+
+- (a) a person has incurred expenditure eligible for a grant under Part II of this Act in respect of a hotel; and
+- (b) after the execution of the work which gave rise to the expenditure but before the relevant time his interest in the hotel has been directly or indirectly transferred to a person who at that time is the occupier or a lessor of the hotel,
+
+the expenditure shall be treated, for the purposes of the grant, as if it had been incurred by the person (whether the occupier or a lessor) in whom the interest is vested at the relevant time.
+
+### Expenditure incurred by lessor
+
+**No longer in force (ended 1998-11-19).**
+
+#### 3.
+
+(1) This paragraph applies where expenditure eligible for a grant under Part II of this Act has been incurred, or would (but for this paragraph) be treated under paragraph 2 of this Schedule as if it had been incurred, by a person who at the relevant time is a lessor (in this paragraph referred to as “**the relevant lessor**”) of the hotel in respect of which the expenditure was incurred.
+
+(2) The expenditure shall be treated, for the purposes of the grant, as if it had been incurred by any person (whether the occupier of the hotel at the relevant time or, if he holds indirectly under the relevant lessor, an intermediate lessor) in whose case the following requirements are satisfied, that is to say—
+
+- (a) that he (and each intermediate lessor, if any, between himself and the relevant lessor) holds under a lease which—
+  - (i) began after the execution of the work which gave rise to the expenditure; and
+  - (ii) was granted for a consideration which consisted of or included a capital sum of an amount not less than the amount of that expenditure; and
+- (b) in the case of an intermediate lessor, that the expenditure cannot by virtue of the foregoing provisions of this paragraph be treated as if it had been incurred by a person holding under him.
+
+(3) In the application of the foregoing provisions of this paragraph to a relevant lessor who himself holds under a lease the expenditure mentioned in sub-paragraph (2)(*a*)(ii) shall include any expenditure which would be treated under those provisions as if it had been incurred by the relevant lessor if he were himself the occupier of the hotel at the relevant time.
+
+## Annotations
+
+[^c751408]: Modification: Act amended by [S.I. 1985/1778](https://www.legislation.gov.uk/uksi/1985/1778) art. 3(1)
+
+[^c751409]: Modification: The functions of the Secretary of State for Trade and Industry and of the Board of Trade under this Act (which are exercisable concurrently) transferred to the Secretary of State by [S.I. 1985/1778](https://www.legislation.gov.uk/uksi/1985/1778), [art. 2(1)](https://www.legislation.gov.uk/uksi/1985/1778/article/2/1)(*a*)
+
+[^c751410]: Commencement: Act wholly in force at 25. 8. 1969 see [s. 21(3)](https://www.legislation.gov.uk/ukpga/1969/51/section/21/3).
+
+[^key-e42e12426cdf5e1c83ec5705d4c6d133]: Textual amendment: Words in s. 1 heading substituted (E.W.) (23.11.2005) by [Wales Tourist Board (Transfer of Functions to the National Assembly for Wales and Abolition) Order 2005 (S.I. 2005/3225)](https://www.legislation.gov.uk/uksi/2005/3225) , [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3225/article/1/1) , [Sch. 1 para. 1(5)](https://www.legislation.gov.uk/uksi/2005/3225/schedule/1/paragraph/1/5) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2005/3225/article/3/1) )
+
+[^key-d12eb5e960e813a026e1e8c55e049637]: Textual amendment: Word in s. 1(1) substituted (E.W.) (23.11.2005) by [Wales Tourist Board (Transfer of Functions to the National Assembly for Wales and Abolition) Order 2005 (S.I. 2005/3225)](https://www.legislation.gov.uk/uksi/2005/3225) , [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3225/article/1/1) , [Sch. 1 para. 1(1)](https://www.legislation.gov.uk/uksi/2005/3225/schedule/1/paragraph/1/1) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2005/3225/article/3/1) )
+
+[^key-03969c1bd6adfb365721c5bba01a1417]: Textual amendment: Words in s. 1(1) substituted (E.W.) (23.11.2005) by [Wales Tourist Board (Transfer of Functions to the National Assembly for Wales and Abolition) Order 2005 (S.I. 2005/3225)](https://www.legislation.gov.uk/uksi/2005/3225) , [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3225/article/1/1) , [Sch. 1 para. 1(1)](https://www.legislation.gov.uk/uksi/2005/3225/schedule/1/paragraph/1/1) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2005/3225/article/3/1) )
+
+[^key-28a06e2ae14b7be926c99d20b8bfd0d6]: Textual amendment: Words in Act substituted (E.W.) (29.3.2007) by [Tourist Boards (Scotland) Act 2006 (Consequential Modifications) Order 2007 (S.I. 2007/1103)](https://www.legislation.gov.uk/uksi/2007/1103), [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/1103/article/1/1), [Sch. para. 1(2)](https://www.legislation.gov.uk/uksi/2007/1103/schedule/paragraph/1/2) and words substituted (S.) (1.4.2007) by [Tourist Boards (Scotland) Act 2006 (asp 15)](https://www.legislation.gov.uk/asp/2006/15), [ss. 1(2)](https://www.legislation.gov.uk/asp/2006/15/section/1/2), [5(1)](https://www.legislation.gov.uk/asp/2006/15/section/5/1); [S.S.I. 2007/47](https://www.legislation.gov.uk/ssi/2007/47), [art. 2](https://www.legislation.gov.uk/ssi/2007/47/article/2)
+
+[^c751411]: Textual amendment: Words substituted by virtue of [S.I. 1970/1537](https://www.legislation.gov.uk/uksi/1970/1537) , [arts. 2(1)](https://www.legislation.gov.uk/uksi/1970/1537/article/2/1) , [7(4)](https://www.legislation.gov.uk/uksi/1970/1537/article/7/4) , [Sch. 2 para. 12](https://www.legislation.gov.uk/uksi/1970/1537/schedule/2/paragraph/12) and 1974/692 arts. 2(1), 5(3), Sch. 1 Pt. III
+
+[^key-09402003402b6a657e22c89adacdd96e]: Textual amendment: Words in s. 1(2)(b) substituted (E.W.) (23.11.2005) by [Wales Tourist Board (Transfer of Functions to the National Assembly for Wales and Abolition) Order 2005 (S.I. 2005/3225)](https://www.legislation.gov.uk/uksi/2005/3225) , [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3225/article/1/1) , [Sch. 1 para. 1(2)](https://www.legislation.gov.uk/uksi/2005/3225/schedule/1/paragraph/1/2) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2005/3225/article/3/1) )
+
+[^c751412]: Modification: S. 1(3)(6): modified (1.7.1999) by [S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672) , [art. 2](https://www.legislation.gov.uk/uksi/1999/672/article/2) , [Sch. 1](https://www.legislation.gov.uk/uksi/1999/672/schedule/1)
+
+[^key-e795a10a18bdbd1689b3aaa06ee0fce1]: Textual amendment: Words in s. 1(3) substituted (E.W.) (23.11.2005) by [Wales Tourist Board (Transfer of Functions to the National Assembly for Wales and Abolition) Order 2005 (S.I. 2005/3225)](https://www.legislation.gov.uk/uksi/2005/3225) , [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3225/article/1/1) , [Sch. 1 para. 1(3)(a)](https://www.legislation.gov.uk/uksi/2005/3225/schedule/1/paragraph/1/3/a) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2005/3225/article/3/1) )
+
+[^key-dc44005963170ed20df4385475922dd7]: Textual amendment: Words in s. 1(3) omitted (E.W.) (23.11.2005) by virtue of [Wales Tourist Board (Transfer of Functions to the National Assembly for Wales and Abolition) Order 2005 (S.I. 2005/3225)](https://www.legislation.gov.uk/uksi/2005/3225) , [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3225/article/1/1) , [Sch. 1 para. 1(3)(b)](https://www.legislation.gov.uk/uksi/2005/3225/schedule/1/paragraph/1/3/b) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2005/3225/article/3/1) )
+
+[^key-bd9835d5baba9af61a4b156cc68a8ab5]: Textual amendment: Word in s. 1(3) substituted (E.W.) (29.3.2007) by [Tourist Boards (Scotland) Act 2006 (Consequential Modifications) Order 2007 (S.I. 2007/1103)](https://www.legislation.gov.uk/uksi/2007/1103) , [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/1103/article/1/1) , [Sch. para. 1(3)](https://www.legislation.gov.uk/uksi/2007/1103/schedule/paragraph/1/3) and substituted for (S.) (1.4.2007) by [Tourist Boards (Scotland) Act 2006 (asp 15)](https://www.legislation.gov.uk/asp/2006/15), [ss. 2](https://www.legislation.gov.uk/asp/2006/15/section/2), [5(1)](https://www.legislation.gov.uk/asp/2006/15/section/5/1); [S.S.I. 2007/47](https://www.legislation.gov.uk/ssi/2007/47), [art. 2](https://www.legislation.gov.uk/ssi/2007/47/article/2)
+
+[^c751414]: Textual amendment: S. 1(4) repealed by [House of Commons Disqualification Act 1975 (c. 24)](https://www.legislation.gov.uk/ukpga/1975/24) , [Sch. 3](https://www.legislation.gov.uk/ukpga/1975/24/schedule/3)
+
+[^key-82e49ba531c49e13b605c120e883a759]: Textual amendment: Words in s. 1(6) substituted (E.W.) (23.11.2005) by [Wales Tourist Board (Transfer of Functions to the National Assembly for Wales and Abolition) Order 2005 (S.I. 2005/3225)](https://www.legislation.gov.uk/uksi/2005/3225) , [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3225/article/1/1) , [Sch. 1 para. 1(4)](https://www.legislation.gov.uk/uksi/2005/3225/schedule/1/paragraph/1/4) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2005/3225/article/3/1) )
+
+[^key-4af5cac1916d5ea7cfd3dce41205d981]: Textual amendment: Words in s. 1(6) omitted (E.W.) (23.11.2005) by virtue of [Wales Tourist Board (Transfer of Functions to the National Assembly for Wales and Abolition) Order 2005 (S.I. 2005/3225)](https://www.legislation.gov.uk/uksi/2005/3225) , [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3225/article/1/1) , [Sch. 1 para. 1(4)](https://www.legislation.gov.uk/uksi/2005/3225/schedule/1/paragraph/1/4) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2005/3225/article/3/1) )
+
+[^c751417]: Modification: S. 2 extended (16. 5. 1992) by Tourism (Overseas Promotion)(Wales) Act 1992 (c. 26), ss. 1(1)(3), 3.
+
+[^key-0dd6ea8df128dde6b4fe4bb3c8508842]: Textual amendment: Words in s. 2(1) substituted (E.W.) (23.11.2005) by [Wales Tourist Board (Transfer of Functions to the National Assembly for Wales and Abolition) Order 2005 (S.I. 2005/3225)](https://www.legislation.gov.uk/uksi/2005/3225), [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3225/article/1/1), [Sch. 1 para. 2(1)](https://www.legislation.gov.uk/uksi/2005/3225/schedule/1/paragraph/2/1) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2005/3225/article/3/1))
+
+[^key-cc888f731c74321f12f5dfb06754f56e]: Textual amendment: Words in s. 2(2) substituted (E.W.) (23.11.2005) by [Wales Tourist Board (Transfer of Functions to the National Assembly for Wales and Abolition) Order 2005 (S.I. 2005/3225)](https://www.legislation.gov.uk/uksi/2005/3225), [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3225/article/1/1), [Sch. 1 para. 2(2)](https://www.legislation.gov.uk/uksi/2005/3225/schedule/1/paragraph/2/2) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2005/3225/article/3/1))
+
+[^key-d419c5ea0bc839c82a9561e3899d7e34]: Textual amendment: Words in s. 2(2) inserted (E.W.) (23.11.2005) by [Wales Tourist Board (Transfer of Functions to the National Assembly for Wales and Abolition) Order 2005 (S.I. 2005/3225)](https://www.legislation.gov.uk/uksi/2005/3225), [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3225/article/1/1), [Sch. 1 para. 2(2)](https://www.legislation.gov.uk/uksi/2005/3225/schedule/1/paragraph/2/2) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2005/3225/article/3/1))
+
+[^key-19b23f2ef4a0c99ca39f812d498055d9]: Textual amendment: Words in s. 2(2)(e) inserted (E.W.) (23.11.2005) by [Wales Tourist Board (Transfer of Functions to the National Assembly for Wales and Abolition) Order 2005 (S.I. 2005/3225)](https://www.legislation.gov.uk/uksi/2005/3225), [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3225/article/1/1), [Sch. 1 para. 2(2)](https://www.legislation.gov.uk/uksi/2005/3225/schedule/1/paragraph/2/2) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2005/3225/article/3/1))
+
+[^c751418]: Modification: S. 2(3) excluded by [Tourism (Overseas Promotion) (Scotland) Act 1984 (c. 4, SIF 64)](https://www.legislation.gov.uk/ukpga/1984/4), [s. 1](https://www.legislation.gov.uk/ukpga/1984/4/section/1)
+
+[^c751419]: Modification: S. 2(3) excluded (16. 5. 1992) by Tourism (Overseas Promotion)(Wales) Act 1992 (c. 26), ss. 1(1)(3), 3.
+
+[^key-e434ca32c2c075ee9792ab5361d8bf91]: Textual amendment: Words in s. 2(3) inserted (E.W.) (23.11.2005) by [Wales Tourist Board (Transfer of Functions to the National Assembly for Wales and Abolition) Order 2005 (S.I. 2005/3225)](https://www.legislation.gov.uk/uksi/2005/3225), [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3225/article/1/1), [Sch. 1 para. 2(3)](https://www.legislation.gov.uk/uksi/2005/3225/schedule/1/paragraph/2/3) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2005/3225/article/3/1))
+
+[^key-efc0217226389bd45c0e30dbf89c12c6]: Textual amendment: S. 2(4A) added (E.W.) (23.11.2005) by [Wales Tourist Board (Transfer of Functions to the National Assembly for Wales and Abolition) Order 2005 (S.I. 2005/3225)](https://www.legislation.gov.uk/uksi/2005/3225), [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3225/article/1/1), [Sch. 1 para. 2(4)](https://www.legislation.gov.uk/uksi/2005/3225/schedule/1/paragraph/2/4) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2005/3225/article/3/1))
+
+[^key-074b890c1317062b46b7ca44387c150c]: Textual amendment: Words in s. 2(5) substituted (E.W.) (23.11.2005) by [Wales Tourist Board (Transfer of Functions to the National Assembly for Wales and Abolition) Order 2005 (S.I. 2005/3225)](https://www.legislation.gov.uk/uksi/2005/3225), [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3225/article/1/1), [Sch. 1 para. 2(5)](https://www.legislation.gov.uk/uksi/2005/3225/schedule/1/paragraph/2/5) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2005/3225/article/3/1))
+
+[^key-bf536b2b422f5fe6e414c21f54df21f3]: Textual amendment: Words in s. 2(5) substituted (S.) (1.4.2007) by [Tourist Boards (Scotland) Act 2006 (asp 15)](https://www.legislation.gov.uk/asp/2006/15), [s. 5(1)](https://www.legislation.gov.uk/asp/2006/15/section/5/1), [Sch. 2 para. 1(a)](https://www.legislation.gov.uk/asp/2006/15/schedule/2/paragraph/1/a); [S.S.I. 2007/47](https://www.legislation.gov.uk/ssi/2007/47), [art. 2](https://www.legislation.gov.uk/ssi/2007/47/article/2)
+
+[^key-fd75dd7fc0c842f404a8e6513c182f72]: Textual amendment: Words in s. 2(5) inserted (E.W.) (23.11.2005) by [Wales Tourist Board (Transfer of Functions to the National Assembly for Wales and Abolition) Order 2005 (S.I. 2005/3225)](https://www.legislation.gov.uk/uksi/2005/3225), [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3225/article/1/1), [Sch. 1 para. 2(5)](https://www.legislation.gov.uk/uksi/2005/3225/schedule/1/paragraph/2/5) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2005/3225/article/3/1))
+
+[^key-16f5af2a29886926b86fbba1a309ab0c]: Textual amendment: Word in s. 2(5) substituted (S.) (1.4.2007) by [Tourist Boards (Scotland) Act 2006 (asp 15)](https://www.legislation.gov.uk/asp/2006/15), [s. 5(1)](https://www.legislation.gov.uk/asp/2006/15/section/5/1), [Sch. 2 para. 1(b)](https://www.legislation.gov.uk/asp/2006/15/schedule/2/paragraph/1/b); [S.S.I. 2007/47](https://www.legislation.gov.uk/ssi/2007/47), [art. 2](https://www.legislation.gov.uk/ssi/2007/47/article/2)
+
+[^key-52f7c319cdb2ae165c17f21c407a7a38]: Textual amendment: Words in s. 2(6) inserted (E.W.) (23.11.2005) by [Wales Tourist Board (Transfer of Functions to the National Assembly for Wales and Abolition) Order 2005 (S.I. 2005/3225)](https://www.legislation.gov.uk/uksi/2005/3225), [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3225/article/1/1), [Sch. 1 para. 2(6)(a)](https://www.legislation.gov.uk/uksi/2005/3225/schedule/1/paragraph/2/6/a) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2005/3225/article/3/1))
+
+[^key-cf4e0261a94e05b971ca81adfb877ebb]: Textual amendment: Words in s. 2(6) inserted (E.W.) (23.11.2005) by [Wales Tourist Board (Transfer of Functions to the National Assembly for Wales and Abolition) Order 2005 (S.I. 2005/3225)](https://www.legislation.gov.uk/uksi/2005/3225), [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3225/article/1/1), [Sch. 1 para. 2(6)(b)](https://www.legislation.gov.uk/uksi/2005/3225/schedule/1/paragraph/2/6/b) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2005/3225/article/3/1))
+
+[^key-87fb3bf424a57665716d7ba9625e5f78]: Textual amendment: S. 2(7A) added (E.W.) (23.11.2005) by [Wales Tourist Board (Transfer of Functions to the National Assembly for Wales and Abolition) Order 2005 (S.I. 2005/3225)](https://www.legislation.gov.uk/uksi/2005/3225), [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3225/article/1/1), [Sch. 1 para. 2(7)](https://www.legislation.gov.uk/uksi/2005/3225/schedule/1/paragraph/2/7) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2005/3225/article/3/1))
+
+[^c751420]: Modification: S. 2(8) modified (1.7.1999) by [S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672), [art. 2](https://www.legislation.gov.uk/uksi/1999/672/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/672/schedule/1)
+
+[^key-a8d490540b6e7e94b584ce07135340b7]: Textual amendment: S. 2(8A) added (E.W.) (23.11.2005) by [Wales Tourist Board (Transfer of Functions to the National Assembly for Wales and Abolition) Order 2005 (S.I. 2005/3225)](https://www.legislation.gov.uk/uksi/2005/3225), [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3225/article/1/1), [Sch. 1 para. 2(8)](https://www.legislation.gov.uk/uksi/2005/3225/schedule/1/paragraph/2/8) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2005/3225/article/3/1))
+
+[^key-e87ae8679dbb1f0676d4846368aacb7e]: Textual amendment: Words in s. 3(1) substituted (E.W.) (23.11.2005) by [Wales Tourist Board (Transfer of Functions to the National Assembly for Wales and Abolition) Order 2005 (S.I. 2005/3225)](https://www.legislation.gov.uk/uksi/2005/3225), [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3225/article/1/1), [Sch. 1 para. 3(1)](https://www.legislation.gov.uk/uksi/2005/3225/schedule/1/paragraph/3/1) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2005/3225/article/3/1))
+
+[^key-c3c9f64f4a71a3df8d07e25014a88ebb]: Textual amendment: Words in s. 3(1) inserted (E.W.) (23.11.2005) by [Wales Tourist Board (Transfer of Functions to the National Assembly for Wales and Abolition) Order 2005 (S.I. 2005/3225)](https://www.legislation.gov.uk/uksi/2005/3225), [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3225/article/1/1), [Sch. 1 para. 3(1)](https://www.legislation.gov.uk/uksi/2005/3225/schedule/1/paragraph/3/1) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2005/3225/article/3/1))
+
+[^c751421]: Textual amendment: Words substituted by virtue of [S.I. 1970/1537](https://www.legislation.gov.uk/uksi/1970/1537), [arts. 2(1)](https://www.legislation.gov.uk/uksi/1970/1537/article/2/1), [7(4)](https://www.legislation.gov.uk/uksi/1970/1537/article/7/4), [Sch. 2 para. 12](https://www.legislation.gov.uk/uksi/1970/1537/schedule/2/paragraph/12) and 1974/692 arts. 2(1), 5(3), Sch. 1 Pt. III
+
+[^key-f3e7a793267713e39670e1c9cbe39b94]: Textual amendment: Words in s. 3(4) inserted (E.W.) (23.11.2005) by [Wales Tourist Board (Transfer of Functions to the National Assembly for Wales and Abolition) Order 2005 (S.I. 2005/3225)](https://www.legislation.gov.uk/uksi/2005/3225), [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3225/article/1/1), [Sch. 1 para. 3(2)](https://www.legislation.gov.uk/uksi/2005/3225/schedule/1/paragraph/3/2) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2005/3225/article/3/1))
+
+[^key-b9f8f712a3106a58f135ae65340b4d56]: Textual amendment: Words in s. 3(5) substituted (E.W.) (23.11.2005) by [Wales Tourist Board (Transfer of Functions to the National Assembly for Wales and Abolition) Order 2005 (S.I. 2005/3225)](https://www.legislation.gov.uk/uksi/2005/3225), [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3225/article/1/1), [Sch. 1 para. 3(3)](https://www.legislation.gov.uk/uksi/2005/3225/schedule/1/paragraph/3/3) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2005/3225/article/3/1))
+
+[^c751424]: Modification: S. 4(1)(4) modified (1.7.1999) by [S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672), [art. 2](https://www.legislation.gov.uk/uksi/1999/672/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/672/schedule/1)
+
+[^key-f0eee3801fa513aa4abf60e66543e8e8]: Textual amendment: S. 4A added (E.W.) (23.11.2005) by [Wales Tourist Board (Transfer of Functions to the National Assembly for Wales and Abolition) Order 2005 (S.I. 2005/3225)](https://www.legislation.gov.uk/uksi/2005/3225), [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3225/article/1/1), [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2005/3225/schedule/1/paragraph/4) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2005/3225/article/3/1))
+
+[^c751426]: Modification: S. 5 extended (E.W.) by [Water Act 1989 (c. 15, SIF 130)](https://www.legislation.gov.uk/ukpga/1989/15), [s. 190](https://www.legislation.gov.uk/ukpga/1989/15/section/190), [Sch. 25 para. 1(2)](https://www.legislation.gov.uk/ukpga/1989/15/schedule/25/paragraph/1/2) (xv) (with ss. 58(7), 101(1), 141(6), 160(1)(2)(4), 163, 189(4)–(10), 193(1), Sch. 26 paras. 3(1)(2), 17, 40(4), 57(6), 58)
+
+[^key-637faeef95c0acde34c9414b5bc26d12]: Textual amendment: Words in s. 5(1) substituted (E.W.) (23.11.2005) by [Wales Tourist Board (Transfer of Functions to the National Assembly for Wales and Abolition) Order 2005 (S.I. 2005/3225)](https://www.legislation.gov.uk/uksi/2005/3225), [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3225/article/1/1), [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2005/3225/schedule/1/paragraph/5) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2005/3225/article/3/1))
+
+[^c751427]: Textual amendment: S. 5(4) repealed by Overseas Development and Co-operation Act 1980 (c. 63, SIF 88), s. 18(1), Sch. 2 Pt. I
+
+[^key-7a139a3fa30825621d5348f68a39dfea]: Modification: S. 6 modified (temp. until 1.4.2006) (E.W.) (23.11.2005) by [Wales Tourist Board (Transfer of Functions to the National Assembly for Wales and Abolition) Order 2005 (S.I. 2005/3225)](https://www.legislation.gov.uk/uksi/2005/3225), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2005/3225/article/1/1), [3(5)](https://www.legislation.gov.uk/uksi/2005/3225/article/3/5)
+
+[^c751433]: Modification: S. 6(1)(2): Treasury approval requirement continued (1.7.1999) by [S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672), [art. 2](https://www.legislation.gov.uk/uksi/1999/672/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/672/schedule/1)
+
+[^c751435]: Modification: S. 6(3)(4): transfer of certain functions (1.7.1999) by [S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672), [art. 2](https://www.legislation.gov.uk/uksi/1999/672/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/672/schedule/1)
+
+[^c751437]: Modification: S. 6(4): modified (1.7.1999) by [S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672), [art. 2](https://www.legislation.gov.uk/uksi/1999/672/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/672/schedule/1)
+
+[^c751438]: Textual amendment: S. 6(8) inserted (S.) (1.4.2002) by [S.S.I. 2002/176](https://www.legislation.gov.uk/ssi/2002/176), [art. 3](https://www.legislation.gov.uk/ssi/2002/176/article/3)
+
+[^c751439]: Textual amendment: Part II (ss. 7-16) repealed (19.11.1998) by [1998 c. 43](https://www.legislation.gov.uk/ukpga/1998/43), [s. 1(1)](https://www.legislation.gov.uk/ukpga/1998/43/section/1/1), [Sch. 1 Pt. IV](https://www.legislation.gov.uk/ukpga/1998/43/schedule/1/part/IV) Group 3
+
+[^c751440]: Textual amendment: [Pt. II](https://www.legislation.gov.uk/ukpga/1969/51/part/II) (ss. 7-16) repealed (19.11.1998) by [1998 c. 43](https://www.legislation.gov.uk/ukpga/1998/43), [s. 1(1)](https://www.legislation.gov.uk/ukpga/1998/43/section/1/1), [Sch. 1 Pt. IV](https://www.legislation.gov.uk/ukpga/1998/43/schedule/1/part/IV) Group 3
+
+[^c751441]: Textual amendment: [Pt. II](https://www.legislation.gov.uk/ukpga/1969/51/part/II) (ss. 7-16) repealed (19.11.1998) by [1998 c. 43](https://www.legislation.gov.uk/ukpga/1998/43), [s. 1(1)](https://www.legislation.gov.uk/ukpga/1998/43/section/1/1), [Sch. 1 Pt. IV](https://www.legislation.gov.uk/ukpga/1998/43/schedule/1/part/IV) Group 3
+
+[^c751442]: Textual amendment: [Pt. II](https://www.legislation.gov.uk/ukpga/1969/51/part/II) (ss. 7-16) repealed (19.11.1998) by [1998 c. 43](https://www.legislation.gov.uk/ukpga/1998/43), [s. 1(1)](https://www.legislation.gov.uk/ukpga/1998/43/section/1/1), [Sch. 1 Pt. IV](https://www.legislation.gov.uk/ukpga/1998/43/schedule/1/part/IV) Group 3
+
+[^c751443]: Textual amendment: [Pt. II](https://www.legislation.gov.uk/ukpga/1969/51/part/II) (ss. 7-16) repealed (19.11.1998) by [1998 c. 43](https://www.legislation.gov.uk/ukpga/1998/43), [s. 1(1)](https://www.legislation.gov.uk/ukpga/1998/43/section/1/1), [Sch. 1 Pt. IV](https://www.legislation.gov.uk/ukpga/1998/43/schedule/1/part/IV) Group 3
+
+[^c751445]: Textual amendment: [Pt. II](https://www.legislation.gov.uk/ukpga/1969/51/part/II) (ss. 7-16) repealed (19.11.1998) by [1998 c. 43](https://www.legislation.gov.uk/ukpga/1998/43), [s. 1(1)](https://www.legislation.gov.uk/ukpga/1998/43/section/1/1), [Sch. 1 Pt. IV](https://www.legislation.gov.uk/ukpga/1998/43/schedule/1/part/IV) Group 3.
+
+[^c751446]: Textual amendment: [Pt. II](https://www.legislation.gov.uk/ukpga/1969/51/part/II) (ss. 7-16) repealed (19.11.1998) by [1998 c. 43](https://www.legislation.gov.uk/ukpga/1998/43), [s. 1(1)](https://www.legislation.gov.uk/ukpga/1998/43/section/1/1), [Sch. 1 Pt. IV](https://www.legislation.gov.uk/ukpga/1998/43/schedule/1/part/IV) Group 3
+
+[^c751447]: Textual amendment: [Pt. II](https://www.legislation.gov.uk/ukpga/1969/51/part/II) (ss. 7-16) repealed (19.11.1998) by [1998 c. 43](https://www.legislation.gov.uk/ukpga/1998/43), [s. 1(1)](https://www.legislation.gov.uk/ukpga/1998/43/section/1/1), [Sch. 1 Pt. IV](https://www.legislation.gov.uk/ukpga/1998/43/schedule/1/part/IV) Group 3
+
+[^c751467]: Textual amendment: [Pt. II](https://www.legislation.gov.uk/ukpga/1969/51/part/II) (ss. 7-16) repealed (19.11.1998) by [1998 c. 43](https://www.legislation.gov.uk/ukpga/1998/43), [s. 1(1)](https://www.legislation.gov.uk/ukpga/1998/43/section/1/1), [Sch. 1 Pt. IV](https://www.legislation.gov.uk/ukpga/1998/43/schedule/1/part/IV) Group 3.
+
+[^c751468]: Textual amendment: [Pt. II](https://www.legislation.gov.uk/ukpga/1969/51/part/II) (ss. 7-16) repealed (19.11.1998) by [1998 c. 43](https://www.legislation.gov.uk/ukpga/1998/43), [s. 1(1)](https://www.legislation.gov.uk/ukpga/1998/43/section/1/1), [Sch. 1 Pt. IV](https://www.legislation.gov.uk/ukpga/1998/43/schedule/1/part/IV) Group 3.
+
+[^c751471]: Textual amendment: [Pt. II](https://www.legislation.gov.uk/ukpga/1969/51/part/II) (ss. 7-16) repealed (19.11.1998) by [1998 c. 43](https://www.legislation.gov.uk/ukpga/1998/43), [s. 1(1)](https://www.legislation.gov.uk/ukpga/1998/43/section/1/1), [Sch. 1 Pt. IV](https://www.legislation.gov.uk/ukpga/1998/43/schedule/1/part/IV) Group 3.
+
+[^key-0210e2848d36be03cb13a6eab50e7c9b]: Textual amendment: Words in s. 17(1) inserted (E.W.) (23.11.2005) by [Wales Tourist Board (Transfer of Functions to the National Assembly for Wales and Abolition) Order 2005 (S.I. 2005/3225)](https://www.legislation.gov.uk/uksi/2005/3225), [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3225/article/1/1), [Sch. 1 para. 6(1)](https://www.legislation.gov.uk/uksi/2005/3225/schedule/1/paragraph/6/1) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2005/3225/article/3/1))
+
+[^c751472]: Modification: S. 17(2)(*g*): so far as conferring power to make a person, as regards any summary offence, liable on conviction to a maximum fine, s. 40 of [Criminal Justice Act 1982 (c. 48, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1982/48) applies
+
+[^key-112565f9b8dc743cb25a3b5e354b913f]: Textual amendment: Words in s. 17(3)(a) substituted (E.W.) (23.11.2005) by [Wales Tourist Board (Transfer of Functions to the National Assembly for Wales and Abolition) Order 2005 (S.I. 2005/3225)](https://www.legislation.gov.uk/uksi/2005/3225), [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3225/article/1/1), [Sch. 1 para. 6(2)](https://www.legislation.gov.uk/uksi/2005/3225/schedule/1/paragraph/6/2) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2005/3225/article/3/1))
+
+[^key-680d1374b50e7fa18aa1e30c42535ba7]: Textual amendment: Words in s. 17(3)(c) inserted (E.W.) (23.11.2005) by [Wales Tourist Board (Transfer of Functions to the National Assembly for Wales and Abolition) Order 2005 (S.I. 2005/3225)](https://www.legislation.gov.uk/uksi/2005/3225), [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3225/article/1/1), [Sch. 1 para. 6(2)](https://www.legislation.gov.uk/uksi/2005/3225/schedule/1/paragraph/6/2) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2005/3225/article/3/1))
+
+[^c751473]: Modification: S. 17(4): modified (1.7.1999) by [S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672), [art. 2](https://www.legislation.gov.uk/uksi/1999/672/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/672/schedule/1)
+
+[^c751474]: Textual amendment: Words substituted by virtue of [S.I. 1970/1537](https://www.legislation.gov.uk/uksi/1970/1537), [arts. 2(1)](https://www.legislation.gov.uk/uksi/1970/1537/article/2/1), [7(4)](https://www.legislation.gov.uk/uksi/1970/1537/article/7/4), [Sch. 2 para. 12](https://www.legislation.gov.uk/uksi/1970/1537/schedule/2/paragraph/12) and 1974/692 arts. 2(1), 5(3), Sch. 1 Pt. III
+
+[^key-5a98dbd35257ec5be43f29ec7d7f3dde]: Textual amendment: Words in s. 17(4) substituted (E.W.) (23.11.2005) by [Wales Tourist Board (Transfer of Functions to the National Assembly for Wales and Abolition) Order 2005 (S.I. 2005/3225)](https://www.legislation.gov.uk/uksi/2005/3225), [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3225/article/1/1), [Sch. 1 para. 6(3)](https://www.legislation.gov.uk/uksi/2005/3225/schedule/1/paragraph/6/3) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2005/3225/article/3/1))
+
+[^c751475]: Marginal citation: [1946 c. 36](https://www.legislation.gov.uk/ukpga/1946/36).
+
+[^key-f7b6457203482f9ec9b886c8b0c81d85]: Textual amendment: S. 17(7A) added (E.W.) (23.11.2005) by [Wales Tourist Board (Transfer of Functions to the National Assembly for Wales and Abolition) Order 2005 (S.I. 2005/3225)](https://www.legislation.gov.uk/uksi/2005/3225), [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3225/article/1/1), [Sch. 1 para. 6(4)](https://www.legislation.gov.uk/uksi/2005/3225/schedule/1/paragraph/6/4) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2005/3225/article/3/1))
+
+[^c751476]: Textual amendment: Words in [s. 19(2)](https://www.legislation.gov.uk/ukpga/1969/51/section/19/2) repealed (19.11.1998) by [1998 c. 43](https://www.legislation.gov.uk/ukpga/1998/43), [s. 1(1)](https://www.legislation.gov.uk/ukpga/1998/43/section/1/1), [Sch. 1 Pt. IV](https://www.legislation.gov.uk/ukpga/1998/43/schedule/1/part/IV) Group 3
+
+[^c751479]: Textual amendment: Words repealed by [House of Commons Disqualification Act 1975 (c. 24)](https://www.legislation.gov.uk/ukpga/1975/24), [Sch. 3](https://www.legislation.gov.uk/ukpga/1975/24/schedule/3)
+
+[^key-490d35f29aa911e05d7e5b5257a4a913]: Textual amendment: [Sch. 1 para. 5(1)(ba)](https://www.legislation.gov.uk/ukpga/1969/51/schedule/1/paragraph/5/1/ba) inserted (1.10.2012) by [The Tribunals, Courts and Enforcement Act 2007 (Consequential Amendments) Order 2012 (S.I. 2012/2404)](https://www.legislation.gov.uk/uksi/2012/2404), [art. 1](https://www.legislation.gov.uk/uksi/2012/2404/article/1), [Sch. 2 para. 4(2)](https://www.legislation.gov.uk/uksi/2012/2404/schedule/2/paragraph/4/2) (with [art. 5](https://www.legislation.gov.uk/uksi/2012/2404/article/5))
+
+[^key-7fb62e3cdd8f7e017cad3c981698e7f6]: Textual amendment: [Sch. 1 para. 5(3)](https://www.legislation.gov.uk/ukpga/1969/51/schedule/1/paragraph/5/3) inserted (1.10.2012) by [The Tribunals, Courts and Enforcement Act 2007 (Consequential Amendments) Order 2012 (S.I. 2012/2404)](https://www.legislation.gov.uk/uksi/2012/2404), [art. 1](https://www.legislation.gov.uk/uksi/2012/2404/article/1), [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/uksi/2012/2404/schedule/2/paragraph/4/3) (with [art. 5](https://www.legislation.gov.uk/uksi/2012/2404/article/5))
+
+[^c751480]: Modification: [Sch. 1 para. 17](https://www.legislation.gov.uk/ukpga/1969/51/schedule/1/paragraph/17): certain functions continued (1.7.1999) by [S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672), [art. 2](https://www.legislation.gov.uk/uksi/1999/672/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/672/schedule/1)
+
+[^c751481]: Textual amendment: Words substituted by virtue of [S.I. 1981/1670](https://www.legislation.gov.uk/uksi/1981/1670), [arts. 2](https://www.legislation.gov.uk/uksi/1981/1670/article/2), [3(5)](https://www.legislation.gov.uk/uksi/1981/1670/article/3/5)
+
+[^key-d9915b5ed5755d4cffd34b1f24443f74]: Textual amendment: Sch. 2 para. 1(1A) added (E.W.) (23.11.2005) by [Wales Tourist Board (Transfer of Functions to the National Assembly for Wales and Abolition) Order 2005 (S.I. 2005/3225)](https://www.legislation.gov.uk/uksi/2005/3225), [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3225/article/1/1), [Sch. 1 para. 7(1)](https://www.legislation.gov.uk/uksi/2005/3225/schedule/1/paragraph/7/1) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2005/3225/article/3/1))
+
+[^c751482]: Modification: Para. 1(4): [Criminal Justice Act 1982 (c. 48, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1982/48), [ss. 35](https://www.legislation.gov.uk/ukpga/1982/48/section/35) (in relation to liability on first and subsequent convictions), 38 (increase of fines) and 46 (substitution of references to levels on the standard scale) apply (E.W.)
+
+[^c751483]: Textual amendment: “level 5 on the standard scale" substituted (S.) for “£100" and “£400" in each case by virtue of [Criminal Procedure (Scotland) Act 1975 (c. 21, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1975/21), [ss. 289E–289G](https://www.legislation.gov.uk/ukpga/1975/21/section/289E)
+
+[^key-8da9d9a49ed8b7bf6346b63358d3630c]: Textual amendment: Words in [Sch. 2 para. 2(1)](https://www.legislation.gov.uk/ukpga/1969/51/schedule/2/paragraph/2/1) inserted (E.W.) (23.11.2005) by [Wales Tourist Board (Transfer of Functions to the National Assembly for Wales and Abolition) Order 2005 (S.I. 2005/3225)](https://www.legislation.gov.uk/wsi/2005/3225), [art. 1(1)](https://www.legislation.gov.uk/wsi/2005/3225/article/1/1), [Sch. 1 para. 7(2)](https://www.legislation.gov.uk/wsi/2005/3225/schedule/1/paragraph/7/2) (with [art. 3(1)](https://www.legislation.gov.uk/wsi/2005/3225/article/3/1))
+
+[^c751487]: Textual amendment: Words substituted by virtue of (E.W.) [Criminal Justice Act 1982 (c. 48, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1982/48), [ss. 38](https://www.legislation.gov.uk/ukpga/1982/48/section/38), [46](https://www.legislation.gov.uk/ukpga/1982/48/section/46) and (S.) [Criminal Procedure (Scotland) Act 1975 (c. 21, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1975/21), [ss. 289F](https://www.legislation.gov.uk/ukpga/1975/21/section/289F), [289G](https://www.legislation.gov.uk/ukpga/1975/21/section/289G)
+
+[^key-8206fcf47ef665f945dbb105f656a3d3]: Textual amendment: Words in [Sch. 2 para. 3(1)](https://www.legislation.gov.uk/ukpga/1969/51/schedule/2/paragraph/3/1) inserted (E.W.) (23.11.2005) by [Wales Tourist Board (Transfer of Functions to the National Assembly for Wales and Abolition) Order 2005 (S.I. 2005/3225)](https://www.legislation.gov.uk/wsi/2005/3225), [art. 1(1)](https://www.legislation.gov.uk/wsi/2005/3225/article/1/1), [Sch. 1 para. 7(3)](https://www.legislation.gov.uk/wsi/2005/3225/schedule/1/paragraph/7/3) (with [art. 3(1)](https://www.legislation.gov.uk/wsi/2005/3225/article/3/1))
+
+[^c751488]: Textual amendment: Words substituted by virtue of (E.W.) [Criminal Justice Act 1982 (c. 48, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1982/48), [ss. 38](https://www.legislation.gov.uk/ukpga/1982/48/section/38), [46](https://www.legislation.gov.uk/ukpga/1982/48/section/46) and (S.) [Criminal Procedure (Scotland) Act 1975 (c. 21, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1975/21), [ss. 289F](https://www.legislation.gov.uk/ukpga/1975/21/section/289F), [289G](https://www.legislation.gov.uk/ukpga/1975/21/section/289G)
+
+[^c751489]: Textual amendment: Sch. 2 para. 3(2) repealed by [Criminal Law Act 1977 (c. 45)](https://www.legislation.gov.uk/ukpga/1977/45), [Sch. 13](https://www.legislation.gov.uk/ukpga/1977/45/schedule/13)
+
+[^c751490]: Textual amendment: Words substituted by virtue of [Criminal Procedure (Scotland) Act 1975 (c. 21)](https://www.legislation.gov.uk/ukpga/1975/21), [s. 460(1)](https://www.legislation.gov.uk/ukpga/1975/21/section/460/1)(*b*)
+
+[^c751491]: Marginal citation: [1975 c. 21](https://www.legislation.gov.uk/ukpga/1975/21).
+
+[^c751493]: Textual amendment: Words repealed by [Criminal Law Act 1977 (c. 45)](https://www.legislation.gov.uk/ukpga/1977/45), [Sch. 13](https://www.legislation.gov.uk/ukpga/1977/45/schedule/13)
+
+[^c751496]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/ukpga/1969/51/schedule/3) repealed (19.11.1998) by [1998 c. 43](https://www.legislation.gov.uk/ukpga/1998/43), [s. 1(1)](https://www.legislation.gov.uk/ukpga/1998/43/section/1/1), [Sch. 1 Pt. IV](https://www.legislation.gov.uk/ukpga/1998/43/schedule/1/part/IV) Group 3
+
+[^c751497]: Textual amendment: [Sch. 4](https://www.legislation.gov.uk/ukpga/1969/51/schedule/4) repealed (19.11.1998) by [1998 c. 43](https://www.legislation.gov.uk/ukpga/1998/43), [s. 1(1)](https://www.legislation.gov.uk/ukpga/1998/43/section/1/1), [Sch. 1 Pt. IV](https://www.legislation.gov.uk/ukpga/1998/43/schedule/1/part/IV) Group 3

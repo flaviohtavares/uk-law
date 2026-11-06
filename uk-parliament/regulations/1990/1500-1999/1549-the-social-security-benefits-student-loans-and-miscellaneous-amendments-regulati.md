@@ -1,0 +1,264 @@
+---
+title: The Social Security Benefits (Student Loans and Miscellaneous Amendments) Regulations 1990
+id: uksi/1990/1549
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '1990-07-26'
+text_date: '2006-03-06'
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1990/1549
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1990/1549/pdfs/uksi_19901549_en.pdf
+- http://www.legislation.gov.uk/uksi/1990/1549/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Social Security Benefits (Student Loans and Miscellaneous Amendments) Regulations 1990
+
+> Text as at 2006-03-06.
+
+1990 No. 1549
+
+HOUSING, ENGLAND AND WALES
+
+HOUSING, SCOTLAND
+
+SOCIAL SECURITY
+
+The Social Security Benefits (Student Loans and Miscellaneous Amendments) Regulations 1990
+
+Made
+
+26th July 1990
+
+Coming into force except as provided by regulation 1(1)(b)(i)
+
+1st September 1990
+
+Whereas a draft of this instrument was laid before Parliament in accordance with section 167(1) of the Social Security Act 1975 and approved by resolution of each House of Parliament.
+
+Now, therefore, the Secretary of State for Social Security in exercise of powers conferred by sections 20(3)(d), (8) and (12)(d), (g) to (i), 22(8) and (9), 29(3), 31C(3) and 84(1) of the Social Security Act 1986[^f00001] and sections 17(2)(a), 20(3) and 166(1) to (3A) of the Social Security Act 1975[^f00002] and of all other powers enabling him in that behalf after consultation with the Social Security Advisory Committee and, in so far as regulations 2, 4 and 7 are concerned, with organisations appearing to him to be representative of authorities concerned[^f00003], hereby makes the following Regulations:
+
+## 1. Citation, commencement and interpretation
+
+(1) These Regulations may be cited as the Social Security Benefits (Student Loans and Miscellaneous Amendments) Regulations 1990 and shall come into force as follows—
+
+- (a) regulations 1 to 4(6) and 4(9) to (11) and 5 to 7, on 1st September 1990;
+- (b) regulation 4(7) and (8)—
+  - (i) in a case where the student’s period of study begins on or after 1st August 1990 but before 1st September 1990, on the first Monday of that period;
+  - (ii) in any other case, on 1st September 1990.
+
+(2) In these Regulations—
+
+- (a) “the Community Charge Regulations” means the Community Charge Benefits (General) Regulations 1989[^f00004];
+- (b) “the Family Credit Regulations” means the Family Credit (General) Regulations 1987[^f00005];
+- (c) “the Housing Benefit Regulations” means the Housing Benefit (General) Regulations 1987[^f00006];
+- (d) “the Income Support Regulations” means the Income Support (General) Regulations 1987[^f00007];
+- (e) “the Unemployment Benefit Regulations” means the Social Security (Unemployment, Sickness and Invalidity Benefit) Regulations 1983[^f00008].
+
+## 2. Amendment of the Community Charge Regulations
+
+(1) The Community Charge Regulations shall be amended in accordance with the following provisions of this Regulation.
+
+(2) In regulation 23 (calculation of income other than earnings)—
+
+- (a) in paragraph (1) for the reference “(2) and (3)” there shall be substituted the reference “(2) to (3A)”;
+- (b) after paragraph (3) there shall be inserted the following paragraph—
+
+  > (3A) Where a loan is made to a person pursuant to arrangements made under section 1 of the Education (Student Loans) Act 1990[^f00009] and that person ceases to be a student before the end of the academic year in respect of which the loan is payable or, as the case may be, before the end of his course, a sum equal to the weekly amount apportionable under paragraph (2) of regulation 42A shall be taken into account under paragraph (1) for each week, in the period over which the loan fell to be apportioned, following the date on which that person ceases to be a student; but in determining the weekly amount apportionable under paragraph (2) of regulation 42A so much of that paragraph as provides for a disregard shall not have effect.
+
+  .
+
+(3) In regulation 36 (interpretation)—
+
+- (a) in the definition of “grant” at the end there shall be added the words “but does not include a payment derived from funds made available by the Secretary of State for the purpose of assisting students in financial difficulties under section 100 of the Education Act 1944[^f00010], sections 131 and 132 of the Education Reform Act 1988[^f00011] or section 73 of the Education (Scotland) Act 1980[^f00012];”
+- (b) at the end there shall be added the following definition—
+
+  > - “year” in relation to a course means the period of 12 months beginning on 1st January, 1st April or 1st September according to whether the academic year of the course in question begins in the spring, the summer or the autumn respectively.
+
+  .
+
+(4) In regulation 38(2)(g) (calculation of grant income) for the figure “£234” there shall be substituted the figure “£246”.
+
+(5) After regulation 42 (other amounts to be disregarded) there shall be inserted the following regulation—
+
+> **42A. Treatment of student loans**
+>
+> (1) A loan which is made to a student pursuant to arrangements made under section 1 of the Education (Student Loans) Act 1990 shall be treated as income.
+>
+> (2) In calculating the weekly amount of the loan to be taken into account as income—
+>
+> - (a) except where sub-paragraph (b) applies, the loan shall be apportioned equally between the weeks in the academic year in respect of which the loan is payable;
+> - (b) in the case of a loan which is payable in respect of the final academic year of the course or, if the course is only of one academic year’s duration, in respect of that year, the loan shall be apportioned equally between the weeks in the period beginning with the start of the final academic year or, as the case may be, the single academic year and ending with the date on which the course ends,
+>
+> and from the weekly amount so apportioned there shall be disregarded £10.
+>
+> (3) Any loan for which a student is eligible in respect of an academic year under the arrangements mentioned in paragraph (1) but which has not been acquired by him shall be treated as possessed by him and paragraphs (1) and (2) shall apply accordingly; and for the purposes of this paragraph the loan for which a student is eligible is the maximum amount payable to him under those arrangements.
+
+.
+
+(6) In regulation 67 (review of determination) after paragraph (5) there shall be inserted the following paragraph—
+
+> (5A) Notwithstanding paragraph (1)(a), a determination or a decision shall not be reviewed where the change of circumstances is the repayment of a loan to which regulation 42A (treatment of student loans) applies.
+
+.
+
+(7) In paragraph 21 of Schedule 4 (capital to be disregarded) for the words “(capital treated as income)” there shall be substituted the words “or 42A (capital treated as income or treatment of student loans)”.
+
+## 3. Amendment of the Family Credit Regulations
+
+(1) The Family Credit Regulations shall be amended in accordance with the following provisions of this Regulation.
+
+(2) In regulation 24 (calculation of income other than earnings)—
+
+- (a) in paragraph (1) for the reference “(2) to (4)” there shall be substituted the reference “(2) to (4A)”;
+- (b) after paragraph (4) there shall be inserted the following paragraph—
+
+  > (4A) Where a loan is made to a person pursuant to arrangements made under section 1 of the Education (Student Loans) Act 1990 and that person ceases to be a student before the end of the academic year in respect of which the loan is payable or, as the case may be, before the end of his course, a sum equal to the weekly amount apportionable under paragraph (2) of regulation 42A shall be taken into account under paragraph (1) for each week, in the period over which the loan fell to be apportioned, following the date on which that person ceases to be a student; but in determining the weekly amount apportionable under paragraph (2) of regulation 42A so much of that paragraph as provides for a disregard shall not have effect.
+
+  .
+
+(3) In regulation 37 (interpretation) in the definition of “grant” at the end there shall be added the words “but does not include a payment derived from funds made available by the Secretary of State for the purpose of assisting students in financial difficulties under section 100 of the Education Act 1944, sections 131 and 132 of the Education Reform Act 1988 or section 73 of the Education (Scotland) Act 1980”.
+
+(4) In regulation 38(2)(f) (calculation of grant income) for the figure “£234” there shall be substituted the figure “£246”.
+
+(5) After regulation 42 (other amounts to be disregarded) there shall be inserted the following regulation—
+
+> **42A. Treatment of student loans**
+>
+> (1) A loan which is made to a student pursuant to arrangements made under section 1 of the Education (Student Loans) Act 1990 shall be treated as income.
+>
+> (2) In calculating the weekly amount of the loan to be taken into account as income—
+>
+> - (a) except where sub-paragraph (b) applies, the loan shall be apportioned equally between the weeks in the academic year in respect of which the loan is payable;
+> - (b) in the case of a loan which is payable in respect of the final academic year of the course or, if the course is only of one academic year’s duration, in respect of that year, the loan shall be apportioned equally between the weeks in the period beginning with the start of the final academic year or, as the case may be, the single academic year and ending with the date on which the course ends,
+>
+> and from the weekly amount so apportioned there shall be disregarded £10.
+>
+> (3) Any loan for which a student is eligible in respect of an academic year under the arrangements mentioned in paragraph (1) but which has not been acquired by him shall be treated as possessed by him and paragraphs (1) and (2) shall apply accordingly; and for the purposes of this paragraph the loan for which a student is eligible is the maximum amount payable to him under those arrangements.
+
+.
+
+(6) In paragraph 21 of Schedule 3 (capital to be disregarded) for the words “(capital treated as income)” there shall be substituted the words “or 42A (capital treated as income or treatment of student loans)”.
+
+## 4. Amendment of the Housing Benefit Regulations[^key-5adaeac1f0c18fc9a75a27bc138b1d55]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 5. Amendment of the Income Support Regulations
+
+(1) The Income Support Regulations shall be amended in accordance with the following provisions of this Regulation.
+
+(2) In regulation 2(1) (interpretation) for the definition of “period of study” there shall be substituted the following definition—
+
+> - “period of study” means the period beginning with the start of the course of study and ending with the last day of the course or such earlier date as the student abandons it or is dismissed from it; but any period of attendance by the student at his educational establishment in connection with the course which is outside the period of the course shall be treated as part of the period of study;
+
+.
+
+(3)[^M_F_cac19f70-d478-4b0d-9749-c47dc62fe902] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) In regulation 40 (calculation of income other than earnings)—
+
+- (a) in paragraph (1) for the reference “(2) and (3)” there shall be substituted the reference “(2) to (3A)”;
+- (b) after paragraph (3) there shall be inserted the following paragraph—
+
+  > (3A) Where a loan is made to a person pursuant to arrangements made under section 1 of the Education (Student Loans) Act 1990 and that person ceases to be a student before the end of the academic year in respect of which the loan is payable or, as the case may be, before the end of his course, a sum equal to the weekly amount apportionable under paragraph (2) of regulation 66A shall be taken into account under paragraph (1) for each week, in the period over which the loan fell to be apportioned, following the date on which that person ceases to be a student; but in determining the weekly amount apportionable under paragraph (2) of regulation 66A so much of that paragraph as provides for a disregard shall not have effect.
+
+  .
+
+(5) In regulation 61 (interpretation) in the definition of “grant” at the end there shall be added the words “but does not include a payment derived from funds made available by the Secretary of State for the purpose of assisting students in financial difficulties under section 100 of the Education Act 1944, sections 131 and 132 of the Education Reform Act 1988 or section 73 of the Education (Scotland) Act 1980”.
+
+(6) In regulation 62 (2) (g) (calculation of grant income) for the figure “£234” there shall be substituted the figure “£246”.
+
+(7) After regulation 66 (other amounts to be disregarded) there shall be inserted the following regulation—
+
+> **66A. Treatment of student loans**
+>
+> (1) A loan which is made to a student pursuant to arrangements made under section 1 of the Education (Student Loans) Act 1990 shall be treated as income.
+>
+> (2) In calculating the weekly amount of the loan to be taken into account as income—
+>
+> - (a) except where sub-paragraph (b) applies, the loan shall be apportioned equally between the weeks in the academic year in respect of which the loan is payable;
+> - (b) in the case of a loan which is payable in respect of the final academic year of the course or if the course is only of one academic year’s duration, in respect of that year the loan shall be apportioned equally between the weeks in the period beginning with the start of the final academic year or, as the case may be, the single academic year and ending with the date on which the course ends,
+>
+> and from the weekly amount so apportioned there shall be disregarded £10.
+>
+> (3) Any loan for which a student is eligible in respect of an academic year under the arrangements mentioned in paragraph (1) but which has not been acquired by him shall be treated as possessed by him and paragraphs (1) and (2) shall apply accordingly; and for the purposes of this paragraph the loan for which a student is eligible is the maximum amount payable to him under those arrangements
+
+.
+
+(8)[^M_F_daa741b2-a016-43c4-f5bf-4927c11732b4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(9) In paragraph 20 of Schedule 10 (capital to be disregarded) for the words “regulations 41 and 44 (1) (capital treated as income and modifications in respect of children and young persons)” there shall be substituted the words “regulation 41, 44(1) or 66A (capital treated as income, modifications in respect of children and young persons or treatment of student loans)”.
+
+## 6. Amendment of the Unemployment Benefit Regulations[^key-43d684cf4334e654dc05fa334d6cdc2d]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 7. Transitional Provision
+
+(1)[^key-0be3e3fe9013d1a0a75b15b1248b7a39] Where, immediately before 1st September 1990, a student was entitled to housing benefit, income support or unemployment benefit, as the case may be, the *(affected by repeal, see note)*[^key-0be3e3fe9013d1a0a75b15b1248b7a39] Housing Benefit Regulations *(affected by repeal, see note)*[^key-0be3e3fe9013d1a0a75b15b1248b7a39], the *(affected by repeal, see note)*[^key-0be3e3fe9013d1a0a75b15b1248b7a39] Income Support Regulations *(affected by repeal, see note)*[^key-0be3e3fe9013d1a0a75b15b1248b7a39] or the *(affected by repeal, see note)*[^key-0be3e3fe9013d1a0a75b15b1248b7a39] Unemployment Benefit Regulations *(affected by repeal, see note)*[^key-0be3e3fe9013d1a0a75b15b1248b7a39], as the case may be, shall continue to apply to him as if the amendments made by regulation 4(2) to (6) and (9) to (11), 5(2) to (5) and (7) to (9) or 6 of these Regulations had not been made but only for the period ending immediately before the date on which he is due to start or is due to resume his course of study. *(affected by repeal, see note)*[^key-0be3e3fe9013d1a0a75b15b1248b7a39]
+
+(2) In paragraph (1) the expression “student” has the same meaning as in the *(affected by repeal, see note)*[^key-0be3e3fe9013d1a0a75b15b1248b7a39] Housing Benefit Regulations *(affected by repeal, see note)*[^key-0be3e3fe9013d1a0a75b15b1248b7a39], Income Support Regulations *(affected by repeal, see note)*[^key-0be3e3fe9013d1a0a75b15b1248b7a39] or *(affected by repeal, see note)*[^key-0be3e3fe9013d1a0a75b15b1248b7a39] Unemployment Benefit Regulations *(affected by repeal, see note)*[^key-0be3e3fe9013d1a0a75b15b1248b7a39], as the case may be, as in force immediately before 1st September 1990. *(affected by repeal, see note)*[^key-0be3e3fe9013d1a0a75b15b1248b7a39]
+
+Signed by authority of the Secretary of State for Social Security
+
+Nicholas Scott
+
+Minister of State,
+
+Department of Social Security
+
+26th July 1990
+
+(This note is not part of the Regulations)
+
+These Regulations further amend the Community Charge Benefits (General) Regulations 1989, the Family Credit (General) Regulations 1987, the Housing Benefit (General) Regulations 1987, the Income Support (General) Regulations 1987 and the Social Security (Unemployment, Sickness and Invalidity Benefit) Regulations 1983 with respect to students.
+
+They exclude students, with certain specified exceptions, from entitlement to housing benefit and income support by treating students, in the case of housing benefit, as not liable to make payments in respect of their dwelling and, in the case of income support, by treating them as not available for employment during their period of study (regulations 4(6) and 5(2), (3) and (8)); and they exclude students from entitlement to unemployment benefit by providing for a day not to be treated as a day of unemployment if on that day a person is a student (regulation 6).
+
+They make provision, in the case of the income-related benefits, for loans made to a student under the Education (Student Loans) Act 1990 to be treated as income and for calculating the weekly amount of that income; exclude from the definition of “grant” income certain payments derived from funds made available by the Secretary of State for Education to assist students in financial difficulties; and increase the amount of the disregard for books to £246, and in the case of housing benefit, the amount of the deduction from eligible rent in London to £2245 and elsewhere to £1555 (regulations 2(2), (3) to (5)and (7), 3, 4(4) to (9)and (11),and 5(4) to (7)and (9)). They also provide for past decisions relating to a person’s entitlement to community charge benefit or housing benefit not to be reviewed on account of the repayment of a student loan (regulations 2(6)and 4(10)).
+
+The Regulations also make transitional provision to enable a student entitled to housing benefit, income support or unemployment benefit immediately before 1st September 1990 to retain entitlement to that benefit until the date on which he resumes his course of study (regulation 7);and other miscellaneous amendments relating to housing benefit (regulation 4(2)and (3)).
+
+The report of the Social Security Advisory Committee dated July 1990 on the proposals to make these Regulations together with the statement showing the extent to which the regulations give effect to them and, in so far as they do not give effect to them, the reasons why not are contained in Command Paper No. 1141, published by Her Majesty’s Stationery Office.
+
+## Annotations
+
+[^f00001]: Footnote: [1986 c. 50](https://www.legislation.gov.uk/ukpga/1986/50); section 31C(3) was inserted by Schedule 10 to the Local Government Finance Act [1988 (c. 41)](https://www.legislation.gov.uk/ukpga/1988/41); section 84(1) is an interpretation provision and is cited because of the meanings assigned to the words “prescribed” and “regulations”.
+
+[^f00002]: Footnote: [1975 c. 14](https://www.legislation.gov.uk/ukpga/1975/14); section 166(3A) was inserted by section 62(1) of the Social Security Act 1986 and section 166(1) to (3A) is applied by section 83(1) of that Act.
+
+[^f00003]: Footnote: See section 61(7) of the Social Security Act 1986.
+
+[^f00004]: Footnote: S.I. [1989/1321](https://www.legislation.gov.uk/uksi/1989/1321), to which there are amendments not relevant to these Regulations.
+
+[^f00005]: Footnote: S.I. [1987/1973](https://www.legislation.gov.uk/uksi/1987/1973), relevant amending instrument is S.I. [1989/1034](https://www.legislation.gov.uk/uksi/1989/1034).
+
+[^f00006]: Footnote: S.I. [1987/1971](https://www.legislation.gov.uk/uksi/1987/1971); relevant amending instruments are S.I. [1988/1971](https://www.legislation.gov.uk/uksi/1988/1971) and [1989/1017](https://www.legislation.gov.uk/uksi/1989/1017).
+
+[^f00007]: Footnote: S.I. [1987/1967](https://www.legislation.gov.uk/uksi/1987/1967); relevant amending instruments are S.I. [1988/2022](https://www.legislation.gov.uk/uksi/1988/2022) and [1989/1034](https://www.legislation.gov.uk/uksi/1989/1034) and [1323](https://www.legislation.gov.uk/uksi/1989/1323).
+
+[^f00008]: Footnote: S.I. [1983/1598](https://www.legislation.gov.uk/uksi/1983/1598); relevant amending instrument is S.I. [1986/1011](https://www.legislation.gov.uk/uksi/1986/1011).
+
+[^f00009]: Footnote: [1990 c. 6](https://www.legislation.gov.uk/ukpga/1990/6).
+
+[^f00010]: Footnote: [1944 c. 31](https://www.legislation.gov.uk/ukpga/1944/31).
+
+[^f00011]: Footnote: [1988 c. 40](https://www.legislation.gov.uk/ukpga/1988/40).
+
+[^f00012]: Footnote: [1980 c. 44](https://www.legislation.gov.uk/ukpga/1980/44).
+
+[^key-5adaeac1f0c18fc9a75a27bc138b1d55]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/1990/1549/regulation/4) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
+
+[^M_F_cac19f70-d478-4b0d-9749-c47dc62fe902]: Textual amendment: Reg. 5(3) revoked (7.10.1996 with effect in accordance with reg. 1(2) of the amending S.I.) by [The Income Support (General) (Jobseeker’s Allowance Consequential Amendments) Regulations 1996 (S.I. 1996/206)](https://www.legislation.gov.uk/uksi/1996/206), [regs. 1](https://www.legislation.gov.uk/uksi/1996/206/regulation/1), [Sch. 3](https://www.legislation.gov.uk/uksi/1996/206/schedule/3)
+
+[^M_F_daa741b2-a016-43c4-f5bf-4927c11732b4]: Textual amendment: Reg. 5(8) revoked (7.10.1996 with effect in accordance with reg. 1(2) of the amending S.I.) by [The Income Support (General) (Jobseeker’s Allowance Consequential Amendments) Regulations 1996 (S.I. 1996/206)](https://www.legislation.gov.uk/uksi/1996/206), [regs. 1](https://www.legislation.gov.uk/uksi/1996/206/regulation/1), [Sch. 3](https://www.legislation.gov.uk/uksi/1996/206/schedule/3)
+
+[^key-43d684cf4334e654dc05fa334d6cdc2d]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/uksi/1990/1549/regulation/6) revoked (7.10.1996) by [The Social Security and Child Support (Jobseeker’s Allowance) (Consequential Amendments) Regulations 1996 (S.I. 1996/1345)](https://www.legislation.gov.uk/uksi/1996/1345), [regs. 1](https://www.legislation.gov.uk/uksi/1996/1345/regulation/1), [27](https://www.legislation.gov.uk/uksi/1996/1345/regulation/27), [Sch.](https://www.legislation.gov.uk/uksi/1996/1345/schedule)
+
+[^key-0be3e3fe9013d1a0a75b15b1248b7a39]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/uksi/1990/1549/regulation/7) revoked in part (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))

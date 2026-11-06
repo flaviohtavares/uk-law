@@ -1,0 +1,431 @@
+---
+title: The Magistrates’ Courts (Freezing and Forfeiture of Terrorist Money in Bank and Building Society Accounts) Rules 2017
+id: uksi/2017/1290
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2017-12-11'
+text_date: '2024-11-07'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2017/1290
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2017/1290/pdfs/uksiem_20171290_en.pdf
+- http://www.legislation.gov.uk/uksi/2017/1290/pdfs/uksi_20171290_en.pdf
+- http://www.legislation.gov.uk/uksi/2017/1290/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Magistrates’ Courts (Freezing and Forfeiture of Terrorist Money in Bank and Building Society Accounts) Rules 2017
+
+> Text as at 2024-11-07.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2017 No. 1290 (L. 22)
+
+Magistrates’ Courts, England And Wales
+
+Procedure
+
+The Magistrates’ Courts (Freezing and Forfeiture of Terrorist Money in Bank and Building Society Accounts) Rules 2017
+
+Made
+
+11th December 2017
+
+Laid before Parliament
+
+18th December2017
+
+Coming into force
+
+31st January 2018
+
+The Lord Chief Justice, with the concurrence of the Lord Chancellor, makes the following Rules in exercise of the powers conferred by section 144 of the Magistrates’ Courts Act 1980[^f00001]:
+
+## 1. Citation and Commencement[^key-b56a427bb412bf3834f8ed2a893133c1]
+
+These Rules may be cited as the Magistrates’ Courts (Freezing and Forfeiture of Terrorist Money in Bank and Building Society Accounts) Rules 2017, and come into force on 31st January 2018.
+
+## 2. Interpretation[^key-7cb273c07d0eeeb2fbbcacd2958066dd]
+
+In these Rules—
+
+- (a) “the Act” means the Anti-terrorism, Crime and Security Act 2001[^f00002], and “Schedule 1” means Schedule 1 to the Act;
+- (b) “document” includes any notification required to be given under these Rules;
+- (c) “electronic communication” has the meaning given by section 15(1) of the Electronic Communications Act 2000[^f00003];
+- (ca)[^key-2564d4219014017ba5490d01694ad3b2] “**freezing order**” means an order made under—
+  - (i) paragraph 10S(2) of Schedule 1 (account freezing orders);
+  - (ii) paragraph 10Z7BB(2) of Schedule 1 (crypto wallet freezing orders);
+- (cb) “**order for further detention**” means an order made under—
+  - (i) paragraph 3(2) of Schedule 1 (further detention of seized cash);
+  - (ii) paragraph 10D(1) of Schedule 1 (further detention of seized property);
+  - (iii) paragraph 10Z7AC(1) or (4) of Schedule 1 (further detention of cryptoasset-related items);
+  - (iv) paragraph 10Z7AG(1) or (4) (further detention of cryptoassets);
+- (d) words and expressions used have the same meaning as in Schedule 1 to the Act.
+
+## 3. Applications for an account freezing order[^key-4deaf708d51a23a2d0e924293f08e97f]
+
+(1) An application under paragraph 10Q(2) of Schedule 1 for an order under paragraph 10S(2) of Schedule 1 must be made in writing and may be sent to the court before which the applicant wishes to make the application.
+
+(2) But where the reasonable grounds for suspicion which led to an application under paragraph 10Q(2) of Schedule 1 are connected to—
+
+- (a) the reasonable grounds for suspicion which led to the seizure of cash or property to which a previous order for further detention[^key-d8f2feedf230412f8ce86ac34e136fb3] relates; or
+- (b) the reasonable grounds for suspicion which led to the making of a previous freezing order[^key-cd4148916ae223c69116a1d21b164bf1], then the application must specify the connection to any such previous order and may be sent to any court which made a previous order listed in sub-paragraph (a) or (b).
+
+(3) Unless the application under paragraph 10Q(2) of Schedule 1 is made without notice, a copy of the written application and notification of the hearing of the application must be given by the applicant to any person by or for whom the account which is the subject of the application is operated.
+
+(4) But the applicant is not required to send copies of the written application and notification of the hearing to any person by or for whom the account is operated who cannot be identified.
+
+(5) Where paragraph (4) applies, the court shall not decline to hear an application solely on the ground that it has not been proved that any person by or for whom the account which is the subject of the application is operated has received a copy of the written application and notification of the hearing.
+
+(6) The applicant must inform the court of any person known to be affected by the order, as soon as practicable after that person is so identified.
+
+(7) The court must give—
+
+- (a) notice of the order; and
+- (b) a copy of the order,
+
+to any person by or for whom the account which is the subject of the application is operated and to any other person known to be affected by the order, including the relevant financial institution[^key-d16e74f3bf3a0a3b0399d43d803f6000].
+
+## 4. Application for the variation or setting aside of an account freezing order[^key-d7b984b17887044f305c203c36bbaa46]
+
+(1) An application under paragraph 10T(1) of Schedule 1 to vary or set aside an account freezing order under paragraph 10S(2) of Schedule 1 must be made in writing and sent to the court before which the applicant wishes to make the application, and must specify the grounds on which it is made.
+
+(2) But if the applicant has been given notice of an order under paragraph 10S(2) of Schedule 1 in respect of the account, then the application must be sent to the court which sent the applicant that notice.
+
+(3) The court must send a copy of the application to the enforcement officer who applied for the account freezing order and to every person to whom notice of a previous related order made under paragraph 10S(2) or 10T(1) of Schedule 1 has been given.
+
+(4) The court must fix a date for the hearing of the application, which, unless directed otherwise, shall not be earlier than seven days from the date on which it is fixed, and must notify that date to the applicant, the enforcement officer and to every person to whom notice of an order made under paragraph 10S(2) or 10T(1) of Schedule 1 has been given.
+
+(5) At the hearing of an application under paragraph 10T(1) of Schedule 1, the court may, if it thinks fit, order that the applicant be joined as a party to all the proceedings in relation to the account which is the subject of an order under paragraph 10S(2) of Schedule 1.
+
+(6) The court must give a copy of the order to every person to whom notice of the previous related orders has been given.
+
+(7) The court must also give—
+
+- (a) notice of the order; and
+- (b) a copy of the order,
+
+to any person other than one referred to in paragraph (4) who is known to be affected by the order.
+
+## 4A. Application for the release of frozen money[^key-222051a9b3bc5fde7f811bf7d1dd996c]
+
+(1) An application under paragraph 10Z6A(1) of Schedule 1 for the release of money in respect of which an account freezing order has effect must be made in writing and sent to the court before which the applicant wishes to make the application, and must specify the grounds on which it is made.
+
+(2) But if the applicant has been given notice of an order under paragraph 10S(2) of Schedule 1 in respect of the account which is the subject of the application, then the application must be sent to the court which sent the applicant that notice.
+
+(3) The court must send a copy of the application to every person to whom notice of the account freezing order has been given.
+
+(4) The court must fix a date for the hearing of the application, which, unless directed otherwise, must not be earlier than seven days from the date on which it is fixed, and must notify that date to the applicant and to every person to whom a copy of the application is required to be sent under paragraph (3).
+
+(5) At the hearing of an application under paragraph 10Z6A(1) of Schedule 1 the court may, if it thinks fit, order that the application be heard with any other relevant proceedings in relation to the property which is the subject of the application.
+
+(6) An order under paragraph 10Z6A(3) or (4) of Schedule 1 must provide for the release of the money within seven days of the making of the order or such longer period as with the agreement of the applicant may be specified in the order, except that money may not be released whilst paragraph 10Z6A(7) of Schedule 1 applies.
+
+## 5. Application for forfeiture of frozen money[^key-6358834e9f6fd68576941ceffab054db]
+
+(1) An application under paragraph 10Z2(2) of Schedule 1 for the forfeiture of money held in a frozen account must be made in writing and may be sent to the court to which applications for orders to freeze accounts under paragraph 10S(2) of Schedule 1 have been sent.
+
+(2) But where the reasonable grounds for suspicion which led to the application under paragraph 10Z2(2) of Schedule 1 are connected to the reasonable grounds for suspicion which led to the seizure of cash or other property to which a previous order for further detention[^key-a10f50b4450c70bae664eb7262d40e66] relates—
+
+- (a) the application under paragraph 10Z2(2) of Schedule 1 must specify the connection to any such previous order; and
+- (b) the application under paragraph 10Z2(2) of Schedule 1 may be sent to any court which made such a previous order.
+
+(3) The applicant must send a copy of the application to every person to whom notice of an order made under paragraph 10S(2) of Schedule 1 has been given and to any other person identified by the court as being affected by the application.
+
+(4) The court shall fix a date for a directions hearing, which unless the court[^key-222055ecf5f62cd3b95c93a96011d9a3] directs otherwise shall not be earlier than seven days from the date on which it is fixed, and must notify that date to the applicant and every person to whom a copy of the application is required to be sent under paragraph (3).
+
+(5) At the directions hearing, the court may give directions relating to the management of the proceedings, including directions as to the date for the hearing of the application.
+
+(6) If neither the persons by or for whom the frozen account is operated, nor any other person who is affected by the account freezing order, seeks to contest the application, the court may decide the application at the directions hearing.
+
+(7) A copy of an order for the forfeiture of money held in a frozen account under paragraph 10Z2(3) of Schedule 1 must be given by the court to every person to whom notice of an order made under paragraph 10S(2) of Schedule 1 in respect of the frozen account been given and to any other person known to be affected by the order.
+
+## 6. Application to set aside forfeiture[^key-ac0f80fde3031297bedd711918a9fe01]
+
+(1) An application under paragraph 10Z(1) of Schedule 1 for the setting aside of forfeiture of money forfeited in pursuance of an account forfeiture notice must be made in writing and may be sent to the court before which the applicant wishes to make the application.
+
+(2) But if the applicant has been given notice of an order under paragraph 10S(2) of Schedule 1 in respect of the account in which the money is held, then the application must be sent to the court which sent the applicant that notice.
+
+(3) The court must send a copy of the application to the enforcement officer who applied for the account freezing order, to every person to whom notice of an order made under paragraph 10S(2) of Schedule 1 has been given and to the Director of Public Prosecutions, where the Director has given notification under rule 7.
+
+(4) The court shall fix a date for the hearing of the application, which, unless directed otherwise, shall not be earlier than seven days from the date on which it is fixed, and must notify that date to the applicant and to every person to whom a copy of the application is required to be sent under paragraph (3).
+
+(5) An order under paragraph 10Z(6)(a) of Schedule 1 must provide for the release of the money within seven days of the date of the making of the order, or such longer period as, with the agreement of the applicant, may be specified.
+
+## 7. Director of Public Prosecutions appearing in proceedings[^key-d8f7b9f52ebac87f19dcf0d680590c86]
+
+Where the Director of Public Prosecutions has agreed under paragraph 10Z9 of Schedule 1[^f00004] to appear in proceedings under Schedule 1 for—
+
+- (a) a constable;
+- (b) a counter-terrorism financial investigator;
+- (c) the Commissioners for Her Majesty’s Revenue and Customs;
+- (d) an officer of Revenue and Customs; or
+- (e) an immigration officer,
+
+the Director must notify the [^key-6565cfca4793327fdb7017a0c866ffda]... court which is dealing with the proceedings if the Director wants documents given under these Rules to be given also to the Director.
+
+## 8. Application for compensation[^key-22c8db0546a440a39ed38079ad62a7d9]
+
+(1) An application under paragraph 10Z7 of Schedule 1 for compensation must be made in writing and sent to the court before which the applicant wishes to make the application, and must specify the grounds on which it is made.
+
+(2) But if the applicant has been given notice of an order under paragraph 10S(2) of Schedule 1 in respect of the frozen account holding the money which is the subject of the application, then the application shall be sent to the court which sent the applicant that notice.
+
+(3) The court must send a copy of the application to—
+
+- (a) the Commissioners for Her Majesty’s Revenue and Customs, if the money to which the application relates was subject to an account freezing order obtained by an officer of Revenue and Customs;
+- (b) the police force to which the constable belongs, if the money to which the application relates was subject to an account freezing order obtained by a constable;
+- (c) the police force of which the counter-terrorism financial officer is a member of staff, if the money to which the application relates was subject to an account freezing order obtained by a counter-terrorism financial investigator;
+- (d) the Secretary of State, if the money to which the application relates was subject to an account freezing order obtained by an immigration officer; and
+- (e) every person to whom notice of the order made under paragraph 10D(1) of Schedule 1 has been given.
+
+(4) The court must fix a date for the hearing of the application, which, unless directed otherwise, shall not be earlier than seven days from the date on which it is fixed, and must notify the date to the applicant and every person to whom a copy of the application is required to be sent under paragraph (3).
+
+## 9. Giving of documents[^key-911f7bcae9b9ec2af6fdd156c7f837c6]
+
+(1) Any document required to be given to any person under these Rules may be given—
+
+- (a) by post in accordance with rule 10;
+- (b) by means of electronic communication in accordance with rule 11; or
+- (c) by any method authorised by the court under rule 12.
+
+(2) If any document is given to a person in accordance with paragraph (1), it is deemed to have been received by that person unless the contrary is shown.
+
+## 10. Giving documents by post[^key-632d4347ab2f387db4c3e74f45acb901]
+
+(1) In order to give a document by post to a person (other than to the court), it must be sent by properly addressing, pre-paying and posting to an address which has been given by that person for the purpose of receipt of documents under these Rules.
+
+(2) If no address has been given as is mentioned in paragraph (1), the document must be sent to an address which is shown in the following table.
+
+<table>
+<thead>
+<tr><th>Person to whom document is to be given</th><th>Address</th></tr>
+</thead>
+<tfoot>
+<tr><td colspan="2">(1)<br><a href="https://www.legislation.gov.uk/ukpga/2000/12">2000 c.12</a>. “Limited Liability Partnership” is defined in section 1(2).</td></tr>
+</tfoot>
+<tbody>
+<tr><td>1. Individual</td><td>Last known residential address</td></tr>
+<tr><td>2. Individual in their business capacity</td><td>Last known residential address of the individual; or principal or last known place of business</td></tr>
+<tr><td>3. Individual in their capacity as a partner in a partnership</td><td>Last known residential address of the individual; or principal or last known place of business of the partnership</td></tr>
+<tr><td>4. Limited Liability Partnership (within the meaning of the Limited Liability Partnerships Act 2000)</td><td>Principal office of the partnership; or any place of business of the partnership</td></tr>
+<tr><td>5. Corporation (other than a company)</td><td>Principal office of the corporation; or any place where the corporation carries on its activities</td></tr>
+<tr><td>6. Company</td><td>Principal office of the company; or any place of business of the company</td></tr>
+</tbody>
+</table>
+
+[^f01000]
+
+(3) Unless the contrary is shown, the document is to be deemed as having been given to the person on the second day after it was posted, provided that day is a business day; or if not, the next business day after that day.
+
+## 11. Giving documents by means of electronic communication[^key-cae51c0418f455d9c8dcc9188d41c9c8]
+
+(1) In order to give a document by fax, email or other means of electronic communication, the intended recipient of the document must previously have indicated in writing to the person giving the document—
+
+- (a) that they are willing to accept service of documents for the purposes of these Rules by that means of electronic communication; and
+- (b) the fax number, e-mail address or other electronic identification to which documents must be sent.
+
+(2) Where a person intends to give a document by means of electronic communication (other than by fax), that person must first ask the intended recipient whether there are any limitations to their agreement to accept service by such means (for example, the format in which documents are to be sent and the maximum size of attachments that may be received).
+
+(3) Giving a document by means of electronic communication is effected by sending or transmitting the document in accordance with the written indication given by the intended recipient under paragraph (1), having complied with any limitations specified by the intended recipient under paragraph (2).
+
+(4) The document is to be treated as having been given on the day on which it is sent or transmitted if the electronic communication containing it is sent or transmitted before 4.30pm. If the electronic communication is sent or transmitted after 4.30pm, the document is to be treated as having been given the following day.
+
+(5) Where a document is given by electronic means, the person giving the document need not in addition send or deliver a hard copy.
+
+## 12. Giving of documents by an alternative method or at an alternative place[^key-64e5f81a7246e150ef8d66dabcc3e958]
+
+(1) Where it appears to the court that there is a good reason to authorise the giving of a document by a method or at a place not otherwise permitted by these Rules, the court may make an order permitting the giving of a document by an alternative method or at an alternative place.
+
+(2) On an application under this rule, the court may order that steps already taken to give the document to a person by an alternative method or at an alternative place constitute the giving of that document under these Rules.
+
+(3) An application for an order under this rule—
+
+- (a) must be supported by evidence; and
+- (b) may be made without notice.
+
+(4) An order under this rule must specify—
+
+- (a) the method by which the document may be given, if it is not a method permitted by these Rules;
+- (b) the place at which the document may be given, if it is not a place permitted by these Rules; and
+- (c) the date on which the document is deemed to be given.
+
+## 13. Giving a document to a child or a protected person[^key-b12c9749755b6f83006927665500436b]
+
+(1) Where the intended recipient of a document is known to be a child who is not also a protected person, the document must be given to the child and—
+
+- (a) one of the child’s parents or guardians; or
+- (b) if there is no parent or guardian, an adult with whom the child resides or in whose care the child is.
+
+(2) Where the intended recipient of a document is known to be a protected person, the document must be given to the protected person and—
+
+- (a) where the protected person is resident in England and Wales, to one of the following persons—
+  - (i) the attorney under a registered enduring power of attorney which relates to the protected person;
+  - (ii) the donee of a lasting power of attorney which relates to the protected person; or
+  - (iii) the deputy appointed in relation to the protected person by the Court of Protection;
+- (b) where the protected person is resident in Northern Ireland, to one of the following persons—
+  - (i) the attorney under a registered enduring power of attorney which relates to the protected person;
+  - (ii) the controller appointed in relation to the protected person by the Office of Care and Protection;
+- (c) where the protected person is resident in Scotland, to one of the following persons—
+  - (i) the continuing attorney under a continuing power of attorney which relates to the protected person;
+  - (ii) the welfare attorney under a welfare power of attorney which relates to the protected person;
+  - (iii) the person authorised under an intervention order in respect of the protected person;
+  - (iv) the person authorised under a guardianship order in respect of the protected person;
+  - (v) the person authorised under a withdrawal certificate in respect of the protected person; or
+- (d) if in any case under sub-paragraph (a), (b) or (c) there is no such person, to an adult with whom the protected person resides or in whose care the protected person is.
+
+(3) Any reference in these Rules to a person to whom a document is to be given includes the person to be given documents on behalf of a child or protected person under paragraph (1) or (2).
+
+(4) The court may make an order permitting a document to be given to a child or protected person, or to a person other than the person specified in paragraph (1) or (2), and an application for such an order may be made without notice.
+
+(5) In this rule—
+
+- (a) “child” means a person under 18 years; and
+- (b) “protected person” means—
+  - (i) in relation to England and Wales, a person who lacks capacity (within the meaning of the Mental Capacity Act 2005[^f00005]) to understand the nature of forfeiture proceedings;
+  - (ii) in relation to Northern Ireland, a person who is 16 years or over who lacks capacity to understand the nature of forfeiture proceedings because of an impairment of, or a disturbance in the functioning of, the mind or brain;
+  - (iii) in relation to Scotland, a person who is incapable, within the meaning of the Adults with Incapacity (Scotland) Act 2000[^f00006], of understanding the nature of forfeiture proceedings.
+
+## 14. Giving of documents to persons outside the United Kingdom[^key-fcf37b7da64597a77334f29ff7ec79db]
+
+(1) If a document is to be given to a person who resides outside the United Kingdom, the document must be given in accordance with the terms of any relevant declaration.
+
+(2) In this rule, “relevant declaration” means—
+
+- (a) a declaration made in accordance with Article 31(2) of the Council of Europe Convention on Laundering, Search, Seizure and Confiscation of the Proceeds from Crime and on the Financing of Terrorism agreed at Warsaw on 16th May 2005[^f00007] that judicial documents may not be sent directly to persons abroad by postal channels; or
+- (b) a declaration made in accordance with Article 21(2) of the Council of Europe Convention on Laundering, Search, Seizure and Confiscation of the Proceeds from Crime agreed at Strasbourg on 8th November 1990[^f00008] that judicial documents may not be sent directly to persons abroad by postal channels.
+
+## 15. Transfer of proceedings[^key-3894516fd73302bed1080732d97b47bc]
+
+(1) Any person who is a party to, or affected by, proceedings to which these Rules apply may, at any time, make an application to the court dealing with the matter for the proceedings to be transferred to a different magistrates’ court.
+
+(2) Any such application must be made in writing and sent to the court in which the proceedings are being dealt with and must specify the grounds on which it is made.
+
+(3) The court must send a copy of the application to the parties to the proceedings and any other person affected by the proceedings.
+
+(4) The court must fix a date for the hearing of the application, which, unless directed otherwise, shall not be earlier than seven days from the date on which it is fixed, and must notify the date to the application and every person to whom a copy of the application is required to be sent under paragraph (3).
+
+(5) The court may grant the application if it is satisfied that it would be more convenient or fairer for proceedings to be transferred to a different court.
+
+(6) If the application is granted—
+
+- (a) the court must give a copy of the order to the parties to the proceedings and any other person affected by the proceedings;
+- (b) the court must send all relevant papers to the court to which proceedings are transferred;
+- (c) any further proceedings to which these Rules apply in respect of the property to which the proceedings relate shall be dealt with in the court to which proceedings are transferred;
+- (d) any requirement under these Rules to make or send an application to the court shall be read as a requirement to make or send an application to the court to which proceedings are transferred.
+
+## 16. Procedure at hearings[^key-21077624372323b5a1bfc922c55b2590]
+
+(1) At the hearing of an application under Part 4B of Schedule 1 to the Act, any person to whom notice of the application has been given may attend and be heard on the question of whether the application should be granted, but the fact that any such person does not attend shall not prevent the court from hearing the application.
+
+(2) Subject to the foregoing provisions of these Rules, proceedings on such an application shall be regulated in the same manner as proceedings on a complaint, and accordingly for the purposes of these Rules, the application shall be deemed to be a complaint, the applicant a complainant, the respondents to be defendants and any notice given under rules 4(4), 5(4), 6(4), 8(4) or 15(4) to be a summons: but nothing in this rule shall be construed as enabling a warrant of arrest to be issued for failure to appear in answer to any such notice.
+
+(3) At the hearing of an application under Part 4B of Schedule 1, the court must require the matters contained in the application to be sworn by the applicant under oath, may require the applicant to answer any questions under oath and may require any response from the respondent to the application to be made under oath.
+
+(4) The court must record or cause to be recorded the substance of any statements made under oath which are not already recorded in the written application.
+
+Ian Burnett
+
+Lord Chief Justice
+
+8th December 2017
+
+I concur
+
+Dominic Raab
+
+Minister of State
+
+Ministry of Justice
+
+11th December 2017
+
+EXPLANATORY NOTE
+
+(This note is not part of the Rules)
+
+These Rules prescribe the procedure to be followed for applications to a magistrates’ court for orders under Part 4B of Schedule 1 to the Anti-terrorism, Crime and Security Act [2001 (c. 24)](https://www.legislation.gov.uk/ukpga/2001/24) (“ATCSA”). Part 4B of Schedule 1 to ATCSA was inserted by Schedule 4 to the Criminal Finances Act [2017 (c.22)](https://www.legislation.gov.uk/ukpga/2017/22), and makes provision for the forfeiture of terrorist funds held in bank and building society accounts. These Rules provide the relevant procedure for:
+
+- Applications for account freezing orders (see paragraph 10Q of Schedule 1 to ATCSA)
+- Applications to vary or set aside an account freezing order (see paragraph 10T of Schedule 1 to ATCSA)
+- Application to set aside an administrative forfeiture (see paragraph 10Z of Schedule 1 to ATCSA)
+- Applications for a forfeiture order (see see paragraph 10Z2 of Schedule 1 to ATCSA)
+- Applications for compensation where no forfeiture order is made (see paragraph 10Z7 of Schedule 1 to ATCSA).
+
+A full impact assessment has not been produced for this instrument as no, or no significant, impact on the private, voluntary or public sectors is foreseen.
+
+## Annotations
+
+[^f00001]: Footnote: [1980 c. 43](https://www.legislation.gov.uk/ukpga/1980/43). Section 144 has been amended by section 109(1) and paragraphs 245(1), (2), (5) of Schedule 8 and Schedule 10 to the Courts Act 2003; section 15(1) and paragraphs 99, 102(1), (2), (3)(a), (3)(b), (4) and (6) of Schedule 4 to the Constitutional Reform Act 2005; section 208(1) and paragraphs 42, 43(b) of Schedule 21 to the Legal Services Act 2007; Article 3(2) and paragraphs 1(1), (2) – (6) of Schedule 2 to [SI 2012/2398](https://www.legislation.gov.uk/uksi/2012/2398) and section 17(6) and paragraphs 39, 52 and 99 of Schedule 10 to the Crime and Courts Act 2013.
+
+[^key-b56a427bb412bf3834f8ed2a893133c1]: Commencement: [Rule 1](https://www.legislation.gov.uk/uksi/2017/1290/article/1) in force at 31.1.2018, see [rule 1](https://www.legislation.gov.uk/uksi/2017/1290/article/1)
+
+[^key-7cb273c07d0eeeb2fbbcacd2958066dd]: Commencement: [Rule 2](https://www.legislation.gov.uk/uksi/2017/1290/article/2) in force at 31.1.2018, see [rule 1](https://www.legislation.gov.uk/uksi/2017/1290/article/1)
+
+[^f00002]: Footnote: [2001 c.24](https://www.legislation.gov.uk/ukpga/2001/24). Parts 4A and 4B (comprising paragraphs 10A to 10Z7) of Schedule 1 were inserted by section 39 of, and Schedule 3 to, the Criminal Finances Act [2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22).
+
+[^f00003]: Footnote: [2000 c. 7](https://www.legislation.gov.uk/ukpga/2000/7). Section 15(1) is amended by section 406 of, and paragraph 158 of Schedule 17 to, the Communications Act [2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21).
+
+[^key-2564d4219014017ba5490d01694ad3b2]: Textual amendment: [Rule 2(ca)](https://www.legislation.gov.uk/uksi/2017/1290/article/2/ca)[(cb)](https://www.legislation.gov.uk/uksi/2017/1290/article/2/cb) inserted (7.11.2024) by [The Magistrates’ Courts (Detention, Freezing and Forfeiture of Terrorist Cryptoassets, and Miscellaneous Amendments) Rules 2024 (S.I. 2024/1042)](https://www.legislation.gov.uk/uksi/2024/1042), [rules 1(1)](https://www.legislation.gov.uk/uksi/2024/1042/rule/1/1), [25(2)](https://www.legislation.gov.uk/uksi/2024/1042/rule/25/2)
+
+[^key-4deaf708d51a23a2d0e924293f08e97f]: Commencement: Rule 3 in force at 31.1.2018, see [rule 1](https://www.legislation.gov.uk/uksi/2017/1290/article/1)
+
+[^key-d8f2feedf230412f8ce86ac34e136fb3]: Textual amendment: Words in [rule 3(2)(a)](https://www.legislation.gov.uk/uksi/2017/1290/article/3/2/a) substituted (7.11.2024) by [The Magistrates’ Courts (Detention, Freezing and Forfeiture of Terrorist Cryptoassets, and Miscellaneous Amendments) Rules 2024 (S.I. 2024/1042)](https://www.legislation.gov.uk/uksi/2024/1042), [rules 1(1)](https://www.legislation.gov.uk/uksi/2024/1042/rule/1/1), [25(3)(a)](https://www.legislation.gov.uk/uksi/2024/1042/rule/25/3/a)
+
+[^key-cd4148916ae223c69116a1d21b164bf1]: Textual amendment: Words in [rule 3(2)(b)](https://www.legislation.gov.uk/uksi/2017/1290/article/3/2/b) substituted (7.11.2024) by [The Magistrates’ Courts (Detention, Freezing and Forfeiture of Terrorist Cryptoassets, and Miscellaneous Amendments) Rules 2024 (S.I. 2024/1042)](https://www.legislation.gov.uk/uksi/2024/1042), [rules 1(1)](https://www.legislation.gov.uk/uksi/2024/1042/rule/1/1), [25(3)(b)](https://www.legislation.gov.uk/uksi/2024/1042/rule/25/3/b)
+
+[^key-d16e74f3bf3a0a3b0399d43d803f6000]: Textual amendment: Words in rule 3(7) substituted (28.6.2021) by [The Magistrates’ Courts (Amendment No. 2) Rules 2021 (S.I. 2021/626)](https://www.legislation.gov.uk/uksi/2021/626), [rules 1(1)](https://www.legislation.gov.uk/uksi/2021/626/rule/1/1), [3](https://www.legislation.gov.uk/uksi/2021/626/rule/3)
+
+[^key-d7b984b17887044f305c203c36bbaa46]: Commencement: [Rule 4](https://www.legislation.gov.uk/uksi/2017/1290/article/4) in force at 31.1.2018, see [rule 1](https://www.legislation.gov.uk/uksi/2017/1290/article/1)
+
+[^key-222051a9b3bc5fde7f811bf7d1dd996c]: Textual amendment: [Rule 4A](https://www.legislation.gov.uk/uksi/2017/1290/rule/4A) inserted (7.11.2024) by [The Magistrates’ Courts (Detention, Freezing and Forfeiture of Terrorist Cryptoassets, and Miscellaneous Amendments) Rules 2024 (S.I. 2024/1042)](https://www.legislation.gov.uk/uksi/2024/1042), [rules 1(1)](https://www.legislation.gov.uk/uksi/2024/1042/rule/1/1), [25(4)](https://www.legislation.gov.uk/uksi/2024/1042/rule/25/4)
+
+[^key-6358834e9f6fd68576941ceffab054db]: Commencement: [Rule 5](https://www.legislation.gov.uk/uksi/2017/1290/article/5) in force at 31.1.2018, see [rule 1](https://www.legislation.gov.uk/uksi/2017/1290/article/1)
+
+[^key-a10f50b4450c70bae664eb7262d40e66]: Textual amendment: Words in [rule 5(2)](https://www.legislation.gov.uk/uksi/2017/1290/article/5/2) substituted (7.11.2024) by [The Magistrates’ Courts (Detention, Freezing and Forfeiture of Terrorist Cryptoassets, and Miscellaneous Amendments) Rules 2024 (S.I. 2024/1042)](https://www.legislation.gov.uk/uksi/2024/1042), [rules 1(1)](https://www.legislation.gov.uk/uksi/2024/1042/rule/1/1), [25(5)](https://www.legislation.gov.uk/uksi/2024/1042/rule/25/5)
+
+[^key-222055ecf5f62cd3b95c93a96011d9a3]: Textual amendment: Word in [rule 5(4)](https://www.legislation.gov.uk/uksi/2017/1290/rule/5/4) substituted (12.11.2019) by [The Magistrates’ Courts (Proceeds of Crime Act 2002 (External Requests and Orders) Order 2005, Part 5A, and Miscellaneous Amendments) Rules 2019 (S.I. 2019/1368)](https://www.legislation.gov.uk/uksi/2019/1368), [rules 1(1)](https://www.legislation.gov.uk/uksi/2019/1368/rule/1/1), [17(3)(a)](https://www.legislation.gov.uk/uksi/2019/1368/rule/17/3/a)
+
+[^key-ac0f80fde3031297bedd711918a9fe01]: Commencement: [Rule 6](https://www.legislation.gov.uk/uksi/2017/1290/article/6) in force at 31.1.2018, see [rule 1](https://www.legislation.gov.uk/uksi/2017/1290/article/1)
+
+[^key-d8f7b9f52ebac87f19dcf0d680590c86]: Commencement: [Rule 7](https://www.legislation.gov.uk/uksi/2017/1290/article/7) in force at 31.1.2018, see [rule 1](https://www.legislation.gov.uk/uksi/2017/1290/article/1)
+
+[^f00004]: Footnote: Paragraph 10Z9 was inserted by paragraph 16(15) of Schedule 5 to the Criminal Finances Act [2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22).
+
+[^key-6565cfca4793327fdb7017a0c866ffda]: Textual amendment: Words in [rule 7](https://www.legislation.gov.uk/uksi/2017/1290/rule/7) omitted (12.11.2019) by virtue of [The Magistrates’ Courts (Proceeds of Crime Act 2002 (External Requests and Orders) Order 2005, Part 5A, and Miscellaneous Amendments) Rules 2019 (S.I. 2019/1368)](https://www.legislation.gov.uk/uksi/2019/1368), [rules 1(1)](https://www.legislation.gov.uk/uksi/2019/1368/rule/1/1), [17(3)(b)](https://www.legislation.gov.uk/uksi/2019/1368/rule/17/3/b)
+
+[^key-22c8db0546a440a39ed38079ad62a7d9]: Commencement: [Rule 8](https://www.legislation.gov.uk/uksi/2017/1290/article/8) in force at 31.1.2018, see [rule 1](https://www.legislation.gov.uk/uksi/2017/1290/article/1)
+
+[^key-911f7bcae9b9ec2af6fdd156c7f837c6]: Commencement: [Rule 9](https://www.legislation.gov.uk/uksi/2017/1290/article/9) in force at 31.1.2018, see [rule 1](https://www.legislation.gov.uk/uksi/2017/1290/article/1)
+
+[^key-632d4347ab2f387db4c3e74f45acb901]: Commencement: [Rule 10](https://www.legislation.gov.uk/uksi/2017/1290/article/10) in force at 31.1.2018, see [rule 1](https://www.legislation.gov.uk/uksi/2017/1290/article/1)
+
+[^f01000]: Footnote: (1)
+
+    [2000 c.12](https://www.legislation.gov.uk/ukpga/2000/12). “Limited Liability Partnership” is defined in section 1(2).
+
+[^key-cae51c0418f455d9c8dcc9188d41c9c8]: Commencement: [Rule 11](https://www.legislation.gov.uk/uksi/2017/1290/article/11) in force at 31.1.2018, see [rule 1](https://www.legislation.gov.uk/uksi/2017/1290/article/1)
+
+[^key-64e5f81a7246e150ef8d66dabcc3e958]: Commencement: [Rule 12](https://www.legislation.gov.uk/uksi/2017/1290/article/12) in force at 31.1.2018, see [rule 1](https://www.legislation.gov.uk/uksi/2017/1290/article/1)
+
+[^key-b12c9749755b6f83006927665500436b]: Commencement: [Rule 13](https://www.legislation.gov.uk/uksi/2017/1290/article/13) in force at 31.1.2018, see [rule 1](https://www.legislation.gov.uk/uksi/2017/1290/article/1)
+
+[^f00005]: Footnote: [2005 c. 9](https://www.legislation.gov.uk/ukpga/2005/9).
+
+[^f00006]: Footnote: [2000 asp 4](https://www.legislation.gov.uk/asp/2000/4).
+
+[^key-fcf37b7da64597a77334f29ff7ec79db]: Commencement: [Rule 14](https://www.legislation.gov.uk/uksi/2017/1290/article/14) in force at 31.1.2018, see [rule 1](https://www.legislation.gov.uk/uksi/2017/1290/article/1)
+
+[^f00007]: Footnote: Council of Europe Treaty Series 198.
+
+[^f00008]: Footnote: European Treaty Series 141.
+
+[^key-3894516fd73302bed1080732d97b47bc]: Commencement: [Rule 15](https://www.legislation.gov.uk/uksi/2017/1290/article/15) in force at 31.1.2018, see [rule 1](https://www.legislation.gov.uk/uksi/2017/1290/article/1)
+
+[^key-21077624372323b5a1bfc922c55b2590]: Commencement: [Rule 16](https://www.legislation.gov.uk/uksi/2017/1290/article/16) in force at 31.1.2018, see [rule 1](https://www.legislation.gov.uk/uksi/2017/1290/article/1)

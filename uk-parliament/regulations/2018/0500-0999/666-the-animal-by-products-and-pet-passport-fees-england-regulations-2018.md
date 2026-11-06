@@ -1,0 +1,174 @@
+---
+title: The Animal By-Products and Pet Passport Fees (England) Regulations 2018
+id: uksi/2018/666
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2018-05-24'
+text_date: '2023-07-01'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2018/666
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2018/666/pdfs/uksiem_20180666_en.pdf
+- http://www.legislation.gov.uk/uksi/2018/666/pdfs/uksi_20180666_en.pdf
+- http://www.legislation.gov.uk/uksi/2018/666/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Animal By-Products and Pet Passport Fees (England) Regulations 2018
+
+> Text as at 2023-07-01.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2018 No. 666
+
+Animals, England
+
+Animal Health
+
+The Animal By-Products and Pet Passport Fees (England) Regulations 2018
+
+Made
+
+24th May 2018
+
+Laid before Parliament
+
+1st June 2018
+
+Coming into force
+
+30th June 2018
+
+The Secretary of State, with the consent of the Treasury, makes these Regulations in exercise of powers conferred by section 56(1) and (2) of the Finance Act 1973[^f00001].
+
+## 1. Citation and commencement[^key-824f21aa08c8ee0f90088e1019b2d09d]
+
+These Regulations may be cited as the Animal By-Products and Pet Passport Fees (England) Regulations 2018 and come into force on 30th June 2018.
+
+## 2. Refund of fees[^key-15b5102bd8e3673afe0903da7d4d6742]
+
+(1) This regulation applies where an application for which a fee is payable under these Regulations is withdrawn before being determined.
+
+(2) The Secretary of State must refund such proportion of the fee paid in respect of that application as the Secretary of State thinks fit, having regard to any reasonable costs incurred by the Secretary of State in connection with the application.
+
+## 3. Animal by-products and derived products: fees[^key-f83da33e85941ff7db454ad33bb51779]
+
+(1) The fees payable to the Secretary of State for applications in connection with approval activities under Article 24 and 44 of the EU Control Regulation are to be determined in accordance with Table 1 of the Schedule.
+
+(2) The fees payable to the Secretary of State in connection with inspection activities under Article 20 of the Official Controls Regulation[^key-7b99f48dce4c8411af2af782a135495f] are to be determined in accordance with Table 2 of the Schedule.
+
+(3) Expressions used in the Schedule have the same meaning as in the EU Control Regulation.
+
+(4) In this regulation and in the Schedule—
+
+- “approval” includes a conditional approval under Article 44(2) of the EU Control Regulation;
+- “EU Control Regulation” means Regulation [(EC) No. 1069/2009](https://www.legislation.gov.uk/european/regulation/2009/1069) of the European Parliament and of the Council laying down health rules as regards animal by-products and derived products not intended for human consumption[^f00002];
+- “[^key-655e5d532d37a1da138e64df1661aa42]**Official Controls Regulation**” means Regulation (EU) 2017/625 of the European Parliament and of the Council of 15 March 2017 on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products;
+- “veterinary officer” means a veterinary surgeon employed by the Secretary of State.
+
+## 4. Pet passports: fees[^key-55a16884bd442f8e1ba73731f75fceb6]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Gardiner of Kimble
+
+Parliamentary Under Secretary of State
+
+Department for Environment, Food and Rural Affairs
+
+23rd May 2018
+
+We consent
+
+Andrew Stephenson
+
+Rebecca Harris
+
+Two of the Lords Commissioners of Her Majesty’s Treasury
+
+24th May 2018
+
+## SCHEDULE — Animal by-products and derived products: fees[^key-66039db5a3cb66f99db3e5c1f07b0f17]
+
+Regulation 3
+
+Table 1
+
+Fees payable by the operator of an establishment or plant for an application for approval or conditional approval under Articles 24 and 44 of the EU Control Regulation
+
+| Activity | Fee (£) for applications received on or after 1st July 2023 but before 1st July 2024 | Fee (£) for applications received on or after 1st July 2024 |
+| --- | --- | --- |
+| Time spent by a veterinary officer travelling to and from premises for the purpose of carrying out the activities identified in this Table and Table 2[^key-1b9567842adcebfe79ef571c8b2f386c] | 22 per quarter hour or part quarter hour spent up to a maximum of 132 | 22 per quarter hour or part quarter hour spent up to a maximum of 132 |
+| Time spent by an officer employed by the Secretary of State (other than a veterinary officer) travelling to and from premises for the purpose of carrying out the activities identified in this Table and Table 2 | 12 per quarter hour or part quarter hour spent up to a maximum of 72 | 12 per quarter hour or part quarter hour spent up to a maximum of 72 |
+| Consideration of an application for approval of a rendering plant that includes a site visit of up to 60 minutes | 2,134.50 | 2484 |
+| Consideration of an application for approval of an establishment or plant carrying out the transformation of animal by-products and/or derived products into compost that includes a site visit of up to 60 minutes | 1,147 | 1,343 |
+| Consideration of an application for approval of an establishment or plant carrying out the transformation of animal by-products and/or derived products into biogas that includes a site visit of up to 60 minutes | 1,147 | 1,343 |
+| Consideration of an application for approval of an establishment or plant carrying out the handling of animal by-products after their collection, by way of operations such as sorting, cutting, chilling, freezing, salting, removal of hides and skins, or removal of specified risk material, that includes a site visit of up to 60 minutes | 586 | 687 |
+| Consideration of an application for approval of an establishment or plant carrying out the storage of animal by-products or derived products that includes a site visit of up to 60 minutes | 586 | 687 |
+| Consideration of an application for approval of an incinerator plant that includes a site visit of up to 60 minutes | 476 | 557 |
+| Consideration of an application for approval of an establishment or plant manufacturing pet food that includes a site visit of up to 60 minutes | 476 | 557 |
+| Time spent by a veterinary officer for the purpose of carrying out activities identified in this Table after the first 60 minutes of a site visit to assess suitability for approval | 22 per quarter hour or part quarter hour spent | 22 per quarter hour or part quarter hour spent |
+| Time spent by an officer employed by the Secretary of State (other than a veterinary officer) for the purpose of the administration of additional visits and connected activities | 11 per quarter hour or part quarter hour spent | 11 per quarter hour or part quarter hour spent |
+| Additional administrative fee for production of invoices for additional visits and connected activities | 21 per invoice | 21 per invoice |
+
+Table 2
+
+Fees payable by the operator of an establishment or plant for inspection site visits undertaken under Article 20 of the Official Controls Regulation[^key-d5f2a8a84984d5c170bf2ee79cb8e4a1]
+
+| Activity | Fee (£) for inspection site visits undertaken on or after 1st July 2023 but before 1st July 2024 | Fee (£) for inspection site visits undertaken on or after 1st July 2024 |
+| --- | --- | --- |
+| Time spent by a veterinary officer of the Secretary of State for the purpose of an inspection site visit that lasts longer than 30 minutes[^key-05eaa9a1996e068683c93b18aab2aaa2] | 22 per quarter hour or part quarter hour spent | 22 per quarter hour or part quarter hour spent |
+| Time spent by an officer employed by the Secretary of State (other than a veterinary officer) for the purpose of an inspection site visit that lasts longer than 30 minutes | 12 per quarter hour or part quarter hour spent | 12 per quarter hour or part quarter hour spent |
+| Time spent organising an inspection site visit and dealing with any action points arising from the visit by an officer of the Secretary of State (other than a veterinary officer) | 11 per quarter hour or part quarter hour spent | 11 per quarter hour or part quarter hour spent |
+| Fee for the carrying out of the first 30 minutes of an inspection site visit where either an annual or biennial inspection of an approved or registered establishment or plant is required under the Official Controls Regulation[^key-bda8af036df8697f20eefb2f9f431348] | 188 per visit | 219 per visit |
+| Annual fee for the carrying out of the first 30 minutes of each of four inspection site visits to inspect an approved or registered establishment or plant where quarterly inspections are required under the Official Controls Regulation | 752 per year | 876 per year |
+| Annual fee for the carrying out of the first 30 minutes of each of twelve inspection site visits of an approved or registered establishment where monthly inspections are required under the Official Controls Regulation | 2,256 per year | 2,628 per year |
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations make provision for the introduction of fees payable for services provided by the Animal and Plant Health Agency, an executive agency of the Department for Environment, Food and Rural Affairs.
+
+The fees provided for by regulation 3, and set out in the Schedule, are payable by operators of establishments and plants that are required to be approved by the Regulation [(EC) No. 1069/2009](https://www.legislation.gov.uk/european/regulation/2009/1069) of the European Parliament and of the Council laying down health rules as regards animal by-products.
+
+These new fees are set at 50% of the full cost recovery of fees incurred by the Secretary of State on applications received on or before 30th June 2019, and then set at 100% of the full cost recovery thereafter.
+
+The fees in regulation 4 are new fees payable in respect of the delivery of pet animal passports to authorised veterinarians for the purpose of the issuing of a pet passport to enable a dog, cat or ferret to travel abroad with their owner.
+
+An impact assessment has not been produced for this instrument as no negative impact on the costs of the private or voluntary sectors is foreseen.
+
+## Annotations
+
+[^f00001]: Footnote: [1973 c.51](https://www.legislation.gov.uk/ukpga/1973/51).
+
+[^key-824f21aa08c8ee0f90088e1019b2d09d]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2018/666/regulation/1) in force at 30.6.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/666/regulation/1)
+
+[^key-15b5102bd8e3673afe0903da7d4d6742]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2018/666/regulation/2) in force at 30.6.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/666/regulation/1)
+
+[^key-f83da33e85941ff7db454ad33bb51779]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2018/666/regulation/3) in force at 30.6.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/666/regulation/1)
+
+[^key-7b99f48dce4c8411af2af782a135495f]: Textual amendment: Words in [reg. 3(2)](https://www.legislation.gov.uk/uksi/2018/666/regulation/3/2) substituted (1.7.2023) by [The Animal By-Products, Pet Passport and Animal Health (Fees) (England) (Amendment) Regulations 2023 (S.I. 2023/714)](https://www.legislation.gov.uk/uksi/2023/714), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/714/regulation/1/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2023/714/regulation/2/2/a)
+
+[^f00002]: Footnote: OJ No L 300, 14.11.2009, p 1. There are amendments not relevant to these Regulations.
+
+[^key-655e5d532d37a1da138e64df1661aa42]: Textual amendment: Words in [reg. 3(4)](https://www.legislation.gov.uk/uksi/2018/666/regulation/3/4) inserted (1.7.2023) by [The Animal By-Products, Pet Passport and Animal Health (Fees) (England) (Amendment) Regulations 2023 (S.I. 2023/714)](https://www.legislation.gov.uk/uksi/2023/714), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/714/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2023/714/regulation/2/2/b)
+
+[^key-55a16884bd442f8e1ba73731f75fceb6]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/2018/666/regulation/4) omitted (1.7.2023) by virtue of [The Animal By-Products, Pet Passport and Animal Health (Fees) (England) (Amendment) Regulations 2023 (S.I. 2023/714)](https://www.legislation.gov.uk/uksi/2023/714), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/714/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2023/714/regulation/2/3)
+
+[^key-66039db5a3cb66f99db3e5c1f07b0f17]: Commencement: [Sch.](https://www.legislation.gov.uk/uksi/2018/666/schedule) in force at 30.6.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/666/regulation/1)
+
+[^key-1b9567842adcebfe79ef571c8b2f386c]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2018/666/schedule) Table 1 substituted (1.7.2023) by [The Animal By-Products, Pet Passport and Animal Health (Fees) (England) (Amendment) Regulations 2023 (S.I. 2023/714)](https://www.legislation.gov.uk/uksi/2023/714), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/714/regulation/1/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/2023/714/regulation/2/4/a)
+
+[^key-d5f2a8a84984d5c170bf2ee79cb8e4a1]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2018/666/schedule) Table 2 heading substituted (1.7.2023) by [The Animal By-Products, Pet Passport and Animal Health (Fees) (England) (Amendment) Regulations 2023 (S.I. 2023/714)](https://www.legislation.gov.uk/uksi/2023/714), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/714/regulation/1/1), [2(4)(b)(i)](https://www.legislation.gov.uk/uksi/2023/714/regulation/2/4/b/i)
+
+[^key-05eaa9a1996e068683c93b18aab2aaa2]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2018/666/schedule) Table 2 substituted (1.7.2023) by [The Animal By-Products, Pet Passport and Animal Health (Fees) (England) (Amendment) Regulations 2023 (S.I. 2023/714)](https://www.legislation.gov.uk/uksi/2023/714), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/714/regulation/1/1), [2(4)(b)(iii)](https://www.legislation.gov.uk/uksi/2023/714/regulation/2/4/b/iii)
+
+[^key-bda8af036df8697f20eefb2f9f431348]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2018/666/schedule) Table 2 substituted (1.7.2023) by [The Animal By-Products, Pet Passport and Animal Health (Fees) (England) (Amendment) Regulations 2023 (S.I. 2023/714)](https://www.legislation.gov.uk/uksi/2023/714), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/714/regulation/1/1), [2(4)(b)(ii)](https://www.legislation.gov.uk/uksi/2023/714/regulation/2/4/b/ii)

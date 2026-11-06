@@ -1,0 +1,25 @@
+---
+title: Local Government Act 1985, section 68
+act: Local Government Act 1985
+section: '68'
+status: revised-with-pending-changes
+text_date: '2026-04-29'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/1985/51/section/68
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Local Government Act 1985, section 68
+
+> **Warning: changes not yet applied to this text (12).** Text as at 2026-04-29. See https://www.legislation.gov.uk/changes/affected/ukpga/1985/51
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 68. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c3164641]
+
+*Extent: E+W*
+
+## Annotations
+
+[^c3164641]: Textual amendment: S. 68 repealed (21.8.1991) by [S.I. 1991/1730](https://www.legislation.gov.uk/uksi/1991/1730), [art. 2(1)](https://www.legislation.gov.uk/uksi/1991/1730/article/2/1).

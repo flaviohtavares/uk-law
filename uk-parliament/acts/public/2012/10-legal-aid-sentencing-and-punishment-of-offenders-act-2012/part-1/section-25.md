@@ -1,0 +1,50 @@
+---
+title: Legal Aid, Sentencing and Punishment of Offenders Act 2012, section 25
+act: Legal Aid, Sentencing and Punishment of Offenders Act 2012
+section: '25'
+status: revised-with-pending-changes
+text_date: '2026-10-26'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/2012/10/section/25
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Legal Aid, Sentencing and Punishment of Offenders Act 2012, section 25
+
+> **Warning: changes not yet applied to this text (57).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/2012/10
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 25. Charges on property in connection with civil legal services
+
+*Extent: E+W*
+
+(1) Where civil legal services are made available to an individual under this Part, the amounts described in subsection (2) are to constitute a first charge on—
+
+- (a) any property recovered or preserved by the individual in proceedings, or in any compromise or settlement of a dispute, in connection with which the services were provided (whether the property is recovered or preserved for the individual or another person), and
+- (b) any costs payable to the individual by another person in connection with such proceedings or such a dispute.
+
+(2) Those amounts are—
+
+- (a) amounts expended by the Lord Chancellor in securing the provision of the services (except to the extent that they are recovered by other means), and
+- (b) other amounts payable by the individual in connection with the services under section 23 or 24.
+
+(3) Regulations may make provision for exceptions from subsection (1).
+
+(4) Regulations may make provision about the charge under subsection (1) including, in particular—
+
+- (a) provision as to whether the charge is in favour of the Lord Chancellor or a person by whom the services were made available,
+- (b) provision modifying the charge for the purposes of its application in prescribed cases or circumstances, and
+- (c) provision about the enforcement of the charge.
+
+(5) Regulations under subsection (4)(c) may, in particular, include—
+
+- (a) provision requiring amounts recovered by the individual in proceedings or as part of a compromise or settlement of a dispute, and costs payable to the individual, to be paid to the Lord Chancellor or a person by whom the services were made available,
+- (b) provision about the time and manner in which the amounts must be paid,
+- (c) provision about what the Lord Chancellor or the person by whom the services were made available must do with the amounts,
+- (d) provision for the payment of interest on all or part of the amounts,
+- (e) provision for the payment to the individual concerned of any amount in excess of the amounts described in subsection (2), and
+- (f) provision for the enforcement of requirements described in paragraph (a).
+
+(6) Regulations under this section may include provision requiring information and documents to be provided.

@@ -1,0 +1,177 @@
+---
+title: The Mesothelioma Lump Sum Payments (Conditions and Amounts) (Amendment) Regulations 2019
+id: uksi/2019/369
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2019-02-21'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2019/369
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2019/369/pdfs/uksiem_20190369_en.pdf
+- http://www.legislation.gov.uk/uksi/2019/369/pdfs/uksi_20190369_en.pdf
+- http://www.legislation.gov.uk/uksi/2019/369/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Mesothelioma Lump Sum Payments (Conditions and Amounts) (Amendment) Regulations 2019
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2019 No. 369
+
+Social Security
+
+The Mesothelioma Lump Sum Payments (Conditions and Amounts) (Amendment) Regulations 2019
+
+Made
+
+21st February 2019
+
+Coming into force
+
+1st April 2019
+
+The Secretary of State for Work and Pensions makes the following Regulations in exercise of the powers conferred by sections 46(3) and 53(1) and (2)(b) of the Child Maintenance and Other Payments Act 2008[^f00001].
+
+In accordance with section 53(3)[^f00002] of the Child Maintenance and Other Payments Act 2008, a draft of this instrument was laid before, and approved by, a resolution of each House of Parliament.
+
+## 1. Citation, commencement and application
+
+(1) These Regulations may be cited as the Mesothelioma Lump Sum Payments (Conditions and Amounts) (Amendment) Regulations 2019 and come into force on 1st April 2019.
+
+(2) Regulation 2(a) applies only in relation to a person—
+
+- (a) first diagnosed with diffuse mesothelioma on or after 1st April 2019; or
+- (b) where the date of the first diagnosis with diffuse mesothelioma is unknown, if a claim under section 46(1) of the Child Maintenance and Other Payments Act 2008 is made by that person on or after 1st April 2019.
+
+(3) Regulation 2(b) applies only in relation to the dependent of a person who dies on or after 1st April 2019 and who, immediately before their death, had diffuse mesothelioma.
+
+## 2. Amendment of the Schedule to the Mesothelioma Lump Sum Payments (Conditions and Amounts) Regulations 2008
+
+In the Schedule to the Mesothelioma Lump Sum Payments (Conditions and Amounts) Regulations 2008[^f00003]—
+
+- (a) for Table 1 substitute—
+
+  > Table 1
+  >
+  > Amount of lump sum payment to person with mesothelioma
+  >
+  > | Age of person with mesothelioma at first diagnosis or, if unknown, date of claim | *Payment*<br>*£* |
+  > | --- | --- |
+  > | 37 and under | 92,259 |
+  > | 38 | 90,465 |
+  > | 39 | 88,675 |
+  > | 40 | 86,885 |
+  > | 41 | 85,091 |
+  > | 42 | 83,300 |
+  > | 43 | 82,407 |
+  > | 44 | 81,506 |
+  > | 45 | 80,614 |
+  > | 46 | 79,717 |
+  > | 47 | 78,821 |
+  > | 48 | 76,318 |
+  > | 49 | 73,810 |
+  > | 50 | 71,298 |
+  > | 51 | 68,793 |
+  > | 52 | 66,278 |
+  > | 53 | 64,489 |
+  > | 54 | 62,700 |
+  > | 55 | 60,912 |
+  > | 56 | 59,112 |
+  > | 57 | 57,322 |
+  > | 58 | 52,666 |
+  > | 59 | 48,006 |
+  > | 60 | 43,355 |
+  > | 61 | 38,695 |
+  > | 62 | 34,038 |
+  > | 63 | 31,170 |
+  > | 64 | 28,301 |
+  > | 65 | 25,440 |
+  > | 66 | 22,572 |
+  > | 67 | 19,707 |
+  > | 68 | 19,123 |
+  > | 69 | 18,537 |
+  > | 70 | 17,961 |
+  > | 71 | 17,378 |
+  > | 72 | 16,798 |
+  > | 73 | 16,302 |
+  > | 74 | 15,797 |
+  > | 75 | 15,314 |
+  > | 76 | 14,828 |
+  > | 77 and over | 14,334 |
+
+  ;
+- (b) for Table 2 substitute—
+
+  > Table 2
+  >
+  > Amount of lump sum payment to dependant
+  >
+  > | Age of person with mesothelioma at death | *Payment*<br>*£* |
+  > | --- | --- |
+  > | 37 and under | 48,013 |
+  > | 38 | 46,980 |
+  > | 39 | 45,950 |
+  > | 40 | 44,921 |
+  > | 41 | 43,891 |
+  > | 42 | 42,861 |
+  > | 43 | 41,875 |
+  > | 44 | 40,881 |
+  > | 45 | 39,902 |
+  > | 46 | 38,917 |
+  > | 47 | 37,934 |
+  > | 48 | 36,725 |
+  > | 49 | 35,512 |
+  > | 50 | 34,306 |
+  > | 51 | 33,100 |
+  > | 52 | 31,892 |
+  > | 53 | 30,901 |
+  > | 54 | 29,919 |
+  > | 55 | 28,934 |
+  > | 56 | 27,942 |
+  > | 57 | 26,960 |
+  > | 58 | 24,233 |
+  > | 59 | 21,497 |
+  > | 60 | 18,768 |
+  > | 61 | 16,034 |
+  > | 62 | 13,299 |
+  > | 63 | 12,518 |
+  > | 64 | 11,743 |
+  > | 65 | 10,949 |
+  > | 66 | 10,167 |
+  > | 67 and over | 7,949 |
+
+  .
+
+Signed by authority of the Secretary of State for Work and Pensions
+
+Sarah Newton
+
+Minister of State
+
+Department for Work and Pensions
+
+21st February 2019
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations amend the Schedule to the Mesothelioma Lump Sum Payments (Conditions and Amounts) Regulations 2008 ([S.I. 2008/1963](https://www.legislation.gov.uk/uksi/2008/1963)) (“the 2008 Regulations”) by substituting revised tables of the amount of lump sum payments payable to people with diffuse mesothelioma or to their surviving dependants.
+
+The substituted tables have the effect of increasing the amounts payable under the 2008 Regulations by 2.4 per cent in each case, rounded up or down to the nearest £1 as appropriate.
+
+A full impact assessment has not been produced for this instrument as no, or no significant, impact on the private, voluntary or public sector is foreseen.
+
+## Annotations
+
+[^f00001]: Footnote: [2008 c. 6](https://www.legislation.gov.uk/ukpga/2008/6).
+
+[^f00002]: Footnote: Section 53 was amended by the Welfare Reform Act [2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5), Schedule 11, paragraph 18.
+
+[^f00003]: Footnote: [S.I. 2008/1963](https://www.legislation.gov.uk/uksi/2008/1963); [S.I. 2018/315](https://www.legislation.gov.uk/uksi/2018/315) is the relevant amending instrument.

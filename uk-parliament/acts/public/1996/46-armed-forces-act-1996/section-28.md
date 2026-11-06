@@ -1,0 +1,57 @@
+---
+title: Armed Forces Act 1996, section 28
+act: Armed Forces Act 1996
+section: '28'
+status: revised
+text_date: '2014-03-10'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/1996/46/section/28
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Armed Forces Act 1996, section 28
+
+> Text as at 2014-03-10.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 28. Exemptions from Firearms Act 1968.
+
+*Extent: E+W+S+N.I.*
+
+(1) In section 54 of the [^c1127510]Firearms Act 1968 (application of Parts I and II to Crown servants), after subsection (3) there shall be added the following subsections—
+
+> (4) For the purposes of this section and any rule of law whereby any provision of this Act does not bind the Crown, the persons specified in subsection (5) of this section shall be deemed to be in the naval, military or air service of Her Majesty, insofar as they are not otherwise in, or treated as being in, any such service.
+>
+> (5) The persons referred to in subsection (4) of this section are the following—
+>
+> - (a) members of any foreign force when they are serving with any of the naval, military or air forces of Her Majesty;
+> - (b) members of any cadet corps approved by the Secretary of State when—
+>   - (i) they are engaged as members of the corps in, or in connection with, drill or target practice; and
+>   - (ii) in the case of possession of prohibited weapons or prohibited ammunition when engaged in target practice, they are on service premises; and
+> - (c) persons providing instruction to any members of a cadet corps who fall within paragraph (b).
+>
+> (6) In subsection (5) of this section—
+>
+> - “**foreign force**” means any of the naval, military or air forces of a country other than the United Kingdom; and
+> - “**service premises**” means premises, including any ship or aircraft, used for any purpose of any of the naval, military or air forces of Her Majesty.
+
+(2) After section 16 of the [^c1127511]Firearms (Amendment) Act 1988 there shall be inserted the following section—
+
+> **16A. Possession of firearms on service premises.**
+>
+> (1) A person under the supervision of a member of the armed forces may, without holding a certificate or obtaining the authority of the Secretary of State under section 5 of the principal Act, have in his possession a firearm and ammunition on service premises.
+>
+> (2) Subsection (1) above does not apply to a person while engaged in providing security protection on service premises.
+>
+> (3) In this section—
+>
+> - “**armed forces**” means any of the naval, military or air forces of Her Majesty; and
+> - “**service premises**” means premises, including any ship or aircraft, used for any purpose of the armed forces.
+
+## Annotations
+
+[^c1127510]: Marginal citation: [1968 c. 27](https://www.legislation.gov.uk/ukpga/1968/27).
+
+[^c1127511]: Marginal citation: [1988 c. 45](https://www.legislation.gov.uk/ukpga/1988/45).

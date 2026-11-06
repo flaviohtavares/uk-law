@@ -1,0 +1,80 @@
+---
+title: The Education (Inspectors of Education and Training in Wales) Order 2025
+id: uksi/2025/1184
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2025-11-12'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2025/1184
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2025/1184/pdfs/uksi_20251184_en.pdf
+- http://www.legislation.gov.uk/uksi/2025/1184/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Education (Inspectors of Education and Training in Wales) Order 2025
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2025 No. 1184
+
+Education, Wales
+
+The Education (Inspectors of Education and Training in Wales) Order 2025
+
+Made
+
+12th November 2025
+
+Coming into force
+
+20th November 2025
+
+At the Court at Buckingham Palace, the 12th day of November 2025
+
+Present,
+
+The King’s Most Excellent Majesty in Council
+
+His Majesty, in exercise of the powers conferred by section 19(2) of the Education Act 2005[^f00001] is pleased, by and with the advice of His Privy Council, to order as follows:
+
+## 1. Citation and commencement
+
+This Order may be cited as the Education (Inspectors of Education and Training in Wales) Order 2025 and comes into force on 20th November 2025.
+
+## 2. Appointment of His Majesty’s Inspectors of Education and Training in Wales or Arolygwyr Ei Fawrhydi dros Addysg a Hyfforddiant yng Nghymru
+
+The persons named in the Schedule to this Order are appointed as His Majesty’s Inspectors of Education and Training in Wales or Arolygwyr Ei Fawrhydi dros Addysg a Hyfforddiant yng Nghymru.
+
+Richard Tilbrook
+
+Clerk of the Privy Council
+
+## SCHEDULE
+
+Article 2
+
+Persons appointed as His Majesty’s Inspectors of Education and Training in Wales or Arolygwyr Ei Fawrhydi dros Addysg a Hyfforddiant yng Nghymru.
+
+- Andrew Brassington
+- Dean Curtis
+- Matthew Goulding
+- Nathan Horleston
+- Gerallt Jones
+- Lisa Lewis
+- Penny Peet
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order appoints the persons named in the Schedule as His Majesty’s Inspectors of Education and Training in Wales or Arolygwyr Ei Fawrhydi dros Addysg a Hyfforddiant yng Nghymru.
+
+## Annotations
+
+[^f00001]: Footnote: [2005 c. 18](https://www.legislation.gov.uk/ukpga/2005/18). The functions of the National Assembly for Wales were transferred to the Welsh Ministers by virtue of the Government of Wales Act [2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32), Schedule 11, paragraph 30.

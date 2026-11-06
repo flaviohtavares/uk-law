@@ -1,0 +1,66 @@
+---
+title: Pensions Act 2004, section 90A
+act: Pensions Act 2004
+section: 90A
+status: revised-with-pending-changes
+text_date: '2026-07-31'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/ukpga/2004/35/section/90A
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Pensions Act 2004, section 90A
+
+> **Warning: changes not yet applied to this text (95).** Text as at 2026-07-31. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/35
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 90A. Codes of practice: public service pension schemes[^key-d94d6c31babd7b6874e7525991978a42]
+
+*Extent: E+W+S*
+
+(1) The Regulator may, in relation to public service pension schemes, issue codes of practice—
+
+- (a) containing practical guidance in relation to the exercise of functions under relevant pensions legislation, and
+- (b) regarding the standards of conduct and practice expected from those who exercise such functions.
+
+(2) The Regulator must issue one or more such codes of practice relating to the following matters—
+
+- (a) the discharge of the duties imposed by sections 70 and 70A (duties to report breaches of the law and late payment of employer contributions);
+- (b) the obligations imposed by section 248A (requirements for knowledge and understanding: pension boards of public service pension schemes);
+- (c) the discharge of the duty imposed by section 249B (internal controls);
+- (d) the discharge of duties imposed under section 113 of the Pension Schemes Act 1993 (disclosure of information to members);
+- (e) the discharge of the duty imposed by section 49(9)(b) of the Pensions Act 1995 (duty of trustees or managers of occupational pension schemes to report material failures by employers to pay contributions deducted from employee's earnings timeously);
+- (f) the discharge of the duty imposed by section 50 of the Pensions Act 1995 (internal dispute resolution);
+- (g) the discharge of duties imposed by virtue of section 5(4) of the Public Service Pensions Act 2013 (pensions board: conflicts of interest and representation) and other duties relating to conflicts of interest;
+- (h) the discharge of duties imposed under section 6 (pension board: information) of that Act and other duties relating to the publication of information about governance and administration;
+- (i) the discharge of duties imposed under section 14 of that Act (information about benefits);
+- (j) the discharge of duties imposed under section 16 (records) of that Act and other duties relating to record-keeping;
+- (k) such other matters as are prescribed for the purposes of this section.
+
+(3) The Regulator may from time to time revise the whole or any part of a code of practice issued under this section and issue that revised code.
+
+(4) A failure on the part of any person to observe any provision of a code of practice issued under this section does not of itself render that person liable to any legal proceedings.
+
+This is subject to section 13(3)(a) and (8) (power for improvement notice to direct that person complies with code of practice and civil penalties for failure to comply).
+
+(5) A code of practice issued under this section is admissible in evidence in any legal proceedings (within the meaning of section 90) and, if any provision of such a code appears to the court or tribunal concerned to be relevant to any question arising in the proceedings, it must be taken into account in determining that question.
+
+(6) A code of practice issued under this section may be—
+
+- (a) combined with a code of practice issued under section 90;
+- (b) combined with one or more other codes of practice issued under this section.
+
+(7) A code of practice issued under this section may relate to all public service pension schemes or any one or more of them.
+
+(8) In this section, “**relevant pensions legislation**” means—
+
+- (a) the enactments constituting “pensions legislation” within the meaning of section 90, and
+- (b) sections 5(4) (pension board: conflicts of interest and representation), 6 (pension board: information), 14 (information about benefits) and 16 (records) of the Public Service Pensions Act 2013.
+
+(9) Sections 91 and 92 make provision about the procedure to be followed when a code of practice is issued or revoked under this section.
+
+## Annotations
+
+[^key-d94d6c31babd7b6874e7525991978a42]: Textual amendment: S. 90A inserted (1.11.2013) by [Public Service Pensions Act 2013 (c. 25)](https://www.legislation.gov.uk/ukpga/2013/25), [s. 41(2)](https://www.legislation.gov.uk/ukpga/2013/25/section/41/2), [Sch. 4 para. 14](https://www.legislation.gov.uk/ukpga/2013/25/schedule/4/paragraph/14) (with [Sch. 11 para. 8](https://www.legislation.gov.uk/ukpga/2013/25/schedule/11/paragraph/8)); [S.I. 2013/2818](https://www.legislation.gov.uk/uksi/2013/2818), [art. 3(d)](https://www.legislation.gov.uk/uksi/2013/2818/article/3/d)

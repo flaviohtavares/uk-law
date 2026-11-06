@@ -1,0 +1,48 @@
+---
+title: Corporation Tax Act 2010, section 386
+act: Corporation Tax Act 2010
+section: '386'
+status: revised-with-pending-changes
+text_date: '2026-03-18'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2010/4/section/386
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Corporation Tax Act 2010, section 386
+
+> **Warning: changes not yet applied to this text (16).** Text as at 2026-03-18. See https://www.legislation.gov.uk/changes/affected/ukpga/2010/4
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 386. Relief for expense otherwise giving rise to carried forward loss
+
+*Extent: E+W+S+N.I.*
+
+(1) This section applies if—
+
+- (a) there is a qualifying change of ownership in relation to a company on any day (“**the relevant day**”),
+- (b) on the following day the company is treated under section 383 as incurring an expense of a business and an accounting period of the company (“period 1”) begins,
+- (c) the company makes a loss in period 1 or a later accounting period,
+- (d) apart from this section some or all of that loss (“the carried forward loss”) would be carried forward to the next accounting period of the company after the accounting period in which the loss is made (“the subsequent period”),
+- (e) some or all of the carried forward loss (“the derived loss”) derives from—
+  - (i) the expense under section 383, or
+  - (ii) an expense treated as arising under subsection (2) and allowed as a deduction for the accounting period in which the loss is made, and
+- (f) the subsequent period starts within the period of 5 years beginning immediately after the relevant day and does not start as a result of section 383 or 425.
+
+(2) Instead of being so carried forward, the derived loss is to be treated for corporation tax purposes as giving rise to an expense of an amount equal to—
+
+[formula: see source](https://www.legislation.gov.uk/ukpga/2010/4)
+
+where—
+
+DL is the derived loss,
+
+D is the number of days in the accounting period in which the loss is made, and
+
+R is the percentage rate applicable to section 826 of ICTA under section 178 of FA 1989.
+
+(3) The amount of the expense under this section is allowed as a deduction in calculating for corporation tax purposes the profits of the business for the subsequent period.
+
+(4) For the purpose of determining how much of the carried forward loss derives from the expense under section 383 or an expense within subsection (1)(e)(ii), the loss is to be calculated on the basis that that expense is the final amount to be deducted.

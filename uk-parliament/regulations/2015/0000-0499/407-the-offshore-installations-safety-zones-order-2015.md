@@ -1,0 +1,129 @@
+---
+title: The Offshore Installations (Safety Zones) Order 2015
+id: uksi/2015/407
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2015-02-23'
+text_date: '2015-07-14'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2015/407
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2015/407/pdfs/uksi_20150407_en.pdf
+- http://www.legislation.gov.uk/uksi/2015/407/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Offshore Installations (Safety Zones) Order 2015
+
+> Text as at 2015-07-14.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2015 No. 407
+
+Offshore Installations
+
+The Offshore Installations (Safety Zones) Order 2015
+
+Made
+
+23rd February 2015
+
+Coming into force in accordance with article 1(2)
+
+The Secretary of State makes this Order—
+
+- (a) in exercise of the powers conferred by section 22 of the Petroleum Act 1987[^f00001]; and
+- (b) for the purpose of giving effect to proposals submitted to him by the Health and Safety Executive under section 24(2A)[^f00002] of that Act.
+
+## 1. Citation and commencement[^key-29ade558fcff9798b6d604402c425d30]
+
+(1) This Order may be cited as the Offshore Installations (Safety Zones) Order 2015.
+
+(2) This Order comes into force on 18th March 2015 except for article 2(1) which comes into force as provided in article 2(2).
+
+## 2. Establishment of safety zones[^key-da6a6f0f9d7ac3333effca1278c42322][^key-fef91d1d6dcaa256b19f91425c316918]
+
+(1)[^key-da6a6f0f9d7ac3333effca1278c42322] A safety zone is established around each installation specified in column 1 of the Schedule (being an installation to be stationed in waters to which subsection (7) of section 21 of the Petroleum Act 1987 applies) having a radius of five hundred metres, as respects that installation, from the point which has the co-ordinates of latitude and longitude according to the World Geodetic System 1984[^f00003] specified in columns 2 and 3 of the Schedule.
+
+(2)[^key-fef91d1d6dcaa256b19f91425c316918] Paragraph (1) comes into force, as respects each installation specified in column 1 of the Schedule, when the installation arrives at its station.
+
+Signed by authority of the Secretary of State for Work and Pensions
+
+Freud
+
+Parliamentary Under Secretary of State
+
+Department for Work and Pensions
+
+23rd February 2015
+
+## SCHEDULE — INSTALLATIONS[^key-d95964030b6207e09d8f688d7b3b8557]
+
+Article 2
+
+| *(1)*<br>*Name or other designation of the offshore installation* | *(2)*<br>*Latitude* | *(3)*<br>*Longitude* |
+| --- | --- | --- |
+| Catcher Area Development Project, Block 28/9a, Burgman Field | 56°44.55′ North | 00°40.61′ East |
+| Catcher Area Development Project, Block 28/9a, Catcher Field | 56°46.30′ North | 00°46.30′ East |
+| Catcher Area Development Project, Block 28/9a, Varadero Field | 56°48.37′ North | 00°42.30′ East |
+| Cawdor Manifold and Production Wells, Block 30/13a**,** Cawdor Field | 56°32.35′ North | 02°34.47′ East |
+| Cayley/Montrose Intermediate Towheads, Block 22/17s, Cayley Field | 57°26.16′ North | 01°18.42′ East |
+| Cladhan Field Development Project, Block 210/9a and 210/30a, Cladhan Field | 61°08.86′ North[^key-271530a9b27c6c54b6e2da161c52dcbe] | 00°47.17′ East |
+| Flyndre Manifold and Production Wells, Block 30/14a, Flyndre Field | 56°33.55′ North | 02°37.85′ East |
+| Golden Eagle Northern Drill Centre, Block 14/26a, Golden Eagle Field | 58°00.79′ North | 00°55.38′ West |
+| Shaw Drill Centre, Block 22/22a, Montrose Field | 57°17.81′ North | 01°21.77′ East |
+| Shaw Water Injection, Block 22/22a, Montrose Field | 57°17.37′ North | 01°22.31′ East |
+| Western Isles SDC Development Project, Block 210/24a, Barra Field | 61°11.74′ North | 00°43.67′ East |
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+The Order establishes, under section 22 of the Petroleum Act 1987, safety zones having a radius of 500 metres from the specified point around the eleven installations (which are subsea installations) specified in the Schedule to this Order to be stationed in waters to which section 21(7) of that Act applies (these include territorial waters and waters in areas designated under section 1(7) of the Continental Shelf Act [1964 (c. 29)](https://www.legislation.gov.uk/ukpga/1964/29)).
+
+Vessels, which for this purpose include hovercraft, submersible apparatus and installations in transit, are prohibited from entering or remaining in a safety zone except with the consent of the Health and Safety Executive or in accordance with regulations made under section 23(1) of the Petroleum Act 1987 (currently the Offshore Installations (Safety Zones) Regulations 1987 ([S.I. 1987/1331](https://www.legislation.gov.uk/uksi/1987/1331))).
+
+The United Kingdom Hydrographic Office (UKHO) (http://www.ukho.gov.uk/Pages/Home.aspx) publishes nautical charts covering the area in which installations are located, which include information on the existence and, where the scale allows, the location of safety zones. Mariners are advised to keep paper charts up-to-date using appropriate Notices to Mariners or, where electronic charts are used, to subscribe to an appropriate updating service. Vessels meeting the requirements of the International Convention for the Safety of Life at Sea 1974 will carry nautical charts and nautical publications (such as Notices to Mariners) to plan and display the ship’s route for the intended voyage and to plot and monitor positions throughout the voyage. This may be compulsory for some vessels, for example under the Merchant Shipping (Safety of Navigation) Regulations 2002 ([S.I. 2002/1473](https://www.legislation.gov.uk/uksi/2002/1473)). The UKHO also broadcasts Radio Navigational Warnings in relation to safety zones where updates to charts have yet to take effect and where installations are in transit.
+
+Maritime safety information, which includes information on safety zones, is issued via the appropriate International Maritime Organisation, Global Maritime Distress and Safety System broadcast systems as defined by the World-Wide Navigational Warning Service.
+
+It is estimated that the installations, which are not on station at the time of making this Order, will arrive at their stations at the approximate time set opposite their name in the table below:
+
+| **Name of installation** | **Estimated arrival at station** |
+| --- | --- |
+| Catcher Area Development Project, Burgman Field | 1st May 2015 |
+| Catcher Area Development Project, Catcher Field | 1st May 2015 |
+| Catcher Area Development Project, Varadero Field | 1st May 2015 |
+| Cawdor Manifold and Production Wells | 1st April 2015 |
+| Cayley/Montrose Intermediate Towheads | 1st March 2015 |
+| Cladhan Field Development Project | 1st May 2015 |
+| Flyndre Manifold and Production Wells | 1st April 2015 |
+| Golden Eagle Northern Drill Centre | 1st May 2015 |
+| Shaw Drill Centre | 1st April 2015 |
+| Shaw Water Injection | 1st April 2015 |
+| Western Isles SDC Development Project | 28th February 2015 |
+
+## Annotations
+
+[^f00001]: Footnote: [1987 c. 12](https://www.legislation.gov.uk/ukpga/1987/12).
+
+[^f00002]: Footnote: Section 24(2A) was inserted by [S.I. 1993/1823](https://www.legislation.gov.uk/uksi/1993/1823) and amended by [S.I. 2008/960](https://www.legislation.gov.uk/uksi/2008/960).
+
+[^key-29ade558fcff9798b6d604402c425d30]: Commencement: Art. 1 in force at 18.3.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/407/article/1/2)
+
+[^key-da6a6f0f9d7ac3333effca1278c42322]: Commencement: Art. 2(1) comes into force in accordance with art. 2(2)
+
+[^key-fef91d1d6dcaa256b19f91425c316918]: Commencement: Art. 2(2) in force at 18.3.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/407/article/1/2)
+
+[^f00003]: Footnote: The World Geodetic System 1984 (“WGS 84”) defines a reference frame for the earth, for use in geodesy and navigation. It was developed by the United States’ National Geospatial-Intelligence Agency and is maintained by it. WGS 84 is defined at paragraph 2.1 of the United States’ National Imagery and Mapping Agency Technical Report TR8350.2, third edition, amendment 1 of 3rd January 2000 entitled “Department of Defense World Geodetic System 1984” (http://earth-info.nga.mil/GandG/publications/tr8350.2/wgs84fin.pdf).
+
+[^key-d95964030b6207e09d8f688d7b3b8557]: Commencement: Sch. in force in accordance with art. 2(2)
+
+[^key-271530a9b27c6c54b6e2da161c52dcbe]: Textual amendment: Words in Sch. substituted (14.7.2015) by [The Offshore Installations (Safety Zones) (No. 2) Order 2015 (S.I. 2015/1406)](https://www.legislation.gov.uk/uksi/2015/1406), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1406/article/1/2), [3](https://www.legislation.gov.uk/uksi/2015/1406/article/3)

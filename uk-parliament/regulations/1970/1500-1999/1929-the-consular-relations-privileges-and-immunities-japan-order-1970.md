@@ -1,0 +1,65 @@
+---
+title: The Consular Relations (Privileges and Immunities) (Japan) Order 1970
+id: uksi/1970/1929
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '1970-12-17'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1970/1929
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1970/1929/pdfs/uksi_19701929_en.pdf
+- http://www.legislation.gov.uk/uksi/1970/1929/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Westlaw UK derived from Crown Copyright material and contributed to legislation.gov.uk
+summary: ''
+---
+
+# The Consular Relations (Privileges and Immunities) (Japan) Order 1970
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+1970 No. 1929
+
+CONSULAR RELATIONS
+
+The Consular Relations (Privileges and Immunities) (Japan) Order 1970
+
+Laid before Parliament in draft
+
+Made
+
+17th December 1970
+
+Coming into Operation
+
+1st January 1971
+
+At the Court at Buckingham Palace, the 17th day of December 1970
+
+Present,
+
+The Queen's Most Excellent Majesty in Council
+
+Whereas a draft of this Order has been laid before and approved by resolution of each House of Parliament in accordance with section 14(1) of the Consular Relations Act 1968 (hereinafter referred to as “**the Act**”):
+
+Now, therefore, Her Majesty, by virtue and in exercise of the powers conferred on Her by section 3(1) of the Act or otherwise in Her Majesty vested, is pleased, by and with the advice of Her Privy Council, to order, and it is hereby ordered, as follows:—
+
+**1.** This Order may be cited as the Consular Relations (Privileges and Immunities) (Japan) Order 1970 and shall come into operation on 1st January 1971.
+
+**2.** The Interpretation Act 1889 shall apply for the interpretation of this Order as it applies for the interpretation of an Act of Parliament.
+
+**3.** The like exemption from dues and taxes as is accorded under Article 32 in Schedule 1 to the Act to the residence of the career head of a consular post shall be extended to the residence of a consular officer or consular employee of Japan of which Japan or any person acting on its behalf is the owner or lessee, provided that the officer or employee—
+
+- (a) is a national of Japan, and
+- (b) does not carry on any private gainful occupation in the United Kingdom, and
+- (c) is not permanently resident in the United Kingdom, and
+- (d) is a full-time officer or employee of Japan.
+
+W.G. Agnew
+
+EXPLANATORY NOTE
+
+This Order, which is made pursuant to the Consular Relations Act 1968, provides for according, in addition to the privileges accorded with respect to consular posts of Japan and persons connected with them by Schedule 1 to the Act, relief from rates and taxes for the residences of certain consular officers and employees. It gives effect to the relevant provisions of the Consular Convention between the United Kingdom and Japan which was signed at Tokyo on 4th May 1964 (Cmnd. 2833).

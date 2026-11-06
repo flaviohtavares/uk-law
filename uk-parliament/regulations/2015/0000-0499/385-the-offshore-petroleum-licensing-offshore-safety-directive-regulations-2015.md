@@ -1,0 +1,451 @@
+---
+title: The Offshore Petroleum Licensing (Offshore Safety Directive) Regulations 2015
+id: uksi/2015/385
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2015-03-19'
+text_date: '2026-07-07'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2015/385
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2015/385/pdfs/uksiem_20150385_en.pdf
+- http://www.legislation.gov.uk/uksi/2015/385/pdfs/uksi_20150385_en.pdf
+- http://www.legislation.gov.uk/uksi/2015/385/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Offshore Petroleum Licensing (Offshore Safety Directive) Regulations 2015
+
+> Text as at 2026-07-07.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2015 No. 385
+
+Petroleum
+
+The Offshore Petroleum Licensing (Offshore Safety Directive) Regulations 2015
+
+Made
+
+19th March 2015
+
+Laid before Parliament
+
+23rd March 2015
+
+Coming into force
+
+19th July 2015
+
+The Secretary of State, being a Minister designated [^c22459581] for the purposes of section 2(2) of the European Communities Act 1972 [^c22459591] in relation to matters relating to the conditions for granting and using authorisations for the prospection, exploration and production of hydrocarbons, makes the following Regulations:
+
+## 1. Citation and commencement
+
+These Regulations may be cited as the Offshore Petroleum Licensing (Offshore Safety Directive) Regulations 2015 and come into force on 19th July 2015.
+
+## 2. Interpretation
+
+(1) In these Regulations—
+
+- “**the 2013 Directive**” means Directive 2013/30/EU of the European Parliament and of the Council on safety of offshore oil and gas operations and amending Directive [2004/35/EC](https://www.legislation.gov.uk/european/directive/2004/0035) [^c22459601];
+- “**competent authority**” means the Health and Safety Executive and the Secretary of State, acting jointly;
+- “**connected infrastructure**” means—
+  - (a) any well or supplementary unit connected to an installation; and
+  - (b) within an installation's safety zone—
+    - (i) any associated structure or device which is connected to that installation;
+    - (ii) any apparatus or works on or affixed to the main structure of the installation; and
+    - (iii) any pipeline apparatus or works attached to that installation;
+- “**information notice**” has the meaning given in regulation 11(4);
+- “**installation**” has the meaning given in Article 2(19) of the Directive;
+- “**installation operator**” means a person appointed in accordance with regulation 5 or 6 to conduct any offshore petroleum operations, other than the planning or execution of any well operations;
+- “**licensing authority**” means the Oil and Gas Authority[^key-2efa988456369800b3886942a90ab740];
+- “**major accident**” has the meaning given in Article 2(1) of the 2013 Directive;
+- “obligation” includes a prohibition where relevant;[^key-b2ff1fa3fea94b15117186d16098a0ab]
+- “**offshore licence**” means a licence granted under section 2(1) of the Petroleum (Production) Act 1934 [^c22459611] or section 3(1) of the Petroleum Act 1998 [^c22459621] which confers on the holder of that licence the exclusive right to prospect or explore for or produce petroleum, in offshore waters;
+- “**offshore licensee**” means a person who—
+  - (a) holds an offshore licence; or
+  - (b) held an offshore licence and has been required [^c22459631] to submit an abandonment programme (within the meaning of section 29 of the Petroleum Act 1998) to the Secretary of State in relation to activities carried out pursuant to the licence except where—
+    - (i) the programme has been approved by the Secretary of State; and
+    - (ii) that person is not subject to any obligations under the approved programme;
+- “**offshore petroleum operations**” means all activities associated with an installation or connected infrastructure, including design, planning, construction, operation and decommissioning thereof, relating to exploration and production of petroleum, but excluding conveyance of petroleum from one coast to another;
+- “**offshore waters**” means—
+  - (a) the waters comprising the territorial sea of the United Kingdom; or
+  - (b) the sea in any area for the time being designated under section 1(7) of the Continental Shelf Act 1964 [^c22459641];
+- “**operator**” means a person who has been appointed as an installation operator, as a well operator or as both;
+- “**petroleum**” has the meaning given in section 1 of the Petroleum Act 1998;
+- “**production installation**” means an installation used for offshore extraction of petroleum from the underground strata of the area covered by an offshore licence, including offshore processing of petroleum and its conveyance through connected infrastructure;
+- “prospective offshore licensee” means a person in respect of whom an application has been made to the licensing authority—[^key-b44719b6941bb676d6263a47b928d9a9]
+  - (a) for the grant of an offshore licence to that person; or
+  - (b) for consent to a transfer of an offshore licence to that person (whether or not after the transfer the licence will be held jointly with another person, including an existing licence holder),
+
+  where that application has not been determined;.
+- “**safety zone**” means a safety zone within the meaning of Part 3 of the Petroleum Act 1987 [^c22459651];
+- “**well**” has the meaning given in the Offshore Installations (Offshore Safety Directive) (Safety Case etc.) Regulations 2015 [^c22459661];
+- “**well operation**” has the meaning given in the Offshore Installations (Offshore Safety Directive) (Safety Case etc.) Regulations 2015; and
+- “**well operator**” in relation to a well or proposed well means a person appointed in accordance with regulation 5 or 6 to conduct the planning or execution of well operations.
+
+(2) In these Regulations “**the 2013 Directive operator requirements**” means the requirements specified in paragraph (3) which are placed on—
+
+- (a) an operator, by or by virtue of the Merchant Shipping (Oil Pollution Preparedness, Response and Co-operation Convention) Regulations 1998 [^c22459671];
+- (b) an employer, by or by virtue of the Management of Health and Safety at Work Regulations 1999 [^c22459681]; or
+- (c) a duty holder, by or by virtue of the Regulations specified in paragraph (4).
+
+(3) The requirements referred to in paragraph (2) are those which relate to—
+
+- (a) preventing major accidents arising from offshore petroleum operations in offshore waters; or
+- (b) limiting the consequences of such accidents,
+
+but only where that duty holder or employer, as the case may be, is an operator within the meaning of these Regulations.
+
+(4) The Regulations referred to in paragraph (2) are—
+
+- (a) the Offshore Installations (Safety Representatives and Safety Committees) Regulations 1989 [^c22459691];
+- (b) the Offshore Installations and Pipeline Works (First-Aid) Regulations 1989 [^c22459701];
+- (c) the Offshore Installations and Pipeline Works (Management and Administration) Regulations 1995 [^c22459711];
+- (d) the Offshore Installations (Prevention of Fire and Explosion, and Emergency Response) Regulations 1995 [^c22459721];
+- (e) the Offshore Installations and Wells (Design and Construction, etc.) Regulations 1996 [^c22459731]; and
+- (f) the Offshore Installations (Offshore Safety Directive) (Safety Case etc.) Regulations 2015.
+
+(5) Other terms used in these Regulations which are also used in the 2013 Directive have the same meaning in these Regulations as they have in the 2013 Directive.
+
+## 3. Grant and transfer of offshore licences
+
+(1) The licensing authority must not grant an offshore licence or consent to the transfer of an offshore licence to a prospective offshore licensee unless the authority—
+
+- (a) takes into account the capability, including technical and financial capability, of the prospective offshore licensee to meet the requirements for operations within the framework of the licence and in particular the licensing authority must have regard to—
+  - (i) the considerations in paragraph (2); and
+  - (ii) any environmentally sensitive marine and coastal environments, including the environmental matters in paragraph (3); and
+- (b) where appropriate, consults the competent authority.
+
+(2) The considerations referred to in paragraph (1)(a)(i) are—
+
+- (a) the risk, the hazards and any other relevant information relating to the licensed area, including, where appropriate, the cost of degradation of the marine environment referred to in point (c) of Article 8(1) of Directive [2008/56/EC](https://www.legislation.gov.uk/european/directive/2008/0056) of the European Parliament and of the Council establishing a framework for community action in the field of marine environmental policy [^c22459741];
+- (b) the particular stage of any offshore petroleum operations;
+- (c) the prospective offshore licensee's financial capability, including any financial security, to cover liabilities potentially deriving from the offshore petroleum operations in question, including liability for potential economic damages; and
+- (d) the available information relating to the safety and environmental performance of the prospective offshore licensee, including in relation to major accidents, as may be appropriate to the operations applicable under the offshore licence.
+
+(3) The environmental matters referred to in paragraph (1)(a)(ii) are—
+
+- (a) ecosystems which play an important role in mitigation and adaptation to climate change, including salt marshes and sea grass beds; and
+- (b) marine protected areas, including—
+  - (i) special areas of conservation pursuant to the Council Directive [92/43/EEC](https://www.legislation.gov.uk/european/directive/1992/0043) on the conservation of natural habitats and of wild fauna and flora [^c22459751];
+  - (ii) special protection areas pursuant to Directive [2009/147/EC](https://www.legislation.gov.uk/european/directive/2009/0147) of the European Parliament and of the Council on the conservation of wild birds [^c22459761]; and
+  - (iii) areas that are designated as marine protected areas within the framework of any international or regional agreement entered into by the European Union or the United Kingdom.
+
+(4) The licensing authority may not grant an offshore licence unless it is satisfied that the prospective offshore licensee has made or will make adequate provision to cover liabilities potentially deriving from the prospective offshore licensee's offshore petroleum operations.
+
+(5) In considering whether or not it is satisfied about the matters set out in paragraph (4), the licensing authority must consider whether the prospective offshore licensee has, or will have at the start of offshore petroleum operations, sufficient financial resources for the immediate launch and uninterrupted continuation of all measures necessary for effective emergency response and subsequent remediation.
+
+## 4. Offshore petroleum operations
+
+Subject to regulations 5(5) and 8(6), no person may conduct an offshore petroleum operation who is not an operator in respect of that operation.
+
+## 5. Appointment of operators by offshore licensees
+
+(1) An offshore licensee must not appoint a person as an operator in respect of any of its offshore petroleum operations, unless written notice of the proposed appointment has been given by the offshore licensee to the licensing authority and—
+
+- (a) the licencing authority has confirmed in writing to the offshore licensee that it does not object to the appointment of that person as operator; or
+- (b) three months has elapsed since the date on which the notice was given to the licensing authority and the licensing authority has not objected in writing to the proposed appointment.
+
+(2) A notice under paragraph (1) must give details of—
+
+- (a) the identity of the proposed operator; and
+- (b) the particular offshore petroleum operations in respect of which the proposed operator is intended to be appointed.
+
+(3) Where the licensing authority consults the competent authority before deciding whether or not to object to the proposed appointment, the licensing authority must have regard to any relevant matters communicated to it by the competent authority.
+
+(4) If the licensing authority objects to the proposed appointment it must provide the offshore licensee, in writing, with the reasons for its objection.
+
+(5) Where the licensing authority has objected to a proposed appointment, the offshore licensee is responsible for the offshore petroleum operations which the proposed operator would have undertaken until such time as an operator is appointed in respect of those operations in accordance with this regulation or regulation 6.
+
+## 6. Appointment of operators by the licensing authority
+
+(1) The licensing authority may appoint a person as an operator in respect of any offshore petroleum operations being undertaken (or to be undertaken) in respect of which there is no operator.
+
+(2) Where the licensing authority makes an appointment under paragraph (1), it must give written notice of the appointment to the offshore licensee as soon as possible, including—
+
+- (a) the date of the notice;
+- (b) the identity of the person appointed as operator;
+- (c) details of the offshore petroleum operations in respect of which the person is appointed as an operator; and
+- (d) the date upon which the appointment is to take effect, which must not be earlier than the date of the notice.
+
+## 7. Capacity of operators
+
+Where the competent authority determines that an operator no longer has the capacity to meet the 2013 Directive operator requirements for the operations in respect of which that operator was appointed, it must notify the licensing authority.
+
+## 8. Termination of appointment of operators
+
+(1) An offshore licensee may only terminate the appointment of an operator where the offshore licensee appointed the operator (notwithstanding that the person or persons who constitute the offshore licensee at the time of the termination and the appointment may differ).
+
+(2) Where the licensing authority receives a notice under regulation 7 it must terminate the appointment of the operator.
+
+(3) The appointment of an operator may be terminated by the licensing authority—
+
+- (a) where it made the appointment; or
+- (b) where an operator fails to comply with any obligations placed on it by or under regulation 4 or 11(5).
+
+(4) A termination under paragraph (2) or (3) must be made by notice (“a termination notice”) which is given as soon as practicable to the offshore licensee and the operator whose appointment is terminated.
+
+(5) A termination notice must—
+
+- (a) be in writing and dated;
+- (b) state the date the appointment is terminated, which must not be earlier than the date of the notice; and
+- (c) set out the reason why the appointment is terminated.
+
+(6) Where the appointment of an operator has been terminated under paragraph (2) or (3), the licensee is responsible for the offshore petroleum operations in respect of which the operator was appointed until such time as an operator is appointed in respect of those operations in accordance with regulation 5 or 6.
+
+## 9. Obligations on the offshore licensee
+
+In respect of an offshore licence, an offshore licensee must—
+
+- (a) for the duration of offshore petroleum operations—
+  - (i) make adequate provision to cover liabilities which potentially derive from those operations; and
+  - (ii) maintain sufficient capacity to meet all the financial obligations which may result from any liability for offshore petroleum operations carried out by operators appointed by or in respect of it;
+- (b) ensure that production installations and connected infrastructure are only operated in the area to which an offshore licence applies;
+- (c) ensure that no operator carries out offshore petroleum operations unless that operator has the capacity to meet the 2013 Directive operator requirements in respect of the specific operations in respect of which it was appointed; and
+- (d) take all reasonable steps to ensure that operators meet the 2013 Directive operator requirements in relation to the offshore petroleum operations in respect of which they are appointed.
+
+## 10. Offshore licensee's liability for environmental damage
+
+(1) An offshore licensee is financially liable for the prevention and remediation of environmental damage which is or may be caused by offshore petroleum operations carried out by or on behalf of the offshore licensee or operator under an offshore licence.
+
+(2) In paragraph (1), “**environmental damage**” has the meaning given in Directive [2004/35/EC](https://www.legislation.gov.uk/european/directive/2004/0035) of the European Parliament and of the Council on environmental liability with regard to the prevention and remedying of environmental damage [^c22459771].
+
+## 11. Requirement to provide information
+
+(1)[^key-edbae50baf7b0a34e60f24f9d1bff597] The licensing authority may require an offshore licensee, prospective offshore licensee, operator or proposed operator to provide it with information—
+
+- (a) relevant for the performance of the licensing authority’s functions under regulation 3(1), 3(4) or 6(1); or
+- (b) relating to compliance with any obligation applying to that person under regulation 4, 5(1), 5(5), 8(6), or 9.
+
+(2) Paragraph (1)(a) includes requiring a prospective offshore licensee to provide—
+
+- (a) evidence of its technical and financial capacity;
+- (b) any other relevant information relating to the area covered by the offshore licence; and
+- (c) any other relevant information relating to the particular stage of offshore petroleum operations.
+
+(3) The competent authority may require an offshore licensee, prospective offshore licensee, operator or proposed operator to provide it with information which—
+
+- (a) is necessary for the fulfilment of the competent authority's functions as a consultee under regulations 3(1)(b) and 5(3);
+- (b) relates to the competent authority's determination under regulation 7; or
+- (c) relates to compliance with an offshore licensee's obligations under regulation 9.
+
+(4) A requirement to provide information under paragraph (1) or (3) must be made by notice (“an information notice”) which—
+
+- (a) is in writing and dated;
+- (b) specifies the information to be provided and the date by which it is to be provided; and
+- (c) identifies the person to whom it is addressed.
+
+(5) A person who receives an information notice must, by the date specified in the notice—
+
+- (a) provide so much of the information specified in the notice as can be provided; and
+- (b) to the extent that any information specified in the notice is not provided, provide a reasonable explanation why the information required cannot be provided.
+
+## 12. Sharing of information
+
+(1) The licensing authority may provide to the competent authority information which the licensing authority holds by virtue of carrying out its functions as a licensing authority where that provision is necessary to enable the competent authority to perform its functions under regulation 3(1)(b), 5(3) or 7.
+
+(2) The competent authority may provide to the licensing authority information which the competent authority holds, where that provision is necessary to enable the licensing authority—
+
+- (a) to perform its functions under regulations 3(1), 3(4), 6(1) and 8(2); or
+- (b) to assess the offshore licensee's compliance with its obligations under regulation 5(1), 5(5), 8(6), 9 or 11(5).
+
+## 13. Revocation of licences
+
+(1) Where an offshore licensee fails to comply with any obligations placed on it by or by virtue of regulations 5(1), 5(5), 8(6), 9 or 11(5), the licensing authority may revoke the offshore licence.
+
+(2) A revocation under paragraph (1) must be made by notice (“a revocation notice”) which is given as soon as practicable to the offshore licensee and any operator appointed under that licence.
+
+(3) A revocation notice must—
+
+- (a) be in writing and dated;
+- (b) state the date the offshore licence is revoked, which must not be earlier than the date of the notice; and
+- (c) set out the reason why the offshore licence is revoked.
+
+(4) Any revocation of an offshore licence under paragraph (1) has effect as if it was a revocation in accordance with the terms of the licence.
+
+## 13A. Fees[^key-c4c2d4e23294d0b9bd291f4db1c245b7]
+
+(1) The Secretary of State may charge fees in relation to the Secretary of State’s functions as competent authority in respect of—
+
+- (a) providing advice in accordance with the competent authority’s functions as a consultee under regulations 3(1)(b) and 5(3); and
+- (b) monitoring compliance with an offshore licensee’s obligations—
+  - (i) under regulation 9(a), in relation to its liabilities under regulation 10; and
+  - (ii) under regulation 9(c) and (d), including notifying the licensing authority of any determination, and the reasons for it, under regulation 7.
+
+(2) A fee charged under paragraph (1) is [formula: see source](https://www.legislation.gov.uk/uksi/2015/385) where—
+
+- A is the number of hours work carried out by specialist officers;
+- B is £256[^key-bd29a93a4ec3b75d5886dc4429afb8dc];
+- C is the number of hours work carried out by non-specialist officers; and
+- D is £130[^key-08ee73cb1196c70136db21b1da4da937].
+
+(3) For the purposes of paragraph (2), the number of hours work may be expressed as a fraction where—
+
+- (a) less than one hour’s work has been carried out; or
+- (b) the total amount of time worked is more than one hour but cannot be expressed as a whole number in hours.
+
+(4) In this regulation “specialist officers” means persons engaged on behalf of the Secretary of State to carry out the functions of the Secretary of State referred to in paragraph (1) and “non-specialist officers” means any other persons engaged on behalf of the Secretary of State to provide administrative support to specialist officers.
+
+## 14. Offences
+
+(1) It is an offence for any person, without reasonable excuse—
+
+- (a) to contravene regulation 4;
+- (b) to fail to comply with an obligation under regulation 11(5); or
+- (c) to provide false information to the licensing authority or the competent authority in satisfaction or purported satisfaction of an obligation imposed under regulation 11(5).
+
+(2) A person guilty of an offence under paragraph (1) is liable—
+
+- (a) on summary conviction to a fine of not more than £5,000; or
+- (b) on conviction on indictment, to a fine.
+
+## 15. Transitional Provisions
+
+(1) Where an installation is a planned production installation, these Regulations apply in relation to an operator in respect of such an installation and its connected infrastructure, from 19th July 2016.
+
+(2) These Regulations apply to a production installation which is an existing installation from the earlier of—
+
+- (a) the date of thorough review in relation to that installation; or
+- (b) 19th July 2018.
+
+(3) Where a production installation which is not a planned production installation or an existing production installation, but in respect of which a current safety case applied before 19th July 2016, these Regulations apply to an operator in respect of such a production installation and its connected infrastructure from the 19th July 2016.
+
+(4) In relation to a well operator who is planning or executing well operations, the provisions of these Regulations relating to the carrying out of well operations apply from the earlier of—
+
+- (a) the date of thorough review in relation to the installation from which the well operations were planned or executed; or
+- (b) 19th July 2016.
+
+(5) In this regulation—
+
+- (a) “**current safety case**” has the meaning given in the Offshore Installations (Safety Case) Regulations 2005 [^c22459781];
+- (b) “**date of thorough review in relation to an installation**” means the date of thorough review in relation to that installation within the meaning given in the Offshore Installations (Offshore Safety Directive) (Safety Case etc.) Regulations 2015 [^c22459791], but only where that date is after 18th July 2015;
+- (c) “**existing installation**” means an installation in respect of which a current safety case applied on 18th July 2013; and
+- (d) “**planned production installation**” means a production installation in respect of which a design notification had been sent to the Health and Safety Executive in accordance with regulation 6 of the Offshore Installations (Safety Case) Regulations 2005 before 18th July 2013, but which had not commenced operations at that date.
+
+## 16. Review
+
+(1) The Secretary of State must from time to time—
+
+- (a) carry out a review of—
+  - (i) regulations 2 to 14 of these Regulations; and
+  - (ii) regulations 4 to 12 of the Merchant Shipping (Oil Pollution Preparedness, Response and Co-operation Convention) (Amendment) Regulations 2015 [^c22459801];
+- (b) set out the conclusions of the review in a report; and
+- (c) publish the report.
+
+(2) In carrying out the review the Secretary of State must, so far as is reasonable, have regard to how the 2013 Directive is implemented in other Member States.
+
+(3) The report must in particular—
+
+- (a) set out the objectives intended to be achieved by the regulatory system established by those regulations;
+- (b) assess the extent to which those objectives are achieved; and
+- (c) assess whether those objectives remain appropriate and, if so, the extent to which they could be achieved with a system that imposes less regulation.
+
+(4) The first report under this regulation must be published before the end of the period of five years beginning with the day on which these Regulations come into force.
+
+(5) Reports under this regulation are afterwards to be published at intervals not exceeding five years.
+
+Matthew Hancock
+
+Minister of State
+
+Department of Energy and Climate Change
+
+*(This note is not part of the Regulations)*
+
+These Regulations, together with, in particular—
+
+- (a) the Offshore Installations (Prevention of Fire and Explosion, and Emergency Response) Regulations 1995 (SI 1995/743) (as amended by the Offshore Installations (Offshore Safety Directive) (Safety Case etc.) Regulations 2015 (SI 2015/398));
+- (b) the Merchant Shipping (Oil Pollution Preparedness, Response and Co-operation Convention) Regulations 1998 (SI 1998/1056) (as amended by the Merchant Shipping (Oil Pollution Preparedness, Response and Co-operation Convention) (Amendment) Regulations 2015 (SI 2015/386)); and
+- (c) the Offshore Installations (Offshore Safety Directive) (Safety Case etc.) Regulations 2015 (SI 2015/398),
+
+implement Directive 2013/30/EU of the European Parliament and of the Council on safety of offshore oil and gas operations and amending Directive [2004/35/EC](https://www.legislation.gov.uk/european/directive/2004/0035) (OJ No L178, 28.6.2013, p.66).
+
+Licences to search, bore for and get petroleum are granted under the Petroleum Act 1998. These Regulations make provision relating to such licences as apply in offshore waters. Regulation 3 requires the licensing authority to consider certain matters before granting such a licence or granting its consent to the transfer of such a licence.
+
+Regulation 4 requires that, except where an operator's appointment has been terminated, in which case the operator's functions become the responsibility of the offshore licensee, only those who have been appointed as operators may carry out offshore petroleum operations under a licence. A process for the appointment of operators is established in regulations 5 and 6, which requires that where the operator is to be appointed by the offshore licensee, the licensing authority has the power to object to the appointment. Operators are appointed in respect of offshore petroleum operations and may be appointed in relation to some or all of those operations.
+
+Regulation 7 requires that where the competent authority (being the Health and Safety Executive and the Secretary of State working together) may determine that an operator no longer has capacity to carry out its relevant requirements it must have its appointment terminated. Regulation 8 makes provision for the termination of such an appointment. The offshore licensee is responsible for operator's functions until a new operator is appointed.
+
+Regulations 9 and 10 place obligations on the offshore licensee, including that the offshore licensee is financially responsible for action taken to prevent or remediate environmental damage, as required by Directive [2004/35/EC](https://www.legislation.gov.uk/european/directive/2004/0035) of the European Parliament and of the Council on environmental liability (OJ No L143, 30.4.2004, p.56). Regulation 13 makes provision for the revocation of licences.
+
+Regulations 11 and 12 make provision for acquisition of information by the licensing authority and the competent authority and for the disclosure of information between them.
+
+Regulation 13 makes provision for offshore licences to be terminated for failure to comply with certain provisions of these Regulations.
+
+Regulation 14 creates offences in relation to the failure to comply with certain obligations set out in, or imposed under, these Regulations.
+
+Regulation 15 makes transitional provision.
+
+Regulation 16 requires the Secretary of State to review the operation and effect of these Regulations and publish a report within five years after they come into force and within every five years after that. Following a review it will fall to the Secretary of State to consider whether the Regulations should remain as they are, or be revoked or be amended. A further instrument would be needed to revoke the Regulations or to amend them.
+
+A transposition note and a full regulatory impact assessment of the effect that this instrument will have on the costs of business and the voluntary sector are annexed to the Explanatory Memorandum which is available alongside these Regulations on www.legislation.gov.uk.
+
+## Annotations
+
+[^c22459581]: Marginal citation: [S.I. 1994/1327](https://www.legislation.gov.uk/uksi/1994/1327).
+
+[^c22459591]: Marginal citation: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68). Section 2(2) was amended by section 27 of the [Legislative and Regulatory Reform Act 2006 (c. 51)](https://www.legislation.gov.uk/ukpga/2006/51) and section 3 of, and Part 1 of the Schedule to, the [European Union (Amendment) Act 2008 (c. 7)](https://www.legislation.gov.uk/ukpga/2008/7). The power of Ministers to make regulations in relation to matters in or regards Scotland is preserved by section 57(1) of the [Scotland Act 1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46).
+
+[^c22459601]: Marginal citation: O.J. No. L178, 28.06.13, p.66.
+
+[^key-2efa988456369800b3886942a90ab740]: Textual amendment: Words in reg. 2(1) substituted (1.10.2016) by [Energy Act 2016 (c. 20)](https://www.legislation.gov.uk/ukpga/2016/20), [s. 84(3)](https://www.legislation.gov.uk/ukpga/2016/20/section/84/3), [Sch. 1 para. 81](https://www.legislation.gov.uk/ukpga/2016/20/schedule/1/paragraph/81); [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/a)
+
+[^key-b2ff1fa3fea94b15117186d16098a0ab]: Textual amendment: Words in reg. 2(1) inserted (16.5.2017) by [The Offshore Petroleum Production and Pipe-lines (Environmental Impact Assessment and other Miscellaneous Provisions) (Amendment) Regulations 2017 (S.I. 2017/582)](https://www.legislation.gov.uk/uksi/2017/582), [regs. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1), [61(2)(a)](https://www.legislation.gov.uk/uksi/2017/582/regulation/61/2/a)
+
+[^c22459611]: Marginal citation: [1934 c. 36](https://www.legislation.gov.uk/ukpga/1934/36).
+
+[^c22459621]: Marginal citation: [1998 c. 17](https://www.legislation.gov.uk/ukpga/1998/17).
+
+[^c22459631]: Marginal citation: The Petroleum Act 1998, section 29 provides for the Secretary of State to issue a notice to certain persons requiring them to submit an abandonment programme.
+
+[^c22459641]: Marginal citation: [1964 c. 29](https://www.legislation.gov.uk/ukpga/1964/29).
+
+[^key-b44719b6941bb676d6263a47b928d9a9]: Textual amendment: Words in reg. 2(1) substituted (16.5.2017) by [The Offshore Petroleum Production and Pipe-lines (Environmental Impact Assessment and other Miscellaneous Provisions) (Amendment) Regulations 2017 (S.I. 2017/582)](https://www.legislation.gov.uk/uksi/2017/582), [regs. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1), [61(2)(b)](https://www.legislation.gov.uk/uksi/2017/582/regulation/61/2/b)
+
+[^c22459651]: Marginal citation: [1987 c. 12](https://www.legislation.gov.uk/ukpga/1987/12).
+
+[^c22459661]: Marginal citation: [S.I. 2015/398](https://www.legislation.gov.uk/uksi/2015/398).
+
+[^c22459671]: Marginal citation: [S.I. 1998/1056](https://www.legislation.gov.uk/uksi/1998/1056).
+
+[^c22459681]: Marginal citation: [S.I. 1999/3242](https://www.legislation.gov.uk/uksi/1999/3242).
+
+[^c22459691]: Marginal citation: [S.I. 1989/971](https://www.legislation.gov.uk/uksi/1989/971).
+
+[^c22459701]: Marginal citation: [S.I. 1989/1671](https://www.legislation.gov.uk/uksi/1989/1671).
+
+[^c22459711]: Marginal citation: [S.I. 1995/738](https://www.legislation.gov.uk/uksi/1995/738).
+
+[^c22459721]: Marginal citation: [S.I. 1995/743](https://www.legislation.gov.uk/uksi/1995/743).
+
+[^c22459731]: Marginal citation: [S.I. 1996/913](https://www.legislation.gov.uk/uksi/1996/913).
+
+[^c22459741]: Marginal citation: O.J. No. L164, 25.06.2008, p.19.
+
+[^c22459751]: Marginal citation: O.J. No. L206, 22.07.1992, p.7.
+
+[^c22459761]: Marginal citation: O.J. No. L20, 26.01.2010, p.7.
+
+[^c22459771]: Marginal citation: OJ No L143, 30.4.2004, p.56.
+
+[^key-edbae50baf7b0a34e60f24f9d1bff597]: Textual amendment: [Reg. 11(1)](https://www.legislation.gov.uk/uksi/2015/385/regulation/11/1) substituted (16.5.2017) by [The Offshore Petroleum Production and Pipe-lines (Environmental Impact Assessment and other Miscellaneous Provisions) (Amendment) Regulations 2017 (S.I. 2017/582)](https://www.legislation.gov.uk/uksi/2017/582), [regs. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1), [61(3)](https://www.legislation.gov.uk/uksi/2017/582/regulation/61/3)
+
+[^key-c4c2d4e23294d0b9bd291f4db1c245b7]: Textual amendment: Reg. 13A inserted (6.4.2017) by [The Pollution Prevention and Control (Fees) (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/404)](https://www.legislation.gov.uk/uksi/2017/404), [regs. 1](https://www.legislation.gov.uk/uksi/2017/404/regulation/1), [5](https://www.legislation.gov.uk/uksi/2017/404/regulation/5)
+
+[^key-bd29a93a4ec3b75d5886dc4429afb8dc]: Textual amendment: Sum in reg. 13A(2) substituted (7.7.2026) by [The Pollution Prevention and Control (Fees) (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/757)](https://www.legislation.gov.uk/uksi/2026/757), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/757/regulation/1/2), [3(a)](https://www.legislation.gov.uk/uksi/2026/757/regulation/3/a)
+
+[^key-08ee73cb1196c70136db21b1da4da937]: Textual amendment: Sum in reg. 13A(2) substituted (7.7.2026) by [The Pollution Prevention and Control (Fees) (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/757)](https://www.legislation.gov.uk/uksi/2026/757), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/757/regulation/1/2), [3(b)](https://www.legislation.gov.uk/uksi/2026/757/regulation/3/b)
+
+[^c22459781]: Marginal citation: [S.I. 2005/3117](https://www.legislation.gov.uk/uksi/2005/3117).
+
+[^c22459791]: Marginal citation: [S.I. 2015/398](https://www.legislation.gov.uk/uksi/2015/398).
+
+[^c22459801]: Marginal citation: [S.I. 2015/386](https://www.legislation.gov.uk/uksi/2015/386).

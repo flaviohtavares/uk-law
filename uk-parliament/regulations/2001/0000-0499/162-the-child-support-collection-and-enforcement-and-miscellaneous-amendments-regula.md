@@ -1,0 +1,494 @@
+---
+title: The Child Support (Collection and Enforcement and Miscellaneous Amendments) Regulations 2000
+id: uksi/2001/162
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2001-01-18'
+text_date: '2010-01-25'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/uksi/2001/162
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2001/162/pdfs/uksi_20010162_301114_en.pdf
+- http://www.legislation.gov.uk/uksi/2001/162/pdfs/uksi_20010162_en.pdf
+- http://www.legislation.gov.uk/uksi/2001/162/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Child Support (Collection and Enforcement and Miscellaneous Amendments) Regulations 2000
+
+> Text as at 2010-01-25.
+>
+> Extent: England, Wales, Scotland.
+
+*Extent: E+W+S*
+
+2001 No. 162
+
+FAMILY LAW
+
+CHILD SUPPORT
+
+The Child Support (Collection and Enforcement and Miscellaneous Amendments) Regulations 2000
+
+Made
+
+18th January 2001
+
+Coming into force as provided in regulation 1(2) and (3)
+
+Whereas a draft of this Instrument was laid before Parliament in accordance with section 52(2) of the Child Support Act 1991[^c1555985] and approved by a resolution of each House of Parliament:
+
+Now, therefore, the Secretary of State for Social Security, in exercise of the powers conferred upon him by sections 28J(3), 29(2) and (3), 30(1), (4) and (5), 32(1) to (5) and (7) to (9), 34(1), 35(7) and (8), 39(1), (3) and (4), 40(11), 40B(11), 41(2), 41A(1) and (4), 47(1) to (3), 51, 52(4) and 54 of the Child Support Act 1991[^c1555986] and of all other powers enabling him in that behalf, hereby makes the following Regulations:
+
+## 1. Citation, commencement and interpretation[^c2200978]
+
+(1) These Regulations may be cited as the Child Support (Collection and Enforcement and Miscellaneous Amendments) Regulations 2000.
+
+(2) Regulations 4 and 6(3), and, for the purposes of those provisions, this regulation, shall come into force on 2nd April 2001 and regulation 2(6)(c) and (9), and, for the purposes of those provisions, this regulation, shall come into force on the day on which section 16 of the 2000 Act comes into force.
+
+(2A)[^key-518d8e3c504b55222d3d00e6852fdbcb] Regulation 2(6)(b) and, for the purposes of that provision, this regulation, shall come into force on 31st May 2001.
+
+(2B)[^M_F_e956a912-5821-4112-c03e-7eb1e8333b64] Regulation 2(3)(b)(ii) and (c) shall, to the extent that those provisions are not already in force on 12th July 2006, come into force on that date.
+
+(3) The remainder of these Regulations shall come into force in relation to a particular case on the day on which sections 1(2) and (3), 4, 18(1) and (2), and 20(1) of and Schedule 3 paragraph 11(2) and (16) to the 2000 Act come into force for the purposes of that type of case.
+
+(4) In these Regulations, unless the context otherwise requires—
+
+- “the 2000 Act” means the Child Support, Pensions and Social Security Act 2000;
+- “the Act” means the Child Support Act 1991;
+- “the Arrears, Interest and Adjustment Regulations” means the Child Support (Arrears, Interest and Adjustment of Maintenance Assessments) Regulations 1992 [^c1555987];
+- “the Collection and Enforcement Regulations” means the Child Support (Collection and Enforcement) Regulations 1992 [^c1555988];
+- “the Collection and Enforcement of Other Forms of Maintenance Regulations” means the Child Support (Collection and Enforcement of Other Forms of Maintenance) Regulations 1992 [^c1555989]; and
+- “the Fees Regulations” means the Child Support Fees Regulations 1992 [^c1555990].
+
+## 2. Amendment of the Collection and Enforcement Regulations[^c2200979]
+
+(1) The Collection and Enforcement Regulations shall be amended in accordance with the following paragraphs of this regulation.
+
+(2) In Part I (general), in regulation 1—
+
+- (a) for paragraph (2) there shall be substituted—
+
+  > (2) In these Regulations—
+  >
+  > “the Act” means the Child Support Act 1991;
+  >
+  > “the 2000 Act” means the Child Support, Pensions and Social Security Act 2000;
+  >
+  > “interest” means interest which has become payable under section 41 of the Act before its amendment by the 2000 Act; and
+  >
+  > “voluntary payment” means a payment as defined in section 28J of the Act and Regulations made under that section.
+
+  ;
+- (b) after paragraph (2), there shall be inserted—
+
+  > (2A) Except in relation to regulation 8(3)(a) and Schedule 2, in these Regulations “fee” means an assessment fee or a collection fee, which for these purposes have the same meaning as in the Child Support Fees Regulations 1992 [^c1555991] prior to their revocation by the Child Support (Collection and Enforcement and Miscellaneous Amendments) Regulations 2000 [^c1555992].
+
+  ;
+
+  and
+- (c) in paragraph (3)(b) for the words from “the second day” to the end of the paragraph there shall be substituted “ the day that it is posted. ”.
+
+(3) In Part II (collection of child support maintenance)—
+
+- (a) in paragraph (1) of regulation 2, in paragraph (2) of regulation 3 and in paragraph (2) of regulation 7, for the word “assessment” there shall be substituted “ calculation ”;
+- (b) in paragraph (1) of regulation 3—
+  - (i) after the words “child support maintenance” there shall be inserted “ , penalty payments, interest and fees ”; and
+  - (ii) after sub-paragraph (e) there shall be added—
+
+    > - (f) by debit card.
+
+    ;
+- (c) after paragraph (1) of regulation 3 there shall be inserted—
+
+  > (1A) In paragraph (1), “debit card” means a card, operating as a substitute for a cheque, that can be used to obtain cash or to make a payment at a point of sale whereby the card holder’s bank or building society account is debited without deferment of payment.
+
+  ;
+- (d) after regulation 5 there shall be inserted—
+
+  > **5A. Voluntary Payments**
+  >
+  > (1) Regulation 5(1) shall apply in relation to voluntary payments as if—
+  >
+  > - (a) for the words “Payment of child support maintenance” there were substituted the words “Voluntary payments”; and
+  > - (b) the words “or other specified person” were omitted.
+  >
+  > (2) In determining when the Secretary of State shall transmit a voluntary payment to the person entitled to it, the Secretary of State shall have regard to the factor in regulation 4(2)(c).
+
+  ;
+
+  and
+- (e) in regulation 7—
+  - (i) in paragraph (1)—
+    - (aa) at the beginning there shall be inserted “ In the case of child support maintenance, ”; and
+    - (bb) after sub-paragraph (d) there shall be added—
+
+      > - (e) the amount of any payment of child support maintenance which is overdue and which remains outstanding.
+
+      ;
+  - (ii) after paragraph (1) there shall be inserted—
+
+    > (1A) In the case of penalty payments, interest or fees, the Secretary of State shall send the liable person a notice stating—
+    >
+    > - (a) the amount of child support maintenance payable;
+    > - (b) the amount of arrears;
+    > - (c) the amount of the penalty payment, interest or fees to be paid, as the case may be;
+    > - (d) the method of payment;
+    > - (e) the day by which payment is to be made; and
+    > - (f) information as to the provisions of sections 16 and 20 of the Act.
+
+    ;
+
+    and
+  - (iii) after paragraph (2) there shall be added—
+
+    > (3) A notice under paragraph (1A) shall be sent to the liable person as soon as reasonably practicable after the decision to require a payment of the penalty payment, interest or fees has been made.
+
+    .
+
+(4) After Part II there shall be inserted—
+
+> **PART IIA — COLLECTION OF PENALTY PAYMENTS**
+>
+> **7A. Payment of a financial penalty**
+>
+> (1) This regulation applies where a maintenance calculation is, or has been, in force, the liable person is in arrears with payments of child support maintenance, and the Secretary of State requires the liable person to pay penalty payments to him.
+>
+> (2) For the purposes of regulation 7(1)(e) a payment will be overdue if it is not received by the time that the next payment of child support maintenance is due.
+>
+> (3) The Secretary of State may require a penalty payment to be made if the outstanding amount is not received within 7 days of the notification in regulation 7(1)(e) or if the liable person fails to pay all outstanding amounts due on dates and of amounts as agreed between the liable person and the Secretary of State.
+>
+> (4) Payments of a penalty payment shall be made within 14 days of the notification referred to in regulation 7(1A).
+>
+> (5) In this Part a “liable person” means a person liable to make a penalty payment and in Part II and in this Part “penalty payment” is to be construed in accordance with section 41A of the Act.
+
+.
+
+(5) Part III (deduction from earnings orders) shall be amended as follows—
+
+- (a) in regulation 8—
+  - (i) in paragraph (1), the following definitions shall be omitted: “disposable income”, “exempt income”, “interim maintenance assessment”, “prescribed minimum amount”, “protected earnings rate” and “protected income level”; and
+  - (ii) after the definition of “pay-day” there shall be inserted—
+
+    > “protected earnings proportion” means the proportion referred to in regulation 11(2).
+
+    ;
+- (b) in paragraph (e) of regulation 9, for the words “protected earnings rate” there shall be substituted “ protected earnings proportion ”;
+- (c) paragraphs (2) and (3) of regulation 10 shall be omitted;
+- (d) in regulation 11—
+  - (i) in the heading, for the words “Protected earnings rate” there shall be substituted “ Protected earnings proportion ”;
+  - (ii) in paragraphs (1) and (2), for the words “protected earnings rate” where they appear there shall be substituted “ protected earnings proportion ”;
+  - (iii) in paragraph (2)—
+    - (aa) the words “, except where paragraph (3) or paragraph (4) applies,” shall be omitted;
+    - (bb) for the words “the liable person’s exempt income” there shall be substituted “ 60% of the liable person’s net earnings ”; and
+    - (cc) for the word “assessment” there shall be substituted “ maintenance calculation ”; and
+  - (iv) paragraphs (3) and (4) shall be omitted;
+- (e) in regulation 12—
+  - (i) in paragraphs (2), (3) and (6), for the words “protected earnings rate” where they appear there shall be substituted “ protected earnings proportion ”; and
+  - (ii) paragraph (5) shall be omitted;
+- (f) in regulation 17—
+  - (i) in paragraph (1)(a), for the word “assessment” there shall be substituted “ calculation ”; and
+  - (ii) in paragraph (1)(b), for the words “and interest on arrears” there shall be substituted “ , penalty payment, interest or fees ”;
+- (g) in paragraph (1)(f) of regulation 20—
+  - (i) for the words “an interim maintenance assessment” there shall be substituted “ a default or interim maintenance decision ”; and
+  - (ii) for the words “maintenance assessment” there shall be substituted “ maintenance calculation ”;
+- (h) in paragraph (6) of regulation 21, the words “or (5)” shall be omitted; and
+- (i) in regulation 24—
+  - (i) paragraph (1) shall be omitted;
+  - (ii) in paragraph (2)(b), for the words “, deal with” to the end of the sub-paragraph, there shall be substituted the following—
+
+    > he shall—
+    >
+    > - (i) deal with the orders according to the respective dates on which they were made, disregarding any later order until an earlier one has been dealt with;
+    > - (ii) deal with any later order as if the earnings to which it relates were the residue of the liable person’s earnings after the making of any deduction to comply with any earlier order.
+
+    ;
+
+    and
+  - (iii) in paragraphs (2) and (4)—
+    - (aa) for the words “one or more deduction from earnings orders”, wherever they appear, there shall be substituted “ a deduction from earnings order ”; and
+    - (bb) wherever they appear, the words “or orders” shall be omitted.
+
+(6) In Part IV (liability orders)—
+
+- (a) in paragraph (2) of regulation 27, for the words “in respect of arrears payable under section 41(3) of the Act” there shall be substituted “ , penalty payments or fees which have become payable and have not been paid ”;
+- (b) in regulation 33—
+  - (i) in paragraphs (1) and (3), for “40” there shall be substituted “ 39A ”; and
+  - (ii) in paragraph (2), for “section 40”, there shall be substituted “ sections 39A and 40 ”; and
+- (c) after regulation 34 there shall be added—
+
+  > **35. Disqualification from driving order**
+  >
+  > (1) For the purposes of enabling an enquiry to be made under section 39A of the Act as to the liable person’s livelihood, means and conduct, a justice of the peace having jurisdiction for the area in which the liable person resides may issue a summons to him to appear before a magistrates’ court and to produce any driving licence held by him, and, where applicable, its counterpart, and, if he does not appear, may issue a warrant for his arrest.
+  >
+  > (2) In any proceedings under sections 39A and 40B of the Act, a statement in writing to the effect that wages of any amount have been paid to the liable person during any period, purporting to be signed for or on behalf of his employer, shall be evidence of the facts there stated.
+  >
+  > (3) Where an application under section 39A of the Act has been made but no disqualification order is made, the application may be renewed on the ground that the circumstances of the liable person have changed.
+  >
+  > (4) A disqualification order shall be in the form prescribed in Schedule 4.
+  >
+  > (5) The amount to be included in the disqualification order under section 40B(3)(b) of the Act in respect of the costs shall be such amount as in the view of the court is equal to the costs reasonably incurred by the Secretary of State in respect of the costs of the application for the disqualification order.
+  >
+  > (6) An order made under section 40B(4) of the Act may be executed anywhere in England and Wales by any person to whom it is directed or by any constable acting within his police area, if the liable person fails to appear or produce or surrender his driving licence or its counterpart to the court.
+  >
+  > (7) An order may be executed by a constable notwithstanding that it is not in his possession at the time but such order shall, if demanded, be shown to the liable person as soon as reasonably practicable.
+  >
+  > (8) In this regulation “driving licence” means a licence to drive a motor vehicle granted under Part III of the Road Traffic Act 1988 [^c1555993].
+
+  .
+
+(7) In Schedule 1, after “—interest” there shall be inserted—
+
+> —penalty payments
+>
+> —fees
+
+.
+
+(8) In Schedule 3—
+
+- (a) after “interest,” there shall be inserted “ penalty payments, fees, ”;
+- (b) in paragraph (i) after “\[garnishee proceedings\]” the word “or” shall be omitted; and
+- (c) in paragraph (iii) after “\[wilful refusal\]” wherever it appears, the word “or” shall be omitted.
+
+(9) After Schedule 3 there shall be inserted, as Schedule 4, the Schedule set out in the Schedule to these Regulations.
+
+## 3. Amendment of the Collection and Enforcement of Other Forms of Maintenance Regulations[^c2200980]
+
+(1) The Collection and Enforcement of Other Forms of Maintenance Regulations shall be amended in accordance with the following paragraphs of this regulation.
+
+(2) In regulations 2(b), 3 and 4(b), for the words “maintenance assessment” wherever they appear there shall be substituted “ maintenance calculation ”.
+
+(3) In regulation 3, for “40” there shall be substituted “ 40B ”.
+
+(4) In regulation 5, for “absent parent” there shall be substituted “ non-resident parent ”.
+
+## 4. Revocation of the Fees Regulations
+
+The Fees Regulations shall be revoked.
+
+## 5. Amendment of the Arrears, Interest and Adjustment Regulations[^c2200984]
+
+(1) The Arrears, Interest and Adjustment Regulations shall be amended in accordance with the following paragraphs of this regulation.
+
+(2) In paragraph (2) of regulation 1 (interpretation)—
+
+- (a) the following definitions shall be omitted: “absent parent”, “due date”, “Maintenance Assessments and Special Cases Regulations” and “Maintenance Assessment Procedure Regulations”;
+- (b) after the definition of “arrears notice” there shall be inserted—
+
+  > “Maintenance Calculation Procedure Regulations” means the Child Support (Maintenance Calculation Procedure) Regulations 2000 [^c1555994];
+
+  ;
+- (c) before the definition of “parent with care” there shall be inserted—
+
+  > “non-resident parent” includes a person treated as such under regulation 8 of the Child Support (Maintenance Calculations and Special Cases) Regulations 2000 [^c1555995];
+
+  ;
+
+  and
+- (d) in the definition of “relevant person”, for “Maintenance Assessment Procedure Regulations” there shall be substituted “ Maintenance Calculation Procedure Regulations ”.
+
+(3) In Part II (arrears of child support maintenance and interest on arrears)—
+
+- (a) in the heading to the Part, “and interest on arrears” shall be omitted;
+- (b)[^key-fa8389388208869c49f7fb0e74fd73cf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^key-e98729bca976a50ffe973140bb8c9fb8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d) in regulation 8—
+  - (i) in paragraphs (1)(i) and (2), for “absent parent” there shall be substituted “ non-resident parent ”; and
+  - (ii) in paragraph (2), for “maintenance assessment” there shall be substituted “ maintenance calculation ”; and
+- (e)[^key-74d7d1031febedd8262619f5c871644c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) In Part III (attribution of payments and adjustment of the amount payable under a maintenance assessment)—
+
+- (a) in the heading to the Part and the heading to regulation 10, for “assessment” there shall be substituted “ calculation ”;
+- (b) in regulation 9, paragraphs (1) and (4) of regulation 10 and paragraph (1) of regulation 10A for “assessment” wherever it appears there shall be substituted “ calculation ”;
+- (c) in regulation 9, paragraph (1)(b)(i) of regulation 10 and paragraph (1) of regulation 10A, for “absent parent” there shall be substituted “ non-resident parent ”;
+- (d)[^key-db4b4b12570fbdedfd79dafbda755081] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e) in regulation 10A(1)—
+  - (i) in sub-paragraph (a), the words “family credit or disability working allowance” shall be omitted; and
+  - (ii) sub-paragraph (b) shall be omitted; and
+- (f) after regulation 10A there shall be inserted—
+
+  > **10B. Repayment of a reimbursement of a voluntary payment**
+  >
+  > The Secretary of State may require a relevant person to repay the whole or any part of any payment by way of reimbursement made to a non-resident parent under section 41B(2) of the Act where—
+  >
+  > - (a) a voluntary payment was made;
+  > - (b) section 41B(1A) applies; and
+  >
+  > income support or income-based jobseeker’s allowance was not in payment to that person at any time during the period in which the voluntary payment was made or at the date or dates on which the payment by way of reimbursement was made.
+
+  .
+
+## 6. Savings[^c2200985]
+
+(Z1)[^key-b8852947016e3c6821edeeb4ea4bb5ad] This regulation is subject to the Child Support (Transitional Provisions) Regulations 2000.
+
+(1) Where, in respect of a particular case before the date that these Regulations come into force with respect to that type of case,—
+
+- (a) interest has become due but has not been paid; or[^M_F_0e5151eb-d81b-466c-8ac6-b9336fdeb78d]
+- (b) the Secretary of State has made a payment by way of reimbursement under section 41B(2) of the Act; [^M_F_6ddaa5b0-cad3-4109-d7ea-015d50d318be]...
+- (c)[^M_F_2c8226fe-0ff2-462c-f9ec-5560cb86e6a7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+these Regulations shall not apply for the purposes of—
+
+- (i) the recovery of the interest referred to in sub-paragraph (a); or[^M_F_3604b1c7-b63d-467a-bd42-6f2114b6a7ac]
+- (ii) the repayment to the Secretary of State of the whole, or part, of the sum reimbursed referred to in sub-paragraph (b); [^M_F_4e5fe71a-817e-4fa1-b0ec-545db46c268c]...
+- (iii)[^M_F_e2c11def-f4a3-456d-f4e4-bb6bc1297d89] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) Where in respect of a particular case after the date that these Regulations come into force with respect to that type of case an adjustment falls to be made in relation to a maintenance assessment, these Regulations shall not apply for the purposes of making the adjustment.
+
+(3) Where, before the coming into force of regulation 4 of these Regulations, fees have become due but have not been paid, the Fees Regulations shall have effect as if regulation 4 of these Regulations had not been made.
+
+Signed by authority of the Secretary of State for Social Security.
+
+P. Hollis
+
+Parliamentary Under-Secretary of State,
+
+Department of Social Security
+
+18th January 2001
+
+## SCHEDULE — SCHEDULE 4 TO BE INSERTED IN THE COLLECTION AND ENFORCEMENT REGULATIONS[^c2200986]
+
+Regulation 2(9)
+
+> **SCHEDULE 4 — FORM OF ORDER OF DISQUALIFICATION FROM HOLDING OR OBTAINING A DRIVING LICENCE**
+>
+> **Regulation 35(4)**
+>
+> Sections 39A and 40B of the Child Support Act 1991 and regulation 35 of the Child Support (Collection and Enforcement) Regulations 1992.
+>
+> .................... Magistrates’ Court
+>
+> Date:
+>
+> Liable Person:
+>
+> Address:
+>
+> A liability order (“the order”) was made against the liable person by the \[\] Magistrates’ Court on \[\] under section 33 of the Child Support Act 1991 (“the Act”) in respect of an amount of \[\].
+>
+> The court is satisfied—
+>
+> - (i) that the Secretary of State sought under section 35 of the Act to levy by distress the amount then outstanding in respect of which the order was made;
+>
+> \[and/or\]
+>
+> that the Secretary of State sought under section 36 of the Act to recover through \[\] County Court by means of \[garnishee proceedings\] \[a charging order\], the amount then outstanding in respect of which the order was made;
+>
+> - (ii) that such amount, or any proportion of it, remains unpaid; and
+> - (iii) having inquired in the liable person’s presence as to his means and whether there has been \[wilful refusal\] \[culpable neglect\] on his part.
+>
+> The decision of the court is that the liable person be disqualified from \[holding or obtaining\] a driving licence from \[date\] for \[period\] unless the aggregate amount in respect of which this order is made is sooner paid\*
+>
+> This order is made in respect of—
+>
+> Amount outstanding (including any interest, fees, penalty payments, costs and charges):
+>
+> Aggregate amount:
+>
+> And you \[the liable person\] shall surrender to the court any driving licence and counterpart held.
+>
+> Justice of the Peace
+>
+> \[*or* by order of the Court
+>
+> Clerk of the Court\]
+>
+> \**Note:* The period of disqualification may be reduced as provided by section 40B(5)(a) of the Act if part payment is made of the aggregate amount. The order will be revoked by section 40B(5)(b) of the Act if full payment is made of the aggregate amount.
+
+*(This note is not part of the Regulations)*
+
+These Regulations amend the Child Support (Collection and Enforcement) Regulations 1992 (“the Collection and Enforcement Regulations”), the Child Support (Collection and Enforcement of Other Forms of Maintenance) Regulations 1992 (“the Collection and Enforcement of Other Forms of Maintenance Regulations”) and the Child Support (Arrears, Interest and Adjustment of Maintenance Assessments) Regulations 1992 (“the Arrears, Interest and Adjustment Regulations”) and revoke, with savings provisions, the Child Support Fees Regulations 1992 (“the Fees Regulations”). The amendments reflect amendments made to the Child Support Act 1991 (c. 48) (“the Act”) by the Child Support, Pensions and Social Security Act 2000 (c. 19) (“the 2000 Act”).
+
+Regulation 1 deals with citation, commencement and interpretation. Apart from regulations 4 and 6(3) which come into force on 2nd April 2001 and regulation 2(6)(c) and (9) which comes into force on the day on which section 16 of the 2000 Act comes into force, these Regulations come into force at different times for different cases according to the dates on which provisions of the 2000 Act which are relevant to these Regulations are commenced for different types of cases.
+
+Regulation 2 amends the Collection and Enforcement Regulations. Regulation 2(2) substitutes regulation 1(2) of the Collection and Enforcement Regulations to include definitions of terms referred to in the amendments to those regulations and amends regulation 1(3) of those regulations.
+
+Regulation 2(3), (6)(a), (7) and (8) makes various amendments to reflect changes in terminology in the Act, changes to the method of collecting fees and methods of payment, the introduction into the Act of the ability to make voluntary payments in the period before a maintenance calculation is made, and the introduction into the Act of a system of penalty payments.
+
+Regulation 2(4) inserts Part IIA in the Collection and Enforcement Regulations to provide for the collection of penalty payments.
+
+Regulation 2(5) makes amendments to the Collection and Enforcement Regulations to reflect changes in the Act relating to deduction from earnings orders and also to reflect changes in terminology and provisions dealing with the collection of interest, fees and penalty payments.
+
+Regulation 2(6)(c) inserts regulation 35 in the Collection and Enforcement Regulations, which makes provision in relation to disqualification from driving orders. The regulation provides for the procedures to be followed on the making of such orders.
+
+Regulation 2(9) inserts the Schedule to these Regulations as Schedule 4 to the Collection and Enforcement Regulations, which is a form of order of disqualification from holding or obtaining a driving licence.
+
+Regulation 3 amends the Collection and Enforcement of Other Forms of Maintenance Regulations to reflect changes in terminology in the Act.
+
+Regulation 4 provides that the Fees Regulations shall be revoked.
+
+Regulation 5 amends the Arrears, Interest and Adjustment Regulations to reflect changes in terminology and other amendments to the Act.
+
+Regulation 6 provides for savings.
+
+The impact on business of these Regulations was covered in the Regulatory Impact Assessment (RIA) for the 2000 Act, in accordance with which, and in consequence of which, these Regulations are made. A copy of that RIA has been placed in the libraries of both Houses of Parliament and can be obtained from the Department of Social Security, Regulatory Impact Unit, Adelphi, 1-11 John Adam Street, London WC2N 6HT.
+
+## Annotations
+
+[^c1555985]: Marginal citation: [1991 c. 48](https://www.legislation.gov.uk/ukpga/1991/48). Section 52 is amended by section 25 of the [Child Support, Pensions and Social Security Act 2000 (c. 19)](https://www.legislation.gov.uk/ukpga/2000/19).
+
+[^c1555986]: Marginal citation: [Sections 32](https://www.legislation.gov.uk/uksi/2001/162/section/32), [47](https://www.legislation.gov.uk/uksi/2001/162/section/47) and 54 are amended by, sections 28J, 39A and 40B are inserted by, and section 41A is substituted by, respectively, paragraph 11(16), (18) and (20) of Schedule 3 to, and sections 20(1), 16(1) and (3) and 18(2) of, the Child Support, Pensions and Social Security Act 2000. Section 54 is cited because of the meaning ascribed to the word “prescribed”.
+
+[^c2200978]: Commencement: Reg. 1 coming into force in accordance with {reg. 1(2)(3)} and [S.I. 2000/3354](https://www.legislation.gov.uk/uksi/2000/3354) and [S.I. 2003/192](https://www.legislation.gov.uk/uksi/2003/192)
+
+[^key-518d8e3c504b55222d3d00e6852fdbcb]: Textual amendment: [Reg. 1(2A)](https://www.legislation.gov.uk/uksi/2001/162/regulation/1/2A) inserted (31.5.2001) by [The Child Support (Miscellaneous Amendments) Regulations 2001 (S.I. 2001/1775)](https://www.legislation.gov.uk/uksi/2001/1775), [regs. 1](https://www.legislation.gov.uk/uksi/2001/1775/regulation/1), [2](https://www.legislation.gov.uk/uksi/2001/1775/regulation/2)
+
+[^M_F_e956a912-5821-4112-c03e-7eb1e8333b64]: Textual amendment: [Reg. 1(2B)](https://www.legislation.gov.uk/uksi/2001/162/regulation/1/2A) inserted (12.7.2006) by [The Child Support (Miscellaneous Amendments) Regulations 2006 (S.I. 2006/1520)](https://www.legislation.gov.uk/uksi/2006/1520), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/1520/regulation/1/1), [6(2)](https://www.legislation.gov.uk/uksi/2006/1520/regulation/6/2)
+
+[^c1555987]: Marginal citation: [S.I. 1992/1816](https://www.legislation.gov.uk/uksi/1992/1816). Relevant amending instruments are [S.I. 1993/913](https://www.legislation.gov.uk/uksi/1993/913), 1995/1045, 1995/3261, 1996/1345 and 1999/1510.
+
+[^c1555988]: Marginal citation: [S.I. 1992/1989](https://www.legislation.gov.uk/uksi/1992/1989). Relevant amending instruments are [S.I. 1993/913](https://www.legislation.gov.uk/uksi/1993/913), 1994/227, 1995/3261, 1996/1945, 1998/58, 1999/977 and 1999/1510.
+
+[^c1555989]: Marginal citation: [S.I. 1992/2643](https://www.legislation.gov.uk/uksi/1992/2643), as amended by [S.I. 1993/913](https://www.legislation.gov.uk/uksi/1993/913).
+
+[^c1555990]: Marginal citation: [S.I. 1992/3094](https://www.legislation.gov.uk/uksi/1992/3094). Relevant amending instruments are [S.I. 1994/227](https://www.legislation.gov.uk/uksi/1994/227), 1995/1045, 1996/1345, 1996/1945 and 1999/977.
+
+[^c2200979]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2001/162/regulation/2) coming into force in accordance with {reg. 1(2)(3)} and [S.I. 2000/3354](https://www.legislation.gov.uk/uksi/2000/3354) and [S.I. 2003/192](https://www.legislation.gov.uk/uksi/2003/192)
+
+[^c1555991]: Marginal citation: The definition of collection fee was amended by [S.I. 1994/227](https://www.legislation.gov.uk/uksi/1994/227).
+
+[^c1555992]: Marginal citation: [S.I. 2001/162](https://www.legislation.gov.uk/uksi/2001/162).
+
+[^c1555993]: Marginal citation: [1998 c. 52](https://www.legislation.gov.uk/ukpga/1998/52), [section 108(1)](https://www.legislation.gov.uk/ukpga/1998/52/section/108/1).
+
+[^c2200980]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2001/162/regulation/3) coming into force in accordance with {reg. 1(3)} and [S.I. 2003/192](https://www.legislation.gov.uk/uksi/2003/192)
+
+[^c2200984]: Commencement: Reg. 5 coming into force in accordance with {reg. 1(3)} and [S.I. 2003/192](https://www.legislation.gov.uk/uksi/2003/192)
+
+[^c1555994]: Marginal citation: [S.I. 2001/157](https://www.legislation.gov.uk/uksi/2001/157).
+
+[^c1555995]: Marginal citation: [S.I. 2001/155](https://www.legislation.gov.uk/uksi/2001/155).
+
+[^key-fa8389388208869c49f7fb0e74fd73cf]: Textual amendment: [Reg. 5(3)(b)](https://www.legislation.gov.uk/uksi/2001/162/regulation/5/3/b) revoked (25.1.2010) by [Child Support (Management of Payments and Arrears) Regulations 2009 (S.I. 2009/3151)](https://www.legislation.gov.uk/uksi/2009/3151), [regs. 1](https://www.legislation.gov.uk/uksi/2009/3151/regulation/1), [14](https://www.legislation.gov.uk/uksi/2009/3151/regulation/14), [Schs.](https://www.legislation.gov.uk/uksi/2009/3151/schedule) (with [reg. 15](https://www.legislation.gov.uk/uksi/2009/3151/regulation/15))
+
+[^key-e98729bca976a50ffe973140bb8c9fb8]: Textual amendment: [Reg. 5(3)(c)](https://www.legislation.gov.uk/uksi/2001/162/regulation/5/3/c) revoked (25.1.2010) by [Child Support (Management of Payments and Arrears) Regulations 2009 (S.I. 2009/3151)](https://www.legislation.gov.uk/uksi/2009/3151), [regs. 1](https://www.legislation.gov.uk/uksi/2009/3151/regulation/1), [14](https://www.legislation.gov.uk/uksi/2009/3151/regulation/14), [Schs.](https://www.legislation.gov.uk/uksi/2009/3151/schedule) (with [reg. 15](https://www.legislation.gov.uk/uksi/2009/3151/regulation/15))
+
+[^key-74d7d1031febedd8262619f5c871644c]: Textual amendment: [Reg. 5(3)(e)](https://www.legislation.gov.uk/uksi/2001/162/regulation/5/3/e) revoked (25.1.2010) by [Child Support (Management of Payments and Arrears) Regulations 2009 (S.I. 2009/3151)](https://www.legislation.gov.uk/uksi/2009/3151), [regs. 1](https://www.legislation.gov.uk/uksi/2009/3151/regulation/1), [14](https://www.legislation.gov.uk/uksi/2009/3151/regulation/14), [Schs.](https://www.legislation.gov.uk/uksi/2009/3151/schedule) (with [reg. 15](https://www.legislation.gov.uk/uksi/2009/3151/regulation/15))
+
+[^key-db4b4b12570fbdedfd79dafbda755081]: Textual amendment: [Reg. 5(4)(d)](https://www.legislation.gov.uk/uksi/2001/162/regulation/5/4/d) revoked (25.1.2010) by [Child Support (Management of Payments and Arrears) Regulations 2009 (S.I. 2009/3151)](https://www.legislation.gov.uk/uksi/2009/3151), [regs. 1](https://www.legislation.gov.uk/uksi/2009/3151/regulation/1), [14](https://www.legislation.gov.uk/uksi/2009/3151/regulation/14), [Schs.](https://www.legislation.gov.uk/uksi/2009/3151/schedule) (with [reg. 15](https://www.legislation.gov.uk/uksi/2009/3151/regulation/15))
+
+[^c2200985]: Commencement: Reg. 6 coming into force in accordance with {reg. 1(2)(3)} and [S.I. 2000/3354](https://www.legislation.gov.uk/uksi/2000/3354) and [S.I. 2003/192](https://www.legislation.gov.uk/uksi/2003/192)
+
+[^key-b8852947016e3c6821edeeb4ea4bb5ad]: Textual amendment: [Reg. 6(Z1)](https://www.legislation.gov.uk/uksi/2001/162/regulation/6/Z1) inserted (3.3.2003) by [The Child Support (Transitional Provision)(Miscellaneous Amendments) Regulations 2003 (S.I. 2003/347)](https://www.legislation.gov.uk/uksi/2003/347), [regs. 1](https://www.legislation.gov.uk/uksi/2003/347/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2003/347/regulation/2/3), [2(4)(a)](https://www.legislation.gov.uk/uksi/2003/347/regulation/2/4/a)
+
+[^M_F_0e5151eb-d81b-466c-8ac6-b9336fdeb78d]: Textual amendment: Word in [reg. 6(1)(a)](https://www.legislation.gov.uk/uksi/2001/162/regulation/6/1) inserted (12.7.2006) by [The Child Support (Miscellaneous Amendments) Regulations 2006 (S.I. 2006/1520)](https://www.legislation.gov.uk/uksi/2006/1520), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/1520/regulation/1/1), [6(3)(a)](https://www.legislation.gov.uk/uksi/2006/1520/regulation/6/3/a)
+
+[^M_F_6ddaa5b0-cad3-4109-d7ea-015d50d318be]: Textual amendment: Word in [reg. 6(1)(b)](https://www.legislation.gov.uk/uksi/2001/162/regulation/6/1) omitted (12.7.2006) by virtue of [The Child Support (Miscellaneous Amendments) Regulations 2006 (S.I. 2006/1520)](https://www.legislation.gov.uk/uksi/2006/1520), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/1520/regulation/1/1), [6(3)(b)](https://www.legislation.gov.uk/uksi/2006/1520/regulation/6/3/b)
+
+[^M_F_2c8226fe-0ff2-462c-f9ec-5560cb86e6a7]: Textual amendment: [Reg. 6(1)(c)](https://www.legislation.gov.uk/uksi/2001/162/regulation/6/1) omitted (12.7.2006) by virtue of [The Child Support (Miscellaneous Amendments) Regulations 2006 (S.I. 2006/1520)](https://www.legislation.gov.uk/uksi/2006/1520), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/1520/regulation/1/1), [6(3)(c)](https://www.legislation.gov.uk/uksi/2006/1520/regulation/6/3/c)
+
+[^M_F_3604b1c7-b63d-467a-bd42-6f2114b6a7ac]: Textual amendment: Word in [reg. 6(1)(i)](https://www.legislation.gov.uk/uksi/2001/162/regulation/6/1) inserted (12.7.2006) by [The Child Support (Miscellaneous Amendments) Regulations 2006 (S.I. 2006/1520)](https://www.legislation.gov.uk/uksi/2006/1520), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/1520/regulation/1/1), [6(3)(a)](https://www.legislation.gov.uk/uksi/2006/1520/regulation/6/3/a)
+
+[^M_F_4e5fe71a-817e-4fa1-b0ec-545db46c268c]: Textual amendment: Word in [reg. 6(1)(ii)](https://www.legislation.gov.uk/uksi/2001/162/regulation/6/1) omitted (12.7.2006) by virtue of [The Child Support (Miscellaneous Amendments) Regulations 2006 (S.I. 2006/1520)](https://www.legislation.gov.uk/uksi/2006/1520), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/1520/regulation/1/1), [6(3)(b)](https://www.legislation.gov.uk/uksi/2006/1520/regulation/6/3/b)
+
+[^M_F_e2c11def-f4a3-456d-f4e4-bb6bc1297d89]: Textual amendment: [Reg. 6(1)(iii)](https://www.legislation.gov.uk/uksi/2001/162/regulation/6/1) omitted (12.7.2006) by virtue of [The Child Support (Miscellaneous Amendments) Regulations 2006 (S.I. 2006/1520)](https://www.legislation.gov.uk/uksi/2006/1520), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/1520/regulation/1/1), [6(3)(c)](https://www.legislation.gov.uk/uksi/2006/1520/regulation/6/3/c)
+
+[^c2200986]: Commencement: [Sch.](https://www.legislation.gov.uk/uksi/2001/162/schedule) coming into force in accordance with {reg. 1(2)} and [S.I. 2000/3354](https://www.legislation.gov.uk/uksi/2000/3354)

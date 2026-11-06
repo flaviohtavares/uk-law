@@ -1,0 +1,157 @@
+---
+title: The Firefighters’ Pension Scheme (Amendment and Transitional Provisions) (England) Order 2016
+id: uksi/2016/878
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2016-09-06'
+text_date: '2017-10-06'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2016/878
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2016/878/pdfs/uksiem_20160878_en.pdf
+- http://www.legislation.gov.uk/uksi/2016/878/pdfs/uksi_20160878_en.pdf
+- http://www.legislation.gov.uk/uksi/2016/878/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Firefighters’ Pension Scheme (Amendment and Transitional Provisions) (England) Order 2016
+
+> Text as at 2017-10-06.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2016 No. 878
+
+Fire And Rescue Services, England
+
+Public Service Pensions, England
+
+The Firefighters’ Pension Scheme (Amendment and Transitional Provisions) (England) Order 2016
+
+Made
+
+6th September 2016
+
+Laid before Parliament
+
+8th September 2016
+
+Coming into force
+
+30th September 2016
+
+The Secretary of State makes the following Order in exercise of the powers conferred by section 26(1), (2) and (5) of the Fire Services Act 1947[^f00001] and section 12 of the Superannuation Act 1972[^f00002], as applied by section 16(3) of that Act.
+
+## 1. Citation, application and commencement[^key-4e0885e77820ec6b3931933b8bf46bfb]
+
+(1) This Order may be cited as the Firefighters’ Pension Scheme (Amendment and Transitional Provisions) (England) Order 2016.
+
+(2) This Order applies in relation to England only[^f00003].
+
+(3) This Order comes into force on 30th September 2016 but article 2(2) has effect from 1st December 2006.
+
+## 2. Amendment of the Firemen’s Pension Scheme Order 1992[^key-d349f7ce08c74d919ffebae8755bd9df]
+
+(1) Schedule 2 to the Firemen’s Pension Scheme Order 1992[^f00004] is amended as follows.
+
+(2) In rule G2 (pension contributions)[^f00005]—
+
+- (a) in paragraph (1) for “A regular firefighter shall” substitute “Subject to paragraph (1B), a regular firefighter shall”; and
+- (b) before paragraph (2) insert—
+
+  > (1B) Paragraph (1) does not apply to a firefighter below the age of 50 who has reckoned 30 years or more pensionable service.
+
+  .
+
+(3) In paragraph (3) of rule LA1 (establishment, maintenance and operation of firefighters’ pension fund etc)[^f00006] after sub-paragraph (e) insert—
+
+> ; and
+>
+> - (f) sums payable under article 3 of the Firefighters’ Pension Scheme (Amendment and Transitional Provisions) (England) Order 2016.
+
+.
+
+## 3. Transitional provision[^key-086dc1d43965d2a3a8262907b10a7720]
+
+(1) A fire and rescue authority must pay the required amount as described in paragraph (3) to a firefighter who falls within paragraph (2).
+
+(2) A firefighter falls within this paragraph if in the period beginning with 1st December 2006 and ending with 30th September 2016, the firefighter paid pensions contributions pursuant to rule G2(1) of the Firefighters’ Pension Scheme which as a consequence of article 2(2) of this Order did not fall to be payable.
+
+(3) The required amount is a lump sum equal to
+
+[formula: (A + B) x C](https://www.legislation.gov.uk/uksi/2016/878)
+
+Where—
+
+- A is the total value of each contribution (not including any contribution in relation to an additional pension benefit),[^key-df8774e5ff4fd4d2cf5125d1cd8d0500] paid net of any tax that would have been payable by the firefighter had the contribution not been paid;
+- B is the interest calculated on A in accordance with paragraph (4); and
+- C is 100/60.
+
+(4) Interest must be—
+
+- (a) calculated separately in relation to each contribution paid; and
+- (b) applied on a compound basis at the past interest rate on a day to day basis for the period specified in paragraph (5).
+
+(5) The period specified for the purposes of paragraph (4)(b) begins with the first day of the month in which each contribution was paid and ends with the last day of the month before the month in which the payment of the required amount is made.
+
+(6) Where a payment is required to be made under paragraph (1) in respect of a person who died before 30th September 2016 or who dies on or after that date but before the payment is made, the fire and rescue authority must pay the sum due to the person’s personal representatives.
+
+(7) For the purposes of this article—
+
+- “Bank of England base rate” means—
+  - (a) the rate announced from time to time by the Monetary Policy Committee of the Bank of England as the official dealing rate, being the rate at which the Bank is willing to enter into transactions for providing short term liquidity in the money markets; or
+  - (b) where an order under section 19 of the Bank of England Act 1998 (reserve powers)[^f00007] is in force, any equivalent rate determined by the Treasury under that section;
+- “fire and rescue authority” has the same meaning as in the Fire and Rescue Services Act 2004[^f00008]; and
+- “past interest rate” is a rate equivalent to the Bank of England base rate applicable on each day of the period specified in paragraph (5).
+
+Brandon Lewis
+
+Minister of State
+
+Home Office
+
+6th September 2016
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order amends the Firefighters’ Pension Scheme 1992 (set out in Schedule 2 to the Firemen’s Pension Scheme Order 1992 [S.I. 1992/129](https://www.legislation.gov.uk/uksi/1992/129), “the Scheme”), as it has effect in England.
+
+Article 2(2) removes the obligation on firefighters to pay contributions for the period after they have reckoned the maximum permissible pension entitlement until they reach age 50, the minimum age to draw benefits. The change takes effect from 1st December 2006. Section 12 of the Superannuation Act 1972 permits provisions to have retrospective effect.
+
+Articles 2(3) and 3 make provision for the repayment of any such contributions that have been paid between 1st December 2006 and the date this Order comes into force. The formula set out in article 3 takes account of both interest and an uplift reflecting the tax charge that will be payable under the Finance Act [2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12). Under article 2(3), payments will be made from the Firefighters’ Pension Fund which each fire and rescue authority is required to establish and maintain for the purposes of the Scheme.
+
+A full impact assessment has not been produced for this instrument as no impact on the private or voluntary sectors is foreseen and the impact on the public sector is minimal.
+
+## Annotations
+
+[^f00001]: Footnote: [1947 c. 41](https://www.legislation.gov.uk/ukpga/1947/41), repealed by sections 52 and 54 of, and Schedule 2 to, the Fire and Rescue Services Act [2004 (c. 21)](https://www.legislation.gov.uk/ukpga/2004/21). Subsections (1) to (5) of section 26 continue to have effect, for the purposes of the Firefighters’ Pension Scheme, in relation to England and Scotland by virtue of [S.I. 2004/2306](https://www.legislation.gov.uk/uksi/2004/2306) and in relation to Wales by virtue of [S.I. 2004/2917](https://www.legislation.gov.uk/uksi/2004/2917). The name of the scheme was changed to the Firefighters’ Pension Scheme, by article 4(1) of [S.I. 2004/2306](https://www.legislation.gov.uk/uksi/2004/2306). Section 26 of the Fire Services Act 1947 was amended by section 1 of the Fire Services Act [1951 (c. 27)](https://www.legislation.gov.uk/ukpga/1951/27), section 42 of the Reserve and Auxiliary Forces (Protection of Civil Interests) Act [1951 (c. 65)](https://www.legislation.gov.uk/ukpga/1951/65), section 33 of, and Schedule 3 to, the Theft Act [1968 (c. 60)](https://www.legislation.gov.uk/ukpga/1968/60), sections 16 and 29 of, and Schedule 8 to, the Superannuation Act [1972 (c. 11)](https://www.legislation.gov.uk/ukpga/1972/11), sections 100 and 101 of, and Schedule 27 to, the Social Security Act [1973 (c. 38)](https://www.legislation.gov.uk/ukpga/1973/38), section 1 of, and Schedule 1 to, the Social Security (Consequential Provisions) Act [1975 (c. 18)](https://www.legislation.gov.uk/ukpga/1975/18), section 32 of the Magistrates’ Courts Act [1980 (c. 43)](https://www.legislation.gov.uk/ukpga/1980/43), section 1 of the Police and Firemen’s Pensions Act [1997 (c. 52)](https://www.legislation.gov.uk/ukpga/1997/52), section 256 of, and Schedule 25 to, the Civil Partnership Act [2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33) and article 2 of [S.I. 1976/551](https://www.legislation.gov.uk/uksi/1976/551).
+
+[^f00002]: Footnote: [1972 c. 11](https://www.legislation.gov.uk/ukpga/1972/11); section 12 was amended by section 10 of the Pensions (Miscellaneous Provisions) Act [1990 (c. 7)](https://www.legislation.gov.uk/ukpga/1990/7). Section 16 was repealed by section 54 of, and Schedule 2 to, the Fire and Rescue Services Act 2004 but continues to have effect, in relation to England and Scotland, for the purposes of the scheme set out in the Firemen’s Pension Scheme Order 1992 by virtue of article 3 of [S.I. 2004/2306](https://www.legislation.gov.uk/uksi/2004/2306).
+
+[^key-4e0885e77820ec6b3931933b8bf46bfb]: Commencement: Art. 1 in force at 30.9.2016, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2016/878/article/1/3)
+
+[^f00003]: Footnote: The Secretary of State’s functions under section 26 of the Fire Services Act 1947, in so far as they were exercisable in relation to Scotland, were devolved to Scottish Ministers by section 63 of the Scotland Act [1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46) and article 2 of, and Schedule 1 to, [S.I. 1999/1750](https://www.legislation.gov.uk/uksi/1999/1750). The Secretary of State’s functions under section 26 are now vested in the Welsh Ministers so far as they are exercisable in relation to Wales by virtue of paragraph 30 of Schedule 11 to the Government of Wales Act [2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32).
+
+[^key-d349f7ce08c74d919ffebae8755bd9df]: Commencement: Art. 2 in force at 30.9.2016, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2016/878/article/1/3)
+
+[^f00004]: Footnote: [S.I. 1992/129](https://www.legislation.gov.uk/uksi/1992/129); amended by [S.I. 1997/2309](https://www.legislation.gov.uk/uksi/1997/2309), [1997/2851](https://www.legislation.gov.uk/uksi/1997/2851), [1998/1010](https://www.legislation.gov.uk/uksi/1998/1010), [2001/3649](https://www.legislation.gov.uk/uksi/2001/3649), [2001/3691](https://www.legislation.gov.uk/uksi/2001/3691), [2004/1912](https://www.legislation.gov.uk/uksi/2004/1912), [2006/1810](https://www.legislation.gov.uk/uksi/2006/1810), [2006/3433](https://www.legislation.gov.uk/uksi/2006/3433), [2008/214](https://www.legislation.gov.uk/uksi/2008/214), [2012/953](https://www.legislation.gov.uk/uksi/2012/953), [2013/1392](https://www.legislation.gov.uk/uksi/2013/1392) and [2015/579](https://www.legislation.gov.uk/uksi/2015/579).
+
+[^f00005]: Footnote: Paragraphs (1) and (1A) were substituted for paragraph (1) by [S.I. 2006/1810](https://www.legislation.gov.uk/uksi/2006/1810); paragraph (1) was amended, and paragraph (1A) revoked, by [S.I. 2012/953](https://www.legislation.gov.uk/uksi/2012/953). There are other amendments to rule G2 which are not relevant to this instrument.
+
+[^f00006]: Footnote: Part LA was inserted into [S.I 1992/129](https://www.legislation.gov.uk/uksi/1992/129) by [S.I 2006/1810](https://www.legislation.gov.uk/uksi/2006/1810). Rule LA(1)(3) was amended by [S.I 2006/3433](https://www.legislation.gov.uk/uksi/2006/3433).
+
+[^key-086dc1d43965d2a3a8262907b10a7720]: Commencement: Art. 3 in force at 30.9.2016, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2016/878/article/1/3)
+
+[^key-df8774e5ff4fd4d2cf5125d1cd8d0500]: Textual amendment: Words in [art. 3(3)](https://www.legislation.gov.uk/uksi/2016/878/article/3/3) inserted (with effect from 30.9.2016) by [The Firefighters’ Pension Schemes and Compensation Scheme (Amendment) (England) Order 2017 (S.I. 2017/892)](https://www.legislation.gov.uk/uksi/2017/892), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/892/article/1/1)[(4)](https://www.legislation.gov.uk/uksi/2017/892/article/1/4), [5](https://www.legislation.gov.uk/uksi/2017/892/article/5)
+
+[^f00007]: Footnote: [1998 c. 11](https://www.legislation.gov.uk/ukpga/1998/11).
+
+[^f00008]: Footnote: [2004 c. 21](https://www.legislation.gov.uk/ukpga/2004/21).

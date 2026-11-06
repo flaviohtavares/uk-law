@@ -1,0 +1,52 @@
+---
+title: Housing Act 1985, section 395A
+act: Housing Act 1985
+section: 395A
+status: repealed
+text_date: '2026-10-26'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/1985/68/section/395A
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Housing Act 1985, section 395A
+
+> This provision is no longer in force.
+>
+> Extent: England, Wales.
+
+## 395A. Codes of practice.[^c15075371]
+
+*Extent: E+W*
+
+**No longer in force (ended 2006-04-06).**
+
+(1) The Secretary of State may by order—
+
+- (a) approve any code of practice (whether prepared by him or another person) which, in his opinion, gives suitable guidance to any person in relation to any matter arising under this Part;
+- (b) approve any modification of such a code; or
+- (c) withdraw such a code or modification.
+
+(2) The Secretary of State shall only approve a code of practice or a modification of a code if he is satisfied that—
+
+- (a) the code or modification has been published (whether by him or by another person) in such manner as he considers appropriate for the purpose of bringing the code or modification to the notice of those likely to be affected by it; or
+- (b) arrangements have been made for the code or modification to be so published.
+
+(3) The Secretary of State may approve—
+
+- (a) more than one code of practice in relation to the same matter;
+- (b) a code of practice which makes different provision with respect to different cases or descriptions of case (including different provision for different areas).
+
+(4) A failure to comply with a code of practice for the time being approved under this section shall not of itself render a person liable to any civil or criminal proceedings; but in any civil or criminal proceedings—
+
+- (a) any code of practice approved under this section shall be admissible in evidence, and
+- (b) any provision of any such code which appears to the court to be relevant to any question arising in the proceedings shall be taken into account in determining that question.
+
+(5) An order under this section shall be made by statutory instrument which shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+(6) In this section references to a code of practice include references to a part of a code of practice.
+
+## Annotations
+
+[^c15075371]: Textual amendment: [S. 395A](https://www.legislation.gov.uk/ukpga/1985/68/section/395A) inserted (1.10.1996) by [1996 c. 52](https://www.legislation.gov.uk/ukpga/1996/52), [s. 77](https://www.legislation.gov.uk/ukpga/1996/52/section/77); [S.I. 1996/2402](https://www.legislation.gov.uk/uksi/1996/2402), [art. 3](https://www.legislation.gov.uk/uksi/1996/2402/article/3)

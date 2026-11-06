@@ -1,0 +1,71 @@
+---
+title: Online Safety Act 2023, section 96
+act: Online Safety Act 2023
+section: '96'
+status: revised-with-pending-changes
+text_date: '2026-09-30'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2023/50/section/96
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Online Safety Act 2023, section 96
+
+> **Warning: changes not yet applied to this text (10).** Text as at 2026-09-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2023/50
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 96. Duty to maintain register[^key-eee3f6f4560b51b45dabb544485e9545][^key-56f9910538d0d0ff3a84950f8169ac64]
+
+*Extent: E+W+S+N.I.*
+
+(1) If regulations are made under paragraph 1(1) of Schedule 11 which amend or replace regulations previously made under that provision, OFCOM must, as soon as reasonably practicable after the date on which the amending or replacement regulations come into force—
+
+- (a) assess each regulated user-to-user service which they consider is likely to meet the new Category 1 threshold conditions, to determine whether the service does, or does not, meet those conditions, and
+- (b) make any necessary changes to the register.
+
+(2) If regulations are made under paragraph 1(2) of Schedule 11 which amend or replace regulations previously made under that provision, OFCOM must, as soon as reasonably practicable after the date on which the amending or replacement regulations come into force—
+
+- (a) assess each regulated search service and combined service which they consider is likely to meet the new Category 2A threshold conditions, to determine whether the service does, or does not, meet those conditions, and
+- (b) make any necessary changes to the register.
+
+(3) If regulations are made under paragraph 1(3) of Schedule 11 which amend or replace regulations previously made under that provision, OFCOM must, as soon as reasonably practicable after the date on which the amending or replacement regulations come into force—
+
+- (a) assess each regulated user-to-user service which they consider is likely to meet the new Category 2B threshold conditions, to determine whether the service does, or does not, meet those conditions, and
+- (b) make any necessary changes to the register.
+
+(4) At any other time, if OFCOM consider that a Part 3 service not included in a particular part of the register is likely to meet the threshold conditions relevant to that part, OFCOM must—
+
+- (a) assess the service accordingly, and
+- (b) (subject to section 95(5)) if they consider that the service meets the relevant conditions, add entries relating to that service to that part of the register.
+
+(5) Nothing in subsection (3) or (4) requires OFCOM to assess a Category 1 service to determine whether the service meets the Category 2B threshold conditions.
+
+(6) A provider of a Part 3 service included in the register may at any time request OFCOM to remove entries relating to that service from the register, or from a particular part of the register.
+
+(7) If OFCOM are satisfied, on the basis of evidence submitted by a provider with such a request, that since the registration day there has been a change to the service or to regulations under paragraph 1 of Schedule 11 which appears likely to be relevant, OFCOM must—
+
+- (a) assess the service, and
+- (b) notify the provider of OFCOM’s decision.
+
+(8) OFCOM must remove entries relating to a Part 3 service from the relevant part of the register if, following an assessment of the service, they consider that it no longer meets the threshold conditions relevant to that part.
+
+(9) Section 95(9) applies to an assessment under this section as it applies to an assessment under section 95.
+
+(10) OFCOM must re-publish the register each time a change is made to it.
+
+(11) See section 167 for provision about appeals against a decision to include a service in the register (or in a particular part of the register), or not to remove a service from the register (or from a particular part of the register).
+
+(12) In this section—
+
+- “**the register**” means the register established under section 95;
+- “**the registration day**”, in relation to a Part 3 service, means—
+  - (a) the day on which entries relating to the service were added to the register, or to the particular part of the register in question, or
+  - (b) if later, the day on which OFCOM last completed an assessment of the service under subsection (1), (2), (3) or (7).
+
+## Annotations
+
+[^key-eee3f6f4560b51b45dabb544485e9545]: Commencement: S. 96 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
+
+[^key-56f9910538d0d0ff3a84950f8169ac64]: Commencement: [S. 96](https://www.legislation.gov.uk/ukpga/2023/50/section/96) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z3)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z3)

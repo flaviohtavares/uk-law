@@ -1,0 +1,680 @@
+---
+title: National Insurance (Non-participation—Assurance of Equivalent Pension Benefits) Regulations 1960
+id: uksi/1960/1103
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '1960-06-27'
+text_date: '1975-04-06'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/1960/1103
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1960/1103/pdfs/uksi_19601103_en.pdf
+- http://www.legislation.gov.uk/uksi/1960/1103/pdfs/uksi_19601103_301114_en.pdf
+- http://www.legislation.gov.uk/uksi/1960/1103/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# National Insurance (Non-participation—Assurance of Equivalent Pension Benefits) Regulations 1960
+
+> Text as at 1975-04-06.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+1960 No. 1103
+
+National Insurance
+
+Non-particupating Employments
+
+National Insurance (Non-participation—Assurance of Equivalent Pension Benefits) Regulations 1960
+
+Made
+
+27th June 1960
+
+Laid before Parliament
+
+4th July 1960
+
+Coming into operation
+
+5th July 1960
+
+The Minister of Pensions and National Insurance, in conjunction with the Treasury so far as relates to matters with regard to which the Treasury have so directed, in exercise of powers conferred by section 52 of the National Insurance Act, 1946 [^c22716461], and sections 7, 9, 10 and 13 of the National Insurance Act, 1959 [^c22716471], and of all other powers enabling him in that behalf, after considering the report of the National Insurance Advisory Committee on the preliminary draft submitted to them, hereby makes the following regulations:—
+
+## Part I — General
+
+### 1. Citation, commencement and interpretation
+
+(1) These regulations, which may be cited as the National Insurance (Non-participation—Assurance of Equivalent Pension Benefits) RegulationS, 1960, shall come into operation on 5th July, 1960.
+
+(2) In these regulations, unless the context otherwise requires—
+
+- “**"the Act”**” means the National Insurance Act, 1946;
+- “**"the Act of 1959”**” means the National Insurance Act, 1959;
+- “**"the Superannuation Acts”**” means the Superannuation Acts, 1834 to 1950, and any Act amending these Acts;
+- “**"the Benefits and Schemes Regulations”**” means the National Insurance (Non-participation—Benefits and Schemes) RegulationS, 1959 [^c22716481];
+- “**"the Minister”**” means the Minister of Pensions and National Insurance;
+- “**"appropriate recognised superannuation scheme”**” means, in relation to a person whose period of service in a non-participating employment has come to an end, the recognised superannuation scheme by virtue of which the certificate under Part II of the Act of 1959 relating to the employment was in force immediately before the end of that period;
+- “**"statutory scheme”**” means a recognised superannuation scheme established by Act of Parliament or of the Parliament of Northern Ireland or other instrument having the force of law, and includes a scheme or arrangement which is a recognised superannuation scheme by virtue of paragraph (3) of regulation 3 of the Benefits and Schemes Regulations (which paragraph relates to certain instruments authorising the payment to persons not employed in the Civil Service of the State of such pensions as might have been granted to persons so employed);
+- “**"non-statutory scheme”**” means a scheme or arrangement which is a recognised superannuation scheme other than a statutory scheme;
+- “**"responsible paying authority”**” means
+  - (a) in relation to a statutory scheme, the authority responsible for payment of retirement benefits thereunder, and
+  - (b) in relation to a non-statutory scheme, being a scheme under which the retirement benefits, or such part of them as has to be taken into account to constitute them equivalent pension benefits, are secured by contract of assurance or annuity contract made with such body as is required by sub-paragraph (b) of paragraph (1) of regulation 3 of the Benefits and Schemes Regulations, (including any body or person authorised by the Registrar under paragraph (2) of that regulation), that body:
+
+    Provided that this head shall not apply where the said benefits are payable out of a superannuation fund approved by the Commissioners of Inland Revenue for the purposes of section 379 of the Income Tax Act, 1952 [^c22716491], (which relates to approved superannuation funds); and
+  - (c) in relation to a non-statutory scheme to which the foregoing head does not apply, the trustees:
+
+    Provided that, in relation to any provision of these regulations for a certificate to be given by the responsible paying authority, the reference in this head to the trustees shall be deemed to include a reference to any person or body having power to authorise the payment of retirement benefits under the scheme, whether described as trustees or not;
+- “**"period of contribution liability”**” means, in relation to any person's employment, any continuous period of one or more contribution weeks for which the employer of that person is liable to pay weekly employer's contributions in respect of that employment, and includes any such period for which he would be so liable but for the provisions of subsection (1) of section 4, and of any regulations made under paragraph (a) of subsection (1) of section 9, of the Act (which relate respectively to the number and class of contribution for any week and to persons to be treated as employers);
+- “**"assurance period”**” means, in relation to an insured person's period of service in a non-participating employment, subject to the provisions of regulations 2 and 18, the period beginning thirteen weeks and ending twenty-six weeks after the end of that period of service;
+
+and other expressions have the same meaning as in the Act.
+
+(3) References in these regulations to any enactment or regulations shall include references to such enactment or regulations as amended by any subsequent enactment, order or regulations.
+
+(4) The Interpretation Act, 1889 [^c22716501], applies to the interpretation of these regulations as it applies to the interpretation of an Act of Parliament.
+
+## Part II — Interruption and End of Service, and Time for Payment in Lieu of Contributions
+
+### 2. End of period of service and disregard of interruptions
+
+(1) The following provisions of this regulation shall have effect in determining whether a person's period of service in a non-participating employment is to be treated, for the purpose of the provisions of Part II of the Act of 1959 relating to the making of a payment in lieu of contributions at the end of such a period, as having come to an end.
+
+(2)[^key-502e3d43e0d9d55b5a07fa33b7180aba] Subject to the following provisions of this regulation, a person's employment shall not be treated, for the purpose of the said provisions of Part II of the Act of 1959, as having come to an end unless thirteen contribution weeks have elapsed since the termination of a period of contribution liability in relation to the employment, and in that event the employment shall be treated as having come to an end upon that termination.
+
+(3)[^key-4276d274b654a6f0d739709387999120] Where, after the termination of a period of contribution liability in relation to a person's employment, either—
+
+- (a) a new period of contribution liability begins in relation to that employment after an interruption not exceeding thirteen contribution weeks; or
+- (b) the interruption is brought to an end by the person's death before the expiration of thirteen contribution weeks;
+
+the interruption shall be disregarded and the employment shall not be treated, for the purpose of the said provisions of Part II of the Act of 1959, as having come to an end upon that termination and shall, subject to the provisions of regulation 3, be treated for that purpose as having continued during the interruption and, where the person has so died, as having come to an end by his death;
+
+Provided that this paragraph shall not apply in a case to which paragraph (5) applies.
+
+(4)[^key-502e3d43e0d9d55b5a07fa33b7180aba][^key-c7c9a7e6a62501daebf26f592b7dd503] The Minister may, subject to and in accordance with the provisions of regulation 18, extend the period of thirteen weeks referred to in the foregoing provisions of this regulation, and in that event those provisions shall, subject to the provisions of paragraph (5) of regulation 18, apply with the substitution of the extended period for the said period of thirteen weeks and the assurance period shall begin at the end of that extended period and, subject to the provisions of that regulation, end thirteen weeks thereafter.
+
+(5)[^key-502e3d43e0d9d55b5a07fa33b7180aba][^key-c7c9a7e6a62501daebf26f592b7dd503] A person and his employer may, at any time within the period beginning one month before and ending[^key-92a4cfb3cac752b77c3a1df5894eb98a] thirteen weeks after the termination of a period of contribution liability in relation to the person's employment, together give the Minister notice in writing that they wish the employment to be treated, for the purpose of the said provisions of Part II of the Act of 1959, as coming or[^key-0ff4a96ce454fb10f01f29b6b71b4c8e] having come to an end upon that termination and, if such notice is given (and, in the case of a notice given in advance of termination, that termination occurs on the date specified in the notice)[^key-a361c0ee45c09abdd71697df821b62d6], the employment shall be treated for that purpose as having come to amend upon that termination:
+
+[^key-4bc3136998616d7a3b08c55d26e70434]Provided that this paragraph shall not apply if a new period of contribution liability has begun in relation to the employment without any such notice having been given, or if, after such notice has been given ..., either the person and the employer together give the Minister written notice withdrawing the notice under this paragraph not later than the end of the assurance period[^key-67795db86613636cb9447e8bdc44f433] or the person dies before a payment in lieu of contributions has been made in respect of his period of service[^key-46f39b4b6ad463a045b229c2ea698e2e].
+
+(6)[^key-502e3d43e0d9d55b5a07fa33b7180aba][^key-c7c9a7e6a62501daebf26f592b7dd503] If either—
+
+- (a) a person's employment becomes a non-participating employment in the course of his service in it, and a period of contribution liability in relation to that employment is not then current; or
+- (b) in any other case, the beginning of a person's period of service in a non-participating employment occurs in such circumstances as not to fall in a period of contribution liability in relation that employment;
+
+and in either case no such period of contribution liability has begun before the end of the first contribution week beginning in his period of service in non-participating employment, the foregoing provisions of this regulation shall apply as if the termination of a period of contribution liability had occurred immediately before the beginning of that contribution week.
+
+(7)[^key-502e3d43e0d9d55b5a07fa33b7180aba][^key-c7c9a7e6a62501daebf26f592b7dd503] Nothing in the foregoing provisions of this regulation shall prevent a person's period of service in a non-participating employment from being treated, for the purpose of the said provisions of Part II of the Act of 1959, as having come to an end when either—
+
+- (a) the employment ceases to be a non-participating employment; or
+- (b) the employer dies and the employment is not treated under regulations made under that Act as continuing under a new employer;
+
+unless in either of those events the period of service falls, under the said foregoing provisions, to be treated for that purpose as having come to an end at some earlier date.
+
+### 3. Employment not treated as continuing during interruption[^key-cd90347ffe3adcc7e9f2f146f265aecb]
+
+A person's employer may, after the end of that person's period of service in a non-participating employment (or, if that is earlier, on or after the giving of a notice by that person and that employer under regulation 2(5))[^key-597638b730568d0a2a5d0d751c78d793] and not later than the end of the assurance period, give the Minster notice in writing that he wishes the employment not to be treated, for the purpose of the provisions of Part II of the Act of 1959 relating to the making of a payment in lieu of contributions at the end of such a period of service, as having continued during such number of contribution weeks as may be specified in the notice, being contribution weeks during which it would, apart from this regulation, fall, under paragraph (3) of regulation 2, to be treated for that purpose as having continued, and, if such a notice is given, the employment shall not be so treated as having continued during those weeks:
+
+Provided that—
+
+- (a) no such notice shall include any contribution weeks in a contribution year where the number of contribution weeks in that year during which the employment would so fall to be treated as having continued is three or less; and
+- (b) where that number of contribution weeks exceeds three, at least three of those weeks shall be excluded from the notice.
+- (bb) where a person's service does not fall wholly within which any one Part of Schedule 2 of these regulations is appropriate, the notice shall specify separately the number of contribution weeks included in it which fall in each such period.[^key-a7d541d8065d906050b2ac986ff205bf]
+- (c)[^key-3d29862226a08bb94f40156937a0492d] where a person’s period of service in a non-participating employment would fall to be treated, for the purpose of the said provisions of Part II of the Act of 1959, as having come to an end but for the provisions of subsection (4) of section 9 of that Act (which subsection provides that, for the purpose of any liability to make a payment in lieu of contributions, two employments are in certain cases to be treated as a single continuous employment), the employer in the previous employment may give notice under this regulation not later than the end of the assurance period relating to that employment.
+
+### 4. Notice of end of employment[^key-10dc813aa63c9c0d4315fc27ce4c8ec0]
+
+Where a person's period of service in a non-participating employment—
+
+- (a) falls to be treated, for the purpose of the provisions of Part II of the Act of 1959 relating to the making of a payment in lieu of contributions at the end of such a period, as having come to an end; or
+- (b) would fall to be so treated for that purpose but for the provisions of subsection (4) of section 9 of that Act (which subsection provides that, for the purpose of any liability to make a payment in lieu of contributions, two employments are in certain cases to be treated as a single continuous employment);
+
+it shall be the duty of the employer to give the Minister notice in writing to that effect within the assurance period:
+
+Provided that—
+
+- (i) this regulation shall not apply where notice under paragraph (5) of regulation 2 has been given by the person and his employer, or, in a case such as is referred to in paragraph (b) of this regulation, if both employments are under the same employer and the same recognised superannuation scheme relates to both and the person enters the new employment within 13 weeks after the coming to an end of his service in the previous employment[^key-0e120515f0789f4fe2813c8c45c67d41] or if the Minister has so directed under regulation 11A[^key-85af8cd3940efbf19ff489802f3224f4]; and
+- (ii) a notice of application for an extension or further extension of the period of thirteen contribution weeks referred to in paragraphs (2) and (3) of regulation 2 shall, if the application is not granted, be deemed to be a notice for the purpose of this regulation; and[^key-5b9685db5cd6adb5676f5ba38260b7e2]
+- (iii) where either-
+  - (A) a person retires from service in a non-participating employment and equivalent pension benefits in respect of the period of his service commence to be payable not later than the end of the assurance period, or
+  - (B) a person's employment ceases to be a non-participating employment, the employer may give notice under this regulation at any time after such retirement or cessation, as the case may be, and not later than the end of the assurance period.
+
+### 5. Form of Notices
+
+Any notice required or authorised to be given to the Minister under this Part of these regulations shall be given on a form approved by the Minister for the purpose or in such other manner (being in writing) as he may accept as sufficient in the circumstances of the case.
+
+### 6. Time for payment in lieu of contributions[^key-44369a6791dbbbc6bd4b6d0ad0a34bd3]
+
+A payment in lieu of contributions in respect of an insured person, who, when his period of service in a non-participating employment comes to an end otherwise than by his death, is not assured of equivalent pension benefits in respect of that period, shall become due at the end of the assurance period.
+
+### 6A. Calculation of equivalent pension benefits[^key-90bd64587e390bdf6308a2acdf6ff5e7]
+
+(1) For the purposes of the provisions of Part II of the Act of 1959 relating to the making of a payment in lieu of contributions at the end of a person's period of service in a non-participating employment, the formula in section 8(1)(d) of that Act (which defines equivalent pension benefits for the purpose of that Part) shall be converted to the formula contained in the following provisions of this regulation.
+
+(2) Subject to the following provisions of this regulation, in respect of any period of service of a number of weeks shown in the second column of Schedule 2 of these regulations, the pension or the said part of it (referred to in section 8(1)(d)), apart from any period before insured pensionable age, must be of an amount not less than, in the case of a man, the amount shown in the first column of the appropriate Part of that Schedule, and, in the case of a woman, the amount shown in the third column of the appropriate Part of that Schedule, in each case opposite to that number of weeks in the second column.
+
+(3) Where a period of service does not amount to an exact number of weeks, it shall be treated for the purpose only of applying the formula in the preceding paragraph, as amounting to that number of weeks which is equal to the number of contribution weeks beginning in the period.
+
+(4) Where a period of service does not fall wholly within the period to which any one Part of Schedule 2 is appropriate, each Part shall be applied separately to any portion of the period of service to which it is appropriate and the resulting equivalent pension benefits shall be added together; and for this purpose a week of service which includes the last date to which a Part is appropriate but does not end on that date shall be treated as if it fell wholly after that date.
+
+## Part III — Assurance of Benefits
+
+### 7. Conditions for assurance of equivalent pension benefits[^key-4ccf544948ae07a05ade938ba1d48c15]
+
+(1) Subject to the provisions of paragraph (4) of regulation 10, for the purpose of the provisions of Part II of the Act of 1959 relating to the making of a payment in lieu of contributions at the end of a person's period of service in a non-participating employment, a person who at the end of his service in a non-participating employment has equivalent pension benefits in respect of it, to which he either is absolutely and indefeasibly entitled or would be so entitled but for their being capable of being terminated or suspended for any cause prescribed for the purpose of paragraph (c) of sub-section (1) of section 8 of the Act of 1959 (which subsection contains conditions governing equivalent pension benefits), shall be deemed to be assured of those benefits if, and shall be deemed not to be assured of them unless—
+
+- (a) the benefits are secured, and provision is made for their payment, under or by virtue of the appropriate recognised superannuation scheme, and, where that scheme is a non-statutory scheme, the benefits are secured by irrevocable trust, contract of assurance or annuity contract which satisfies paragraph (1) or (2) of regulation 3 of the Benefits and Schemes Regulations, being a trust or contract enforceable by that person (or by some other person as trustee for him) against the responsible paying authority; and
+- (b) a certificate of assurance given by the responsible paying authority containing the particulars specified in the Schedule 1[^M_F_0a9098c1-30b0-4308-b61e-012932286bd5] to these regulations has been delivered without charge to the person by the person's employer in the non-participating employment:
+
+  Provided that,
+
+  - (i) where the benefits commence to be payable not later than the end of the assurance period the delivery of a certificate of assurance shall not be required if the employer delivers to the person and to the Minister without charge particulars of the benefits and of the person's right thereto in such form as the Minister shall approve; and[^key-407e0cdd18d2ef8112bf4db61a3f58d0]
+  - (ii) in the case of a non-statutory scheme where the responsible paying authority are the trustees or other person or body mentioned in the proviso to head (c) of the definition of that expression in paragraph (2) of regulation 1 of these regulations, the delivery of a certificate of assurance given by them or of such particulars as are referred to in the foregoing paragraph of this proviso shall not be deemed to satisfy this condition if at the end of the period of service the scheme had ceased to satisfy the requirements of the Act of 1959 for being a recognised superannuation scheme.
+
+(2) A certificate of assurance required by this regulation to be delivered to any person shall be treated as duly delivered if sent by registered post or by recorded delivery service[^key-1eb76daef2c807ddc7ff85ab2511fbdf] addressed to him at his usual or last-known address, and shall be treated as having effect from the end of the person's service if it is delivered to him not later than the end of the assurance period.
+
+(3)[^key-288dbe60240c3bb0d02ba80916debfd8] References in this regulation to the appropriate recognised superannuation scheme shall, in cases where the recognised superannuation scheme by virtue of which the certificate under Part II of the Act of 1959 relating to a person's employment was in force was not the same throughout the period of his service, include, as respects any part of that period, a reference to the scheme by virtue of which the certificate was in force during that part; and, in such cases, instead of a single certificate of assurance relating to the entire period, there may be delivered two or more certificates of assurance relating to parts of the period given by the responsible paying authorities of the schemes concerned, so, however, that the periods to which such certificates relate must between them comprise the entire period of service.
+
+(4) In the application of proviso (ii) to paragraph (1)(b) of this regulation to a case to which the last preceding paragraph applies, the reference to the end of the period of service shall be construed in relation to all the certificates as a reference to the end of the entire period of service.
+
+### 8. Information to be furnished by employer and responsible paying authority[^key-4abf7c12b986434fcb141b9f9fc30af8]
+
+(1) For the purpose of determining any question whether, at the end of a person's period of service in a non-participating employment, an insured person is assured of equivalent pension benefits in respect of it, his employer in that employment shall furnish to the Minister a copy of any certificate of assurance delivered by him to the insured person in respect of the period of service, and such other certificates, documents, information and evidence as the Minister may reasonably require.
+
+(2) Any responsible paying authority by whom a certificate of assurance has been issued in accordance with the requirements of the foregoing regulation shall inform the Minister of any change in their name or description or principal pace of business, as soon as may be practicable after the change.
+
+### 9. Period for exercise of options, etc.[^key-bcc4f5a560980cece5a1d0ebce20d73d]
+
+For the purpose of regulation 7 of these regulations, the following option if exercised, or any of the following things if done, in accordance with the rules of the appropriate recognised superannuation scheme, after the end of a person's service in a non-participating employment, in relation to his retirement benefits in respect of that service, shall, if exercised or done not later than the end of the assurance period [^key-6505edb4366cff8b9c5bc86c5e47e6de]..., be treated as having effect from the end of that service, that is to say—
+
+- (a) any option exercised by the employer or that person;
+- (b) any other thing done under or in respect of any trust, contract of assurance, insurance policy or annuity contract relating to the equivalent pension benefits;
+- (c) the payment of any arrears of contributions by anyone liable or entitled to pay them;
+- (d) the admission or re-admission of that person to membership of the said scheme or other qualification for benefit thereunder where his membership had ceased or the said scheme had become the appropriate recognised superannuation scheme in relation to him before the end of the period of his service.
+
+## Part IV — Consecutive and Concurrent Employments
+
+### 10. Conditions for treating two employments as a single continuous employment[^key-15520b323a3b833544dc2fbf7e979b9d]
+
+(1) For the purpose of paragraph (b) of subsection (4) of section 9 of the Act of 1959 (which paragraph provides for prescribing the period within which a person, on the coming to an end of service in one non-participating employment, must enter another non-participating employment, if the two employments are to be treated as a single continuous employment as provided by that subsection) the prescribed period shall be until the end of the assurance period relating to the previous employment.
+
+(2) The provisions of the said subsection (4) (which provides that, for the purpose of any liability to make a payment in lieu of contributions, two employments are in certain cases to be treated as a single continuous employment) shall not apply, save in a case where both employments are under the same employer, unless the certificate described in regulation 11 is given and delivered in accordance with that regulation.
+
+(3) Paragraph (c) of the said subsection (4) (which requires that service in the previous employment is service qualifying a person for equivalent pension benefits under the recognised superannuation scheme relating to his new employment) shall not apply in any case where—
+
+- (a) the previous employment and the new employment are both employments of any class to which section 12 of the Act of 1959 (which relates to certain statutory superannuation schemes) applies, and are in different such classes; and
+- (b) the appropriate Minister has in each case by regulations under subsection (1) of the said section 12 directed that elections with a view to the issue, variation, cancellation or surrender of certificates under Part II of the Act of 1959 shall be made and revoked by him instead of by the employer; and
+- (c) certificates under the said Part II relating to those employments have been issued to the appropriate Ministers and remain in force, and the recognised superannuation schemes by virtue of which those certificates were issued were established by or under the enactments specified in the Second Schedule to the Act of 1959 in the entries relating respectively to the previous employment and the new employment; and
+- (d) such provision is made by those schemes (including provision by the scheme relating to the new employment for taking into account in any manner the service in the previous employment) that, were they to be treated as together constituting a single recognised superannuation scheme relating to both employments, the provisions of the said paragraph (c) would be satisfied.
+
+(4) Where two or more employments are treated as a single continuous employment by virtue of the foregoing paragraph, the reference in paragraph (1) of regulation 7 to the appropriate recognised superannuation scheme shall include a reference to a recognised superannuation scheme relating to a previous employment making such provision as falls to be taken into account under sub-paragraph (d) of the foregoing paragraph, and the provisions of regulation 7 and the Schedule shall apply subject to the necessary modifications.
+
+### 11. Certificate to be furnished for the purpose of section 9(4) of the Act of 1959[^key-40b663003b91930e7d17f0e2c2349c8a]
+
+(1) Where in any case the provisions of paragraphs (a), (b), (c) and (d) of subsection (4) of section 9 of the Act of 1959 are satisfied or, if the provisions of paragraph (c) of the said subsection do not apply by virtue of paragraph (3) of regulation 10 of these regulations, the provisions of paragraphs (a), (b) and (d) of the said subsection (4) are satisfied, the certificate described in the following provisions of this regulation shall, save in a case where both employments are under the same employer and the same recognised superannuation scheme relates to both or where the Minister has given a direction to the contrary under regulation 11A,[^key-1accb9eff629551def39bb5aedc01586], be given and delivered in accordance with those provisions.
+
+(2) Subject to the provisions of the next following regulations[^key-399e793e0b3136875b207e88e4be0815], the certificate referred to in the foregoing paragraph shall be given by the responsible paying authority of the recognised superannuation scheme relating to the new employment and shall contain the following particulars—
+
+- (a) the period of service in the previous employment (including any earlier employment treated as continuous therewith under subsection (4) of section 9 of the Act of 1959);
+- (b) the equivalent pension benefits for which the service in the previous employment qualifies the person employed under the recognised superannuation scheme relating to the new employment (or if paragraph (3) of regulation 10 applies, under the recognised superannuation schemes relating to both employments) and the manner in which it so qualifies him, and, where the qualification is contingent on the like assumptions in relation to his new employment as are to be made under subsections (2) and (3) of section 8 of the Act of 1959, what those assumptions are; and
+- (c) if that scheme is a non-statutory scheme, the manner in which the provisions of paragraph (b) of subsection (4) of section 8 of the Act of 1959 (which contains conditions under which a scheme or arrangement, other than one established by Act of Parliament or of the Parliament of Northern Ireland or other instrument having the force of law, is a recognised superannuation scheme) are satisfied in relation to those benefits.
+
+(3)[^key-8aba9efeeffe620db46f663081b567eb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) A certificate as provided in paragraph (1) of this regulation shall be given by the responsible paying authority to the employer in the previous employment not later than the end of the assurance period relating to the previous employment, and that employer shall deliver it to the Minister and a copy thereof to the insured person not later than the end of that period.
+
+### 11A. Exemption from duty to give notice of end of employment or certificate under regulation 11[^key-afc398199368ba5f512e2e770cd7541e][^key-e35ba90fb4c4f29cebc0eb90073aa375]
+
+Where, apart from this regulation, a certificate is required to be given and delivered under regulation 11, the Minister may, where either–
+
+(a) the recognised superannuation scheme relating to the new employment is a statutory scheme; or
+
+(aa)[^key-36f2b492debe8cdef56ee3277914ced0] the recognised superannuation scheme relating to the previous employment is a statutory scheme and the provisions of section 9(4)(c) of the Act of 1959 are satisfied by virtue of either-
+
+- (i) rules made under section 2 of the Superannuation (Miscellaneous Provisions) Act 1948 (pensions of persons transferring to different employment); or
+- (ii) regulation 78 of the National Health Service (Superannuation) Regulations 1961 or regulation 76 of the National Health Service (Superannuation) (Scotland) Regulations 1961 (rights on transfer to other employment); or
+
+(b) both employments are under the same employer, but the same recognised superannuation scheme does not relate to both; or
+
+(c) the same recognised superannuation scheme relates to both employments, but the previous employment and the new employment are under different employers;
+
+by a direction in writing in such cases as he may direct and subject to such conditions as he may impose exempt the employer in the previous employment from his duty to give a notice of the end of that employment under regulation 4 or (whether so exempting that employer or not) dispense with or modify the requirements of regulation 11 concerning the giving and delivery of a certificate thereunder.
+
+### 12. Payments in lieu of contributions in cases of double employment under the same employer
+
+(1) Notwithstanding that at the end of a person's service in a non-participating employment he is not assured of equivalent pension benefits in respect of it, no payment in lieu of contributions shall be payable in respect of it if at all times during his period of service in that employment he was serving also in some other non-participating employment under the same employer, being an employment in which he continues to serve after the end of that period or in respect of which he is or was at the end of his service in it assured of equivalent pension benefits.
+
+(2) Where on the coming to an end of a person's service in a non-participating employment a payment in lieu of contributions becomes payable in respect of it, but during part of his period of service in that employment he was serving also in some other such non-participating employment as aforesaid under the same employer, then that part of the period shall not be taken into account in fixing the amount of the payment or the graduated contributions attributable to it.
+
+(3) Where under paragraph (2) of this regulation part only of a person's period of service in an employment is to be taken into account in fixing the amount of any payment in lieu of contributions in respect of that service, then that part only of the service shall be taken into account for the purpose of paragraph (c) of subsection (4) of section 9 of the Act of 1959.
+
+(4) Where on the coming to an end of a person's service in a non-participating employment he continues to serve in another non-participating employment under the same employer, subsection (4) of section 9 of the Act of 1959 shall apply as it applies where a person enters a new employment on the coming of an end of his previous employment (the reference in sub-paragraph (c) of that subsection to the new employment being construed for this purpose as referring to the continuing employment).
+
+### 13. Payments in lieu of contributions in cases of double employment under different employers
+
+(1) Where during any period a person serves at the same time in two non-participating employments under different employers, and after the coming to an end of his service in one of the employments a payment in lieu of contributions becomes payable on the coming to an end of his service in the other, then (subject to paragraph (3) of this regulation) subsection (3) of section 7 of the act of 1959 shall apply as respects that payment as if in relation to contribution weeks beginning in that period the reference in paragraphs (a) and (b) to contributions payable by the insured person were omitted (and the graduated contributions he is to be treated under that subsection as having paid shall be reduced accordingly).
+
+(2) Where paragraph (1) of this regulation has effect to reduce a payment in lieu of contributions, then for the purpose of any right of recovery or retainer under section 10 of the Act of 1959 in respect of that payment the period referred to in the said paragraph (1) shall be deemed not to have been taken into account in fixing the amount of the payment.
+
+(3) A payment in lieu of contributions in respect of service in any employment shall not be reduced under this regulation by reference to any period of service in another employment, if paragraph (1) of regulation 12 applies to prevent the making of a payment in lieu of contributions in respect of the service in the other employment, or if paragraph (2) of that regulation applies to prevent that period being taken into account in fixing the amount of such payment.
+
+### 14. Application of section 9(4) of the Act of 1959 in cases of double employment
+
+(1) Where (by reason of a person's serving at the same time in two non-participating employments under different employers) subsection (4) of section 9 of the Act of 1959 may apply so as to treat a previous employment under one of the employers as a single continuous employment with each of those two employments, then the said subsection (4) shall apply so as to treat the previous employment as a single continuous employment only with that one of the said two employments which is under the employer in that previous employment or, if the employers so agree and give the Minister notice of their agreement, only with the other of those two employments.
+
+(2) For the purpose of paragraph (1) of this regulation, where on the coming to an end of a person's service in any employment he enters another employment within the period prescribed for the purpose of the said subsection (4) in paragraph (1) of regulation 10, he shall be treated as having served in the new employment from the coming to an end of the previous employment.
+
+### 15. Payment in lieu of contributions where two employments end simultaneously
+
+Where a person's service in two non-participating employments comes to an end simultaneously, and in respect of his service in one or both he is not assured of equivalent pension benefits, then regulations 12 and 13 of these regulations shall apply as if his service in one had come to an end immediately before that in the other, and—
+
+- (a) if he is assured of equivalent pension benefits in respect of his service in one, that service shall be treated as coming to an end the earlier; and
+- (b) if not, the service to be so treated shall be that which the employer or employers concerned may select or which, in default of such a selection, the Minister may in his discretion think fit.
+
+## Part V — Employer's Right of Recovery
+
+### 16. Employer's right of recovery in respect of payments in lieu of contributions[^key-1d3c79cb9345942a392163766b6657c3]
+
+For the purpose of subsection (3) of section 10 of the Act of 1959 (which subsection provides for increasing by such amount as may be prescribed the amount which may be recovered under that section by an employer, on making a payment in lieu of contributions, from a refund of certain payments made under a recognised superannuation scheme, in certain cases where under subsection (4) of section 9 of the Act of 1959 the insured person's service in any previous employment is treated in fixing the payment in lieu of contributions as service in the employment in respect of which the refund is made) a sum equal to one half of the amount of the payment in lieu of contributions that would have fallen to be made on the coming to an end of the insured person's service in that previous employment if that service had not been so treated under the said subsection (4)[^key-be277e235ec8633846e6da180f33e5ec].
+
+### 17. Delay in refund for purposes of employer's right of recovery[^key-b38bfccfbd48901d6431a0b019ef61f8]
+
+(1) Where on the coming to an end of an insured person's service in a non-participating employment he (or, by virtue of a connection with him, any other person) is or may be entitled to a refund of any payments made under a recognised superannuation scheme by or in respect of him towards the provision of benefits under the scheme, the following provisions of this regulation shall apply for the purpose of enabling any right of recovery conferred by section 10 of the Act of 1959 (which relates to an employer's rights against an insured person in respect of a payment in lieu of contributions) to be exercised.
+
+(2) Where in such a case a payment in lieu of contributions falls to be made in respect of the insured person under the Act of 1959 or would so fall to be made if the insured person were not assured of equivalent pension benefits in respect of his period of service, the person liable for the refund shall not, after he has been given such notice for the purpose of this regulation as is hereinafter described (hereafter in this regulation called a ““notice of delay””), make the refund in whole or in part until the expiration of the period of delay specified in paragraph (3) of this regulation:
+
+Provided that this paragraph shall not apply to so much, if any, of the refund as exceeds a sum equal to one half of the amount of that payment (or, in the case of a refund of payments made under a recognised superannuation scheme relating to a previous employment, a sum equal to the amount prescribed by regulation 16 of these regulations for the purpose of subsection (3) of section 10 of the said Act).[^key-bcf1c6331f721c9c7642db3fba412ead]
+
+(3) The period of delay referred to in paragraph (2) of this regulation shall be the period beginning with the giving of the notice of delay and ending with—
+
+- (a) the expiration of four weeks after the making of the payment in lieu of contributions or any part of it; or
+- (b) the expiration of four weeks after the end of the assurance period; or
+- (c) such date as the Minister may direct having regard to any evidence that the insured person is assured of equivalent pension benefits in respect of his period of service;
+
+whichever shall first occur.
+
+(4) A notice of delay shall be a notice in writing given by the person who is or would be liable for the payment in lieu of contributions (hereafter in this regulation called ““the employer””), relating either to a particular case or to a class or classes of cases and containing the following particulars:—
+
+- (a) the name of the insured person or such particulars as will sufficiently identify the class or classes of cases concerned;
+- (b) such particulars as will sufficiently identify the refund or refunds concerned; and
+- (c) a memorandum in a form approved by the Minister giving brief particulars of the effect of paragraphs (2) and (3) of this regulation.
+
+(5) Every employer who has given a notice of delay shall from time to time inform any person to whom he has given that notice of the ending of the period of delay in relation to any refund affected by the notice.
+
+## Part VI — Miscellaneous Provisions
+
+### 18. Extension of temporary interruptions and of assurance periods
+
+(1)[^key-8a38a61de2d897236c11b2320735c1b0] Subject to the following provisions of this regulation, the Minister on application being made to him, may, for the purpose of paragraphs (2) and (3) of regulation 2, in any particular case or class of cases extend the period of thirteen contribution weeks referred to in those paragraphs for such further period or periods as he shall from time to time direct, so, however, that no such extension—
+
+- (a) shall unless the Minister in exceptional circumstances so allows[^key-5722f6ad03aac08aaac8c74f6076f24c] prolong the said period to more than one hundred and thirty weeks in all; or
+- (b) shall be granted save in the following cases, that is to say,
+  - (i) the insured person's incapacity for work, where the Minister is satisfied that but for the incapacity the employment would continue or have continued; or
+  - (ii)[^key-945ca1af0732a82cce8928d594f9934e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (iii) any other case in which the Minister, having regard to whether the insured person retains membership of the recognised superannuation scheme relating to the employment or other qualification for benefit thereunder and to any other relevant circumstances, is satisfied that the interruption can be regarded as temporary.
+
+(2)[^key-8a38a61de2d897236c11b2320735c1b0] Subject as aforesaid, the Minister, on application being made to him, may, for the purpose of all or any of the provisions of these regulations which require or authorise or make other provision with respect to the making of a payment in lieu of contributions, the giving of any notice or the doing of any other thing within (or not later than the end of) an assurance period, in any particular case or class of cases extend the assurance period for such further period or periods as he shall from time to time direct, so, however, that no such extension shall prolong the assurance period to more than sixty-five weeks in all unless the Minister is satisfied that the extension is required for the purpose only of remedying an error or omission made in seeking to comply with the provisions of these regulations and without failure to exercise due care and diligence[^key-f39e298f0263491ad7f381064c500f14] .
+
+(3) In so extending any period the Minister may impose a condition that the employer or the insured person shall furnish the Minister with such information and give him notice of such events as he may reasonably require for the purpose of any provision of these regulations, and every such person shall observe or perform any such condition accordingly.
+
+(4) An extension of any period under this regulation shall cease if the Minister by written notice to the employer so directs or if the insured person dies[^key-9b9943512071997414bb27ac39074336]....
+
+(5)[^key-8a38a61de2d897236c11b2320735c1b0] Where at the end of any extension allowed in accordance with the provisions of paragraph (1) of this regulation no further such extension is allowed, but a new period of contribution liability has not begun in relation to the employment and the insured person is still living, the employment shall be treated, for the purpose of the provisions of Part II of the Act of 1959 relating to the making of a payment in lieu of contributions at the end of a person's period of service in a non-participating employment, as having come to an end upon the termination of the period of contribution liability or upon such later date, not being later than the end of the extension, as the Minister shall direct; and where the date on which the employment is so treated as having come to an end is a later date than the termination of that period of contribution liability, the provisions of regulation 3 shall apply to any contribution weeks in the intervening period as though they were weeks during which the employment would, apart from that regulation, fall to be treated for that purpose as having continued under paragraph (3) of regulation 2:
+
+Provided that, in a case to which the provisions of paragraph (6) of regulation 2 apply, the references in this paragraph to the termination of the period of contribution liability shall be construed as references to the end of the contribution week immediately preceding the first contribution week beginning in the person's period of service.
+
+(5A) If the employer so requests, the provisions of the last preceding paragraph shall apply at the end of the period of 13 weeks referred to in regulation 2(2) and (3) where no extension is allowed in accordance with the provisions of paragraph (1) of this regulation, as they apply at the end of such an extension.[^key-8caa75bc15d65d6d73880efef393bab2]
+
+(6) In relation to an employment of any class to which section 12 of the Act of 1959 (which relates to certain statutory superannuation schemes) applies, or to an employment where the appropriate recognised superannuation scheme is established by or under the Superannuation Acts or by or under those Acts as applied by any enactment or other instrument having the force of law or by any instrument to which paragraph (3) of regulation 3 of the Benefits and Schemes Regulations applies, the foregoing provisions of this regulation shall be without prejudice to any special arrangements made by the Minister with the consent of the Treasury providing for the time and manner of any payment in lieu of contributions in such a case or otherwise concerning its making.
+
+### 19. Offences[^key-11d16f505049aa290f1dbf95de0781b0]
+
+If any person fails without reasonable cause to give notice in accordance with the requirements of regulation 4 or to observe or perform any condition imposed on him in accordance with the requirements of paragraph (3) of regulation 18, he shall for such offence be liable on summary conviction to a penalty not exceeding £10, or where the offence consists of continuing any such failure after conviction thereof, £10 together with a further £10 for each day on which it is so continued.
+
+### 20. Interruptions in non-participating employment due to absence from Great Britain[^key-2ea5df314bf45fb50b2da6d1ad801b28][^key-cd73e6e4f78f45e5b4b7762c30845fe2]
+
+(1) The foregoing provisions of these regulations shall, in relation to persons who are or have been outside Great Britain while insured under the Act, have effect subject to the following provisions of this regulation.
+
+(2) Where an insured person’s employment ceases to be a non-participating employment by reason of his being employed outside Great Britain and, apart from this paragraph, the period of his service in that employment would fall, by virtue of paragraph (7)(a) of regulation 2 of these regulations, to be treated, for the purpose of the provisions of Part II of the Act of 1959 relating to the making of a payment in lieu of contributions, as having then come to an end–
+
+- (a) the said paragraph (7)(a) shall not apply; and
+- (b) if immediately before that cessation a period of contribution liability was current in relation to the employment, the provisions of paragraphs (1) to (6) of regulation 2 of these regulations shall, whether or not that period terminated at the end of the contribution week in which the employment last was a non-participating employment, apply as if such a termination had occurred at the end of that week.
+
+(3) A contribution week beginning after an insured person’s employment ceases to be a non-participating employment by reason of his being employed outside Great Britain shall not be included in reckoning a period of contribution liability in that employment for the purpose of these regulations, unless not later than the beginning of that week the employment has again become a nonparticipating employment.
+
+(4) Where an insured person’s employment ceases to be a non-participating employment by reason of his being employed outside Great Britain and thereafter again becomes a non-participating employment, then, notwithstanding the provisions of section 9(2) of the Act of 1959 (which provides that, for the purpose of certain provisions of Part II of that Act, if an employment becomes or ceases to be a non-participating employment in the course of a person’s service in it, his service before and after the time when it does so shall be treated as service in different employments), the insured person’s service before the employment ceased to be, and after it again becomes, a non-participating employment shall not be treated as service in different employments.
+
+(5) Subject to the following provisions of this regulation, the power conferred on the Minister by regulation 18(1) of these regulations to extend the period of thirteen contribution weeks referred to in regulation 2(2) and (3) of these regulations (which period, including any extension thereof, is hereafter in this regulation referred to as a “period of interruption”) may, in the case of an insured person who is absent from Great Britain in the employment or in any other employment under the same employer, be exercised without regard to the conditions of sub-paragraphs (a) and (b) of regulation 18(1).
+
+(6) Subject as aforesaid, any extension allowed by virtue of paragraph (5) of this regulation shall cease if the insured person returns to Great Britain, but in that event the Minister may, notwithstanding the provisions of the said subparagraphs (a) and (b), allow such further extension or extensions under regulation 18(1) as he may think fit: Provided that no extension shall be allowed by virtue of this paragraph for more than 130 weeks after the insured person’s return to Great Britain.
+
+(7) For the purposes of this regulation, an insured person who is in Great Britain on holiday with pay from an employment outside Great Britain shall be treated as absent from Great Britain in that employment, and, if he remains in Great Britain after the end of his period of holiday with pay, he shall be treated as then returning to Great Britain.
+
+(8) The Minister, in deciding whether to allow any extension by virtue of paragraph (5) or paragraph (6) of this regulation, shall have regard to whether the insured person retains membership of the recognised superannuation scheme relating to the employment or other qualification for benefit thereunder, and to any other relevant circumstances.
+
+(9) Nothing in the proviso to regulation 3 of these regulations shall require the exclusion from a notice of any contribution weeks in a period of interruption, being contribution weeks in or preceding an extension allowed by virtue of paragraph (5) of this regulation: Provided that this paragraph shall not apply if a new period of contribution liability began in relation to the employment at the end of the period of interruption and the insured person was absent from Great Britain in the employment in the first week of that period of contribution liability.
+
+### 21. Calculation of graduated contributions for the purposes of payments in lieu of contributions[^key-1d2dddc724bd6b6ef0156cde1febda36]
+
+For the purposes of section 58 of the National Insurance Act 1965, as amended (payments in lieu of contributions) the graduated contributions (payable by the insured person and his employer) referred to in paragraph (a) of that section shall, in respect of any contribution week beginning after 5th October 1966, be taken in each case as 7s. 8d.
+
+Dated this twenty-seventh day of June, 1960
+
+John Boyd-Carpenter
+
+Minister of Pensions and National Insurance
+
+Dated this twenty-seventh day of June, 1960
+
+Michael Hughes-Young
+
+Paul Bryan
+
+Two of the Lords Commissioners of Her Majesty's Treasury
+
+## SCHEDULE 1 — Particulars to be given in a certificate of assurance[^key-0176d43abcdcd184ad54f759e18c6d66][^key-4e496c05ac8a0a9e399d49a7df579e8a]
+
+Regulation 7
+
+**1.** The names and addresses of the responsible paying authority for the purpose of sub-paragraph (a) of paragraph (1) of regulation (7) and the insured person, and the period of the insured person's service for the purpose of the provisions of Part II of the Act of 1959 relating to the making of a payment in lieu of contributions at the end of a person's period of service in a non-participating employment.
+
+**2.** The name or such other particulars as will sufficiently identify the recognised superannuation scheme, and the retirement benefits by way of pension payable under that scheme in relation to that period of service, or such part of them as has to be taken into account to constitute them equivalent pension benefits.
+
+**3.** [^key-39351e3373abc8d984421637d16ae69c]... The date as from which such benefits are payable, [^key-39351e3373abc8d984421637d16ae69c]... and the person to whom they are payable, and, where that person is not the insured person, a statement that that person is a trustee of the benefits so payable for the insured person.
+
+**4.** A statement in such form as the Minister shall approve that the insured person is absolutely and indefeasibly entitled to the benefits to which the certificate relates under or by virtue of the recognised superannuation scheme (or would be so entitled but for their being capable of being terminated or suspended for any cause prescribed for the purpose of paragraph (c) of subsection (1) of section 8 of the Act of 1959), and that those benefits are equivalent pension benefits for the purpose of Part II of the Act of 1959 in relation to the period of the insured person's service, and that they are secured in such manner and such provision is made for their payment as to make the insured person assured of them for the purpose of the provisions of the said Part II relating to the making of a payment in lieu of contributions at the end of a person's period of service in a non-participating employment.
+
+## SCHEDULE 2 — MINIMUM ANNUAL RATES OF PENSION REQUIRED TO CONSTITUTE EQUIVALENT PENSION BENEFITS[^key-e1bb63ecca600562561236930843db92]
+
+Regulation 6A
+
+### Part I — (Applying to service on or after the 3rd April 1961 and not later than the 5th January 1964)
+
+|  |  |  |
+| --- | --- | --- |
+| Annual rate of pension in the case of a man | Number of weeks in period of service | Annual rate of pension in the case of a woman |
+| (1) | (2) | (3) |
+| £ s. d. |  | £ s. d. |
+| 11 | 1 | 9 |
+| 1 10 | 2 | 1 6 |
+| 2 8 | 3 | 2 3 |
+| 3 7 | 4 | 3 0 |
+| 4 6 | 5 | 3 9 |
+| 5 4 | 6 | 4 6 |
+| 6 3 | 7 | 5 2 |
+| 7 1 | 8 | 5 11 |
+| 8 0 | 9 | 6 8 |
+| 8 11 | 10 | 7 5 |
+| 9 9 | 11 | 8 2 |
+| 10 8 | 12 | 8 11 |
+| 11 6 | 13 | 9 7 |
+| 12 5 | 14 | 10 4 |
+| 13 4 | 15 | 11 1 |
+| 14 2 | 16 | 11 10 |
+| 15 1 | 17 | 12 7 |
+| 15 11 | 18 | 13 4 |
+| 16 10 | 19 | 14 0 |
+| 17 9 | 20 | 14 9 |
+| 18 7 | 21 | 15 6 |
+| 19 6 | 22 | 16 3 |
+| 1 0 5 | 23 | 17 0 |
+| 1 1 3 | 24 | 17 9 |
+| 1 2 2 | 25 | 18 6 |
+| 1 3 0 | 26 | 19 2 |
+| 1 3 11 | 27 | 19 11 |
+| 1 4 10 | 28 | 1 0 8 |
+| 1 5 8 | 29 | 1 1 5 |
+| 1 6 7 | 30 | 1 2 2 |
+| 1 7 5 | 31 | 1 2 11 |
+| 1 8 4 | 32 | 1 3 7 |
+| 1 9 3 | 33 | 1 4 4 |
+| 1 10 1 | 34 | 1 5 1 |
+| 1 11 0 | 35 | 1 5 10 |
+| 1 11 10 | 36 | 1 6 7 |
+| 1 12 9 | 37 | 1 7 4 |
+| 1 13 8 | 38 | 1 8 0 |
+| 1 14 6 | 39 | 1 8 9 |
+| 1 15 5 | 40 | 1 9 6 |
+| 1 16 4 | 41 | 1 10 3 |
+| 1 17 2 | 42 | 1 11 0 |
+| 1 18 1 | 43 | 1 11 9 |
+| 1 18 11 | 44 | 1 12 6 |
+| 1 19 10 | 45 | 1 13 2 |
+| 2 0 9 | 46 | 1 13 11 |
+| 2 1 7 | 47 | 1 14 8 |
+| 2 2 6 | 48 | 1 15 5 |
+| 2 3 4 | 49 | 1 16 2 |
+| 2 4 3 | 50 | 1 16 11 |
+| 2 5 2 | 51 | 1 17 7 |
+| 2 6 0 | 52 | 1 18 4 |
+| 2 6 11 | 53 | 1 19 1 |
+| 2 7 9 | 54 | 1 19 10 |
+| 2 8 8 | 55 | 2 0 7 |
+| 2 9 7 | 56 | 2 1 4 |
+| 2 10 5 | 57 | 2 2 0 |
+| 2 11 4 | 58 | 2 2 9 |
+| 2 12 2 | 59 | 2 3 6 |
+| 2 13 1 | 60 | 2 4 3 |
+| 2 14 0 | 61 | 2 5 0 |
+| 2 14 10 | 62 | 2 5 9 |
+| 2 15 9 | 63 | 2 6 6 |
+| 2 16 8 | 64 | 2 7 2 |
+| 2 17 6 | 65 | 2 7 11 |
+| 2 18 5 | 66 | 2 8 8 |
+| 2 19 3 | 67 | 2 9 5 |
+| 3 0 2 | 68 | 2 10 2 |
+| 3 1 1 | 69 | 2 10 11 |
+| 3 1 11 | 70 | 2 11 7 |
+| 3 2 10 | 71 | 2 12 4 |
+| 3 3 8 | 72 | 2 13 1 |
+| 3 4 7 | 73 | 2 13 10 |
+| 3 5 6 | 74 | 2 14 7 |
+| 3 6 4 | 75 | 2 15 4 |
+| 3 7 3 | 76 | 2 16 0 |
+| 3 8 1 | 77 | 2 16 9 |
+| 3 9 0 | 78 | 2 17 6 |
+| 3 9 11 | 79 | 2 18 3 |
+| 3 10 9 | 80 | 2 19 0 |
+| 3 11 8 | 81 | 2 19 9 |
+| 3 12 7 | 82 | 3 0 6 |
+| 3 13 5 | 83 | 3 1 2 |
+| 3 14 4 | 84 | 3 1 11 |
+| 3 15 2 | 85 | 3 2 8 |
+| 3 16 1 | 86 | 3 3 5 |
+| 3 17 0 | 87 | 3 4 2 |
+| 3 17 10 | 88 | 3 4 11 |
+| 3 18 9 | 89 | 3 5 7 |
+| 3 19 7 | 90 | 3 6 4 |
+| 4 0 6 | 91 | 3 7 1 |
+| 4 1 5 | 92 | 3 7 10 |
+| 4 2 3 | 93 | 3 8 7 |
+| 4 3 2 | 94 | 3 9 4 |
+| 4 4 0 | 95 | 3 10 0 |
+| 4 4 11 | 96 | 3 10 9 |
+| 4 5 10 | 97 | 3 11 6 |
+| 4 6 8 | 98 | 3 12 3 |
+| 4 7 7 | 99 | 3 13 0 |
+| 4 8 5 | 100 | 3 13 9 |
+| 4 9 4 | 101 | 3 14 6 |
+| 4 10 3 | 102 | 3 15 2 |
+| 4 11 1 | 103 | 3 15 11 |
+| 4 12 0 | 104 | 3 16 8 |
+| 4 12 11 | 105 | 3 17 5 |
+| 4 13 9 | 106 | 3 18 2 |
+| 4 14 8 | 107 | 3 18 11 |
+| 4 15 6 | 108 | 3 19 7 |
+| 4 16 5 | 109 | 4 0 4 |
+| 4 17 4 | 110 | 4 1 1 |
+| 4 18 2 | 111 | 4 1 10 |
+| 4 19 1 | 112 | 4 2 7 |
+| 4 19 11 | 113 | 4 3 4 |
+| 5 0 10 | 114 | 4 4 0 |
+| 5 1 9 | 115 | 4 4 9 |
+| 5 2 7 | 116 | 4 5 6 |
+| 5 3 6 | 117 | 4 6 3 |
+| 5 4 4 | 118 | 4 7 0 |
+| 5 5 3 | 119 | 4 7 9 |
+| 5 6 2 | 120 | 4 8 5 |
+| 5 7 0 | 121 | 4 9 2 |
+| 5 7 11 | 122 | 4 9 11 |
+| 5 8 10 | 123 | 4 10 8 |
+| 5 9 8 | 124 | 4 11 5 |
+| 5 10 7 | 125 | 4 12 2 |
+| 5 11 5 | 126 | 4 12 11 |
+| 5 12 4 | 127 | 4 13 7 |
+| 5 13 3 | 128 | 4 14 4 |
+| 5 14 1 | 129 | 4 15 1 |
+| 5 15 0 | 130 | 4 15 10 |
+| 5 15 10 | 131 | 4 16 7 |
+| 5 16 9 | 132 | 4 17 4 |
+| 5 17 8 | 133 | 4 18 0 |
+| 5 18 6 | 134 | 4 18 9 |
+| 5 19 5 | 135 | 4 19 6 |
+| 6 0 3 | 136 | 5 0 3 |
+| 6 1 2 | 137 | 5 1 0 |
+| 6 2 1 | 138 | 5 1 9 |
+| 6 2 11 | 139 | 5 2 5 |
+| 6 3 10 | 140 | 5 3 2 |
+| 6 4 8 | 141 | 5 3 11 |
+| 6 5 7 | 142 | 5 4 8 |
+| 6 6 6 | 143 | 5 5 5 |
+| 6 7 4 | 144 | 5 6 2 |
+
+### Part II — (Applying to service on or after the 6th January 1964)
+
+[^M_M_a65144dd-5f42-4b39-9c39-0b3f46c9a50f]
+
+*(This Note is not part of the Regulations, but is intended to indicate their general purport.)*
+
+The National Insurance Act, 1959, provides that where, at the end of a person's service in a non-participating employment, he is not assured of equivalent pension benefits in respect of the period of his service, his employer must make a payment in lieu of contributions to the National Insurance Fund.
+
+These Regulations contain provisions for determining when a person's period of service ends and for giving notice of that fact. They provide for the disregard of temporary interruptions, and for the time for making a payment in lieu of contributions. They lay down condition on which a person is treated as assured of equivalent pension benefits, and contain special provisions for concurrent employments and for treating consecutive employments as a single continuous employment. They also make provision for delaying refunds of contributions from occupational superannuation funds in cases where the employer has a right to recover part of his payment from the amount to be refunded. The remaining provisions are of a minor or consequential nature.
+
+The report of the National Insurance Advisory Committee on the preliminary draft of these Regulations, dated 2nd June, 1960, is contained in the House of Commons Paper No. 236 (Session 1959-60) published by Her Majesty's Stationery Office.
+
+## Annotations
+
+[^c22716461]: Marginal citation: 9 & 10 Geo. 6 c. 67.
+
+[^c22716471]: Marginal citation: 7 & 8 Eliz. 2. c. 47.
+
+[^c22716481]: Marginal citation: [S.I. 1959/1861](https://www.legislation.gov.uk/uksi/1959/1861) (1959 II, p. 1865).
+
+[^c22716491]: Marginal citation: 15 & 16 Geo. 6 & 7 Eliz. 2. c. 10
+
+[^c22716501]: Marginal citation: 52 & 53 Vict. c. 63.
+
+[^key-502e3d43e0d9d55b5a07fa33b7180aba]: Modification: Reg. 2(2) modified (6.4.1975) by [The National Insurance (Non-participation—Transitional Provisions) Regulations 1974 (S.I. 1974/2057)](https://www.legislation.gov.uk/uksi/1974/2057), [reg. 1(1)](https://www.legislation.gov.uk/uksi/1974/2057/regulation/1/1), [Sch. 3](https://www.legislation.gov.uk/uksi/1974/2057/schedule/3)
+
+[^key-4276d274b654a6f0d739709387999120]: Modification: Reg. 2(3) modified (6.1.1975) by [The National Insurance (Non-participation—Transitional Provisions) Regulations 1974 (S.I. 1974/2057)](https://www.legislation.gov.uk/uksi/1974/2057), [reg. 1(1)](https://www.legislation.gov.uk/uksi/1974/2057/regulation/1/1), [Sch. 3](https://www.legislation.gov.uk/uksi/1974/2057/schedule/3)
+
+[^key-c7c9a7e6a62501daebf26f592b7dd503]: Modification: Reg. 2(4)-(7) modified (6.4.1975) by [The National Insurance (Non-participation—Transitional Provisions) Regulations 1974 (S.I. 1974/2057)](https://www.legislation.gov.uk/uksi/1974/2057), [reg. 1(1)](https://www.legislation.gov.uk/uksi/1974/2057/regulation/1/1), [Sch. 3](https://www.legislation.gov.uk/uksi/1974/2057/schedule/3)
+
+[^key-92a4cfb3cac752b77c3a1df5894eb98a]: Textual amendment: Words in reg. 2(5) inserted (6.1.1964) by [The National Insurance (Non-participation-Assurance of Equivalent Pension Benefits) Amendment (No.2) Regulations 1963 (S.I. 1963/1988)](https://www.legislation.gov.uk/uksi/1963/1988), [regs. 1](https://www.legislation.gov.uk/uksi/1963/1988/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/1963/1988/regulation/2/2/a)
+
+[^key-0ff4a96ce454fb10f01f29b6b71b4c8e]: Textual amendment: Words in reg. 2(5) inserted (6.1.1964) by [The National Insurance (Non-participation-Assurance of Equivalent Pension Benefits) Amendment (No.2) Regulations 1963 (S.I. 1963/1988)](https://www.legislation.gov.uk/uksi/1963/1988), [regs. 1](https://www.legislation.gov.uk/uksi/1963/1988/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/1963/1988/regulation/2/2/b)
+
+[^key-a361c0ee45c09abdd71697df821b62d6]: Textual amendment: Words in reg. 2(5) inserted (6.1.1964) by [The National Insurance (Non-participation-Assurance of Equivalent Pension Benefits) Amendment (No.2) Regulations 1963 (S.I. 1963/1988)](https://www.legislation.gov.uk/uksi/1963/1988), [regs. 1](https://www.legislation.gov.uk/uksi/1963/1988/regulation/1), [2(2)(c)](https://www.legislation.gov.uk/uksi/1963/1988/regulation/2/2/c)
+
+[^key-4bc3136998616d7a3b08c55d26e70434]: Textual amendment: Words in reg. 2(5) deleted (6.1.1964) by [The National Insurance (Non-participation-Assurance of Equivalent Pension Benefits) Amendment (No.2) Regulations 1963 (S.I. 1963/1988)](https://www.legislation.gov.uk/uksi/1963/1988), [regs. 1](https://www.legislation.gov.uk/uksi/1963/1988/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/1963/1988/regulation/2/3/a)
+
+[^key-67795db86613636cb9447e8bdc44f433]: Textual amendment: Words in reg. 2(5) inserted (6.1.1964) by [The National Insurance (Non-participation-Assurance of Equivalent Pension Benefits) Amendment (No.2) Regulations 1963 (S.I. 1963/1988)](https://www.legislation.gov.uk/uksi/1963/1988), [regs. 1](https://www.legislation.gov.uk/uksi/1963/1988/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/1963/1988/regulation/2/3/b)
+
+[^key-46f39b4b6ad463a045b229c2ea698e2e]: Textual amendment: Words in reg. 2(5) added (6.1.1964) by [The National Insurance (Non-participation-Assurance of Equivalent Pension Benefits) Amendment (No.2) Regulations 1963 (S.I. 1963/1988)](https://www.legislation.gov.uk/uksi/1963/1988), [regs. 1](https://www.legislation.gov.uk/uksi/1963/1988/regulation/1), [2(3)(c)](https://www.legislation.gov.uk/uksi/1963/1988/regulation/2/3/c)
+
+[^key-cd90347ffe3adcc7e9f2f146f265aecb]: Modification: [Reg. 3](https://www.legislation.gov.uk/uksi/1960/1103/regulation/3) modified (6.4.1975) by [The National Insurance (Non-participation—Transitional Provisions) Regulations 1974 (S.I. 1974/2057)](https://www.legislation.gov.uk/uksi/1974/2057), [reg. 1(1)](https://www.legislation.gov.uk/uksi/1974/2057/regulation/1/1), [Sch. 3](https://www.legislation.gov.uk/uksi/1974/2057/schedule/3)
+
+[^key-597638b730568d0a2a5d0d751c78d793]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/uksi/1960/1103/regulation/3) inserted (6.1.1964) by [The National Insurance (Non-participation-Assurance of Equivalent Pension Benefits) Amendment (No.2) Regulations 1963 (S.I. 1963/1988)](https://www.legislation.gov.uk/uksi/1963/1988), [regs. 1](https://www.legislation.gov.uk/uksi/1963/1988/regulation/1), [3](https://www.legislation.gov.uk/uksi/1963/1988/regulation/3)
+
+[^key-a7d541d8065d906050b2ac986ff205bf]: Textual amendment: [Reg. 3(bb)](https://www.legislation.gov.uk/uksi/1960/1103/regulation/3/bb) inserted (6.1.1964) by [The National Insurance (Consequential Provisions) Regulations 1963 (S.I. 1963/676)](https://www.legislation.gov.uk/uksi/1963/676), [reg. 8](https://www.legislation.gov.uk/uksi/1963/676/regulation/8)
+
+[^key-3d29862226a08bb94f40156937a0492d]: Textual amendment: Reg. 3(c) added (31.7.1961) by [The National Insurance (Non-participation-Assurance of Equivalent Pension Benefits) Amendment Regulations, 1961 (S.I. 1961/1378)](https://www.legislation.gov.uk/uksi/1961/1378), [regs. 1](https://www.legislation.gov.uk/uksi/1961/1378/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/1961/1378/regulation/2/2)
+
+[^key-10dc813aa63c9c0d4315fc27ce4c8ec0]: Modification: [Reg. 4](https://www.legislation.gov.uk/uksi/1960/1103/regulation/4) modified (6.4.1975) by [The National Insurance (Non-participation—Transitional Provisions) Regulations 1974 (S.I. 1974/2057)](https://www.legislation.gov.uk/uksi/1974/2057), [reg. 1(1)](https://www.legislation.gov.uk/uksi/1974/2057/regulation/1/1), [Sch. 3](https://www.legislation.gov.uk/uksi/1974/2057/schedule/3)
+
+[^key-0e120515f0789f4fe2813c8c45c67d41]: Textual amendment: Words in [reg. 4(i)](https://www.legislation.gov.uk/uksi/1960/1103/regulation/4/i) inserted (6.1.1964) by [The National Insurance (Non-participation-Assurance of Equivalent Pension Benefits) Amendment (No.2) Regulations 1963 (S.I. 1963/1988)](https://www.legislation.gov.uk/uksi/1963/1988), [regs. 1](https://www.legislation.gov.uk/uksi/1963/1988/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/1963/1988/regulation/4/2)
+
+[^key-85af8cd3940efbf19ff489802f3224f4]: Textual amendment: Words in reg. 4(i) added (31.7.1961) by [The National Insurance (Non-participation-Assurance of Equivalent Pension Benefits) Amendment Regulations, 1961 (S.I. 1961/1378)](https://www.legislation.gov.uk/uksi/1961/1378), [regs. 1](https://www.legislation.gov.uk/uksi/1961/1378/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/1961/1378/regulation/3/2)
+
+[^key-5b9685db5cd6adb5676f5ba38260b7e2]: Textual amendment: [Reg. 4(iii)](https://www.legislation.gov.uk/uksi/1960/1103/regulation/4/iii) and word added (6.1.1964) by [The National Insurance (Non-participation-Assurance of Equivalent Pension Benefits) Amendment (No.2) Regulations 1963 (S.I. 1963/1988)](https://www.legislation.gov.uk/uksi/1963/1988), [regs. 1](https://www.legislation.gov.uk/uksi/1963/1988/regulation/1), [4(3)](https://www.legislation.gov.uk/uksi/1963/1988/regulation/4/3)
+
+[^key-44369a6791dbbbc6bd4b6d0ad0a34bd3]: Modification: [Reg. 6](https://www.legislation.gov.uk/uksi/1960/1103/regulation/6) modified (6.4.1975) by [The National Insurance (Non-participation—Transitional Provisions) Regulations 1974 (S.I. 1974/2057)](https://www.legislation.gov.uk/uksi/1974/2057), [reg. 1(1)](https://www.legislation.gov.uk/uksi/1974/2057/regulation/1/1), [Sch. 3](https://www.legislation.gov.uk/uksi/1974/2057/schedule/3)
+
+[^key-90bd64587e390bdf6308a2acdf6ff5e7]: Textual amendment: [Reg. 6A](https://www.legislation.gov.uk/uksi/1960/1103/regulation/6A) inserted (6.4.1963) by [The National Insurance (Consequential Provisions) Regulations 1963 (S.I. 1963/676)](https://www.legislation.gov.uk/uksi/1963/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1963/676/regulation/1/1), [9(1)](https://www.legislation.gov.uk/uksi/1963/676/regulation/9/1)
+
+[^key-4ccf544948ae07a05ade938ba1d48c15]: Modification: [Reg. 7](https://www.legislation.gov.uk/uksi/1960/1103/regulation/7) modified (6.4.1975) by [The National Insurance (Non-participation—Transitional Provisions) Regulations 1974 (S.I. 1974/2057)](https://www.legislation.gov.uk/uksi/1974/2057), [reg. 1(1)](https://www.legislation.gov.uk/uksi/1974/2057/regulation/1/1), [Sch. 3](https://www.legislation.gov.uk/uksi/1974/2057/schedule/3)
+
+[^M_F_0a9098c1-30b0-4308-b61e-012932286bd5]: Textual amendment: Words in reg. 7(1)(b) substituted (6.4.1963) by [The National Insurance (Consequential Provisions) Regulations 1963 (S.I. 1963/676)](https://www.legislation.gov.uk/uksi/1963/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1963/676/regulation/1/1), [9(2)](https://www.legislation.gov.uk/uksi/1963/676/regulation/9/2)
+
+[^key-407e0cdd18d2ef8112bf4db61a3f58d0]: Textual amendment: Words in reg. 7 inserted (6.1.1964) by [The National Insurance (Non-participation-Assurance of Equivalent Pension Benefits) Amendment (No.2) Regulations 1963 (S.I. 1963/1988)](https://www.legislation.gov.uk/uksi/1963/1988), [regs. 1](https://www.legislation.gov.uk/uksi/1963/1988/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/1963/1988/regulation/5/2)
+
+[^key-1eb76daef2c807ddc7ff85ab2511fbdf]: Textual amendment: Words in reg. 7(2) inserted (31.7.1961) by [The National Insurance (Non-participation-Assurance of Equivalent Pension Benefits) Amendment Regulations, 1961 (S.I. 1961/1378)](https://www.legislation.gov.uk/uksi/1961/1378), [regs. 1](https://www.legislation.gov.uk/uksi/1961/1378/regulation/1), [4](https://www.legislation.gov.uk/uksi/1961/1378/regulation/4)
+
+[^key-288dbe60240c3bb0d02ba80916debfd8]: Textual amendment: Reg. 7(3)(4) inserted (6.1.1964) by [The National Insurance (Non-participation-Assurance of Equivalent Pension Benefits) Amendment (No.2) Regulations 1963 (S.I. 1963/1988)](https://www.legislation.gov.uk/uksi/1963/1988), [regs. 1](https://www.legislation.gov.uk/uksi/1963/1988/regulation/1), [5(3)](https://www.legislation.gov.uk/uksi/1963/1988/regulation/5/3)
+
+[^key-4abf7c12b986434fcb141b9f9fc30af8]: Modification: [Reg. 8](https://www.legislation.gov.uk/uksi/1960/1103/regulation/8) modified (6.4.1975) by [The National Insurance (Non-participation—Transitional Provisions) Regulations 1974 (S.I. 1974/2057)](https://www.legislation.gov.uk/uksi/1974/2057), [reg. 1(1)](https://www.legislation.gov.uk/uksi/1974/2057/regulation/1/1), [Sch. 3](https://www.legislation.gov.uk/uksi/1974/2057/schedule/3)
+
+[^key-bcc4f5a560980cece5a1d0ebce20d73d]: Modification: [Reg. 9](https://www.legislation.gov.uk/uksi/1960/1103/regulation/9) modified (6.4.1975) by [The National Insurance (Non-participation—Transitional Provisions) Regulations 1974 (S.I. 1974/2057)](https://www.legislation.gov.uk/uksi/1974/2057), [reg. 1(1)](https://www.legislation.gov.uk/uksi/1974/2057/regulation/1/1), [Sch. 3](https://www.legislation.gov.uk/uksi/1974/2057/schedule/3)
+
+[^key-6505edb4366cff8b9c5bc86c5e47e6de]: Textual amendment: Words in [reg. 9](https://www.legislation.gov.uk/uksi/1960/1103/regulation/9) deleted (6.1.1964) by [The National Insurance (Non-participation-Assurance of Equivalent Pension Benefits) Amendment (No.2) Regulations 1963 (S.I. 1963/1988)](https://www.legislation.gov.uk/uksi/1963/1988), [regs. 1](https://www.legislation.gov.uk/uksi/1963/1988/regulation/1), [6](https://www.legislation.gov.uk/uksi/1963/1988/regulation/6)
+
+[^key-15520b323a3b833544dc2fbf7e979b9d]: Modification: [Reg. 10](https://www.legislation.gov.uk/uksi/1960/1103/regulation/10) modified (6.4.1975) by [The National Insurance (Non-participation—Transitional Provisions) Regulations 1974 (S.I. 1974/2057)](https://www.legislation.gov.uk/uksi/1974/2057), [reg. 1(1)](https://www.legislation.gov.uk/uksi/1974/2057/regulation/1/1), [Sch. 3](https://www.legislation.gov.uk/uksi/1974/2057/schedule/3)
+
+[^key-40b663003b91930e7d17f0e2c2349c8a]: Modification: [Reg. 11](https://www.legislation.gov.uk/uksi/1960/1103/regulation/11) modified (6.4.1975) by [The National Insurance (Non-participation—Transitional Provisions) Regulations 1974 (S.I. 1974/2057)](https://www.legislation.gov.uk/uksi/1974/2057), [reg. 1(1)](https://www.legislation.gov.uk/uksi/1974/2057/regulation/1/1), [Sch. 3](https://www.legislation.gov.uk/uksi/1974/2057/schedule/3)
+
+[^key-1accb9eff629551def39bb5aedc01586]: Textual amendment: Words in [reg. 11(1)](https://www.legislation.gov.uk/uksi/1960/1103/regulation/11/1) inserted (31.7.1961) by [The National Insurance (Non-participation-Assurance of Equivalent Pension Benefits) Amendment Regulations, 1961 (S.I. 1961/1378)](https://www.legislation.gov.uk/uksi/1961/1378), [regs. 1](https://www.legislation.gov.uk/uksi/1961/1378/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/1961/1378/regulation/5/2)
+
+[^key-399e793e0b3136875b207e88e4be0815]: Textual amendment: Word in [reg. 11(2)](https://www.legislation.gov.uk/uksi/1960/1103/regulation/11/2) substituted (31.7.1961) by [The National Insurance (Non-participation-Assurance of Equivalent Pension Benefits) Amendment Regulations, 1961 (S.I. 1961/1378)](https://www.legislation.gov.uk/uksi/1961/1378), [regs. 1](https://www.legislation.gov.uk/uksi/1961/1378/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/1961/1378/regulation/5/2)
+
+[^key-8aba9efeeffe620db46f663081b567eb]: Textual amendment: [Reg. 11(3)](https://www.legislation.gov.uk/uksi/1960/1103/regulation/11/3) omitted (31.7.1961) by virtue of [The National Insurance (Non-participation-Assurance of Equivalent Pension Benefits) Amendment Regulations, 1961 (S.I. 1961/1378)](https://www.legislation.gov.uk/uksi/1961/1378), [regs. 1](https://www.legislation.gov.uk/uksi/1961/1378/regulation/1), [5(3)](https://www.legislation.gov.uk/uksi/1961/1378/regulation/5/3)
+
+[^key-afc398199368ba5f512e2e770cd7541e]: Modification: [Reg. 11A](https://www.legislation.gov.uk/uksi/1960/1103/regulation/11A) modified (6.4.1975) by [The National Insurance (Non-participation—Transitional Provisions) Regulations 1974 (S.I. 1974/2057)](https://www.legislation.gov.uk/uksi/1974/2057), [reg. 1(1)](https://www.legislation.gov.uk/uksi/1974/2057/regulation/1/1), [Sch. 3](https://www.legislation.gov.uk/uksi/1974/2057/schedule/3)
+
+[^key-e35ba90fb4c4f29cebc0eb90073aa375]: Textual amendment: Reg. 11A inserted (31.7.1961) by [The National Insurance (Non-participation-Assurance of Equivalent Pension Benefits) Amendment Regulations, 1961 (S.I. 1961/1378)](https://www.legislation.gov.uk/uksi/1961/1378), [regs. 1](https://www.legislation.gov.uk/uksi/1961/1378/regulation/1), [6](https://www.legislation.gov.uk/uksi/1961/1378/regulation/6)
+
+[^key-36f2b492debe8cdef56ee3277914ced0]: Textual amendment: [Reg. 11A(aa)](https://www.legislation.gov.uk/uksi/1960/1103/regulation/11A/aa) inserted (6.1.1964) by [The National Insurance (Non-participation-Assurance of Equivalent Pension Benefits) Amendment (No.2) Regulations 1963 (S.I. 1963/1988)](https://www.legislation.gov.uk/uksi/1963/1988), [regs. 1](https://www.legislation.gov.uk/uksi/1963/1988/regulation/1), [7](https://www.legislation.gov.uk/uksi/1963/1988/regulation/7)
+
+[^key-1d3c79cb9345942a392163766b6657c3]: Modification: [Reg. 16](https://www.legislation.gov.uk/uksi/1960/1103/regulation/16) modified (6.4.1975) by [The National Insurance (Non-participation—Transitional Provisions) Regulations 1974 (S.I. 1974/2057)](https://www.legislation.gov.uk/uksi/1974/2057), [reg. 1(1)](https://www.legislation.gov.uk/uksi/1974/2057/regulation/1/1), [Sch. 3](https://www.legislation.gov.uk/uksi/1974/2057/schedule/3)
+
+[^key-be277e235ec8633846e6da180f33e5ec]: Textual amendment: Words in [reg. 16](https://www.legislation.gov.uk/uksi/1960/1103/regulation/16) substituted (with effect in accordance with Sch. E of the amending S.I.) by [The National Insurance (Consequential Provisions) Regulations 1963 (S.I. 1963/676)](https://www.legislation.gov.uk/uksi/1963/676), [reg. 10(1)](https://www.legislation.gov.uk/uksi/1963/676/regulation/10/1)[(2)](https://www.legislation.gov.uk/uksi/1963/676/regulation/10/2)
+
+[^key-b38bfccfbd48901d6431a0b019ef61f8]: Modification: [Reg. 17](https://www.legislation.gov.uk/uksi/1960/1103/regulation/17) modified (6.4.1975) by [The National Insurance (Non-participation—Transitional Provisions) Regulations 1974 (S.I. 1974/2057)](https://www.legislation.gov.uk/uksi/1974/2057), [reg. 1(1)](https://www.legislation.gov.uk/uksi/1974/2057/regulation/1/1), [Sch. 3](https://www.legislation.gov.uk/uksi/1974/2057/schedule/3)
+
+[^key-bcf1c6331f721c9c7642db3fba412ead]: Textual amendment: Words in proviso to [reg. 17(2)](https://www.legislation.gov.uk/uksi/1960/1103/regulation/17/2) substituted (6.1.1964) by [The National Insurance (Consequential Provisions) Regulations 1963 (S.I. 1963/676)](https://www.legislation.gov.uk/uksi/1963/676), [reg. 11](https://www.legislation.gov.uk/uksi/1963/676/regulation/11)
+
+[^key-8a38a61de2d897236c11b2320735c1b0]: Modification: [Reg. 18(1)](https://www.legislation.gov.uk/uksi/1960/1103/regulation/18/1)[(2)](https://www.legislation.gov.uk/uksi/1960/1103/regulation/18/2)[(5)](https://www.legislation.gov.uk/uksi/1960/1103/regulation/18/5) modified (6.4.1975) by [The National Insurance (Non-participation—Transitional Provisions) Regulations 1974 (S.I. 1974/2057)](https://www.legislation.gov.uk/uksi/1974/2057), [reg. 1(1)](https://www.legislation.gov.uk/uksi/1974/2057/regulation/1/1), [Sch. 3](https://www.legislation.gov.uk/uksi/1974/2057/schedule/3)
+
+[^key-5722f6ad03aac08aaac8c74f6076f24c]: Textual amendment: Words in reg. 18(1)(a) inserted (6.1.1964) by [The National Insurance (Non-participation-Assurance of Equivalent Pension Benefits) Amendment (No.2) Regulations 1963 (S.I. 1963/1988)](https://www.legislation.gov.uk/uksi/1963/1988), [regs. 1](https://www.legislation.gov.uk/uksi/1963/1988/regulation/1), [8(2)](https://www.legislation.gov.uk/uksi/1963/1988/regulation/8/2)
+
+[^key-945ca1af0732a82cce8928d594f9934e]: Textual amendment: Reg. 18(1)(b)(ii) revoked (29.7.1963) by [The National Insurance (Non-participation-Assurance of Equivalent Pension Benefits) Amendment Regulations, 1963 (S.I. 1963/1265)](https://www.legislation.gov.uk/uksi/1963/1265), [regs. 1](https://www.legislation.gov.uk/uksi/1963/1265/regulation/1), [3](https://www.legislation.gov.uk/uksi/1963/1265/regulation/3)
+
+[^key-f39e298f0263491ad7f381064c500f14]: Textual amendment: Words in reg. 18(2) added (6.1.1964) by [The National Insurance (Non-participation-Assurance of Equivalent Pension Benefits) Amendment (No.2) Regulations 1963 (S.I. 1963/1988)](https://www.legislation.gov.uk/uksi/1963/1988), [regs. 1](https://www.legislation.gov.uk/uksi/1963/1988/regulation/1), [8(3)](https://www.legislation.gov.uk/uksi/1963/1988/regulation/8/3)
+
+[^key-9b9943512071997414bb27ac39074336]: Textual amendment: Words in reg. 18(4) deleted (6.1.1964) by [The National Insurance (Non-participation-Assurance of Equivalent Pension Benefits) Amendment (No.2) Regulations 1963 (S.I. 1963/1988)](https://www.legislation.gov.uk/uksi/1963/1988), [regs. 1](https://www.legislation.gov.uk/uksi/1963/1988/regulation/1), [8(4)](https://www.legislation.gov.uk/uksi/1963/1988/regulation/8/4)
+
+[^key-8caa75bc15d65d6d73880efef393bab2]: Textual amendment: Reg. 18(5A) inserted (6.1.1964) by [The National Insurance (Non-participation-Assurance of Equivalent Pension Benefits) Amendment (No.2) Regulations 1963 (S.I. 1963/1988)](https://www.legislation.gov.uk/uksi/1963/1988), [regs. 1](https://www.legislation.gov.uk/uksi/1963/1988/regulation/1), [8(5)](https://www.legislation.gov.uk/uksi/1963/1988/regulation/8/5)
+
+[^key-11d16f505049aa290f1dbf95de0781b0]: Modification: [Reg. 19](https://www.legislation.gov.uk/uksi/1960/1103/regulation/19) modified (6.4.1975) by [The National Insurance (Non-participation—Transitional Provisions) Regulations 1974 (S.I. 1974/2057)](https://www.legislation.gov.uk/uksi/1974/2057), [reg. 1(1)](https://www.legislation.gov.uk/uksi/1974/2057/regulation/1/1), [Sch. 3](https://www.legislation.gov.uk/uksi/1974/2057/schedule/3)
+
+[^key-2ea5df314bf45fb50b2da6d1ad801b28]: Textual amendment: Reg. 20 added (29.7.1963) by [The National Insurance (Non-participation-Assurance of Equivalent Pension Benefits) Amendment Regulations, 1963 (S.I. 1963/1265)](https://www.legislation.gov.uk/uksi/1963/1265), [regs. 1](https://www.legislation.gov.uk/uksi/1963/1265/regulation/1), [2](https://www.legislation.gov.uk/uksi/1963/1265/regulation/2)
+
+[^key-cd73e6e4f78f45e5b4b7762c30845fe2]: Modification: [Reg. 20](https://www.legislation.gov.uk/uksi/1960/1103/regulation/20) modified (6.4.1975) by [The National Insurance (Non-participation—Transitional Provisions) Regulations 1974 (S.I. 1974/2057)](https://www.legislation.gov.uk/uksi/1974/2057), [reg. 1(1)](https://www.legislation.gov.uk/uksi/1974/2057/regulation/1/1), [Sch. 3](https://www.legislation.gov.uk/uksi/1974/2057/schedule/3)
+
+[^key-1d2dddc724bd6b6ef0156cde1febda36]: Textual amendment: [Reg. 21](https://www.legislation.gov.uk/uksi/1960/1103/regulation/21) inserted (5.10.1966) by [The National Insurance (Graduated Contributions and Non-participating Employments—Consequential) Regulations 1966 (S.I. 1966/1048)](https://www.legislation.gov.uk/uksi/1966/1048), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1966/1048/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/1966/1048/regulation/2)
+
+[^key-0176d43abcdcd184ad54f759e18c6d66]: Modification: [Sch. 1](https://www.legislation.gov.uk/uksi/1960/1103/schedule/1) modified (6.4.1975) by [The National Insurance (Non-participation—Transitional Provisions) Regulations 1974 (S.I. 1974/2057)](https://www.legislation.gov.uk/uksi/1974/2057), [reg. 1(1)](https://www.legislation.gov.uk/uksi/1974/2057/regulation/1/1), [Sch. 3](https://www.legislation.gov.uk/uksi/1974/2057/schedule/3)
+
+[^key-4e496c05ac8a0a9e399d49a7df579e8a]: Textual amendment: Sch. 1: Sch. renumbered as Sch. 1 (6.4.1963) by [The National Insurance (Consequential Provisions) Regulations 1963 (S.I. 1963/676)](https://www.legislation.gov.uk/uksi/1963/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1963/676/regulation/1/1), [9(2)](https://www.legislation.gov.uk/uksi/1963/676/regulation/9/2)
+
+[^key-39351e3373abc8d984421637d16ae69c]: Textual amendment: Words in Sch. 1 para. 3 deleted (6.1.1964) by [The National Insurance (Non-participation-Assurance of Equivalent Pension Benefits) Amendment (No.2) Regulations 1963 (S.I. 1963/1988)](https://www.legislation.gov.uk/uksi/1963/1988), [regs. 1](https://www.legislation.gov.uk/uksi/1963/1988/regulation/1), [9](https://www.legislation.gov.uk/uksi/1963/1988/regulation/9)
+
+[^key-e1bb63ecca600562561236930843db92]: Textual amendment: Sch. 2 added (6.4.1963) by [The National Insurance (Consequential Provisions) Regulations 1963 (S.I. 1963/676)](https://www.legislation.gov.uk/uksi/1963/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1963/676/regulation/1/1), [9(3)](https://www.legislation.gov.uk/uksi/1963/676/regulation/9/3), [Sch. D](https://www.legislation.gov.uk/uksi/1963/676/schedule/D)
+
+[^M_M_a65144dd-5f42-4b39-9c39-0b3f46c9a50f]: Marginal citation: Incomplete data - see S.I. 1963/676, Sch. D - table of rates for available data

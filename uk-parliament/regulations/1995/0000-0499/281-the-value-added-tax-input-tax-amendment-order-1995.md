@@ -1,0 +1,101 @@
+---
+title: The Value Added Tax (Input Tax) (Amendment) Order 1995
+id: uksi/1995/281
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '1995-02-08'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1995/281
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1995/281/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Value Added Tax (Input Tax) (Amendment) Order 1995
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+1995 No. 281
+
+VALUE ADDED TAX
+
+The Value Added Tax (Input Tax) (Amendment) Order 1995
+
+Approved by The House of Commons
+
+Made
+
+8th February 1995
+
+Laid before the House of Commons
+
+8th February 1995
+
+Coming into force
+
+1st March 1995
+
+The Treasury, in exercise of the powers conferred on them by section 25(7) of the Value Added Tax Act 1994[^f00001] and of all other powers enabling them in that behalf, hereby make the following Order:
+
+**1.** This Order may be cited as the Value Added Tax (Input Tax) (Amendment) Order 1995 and shall come into force on 1st March 1995.
+
+**2.** The Value Added Tax (Input Tax) Order 1992[^f00002] shall be amended in accordance with the following provisions of this Order.
+
+**3.** In article 2—
+
+- (a) in the definition of “the Act”, for “1983” there shall be substituted “1994”;
+- (b) after the definition of “the Manx Act”, there shall be inserted—
+
+  > - “building materials” means any goods the supply of which would be zero-rated if supplied by a taxable person to a person to whom he is also making a supply of a description within either item 2 or item 3 of Group 5, or item 2 of Group 6, of Schedule 8 to the Act;
+- (c) in the definition of “caravan”, for “item 1 of Group 11 of Schedule 5 to the Act” there shall be substituted “item 1 of Group 9 of Schedule 8 to the Act”; and
+
+**4.** In article 4—
+
+- (a) in paragraph (1), for “14” there shall be substituted “25”;
+- (b) in paragraph (3)(b), for “18” there shall be substituted “32”;
+- (c) in paragraph (3)(c), for “3(3)” there shall be substituted “5(3)”; and
+- (d) in paragraph (3)(d), for “19(1)” there shall be substituted “37(1)”.
+
+**5.** In paragraph (1) of article 5, for “14” there shall be substituted “25”.
+
+**6.** For article 6, there shall be substituted—
+
+> **6.** Where a taxable person constructing, or effecting any works to a building, in either case for the purpose of making a grant of a major interest in it or any part of it or its site which is of a description in Schedule 8 to the Act, incorporates goods other than building materials in any part of the building or its site, input tax on the supply, acquisition or importation of the goods shall be excluded from credit under section 25 of the Act.
+
+.
+
+**7.** In article 7—
+
+- (a) in paragraph (1), for “14” there shall be substituted “25”;
+- (b) in paragraph (2)(d)(i), for “paragraph 5A of Schedule 2 to the Act” there shall be substituted “paragraph 6 of Schedule 4 to the Act”;
+- (c) in paragraph (2)(d)(ii), for “16(7)” there shall be substituted “30(8)”;
+- (d) in paragraph (2)(f), for “item 12 of Group 14 of Schedule 5” there shall be substituted “item 14 of Group 12 of Schedule 8”;
+- (e) in paragraph (4), for “14(10)” there shall be substituted “25(7)”; and
+- (f) in paragraph (5)(b), for “3(5)” there shall be substituted “5(5)”.
+
+Tim Wood
+
+Derek Conway
+
+Two of the Lords Commissioners of Her Majesty’s Treasury
+
+8th February 1995
+
+(This note is not part of the Order)
+
+This Order amends the Value Added Tax (Input Tax) Order 1992.
+
+In order to maintain parity of treatment between speculative builders of dwellings and contract builders of dwellings article 6 of the 1992 Order excluded from input tax credit tax on goods installed in a dwelling by a speculative builder which would not be zero-rated under Group 8 of Schedule 5 to the Value Added Tax Act 1983 (now Group 5 of Schedule 8 to the Value Added Tax Act 1994). Group 5 of Schedule 8 has been substituted by the Value Added Tax (Construction of Buildings) Order 1995 (S.I. [1995/280](https://www.legislation.gov.uk/uksi/1995/280)), and provisions dealing with the supplies of building materials in the course of an approved alteration have been moved to Group 6 by the Value Added Tax (Protected Buildings) Order 1995 (S.I. [1995/283](https://www.legislation.gov.uk/uksi/1995/283)). Articles 2(b) and 6 of this Order make the necessary amendments to the 1992 Order to ensure that parity between speculative and contract builders is maintained. The substituted article 6 also applies the input tax restriction to speculative builders of all buildings to which Group 5 and Group 6 of Schedule 8 to the Value Added Tax Act 1994 apply rather than just dwellings.
+
+In addition, the opportunity has been taken to substitute references to the provisions of the Value Added Tax Act 1994 for references to the Value Added Tax Act 1983.
+
+## Annotations
+
+[^f00001]: Footnote: [1994 c. 23](https://www.legislation.gov.uk/ukpga/1994/23).
+
+[^f00002]: Footnote: S.I. [1992/3222](https://www.legislation.gov.uk/uksi/1992/3222); Article 7 was amended by S.I. [1993/2954](https://www.legislation.gov.uk/uksi/1993/2954).

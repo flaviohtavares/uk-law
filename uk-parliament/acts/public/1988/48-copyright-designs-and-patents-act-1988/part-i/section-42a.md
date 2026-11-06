@@ -1,0 +1,53 @@
+---
+title: Copyright, Designs and Patents Act 1988, section 42A
+act: Copyright, Designs and Patents Act 1988
+section: 42A
+status: revised-with-pending-changes
+text_date: '2025-04-06'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/1988/48/section/42A
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Copyright, Designs and Patents Act 1988, section 42A
+
+> **Warning: changes not yet applied to this text (2).** Text as at 2025-04-06. See https://www.legislation.gov.uk/changes/affected/ukpga/1988/48
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 42A. Copying by librarians: single copies of published works[^key-532e1737b1c459429b996d12db92defb]
+
+*Extent: E+W+S+N.I.*
+
+(1) A librarian of a library which is not conducted for profit may, if the conditions in subsection (2) are met, make and supply a single copy of—
+
+- (a) one article in any one issue of a periodical, or
+- (b) a reasonable proportion of any other published work,
+
+without infringing copyright in the work.
+
+(2) The conditions are—
+
+- (a) the copy is supplied in response to a request from a person who has provided the librarian with a declaration in writing which includes the information set out in subsection (3), and
+- (b) the librarian is not aware that the declaration is false in a material particular.
+
+(3) The information which must be included in the declaration is—
+
+- (a) the name of the person who requires the copy and the material which that person requires,
+- (b) a statement that the person has not previously been supplied with a copy of that material by any library,
+- (c) a statement that the person requires the copy for the purposes of research for a non-commercial purpose or private study, will use it only for those purposes and will not supply the copy to any other person, and
+- (d) a statement that to the best of the person’s knowledge, no other person with whom the person works or studies has made, or intends to make, at or about the same time as the person’s request, a request for substantially the same material for substantially the same purpose.
+
+(4) Where a library makes a charge for supplying a copy under this section, the sum charged must be calculated by reference to the costs attributable to the production of the copy.
+
+(5) Where a person (“P”) makes a declaration under this section that is false in a material particular and is supplied with a copy which would have been an infringing copy if made by P—
+
+- (a) P is liable for infringement of copyright as if P had made the copy, and
+- (b) the copy supplied to P is to be treated as an infringing copy for all purposes.
+
+(6) To the extent that a term of a contract purports to prevent or restrict the doing of any act which, by virtue of this section, would not infringe copyright, that term is unenforceable.
+
+## Annotations
+
+[^key-532e1737b1c459429b996d12db92defb]: Textual amendment: Ss. 41-43A substituted (1.6.2014) for ss. 41-43 by [The Copyright and Rights in Performances (Research, Education, Libraries and Archives) Regulations 2014 (S.I. 2014/1372)](https://www.legislation.gov.uk/uksi/2014/1372), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1372/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2014/1372/regulation/5/2)

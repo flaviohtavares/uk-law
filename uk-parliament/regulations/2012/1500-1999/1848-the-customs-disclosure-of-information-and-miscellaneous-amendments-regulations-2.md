@@ -1,0 +1,213 @@
+---
+title: The Customs Disclosure of Information and Miscellaneous Amendments Regulations 2012
+id: uksi/2012/1848
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2012-07-12'
+text_date: '2014-03-27'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2012/1848
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2012/1848/pdfs/uksiem_20121848_en.pdf
+- http://www.legislation.gov.uk/uksi/2012/1848/pdfs/uksi_20121848_en.pdf
+- http://www.legislation.gov.uk/uksi/2012/1848/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Customs Disclosure of Information and Miscellaneous Amendments Regulations 2012
+
+> Text as at 2014-03-27.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2012 No. 1848
+
+Consumer Protection
+
+Health And Safety
+
+The Customs Disclosure of Information and Miscellaneous Amendments Regulations 2012
+
+Made
+
+12th July 2012
+
+Laid before Parliament
+
+16th July 2012
+
+Coming into force
+
+*10th August 2012*
+
+The Secretary of State is a Minister designated for the purposes of section 2(2) of the European Communities Act 1972 [^c21325771] in relation to: market surveillance [^c21325781]; measures relating to apparatus which is liable to cause electromagnetic disturbance and to apparatus the performance of which is liable to be affected by such disturbance [^c21325791]; measures relating to general product safety [^c21325801]; measures relating to safety as regards personal protective equipment [^c21325811]; and pyrotechnic articles [^c21325821].
+
+The Secretary of State makes the following Regulations in exercise of the powers conferred by section 2(2) of the European Communities Act 1972.
+
+## PART 1 — General
+
+### 1. Citation and commencement
+
+These Regulations may be cited as the Customs Disclosure of Information and Miscellaneous Amendments Regulations 2012 and come into force on 10th August 2012.
+
+## PART 2 — Unauthorised disclosure of information
+
+### 2. Interpretation
+
+In regulation 3—
+
+- “general customs official” and “customs revenue official” have the meaning given by section 38 of the Borders, Citizenship and Immigration Act 2009 [^c21325831];
+- “**market surveillance**”, “**market surveillance authority**” and “**product**” have the same meaning as in Article 27 of RAMS;
+- “**RAMS**” means Regulation [(EC) No 765/2008](https://www.legislation.gov.uk/european/regulation/2008/0765) of the European Parliament and of the Council of 9 July 2008 setting out the requirements for accreditation and market surveillance relating to the marketing of products and repealing Regulation [(EEC) No 339/93](https://www.legislation.gov.uk/european/regulation/1993/0339) [^c21325841]; and
+- “**restricted information**” means any information which either identifies a person or enables that person's identity to be deduced.
+
+### 3. Offence of disclosure of restricted information
+
+(1) This regulation applies where a specified person discloses restricted information to a market surveillance authority pursuant to Article 27(2) of RAMS.
+
+(2) The following are specified persons—
+
+- (a) the Secretary of State,
+- (b) a general customs official,
+- (c) a customs revenue official,
+- (d) the Commissioners for Her Majesty's Revenue and Customs, and
+- (e) an officer of Her Majesty's Revenue and Customs.
+
+(3) It is an offence for a person who receives the restricted information to disclose it except for the purposes for which it was originally received unless the subsequent disclosure is required for the purposes of market surveillance in respect of a product.
+
+(4) It is a defence for a person to show a reasonable belief held by that person at the time the alleged offence took place—
+
+- (a) that the disclosure was lawful, or
+- (b) that the information had previously been made available lawfully.
+
+### 4. Penalties for offence of disclosure of restricted information
+
+(1) A person who commits an offence under regulation 3 is liable—
+
+- (a) on summary conviction to a fine not exceeding the statutory maximum [^c21325851] or to imprisonment for a term not exceeding three months or to both;
+- (b) on conviction on indictment to a fine or to imprisonment for a period not exceeding two years or both.
+
+(2) In England and Wales a prosecution for an offence under regulation 3 may be instituted only by or with the consent of the Director of Public Prosecutions.[^key-afd6868a10c38f4698de890f0809505a]
+
+(3) In Northern Ireland a prosecution for an offence under regulation 3 may be instituted only—
+
+- (a) by the Commissioners for Her Majesty's Revenue and Customs, or
+- (b) with the consent of the Director of Public Prosecutions for Northern Ireland.
+
+### 5. Review
+
+(1) The Secretary of State must from time to time—
+
+- (a) carry out a review of regulations 2 to 4,
+- (b) set out the conclusions of the review in a report, and
+- (c) publish the report.
+
+(2) In carrying out the review the Secretary of State must, so far as is reasonable, have regard to the rules on penalties applicable to the misuse of information disclosed under Article 27(2) of RAMS (which is implemented by means of regulations 2 to 4) and the measures taken to implement them in other member States.
+
+(3) The report must in particular—
+
+- (a) set out the objectives intended to be achieved by the rules on penalties applicable to the misuse of information disclosed under Article 27(2) of RAMS established by those regulations and the measures taken to implement them,
+- (b) assess the extent to which those objectives are achieved, and
+- (c) assess whether those objectives remain appropriate and, if so, the extent to which they could be achieved with a system that imposes less regulation.
+
+(4) The first report under this regulation must be published before the end of the period of five years beginning with the day these Regulations come into force.
+
+(5) Reports under this regulation are afterwards to be published at intervals not exceeding five years.
+
+## PART 3 — Miscellaneous
+
+### 6. Amendment to the General Product Safety Regulations 2005
+
+Paragraph (4)(c) of regulation 15 (Recall notices) of the General Product Safety Regulations 2005 [^c21325861] is amended by substituting “ ten ” for “seven”.
+
+### 7. Amendment to the Personal Protective Equipment Regulations 2002
+
+The Personal Protective Equipment Regulations 2002 [^c21325871] are amended as follows—
+
+- (a) In regulation 16 (Application of Schedule 10 on Enforcement) for paragraph (2) insert—
+
+  > (2) Where an enforcement authority has reasonable grounds for suspecting that the CE marking has been affixed to the PPE, or its packaging, and in relation to which any provision of these Regulations has not been complied with—
+  >
+  > - (a) it may serve notice in writing on the responsible person; and
+  > - (b) no other action pursuant to Schedule 10 may be taken, and no proceedings may be brought pursuant to regulation 17, in respect of that PPE until a notice has been given and the person to whom it is given has failed to comply with its requirements.
+  >
+  > (2A) Paragraph (2)(b) does not apply in the case of PPE which when used in accordance with its intended purpose, in the opinion of an enforcement authority may endanger the safety of persons and, where appropriate, domestic animals or property.
+
+  .
+- (b) In regulation 20 (Liability of persons other than the principal offender) in paragraph (1) for “will be proceeded against” substitute “ may be proceeded against ”.
+
+### 8. Amendment to the Electromagnetic Compatibility Regulations 2006
+
+In regulations 43(1), 43(2)(b), 44(3) and 46 of the Electromagnetic Compatibility Regulations 2006 [^c21325881], the reference to regulation 34 is deleted in each place where it appears.
+
+### 9. Amendment to the Pyrotechnic Articles (Safety) Regulations 2010
+
+(1) The Pyrotechnic Articles (Safety) Regulations 2010 [^c21325891] are amended as follows.
+
+(2) After regulation 2(1) insert—
+
+> (2) In these Regulations a reference to a member State includes an EEA state.
+
+(3) In regulation 33(1) omit the words “falling within regulation 42”.
+
+(4) In regulation 37(2) omit the words “to enforce regulation 4(3) and Part 3”.
+
+(5) In regulation 46(1) for “paragraphs (2), (3) and (4)” substitute “ paragraphs (2) and (3) ” and for “regulation 4(1), (2)” substitute “ regulation 4(1) or (2) ”.
+
+(6) Omit regulation 46(4).
+
+(7) In regulation 47(1) for “paragraphs (2), (3) and (4)” substitute “ paragraphs (2) and (3) ” and for “regulation 4(1), (2)” substitute “ regulation 4(3) or (4) ”.
+
+(8) Omit regulation 47(4).
+
+Mark Prisk
+
+Minister of State for Business and Enterprise
+
+Department for Business, Innovation and Skills
+
+*(This note is not part of the Regulations)*
+
+Part 2 of these Regulations creates an offence of the unauthorised disclosure of customs information which has been disclosed by a specified person listed in regulation 3(2) to a market surveillance authority under Article 27(2) of Regulation [(EC) No 765/2008](https://www.legislation.gov.uk/european/regulation/2008/0765) of the European Parliament and of the Council of 9 July 2008 setting out the requirements for accreditation and market surveillance relating to the marketing of products and repealing Regulation [(EEC) No 339/93](https://www.legislation.gov.uk/european/regulation/1993/0339) (OJ No L128, 13.8.2008 p30). Article 27(2) requires bodies in charge of external border controls and market surveillance authorities in a member State to share information with each other. Regulation 3 provides that it is an offence if a recipient of the information discloses it otherwise than for the purposes of market surveillance in respect of a product.
+
+Regulation 5 requires the Secretary of State to review the operation and effect of regulations 2 to 4 and publish a report within five years after they come into force and within every five years after that. Following each review it will fall to the Secretary of State to consider whether those regulations should remain as they are, or be revoked or be amended. A further instrument would be needed to revoke those regulations or to amend them.
+
+Part 3 makes minor amendments to the General Product Safety Regulations 2005, the Personal Protective Equipment Regulations 2002, and the Electromagnetic Compatibility Regulations 2006. It also amends the Pyrotechnic Articles (Safety) Regulations 2010 to remove offences of supplying to countries outside the United Kingdom pyrotechnic articles that are permitted to be supplied in the United Kingdom for a transitional period.
+
+No impact assessment has been produced because these Regulations will have no effect on the costs of business and the voluntary sector. The Regulations are published with the Explanatory Memorandum on www.legislation.gov.uk.
+
+## Annotations
+
+[^c21325771]: Marginal citation: [1972 c.68](https://www.legislation.gov.uk/ukpga/1972/68). Section 2(2) was amended by section 27(1)(a) of the [Legislative and Regulatory Reform Act 2006 (c.51)](https://www.legislation.gov.uk/ukpga/2006/51) and Part 1 of Schedule 1 to the [European Union (Amendment) Act 2008 (c.7)](https://www.legislation.gov.uk/ukpga/2008/7).
+
+[^c21325781]: Marginal citation: [S.I. 2009/3214](https://www.legislation.gov.uk/uksi/2009/3214).
+
+[^c21325791]: Marginal citation: [S.I. 1989/2393](https://www.legislation.gov.uk/uksi/1989/2393).
+
+[^c21325801]: Marginal citation: [S.I. 1992/2870](https://www.legislation.gov.uk/uksi/1992/2870).
+
+[^c21325811]: Marginal citation: [S.I. 1990/1304](https://www.legislation.gov.uk/uksi/1990/1304).
+
+[^c21325821]: Marginal citation: [S.I. 2009/2743](https://www.legislation.gov.uk/uksi/2009/2743).
+
+[^c21325831]: Marginal citation: [2009 c.11](https://www.legislation.gov.uk/ukpga/2009/11).
+
+[^c21325841]: Marginal citation: OJ No L218, 13.8.2008, p30.
+
+[^c21325851]: Marginal citation: The “statutory maximum” is defined in Schedule 1 to the [Interpretation Act 1978 (c.30)](https://www.legislation.gov.uk/ukpga/1978/30) as amended by paragraph 17 of Schedule 4 to the [Criminal Procedure (Consequential Provisions) (Scotland) Act 1995 (c.40)](https://www.legislation.gov.uk/ukpga/1995/40). It is currently £5,000.
+
+[^key-afd6868a10c38f4698de890f0809505a]: Textual amendment: Words in [reg. 4(2)](https://www.legislation.gov.uk/uksi/2012/1848/regulation/4/2) substituted (27.3.2014) by [The Public Bodies (Merger of the Director of Public Prosecutions and the Director of Revenue and Customs Prosecutions) Order 2014 (S.I. 2014/834)](https://www.legislation.gov.uk/uksi/2014/834), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/834/article/1/1), [Sch. 3 para. 36](https://www.legislation.gov.uk/uksi/2014/834/schedule/3/paragraph/36)
+
+[^c21325861]: Marginal citation: [S.I. 2005/1803](https://www.legislation.gov.uk/uksi/2005/1803).
+
+[^c21325871]: Marginal citation: [S.I. 2002/1144](https://www.legislation.gov.uk/uksi/2002/1144).
+
+[^c21325881]: Marginal citation: [S.I. 2006/3418](https://www.legislation.gov.uk/uksi/2006/3418).
+
+[^c21325891]: Marginal citation: [S.I. 2010/1554](https://www.legislation.gov.uk/uksi/2010/1554).

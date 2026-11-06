@@ -1,0 +1,1551 @@
+---
+title: The Environmental Impact Assessment (Agriculture) (England) (No.2) Regulations 2006
+id: uksi/2006/2522
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised-with-pending-changes
+made_date: '2006-09-13'
+text_date: '2025-02-27'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2006/2522
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2006/2522/pdfs/uksiem_20062522_en.pdf
+- http://www.legislation.gov.uk/uksi/2006/2522/pdfs/uksi_20062522_en.pdf
+- http://www.legislation.gov.uk/uksi/2006/2522/data.pdf
+pending_changes: 1
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Environmental Impact Assessment (Agriculture) (England) (No.2) Regulations 2006
+
+> **Warning: changes not yet applied to this text (1).** Text as at 2025-02-27. See https://www.legislation.gov.uk/changes/affected/uksi/2006/2522
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2006 No. 2522
+
+AGriculture, england
+
+The Environmental Impact Assessment (Agriculture) (England) (No.2) Regulations 2006
+
+Made
+
+13th September 2006
+
+Laid before Parliament
+
+15th September 2006
+
+Coming into force in accordance with regulation 1(2)
+
+The Secretary of State is designated for the purposes of section 2(2) of the European Communities Act 1972[^f00001] in relation to measures relating to—[^key-61ff2539f5705025cf00272792933138]
+
+- (a) the requirement for an assessment of the impact on the environment of projects likely to have significant effects on the environment[^f00002]; and
+- (b) the conservation of natural habitats and of wild flora and fauna[^f00003].
+
+He makes the following Regulations under the powers conferred by that section:[^key-61ff2539f5705025cf00272792933138]
+
+## PART 1 — General provisions
+
+### 1. Title, application and commencement[^key-1bafa092e84bc67a8e3cc0b19ca5a090]
+
+(1) These Regulations may be cited as the Environmental Impact Assessment (Agriculture) (England) (No.2) Regulations 2006 and apply to England only.
+
+(2) Regulation 38(c) comes into force on 30th September 2006 and the remaining provisions come into force on 10th October 2006.
+
+### 2. Interpretation[^key-715580e399f25a579b3793d7bb80507f]
+
+(1) In these Regulations—
+
+- “additional environmental information” means any additional information required under regulation 13(1);
+- [^key-570b61724481e5b66ae8f8370dbc2b9a]“agriculture” has the same meaning as in section 109(3) of the Agriculture Act 1947[^f00004];
+- “consent” means consent granted under regulation 16(2)[^key-41f8c7fb7d1f9146a105799e485fe578];
+- “consultation bodies” means—
+  - (a) the Historic Buildings and Monuments Commission for England (Historic England[^key-2dadb5c7c72a92fe7e6474c1d8fa717f])[^f00005];
+  - (b) the Environment Agency[^f00006];
+  - (c) any other public authority, statutory body or other organisation which Natural England[^f00007] or the Secretary of State considers has any interest in or holds any information which might be relevant to the project because of its specific environmental responsibilities or local or regional competences[^key-12c68b13c53ee04da867c59d2a632a0e];
+- “cultivated” means cultivated by physical means (including ploughing and harrowing) or chemical means (including the application of fertilisers);
+- “EEA State” means a member State, Norway, Iceland or Liechtenstein;
+- “the[^key-5467d96dc2d6a1161a6611c565b2b2c6] EIA Directive” means [Directive 2011/92/EU](https://www.legislation.gov.uk/european/directive/2011/0092) of the European Parliament and of the Council on the assessment of the effects of certain public and private projects on the environment, as amended by [Directive 2014/52/EU](https://www.legislation.gov.uk/european/directive/2014/0052) of the European Parliament and of the Council;
+- “environmental impact assessment”, in respect of a project, means the process comprising—[^key-76231990e161b34d07f89c37fafdc037]
+  - (a) the preparation of an environmental statement by the applicant;
+  - (b) the carrying out of consultations in accordance with regulations 12(5), 13 and 14;
+  - (c) Natural England’s consideration of the environmental statement and other information in accordance with regulation 15A(1);
+  - (d) Natural England reaching a conclusion about the likely significant effects of the significant project in accordance with regulation 15A(2); and
+  - (e) Natural England’s consideration of that conclusion, and the reasons for it, in the decision whether or not to grant consent in accordance with regulation 16;
+- “environmental statement” has the meaning given by regulation 12(1);[^key-f3a6542b79c947063d4f201e82824a4d]
+- “[^key-3159ac9a5f768e0d49d886893ef83904]**EU environmental assessment**” means an assessment of the effect of anything on the environment carried out under assimilated[^key-6b80e5cfdf0cbc2c9468483969eb345a] law other than any law of any part of the United Kingdom that implemented the EIA Directive;
+- “European site” means a site mentioned in paragraph (a), (b), (d) or (e) of regulation 8(1)[^key-efca1eedb94b4be6dcb417d31b913a9b] of the Habitats Regulations;
+- “the Habitats Directive” means Council Directive [92/43/EEC](https://www.legislation.gov.uk/european/directive/1992/0043)[^f00010] on the conservation of natural habitats and of wild fauna and flora, as last amended by as last amended by Council[^key-f4006c615f81614ed03e7042923406d5] [Directive 2013/17/EU](https://www.legislation.gov.uk/european/directive/2013/0017)
+- “the Habitats Regulations” means[^key-b957f293d9eb77a10eb2f643891262df] the Conservation of Habitats and Species Regulations 2017[^key-5ca348977a74d3007a524efec2fa7ae5];
+- “project” means—
+  - (a) the execution of construction works or other installations or schemes; or
+  - (b) other interventions in the natural surroundings and landscape;
+- “[^key-5a0a21f95e214fdf94f39a0f75e30cf5]**public**” means one or more natural or legal persons and, in accordance with the law or practice of any part of the United Kingdom, their associations, organisations or groups;
+- “**public concerned**” means the public affected or likely to be affected by, or having an interest in, environmental decision making procedures (for the purposes of this definition, non-governmental organisations promoting environmental protection and meeting any requirements under the law of any part of the United Kingdom are deemed to have an interest);
+- “the relevant land” means the land on which the project is to be (or has been) carried out;
+- “restructuring project” means a project for the restructuring of rural land holdings;
+- “screening decision” means a decision made by Natural England under regulation 8(1) or a decision deemed to be made by Natural England under regulation 8(7);
+- “screening notice” means a notice served under regulation 6(1);
+- “significant project” means an uncultivated land project or a restructuring project which Natural England has decided under regulation 8(1), or is deemed to have decided under regulation 8(7), is likely to have significant effects on the environment;
+- “UK environmental assessment” means an assessment carried out in accordance with an obligation under the law of any part of the United Kingdom of the effect of anything on the environment.
+- “uncultivated land” means land which has not been cultivated in the previous 15 years;
+- “uncultivated land project” means a project to increase the productivity for agriculture of uncultivated land or a semi-natural area, and includes projects to increase the productivity for agriculture of such land to below the norm.
+- “the Wild Birds Directive” means [Directive 2009/147/EC](https://www.legislation.gov.uk/european/directive/2009/0147) of the European Parliament and of the Council on the conservation of wild birds, as amended by Council [Directive 2013/17/EU](https://www.legislation.gov.uk/european/directive/2013/0017);
+
+(2)[^key-7b13dd57e287227e3b981938cf572160] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) All notifications, applications, notices, representations, requests, approvals and agreements under these Regulations must be made or given in writing.
+
+(4) “Writing” in paragraph (3), except where it applies to notices under regulation 6, 25 and 27, includes an electronic communication within the meaning of the Electronic Communications Act 2000[^f00013], but notifications required to be made by Natural England or by the Secretary of State to any person may only be made by an electronic communication if the intended recipient—
+
+- (a) has himself used that form of electronic communication in communicating with Natural England or the Secretary of State (as the case may be) under any provision in these Regulations, or
+- (b) has otherwise represented that that form of electronic communication is a means by which persons can communicate with him.
+
+(5) Subject to regulation 6(6), notices or documents required or authorised to be served, sent or given under these Regulations may be sent by post.
+
+(6)[^key-267f7823e6019c61aec13a80a3f2b361] In these Regulations, any reference to the likely significant effects, or the likely significant adverse effects, of—
+
+- (a) a restructuring project on the environment includes a reference to the effects of the restructuring project on the environment once the restructuring is completed and in operation;
+- (b) an uncultivated land project on the environment includes a reference to the effects of the uncultivated land project on the environment once any construction, installation or other intervention is finished and in operation.
+
+(7) In paragraph (6) each reference to the environment includes a reference to the matters referred to in regulation 15A(2)(a) to (e)
+
+### 3. Application of Regulations[^key-22e3440e0a3c59b6ac6db25f8d25ca11]
+
+(1) These Regulations apply to any restructuring project or uncultivated land project, unless it is exempt under paragraph (2) or regulation 3A or 3B[^key-2ff56dfef693922b830950d621d91941].
+
+(2) A restructuring project or an uncultivated land project is exempt if it—
+
+- (a) is a project mentioned in regulation 3(2) of the Environmental Impact Assessment (Forestry) (England and Wales) Regulations 1999[^f00014];
+- (b) constitutes development to which the Town and Country Planning (Environmental Impact Assessment) Regulations 2011 apply;[^key-5a65546f1ad62912c6f7e3d7931c377e]
+- (c) constitutes the carrying out of improvement works by a drainage body within the meaning of the Environmental Impact Assessment (Land Drainage Improvement Works) Regulations 1999[^f00016];
+- (d) constitutes a relevant project under regulation 3(2) and (3) of the Water Resources (Environmental Impact Assessment) (England and Wales) Regulations 2003[^f00017]; or[^key-3d4914ec777aa303242ab615abfb025c]
+- (e) constitutes the removal of a hedgerow under regulation 5(1) of the Hedgerows Regulations 1997[^f00018]; [^key-378b5b12233940a359b583a35d577c12]...
+- (f)[^key-28251e44b05c2245fe30a2d33397eadf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3)[^key-1aa2894a671bace7ec2659e530d8f37e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4)[^key-1aa2894a671bace7ec2659e530d8f37e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5)[^key-1aa2894a671bace7ec2659e530d8f37e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 3A. National defence and civil emergencies[^key-52dd3f767d5a6fc404cc2d17647a4005]
+
+(1) The Secretary of State may direct that a restructuring project or an uncultivated land project or a part of such a project is exempt if—
+
+- (a) the project has national defence as its sole purpose, and
+- (b) the Secretary of State considers that an environmental impact assessment in respect of the project or the part of the project would have an adverse effect on the fulfilment of that purpose.
+
+(2) The Secretary of State may direct that a restructuring project or an uncultivated land project is exempt if—
+
+- (a) the project has the response to a civil emergency as its sole purpose, and
+- (b) the Secretary of State considers that an environmental impact assessment in respect of the project would have an adverse effect on the fulfilment of that purpose.
+
+(3) The effect of a direction that a restructuring project or an uncultivated land project is exempt under paragraph (1) or (2) is that these Regulations, except for paragraph (5), do not apply in respect of the project.
+
+(4) The effect of a direction under paragraph (1) that a part of a restructuring project or an uncultivated land project is exempt is that the project is to be treated under these Regulations as not including the part which is the subject of the direction.
+
+(5) After the Secretary of State gives a direction under paragraph (1) or (2), the Secretary of State must as soon as practicable serve notice of the direction on the applicant and Natural England.
+
+### 3B. Exceptional circumstances
+
+(1) The Secretary of State may direct that a restructuring project or an uncultivated land project is exempt if the Secretary of State is satisfied that—
+
+- (a) it is appropriate to do so by reason of exceptional circumstances,
+- (b) an environmental impact assessment in respect of the project would have an adverse effect on the fulfilment of the purpose of the project,
+- (c) the objectives of the EIA Directive will be met even though such an assessment is not carried out, and
+- (d) the project is unlikely to have significant effects on the environment in an[^key-c54ba5f0700af20128dd83cfa756bf88] EEA State.
+
+(2) The effect of a direction that a restructuring project or an uncultivated land project is exempt under paragraph (1) is that these Regulations, except for paragraphs (3) and (4), do not apply in respect of the project.
+
+(3) The Secretary of State must not give a direction under paragraph (1) that a restructuring project or an uncultivated land project is exempt unless the Secretary of State has considered whether another form of assessment is appropriate.
+
+(4) After the Secretary of State gives a direction under paragraph (1), the Secretary of State must as soon as practicable make available to the public concerned—
+
+- (a) the direction including an explanation of the reasons for it, and
+- (b) the information obtained under any other assessment considered appropriate in accordance with paragraph (3).
+
+### 3C. Coordination of environmental assessments
+
+Where, in respect of a significant project, there is a requirement to carry out an environmental impact assessment and a requirement to carry out an assessment under regulation 24 or 63[^key-b38b3816a35e8efb4e5367c647c1355a] of the Habitats Regulations, Natural England must, where appropriate, ensure that the environmental impact assessment and the other assessment, or assessments, are coordinated.
+
+## PART 2 — Screening
+
+### 4. Requirement for a screening decision[^key-161b80f73ad140d12ef753f6de3b806f]
+
+(1) A person must not begin or carry out an uncultivated land project or a restructuring project of an extent which is equal to or exceeds the threshold applicable to it (calculated in accordance with regulation 5) unless he has first obtained a screening decision permitting the project to proceed.
+
+(2) A person must not begin or carry out any uncultivated land project or restructuring project on land to which a relevant screening notice applies unless he has first obtained a screening decision permitting the project to proceed.
+
+(3) In this regulation, “relevant screening notice” means a screening notice which states that it applies to the type of project which is to be carried out.
+
+### 5. Thresholds[^key-8fb772583e32fe92c1a1cd6fb3e83379]
+
+(1) This regulation provides the method for determining whether the extent of a project is equal to or exceeds the threshold applicable to it.
+
+(2) The threshold for a type of project specified in column 1 of Schedule 1 is set out in column 2 or 3.
+
+(3) Paragraphs (4) and (5) apply where a project consists of only one of the types of project specified in column 1.
+
+(4) Where a project is to be carried out wholly outside a sensitive area, the threshold applicable to it is that specified for that type of project in column 2.
+
+(5) Where a project, or any part of it, is to be carried out in a sensitive area, the threshold applicable to it is that specified for that type of project in column 3.
+
+(6) Where a project is made up of more than one of the types of project specified in column 1—
+
+- (a) each relevant part of the project must be assessed so as to determine the threshold applicable to that part, and
+- (b) if any relevant part of the project equals or exceeds the threshold applicable to that part, then the entire project is to be treated as having an extent equal to or exceeding the threshold applicable to it.
+
+(7) In this regulation, “sensitive area” means—
+
+- (a) an area of outstanding natural beauty designated as such by an Order made by the Countryside Agency[^f00020] or Natural England under section 82 of the Countryside and Rights of Way Act 2000[^f00021] and duly confirmed by the Secretary of State under section 83(3) of that Act;
+- (b) the Broads[^f00022];
+- (c) a National Park within the meaning of the National Parks and Access to the Countryside Act 1949[^f00023]; or
+- (d) a scheduled monument within the meaning of section 1(11) of the Ancient Monuments and Archaeological Areas Act 1979[^f00024].
+
+### 6. Screening notices[^key-da294e9a8fcfd306eeaf447feab64a5e]
+
+(1) Natural England may provide that thresholds do not apply to an area of land by serving a notice under this regulation.
+
+(2) Natural England may only serve a screening notice if—
+
+- (a) it reasonably believes that an uncultivated land project or a restructuring project is likely to be carried out on the land;
+- (b) the extent of the project would fall below the threshold applicable to it in the area where it would be carried out; and
+- (c) it considers, in accordance with the selection criteria in Schedule 2, that the project would be likely to have significant effects on the environment.
+
+(3) A screening notice cannot—
+
+- (a) apply for more than five years from the date it is served; or
+- (b) relate to an area of land which is greater than the area on which Natural England reasonably considers the project is likely to be carried out and in any event—
+  - (i) in the case of a notice relating to uncultivated land projects, to an area greater than 20 hectares, or
+  - (ii) in the case of a notice relating to restructuring projects, to an area greater than 150 hectares.
+
+(4) A screening notice must—
+
+- (a) state whether it applies to—
+  - (i) uncultivated land projects,
+  - (ii) restructuring projects, or
+  - (iii) both such projects;
+- (b) contain the reasons why it is being served;
+- (c) contain details of the land to which it applies and, in the case of a screening notice which applies to both uncultivated land projects and restructuring projects, details of which land is covered by which aspect of the notice;
+- (d) contain the date on which it expires; and
+- (e) explain the procedures for appealing against it.
+
+(5) A copy of the screening notice must be served on every owner and occupier of the land.
+
+(6) Section 329 of the Town and Country Planning Act 1990[^f00025] (service of notices) applies to the service of copies of screening notices under paragraph (5).
+
+### 7. Application for a screening decision[^key-fd75c5ce361ee84c557b8a2e43e05942]
+
+(1) An application for a screening decision must—
+
+- (a) be made to Natural England;
+- (b)[^key-4b8f80f2e6543fd89e06be6c098eddba] contain—
+  - (i) a description of the project, including in particular a description—
+    - (aa) of the physical characteristics of the whole project and, where relevant, of demolition works, and
+    - (bb) of the location of the project, with particular regard to the environmental sensitivity of geographical areas likely to be affected,
+  - (ii) a description of the aspects of the environment likely to be significantly affected by the project,
+  - (iii) a description of any likely significant effects, to the extent that the information is available on such effects, of the project on the environment resulting from—
+    - (aa) the expected residues and emissions and the production of waste, where relevant, and
+    - (bb) the use of natural resources, in particular soil, land, water and biodiversity,
+  - (iv) if the applicant elects to provide it, a description of any features of the project or measures to avoid or prevent any likely significant adverse effects on the environment.
+- (c)[^key-f3c42c53fa7270d5847fe77ccd9516f8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^key-f3c42c53fa7270d5847fe77ccd9516f8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(1A)[^key-7053abb6a57532fc0df8c234978bc73c] When compiling information under paragraph (1)(b), the applicant must take into account—
+
+- (a) any criteria in Schedule 2 which are relevant to the project, and
+- (b) the results of any relevant EU environmental assessment which are reasonably available to the applicant.
+
+(2) If Natural England considers that it does not have sufficient information to make a screening decision it may ask the applicant to supply any additional information it requires.
+
+(3) Natural England must notify the applicant of the date on which it received the application for a screening decision.
+
+### 8. The screening decision[^key-7fdbd55cbf398fecfc17f1fea424bde0]
+
+(1) Natural England must, in accordance with paragraph (2) and the selection criteria in Schedule 2, decide whether or not a project is likely to have significant effects on the environment.
+
+(1A)[^key-60e4a7668bb0cee696572590c51ff36d] Natural England must take into account the results of any relevant EU environmental assessment which are reasonably available to it.
+
+(2) If Natural England decides that a project is likely to have a significant effect on a European site (either alone or in combination with other projects), and the project is not directly connected with or necessary for the management of the site, the project shall be treated as being likely to have significant effects on the environment.
+
+(3) Before making a screening decision, Natural England may consult any of the consultation bodies.
+
+(4) After making a screening decision, Natural England must—
+
+- (a)[^key-6c020dd1a66de13a26a144f47ea5a227] notify the applicant of—
+  - (i) the decision and the main reasons for it with reference to the criteria in Schedule 2;
+  - (ii) where the decision is that the project is not likely to have significant effects on the environment, a description of any measure provided by the applicant under regulation 7(1)(b)(iv);
+- (b) enter the information referred to in sub-paragraph (a)[^key-8cef3aef9325f11d1e9483333109643d] in a register, to which the public must have access at all reasonable times; and
+- (c) where it considers that any of the consultation bodies might wish to be informed of the screening decision, notify those bodies of the information referred to in sub-paragraph (a)[^key-89fb2c7f348aff91a7c62cb8e1b2669d].
+
+(5)[^key-2d43d5f42b21df7d05f4e3d9290ea52a] Natural England must make, and issue notice to the applicant of, a screening decision before the end of the period of 35 days beginning with—
+
+- (a) the date referred to in regulation 7(3), or
+- (b) where applicable, the date Natural England receives any additional information it has requested under regulation 7(2).
+
+(5A) Natural England may, where it considers there are exceptional circumstances (including relating to the nature, complexity, location or size of the project), extend the period mentioned in paragraph (5) by informing the applicant in writing of—
+
+- (a) the new period within which it will make the screening decision and notify the applicant of it, and
+- (b) the reasons for the extension.
+
+(6) If Natural England has failed to make or notify a screening decision within the period in paragraph (5), the applicant may notify Natural England that he intends to treat that failure as a decision that the project is a significant project.
+
+(7) Where the applicant has so notified Natural England, Natural England is deemed to have decided on the date of that notification that the project is a significant project.
+
+(8) If, after Natural England has made, or is deemed to have made, a decision that the project is a significant project—
+
+- (a) Natural England receives further information or representations; and
+- (b) as a result of that further information or those representations Natural England decides that the project is not a significant project,
+
+Natural England must take all the steps in paragraph (4) in respect of that new decision.
+
+(9) If the project to which a screening decision relates is not begun within a period of three years beginning with the date the screening decision—
+
+- (a) is notified to the applicant; or
+- (b) is deemed to have been taken under paragraph (7),
+
+the screening decision ceases to have effect.
+
+## PART 3 — Consent
+
+### 9. Requirement for consent[^key-0a649c8b81e9ab9c49d75713729e11d2]
+
+A person must not begin or carry out a significant project unless he has first obtained consent from Natural England.
+
+### 10. Scoping opinions[^key-ac0315e07a149c14416c9075a5a708c4]
+
+(1) After receiving a screening decision that a project is a significant project, but before applying for consent, the applicant may ask Natural England to provide its opinion on the scope and level of detail of information which[^key-6c493bde8be39efb78bdcb4c6edaa88d] should be provided in the environmental statement (“a scoping opinion”).
+
+(1A)[^key-6a5174b25ebf082284e2df086b383d2e] The request must include—
+
+- (a) a plan sufficient to identify the land,
+- (b) a brief description of the nature and purpose of the significant project (including its location and technical capacity),
+- (c) an explanation of the likely significant effects of the significant project on the environment, and
+- (d) any other information or representations which the applicant wishes to provide or make.
+
+(2) If the applicant requests a scoping opinion, Natural England must consult the applicant and such of the consultation bodies as it thinks fit before providing its opinion.
+
+(3) If Natural England considers that it does not have sufficient information to provide a scoping opinion, it may ask the applicant to supply any additional information it requires within 28 days of the date on which it received the request for the scoping opinion.
+
+(4) Natural England must provide the applicant with the scoping opinion within 5 weeks of—
+
+- (a) the date it received the request for a scoping opinion; or
+- (b) where applicable, the date it received the additional information requested under paragraph (3).
+
+### 11. Provision of information[^key-c8d42da3615a42cc7cc850a62112d624]
+
+(1) This regulation applies if a consultation body—
+
+- (a) is consulted by Natural England under regulation 10(2); or
+- (b) receives a request for information from a person who intends to apply for consent.
+
+(2) Where this regulation applies, the consultation body must—
+
+- (a) determine whether it has in its possession any information it considers relevant to the preparation of the environmental statement; and
+- (b) subject to paragraphs (3) and (4), make that information available to Natural England or the applicant (as the case may be) within 28 days of the date of the consultation or the request.
+
+(3) A consultation body may make a reasonable charge to the applicant for providing information under paragraph (2)(b), to reflect the cost of making the information available.
+
+(4) Paragraph (2)(b) does not require a consultation body to make available to the applicant any information which—
+
+- (a) it may refuse to disclose under regulation 12(1) of the Environmental Information Regulations 2004[^f00026]; or
+- (b) it is prevented from disclosing by regulation 13(1) of those Regulations.
+
+(5) If a consultation body is not a public authority within the meaning of regulation 2(2) of the Environmental Information Regulations 2004, paragraph (4) applies as if it were such a public authority.
+
+### 12. The consent application[^key-fc74ba393875a53b2e3d18144cd7f5da]
+
+(1)[^key-0148baed6de1d5823e1548026895b810] An application for consent must be made to Natural England and include a written statement (an “environmental statement”) which is prepared by a competent person and—
+
+- (a) includes—
+  - (i) the information specified in paragraph (1A), and
+  - (ii) any additional information which, taking into account current knowledge and methods of assessment, may reasonably be required by Natural England to reach a conclusion about the likely significant environmental effects of the project,
+- (b) is based on any opinion given under regulation 10 in respect of the significant project,
+- (c) takes into account the results of any relevant UK environmental assessment which are reasonably available to the applicant, and
+- (d) states the relevant expertise and qualifications of the competent person.
+
+(1A) The specified information is—
+
+- (a) a description of the significant project comprising information on its site, design, size and other relevant features,
+- (b) a description of the likely significant effects of the significant project on the environment,
+- (c) a description of any features of the significant project or measures to avoid, prevent, reduce or offset likely significant adverse effects of the significant project on the environment,
+- (d) a description of the reasonable alternatives studied by the applicant, which are relevant to the significant project and its specific characteristics, and an indication of the main reasons for the option chosen, taking into account the effects of the significant project on the environment,
+- (e) a non-technical summary of the information referred to in sub-paragraphs (a) to (d), and
+- (f) any additional information specified in Schedule 3 relevant to the specific characteristics of the significant project and to the environmental features likely to be affected.
+
+(2) The applicant for consent must provide Natural England with as many copies of the application as it reasonably requires.
+
+(3) After receiving the application for consent, Natural England must comply with paragraphs (4) and (5).
+
+(4) Natural England must—
+
+- (a) send a copy of the application to any of the consultation bodies it considers appropriate; and
+- (b) inform them that they may make representations within 6 weeks of the date they received the copy of the application.
+
+(5) In order to ensure that members of the public concerned are given an opportunity to make representations before the application is determined, Natural England must publish on its website and in a newspaper circulating in the locality of the relevant land a notice—
+
+- (a) stating that the application has been made;
+- (b) specifying an address—
+  - (i) at which copies of the application can be inspected free of charge, and
+  - (ii) where copies of the application may be taken
+
+  at all reasonable hours within 6 weeks of the date the notice is published;
+- (c) stating that representations on the likely environmental effects of the project may be made in writing to Natural England at the address specified under sub-paragraph (b) within 6 weeks of the date the notice is published;
+- (d)[^key-61cf3328ada75612b48c41c7946b5725] stating that, if consent is granted, it will be subject to the conditions referred to in regulation 18;
+- (e) stating, if relevant, which of the [^key-e1f2eea2c71aba639d73d61dac4ce201]... EEA States, the authorities designated by the EEA State concerned[^key-5f52279cb823ea7d21a8c9986bc2a93c], and the public concerned in such EEA States will be consulted on the application.
+
+(6) Natural England may make a reasonable charge for copies referred to in paragraph (5)(b)(ii).
+
+### 13. Additional information[^key-b26a609e304793fec725a2cc1fe789ff]
+
+(1) If, after complying with regulation 12(3), Natural England decides that it requires any additional environmental information in order to decide whether to grant, or refuse to grant, consent for a significant project, it must notify the applicant of the information required, and the applicant must provide Natural England with that information.
+
+(2) Natural England must—
+
+- (a) send a copy of the additional environmental information to such of the consultation bodies as it thinks fit; and
+- (b) inform them that they may make representations within 28 days of the date they receive it.
+
+(3) Natural England must publish on its website and in a newspaper circulating in the locality of the relevant land a notice—
+
+- (a) referring to the application to which the additional environmental information relates and the date the application was made;
+- (b) stating that the additional environmental information has been received;
+- (c) specifying an address—
+  - (i) at which copies of the additional environmental information can be inspected free of charge, and
+  - (ii) where copies of the additional environmental information may be taken,
+
+  at all reasonable hours within 6 weeks of the date the notice is published; and
+- (d) stating that representations in relation to the additional environmental information may be made in writing to Natural England at the address in sub-paragraph (c) within 28 days of the date the notice is published.
+
+(4) Natural England may make a reasonable charge for copies referred to in paragraph (3)(c)(ii).
+
+### 14. Procedure where a significant project in England may affect an EEA State[^key-70f87d5dad306ac3345b9414733b404c][^key-cb55c649cf21262bdddca67e9bf1f9ee]
+
+(1) As soon as possible after receiving an application for consent for a significant project, Natural England must consider whether that project is also likely to have significant effects on the environment in an[^key-d9da80af0a6b6f8621d3104f3f24eadd] EEA State.
+
+(2) If Natural England considers that such effects are likely, it must send the information and other material specified in paragraph (3) to—
+
+- (a) the EEA State which it considers is likely to be affected; and
+- (b) any other EEA State which—
+  - (i) is likely to be significantly affected by the project in question, and
+  - (ii) requests the information and other material.
+
+(3) The information and other material referred to in paragraph (2) are—
+
+- (a) details of the nature and location of the significant project;
+- (b) any information Natural England has on the impact it is likely to have on that EEA State;
+- (c) an indication of whether Natural England is minded to grant consent for the project, and the nature of any consent that might be granted; and
+- (d) a request that the EEA State should indicate within a reasonable time whether it wishes to participate in the procedure under this Part of these Regulations.
+
+(4) If the EEA State indicates that it wishes to participate in the procedure under this Part of these Regulations, Natural England must—
+
+- (a) send it a copy of the application for consent, of the environmental statement and of any further information it considers relevant to the application; and
+- (b) provide it with information about the procedure under these Regulations.
+
+(5) Natural England must also—
+
+- (a) arrange for the information and material in paragraphs (3) and (4) to be made available, in a reasonable time, to the authorities which the EEA State designated to be consulted about the project[^key-5be463ba132698a70bbbc1ce629072ea] and the public concerned in the territory of the EEA State; and
+- (b) ensure that those authorities and the public concerned are given an opportunity to provide Natural England with their opinion on the information supplied within a reasonable time before consent for the project is granted.
+
+(6) [^key-0047f165f7b6bf36acdcf52b08d959f5]... Natural England must—
+
+- (a) enter into consultations with the EEA State concerned about, amongst other things, the potential significant effects of the project on the environment of that State and the measures envisaged to reduce or eliminate those effects; and
+- (b) seek to agree with the EEA State a reasonable period of time for those consultations, which must include time for consideration of any opinions received under paragraph (5)(b).
+
+### 15. Procedure where a significant project in an EEA State may affect England[^key-65b0a9ef04278570f67166ac537e4755][^key-622716d432e19dec75fefcb8e44241ca]
+
+(1) If Natural England receives information from an[^key-06e13fb011f166a518c4f29bf4fbc1ae] EEA State [^key-ec27b9b778afcd130161ec08fece5614]... in relation to a significant project in that EEA State, Natural England must—
+
+- (a) arrange for that information to be made available, in a reasonable time, to the consultation bodies and such members of the public which, in its opinion, are likely to be concerned by the project;
+- (b) ensure that the consultation bodies and the members of the public referred to in sub-paragraph (a) are given an opportunity to forward their opinion on the information provided to the competent authority in the EEA State which the State designated as responsible for performing the duties arising from the EIA Directive[^key-58c803eee226a366dad496cc35a915c4] during any period agreed under paragraph (2)(b).
+
+(2) [^key-a94d0fc3b491bcc86909a349ef19260d]... Natural England must also—
+
+- (a) enter into consultations with the EEA State concerned about, amongst other things, the potential significant effects of the project on the environment in England and the measures envisaged to reduce or eliminate those effects; and
+- (b) seek to agree with the EEA State a reasonable period, before consent for the project is granted, during which any opinions received under paragraph (1)(b) can be forwarded to that EEA State.
+
+(3) If an[^key-a7652c08fd07e4aecf450ddec271e6f1] EEA State has taken a decision to grant or refuse consent and has informed Natural England of that decision [^key-3455de7a25be0af40c54390561227525]..., Natural England must take such steps as it considers appropriate to bring to the attention of the public any information received from that EEA State in relation to that decision.
+
+### 15A. Conclusion about environmental impact[^key-1fe9cba69e253a6df299f8edba693973]
+
+(1) Natural England must consider (ensuring that in doing so it has, or has access to, any expertise it considers necessary)—
+
+- (a) the environmental statement,
+- (b) any additional environmental information,
+- (c) any representations or opinions it receives under—
+  - (i) regulation 12(4)(b) and (5)(c),
+  - (ii) regulation 13(2)(b) and (3)(d), and
+  - (iii) regulation 14(5)(b), and
+- (d) any features of the significant project or measures to avoid, prevent, reduce or offset any likely significant adverse effects of the significant project on the environment.
+
+(2) Following that consideration, Natural England must reach a conclusion about the likely significant effects (including the expected effects deriving from the vulnerability of the significant project to risks of major accidents or disasters) of the significant project on—
+
+- (a) population and human health;
+- (b) biodiversity, with particular attention to species and habitats protected under any law of any part of the United Kingdom that implemented[^key-6a465efdca00569731d86ded551bc5df] the Habitats Directive and the Wild Birds Directive;
+- (c) land, soil, water, air and climate;
+- (d) material assets, cultural heritage and the landscape;
+- (e) the interaction between the factors referred to in sub-paragraphs (a) to (d).
+
+### 16. The consent decision[^key-e9caa792386a03b3b281b75808561133]
+
+(1) Natural England must consider—
+
+- (a) the conclusion reached under regulation 15A(2) in respect of the significant project and the reasons for that conclusion;
+- (b) whether it is appropriate to require the applicant to monitor the significant adverse effects of the significant project on the environment, and if so—
+  - (i) whether consent should be given subject to conditions to ensure that the applicant is under such a duty, and
+  - (ii) whether consent should be given subject to conditions to require remedial action to be taken in circumstances described in the conditions;
+- (c) whether, having regard to the likely significant environmental effects of the significant project, consent should be given subject to any other conditions;
+- (d) any social or economic impacts which might result from a decision to refuse consent for the significant project.
+
+(2) Following that consideration, Natural England must grant, or refuse to grant, consent for a significant project.
+
+(3) Natural England may make a decision under paragraph (2) only if satisfied that the conclusion reached under regulation 15A(2) in respect of the significant project and the reasons for it address the likely significant environmental effects of the significant project.
+
+(4) Natural England must not make a decision under paragraph (2) before—
+
+- (a) the expiry of the period in the notice under regulation 12(5)(c),
+- (b) the expiry of the period of 28 days after—
+  - (i) the date on which any additional environmental information was sent to the consultation bodies, or
+  - (ii) the date notice of the additional environmental information was published under regulation 13(3), or
+- (c) the expiry of any period agreed with an[^key-3a301b8927b357a7ebec7f7310112bd2] EEA State under regulation 14(6)(b).
+
+(5) Natural England must reach its decision under paragraph (2) within a reasonable period of time beginning with the date on which it is given all the information it is required to consider in accordance with regulation 15A(1) taking into account the nature and complexity of the application and significant project.
+
+### 17. Additional requirements relating to the Habitats Regulations[^key-d24fc363cfde1ec2fd0f32f6f6539824]
+
+(1) Natural England must not grant consent for a project that would involve doing anything which would be unlawful under regulations 43, 45 or 47[^key-ba79b8ce69c5e862985bfa13b3c1e2db] of the Habitats Regulations[^f00027] (but that does not include anything for which a licence has been granted under regulation 55[^key-a1f1c939b934e5cd4a8d1820eb00fcdb] of those Regulations).
+
+(2) Paragraphs (3) to (6) apply when Natural England is deciding whether to grant consent for a project (a “habitats project”) which is likely to have a significant effect on a European site either alone or in combination with other projects.
+
+(3) Unless paragraph (4) applies, Natural England may only grant consent for a habitats project if it has considered the implications of that project for the European site (including an appropriate assessment of the implications in view of that site’s conservation objectives) and is satisfied that that project will not adversely affect the integrity of the site.
+
+(4) If Natural England is satisfied that a habitats project must be carried out for imperative reasons of overriding public interest (which, subject to paragraph (5), may be of a social or economic nature) and that there is no alternative solution, it may grant consent for that project even though the assessment of its implications for a European site is negative.
+
+(5) If the European site hosts a priority natural habitat type or a priority species, the reasons in paragraph (4) must be either—
+
+- (a) reasons relating to human health, public safety or beneficial consequences of primary importance to the environment, or
+- (b) other reasons which in the opinion of the Secretary of State[^key-081595f92e1a7ba4cf5b2f924947d5fe] are, in the case of the site concerned, imperative reasons of overriding public interest.
+
+(6) If Natural England decides to grant consent for a habitats project in accordance with paragraph (4), it must secure that any necessary compensatory measures are taken to ensure that the overall coherence of Natura 2000 (within the meaning of regulation 3(1)[^key-9b6ff12fd0f1f3f74ae118693d604c4d] of the Habitats Regulations) is protected.
+
+### 18. Conditions of consent[^key-6fa2c7ae5becb23f46468ab89dcbabc9]
+
+(1) Any consent granted under regulation 16(1) is to be subject to—
+
+- (a) the conditions in paragraph (2); and
+- (b) any other conditions Natural England thinks fit.
+
+(1A)[^key-757dd9be33a0b7ee3313c8d24b59d499]  Natural England may grant a consent subject to a condition which ensures that the applicant is under a duty to monitor the significant adverse effects of the significant project on the environment only if satisfied that the type of parameters to be monitored and the duration of monitoring are proportionate to the nature, location and size of the significant project and the significance of its effect on the environment.
+
+(2) The conditions required by paragraph (1)(a) are—
+
+- (a) the consent lapses if the project is not commenced (by the carrying out of a material act) within 1 year of the date on which it was granted;
+- (b) the consent expires if the project is not completed within 3 years of the date on which it was granted; and
+- (c) the consent only authorises the project described in the consent application, subject to any amendments approved by Natural England under paragraph (4).
+
+(3) After the expiry of a consent in accordance with paragraph (2)(b), Natural England may require a further application for consent in accordance with paragraph (5) in respect of any further operations or uses forming part of the project.
+
+(4) Natural England may approve any amendments at the request of an applicant, but any material change in the authorised operations or uses requires a further application for consent in accordance with paragraph (5).
+
+(5) Further applications for consent under paragraphs (3) and (4) may be subject to any requirement of these Regulations that Natural England considers appropriate.
+
+(6) In this regulation, a project is “completed” if all the works permitted by the consent have been carried out and all changes in the use, or the level of use, of the relevant land have been implemented.
+
+### 19. Procedure following a consent decision[^key-b306e5285c08dc57482fa5cb15e9bf7f]
+
+(1) This regulation applies after Natural England has decided to grant or not to grant consent in respect of a significant project.
+
+(2) Natural England must promptly notify the applicant, any consultation bodies to whom copies of the consent application were sent under regulation 12(4)(a), any EEA State consulted under regulation 14(6) and any authority or person who provided their opinion under regulation 14(5)(b) of—
+
+- (a) its decision,
+- (b) the reasons and considerations on which the decision is based,
+- (c) where consent is granted, any conditions the consent is subject to under regulation 18,
+- (d) any representations made by the public concerned in respect of the application, and
+- (e) a summary of the results of the consultations and the information gathered pursuant to regulations 12 to 14 and how those results have been taken into account in the decision.
+
+(3) Natural England must promptly inform the public of its decision by publishing a notice in a newspaper in the locality in which the relevant land is situated or by any other means it considers reasonable in the circumstances.
+
+(4) Natural England must promptly make available for public inspection a statement containing—
+
+- (a) the information notified in accordance with paragraph (2); and
+- (b) information regarding the right to challenge the decision and the procedures for doing so.
+
+### 20. Transborder projects[^key-8772f89190c20a617705d319e9ccba66]
+
+(1) In the case of a transborder project where the greater part of the land is situated in England, that project will be subject only to these Regulations, unless an agreement to the contrary has been reached under paragraph (2).
+
+(2) If so requested by the Scottish Ministers or the National Assembly for Wales, Natural England may agree that a transborder project referred to in paragraph (1) will be subject only to the equivalent Regulations applicable to the project in Scotland or Wales as the case may be.
+
+(3) In the case of a transborder project where the greater part of the land is situated in Scotland or Wales, that project will be subject only to the equivalent Regulations applicable to the project in Scotland or Wales as the case may be, unless an agreement to the contrary has been reached under paragraph (4).
+
+(4) If Natural England so requests, and the Scottish Ministers or the National Assembly for Wales as appropriate agree, a transborder project referred to in paragraph (3) will be subject only to these Regulations.
+
+(5) If a transborder project is being considered under these Regulations in accordance with paragraph (1) or (4), Natural England must consult the Scottish Ministers or the National Assembly for Wales as appropriate before—
+
+- (a) making a screening decision under regulation 8;
+- (b) providing a scoping opinion under regulation 10; or
+- (c) granting or refusing consent under regulation 16.
+
+(6) In this regulation, “transborder project” means a restructuring project or an uncultivated land project where the relevant land is situated either—
+
+- (a) partly in England and partly in Wales, or
+- (b) partly in England and partly in Scotland.
+
+### 21. Review of decisions and consents[^key-10e1191b5b82ae00fcc5e06d0f317a94]
+
+Schedule 4 applies if, after the date of—
+
+- (a) a decision that a project is not a significant project, or
+- (b) a decision to grant consent for a project,
+
+a site becomes a European site and Natural England considers that the carrying out or completion (within the meaning of “completed” in regulation 18(6)) of the project would be likely to have a significant effect on that site and would not be directly connected with or necessary for the management of the site.
+
+## PART 4 — Enforcement
+
+### 22. Offence of carrying out a project without a decision under these Regulations[^key-2b2fd6ca3755a4de8f7753b0c56b4637]
+
+(1) Any person who begins or carries out an uncultivated land project or a restructuring project in breach of—
+
+- (a) regulation 4, or
+- (b) regulation 9,
+
+is guilty of an offence and liable on summary conviction to a fine not exceeding level 5 on the standard scale.
+
+(2) In any proceedings under this regulation which relate to an uncultivated land project, any area of land which the prosecution alleges to be uncultivated land shall be assumed to be uncultivated land unless sufficient evidence is adduced to raise an issue that it is not uncultivated land, in which case the prosecution must prove beyond reasonable doubt that the land is uncultivated land.
+
+### 23. Offence of carrying out work in contravention of a condition[^key-ec2c14f7cbe80f8ded09f3a557ba6edb]
+
+Any person who carries out any activity in contravention of any condition of consent is guilty of an offence and liable on summary conviction to a fine not exceeding level 5 on the standard scale.
+
+### 24. Offence of procuring a decision by supplying false information[^key-5d2d6798b6eed39db74f23b14095d0d5]
+
+(1) Any person who, for the purpose of procuring a decision on an application made under these Regulations—
+
+- (a) knowingly or recklessly makes a statement which is false or misleading in a material particular,
+- (b) with intent to deceive, uses any document which is false or misleading in a material particular, or
+- (c) with intent to deceive, withholds any material information,
+
+is guilty of an offence.
+
+(2) A person guilty of an offence under paragraph (1) is liable—
+
+- (a) on summary conviction, to a fine not exceeding the statutory maximum; or
+- (b) on conviction on indictment, to a fine.
+
+### 25. Stop notices[^key-b7abb419626844368dce1f695598aa28]
+
+(1) If a person has begun an uncultivated land project or a restructuring project in breach of—
+
+- (a) regulation 4, or
+- (b) regulation 9,
+
+Natural England may serve a notice (a “stop notice”) prohibiting all or part of the work with immediate effect.
+
+(2) Natural England may serve a stop notice on any person who appears to it to have an interest in the relevant land or to be engaged in any activity prohibited by the notice.
+
+(3) Natural England may withdraw a stop notice (without affecting its power to serve another) at any time by serving notice to that effect on the persons served with a stop notice.
+
+(4) A stop notice ceases to have effect if—
+
+- (a) a notice withdrawing it is served under paragraph (3);
+- (b) Natural England, or the Secretary of State on appeal, decides that the prohibited work is not a significant project; or
+- (c) Natural England, or the Secretary of State on appeal, grants consent for the prohibited work.
+
+### 26. Penalties for contravention of a stop notice[^key-004ac7368420687e722022bae81776b3]
+
+(1) Any person who contravenes a stop notice that has been served on him is guilty of an offence.
+
+(2) An offence under this regulation may be charged by reference to any day or any longer period of time, and a person may be convicted of a second or subsequent offence under this regulation by reference to any period of time following the preceding conviction for such an offence.
+
+(3) References in this regulation to contravening a stop notice mean causing or permitting its contravention.
+
+(4) A person guilty of an offence under this regulation is liable—
+
+- (a) on summary conviction, to a fine not exceeding the statutory maximum; and
+- (b) on conviction on indictment, to a fine.
+
+### 27. Remediation notices[^key-6b1c0b408c9034d5708b1afa53c5cc06]
+
+(1) If a person has carried out an uncultivated land project or a restructuring project in breach of—
+
+- (a) regulation 4, or
+- (b) regulation 9,
+
+Natural England may serve a notice (“a remediation notice”) on the person who appears to it to be responsible.
+
+(2) A remediation notice may require the person—
+
+- (a) to reinstate, to Natural England’s satisfaction, the relevant land to the condition it was in before the project was commenced, or
+- (b) to take such other steps as Natural England thinks fit to return the relevant land to good environmental condition.
+
+(3) A remediation notice must state the period during which the remediation is to be carried out.
+
+(4) Natural England may at any time—
+
+- (a) vary a remediation notice, or
+- (b) withdraw a remediation notice (without affecting its power to serve another),
+
+by serving notice to that effect on the person served with the remediation notice.
+
+(5) Any variation of a remediation notice under paragraph (4)(a) has effect from the date of service of the notice varying the remediation notice.
+
+(6) A remediation notice ceases to have effect from the date of service of a notice withdrawing it under paragraph (4)(b).
+
+### 28. Penalty for contravening a remediation notice[^key-69e246012bcc02b0d95d3912286c2108]
+
+Any person who, without reasonable excuse, fails to comply with any requirement of a remediation notice is guilty of an offence and liable on summary conviction—
+
+- (a) to a fine not exceeding level 5 on the standard scale; and
+- (b) if the failure is continued after conviction, to a further fine not exceeding £100 for every day the failure continues.
+
+### 29. Time limits for bringing proceedings[^key-7b10ad4c0aa30254b94ce8af5d00e8ac]
+
+(1) Proceedings for any offence under regulation 22 to 24, 26 or 28 may be brought within the period of 6 months beginning with the date on which evidence sufficient in the opinion of the prosecutor to warrant the proceedings came to his knowledge.
+
+(2) But proceedings for an offence may not be commenced more than 2 years after the date on which the offence was committed.
+
+(3) For the purposes of paragraph (1), a certificate signed by or on behalf of the prosecutor and stating the date on which evidence sufficient in his opinion to warrant the proceedings came to his knowledge shall be conclusive evidence of that fact.
+
+(4) A certificate stating that matter and purporting to be so signed shall be deemed to be so signed unless the contrary is proved.
+
+### 30. Powers of entry and default powers[^key-d56d43798f06b7ff209423606891f631]
+
+(1) Any person authorised by the Secretary of State or Natural England may, at any reasonable time, enter and inspect any land for the purpose of—
+
+- (a) ascertaining whether regulation 4 or 9 has been breached;
+- (b) ascertaining whether an offence under regulation 22 to 24, 26 or 28 has been committed on or in connection with that land;
+- (c) serving a screening notice, stop notice or remediation notice in respect of that land; or
+- (d) exercising any function under Schedule 4.
+
+(2) Any person authorised by the Secretary of State or Natural England who has reasonable grounds for suspecting that a person has committed an offence under regulation 24, may enter any premises (but not premises used only as a dwelling) which are, or which such person has cause to believe to be, occupied by, or in the possession of, the person believed to be responsible for committing the offence, and may inspect and take copies of any records he has reasonable cause to believe are relevant to the suspected offence.
+
+(3) If any measures required by a remediation notice or by a notice served under paragraph 5 of Schedule 4 have not been taken within the period specified in the notice—
+
+- (a) any person authorised by the Secretary of State or Natural England may, at a reasonable time, enter the land to which the notice relates and take those measures, and
+- (b) recover from the person in default the expenses reasonably incurred by him in doing so.
+
+(4) A person authorised under paragraph (1) to enter any land may remove—
+
+- (a) samples of soil;
+- (b) plant specimens; or
+- (c) samples taken from plant specimens,
+
+for the purpose of ascertaining whether an offence has been committed on or in connection with that land.
+
+(5) A person authorised under paragraph (1), (2) or (3) to enter any land or premises must, if requested to do so, produce evidence of his authority to enter the land or premises.
+
+(6) A person authorised under paragraph (1), (2) or (3) to enter any land or premises may take with him such other persons or such equipment as he considers necessary.
+
+(7) Any person in occupation or possession of land or premises entered by a person authorised under paragraph (1), (2) or (3) must give to that person such assistance as the authorised person may reasonably request so as to enable him to exercise any power conferred on him by this regulation.
+
+(8) A person who intentionally obstructs or impedes any person acting in the exercise of the powers conferred by this regulation or who fails without reasonable excuse to comply with a request made under paragraph (7) is guilty of an offence and is liable on summary conviction to a fine not exceeding level 5 on the standard scale.
+
+### 30A. Civil sanctions[^key-471eea3f28e60ac5556f29a670aca05a]
+
+(1) Natural England may impose a fixed monetary penalty or variable monetary penalty, or accept an enforcement undertaking, in relation to an offence specified in the following Table of civil sanctions, as indicated in that Table, as if it were an offence under a provision specified in relation to that sanction in Schedule 5 to the Environmental Civil Sanctions (England) Order 2010.
+
+Table of civil sanctions
+
+| *Offence under these Regulations* | *Fixed monetary penalty* | *Variable monetary penalty* | *Enforcement undertaking* |
+| --- | --- | --- | --- |
+| regulation 22(1) | Yes | Yes | Yes |
+| regulation 23 | Yes | Yes | Yes |
+| regulation 24(1) | No | Yes | No |
+| regulation 26(1) | No | Yes | No |
+| regulation 30(8) | No | Yes | No |
+
+(2) The terms used in this regulation have the same meaning as in that Order.
+
+(3) The provisions of that Order in relation to those sanctions apply as if they were provisions of these Regulations.
+
+## PART 5 — Appeals
+
+### 31. Appeals against notices[^key-b24439caffa8044fe95f45033e387369]
+
+(1) A person may appeal to the Secretary of State in accordance with this regulation against any of the following notices served on him—
+
+- (a) a screening notice;
+- (b) a stop notice;
+- (c) a remediation notice, or
+- (d) a notice under paragraph 5 of Schedule 4,
+
+and any such notice is referred to in this regulation as the “relevant notice”.
+
+(2) An appeal may be brought on any of the following grounds—
+
+- (a) that Natural England did not have power to serve the relevant notice, or to include a particular requirement in it;
+- (b) that there has been some material irregularity, defect or error in, or in connection with, the relevant notice; or
+- (c) that any of the requirements of the relevant notice are unreasonable.
+
+(3) An appeal against a relevant notice must be brought by notice, which must—
+
+- (a) include a copy of the relevant notice;
+- (b) state the grounds of appeal; and
+- (c) be served on the Secretary of State within 28 days of the date of service of the relevant notice.
+
+(3A)[^key-75bdf937318035e52d4f288c52452186] The Secretary of State may extend the period of 28 days referred to in paragraph (3) by 14 days if the appellant and Natural England agree.
+
+(4) As soon as is reasonably practicable after receiving a notice of appeal, the Secretary of State must send a copy of the notice to Natural England.
+
+(5) Except as otherwise provided by this regulation, the Secretary of State must determine the procedure for deciding the appeal, and that procedure may include provision for site visits.
+
+(6) Appeals under this regulation may be conducted by written representations or by hearing.
+
+(7) On determining the appeal, the Secretary of State—
+
+- (a) may affirm, vary or revoke the relevant notice, and
+- (b) must notify the applicant and Natural England of his decision, together with the reasons for it.
+
+(8) Where an appeal is brought against a screening notice or a stop notice (unless the notice is withdrawn by Natural England) all the requirements contained in it have effect until such time as the Secretary of State revokes the notice or varies the requirements.
+
+(9) If the Secretary of State varies the requirements of a screening notice or a stop notice the variations have effect from the date of notification under paragraph (7)(b).
+
+(10) Where an appeal is brought against a remediation notice or a notice served under paragraph 5 of Schedule 4, the notice will be of no effect until it is affirmed or varied on appeal or until the appeal is withdrawn.
+
+(11) The Secretary of State may appoint a person to exercise on his behalf, with or without payment, his function of determining the appeal or any matter involved in the appeal, and Schedule 5 has effect in relation to such an appointment.
+
+### 32. Appeals against screening and consent decisions[^key-d20d504c8a59ffbffc7a084f0d85a822]
+
+(1) The persons specified in paragraph (2) may appeal under this regulation to the Secretary of State.
+
+(2) The persons referred to in paragraph (1) are—
+
+- (a) a person who has applied for a screening decision in respect of a project which Natural England has decided is a significant project, or is deemed to have so decided, under regulation 8;
+- (b) a person who has applied for consent for a significant project in respect of which consent has been refused or has been granted subject to conditions, other than those specified in regulation 18(2); and
+- (c) a person who has been notified of a further decision under paragraph 3 of Schedule 4.
+
+(3) An appeal against a relevant decision must be brought within 3 months of the date the person was notified of the relevant decision.
+
+(4) A notice of appeal must—
+
+- (a) describe the relevant decision;
+- (b) state the grounds of appeal; and
+- (c) state whether the appellant would like the appeal to be in the form of a hearing or local inquiry or to be disposed of on the basis of written representations.
+
+(5) As soon as is reasonably practicable after receiving a notice of appeal against a relevant decision, the Secretary of State must serve a copy of the notice on Natural England.
+
+(6) Natural England must, within 14 days of the date it receives the copy of the notice of appeal, provide the Secretary of State with sufficient information to identify the interested parties.
+
+(7) The Secretary of State must serve copies of the notice on the interested parties as soon as is reasonably practicable after receiving that information.
+
+(8) A person who is served with a copy of the notice under paragraph (7) may only make representations in respect of the appeal if he notifies the Secretary of State of his wish to do so within 21 days of the date he receives the copy of the notice.
+
+(9) The Secretary of State must decide whether the appeal should be—
+
+- (a) by hearing or local inquiry; or
+- (b) conducted by written representations,
+
+and the Secretary of State must notify his decision to the participants in the appeal.
+
+(10) On determining the appeal, the Secretary of State may allow or dismiss the appeal, or reverse any part of the relevant decision, and may consider the appeal as if he were making a decision on the matter in question for the first time.
+
+(11) The Secretary of State may appoint a person to exercise on his behalf, with or without payment, his function of determining the appeal or any matter involved in the appeal, and Schedule 5 has effect in relation to such an appointment.
+
+(12) Subsections (2) to (5) of section 250 of the Local Government Act 1972[^f00028] (power to direct inquiries) apply in relation to hearings or local inquiries held in accordance with regulation 34 as they apply to local inquiries under that section, but as if the references to the Minister were references to the Secretary of State and with the omission of references to a local authority.
+
+(13) Section 322A of the Town and Country Planning Act 1990[^f00029] (orders as to costs: supplementary) applies in relation to a hearing or local inquiry under regulation 34 as it applies to a hearing or local inquiry referred to in that section.
+
+(14) Except as otherwise provided by this regulation or by regulation 33 or 34, the Secretary of State must determine the procedure for deciding the appeal, and that procedure may include provision for site visits.
+
+(15) Any representations, statement or other documents to be submitted to the Secretary of State under regulation 33 or 34 must be accompanied by as many copies as the Secretary of State specifies.
+
+(16) In this regulation, “relevant decision” means—
+
+- (a) a decision referred to in paragraph (2)(a);
+- (b) a refusal of consent or a grant of consent subject to conditions referred to in paragraph (2)(b); or
+- (c) a notification referred to in paragraph (2)(c).
+
+### 33. Determination of appeals by written representations[^key-809b1fcf6f1c32292defb44df28b41ef]
+
+(1) This regulation applies where an appeal is to be determined by written representations.
+
+(2) Within 6 weeks of receiving notice that the appeal is to be so determined the appellant and Natural England must—
+
+- (a) serve on the Secretary of State any (or any further) representations he or it wishes to rely on in the appeal; or
+- (b) notify the Secretary of State that he or it wishes to rely only on the information already provided.
+
+(3) As soon as is practicable after receiving the representations or notification in paragraph (2), the Secretary of State must—
+
+- (a) send copies of any (or any further) representations to the other participants in the appeal; and
+- (b) notify the other participants in the appeal of any notification by the appellant or Natural England that he or it does not wish to rely on any further representations.
+
+(4) Any of the participants in the appeal who wishes to make representations must do so within 28 days of the date he or it is notified of the representations or notification under paragraph (3).
+
+(5) If the Secretary of State receives any representations under paragraph (4), he must send copies of them to the other participants in the appeal.
+
+(6) The Secretary of State must allow the participants in the appeal a period of at least 14 days to respond to any representations made under paragraphs (2) or (4).
+
+(7) Following the expiry of the period allowed in paragraph (6) the Secretary of State, or the person appointed to determine the appeal, must determine the appeal and notify the decision to the participants in the appeal.
+
+### 34. Determination of appeals by hearing or local inquiry[^key-d3716a4c12d86c4d8753bc62ec33b8ae]
+
+(1) This regulation applies where an appeal is to be determined by hearing or by local inquiry.
+
+(2) Within 6 weeks of receiving notice that the appeal is to be so determined, the appellant and Natural England must serve on the Secretary of State a statement containing full particulars of his or its case and copies of any documents he or it wishes to rely on at the hearing or local inquiry.
+
+(3) After receiving the statements and documents in paragraph (2), the Secretary of State must send copies of them to the other participants in the appeal.
+
+(4) The Secretary of State must—
+
+- (a) give the participants in the appeal 6 weeks’ notice of the date, time and place fixed for the hearing or local inquiry and the name of the person appointed to conduct the hearing or local inquiry (or, as applicable, to determine the appeal); and
+- (b) give such notice as he thinks fit to inform the public not less than 21 days before the date fixed for the hearing or local inquiry.
+
+(5) The Secretary of State may vary the time or place for the hearing or local inquiry and must give such notice of the variation as he thinks fit.
+
+(6) If an interested party wishes to be heard at the hearing or local inquiry he must notify the Secretary of State within 28 days of being sent the appellant’s and Natural England’s statements under paragraph (3).
+
+(7) Where an interested party has so notified the Secretary of State, the Secretary of State may require him to submit a statement containing the particulars of his case and copies of any documents he wishes to refer to (except documents which the appellant or Natural England served under paragraph (2)).
+
+(8) The Secretary of State must send copies of any statements and documents received under paragraph (7) to the appellant and to Natural England.
+
+(9) The Secretary of State may require any person who has provided him with a statement under paragraph (2) or (7) to provide him with any further information he specifies in relation to the statement, and must send a copy of the further information to each of the other participants in the appeal.
+
+(10) Before a hearing or local inquiry takes place the Secretary of State must make all of the documents submitted available for inspection by any person who so requests.
+
+(11) The participants in the appeal are entitled to be heard at a hearing or local inquiry.
+
+(12) Any participant in the appeal who proposes to give evidence at an inquiry by reading a witness statement must send a copy of the witness statement, and a written summary of it, to the Secretary of State not less than 3 weeks before the date fixed for the inquiry, and the Secretary of State must send copies of the witness statement and summary to the other participants in the appeal.
+
+(13) After the conclusion of the hearing or local inquiry, the person appointed to conduct the hearing or local inquiry must, unless he has been appointed to determine the appeal, make a report to the Secretary of State which must include—
+
+- (a) his conclusions; and
+- (b) his recommendations or his reasons for not making any recommendations.
+
+(14) If the Secretary of State is minded to disagree with the recommendation made in the report because he—
+
+- (a) differs from the person making the report on any matter of fact mentioned in, or appearing to him to be material to, a conclusion reached by that person; or
+- (b) takes into consideration new evidence or a new matter of fact,
+
+he must not come to a decision without first giving every person who appeared at the hearing or local inquiry an opportunity to make representations within a reasonable time specified by him.
+
+(15) The Secretary of State or the person appointed to determine the appeal must notify the participants in the appeal of his decision, the reasons for it and, where a report has been made in accordance with paragraph (13), a copy of that report.
+
+### 35. Application to the court by person aggrieved[^key-59fdb3ecd8be4612b80159a2594f5685]
+
+(1) A person aggrieved by a decision of Natural England that a project is not a significant project or a decision to grant consent for a significant project may make an application to the High Court for an order quashing the decision.
+
+(2) The High Court may quash the decision if it is satisfied that—
+
+- (a) the decision was not lawfully made; or
+- (b) the interests of the person who has applied to the court have been substantially prejudiced by a failure to comply with any other requirement of these Regulations.
+
+(3) Any application to the High Court under this regulation must be made within 6 weeks of the date the decision is entered in the register in accordance with regulation 8(4)(b) or published in accordance with regulation 19(b).
+
+(4) The High Court may by interim order, pending the determination of an application under this regulation, stay the operation of the decision on such terms as it thinks fit.
+
+### 36. Interpretation of this Part[^key-9a7cc983439b2197c8a034044c5254ee]
+
+In this Part—
+
+- “interested parties” means—
+  - (a) such of the consultation bodies as the Secretary of State considers appropriate;
+  - (b) any person who made representations in respect of a relevant decision (within the meaning of “relevant decision” in regulation 32(16));
+  - (c) any EEA State consulted under regulation 14(6);
+  - (d) any authority or person who forwarded their opinion under regulation 14(5)(b);
+  - (e) any other person who appears to the Secretary of State to have a particular interest in the subject matter of the appeal.
+- “participants in the appeal” means—
+  - (a) the appellant;
+  - (b) Natural England;
+  - (c) the interested parties;
+  - (d) in the case of a hearing or local enquiry, any other person permitted to take part by the person appointed to conduct the hearing or local inquiry.
+
+## PART 6 — Final Provisions
+
+### 37. Amendment of the Common Agricultural Policy Single Payment and Support Schemes (Cross-compliance) (England) Regulations 2005[^key-0b14e36001391064a38d9a0f5dd8f3b8]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 37A. Review[^key-fff1ea5f158283ae3f988de3df2a71cd]
+
+(1) The Secretary of State must, from time to time—
+
+- (a) carry out a review of the regulatory provision contained in these Regulations, and
+- (b) publish a report setting out the conclusions of the review.
+
+(2) The first report must be published before 16th May 2022.
+
+(3) Subsequent reports must be published at intervals not exceeding 5 years.
+
+(4) Section 30(3) of the Small Business, Enterprise and Employment Act 2015 requires that a review carried out under this regulation must, so far as is reasonable, have regard to how the EIA Directive is implemented in other member States.
+
+(5) Section 30(4) of the Small Business, Enterprise and Employment Act 2015 requires that a report published under this regulation must, in particular—
+
+- (a) set out the objectives intended to be achieved by the regulatory provision referred to in paragraph (1)(a),
+- (b) assess the extent to which those objectives are achieved,
+- (c) assess whether those objectives remain appropriate, and
+- (d) if those objectives remain appropriate, assess the extent to which they could be achieved in another way which involves less onerous regulatory provision.
+
+(6) In this regulation, “regulatory provision” has the same meaning as in sections 28 to 32 of the Small Business, Enterprise and Employment Act 2015 (see section 32 of that Act).
+
+### 38. Revocations[^key-f3998c402c302f250361d00c42d56575][^key-32fd343daac32a3c6e8d95e138f8cb7c][^key-32fd343daac32a3c6e8d95e138f8cb7c]
+
+The following Regulations are revoked—
+
+- (a)[^key-f3998c402c302f250361d00c42d56575] the Environmental Impact Assessment (Uncultivated Land and Semi-Natural Areas) (England) Regulations 2001[^f00031]; and
+- (b)[^key-f3998c402c302f250361d00c42d56575] the Environmental Impact Assessment (Uncultivated Land and Semi-Natural Areas) (England) (Amendment) Regulations 2005[^f00032];
+- (c)[^key-32fd343daac32a3c6e8d95e138f8cb7c] the Environmental Impact Assessment (Agriculture) (England) Regulations 2006[^f00033].
+
+### 39. Transitional provisions[^key-269755e0f26284bf6b3e630e2b9cce9e]
+
+(1) This regulation provides for the treatment of certain notices served under the Environmental Impact Assessment (Uncultivated Land and Semi-Natural Areas) (England) Regulations 2001 (“the 2001 Regulations”).
+
+(2) Any stop notice served under regulation 22 of the 2001 Regulations is to be treated as though it was served under regulation 25 of these Regulations, and regulations 26, 29 and 30 of these Regulations apply to any enforcement action taken in respect of a breach of the notice.
+
+(3) Subject to paragraph (4), any reinstatement notice served under regulation 24 of the 2001 Regulations is to be treated as though it was served as a remediation notice under regulation 27 of these Regulations, and regulations 28 to 30 apply to any enforcement action taken in respect of a breach of the notice.
+
+(4) Nothing in paragraph (3) affects any appeal under regulation 24(3) of the 2001 Regulations brought before the coming into force of these Regulations.
+
+Barry Gardiner
+
+Parliamentary Under Secretary of State
+
+Department for Environment, Food and Rural Affairs
+
+13th September 2006
+
+## SCHEDULE 1 — Thresholds[^key-ff136104376e44151e89b47f7ffbc222]
+
+Regulation 5
+
+| Column 1 | Column 2 | Column 3 |
+| --- | --- | --- |
+| Uncultivated land project | 2 hectares | 2 hectares |
+| Restructuring project involving the addition or removal of any field boundary (including any wall, fence, bank, ditch or watercourse) | 4 kilometres | 2 kilometres |
+| Restructuring project which involves an area of land | 100 hectares | 50 hectares |
+| Restructuring project involving the addition, removal or redistribution of a volume of earth or other material in relation to land | 10,000 cubic metres | 5,000 cubic metres |
+
+## SCHEDULE 2 — Selection criteria for a screening notice or screening decision[^key-8a8709774a92a2e5b54277de7cfb9d4a]
+
+Regulations 6(2)(c), 7(1A) and 8(1) and (4)(a)(i)
+
+### 1. Characteristics of projects
+
+The characteristics of restructuring projects or uncultivated land projects, with particular regard to—
+
+- (a) the size and design of the whole project;
+- (b) cumulation with other existing or approved projects;
+- (c) the use of natural resources, in particular land, soil, water and biodiversity;
+- (d) the production of waste;
+- (e) pollution and nuisances;
+- (f) the risk of major accidents or disasters which are relevant to the project, including those caused by climate change, in accordance with scientific knowledge;
+- (g) the risks to human health (for example due to water contamination or air pollution).
+
+### 2. Location of projects
+
+The environmental sensitivity of geographical areas likely to be affected by restructuring projects or uncultivated land projects, with particular regard to—
+
+- (a) the existing and approved land use;
+- (b) the relative abundance, availability, quality and regenerative capacity of natural resources (including soil, land, water and biodiversity) in the area and its underground;
+- (c) the absorption capacity of the natural environment, paying particular attention to the following areas—
+  - (i) wetlands, riparian areas, river mouths;
+  - (ii) coastal zones and the marine environment;
+  - (iii) mountain and forest areas;
+  - (iv) nature reserves and parks;
+  - (v) areas classified or protected under national legislation and Natura 2000 areas designated by member States pursuant to the Habitats Directive and the Wild Birds Directive;
+  - (vi) areas in which there has already been a failure to meet the environmental quality standards, laid down in EU legislation as it applied in the United Kingdom immediately prior to exit day, or in[^key-80cbef23db718ec949c91502406aeff1] assimilated[^key-b477f88ff2bb2853ad0ff16feb008c5d] law and relevant to the project, or in which it is considered that there is such a failure;
+  - (vii) densely populated areas;
+  - (viii) landscapes and sites of historical, cultural or archaeological significance.
+
+### 3. Type and characteristics of the potential impact
+
+The likely significant effects of restructuring projects or uncultivated land projects on the environment in relation to criteria set out in paragraphs 1 and 2 of this Schedule, with regard to the impact of the project on the factors specified in regulation 15A(2), taking into account—
+
+- (a) the magnitude and spatial extent of the impact (for example geographical area and size of the population likely to be affected);
+- (b) the nature of the impact;
+- (c) the transboundary nature of the impact;
+- (d) the intensity and complexity of the impact;
+- (e) the probability of the impact;
+- (f) the expected onset, duration, frequency and reversibility of the impact;
+- (g) the cumulation of the impact with the impact of other existing or approved projects;
+- (h) the possibility of effectively reducing the impact.
+
+## SCHEDULE 3 — Information for inclusion in environmental statements[^key-7fab6b42f6dc041416d2d7f199f3733e]
+
+Regulation 12(1A
+
+**1.** A description of the significant project, including in particular—
+
+- (a) a description of the location of the significant project;
+- (b) a description of the physical characteristics of the whole significant project, including, where relevant, requisite demolition works, and the land-use requirements during the construction and operational phases;
+- (c) a description of the main characteristics of the operational phase of the significant project (in particular any production process), for instance, energy demand and energy used, nature and quantity of the materials and natural resources (including water, land, soil and biodiversity) used;
+- (d) an estimate, by type and quantity, of expected residues and emissions (such as water, air, soil and subsoil pollution, noise, vibration, light, heat, radiation) and quantities and types of waste produced during the construction and operation phases.
+
+**2.** A description of the reasonable alternatives (for example in terms of project design, technology, location, size and scale) studied by the applicant, which are relevant to the proposed significant project and its specific characteristics, and an indication of the main reasons for selecting the chosen option, including a comparison of the environmental effects.
+
+**3.** A description of the relevant aspects of the current state of the environment (baseline scenario) and an outline of the likely evolution thereof without implementation of the significant project as far as natural changes from the baseline scenario can be assessed with reasonable effort on the basis of the availability of environmental information and scientific knowledge.
+
+**4.** A description of the factors specified in regulation 15A(2) likely to be significantly affected by the significant project: population, human health, biodiversity (for example fauna and flora), land (for example land take), soil (for example organic matter, erosion, compaction, sealing), water (for example hydromorphological changes, quantity and quality), air, climate (for example greenhouse gas emissions, impacts relevant to adaptation), material assets, cultural heritage, including architectural and archaeological aspects, and landscape.
+
+**5.** A description of the likely significant effects of the significant project on the environment resulting from, among other things—
+
+- (a) the construction and existence of the significant project, including, where relevant, demolition works;
+- (b) the use of natural resources, in particular land, soil, water and biodiversity, considering as far as possible the sustainable availability of these resources;
+- (c) the emission of pollutants, noise, vibration, light, heat and radiation, the creation of nuisances, and the disposal and recovery of waste;
+- (d) the risks to human health, cultural heritage or the environment (for example due to accidents or disasters);
+- (e) the cumulation of effects with other existing or approved projects, taking into account any existing environmental problems relating to areas of particular environmental importance likely to be affected or the use of natural resources;
+- (f) the impact of the significant project on climate (for example the nature and magnitude of greenhouse gas emissions) and the vulnerability of the significant project to climate change;
+- (g) the technologies and the substances used.
+
+**6.** The description referred to in paragraph 4 of the likely significant effects on the factors specified in regulation 15A(2) must cover the direct effects and any indirect, secondary, cumulative, transboundary, short-term, medium-term and long-term, permanent and temporary, positive and negative effects of the significant project. That description must take into account the environmental protection objectives established in[^key-cbdc20ed1aea50a66e71f09aefac39b1] assimilated[^key-29c906daec2bdba72559c5e992e99ba7] law or under the law of any part of the United Kingdom which are relevant to the significant project.
+
+**7.** A description of the forecasting methods or evidence, used to identify and assess the significant effects on the environment, including details of difficulties (for example technical deficiencies or lack of knowledge) encountered in compiling the required information and the main uncertainties involved.
+
+**8.** A description of the measures envisaged to avoid, prevent, reduce or, if possible, offset any identified significant adverse effects on the environment and, where appropriate, of any proposed monitoring arrangements (for example the preparation of a post-project analysis). That description must explain the extent to which significant adverse effects on the environment are avoided, prevented, reduced or offset, and must cover both the construction and operational phases.
+
+**9.** A description of the expected significant adverse effects of the significant project on the environment deriving from the vulnerability of the significant project to risks of major accidents or disasters which are relevant to the significant project. Relevant information available and obtained through risk assessments pursuant to assimilated[^key-2db98519da92c8180b120d7b5150883a][^key-2b53ebd60d4bfb386cc2e617abb8b44b] law such as any law that implemented [Directive 2012/18/EU](https://www.legislation.gov.uk/european/directive/2012/0018) of the European Parliament and of the Council on the control of major-accident hazards involving dangerous substances, amending and subsequently repealing Council [Directive 96/82/EC](https://www.legislation.gov.uk/european/directive/1996/0082) or Council Directive 2009/71/Euratom establishing a Community framework for the nuclear safety of nuclear installations or UK environmental assessments may be used for this purpose provided that the requirements of any law that implemented[^key-336c52b7cba5010661eecc8f03df3c8e] the EIA Directive are met. Where appropriate, the description must include measures envisaged to prevent or mitigate the significant adverse effects of such events on the environment and details of the preparedness for and proposed response to such emergencies.
+
+**10.** A non-technical summary of the information provided under paragraphs 1 to 9.
+
+**11.** A reference list detailing the sources used for the descriptions and assessments included in the statement.
+
+## SCHEDULE 4 — Review of decisions and consents
+
+Regulation 21
+
+**1.**[^key-48c9173123497903cab3b2dbdde1255c] As soon as is reasonably practicable Natural England must, for the purpose of determining whether the project permitted by the decision or consent will adversely affect the integrity of the site, make an appropriate assessment of the implications of the project for the European site in view of the site’s conservation objectives.
+
+**2.**[^key-7541b8a6abb34e197e87f7957b21af2e] For the purposes of the assessment, Natural England may—
+
+- (a) require any person interested in the relevant land to supply it with such information as it reasonably thinks necessary; and
+- (b) if it considers it necessary, consult members of the public.
+
+**3.**[^key-69a032f80a3e10f0b97488463a4cbd38] Unless, following the assessment, Natural England is satisfied that the project permitted by the decision or consent will not adversely affect the integrity of the European site, and regulation 17(4) does not apply, Natural England must—
+
+- (a) in the case of a decision, revoke the decision; and
+- (b) in the case of a consent, either—
+  - (i) revoke the consent; or
+  - (ii) make such modifications to the consent as appear to it to be necessary to ensure that the project will not adversely affect the integrity of the European site,
+
+and Natural England must notify all persons who appear to it to have an interest in the relevant land of its decision (its “further decision”).
+
+**4.**[^key-5de9d4b2794c49399f78f753c36e44af] Subject to paragraph 5, a further decision does not affect any works that have already been carried out in relation to a decision or consent.
+
+**5.**[^key-1776a308843576dc2ee76f959ee67ec4] (1) If—
+
+- (a) a project which is subject to a further decision has commenced; and
+- (b) it appears to Natural England to be necessary to safeguard the integrity of the European site,
+
+Natural England may by notice require the person responsible for carrying out such works, or any person with an interest in the relevant land, to carry out such works of reinstatement as may be reasonable in the circumstances,
+
+(2) A notice under paragraph (1) must state the period during which the works must be carried out.
+
+(3) Any person who carries out such reinstatement works is entitled, on making a claim in accordance with paragraph 8, to recover from Natural England compensation in respect of any expenses reasonably incurred by him in carrying out those works.
+
+**6.**[^key-a3dff298b3a5f6b1fd41a1e2bd10b841] (1) Regulation 32 applies to a further decision made under paragraph 3.
+
+(2) Regulation 31 applies to a notice served under paragraph 5.
+
+**7.**[^key-97f29e7fb44096087ef198effc6fd37d] If, following a further decision, a person has incurred expenditure in carrying out work which is rendered abortive by the further decision or has otherwise sustained loss of damage which is directly attributable to the further decision, he is entitled to be paid compensation on submitting a claim in accordance with paragraph 8.
+
+**8.**[^key-f0a4a982bed1396e97d1f38c7c6d2c35] A claim for compensation payable under paragraph 5(3) or 7 must be submitted to Natural England within 6 weeks of the notification of the further decision and must be accompanied by such evidence as Natural England may reasonably require.
+
+**9.**[^key-b6245e6d3217247e7cf30d09a8af6c88] Any dispute as to the amount of compensation payable under paragraph 5(3) or 7 may be referred to the Upper Tribunal[^key-1652e37a43273e8a37b144bb58aebfc6] within 6 years of the date of notification of the further decision in respect of which compensation is payable.
+
+**10.**[^key-040003937a0f017f995f93d3e3b618f1] Nothing in this Schedule affects anything done in pursuance of a decision or consent before the date the site became a European site.
+
+## SCHEDULE 5 — Delegation of appellate functions
+
+Regulations 31(11) and 32(11)
+
+**1.**[^key-d0cb66ad69d1fbcf6190b155eb135e0c] In this Schedule “appointed person” means a person appointed under regulation 31(11) or 32(11) and “appointment” means an appointment under either of those regulations.
+
+**2.**[^key-6a06b2c0e5095a6a4706f15585a53221] An appointment must be in writing and—
+
+- (a) may relate to any particular appeal or matter specified in the appointment or to appeals or matters of a specified description;
+- (b) may provide for any function to which it relates to be exercisable by the appointed person either unconditionally or subject to the fulfilment of any conditions specified in the appointment; and
+- (c) may, by notice given to the appointed person, be revoked at any time by the Secretary of State in respect of any appeal or matter which has not been determined by the appointed person before that time.
+
+**3.**[^key-8aebbcdb43bf7e434d36e9f21ab9761d] Subject to the provisions of this Schedule, an appointed person has, in relation to any appeal or matter to which his appointment relates, the same powers and duties as the Secretary of State has under regulation 31(7), or regulation 32(10), (13), (14) and (15), as the case may be.
+
+**4.**[^key-a28c3cce0c888c2686ccfb08a9211d0b] (1) The provisions of this paragraph apply to an appeal under regulation 31 or 32 which falls to be determined by an appointed person and, in the case of an appeal under regulation 32, apply instead of regulation 32(9).
+
+(2) If the appellant or Natural England informs the appointed person that he or it wishes to appear before and be heard by him, the appointed person must give him or it an opportunity to do so.
+
+(3) Even if the appellant or Natural England has not asked to appear and be heard, the appointed person—
+
+- (a) may—
+  - (i) in the case of an appeal under regulation 31, hold a hearing in connection with the appeal or matter, and
+  - (ii) in the case of an appeal under regulation 32, hold a hearing or local inquiry in connection with the appeal or matter; and
+- (b) must, in the case of an appeal under regulation 32, hold a local inquiry in connection with the appeal or matter if the Secretary of State directs.
+
+(4) The appointed person must notify his decision to hold a hearing or a local inquiry (as the case may be) to the appellant, Natural England and to any persons who notified the Secretary of State that they wish to make representations under regulation 32(8).
+
+(5) If an appointed person holds a hearing or local inquiry under this Schedule, the Secretary of State may appoint an assessor to sit with the appointed person and advise him on any matters arising, notwithstanding that the appointed person is to determine the matter or appeal.
+
+(6) Subject to regulation 32(12), the costs of the hearing or local inquiry held under this Schedule must be met by the Secretary of State.
+
+**5.**[^key-7882b1dccd8dac2a4803c20810414677] (1) If the appointment of an appointed person is revoked under paragraph 2(c) in respect of any appeal or matter, the Secretary of State must, unless he proposes to determine the matter himself, appoint another person under regulation 31(11) or 32(11) to determine the appeal or matter instead.
+
+(2) If a new appointment is made, the consideration of the appeal or matter, or any local inquiry or other hearing in connection with it, must begin afresh.
+
+(3) Nothing in sub-paragraph (2) requires any person to be given an opportunity to make fresh representations or to modify or withdraw any representations already made.
+
+**6.**[^key-547b01884583ee5cb5a71882bc755ec0] (1) Anything done or omitted to be done by an appointed person in, or in connection with, the exercise or purported exercise of any function to which the appointment relates is to be treated for all purposes as done or omitted to be done by the Secretary of State.
+
+(2) But sub-paragraph (1) does not apply—
+
+- (a) for the purposes of so much of any contract made between the Secretary of State and the appointed person as relates to the exercise of the function; or
+- (b) for the purposes of any criminal proceedings brought in respect of anything done or omitted to be done as mentioned in that sub-paragraph.
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations implement Council Directive [85/337/EEC](https://www.legislation.gov.uk/european/directive/1985/0337) (O.J. No. L175, 5.7.85, p.40) on the assessment of the effects of certain public and private projects on the environment (as last amended by Directive [2003/35/EC](https://www.legislation.gov.uk/european/directive/2003/0035) (O.J. No. L156, 25.6.03, p. 17)) (“the EIA Directive”) in relation to two types of project in paragraph 1 of Annex II to that Directive: projects for the restructuring of rural land holdings, and projects for the use of uncultivated land and semi-natural areas for intensive agricultural purposes.
+
+They also implement Council Directive [1992/43/EEC](https://www.legislation.gov.uk/european/directive/1992/0043) (O.J. No. L206, 22.7.1992, p. 7) on the conservation of natural habitats and of wild flora and fauna (as last amended by the Act concerning the conditions of accession of the new Member States (O.J. No. L 236, 23.9.2003, p. 667–70. See Annex II: 16. Environment, C. Nature protection.) (“the Habitats Directive”) insofar as those projects affect sites protected by that Directive.
+
+Regulation 3 sets out the types of projects which are excluded from the scope of the Regulations. It also gives the Secretary of State the power to exclude certain projects from the scope of the Regulations in accordance with the EIA and Habitats Directives.
+
+Regulation 4 prohibits any person from beginning or carrying out certain uncultivated land projects or restructuring projects unless that person has obtained a screening decision allowing the project to go ahead. Regulation 5 and Schedule 1 set out how to calculate the appropriate threshold for a project. Regulation 6 sets out provisions relating to the service of “screening notices” which allow Natural England to remove the application thresholds from areas of land.
+
+Regulation 7 sets out what must be included in an application for a screening decision, and allows Natural England to ask for further information. Regulation 8 and Schedule 2 set out the factors to be taken into consideration by Natural England when it makes a screening decision, and the procedures relating to a screening decision. Schedule 2 is based on Annex III to the EIA Directive.
+
+Regulation 9 prohibits a person from beginning or carrying out a project likely to have significant effects on the environment unless he has first obtained consent from Natural England.
+
+Regulation 10 sets out the procedure by which Natural England can give an applicant an opinion on the scope of an environmental statement. Regulation 11 sets out the duties of consultation bodies from whom information is sought in connection with applications and scoping opinions.
+
+Regulation 12 provides that applications for consent must include an environmental statement and sets out consultation procedures relating to the application. Regulation 13 sets out further procedures relating to any further information that is required from the applicant.
+
+Regulations 14 and 15 set out the procedures to be followed where a significant project in England might affect another EEA State, and a significant project in another EEA State might affect England.
+
+Regulations 16 and 17 set out the factors to be taken into consideration when Natural England makes a consent decision, including the situation where a project is likely to affect a European Site, and provide for the timing of consent decisions. Regulation 18 sets out the conditions which must be applied to a consent and Regulation 19 sets out the procedures following the consent decision.
+
+Regulation 20 makes provision on the treatment of transborder projects.
+
+Regulation 21 and Schedule 4 make provision for the situation where, following a decision permitting the commencement of a project, the relevant land becomes a European site.
+
+Regulation 22 makes it an offence to begin or carry out a project without obtaining a screening decision or a consent decision (where these are required). Regulation 23 makes it an offence to breach a condition of consent. Regulation 24 makes it an offence to procure a decision by deception or the supply of false or misleading information or documents.
+
+Regulation 25 empowers Natural England to issue stop notices. Regulation 26 makes it an offence to contravene a stop notice.
+
+Regulation 27 empowers Natural England to issue “remediation notices” requiring a person in breach of the Regulations to return his land to the condition it was in before the breach, or to good environmental condition. Regulation 28 makes it an offence to fail to comply with a remediation notice without reasonable excuse.
+
+Regulation 29 allows prosecutions under regulations 22, 23, 24, 26 and 28 to be brought within 6 months of the date sufficient evidence comes to the prosecutor’s knowledge. But prosecutions must be brought within 2 years of the date on which the offence is committed.
+
+Regulation 30 confers powers on persons authorised by the Secretary of State or Natural England to enforce these Regulations. Regulation 30(8) makes it an offence to obstruct an authorised person in the exercise of those powers.
+
+Regulation 31 to 35 and Schedule 5 contain provisions in respect of notices and decisions given under these Regulations. Regulations 37 to 39 contain amending, revoking and transitional provisions.
+
+A Transposition Note has been prepared to illustrate how these Regulations transpose the EIA Directive and the Habitats Directive.
+
+A Regulatory Impact Assessment of the effect that this instrument will have on the costs of business has been prepared and placed in the library of each House of Parliament.
+
+Copies of the Transposition Note and Regulatory Impact Assessment are available from the Environmental Land Management Division, Defra, Ergon House (Area 5B), Horseferry Road, London SW1P 2AL (or from www.defra.gov.uk/farm/environment/land-use/eia).
+
+## Annotations
+
+[^f00001]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68). The enabling powers of section 2(2) of this Act were extended by the amendment of section 1(2) by section 1 of the European Economic Area Act [1993 (c. 51)](https://www.legislation.gov.uk/ukpga/1993/51).
+
+[^key-61ff2539f5705025cf00272792933138]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2006/2522): power to amend or revoke conferred (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 164(3)](https://www.legislation.gov.uk/ukpga/2023/55/section/164/3), [255(5)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/5), [Sch. 14 Pt. 1](https://www.legislation.gov.uk/ukpga/2023/55/schedule/14/part/1) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
+
+[^f00002]: Footnote: [S.I. 1988/785](https://www.legislation.gov.uk/uksi/1988/785).
+
+[^f00003]: Footnote: [S.I. 1992/2870](https://www.legislation.gov.uk/uksi/1992/2870).
+
+[^key-1bafa092e84bc67a8e3cc0b19ca5a090]: Commencement: Reg. 1 in force at 10.10.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/2522/regulation/1/2)
+
+[^key-715580e399f25a579b3793d7bb80507f]: Commencement: Reg. 2 in force at 10.10.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/2522/regulation/1/2)
+
+[^key-570b61724481e5b66ae8f8370dbc2b9a]: Textual amendment: Definition of "agriculture" in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2006/2522/regulation/2/1) moved (16.5.2017) by virtue of [The Environmental Impact Assessment (Agriculture) (England) (No. 2) (Amendment) Regulations 2017 (S.I. 2017/593)](https://www.legislation.gov.uk/uksi/2017/593), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/593/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2017/593/regulation/3/2) (with [reg. 19](https://www.legislation.gov.uk/uksi/2017/593/regulation/19))
+
+[^f00004]: Footnote: [1947 c. 48](https://www.legislation.gov.uk/ukpga/1947/48).
+
+[^key-41f8c7fb7d1f9146a105799e485fe578]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2006/2522/regulation/2/1) substituted (16.5.2017) by [The Environmental Impact Assessment (Agriculture) (England) (No. 2) (Amendment) Regulations 2017 (S.I. 2017/593)](https://www.legislation.gov.uk/uksi/2017/593), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/593/regulation/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2017/593/regulation/3/3) (with [reg. 19](https://www.legislation.gov.uk/uksi/2017/593/regulation/19))
+
+[^key-2dadb5c7c72a92fe7e6474c1d8fa717f]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2006/2522/regulation/2/1) substituted (16.5.2017) by [The Environmental Impact Assessment (Agriculture) (England) (No. 2) (Amendment) Regulations 2017 (S.I. 2017/593)](https://www.legislation.gov.uk/uksi/2017/593), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/593/regulation/1/1), [3(4)(a)](https://www.legislation.gov.uk/uksi/2017/593/regulation/3/4/a) (with [reg. 19](https://www.legislation.gov.uk/uksi/2017/593/regulation/19))
+
+[^f00005]: Footnote: See section 32 of the National Heritage Act [1983 (c. 47)](https://www.legislation.gov.uk/ukpga/1983/47).
+
+[^f00006]: Footnote: See section 1(1) of the Environment Act [1995 (c. 25)](https://www.legislation.gov.uk/ukpga/1995/25).
+
+[^f00007]: Footnote: See section 1 of the Natural Environment and Rural Communities Act [2006 (c. 16)](https://www.legislation.gov.uk/ukpga/2006/16).
+
+[^key-12c68b13c53ee04da867c59d2a632a0e]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2006/2522/regulation/2/1) inserted (16.5.2017) by [The Environmental Impact Assessment (Agriculture) (England) (No. 2) (Amendment) Regulations 2017 (S.I. 2017/593)](https://www.legislation.gov.uk/uksi/2017/593), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/593/regulation/1/1), [3(4)(b)](https://www.legislation.gov.uk/uksi/2017/593/regulation/3/4/b) (with [reg. 19](https://www.legislation.gov.uk/uksi/2017/593/regulation/19))
+
+[^key-5467d96dc2d6a1161a6611c565b2b2c6]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2006/2522/regulation/2/1) substituted (16.5.2017) by [The Environmental Impact Assessment (Agriculture) (England) (No. 2) (Amendment) Regulations 2017 (S.I. 2017/593)](https://www.legislation.gov.uk/uksi/2017/593), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/593/regulation/1/1), [3(5)](https://www.legislation.gov.uk/uksi/2017/593/regulation/3/5) (with [reg. 19](https://www.legislation.gov.uk/uksi/2017/593/regulation/19))
+
+[^key-76231990e161b34d07f89c37fafdc037]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2006/2522/regulation/2/1) inserted (16.5.2017) by [The Environmental Impact Assessment (Agriculture) (England) (No. 2) (Amendment) Regulations 2017 (S.I. 2017/593)](https://www.legislation.gov.uk/uksi/2017/593), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/593/regulation/1/1), [3(10)](https://www.legislation.gov.uk/uksi/2017/593/regulation/3/10) (with [reg. 19](https://www.legislation.gov.uk/uksi/2017/593/regulation/19))
+
+[^key-f3a6542b79c947063d4f201e82824a4d]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2006/2522/regulation/2/1) substituted (16.5.2017) by [The Environmental Impact Assessment (Agriculture) (England) (No. 2) (Amendment) Regulations 2017 (S.I. 2017/593)](https://www.legislation.gov.uk/uksi/2017/593), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/593/regulation/1/1), [3(6)](https://www.legislation.gov.uk/uksi/2017/593/regulation/3/6) (with [reg. 19](https://www.legislation.gov.uk/uksi/2017/593/regulation/19))
+
+[^key-3159ac9a5f768e0d49d886893ef83904]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2006/2522/regulation/2/1) substituted (31.12.2020) by [The Environment, Food and Rural Affairs (Environmental Impact Assessment) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/25)](https://www.legislation.gov.uk/uksi/2019/25), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/25/regulation/1/1), [5(2)(a)(i)](https://www.legislation.gov.uk/uksi/2019/25/regulation/5/2/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-6b80e5cfdf0cbc2c9468483969eb345a]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2006/2522/regulation/2/1) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 12(a)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/12/a)
+
+[^key-efca1eedb94b4be6dcb417d31b913a9b]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2006/2522/regulation/2/1) substituted (16.5.2017) by [The Environmental Impact Assessment (Agriculture) (England) (No. 2) (Amendment) Regulations 2017 (S.I. 2017/593)](https://www.legislation.gov.uk/uksi/2017/593), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/593/regulation/1/1), [3(7)](https://www.legislation.gov.uk/uksi/2017/593/regulation/3/7) (with [reg. 19](https://www.legislation.gov.uk/uksi/2017/593/regulation/19))
+
+[^f00010]: Footnote: O.J. No. L206, 22.7.1992, p. 7.
+
+[^key-f4006c615f81614ed03e7042923406d5]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2006/2522/regulation/2/1) substituted (16.5.2017) by [The Environmental Impact Assessment (Agriculture) (England) (No. 2) (Amendment) Regulations 2017 (S.I. 2017/593)](https://www.legislation.gov.uk/uksi/2017/593), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/593/regulation/1/1), [3(8)](https://www.legislation.gov.uk/uksi/2017/593/regulation/3/8) (with [reg. 19](https://www.legislation.gov.uk/uksi/2017/593/regulation/19))
+
+[^key-b957f293d9eb77a10eb2f643891262df]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2006/2522/regulation/2/1) substituted (16.5.2017) by [The Environmental Impact Assessment (Agriculture) (England) (No. 2) (Amendment) Regulations 2017 (S.I. 2017/593)](https://www.legislation.gov.uk/uksi/2017/593), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/593/regulation/1/1), [3(9)](https://www.legislation.gov.uk/uksi/2017/593/regulation/3/9) (with [reg. 19](https://www.legislation.gov.uk/uksi/2017/593/regulation/19))
+
+[^key-5ca348977a74d3007a524efec2fa7ae5]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2006/2522/regulation/2) substituted (30.11.2017) by [The Conservation of Habitats and Species Regulations 2017 (S.I. 2017/1012)](https://www.legislation.gov.uk/uksi/2017/1012), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/1/2), [Sch. 6 para. 15(2)](https://www.legislation.gov.uk/uksi/2017/1012/schedule/6/paragraph/15/2)
+
+[^key-5a0a21f95e214fdf94f39a0f75e30cf5]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2006/2522/regulation/2/1) inserted (31.12.2020) by [The Environment, Food and Rural Affairs (Environmental Impact Assessment) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/25)](https://www.legislation.gov.uk/uksi/2019/25), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/25/regulation/1/1), [5(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/25/regulation/5/2/a/ii) (as amended by [S.I. 2019/1078](https://www.legislation.gov.uk/uksi/2019/1078), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1078/regulation/1), [2](https://www.legislation.gov.uk/uksi/2019/1078/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-7b13dd57e287227e3b981938cf572160]: Textual amendment: [Reg. 2(2)](https://www.legislation.gov.uk/uksi/2006/2522/regulation/2/2) omitted (31.12.2020) by virtue of [The Environment, Food and Rural Affairs (Environmental Impact Assessment) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/25)](https://www.legislation.gov.uk/uksi/2019/25), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/25/regulation/1/1), [5(2)(b)](https://www.legislation.gov.uk/uksi/2019/25/regulation/5/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^f00013]: Footnote: [2000 c. 7](https://www.legislation.gov.uk/ukpga/2000/7).
+
+[^key-267f7823e6019c61aec13a80a3f2b361]: Textual amendment: [Reg. 2(6)](https://www.legislation.gov.uk/uksi/2006/2522/regulation/2/6)[(7)](https://www.legislation.gov.uk/uksi/2006/2522/regulation/2/7) inserted (16.5.2017) by [The Environmental Impact Assessment (Agriculture) (England) (No. 2) (Amendment) Regulations 2017 (S.I. 2017/593)](https://www.legislation.gov.uk/uksi/2017/593), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/593/regulation/1/1), [3(11)](https://www.legislation.gov.uk/uksi/2017/593/regulation/3/11) (with [reg. 19](https://www.legislation.gov.uk/uksi/2017/593/regulation/19))
+
+[^key-22e3440e0a3c59b6ac6db25f8d25ca11]: Commencement: Reg. 3 in force at 10.10.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/2522/regulation/1/2)
+
+[^key-2ff56dfef693922b830950d621d91941]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2006/2522/regulation/3/1) substituted (16.5.2017) by [The Environmental Impact Assessment (Agriculture) (England) (No. 2) (Amendment) Regulations 2017 (S.I. 2017/593)](https://www.legislation.gov.uk/uksi/2017/593), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/593/regulation/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2017/593/regulation/4/2) (with [reg. 19](https://www.legislation.gov.uk/uksi/2017/593/regulation/19))
+
+[^f00014]: Footnote: [S.I. 1999/2228](https://www.legislation.gov.uk/uksi/1999/2228).
+
+[^key-5a65546f1ad62912c6f7e3d7931c377e]: Textual amendment: Words in [reg. 3(2)(b)](https://www.legislation.gov.uk/uksi/2006/2522/regulation/3/2/b) substituted (24.8.2011) by [The Town and Country Planning (Environmental Impact Assessment) Regulations 2011 (S.I. 2011/1824)](https://www.legislation.gov.uk/uksi/2011/1824), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1824/regulation/1/1), [Sch. 6 para. 14](https://www.legislation.gov.uk/uksi/2011/1824/schedule/6/paragraph/14)
+
+[^f00016]: Footnote: [S.I. 1999/1783](https://www.legislation.gov.uk/uksi/1999/1783), amended by section 73(2) of the Countryside and Rights of Way Act [2000 (c. 37)](https://www.legislation.gov.uk/ukpga/2000/37) and by [S.I. 2005/1399](https://www.legislation.gov.uk/uksi/2005/1399) and [2006/618](https://www.legislation.gov.uk/uksi/2006/618).
+
+[^f00017]: Footnote: [S.I. 2003/164](https://www.legislation.gov.uk/uksi/2003/164).
+
+[^key-3d4914ec777aa303242ab615abfb025c]: Textual amendment: Word in [reg. 3(2)(d)](https://www.legislation.gov.uk/uksi/2006/2522/regulation/3/2/d) inserted (16.5.2017) by [The Environmental Impact Assessment (Agriculture) (England) (No. 2) (Amendment) Regulations 2017 (S.I. 2017/593)](https://www.legislation.gov.uk/uksi/2017/593), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/593/regulation/1/1), [4(3)](https://www.legislation.gov.uk/uksi/2017/593/regulation/4/3) (with [reg. 19](https://www.legislation.gov.uk/uksi/2017/593/regulation/19))
+
+[^f00018]: Footnote: [S.I. 1997/1160](https://www.legislation.gov.uk/uksi/1997/1160).
+
+[^key-378b5b12233940a359b583a35d577c12]: Textual amendment: Word in [reg. 3(2)(e)](https://www.legislation.gov.uk/uksi/2006/2522/regulation/3/2/e) omitted (16.5.2017) by virtue of [The Environmental Impact Assessment (Agriculture) (England) (No. 2) (Amendment) Regulations 2017 (S.I. 2017/593)](https://www.legislation.gov.uk/uksi/2017/593), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/593/regulation/1/1), [4(4)](https://www.legislation.gov.uk/uksi/2017/593/regulation/4/4) (with [reg. 19](https://www.legislation.gov.uk/uksi/2017/593/regulation/19))
+
+[^key-28251e44b05c2245fe30a2d33397eadf]: Textual amendment: [Reg. 3(2)(f)](https://www.legislation.gov.uk/uksi/2006/2522/regulation/3/2/f) omitted (16.5.2017) by virtue of [The Environmental Impact Assessment (Agriculture) (England) (No. 2) (Amendment) Regulations 2017 (S.I. 2017/593)](https://www.legislation.gov.uk/uksi/2017/593), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/593/regulation/1/1), [4(5)](https://www.legislation.gov.uk/uksi/2017/593/regulation/4/5) (with [reg. 19](https://www.legislation.gov.uk/uksi/2017/593/regulation/19))
+
+[^key-1aa2894a671bace7ec2659e530d8f37e]: Textual amendment: [Reg. 3(3)-(5)](https://www.legislation.gov.uk/uksi/2006/2522/regulation/3/3) omitted (16.5.2017) by virtue of [The Environmental Impact Assessment (Agriculture) (England) (No. 2) (Amendment) Regulations 2017 (S.I. 2017/593)](https://www.legislation.gov.uk/uksi/2017/593), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/593/regulation/1/1), [4(5)](https://www.legislation.gov.uk/uksi/2017/593/regulation/4/5) (with [reg. 19](https://www.legislation.gov.uk/uksi/2017/593/regulation/19))
+
+[^key-52dd3f767d5a6fc404cc2d17647a4005]: Textual amendment: [Regs. 3A-3C](https://www.legislation.gov.uk/uksi/2006/2522/regulation/3A) inserted (16.5.2017) by [The Environmental Impact Assessment (Agriculture) (England) (No. 2) (Amendment) Regulations 2017 (S.I. 2017/593)](https://www.legislation.gov.uk/uksi/2017/593), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/593/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2017/593/regulation/5) (with [reg. 19](https://www.legislation.gov.uk/uksi/2017/593/regulation/19))
+
+[^key-c54ba5f0700af20128dd83cfa756bf88]: Textual amendment: Word in [reg. 3B(1)(d)](https://www.legislation.gov.uk/uksi/2006/2522/regulation/3B/1/d) substituted (31.12.2020) by [The Environment, Food and Rural Affairs (Environmental Impact Assessment) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/25)](https://www.legislation.gov.uk/uksi/2019/25), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/25/regulation/1/1), [5(3)](https://www.legislation.gov.uk/uksi/2019/25/regulation/5/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-b38b3816a35e8efb4e5367c647c1355a]: Textual amendment: Words in [reg. 3C](https://www.legislation.gov.uk/uksi/2006/2522/regulation/3C) substituted (30.11.2017) by [The Conservation of Habitats and Species Regulations 2017 (S.I. 2017/1012)](https://www.legislation.gov.uk/uksi/2017/1012), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/1/2), [Sch. 6 para. 15(3)](https://www.legislation.gov.uk/uksi/2017/1012/schedule/6/paragraph/15/3)
+
+[^key-161b80f73ad140d12ef753f6de3b806f]: Commencement: Reg. 4 in force at 10.10.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/2522/regulation/1/2)
+
+[^key-8fb772583e32fe92c1a1cd6fb3e83379]: Commencement: Reg. 5 in force at 10.10.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/2522/regulation/1/2)
+
+[^f00020]: Footnote: See section 1(1) of the National Parks and Access to the Countryside Act [1949 (c. 97)](https://www.legislation.gov.uk/ukpga/1949/97) (as substituted by section 130 of, and paragraph 1 of Schedule 8 to, the Environmental Protection Act [1990 (c. 43)](https://www.legislation.gov.uk/ukpga/1990/43)) and the Development Commission (Transfer of Functions and Miscellaneous Provisions) Order 1999 ([S.I. 1999/416](https://www.legislation.gov.uk/uksi/1999/416)). See also section 1(4) of the Natural Environment and Rural Communities Act [2006 (c. 16)](https://www.legislation.gov.uk/ukpga/2006/16), which provides for the dissolution of the Countryside Agency.
+
+[^f00021]: Footnote: [2000 c. 37](https://www.legislation.gov.uk/ukpga/2000/37). Orders designating areas of outstanding natural beauty made before the coming into force of section 82 of the 2000 Act are treated as having been made under section 82 by virtue of paragraph 16 of Schedule 15 to that Act. The Countryside Agency’s function of designating areas of outstanding natural beauty is transferred to Natural England by the Natural Environment and Rural Communities Act [2006 (c. 16)](https://www.legislation.gov.uk/ukpga/2006/16), Schedule 11, paragraph 163.
+
+[^f00022]: Footnote: See section 2(3) of the Norfolk and Suffolk Broads Act [1988 (c. 4)](https://www.legislation.gov.uk/ukpga/1988/4).
+
+[^f00023]: Footnote: [1949 c. 97](https://www.legislation.gov.uk/ukpga/1949/97). Relevant amendments were made by the Environment Act [1995 (c. 25)](https://www.legislation.gov.uk/ukpga/1995/25), Schedule 10, paragraph 2.
+
+[^f00024]: Footnote: [1979 c. 46](https://www.legislation.gov.uk/ukpga/1979/46).
+
+[^key-da294e9a8fcfd306eeaf447feab64a5e]: Commencement: Reg. 6 in force at 10.10.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/2522/regulation/1/2)
+
+[^f00025]: Footnote: [1990 c. 8](https://www.legislation.gov.uk/ukpga/1990/8). Section 329 was amended in relation to England by [S.I. 2003/956](https://www.legislation.gov.uk/uksi/2003/956); there are other amending instruments, but none is relevant.
+
+[^key-fd75c5ce361ee84c557b8a2e43e05942]: Commencement: Reg. 7 in force at 10.10.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/2522/regulation/1/2)
+
+[^key-4b8f80f2e6543fd89e06be6c098eddba]: Textual amendment: [Reg. 7(1)(b)](https://www.legislation.gov.uk/uksi/2006/2522/regulation/7/1/b) substituted (16.5.2017) by [The Environmental Impact Assessment (Agriculture) (England) (No. 2) (Amendment) Regulations 2017 (S.I. 2017/593)](https://www.legislation.gov.uk/uksi/2017/593), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/593/regulation/1/1), [6(2)(a)](https://www.legislation.gov.uk/uksi/2017/593/regulation/6/2/a) (with [reg. 19](https://www.legislation.gov.uk/uksi/2017/593/regulation/19))
+
+[^key-f3c42c53fa7270d5847fe77ccd9516f8]: Textual amendment: [Reg. 7(1)(c)](https://www.legislation.gov.uk/uksi/2006/2522/regulation/7/1/c)[(d)](https://www.legislation.gov.uk/uksi/2006/2522/regulation/7/1/d) omitted (16.5.2017) by virtue of [The Environmental Impact Assessment (Agriculture) (England) (No. 2) (Amendment) Regulations 2017 (S.I. 2017/593)](https://www.legislation.gov.uk/uksi/2017/593), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/593/regulation/1/1), [6(2)(b)](https://www.legislation.gov.uk/uksi/2017/593/regulation/6/2/b) (with [reg. 19](https://www.legislation.gov.uk/uksi/2017/593/regulation/19))
+
+[^key-7053abb6a57532fc0df8c234978bc73c]: Textual amendment: [Reg. 7(1A)](https://www.legislation.gov.uk/uksi/2006/2522/regulation/7/1A) inserted (16.5.2017) by [The Environmental Impact Assessment (Agriculture) (England) (No. 2) (Amendment) Regulations 2017 (S.I. 2017/593)](https://www.legislation.gov.uk/uksi/2017/593), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/593/regulation/1/1), [6(3)](https://www.legislation.gov.uk/uksi/2017/593/regulation/6/3) (with [reg. 19](https://www.legislation.gov.uk/uksi/2017/593/regulation/19))
+
+[^key-7fdbd55cbf398fecfc17f1fea424bde0]: Commencement: Reg. 8 in force at 10.10.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/2522/regulation/1/2)
+
+[^key-60e4a7668bb0cee696572590c51ff36d]: Textual amendment: [Reg. 8(1A)](https://www.legislation.gov.uk/uksi/2006/2522/regulation/8/1A) inserted (16.5.2017) by [The Environmental Impact Assessment (Agriculture) (England) (No. 2) (Amendment) Regulations 2017 (S.I. 2017/593)](https://www.legislation.gov.uk/uksi/2017/593), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/593/regulation/1/1), [7(2)](https://www.legislation.gov.uk/uksi/2017/593/regulation/7/2) (with [reg. 19](https://www.legislation.gov.uk/uksi/2017/593/regulation/19))
+
+[^key-6c020dd1a66de13a26a144f47ea5a227]: Textual amendment: [Reg. 8(4)(a)](https://www.legislation.gov.uk/uksi/2006/2522/regulation/8/4/a) substituted (16.5.2017) by [The Environmental Impact Assessment (Agriculture) (England) (No. 2) (Amendment) Regulations 2017 (S.I. 2017/593)](https://www.legislation.gov.uk/uksi/2017/593), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/593/regulation/1/1), [7(3)](https://www.legislation.gov.uk/uksi/2017/593/regulation/7/3) (with [reg. 19](https://www.legislation.gov.uk/uksi/2017/593/regulation/19))
+
+[^key-8cef3aef9325f11d1e9483333109643d]: Textual amendment: Words in [reg. 8(4)(b)](https://www.legislation.gov.uk/uksi/2006/2522/regulation/8/4/b) substituted (16.5.2017) by [The Environmental Impact Assessment (Agriculture) (England) (No. 2) (Amendment) Regulations 2017 (S.I. 2017/593)](https://www.legislation.gov.uk/uksi/2017/593), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/593/regulation/1/1), [7(4)](https://www.legislation.gov.uk/uksi/2017/593/regulation/7/4) (with [reg. 19](https://www.legislation.gov.uk/uksi/2017/593/regulation/19))
+
+[^key-89fb2c7f348aff91a7c62cb8e1b2669d]: Textual amendment: Words in [reg. 8(4)(c)](https://www.legislation.gov.uk/uksi/2006/2522/regulation/8/4/c) substituted (16.5.2017) by [The Environmental Impact Assessment (Agriculture) (England) (No. 2) (Amendment) Regulations 2017 (S.I. 2017/593)](https://www.legislation.gov.uk/uksi/2017/593), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/593/regulation/1/1), [7(5)](https://www.legislation.gov.uk/uksi/2017/593/regulation/7/5) (with [reg. 19](https://www.legislation.gov.uk/uksi/2017/593/regulation/19))
+
+[^key-2d43d5f42b21df7d05f4e3d9290ea52a]: Textual amendment: [Reg. 8(5)](https://www.legislation.gov.uk/uksi/2006/2522/regulation/8/5)[(5A)](https://www.legislation.gov.uk/uksi/2006/2522/regulation/8/5A) substituted for [reg. 8(5)](https://www.legislation.gov.uk/uksi/2006/2522/regulation/8/5) (16.5.2017) by [The Environmental Impact Assessment (Agriculture) (England) (No. 2) (Amendment) Regulations 2017 (S.I. 2017/593)](https://www.legislation.gov.uk/uksi/2017/593), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/593/regulation/1/1), [7(6)](https://www.legislation.gov.uk/uksi/2017/593/regulation/7/6) (with [reg. 19](https://www.legislation.gov.uk/uksi/2017/593/regulation/19))
+
+[^key-0a649c8b81e9ab9c49d75713729e11d2]: Commencement: Reg. 9 in force at 10.10.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/2522/regulation/1/2)
+
+[^key-ac0315e07a149c14416c9075a5a708c4]: Commencement: Reg. 10 in force at 10.10.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/2522/regulation/1/2)
+
+[^key-6c493bde8be39efb78bdcb4c6edaa88d]: Textual amendment: Words in [reg. 10(1)](https://www.legislation.gov.uk/uksi/2006/2522/regulation/10/1) substituted (16.5.2017) by [The Environmental Impact Assessment (Agriculture) (England) (No. 2) (Amendment) Regulations 2017 (S.I. 2017/593)](https://www.legislation.gov.uk/uksi/2017/593), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/593/regulation/1/1), [8(2)](https://www.legislation.gov.uk/uksi/2017/593/regulation/8/2) (with [reg. 19](https://www.legislation.gov.uk/uksi/2017/593/regulation/19))
+
+[^key-6a5174b25ebf082284e2df086b383d2e]: Textual amendment: [Reg. 10(1A)](https://www.legislation.gov.uk/uksi/2006/2522/regulation/10/1A) inserted (16.5.2017) by [The Environmental Impact Assessment (Agriculture) (England) (No. 2) (Amendment) Regulations 2017 (S.I. 2017/593)](https://www.legislation.gov.uk/uksi/2017/593), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/593/regulation/1/1), [8(3)](https://www.legislation.gov.uk/uksi/2017/593/regulation/8/3) (with [reg. 19](https://www.legislation.gov.uk/uksi/2017/593/regulation/19))
+
+[^key-c8d42da3615a42cc7cc850a62112d624]: Commencement: Reg. 11 in force at 10.10.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/2522/regulation/1/2)
+
+[^f00026]: Footnote: [S.I. 2004/3391](https://www.legislation.gov.uk/uksi/2004/3391).
+
+[^key-fc74ba393875a53b2e3d18144cd7f5da]: Commencement: Reg. 12 in force at 10.10.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/2522/regulation/1/2)
+
+[^key-0148baed6de1d5823e1548026895b810]: Textual amendment: [Reg. 12(1)](https://www.legislation.gov.uk/uksi/2006/2522/regulation/12/1)[(1A)](https://www.legislation.gov.uk/uksi/2006/2522/regulation/12/1A) substituted for [reg. 12(1)](https://www.legislation.gov.uk/uksi/2006/2522/regulation/12/1) (16.5.2017) by [The Environmental Impact Assessment (Agriculture) (England) (No. 2) (Amendment) Regulations 2017 (S.I. 2017/593)](https://www.legislation.gov.uk/uksi/2017/593), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/593/regulation/1/1), [9(2)](https://www.legislation.gov.uk/uksi/2017/593/regulation/9/2) (with [reg. 19](https://www.legislation.gov.uk/uksi/2017/593/regulation/19))
+
+[^key-61cf3328ada75612b48c41c7946b5725]: Textual amendment: [Reg. 12(5)(d)](https://www.legislation.gov.uk/uksi/2006/2522/regulation/12/5/d) substituted (16.5.2017) by [The Environmental Impact Assessment (Agriculture) (England) (No. 2) (Amendment) Regulations 2017 (S.I. 2017/593)](https://www.legislation.gov.uk/uksi/2017/593), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/593/regulation/1/1), [9(3)](https://www.legislation.gov.uk/uksi/2017/593/regulation/9/3) (with [reg. 19](https://www.legislation.gov.uk/uksi/2017/593/regulation/19))
+
+[^key-e1f2eea2c71aba639d73d61dac4ce201]: Textual amendment: Word in [reg. 12(5)(e)](https://www.legislation.gov.uk/uksi/2006/2522/regulation/12/5/e) omitted (31.12.2020) by virtue of [The Environment, Food and Rural Affairs (Environmental Impact Assessment) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/25)](https://www.legislation.gov.uk/uksi/2019/25), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/25/regulation/1/1), [5(4)(a)](https://www.legislation.gov.uk/uksi/2019/25/regulation/5/4/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-5f52279cb823ea7d21a8c9986bc2a93c]: Textual amendment: Words in [reg. 12(5)(e)](https://www.legislation.gov.uk/uksi/2006/2522/regulation/12/5/e) substituted (31.12.2020) by [The Environment, Food and Rural Affairs (Environmental Impact Assessment) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/25)](https://www.legislation.gov.uk/uksi/2019/25), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/25/regulation/1/1), [5(4)(b)](https://www.legislation.gov.uk/uksi/2019/25/regulation/5/4/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-b26a609e304793fec725a2cc1fe789ff]: Commencement: Reg. 13 in force at 10.10.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/2522/regulation/1/2)
+
+[^key-70f87d5dad306ac3345b9414733b404c]: Commencement: Reg. 14 in force at 10.10.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/2522/regulation/1/2)
+
+[^key-cb55c649cf21262bdddca67e9bf1f9ee]: Textual amendment: Word in [reg. 14](https://www.legislation.gov.uk/uksi/2006/2522/regulation/14) heading substituted (31.12.2020) by [The Environment, Food and Rural Affairs (Environmental Impact Assessment) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/25)](https://www.legislation.gov.uk/uksi/2019/25), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/25/regulation/1/1), [5(5)(a)](https://www.legislation.gov.uk/uksi/2019/25/regulation/5/5/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-d9da80af0a6b6f8621d3104f3f24eadd]: Textual amendment: Word in [reg. 14(1)](https://www.legislation.gov.uk/uksi/2006/2522/regulation/14/1) substituted (31.12.2020) by [The Environment, Food and Rural Affairs (Environmental Impact Assessment) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/25)](https://www.legislation.gov.uk/uksi/2019/25), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/25/regulation/1/1), [5(5)(b)](https://www.legislation.gov.uk/uksi/2019/25/regulation/5/5/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-5be463ba132698a70bbbc1ce629072ea]: Textual amendment: Words in [reg. 14(5)(a)](https://www.legislation.gov.uk/uksi/2006/2522/regulation/14/5/a) substituted (31.12.2020) by [The Environment, Food and Rural Affairs (Environmental Impact Assessment) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/25)](https://www.legislation.gov.uk/uksi/2019/25), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/25/regulation/1/1), [5(5)(c)](https://www.legislation.gov.uk/uksi/2019/25/regulation/5/5/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-0047f165f7b6bf36acdcf52b08d959f5]: Textual amendment: Words in [reg. 14(6)](https://www.legislation.gov.uk/uksi/2006/2522/regulation/14/6) omitted (31.12.2020) by virtue of [The Environment, Food and Rural Affairs (Environmental Impact Assessment) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/25)](https://www.legislation.gov.uk/uksi/2019/25), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/25/regulation/1/1), [5(5)(d)](https://www.legislation.gov.uk/uksi/2019/25/regulation/5/5/d); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-65b0a9ef04278570f67166ac537e4755]: Commencement: Reg. 15 in force at 10.10.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/2522/regulation/1/2)
+
+[^key-622716d432e19dec75fefcb8e44241ca]: Textual amendment: Word in [reg. 15](https://www.legislation.gov.uk/uksi/2006/2522/regulation/15) heading substituted (31.12.2020) by [The Environment, Food and Rural Affairs (Environmental Impact Assessment) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/25)](https://www.legislation.gov.uk/uksi/2019/25), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/25/regulation/1/1), [5(6)(a)](https://www.legislation.gov.uk/uksi/2019/25/regulation/5/6/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-06e13fb011f166a518c4f29bf4fbc1ae]: Textual amendment: Word in [reg. 15(1)](https://www.legislation.gov.uk/uksi/2006/2522/regulation/15/1) substituted (31.12.2020) by [The Environment, Food and Rural Affairs (Environmental Impact Assessment) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/25)](https://www.legislation.gov.uk/uksi/2019/25), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/25/regulation/1/1), [5(6)(b)(i)](https://www.legislation.gov.uk/uksi/2019/25/regulation/5/6/b/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-ec27b9b778afcd130161ec08fece5614]: Textual amendment: Words in [reg. 15(1)](https://www.legislation.gov.uk/uksi/2006/2522/regulation/15/1) omitted (31.12.2020) by virtue of [The Environment, Food and Rural Affairs (Environmental Impact Assessment) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/25)](https://www.legislation.gov.uk/uksi/2019/25), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/25/regulation/1/1), [5(6)(b)(ii)](https://www.legislation.gov.uk/uksi/2019/25/regulation/5/6/b/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-58c803eee226a366dad496cc35a915c4]: Textual amendment: Words in [reg. 15(1)(b)](https://www.legislation.gov.uk/uksi/2006/2522/regulation/15/1/b) inserted (31.12.2020) by [The Environment, Food and Rural Affairs (Environmental Impact Assessment) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/25)](https://www.legislation.gov.uk/uksi/2019/25), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/25/regulation/1/1), [5(6)(b)(iii)](https://www.legislation.gov.uk/uksi/2019/25/regulation/5/6/b/iii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-a94d0fc3b491bcc86909a349ef19260d]: Textual amendment: Words in [reg. 15(2)](https://www.legislation.gov.uk/uksi/2006/2522/regulation/15/2) omitted (31.12.2020) by virtue of [The Environment, Food and Rural Affairs (Environmental Impact Assessment) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/25)](https://www.legislation.gov.uk/uksi/2019/25), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/25/regulation/1/1), [5(6)(c)](https://www.legislation.gov.uk/uksi/2019/25/regulation/5/6/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-a7652c08fd07e4aecf450ddec271e6f1]: Textual amendment: Word in [reg. 15(3)](https://www.legislation.gov.uk/uksi/2006/2522/regulation/15/3) substituted (31.12.2020) by [The Environment, Food and Rural Affairs (Environmental Impact Assessment) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/25)](https://www.legislation.gov.uk/uksi/2019/25), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/25/regulation/1/1), [5(6)(d)(i)](https://www.legislation.gov.uk/uksi/2019/25/regulation/5/6/d/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-3455de7a25be0af40c54390561227525]: Textual amendment: Words in [reg. 15(3)](https://www.legislation.gov.uk/uksi/2006/2522/regulation/15/3) omitted (31.12.2020) by virtue of [The Environment, Food and Rural Affairs (Environmental Impact Assessment) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/25)](https://www.legislation.gov.uk/uksi/2019/25), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/25/regulation/1/1), [5(6)(d)(ii)](https://www.legislation.gov.uk/uksi/2019/25/regulation/5/6/d/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-1fe9cba69e253a6df299f8edba693973]: Textual amendment: [Reg. 15A](https://www.legislation.gov.uk/uksi/2006/2522/regulation/15A) inserted (16.5.2017) by [The Environmental Impact Assessment (Agriculture) (England) (No. 2) (Amendment) Regulations 2017 (S.I. 2017/593)](https://www.legislation.gov.uk/uksi/2017/593), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/593/regulation/1/1), [10](https://www.legislation.gov.uk/uksi/2017/593/regulation/10) (with [reg. 19](https://www.legislation.gov.uk/uksi/2017/593/regulation/19))
+
+[^key-6a465efdca00569731d86ded551bc5df]: Textual amendment: Words in [reg. 15A(2)(b)](https://www.legislation.gov.uk/uksi/2006/2522/regulation/15A/2/b) inserted (31.12.2020) by [The Environment, Food and Rural Affairs (Environmental Impact Assessment) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/25)](https://www.legislation.gov.uk/uksi/2019/25), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/25/regulation/1/1), [5(7)](https://www.legislation.gov.uk/uksi/2019/25/regulation/5/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-e9caa792386a03b3b281b75808561133]: Textual amendment: [Reg. 16](https://www.legislation.gov.uk/uksi/2006/2522/regulation/16) substituted (16.5.2017) by [The Environmental Impact Assessment (Agriculture) (England) (No. 2) (Amendment) Regulations 2017 (S.I. 2017/593)](https://www.legislation.gov.uk/uksi/2017/593), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/593/regulation/1/1), [11](https://www.legislation.gov.uk/uksi/2017/593/regulation/11) (with [reg. 19](https://www.legislation.gov.uk/uksi/2017/593/regulation/19))
+
+[^key-3a301b8927b357a7ebec7f7310112bd2]: Textual amendment: Word in [reg. 16(4)(c)](https://www.legislation.gov.uk/uksi/2006/2522/regulation/16/4/c) substituted (31.12.2020) by [The Environment, Food and Rural Affairs (Environmental Impact Assessment) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/25)](https://www.legislation.gov.uk/uksi/2019/25), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/25/regulation/1/1), [5(8)](https://www.legislation.gov.uk/uksi/2019/25/regulation/5/8); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-d24fc363cfde1ec2fd0f32f6f6539824]: Commencement: Reg. 17 in force at 10.10.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/2522/regulation/1/2)
+
+[^key-ba79b8ce69c5e862985bfa13b3c1e2db]: Textual amendment: Words in [reg. 17(1)](https://www.legislation.gov.uk/uksi/2006/2522/regulation/17/1) substituted (30.11.2017) by [The Conservation of Habitats and Species Regulations 2017 (S.I. 2017/1012)](https://www.legislation.gov.uk/uksi/2017/1012), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/1/2), [Sch. 6 para. 15(4)(a)](https://www.legislation.gov.uk/uksi/2017/1012/schedule/6/paragraph/15/4/a)
+
+[^f00027]: Footnote: [S.I. 1994/2716](https://www.legislation.gov.uk/uksi/1994/2716); regulations 39, 41, 43 and 44 have been amended, but the amendments do not apply to England.
+
+[^key-a1f1c939b934e5cd4a8d1820eb00fcdb]: Textual amendment: Words in [reg. 17(1)](https://www.legislation.gov.uk/uksi/2006/2522/regulation/17/1) substituted (30.11.2017) by [The Conservation of Habitats and Species Regulations 2017 (S.I. 2017/1012)](https://www.legislation.gov.uk/uksi/2017/1012), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/1/2), [Sch. 6 para. 15(4)(b)](https://www.legislation.gov.uk/uksi/2017/1012/schedule/6/paragraph/15/4/b)
+
+[^key-081595f92e1a7ba4cf5b2f924947d5fe]: Textual amendment: Words in [reg. 17(5)(b)](https://www.legislation.gov.uk/uksi/2006/2522/regulation/17/5/b) substituted (31.12.2020) by [The Environment, Food and Rural Affairs (Environmental Impact Assessment) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/25)](https://www.legislation.gov.uk/uksi/2019/25), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/25/regulation/1/1), [5(9)](https://www.legislation.gov.uk/uksi/2019/25/regulation/5/9); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-9b6ff12fd0f1f3f74ae118693d604c4d]: Textual amendment: Word in [reg. 17(6)](https://www.legislation.gov.uk/uksi/2006/2522/regulation/17/6) substituted (16.5.2017) by [The Environmental Impact Assessment (Agriculture) (England) (No. 2) (Amendment) Regulations 2017 (S.I. 2017/593)](https://www.legislation.gov.uk/uksi/2017/593), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/593/regulation/1/1), [12(3)](https://www.legislation.gov.uk/uksi/2017/593/regulation/12/3) (with [reg. 19](https://www.legislation.gov.uk/uksi/2017/593/regulation/19))
+
+[^key-6fa2c7ae5becb23f46468ab89dcbabc9]: Commencement: Reg. 18 in force at 10.10.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/2522/regulation/1/2)
+
+[^key-757dd9be33a0b7ee3313c8d24b59d499]: Textual amendment: [Reg. 18(1A)](https://www.legislation.gov.uk/uksi/2006/2522/regulation/18/1A) inserted (16.5.2017) by [The Environmental Impact Assessment (Agriculture) (England) (No. 2) (Amendment) Regulations 2017 (S.I. 2017/593)](https://www.legislation.gov.uk/uksi/2017/593), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/593/regulation/1/1), [13](https://www.legislation.gov.uk/uksi/2017/593/regulation/13) (with [reg. 19](https://www.legislation.gov.uk/uksi/2017/593/regulation/19))
+
+[^key-b306e5285c08dc57482fa5cb15e9bf7f]: Textual amendment: [Reg. 19](https://www.legislation.gov.uk/uksi/2006/2522/regulation/19) substituted (16.5.2017) by [The Environmental Impact Assessment (Agriculture) (England) (No. 2) (Amendment) Regulations 2017 (S.I. 2017/593)](https://www.legislation.gov.uk/uksi/2017/593), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/593/regulation/1/1), [14](https://www.legislation.gov.uk/uksi/2017/593/regulation/14) (with [reg. 19](https://www.legislation.gov.uk/uksi/2017/593/regulation/19))
+
+[^key-8772f89190c20a617705d319e9ccba66]: Commencement: Reg. 20 in force at 10.10.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/2522/regulation/1/2)
+
+[^key-10e1191b5b82ae00fcc5e06d0f317a94]: Commencement: Reg. 21 in force at 10.10.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/2522/regulation/1/2)
+
+[^key-2b2fd6ca3755a4de8f7753b0c56b4637]: Commencement: Reg. 22 in force at 10.10.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/2522/regulation/1/2)
+
+[^key-ec2c14f7cbe80f8ded09f3a557ba6edb]: Commencement: Reg. 23 in force at 10.10.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/2522/regulation/1/2)
+
+[^key-5d2d6798b6eed39db74f23b14095d0d5]: Commencement: Reg. 24 in force at 10.10.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/2522/regulation/1/2)
+
+[^key-b7abb419626844368dce1f695598aa28]: Commencement: Reg. 25 in force at 10.10.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/2522/regulation/1/2)
+
+[^key-004ac7368420687e722022bae81776b3]: Commencement: Reg. 26 in force at 10.10.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/2522/regulation/1/2)
+
+[^key-6b1c0b408c9034d5708b1afa53c5cc06]: Commencement: Reg. 27 in force at 10.10.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/2522/regulation/1/2)
+
+[^key-69e246012bcc02b0d95d3912286c2108]: Commencement: Reg. 28 in force at 10.10.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/2522/regulation/1/2)
+
+[^key-7b10ad4c0aa30254b94ce8af5d00e8ac]: Commencement: Reg. 29 in force at 10.10.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/2522/regulation/1/2)
+
+[^key-d56d43798f06b7ff209423606891f631]: Commencement: Reg. 30 in force at 10.10.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/2522/regulation/1/2)
+
+[^key-471eea3f28e60ac5556f29a670aca05a]: Textual amendment: [Reg. 30A](https://www.legislation.gov.uk/uksi/2006/2522/regulation/30A) inserted (6.4.2010) by [The Environmental Civil Sanctions (Miscellaneous Amendments) (England) Regulations 2010 (S.I. 2010/1159)](https://www.legislation.gov.uk/uksi/2010/1159), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1159/regulation/1), [7](https://www.legislation.gov.uk/uksi/2010/1159/regulation/7)
+
+[^key-b24439caffa8044fe95f45033e387369]: Commencement: Reg. 31 in force at 10.10.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/2522/regulation/1/2)
+
+[^key-75bdf937318035e52d4f288c52452186]: Textual amendment: [Reg. 31(3A)](https://www.legislation.gov.uk/uksi/2006/2522/regulation/31/3A) inserted (16.5.2017) by [The Environmental Impact Assessment (Agriculture) (England) (No. 2) (Amendment) Regulations 2017 (S.I. 2017/593)](https://www.legislation.gov.uk/uksi/2017/593), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/593/regulation/1/1), [15](https://www.legislation.gov.uk/uksi/2017/593/regulation/15) (with [reg. 19](https://www.legislation.gov.uk/uksi/2017/593/regulation/19))
+
+[^key-d20d504c8a59ffbffc7a084f0d85a822]: Commencement: Reg. 32 in force at 10.10.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/2522/regulation/1/2)
+
+[^f00028]: Footnote: [1972 c. 70](https://www.legislation.gov.uk/ukpga/1972/70); section 250 was amended by the Criminal Justice Act [1982 (c. 48)](https://www.legislation.gov.uk/ukpga/1982/48), sections 37, 38 and 46, the Housing and Planning Act [1986 (c. 63)](https://www.legislation.gov.uk/ukpga/1986/63), section 49(2) and Schedule 12, Part 3 and by the Statute Law (Repeals) Act [1989 (c. 43)](https://www.legislation.gov.uk/ukpga/1989/43), section 1 and the Schedule, Part 4.
+
+[^f00029]: Footnote: [1990 c. 8](https://www.legislation.gov.uk/ukpga/1990/8). Section 332A was inserted by the Planning and Compensation Act [1991 (c. 34)](https://www.legislation.gov.uk/ukpga/1991/34), section 30(1).
+
+[^key-809b1fcf6f1c32292defb44df28b41ef]: Commencement: Reg. 33 in force at 10.10.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/2522/regulation/1/2)
+
+[^key-d3716a4c12d86c4d8753bc62ec33b8ae]: Commencement: Reg. 34 in force at 10.10.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/2522/regulation/1/2)
+
+[^key-59fdb3ecd8be4612b80159a2594f5685]: Commencement: Reg. 35 in force at 10.10.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/2522/regulation/1/2)
+
+[^key-9a7cc983439b2197c8a034044c5254ee]: Commencement: Reg. 36 in force at 10.10.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/2522/regulation/1/2)
+
+[^key-0b14e36001391064a38d9a0f5dd8f3b8]: Textual amendment: [Reg. 37](https://www.legislation.gov.uk/uksi/2006/2522/regulation/37) revoked (1.1.2010) by [The Agriculture (Cross compliance) Regulations 2009 (S.I. 2009/3264)](https://www.legislation.gov.uk/uksi/2009/3264), [regs. 1](https://www.legislation.gov.uk/uksi/2009/3264/regulation/1), [8](https://www.legislation.gov.uk/uksi/2009/3264/regulation/8), [Sch. 3](https://www.legislation.gov.uk/uksi/2009/3264/schedule/3)
+
+[^key-fff1ea5f158283ae3f988de3df2a71cd]: Textual amendment: [Reg. 37A](https://www.legislation.gov.uk/uksi/2006/2522/regulation/37A) inserted (16.5.2017) by [The Environmental Impact Assessment (Agriculture) (England) (No. 2) (Amendment) Regulations 2017 (S.I. 2017/593)](https://www.legislation.gov.uk/uksi/2017/593), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/593/regulation/1/1), [16](https://www.legislation.gov.uk/uksi/2017/593/regulation/16) (with [reg. 19](https://www.legislation.gov.uk/uksi/2017/593/regulation/19))
+
+[^key-f3998c402c302f250361d00c42d56575]: Commencement: Reg. 38(a)(b) in force at 10.10.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/2522/regulation/1/2)
+
+[^key-32fd343daac32a3c6e8d95e138f8cb7c]: Commencement: Reg. 38(c) in force at 30.9.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/2522/regulation/1/2)
+
+[^f00031]: Footnote: [S.I. 2001/3966](https://www.legislation.gov.uk/uksi/2001/3966), amended by [S.I. 2005/1430](https://www.legislation.gov.uk/uksi/2005/1430).
+
+[^f00032]: Footnote: [S.I. 2005/1430](https://www.legislation.gov.uk/uksi/2005/1430).
+
+[^f00033]: Footnote: [S.I. 2006/2362](https://www.legislation.gov.uk/uksi/2006/2362).
+
+[^key-269755e0f26284bf6b3e630e2b9cce9e]: Commencement: Reg. 39 in force at 10.10.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/2522/regulation/1/2)
+
+[^key-ff136104376e44151e89b47f7ffbc222]: Commencement: Sch. 1 in force at 10.10.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/2522/regulation/1/2)
+
+[^key-8a8709774a92a2e5b54277de7cfb9d4a]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/2006/2522/schedule/2) substituted (16.5.2017) by [The Environmental Impact Assessment (Agriculture) (England) (No. 2) (Amendment) Regulations 2017 (S.I. 2017/593)](https://www.legislation.gov.uk/uksi/2017/593), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/593/regulation/1/1), [17](https://www.legislation.gov.uk/uksi/2017/593/regulation/17), [Sch. 1](https://www.legislation.gov.uk/uksi/2017/593/schedule/1) (with [reg. 19](https://www.legislation.gov.uk/uksi/2017/593/regulation/19))
+
+[^key-80cbef23db718ec949c91502406aeff1]: Textual amendment: Words in [Sch. 2 para. 2(c)(vi)](https://www.legislation.gov.uk/uksi/2006/2522/schedule/2/paragraph/2/c/vi) inserted (31.12.2020) by [The Environment, Food and Rural Affairs (Environmental Impact Assessment) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/25)](https://www.legislation.gov.uk/uksi/2019/25), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/25/regulation/1/1), [5(10)](https://www.legislation.gov.uk/uksi/2019/25/regulation/5/10); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-b477f88ff2bb2853ad0ff16feb008c5d]: Textual amendment: Word in [Sch. 2 para. 2(c)(vi)](https://www.legislation.gov.uk/uksi/2006/2522/schedule/2/paragraph/2/c/vi) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 12(b)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/12/b)
+
+[^key-7fab6b42f6dc041416d2d7f199f3733e]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/uksi/2006/2522/schedule/3) substituted (16.5.2017) by [The Environmental Impact Assessment (Agriculture) (England) (No. 2) (Amendment) Regulations 2017 (S.I. 2017/593)](https://www.legislation.gov.uk/uksi/2017/593), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/593/regulation/1/1), [18](https://www.legislation.gov.uk/uksi/2017/593/regulation/18), [Sch. 2](https://www.legislation.gov.uk/uksi/2017/593/schedule/2) (with [reg. 19](https://www.legislation.gov.uk/uksi/2017/593/regulation/19))
+
+[^key-cbdc20ed1aea50a66e71f09aefac39b1]: Textual amendment: Words in [Sch. 3 para. 6](https://www.legislation.gov.uk/uksi/2006/2522/schedule/3/paragraph/6) substituted (31.12.2020) by [The Environment, Food and Rural Affairs (Environmental Impact Assessment) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/25)](https://www.legislation.gov.uk/uksi/2019/25), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/25/regulation/1/1), [5(11)(a)](https://www.legislation.gov.uk/uksi/2019/25/regulation/5/11/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-29c906daec2bdba72559c5e992e99ba7]: Textual amendment: Word in [Sch. 3 para. 6](https://www.legislation.gov.uk/uksi/2006/2522/schedule/3/paragraph/6) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 12(c)(i)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/12/c/i)
+
+[^key-2db98519da92c8180b120d7b5150883a]: Textual amendment: Word in [Sch. 3 para. 9](https://www.legislation.gov.uk/uksi/2006/2522/schedule/3/paragraph/9) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 12(c)(ii)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/12/c/ii)
+
+[^key-2b53ebd60d4bfb386cc2e617abb8b44b]: Textual amendment: Words in [Sch. 3 para. 9](https://www.legislation.gov.uk/uksi/2006/2522/schedule/3/paragraph/9) substituted (31.12.2020) by [The Environment, Food and Rural Affairs (Environmental Impact Assessment) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/25)](https://www.legislation.gov.uk/uksi/2019/25), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/25/regulation/1/1), [5(11)(b)(i)](https://www.legislation.gov.uk/uksi/2019/25/regulation/5/11/b/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-336c52b7cba5010661eecc8f03df3c8e]: Textual amendment: Words in [Sch. 3 para. 9](https://www.legislation.gov.uk/uksi/2006/2522/schedule/3/paragraph/9) inserted (31.12.2020) by [The Environment, Food and Rural Affairs (Environmental Impact Assessment) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/25)](https://www.legislation.gov.uk/uksi/2019/25), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/25/regulation/1/1), [5(11)(b)(ii)](https://www.legislation.gov.uk/uksi/2019/25/regulation/5/11/b/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-48c9173123497903cab3b2dbdde1255c]: Commencement: Sch. 4 para. 1 in force at 10.10.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/2522/regulation/1/2)
+
+[^key-7541b8a6abb34e197e87f7957b21af2e]: Commencement: Sch. 4 para. 2 in force at 10.10.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/2522/regulation/1/2)
+
+[^key-69a032f80a3e10f0b97488463a4cbd38]: Commencement: Sch. 4 para. 3 in force at 10.10.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/2522/regulation/1/2)
+
+[^key-5de9d4b2794c49399f78f753c36e44af]: Commencement: Sch. 4 para. 4 in force at 10.10.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/2522/regulation/1/2)
+
+[^key-1776a308843576dc2ee76f959ee67ec4]: Commencement: Sch. 4 para. 5 in force at 10.10.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/2522/regulation/1/2)
+
+[^key-a3dff298b3a5f6b1fd41a1e2bd10b841]: Commencement: Sch. 4 para. 6 in force at 10.10.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/2522/regulation/1/2)
+
+[^key-97f29e7fb44096087ef198effc6fd37d]: Commencement: Sch. 4 para. 7 in force at 10.10.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/2522/regulation/1/2)
+
+[^key-f0a4a982bed1396e97d1f38c7c6d2c35]: Commencement: Sch. 4 para. 8 in force at 10.10.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/2522/regulation/1/2)
+
+[^key-b6245e6d3217247e7cf30d09a8af6c88]: Commencement: Sch. 4 para. 9 in force at 10.10.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/2522/regulation/1/2)
+
+[^key-1652e37a43273e8a37b144bb58aebfc6]: Textual amendment: Words in [Sch. 4 para. 9](https://www.legislation.gov.uk/uksi/2006/2522/schedule/4/paragraph/9) substituted (1.6.2009) by [The Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 (S.I. 2009/1307)](https://www.legislation.gov.uk/uksi/2009/1307), [art. 1](https://www.legislation.gov.uk/uksi/2009/1307/article/1), [Sch. 2 para. 117](https://www.legislation.gov.uk/uksi/2009/1307/schedule/2/paragraph/117) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2009/1307/schedule/5))
+
+[^key-040003937a0f017f995f93d3e3b618f1]: Commencement: Sch. 4 para. 10 in force at 10.10.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/2522/regulation/1/2)
+
+[^key-d0cb66ad69d1fbcf6190b155eb135e0c]: Commencement: Sch. 5 para. 1 in force at 10.10.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/2522/regulation/1/2)
+
+[^key-6a06b2c0e5095a6a4706f15585a53221]: Commencement: Sch. 5 para. 2 in force at 10.10.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/2522/regulation/1/2)
+
+[^key-8aebbcdb43bf7e434d36e9f21ab9761d]: Commencement: Sch. 5 para. 3 in force at 10.10.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/2522/regulation/1/2)
+
+[^key-a28c3cce0c888c2686ccfb08a9211d0b]: Commencement: Sch. 5 para. 4 in force at 10.10.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/2522/regulation/1/2)
+
+[^key-7882b1dccd8dac2a4803c20810414677]: Commencement: Sch. 5 para. 5 in force at 10.10.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/2522/regulation/1/2)
+
+[^key-547b01884583ee5cb5a71882bc755ec0]: Commencement: Sch. 5 para. 6 in force at 10.10.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/2522/regulation/1/2)

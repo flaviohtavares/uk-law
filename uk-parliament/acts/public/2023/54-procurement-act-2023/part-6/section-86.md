@@ -1,0 +1,34 @@
+---
+title: Procurement Act 2023, section 86
+act: Procurement Act 2023
+section: '86'
+status: revised
+text_date: '2026-07-16'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2023/54/section/86
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Procurement Act 2023, section 86
+
+> Text as at 2026-07-16.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 86. Regulated below-threshold contracts: duty to consider small and medium-sized enterprises[^key-1141630c96433663d351c356170aebe4][^key-272bbcae756e0cb0e9c910d2eb479970]
+
+*Extent: E+W+S+N.I.*
+
+(1) Before inviting the submission of tenders in relation to the award of a regulated below-threshold contract, a contracting authority must—
+
+- (a) have regard to the fact that small and medium-sized enterprises may face particular barriers in competing for a contract, and
+- (b) consider whether such barriers can be removed or reduced.
+
+(2) Subsection (1) does not apply in relation to the award of a contract in accordance with a framework.
+
+## Annotations
+
+[^key-1141630c96433663d351c356170aebe4]: Commencement: S. 86 not in force at Royal Assent, see [s. 127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2)
+
+[^key-272bbcae756e0cb0e9c910d2eb479970]: Commencement: [S. 86](https://www.legislation.gov.uk/ukpga/2023/54/section/86) in force at 24.2.2025 by [S.I. 2024/716](https://www.legislation.gov.uk/uksi/2024/716), [Sch.](https://www.legislation.gov.uk/uksi/2024/716/schedule) (as amended by [S.I. 2024/959](https://www.legislation.gov.uk/uksi/2024/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/959/regulation/1/2), [2(7)(a)](https://www.legislation.gov.uk/uksi/2024/959/regulation/2/7/a))

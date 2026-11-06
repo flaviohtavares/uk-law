@@ -1,0 +1,132 @@
+---
+title: The Farm Business Specification Order 1987
+id: uksi/1987/1948
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '1987-11-13'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1987/1948
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1987/1948/pdfs/uksi_19871948_en.pdf
+- http://www.legislation.gov.uk/uksi/1987/1948/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Farm Business Specification Order 1987
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+1987 No. 1948
+
+AGRICULTURE
+
+The Farm Business Specification Order 1987
+
+Made
+
+13th November 1987
+
+Laid before Parliament
+
+18th November 1987
+
+Coming into force
+
+1st January 1988
+
+The Minister of Agriculture, Fisheries and Food, the Secretary of State for Scotland and the Secretary of State for Wales, acting jointly, in exercise of the powers conferred on them by section 28(1) of the Agriculture Act 1970[^f00001] and of all other powers enabling them in that behalf, hereby make the following Order:
+
+## 1. Citation, commencement and extent
+
+(1) This Order may be cited as the Farm Business Specification Order 1987 and shall come into force on 1st January 1988.
+
+(2) This Order shall apply to Great Britain.
+
+## 2. Interpretation
+
+In this Order, unless the context otherwise requires—
+
+- “agriculture” and cognate expressions shall be construed, except in relation to Scotland, in accordance with section 109 of the Agriculture Act 1947[^f00002] and, in relation to Scotland, in accordance with section 86 of the Agriculture (Scotland) Act 1948[^f00003];
+- “agricultural business” means a business consisting in, or such part of any business as consists in, the pursuit of agriculture, and includes any business of a type specified in the Schedule to this Order where that business is carried on by a person also carrying on a business consisting in or partly in the pursuit of agriculture and is carried on on the same or adjacent land;
+- “farm-based industry” means—
+  - (a) the manufacture of craft items and tourist souvenirs;
+  - (b) food processing and the purification, carbonation and bottling of spring water;
+  - (c) the processing of timber;
+  - (d) the processing of agricultural produce for purposes other than human or animal consumption; or
+  - (e) the repair and renovation of agricultural machinery;
+- “farm shop” means a shop primarily used for the sale of the produce of the agricultural business of which the shop forms part;
+- “food processing” means the application of any process or treatment to agricultural produce for the purposes of human consumption but does not include—
+  - (a) the cleaning and trimming of raw fruit and vegetables to which no further process or treatment is applied and the packaging of such fruit and vegetables;
+  - (b) the slaughter of livestock and the skinning and gutting of animal carcases;
+  - (c) any process or treatment applied for the purposes of the manufacture of wine; or
+  - (d) any process or treatment applied to cow’s milk for the purposes of the liquid consumption of that milk or for the purposes of the manufacture of any milk-based drink as defined in regulation 3 of the Milk-based Drinks (Hygiene and Heat Treatment) Regulations 1983[^f00004] and regulation 3 of the Milk-based Drinks (Scotland) Regulations 1983[^f00005], and any process or treatment applied to any such milk-based drink;
+- “livery” means the provision of accommodation and care for horses and ponies;
+- “provision of accommodation”, in relation to persons, includes provision of facilities for camping and caravanning;
+- “sports” means any game or exercise other than field sports, horse riding and sports involving the use of motor vehicles, firearms or crossbows.
+
+## 3. Specified farm businesses
+
+The businesses described in the Schedule to this Order are hereby specified pursuant to section 28(1) of the Agriculture Act 1970 (Interpretation of provisions relating to Capital and other Grants) as businesses which (when carried on by a person also carrying on a business consisting in or partly in the pursuit of agriculture on the same or adjacent land) are included in the definition of “agricultural business” set out in that subsection.
+
+In witness whereof the Official Seal of the Minister of Agriculture, Fisheries and Food is hereunto affixed on
+
+John MacGregor
+
+Minister of Agriculture, Fisheries and Food
+
+10th November 1987.
+
+Sanderson of Bowden
+
+Minister of State, Scottish Office
+
+10th November 1987
+
+Peter Walker
+
+Secretary of State for Wales
+
+13th November 1987
+
+## SCHEDULE — SPECIFIED FARM BUSINESSES
+
+Article 3
+
+**1.** Farm-based industry.
+
+**2.** Farm shops.
+
+**3.** Direct sale to farm visitors of fruit and vegetables which the visitors pick themselves.
+
+**4.** Provision of accommodation, food and drink.
+
+**5.** Provision of facilities for sports and recreation.
+
+**6.** Provision of educational facilities relating to farming and the countryside and to farm-based industry.
+
+**7.** Provision of livery.
+
+**8.** Provision of horses and ponies for hire.
+
+**9.** Letting of any land, building or buildings for the purposes of the carrying on of any business of a type specified above.
+
+(This note is not part of the Order)
+
+This Order specifies certain businesses which, when carried on by a person also carrying on a business consisting in or partly in the pursuit of agriculture on the same or adjacent land, are included in the definition of “agricultural business” in section 28(1) of the Agriculture Act 1970. The specified businesses may thus become eligible for farm capital grants which under section 29(1) of that Act may be made in connection with the carrying on or establishment of an agricultural business.
+
+## Annotations
+
+[^f00001]: Footnote: [1970 c. 40](https://www.legislation.gov.uk/ukpga/1970/40). Section 28 was amended by section 22 of the Agriculture Act [1986 (c. 49)](https://www.legislation.gov.uk/ukpga/1986/49).
+
+[^f00002]: Footnote: [1947 c. 48](https://www.legislation.gov.uk/ukpga/1947/48).
+
+[^f00003]: Footnote: [1948 c. 45](https://www.legislation.gov.uk/ukpga/1948/45).
+
+[^f00004]: Footnote: S.I. [1983/1508](https://www.legislation.gov.uk/uksi/1983/1508).
+
+[^f00005]: Footnote: S.I. [1983/1514](https://www.legislation.gov.uk/uksi/1983/1514); the relevant amending instrument is S.I. [1986/790](https://www.legislation.gov.uk/uksi/1986/790).

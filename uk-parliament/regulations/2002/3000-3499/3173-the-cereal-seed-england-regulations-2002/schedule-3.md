@@ -1,0 +1,61 @@
+---
+title: The Cereal Seed (England) Regulations 2002, SCHEDULE 3
+act: The Cereal Seed (England) Regulations 2002
+section: schedule-3
+status: repealed
+text_date: '2010-11-22'
+extent: E+W+S+NI
+source_url: https://www.legislation.gov.uk/uksi/2002/3173/schedule/3
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Cereal Seed (England) Regulations 2002, SCHEDULE 3
+
+> This provision is no longer in force.
+>
+> Extent: England, Wales, Scotland, NI.
+
+## SCHEDULE 3 — CONDITIONS RELATING TO CROPS FROM WHICH SEED IS TO BE HARVESTED[^key-92c28057b73511d0c515ab186efb38ee]
+
+*Extent: E+W+S+NI*
+
+**No longer in force.**
+
+Regulations 2(1), 8(8), (9), (10),(11), (12), (13)(b), (15)(c), (18)(a), 10(3)(a) and (b), 10(4)(a), (b), (c), 11(15)(a), 13(4)(f), 14(1)(b), 16(2)(a) and (3)(a) and paragraphs 2(3)(a), 5(3)(a), 7(3)(a), 10(3)(a), 14(3)(a), 18(3)(a), 20(3)(a), 24(3)(a), 28(3)(a), 32(3)(a), 36(3)(a), 40(3)(a), 44(3)(a),47(3)(a), 50(4)(a), (6)(a) and (8)(a) of Schedule 1 and paragraphs 6,9 and 10(2) of Schedule 4
+
+**1.**[^key-92c28057b73511d0c515ab186efb38ee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**2.**[^key-92c28057b73511d0c515ab186efb38ee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**3.**[^key-92c28057b73511d0c515ab186efb38ee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**4.**[^key-92c28057b73511d0c515ab186efb38ee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**5.**[^key-92c28057b73511d0c515ab186efb38ee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**6.**[^key-92c28057b73511d0c515ab186efb38ee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**7.**[^key-92c28057b73511d0c515ab186efb38ee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**8.**[^key-92c28057b73511d0c515ab186efb38ee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**9.**[^key-92c28057b73511d0c515ab186efb38ee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**10.**[^key-92c28057b73511d0c515ab186efb38ee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**11.**[^key-92c28057b73511d0c515ab186efb38ee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**12.**[^key-92c28057b73511d0c515ab186efb38ee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**13.**[^key-92c28057b73511d0c515ab186efb38ee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**14.**[^key-92c28057b73511d0c515ab186efb38ee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**15.**[^key-92c28057b73511d0c515ab186efb38ee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**16.**[^key-92c28057b73511d0c515ab186efb38ee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Annotations
+
+[^key-92c28057b73511d0c515ab186efb38ee]: Textual amendment: [Instrument](https://www.legislation.gov.uk/uksi/2002/3173) revoked (22.11.2010) by [The Seed Marketing Regulations 2010 (S.I. 2010/2605)](https://www.legislation.gov.uk/uksi/2010/2605), [reg. 34(c)](https://www.legislation.gov.uk/uksi/2010/2605/regulation/34/c)

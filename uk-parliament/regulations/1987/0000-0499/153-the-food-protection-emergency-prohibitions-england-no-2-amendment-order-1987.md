@@ -1,0 +1,96 @@
+---
+title: The Food Protection (Emergency Prohibitions) (England) (No. 2) Amendment Order 1987
+id: uksi/1987/153
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '1987-02-08'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1987/153
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1987/153/pdfs/uksi_19870153_en.pdf
+- http://www.legislation.gov.uk/uksi/1987/153/made/data.pdf
+pending_changes: 1
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Food Protection (Emergency Prohibitions) (England) (No. 2) Amendment Order 1987
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+1987 No. 153
+
+PUBLIC HEALTH, ENGLAND AND WALES
+
+PUBLIC HEALTH, SCOTLAND
+
+PUBLIC HEALTH, NORTHERN IRELAND
+
+CONTAMINATION OF FOOD
+
+The Food Protection (Emergency Prohibitions) (England) (No. 2) Amendment Order 1987
+
+Made
+
+8th February 1987
+
+Laid before Parliament
+
+10th February 1987
+
+Coming into force
+
+16th February 1987
+
+Whereas the Minister of Agriculture, Fisheries and Food is of the opinion, in accordance with section 1(1)(a) of the Food and Environment Protection Act 1985[^f00001], that there has been or may have been an escape of substances of such descriptions and in such quantities and such circumstances as are likely to create a hazard to human health through human consumption of food;
+
+And whereas the said Minister is of the opinion, in accordance with section 1(1)(b) of the said Act, that in consequence of the said escape of substances food which is or may be in the future in the area described in the Schedule to the Food Protection (Emergency Prohibitions) (England) (No. 2) Order 1986[^f00002], or which is derived or may be in the future derived from anything in that area, is, or may be, or may become, unsuitable for human consumption;
+
+Now, therefore, the said Minister, in exercise of the powers conferred on him by the said section 1(1) and section 24(3) of the said Act, and of all other powers enabling him in that behalf, hereby makes the following Order:–
+
+## 1. Title and commencement
+
+This Order may be cited as the Food Protection (Emergency Prohibitions) (England) (No. 2) Amendment Order 1987 and shall come into force on 16th February 1987.
+
+## 2. Partial revocation and amendment
+
+The Food Protection (Emergency Prohibitions) (England) (No. 2) Order 1986 is revoked to the extent that it imposes prohibitions on–
+
+- (a) the slaughter of a sheep which–
+  - (i) was moved from a place in accordance with a consent given under section 2(1) of the Food and Environment Protection Act 1985 which consent was subject to the condition that the sheep to which it applies should be marked with a red mark; and
+  - (ii) has been examined and marked by an ear-tag by a person authorised in that behalf by one of the Ministers; and
+- (b) the supply or having in possession for supply of meat, or food containing meat, derived from such a sheep,
+
+and accordingly that Order is further amended in accordance with the following provisions of this Order.
+
+**3.** Article 4 shall be re-numbered article 4(1) and after that paragraph there shall be inserted the following paragraph–
+
+> (2) Paragraph (1) above shall not apply in the case of any sheep which–
+>
+> - (a) was moved from any place in accordance with a consent given under the said section 2(1) which consent was subject to the condition that the sheep to which it applies should be marked with a red mark; and
+> - (b) has been examined and marked by an ear-tag by a person authorised in that behalf by one of the Ministers.
+
+.
+
+**4.** In article 6(2)(b)(i), after the words “blue mark” there shall be inserted the words “or with a red mark”.
+
+In witness whereof the Official Seal of the Minister of Agriculture, Fisheries and Food is hereunto affixed on 8th February 1987.
+
+Michael Jopling
+
+Minister of Agriculture, Fisheries and Food
+
+(This note is not part of the Order)
+
+The Food Protection (Emergency Prohibitions) (England) (No. 2) Order 1986 contains emergency prohibitions restricting various activities in order to prevent human consumption of food which has been or which may have been rendered unsuitable for that purpose in consequence of the escape of radioactive substances from a nuclear reactor situated at Chernobyl in the USSR.
+
+This Order excepts from the prohibition on slaughter in the area designated by that Order and from the prohibition on slaughter and supply throughout the United Kingdom any sheep (and in the latter case any meat derived from such sheep) identified by a red paint mark which have been examined and subsequently marked by an ear-tag by an official of the Ministry of Agriculture, Fisheries and Food, Scottish Office or Welsh Office (articles 3 and 4).
+
+## Annotations
+
+[^f00001]: Footnote: [1985 c. 48](https://www.legislation.gov.uk/ukpga/1985/48).
+
+[^f00002]: Footnote: S.I. [1986/1689](https://www.legislation.gov.uk/uksi/1986/1689), amended by S.I. [1986/2208](https://www.legislation.gov.uk/uksi/1986/2208).

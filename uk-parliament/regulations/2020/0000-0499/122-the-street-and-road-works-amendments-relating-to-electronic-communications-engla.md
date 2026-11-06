@@ -1,0 +1,610 @@
+---
+title: The Street and Road Works (Amendments Relating to Electronic Communications) (England) Regulations 2020
+id: uksi/2020/122
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2020-02-06'
+text_date: '2020-07-01'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2020/122
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2020/122/pdfs/uksiem_20200122_en.pdf
+- http://www.legislation.gov.uk/uksi/2020/122/pdfs/uksi_20200122_en.pdf
+- http://www.legislation.gov.uk/uksi/2020/122/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Street and Road Works (Amendments Relating to Electronic Communications) (England) Regulations 2020
+
+> Text as at 2020-07-01.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2020 No. 122
+
+Highways, England
+
+The Street and Road Works (Amendments Relating to Electronic Communications) (England) Regulations 2020
+
+Made
+
+at 10.10 a.m. on 6th February 2020
+
+Laid before Parliament
+
+at 2.00 p.m. on 6th February 2020
+
+Coming into force
+
+1st April 2020
+
+The Secretary of State makes these Regulations in exercise of the powers conferred by sections 58(1), 74, 97 and 104(1) and (3) of, and paragraph 2(2) of Schedule 3A to, the New Roads and Street Works Act 1991 [^c23975281] and section 37(1), (6) to (8), (11) and (13) of the Traffic Management Act 2004 [^c23975291].
+
+## 1. Citation and commencement[^key-3da7f9849fb0a24e1d8f67088efebeea]
+
+(1) These Regulations may be cited as the Street and Road Works (Amendments Relating to Electronic Communications) (England) Regulations 2020.
+
+(2) These Regulations come into force on 1st July[^key-80682bd4ebf9a466e723e406eec3de38] 2020.
+
+## 2. Amendments relating to service of documents: application and transitional provisions[^key-9f2631ad5305ead83f7a54bcf0f78b00]
+
+(1) The amendments made by the following provisions apply only in respect of works falling within paragraph (3), (4) or (5)—
+
+- (a) regulation 3(2)(a), (c), (3) to (5) and (7);
+- (b) regulation 4;
+- (c) regulation 5(2), (3), (8) and (9);
+- (d) regulation 6(2)(e), (8), and (9).
+
+(2) In this regulation, “**works**” means—
+
+- (a) street works, or
+- (b) works for road purposes within the meaning of section 86(2) of the New Roads and Street Works Act 1991.
+
+(3) Works fall within this paragraph if the initial application for the works (see paragraph (7)) is made after 30th June[^key-310bf5b5fd5d264e30585e32f8e78425] 2020.
+
+(4) Works fall within this paragraph if—
+
+- (a) the initial application for the works is made before 1st July[^key-0b95cdc53dce1992d8c08482d8d2380f] 2020, and
+- (b) the final notice for the works (see paragraph (7)) is not given before 1st August[^key-2be7d76d1091accd94068c547394acb8] 2020.
+
+(5) Works fall within this paragraph if—
+
+- (a) the works are immediate works which start before 1st July[^key-52a97f34befcf9cbb6f15011bc2be158] 2020,
+- (b) the initial application for the works is not made before 1st July 2020, and
+- (c) the final notice for the works is not given before 1st August[^key-f79a520377e50b9993b0c5240a967d04] 2020.
+
+(6) In a case of works falling within paragraph (4) or (5), the person carrying out the works must promptly after 31st July[^key-088f42552b29ed73ceabc82f802ca54c] 2020 register the original record (see paragraph (7)) with the Department for Transport by means of—
+
+- (a) the Department's digital service for planning and managing roadworks [^c23975301], or
+- (b) an interface which complies with the Department's Application Programming Interface (API) specification for planning and managing roadworks, published on 19th December 2019, version 1.12 [^c23975311], as revised or re-issued from time to time.
+
+(7) In this regulation—
+
+- “**final notice**” means—
+  - (a) in the case of works which include breaking up or opening the street, or any sewer, drain or tunnel under it, or tunnelling or boring under the street, the notice of completion under section 70(3) of the New Roads and Street Works Act 1991, or
+  - (b) in any other case, the works closed notice under regulation 6(4) of the Street Works (Charges for Unreasonably Prolonged Occupation of the Highway) (England) Regulations 2009 [^c23975321];
+- “**immediate works**” has the same meaning as in regulation 3(1) of the Street Works (Registers, Notices, Directions and Designations) (England) Regulations 2007 [^c23975331];
+- “**initial application**” means—
+  - (a) in a case where the street falls within a permit scheme—
+    - (i) the application for provisional advance authorisation for the works under regulation 11 of the Traffic Management Permit Scheme (England) Regulations 2007 [^c23975341], or
+    - (ii) if there was none, the permit application for the works under regulation 9 of those Regulations, or
+  - (b) in any other case, the notice for the works under section 54 or 55 of the New Roads and Street Works Act 1991 (or, if notices are given under section 54 and section 55, the notice given first);
+- “**original record**” means—
+  - (a) in a case where the street falls within a permit scheme—
+    - (i) the provisional advance authorisation granted under regulation 11 of the Traffic Management Permit Scheme (England) Regulations 2007, or
+    - (ii) if there is none, the permit granted under the permit scheme, or
+  - (b) in any other case, the notice for the works under section 54 or 55 of the New Roads and Street Works Act 1991 (or, if notices are given under section 54 and section 55, the notice given first).
+
+## 3. Amendments to the Street Works (Registers, Notices, Directions and Designations) (England) Regulations 2007[^key-19d543aaef1b9e2d7c2b8657ed15e677]
+
+(1) The Street Works (Registers, Notices, Directions and Designations) (England) Regulations 2007 are amended as follows.
+
+(2) In regulation 3(1)—
+
+- (a) at the appropriate place insert—
+
+  > “**electronic communication**” has the meaning given in section 15(1) of the Electronic Communications Act 2000 [^c23975351];
+
+  ;
+- (b) in the definition of “major works”, in paragraph (a) omit the words from “have been” to “such program,”;
+- (c) omit the definition of “the Technical Specification”.
+
+(3) For regulations 5 and 6 substitute—
+
+> **5. Service of notices: maintainable highways**
+>
+> (1) This regulation applies to notices given under Part 3 of the 1991 Act in respect of streets which are maintainable highways except—
+>
+> - (a) notices given under section 74, 74A or 103(2) of, or Schedule 4B to, that Act [^c23975361], and
+> - (b) copies of notices given pursuant to regulations 11(5) or 12(4) of or paragraph 3(c) of the Schedule to these Regulations.
+>
+> (2) A notice given under section 54, 55, 57, 70, 72 or 81 of the 1991 Act must be given by means of the Department for Transport's digital service for planning and managing roadworks [^c23975371].
+>
+> (3) Any other notice given under Part 3 of the 1991 Act (other than the excepted notices mentioned in paragraph (1)) must be given by means of an electronic communication.
+>
+> (4) A notice given pursuant to paragraph (3) must be given—
+>
+> - (a) by means of the digital service mentioned in paragraph (2), or
+> - (b) by sending it to an electronic address which has been agreed with the recipient for that purpose or another appropriate electronic address.
+>
+> (5) “**Another appropriate electronic address**” means—
+>
+> - (a) any email address published for the time being by the recipient as an address for contacting the recipient, or
+> - (b) if there is no such published address, any email address by means of which the person proposing to send the electronic communication believes, on reasonable grounds, that the notice will come to the attention of any director or other officer of the recipient.
+>
+> (6) An electronic communication must be—
+>
+> - (a) capable of being accessed by the recipient,
+> - (b) legible, and
+> - (c) in a form sufficiently permanent to be used for subsequent reference.
+>
+> (7) Where a notice of a kind mentioned in paragraph (2) cannot be given by the service mentioned in that paragraph, it may be given by another means of electronic communication in accordance with paragraph (4)(b).
+>
+> (8) Where a notice of any kind cannot be given by another means of electronic communication in accordance with paragraph (4)(b), it may be given by any other means of service agreed between the person giving the notice and the recipient.
+>
+> (9) In paragraphs (7) and (8), the reference to not being able to give a notice is a reference to not being able to give it after three attempts.
+>
+> (10) A notice must refer to the provision of the 1991 Act under which it is given.
+>
+> (11) Where a notice of a kind mentioned in paragraph (2) is successfully given by means of an interface which complies with the Department for Transport's Application Programming Interface (API) specification for planning and managing roadworks, published on 19th December 2019, version 1.12, as revised or re-issued from time to time, the requirement in paragraph (2) is deemed to be met in respect of that notice.
+>
+> **6. Service of notices: other cases**
+>
+> (1) This regulation applies to—
+>
+> - (a) notices given under Part 3 of the 1991 Act in respect of streets which are not maintainable highways;
+> - (b) notices given under section 103(2) of the 1991 Act;
+> - (c) copies of notices given pursuant to regulations 11(5) or 12(4) of or paragraph 3(c) of the Schedule to these Regulations.
+>
+> (2) A notice may be given to a person by—
+>
+> - (a) sending it to the person by means of an electronic communication, subject to paragraph (6),
+> - (b) handing it to the person,
+> - (c) leaving it at the person's proper address, or
+> - (d) sending it by post to the person at that address.
+>
+> (3) The proper address of a person is—
+>
+> - (a) in the case of a body corporate or its secretary or clerk, the address of the body's registered or principal office;
+> - (b) in the case of a partnership, a partner or person having the control or management of the partnership business, the address of the principal office of the partnership;
+> - (c) in any other case, the person's last known address.
+>
+> (4) A notice to a body corporate may be given to the secretary or clerk of that body.
+>
+> (5) A notice to a partnership may be given to a partner or a person who has the control or management of the partnership business.
+>
+> (6) A notice may be sent to a person by means of an electronic communication only if—
+>
+> - (a) the person has indicated that the notice may be given by that means by being sent to a particular electronic address and in a particular electronic form, and
+> - (b) the notice is sent to that address in that form.
+>
+> (7) A notice given by means of an electronic communication must be—
+>
+> - (a) capable of being accessed by the recipient,
+> - (b) legible, and
+> - (c) in a form sufficiently permanent to be used for subsequent reference.
+>
+> (8) A notice must refer to the provision of the 1991 Act or these Regulations under which it is given.
+
+.
+
+(4) In regulation 7—
+
+- (a) in the heading for “Manner of service” substitute “ Service ”;
+- (b) for “6(3) to (10)” substitute “ 5 or 6 (as the case may be) ”.
+
+(5) In regulation 9(2) omit “regulation 6(2) and”.
+
+(6) In regulation 11(2)—
+
+- (a) in sub-paragraph (a) for “5” substitute “ 3 ”;
+- (b) in sub-paragraph (b) for “3” substitute “ 2 ”.
+
+(7) Omit regulation 12(5) and (6).
+
+## 4. Amendments to the Street Works (Fixed Penalty) (England) Regulations 2007[^key-970b22093e00803be880cc36777fa2de]
+
+(1) The Street Works (Fixed Penalty) (England) Regulations 2007 [^c23975381] are amended as follows.
+
+(2) Omit regulation 4.
+
+(3) For regulation 5 substitute—
+
+> **5. Service of fixed penalty notices, etc**
+>
+> (1) A fixed penalty notice or a notice withdrawing a fixed penalty notice must be given by means of the Department for Transport's digital service for planning and managing roadworks.
+>
+> (2) In this regulation, “**notice withdrawing a fixed penalty notice**” means a notice under paragraph 7(1) of Schedule 4B to the 1991 Act.
+>
+> (3) Where a notice cannot be given by the means mentioned in paragraph (1), it may be given by another means of electronic communication.
+>
+> (4) A notice given pursuant to paragraph (3) must be given—
+>
+> - (a) by sending it to an electronic address which has been agreed with the recipient for that purpose, or
+> - (b) if there is no such agreement, by sending it to—
+>   - (i) any email address published for the time being by the recipient as an address for contacting the recipient, or
+>   - (ii) if there is no such published address, any email address by means of which the person proposing to send the electronic communication believes, on reasonable grounds, that the notice will come to the attention of any director or other officer of the recipient.
+>
+> (5) An electronic communication must be—
+>
+> - (a) capable of being accessed by the recipient,
+> - (b) legible, and
+> - (c) in a form sufficiently permanent to be used for subsequent reference.
+>
+> (6) Where a notice cannot be given by another means of electronic communication in accordance with paragraph (4), it may be given by any other means of service agreed between the person giving the notice and the recipient.
+>
+> (7) In paragraphs (3) and (6), the reference to not being able to give a notice is a reference to not being able to give it after three attempts.
+>
+> (8) Where a fixed penalty notice or notice withdrawing a fixed penalty notice is successfully given by means of an interface which complies with the Department for Transport's Application Programming Interface (API) specification for planning and managing roadworks, published on 19th December 2019, version 1.12, as revised or re-issued from time to time, the requirement in paragraph (1) is deemed to be met in respect of that notice.
+
+.
+
+(4) Omit regulation 10.
+
+(5) Omit Schedules 1 and 3.
+
+## 5. Amendments to the Traffic Management Permit Scheme (England) Regulations 2007[^key-9888c66826e07857eb30f002c7ff2ada]
+
+(1) The Traffic Management Permit Scheme (England) Regulations 2007 are amended as follows.
+
+(2) In regulation 23—
+
+- (a) in the heading, for “Form” substitute “ Content ”;
+- (b) omit paragraph (1).
+
+(3) In regulation 27, omit paragraph (2).
+
+(4) In regulation 30, after paragraph (2) insert—
+
+> (2A) In the case mentioned in paragraph (2), the scheme shall also ensure that any fee for the issue of a permit or an application for a permit for minor works or standard works is less than any corresponding fee for major works. In this paragraph, “**major works**”, “**minor works**” and “**standard works**” have the same meanings as in regulation 3(1) of the Street Works (Registers, Notices, Directions and Designations) (England) Regulations 2007.
+
+.
+
+(5) Omit Part 7.
+
+(6) Omit regulation 36(a).
+
+(7) After regulation 38 insert—
+
+> **PART 8A — Modifications to section 53 of the 1991 Act**
+>
+> **38A. Application of Part**
+>
+> This Part applies to specified streets within permit schemes.
+>
+> **38B. Modifications to section 53 of the 1991 Act**
+>
+> (1) Section 53 of the 1991 Act [^c23975391] is to be read in relation to specified works in the specified streets as if—
+>
+> - (a) for subsections (1) and (2) there were substituted—
+>
+>   > (1) A Permit Authority shall keep a register of permits in respect of any permit scheme prepared by it under section 33 of the Traffic Management Act 2004 that is in effect under section 33A(2) or 35(2) of that Act.
+>   >
+>   > (2) The register shall contain the following information—
+>   >
+>   > - (a) the name of every specified street within that scheme;
+>   > - (b) whether those streets have been designated by the relevant street authority under section 61, 63 or 64 as protected streets, streets of special engineering difficulties or traffic-sensitive streets; and
+>   > - (c) such other information in relation to those streets as the Permit Authority considers appropriate.
+>   >
+>   > (2A) The Permit Authority shall enter in the register the provisions of each of the following so far as it relates to the permit scheme for which the register is made—
+>   >
+>   > - (a) every permit (consolidated so as to incorporate any variations of the permit);
+>   > - (b) every variation of a permit;
+>   > - (c) every variation and revocation of permit conditions;
+>   > - (d) every provisional advance authorisation;
+>   > - (e) every application for a permit;
+>   > - (f) every application for a variation of a permit;
+>   > - (g) every application for a provisional advance authorisation;
+>   > - (h) every refusal to grant a permit;
+>   > - (i) every refusal to grant a variation of a permit;
+>   > - (j) every refusal to grant a provisional advance authorisation;
+>   > - (k) every permit, provisional advance authorisation, variation of a permit and variation to permit conditions deemed to have been granted under regulation 16 of the Traffic Management Permit Scheme (England) Regulations 2007;
+>   > - (l) every permit revocation.
+>   >
+>   > This is subject to subsection (5C) (also see subsection (5B) which sets out the circumstances in which subsection (5C) applies).
+>   >
+>   > (2B) The Permit Authority shall also enter in the register each of the following so far as it relates to a specified street within that permit scheme—
+>   >
+>   > - (a) every notice and consent given under section 58;
+>   > - (b) every notice given under regulation 6 of the Street Works (Charges for Unreasonably Prolonged Occupation of the Highway) (England) Regulations 2009;
+>   > - (c) every notice and direction given under Schedule 3A;
+>   > - (d) a description and location of activities for all plans and sections and descriptions of works submitted under paragraph 2(2), 3 or 5 of Schedule 4;
+>   > - (e) every notice given under Schedule 4;
+>   > - (f) every street works licence granted under section 50(1) (including details of conditions attached to such a licence and every assignment of the benefit of such a licence);
+>   > - (g) every notice given under section 70(3) or (4A);
+>   > - (h) all information given under section 80(2);
+>   > - (i) every notice given under regulation 6(3) of the Street Works (Sharing of Costs of Works) (England) Regulations 2000 [^c23975401].
+>   >
+>   > This is subject to subsection (5C) (also see subsection (5B) which sets out the circumstances in which subsection (5C) applies).
+>   >
+>   > (2C) Two or more Permit Authorities may combine their registers.
+>
+>   ;
+> - (b) in subsection (3)—
+>   - (i) for “the authority” there were substituted “the Permit Authority”;
+>   - (ii) the sentence after paragraph (b) were omitted;
+> - (c) after subsection (3) there were inserted—
+>
+>   > (3A) For the purposes of subsection (3), “restricted information” is—
+>   >
+>   > - (a) information certified by, or with the authorisation of, the Secretary of State as being restricted information for the purpose of safeguarding national security; or
+>   > - (b) information certified by, or with the authorisation of, a statutory undertaker as being restricted information because its disclosure would, or would be likely to, prejudice the commercial interests of that statutory undertaker.
+>
+>   ;
+> - (d) in subsection (4) for “street authorities” there were substituted “ Permit Authorities ”;
+> - (e) in subsection (4A) for “street authorities” there were substituted “ Permit Authorities ”;
+> - (f) in subsection (5) for “street authorities” there were substituted “ Permit Authorities ”;
+> - (g) in subsection (5A) for “street authority” there were substituted “ Permit Authority ”;
+> - (h) after subsection (5A) there were inserted—
+>
+>   > (5B) Subsections (5C) and (5D) apply where statutory undertakers are required by virtue of any enactment to enter any information listed in subsection (2A) or (2B) in a central register kept by a person appointed in pursuance of arrangements made under subsection (4).
+>   >
+>   > (5C) The duty imposed by subsection (2A) or (as the case may be) (2B) does not apply so far as relating to that information.
+>   >
+>   > (5D) The Secretary of State may require the statutory undertakers to make contributions towards the costs of the arrangements (whether in addition to, or instead of, any requirements imposed under subsection (5)).
+>
+>   ;
+> - (i) at the end there were inserted—
+>
+>   > (7) Any term used in this section which is also defined in regulation 2 of the Traffic Management Permit Scheme (England) Regulations 2007 has the same meaning as in regulation 2 of those Regulations.
+>   >
+>   > (8) In this section, “**permit scheme**” has the same meaning as in section 32 of the Traffic Management Act 2004.
+>
+>   .
+
+.
+
+(8) For regulation 39, substitute—
+
+> **39. Service of documents under permit schemes and regulations 18, 21 and 27**
+>
+> (1) The following must be given by means of the Department for Transport's digital service for planning and managing roadworks [^c23975411]—
+>
+> - (a) an application for a permit, variation of a permit, revocation of a permit or provisional advance authorisation;
+> - (b) any document accompanying an application mentioned in sub-paragraph (a);
+> - (c) any decision to grant or refuse a permit, variation of a permit, revocation of a permit or provisional advance authorisation;
+> - (d) a permit, variation of a permit, revocation of a permit or provisional advance authorisation;
+> - (e) a notice given under regulation 21 or 27.
+>
+> (2) Any other document given in accordance with a requirement in a permit scheme or regulation 18 must be given by means of an electronic communication.
+>
+> (3) A document given pursuant to paragraph (2) must be given—
+>
+> - (a) by means of the digital service mentioned in paragraph (1), or
+> - (b) by sending it to an electronic address which has been agreed with the recipient for that purpose or another appropriate electronic address.
+>
+> (4) “**Another appropriate electronic address**” means—
+>
+> - (a) any email address published for the time being by that person as an address for contacting the recipient, or
+> - (b) if there is no such published address, any email address by means of which the person proposing to send the electronic communication believes, on reasonable grounds, that the notice will come to the attention of any director or other officer of the recipient.
+>
+> (5) An electronic communication must be—
+>
+> - (a) capable of being accessed by the person to whom it is sent,
+> - (b) legible, and
+> - (c) in a form sufficiently permanent to be used for subsequent reference.
+>
+> (6) Where a document of a kind mentioned in paragraph (1) cannot be given by the service mentioned in that paragraph, it may be given by another means of electronic communication in accordance with paragraph (3)(b).
+>
+> (7) Where a document of any kind cannot be given by another means of electronic communication in accordance with paragraph (3)(b), it may be given by any other means of service agreed between the person giving the document and the recipient.
+>
+> (8) In paragraphs (6) and (7), the reference to not being able to give a document is a reference to not being able to give it after three attempts.
+>
+> (9) A document given under or pursuant to these Regulations must refer to the provision of the Regulations under or pursuant to which it is given.
+>
+> (10) Where a document of a kind mentioned in paragraph (1) is successfully given by means of an interface which complies with the Department for Transport's Application Programming Interface (API) specification for planning and managing roadworks, published on 19th December 2019, version 1.12, as revised or re-issued from time to time, the requirement in paragraph (1) is deemed to be met in respect of that document.
+>
+> **39A. Service of documents under regulation 17**
+>
+> (1) This regulation applies to documents given under regulation 17.
+>
+> (2) A document may be given to a person by—
+>
+> - (a) sending it to the person by means of an electronic communication, subject to paragraph (6),
+> - (b) handing it to the person,
+> - (c) leaving it at the person's proper address, or
+> - (d) sending it by post to the person at that address.
+>
+> (3) The proper address of a person is—
+>
+> - (a) in the case of a body corporate or its secretary or clerk, the address of the body's registered or principal office;
+> - (b) in the case of a partnership, a partner or person having the control or management of the partnership business, the address of the principal office of the partnership;
+> - (c) in any other case, the person's last known address.
+>
+> (4) A document given to a body corporate may be given to the secretary or clerk of that body.
+>
+> (5) A document given to a partnership may be given to a partner or a person who has the control or management of the partnership business.
+>
+> (6) A document may be sent to a person by means of an electronic communication only if—
+>
+> - (a) the person has indicated that the document may be given by that means by being sent to a particular electronic address and in a particular electronic form, and
+> - (b) the document is sent to that address in that form.
+>
+> (7) A document given by means of an electronic communication must be—
+>
+> - (a) capable of being accessed by the recipient,
+> - (b) legible, and
+> - (c) in a form sufficiently permanent to be used for subsequent reference.
+
+.
+
+(9) Omit Schedules 1 and 2.
+
+## 6. Amendments to the Street Works (Charges for Unreasonably Prolonged Occupation of the Highway) (England) Regulations 2009[^key-904b9fb8a2286e1d1c439e6b8aa6eb6a]
+
+(1) The Street Works (Charges for Unreasonably Prolonged Occupation of the Highway) (England) Regulations 2009 [^c23975421] are amended as follows.
+
+(2) In regulation 3—
+
+- (a) omit the definition of “day”;
+- (b) in the definition of “major works”—
+  - (i) in paragraph (a) omit the words from “have been” to “such program,”;
+  - (ii) in paragraph (c) after “exceeds ten” insert “ working ”;
+- (c) in the definition of “minor works” after “exceed three” insert “ working ”;
+- (d) in the definition of “standard works”, before “days”, in both places it occurs, insert “ working ”;
+- (e) omit the definition of “the Technical Specification”.
+
+(3) In regulation 6—
+
+- (a) for paragraph (1) substitute—
+
+  > (1) An undertaker executing street works in a highway to which these Regulations apply shall give the highway authority for that highway notice of the beginning of those works not later than—
+  >
+  > - (a) in the case of works starting within the period beginning with 12am and ending with 7:59am on a working day, 10am on the same day;
+  > - (b) in the case of works starting within the period beginning with 8am and ending with 4:30pm on a working day, two hours after the start of the works;
+  > - (c) in the case of works starting within the period beginning with 4:31pm and ending with 11:59pm on a working day, 10am on the next working day;
+  > - (d) in the case of works starting on a day that is not a working day, 10am on the next working day.
+
+  ;
+- (b) omit paragraphs (2) and (3);
+- (c) in paragraph (4)—
+  - (i) in sub-paragraph (a) after “completed” insert “ interim or ”;
+  - (ii) in the words after paragraph (c), for the words from “end of the next day” to the end substitute “ time mentioned in paragraph (5). ”;
+- (d) after paragraph (4) insert—
+
+  > (5) The time is—
+  >
+  > - (a) in the case of a highway returned fully to public use within the period beginning with 12am and ending with 7:59am on a working day, 10am on the same day;
+  > - (b) in the case of a highway returned fully to public use within the period beginning with 8am and ending with 4:30pm on a working day, two hours after that full return;
+  > - (c) in the case of a highway returned fully to public use within the period beginning with 4:31pm and ending with 11:59pm on a working day, 10am on the next working day;
+  > - (d) in the case of a highway returned fully to public use on a day that is not a working day, 10am on the next working day.
+
+  .
+
+(4) In regulation 7 after “shall be two” insert “ working ”.
+
+(5) In regulation 9—
+
+- (a) in paragraph (3), before “day”, in both places it occurs, insert “ working ”;
+- (b) in paragraph (4) (including in Table 1)—
+  - (i) before “days”, in both places it occurs, insert “ working ”;
+  - (ii) before “day”, in both places it occurs, insert “ working ”;
+- (c) in paragraph (5), in Table 2 after “(each” insert “ working ”;
+- (d) in paragraph (9)(b) after “next” insert “ working ”;
+- (e) in paragraph (11) omit “in writing”.
+
+(6) In regulation 10(3) before “days”, in both places it occurs, insert “ working ”.
+
+(7) In regulation 11(3) after “shall be 2” insert “ working ”.
+
+(8) Omit regulation 14.
+
+(9) For regulation 15 substitute—
+
+> **15. Service of notices, etc**
+>
+> (1) A notice under these Regulations must be given by means of the Department for Transport's digital service for planning and managing roadworks.
+>
+> (2) Where a notice cannot be given by that means, it may be given by another means of electronic communication.
+>
+> (3) A notice given pursuant to paragraph (2) must be given—
+>
+> - (a) by sending it to an electronic address which has been agreed with the recipient for that purpose, or
+> - (b) if there is no such agreement, by sending it to—
+>   - (i) any email address published for the time being by the recipient as an address for contacting the recipient, or
+>   - (ii) if there is no such published address, any email address by means of which the person proposing to send the electronic communication believes, on reasonable grounds, that the notice will come to the attention of any director or other officer of the recipient.
+>
+> (4) An electronic communication must be—
+>
+> - (a) capable of being accessed by the recipient,
+> - (b) legible, and
+> - (c) in a form sufficiently permanent to be used for subsequent reference.
+>
+> (5) Where a notice cannot be given by another means of electronic communication in accordance with paragraph (3), it may be given by any other means of service agreed between the person giving the notice and the recipient.
+>
+> (6) In paragraphs (2) and (5), the reference to not being able to give a notice is a reference to not being able to give it after three attempts.
+>
+> (7) Where a notice given under these Regulations notice is successfully given by means of an interface which complies with the Department for Transport's Application Programming Interface (API) specification for planning and managing roadworks, published on 19th December 2019, version 1.12, as revised or re-issued from time to time, the requirement in paragraph (1) is deemed to be met in respect of that notice.
+
+.
+
+Signed by authority of the Secretary of State for Transport
+
+Vere
+
+Parliamentary Under Secretary of State
+
+Department for Transport
+
+*(This note is not part of the Regulations)*
+
+These Regulations make amendments relating to street works and works for road purposes. These Regulations amend the following instruments—
+
+- (a) the Street Works (Registers, Notices, Directions and Designations) (England) Regulations 2007 (S.I. 2007/1951),
+- (b) the Street Works (Fixed Penalty) (England) Regulations 2007 (S.I. 2007/1952),
+- (c) the Traffic Management Permit Scheme (England) Regulations 2007 (S.I.2007/3372), and
+- (d) the Street Works (Charges for Unreasonably Prolonged Occupation of the Highway) (England) Regulations 2009 (S.I. 2009/303).
+
+Those instruments are amended to support the implementation of Street Manager, a new digital service for planning, managing and communicating street and road works. Regulation 2 sets out which works this aspect of the Regulations applies to, and makes transitional provision. See also regulations 3(2)(a) and (c), (3) to (5) and (7), 4, 5(2), (3), (8) and (9), 6(2)(e), (8), and (9)).
+
+In addition—
+
+- (a) the Street Works (Registers, Notices, Directions and Designations) (England) Regulations 2007 are amended to reduce time periods relating to road restrictions (see regulation 3(6));
+- (b) the Traffic Management Permit Scheme (England) Regulations 2007 are amended to prevent incorrect classification and fees (see regulation 5(4));
+- (c) the Street Works (Charges for Unreasonably Prolonged Occupation of the Highway) (England) Regulations 2009 are amended to require more real-time updates of works' start and stop information (see regulation 6(3)).
+
+A full impact assessment of the effect that this instrument will have on the costs of business, the voluntary sector and the public sector may be seen at www.legislation.gov.uk/ or obtained by writing to the Department for Transport, 33 Horseferry Road, London SW1P 4DR.
+
+## Annotations
+
+[^c23975281]: Marginal citation: [1991 c. 22](https://www.legislation.gov.uk/ukpga/1991/22). The 1991 Act was amended by section s 256 of, and Schedule 31 to, the [Transport Act 2000 (c. 38)](https://www.legislation.gov.uk/ukpga/2000/38), sections 40, 49, 51, 52, 54 and 64 of, and Schedule 1 to, the [Traffic Management 2004 (c. 18)](https://www.legislation.gov.uk/ukpga/2004/18) and section 1 of, and Schedule 1 to, the [Infrastructure Act 2015](https://www.legislation.gov.uk/ukpga/2015/7). Schedule 3A to the 1991 Act was inserted by paragraph 1 of Schedule 4 to the Traffic Management Act 2004.
+
+[^c23975291]: Marginal citation: [2004 c. 18](https://www.legislation.gov.uk/ukpga/2004/18). Section 37(1) was amended by paragraphs 4 and 9(1) and (2)(a) of Schedule 10 to the [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20).
+
+[^key-3da7f9849fb0a24e1d8f67088efebeea]: Commencement: Reg. 1 in force at 1.7.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/122/regulation/1/2) (as amended (30.3.2020) by [S.I. 2020/346](https://www.legislation.gov.uk/uksi/2020/346), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2020/346/regulation/2/2))
+
+[^key-80682bd4ebf9a466e723e406eec3de38]: Textual amendment: Word in reg. 1(2) substituted (30.3.2020) by [The Street and Road Works (Amendments Relating to Electronic Communications) (England) (Amendment) Regulations 2020 (S.I. 2020/346)](https://www.legislation.gov.uk/uksi/2020/346), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/346/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2020/346/regulation/2/2)
+
+[^key-9f2631ad5305ead83f7a54bcf0f78b00]: Commencement: Reg. 2 in force at 1.7.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/122/regulation/1/2) (as amended (30.3.2020) by [S.I. 2020/346](https://www.legislation.gov.uk/uksi/2020/346), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2020/346/regulation/2/2))
+
+[^key-310bf5b5fd5d264e30585e32f8e78425]: Textual amendment: Words in reg. 2(3) substituted (30.3.2020) by [The Street and Road Works (Amendments Relating to Electronic Communications) (England) (Amendment) Regulations 2020 (S.I. 2020/346)](https://www.legislation.gov.uk/uksi/2020/346), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/346/regulation/1/2), [2(3)(a)](https://www.legislation.gov.uk/uksi/2020/346/regulation/2/3/a)
+
+[^key-0b95cdc53dce1992d8c08482d8d2380f]: Textual amendment: Word in reg. 2(4)(a) substituted (30.3.2020) by [The Street and Road Works (Amendments Relating to Electronic Communications) (England) (Amendment) Regulations 2020 (S.I. 2020/346)](https://www.legislation.gov.uk/uksi/2020/346), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/346/regulation/1/2), [2(3)(b)](https://www.legislation.gov.uk/uksi/2020/346/regulation/2/3/b)
+
+[^key-2be7d76d1091accd94068c547394acb8]: Textual amendment: Word in reg. 2(4)(b) substituted (30.3.2020) by [The Street and Road Works (Amendments Relating to Electronic Communications) (England) (Amendment) Regulations 2020 (S.I. 2020/346)](https://www.legislation.gov.uk/uksi/2020/346), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/346/regulation/1/2), [2(3)(c)](https://www.legislation.gov.uk/uksi/2020/346/regulation/2/3/c)
+
+[^key-52a97f34befcf9cbb6f15011bc2be158]: Textual amendment: Word in reg. 2(5) substituted (30.3.2020) by [The Street and Road Works (Amendments Relating to Electronic Communications) (England) (Amendment) Regulations 2020 (S.I. 2020/346)](https://www.legislation.gov.uk/uksi/2020/346), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/346/regulation/1/2), [2(3)(d)](https://www.legislation.gov.uk/uksi/2020/346/regulation/2/3/d)
+
+[^key-f79a520377e50b9993b0c5240a967d04]: Textual amendment: Word in reg. 2(5)(c) substituted (30.3.2020) by [The Street and Road Works (Amendments Relating to Electronic Communications) (England) (Amendment) Regulations 2020 (S.I. 2020/346)](https://www.legislation.gov.uk/uksi/2020/346), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/346/regulation/1/2), [2(3)(e)](https://www.legislation.gov.uk/uksi/2020/346/regulation/2/3/e)
+
+[^key-088f42552b29ed73ceabc82f802ca54c]: Textual amendment: Words in reg. 2(6) substituted (30.3.2020) by [The Street and Road Works (Amendments Relating to Electronic Communications) (England) (Amendment) Regulations 2020 (S.I. 2020/346)](https://www.legislation.gov.uk/uksi/2020/346), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/346/regulation/1/2), [2(3)(f)](https://www.legislation.gov.uk/uksi/2020/346/regulation/2/3/f)
+
+[^c23975301]: Marginal citation: This digital service can be accessed at https://www.gov.uk/guidance/plan-and-manage-roadworks.
+
+[^c23975311]: Marginal citation: This document can be accessed at https://departmentfortransport.github.io/street-manager-docs/api-documentation/V1.12/ or obtained by writing to the Department for Transport, 33 Horseferry Road, London SW1P 4DR.
+
+[^c23975321]: Marginal citation: [S.I. 2009/303](https://www.legislation.gov.uk/uksi/2009/303), amended by [S.I 2009/1178](https://www.legislation.gov.uk/uksi/2009/1178), [2012/2272](https://www.legislation.gov.uk/uksi/2012/2272); there are other amending instruments but none is relevant.
+
+[^c23975331]: Marginal citation: [S.I. 2007/1951](https://www.legislation.gov.uk/uksi/2007/1951).
+
+[^c23975341]: Marginal citation: [S.I.2007/3372](https://www.legislation.gov.uk/uksi/2007/3372), amended by [S.I. 2015/958](https://www.legislation.gov.uk/uksi/2015/958).
+
+[^key-19d543aaef1b9e2d7c2b8657ed15e677]: Commencement: Reg. 3 in force at 1.7.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/122/regulation/1/2) (as amended (30.3.2020) by [S.I. 2020/346](https://www.legislation.gov.uk/uksi/2020/346), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2020/346/regulation/2/2))
+
+[^c23975351]: Marginal citation: [2000, c. 7](https://www.legislation.gov.uk/ukpga/2000/7). Section 15(1) was amended by paragraph 158 of Schedule 17 to the [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21).
+
+[^c23975361]: Marginal citation: For the rules relating to service of notices under section 74 of the New Roads and Street Works Act 1991, see regulation 6 of [S.I. 2009/303](https://www.legislation.gov.uk/uksi/2009/303).
+
+[^c23975371]: Marginal citation: This digital service can be accessed at https://www.gov.uk/guidance/plan-and-manage-roadworks.
+
+[^key-970b22093e00803be880cc36777fa2de]: Commencement: Reg. 4 in force at 1.7.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/122/regulation/1/2) (as amended (30.3.2020) by [S.I. 2020/346](https://www.legislation.gov.uk/uksi/2020/346), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2020/346/regulation/2/2))
+
+[^c23975381]: Marginal citation: [S.I. 2007/1952](https://www.legislation.gov.uk/uksi/2007/1952).
+
+[^key-9888c66826e07857eb30f002c7ff2ada]: Commencement: Reg. 5 in force at 1.7.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/122/regulation/1/2) (as amended (30.3.2020) by [S.I. 2020/346](https://www.legislation.gov.uk/uksi/2020/346), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2020/346/regulation/2/2))
+
+[^c23975391]: Marginal citation: Section 53 of the [New Roads and Street Works Act 1991 (c. 22)](https://www.legislation.gov.uk/ukpga/1991/22) was amended by section 45 to the [Traffic Management Act 2004 (c. 18)](https://www.legislation.gov.uk/ukpga/2004/18).
+
+[^c23975401]: Marginal citation: [S.I. 2000/3314](https://www.legislation.gov.uk/uksi/2000/3314).
+
+[^c23975411]: Marginal citation: This digital service can be accessed at https://www.gov.uk/guidance/plan-and-manage-roadworks.
+
+[^key-904b9fb8a2286e1d1c439e6b8aa6eb6a]: Commencement: Reg. 6 in force at 1.7.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/122/regulation/1/2) (as amended (30.3.2020) by [S.I. 2020/346](https://www.legislation.gov.uk/uksi/2020/346), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2020/346/regulation/2/2))
+
+[^c23975421]: Marginal citation: [S.I. 2009/303](https://www.legislation.gov.uk/uksi/2009/303), amended by [S.I 2009/1178](https://www.legislation.gov.uk/uksi/2009/1178), [2012/2272](https://www.legislation.gov.uk/uksi/2012/2272); there are other amending instruments but none is relevant.

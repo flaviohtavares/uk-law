@@ -1,0 +1,31 @@
+---
+title: Finance Act 2005, section 44
+act: Finance Act 2005
+section: '44'
+status: revised
+text_date: '2025-03-21'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2005/7/section/44
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Finance Act 2005, section 44
+
+> Text as at 2025-03-21.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 44. Consequential amendments
+
+*Extent: E+W+S+N.I.*
+
+(1)[^key-041dc3f441edbde2494f5206c1dbcc80] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2)[^key-b68971f3109ec88d87e03742d9eec57a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Annotations
+
+[^key-041dc3f441edbde2494f5206c1dbcc80]: Textual amendment: S. 44(1) repealed (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
+
+[^key-b68971f3109ec88d87e03742d9eec57a]: Textual amendment: S. 44(2) omitted (with effect in accordance with Sch. 2 para. 22 of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 2 para. 21(i)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/21/i)

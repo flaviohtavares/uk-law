@@ -1,0 +1,76 @@
+---
+title: Local Government Grants (Social Need) Act 1969
+id: ukpga/1969/2
+type: UnitedKingdomPublicGeneralAct
+category: primary
+status: revised
+made_date: '1969-01-30'
+text_date: '2023-12-26'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/ukpga/1969/2
+pdf_urls:
+- http://www.legislation.gov.uk/ukpga/1969/2/pdfs/ukpga_19690002_en.pdf
+- http://www.legislation.gov.uk/ukpga/1969/2/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Local Government Grants (Social Need) Act 1969
+
+> Text as at 2023-12-26.
+>
+> Extent: England, Wales, Scotland.
+
+*Extent: E+W+S*
+
+Local Government Grants (Social Need) Act 1969
+
+1969 c. 2
+
+An Act to authorise the payment to local authorities in Great Britain of grants towards expenditure incurred by reason of special social need in urban areas.
+
+\[30th January 1969\][^c751012][^c751013][^key-41fd60e7cb075c611d6fbdbf82f53762]
+
+## 1. Provision for grants.
+
+(1) The Secretary of State may out of moneys provided by Parliament pay grants, of such amounts as he may with the consent of the Treasury determine, to local authorities who in his opinion are required in the exercise of any of their functions to incur expenditure by reason of the existence in any urban area of special social need.
+
+(2) Grants under this section may be paid at such times, subject to such conditions and on account of such expenditure (for the year 1968-69 or any later year) as the Secretary of State may determine.
+
+(3) The expressions “**local authority**” and “**year**” have the same meaning in this section, in its application to England and Wales, as they have for purposes of the [^c751030]Local Government Act 1966 by virtue of section 41 of that Act and, in its application to Scotland, as they have for purposes of the [^c751031]Local Government (Scotland) Act 1966 by virtue of section 46 of that Act except that in the application of this section to England and Wales “local authority” shall also include[^c751032] a fire and rescue authority created by an order under section 4A of the Fire and Rescue Services Act 2004,[^key-e76a9c517a1cfcc6ebeb7abb7a2c475b] the London Fire Commissioner[^key-8ebbd264525a15315bdff13e3d0ac659] a[^c751034] police and crime commissioner, the Mayor's Office for Policing and Crime[^key-c4e3a3002aeb68b0cd8d0aaa8660f1e0], a joint authority established by Part 4 of the Local Government Act 1985, an economic prosperity board established under section 88 of the Local Democracy, Economic Development and Construction Act 2009[^key-8323e7e43f3b9ad69d46fd26c55f3e52] , a combined authority established under section 103 of that Act and a combined county authority established under section 9(1) of the Levelling-up and Regeneration Act 2023[^key-e6f1900064bb0eb7f8145a56536a79fe].
+
+## 2. Short title, and extent.
+
+(1) This Act may be cited as the Local Government Grants (Social Need) Act 1969.
+
+(2) This Act does not extend to Northern Ireland.
+
+## Annotations
+
+[^c751012]: Modification: Words of enactment omitted under authority of [Statute Law Revision Act 1948 (c. 62)](https://www.legislation.gov.uk/ukpga/1948/62), [s. 3](https://www.legislation.gov.uk/ukpga/1948/62/section/3)
+
+    Act: amended (W.) (1.7.1999) by [S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672), [art. 2](https://www.legislation.gov.uk/uksi/1999/672/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/672/schedule/1)
+
+[^c751013]: Commencement: Act wholly in force at Royal Assent.
+
+[^key-41fd60e7cb075c611d6fbdbf82f53762]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1969/2) functions made exercisable concurrently or jointly with the Welsh Ministers by 2006 c. 32, Sch. 3A para. 1 (as inserted (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4), [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/4/paragraph/1) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(p)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/p))
+
+[^c751030]: Marginal citation: [1966 c. 42](https://www.legislation.gov.uk/ukpga/1966/42) . **(81:1).**
+
+[^c751031]: Marginal citation: [1966 c. 51](https://www.legislation.gov.uk/ukpga/1966/51) . **(81:2, 103:2).**
+
+[^c751032]: Textual amendment: Words in s. 1(3) inserted by [Local Government Act 1985 (c. 51, SIF 81:1)](https://www.legislation.gov.uk/ukpga/1985/51), [s. 84](https://www.legislation.gov.uk/ukpga/1985/51/section/84) , [Sch. 14 Pt. II para. 44](https://www.legislation.gov.uk/ukpga/1985/51/schedule/14/part/II/paragraph/44)
+
+[^key-e76a9c517a1cfcc6ebeb7abb7a2c475b]: Textual amendment: Words in s. 1(3) inserted (31.1.2017 for specified purposes, 3.4.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1/5/e), [Sch. 1 para. 20](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/20); [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
+
+[^key-8ebbd264525a15315bdff13e3d0ac659]: Textual amendment: Words in s. 1(3) substituted (31.1.2017 for specified purposes, 1.4.2018 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1/5/e), [Sch. 2 para. 30](https://www.legislation.gov.uk/ukpga/2017/3/schedule/2/paragraph/30); [S.I. 2018/227](https://www.legislation.gov.uk/uksi/2018/227), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2018/227/regulation/4/c)
+
+[^c751034]: Textual amendment: Words in s. 1(3) inserted (1.4.1995) by [1994 c. 29](https://www.legislation.gov.uk/ukpga/1994/29), [s. 43](https://www.legislation.gov.uk/ukpga/1994/29/section/43), [Sch. 4 Pt. I para. 4](https://www.legislation.gov.uk/ukpga/1994/29/schedule/4/part/I/paragraph/4); [S.I. 1994/3262](https://www.legislation.gov.uk/uksi/1994/3262), [art. 4](https://www.legislation.gov.uk/uksi/1994/3262/article/4), [Sch.](https://www.legislation.gov.uk/uksi/1994/3262/schedule)
+
+[^key-c4e3a3002aeb68b0cd8d0aaa8660f1e0]: Textual amendment: Words in s. 1(3) substituted (16.1.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [s. 157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1), [Sch. 16 para. 93](https://www.legislation.gov.uk/ukpga/2011/13/schedule/16/paragraph/93); [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1) (with [Sch. 2 para. 23](https://www.legislation.gov.uk/uksi/2011/3019/schedule/2/paragraph/23))
+
+[^key-8323e7e43f3b9ad69d46fd26c55f3e52]: Textual amendment: Words in s. 1(3) substituted (17.12.2009) by [Local Democracy, Economic Development and Construction Act 2009 (c. 20)](https://www.legislation.gov.uk/ukpga/2009/20) , [s. 148(6)](https://www.legislation.gov.uk/ukpga/2009/20/section/148/6) , [Sch. 6 para. 7](https://www.legislation.gov.uk/ukpga/2009/20/schedule/6/paragraph/7) ; [S.I. 2009/3318](https://www.legislation.gov.uk/uksi/2009/3318) , [art. 2(c)](https://www.legislation.gov.uk/uksi/2009/3318/article/2/c)
+
+[^key-e6f1900064bb0eb7f8145a56536a79fe]: Textual amendment: Words in s. 1(3) substituted (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [s. 255(2)(c)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/c), [Sch. 4 para. 20](https://www.legislation.gov.uk/ukpga/2023/55/schedule/4/paragraph/20) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))

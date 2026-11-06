@@ -1,0 +1,51 @@
+---
+title: Charities Act 2006, section 60
+act: Charities Act 2006
+section: '60'
+status: not-yet-in-force
+text_date: '2023-02-07'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/2006/50/section/60
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Charities Act 2006, section 60
+
+> This provision is not yet in force.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 60. Refusal of permits
+
+*Extent: E+W*
+
+**Not yet in force.**
+
+(1) The only ground on which a local authority may refuse an application for a permit to conduct a collection in a public place is that it appears to them that the collection would cause undue inconvenience to members of the public by reason of—
+
+- (a) the day or the week or date on or in which,
+- (b) the time at which,
+- (c) the frequency with which, or
+- (d) the locality or localities in which,
+
+it is proposed to be conducted.
+
+(2) In making a decision under subsection (1), a local authority may have regard to the fact (where it is the case) that the collection is proposed to be conducted—
+
+- (a) wholly or partly in a locality in which another collection in a public place is already authorised to be conducted under this Chapter, and
+- (b) on a day on which that other collection is already so authorised, or on the day falling immediately before, or immediately after, any such day.
+
+(3) A local authority must not, however, have regard to the matters mentioned in subsection (2) if it appears to them—
+
+- (a) that the proposed collection would be conducted only in one location, which is on land to which members of the public would have access only—
+  - (i) by virtue of the express or implied permission of the occupier of the land, or
+  - (ii) by virtue of any enactment, and
+- (b) that the occupier of the land consents to that collection being conducted there;
+
+and for this purpose “**the occupier**”, in relation to unoccupied land, means the person entitled to occupy it.
+
+(4) In this section a reference to a collection in a public place authorised under this Chapter is a reference to a collection in a public place that—
+
+- (a) is conducted in accordance with section 48, or
+- (b) is an exempt collection by virtue of section 50.

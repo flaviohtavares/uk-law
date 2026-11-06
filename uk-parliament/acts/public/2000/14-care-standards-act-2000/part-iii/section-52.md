@@ -1,0 +1,29 @@
+---
+title: Care Standards Act 2000, section 52
+act: Care Standards Act 2000
+section: '52'
+status: revised-with-pending-changes
+text_date: '2026-07-31'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/2000/14/section/52
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Care Standards Act 2000, section 52
+
+> **Warning: changes not yet applied to this text (5).** Text as at 2026-07-31. See https://www.legislation.gov.uk/changes/affected/ukpga/2000/14
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 52. Contravention of regulations.[^c12426681]
+
+*Extent: E+W*
+
+(1) Regulations under this Part may provide that a contravention of or failure to comply with any specified provision of the regulations shall be an offence.
+
+(2) A person guilty of an offence under the regulations shall be liable on summary conviction to a fine not exceeding level 4 on the standard scale.
+
+## Annotations
+
+[^c12426681]: Commencement: [S. 52](https://www.legislation.gov.uk/ukpga/2000/14/section/52) partly in force; [s. 52](https://www.legislation.gov.uk/ukpga/2000/14/section/52) not in force at Royal Assent see [s. 122](https://www.legislation.gov.uk/ukpga/2000/14/section/122); [s. 52](https://www.legislation.gov.uk/ukpga/2000/14/section/52) in force for W. at 1.7.2001 by [S.I. 2001/2190](https://www.legislation.gov.uk/uksi/2001/2190), [art. 2](https://www.legislation.gov.uk/uksi/2001/2190/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2001/2190/schedule) Table; [s. 52](https://www.legislation.gov.uk/ukpga/2000/14/section/52) in force for E. for certain purposes at 20.11.2001 by [S.I. 2001/3852](https://www.legislation.gov.uk/uksi/2001/3852), [arts. 1(4)](https://www.legislation.gov.uk/uksi/2001/3852/article/1/4), [3(2)(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2001/3852/article/3/2/3/a/ii) (subject to transitional provisions in [Sch. 1](https://www.legislation.gov.uk/uksi/2001/3852/schedule/1) and with transitional provisions in [Sch. 2](https://www.legislation.gov.uk/uksi/2001/3852/schedule/2)) (as amended by [S.I. 2001/4150](https://www.legislation.gov.uk/uksi/2001/4150), 2002/1493, 2002/1790, 2002/2001, 2002/3210); [s. 52](https://www.legislation.gov.uk/ukpga/2000/14/section/52) in force for E. for certain purposes in so far as not already in force at 1.4.2002 by [S.I. 2001/3852](https://www.legislation.gov.uk/uksi/2001/3852), [arts. 1(4)](https://www.legislation.gov.uk/uksi/2001/3852/article/1/4), [3(2)(7)(g)](https://www.legislation.gov.uk/uksi/2001/3852/article/3/2/7/g) (subject to transitional provisions in [Sch. 1](https://www.legislation.gov.uk/uksi/2001/3852/schedule/1) and with transitional provisions in [Sch. 2](https://www.legislation.gov.uk/uksi/2001/3852/schedule/2)) (as amended by [S.I. 2001/4150](https://www.legislation.gov.uk/uksi/2001/4150), 2002/1493, 2002/1790, 2002/2001, 2002/3210)

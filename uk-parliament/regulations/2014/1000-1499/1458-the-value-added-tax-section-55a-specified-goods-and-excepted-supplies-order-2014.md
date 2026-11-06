@@ -1,0 +1,195 @@
+---
+title: The Value Added Tax (Section 55A) (Specified Goods and Excepted Supplies) Order 2014
+id: uksi/2014/1458
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2014-06-09'
+text_date: '2020-12-31'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2014/1458
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2014/1458/pdfs/uksiem_20141458_en.pdf
+- http://www.legislation.gov.uk/uksi/2014/1458/pdfs/uksi_20141458_en.pdf
+- http://www.legislation.gov.uk/uksi/2014/1458/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Value Added Tax (Section 55A) (Specified Goods and Excepted Supplies) Order 2014
+
+> Text as at 2020-12-31.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2014 No. 1458
+
+Value Added Tax
+
+The Value Added Tax (Section 55A) (Specified Goods and Excepted Supplies) Order 2014
+
+Made
+
+9th June 2014
+
+Laid before the House of Commons
+
+9th June 2014
+
+Coming into force
+
+1st July 2014
+
+The Treasury, in exercise of the power conferred on them by section 55A(9), (10), (11) and (14) of the Value Added Tax Act 1994[^f00001], make the following Order.
+
+## 1. Citation, commencement and effect[^key-0cbfa008624af045384ffceb30cca437]
+
+(1) This Order may be cited as the Value Added Tax (Section 55A) (Specified Goods and Excepted Supplies) Order 2014.
+
+(2) This Order comes into force on 1st July 2014 and has effect in relation to supplies made on or after that date.
+
+## 2. Interpretation[^key-d1276ff2d0b6ac2c71b960ae6f719a3f]
+
+In this Order—
+
+- “accredited FIT installation” has the meaning specified in article 2(1) of the Feed-in Tariffs Order 2012[^f00002];
+- “the Act” means the Value Added Tax Act 1994;
+- “directed utility” means a person who is treated as a gas or electricity utility pursuant to a direction made under sub-paragraph 1, or regulations made under sub-paragraph 2, of paragraph 151 of Part 14 of Schedule 6 to the Finance Act 2000[^f00003];
+- “specified goods” means the goods specified in article 4;
+- “supply licence” means —
+  - (a) a licence granted under section 7A(1) of the Gas Act 1986 (licensing of gas suppliers and gas shippers)[^f00004];
+  - (b) a licence granted under section 6(1)(d) of the Electricity Act 1989 (licences authorising supply, etc.)[^f00005];
+  - (c) a licence granted under article 8(1)(c) of the Gas (Northern Ireland) Order 1996 (licences authorising supply, etc.)[^f00006]; or
+  - (d) a licence granted under article 10(1)(c) of the Electricity (Northern Ireland) Order 1992 (licences authorising supply, etc.)[^f00007];
+- “third party intermediary” means a person who purchases specified goods from a utility in order to make an onward supply of those goods to an end user for consumption, in circumstances where the goods are delivered directly to the end user by the utility;
+- “utility” has the meaning given by paragraph 150(1) of Part 14 of Schedule 6 to the Finance Act 2000.
+
+## 3. Application of section 55A of the Act[^key-1eb29a5c3fb411187e9dad96c07ccd63]
+
+(1) Section 55A of the Act (customers to account for tax on supplies of goods or services of a kind used in missing trader [^key-308bac0a1c9996f2d565f7c151587d02]... fraud) applies to goods of a description specified in article 4.
+
+(2) The supplies specified in article 5 are excepted supplies for the purposes of section 55A of the Act.
+
+## 4. Specified goods[^key-09195aeae1963ee8d33d2a72be8b733b]
+
+The goods referred to in article 3(1) are—
+
+- (a)[^key-1ded1184356ec21e696b275b63b99354] gas supplied through a natural gas system situated in Great Britain or any network connected to a natural gas system in Great Britain;
+- (aa) gas supplied through a natural gas system situated within Northern Ireland or the territory of a member State or any network connected to such a system; and
+- (b) electricity.
+
+## 5. Excepted supplies[^key-3e5b13a580af51ee545b0ea524eac979]
+
+The supplies referred to in article 3(2) are—
+
+- (a) a supply of specified goods made by a person who holds a supply licence in relation to that supply;
+- (b) a supply of specified goods by a directed utility to an end user for consumption;
+- (c) a supply of specified goods deemed to have been made pursuant to a contract under—
+  - (i) paragraph 3(1) or (2) of Schedule 6 to the Electricity Act 1989 (the electricity code: deemed contracts in certain cases)[^f00008];
+  - (ii) paragraph 8(1) or (2) of Schedule 2B to the Gas Act 1986 (the gas code: deemed contracts in certain cases)[^f00009];
+  - (iii) paragraph 3(1) or (2) of Schedule 6 to the Electricity (Northern Ireland) Order 1992 (the electricity supply code: deemed contracts)[^f00010]; or
+  - (iv) section 12(1) or (2) of the Energy Act (Northern Ireland) 2011 (gas: deemed contracts for supply in certain cases)[^f00011];
+- (d) a supply of specified goods made to a directed utility for the purpose of —
+  - (i) consumption by the directed utility, or
+  - (ii) onward supply by the directed utility to an end user for consumption;
+- (e) a supply of specified goods made by a person who, in relation to that supply, is exempted from the requirement to hold a supply licence under —
+  - (i) article 5 of the Gas Exemptions Order 2011 (supplier exemptions)[^f00012];
+  - (ii) paragraph 1, 2, 4 or 5 of Schedule 2A to the Gas Act 1986 (exceptions to prohibition on unlicensed activities)[^f00013];
+  - (iii) article 7(1) of the Gas (Northern Ireland) Order 1996 (exemptions)[^f00014];
+  - (iv) article 3(1)(c) of, and Schedule 4 to, the Electricity (Class Exemptions from the Requirements for a Licence) Order 2001[^f00015];
+  - (v) article 9(1) of the Electricity (Northern Ireland) Order 1992 (exemptions)[^f00016]; or
+  - (vi) article 3(1)(c) of, and Schedule 3 to, the Electricity (Class Exemptions from the Requirement for a Licence) Order (Northern Ireland) 2013[^f00017];
+- (f) a supply to which section 9A of the Act (reverse charge on gas, electricity, heat or cooling supplied by persons outside the United Kingdom)[^f00018] applies;
+- (g) a supply of electricity made by an accredited FIT installation;
+- (h) a supply of specified goods—
+  - (i) to a third party intermediary; or
+  - (ii) by a third party intermediary;
+- (i) any other supply of specified goods which is not a wholesale supply.
+
+Mark Lancaster
+
+Sam Gyimah
+
+Two of the Lords Commissioners of Her Majesty’s Treasury
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order, which has effect in relation to supplies made on or after 1st July 2014, applies a reverse charge to specified goods of a kind used in missing trader intra-Community fraud.
+
+Council [Directive 2006/112/EC](https://www.legislation.gov.uk/european/directive/2006/0112)[^f00019] (“the Principal VAT Directive”) establishes a common system of value added tax applicable throughout the European Union. As a general rule the Principal VAT Directive requires the person who makes supplies of goods or services to account for and pay the VAT on those supplies. However, in certain circumstances, the VAT may be required to be accounted for and paid by the recipient of those supplies. This charge is referred to as a “reverse charge”.
+
+The Principal VAT Directive was amended by Council Directive 2010/23/EU[^f00020] which inserted Article 199a. Article 199a permits Member States to apply a reverse charge in certain circumstances. Article 199a was itself amended by Council Directive 2013/43/EU[^f00021] which extends the circumstances in which Member States may apply a reverse charge to combat missing trader intra-Community fraud. In particular, it permits Member States to apply a reverse charge until 31 December 2018 and for a minimum period of two years to supplies of gas and electricity to a taxable dealer as defined in Article 38(2) of the Principal VAT Directive.
+
+Article 3 of the Order provides that goods of a description specified in article 4 of the Order are specified supplies for the purposes of section 55A of the VAT Act [1994 (c.23)](https://www.legislation.gov.uk/ukpga/1994/23) (customers to account for tax on supplies of goods or services of a kind used in missing trader intra-Community fraud) (“the Act”) and that supplies which are specified in article 5 of the Order are excepted supplies for the purposes of section 55A of the Act.
+
+Article 4 of the Order specifies the goods which are specified goods for the purposes of section 55A of the Act.
+
+Article 5 of the Order specifies the supplies which are excepted supplies for the purposes of section 55A of the Act.
+
+Supplies of gas and electricity are treated as supplies of goods by virtue of paragraph 3 of Schedule 4 to the Act.
+
+A Tax Information and Impact Note covering this instrument was published at Budget 2014 and is available on the HMRC website at HM Revenue & Customs: Tax Information and Impact Notes (TIINs). It remains an accurate summary of the impacts that apply to this instrument.
+
+## Annotations
+
+[^f00001]: Footnote: [1994 c.23](https://www.legislation.gov.uk/ukpga/1994/23). Section 55A was inserted by section 19(1) of the Finance Act [2006 (c.25)](https://www.legislation.gov.uk/ukpga/2006/25) and was amended by section 50(1) of the Finance Act [2010 (c.13)](https://www.legislation.gov.uk/ukpga/2010/13) and section 203 of, and paragraphs 2 and 6 of Schedule 28 to, the Finance Act [2012 (c.14)](https://www.legislation.gov.uk/ukpga/2012/14).
+
+[^key-0cbfa008624af045384ffceb30cca437]: Commencement: Art. 1 in force at 1.7.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/1458/article/1/2)
+
+[^key-d1276ff2d0b6ac2c71b960ae6f719a3f]: Commencement: Art. 2 in force at 1.7.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/1458/article/1/2)
+
+[^f00002]: Footnote: [S.I. 2012/2782](https://www.legislation.gov.uk/uksi/2012/2782). There are amendments to article 2 but none is relevant.
+
+[^f00003]: Footnote: [2000 c.17](https://www.legislation.gov.uk/ukpga/2000/17). There are amendments to Part 14 of Schedule 6 but none is relevant.
+
+[^f00004]: Footnote: [1986 c.44](https://www.legislation.gov.uk/ukpga/1986/44). Section 7A was inserted by section 6(1) of the Gas Act [1995 (c.45)](https://www.legislation.gov.uk/ukpga/1995/45). Section 7A(1) was amended by section 3(2) of the Utilities Act [2000 (c.27)](https://www.legislation.gov.uk/ukpga/2000/27). There are other amendments to section 7A but none is relevant.
+
+[^f00005]: Footnote: [1989 c.29](https://www.legislation.gov.uk/ukpga/1989/29). Section 6 was substituted by section 30 of the Utilities Act [2000 (c.27)](https://www.legislation.gov.uk/ukpga/2000/27). There are amendments to section 6 but none is relevant.
+
+[^f00006]: Footnote: [S.I. 1996/275 (N.I.2)](https://www.legislation.gov.uk/nisi/1996/275). Article 8(1) was amended by [S.R. 2011/155](https://www.legislation.gov.uk/nisr/2011/155) and [S.R.2013/92](https://www.legislation.gov.uk/nisr/2013/92). There are other amending instruments but none is relevant.
+
+[^f00007]: Footnote: [S.I. 1992/231 (N.I.1)](https://www.legislation.gov.uk/nisi/1992/231). Article 10(1) was amended by [S.I. 2003/419 (N.I.6)](https://www.legislation.gov.uk/nisi/2003/419), [S.R. 2007/321](https://www.legislation.gov.uk/nisr/2007/321), [S.I. 2007/913 (N.I.7)](https://www.legislation.gov.uk/nisi/2007/913), [S.R. 2011/155](https://www.legislation.gov.uk/nisr/2011/155). There are other amending instruments but none is relevant.
+
+[^key-1eb29a5c3fb411187e9dad96c07ccd63]: Commencement: Art. 3 in force at 1.7.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/1458/article/1/2)
+
+[^key-308bac0a1c9996f2d565f7c151587d02]: Textual amendment: Word in [art. 3(1)](https://www.legislation.gov.uk/uksi/2014/1458/article/3/1) omitted (31.12.2020) by virtue of [The Value Added Tax (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2019 (S.I. 2019/59)](https://www.legislation.gov.uk/uksi/2019/59), [regs. 1](https://www.legislation.gov.uk/uksi/2019/59/regulation/1), [86(2)](https://www.legislation.gov.uk/uksi/2019/59/regulation/86/2); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+
+[^key-09195aeae1963ee8d33d2a72be8b733b]: Commencement: Art. 4 in force at 1.7.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/1458/article/1/2)
+
+[^key-1ded1184356ec21e696b275b63b99354]: Textual amendment: [Art. 4(a)(aa)](https://www.legislation.gov.uk/uksi/2014/1458/article/4/a/aa) substituted for [art. 4(a)](https://www.legislation.gov.uk/uksi/2014/1458/article/4/a) (31.12.2020) by [The Value Added Tax (Miscellaneous Amendments, Northern Ireland Protocol and Savings and Transitional Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1545)](https://www.legislation.gov.uk/uksi/2020/1545), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1545/regulation/1), [103](https://www.legislation.gov.uk/uksi/2020/1545/regulation/103) (with [regs. 109-131](https://www.legislation.gov.uk/uksi/2020/1545/regulation/109)); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+
+[^key-3e5b13a580af51ee545b0ea524eac979]: Commencement: Art. 5 in force at 1.7.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/1458/article/1/2)
+
+[^f00008]: Footnote: [1989 c.29](https://www.legislation.gov.uk/ukpga/1989/29). The provisions of Schedule 6 were substituted by section 51 of, and Schedule 4 to, the Utilities Act [2000 (c.27)](https://www.legislation.gov.uk/ukpga/2000/27).
+
+[^f00009]: Footnote: [1986 c.44](https://www.legislation.gov.uk/ukpga/1986/44). Schedule 2B was inserted by section 9(2) of, and Schedule 2 to, the Gas Act [1995 (c.45)](https://www.legislation.gov.uk/ukpga/1995/45). Paragraph 8(2) of Schedule 2B was amended by section 108 of, and Schedule 8 to, the Utilities Act [2000 (c.27)](https://www.legislation.gov.uk/ukpga/2000/27). Other amendments have been made to Schedule 2B but none is relevant.
+
+[^f00010]: Footnote: The provisions of Schedule 6 were substituted by [S.R. 2007/321](https://www.legislation.gov.uk/nisr/2007/321). There are other amending instruments but none is relevant.
+
+[^f00011]: Footnote: [2011 c.6](https://www.legislation.gov.uk/ukpga/2011/6).
+
+[^f00012]: Footnote: [S.I. 2011/232](https://www.legislation.gov.uk/uksi/2011/232).
+
+[^f00013]: Footnote: Schedule 2A was inserted by section 3(2) of, and Schedule 1 to, the Gas Act [1995 (c.45)](https://www.legislation.gov.uk/ukpga/1995/45).
+
+[^f00014]: Footnote: [S.I. 1996/275 (N.I.2)](https://www.legislation.gov.uk/nisi/1996/275) which was relevantly amended by [S.R. 2013/92](https://www.legislation.gov.uk/nisr/2013/92).
+
+[^f00015]: Footnote: [S.I. 2001/3270](https://www.legislation.gov.uk/uksi/2001/3270).
+
+[^f00016]: Footnote: Article 9(1) was amended by [S.I. 2007/913 (N.I.7)](https://www.legislation.gov.uk/nisi/2007/913) and [S.R. 2011/155](https://www.legislation.gov.uk/nisr/2011/155).
+
+[^f00017]: Footnote: [S.R. 2013/93](https://www.legislation.gov.uk/nisr/2013/93).
+
+[^f00018]: Footnote: Section 9A was inserted by section 21(1) of the Finance Act [2004 (c.12)](https://www.legislation.gov.uk/ukpga/2004/12) and amended by section 20(1) of the Finance (No. 3) Act [2010 (c.33)](https://www.legislation.gov.uk/ukpga/2010/33).
+
+[^f00019]: Footnote: OJ No L 347, 11.12.06, p1.
+
+[^f00020]: Footnote: OJ No L 72, 20.3.10, p1.
+
+[^f00021]: Footnote: OJ No L 201, 26.7.13, p4.

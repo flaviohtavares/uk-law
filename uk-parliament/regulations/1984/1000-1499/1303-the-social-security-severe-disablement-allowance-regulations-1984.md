@@ -1,0 +1,594 @@
+---
+title: The Social Security (Severe Disablement Allowance) Regulations 1984
+id: uksi/1984/1303
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised-with-pending-changes
+made_date: '1984-08-15'
+text_date: '2014-01-01'
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1984/1303
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1984/1303/pdfs/uksi_19841303_301114_en.pdf
+- http://www.legislation.gov.uk/uksi/1984/1303/pdfs/uksi_19841303_en.pdf
+- http://www.legislation.gov.uk/uksi/1984/1303/data.pdf
+pending_changes: 6
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Westlaw UK derived from Crown Copyright material and contributed to legislation.gov.uk
+summary: ''
+---
+
+# The Social Security (Severe Disablement Allowance) Regulations 1984
+
+> **Warning: changes not yet applied to this text (6).** Text as at 2014-01-01. See https://www.legislation.gov.uk/changes/affected/uksi/1984/1303
+
+1984 No. 1303
+
+SOCIAL SECURITY
+
+The Social Security (Severe Disablement Allowance) Regulations 1984
+
+Made
+
+15th August 1984
+
+Laid before Parliament
+
+20th August 1984
+
+Coming into Operation
+
+regulations 1,2, 10,17, 18 and 19
+
+10th September 1984
+
+remainder
+
+29th November 1984
+
+The Secretary of State for Social Services, in exercise of the powers set out in Schedule 1 below, and of all other powers enabling him in that behalf, by this instrument, which contains only provisions consequential on section 11 of the Health and Social Security Act 1984 and regulations made under section 36 of the Social Security Act 1975[^f00001], makes the following regulations:—
+
+## PART I — GENERAL
+
+### 1. Citation and commencement
+
+These regulations may be cited as the Social Security (Severe Disablement Allowance) Regulations 1984 and shall come into operation in the case of regulations 1, 2, 10, 17, 18 and 19 on 10th September 1984, and in the case of the remainder of the regulations on 29th November 1984.
+
+### 2. Interpretation
+
+(1) In these regulations “**the Act**” means the Social Security Act 1975, [^key-121dc6d55b76a0a697167a9c450915cd]... “**the 1984 Act**” means the Health and Social Security Act 1984 and “the[^key-2fa95931621dc8485075c7dfe0fd4044] Contributions and Benefits Act” means the Social Security Contributions and Benefits Act 1992.
+
+(1A)[^key-f18ab040657297a0f09b3c21cb46787f] In these Regulations—
+
+- “councillor” has the same meaning as in section 171F(2) of the Contributions and Benefits Act; and
+- “councillor’s allowance” has the same meaning as in section 30E(2) of the Contributions and Benefits Act.
+
+(1B)[^key-b45cfc5bcd64dcfed1f82108237d81de] In these Regulations “disability appeal tribunal” means a tribunal constituted in accordance with Schedule 10A to the Act.
+
+(1C)[^key-00ede53ee0a61fca3dd189c9ebd5c552] In these Regulations—
+
+- “voluntary body” means a body the activities of which are carried out otherwise than for the purpose of profit; and
+- “volunteer” means a person who is engaged in voluntary work with a charity or voluntary body, or who is engaged in voluntary work otherwise than for a member of his family, where the only payment received by him or due to be paid to him by virtue of being so engaged, is a payment in respect of any expenses reasonably incurred by him in the course of being so engaged.
+
+(2) Any reference in these regulations to a person's father, mother, son, or daughter includes a reference to his step-father, step-mother, step-son or step-daughter, as the case may be, and a person shall be treated as such a relative if he would be such a relative if some person born illegitimate had been born legitimate.
+
+(3)[^key-a87bf63203e6fb47391389a3323c1c6f] In determining whether a day falls within a period of incapacity for work, the provisions of section 30C of the Contributions and Benefits Act (incapacity benefit: days and periods of incapacity for work) and of any regulations made under section 30C(3) and (4) shall have effect for the purposes of severe disablement allowance as they have effect for the purposes of incapacity benefit.
+
+(4) References in regulations 5(b) and 6 to a person being entitled to a severe disablement allowance and in regulation 20 to a person being entitled to a non-contributory invalidity pension include a reference to a person who would be entitled to a payment of such an allowance or, as the case may be, such a pension but for any provision of the Social Security (Overlapping Benefits) Regulations 1979.
+
+(5) Unless the context otherwise requires, any reference in these regulations to a numbered regulation is a reference to the regulation bearing that number in these regulations and any reference in a regulation to a numbered paragraph is a reference to the paragraph of that regulation bearing that number.
+
+### 2A. Disapplication of section 1(1A) of the Administration Act[^key-e4af678101ac6b1993bb542d2e654b99]
+
+(1) Section 1(1A) of the Administration Act (requirement to state national insurance number) shall not apply—
+
+- (a)[^key-22326aaf8bb9ef0918c3f2ffb12cd2ed] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) to an adult dependant in respect of whom a claim for an increase of severe disablement allowance is made or treated as made before 5th October 1998.
+
+## PART II — MISCELLANEOUS PROVISIONS RELATING TO SEVERE DISABLEMENT ALLOWANCE
+
+### 3. Conditions relating to residence and presence
+
+(1)[^key-0b79a64ce79b1147cc7c82b1a06593c5] Subject to the following provisions of this regulation, the prescribed conditions for the purposes of section 36(4)(c) of the Act as to residence and presence in Great Britain in relation to any person on any day shall be that—
+
+- (a) on that day—
+  - (i) he is ordinarily resident in Great Britain, and
+  - (ib) he is not a person subject to immigration control within the meaning of section 115(9) of the Immigration and Asylum Act 1999 or section 115 of that Act does not apply to him for the purposes of entitlement to severe disablement allowance by virtue of regulation 2 of the Social Security (Immigration and Asylum) Consequential Amendments Regulations 2000, and[^key-f687d3efcecd44473871811dd04b4a61]
+  - (ii) he is present in Great Britain, and
+  - (iii) he has been present in Great Britain for a period of, or for periods amounting in the aggregate to, not less than 26 weeks in the 52 weeks immediately preceding that day; [^key-fa861b2fcef37c879fea033bf223cb87]...
+- (b)[^key-bc150ad8977114d243cb786884706c7a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(1A)[^key-58f2234331bb4ad1aee9390ccf5095c8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(1B)[^key-cdd78e65da9f5b01d6bc842460f5f81b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2)[^key-a8d1211d9c109fa8659250187fa61083] Section 36 of the Act shall be modified by adding after subsection (4) the following subsection–
+
+> (4ZA) In determining whether the person satisfies any conditions prescribed under paragraph (c) of subsection (4) above–
+>
+> - (a) any period during which the person is absent from Great Britain by reason only of the fact that–
+>   - (i) he is abroad in his capacity as a serving member of the forces, or
+>   - (ii) he is living with a person mentioned in sub-paragraph (i) and is the spouse, son, daughter, father, father-in-law, mother or mother-inlaw of that person,
+>
+>   shall be treated as a period during which the person was resident in Great Britain; and
+> - (b) any day on which the person is absent from Great Britain by reason only of the fact that on that day–
+>   - (i) he is abroad in his capacity as a serving member of the forces, or
+>   - (ii) he is living with a person mentioned in sub-paragraph (i) and is the spouse, son, daughter, father, father-in-law, mother or mother-inlaw of that person, or
+>   - (iii) he is in employment prescribed for the purposes of section 132 of the Act in connection with continental shelf operations, or
+>   - (iv) he is abroad in his capacity as an airman or mariner within the meaning of regulation 81 and regulation 86 respectively of the Social Security (Contributions) Regulations 1979
+>
+>   shall be treated as a day on which the person is present in Great Britain; and for the purposes of this provision, the expression “serving member of the forces” has the same meaning as in regulation 1(2) of the Social Security (Contributions) Regulations 1979.
+
+(3) Where a person has been entitled to a severe disablement allowance or a non-contributory invalidity pension for any day, the conditions set out in paragraph (1) of this regulation shall not apply to that person in respect of any subsequent day of incapacity for work falling within the same period of incapacity for work[^key-18f1ca91bc1dd5fd11966d9772d9c8d0].
+
+### 4. Circumstances in which a person over the age of 65 is to be treated as having been entitled to a severe disablement allowance immediately before attaining that age[^key-7e2a643868c680f56f9554c09da569ae]
+
+A person who has attained the age of 65 shall for the purposes of section 36(4)(d) of the Act be treated as having been entitled to a severe disablement allowance immediately before attaining that age if immediately before attaining it—
+
+- (a) he would have satisfied the conditions for entitlement to that allowance or to a non-contributory invalidity pension but for the provisions of the Social Security (Overlapping Benefits) Regulations 1979, or
+- (b) he was entitled to a non-contributory invalidity pension.
+
+### 4A. Women aged 65 before 28th October 1994[^key-a1d8a78cbdd7343cc22e71347bca23bf]
+
+(1) A woman shall be entitled to a severe disablement allowance if—
+
+- (a) she attained the age of 65 before 28th October 1994;
+- (b) immediately before attaining the age of 65 she would have satisfied the requirements for entitlement to a severe disablement allowance or, if she attained that age before 29th November 1984, to a non-contributory invalidity pension (whether or not she made a claim) but for—
+  - (i) the condition, which applied prior to 28th October 1994, in section 68(4)(d) of the Contributions and Benefits Act (exclusion of persons who had attained pensionable age and had not been entitled to a severe disablement allowance immediately before attaining that age); or
+  - (ii) the corresponding condition in respect of non-contributory invalidity pension; and
+- (c) she satisfies the requirements for entitlement to a severe disablement allowance apart from the conditions in section 68(2), (3) and (4)(d) of the Contributions and Benefits Act.
+
+(2) For the purposes of paragraph (1)(b) there shall be excluded from the requirements for entitlement to a non-contributory invalidity pension the condition that the claimant, if she were married or cohabiting with a man, be incapable of performing normal household duties.
+
+### 5. Severe disablement allowance for persons over the age of 65[^key-6317b90a68e40fa7844709f981ec093b]
+
+A person who—
+
+- (a) has attained the age of 65; and
+- (b) was entitled to a severe disablement allowance immediately before he attained that age,
+
+shall continue to be so entitled notwithstanding that he does not satisfy the conditions specified in subsection (2) or (3) of section 36 of the Act if he satisfies the other requirements for entitlement to such an allowance.
+
+### 5A. Men aged 65 before 28th October 1994[^key-bf25355152e17389136acd4010caa340]
+
+A man who—
+
+- (a) attained the age of 65 before 28th October 1994; and
+- (b) was entitled to a severe disablement allowance or a non-contributory invalidity pension immediately before he attained that age,
+
+shall be entitled to a severe disablement allowance notwithstanding that he ceased to satisfy the conditions specified in section 68(2) or (3) of the Contributions and Benefits Act after he attained that age, if he satisfies the other requirements for entitlement to that allowance.
+
+### 6. Modification of section 36(2) and (3) of the Act in relation to persons who have previously been entitled to a severe disablement allowance[^M_C_1364afb5-69df-4ec6-ba7a-9f4704c246f2]
+
+A person who has previously been entitled to a severe disablement allowance for any day shall be entitled to such an allowance on the relevant day notwithstanding that he does not satisfy—
+
+- (a) in the case of a person who on the earlier day satisfied the conditions specified in section 36(2) of the Act, the conditions specified in subsection (2)(b) of that section; or
+- (b) in the case of a person who on the earlier day satisfied the conditions specified in section 36(3) of the Act, the conditions specified in subsection (3)(b) of that section,
+
+if the relevant day and the earlier day fall within the same period of incapacity for work[^key-5ef2532ca7b7203bca6b0e57fb9027ac] and if he satisfies the other requirements for entitlement to such an allowance.
+
+### 7. Days for which persons are to be regarded as incapable of work for the purposes of severe disablement allowance
+
+(1)[^key-fe4234337377876c07c25f29fda2e34d] Subject to paragraph (3), for the purposes of severe disablement allowance a person shall not be treated as incapable of work for any day which is not to be treated as a day of incapacity for work under regulation 4(1)(c) (Persons attending training courses) of the Social Security (Incapacity Benefit) Regulations 1994.
+
+(1A)[^key-6cb6010f6719b7face40babdeea3bcbb] Regulation 5 (night workers) of the Social Security (Incapacity Benefit) Regulations 1994 shall apply for the purposes of severe disablement allowance as it applies for the purposes of incapacity benefit.
+
+(1B)[^key-c2a57121839f96b748e8eb0f0e8d934d] For the purposes of severe disablement allowance, a person shall be treated as incapable of work on any day in a period, consisting of a cumulative number of days of incapacity for work not exceeding 91 days in total for which he makes a claim for severe disablement allowance, beginning within a linking term and ending on a day not later than 13 weeks from the end of that linking term in respect of which he has been determined to be a person who is a welfare to work beneficiary; and in this paragraph “linking term” and “welfare to work beneficiary” have the meanings given in regulation 13A of the Social Security (Incapacity for Work) (General) Regulations 1995 (welfare to work beneficiary).
+
+(1C)[^key-7d6dff355ecffe3d72695e49e7f78516] For the purposes of severe disablement allowance, a person shall be treated as incapable of work on any day where he is treated as incapable of work under regulation 10A of the Social Security (Incapacity for Work) (General) Regulations 1995 (certain persons participating in approved work to be treated as incapable of work).
+
+(2)[^M_C_93346aaf-7c31-4bb8-8919-ef6951bb6329][^key-eaf191c4b56aa53b7fed989875107a5d] In determining for the purposes of section 68(2) or (3) of the Contributions and Benefits Act whether a person has been incapable of work for a period of not less than 196 consecutive days, a day shall not be treated as a day on which that person was incapable of work if that day was a day on which he was undergoing imprisonment or detention in legal custody and which was part of a period of imprisonment or detention of more than 6 weeks.
+
+(3) A person who was incapable of work—
+
+- (a) for not less than 196 consecutive days commencing on or before he attained the age of 20, and
+- (b) for not less than 196 consecutive days immediately preceding the relevant day,
+
+but who was capable of work for a period which does not, or for periods which in the aggregate do not, exceed 182 days where that period or those periods occurred
+
+- (i) after the 196 days mentioned in sub-paragraph (a) but before the 196 days mentioned in sub-paragraph (b), and
+- (ii) after he attained the age of 15 years 24 weeks,
+
+[^M_C_ed262e66-dcac-413a-ffb1-494912ddca89]shall be treated for the purposes of section 36(2)(b) of the Act, and for that purpose only, as incapable of work on each day within that period or those periods.
+
+### 7A. Treatment of duties as a councillor as a day of incapacity for work[^key-5ed203bf0aceceec8b0c448311ef8ef3]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 8. Circumstances in which a person is to be treated as receiving full-time education
+
+(1) A person shall be treated as receiving full-time education for the purposes of severe disablement allowance for any period during which—
+
+- (a) he is not less than 16 or more than 19 years of age; and
+- (b) he attends for not less than 21 hours a week a course of education; so, however, that in calculating the number of hours a week during which he attends that course no account shall be taken of any instruction or tuition which is not suitable for persons of the same age and sex who do not suffer from a physical or mental disability.
+
+(2) In determining the duration of a period of full-time education under paragraph (1), any temporary interruption of that education may be disregarded.
+
+(3) A person over the age of 19 shall be treated as not receiving full-time education.
+
+### 8A. Severe disablement allowance for persons who are councillors[^key-5df0ed911740f2b6e8d8a0452f90f0a1][^M_C_3a6e818d-037c-40ae-8897-178b603ba1d4]
+
+Where the amount of a councillor's allowance to which a person is entitled in respect of any week exceeds the sum for the time being specified in regulation 8 of the Social Security (Incapacity Benefit) Regulations 1994[^key-af2742348ac180221d442616ac287c38], then an amount equal to the excess shall be deducted from the amount of any severe disablement allowance to which he is entitled in respect of that week, and only the balance remaining (if any) shall be payable.
+
+### 9. Disqualification for severe disablement allowance[^key-4952ebf8fddb53b55a0afdaa1228c4e7]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 10. Adjudication
+
+(1) For the purposes of section 36(5) (extent of disablement) of the Act, the evidence required that on any day a person suffers or suffered from loss of physical or mental faculty such that the assessed extent of the resulting disablement amounts or amounted to not less than 80 per cent. shall consist of—
+
+- (a) evidence that that day falls within *(affected by repeal, see note)*[^key-ee1c1caf7ed3f3707bf5a39bed9ab50b] a period when the person is or was entitled to attendance allowance[^key-f835c72666f526dc430a46a6937550ad] *(affected by repeal, see note)*[^key-ee1c1caf7ed3f3707bf5a39bed9ab50b] under section 35(2) of the Act; *(affected by repeal, see note)*[^key-ee1c1caf7ed3f3707bf5a39bed9ab50b]
+- (b) evidence that on that day he is or was entitled to— *(affected by repeal, see note)*[^key-8095f4752efc0527b19c5fc36b8737e4]
+  - (i)[^key-48e630ba03f9fffe980cde65484ebe07] a mobility allowance under section 37A of the Act or the mobility component of disability living allowance at the higher rate prescribed in accordance with section 37ZC(10) of the Act or the care component of disability living allowance at the highest or middle rate prescribed in accordance with section 37ZB(3) of the Act; or *(affected by repeal, see note)*[^key-8095f4752efc0527b19c5fc36b8737e4]
+  - (ii (affected by repeal, see note))[^key-8095f4752efc0527b19c5fc36b8737e4] a mobility supplement under article 26A of the Naval, Military and Air Forces *(affected by repeal, see note)*[^key-8095f4752efc0527b19c5fc36b8737e4] etc. *(affected by repeal, see note)*[^key-8095f4752efc0527b19c5fc36b8737e4] (Disablement and Death) Service Pensions Order 1983 *(affected by repeal, see note)*[^key-8095f4752efc0527b19c5fc36b8737e4][^f00003] or under article 25A of the Personal Injuries (Civilians) Scheme 1983; *(affected by repeal, see note)*[^key-8095f4752efc0527b19c5fc36b8737e4]
+
+  evidence that on that day he is or was entitled to the care component of disability living allowance at the highest rate prescribed in accordance with section 72(3) and (4) (a) of the Contributions and Benefits Act;
+- (c) evidence that the extent of his disablement on that day has been assessed for the purposes of section 57 of the Act as not less than 80 per cent;
+- (d) evidence that that day is or was or is or was later than one in respect of which it has been determined under the Vaccine Damage Payments Act 1979 that he is or was severely disabled as a result of a vaccination against any of the diseases to which that Act applies;
+- (e) evidence that the degree of his disablement on that day has been assessed for the purposes of Part III of the Naval, Military and Air Forces etc. (Disablement and Death) Service Pensions Order 1983 or of Part III of the Personal Injuries (Civilians) Scheme 1983 as not less than 80 per cent;
+- (f) evidence that on that day he is or was registered as a blind or partially sighted *(affected by repeal, see note)*[^key-b17825bb24efa06050afcd5d1d4ea9a2] person in a register compiled under section 29 of the National Assistance Act 1948;
+- (ff)[^key-78f99aff57ea66d1467332cc868a10d5] evidence that he has been certified as blind or partially sighted *(affected by repeal, see note)*[^key-c15f7b5c8262d862a2f5eafb62ce7787] and that in consequence he is or was registered on that day as blind or partially sighted *(affected by repeal, see note)*[^key-c15f7b5c8262d862a2f5eafb62ce7787] in a register maintained by or on behalf of a regional or islands council;
+- (g) evidence that on that day the Secretary of State provides or provided him with an invalid carriage or other vehicle under section 5(2) of the National Health Service Act 1997 or makes or made payments by way of grant to him under paragraph 2 of Schedule 2 to that Act;
+- (gg)[^key-a531cd12e2bd6b3e8e2d8e83c3090337] evidence that on that day the Secretary of State provides or provided him with an invalid carriage or other vehicle under section 46 of the National Health Service (Scotland) Act 1978or makes or made payments by way of grant to him under that section;
+- (h) evidence that the extent of his disablement on that day has been assessed for the purposes of section 36 of the Act as not less than 80 per cent; or
+- (hh)[^key-1e98f289d814c05f9f6251138dd69c63] subject to paragraph (2B) and during the period referred to in regulation 7(1B), evidence that he has been determined on that day to be a welfare to work beneficiary in accordance with regulation 13A of the Social Security (Incapacity for Work) (General) Regulations 1995;
+- (i) such other evidence as satisfies the Secretary of State or, as the case may be, an appeal tribunal constituted under Chapter I of Part I of the Social Security Act 1998[^key-faf3d2e314d4b4a97e1c266a9ab4127e] that he so suffers or suffered.
+
+(2) For the purposes of sub-paragraphs (a) to (h) of paragraph (1) an official record of the Department of Social Security[^key-d866b793a73ed90b4d991b7d0c8d3831] of any fact specified in those sub-paragraphs shall be sufficient evidence of that fact.
+
+(2A)[^key-51390b3d02c1940d39143b49088ffa74] For the purposes of paragraphs (1)(g) and (1)(gg) “**invalid carriage or other vehicle**” means a vehicle propelled by petrol engine or by electric power supplied for use on the road and to be controlled by the occupant.
+
+(2B)[^key-7a67fe7d17ba1e74551f5810960b37b2] Paragraph (1)(hh) shall not apply to a welfare to work beneficiary who, in his immediate past period of incapacity for work within the meaning of regulation 13A of the Social Security (Incapacity for Work) (General) Regulations 1995, was not assessed to be disabled in accordance with section 68(6) of the Contributions and Benefits Act.
+
+(3)[^key-8b07bf77be8e194cefaeb38b80baee2b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4)[^key-8b07bf77be8e194cefaeb38b80baee2b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART IIA — SEVERE DISABLEMENT ALLOWANCE: AGE RELATED ADDITION[^key-f53a8c6b142db03089b917fa76cdbd77]
+
+### 10A. Circumstances in which a person is to be treated as having qualified for severe disablement allowance[^key-9c49a84f681966c8d7520ddf4a052e2c]
+
+(1) A person shall be treated for the purposes of section 36A of the Act (which applies an age related addition to a severe disablement allowance) as having qualified for severe disablement allowance–
+
+- (a) where he is a person to whom regulation 20 (persons formerly entitled to non-contributory invalidity pension) applies, on the first day of incapacity for work in a period of not less than 196 consecutive days of incapacity for work which immediately preceded the day he was first entitled to a non-contributory invalidity pension;
+- (b) where he is a person who qualified for severe disablement allowance by virtue of subsection (3)(b) of section 36 of the Act and was incapable of work on each day in a period which immediately preceded the period of not less than 196 consecutive days mentioned in that subsection, on the first day of incapacity for work in the period first mentioned;
+- (c) where he is a person to whom regulation 6 (modification of section 36(2) and (3) of the Act etc) applies, on the first day of incapacity for work in a period of not less than 196 consecutive days of incapacity which immediately preceded the first day on which he was previously entitled to a severe disablement allowance.
+
+(2) Where in any particular case a person satisfies the requirements of two or more subparagraphs in paragraph (1), then he shall be treated as having qualified for severe disablement allowance in accordance with that sub-paragraph which produces the earlier or earliest day in his case.
+
+### 10B. Circumstances in which days are to be treated as days of incapacity for work
+
+Where a person is treated as incapable of work for the purposes of section 36(2)(b) of the Act because regulation 7(3) (days for which persons are to be regarded as incapable of work etc.) applies to him, the days on which he was treated as incapable of work under regulation 7(3), shall be treated as days of incapacity for work for the purpose of determining the day on which he qualified for severe disablement allowance under section 36A of the Act.
+
+## PART III — CONSEQUENTIAL AMENDMENT OF REGULATIONS
+
+### 11. Consequential amendment of regulations
+
+For the words “non-contributory invalidity pension” wherever they occur in any provision mentioned in column 3 of Schedule 2 there shall be substituted the words “severe disablement allowance”.
+
+### 12. Amendment of the Social Security (Adjudication) Regulations 1984[^key-9f4003a1d2b31384502929e55a171b8b]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 13. Amendment of the Social Security (Benefit) (Members of the Forces) Regulations 1975
+
+In regulation 2 of the Social Security (Benefit) (Members of the Forces) Regulations 1975[^f00005] (unemployment, sickness and invalidity benefit) for the shoulder note and the words in that regulation down to and including “non-contributory invalidity benefit” there shall be substituted the following shoulder note and words:—
+
+> **2. Unemployment, sickness and invalidity benefit and severe disablement allowance**
+>
+> A person shall not be entitled to unemployment benefit, sickness benefit, invalidity benefit or a severe disablement allowance
+
+.
+
+### 14. Amendment of the Social Security (Airmen's Benefit) Regulations 1975
+
+In regulation 2 of the Social Security (Airmen's Benefit) Regulations 1975[^f00006] (removal of disqualification in the case of airmen for receiving benefit while absent from Great Britain) for the words “invalidity benefit or non-contributory invalidity pension” where they occur in paragraphs (1) and (2) there shall be substituted the words “invalidity benefit or severe disablement allowance”.
+
+### 15. Amendment of the Social Security (Mariners' Benefits) Regulations 1975
+
+(1) The Social Security (Mariners' Benefits) Regulations 1975[^f00007] shall be amended in accordance with the following provisions of this regulation.
+
+(2) In regulation 4 (removal of disqualification for receiving benefit by reason of absence from Great Britain)—
+
+- (a) in paragraph (a) for the words “sickness benefit, invalidity benefit or non-contributory invalidity pension” there shall be substituted the words “sickness benefit, invalidity benefit or severe disablement allowance”;
+- (b) in paragraph (b) for the words “unemployment benefit, sickness benefit, invalidity benefit or non-contributory invalidity pension”, there shall be substituted the words “unemployment benefit, sickness benefit, invalidity benefit or severe disablement allowance” .
+
+(3) In regulation 5 (evidence of unemployment or incapacity) for the words “unemployment benefit, sickness benefit, invalidity benefit or non-contributory invalidity pension”, there shall be substituted the words “unemployment benefit, sickness benefit, invalidity benefit or severe disablement allowance”.
+
+(4) In regulation 6(2) (special provisions relating to days of incapacity for work) for the words “sickness benefit, invalidity benefit or non-contributory invalidity pension” there shall be substituted the words “sickness benefit, invalidity benefit or severe disablement allowance”.
+
+### 16. Amendment of the Social Security Benefit (Persons Abroad) Regulations 1975
+
+In regulation 2(1) of the Social Security Benefit (Persons Abroad) Regulations 1975[^f00008] (modification of the Act in relation to various benefits) for the shoulder note and the words in that regulation down to and including “non-contributory invalidity pension”, there shall be substituted the following shoulder note and words:—
+
+> **2. Modification of the Act in relation to sickness benefit, invalidity benefit, severe disablement allowance, unemployability supplement and maternity allowance**
+>
+> (1) A person shall not be disqualified for receiving sickness benefit, invalidity benefit, severe disablement allowance
+
+.
+
+### 17. Amendment of the Social Security (Claims and Payments) Regulations 1979
+
+In regulation 9 of the Social Security (Claims and Payments) Regulations 1979, after paragraph (5) there shall be inserted the following paragraphs:—
+
+> (6) A claim for a non-contributory invalidity pension may be treated also as a claim for a severe disablement allowance.
+>
+> (7) A claim for a severe disablement allowance may be treated also as a claim for a non-contributory invalidity pension.
+
+## PART IV — TRANSITIONAL PROVISIONS AND REVOCATIONS
+
+### 18. Claims made before 29th November 1984
+
+(1) A claim for a severe disablement allowance may be made in writing before 29th November 1984 on a form approved for the purpose by the Secretary of State by any person in relation to whom the appointed day for the coming into force generally of section 11 of and Schedule 4 to the 1984 Act is 29th November 1984[^f00009].
+
+(2) Any claim made in accordance with paragraph (1) may be treated as made for a period commencing on or after 29th November 1984.
+
+(3) A decision which is given before 29th November 1984 awarding a severe disablement allowance on such a claim as is referred to in paragraph (1) of this regulation—
+
+- (a) may award the allowance from a date not before 29th November 1984 on which it appears probable that the requirements for entitlement will be satisfied;
+- (b) shall be subject to the condition that those requirements are satisfied on the date from which it is so awarded;
+- (c)[^key-f4f49a0db3bb7d5a2d1805325fa07150] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 19. Claims made before 28th November 1985
+
+In relation to any person other than one to whom paragraph (1) of regulation 18 refers that regulation shall have effect, from a day three months before the day appointed[^f00010] for the coming into force generally in relation to him of the provisions referred to in that paragraph, as if for each reference to 29th November 1984 there were substituted a reference to the day so appointed.
+
+### 20. Persons formerly entitled to non-contributory invalidity pension
+
+(1) Any person who, immediately before both 10th September 1984 and 29th November 1984 was entitled to a non-contributory invalidity pension shall be entitled for 29th November 1984, and for any subsequent days which together with 29th November 1984 fall within a single period of incapacity for work[^key-4266feefcaef78aaeeb3470312fd5f4d], to a severe disablement allowance whether or not—
+
+- (a) he is disabled for the purposes of section 36 of the Act, or
+- (b) 29th November 1984 is appointed for the purposes of section 11 of the 1984 Act in relation to persons of his age,
+
+if he satisfies the other requirements for entitlement to such an allowance.
+
+(1A)[^key-7a4917c36caf1b70d6ef6271accf17aa] A woman who—
+
+- (a) would have been entitled to a non-contributory invalidity pension immediately before 29th November 1984, but for the requirement that she be incapable of performing normal household duties (whether or not she made a claim for that pension), and
+- (b) has been continuously incapable of work since that date,
+
+shall be entitled to a severe disablement allowance, whether or not she is disabled for the purposes of section 68 of the Social Security Contributions and Benefits Act 1992 and whether or not she has attained the age referred to in subsection (4)(d) of that section, if she satisfies the other requirements for entitlement to that allowance.
+
+(2) If in the case of any person a day and an earlier day for which he was entitled to a non-contributory invalidity pension fall within a single period of incapacity for work[^key-66a5cb51e6cf9660f0f7dfa4994ad11e]—
+
+- (a) for the purposes of section 36 of the Act he shall be deemed to be disabled on the day first-mentioned whether or not he is suffering from such loss of faculty as is specified in subsection (5) of that section; and
+- (b) the condition in section 79(1) of the Act (benefit must be duly claimed) shall be deemed to be satisfied for the purposes of his right to a severe disablement allowance for the day first-mentioned if, but for the passing of the 1984 Act, that condition would have been satisfied for the purposes of his right to a non-contributory invalidity pension for that day.
+
+(3) A person who was entitled to a non-contributory invalidity pension immediately before attaining the age of 65[^key-8712efc11d7f4878734f9e94b37ce2da] shall be treated for the purposes of regulation 5 as having been entitled to a severe disablement allowance immediately before attaining that age.
+
+(4) A person who was entitled to a non-contributory invalidity pension for any day before 29th November 1984 shall be treated for the purposes of regulation 6 as having been entitled to a severe disablement allowance for that day.
+
+### 21. Revocation
+
+The regulations set out in column (1) of Schedule 3 are revoked to the extent mentioned in column (3) of that Schedule.
+
+Signed by authority of the Secretary of State for Social Services.
+
+Rhodes Boyson
+
+Minister of State
+
+Department of Health and Social Security
+
+## SCHEDULE 1 — PROVISIONS COVERING POWERS EXERCISED IN MAKING THESE REGULATIONS
+
+<table>
+<tbody>
+<tr><td colspan="2">Column (1)</td><td>Column (2)</td></tr>
+<tr><td colspan="2">Provision</td><td>Relevant Amendment</td></tr>
+<tr><td>The Social Security Act 1975</td><td>3(2)</td><td>None.</td></tr>
+<tr><td></td><td>36(4) and (7)</td><td>The Health and Social Security Act 1984, section 11.</td></tr>
+<tr><td></td><td>40(a)</td><td>None.</td></tr>
+<tr><td></td><td>79(3)</td><td>The Social Security and Housing Benefits Act 1982, section 48(5); Schedule 4, paragraph 14(3). The Health and Social Security Act 1984, section 11(2); Schedule 4, paragraph 3.</td></tr>
+<tr><td></td><td>80(1)</td><td>The Social Security (Miscellaneous Provisions) Act 1977, section 17(2). The Child Benefit Act 1975 , section 21(2); Schedule 5, Part I.</td></tr>
+<tr><td></td><td>81</td><td>None.</td></tr>
+<tr><td></td><td>82</td><td>None.</td></tr>
+<tr><td></td><td>83(1)</td><td>None.</td></tr>
+<tr><td></td><td>85</td><td>The Child Benefit Act 1975, section 21(1); Schedule 4, paragraph 28.</td></tr>
+<tr><td></td><td>108(2)</td><td>The Health and Social Services and Social Security Adjudications Act 1983, section 25; Schedule 8, paragraph 21(1) . The Health and Social Security Act 1984, section 11(2) ; Schedule 4, paragraph 6.</td></tr>
+<tr><td></td><td>115(1)</td><td>None.</td></tr>
+<tr><td></td><td>119(3)</td><td>The Social Security Act 1979, section 21(4) ; Schedule 3, paragraph 9(a).</td></tr>
+<tr><td></td><td>128(2)</td><td>None.</td></tr>
+<tr><td></td><td>129(1)</td><td>None.</td></tr>
+<tr><td></td><td>131</td><td>None.</td></tr>
+<tr><td></td><td>Schedule 13, paragraph 2</td><td>None.</td></tr>
+<tr><td></td><td>Schedule 20 (definition of “prescribe” and “regulations”)</td><td>None.</td></tr>
+<tr><td>The Child Benefit Act 1975</td><td>17(5)</td><td>The Health and Social Security Act 1984, section 11(2); Schedule 4, paragraph 12.</td></tr>
+<tr><td>The Social Security (Miscellaneous Provisions) Act 1977</td><td>22(1)</td><td>None.</td></tr>
+</tbody>
+</table>
+
+## SCHEDULE 2 — CONSEQUENTIAL AMENDMENTS OF REGULATIONS
+
+**No longer in force.**
+
+Regulation 11
+
+<table>
+<thead>
+<tr><th>Column (1)</th><th>Column (2)</th><th>Column (3)</th></tr>
+<tr><th>Citation</th><th>Statutory Instrument</th><th>Provision</th></tr>
+</thead>
+<tbody>
+<tr><td>...</td><td>...</td><td>...</td></tr>
+<tr><td>The Social Security (Medical Evidence) Regulations 1976</td><td>S.I. 1976/615; the relevant amending instrument is S.I. 1982/699 , regulation 2(2)</td><td>Regulation 5(1)</td></tr>
+<tr><td>The Child Benefit (General) Regulations 1976</td><td>S.I. 1976/965; the relevant amending instrument is S.I. 1976/1758 , regulation 3(2)</td><td>Regulation 15</td></tr>
+<tr><td>The Social Security Benefit (Persons Residing Together) Regulations 1977</td><td>S.I. 1977/956</td><td>Regulation 2(2)(a)</td></tr>
+<tr><td>. . .</td><td>. . .</td><td>. . .</td></tr>
+<tr><td>The Social Security (Overlapping Benefits) Regulations 1979</td><td>S.I. 1979/597</td><td>Regulation 4(2)(d)<br>Regulation 12<br>Regulation 14(2)<br>Schedule 1, paragraph 4</td></tr>
+<tr><td>The Social Security (Claims and Payments) Regulations 1979</td><td>S.I. 1979/628; the relevant amending instrument is S.I. 1982/1362 , regulation 2(4)</td><td>Regulation 10<br>Regulation 11(1)(a) and (5),<br>Regulation 15(1)(h)<br>Schedule 1, paragraphs 3 and 4<br>Schedule 2, paragraphs 2 and 2A<br>Schedule 3</td></tr>
+<tr><td>The Social Security (Widows' Benefit and Retirement Pensions) Regulations 1979</td><td>S.I. 1979/642</td><td>Regulation 17(1)(f)</td></tr>
+<tr><td>The Social Security (General Benefit) Regulations 1982</td><td>S.I. 1982/1408</td><td>Regulation 2(2)</td></tr>
+</tbody>
+</table>
+
+[^key-e3cab9a20cbaecded6ab2caf28df1a3a][^key-e3cab9a20cbaecded6ab2caf28df1a3a][^key-e3cab9a20cbaecded6ab2caf28df1a3a][^key-a4740da1ecd55ff467acd9d9f0a5c4b5][^key-a4740da1ecd55ff467acd9d9f0a5c4b5][^key-a4740da1ecd55ff467acd9d9f0a5c4b5]
+
+## SCHEDULE 3 — REGULATIONS REVOKED
+
+Regulation 21
+
+<table>
+<thead>
+<tr><th>Column (1)</th><th>Column (2)</th><th>Column (3)</th></tr>
+<tr><th>Citation</th><th>Statutory Instrument</th><th>Extent of Revocation</th></tr>
+</thead>
+<tbody>
+<tr><td>The Social Security (Non-Contributory Invalidity Pension) Regulations 1975</td><td>S.I. 1975/1058</td><td>The whole regulations</td></tr>
+<tr><td>The Social Security (Non-Contributory Invalidity Pension) Amendment Regulations 1975</td><td>S.I. 1975/1166</td><td>The whole regulations</td></tr>
+<tr><td>The Social Security (Child Benefit Consequential) Regulations 1977</td><td>S.I. 1977/342</td><td>Regulation 16</td></tr>
+<tr><td>The Social Security (Non-Contributory Invalidity Pension) Amendment Regulations 1977</td><td>S.I. 1977/1312</td><td>The whole regulations</td></tr>
+<tr><td>The Social Security (Non-Contributory Invalidity Pension) Amendment Regulations 1978</td><td>S.I. 1978/1340</td><td>The whole regulations</td></tr>
+<tr><td>The Social Security (Non-Contributory Invalidity Pension) Amendment (No.2) Regulations 1978</td><td>S.I. 1978/1845</td><td>The whole regulations</td></tr>
+<tr><td>The Social Security (Claims and Payments) Regulations 1979</td><td>S.I. 1979/628</td><td>Regulation 11(7), (8) and (9)</td></tr>
+<tr><td>The Social Security (Sickness and Invalidity Benefit and Non-Contributory Invalidity Pension) Amendment Regulations 1983</td><td>S.I. 1983/1587</td><td>Regulation 3</td></tr>
+<tr><td>The Social Security (Non-Contributory Invalidity Pension) Amendment Regulations 1983</td><td>S.I. 1983/1683</td><td>The whole regulations</td></tr>
+</tbody>
+</table>
+
+EXPLANATORY NOTE
+
+These regulations contain provisions relating to severe disablement allowance (“allowance”). They are all either made under section 36 of the Social Security Act 1975, as substituted by section 11 of the Health and Social Security Act 1984 (“the 1984 Act”), or are otherwise consequential on section 11 . As they are also made earlier than six months from the first day appointed for the coming into force of section 11 (10th September 1984), they are exempted by section 22(1)(b) of the 1984 Act from the requirement under section 10(1) of the Social Security Act 1980 to refer proposals to the Social Security Advisory Committee and are made without reference to that Committee.
+
+Part I of the Regulations relates to their citation, commencement and interpretation.
+
+Part II of the Regulations contains miscellaneous provisions relating to residence and presence in Great Britain conditions (regulation 3); circumstances in which a person over pensionable age (60 in the case of a woman, 65 in the case of a man) is to be treated as having been entitled to the pension before attaining that age ( regulation 4); relaxing conditions for entitlement to an allowance for certain persons over retiring age (65 in the case of a woman, 70 in the case of a man) (regulation 5 ); modification of the requirements of section 36(2) and (3) of the Social Security Act 1975 in the case of a person who has previously been entitled to an allowance ( regulation 6); days for which persons are to be regarded as incapable of work for the purposes of an allowance ( regulation 7); circumstances in which persons are to be treated as receiving full-time education ( regulation 8); disqualification for an allowance for misconduct or failure to undergo medical examination ( regulation 9); and the evidence required to satisfy the adjudication officer in cases referred to and determined by him, and the adjudicating medical authority in other cases, that a person suffers from loss of physical or mental faculty such that the assessed extent of the resulting disablement amounts to not less than 80 per cent.
+
+Part III of the Regulations and Schedule 2 contain minor consequential amendments to other sets of social security regulations.
+
+Part IV contains transitional provisions relating to claims made in advance by persons in respect of whom section 11 of the 1984 Act comes into force on 29th November 1984 ( regulation 18) and by all other persons ( regulation 19); and to persons who were formerly entitled to non-contributory invalidity pension ( regulation 20). Regulation 21 and Schedule 3 contain revocations consequential upon the coming into force of these regulations.
+
+## Annotations
+
+[^f00001]: Footnote: for section 36 as now substituted *see* 1984 c.48, section 11(1).
+
+[^key-121dc6d55b76a0a697167a9c450915cd]: Textual amendment: Word in reg. 2(1) deleted (28.10.1994) by [The Social Security (Severe Disablement Allowance and Invalid Care Allowance) Amendment Regulations 1994 (S.I. 1994/2556)](https://www.legislation.gov.uk/uksi/1994/2556), [regs. 1](https://www.legislation.gov.uk/uksi/1994/2556/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/1994/2556/regulation/4/2)
+
+[^key-2fa95931621dc8485075c7dfe0fd4044]: Textual amendment: Words in reg. 2(1) inserted (28.10.1994) by [The Social Security (Severe Disablement Allowance and Invalid Care Allowance) Amendment Regulations 1994 (S.I. 1994/2556)](https://www.legislation.gov.uk/uksi/1994/2556), [regs. 1](https://www.legislation.gov.uk/uksi/1994/2556/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/1994/2556/regulation/4/2)
+
+[^key-f18ab040657297a0f09b3c21cb46787f]: Textual amendment: Reg. 2(1A) substituted (13.4.1995) by [The Social Security (Severe Disablement Allowance) Amendment Regulations 1994 (S.I. 1994/2947)](https://www.legislation.gov.uk/uksi/1994/2947), [regs. 1](https://www.legislation.gov.uk/uksi/1994/2947/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/1994/2947/regulation/2/2/a)
+
+[^key-b45cfc5bcd64dcfed1f82108237d81de]: Textual amendment: Reg. 2(1B) inserted (6.4.1992) by [The Social Security (Invalidity Benefit and Severe Disablement Allowance) Miscellaneous Amendment Regulations 1992 (S.I. 1992/585)](https://www.legislation.gov.uk/uksi/1992/585), [regs. 1](https://www.legislation.gov.uk/uksi/1992/585/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/1992/585/regulation/3/2)
+
+[^key-00ede53ee0a61fca3dd189c9ebd5c552]: Textual amendment: Reg. 2(1C) inserted (16.5.1994) by [The Social Security (Sickness and Invalidity Benefit and Severe Disablement Allowance) Miscellaneous Amendments Regulations 1994 (S.I. 1994/1101)](https://www.legislation.gov.uk/uksi/1994/1101), [regs. 1](https://www.legislation.gov.uk/uksi/1994/1101/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/1994/1101/regulation/3/2)
+
+[^key-a87bf63203e6fb47391389a3323c1c6f]: Textual amendment: Reg. 2(3) substituted (13.4.1995) by [The Social Security (Severe Disablement Allowance) Amendment Regulations 1994 (S.I. 1994/2947)](https://www.legislation.gov.uk/uksi/1994/2947), [regs. 1](https://www.legislation.gov.uk/uksi/1994/2947/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/1994/2947/regulation/2/2/b)
+
+[^key-e4af678101ac6b1993bb542d2e654b99]: Textual amendment: Reg. 2A inserted (1.12.1997) by [The Social Security (National Insurance Number Information: Exemption) Regulations 1997 (S.I. 1997/2676)](https://www.legislation.gov.uk/uksi/1997/2676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1997/2676/regulation/1/1), [14](https://www.legislation.gov.uk/uksi/1997/2676/regulation/14)
+
+[^key-22326aaf8bb9ef0918c3f2ffb12cd2ed]: Textual amendment: Reg. 2A(a) omitted (6.4.2003) by virtue of [The Social Security (Working Tax Credit and Child Tax Credit) (Consequential Amendments) (No. 2) Regulations 2003 (S.I. 2003/937)](https://www.legislation.gov.uk/uksi/2003/937), [regs. 1(a)](https://www.legislation.gov.uk/uksi/2003/937/regulation/1/a), [2(5)](https://www.legislation.gov.uk/uksi/2003/937/regulation/2/5)
+
+[^key-0b79a64ce79b1147cc7c82b1a06593c5]: Textual amendment: Reg. 3(1)(1A) substituted for reg. 3(1) (6.4.1992) by [The Social Security (Severe Disablement Allowance) Amendment Regulations 1992 (S.I. 1992/704)](https://www.legislation.gov.uk/uksi/1992/704), [regs. 1](https://www.legislation.gov.uk/uksi/1992/704/regulation/1), [2](https://www.legislation.gov.uk/uksi/1992/704/regulation/2)
+
+[^key-f687d3efcecd44473871811dd04b4a61]: Textual amendment: Reg. 3(1)(a)(ib) substituted for reg. 3(1)(a)(ia) (3.4.2000) by [The Social Security (Immigration and Asylum) Consequential Amendments Regulations 2000 (S.I. 2000/636)](https://www.legislation.gov.uk/uksi/2000/636), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2000/636/regulation/1/1), [9(2)](https://www.legislation.gov.uk/uksi/2000/636/regulation/9/2) (with [reg. 12(10)](https://www.legislation.gov.uk/uksi/2000/636/regulation/12/10))
+
+[^key-fa861b2fcef37c879fea033bf223cb87]: Textual amendment: Word in reg. 3(1) omitted (1.10.2006) by virtue of [The Social Security (Miscellaneous Amendments) (No. 4) Regulations 2006 (S.I. 2006/2378)](https://www.legislation.gov.uk/uksi/2006/2378), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/2378/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2006/2378/regulation/4)
+
+[^key-bc150ad8977114d243cb786884706c7a]: Textual amendment: Reg. 3(1)(b) omitted (1.10.2006) by virtue of [The Social Security (Miscellaneous Amendments) (No. 4) Regulations 2006 (S.I. 2006/2378)](https://www.legislation.gov.uk/uksi/2006/2378), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/2378/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2006/2378/regulation/4)
+
+[^key-58f2234331bb4ad1aee9390ccf5095c8]: Textual amendment: Reg. 3(1A) omitted (1.10.2006) by virtue of [The Social Security (Miscellaneous Amendments) (No. 4) Regulations 2006 (S.I. 2006/2378)](https://www.legislation.gov.uk/uksi/2006/2378), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/2378/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2006/2378/regulation/4)
+
+[^key-cdd78e65da9f5b01d6bc842460f5f81b]: Textual amendment: Reg. 3(1B) omitted (3.4.2000) by virtue of [The Social Security (Immigration and Asylum) Consequential Amendments Regulations 2000 (S.I. 2000/636)](https://www.legislation.gov.uk/uksi/2000/636), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2000/636/regulation/1/1), [9(3)](https://www.legislation.gov.uk/uksi/2000/636/regulation/9/3) (with [reg. 12(10)](https://www.legislation.gov.uk/uksi/2000/636/regulation/12/10))
+
+[^key-a8d1211d9c109fa8659250187fa61083]: Textual amendment: Reg. 3(2) substituted (14.10.1991) by [The Social Security (Severe Disablement Allowance) Amendment Regulations 1991 (S.I. 1991/1747)](https://www.legislation.gov.uk/uksi/1991/1747), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1991/1747/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/1991/1747/regulation/2)
+
+[^key-18f1ca91bc1dd5fd11966d9772d9c8d0]: Textual amendment: Words in reg. 3(3) substituted (13.4.1995) by [The Social Security (Severe Disablement Allowance) Amendment Regulations 1994 (S.I. 1994/2947)](https://www.legislation.gov.uk/uksi/1994/2947), [regs. 1](https://www.legislation.gov.uk/uksi/1994/2947/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/1994/2947/regulation/2/3)
+
+[^key-7e2a643868c680f56f9554c09da569ae]: Textual amendment: Words in reg. 4 and heading substituted (28.10.1994) by [The Social Security (Severe Disablement Allowance and Invalid Care Allowance) Amendment Regulations 1994 (S.I. 1994/2556)](https://www.legislation.gov.uk/uksi/1994/2556), [regs. 1](https://www.legislation.gov.uk/uksi/1994/2556/regulation/1), [4(3)](https://www.legislation.gov.uk/uksi/1994/2556/regulation/4/3)
+
+[^key-a1d8a78cbdd7343cc22e71347bca23bf]: Textual amendment: Reg. 4A inserted (28.10.1994) by [The Social Security (Severe Disablement Allowance and Invalid Care Allowance) Amendment Regulations 1994 (S.I. 1994/2556)](https://www.legislation.gov.uk/uksi/1994/2556), [regs. 1](https://www.legislation.gov.uk/uksi/1994/2556/regulation/1), [4(4)](https://www.legislation.gov.uk/uksi/1994/2556/regulation/4/4)
+
+[^key-6317b90a68e40fa7844709f981ec093b]: Textual amendment: Words in reg. 5(a) and heading substituted (28.10.1994) by [The Social Security (Severe Disablement Allowance and Invalid Care Allowance) Amendment Regulations 1994 (S.I. 1994/2556)](https://www.legislation.gov.uk/uksi/1994/2556), [regs. 1](https://www.legislation.gov.uk/uksi/1994/2556/regulation/1), [4(5)](https://www.legislation.gov.uk/uksi/1994/2556/regulation/4/5)
+
+[^key-bf25355152e17389136acd4010caa340]: Textual amendment: Reg. 5A inserted (28.10.1994) by [The Social Security (Severe Disablement Allowance and Invalid Care Allowance) Amendment Regulations 1994 (S.I. 1994/2556)](https://www.legislation.gov.uk/uksi/1994/2556), [regs. 1](https://www.legislation.gov.uk/uksi/1994/2556/regulation/1), [4(6)](https://www.legislation.gov.uk/uksi/1994/2556/regulation/4/6)
+
+[^M_C_1364afb5-69df-4ec6-ba7a-9f4704c246f2]: Modification: Subsections 2, 3 and 4 of s. 36 of the [Social Security Act 1975 (c.14)](https://www.legislation.gov.uk/ukpga/1975/14) were repealed and re-enacted (1.7.1992) as respectively, subsections 2, 3 and 4 of the [Social Security Contributions and Benefits Act 1992 (c. 4)](https://www.legislation.gov.uk/ukpga/1992/4)
+
+[^key-5ef2532ca7b7203bca6b0e57fb9027ac]: Textual amendment: Words in reg. 6 substituted (13.4.1995) by [The Social Security (Severe Disablement Allowance) Amendment Regulations 1994 (S.I. 1994/2947)](https://www.legislation.gov.uk/uksi/1994/2947), [regs. 1](https://www.legislation.gov.uk/uksi/1994/2947/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/1994/2947/regulation/2/4)
+
+[^key-fe4234337377876c07c25f29fda2e34d]: Textual amendment: Reg. 7(1) substituted (13.4.1995) by [The Social Security (Severe Disablement Allowance) Amendment Regulations 1994 (S.I. 1994/2947)](https://www.legislation.gov.uk/uksi/1994/2947), [regs. 1](https://www.legislation.gov.uk/uksi/1994/2947/regulation/1), [2(5)(b)](https://www.legislation.gov.uk/uksi/1994/2947/regulation/2/5/b)
+
+[^key-6cb6010f6719b7face40babdeea3bcbb]: Textual amendment: Reg. 7(1A) inserted (13.4.1995) by [The Social Security (Severe Disablement Allowance) Amendment Regulations 1994 (S.I. 1994/2947)](https://www.legislation.gov.uk/uksi/1994/2947), [regs. 1](https://www.legislation.gov.uk/uksi/1994/2947/regulation/1), [2(5)(b)](https://www.legislation.gov.uk/uksi/1994/2947/regulation/2/5/b)
+
+[^key-c2a57121839f96b748e8eb0f0e8d934d]: Textual amendment: Reg. 7(1B) inserted (5.10.1998) by [The Social Security (Welfare to Work) Regulations 1998 (S.I. 1998/2231)](https://www.legislation.gov.uk/uksi/1998/2231), [regs. 1](https://www.legislation.gov.uk/uksi/1998/2231/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/1998/2231/regulation/5/2)
+
+[^key-7d6dff355ecffe3d72695e49e7f78516]: Textual amendment: Reg. 7(1C) inserted (3.4.2000) by [The Social Security (Approved Work) Regulations 2000 (S.I. 2000/678)](https://www.legislation.gov.uk/uksi/2000/678), [regs. 1](https://www.legislation.gov.uk/uksi/2000/678/regulation/1), [7](https://www.legislation.gov.uk/uksi/2000/678/regulation/7)
+
+[^M_C_93346aaf-7c31-4bb8-8919-ef6951bb6329]: Modification: Subsections 2, 3 and 4 of s. 36 of the [Social Security Act 1975 (c.14)](https://www.legislation.gov.uk/ukpga/1975/14) were repealed and re-enacted (1.7.1992) as respectively, subsections 2, 3 and 4 of the [Social Security Contributions and Benefits Act 1992 (c. 4)](https://www.legislation.gov.uk/ukpga/1992/4)
+
+[^key-eaf191c4b56aa53b7fed989875107a5d]: Textual amendment: Reg. 7(2) substituted (13.4.1995) by [The Social Security (Severe Disablement Allowance) Amendment Regulations 1994 (S.I. 1994/2947)](https://www.legislation.gov.uk/uksi/1994/2947), [regs. 1](https://www.legislation.gov.uk/uksi/1994/2947/regulation/1), [2(5)(b)](https://www.legislation.gov.uk/uksi/1994/2947/regulation/2/5/b)
+
+[^M_C_ed262e66-dcac-413a-ffb1-494912ddca89]: Modification: Subsections 2, 3 and 4 of s. 36 of the [Social Security Act 1975 (c.14)](https://www.legislation.gov.uk/ukpga/1975/14) were repealed and re-enacted (1.7.1992) as respectively, subsections 2, 3 and 4 of the [Social Security Contributions and Benefits Act 1992 (c. 4)](https://www.legislation.gov.uk/ukpga/1992/4)
+
+[^key-5ed203bf0aceceec8b0c448311ef8ef3]: Textual amendment: Reg. 7A omitted (13.4.1995) by virtue of [The Social Security (Severe Disablement Allowance) Amendment Regulations 1994 (S.I. 1994/2947)](https://www.legislation.gov.uk/uksi/1994/2947), [regs. 1](https://www.legislation.gov.uk/uksi/1994/2947/regulation/1), [2(5)](https://www.legislation.gov.uk/uksi/1994/2947/regulation/2/5)
+
+[^key-5df0ed911740f2b6e8d8a0452f90f0a1]: Textual amendment: Reg. 8A inserted (9.10.1989) by [The Social Security (Severe Disablement Allowance (Amendment) and Local Councillors Consequential) Regulations 1989 (S.I. 1989/1687)](https://www.legislation.gov.uk/uksi/1989/1687), [regs. 1](https://www.legislation.gov.uk/uksi/1989/1687/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/1989/1687/regulation/2/4)
+
+[^M_C_3a6e818d-037c-40ae-8897-178b603ba1d4]: Modification: THe "amount", where paid otherwise than weekly, is further defined by reg. 3 of [S.I. 1989/1687](https://www.legislation.gov.uk/uksi/1989/1687)
+
+[^key-af2742348ac180221d442616ac287c38]: Textual amendment: Words in reg. 8A substituted (13.4.1995) by [The Social Security (Severe Disablement Allowance) Amendment Regulations 1994 (S.I. 1994/2947)](https://www.legislation.gov.uk/uksi/1994/2947), [regs. 1](https://www.legislation.gov.uk/uksi/1994/2947/regulation/1), [2(6)](https://www.legislation.gov.uk/uksi/1994/2947/regulation/2/6)
+
+[^key-4952ebf8fddb53b55a0afdaa1228c4e7]: Textual amendment: Reg. 9 omitted (13.4.1995) by virtue of [The Social Security (Severe Disablement Allowance) Amendment Regulations 1994 (S.I. 1994/2947)](https://www.legislation.gov.uk/uksi/1994/2947), [regs. 1](https://www.legislation.gov.uk/uksi/1994/2947/regulation/1), [3](https://www.legislation.gov.uk/uksi/1994/2947/regulation/3)
+
+[^key-ee1c1caf7ed3f3707bf5a39bed9ab50b]: Textual amendment: Reg. 10(1)(a) omitted (1.4.1997) by virtue of [The Social Security (Incapacity for Work and Severe Disablement Allowance) Amendment Regulations 1997 (S.I. 1997/1009)](https://www.legislation.gov.uk/uksi/1997/1009), [regs. 1](https://www.legislation.gov.uk/uksi/1997/1009/regulation/1), [3(a)](https://www.legislation.gov.uk/uksi/1997/1009/regulation/3/a) (with [reg. 4](https://www.legislation.gov.uk/uksi/1997/1009/regulation/4))
+
+[^key-f835c72666f526dc430a46a6937550ad]: Textual amendment: Words in reg. 10(1)(a) substituted (6.4.1992) by [The Disability Living Allowance and Disability Working Allowance (Consequential Provisions) Regulations 1991 (S.I. 1991/2742)](https://www.legislation.gov.uk/uksi/1991/2742), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1991/2742/regulation/1/1), [9(2)](https://www.legislation.gov.uk/uksi/1991/2742/regulation/9/2)
+
+[^key-8095f4752efc0527b19c5fc36b8737e4]: Textual amendment: Reg. 10(1)(b) substituted (1.4.1997) by [The Social Security (Incapacity for Work and Severe Disablement Allowance) Amendment Regulations 1997 (S.I. 1997/1009)](https://www.legislation.gov.uk/uksi/1997/1009), [regs. 1](https://www.legislation.gov.uk/uksi/1997/1009/regulation/1), [3(b)](https://www.legislation.gov.uk/uksi/1997/1009/regulation/3/b) (with [reg. 4](https://www.legislation.gov.uk/uksi/1997/1009/regulation/4))
+
+[^key-48e630ba03f9fffe980cde65484ebe07]: Textual amendment: Reg. 10(1)(b)(i) substituted (6.4.1992) by [The Disability Living Allowance and Disability Working Allowance (Consequential Provisions) Regulations 1991 (S.I. 1991/2742)](https://www.legislation.gov.uk/uksi/1991/2742), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1991/2742/regulation/1/1), [9(3)](https://www.legislation.gov.uk/uksi/1991/2742/regulation/9/3)
+
+[^f00003]: Footnote: article 26A was inserted by article 4 of S.I. 1983/1116.
+
+[^key-b17825bb24efa06050afcd5d1d4ea9a2]: Textual amendment: Words in reg. 10(1)(f) deleted (1.4.1997) by [The Social Security (Incapacity for Work and Severe Disablement Allowance) Amendment Regulations 1997 (S.I. 1997/1009)](https://www.legislation.gov.uk/uksi/1997/1009), [regs. 1](https://www.legislation.gov.uk/uksi/1997/1009/regulation/1), [3(c)](https://www.legislation.gov.uk/uksi/1997/1009/regulation/3/c) (with [reg. 4](https://www.legislation.gov.uk/uksi/1997/1009/regulation/4))
+
+[^key-78f99aff57ea66d1467332cc868a10d5]: Textual amendment: Reg. 10(1)(ff) inserted (8.12.1986) by [The Social Security (Severe Disablement Allowance) Amendment Regulations 1986 (S.I. 1986/1933)](https://www.legislation.gov.uk/uksi/1986/1933), [regs. 1](https://www.legislation.gov.uk/uksi/1986/1933/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/1986/1933/regulation/2/3)
+
+[^key-c15f7b5c8262d862a2f5eafb62ce7787]: Textual amendment: Words in reg. 10(1)(ff) deleted (1.4.1997) by [The Social Security (Incapacity for Work and Severe Disablement Allowance) Amendment Regulations 1997 (S.I. 1997/1009)](https://www.legislation.gov.uk/uksi/1997/1009), [regs. 1](https://www.legislation.gov.uk/uksi/1997/1009/regulation/1), [3(d)](https://www.legislation.gov.uk/uksi/1997/1009/regulation/3/d) (with [reg. 4](https://www.legislation.gov.uk/uksi/1997/1009/regulation/4))
+
+[^key-a531cd12e2bd6b3e8e2d8e83c3090337]: Textual amendment: Reg. 10(1)(gg) inserted (8.12.1986) by [The Social Security (Severe Disablement Allowance) Amendment Regulations 1986 (S.I. 1986/1933)](https://www.legislation.gov.uk/uksi/1986/1933), [regs. 1](https://www.legislation.gov.uk/uksi/1986/1933/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/1986/1933/regulation/2/3)
+
+[^key-1e98f289d814c05f9f6251138dd69c63]: Textual amendment: Reg. 10(1)(hh) inserted (5.10.1998) by [The Social Security (Welfare to Work) Regulations 1998 (S.I. 1998/2231)](https://www.legislation.gov.uk/uksi/1998/2231), [regs. 1](https://www.legislation.gov.uk/uksi/1998/2231/regulation/1), [5(3)(a)](https://www.legislation.gov.uk/uksi/1998/2231/regulation/5/3/a)
+
+[^key-faf3d2e314d4b4a97e1c266a9ab4127e]: Textual amendment: Words in reg. 10(1)(i) substituted (6.9.1999) by [The Social Security Act 1998 (Commencement No. 9, and Savings and Consequential and Transitional Provisions) Order 1999 (S.I. 1999/2422)](https://www.legislation.gov.uk/uksi/1999/2422), [reg. 1](https://www.legislation.gov.uk/uksi/1999/2422/regulation/1), [Sch. 5 para. 1(a)](https://www.legislation.gov.uk/uksi/1999/2422/schedule/5/paragraph/1/a)
+
+[^key-d866b793a73ed90b4d991b7d0c8d3831]: Textual amendment: Words in reg. 10(2) substituted (28.11.1988) by [The Transfer of Functions (Health and Social Security) Order 1988 (S.I. 1988/1843)](https://www.legislation.gov.uk/uksi/1988/1843), [arts. 1(3)](https://www.legislation.gov.uk/uksi/1988/1843/article/1/3), [3(4)](https://www.legislation.gov.uk/uksi/1988/1843/article/3/4)
+
+[^key-51390b3d02c1940d39143b49088ffa74]: Textual amendment: Reg. 10(2A) inserted (8.12.1986) by [The Exempt Charities (No. 3) Order 1996 (S.I. 1996/1933)](https://www.legislation.gov.uk/uksi/1996/1933), [regs. 1](https://www.legislation.gov.uk/uksi/1996/1933/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/1996/1933/regulation/2/3)
+
+[^key-7a67fe7d17ba1e74551f5810960b37b2]: Textual amendment: Reg. 10(2B) inserted (5.10.1998) by [The Social Security (Welfare to Work) Regulations 1998 (S.I. 1998/2231)](https://www.legislation.gov.uk/uksi/1998/2231), [regs. 1](https://www.legislation.gov.uk/uksi/1998/2231/regulation/1), [5(3)(b)](https://www.legislation.gov.uk/uksi/1998/2231/regulation/5/3/b)
+
+[^key-8b07bf77be8e194cefaeb38b80baee2b]: Textual amendment: Reg. 10(3)(4) omitted (6.9.1999) by virtue of [The Social Security Act 1998 (Commencement No. 9, and Savings and Consequential and Transitional Provisions) Order 1999 (S.I. 1999/2422)](https://www.legislation.gov.uk/uksi/1999/2422), [reg. 1](https://www.legislation.gov.uk/uksi/1999/2422/regulation/1), [Sch. 5 para. 1(b)](https://www.legislation.gov.uk/uksi/1999/2422/schedule/5/paragraph/1/b)
+
+[^key-f53a8c6b142db03089b917fa76cdbd77]: Textual amendment: Reg. 10A - 10B inserted (3.12.1990) by [The Social Security (Severe Disablement Allowance) Amendment Regulations 1990 (S.I. 1990/2209)](https://www.legislation.gov.uk/uksi/1990/2209), [regs. 1](https://www.legislation.gov.uk/uksi/1990/2209/regulation/1), [2](https://www.legislation.gov.uk/uksi/1990/2209/regulation/2)
+
+[^key-9c49a84f681966c8d7520ddf4a052e2c]: Textual amendment: Reg. 10A substituted (14.10.1991) by [The Social Security (Severe Disablement Allowance) Amendment Regulations 1991 (S.I. 1991/1747)](https://www.legislation.gov.uk/uksi/1991/1747), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1991/1747/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/1991/1747/regulation/3)
+
+[^key-9f4003a1d2b31384502929e55a171b8b]: Textual amendment: Reg. 12 revoked (6.4.1987) by [Social Security (Adjudication) Regulations 1986 (S.I. 1986/2218)](https://www.legislation.gov.uk/uksi/1986/2218), [reg. 1](https://www.legislation.gov.uk/uksi/1986/2218/regulation/1), [Sch. 4](https://www.legislation.gov.uk/uksi/1986/2218/schedule/4)
+
+[^f00005]: Footnote: the relevant amending instrument is S.I. 1975/1058 .
+
+[^f00006]: Footnote: the relevant amending instrument is S.I. 1975/1058 .
+
+[^f00007]: Footnote: the relevant amending instrument is S.I. 1975/1058 .
+
+[^f00008]: Footnote: the relevant amending instrument is S.I. 1975/1058 .
+
+[^f00009]: Footnote: *See* Article 3(4)(a) of the Health and Social Security Act 1984 (Commencement No. 1) Order 1984 (S.I. 1984/1302).
+
+[^key-f4f49a0db3bb7d5a2d1805325fa07150]: Textual amendment: Reg. 18(3)(c) omitted (6.9.1999) by virtue of [The Social Security Act 1998 (Commencement No. 9, and Savings and Consequential and Transitional Provisions) Order 1999 (S.I. 1999/2422)](https://www.legislation.gov.uk/uksi/1999/2422), [reg. 1](https://www.legislation.gov.uk/uksi/1999/2422/regulation/1), [Sch. 5 para. 2](https://www.legislation.gov.uk/uksi/1999/2422/schedule/5/paragraph/2)
+
+[^f00010]: Footnote: *See* Article 3(4)(b) and (c) of that Order.
+
+[^key-4266feefcaef78aaeeb3470312fd5f4d]: Textual amendment: Words in reg. 20(1) substituted (13.4.1995) by [The Social Security (Severe Disablement Allowance) Amendment Regulations 1994 (S.I. 1994/2947)](https://www.legislation.gov.uk/uksi/1994/2947), [regs. 1](https://www.legislation.gov.uk/uksi/1994/2947/regulation/1), [2(7)(a)](https://www.legislation.gov.uk/uksi/1994/2947/regulation/2/7/a)
+
+[^key-7a4917c36caf1b70d6ef6271accf17aa]: Textual amendment: Reg. 20(1A) inserted (13.1.1994) by [The Social Security (Severe Disablement Allowance) Amendment Regulations 1993 (S.I. 1993/3194)](https://www.legislation.gov.uk/uksi/1993/3194), [regs. 1](https://www.legislation.gov.uk/uksi/1993/3194/regulation/1), [2](https://www.legislation.gov.uk/uksi/1993/3194/regulation/2)
+
+[^key-66a5cb51e6cf9660f0f7dfa4994ad11e]: Textual amendment: Words in reg. 20(2) substituted (13.4.1995) by [The Social Security (Severe Disablement Allowance) Amendment Regulations 1994 (S.I. 1994/2947)](https://www.legislation.gov.uk/uksi/1994/2947), [regs. 1](https://www.legislation.gov.uk/uksi/1994/2947/regulation/1), [2(7)(b)](https://www.legislation.gov.uk/uksi/1994/2947/regulation/2/7/b)
+
+[^key-8712efc11d7f4878734f9e94b37ce2da]: Textual amendment: Words in reg. 20(3) substituted (28.10.1994) by [The Social Security (Severe Disablement Allowance and Invalid Care Allowance) Amendment Regulations 1994 (S.I. 1994/2556)](https://www.legislation.gov.uk/uksi/1994/2556), [regs. 1](https://www.legislation.gov.uk/uksi/1994/2556/regulation/1), [4(8)](https://www.legislation.gov.uk/uksi/1994/2556/regulation/4/8)
+
+[^key-e3cab9a20cbaecded6ab2caf28df1a3a]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/1984/1303/schedule/2) entry revoked (10.4.2006 for specified purposes) by [The Social Security (Hospital In-Patients) Regulations 2005 (S.I. 2005/3360)](https://www.legislation.gov.uk/uksi/2005/3360), [regs. 1(e)](https://www.legislation.gov.uk/uksi/2005/3360/regulation/1/e), [9(2)](https://www.legislation.gov.uk/uksi/2005/3360/regulation/9/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/3360/schedule)
+
+[^key-a4740da1ecd55ff467acd9d9f0a5c4b5]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/1984/1303/schedule/2) entry revoked (25.11.1996) by [The Social Security Benefit (Computation of Earnings) Regulations 1996 (S.I. 1996/2745)](https://www.legislation.gov.uk/uksi/1996/2745), [reg. 1](https://www.legislation.gov.uk/uksi/1996/2745/regulation/1), [Sch. 4](https://www.legislation.gov.uk/uksi/1996/2745/schedule/4)

@@ -1,0 +1,42 @@
+---
+title: Insolvency Act 1986, section 231
+act: Insolvency Act 1986
+section: '231'
+status: revised-with-pending-changes
+text_date: '2026-10-01'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/ukpga/1986/45/section/231
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Insolvency Act 1986, section 231
+
+> **Warning: changes not yet applied to this text (6).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1986/45
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 231. Appointment to office of two or more persons.[^c15574881][^c20433871][^key-3b5687443eff6fe052a814ff24f9eece][^key-1833ba36373f3ae0946a06692da15a40]
+
+*Extent: E+W+S*
+
+(1) This section applies if an appointment or nomination of any person to the office of [^c18625641]. . . administrative receiver, liquidator or provisional liquidator—
+
+- (a) relates to more than one person, or
+- (b) has the effect that the office is to be held by more than one person.
+
+(2) The appointment or nomination shall declare whether any act required or authorised under any enactment to be done by the [^c18625641]. . . administrative receiver, liquidator or provisional liquidator is to be done by all or any one or more of the persons for the time being holding the office in question.
+
+## Annotations
+
+[^c15574881]: Modification: S. 231 applied (with modifications) (1.12.1994) by [S.I. 1994/2421](https://www.legislation.gov.uk/uksi/1994/2421), [art. 8(3)(9)](https://www.legislation.gov.uk/uksi/1994/2421/article/8/3/9), [Sch. 4 Pt. II para. 26](https://www.legislation.gov.uk/uksi/1994/2421/schedule/4/part/II/paragraph/26)
+
+    S. 231 applied (with modifications) (S.) (6.4.2001) by [S.S.I. 2001/128](https://www.legislation.gov.uk/ssi/2001/128), [reg. 4(1)](https://www.legislation.gov.uk/ssi/2001/128/regulation/4/1), [Sch. 2](https://www.legislation.gov.uk/ssi/2001/128/schedule/2)
+
+[^c20433871]: Modification: S. 231 applied (with modifications) (17.2.2009 for certain purposes, otherwise 21.2.2009) by [Banking Act 2009 (c. 1)](https://www.legislation.gov.uk/ukpga/2009/1), [ss. 103](https://www.legislation.gov.uk/ukpga/2009/1/section/103), [263(1)(2)](https://www.legislation.gov.uk/ukpga/2009/1/section/263/1/2) (with [s. 247](https://www.legislation.gov.uk/ukpga/2009/1/section/247)); [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), [arts. 2](https://www.legislation.gov.uk/uksi/2009/296/article/2), [3](https://www.legislation.gov.uk/uksi/2009/296/article/3), [Sch. para. 2](https://www.legislation.gov.uk/uksi/2009/296/schedule/paragraph/2)
+
+[^key-3b5687443eff6fe052a814ff24f9eece]: Modification: S. 231 applied (with modifications) (6.6.2013) by [The Collective Investment in Transferable Securities (Contractual Scheme) Regulations 2013 (S.I. 2013/1388)](https://www.legislation.gov.uk/uksi/2013/1388), [Pt. 3](https://www.legislation.gov.uk/uksi/2013/1388/part/3) [reg. 1](https://www.legislation.gov.uk/uksi/2013/1388/regulation/1), [Sch. 2 paras. 3](https://www.legislation.gov.uk/uksi/2013/1388/schedule/2/paragraph/3), [5](https://www.legislation.gov.uk/uksi/2013/1388/schedule/2/paragraph/5) Table (with [reg. 24](https://www.legislation.gov.uk/uksi/2013/1388/regulation/24))
+
+[^key-1833ba36373f3ae0946a06692da15a40]: Modification: [Ss. 231-232](https://www.legislation.gov.uk/ukpga/1986/45/section/231) applied in part (with modifications) (4.1.2024) by S.I. 2021/716, Sch. 1 para. 3 (as amended by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [20](https://www.legislation.gov.uk/uksi/2023/1399/regulation/20))
+
+[^c18625641]: Textual amendment: Words in s. 231(1)(2) repealed (15.9.2003) by [2002 c. 40](https://www.legislation.gov.uk/ukpga/2002/40), [ss. 248(3)](https://www.legislation.gov.uk/ukpga/2002/40/section/248/3), [278](https://www.legislation.gov.uk/ukpga/2002/40/section/278), [279](https://www.legislation.gov.uk/ukpga/2002/40/section/279), [Sch. 17 para. 20](https://www.legislation.gov.uk/ukpga/2002/40/schedule/17/paragraph/20), [Sch. 26](https://www.legislation.gov.uk/ukpga/2002/40/schedule/26) (with [s. 249(1)-(3)](https://www.legislation.gov.uk/ukpga/2002/40/section/249/1)([6](https://www.legislation.gov.uk/ukpga/2002/40/section/6))); [S.I. 2003/2093](https://www.legislation.gov.uk/uksi/2003/2093), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/2093/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/2093/schedule/1) (subject to [arts. 3-8](https://www.legislation.gov.uk/uksi/2003/2093/article/3) (as amended by [S.I. 2003/2332](https://www.legislation.gov.uk/uksi/2003/2332), [art. 2](https://www.legislation.gov.uk/uksi/2003/2332/article/2)))

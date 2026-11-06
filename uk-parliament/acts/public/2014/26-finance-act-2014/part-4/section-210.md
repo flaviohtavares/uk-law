@@ -1,0 +1,41 @@
+---
+title: Finance Act 2014, section 210
+act: Finance Act 2014
+section: '210'
+status: revised-with-pending-changes
+text_date: '2026-06-25'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2014/26/section/210
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Finance Act 2014, section 210
+
+> **Warning: changes not yet applied to this text (30).** Text as at 2026-06-25. See https://www.legislation.gov.uk/changes/affected/ukpga/2014/26
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 210. Reduction of a section 208 penalty for co-operation
+
+*Extent: E+W+S+N.I.*
+
+(1) Where—
+
+- (a) P is liable to pay a penalty under section 208 of the amount specified in section 209(1),
+- (b) the penalty has not yet been assessed, and
+- (c) P has co-operated with HMRC,
+
+HMRC may reduce the amount of that penalty to reflect the quality of that co-operation.
+
+(2) In relation to co-operation, “**quality**” includes timing, nature and extent.
+
+(3) P has co-operated with HMRC only if P has done one or more of the following—
+
+- (a) provided reasonable assistance to HMRC in quantifying the tax advantage;
+- (b) counteracted the denied advantage;
+- (c) provided HMRC with information enabling corrective action to be taken by HMRC;
+- (d) provided HMRC with information enabling HMRC to enter an agreement with P for the purpose of counteracting the denied advantage;
+- (e) allowed HMRC to access tax records for the purpose of ensuring that the denied advantage is fully counteracted.
+
+(4) But nothing in this section permits HMRC to reduce a penalty to less than 10% of the value of the denied advantage.

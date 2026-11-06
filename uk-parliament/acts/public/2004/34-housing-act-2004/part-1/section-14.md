@@ -1,0 +1,41 @@
+---
+title: Housing Act 2004, section 14
+act: Housing Act 2004
+section: '14'
+status: revised-with-pending-changes
+text_date: '2026-06-22'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/2004/34/section/14
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Housing Act 2004, section 14
+
+> **Warning: changes not yet applied to this text (145).** Text as at 2026-06-22. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/34
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 14. Suspension of improvement notices[^c2050731]
+
+*Extent: E+W*
+
+(1) An improvement notice may provide for the operation of the notice to be suspended until a time, or the occurrence of an event, specified in the notice.
+
+(2) The time so specified may, in particular, be the time when a person of a particular description begins, or ceases, to occupy any premises.
+
+(3) The event so specified may, in particular, be a notified breach of an undertaking accepted by the local housing authority for the purposes of this section from the person on whom the notice is served.
+
+(4) In subsection (3) a “**notified breach**”, in relation to such an undertaking, means an act or omission by the person on whom the notice is served—
+
+- (a) which the local housing authority consider to be a breach of the undertaking, and
+- (b) which is notified to that person in accordance with the terms of the undertaking.
+
+(5) If an improvement notice does provide for the operation of the notice to be suspended under this section—
+
+- (a) any periods specified in the notice under section 13 are to be fixed by reference to the day when the suspension ends, and
+- (b) in subsection (3) of that section the reference to the 28th day after that on which the notice is served is to be read as referring to the 21st day after that on which the suspension ends.
+
+## Annotations
+
+[^c2050731]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2004/34/section/14) wholly in force at 16.6.2006; [s. 14](https://www.legislation.gov.uk/ukpga/2004/34/section/14) not in force at Royal Assent see [s. 270(4)(5)](https://www.legislation.gov.uk/ukpga/2004/34/section/270/4/5); [s. 14](https://www.legislation.gov.uk/ukpga/2004/34/section/14) in force for E. at 6.4.2006 by [S.I. 2006/1060](https://www.legislation.gov.uk/uksi/2006/1060), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2006/1060/article/2/1/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1060/schedule)); [s. 14](https://www.legislation.gov.uk/ukpga/2004/34/section/14) in force for W. at 16.6.2006 by [S.I. 2006/1535](https://www.legislation.gov.uk/uksi/2006/1535), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1535/article/2/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1535/schedule))

@@ -1,0 +1,636 @@
+---
+title: The Public Service Vehicles (Conduct of Drivers, Inspectors, Conductors and Passengers) Regulations 1990
+id: uksi/1990/1020
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '1990-05-02'
+text_date: '2026-08-05'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/uksi/1990/1020
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1990/1020/pdfs/uksi_19901020_en.pdf
+- http://www.legislation.gov.uk/uksi/1990/1020/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Public Service Vehicles (Conduct of Drivers, Inspectors, Conductors and Passengers) Regulations 1990
+
+> Text as at 2026-08-05.
+>
+> Extent: England, Wales, Scotland.
+
+*Extent: E+W+S*
+
+1990 No. 1020
+
+PUBLIC PASSENGER TRANSPORT
+
+The Public Service Vehicles (Conduct of Drivers, Inspectors, Conductors and Passengers) Regulations 1990
+
+Made
+
+2nd May 1990
+
+Laid before Parliament
+
+11th May 1990
+
+Coming into force
+
+1st June 1990
+
+The Secretary of State for Transport, in exercise of the powers conferred by sections 24(1), 25(1) and (4) and 60 of the Public Passenger Vehicles Act 1981[^f00001] (“the 1981 Act”), and sections 23(2)(b), 134(1) and 137(1) of the Transport Act 1985[^f00002] and of all other enabling powers, and after consultation with representative organisations in accordance with section 61(2) of the 1981 Act[^f00003], hereby makes the following Regulations:–[^key-7a0d7c77f1425dcd48866e409bbb8b35]
+
+## PART I
+
+### 1. Citation and Commencement[^key-d148e97100de01cead81891fbcf52908]
+
+These Regulations may be cited as the Public Service Vehicles (Conduct of Drivers, Inspectors, Conductors and Passengers) Regulations 1990 and shall come into force on 1st June 1990.
+
+### 2. Revocation[^key-c5d64cafbefc9edd3eb2900ec89c5ded]
+
+The Regulations specified in the Schedule to these Regulations are hereby revoked.
+
+## PART II
+
+### 3. Interpretation[^key-e365f587a9cb7358f9f82500d9c3d86a]
+
+(1) In this Part of the Regulations unless the context otherwise requires–
+
+- “the 1981 Act” means the Public Passenger Vehicles Act 1981;
+- “the 1985 Act” means the Transport Act 1985;
+- “the[^key-080cdcef36d1ca6cb051e548f30e41e8][^key-b388a59f2a0b563ec668a4fc07c677c3] 1995 Act” means the Disability Discrimination Act 1995;
+- “the *(Extent: E+W)* 2010 Act *(Extent: E+W)*” means the Equality Act 2010; *(Extent: E+W)*
+- “the 1984 Regulations” means the Public Service Vehicles (Carrying Capacity) Regulations 1984;
+- “the 2000 Regulations” means the Public Service Vehicles Accessibility Regulations 2000;
+- “assistance dog” means a dog which—[^key-e176d4de7e3ec6237a0adfe401f63df8][^key-19f69681a37cafc9d7487f454e550a07]
+  - (a) is trained by a specified charity to assist a disabled person with a physical impairment for the purpose of section 1 of the 1995 Act which—
+    - (i) consists of epilepsy; or
+    - (ii) otherwise affects his mobility, manual dexterity, physical coordination or ability to lift, carry or otherwise move everyday objects; and
+  - (b) at the time it is providing assistance to a disabled person, is wearing a jacket inscribed with the name of one of the following charities, that is to say—
+    - (i) “Dogs for the Disabled” registered with the Charity Commission under registration number 700454;
+    - (ii) “Support Dogs” registered with the Charity Commission under registration number 1017237; or
+    - (iii) “Canine Partners for Independence” registered with the Charity Commission under registration number 803680;
+- “assistance dog” means a dog which has been trained— *(Extent: E+W)*
+  - (a) to guide a blind person; *(Extent: E+W)*
+  - (b) to assist a deaf person; *(Extent: E+W)*
+  - (c) by a specified charity to assist a person who has a disability for the purpose of section 6(1) of the *(Extent: E+W)* 2010 Act *(Extent: E+W)* that— *(Extent: E+W)*
+    - (i) consists of epilepsy; or *(Extent: E+W)*
+    - (ii) otherwise affects the person’s mobility, manual dexterity, physical co-ordination or ability to lift, carry or otherwise move everyday objects; *(Extent: E+W)*
+- “boarding lift” means a lift fitted to a regulated public service vehicle for the purpose of allowing wheelchair users to board and alight from the vehicle;
+- “boarding ramp” means a ramp fitted to a regulated public service vehicle for the purpose of allowing wheelchair users to board and alight from the vehicle;
+- “disabled person” has the same meaning as in section 1 of the[^key-06c71aec9976a7a05385810ae99ca657] 1995 Act;
+- “disabled person” means a person who is a disabled person within the meaning of section 6 of the *(Extent: E+W)* 2010 Act *(Extent: E+W)*; *(Extent: E+W)*
+- “guide dog” has the same meaning as in section 37(11) of the *(Extent: E+W)* *(affected by repeal, see note)*[^key-d5dc43715d95e860e0959f9bdbf5d55e] 1995 Act *(Extent: E+W)* *(affected by repeal, see note)*[^key-d5dc43715d95e860e0959f9bdbf5d55e]; *(Extent: E+W)* *(affected by repeal, see note)*[^key-d5dc43715d95e860e0959f9bdbf5d55e]
+- “hearing dog” has the same meaning as in section 37(11) of the *(Extent: E+W)* *(affected by repeal, see note)*[^key-d5dc43715d95e860e0959f9bdbf5d55e] 1995 Act *(Extent: E+W)* *(affected by repeal, see note)*[^key-d5dc43715d95e860e0959f9bdbf5d55e]; *(Extent: E+W)* *(affected by repeal, see note)*[^key-d5dc43715d95e860e0959f9bdbf5d55e]
+- “licence” means a licence to drive a vehicle granted under section 22 of the 1981 Act;
+- “local service” has the same meaning as in section 2 of the 1985 Ac
+- “maximum seating capacity” has the same meaning as in regulation 4 of the 1984 Regulations;
+- “maximum standing capacity” has the same meaning as in regulation 6 of the 1984 Regulations;
+- “portable ramp” means a ramp which is carried on a regulated public service vehicle for the purpose of allowing wheelchair users to board or alight from the vehicle;
+- “regulated public service vehicle” means a public service vehicle to which the 2000 Regulations apply;
+- “scheduled service” means a service, using one or more public service vehicles, for the carriage of passengers at separate fares—
+  - (a) along specified routes,
+  - (b) at specified times, and
+  - (c) with passengers being taken up and set down at pre-determined stopping points,
+
+  but does not include a tour service (being a service where a public service vehicle is used for or in conjunction with the carriage of passengers to a particular location, or particular locations, and back to their point of departure);
+- “specified charity” means each of the following charities— *(Extent: E+W)*[^key-07fd6f15a82dbd0bc75bf1dbf4c97c18]
+  - (a) “Dogs for the Disabled” registered with the Charity Commission under registration number 1092960; *(Extent: E+W)*
+  - (b) “Dogs for the Disabled” registered with the Charity Commission under registration number 700454; *(Extent: E+W)*
+  - (c) “Support Dogs” registered with the Charity Commission under registration number 1017237; and *(Extent: E+W)*
+  - (d) “Canine Partners for Independence” registered with the Charity Commission under registration number 803680; *(Extent: E+W)*
+- “ticket” means a document which, in accordance with the terms and conditions under which it has been issued, constitutes a valid authority to travel on a vehicle; *(Extent: E+W)* *(affected by repeal, see note)*[^key-9abacd64dc1cfe2b27e4cc121a7a88bd]
+- “vehicle” means any vehicle used as a public service vehicle as defined in the 1981 Act but excluding any vehicle used under a permit granted by virtue of section 19 of the 1985 Act.
+- “wheelchair restraint system” means a system which is designed to keep a wheelchair restrained within the wheelchair space;
+- “wheelchair space” means a space for a wheelchair with which a regulated public service vehicle is fitted in accordance with paragraph 2 of Schedule 1 to the 2000 Regulations;
+- “wheelchair user” means a disabled person using a wheelchair; and
+- “wheelchair user restraint” means a system which is designed to keep a wheelchair user restrained in the wheelchair.
+
+(2) For the purposes of this Part of the Regulations, a sum payable by a passenger on the vehicle shall not be regarded as a fare unless–
+
+- (a) it is computed in accordance with a fare table available on the vehicle; and
+- (b) the fare table contains sufficient information to enable the passenger to ascertain the fare for his journey or the manner in which it is computed.
+
+(3) In this Part of the Regulations, in relation to a vehicle–
+
+- “conductor” means a person, not being the driver, who is authorised by the operator to act as a conductor on the vehicle, but does not include an inspector; and
+- “driver” means a person who is the holder of a licence and who is for the time being responsible for driving the vehicle.
+
+(4) In this Part of the Regulations, any reference to a numbered regulation is a reference to the regulation bearing that number in this Part of the Regulations.
+
+(5) In this Part of the Regulations, any reference to a numbered or lettered paragraph or sub-paragraph is a reference to the paragraph or sub-paragraph bearing that number or letter in the regulation or (in the case of a sub-paragraph) paragraph in which the reference appears.
+
+### 4. The conduct of drivers, inspectors and conductors[^key-87cfe614084ab759f5efdcf7fbf47126]
+
+*Extent: S*
+
+(1 (Extent: E+W) (affected by repeal, see note))[^key-9acc91320185301deecd1f3a47899b1a] A driver shall not, when a vehicle is in motion, hold a microphone or any attachment thereto unless it is necessary for him, either in an emergency or on grounds of safety, to speak into the microphone. *(Extent: E+W)* *(affected by repeal, see note)*[^key-9acc91320185301deecd1f3a47899b1a]
+
+(2 (Extent: E+W) (affected by repeal, see note))[^key-9acc91320185301deecd1f3a47899b1a] Subject to paragraph (3), a driver shall not, when a vehicle is in motion, speak to any person either directly or by means of a microphone. *(Extent: E+W)* *(affected by repeal, see note)*[^key-9acc91320185301deecd1f3a47899b1a]
+
+*Extent: E+W*
+
+(1) The driver of a vehicle in motion must not—
+
+- (a) subject to paragraph (3), speak directly to any person on board, or
+- (b) hold a microphone or anything attached to a microphone,
+
+unless it is necessary for him to do so, either in an emergency or on grounds of safety.
+
+*Extent: S*
+
+(3 (Extent: E+W) (affected by repeal, see note))[^key-13a39359e9cec810d7e8a020cd37cfd5] Nothing in paragraph (2) shall prevent– *(Extent: E+W)* *(affected by repeal, see note)*[^key-13a39359e9cec810d7e8a020cd37cfd5]
+
+- (a (Extent: E+W) (affected by repeal, see note))[^key-13a39359e9cec810d7e8a020cd37cfd5] the driver of a vehicle from– *(Extent: E+W)* *(affected by repeal, see note)*[^key-13a39359e9cec810d7e8a020cd37cfd5]
+  - (i (Extent: E+W) (affected by repeal, see note))[^key-13a39359e9cec810d7e8a020cd37cfd5] speaking in circumstances when he is obliged to do so by reason of an emergency or on grounds of safety; or *(Extent: E+W)* *(affected by repeal, see note)*[^key-13a39359e9cec810d7e8a020cd37cfd5]
+  - (ii (Extent: E+W) (affected by repeal, see note))[^key-13a39359e9cec810d7e8a020cd37cfd5] speaking to a relevant person in relation to the operation of the vehicle provided that he can do so without being distracted from his driving of the vehicle; and *(Extent: E+W)* *(affected by repeal, see note)*[^key-13a39359e9cec810d7e8a020cd37cfd5]
+- (b (Extent: E+W) (affected by repeal, see note))[^key-13a39359e9cec810d7e8a020cd37cfd5] the driver of a vehicle which is being used to provide a relevant service from making short statements from time to time limited to indicating the location of the vehicle or operational matters provided that he can do so without being distracted from his driving of the vehicle. *(Extent: E+W)* *(affected by repeal, see note)*[^key-13a39359e9cec810d7e8a020cd37cfd5]
+
+*Extent: E+W*
+
+(3) The driver of a vehicle in motion may—
+
+- (a) speak to a relevant person in relation to the operation of the vehicle, or
+- (b) on a relevant service, make short statements from time to time indicating the location of the vehicle or relating to operational matters,
+
+provided that the driver can do so without being distracted from driving the vehicle.
+
+(4) In this regulation–
+
+- (a) “relevant person” is a person fulfilling one of the following descriptions–
+  - (i) an employee of the operator;
+  - (ii) when the operator is a firm, a partner of the firm;
+  - (iii) if the operator is an individual, that individual; or
+  - (iv) if the operator is a company, a director; and
+- (b) “relevant service” is a service for the carriage of passengers for hire or reward at separate fares which is neither–
+  - (i) an excursion or tour within the meaning of section 137(1) of the 1985 Act; nor
+  - (ii) a service the primary purpose of which is sightseeing, not falling within sub-paragraph (i).
+
+### 5.[^key-3aa3c3b266041090ec5f696ffa583dbd]
+
+(1) A driver and a conductor shall take all reasonable precautions to ensure the safety of passengers who are on, or who are entering or leaving, the vehicle.
+
+(2) A driver, inspector and conductor shall take all reasonable steps to ensure that the provisions of these Regulations relating to the conduct of passengers are complied with.
+
+*Extent: S+N.I.*
+
+(3 (Extent: E+W) (affected by repeal, see note))[^key-00e6e07572cd16e172880a4fd1cea785] A driver, inspector or conductor– *(Extent: E+W)* *(affected by repeal, see note)*[^key-00e6e07572cd16e172880a4fd1cea785]
+
+- (a (Extent: E+W) (affected by repeal, see note))[^key-00e6e07572cd16e172880a4fd1cea785] shall, if so requested by a constable or other person having reasonable cause, give his name, the person by whom he is employed and, in the case of a driver, particulars of the licence by virtue of which he drives the vehicle; and *(Extent: E+W)* *(affected by repeal, see note)*[^key-00e6e07572cd16e172880a4fd1cea785]
+- (b (Extent: E+W) (affected by repeal, see note))[^key-b017d69cf8b955c1bea4d80f2656ca06][^key-00e6e07572cd16e172880a4fd1cea785] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . *(Extent: E+W)* *(affected by repeal, see note)*[^key-00e6e07572cd16e172880a4fd1cea785]
+
+*Extent: E+W*
+
+(3) A driver, inspector or conductor shall, if requested to do so by a constable or other person having reasonable cause, give his name and the name of the person by whom he is employed.
+
+(4)[^M_F_2673dce8-3fa4-4052-e29f-ba464cfae7a6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5) A driver shall, when picking up or setting down passengers, stop the vehicle as close as is reasonably practicable to the left or near side of the road.
+
+(6 (Extent: E+W) (affected by repeal, see note))[^key-6b13be099673e9e350726334d1574eaa] A conductor shall not, while the vehicle is in motion and without reasonable cause, distract the driver’s attention or obstruct his vision. *(Extent: E+W)* *(affected by repeal, see note)*[^key-6b13be099673e9e350726334d1574eaa]
+
+(7)[^key-28948165225038c4a0440615d8610062] A driver, inspector and a conductor shall not, subject to there being a suitable space available, prevent a disabled person accompanied by an assistance dog, a guide dog or a hearing dog, *(Extent: E+W)* *(affected by repeal, see note)*[^key-07177c2feabd5ff0c263e1b2111d0ca7] being allowed to board and travel in the vehicle with his dog.
+
+### 6. The conduct of passengers[^key-af49c78cfed6fe29cda9091f148100f7]
+
+(1) No passenger on a vehicle shall–
+
+- (a) where the vehicle has a door which passengers are by a notice informed is for a particular purpose, use that door for any other purpose, unless otherwise directed or authorised by a driver, inspector or conductor;
+- (b) put at risk or unreasonably impede or cause discomfort to any person travelling on or entering or leaving the vehicle, or a driver, inspector, conductor or employee of the operator when doing his work on the vehicle;
+- (c) throw or trail any article from the vehicle;
+- (d)[^key-7d5f775c3d85ae72b55c8609a05b2212] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e (Extent: E+W) (affected by repeal, see note))[^M_F_f6afcdbc-2358-4e3f-c295-b060ba8443bf] except with the permission of the operator, distribute any paper or other article for the purpose of giving or seeking information about or comment upon any matter; *(Extent: E+W)* *(affected by repeal, see note)*[^M_F_f6afcdbc-2358-4e3f-c295-b060ba8443bf]
+- (f (Extent: E+W) (affected by repeal, see note))[^key-4198f2c505383082cc7917d8c0a3c0de] except with the permission of the operator, sell or offer for sale any article; *(Extent: E+W)* *(affected by repeal, see note)*[^key-4198f2c505383082cc7917d8c0a3c0de]
+- (g)[^key-732e8f8782ebaa6b18f2555d75702f3c] speak to the driver whilst the vehicle is in motion except—
+  - (i) in an emergency;
+  - (ii) for reasons of safety; or
+  - (iii) to give directions as to the stopping of the vehicle;
+- (h) without reasonable cause distract the driver’s attention, obstruct his vision or give any signal which might reasonably be interpreted by the driver as a signal–
+  - (i) to stop the vehicle in an emergency; or
+  - (ii) to start the vehicle;
+- (j) travel on any part of the vehicle which is not provided for the carriage of passengers;
+- (k) remain on the vehicle, when directed to leave by the driver, inspector or conductor on the following grounds–
+  - (i) that his remaining would result in the number of passengers exceeding the maximum seating capacity or the maximum standing capacity marked on the vehicle in accordance with the Public Service Vehicles (Carrying Capacity) Regulations 1984[^f00004];
+  - (ii) that he has been causing a nuisance; or
+  - (iii) that his condition is such as would be likely to cause offence to a reasonable passenger or that the condition of his clothing is such that his remaining would be reasonably expected to soil the fittings of the vehicle or the clothing of other passengers;
+- (l) play or operate any musical instrument or sound reproducing equipment to the annoyance of any person on the vehicle or in a manner which is likely to cause annoyance to any person on the vehicle; or (m) intentionally interfere with any equipment with which the vehicle is fitted.
+
+(1A)[^key-38005ecd39229e23397adcf1f61f9399] Paragraph (1)(k)(ii) and (iii) shall not apply to a direction given by a driver, inspector or conductor solely on the grounds that a person is a disabled person.
+
+(2) Subject to paragraph (3), a passenger on a vehicle who has with him any article or substance mentioned in paragraph (4) or any animal–
+
+- (a) if directed by the driver, inspector or conductor to put it in a particular place on the vehicle, shall put it where directed; and
+- (b) if requested to move it from the vehicle by the driver, inspector or conductor, shall remove it.
+
+(3)[^key-9350ca73f3d5dfb1dcb2b1d7c3627198] Paragraph (2)(b) does not require the removal of an animal where the passenger is a disabled person and the animal is an assistance dog, a guide dog or a hearing dog *(Extent: E+W)* *(affected by repeal, see note)*[^key-00cdd743fee4ff24adcac12d9b28fc0a].
+
+(3A)[^key-dbc6a7dfc5b82feba7e37b4ceb43e14f] Without prejudice to regulation 5(7), a disabled person shall comply with any direction given by a driver, inspector or conductor to remove his assistance dog, guide dog or hearing dog *(Extent: E+W)* *(affected by repeal, see note)*[^key-aac181508dcd269af7fadc81f8b31bcb] from the gangway.
+
+(4) The article or substance referred to in paragraph (2) is–
+
+- (a) any bulky or cumbersome article;
+- (b) any article or substance which causes or is likely to cause annoyance to any person on the vehicle; or
+- (c) any article or substance which would be reasonably expected to constitute–
+  - (i) a risk of injury to any person on the vehicle; or
+  - (ii) a risk of damage to the property of any person on the vehicle or to the vehicle.
+
+(5)[^key-a40a9145991607b79ecab90ba6d89cf4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 7.[^key-e3f269c6a5a801334619e483140508d3]
+
+(1) No passenger on a vehicle being used for the carriage of passengers at separate fares shall use any ticket *(Extent: E+W)* *(affected by repeal, see note)*[^key-0964c3c230e61fdc55b092372a9a5c78] travel mandate *(Extent: E+W)* which has–
+
+- (a) been altered or defaced;
+- (b) been issued for use by another person on terms that it is not transferable; or
+- (c) expired.
+
+(2) Save as provided in paragraph (3), every passenger on a vehicle being used for the carriage of passengers at separate fares shall–
+
+- (a) declare, if so requested by the driver, inspector or conductor, the journey which he intends to take, is taking or has taken in the vehicle;
+- (b) where the vehicle is being operated by the driver without a conductor–
+  - (i (Extent: E+W) (affected by repeal, see note))[^key-bc4a82a9d94d43423e442d4d958607cf] save as provided in (ii) below, immediately on boarding the vehicle, pay the fare for the journey he intends to take to the driver or, where appropriate, by inserting in any fare-collection equipment provided on the vehicle the money or token required to pay that fare; or *(Extent: E+W)* *(affected by repeal, see note)*[^key-bc4a82a9d94d43423e442d4d958607cf]
+  - (i (Extent: E+W)) save as provided in sub-paragraph (ii), as soon as reasonably practicable after boarding the vehicle— *(Extent: E+W)*
+    - (aa (Extent: E+W)) pay to the driver the fare for the journey he intends to take; *(Extent: E+W)*
+    - (bb (Extent: E+W)) if the vehicle is provided with fare-collection equipment, other than smart equipment, insert in that equipment the money or token required to pay the fare; *(Extent: E+W)*
+    - (cc (Extent: E+W)) if he claims to be entitled to any statutory travel concession, or other concession, in respect of the fare, produce to the driver the statutory travel concession permit, or other permit, issued to him in respect of that concession; *(Extent: E+W)*
+    - (dd (Extent: E+W)) if the vehicle is provided with smart equipment and any condition of carriage of the operator requires a passenger to present a smart medium which has been issued to that passenger, comply with that condition and any direction as to that requirement given by the driver, an inspector or by any notice displayed on the vehicle; or *(Extent: E+W)*
+  - (ii) if otherwise directed by the driver, an inspector or a notice displayed on the vehicle, shall *(Extent: E+W)* *(affected by repeal, see note)*[^key-3870120058f0409442eeee38d4ddeeee] pay the fare for his journey in accordance with the direction;
+- (c (Extent: E+W) (affected by repeal, see note))[^key-e3db8eea033c0e939cb28d5874c9f141] where the vehicle is being operated by the driver with a conductor, pay the fare for the journey which he intends to take, is taking, or has taken in the vehicle to the conductor immediately on being requested to do so by the conductor or an inspector; *(Extent: E+W)* *(affected by repeal, see note)*[^key-e3db8eea033c0e939cb28d5874c9f141]
+- (c (Extent: E+W)) where the vehicle is being operated by the driver with a conductor— *(Extent: E+W)*
+  - (i (Extent: E+W)) pay the fare for the journey which he intends to take, is taking, or has taken in the vehicle to the conductor, *(Extent: E+W)*
+  - (ii (Extent: E+W)) if he claims to be entitled to any statutory travel concession, or other concession, in respect of the fare, produce to the conductor the statutory travel concession permit, or other permit, issued to him in respect of that concession, *(Extent: E+W)*
+
+  immediately on being requested to do so by the conductor or an inspector; *(Extent: E+W)*
+- (d) accept and retain for the rest of his journey any ticket which is provided on payment of a fare in accordance with sub-paragraph (b) or (c);
+- (e (Extent: E+W) (affected by repeal, see note))[^key-aac6a475415448e99760149fd661c40b] produce during his journey any ticket which has been issued to him either under sub-paragraph (d) or before he started his journey for inspection by the driver, inspector or conductor on being requested to do so by the driver, inspector or conductor; and *(Extent: E+W)* *(affected by repeal, see note)*[^key-aac6a475415448e99760149fd661c40b]
+- (e (Extent: E+W)) produce during his journey any travel mandate which authorises him to take that journey for inspection by the driver, inspector or conductor on being requested to do so by the driver, inspector or conductor; and *(Extent: E+W)*
+- (f (Extent: E+W) (affected by repeal, see note))[^key-524c94abd6c881898db5640504e5d81d] as soon as he has completed the journey for which he has a ticket, either– *(Extent: E+W)* *(affected by repeal, see note)*[^key-524c94abd6c881898db5640504e5d81d]
+  - (i (Extent: E+W) (affected by repeal, see note))[^key-524c94abd6c881898db5640504e5d81d] leave the vehicle; or *(Extent: E+W)* *(affected by repeal, see note)*[^key-524c94abd6c881898db5640504e5d81d]
+  - (ii (Extent: E+W) (affected by repeal, see note))[^key-524c94abd6c881898db5640504e5d81d] pay the fare for any further journey which he intends to take on the vehicle. *(Extent: E+W)* *(affected by repeal, see note)*[^key-524c94abd6c881898db5640504e5d81d]
+- (f (Extent: E+W)) as soon as he has completed the journey in respect of which he has paid the fare, produced a permit or presented a smart medium, either— *(Extent: E+W)*
+  - (i (Extent: E+W)) leave the vehicle; or *(Extent: E+W)*
+  - (ii (Extent: E+W)) pay the fare, produce a permit or present a smart medium in respect of any further journey which he intends to take on the vehicle. *(Extent: E+W)*
+
+(3) Paragraph (2)(b) and (c) do not apply to a passenger who has with him a ticket which was issued to him before his journey in respect of that journey, provided he complies with all such directions in relation to the ticket as may be–
+
+- (a) printed on the ticket;
+- (b) displayed on the vehicle; or
+- (c) given by the driver, inspector or conductor.
+
+(4) Any passenger who–
+
+- (a) fails to comply with paragraph 2(b) or (c); or
+- (b) does not have with him a ticket which was issued to him before his journey in respect of that journey;
+
+shall pay the fare for his journey to the driver, inspector or conductor on request and in any case before he leaves the vehicle unless otherwise agreed by the driver, inspector or conductor.
+
+(5) Any passenger on a vehicle being used for the carriage of passengers at separate fares who has with him a ticket *(Extent: E+W)* *(affected by repeal, see note)*[^key-1c2e15d95ff768fb908c85c4ea4f1ad6] travel mandate *(Extent: E+W)* which he is not entitled to retain for any reason including–
+
+- (a) the alteration or defacement of the ticket *(Extent: E+W)* *(affected by repeal, see note)*[^key-1c2e15d95ff768fb908c85c4ea4f1ad6] travel mandate *(Extent: E+W)*;
+- (b) the fact that the ticket *(Extent: E+W)* *(affected by repeal, see note)*[^key-1c2e15d95ff768fb908c85c4ea4f1ad6] travel mandate *(Extent: E+W)*, having been issued for use by another person, was not transferable to him;
+- (c) the expiry of the ticket *(Extent: E+W)* *(affected by repeal, see note)*[^key-1c2e15d95ff768fb908c85c4ea4f1ad6] travel mandate *(Extent: E+W)*; or
+- (d) a mistake in consequence of which the ticket *(Extent: E+W)* *(affected by repeal, see note)*[^key-1c2e15d95ff768fb908c85c4ea4f1ad6] travel mandate *(Extent: E+W)* was issued;
+
+shall surrender the ticket *(Extent: E+W)* *(affected by repeal, see note)*[^key-1c2e15d95ff768fb908c85c4ea4f1ad6] travel mandate *(Extent: E+W)* to a driver, inspector or conductor on being required to do so.
+
+*Extent: E+W*
+
+(6)[^key-5f06539b39ec091bd1f1870961863a6c] For the purposes of this regulation—
+
+- “present” means—
+  - (a) insert a smart medium in,
+  - (b) swipe a smart medium against,
+  - (c) touch a smart medium upon, or
+  - (d) otherwise apply a smart medium to,
+
+  smart equipment, in a manner which enables the smart medium to interact with the smart equipment;
+- “smart equipment” means any electronic equipment which is capable of interacting with any smart medium for the purpose of—
+  - (a) authorising a passenger to take the journey which that passenger intends to take;
+  - (b) paying the fare for that journey; or
+  - (c) evidencing entitlement to any concession in respect of that fare;
+- “smart medium” means any electronically enabled medium capable of interacting with smart equipment;
+- “statutory travel concession” means any concession to which the holder of any statutory travel concession permit is entitled;
+- “statutory travel concession permit” means a statutory travel concession permit within the meaning of section 145A(3) or 145B(11) of the Transport Act 2000; and
+- “travel mandate” means—
+  - (a) a smart medium, or
+  - (b) a ticket, a statutory travel concession permit, or other permit, none of which is a smart medium,
+
+  together with any related form of identification.
+
+### 8.[^key-ef10b28551b4e8b667883ceb955d8e67]
+
+(1) Any passenger on a vehicle who is reasonably suspected by the driver, inspector or conductor of the vehicle of contravening any provision of these Regulations shall give his name and address to the driver, inspector or conductor on demand.
+
+(2) Any passenger on a vehicle who contravenes any provision of these Regulations may be removed from the vehicle by the driver, inspector or conductor of the vehicle or, on the request of the driver, inspector or conductor, by a police constable.
+
+### 9.[^key-4f192fb82cecde622057bdf1e83afd52]
+
+In its application to Scotland, regulation 8(1) shall have effect as if after the word “address” there were inserted the words “to a police constable or”.
+
+## PART III
+
+### 10. Amendment of Regulations[^key-95f902c126604257b5110edd7a0380e9]
+
+The Community Bus Regulations 1986[^f00006] shall be amended by the substitution for regulation 2(1)(c) of the following–
+
+> - (c) he shall, while driving the vehicle, comply with the requirements specified in relation to a driver licensed to drive a public service vehicle when acting as the driver of such a vehicle in regulations 4 and 5(1), and sub-paragraph (a) in so far as it relates to giving particulars of his licence and his name and (b) of regulation 5(3) of the Public Service Vehicles (Conduct of Drivers, Inspectors, Conductors and Passengers) Regulations 1990[^f00007].
+
+.
+
+## PART IV — The conduct of drivers and conductors of regulated public service vehicles with respect to wheelchair users and other disabled persons[^key-99aa1b286245ee270bb8b0e2e52278f1]
+
+### 11. Interpretation of Part IV
+
+In this Part—
+
+- “Schedule 1” means Schedule 1 (wheelchair accessibility requirements) to the 2000 Regulations;
+- “Schedule 2” means Schedule 2 (general accessibility requirements for single-deck and double-deck buses) to the 2000 Regulations;
+- “Schedule 3” means Schedule 3 (general accessibility requirements for single-deck and double-deck coaches) to the 2000 Regulations;
+- a “Schedule 1 vehicle” means a regulated public service vehicle which is required to comply with the provisions of Schedule 1; and
+- a “Schedule 2 or 3 vehicle” means a regulated public service vehicle which is required to comply (as the case may be) with the provisions of either Schedule 2 or Schedule 3.
+
+### 12. Duties towards wheelchair users of Schedule 1 vehicles
+
+(1) This regulation applies (subject to regulation 15(1) (duties requiring the proper functioning of equipment)) in relation to a driver and a conductor of a Schedule 1 vehicle.
+
+(2) If there is an unoccupied wheelchair space on the vehicle, a driver and a conductor shall allow a wheelchair user to board if—
+
+- (a) the wheelchair is of a type or size that can be correctly and safely located in that wheelchair space, and
+- (b) in so doing, neither the maximum seating nor standing capacity of the vehicle would be exceeded.
+
+(3) For the purpose of paragraph (2), a wheelchair space is occupied if—
+
+- (a) there is a wheelchair user in that space; or
+- (b) passengers or their effects are in that space and they or their effects cannot readily and reasonably vacate it by moving to another part of the vehicle.
+
+(4) A driver and a conductor shall ensure—
+
+- (a) where the carriage of a portable ramp is required by Schedule 1, that a portable ramp is carried on the vehicle where the vehicle is operating on a local service or on a scheduled service;
+- (b) that any boarding lift, boarding ramp or portable ramp is in its normal position for vehicle travel and is securely stowed before the vehicle is driven;
+- (c) where the vehicle is operating on a local or a scheduled service and it is fitted with a boarding lift or a boarding ramp which, in order to comply with Schedule 1, requires a means of control for it to be capable of being operated manually in the event of a power failure, that such a separate means of control is carried on the vehicle;
+- (d) that wheelchair users can gain access into and can get out of a wheelchair space;
+- (e) before the vehicle is driven, that any wheelchair user is correctly and safely positioned in a wheelchair space and that any retractable rail (being a rail fitted in accordance with the requirements of paragraph 4(3)(b) of Schedule 1) or any similar device is in a position to restrict the lateral movement of the wheelchair; and
+- (f) where a wheelchair user using a wheelchair space faces the front of the vehicle, that the wheelchair restraint system is attached in accordance with the relevant instructions pursuant to paragraph 8(3) of Schedule 1.
+
+(5) If the vehicle has a seat in a wheelchair space which is capable of being quickly dismantled or removed, a driver and a conductor shall ensure that any such seat—
+
+- (a) when it is not in use and is stowed on the vehicle, is safely stowed; and
+- (b) whenever it is in position for use within the wheelchair space, is secured.
+
+### 13. Duties concerning kneeling systems etc towards disabled persons using Schedule 2 or 3 vehicles
+
+(1) This regulation (subject to regulations 15 (effects of faulty or malfunctioning equipment) and 17 (extent of driver’s and conductor’s duty)) applies in relation to a driver and to a conductor of a Schedule 2 and 3 vehicle where that vehicle is equipped with—
+
+- (a) a kneeling system, or
+- (b) a folding or retractable step.
+
+(2) A driver and a conductor shall operate the kneeling system or the folding or retractable step—
+
+- (a) whenever they consider that a disabled person will need the system to be operated or the step to be deployed, or
+- (b) if requested to do so,
+
+for the purpose of enabling that person to board or to alight from the vehicle, and in such a manner that the distance between the vehicle and the ground or the vehicle and the kerb is the minimum that is reasonably practicable.
+
+(3) “Kneeling system” means any system which enables the bodywork of the vehicle to be lowered relative to its normal height of travel and a “folding or retractable step” means a step which can either fold or retract and which meets the requirements applicable to external steps pursuant to paragraph 4 of Schedule 2 or Schedule 3 (as the case may be).
+
+(4) A driver and a conductor shall ensure that disabled persons who are not wheelchair users may, when boarding or alighting from the vehicle, use an entrance or an exit which is provided in compliance with (as the case may be) the provisions of either Schedule 2 or Schedule 3.
+
+### 14. General duties towards wheelchair users and other disabled persons
+
+(1) Where a wheelchair user wishes to board or to alight from a Schedule 1 vehicle, a driver and a conductor shall first safely deploy (subject to regulation 15(1) (duties requiring the proper functioning of equipment)) any boarding lift, boarding ramp or portable ramp in its correct operating position.
+
+(2) Where a wheelchair user wishes to board or to alight from a Schedule 1 vehicle and requests assistance to do so, a driver and a conductor shall provide assistance to him.
+
+(3) Where a disabled person who is not a wheelchair user wishes to board or to alight from a Schedule 2 or 3 vehicle and requests assistance to do so, a driver and a conductor shall provide assistance to him.
+
+(3A)[^key-a1bbba59ad927276991db961d655afff] Paragraphs (2) and (3) do not apply to anything that is governed by Article 13(2) of Regulation (EU) No 181/2011 of the European Parliament and of the Council of 16 February 2011 concerning the rights of passengers in bus and coach transport and amending Regulation [(EC) No 2006/2004](https://www.legislation.gov.uk/european/regulation/2004/2006).
+
+(4) Where a wheelchair user wishes to occupy a wheelchair space in a Schedule 1 vehicle which is fitted with a wheelchair user restraint, a driver and a conductor shall—
+
+- (a) offer to provide such assistance as may be required so as to enable the wheelchair user to wear that restraint, and
+- (b) in providing that assistance, apply (subject to regulation 15(1) (duties requiring the proper functioning of equipment)) the wheelchair user restraint only in accordance with the user instructions which are displayed pursuant to paragraph 8(3) of Schedule 1.
+
+### 15. Effects of faulty or malfunctioning equipment
+
+(1) Where the fulfilment of a duty owed by a driver or a conductor under—
+
+- (a) regulation 12 (duties towards wheelchair users of Schedule 1 vehicles),
+- (b) regulation 13 (duties concerning kneeling systems etc towards disabled persons using Schedule 2 or 3 vehicles) or
+- (c) regulation 14 (general duties towards wheelchair users and other disabled persons),
+
+requires the use or operation of any equipment, kneeling system or folding or retractable step and there is a fault in, or a failure in the operation of, that equipment, system or step, the person owing the duty shall not permit a wheelchair user, or other disabled person or any other passenger to board or alight from the vehicle or (if already on board) to travel on the vehicle unless he is satisfied that such persons can do so in safety.
+
+(2) A driver or a conductor shall not be considered to have failed to ensure fulfilment of the duty under either regulation 13(2) (duties concerning kneeling systems etc) or regulation 16 (display of route numbers etc) if, and to the extent that, the performance of that duty involves the proper functioning of equipment on the vehicle but there is a fault in, or a failure in the operation of, that equipment which prevents it being used.
+
+(3) In this regulation—
+
+- “equipment” means any equipment fitted to a regulated public service vehicle in order to comply with Schedule 1, Schedule 2 or Schedule 3 and which a driver and a conductor must operate for the safe fulfilment of the relevant duty; and
+- “kneeling system or folding or retractable step” has the same meaning as in regulation 13(3).
+
+### 16. Route numbers etc
+
+(1) Subject to regulation 15(2) (equipment failure preventing use), a driver and a conductor of a regulated public service vehicle shall ensure that—
+
+- (a) a route number (if any) and a destination is displayed in the positions provided for such displays with respect to the vehicle in accordance (as the case may be) with either paragraph 8 of Schedule 2 or paragraph 7 of Schedule 3;
+- (b) a route number and a destination displayed in accordance with sub-paragraph (a) which is required to be provided with a means of illumination shall have characters that are kept illuminated between sunset and sunrise; and
+- (c) the vehicle shall at all times display the correct route number and destination.
+
+(2) Sub-paragraphs (a) and (b) of paragraph (1) shall not apply to an emergency replacement vehicle or to a temporary service vehicle until 21 days has elapsed from the day when the vehicle is first used as an emergency replacement vehicle or as a temporary service vehicle, provided that—
+
+- (a) the route number (if any) and a destination shall be displayed either on the front or on the nearside of the vehicle as close as practical to the foremost passenger entrance; and
+- (b) the requirement of sub-paragraph (c) of paragraph (1) is complied with.
+
+(3) In this regulation, “destination” and “route number” have the same meanings as in paragraph 7(6) of Schedule 3 to the 2000 Regulations and—
+
+- “emergency replacement vehicle” means a public service vehicle which has been brought into service on the route in question to provide emergency cover; and
+- “temporary service vehicle” means a public service vehicle which is in service on a temporary route or service.
+
+### 17. Extent of driver’s and conductor’s duty
+
+(1) Where, in any of the preceding provisions of this Part, a duty is expressed to be owed by the driver and the conductor of a vehicle, but a function to be performed to fulfil that duty is, according to arrangements made by the operator of the vehicle, the responsibility of one only of them, then that one only, and not the other, owes that duty in relation to that function.
+
+(2) The duties which a driver or a conductor owes under regulation 13 (duties concerning kneeling systems etc) and 14 (general duties towards wheelchair users and other disabled persons) are duties—
+
+- (a) to take such care as in all the circumstances of the case is reasonable to see that the wheelchair user or other disabled person will be reasonably safe in boarding or in alighting from the vehicle, and
+- (b) shall not oblige the person owing the duty to take any steps if, on reasonable grounds, he considers that—
+  - (i) there will be a risk to his health, safety or security or to that of the wheelchair user or other disabled person or to that of any other passenger or member of the public; or
+  - (ii) there will be a risk to the safety and security of the vehicle.
+
+(3) The duties which a driver or a conductor owes under regulations 13 (duties concerning kneeling systems etc) and 14 (general duties towards wheelchair users and other disabled persons) are duties to operate the kneeling system or the folding or retractable step, or to deploy the boarding lift, boarding ramp or portable ramp to the extent that it is practicable having regard to the construction of the vehicle and the condition of the road.
+
+Signed by authority of the Secretary of State for Transport
+
+Michael Portillo
+
+Minister of State,
+
+Department of Transport
+
+2nd May 1990
+
+## SCHEDULE — (Regulations revoked by regulation 2)[^key-fbdf453a76edb44fdc98a351593fef6f]
+
+| *Title* | *Year and number* |
+| --- | --- |
+| The Public Service Vehicles (Conduct of Drivers, Conductors and Passengers) Regulations 1936 | S.R. and O. [1936 No. 619](https://www.legislation.gov.uk/nisro/1936/619) |
+| The Public Service Vehicles (Conduct of Drivers, Conductors and Passengers) (Amendment) Regulations 1946 | S.R. and O. [1946 No. 357](https://www.legislation.gov.uk/nisro/1946/357) |
+| The Public Service Vehicles (Conduct of Drivers, Conductors and Passengers) (Amendment) Regulations 1975 | [S.I. 1975 No. 461](https://www.legislation.gov.uk/uksi/1975/461) |
+| The Public Service Vehicles (Conduct of Drivers, Conductors and Passengers) (Amendment) Regulations 1980 | [S.I. 1980 No. 915](https://www.legislation.gov.uk/uksi/1980/915) |
+
+(This note is not part of the Regulations)
+
+**1.** These Regulations re-enact with amendments the Public Service Vehicles (Conduct of Drivers, Conductors and Passengers) Regulations 1936 as amended.
+
+**2.** The duty of a conductor to take whatever steps are necessary to enforce the provisions of the regulations relating to the conduct of passengers to the best of his ability is replaced by a duty on a driver, inspector or conductor to take all reasonable steps to ensure compliance with such provisions.
+
+**3.** The requirement that the driver and conductor behave in a civil and orderly manner is omitted as uncivil and disorderly conduct on their part could constitute offences under the Public Order Act [1986 (c. 64)](https://www.legislation.gov.uk/ukpga/1986/64). Requirements that the driver and conductor shall not cause the vehicle to remain stationary longer than reasonably necessary except at permitted places are omitted as following the repeal of s.3(4) of the Road Traffic Regulation Act [1984 (c. 27)](https://www.legislation.gov.uk/ukpga/1984/27) traffic regulation orders made by local authorities under the 1984 Act may impose prohibitions or restrictions on waiting by public service vehicles. The requirement that drivers and conductors shall not deceive or refuse to inform any passenger as to the destination or route of the vehicle or the fare is also omitted.
+
+**4.** The requirement that the conductor ensure the display of details of the service is omitted as the Public Service Vehicles (Registration of Local Services) Regulations 1986 ([S.I. 1986/1671](https://www.legislation.gov.uk/uksi/1986/1671)), lay such a requirement on operators of “services” (local services which are neither London local services nor services provided where a railway service has been temporarily interrupted).
+
+**5.** The requirement that drivers or conductors shall not obstruct or neglect to give information and assistance to persons having authority to examine the vehicle is omitted. Section 8(2) of the Public Passenger Vehicles Act [1981 (c. 14)](https://www.legislation.gov.uk/ukpga/1981/14) makes it an offence to intentionally obstruct certifying officers or public service vehicle examiners.
+
+**6.** The requirement that the driver shall not when the vehicle is in motion speak to any person except where necessary on safety grounds (provided that wireless telegraphy communications on operational matters or in an emergency are permitted) is replaced. The new requirements are that the driver shall not when his vehicle is in motion hold a microphone unless it is necessary to speak into it in an emergency or on safety grounds, or speak directly or through a microphone to any other person. It is provided that the prohibition on speaking directly or through a microphone shall not prevent a driver from–
+
+- (a) speaking in circumstances when he must do so because of an emergency or on safety grounds; or
+- (b) speaking to fellow employees etc about the operation of the vehicle without being distracted from his driving.
+
+In addition the driver of a “relevant service” is not prevented from making short statements from time to time indicating the location of the vehicle or on operational matters, again without being distracted. The definition of “relevant service” excludes an excursion or a tour.
+
+**7.** The requirement that drivers and conductors shall not smoke in or on a vehicle during a journey or when it has passengers on board is replaced by a requirement that drivers, conductors or inspectors shall not smoke in or on a vehicle except–
+
+- (a) when the vehicle is not available for the carriage of passengers and in any part of the vehicle where smoking is not prohibited; and
+- (b) with the permission of the operator and the agreement of the hirer when the vehicle is hired as a whole.
+
+**8.** Requirements that passengers shall not use obscene or offensive language or conduct themselves in a riotous or disorderly manner or that they shall not spit upon or from or wilfully damage, soil or defile any part of the vehicle are omitted, as such conduct could constitute offences under either the Public Order Act 1986 or the Criminal Damage Act [1971 (c. 48)](https://www.legislation.gov.uk/ukpga/1971/48).
+
+**9.** The requirement that passengers shall not travel on the upper deck of a vehicle unless they are seated is omitted as the Public Service Vehicles (Carrying Capacity) Regulations 1984 ([S.I. 1984/1406](https://www.legislation.gov.uk/uksi/1984/1406)), provide that no person shall stand on the upper deck of a double-decked public service vehicle.
+
+**10.** New requirements for passengers are as follows.
+
+- (a) A passenger shall not without reasonable cause, obstruct the driver’s vision or give any signal which might reasonably be interpreted by the driver as a signal to stop the vehicle in an emergency.
+- (b) A passenger may not remain on a vehicle when directed to leave by the driver, inspector or conductor on the ground that he has been causing a nuisance.
+
+**11.** The requirement that passengers shall not use or operate noisy instruments is replaced by a requirement that passengers shall not play or operate musical instruments or sound reproducing equipment to the annoyance of any person on the vehicle or in a manner likely to cause annoyance to such a person.
+
+**12.** A requirement that passengers shall not travel in any vehicle with loaded firearms is omitted, as such conduct could constitute an offence under the Firearms Act [1968 (c. 27)](https://www.legislation.gov.uk/ukpga/1968/27).
+
+**13.** The requirements concerning passengers with bulky articles etc or animals are amended. Passengers with such articles or animals must put them where directed if so directed. If they are requested to remove them from the vehicle they must remove them. The bearer of a card issued by the Guide Dogs for the Blind Association who has a guide dog with him however is not obliged to remove the dog if requested unless there are already two or more dogs on the vehicle or, in the case of a single-decked vehicle of less than 8.5 metres length, there is already one dog or more than one dog on the vehicle.
+
+**14.** The requirement that no passenger shall without reasonable excuse leave or attempt to leave a vehicle without having paid the fare for the journey he has taken is replaced by a new requirement as follows. A passenger who has failed to pay his fare before the end of his journey shall pay it to the driver, inspector or conductor on request and in any case before he leaves the vehicle unless otherwise agreed.
+
+**15.** There are other minor and drafting amendments, and a consequential amendment in the Community Bus Regulations 1986 ([S.I. 1986/1245](https://www.legislation.gov.uk/uksi/1986/1245)).
+
+## Annotations
+
+[^f00001]: Footnote: [1981 c. 14](https://www.legislation.gov.uk/ukpga/1981/14). Section 60 was amended by s.134(2) of, paragraph 4(1) and (18) of Schedule 2, paragraph 21(1) and (9) of Schedule 7 and Schedule 8 to the Transport Act [1985 (c. 67)](https://www.legislation.gov.uk/ukpga/1985/67).
+
+[^f00002]: Footnote: [1985 c. 67](https://www.legislation.gov.uk/ukpga/1985/67). Section 134(1) provides that section 60 of the Public Passenger Vehicles Act [1981 (c. 14)](https://www.legislation.gov.uk/ukpga/1981/14) (“the 1981 Act”) has effect as if Parts I and II of the Transport Act [1985 (c. 67)](https://www.legislation.gov.uk/ukpga/1985/67) (which includes s.23(2)(b) of that Act) were contained in the 1981 Act. In section 137(1) see the definitions of “prescribed” and “regulations”.
+
+[^f00003]: Footnote: Section 61(2) was amended by section 135(1) of and Schedule 8 to the Transport Act [1985 (c. 67)](https://www.legislation.gov.uk/ukpga/1985/67) (“the 1985 Act”). Section 61 has effect as if Parts I and II of the 1985 Act (which includes s.23(2)(b) of that Act) were contained in the Public Passenger Vehicles Act [1981 (c. 14)](https://www.legislation.gov.uk/ukpga/1981/14) by virtue of section 135(1) of the 1985 Act.
+
+[^key-7a0d7c77f1425dcd48866e409bbb8b35]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/1990/1020) modified (5.8.2026) by [Bus Services Act 2025 (c. 24)](https://www.legislation.gov.uk/ukpga/2025/24), [ss. 27(4)](https://www.legislation.gov.uk/ukpga/2025/24/section/27/4), [41(5)](https://www.legislation.gov.uk/ukpga/2025/24/section/41/5); [S.I. 2026/834](https://www.legislation.gov.uk/uksi/2026/834), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/834/regulation/2/a)
+
+[^key-d148e97100de01cead81891fbcf52908]: Commencement: Reg. 1 in force at 1.6.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/1020/regulation/1)
+
+[^key-c5d64cafbefc9edd3eb2900ec89c5ded]: Commencement: Reg. 2 in force at 1.6.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/1020/regulation/1)
+
+[^key-e365f587a9cb7358f9f82500d9c3d86a]: Commencement: Reg. 3 in force at 1.6.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/1020/regulation/1)
+
+[^key-080cdcef36d1ca6cb051e548f30e41e8]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/1990/1020/regulation/3/1) substituted (E.W.) (30.6.2015) by [The Public Service Vehicles (Conduct of Drivers, Inspectors, Conductors and Passengers) (Amendment) (England and Wales) Regulations 2015 (S.I. 2015/888)](https://www.legislation.gov.uk/uksi/2015/888), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2015/888/regulation/1/b), [3(2)(a)](https://www.legislation.gov.uk/uksi/2015/888/regulation/3/2/a)
+
+[^key-b388a59f2a0b563ec668a4fc07c677c3]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/1990/1020/regulation/3/1) inserted (1.10.2002) by [The Public Service Vehicles (Conduct of Drivers, Inspectors, Conductors and Passengers) (Amendment) Regulations 2002 (S.I. 2002/1724)](https://www.legislation.gov.uk/uksi/2002/1724), [regs. 1](https://www.legislation.gov.uk/uksi/2002/1724/regulation/1), [3(a)](https://www.legislation.gov.uk/uksi/2002/1724/regulation/3/a)
+
+[^key-e176d4de7e3ec6237a0adfe401f63df8]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/1990/1020/regulation/3/1) substituted (E.W.) (30.6.2015) by [The Public Service Vehicles (Conduct of Drivers, Inspectors, Conductors and Passengers) (Amendment) (England and Wales) Regulations 2015 (S.I. 2015/888)](https://www.legislation.gov.uk/uksi/2015/888), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2015/888/regulation/1/b), [3(2)(b)](https://www.legislation.gov.uk/uksi/2015/888/regulation/3/2/b)
+
+[^key-19f69681a37cafc9d7487f454e550a07]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/1990/1020/regulation/3/1) inserted (1.10.2002) by [The Public Service Vehicles (Conduct of Drivers, Inspectors, Conductors and Passengers) (Amendment) Regulations 2002 (S.I. 2002/1724)](https://www.legislation.gov.uk/uksi/2002/1724), [regs. 1](https://www.legislation.gov.uk/uksi/2002/1724/regulation/1), [3(b)](https://www.legislation.gov.uk/uksi/2002/1724/regulation/3/b)
+
+[^key-06c71aec9976a7a05385810ae99ca657]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/1990/1020/regulation/3/1) substituted (E.W.) (30.6.2015) by [The Public Service Vehicles (Conduct of Drivers, Inspectors, Conductors and Passengers) (Amendment) (England and Wales) Regulations 2015 (S.I. 2015/888)](https://www.legislation.gov.uk/uksi/2015/888), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2015/888/regulation/1/b), [3(2)(c)](https://www.legislation.gov.uk/uksi/2015/888/regulation/3/2/c)
+
+[^key-d5dc43715d95e860e0959f9bdbf5d55e]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/1990/1020/regulation/3/1) omitted (E.W.) (30.6.2015) by virtue of [The Public Service Vehicles (Conduct of Drivers, Inspectors, Conductors and Passengers) (Amendment) (England and Wales) Regulations 2015 (S.I. 2015/888)](https://www.legislation.gov.uk/uksi/2015/888), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2015/888/regulation/1/b), [3(2)(d)](https://www.legislation.gov.uk/uksi/2015/888/regulation/3/2/d)
+
+[^key-07fd6f15a82dbd0bc75bf1dbf4c97c18]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/1990/1020/regulation/3/1) inserted (E.W.) (30.6.2015) by [The Public Service Vehicles (Conduct of Drivers, Inspectors, Conductors and Passengers) (Amendment) (England and Wales) Regulations 2015 (S.I. 2015/888)](https://www.legislation.gov.uk/uksi/2015/888), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2015/888/regulation/1/b), [3(2)(e)](https://www.legislation.gov.uk/uksi/2015/888/regulation/3/2/e)
+
+[^key-9abacd64dc1cfe2b27e4cc121a7a88bd]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/1990/1020/regulation/3/1) omitted (E.W.) (30.6.2015) by virtue of [The Public Service Vehicles (Conduct of Drivers, Inspectors, Conductors and Passengers) (Amendment) (England and Wales) Regulations 2015 (S.I. 2015/888)](https://www.legislation.gov.uk/uksi/2015/888), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2015/888/regulation/1/b), [3(2)(f)](https://www.legislation.gov.uk/uksi/2015/888/regulation/3/2/f)
+
+[^key-87cfe614084ab759f5efdcf7fbf47126]: Commencement: Reg. 4 in force at 1.6.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/1020/regulation/1)
+
+[^key-9acc91320185301deecd1f3a47899b1a]: Textual amendment: [Reg. 4(1)](https://www.legislation.gov.uk/uksi/1990/1020/regulation/4/1) substituted for [reg. 4(1)(2)](https://www.legislation.gov.uk/uksi/1990/1020/regulation/4/1) (E.W.) (30.6.2015) by [The Public Service Vehicles (Conduct of Drivers, Inspectors, Conductors and Passengers) (Amendment) (England and Wales) Regulations 2015 (S.I. 2015/888)](https://www.legislation.gov.uk/uksi/2015/888), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2015/888/regulation/1/b), [4(2)](https://www.legislation.gov.uk/uksi/2015/888/regulation/4/2)
+
+[^key-13a39359e9cec810d7e8a020cd37cfd5]: Textual amendment: [Reg. 4(3)](https://www.legislation.gov.uk/uksi/1990/1020/regulation/4/3) substituted (E.W.) (30.6.2015) by [The Public Service Vehicles (Conduct of Drivers, Inspectors, Conductors and Passengers) (Amendment) (England and Wales) Regulations 2015 (S.I. 2015/888)](https://www.legislation.gov.uk/uksi/2015/888), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2015/888/regulation/1/b), [4(3)](https://www.legislation.gov.uk/uksi/2015/888/regulation/4/3)
+
+[^key-3aa3c3b266041090ec5f696ffa583dbd]: Commencement: Reg. 5 in force at 1.6.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/1020/regulation/1)
+
+[^key-00e6e07572cd16e172880a4fd1cea785]: Textual amendment: [Reg. 5(3)](https://www.legislation.gov.uk/uksi/1990/1020/regulation/5/3) substituted (E.W.) (30.6.2015) by [The Public Service Vehicles (Conduct of Drivers, Inspectors, Conductors and Passengers) (Amendment) (England and Wales) Regulations 2015 (S.I. 2015/888)](https://www.legislation.gov.uk/uksi/2015/888), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2015/888/regulation/1/b), [5(2)](https://www.legislation.gov.uk/uksi/2015/888/regulation/5/2)
+
+[^key-b017d69cf8b955c1bea4d80f2656ca06]: Textual amendment: [Reg. 5(3)(b)](https://www.legislation.gov.uk/uksi/1990/1020/regulation/5/3/b) omitted (S.) (1.2.2007) by virtue of [The Public Service Vehicles (Conduct of Drivers, Inspectors, Conductors and Passengers) Amendment (Scotland) Regulations 2006 (S.S.I. 2006/613)](https://www.legislation.gov.uk/ssi/2006/613), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2006/613/regulation/1/1), [3(a)](https://www.legislation.gov.uk/ssi/2006/613/regulation/3/a)
+
+[^M_F_2673dce8-3fa4-4052-e29f-ba464cfae7a6]: Textual amendment: [Reg. 5(4)](https://www.legislation.gov.uk/uksi/1990/1020/regulation/5/4) omitted (S.) (1.2.2007) by virtue of [The Public Service Vehicles (Conduct of Drivers, Inspectors, Conductors and Passengers) Amendment (Scotland) Regulations 2006 (S.S.I. 2006/613)](https://www.legislation.gov.uk/ssi/2006/613), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2006/613/regulation/1/1), [3(b)](https://www.legislation.gov.uk/ssi/2006/613/regulation/3/b) and reg. 5(4) omitted (E.W.) (30.6.2015) by virtue of [The Public Service Vehicles (Conduct of Drivers, Inspectors, Conductors and Passengers) (Amendment) (England and Wales) Regulations 2015 (S.I. 2015/888)](https://www.legislation.gov.uk/uksi/2015/888), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2015/888/regulation/1/b), [5(3)](https://www.legislation.gov.uk/uksi/2015/888/regulation/5/3)
+
+[^key-6b13be099673e9e350726334d1574eaa]: Textual amendment: [Reg. 5(6)](https://www.legislation.gov.uk/uksi/1990/1020/regulation/5/6) omitted (E.W.) (30.6.2015) by virtue of [The Public Service Vehicles (Conduct of Drivers, Inspectors, Conductors and Passengers) (Amendment) (England and Wales) Regulations 2015 (S.I. 2015/888)](https://www.legislation.gov.uk/uksi/2015/888), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2015/888/regulation/1/b), [5(3)](https://www.legislation.gov.uk/uksi/2015/888/regulation/5/3)
+
+[^key-28948165225038c4a0440615d8610062]: Textual amendment: [Reg. 5(7)](https://www.legislation.gov.uk/uksi/1990/1020/regulation/5/7) added (1.10.2002) by [The Public Service Vehicles (Conduct of Drivers, Inspectors, Conductors and Passengers) (Amendment) Regulations 2002 (S.I. 2002/1724)](https://www.legislation.gov.uk/uksi/2002/1724), [regs. 1](https://www.legislation.gov.uk/uksi/2002/1724/regulation/1), [4](https://www.legislation.gov.uk/uksi/2002/1724/regulation/4)
+
+[^key-07177c2feabd5ff0c263e1b2111d0ca7]: Textual amendment: Words in [reg. 5(7)](https://www.legislation.gov.uk/uksi/1990/1020/regulation/5/7) omitted (E.W.) (30.6.2015) by virtue of [The Public Service Vehicles (Conduct of Drivers, Inspectors, Conductors and Passengers) (Amendment) (England and Wales) Regulations 2015 (S.I. 2015/888)](https://www.legislation.gov.uk/uksi/2015/888), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2015/888/regulation/1/b), [5(4)](https://www.legislation.gov.uk/uksi/2015/888/regulation/5/4)
+
+[^key-af49c78cfed6fe29cda9091f148100f7]: Commencement: Reg. 6 in force at 1.6.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/1020/regulation/1)
+
+[^key-7d5f775c3d85ae72b55c8609a05b2212]: Textual amendment: [Reg. 6(1)(d)](https://www.legislation.gov.uk/uksi/1990/1020/regulation/6/1/d) omitted (S.) (1.2.2007) by virtue of [The Public Service Vehicles (Conduct of Drivers, Inspectors, Conductors and Passengers) Amendment (Scotland) Regulations 2006 (S.S.I. 2006/613)](https://www.legislation.gov.uk/ssi/2006/613), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2006/613/regulation/1/1), [4](https://www.legislation.gov.uk/ssi/2006/613/regulation/4) and [reg. 6(1)(d)](https://www.legislation.gov.uk/uksi/1990/1020/regulation/6/1/d) omitted (E.W.) (30.6.2015) by virtue of [The Public Service Vehicles (Conduct of Drivers, Inspectors, Conductors and Passengers) (Amendment) (England and Wales) Regulations 2015 (S.I. 2015/888)](https://www.legislation.gov.uk/uksi/2015/888), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2015/888/regulation/1/b), [6(2)](https://www.legislation.gov.uk/uksi/2015/888/regulation/6/2)
+
+[^M_F_f6afcdbc-2358-4e3f-c295-b060ba8443bf]: Textual amendment: [Reg. 6(1)(e)](https://www.legislation.gov.uk/uksi/1990/1020/regulation/6/1/e) omitted (E.W.) (30.6.2015) by virtue of [The Public Service Vehicles (Conduct of Drivers, Inspectors, Conductors and Passengers) (Amendment) (England and Wales) Regulations 2015 (S.I. 2015/888)](https://www.legislation.gov.uk/uksi/2015/888), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2015/888/regulation/1/b), [6(2)](https://www.legislation.gov.uk/uksi/2015/888/regulation/6/2)
+
+[^key-4198f2c505383082cc7917d8c0a3c0de]: Textual amendment: [Reg. 6(1)(f)](https://www.legislation.gov.uk/uksi/1990/1020/regulation/6/1/f) omitted (E.W.) (30.6.2015) by virtue of [The Public Service Vehicles (Conduct of Drivers, Inspectors, Conductors and Passengers) (Amendment) (England and Wales) Regulations 2015 (S.I. 2015/888)](https://www.legislation.gov.uk/uksi/2015/888), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2015/888/regulation/1/b), [6(2)](https://www.legislation.gov.uk/uksi/2015/888/regulation/6/2)
+
+[^key-732e8f8782ebaa6b18f2555d75702f3c]: Textual amendment: [Reg. 6(1)(g)](https://www.legislation.gov.uk/uksi/1990/1020/regulation/6/1/g) substituted (1.3.1995) by [The Public Service Vehicles (Conduct of Drivers, Inspectors, Conductors and Passengers) (Amendment) Regulations 1995 (S.I. 1995/186)](https://www.legislation.gov.uk/uksi/1995/186), [regs. 1](https://www.legislation.gov.uk/uksi/1995/186/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/1995/186/regulation/2/2)
+
+[^f00004]: Footnote: [S.I. 1984/1406](https://www.legislation.gov.uk/uksi/1984/1406).
+
+[^key-38005ecd39229e23397adcf1f61f9399]: Textual amendment: [Reg. 6(1A)](https://www.legislation.gov.uk/uksi/1990/1020/regulation/6/1A) inserted (1.10.2002) by [The Public Service Vehicles (Conduct of Drivers, Inspectors, Conductors and Passengers) (Amendment) Regulations 2002 (S.I. 2002/1724)](https://www.legislation.gov.uk/uksi/2002/1724), [regs. 1](https://www.legislation.gov.uk/uksi/2002/1724/regulation/1), [5(a)](https://www.legislation.gov.uk/uksi/2002/1724/regulation/5/a)
+
+[^key-9350ca73f3d5dfb1dcb2b1d7c3627198]: Textual amendment: [Reg. 6(3)](https://www.legislation.gov.uk/uksi/1990/1020/regulation/6/3) substituted (1.10.2002) by [The Public Service Vehicles (Conduct of Drivers, Inspectors, Conductors and Passengers) (Amendment) Regulations 2002 (S.I. 2002/1724)](https://www.legislation.gov.uk/uksi/2002/1724), [regs. 1](https://www.legislation.gov.uk/uksi/2002/1724/regulation/1), [5(b)](https://www.legislation.gov.uk/uksi/2002/1724/regulation/5/b)
+
+[^key-00cdd743fee4ff24adcac12d9b28fc0a]: Textual amendment: Words in [reg. 6(3)](https://www.legislation.gov.uk/uksi/1990/1020/regulation/6/3) omitted (E.W.) (30.6.2015) by virtue of [The Public Service Vehicles (Conduct of Drivers, Inspectors, Conductors and Passengers) (Amendment) (England and Wales) Regulations 2015 (S.I. 2015/888)](https://www.legislation.gov.uk/uksi/2015/888), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2015/888/regulation/1/b), [6(3)](https://www.legislation.gov.uk/uksi/2015/888/regulation/6/3)
+
+[^key-dbc6a7dfc5b82feba7e37b4ceb43e14f]: Textual amendment: [Reg. 6(3A)](https://www.legislation.gov.uk/uksi/1990/1020/regulation/6/3A) inserted (1.10.2002) by [The Public Service Vehicles (Conduct of Drivers, Inspectors, Conductors and Passengers) (Amendment) Regulations 2002 (S.I. 2002/1724)](https://www.legislation.gov.uk/uksi/2002/1724), [regs. 1](https://www.legislation.gov.uk/uksi/2002/1724/regulation/1), [5(c)](https://www.legislation.gov.uk/uksi/2002/1724/regulation/5/c)
+
+[^key-aac181508dcd269af7fadc81f8b31bcb]: Textual amendment: Words in [reg. 6(3A)](https://www.legislation.gov.uk/uksi/1990/1020/regulation/6/3A) omitted (E.W.) (30.6.2015) by virtue of [The Public Service Vehicles (Conduct of Drivers, Inspectors, Conductors and Passengers) (Amendment) (England and Wales) Regulations 2015 (S.I. 2015/888)](https://www.legislation.gov.uk/uksi/2015/888), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2015/888/regulation/1/b), [6(4)](https://www.legislation.gov.uk/uksi/2015/888/regulation/6/4)
+
+[^key-a40a9145991607b79ecab90ba6d89cf4]: Textual amendment: [Reg. 6(5)](https://www.legislation.gov.uk/uksi/1990/1020/regulation/6/5) omitted (1.10.2002) by virtue of [The Public Service Vehicles (Conduct of Drivers, Inspectors, Conductors and Passengers) (Amendment) Regulations 2002 (S.I. 2002/1724)](https://www.legislation.gov.uk/uksi/2002/1724), [regs. 1](https://www.legislation.gov.uk/uksi/2002/1724/regulation/1), [5(d)](https://www.legislation.gov.uk/uksi/2002/1724/regulation/5/d)
+
+[^key-e3f269c6a5a801334619e483140508d3]: Commencement: Reg. 7 in force at 1.6.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/1020/regulation/1)
+
+[^key-0964c3c230e61fdc55b092372a9a5c78]: Textual amendment: Words in [reg. 7(1)](https://www.legislation.gov.uk/uksi/1990/1020/regulation/7/1) substituted (E.W.) (30.6.2015) by [The Public Service Vehicles (Conduct of Drivers, Inspectors, Conductors and Passengers) (Amendment) (England and Wales) Regulations 2015 (S.I. 2015/888)](https://www.legislation.gov.uk/uksi/2015/888), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2015/888/regulation/1/b), [7(2)](https://www.legislation.gov.uk/uksi/2015/888/regulation/7/2)
+
+[^key-bc4a82a9d94d43423e442d4d958607cf]: Textual amendment: [Reg. 7(2)(b)(i)](https://www.legislation.gov.uk/uksi/1990/1020/regulation/7/2/b/i) substituted (E.W.) (30.6.2015) by [The Public Service Vehicles (Conduct of Drivers, Inspectors, Conductors and Passengers) (Amendment) (England and Wales) Regulations 2015 (S.I. 2015/888)](https://www.legislation.gov.uk/uksi/2015/888), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2015/888/regulation/1/b), [7(3)](https://www.legislation.gov.uk/uksi/2015/888/regulation/7/3)
+
+[^key-3870120058f0409442eeee38d4ddeeee]: Textual amendment: Word in [reg. 7(2)(b)(ii)](https://www.legislation.gov.uk/uksi/1990/1020/regulation/7/2/b/ii) omitted (E.W.) (30.6.2015) by virtue of [The Public Service Vehicles (Conduct of Drivers, Inspectors, Conductors and Passengers) (Amendment) (England and Wales) Regulations 2015 (S.I. 2015/888)](https://www.legislation.gov.uk/uksi/2015/888), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2015/888/regulation/1/b), [7(4)](https://www.legislation.gov.uk/uksi/2015/888/regulation/7/4)
+
+[^key-e3db8eea033c0e939cb28d5874c9f141]: Textual amendment: [Reg. 7(2)(c)](https://www.legislation.gov.uk/uksi/1990/1020/regulation/7/2/c) substituted (E.W.) (30.6.2015) by [The Public Service Vehicles (Conduct of Drivers, Inspectors, Conductors and Passengers) (Amendment) (England and Wales) Regulations 2015 (S.I. 2015/888)](https://www.legislation.gov.uk/uksi/2015/888), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2015/888/regulation/1/b), [7(5)](https://www.legislation.gov.uk/uksi/2015/888/regulation/7/5)
+
+[^key-aac6a475415448e99760149fd661c40b]: Textual amendment: [Reg. 7(2)(e)](https://www.legislation.gov.uk/uksi/1990/1020/regulation/7/2/e) substituted (E.W.) (30.6.2015) by [The Public Service Vehicles (Conduct of Drivers, Inspectors, Conductors and Passengers) (Amendment) (England and Wales) Regulations 2015 (S.I. 2015/888)](https://www.legislation.gov.uk/uksi/2015/888), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2015/888/regulation/1/b), [7(6)](https://www.legislation.gov.uk/uksi/2015/888/regulation/7/6)
+
+[^key-524c94abd6c881898db5640504e5d81d]: Textual amendment: [Reg. 7(2)(f)](https://www.legislation.gov.uk/uksi/1990/1020/regulation/7/2/f) substituted (E.W.) (30.6.2015) by [The Public Service Vehicles (Conduct of Drivers, Inspectors, Conductors and Passengers) (Amendment) (England and Wales) Regulations 2015 (S.I. 2015/888)](https://www.legislation.gov.uk/uksi/2015/888), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2015/888/regulation/1/b), [7(7)](https://www.legislation.gov.uk/uksi/2015/888/regulation/7/7)
+
+[^key-1c2e15d95ff768fb908c85c4ea4f1ad6]: Textual amendment: Words in [reg. 7(5)](https://www.legislation.gov.uk/uksi/1990/1020/regulation/7/5) substituted (E.W.) (30.6.2015) by [The Public Service Vehicles (Conduct of Drivers, Inspectors, Conductors and Passengers) (Amendment) (England and Wales) Regulations 2015 (S.I. 2015/888)](https://www.legislation.gov.uk/uksi/2015/888), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2015/888/regulation/1/b), [7(2)](https://www.legislation.gov.uk/uksi/2015/888/regulation/7/2)
+
+[^key-5f06539b39ec091bd1f1870961863a6c]: Textual amendment: [Reg. 7(6)](https://www.legislation.gov.uk/uksi/1990/1020/regulation/7/6) added (E.W.) (30.6.2015) by [The Public Service Vehicles (Conduct of Drivers, Inspectors, Conductors and Passengers) (Amendment) (England and Wales) Regulations 2015 (S.I. 2015/888)](https://www.legislation.gov.uk/uksi/2015/888), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2015/888/regulation/1/b), [7(8)](https://www.legislation.gov.uk/uksi/2015/888/regulation/7/8)
+
+[^key-ef10b28551b4e8b667883ceb955d8e67]: Commencement: Reg. 8 in force at 1.6.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/1020/regulation/1)
+
+[^key-4f192fb82cecde622057bdf1e83afd52]: Commencement: Reg. 9 in force at 1.6.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/1020/regulation/1)
+
+[^key-95f902c126604257b5110edd7a0380e9]: Commencement: Reg. 10 in force at 1.6.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/1020/regulation/1)
+
+[^f00006]: Footnote: [S.I. 1986/1245](https://www.legislation.gov.uk/uksi/1986/1245).
+
+[^f00007]: Footnote: [S.I. 1990/1020](https://www.legislation.gov.uk/uksi/1990/1020).
+
+[^key-99aa1b286245ee270bb8b0e2e52278f1]: Textual amendment: [Pt. 4](https://www.legislation.gov.uk/uksi/1990/1020/part/4) inserted (1.10.2002) by [The Public Service Vehicles (Conduct of Drivers, Inspectors, Conductors and Passengers) (Amendment) Regulations 2002 (S.I. 2002/1724)](https://www.legislation.gov.uk/uksi/2002/1724), [regs. 1](https://www.legislation.gov.uk/uksi/2002/1724/regulation/1), [6](https://www.legislation.gov.uk/uksi/2002/1724/regulation/6)
+
+[^key-a1bbba59ad927276991db961d655afff]: Textual amendment: [Reg. 14(3A)](https://www.legislation.gov.uk/uksi/1990/1020/regulation/14/3A) inserted (19.8.2013) by [The Rights of Passengers in Bus and Coach Transport (Exemptions and Enforcement) Regulations 2013 (S.I. 2013/1865)](https://www.legislation.gov.uk/uksi/2013/1865), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/1865/regulation/1/1), [13(2)](https://www.legislation.gov.uk/uksi/2013/1865/regulation/13/2)
+
+[^key-fbdf453a76edb44fdc98a351593fef6f]: Commencement: Sch. in force at 1.6.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/1020/regulation/1)

@@ -1,0 +1,469 @@
+---
+title: The North Western Inshore Fisheries and Conservation Order 2010
+id: uksi/2010/2200
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2010-09-02'
+text_date: '2023-04-01'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2010/2200
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2010/2200/pdfs/uksiem_20102200_en.pdf
+- http://www.legislation.gov.uk/uksi/2010/2200/pdfs/uksi_20102200_en.pdf
+- http://www.legislation.gov.uk/uksi/2010/2200/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The North Western Inshore Fisheries and Conservation Order 2010
+
+> Text as at 2023-04-01.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2010 No. 2200
+
+Fisheries, England
+
+The North Western Inshore Fisheries and Conservation Order 2010
+
+Made
+
+2nd September 2010
+
+Laid before Parliament
+
+8th September 2010
+
+Coming into force
+
+1st October 2010
+
+The Secretary of State, after consulting the persons and bodies specified in section 149(3), makes the following Order in exercise of the powers conferred by sections 149(1), 151, 180(2) and 316(1)(b) of the Marine and Coastal Access Act 2009[^f00001].
+
+## 1. Citation and commencement[^key-747f0771c9824d00c4e8c6c938011dfc]
+
+(1) This Order may be cited as the North Western Inshore Fisheries and Conservation Order 2010.
+
+(2) This Order comes into force on 1st October 2010.
+
+## 2. Interpretation[^key-ec528b4b7f3bdedc17534c8d46c56d26]
+
+(1) In this Order—
+
+- “the Marine Act” means the Marine and Coastal Access Act 2009;
+- “additional member” is to be read in accordance with article 5(2)(c);
+- “the Authority” means the North Western Inshore Fisheries and Conservation Authority (see article 4);
+- “chair” means the chair of the Authority (see article 7);
+- “council member” is to be read in accordance with article 5(2)(a);
+- “the district” is to be read in accordance with article 3(1);
+- “general member” is to be read in accordance with article 5(2)(b);
+- “relevant appointing body”, in relation to a person, means the body that appointed the person as a member of the Authority;
+- “relevant council” is to be read in accordance with article 3(3)[^f00002];
+- “vice-chair” is to be read in accordance with article 14(1).
+
+(2) Expressions used in this Order and in Chapter 1 of Part 6 of the Marine Act have the same meaning in this Order as they have in that Chapter.
+
+## 3. The North Western Inshore Fisheries and Conservation District[^key-892e08e820cccd9d66268687b9b0cd9c]
+
+(1) There is to be an inshore fisheries and conservation district known as the North Western Inshore Fisheries and Conservation District (“the district”).
+
+(2) The district is the area that consists of—
+
+- (a) the combined areas of the relevant councils (the “basic area” of the district); and
+- (b) the adjacent area of sea (see paragraph (4)).
+
+(3) The “relevant councils” are—
+
+- Blackpool Borough Council;
+- Cheshire West and Chester Council;
+- Cumberland Council;[^key-c713197f7c39b843c220f199b7ecb89a]
+- [^key-540dc8fbd827dbdcbea9687cac0ec271]...
+- Halton Borough Council;
+- Lancashire County Council;
+- Liverpool City Council;
+- Sefton Council;
+- Westmorland and Furness Council;[^key-dccbfd1af044ce964fd84807ebcf0dc4]
+- Wirral Metropolitan Borough Council.
+
+(4) The “adjacent area of sea” is so much of the sea adjacent to the basic area of the district as lies—
+
+- (a) within the boundaries specified in paragraph (5); and
+- (b) to a distance of 6 nautical miles from the 1983 baselines.
+
+(5) Those boundaries are—
+
+- (a) a loxodromic line joining the co-ordinates numbered 1 to 15 in Part 1 of the Table in the Schedule; and
+- (b) a loxodromic line joining the co-ordinates numbered 1 to 7 in Part 2 of that Table.
+
+(6) In this article—
+
+- (a) “the 1983 baselines” means the baselines for the measurement of the breadth of the territorial sea of the United Kingdom as they existed at 25th January 1983 in accordance with the Territorial Waters Order in Council 1964[^f00003];
+- (b) “co-ordinate” means a co-ordinate of latitude and longitude on the World Geodetic System 1984; and
+- (c) “nautical mile” means an international nautical mile of 1,852 metres.
+
+## 4. The North Western Inshore Fisheries and Conservation Authority[^key-bb9b96c6de5fd0be78d389d2962a4e37]
+
+The inshore fisheries and conservation authority for the district[^f00004] is to be known as the North Western Inshore Fisheries and Conservation Authority.
+
+## 5. Membership of the Authority[^key-d29fdc02168ae03d96a103a78dbd7323]
+
+(1) The Authority is to consist of 30 members.
+
+(2) Of those 30 members—
+
+- (a) 10 (the “council members”) must be members of relevant councils[^f00005] and must be appointed in accordance with paragraph (3);
+- (b) 18 (the “general members”) must be persons appointed by the MMO[^f00006], and must include at least one employee of the MMO; and
+- (c) 2 (the “additional members”) must be appointed in accordance with paragraph (4)[^f00007].
+
+(3) The number of council members to be appointed by each relevant council is as follows—
+
+| Relevant council | Number of members |
+| --- | --- |
+| Blackpool Borough Council | 1 |
+| Cheshire West and Chester Council | 1 |
+| Cumberland Council[^key-128f5662423f68596c241d4fe35ace27] | 1 |
+| [^key-5ca6202a8c2f770c304c3a42d344897b]. . . | [^key-5ca6202a8c2f770c304c3a42d344897b]. . . |
+| Halton Borough Council | 1 |
+| Lancashire County Council | 2 |
+| Liverpool City Council | 1 |
+| Sefton Council | 1 |
+| Westmorland and Furness Council[^key-b4c926a8d8d7e8646abb00070d858a88] | 1 |
+| Wirral Metropolitan Borough Council | 1 |
+
+(4) One of the additional members is to be appointed by the Environment Agency and the other is to be appointed by Natural England.
+
+## 6. Terms of appointment[^key-e3751ef3dc4c8891a3c5676d868bb2ed]
+
+(1) A person appointed as a member of the Authority holds and vacates office in accordance with the terms of the appointment.
+
+(2) The terms of appointment of a member are such as the body making the appointment determines.
+
+(3) Paragraph (1) is subject to articles 9 to 11.
+
+## 7. Appointment of Chair[^key-ad77c3f183c1bee32e7b5d0b06b06e9d]
+
+(1) The Authority must appoint from among its members a person to be the chair of the Authority.
+
+(2) Paragraph (1) is subject to articles 8(6) and 14(5) (eligibility for re-appointment).
+
+(3) The Authority must appoint the chair at the first meeting of the Authority held after the beginning of each financial year.
+
+(4) The chair holds office for the period beginning with the meeting at which the chair is appointed and ending with the first meeting of the Authority held after the beginning of the following financial year, but this is subject to articles 8 to 11.
+
+## 8. Removal of Chair[^key-121b96e6f3ad61f26bb8cf3a7fb7e8fa]
+
+(1) The Authority may remove a person from the office of chair if the condition in paragraph (2) is met.
+
+(2) The condition is that the Authority considers that the person is failing, or has failed, to discharge the duties of the chair in accordance with the requirements of—
+
+- (a) the Marine Act;
+- (b) this Order; or
+- (c) any standing orders made by the Authority.
+
+(3) If a person is removed from the office of chair under this article, the Authority must appoint another person from among its members to the office of chair.
+
+(4) Paragraph (3) is subject to paragraph (6) and article 14(5).
+
+(5) The person so appointed—
+
+- (a) takes office on being appointed; and
+- (b) holds office for the remainder of the period specified in article 7(4),
+
+but paragraph (b) is subject to the further application of this article and to articles 9 to 11.
+
+(6) A person who has been removed from the office of chair under this article is not eligible to be re-appointed as chair.
+
+## 9. Resignation from office[^key-74ecec98627af6185b9069fd94a00143]
+
+(1) A person may resign as a member of the Authority by giving notice in writing to—
+
+- (a) the Authority; and
+- (b) the relevant appointing body.
+
+(2) A person appointed as chair may resign from the office of chair by giving notice in writing to the Authority.
+
+(3) The Authority must appoint a person from among its members to the office of chair where—
+
+- (a) a person who resigns as a member is the chair; or
+- (b) a person appointed as chair resigns from the office of chair.
+
+(4) Paragraph (3) is subject to articles 8(6) and 14(5).
+
+(5) The person so appointed—
+
+- (a) takes office on being appointed; and
+- (b) holds office for the remainder of the period specified in article 7(4),
+
+but paragraph (b) is subject to the further application of this article and to articles 8, 10 and 11.
+
+## 10. Suspension of membership[^key-ade3318f259b43c76676e68b03f5a294]
+
+(1) The Authority or the relevant appointing body may suspend the appointment of any member against whom criminal proceedings are commenced.
+
+(2) Where—
+
+- (a) the member is acquitted of the offence; or
+- (b) the proceedings are discontinued or withdrawn,
+
+the suspension ends on the acquittal, discontinuance or withdrawal.
+
+(3) If the member is the chair, the member is also suspended as chair for the period of the suspension of membership.
+
+(4) A council member whose membership of the relevant appointing body is suspended is, for the period of that suspension, also suspended—
+
+- (a) as a member of the Authority; and
+- (b) if the council member is the chair, as chair.
+
+## 11. Termination of membership[^key-7e3f35fb671eb8368b23c8a2980f3957]
+
+(1) A person’s appointment as a member of the Authority ceases in any of the following circumstances—
+
+- (a) the person is convicted of an offence under fisheries legislation, nature conservation legislation or marine licensing legislation;
+- (b) a monetary penalty is imposed on the person under fisheries legislation, nature conservation legislation or marine licensing legislation;
+- (c) the person is a council member and ceases to be a member of the relevant council that appointed the person as a member.
+
+(2) The Authority may terminate the appointment of a person as a member if the person is convicted of a criminal offence other than one under fisheries legislation, nature conservation legislation or marine licensing legislation.
+
+(3) The Authority must appoint a person from among its members to the office of chair where—
+
+- (a) a person whose membership ceases under this article is the chair; or
+- (b) a person whose membership ceases under the terms of the person’s appointment is the chair.
+
+(4) Paragraph (3) is subject to articles 8(6) and 14(5).
+
+(5) The person so appointed—
+
+- (a) takes office on being appointed; and
+- (b) holds office for the remainder of the period specified in article 7(4),
+
+but paragraph (b) is subject to the further application of this article and to articles 8 to 10.
+
+(6) In this article—
+
+- (a) “fisheries legislation” means enactments relating to sea or freshwater fishing;
+- (b) “marine licensing legislation” means Part 4 of the Marine Act; and
+- (c) “nature conservation legislation” means the enactments mentioned in section 237(2) of the Marine Act.
+
+(7) In paragraph (6) “enactment” includes an enactment contained in subordinate legislation.
+
+## 12. Eligibility for appointment or re-appointment[^key-1dd068d9fb8b7b2db0697d79de1c4a74]
+
+A person is not eligible for appointment or re-appointment as a member of the Authority if—
+
+- (a) the person has been convicted of a criminal offence; and
+- (b) the conviction is not spent for the purposes of the Rehabilitation of Offenders Act 1974[^f00008].
+
+## 13. Quorum and general procedure[^key-bc9da5753313f47bcd065096317a09db]
+
+(1) A meeting of the Authority is quorate if—
+
+- (a) 8 or more members are present;
+- (b) at least one of those members is a council member; and
+- (c) at least one of those members is a general member.
+
+(2) The relevant councils may not make standing orders as respects the Authority under section 106 of the Local Government Act 1972[^f00009] (standing orders with respect to proceedings).
+
+## 14. Chairing of meetings[^key-20f36c2c6d92634809920620e3dc7238]
+
+(1) The Authority must appoint from among its members a person (the “vice-chair”) who is to chair any meeting of the Authority which the chair is unable to chair (but see paragraphs (4) and (5)).
+
+(2) If neither the chair nor the vice-chair is able to chair a meeting of the Authority, the members present at the meeting must appoint one of their number to chair the meeting.
+
+(3) Articles 7(3) and (4), 8(1) to (3) and (5), 9(2), (3) and (5), 10(3) and (4) and 11(3) and (5) apply to the vice-chair as they apply to the chair.
+
+(4) A person who has been removed from the office of chair under article 8 is not eligible to be appointed as vice-chair.
+
+(5) A person who has been removed from the office of vice-chair under article 8 is not eligible to be appointed as chair or re-appointed as vice-chair.
+
+## 15. Expenses and allowances[^key-14b0666bd46146b08510f115b60cf8c1]
+
+(1) The Authority may reimburse the expenses of its members incurred in connection with attending a meeting of the Authority or otherwise carrying out the functions of the Authority.
+
+(2) The Authority may pay to its members such allowances as it may determine.
+
+(3) In particular, the Authority may pay to a general member who is not an employee of the MMO an allowance in respect of a loss of earnings arising from that member’s attendance at a meeting of the Authority.
+
+(4) The Authority must determine, before the beginning of each financial year, the circumstances in which a member is eligible under this article for the reimbursement of expenses incurred in that year or the receipt of an allowance in respect of that year.
+
+## 16. Expenses of the Authority[^key-f87ae55a335c5a84243edfd61eee8a81]
+
+(1) The expenses incurred by the Authority must be defrayed by the relevant councils in accordance with paragraph (2)[^f00010].
+
+(2) The percentage of those expenses to be defrayed by each relevant council is as follows—
+
+| Relevant council | Percentage |
+| --- | --- |
+| Blackpool Borough Council | 1.65% |
+| Cheshire West and Chester Council | 7.30% |
+| Cumberland Council[^key-cccb1fbf0f8bef93576ec479035b35a4] | 20.49% |
+| [^key-d47238520846a8f41256f9b3f5bece67]. . . | [^key-d47238520846a8f41256f9b3f5bece67]. . . |
+| Halton Borough Council | 2.22% |
+| Lancashire County Council | 33.14% |
+| Liverpool City Council | 4.26% |
+| Sefton Council | 5.09% |
+| Westmorland and Furness Council[^key-4dfa42411d2b39659f5ca797ca43a1bb] | 20.45% |
+| Wirral Metropolitan Borough Council | 5.40% |
+
+(3) Before the consideration of any motion by virtue of subsection (4) of section 180 of the Marine Act to veto the total amount of expenses incurred by the Authority which is to be defrayed pursuant to that section, the Authority must give notice in writing of that motion to each council member.
+
+## 17. Delegation of Authority’s functions[^key-980b013d10d677b23dbe49bc878b7447]
+
+(1) If the Authority considers it necessary or expedient for the exercise of its functions, it may authorise a sub-committee or any member or employee of the Authority to exercise any of the Authority’s functions.
+
+(2) A sub-committee may not include persons who are not members of the Authority.
+
+(3) Paragraph (1) does not prevent the Authority from exercising the function itself.
+
+## 18. Validity of acts and proceedings[^key-f74987a99b14c94d5def67e6ca3e3ed1]
+
+The validity of anything done by the Authority, or by any sub-committee of the Authority, is not affected by any of the following—
+
+- (a) any vacancy in the office of chair or vice-chair;
+- (b) any deficiency in the total number of members of the Authority or sub-committee;
+- (c) any deficiency in the number of council members, general members or additional members;
+- (d) any defect in a person’s appointment as the chair or vice-chair or as a member of the Authority or sub-committee.
+
+Richard Benyon
+
+Parliamentary Under Secretary of State
+
+Department for Environment, Food and Rural Affairs
+
+2nd September 2010
+
+## SCHEDULE — Co-ordinates
+
+Article 3(5)
+
+### PART 1 — The northern boundary of the district[^key-6277455a9ce2a7b484a8c7195b452521]
+
+| Points | Latitude |  | Longitude |
+| --- | --- | --- | --- |
+| 1 | 54° 59. 14′ N | : | 3° 03.54′ W |
+| 2 | 54° 59.09′ N | : | 3° 03.63′ W |
+| 3 | 54° 58.3′ N | : | 3° 05.0′ W |
+| 4 | 54° 56.99′ N | : | 3° 08.57′ W |
+| 5 | 54° 57.69′ N | : | 3° 11.05′ W |
+| 6 | 54° 57.65′ N | : | 3° 14.17′ W |
+| 7 | 54° 56.37′ N | : | 3° 20.88′ W |
+| 8 | 54° 54.57′ N | : | 3° 28.00′ W |
+| 9 | 54° 49.19′ N | : | 3° 32.46′ W |
+| 10 | 54° 46.74′ N | : | 3° 38.28′ W |
+| 11 | 54° 37.84′ N | : | 3° 50.86′ W |
+| 12 | 54° 37.56′ N | : | 3° 51.16′ W |
+| 13 | 54° 36.94′ N | : | 3° 52.16′ W |
+| 14 | 54° 36.12′ N | : | 3° 53.94′ W |
+| 15 | 54°[^key-e5e9251b345406c939346fe380972784] 33.94′ N | : | 3° 58.7′ W |
+
+### PART 2 — The southern boundary of the district[^key-bbb3220f411d9e133869d6fcd6a25083]
+
+| Points | Latitude |  | Longitude |
+| --- | --- | --- | --- |
+| 1 | 53° 20.3′ N | : | 3° 13.01′ W |
+| 2 | 53° 20.35′ N | : | 3° 13.46′ W |
+| 3 | 53° 21.08′ N | : | 3° 14.76′ W |
+| 4 | 53° 24.23′ N | : | 3° 17.81′ W |
+| 5 | 53° 25.52′ N | : | 3° 21.36′ W |
+| 6 | 53° 27.13′ N | : | 3° 24.58′ W |
+| 7 | 53° 28.85′ N | : | 3° 27.43′ W |
+|  |  |  |  |
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order makes provision for the establishment of the North Western Inshore Fisheries and Conservation District (article 3) and for the North Western Inshore Fisheries and Conservation Authority (“the Authority”) for that district (article 4).
+
+Articles 5 to 14, 17 and 18 make provision regarding membership and proceedings of the Authority.
+
+Article 16 makes provision in relation to the expenses of the Authority and article 15 allows the reimbursement of members’ expenses.
+
+A full impact assessment of the effect that the 2009 Act will have on the costs of business and the voluntary sector has been produced, and copies are available from the website of the Department for Environment, Food and Rural Affairs at www.defra.gov.uk. No separate impact assessment has been produced for this instrument.
+
+## Annotations
+
+[^f00001]: Footnote: [2009 c. 23](https://www.legislation.gov.uk/ukpga/2009/23).
+
+[^key-747f0771c9824d00c4e8c6c938011dfc]: Commencement: Art. 1 in force at 1.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2200/article/1/2)
+
+[^key-ec528b4b7f3bdedc17534c8d46c56d26]: Commencement: Art. 2 in force at 1.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2200/article/1/2)
+
+[^f00002]: Footnote: By virtue of article 2(2) “relevant council” has the same meaning as in section 186(1) of the Marine Act. Article 3(3) of this Order identifies the particular councils whose areas form part of the North Western Inshore Fisheries and Conservation District.
+
+[^key-892e08e820cccd9d66268687b9b0cd9c]: Commencement: Art. 3 in force at 1.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2200/article/1/2)
+
+[^key-c713197f7c39b843c220f199b7ecb89a]: Textual amendment: Words in [art. 3(3)](https://www.legislation.gov.uk/uksi/2010/2200/article/3/3) inserted (1.4.2023) by [The Local Government (Structural Changes) (Supplementary Provision and Amendment) Order 2023 (S.I. 2023/187)](https://www.legislation.gov.uk/uksi/2023/187), [arts. 1](https://www.legislation.gov.uk/uksi/2023/187/article/1), [8(2)(b)](https://www.legislation.gov.uk/uksi/2023/187/article/8/2/b)
+
+[^key-540dc8fbd827dbdcbea9687cac0ec271]: Textual amendment: Words in [art. 3(3)](https://www.legislation.gov.uk/uksi/2010/2200/article/3/3) omitted (1.4.2023) by virtue of [The Local Government (Structural Changes) (Supplementary Provision and Amendment) Order 2023 (S.I. 2023/187)](https://www.legislation.gov.uk/uksi/2023/187), [arts. 1](https://www.legislation.gov.uk/uksi/2023/187/article/1), [8(2)(a)](https://www.legislation.gov.uk/uksi/2023/187/article/8/2/a)
+
+[^key-dccbfd1af044ce964fd84807ebcf0dc4]: Textual amendment: Words in [art. 3(3)](https://www.legislation.gov.uk/uksi/2010/2200/article/3/3) inserted (1.4.2023) by [The Local Government (Structural Changes) (Supplementary Provision and Amendment) Order 2023 (S.I. 2023/187)](https://www.legislation.gov.uk/uksi/2023/187), [arts. 1](https://www.legislation.gov.uk/uksi/2023/187/article/1), [8(2)(c)](https://www.legislation.gov.uk/uksi/2023/187/article/8/2/c)
+
+[^f00003]: Footnote: 1965 III p.6452A, amended by the Territorial Waters (Amendment) Order in Council 1979, 1979 III p.2866. These baselines are used in the Fishing Boats (European Economic Community) Designation Order 1983 ([S.I. 1983/253](https://www.legislation.gov.uk/uksi/1983/253)) to designate, for the purposes of section 2(1) of the Fishery Limits Act 1976, the areas in which fishing boats registered in Member States other than the United Kingdom may fish.
+
+[^key-bb9b96c6de5fd0be78d389d2962a4e37]: Commencement: Art. 4 in force at 1.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2200/article/1/2)
+
+[^f00004]: Footnote: Section 150(1) of the Marine Act provides that there is to be an inshore fisheries and conservation authority for every inshore fisheries and conservation district established under section 149 of that Act.
+
+[^key-d29fdc02168ae03d96a103a78dbd7323]: Commencement: Art. 5 in force at 1.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2200/article/1/2)
+
+[^f00005]: Footnote: See section 151(1)(a) and (5)(a) and (b) of the Marine Act.
+
+[^f00006]: Footnote: See section 151(1)(b), (2) and (5)(a) of the Marine Act.
+
+[^f00007]: Footnote: See section 151(1)(c) and (5)(c) of the Marine Act.
+
+[^key-128f5662423f68596c241d4fe35ace27]: Textual amendment: Words in [art. 5(3)](https://www.legislation.gov.uk/uksi/2010/2200/article/5/3) table inserted (1.4.2023) by [The Local Government (Structural Changes) (Supplementary Provision and Amendment) Order 2023 (S.I. 2023/187)](https://www.legislation.gov.uk/uksi/2023/187), [arts. 1](https://www.legislation.gov.uk/uksi/2023/187/article/1), [8(3)(b)](https://www.legislation.gov.uk/uksi/2023/187/article/8/3/b)
+
+[^key-5ca6202a8c2f770c304c3a42d344897b]: Textual amendment: Words in [art. 5(3)](https://www.legislation.gov.uk/uksi/2010/2200/article/5/3) table omitted (1.4.2023) by virtue of [The Local Government (Structural Changes) (Supplementary Provision and Amendment) Order 2023 (S.I. 2023/187)](https://www.legislation.gov.uk/uksi/2023/187), [arts. 1](https://www.legislation.gov.uk/uksi/2023/187/article/1), [8(3)(a)](https://www.legislation.gov.uk/uksi/2023/187/article/8/3/a)
+
+[^key-b4c926a8d8d7e8646abb00070d858a88]: Textual amendment: Words in [art. 5(3)](https://www.legislation.gov.uk/uksi/2010/2200/article/5/3) table inserted (1.4.2023) by [The Local Government (Structural Changes) (Supplementary Provision and Amendment) Order 2023 (S.I. 2023/187)](https://www.legislation.gov.uk/uksi/2023/187), [arts. 1](https://www.legislation.gov.uk/uksi/2023/187/article/1), [8(3)(c)](https://www.legislation.gov.uk/uksi/2023/187/article/8/3/c)
+
+[^key-e3751ef3dc4c8891a3c5676d868bb2ed]: Commencement: Art. 6 in force at 1.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2200/article/1/2)
+
+[^key-ad77c3f183c1bee32e7b5d0b06b06e9d]: Commencement: Art. 7 in force at 1.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2200/article/1/2)
+
+[^key-121b96e6f3ad61f26bb8cf3a7fb7e8fa]: Commencement: Art. 8 in force at 1.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2200/article/1/2)
+
+[^key-74ecec98627af6185b9069fd94a00143]: Commencement: Art. 9 in force at 1.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2200/article/1/2)
+
+[^key-ade3318f259b43c76676e68b03f5a294]: Commencement: Art. 10 in force at 1.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2200/article/1/2)
+
+[^key-7e3f35fb671eb8368b23c8a2980f3957]: Commencement: Art. 11 in force at 1.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2200/article/1/2)
+
+[^key-1dd068d9fb8b7b2db0697d79de1c4a74]: Commencement: Art. 12 in force at 1.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2200/article/1/2)
+
+[^f00008]: Footnote: [1974 c.53](https://www.legislation.gov.uk/ukpga/1974/53).
+
+[^key-bc9da5753313f47bcd065096317a09db]: Commencement: Art. 13 in force at 1.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2200/article/1/2)
+
+[^f00009]: Footnote: [1972 c.70](https://www.legislation.gov.uk/ukpga/1972/70).
+
+[^key-20f36c2c6d92634809920620e3dc7238]: Commencement: Art. 14 in force at 1.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2200/article/1/2)
+
+[^key-14b0666bd46146b08510f115b60cf8c1]: Commencement: Art. 15 in force at 1.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2200/article/1/2)
+
+[^key-f87ae55a335c5a84243edfd61eee8a81]: Commencement: Art. 16 in force at 1.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2200/article/1/2)
+
+[^f00010]: Footnote: Section 180(1) and (2) of the Marine Act requires each relevant council to defray such portion of the expenses incurred by the authority for an IFC district as may be specified in, or determined in accordance with, the order establishing the district.
+
+[^key-cccb1fbf0f8bef93576ec479035b35a4]: Textual amendment: Words in [art. 16(2)](https://www.legislation.gov.uk/uksi/2010/2200/article/16/2) table inserted (1.4.2023) by [The Local Government (Structural Changes) (Supplementary Provision and Amendment) Order 2023 (S.I. 2023/187)](https://www.legislation.gov.uk/uksi/2023/187), [arts. 1](https://www.legislation.gov.uk/uksi/2023/187/article/1), [8(4)(b)](https://www.legislation.gov.uk/uksi/2023/187/article/8/4/b)
+
+[^key-d47238520846a8f41256f9b3f5bece67]: Textual amendment: Words in [art. 16(2)](https://www.legislation.gov.uk/uksi/2010/2200/article/16/2) table omitted (1.4.2023) by virtue of [The Local Government (Structural Changes) (Supplementary Provision and Amendment) Order 2023 (S.I. 2023/187)](https://www.legislation.gov.uk/uksi/2023/187), [arts. 1](https://www.legislation.gov.uk/uksi/2023/187/article/1), [8(4)(a)](https://www.legislation.gov.uk/uksi/2023/187/article/8/4/a)
+
+[^key-4dfa42411d2b39659f5ca797ca43a1bb]: Textual amendment: Words in [art. 16(2)](https://www.legislation.gov.uk/uksi/2010/2200/article/16/2) table inserted (1.4.2023) by [The Local Government (Structural Changes) (Supplementary Provision and Amendment) Order 2023 (S.I. 2023/187)](https://www.legislation.gov.uk/uksi/2023/187), [arts. 1](https://www.legislation.gov.uk/uksi/2023/187/article/1), [8(4)(c)](https://www.legislation.gov.uk/uksi/2023/187/article/8/4/c)
+
+[^key-980b013d10d677b23dbe49bc878b7447]: Commencement: Art. 17 in force at 1.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2200/article/1/2)
+
+[^key-f74987a99b14c94d5def67e6ca3e3ed1]: Commencement: Art. 18 in force at 1.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2200/article/1/2)
+
+[^key-6277455a9ce2a7b484a8c7195b452521]: Commencement: Sch. Pt. 1 in force at 1.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2200/article/1/2)
+
+[^key-e5e9251b345406c939346fe380972784]: Textual amendment: Word in [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2010/2200/schedule/part/1) substituted (27.9.2019) by [The North Western Inshore Fisheries and Conservation (Amendment) Order 2019 (S.I. 2019/1239)](https://www.legislation.gov.uk/uksi/2019/1239), [arts. 1](https://www.legislation.gov.uk/uksi/2019/1239/article/1), [2](https://www.legislation.gov.uk/uksi/2019/1239/article/2)
+
+[^key-bbb3220f411d9e133869d6fcd6a25083]: Commencement: Sch. Pt. 2 in force at 1.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2200/article/1/2)

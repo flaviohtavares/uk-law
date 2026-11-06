@@ -1,0 +1,1231 @@
+---
+title: The Biodiversity Gain Site Register Regulations 2024
+id: uksi/2024/45
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2024-01-17'
+text_date: '2026-05-29'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2024/45
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2024/45/pdfs/uksiem_20240045_en_001.pdf
+- http://www.legislation.gov.uk/uksi/2024/45/pdfs/uksi_20240045_en.pdf
+- http://www.legislation.gov.uk/uksi/2024/45/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Biodiversity Gain Site Register Regulations 2024
+
+> Text as at 2026-05-29.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2024 No. 45
+
+Environmental Protection, England
+
+Town And Country Planning, England
+
+The Biodiversity Gain Site Register Regulations 2024
+
+Made
+
+17th January 2024
+
+Laid before Parliament
+
+19th January 2024
+
+Coming into force
+
+12th February 2024
+
+The Secretary of State makes these Regulations in exercise of the powers in sections 100(1), (3), (4)(a) to (f), (5)(a) to (e) and (6), 142(1) and 143(1) of the Environment Act 2021[^f00001].
+
+## PART 1 — Preliminary
+
+### 1. Citation, commencement and extent[^key-5779e748dd9d44d2683d790398686543]
+
+(1) These Regulations may be cited as the Biodiversity Gain Site Register Regulations 2024.
+
+(2) These Regulations come into force on 12th February 2024.
+
+(3) These Regulations extend to England and Wales.
+
+### 2. Interpretation[^key-dfe096f31c7016833a8044ba30ff19d0]
+
+(1) In these Regulations—
+
+- “[^key-cb1bf8aff1b3c09861d1c9f64c1ec3e1] **biodiversity gain site**” means land where—
+  - (a) a person is required under a conservation covenant[^f00003] or planning obligation to carry out works for the purpose of habitat enhancement;
+  - (b) that or another person is required to maintain the enhancement for at least 30 years after the completion of those works; and
+  - (c) for the purposes of Schedule 7A to the Town and Country Planning Act 1990 or Schedule 2A to the Planning Act 2008 the enhancement is made available to be allocated (conditionally or unconditionally, and whether for consideration or otherwise) in accordance with the terms of the covenant or obligation to one or more developments for which planning permission or development consent is granted;
+- “**the biodiversity gain site register**” has the meaning given by regulation 3(3);
+- “[^key-a6871caca194b23c88f5a829495eaac4]**development**” means—
+  - (a) in relation to cases involving planning permission, development within the meaning of section 55 of the Town and Country Planning Act 1990, and
+  - (b) in relation to cases involving development consent, development within the meaning of section 32 of the Planning Act 2008.
+- “**development consent**” has the meaning given in section 31 of the Planning Act 2008;
+- “**notice**” means notice in writing (and see Part 11 for further provision about giving notice under these Regulations);
+- “**the register operator**” has the meaning given in regulation 3(3);
+- a “**section 106 agreement**” means an instrument under section 106(9) of the Town and Country Planning Act 1990 (instrument by which a planning obligation is entered into by agreement or otherwise)[^f00002].
+
+(2) A reference in these Regulations to a planning obligation in a section 106 agreement is a reference to a planning obligation entered into by that section 106 agreement[^f00003].
+
+## PART 2 — The biodiversity gain site register
+
+### 3. Duty to establish and maintain the biodiversity gain site register[^key-f076d035046edd4501752bcdbecc91f8]
+
+(1) Natural England[^f00004] must establish a register of biodiversity gain sites[^f00005] in which land is to be registered and information recorded in accordance with these Regulations.
+
+(2) Natural England must maintain the register established under paragraph (1).
+
+(3) In these Regulations—
+
+- “**the biodiversity gain site register**” means the register maintained under this regulation;
+- “**the register operator**” means Natural England.
+
+### 4. Public access to information in the biodiversity gain site register[^key-dd26462e61496b14e3d92b6030fd6877]
+
+The register operator must ensure that the information in the biodiversity gain site register is accessible to members of the public.
+
+## PART 3 — Registration of land in the biodiversity gain site register
+
+### 5. How and when land may be registered in the biodiversity gain site register[^key-7b3a06987939178fca18eae6f26bc38e]
+
+(1) Land may be registered in the biodiversity gain site register in relation to a conservation covenant[^f00006] or a section 106 agreement.
+
+(2) But the register operator may not register land in the biodiversity gain site register in relation to a particular conservation covenant or section 106 agreement if the land or any part of it, or any land including it or any part of it, is already registered in the biodiversity gain site register in relation to that conservation covenant or section 106 agreement.
+
+(3) In order for land to be registered in the biodiversity gain site register in relation to a particular conservation covenant or section 106 agreement—
+
+- (a) the land must be eligible to be registered in relation to that conservation covenant or section 106 agreement (see regulation 6), and
+- (b) an application to register it in relation to that conservation covenant or section 106 agreement must be made to and accepted by the register operator (see regulations 7, 8 and 9).
+
+(4) Where land is registered in the biodiversity gain site register in relation to a conservation covenant, that land or any part of it, or any land including it or any part of it, may also be registered (separately) in the biodiversity gain site register in relation to a section 106 agreement or a different conservation covenant (subject to paragraphs (2) and (3)).
+
+(5) Where land is registered in the biodiversity gain site register in relation to a section 106 agreement, that land or any part of it, or any land including it or any part of it, may also be registered (separately) in the biodiversity gain site register in relation to a conservation covenant or a different section 106 agreement (subject to paragraphs (2) and (3)).
+
+### 6. Land eligible to be registered[^key-10fee8714fa8dbdeb6a05bdfbd15356a]
+
+(1) Land is eligible to be registered in the biodiversity gain site register in relation to a particular conservation covenant or section 106 agreement if the conditions in paragraphs (2) to (7) are met.
+
+(2) The first condition is that one or more persons are required under the conservation covenant or section 106 agreement to carry out works on the land for the purpose of habitat enhancement[^f00007].
+
+(3) The second condition is that one or more persons are required under the conservation covenant or section 106 agreement to maintain the habitat enhancement to be achieved by the required enhancement works on the land under the conservation covenant or section 106 agreement for at least 30 years after the completion of those works.
+
+(4) The third condition is that one or more persons are required under the conservation covenant or section 106 agreement to monitor habitats on the land to ensure that the habitat enhancement to be achieved by the required enhancement works on the land under the conservation covenant or section 106 agreement is maintained for the period for which the conservation covenant or section 106 agreement requires it to be maintained.
+
+(5) The fourth condition is that, for the purposes of Schedule 7A to the Town and Country Planning Act 1990 or Schedule 2A to the Planning Act 2008 (as the case may be)[^key-5acfd4425de1416f3d2f2e5d2c558199], the habitat enhancement to be achieved by the required enhancement works on the land under the conservation covenant or section 106 agreement is made available to be allocated (conditionally or unconditionally, and whether for consideration or otherwise) in accordance with the terms of the covenant, or (as the case may be) in accordance with the terms of one or more planning obligations in the section 106 agreement, to one or more developments for which planning permission or development consent (as the case may be)[^key-1165b4d2737c5199a49eece471d7f2f4] is granted[^f00008].
+
+(6) The fifth condition is that the land is in England.
+
+(7) The sixth condition is that the conservation covenant or (as the case may be) the planning obligations in the section 106 agreement are registered in the local land charges register or the appropriate local land charges register[^f00009].
+
+(8) For the purposes of paragraphs (2), (3) and (4), a person is only to be regarded as being required under a section 106 agreement to carry out works on land, to maintain the habitat enhancement to be achieved by such works or to monitor habitats on land if that person is required to carry out those works, maintain that habitat enhancement or monitor those habitats (as the case may be) under one or more planning obligations in that section 106 agreement.
+
+(9) In this regulation “the required enhancement works” on land under a conservation covenant or section 106 agreement are all of the works required to be carried out on that land for the purpose of habitat enhancement under that conservation covenant or (as the case may be) under the planning obligations in that section 106 agreement.
+
+### 7. Applications to register land in the biodiversity gain site register[^key-fae634b8ca4c866f68b84feeaba1b34b]
+
+(1) An application may be made to the register operator to register land in the biodiversity gain site register in relation to a particular conservation covenant or section 106 agreement on the basis that the land is eligible under regulation 6 to be registered in relation to that conservation covenant or section 106 agreement.
+
+(2) An application to register land in the biodiversity gain site register in relation to a conservation covenant may only be made by—
+
+- (a) a person who is required under the covenant to carry out works on the land for the purpose of habitat enhancement,
+- (b) a person who is required under the covenant to maintain any habitat enhancement to be achieved by works required to be carried out on the land for that purpose under the covenant, or
+- (c) a person by whom a requirement referred to in sub-paragraph (a) or (b) is enforceable.
+
+(3) The responsible body under a conservation covenant may not apply to register land in relation to that covenant.
+
+(4) An application to register land in the biodiversity gain site register in relation to a section 106 agreement may only be made by a person who is required under a planning obligation in the section 106 agreement—
+
+- (a) to carry out works on the land for the purpose of habitat enhancement, or
+- (b) to maintain any habitat enhancement to be achieved by works required to be carried out on the land for that purpose under a planning obligation in the section 106 agreement.
+
+(5) An application to register land in the biodiversity gain site register may be withdrawn by the applicant, but the withdrawal of an application is effective only if the register operator receives a written notification of the withdrawal from the applicant before deciding whether to accept or reject the application.
+
+### 8. Required content of application to register land in the biodiversity gain site register[^key-c893e8c0ea038023ac3ff9e9620ca09a]
+
+(1) An application to register land in the biodiversity gain site register in relation to a particular conservation covenant or section 106 agreement must include—
+
+- (a) evidence that the applicant is entitled under regulation 7 to make the application;
+- (b) the information required by paragraph (2);
+- (c) the declaration required by paragraph (3);
+- (d) the documents required by paragraph (4).
+
+(2) The information required by this paragraph to be included in an application to register land in relation to a particular conservation covenant or section 106 agreement is—
+
+- (a) the applicant’s name;
+- (b) an address to which notices under these Regulations in connection with the application may be sent by post to the applicant;
+- (c) an email address to which such notices may be sent to the applicant;
+- (d) information identifying the location and boundaries of the land to be registered (whether contained in a map or otherwise);
+- (e) where the required enhancement works on the land have already commenced, the date on which they commenced;
+- (f) the last date (if any) on which, under the terms of the conservation covenant or the planning obligations in the section 106 agreement, there will be any requirement in force to—
+  - (i) carry out works on the land for the purpose of habitat enhancement, or
+  - (ii) maintain any habitat enhancement to be achieved by works required to be carried out on the land for that purpose under the conservation covenant or (as the case may be) under the planning obligations in the section 106 agreement;
+- (g) where the required enhancement works on the land have not yet commenced—
+  - (i) the type, size and condition of each habitat on the land, and
+  - (ii) the projected type, size and condition of each habitat on the land as a result of those works;
+- (h) where the required enhancement works on the land have already commenced—
+  - (i) the type, size and condition of each habitat on the land immediately before the commencement of those works, and
+  - (ii) the projected type, size and condition of each habitat on the land as a result of those works;
+- (i) the name of each person by whom the requirement to carry out any of the required enhancement works on the land is enforceable;
+- (j) the name of each person by whom the requirement to maintain any of the habitat enhancement to be achieved by those works is enforceable;
+- (k) where any of the habitat enhancement to be achieved by the required enhancement works on the land has been allocated, in accordance with the terms of the conservation covenant or (as the case may be) the terms of a planning obligation in the section 106 agreement, to a development for which planning permission or development consent (as the case may be)[^key-944d307995b80c5439640f6a3d9fd04d] has been granted, the following information in relation to each such allocation—
+  - (i) information identifying the development;
+  - (ii) in relation to each habitat to which the allocated habitat enhancement relates, its projected type, size and condition as a result of the works required to be carried out on the land to achieve the allocated habitat enhancement under the conservation covenant or (as the case may be) under the planning obligations in the section 106 agreement;
+  - (iii) the biodiversity value (for the purposes of Schedule 7A to the Town and Country Planning Act 1990) or Schedule 2A to the Planning Act 2008 (as the case may be)[^key-9dc6103aaf433c931c71714ff0239b0c] of the allocated habitat enhancement in relation to the development[^f00010].
+
+(3) The required declaration is a declaration by the applicant that—
+
+- (a) where the required enhancement works on the land have already commenced, any consent, licence or other permission necessary for the purpose of carrying out those works was obtained, or
+- (b) where the required enhancement works on the land have not yet commenced, any consent, licence or other permission necessary for the purpose of carrying out those works will be obtained before the works are commenced.
+
+(4) The required documents are—
+
+- (a) where the application is to register land in relation to a conservation covenant, a copy of—
+  - (i) the conservation covenant agreement containing that covenant, in the form the agreement was in when executed under section 117 of the Environment Act 2021;
+  - (ii) every agreement discharging an obligation under the covenant or discharging any of the land, or any estate in any of the land, from an obligation under the covenant;
+  - (iii) every agreement modifying an obligation under the covenant;
+  - (iv) every agreement appointing a person to replace a responsible body under the covenant;
+  - (v) every order of the Upper Tribunal modifying or discharging an obligation under the covenant;
+  - (vi) every other decision of a court or tribunal about the effect of the covenant;
+  - (vii) every other document which describes any of the required enhancement works on the land and has been produced in accordance with the terms of the conservation covenant;
+- (b) where the application is to register land in relation to a section 106 agreement, a copy of—
+  - (i) the section 106 agreement in the form it was in when entered into under section 106 of the Town and Country Planning Act 1990;
+  - (ii) every agreement modifying or discharging a planning obligation in the section 106 agreement;
+  - (iii) every determination, notice or other instrument having the effect of modifying or discharging a planning obligation in the section 106 agreement;
+  - (iv) every instrument by which the section 106 agreement has otherwise been amended;
+  - (v) every decision of a court or tribunal about the effect of a planning obligation in the section 106 agreement;
+  - (vi) every other document which describes any of the required enhancement works on the land and has been produced in accordance with the terms of a planning obligation in the section 106 agreement;
+- (c) a copy of every agreement or other document which has been entered into or produced pursuant to the terms of the conservation covenant or a planning obligation in the section 106 agreement and which describes things to be done in relation to the land for the purpose of—
+  - (i) maintaining any habitat enhancement to be achieved by the required enhancement works on the land, or
+  - (ii) monitoring habitats on the land to ensure that any habitat enhancement to be achieved by the required enhancement works on the land is maintained for the period for which it is required to be maintained under the conservation covenant or a planning obligation in the section 106 agreement;
+- (d) a copy of an official search certificate issued under section 9(4) of the Local Land Charges Act 1975[^f00011] showing the particulars of the registration of the conservation covenant, or (as the case may be) the planning obligations in the section 106 agreement, in the local land charges register or the appropriate local land charges register.
+
+(5) In paragraph (2)(g), (h) and (k)(ii)—
+
+- (a) references to a habitat’s “type” are to any habitat classification applicable to it for the purposes of the biodiversity metric;
+- (b) references to a habitat’s “size” are to—
+  - (i) in the case of a linear habitat, its length in kilometres;
+  - (ii) in the case of a habitat which is not a linear habitat, its area in hectares;
+- (c) references to a habitat’s “condition” are to its condition within the meaning that expression has for the purposes of the biodiversity metric.
+
+(6) For the purposes of paragraph (5)(b), a “linear habitat” is any type of habitat required, for the purposes of a calculation under the biodiversity metric, to be measured according to length rather than area.
+
+(7) In this regulation—
+
+- “**the biodiversity metric**” means the biodiversity metric published by the Secretary of State under paragraph 4 of Schedule 7A to the Town and Country Planning Act 1990;
+- “the required enhancement works” on land means, in relation to land which is the subject of an application to which this regulation applies, the works required to be carried out on the land for the purpose of habitat enhancement under—
+  - (a) where the application relates to a conservation covenant, the conservation covenant, or
+  - (b) where the application relates to a section 106 agreement, the planning obligations in the section 106 agreement.
+
+### 9. Determination of application to register land in the biodiversity gain site register[^key-e2109d34cf304ec132e496baee64ddbf]
+
+(1) This regulation applies where the register operator has received an application to register land in the biodiversity gain site register in relation to a particular conservation covenant or section 106 agreement.
+
+(2) If the register operator does not receive payment of a fee for the application in accordance with the Biodiversity Gain Site Register (Financial Penalties and Fees) Regulations 2024[^f00012], the register operator must reject the application.
+
+(3) The following provisions of this regulation apply where the register operator has received payment of a fee for the application in accordance with those Regulations.
+
+(4) Subject to paragraph (12), the register operator must consider the application and must, in accordance with the following provisions of this regulation, either accept or reject it.
+
+(5) Subject to the following provisions of this regulation, the application must be accepted if—
+
+- (a) it appears to the register operator that the application includes—
+  - (i) the evidence, other information and documents required by regulation 8(1)(a), (2) and (4), and
+  - (ii) a declaration under regulation 8(3), and
+- (b) the register operator is satisfied that—
+  - (i) the land is eligible under regulation 6 to be registered in relation to the conservation covenant or section 106 agreement in question, and
+  - (ii) the applicant is entitled under regulation 7 to make the application.
+
+(6) The register operator may, by giving notice to the applicant, request any information it needs in order to determine whether it is required by paragraph (5) to accept the application.
+
+(7) Where, having given notice under paragraph (6) requesting information from the applicant, the register operator is satisfied that it has received all of the information requested by that notice, the register operator must as soon as practicable give notice to the applicant informing the applicant that it is so satisfied.
+
+(8) The application must be rejected—
+
+- (a) if the land or any part of it, or any land including it or any part of it, is already registered in the biodiversity gain site register in relation to the conservation covenant or section 106 agreement,
+- (b) if—
+  - (i) it does not appear to the register operator as mentioned in paragraph (5)(a), or
+  - (ii) the register operator is not satisfied as mentioned in paragraph (5)(b),
+
+  and the register operator has decided not to make a request (or a further request) for information under paragraph (6), or
+- (c) if register operator considers that false or misleading information has been supplied to it in connection with the application.
+
+(9) Where the register operator decides that it is necessary, for the purposes of considering the application, to investigate whether any information supplied to it in connection with the application is false or misleading, it must—
+
+- (a) give notice to the applicant as soon as practicable informing the applicant that it has so decided, and
+- (b) as soon as practicable after concluding the investigation, give notice to the applicant that it has concluded the investigation,
+
+and a notice under this paragraph must state the date on which the decision was made or the investigation was concluded (as the case may be).
+
+(10) The register operator may reject the application if—
+
+- (a) it has given notice under paragraph (6) requesting information from the applicant,
+- (b) a period of three months beginning with the day on which the notice was given has expired, and
+- (c) the register operator has not been provided with the requested information.
+
+(11) A notice under paragraph (6) must explain the effect of paragraph (10).
+
+(12) Paragraph (4) ceases to apply in relation to the application if the application is withdrawn (see regulation 7(5)).
+
+### 10. Register operator to give notice when application to register land is rejected[^key-654966279a8b9c35ea980058b6caa671]
+
+(1) This regulation applies where the register operator rejects an application to register land in the biodiversity gain site register in relation to a particular conservation covenant or section 106 agreement.
+
+(2) The register operator must, as soon as practicable, give notice to the applicant that it has rejected the application.
+
+(3) The notice must—
+
+- (a) give reasons for the register operator’s decision to reject the application, and
+- (b) contain information about the right of appeal under regulation 30(1).
+
+### 11. Register operator’s duties when application to register land is accepted[^key-bee311889709e3b80bfc6659ea6676f5]
+
+(1) This regulation applies where the register operator accepts an application to register land in the biodiversity gain site register in relation to a particular conservation covenant or section 106 agreement.
+
+(2) The register operator must, as soon as practicable—
+
+- (a) create an entry in the biodiversity gain site register for the purpose of registering the land in relation to the conservation covenant or section 106 agreement,
+- (b) assign a unique registration number to the entry,
+- (c) register the land by complying with the requirements of paragraph (3), and
+- (d) where information was included in the application under regulation 8(2)(k) in relation to the allocation of any habitat enhancement to a development, record in the entry each such allocation of habitat enhancement and the information relating to it included in the application under that regulation.
+
+(3) The requirements of this paragraph for the registration of land under paragraph (2)(c) are that the register operator must—
+
+- (a) record in the entry created for the land under paragraph (2)(a)—
+  - (i) the information identifying the location and boundaries of the land included under regulation 8(2)(d) in the application to register the land, except where the information was contained in a map or other document included in the application, and
+  - (ii) the information included in the application under regulation 8(2)(e) to (j), and
+- (b) place on the register any map or other document included in the application under regulation 8(2)(d).
+
+(4) As soon as practicable after registering the land in relation to the conservation covenant or section 106 agreement in question, the register operator must give notice to the applicant that the application to register the land in relation to that conservation covenant or section 106 agreement has been accepted.
+
+(5) The notice under paragraph (4) must include the registration number assigned under paragraph (2)(b) to the entry created for the land under paragraph (2)(a).
+
+(6) The register operator must ensure that the information placed on the register under paragraphs (2)(d) and (3)(a), and any document placed on the register under paragraph (3)(b), are readily accessible by reference to the registration number assigned under paragraph (2)(b).
+
+## PART 4 — Recording allocation of habitat enhancement to a development after registration of the land
+
+### 12. Applications to record allocation of habitat enhancement to a development after registration of the land[^key-c56f97eaaba3518ebdf257cb2f818808]
+
+(1) This regulation applies where—
+
+- (a) after land has been registered in an entry in the biodiversity gain site register under regulation 11 in relation to a particular conservation covenant or section 106 agreement, any habitat enhancement to be achieved by the works required to be carried out on the land for the purpose of habitat enhancement under the covenant or under a planning obligation in the section 106 agreement (“the required enhancement works”) is allocated, in accordance with the terms of the covenant or obligation, to a development for which planning permission or development consent (as the case may be)[^key-5d9f6343fc305cd0f0657fd19e59f683] has been granted,
+- (b) the biodiversity gain site register does not already record that allocated habitat enhancement as having been allocated to a development, and
+- (c) the information recorded in the entry in question about the projected type, size and condition of habitats on the land as a result of works required to be carried out on the land includes the projected type, size and condition, as a result of the required enhancement works, of each habitat to which that allocated habitat enhancement relates.
+
+(2) An application may be made to the register operator to record the allocation of the habitat enhancement to the development in the entry in question.
+
+(3) An application referred to in paragraph (2) may only be made by—
+
+- (a) a relevant person, or
+- (b) a person who has the consent of every relevant person to make the application.
+
+(4) In this Part a “**relevant person**”, in relation to an application to record the allocation of habitat enhancement to a development in an entry in the biodiversity gain site register, means—
+
+- (a) where land is registered in the entry in relation to a conservation covenant—
+  - (i) a person who is required under the covenant to carry out works on the land to achieve any of the allocated habitat enhancement,
+  - (ii) a person who is required under the covenant to maintain any of the allocated habitat enhancement, or
+  - (iii) a person by whom a requirement referred to in paragraph (i) or (ii) is enforceable,
+
+  but not the responsible body under the covenant;
+- (b) where land is registered in the entry in relation to a section 106 agreement, a person who is required under a planning obligation in the section 106 agreement—
+  - (i) to carry out works on the land to achieve any of the allocated habitat enhancement, or
+  - (ii) to maintain any of the allocated habitat enhancement.
+
+(5) An application referred to in paragraph (2) may be withdrawn by the applicant, but the withdrawal of an application is effective only if the register operator receives a written notification of the withdrawal from the applicant before deciding whether to accept or reject the application.
+
+(6) In paragraph (1)(c), the references to the “**type**”, “size” and “condition” of any habitat are to be construed in accordance with regulation 8(5).
+
+### 13. Required content of applications to record allocation of habitat enhancement[^key-fcc991787668acbbda3b73325db0e1a6]
+
+(1) An application referred to in regulation 12(2) (made to record, in an entry in the biodiversity gain site register, the allocation of habitat enhancement to a development for which planning permission or development consent (as the case may be)[^key-cfef99cdca57011713c842c76aa7d9c2] has been granted) must include the following—
+
+- (a) the name of the applicant;
+- (b) evidence that the applicant is entitled under regulation 12 to make the application;
+- (c) an address to which notices under these Regulations in connection with the application may be sent by post to the applicant;
+- (d) an email address to which such notices may be sent to the applicant;
+- (e) the registration number assigned to the entry in question under regulation 11(2)(b);
+- (f) information identifying the development;
+- (g) in relation to each habitat to which the allocated habitat enhancement relates, its projected type, size and condition as a result of the works required to be carried out to achieve the allocated habitat enhancement under—
+  - (i) where the land is registered in the entry in question in relation to a conservation covenant, the conservation covenant, or
+  - (ii) where the land is registered in the entry in question in relation to a section 106 agreement, the planning obligations in the section 106 agreement.
+- (h) the biodiversity value (for the purposes of Schedule 7A to the Town and Country Planning Act 1990) or Schedule 2A to the Planning Act 2008 (as the case may be)[^key-10632d776031a1c965eb292c133f892d] of the allocated habitat enhancement in relation to the development.
+
+(2) In paragraph (1)(g), the references to a habitat’s “type”, “size” and “condition” are to be construed in accordance with regulation 8(5).
+
+### 14. Determination of application to record allocation of habitat enhancement[^key-93d295001b0dbf1db74bff6de26c6253]
+
+(1) This regulation applies where the register operator has received an application referred to in regulation 12(2) (made to record the allocation of any habitat enhancement in an entry in the biodiversity gain site register).
+
+(2) If the register operator does not receive payment of a fee for the application in accordance with the Biodiversity Gain Site Register (Financial Penalties and Fees) Regulations 2024, the register operator must reject the application.
+
+(3) The following provisions of this regulation apply where the register operator has received payment of a fee for the application in accordance with those Regulations.
+
+(4) Subject to paragraph (12), the register operator must consider the application and must, in accordance with the following provisions of this regulation, either accept or reject it.
+
+(5) Subject to the following provisions of this regulation, the application must be accepted if—
+
+- (a) it appears to the register operator that the application includes the evidence and other information required by regulation 13(1), and
+- (b) the register operator is satisfied that—
+  - (i) the conditions in regulation 12(1) are met, and
+  - (ii) the applicant is entitled under regulation 12 to make the application.
+
+(6) The register operator may, by giving notice to the applicant, request any information it needs in order to determine whether it is required by paragraph (5) to accept the application.
+
+(7) Where, having given notice under paragraph (6) requesting information from the applicant, the register operator is satisfied that it has received all of the information requested by that notice, the register operator must as soon as practicable give notice to the applicant informing the applicant that it is so satisfied.
+
+(8) The application must be rejected—
+
+- (a) if—
+  - (i) it does not appear to the register operator as mentioned in paragraph (5)(a), or
+  - (ii) the register operator is not satisfied as mentioned in paragraph (5)(b),
+
+  and the register operator has decided not to make a request (or a further request) for information under paragraph (6), or
+- (b) if the register operator considers that false or misleading information has been supplied to it in connection with the application.
+
+(9) Where the register operator decides that it is necessary, for the purposes of considering the application, to investigate whether any information supplied to it in connection with the application is false or misleading, it must—
+
+- (a) give notice to the applicant as soon as practicable informing the applicant that it has so decided, and
+- (b) as soon as practicable after concluding the investigation, give notice to the applicant that it has concluded the investigation,
+
+and a notice under this paragraph must state the date on which the decision was made or the investigation was concluded (as the case may be).
+
+(10) The register operator may reject the application if—
+
+- (a) it has given notice requesting information from the applicant under paragraph (6),
+- (b) a period of three months beginning with the day on which the notice was given has expired, and
+- (c) it has not been provided with the requested information.
+
+(11) A notice under paragraph (6) must explain the effect of paragraph (10).
+
+(12) Paragraph (4) ceases to apply in relation to the application if the application is withdrawn (see regulation 12(5)).
+
+### 15. Register operator to give notice of the outcome of an application to record allocation of habitat enhancement[^key-42a0c514db5fd07e24e7b4f0587bc834]
+
+(1) Where the register operator accepts an application referred to in regulation 12(2) (made to record the allocation of any habitat enhancement in an entry in the biodiversity gain site register) it must give notice to the applicant that the application has been accepted.
+
+(2) Where the register operator rejects such an application, it must give notice to the applicant that the application has been rejected.
+
+(3) A notice under paragraph (2) must—
+
+- (a) give reasons for the register operator’s decision to reject the application, and
+- (b) contain information about the right of appeal under regulation 30(2).
+
+### 16. Information to be recorded in the register when application to record allocation of habitat enhancement is accepted[^key-601ed400e70e07322fbb066b1ef33067]
+
+Where the register operator accepts an application referred to in regulation 12(2) (made to record the allocation of any habitat enhancement in an entry in the biodiversity gain site register) it must, as soon as practicable—
+
+- (a) record the allocation of the habitat enhancement in the entry in question, and
+- (b) record in that entry, in relation to that allocation, the information included in the application under regulation 13(1)(f) to (h).
+
+## PART 5 — Amendment of an entry in the biodiversity gain site register on application to the register operator
+
+### 17. Application to amend information in an entry in the biodiversity gain site register[^key-cb817aca4817263e90f57bc4156f08ac]
+
+(1) Subject to paragraphs (5) and (6), an application may be made to the register operator on one of the grounds in paragraph (2) to amend the information in an entry in the biodiversity gain site register in which land is registered in relation to a particular conservation covenant or section 106 agreement.
+
+(2) The grounds referred to in paragraph (1) are that—
+
+- (a) the information referred to in regulation 8(2)(f), (g), (h), (i) and (j) recorded in the entry, or any of that information, is incomplete or inaccurate as a result of a relevant modification made to the conservation covenant or section 106 agreement after the information was recorded;
+- (b) the information referred to in regulation 8(2)(k) recorded in the entry in relation to the allocation of any habitat enhancement to a development needs to be removed from the entry because the habitat enhancement has wholly ceased to be allocated to the development;
+- (c) the information referred to in regulation 8(2)(k) recorded in the entry in relation to the allocation of any habitat enhancement to a development is inaccurate because the habitat enhancement has partly ceased to be allocated to the development;
+- (d) the information referred to in regulation 8(2)(f), (g), (h), (i), (j) and (k) recorded in the entry, or any of that information, is incomplete or inaccurate for any other reason.
+
+(3) For the purposes of this regulation, a relevant modification is made to a conservation covenant or section 106 agreement where—
+
+- (a) in the case of a conservation covenant—
+  - (i) an obligation under the covenant is modified by agreement,
+  - (ii) an obligation under the covenant is discharged by agreement,
+  - (iii) any of the land to which the covenant relates, or any estate in any of that land, is discharged by agreement from an obligation under the covenant,
+  - (iv) an obligation under the covenant is modified or discharged by order of the Upper Tribunal,
+  - (v) a court or tribunal makes a decision about the effect of the covenant,
+  - (vi) a document which describes any of the required enhancement works, and which was produced in accordance with the terms of the conservation covenant, is amended by any instrument, or
+  - (vii) a supplemental instrument relating to the conservation covenant is amended by any instrument;
+- (b) in the case of a section 106 agreement—
+  - (i) a planning obligation in the section 106 agreement is modified or discharged by agreement,
+  - (ii) a determination, notice or other instrument is made or given which has the effect of modifying or discharging a planning obligation in the section 106 agreement,
+  - (iii) the section 106 agreement is otherwise amended by any instrument,
+  - (iv) a court or tribunal makes a decision about the effect of a planning obligation in the section 106 agreement,
+  - (v) a document which describes any of the required enhancement works, and which was produced in accordance with the terms of a planning obligation in the section 106 agreement, is amended by any instrument, or
+  - (vi) a supplemental instrument relating to the section 106 agreement is amended by any instrument.
+
+(4) For the purposes of paragraph (3)(a)(vii) and (b)(vi), a supplemental instrument relating to a conservation covenant or section 106 agreement is an agreement or other document which was entered into or produced pursuant to the terms of the conservation covenant or a planning obligation in the section 106 agreement and which describes things to be done in relation to the land for the purpose of—
+
+- (a) maintaining any habitat enhancement to be achieved by works required to be carried out on land under that conservation covenant or (as the case may be) under any planning obligation in that section 106 agreement, or
+- (b) monitoring habitats on the land to ensure that any habitat enhancement to be achieved by works required to be carried out on land under that conservation covenant or (as the case may be) under any planning obligation in that section 106 agreement is maintained for the period for which it is required to be maintained under the conservation covenant or a planning obligation in the section 106 agreement.
+
+(5) An application on the grounds in paragraph (2)(a) may not be made if (subject to paragraph (6)) one or more of the conditions in regulation 6 have ceased to be met in relation to the land and the conservation covenant or section 106 agreement in relation to which it is registered.
+
+(6) Where the required enhancement works have been completed on the land, the fact that the condition in regulation 6(2) has ceased to be met for that reason is to be disregarded for the purposes of paragraph (5).
+
+(7) Where the entry records the allocation of any habitat enhancement to a development, an application may not be made on the grounds in paragraph (2)(a) or (d) to amend the information in the entry so far as that information relates to that allocated habitat enhancement.
+
+(8) An application to amend an entry in the biodiversity gain site register may only be made by—
+
+- (a) a relevant person, or
+- (b) a person who has the consent of every relevant person to make the application.
+
+(9) In paragraph (8) a “**relevant person**”, in relation to an application to amend an entry in the biodiversity gain site register, means—
+
+- (a) where land is registered in the entry in relation to a conservation covenant—
+  - (i) a person who is required under the covenant to carry out works on the land for the purpose of habitat enhancement,
+  - (ii) a person who is required under the covenant to maintain any habitat enhancement to be achieved by works required to be carried out on the land for that purpose under the covenant, or
+  - (iii) a person by whom a requirement referred to in paragraph (i) or (ii) is enforceable,
+
+  but not the responsible person under the covenant;
+- (b) where land is registered in the entry in relation to a section 106 agreement, a person who is required under a planning obligation in the section 106 agreement—
+  - (i) to carry out works on the land for the purpose of habitat enhancement, or
+  - (ii) to maintain any habitat enhancement to be achieved by works required to be carried out on the land for that purpose under a planning obligation in the section 106 agreement.
+
+(10) An application to amend an entry in the biodiversity gain site register must—
+
+- (a) include the name of the applicant;
+- (b) include evidence that the applicant is entitled under this regulation to make the application;
+- (c) include—
+  - (i) an address to which notices under these Regulations in connection with the application may be sent by post to the applicant, and
+  - (ii) an email address to which such notices may be sent to the applicant;
+- (d) include the registration number assigned to the entry under regulation 11(2)(b);
+- (e) specify the grounds under paragraph (2)(a), (b), (c) or (d) on which the application is made and explain why the applicant considers those grounds are met;
+- (f) where the application is made on the grounds in paragraph (2)(d), explain why the applicant considers the information to which the application relates to be incomplete or inaccurate;
+- (g) specify the amendments which the applicant considers need to be made;
+- (h) where the application is made on the grounds that information in an entry in the biodiversity gain site register is incomplete or inaccurate as a result of a relevant modification made to a conservation covenant or section 106 agreement, include a copy of the agreement, determination, notice, instrument or decision referred to in paragraph (3)(a) or (b) with which the application is concerned.
+
+(11) An application referred to in this regulation may be withdrawn by the applicant, but the withdrawal of an application is effective only if the register operator receives a written notification of the withdrawal from the applicant before deciding whether to accept or reject the application.
+
+(12) In this regulation “**the required enhancement works**”, in relation to an application to amend the information in an entry in the biodiversity gain site register, means—
+
+- (a) where land is registered in the entry in relation to a conservation covenant, the works required to be carried out on the land for the purpose of habitat enhancement under that conservation covenant, or
+- (b) where land is registered in the entry in relation to a section 106 agreement, the works required to be carried out on the land for the purpose of habitat enhancement under the planning obligations in that section 106 agreement.
+
+### 18. Determination of application to amend a register entry[^key-f9a55a02c205d74275d433e198edd3ae]
+
+(1) This regulation applies where the register operator has received an application to amend the information in an entry in the biodiversity gain site register.
+
+(2) If the register operator does not receive payment of a fee for the application in accordance with the Biodiversity Gain Site Register (Financial Penalties and Fees) Regulations 2024, the register operator must reject the application.
+
+(3) The following provisions of this regulation apply where the register operator has received payment of a fee for the application in accordance with those Regulations.
+
+(4) Subject to paragraph (13), the register operator must consider the application and must, in accordance with the following provisions of this regulation, either accept or reject it.
+
+(5) Subject to the following provisions of this regulation, the application must be accepted if—
+
+- (a) the application meets the requirements of regulation 17(10)(e), (f) (where relevant) and (g),
+- (b) it appears to the register operator that the application includes the evidence, other information and documents required by regulation 17(10)(a) to (d) and (h),
+- (c) the register operator is satisfied that the applicant is entitled under regulation 17 to make the application,
+- (d) where the application is made on the grounds in regulation 17(2)(a), the register operator is satisfied that—
+  - (i) those grounds and the conditions in regulation 17(5) and (7) are met, and
+  - (ii) the amendments requested by the applicant, or any of those amendments, need to be made so that the information to which the application relates is complete and accurate, and
+- (e) where the application is made on the grounds in regulation 17(2)(d), the register operator is satisfied that—
+  - (i) those grounds and the condition in regulation 17(7) are met, and
+  - (ii) the amendments requested by the applicant, or any of those amendments, need to be made so that the information to which the application relates is complete and accurate.
+
+(6) The register operator may, by giving notice to the applicant, request any information it needs in order to determine whether it is required by paragraph (5) to accept the application.
+
+(7) Where, having given notice under paragraph (6) requesting information from the applicant, the register operator is satisfied that it has received all of the information requested by that notice, the register operator must as soon as practicable give notice to the applicant informing the applicant that it is so satisfied.
+
+(8) The register operator may reject the application if—
+
+- (a) it has given notice requesting information from the applicant under paragraph (6),
+- (b) a period of three months beginning with the day on which the notice was given has expired, and
+- (c) it has not been provided with the requested information.
+
+(9) A notice under paragraph (6) must explain the effect of paragraph (8).
+
+(10) The application must be rejected—
+
+- (a) if—
+  - (i) the application does not meet the requirements of regulation 17(10)(e), (f) (where relevant) and (g),
+  - (ii) it does not appear to the register operator as mentioned in paragraph (5)(b),
+  - (iii) the register operator is not satisfied as mentioned in paragraph (5)(c),
+  - (iv) the register operator is not satisfied as mentioned in regulation paragraph (5)(d) or (e) (as the case may be),
+
+  and the register operator has decided not to make a request (or a further request) for information under paragraph (6), or
+- (b) if the register operator considers that false or misleading information has been supplied to it in connection with the application.
+
+(11) Where the register operator decides that it is necessary, for the purposes of considering the application, to investigate whether any information supplied to it in connection with the application is false or misleading, it must—
+
+- (a) give notice to the applicant as soon as practicable informing the applicant that it has so decided, and
+- (b) as soon as practicable after concluding the investigation, give notice to the applicant that it has concluded the investigation,
+
+and a notice under this paragraph must state the date on which the decision was made or the investigation was concluded (as the case may be).
+
+(12) Where the application is accepted, the register operator must amend the entry in the register accordingly as soon as practicable.
+
+(13) Paragraph (4) ceases to apply in relation to the application if the application is withdrawn (see regulation 17(11)).
+
+### 19. Requirement to give notice of outcome of an application to amend a register entry[^key-f976d5abda36ac9ace161fe94d516dca]
+
+(1) Where the register operator accepts or rejects an application referred to in regulation 17(1), it must give notice to the applicant that it has done so as soon as practicable.
+
+(2) A notice under paragraph (1) informing the applicant of the rejection of an application must—
+
+- (a) give reasons for the register operator’s decision to reject the application, and
+- (b) contain information about the right of appeal under regulation 30(3).
+
+(3) Where the register operator accepts an application but is not satisfied that all of the amendments requested by the applicant in that application need to be made, a notice under paragraph (1) informing the applicant of the acceptance of the application must—
+
+- (a) identify the amendments requested by the applicant which the register operator is not satisfied need to be made,
+- (b) explain why the register operator is not satisfied that they need to be made, and
+- (c) contain information about the right of appeal under regulation 30(4).
+
+## PART 6 — Amendment of an entry in the biodiversity gain site register on the register operator’s own initiative
+
+### 20. Amendment of an entry in the biodiversity gain site register without application[^key-5f98a75f6ba64adb83d09a533e7fe583]
+
+(1) This regulation applies where—
+
+- (a) land is registered in an entry in the biodiversity gain site register in relation to a particular conservation covenant or section 106 agreement, and
+- (b) the register operator considers that the information in the entry is inaccurate or incomplete.
+
+(2) The register operator may, in accordance with this Part, amend the entry so that the information in question is complete and accurate.
+
+(3) For the purposes of paragraph (1), the circumstances in which information in an entry in the biodiversity gain site register is inaccurate include the situation where—
+
+- (a) an allocation of habitat enhancement to a development is recorded in the entry, but
+- (b) that habitat enhancement was allocated to the development otherwise than in accordance with—
+  - (i) where the enhancement is made available to be allocated under a conservation covenant, the terms of the conservation covenant, or
+  - (ii) where the enhancement is made available to be allocated under a section 106 agreement, the terms of a planning obligation in the section 106 agreement.
+
+(4) Where the register operator considers that information in the entry is inaccurate as mentioned in paragraph (3), amendment of the entry under paragraph (2) may include removing the record of the allocation of the habitat enhancement to the development in question.
+
+(5) This regulation does not apply where the register operator has received an application referred to in regulation 17(1) to amend the same information on the same grounds.
+
+### 21. Notice of intent to be given before entry is amended under regulation 20[^key-c91cdc974d9f5840da33790a756a4088]
+
+(1) Before exercising its power under regulation 20 to amend an entry in the biodiversity gain site register in which land is registered in relation to a conservation covenant or section 106 agreement, the register operator must give notice of its intention to do so (a “notice of intent”) to every required recipient.
+
+(2) A “required recipient” of a notice of intent under paragraph (1) is a person who the register operator believes, on the basis of any information in the register operator’s possession, is—
+
+- (a) a person on whom a relevant requirement is imposed under the conservation covenant or section 106 agreement, or
+- (b) a person by whom any such requirement is enforceable.
+
+(3) For the purposes of paragraph (2), where the land is registered in relation to a conservation covenant, a “relevant requirement” under the conservation covenant is a requirement under the covenant—
+
+- (a) to carry out works on the land for the purpose of habitat enhancement, or
+- (b) to maintain any habitat enhancement to be achieved by works required to be carried out on the land for that purpose under the covenant or obligation.
+
+(4) For the purposes of paragraph (2), where the land is registered in relation to a section 106 agreement, a “relevant requirement” under the section 106 agreement is a requirement under a planning obligation in the section 106 agreement—
+
+- (a) to carry out works on the land for the purpose of habitat enhancement, or
+- (b) to maintain any habitat enhancement to be achieved by works required to be carried out on the land for that purpose under a planning obligation in the section 106 agreement.
+
+(5) A notice of intent given under paragraph (1) must—
+
+- (a) identify the entry which the register operator intends to amend;
+- (b) inform the recipient of the notice that the register operator considers that the information in the entry is inaccurate or incomplete;
+- (c) explain why the register operator considers that the information in the entry is inaccurate or incomplete;
+- (d) inform the recipient of the notice that the register operator intends to amend the entry;
+- (e) inform the recipient of the right to make representations under regulation 22.
+
+### 22. Right to make representations[^key-e965a6db8a8683716a48239323b5a7e7]
+
+(1) A person to whom a notice of intent is given under regulation 21 in relation to an entry in the biodiversity gain site register may, within the period of 28 days beginning with the day after the day on which that notice is given, make representations in writing about why the entry should not be amended.
+
+(2) The register operator must have regard to any representations received under paragraph (1) in deciding whether to amend the entry.
+
+### 23. Decision to amend an entry in the biodiversity gain site register[^key-27fb13d86050a8818f627a0be2058af7]
+
+(1) After the period for making representations under regulation 22(1) about the proposed amendment of an entry in the biodiversity gain site register has expired in relation to every notice of intent given under regulation 21, the register operator must decide whether to amend the entry.
+
+(2) Where the register operator amends the entry, it must—
+
+- (a) give notice that it has done so to each person to whom a notice of intent was given, and
+- (b) record in the biodiversity gain site register—
+  - (i) the date on which the entry was amended, and
+  - (ii) a description of the amendments made.
+
+(3) A notice under paragraph (2)(a) must—
+
+- (a) give reasons for the register operator’s decision to amend the entry, and
+- (b) contain information about the right of appeal under regulation 30(5).
+
+(4) Where the register operator decides not to amend the entry, it must give notice that it has made that decision to each person to whom a notice of intent was given.
+
+(5) A person to whom notice of the amendment of the entry was not given under paragraph (2)(a) may make a request in writing to the register operator for a statement of the reasons for the register operator’s decision to amend the entry.
+
+(6) A request under paragraph (5) must contain—
+
+- (a) an address to which the requested statement of reasons may be sent to the person by post, and
+- (b) an email address to which the requested statement may be sent to the person by email.
+
+(7) On receipt of a request under paragraph (5) which complies with paragraph (6), the register operator must as soon as practicable give notice to the person who made the request, setting out the reasons for the register operator’s decision.
+
+## PART 7 — Removal of land from the biodiversity gain site register on application to the register operator
+
+### 24. Application to have an entry removed from the biodiversity gain site register[^key-de04280a9f7186dab5ba83b714627231]
+
+(1) This regulation applies where—
+
+- (a) land is registered in an entry in the biodiversity gain site register in relation to a conservation covenant or section 106 agreement, and
+- (b) no allocation of any habitat enhancement to a development is recorded in the entry.
+
+(2) An application may be made to the register operator to have the entry removed from the register.
+
+(3) Any application referred to in paragraph (2) may only be made by—
+
+- (a) a relevant person, or
+- (b) a person who has the consent of a relevant person to make the application.
+
+(4) In this regulation, a “**relevant person**” means—
+
+- (a) where the land is registered in the entry in question in relation to a conservation covenant—
+  - (i) a person who is required under the covenant to carry out works on the land for the purpose of habitat enhancement,
+  - (ii) a person who is required under the covenant to maintain any habitat enhancement to be achieved by works required to be carried out on the land for that purpose under the covenant, or
+  - (iii) a person by whom a requirement referred to in paragraph (i) or (ii) is enforceable,
+
+  but not the responsible person under the covenant;
+- (b) where the land is registered in the entry in relation to a section 106 agreement, a person who is required under a planning obligation in the section 106 agreement—
+  - (i) to carry out works on the land for the purpose of habitat enhancement, or
+  - (ii) to maintain any habitat enhancement to be achieved by works required to be carried out on the land for that purpose under a planning obligation in the section 106 agreement.
+
+(5) An application referred to in paragraph (2) must include—
+
+- (a) the name of the applicant;
+- (b) evidence that the applicant is entitled under this regulation to make the application;
+- (c) an address to which notices under these Regulations in connection with the application may be sent by post to the applicant;
+- (d) an email address to which such notices may be sent to the applicant;
+- (e) the registration number assigned under regulation 11(2)(b) to the entry to which the application relates.
+
+(6) An application referred to in paragraph (2) may be withdrawn by the applicant, but the withdrawal of an application is effective only if the register operator receives a written notification of the withdrawal from the applicant before deciding whether to accept or reject the application.
+
+### 25. Determination of an application to have an entry removed from the biodiversity gain site register[^key-c096b29303ac60c54e8b2a61b3994333]
+
+(1) This regulation applies where the register operator has received an application referred to in regulation 24(2) (made to have an entry removed from the biodiversity gain site register).
+
+(2) If the register operator does not receive payment of a fee for the application in accordance with the Biodiversity Gain Site Register (Financial Penalties and Fees) Regulations 2024, the register operator must reject the application.
+
+(3) The following provisions of this regulation apply where the register operator has received payment of a fee for the application in accordance with those Regulations.
+
+(4) Subject to paragraph (15), the register operator must consider the application and must, in accordance with the following provisions of this regulation, either accept or reject it.
+
+(5) Subject to the following provisions of this regulation, the application must be accepted if—
+
+- (a) it appears to the register operator that the application includes the evidence and other information required by regulation 24(5), and
+- (b) the register operator is satisfied that—
+  - (i) the applicant is entitled under regulation 24 to make the application, and
+  - (ii) the conditions under regulation 24 for making the application are met.
+
+(6) The register operator may, by giving notice to the applicant, request any information it needs in order to determine whether it is required by paragraph (5) to accept the application.
+
+(7) Where, having given notice under paragraph (6) requesting information from the applicant, the register operator is satisfied that it has received all of the information requested by that notice, the register operator must as soon as practicable give notice to the applicant informing the applicant that it is so satisfied.
+
+(8) The application must be rejected—
+
+- (a) if—
+  - (i) it does not appear to the register operator as mentioned in paragraph (5)(a), or
+  - (ii) the register operator is not satisfied as mentioned in paragraph (5)(b),
+
+  and the register operator has decided not to make a request (or a further request) for information under paragraph (6), or
+- (b) if the register operator considers that false or misleading information has been supplied to it in connection with the application.
+
+(9) Where the register operator decides that it is necessary, for the purposes of considering the application, to investigate whether any information supplied to it in connection with the application is false or misleading, it must—
+
+- (a) give notice to the applicant as soon as practicable informing the applicant that it has so decided, and
+- (b) as soon as practicable after concluding the investigation, give notice to the applicant that it has concluded the investigation,
+
+and a notice under this paragraph must state the date on which the decision was made or the investigation was concluded (as the case may be).
+
+(10) The register operator may reject the application if—
+
+- (a) it has given notice requesting information from the applicant under paragraph (6),
+- (b) a period of three months beginning with the day on which the notice was given has expired, and
+- (c) it has not been provided with the requested information.
+
+(11) A notice under paragraph (6) must explain the effect of paragraph (10).
+
+(12) Where the register operator accepts an application to have an entry removed from the biodiversity gain site register, it must as soon as practicable—
+
+- (a) remove the entry from the register, and
+- (b) remove from the register any document which was placed on the register under regulation 11(3)(b) when the land to which the entry relates was registered.
+
+(13) Where the register operator accepts or rejects an application to have an entry removed from the biodiversity gain site register, it must give notice to the applicant that it has done so as soon as practicable.
+
+(14) A notice under paragraph (13) informing the applicant of the rejection of an application must—
+
+- (a) give reasons for the register operator’s decision to reject the application, and
+- (b) contain information about the right of appeal under regulation 30(6).
+
+(15) Paragraph (4) ceases to apply in relation to the application if the application is withdrawn (see regulation 24(6)).
+
+## PART 8 — Removal of land from the biodiversity gain site register on register operator’s own initiative
+
+### 26. Removal of an entry from the biodiversity gain site register without application[^key-e304c9757930c2b17b8f922af66b3798]
+
+(1) This regulation applies to an entry in the biodiversity gain site register in which land is registered in relation to a conservation covenant or section 106 agreement.
+
+(2) Subject to paragraph (3), the register operator may, in accordance with this Part, remove the entry from the register where—
+
+- (a) the register operator considers that every relevant requirement under the conservation covenant or section 106 agreement has been complied with,
+- (b) the register operator considers that, for any other reason, the conservation covenant or section 106 agreement is no longer in force,
+- (c) neither sub-paragraph (a) nor sub-paragraph (b) applies but the register operator considers that (subject to paragraph (4)) one or more of the conditions in regulation 6 have ceased to be met in relation to the land and the conservation covenant or section 106 agreement, or
+- (d) none of sub-paragraphs (a), (b) and (c) applies but the register operator considers that false or misleading information was supplied to it in connection with the application to register the land in relation to the conservation covenant or section 106 agreement.
+
+(3) For the purposes of paragraph (2)(a), where the land is registered in the entry in relation to a conservation covenant, a “relevant requirement” under the conservation covenant is a requirement imposed on any person under the covenant—
+
+- (a) to carry out works on the land for the purpose of habitat enhancement, or
+- (b) to maintain any habitat enhancement to be achieved by works required to be carried out on the land for that purpose under the covenant.
+
+(4) For the purposes of paragraph (2)(a), where the land is registered in the entry in relation to a section 106 agreement, a “relevant requirement” under the section 106 agreement is a requirement under a planning obligation in the section 106 agreement—
+
+- (a) to carry out works on the land for the purpose of habitat enhancement, or
+- (b) to maintain any habitat enhancement to be achieved by works required to be carried out on the land for that purpose under a planning obligation in the section 106 agreement.
+
+(5) Where the required enhancement works on the land registered in the entry have been completed, the fact that the condition in regulation 6(2) has ceased to be met for that reason is to be disregarded for the purposes of paragraph (2)(c).
+
+(6) In paragraph (5) “the required enhancement works” on the land registered in the entry means the works required to be carried out on the land for the purpose of habitat enhancement under—
+
+- (a) where the land is registered in the entry in relation to a conservation covenant, that conservation covenant, and
+- (b) where the land is registered in the entry in relation to a section 106 agreement, the planning obligations in that section 106 agreement.
+
+### 27. Notice of intent to be given before entry is removed under regulation 26[^key-e26cb74412fc45ebfb09deeb9c7cedae]
+
+(1) Before exercising its power under regulation 26 to remove from the biodiversity gain site register any entry in which land is registered in relation to a conservation covenant or section 106 agreement, the register operator must give notice of its intention to do so (a “notice of intent”) to every required recipient.
+
+(2) Where regulation 26(2)(a) applies, a “required recipient” of a notice of intent under paragraph (1) is a person who the register operator believes, on the basis of any information in the register operator’s possession, is—
+
+- (a) a person on whom the last relevant requirement to be in force under the conservation covenant or section 106 agreement was imposed under the covenant or section 106 agreement, or
+- (b) a person by whom that requirement was enforceable.
+
+(3) Where regulation 26(2)(b) applies, a “required recipient” of a notice of intent under paragraph (1) is a person who the register operator believes, on the basis of any information in the register operator’s possession, is—
+
+- (a) a person on whom a relevant requirement under the conservation covenant or section 106 agreement was imposed immediately before the time when the register operator considers the covenant or section 106 agreement ceased to be in force, or
+- (b) a person by whom any such requirement was enforceable.
+
+(4) Where regulation 26(2)(c) applies but the register operator considers that the condition in regulation 6(2) is still met in relation to the land and the conservation covenant or section 106 agreement, a “required recipient” of a notice of intent under paragraph (1) is a person who the register operator believes, on the basis of any information in the register operator’s possession, is—
+
+- (a) a person on whom a relevant requirement is imposed under the conservation covenant or section 106 agreement, or
+- (b) a person by whom any such requirement is enforceable.
+
+(5) Where regulation 26(2)(c) applies because (or partly because) the register operator considers that the condition in regulation 6(2) has ceased to be met, a “required recipient” of a notice of intent under paragraph (1) is a person who the register operator believes, on the basis of any information in the register operator’s possession, is—
+
+- (a) a person on whom a requirement to carry out works on the land is imposed under the conservation covenant or (as the case may be) under a planning obligation in the section 106 agreement, or
+- (b) a person by whom any such requirement is enforceable.
+
+(6) Where regulation 26(2)(d) applies, a “required recipient” of a notice of intent under paragraph (1) is a person who the register operator believes, on the basis of any information in the register operator’s possession, is—
+
+- (a) a person on whom a relevant requirement is imposed under the conservation covenant or section 106 agreement, or
+- (b) a person by whom any such requirement is enforceable.
+
+(7) A notice of intent given under paragraph (1) must—
+
+- (a) identify the entry which the register operator intends to remove;
+- (b) inform the recipient of the notice that the register operator intends to remove the entry;
+- (c) set out the grounds under regulation 26(2) on which the register operator intends to remove the entry;
+- (d) where regulation 26(2)(a) applies, state the last date on which, to the register operator’s knowledge, there was any relevant requirement in force under the conservation covenant or section 106 agreement;
+- (e) where regulation 26(2)(b) applies, explain why the register operator considers that the conservation covenant or section 106 agreement is no longer in force;
+- (f) where regulation 26(2)(c) applies, identify the condition or conditions in regulation 6 which the register operator considers is or are no longer met and explain why the register operator considers that to be the case;
+- (g) where regulation 26(2)(d) applies, specify the information which the register operator considers was false or misleading;
+- (h) inform the recipient of the notice of the right to make representations under regulation 28.
+
+(8) In paragraphs (2) to (6), references to a “relevant requirement” under a conservation covenant or section 106 agreement are to be construed in accordance with regulation 26(3) or (4) (as the case may be).
+
+### 28. Right to make representations[^key-549ba742b2093d570f7b10391748fb3a]
+
+(1) A person to whom a notice of intent is given under regulation 27 in relation to an entry in the biodiversity gain site register may, within the period of 28 days beginning with the day after the day on which that notice is given, make representations in writing about why the entry should not be removed.
+
+(2) The register operator must have regard to any representations received under paragraph (1) in deciding whether to remove the entry.
+
+### 29. Decision to remove an entry from the biodiversity gain site register[^key-7b5d47a1722ab83642247a65448b5e91]
+
+(1) After the period for making representations under regulation 28(1) about the proposed removal of an entry from the biodiversity gain site register has expired in relation to every notice of intent given under regulation 27, the register operator must decide whether to remove the entry.
+
+(2) Where the register operator removes the entry, it must—
+
+- (a) give notice that it has done so to each person to whom a notice of intent was given, and
+- (b) record in the biodiversity gain site register the date on which the entry was removed.
+
+(3) A notice under paragraph (2)(a) must—
+
+- (a) give reasons for the register operator’s decision to remove the entry, and
+- (b) contain information about the right of appeal under regulation 30(7).
+
+(4) Where the register operator decides not to remove the entry, it must give notice that it has made that decision to each person to whom a notice of intent was given.
+
+(5) Where the register operator removes the entry, it must also remove from the register any document which was placed on the register under regulation 11(3)(b) when the land to which the entry relates was registered.
+
+(6) A person to whom notice of the removal of the entry was not given under paragraph (2)(a) may make a request in writing to the register operator for a statement of the reasons for the register operator’s decision to remove the entry.
+
+(7) A request under paragraph (6) must contain—
+
+- (a) an address to which the requested statement of reasons may be sent to the person by post, and
+- (b) an email address to which the requested statement may be sent to the person by email.
+
+(8) On receipt of a request under paragraph (6) which complies with paragraph (7), the register operator must as soon as practicable give notice to the person who made the request, setting out the reasons for the register operator’s decision.
+
+## PART 9 — Appeals
+
+### 30. Right to appeal against rejection of an application, amendment of the register or removal of an entry from the register[^key-290b48de66908eefefef628910474d8b]
+
+(1) Where the register operator gives notice under regulation 10 that it has rejected an application referred to in regulation 7 (application to register land in the biodiversity gain site register) the person who made the application may appeal to the First-tier Tribunal against the register operator’s decision to reject the application.
+
+(2) Where the register operator gives notice under regulation 15(2) that it has rejected an application referred to in regulation 12(2) (application to record the allocation of any habitat enhancement to a development in the biodiversity gain site register) the person who made the application may appeal to the First-tier Tribunal against the register operator’s decision to reject the application.
+
+(3) Where the register operator gives notice under regulation 19 that it has rejected an application referred to in regulation 17(1) (application to amend an entry in the biodiversity gain site register) the person who made the application may appeal to the First-tier Tribunal against the register operator’s decision to reject the application.
+
+(4) Where the register operator gives notice under regulation 19 that it has accepted an application referred to in regulation 17(1) (application to amend an entry in the biodiversity gain site register) but is not satisfied that all of the amendments requested in the application by the person who made the application need to be made, the person who made the application may appeal to the First-tier Tribunal against the register operator’s decision not to make the requested amendments or any of them.
+
+(5) Where the register operator amends an entry in the biodiversity gain site register under regulation 20 (amendment of an entry without application) any interested person may appeal to the First-tier Tribunal against the register operator’s decision to amend the entry.
+
+(6) Where the register operator gives notice under regulation 25(13) that it has rejected an application referred to in regulation 24(2) (application to have an entry removed from the biodiversity gain site register) the person who made the application may appeal to the First-tier Tribunal against the register operator’s decision to reject the application.
+
+(7) Where the register operator removes an entry from the biodiversity gain site register under regulation 26 (removal of an entry without application) any interested person may appeal to the First-tier Tribunal against the register operator’s decision to remove the entry.
+
+(8) For the purposes of paragraphs (5) and (7), an “**interested person**” in relation to an appeal against the amendment or removal of an entry in the biodiversity gain site register in which land is registered in relation to a conservation covenant means a person—
+
+- (a) who is required under the conservation covenant to carry out works on the land for the purpose of habitat enhancement,
+- (b) who is required under the conservation covenant to maintain any habitat enhancement to be achieved by works required to be carried out on the land for that purpose under the covenant, or
+- (c) by whom a requirement referred to in sub-paragraph (a) or (b) is enforceable.
+
+(9) For the purposes of paragraphs (5) and (7), an “**interested person**” in relation to an appeal against the amendment or removal of an entry in the biodiversity gain site register in which land is registered in relation to a section 106 agreement means a person—
+
+- (a) who is required under a planning obligation in the section 106 agreement to carry out works on the land for the purpose of habitat enhancement,
+- (b) who is required under a planning obligation in the section 106 agreement to maintain any habitat enhancement to be achieved by works required to be carried out on the land for that purpose under a planning obligation in the section 106 agreement, or
+- (c) by whom a requirement referred to in sub-paragraph (a) or (b) is enforceable.
+
+### 31. Determination of appeal against rejection of an application[^key-9d854fd77dcd50812b786eab0a8f92c4]
+
+(1) This regulation applies to an appeal under regulation 30(1), (2), (3) or (6) against a decision of the register operator to reject an application.
+
+(2) Where, on an appeal to which this regulation applies, the First-tier Tribunal is satisfied that any of the grounds in paragraph (4) applies, it must quash the register operator’s decision to reject the application and—
+
+- (a) direct the register operator to accept the application, or
+- (b) direct the register operator to reconsider the application under regulation 9, 14, 18 or 25 (as the case may be) in accordance with its ruling.
+
+(3) Where, on an appeal to which this regulation applies, the First-tier Tribunal is not satisfied that any of the grounds in paragraph (4) applies, it must confirm the register operator’s decision to reject the application.
+
+(4) The grounds referred to in paragraphs (2) and (3) are—
+
+- (a) that the register operator’s decision to reject the application was based, wholly or partly, on an error of fact;
+- (b) that the register operator’s decision to reject the application was wrong in law;
+- (c) where the decision to reject the application was made under regulation 9(10), 14(10), 18(8) or 25(10), that the register operator’s decision to reject the application was unfair or unreasonable for any other reason;
+- (d) that any decision of the register operator not to exercise its power under regulation 9(6), 14(6), 18(6), or 25(6) (as the case may be), and to reject the application as a result, was unfair or unreasonable for any other reason.
+
+### 32. Determination of appeal against decision not to make requested amendments[^key-8902ee9336270aa17e610c51752e9303]
+
+(1) This regulation applies to an appeal under regulation 30(4) against a decision of the register operator not to make an amendment or amendments requested in an application referred to in regulation 17(1) (application to amend an entry in the biodiversity gain site register).
+
+(2) Where, on an appeal to which this regulation applies, the First-tier Tribunal is satisfied that either of the grounds in paragraph (4) applies in relation to the register operator’s decision not to make an amendment, it must quash the register operator’s decision not to make the amendment and—
+
+- (a) direct the register operator to make the amendment, or
+- (b) direct the register operator to reconsider whether to make the amendment.
+
+(3) Where, on an appeal to which this regulation applies, the First-tier Tribunal is not satisfied that either of the grounds in paragraph (4) applies in relation to the register operator’s decision not to make an amendment, it must confirm the register operator’s decision not to make the amendment.
+
+(4) The grounds referred to in paragraphs (2) and (3) are—
+
+- (a) that the register operator’s decision was based, wholly or partly, on an error of fact;
+- (b) that the register operator’s decision was wrong in law.
+
+### 33. Determination of appeal against amendment or removal of a register entry[^key-7b686aa0eb80ce630540160945ef5dd4]
+
+(1) This regulation applies to an appeal under regulation 30 against a decision of the register operator to—
+
+- (a) amend an entry in the biodiversity gain site register under regulation 20 (amendment of an entry without application), or
+- (b) remove an entry from the biodiversity gain site register under regulation 26 (removal of an entry without application).
+
+(2) Where, on an appeal to which this regulation applies, the First-tier Tribunal is satisfied that any of the grounds in paragraph (4) applies, it must—
+
+- (a) quash the register operator’s decision, and
+- (b) direct the register operator to reverse the amendment in the biodiversity gain site register or reinstate the removed entry (as the case may be).
+
+(3) Where, on an appeal to which this regulation applies, the First-tier Tribunal is not satisfied that any of the grounds in paragraph (4) applies, it must confirm the register operator’s decision.
+
+(4) The grounds referred to in paragraph (2) and (3) are—
+
+- (a) that the decision appealed against was based, wholly or partly, on an error of fact;
+- (b) that the decision was wrong in law;
+- (c) that the decision was unfair or unreasonable for any other reason.
+
+### 34. Consequences of appeal where register operator directed to accept an application[^key-709105cab83d1130b79b3e2a832c8bb8]
+
+(1) Where the register operator is directed under regulation 31(2)(a) to accept an application referred to in regulation 7, the register operator must comply accordingly with the requirements of regulation 11 in relation to that application.
+
+(2) Where the register operator is directed under regulation 31(2)(a) to accept an application referred to in regulation 12(2), the register operator must comply accordingly with the requirements of regulation 16 in relation to that application.
+
+(3) Where the register operator is directed under regulation 31(2)(a) to accept an application referred to in regulation 17(1), the register operator must comply accordingly with the requirements of regulation 18(12) and regulation 19(1) in relation to that application.
+
+(4) Where the register operator is directed under regulation 31(2)(a) to accept an application referred to in regulation 24(2), the register operator must—
+
+- (a) comply with the requirements of regulation 25(12) in relation to that entry and any documents referred to in that regulation, and
+- (b) comply accordingly with the requirement in regulation 25(13) in relation to the application.
+
+### 35. Consequences of appeal where register operator is directed to reconsider an application or a decision not to make an amendment[^key-281863b6bd9fd05aa13bc00f1dcdd0a3]
+
+(1) Where the register operator is directed under regulation 31(2)(b) to reconsider an application referred to in regulation 7, regulations 9, 10 and 11 apply in relation to the application as though it had not been rejected.
+
+(2) Where the register operator is directed under regulation 31(2)(b) to reconsider an application referred to in regulation 12(2), regulations 14, 15 and 16 apply in relation to the application as though it had not been rejected.
+
+(3) Where the register operator is directed under regulation 31(2)(b) to reconsider an application referred to in regulation 17(1), regulations 18 and 19 apply in relation to the application as though it had not been rejected.
+
+(4) Where the register operator is directed under regulation 31(2)(b) to reconsider an application referred to in regulation 24(2), regulation 25 applies in relation to the application as though it had not been rejected.
+
+(5) Where the register operator is directed under regulation 32(2)(b) to reconsider a decision not to make an amendment to the information in an entry in the biodiversity gain site register, it must reconsider that decision and, if it is satisfied that the amendment needs to be made, make that amendment accordingly.
+
+## PART 10 — Effect of applications to and decisions etc of the register operator
+
+### 36. Applications etc and decisions to have effect only for the purposes of these Regulations[^key-30a57fd50268c8699d50d39ff8061dfc]
+
+(1) The provision of any information or document to the register operator for any purpose under these Regulations (whether by making an application which includes it or otherwise) does not have effect as a notification of any matter to the register operator for any other purpose.
+
+(2) No decision of the register operator under these Regulations may be taken as indicating consent or assent to, or any other kind of approval of or acquiescence to, the carrying out of any particular works on the land to which the decision relates.
+
+### 37. No infringement of copyright by register operator[^key-2743f67fd3849c6af64a1e4057ea403d]
+
+The register operator does not infringe copyright in a work by doing anything, in relation to a document recording or embodying the work, which is necessary for the purpose of complying with—
+
+- (a) an obligation of the register operator under regulation 11(3)(b) to place the document on the biodiversity gain site register, or
+- (b) the register operator’s obligation under regulation 4 to ensure that information in the document, when the document has been placed on the biodiversity gain site register, is accessible to members of the public.
+
+## PART 11 — Notices
+
+### 38. Methods of giving notice under these Regulations[^key-e073978e8c422dc243227cf3ffd88f97]
+
+(1) A notice under these Regulations may be given to a person by—
+
+- (a) sending it by post to the person at the person’s proper address, or
+- (b) sending it to the person by email to the person’s appropriate email address
+
+(and see regulations 39 and 40 for the meaning of “proper address” and “appropriate email address”).
+
+(2) A notice given to a person under these Regulations by sending it to the person by email is to be treated as having been given to that person 24 hours after it was sent.
+
+### 39. Address to be used for a notice given in connection with an application under these Regulations[^key-b9bb9c65f32d92a90c85b44a680f15c8]
+
+(1) This regulation applies to a notice given by the register operator to a person under these Regulations in connection with an application made by that person.
+
+(2) The person’s proper address for the purposes of regulation 38(1)(a) is (subject to paragraph (4)) the address for receipt of notices sent by post included in the application under regulation 8(2)(b), 13(1)(c), 17(10)(c)(i) or 24(5)(c) (as the case may be).
+
+(3) The person’s appropriate email address for the purposes of regulation 38(1)(b) is (subject to paragraph (5)) the address for receipt of notices sent by email included in the application under regulation 8(2)(c), 13(1)(d), 17(10)(c)(ii) or 24(5)(d) (as the case may be).
+
+(4) Where, since making an application under these Regulations, a person has notified the register operator in writing of a change of address for receipt of notices sent by post under these Regulations in connection with the application, the person’s proper address in relation to any such notice is the address most recently provided in writing to the register operator by that person for receipt of notices sent by post under these Regulations in connection with the application.
+
+(5) Where, since making an application under these Regulations, a person has notified the register operator in writing of a change of address for receipt of notices sent by email under these Regulations in connection with the application, the person’s appropriate email address in relation to any such notice is the address most recently provided in writing to the register operator by that person for receipt of notices sent by email under these Regulations in connection with the application.
+
+### 40. Address to be used for a notice given otherwise than in connection with an application under these Regulations[^key-395129f4752171b2a407f5bea6f61abe]
+
+(1) This regulation applies to a notice given by the register operator to a person under these Regulations otherwise than in connection with an application made by that person.
+
+(2) Subject to paragraphs (3) and (5), the person’s proper address for the purposes of regulation 38(1)(a) is—
+
+- (a) where the person is a body corporate, the address of its registered or principal office;
+- (b) where the person is a partnership or other incorporated association, the address of its principal office;
+- (c) in any other case, the person’s last known residential or business address.
+
+(3) Where, despite making reasonable inquiries, the register operator is unable to ascertain an address which is the person’s proper address as provided by paragraph (2), the person’s proper address for the purposes of regulation 38(1)(a) is any address at which the register operator reasonably believes that the notice will be received by—
+
+- (a) the person;
+- (b) where the person is a body corporate, an officer or clerk of the body corporate;
+- (c) where the person is a partnership, a partner or person having control or management of the partnership business;
+- (d) where the person is an unincorporated association other than a partnership, an officer or member of the association.
+
+(4) Subject to paragraph (5), the person’s appropriate email address for the purposes of regulation 38(1)(b) is any email address at which the register operator reasonably believes that the email will be received by—
+
+- (a) the person;
+- (b) where the person is a body corporate, an officer or clerk of the body corporate;
+- (c) where the person is a partnership, a partner or person having control or management of the partnership business;
+- (d) where the person is an unincorporated association other than a partnership, an officer or member of the association.
+
+(5) In the case of a notice given to a person under regulation 23(7) or 29(8)—
+
+- (a) the person’s proper address for the purposes of regulation 38(1)(a) is the address provided by that person under regulation 23(6)(a) or 29(7)(a) (as the case may be);
+- (b) the person’s appropriate email address for the purposes of regulation 38(1)(b) is the email address provided by that person under regulation 23(6)(b) or 29(7)(b) (as the case may be).
+
+## PART 12 — Review of regulatory provision
+
+### 41. Requirement to carry out a review of the regulatory provision made by these Regulations[^key-ce8eb8a3da0fbf7384d62b7d72c71f55]
+
+(1) The Secretary of State must from time to time—
+
+- (a) carry out a review of the regulatory provision contained in these Regulations, and
+- (b) publish a report setting out the conclusions of that review.
+
+(2) The first report must be published before the end of the period of 5 years beginning with the day on which these Regulations come into force.
+
+(3) Subsequent reports must be published at intervals not exceeding 5 years.
+
+(4) Section 30(4) of the Small Business, Enterprise and Employment Act 2015[^f00013] requires that a report published under this regulation must in particular—
+
+- (a) set out the objectives intended to be achieved by the regulatory provision referred to in paragraph (1)(a),
+- (b) assess the extent to which those objectives are achieved,
+- (c) assess whether those objectives remain appropriate, and
+- (d) if those objectives remain appropriate, assess the extent to which they could be achieved in another way which involves less onerous regulatory provision.
+
+(5) In this regulation, “**regulatory provision**” has the same meaning as in sections 28 to 32 of the Small Business, Enterprise and Employment Act 2015 (see section 32 of that Act).
+
+Rebecca Pow
+
+Parliamentary Under Secretary of State
+
+Department for Environment, Food and Rural Affairs
+
+17th January 2024
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations make provision for and in relation to a register of biodiversity gain sites (“**the biodiversity gain site register**”). “Biodiversity gain site” is defined in section 100(2) of the Environment Act 2021 (“**the 2021 Act**”).
+
+These Regulations are made in connection with Schedule 7A to the Town and Country Planning Act 1990 (“**the 1990 Act**”), which makes provision for the grant of planning permission for a development in England to be subject to a condition to secure than the biodiversity gain objective in paragraph 2 of that Schedule is met in relation to the development. That objective is met if the biodiversity value attributable to the development exceeds, by at least 10%, the pre-development biodiversity value of habitat on the land to which the planning permission relates. For this purpose, the biodiversity value attributable to a development includes (subject to further conditions in Schedule 7A to the 1990 Act) the biodiversity value of any habitat enhancement which is recorded in the biodiversity gain site register and is allocated to the development. Section 100 of the 2021 Act provides for that register to be established by regulations.
+
+Regulations 3 and 4 require Natural England to establish and maintain the biodiversity gain site register and to ensure that information in it is accessible to the public. References in these Regulations to “the register operator” are to Natural England.
+
+Regulations 5 to 11 provide for the registration of land in the biodiversity gain site register. The Regulations provide for land to be registered in relation to a particular conservation covenant or section 106 agreement. Conservation covenants are provided for by Part 7 of the 2021 Act. Section 106 agreements are instruments by which planning obligations are entered into (whether by agreement or otherwise) under section 106 of the 1990 Act. It is possible for the same land to be registered more than once in the register, but not in relation to the same conservation covenant or section 106 agreement. Regulation 6 deals with eligibility of land to be registered. Regulations 7 and 8 provide for applications to register land. Regulations 9 to 11 provide for the determination of such applications and the registration of land by the register operator.
+
+Regulations 12 to 16 apply where land is already registered in the biodiversity gain site register in relation to a particular conservation covenant or section 106 agreement. They provide for the recording on the register of any allocation of habitat enhancement on the land to a development for which planning permission has been granted. These regulations provide for applications to have such allocations recorded on the register, and for the determination of such applications by the register operator. As mentioned above, Schedule 7A to the 1990 Act provides for the biodiversity value of habitat enhancement allocated to a development to count towards the biodiversity value attributable to that development where the habitat enhancement in question is registered in the biodiversity gain site register.
+
+Regulations 17 to 19 provide for the amendment of information on register on application to the register operator.
+
+Regulations 20 to 23 allow the register operator to amend information on the register on its own initiative.
+
+Regulations 24 to 29 provide for the removal of entries from the register, on application to the register operator and on the register operator’s own initiative.
+
+Regulations 30 to 35 provide for appeals to the First-tier Tribunal against the rejection of applications, and other decisions of the register operator, under these Regulations.
+
+Regulation 36 provides that the provision of any information or document to the register operator under these Regulations for any purpose has effect only for that purpose. It also provides that decisions of the register operator under the Regulations may not be taken as indicating consent to or approval of particular works to be carried out on land.
+
+Regulation 37 provides that copyright is not infringed where the register operator does anything which is necessary to comply with its obligations to place specified documents on the biodiversity gain site register or make them accessible to the public under regulation 4.
+
+Regulations 38 to 40 contain provision about the way in which notices may be given by the register operator under these Regulations and about the postal address or email address to which such a notice is to be sent.
+
+Regulation 41 provides for the Secretary of State to carry out periodic reviews of the regulatory provision (within the meaning of section 32 of the Small Business, Enterprise and Employment Act 2015) made by these Regulations.
+
+The Biodiversity Gain Site Register (Financial Penalties and Fees) Regulations 2024 set fees for applications under these Regulations. They also give the register operator a power to impose a financial penalty where false or misleading information is supplied in connection with an application to register land in the biodiversity gain site register under these Regulations.
+
+A full impact assessment has not been produced for this instrument because no, or no significant, impact on the private, voluntary or public sector is foreseen.
+
+## Annotations
+
+[^f00001]: Footnote: [2021 c. 30](https://www.legislation.gov.uk/ukpga/2021/30). For definitions which apply for the purposes of section 100, see subsections (2) and (11) of that section.
+
+[^key-5779e748dd9d44d2683d790398686543]: Commencement: Reg. 1 in force at 12.2.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/45/regulation/1/2)
+
+[^key-dfe096f31c7016833a8044ba30ff19d0]: Commencement: Reg. 2 in force at 12.2.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/45/regulation/1/2)
+
+[^key-cb1bf8aff1b3c09861d1c9f64c1ec3e1]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2024/45/regulation/2/1) inserted (29.5.2026) by [The Biodiversity Gain Site Register (Amendment) Regulations 2026 (S.I. 2026/494)](https://www.legislation.gov.uk/uksi/2026/494), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/494/regulation/1/2), [3(a)](https://www.legislation.gov.uk/uksi/2026/494/regulation/3/a)
+
+[^f00003]: Footnote: By virtue of section 100(11) of the Environment Act 2021, “**planning obligation**” has the same meaning as in Schedule 7A to the Town and Country Planning Act 1990. See the amendment made to section 106(1) of the Town and Country Planning Act 1990 by paragraph 3(13) of Schedule 14 to the Environment Act 2021. Schedule 7A to the Town and Country Planning Act 1990 was inserted by paragraph 2 of Schedule 14 to the Environment Act 2021.
+
+[^key-a6871caca194b23c88f5a829495eaac4]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2024/45/regulation/2/1) inserted (29.5.2026) by [The Biodiversity Gain Site Register (Amendment) Regulations 2026 (S.I. 2026/494)](https://www.legislation.gov.uk/uksi/2026/494), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/494/regulation/1/2), [3(b)](https://www.legislation.gov.uk/uksi/2026/494/regulation/3/b)
+
+[^f00002]: Footnote: [1990 c. 8](https://www.legislation.gov.uk/ukpga/1990/8). Section 106 was substituted by section 12(1) of the Planning and Compensation Act [1991 (c. 34)](https://www.legislation.gov.uk/ukpga/1991/34) and was amended by section 33 of the Greater London Authority Act [2007 (c. 24)](https://www.legislation.gov.uk/ukpga/2007/24), section 174(2) of the Planning Act [2008 (c. 29)](https://www.legislation.gov.uk/ukpga/2008/29), paragraph 3 of Schedule 2 to the Growth and Infrastructure Act [2013 (c. 27)](https://www.legislation.gov.uk/ukpga/2013/27) and paragraph 3(13) of Schedule 14 to the Environment Act 2021.
+
+[^key-f076d035046edd4501752bcdbecc91f8]: Commencement: Reg. 3 in force at 12.2.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/45/regulation/1/2)
+
+[^f00004]: Footnote: Natural England was established by section 1 of the Natural Environment and Rural Communities Act [2006 (c. 16)](https://www.legislation.gov.uk/ukpga/2006/16).
+
+[^f00005]: Footnote: For the meaning of “biodiversity gain site”, see section 100(2) of the Environment Act 2021.
+
+[^key-dd26462e61496b14e3d92b6030fd6877]: Commencement: Reg. 4 in force at 12.2.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/45/regulation/1/2)
+
+[^key-7b3a06987939178fca18eae6f26bc38e]: Commencement: Reg. 5 in force at 12.2.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/45/regulation/1/2)
+
+[^f00006]: Footnote: For the meaning of “conservation covenant” see section 118(1) of the Environment Act 2021.
+
+[^key-10fee8714fa8dbdeb6a05bdfbd15356a]: Commencement: Reg. 6 in force at 12.2.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/45/regulation/1/2)
+
+[^f00007]: Footnote: “**Habitat enhancement**” means enhancement of the biodiversity of habitat: see section 100(11) of the Environment Act 2021 and paragraph 12(2) of Schedule 7A to the Town and Country Planning Act 1990.
+
+[^key-5acfd4425de1416f3d2f2e5d2c558199]: Textual amendment: Words in [reg. 6(5)](https://www.legislation.gov.uk/uksi/2024/45/regulation/6/5) inserted (29.5.2026) by [The Biodiversity Gain Site Register (Amendment) Regulations 2026 (S.I. 2026/494)](https://www.legislation.gov.uk/uksi/2026/494), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/494/regulation/1/2), [4(a)](https://www.legislation.gov.uk/uksi/2026/494/regulation/4/a)
+
+[^key-1165b4d2737c5199a49eece471d7f2f4]: Textual amendment: Words in [reg. 6(5)](https://www.legislation.gov.uk/uksi/2024/45/regulation/6/5) inserted (29.5.2026) by [The Biodiversity Gain Site Register (Amendment) Regulations 2026 (S.I. 2026/494)](https://www.legislation.gov.uk/uksi/2026/494), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/494/regulation/1/2), [4(b)](https://www.legislation.gov.uk/uksi/2026/494/regulation/4/b)
+
+[^f00008]: Footnote: By virtue of section 100(11) of the Environment Act 2021, the expressions “**development**” and “**planning permission**” have the same meanings as in Schedule 7A to the Town and Country Planning Act 1990.
+
+[^f00009]: Footnote: The local land charges register is kept by the Chief Land Registrar under section 3 of the Local Land Charges Act [1975 (c. 76)](https://www.legislation.gov.uk/ukpga/1975/76) which was substituted by paragraph 3 of Schedule 5 to the Infrastructure Act [2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7). The “appropriate local land charges register” is the register of local land charges kept by a local authority where the Chief Land Registrar has not yet assumed functions relating to the registration of local land charges for the area of that local authority: see paragraph 40 of Schedule 5 to the Infrastructure Act 2015.
+
+[^key-fae634b8ca4c866f68b84feeaba1b34b]: Commencement: Reg. 7 in force at 12.2.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/45/regulation/1/2)
+
+[^key-c893e8c0ea038023ac3ff9e9620ca09a]: Commencement: Reg. 8 in force at 12.2.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/45/regulation/1/2)
+
+[^key-944d307995b80c5439640f6a3d9fd04d]: Textual amendment: Words in [reg. 8(2)(k)](https://www.legislation.gov.uk/uksi/2024/45/regulation/8/2/k) inserted (29.5.2026) by [The Biodiversity Gain Site Register (Amendment) Regulations 2026 (S.I. 2026/494)](https://www.legislation.gov.uk/uksi/2026/494), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/494/regulation/1/2), [5(a)](https://www.legislation.gov.uk/uksi/2026/494/regulation/5/a)
+
+[^key-9dc6103aaf433c931c71714ff0239b0c]: Textual amendment: Words in [reg. 8(2)(k)(iii)](https://www.legislation.gov.uk/uksi/2024/45/regulation/8/2/k/iii) inserted (29.5.2026) by [The Biodiversity Gain Site Register (Amendment) Regulations 2026 (S.I. 2026/494)](https://www.legislation.gov.uk/uksi/2026/494), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/494/regulation/1/2), [5(b)](https://www.legislation.gov.uk/uksi/2026/494/regulation/5/b)
+
+[^f00010]: Footnote: The biodiversity value of habitat enhancement recorded in the biodiversity gain site register and allocated to a development is measured in relation to that development under the biodiversity metric published under paragraph 4 of Schedule 7A to the Town and Country Planning Act 1990: see paragraph 10 of that Schedule.
+
+[^f00011]: Footnote: Section 9(4) of the Local Land Charges Act 1975 was amended by paragraph 84(3) of Schedule 4 to the Constitutional Reform Act [2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4) and paragraph 8(5) of Schedule 5 to the Infrastructure Act 2015.
+
+[^key-e2109d34cf304ec132e496baee64ddbf]: Commencement: Reg. 9 in force at 12.2.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/45/regulation/1/2)
+
+[^f00012]: Footnote: [S.I. 2024/46](https://www.legislation.gov.uk/uksi/2024/46).
+
+[^key-654966279a8b9c35ea980058b6caa671]: Commencement: Reg. 10 in force at 12.2.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/45/regulation/1/2)
+
+[^key-bee311889709e3b80bfc6659ea6676f5]: Commencement: Reg. 11 in force at 12.2.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/45/regulation/1/2)
+
+[^key-c56f97eaaba3518ebdf257cb2f818808]: Commencement: Reg. 12 in force at 12.2.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/45/regulation/1/2)
+
+[^key-5d9f6343fc305cd0f0657fd19e59f683]: Textual amendment: Words in [reg. 12(1)(a)](https://www.legislation.gov.uk/uksi/2024/45/regulation/12/1/a) inserted (29.5.2026) by [The Biodiversity Gain Site Register (Amendment) Regulations 2026 (S.I. 2026/494)](https://www.legislation.gov.uk/uksi/2026/494), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/494/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2026/494/regulation/6)
+
+[^key-fcc991787668acbbda3b73325db0e1a6]: Commencement: Reg. 13 in force at 12.2.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/45/regulation/1/2)
+
+[^key-cfef99cdca57011713c842c76aa7d9c2]: Textual amendment: Words in [reg. 13(1)](https://www.legislation.gov.uk/uksi/2024/45/regulation/13/1) inserted (29.5.2026) by [The Biodiversity Gain Site Register (Amendment) Regulations 2026 (S.I. 2026/494)](https://www.legislation.gov.uk/uksi/2026/494), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/494/regulation/1/2), [7(a)](https://www.legislation.gov.uk/uksi/2026/494/regulation/7/a)
+
+[^key-10632d776031a1c965eb292c133f892d]: Textual amendment: Words in [reg. 13(1)(h)](https://www.legislation.gov.uk/uksi/2024/45/regulation/13/1/h) inserted (29.5.2026) by [The Biodiversity Gain Site Register (Amendment) Regulations 2026 (S.I. 2026/494)](https://www.legislation.gov.uk/uksi/2026/494), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/494/regulation/1/2), [7(b)](https://www.legislation.gov.uk/uksi/2026/494/regulation/7/b)
+
+[^key-93d295001b0dbf1db74bff6de26c6253]: Commencement: Reg. 14 in force at 12.2.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/45/regulation/1/2)
+
+[^key-42a0c514db5fd07e24e7b4f0587bc834]: Commencement: Reg. 15 in force at 12.2.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/45/regulation/1/2)
+
+[^key-601ed400e70e07322fbb066b1ef33067]: Commencement: Reg. 16 in force at 12.2.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/45/regulation/1/2)
+
+[^key-cb817aca4817263e90f57bc4156f08ac]: Commencement: Reg. 17 in force at 12.2.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/45/regulation/1/2)
+
+[^key-f9a55a02c205d74275d433e198edd3ae]: Commencement: Reg. 18 in force at 12.2.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/45/regulation/1/2)
+
+[^key-f976d5abda36ac9ace161fe94d516dca]: Commencement: Reg. 19 in force at 12.2.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/45/regulation/1/2)
+
+[^key-5f98a75f6ba64adb83d09a533e7fe583]: Commencement: Reg. 20 in force at 12.2.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/45/regulation/1/2)
+
+[^key-c91cdc974d9f5840da33790a756a4088]: Commencement: Reg. 21 in force at 12.2.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/45/regulation/1/2)
+
+[^key-e965a6db8a8683716a48239323b5a7e7]: Commencement: Reg. 22 in force at 12.2.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/45/regulation/1/2)
+
+[^key-27fb13d86050a8818f627a0be2058af7]: Commencement: Reg. 23 in force at 12.2.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/45/regulation/1/2)
+
+[^key-de04280a9f7186dab5ba83b714627231]: Commencement: Reg. 24 in force at 12.2.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/45/regulation/1/2)
+
+[^key-c096b29303ac60c54e8b2a61b3994333]: Commencement: Reg. 25 in force at 12.2.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/45/regulation/1/2)
+
+[^key-e304c9757930c2b17b8f922af66b3798]: Commencement: Reg. 26 in force at 12.2.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/45/regulation/1/2)
+
+[^key-e26cb74412fc45ebfb09deeb9c7cedae]: Commencement: Reg. 27 in force at 12.2.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/45/regulation/1/2)
+
+[^key-549ba742b2093d570f7b10391748fb3a]: Commencement: Reg. 28 in force at 12.2.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/45/regulation/1/2)
+
+[^key-7b5d47a1722ab83642247a65448b5e91]: Commencement: Reg. 29 in force at 12.2.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/45/regulation/1/2)
+
+[^key-290b48de66908eefefef628910474d8b]: Commencement: Reg. 30 in force at 12.2.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/45/regulation/1/2)
+
+[^key-9d854fd77dcd50812b786eab0a8f92c4]: Commencement: Reg. 31 in force at 12.2.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/45/regulation/1/2)
+
+[^key-8902ee9336270aa17e610c51752e9303]: Commencement: Reg. 32 in force at 12.2.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/45/regulation/1/2)
+
+[^key-7b686aa0eb80ce630540160945ef5dd4]: Commencement: Reg. 33 in force at 12.2.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/45/regulation/1/2)
+
+[^key-709105cab83d1130b79b3e2a832c8bb8]: Commencement: Reg. 34 in force at 12.2.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/45/regulation/1/2)
+
+[^key-281863b6bd9fd05aa13bc00f1dcdd0a3]: Commencement: Reg. 35 in force at 12.2.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/45/regulation/1/2)
+
+[^key-30a57fd50268c8699d50d39ff8061dfc]: Commencement: Reg. 36 in force at 12.2.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/45/regulation/1/2)
+
+[^key-2743f67fd3849c6af64a1e4057ea403d]: Commencement: Reg. 37 in force at 12.2.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/45/regulation/1/2)
+
+[^key-e073978e8c422dc243227cf3ffd88f97]: Commencement: Reg. 38 in force at 12.2.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/45/regulation/1/2)
+
+[^key-b9bb9c65f32d92a90c85b44a680f15c8]: Commencement: Reg. 39 in force at 12.2.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/45/regulation/1/2)
+
+[^key-395129f4752171b2a407f5bea6f61abe]: Commencement: Reg. 40 in force at 12.2.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/45/regulation/1/2)
+
+[^key-ce8eb8a3da0fbf7384d62b7d72c71f55]: Commencement: Reg. 41 in force at 12.2.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/45/regulation/1/2)
+
+[^f00013]: Footnote: [2015 c. 26](https://www.legislation.gov.uk/ukpga/2015/26).

@@ -1,0 +1,330 @@
+---
+title: European Parliament (Pay and Pensions) Act 1979
+id: ukpga/1979/50
+type: UnitedKingdomPublicGeneralAct
+category: primary
+status: revised
+made_date: '1979-07-26'
+text_date: '2013-11-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/1979/50
+pdf_urls:
+- http://www.legislation.gov.uk/ukpga/1979/50/pdfs/ukpga_19790050_en.pdf
+- http://www.legislation.gov.uk/ukpga/1979/50/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# European Parliament (Pay and Pensions) Act 1979
+
+> Text as at 2013-11-01.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+European Parliament (Pay and Pensions) Act 1979
+
+1979 c.50
+
+An Act to make provision for the payment of salaries and pensions, and the provision of allowances and facilities, to or in respect of Representatives to the Assembly of the European Communities.
+
+\[26th July 1979\][^c11252371]
+
+## 1. Salaries of Representatives.
+
+(1) A salary shall be payable to every Representative in accordance with this section.
+
+(2) The yearly rate of the salary payable to a Representative for any period shall be the same as that of the salary payable for that period, under section 4 of the Parliamentary Standards Act 2009, to a Member who does not hold an office or position specified in a resolution of the House of Commons for the purposes of section 4A(2) of that Act (higher salaries for holders of specified offices or positions).[^key-8f8319f37d81d84243279a1c11863229]
+
+(3) The salary payable under this section to a Representative shall be payable—
+
+- (a) in the case of a Representative elected at a general election of representatives to the Assembly, for the period beginning with the opening of the first session of the Assembly following his election and ending with—
+  - (i) the day before the opening of the first session of the Assembly following the next such general election; or
+  - (ii) if he ceases to be a Representative before that day, his last day as a Representative;
+- (b) in the case of a Representative elected otherwise than at such a general election, for the period beginning with the day of his election and ending as mentioned in paragraph (a).
+
+(4) The salary payable under this section to a Representative shall be payable in sterling monthly in arrears, the payments being made into such account at a bank in the United Kingdom as he may nominate for the purpose.
+
+(5) If the rate of a Member’s ordinary salary for any period is changed retrospectively, the yearly rates given for that period by subsection (2) shall change accordingly.
+
+(6)[^c20286381] This section does not apply on or after 14 July 2009, except in relation to a Representative who is an opted-out Representative.
+
+(7) An “opted-out Representative” is a Representative who exercises the option conferred by Article 25 of the Statute for Members of the European Parliament (European Parliament Decision [2005/684/EC](https://www.legislation.gov.uk/european/decision/2005/0684), Euratom) (existing Representatives may opt out of new arrangements for remuneration from 14 July 2009).
+
+## 2. Allowances.
+
+[^c20286491]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 3. Resettlement grants to persons ceasing to be Representatives.[^c11252441]
+
+(1)[^c11252451][^key-7f4a4b0584d388d43a092db9197f1462] The IPSA may make a scheme providing for allowances to be payable to persons to whom this section applies, in connection with their ceasing to be Representatives.
+
+(2) It may do so only if a scheme under section 5 of the Parliamentary Standards Act 2009 (MPs' allowances scheme) makes provision for allowances to be payable in connection with persons ceasing to be Members on a dissolution of Parliament.
+
+(3) A scheme under this section must make provision which is as nearly equivalent to the provision made by the scheme under section 5 of that Act as the IPSA considers practicable.
+
+(3A) The IPSA must send to the Speaker of the House of Commons for laying before both Houses of Parliament—
+
+- (a) any scheme made by it under this section, and
+- (b) a statement of the reasons for making the scheme.
+
+(3B) When the scheme and the statement of reasons have been laid, the IPSA must publish them in a way it considers appropriate.
+
+(3C) This section applies to a person who is a Representative immediately before the end of a five-year period, and either—
+
+- (a) does not stand for election to the European Parliament at the general election of representatives to the European Parliament held in that period, or
+- (b) does so stand at that election (whether for the same or a different electoral region) and is not elected.
+
+(3D) A scheme made by the IPSA under this section may amend or revoke any previous scheme made by the IPSA under this section.
+
+(4) In this section “five-year period" means a period of five years for which Representatives have been elected to the European Parliament; but if any such period is extended or curtailed, the references in this section to the end of that period shall be construed accordingly.
+
+(5)[^c20286531] This section does not apply after 14 July 2009, except in relation to a Representative who is an opted-out Representative.
+
+## 3A. Power to amend section 3.[^key-dacba238cc7cb49acc6e8dcc88424233]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 4. Pensions.
+
+(1) The IPSA may make a scheme containing[^key-4918b694631d167d3f8489c772b72556] provision with respect to the pensions which, subject to the fulfilment of such requirements and conditions as may be prescribed in the scheme[^key-4a6efd560cbf9f0e1ca5ce734c8dca67], are to be or may be paid by the Treasury to or in respect of persons who have ceased to be Representatives.
+
+(2) Any such provision shall include provision for the appointment of persons as managers to perform such functions in connection with the administration of provisions contained in a scheme[^key-360b07766bcdf8433318b9c6217dabfa] under this section as may be conferred on them by any such scheme[^key-542e7921780f58324a6a339e991f132a], and may include provision for the removal of managers so appointed.
+
+(3) Without prejudice to the generality of subsection (1), a scheme[^key-05ea2429156c2ea663d9e77cbaa9f4e5] under this section may
+
+- (a) make provision as to the periods of service as a Representative which are to be taken into account for pension purposes;
+- (b) provide for deductions to be made by the Treasury from Representatives’ salaries at a prescribed rate by way of contributions towards the cost of providing the pensions payable by virtue of this section;
+- (c) provide for transfer values to be paid or received by the Treasury;
+- (d) make the opinion, satisfaction or approval of the managers appointed in pursuance of subsection (2) material for the purposes of any provision of the scheme[^key-e44805937472ca67045314c0aeee23dd];
+- (e) make different provision with respect to different classes of persons and different circumstances;
+- (f) include transitional and other supplemental provisions;
+- (g) be made so as to have effect from a date before the making of the scheme[^key-c32838fca944b9a2eb9e485e7294a740].
+
+(3A)[^c20286961] A scheme[^key-e8f8ac866e6077d02bf5fa774f1e9f56] under this section shall not make provision for any period of service as a Representative on or after 14 July 2009 to be taken into account for pension purposes, except in relation to a Representative who is an opted-out Representative.
+
+(3B)[^key-6db3a37800a5c8483327b2495b8e57b4] Where a scheme under this section provides for the normal or deferred pension age of a person under the scheme to be the same as the person's state pension age, the scheme may make provision for a change in the person's normal or deferred pension age in consequence of such provision to apply in relation to relevant accrued benefits (as well as other benefits).
+
+(3C) In subsection (3B)—
+
+- (a) “**normal pension age**”, in relation to a person and a scheme, means the earliest age at which a person with service as a Representative is entitled to receive benefits (without actuarial adjustment) on ceasing service as a Representative (and disregarding any special provision as to early payment of benefits on the grounds of ill-health or otherwise);
+- (b) “**deferred pension age**”, in relation to a person and a scheme, means the earliest age at which a person with service as a Representative is entitled to receive benefits under the scheme (without actuarial adjustment) after ceasing service as a Representative at a time before normal pension age (and disregarding any special provision as to early payment of benefits on the grounds of ill-health or otherwise);
+- (c) “**state pension age**”, in relation to a person, means the person's pensionable age as specified from time to time in Part 1 of Schedule 4 to the Pensions Act 1995;
+- (d) “**relevant accrued benefits**”, in relation to a scheme, means benefits accrued after the coming into force of provision under subsection (3B) which may be paid to or in respect of the person under the scheme and to which the normal or deferred pension age is relevant.
+
+(3D) A scheme under this section may provide for any statutory provision relating to any matter connected with the pensions payable to or in respect of Members to have effect with respect to or in connection with Representatives, with such additions, omissions, amendments or other modifications as may be specified in the scheme.
+
+In this subsection “**statutory provision**” means any provision contained in an Act or in any instrument made under an Act (including an Act or instrument passed or made after the coming into force of this subsection).
+
+(4)[^key-26555bb0f4fe722d43b4b010f12f98e9] Before making a scheme under this section the IPSA must consult—
+
+- (a) the Treasury,
+- (b) the Minister for the Civil Service,
+- (c) persons it considers to represent those likely to be affected by the scheme,
+- (d) the Government Actuary, and
+- (e) any other person it considers appropriate.
+
+(4A) The IPSA must send to the Speaker of the House of Commons for laying before both Houses of Parliament—
+
+- (a) any scheme made by it under this section, and
+- (b) a statement of the reasons for making the scheme.
+
+(4B) When the scheme and the statement of reasons have been laid, the IPSA must publish them in a way it considers appropriate.
+
+(5)[^key-8893dba14b0d6c61b1a2c907f9e71bf8] The IPSA must from time to time prepare a report on the operation of any provisions in force under this section, and send it to the Speaker of the House of Commons for laying before both Houses of Parliament.
+
+(6) As regards such reports—
+
+- (a) the first shall be so laid not more than five years after the coming into force of the first order made under this section;
+- (b) each subsequent report shall be so laid not more than five years after the date by which the previous report was so laid; and
+- (c) each report shall cover the period since the previous report or, in the case of the first report, since the coming into force of the first order under this section.
+
+(7)[^c11252521] In Schedule 2 to the [^c11252531]Pensions (Increase) Act 1971 (which specifies the pensions referred to in that Act as “official pensions"), after paragraph 3A there shall be inserted —
+
+> **European Assembly**
+>
+> **3B.** A pension payable under an order made under section 4 of the European Assembly (Pay and Pensions) Act 1979.
+
+.
+
+(8)[^key-511d02ef13a07d28be087dfca0b1f876] A scheme made by the IPSA under this section may amend or revoke any previous scheme made by the IPSA under this section.
+
+## 5. Salary for purpose of calculating pension benefits.[^key-4058ae865ea44975f6eae9b451c0258d]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 6. Provision for payment of block transfer value into another pension scheme.
+
+(1) [^c11252571]. . . The IPSA may, with the consent of the Treasury and the Minister for the Civil Service[^key-2e079104694de3fff71e3299b5de9a8a] direct that, on a specified date, there shall be paid into or for the purposes of a specified overseas fund or scheme a specified sum representing the aggregate value on that date of the accrued pension rights of all Representatives and other persons under the relevant pension provisions, excluding (if the direction[^key-9fbbbaf3b9bd334e4aa114b3aa67e887] so provides) those of persons of any specified class.
+
+(2) Before giving a direction[^key-9a003df893205e75470c4d010f60d3ef] under this section the IPSA[^key-fc672296a3c7bf5e05c70e4de4e6f7dc] shall consult with—
+
+- (a) the managers appointed under the relevant pension provisions; and
+- (b) such persons representing the interests of Representatives and other persons having pension rights under the relevant pension provisions as it[^key-caa8818a1b3b1d4ab18ac9745832230e] considers appropriate,
+
+and shall not give such a direction[^key-f7e50ff93af6a04d386a74d33ec86c06] unless it has been informed by or on behalf of the persons administering the overseas fund or scheme in question that they are willing to accept the sum proposed to be specified in the direction[^key-8ea3ed3a739f246127c75be44b056c1b].
+
+(3) For the purposes of this section the aggregate value on any date of the accrued pension rights mentioned in subsection (1) shall be taken to be such sum as for those purposes may be certified by the Government Actuary.
+
+(4) In this section—
+
+- “**overseas fund or scheme**” means a fund or scheme which is established outside the United Kingdom or wholly or primarily administered outside the United Kingdom and which is approved by the Commissioners of Inland Revenue [^c11252601]. . . for the purposes of this section;
+- “**the relevant pension provisions**”, in relation to a direction[^key-84f927e34a78ece688bbc50bb6d934a2] under this section, means all such provisions contained in a scheme[^key-e642ca1294237baaf38bd824042ebbc1] made under section 4 as are in force when the direction is given[^key-e40158f2cb0daa1e8a305b46baa2f951].
+
+## 7. Expenses and receipts.
+
+(1) There shall be charged on and paid out of the Consolidated Fund—
+
+- (a) all salaries payable under section 1;
+- (b) any allowance[^key-84e9abbf3d4aec80eb7a2686a87b007c] payable under section 3;
+- (c) all pensions and other sums payable by the Treasury under the provisions of a scheme[^key-430fcba2ec995b18bbe9dc5c64a5f4be] made under section 4 [^key-c8e6f787dec26b2adabed4196df3159e]...; and
+- (d) any sum directed to be paid as mentioned in subsection (1) of section 6 by a direction[^key-3c3b97d66da55651e5df618841d4bb7b] under that section.
+
+(2)[^c11252641] Any sums required by a secondary Class 1 contributor for the purpose of paying any secondary Class 1 contributions which are payable by him in respect of an earner in consequence of the earner’s employment in the office of Representative for the electoral region[^c11252651] of Northern Ireland shall be paid out of the Consolidated Fund of the United Kingdom.
+
+Expressions used in this subsection and Part I of the [^c11252661]Social Security (Northern Ireland) Act 1975 have the same meanings in this subsection as in that Part.
+
+(3) There shall be paid out of money provided by Parliament—
+
+- (a) [^c20286981]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) any administrative expenses incurred by a government department in consequence of this Act; and
+- (c) any increase attributable to this Act in the sums payable out of money so provided under any other Act.
+
+(4) Any sums received by a government department in consequence of this Act shall be paid into the Consolidated Fund.
+
+## 8. Interpretation and orders.
+
+(1)[^c11252701] In this Act—
+
+- . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c11252711]
+- electoral region[^c11252721] means an Assembly electoral region;
+- “[^key-25e333d9e698854b78128593fbde69d5]**the IPSA**” means the Independent Parliamentary Standards Authority;
+- [^key-424cbafff6bd4f022b4db60d03a8f6a2]...
+- “**Member**” means a Member of the House of Commons;
+- [^key-0c1f4b5a5c0241ca0b580cae7164a45d]...
+- “[^c20287011]**opted-out Representative**” has the meaning given by section 1(7);
+- “**pension**” includes a gratuity, and “**pension rights**” shall be construed accordingly;
+- “**Representative**” means a representative to the Assembly elected for an electoral region in the United Kingdom.
+
+(2)[^key-2b887e165ff9200d03426070045c29d0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 9. Short title and extent.
+
+(1) This Act may be cited as the European Parliament[^c11252741] (Pay and Pensions) Act 1979.
+
+(2) This Act extends to Northern Ireland.
+
+## Annotations
+
+[^c11252371]: Modification: By reason of the retrospective amendment of s. 9(1) of this Act by [European Communities (Amendment) Act 1986 (c. 58, SIF 29:5)](https://www.legislation.gov.uk/ukpga/1986/58), [s. 3(1)(a)(2)](https://www.legislation.gov.uk/ukpga/1986/58/section/3/1/a/2)(*b*)(3) the short title, the European Assembly (Pay and Pensions) Act 1979, is now retrospectively the European Parliament (Pay and Pensions) Act 1979
+
+    Power to transfer functions conferred (27.12.1995) by [S.I. 1995/2995](https://www.legislation.gov.uk/uksi/1995/2995), [art. 2(1)](https://www.legislation.gov.uk/uksi/1995/2995/article/2/1)
+
+[^key-8f8319f37d81d84243279a1c11863229]: Textual amendment: Words in [s. 1(2)](https://www.legislation.gov.uk/ukpga/1979/50/section/1/2) substituted (24.5.2011) by [Constitutional Reform and Governance Act 2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25), [s. 52](https://www.legislation.gov.uk/ukpga/2010/25/section/52), [Sch. 5 para. 8(1)](https://www.legislation.gov.uk/ukpga/2010/25/schedule/5/paragraph/8/1); [S.I. 2011/1274](https://www.legislation.gov.uk/uksi/2011/1274), [art. 2(b)](https://www.legislation.gov.uk/uksi/2011/1274/article/2/b)
+
+[^c20286381]: Textual amendment: S. 1(6)(7) inserted (14.7.2009) by [The European Parliament (Pay and Pensions) Regulations 2009 (S.I. 2009/1485)](https://www.legislation.gov.uk/uksi/2009/1485), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2009/1485/regulation/2/2)
+
+[^c20286491]: Textual amendment: [S. 2](https://www.legislation.gov.uk/ukpga/1979/50/section/2) omitted (14.7.2009) by virtue of [The European Parliament (Pay and Pensions) Regulations 2009 (S.I. 2009/1485)](https://www.legislation.gov.uk/uksi/2009/1485), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2009/1485/regulation/2/3)
+
+[^c11252441]: Textual amendment: S. 3 substituted (15.7.1994) by [S.I. 1994/1663](https://www.legislation.gov.uk/uksi/1994/1663), [art. 2](https://www.legislation.gov.uk/uksi/1994/1663/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/1994/1663/article/3))
+
+[^c11252451]: Modification: S. 3(1) continued (24.10.2002) by [2002 c. 24](https://www.legislation.gov.uk/ukpga/2002/24), [ss. 15](https://www.legislation.gov.uk/ukpga/2002/24/section/15), [18(2)](https://www.legislation.gov.uk/ukpga/2002/24/section/18/2), [Sch. 3 para. 4(a)](https://www.legislation.gov.uk/ukpga/2002/24/schedule/3/paragraph/4/a)
+
+[^key-7f4a4b0584d388d43a092db9197f1462]: Textual amendment: S. 3(1)-(3D) substituted for s. 3(1)-(3) (24.5.2011) by [Constitutional Reform and Governance Act 2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25), [ss. 39(2)](https://www.legislation.gov.uk/ukpga/2010/25/section/39/2), [52](https://www.legislation.gov.uk/ukpga/2010/25/section/52); [S.I. 2011/1274](https://www.legislation.gov.uk/uksi/2011/1274), [art. 2(c)](https://www.legislation.gov.uk/uksi/2011/1274/article/2/c)
+
+[^c20286531]: Textual amendment: S. 3(5) inserted (14.7.2009) by [The European Parliament (Pay and Pensions) Regulations 2009 (S.I. 2009/1485)](https://www.legislation.gov.uk/uksi/2009/1485), [reg. 2(4)](https://www.legislation.gov.uk/uksi/2009/1485/regulation/2/4)
+
+[^key-dacba238cc7cb49acc6e8dcc88424233]: Textual amendment: [S. 3A](https://www.legislation.gov.uk/ukpga/1979/50/section/3A) omitted (24.5.2011) by virtue of [Constitutional Reform and Governance Act 2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25), [ss. 39(3)](https://www.legislation.gov.uk/ukpga/2010/25/section/39/3), [52](https://www.legislation.gov.uk/ukpga/2010/25/section/52); [S.I. 2011/1274](https://www.legislation.gov.uk/uksi/2011/1274), [art. 2(c)](https://www.legislation.gov.uk/uksi/2011/1274/article/2/c)
+
+[^key-4918b694631d167d3f8489c772b72556]: Textual amendment: Words in s. 4(1) substituted (1.11.2013) by [Constitutional Reform and Governance Act 2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25), [s. 52](https://www.legislation.gov.uk/ukpga/2010/25/section/52), [Sch. 6 para. 38(2)(a)](https://www.legislation.gov.uk/ukpga/2010/25/schedule/6/paragraph/38/2/a); [S.I. 2013/2826](https://www.legislation.gov.uk/uksi/2013/2826), [art. 2(b)(ii)](https://www.legislation.gov.uk/uksi/2013/2826/article/2/b/ii) (with [art. 3](https://www.legislation.gov.uk/uksi/2013/2826/article/3))
+
+[^key-4a6efd560cbf9f0e1ca5ce734c8dca67]: Textual amendment: Words in s. 4(1) substituted (1.11.2013) by [Constitutional Reform and Governance Act 2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25), [s. 52](https://www.legislation.gov.uk/ukpga/2010/25/section/52), [Sch. 6 para. 38(2)(b)](https://www.legislation.gov.uk/ukpga/2010/25/schedule/6/paragraph/38/2/b); [S.I. 2013/2826](https://www.legislation.gov.uk/uksi/2013/2826), [art. 2(b)(ii)](https://www.legislation.gov.uk/uksi/2013/2826/article/2/b/ii) (with [art. 3](https://www.legislation.gov.uk/uksi/2013/2826/article/3))
+
+[^key-360b07766bcdf8433318b9c6217dabfa]: Textual amendment: Words in s. 4(2) substituted (1.11.2013) by [Constitutional Reform and Governance Act 2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25), [s. 52](https://www.legislation.gov.uk/ukpga/2010/25/section/52), [Sch. 6 para. 38(3)(a)](https://www.legislation.gov.uk/ukpga/2010/25/schedule/6/paragraph/38/3/a); [S.I. 2013/2826](https://www.legislation.gov.uk/uksi/2013/2826), [art. 2(b)(ii)](https://www.legislation.gov.uk/uksi/2013/2826/article/2/b/ii) (with [art. 3](https://www.legislation.gov.uk/uksi/2013/2826/article/3))
+
+[^key-542e7921780f58324a6a339e991f132a]: Textual amendment: Word in s. 4(2) substituted (1.11.2013) by [Constitutional Reform and Governance Act 2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25), [s. 52](https://www.legislation.gov.uk/ukpga/2010/25/section/52), [Sch. 6 para. 38(3)(b)](https://www.legislation.gov.uk/ukpga/2010/25/schedule/6/paragraph/38/3/b); [S.I. 2013/2826](https://www.legislation.gov.uk/uksi/2013/2826), [art. 2(b)(ii)](https://www.legislation.gov.uk/uksi/2013/2826/article/2/b/ii) (with [art. 3](https://www.legislation.gov.uk/uksi/2013/2826/article/3))
+
+[^key-05ea2429156c2ea663d9e77cbaa9f4e5]: Textual amendment: Words in s. 4(3) substituted (1.11.2013) by [Constitutional Reform and Governance Act 2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25), [s. 52](https://www.legislation.gov.uk/ukpga/2010/25/section/52), [Sch. 6 para. 38(4)(a)](https://www.legislation.gov.uk/ukpga/2010/25/schedule/6/paragraph/38/4/a); [S.I. 2013/2826](https://www.legislation.gov.uk/uksi/2013/2826), [art. 2(b)(ii)](https://www.legislation.gov.uk/uksi/2013/2826/article/2/b/ii) (with [art. 3](https://www.legislation.gov.uk/uksi/2013/2826/article/3))
+
+[^key-e44805937472ca67045314c0aeee23dd]: Textual amendment: Word in s. 4(3)(d) substituted (1.11.2013) by [Constitutional Reform and Governance Act 2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25), [s. 52](https://www.legislation.gov.uk/ukpga/2010/25/section/52), [Sch. 6 para. 38(4)(b)](https://www.legislation.gov.uk/ukpga/2010/25/schedule/6/paragraph/38/4/b); [S.I. 2013/2826](https://www.legislation.gov.uk/uksi/2013/2826), [art. 2(b)(ii)](https://www.legislation.gov.uk/uksi/2013/2826/article/2/b/ii) (with [art. 3](https://www.legislation.gov.uk/uksi/2013/2826/article/3))
+
+[^key-c32838fca944b9a2eb9e485e7294a740]: Textual amendment: Word in s. 4(3)(g) substituted (1.11.2013) by [Constitutional Reform and Governance Act 2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25), [s. 52](https://www.legislation.gov.uk/ukpga/2010/25/section/52), [Sch. 6 para. 38(4)(b)](https://www.legislation.gov.uk/ukpga/2010/25/schedule/6/paragraph/38/4/b); [S.I. 2013/2826](https://www.legislation.gov.uk/uksi/2013/2826), [art. 2(b)(ii)](https://www.legislation.gov.uk/uksi/2013/2826/article/2/b/ii) (with [art. 3](https://www.legislation.gov.uk/uksi/2013/2826/article/3))
+
+[^c20286961]: Textual amendment: S. 4(3A) inserted (14.7.2009) by [The European Parliament (Pay and Pensions) Regulations 2009 (S.I. 2009/1485)](https://www.legislation.gov.uk/uksi/2009/1485), [reg. 2(6)](https://www.legislation.gov.uk/uksi/2009/1485/regulation/2/6)
+
+[^key-e8f8ac866e6077d02bf5fa774f1e9f56]: Textual amendment: Words in s. 4(3A) substituted (1.11.2013) by [Constitutional Reform and Governance Act 2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25), [s. 52](https://www.legislation.gov.uk/ukpga/2010/25/section/52), [Sch. 6 para. 38(5)](https://www.legislation.gov.uk/ukpga/2010/25/schedule/6/paragraph/38/5); [S.I. 2013/2826](https://www.legislation.gov.uk/uksi/2013/2826), [art. 2(b)(ii)](https://www.legislation.gov.uk/uksi/2013/2826/article/2/b/ii) (with [art. 3](https://www.legislation.gov.uk/uksi/2013/2826/article/3))
+
+[^key-6db3a37800a5c8483327b2495b8e57b4]: Textual amendment: S. 4(3B)-(3D) inserted (1.11.2013) by [Public Service Pensions Act 2013 (c. 25)](https://www.legislation.gov.uk/ukpga/2013/25), [ss. 35](https://www.legislation.gov.uk/ukpga/2013/25/section/35), [41(2)](https://www.legislation.gov.uk/ukpga/2013/25/section/41/2) (with [Sch. 11 para. 8](https://www.legislation.gov.uk/ukpga/2013/25/schedule/11/paragraph/8)); [S.I. 2013/2818](https://www.legislation.gov.uk/uksi/2013/2818), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2013/2818/article/2/1/d)
+
+[^key-26555bb0f4fe722d43b4b010f12f98e9]: Textual amendment: S. 4(4)-(4B) substituted for s. 4(4) (1.11.2013) by [Constitutional Reform and Governance Act 2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25), [s. 52](https://www.legislation.gov.uk/ukpga/2010/25/section/52), [Sch. 6 para. 38(6)](https://www.legislation.gov.uk/ukpga/2010/25/schedule/6/paragraph/38/6); [S.I. 2013/2826](https://www.legislation.gov.uk/uksi/2013/2826), [art. 2(b)(ii)](https://www.legislation.gov.uk/uksi/2013/2826/article/2/b/ii) (with [art. 3](https://www.legislation.gov.uk/uksi/2013/2826/article/3))
+
+[^key-8893dba14b0d6c61b1a2c907f9e71bf8]: Textual amendment: S. 4(5) substituted (1.11.2013) by [Constitutional Reform and Governance Act 2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25), [s. 52](https://www.legislation.gov.uk/ukpga/2010/25/section/52), [Sch. 6 para. 38(7)](https://www.legislation.gov.uk/ukpga/2010/25/schedule/6/paragraph/38/7); [S.I. 2013/2826](https://www.legislation.gov.uk/uksi/2013/2826), [art. 2(b)(ii)](https://www.legislation.gov.uk/uksi/2013/2826/article/2/b/ii) (with [art. 3](https://www.legislation.gov.uk/uksi/2013/2826/article/3))
+
+[^c11252521]: Modification: The text of s. 4(7) is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
+
+[^c11252531]: Marginal citation: [1971 c. 56](https://www.legislation.gov.uk/ukpga/1971/56).
+
+[^key-511d02ef13a07d28be087dfca0b1f876]: Textual amendment: S. 4(8) inserted (1.11.2013) by [Constitutional Reform and Governance Act 2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25), [s. 52](https://www.legislation.gov.uk/ukpga/2010/25/section/52), [Sch. 6 para. 38(8)](https://www.legislation.gov.uk/ukpga/2010/25/schedule/6/paragraph/38/8); [S.I. 2013/2826](https://www.legislation.gov.uk/uksi/2013/2826), [art. 2(b)(ii)](https://www.legislation.gov.uk/uksi/2013/2826/article/2/b/ii) (with [art. 3](https://www.legislation.gov.uk/uksi/2013/2826/article/3))
+
+[^key-4058ae865ea44975f6eae9b451c0258d]: Textual amendment: [S. 5](https://www.legislation.gov.uk/ukpga/1979/50/section/5) omitted (24.5.2011) by virtue of [Constitutional Reform and Governance Act 2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25), [s. 52](https://www.legislation.gov.uk/ukpga/2010/25/section/52), [Sch. 5 para. 8(2)](https://www.legislation.gov.uk/ukpga/2010/25/schedule/5/paragraph/8/2); [S.I. 2011/1274](https://www.legislation.gov.uk/uksi/2011/1274), [art. 2(b)](https://www.legislation.gov.uk/uksi/2011/1274/article/2/b)
+
+[^c11252571]: Textual amendment: Words in s. 6(1) repealed (27.12.1995) by [S.I. 1995/2995](https://www.legislation.gov.uk/uksi/1995/2995), [art. 2(3)](https://www.legislation.gov.uk/uksi/1995/2995/article/2/3) (with [art. 3](https://www.legislation.gov.uk/uksi/1995/2995/article/3))
+
+[^key-2e079104694de3fff71e3299b5de9a8a]: Textual amendment: Words in s. 6(1) substituted (1.11.2013) by [Constitutional Reform and Governance Act 2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25), [s. 52](https://www.legislation.gov.uk/ukpga/2010/25/section/52), [Sch. 6 para. 39(2)(a)](https://www.legislation.gov.uk/ukpga/2010/25/schedule/6/paragraph/39/2/a); [S.I. 2013/2826](https://www.legislation.gov.uk/uksi/2013/2826), [art. 2(b)(ii)](https://www.legislation.gov.uk/uksi/2013/2826/article/2/b/ii) (with [art. 3](https://www.legislation.gov.uk/uksi/2013/2826/article/3))
+
+[^key-9fbbbaf3b9bd334e4aa114b3aa67e887]: Textual amendment: Words in s. 6(1) substituted (1.11.2013) by [Constitutional Reform and Governance Act 2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25), [s. 52](https://www.legislation.gov.uk/ukpga/2010/25/section/52), [Sch. 6 para. 39(2)(b)](https://www.legislation.gov.uk/ukpga/2010/25/schedule/6/paragraph/39/2/b); [S.I. 2013/2826](https://www.legislation.gov.uk/uksi/2013/2826), [art. 2(b)(ii)](https://www.legislation.gov.uk/uksi/2013/2826/article/2/b/ii) (with [art. 3](https://www.legislation.gov.uk/uksi/2013/2826/article/3))
+
+[^key-9a003df893205e75470c4d010f60d3ef]: Textual amendment: Words in s. 6(2) substituted (1.11.2013) by [Constitutional Reform and Governance Act 2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25), [s. 52](https://www.legislation.gov.uk/ukpga/2010/25/section/52), [Sch. 6 para. 39(3)(a)](https://www.legislation.gov.uk/ukpga/2010/25/schedule/6/paragraph/39/3/a); [S.I. 2013/2826](https://www.legislation.gov.uk/uksi/2013/2826), [art. 2(b)(ii)](https://www.legislation.gov.uk/uksi/2013/2826/article/2/b/ii) (with [art. 3](https://www.legislation.gov.uk/uksi/2013/2826/article/3))
+
+[^key-fc672296a3c7bf5e05c70e4de4e6f7dc]: Textual amendment: Words in s. 6(2) substituted (1.11.2013) by [Constitutional Reform and Governance Act 2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25), [s. 52](https://www.legislation.gov.uk/ukpga/2010/25/section/52), [Sch. 6 para. 39(3)(b)](https://www.legislation.gov.uk/ukpga/2010/25/schedule/6/paragraph/39/3/b); [S.I. 2013/2826](https://www.legislation.gov.uk/uksi/2013/2826), [art. 2(b)(ii)](https://www.legislation.gov.uk/uksi/2013/2826/article/2/b/ii) (with [art. 3](https://www.legislation.gov.uk/uksi/2013/2826/article/3))
+
+[^key-caa8818a1b3b1d4ab18ac9745832230e]: Textual amendment: Words in s. 6(2) substituted (1.11.2013) by [Constitutional Reform and Governance Act 2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25), [s. 52](https://www.legislation.gov.uk/ukpga/2010/25/section/52), [Sch. 6 para. 39(3)(c)](https://www.legislation.gov.uk/ukpga/2010/25/schedule/6/paragraph/39/3/c); [S.I. 2013/2826](https://www.legislation.gov.uk/uksi/2013/2826), [art. 2(b)(ii)](https://www.legislation.gov.uk/uksi/2013/2826/article/2/b/ii) (with [art. 3](https://www.legislation.gov.uk/uksi/2013/2826/article/3))
+
+[^key-f7e50ff93af6a04d386a74d33ec86c06]: Textual amendment: Words in s. 6(2) substituted (1.11.2013) by [Constitutional Reform and Governance Act 2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25), [s. 52](https://www.legislation.gov.uk/ukpga/2010/25/section/52), [Sch. 6 para. 39(3)(d)](https://www.legislation.gov.uk/ukpga/2010/25/schedule/6/paragraph/39/3/d); [S.I. 2013/2826](https://www.legislation.gov.uk/uksi/2013/2826), [art. 2(b)(ii)](https://www.legislation.gov.uk/uksi/2013/2826/article/2/b/ii) (with [art. 3](https://www.legislation.gov.uk/uksi/2013/2826/article/3))
+
+[^key-8ea3ed3a739f246127c75be44b056c1b]: Textual amendment: Words in s. 6(2) substituted (1.11.2013) by [Constitutional Reform and Governance Act 2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25), [s. 52](https://www.legislation.gov.uk/ukpga/2010/25/section/52), [Sch. 6 para. 39(3)(e)](https://www.legislation.gov.uk/ukpga/2010/25/schedule/6/paragraph/39/3/e); [S.I. 2013/2826](https://www.legislation.gov.uk/uksi/2013/2826), [art. 2(b)(ii)](https://www.legislation.gov.uk/uksi/2013/2826/article/2/b/ii) (with [art. 3](https://www.legislation.gov.uk/uksi/2013/2826/article/3))
+
+[^c11252601]: Textual amendment: Words in s. 6(4) repealed (6.4.1997) by [1995 c. 26](https://www.legislation.gov.uk/ukpga/1995/26), [ss. 151](https://www.legislation.gov.uk/ukpga/1995/26/section/151), [177](https://www.legislation.gov.uk/ukpga/1995/26/section/177), [Sch. 5 para. 7](https://www.legislation.gov.uk/ukpga/1995/26/schedule/5/paragraph/7), [Sch. 7 Pt. III](https://www.legislation.gov.uk/ukpga/1995/26/schedule/7/part/III); [S.I. 1997/664](https://www.legislation.gov.uk/uksi/1997/664), [art. 2](https://www.legislation.gov.uk/uksi/1997/664/article/2), [Sch. Pt. II](https://www.legislation.gov.uk/uksi/1997/664/schedule/part/II)
+
+[^key-84f927e34a78ece688bbc50bb6d934a2]: Textual amendment: Words in s. 6(4) substituted (1.11.2013) by [Constitutional Reform and Governance Act 2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25), [s. 52](https://www.legislation.gov.uk/ukpga/2010/25/section/52), [Sch. 6 para. 39(4)(a)](https://www.legislation.gov.uk/ukpga/2010/25/schedule/6/paragraph/39/4/a); [S.I. 2013/2826](https://www.legislation.gov.uk/uksi/2013/2826), [art. 2(b)(ii)](https://www.legislation.gov.uk/uksi/2013/2826/article/2/b/ii) (with [art. 3](https://www.legislation.gov.uk/uksi/2013/2826/article/3))
+
+[^key-e642ca1294237baaf38bd824042ebbc1]: Textual amendment: Words in s. 6(4) substituted (1.11.2013) by [Constitutional Reform and Governance Act 2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25), [s. 52](https://www.legislation.gov.uk/ukpga/2010/25/section/52), [Sch. 6 para. 39(4)(b)](https://www.legislation.gov.uk/ukpga/2010/25/schedule/6/paragraph/39/4/b); [S.I. 2013/2826](https://www.legislation.gov.uk/uksi/2013/2826), [art. 2(b)(ii)](https://www.legislation.gov.uk/uksi/2013/2826/article/2/b/ii) (with [art. 3](https://www.legislation.gov.uk/uksi/2013/2826/article/3))
+
+[^key-e40158f2cb0daa1e8a305b46baa2f951]: Textual amendment: Words in s. 6(4) substituted (1.11.2013) by [Constitutional Reform and Governance Act 2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25), [s. 52](https://www.legislation.gov.uk/ukpga/2010/25/section/52), [Sch. 6 para. 39(4)(c)](https://www.legislation.gov.uk/ukpga/2010/25/schedule/6/paragraph/39/4/c); [S.I. 2013/2826](https://www.legislation.gov.uk/uksi/2013/2826), [art. 2(b)(ii)](https://www.legislation.gov.uk/uksi/2013/2826/article/2/b/ii) (with [art. 3](https://www.legislation.gov.uk/uksi/2013/2826/article/3))
+
+[^key-84e9abbf3d4aec80eb7a2686a87b007c]: Textual amendment: Word in s. 7(1)(b) substituted (24.5.2011) by [Constitutional Reform and Governance Act 2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25), [ss. 39(4)](https://www.legislation.gov.uk/ukpga/2010/25/section/39/4), [52](https://www.legislation.gov.uk/ukpga/2010/25/section/52); [S.I. 2011/1274](https://www.legislation.gov.uk/uksi/2011/1274), [art. 2(c)](https://www.legislation.gov.uk/uksi/2011/1274/article/2/c)
+
+[^key-430fcba2ec995b18bbe9dc5c64a5f4be]: Textual amendment: Words in [s. 7(1)(c)](https://www.legislation.gov.uk/ukpga/1979/50/section/7/1/c) substituted (1.11.2013) by [Constitutional Reform and Governance Act 2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25), [s. 52](https://www.legislation.gov.uk/ukpga/2010/25/section/52), [Sch. 6 para. 40(2)(a)](https://www.legislation.gov.uk/ukpga/2010/25/schedule/6/paragraph/40/2/a); [S.I. 2013/2826](https://www.legislation.gov.uk/uksi/2013/2826), [art. 2(b)(ii)](https://www.legislation.gov.uk/uksi/2013/2826/article/2/b/ii) (with [art. 3](https://www.legislation.gov.uk/uksi/2013/2826/article/3))
+
+[^key-c8e6f787dec26b2adabed4196df3159e]: Textual amendment: Words in [s. 7(1)(c)](https://www.legislation.gov.uk/ukpga/1979/50/section/7/1/c) omitted (1.11.2013) by virtue of [Constitutional Reform and Governance Act 2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25), [s. 52](https://www.legislation.gov.uk/ukpga/2010/25/section/52), [Sch. 6 para. 40(2)(b)](https://www.legislation.gov.uk/ukpga/2010/25/schedule/6/paragraph/40/2/b); [S.I. 2013/2826](https://www.legislation.gov.uk/uksi/2013/2826), [art. 2(b)(ii)](https://www.legislation.gov.uk/uksi/2013/2826/article/2/b/ii) (with [art. 3](https://www.legislation.gov.uk/uksi/2013/2826/article/3))
+
+[^key-3c3b97d66da55651e5df618841d4bb7b]: Textual amendment: Words in [s. 7(1)(d)](https://www.legislation.gov.uk/ukpga/1979/50/section/7/1/d) substituted (1.11.2013) by [Constitutional Reform and Governance Act 2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25), [s. 52](https://www.legislation.gov.uk/ukpga/2010/25/section/52), [Sch. 6 para. 40(3)](https://www.legislation.gov.uk/ukpga/2010/25/schedule/6/paragraph/40/3); [S.I. 2013/2826](https://www.legislation.gov.uk/uksi/2013/2826), [art. 2(b)(ii)](https://www.legislation.gov.uk/uksi/2013/2826/article/2/b/ii) (with [art. 3](https://www.legislation.gov.uk/uksi/2013/2826/article/3))
+
+[^c11252641]: Modification: S. 7(2) continued (24.10.2002) by [2002 c. 24](https://www.legislation.gov.uk/ukpga/2002/24), [ss. 15](https://www.legislation.gov.uk/ukpga/2002/24/section/15), [18(2)](https://www.legislation.gov.uk/ukpga/2002/24/section/18/2), [Sch. 3 para. 4(b)](https://www.legislation.gov.uk/ukpga/2002/24/schedule/3/paragraph/4/b)
+
+[^c11252651]: Textual amendment: Words in s. 7(2) substituted (1.5.1999) by [1999 c. 1](https://www.legislation.gov.uk/ukpga/1999/1), [s. 3(2)](https://www.legislation.gov.uk/ukpga/1999/1/section/3/2), [Sch. 3 para. 2(b)](https://www.legislation.gov.uk/ukpga/1999/1/schedule/3/paragraph/2/b); [S.I. 1999/717](https://www.legislation.gov.uk/uksi/1999/717), [art. 2(1)](https://www.legislation.gov.uk/uksi/1999/717/article/2/1) (with [art. 2(3)](https://www.legislation.gov.uk/uksi/1999/717/article/2/3))
+
+[^c11252661]: Marginal citation: [1975 c. 15](https://www.legislation.gov.uk/ukpga/1975/15).
+
+[^c20286981]: Textual amendment: S. 7(3)(a) omitted (14.7.2009) by [The European Parliament (Pay and Pensions) Regulations 2009 (S.I. 2009/1485)](https://www.legislation.gov.uk/uksi/2009/1485), [reg. 2(7)](https://www.legislation.gov.uk/uksi/2009/1485/regulation/2/7)
+
+[^c11252701]: Modification: S. 8(1) continued (24.10.2002) by [2002 c. 24](https://www.legislation.gov.uk/ukpga/2002/24), [ss. 15](https://www.legislation.gov.uk/ukpga/2002/24/section/15), [18(2)](https://www.legislation.gov.uk/ukpga/2002/24/section/18/2), [Sch. 3 para. 4(c)](https://www.legislation.gov.uk/ukpga/2002/24/schedule/3/paragraph/4/c)
+
+[^c11252711]: Textual amendment: Definition of “the Assembly" repealed by [European Communities (Amendment) Act 1986 (c. 58, SIF 29:5)](https://www.legislation.gov.uk/ukpga/1986/58), [s. 4(3)](https://www.legislation.gov.uk/ukpga/1986/58/section/4/3), [Sch.](https://www.legislation.gov.uk/ukpga/1986/58/schedule)
+
+[^c11252721]: Textual amendment: Words in s. 8(1) substituted (1.5.1999) by [1999 c. 1](https://www.legislation.gov.uk/ukpga/1999/1), [s. 3(2)](https://www.legislation.gov.uk/ukpga/1999/1/section/3/2), [Sch. 3 para. 2(c)](https://www.legislation.gov.uk/ukpga/1999/1/schedule/3/paragraph/2/c); [S.I. 1999/717](https://www.legislation.gov.uk/uksi/1999/717), [art. 2(1)](https://www.legislation.gov.uk/uksi/1999/717/article/2/1) (with [art. 2(3)](https://www.legislation.gov.uk/uksi/1999/717/article/2/3))
+
+[^key-25e333d9e698854b78128593fbde69d5]: Textual amendment: Words in [s. 8(1)](https://www.legislation.gov.uk/ukpga/1979/50/section/8/1) inserted (1.11.2013) by [Constitutional Reform and Governance Act 2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25), [s. 52](https://www.legislation.gov.uk/ukpga/2010/25/section/52), [Sch. 6 para. 41(2)(a)](https://www.legislation.gov.uk/ukpga/2010/25/schedule/6/paragraph/41/2/a); [S.I. 2013/2826](https://www.legislation.gov.uk/uksi/2013/2826), [art. 2(b)(ii)](https://www.legislation.gov.uk/uksi/2013/2826/article/2/b/ii) (with [art. 3](https://www.legislation.gov.uk/uksi/2013/2826/article/3))
+
+[^key-424cbafff6bd4f022b4db60d03a8f6a2]: Textual amendment: Words in [s. 8(1)](https://www.legislation.gov.uk/ukpga/1979/50/section/8/1) omitted (1.11.2013) by virtue of [Constitutional Reform and Governance Act 2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25), [s. 52](https://www.legislation.gov.uk/ukpga/2010/25/section/52), [Sch. 6 para. 41(2)(b)](https://www.legislation.gov.uk/ukpga/2010/25/schedule/6/paragraph/41/2/b); [S.I. 2013/2826](https://www.legislation.gov.uk/uksi/2013/2826), [art. 2(b)(ii)](https://www.legislation.gov.uk/uksi/2013/2826/article/2/b/ii) (with [art. 3](https://www.legislation.gov.uk/uksi/2013/2826/article/3))
+
+[^key-0c1f4b5a5c0241ca0b580cae7164a45d]: Textual amendment: Words in s. 8(1) omitted (24.5.2011) by virtue of [Constitutional Reform and Governance Act 2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25), [s. 52](https://www.legislation.gov.uk/ukpga/2010/25/section/52), [Sch. 5 para. 8(3)](https://www.legislation.gov.uk/ukpga/2010/25/schedule/5/paragraph/8/3); [S.I. 2011/1274](https://www.legislation.gov.uk/uksi/2011/1274), [art. 2(b)](https://www.legislation.gov.uk/uksi/2011/1274/article/2/b)
+
+[^c20287011]: Textual amendment: S. 8(1): definition inserted (14.7.2009) by [The European Parliament (Pay and Pensions) Regulations 2009 (S.I. 2009/1485)](https://www.legislation.gov.uk/uksi/2009/1485), [reg. 2(8)](https://www.legislation.gov.uk/uksi/2009/1485/regulation/2/8)
+
+[^key-2b887e165ff9200d03426070045c29d0]: Textual amendment: [S. 8(2)](https://www.legislation.gov.uk/ukpga/1979/50/section/8/2) omitted (1.11.2013) by virtue of [Constitutional Reform and Governance Act 2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25), [s. 52](https://www.legislation.gov.uk/ukpga/2010/25/section/52), [Sch. 6 para. 41(3)](https://www.legislation.gov.uk/ukpga/2010/25/schedule/6/paragraph/41/3); [S.I. 2013/2826](https://www.legislation.gov.uk/uksi/2013/2826), [art. 2(b)(ii)](https://www.legislation.gov.uk/uksi/2013/2826/article/2/b/ii) (with [art. 3](https://www.legislation.gov.uk/uksi/2013/2826/article/3))
+
+[^c11252741]: Textual amendment: Words substituted retrospectively by virtue of [European Communities (Amendment) Act 1986 (c. 58, SIF 29:5)](https://www.legislation.gov.uk/ukpga/1986/58), [s. 3(1)(a)(2)(b)(3)](https://www.legislation.gov.uk/ukpga/1986/58/section/3/1/a/2/b/3)

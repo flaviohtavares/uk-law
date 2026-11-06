@@ -1,0 +1,147 @@
+---
+title: The Universal Credit, Personal Independence Payment and Employment and Support Allowance (Amendment) Regulations 2026
+id: uksi/2026/395
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised-with-pending-changes
+made_date: '2026-04-09'
+text_date: '2026-10-30'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2026/395
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2026/395/pdfs/uksiem_20260395_en_002.pdf
+- http://www.legislation.gov.uk/uksi/2026/395/pdfs/uksiem_20260395_en_001.pdf
+- http://www.legislation.gov.uk/uksi/2026/395/pdfs/uksi_20260395_en.pdf
+- http://www.legislation.gov.uk/uksi/2026/395/data.pdf
+pending_changes: 2
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Universal Credit, Personal Independence Payment and Employment and Support Allowance (Amendment) Regulations 2026
+
+> **Warning: changes not yet applied to this text (2).** Text as at 2026-10-30. See https://www.legislation.gov.uk/changes/affected/uksi/2026/395
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2026 No. 395
+
+SOCIAL SECURITY
+
+The Universal Credit, Personal Independence Payment and Employment and Support Allowance (Amendment) Regulations 2026
+
+Made
+
+at 11.00 a.m. on 9th April 2026
+
+Laid before Parliament
+
+at 2.00 p.m. on 9th April 2026
+
+Coming into force
+
+30th April 2026
+
+The Secretary of State makes these Regulations in exercise of the powers conferred by sections 8(1) and (2), 9(1) and (2), and 25(2), (3) and (5) of the Welfare Reform Act 2007[^f00001] and sections 37(3) and (4), 42(1) to (3), 80(1) and (3), and 94(1) to (3) of the Welfare Reform Act 2012[^f00002].
+
+In accordance with section 172(1) of the Social Security Administration Act 1992[^f00003], the Secretary of State has referred the proposals in respect of these Regulations to the Social Security Advisory Committee.
+
+## 1. Citation, commencement and extent[^key-ed365da8b05ae011bebd1def07d816c5]
+
+(1) These Regulations may be cited as the Universal Credit, Personal Independence Payment and Employment and Support Allowance (Amendment) Regulations 2026 and come into force on 30th April 2026.
+
+(2) Any *(Extent: E+W)* *(affected by repeal, see note)*[^key-0fc128e7fcce5abe6f1aa19ecee2c6e5] Subject to paragraph (3), any *(Extent: E+W)* amendment made by these Regulations has the same extent as the provision amended.
+
+*Extent: E+W*
+
+(3)[^key-ca84e68c1eecd90119c17878e684496c] Regulation 3 extends to England and Wales only.
+
+## 2. Amendment of the Universal Credit Regulations 2013[^key-711d2ed3f0fdeab4ee69a5522b253d13]
+
+In regulation 41 of the Universal Credit Regulations 2013 (when an assessment may be carried out)[^f00004]—
+
+- (a) in paragraph (1), for “(2)” substitute “(1A)”;
+- (b) after paragraph (1), insert—
+
+  > (1A) For the purposes of paragraph (1)(b), doing work for payment or in expectation of payment, or doing voluntary work, is not a relevant change of circumstances.
+
+  .
+
+## 3. Amendment of the Social Security (Personal Independence Payment) Regulations 2013[^key-1120b484466e801281da65d5d4c469a0]
+
+In regulation 11 of the Social Security (Personal Independence Payment) Regulations 2013 (re-determination of ability to carry out activities)[^f00005]—
+
+- (a) the existing provision is renumbered as paragraph (1);
+- (b) in paragraph (1), for “Where” substitute “Subject to paragraph (2), where”;
+- (c) after paragraph (1) insert—
+
+  > (2) For the purposes of paragraph (1), doing work for payment or in expectation of payment, or doing voluntary work, is not a reason for a fresh determination.
+
+  .
+
+## 4. Amendment of the Employment and Support Allowance Regulations 2013[^key-dc109995b3014d25d83828a76343fe1f]
+
+(1) The Employment and Support Allowance Regulations 2013[^f00006] are amended as follows.
+
+(2) In regulation 15 (determination of limited capability for work) after paragraph (8), insert—
+
+> (9) For the purposes of paragraph (8)(a), doing work for payment or in expectation of payment, or doing voluntary work, is not a relevant change of circumstances.
+
+.
+
+(3) In regulation 30 (determination of limited capability for work-related activity) after paragraph (5), insert—
+
+> (5A) For the purposes of paragraph (5)(a), doing work for payment or in expectation of payment, or doing voluntary work, is not a relevant change of circumstances.
+
+.
+
+Signed by authority of the Secretary of State for Work and Pensions
+
+Stephen Timms
+
+Minister of State
+
+Department for Work and Pensions
+
+at 11.00 a.m. on 9th April 2026
+
+Explanatory Note
+
+(This note is not part of the Regulations)
+
+These Regulations amend the Universal Credit Regulations 2013 ([S.I. 2013/376](https://www.legislation.gov.uk/uksi/2013/376)) (“**the UC Regulations 2013**”), the Social Security (Personal Independence Payment) Regulations 2013 ([S.I. 2013/377](https://www.legislation.gov.uk/uksi/2013/377)) (“**the PIP Regulations 2013**”) and the Employment and Support Allowance Regulations 2013 ([S.I. 2013/379](https://www.legislation.gov.uk/uksi/2013/379)) (“**the ESA Regulations 2013**”).
+
+Regulations 2 and 4 amend regulation 41 of the UC Regulations 2013 and regulations 15 and 30 of the ESA Regulations 2013 respectively, which make provision for assessments to be carried out to determine if a person has limited capability for work or limited capability for work and work-related activity. Where there has been a previous determination, an assessment may be carried out if the Secretary of State wishes to determine if there has been a relevant change of circumstances in relation to the claimant’s physical or mental condition. New paragraphs are inserted into those regulations making it clear that doing work for payment or in expectation of payment, or doing voluntary work, is not a relevant change of circumstances for that purpose.
+
+Regulation 3 amends regulation 11 of the PIP Regulations 2013, which makes provision for fresh assessments to be carried out to re-determine if a claimant continues to have limited ability or severely limited ability to carry out either or both daily living activities or mobility activities in accordance with regulation 4. Regulation 11 gives the Secretary of State the power to do this for any reason and at any time. A new paragraph (2) is inserted which provides that doing work for payment or in expectation of payment, or doing voluntary work, will not be a reason for that purpose.
+
+A full impact assessment has not been produced for this instrument as no, or no significant, impact on the private, voluntary or public sector is foreseen.
+
+## Annotations
+
+[^f00001]: Footnote: [2007 c. 5](https://www.legislation.gov.uk/ukpga/2007/5).
+
+[^f00002]: Footnote: [2012 c. 5](https://www.legislation.gov.uk/ukpga/2012/5).
+
+[^f00003]: Footnote: [1992 c. 5](https://www.legislation.gov.uk/ukpga/1992/5).
+
+[^key-ed365da8b05ae011bebd1def07d816c5]: Commencement: Reg. 1 in force at 30.4.2026, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/395/regulation/1/1)
+
+[^key-0fc128e7fcce5abe6f1aa19ecee2c6e5]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/395/regulation/1/2) substituted (E.W.) (30.10.2026) by [The Social Security (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/1063)](https://www.legislation.gov.uk/uksi/2026/1063), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/1063/regulation/1/1), [12(a)](https://www.legislation.gov.uk/uksi/2026/1063/regulation/12/a)
+
+[^key-ca84e68c1eecd90119c17878e684496c]: Textual amendment: [Reg. 1(3)](https://www.legislation.gov.uk/uksi/2026/395/regulation/1/3) inserted (E.W.) (30.10.2026) by [The Social Security (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/1063)](https://www.legislation.gov.uk/uksi/2026/1063), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/1063/regulation/1/1), [12(b)](https://www.legislation.gov.uk/uksi/2026/1063/regulation/12/b)
+
+[^key-711d2ed3f0fdeab4ee69a5522b253d13]: Commencement: Reg. 2 in force at 30.4.2026, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/395/regulation/1/1)
+
+[^f00004]: Footnote: [S.I. 2013/376](https://www.legislation.gov.uk/uksi/2013/376), to which there are amendments not relevant to these Regulations.
+
+[^key-1120b484466e801281da65d5d4c469a0]: Commencement: Reg. 3 in force at 30.4.2026, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/395/regulation/1/1)
+
+[^f00005]: Footnote: [S.I. 2013/377](https://www.legislation.gov.uk/uksi/2013/377).
+
+[^key-dc109995b3014d25d83828a76343fe1f]: Commencement: Reg. 4 in force at 30.4.2026, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/395/regulation/1/1)
+
+[^f00006]: Footnote: [S.I. 2013/379](https://www.legislation.gov.uk/uksi/2013/379).

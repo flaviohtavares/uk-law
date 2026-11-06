@@ -1,0 +1,213 @@
+---
+title: 'The Enterprise Act 2002 (Mergers) (Interim Measures: Financial Penalties) (Determination of Control and Turnover) Order 2014'
+id: uksi/2014/533
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2014-03-06'
+text_date: '2020-12-31'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2014/533
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2014/533/pdfs/uksiem_20140533_en.pdf
+- http://www.legislation.gov.uk/uksi/2014/533/pdfs/uksi_20140533_en.pdf
+- http://www.legislation.gov.uk/uksi/2014/533/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Enterprise Act 2002 (Mergers) (Interim Measures: Financial Penalties) (Determination of Control and Turnover) Order 2014
+
+> Text as at 2020-12-31.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2014 No. 533
+
+Competition
+
+The Enterprise Act 2002 (Mergers) (Interim Measures: Financial Penalties) (Determination of Control and Turnover) Order 2014
+
+Made
+
+6th March 2014
+
+Laid before Parliament
+
+10th March 2014
+
+Coming into force
+
+1st April 2014
+
+The Secretary of State makes the following Order in exercise of the powers conferred by sections 94A(3), (4) and (5) and 124(2) of the Enterprise Act 2002 [^c22039241].
+
+## 1. Citation and commencement
+
+This Order may be cited as the Enterprise Act 2002 (Mergers) (Interim Measures: Financial Penalties) (Determination of Control and Turnover) Order 2014 and comes into force on 1st April 2014.
+
+## 2. Control of an enterprise
+
+(1) For the purposes of section 94A(2) of the Enterprise Act 2002 (penalty for breach of interim undertakings and orders), an enterprise is to be treated as controlled by a person (P) where—
+
+- (a) the enterprise is carried on by P otherwise than in partnership or as a member of an unincorporated association or group of persons;
+- (b) the enterprise is carried on by a body corporate in which P has a controlling interest;
+- (c) the enterprise is carried on by a body corporate, and P is able directly or indirectly to control or materially to influence the policy of that body corporate without having a controlling interest in that body corporate;
+- (d) the enterprise is carried on by a partnership or by an unincorporated association or group of persons, and P (whether or not P is a member of that partnership, association or group) is able directly or indirectly to control or materially to influence the policy of that partnership, association or group in carrying on the enterprise; or
+- (e) the enterprise is carried on by an individual, and P is able directly or indirectly to control or materially to influence the policy of that individual in carrying on the enterprise.
+
+(2) For the purposes of paragraph (1)(b) and (c), P has a controlling interest in a body corporate if P—
+
+- (a) is a parent undertaking of that body corporate within the meaning of section 1162 of the Companies Act 2006 [^c22039251]; or
+- (b) would be a parent undertaking of that body corporate within the meaning of that section if P were an undertaking within the meaning of section 1161 of that Act.
+
+(3) For the purposes of paragraph (2), subsections (2)(c) and (4)(a) of section 1162 of the Companies Act 2006 are to be disregarded.
+
+(4) For the purposes of paragraph (1)(c), (d) and (e) the appropriate authority may, having regard to all the circumstances, determine whether any person is able directly or indirectly to control or materially to influence the policy of a body corporate or the policy of an individual or a partnership or an unincorporated association or group of persons in carrying on an enterprise.
+
+(5) References in this article to a body corporate include a body incorporated outside the United Kingdom; and references to a partnership or an unincorporated association or group of persons include a partnership or unincorporated association or group of persons formed or established, or having any members incorporated, formed or established, outside the United Kingdom.
+
+## 3. Turnover of an enterprise
+
+(1) For the purposes of section 94A(2) of the Enterprise Act 2002 (penalty for breach of interim undertakings and orders), the turnover of an enterprise is the turnover of the enterprise in its relevant accounting period, determined in accordance with the Schedule.
+
+(2) An enterprise's “relevant accounting period” is its accounting period immediately preceding the date on which the interim measure in question came into force.
+
+(3) An “accounting period” of an enterprise is a period of more than six months in respect of which accounts are prepared or required to be prepared in relation to the enterprise.
+
+(4) Where for the purposes of paragraph (1) the figures necessary for the appropriate authority to calculate the turnover of an enterprise in its relevant accounting period are not available to the appropriate authority when the appropriate authority decides to impose the penalty under section 94A(1) of the Enterprise Act 2002, the turnover of the enterprise is its turnover in its accounting period immediately preceding its relevant accounting period, determined in accordance with the Schedule.
+
+(5) Where paragraph (4) applies but the figures necessary for the appropriate authority to calculate the turnover of an enterprise in its accounting period immediately preceding its relevant accounting period are not available to the appropriate authority when the appropriate authority decides to impose the penalty under section 94A(1) of the Enterprise Act 2002, the turnover of the enterprise for the purposes of section 94A(2) of that Act is its turnover, determined in accordance with the Schedule, in the period beginning with the day after the last day of its relevant accounting period and ending with the date on which the interim measure in question came into force.
+
+(6) Where paragraph (4) applies but the enterprise has no accounting period immediately preceding its relevant accounting period, the turnover of the enterprise for the purposes of section 94A(2) of the Enterprise Act 2002 is its turnover, determined in accordance with the Schedule, in the period beginning with the date on which the activities constituting the enterprise began to be carried on and ending with the date on which the enterprise's relevant accounting period began.
+
+(7) Where paragraph (6) applies but the figures necessary for the appropriate authority to calculate the turnover of the enterprise in the period beginning with the date on which the activities constituting the enterprise began to be carried on and ending with the date on which its relevant accounting period began are not available to the appropriate authority, the turnover of the enterprise for the purposes of section 94A(2) of the Enterprise Act 2002 is its turnover, determined in accordance with the Schedule, in the period beginning with the day after the last day of its relevant accounting period and ending with the date on which the interim measure in question came into force.
+
+(8) Where for the purposes of paragraph (1) an enterprise has no relevant accounting period, the turnover of the enterprise for the purposes of section 94A(2) of the Enterprise Act 2002 is its turnover, determined in accordance with the Schedule, in the period beginning with the date on which the activities constituting the enterprise began to be carried on and ending with the date on which the interim measure in question came into force.
+
+(9) Where an enterprise's relevant accounting period or other period in which its turnover is required to be determined by this article does not equal 12 months, the turnover of the enterprise in that period is the amount which bears the same proportion to the turnover of the enterprise in that period, determined in accordance with the Schedule, as 12 months does to that period.
+
+Jenny Willott
+
+Parliamentary Under Secretary of State for Employment Relations and Consumer Affairs
+
+Department for Business, Innovation and Skills
+
+## SCHEDULE — TURNOVER OF AN ENTERPRISE
+
+Article 3
+
+### 1. Interpretation
+
+(1) In this Schedule—
+
+- “**credit institution**” means a credit institution as defined in Article 4(1)(1) of Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26th June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012 [^c22039261];
+- “**financial institution**” means a financial institution as defined in Article 4(1)(26) of Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26th June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012, or any undertaking located outside the United Kingdom[^key-1e224d7254617831d139cd440225a6a5] which does not fall within that definition but which carries out equivalent activities; [^key-900e89f71798ed9bdcde75f063a7f36d]...
+- “**insurance undertaking**” means—
+  - (a) an insurance undertaking (whether or not established in the United Kingdom[^key-1ea105b92e0aba6a70d5d903cef4b7d8]) carrying on the business of direct non-life insurance of a class set out in Annex I to Directive[^key-0096559d4b828fe56cc49230aa90cd2f] [2009/138/EC](https://www.legislation.gov.uk/eudr/2009/138) of the European Parliament and of the Council of 25 November 2009 on the taking-up and pursuit of the business of Insurance and Reinsurance (Solvency II);
+  - (b) an insurance undertaking (whether or not established in the United Kingdom) carrying on the business of [^key-de3af823b65f98034a08c29276651fc0]... life insurance of a kind described in Article 2(3) of Directive[^key-e79fce78980abcaf3f70046b0d517dff] [2009/138/EC](https://www.legislation.gov.uk/eudr/2009/138) of the European Parliament and of the Council of 25 November 2009 on the taking-up and pursuit of the business of Insurance and Reinsurance (Solvency II); [^key-1f86e52a497e4ff815d69c7870fd23a9]...
+  - (c) a reinsurance undertaking; or[^key-038f15f9b03ec80e911347e18f92b249]
+  - (d) a third-country reinsurance undertaking;
+- **“reinsurance undertaking[^key-66e9d60b3d3e5d53d1cd222c30bf77b5]** ” means an undertaking which—
+  - (a) has its head office in the United Kingdom;;
+  - (b) has permission under Part 4A of the Financial Services and Markets Act 2000 to carry on one or more regulated activities;
+  - (c) effects or carries out contracts of insurance that are limited to reinsurance contracts; and
+  - (d) would require authorisation in accordance with Article 14 of Directive [2009/138/EC](https://www.legislation.gov.uk/eudr/2009/138) of the European Parliament and of the Council of 25 November 2009 on the taking-up and pursuit of the business of Insurance and Reinsurance (Solvency II), if the United Kingdom were a Member State; and
+- “**third-country reinsurance undertaking** ” means an undertaking which, if its head office were in the United Kingdom—
+  - (a) would require permission under Part 4A of the Financial Services and Markets Act 2000 to carry out regulated activities relating to reinsurance; and
+  - (b) immediately before IP completion day, would have required authorisation as a reinsurance undertaking in accordance with Article 14 of Directive [2009/138/EC](https://www.legislation.gov.uk/eudr/2009/138);
+
+(2) Except where the contrary intention appears, expressions used in this Schedule in relation to the determination of turnover in respect of the activities of a credit institution, a financial institution or an insurance undertaking have the same meaning as in the relevant Directive.
+
+(3) The provisions of this Schedule are also to be interpreted in accordance with generally accepted accounting principles and practices.
+
+### 2. Turnover of an enterprise
+
+(1) The turnover of an enterprise is the sum of all amounts derived from the sale of products and the provision of services falling within the ordinary activities of the enterprise to businesses or consumers, after the deduction of sales rebates, value added tax and other taxes directly related to turnover.
+
+(2) Paragraph 5 also applies to determine the turnover of an enterprise.
+
+(3) But where all or any of the activities constituting an enterprise are the activities of a credit institution, a financial institution or an insurance undertaking, paragraph 3 or (as the case may be) paragraph 4 applies instead of this paragraph to determine the turnover of the enterprise in respect of those activities.
+
+### 3. Turnover in respect of activities of a credit institution or financial institution
+
+(1) The turnover of an enterprise in respect of the activities of a credit institution or financial institution is the sum of the following income items listed in Council Directive [(EEC) 86/635](https://www.legislation.gov.uk/european/regulation/19635/0086) of 8th December 1986 on the annual accounts and consolidated accounts of banks and other financial institutions [^c22039301] received by the institution, after deduction of value added tax and other taxes directly related to those items—
+
+- (a) interest income and similar income;
+- (b) the following income from securities—
+  - (i) income from shares and other variable yield securities;
+  - (ii) income from participating interests;
+  - (iii) income from shares in affiliated undertakings;
+- (c) commissions receivable;
+- (d) net profit on financial operations;
+- (e) other operating income.
+
+(2) Paragraph 5 also applies to determine the turnover of an enterprise in respect of the activities of a credit institution or financial institution.
+
+### 4. Turnover in respect of activities of an insurance undertaking
+
+(1) The turnover of an enterprise in respect of the activities of an insurance undertaking is the total value of gross premiums received, comprising all amounts received and receivable in respect of insurance contracts issued by or on behalf of the undertaking, including outgoing reinsurance premiums, and after deduction of taxes and parafiscal contributions or levies charged by reference to the amounts of individual premiums or the total volume of premiums.
+
+(2) Paragraph 5 also applies to determine the turnover of an enterprise in respect of the activities of an insurance undertaking.
+
+### 5. Further provisions about determining turnover
+
+(1) The turnover of an enterprise is its turnover both in and outside the United Kingdom.
+
+(2) The turnover of an enterprise also includes any aid granted in respect of the enterprise by a public body (in or outside the United Kingdom) to the business whose activities or part of whose activities constitute the enterprise, where—
+
+- (a) the aid relates to the ordinary activities of the business;
+- (b) the business is itself the recipient of the aid; and
+- (c) the aid is directly linked to the sale of products or the provision of services by the business and is therefore reflected in the price of those products or services.
+
+(3) Where the person on whom a penalty under section 94A(1) of the Enterprise Act 2002 is imposed owns or controls more than one enterprise, the turnover of those enterprises does not include amounts derived from the sale of products or the provision of services between them.
+
+(4) Where in the accounts or other information used by the appropriate authority to calculate the turnover (or any part of the turnover) of an enterprise any figure is expressed in a currency other than sterling, the appropriate authority may determine the equivalent in sterling, applying whatever rate or rates of exchange the authority considers appropriate and rounding the resulting figure up or down as it considers appropriate.
+
+(5) Where an acquisition, divestment or other transaction or event has occurred since the end of the enterprise's relevant accounting period which the appropriate authority considers may have a significant impact on the turnover of the enterprise, the appropriate authority may take account of that transaction or event if it considers it appropriate to do so and accordingly increase or (as the case may be) reduce by such amount as it considers appropriate the amount which would otherwise constitute the enterprise's turnover for the purposes of section 94A(2) of the Enterprise Act 2002.
+
+*(This note is not part of the Order)*
+
+This Order makes provision, for the purposes of section 94A of the Enterprise Act 2002 (c. 40) (“**the Enterprise Act**”), for determining when an enterprise is to be treated as controlled by a person and for determining the turnover of an enterprise.
+
+The Enterprise and Regulatory Reform Act 2013 (c. 24) (“**the 2013 Act**”) made changes to the law on merger control under Part 3 of the Enterprise Act. Among other things it abolished the Office of Fair Trading and the Competition Commission, transferring their competition functions to the Competition and Markets Authority (CMA), and made changes to the provisions of the Enterprise Act relating to interim measures in merger inquiries (sections 72, 80 and 81 and paragraph 2 of Schedule 7). As part of this reform of the law on interim measures the 2013 Act inserted new section 94A of the Enterprise Act, which enables the CMA or (depending on the circumstances) the Secretary of State to impose a financial penalty where a person has failed, without reasonable excuse, to comply with an interim measure. Section 94A provides that the penalty must not exceed 5% of the total value of the turnover (both in and outside the United Kingdom) of the enterprises owned or controlled by the person in question. For these purposes, section 94A(3), (4) and (5) confers power on the Secretary of State to make provision, by order, for determining when an enterprise is to be treated as controlled by a person, and for determining the turnover (both in and outside the United Kingdom) of an enterprise. “Enterprise” is defined in section 129(1) of the Enterprise Act.
+
+Article 2 of this Order makes provision for determining when an enterprise is to be treated as controlled by a person.
+
+Article 3 and the Schedule make provision for determining the turnover of an enterprise.
+
+The impact assessment completed for Parts 3 and 4 of the Enterprise and Regulatory Reform Bill, introduced to Parliament on 23rd May 2012, contains an assessment of the effect that the reforms to the competition regime will have on the costs of business and the public and voluntary sectors and is available at the following website:
+
+https://www.gov.uk/government/publications/strengthening-competition-and-creating-a-single-market-authority.
+
+## Annotations
+
+[^c22039241]: Marginal citation: [2002 c. 40](https://www.legislation.gov.uk/ukpga/2002/40). Section 94A was inserted by section 31 of the [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24).
+
+[^c22039251]: Marginal citation: [2006 c. 46](https://www.legislation.gov.uk/ukpga/2006/46).
+
+[^c22039261]: Marginal citation: OJ No L176, 27.6.2013, p 1. For corrigenda see OJ No L208, 2.8.13, p 68 and OJ No L321, 30.11.13, p 6.
+
+[^key-1e224d7254617831d139cd440225a6a5]: Textual amendment: Words in [Sch. para. 1(1)](https://www.legislation.gov.uk/uksi/2014/533/schedule/paragraph/1/1) substituted (31.12.2020) by [The Competition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/93)](https://www.legislation.gov.uk/uksi/2019/93), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/93/regulation/1/1), [Sch. 2 para. 7(2)(a)](https://www.legislation.gov.uk/uksi/2019/93/schedule/2/paragraph/7/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-900e89f71798ed9bdcde75f063a7f36d]: Textual amendment: Word in [Sch. para. 1(1)](https://www.legislation.gov.uk/uksi/2014/533/schedule/paragraph/1/1) omitted (31.12.2020) by virtue of [The Competition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/93)](https://www.legislation.gov.uk/uksi/2019/93), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/93/regulation/1/1), [Sch. 2 para. 7(2)(b)](https://www.legislation.gov.uk/uksi/2019/93/schedule/2/paragraph/7/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-1ea105b92e0aba6a70d5d903cef4b7d8]: Textual amendment: Words in [Sch. para. 1(1)](https://www.legislation.gov.uk/uksi/2014/533/schedule/paragraph/1/1) substituted (31.12.2020) by [The Competition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/93)](https://www.legislation.gov.uk/uksi/2019/93), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/93/regulation/1/1), [Sch. 2 para. 7(3)(a)](https://www.legislation.gov.uk/uksi/2019/93/schedule/2/paragraph/7/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-0096559d4b828fe56cc49230aa90cd2f]: Textual amendment: Words in [Sch. para. 1](https://www.legislation.gov.uk/uksi/2014/533/schedule/paragraph/1) substituted (1.1.2016) by [The Solvency 2 Regulations 2015 (S.I. 2015/575)](https://www.legislation.gov.uk/uksi/2015/575), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/575/regulation/1/2), [Sch. 2 para. 36(2)(a)](https://www.legislation.gov.uk/uksi/2015/575/schedule/2/paragraph/36/2/a)
+
+[^key-de3af823b65f98034a08c29276651fc0]: Textual amendment: Word in [Sch. para. 1](https://www.legislation.gov.uk/uksi/2014/533/schedule/paragraph/1) omitted (1.1.2016) by virtue of [The Solvency 2 Regulations 2015 (S.I. 2015/575)](https://www.legislation.gov.uk/uksi/2015/575), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/575/regulation/1/2), [Sch. 2 para. 36(2)(b)(i)](https://www.legislation.gov.uk/uksi/2015/575/schedule/2/paragraph/36/2/b/i)
+
+[^key-e79fce78980abcaf3f70046b0d517dff]: Textual amendment: Words in [Sch. para. 1](https://www.legislation.gov.uk/uksi/2014/533/schedule/paragraph/1) substituted (1.1.2016) by [The Solvency 2 Regulations 2015 (S.I. 2015/575)](https://www.legislation.gov.uk/uksi/2015/575), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/575/regulation/1/2), [Sch. 2 para. 36(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2015/575/schedule/2/paragraph/36/2/b/ii)
+
+[^key-1f86e52a497e4ff815d69c7870fd23a9]: Textual amendment: Word in [Sch. para. 1(1)](https://www.legislation.gov.uk/uksi/2014/533/schedule/paragraph/1/1) omitted (31.12.2020) by virtue of [The Competition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/93)](https://www.legislation.gov.uk/uksi/2019/93), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/93/regulation/1/1), [Sch. 2 para. 7(3)(b)](https://www.legislation.gov.uk/uksi/2019/93/schedule/2/paragraph/7/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-038f15f9b03ec80e911347e18f92b249]: Textual amendment: Words in [Sch. para. 1(1)](https://www.legislation.gov.uk/uksi/2014/533/schedule/paragraph/1/1) substituted (31.12.2020) by [The Competition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/93)](https://www.legislation.gov.uk/uksi/2019/93), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/93/regulation/1/1), [Sch. 2 para. 7(3)(c)](https://www.legislation.gov.uk/uksi/2019/93/schedule/2/paragraph/7/3/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-66e9d60b3d3e5d53d1cd222c30bf77b5]: Textual amendment: Words in [Sch. para. 1(1)](https://www.legislation.gov.uk/uksi/2014/533/schedule/paragraph/1/1) inserted (31.12.2020) by [The Competition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/93)](https://www.legislation.gov.uk/uksi/2019/93), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/93/regulation/1/1), [Sch. 2 para. 7(4)](https://www.legislation.gov.uk/uksi/2019/93/schedule/2/paragraph/7/4) (as amended by [The Competition (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1343)](https://www.legislation.gov.uk/uksi/2020/1343), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1343/regulation/1/1), [32](https://www.legislation.gov.uk/uksi/2020/1343/regulation/32)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c22039301]: Marginal citation: OJ No L372, 31.12.86, p 1; amended by Directives 2001/65/EC (OJ No L283, 27.10.01, p 28), 2003/51/EC (OJ No L178, 17.7.03, p 16) and 2006/46/EC (OJ No L224, 16.8.06, p 1).

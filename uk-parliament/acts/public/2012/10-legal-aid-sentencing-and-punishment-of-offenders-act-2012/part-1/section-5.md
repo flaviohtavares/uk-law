@@ -1,0 +1,51 @@
+---
+title: Legal Aid, Sentencing and Punishment of Offenders Act 2012, section 5
+act: Legal Aid, Sentencing and Punishment of Offenders Act 2012
+section: '5'
+status: revised-with-pending-changes
+text_date: '2026-10-26'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/2012/10/section/5
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Legal Aid, Sentencing and Punishment of Offenders Act 2012, section 5
+
+> **Warning: changes not yet applied to this text (57).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/2012/10
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 5. Delegation
+
+*Extent: E+W*
+
+(1) The following functions of the Lord Chancellor may be exercised by, or by employees of, a person authorised by the Lord Chancellor for that purpose—
+
+- (a) securing the provision of information under section 1(3), and
+- (b) setting and monitoring standards under section 3.
+
+(2) Regulations may provide for a function of the Lord Chancellor under regulations made under this Part to be exercisable by, or by employees of, a person authorised by the Lord Chancellor for that purpose.
+
+(3) The functions conferred on the Director by this Part may be exercised by, or by employees of, a person authorised by the Director for that purpose.
+
+(4) Regulations may provide for a function of the Director under regulations made under this Part to be exercisable by, or by employees of, a person authorised by the Director for that purpose.
+
+(5) A direction given by the Lord Chancellor under section 4 about the carrying out of the Director's functions may, in particular, require the Director—
+
+- (a) to authorise, or not to authorise, a person to carry out a function specified in the direction, or
+- (b) to authorise, or not to authorise, a person specified, or of a description specified, in the direction to carry out such a function.
+
+(6) Regulations under subsection (2) or (4) may provide that a function may be exercised—
+
+- (a) wholly or to a limited extent;
+- (b) generally or in particular cases or areas;
+- (c) unconditionally or subject to conditions.
+
+(7) An authorisation given for the purposes of this section or regulations under this section may provide that a function may be exercised—
+
+- (a) wholly or to a limited extent;
+- (b) generally or in particular cases or areas;
+- (c) unconditionally or subject to conditions.
+
+(8) In the case of an authorisation given for the purposes of regulations under this section, subsection (7) is subject to the provisions of the regulations.

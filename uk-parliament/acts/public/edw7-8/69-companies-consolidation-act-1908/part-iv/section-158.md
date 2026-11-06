@@ -1,0 +1,27 @@
+---
+title: Companies (Consolidation) Act 1908, section 158
+act: Companies (Consolidation) Act 1908
+section: '158'
+status: as-enacted
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/ukpga/Edw7/8/69/section/158
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Companies (Consolidation) Act 1908, section 158
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+## 158. Exercise and control of liquidator's powers in England.
+
+(1) Subject to the provisions of this Act, the liquidator of a company which is being wound up by the court in England shall, in the administration of the assets of the company and in the distribution thereof among its creditors, have regard to any directions that may be given by resolution of the creditors or contributories at any general meeting, or by the committee of inspection, and any directions given by the creditors or contributories at any general meeting shall in case of conflict be deemed to override any directions given by the committee of inspection.
+
+(2) The liquidator may summon general meetings of the creditors or contributories for the purpose of ascertaining their wishes, and it shall be his duty to summon meetings at such times as the creditors or contributories, by resolution, either at the meeting appointing the liquidator or otherwise, may direct, or whenever requested in writing to do so by one tenth in value of the creditors or contributories as the case may be.
+
+(3) The liquidator may apply to the court in manner prescribed for directions in relation to any particular matter arising under the winding up.
+
+(4) Subject to the provisions of this Act, the liquidator shall use his own discretion in the management of the estate and its distribution among the creditors.
+
+(5) If any person is aggrieved by any act or decision of the liquidator, that person may apply to the court, and the court may confirm, reverse, or modify the act or decision complained of, and make such order in the premises as it thinks just.

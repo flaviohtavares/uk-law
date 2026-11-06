@@ -1,0 +1,1232 @@
+---
+title: The Neighbourhood Planning (General) Regulations 2012
+id: uksi/2012/637
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2012-03-01'
+text_date: '2023-11-06'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2012/637
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2012/637/pdfs/uksiem_20120637_en.pdf
+- http://www.legislation.gov.uk/uksi/2012/637/pdfs/uksi_20120637_en.pdf
+- http://www.legislation.gov.uk/uksi/2012/637/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Neighbourhood Planning (General) Regulations 2012
+
+> Text as at 2023-11-06.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2012 No. 637
+
+Town And Country Planning, England
+
+The Neighbourhood Planning (General) Regulations 2012
+
+Made
+
+1st March 2012
+
+Laid before Parliament
+
+6th March 2012
+
+Coming into force
+
+6th April 2012
+
+The Secretary of State for Communities and Local Government, in exercise of the powers conferred by sections 61E, 61F, 61G, 61K, 61L, 61M and 71A of, and paragraphs 1, 4, 7, 8, 10, 11, 12 and 15 of Schedule 4B and paragraphs 3 and 11 of Schedule 4C to, the Town and Country Planning Act 1990 [^c21194901], and sections 38A, 38B and 122(1) of the Planning and Compulsory Purchase Act 2004 [^c21194911], and being a designated [^c21194921] Minister for the purposes of section 2(2) of the European Communities Act 1972 [^c21194931] in relation to the environment, makes the following Regulations.
+
+## PART 1 — General
+
+### 1. Citation and commencement
+
+These Regulations may be cited as the Neighbourhood Planning (General) Regulations 2012 and come into force on 6th April 2012.
+
+### 2. Review
+
+(1) Before the end of each review period, the Secretary of State must—
+
+- (a) carry out a review of these Regulations (other than regulations 32 and 33 and Schedules 2 and 3),
+- (b) set out the conclusions of the review in a report, and
+- (c) publish the report.
+
+(2) The report must in particular—
+
+- (a) set out the objectives intended to be achieved by the regulatory system established by these Regulations,
+- (b) assess the extent to which those objectives are achieved, and
+- (c) assess whether those objectives remain appropriate and, if so, the extent to which they could be achieved with a system that imposes less regulation.
+
+(3) “**Review period**” means—
+
+- (a) the period of five years beginning with the day on which these Regulations come into force, and
+- (b) subject to paragraph (4), each successive period of five years.
+
+(4) If a report under this regulation is published before the last day of the review period to which it relates, the following review period is to begin with the day on which that report is published.
+
+### 3. Interpretation
+
+In these Regulations—
+
+- “**the 1990 Act**” means the Town and Country Planning Act 1990;
+- “**the 2004 Act**” means the Planning and Compulsory Purchase Act 2004;
+- “**address**” in relation to electronic communications means any number or address used for the purposes of such communications;
+- “**approvals application**” means an application for approval, in relation to a condition or limitation subject to which planning permission is granted by a neighbourhood development order, under section 61L(2) of the 1990 Act;
+- “**area application**” means an application for the designation of a neighbourhood area made under section 61G of the 1990 Act;
+- “**consultation body**” has the meaning given in Schedule 1;
+- “**contact details**” means the name, address and telephone number of the person concerned;
+- “**EIA Regulations**” means the Town and Country Planning (Environmental Impact Assessment) Regulations 2017[^key-33383706932c5d31cde8822f46e66422];
+- “**electronic communication**” has the meaning given in section 15(1) of the Electronic Communications Act 2000 [^c21194951];
+- “**electronic communications apparatus**” has the meaning given in paragraph 5[^key-154304b08f2c1dff4c15b69ae265cb8c] of the electronic communications code;
+- “**electronic communications code**” has the meaning given in section 106(1) of the Communications Act 2003 [^c21194961];
+- “**inspection**” means inspection by the public;
+- “modification proposal” means a proposal submitted by a qualifying body under paragraph 1 of Schedule A2 to the 2004 Act;[^key-55985753db6fc8d0079f99fa7f239301]
+- “**neighbourhood forum application**” means an application for designation of a neighbourhood forum made by an organisation or body under section 61F of the 1990 Act;
+- “**order proposal**” means a proposal for a neighbourhood development order submitted by a qualifying body [^c21194971] under paragraph 1 of Schedule 4B to the 1990 Act or community right to build order submitted by a community organisation [^c21194981] under paragraph 1 of Schedule 4B to the 1990 Act, as read with paragraph 2 of Schedule 4C to the 1990 Act; and
+- “**plan proposal**” means a proposal for a neighbourhood development plan submitted by a qualifying body [^c21194991] under paragraph 1 of Schedule 4B to the 1990 Act (as applied, with modifications, by section 38A of the 2004 Act).
+
+### 4. Electronic communications
+
+(1) Where within these Regulations—
+
+- (a) a person is required to consult or seek representations from another person or body; and
+- (b) that other person has an address for the purposes of electronic communications;
+
+the document, copy, notice or notification may be sent or made by way of electronic communication.
+
+(2) Where within these Regulations a person may make representations on any matter or document, those representations may be made—
+
+- (a) in writing, or
+- (b) by way of electronic communication.
+
+(3) Where—
+
+- (a) an electronic communication is used as mentioned in paragraphs (1) and (2); and
+- (b) the communication is received by the recipient outside normal working hours;
+
+it shall be taken to have been received on the next working day.
+
+(4) In this regulation “**working day**” means a day which is not a Saturday, Sunday, bank holiday under the Banking and Financial Dealings Act 1971 [^c21195001] or other public holiday in England.
+
+## PART 2 — Neighbourhood Areas
+
+### 5. Application for designation of a neighbourhood area
+
+(1) Where a relevant body [^c21195011] submits an area application to the local planning authority it must include—
+
+- (a) a map which identifies the area to which the area application relates;
+- (b) a statement explaining why this area is considered appropriate to be designated as a neighbourhood area; and
+- (c) a statement that the organisation or body making the area application is a relevant body for the purposes of section 61G of the 1990 Act.
+
+(2) A local planning authority may decline to consider an area application if the relevant body has already made an area application and a decision has not yet been made on that application.
+
+### 5A. Designation of the whole of the area of a parish council[^key-fc3324d015cd19bc5c6e135f0b848bb8]
+
+(1) This regulation applies where—
+
+- (a) a local planning authority receive an area application from a parish council;
+- (b) the area specified in the application consists of the whole of the parish council’s area; and
+- (c) if any part of the specified area is part of a neighbourhood area, none of that neighbourhood area extends outside the parish council’s area.
+
+(2) The local planning authority must exercise their powers under section 61G of the 1990 Act to designate the specified area as a neighbourhood area.
+
+(3) Where this regulation applies, regulations 6 and 6A do not apply.
+
+### 6. Publicising an area application
+
+As soon as possible after receiving an area application from a relevant body, a local planning authority must publicise the following on their website and in such other manner as they consider is likely to bring the area application to the attention of people who live, work or carry on business in the area to which the area application relates—
+
+- (a) a copy of the area application;
+- (b) details of how to make representations; and
+- (c)[^key-0b5a38e9bea4ce6f0be2f2d0b22db132] the date by which those representations must be received, being [^key-6498f73e78ef4a6832fecb3cf8d8b6b3]... not less than six weeks from the date on which the area application is first publicised.
+
+### 6A. Prescribed date for determination of an area application[^key-e64b7899c1f12c356679854b62ac8ae0]
+
+(1) Where a local planning authority receive an area application from a relevant body the authority must determine the application by the date prescribed in paragraph (2).
+
+(2) The date prescribed in this paragraph is—
+
+- (a) in a case where the area to which the application relates falls within the areas of two or more local planning authorities, the date 20 weeks from the date immediately following that on which the application is first publicised;
+- (b)[^key-f701c9dda8689997ad979c575e32fb5a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c) in all other cases, the date 13 weeks from the date immediately following that on which the application is first publicised.
+
+(3)[^key-de7483f24ad2e8c3037df6fbd28ca629] Where the application has not been determined by the date prescribed in paragraph (2), the local planning authority must exercise their powers under section 61G of the 1990 Act so as to secure that the whole of the area specified in the application is designated as a neighbourhood area unless on that date—
+
+- (a) some or all of the specified area has been designated as a neighbourhood area; or
+- (b) some or all of the specified area is specified in another area application and that other area application has not been determined.
+
+### 7. Publicising a designation of a neighbourhood area etc
+
+(1) As soon as possible after designating a neighbourhood area, a local planning authority must publish the following on their website and in such other manner as they consider is likely to bring the designation to the attention of people who live, work or carry on business in the neighbourhood area—
+
+- (a) the name of the neighbourhood area;
+- (b) a map which identifies the area; and
+- (c) the name of the relevant body who applied for the designation.
+
+(2) As soon as possible after deciding to refuse to designate a neighbourhood area, a local planning authority must publish the following on their website and in such other manner as they consider is likely to bring the refusal to the attention of people who live, work or carry on business in the neighbourhood area —
+
+- (a) a document setting out the decision and a statement of their reasons for making that decision (“the decision document”); and
+- (b) details of where and when the decision document may be inspected.
+
+## PART 3 — Neighbourhood forums
+
+### 8. Application for designation of a neighbourhood forum
+
+Where an organisation or body submits a neighbourhood forum application to the local planning authority it must include—
+
+- (a) the name of the proposed neighbourhood forum;
+- (b) a copy of the written constitution of the proposed neighbourhood forum;
+- (c) the name of the neighbourhood area to which the application relates and a map which identifies the area;
+- (d) the contact details of at least one member of the proposed neighbourhood forum to be made public under regulations 9 and 10; and
+- (e) a statement which explains how the proposed neighbourhood forum meets the conditions contained in section 61F(5) of the 1990 Act.
+
+### 9. Publicising a neighbourhood forum application
+
+As soon as possible after receiving a neighbourhood forum application, which the local planning authority do not decline to consider under regulation 11, a local planning authority must publish the following on their website and in such other manner as they consider is likely to bring the application to the attention of people who live, work or carry on business in the area to which the application relates—
+
+- (a) a copy of the application;
+- (b) a statement that if a designation is made no other organisation or body may be designated for that neighbourhood area until that designation expires or is withdrawn;
+- (c) details of how to make representations; and
+- (d) the date by which those representations must be received, being not less than 6 weeks from the date on which the application is first publicised.
+
+### 9A. Prescribed date for determination of a neighbourhood forum application[^key-65e44a48b3abd8bb94fe71bef22ae146]
+
+(1) Where a local planning authority receive a neighbourhood forum application, which they do not decline to consider under regulation 11, the authority must determine the application by the date prescribed in paragraph (2).
+
+(2) The date prescribed in this paragraph is—
+
+- (a) in a case where the neighbourhood area to which the application relates falls within the areas of two or more local planning authorities, the date which is the last day of the period of 20 weeks beginning with the day immediately following that on which the application is first publicised in accordance with regulation 9;
+- (b) in all other cases, the date which is the last day of the period of 13 weeks beginning with the day immediately following that on which the application is first publicised in accordance with regulation 9.
+
+(3) The date prescribed in paragraph (2) does not apply where, on that date, the authority are considering another neighbourhood forum application and that other application relates to an area which consists of or includes some or all of the neighbourhood area to which the application mentioned in paragraph (1) relates.
+
+### 10. Publicising a designation of a neighbourhood forum
+
+(1) As soon as possible after designating a neighbourhood forum, a local planning authority must publish the following on their website and in such other manner as they consider is likely to bring the designation to the attention of people who live, work or carry on business in the neighbourhood area—
+
+- (a) the name of the neighbourhood forum;
+- (b) a copy of the written constitution of the neighbourhood forum;
+- (c) the name of the neighbourhood area to which the designation relates; and
+- (d) contact details for at least one member of the neighbourhood forum.
+
+(2) As soon as possible after deciding to refuse to designate a neighbourhood forum, a local planning authority must publish the following on their website and in such other manner as they consider is likely to bring the decision to the attention of people who live, work or carry on business in the neighbourhood area—
+
+- (a) a statement setting out the decision and their reasons for making that decision (“the refusal statement”); and
+- (b) details of where and when the refusal statement may be inspected.
+
+### 11. Subsequent applications
+
+Where a neighbourhood forum has been designated in relation to a neighbourhood area under section 61F of the 1990 Act, and that designation has not expired or been withdrawn, a local planning authority may decline to consider any neighbourhood forum application made in relation to that neighbourhood area.
+
+### 12. Voluntary withdrawal of designation
+
+(1) Where a neighbourhood forum gives notice to a local planning authority that it no longer wishes to be designated as the neighbourhood forum for a neighbourhood area, the local planning authority must withdraw the designation of the neighbourhood forum.
+
+(2) As soon as possible after withdrawing the designation of a neighbourhood forum under paragraph (1) or under section 61F(9) of the 1990 Act, a local planning authority must publish the following on their website and in such other manner as they consider is likely to bring the withdrawal of the designation to the attention of people who live, work or carry on business in the neighbourhood area—
+
+- (a) a statement setting out details of the withdrawal (“the withdrawal statement”); and
+- (b) details of where and when the withdrawal statement may be inspected.
+
+## PART 4 — Community right to build organisations
+
+### 13. Prescribed conditions for community right to build organisations
+
+(1) For the purposes of paragraph 3(1)(b) of Schedule 4C to the 1990 Act, the following additional conditions are prescribed for any community organisation which is not a parish council—
+
+- (a) individuals who live or work in the particular area for which the community organisation is established (“the particular area”) must be entitled to become voting members of the community organisation (whether or not others can also become voting members); and
+- (b) the constitution of the community organisation must—
+  - (i) provide that taken together the individuals who live in the particular area—
+    - (aa) hold the majority of the voting rights; and
+    - (bb) have the majority on the board of directors or governing body,
+
+    of the community organisation;
+  - (ii) include a statement—
+    - (aa) that the community organisation will carry on its activities for the benefit of the community in the particular area or a section of it; and
+    - (bb) indicating how it is proposed the community organisation's activities will benefit the community in the particular area (or a section of it);
+  - (iii) provide that any assets of the community organisation may not be disposed of, improved or developed except in a manner which the community organisation consider benefits the community in the particular area or a section of it; and
+  - (iv) provide that any profits from its activities may only be used to benefit the community in the particular area or a section of it (the payment of profits directly to members or directors is not to be considered a benefit to the community in the particular area or a section of it);
+  - (v) provide that in the event of the winding up of the community organisation or in any other circumstances where the community organisation ceases to exist, its assets must be transferred to another body corporate which has similar objectives; and
+  - (vi) provide that the organisation has at least 10 members, living in different dwellings to each other, who live in the particular area.
+
+(2) For the purposes of this regulation, “**dwelling**” has the meaning given in section 3 of the Local Government Finance Act 1992 [^c21195021].
+
+## PART 5 — Neighbourhood development plans
+
+### 14. Pre-submission consultation and publicity
+
+Before submitting a plan proposal or a modification proposal[^key-fba3cf5e1fd9ab0f8332eadff2ea0648] to the local planning authority, a qualifying body must—
+
+- (a) publicise, in a manner that is likely to bring it to the attention of people who live, work or carry on business in the neighbourhood area—
+  - (i) details of the proposals for a neighbourhood development plan or modification proposal[^key-1dc2e6b3be524036ffd48212bd06b7d3];
+  - (ii) details of where and when the proposals for a neighbourhood development plan or modification proposal may be inspected;
+  - (iii) details of how to make representations; [^key-df44b266925a426f60dfb7b7d5cd97b0]...
+  - (iv) the date by which those representations must be received, being not less than 6 weeks from the date on which the draft proposal is first publicised; and[^key-10e761e556fe0bc039da31e41a9098d3]
+  - (v) in relation to a modification proposal, a statement setting out whether or not the qualifying body consider that the modifications contained in the modification proposal are so significant or substantial as to change the nature of the neighbourhood development plan which the modification proposal would modify, giving reasons for why the qualifying body is of this opinion;
+- (b) consult any consultation body referred to in paragraph 1 of Schedule 1 whose interests the qualifying body considers may be affected by the proposals for a neighbourhood development plan or modification proposal; and
+- (c) send a copy of the proposals for a neighbourhood development plan or modification proposal to the local planning authority.
+
+### 15. Plan proposals and modification proposals[^key-364415583cfac11c20b09fe023d2a6b3]
+
+(1) Where a qualifying body submits a plan proposal or a modification proposal[^key-301f5678836964e3804da1687abefce2] to the local planning authority, it must include—
+
+- (a) a map or statement which identifies the area to which the proposed neighbourhood development plan or neighbourhood development plan as proposed to be modified[^key-82617ca023794f56ddd8552d77dcbd14] relates;
+- (b) a consultation statement;
+- (c) the proposed neighbourhood development plan; [^key-3d240e4c96fc5969232ceee34821634f]...
+- (d) a statement explaining how the proposed neighbourhood development plan or neighbourhood development plan as proposed to be modified[^key-e532fd71317026cd1bafd0ed0d45a8f7] meets the requirements of paragraph 8 of Schedule 4B to the 1990 Act or in the case of a modification proposal, how the neighbourhood development plan as proposed to be modified meets the requirements of paragraph 11 of Schedule A2 to the 2004 Act[^key-7785b01c90ea32c4cc9225862d5f0a4d] [^key-6bfc5b42501625e3d7fda8171348305f]...
+- (e)[^key-6b18fb05869f3363d56610e7b45e4a77]
+  - (i) an environmental report prepared in accordance with paragraphs (2) and (3) of regulation 12 of the Environmental Assessment of Plans and Programmes Regulations 2004; or
+  - (ii) where it has been determined under regulation 9(1) of those Regulations that the plan proposal or the modification proposal is unlikely to have significant environmental effects (and, accordingly, does not require an environmental assessment), a statement of reasons for the determination;and[^key-f212afef1fa879506bb15a314fd0496c]
+- (f) in relation to a modification proposal, a statement setting out the whether or not the qualifying body consider that the modifications contained in the modification proposal are so significant or substantial as to change the nature of the neighbourhood development plan which the modification proposal would modify, giving reasons for why the qualifying body is of this opinion.
+
+(2) In this regulation “**consultation statement**” means a document which—
+
+- (a) contains details of the persons and bodies who were consulted about the proposed neighbourhood development plan or neighbourhood development plan as proposed to be modified.[^key-886ff64494d5d26f8ad10b6ec068e545];
+- (b) explains how they were consulted;
+- (c) summarises the main issues and concerns raised by the persons consulted; and
+- (d) describes how these issues and concerns have been considered and, where relevant, addressed in the proposed neighbourhood development plan or neighbourhood development plan as proposed to be modified.[^key-cd8bd32e7a7f5c1acdc867c7eabf3280]
+
+### 16. Publicising a plan proposal or a modification proposal[^key-70b0b0f9124e303d7114f14d0ec975a7]
+
+As soon as possible after receiving a plan proposal or a modification proposal[^key-542f1b0bd191f9843a9aebc7cad866d3] which includes each of the documents referred to in regulation 15(1), a local planning authority must—
+
+- (a) publicise the following on their website and in such other manner as they consider is likely to bring the proposal to the attention of people who live, work or carry on business in the neighbourhood area—
+  - (i) details of the plan proposal or the modification proposal;
+  - (ii) details of where and when the plan proposal or the modification proposal may be inspected;
+  - (iii) details of how to make representations;
+  - (iv) in the case of a plan proposal,[^key-804ca681ec7528bf35ad2bffe96a2404] a statement that any representations may include a request to be notified of the local planning authority's decision under regulation 19 in relation to the neighbourhood development plan; and
+  - (v) the date by which those representations must be received, being not less than 6 weeks from the date on which the plan proposal or the modification proposal is first publicised; and
+- (b) notify any consultation body which is referred to in the consultation statement submitted in accordance with regulation 15, that the plan proposal or the modification proposal has been received.
+
+### 17. Submission of plan proposal or modification proposal to examination[^key-243eb42754ced8c8f35b0317befec492]
+
+As soon as possible after the appointment of a person to carry out an examination under paragraph 7 of Schedule 4B to the 1990 Act (as applied by section 38A of the 2004 Act) or paragraph 9 of Schedule A2 to the 2004 Act[^key-e29dfa459cca7ea0fc8efe1c6dd7b2b4], a local planning authority must send the following to the person appointed—
+
+- (a) the plan proposal or the modification proposal[^key-d315fcc5fd4ad2a10330602587ecad49];
+- (b) the documents referred to in regulation 15(1) and any other document submitted to the local planning authority by the qualifying body in relation to the plan proposal or the modification proposal;
+- (c) if the order proposal is one to which the Conservation of Habitats and Species Regulations 2017[^key-41707f20000c6be1b2263b29bd2ec339] applies, the information submitted in accordance with regulation 106[^key-38a6b5af37dc2ed3f001548a0c6125a4] of those Regulations; [^key-43e6f6b94fa3c26acdfdd84e7d0dceff]...
+- (d) a copy of any representations which have been made in accordance with regulation 16; and[^key-555dc1df067088812e398fefd2a7a096]
+- (e) in relation to a modification proposal—
+  - (i) a copy of the neighbourhood development plan as proposed to be modified;
+  - (ii) a statement setting out the whether or not the authority consider that the modifications contained in the modification proposal are so significant or substantial as to change the nature of the neighbourhood development plan which the modification proposal would modify, giving reasons for why the authority is of this opinion.
+
+### 17A. Decision on examiner’s recommendations[^key-52542b029899effcec5036eb70c03bff]
+
+(1) This regulation applies where an examiner has made a report under paragraph 10 of Schedule 4B to the 1990 Act (applied by section 38A(3) of the 2004 Act) in relation to a plan proposal.
+
+(2) The persons prescribed for the purposes of paragraph 13(1) of that Schedule are—
+
+- (a) the qualifying body;
+- (b) any person whose representation was submitted to the examiner of the plan proposal in accordance with regulation 17(d); and
+- (c) any consultation body which is referred to in the consultation statement mentioned in regulation 15.
+
+(3) Representations invited under paragraph 13(1) must be submitted on or before the date which is the last day of the period of 6 weeks beginning with the day immediately following that on which the local planning authority first invited representations.
+
+(4) On or before[^key-a383f8cdaabe1280180e8f2321aec19f] the date prescribed in paragraph (5) the local planning authority must decide what action to take in response to each recommendation made by the report mentioned in paragraph (1).
+
+(5) The date prescribed in this paragraph is—
+
+- (a) where the local planning authority and the qualifying body agree a date, that date;
+- (b) where sub-paragraph (a) does not apply but paragraph 13 of Schedule 4B to the 1990 Act (applied by section 38A(3) of the 2004 Act) applies—
+  - (i) where the authority refer the issue to independent examination, the date which is the last day of the period of 5 weeks beginning with the day immediately following that on which they receive the report of the examiner on that issue;
+  - (ii) where the authority do not refer the issue to independent examination, the date which is the last day of the period of 5 weeks beginning with the day immediately following the date prescribed in paragraph (3);
+- (c) in all other cases, the date which is the last day of the period of 5 weeks beginning with the day immediately following that on which the local planning authority receive the report mentioned in paragraph (1).
+
+### 18. Publication of the examiner's report and plan proposal or modification proposal decisions[^key-3e7b89c50614291e67c6d9e54bffd8a4]
+
+(1) Paragraph (2) applies where a local planning authority decide—
+
+- (a) to decline to consider a plan proposal under paragraph 5 of Schedule 4B to the 1990 Act (as applied by section 38A of the 2004 Act) or a modification proposal under paragraph 5 of Schedule A2 to the 2004 Act[^key-2cc073419a1ff85ed35cb133ad664f4d];
+- (b) to refuse a plan proposal under paragraph 6 of Schedule 4B to the 1990 Act (as applied by section 38A of the 2004 Act) or a modification proposal under paragraph 8 of Schedule A2 to the 2004 Act[^key-b2ac7a4090693d1d4eaf382490dfa70a] ;
+- (c) what action to take in response to the recommendations of an examiner made in a report under paragraph 10 of Schedule 4B to the 1990 Act (as applied by section 38A of the 2004 Act) in relation to a neighbourhood development plan or under paragraph 13 of Schedule A2 to the 2004 Act in relation to a proposed modification of a neighbourhood development plan[^key-f5f8e508dde5c474b2ad17252ab0b7a1];
+- (d) what modifications, if any, they are to make to the draft plan under paragraph 12(6) of Schedule 4B to the 1990 Act (as applied by section 38A of the 2004 Act) or paragraph 14(6) of Schedule A2 to the 2004 Act[^key-d002be96752d6dcf1d4885bc5395d5bb];
+- (e) whether to extend the area to which the referendum is (or referendums are) to take place; or
+- (f) that they are not satisfied with the plan proposal under paragraph 12(10) of Schedule 4B to the 1990 Act (as applied by section 38A of the 2004 Act) or the draft plan under paragraph 14(4) of Schedule A2 to the 2004 Act[^key-47b2fa5b82a9f083ff8a999f434316ce].
+
+(2) As soon as possible after making a decision referred to in paragraph (1), a local planning authority must publish—
+
+- (a) the decision and their reasons for it (“the decision statement”),
+- (b) details of where and when the decision statement may be inspected; and
+- (c) in the case of a decision mentioned in paragraph (1)(c), the report made by the examiner under paragraph 10 of Schedule 4B to the 1990 Act (as applied by section 38A of the 2004 Act) or paragraph 13 of Schedule A2 to the 2004 Act[^key-ec4198d855b3d519dea9ca6e46c25270] ,
+
+on their website and in such other manner as they consider is likely to bring the decision statement and, as the case may be, the report to the attention of people who live, work or carry on business in the neighbourhood area.
+
+### 18A. Prescribed date for making a neighbourhood development plan[^key-fb8909323199a57d4c6fd28262f190dd]
+
+(1) The date prescribed for the purposes of section 38A(4)(b) of the 2004 Act is the date which is the last day of the period of 8 weeks beginning with the day immediately following that on which the last applicable referendum is held.
+
+(2) Paragraph (1) does not apply where proceedings for questioning anything relating to an applicable referendum are brought in accordance with section 61N(3) of the 1990 Act (applied by section 38C(2)(d) of the 2004 Act) before the neighbourhood development plan is made.
+
+(3)[^key-f3e4dfdbe73f78208887065b51500b4d] The date prescribed for the purposes of paragraph 14(7) of Schedule A2 to the 2004 Act is—
+
+- (b) the last day of the period of 5 weeks beginning with the day immediately following that on which the examiner’s report was received by the local authority in accordance with paragraph 13 of Schedule A2 to the 2004 Act; or
+- (c) such later date as may be agreed in writing by the local planning authority and the qualifying body.
+
+### 19. Decision on a plan proposal
+
+As soon as possible after deciding to make a neighbourhood development plan under section 38A(4) of the 2004 Act or refusing to make a plan under section 38A(6) of the 2004 Act, a local planning authority must—
+
+- (a) publish on their website and in such other manner as they consider is likely to bring the decision to the attention of people who live, work or carry on business in the neighbourhood area—
+  - (i) a statement setting out the decision and their reasons for making that decision (“the decision statement”);
+  - (ii) details of where and when the decision statement may be inspected; and
+- (b) send a copy of the decision statement to—
+  - (i) the qualifying body; and
+  - (ii) any person who asked to be notified of the decision.
+
+### 20. Publicising a neighbourhood development plan
+
+As soon as possible after making a neighbourhood development plan under section 38A(4) or section 38A(11)[^key-116bed4b3637b7f16e61465df8696499] of the 2004 Act, a local planning authority must—
+
+- (a) publish on their website and in such other manner as they consider is likely to bring the decision to the attention of people who live, work or carry on business in the neighbourhood area—
+  - (i) the neighbourhood development plan; and
+  - (ii) details of where and when the neighbourhood development plan may be inspected; and
+- (b) notify any person who asked to be notified of the making of the neighbourhood development plan that it has been made and where and when it may be inspected.
+
+## PART 6 — Neighbourhood development orders and community right to build orders
+
+### 21. Pre-submission consultation and publicity
+
+Before submitting an order proposal to the local planning authority, a qualifying body must—
+
+- (a) publicise, in a manner that is likely to bring it to the attention of people who live, work or carry on business in the neighbourhood area—
+  - (i) details of the proposals for a neighbourhood development order or community right to build order;
+  - (ii) details of where and when the proposals may be inspected;
+  - (iii) details of how to make representations; and
+  - (iv) the date by which those representations must be received, being not less than 6 weeks from the date on which details of the proposals are first publicised;
+- (b) consult—
+  - (i) any consultation body referred to in paragraph 2(1)(a) to (c) of Schedule 1 whose interests the qualifying body considers may be affected by the proposals for a neighbourhood development order or a community right to build order; and
+  - (ii) where the qualifying body considers the development to be authorised under the proposed neighbourhood development order or community right to build order which falls within any category set out in the Table in paragraph 2 of Schedule 1, any consultation body mentioned in the Table in relation to each of those categories; and
+  - (iii) any person who, on the date 21 days before the order proposal is submitted under regulation 22, the qualifying body considers to be—
+    - (aa) an owner of any of the land which is proposed to be developed under the order proposal; and
+    - (bb) a tenant of any of that land; and
+- (c) send a copy of the proposals for a neighbourhood development order or a community right to build order to the local planning authority.
+
+### 22. Order proposals
+
+(1) Where a qualifying body submits an order proposal to the local planning authority it must include—
+
+- (a) a map which identifies the land to which the order proposal relates;
+- (b) a consultation statement;
+- (c) the proposed neighbourhood development order or community right to build order;
+- (d) where the qualifying body considers it appropriate, following consultation with the Historic Buildings and Monument Commission for England (known as English Heritage), an archaeology statement;
+- (e) a statement explaining how the proposed neighbourhood development order or a community right to build order meets the basic conditions in paragraph 8(2) of Schedule 4B to the 1990 Act; and
+- (f) in the case of a proposal for a community right to build order, details of the enfranchisement rights [^c21195051], if any, which the qualifying body proposes are not exercisable and the properties, or types of properties, in relation to which to the enfranchisement rights are not exercisable.
+
+(2) In this regulation—
+
+- “**archaeology statement**” means a document which—
+  - (a) confirms that the information in relation to archaeology contained in the historic environment record for the neighbourhood area has been reviewed;
+  - (b) sets out the findings from that review for the area to which the order proposal relates; and
+  - (c) explains how the findings have been taken into account in preparing the order proposal,
+
+  but where no findings relevant to the neighbourhood area were identified in the review the archaeology statement need only—
+
+  - (i) confirm that the review mentioned in sub-paragraph (a) took place; and
+  - (ii) explain there were no findings relevant to the neighbourhood area; and
+- “**consultation statement**” means a document which—
+  - (a) contains details of the persons and bodies who were consulted about the proposed neighbourhood development order or community right to build order;
+  - (b) explains how they were consulted;
+  - (c) summarises the main issues and concerns raised by the persons consulted; and
+  - (d) describes how these issues and concerns have been considered and, where relevant, addressed in the proposed neighbourhood development order or community right to build order.
+
+### 23. Publicising an order proposal
+
+(1) As soon as possible after receiving an order proposal which includes each of the documents referred to in regulation 22(1), a local planning authority must—
+
+- (a) publicise the following on their website and in such other manner they consider is likely to bring the proposal to the attention of people who live, work or carry on business in the neighbourhood area—
+  - (i) details of the order proposal;
+  - (ii) details of where and when the order proposal may be inspected;
+  - (iii) details of how to make representations;
+  - (iv) a statement that any representations may include a request to be notified of the local planning authority's decision under regulation 26 in relation to the neighbourhood development order or community right to build order; and
+  - (v) the date by which those representations must be received, being not less than 6 weeks from the date on which the proposal is first publicised; and
+- (b) notify any consultation body which is referred to in the consultation statement submitted in accordance with regulation 22, that the order proposal has been received.
+
+(2)[^key-a95cd8f8532cc1deaa900a41e9ffdf7e] As soon as possible after receiving an order proposal to which regulation 33 of the EIA Regulations applies, the local planning authority must, in addition to any publicity required under paragraph (1), publicise the information described in paragraph (1)(a) and the environmental statement submitted in accordance with the EIA Regulations by giving notice—
+
+- (a) by site display in at least one place on or near the land to which the order proposal relates for not less than 30 days;
+- (b) by publication of the notice in a newspaper circulating in the locality in which the land to which the order proposal relates is situated; and
+- (c) by publication on a website maintained by or on behalf of the authority.
+
+### 24. Submission of order proposal to examination
+
+As soon as possible after the appointment of a person to carry out an examination under paragraph 7 of Schedule 4B to the 1990 Act, a local planning authority must send the following to the person appointed—
+
+- (a) the order proposal;
+- (b) the documents referred to in regulation 22(1);
+- (c) if the order proposal is one to which regulation 33[^key-e1919cf72f565b2f9ceaa1c6ce24a8c3] of the EIA Regulations applies, the environmental statement submitted in accordance with those Regulations;
+- (d) if the order proposal is one to which the Conservation of Habitats and Species Regulations 2017[^key-f94f6a23ff25400f1f9212244b27d715] applies, the information submitted in accordance with regulation 63(2)[^key-e83b5630709c8628525ef9d2d1746f61] of those Regulations;
+- (e) any other document submitted to the local planning authority by the qualifying body in relation to the order proposal; and
+- (f) a copy of any representations which have been made in accordance with regulation 23.
+
+### 24A. Decision on examiner’s recommendations[^key-9aa8a75a0785ebabd9b15022290117e3]
+
+(1) This regulation applies where an examiner has made a report under paragraph 10 of Schedule 4B to the 1990 Act in relation to an order proposal.
+
+(2) The persons prescribed for the purposes of paragraph 13(1) of that Schedule are—
+
+- (a) the qualifying body;
+- (b) any person whose representation was submitted to the examiner of the order proposal in accordance with regulation 24(f); and
+- (c) any consultation body which is referred to in the consultation statement mentioned in regulation 22.
+
+(3) Representations invited under paragraph 13(1) must be submitted on or before the date which is the last day of the period of 6 weeks beginning with the day immediately following that on which the local planning authority first invited representations.
+
+(4) The local planning authority must decide what action to take in response to each recommendation made by the report mentioned in paragraph (1) by the date prescribed in paragraph (5).
+
+(5) The date prescribed in this paragraph is—
+
+- (a) where the local planning authority and the qualifying body agree a date, that date;
+- (b) where sub-paragraph (a) does not apply but paragraph 13 of Schedule 4B to the 1990 Act applies—
+  - (i) where the authority refer the issue to independent examination, the date which is the last day of the period of 5 weeks beginning with the day immediately following that on which they receive the report of the examiner on that issue;
+  - (ii) where the authority do not refer the issue to independent examination, the date which is the last day of the period of 5 weeks beginning with the day immediately following the date prescribed in paragraph (3);
+- (c) in all other cases, the date which is the last day of the period of 5 weeks beginning with the day immediately following that on which the local planning authority receive the report mentioned in paragraph (1).
+
+### 25. Publication of the examiner's report and order proposal decisions
+
+(1) Paragraph (2) applies where a local planning authority decide—
+
+- (a) to decline to consider an order proposal under paragraph 5 of Schedule 4B to the 1990 Act;
+- (b) to refuse an order proposal under paragraph 6 of Schedule 4B to the 1990 Act;
+- (c) what action to take in response to the recommendations of an examiner made in a report under paragraph 10 of Schedule 4B to the 1990 Act in relation to a neighbourhood development order or community right to build order (as modified in the case of community right to build orders by paragraphs 7 to 10 of Schedule 4C to the 1990 Act);
+- (d) what modifications, if any, they are to make to the draft neighbourhood development order or community right to build order under paragraph 12(6) of Schedule 4B to the 1990 Act (as modified in the case of community right to build orders by paragraphs 7 to 10 of Schedule 4C to the 1990 Act);
+- (e) whether to extend the area to which the referendum is (or referendums are) to take place; or
+- (f) that they are not satisfied with the proposed neighbourhood development order or community right to build order under paragraph 12(10) of Schedule 4B to the 1990 Act (as modified in the case of community right to build orders by paragraphs 7 to 10 of Schedule 4C to the 1990 Act).
+
+(2) As soon as possible after making a decision referred to in paragraph (1), a local planning authority must publish—
+
+- (a) the decision and their reasons for it (“the decision statement”),
+- (b) details of where and when the decision statement may be inspected, and
+- (c) in the case of a decision mentioned in sub-paragraph (c), the report made by the examiner under paragraph 10 of Schedule 4B to the 1990 Act,
+
+on their website and in such other m anner as they consider is likely to bring the decision statement and, as the case may be, the report to the attention of people who live, work or carry on business in the neighbourhood area.
+
+### 25A. Prescribed date for making a neighbourhood development order[^M_F_78165c27-a08b-43f8-bc3a-5911ccce9f56]
+
+(1) The date prescribed for the purposes of section 61E(4)(b) of the 1990 Act is the date which is the last day of the period of 8 weeks beginning with the day immediately following that on which the last applicable referendum is held.
+
+(2) Paragraph (1) does not apply where proceedings for questioning anything relating to an applicable referendum are brought in accordance with section 61N(3) of the 1990 Act before the neighbourhood development order is made.
+
+### 26. Decision on an order proposal
+
+As soon as possible after deciding to make the neighbourhood development order or community right to build order under section 61E(4) of the 1990 Act or to refuse to make it under section 61E(8) of the 1990 Act (as modified in the case of community right to build orders by paragraphs 7 to 10 of Schedule 4C to the 1990 Act), a local planning authority must—
+
+- (a) publish on their website and in such other manner as they consider is likely to bring the order to the attention of people who live, work or carry on business in the neighbourhood area—
+  - (i) a document setting out their decision and their reasons for making that decision (“the decision document”);
+  - (ii) details of where and when the decision document may be inspected;
+- (b) send a copy of the decision document to—
+  - (i) the qualifying body or the community organisation, as the case may be; and
+  - (ii) any person who asked to be notified of the decision.
+
+### 27. Publicising a neighbourhood development order or a community right to build order
+
+As soon as possible after making a neighbourhood development order or community right to build order under section 61E(4) of the 1990 Act, a local planning authority must —
+
+- (a) publish on their website and in such other manner as they consider is likely to bring the order to the attention of people who live, work or carry on business in the neighbourhood area —
+  - (i) the neighbourhood development order or community right to build order; and
+  - (ii) details of where and when the order may be inspected;
+- (b) notify any person who asked to be notified of the making of the neighbourhood development order or community right to build order that it has been made and where and when it may be inspected.
+
+## PART 7 — Community right to build orders
+
+### 28. Enfranchisement rights
+
+(1) Subject to paragraph (2), for the purposes of paragraph 11 of Schedule 4C to the 1990 Act, a community organisation may only provide that an enfranchisement right is not exercisable in relation to a property which is not an existing residential property.
+
+(2) An enfranchisement right is not exercisable in relation to land the development of which is authorised by a community right to build order if the community organisation specified in the order proposal—
+
+- (a) the enfranchisement rights which are not exercisable; and
+- (b) the properties, or types of properties, in relation to which those rights are not exercisable.
+
+(3) In this regulation—
+
+“**existing residential property**” means a property (including part of a building)—
+
+- (a) which exists on the date the order proposal was submitted by the community organisation to the local planning authority under regulation 22; and
+- (b) in relation to which, on that date, any tenant of the property has an enfranchisement right in respect of the property.
+
+### 29. Notice
+
+(1) Where as a result of the making of a community right to build order an enfranchisement right is not exercisable in respect of a property, a landlord who grants a tenancy in relation to the property must give notice to the tenant affected by endorsing a notice on the face of the tenancy stating that the enfranchisement right in question is not exercisable.
+
+(2) Provided the community organisation complies with regulation 28 a failure to give notice in accordance with paragraph (1) does not cause the enfranchisement right to be exercisable.
+
+## PART 8 — Revocation and modification of a neighbourhood development order, a community right to build order or a neighbourhood development plan
+
+### 30. Publicising a modification
+
+As soon as possible after modifying a neighbourhood development plan, a neighbourhood development order or community right to build order under section 61M(4) of the 1990 Act (as applied in the case of neighbourhood development plans by section 38C of the 2004 Act), a local planning authority must—
+
+- (a) publish on their website and in such other manner as they consider is likely to bring the order to the attention of people who live, work or carry on business in the neighbourhood area—
+  - (i) a document setting out details of the modification (“the modification document”); and
+  - (ii) details of where and when the modification document may be inspected; and
+- (b) give notice of the modification to the following—
+  - (i) the qualifying body or community organisation, as the case may be; and
+  - (ii) any person the authority previously notified of the making of the order or plan.
+
+### 31. Revocation
+
+As soon as possible after revoking a neighbourhood development plan, neighbourhood development order or community right to build order in accordance with section 61M of the 1990 Act (as applied in the case of neighbourhood development plans by section 38C of the 2004 Act), a local planning authority must—
+
+- (a) publish on their website and in such other manner as they consider is likely to bring the order to the attention of people who live, work or carry on business in the neighbourhood area—
+  - (i) a document setting out a statement of the revocation and the reasons for it (“the revocation document”); and
+  - (ii) details of where and when the revocation document may be inspected;
+- (b) give notice of the revocation to—
+  - (i) the qualifying body or community organisation, as the case may be;
+  - (ii) in the case of the revocation of a neighbourhood development order or community right to build order, any person who the authority knows to be the owner or tenant of any part of the land to which the order applies and whose name and address is known to the local planning authority;
+  - (iii) any person the local planning authority notified of the making of the neighbourhood development order, community right to build order or neighbourhood development plan; and
+  - (iv) any other person the local planning authority consider necessary in order to bring the revocation to the attention of people who live, work or carry on business in the area to which the revoked neighbourhood development order, community right to build order or neighbourhood development plan related; and
+- (c) cease to make the revoked neighbourhood development order, community right to build order or neighbourhood development plan available on their website and at any other place where it was available for inspection.
+
+## PART 8A — Intervention by the Secretary of State[^key-869c36ab486d2768d1ccd1b0cd86c90f]
+
+### 31A. Requests to intervene and dealing with requests
+
+(1) This regulation applies where a qualifying body requests the Secretary of State to intervene—
+
+- (a) in relation to an order proposal, under paragraph 13B of Schedule 4B to the 1990 Act; or
+- (b) in relation to a plan proposal, under that paragraph as applied by section 38A(3) of the 2004 Act.
+
+(2) The request must be in writing and give reasons for the request.
+
+(3) In a case where sub-paragraph (1)(b) or (c) of paragraph 13B of Schedule 4B to the 1990 Act applies, the request must be submitted to the Secretary of State by the date prescribed in paragraph (4).
+
+(4) The date prescribed in this paragraph is the last day of the period of 6 weeks beginning with the day immediately following that on which the local planning authority first publish their decision in accordance with regulation 18(2) (in the case of a plan proposal) or 25(2) (in the case of an order proposal).
+
+(5) The Secretary of State may appoint an inspector to make any decision falling to be made by the Secretary of State under paragraph 13B of Schedule 4B to the 1990 Act in relation to the proposal.
+
+(6) The Secretary of State or the inspector may direct the authority to refrain from taking any action that is specified in the direction that the authority would otherwise be required or entitled to take under paragraph 12 or 13 of that Schedule in relation to the proposal.
+
+### 31B. Information provided to the Secretary of State
+
+Where a qualifying body makes a request in accordance with regulation 31A in relation to an order proposal or a plan proposal, the local planning authority must send to the Secretary of State or the inspector appointed under paragraph (5) of that regulation—
+
+- (a) the report made by the examiner of the proposal under paragraph 10 of Schedule 4B to the 1990 Act;
+- (b) in a case where sub-paragraph (1)(b) or (c) of paragraph 13B applies, the decision statement published in accordance with regulation 18(2) (in the case of a plan proposal) or 25(2) (in the case of an order proposal);
+- (c) in the case of a plan proposal, each of the documents referred to in regulation 17;
+- (d) in the case of an order proposal, each of the documents referred to in regulation 24;
+- (e) any representations received by the authority in response to an invitation under paragraph 13(1) of Schedule 4B to the 1990 Act;
+- (f) any other document held by the local planning authority that the authority consider to be relevant to the consideration of the request by the Secretary of State or the inspector; and
+- (g) any other document held by the local planning authority that is requested by the Secretary of State or the inspector.
+
+### 31C. Notification where Secretary of State proposes to differ from examiner
+
+The persons prescribed for the purposes of sub-paragraph (4)(a) of paragraph 13B of Schedule 4B to the 1990 Act are—
+
+- (a) the qualifying body; and
+- (b) in the case of a plan proposal,
+  - (i) any person whose representation was submitted to the examiner of the proposal in accordance with regulation 17(d); and
+  - (ii) any consultation body which is referred to in the consultation statement mentioned in regulation 15;
+- (c) in the case of an order proposal,
+  - (i) any person whose representation was submitted to the examiner of the proposal in accordance with regulation 24(f); and
+  - (ii) any consultation body which is referred to in the consultation statement mentioned in regulation 22.
+
+### 31D. Publication of directions
+
+(1) This regulation applies where the Secretary of State or the inspector appointed under paragraph (5) of regulation 31A gives a direction under sub-paragraph (2) or (3) of paragraph 13B of Schedule 4B to the 1990 Act.
+
+(2) The direction must be accompanied by a statement setting out the reasons of the Secretary of State or the inspector for making the direction.
+
+(3) As soon as possible after receiving the direction, the local planning authority must—
+
+- (a) publish—
+  - (i) the direction and the reasons; and
+  - (ii) the report made by the examiner under paragraph 10 of Schedule 4B to the 1990 Act (if that report has not been published in accordance with regulation 18(2)(c) (in the case of a plan proposal) or 25(2)(c) (in the case of an order proposal)),
+
+  on their website and in such other manner as they consider is likely to bring the direction and, as the case may be, the report to the attention of people who live, work or carry on business in the neighbourhood area; and
+- (b) send a copy of the direction and reasons to the qualifying body.
+
+## PART 9 — European legislation
+
+### 32. Habitats
+
+The provisions of Schedule 2 have effect.
+
+### 33. Environmental impact assessment
+
+The provisions of Schedule 3 have effect.
+
+Signed by authority of the Secretary of State for Communities and Local Government
+
+Greg Clark
+
+Minister of State
+
+Department for Communities and Local Government
+
+## SCHEDULE 1 — Consultation Bodies
+
+Regulation 3
+
+### 1. Neighbourhood development plans
+
+For the purposes of regulations 14 and 16, a “**consultation body**” means—
+
+- (a) where the local planning authority is a London borough council, the Mayor of London;
+- (b) a local planning authority, county council or parish council any part of whose area is in or adjoins the area of the local planning authority;
+- (c) the Coal Authority [^c21195081];
+- (d) the Homes and Communities Agency [^c21195091];
+- (e) Natural England [^c21195101];
+- (f) the Environment Agency [^c21195111];
+- (g) the Historic Buildings and Monuments Commission for England (known as English Heritage) [^c21195121];
+- (h) Network Rail Infrastructure Limited (company number 2904587);
+- (i)[^key-1a162a1d2c4f16dc67e75f740267e3a6] a strategic highways company any part of whose area is in or adjoins the neighbourhood area;
+- (ia) where the Secretary of State is the highway authority for any road in the area of a local planning authority any part of whose area is in or adjoins the neighbourhood area, the Secretary of State for Transport;
+- (j) the Marine Management Organisation [^c21195131];
+- (k) any person—
+  - (i) to whom the electronic communications code applies by virtue of a direction given under section 106(3)(a) of the Communications Act 2003; and
+  - (ii) who owns or controls electronic communications apparatus situated in any part of the area of the local planning authority;
+- (l) where it exercises functions in any part of the neighbourhood area—
+  - (i)[^key-98655ccdbb0f4ff6e0dd53a03a184b55] an integrated care board established under Chapter A3 of Part 2 of the National Health Service Act 2006[^key-625cf67e576f76e209671ba4ca3092a5];
+  - (iia) NHS England[^key-1f8aa3d92d4c694dce2df5a80309d0ae];
+  - (ii) a person to whom a licence has been granted under section 6(1)(b) and (c) of the Electricity Act 1989 [^c21195151];
+  - (iii) a person to whom a licence has been granted under section 7(2) of the Gas Act 1986 [^c21195161];
+  - (iv) a sewerage undertaker; and
+  - (v) a water undertaker;
+- (m) voluntary bodies some or all of whose activities benefit all or any part of the neighbourhood area;
+- (n) bodies which represent the interests of different racial, ethnic or national groups in the neighbourhood area;
+- (o) bodies which represent the interests of different religious groups in the neighbourhood area;
+- (p) bodies which represent the interests of persons carrying on business in the neighbourhood area; and
+- (q) bodies which represent the interests of disabled persons in the neighbourhood area.
+
+### 2. Neighbourhood development orders and community right to build orders
+
+(1) For the purposes of regulations 21 and 23, a “**consultation body**” means—
+
+- (a) any person referred to in paragraph 1(k) and (l);
+- (b) where the neighbourhood area to which the neighbourhood development order or community right to build order relates consists of or includes the whole or any part of the area of a parish council, that parish council;
+- (c) any parish council or, in the case of a neighbourhood development order (but not a community right to build order), a neighbourhood forum for an area which adjoins the neighbourhood area; and
+- (d) where the development to be authorised under the proposed neighbourhood development order or community right to build order falls within any category set out in the following Table, the person mentioned in the Table in relation to each of those categories.
+
+  Table
+
+  <table>
+  <tfoot>
+  <tr><td colspan="3"><sup>1</sup> S.I. 2010/2184.</td></tr>
+  <tr><td colspan="3"><sup>2</sup> 1953 c.49.</td></tr>
+  <tr><td colspan="3"><sup>3</sup> London Protected Vista Directions were made by the Secretary of State under section 74(1)(c) of the 1990 Act.</td></tr>
+  </tfoot>
+  <tbody>
+  <tr><th><em>Paragraph</em></th><th><em>Development</em></th><th><em>Consultation body</em></th></tr>
+  <tr><td>(a)</td><td>Any development.</td><td>The Historic Buildings and Monument Commission for England (known as English Heritage)</td></tr>
+  <tr><td>(b)</td><td>Development which falls within a category specified in Schedule 5 to the Town and Country Planning (Development Management Procedure) (England) Order 2010<sup>1</sup>.</td><td>The person mentioned in relation to that category of development in Schedule 5 to that Order</td></tr>
+  <tr><td>(c)</td><td>Development of land—<br>(i) forming the site of or in the neighbourhood of a civil aerodrome or technical site; or<br>(ii) involving the construction of any building or works extending 91.4 metres or more above ground level.</td><td>The Civil Aviation Authority and NATS Holdings Limited</td></tr>
+  <tr><td>(d)</td><td>Development of land—<br>(i) forming the site of or in the neighbourhood of a military aerodrome, technical site or explosives storage area; or<br>(ii) involving the construction of any highway or formation, laying out or alteration of any means of access to a highway, which is planned to run within 300 metres of the perimeter of a military aerodrome.</td><td>Secretary of State for Defence</td></tr>
+  <tr><td>(e)</td><td>Development which, in the qualifying body's opinion, is likely to affect any garden or park of special historic interest which is registered in accordance with section 8C of the Historic Buildings and Ancient Monuments Act 1953<sup>2</sup>.</td><td>The Garden History Society</td></tr>
+  <tr><td>(f)</td><td>Development in the area of a London borough council to which any of Protected Vista Directions issued by the Secretary of State for Communities and Local Government in July 2010 apply<sup>3</sup>.</td><td>Mayor of London and, in relation to the protected vista of the Tower of London from outside City Hall on Queen's Walk, the Historic Royal Palaces Trust</td></tr>
+  <tr><td>(g)</td><td>Development which consists of or includes the construction, formation or laying out of access to or from a trunk road.</td><td>The highway authority for the trunk road.</td></tr>
+  </tbody>
+  </table>
+
+  [^key-cb5c68bf1e279fd09e1586c3c853eb79]
+
+(2) In the above Table—
+
+- (a) in paragraphs (c) and (d) “**aerodrome**” means any area of land or water designed, equipped, set apart, commonly used or in prospective use for affording facilities for the landing and departure of aircraft and includes any area of space, whether on the ground, on the roof of a building or elsewhere, which is designed, equipped or set apart for affording facilities for the landing or departure of aircraft capable of descending or climbing vertically, particulars of which have been furnished by the Civil Aviation Authority or the Secretary of State to the local planning authority or authorities for the area in which it is situated;
+- (b) in paragraph (c) “**technical site**” means any area within which is sited or is proposed to be sited equipment operated by or on behalf of NATS Holdings Limited, any of its subsidiaries or such other person who holds a licence under Chapter 1 of Part 1 of the Transport Act 2000 [^c21195171] for the provision of air traffic services, particulars of which have been furnished by the Civil Aviation Authority to the planning authority or authorities for the area in which it is situated;
+- (c) in paragraph (d) “**technical site**” means any area within which is sited or is proposed to be sited equipment operated by or on behalf of the Secretary of State for Defence for the provision of air traffic services, particulars of which have been furnished by the Secretary of State for Defence to the planning authority or authorities for the area in which it is situated; and
+- (d) in paragraph (g) “trunk road” and “special road” have the meanings given in section 329 of the Highways Act 1980 [^c21195181].
+
+## SCHEDULE 2 — Habitats
+
+Regulation 32
+
+### 1. Neighbourhood development plans[^key-8e3617f46b9952664a57595f8155e55e]
+
+In relation to the examination of neighbourhood development plans the following basic condition is prescribed for the purpose of paragraph 8(2)(g) of Schedule 4B to the 1990 Act—
+
+- The making of the neighbourhood development plan does not breach the requirements of Chapter 8 of Part 6 of the Conservation of Habitats and Species Regulations 2017.
+
+### 2. Amendments to the Conservation of Habitats and Species Regulations 2010[^key-edf0d35045c0dde4e2d0b4488c52ca59]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**3.**[^key-edf0d35045c0dde4e2d0b4488c52ca59] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**4.**[^key-edf0d35045c0dde4e2d0b4488c52ca59] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**5.**[^key-edf0d35045c0dde4e2d0b4488c52ca59] ...................
+
+## SCHEDULE 3 — Environmental Impact Assessments
+
+Regulation 33
+
+**1.** In this Schedule—
+
+- “**EIA development**” means development which satisfies the definition of “Schedule 2 development” in regulation 2(1) of the EIA Regulations; and
+- “**environmental information**” has the meaning given in regulation 2(1) of the EIA Regulations.
+
+**2.** Where the development described in an order proposal is EIA development, the following basic condition is prescribed for the purpose of paragraph 8(2)(g) of Schedule 4B to the 1990 Act—
+
+Having regard to all material considerations, it is appropriate that the neighbourhood development order is made.
+
+### 3. Amendments to the EIA Regulations
+
+The EIA Regulations are amended in accordance with the following paragraphs.
+
+**4.** In regulation 2(1) (interpretation)—
+
+- (a) before the definition of “the Order”, insert—
+
+  > “**neighbourhood development order**” means a neighbourhood development order made pursuant to section 61E; [^c21195241]
+
+  ;
+- (b) before the definition of “principal council”, insert—
+
+  > “**order proposal**” means a proposal for the making of a neighbourhood development order by a qualifying body under paragraph 1 of Schedule 4B to the Act;
+
+  ; and
+- (c) before the definition of “register”, insert—
+
+  > “**qualifying body**” has the meaning given by section 61E(6);
+
+  .
+
+**5.** In regulation 25(b) (modifications where application by a local planning authority) for “regulations 7 and 8” substitute “ regulation 7 ”.
+
+**6.** After regulation 29 (local development orders) insert—
+
+> **29A. Neighbourhood development orders**
+>
+> (1) This regulation applies to Schedule 2 development for which an order proposal is submitted under paragraph 1 of Schedule 4B to the Act.
+>
+> (2) Paragraphs (3) and (4) apply where—
+>
+> - (a) the local planning authority adopt a screening opinion; or
+> - (b) the Secretary of State makes a screening direction under these Regulations,
+>
+> to the effect that the development is Schedule 2 development likely to have significant effects on the environment by virtue of factors such as its nature, size or location.
+>
+> (3) No referendum may be held under paragraph 12(4) of Schedule 4B to the Act on the making of a neighbourhood development order which would grant planning permission for Schedule 2 development likely to have significant effects on the environment by virtue of factors such as its nature, size or location unless—
+>
+> - (a) an environmental statement has been prepared in relation to that development;
+> - (b) the local planning authority are satisfied that the basic condition prescribed by paragraph 2 of Schedule 3 to the Neighbourhood Planning (General) Regulations 2012 is met; and
+> - (c) the local planning authority have first taken the environmental information into consideration, and have stated in their decision that they have done so.
+>
+> (4) In a case to which this regulation applies these Regulations have effect subject to the following modifications—
+>
+> - (a) regulation 3 shall not apply;
+> - (b) in regulation 4—
+>   - (i) for sub-paragraph (2)(a), substitute—
+>
+>     > - (a) the submission by a qualifying body in relation to that development of a statement referred to by the qualifying body as an environmental statement for the purposes of these Regulations; or
+>
+>     ; and
+>   - (ii) in sub-paragraph (7)(b), for “person” substitute “ qualifying body ”.
+> - (c) in regulation 5—
+>   - (i) for paragraph (1), substitute—
+>
+>     > (1) A qualifying body which is minded to submit an order proposal may request the relevant local planning authority to adopt a screening opinion.
+>
+>     ;
+>   - (ii) in paragraph (2)—
+>     - (aa) for “in relation to an application for planning permission” substitute “ by a qualifying body ”; and
+>     - (bb) for “person” substitute “ qualifying body ”;
+>   - (iii) paragraph (3) shall not apply; and
+>   - (iv) in paragraphs (4) to (8) for each reference to “person” substitute “ qualifying body ”;
+> - (d) in regulation 6 for each reference to “person” substitute “ qualifying body ”;
+> - (e) in regulation 7—
+>   - (i) for paragraph (a) substitute—
+>
+>     > - (a) an order proposal which has been submitted to them under paragraph 1 of Schedule 4B to the Act relates to Schedule 2 development; and
+>
+>     ;
+>   - (ii) in paragraph (c)—
+>     - (aa) for “application” substitute “ order proposal ”; and
+>     - (bb) for “applicant” substitute “ qualifying body ”; and
+>   - (iii) for “or lodging of the application” substitute “ of the order proposal ”;
+> - (f) regulations 8 and 9 shall not apply;
+> - (g) in regulation 10—
+>   - (i) for paragraph (1) substitute—
+>
+>     > (1) Where—
+>     >
+>     > - (a) a qualifying body submits an order proposal which is not accompanied by a statement referred to by the qualifying body as an environmental statement for the purposes of these Regulations; and
+>     > - (b) the relevant planning authority is of the view that the development is Schedule 2 development likely to have significant effects on the environment by virtue of factors such as its nature, size or location,
+>     >
+>     > the authority shall notify the qualifying body in writing that the submission of an environmental statement is required.
+>
+>     ;
+>   - (ii) in paragraph (2)—
+>     - (aa) for “application” substitute “ order proposal ”; and
+>     - (bb) for “applicant” substitute “ qualifying body ”;
+>   - (iii) in paragraph (3)—
+>     - (aa) for each reference to “applicant” substitute “ qualifying body ”; and
+>     - (bb) for “application” substitute “ order proposal ”;
+>   - (iv) for paragraphs (4) to (7) substitute—
+>
+>     > (4) A qualifying body receiving a notification pursuant to paragraph (1) may, within 3 weeks beginning with the date of the notification, write to the relevant planning authority stating—
+>     >
+>     > - (a) that it accepts their view and is providing an environmental statement; or
+>     > - (b) unless the condition referred to in paragraph (5) is satisfied, that it is writing to the Secretary of State to request a screening direction.
+>     >
+>     > (5) For the purpose of paragraph (4)(b) the condition is that the Secretary of State has made a screening direction in respect of the development.
+>     >
+>     > (6) If the qualifying body does not write to the authority in accordance with paragraph (4), unless the condition referred to in paragraph (7) is satisfied, at the end of the 3 week period the relevant planning authority must decline to consider the order proposal.
+>     >
+>     > (7) For the purpose of paragraph (6) the condition is that the Secretary of State has made a screening direction to the effect that the development is not EIA development.
+>
+>     ;
+>   - (v) in paragraph (8) for “determine the relevant application only by refusing planning permission or subsequent consent” substitute “ decline to consider the order proposal ”; and
+>   - (vi) in paragraph (9)—
+>     - (aa) for “person” substitute “ qualifying body ”;
+>     - (bb) for “applicant” substitute “ qualifying body ”;
+>     - (cc) for each reference to “application” substitute “ order proposal ”;
+>     - (dd) sub-paragraphs (d) and (e) shall not apply;
+> - (h) regulations 11 and 12 shall not apply;
+> - (i) in regulation 13—
+>   - (i) for paragraphs (1) and (2) substitute—
+>
+>     > **13.** (1) A qualifying body which is minded to submit an order proposal in respect of Schedule 2 development likely to have significant effects on the environment by virtue of factors such as its size, nature or location may ask the relevant planning authority to state in writing their opinion as to the information to be provided in the environmental statement (“a scoping opinion”).
+>     >
+>     > (2) A request under paragraph (1) shall include—
+>     >
+>     > - (a) a plan sufficient to identify the land;
+>     > - (b) a brief description of the nature and purpose of the development and of its possible effects on the environment; and
+>     > - (c) such other information or representations as the qualifying body may wish to provide or make.
+>
+>     ;
+>   - (ii) for each reference to “person” substitute “ qualifying body ”; and
+>   - (iii) for paragraph (9) substitute—
+>
+>     > (9) An authority which have adopted a scoping opinion in response to a request under paragraph (1) shall not be precluded from requiring additional information from the qualifying body in connection with any statement that may be submitted as an environmental statement in connection with any order proposal that relates to the same development as was referred to in the request.
+>
+>     ;
+> - (j) in regulation 14—
+>   - (i) for each reference to “person” substitute “ qualifying body ”; and
+>   - (ii) for paragraph (6) substitute—
+>
+>     > (6) Neither the Secretary of State who has made a scoping direction in response to a request under paragraph (1) nor the relevant planning authority shall be precluded from requiring additional information from the qualifying body in connection with any statement that may be submitted as an environmental statement in connection with any order proposal that relates to the same development as was referred to in the request.
+>
+>     ;
+> - (k) in regulation 15—
+>   - (i) for each reference to “person” substitute “ qualifying body ”; and
+>   - (ii) in paragraph (3), omit “or 11(5) or 12(6)”;
+> - (l) in regulation 16—
+>   - (i) in paragraph (1) for “An applicant who makes an EIA application” substitute “ A qualifying body which makes an order proposal ”;
+>   - (ii) for each reference to “applicant” substitute “ qualifying body ”;
+>   - (iii) for each reference to “application” substitute “ order proposal ”; and
+>   - (iv) for paragraph (5) substitute—
+>
+>     > (5) The local planning authority shall not submit the order proposal for independent examination under paragraph 7 of Schedule 4B to the Act until the expiry of 14 days from the last date on which a copy of the statement was served in accordance with this regulation.
+>
+>     ;
+> - (m) in regulation 17—
+>   - (i) for paragraphs (1) and (2) (a) and (b) substitute—
+>
+>     > **17. Publicity where an environmental statement is submitted after the order proposal**
+>     >
+>     > (1) Where a qualifying body has submitted an order proposal without an environmental statement and the qualifying body later proposes to submit such a statement, it shall, before submitting it, comply with paragraphs (2) to (5).
+>     >
+>     > (2) The qualifying body shall publish in a local newspaper circulating in the locality in which the land to which the order proposal relates is situated a notice stating—
+>     >
+>     > - (a) the qualifying body's name, that an order proposal has been submitted, and the name and address of the relevant planning authority;
+>     > - (b) the date on which the order proposal was submitted;
+>
+>     ;
+>   - (ii) in sub-paragraph (2)(d)(i) for “application” substitute “ order proposal ”;
+>   - (iii) sub-paragraph (2)(d)(ii) shall not apply;
+>   - (iv) for sub-paragraph (2)(i) and (j) substitute—
+>
+>     > - (i) that any person wishing to make representations about the order proposal should make them in writing, before the date named in accordance with sub-paragraph (e), to the relevant planning authority.
+>
+>     ;
+>   - (v) in sub-paragraph (3)—
+>     - (aa) for “An applicant who” substitute “ A qualifying body which ”;
+>     - (bb) omit “, 11(4) or 12(5)”;
+>   - (vi) in paragraphs (4) and (6) for each reference to “applicant” substitute “ qualifying body ”;
+>   - (vii) for paragraph (7) substitute—
+>
+>     > (7) Where a qualifying body indicates that it intends to provide a statement in the circumstances mentioned in paragraph (1), the relevant planning authority must not consider the order proposal further until 21 days following the receipt of the statement and of the other documents so mentioned.
+>
+>     ; and
+>   - (viii) omit paragraph (8);
+> - (n) regulations 18 and 19 shall not apply;
+> - (o) for regulation 20 substitute—
+>
+>   > **20. Availability of copies of environmental statements**
+>   >
+>   > A qualifying body which submits an environmental statement in connection with a order proposal, shall ensure that a reasonable number of copies of the statement are available at the address named in the notices published or posted pursuant to regulation 23(2) of the Neighbourhood Planning (General) Regulations 2012 or regulation 17 as the address at which such copies may be obtained.
+>
+>   ;
+> - (p) In regulation 22—
+>   - (i) for paragraph (1) substitute—
+>
+>     > (1) Where a relevant planning authority or independent examiner dealing with an order proposal in relation to which a qualifying body has submitted an environmental statement are of the opinion that the statement should contain additional information in order to be an environmental statement, the authority or the examiner, as the case may be, shall notify the qualifying body in writing accordingly, and the qualifying body shall provide that additional information; and such information provided by the qualifying body is referred to in these Regulations as “**further information**”.
+>
+>     ;
+>   - (ii) for sub-paragraph (3)(a) substitute—
+>
+>     > - (a) the name of the qualifying body and the name and address of the relevant planning authority;
+>
+>     ;
+>   - (iii) for sub-paragraph (3)(b) substitute—
+>
+>     > - (b) the date on which the order proposal was submitted;
+>
+>     ;
+>   - (iv) sub-paragraph (3)(c) shall not apply;
+>   - (v) in sub-paragraph (3)(f) for “planning permission or subsequent application” substitute “ order proposal ”;
+>   - (vi) in sub-paragraph (3)(k) for “, the Secretary of State or the inspector (as the case may be)” substitute “ or independent examiner. ”;
+>   - (vii) in paragraph (6) for “applicant or appellant” substitute “ qualifying body ”;
+>   - (viii) for paragraph (7), substitute—
+>
+>     > (7) Where information is requested under paragraph (1) or any other information is provided—
+>     >
+>     > - (a) the relevant planning authority shall not consider the proposal further until 21 days following the receipt of the statement and of the other documents so mentioned;
+>     > - (b) the independent examiner shall not make their report until 21 days following the receipt of the statement and of the other documents so mentioned.
+>   - (ix) in paragraph (8) for “applicant or appellant” substitute “ qualifying body ”; and
+>   - (x) for paragraph (10) substitute—
+>
+>     > (10) The relevant planning authority or independent examiner may in writing require a qualifying body to produce such evidence as they may reasonably call for to verify any information in the environmental statement.
+>
+>     ;
+> - (q) In regulation 23—
+>   - (i) for paragraph (1) substitute—
+>
+>     > (1) Where particulars of an order proposal are placed on the register, the relevant planning authority shall take steps to secure that there is also placed on the register a copy of any relevant—
+>
+>     ;
+>   - (ii) in sub-paragraph (1)(e) omit “, 11(2) or 12(4)”; and
+>   - (iii) in paragraph (2) for “application is made for planning permission or subsequent consent” substitute “ order proposal is submitted by a qualifying body ”;
+> - (r) in regulation 24—
+>   - (i) for “Where an EIA application is determined by a local planning authority,” substitute “ As soon as possible after making a decision to make the neighbourhood development order under section 61E(4) of the Act or to refuse to make it under section 61E(8) of the Act, ”; and
+>   - (ii) paragraphs (2) and (3) shall not apply.
+> - (s) Parts 7 to 10 shall not apply; and
+> - (t) in regulation 53—
+>   - (i) in paragraph (3) for each reference to “application” substitute “ order proposal ”;
+>   - (ii) in sub-paragraph (4)(b) for “before planning permission for the development is granted” substitute “before a decision is made under paragraph 12(4) of Schedule 4B to the Act that the draft order meets the basic conditions; and
+>   - (iii) in paragraph (6) for “on the determination of the application concerned” substitute “ on a decision being made under paragraph 12(4) of Schedule 4B to the Act that the draft order meets the basic conditions ”.
+
+.
+
+**7.** In regulation 36(b) (appeal to Secretary of State without an environmental statement) for “paragraph (2) of this regulation” substitute “ regulation 31 ”.
+
+**8.** In regulation 38 (further information and evidence respecting environmental statements) for “this regulation” substitute “ this Part ”.
+
+**9.** In regulation 43 (modification of provisions on prohibition of granting planning permission or subsequent consent)—
+
+- (a) for “regulation 3(1)” substitute “ regulation 3 ”; and
+- (b) in paragraph (b) for “article 29(2)” substitute “ article 29(3) ”.
+
+**10.** In regulation 47(2) (modification of provisions on preparation, publicity and procedures on submission of environmental statements) for “(3A) Where” substitute “ (4) Where ”.
+
+**11.** In regulation 49(2)(b) and (c) (suspension of minerals development) for “paragraph (16)” substitute “ paragraph (1) ”.
+
+**12.** In regulation 64(5) delete “laid”.
+
+**13.** In paragraph 2(c)(v) of Schedule 3 (selection criteria for screening Schedule 2 development) before “areas designated by Member States” insert “areas classified or protected under Member States' legislation”.
+
+*(This note is not part of the Regulations)*
+
+The Localism Act 2011 provided a new statutory regime for neighbourhood planning. These Regulations make provision in relation to that new regime.
+
+Regulation 2 requires the Secretary of State to review the operation and effect of these Regulations and publish a report before Parliament within five years after they come into force and within every five years after that. Following a review it will fall to the Secretary of State to consider whether the Regulations should remain as they are, or be revoked or be amended. A further instrument would be needed to revoke the Regulations or to amend them.
+
+Part 2 of the Regulations makes provision in relation to the procedure for designating a neighbourhood area, including the content of the application and what the local planning authority must do to publicise such an application (regulations 5 and 6).
+
+Part 3 of the Regulations makes provision in relation to the procedure for designating an organisation or body as a neighbourhood forum, which authorises them to act in relation to the related neighbourhood area. In particular, provision is made as to the content of an application, what the local planning authority must do to publicise an application and publicising any designation of a neighbourhood forum (regulations 8 to 12).
+
+Part 4 of the Regulations makes provision in relation to additional prescribed conditions a community organisation must satisfy in order to be a community right to build organisation. Including allowing anyone from the area to be a member of the organisation and ensuring that such members have majority voting rights for the body and prescribing the way profits must be used and assets distributed on a winding up (regulation 13).
+
+Part 5 of the Regulations makes provision in relation to procedure for making neighbourhood development plans. These are plans which the parish council or neighbourhood forum propose and following a referendum, the local planning authority makes. In particular, provision is made as to the consultation and publicity prior to submission of a proposal to a local planning authority, the content of a proposal, what the local planning authority must do to publicise a proposal and their decision on a proposal, and for publicising any neighbourhood development plan which is made. (regulations 14 to 20)
+
+Part 6 of the Regulations makes provision in relation to neighbourhood development orders (and community right to build orders, which are a particular type of neighbourhood development order). These orders grant planning permission in the area, they are proposed by the parish council or neighbourhood forum and following a referendum, made by the local planning authority. In particular, provision is made as to the consultation and publicity prior to submission of a proposal to a local planning authority, the content of a proposal, what the local planning authority must do to publicise a proposal and their decision on a proposal, and for publicising any neighbourhood development order (or community right to build order) which is made. (regulations 21 to 27)
+
+Part 7 of the Regulations makes provision in relation to the exclusion of enfranchisement rights in relation to particular properties or types of properties in an area covered by a community right to build order. Enfranchisement rights may not be exercised by tenants in such areas where the proposal for the community right to build order specified this is to be the case. Landlords of properties in the area to which the exclusion applies are required to endorse the face of the lease or tenancy with a notice as to the exclusion. (regulations 28 and 29)
+
+Part 8 of the Regulations makes provision in relation to the revocation or modification of neighbourhood development orders (including community right to build orders) and neighbourhood development plans. In particular, provision is made for publicising any modifications or revocations made. (regulations 30 and 31)
+
+[^c21195251][^c21195261]Part 9 of the Regulations introduces Schedules 2 and 3, which make provision for compliance with the requirements of the Habitats Directive and the Environmental Impact Assessment Directive (“**the EIA Directive**”) . (regulations 32 and 33)
+
+Schedule 1 sets out the two different lists of consultation bodies, paragraph 1 provides the list of consultees for neighbourhood development plans, and paragraph 2 provides the list of consultees for neighbourhood development orders and community right to build orders.
+
+Schedule 2 makes provision in relation to the Habitats Directive. The Directive requires that any plan or project, likely to have a significant effect on a European site, must be subject to an appropriate assessment. To achieve this, paragraph 1 prescribes a basic condition that the making of a neighbourhood development plan is not likely to have a significant effect on a European site or a European offshore marine site. Paragraphs 2 to 5 of the Schedule amend the Conservation of Habitats and Species Regulations 2010 so as to apply its provisions to neighbourhood development orders and neighbourhood development plans. In particular paragraph 4 inserts new regulation 78A which provides that a neighbourhood development order may not grant planning permission for development which is likely to have a significant effect on a European site or a European offshore marine site.
+
+[^c21195271]Schedule 3 makes provision in relation to the EIA Directive. The Directive requires that EIA development must be subject to a development consent process. To enable this, Schedule 3 prescribes a basic condition that applies where development which is the subject of a proposal for a neighbourhood development order is of a type caught by the EIA Directive, and applies the relevant provisions of the Town and Country Planning (Environmental Impact Assessment) Regulations 2011 (“**the EIA Regulations**”) with appropriate modifications (regulation 33 and paragraphs 1 to 4 and 6 of Schedule 3). Paragraphs 5 and 7 to 13 of Schedule 3 correct errors in the EIA Regulations.
+
+An impact assessment has been prepared in relation to these Regulations. The assessment has been placed in the Library of each House of Parliament and can be found on the Department for Communities and Local Government website ( httip://www.communities.gov.uk ).
+
+## Annotations
+
+[^c21194901]: Marginal citation: [1990 c.8](https://www.legislation.gov.uk/ukpga/1990/8). Sections 61E to 61G, 61L and 61M and Schedules 4B and 4C were inserted by section 116 of, and Schedules 9, 10 and 11 to, the [Localism Act 2011 (c.20)](https://www.legislation.gov.uk/ukpga/2011/20). Section 71A was inserted by section 15 of the [Planning and Compensation Act 1991 (c.34)](https://www.legislation.gov.uk/ukpga/1991/34). See section 336(1) for definition of “prescribed”.
+
+[^c21194911]: Marginal citation: [2004 c.5](https://www.legislation.gov.uk/ukpga/2004/5). Section 38A was inserted by section 116 of, and paragraph 7 of Schedule 9 to, the [Localism Act 2011 (c.20)](https://www.legislation.gov.uk/ukpga/2011/20).
+
+[^c21194921]: Marginal citation: The Secretary of State is so designated by [S.I. 2008/301](https://www.legislation.gov.uk/uksi/2008/301).
+
+[^c21194931]: Marginal citation: [1972 c.68](https://www.legislation.gov.uk/ukpga/1972/68). Section 2(2) includes power to make certain provisions in relation to the European Economic Area by virtue of section 2(5) of the [European Economic Area Act 1993 (c.51)](https://www.legislation.gov.uk/ukpga/1993/51).
+
+[^key-33383706932c5d31cde8822f46e66422]: Textual amendment: Word in reg. 3 substituted (16.5.2017) by [The Town and Country Planning (Environmental Impact Assessment) Regulations 2017 (S.I. 2017/571)](https://www.legislation.gov.uk/uksi/2017/571), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/571/regulation/1/1), [75(2)](https://www.legislation.gov.uk/uksi/2017/571/regulation/75/2) (with [regs. 47](https://www.legislation.gov.uk/uksi/2017/571/regulation/47), [70](https://www.legislation.gov.uk/uksi/2017/571/regulation/70))
+
+[^c21194951]: Marginal citation: [2000 c.7](https://www.legislation.gov.uk/ukpga/2000/7).
+
+[^key-154304b08f2c1dff4c15b69ae265cb8c]: Textual amendment: Words in reg. 3 substituted (28.12.2017) by [The Communications Act 2003 and the Digital Economy Act 2017 (Consequential Amendments to Secondary Legislation) Regulations 2017 (S.I. 2017/1011)](https://www.legislation.gov.uk/uksi/2017/1011), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1011/regulation/1/1), [Sch. 3 para. 7(2)](https://www.legislation.gov.uk/uksi/2017/1011/schedule/3/paragraph/7/2)
+
+[^c21194961]: Marginal citation: [2003 c.21](https://www.legislation.gov.uk/ukpga/2003/21).
+
+[^key-55985753db6fc8d0079f99fa7f239301]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/uksi/2012/637/regulation/3) inserted (31.1.2018) by [The Neighbourhood Planning (General) and Development Management Procedure (Amendment) Regulations 2017 (S.I. 2017/1243)](https://www.legislation.gov.uk/uksi/2017/1243), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1243/regulation/1), [3](https://www.legislation.gov.uk/uksi/2017/1243/regulation/3) (with [reg. 13](https://www.legislation.gov.uk/uksi/2017/1243/regulation/13))
+
+[^c21194971]: Marginal citation: For the purposes of neighbourhood development orders, the definition of “qualifying body” is in section 61E(6) of the 1990 Act (inserted by paragraph 2 of the Localism Act 2011). A “community organisation” is to be regarded as a qualifying body (see paragraph 4(2) of Schedule 4C to the 1990 Act) (as inserted by Schedule 11 to the Localism Act 2011).
+
+[^c21194981]: Marginal citation: The definition of “community organisation” is in paragraph 3 of Schedule 4C to the 1990 Act.
+
+[^c21194991]: Marginal citation: For the purposes of neighbourhood development plans the definition of “qualifying body” is in section 38A(12) of the 2004 Act (as inserted by paragraph 7 of the Localism Act 2011).
+
+[^c21195001]: Marginal citation: [1971 c.80](https://www.legislation.gov.uk/ukpga/1971/80).
+
+[^c21195011]: Marginal citation: For the definition of “relevant body” see section 61G(2) of the 1990 Act (inserted by paragraph 2 of Schedule 9 to the [Localism Act 2011 (c.20)](https://www.legislation.gov.uk/ukpga/2011/20).
+
+[^key-fc3324d015cd19bc5c6e135f0b848bb8]: Textual amendment: Reg. 5A inserted (1.10.2016) by [The Neighbourhood Planning (General) and Development Management Procedure (Amendment) Regulations 2016 (S.I. 2016/873)](https://www.legislation.gov.uk/uksi/2016/873), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/873/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2016/873/regulation/2/2) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2016/873/regulation/4/1))
+
+[^key-0b5a38e9bea4ce6f0be2f2d0b22db132]: Textual amendment: Reg. 6(c) substituted (9.2.2015) by [The Neighbourhood Planning (General) (Amendment) Regulations 2015 (S.I. 2015/20)](https://www.legislation.gov.uk/uksi/2015/20), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/20/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2015/20/regulation/2/2) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/20/regulation/1/2))
+
+[^key-6498f73e78ef4a6832fecb3cf8d8b6b3]: Textual amendment: Words in reg. 6(c) omitted (1.10.2016) by virtue of [The Neighbourhood Planning (General) and Development Management Procedure (Amendment) Regulations 2016 (S.I. 2016/873)](https://www.legislation.gov.uk/uksi/2016/873), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/873/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2016/873/regulation/2/3) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2016/873/regulation/4/1))
+
+[^key-e64b7899c1f12c356679854b62ac8ae0]: Textual amendment: Reg. 6A inserted (9.2.2015) by [The Neighbourhood Planning (General) (Amendment) Regulations 2015 (S.I. 2015/20)](https://www.legislation.gov.uk/uksi/2015/20), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/20/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2015/20/regulation/2/3) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/20/regulation/1/2))
+
+[^key-f701c9dda8689997ad979c575e32fb5a]: Textual amendment: Reg. 6A(2)(b) omitted (1.10.2016) by virtue of [The Neighbourhood Planning (General) and Development Management Procedure (Amendment) Regulations 2016 (S.I. 2016/873)](https://www.legislation.gov.uk/uksi/2016/873), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/873/regulation/1/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/2016/873/regulation/2/4/a) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2016/873/regulation/4/1))
+
+[^key-de7483f24ad2e8c3037df6fbd28ca629]: Textual amendment: Reg. 6A(3) inserted (1.10.2016) by [The Neighbourhood Planning (General) and Development Management Procedure (Amendment) Regulations 2016 (S.I. 2016/873)](https://www.legislation.gov.uk/uksi/2016/873), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/873/regulation/1/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/2016/873/regulation/2/4/b) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2016/873/regulation/4/1))
+
+[^key-65e44a48b3abd8bb94fe71bef22ae146]: Textual amendment: [Reg. 9A](https://www.legislation.gov.uk/uksi/2012/637/regulation/9A) inserted (1.10.2016) by [The Neighbourhood Planning (General) and Development Management Procedure (Amendment) Regulations 2016 (S.I. 2016/873)](https://www.legislation.gov.uk/uksi/2016/873), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/873/regulation/1/1), [2(5)](https://www.legislation.gov.uk/uksi/2016/873/regulation/2/5) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2016/873/regulation/4/2))
+
+[^c21195021]: Marginal citation: [1992 c.14](https://www.legislation.gov.uk/ukpga/1992/14).
+
+[^key-fba3cf5e1fd9ab0f8332eadff2ea0648]: Textual amendment: Words in reg. 14 inserted (31.1.2018) by [The Neighbourhood Planning (General) and Development Management Procedure (Amendment) Regulations 2017 (S.I. 2017/1243)](https://www.legislation.gov.uk/uksi/2017/1243), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1243/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/2017/1243/regulation/4/2) (with [reg. 13](https://www.legislation.gov.uk/uksi/2017/1243/regulation/13))
+
+[^key-1dc2e6b3be524036ffd48212bd06b7d3]: Textual amendment: Words in reg. 14 inserted (31.1.2018) by [The Neighbourhood Planning (General) and Development Management Procedure (Amendment) Regulations 2017 (S.I. 2017/1243)](https://www.legislation.gov.uk/uksi/2017/1243), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1243/regulation/1), [4(3)](https://www.legislation.gov.uk/uksi/2017/1243/regulation/4/3) (with [reg. 13](https://www.legislation.gov.uk/uksi/2017/1243/regulation/13))
+
+[^key-df44b266925a426f60dfb7b7d5cd97b0]: Textual amendment: Word in reg. 14(a)(iii) omitted (31.1.2018) by virtue of [The Neighbourhood Planning (General) and Development Management Procedure (Amendment) Regulations 2017 (S.I. 2017/1243)](https://www.legislation.gov.uk/uksi/2017/1243), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1243/regulation/1), [4(4)](https://www.legislation.gov.uk/uksi/2017/1243/regulation/4/4) (with [reg. 13](https://www.legislation.gov.uk/uksi/2017/1243/regulation/13))
+
+[^key-10e761e556fe0bc039da31e41a9098d3]: Textual amendment: Reg. 14(a)(v) and word inserted (31.1.2018) by [The Neighbourhood Planning (General) and Development Management Procedure (Amendment) Regulations 2017 (S.I. 2017/1243)](https://www.legislation.gov.uk/uksi/2017/1243), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1243/regulation/1), [4(5)](https://www.legislation.gov.uk/uksi/2017/1243/regulation/4/5) (with [reg. 13](https://www.legislation.gov.uk/uksi/2017/1243/regulation/13))
+
+[^key-364415583cfac11c20b09fe023d2a6b3]: Textual amendment: Words in reg. 15 heading inserted (31.1.2018) by [The Neighbourhood Planning (General) and Development Management Procedure (Amendment) Regulations 2017 (S.I. 2017/1243)](https://www.legislation.gov.uk/uksi/2017/1243), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1243/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2017/1243/regulation/5/2) (with [reg. 13](https://www.legislation.gov.uk/uksi/2017/1243/regulation/13))
+
+[^key-301f5678836964e3804da1687abefce2]: Textual amendment: Words in reg. 15 inserted (31.1.2018) by [The Neighbourhood Planning (General) and Development Management Procedure (Amendment) Regulations 2017 (S.I. 2017/1243)](https://www.legislation.gov.uk/uksi/2017/1243), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1243/regulation/1), [5(3)](https://www.legislation.gov.uk/uksi/2017/1243/regulation/5/3) (with [reg. 13](https://www.legislation.gov.uk/uksi/2017/1243/regulation/13))
+
+[^key-82617ca023794f56ddd8552d77dcbd14]: Textual amendment: Words in reg. 15(1)(a) inserted (31.1.2018) by [The Neighbourhood Planning (General) and Development Management Procedure (Amendment) Regulations 2017 (S.I. 2017/1243)](https://www.legislation.gov.uk/uksi/2017/1243), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1243/regulation/1), [5(4)](https://www.legislation.gov.uk/uksi/2017/1243/regulation/5/4) (with [reg. 13](https://www.legislation.gov.uk/uksi/2017/1243/regulation/13))
+
+[^key-3d240e4c96fc5969232ceee34821634f]: Textual amendment: Word in reg. 15(1)(c) omitted (9.2.2015) by virtue of [The Neighbourhood Planning (General) (Amendment) Regulations 2015 (S.I. 2015/20)](https://www.legislation.gov.uk/uksi/2015/20), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/20/regulation/1/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/2015/20/regulation/2/4/a) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2015/20/regulation/1/3))
+
+[^key-e532fd71317026cd1bafd0ed0d45a8f7]: Textual amendment: Words in reg. 15(1)(c) inserted (31.1.2018) by [The Neighbourhood Planning (General) and Development Management Procedure (Amendment) Regulations 2017 (S.I. 2017/1243)](https://www.legislation.gov.uk/uksi/2017/1243), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1243/regulation/1), [5(5)](https://www.legislation.gov.uk/uksi/2017/1243/regulation/5/5) (with [reg. 13](https://www.legislation.gov.uk/uksi/2017/1243/regulation/13))
+
+[^key-7785b01c90ea32c4cc9225862d5f0a4d]: Textual amendment: Words in reg. 15(1)(d) inserted (31.1.2018) by [The Neighbourhood Planning (General) and Development Management Procedure (Amendment) Regulations 2017 (S.I. 2017/1243)](https://www.legislation.gov.uk/uksi/2017/1243), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1243/regulation/1), [5(6)](https://www.legislation.gov.uk/uksi/2017/1243/regulation/5/6) (with [reg. 13](https://www.legislation.gov.uk/uksi/2017/1243/regulation/13))
+
+[^key-6bfc5b42501625e3d7fda8171348305f]: Textual amendment: Word in reg. 15(1)(d) omitted (31.1.2018) by virtue of [The Neighbourhood Planning (General) and Development Management Procedure (Amendment) Regulations 2017 (S.I. 2017/1243)](https://www.legislation.gov.uk/uksi/2017/1243), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1243/regulation/1), [5(6)](https://www.legislation.gov.uk/uksi/2017/1243/regulation/5/6) (with [reg. 13](https://www.legislation.gov.uk/uksi/2017/1243/regulation/13))
+
+[^key-6b18fb05869f3363d56610e7b45e4a77]: Textual amendment: Reg. 15(1)(e) and word inserted (9.2.2015) by [The Neighbourhood Planning (General) (Amendment) Regulations 2015 (S.I. 2015/20)](https://www.legislation.gov.uk/uksi/2015/20), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/20/regulation/1/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/2015/20/regulation/2/4/b) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2015/20/regulation/1/3))
+
+[^key-f212afef1fa879506bb15a314fd0496c]: Textual amendment: Reg. 15(1)(f) and word inserted (31.1.2018) by [The Neighbourhood Planning (General) and Development Management Procedure (Amendment) Regulations 2017 (S.I. 2017/1243)](https://www.legislation.gov.uk/uksi/2017/1243), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1243/regulation/1), [5(7)](https://www.legislation.gov.uk/uksi/2017/1243/regulation/5/7) (with [reg. 13](https://www.legislation.gov.uk/uksi/2017/1243/regulation/13))
+
+[^key-886ff64494d5d26f8ad10b6ec068e545]: Textual amendment: Words in reg. 15(2)(a) inserted (31.1.2018) by [The Neighbourhood Planning (General) and Development Management Procedure (Amendment) Regulations 2017 (S.I. 2017/1243)](https://www.legislation.gov.uk/uksi/2017/1243), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1243/regulation/1), [5(8)](https://www.legislation.gov.uk/uksi/2017/1243/regulation/5/8) (with [reg. 13](https://www.legislation.gov.uk/uksi/2017/1243/regulation/13))
+
+[^key-cd8bd32e7a7f5c1acdc867c7eabf3280]: Textual amendment: Words in reg. 15(2)(d) inserted (31.1.2018) by [The Neighbourhood Planning (General) and Development Management Procedure (Amendment) Regulations 2017 (S.I. 2017/1243)](https://www.legislation.gov.uk/uksi/2017/1243), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1243/regulation/1), [5(8)](https://www.legislation.gov.uk/uksi/2017/1243/regulation/5/8) (with [reg. 13](https://www.legislation.gov.uk/uksi/2017/1243/regulation/13))
+
+[^key-70b0b0f9124e303d7114f14d0ec975a7]: Textual amendment: Words in reg. 16 heading inserted (31.1.2018) by [The Neighbourhood Planning (General) and Development Management Procedure (Amendment) Regulations 2017 (S.I. 2017/1243)](https://www.legislation.gov.uk/uksi/2017/1243), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1243/regulation/1), [6(2)](https://www.legislation.gov.uk/uksi/2017/1243/regulation/6/2) (with [reg. 13](https://www.legislation.gov.uk/uksi/2017/1243/regulation/13))
+
+[^key-542f1b0bd191f9843a9aebc7cad866d3]: Textual amendment: Words in reg. 16 inserted (31.1.2018) by [The Neighbourhood Planning (General) and Development Management Procedure (Amendment) Regulations 2017 (S.I. 2017/1243)](https://www.legislation.gov.uk/uksi/2017/1243), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1243/regulation/1), [6(3)](https://www.legislation.gov.uk/uksi/2017/1243/regulation/6/3) (with [reg. 13](https://www.legislation.gov.uk/uksi/2017/1243/regulation/13))
+
+[^key-804ca681ec7528bf35ad2bffe96a2404]: Textual amendment: Words in reg. 16(a)(iv) inserted (31.1.2018) by [The Neighbourhood Planning (General) and Development Management Procedure (Amendment) Regulations 2017 (S.I. 2017/1243)](https://www.legislation.gov.uk/uksi/2017/1243), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1243/regulation/1), [6(4)](https://www.legislation.gov.uk/uksi/2017/1243/regulation/6/4) (with [reg. 13](https://www.legislation.gov.uk/uksi/2017/1243/regulation/13))
+
+[^key-243eb42754ced8c8f35b0317befec492]: Textual amendment: Words in [reg. 17](https://www.legislation.gov.uk/uksi/2012/637/regulation/17) heading inserted (31.1.2018) by [The Neighbourhood Planning (General) and Development Management Procedure (Amendment) Regulations 2017 (S.I. 2017/1243)](https://www.legislation.gov.uk/uksi/2017/1243), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1243/regulation/1), [7(2)](https://www.legislation.gov.uk/uksi/2017/1243/regulation/7/2) (with [reg. 13](https://www.legislation.gov.uk/uksi/2017/1243/regulation/13))
+
+[^key-e29dfa459cca7ea0fc8efe1c6dd7b2b4]: Textual amendment: Words in [reg. 17](https://www.legislation.gov.uk/uksi/2012/637/regulation/17) inserted (31.1.2018) by [The Neighbourhood Planning (General) and Development Management Procedure (Amendment) Regulations 2017 (S.I. 2017/1243)](https://www.legislation.gov.uk/uksi/2017/1243), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1243/regulation/1), [7(3)](https://www.legislation.gov.uk/uksi/2017/1243/regulation/7/3) (with [reg. 13](https://www.legislation.gov.uk/uksi/2017/1243/regulation/13))
+
+[^key-d315fcc5fd4ad2a10330602587ecad49]: Textual amendment: Words in [reg. 17](https://www.legislation.gov.uk/uksi/2012/637/regulation/17) inserted (31.1.2018) by [The Neighbourhood Planning (General) and Development Management Procedure (Amendment) Regulations 2017 (S.I. 2017/1243)](https://www.legislation.gov.uk/uksi/2017/1243), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1243/regulation/1), [7(4)](https://www.legislation.gov.uk/uksi/2017/1243/regulation/7/4) (with [reg. 13](https://www.legislation.gov.uk/uksi/2017/1243/regulation/13))
+
+[^key-41707f20000c6be1b2263b29bd2ec339]: Textual amendment: Words in reg. 17(c) substituted (30.11.2017) by [The Conservation of Habitats and Species Regulations 2017 (S.I. 2017/1012)](https://www.legislation.gov.uk/uksi/2017/1012), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/1/2), [Sch. 6 para. 27(2)(a)](https://www.legislation.gov.uk/uksi/2017/1012/schedule/6/paragraph/27/2/a)
+
+[^key-38a6b5af37dc2ed3f001548a0c6125a4]: Textual amendment: Words in reg. 17(c) substituted (30.11.2017) by [The Conservation of Habitats and Species Regulations 2017 (S.I. 2017/1012)](https://www.legislation.gov.uk/uksi/2017/1012), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/1/2), [Sch. 6 para. 27(2)(b)](https://www.legislation.gov.uk/uksi/2017/1012/schedule/6/paragraph/27/2/b)
+
+[^key-43e6f6b94fa3c26acdfdd84e7d0dceff]: Textual amendment: Word in [reg. 17(c)](https://www.legislation.gov.uk/uksi/2012/637/regulation/17/c) omitted (31.1.2018) by virtue of [The Neighbourhood Planning (General) and Development Management Procedure (Amendment) Regulations 2017 (S.I. 2017/1243)](https://www.legislation.gov.uk/uksi/2017/1243), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1243/regulation/1), [7(5)](https://www.legislation.gov.uk/uksi/2017/1243/regulation/7/5) (with [reg. 13](https://www.legislation.gov.uk/uksi/2017/1243/regulation/13))
+
+[^key-555dc1df067088812e398fefd2a7a096]: Textual amendment: [Reg. 17(e)](https://www.legislation.gov.uk/uksi/2012/637/regulation/17/e) and word inserted (31.1.2018) by [The Neighbourhood Planning (General) and Development Management Procedure (Amendment) Regulations 2017 (S.I. 2017/1243)](https://www.legislation.gov.uk/uksi/2017/1243), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1243/regulation/1), [7(6)](https://www.legislation.gov.uk/uksi/2017/1243/regulation/7/6) (with [reg. 13](https://www.legislation.gov.uk/uksi/2017/1243/regulation/13))
+
+[^key-52542b029899effcec5036eb70c03bff]: Textual amendment: Reg. 17A inserted (1.10.2016) by [The Neighbourhood Planning (General) and Development Management Procedure (Amendment) Regulations 2016 (S.I. 2016/873)](https://www.legislation.gov.uk/uksi/2016/873), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/873/regulation/1/1), [2(6)](https://www.legislation.gov.uk/uksi/2016/873/regulation/2/6) (with [reg. 4(3)](https://www.legislation.gov.uk/uksi/2016/873/regulation/4/3))
+
+[^key-a383f8cdaabe1280180e8f2321aec19f]: Textual amendment: Word in [reg. 17A(4)](https://www.legislation.gov.uk/uksi/2012/637/regulation/17A/4) substituted (31.1.2018) by [The Neighbourhood Planning (General) and Development Management Procedure (Amendment) Regulations 2017 (S.I. 2017/1243)](https://www.legislation.gov.uk/uksi/2017/1243), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1243/regulation/1), [8](https://www.legislation.gov.uk/uksi/2017/1243/regulation/8) (with [reg. 13](https://www.legislation.gov.uk/uksi/2017/1243/regulation/13))
+
+[^key-3e7b89c50614291e67c6d9e54bffd8a4]: Textual amendment: Words in [reg. 18](https://www.legislation.gov.uk/uksi/2012/637/regulation/18) heading inserted (31.1.2018) by [The Neighbourhood Planning (General) and Development Management Procedure (Amendment) Regulations 2017 (S.I. 2017/1243)](https://www.legislation.gov.uk/uksi/2017/1243), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1243/regulation/1), [9(2)](https://www.legislation.gov.uk/uksi/2017/1243/regulation/9/2) (with [reg. 13](https://www.legislation.gov.uk/uksi/2017/1243/regulation/13))
+
+[^key-2cc073419a1ff85ed35cb133ad664f4d]: Textual amendment: Words in [reg. 18(1)(a)](https://www.legislation.gov.uk/uksi/2012/637/regulation/18/1/a) inserted (31.1.2018) by [The Neighbourhood Planning (General) and Development Management Procedure (Amendment) Regulations 2017 (S.I. 2017/1243)](https://www.legislation.gov.uk/uksi/2017/1243), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1243/regulation/1), [9(3)](https://www.legislation.gov.uk/uksi/2017/1243/regulation/9/3) (with [reg. 13](https://www.legislation.gov.uk/uksi/2017/1243/regulation/13))
+
+[^key-b2ac7a4090693d1d4eaf382490dfa70a]: Textual amendment: Words in [reg. 18(1)(b)](https://www.legislation.gov.uk/uksi/2012/637/regulation/18/1/b) inserted (31.1.2018) by [The Neighbourhood Planning (General) and Development Management Procedure (Amendment) Regulations 2017 (S.I. 2017/1243)](https://www.legislation.gov.uk/uksi/2017/1243), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1243/regulation/1), [9(4)](https://www.legislation.gov.uk/uksi/2017/1243/regulation/9/4) (with [reg. 13](https://www.legislation.gov.uk/uksi/2017/1243/regulation/13))
+
+[^key-f5f8e508dde5c474b2ad17252ab0b7a1]: Textual amendment: Words in [reg. 18(1)(c)](https://www.legislation.gov.uk/uksi/2012/637/regulation/18/1/c) inserted (31.1.2018) by [The Neighbourhood Planning (General) and Development Management Procedure (Amendment) Regulations 2017 (S.I. 2017/1243)](https://www.legislation.gov.uk/uksi/2017/1243), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1243/regulation/1), [9(5)](https://www.legislation.gov.uk/uksi/2017/1243/regulation/9/5) (with [reg. 13](https://www.legislation.gov.uk/uksi/2017/1243/regulation/13))
+
+[^key-d002be96752d6dcf1d4885bc5395d5bb]: Textual amendment: Words in [reg. 18(1)(d)](https://www.legislation.gov.uk/uksi/2012/637/regulation/18/1/d) inserted (31.1.2018) by [The Neighbourhood Planning (General) and Development Management Procedure (Amendment) Regulations 2017 (S.I. 2017/1243)](https://www.legislation.gov.uk/uksi/2017/1243), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1243/regulation/1), [9(6)](https://www.legislation.gov.uk/uksi/2017/1243/regulation/9/6) (with [reg. 13](https://www.legislation.gov.uk/uksi/2017/1243/regulation/13))
+
+[^key-47b2fa5b82a9f083ff8a999f434316ce]: Textual amendment: Words in [reg. 18(1)(f)](https://www.legislation.gov.uk/uksi/2012/637/regulation/18/1/f) inserted (31.1.2018) by [The Neighbourhood Planning (General) and Development Management Procedure (Amendment) Regulations 2017 (S.I. 2017/1243)](https://www.legislation.gov.uk/uksi/2017/1243), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1243/regulation/1), [9(7)](https://www.legislation.gov.uk/uksi/2017/1243/regulation/9/7) (with [reg. 13](https://www.legislation.gov.uk/uksi/2017/1243/regulation/13))
+
+[^key-ec4198d855b3d519dea9ca6e46c25270]: Textual amendment: Words in [reg. 18(2)(c)](https://www.legislation.gov.uk/uksi/2012/637/regulation/18/2/c) inserted (31.1.2018) by [The Neighbourhood Planning (General) and Development Management Procedure (Amendment) Regulations 2017 (S.I. 2017/1243)](https://www.legislation.gov.uk/uksi/2017/1243), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1243/regulation/1), [9(8)](https://www.legislation.gov.uk/uksi/2017/1243/regulation/9/8) (with [reg. 13](https://www.legislation.gov.uk/uksi/2017/1243/regulation/13))
+
+[^key-fb8909323199a57d4c6fd28262f190dd]: Textual amendment: Reg. 18A inserted (1.10.2016) by [The Neighbourhood Planning (General) and Development Management Procedure (Amendment) Regulations 2016 (S.I. 2016/873)](https://www.legislation.gov.uk/uksi/2016/873), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/873/regulation/1/1), [2(7)](https://www.legislation.gov.uk/uksi/2016/873/regulation/2/7) (with [reg. 4(4)](https://www.legislation.gov.uk/uksi/2016/873/regulation/4/4))
+
+[^key-f3e4dfdbe73f78208887065b51500b4d]: Textual amendment: Reg. 18A(3) added (31.1.2018) by [The Neighbourhood Planning (General) and Development Management Procedure (Amendment) Regulations 2017 (S.I. 2017/1243)](https://www.legislation.gov.uk/uksi/2017/1243), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1243/regulation/1), [10](https://www.legislation.gov.uk/uksi/2017/1243/regulation/10) (with [reg. 13](https://www.legislation.gov.uk/uksi/2017/1243/regulation/13))
+
+[^key-116bed4b3637b7f16e61465df8696499]: Textual amendment: Words in [reg. 20](https://www.legislation.gov.uk/uksi/2012/637/regulation/20) inserted (31.1.2018) by [The Neighbourhood Planning (General) and Development Management Procedure (Amendment) Regulations 2017 (S.I. 2017/1243)](https://www.legislation.gov.uk/uksi/2017/1243), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1243/regulation/1), [11](https://www.legislation.gov.uk/uksi/2017/1243/regulation/11) (with [reg. 13](https://www.legislation.gov.uk/uksi/2017/1243/regulation/13))
+
+[^c21195051]: Marginal citation: “Enfranchisement rights” are defined in paragraph 11 of Schedule 4C to the 1990 Act.
+
+[^key-a95cd8f8532cc1deaa900a41e9ffdf7e]: Textual amendment: Reg. 23(2) substituted (16.5.2017) by [The Town and Country Planning (Environmental Impact Assessment) Regulations 2017 (S.I. 2017/571)](https://www.legislation.gov.uk/uksi/2017/571), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/571/regulation/1/1), [75(3)](https://www.legislation.gov.uk/uksi/2017/571/regulation/75/3) (with [regs. 47](https://www.legislation.gov.uk/uksi/2017/571/regulation/47), [70](https://www.legislation.gov.uk/uksi/2017/571/regulation/70))
+
+[^key-e1919cf72f565b2f9ceaa1c6ce24a8c3]: Textual amendment: Words in reg. 24(c) substituted (16.5.2017) by [The Town and Country Planning (Environmental Impact Assessment) Regulations 2017 (S.I. 2017/571)](https://www.legislation.gov.uk/uksi/2017/571), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/571/regulation/1/1), [75(4)](https://www.legislation.gov.uk/uksi/2017/571/regulation/75/4) (with [regs. 47](https://www.legislation.gov.uk/uksi/2017/571/regulation/47), [70](https://www.legislation.gov.uk/uksi/2017/571/regulation/70))
+
+[^key-f94f6a23ff25400f1f9212244b27d715]: Textual amendment: Words in reg. 24(d) substituted (30.11.2017) by [The Conservation of Habitats and Species Regulations 2017 (S.I. 2017/1012)](https://www.legislation.gov.uk/uksi/2017/1012), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/1/2), [Sch. 6 para. 27(3)(a)](https://www.legislation.gov.uk/uksi/2017/1012/schedule/6/paragraph/27/3/a)
+
+[^key-e83b5630709c8628525ef9d2d1746f61]: Textual amendment: Words in reg. 24(d) substituted (30.11.2017) by [The Conservation of Habitats and Species Regulations 2017 (S.I. 2017/1012)](https://www.legislation.gov.uk/uksi/2017/1012), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/1/2), [Sch. 6 para. 27(3)(b)](https://www.legislation.gov.uk/uksi/2017/1012/schedule/6/paragraph/27/3/b)
+
+[^key-9aa8a75a0785ebabd9b15022290117e3]: Textual amendment: Reg. 24A inserted (1.10.2016) by [The Neighbourhood Planning (General) and Development Management Procedure (Amendment) Regulations 2016 (S.I. 2016/873)](https://www.legislation.gov.uk/uksi/2016/873), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/873/regulation/1/1), [2(8)](https://www.legislation.gov.uk/uksi/2016/873/regulation/2/8) (with [reg. 4(3)](https://www.legislation.gov.uk/uksi/2016/873/regulation/4/3))
+
+[^M_F_78165c27-a08b-43f8-bc3a-5911ccce9f56]: Textual amendment: Reg. 25A inserted (1.10.2016) by [The Neighbourhood Planning (General) and Development Management Procedure (Amendment) Regulations 2016 (S.I. 2016/873)](https://www.legislation.gov.uk/uksi/2016/873), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/873/regulation/1/1), [2(9)](https://www.legislation.gov.uk/uksi/2016/873/regulation/2/8) (with [reg. 4(3)](https://www.legislation.gov.uk/uksi/2016/873/regulation/4/3))
+
+[^key-869c36ab486d2768d1ccd1b0cd86c90f]: Textual amendment: Pt. 8A inserted (1.10.2016) by [The Neighbourhood Planning (General) and Development Management Procedure (Amendment) Regulations 2016 (S.I. 2016/873)](https://www.legislation.gov.uk/uksi/2016/873), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/873/regulation/1/1), [2(10)](https://www.legislation.gov.uk/uksi/2016/873/regulation/2/10) (with [reg. 4(5)](https://www.legislation.gov.uk/uksi/2016/873/regulation/4/5))
+
+[^c21195081]: Marginal citation: See section 1 of the [Coal Industry Act 1994 (c.21)](https://www.legislation.gov.uk/ukpga/1994/21).
+
+[^c21195091]: Marginal citation: See section 2 of the [Housing and Regeneration Act 2008 (c.17)](https://www.legislation.gov.uk/ukpga/2008/17).
+
+[^c21195101]: Marginal citation: See section 1 of the [Natural Environment and Rural Communities Act 2006 (c.16)](https://www.legislation.gov.uk/ukpga/2006/16).
+
+[^c21195111]: Marginal citation: See section 1(1) of the [Environment Act 1995 (c.25)](https://www.legislation.gov.uk/ukpga/1995/25).
+
+[^c21195121]: Marginal citation: See section 32 of the [National Heritage Act 1983 (c.47)](https://www.legislation.gov.uk/ukpga/1983/47).
+
+[^key-1a162a1d2c4f16dc67e75f740267e3a6]: Textual amendment: Sch. 1 para. 1(i)(ia) substituted for Sch. 1 para. 1(i) (1.4.2015) by [The Infrastructure Act 2015 (Strategic Highways Companies) (Consequential, Transitional and Savings Provisions) Regulations 2015 (S.I. 2015/377)](https://www.legislation.gov.uk/uksi/2015/377), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/377/regulation/1/2), [Sch. para. 53(2)](https://www.legislation.gov.uk/uksi/2015/377/schedule/paragraph/53/2)
+
+[^c21195131]: Marginal citation: See section 1 of the [Marine and Coastal Access Act 2009 (c.23)](https://www.legislation.gov.uk/ukpga/2009/23).
+
+[^key-98655ccdbb0f4ff6e0dd53a03a184b55]: Textual amendment: Sch. 1 para. 1(l)(i)(ia) substituted for Sch. 1 para. 1(l)(i) (1.4.2013) by [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 168](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/168)
+
+[^key-625cf67e576f76e209671ba4ca3092a5]: Textual amendment: Words in Regulations substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1)
+
+[^key-1f8aa3d92d4c694dce2df5a80309d0ae]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
+
+[^c21195151]: Marginal citation: [1989 c.29](https://www.legislation.gov.uk/ukpga/1989/29). Section 6 was substituted by section 30 of the [Utilities Act 2000 (c.27)](https://www.legislation.gov.uk/ukpga/2000/27).
+
+[^c21195161]: Marginal citation: [1986 c.44](https://www.legislation.gov.uk/ukpga/1986/44). Section 7 was amended sections 3(2), 76(1) and (3) of, and paragraphs 1 and 4 of Schedule 6 to, the Utilities Act 2000.
+
+[^key-cb5c68bf1e279fd09e1586c3c853eb79]: Textual amendment: Sch. 1 para. 2(1)(g) substituted (1.4.2015) by [The Infrastructure Act 2015 (Strategic Highways Companies) (Consequential, Transitional and Savings Provisions) Regulations 2015 (S.I. 2015/377)](https://www.legislation.gov.uk/uksi/2015/377), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/377/regulation/1/2), [Sch. para. 53(3)](https://www.legislation.gov.uk/uksi/2015/377/schedule/paragraph/53/3)
+
+[^c21195171]: Marginal citation: [2000 c.38](https://www.legislation.gov.uk/ukpga/2000/38).
+
+[^c21195181]: Marginal citation: [1980 c.66](https://www.legislation.gov.uk/ukpga/1980/66).
+
+[^key-8e3617f46b9952664a57595f8155e55e]: Textual amendment: [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2012/637/schedule/2/paragraph/1) substituted (28.12.2018) by [The Conservation of Habitats and Species and Planning (Various Amendments) (England and Wales) Regulations 2018 (S.I. 2018/1307)](https://www.legislation.gov.uk/uksi/2018/1307), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1307/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2018/1307/regulation/3/2)
+
+[^key-edf0d35045c0dde4e2d0b4488c52ca59]: Textual amendment: Sch. 2 paras. 2-5 omitted (30.11.2017) by virtue of [The Conservation of Habitats and Species Regulations 2017 (S.I. 2017/1012)](https://www.legislation.gov.uk/uksi/2017/1012), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/1/2), [Sch. 6 para. 27(4)(ii)](https://www.legislation.gov.uk/uksi/2017/1012/schedule/6/paragraph/27/4/ii)
+
+[^c21195241]: Marginal citation: [Section 61E](https://www.legislation.gov.uk/uksi/2012/637/section/61E) of the Town and Country Planning Act 1990 was inserted by paragraph 2 of Schedule 9 to the Localism Act 2011.
+
+[^c21195251]: Marginal citation: Council Directive 92/43/EEC on the conservation of natural habitats and of wild fauna and flora (OJ No. L 206, 22.7.1992, p. 7), last amended by Council Directive 2006/105/EC (OJ No. L 363, 20.12.2006, p. 368).
+
+[^c21195261]: Marginal citation: Council Directive 85/337/EEC on the assessment of the effects of certain public and private projects on the environment (OJ No. L 175, 5.7.1985, p. 40), as amended by Council Directive 97/11/EC (OJ No. L 73, 14.3.1997, p. 5) and Council Directive 2009/31/EC (OJ No. L 140, 5.6.2009, p. 114).
+
+[^c21195271]: Marginal citation: [S.I. 2011/1824](https://www.legislation.gov.uk/uksi/2011/1824).

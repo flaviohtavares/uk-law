@@ -1,0 +1,64 @@
+---
+title: Finance Act 2004, section 274ZB
+act: Finance Act 2004
+section: 274ZB
+status: revised-with-pending-changes
+text_date: '2026-07-14'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2004/12/section/274ZB
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Finance Act 2004, section 274ZB
+
+> **Warning: changes not yet applied to this text (15).** Text as at 2026-07-14. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/12
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 274ZB. Treatment of pension benefits reclaimed from reclaim fund etc[^M_F_be117235-bcd1-472e-c7ef-e9561810b9af]
+
+*Extent: E+W+S+N.I.*
+
+(1) Subsection (2) applies where an amount is paid out of an authorised reclaim fund in respect of transferred dormant eligible pension benefits.
+
+(2) For the purposes of income tax and this Part, the amount paid out is to be treated as having been paid as a consequence of a right that is the same as the original rights, acquired as the original rights were acquired and having the same characteristics as those rights.
+
+(3) The Commissioners for His Majesty’s Revenue and Customs may make regulations in relation to cases where—
+
+- (a) an amount is paid out of an authorised reclaim fund in respect of transferred dormant eligible pension benefits,
+- (b) the registered pension scheme from which the benefits were transferred was wound up before the payment of that amount, and
+- (c) the payment, or part of the payment, is treated (by virtue of subsection (2)) as being the payment by a registered pension scheme of—
+  - (i) a pension protection lump sum death benefit,
+  - (ii) an annuity protection lump sum death benefit,
+  - (iii) a drawdown pension fund lump sum death benefit, or
+  - (iv) a flexi-access drawdown fund lump sum death benefit.
+
+(4) Regulations under subsection (3) may provide that a person specified in the regulations—
+
+- (a) is to be treated as the scheme administrator for the purposes of the operation of section 206;
+- (b) is responsible for the discharge of all obligations imposed on the scheme administrator by or under this Part so far as related to the liability imposed by that section to pay tax in respect of it.
+
+(5) Regulations under subsection (3) may—
+
+- (a) make specific or general provision;
+- (b) make different provision for different cases.
+
+(6) No liability to income tax arises in respect of income derived from investments or deposits—
+
+- (a) that are held by an authorised reclaim fund, and
+- (b) that relate to an amount transferred to the authorised reclaim fund in respect of transferred dormant eligible pension benefits.
+
+(7) For the purposes of subsection (6), it does not matter when liability to income tax on income within that subsection would otherwise arise.
+
+(8) Subsection (2) of section 186 (income) applies for the purposes of subsection (6) of this section as it applies for the purposes of subsection (1) of that section.
+
+(9) For the purposes of this section—
+
+- “**authorised reclaim fund**” has the same meaning as in the Dormant Assets Acts 2008 to 2022;
+- “**the original rights**” are a person’s rights against the scheme administrator of a registered pension scheme, in respect of the benefits subsequently transferred by the scheme administrator to an authorised reclaim fund, immediately before the transfer;
+- “**transferred dormant eligible pension benefits**” means dormant eligible pensions benefits owing to a person that have been transferred by the scheme administrator of a registered pension scheme to an authorised reclaim fund with the result that section 5 of the Dormant Assets Act 2022 (transfer of eligible pension benefits to reclaim fund) applies (and references to benefits being transferred are to be construed accordingly).
+
+## Annotations
+
+[^M_F_be117235-bcd1-472e-c7ef-e9561810b9af]: Textual amendment: S. 274ZB and cross-heading inserted (11.7.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [s. 348(1)(d)(3)](https://www.legislation.gov.uk/ukpga/2023/30/section/348/1/d/3)

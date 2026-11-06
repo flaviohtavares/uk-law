@@ -1,0 +1,52 @@
+---
+title: Greater London Authority Act 1999, section 24
+act: Greater London Authority Act 1999
+section: '24'
+status: revised-with-pending-changes
+text_date: '2026-08-05'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/ukpga/1999/29/section/24
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Greater London Authority Act 1999, section 24
+
+> **Warning: changes not yet applied to this text (55).** Text as at 2026-08-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1999/29
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 24. Salaries and expenses.
+
+*Extent: E+W+S*
+
+(1) The Authority shall pay to the Mayor and the Assembly members salaries at such levels—
+
+- (a) as the Authority from time to time determines; or
+- (b) before the first determination, as the Secretary of State directs.
+
+(2) The Authority may pay to the Mayor and the Assembly members, in respect of expenses incurred in the exercise of their functions, allowances at such levels—
+
+- (a) as the Authority may from time to time determine; or
+- (b) before the first determination, as the Secretary of State may direct.
+
+(3) A determination or direction under subsection (1) above may provide—
+
+- (a) for a higher level of salary to be payable to the Mayor than to any Assembly member;
+- (b) for higher levels of salaries to be payable to Assembly members holding the offices specified in subsection (4) below than to other Assembly members; and
+- (c) for different salaries to be payable to Assembly members holding different such offices.
+
+(4) The offices mentioned in subsection (3)(b) above are—
+
+- (a) Deputy Mayor;
+- (b) Chair of the Assembly.
+
+(5) A determination or direction under subsection (2) above may provide for different allowances for different cases.
+
+(6) A determination under this section may provide for levels of salaries or allowances to change from time to time by reference to a specified formula.
+
+(7) The Authority’s functions of making determinations under this section shall be functions of the Authority which are exercisable by the Mayor and the Assembly acting jointly on behalf of the Authority.
+
+(8) The standing orders of the Authority must include provision for the publication of every determination under this section.
+
+(9) The Secretary of State shall publish any direction under this section as soon as is reasonably practicable after it is given.

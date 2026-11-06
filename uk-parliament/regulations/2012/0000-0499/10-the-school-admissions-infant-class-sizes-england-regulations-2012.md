@@ -1,0 +1,250 @@
+---
+title: The School Admissions (Infant Class Sizes) (England) Regulations 2012
+id: uksi/2012/10
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2012-01-03'
+text_date: '2016-04-06'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2012/10
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2012/10/pdfs/uksiem_20120010_en.pdf
+- http://www.legislation.gov.uk/uksi/2012/10/pdfs/uksi_20120010_en.pdf
+- http://www.legislation.gov.uk/uksi/2012/10/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The School Admissions (Infant Class Sizes) (England) Regulations 2012
+
+> Text as at 2016-04-06.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2012 No. 10
+
+Education, England
+
+The School Admissions (Infant Class Sizes) (England) Regulations 2012
+
+Made
+
+3rd January 2012
+
+Laid before Parliament
+
+10th January 2012
+
+Coming into force
+
+1st February 2012
+
+The Secretary of State for Education makes the following Regulations in exercise of the powers conferred by sections 1 and 138(7) of the School Standards and Framework Act 1998[^f00001]:
+
+## 1. Citation, commencement and application[^key-787a2c7d4405337140d5f584ea458225]
+
+(1) These Regulations may be cited as the School Admissions (Infant Class Sizes) (England) Regulations 2012 and come into force on 1st February 2012.
+
+(2) Paragraph 4 of the Schedule to these Regulations applies in relation to the 2013-2014 school year and subsequent years.
+
+(3) These Regulations apply in relation to any maintained school in England which contains an infant class[^f00002].
+
+## 2. Interpretation[^key-bf4b71205b97fc0ccb339f52b55dbe3b]
+
+(1) In these Regulations—
+
+- “EA 1996” means the Education Act 1996[^f00003];
+- “SSFA 1998” means the School Standards and Framework Act 1998;
+- “child with an EHC plan” means a child for whom an EHC plan is maintained by a local authority under section 37 of the Children and Families Act 2014;[^key-09c6e9aacdf20b995e7b8641cb85fba7]
+- “suitable education”, in relation to a child, means efficient full-time education suitable to the child’s age, ability, and aptitude and any special educational needs that child may have.
+
+(2) For the purposes of these Regulations a child is to be treated as having been admitted to a school outside a normal admission round where paragraph (3) or (4) applies.
+
+(3) This paragraph applies where, at the time the child was admitted to the school, that child did not fall within an age group in which pupils are normally admitted to that school.
+
+(4) This paragraph applies to a child where—
+
+- (a) at the time of that child’s admission to the school, the child fell within an age group in which pupils are normally admitted to the school;
+- (b) the number of pupils in that age group seeking admission to the school in the school year in which the child was first admitted to the school was greater than the number of pupils which the admission authority intended to admit to the school in that age group in that year; and
+- (c) the child was offered a place at the school after the time when the admission authority had determined, in accordance with the school’s admission arrangements, which children in that age group were to be admitted to the school.
+
+(5) In paragraphs (2) to (4) references to a child’s admission to a school are references to the child’s admission to an infant class at the school.
+
+## 3. Regulations revoked[^key-92868bb4442284e5c95cfe9d24c780f1]
+
+The following Regulations are revoked—
+
+- (a) the Education (Infant Class Sizes) (England) Regulations 1998[^f00005];
+- (b) the Education (Infant Class Sizes) (England) (Amendment) Regulations 2006[^f00006].
+
+## 4. Limit on infant class sizes[^key-b5fc75d285a213b774caba5f99ac30c8]
+
+(1) No infant class may contain more than 30 pupils while an ordinary teaching session is conducted by a single school teacher.
+
+(2) Where an ordinary teaching session is conducted by more than one school teacher, the class may not contain more than 30 pupils for every one of those teachers.
+
+(3) Where an infant class contains any excepted pupil (as defined by regulation 5), the limits in paragraphs (1) and (2) apply as if the excepted pupil were not included in the class.
+
+## 5. Excepted pupils[^key-352af61d2c4d5257ec60791963bf1630]
+
+(1) An excepted pupil is a child to whom any of paragraphs 2 to 11 of the Schedule applies.
+
+(2) A child is not an excepted pupil at a school if suitable education could be provided for that child in an infant class at that school without relevant measures having to be taken.
+
+(3) In paragraph (2) “relevant measures” means measures which would—
+
+- (a) be required to be taken to ensure compliance with the duty imposed by section 1(6) of SSFA 1998, and
+- (b) prejudice the provision of efficient education or the efficient use of resources.
+
+Nick Gibb
+
+Minister of State
+
+Department for Education
+
+3rd January 2012
+
+## SCHEDULE — Excepted Pupils
+
+Regulation 5
+
+**1.**[^key-1c1346a7341ecb6abc47f08724bfea9f] In this Schedule—
+
+- (a) “child” means a child who is a pupil in any infant class;
+- (b) “the school” means the school of which that class forms part;
+- (c) “armed forces” means the Royal Navy, the Royal Marines, the regular army or the Royal Air Force;
+- (d) “the regular army” means any of Her Majesty’s military forces other than—
+  - (i) the Army Reserve;
+  - (ii) the Territorial Army; and
+  - (iii) forces raised under the law of a British overseas territory;
+- (e)[^key-9f59ede20471d14fbe53b656d5a31e2a] “child arrangements order” means a child arrangements order as defined by section 8(1) of the Children Act 1989 which consists of, or includes, arrangements relating to either or both of the following—
+  - (i) with whom the child is to live, and
+  - (ii) when the child is to live with any person.
+
+**2.**[^key-fbc68fb72cf8fdca0720b3e2fb3f81da][^key-97730e5d9a9e79606ff3959b526bbb75] A child with an EHC plan admitted to the school outside a normal admission round as a result of the local authority specifying the school in the child’s EHC plan as required under section 43(2) of the Children and Families Act 2014.
+
+**3.**[^key-71d1ff94615be6374acf9b0662d44826] A child who is looked after by a local authority (within the meaning of section 22(1) of the Children Act 1989[^f00008] or, as the case may be, section 74 of the Social Services and Well-being (Wales) Act 2014[^key-ba59bf67b8e3568f30be307dcc4a2f87]) and is admitted to the school outside a normal admission round.
+
+**4.**[^key-fe6bc696b6ba975d45a86f86d4c2d77f] A child who was previously looked after by a local authority but ceased to be so because they were adopted[^f00009] or became subject to a child arrangements[^key-90e8297e1325e83b2220fce5811214fb] order[^f00010] or special guardianship order[^f00011], and who is admitted to the school outside a normal admission round.
+
+**5.**[^key-73a114f7d29b9de96b3d8bd5d744b6e6] A child admitted to the school outside a normal admission round who was initially refused admission to the school owing to a failure properly to implement the school’s admission arrangements, but was subsequently offered a place by virtue of a determination by the admission authority that there had been such a failure in relation to the child.
+
+**6.**[^key-915152009a4aaf17f393662d59e4de73] A child admitted to the school outside a normal admission round by virtue of a determination of an appeal panel in accordance with section 94(6) of SSFA 1998[^f00012].
+
+**7.**[^key-c564b141fc6d0f18371e67073afbe860] (1) Subject to sub-paragraph (3), a child admitted to the school outside a normal admission round—
+
+- (a) in relation to whom the school is the only school (apart from any school to which the child has already been refused admission or from which the child has been permanently excluded) which—
+  - (i) is within a reasonable distance from the child’s home, and
+  - (ii) provides suitable education; and
+- (b) who did not, at the relevant time, ordinarily reside at a place which was within a reasonable distance from the school.
+
+(2) In sub-paragraph (1)(b) “the relevant time”—
+
+- (a) in relation to a child to whom regulation 2(3) applies, means the time when the majority of pupils in the age group in which the child falls were admitted to the school; and
+- (b) in relation to a child to whom regulation 2(4) applies, means the time referred to in sub-paragraph (c) of that paragraph.
+
+(3) A child is not an excepted child under this paragraph unless the local authority who maintain the school have confirmed in writing that they are satisfied the child fulfils the criteria listed in sub-paragraph (1)(a).
+
+**8.**[^key-aaa4b7bfaacb3b2c73437cc27b33ccd6] A child whose parent is in the armed forces and who is admitted to the school outside a normal admission round.
+
+**9.**[^key-b85f4ad407cb7be4e4f51a322f32087f] A child whose twin or other sibling from a multiple birth is admitted in the same age group otherwise than as an excepted pupil.
+
+**10.**[^key-5fb28b2c91ca3370807ee74c6babc831] A child who is a registered pupil at a special school[^f00013] but, by arrangement between the school and the special school, receives part of their education at the school.
+
+**11.**[^key-95184223d673f2759e25ff2405201c54] A child who is normally educated in a unit which forms part of the school and is specially organised to provide education for pupils with special educational needs, but spends a minority of their time in the infant class.
+
+**12.**[^key-d6df7aa4909c8f407ee435beb4e3a75f] Paragraphs 3 to 9 do not apply to a child with a statement.
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations impose, for the purposes of section 1 of the School Standards and Framework Act 1998, a limit on class sizes for infant classes at maintained schools in England. They revoke and replace the Education (Infant Class Sizes) (England) Regulations 1998 and the Education (Infant Class Sizes) (England) (Amendment) Regulations 2006 (**regulation 3**), adding new categories of excepted pupils and changing the circumstances in which pupils cease to be excepted.
+
+The limit imposed is a maximum of 30 pupils in an infant class at any time while an ordinary teaching session is conducted by a single school teacher (or, where the session is conducted by more than one school teacher, a maximum of 30 pupils for every teacher) (**regulation 4**).
+
+However, where certain types of children (“excepted pupils”) cannot be provided with education at the school in an infant class in which the limit is not exceeded without measures being taken which would prejudice efficient education or the efficient use of resources, those children are not to be counted for the purposes of ascertaining whether or not the limit of 30 is exceeded (**regulation 5 and the Schedule**). Excepted pupils are—
+
+- (a) children whose statements of special educational needs specify that they should be educated at the school concerned, and who are admitted to the school outside a normal admission round;
+- (b) children who are looked after by local authorities, or who have ceased to be looked after as a result of being adopted or being placed with a family or given a special guardian, and are admitted to the school outside a normal admission round;
+- (c) children initially refused admission to a school, but subsequently offered a place outside a normal admission round by direction of an admission appeal panel, or because the person responsible for making the original decision recognises that an error was made in implementing the school’s admission arrangements;
+- (d) children who the local authority who maintain the school confirm cannot gain a place at any other suitable school within a reasonable distance of their home because they have moved into the area outside a normal admission round;
+- (e) children of armed forces personnel who are admitted outside a normal admission round;
+- (f) children whose twins or other siblings from multiple births are admitted as non-excepted pupils;
+- (g) children who are registered pupils at special schools, but who receive part of their education at a mainstream school; and
+- (h) children with special educational needs who are normally educated in a special unit in a mainstream school, but who receive part of their lessons in the class.
+
+If at any time it becomes possible for an excepted pupil to be provided with education at the school in an infant class in which the limit is not exceeded (for example because a non-excepted child leaves the class, an additional infant class is created, or an additional teacher is appointed), that child ceases to be an excepted pupil (**regulation 5(2)**).
+
+## Annotations
+
+[^f00001]: Footnote: [1998 c.31](https://www.legislation.gov.uk/ukpga/1998/31); section 1 was amended by the Education Act [2002 (c.32)](https://www.legislation.gov.uk/ukpga/2002/32), section 215(1) and Schedule 21, paragraph 87; and [S.I. 2010/1158](https://www.legislation.gov.uk/uksi/2010/1158).
+
+[^key-787a2c7d4405337140d5f584ea458225]: Commencement: Reg. 1 in force at 1.2.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/10/regulation/1/1)
+
+[^f00002]: Footnote: See section 4 of the School Standards and Framework Act 1998 for the definition of ‘infant class’.
+
+[^key-bf4b71205b97fc0ccb339f52b55dbe3b]: Commencement: Reg. 2 in force at 1.2.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/10/regulation/1/1)
+
+[^f00003]: Footnote: [1996 c.56](https://www.legislation.gov.uk/ukpga/1996/56).
+
+[^key-09c6e9aacdf20b995e7b8641cb85fba7]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2012/10/regulation/2/1) substituted (1.9.2014) by [The Special Educational Needs (Consequential Amendments to Subordinate Legislation) Order 2014 (S.I. 2014/2103)](https://www.legislation.gov.uk/uksi/2014/2103), [arts. 1](https://www.legislation.gov.uk/uksi/2014/2103/article/1), [40(2)](https://www.legislation.gov.uk/uksi/2014/2103/article/40/2)
+
+[^key-92868bb4442284e5c95cfe9d24c780f1]: Commencement: Reg. 3 in force at 1.2.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/10/regulation/1/1)
+
+[^f00005]: Footnote: [S.I. 1998/1973](https://www.legislation.gov.uk/uksi/1998/1973) as amended by [S.I. 2006/3409](https://www.legislation.gov.uk/uksi/2006/3409), [S.I. 2008/3089](https://www.legislation.gov.uk/uksi/2008/3089) and [S.I. 2010/1172](https://www.legislation.gov.uk/uksi/2010/1172).
+
+[^f00006]: Footnote: [S.I. 2006/3409](https://www.legislation.gov.uk/uksi/2006/3409).
+
+[^key-b5fc75d285a213b774caba5f99ac30c8]: Commencement: Reg. 4 in force at 1.2.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/10/regulation/1/1)
+
+[^key-352af61d2c4d5257ec60791963bf1630]: Commencement: Reg. 5 in force at 1.2.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/10/regulation/1/1)
+
+[^key-1c1346a7341ecb6abc47f08724bfea9f]: Commencement: Sch. para. 1 in force at 1.2.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/10/regulation/1/1)
+
+[^key-9f59ede20471d14fbe53b656d5a31e2a]: Textual amendment: [Sch. para. 1(e)](https://www.legislation.gov.uk/uksi/2012/10/schedule/paragraph/1/e) inserted (22.4.2014) by [The Child Arrangements Order (Consequential Amendments to Subordinate Legislation) Order 2014 (S.I. 2014/852)](https://www.legislation.gov.uk/uksi/2014/852), [arts. 1](https://www.legislation.gov.uk/uksi/2014/852/article/1), [22(2)](https://www.legislation.gov.uk/uksi/2014/852/article/22/2)
+
+[^key-fbc68fb72cf8fdca0720b3e2fb3f81da]: Commencement: Sch. para. 2 in force at 1.2.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/10/regulation/1/1)
+
+[^key-97730e5d9a9e79606ff3959b526bbb75]: Textual amendment: [Sch. para. 2](https://www.legislation.gov.uk/uksi/2012/10/schedule/paragraph/2) substituted (1.9.2014) by [The Special Educational Needs (Consequential Amendments to Subordinate Legislation) Order 2014 (S.I. 2014/2103)](https://www.legislation.gov.uk/uksi/2014/2103), [arts. 1](https://www.legislation.gov.uk/uksi/2014/2103/article/1), [40(3)](https://www.legislation.gov.uk/uksi/2014/2103/article/40/3)
+
+[^key-71d1ff94615be6374acf9b0662d44826]: Commencement: Sch. para. 3 in force at 1.2.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/10/regulation/1/1)
+
+[^f00008]: Footnote: [1989 c.41](https://www.legislation.gov.uk/ukpga/1989/41); section 22(2) was amended by the [Local Government Act 2000 (c..22)](https://www.legislation.gov.uk/ukpga/2000/22), section 107 and Schedule 5, paragraph 19; the Children (Leaving Care) Act [2000 (c.35)](https://www.legislation.gov.uk/ukpga/2000/35), section 2(1) and (2); and the Adoption and Children Act [2002 (c.38)](https://www.legislation.gov.uk/ukpga/2002/38), section 116(2).
+
+[^key-ba59bf67b8e3568f30be307dcc4a2f87]: Textual amendment: Words in [Sch. para. 3](https://www.legislation.gov.uk/uksi/2012/10/schedule/paragraph/3) inserted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) (Secondary Legislation) Regulations 2016 (S.I. 2016/211)](https://www.legislation.gov.uk/wsi/2016/211), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/211/regulation/1/2), [Sch. 3 para. 127](https://www.legislation.gov.uk/wsi/2016/211/schedule/3/paragraph/127)
+
+[^key-fe6bc696b6ba975d45a86f86d4c2d77f]: Commencement: Sch. para. 4 in force at 1.2.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/10/regulation/1/1)
+
+[^f00009]: Footnote: Under section 46 of the Adoption and Children Act [2002 c.38](https://www.legislation.gov.uk/ukpga/2002/38).
+
+[^key-90e8297e1325e83b2220fce5811214fb]: Textual amendment: Words in [Sch. para. 4](https://www.legislation.gov.uk/uksi/2012/10/schedule/paragraph/4) substituted (22.4.2014) by [The Child Arrangements Order (Consequential Amendments to Subordinate Legislation) Order 2014 (S.I. 2014/852)](https://www.legislation.gov.uk/uksi/2014/852), [arts. 1](https://www.legislation.gov.uk/uksi/2014/852/article/1), [22(3)](https://www.legislation.gov.uk/uksi/2014/852/article/22/3)
+
+[^f00010]: Footnote: Under section 8 of the Children Act [1989 (c.41)](https://www.legislation.gov.uk/ukpga/1989/41).
+
+[^f00011]: Footnote: Under section 14A of the Children Act 1989.
+
+[^key-73a114f7d29b9de96b3d8bd5d744b6e6]: Commencement: Sch. para. 5 in force at 1.2.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/10/regulation/1/1)
+
+[^key-915152009a4aaf17f393662d59e4de73]: Commencement: Sch. para. 6 in force at 1.2.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/10/regulation/1/1)
+
+[^f00012]: Footnote: [1998 c.31](https://www.legislation.gov.uk/ukpga/1998/31); section 94(6) was amended by the Education Act [2002 (c.32)](https://www.legislation.gov.uk/ukpga/2002/32), section 51 and Schedule 4, paragraph 8(1) and (6); and [S.I. 2010/1158](https://www.legislation.gov.uk/uksi/2010/1158).
+
+[^key-c564b141fc6d0f18371e67073afbe860]: Commencement: Sch. para. 7 in force at 1.2.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/10/regulation/1/1)
+
+[^key-aaa4b7bfaacb3b2c73437cc27b33ccd6]: Commencement: Sch. para. 8 in force at 1.2.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/10/regulation/1/1)
+
+[^key-b85f4ad407cb7be4e4f51a322f32087f]: Commencement: Sch. para. 9 in force at 1.2.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/10/regulation/1/1)
+
+[^key-5fb28b2c91ca3370807ee74c6babc831]: Commencement: Sch. para. 10 in force at 1.2.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/10/regulation/1/1)
+
+[^f00013]: Footnote: ‘Special school’ is defined in section 337 of the Education Act 1996. Section 337 was amended by the Education and Skills Act [2008 (c.25)](https://www.legislation.gov.uk/ukpga/2008/25), section 142(1), the Academies Act [2010 (c.32)](https://www.legislation.gov.uk/ukpga/2010/32), section 14 and Schedule 2, paragraphs 1 and 2, and [S.I. 2010/1158](https://www.legislation.gov.uk/uksi/2010/1158).
+
+[^key-95184223d673f2759e25ff2405201c54]: Commencement: Sch. para. 11 in force at 1.2.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/10/regulation/1/1)
+
+[^key-d6df7aa4909c8f407ee435beb4e3a75f]: Commencement: Sch. para. 12 in force at 1.2.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/10/regulation/1/1)

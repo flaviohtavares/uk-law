@@ -1,0 +1,831 @@
+---
+title: The South Gloucestershire and Stroud College (Government) Regulations 2011
+id: uksi/2011/2975
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2011-12-10'
+text_date: '2016-11-09'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2011/2975
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2011/2975/pdfs/uksiem_20112975_en.pdf
+- http://www.legislation.gov.uk/uksi/2011/2975/pdfs/uksi_20112975_en.pdf
+- http://www.legislation.gov.uk/uksi/2011/2975/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The South Gloucestershire and Stroud College (Government) Regulations 2011
+
+> Text as at 2016-11-09.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2011 No. 2975
+
+Education, England
+
+The South Gloucestershire and Stroud College (Government) Regulations 2011
+
+Made
+
+10th December 2011
+
+Laid before Parliament
+
+14th December 2011
+
+Coming into force
+
+4th January 2012
+
+The Secretary of State for Business, Innovation and Skills makes the following Regulations in exercise of the powers conferred by sections 20(2) and 21(1) of, and Schedule 4 to, the Further and Higher Education Act 1992[^f00001].
+
+**1.**[^key-c78fcc70afbd660ba289aee8dceeab67] These Regulations may be cited as the South Gloucestershire and Stroud College (Government) Regulations 2011and come into force on 4th January 2012.
+
+**2.**[^key-b03c16a3c95c47fa8c1497e088f3ab1f] The instrument of government and articles of government of the further education corporation called the South Gloucestershire and Stroud College[^f00002] are set out in Schedules 1 and 2 to these Regulations respectively.
+
+John Hayes
+
+Minister of State for Further Education, Skills and Lifelong Learning
+
+Department for Business, Innovation and Skills
+
+10th December 2011
+
+## SCHEDULE 1 — INSTRUMENT OF GOVERNMENT
+
+Regulation 2
+
+Contents
+
+1
+
+Interpretation of the terms used
+
+2
+
+Composition of the Corporation
+
+3
+
+Initial Appointments
+
+4
+
+Determination of membership numbers
+
+5
+
+Appointment of the members of the Corporation
+
+6
+
+Appointment of the Chair and Vice-Chair
+
+7
+
+Appointment of the Clerk to the Corporation
+
+8
+
+Persons who are ineligible to be members
+
+9
+
+The term of office of a member
+
+10
+
+Termination of membership
+
+11
+
+Members not to hold interests in matters relating to the institution
+
+12
+
+Meetings
+
+13
+
+Quorum
+
+14
+
+Proceedings of meetings
+
+15
+
+Minutes
+
+16
+
+Public access to meetings
+
+17
+
+Publication of minutes and papers
+
+18
+
+Payment of allowances to members
+
+19
+
+Copies of the Instrument of Government
+
+20
+
+Change of name of the Corporation
+
+21
+
+Application of the seal
+
+### 1. Interpretation of the terms used[^key-5db4c5f1499e9573e904effc3c7d63e7]
+
+In this Instrument of Government—
+
+- (a) any reference to “the Principal” shall include a person acting as Principal;
+- (b) “the Clerk” means the Clerk to the Corporation;
+- (c) “the Corporation” means the further education corporation established under the name of “the South Gloucestershire and Stroud College”;
+- (d) “the institution” means the South Gloucestershire and Stroud College and any institution for the time being conducted by the Corporation in exercise of its powers under the Further and Higher Education Act 1992[^f00003] (“the Act”);
+- (e) “this Instrument” means this Instrument of Government;
+- (f) “the CE” means the Chief Executive of Skills Funding;
+- (g) “CE member” means a member of the Corporation appointed by the Chief Executive of Skills Funding under section 56AA of the Act ;
+- (h) “meeting” includes a meeting at which the members attending are present in more than one room, provided that by the use of video-conferencing facilities it is possible for every person present at the meeting to communicate with each other;
+- (i) “necessary skills” means skills and experience, other than professional qualifications, specified by the Corporation as appropriate for members to have;
+- (j) “parent member”, “staff member” and “student member” have the meanings given to them in clause 2;
+- (k) “the Secretary of State” means the Secretary of State for Education[^key-38120a7ddf81d2fd0be01e66ebca56c9];
+- (l) “staff matters” means the remuneration, conditions of service, promotion, conduct, suspension, dismissal or retirement of staff;
+- (m) “the students’ union” means any association of students formed to further the educational purposes of the institution and the interests of students, as students;
+- (n) a “variable category” means any category of members whose numbers may vary according to clauses 2 and 3.
+
+### 2. Composition of the Corporation[^key-80ebd3475c675aaf6193c6308a21fc51]
+
+(1) The Corporation shall consist of—
+
+- (a) up to sixteen members who appear to the Corporation to have the necessary skills to ensure that the Corporation carries out its functions under article 3 of the Articles of Government;
+- (b) up to two CE members (if appointed);
+- (c) not more than two members, who are parents of students under the age of 19 years attending the institution, who have been nominated and elected by other parents, or if the Corporation so decides, by a recognised association representing parents (“parent members”);
+- (d) the Principal of the institution, unless the Principal chooses not to be a member;
+- (e) at least one and not more than three members who are members of the institution’s staff and have a contract of employment with the institution and who have been nominated and elected as set out in paragraphs (3), (4) or (5) (“staff members”); and
+- (f) at least two and not more than three members who are students at the institution and have been nominated and elected by their fellow students, or if the Corporation so decides, by a recognised association representing such students (“student members”).
+
+(2) A person who is not for the time being enrolled as a student at the institution, shall nevertheless be treated as a student during any period of authorised absence from the institution for study, travel or for carrying out the duties of any office held by that person in the institution’s students’ union.
+
+(3) Where the Corporation has decided or decides that there is to be one staff member; the member may be a member of the academic staff or the non-academic staff and shall be nominated and elected by all staff.
+
+(4) Where the Corporation has decided or decides that there are to be two staff members—
+
+- (a) one may be a member of the academic staff, nominated and elected only by academic staff; and the other may be a member of the non-academic staff, nominated and elected only by non-academic staff, or
+- (b) each may be a member of the academic or non-academic staff, nominated and elected by all staff.
+
+(5) Where the Corporation has decided that there are to be three staff members—
+
+- (a) all may be members of the academic or non-academic staff, nominated and elected by all staff,
+- (b) one may be a member of the academic or the non-academic staff, nominated and elected by all staff, one may be a member of the academic staff, nominated and elected by academic staff only, and one may be a member of the non-academic staff nominated and elected by non-academic staff only,
+- (c) two may be members of the academic staff, nominated and elected by academic staff only, and one may be a member of the non-academic staff, nominated and elected by non-academic staff only, or
+- (d) one may be a member of the academic staff, nominated and elected by academic staff only, and two may be members of the non-academic staff, nominated and elected by non-academic staff only.
+
+(6) The appointing authority, as set out in clause 5, will decide whether a person is eligible for nomination, election and appointment as a member of the Corporation under paragraph (1).
+
+### 3. Initial Appointments[^key-092c42a6c126e08a371f4b17380b7e7f]
+
+(1) The Secretary of State is the appointing authority for the purpose of this Instrument in relation to the appointment of the first members of the Corporation.
+
+(2) In determining the number of members to appoint, he shall secure that that number shall be the number needed for a quorum.
+
+### 4. Determination of membership numbers[^key-78dc1996a935135d5ed4430bfea50c64]
+
+(1) The number of members of the Corporation, other than CE members, and the number of members of each variable category shall be that decided by the Corporation at its first meeting.
+
+(2) The Corporation may at any time vary the determination referred to in paragraph (1) and any subsequent determination under this paragraph.
+
+(3) Any determination under paragraphs (1) or (2) must be such that—
+
+- (a) the number of members of the Corporation, other than CE members, shall not be less than twelve or more than twenty; and
+- (b) the numbers of members of each variable category shall be subject to the limit which applies to that category set out in clause 2.
+
+(4) No determination under this clause shall terminate the appointment of any person who is already a member of the Corporation at the time when the determination is made.
+
+### 5. Appointment of the members of the Corporation[^key-f1cac9bc8b29eeb6eb5a059efdeb5458]
+
+(1) Subject to paragraph (2) the Corporation is the appointing authority in relation to the appointment of its members other than CE members at any time after the appointment by the Secretary of State of the first members.
+
+(2) If the number of members falls below the number needed for a quorum, the Secretary of State is the appointing authority in relation to the appointment of those members needed for a quorum.
+
+(3) The appointing authority may decline to appoint a person as a parent, staff or student member if—
+
+- (a) it is satisfied that the person has been removed from office as a member of a further education corporation in the previous ten years; or
+- (b) the appointment of the person would contravene any rule or bye-law made under article 23 of the Articles of Government concerning the number of terms of office which a person may serve, provided that such rules or bye-laws make the same provision for each category of members appointed by the appointing authority; or
+- (c) the person is ineligible to be a member of the corporation because of clause 8.
+
+(4) Where the office of any member becomes vacant the appointing authority shall as soon as practicable take all necessary steps to appoint a new member to fill the vacancy.
+
+### 6. Appointment of the Chair and Vice-Chair[^key-2b14a4386cc9bfe59a7a791613e57044]
+
+(1) The members of the Corporation shall appoint a Chair and a Vice-Chair from among themselves.
+
+(2) Neither the Principal nor any staff or student member shall be eligible to be appointed as Chair or Vice-Chair or to act as Chair in their absence.
+
+(3) If both the Chair and the Vice-Chair are absent from any meeting of the Corporation, the members present shall choose someone from among themselves to act as Chair for that meeting.
+
+(4) The Chair and Vice-Chair shall hold office for such period as the Corporation decides.
+
+(5) The Chair or Vice-Chair may resign from office at any time by giving notice in writing to the Clerk.
+
+(6) If the Corporation is satisfied that the Chair is unfit or unable to carry out the functions of office, it may give written notice, removing the Chair from office and the office shall then be vacant.
+
+(7) If the Corporation is satisfied that the Vice-Chair is unfit or unable to carry out the functions of office, it may give written notice, removing the Vice-Chair from office and the office shall then be vacant.
+
+(8) At the last meeting before the end of the term of office of the Chair, or at the first meeting following the Chair’s resignation or removal from office, the members shall appoint a replacement from among themselves.
+
+(9) At the last meeting before the end of the term of office of the Vice-Chair, or at the first meeting following the Vice-Chair’s resignation or removal from office, the members shall appoint a replacement from among themselves.
+
+(10) At the end of their respective terms of office, the Chair and Vice-Chair shall be eligible for reappointment.
+
+(11) Paragraph (10) is subject to any rule or bye-law made by the Corporation under article 23 of the Articles of Government concerning the number of terms of office which a person may serve.
+
+### 7. Appointment of the Clerk to the Corporation[^key-9abcc893c005d99255b82ca56f06d8ab]
+
+(1) The Corporation shall appoint a person to serve as its Clerk, but the Principal may not be appointed as Clerk.
+
+(2) In the temporary absence of the Clerk, the Corporation shall appoint a person to serve as a temporary Clerk, but the Principal may not be appointed as temporary Clerk.
+
+(3) Any reference in this Instrument to the Clerk shall include a temporary Clerk appointed under paragraph (2).
+
+(4) Subject to clause 14, the Clerk shall be entitled to attend all meetings of the Corporation and any of its committees.
+
+(5) The Clerk may also be a member of staff at the institution.
+
+### 8. Persons who are ineligible to be members[^key-bc1841c55c469ac9d252faef855c654a]
+
+(1) No one under the age of 18 years may be a member, except as a student member.
+
+(2) The Clerk may not be a member.
+
+(3) A person who is a member of staff of the institution may not be, or continue as, a member, except as a staff member or in the capacity of Principal.
+
+(4) Paragraph (3) does not apply to a student who is employed by the Corporation in connection with the student’s role as an officer of a students’ union.
+
+(5) Subject to paragraphs (6) and (7), a person shall be disqualified from holding, or from continuing to hold, office as a member, if that person has been made[^key-ba206746346f37a53fbd3aed8886e304] bankrupt, or is the subject of a bankruptcy restrictions order, an interim bankruptcy restrictions order. or a bankruptcy restrictions undertaking within the meaning of the Insolvency Act 1986[^f00004], or if that person has made a composition or arrangement with creditors, including an individual voluntary arrangement.
+
+(6) Where a person is disqualified by reason of having been made bankrupt or by reason of being the subject of a bankruptcy restrictions order, an interim bankruptcy restrictions order or a bankruptcy restrictions undertaking, that disqualification shall cease—
+
+- (a) on that person’s discharge from bankruptcy, unless the bankruptcy order has before then been annulled; or
+- (b) if the bankruptcy order is annulled, at the date of that annulment; or
+- (c) if the bankruptcy restrictions order is rescinded as a result of an application under section 375 of the Insolvency Act 1986, on the date so ordered by the court; or
+- (d) if the interim bankruptcy restrictions order is discharged by the court, on the date of that discharge; or
+- (e) if the bankruptcy restrictions undertaking is annulled, at the date of that annulment.
+
+(7) Where a person is disqualified by reason of having made a composition or arrangement with creditors, including an individual voluntary arrangement, and then pays the debts in full, the disqualification shall cease on the date on which the payment is completed and in any other case it shall cease on the expiration of three years from the date on which the terms of the deed of composition, arrangement or individual voluntary arrangement are fulfilled.
+
+(8) Subject to paragraph (9), a person shall be disqualified from holding, or from continuing to hold, office as a member if—
+
+- (a) within the previous five years that person has been convicted, whether in the United Kingdom or elsewhere, of any offence and has received a sentence of imprisonment, whether suspended or not, for a period of three months or more, without the option of a fine; or
+- (b) within the previous twenty years that person has been convicted as set out in sub-paragraph (a) and has received a sentence of imprisonment, whether suspended or not, for a period of more than two and a half years; or
+- (c) that person has at any time been convicted as set out in sub-paragraph (a) and has received a sentence of imprisonment, whether suspended or not, of more than five years.
+
+(9) For the purpose of this regulation there shall be disregarded any conviction by or before a court outside the United Kingdom for an offence in respect of conduct which, if it had taken place in the United Kingdom, would not have constituted an offence under the law then in force anywhere in the United Kingdom.
+
+(10) Upon a member of the Corporation becoming disqualified from continuing to hold office under paragraphs (5) or (8), the member shall immediately give notice of that fact to the Clerk.
+
+### 9. The term of office of a member[^key-2f078e666fea24a91fa450a2b6ee2988]
+
+(1) A member of the Corporation shall hold and vacate office in accordance with the terms of the appointment, but the length of the term of office shall not exceed four years.
+
+(2) Members retiring at the end of their term of office shall be eligible for reappointment, and clause 5 shall apply to the reappointment of a member as it does to the appointment of a member.
+
+(3) Paragraph (2) is subject to any rule or bye-law made by the Corporation under article 23 of the Articles of Government concerning the number of terms of office which a person may serve.
+
+### 10. Termination of membership[^key-cd242e798975985dfc48fce6142cc917]
+
+(1) A member may resign from office at any time by giving notice in writing to the Clerk.
+
+(2) If at any time the Corporation is satisfied that any member—
+
+- (a) is unfit or unable to discharge the functions of a member; or
+- (b) has been absent from meetings of the Corporation for a period longer than six consecutive months without the permission of the Corporation,
+
+the Corporation may by notice in writing to that member remove the member from office and the office shall then be vacant.
+
+(3) Any person who is a member of the Corporation by virtue of being a member of the staff at the institution, including the Principal, shall cease to hold office upon ceasing to be a member of the staff and the office shall then be vacant.
+
+(4) A student member shall cease to hold office—
+
+- (a) at the end of the student’s final academic year, or at such other time in the year after ceasing to be a student as the Corporation may decide; or
+- (b) if expelled from the institution,
+
+and the office shall then be vacant.
+
+### 11. Members not to hold interests in matters relating to the institution[^key-bae8bd0f39cd29c74c4981a5f121e340]
+
+(1) Except with the written approval of the Secretary of State, no member shall acquire or hold any interest in any property that is held or used for the purposes of the institution.
+
+(2) A member to whom paragraph (3) applies shall—
+
+- (a) disclose to the Corporation the nature and extent of the interest; and
+- (b) if present at a meeting of the Corporation, or of any of its committees, at which such supply, contract or other matter as is mentioned in paragraph (3) is to be considered, not take part in the consideration or vote on any question with respect to it and not be counted in the quorum present at the meeting in relation to a resolution on which that member is not entitled to vote; and
+- (c) withdraw, if present at a meeting of the Corporation, or any of its committees, at which such supply, contract or other matter as is mentioned in paragraph (3) is to be considered, where required to do so by a majority of the members of the Corporation or committee present at the meeting.
+
+(3) This paragraph applies to a member who—
+
+- (a) has any financial interest in—
+  - (i) the supply of work to the institution, or the supply of goods for the purposes of the institution;
+  - (ii) any contract or proposed contract concerning the institution; or
+  - (iii) any other matter relating to the institution; or
+- (b) has any other interest of a type specified by the Corporation in any matter relating to the institution.
+
+(4) This clause shall not prevent the members considering and voting upon proposals for the Corporation to insure them against liabilities incurred by them arising out of their office or the Corporation obtaining such insurance and paying the premium.
+
+(5) Where the matter under consideration by the Corporation or any of its committees relates to the pay and conditions of all staff, or all staff in a particular class, a staff member—
+
+- (a) need not disclose a financial interest; and
+- (b) may take part in the consideration of the matter, vote on any question with respect to it and count towards the quorum present at that meeting, provided that in so doing, the staff member acts in the best interests of the Corporation as a whole and does not seek to represent the interests of any other person or body, but
+- (c) shall withdraw from the meeting if the matter is under negotiation with staff and the staff member is representing any of the staff concerned in those negotiations.
+
+(6) The Clerk shall maintain a register of the interests of the members which have been disclosed and the register shall be made available during normal office hours at the institution to any person wishing to inspect it.
+
+### 12. Meetings[^key-71e17b0b98104783cb1ed8a839fd3b0b]
+
+(1) The Corporation shall meet at least once in every term, and shall hold such other meetings as may be necessary.
+
+(2) Subject to paragraphs (4) and (5) and to clause 13(4), all meetings shall be called by the Clerk, who shall, at least seven calendar days before the date of the meeting, send to the members of the Corporation written notice of the meeting and a copy of the proposed agenda.
+
+(3) If it is proposed to consider at any meeting the remuneration, conditions of service, conduct, suspension, dismissal or retirement of the Clerk, the Chair shall, at least seven calendar days before the date of the meeting, send to the members a copy of the agenda item concerned, together with any relevant papers.
+
+(4) A meeting of the Corporation, called a “special meeting”, may be called at any time by the Chair or at the request in writing of any five members.
+
+(5) Where the Chair, or in the Chair’s absence the Vice-Chair, decides that there are matters requiring urgent consideration, the written notice convening the special meeting and a copy of the proposed agenda may be given within less than seven calendar days.
+
+(6) Every member shall act in the best interests of the Corporation and shall not be bound to speak or vote by mandates given by any other body or person.
+
+### 13. Quorum[^key-2d4eb637e49d703090f0d1d08a97020d]
+
+(1) Until the first determination of the number of members under clause 4, meetings of the Corporation shall be quorate if 8 members are present. Subsequent meetings of the Corporation shall be quorate if the number of members present is at least 40% of the total number of members, determined according to clause 4, together with any LSC members.
+
+(2) If the number of members present for a meeting of the Corporation does not constitute a quorum, the meeting shall not be held.
+
+(3) If during a meeting of the Corporation there ceases to be a quorum, the meeting shall be terminated at once.
+
+(4) If a meeting cannot be held or cannot continue for lack of a quorum, the Chair may call a special meeting as soon as it is convenient.
+
+### 14. Proceedings of meetings[^key-c3112840add4568d3d08abd8bf3cb25b]
+
+(1) Every question to be decided at a meeting of the Corporation shall be decided by a majority of the votes cast by members present and entitled to vote on the question.
+
+(2) Where, at a meeting of the Corporation, there is an equal division of votes on a question to be decided, the Chair of the meeting shall have a second or casting vote.
+
+(3) A member may not vote by proxy or by way of postal vote.
+
+(4) No resolution of the members may be rescinded or varied at a subsequent meeting unless consideration of the rescission or variation is a specific item of business on the agenda for that meeting.
+
+(5) Except as provided by procedures made pursuant to article 16 of the Articles of Government, a member of the Corporation who is a member of staff at the institution, including the Principal, shall withdraw—
+
+- (a) from that part of any meeting of the Corporation, or any of its committees, at which staff matters relating solely to that member of the staff, as distinct from staff matters relating to all members of staff or all members of staff in a particular class, are to be considered;
+- (b) from that part of any meeting of the Corporation, or any of its committees, at which that member’s reappointment or the appointment of that member’s successor is to be considered;
+- (c) from that part of any meeting of the Corporation, or any of its committees, at which the matter under consideration concerns the pay or conditions of service of all members of staff, or all members of staff in a particular class, where the member of staff is acting as a representative (whether or not on behalf of a recognised trade union) of all members of staff or the class of staff (as the case may be); and
+- (d) if so required by a resolution of the other members present, from that part of any meeting of the Corporation or any of its committees, at which staff matters relating to any member of staff holding a post senior to that member’s are to be considered, except those relating to the pay and conditions of all staff or all staff in a particular class.
+
+(6) A Principal who has chosen not to be a member of the Corporation shall still be entitled to attend and speak, or otherwise communicate, at all meetings of the Corporation and any of its committees, except that the Principal shall withdraw in any case where the Principal would be required to withdraw under paragraph (5).
+
+(7) A student member who is under the age of 18 shall not vote at a meeting of the Corporation, or any of its committees, on any question concerning any proposal—
+
+- (a) for the expenditure of money by the Corporation; or
+- (b) under which the Corporation, or any members of the Corporation, would enter into any contract, or would incur any debt or liability, whether immediate, contingent or otherwise.
+
+(8) Except as provided by rules made under article 18(3) of the Articles of Government relating to appeals and representations by students in disciplinary cases, a student member shall withdraw from that part of any meeting of the Corporation or any of its committees, at which a student’s conduct, suspension or expulsion is to be considered.
+
+(9) In any case where the Corporation, or any of its committees, is to discuss staff matters relating to a member or prospective member of staff at the institution, a student member shall—
+
+- (a) take no part in the consideration or discussion of that matter and not vote on any question with respect to it; and
+- (b) where required to do so by a majority of the members, other than student members, of the Corporation or committee present at the meeting, withdraw from the meeting.
+
+(10) The Clerk—
+
+- (a) shall withdraw from that part of any meeting of the Corporation, or any of its committees, at which the Clerk’s remuneration, conditions of service, conduct, suspension, dismissal or retirement in the capacity of Clerk are to be considered; and
+- (b) where the Clerk is a member of staff at the institution, the Clerk shall withdraw in any case where a member of the Corporation is required to withdraw under paragraph (5).
+
+(11) If the Clerk withdraws from a meeting, or part of a meeting, of the Corporation under paragraph (10), the Corporation shall appoint a person from among themselves to act as Clerk during this absence.
+
+(12) If the Clerk withdraws from a meeting, or part of a meeting, of a committee of the Corporation, the Corporation shall appoint a person from among themselves to act as Clerk to the committee during this absence.
+
+### 15. Minutes[^key-bd9cefbdcded1904cbcf60f188199b63]
+
+(1) Written minutes of every meeting of the Corporation shall be prepared, and, subject to paragraph (2), at every meeting of the Corporation the minutes of the last meeting shall be taken as an agenda item.
+
+(2) Paragraph (1) shall not require the minutes of the last meeting to be taken as an agenda item at a special meeting, but where they are not taken, they shall be taken as an agenda item at the next meeting which is not a special meeting.
+
+(3) Where minutes of a meeting are taken as an agenda item and agreed to be accurate, those minutes shall be signed as a true record by the Chair of the meeting.
+
+(4) Separate minutes shall be taken of those parts of meetings from which staff members, the Principal, student members or the Clerk have withdrawn from a meeting in accordance with clause 14(5), (6), (8), (9) or (10) and such persons shall not be entitled to see the minutes of that part of the meeting or any papers relating to it.
+
+### 16. Public access to meetings[^key-3f894b1f4a3eed7559348319b592ebe2]
+
+The Corporation shall decide any question as to whether a person should be allowed to attend any of its meetings where that person is not a member, the Clerk or the Principal and in making its decision, it shall give consideration to clause 17(2).
+
+### 17. Publication of minutes and papers[^key-67bb1d8a0fb9f2c115851793a80aa8c7]
+
+(1) Subject to paragraph (2), the Corporation shall ensure that a copy of—
+
+- (a) the agenda for every meeting of the Corporation;
+- (b) the draft minutes of every such meeting, if they have been approved by the Chair of the meeting;
+- (c) the signed minutes of every such meeting; and
+- (d) any report, document or other paper considered at any such meeting,
+
+shall as soon as possible be made available during normal office hours at the institution to any person wishing to inspect them.
+
+(2) There shall be excluded from any item made available for inspection any material relating to—
+
+- (a) a named person employed at or proposed to be employed at the institution;
+- (b) a named student at, or candidate for admission to, the institution;
+- (c) the Clerk; or
+- (d) any matter which, by reason of its nature, the Corporation is satisfied should be dealt with on a confidential basis.
+
+(3) The Corporation shall ensure that a copy of the draft or signed minutes of every meeting of the Corporation, under paragraph (1), shall be placed on the institution’s website, and shall, despite any rules the Corporation may make regarding the archiving of such material, remain on its website for a minimum period of 12 months.
+
+(4) The Corporation shall review regularly all material excluded from inspection under paragraph (2)(d) and make any such material available for inspection where it is satisfied that the reason for dealing with the matter on a confidential basis no longer applies, or where it considers that the public interest in disclosure outweighs that reason.
+
+### 18. Payment of allowances to members[^key-599383b18093ce81d52a2bd257752008]
+
+The Corporation may pay to its members such travelling, subsistence or other allowances as it decides, but shall not without the written approval of the Secretary of State, pay allowances which remunerate the members for their services as members.
+
+### 19. Copies of the Instrument of Government[^key-6a08e2c8058911acad1e30546cdcc569]
+
+A copy of this Instrument shall be given free of charge to every member of the Corporation and at a charge not exceeding the cost of copying or free of charge to any other person who so requests a copy, and shall be available for inspection at the institution upon request, during normal office hours, to every member of staff and every student.
+
+### 20. Change of name of the Corporation[^key-f14ec1ad7449c033461fbd6e23b6c2ef]
+
+The Corporation may change its name with the approval of the Secretary of State.
+
+### 21. Application of the seal[^key-62f2a1619f62c5deb69354d82c6754ba]
+
+The application of the seal of the Corporation shall be authenticated by—
+
+- (a) the signature of either the Chair or of some other member authorised either generally or specially by the Corporation to act for that purpose; and
+- (b) the signature of any other member.
+
+## SCHEDULE 2 — ARTICLES OF GOVERNMENT
+
+Regulation 2
+
+### 1. Interpretation of the terms used[^key-c528ca624ad23f17efa5e1fee9d3dae7]
+
+In these Articles of Government—
+
+- (a) any reference to “the Principal” shall include a person acting as Principal;
+- (b) “the Articles” means these Articles of Government;
+- (c) “Chair” and “Vice-Chair” mean respectively the Chair and Vice-Chair of the Corporation appointed under clause 6 of the Instrument of Government;
+- (d) “the Clerk” has the same meaning as in the Instrument of Government;
+- (e) “the Corporation” has the same meaning as in the Instrument of Government;
+- (f) “the CE” means the Chief Executive of Skills Funding;
+- (g) “parent member”, “staff member” and “student member” have the same meanings as in the Instrument of Government;
+- (h) “the Secretary of State” means the Secretary of State for Education[^key-902897e0a21ff290d7af8e919badb302];
+- (i) “senior post” means the post of Principal and such other senior posts as the Corporation may decide for the purposes of these Articles;
+- (j) “the staff” means all the staff who have a contract of employment with the institution;
+- (k) “the students’ union” has the same meaning as in the Instrument of Government.
+
+### 2. Conduct of the institution[^key-656c7df7617ea5bf913f841378c54367]
+
+The institution shall be conducted in accordance with the provisions of the Instrument of Government, these Articles, any rules or bye-laws made under these Articles and any trust deed regulating the institution.
+
+### 3. Responsibilities of the Corporation, the Principal and the Clerk[^key-7a32cde634864dca6c7da2d1364b5079]
+
+(1) The Corporation shall be responsible for the following functions—
+
+- (a) the determination and periodic review of the educational character and mission of the institution and the oversight of its activities;
+- (b) approving the quality strategy of the institution;
+- (c) the effective and efficient use of resources, the solvency of the institution and the Corporation and safeguarding their assets;
+- (d) approving annual estimates of income and expenditure;
+- (e) the appointment, grading, suspension, dismissal and determination of the pay and conditions of service of the holders of senior posts and the Clerk, including, where the Clerk is, or is to be appointed as, a member of staff, the Clerk’s appointment, grading, suspension, dismissal and determination of pay in the capacity of a member of staff; and
+- (f) setting a framework for the pay and conditions of service of all other staff.
+
+(2) Subject to the responsibilities of the Corporation, the Principal shall be the Chief Executive of the institution, and shall be responsible for the following functions—
+
+- (a) making proposals to the Corporation about the educational character and mission of the institution and implementing the decisions of the Corporation;
+- (b) the determination of the institution’s academic and other activities;
+- (c) preparing annual estimates of income and expenditure for consideration and approval by the Corporation, and the management of budget and resources within the estimates approved by the Corporation;
+- (d) the organisation, direction and management of the institution and leadership of the staff;
+- (e) the appointment, assignment, grading, appraisal, suspension, dismissal and determination, within the framework set by the Corporation, of the pay and conditions of service of staff, other than the holders of senior posts or the Clerk, where the Clerk is also a member of the staff; and
+- (f) maintaining student discipline and, within the rules and procedures provided for within these Articles, suspending or expelling students on disciplinary grounds or expelling students for academic reasons.
+
+(3) The Clerk shall be responsible for the following functions—
+
+- (a) advising the Corporation with regard to the operation of its powers;
+- (b) advising the Corporation with regard to procedural matters;
+- (c) advising the Corporation with regard to the conduct of its business; and
+- (d) advising the Corporation with regard to matters of governance practice.
+
+### 4. The establishment of committees and delegation of functions generally[^key-66c53b80163ae82b685bfa4a4036f532]
+
+(1) The Corporation may establish committees for any purpose or function, other than those assigned in these Articles to the Principal or Clerk and may delegate powers to—
+
+- (a) such committees;
+- (b) the Chair, or in the Chair’s absence, the Vice-Chair; or
+- (c) the Principal.
+
+(2) The number of members of a committee and the terms on which they are to hold and to vacate office, shall be decided by the Corporation.
+
+(3) The Corporation may also establish committees under collaboration arrangements made with other further education institutions or maintained schools (or with both), and such joint committees shall be subject to any regulations made under section 166 of the Education and Inspections Act 2006[^f00005] governing such arrangements.
+
+### 5. The search committee[^key-992a0b1e0776dc85136bff7618eebc55]
+
+(1) The Corporation shall establish a committee, to be known as the “search committee”, to advise on—
+
+- (a) the appointment of members (other than as a parent, staff or student member); and
+- (b) such other matters relating to membership and appointments as the Corporation may ask it to.
+
+(2) The Corporation shall not appoint any person as a member (other than as a parent, staff or student member) without first consulting and considering the advice of the search committee.
+
+(3) The Corporation may make rules specifying the way in which the search committee is to be conducted. A copy of these rules, together with the search committee’s terms of reference and its advice to the Corporation, other than any advice which the Corporation is satisfied should be dealt with on a confidential basis, shall be published on the institution’s website and shall be made available for inspection at the institution by any person during normal office hours.
+
+(4) The Corporation shall review regularly all material excluded from inspection under paragraph (3) and shall make any such material available for inspection where it is satisfied that the reason for dealing with the matter on a confidential basis no longer applies, or where it considers that the public interest in disclosure outweighs that reason.
+
+### 6. The audit committee[^key-3322c960d18404ae298d6f4b5bab5d74]
+
+(1) The Corporation shall establish a committee, to be known as the “audit committee”, to advise on matters relating to the Corporation’s audit arrangements and systems of internal control.
+
+(2) The audit committee shall consist of at least three persons and may include members of staff at the institution with the exception of those in senior posts, and shall operate in accordance with any requirements of the LSC.
+
+### 7. Composition of committees[^key-f428b24fff60985f6cc52b4efca5652d]
+
+Any committee established by the Corporation, other than the committee referred to in article 10, may include persons who are not members of the Corporation.
+
+### 8. Access to committees by non-members and publication of minutes[^key-8515532974ff0ea72d7c270bc7549742]
+
+The Corporation shall ensure that—
+
+- (a) a written statement of its policy regarding attendance at committee meetings by persons who are not committee members; and
+- (b) the minutes of committee meetings, if they have been approved by the Chair of the meeting,
+
+are published on the institution’s website and made available for inspection at the institution by any person, during normal office hours.
+
+### 9. Delegable and non-delegable functions[^key-d1fa2ae717ab9bfec7b561b930fb8e51]
+
+The Corporation shall not delegate the following functions—
+
+- (a) the determination of the educational character and mission of the institution;
+- (b) the approval of the annual estimates of income and expenditure;
+- (c) the responsibility for ensuring the solvency of the institution and the Corporation and for safeguarding their assets;
+- (d) the appointment of the Principal or holder of a senior post;
+- (e) the appointment of the Clerk, (including, where the Clerk is, or is to be, appointed as a member of staff the Clerk’s appointment in the capacity of a member of staff); and
+- (f) the modification or revocation of these Articles.
+
+**10.**[^key-e711a13d239b28e40328cf9eec03e05f] (1) The Corporation may not delegate—
+
+- (a) the consideration of the case for dismissal, and
+- (b) the power to determine an appeal in connection with the dismissal
+
+of the Principal, the Clerk or the holder of a senior post, other than to a committee of members of the Corporation.
+
+(2) The Corporation shall make rules specifying the way in which a committee having functions under paragraph (1) shall be established and conducted.
+
+**11.**[^key-a5ab0b5d0c9f83056d3b103258d06fbc] The Principal may delegate functions to the holder of any other senior post other than—
+
+- (a) the management of budget and resources; and
+- (b) any functions that have been delegated to the Principal by the Corporation.
+
+### Appointment and promotion of staff
+
+**12.**[^key-91fc0030bbe6af2721a3ea26237a5b1b] (1) Where there is a vacancy or expected vacancy in a senior post, the Corporation shall—
+
+- (a) advertise the vacancy nationally; and
+- (b) appoint a selection panel consisting of—
+  - (i) at least five members of the Corporation including the Chair or the Vice-Chair or both, where the vacancy is for the post of Principal ; or
+  - (ii) the Principal and at least three other members of the Corporation, where the vacancy is for any other senior post.
+
+(2) The members of the selection panel shall—
+
+- (a) decide on the arrangements for selecting the applicants for interview;
+- (b) interview the applicants; and
+- (c) where they consider it appropriate to do so, recommend to the Corporation for appointment one of the applicants they have interviewed.
+
+(3) If the Corporation approves the recommendation of the selection panel, that person shall be appointed.
+
+(4) If the members of the selection panel are unable to agree on a person to recommend to the Corporation, or if the Corporation does not approve their recommendation, the Corporation may make an appointment itself of a person from amongst those interviewed, or it may require the panel to repeat the steps specified in paragraph (2), with or without first re-advertising the vacancy.
+
+(5) Where there is a vacancy in a senior post or where the holder of a senior post is temporarily absent, until that post is filled or the absent post holder returns, a member of staff—
+
+- (a) may be required to act as Principal or in the place of any other senior post holder; and
+- (b) if so required, shall have all the duties and responsibilities of the Principal or such other senior post holder during the period of the vacancy or temporary absence.
+
+(6) The Corporation shall seek the Secretary of State’s consent before making any temporary appointment to the post of Principal or any other senior post, where it is intended that such a post holder will not have a contract of employment with the Corporation.
+
+**13.**[^key-1fc9ce971dd6fd1305254b9fafad1a41] The Principal shall have responsibility for selecting for appointment all members of staff other than—
+
+- (a) senior post holders; and
+- (b) where the Clerk is also to be appointed as a member of staff, the Clerk in the role of a member of staff.
+
+### 14. Rules relating to the conduct of staff[^key-d1375312b08631848d78e121178c3f97]
+
+After consultation with the staff, the Corporation shall make rules relating to their conduct.
+
+### 15. Academic freedom[^key-caa810581b45874f4b9f168380da5b4a]
+
+In making rules under article 14, the Corporation shall have regard to the need to ensure that academic staff at the institution have freedom within the law to question and test received wisdom, and to put forward new ideas and controversial or unpopular opinions, without putting themselves at risk of losing their jobs or any privileges which they may enjoy at the institution.
+
+### 16. Grievance, suspension and disciplinary procedures[^key-780e44113adac6258e43e4507a820652]
+
+(1) After consultation with staff, the Corporation shall make rules setting out—
+
+- (a) grievance procedures for all staff;
+- (b) procedures for the suspension of all staff; and
+- (c) disciplinary and dismissal procedures for—
+  - (i) senior post-holders, and
+  - (ii) staff other than senior post holders
+
+and such procedures shall be subject to the provisions of articles 3(1)(e), 3(2)(e), 9(d), 9(e), 10(1) and 17.
+
+(2) Any rules made under paragraph (1)(b) shall include provision that where a person has been suspended without pay, any appeal against such suspension shall be heard and action taken in a timely manner.
+
+(3) Any rules made under paragraph (1)(c)(i) shall include provision that where the Corporation considers that it may be appropriate to dismiss a person, a preliminary investigation shall be conducted to examine and determine the case for dismissal.
+
+### 17. Suspension and dismissal of the Clerk[^key-d93322a4c32f56400ac612cea563a118]
+
+(1) Where the Clerk is also a member of staff at the institution, the Clerk is to be treated as a senior post holder for the purposes of article 16(c).
+
+(2) Where the Clerk is suspended or dismissed under article 16, that suspension or dismissal shall not affect the position of the Clerk in the separate role of Clerk to the Corporation.
+
+### 18. Students[^key-ea0fe4a86f3f673062ac9e93ebc281cc]
+
+(1) Any students’ union shall conduct and manage its own affairs and funds in accordance with a constitution approved by the Corporation and no amendment to, or rescission of, that constitution, in part or in whole, shall be valid unless approved by the Corporation.
+
+(2) The students’ union shall present audited accounts annually to the Corporation.
+
+(3) After consultation with representatives of the students, the Corporation shall make rules concerning the conduct of students, including procedures for their suspension and expulsion (including expulsion for an unsatisfactory standard of work or other academic reason).
+
+### 19. Financial matters[^key-66b5a2ffda2fde4ea93e95c39a93298f]
+
+The Corporation shall set the policy by which the tuition and other fees payable to it are determined, subject to any terms and conditions attached to grants, loans or other payments paid or made by the LSC.
+
+### 20. Co- operation with the CE’s auditor[^key-791f16ce31cf6bf745e3b6903ef8916e]
+
+The Corporation shall co-operate with any person who has been authorised by the CE to audit any returns of numbers of students or claims for financial assistance and shall give any such person access to any documents or records held by the Corporation, including computer records.
+
+### 21. Internal audit[^key-d97cadffbf6ca8a2d6c84105e327c0d3]
+
+(1) The Corporation shall, at such times as it considers appropriate, examine and evaluate its systems of internal financial and other control to ensure that they contribute to the proper, economic, efficient and effective use of the Corporation’s resources.
+
+(2) The Corporation may arrange for the examination and evaluation mentioned in paragraph (1) to be carried out on its behalf by internal auditors.
+
+(3) The Corporation shall not appoint persons as internal auditors to carry out the activities referred to in paragraph (1) if those persons are already appointed as external auditors under article 22.
+
+### 22. Accounts and audit of accounts[^key-13706b2a6832ee61c849fcc761072a5a]
+
+The Corporation shall—
+
+- (a) keep proper accounts and proper records in relation to the accounts; and
+- (b) prepare a statement of accounts for each financial year of the Corporation.
+
+(2) The statement shall—
+
+- (a) give a true and fair account of the state of the Corporation’s affairs at the end of the financial year and of its income and expenditure in the financial year; and
+- (b) comply with any directions given by the CE as to the information to be contained in it, the manner in which the information is to be presented, the methods and principles according to which it is to be prepared and the time and manner of publication.
+
+(3) The accounts and the statement of accounts shall be audited by external auditors appointed by the Corporation in respect of each financial year.
+
+(4) The Corporation shall not appoint persons as external auditors in respect of any financial year if those persons are already appointed as internal auditors under article 21.
+
+(5) Auditors shall be appointed and audit work conducted in accordance with any requirements of the CE.
+
+(6) The “financial year” means the first financial year and, except as provided for in paragraph (8), each successive period of twelve months.
+
+(7) The “first financial year” means the period from the date the Corporation was established up to the second 31st July following that date, or up to some other date which has been chosen by the Corporation with the CE’s approval.
+
+(8) If the Corporation is dissolved—
+
+- (a) the last financial year shall end on the date of dissolution; and
+- (b) the Corporation may decide, with the CE’s approval, that what would otherwise be the last two financial years, shall be a single financial year for the purpose of this article.
+
+### 23. Rules and bye-laws[^key-08eda580fcbfb3777d15c8e4aa693455]
+
+The Corporation shall have the power to make rules and bye-laws relating to the government and conduct of the institution and these rules and bye-laws shall be subject to the provisions of the Instrument of Government and these Articles.
+
+### 24. Copies of Articles of Government and rules and bye-laws[^key-7484daba7c49612c4a1b9b7320b0c435]
+
+A copy of these Articles, and of any rules and bye-laws, shall be given free of charge to every member of the Corporation and at a charge not exceeding the cost of copying or free of charge, to any other person who requests a copy and shall be available for inspection at the institution upon request, during normal office hours, to every member of staff and every student.
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations prescribe the first provisions of the instrument providing for its constitution and the articles of government for the South Gloucestershire and Stroud College further education corporation.
+
+## Annotations
+
+[^f00001]: Footnote: [1992 c. 13](https://www.legislation.gov.uk/ukpga/1992/13); Schedule 4 was amended by paragraph 44 of Schedule 9 to the Learning and Skills Act [2000(c. 21)](https://www.legislation.gov.uk/ukpga/2000/21) and by paragraphs 2 and 12 of Schedule 6, and paragraph 15 of Schedule 8, to the Apprenticeships, Skills, Children and Learning Act [2009 (c. 22)](https://www.legislation.gov.uk/ukpga/2009/22) ; see section 61(1) for the meaning of “regulations”.
+
+[^key-c78fcc70afbd660ba289aee8dceeab67]: Commencement: Reg. 1 in force at 4.1.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/2975/regulation/1)
+
+[^key-b03c16a3c95c47fa8c1497e088f3ab1f]: Commencement: Reg. 2 in force at 4.1.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/2975/regulation/1)
+
+[^f00002]: Footnote: Established by [S.I. 2011/2974](https://www.legislation.gov.uk/uksi/2011/2974).
+
+[^key-5db4c5f1499e9573e904effc3c7d63e7]: Commencement: Sch. 1 para. 1 in force at 4.1.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/2975/regulation/1)
+
+[^f00003]: Footnote: [1992 c.13](https://www.legislation.gov.uk/ukpga/1992/13).
+
+[^key-38120a7ddf81d2fd0be01e66ebca56c9]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2011/2975/schedule/1) substituted (9.11.2016) by [The Secretaries of State for Business, Energy and Industrial Strategy, for International Trade and for Exiting the European Union and the Transfer of Functions (Education and Skills) Order 2016 (S.I. 2016/992)](https://www.legislation.gov.uk/uksi/2016/992), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/992/article/1/2), [Sch. para. 44(a)](https://www.legislation.gov.uk/uksi/2016/992/schedule/paragraph/44/a) (with [art. 13](https://www.legislation.gov.uk/uksi/2016/992/article/13))
+
+[^key-80ebd3475c675aaf6193c6308a21fc51]: Commencement: Sch. 1 para. 2 in force at 4.1.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/2975/regulation/1)
+
+[^key-092c42a6c126e08a371f4b17380b7e7f]: Commencement: Sch. 1 para. 3 in force at 4.1.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/2975/regulation/1)
+
+[^key-78dc1996a935135d5ed4430bfea50c64]: Commencement: Sch. 1 para. 4 in force at 4.1.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/2975/regulation/1)
+
+[^key-f1cac9bc8b29eeb6eb5a059efdeb5458]: Commencement: Sch. 1 para. 5 in force at 4.1.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/2975/regulation/1)
+
+[^key-2b14a4386cc9bfe59a7a791613e57044]: Commencement: Sch. 1 para. 6 in force at 4.1.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/2975/regulation/1)
+
+[^key-9abcc893c005d99255b82ca56f06d8ab]: Commencement: Sch. 1 para. 7 in force at 4.1.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/2975/regulation/1)
+
+[^key-bc1841c55c469ac9d252faef855c654a]: Commencement: Sch. 1 para. 8 in force at 4.1.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/2975/regulation/1)
+
+[^key-ba206746346f37a53fbd3aed8886e304]: Textual amendment: Word in [Sch. 1 para. 8(5)](https://www.legislation.gov.uk/uksi/2011/2975/schedule/1/paragraph/8/5)[(6)](https://www.legislation.gov.uk/uksi/2011/2975/schedule/1/paragraph/8/6) substituted (6.4.2016) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Bankruptcy) and the Small Business, Enterprise and Employment Act 2015 (Consequential Amendments) Regulations 2016 (S.I. 2016/481)](https://www.legislation.gov.uk/uksi/2016/481), [reg. 1](https://www.legislation.gov.uk/uksi/2016/481/regulation/1), [Sch. 2 para. 13](https://www.legislation.gov.uk/uksi/2016/481/schedule/2/paragraph/13)
+
+[^f00004]: Footnote: 1986\. c.45 as amended by the Enterprise Act [2002 (c.40)](https://www.legislation.gov.uk/ukpga/2002/40).
+
+[^key-2f078e666fea24a91fa450a2b6ee2988]: Commencement: Sch. 1 para. 9 in force at 4.1.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/2975/regulation/1)
+
+[^key-cd242e798975985dfc48fce6142cc917]: Commencement: Sch. 1 para. 10 in force at 4.1.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/2975/regulation/1)
+
+[^key-bae8bd0f39cd29c74c4981a5f121e340]: Commencement: Sch. 1 para. 11 in force at 4.1.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/2975/regulation/1)
+
+[^key-71e17b0b98104783cb1ed8a839fd3b0b]: Commencement: Sch. 1 para. 12 in force at 4.1.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/2975/regulation/1)
+
+[^key-2d4eb637e49d703090f0d1d08a97020d]: Commencement: Sch. 1 para. 13 in force at 4.1.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/2975/regulation/1)
+
+[^key-c3112840add4568d3d08abd8bf3cb25b]: Commencement: Sch. 1 para. 14 in force at 4.1.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/2975/regulation/1)
+
+[^key-bd9cefbdcded1904cbcf60f188199b63]: Commencement: Sch. 1 para. 15 in force at 4.1.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/2975/regulation/1)
+
+[^key-3f894b1f4a3eed7559348319b592ebe2]: Commencement: Sch. 1 para. 16 in force at 4.1.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/2975/regulation/1)
+
+[^key-67bb1d8a0fb9f2c115851793a80aa8c7]: Commencement: Sch. 1 para. 17 in force at 4.1.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/2975/regulation/1)
+
+[^key-599383b18093ce81d52a2bd257752008]: Commencement: Sch. 1 para. 18 in force at 4.1.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/2975/regulation/1)
+
+[^key-6a08e2c8058911acad1e30546cdcc569]: Commencement: Sch. 1 para. 19 in force at 4.1.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/2975/regulation/1)
+
+[^key-f14ec1ad7449c033461fbd6e23b6c2ef]: Commencement: Sch. 1 para. 20 in force at 4.1.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/2975/regulation/1)
+
+[^key-62f2a1619f62c5deb69354d82c6754ba]: Commencement: Sch. 1 para. 21 in force at 4.1.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/2975/regulation/1)
+
+[^key-c528ca624ad23f17efa5e1fee9d3dae7]: Commencement: Sch. 2 para. 1 in force at 4.1.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/2975/regulation/1)
+
+[^key-902897e0a21ff290d7af8e919badb302]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2011/2975/schedule/2) substituted (9.11.2016) by [The Secretaries of State for Business, Energy and Industrial Strategy, for International Trade and for Exiting the European Union and the Transfer of Functions (Education and Skills) Order 2016 (S.I. 2016/992)](https://www.legislation.gov.uk/uksi/2016/992), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/992/article/1/2), [Sch. para. 44(b)](https://www.legislation.gov.uk/uksi/2016/992/schedule/paragraph/44/b) (with [art. 13](https://www.legislation.gov.uk/uksi/2016/992/article/13))
+
+[^key-656c7df7617ea5bf913f841378c54367]: Commencement: Sch. 2 para. 2 in force at 4.1.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/2975/regulation/1)
+
+[^key-7a32cde634864dca6c7da2d1364b5079]: Commencement: Sch. 2 para. 3 in force at 4.1.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/2975/regulation/1)
+
+[^key-66c53b80163ae82b685bfa4a4036f532]: Commencement: Sch. 2 para. 4 in force at 4.1.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/2975/regulation/1)
+
+[^f00005]: Footnote: [2006 c.40](https://www.legislation.gov.uk/ukpga/2006/40).
+
+[^key-992a0b1e0776dc85136bff7618eebc55]: Commencement: Sch. 2 para. 5 in force at 4.1.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/2975/regulation/1)
+
+[^key-3322c960d18404ae298d6f4b5bab5d74]: Commencement: Sch. 2 para. 6 in force at 4.1.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/2975/regulation/1)
+
+[^key-f428b24fff60985f6cc52b4efca5652d]: Commencement: Sch. 2 para. 7 in force at 4.1.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/2975/regulation/1)
+
+[^key-8515532974ff0ea72d7c270bc7549742]: Commencement: Sch. 2 para. 8 in force at 4.1.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/2975/regulation/1)
+
+[^key-d1fa2ae717ab9bfec7b561b930fb8e51]: Commencement: Sch. 2 para. 9 in force at 4.1.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/2975/regulation/1)
+
+[^key-e711a13d239b28e40328cf9eec03e05f]: Commencement: Sch. 2 para. 10 in force at 4.1.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/2975/regulation/1)
+
+[^key-a5ab0b5d0c9f83056d3b103258d06fbc]: Commencement: Sch. 2 para. 11 in force at 4.1.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/2975/regulation/1)
+
+[^key-91fc0030bbe6af2721a3ea26237a5b1b]: Commencement: Sch. 2 para. 12 in force at 4.1.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/2975/regulation/1)
+
+[^key-1fc9ce971dd6fd1305254b9fafad1a41]: Commencement: Sch. 2 para. 13 in force at 4.1.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/2975/regulation/1)
+
+[^key-d1375312b08631848d78e121178c3f97]: Commencement: Sch. 2 para. 14 in force at 4.1.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/2975/regulation/1)
+
+[^key-caa810581b45874f4b9f168380da5b4a]: Commencement: Sch. 2 para. 15 in force at 4.1.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/2975/regulation/1)
+
+[^key-780e44113adac6258e43e4507a820652]: Commencement: Sch. 2 para. 16 in force at 4.1.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/2975/regulation/1)
+
+[^key-d93322a4c32f56400ac612cea563a118]: Commencement: Sch. 2 para. 17 in force at 4.1.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/2975/regulation/1)
+
+[^key-ea0fe4a86f3f673062ac9e93ebc281cc]: Commencement: Sch. 2 para. 18 in force at 4.1.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/2975/regulation/1)
+
+[^key-66b5a2ffda2fde4ea93e95c39a93298f]: Commencement: Sch. 2 para. 19 in force at 4.1.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/2975/regulation/1)
+
+[^key-791f16ce31cf6bf745e3b6903ef8916e]: Commencement: Sch. 2 para. 20 in force at 4.1.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/2975/regulation/1)
+
+[^key-d97cadffbf6ca8a2d6c84105e327c0d3]: Commencement: Sch. 2 para. 21 in force at 4.1.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/2975/regulation/1)
+
+[^key-13706b2a6832ee61c849fcc761072a5a]: Commencement: Sch. 2 para. 22 in force at 4.1.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/2975/regulation/1)
+
+[^key-08eda580fcbfb3777d15c8e4aa693455]: Commencement: Sch. 2 para. 23 in force at 4.1.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/2975/regulation/1)
+
+[^key-7484daba7c49612c4a1b9b7320b0c435]: Commencement: Sch. 2 para. 24 in force at 4.1.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/2975/regulation/1)

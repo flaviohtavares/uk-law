@@ -1,0 +1,38 @@
+---
+title: Legal Services Act 2007, section 30
+act: Legal Services Act 2007
+section: '30'
+status: revised-with-pending-changes
+text_date: '2025-01-01'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/2007/29/section/30
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Legal Services Act 2007, section 30
+
+> **Warning: changes not yet applied to this text (1).** Text as at 2025-01-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2007/29
+>
+> Extent: England, Wales, Scotland.
+
+## 30. Rules relating to the exercise of regulatory functions
+
+*Extent: E+W*
+
+(1) The Board must make rules (“**internal governance rules**”) setting out requirements to be met by approved regulators for the purpose of ensuring—
+
+- (a) that the exercise of an approved regulator's regulatory functions is not prejudiced by its representative functions, and
+- (b) that decisions relating to the exercise of an approved regulator's regulatory functions are so far as reasonably practicable taken independently from decisions relating to the exercise of its representative functions.
+
+(2) The internal governance rules must require each approved regulator to have in place arrangements which ensure—
+
+- (a) that the persons involved in the exercise of its regulatory functions are, in that capacity, able to make representations to, be consulted by and enter into communications with the Board, the Consumer Panel, the OLC and other approved regulators, and
+- (b) that the exercise by those persons of those powers is not prejudiced by the approved regulator's representative functions and is, so far as reasonably practicable, independent from the exercise of those functions.
+
+(3) The internal governance rules must also require each approved regulator—
+
+- (a) to take such steps as are reasonably practicable to ensure that it provides such resources as are reasonably required for or in connection with the exercise of its regulatory functions;
+- (b) to make such provision as is necessary to enable persons involved in the exercise of its regulatory functions to be able to notify the Board where they consider that their independence or effectiveness is being prejudiced.
+
+(4) The first set of rules under this section must be made before the day appointed by the Lord Chancellor by order for the purposes of this section.

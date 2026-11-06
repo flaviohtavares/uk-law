@@ -1,0 +1,38 @@
+---
+title: Energy Act 2004, section 139
+act: Energy Act 2004
+section: '139'
+status: not-yet-in-force
+text_date: '2025-09-18'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/ukpga/2004/20/section/139
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Energy Act 2004, section 139
+
+> This provision is not yet in force.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 139. Grant of transmission licences
+
+*Extent: E+W+S*
+
+**Not yet in force.**
+
+(1) If the Secretary of State considers it necessary or expedient to do so for the purpose of implementing the new trading and transmission arrangements, he may by direction—
+
+- (a) require GEMA to grant a transmission licence to such person, and on such terms and subject to such conditions, as the direction may provide;
+- (b) require GEMA to refuse an application for a transmission licence.
+
+(2) The Secretary of State shall consult GEMA before issuing a direction under subsection (1).
+
+(3) Subsection (2) may be satisfied by consultation before, as well as by consultation after, the commencement of this section.
+
+(4) The powers under subsection (1) may not be exercised after the end of the period of eighteen months beginning with the day on which that subsection comes into force.
+
+(5) The power under subsection (1)(a) may only be exercised on one occasion and then only to require the grant of a single licence.
+
+(6) The power under subsection (1)(b) may not be exercised once the power under subsection (1)(a) has been exercised.

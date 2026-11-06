@@ -1,0 +1,1229 @@
+---
+title: The Driving Licences (Community Driving Licence) Regulations 1996
+id: uksi/1996/1974
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised-with-pending-changes
+made_date: '1996-07-22'
+text_date: '2015-06-08'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/1996/1974
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1996/1974/data.pdf
+pending_changes: 1
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Driving Licences (Community Driving Licence) Regulations 1996
+
+> **Warning: changes not yet applied to this text (1).** Text as at 2015-06-08. See https://www.legislation.gov.uk/changes/affected/uksi/1996/1974
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+1996 No. 1974
+
+ROAD TRAFFIC
+
+The Driving Licences (Community Driving Licence) Regulations 1996
+
+Made
+
+22nd July 1996
+
+Coming into force
+
+as to paragraphs 2(5), 2(6), 2(8) 3(2), 17 and 35 of Schedule 1, paragraph 2 of Schedule 3 and so much of regulations 2 and 4 and the remainder of Schedules 1 and 3 as is necessary for the purpose of conferring on the Secretary of State extended or modified powers to make regulations
+
+23rd July 1996
+
+for all other purposes
+
+1st January 1997
+
+Whereas both Houses of Parliament have approved a draft of this instrument, the Secretary of State for Transport, being a Minister designated[^f00001] for the purposes of section 2(2) of the European Communities Act 1972[^f00002] in relation to the licensing of drivers of motor vehicles, in exercise of the powers conferred by that section, hereby makes the following Regulations—
+
+**1.**[^key-bb8b1eae6985e8c4b797caba6da50593] (1) These Regulations may be cited as the Driving Licences (Community Driving Licence) Regulations 1996.
+
+(2) These Regulations shall come into force—
+
+- (a) as to—
+  - (i) paragraphs 2(5), 2(6), 2(8), 3(2), 17 and 35 of Schedule 1,
+  - (ii) paragraph 2 of Schedule 3, and
+  - (iii) so much of regulations 2 and 4 and the remainder of Schedules 1 and 3 as is necessary for to confer on the Secretary of State extended or modified powers to make such orders or regulations as are necessary for the purpose of complying with Council Directive 91/439/ EEC[^f00003] and for ancillary purposes,
+
+  on the day after the day on which these Regulations are made;
+- (b) except as provided in sub-paragraph (a) above, on 1st January 1997.
+
+**2.**[^key-420d91c336d0074d8970e2e286a50552][^key-5242ba860ea26a009a5046d9b6c164fb] The Road Traffic Act 1988[^f00004] shall have effect with the amendments set out in Schedule 1 to these Regulations.
+
+**3.**[^key-e7edbf662ec2c467c88bc1659abe80d3] The Road Traffic Offenders Act 1988[^f00005] shall have effect with the amendments set out in Schedule 2 to these Regulations.
+
+**4.**[^key-29cbe200b97d3caab9521ccb2e7e70d3][^key-6b9145e74dde9a9559628fff60667802] The Transport Act 1985[^f00006] shall have effect with the amendments set out in Schedule 3 to these Regulations.
+
+**5.**[^key-84880f337778616229c0b0a6f30a1ffa] The enactments mentioned in Schedule 4 to these Regulations shall have effect with the amendments set out in that Schedule (being minor amendments consequential upon those set out in Schedules 1 and 2 to these Regulations).
+
+**6.**[^key-97f66d93e9d50f7b22a4cee33f847d58] The Motor Vehicles (International Circulation) Order 1975[^f00007] shall have effect with the amendments set out in Schedule 5 to these Regulations.
+
+Signed by authority of the Secretary of State for Transport
+
+Steven Norris
+
+Parliamentary Under Secretary of State,
+
+Department of Transport
+
+22nd July 1996
+
+## SCHEDULE 1 — AMENDMENTS TO THE ROAD TRAFFIC ACT 1988
+
+Regulation 2
+
+**1.**[^key-72497bf57003d7e79ed5abd5f47469a4][^key-f9a51710aea608fc9ecd149bdf0ac1d0] (1) Section 88 (exceptions) shall be amended as follows.
+
+(2) In subsection (1)(a)[^f00008] after sub-paragraph (i) there shall be inserted—
+
+> - (ia) a Community licence to drive vehicles of that or a corresponding class, or
+
+.
+
+(3) In subsection (1B)[^f00009].
+
+- (a) after paragraph (a) there shall be inserted—
+
+  > - (aa) in the case of an application made by virtue of subsection (1)(a)(ia) above, the disqualification subsists under or by virtue of any provision of the law of an EEA State (other than the United Kingdom) and relates to vehicles of the class, or of a class corresponding to the class, to which his application relates;
+
+  , and
+- (b) in paragraph (d), the words “member State or” shall be omitted.
+
+(4) In subsection (7), in paragraph (a), for the words from “is licensed” to “this Act” there shall be substituted—
+
+> - (i) is licensed in that behalf in accordance with the requirements of this Part and Part IV of this Act, or
+> - (ii) is authorised by virtue of section 99A(1) of this Act to drive in Great Britain such a motor vehicle,
+
+.
+
+**2.**[^key-5b36bba904d3129c832f1dc3b4103705][^key-f13207e3bed7ab9b0751e0f51bd4a3e7][^key-6c89141927a704596677c7620bb1f51d] (1)[^key-5b36bba904d3129c832f1dc3b4103705][^key-f13207e3bed7ab9b0751e0f51bd4a3e7] Section 89 (tests of competence to drive) shall be amended as follows.
+
+(2)[^key-5b36bba904d3129c832f1dc3b4103705][^key-f13207e3bed7ab9b0751e0f51bd4a3e7] In subsection (1)[^f00010] —
+
+- (a) for “satisfies the Secretary of State” there shall be substituted “meets the relevant residence requirement and satisfies the Secretary of State”,
+- (b) in paragraph (c), the words “conducted under any relevant external law or” shall be omitted,
+- (c) in paragraph (e)—
+  - (i) the words “of another member State or”, and
+  - (ii) the words “or a designated country or territory”,
+
+  shall be omitted,
+- (d) after “or” at the end of that paragraph there shall be inserted—
+
+  > - (ea) that either at the time of the application for the licence he holds a Community licence authorising the driving of vehicles of that or a corresponding class or at some time he has held such a Community licence; or
+
+  , and
+- (e) for paragraph (f) there shall be substituted—
+
+  > - (f) that, at the time of the application for the licence, he holds an exchangeable licence authorising the driving of vehicles of that or a corresponding class.
+
+(3)[^key-5b36bba904d3129c832f1dc3b4103705][^key-f13207e3bed7ab9b0751e0f51bd4a3e7] After that subsection there shall be inserted—
+
+> (1A) An applicant meets the relevant residence requirement referred to in subsection (1) above if on the date the application for the licence is made—
+>
+> - (a) in a case where he satisfies the Secretary of State in respect of paragraph (ea) of that subsection, he is normally resident in the United Kingdom or has been attending a course of study in the United Kingdom during the period of six months ending on that date;
+> - (b) in a case where he satisfies the Secretary of State in respect of paragraph (f) of that subsection, he is normally resident in Great Britain but has not been so resident for more than the prescribed period; and
+> - (c) in any other case, he is normally resident in Great Britain.
+
+(4)[^key-5b36bba904d3129c832f1dc3b4103705][^key-f13207e3bed7ab9b0751e0f51bd4a3e7] In subsection (2)[^f00011] —
+
+- (a) for paragraph (a) there shall be substituted—
+
+  > - (a) a licence which has been revoked under section 99(3) of this Act or under any corresponding provision of—
+  >   - (i) the law of Northern Ireland,
+  >   - (ii) the relevant external law, or
+  >   - (iii) the law of an EEA State other than the United Kingdom,
+  >
+  >   as a licence granted in error shall be disregarded for the purposes of paragraph (b), (d) or (ea) (as the case may be) of that subsection;
+
+  , and
+- (b) paragraph (b) shall be omitted.
+
+(5)[^key-6c89141927a704596677c7620bb1f51d] In subsection (4), after paragraph (a) there shall be inserted—
+
+> - (aa) for requiring a person submitting himself for a test to have been normally resident in Great Britain or the United Kingdom for such period ending on the date of his appointment for the test as may be prescribed,
+
+.
+
+(6)[^key-6c89141927a704596677c7620bb1f51d] In subsection (7)[^f00012], in paragraph (a), after “group” there shall be inserted “(except where regulations otherwise provide)”.
+
+(7)[^key-5b36bba904d3129c832f1dc3b4103705][^key-f13207e3bed7ab9b0751e0f51bd4a3e7] In subsection (8)[^f00013], the words “member State” shall be omitted.
+
+(8)[^key-6c89141927a704596677c7620bb1f51d] In subsection (9)[^f00014], in paragraph (a), after “if” there shall be inserted “(except where regulations otherwise provide)”.
+
+(9)[^key-5b36bba904d3129c832f1dc3b4103705][^key-f13207e3bed7ab9b0751e0f51bd4a3e7] In subsection (10)—
+
+- (a) after “British Forces licence” there shall be inserted “, a Community licence”,
+- (b) after “(d)” there shall be inserted “, (ea)”, and
+- (c) at the beginning of paragraph (a) there shall be inserted “(except where regulations otherwise provide)”.
+
+(10)[^key-5b36bba904d3129c832f1dc3b4103705][^key-f13207e3bed7ab9b0751e0f51bd4a3e7] In subsection (11), the words from the beginning to “licence and” shall be omitted.
+
+**3.**[^key-88acf6e4e016b9962187af3782ec1d00][^key-ef3adcf25e8b392331c4cc6961e87255][^key-98bf9897c3ee26b98799b17f4e8faa7e] (1)[^key-88acf6e4e016b9962187af3782ec1d00][^key-ef3adcf25e8b392331c4cc6961e87255] Section 92 (requirements as to physical fitness of drivers) shall be amended as follows.
+
+(2)[^key-98bf9897c3ee26b98799b17f4e8faa7e] In subsection (2), in the definition of “disability”, after “disease” there shall be inserted “and the persistent misuse of drugs or alcohol, whether or not such misuse amounts to dependency”.
+
+(3)[^key-88acf6e4e016b9962187af3782ec1d00][^key-ef3adcf25e8b392331c4cc6961e87255] In subsection (6), in paragraph (a) for “who took the test” there shall be substituted “on whom the notice is served”.
+
+(4)[^key-02272fb6de28c0ce8304dffbc3ae0bef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5)[^key-88acf6e4e016b9962187af3782ec1d00][^key-ef3adcf25e8b392331c4cc6961e87255] After subsection (7C)[^f00016] there shall be inserted—
+
+> (7D) In subsection (7B) above the references to section 94 of this Act include references to that section as applied by section 99D of this Act.
+
+**4.**[^key-5165a0b7010dbeb875106ad05146592e][^key-71fdd75af9d73905d9885ad37cfc9321] In section 93 (revocation of licence because of disability or prospective disability), in subsection (1)(b), the words “or (7)” shall be omitted.
+
+**5.**[^key-45d2837332c89dc0493331d13da4949d][^key-b4ee889888601e2d3ae7bdd9d0a7f775] (1) Section 94A (driving after refusal or revocation of licence)[^f00017] shall be amended as follows.
+
+(2) In subsection (1), for paragraphs (a) and (b) there shall be substituted—
+
+> - (a) at any earlier time the Secretary of State—
+>   - (i) has in accordance with section 92(3) of this Act refused to grant such a licence,
+>   - (ii) has under section 93(1) or (2) of this Act revoked such a licence, or
+>   - (iii) has served notice on that person in pursuance of section 99C(1) or (2) of this Act requiring him to deliver to the Secretary of State a Community licence authorising him to drive a motor vehicle of that or a corresponding class, and
+> - (b) since that earlier time he has not been granted—
+>   - (i) a licence under this Part of this Act, or
+>   - (ii) a Community licence,
+>
+>   authorising him to drive a motor vehicle of that or a corresponding class.
+
+**6.**[^key-0865b2e5dcecb6fb4ce7c914f428e83b][^key-4faba7d56fce4426fd48daebba2bc691] (1) Section 97 (grant of licences) shall be amended as follows.
+
+(2) In subsection (1)[^f00018], for paragraph (c) there shall be substituted—
+
+> - (c) surrenders to the Secretary of State—
+>   - (i) any previous licence granted to him after 1st January 1976 and its counterpart,
+>   - (ii) any Community licence and its counterpart (if any) issued to him, and
+>   - (iii) any British external licence or British Forces licence or exchangeable licence held by him,
+>
+>   or provides the Secretary of State with an explanation for not surrendering them which the Secretary of State considers adequate,
+
+.
+
+(3) In subsection (3)[^f00019] —
+
+- (a) for paragraph (d) there shall be substituted—
+
+  > - (d) shall not authorise a person under the age of 21 years, before he has passed a test of competence to drive a motor bicycle,—
+  >   - (i) to drive a motor bicycle without a side-car unless it is a learner motor bicycle (as defined in subsection (5) below) or its first use (as defined in regulations) occurred before 1st January 1982 and the cylinder capacity of its engine does not exceed 125 cubic centimetres, or
+  >   - (ii) to drive a motor bicycle with a side-car unless its power to weight ratio is less than or equal to 0.16 kilowatts per kilogram,
+
+  and
+- (b) in paragraph (e), for “cycle” there shall be substituted “bicycle”.
+
+(4) In subsection (3A)[^f00020], for the word “cycles”, in both places where it occurs, there shall be substituted “bicycles”.
+
+(5) In subsection (4), for the word “cycle”, in both places where it occurs, there shall be substituted “bicycle”.
+
+(6) In subsection (5)—
+
+- (a) for the word “cycle”, in both places where it occurs, there shall be substituted “bicycle”, and
+- (b) for paragraphs (b) and (c) there shall be substituted—
+
+  > - (b) the maximum net power output of its engine does not exceed eleven kilowatts.
+
+(7) For subsection (6) there shall be substituted—
+
+> (6) In this section—
+>
+> - “maximum net power output”, in relation to an engine, means the maximum net power output measured under full engine load, and
+> - “power to weight ratio”, in relation to a motor bicycle with a side-car, means the ratio of the maximum net power output of the engine of the motor bicycle to the weight of the combination with—
+>   - (a) a full supply of fuel in the tank,
+>   - (b) an adequate supply of other liquids needed for its propulsion, and
+>   - (c) no load other than its normal equipment, including loose tools.
+
+**7.**[^key-ee3581366931070be65932d13ade63e5][^key-ab5d6c51feea7f35c57d9bbc2247977a] (1) Section 98 (form of licence) shall be amended as follows.
+
+(2)[^key-d9741f40dfdce6721debc0a3d73191f5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) In subsection (3)[^f00022], in paragraph (b)—
+
+- (a) for the words from “he has” to “side-car” there shall be substituted “he has either passed a test of competence to drive a motor bicycle or attained the age of 21 years, a motor bicycle”, and
+- (b) at the end there shall be inserted “or attained that age (as the case may be)”.
+
+**8.**[^key-658cad518dedc799af086e76e50463e5][^key-388633c5058c9d11669cb8de515e3d4e] In section 99 (duration of licences), in subsection (2), for the word “cycle”, in both places where it occurs, there shall be substituted “bicycle”.
+
+**9.**[^key-c87a739415201b514a0200cd7c1ece80][^key-2d86abcf2717ff5ff3e0c6ed667eb51e] After section 99 there shall be inserted—
+
+> Community licence holders
+>
+> **99A. Authorisation to drive in Great Britain.**
+>
+> (1) A Community licence holder may drive, and a person may cause or permit a Community licence holder to drive, in Great Britain, a motor vehicle of any class which—
+>
+> - (a) he is authorised by his Community licence to drive, and
+> - (b) he is not disqualified for holding or obtaining a licence under this Part of this Act to drive,
+>
+> notwithstanding that he is not the holder of a licence under this Part of this Act.
+>
+> (2) Subsections (3) and (4) below apply to a Community licence holder who is normally resident in Great Britain.
+>
+> (3) In a case where the Community licence holder is authorised by his Community licence to drive motor vehicles of classes other than any prescribed class of goods vehicle or any prescribed class of passenger-carrying vehicle, he shall cease to be authorised by virtue of subsection (1) above to drive in Great Britain any such classes of motor vehicle from—
+>
+> - (a) the date on which he attains the age of seventy years, or
+> - (b) the expiry of the period of three years beginning with the relevant date,
+>
+> whichever is the later.
+>
+> (4) In a case where the Community licence holder is authorised by his Community licence to drive any prescribed class of goods vehicle or any prescribed class of passenger-carrying vehicle, he shall cease to be authorised by virtue of subsection (1) above to drive in Great Britain any such class of vehicle from—
+>
+> - (a) where his age at the relevant date does not exceed forty-five years—
+>   - (i) the date on which he attains the age of forty-six years, or
+>   - (ii) the expiry of the period of five years beginning with the relevant date,
+>
+>   whichever is the earlier,
+> - (b) where his age at the relevant date exceeds forty-five but not sixty-five years—
+>   - (i) the date on which he attains the age of sixty-six years, or
+>   - (ii) the expiry of the period of five years beginning with the relevant date,
+>
+>   whichever is the earlier, and
+> - (c) where his age at the relevant date exceeds sixty-five years, the expiry of the period of one year beginning with that date.
+>
+> (5) A Community licence holder—
+>
+> - (a) to whom a counterpart of his Community licence is issued under section 99B of this Act, and
+> - (b) who is authorised by virtue of subsection (1) above to drive in Great Britain motor vehicles of certain classes only,
+>
+> may drive, in Great Britain, motor vehicles of all other classes subject to the same conditions as if he were authorised by a provisional licence to drive motor vehicles of those other classes.
+>
+> (6) Subsections (3) and (4) of section 98 of this Act shall apply in relation to subsection (5) above as they apply in relation to subsection (2) of that section.
+>
+> (7) For the purposes of this Part and Part IV of this Act a Community licence shall not be treated as authorising a person to drive a vehicle of any class if it is not for the time being valid for that purpose in the EEA State in respect of which it was issued.
+>
+> (8) In this section “relevant date”, in relation to a Community licence holder who is normally resident in Great Britain, means—
+>
+> - (a) in the case where he first became so resident on or before 1 January 1997, that date; and
+> - (b) in any other case, the date on which he first became so resident.
+
+**10.**[^key-778d6a22dee89cd9be3ccd0f93e1ce60][^key-acdc4e616f0cc6b12687ea6aefbffff8] After section 99A there shall be inserted—
+
+> **99B. Information about resident Community licence holders.**
+>
+> (1) A Community licence holder who—
+>
+> - (a) is normally resident in Great Britain, and
+> - (b) is authorised by his Community licence to drive medium-sized or large goods vehicles or passenger-carrying vehicles of any class,
+>
+> shall, on or before the expiry of the period of twelve months beginning with the relevant date, deliver his Community licence to the Secretary of State and provide him with the information specified in, or required under, subsection (4) below.
+>
+> (2) Subsection (1) above shall not apply to a Community licence holder from whom the Secretary of State has received a qualifying application (within the meaning of section 88(1A) of this Act) for the grant of a licence under this Part of this Act.
+>
+> (3) The Secretary of State may issue to any Community licence holder who—
+>
+> - (a) is normally resident in Great Britain, and
+> - (b) has delivered his Community licence to the Secretary of State, and provided him with the information specified in, or required under, subsection (4) below, (whether or not in pursuance of this section),
+>
+> a document (referred to in this Part of this Act in relation to a Community licence as a “counterpart”) in such form and containing such information as the Secretary of State may determine but designed for the endorsement of particulars relating to the Community licence.
+>
+> (4) The information referred to in subsections (1) and (3) above is—
+>
+> - (a) the name and address in Great Britain of the Community licence holder;
+> - (b) his date of birth;
+> - (c) the classes of vehicle which he is authorised by his Community licence to drive;
+> - (d) the period of validity of the Community licence in the EEA State in respect of which it was issued;
+> - (e) whether the licence was granted in exchange for a licence issued by a state other than an EEA State; and
+> - (f) such other information as the Secretary of State may require for the purposes of the proper exercise of any of his functions under this Part or Part IV of this Act.
+>
+> (5) The Secretary of State—
+>
+> - (a) may endorse a Community licence delivered to him (whether or not in pursuance of this section) in such manner as he may determine with any part of the information specified in, or required under, subsection (4) above or with information providing a means of ascertaining that information or any part of it; and
+> - (b) must return the Community licence to the holder.
+>
+> (6) Where it appears to the Secretary of State that a counterpart of a Community licence—
+>
+> - (a) is required to be endorsed in pursuance of any enactment or was issued with an error or omission in the information contained in it or in the particulars required to be endorsed on it, or
+> - (b) does not comply with any requirement imposed since it was issued by any provision made by, or having effect under, any enactment,
+>
+> the Secretary of State may serve notice in writing on the Community licence holder requiring him to surrender the counterpart immediately to the Secretary of State and it shall be the duty of the Community licence holder to comply with any such requirement.
+>
+> (7) Where the name or address of a Community licence holder as specified in the counterpart of his Community licence issued to him under this section ceases to be correct, the Community licence holder must surrender the counterpart and, in the case of a change of name, deliver his Community licence, immediately to the Secretary of State and provide him with particulars of the alterations falling to be made in the name or address.
+>
+> (8) On the surrender of a counterpart of a Community licence by any person in pursuance of subsection (6) or (7) above, the Secretary of State must issue to that person a new counterpart of the Community licence.
+>
+> (9) On the delivery of a Community licence by any person in pursuance of subsection (7) above, the Secretary of State may endorse the Community licence with the correct name and must return the Community licence to that person.
+>
+> (10) Where a Community licence holder has not complied with subsection (1) above, the Secretary of State may serve notice in writing on the holder requiring him to deliver his Community licence to the Secretary of State and to provide him with the information specified in, or required under, subsection (4) above within such period (not being less than 28 days from the date of service of the notice) as is specified in the notice.
+>
+> (11) A person who drives a motor vehicle on a road is guilty of an offence if he fails without reasonable excuse—
+>
+> - (a) to comply with a requirement contained in a notice served on him in pursuance of subsection (10) above, or
+> - (b) to comply with a requirement imposed under subsection (6) or (7) above.
+>
+> (12) Where a Community licence holder who is required under subsection (6) or (7) above to surrender the counterpart of his Community licence or to deliver his Community licence is not in possession of it in consequence of the fact that he has surrendered it to a constable or authorised person (within the meaning of Part III of the Road Traffic Offenders Act 1988) on receiving a fixed penalty notice given to him under section 54 of that Act, he does not fail to comply with that requirement if he surrenders the counterpart or delivers the Community licence immediately on its return.
+>
+> (13) In England and Wales, proceedings for an offence by virtue of subsection (11)(a) above shall not be instituted except by the Secretary of State or by a constable acting with the approval of the Secretary of State.
+>
+> (14) In this section “relevant date” has the meaning given by section 99A(8) of this Act.
+
+**11.**[^key-500b7b7909348e9317d36837fe7ef5fa][^key-246e72f52ecb6351b4286a771134d2e6] After section 99B there shall be inserted—
+
+> **99C. Revocation of authorisation conferred by Community licence because of disability or prospective disability.**
+>
+> (1) If the Secretary of State is at any time satisfied on inquiry—
+>
+> - (a) that a Community licence holder who is normally resident in Great Britain at that time is suffering from a relevant disability, and
+> - (b) that the Secretary of State would be required by virtue of section 92(3) of this Act to refuse an application made by him at that time for a licence authorising him to drive a vehicle of the class in respect of which his Community licence was issued or a class corresponding to that class,
+>
+> the Secretary of State may serve notice in writing requiring the Community licence holder to deliver the Community licence and its counterpart (if any) immediately to the Secretary of State.
+>
+> (2) If the Secretary of State is at any time satisfied on inquiry that a Community licence holder who is normally resident in Great Britain at that time is suffering from a prospective disability, the Secretary of State may—
+>
+> - (a) serve notice in writing requiring the Community licence holder to deliver the Community licence and its counterpart (if any) immediately to the Secretary of State, and
+> - (b) on receipt of the Community licence and its counterpart (if any) grant to the Community licence holder, free of charge, a licence for a period determined by the Secretary of State under section 99(1)(b) of this Act.
+>
+> (3) Where, in relation to a Community licence holder who is normally resident in Great Britain, the Secretary of State is at any time under a duty to serve notice on him in pursuance of section 92(5) of this Act, the Secretary of State may include in that notice a requirement that the Community licence holder deliver the Community licence and its counterpart (if any) immediately to the Secretary of State.
+>
+> (4) A person who—
+>
+> - (a) is required under, or by virtue of, any of subsections (1) to (3) above to deliver his Community licence and its counterpart (if any) to the Secretary of State, but
+> - (b) without reasonable excuse, fails to do so,
+>
+> is guilty of an offence.
+>
+> (5) Where a Community licence holder to whom a counterpart of his Community licence is issued under section 99B of this Act—
+>
+> - (a) is required under, or by virtue of, any of subsections (1) to (3) above to deliver his Community licence and its counterpart to the Secretary of State, and
+> - (b) is not in possession of them in consequence of the fact that he has surrendered them to a constable or authorised person (within the meaning of Part III of the Road Traffic Offenders Act 1988) on receiving a fixed penalty notice given to him under section 54 of that Act,
+>
+> he does not fail to comply with any such requirement if he delivers the Community licence and its counterpart to the Secretary of State immediately on their return.
+>
+> (6) Where a Community licence holder is served with a notice in pursuance of any of subsections (1) to (3) above, he shall cease to be authorised by virtue of section 99A(1) of this Act to drive in Great Britain a motor vehicle of any class from such date as may be specified in the notice, not being earlier than the date of service of the notice.
+
+**12.**[^key-490c9bac8e18c6c41e987e3bc210e41b][^key-36a47d4879e97631e9fc96c6dd9f5ac6] After section 99C there shall be inserted—
+
+> **99D. Information relating to disabilities etc.**
+>
+> Section 94 of this Act[^f00023] shall apply to a Community licence holder who is normally resident in Great Britain as if—
+>
+> - (a) in subsection (1), for the words from the beginning to “aware” there were substituted “If a Community licence holder who is authorised by virtue of section 99A(1) of this Act to drive in Great Britain a motor vehicle of any class, is aware immediately before the relevant date (as defined by section 99A(8) of this Act), or becomes aware on or after that date”,
+> - (b) for subsection (3A) there were substituted—
+>
+>   > (3A) A person who is authorised by virtue of section 99A(1) of this Act to drive in Great Britain a motor vehicle of any class and who drives on a road a motor vehicle of that class is guilty of an offence if at any earlier time while he was so authorised he was required by subsection (1) above to notify the Secretary of State but has failed without reasonable excuse to do so.
+> - (c) in subsection (4), the words “an applicant for, or”, in both places where they occur, were omitted,
+> - (d) in subsection (5), the words “applicant or” and the words from the beginning of paragraph (c) to “provisional licence” were omitted,
+> - (e) in subsection (6)(b), the words “applicant or”, in both places where they occur, were omitted,
+> - (f) in subsection (7), the words “applicant or” were omitted, and
+> - (g) in subsection (8)—
+>   - (i) for “93” there were substituted “99C”, and
+>   - (ii) the words “applicant or”, in both places where they occur, were omitted.
+
+**13.**[^key-741ad09b5b15b6fdac7c9cb66713561f][^key-9bab6404918cda07fdca477cef83c121] After section 99D there shall be inserted—
+
+> **99E. Return of Community licences delivered to Secretary of State.**
+>
+> (1) This section applies where a Community licence is delivered to the Secretary of State in pursuance of section 99C or 115A of this Act.
+>
+> (2) Subject to subsection (3) below, the Secretary of State must, on or after the expiry of the relevant period, forward the Community licence to the licensing authority in the EEA state in respect of which it was issued and explain to them his reasons for so doing.
+>
+> (3) Where the Secretary of State is satisfied that the Community licence holder has ceased to be normally resident in Great Britain before the expiry of the relevant period, the Secretary of State must return the Community licence to the holder.
+>
+> (4) In this section “relevant period” means—
+>
+> - (a) in a case where the Community licence holder appeals under section 100 or 119 of this Act against the requirement to surrender his Community licence, the period ending on the date on which the appeal is finally determined or abandoned, and
+> - (b) in any other case, the period of seven months beginning with the date on which the Secretary of State received the Community licence.
+
+**14.**[^key-d1f0dd7bf9a0ad00b6d0a9c183594f7c][^key-3841bfa71b071780230fbde41081de2e] In section 100 (appeals relating to licences), after “92(5)” there shall be inserted “or 99C”.
+
+**15.**[^key-cf65abc5feda5686730174c20247ed58][^key-73063fe9e75bcf1bf16e612ac223dd46] In section 101 (disqualification of persons under age), in subsection (1), for the Table there shall be substituted—
+
+> | Class of motor vehicle | Age (in years) |
+> | --- | --- |
+> | 1\. Invalid carriage | 16 |
+> | 2\. Moped | 16 |
+> | 3\. Motor bicycle | 17 |
+> | 4\. Agricultural or forestry tractor | 17 |
+> | 5\. Small vehicle | 17 |
+> | 6\. Medium-sized good vehicle | 18 |
+> | Other motor vehicle | 21 |
+
+**16.**[^key-7243936ee05cd43834a0d7289a7f2163][^key-7ac80b83690310676ae6ef93a29a4c24] In section 103 (obtaining licence, or driving, while disqualified), in subsection (6), in paragraph (a), for “or 117” there shall be substituted “117 or 117A”.
+
+**17.**[^key-3b517b05b0d1d9e22f7efe4554c56325] In section 105 (regulations)[^f00024], in subsection (2)—
+
+- (a) for paragraphs (a) and (b) there shall be substituted—
+
+  > - (a) licences under this Part of this Act, Community licences and counterparts of such licences,
+  > - (b) making any particulars with respect to any persons—
+  >   - (i) who are disqualified,
+  >   - (ii) whose licences are suspended, or
+  >   - (iii) whose counterparts of licences under this Part of this Act or of Community licences (as the case may be) are endorsed,
+  >
+  >   available for use by the police,
+- (b)[^key-850ee232df10981e251d62e0afa74216] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c) at the end of paragraph (f) there shall be inserted “or on Community licences then in force”.
+
+(3) In subsection (5), for “and 34 to 48” there shall be substituted “, 34 to 48, 91A and 91B”.
+
+**18.**[^key-3f9ee19dac3a01d5ce667b5af78e7960][^key-1d8dc2c836ef3ce48f4a33e4b81ed322] In section 107 (service of notices), for the words from the beginning to “Served on him” there shall be substituted “A notice authorised to be served on any person under this Part or Part IV of this Act or a Community licence required to be returned to its holder by section 99B or 99E of this Act may be served on, or returned to him”.
+
+**19.**[^key-066df0d50c0a31ff02d32f8cb4285b95][^key-eaa6d341f48f565ad71a9fe6cb49ea1b] (1) Section 108 (interpretation) shall be amended as follows.
+
+(2) In subsection (1)[^f00025] —
+
+- (a) for the definition of “agricultural tractor” there shall be substituted—
+
+  > “agricultural or forestry tractor” means a motor vehicle which—
+  >
+  > - (a) has two or more axles,
+  > - (b) is constructed for use as a tractor for work off the road in connection with agriculture or forestry, and
+  > - (c) is primarily used as such,
+- (b) in the definition of “Community licence”—
+  - (i) for the words “a member State”, in both places where they occur, there shall be substituted “an EEA State”,
+  - (ii) for “another member State” there shall be substituted “another EEA State”, and
+  - (iii) after paragraph (b) there shall be inserted
+
+    > or
+    >
+    > - (c) a document issued for a purpose corresponding to that mentioned in section 97(2) of this Act,
+- (c)[^key-6345e1f2828f77ce2260172f6a6e609a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d) after the definition of “disqualified” there shall be inserted—
+
+  > - “EEA Agreement” means the Agreement on the European Economic Area signed at Oporto on 2nd May 1992 as adjusted by the Protocol signed at Brussels on 17th March 1993,
+  > - “EEA State” means a State which is a Contracting Party to the EEA Agreement,
+- (e) for the definition of “exchangeable licence” there shall be substituted—
+
+  > - “exchangeable licence” means a document issued in respect of—
+  >   - (a) Gibraltar, or
+  >   - (b) a country or territory which is within this paragraph by virtue of an order under subsection (2) below,
+  > - by an authority of Gibraltar or that country or territory (as the case may be), authorising the holder to drive a motor vehicle, not being a document mentioned in paragraph (b) of the definition of “Community licence” above,
+- (f) after the definition of “full licence” there shall be inserted—
+
+  > “large goods vehicle” has the meaning given by section 121(1) of this Act,
+- (g) in the definition of “licence”, the words from “and counterpart” onwards shall be omitted,
+- (h) for the definition of “medium-sized goods vehicle” there shall be substituted—
+
+  > - “medium-sized goods vehicle” means a motor vehicle—
+  >   - (a) which is constructed or adapted to carry or to haul goods,
+  >   - (b) which is not adapted to carry more than nine persons inclusive of the driver, and
+  >   - (c) the permissible maximum weight of which exceeds 3.5 but not 7.5 tonnes,
+  >
+  >   and includes a combination of such a motor vehicle and a trailer where the relevant maximum weight of the trailer does not exceed 750 kilograms,
+  > - “moped” means a motor vehicle which has fewer than four wheels and—
+  >   - (a) in the case of a vehicle the first use (as defined in regulations made for the purpose of section 97(3)(d) of this Act) of which occurred before 1st August 1977, has a cylinder capacity not exceeding 50 cubic centimetres and is equipped with pedals by means of which the vehicle is capable of being propelled, and
+  >   - (b) in any other case, has a maximum design speed not exceeding 50 kilometres per hour and, if propelled by an internal combustion engine, has a cylinder capacity not exceeding 50 cubic centimetres,
+  > - “motor bicycle” means a motor vehicle which—
+  >   - (a) has two wheels, and
+  >   - (b) has a maximum design speed exceeding 50 kilometres per hour and, if powered by an internal combustion engine, has a cylinder capacity exceeding 50 cubic centimetres,
+  >
+  >   and includes a combination of such a motor vehicle and a side-car,
+
+  - (i) after the definition of “semi-trailer” there shall be inserted—
+
+    > - “small vehicle” means a motor vehicle (other than an invalid carriage, moped or motor bicycle) which—
+    >   - (a) is not constructed or adapted to carry more than nine persons inclusive of the driver, and
+    >   - (b) has a maximum gross weight not exceeding 3.5 tonnes,
+    >
+    >   and includes a combination of such a motor vehicle and a trailer,
+
+    and
+- (j) the definitions of “small goods vehicle” and “small passenger vehicle” shall be omitted.
+
+(3) In subsection (2), for “a member State” there shall be substituted “an EEA State”.
+
+**20.**[^key-85961e0889159343ec166f36915264e2][^key-fec9777f6b20bd0316aae5f59cfab903] In section 110 (licensing of drivers of large goods vehicles etc.)[^f00026], in subsection (2)—
+
+- (a) immediately before the definition of “large goods vehicle driver’s licence” there shall be inserted—
+
+  > “Community licence” has the same meaning as in Part III of this Act;
+  >
+  > “LGV Community licence” means a Community licence in so far as it authorises a person to drive large goods vehicles of any class;
+
+  , and
+- (b) after that definition there shall be inserted—
+
+  > “PCV Community licence” means a Community licence in so far as it authorises a person to drive passenger-carrying vehicles of any class;
+
+  .
+
+**21.**[^key-9fd868da8306e1212ff60afa97fac17e][^key-bf6cbcb8ae88c708e98feaf4813ffe90] In section 111 (functions of traffic commissioners), in subsection (1), for the words from “applicants” onwards there shall be substituted—
+
+> - (a) applicants for and holders of large goods vehicle and passenger-carrying vehicle drivers' licences, and
+> - (b) holders of LGV Community licences and PCV Community licences.
+
+**22.**[^key-6cb75af239dc7bdec3903812dc41572f][^key-584aede8963299bc8fe8fa5d7bd2ac16] In section 114 (conditions of certain licences), in subsection (1), for the words from the beginning to “21” there shall be substituted
+
+> The following licences, that is to say—
+>
+> - (a) a large goods vehicle or passenger-carrying vehicle driver’s licence issued as a provisional licence,
+> - (b) a full large goods vehicle or passenger-carrying vehicle driver’s licence granted to a person under the age of 21, and
+> - (c) a LGV Community licence held by a person under the age of 21 who is normally resident in Great Britain,
+
+.
+
+**23.**[^key-6196d6c0258436c370a12a4e719ab0d2][^key-f8752c86ba886c2e0c50ffa39b195536] In section 115 (revocation or suspension of licences), in subsection (3)[^f00027] —
+
+- (a) for “or section 117” there shall be substituted “or any of sections 115A, 117 or 117A”, and
+- (b) in paragraph (b), for the words from “under” to “revoked” there shall be substituted—
+
+  > - (i) under section 117 of this Act, a person whose licence has been revoked, or
+  > - (ii) under section 117A of this Act, a person on whom a notice is served in pursuance of section 115A(1)(a) of this Act,
+
+  .
+
+**24.**[^key-93bb5829f608c657e41b4f33de50b079][^key-046ca525c0f4a3328deb78fe21c95cda] After that section there shall be inserted—
+
+> **115A. Community licence holders: cessation of authorisation, etc.**
+>
+> (1) Where, in relation to a holder of a LGV Community licence or PCV Community licence who is normally resident in Great Britain—
+>
+> - (a) there exist immediately before the relevant date, or there come into existence on or after that date, such circumstances relating to his conduct as may be prescribed; or
+> - (b) his conduct is such as to make him unfit to be authorised by virtue of section 99A(1) of this Act to drive in Great Britain a large goods vehicle or passenger-carrying vehicle (as the case may be),
+>
+> the Secretary of State must serve notice on the holder requiring him to deliver the Community licence and its counterpart (if any) immediately to the Secretary of State and it shall be the duty of the holder to comply with that requirement.
+>
+> (2) Where a notice is served in pursuance of subsection (1)(a) or (b) above on the holder of a LGV Community licence or a PCV Community licence, he shall cease to be authorised by virtue of section 99A(1) of this Act to drive in Great Britain a large goods vehicle or passenger-carrying vehicle (as the case may be) from such date as is specified in the notice, not being earlier than the date of service of the notice.
+>
+> (3) Where it appears to the Secretary of State that the conduct of a Community licence holder falls within both paragraph (a) and paragraph (b) of subsection (1) above, the Secretary of State must serve notice on the holder in pursuance of the former paragraph only.
+>
+> (4) Any Community licence holder who fails without reasonable excuse to comply with his duty under subsection (1) above is guilty of an offence.
+>
+> (5) In this section “relevant date”, in relation to a Community licence holder who is normally resident in Great Britain, has the same meaning as in section 99A(8) of this Act.
+
+**25.**[^key-c6a4adaf61bf47a0865abd84e03e9641][^key-1ffe4ad94680b06aae080ec42303ec48] (1) Section 116 (revocation or suspension of licences etc.) shall be amended as follows.
+
+(2) For subsection (1) there shall be substituted—
+
+> (1) Any question arising—
+>
+> - (a) under section 115(1)(b) of this Act as to whether a person is or is not, by reason of his conduct, fit to hold a large goods vehicle or passenger-carrying vehicle driver’s licence, as the case may be, or
+> - (b) under section 115A(1)(b) of this Act as to whether the holder of a LGV Community licence or PCV Community licence is or is not, by reason of his conduct, fit to be authorised by virtue of section 99A(1) of this Act to drive in Great Britain a large goods vehicle or passenger-carrying vehicle (as the case may be),
+>
+> may be referred by the Secretary of State to the traffic commissioner for the area in which the holder of the licence resides.
+
+(3) In subsection (2), for “subsection (1)” there shall be substituted “subsection (1)(a)”.
+
+(4) After that subsection there shall be inserted—
+
+> (2A) Where, on any reference under subsection (1)(b) above, the traffic commissioner determines that a Community licence holder is not fit to be authorised by virtue of section 99A(1) of this Act to drive in Great Britain a large goods vehicle or passenger-carrying vehicle (as the case may be), he shall also determine whether the Community licence holder—
+>
+> - (a) should be disqualified under section 117A(2)(a) of this Act (and, if so, for what period) or under section 117A(2)(b) of this Act, or
+> - (b) should be granted, free of charge, a large goods vehicle or passenger-carrying vehicle driver’s licence (and, if so, from what date it shall take effect).
+
+(5) In subsection (4), for the words from “the Secretary of State may” onwards there shall be substituted—
+
+> - (a) in a case where the licence in question is a LGV Community licence or a PCV Community licence, the holder shall cease to be authorised by virtue of section 99A(1) of this Act to drive in Great Britain a large goods or passenger-carrying vehicle (as the case may be) from such date as is specified in a notice served on the holder by the Secretary of State; and
+> - (b) in any other case, revoke the licence or suspend it for such period as he thinks fit.
+
+**26.**[^key-7158c14155e90cbe7e6e5cd292aec692][^key-e68fd7bc4a31ceae5c2f0ca591314151] After section 117 there shall be inserted—
+
+> **117A. Community licences: disqualification etc.**
+>
+> (1) Where a notice is served on a Community licence holder in pursuance of section 115A(1)(a) of this Act, the Secretary of State must, in accordance with the regulations made in pursuance of section 115(3), order that person to be disqualified indefinitely or for the period determined in accordance with the regulations.
+>
+> (2) Where a notice is served on a Community licence holder in pursuance of section 115A(1)(b) of this Act, the Secretary of State may—
+>
+> - (a) order that person to be disqualified indefinitely or for such period as the Secretary of State thinks fit,
+> - (b) if it appears to the Secretary of State that, owing to the conduct of the Community licence holder, it is expedient to require him to comply with the prescribed conditions applicable to provisional licences under Part III of this Act until he passes the prescribed test of competence to drive large goods vehicles or passenger-carrying vehicles of any class, order him to be disqualified for holding or obtaining a full licence until he passes such a test, or
+> - (c) on receipt of the Community licence and its counterpart (if any), grant to the Community licence holder, free of charge, a large goods vehicle or passenger-carrying vehicle driver’s licence which shall take effect from such date as the Secretary of State may determine.
+>
+> (3) Where a Community licence holder is disqualified in pursuance of subsection (1) or (2) above, the Secretary of State must, on receipt of the Community licence and its counterpart (if any), issue to the Community licence holder, free of charge, a licence authorising the driving of the classes of vehicle which are unaffected by the disqualification.
+>
+> (4) If, while the holder of a LGV Community licence or a PCV Community licence is disqualified under subsection (1) above, the circumstances prescribed for the purposes of section 115A(1)(a) of this Act cease to exist in his case, the Secretary of State must, on an application made to him for the purpose, remove the disqualification.
+>
+> (5) Where the holder of a LGV Community licence or a PCV Community licence is disqualified under subsection (2)(a) above, the Secretary of State may, in such circumstances as may be prescribed, remove the disqualification.
+>
+> (6) In this section “disqualified”—
+>
+> - (a) in a case where notice is served in pursuance of section 115A(1) of this Act on a Community licence holder on the ground of his conduct as a driver, means disqualified for holding or obtaining a licence under Part III of this Act to drive large goods vehicles of the prescribed classes and passenger-carrying vehicles of the prescribed classes; and
+> - (b) in a case where notice is served in pursuance of section 115A(1) of this Act on a holder of a PCV Community licence on the ground of his conduct otherwise than as a driver, means disqualified for holding or obtaining a licence under Part III of this Act to drive passenger-carrying vehicles of the prescribed classes.
+
+**27.**[^key-2dc1b1ad77390e8952a492337a7d22c3][^key-330bedf2464160dbbe47b32de4c4a782] (1) Section 119 (appeals to magistrates' court or sheriff) shall be amended as follows.
+
+(2) In subsection (1)—
+
+- (a) after “driver’s licence” there shall be inserted “or the holder of a LGV Community licence or a PCV Community licence”,
+- (b) in paragraph (c), after “section 117(2)” there shall be inserted “or 117A(2)”, and
+- (c) immediately before “may” there shall be inserted “or by a notice served on him in pursuance of section 115A(1) or 116(4) of this Act”.
+
+(3) In subsection (2), for “subsection (1)(a) or (b) above” there shall be substituted “subsection (1) above (except under paragraph (c) of that subsection)”.
+
+**28.**[^key-6d6995c5b44f7cd4b08428fc07d3745b][^key-d72b409e570371a49810248ef3a7b461] (1) Section 121 (interpretation) shall be amended as follows.
+
+(2) In subsection (1)—
+
+- (a) for the definition of “conduct” there shall be substituted—
+
+  > - “conduct” means—
+  >   - (a) in relation to an applicant for or the holder of a large goods vehicle driver’s licence or the holder of a LGV Community licence, his conduct as a driver of a motor vehicle, and
+  >   - (b) in relation to an applicant for or the holder of a passenger-carrying vehicle driver’s licence or the holder of a PCV Community licence, his conduct both as a driver of a motor vehicle and in any other respect relevant to his holding a passenger-carrying vehicle driver’s licence or (as the case may be) his authorisation by virtue of section 99A(1) of this Act to drive in Great Britain a passenger-carrying vehicle of any class,
+  >
+  >   including, in either case, such conduct in Northern Ireland;
+
+  ,
+- (b)[^key-4616d89903850cc24096b80b5361e9e4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c) for the definition of “large goods vehicle” there shall be substituted—
+
+  > - “large goods vehicle” means a motor vehicle (not being a medium-sized goods vehicle within the meaning of Part III of this Act) which is constructed or adapted to carry or to haul goods and the permissible maximum weight of which exceeds 7.5 tonnes;
+
+  ,
+- (d) at the end of the definition of “passenger-carrying vehicle” there shall be inserted “and includes a combination of such a motor vehicle and a trailer”, and
+- (e) for the words from “and “articulated”” onwards there shall be substituted “and “permissible maximum weight” has the same meaning as in Part III of this Act.”
+
+**29.**[^key-0b771a755673119f51c06b5f06552899][^key-21a89af92c12e5f32820ffa1cd50e04b] After section 141 there shall be inserted—
+
+> **141A. Meaning of “motor car”.**
+>
+> (1) Notwithstanding section 185(1) of this Act, in this Part of this Act “motor car” means a motor vehicle (other than an invalid carriage or motor cycle)—
+>
+> - (a) which is not constructed or adapted to carry more than nine persons inclusive of the driver, and
+> - (b) which has a maximum gross weight not exceeding 3.5 tonnes.
+>
+> (2) In subsection (1) above “maximum gross weight” has the same meaning as in Part III of this Act.
+
+**30.**[^key-26208c1bd76bc4cc28c1e310c86a3db7][^key-f643ec1fcef197c33d63a08c946c1085] (1) Section 164 (power of constables to require production of driving licence etc.)[^f00028] shall be amended as follows.
+
+(2) In subsection (3)—
+
+- (a) in paragraph (a), after sub-paragraph (ii) there shall be inserted
+
+  > or
+  >
+  > - (iii) served notice requiring the delivery of a licence to him in pursuance of section 99C or 115A of this Act,
+
+  and
+- (b) in paragraph (b), for “or 118” there shall be substituted “99C, 115A or 118”.
+
+(3) For subsection (11) there shall be substituted—
+
+> (11) In this section—
+>
+> - “licence” means a licence under Part III of this Act or a Community licence,
+> - “vehicle examiner” means an examiner appointed under section 66A of this Act;
+>
+> and “Community licence”, “counterpart”, “provisional licence”, “training course for motor cyclists” and, in relation to such a course, “the prescribed certificate of completion” have the same meanings as in Part III of this Act.
+
+**31.**[^key-3aa2e0e1deedd0109c98a5b0ed708237] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**32.**[^key-ddeab1320ca5cd7ff405ae0ed56dda95] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**33.**[^key-0bb4666ecfd819c3d558248d2ff3a82f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**34.**[^key-0ff6acdae63336191047e9bf58831de5][^key-4713743710b6d882c7b5cb4886293ed7] In section 183 (application of Act to Crown), in subsection (4), for the words “motor cycles”, wherever they occur, there shall be substituted “motor bicycles”.
+
+**35.**[^key-a5d01031389d0b82cb15ed545e46bb71] In section 193A (tramcars and trolley vehicles)[^f00032], in subsection (2)(b), after “48” there shall be inserted “91A, 91B,”.
+
+## SCHEDULE 2 — AMENDMENTS TO THE ROAD TRAFFIC OFFENDERS ACT 1988
+
+Regulation 3
+
+**1.**[^key-046e4beefbcd7678ba4f37f94fad1639] In section 3 (restriction on institution of proceedings for certain offences), after subsection (2) there shall be inserted—
+
+> (2A) In subsection (2) above the reference to section 94(3) of the Road Traffic Act 1988 includes a reference to that section as applied by section 99D of that Act.
+
+**2.**[^key-61264c59d8f8b366cc54744c58139df8] In section 26 (interim disqualification)[^f00033], in subsection (10), for “and 47(2)” there shall be substituted “, 47(2) and 91A(5)”.
+
+**3.**[^key-e23fdf2cf1beb8c84ba56899f05c30ef] (1) Section 36 (disqualification until test is passed)[^f00034] shall be amended as follows.
+
+(2) In subsection (11)—
+
+- (a) in paragraph (a)—
+  - (i) for “member State” there shall be substituted “EEA State”, and
+  - (ii) the words from “(as” to “1988)” shall be omitted, and
+- (b) in paragraph (b), for “that Act” there shall be substituted “the Road Traffic Act 1988”.
+
+(3) After that subsection there shall be inserted—
+
+> (11A) In subsection (11) above “designated country or territory” means a country or territory designated under section 108(2) of the Road Traffic Act 1988.
+
+**4.**[^key-0de4f41fa058ab5c44c4e758a3c498de] After section 91 there shall be inserted—
+
+> **91A. Application to Community licence holders.**
+>
+> (1) The references in sections 7, 26(7) and (8) and (9)(b), 27, 29(1), 30, 31(1), 32, 42(5), 44(1), 46(2), 47(3) and 48(1) and (2) of this Act to a licence includes references to a Community licence; and accordingly the reference in section 27(3)(b) of this Act to the suspension of a licence is to be construed in relation to a Community licence as a reference to the Community licence holder ceasing to be authorised by virtue of section 99(A)(1) of the Road Traffic Act 1988 to drive in Great Britain a motor vehicle of any class.
+>
+> (2) The references in sections 26(9)(a) and 27(3) of this Act to a new licence include references to a counterpart of a Community licence.
+>
+> (3) In relation to a Community licence holder to whom a counterpart is issued under section 99B of the Road Traffic Act 1988, the references in Part III of this Act (except sections 75(12), 76(8) and 77(9) of this Act) to a licence include references to a Community licence.
+>
+> (4) Where a court orders the endorsement of the counterpart of any Community licence held by a person, it must send notice of the endorsement to the Secretary of State.
+>
+> (5) Where a court orders the holder of a Community licence to be disqualified, it must send the Community licence and its counterpart (if any), on their being produced to the court, to the Secretary of State.
+>
+> (6) A notice sent by a court to the Secretary of State in pursuance of subsection (4) above must be sent in such manner and to such address and contain such particulars as the Secretary of State may determine, and a Community licence and its counterpart (if any) so sent in pursuance of subsection (5) above must be sent to such address as the Secretary of State may determine.
+>
+> (7) Where a Community licence held by a person who is ordered by the court to be disqualified is sent to the Secretary of State in pursuance of subsection (5) above, the Secretary of State—
+>
+> - (a) must send to the licensing authority in the EEA State in respect of which the Community licence was issued the holder’s name and address and particulars of the disqualification, and
+> - (b) must (subject to subsection (8) below) return the Community licence to the holder—
+>   - (i) on the expiry of the period of disqualification, or
+>   - (ii) if earlier, on being satisfied that the holder has left Great Britain and is not normally resident there.
+>
+> (8) Where—
+>
+> - (a) the Secretary of State would, apart from this subsection, be under a duty on the expiry of the period of disqualification to return a Community licence to a person in pursuance of subsection (7)(b)(i) above, but
+> - (b) at that time, the person would not be authorised by virtue of section 99A(1) of the Road Traffic Act 1988 to drive in Great Britain a motor vehicle of any class,
+>
+> the Secretary of State must send the Community licence to the licensing authority in the EEA State in respect of which it was issued and explain to them his reasons for so doing.
+>
+> (9) A Community licence to be returned to any person under subsection (7) above may be returned to him by delivering it to him or by leaving it at his proper address or by sending it to him by post; and for the purposes of this subsection and section 7 of the Interpretation Act 1978 in its application to this subsection the proper address of any person shall be his latest address as known to the person returning the Community licence.
+>
+> (10) In this section “period of disqualification” means, in relation to a Community licence holder, the period for which he is ordered by the court to be disqualified (otherwise than under section 36 of this Act).
+
+**5.**[^key-9943df07591ac4d62794a53237532c02] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**6.**[^key-1ecf7731fde27273b7593cee1735229e] In section 98 (interpretation)[^f00035] —
+
+- (a)[^key-0df9d57e4516703a46059e473f29a337] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) at the end of that subsection there shall be inserted “and “Community licence”, “counterpart” and “EEA State” have the same meanings as in Part III of the Road Traffic Act 1988”.
+
+**7.**[^key-b0a7b115ee8e92e448478fe90d731640] In Schedule 1 (offences to which sections 1, 6, 11 and 12(1) of the Act apply)[^f00036], in the Table—
+
+- (a) in the entry for section 94(3) of the Road Traffic Act 1988 (the “RTA”), in column 1, at the end there shall be inserted “and that subsection as applied by RTA section 99D”,
+- (b) in the entry for section 94(3A) of that Act, in column 1, at the end there shall be inserted “and that subsection as applied by RTA section 99D(b)”,
+- (c) in the entry for section 94A of that Act, in column 2, for the words from “or revocation” onwards there shall be substituted “, revocation under section 93 or service of a notice under section 99C”,
+- (d) after the entry for section 99 of that Act there shall be inserted—
+
+  > |  |  |  |
+  > | --- | --- | --- |
+  > | RTA section 99B(11). | Driving after failure to comply with a requirement under section 99B(6), (7) or (10). | Section 6 of this Act. |
+- (e) in the entries for section 114(1) of that Act, for the words “or PCV driver’s licence” there shall be subsituted “PCV licence or LGV Community licence”.
+
+**8.**[^key-1dca27b287e4d627e6c579642edbf813] In Schedule 2 (prosecution and punishment of offences)[^f00037], in Part I—
+
+- (a) in the entry for section 94(3) of the Road Traffic Act 1988 (the “RTA”), in column 2, at the end there shall be inserted “and that subsection as applied by RTA section 99D”,
+- (b) in the entry for section 94(3A) of that Act, in column 2, at the end there shall be inserted “and that subsection as applied by RTA section 99D(b)”,
+- (c) in the entry for section 94A of that Act, in column 2, for the words from “or revocation” onwards there shall be substituted “, revocation under section 93 or service of a notice under section 99C”,
+- (d) after the entry for section 99(5) of that Act, there shall be inserted—
+
+  > |  |  |  |  |  |  |  |
+  > | --- | --- | --- | --- | --- | --- | --- |
+  > | RTA section 99B(11) | Driving after failure to comply with a requirement u;nder section 99B(6), (7) or (10). | Summarily | Level 3 on the standard scale. | — | — | — |
+  > | RTA section 99C(4) | Failure to deliver Community licence to Secretary of State when required by notice under section 99C. | Summarliy. | Level 3 on the standard scale. | — | — | — |
+- (e) in the entry for section 114 of that Act, in column 2, for the words “or PCV licence” there shall be substituted “PCV licence or LGV Community licence”,
+- (f) after the entry for section 114 of that Act, there shall be inserted—
+
+  > |  |  |  |  |  |  |  |
+  > | --- | --- | --- | --- | --- | --- | --- |
+  > | RTA section 115(4). | Failure to deliver LGV or PCV Community licence when required by notice under section 114A. | Summarily. | Level 3 on the standard scale. | — | — | — |
+- (g) in the entry for section 120(5) of that Act, in column 2, at the end there shall be inserted “or LGV or PCV Community licence”,
+- (h) in the entry for section 173 of that Act, in column 2, after “licences” there shall be inserted “counterparts of Community licences,”.
+
+## SCHEDULE 3 — AMENDMENTS TO THE TRANSPORT ACT 1985
+
+Regulation 4
+
+**1.**[^key-d04ab3e1506799682e7b154c09275db2][^key-201ab8beea64ddbe2d14061a8624a1cf] (1) Section 18 (exemption from PSV operator and driver licensing requirements of vehicles used under permits)[^f00038] shall be amended as follows.
+
+(2) At the beginning there shall be inserted “(1)”.
+
+(3) For the words from “and a person” onwards there shall be substituted—
+
+> (2) Where a holder of a licence under Part III of the Road Traffic Act 1988 was first granted a licence under that Part before 1st January 1997, he may drive any small bus at a time when it is being used as mentioned in paragraph (a) or (b) of subsection (1) above, notwithstanding that his licence under that Part does not authorise him to drive a small bus when it is being so used.
+>
+> (3) Where—
+>
+> - (a) a holder of a licence under Part III of the Road Traffic Act 1988 was first granted a licence under that Part on or after 1st January 1997, or
+> - (b) a Community licence holder is authorised by virtue of section 99A(1) of that Act to drive in Great Britain a motor vehicle of any class,
+>
+> he may drive any small bus to which subsection (4) below applies at a time when it is being used as mentioned in paragraph (a) or (b) of subsection (1) above, notwithstanding that he is not authorised by his licence under that Part or by virtue of that section (as the case may be) to drive such a bus.
+>
+> (4) This subsection applies to any small bus which, when laden with the heaviest load which it is constructed to carry, weighs—
+>
+> - (a) not more than 3.5 tonnes, excluding any part of that weight which is attributable to specialised equipment intended for the carriage of disabled passengers, and
+> - (b) not more than 4.25 tonnes otherwise.
+>
+> (5) In this section—
+>
+> - “Community licence” has the same meaning as in Part III of the Road Traffic Act 1988, and
+> - “small bus” has the same meaning as in sections 19 to 21 of this Act.
+
+**2.**[^key-bab28e7f5dcedf4b0f59fc995dfd19d8] In section 23 (further provision with respect to community bus permits)[^f00039], in subsection (2), in paragraph (b), after “licence” there shall be inserted “or PCV Community licence”.
+
+## SCHEDULE 4 — MINOR AND CONSEQUENTIAL AMENDMENTS TO OTHER ENACTMENTS
+
+Regulation 5
+
+**1.**[^key-27af18ed60d2259658f78ae95ce55418] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**2.**[^key-80fb9cc4406e72d2802c01a939b6cef2] (1) The Local Government (Miscellaneous Provisions) Act 1976[^f00042] shall be amended as follows.
+
+(2) In section 51 (licensing of drivers of private hire vehicles)[^f00043] in subsection (1), for paragraph (b) there shall be substituted—
+
+> - (b) to any person who has not for at least twelve months been authorised to drive a motor car, or is not at the date of the application for a driver’s licence so authorised.
+
+(3) After subsection (1) of that section there shall be inserted—
+
+> - (A) For the purposes of subsection (1) of this section a person is authorised to drive a motor car if—
+> - (a) he holds a licence granted under Part III of the Road Traffic Act 1988 (not being a provisional licence) authorising him to drive a motor car, or
+> - (b) he is authorised by virtue of section 99A(1) of that Act to drive in Great Britain a motor car.
+
+(4) In section 59 (qualifications for drivers of hackney carriages), in subsection (1), for paragraph (b) there shall be substituted—
+
+> - (b) to any person who has not for at least twelve months been authorised to drive a motor car, or is not at the date of the application for a driver’s licence so authorised.
+
+(5) After subsection (1) of that section there shall be inserted—
+
+> (1A) For the purposes of subsection (1) of this section a person is authorised to drive a motor car if—
+>
+> - (a) he holds a licence granted under Part III of the Road Traffic Act 1988 (not being a provisional licence) authorising him to drive a motor car, or
+> - (b) he is authorised by virtue of section 99A(1) of that Act to drive in Great Britain a motor car.
+
+**3.**[^key-3d0d81ade19f48d218a3614cf606e84e] In Schedule 1 to the Energy Act 1976[^f00044] (relaxations of road traffic and transport law permissible under section 4(2)), for paragraph 2[^f00045] there shall be substituted—
+
+> **2.** (1) A person acting under and in accordance with such an authority may—
+>
+> - (a) drive a passenger-carrying vehicle notwithstanding that his licence does not authorise him to do so; or
+> - (b) cause or permit to drive any such vehicle a person whose licence does not so authorise him.
+>
+> (2) In this paragraph—
+>
+> - “Community licence” has the same meaning as in Part III of the Road Traffic Act 1988;
+> - “licence” means a licence under that Part or a Community licence; and
+> - “passenger-carrying vehicle” has the same meaning as in Part IV of that Act.
+
+**4.**[^key-3a10ca0f989d0ee47b2f07818b194309] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**5.**[^key-8ee0c1a383508c966ca96271981b3279] (1) The Road Traffic (New Drivers) Act 1995[^f00048] shall be amended as follows.
+
+(2) In section 1 (probationary period for newly qualified drivers), in subsection (2)(b), for the words from “another” onwards there shall be substituted—
+
+> - (i) another EEA State,
+> - (ii) the Isle of Man,
+> - (iii) any of the Channel Islands, or
+> - (iv) Gibraltar.
+
+(3) In section 9 (interpretation etc), in subsection (4), for the words from “as it applies” onwards there shall be substituted “as it applies to a notice served under Part III or IV of that Act”.
+
+**6.**[^key-978f70e3a569ff4f2f787b47eec526cc] (1) Section 248 of the Criminal Procedure (Scotland) Act 1995 (disqualification where vehicle used for purposes of offence)[^f00049] shall be amended as follows.
+
+(2) For subsection (2) there shall be substituted—
+
+> (2) A court which makes an order under subsection (1) above disqualifying a person from holding or obtaining a licence under Part III of the Road Traffic Act 1988 shall require him to produce—
+>
+> - (a) any such licence;
+> - (b) any Community licence (within the meaning of that Part); and
+> - (c) any counterpart of a licence mentioned in paragraph (a) or (b) above,
+>
+> held by him.
+
+(3) In subsection (4), after “licences” there shall be inserted “, other than Community licences”.
+
+## SCHEDULE 5 — AMENDMENTS TO THE MOTOR VEHICLES (INTERNATIONAL CIRCU LATION) ORDER 1975
+
+Regulation 6
+
+**1.**[^key-bbf56ae93614fbedf7693033ea5f38e9] (1) Article 2 (visitors' driving permits)[^f00050] shall be amended as follows.
+
+(2) In paragraphs (2) to (4), for the words “a Member State of the European Economic Community”, in each place where they occur, there shall be substituted “an EEA State”.
+
+(3) In paragraph (4), in sub-paragraph (b), for the words “paragraph 6” there shall be substituted “paragraph 7”.
+
+(4) In paragraph (7)—
+
+- (a) at the end of the definition of “domestic driving permit” there shall be inserted “but does not include a Community licence (within the meaning of Part III of the Road Traffic Act 1988)”; and
+- (b) after the definition of “dependents” there shall be inserted—
+
+  > “EEA Agreement” means the Agreement on the European Economic Area signed at Oporto on 2nd May 1992 as adjusted by the Protocol signed at Brussels on 17th March 1993;
+  >
+  > “EEA State” means a State which is a Contracting Party to the EEA Agreement;
+
+  .
+
+(This note is not part of the Regulations)
+
+These Regulations amend the Road Traffic Act 1988, the Road Traffic Offenders Act 1988, the Transport Act 1985, certain other Acts and the Motor Vehicles (International Circulation) Order 1975 so as to give effect to Council Directive [91/439/EEC](https://www.legislation.gov.uk/european/directive/1991/0439) of 29 July 1991 on driving licences (OJ No. L 237, 24.8.91, p.1). The Directive applies, by virtue of Decision 7/94 of the EEA Joint Committee (OJ No. L 160, 28.6.94, p.1) to states within the European Economic Area.
+
+The principal changes made are as follows—
+
+- holders of driving licences issued by states within the EEA (called “Community licences”) who become resident in Great Britain are authorised to drive here without the need to exchange their licences for British ones within a year of taking up residence; the right to exchange, however, is not removed and, where necessary for the purpose of applying British legislative provisions as to periods of validity, standards of health and fitness and driving disqualification, exchange of licences is made mandatory;
+- a Community licence held by a British resident is valid for the same period as an equivalent British licence unless it would have expired earlier had the holder remained in the state of issue or would otherwise have been invalid in that state (in which case its validity is governed by the law of that state);
+- resident Community licence holders are made subject to the same standards of health and fitness and the same regime of medical checks as persons holding British licences;
+- resident Community licence holders who hold licences entitling them to drive large goods and passenger-carrying vehicles are made subject to the drivers' conduct regime of Part IV of the Road Traffic Act;
+- resident Community licence holders who hold licences entitling them to drive certain classes of goods and passenger-carrying vehicles are required to submit to the Secretary of State details of their driving entitlement and other information within a year of becoming resident; other resident Community licence holders may submit such details if they choose;
+- provision is made for the issue to those persons of counterpart licences upon which endorsements are made in respect of penalties imposed for certain road traffic offences, the endorsements providing evidence of previous convictions for the purposes of criminal proceedings in the courts and for the fixed penalty regime of Part III of the Road Traffic Offenders Act;
+- provision is made, by amendment of the Road Traffic Act and by modification of the Secretary of State’s regulation-making powers under that Act for—
+  - (i) the recategorisation of vehicles for licensing purposes, and
+  - (ii) changes in the minimum age limit for driving motor cycles;
+- the right to the issue of a British driving licence is restricted to persons normally resident in Great Britain or, in some cases, in the United Kingdom;
+- the benefit of certain statutory provisions, such as the right to be licensed to drive a taxi or a private hire vehicle or to drive small buses for charitable and similar purposes is extended to holders of Community licences who are authorised to drive motor cars.
+
+## Annotations
+
+[^f00001]: Footnote: [S.I. 1981/1536](https://www.legislation.gov.uk/uksi/1981/1536).
+
+[^f00002]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68); by virtue of section 1 of the European Economic Area Act [1993 (c. 51)](https://www.legislation.gov.uk/ukpga/1993/51) section 1(2) of this Act is amended to enable regulations to be made under section 2(2) to implement obligations of the United Kingdom arising under the Agreement on the European Economic Area signed at Oporto on 2nd May 1992 (Cm 2073) and the Protocol adjusting the Agreement signed at Brussels on 17th March 1994 (Cm 2183).
+
+[^key-bb8b1eae6985e8c4b797caba6da50593]: Commencement: Reg. 1 in force at 1.1.1997, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/b)
+
+[^f00003]: Footnote: OJ No L237, 24.8.91, p.1.
+
+[^key-420d91c336d0074d8970e2e286a50552]: Commencement: Reg. 2 in force at 23.7.1996 for specified purposes, see [reg. 1(2)(a)(iii)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/a/iii)
+
+[^key-5242ba860ea26a009a5046d9b6c164fb]: Commencement: Reg. 2 in force at 1.1.1997 in so far as not already in force, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/b)
+
+[^f00004]: Footnote: [1988 c. 52](https://www.legislation.gov.uk/ukpga/1988/52). Relevant amendments are referred to where appropriate below. Amending statutes and instruments are referred to in the footnotes to these Regulations in the following manner: “the 1989 Act” means the Road Traffic (Driver Licensing and Information Systems) Act [1989 (c. 22)](https://www.legislation.gov.uk/ukpga/1989/22); “the 1990 Regulations” means the Driving Licences (Community Driving Licence) Regulations 1990 ([S.I. 1990/144](https://www.legislation.gov.uk/uksi/1990/144)); “the 1991 Act” means the Road Traffic Act [1991 (c. 40)](https://www.legislation.gov.uk/ukpga/1991/40).
+
+[^key-e7edbf662ec2c467c88bc1659abe80d3]: Commencement: Reg. 3 in force at 1.1.1997, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/b)
+
+[^f00005]: Footnote: [1988 c. 53](https://www.legislation.gov.uk/ukpga/1988/53). Relevant amendments are referred to where appropriate below.
+
+[^key-29cbe200b97d3caab9521ccb2e7e70d3]: Commencement: Reg. 4 in force at 23.7.1996 for specified purposes, see [reg. 1(2)(a)(iii)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/a/iii)
+
+[^key-6b9145e74dde9a9559628fff60667802]: Commencement: Reg. 4 in force at 1.1.1997 in so far as not already in force, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/b)
+
+[^f00006]: Footnote: [1985 c. 67](https://www.legislation.gov.uk/ukpga/1985/67). Relevant amendments are referred to where appropriate below.
+
+[^key-84880f337778616229c0b0a6f30a1ffa]: Commencement: Reg. 5 in force at 1.1.1997, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/b)
+
+[^key-97f66d93e9d50f7b22a4cee33f847d58]: Commencement: Reg. 6 in force at 1.1.1997, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/b)
+
+[^f00007]: Footnote: [S.I. 1975/1208](https://www.legislation.gov.uk/uksi/1975/1208). Relevant amendments are referred to where appropriate below.
+
+[^key-72497bf57003d7e79ed5abd5f47469a4]: Commencement: Sch. 1 para. 1 in force at 23.7.1996 for specified purposes, see [reg. 1(2)(a)(iii)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/a/iii)
+
+[^key-f9a51710aea608fc9ecd149bdf0ac1d0]: Commencement: Sch. 1 para. 1 in force at 1.1.1997 in so far as not already in force, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/b)
+
+[^f00008]: Footnote: Substituted by section 3(2) of the 1989 Act.
+
+[^f00009]: Footnote: Inserted by section 3(3) of the 1989 Act.
+
+[^key-5b36bba904d3129c832f1dc3b4103705]: Commencement: Sch. 1 para. 2(1)-(4)(7)(9)(10) in force at 23.7.1996 for specified purposes, see [reg. 1(2)(a)(iii)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/a/iii)
+
+[^key-f13207e3bed7ab9b0751e0f51bd4a3e7]: Commencement: Sch. 1 para. 2(1)-(4)(7)(9)(10) in force at 1.1.1997 in so far as not already in force, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/b)
+
+[^key-6c89141927a704596677c7620bb1f51d]: Commencement: Sch. 1 para. 2(5)(6)(8) in force at 23.7.1996, see [reg. 1(2)(a)(i)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/a/i)
+
+[^f00010]: Footnote: Paragraphs (a) to (f) were inserted by section 4(1) of the 1989 Act.
+
+[^f00011]: Footnote: Substituted by section 4(3) of the 1989 Act.
+
+[^f00012]: Footnote: Amended by paragraph 8 of Schedule 3 to the 1989 Act.
+
+[^f00013]: Footnote: Amended by paragraph 8 of Schedule 3 to the 1989 Act.
+
+[^f00014]: Footnote: Subsections (9), (10) and (11) were substituted by paragraph 8 of Schedule 3 to the 1989 Act.
+
+[^key-88acf6e4e016b9962187af3782ec1d00]: Commencement: Sch. 1 para. 3(1)(3)(4)(5) in force at 23.7.1996 for specified purposes, see [reg. 1(2)(a)(iii)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/a/iii)
+
+[^key-ef3adcf25e8b392331c4cc6961e87255]: Commencement: Sch. 1 para. 3(1)(3)(4)(5) in force at 1.1.1997 in so far as not already in force, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/b)
+
+[^key-98bf9897c3ee26b98799b17f4e8faa7e]: Commencement: Sch. 1 para. 3(2) in force at 23.7.1996, see [reg. 1(2)(a)(i)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/a/i)
+
+[^key-02272fb6de28c0ce8304dffbc3ae0bef]: Textual amendment: [Sch. 1 para. 3(4)](https://www.legislation.gov.uk/uksi/1996/1974/schedule/1/paragraph/3/4) revoked (1.7.1998) by [The Driving Licences (Community Driving Licence) Regulations 1998 (S.I. 1998/1420)](https://www.legislation.gov.uk/uksi/1998/1420), [reg. 1(2)](https://www.legislation.gov.uk/uksi/1998/1420/regulation/1/2), [Sch.](https://www.legislation.gov.uk/uksi/1998/1420/schedule)
+
+[^f00016]: Footnote: Subsections (7A) to (7C) were inserted by section 5(4) of the 1989 Act.
+
+[^key-5165a0b7010dbeb875106ad05146592e]: Commencement: Sch. 1 para. 4 in force at 23.7.1996 for specified purposes, see [reg. 1(2)(a)(iii)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/a/iii)
+
+[^key-71fdd75af9d73905d9885ad37cfc9321]: Commencement: Sch. 1 para. 4 in force at 1.1.1997 in so far as not already in force, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/b)
+
+[^key-45d2837332c89dc0493331d13da4949d]: Commencement: Sch. 1 para. 5 in force at 23.7.1996 for specified purposes, see [reg. 1(2)(a)(iii)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/a/iii)
+
+[^key-b4ee889888601e2d3ae7bdd9d0a7f775]: Commencement: Sch. 1 para. 5 in force at 1.1.1997 in so far as not already in force, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/b)
+
+[^f00017]: Footnote: Inserted by section 18(3) of the 1991 Act.
+
+[^key-0865b2e5dcecb6fb4ce7c914f428e83b]: Commencement: Sch. 1 para. 6 in force at 23.7.1996 for specified purposes, see [reg. 1(2)(a)(iii)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/a/iii)
+
+[^key-4faba7d56fce4426fd48daebba2bc691]: Commencement: Sch. 1 para. 6 in force at 1.1.1997, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/b)
+
+[^f00018]: Footnote: The relevant amendments are made by paragraph 9 of Schedule 3 to the 1989 Act and by the 1990 Regulations.
+
+[^f00019]: Footnote: The relevant amendment is made by paragraph 10 of Schedule 3 to the 1989 Act.
+
+[^f00020]: Footnote: Inserted by section 6(2)(c) of the 1989 Act.
+
+[^key-ee3581366931070be65932d13ade63e5]: Commencement: Sch. 1 para. 7 in force at 23.7.1996 for specified purposes, see [reg. 1(2)(a)(iii)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/a/iii)
+
+[^key-ab5d6c51feea7f35c57d9bbc2247977a]: Commencement: Sch. 1 para. 7 in force at 1.1.1997 in so far as not already in force, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/b)
+
+[^key-d9741f40dfdce6721debc0a3d73191f5]: Textual amendment: [Sch. 1 para. 7(2)](https://www.legislation.gov.uk/uksi/1996/1974/schedule/1/paragraph/7/2) revoked (1.7.1998) by [The Driving Licences (Community Driving Licence) Regulations 1998 (S.I. 1998/1420)](https://www.legislation.gov.uk/uksi/1998/1420), [reg. 1(2)](https://www.legislation.gov.uk/uksi/1998/1420/regulation/1/2), [Sch.](https://www.legislation.gov.uk/uksi/1998/1420/schedule)
+
+[^f00022]: Footnote: Amended by paragraph 11 of Schedule 3 to the 1989 Act.
+
+[^key-658cad518dedc799af086e76e50463e5]: Commencement: Sch. 1 para. 8 in force at 23.7.1996 for specified purposes, see [reg. 1(2)(a)(iii)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/a/iii)
+
+[^key-388633c5058c9d11669cb8de515e3d4e]: Commencement: Sch. 1 para. 8 in force at 1.1.1997 in so far as not already in force, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/b)
+
+[^key-c87a739415201b514a0200cd7c1ece80]: Commencement: Sch. 1 para. 9 in force at 23.7.1996 for specified purposes, see [reg. 1(2)(a)(iii)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/a/iii)
+
+[^key-2d86abcf2717ff5ff3e0c6ed667eb51e]: Commencement: Sch. 1 para. 9 in force at 1.1.1997 in so far as not already in force, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/b)
+
+[^key-778d6a22dee89cd9be3ccd0f93e1ce60]: Commencement: Sch. 1 para. 10 in force at 23.7.1996 for specified purposes, see [reg. 1(2)(a)(iii)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/a/iii)
+
+[^key-acdc4e616f0cc6b12687ea6aefbffff8]: Commencement: Sch. 1 para. 10 in force at 1.1.1997 in so far as not already in force, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/b)
+
+[^key-500b7b7909348e9317d36837fe7ef5fa]: Commencement: Sch. 1 para. 11 in force at 23.7.1996 for specified purposes, see [reg. 1(2)(a)(iii)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/a/iii)
+
+[^key-246e72f52ecb6351b4286a771134d2e6]: Commencement: Sch. 1 para. 11 in force at 1.1.1997 in so far as not already in force, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/b)
+
+[^key-490c9bac8e18c6c41e987e3bc210e41b]: Commencement: Sch. 1 para. 12 in force at 23.7.1996 for specified purposes, see [reg. 1(2)(a)(iii)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/a/iii)
+
+[^key-36a47d4879e97631e9fc96c6dd9f5ac6]: Commencement: Sch. 1 para. 12 in force at 1.1.1997 in so far as not already in force, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/b)
+
+[^f00023]: Footnote: Subsection (3A) was inserted by section 18(2) of the 1991 Act; subsections (4) and (5)(c) were amended by section 5(7) and (8) of the 1989 Act.
+
+[^key-741ad09b5b15b6fdac7c9cb66713561f]: Commencement: Sch. 1 para. 13 in force at 23.7.1996 for specified purposes, see [reg. 1(2)(a)(iii)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/a/iii)
+
+[^key-9bab6404918cda07fdca477cef83c121]: Commencement: Sch. 1 para. 13 in force at 1.1.1997 in so far as not already in force, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/b)
+
+[^key-d1f0dd7bf9a0ad00b6d0a9c183594f7c]: Commencement: Sch. 1 para. 14 in force at 23.7.1996 for specified purposes, see [reg. 1(2)(a)(iii)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/a/iii)
+
+[^key-3841bfa71b071780230fbde41081de2e]: Commencement: Sch. 1 para. 14 in force at 1.1.1997 in so far as not already in force, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/b)
+
+[^key-cf65abc5feda5686730174c20247ed58]: Commencement: Sch. 1 para. 15 in force at 23.7.1996 for specified purposes, see [reg. 1(2)(a)(iii)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/a/iii)
+
+[^key-73063fe9e75bcf1bf16e612ac223dd46]: Commencement: Sch. 1 para. 15 in force at 1.1.1997 in so far as not already in force, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/b)
+
+[^key-7243936ee05cd43834a0d7289a7f2163]: Commencement: Sch. 1 para. 16 in force at 23.7.1996 for specified purposes, see [reg. 1(2)(a)(iii)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/a/iii)
+
+[^key-7ac80b83690310676ae6ef93a29a4c24]: Commencement: Sch. 1 para. 16 in force at 1.1.1997 in so far as not already in force, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/b)
+
+[^key-3b517b05b0d1d9e22f7efe4554c56325]: Commencement: Sch. 1 para. 17 in force at 23.7.1996, see [reg. 1(2)(a)(i)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/a/i)
+
+[^f00024]: Footnote: Amended by paragraph 14 of Schedule 3 to the 1989 Act and by the 1990 Regulations.
+
+[^key-850ee232df10981e251d62e0afa74216]: Textual amendment: [Sch. 1 para. 17(b)](https://www.legislation.gov.uk/uksi/1996/1974/schedule/1/paragraph/17/b) revoked (8.6.2015) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [s. 61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1)[(10)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/10), [Sch. 7 para. 4](https://www.legislation.gov.uk/ukpga/2006/49/schedule/7); [S.I. 2015/560](https://www.legislation.gov.uk/uksi/2015/560), [arts. 2](https://www.legislation.gov.uk/uksi/2015/560/article/2), [3(b)](https://www.legislation.gov.uk/uksi/2015/560/article/3/b)
+
+[^key-3f9ee19dac3a01d5ce667b5af78e7960]: Commencement: Sch. 1 para. 18 in force at 23.7.1996 for specified purposes, see [reg. 1(2)(a)(iii)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/a/iii)
+
+[^key-1d8dc2c836ef3ce48f4a33e4b81ed322]: Commencement: Sch. 1 para. 18 in force at 1.1.1997 in so far as not already in force, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/b)
+
+[^key-066df0d50c0a31ff02d32f8cb4285b95]: Commencement: Sch. 1 para. 19 in force at 23.7.1996 for specified purposes, see [reg. 1(2)(a)(iii)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/a/iii)
+
+[^key-eaa6d341f48f565ad71a9fe6cb49ea1b]: Commencement: Sch. 1 para. 19 in force at 1.1.1997 in so far as not already in force, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/b)
+
+[^f00025]: Footnote: The definition of “licence” was amended by the 1990 Regulations and the definition of “full licence” was inserted by paragraph 15 of Schedule 3 to the 1989 Act.
+
+[^key-6345e1f2828f77ce2260172f6a6e609a]: Textual amendment: [Sch. 1 para. 19(2)(c)](https://www.legislation.gov.uk/uksi/1996/1974/schedule/1/paragraph/19/2/c) revoked (8.6.2015) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [s. 61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1)[(10)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/10), [Sch. 7 para. 4](https://www.legislation.gov.uk/ukpga/2006/49/schedule/7); [S.I. 2015/560](https://www.legislation.gov.uk/uksi/2015/560), [arts. 2](https://www.legislation.gov.uk/uksi/2015/560/article/2), [3(b)](https://www.legislation.gov.uk/uksi/2015/560/article/3/b)
+
+[^key-85961e0889159343ec166f36915264e2]: Commencement: Sch. 1 para. 20 in force at 23.7.1996 for specified purposes, see [reg. 1(2)(a)(iii)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/a/iii)
+
+[^key-fec9777f6b20bd0316aae5f59cfab903]: Commencement: Sch. 1 para. 20 in force at 1.1.1997 in so far as not already in force, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/b)
+
+[^f00026]: Footnote: Sections 110 to 121 were substituted by Schedule 2 to the 1989 Act.
+
+[^key-9fd868da8306e1212ff60afa97fac17e]: Commencement: Sch. 1 para. 21 in force at 23.7.1996 for specified purposes, see [reg. 1(2)(a)(iii)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/a/iii)
+
+[^key-bf6cbcb8ae88c708e98feaf4813ffe90]: Commencement: Sch. 1 para. 21 in force at 1.1.1997 in so far as not already in force, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/b)
+
+[^key-6cb75af239dc7bdec3903812dc41572f]: Commencement: Sch. 1 para. 22 in force at 23.7.1996 for specified purposes, see [reg. 1(2)(a)(iii)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/a/iii)
+
+[^key-584aede8963299bc8fe8fa5d7bd2ac16]: Commencement: Sch. 1 para. 22 in force at 1.1.1997 in so far as not already in force, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/b)
+
+[^key-6196d6c0258436c370a12a4e719ab0d2]: Commencement: Sch. 1 para. 23 in force at 23.7.1996 for specified purposes, see [reg. 1(2)(a)(iii)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/a/iii)
+
+[^key-f8752c86ba886c2e0c50ffa39b195536]: Commencement: Sch. 1 para. 23 in force at 1.1.1997 in so far as not already in force, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/b)
+
+[^f00027]: Footnote: Amended by paragraph 64 of Schedule 4 to the 1991 Act.
+
+[^key-93bb5829f608c657e41b4f33de50b079]: Commencement: Sch. 1 para. 24 in force at 23.7.1996 for specified purposes, see [reg. 1(2)(a)(iii)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/a/iii)
+
+[^key-046ca525c0f4a3328deb78fe21c95cda]: Commencement: Sch. 1 para. 24 in force at 1.1.1997 in so far as not already in force, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/b)
+
+[^key-c6a4adaf61bf47a0865abd84e03e9641]: Commencement: Sch. 1 para. 25 in force at 23.7.1996 for specified purposes, see [reg. 1(2)(a)(iii)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/a/iii)
+
+[^key-1ffe4ad94680b06aae080ec42303ec48]: Commencement: Sch. 1 para. 25 in force at 1.1.1997 in so far as not already in force, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/b)
+
+[^key-7158c14155e90cbe7e6e5cd292aec692]: Commencement: Sch. 1 para. 26 in force at 23.7.1996 for specified purposes, see [reg. 1(2)(a)(iii)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/a/iii)
+
+[^key-e68fd7bc4a31ceae5c2f0ca591314151]: Commencement: Sch. 1 para. 26 in force at 1.1.1997 in so far as not already in force, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/b)
+
+[^key-2dc1b1ad77390e8952a492337a7d22c3]: Commencement: Sch. 1 para. 27 in force at 23.7.1996 for specified purposes, see [reg. 1(2)(a)(iii)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/a/iii)
+
+[^key-330bedf2464160dbbe47b32de4c4a782]: Commencement: Sch. 1 para. 27 in force at 1.1.1997 in so far as not already in force, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/b)
+
+[^key-6d6995c5b44f7cd4b08428fc07d3745b]: Commencement: Sch. 1 para. 28 in force at 23.7.1996 for specified purposes, see [reg. 1(2)(a)(iii)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/a/iii)
+
+[^key-d72b409e570371a49810248ef3a7b461]: Commencement: Sch. 1 para. 28 in force at 1.1.1997 in so far as not already in force, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/b)
+
+[^key-4616d89903850cc24096b80b5361e9e4]: Textual amendment: [Sch. 1 para. 28(2)(b)](https://www.legislation.gov.uk/uksi/1996/1974/schedule/1/paragraph/28/2/b) revoked (8.6.2015) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [s. 61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1)[(10)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/10), [Sch. 7 para. 4](https://www.legislation.gov.uk/ukpga/2006/49/schedule/7); [S.I. 2015/560](https://www.legislation.gov.uk/uksi/2015/560), [arts. 2](https://www.legislation.gov.uk/uksi/2015/560/article/2), [3(b)](https://www.legislation.gov.uk/uksi/2015/560/article/3/b)
+
+[^key-0b771a755673119f51c06b5f06552899]: Commencement: Sch. 1 para. 29 in force at 23.7.1996 for specified purposes, see [reg. 1(2)(a)(iii)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/a/iii)
+
+[^key-21a89af92c12e5f32820ffa1cd50e04b]: Commencement: Sch. 1 para. 29 in force at 1.1.1997 in so far as not already in force, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/b)
+
+[^key-26208c1bd76bc4cc28c1e310c86a3db7]: Commencement: Sch. 1 para. 30 in force at 23.7.1996 for specified purposes, see [reg. 1(2)(a)(iii)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/a/iii)
+
+[^key-f643ec1fcef197c33d63a08c946c1085]: Commencement: Sch. 1 para. 30 in force at 1.1.1997 in so far as not already in force, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/b)
+
+[^f00028]: Footnote: Amended by paragraph 18 of Schedule 3 to the 1989 Act, by the 1990 Regulations and by paragraph 68 of Schedule 4 to the 1991 Act.
+
+[^key-3aa2e0e1deedd0109c98a5b0ed708237]: Textual amendment: [Sch. 1 para. 31](https://www.legislation.gov.uk/uksi/1996/1974/schedule/1/paragraph/31) revoked (8.6.2015) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [s. 61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1)[(10)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/10), [Sch. 7 para. 4](https://www.legislation.gov.uk/ukpga/2006/49/schedule/7); [S.I. 2015/560](https://www.legislation.gov.uk/uksi/2015/560), [arts. 2](https://www.legislation.gov.uk/uksi/2015/560/article/2), [3(b)](https://www.legislation.gov.uk/uksi/2015/560/article/3/b)
+
+[^key-ddeab1320ca5cd7ff405ae0ed56dda95]: Textual amendment: [Sch. 1 para. 32](https://www.legislation.gov.uk/uksi/1996/1974/schedule/1/paragraph/32) revoked (8.6.2015) by [The Road Safety Act 2006 (Consequential Amendments) Order 2015 (S.I. 2015/583)](https://www.legislation.gov.uk/uksi/2015/583), [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/583/article/1/1), [Sch. 1 Table 2](https://www.legislation.gov.uk/uksi/2015/583/schedule/1)
+
+[^key-0bb4666ecfd819c3d558248d2ff3a82f]: Textual amendment: [Sch. 1 para. 33](https://www.legislation.gov.uk/uksi/1996/1974/schedule/1/paragraph/33) revoked (8.6.2015) by [The Road Safety Act 2006 (Consequential Amendments) Order 2015 (S.I. 2015/583)](https://www.legislation.gov.uk/uksi/2015/583), [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/583/article/1/1), [Sch. 1 Table 2](https://www.legislation.gov.uk/uksi/2015/583/schedule/1)
+
+[^key-0ff6acdae63336191047e9bf58831de5]: Commencement: Sch. 1 para. 34 in force at 23.7.1996 for specified purposes, see [reg. 1(2)(a)(iii)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/a/iii)
+
+[^key-4713743710b6d882c7b5cb4886293ed7]: Commencement: Sch. 1 para. 34 in force at 1.1.1997 in so far as not already in force, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/b)
+
+[^key-a5d01031389d0b82cb15ed545e46bb71]: Commencement: Sch. 1 para. 35 in force at 23.7.1996, see [reg. 1(2)(a)(i)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/a/i)
+
+[^f00032]: Footnote: Inserted by section 46(2) of the 1991 Act.
+
+[^key-046e4beefbcd7678ba4f37f94fad1639]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/1996/1974/schedule/2/paragraph/1) in force at 1.1.1997, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/b)
+
+[^key-61264c59d8f8b366cc54744c58139df8]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/1996/1974/schedule/2/paragraph/2) in force at 1.1.1997, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/b)
+
+[^f00033]: Footnote: Substituted by section 25 of the 1991 Act.
+
+[^key-e23fdf2cf1beb8c84ba56899f05c30ef]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/1996/1974/schedule/2/paragraph/3) in force at 1.1.1997, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/b)
+
+[^f00034]: Footnote: Substituted by section 32 of the 1991 Act.
+
+[^key-0de4f41fa058ab5c44c4e758a3c498de]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/1996/1974/schedule/2/paragraph/4) in force at 1.1.1997, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/b)
+
+[^key-9943df07591ac4d62794a53237532c02]: Textual amendment: [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/1996/1974/schedule/2/paragraph/5) revoked (8.6.2015) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [s. 61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1)[(10)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/10), [Sch. 7 para. 4](https://www.legislation.gov.uk/ukpga/2006/49/schedule/7); [S.I. 2015/560](https://www.legislation.gov.uk/uksi/2015/560), [arts. 2](https://www.legislation.gov.uk/uksi/2015/560/article/2), [3(b)](https://www.legislation.gov.uk/uksi/2015/560/article/3/b)
+
+[^key-1ecf7731fde27273b7593cee1735229e]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/1996/1974/schedule/2/paragraph/6) in force at 1.1.1997, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/b)
+
+[^f00035]: Footnote: The definition of “licence” was amended by the 1990 Regulations.
+
+[^key-0df9d57e4516703a46059e473f29a337]: Textual amendment: [Sch. 2 para. 6(a)](https://www.legislation.gov.uk/uksi/1996/1974/schedule/2/paragraph/6/a) revoked (8.6.2015) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [s. 61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1)[(10)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/10), [Sch. 7 para. 4](https://www.legislation.gov.uk/ukpga/2006/49/schedule/7); [S.I. 2015/560](https://www.legislation.gov.uk/uksi/2015/560), [arts. 2](https://www.legislation.gov.uk/uksi/2015/560/article/2), [3(b)](https://www.legislation.gov.uk/uksi/2015/560/article/3/b)
+
+[^key-b0a7b115ee8e92e448478fe90d731640]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/uksi/1996/1974/schedule/2/paragraph/7) in force at 1.1.1997, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/b)
+
+[^f00036]: Footnote: The relevant amendments are made by paragraph 27 of Schedule 3 to the 1989 Act and paragraphs 14 and 15 of Schedule 1 to the 1991 Act.
+
+[^key-1dca27b287e4d627e6c579642edbf813]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/1996/1974/schedule/2/paragraph/8) in force at 1.1.1997, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/b)
+
+[^f00037]: Footnote: The relevant amendments were made by paragraphs 28 and 29 of Schedule 3 to the 1989 Act, by the 1990 Regulations and by paragraphs 22 and 23 of Schedule 2 and Schedule 8 to the 1991 Act.
+
+[^key-d04ab3e1506799682e7b154c09275db2]: Commencement: Sch. 3 para. 1 in force at 23.7.1996 for specified purposes, see [reg. 1(2)(a)(iii)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/a/iii)
+
+[^key-201ab8beea64ddbe2d14061a8624a1cf]: Commencement: Sch. 3 para. 1 in force at 1.1.1997 in so far as not already in force, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/b)
+
+[^f00038]: Footnote: Amended by paragraph 4 of Schedule 3 to the 1989 Act.
+
+[^key-bab28e7f5dcedf4b0f59fc995dfd19d8]: Commencement: Sch. 3 para. 2 in force at 23.7.1996, see [reg. 1(2)(a)(ii)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/a/ii)
+
+[^f00039]: Footnote: Amended by paragraph 5 of Schedule 3 to the 1989 Act.
+
+[^key-27af18ed60d2259658f78ae95ce55418]: Textual amendment: [Sch. 4 para. 1](https://www.legislation.gov.uk/uksi/1996/1974/schedule/4/paragraph/1) revoked (25.8.2000) by [Powers of Criminal Courts (Sentencing) Act 2000 (c. 6)](https://www.legislation.gov.uk/ukpga/2000/6), [s. 168(1)](https://www.legislation.gov.uk/ukpga/2000/6/section/168/1), [Sch. 12 Pt. 2](https://www.legislation.gov.uk/ukpga/2000/6/schedule/12/part/II) (with [Sch. 11 Pt. 1](https://www.legislation.gov.uk/ukpga/2000/6/schedule/11/part/I))
+
+[^key-80fb9cc4406e72d2802c01a939b6cef2]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/uksi/1996/1974/schedule/4/paragraph/2) in force at 1.1.1997, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/b)
+
+[^f00042]: Footnote: [1976 c. 57](https://www.legislation.gov.uk/ukpga/1976/57).
+
+[^f00043]: Footnote: Sections 51 and 59 were amended by paragraph 16(3) and (4) of Schedule 3 to the Road Traffic (Consequential Provisions) Act [1988 (c. 54)](https://www.legislation.gov.uk/ukpga/1988/54) and section 47(1) of the 1991 Act.
+
+[^key-3d0d81ade19f48d218a3614cf606e84e]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/uksi/1996/1974/schedule/4/paragraph/3) in force at 1.1.1997, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/b)
+
+[^f00044]: Footnote: [1976 c. 76](https://www.legislation.gov.uk/ukpga/1976/76).
+
+[^f00045]: Footnote: Substituted by paragraph 1 of Schedule 3 to the 1989 Act.
+
+[^key-3a10ca0f989d0ee47b2f07818b194309]: Textual amendment: [Sch. 4 para. 4](https://www.legislation.gov.uk/uksi/1996/1974/schedule/4/paragraph/4) revoked (8.6.2015) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [s. 61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1)[(10)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/10), [Sch. 7 para. 4](https://www.legislation.gov.uk/ukpga/2006/49/schedule/7); [S.I. 2015/560](https://www.legislation.gov.uk/uksi/2015/560), [arts. 2](https://www.legislation.gov.uk/uksi/2015/560/article/2), [3(b)](https://www.legislation.gov.uk/uksi/2015/560/article/3/b)
+
+[^key-8ee0c1a383508c966ca96271981b3279]: Commencement: [Sch. 4 para. 5](https://www.legislation.gov.uk/uksi/1996/1974/schedule/4/paragraph/5) in force at 1.1.1997, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/b)
+
+[^f00048]: Footnote: [1995 c. 13](https://www.legislation.gov.uk/ukpga/1995/13).
+
+[^key-978f70e3a569ff4f2f787b47eec526cc]: Commencement: [Sch. 4 para. 6](https://www.legislation.gov.uk/uksi/1996/1974/schedule/4/paragraph/6) in force at 1.1.1997, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/b)
+
+[^f00049]: Footnote: [1995 c. 46](https://www.legislation.gov.uk/ukpga/1995/46).
+
+[^key-bbf56ae93614fbedf7693033ea5f38e9]: Commencement: [Sch. 5 para. 1](https://www.legislation.gov.uk/uksi/1996/1974/schedule/5/paragraph/1) in force at 1.1.1997, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/b)
+
+[^f00050]: Footnote: Article 2 was substituted by Article 4 of [S.I. 1989/993](https://www.legislation.gov.uk/uksi/1989/993) and further amended by [S.I. 1991/771](https://www.legislation.gov.uk/uksi/1991/771) and [1996/1929](https://www.legislation.gov.uk/uksi/1996/1929).

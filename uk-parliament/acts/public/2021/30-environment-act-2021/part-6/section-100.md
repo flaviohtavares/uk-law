@@ -1,0 +1,80 @@
+---
+title: Environment Act 2021, section 100
+act: Environment Act 2021
+section: '100'
+status: revised
+text_date: '2026-05-07'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/2021/30/section/100
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Environment Act 2021, section 100
+
+> Text as at 2026-05-07.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 100. Biodiversity gain site register[^key-b7e2ff67d244bfa194eb67bc915cb3e3][^key-35d55983c0848b7ef94632d8cb70df54][^key-a3ed8504d2ea7da04f1a21b3e261546a]
+
+*Extent: E+W*
+
+(1) The Secretary of State may by regulations make provision for and in relation to a register of biodiversity gain sites (“**the biodiversity gain site register**”).
+
+(2) A biodiversity gain site is land where—
+
+- (a) a person is required under a conservation covenant or planning obligation to carry out works for the purpose of habitat enhancement,
+- (b) that or another person is required to maintain the enhancement for at least 30 years after the completion of those works, and
+- (c) for the purposes of Schedule 7A to the Town and Country Planning Act 1990 the enhancement is made available to be allocated (conditionally or unconditionally, and whether for consideration or otherwise) in accordance with the terms of the covenant or obligation to one or more developments for which planning permission is granted.
+
+(3) Regulations under this section must provide for the information in the register to be accessible to members of the public.
+
+(4) Regulations under this section may in particular make provision about—
+
+- (a) the person who is to establish and maintain the biodiversity gain site register (who may be the Secretary of State, Natural England or another person);
+- (b) circumstances in which land is or is not eligible to be registered;
+- (c) applications to register land in the register;
+- (d) the information to be recorded in relation to any land that is registered;
+- (e) amendments to the register;
+- (f) removal of land from the register;
+- (g) fees payable in respect of any application under the regulations.
+
+(5) Provision under subsection (4)(c) may in particular include provision about—
+
+- (a) who is entitled to apply to register land in the biodiversity gain site register;
+- (b) the procedure to be followed in making an application;
+- (c) the information to be provided in respect of an application;
+- (d) how an application is to be determined;
+- (e) appeals against the rejection of an application;
+- (f) financial penalties for the supply of false or misleading information in connection with an application.
+
+(6) Provision under subsection (4)(d) may in particular require the recording of the following in relation to any land registered in the biodiversity gain site register—
+
+- (a) the location and area of the land;
+- (b) the works to be carried out on the land and the habitat enhancement to be achieved by them;
+- (c) information about the habitat of the land before the commencement of those works;
+- (d) the person who applied to register the land and (if different) the person by whom the requirement to carry out the works or maintain the habitat enhancement is enforceable;
+- (e) any development to which any of the habitat enhancement has been allocated;
+- (f) the biodiversity value (for the purposes of Schedule 7A to the Town and Country Planning Act 1990 or Schedule 2A to the Planning Act 2008) of any such habitat enhancement in relation to any such development.
+
+(7) Regulations under this section may amend subsection (2)(b) so as to substitute for the period for the time being specified there a different period of at least 30 years.
+
+(8) Regulations under this section making provision under subsection (4)(g) or (5)(f) are subject to the affirmative procedure.
+
+(9) Other regulations under this section are subject to the negative procedure.
+
+(10) The Secretary of State must keep under review—
+
+- (a) the supply of land for registration in the biodiversity gain site register;
+- (b) whether the period specified in subsection (2)(b) or in paragraph 9(3) of Schedule 7A to the Town and Country Planning Act 1990 can be increased under subsection (7) or paragraph 9(4) of that Schedule without adversely affecting that supply.
+
+(11) In this section “**development**”, “**habitat enhancement**”, “**planning obligation**” and “**planning permission**” have the same meanings as in Schedule 7A to the Town and Country Planning Act 1990.
+
+## Annotations
+
+[^key-b7e2ff67d244bfa194eb67bc915cb3e3]: Commencement: S. 100 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
+
+[^key-35d55983c0848b7ef94632d8cb70df54]: Commencement: [S. 100](https://www.legislation.gov.uk/ukpga/2021/30/section/100) in force at 3.11.2023 for specified purposes by [S.I. 2023/1170](https://www.legislation.gov.uk/uksi/2023/1170), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2023/1170/regulation/2/c)
+
+[^key-a3ed8504d2ea7da04f1a21b3e261546a]: Commencement: [S. 100](https://www.legislation.gov.uk/ukpga/2021/30/section/100) in force at 12.2.2024 in so far as not already in force by [S.I. 2024/44](https://www.legislation.gov.uk/uksi/2024/44), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2024/44/regulation/2/1/b) (with [reg. 4](https://www.legislation.gov.uk/uksi/2024/44/regulation/4))

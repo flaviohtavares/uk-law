@@ -1,0 +1,633 @@
+---
+title: The Climate Change Agreements (Eligible Facilities) Regulations 2012
+id: uksi/2012/2999
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised-with-pending-changes
+made_date: '2012-11-29'
+text_date: '2026-01-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2012/2999
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2012/2999/pdfs/uksiem_20122999_en.pdf
+- http://www.legislation.gov.uk/uksi/2012/2999/pdfs/uksi_20122999_en.pdf
+- http://www.legislation.gov.uk/uksi/2012/2999/data.pdf
+pending_changes: 16
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Climate Change Agreements (Eligible Facilities) Regulations 2012
+
+> **Warning: changes not yet applied to this text (16).** Text as at 2026-01-01. See https://www.legislation.gov.uk/changes/affected/uksi/2012/2999
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2012 No. 2999
+
+Climate Change Levy
+
+The Climate Change Agreements (Eligible Facilities) Regulations 2012
+
+Made
+
+29th November 2012
+
+Laid before House of Commons
+
+4th December 2012
+
+Coming into force
+
+1st January 2013
+
+The Secretary of State makes the following Regulations, in exercise of the powers conferred by paragraphs 50(3) to (5) and 146 of Schedule 6 to the Finance Act 2000[^f00001]:
+
+## 1. Citation, commencement and expiry[^key-4be8109c64bddb5dc010d6cdb08c7522]
+
+(1) These Regulations may be cited as the Climate Change Agreements (Eligible Facilities) Regulations 2012.
+
+(2) They come into force on 1st January 2013.
+
+(3) Regulations 3 to 8 cease to have effect at the end of 31st March 2033[^key-584ec3de672088b32a69008028e57727].
+
+## 2. Interpretation[^key-5053bea10f77eb7adc5b3d84a7d41f54]
+
+In these Regulations—
+
+- “the Act” means the Finance Act 2000;
+- “the administrator” means the Environment Agency;[^key-549bdfd2e95aff3907c2ebddea21f2da]
+- “the Waste Framework Directive” means Directive 2008/98/EC of the European Parliament and of the Council on waste[^key-8e662184e08c1025e5abfdf51d581a44] , as last amended by[^key-c17c4edcd5797a8d78db3efc4b11352a] Directive (EU) 2018/851[^key-6c21673cfebc006fe366a80269cbbe22];
+- “aircraft” includes gliders and missiles;
+- “[^key-60180a506048cd375f1cbc8427e0b864]**biomass**” includes biomass in solid, liquid or gaseous form;
+- “coating material” means paint, printing ink, varnish, lacquer, dye, any metal oxide coating, any adhesive coating, any elastomer coating, any metal or plastic coating and any other coating material;
+- “data facility” means a room, or rooms sharing the same electricity supply circuit, occupied mainly or exclusively by computer equipment which is enabled to transfer data electronically, and where in respect of the room or rooms—[^key-96f4912556f7fa9fe65fc484f718f5d8]
+  - (a) the temperature and humidity is regulated in connection with the operation of the computer equipment;
+  - (b) the electricity supply is at least 200kW; and
+  - (c) electricity is supplied by a back-up electricity supply when the mains supply is interrupted;
+- “eligible process” means a process or activity or a combination of processes or activities listed in the Schedule to these Regulations carried out at an installation or site;
+- “food” includes—
+  - (a) drink,
+  - (b) articles and substances of no nutritional value which are used for human consumption, and
+  - (c) articles and substances used as ingredients in the preparation of food;
+- “greenfield facility” means a facility which started to carry out the process by virtue of which it is a facility within the meaning of paragraph 50 of Schedule 6 to the Act during the 12 month period ending on the date the operator applies for the facility to be covered by an agreement;[^key-73a6299c62e0c9a6a03f69fe946c987a]
+- “hazardous waste” means waste which displays any of the characteristics listed in Annex III of the Waste Framework Directive;
+- “installation” means—
+  - (a) an installation falling within any one or more of the descriptions of installations set out in the Table to paragraph 51 of Schedule 6 to the Act; or
+  - (b) an installation covered by paragraph 51 of Schedule 6 to the Act by virtue of the Climate Change Agreements (Energy-intensive) Regulations 2006[^f00003] carrying out an eligible process;
+- “**non-renewable fuel**” means a relevant commodity other than biomass;
+- “reckonable energy” has the meaning given by regulation 4;
+- “recovery” has the same meaning as in the Waste Framework Directive and related terms are to be construed accordingly;
+- “relevant commodities” means—
+  - (a) taxable commodities;
+  - (b) hydrocarbon oil within the meaning of the Hydrocarbon Oil Duties Act 1979[^f00004];
+  - (c) any mixture of gases which originates from an oil refinery;
+  - (d) biomass;
+  - (e) non-renewable waste;
+- “**renewable fuel**” means biomass;
+- “semi-processing” means debarking and sawing an unprocessed log;[^key-473c5ff92c5c0662587e743dcb3eb9bf]
+- “unprocessed log” means a log from which the branches have been removed, but to which no other processing has been applied;
+- “waste” means anything that—
+  - (a) is waste within the meaning of Article 3(1) of the Waste Framework Directive; and
+  - (b) is not excluded from the scope of that Directive by Article 2(1), (2) or (3) of that Directive;
+- “waste incineration plant” means any stationary or mobile technical unit and equipment dedicated to the thermal treatment of waste, with or without recovery of the combustion heat generated, through the incineration by oxidation of waste as well as other thermal treatment processes, such as pyrolysis, gasification or plasma process, if the substances resulting from the treatment are subsequently incinerated;
+- “waste co-incineration plant” means any stationary or mobile technical unit whose main purpose is the generation of energy or production of material products and which uses waste as a regular or additional fuel or in which waste is thermally treated for the purpose of disposal through the incineration by oxidation of waste as well as other thermal treatment processes, such as pyrolysis, gasification or plasma process, if the substances resulting from the treatment are subsequently incinerated.
+
+## 3. Eligible Facilities[^key-27667dfd857414d9758e9541d1290bb0]
+
+(1) An installation or a site is to be taken to be a facility for the purposes mentioned in paragraph 50(1) of Schedule 6 to the Act only if—
+
+- (a) at least 70% of the reckonable energy supplied to the installation or to the site is intended to be used in the installation, installations or parts of installations on the site; and
+- (b) the taxable commodities supplied to the installation or to the site by taxable supplies in the following 12 month period are intended to be burned (or, in the case of electricity, consumed)—
+  - (i) in the installation, installations or part of installations on the site; or
+  - (ii) on the site where the installation, installations or parts of installations are situated.
+
+(2) Unless paragraph (3) or paragraph (4) applies,[^key-c3de7c0a5b135f6ecc569b52eea51f48] For the purposes of paragraph (1)(a), supply or use of reckonable energy during the previous 12 month period must be used to determine the intended supply or use of reckonable energy in the following 12 month period.
+
+(3)[^key-e2aa3649c1ebfb3ca3bc2d0f0551abd3] This paragraph applies until 31st May 2014 if an operator has insufficient data on the supply or use of reckonable energy during the previous 12 month period to determine the intended supply or use of reckonable energy in the following 12 month period in accordance with paragraph (2).
+
+(4) This paragraph applies in respect of a greenfield facility until the later of—
+
+- (a) 31st May 2014; or
+- (b) the day which is one year following the day on which the operator entered into an underlying agreement which covered the installation or site comprising the facility.
+
+(5) If paragraph (3) or paragraph (4) applies, for the purposes of paragraph (1)(a), the administrator must make a reasonable estimation of the intended supply or use of reckonable energy in the following 12 month period.
+
+## 4. Reckonable energy[^key-0cfa7c7ad684504ce75e7745e24380c3]
+
+Reckonable energy is—
+
+- (a) energy obtained from the burning or using of relevant commodities in the installations or parts of installations on the site;
+- (b) electrical energy supplied to the installation, installations or parts of installations on the site;
+- (c) energy in cooling supplies; or
+- (d) energy in supplies of steam.
+
+## 5. Calculation of reckonable energy from relevant commodities and electricity : general case[^key-f86d42b6e60e87d0ce5b4e31b3a91777][^key-d7877f0039701316850aeb58ca688171]
+
+(1) Reckonable energy from relevant commodities, other than electricity, must be calculated by reference to the gross calorific value of the commodity burned to produce it.
+
+(2) [^key-1ee4c821e0e7f5fe72d1dbfc9a760b19]... The quantity of electricity must be multiplied by a factor of 2.1[^key-723a5d6c9e97fdc6903a61215b20f2b1] to convert it into reckonable energy.
+
+(3)[^key-3cb75f035110d1b96ac1f2549721b6f7] This regulation does not apply where any of regulations 5A to 7B applies.
+
+## 5A. Calculation of reckonable energy from self-generated solar, wind or water power[^key-9acea05beff35e1a815f798bee711c38]
+
+(1) The quantity of self-generated electricity is treated as reckonable energy.
+
+(2) In paragraph (1) “**self-generated electricity**” means electricity which—
+
+- (a) is generated from—
+  - (i) the direct conversion of sunlight;
+  - (ii) wind; or
+  - (iii) water power; and
+- (b) is—
+  - (i) generated in plant which is located in, and is intended for supplying electricity for use by, a facility; or
+  - (ii) supplied to a facility without passing through a distribution system operated by an electricity utility[^f00007].
+
+## 6. Calculation of reckonable energy from dedicated electricity generation plant[^key-9c198ddb768c20c20dc636d005b76abf]
+
+(1) This regulation applies to electricity generated in plant which is located in, and intended for supplying electricity for use by, a facility unless regulation 5A, 7, 7A or 7B applies to the electricity.
+
+(2) Where the electricity is used on other parts of a site, the electricity generated must be attributed to the facility and the rest of the site on a pro rata basis.
+
+(3) Where the electricity is generated from the combustion of exclusively non-renewable fuel, reckonable energy must be calculated by reference to the gross calorific value of the commodity burned to produce the electricity.
+
+(4) Where the electricity is generated from the combustion of exclusively renewable fuel, the quantity of electricity must be multiplied by a factor of 2.1 to convert it into reckonable energy.
+
+(5) Where the electricity is generated from the combustion of both renewable fuel and non-renewable fuel, reckonable energy must be calculated—
+
+- (a) in accordance with paragraph (3), in respect of the proportion of the electricity equal to the proportion of relevant commodities burned to generate the electricity which are non-renewable fuel, calculated by reference to the gross calorific value of each commodity; and
+- (b) in accordance with paragraph (4), in respect of the proportion of the electricity equal to the proportion of relevant commodities burned to generate the electricity which are renewable fuel, calculated by reference to the gross calorific value of each commodity.
+
+## 7. Calculation of reckonable energy from combined heat and power stations : non-renewable fuel[^key-5900aed463a7cc28ad99e58ddf3a472c][^key-fa8ae8086c1c258e639e81c83d1160fe]
+
+(1) Reckonable energy from a combined heat and power station which exclusively burns non-renewable fuel[^key-7b05a7fba0e3aea29db19ce6b4cf1e57] must be calculated by reference to the gross calorific value of the commodity burned to produce it.
+
+(2) Where part of the energy from a combined heat and power station is used in a place, the formulae set out in paragraphs (3) to (5) must apply for calculating the reckonable energy from the station in relation to that place.
+
+(3) The following formula applies in respect of electricity from the combined heat and power station which is used in that place—
+
+[formula: see source](https://www.legislation.gov.uk/uksi/2012/2999)
+
+where—
+
+- RE is the reckonable energy in respect of electricity from the combined heat and power station which is used in that place;
+- EC is the total energy content of the relevant commodities burned in the combined heat and power station calculated by reference to the gross calorific value of each commodity;
+- EP is the quantity of electricity produced by the combined heat and power station which is used in that place;
+- ET is the total quantity of electricity produced by the combined heat and power station which is used in that place and elsewhere; and
+- HT is the total quantity of heat produced by the combined heat and power station which is used in that place and elsewhere.
+
+(4) If no electricity from the combined heat and power station is put into public supply, the following formula applies in respect of heat which is used in that place—
+
+[formula: see source](https://www.legislation.gov.uk/uksi/2012/2999)
+
+where—
+
+- RHN is the reckonable energy in respect of heat from the combined heat and power station which is used in that place;
+- EC is the total energy content of the relevant commodities burned in the combined heat and power station calculated by reference to the gross calorific value of each commodity;
+- HP is the quantity of heat produced by the combined heat and power station which is used in that place;
+- ET is the total quantity of electricity produced by the combined heat and power station which is used in that place and elsewhere; and
+- HT is the total quantity of heat produced by the combined heat and power station which is used in that place and elsewhere.
+
+(5) If electricity from the combined heat and power station is put into public supply, the following formula applies in respect of heat which is used in that place—
+
+RHS = \[(EC x HP) / (2ET+HT)\] - \[((HP×ES)/HT) x (2.1 - (2EC / 2ET+HT))\][^key-292ccd1b1266b9c377dc3079319a1e20]
+
+[formula: see source](https://www.legislation.gov.uk/uksi/2012/2999)
+
+where—
+
+- RHS is the reckonable energy in respect of heat from the combined heat and power station which is used in that place;
+- EC is the total energy content of the relevant commodities burned in the combined heat and power station calculated by reference to the gross calorific value of each commodity;
+- HP is the quantity of heat produced by the combined heat and power station which is used in that place;
+- ES is the quantity of electricity produced by the combined heat and power station and put into public supply;
+- ET is the total quantity of electricity produced by the combined heat and power station which is used in that place and elsewhere; and
+- HT is the total quantity of heat produced by the combined heat and power station which is used in that place and elsewhere.
+
+(6)[^key-1764ea547b0c8ca5e9f83d9b3a96bacb] For the purposes of paragraphs (4) and (5), electricity from a combined heat and power station is put into public supply when it—
+
+- (a) is supplied to an electricity utility; and
+- (b) is CHP qualifying power output.
+
+(7) In paragraph (6)(b)—
+
+- “**CHP qualifying power output**” has the meaning given by the relevant CHPQA standard;
+- “**CHPQA scheme**”, in relation to a combined heat and power station, means the scheme in relation to which the station’s CHPQA certificate was issued;
+- “**CHPQA standard**” means the Combined Heat and Power Quality Assurance Standard, Issue 7, promulgated by the Department for Energy Security and Net Zero, or its predecessor standards;
+- “**relevant CHPQA standard**”, in relation to a combined heat and power station, means the CHPQA standard which is applicable to the station’s CHPQA scheme.
+
+## 7A. Calculation of reckonable energy from combined heat and power stations: renewable fuel[^key-7709ec7e6f14f36f99cc2ff2933a7f6e]
+
+(1) Reckonable energy from a combined heat and power station which burns relevant commodities consisting exclusively of renewable fuel must be calculated in accordance with this regulation.
+
+(2) The quantity of electricity produced by the combined heat and power station must be multiplied by a factor of 2.1 to convert it into reckonable energy, whether or not the electricity is put into public supply within the meaning of regulation 7(6).
+
+(3) Subject to paragraph (4), the following formula applies in respect of heat produced by the combined heat and power station—
+
+[formula: see source](https://www.legislation.gov.uk/uksi/2012/2999)
+
+where—
+
+- RE = reckonable energy from the heat produced by the combined heat and power station;
+- EC = the total energy content of the relevant commodities burned in the combined heat and power station calculated by reference to the gross calorific value of each commodity;
+- EP = the total quantity of electricity produced by the combined heat and power station.
+
+(4) When applying the formula in paragraph (3), if EC is less than (EP x 2.1), RE = 0.
+
+## 7B. Calculation of reckonable energy from combined heat and power stations: renewable and non-renewable fuel
+
+The reckonable energy from a combined heat and power station which burns both renewable fuel and non-renewable fuel is calculated—
+
+- (a) in accordance with regulation 7, in respect of the proportion of the reckonable energy equal to the proportion of relevant commodities burned in the combined heat and power station which are non-renewable fuel, calculated by reference to the gross calorific value of each commodity; and
+- (b) in accordance with regulation 7A, in respect of the proportion of the reckonable energy equal to the proportion of relevant commodities burned in the combined heat and power station which are renewable fuel, calculated by reference to the gross calorific value of each commodity.
+
+## 8. Calculation of reckonable energy from steam[^key-c4d91221b9cbad92a2619d07f221b5b1]
+
+The reckonable energy in respect of steam supplied to the installation, installations or parts of installations on a site must be calculated by taking the enthalpy of the steam consumed by the installation, installations or parts of installations and dividing it by the efficiency of the system which generates the steam and supplies it to that installation, those installations or parts of those installations where it is used.
+
+## 9. Revocations and transitional provision[^key-0b8ffeee8b039a2a40f15b1b8e1fbcd3]
+
+(1) Subject to paragraph (2), the following Regulations are revoked—
+
+- (a) the Climate Change Agreements (Eligible Facilities) Regulations 2001[^f00005];
+- (b) the Climate Change Agreements (Eligible Facilities) Regulations 2006[^f00006];
+- (c) the Climate Change Agreements (Eligible Facilities) (Amendment) Regulations 2006[^f00007];
+- (d) the Climate Change Agreements (Eligible Facilities) (Amendment) Regulations 2009[^f00008].
+
+(2) The regulations listed in paragraph (1) continue to have effect in relation to climate change agreements entered into with the Secretary of State before the coming into force of these Regulations.
+
+## 10. Review[^key-717946b71aef27e5a88c1941e7b6e31e]
+
+(1) Before the end of the review period, the Secretary of State must—
+
+- (a) carry out a review of regulations 3 to 8,
+- (b) set out the conclusions of the review in a report, and
+- (c) publish the report.
+
+(2) The report must in particular—
+
+- (a) set out the objectives intended to be achieved by the regulatory system established by regulations 3 to 8,
+- (b) assess the extent to which those objectives are achieved, and
+- (c) assess whether those objectives remain appropriate and, if so, the extent to which they could be achieved with a system that imposes less regulation.
+
+(3) “Review period” means the period of five years beginning with the day on which these Regulations came into force.
+
+Gregory Barker
+
+Minister of State
+
+Department of Energy and Climate Change
+
+29th November 2012
+
+## SCHEDULE — List of processes and activities
+
+Regulation 2
+
+**1.**[^key-2430a7f57c05e7dfa01c4347cb049ae3] Where—
+
+- (a) nitrogen, oxygen or argon is separated from air, and then compressed or liquefied; or
+- (b) nitrogen, oxygen and argon are separated from air, and then made into a compressed or liquefied mixture of at least two of the former,
+
+separating the above substances from air using one or more of the following air separation technologies: cryogenic distillation, pressure swing adsorption, vacuum swing absorption or membrane separation, compressing and liquefying the separated substances, pumping them (in a compressed or liquefied form) from within the installation for further use within or outside the installation.
+
+**2.**[^key-6d823b4abf90ec2d9350304ca62def6f] Where kaolinitic clay in combination with any of its accessory minerals is extracted and processed: blasting and crushing, dry mining or hydraulic mining, refining, blending, drying and packaging, classifying, hydrocloning, pumping, centrifuging, grinding, shredding, magnetic separating, bleaching, pressing, pugging, milling, micro- separating.
+
+**3.**[^key-b4c8c33a52a2fe59abaf5c30f117519a] Where calcium carbonate based minerals are processed for use as filler or whitener for paper, plastics, pharmaceuticals, ceramics, food, paint or other products: crushing, drying, milling, classifying, screening, packaging.
+
+**4.**[^key-2f1662776a5eb1c76a551b0854764c7c] Where pre-formed or manufactured metal components are heat–treated to facilitate their efficient formability or to enhance their service performance: all processes and activities involved in the heat treatment of pre-formed or manufactured metal components to facilitate their efficient formability or to enhance their service performance.
+
+**5.**[^key-dc689d84745d09547fad724fd6fa69f7] Where (in controlled, environment–protected structures) horticultural crops are grown, harvested and receive primary preparation for market: planting, seeding, heating, lighting, ventilating, irrigating, fertilising, cooling, preparing and sterilising growing media, grading and conveying.
+
+**6.**[^key-e7ae2f01e52a31cb176c69f997992caf] Where textiles are manufactured: spinning, weaving, knitting, finishing but not printing or dyeing.
+
+**7.**[^key-39530007c9b42367a4316982efb88328] Where plastic film is produced using extrusion to convert melted polymer into blown or cast film: all processes and activities involved in the production of plastic film using extrusion to convert melted polymer into blown or cast film.
+
+**8.**[^key-2683f830dc0a50f34b808fb07b99d0d6] Where geosynthetic materials comprising at least one component made from a synthetic or natural polymer in the form of a sheet, strip or other three-dimensional structure are manufactured for use in geotechnical or civil engineering applications: all processes and activities involved in the manufacture of such materials.
+
+**9.**[^key-532efd617abb6398e758981e729c049f] Where silica sand in combination with any associated minerals is extracted, processed and packaged: blasting, quarrying, crushing, classifying, milling, pumping, grinding, acid leaching, drying and packaging.
+
+**10.**[^key-57e8647f4e81b18784d49842d6a62e0a] Where potassium chloride is extracted, separated, and purified to produce potash and high-grade soluble potassium chloride: sub-surface mining of sylvinite and other halite minerals, separating potassium chloride from those minerals and purifying it including crushing, grinding, froth flotation, drying, compacting, grading and, where relevant, recrystallising it from supersaturated brine.
+
+**11.**[^key-540530f196a9505116e8d686eb955f09] Where glass products or chemicals using glass as a base material are produced from raw materials, pre-formed glass or cullet for use as reflective additives in road markings or of size and shape suitable for incorporation in vehicles, spacecraft or vessels: partial melting, fusing, bending, toughening, cutting, grinding, etching, polishing (both mechanical and chemical), surface treating and drying.
+
+**12.**[^key-5e7edd0f7f31c97cf434722512659a0d] At an installation (which must be a building where the predominant business activity is commercial temperature controlled storage or product freezing) or site where—
+
+- (a) products are cooled or frozen for the purposes of—
+  - (i) storing them under controlled temperatures below ambient levels; or
+  - (ii) producing ice; or
+- (b) products are stored under controlled temperatures below ambient levels:
+
+cooling and freezing products and all processes and activities involved in controlling temperatures below ambient levels.
+
+**13.**[^key-0879b32f5221e5acdc4700a9c9360c79] Where plastic materials, or plastic products (whether or not these are finished products), are produced by—
+
+- (a) the application of heat and pressure to; or
+- (b) a chemical reaction involving
+
+plastics powder, granules, shredded waste or liquid: injection moulding, reaction injection moulding, compression moulding (including hot and cold press moulding), transfer moulding, structural foam moulding, direct screw transfer moulding, rotational moulding (including slush moulding), flexible foam moulding (including dual component processing), blow moulding, casting, expanded polystyrene moulding, expandable materials processing, mixing and compounding, calendering, powder coating (including dip moulding), sintering, thermoforming (including vacuum forming), pultrusion, filament winding, spread coating, hand lay-up and resin transfer moulding.
+
+**14.**[^key-ae1424d720c72ca36846d88a83789071] Where refined salt for use in food products or supplements is prepared or processed from minerals, any such preparation or processing.
+
+**15.**[^key-3a692cc43718c3c1a7fab917bfee0787] Where, not being a launderette predominately offering self-service washes or predominately serving the domestic market, textiles are laundered by washing with water, drying and smoothing except where such laundering is carried out in support of other activities carried out by the business (not being textile rental activities), whether or not such activities are carried out at the installation or site, any such laundering.
+
+**16.**[^key-313d10c19a42d3da64d57fadf10a5937] At an installation or site where natural gas is reformed, any such reformation.
+
+**17.**[^key-b56b4676db52d95b787846a81438a8ab] Where the further refining, conversion or use (otherwise than as a fuel or solvent) of the product of any of the following activities—
+
+- (a) refining mineral oils;
+- (b) the loading, unloading, handling or storage of, or the physical, chemical or thermal treatment of—
+  - (i) crude shale oil;
+  - (ii) where related to another activity described in paragraph (b), any associated gas or condensate; or
+  - (iii) emulsified hydrocarbons intended for use as a fuel,
+
+is carried out in the manufacture of a chemical, any such refinement, conversion or use.
+
+**18.**[^key-3d71bd127075627af4f4557cdf63319c] Where unsaturated hydrocarbon or vinyl chloride (other than a pre-formulated resin or pre-formulated gel coat which contains any unsaturated hydrocarbon) is polymerised or co-polymerised, any such polymerisation or co-polymerisation.
+
+**19.**[^key-42f018e52e4e68989230e7e029c4df62] Where—
+
+- (a) toluene di-isocyanate or other di-isocyanate of comparable volatility or, where partly polymerised, partly polymerised di-isocyanates or prepolymers of those monomers is used; and
+- (b) where the use of any of the chemicals described in paragraph (a) may result in a release into the air which contains such a di-isocyanate monomer,
+
+any such use.
+
+**20.**[^key-938c94894f60deb5b4738075cbcc5c42] At an installation or site where polyurethane foams or polyurethane elastomers are flame bonded, any such flame bonding.
+
+**21.**[^key-d6ae6fb9114fb796c298e2e7698e903b] At an installation or site where carbon disulphide, pyridine or any substituted pyridine are recovered, any such recovery.
+
+**22.**[^key-eea23c5fbcd35c37c83a4efef0dff496] Where organic compounds are produced except the production of—
+
+- (a) hydrocarbons (linear or cyclic, saturated or unsaturated, aliphatic or aromatic);
+- (b) organic compounds containing oxygen (for example alcohols, aldehydes, ketones, carboxylic acids, esters, ethers, peroxides, phenols, epoxy resins);
+- (c) organic compounds containing sulphur (for example sulphides, mercaptans, sulphonic acids, sulphonates, sulphates and sulphones and sulphur heterocyclics);
+- (d) organic compounds containing nitrogen (for example amines, amides, nitrous-, nitro-or azo-compounds, nitrates, nitrogen heterocyclics, cyanates, isocyanates, di-isocyanates and di-isocyanate prepolymers;
+- (e) organic compounds containing phosphororus (for example substituted phosphines and phosphate esters);
+- (f) organic compounds containing halogens (for example halocarbons, halogenated aromatic compounds and acid halides);
+- (g) organometallic compounds (for example lead alkyls, Grignard reagents and lithium alkyls);
+- (h) plastic materials (for example polymers, synthetic fibres and cellulose-based fibres);
+- (i) synthetic rubbers;
+- (j) dyes and pigments;
+- (k) surface-active agents,
+
+any such production.
+
+**23.**[^key-4c595fcfdd19942e57f47eeb012300f9] Where hydrogen cyanide or hydrogen sulphide is used in a manufacturing process except where that manufacturing process is an activity listed in Part 2 of Schedule 1 (activities, installations and mobile plant) to the Environmental Permitting (England and Wales) Regulations 2016[^key-c71d660a6009fbc98877138db97c8ff8], any such use.
+
+**24.**[^key-a2b2d2deb085faf56045201e9e99a576] Where solvent is reclaimed or regenerated, any such reclamation or regeneration.
+
+**25.**[^key-667f8e94a7211918676299271f0587fc] Where raw and part processed hides and skins are processed, dressed or finished to produce part processed leather intermediates or finished leather, any such processing, dressing or finishing.
+
+**26.**[^key-a5ade5fe21deca68914d64c18f53c97e] Where glass frit or enamel frit is manufactured or used in any activity where that activity is related to its manufacture, any such manufacture or use.
+
+**27.**[^key-a67ceb02f1a4df842cdddf835fbc48b5] Where the main activity is the processing of red meat, any such processing.
+
+**28.**[^key-3c67392de440f50e6b47da057782eb29] At an installation or site where lead or any lead alloy is produced, melted or recovered by—
+
+- (a) chemical means; or
+- (b) the use of heat,
+
+any such production, melting or recovery.
+
+**29.**[^key-3cda6edfe2ec652557be267e79185ef7] Where any non-ferrous metal or alloy is refined, any such refinement.
+
+**30.**[^key-8ef4d58fcfbebaa2c669d192282eb11f] Where—
+
+- (a) gallium, indium, palladium, tellurium or thallium is recovered; and
+- (b) that recovery may result in the release of the chemicals in paragraph (a) into the air,
+
+any such recovery.
+
+**31.**[^key-5eba2d3b1df4841f78e7d976a6604b7e] Where beryllium or selenium or an alloy containing one or both of those materials is used in manufacturing or repairing and that manufacturing or repairing may result in the release into the air of—
+
+- (a) oxides of sulphur and other sulphur compounds;
+- (b) oxides of nitrogen and other nitrogen compounds;
+- (c) oxides of carbon;
+- (d) organic compounds and partial oxidation products;
+- (e) metals, metalloids and their compounds;
+- (f) asbestos (suspended particulate matter and fibres), glass fibres and mineral fibres;
+- (g) halogens and their compounds;
+- (h) phosphorus and its compounds;
+- (i) particulate matter,
+
+any such use.
+
+**32.**[^key-6886b64dd7245b50e94ab289e16b61de] Where granulated blast furnace slag is ground, any such grinding.
+
+**33.**[^key-435f8e21cd5ecfee4be7a15f57278912] Where hazardous waste is incinerated in a waste incineration plant or a waste co-incineration plant, any such incineration.
+
+**34.**[^key-99edf0b006f49d997aa0940896546b59] Where non-hazardous waste is incinerated in a waste incineration plant or a waste co-incineration plant, any such incineration.
+
+**35.**[^key-a84037c43ce5095e856eda6baa3d1cb3] Where one of the following wood-based panels are produced—
+
+- (a) oriented strand board;
+- (b) particleboard; or
+- (c) fibreboard,
+
+any such production.
+
+**36.**[^key-dc445a1efedb4c2040262b81876e7dd0] Except where an activity listed in—
+
+- (a) Part A(1) or Part A(2) of Section 6.4 (coating activities, printing and textile treatments) of Part 2 of Schedule 1 to the Environmental Permitting (England and Wales) Regulations 2016[^key-310d03982655a867459cf07083210e80]; or
+- (b) Part A(2)(c) of Section 2.1 (ferrous metals) of Part 2 of Schedule 1 to\\ those Regulations
+
+is carried out, where any process (other than for re-painting or re-spraying of or of parts of aircraft or road or railway vehicles) for applying to a substrate, or drying or curing after such application, printing ink or paint or any other coating material as, or in the course of, a manufacturing activity, where the process may result in the release into the air of particulate matter of any volatile organic compound and is likely to involve the use of—
+
+- (i) the application in solid form of printing ink, paint or other coating material;
+- (ii) the spraying of metal coating in molten form;
+- (iii) the use of organic solvents in respect of any cold set web offset printing activity or any sheet fed offset litho printing activity; or
+- (iv) the use of organic solvents in respect of any activity not mentioned in sub-paragraph (iii),
+
+any such process.
+
+**37.**[^key-6f7e5b6269a1ba7b1d5bc00898e856d6] Where the business activity is the leasing or licensing of a data facility which is being used as a data centre.
+
+**38.** Where—
+
+- (a) an unprocessed log undergoes semi-processing (“a semi-processed log”); or
+- (b) a semi-processed log is kiln dried, graded, planed, shaped, or chemically treated where this occurs at the same installation or site where the log underwent semi-processing
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations revoke the Climate Change Agreements (Eligible Facilities) Regulations 2001 (“the 2001 Regulations”), the Climate Change Agreements (Eligible Facilities) Regulations 2006 (“the 2006 Regulations”), the Climate Change Agreements (Eligible Facilities) (Amendment) Regulations 2006 and the Climate Change Agreements (Eligible Facilities) (Amendment) Regulations 2009 and replaces them with a consolidated and amended set of Regulations. The two significant amendments are the 90% rule which changes to 70% and the removal of the energy intensive criteria.
+
+The Regulations apply to installations set out in Table A to paragraph 51 of Schedule 6 to the Finance Act [2000 (c. 17)](https://www.legislation.gov.uk/ukpga/2000/17) and other installations carrying out an eligible process as defined by the Schedule to the Regulations. The Schedule incorporates the eligible processes set out in the Schedule to the 2006 Regulations (as amended).
+
+Regulation 1(3) provides that regulations 3 to 8 are to cease to have effect at the end of 31st March 2023.
+
+Regulation 3(1) defines what is an eligible facility for the purposes of entering into a climate change agreement. During a 12 month period at least 70% of the reckonable energy supplied to the facility will be used within an installation. Regulation 3(2) sets out how to calculate the estimated supply or use of reckonable energy by reference to the previous 12 month period.
+
+Regulation 5 sets out how to calculate reckonable energy.
+
+Regulation 6 sets out how reckonable energy is calculated in respect of a dedicated electricity generation plant.
+
+Regulation 7 sets out how reckonable energy is calculated in respect of a combined heat and power station.
+
+Regulation 8 sets out how reckonable energy is calculated in respect of steam.
+
+Regulation 9 provides that the 2001 Regulations and the 2006 Regulations (as amended) remain in force in respect of climate change agreements entered into by the Secretary of State before these Regulations come into force.
+
+Regulation 10 requires the Secretary of State to review the operation and effect of regulations 3 to 8 and publish a report within five years after the Regulations come into force. Following the review it will fall to the Secretary of State to consider whether the Regulations should be allowed to expire as regulation 1(3) provides, be revoked early, or continue in force with or without amendment. A further instrument would be needed to continue the Regulations in force with or without amendments or to revoke them early.
+
+A full impact assessment of the costs and benefits of this instrument is available from the Department of Energy and Climate Change’s Heat and Industry Division (telephone 0300 060 4000), and is published alongside the instrument and its Explanatory Memorandum on the legislation website of The National Archives (http://www.legislation.gov.uk).
+
+## Annotations
+
+[^f00001]: Footnote: 2000\. c.17.
+
+[^key-4be8109c64bddb5dc010d6cdb08c7522]: Commencement: Reg. 1 in force at 1.1.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/2999/regulation/1/2)
+
+[^key-584ec3de672088b32a69008028e57727]: Textual amendment: Word in reg. 1(3) substituted (1.1.2026) by [The Climate Change Agreements (Administration and Eligible Facilities) (Amendment) Regulations 2025 (S.I. 2025/813)](https://www.legislation.gov.uk/uksi/2025/813), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/813/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2025/813/regulation/3/2) (with [reg. 4](https://www.legislation.gov.uk/uksi/2025/813/regulation/4))
+
+[^key-5053bea10f77eb7adc5b3d84a7d41f54]: Commencement: Reg. 2 in force at 1.1.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/2999/regulation/1/2)
+
+[^key-549bdfd2e95aff3907c2ebddea21f2da]: Textual amendment: Words in reg. 2 inserted (31.3.2013) by [The Climate Change Agreements (Eligible Facilities) (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/505)](https://www.legislation.gov.uk/uksi/2013/505), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/505/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2013/505/regulation/2/2)
+
+[^key-8e662184e08c1025e5abfdf51d581a44]: Textual amendment: Words in reg. 2 substituted (3.8.2016) by [The Waste (Meaning of Recovery) (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/738)](https://www.legislation.gov.uk/uksi/2016/738), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/738/regulation/1/1), [11](https://www.legislation.gov.uk/uksi/2016/738/regulation/11)
+
+[^key-c17c4edcd5797a8d78db3efc4b11352a]: Textual amendment: Words in reg. 2 inserted (17.9.2018) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) Regulations 2018 (S.I. 2018/942)](https://www.legislation.gov.uk/uksi/2018/942), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/942/regulation/1/2), [21](https://www.legislation.gov.uk/uksi/2018/942/regulation/21)
+
+[^key-6c21673cfebc006fe366a80269cbbe22]: Textual amendment: Words in reg. 2 substituted (1.10.2020) by [The Waste (Circular Economy) (Amendment) Regulations 2020 (S.I. 2020/904)](https://www.legislation.gov.uk/uksi/2020/904), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/904/regulation/1/1), [17](https://www.legislation.gov.uk/uksi/2020/904/regulation/17)
+
+[^key-60180a506048cd375f1cbc8427e0b864]: Textual amendment: Words in reg. 2 inserted (1.1.2026) by [The Climate Change Agreements (Administration and Eligible Facilities) (Amendment) Regulations 2025 (S.I. 2025/813)](https://www.legislation.gov.uk/uksi/2025/813), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/813/regulation/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2025/813/regulation/3/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2025/813/regulation/4))
+
+[^key-96f4912556f7fa9fe65fc484f718f5d8]: Textual amendment: Words in reg. 2 inserted (1.7.2014) by [The Climate Change Agreements (Eligible Facilities) (Amendment) Regulations 2014 (S.I. 2014/1318)](https://www.legislation.gov.uk/uksi/2014/1318), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1318/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2014/1318/regulation/2/2)
+
+[^key-73a6299c62e0c9a6a03f69fe946c987a]: Textual amendment: Words in reg. 2 inserted (31.3.2013) by [The Climate Change Agreements (Eligible Facilities) (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/505)](https://www.legislation.gov.uk/uksi/2013/505), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/505/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2013/505/regulation/2/3)
+
+[^f00003]: Footnote: [S.I. 2006/59](https://www.legislation.gov.uk/uksi/2006/59); amended by [S.I. 2006/1848](https://www.legislation.gov.uk/uksi/2006/1848).
+
+[^f00004]: Footnote: [1979 c.5](https://www.legislation.gov.uk/ukpga/1979/5).
+
+[^key-473c5ff92c5c0662587e743dcb3eb9bf]: Textual amendment: Words in reg. 2 inserted (1.7.2014) by [The Climate Change Agreements (Eligible Facilities) (Amendment) Regulations 2014 (S.I. 2014/1318)](https://www.legislation.gov.uk/uksi/2014/1318), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1318/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2014/1318/regulation/2/3)
+
+[^key-27667dfd857414d9758e9541d1290bb0]: Commencement: Reg. 3 in force at 1.1.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/2999/regulation/1/2)
+
+[^key-c3de7c0a5b135f6ecc569b52eea51f48]: Textual amendment: Words in reg. 3(2) inserted (31.3.2013) by [The Climate Change Agreements (Eligible Facilities) (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/505)](https://www.legislation.gov.uk/uksi/2013/505), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/505/regulation/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2013/505/regulation/2/4)
+
+[^key-e2aa3649c1ebfb3ca3bc2d0f0551abd3]: Textual amendment: Reg. 3(3)-(5) inserted (31.3.2013) by [The Climate Change Agreements (Eligible Facilities) (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/505)](https://www.legislation.gov.uk/uksi/2013/505), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/505/regulation/1/2), [2(5)](https://www.legislation.gov.uk/uksi/2013/505/regulation/2/5)
+
+[^key-0cfa7c7ad684504ce75e7745e24380c3]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2012/2999/regulation/4) in force at 1.1.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/2999/regulation/1/2)
+
+[^key-f86d42b6e60e87d0ce5b4e31b3a91777]: Commencement: Reg. 5 in force at 1.1.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/2999/regulation/1/2)
+
+[^key-d7877f0039701316850aeb58ca688171]: Textual amendment: Words in reg. 5 heading inserted (1.1.2026) by [The Climate Change Agreements (Administration and Eligible Facilities) (Amendment) Regulations 2025 (S.I. 2025/813)](https://www.legislation.gov.uk/uksi/2025/813), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/813/regulation/1/1), [3(4)(a)](https://www.legislation.gov.uk/uksi/2025/813/regulation/3/4/a) (with [reg. 4](https://www.legislation.gov.uk/uksi/2025/813/regulation/4))
+
+[^key-1ee4c821e0e7f5fe72d1dbfc9a760b19]: Textual amendment: Words in reg. 5(2) omitted (1.1.2026) by virtue of [The Climate Change Agreements (Administration and Eligible Facilities) (Amendment) Regulations 2025 (S.I. 2025/813)](https://www.legislation.gov.uk/uksi/2025/813), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/813/regulation/1/1), [3(4)(b)(i)](https://www.legislation.gov.uk/uksi/2025/813/regulation/3/4/b/i) (with [reg. 4](https://www.legislation.gov.uk/uksi/2025/813/regulation/4))
+
+[^key-723a5d6c9e97fdc6903a61215b20f2b1]: Textual amendment: Word in reg. 5(2) substituted (1.1.2026) by [The Climate Change Agreements (Administration and Eligible Facilities) (Amendment) Regulations 2025 (S.I. 2025/813)](https://www.legislation.gov.uk/uksi/2025/813), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/813/regulation/1/1), [3(4)(b)(ii)](https://www.legislation.gov.uk/uksi/2025/813/regulation/3/4/b/ii) (with [reg. 4](https://www.legislation.gov.uk/uksi/2025/813/regulation/4))
+
+[^key-3cb75f035110d1b96ac1f2549721b6f7]: Textual amendment: Reg. 5(3) inserted (1.1.2026) by [The Climate Change Agreements (Administration and Eligible Facilities) (Amendment) Regulations 2025 (S.I. 2025/813)](https://www.legislation.gov.uk/uksi/2025/813), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/813/regulation/1/1), [3(4)(c)](https://www.legislation.gov.uk/uksi/2025/813/regulation/3/4/c) (with [reg. 4](https://www.legislation.gov.uk/uksi/2025/813/regulation/4))
+
+[^key-9acea05beff35e1a815f798bee711c38]: Textual amendment: Reg. 5A inserted (1.1.2026) by [The Climate Change Agreements (Administration and Eligible Facilities) (Amendment) Regulations 2025 (S.I. 2025/813)](https://www.legislation.gov.uk/uksi/2025/813), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/813/regulation/1/1), [3(5)](https://www.legislation.gov.uk/uksi/2025/813/regulation/3/5) (with [reg. 4](https://www.legislation.gov.uk/uksi/2025/813/regulation/4))
+
+[^f00007]: Footnote: [S.I. 2006/1931](https://www.legislation.gov.uk/uksi/2006/1931).
+
+[^key-9c198ddb768c20c20dc636d005b76abf]: Textual amendment: Reg. 6 substituted (1.1.2026) by [The Climate Change Agreements (Administration and Eligible Facilities) (Amendment) Regulations 2025 (S.I. 2025/813)](https://www.legislation.gov.uk/uksi/2025/813), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/813/regulation/1/1), [3(6)](https://www.legislation.gov.uk/uksi/2025/813/regulation/3/6) (with [reg. 4](https://www.legislation.gov.uk/uksi/2025/813/regulation/4))
+
+[^key-5900aed463a7cc28ad99e58ddf3a472c]: Commencement: Reg. 7 in force at 1.1.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/2999/regulation/1/2)
+
+[^key-fa8ae8086c1c258e639e81c83d1160fe]: Textual amendment: Words in reg. 7 heading inserted (1.1.2026) by [The Climate Change Agreements (Administration and Eligible Facilities) (Amendment) Regulations 2025 (S.I. 2025/813)](https://www.legislation.gov.uk/uksi/2025/813), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/813/regulation/1/1), [3(7)(a)](https://www.legislation.gov.uk/uksi/2025/813/regulation/3/7/a) (with [reg. 4](https://www.legislation.gov.uk/uksi/2025/813/regulation/4))
+
+[^key-7b05a7fba0e3aea29db19ce6b4cf1e57]: Textual amendment: Words in reg. 7(1) inserted (1.1.2026) by [The Climate Change Agreements (Administration and Eligible Facilities) (Amendment) Regulations 2025 (S.I. 2025/813)](https://www.legislation.gov.uk/uksi/2025/813), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/813/regulation/1/1), [3(7)(b)](https://www.legislation.gov.uk/uksi/2025/813/regulation/3/7/b) (with [reg. 4](https://www.legislation.gov.uk/uksi/2025/813/regulation/4))
+
+[^key-292ccd1b1266b9c377dc3079319a1e20]: Textual amendment: Reg. 7(5) formula substituted (1.1.2026) by [The Climate Change Agreements (Administration and Eligible Facilities) (Amendment) Regulations 2025 (S.I. 2025/813)](https://www.legislation.gov.uk/uksi/2025/813), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/813/regulation/1/1), [3(7)(c)](https://www.legislation.gov.uk/uksi/2025/813/regulation/3/7/c) (with [reg. 4](https://www.legislation.gov.uk/uksi/2025/813/regulation/4))
+
+[^key-1764ea547b0c8ca5e9f83d9b3a96bacb]: Textual amendment: Reg. 7(6)(7) substituted for reg. 7(6) (1.1.2026) by [The Climate Change Agreements (Administration and Eligible Facilities) (Amendment) Regulations 2025 (S.I. 2025/813)](https://www.legislation.gov.uk/uksi/2025/813), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/813/regulation/1/1), [3(7)(d)](https://www.legislation.gov.uk/uksi/2025/813/regulation/3/7/d) (with [reg. 4](https://www.legislation.gov.uk/uksi/2025/813/regulation/4))
+
+[^key-7709ec7e6f14f36f99cc2ff2933a7f6e]: Textual amendment: Regs. 7A, 7B inserted (1.1.2026) by [The Climate Change Agreements (Administration and Eligible Facilities) (Amendment) Regulations 2025 (S.I. 2025/813)](https://www.legislation.gov.uk/uksi/2025/813), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/813/regulation/1/1), [3(8)](https://www.legislation.gov.uk/uksi/2025/813/regulation/3/8) (with [reg. 4](https://www.legislation.gov.uk/uksi/2025/813/regulation/4))
+
+[^key-c4d91221b9cbad92a2619d07f221b5b1]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2012/2999/regulation/8) in force at 1.1.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/2999/regulation/1/2)
+
+[^key-0b8ffeee8b039a2a40f15b1b8e1fbcd3]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2012/2999/regulation/9) in force at 1.1.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/2999/regulation/1/2)
+
+[^f00005]: Footnote: [S.I. 2001/662](https://www.legislation.gov.uk/uksi/2001/662).
+
+[^f00006]: Footnote: [S.I. 2006/60](https://www.legislation.gov.uk/uksi/2006/60).
+
+[^f00008]: Footnote: [S.I. 2009/2458](https://www.legislation.gov.uk/uksi/2009/2458).
+
+[^key-717946b71aef27e5a88c1941e7b6e31e]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2012/2999/regulation/10) in force at 1.1.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/2999/regulation/1/2)
+
+[^key-2430a7f57c05e7dfa01c4347cb049ae3]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/uksi/2012/2999/schedule/paragraph/1) in force at 1.1.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/2999/regulation/1/2)
+
+[^key-6d823b4abf90ec2d9350304ca62def6f]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/uksi/2012/2999/schedule/paragraph/2) in force at 1.1.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/2999/regulation/1/2)
+
+[^key-b4c8c33a52a2fe59abaf5c30f117519a]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/uksi/2012/2999/schedule/paragraph/3) in force at 1.1.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/2999/regulation/1/2)
+
+[^key-2f1662776a5eb1c76a551b0854764c7c]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/uksi/2012/2999/schedule/paragraph/4) in force at 1.1.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/2999/regulation/1/2)
+
+[^key-dc689d84745d09547fad724fd6fa69f7]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/uksi/2012/2999/schedule/paragraph/5) in force at 1.1.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/2999/regulation/1/2)
+
+[^key-e7ae2f01e52a31cb176c69f997992caf]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/uksi/2012/2999/schedule/paragraph/6) in force at 1.1.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/2999/regulation/1/2)
+
+[^key-39530007c9b42367a4316982efb88328]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/uksi/2012/2999/schedule/paragraph/7) in force at 1.1.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/2999/regulation/1/2)
+
+[^key-2683f830dc0a50f34b808fb07b99d0d6]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/uksi/2012/2999/schedule/paragraph/8) in force at 1.1.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/2999/regulation/1/2)
+
+[^key-532efd617abb6398e758981e729c049f]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/uksi/2012/2999/schedule/paragraph/9) in force at 1.1.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/2999/regulation/1/2)
+
+[^key-57e8647f4e81b18784d49842d6a62e0a]: Commencement: [Sch. para. 10](https://www.legislation.gov.uk/uksi/2012/2999/schedule/paragraph/10) in force at 1.1.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/2999/regulation/1/2)
+
+[^key-540530f196a9505116e8d686eb955f09]: Commencement: [Sch. para. 11](https://www.legislation.gov.uk/uksi/2012/2999/schedule/paragraph/11) in force at 1.1.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/2999/regulation/1/2)
+
+[^key-5e7edd0f7f31c97cf434722512659a0d]: Commencement: [Sch. para. 12](https://www.legislation.gov.uk/uksi/2012/2999/schedule/paragraph/12) in force at 1.1.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/2999/regulation/1/2)
+
+[^key-0879b32f5221e5acdc4700a9c9360c79]: Commencement: [Sch. para. 13](https://www.legislation.gov.uk/uksi/2012/2999/schedule/paragraph/13) in force at 1.1.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/2999/regulation/1/2)
+
+[^key-ae1424d720c72ca36846d88a83789071]: Commencement: [Sch. para. 14](https://www.legislation.gov.uk/uksi/2012/2999/schedule/paragraph/14) in force at 1.1.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/2999/regulation/1/2)
+
+[^key-3a692cc43718c3c1a7fab917bfee0787]: Commencement: [Sch. para. 15](https://www.legislation.gov.uk/uksi/2012/2999/schedule/paragraph/15) in force at 1.1.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/2999/regulation/1/2)
+
+[^key-313d10c19a42d3da64d57fadf10a5937]: Commencement: [Sch. para. 16](https://www.legislation.gov.uk/uksi/2012/2999/schedule/paragraph/16) in force at 1.1.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/2999/regulation/1/2)
+
+[^key-b56b4676db52d95b787846a81438a8ab]: Commencement: [Sch. para. 17](https://www.legislation.gov.uk/uksi/2012/2999/schedule/paragraph/17) in force at 1.1.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/2999/regulation/1/2)
+
+[^key-3d71bd127075627af4f4557cdf63319c]: Commencement: [Sch. para. 18](https://www.legislation.gov.uk/uksi/2012/2999/schedule/paragraph/18) in force at 1.1.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/2999/regulation/1/2)
+
+[^key-42f018e52e4e68989230e7e029c4df62]: Commencement: [Sch. para. 19](https://www.legislation.gov.uk/uksi/2012/2999/schedule/paragraph/19) in force at 1.1.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/2999/regulation/1/2)
+
+[^key-938c94894f60deb5b4738075cbcc5c42]: Commencement: [Sch. para. 20](https://www.legislation.gov.uk/uksi/2012/2999/schedule/paragraph/20) in force at 1.1.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/2999/regulation/1/2)
+
+[^key-d6ae6fb9114fb796c298e2e7698e903b]: Commencement: [Sch. para. 21](https://www.legislation.gov.uk/uksi/2012/2999/schedule/paragraph/21) in force at 1.1.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/2999/regulation/1/2)
+
+[^key-eea23c5fbcd35c37c83a4efef0dff496]: Commencement: [Sch. para. 22](https://www.legislation.gov.uk/uksi/2012/2999/schedule/paragraph/22) in force at 1.1.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/2999/regulation/1/2)
+
+[^key-4c595fcfdd19942e57f47eeb012300f9]: Commencement: [Sch. para. 23](https://www.legislation.gov.uk/uksi/2012/2999/schedule/paragraph/23) in force at 1.1.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/2999/regulation/1/2)
+
+[^key-c71d660a6009fbc98877138db97c8ff8]: Textual amendment: Words in Sch. para. 23 substituted (1.1.2017) by [The Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154)](https://www.legislation.gov.uk/uksi/2016/1154), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/1), [Sch. 29 Pt. 2 para. 45](https://www.legislation.gov.uk/uksi/2016/1154/schedule/29/part/2/paragraph/45) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/3), [77-79](https://www.legislation.gov.uk/uksi/2016/1154/regulation/77), [Sch. 4](https://www.legislation.gov.uk/uksi/2016/1154/schedule/4))
+
+[^key-a2b2d2deb085faf56045201e9e99a576]: Commencement: [Sch. para. 24](https://www.legislation.gov.uk/uksi/2012/2999/schedule/paragraph/24) in force at 1.1.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/2999/regulation/1/2)
+
+[^key-667f8e94a7211918676299271f0587fc]: Commencement: [Sch. para. 25](https://www.legislation.gov.uk/uksi/2012/2999/schedule/paragraph/25) in force at 1.1.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/2999/regulation/1/2)
+
+[^key-a5ade5fe21deca68914d64c18f53c97e]: Commencement: [Sch. para. 26](https://www.legislation.gov.uk/uksi/2012/2999/schedule/paragraph/26) in force at 1.1.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/2999/regulation/1/2)
+
+[^key-a67ceb02f1a4df842cdddf835fbc48b5]: Commencement: [Sch. para. 27](https://www.legislation.gov.uk/uksi/2012/2999/schedule/paragraph/27) in force at 1.1.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/2999/regulation/1/2)
+
+[^key-3c67392de440f50e6b47da057782eb29]: Commencement: [Sch. para. 28](https://www.legislation.gov.uk/uksi/2012/2999/schedule/paragraph/28) in force at 1.1.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/2999/regulation/1/2)
+
+[^key-3cda6edfe2ec652557be267e79185ef7]: Commencement: [Sch. para. 29](https://www.legislation.gov.uk/uksi/2012/2999/schedule/paragraph/29) in force at 1.1.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/2999/regulation/1/2)
+
+[^key-8ef4d58fcfbebaa2c669d192282eb11f]: Commencement: [Sch. para. 30](https://www.legislation.gov.uk/uksi/2012/2999/schedule/paragraph/30) in force at 1.1.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/2999/regulation/1/2)
+
+[^key-5eba2d3b1df4841f78e7d976a6604b7e]: Commencement: [Sch. para. 31](https://www.legislation.gov.uk/uksi/2012/2999/schedule/paragraph/31) in force at 1.1.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/2999/regulation/1/2)
+
+[^key-6886b64dd7245b50e94ab289e16b61de]: Commencement: [Sch. para. 32](https://www.legislation.gov.uk/uksi/2012/2999/schedule/paragraph/32) in force at 1.1.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/2999/regulation/1/2)
+
+[^key-435f8e21cd5ecfee4be7a15f57278912]: Commencement: [Sch. para. 33](https://www.legislation.gov.uk/uksi/2012/2999/schedule/paragraph/33) in force at 1.1.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/2999/regulation/1/2)
+
+[^key-99edf0b006f49d997aa0940896546b59]: Commencement: [Sch. para. 34](https://www.legislation.gov.uk/uksi/2012/2999/schedule/paragraph/34) in force at 1.1.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/2999/regulation/1/2)
+
+[^key-a84037c43ce5095e856eda6baa3d1cb3]: Commencement: [Sch. para. 35](https://www.legislation.gov.uk/uksi/2012/2999/schedule/paragraph/35) in force at 1.1.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/2999/regulation/1/2)
+
+[^key-dc445a1efedb4c2040262b81876e7dd0]: Commencement: Sch. para. 36 in force at 1.1.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/2999/regulation/1/2)
+
+[^key-310d03982655a867459cf07083210e80]: Textual amendment: Words in Sch. para. 36(a) substituted (1.1.2017) by [The Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154)](https://www.legislation.gov.uk/uksi/2016/1154), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/1), [Sch. 29 Pt. 2 para. 45](https://www.legislation.gov.uk/uksi/2016/1154/schedule/29/part/2/paragraph/45) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/3), [77-79](https://www.legislation.gov.uk/uksi/2016/1154/regulation/77), [Sch. 4](https://www.legislation.gov.uk/uksi/2016/1154/schedule/4))
+
+[^key-6f7e5b6269a1ba7b1d5bc00898e856d6]: Textual amendment: Sch. paras. 37, 38 inserted (1.7.2014) by [The Climate Change Agreements (Eligible Facilities) (Amendment) Regulations 2014 (S.I. 2014/1318)](https://www.legislation.gov.uk/uksi/2014/1318), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1318/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2014/1318/regulation/2/4)

@@ -1,0 +1,71 @@
+---
+title: Police Reform and Social Responsibility Act 2011, section 32
+act: Police Reform and Social Responsibility Act 2011
+section: '32'
+status: revised-with-pending-changes
+text_date: '2026-09-21'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/2011/13/section/32
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Police Reform and Social Responsibility Act 2011, section 32
+
+> **Warning: changes not yet applied to this text (4).** Text as at 2026-09-21. See https://www.legislation.gov.uk/changes/affected/ukpga/2011/13
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 32. London Assembly police and crime panel[^key-e89950a4bc7a2e8af696482073e45a8f]
+
+*Extent: E+W*
+
+(1) The London Assembly must arrange for the functions referred to in subsection (2) to be discharged on its behalf by a particular committee of the Assembly (the “police and crime panel”).
+
+(2) Those functions (“the police and crime panel functions”) are—
+
+- (a) the functions conferred on the Assembly by section 33;
+- (b) the functions conferred on the Assembly by section 60A of, and Schedule 4A to, the 1999 Act in relation to the appointment of the Deputy Mayor for Policing and Crime by the Mayor's Office for Policing and Crime.
+
+(3) The London Assembly may not arrange for the police and crime panel functions to be discharged on its behalf otherwise than in accordance with subsection (1).
+
+(4) The London Assembly may not arrange for any of its other functions to be discharged by the police and crime panel.
+
+(5) The special scrutiny functions may only be exercised at a meeting of the whole panel; but that is without prejudice to rules of procedure about the quorum of a meeting of the whole panel.
+
+(6) The enactments applying to committees of the London Assembly, apart from the excluded provisions, apply to the police and crime panel as if the police and crime panel functions were to be discharged by the panel by virtue of arrangements under section 54(1)(a) of the 1999 Act.
+
+(7) In subsection (6), “**excluded provisions**” means the following provisions of the 1999 Act—
+
+- (a) section 54(5), so far as it provides for the London Assembly to retain power to exercise functions delegated to a committee;
+- (b) section 55 (Assembly committees and sub-committees).
+
+(8) The enactments conferring, or relating to, the police and crime panel functions are to be read with the appropriate modifications; in particular—
+
+- (a) references to the London Assembly are to be read as references to the police and crime panel; and
+- (b) references to proceedings of the London Assembly are to be read as references to proceedings of the police and crime panel.
+
+(9) For the purposes of subsection (8), references to the police and crime panel include references to a sub-committee or member (if any) by whom functions are to be discharged in accordance with section 54(3) of the 1999 Act.
+
+(10) The following provisions apply to the police and crime panel—
+
+- (a) the number of members of the panel, and their term of office, are to be fixed by the London Assembly;
+- (b) persons who are not members of the London Assembly may be members of the panel.
+
+(11) The following provisions apply to any sub-committee by which police and crime panel functions are to be discharged—
+
+- (a) the number of members of the sub-committee, and their term of office, are to be fixed by the police and crime panel;
+- (b) persons who are not members of the London Assembly may be members of the sub-committee.
+
+(12) The police and crime panel functions must be exercised with a view to supporting the effective exercise of the functions of the Mayor's Office for Policing and Crime.
+
+(13) In this section—
+
+- “**1999 Act**” means the Greater London Authority Act 1999;
+- “**special scrutiny functions**” means the functions conferred—
+  - (a) by section 33(1), or
+  - (b) by section 60A of, and Schedule 4A to, the 1999 Act in relation to the appointment of the Deputy Mayor for Policing and Crime by the Mayor's Office for Policing and Crime.
+
+## Annotations
+
+[^key-e89950a4bc7a2e8af696482073e45a8f]: Commencement: [S. 32](https://www.legislation.gov.uk/ukpga/2011/13/section/32) in force at 16.1.2012 by [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)

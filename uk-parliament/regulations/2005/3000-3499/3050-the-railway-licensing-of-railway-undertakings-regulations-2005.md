@@ -1,0 +1,1132 @@
+---
+title: The Railway (Licensing of Railway Undertakings) Regulations 2005
+id: uksi/2005/3050
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2005-11-01'
+text_date: '2022-01-31'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/uksi/2005/3050
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2005/3050/pdfs/uksiem_20053050_en.pdf
+- http://www.legislation.gov.uk/uksi/2005/3050/pdfs/uksi_20053050_en.pdf
+- http://www.legislation.gov.uk/uksi/2005/3050/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Railway (Licensing of Railway Undertakings) Regulations 2005
+
+> Text as at 2022-01-31.
+>
+> Extent: England, Wales, Scotland.
+
+*Extent: E+W+S*
+
+2005 No. 3050
+
+TRANSPORT
+
+The Railway (Licensing of Railway Undertakings) Regulations 2005
+
+Made
+
+1st November 2005
+
+Laid before Parliament
+
+4th November 2005
+
+Coming into force
+
+28th November 2005
+
+The Secretary of State, being a Minister designated for the purposes of section 2(2) of the European Communities Act 1972 [^c13513391] in relation to measures relating to railways and railway transport [^c13513401], in exercise of the powers conferred by that section, makes the following Regulations:–[^key-87956f89392698925e94732e69d11656]
+
+## PART 1 — GENERAL
+
+### 1. Citation, commencement and extent
+
+(1) These Regulations may be cited as the Railway (Licensing of Railway Undertakings) Regulations 2005 and shall come into force on 28th November 2005.
+
+(2) These Regulations do not extend to Northern Ireland.
+
+### 2. Interpretation[^key-0dc003d7ddb4b074d7901f76477e5007]
+
+(1) In these Regulations, except where the context otherwise requires—
+
+- “**the 1993 Act**” means the Railways Act 1993 [^c13513411];
+- “the 1995 Directive” means Council[^key-eced4860c0d1c73dd880031f3690fa6d] [Directive 95/18/EC](https://www.legislation.gov.uk/european/directive/1995/0018) of 19th June 1995 on the licensing of railway undertakings, as amended by [Directive 2001/13/EC](https://www.legislation.gov.uk/european/directive/2001/0013) of 26th February 2001 and [Directive 2004/49/EC](https://www.legislation.gov.uk/european/directive/2004/0049) of 29th April 2004, both of the European Parliament and of the Council;
+- “the 2012 Directive” means [Directive 2012/34/EU](https://www.legislation.gov.uk/european/directive/2012/0034) of the European Parliament and of the Council of 21st November 2012 establishing a single European railway area (recast);
+- “Channel Tunnel service” means—
+  - (a) a service for the transport of passengers by rail between Calais-Fréthun station in France and Ashford International station in the United Kingdom,
+  - (b) a service for the transport of goods by rail between Fréthun freight yard in France and Dollands Moor freight yard in the United Kingdom, or
+  - (c) a service for the transport of passengers or goods by rail which originates or terminates somewhere other than one of those stations or freight yards, but only while it passes between them;
+- “European licence” means a licence granted pursuant to any action taken by an EEA state for the purpose of implementing the 1995 Directive or Chapter III of the 2012 Directive;
+- “French licensing authority” means the body responsible for granting European licences in France;
+- [^key-7c139f09a9cc4467146b2f7adcb1c328]...
+- [^key-7c139f09a9cc4467146b2f7adcb1c328]...
+- [^key-7c139f09a9cc4467146b2f7adcb1c328]...
+- [^key-7c139f09a9cc4467146b2f7adcb1c328]...
+- “**ORR**” means the Office of Rail and Road[^key-fafdd0e42aec0e8727a534deacfea865], being the body established under section 15 of the Railways and Transport Safety Act 2003 [^c13513451];
+- “railway undertaking” means any public or private undertaking, the principal business of which is to provide services for the transport of goods and/or passengers by rail with a requirement that the undertaking ensure traction; this includes undertakings which provide traction only;[^key-10b56fe9a01574e3ea65f7c7e5ab0836]
+- “railway undertaking licence” means a licence, granted by the[^key-209958c9bca976faac0b531350a62074] ORR to a railway undertaking pursuant to these Regulations, which authorises the undertaking to provide such train services as may be specified in the licence;
+- “**SNRP**” means a statement of national regulatory provisions, issued pursuant to regulation 10; and
+- “**train service**” means a service for the transport of goods or passengers (or both) by rail.
+
+(2)[^key-416acc1102194c1752b6a3bad865e673] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 3. Repeals and revocations, and consequential amendments
+
+Schedule 1 (amendments, repeals and revocations) shall have effect.
+
+### 4. Scope
+
+(1) Subject to paragraph (2), these Regulations apply in relation to the licensing of railway undertakings which provide train services in Great Britain[^key-e00bda5874d0987ff9dfcf7f0e87321e] [^key-980f94477d41c19f10e0c558d1880436]...
+
+(2) These Regulations do not apply in relation to a railway undertaking whose activity is limited to any of the following—
+
+- (a) operating rail passenger services on local and regional stand-alone railway infrastructure;
+- (b) operating urban or suburban rail passenger services;
+- (c) the provision of regional rail freight services [^key-3ba768ed3f0e20534bdb00ce564dda9f]...;
+- (d) carrying out freight operations on privately owned railway infrastructure that exists solely for use by the infrastructure owner for its own freight operations; or
+- (e) providing shuttle services for road vehicles through the Channel Tunnel.
+
+(3)[^key-0cb4b291794d2a9198bcf3e36e17394c] For the purposes of paragraph (2)—
+
+- (a) “urban or suburban rail passenger services” means transport services whose principal purpose is to meet the passenger transport needs of an urban centre or conurbation, [^key-ab24598259a42d1aeb52ba345f2f7e4d]... together with transport needs between such a centre or conurbation and surrounding areas; and
+- (b) “regional rail freight services” means transport services whose principal purpose is to meet the rail freight transport needs of a region[^key-5f8553ba6319727c6946362af63027a0]...
+
+## PART 2 — Railway Undertaking LICENCES[^key-9b0be44b4617688cb381c698bae68a8b]
+
+### 5. Prohibition of unlicensed provision of services
+
+(1) Subject to paragraph (1A),[^key-85f6750dfa69edacc2db559b08e4c0d4] where a person is a railway undertaking to which these Regulations apply, that person shall not provide a train service in Great Britain unless he is authorised to do so by a railway undertaking[^key-84f609a84152cfd2afa716f5df6eaa82] licence which is appropriate for that train service, and any person who provides such a service without such a licence shall be guilty of an offence.
+
+(1A)[^key-f052360bcc956a60c8fa32f9fbdbb261] A person that is a railway undertaking to which these Regulations apply may provide a Channel Tunnel service if the person holds a European licence that would be appropriate for that service if the United Kingdom were an EEA state.
+
+(2) Any person who is guilty of an offence under this regulation shall be liable—
+
+- (a) on summary conviction, to a fine not exceeding the statutory maximum;
+- (b) on conviction on indictment, to a fine.
+
+(3) No proceedings shall be instituted in England and Wales in respect of an offence under this regulation except by or on behalf of the ORR.
+
+(4)[^key-eb32382b7d4dd527888e2e64f225ecef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 6. Appointment of licensing authority and grant of railway undertaking licences[^key-72c1228fb5874581dc5941ff8bbb911d]
+
+(1) The ORR is [^key-69c137b8d2149d80bac60bd895492938]... the body responsible for granting railway undertaking[^key-d3a3c37e0d9af0cd6d61bfdab567bc2c] licences.
+
+(2) The ORR shall determine and publish on its website the procedures for the granting of railway undertaking[^key-aa1afce19ec0c4e495f795ba3736a77d] licences [^key-c65eae8785222d39f8a2601bae2eb5b9]...
+
+(3) Subject to and in accordance with these Regulations, the ORR shall grant a railway undertaking[^key-028c0485441e5e6e08c4df9f62cb160d] licence to a railway undertaking if that undertaking—
+
+- (a)[^key-05a56928366067e82d7b489de5165445] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) makes an application to the ORR in accordance with the published procedures.
+
+(4) A railway undertaking[^key-ddbb87489be67d9a2548faceda0406f4] licence may authorise the provision of train services generally or be restricted to particular types of service specified in the licence.
+
+(4A)[^key-10af5dfe35768e3d81ad601050d48491] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5) An applicant shall submit with his application such application fee as the ORR may reasonably require and such information, specified in the published procedures referred to in paragraph (3)(b), as the ORR reasonably requires in order to be satisfied that the applicant satisfies the requirements referred to in Schedule 2.
+
+(6) At any time after submitting the application the applicant shall submit such further information as the ORR may reasonably require in connection with the application.
+
+(7) The ORR shall grant a railway undertaking[^key-2d41665db661f5ba1f48a36d95736d5c] licence if, and only if, it is satisfied before the start of the applicant's activities that the applicant will be able at any time to satisfy the requirements referred to in Schedule 2 as to good repute, financial fitness, professional competence and insurance cover for civil liabilities.
+
+(8) An application for a railway undertaking licence shall be determined by the ORR as soon as possible and in any event within three months of receipt of all the information referred to in paragraphs (5) and (6).
+
+(9) In respect of each application for a railway undertaking licence the ORR shall give notice stating—
+
+- (a) that the applicant has made an application for a railway undertaking license;
+- (b) the name of the applicant and the address of its registered or principal office; and
+- (c) a summary of the activities which the applicant wishes to carry out pursuant to the railway undertaking licence.
+
+(10) A notice under paragraph (9) shall be given by publishing the notice in such manner as the ORR considers appropriate for bringing it to the attention of persons likely to be affected by the grant of the railway undertaking licence.
+
+(11) The ORR shall without delay[^key-9976d065e5084e6b152bfb09385f8a99] inform the applicant of its decision and, where it refuses to grant a railway undertaking licence, the refusal shall state the reasons for its decision.
+
+(12) When the ORR grants a railway undertaking licence[^key-753ebb2c52a156c971c785b227830855] in accordance with this regulation it shall forthwith inform the Secretary of State[^key-d34c04550658c51509a1e3e07fe97a78] of the grant.
+
+(13) Any sums received by the ORR under this regulation shall be paid into the Consolidated Fund.
+
+(14) Schedule 2 (qualifications for railway undertaking[^key-9452bcc4cf04a8cdcfe335d099f83ea1] licence) shall have effect.
+
+### 7. Validity of railway undertaking licences[^key-90e265b3d33c89c52b7c4312af897dce]
+
+(1) A railway undertaking[^key-2309f6dcd527f14c62fd8d1759409752] licence shall, unless previously revoked or surrendered in accordance with any provision in these Regulations or the licence, continue in force as long as the ORR is satisfied that the railway undertaking concerned continues—
+
+- (a) to satisfy the requirements referred to in Schedule 2 as to good repute, financial fitness, professional competence and insurance cover for civil liabilities, and
+- (b) to submit the licence to the ORR for review or approval when so required under regulation 8.
+
+(2) A railway undertaking[^key-de3e483d4cc0adc128c0c8bf563f1480] licence may incorporate specific provisions governing the suspension or revocation of the licence.
+
+### 8. Monitoring, suspension and revocation of railway undertaking licences[^key-76bd1e1d3da6e1b166d7c6730bd44d17]
+
+(1) [^key-fec35ea3344e43bc00c91f36e305ee62]... This regulation applies to a railway undertaking to which a railway undertaking[^key-055baca6f01b344c4d66080b2d4b3638] licence has been granted by the ORR.
+
+(2)[^key-5157dde83eed8c6ba256d180ea707f18] The ORR shall take such steps as are necessary to enable it to determine whether or not a railway undertaking complies with a requirement referred to in Schedule 2—
+
+- (a) at regular intervals of at least every 5 years, or
+- (b) at any time the ORR considers that there is serious doubt whether the railway undertaking complies with the requirement.
+
+(3) If, having taken the steps referred to in paragraph (2), the ORR is satisfied that a railway undertaking does not comply with any such requirement, it shall revoke the railway undertaking[^key-491cdc20a7a1be272c0d646637559f70] licence held by the railway undertaking or suspend it.
+
+(4) The ORR shall revoke a railway undertaking[^key-8dd5b911f45a6a096eff0f83d6b273ee] licence if—
+
+- (a) proceedings have been commenced for the winding up of a railway undertaking on the grounds that the undertaking is unable to pay its debts, or
+- (b) an application for a railway administration order has been made in relation to the railway undertaking under section 60 of the 1993 Act on the grounds that the undertaking is or is likely to be unable to pay its debts,
+
+and the ORR is satisfied that there is no realistic prospect of satisfactory financial restructuring of the undertaking within a reasonable period of time.
+
+(5)[^key-2b677a72cf69f0098aa8f48050c020e3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(6) Where the ORR has suspended or revoked a railway undertaking[^key-99e2ce61a4bc205141a9add5ee518e0d] licence solely on the grounds of the non-compliance by the railway undertaking with the requirements of financial fitness specified in Schedule 2, the ORR may grant to the undertaking a temporary railway undertaking licence pending the re-organisation of the railway undertaking.
+
+(7) A temporary railway undertaking licence under paragraph (6) shall not be granted—
+
+- (a) where the ORR considers that safety would be jeopardised, or
+- (b) for a period exceeding six months.
+
+(8) Where a railway undertaking to which a railway undertaking licence has been granted has either ceased the operations to which the licence relates for a continuous period of six months or, subject to paragraph (9), has not commenced such operations within six months of the date of such grant, then the ORR may either require the railway undertaking to resubmit its licence to the ORR for approval or suspend the licence.
+
+(9) When making an application for a railway undertaking licence, or where the ORR has required a railway undertaking to resubmit its railway undertaking licence in pursuance of paragraph (8) on the grounds that the railway undertaking has not commenced such operations, the railway undertaking shall be entitled to request that a period longer than six months be granted in which it can commence operations, taking into account the specific nature of the services to be provided.
+
+(10) In the event of a change affecting the legal situation of a railway undertaking, in particular following a change in the control or ownership of the railway undertaking as a result of a merger with or take-over by another undertaking, the ORR may require the railway undertaking to submit the railway undertaking licence to the ORR for approval.
+
+(11) Where a railway undertaking licence is submitted for approval pursuant to paragraph (10), the railway undertaking may continue operations whilst its licence is under review unless the ORR decides that safety is jeopardised by the change referred to in paragraph (10).
+
+(12) If the ORR decides that safety is jeopardised by that change, it shall notify the railway undertaking of its decision and of the grounds for it.
+
+(13) When a railway undertaking intends significantly to change or extend its activities from those in respect of which a railway undertaking[^key-6ece0330d96e88076a56d6ac54573424] licence was granted to it, the railway undertaking shall submit its licence to the ORR for review.
+
+(14) When the ORR amends, suspends or revokes a railway undertaking licence[^key-df1301d3f73e607ddc5d66b426725f06] it shall forthwith inform the[^key-da243604569c68748bd9a0b7a948874b] Secretary of State[^key-364bf9e5122dd719cc15a277b05a6c8e] of such amendment, suspension or revocation.
+
+### 8A. Information sharing by the ORR[^key-3f84b3c9396729873f49e55dac56ea4e]
+
+(1) Where the ORR considers that there is serious doubt whether a railway undertaking which holds a European licence and is operating a Channel Tunnel service in reliance on that licence complies with any requirement of the 1995 Directive or Chapter III of the 2012 Directive, it must so notify the French licensing authority.
+
+(2) The ORR must without delay provide information to the French licensing authority in relation to any relevant railway undertaking licence and the railway undertaking to which that licence has been granted—
+
+- (a) on request by the French licensing authority on it notifying the ORR of any concerns or doubts in relation to the validity of that licence;
+- (b) if the ORR takes steps in accordance with regulation 8(2)(b) to determine whether or not the railway undertaking to which that licence has been granted complies with a requirement referred to in Schedule 2;
+- (c) if the ORR requires that railway undertaking to submit or resubmit its licence for approval in accordance with regulation 8; or
+- (d) if the ORR suspends or revokes that licence.
+
+(3) In this regulation “a relevant railway undertaking licence” means a railway undertaking licence in reliance upon which a railway undertaking provides a Channel Tunnel service in France.
+
+## PART 3 — STATEMENTS OF NATIONAL REGULATORY PROVISIONS
+
+### 9. Prohibition on operating trains without a statement of national regulatory provisions
+
+(1) Subject to paragraph (4A), where[^key-dbcee7da01297b1003b90ae0da0baab7] a person is a railway undertaking to which these Regulations apply, that person may not provide train services in Great Britain unless (in addition to being authorised by a railway undertaking[^key-7c105a8ad9ba09e76b5f17e686caf3b3] licence) he holds a valid statement of national regulatory provisions (“SNRP”).
+
+(2) Any person who provides such services without holding such a statement shall be guilty of an offence.
+
+(3) Any person who is guilty of an offence under this regulation shall be liable—
+
+- (a) on summary conviction, to a fine not exceeding the statutory maximum, or
+- (b) on conviction on indictment, to a fine.
+
+(4) No proceedings shall be instituted in England or Wales in respect of an offence under this regulation except by or on behalf of the ORR.
+
+(4A)[^key-401f86e3117f9caa4e86287c721bb293] Paragraphs (1) to (4) do not apply where that person—
+
+- (a) holds a European licence but not a railway undertaking licence; and
+- (b) provides a Channel Tunnel service.
+
+(5)[^key-4a82ee9c621b2c6c82e71e9ad5db54a6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 10. Statements of national regulatory provisions (“SNRPs”)
+
+(1) Upon application being made, the ORR shall issue a SNRP to a holder of a valid railway undertaking[^key-aef68bbd468df64cd1b0fd9156480470] licence who desires to provide train services in Great Britain.
+
+(2) Any application for a SNRP—
+
+- (a) shall be made to the ORR and in such form and manner as the ORR may from time to time determine and publish, and
+- (b) shall be accompanied by a copy of the railway undertaking[^key-3f6f1976d1c864fa71b896226e843a48] licence, if already held.
+
+(3) A SNRP shall continue in force for such period as may be specified in or determined by or under the SNRP.
+
+### 11. Conditions of SNRPs
+
+(1) Subject to paragraph (4), a SNRP shall include one or more conditions (whether or not relating to the activities for which the applicant for the SNRP requires a railway undertaking[^key-47f78f35b918b6e7f3109b896ae4a982] licence) as appear to the ORR to be requisite or expedient having regard to the duties imposed on it by section 4 of the 1993 Act; and in this context, the references in that section to the functions assigned or transferred to the ORR under or by virtue of Part 1 of the 1993 Act shall have effect as if they were references to the functions conferred on the ORR under or by virtue of this Part of these Regulations.
+
+(2) Subject to paragraph (4), a SNRP may include conditions requiring the rendering to the ORR of a payment on the grant of the SNRP or payments during the currency of the SNRP, or both, of such amount or amounts as may be determined by or under the SNRP.
+
+(3) Without prejudice to the generality of paragraph (1), conditions included in a SNRP by virtue of paragraph (1) may impose any of the following requirements—
+
+- (a) specific technical and operational requirements for rail services;
+- (b) safety requirements applying to staff, rolling stock and the internal organisation of the undertaking;
+- (c) provisions on health, safety, social conditions and the rights of workers and consumers;
+- (d) requirements applying to all undertakings in the relevant railway sector designed to offer benefits or protection to consumers.
+
+(4) A condition may not—
+
+- (a)[^key-8be24948f271cde1a3230fcbfa61c80f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) be applied in a discriminatory manner.
+
+(5) Any sums received by the ORR in consequence of the provisions of any condition of a SNRP shall be paid into the Consolidated Fund.
+
+### 12. Referral for Commission's opinion[^key-5fb3836512b8eabc39de9879e085a502]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 13. Modification of SNRPs by consent
+
+(1) Subject to regulation 11 and to the following provisions of this regulation, the ORR may modify the conditions of a SNRP if the SNRP holder consents to the modifications.
+
+(2) Before making modifications under this regulation, the ORR shall give notice—
+
+- (a) stating that it proposes to make the modifications and setting out their effect,
+- (b) stating the reasons why it proposes to make the modifications, and
+- (c) specifying the period (not being less than 28 days from the date of publication of the notice) within which representations or objections with respect to the proposed modifications may be made,
+
+and shall, before making the modifications, consider any representations or objections which are duly made and not withdrawn.
+
+(3) A notice under paragraph (2) shall be given—
+
+- (a) by publishing the notice in such manner as the ORR considers appropriate for the purpose of bringing the notice to the attention of persons likely to be affected by the making of the modifications; and
+- (b) by serving a copy of the notice on the SNRP holder.
+
+### 14. Application and modification of statutory provisions in relation to SNRPs and SNRP holders
+
+Schedule 3 (application and modification of statutory provisions in relation to SNRPs and SNRP holders) shall have effect for the purpose of applying certain enactments to SNRPs and SNRP holders.
+
+## PART 4 — MISCELLANEOUS
+
+### 15. Making of false statements etc
+
+(1) If any person, in giving any information or making any application under or for the purposes of any provision of these Regulations, makes any statement which he knows to be false in a material particular, or recklessly makes any statement which is false in a material particular, he shall be guilty of an offence and liable—
+
+- (a) on summary conviction, to a fine not exceeding the statutory maximum;
+- (b) on conviction on indictment, to a fine.
+
+(2) No proceedings shall be instituted in England or Wales in respect of an offence under this regulation except by or with the consent of the Secretary of State or the Director of Public Prosecutions.
+
+### 16. Offences by bodies corporate and Scottish partnerships
+
+(1) Where an offence under these Regulations has been committed by a body corporate and it is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, any director, manager, secretary or other similar officer of the body corporate or any person who was purporting to act in any such capacity, he as well as the body corporate shall be guilty of that offence and be liable to be proceeded against and punished accordingly.
+
+(2) Where the affairs of a body corporate are managed by its members, paragraph (1) shall apply in relation to the acts and defaults of a member in connection with his functions of management as if he were a director of the body corporate.
+
+(3) Where a Scottish partnership is guilty of an offence under these Regulations in Scotland and that offence is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, a partner, he as well as the partnership shall be guilty of that offence and shall be liable to be proceeded against and punished accordingly.
+
+### 17. General duties of the Rail Passengers' Council
+
+(1) Subsection (5) of section 76 of the 1993 Act [^c13513471] (general duties of the Passengers’ Council[^key-860724d1e21879b47f120d42bd855f04]) has effect in relation to holders of railway undertaking[^key-6a4bd0b7ee23a98c81cb9d471d04e678] licences and to SNRPs as if—
+
+- (a) the reference to the holder of a passenger licence included a reference to the holder of a railway undertaking licence which authorises the carriage of passengers by railway;
+- (b) the reference to any condition of the licence included a reference to any condition of a SNRP held by the holder of the railway undertaking licence;
+- (c) the reference to the Secretary of State, in the second and third places where it occurs, included a reference to the ORR; and
+- (d) the reference to the Secretary of State exercising such of his powers as he considers appropriate included a reference to the ORR exercising such of its powers as it considers appropriate.
+
+(2)[^key-1951f9919d2d044d07e3af378209b178] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 18. Restrictions on disclosure of information
+
+Section 145 of the 1993 Act (restriction on disclosure of information) shall have effect in relation to information which has been obtained under or by virtue of any provision of these Regulations and which relates to the affairs of any individual or to any particular business as it has effect in relation to such information obtained under or by virtue of any of the provisions of that Act.
+
+### 19. Duties of the London Transport Users' Committee
+
+(1) Subsection (3) of section 252C of the Greater London Authority Act 1999 [^c13513481] (duties of the London Transport Users' Committee) has effect in relation to holders of railway undertaking[^key-f8a9f595fa7ee2695c98d54a8515ab6d] licences and to SNRPs as if—
+
+- (a) the reference to the holder of a licence under Part 1 of the Railways Act 1993 contravening a condition of the licence included a reference to the holder of a railway undertaking licence contravening a condition of a SNRP held by him;
+- (b) the reference to the Secretary of State included a reference to the ORR;
+- (c) the reference to his referring the matter to the Committee and their referring it back to him included a reference to the ORR's referring the matter to the Committee and their referring it back to the ORR; and
+- (d) the reference to his exercising such of his powers as he considers appropriate included a reference to the ORR's exercising such of its powers as it considers appropriate.
+
+(2)[^key-3f3599fa63f4d6e0ee82709131a07321] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 20. Transitional provisions relating to existing licences and licence exemptions
+
+Schedule 4 (transitional provisions relating to existing licences and licence exemptions) shall have effect.
+
+### 21. Review[^key-f0ee3b48a5d058392125ba6cfdf7d13b]
+
+(1) The Secretary of State must from time to time—
+
+- (a) carry out a review of these Regulations;
+- (b) set out the conclusions of the review in a report; and
+- (c) publish the report.
+
+(2)[^key-145a9d327c6562dca22ce13d606820cf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) The report must in particular—
+
+- (a) set out the objectives intended to be achieved by the regulatory system established by these Regulations;
+- (b) assess the extent to which those objectives are achieved; and
+- (c) assess whether those objectives remain appropriate and, if so, the extent to which they could be achieved with a system that imposes less regulation.
+
+(4) The first report under this regulation must be published before the end of the period of five years beginning with the day on which the Railways (Access, Management and Licensing of Railway Undertakings) Regulations 2016 come into force.
+
+(5) Reports under this regulation are afterwards to be published at intervals not exceeding five years.
+
+Signed by authority of the Secretary of State for Transport
+
+Derek Twigg
+
+Parliamentary Under Secretary of State
+
+Department for Transport
+
+## SCHEDULE 1 — AMENDMENTS, REPEALS AND REVOCATIONS
+
+Regulation 3
+
+### PART 1 — AMENDMENTS AND REPEALS OF PRIMARY LEGISLATION
+
+#### 1. The Railway Fires Act 1905
+
+In section 4 of the Railway Fires Act 1905 [^c13513491] (definitions and application)—
+
+- (a) after the definition of “agricultural crops”, insert—
+
+  > The expression “**EEA State**” means a member State, Norway, Iceland or Liechtenstein;
+
+  ; and
+- (b) in the definition of “railway company”, at the end of paragraph (b) add—
+
+  > or
+  >
+  > - (c) who holds a European licence granted pursuant to a provision contained in any instrument made for the purpose of implementing Council Directive [1995/18/EC](https://www.legislation.gov.uk/european/directive/1995/0018) dated 19th June 1995 on the licensing of railway undertakings, as amended by Directive [2001/13/EC](https://www.legislation.gov.uk/european/directive/2001/0013) dated 26th February 2001 and Directive [2004/49/EC](https://www.legislation.gov.uk/european/directive/2004/0049) dated 29th April 2004, both of the European Parliament and of the Council, or pursuant to any action taken by an EEA State for that purpose;
+
+  .
+
+#### 2. The Insolvency Act 1986
+
+In Schedule 2A to the Insolvency Act 1986 [^c13513501] (exceptions to prohibition on appointment of administrative receiver: supplementary provisions)—
+
+- (a) at the end of paragraph 10(1)(l), omit “or”;
+- (b) at the end of paragraph 10(1)(m), add—
+
+  > or
+  >
+  > - (n) in reliance on a European licence granted pursuant to a provision contained in any instrument made for the purpose of implementing Council Directive [1995/18/EC](https://www.legislation.gov.uk/european/directive/1995/0018) dated 19th June 1995 on the licensing of railway undertakings, as amended by Directive [2001/13/EC](https://www.legislation.gov.uk/european/directive/2001/0013) dated 26th February 2001 and Directive [2004/49/EC](https://www.legislation.gov.uk/european/directive/2004/0049) dated 29th April 2004, both of the European Parliament and of the Council, or pursuant to any action taken by an EEA State for that purpose.
+
+  ; and
+- (c) after paragraph 10(2A), add—
+
+  > (2B) In sub-paragraph (1)(n), an “**EEA State**” means a member State, Norway, Iceland or Liechtenstein.
+
+  .
+
+#### 3. The Railways Act 1993
+
+(1) The 1993 Act [^c13513511] shall be amended in accordance with the following provisions of this paragraph.
+
+(2) In section 6 (prohibition on unauthorised operators of railway assets), in subsection (1A) for “international services” substitute “ services for which a European licence is required ”.
+
+(3) In subsection (2) of that section—
+
+- (a) for the definition of “international licence” substitute—
+
+  > “**European licence**” means a licence granted pursuant to a provision contained in any instrument made for the purpose of implementing Council Directive [1995/18/EC](https://www.legislation.gov.uk/european/directive/1995/0018) dated 19th June 1995 on the licensing of railway undertakings, as amended by Directive [2001/13/EC](https://www.legislation.gov.uk/european/directive/2001/0013) dated 26th February 2001 and Directive [2004/49/EC](https://www.legislation.gov.uk/european/directive/2004/0049) dated 29th April 2004, both of the European Parliament and of the Council, or pursuant to any action taken by an EEA State for that purpose;
+
+  and
+- (b) omit the definition of “international services”.
+
+(4) For subsection (2A) of that section, substitute—
+
+> (2A) In subsection (2) above, “**EEA State**” means a member State, Norway, Iceland or Liechtenstein.
+
+.
+
+(5) In section 59 (railway administration orders), in subsection (6), after “passenger licence” in both places insert “ or a European licence which authorises the carriage of passengers by railway (or both) ”.
+
+(6) In section 72 (keeping of the register by the ORR), in subsection (2)–
+
+- (a) in paragraph (a), after “in relation to licences”, insert “ and European licences ”;
+- (b) in paragraph (a)(i), for “and every licence exemption”, substitute “ , every licence exemption and every European licence ”;
+- (c) in paragraph (a)(iii), for “and every” substitute “ , every ”, and at the end, add “ , and every modification or revocation of a European licence ”;
+- (d) at the end of paragraph (a)(v), add “ or European licence ”; and
+- (e) at the end of paragraph (a), after “surrender of a licence” add “ or European licence ”.
+
+(7) In section 80 (duty to furnish information on request)—
+
+- (a) after subsection (1), insert—
+
+  > (1A) Holders of European licences shall be under a duty to furnish to the Office of Rail Regulation in such form and manner as it may by notice request such information as it may so request, being information which the Office of Rail Regulation considers necessary for the purpose of facilitating the performance of any of its functions under any instrument made for the purpose of implementing Council Directive [95/18/EC](https://www.legislation.gov.uk/european/directive/1995/0018) dated 19th June 1995 on the licensing of railway undertakings, as amended by Directive [2001/13/EC](https://www.legislation.gov.uk/european/directive/2001/0013) dated 26th February 2001 and Directive [2004/49/EC](https://www.legislation.gov.uk/european/directive/2004/0049) dated 29th April 2004, both of the European Parliament and of the Council.
+
+  ;
+- (b) in subsection (2), after “subsection (1)” insert “ or (1A) ”;
+- (c) in subsection (3), for “If any such request” substitute “ If a request under subsection (1) above ”;
+- (d) after subsection (3), add—
+
+  > (3A) If a request under subsection (1A) above is not complied with, the Office of Rail Regulation may serve a notice under subsection (4) below on the person from whom the information was requested under subsection (1A) above.
+
+  ;
+- (e) at the end of subsection (4), add— “ In its application to a notice served by virtue of subsection (3A) above this subsection has effect with the omission of the references to the Secretary of State and the Scottish Ministers. ”; and
+- (f) in subsection (8), after “Regulation”, insert “ in the case of a request under subsection (1) above, or the Office of Rail Regulation in the case of a request under subsection (1A) above, ”.
+
+(8) In section 83 (interpretation), in subsection (1)—
+
+- (a) before the definition of “exempt facility”, insert—
+
+  > “**European licence**” has the meaning given by section 6(2) above;
+
+  ; and
+- (b) omit the definition of “international licence”.
+
+(9) In section 145 (general restrictions on disclosure of information), before subsection (2)(h), insert—
+
+> - (ga) for the purpose of facilitating the carrying out by the Office of Rail Regulation of any of its functions under any instrument made for the purpose of implementing Council Directive [95/18/EC](https://www.legislation.gov.uk/european/directive/1995/0018) dated 19th June 1995 on the licensing of railway undertakings, as amended by Directive [2001/13/EC](https://www.legislation.gov.uk/european/directive/2001/0013) dated 26th February 2001 and Directive [2004/49/EC](https://www.legislation.gov.uk/european/directive/2004/0049) dated 29th April 2004, both of the European Parliament and of the Council;
+
+.
+
+(10) In Schedule 7 (transfer of relevant activities in connection with railway administration orders)—
+
+- (a) in paragraph 1(2), in the definition of “other appointee”, after “section 8 of this Act” insert “ or of a European licence ”;
+- (b) after paragraph 4(2), add—
+
+  > (3) Sub-paragraphs (1) and (2) have effect in relation to a European licence as they have effect in relation to a licence.
+
+  .
+
+#### 4. The Civil Contingencies Act 2004
+
+In Schedule 1 to the Civil Contingencies Act 2004 [^c13513521] (category 1 and 2 responders)—
+
+- (a) for paragraph 24, substitute—
+
+  > **24.** (1) A person who provides services in connection with railways in Great Britain and who holds a European licence granted pursuant to—
+  >
+  > - (a) a provision contained in any instrument made for the purpose of implementing Council Directive [1995/18/EC](https://www.legislation.gov.uk/european/directive/1995/0018) dated 19th June 1995 on the licensing of railway undertakings, as amended by Directive [2001/13/EC](https://www.legislation.gov.uk/european/directive/2001/0013) dated 26th February 2001 and Directive [2004/49/EC](https://www.legislation.gov.uk/european/directive/2004/0049) dated 29th April 2004, both of the European Parliament and of the Council, or
+  > - (b) any action taken by an EEA State for that purpose.
+  >
+  > (2) In this paragraph, “**EEA State**” means a member State, Norway, Iceland or Liechtenstein.
+
+  ; and
+- (b) for paragraph 35, substitute—
+
+  > **35.** (1) A person who provides services in connection with railways, in so far as such services are provided in Scotland, and who holds a European licence granted pursuant to—
+  >
+  > - (a) a provision contained in any instrument made for the purpose of implementing Council Directive [1995/18/EC](https://www.legislation.gov.uk/european/directive/1995/0018) dated 19th June 1995 on the licensing of railway undertakings, as amended by Directive [2001/13/EC](https://www.legislation.gov.uk/european/directive/2001/0013) dated 26th February 2001 and Directive [2004/49/EC](https://www.legislation.gov.uk/european/directive/2004/0049) dated 29th April 2004, both of the European Parliament and of the Council, or
+  > - (b) any action taken by an EEA State for that purpose.
+  >
+  > (2) In this paragraph, “**EEA State**” has the same meaning as in paragraph 24.
+
+  .
+
+#### 5. The Railways Act 2005
+
+In section 46 of the Railways Act 2005 [^c13513531] (bye-laws)—
+
+- (a) at the end of subsection (7)(a), omit “or”; and
+- (b) at the end of subsection (7)(b), add—
+
+  > or
+  >
+  > - (c) authorised to provide train services by a European licence.
+
+  .
+
+**6.** In section 59 of that Act (consequential amendments, transitional provisions and repeals), after subsection (5) add—
+
+> (5A) Subsections (2) to (5) have effect in relation to a European licence and a holder of a European licence as they have effect in relation to a licence and a licence holder respectively.
+
+.
+
+### PART 2 — AMENDMENTS AND REVOCATIONS OF SECONDARY LEGISLATION
+
+#### 7. The Town and Country Planning (Control of Advertising) Regulations 1992
+
+*Extent: E+W+S+N.I.*
+
+(1) In the Town and Country Planning (Control of Advertising) Regulations 1992 [^c13513541], regulation 2(1) (interpretation) shall be amended as follows.
+
+(2) After the definition of “discontinuance notice”, insert—
+
+> “**EEA State**” means a member State, Norway, Iceland or Liechtenstein;
+
+.
+
+(3) In the definition of “statutory undertaker”, after “Railways Act 1993,” insert “ any person who holds a European licence granted pursuant to the Railway (Licensing of Railway Undertakings) Regulations 2005 [^c13513551] or pursuant to any action taken by an EEA State for the purpose of implementing Council Directive [1995/18/EC](https://www.legislation.gov.uk/european/directive/1995/0018) dated 19th June 1995 on the licensing of railway undertakings [^c13513561], as amended by Directive [2001/13/EC](https://www.legislation.gov.uk/european/directive/2001/0013) dated 26th February 2001 [^c13513571] and Directive [2004/49/EC](https://www.legislation.gov.uk/european/directive/2004/0049) dated 29th April 2004 [^c13513581], both of the European Parliament and of the Council; ”.
+
+#### 8. The Railways (Amendment) Regulations 1998
+
+*Extent: E+W+S+N.I.*
+
+The Railways (Amendment) Regulations 1998 [^c13513591] are revoked.
+
+#### 9. The London Underground (East London Line Extension) (No. 2) Order 2001
+
+*Extent: E+W+S+N.I.*
+
+(1) In the London Underground (East London Line Extension) (No. 2) Order 2001 [^c13513601], Schedule 11 (protection for Railtrack) shall be amended as follows.
+
+(2) In paragraph 1(2)—
+
+- (a) after the definition of “designated lands”, insert—
+
+  > “**EEA State**” means a member State, Norway, Iceland or Liechtenstein;
+
+  ; and
+- (b) in the definition of “train operator”, at the end add “ or any person who holds a European licence granted pursuant to the Railway (Licensing of Railway Undertakings) Regulations 2005 [^c13513611] or pursuant to any action taken by an EEA State for the purpose of implementing Council Directive [1995/18/EC](https://www.legislation.gov.uk/european/directive/1995/0018) dated 19th June 1995 on the licensing of railway undertakings [^c13513621], as amended by Directive [2001/13/EC](https://www.legislation.gov.uk/european/directive/2001/0013) dated 26th February 2001 [^c13513631] and Directive [2004/49/EC](https://www.legislation.gov.uk/european/directive/2004/0049) dated 29th April 2004 [^c13513641], both of the European Parliament and of the Council; ”.
+
+#### 10. The Docklands Light Railway (Silvertown and London City Airport Extension) Order 2002
+
+*Extent: E+W+S+N.I.*
+
+(1) In the Docklands Light Railway (Silvertown and London City Airport Extension) Order 2002 [^c13513651], Schedule 11 (protection of railway undertakers) shall be amended as follows.
+
+(2) In paragraph 13(6)—
+
+- (a) before the definition of “the relevant costs”, insert—
+
+  > “**EEA State**” means a member State, Norway, Iceland or Liechtenstein;
+
+  ; and
+- (b) in the definition of “train operator”, at the end add “ or any person who holds a European licence granted pursuant to the Railway (Licensing of Railway Undertakings) Regulations 2005 [^c13513661] or pursuant to any action taken by an EEA State for the purpose of implementing Council Directive [1995/18/EC](https://www.legislation.gov.uk/european/directive/1995/0018) dated 19th June 1995 on the licensing of railway undertakings [^c13513671], as amended by Directive [2001/13/EC](https://www.legislation.gov.uk/european/directive/2001/0013) dated 26th February 2001 [^c13513681] and Directive [2004/49/EC](https://www.legislation.gov.uk/european/directive/2004/0049) dated 29th April 2004 [^c13513691], both of the European Parliament and of the Council; ”.
+
+#### 11. The Docklands Light Railway (Woolwich Arsenal Extension) Order 2004
+
+*Extent: E+W+S+N.I.*
+
+(1) In the Docklands Light Railway (Woolwich Arsenal Extension) Order 2004 [^c13513701], Schedule 13 (protection of railway interests) shall be amended as follows.
+
+(2) In paragraph 15(6)—
+
+- (a) before the definition of “the relevant costs”, insert—
+
+  > “**EEA State**” means a member State, Norway, Iceland or Liechtenstein;
+
+  ; and
+- (b) in the definition of “train operator”, at the end add “ or any person who holds a European licence granted pursuant to the Railway (Licensing of Railway Undertakings) Regulations 2005 [^c13513711] or pursuant to any action taken by an EEA State for the purpose of implementing Council Directive [1995/18/EC](https://www.legislation.gov.uk/european/directive/1995/0018) dated 19th June 1995 on the licensing of railway undertakings [^c13513721], as amended by Directive [2001/13/EC](https://www.legislation.gov.uk/european/directive/2001/0013) dated 26th February 2001 [^c13513731] and Directive [2004/49/EC](https://www.legislation.gov.uk/european/directive/2004/0049) dated 29th April 2004 [^c13513741], both of the European Parliament and of the Council; ”.
+
+#### 12. The British Transport Police (Police Services Agreement) Order 2004
+
+*Extent: E+W+S+N.I.*
+
+(1) In the British Transport Police (Police Services Agreement) Order 2004 [^c13513751], article 2 (requirement to enter into a police services agreement) shall be amended as follows.
+
+(2) At the end of paragraph (1)(b), add “ or who has been granted a European licence pursuant to the Railway (Licensing of Railway Undertakings) Regulations 2005 [^c13513761] or pursuant to any action taken by an EEA State for the purpose of implementing Council Directive [1995/18/EC](https://www.legislation.gov.uk/european/directive/1995/0018) dated 19th June 1995 on the licensing of railway undertakings [^c13513771], as amended by Directive [2001/13/EC](https://www.legislation.gov.uk/european/directive/2001/0013) dated 26th February 2001 [^c13513781] and Directive [2004/49/EC](https://www.legislation.gov.uk/european/directive/2004/0049) dated 29th April 2004 [^c13513791], both of the European Parliament and of the Council, in connection with the railway services in question, ”.
+
+(3) At the end of paragraph (3), insert—
+
+> ; and “**EEA State**” means a member State, Norway, Iceland or Liechtenstein.
+
+.
+
+#### 13. The Central Rating List (Wales) Regulations 2005
+
+*Extent: E+W+S+N.I.*
+
+(1) In the Central Rating List (Wales) Regulations 2005 [^c13513801], regulation 7 (railway hereditaments) shall be amended as follows.
+
+(2) In paragraph (3)—
+
+- (a) before the definition of “excepted hereditament”, insert—
+
+  > “**EEA State**” means a member State, Norway, Iceland or Liechtenstein;
+
+  ; and
+- (b) in the definition of “licence exempt operator” and “licence holder”, after “Railways Act 1993” insert
+
+  > except that
+  >
+  > > licence holder
+  >
+  > also includes a holder of a European licence granted pursuant to the Railway (Licensing of Railway Undertakings) Regulations 2005 [^c13513811] or pursuant to any action taken by an EEA State for the purpose of implementing Council Directive [1995/18/EC](https://www.legislation.gov.uk/european/directive/1995/0018) dated 19th June 1995 on the licensing of railway undertakings [^c13513821], as amended by Directive [2001/13/EC](https://www.legislation.gov.uk/european/directive/2001/0013) dated 26th February 2001 [^c13513831] and Directive [2004/49/EC](https://www.legislation.gov.uk/european/directive/2004/0049) dated 29th April 2004 [^c13513841], both of the European Parliament and of the Council;
+
+  .
+
+#### 14. Central Rating List (England) Regulations 2005
+
+*Extent: E+W+S+N.I.*
+
+(1) In the Central Rating List (England) Regulations 2005 [^c13513851], regulation 6 (railway hereditaments) shall be amended as follows.
+
+(2) In paragraph (4)—
+
+- (a) before the definition of “excepted hereditament”, insert—
+
+  > “**EEA State**” means a member State, Norway, Iceland or Liechtenstein;
+
+  ; and
+- (b) in the definition of “licence exempt operator” and “licence holder”, after “Railways Act 1993” insert “ except that “licence holder” also includes a holder of a European licence granted pursuant to the Railway (Licensing of Railway Undertakings) Regulations 2005 [^c13513861] or pursuant to any action taken by an EEA State for the purpose of implementing Council Directive [1995/18/EC](https://www.legislation.gov.uk/european/directive/1995/0018) dated 19th June 1995 on the licensing of railway undertakings [^c13513871], as amended by Directive [2001/13/EC](https://www.legislation.gov.uk/european/directive/2001/0013) dated 26th February 2001 [^c13513881] and Directive [2004/49/EC](https://www.legislation.gov.uk/european/directive/2004/0049) dated 29th April 2004 [^c13513891], both of the European Parliament and of the Council; ”.
+
+## SCHEDULE 2 — QUALIFICATIONS FOR RAILWAY UNDERTAKING LICENCE[^key-aa2e7daab3be67f6f3cd8d93f1b6493c]
+
+Regulation 6(14)
+
+### 1. Good repute
+
+In determining whether a railway undertaking is of good repute, the ORR shall have regard to all relevant evidence, including any information in its possession as to the previous conduct of any appropriate officer of the undertaking if that conduct appears to it to relate to the undertaking's fitness to hold a railway undertaking[^key-82f2bc388a74d6f5e736ad06ee8af502] licence.
+
+**2.** Without prejudice to the generality of its powers under paragraph 1, the ORR shall not determine that a railway undertaking is of good repute if—
+
+- (a) an order has been made by the court for the winding up of the undertaking or the sequestration of its estate under insolvency legislation or any appropriate officer of the undertaking for the time being has been made[^key-41185d149c35a2f1668cbc197368898a] bankrupt or his estate has been sequestrated under that legislation;
+- (aa)[^key-f67c3926e2ad73666e602c13266a4e7d] any appropriate officer of the undertaking has a debt relief order made in respect of him (under Part 7A of the Insolvency Act 1986);
+- (b) the undertaking or any appropriate officer of the undertaking has been convicted of a serious offence, including in particular an offence contrary to the law relating to commercial transactions, or the law relating to transport; or
+- (c) the undertaking or any appropriate officer of the undertaking has been convicted of a serious offence which is contrary to either of the following laws, or has been convicted repeatedly of offences which are contrary to either of those laws—
+  - (i) social or labour law (including legislation relating to occupational health and safety); or
+  - (ii) in the case of an undertaking seeking to operate cross-border goods transport subject to customs procedures, customs law.
+
+**3.** (1) For the purposes of paragraph 2, a person has been convicted of a serious offence if that offence was committed under the law of any part of the United Kingdom or under the law of a country or territory outside the United Kingdom and if on conviction there was imposed on him for that offence a sentence of imprisonment for a term exceeding three months.
+
+(2) In sub-paragraph (1), the reference to a sentence of imprisonment includes a reference to any form of custodial sentence or order, other than one imposed under the enactments relating to mental health.
+
+**4.** (1) Any reference in paragraph 3 to an offence under the law of any part of the United Kingdom includes a reference to an offence (wherever committed) under section 42 of the Armed Forces Act 2006[^key-df7d9c5a8606c133c33ad23e049b453c].
+
+(2) For the purposes of paragraphs 1 to 3–
+
+- (a) convictions which are spent for the purposes of the Rehabilitation of Offenders Act 1974 [^c13513931] shall be disregarded; and
+- (b) the ORR may also disregard an offence if such time as it thinks proper has elapsed since the date of the conviction.
+
+**5.** In paragraphs 1 and 2 the reference to any appropriate officer of the undertaking is to any director, manager, secretary or similar officer of the undertaking, any other person in charge of the management of the undertaking, or any other person purporting to act in any such capacity.
+
+### 6. Financial fitness
+
+Subject to paragraph 8 an applicant for a railway undertaking[^key-ef7870ee0dc67deaed52e4458f3fd9f4] licence shall be considered to meet the required standard of financial fitness when it can demonstrate that it will be able to meet its actual and potential obligations, established under realistic assumptions, for a period of twelve months.
+
+**7.** For the purpose of demonstrating its financial fitness a railway undertaking shall make available to the ORR the undertaking's annual accounts, or if the undertaking is not able to provide annual accounts then the undertaking's balance sheet, together with details of the following matters (in so far as these cannot be ascertained from the annual accounts or, as the case may be, the balance sheet)—
+
+- (a) the railway undertaking's available funds, including the bank balance, pledged overdraft provisions and loans;
+- (b) the railway undertaking's funds and assets available as security;
+- (c) the railway undertaking's working capital;
+- (d) relevant costs, including the railway undertaking's purchase costs of payments to account for vehicles, land, buildings, installations and rolling stock; [^key-ae6d8af7ba5e4fd53d7a26006d5e69bd]...
+- (e) charges on the railway undertaking's assets ; and[^key-7bb9493b1624d8b02a6c9e8c22ec3e5e]
+- (f) taxes and social security payments.
+
+**8.** The ORR shall not find the railway undertaking to be financially fit if the railway undertaking has considerable or recurrent[^key-05b5282e17d8433d1a603472f3af1b6c] arrears of taxes or social security payments which are owed as a result of the undertaking's activity.
+
+**9.** Without prejudice to regulation 6(6), the ORR may request that the railway undertaking provide to it audit reports or other suitable documents as the ORR considers necessary in relation to the matters listed in paragraph 7(a) to (e) which have been prepared by a body other than the railway undertaking such as a bank, building society, accountant or auditor.
+
+### 10. Professional competence
+
+For the purposes of these Regulations the requirement of professional competence are satisfied by a railway undertaking when the undertaking has or will have a management organisation which possesses the knowledge or experience (or both) necessary to exercise safe and reliable operational control and supervision of the type of operations specified in the licence.
+
+### 11. Insurance Cover
+
+(1) An applicant for a railway undertaking[^key-62bc0c5320973a7f33c196bd5baa4228] licence shall be considered to meet the requirement of insurance cover where, in accordance with the law of the United Kingdom or of any part of the United Kingdom and any relevant international law, the undertaking maintains adequate insurance cover, or has made arrangements having equivalent effect, covering its liabilities in the event of accident to passengers, luggage, freight, mail and third parties.
+
+(1A)[^key-11d5d4313724dbb0a766921920287e1e] In determining whether adequate insurance cover is maintained, the ORR may take into account the specificities and risk-profile of different types of services, in particular of railway operations for cultural or heritage purposes.
+
+(2) In sub-paragraph (1), “**relevant international law**” means any provisions contained in any international agreement or arrangement to which the United Kingdom is a party and which have the force of law in the United Kingdom.
+
+(3) Insurance cover shall be considered to be “**adequate**” for the purposes of paragraph (1) if it has been approved by the ORR.
+
+## SCHEDULE 3 — APPLICATION AND MODIFICATION OF STATUTORY PROVISIONS IN RELATION TO SNRPS AND SNRP HOLDERS
+
+Regulation 14
+
+### PART 1 — APPLICATION AND MODIFICATION OF STATUTORY PROVISIONS
+
+#### 1. Application and modification of statutory provisions to SNRPs and SNRP holders
+
+Subject to the following paragraphs of this Schedule, the following provisions have effect in relation to SNRPs and SNRP holders as they have effect in relation to licences and holders of licences and as if any reference to a licence or a holder of a licence included a reference to a SNRP or a SNRP holder respectively—
+
+- (a) section 27 of the Insolvency Act 1986 [^c13513941] (protection of interests of creditors and members), as that section is applied by paragraph 10 of Part 1 of Schedule 6 to the 1993 Act;
+- (b) sections 13 to 16 of the 1993 Act [^c13513951] (modification references to the Competition Commission and modifications by order);
+- (c) sections 55 to 58 of the 1993 Act [^c13513961] (orders for securing compliance);
+- (d) section 68 of the 1993 Act [^c13513971] (investigatory functions);
+- (e) subsections (1), (2)(a) (other than sub-paragraphs (ii), (iv) and (viii)),( 3), (4), (7), (8) and (11) of section 72 of the 1993 Act [^c13513981] (keeping of register by the ORR);
+- (f) section 168 of the Enterprise Act 2002 [^c13513991] (adverse effects on competition);
+- (g) subsections (2) to (5) of section 59 of the Railways Act 2005 [^c13514001] (consequential amendments, transitional provisions and repeals); and
+- (h) paragraph 24(2) of Schedule 1 to that Act (non publication of statement of policy under section 57B of the 1993 Act).
+
+### PART 2 — OTHER MODIFICATIONS OF STATUTORY PROVISIONS
+
+#### 2. Railway administration orders
+
+Subsection (1B)(b) of section 27 of the Insolvency Act 1986 (protection of interests of creditors and members), as that section is applied by paragraph 10 of Part 1 of Schedule 6 to the 1993 Act, has effect as if the reference to a licence under Part 1 of the Railways Act 1993 included a reference to a SNRP issued pursuant to the Railway (Licensing of Railway Undertakings) Regulations 2005.
+
+#### 3. Modification references to the Competition Commission
+
+In section 13 of the 1993 Act (modification references to the Competition Commission), subsection (1)(a)(i) has effect as if the reference to a railway asset, or railway assets of a class or description, whose operator acts as such by virtue of a licence included a reference to a railway asset which is, or railway assets of a class or description which are, used for the provision of train services in respect of which a SNRP is held.
+
+**4.** In section 15 of that Act (modification following report), subsection (1A) has effect as if the reference to section 15A of that Act included a reference to regulation 11 of the Railway (Licensing of Railway Undertakings) Regulations 2005.
+
+**5.** In section 15B of that Act (making of modifications by Competition Commission), subsection (2) has effect as if at the end there were added “ and shall be bound by paragraph (3) of regulation 11 of the Railway (Licensing of Railway Undertakings) Regulations 2005 as to the requirements which conditions may impose and by paragraph (4) of that regulation ”.
+
+#### 6. Orders for securing compliance
+
+In section 55 of the 1993 Act (orders for securing compliance), subsection (5)(a) has effect as if the reference to section 4 of that Act included a reference to regulation 11 of the Railway (Licensing of Railway Undertakings) Regulations 2005.
+
+#### 7. Keeping of register by the ORR
+
+In section 72 of the 1993 Act (keeping of register by the ORR), subsection (2)(a)(i) has effect as if the reference to every licence exemption were omitted.
+
+#### 8. Enterprise Act 2002: regulated markets
+
+In section 168 of the Enterprise Act 2002 (regulated markets)—
+
+- (a) subsections (3)(h) and (4)(h) have effect as if the reference to a licence granted under section 8 of the Railways Act 1993 (c. 43) included a reference to a SNRP issued pursuant to the Railway (Licensing of Railway Undertakings) Regulations 2005; and
+- (b) subsection (4)(h) has effect as if the reference to section 4 of that Act included a reference to regulation 11 of those Regulations.
+
+#### 9. Amendment of access agreements
+
+In its application in relation to SNRPs or SNRP holders, subsection (1) of section 22C of the 1993 Act [^c13514011] (amendment of access agreements, and supplementary provisions relating to such agreements) has effect as if the reference to the conditions of a licence, in both places where it occurs, were to the conditions of a SNRP.
+
+## SCHEDULE 4 — TRANSITIONAL PROVISIONS RELATING TO EXISTING LICENCES AND LICENCE EXEMPTIONS
+
+Regulation 20
+
+### 1. The relevant date
+
+In this Schedule, “**the relevant date**” means the date of these Regulations coming into force.
+
+### 2. Existing licences granted under the Railways Act 1993
+
+Paragraph 4 applies[^key-f7ca730933f9f6e7aab9479432fcbe94] in relation to any licence granted under Part 1 of the 1993 Act before the relevant date and which is still valid at that date.
+
+**3.**[^key-5fedeb46b2d5d26509c7d746136cb629] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**4.** (1) To the extent that the licence relates to the provision of services to which regulation 9 applies, the licence shall have effect on and after the relevant date and for the purposes of Part 3 of these Regulations as if—
+
+- (a) it were a SNRP issued pursuant to these Regulations by the ORR;
+- (b) any reference in the licence to “licence holder” or “licence” were to “SNRP holder” or “SNRP” respectively;
+- (c) in Part I (Scope) of the licence—
+  - (i) any reference to section 8 of the Railways Act 1993 (as amended) (“**the Act**”), were to regulation 10 of the Railway (Licensing of Railway Undertakings) Regulations 2005 (“**the Regulations**”);
+  - (ii) any reference to authorising the licence holder to be the operator of trains were omitted;
+  - (iii) any reference to the licence being revoked in accordance with the provisions of the Schedule (Terms as to Revocation) to the licence or by notice were a reference to the SNRP being revoked in accordance with the provisions of Part IV of the ORR template headed “Passenger SNRP (Standard)” or Part IV of the ORR template headed “Freight SNRP (Standard)”, as appropriate;
+- (d) for Parts II (Interpretation) and III (Conditions) of and the Schedule (Terms as to Revocation) to the licence, there were substituted Parts II, III and IV of the ORR template headed “Passenger SNRP (Standard)” or Parts II, III or IV of the ORR template headed “Freight SNRP (Standard)”, as appropriate; and
+- (e) the provisions of regulations 10(3) and 11 to 19 applied in relation to the SNRP and the SNRP holder.
+
+(2) The ORR templates referred to in paragraph (1) are the templates with the appropriate headings published by the ORR on 25th October 2005.
+
+(3) Any approval or consent given before the relevant date, in relation to a condition in Part III of the licence shall have effect on and after the relevant date as if given in relation to any equivalent condition in the SNRP.
+
+(4) Where any act has been done before the relevant date in relation to a condition in Part III of the licence or in relation to a term in the Schedule to the licence, nothing in sub-paragraph (1) requires that act to be repeated.
+
+### 5. Existing licences granted pursuant to the Railways Regulations 1998
+
+Paragraph 7 applies[^key-014692ecc7d7537c3abf1dc0fadb40a8] in relation to any licence granted pursuant to the Railways Regulations 1998 [^c13514021] before the relevant date and which is still valid at that date.
+
+**6.**[^key-90874379282151afa7db9ccd2e5f6638] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**7.** (1) The holder of the licence shall be deemed to have been granted a SNRP as at the relevant date, and accordingly to be a SNRP holder for the purposes of Part 3 of these Regulations.
+
+(2) In the case of a holder who provides train services for the transport of passengers, the SNRP shall be in the form of the template published by the ORR on 25th October 2005 and headed “Passenger SNRP (Eurostar)”.
+
+(3) In the case of a holder who provides train services other than for the transport of passengers, the SNRP shall be in the form of the template published by the ORR on 25th October 2005 and headed “Freight SNRP (EWSI)”.
+
+(4) The provisions of regulations 10(3) and 11 to 19 shall apply in relation to the SNRP and the SNRP holder.
+
+### 8. Applications for licences under the Railways Act 1993 or the Railways Regulations 1998[^key-9d06670cddb979f41b0cd60bf77a0fd4]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 9. Existing licence exemptions granted under the Railways Act 1993
+
+Paragraphs 10 to 14 apply in relation to any licence exemption granted under Part 1 of the Railways Act 1993 before the relevant date and which is still valid at that date.
+
+**10.** To the extent that a person is exempted, by virtue of the Strategic Rail Authority (Licence Exemption) Order 2001 [^c13514031], from the requirement to be authorised to provide services to which regulation 5 applies, that person shall be deemed to have been granted on the relevant date—
+
+- (a) a European licence for the purposes of Part 2 of these Regulations; and
+- (b) a SNRP for the purposes of Part 3 of these Regulations.
+
+**11.** The European licence referred to in paragraph 10(a) shall be in the form of the template published by the ORR on 25th October 2005 and headed “European Passenger Licence (Standard)”.
+
+**12.** The SNRP referred to in paragraph 10(b) shall be in the form of the template published by the ORR on 25th October 2005 and headed “Passenger SNRP (Standard)”.
+
+**13.** Regulations 7 and 8 and 15 to 19 shall apply in relation to the European licence and the holder of that licence.
+
+**14.** Regulations 10(3) and 11 to 19 shall apply in relation to the SNRP and the SNRP holder.
+
+*(This note is not part of the Regulations)*
+
+These Regulations implement Council Directive [95/18/EC](https://www.legislation.gov.uk/european/directive/1995/0018) dated 19th June 1995 on the licensing of railway undertakings, as amended by two further Directives (“**the amended 1995 Directive**”). These are Directive [2001/13/EC](https://www.legislation.gov.uk/european/directive/2001/0013) dated 26th February 2001, and Directive [2004/49/EC](https://www.legislation.gov.uk/european/directive/2004/0049) dated 29th April 2004, both being of the European Parliament and the Council. The Regulations do not apply to Northern Ireland.
+
+The provision of train services without having a European licence is made a criminal offence (regulation 5). The Office of Rail Regulation (“ORR”) is appointed as the body to issue European licences (regulation 6). Applicants for such licences must satisfy requirements as to good repute, professional competence, financial fitness and insurance cover for civil liabilities (regulation 6 and Schedule 2). Such licences are valid as long as the licence holder complies with the requirements referred to in Schedule 2 and the requirements to submit the licence for review or approval (regulation 7 ). The licence is subject to monitoring and review by the ORR, who may suspend or revoke such licences in certain circumstances (regulation 8).
+
+The licensing regime established by the Railways Act 1993 is amended to take account of the new licensing regime established by these Regulations (regulations 9 to 14). In addition to requiring a European licence, railway undertakings providing services in Great Britain will require a Statement of National Regulatory Provisions (a “SNRP”) (regulation 9). One or more conditions will be included in a SNRP by the ORR, but these conditions must be compatible with Community law and must not be discriminatory (regulation 11). SNRPs may be modified by consent (regulation 13).
+
+Provision is made for the offence of making a false statement (regulation 15), and for offences by bodies corporate and Scottish partnerships (regulation 16).
+
+Certain provisions of the Railways Act 1993 (“**the 1993 Act**”) and of other legislation are amended so as to include references to European licences (Schedule 1). These include provisions relating to railway administration orders, the duty to furnish information, and byelaw making powers. Some statutory provisions are to have effect in relation to SNRPs, subject to some modifications (regulation 15 and Schedule 3). These include provisions relating to modification references to the Competition Commission and orders for securing compliance. Some statutory provisions relating to the investigation by the Rail Passengers' Council or the London Transport Users' Committee of possible contraventions of conditions are to have effect in relation to holders of European licences and possible contraventions of SNRPs held by them (regulations 17 and 19).
+
+Transitional provisions are made in relation to existing licences and licence exemptions (regulation 20 and Schedule 4).
+
+Copies of templates published by the ORR and referred to in these Regulations may be obtained from the ORR at 1 Waterhouse Square, 138-142 Holborn, London EC1N 2TQ. They may also be accessed online at www.rail-reg.gov.uk.
+
+A Regulatory Impact Assessment has been prepared and copies can be obtained from the Department for Transport, Great Minster House, 76 Marsham Street, London SW1P 4DR. A copy has been placed in the Library of each House of Parliament.
+
+A copy of the Transposition Note is also available from the Department for Transport.
+
+Copies of the Regulatory Impact Assessment and of the Transposition Note may also be accessed on the HMSO website www.opsi.gov.uk.
+
+## Annotations
+
+[^c13513391]: Marginal citation: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68). By virtue of the amendment of section 1(2) of the European Communities Act 1972 by section 1 of the [European Economic Area Act 1993 (c. 51)](https://www.legislation.gov.uk/ukpga/1993/51) regulations may be made under section 2(2) of the European Communities Act 1972 to implement obligations of the United Kingdom created or arising by or under the Agreement on the European Economic Area signed at Oporto on 2nd May 1992 (Cm 2073) and the Protocol adjusting the Agreement signed at Brussels on 17th March 1993 (Cm 2183).
+
+[^c13513401]: Marginal citation: [S.I. 1996/266](https://www.legislation.gov.uk/uksi/1996/266), to which there are amendments not relevant to these Regulations.
+
+[^key-87956f89392698925e94732e69d11656]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2005/3050) modified (31.12.2020) by [The Railway (Licensing of Railway Undertakings) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/700)](https://www.legislation.gov.uk/uksi/2019/700), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/700/regulation/1/2), [34-40](https://www.legislation.gov.uk/uksi/2019/700/regulation/34); 2020 c. 1, [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-0dc003d7ddb4b074d7901f76477e5007]: Modification: [Reg. 2](https://www.legislation.gov.uk/uksi/2005/3050/regulation/2) applied (with modifications) (temp) (11.2.2019) by [The Railways (Access, Management and Licensing of Railway Undertakings) (Amendment) Regulations 2019 (S.I. 2019/82)](https://www.legislation.gov.uk/uksi/2019/82), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/82/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2019/82/regulation/2)
+
+[^c13513411]: Marginal citation: [1993 c. 43](https://www.legislation.gov.uk/ukpga/1993/43).
+
+[^key-eced4860c0d1c73dd880031f3690fa6d]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2005/3050/regulation/2/1) inserted (31.1.2022 at 11.00 p.m.) by [The Railway (Licensing of Railway Undertakings) (Amendment) Regulations 2021 (S.I. 2021/1105)](https://www.legislation.gov.uk/uksi/2021/1105), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2021/1105/regulation/1/3), [4](https://www.legislation.gov.uk/uksi/2021/1105/regulation/4)
+
+[^key-7c139f09a9cc4467146b2f7adcb1c328]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2005/3050/regulation/2/1) omitted (31.12.2020) by virtue of [The Railway (Licensing of Railway Undertakings) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/700)](https://www.legislation.gov.uk/uksi/2019/700), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/700/regulation/1/2), [4(a)](https://www.legislation.gov.uk/uksi/2019/700/regulation/4/a) (with [regs. 32-39](https://www.legislation.gov.uk/uksi/2019/700/regulation/32)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-fafdd0e42aec0e8727a534deacfea865]: Textual amendment: Words in reg. 2(1) substituted (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 10(l)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/10/l)
+
+[^c13513451]: Marginal citation: [2003 c. 20](https://www.legislation.gov.uk/ukpga/2003/20).
+
+[^key-10b56fe9a01574e3ea65f7c7e5ab0836]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2005/3050/regulation/2) inserted (29.7.2016) by [The Railways (Access, Management and Licensing of Railway Undertakings) Regulations 2016 (S.I. 2016/645)](https://www.legislation.gov.uk/uksi/2016/645), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/645/regulation/1/1), [39(2)(b)](https://www.legislation.gov.uk/uksi/2016/645/regulation/39/2/b) (with [reg. 4](https://www.legislation.gov.uk/uksi/2016/645/regulation/4))
+
+[^key-209958c9bca976faac0b531350a62074]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2005/3050/regulation/2/1) inserted (31.12.2020) by [The Railway (Licensing of Railway Undertakings) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/700)](https://www.legislation.gov.uk/uksi/2019/700), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/700/regulation/1/2), [4(b)](https://www.legislation.gov.uk/uksi/2019/700/regulation/4/b) (with [regs. 32-39](https://www.legislation.gov.uk/uksi/2019/700/regulation/32)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-416acc1102194c1752b6a3bad865e673]: Textual amendment: [Reg. 2(2)](https://www.legislation.gov.uk/uksi/2005/3050/regulation/2/2) omitted (29.7.2016) by virtue of [The Railways (Access, Management and Licensing of Railway Undertakings) Regulations 2016 (S.I. 2016/645)](https://www.legislation.gov.uk/uksi/2016/645), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/645/regulation/1/1), [39(2)(c)](https://www.legislation.gov.uk/uksi/2016/645/regulation/39/2/c) (with [reg. 4](https://www.legislation.gov.uk/uksi/2016/645/regulation/4))
+
+[^key-e00bda5874d0987ff9dfcf7f0e87321e]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/uksi/2005/3050/regulation/4/1) inserted (31.12.2020) by [The Railway (Licensing of Railway Undertakings) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/700)](https://www.legislation.gov.uk/uksi/2019/700), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/700/regulation/1/2), [5(2)(a)](https://www.legislation.gov.uk/uksi/2019/700/regulation/5/2/a) (with [regs. 32-39](https://www.legislation.gov.uk/uksi/2019/700/regulation/32)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-980f94477d41c19f10e0c558d1880436]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/uksi/2005/3050/regulation/4/1) omitted (31.12.2020) by virtue of [The Railway (Licensing of Railway Undertakings) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/700)](https://www.legislation.gov.uk/uksi/2019/700), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/700/regulation/1/2), [5(2)(b)](https://www.legislation.gov.uk/uksi/2019/700/regulation/5/2/b) (with [regs. 32-39](https://www.legislation.gov.uk/uksi/2019/700/regulation/32)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-3ba768ed3f0e20534bdb00ce564dda9f]: Textual amendment: Words in reg. 4(2)(c) omitted (29.7.2016) by virtue of [The Railways (Access, Management and Licensing of Railway Undertakings) Regulations 2016 (S.I. 2016/645)](https://www.legislation.gov.uk/uksi/2016/645), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/645/regulation/1/1), [39(3)(a)](https://www.legislation.gov.uk/uksi/2016/645/regulation/39/3/a) (with [reg. 4](https://www.legislation.gov.uk/uksi/2016/645/regulation/4))
+
+[^key-0cb4b291794d2a9198bcf3e36e17394c]: Textual amendment: Reg. 4(3) inserted (29.7.2016) by [The Railways (Access, Management and Licensing of Railway Undertakings) Regulations 2016 (S.I. 2016/645)](https://www.legislation.gov.uk/uksi/2016/645), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/645/regulation/1/1), [39(3)(b)](https://www.legislation.gov.uk/uksi/2016/645/regulation/39/3/b) (with [reg. 4](https://www.legislation.gov.uk/uksi/2016/645/regulation/4))
+
+[^key-ab24598259a42d1aeb52ba345f2f7e4d]: Textual amendment: Words in [reg. 4(3)(a)](https://www.legislation.gov.uk/uksi/2005/3050/regulation/4/3/a) omitted (31.12.2020) by virtue of [The Railway (Licensing of Railway Undertakings) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/700)](https://www.legislation.gov.uk/uksi/2019/700), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/700/regulation/1/2), [5(3)(a)](https://www.legislation.gov.uk/uksi/2019/700/regulation/5/3/a) (with [regs. 32-39](https://www.legislation.gov.uk/uksi/2019/700/regulation/32)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-5f8553ba6319727c6946362af63027a0]: Textual amendment: Words in [reg. 4(3)(b)](https://www.legislation.gov.uk/uksi/2005/3050/regulation/4/3/b) omitted (31.12.2020) by virtue of [The Railway (Licensing of Railway Undertakings) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/700)](https://www.legislation.gov.uk/uksi/2019/700), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/700/regulation/1/2), [5(3)(b)](https://www.legislation.gov.uk/uksi/2019/700/regulation/5/3/b) (with [regs. 32-39](https://www.legislation.gov.uk/uksi/2019/700/regulation/32)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-9b0be44b4617688cb381c698bae68a8b]: Textual amendment: Words in [Pt. 2](https://www.legislation.gov.uk/uksi/2005/3050/part/2) heading substituted (31.12.2020) by [The Railway (Licensing of Railway Undertakings) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/700)](https://www.legislation.gov.uk/uksi/2019/700), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/700/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2019/700/regulation/6) (with [regs. 32-39](https://www.legislation.gov.uk/uksi/2019/700/regulation/32)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-85f6750dfa69edacc2db559b08e4c0d4]: Textual amendment: Words in [reg. 5(1)](https://www.legislation.gov.uk/uksi/2005/3050/regulation/5/1) inserted (31.1.2022 at 11.00 p.m.) by [The Railway (Licensing of Railway Undertakings) (Amendment) Regulations 2021 (S.I. 2021/1105)](https://www.legislation.gov.uk/uksi/2021/1105), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2021/1105/regulation/1/3), [5(a)](https://www.legislation.gov.uk/uksi/2021/1105/regulation/5/a)
+
+[^key-84f609a84152cfd2afa716f5df6eaa82]: Textual amendment: Words in [reg. 5(1)](https://www.legislation.gov.uk/uksi/2005/3050/regulation/5/1) substituted (31.12.2020) by [The Railway (Licensing of Railway Undertakings) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/700)](https://www.legislation.gov.uk/uksi/2019/700), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/700/regulation/1/2), [7(a)](https://www.legislation.gov.uk/uksi/2019/700/regulation/7/a) (with [regs. 32-39](https://www.legislation.gov.uk/uksi/2019/700/regulation/32)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-f052360bcc956a60c8fa32f9fbdbb261]: Textual amendment: [Reg. 5(1A)](https://www.legislation.gov.uk/uksi/2005/3050/regulation/5/1A) inserted (31.1.2022 at 11.00 p.m.) by [The Railway (Licensing of Railway Undertakings) (Amendment) Regulations 2021 (S.I. 2021/1105)](https://www.legislation.gov.uk/uksi/2021/1105), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2021/1105/regulation/1/3), [5(b)](https://www.legislation.gov.uk/uksi/2021/1105/regulation/5/b)
+
+[^key-eb32382b7d4dd527888e2e64f225ecef]: Textual amendment: [Reg. 5(4)](https://www.legislation.gov.uk/uksi/2005/3050/regulation/5/4) omitted (31.12.2020) by virtue of [The Railway (Licensing of Railway Undertakings) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/700)](https://www.legislation.gov.uk/uksi/2019/700), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/700/regulation/1/2), [7(b)](https://www.legislation.gov.uk/uksi/2019/700/regulation/7/b) (with [regs. 32-39](https://www.legislation.gov.uk/uksi/2019/700/regulation/32)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-72c1228fb5874581dc5941ff8bbb911d]: Textual amendment: Words in [reg. 6](https://www.legislation.gov.uk/uksi/2005/3050/regulation/6) heading substituted (31.12.2020) by [The Railway (Licensing of Railway Undertakings) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/700)](https://www.legislation.gov.uk/uksi/2019/700), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/700/regulation/1/2), [8(2)](https://www.legislation.gov.uk/uksi/2019/700/regulation/8/2) (with [regs. 32-39](https://www.legislation.gov.uk/uksi/2019/700/regulation/32)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-69c137b8d2149d80bac60bd895492938]: Textual amendment: Words in [reg. 6(1)](https://www.legislation.gov.uk/uksi/2005/3050/regulation/6/1) omitted (31.12.2020) by virtue of [The Railway (Licensing of Railway Undertakings) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/700)](https://www.legislation.gov.uk/uksi/2019/700), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/700/regulation/1/2), [8(3)(a)](https://www.legislation.gov.uk/uksi/2019/700/regulation/8/3/a) (with [regs. 32-39](https://www.legislation.gov.uk/uksi/2019/700/regulation/32)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-d3a3c37e0d9af0cd6d61bfdab567bc2c]: Textual amendment: Words in [reg. 6(1)](https://www.legislation.gov.uk/uksi/2005/3050/regulation/6/1) substituted (31.12.2020) by [The Railway (Licensing of Railway Undertakings) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/700)](https://www.legislation.gov.uk/uksi/2019/700), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/700/regulation/1/2), [8(3)(b)](https://www.legislation.gov.uk/uksi/2019/700/regulation/8/3/b) (with [regs. 32-39](https://www.legislation.gov.uk/uksi/2019/700/regulation/32)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-aa1afce19ec0c4e495f795ba3736a77d]: Textual amendment: Words in [reg. 6(2)](https://www.legislation.gov.uk/uksi/2005/3050/regulation/6/2) substituted (31.12.2020) by [The Railway (Licensing of Railway Undertakings) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/700)](https://www.legislation.gov.uk/uksi/2019/700), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/700/regulation/1/2), [8(4)(a)](https://www.legislation.gov.uk/uksi/2019/700/regulation/8/4/a) (with [regs. 32-39](https://www.legislation.gov.uk/uksi/2019/700/regulation/32)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-c65eae8785222d39f8a2601bae2eb5b9]: Textual amendment: Words in [reg. 6(2)](https://www.legislation.gov.uk/uksi/2005/3050/regulation/6/2) omitted (31.12.2020) by virtue of [The Railway (Licensing of Railway Undertakings) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/700)](https://www.legislation.gov.uk/uksi/2019/700), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/700/regulation/1/2), [8(4)(b)](https://www.legislation.gov.uk/uksi/2019/700/regulation/8/4/b) (with [regs. 32-39](https://www.legislation.gov.uk/uksi/2019/700/regulation/32)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-028c0485441e5e6e08c4df9f62cb160d]: Textual amendment: Words in [reg. 6(3)](https://www.legislation.gov.uk/uksi/2005/3050/regulation/6/3) substituted (31.12.2020) by [The Railway (Licensing of Railway Undertakings) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/700)](https://www.legislation.gov.uk/uksi/2019/700), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/700/regulation/1/2), [8(5)(a)](https://www.legislation.gov.uk/uksi/2019/700/regulation/8/5/a) (with [regs. 32-39](https://www.legislation.gov.uk/uksi/2019/700/regulation/32)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-05a56928366067e82d7b489de5165445]: Textual amendment: [Reg. 6(3)(a)](https://www.legislation.gov.uk/uksi/2005/3050/regulation/6/3/a) omitted (31.12.2020) by virtue of [The Railway (Licensing of Railway Undertakings) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/700)](https://www.legislation.gov.uk/uksi/2019/700), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/700/regulation/1/2), [8(5)(b)](https://www.legislation.gov.uk/uksi/2019/700/regulation/8/5/b) (with [regs. 32-39](https://www.legislation.gov.uk/uksi/2019/700/regulation/32)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-ddbb87489be67d9a2548faceda0406f4]: Textual amendment: Words in [reg. 6(4)](https://www.legislation.gov.uk/uksi/2005/3050/regulation/6/4) substituted (31.12.2020) by [The Railway (Licensing of Railway Undertakings) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/700)](https://www.legislation.gov.uk/uksi/2019/700), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/700/regulation/1/2), [8(6)](https://www.legislation.gov.uk/uksi/2019/700/regulation/8/6) (with [regs. 32-39](https://www.legislation.gov.uk/uksi/2019/700/regulation/32)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-10af5dfe35768e3d81ad601050d48491]: Textual amendment: [Reg. 6(4A)](https://www.legislation.gov.uk/uksi/2005/3050/regulation/6/4A) omitted (31.12.2020) by virtue of [The Railway (Licensing of Railway Undertakings) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/700)](https://www.legislation.gov.uk/uksi/2019/700), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/700/regulation/1/2), [8(7)](https://www.legislation.gov.uk/uksi/2019/700/regulation/8/7) (with [regs. 32-39](https://www.legislation.gov.uk/uksi/2019/700/regulation/32)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-2d41665db661f5ba1f48a36d95736d5c]: Textual amendment: Words in [reg. 6(7)-(11)](https://www.legislation.gov.uk/uksi/2005/3050/regulation/6/7) substituted (31.12.2020) by [The Railway (Licensing of Railway Undertakings) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/700)](https://www.legislation.gov.uk/uksi/2019/700), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/700/regulation/1/2), [8(8)](https://www.legislation.gov.uk/uksi/2019/700/regulation/8/8) (with [regs. 32-39](https://www.legislation.gov.uk/uksi/2019/700/regulation/32)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-9976d065e5084e6b152bfb09385f8a99]: Textual amendment: Words in [reg. 6(11)](https://www.legislation.gov.uk/uksi/2005/3050/regulation/6/11) inserted (29.7.2016) by [The Railways (Access, Management and Licensing of Railway Undertakings) Regulations 2016 (S.I. 2016/645)](https://www.legislation.gov.uk/uksi/2016/645), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/645/regulation/1/1), [39(5)(b)](https://www.legislation.gov.uk/uksi/2016/645/regulation/39/5/b) (with [reg. 4](https://www.legislation.gov.uk/uksi/2016/645/regulation/4))
+
+[^key-753ebb2c52a156c971c785b227830855]: Textual amendment: Words in [reg. 6(12)](https://www.legislation.gov.uk/uksi/2005/3050/regulation/6/12) substituted (31.12.2020) by [The Railway (Licensing of Railway Undertakings) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/700)](https://www.legislation.gov.uk/uksi/2019/700), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/700/regulation/1/2), [8(9)(a)](https://www.legislation.gov.uk/uksi/2019/700/regulation/8/9/a) (with [regs. 32-39](https://www.legislation.gov.uk/uksi/2019/700/regulation/32)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-d34c04550658c51509a1e3e07fe97a78]: Textual amendment: Words in [reg. 6(12)](https://www.legislation.gov.uk/uksi/2005/3050/regulation/6/12) substituted (31.12.2020) by [The Railway (Licensing of Railway Undertakings) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/700)](https://www.legislation.gov.uk/uksi/2019/700), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/700/regulation/1/2), [8(9)(b)](https://www.legislation.gov.uk/uksi/2019/700/regulation/8/9/b) (with [regs. 32-39](https://www.legislation.gov.uk/uksi/2019/700/regulation/32)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-9452bcc4cf04a8cdcfe335d099f83ea1]: Textual amendment: Words in [reg. 6(14)](https://www.legislation.gov.uk/uksi/2005/3050/regulation/6/14) substituted (31.12.2020) by [The Railway (Licensing of Railway Undertakings) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/700)](https://www.legislation.gov.uk/uksi/2019/700), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/700/regulation/1/2), [8(10)](https://www.legislation.gov.uk/uksi/2019/700/regulation/8/10) (with [regs. 32-39](https://www.legislation.gov.uk/uksi/2019/700/regulation/32)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-90e265b3d33c89c52b7c4312af897dce]: Textual amendment: Words in [reg. 7](https://www.legislation.gov.uk/uksi/2005/3050/regulation/7) heading substituted (31.12.2020) by [The Railway (Licensing of Railway Undertakings) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/700)](https://www.legislation.gov.uk/uksi/2019/700), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/700/regulation/1/2), [9(a)](https://www.legislation.gov.uk/uksi/2019/700/regulation/9/a) (with [regs. 32-39](https://www.legislation.gov.uk/uksi/2019/700/regulation/32)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-2309f6dcd527f14c62fd8d1759409752]: Textual amendment: Words in [reg. 7(1)](https://www.legislation.gov.uk/uksi/2005/3050/regulation/7/1) substituted (31.12.2020) by [The Railway (Licensing of Railway Undertakings) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/700)](https://www.legislation.gov.uk/uksi/2019/700), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/700/regulation/1/2), [9(b)](https://www.legislation.gov.uk/uksi/2019/700/regulation/9/b) (with [regs. 32-39](https://www.legislation.gov.uk/uksi/2019/700/regulation/32)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-de3e483d4cc0adc128c0c8bf563f1480]: Textual amendment: Words in [reg. 7(2)](https://www.legislation.gov.uk/uksi/2005/3050/regulation/7/2) substituted (31.12.2020) by [The Railway (Licensing of Railway Undertakings) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/700)](https://www.legislation.gov.uk/uksi/2019/700), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/700/regulation/1/2), [9(b)](https://www.legislation.gov.uk/uksi/2019/700/regulation/9/b) (with [regs. 32-39](https://www.legislation.gov.uk/uksi/2019/700/regulation/32)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-76bd1e1d3da6e1b166d7c6730bd44d17]: Textual amendment: Words in [reg. 8](https://www.legislation.gov.uk/uksi/2005/3050/regulation/8) heading substituted (31.12.2020) by [The Railway (Licensing of Railway Undertakings) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/700)](https://www.legislation.gov.uk/uksi/2019/700), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/700/regulation/1/2), [10(2)](https://www.legislation.gov.uk/uksi/2019/700/regulation/10/2) (with [regs. 32-39](https://www.legislation.gov.uk/uksi/2019/700/regulation/32)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-fec35ea3344e43bc00c91f36e305ee62]: Textual amendment: Words in [reg. 8(1)](https://www.legislation.gov.uk/uksi/2005/3050/regulation/8/1) omitted (31.12.2020) by virtue of [The Railway (Licensing of Railway Undertakings) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/700)](https://www.legislation.gov.uk/uksi/2019/700), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/700/regulation/1/2), [10(3)(a)](https://www.legislation.gov.uk/uksi/2019/700/regulation/10/3/a) (with [regs. 32-39](https://www.legislation.gov.uk/uksi/2019/700/regulation/32)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-055baca6f01b344c4d66080b2d4b3638]: Textual amendment: Words in [reg. 8(1)](https://www.legislation.gov.uk/uksi/2005/3050/regulation/8/1) substituted (31.12.2020) by [The Railway (Licensing of Railway Undertakings) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/700)](https://www.legislation.gov.uk/uksi/2019/700), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/700/regulation/1/2), [10(3)(b)](https://www.legislation.gov.uk/uksi/2019/700/regulation/10/3/b) (with [regs. 32-39](https://www.legislation.gov.uk/uksi/2019/700/regulation/32)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-5157dde83eed8c6ba256d180ea707f18]: Textual amendment: [Reg. 8(2)](https://www.legislation.gov.uk/uksi/2005/3050/regulation/8/2) substituted (29.7.2016) by [The Railways (Access, Management and Licensing of Railway Undertakings) Regulations 2016 (S.I. 2016/645)](https://www.legislation.gov.uk/uksi/2016/645), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/645/regulation/1/1), [39(6)(a)](https://www.legislation.gov.uk/uksi/2016/645/regulation/39/6/a) (with [reg. 4](https://www.legislation.gov.uk/uksi/2016/645/regulation/4))
+
+[^key-491cdc20a7a1be272c0d646637559f70]: Textual amendment: Words in [reg. 8(3)](https://www.legislation.gov.uk/uksi/2005/3050/regulation/8/3) substituted (31.12.2020) by [The Railway (Licensing of Railway Undertakings) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/700)](https://www.legislation.gov.uk/uksi/2019/700), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/700/regulation/1/2), [10(4)](https://www.legislation.gov.uk/uksi/2019/700/regulation/10/4) (with [regs. 32-39](https://www.legislation.gov.uk/uksi/2019/700/regulation/32)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-8dd5b911f45a6a096eff0f83d6b273ee]: Textual amendment: Words in [reg. 8(4)](https://www.legislation.gov.uk/uksi/2005/3050/regulation/8/4) substituted (31.12.2020) by [The Railway (Licensing of Railway Undertakings) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/700)](https://www.legislation.gov.uk/uksi/2019/700), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/700/regulation/1/2), [10(4)](https://www.legislation.gov.uk/uksi/2019/700/regulation/10/4) (with [regs. 32-39](https://www.legislation.gov.uk/uksi/2019/700/regulation/32)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-2b677a72cf69f0098aa8f48050c020e3]: Textual amendment: [Reg. 8(5)](https://www.legislation.gov.uk/uksi/2005/3050/regulation/8/5) omitted (31.12.2020) by virtue of [The Railway (Licensing of Railway Undertakings) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/700)](https://www.legislation.gov.uk/uksi/2019/700), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/700/regulation/1/2), [10(5)](https://www.legislation.gov.uk/uksi/2019/700/regulation/10/5) (with [regs. 32-39](https://www.legislation.gov.uk/uksi/2019/700/regulation/32)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-99e2ce61a4bc205141a9add5ee518e0d]: Textual amendment: Words in [reg. 8(6)-(11)](https://www.legislation.gov.uk/uksi/2005/3050/regulation/8/6) substituted (31.12.2020) by [The Railway (Licensing of Railway Undertakings) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/700)](https://www.legislation.gov.uk/uksi/2019/700), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/700/regulation/1/2), [10(6)](https://www.legislation.gov.uk/uksi/2019/700/regulation/10/6) (with [regs. 32-39](https://www.legislation.gov.uk/uksi/2019/700/regulation/32)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-6ece0330d96e88076a56d6ac54573424]: Textual amendment: Words in [reg. 8(13)](https://www.legislation.gov.uk/uksi/2005/3050/regulation/8/13) substituted (31.12.2020) by [The Railway (Licensing of Railway Undertakings) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/700)](https://www.legislation.gov.uk/uksi/2019/700), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/700/regulation/1/2), [10(6)](https://www.legislation.gov.uk/uksi/2019/700/regulation/10/6) (with [regs. 32-39](https://www.legislation.gov.uk/uksi/2019/700/regulation/32)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-df1301d3f73e607ddc5d66b426725f06]: Textual amendment: Words in [reg. 8(14)](https://www.legislation.gov.uk/uksi/2005/3050/regulation/8/14) substituted (31.12.2020) by [The Railway (Licensing of Railway Undertakings) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/700)](https://www.legislation.gov.uk/uksi/2019/700), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/700/regulation/1/2), [10(7)(a)](https://www.legislation.gov.uk/uksi/2019/700/regulation/10/7/a) (with [regs. 32-39](https://www.legislation.gov.uk/uksi/2019/700/regulation/32)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-da243604569c68748bd9a0b7a948874b]: Textual amendment: Words in [reg. 8(14)](https://www.legislation.gov.uk/uksi/2005/3050/regulation/8/14) substituted (29.7.2016) by [The Railways (Access, Management and Licensing of Railway Undertakings) Regulations 2016 (S.I. 2016/645)](https://www.legislation.gov.uk/uksi/2016/645), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/645/regulation/1/1), [39(6)(c)](https://www.legislation.gov.uk/uksi/2016/645/regulation/39/6/c) (with [reg. 4](https://www.legislation.gov.uk/uksi/2016/645/regulation/4))
+
+[^key-364bf9e5122dd719cc15a277b05a6c8e]: Textual amendment: Words in [reg. 8(14)](https://www.legislation.gov.uk/uksi/2005/3050/regulation/8/14) substituted (31.12.2020) by [The Railway (Licensing of Railway Undertakings) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/700)](https://www.legislation.gov.uk/uksi/2019/700), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/700/regulation/1/2), [10(7)(b)](https://www.legislation.gov.uk/uksi/2019/700/regulation/10/7/b) (with [regs. 32-39](https://www.legislation.gov.uk/uksi/2019/700/regulation/32)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-3f84b3c9396729873f49e55dac56ea4e]: Textual amendment: [Reg. 8A](https://www.legislation.gov.uk/uksi/2005/3050/regulation/8A) inserted (31.1.2022 at 11.00 p.m.) by [The Railway (Licensing of Railway Undertakings) (Amendment) Regulations 2021 (S.I. 2021/1105)](https://www.legislation.gov.uk/uksi/2021/1105), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2021/1105/regulation/1/3), [6](https://www.legislation.gov.uk/uksi/2021/1105/regulation/6)
+
+[^key-dbcee7da01297b1003b90ae0da0baab7]: Textual amendment: Words in [reg. 9(1)](https://www.legislation.gov.uk/uksi/2005/3050/regulation/9/1) substituted (31.1.2022 at 11.00 p.m.) by [The Railway (Licensing of Railway Undertakings) (Amendment) Regulations 2021 (S.I. 2021/1105)](https://www.legislation.gov.uk/uksi/2021/1105), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2021/1105/regulation/1/3), [7(2)](https://www.legislation.gov.uk/uksi/2021/1105/regulation/7/2)
+
+[^key-7c105a8ad9ba09e76b5f17e686caf3b3]: Textual amendment: Words in [reg. 9(1)](https://www.legislation.gov.uk/uksi/2005/3050/regulation/9/1) substituted (31.12.2020) by [The Railway (Licensing of Railway Undertakings) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/700)](https://www.legislation.gov.uk/uksi/2019/700), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/700/regulation/1/2), [11(a)](https://www.legislation.gov.uk/uksi/2019/700/regulation/11/a) (with [regs. 32-39](https://www.legislation.gov.uk/uksi/2019/700/regulation/32)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-401f86e3117f9caa4e86287c721bb293]: Textual amendment: [Reg. 9(4A)](https://www.legislation.gov.uk/uksi/2005/3050/regulation/9/4A) inserted (31.1.2022 at 11.00 p.m.) by [The Railway (Licensing of Railway Undertakings) (Amendment) Regulations 2021 (S.I. 2021/1105)](https://www.legislation.gov.uk/uksi/2021/1105), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2021/1105/regulation/1/3), [7(3)](https://www.legislation.gov.uk/uksi/2021/1105/regulation/7/3)
+
+[^key-4a82ee9c621b2c6c82e71e9ad5db54a6]: Textual amendment: [Reg. 9(5)](https://www.legislation.gov.uk/uksi/2005/3050/regulation/9/5) omitted (31.12.2020) by virtue of [The Railway (Licensing of Railway Undertakings) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/700)](https://www.legislation.gov.uk/uksi/2019/700), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/700/regulation/1/2), [11(b)](https://www.legislation.gov.uk/uksi/2019/700/regulation/11/b) (with [regs. 32-39](https://www.legislation.gov.uk/uksi/2019/700/regulation/32)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-aef68bbd468df64cd1b0fd9156480470]: Textual amendment: Words in [reg. 10(1)](https://www.legislation.gov.uk/uksi/2005/3050/regulation/10/1) substituted (31.12.2020) by [The Railway (Licensing of Railway Undertakings) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/700)](https://www.legislation.gov.uk/uksi/2019/700), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/700/regulation/1/2), [12](https://www.legislation.gov.uk/uksi/2019/700/regulation/12) (with [regs. 32-39](https://www.legislation.gov.uk/uksi/2019/700/regulation/32)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-3f6f1976d1c864fa71b896226e843a48]: Textual amendment: Words in [reg. 10(2)(b)](https://www.legislation.gov.uk/uksi/2005/3050/regulation/10/2/b) substituted (31.12.2020) by [The Railway (Licensing of Railway Undertakings) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/700)](https://www.legislation.gov.uk/uksi/2019/700), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/700/regulation/1/2), [12](https://www.legislation.gov.uk/uksi/2019/700/regulation/12) (with [regs. 32-39](https://www.legislation.gov.uk/uksi/2019/700/regulation/32)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-47f78f35b918b6e7f3109b896ae4a982]: Textual amendment: Words in [reg. 11(1)](https://www.legislation.gov.uk/uksi/2005/3050/regulation/11/1) substituted (31.12.2020) by [The Railway (Licensing of Railway Undertakings) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/700)](https://www.legislation.gov.uk/uksi/2019/700), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/700/regulation/1/2), [13(a)](https://www.legislation.gov.uk/uksi/2019/700/regulation/13/a) (with [regs. 32-39](https://www.legislation.gov.uk/uksi/2019/700/regulation/32)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-8be24948f271cde1a3230fcbfa61c80f]: Textual amendment: [Reg. 11(4)(a)](https://www.legislation.gov.uk/uksi/2005/3050/regulation/11/4/a) omitted (31.12.2020) by virtue of [The Railway (Licensing of Railway Undertakings) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/700)](https://www.legislation.gov.uk/uksi/2019/700), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/700/regulation/1/2), [13(b)](https://www.legislation.gov.uk/uksi/2019/700/regulation/13/b) (with [regs. 32-39](https://www.legislation.gov.uk/uksi/2019/700/regulation/32)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-5fb3836512b8eabc39de9879e085a502]: Textual amendment: [Reg. 12](https://www.legislation.gov.uk/uksi/2005/3050/regulation/12) omitted (31.12.2020) by virtue of [The Railway (Licensing of Railway Undertakings) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/700)](https://www.legislation.gov.uk/uksi/2019/700), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/700/regulation/1/2), [14](https://www.legislation.gov.uk/uksi/2019/700/regulation/14) (with [regs. 32-39](https://www.legislation.gov.uk/uksi/2019/700/regulation/32)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c13513471]: Marginal citation: Section 76(5) was amended by the Transport Act 2000, Schedule 22, Part 1, paragraphs 1 and 8, and Schedule 17, Part 2, paragraphs 17 and 20, and the [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [Schedule 1](https://www.legislation.gov.uk/ukpga/2005/14/schedule/1), [paragraph 32](https://www.legislation.gov.uk/ukpga/2005/14/paragraph/32).
+
+[^key-860724d1e21879b47f120d42bd855f04]: Textual amendment: Words in reg. 17(1) substituted (25.2.2010) by [The Passengers’ Council (Non-Railway Functions) Order 2010 (S.I. 2010/439)](https://www.legislation.gov.uk/uksi/2010/439), [art. 1](https://www.legislation.gov.uk/uksi/2010/439/article/1), [Sch. para. 13](https://www.legislation.gov.uk/uksi/2010/439/schedule/paragraph/13)
+
+[^key-6a4bd0b7ee23a98c81cb9d471d04e678]: Textual amendment: Words in [reg. 17(1)](https://www.legislation.gov.uk/uksi/2005/3050/regulation/17/1) substituted (31.12.2020) by [The Railway (Licensing of Railway Undertakings) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/700)](https://www.legislation.gov.uk/uksi/2019/700), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/700/regulation/1/2), [15(a)](https://www.legislation.gov.uk/uksi/2019/700/regulation/15/a) (with [regs. 32-39](https://www.legislation.gov.uk/uksi/2019/700/regulation/32)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-1951f9919d2d044d07e3af378209b178]: Textual amendment: [Reg. 17(2)](https://www.legislation.gov.uk/uksi/2005/3050/regulation/17/2) omitted (31.12.2020) by virtue of [The Railway (Licensing of Railway Undertakings) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/700)](https://www.legislation.gov.uk/uksi/2019/700), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/700/regulation/1/2), [15(b)](https://www.legislation.gov.uk/uksi/2019/700/regulation/15/b) (with [regs. 32-39](https://www.legislation.gov.uk/uksi/2019/700/regulation/32)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c13513481]: Marginal citation: [1999 c. 29](https://www.legislation.gov.uk/ukpga/1999/29); section 252C was inserted by the [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [Schedule 6](https://www.legislation.gov.uk/ukpga/2005/14/schedule/6), [paragraph 3](https://www.legislation.gov.uk/ukpga/2005/14/paragraph/3).
+
+[^key-f8a9f595fa7ee2695c98d54a8515ab6d]: Textual amendment: Words in [reg. 19(1)](https://www.legislation.gov.uk/uksi/2005/3050/regulation/19/1) substituted (31.12.2020) by [The Railway (Licensing of Railway Undertakings) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/700)](https://www.legislation.gov.uk/uksi/2019/700), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/700/regulation/1/2), [16(a)](https://www.legislation.gov.uk/uksi/2019/700/regulation/16/a) (with [regs. 32-39](https://www.legislation.gov.uk/uksi/2019/700/regulation/32)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-3f3599fa63f4d6e0ee82709131a07321]: Textual amendment: [Reg. 19(2)](https://www.legislation.gov.uk/uksi/2005/3050/regulation/19/2) omitted (31.12.2020) by virtue of [The Railway (Licensing of Railway Undertakings) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/700)](https://www.legislation.gov.uk/uksi/2019/700), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/700/regulation/1/2), [16(b)](https://www.legislation.gov.uk/uksi/2019/700/regulation/16/b) (with [regs. 32-39](https://www.legislation.gov.uk/uksi/2019/700/regulation/32)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-f0ee3b48a5d058392125ba6cfdf7d13b]: Textual amendment: [Reg. 21](https://www.legislation.gov.uk/uksi/2005/3050/regulation/21) inserted (29.7.2016) by [The Railways (Access, Management and Licensing of Railway Undertakings) Regulations 2016 (S.I. 2016/645)](https://www.legislation.gov.uk/uksi/2016/645), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/645/regulation/1/1), [39(10)](https://www.legislation.gov.uk/uksi/2016/645/regulation/39/10) (with [reg. 4](https://www.legislation.gov.uk/uksi/2016/645/regulation/4))
+
+[^key-145a9d327c6562dca22ce13d606820cf]: Textual amendment: [Reg. 21(2)](https://www.legislation.gov.uk/uksi/2005/3050/regulation/21/2) omitted (31.12.2020) by virtue of [The Railway (Licensing of Railway Undertakings) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/700)](https://www.legislation.gov.uk/uksi/2019/700), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/700/regulation/1/2), [17](https://www.legislation.gov.uk/uksi/2019/700/regulation/17) (with [regs. 32-39](https://www.legislation.gov.uk/uksi/2019/700/regulation/32)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c13513491]: Marginal citation: 1905 5 Edw 7 c.11; the definition of “railway company” was inserted by the 1993 Act, Schedule12, paragraph 2(2).
+
+[^c13513501]: Marginal citation: [1986 c. 45](https://www.legislation.gov.uk/ukpga/1986/45); [Schedule 2A](https://www.legislation.gov.uk/uksi/2005/3050/schedule/2A) was inserted by the [Enterprise Act 2002 (c. 40)](https://www.legislation.gov.uk/ukpga/2002/40) section 250(2), Schedule 18; and paragraph 10(2A) of Schedule 2A was inserted by the [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [Schedule 17](https://www.legislation.gov.uk/ukpga/2003/21/schedule/17), [paragraph 82](https://www.legislation.gov.uk/ukpga/2003/21/paragraph/82).
+
+[^c13513511]: Marginal citation: [Section 6(1A)](https://www.legislation.gov.uk/uksi/2005/3050/section/6/1A) and (2A) was inserted, and section 6(2) was amended, by regulation 21 of the [Railways Regulations 1998 (S.I. 1998/1340)](https://www.legislation.gov.uk/uksi/1998/1340). Sections 59(6) of the 1993 Act were amended by the [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [section 49(1)](https://www.legislation.gov.uk/ukpga/2005/14/section/49/1) and Schedule 13, Part 1. Section 72(2) was amended by the [Railways and Transport Safety Act 2003 (c. 20)](https://www.legislation.gov.uk/ukpga/2003/20), [Schedule 2](https://www.legislation.gov.uk/ukpga/2003/20/schedule/2), [Part 1](https://www.legislation.gov.uk/ukpga/2003/20/part/1), [paragraphs 1](https://www.legislation.gov.uk/ukpga/2003/20/paragraph/1) and 3; and the [Transport Act 2000 (c. 38)](https://www.legislation.gov.uk/ukpga/2000/38), [Schedule 17](https://www.legislation.gov.uk/ukpga/2000/38/schedule/17), [Part 1](https://www.legislation.gov.uk/ukpga/2000/38/part/1), [paragraphs 1](https://www.legislation.gov.uk/ukpga/2000/38/paragraph/1) and 15, and Schedule 27, paragraphs 17 and 36. Section 80 was amended by the Transport Act 2000, Schedule 27, paragraphs 17 and 38, and Schedule 31, Part 4; and the Railways Act 2005, Schedule 1, paragraph 33.
+
+[^c13513521]: Marginal citation: [2004 c. 36](https://www.legislation.gov.uk/ukpga/2004/36).
+
+[^c13513531]: Marginal citation: [2005 c. 14](https://www.legislation.gov.uk/ukpga/2005/14).
+
+[^c13513541]: Marginal citation: [S.I. 1992/666](https://www.legislation.gov.uk/uksi/1992/666); the relevant amending instrument is [S.I. 1994/2351](https://www.legislation.gov.uk/uksi/1994/2351).
+
+[^c13513551]: Marginal citation: [S.I. 2005/3050](https://www.legislation.gov.uk/uksi/2005/3050).
+
+[^c13513561]: Marginal citation: O.J. L 143, 27.6.1995, p. 70.
+
+[^c13513571]: Marginal citation: O.J. L 75, 15.3.2001, p. 26.
+
+[^c13513581]: Marginal citation: O.J. L 164, 30.4.2004, p. 44, to which there has been a corrigendum which is not relevant to these Regulations.
+
+[^c13513591]: Marginal citation: [S.I. 1998/1519](https://www.legislation.gov.uk/uksi/1998/1519).
+
+[^c13513601]: Marginal citation: [S.I. 2001/3682](https://www.legislation.gov.uk/uksi/2001/3682).
+
+[^c13513611]: Marginal citation: [S.I. 2005/3050](https://www.legislation.gov.uk/uksi/2005/3050).
+
+[^c13513621]: Marginal citation: O.J. L 143, 27.6.1995, p. 70.
+
+[^c13513631]: Marginal citation: O.J. L 75, 15.3.2001, p. 26.
+
+[^c13513641]: Marginal citation: O.J. L 164, 30.4.2004, p. 44, to which there has been a corrigendum which is not relevant to these Regulations.
+
+[^c13513651]: Marginal citation: [S.I. 2002/1066](https://www.legislation.gov.uk/uksi/2002/1066).
+
+[^c13513661]: Marginal citation: [S.I. 2005/3050](https://www.legislation.gov.uk/uksi/2005/3050).
+
+[^c13513671]: Marginal citation: O.J. L 143, 27.6.1995, p. 70.
+
+[^c13513681]: Marginal citation: O.J. L 75, 15.3.2001, p. 26.
+
+[^c13513691]: Marginal citation: O.J. L 164, 30.4.2004, p. 44, to which there has been a corrigendum which is not relevant to these Regulations.
+
+[^c13513701]: Marginal citation: [S.I. 2004/757](https://www.legislation.gov.uk/uksi/2004/757).
+
+[^c13513711]: Marginal citation: [S.I. 2005/3050](https://www.legislation.gov.uk/uksi/2005/3050).
+
+[^c13513721]: Marginal citation: O.J. L 143, 27.6.1995, p. 70.
+
+[^c13513731]: Marginal citation: O.J. L 75, 15.3.2001, p. 26.
+
+[^c13513741]: Marginal citation: O.J. L 164, 30.4.2004, p. 44, to which there has been a corrigendum which is not relevant to these Regulations.
+
+[^c13513751]: Marginal citation: [S.I. 2004/1522](https://www.legislation.gov.uk/uksi/2004/1522).
+
+[^c13513761]: Marginal citation: [S.I. 2005/3050](https://www.legislation.gov.uk/uksi/2005/3050).
+
+[^c13513771]: Marginal citation: O.J. L 143, 27.6.1995, p. 70.
+
+[^c13513781]: Marginal citation: O.J. L 75, 15.3.2001, p. 26.
+
+[^c13513791]: Marginal citation: O.J. L 164, 30.4.2004, p. 44, to which there has been a corrigendum which is not relevant to these Regulations.
+
+[^c13513801]: Marginal citation: [S.I. 2005/422](https://www.legislation.gov.uk/uksi/2005/422) (W 40).
+
+[^c13513811]: Marginal citation: [S.I. 2005/3050](https://www.legislation.gov.uk/uksi/2005/3050).
+
+[^c13513821]: Marginal citation: O.J. L 143, 27.6.1995, p. 70.
+
+[^c13513831]: Marginal citation: O.J. L 75, 15.3.2001, p. 26.
+
+[^c13513841]: Marginal citation: O.J. L 164, 30.4.2004, p. 44, to which there has been a corrigendum which is not relevant to these Regulations.
+
+[^c13513851]: Marginal citation: [S.I. 2005/551](https://www.legislation.gov.uk/uksi/2005/551).
+
+[^c13513861]: Marginal citation: [S.I. 2005/3050](https://www.legislation.gov.uk/uksi/2005/3050).
+
+[^c13513871]: Marginal citation: O.J. L 143, 27.6.1995, p. 70.
+
+[^c13513881]: Marginal citation: O.J. L 75, 15.3.2001, p. 26.
+
+[^c13513891]: Marginal citation: O.J. L 164, 30.4.2004, p. 44, to which there has been a corrigendum which is not relevant to these Regulations.
+
+[^key-aa2e7daab3be67f6f3cd8d93f1b6493c]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2005/3050/schedule/2) heading substituted (31.12.2020) by [The Railway (Licensing of Railway Undertakings) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/700)](https://www.legislation.gov.uk/uksi/2019/700), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/700/regulation/1/2), [18(a)](https://www.legislation.gov.uk/uksi/2019/700/regulation/18/a) (with [regs. 32-39](https://www.legislation.gov.uk/uksi/2019/700/regulation/32)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-82f2bc388a74d6f5e736ad06ee8af502]: Textual amendment: Words in [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2005/3050/schedule/2/paragraph/1) substituted (31.12.2020) by [The Railway (Licensing of Railway Undertakings) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/700)](https://www.legislation.gov.uk/uksi/2019/700), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/700/regulation/1/2), [18(b)](https://www.legislation.gov.uk/uksi/2019/700/regulation/18/b) (with [regs. 32-39](https://www.legislation.gov.uk/uksi/2019/700/regulation/32)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-41185d149c35a2f1668cbc197368898a]: Textual amendment: Word in [Sch. 2 para. 2(a)](https://www.legislation.gov.uk/uksi/2005/3050/schedule/2/paragraph/2/a) substituted (6.4.2016) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Bankruptcy) and the Small Business, Enterprise and Employment Act 2015 (Consequential Amendments) Regulations 2016 (S.I. 2016/481)](https://www.legislation.gov.uk/uksi/2016/481), [reg. 1](https://www.legislation.gov.uk/uksi/2016/481/regulation/1), [Sch. 2 para. 13](https://www.legislation.gov.uk/uksi/2016/481/schedule/2/paragraph/13)
+
+[^key-f67c3926e2ad73666e602c13266a4e7d]: Textual amendment: Sch. 2 para. 2(aa) inserted (1.10.2012) by [The Tribunals, Courts and Enforcement Act 2007 (Consequential Amendments) Order 2012 (S.I. 2012/2404)](https://www.legislation.gov.uk/uksi/2012/2404), [art. 1](https://www.legislation.gov.uk/uksi/2012/2404/article/1), [Sch. 3 para. 46](https://www.legislation.gov.uk/uksi/2012/2404/schedule/3/paragraph/46) (with [art. 7](https://www.legislation.gov.uk/uksi/2012/2404/article/7))
+
+[^key-df7d9c5a8606c133c33ad23e049b453c]: Textual amendment: Words in Sch. 2 para. 4(1) substituted (31.10.2009) by [The Armed Forces Act 2006 (Consequential Amendments) Order 2009 (S.I. 2009/2054)](https://www.legislation.gov.uk/uksi/2009/2054), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/2054/article/1/2), [Sch. 1 para. 27](https://www.legislation.gov.uk/uksi/2009/2054/schedule/1/paragraph/27) (with [Sch. 2 para. 18](https://www.legislation.gov.uk/uksi/2009/2054/schedule/2/paragraph/18))
+
+[^c13513931]: Marginal citation: [1974 c. 53](https://www.legislation.gov.uk/ukpga/1974/53).
+
+[^key-ef7870ee0dc67deaed52e4458f3fd9f4]: Textual amendment: Words in [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2005/3050/schedule/2/paragraph/6) substituted (31.12.2020) by [The Railway (Licensing of Railway Undertakings) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/700)](https://www.legislation.gov.uk/uksi/2019/700), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/700/regulation/1/2), [18(b)](https://www.legislation.gov.uk/uksi/2019/700/regulation/18/b) (with [regs. 32-39](https://www.legislation.gov.uk/uksi/2019/700/regulation/32)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-ae6d8af7ba5e4fd53d7a26006d5e69bd]: Textual amendment: Word in Sch. 2 para. 7(d) omitted (29.7.2016) by virtue of [The Railways (Access, Management and Licensing of Railway Undertakings) Regulations 2016 (S.I. 2016/645)](https://www.legislation.gov.uk/uksi/2016/645), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/645/regulation/1/1), [39(11)(a)](https://www.legislation.gov.uk/uksi/2016/645/regulation/39/11/a) (with [reg. 4](https://www.legislation.gov.uk/uksi/2016/645/regulation/4))
+
+[^key-7bb9493b1624d8b02a6c9e8c22ec3e5e]: Textual amendment: Sch. 2 para. 7(f) and word inserted (29.7.2016) by [The Railways (Access, Management and Licensing of Railway Undertakings) Regulations 2016 (S.I. 2016/645)](https://www.legislation.gov.uk/uksi/2016/645), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/645/regulation/1/1), [39(11)(b)](https://www.legislation.gov.uk/uksi/2016/645/regulation/39/11/b) (with [reg. 4](https://www.legislation.gov.uk/uksi/2016/645/regulation/4))
+
+[^key-05b5282e17d8433d1a603472f3af1b6c]: Textual amendment: Words in [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2005/3050/schedule/2/paragraph/8) substituted (29.7.2016) by [The Railways (Access, Management and Licensing of Railway Undertakings) Regulations 2016 (S.I. 2016/645)](https://www.legislation.gov.uk/uksi/2016/645), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/645/regulation/1/1), [39(11)(c)](https://www.legislation.gov.uk/uksi/2016/645/regulation/39/11/c) (with [reg. 4](https://www.legislation.gov.uk/uksi/2016/645/regulation/4))
+
+[^key-62bc0c5320973a7f33c196bd5baa4228]: Textual amendment: Words in [Sch. 2 para. 11(1)](https://www.legislation.gov.uk/uksi/2005/3050/schedule/2/paragraph/11/1) substituted (31.12.2020) by [The Railway (Licensing of Railway Undertakings) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/700)](https://www.legislation.gov.uk/uksi/2019/700), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/700/regulation/1/2), [18(b)](https://www.legislation.gov.uk/uksi/2019/700/regulation/18/b) (with [regs. 32-39](https://www.legislation.gov.uk/uksi/2019/700/regulation/32)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-11d5d4313724dbb0a766921920287e1e]: Textual amendment: [Sch. 2 para. 11(1A)](https://www.legislation.gov.uk/uksi/2005/3050/schedule/2/paragraph/11/1A) inserted (29.7.2016) by [The Railways (Access, Management and Licensing of Railway Undertakings) Regulations 2016 (S.I. 2016/645)](https://www.legislation.gov.uk/uksi/2016/645), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/645/regulation/1/1), [39(11)(d)](https://www.legislation.gov.uk/uksi/2016/645/regulation/39/11/d) (with [reg. 4](https://www.legislation.gov.uk/uksi/2016/645/regulation/4))
+
+[^c13513941]: Marginal citation: [1986 c. 45](https://www.legislation.gov.uk/ukpga/1986/45).
+
+[^c13513951]: Marginal citation: [1993 c. 43](https://www.legislation.gov.uk/ukpga/1993/43); [sections 13 to 16](https://www.legislation.gov.uk/uksi/2005/3050/section/13) were amended by: [S.I. 1999/506](https://www.legislation.gov.uk/uksi/1999/506); the [Transport Act 2000 (c. 38)](https://www.legislation.gov.uk/ukpga/2000/38), [section 242](https://www.legislation.gov.uk/ukpga/2000/38/section/242), [Schedule 17](https://www.legislation.gov.uk/ukpga/2000/38/schedule/17), [Part 1](https://www.legislation.gov.uk/ukpga/2000/38/part/1), [paragraphs 1](https://www.legislation.gov.uk/ukpga/2000/38/paragraph/1) and 7 to 9, and Schedule 31, Part 4; the [Enterprise Act 2002 (c. 40)](https://www.legislation.gov.uk/ukpga/2002/40), [sections 86(5)](https://www.legislation.gov.uk/ukpga/2002/40/section/86/5) and 164(2), Schedule 9, Part 1, paragraph 10, Schedule 25, paragraph 30, and Schedule 26; the [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [Schedule 16](https://www.legislation.gov.uk/ukpga/2003/21/schedule/16), [paragraph 4](https://www.legislation.gov.uk/ukpga/2003/21/paragraph/4); the [Competition Act 1998 (c. 41)](https://www.legislation.gov.uk/ukpga/1998/41), [Schedule 10](https://www.legislation.gov.uk/ukpga/1998/41/schedule/10), [paragraph 15(3)](https://www.legislation.gov.uk/ukpga/1998/41/paragraph/15/3), and Schedule 14, Part 1; the [Railways and Transport Safety Act 2003 (c. 20)](https://www.legislation.gov.uk/ukpga/2003/20), [Schedule 2](https://www.legislation.gov.uk/ukpga/2003/20/schedule/2), [Part 1](https://www.legislation.gov.uk/ukpga/2003/20/part/1), [paragraphs 1](https://www.legislation.gov.uk/ukpga/2003/20/paragraph/1) and 3, and Schedule 8; and the [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [Schedule 1](https://www.legislation.gov.uk/ukpga/2005/14/schedule/1), [paragraphs 6 to 10](https://www.legislation.gov.uk/ukpga/2005/14/paragraph/6) and Schedule 13, Part 1.
+
+[^c13513961]: Marginal citation: [Sections 55 to 58](https://www.legislation.gov.uk/uksi/2005/3050/section/55) were amended by the [Transport Act 2000 (c. 38)](https://www.legislation.gov.uk/ukpga/2000/38), [sections 225](https://www.legislation.gov.uk/ukpga/2000/38/section/225) and 226, Schedule 16, paragraphs 8, 35, 36 and 38, Schedule 17, Part 1, paragraphs 1, 11 and 12, and Part 2, paragraphs 17 and 26, Schedule 27, paragraphs 17, 30 to 33, and Schedule 31, Part 4; the [Competition Act 1998 (c. 41)](https://www.legislation.gov.uk/ukpga/1998/41), [Schedule 10](https://www.legislation.gov.uk/ukpga/1998/41/schedule/10), [paragraph 15(6)](https://www.legislation.gov.uk/ukpga/1998/41/paragraph/15/6); the [Railways and Transport Safety Act 2003 (c. 20)](https://www.legislation.gov.uk/ukpga/2003/20), [Schedule 2](https://www.legislation.gov.uk/ukpga/2003/20/schedule/2), [Part 1](https://www.legislation.gov.uk/ukpga/2003/20/part/1), [paragraphs 1](https://www.legislation.gov.uk/ukpga/2003/20/paragraph/1), [3](https://www.legislation.gov.uk/ukpga/2003/20/paragraph/3) and 12; and the [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14) Schedule 1, paragraphs 21 to 26. Sections 57A to 57F were inserted by the [Transport Act 2000 (c. 38)](https://www.legislation.gov.uk/ukpga/2000/38), [section 225(1)](https://www.legislation.gov.uk/ukpga/2000/38/section/225/1).
+
+[^c13513971]: Marginal citation: [Section 68](https://www.legislation.gov.uk/uksi/2005/3050/section/68) was amended by the [Railways and Transport Safety Act 2003 (c. 20)](https://www.legislation.gov.uk/ukpga/2003/20), [Schedule 2](https://www.legislation.gov.uk/ukpga/2003/20/schedule/2), [Part 1](https://www.legislation.gov.uk/ukpga/2003/20/part/1), [paragraphs 1](https://www.legislation.gov.uk/ukpga/2003/20/paragraph/1) and 3; the Transport Act 2000, section 234, Schedule 22, Part 1, paragraphs 1 and 7, and Schedule 31, Part 4; and the Railways Act 2005, Schedule 13.
+
+[^c13513981]: Marginal citation: [Section 72(2)](https://www.legislation.gov.uk/uksi/2005/3050/section/72/2) was amended by the [Railways and Transport Safety Act 2003 (c. 20)](https://www.legislation.gov.uk/ukpga/2003/20), [Schedule 2](https://www.legislation.gov.uk/ukpga/2003/20/schedule/2), [Part 1](https://www.legislation.gov.uk/ukpga/2003/20/part/1), [paragraphs 1](https://www.legislation.gov.uk/ukpga/2003/20/paragraph/1) and 3; and the [Transport Act 2000 (c. 38)](https://www.legislation.gov.uk/ukpga/2000/38), [Schedule 17](https://www.legislation.gov.uk/ukpga/2000/38/schedule/17), [Part 1](https://www.legislation.gov.uk/ukpga/2000/38/part/1), [paragraphs 1](https://www.legislation.gov.uk/ukpga/2000/38/paragraph/1) and 15, and Schedule 27, paragraphs 17 and 36.
+
+[^c13513991]: Marginal citation: [2002 c. 40](https://www.legislation.gov.uk/ukpga/2002/40); [section 168](https://www.legislation.gov.uk/uksi/2005/3050/section/168) was amended by the [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [Schedule 13](https://www.legislation.gov.uk/ukpga/2005/14/schedule/13).
+
+[^c13514001]: Marginal citation: [2005 c. 14](https://www.legislation.gov.uk/ukpga/2005/14).
+
+[^c13514011]: Marginal citation: [Section 22C(1)](https://www.legislation.gov.uk/uksi/2005/3050/section/22C/1) was inserted by the [Transport Act 2000 (c. 38)](https://www.legislation.gov.uk/ukpga/2000/38), [section 232(2)](https://www.legislation.gov.uk/ukpga/2000/38/section/232/2), and amended by the [Railways and Transport Safety Act 2003 (c. 20)](https://www.legislation.gov.uk/ukpga/2003/20), [Schedule 2](https://www.legislation.gov.uk/ukpga/2003/20/schedule/2), [Part 1](https://www.legislation.gov.uk/ukpga/2003/20/part/1), [paragraphs 1](https://www.legislation.gov.uk/ukpga/2003/20/paragraph/1) and 3.
+
+[^key-f7ca730933f9f6e7aab9479432fcbe94]: Textual amendment: Words in [Sch. 4 para. 2](https://www.legislation.gov.uk/uksi/2005/3050/schedule/4/paragraph/2) substituted (31.12.2020) by [The Railway (Licensing of Railway Undertakings) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/700)](https://www.legislation.gov.uk/uksi/2019/700), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/700/regulation/1/2), [19(2)](https://www.legislation.gov.uk/uksi/2019/700/regulation/19/2) (with [regs. 32-39](https://www.legislation.gov.uk/uksi/2019/700/regulation/32)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-5fedeb46b2d5d26509c7d746136cb629]: Textual amendment: [Sch. 4 para. 3](https://www.legislation.gov.uk/uksi/2005/3050/schedule/4/paragraph/3) omitted (31.12.2020) by virtue of [The Railway (Licensing of Railway Undertakings) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/700)](https://www.legislation.gov.uk/uksi/2019/700), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/700/regulation/1/2), [19(3)](https://www.legislation.gov.uk/uksi/2019/700/regulation/19/3) (with [regs. 32-39](https://www.legislation.gov.uk/uksi/2019/700/regulation/32)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-014692ecc7d7537c3abf1dc0fadb40a8]: Textual amendment: Words in [Sch. 4 para. 5](https://www.legislation.gov.uk/uksi/2005/3050/schedule/4/paragraph/5) substituted (31.12.2020) by [The Railway (Licensing of Railway Undertakings) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/700)](https://www.legislation.gov.uk/uksi/2019/700), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/700/regulation/1/2), [19(4)](https://www.legislation.gov.uk/uksi/2019/700/regulation/19/4) (with [regs. 32-39](https://www.legislation.gov.uk/uksi/2019/700/regulation/32)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c13514021]: Marginal citation: [S.I. 1998/1340](https://www.legislation.gov.uk/uksi/1998/1340), to which there are amendments not relevant to these Regulations.
+
+[^key-90874379282151afa7db9ccd2e5f6638]: Textual amendment: [Sch. 4 para. 6](https://www.legislation.gov.uk/uksi/2005/3050/schedule/4/paragraph/6) omitted (31.12.2020) by virtue of [The Railway (Licensing of Railway Undertakings) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/700)](https://www.legislation.gov.uk/uksi/2019/700), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/700/regulation/1/2), [19(5)](https://www.legislation.gov.uk/uksi/2019/700/regulation/19/5) (with [regs. 32-39](https://www.legislation.gov.uk/uksi/2019/700/regulation/32)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-9d06670cddb979f41b0cd60bf77a0fd4]: Textual amendment: [Sch. 4 para. 8](https://www.legislation.gov.uk/uksi/2005/3050/schedule/4/paragraph/8) omitted (31.12.2020) by virtue of [The Railway (Licensing of Railway Undertakings) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/700)](https://www.legislation.gov.uk/uksi/2019/700), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/700/regulation/1/2), [19(5)](https://www.legislation.gov.uk/uksi/2019/700/regulation/19/5) (with [regs. 32-39](https://www.legislation.gov.uk/uksi/2019/700/regulation/32)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c13514031]: Marginal citation: [S.I. 2001/218](https://www.legislation.gov.uk/uksi/2001/218).

@@ -1,0 +1,387 @@
+---
+title: The Merchant Shipping and Other Transport (Environmental Protection) (Amendment) (EU Exit) Regulations 2019
+id: uksi/2019/311
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2019-02-19'
+text_date: '2024-05-10'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2019/311
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2019/311/pdfs/uksiem_20190311_en.pdf
+- http://www.legislation.gov.uk/uksi/2019/311/pdfs/uksi_20190311_en.pdf
+- http://www.legislation.gov.uk/uksi/2019/311/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Merchant Shipping and Other Transport (Environmental Protection) (Amendment) (EU Exit) Regulations 2019
+
+> Text as at 2024-05-10.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2019 No. 311
+
+Exiting The European Union
+
+Canals And Inland Waterways, England And Wales
+
+Environmental Protection, England And Wales
+
+Marine Pollution
+
+Transport And Works, England And Wales
+
+The Merchant Shipping and Other Transport (Environmental Protection) (Amendment) (EU Exit) Regulations 2019
+
+Made
+
+19th February 2019
+
+Coming into force in accordance with regulation 1(2) and (3)
+
+The Secretary of State makes these Regulations in exercise of the powers conferred by section 2(2) of the European Communities Act 1972[^f00001] and section 8(1) of the European Union (Withdrawal) Act 2018[^f00002].
+
+In accordance with paragraph 1(1) of Schedule 7 to the European Union (Withdrawal) Act 2018, a draft of this instrument has been laid before Parliament and approved by a resolution of each House of Parliament.
+
+The Secretary of State has been designated for the purposes of section 2(2) of the European Communities Act 1972 in relation to maritime transport[^f00003] and the environment[^f00004].
+
+## PART 1 — Introduction
+
+### 1. Citation and commencement[^key-ba304aaea12eb268c8b9c30ae67911ac]
+
+(1) These Regulations may be cited as the Merchant Shipping and Other Transport (Environmental Protection) (Amendment) (EU Exit) Regulations 2019.
+
+(2) Parts 1 and 2 come into force 21 days after making.
+
+(3) Parts 3, 4 and 5 come into force on exit day.
+
+## PART 2 — Amendment of legislation made under the European Communities Act 1972
+
+### 2. Amendment of the Transport and Works Act 1992[^key-5f200d3274faa28fd6c3e39be53134bc]
+
+(1) Part 1 of the Transport and Works Act 1992[^f00005] is amended as follows.
+
+(2) For section 6A(3)[^f00006] (cases where other Member States are affected) substitute—
+
+> (3) “Member State”, in relation to any time, includes a State which is at that time a party to the EEA agreement.
+
+.
+
+### 3. Amendment of the Merchant Shipping (Prevention of Air Pollution from Ships) Regulations 2008[^key-ddde5a9d438c835e805b1b933d830df7]
+
+(1) The Merchant Shipping (Prevention of Air Pollution from Ships) Regulations 2008[^f00007] are amended as follows.
+
+(2) In regulation 2 (interpretation)—
+
+- (a) omit the definition of “the 1999 Directive”[^f00008];
+- (b) after the definition of “the 1995 Regulations” insert—
+
+  > - “the 2016 Directive” means Directive (EU) 2016/802 of the European Parliament and of the Council of 11th May 2016 relating to a reduction in the sulphur content of certain liquid fuels[^f00009];
+
+  .
+
+(3) In regulation 32(3A)(b)[^f00010] (offences) for “articles 4c2, 4c3 or 4d of the 1999 Directive” substitute “paragraphs 2 and 4 of Article 8, and Article 9, of the 2016 Directive”.
+
+(4) In Schedule 2A (sulphur oxides)[^f00011]—
+
+- (a) in paragraph 1 (interpretation), in the definition of “emission abatement method”[^f00012], for “1999 Directive” substitute “2016 Directive”;
+- (b) in paragraph 2[^f00013] (control of sulphur oxide emissions: general provisions), in each place it occurs, for “Article 4c of the 1999 Directive” substitute “Article 8 of the 2016 Directive”;
+- (c) in paragraph 3(2)(d)(ii)[^f00014] (maximum sulphur content of marine fuel used by passenger ships) for “articles 4c2, 4c3 and 4d of the 1999 Directive” substitute “paragraphs 2 and 4 of Article 8, and Article 9, of the 2016 Directive”;
+- (d) in paragraph 4(2)(e)(ii)[^f00015] (maximum content of marine fuel used by ships at berth) for “articles 4c2, 4c3 and 4d of the 1999 Directive” substitute “paragraphs 2 and 4 of Article 8, and Article 9, of the 2016 Directive”;
+- (e) in paragraph 10(3)[^f00016] (analysis) for “articles 3a, 4, 4a and 4b of the 1999 Directive” substitute “Articles 4, 5, 6 and 7 of the 2016 Directive”.
+
+## PART 3 — Amendment of primary legislation for EU Exit purposes
+
+### 4. Amendment of the Transport and Works Act 1992[^key-3358f311bddca2bfb184c7b7728d55fe]
+
+(1) Part 1 of the Transport and Works Act 1992[^f00017] is amended as follows.
+
+(2) In section 6A[^f00018] (cases where other Member States are affected)—
+
+- (a) in the heading omit “other”;
+- (b) in subsections (1) and (2) for “another”, in each place it occurs, substitute “a”;
+- (c) in subsection (2)(b) for “that other” substitute “a”.
+
+(3) In section 13C(3)[^f00019] (EIA orders: monitoring measures and remedial action) for “implementing” substitute “which implemented”.
+
+(4) In section 14(3AB)[^f00020] (publicity for making or refusal of orders), in paragraph (a)(i), for “another” substitute “a”.
+
+## PART 4 — Amendment of subordinate legislation for EU Exit purposes
+
+### 5. Amendment of the Transport and Works (Applications and Objections Procedure) (England and Wales) Rules 2006[^key-2767d86777c3df45e108ddffb5fc4aa3]
+
+(1) The Transport and Works (Applications and Objections Procedure) (England and Wales) Rules 2006[^f00021] are amended as follows.
+
+(2) In rule 4 (interpretation and notices), after paragraph (4) insert—
+
+> (5) For the purposes of these Rules, references to Annex III of the Directive are to be read as if—
+>
+> - (a) in point 2(c)(v), the reference to Member States were a reference to the Secretary of State;
+> - (b) in point 2(c)(vi), the reference to Union legislation were a reference to retained EU law.
+
+.
+
+(3) In rule 7 (the requirement for environmental statement and screening decisions)—
+
+- (a) in paragraphs (5) and (11)(b)—
+  - (i) for “European Union legislation” substitute “retained EU law”;
+  - (ii) for “implementing” substitute “which implemented”;
+- (b) in paragraph (10) omit “for the purposes of the Directive”;
+- (c) in paragraph (11)(c) before “are relevant” insert “the Secretary of State determines”;
+- (d) in paragraph (14) before “in Annex III” insert “set out”.
+
+(4) In rule 7A(2)(b) (environmental impact assessment) after “protected under” insert “any law of any part of the United Kingdom which implemented”.
+
+(5) In rule 11(2)(c) (environmental statements: provision of information) for “European Union legislation” substitute “retained EU law”.
+
+(6) In rule 16 (developments likely to have significant effects on the environment of another part of the United Kingdom or certain other states)—
+
+- (a) in paragraphs (1)(b), (1)(c) and (4) for “another” substitute “a”;
+- (b) in paragraph 7(a) for “the authorities referred to in Article 6(1) of the Directive” substitute “any authority which the Member State has indicated it wishes to be consulted by reason of the authority’s specific environmental responsibilities or local or regional competencies”;
+- (c) in paragraph (7)(d) omit “other”.
+
+(7) In Schedule 1 (information to be included in environmental statements)—
+
+- (a) in paragraph 5(2) for the second sentence substitute—
+
+  > This description should take into account the environmental protection objectives which are relevant to the project.
+
+  ;
+- (b) in paragraph 8—
+  - (i) for “European Union legislation such as” substitute “retained EU law such as any law of any part of the United Kingdom which implemented”;
+  - (ii) before “domestic legislation” insert “other”;
+  - (iii) after “requirements of” insert “any law of any part of the United Kingdom which implemented”.
+
+(8) In Schedule 7 (proposals for orders under section 7)—
+
+- (a) in paragraph 3 for “within the meaning of the Directive,” substitute “(as defined in Article 1(2)(a) of the Directive)”;
+- (b) in paragraph 7(b)—
+  - (i) for “European Union legislation” substitute “retained EU law”;
+  - (ii) for “implementing” substitute “which implemented”;
+- (c) in paragraph 30, in sub-paragraphs (1)(a), (1)(b) and (2)(c), for “another” substitute “a”.
+
+### 6. Amendment of the Merchant Shipping (Prevention of Air Pollution from Ships) Regulations 2008[^key-7f9d13e0678703c7433486acf462f519]
+
+(1) The Merchant Shipping (Prevention of Air Pollution from Ships) Regulations 2008[^f00022] are amended as follows.
+
+(2) In regulation 2[^f00023] (interpretation) for the definition of “Certifying Authority” substitute—
+
+> - “Certifying Authority” means the Secretary of State or any person authorised by the Secretary of State in accordance with regulation 4 (certifying authorities) of the Merchant Shipping (Survey and Certification) Regulations 2015[^f00024];
+
+.
+
+(3) In regulation 32(3A)(b)[^f00025] (offences) omit “other than the United Kingdom”.
+
+(4) In Schedule 2 (engines excluded from regulation 21), in paragraph 1(c), before “the European Economic Area” insert “the United Kingdom or”.
+
+(5) In Schedule 2A[^f00026] (sulphur oxides)—
+
+- (a) in paragraph 3(2)(d)(ii)[^f00027] (maximum sulphur content of marine fuel used by passenger ships) omit “other than the United Kingdom”;
+- (b) in paragraph 3(6) for the definition of “regular service” substitute—
+
+  > - “regular service” means a series of crossings operated so as to serve traffic between the same two or more ports where each port is either in the United Kingdom or within the European Union, or a series of voyages from and to the same port in the United Kingdom or within the European Union without intermediate calls, either—
+  >   - (a) according to a published timetable, or
+  >   - (b) with crossings so regular that they constitute a recognisable schedule.
+
+  ;
+- (c) in paragraph 4(2)(e)(ii)[^f00028] (maximum content of marine fuel used by ships at berth) omit “other than the United Kingdom”;
+- (d) in paragraph 6 (trials of emission abatement technologies)—
+  - (i) for sub-paragraph (4) substitute—
+
+    > (4) The Secretary of State must, at least six months before an intended trial begins, give notice of that trial in writing to any port State concerned.
+
+    ;
+  - (ii) in sub-paragraph (5) omit “(a)(ii)”.
+
+### 7. Amendment of the Merchant Shipping (Anti-Fouling Systems) Regulations 2009[^key-a9860631cef7d069219fc2b9360416a0]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART 5 — Amendment of direct EU legislation
+
+### 8. Amendment of Regulation [(EC) 782/2003](https://www.legislation.gov.uk/european/regulation/2003/0782)[^key-a9860631cef7d069219fc2b9360416a0]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 9. Amendment of Commission Regulation [(EC) 536/2008](https://www.legislation.gov.uk/european/regulation/2008/0536)[^key-a9860631cef7d069219fc2b9360416a0]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 10. Amendment of Commission Implementing Decision (EU) 2015/253[^key-bd28b81f2abef6910d5f06d7c5f6a448]
+
+(1) Commission Implementing Decision (EU) 2015/253 of 16th February 2015 laying down the rules concerning the sampling and reporting under Council [Directive 1999/32/EC](https://www.legislation.gov.uk/european/directive/1999/0032) as regards the sulphur content of marine fuels is amended as follows.
+
+(2) In Article 1 (subject matter) for “[Directive 1999/32/EC](https://www.legislation.gov.uk/european/directive/1999/0032)” substitute “Directive (EU) 2016/802”.
+
+(3) In Article 2 (definitions)—
+
+- (a) in paragraph 4—
+  - (i) for “the competent authority of a Member State” substitute “the Secretary of State or persons appointed by the Secretary of State”;
+  - (ii) for “[Directive 1999/32/EC](https://www.legislation.gov.uk/european/directive/1999/0032)” substitute “Directive (EU) 2016/802”;
+- (b) after paragraph 4 insert—
+
+  > (4A) ‘United Kingdom ship’ has the same meaning as in section 85(2) of the Merchant Shipping Act 1995[^f00032].
+
+  ;
+- (c) omit paragraph 5.
+
+(4) In Article 3 (frequency of sampling of marine fuels being used on board ships)—
+
+- (a) in paragraph 1—
+  - (i) for “Member States” substitute “The Secretary of State or persons appointed by the Secretary of State”;
+  - (ii) for “relevant Member State” substitute “United Kingdom”;
+- (b) in the first unnumbered paragraph—
+  - (i) for “a Member State” substitute “the United Kingdom”;
+  - (ii) omit the words “as reported through SafeSeaNet”;
+- (c) for paragraph 2 substitute—
+
+  > **2.** As from 1 January 2016, the sulphur content of the marine fuel being used on board shall also be checked by sampling or analysis or both of at least 30 per cent of the inspected ships referred to in paragraph 1.
+  >
+  > The Secretary of State or persons appointed by the Secretary of State may comply with the frequencies specified in this paragraph by selecting ships on the basis of national risk-based targeting mechanisms and of specific alerts on individual ships.
+
+  ;
+- (d) in paragraph 3(b)—
+  - (i) for “relevant Member State” substitute “United Kingdom”;
+  - (ii) omit the unnumbered paragraph;
+- (e) in paragraph 4—
+  - (i) for “a Member State” substitute “the Secretary of State”;
+  - (ii) for “the Union” substitute “a”;
+- (f) omit paragraph 5.
+
+(5) In Article 4 (frequency of sampling of marine fuels while being delivered to ships)—
+
+- (a) in paragraph 1—
+  - (i) for “Article 6(1a)(b) of [Directive 1999/32/EC](https://www.legislation.gov.uk/european/directive/1999/0032)” substitute “Article 13(2) of Directive (EU) 2016/802”;
+  - (ii) for “Member States” substitute “the Secretary of State or persons appointed by the Secretary of State”;
+  - (iii) for “that Member State” substitute “the United Kingdom”;
+  - (iv) omit the words “on the basis of the reporting in the Union information system or in the annual report referred to in Article 7”;
+- (b) omit paragraph 2.
+
+(6) In paragraph 1 of Article 5 (sampling methods for the verification of the sulphur content of the marine fuel being used on board) for “Member States” substitute “the Secretary of State or persons appointed by the Secretary of State”.
+
+(7) In Article 6 (on-board spot sampling), in each place it occurs, for “Member States” substitute “The Secretary of State or persons appointed by the Secretary of State”.
+
+(8) In Article 7 (information to be included in the annual report)—
+
+- (a) for the first unnumbered paragraph substitute—
+
+  > The Secretary of State must publish an annual report on compliance with sulphur standards for marine fuels. The report must include at least the following information:
+
+  ;
+- (b) for paragraph (c) substitute—
+
+  > - (c) claims of non-availability of marine fuels as referred to in Article 6(8) of Directive (EU) 2016/802, including—
+  >   - (i) the ship details;
+  >   - (ii) bunkering port;
+  >   - (iii) if the non-availability occurred in the United Kingdom or a Member State, where the non-availability occurred;
+  >   - (iv) number of claims made by the same ship; and
+  >   - (v) type of bunker unavailable;
+
+  ;
+- (c) in paragraph (e) for “relevant Member State” substitute “United Kingdom”;
+- (d) in paragraph (f) for “[Directive 1999/32/EC](https://www.legislation.gov.uk/european/directive/1999/0032) of the ships flying the flag of the Member State” substitute “Directive (EU) 2016/802 of United Kingdom ships”.
+
+(9) Omit Article 8 (format of the report).
+
+Signed by authority of the Secretary of State for Transport
+
+Nusrat Ghani
+
+Parliamentary Under Secretary of State
+
+Department for Transport
+
+19th February 2019
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+The provision made by Part 2 of these Regulations is made under section 2(2) of the European Communities Act [1972 (c. 68)](https://www.legislation.gov.uk/ukpga/1972/68) in order to update references to [Directive 1999/32/EC](https://www.legislation.gov.uk/european/directive/1999/0032), which was repealed and replaced (without substantive amendment) by Directive (EU) 2016/802 (O.J. No L 132, 21.05.2016, p. 58), and update an out-of-date reference to the EEA agreement in the Transport and Works Act [1992 (c. 42)](https://www.legislation.gov.uk/ukpga/1992/42).
+
+The remaining Regulations are made in exercise of the powers in section 8 of the European Union (Withdrawal) Act [2018 (c. 16)](https://www.legislation.gov.uk/ukpga/2018/16) in order to address failures of retained EU law to operate effectively and other deficiencies (in particular under section 8(2)(a) and 8(2)(g)) arising from the withdrawal of the United Kingdom from the European Union. Part 3 amends primary legislation, Part 4 amends secondary legislation and Part 5 amends retained EU Regulations and Decisions. The amendments are made to legislation governing environmental impact assessments for certain transport purposes and legislation on the sulphur content of marine fuels and prohibited anti-fouling systems.
+
+An Impact Assessment has not been produced for this instrument as no, or no significant, impact on the private or voluntary sector is foreseen. An Explanatory Memorandum has been published alongside these Regulations and is available with these Regulations on www.legislation.gov.uk.
+
+## Annotations
+
+[^f00001]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68). Section 2 was amended by section 27(1)(a) of the Legislative and Regulatory Reform Act [2006 (c. 51)](https://www.legislation.gov.uk/ukpga/2006/51) and Part 1 of the Schedule to the European Union (Amendment) Act [2008 (c. 7)](https://www.legislation.gov.uk/ukpga/2008/7).
+
+[^f00002]: Footnote: [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16).
+
+[^f00003]: Footnote: [S.I. 1994/757](https://www.legislation.gov.uk/uksi/1994/757).
+
+[^f00004]: Footnote: [S.I. 2008/301](https://www.legislation.gov.uk/uksi/2008/301).
+
+[^key-ba304aaea12eb268c8b9c30ae67911ac]: Commencement: Reg. 1 in force at 12.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/311/regulation/1/2)
+
+[^key-5f200d3274faa28fd6c3e39be53134bc]: Commencement: Reg. 2 in force at 12.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/311/regulation/1/2)
+
+[^f00005]: Footnote: [1992 c. 42](https://www.legislation.gov.uk/ukpga/1992/42).
+
+[^f00006]: Footnote: As inserted by [S.I. 1998/2226](https://www.legislation.gov.uk/uksi/1998/2226), and subsequently amended by [S.I. 2000/3199](https://www.legislation.gov.uk/uksi/2000/3199).
+
+[^key-ddde5a9d438c835e805b1b933d830df7]: Commencement: Reg. 3 in force at 12.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/311/regulation/1/2)
+
+[^f00007]: Footnote: [S.I. 2008/2924](https://www.legislation.gov.uk/uksi/2008/2924), as amended by [S.I. 2010/895](https://www.legislation.gov.uk/uksi/2010/895), [S.I. 2010/3035](https://www.legislation.gov.uk/uksi/2010/3035), [S.I. 2011/3056](https://www.legislation.gov.uk/uksi/2011/3056), [S.I. 2014/3076](https://www.legislation.gov.uk/uksi/2014/3076), [S.I. 2014/3306](https://www.legislation.gov.uk/uksi/2014/3306) and [S.I. 2016/1025](https://www.legislation.gov.uk/uksi/2016/1025).
+
+[^f00008]: Footnote: Definition inserted by [S.I. 2014/3076](https://www.legislation.gov.uk/uksi/2014/3076).
+
+[^f00009]: Footnote: O.J. No. L 132, 21.05.2016, p. 58.
+
+[^f00010]: Footnote: Regulation 32(3A) was inserted by [S.I. 2010/895](https://www.legislation.gov.uk/uksi/2010/895) and subsequently substituted by [S.I. 2014/3076](https://www.legislation.gov.uk/uksi/2014/3076).
+
+[^f00011]: Footnote: Schedule 2A was inserted by [S.I. 2010/895](https://www.legislation.gov.uk/uksi/2010/895).
+
+[^f00012]: Footnote: Definition substituted by [S.I. 2014/3076](https://www.legislation.gov.uk/uksi/2014/3076).
+
+[^f00013]: Footnote: Paragraph 2 was amended by [S.I. 2014/3076](https://www.legislation.gov.uk/uksi/2014/3076).
+
+[^f00014]: Footnote: Paragraph 3(2)(d) was substituted by [S.I. 2014/3076](https://www.legislation.gov.uk/uksi/2014/3076).
+
+[^f00015]: Footnote: Paragraph 4(2)(e) was substituted by [S.I. 2014/3076](https://www.legislation.gov.uk/uksi/2014/3076).
+
+[^f00016]: Footnote: Paragraph 10(3) was substituted by [S.I. 2014/3076](https://www.legislation.gov.uk/uksi/2014/3076).
+
+[^key-3358f311bddca2bfb184c7b7728d55fe]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2019/311/regulation/4) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/311/regulation/1/3)
+
+[^f00017]: Footnote: [1992 c. 42](https://www.legislation.gov.uk/ukpga/1992/42).
+
+[^f00018]: Footnote: As inserted by [S.I. 1998/2226](https://www.legislation.gov.uk/uksi/1998/2226), and subsequently amended by [S.I. 2000/3199](https://www.legislation.gov.uk/uksi/2000/3199).
+
+[^f00019]: Footnote: As inserted by [S.I. 2017/1070](https://www.legislation.gov.uk/uksi/2017/1070).
+
+[^f00020]: Footnote: As inserted by [S.I. 2017/1070](https://www.legislation.gov.uk/uksi/2017/1070).
+
+[^key-2767d86777c3df45e108ddffb5fc4aa3]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2019/311/regulation/5) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/311/regulation/1/3)
+
+[^f00021]: Footnote: [S.I. 2006/1466](https://www.legislation.gov.uk/uksi/2006/1466), as amended by [S.I. 2008/969](https://www.legislation.gov.uk/uksi/2008/969), [S.I. 2010/439](https://www.legislation.gov.uk/uksi/2010/439), [S.I. 2010/1551](https://www.legislation.gov.uk/uksi/2010/1551), [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [S.I. 2011/1829](https://www.legislation.gov.uk/uksi/2011/1829), [S.I. 2011/2085](https://www.legislation.gov.uk/uksi/2011/2085), [S.I. 2012/147](https://www.legislation.gov.uk/uksi/2012/147), [S.I. 2012/1658](https://www.legislation.gov.uk/uksi/2012/1658), [S.I. 2012/1659](https://www.legislation.gov.uk/uksi/2012/1659), [S.I. 2012/2590](https://www.legislation.gov.uk/uksi/2012/2590), [S.I. 2013/755](https://www.legislation.gov.uk/uksi/2013/755), [S.I. 2013/1888](https://www.legislation.gov.uk/uksi/2013/1888), [S.I. 2014/469](https://www.legislation.gov.uk/uksi/2014/469), [S.I. 2015/627](https://www.legislation.gov.uk/uksi/2015/627), [S.I. 2015/1682](https://www.legislation.gov.uk/uksi/2015/1682) and [S.I. 2017/1070](https://www.legislation.gov.uk/uksi/2017/1070).
+
+[^key-7f9d13e0678703c7433486acf462f519]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2019/311/regulation/6) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/311/regulation/1/3)
+
+[^f00022]: Footnote: [S.I. 2008/2924](https://www.legislation.gov.uk/uksi/2008/2924), as amended by [S.I. 2010/895](https://www.legislation.gov.uk/uksi/2010/895), [S.I. 2010/3035](https://www.legislation.gov.uk/uksi/2010/3035), [S.I. 2011/3056](https://www.legislation.gov.uk/uksi/2011/3056), [S.I. 2014/3076](https://www.legislation.gov.uk/uksi/2014/3076), [S.I. 2014/3306](https://www.legislation.gov.uk/uksi/2014/3306) and [S.I. 2016/1025](https://www.legislation.gov.uk/uksi/2016/1025).
+
+[^f00023]: Footnote: Regulation 2 was substituted by [S.I. 2011/3056](https://www.legislation.gov.uk/uksi/2011/3056).
+
+[^f00024]: Footnote: [S.I. 2015/508](https://www.legislation.gov.uk/uksi/2015/508), to which there are amendments not relevant to these Regulations.
+
+[^f00025]: Footnote: Regulation 32(3A) was substituted by [S.I. 2014/3076](https://www.legislation.gov.uk/uksi/2014/3076).
+
+[^f00026]: Footnote: Schedule 2A was inserted by [S.I. 2010/895](https://www.legislation.gov.uk/uksi/2010/895).
+
+[^f00027]: Footnote: Paragraph 3(2)(d) was substituted by [S.I. 2014/3076](https://www.legislation.gov.uk/uksi/2014/3076).
+
+[^f00028]: Footnote: Paragraph 4(2)(e) was substituted by [S.I. 2014/3076](https://www.legislation.gov.uk/uksi/2014/3076).
+
+[^key-a9860631cef7d069219fc2b9360416a0]: Textual amendment: [Regs. 7-9](https://www.legislation.gov.uk/uksi/2019/311/regulation/7) revoked (10.5.2024) by [The Merchant Shipping (Anti-Fouling Systems) Regulations 2024 (S.I. 2024/509)](https://www.legislation.gov.uk/uksi/2024/509), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/509/regulation/1/1), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2024/509/schedule/part/2) (with [reg. 4](https://www.legislation.gov.uk/uksi/2024/509/regulation/4))
+
+[^key-bd28b81f2abef6910d5f06d7c5f6a448]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2019/311/regulation/10) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/311/regulation/1/3)
+
+[^f00032]: Footnote: [1995 c. 21](https://www.legislation.gov.uk/ukpga/1995/21).

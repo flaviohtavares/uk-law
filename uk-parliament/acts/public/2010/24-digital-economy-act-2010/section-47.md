@@ -1,0 +1,41 @@
+---
+title: Digital Economy Act 2010, section 47
+act: Digital Economy Act 2010
+section: '47'
+status: revised
+text_date: '2024-08-23'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2010/24/section/47
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Digital Economy Act 2010, section 47
+
+> Text as at 2024-08-23.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 47. Commencement
+
+*Extent: E+W+S+N.I.*
+
+(1) This Act comes into force at the end of the period of two months beginning with the day on which it is passed, but this is subject to—
+
+- (a) section 28(8), and
+- (b) subsections (2) and (3).
+
+(2) The following come into force on the day on which this Act is passed—
+
+- (a) sections 5, 6, 7, 15 and 16(1),
+- (b) sections 30 to 32, and
+- (c) this section and sections 46 and 48.
+
+(3) The following come into force on such day as the Secretary of State may by order made by statutory instrument appoint—
+
+- (a) sections 19 to 21,
+- (b) section 29 and the entries in Schedule 2 relating to sections 183A and 184 of the Broadcasting Act 1990 and Schedule 15 to the Communications Act 2003 (and section 45 so far as it relates to those entries),
+- (c) sections 40(2), (3), (5) and (6) and 41(1), paragraphs 2 to 4, 6 to 9 and 10(2) of Schedule 1 (and section 41(2) so far as it relates to those provisions) and the entries in Schedule 2 relating to sections 2, 4 and 22 of the Video Recordings Act 1984 (and section 45 so far as it relates to those entries), and
+- (d) section 43 and the entry in Schedule 2 relating to the Public Lending Right Act 1979 (and section 45 so far as it relates to that entry).
+
+(4) The Secretary of State may appoint different days for different purposes.

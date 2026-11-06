@@ -1,0 +1,123 @@
+---
+title: The Taxis (Schemes for Hire at Separate Fares) Regulations 1986
+id: uksi/1986/1779
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '1986-10-15'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1986/1779
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1986/1779/pdfs/uksi_19861779_en.pdf
+- http://www.legislation.gov.uk/uksi/1986/1779/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Westlaw UK derived from Crown Copyright material and contributed to legislation.gov.uk
+summary: ''
+---
+
+# The Taxis (Schemes for Hire at Separate Fares) Regulations 1986
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+1986 No. 1779
+
+PUBLIC PASSENGER TRANSPORT
+
+The Taxis (Schemes for Hire At Separate Fares) Regulations 1986
+
+Made
+
+15th October 1986
+
+Laid before Parliament
+
+24th October 1986
+
+Coming into Operation
+
+14th November 1986
+
+The Secretary of State for Transport, in exercise of the powers conferred by section 10(5)(c) and (8) of the Transport Act 1985, and of all other enabling powers, and after consultation with representative organisations in accordance with section 61(2) of the Public Passenger Vehicles Act 1981[^f00001], hereby makes the following Regulations:—
+
+## 1. Citation and commencement
+
+These Regulations may be cited as the Taxis (Schemes for Hire at Separate Fares) Regulations 1986 and shall come into operation on 14th November 1986.
+
+## 2. Interpretation
+
+(1) In these Regulations, unless the context otherwise requires:
+
+- “**the Act**” means the Transport Act 1985;
+- “**authorised place**” has the meaning given by section 10(5)(a) of the Act;
+- “**authority**” means a licensing authority as defined in section 10(3) of the Act except the authority in relation to the London taxi area;
+- “**owner**” has the meaning given by section 61(8) of the Road Traffic Regulation Act 1984;
+- “**scheme**” means a scheme made by an authority under section 10 of the Act.
+
+(2) In these Regulations, any reference to a numbered regulation is a reference to the regulation bearing that number in these Regulations, and any reference to a numbered paragraph is a reference to the paragraph bearing that number in the regulation in which the reference appears.
+
+## 3. Obligatory provisions
+
+(1) A scheme shall include provisions having the effect of each of the provisions described in paragraph 2.
+
+(2) The following are the descriptions of the provisions mentioned in paragraph (1):—
+
+- (a) a provision which permits any vehicle, which is licensed by the authority to ply for hire in an area where the scheme is in operation, to be used at the option of the holder of the licence for the carriage of passengers at separate fares under the terms of the scheme;
+- (b) a provision by which, when a vehicle is hired in accordance with the scheme, the provisions of the scheme applying to the journey for which it is hired are applied to any part of that journey outside the area in which the scheme is in operation as they apply to any part within that area;
+- (c) a provision which requires any vehicle standing for hire under the terms of the scheme at an authorised place to display (in addition to any sign, mark or notice which it is required to display by the taxi code) a notice which indicates that the vehicle is available for hire at separate fares.
+
+## 4. Consents and consultations
+
+Before making a scheme, an authority shall:—
+
+(1) obtain the consent in respect of any authorised place—
+
+- (a) on a highway, of the highway authority;
+- (b) on land not forming part of a highway, of the highway authority for the highway to which there is immediate access and of the owner of that land;
+
+(2) consult with—
+
+- (a) the council of the county or the Passenger Transport Authority for the passenger transport area which includes the area of the scheme;
+- (b) the chief officer of police of any police area in which an authorised place is situated; and
+- (c) persons or organisations who appear to it to be, or to be representative of, operators and drivers of taxis operating in the area of the scheme.
+
+## 5. Publication
+
+(1) After obtaining the consents of, and consulting with, the persons referred to in regulation 4, and before making the scheme, the authority shall publish at least once in a local newspaper circulating in its area a notice which:—
+
+- (a) describes the general nature and effect of the proposed scheme;
+- (b) lists the locations of the authorised places;
+- (c) specifies the period, being not less than 28 days from the date of first publication of the notice, within which representations may be made to the authority regarding the proposed scheme;
+- (d) specifies the manner in which such representations shall be made;
+- (e) specifies the address, times and dates at which copies of the proposed scheme are available for inspection in accordance with paragraph (2).
+
+(2) The authority shall make copies of the proposed scheme available for inspection at its principal office during normal business hours for at least the period of 28 days specified in paragraph (1)(c).
+
+## 6. Making the scheme
+
+(1) After consideration of any representations made in accordance with regulation 5(1)(c) and (d) and paragraph (2), the authority may make the scheme with or without modifications.
+
+(2) Where the authority proposes to make the scheme with modifications which appear to it substantially to affect the character of the scheme as drafted, then, before making the scheme, the authority shall take such steps as appear to it to be appropriate for informing the persons likely to be concerned of the effect of the proposed modifications and for giving to those persons an opportunity to make representations in connection therewith.
+
+## 7. Variations of Schemes
+
+Regulations 4 to 6 shall apply to any variation of a scheme, subject to the following modifications:—
+
+- (a) references to making a scheme shall be read as references to varying a scheme;
+- (b) references to the proposed scheme shall be read as references to the proposed variation; and
+- (c) the reference to 28 days in regulation 5(1)(c) and (2) shall be read as a reference to 21 days.
+
+John Moore
+
+Secretary of State for Transport
+
+15th October 1986
+
+EXPLANATORY NOTE
+
+Section 10 of the Transport Act 1985 provides for schemes to be made by the authorities in England and Wales which license taxis to regulate the immediate hiring of taxis at separate fares. These Regulations apply to all schemes outside London and prescribe the description of the provisions which are required to be included (regulation 3). Procedural requirements relating to consents and consultations (regulation 4), publication of notices and making draft schemes available for inspection (regulation 5), and the making of the schemes (regulation 6) are set out. Similar procedural requirements apply to variations of schemes (regulation 7).
+
+## Annotations
+
+[^f00001]: Footnote: section 61 was amended by section 135(1) of the Transport Act 1985.

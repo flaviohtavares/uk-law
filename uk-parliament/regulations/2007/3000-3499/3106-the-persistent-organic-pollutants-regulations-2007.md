@@ -1,0 +1,250 @@
+---
+title: The Persistent Organic Pollutants Regulations 2007
+id: uksi/2007/3106
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2007-10-30'
+text_date: '2026-07-16'
+extent: E+W+S+NI
+source_url: https://www.legislation.gov.uk/uksi/2007/3106
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2007/3106/pdfs/uksiem_20073106_en.pdf
+- http://www.legislation.gov.uk/uksi/2007/3106/pdfs/uksi_20073106_en.pdf
+- http://www.legislation.gov.uk/uksi/2007/3106/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Persistent Organic Pollutants Regulations 2007
+
+> Text as at 2026-07-16.
+>
+> Extent: England, Wales, Scotland, NI.
+
+*Extent: E+W+S+NI*
+
+2007 No. 3106
+
+environmental protection
+
+The Persistent Organic Pollutants Regulations 2007
+
+Made
+
+30th October 2007
+
+Laid before Parliament
+
+1st November 2007
+
+Coming into force
+
+3rd December 2007
+
+The Secretary of State—
+
+- (a) to whom it appears that it is expedient for the references to Regulation [(EC) No. 850/2004](https://www.legislation.gov.uk/european/regulation/2004/0850) of the European Parliament and of the Council on persistent organic pollutants[^f00001] to be construed as references to that Regulation as amended from time to time, and
+- (b) who is a Minister designated[^f00002] for the purposes of section 2(2) of, as read with paragraph 1A of Schedule 2 to, the European Communities Act 1972[^f00003] in relation to measures relating to persistent organic pollutants,
+
+makes these Regulations under that section.
+
+## 1. Title and commencement
+
+These Regulations may be cited as the Persistent Organic Pollutants Regulations 2007 and come into force on 3rd December 2007.
+
+## 2. Meaning of Regulation (EU) 2019/1021[^key-b1fd5761d099fb96b8578fabc03a010b]
+
+In these Regulations, “Regulation (EU) 2019/1021” means Regulation (EU) 2019/1021 of the European Parliament and of the Council on persistent organic pollutants (recast), as amended from time to time.
+
+## 3. The competent authority and the enforcement authority
+
+*Extent: E+W+S+N.I.*
+
+(1) The competent authority for the purposes of these Regulations is[^key-a43cc5ec6c6dac6d17c7562322807a0b] —
+
+- (a) in England [^key-b8b892679d5523e29841ca77ba8c15f1]..., the Environment Agency;
+- (aa)[^key-ee680743b8620d4e0e6b81b8edc384ac] in Wales, the Natural Resources Body for Wales;
+- (b) in Northern Ireland, the Department of Agriculture, Environment and Rural Affairs[^key-c0e630cb478acd257d7c17a645ed3cd2]; and
+- (c) in Scotland, the Scottish Environment Protection Agency.
+
+(2) The competent authority is also the enforcement authority[^key-a835bc4144db4eaa30096293c6f55315] for the purposes of these Regulations.
+
+## 4. Duties on the United Kingdom in respect of Northern Ireland in Regulation (EU) 2019/1021[^key-c75a907587b52cff7da6daaadf25941a]
+
+*Extent: E+W+S+N.I.*
+
+All duties placed on the United Kingdom in respect of Northern Ireland in Regulation (EU) 2019/1021 must be executed by the Department of Agriculture, Environment and Rural Affairs in Northern Ireland, other than—
+
+- (a) Article 4(3) of that Regulation, where they must be executed by the Secretary of State; and
+- (b) Article 6(3) of that Regulation, which must be complied with by any person considering an application for a permit or a significant modification to a permit under the Pollution Prevention and Control (Industrial Emissions) Regulations (Northern Ireland) 2013.
+
+## 5. Production, placing on the market and use
+
+Any person who produces, places on the market or uses a substance in contravention of Article 3 of Regulation (EU) 2019/1021 (control of manufacturing, placing on the market and use, and the listing of substances)[^key-a56f3e5e0417d1c1b6e0f8a568856927] is guilty of an offence.
+
+## 6. Stockpiles
+
+(1) Any person who contravenes Article 5(1) of Regulation (EU) 2019/1021 (stockpiles)[^key-b7962921daad6435a97853f190b5a1b0] is guilty of an offence.
+
+(2) Any person who contravenes the first paragraph of Article 5(2) of that Regulation (provision of information) is guilty of an offence.
+
+(3) Any person who contravenes the second paragraph of Article 5(2) of that Regulation (management of a stockpile consisting of or containing specified substances in a safe, efficient and environmentally sound manner) is guilty of an offence.
+
+## 7. Waste management
+
+(1) Any person who contravenes Article 7(1) of Regulation (EU) 2019/1021 (waste management)[^key-ab391d1d640041e3da4a8cf8383d645e] is guilty of an offence.
+
+(2) Any producer or holder of waste that is specified in paragraph 2 of Article 7 of that Regulation who fails to dispose of it or recover it in accordance with that paragraph is guilty of an offence.
+
+(3) Any person who contravenes Article 7(3) of that Regulation (prohibition of specified disposal and recovery operations) is guilty of an offence.
+
+## 8. Derogation
+
+(1) In accordance with Article 7(4)(b) of Regulation (EU) 2019/1021[^key-2d32db183112a07982eb3ca7b528679c], a holder of waste may apply to the competent authority for it to be dealt with in accordance with a method listed in Part 2 of Annex V to that Regulation.
+
+(2) If an application is refused, or is granted subject to conditions, the applicant may within 28 days give written notice to the Secretary of State that the applicant wishes to make representations on the decision.
+
+(3) The Secretary of State must appoint a person to receive those representations.
+
+(4) The appointed person must consider the representations and report in writing to the Secretary of State.
+
+(5) The Secretary of State must make a final determination and must give the applicant written notification of that determination and the reasons for it.
+
+## 9. Fees
+
+(1) Section 41(1) of the Environment Act 1995 (power to make schemes imposing charges)[^f00007] is amended as follows—
+
+- (a) omit the word “and” at the end of Paragraph (c); and
+- (b) after Paragraph (d), insert—
+
+  > and
+  >
+  > - (e) as a means of recovering costs incurred by it in performing functions conferred by Regulation [(EC) No. 850/2004](https://www.legislation.gov.uk/european/regulation/2004/0850) of the European Parliament and of the Council on persistent organic pollutants and amending Directive [79/117/EEC](https://www.legislation.gov.uk/european/directive/1979/0117) as amended from time to time, each of the new Agencies may require the payment to it of such charges as may from time to time be prescribed;
+
+  .
+
+(2) As a means of recovering costs incurred by it in performing functions conferred by Article 7(4)(b) of Regulation (EU) 2019/1021[^key-8ea338da55b468d9359e698418a7c9ba]—
+
+- (a)[^key-6754b89bf47ca93858cdbe2bba75e940] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) in Northern Ireland the Department of Agriculture, Environment and Rural Affairs[^key-6deb1ef9342c830d4e422943d712b7d3] may charge the fee of £2,000.
+
+(3) Fees must be paid by the applicant with the application.
+
+## 10. Notices
+
+(1) A person authorised by the enforcement authority may serve a notice on any person who contravenes, or who the authorised person has reasonable grounds to suspect may contravene, Regulation (EU) 2019/1021[^key-5d77ee893cc529ab55b4865415a85d84]—
+
+- (a) requiring that person to act in accordance with Regulation (EU) 2019/1021[^key-36e4034f5c4ce75f00e5ac511994a02f], or
+- (b) prohibiting that person from acting in breach of it.
+
+(2) The notice must—
+
+- (a) give reasons for serving it;
+- (b) specify what action must be taken and give any necessary time limits; and
+- (c) explain the right of appeal and the period in which an appeal may be brought.
+
+(3) Any person who is aggrieved by a notice may appeal to a magistrates’ court or, in Scotland, to the sheriff.
+
+(4) The procedure on an appeal to a magistrates’ court is by way of complaint, and the Magistrates’ Courts Act 1980[^f00008] or, in the case of Northern Ireland, the Magistrates’ Courts (Northern Ireland) Order 1981[^f00009] applies to the proceedings.
+
+(5) An appeal to the sheriff is by summary application.
+
+(6) An appeal must be brought within 28 days of service of the notice or the period specified in the notice, whichever ends earlier.
+
+(7) A court may suspend a notice pending an appeal.
+
+## 11. Penalties[^key-5a37b54f2bf3e5c09ea95f77ea8b4047]
+
+(1) A person guilty of an offence under these Regulations is liable—
+
+- (a) on summary conviction, to a fine not exceeding the statutory maximum or to imprisonment for a term not exceeding three months or both; or
+- (b) on conviction on indictment, to a fine or to imprisonment for a term not exceeding two years or both.
+
+(2) Where a body corporate is guilty of an offence under these Regulations, and that offence is proved to have been committed with the consent or connivance of, or to have been attributable to any neglect on the part of—
+
+- (a) any director, manager, secretary or other similar officer of the body corporate, or
+- (b) any person who was purporting to act in any such capacity,
+
+that person, as well as the body corporate, is guilty of the offence and is liable to be proceeded against and punished accordingly.
+
+(3) For the purposes of this regulation, “director”, in relation to a body corporate whose affairs are managed by its members, means a member of the body corporate.
+
+(4) Where an offence that has been committed by a Scottish partnership is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, a partner, that partner as well as the partnership is guilty of the offence.
+
+Phil Woolas
+
+Minister of State
+
+Department for Environment, Food and Rural Affairs
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations enforce Regulation [(EC) No. 850/2004](https://www.legislation.gov.uk/european/regulation/2004/0850) of the European Parliament and of the Council on persistent organic pollutants and amending Directive [79/117/EEC](https://www.legislation.gov.uk/european/directive/1979/0117) (OJ No. L158. 30.4.2004, p. 7. A corrected version of this Regulation was published in OJ No. L 229, 29.6.2004, p. 5).
+
+They designate competent authorities and enforcement authorities (regulation 3) and specify who carries out the duties of the member State (regulation 4).
+
+They enforce provisions relating to production, placing on the market and use of specified substances (regulation 5), stockpiles of specified substances (regulation 6) and waste management (regulation 7).
+
+They provide for applications for a derogation to use different methods of disposal of waste (regulation 8).
+
+They make provision for fees (regulation 9).
+
+Under regulation 11 a person guilty of an offence under these Regulations is liable—
+
+- (a) on summary conviction, to a fine not exceeding the statutory maximum or to imprisonment for a term not exceeding three months or both, or
+- (b) on conviction on indictment, to a fine or to imprisonment for a term not exceeding two years or both.
+
+An impact assessment has been prepared and placed in the library of each House of Parliament. It is available on the Defra website.
+
+## Annotations
+
+[^f00001]: Footnote: OJ No. L 158, 30.4.2004, p. 7. A corrected version of this Regulation was published in OJ No. L 229, 29.6.2004, p. 5. At the time these Regulations were made the latest amendment was [Commission Regulation (EC) No. 323/2007](https://www.legislation.gov.uk/european/regulation/2007/0323), OJ No. L 85, 27.3.2007, p. 3.
+
+[^f00002]: Footnote: [S. I. 2006/608](https://www.legislation.gov.uk/uksi/2006/608).
+
+[^f00003]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68).
+
+[^key-b1fd5761d099fb96b8578fabc03a010b]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/uksi/2007/3106/regulation/2) substituted (15.7.2019) by [The Persistent Organic Pollutants (Various Amendments) Regulations 2019 (S.I. 2019/1099)](https://www.legislation.gov.uk/uksi/2019/1099), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2019/1099/regulation/2/1), [5(a)](https://www.legislation.gov.uk/uksi/2019/1099/regulation/5/a)
+
+[^key-a43cc5ec6c6dac6d17c7562322807a0b]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2007/3106/regulation/3/1) substituted (31.12.2020) by [The Persistent Organic Pollutants (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1358)](https://www.legislation.gov.uk/uksi/2020/1358), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/1358/regulation/2/2), [4(2)](https://www.legislation.gov.uk/uksi/2020/1358/regulation/4/2)
+
+[^key-b8b892679d5523e29841ca77ba8c15f1]: Textual amendment: Words in reg. 3(1)(a) omitted (1.4.2013) by virtue of [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 287(2)](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/287/2) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+
+[^key-ee680743b8620d4e0e6b81b8edc384ac]: Textual amendment: Reg. 3(1)(aa) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 287(3)](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/287/3) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+
+[^key-c0e630cb478acd257d7c17a645ed3cd2]: Textual amendment: Words in reg. 3(1)(b) substituted (21.1.2019) by [The Persistent Organic Pollutants (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1405)](https://www.legislation.gov.uk/uksi/2018/1405), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2018/1405/regulation/2/1), [4](https://www.legislation.gov.uk/uksi/2018/1405/regulation/4)
+
+[^key-a835bc4144db4eaa30096293c6f55315]: Textual amendment: Words in [reg. 3(2)](https://www.legislation.gov.uk/uksi/2007/3106/regulation/3/2) substituted (31.12.2020) by [The Persistent Organic Pollutants (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1358)](https://www.legislation.gov.uk/uksi/2020/1358), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/1358/regulation/2/2), [4(3)](https://www.legislation.gov.uk/uksi/2020/1358/regulation/4/3)
+
+[^key-c75a907587b52cff7da6daaadf25941a]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/2007/3106/regulation/4) substituted (31.12.2020) by [The Persistent Organic Pollutants (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1358)](https://www.legislation.gov.uk/uksi/2020/1358), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/1358/regulation/2/2), [5](https://www.legislation.gov.uk/uksi/2020/1358/regulation/5)
+
+[^key-a56f3e5e0417d1c1b6e0f8a568856927]: Textual amendment: Words in [reg. 5](https://www.legislation.gov.uk/uksi/2007/3106/regulation/5) substituted (15.7.2019) by [The Persistent Organic Pollutants (Various Amendments) Regulations 2019 (S.I. 2019/1099)](https://www.legislation.gov.uk/uksi/2019/1099), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2019/1099/regulation/2/1), [5(d)](https://www.legislation.gov.uk/uksi/2019/1099/regulation/5/d)
+
+[^key-b7962921daad6435a97853f190b5a1b0]: Textual amendment: Words in [reg. 6(1)](https://www.legislation.gov.uk/uksi/2007/3106/regulation/6/1) substituted (15.7.2019) by [The Persistent Organic Pollutants (Various Amendments) Regulations 2019 (S.I. 2019/1099)](https://www.legislation.gov.uk/uksi/2019/1099), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2019/1099/regulation/2/1), [5(e)](https://www.legislation.gov.uk/uksi/2019/1099/regulation/5/e)
+
+[^key-ab391d1d640041e3da4a8cf8383d645e]: Textual amendment: Words in [reg. 7(1)](https://www.legislation.gov.uk/uksi/2007/3106/regulation/7/1) substituted (15.7.2019) by [The Persistent Organic Pollutants (Various Amendments) Regulations 2019 (S.I. 2019/1099)](https://www.legislation.gov.uk/uksi/2019/1099), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2019/1099/regulation/2/1), [5(f)](https://www.legislation.gov.uk/uksi/2019/1099/regulation/5/f)
+
+[^key-2d32db183112a07982eb3ca7b528679c]: Textual amendment: Words in [reg. 8(1)](https://www.legislation.gov.uk/uksi/2007/3106/regulation/8/1) substituted (15.7.2019) by [The Persistent Organic Pollutants (Various Amendments) Regulations 2019 (S.I. 2019/1099)](https://www.legislation.gov.uk/uksi/2019/1099), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2019/1099/regulation/2/1), [5(g)](https://www.legislation.gov.uk/uksi/2019/1099/regulation/5/g)
+
+[^f00007]: Footnote: [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25).
+
+[^key-8ea338da55b468d9359e698418a7c9ba]: Textual amendment: Words in [reg. 9(2)](https://www.legislation.gov.uk/uksi/2007/3106/regulation/9/2) substituted (15.7.2019) by [The Persistent Organic Pollutants (Various Amendments) Regulations 2019 (S.I. 2019/1099)](https://www.legislation.gov.uk/uksi/2019/1099), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2019/1099/regulation/2/1), [5(h)(i)](https://www.legislation.gov.uk/uksi/2019/1099/regulation/5/h/i)
+
+[^key-6754b89bf47ca93858cdbe2bba75e940]: Textual amendment: [Reg. 9(2)(a)](https://www.legislation.gov.uk/uksi/2007/3106/regulation/9/2/a) omitted (15.7.2019) by virtue of [The Persistent Organic Pollutants (Various Amendments) Regulations 2019 (S.I. 2019/1099)](https://www.legislation.gov.uk/uksi/2019/1099), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2019/1099/regulation/2/1), [5(h)(ii)](https://www.legislation.gov.uk/uksi/2019/1099/regulation/5/h/ii)
+
+[^key-6deb1ef9342c830d4e422943d712b7d3]: Textual amendment: Words in reg. 9(2)(b) substituted (21.1.2019) by [The Persistent Organic Pollutants (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1405)](https://www.legislation.gov.uk/uksi/2018/1405), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2018/1405/regulation/2/1), [5](https://www.legislation.gov.uk/uksi/2018/1405/regulation/5)
+
+[^key-5d77ee893cc529ab55b4865415a85d84]: Textual amendment: Words in [reg. 10(1)](https://www.legislation.gov.uk/uksi/2007/3106/regulation/10/1) substituted (15.7.2019) by [The Persistent Organic Pollutants (Various Amendments) Regulations 2019 (S.I. 2019/1099)](https://www.legislation.gov.uk/uksi/2019/1099), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2019/1099/regulation/2/1), [5(i)(i)](https://www.legislation.gov.uk/uksi/2019/1099/regulation/5/i/i)
+
+[^key-36e4034f5c4ce75f00e5ac511994a02f]: Textual amendment: Words in [reg. 10(1)(a)](https://www.legislation.gov.uk/uksi/2007/3106/regulation/10/1/a) substituted (15.7.2019) by [The Persistent Organic Pollutants (Various Amendments) Regulations 2019 (S.I. 2019/1099)](https://www.legislation.gov.uk/uksi/2019/1099), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2019/1099/regulation/2/1), [5(i)(ii)](https://www.legislation.gov.uk/uksi/2019/1099/regulation/5/i/ii)
+
+[^f00008]: Footnote: [1980 c. 43](https://www.legislation.gov.uk/ukpga/1980/43); sections 51 and 52 have been substituted by the Courts Act [2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), section 47.
+
+[^f00009]: Footnote: [S.I. 1981/1675 (N.I. 26)](https://www.legislation.gov.uk/nisi/1981/1675).
+
+[^key-5a37b54f2bf3e5c09ea95f77ea8b4047]: Modification: [Reg. 11](https://www.legislation.gov.uk/uksi/2007/3106/regulation/11) modified (16.7.2026) by [The Modification of the Law (British Steel Limited Property Transfer) Regulations 2026 (S.I. 2026/833)](https://www.legislation.gov.uk/uksi/2026/833), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/833/regulation/1/2), [6(2)](https://www.legislation.gov.uk/uksi/2026/833/regulation/6/2), [Sch. para. 5](https://www.legislation.gov.uk/uksi/2026/833/schedule/paragraph/5)

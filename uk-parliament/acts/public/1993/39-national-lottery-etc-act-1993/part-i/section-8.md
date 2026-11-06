@@ -1,0 +1,39 @@
+---
+title: National Lottery etc. Act 1993, section 8
+act: National Lottery etc. Act 1993
+section: '8'
+status: revised-with-pending-changes
+text_date: '2023-02-07'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/1993/39/section/8
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# National Lottery etc. Act 1993, section 8
+
+> **Warning: changes not yet applied to this text (31).** Text as at 2023-02-07. See https://www.legislation.gov.uk/changes/affected/ukpga/1993/39
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 8. Variation of conditions in licences.
+
+*Extent: E+W+S+N.I.*
+
+(1) The Director General may vary any condition in a licence granted under section 5 or 6 if the licensee consents.
+
+(2) Subject to subsection (3), the Director General may vary any condition in such a licence without the licensee’s consent if the licensee has been given a reasonable opportunity of making representations to the Director General about the variation.
+
+(3) Subsection (2) does not apply—
+
+- (a) where the variation would result in a condition requiring the licensee to transfer any property or rights, or
+- (b) in the case of a licence granted under section 5, in relation to a condition that the licence provides may only be varied with the consent of the licensee.
+
+(4) Where the Director General varies a condition in a licence under subsection (2)—
+
+- (a) he shall serve a notice on the licensee informing the licensee of the variation, and
+- (b) the variation shall take effect at the end of such period as may be specified in the notice.
+
+(5) The period specified in the notice shall be a period of at least twenty-one days beginning with the date of the notice.
+
+(6) The Director General’s power to vary a condition in a licence under subsection (1) or (2) includes power to add a condition to the licence or omit a condition from it (and references in this section to the variation of a condition are to be read accordingly).

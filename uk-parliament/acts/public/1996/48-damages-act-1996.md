@@ -1,0 +1,1269 @@
+---
+title: Damages Act 1996
+id: ukpga/1996/48
+type: UnitedKingdomPublicGeneralAct
+category: primary
+status: revised-with-pending-changes
+made_date: '1996-07-24'
+text_date: '2024-07-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/1996/48
+pdf_urls:
+- http://www.legislation.gov.uk/ukpga/1996/48/pdfs/ukpga_19960048_en.pdf
+- http://www.legislation.gov.uk/ukpga/1996/48/data.pdf
+pending_changes: 9
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Damages Act 1996
+
+> **Warning: changes not yet applied to this text (9).** Text as at 2024-07-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1996/48
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+Damages Act 1996
+
+1996 c. 48
+
+An Act to make new provision in relation to damages for personal injury, including injury resulting in death.
+
+\[24th July 1996\]
+
+[^c862681][^c862682]Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-0e35048590c72fd36af583136297f459]
+
+## A1. Assumed rate of return on investment of damages: England and Wales[^key-0185b97b4b1bbfb5eaac52534e86a323]
+
+*Extent: E+W*
+
+(1) In determining the return to be expected from the investment of a sum awarded as damages for future pecuniary loss in an action for personal injury the court must, subject to and in accordance with rules of court made for the purposes of this section, take into account such rate of return (if any) as may from time to time be prescribed by an order made by the Lord Chancellor.
+
+(2) Subsection (1) does not however prevent the court taking a different rate of return into account if any party to the proceedings shows that it is more appropriate in the case in question.
+
+(3) An order under subsection (1) may prescribe different rates of return for different classes of case.
+
+(4) An order under subsection (1) may in particular distinguish between classes of case by reference to—
+
+- (a) the description of future pecuniary loss involved;
+- (b) the length of the period during which future pecuniary loss is expected to occur;
+- (c) the time when future pecuniary loss is expected to occur.
+
+(5) Schedule A1 (which makes provision about determining the rate of return to be prescribed by an order under subsection (1)) has effect.
+
+(6) An order under this section is to be made by statutory instrument subject to annulment in pursuance of a resolution of either House of Parliament.
+
+## B1. Assumed rate of return on damages invested: Scotland[^key-074d895e8f728deda0bb8adc28818144]
+
+*Extent: S*
+
+(1) In determining the return to be expected from the investment of a sum awarded as damages for future pecuniary loss in an action for personal injury, a court must take into account the rate of return set by the official rate-assessor.
+
+(2) However—
+
+- (a) the court is to do so subject to and in accordance with rules of court (if any) made for the purpose of subsection (1),
+- (b) the court may take a different rate of return into account if a party to the action shows that the different rate is more appropriate in the circumstances of the case.
+
+(3) Schedule B1 contains provision about setting the rate of return for the purpose of subsection (1).
+
+(4) In subsection (1), the reference to the official rate-assessor is to—
+
+- (a) if no regulations under paragraph (b) are in force, the Government Actuary (but, when that office is vacant, the Deputy Government Actuary), or
+- (b) a person appointed in place of the Government Actuary (including the Deputy as referred to in paragraph (a)) by regulations made by the Scottish Ministers.
+
+(5) Regulations under subsection (4)(b) may provide for a person to deputise for the person appointed in place of the Government Actuary.
+
+(6) Before making regulations under subsection (4)(b), the Scottish Ministers must obtain the agreement of—
+
+- (a) as respects appointment in place of the Government Actuary, the person to be appointed,
+- (b) as respects deputising as mentioned in subsection (5), the person who is to deputise as provided for.
+
+(7) Regulations under subsection (4)(b) are subject to the affirmative procedure.
+
+## C1. Assumed rate of return on damages invested: Northern Ireland[^key-3234a517495b32d68fb47bc75d221bd4]
+
+*Extent: N.I.*
+
+(1) In determining the return to be expected from the investment of a sum awarded as damages for future pecuniary loss in an action for personal injury the court must, subject to and in accordance with rules of court made for the purposes of this section, take into account the rate of return set by the official rate-assessor.
+
+(2) Subsection (1) does not however prevent the court from taking a different rate of return into account if any party to the action shows that the different rate is more appropriate in the circumstances of the case.
+
+(3) Schedule C1 (which makes provision about setting the rate of return for the purpose of subsection (1)) has effect.
+
+(4) In subsection (1), the reference to the official rate-assessor is to—
+
+- (a) if no regulations under paragraph (b) are in force, the Government Actuary (but, when that office is vacant, the Deputy Government Actuary), or
+- (b) a person appointed in place of the Government Actuary (including the Deputy as referred to in paragraph (a)) by regulations made by the Department of Justice in Northern Ireland.
+
+(5) Regulations under subsection (4)(b) may provide for a person to deputise for the person appointed in place of the Government Actuary.
+
+(6) Before making regulations under subsection (4)(b), the Department of Justice in Northern Ireland must obtain the agreement of—
+
+- (a) as respects appointment in place of the Government Actuary, the person to be appointed,
+- (b) as respects deputising as mentioned in subsection (5), the person who is to deputise as provided for.
+
+(7) The power to make regulations under subsection (4)(b) is exercisable by statutory rule for the purposes of the Statutory Rules (Northern Ireland) Order 1979.
+
+(8) Regulations under subsection (4)(b) may not be made unless a draft of the regulations has been laid before, and approved by a resolution of, the Assembly.
+
+## 1. Assumed rate of return on investment of damages.[^M_F_6b662725-2222-48e4-a5ff-a7e9de8f8b7c][^M_F_12275fd2-ca2e-46bc-f2b6-8f64ba1d1ea1][^key-3b8a67bafd25954f9e0efc6546dfc591]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 2. Periodical payments[^key-11e5363a4e4f9017111fc9d036e03a60][^key-21b59aa6d80661e5925144781ab095c0][^key-4b463797da0f90f578fb9805a44bc029]
+
+*Extent: E+W+N.I.*
+
+(A1 (Extent: E+W+S))[^key-1eae128e4649ed19734f5b136ae1b3e7] In cases where Regulation *(Extent: E+W+S)* [(EC) No. 1371/2007 *(Extent: E+W+S)*](https://www.legislation.gov.uk/european/regulation/2007/1371) of the European Parliament and of the Council of 23rd October 2007 on rail passengers’ rights and obligations applies, this section needs to be read in the light of Article 30 of the Uniform Rules concerning the contract for the international carriage of passengers and luggage by rail (damages to be awarded as annuity on request), as set out in Annex I to that Regulation. *(Extent: E+W+S)*
+
+(1) A court awarding damages for future pecuniary loss in respect of personal injury—
+
+- (a) may order that the damages are wholly or partly to take the form of periodical payments, and
+- (b) shall consider whether to make that order.
+
+(2) A court awarding other damages in respect of personal injury may, if the parties consent, order that the damages are wholly or partly to take the form of periodical payments.
+
+(3) A court may not make an order for periodical payments unless satisfied that the continuity of payment under the order is reasonably secure.
+
+(4) For the purpose of subsection (3) the continuity of payment under an order is reasonably secure if—
+
+- (a) it is protected by a guarantee given under section 6 of or Schedule 1[^key-cc99c4117f4768b8cf848cf461063488] to this Act,
+- (b) it is protected by a scheme under section 213 of the Financial Services and Markets Act 2000 (compensation) (whether or not as modified by section 4 of this Act), or
+- (c) the source of payment is a government or health service body.
+
+(5) An order for periodical payments may include provision—
+
+- (a) requiring the party responsible for the payments to use a method (selected or to be selected by him) under which the continuity of payment is reasonably secure by virtue of subsection (4);
+- (b) about how the payments are to be made, if not by a method under which the continuity of payment is reasonably secure by virtue of subsection (4);
+- (c) requiring the party responsible for the payments to take specified action to secure continuity of payment, where continuity is not reasonably secure by virtue of subsection (4);
+- (d) enabling a party to apply for a variation of provision included under paragraph (a), (b) or (c).
+
+(6) Where a person has a right to receive payments under an order for periodical payments, or where an arrangement is entered into in satisfaction of an order which gives a person a right to receive periodical payments, that person’s right under the order or arrangement may not be assigned or charged without the approval of the court which made the order; and—
+
+- (a) a court shall not approve an assignment or charge unless satisfied that special circumstances make it necessary, and
+- (b) a purported assignment or charge, or agreement to assign or charge, is void unless approved by the court.
+
+(7) Where an order is made for periodical payments, an alteration of the method by which the payments are made shall be treated as a breach of the order (whether or not the method was specified under subsection (5)(b)) unless—
+
+- (a) the court which made the order declares its satisfaction that the continuity of payment under the new method is reasonably secure,
+- (b) the new method is protected by a guarantee given under section 6 of or Schedule 1[^key-be948965c43012792adc5fc6aa2f8e1c] to this Act,
+- (c) the new method is protected by a scheme under section 213 of the Financial Services and Markets Act 2000 (compensation) (whether or not as modified by section 4 of this Act), or
+- (d) the source of payment under the new method is a government or health service body.
+
+(8) An order for periodical payments shall be treated as providing for the amount of payments to vary by reference to the retail prices index (within the meaning of section 833(2) of the Income and Corporation Taxes Act 1988) at such times, and in such a manner, as may be determined by or in accordance with Civil Procedure Rules.
+
+(9) But an order for periodical payments may include provision—
+
+- (a) disapplying subsection (8), or
+- (b) modifying the effect of subsection (8).
+
+## 2 (Extent: E+W+N.I.) (affected by repeal, see note). Consent orders for periodical payments. (Extent: E+W+N.I.) (affected by repeal, see note)[^key-11e5363a4e4f9017111fc9d036e03a60][^key-4b463797da0f90f578fb9805a44bc029][^key-4b463797da0f90f578fb9805a44bc029]
+
+*Extent: S*
+
+*Extent: E+W+S*
+
+(A1 (Extent: E+W+N.I.) (affected by repeal, see note))[^key-4b463797da0f90f578fb9805a44bc029] In cases where Regulation *(Extent: E+W+N.I.)* *(affected by repeal, see note)*[^key-4b463797da0f90f578fb9805a44bc029] [(EC) No. 1371/2007 *(Extent: E+W+N.I.)* *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/regulation/2007/1371)[^key-4b463797da0f90f578fb9805a44bc029] of the European Parliament and of the Council of 23rd October 2007 on rail passengers’ rights and obligations applies, this section needs to be read in the light of Article 30 of the Uniform Rules concerning the contract for the international carriage of passengers and luggage by rail (damages to be awarded as annuity on request), as set out in Annex I to that Regulation. *(Extent: E+W+N.I.)* *(affected by repeal, see note)*[^key-4b463797da0f90f578fb9805a44bc029]
+
+(1 (Extent: E+W+S) (Extent: E+W+N.I.) (affected by repeal, see note))[^key-4b463797da0f90f578fb9805a44bc029] A court awarding damages in an action for personal injury may, with the consent of the parties, make an order under which the damages are wholly or partly to take the form of periodical payments. *(Extent: E+W+S)* *(Extent: E+W+N.I.)* *(affected by repeal, see note)*[^key-4b463797da0f90f578fb9805a44bc029]
+
+(2 (Extent: E+W+S) (Extent: E+W+N.I.) (affected by repeal, see note))[^key-4b463797da0f90f578fb9805a44bc029] In this section “ *(Extent: E+W+S)* *(Extent: E+W+N.I.)* *(affected by repeal, see note)*[^key-4b463797da0f90f578fb9805a44bc029]**damages *(Extent: E+W+S)* *(Extent: E+W+N.I.)* *(affected by repeal, see note)*[^key-4b463797da0f90f578fb9805a44bc029]**” includes an interim payment which the court, by virtue of rules of court in that behalf, orders the defendant to make to the plaintiff (or, in the application of this section to Scotland, the defender to make to the pursuer). *(Extent: E+W+S)* *(Extent: E+W+N.I.)* *(affected by repeal, see note)*[^key-4b463797da0f90f578fb9805a44bc029]
+
+(3 (Extent: E+W+S) (Extent: E+W+N.I.) (affected by repeal, see note))[^key-4b463797da0f90f578fb9805a44bc029] This section is without prejudice to any powers exerciseable apart from this section. *(Extent: E+W+S)* *(Extent: E+W+N.I.)* *(affected by repeal, see note)*[^key-4b463797da0f90f578fb9805a44bc029]
+
+## 2A. Periodical payments: supplementary
+
+*Extent: E+W+N.I.*
+
+(1) Civil Procedure Rules may require a court to take specified matters into account in considering—
+
+- (a) whether to order periodical payments;
+- (b) the security of the continuity of payment;
+- (c) whether to approve an assignment or charge.
+
+(2) For the purposes of section 2(4)(c) and (7)(d) “**government or health service body**” means a body designated as a government body or a health service body by order made by the Lord Chancellor.
+
+(3) An order under subsection (2)—
+
+- (a) shall be made by statutory instrument, and
+- (b) shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+(4) Section 2(6) is without prejudice to a person’s power to assign a right to the scheme manager established under section 212 of the Financial Services and Markets Act 2000.
+
+(5) In section 2 “**damages**” includes an interim payment which a court orders a defendant to make to a claimant.
+
+(6) In the application of this section and section 2 *(Extent: N.I.)*[^key-36d4f33eace2170439c35f90aa307469] to Northern Ireland—
+
+- (a) a reference to Civil Procedure Rules shall be taken as a reference to rules of court, [^key-671369947272a1bc723fc3b215450dff]...
+- (b) a reference to a claimant shall be taken as a reference to a plaintiff.
+- (c)[^key-92fc226ea21842d70bb0f97a588735b1] a reference to the Lord Chancellor shall be taken as a reference to the Department of Justice in Northern Ireland, and
+- (d) for subsection (3)(a) and (b) of this section there is substituted “shall be made by statutory rule for the purposes of the Statutory Rules (Northern Ireland) Order 1979; and is subject to negative resolution within the meaning of section 41(6) of the Interpretation Act (Northern Ireland) 1954”.
+
+(7) Section 2 is without prejudice to any power exercisable apart from that section.
+
+## 2B. Variation of orders and settlements
+
+*Extent: E+W+N.I.*
+
+(1) The Lord Chancellor may by order enable a court which has made an order for periodical payments to vary the order in specified circumstances (otherwise than in accordance with section 2(5)(d)).
+
+(2) The Lord Chancellor may by order enable a court in specified circumstances to vary the terms on which a claim or action for damages for personal injury is settled by agreement between the parties if the agreement—
+
+- (a) provides for periodical payments, and
+- (b) expressly permits a party to apply to a court for variation in those circumstances.
+
+(3) An order under this section may make provision—
+
+- (a) which operates wholly or partly by reference to a condition or other term of the court’s order or of the agreement;
+- (b) about the nature of an order which may be made by a court on a variation;
+- (c) about the matters to be taken into account on considering variation;
+- (d) of a kind that could be made by Civil Procedure Rules or, in relation to Northern Ireland, rules of court (and which may be expressed to be with or without prejudice to the power to make those rules).
+
+(4) An order under this section may apply (with or without modification) or amend an enactment about provisional or further damages.
+
+(5) An order under this section shall be subject to any order under section 1 of the Courts and Legal Services Act 1990 (allocation between High Court and county courts).
+
+(6) An order under this section—
+
+- (a) shall be made by statutory instrument,
+- (b) may not be made unless the Lord Chancellor has consulted such persons as he thinks appropriate,
+- (c) may not be made unless a draft has been laid before and approved by resolution of each House of Parliament, and
+- (d) may include transitional, consequential or incidental provision.
+
+(7) In subsection (4)—
+
+(8)[^key-04ee106900b7b8b62e625465166813a9] In the application of this section to Northern Ireland—
+
+- (a) a reference to the Lord Chancellor shall be taken as a reference to the Department of Justice in Northern Ireland;
+- (b) in subsection (6)(a) for “statutory instrument” substitute “statutory rule for the purposes of the Statutory Rules (Northern Ireland) Order 1979”;
+- (c) in subsection (6)(c) for “each House of Parliament” substitute “the Northern Ireland Assembly”;
+- (d) section 41(3) of the Interpretation Act (Northern Ireland) 1954 applies for the purposes of subsection (6)(c) in relation to the laying of a draft as it applies in relation to the laying of a statutory document under an enactment.
+
+- “**provisional damages**” means damages awarded by virtue of subsection (2)(a) of section 32A of the Senior Courts Act 1981[^key-bc77cb5933881a6f80ed61e2259e0c26] or section 51 of the County Courts Act 1984 (or, in relation to Northern Ireland, paragraph 10(2)(a) of Schedule 6 to the Administration of Justice Act 1982), and
+- “**further damages**” means damages awarded by virtue of subsection (2)(b) of either of those sections (or, in relation to Northern Ireland, paragraph 10(2)(b) of Schedule 6 to the Administration of Justice Act 1982).
+
+## 3. Provisional damages and fatal accident claims.
+
+*Extent: E+W+N.I.*
+
+(1) This section applies where a person—
+
+- (a) is awarded provisional damages; and
+- (b) subsequently dies as a result of the act or omission which gave rise to the cause of action for which the damages were awarded.
+
+(2) The award of the provisional damages shall not operate as a bar to an action in respect of that person’s death under the [^c862684]Fatal Accidents Act 1976.
+
+(3) Such part (if any) of—
+
+- (a) the provisional damages; and
+- (b) any further damages awarded to the person in question before his death,
+
+as was intended to compensate him for pecuniary loss in a period which in the event falls after his death shall be taken into account in assessing the amount of any loss of support suffered by the person or persons for whose benefit the action under the Fatal Accidents Act 1976 is brought.
+
+(4) No award of further damages made in respect of that person after his death shall include any amount for loss of income in respect of any period after his death.
+
+(5) In this section “**provisional damages**” means damages awarded by virtue of subsection (2)(a) of section 32A of the [^c862685] Senior Courts Act 1981 or section 51 of the [^c862686]County Courts Act 1984 and “**further damages**” means damages awarded by virtue of subsection (2)(b) of either of those sections.
+
+(6) Subsection (2) above applies whether the award of provisional damages was before or after the coming into force of that subsection; and subsections (3) and (4) apply to any award of damages under the 1976 Act or, as the case may be, further damages after the coming into force of those subsections.
+
+(7) In the application of this section to Northern Ireland—
+
+- (a) for references to the Fatal Accidents Act 1976 there shall be substituted references to the [^c862687]Fatal Accidents (Northern Ireland) Order 1977;
+- (b) for the reference to subsection (2)(a) and (b) of section 32A of the Senior Courts Act 1981 and section 51 of the County Courts Act 1984 there shall be substituted a reference to paragraph 10(2)(a) and (b) of Schedule 6 to the [^c862688]Administration of Justice Act 1982.
+
+## 4. Enhanced protection for periodical payments[^key-60d4500c524323e2ad7dc4b72e887f7f]
+
+(1) Subsection (2) applies where—
+
+- (a) a person has a right to receive periodical payments, and
+- (b) his right is protected by a scheme under section 213 of the Financial Services and Markets Act 2000 (compensation), but only as to part of the payments.
+
+(2) The protection provided by the scheme shall extend by virtue of this section to the whole of the payments.
+
+(3) Subsection (4) applies where—
+
+- (a) one person (“**the claimant**”) has a right to receive periodical payments from another person (“**the defendant**”),
+- (b) a third person (“**the insurer**”) is required by or in pursuance of an arrangement entered into with the defendant (whether or not together with other persons and whether before or after the creation of the claimant’s right) to make payments in satisfaction of the claimant’s right or for the purpose of enabling it to be satisfied, and
+- (c) the claimant’s right to receive the payments would be wholly or partly protected by a scheme under section 213 of the Financial Services and Markets Act 2000 if it arose from an arrangement of the same kind as that mentioned in paragraph (b) but made between the claimant and the insurer.
+
+(4) For the purposes of the scheme under section 213 of that Act—
+
+- (a) the claimant shall be treated as having a right to receive the payments from the insurer under an arrangement of the same kind as that mentioned in subsection (3)(b),
+- (b) the protection under the scheme in respect of those payments shall extend by virtue of this section to the whole of the payments, and
+- (c) no person other than the claimant shall be entitled to protection under the scheme in respect of the payments.
+
+(5) In this section “**periodical payments**” means periodical payments made pursuant to—
+
+- (a) an order of a court in so far as it is made in reliance on section 2 above (including an order as varied), or
+- (b) an agreement in so far as it settles a claim or action for damages in respect of personal injury (including an agreement as varied).
+
+(6) In subsection (5)(b) the reference to an agreement in so far as it settles a claim or action for damages in respect of personal injury includes a reference to an undertaking given by the Motor Insurers' Bureau (being the company of that name incorporated on 14th June 1946 under the Companies Act 1929), or an Article 75 insurer under the Bureau’s Articles of Association, in relation to a claim or action in respect of personal injury.
+
+## 5. Meaning of structured settlement.[^key-60d4500c524323e2ad7dc4b72e887f7f]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 6. Guarantees for public sector settlements.
+
+(1) This section applies where—
+
+- (a) a claim or action for damages for personal injury is settled on terms whereby the damages are to consist wholly or partly of periodical payments[^key-508718744d6cd27ecc3eb6e12ab82ec4]; or
+- (b) a court awarding damages for personal injury makes an order incorporating such terms.
+
+(2) If it appears to a Minister of the Crown that the payments are to be made by a body in relation to which he has, by virtue of this section, power to do so, he may guarantee the payments to be made under the agreement or order.
+
+(3) The bodies in relation to which a Minister may give such a guarantee shall, subject to subsection (4) below, be such bodies as are designated in relation to the relevant government department by guidelines agreed upon between that department and the Treasury.
+
+(4) A guarantee purporting to be given by a Minister under this section shall not be invalidated by any failure on his part to act in accordance with such guidelines as are mentioned in subsection (3) above.
+
+(5) A guarantee under this section shall be given on such terms as the Minister concerned may determine but those terms shall in every case require the body in question to reimburse the Minister, with interest, for any sums paid by him in fulfilment of the guarantee.
+
+(6) Any sums required by a Minister for fulfilling a guarantee under this section shall be defrayed out of money provided by Parliament and any sums received by him by way of reimbursement or interest shall be paid into the Consolidated Fund.
+
+(7) A Minister who has given one or more guarantees under this section shall, as soon as possible after the end of each financial year, lay before each House of Parliament a statement showing what liabilities are outstanding in respect of the guarantees in that year, what sums have been paid in that year in fulfilment of the guarantees and what sums (including interest) have been recovered in that year in respect of the guarantees or are still owing.
+
+(8) In this section “**government department**” means any department of Her Majesty’s government in the United Kingdom and for the purposes of this section a government department is a relevant department in relation to a Minister if he has responsibilities in respect of that department.
+
+(8A)[^c862699] In the application of subsection (3) above to Scotland, for the words from “guidelines” to the end there shall be substituted “the Minister”.
+
+(8B)[^c862700] In the application of this section to Scotland, “relevant government department” shall be read as if it was a reference to any part of the Scottish Administration and subsection (8) shall cease to have effect.
+
+(9) Schedule 1[^key-5c7d93f844ae291c514ee12bb4f107f8] to this Act has effect for conferring corresponding powers on Northern Ireland departments.
+
+## 7. Interpretation.
+
+(1) Subject to subsection (2) below, in this Act “**personal injury**” includes any disease and any impairment of a person’s physical or mental condition and references to a claim or action for personal injury include references to such a claim or action brought by virtue of the [^c862701]Law Reform (Miscellaneous Provisions) Act 1934 and to a claim or action brought by virtue of the [^c862702]Fatal Accidents Act 1976.
+
+(2) In the application of this Act to Scotland “**personal injury**” has the meaning given by section 10(1) of the M3Damages (Scotland) Act 1976 *(Extent: S)* *(affected by repeal, see note)*[^key-897da75517c65614f7f5621d72c551ce] same meaning as in the Damages (Scotland) Act 2011 *(Extent: S)* .
+
+(3) In the application of subsection (1) above to Northern Ireland for the references to the Law Reform (Miscellaneous Provisions) Act 1934 and to the Fatal Accidents Act 1976 there shall be substituted respectively references to the [^c862704]Law Reform (Miscellaneous Provisions) Act (Northern Ireland) 1937 and the [^c862705]Fatal Accidents (Northern Ireland) Order 1977.
+
+## 8. Short title, extent and commencement.
+
+(1) This Act may be cited as the Damages Act 1996.
+
+(2) Section 3 does not extend to Scotland but, subject to that, this Act extends to the whole of the United Kingdom.
+
+(3) This Act comes into force at the end of the period of two months beginning with the day on which it is passed.
+
+## SCHEDULE A1 — ASSUMED RATE OF RETURN ON INVESTMENT OF DAMAGES: ENGLAND AND WALES[^key-52e3408472bd6e0440c9a8a993dc6c69]
+
+*Extent: E+W*
+
+### 1. Periodic reviews of the rate of return
+
+(1) The Lord Chancellor must review the rate of return periodically in accordance with this paragraph.
+
+(2) The first review of the rate of return must be started within the 90 day period following commencement.
+
+(3) Each subsequent review of the rate of return must be started within the 5 year period following the last review.
+
+(4) It is for the Lord Chancellor to decide—
+
+- (a) when, within the 90 day period following commencement, a review under sub-paragraph (2) is to be started;
+- (b) when, within the 5 year period following the last review, a review under sub-paragraph (3) is to be started.
+
+(5) In this paragraph—
+
+- “90 day period following commencement” means the period of 90 days beginning with the day on which this paragraph comes into force;
+- “5 year period following the last review” means the period of five years beginning with the day on which the last review under this paragraph (whether under sub-paragraph (2) or (3)) is concluded.
+
+(6) For the purposes of this paragraph a review is concluded on the day when the Lord Chancellor makes a determination under paragraph 2 or 3 (as the case may be) as a result of the review.
+
+### 2. Conducting the first review
+
+(1) This paragraph applies when the Lord Chancellor is required by paragraph 1(2) to conduct a review of the rate of return.
+
+(2) The Lord Chancellor must review the rate of return and determine whether it should be—
+
+- (a) changed to a different rate, or
+- (b) kept unchanged.
+
+(3) The Lord Chancellor must conduct that review and make that determination within the 140 day review period.
+
+(4) In conducting the review, the Lord Chancellor must consult—
+
+- (a) the Government Actuary, and
+- (b) the Treasury.
+
+(5) The consultation of the Government Actuary must start within the period of 20 days beginning with the day on which the 140 day review period starts.
+
+(6) The Government Actuary must respond to the consultation within the period of 80 days beginning with the day on which the Government Actuary’s response to the consultation is requested.
+
+(7) The exercise of the power of the Lord Chancellor under this paragraph to determine whether the rate of return should be changed or kept unchanged is subject to paragraph 4.
+
+(8) When deciding what response to give to the Lord Chancellor under this paragraph, the Government Actuary and the Treasury must take into account the duties imposed on the Lord Chancellor by paragraph 4.
+
+(9) During any period when the office of Government Actuary is vacant, a reference in this paragraph to the Government Actuary is to be read as a reference to the Deputy Government Actuary.
+
+(10) In this paragraph “140 day review period” means the period of 140 days beginning with the day which the Lord Chancellor decides (under paragraph 1) should be the day on which the review is to start.
+
+### 3. Conducting later reviews
+
+(1) This paragraph applies whenever the Lord Chancellor is required by paragraph 1(3) to conduct a review of the rate of return.
+
+(2) The Lord Chancellor must review the rate of return and determine whether it should be—
+
+- (a) changed to a different rate, or
+- (b) kept unchanged.
+
+(3) The Lord Chancellor must conduct that review and make that determination within the 180 day review period.
+
+(4) In conducting the review, the Lord Chancellor must consult—
+
+- (a) the expert panel established for the review, and
+- (b) the Treasury.
+
+(5) The expert panel must respond to the consultation within the period of 90 days beginning with the day on which its response to the consultation is requested.
+
+(6) The exercise of the power of the Lord Chancellor under this paragraph to determine whether the rate of return should be changed or kept unchanged is subject to paragraph 4.
+
+(7) When deciding what response to give to the Lord Chancellor under this paragraph, the expert panel and the Treasury must take into account the duties imposed on the Lord Chancellor by paragraph 4.
+
+(8) In this paragraph “180 day review period” means the period of 180 days beginning with the day which the Lord Chancellor decides (under paragraph 1) should be the day on which the review is to start.
+
+### 4. Determining the rate of return
+
+(1) The Lord Chancellor must comply with this paragraph when determining under paragraph 2 or 3 whether the rate of return should be changed or kept unchanged (“the rate determination”).
+
+(2) The Lord Chancellor must make the rate determination on the basis that the rate of return should be the rate that, in the opinion of the Lord Chancellor, a recipient of relevant damages could reasonably be expected to achieve if the recipient invested the relevant damages for the purpose of securing that—
+
+- (a) the relevant damages would meet the losses and costs for which they are awarded;
+- (b) the relevant damages would meet those losses and costs at the time or times when they fall to be met by the relevant damages; and
+- (c) the relevant damages would be exhausted at the end of the period for which they are awarded.
+
+(3) In making the rate determination as required by sub-paragraph (2), the Lord Chancellor must make the following assumptions—
+
+- (a) the assumption that the relevant damages are payable in a lump sum (rather than under an order for periodical payments);
+- (b) the assumption that the recipient of the relevant damages is properly advised on the investment of the relevant damages;
+- (c) the assumption that the recipient of the relevant damages invests the relevant damages in a diversified portfolio of investments;
+- (d) the assumption that the relevant damages are invested using an approach that involves—
+  - (i) more risk than a very low level of risk, but
+  - (ii) less risk than would ordinarily be accepted by a prudent and properly advised individual investor who has different financial aims.
+
+(4) That does not limit the assumptions which the Lord Chancellor may make.
+
+(5) In making the rate determination as required by sub-paragraph (2), the Lord Chancellor must—
+
+- (a) have regard to the actual returns that are available to investors;
+- (b) have regard to the actual investments made by investors of relevant damages; and
+- (c) make such allowances for taxation, inflation and investment management costs as the Lord Chancellor thinks appropriate.
+
+(6) That does not limit the factors which may inform the Lord Chancellor when making the rate determination.
+
+(7) In this paragraph “relevant damages” means a sum awarded as damages for future pecuniary loss in an action for personal injury.
+
+### 5. Determination
+
+When the Lord Chancellor makes a rate determination, the Lord Chancellor must—
+
+- (a) give reasons for the rate determination made, and
+- (b) publish such information as the Lord Chancellor thinks appropriate about—
+  - (i) the response of the expert panel established for the review, or
+  - (ii) in the case of a review required by paragraph 1(2), the response of the Government Actuary or the Deputy Government Actuary (as the case may be).
+
+### 6. Expert panel
+
+(1) For each review of a rate of return required by paragraph 1(3), the Lord Chancellor is to establish a panel (referred to in this Schedule as an “expert panel”) consisting of—
+
+- (a) the Government Actuary, who is to chair the panel; and
+- (b) four other members appointed by the Lord Chancellor.
+
+(2) The Lord Chancellor must exercise the power to appoint the appointed members to secure that—
+
+- (a) one appointed member has experience as an actuary;
+- (b) one appointed member has experience of managing investments;
+- (c) one appointed member has experience as an economist;
+- (d) one appointed member has experience in consumer matters as relating to investments.
+
+(3) An expert panel established for a review of a rate of return ceases to exist once it has responded to the consultation relating to the review.
+
+(4) A person may be a member of more than one expert panel at any one time.
+
+(5) A person may not become an appointed member if the person is ineligible for membership.
+
+(6) A person who is an appointed member ceases to be a member if the person becomes ineligible for membership.
+
+(7) The Lord Chancellor may end an appointed member’s membership of the panel if the Lord Chancellor is satisfied that—
+
+- (a) the person is unable or unwilling to take part in the panel’s activities on a review conducted under paragraph 1;
+- (b) it is no longer appropriate for the person to be a member of the panel because of gross misconduct or impropriety;
+- (c) the person has become bankrupt, a debt relief order (under Part 7A of the Insolvency Act 1986) has been made in respect of the person, the person’s estate has been sequestrated or the person has made an arrangement with or granted a trust deed for creditors.
+
+(8) During any period when the office of Government Actuary is vacant the Deputy Government Actuary is to be a member of the panel and is to chair it.
+
+(9) A person is “ineligible for membership” of an expert panel if the person is—
+
+- (a) a Minister of the Crown, or
+- (b) a person serving in a government department in employment in respect of which remuneration is payable out of money provided by Parliament.
+
+(10) In this paragraph “appointed member” means a person appointed by the Lord Chancellor to be a member of an expert panel.
+
+### 7. Proceedings, powers and funding of an expert panel
+
+(1) The quorum of an expert panel is four members, one of whom must be the Government Actuary (or the Deputy Government Actuary when the office of Government Actuary is vacant).
+
+(2) In the event of a tied vote on any decision, the person chairing the panel is to have a second casting vote.
+
+(3) The panel may—
+
+- (a) invite other persons to attend, or to attend and speak at, any meeting of the panel;
+- (b) when exercising any function, take into account information submitted by, or obtained from, any other person (whether or not the production of the information has been commissioned by the panel).
+
+(4) The Lord Chancellor must make arrangements for an expert panel to be provided with the resources which the Lord Chancellor considers to be appropriate for the panel to exercise its functions.
+
+(5) The Government Actuary’s Department, or any other government department, may enter into arrangements made by the Lord Chancellor under sub-paragraph (4).
+
+(6) The Lord Chancellor must make arrangements for the appointed members of an expert panel to be paid any remuneration and expenses which the Lord Chancellor considers to be appropriate.
+
+### 8. Application of this Schedule where there are several rates of return
+
+(1) This paragraph applies if two or more rates of return are prescribed under section A1.
+
+(2) The requirements—
+
+- (a) under paragraph 1 for a review to be conducted, and
+- (b) under paragraph 2 or 3 relating to how a review is conducted,
+
+apply separately in relation to each rate of return.
+
+(3) As respects a review relating to a particular rate of return, a reference in this Schedule to the last review conducted under a particular provision is to be read as a reference to the last review relating to that rate of return.
+
+### 9. Interpretation
+
+(1) In this Schedule—
+
+- “expert panel” means a panel established in accordance with paragraph 6;
+- “rate determination” has the meaning given by paragraph 4;
+- “rate of return” means a rate of return for the purposes of section A1.
+
+(2) A provision of this Schedule that refers to the rate of return being changed is to be read as also referring to—
+
+- (a) the existing rate of return being replaced with no rate;
+- (b) a rate of return being introduced where there is no existing rate;
+- (c) the existing rate of return for a particular class of case being replaced with no rate;
+- (d) a rate of return being introduced for a particular class of case for which there is no existing rate.
+
+(3) A provision of this Schedule that refers to the rate of return being kept unchanged is to be read as also referring to—
+
+- (a) the position that there is no rate of return being kept unchanged;
+- (b) the position that there is no rate of return for a particular class of case being kept unchanged.
+
+(4) A provision of this Schedule that refers to a review of the rate of return is to be read as also referring to—
+
+- (a) a review of the position that no rate of return is prescribed;
+- (b) a review of the position that no rate of return is prescribed for a particular class of case.
+
+## SCHEDULE B1 — Setting the rate for section B1(1): Scotland[^key-b973d49af062a546461bfbd25be738c2]
+
+*Extent: S.*
+
+(introduced by section B1(3))
+
+### Regular review of rates of return
+
+**1.** (1) The rate-assessor must review any original rate of return.
+
+(2) A review under sub-paragraph (1) must be started by the rate-assessor on the appointed day.
+
+(3) For the purpose of this paragraph—
+
+- (a) an original rate of return is—
+  - (i) a rate of return to which paragraph 27(1) applies, or
+  - (ii) the position of there being no rate of return to which paragraph 27(1) applies,
+- (b) the appointed day is 1 July 2019[^key-bce33ed101f3163ecd5597d554fd0ce2].
+
+**2.** (1) The rate-assessor must review every subsequent rate of return.
+
+(2) A review under sub-paragraph (1) must be started by the rate-assessor—
+
+- (a) on the day after the last day of the 5-year period, or
+- (b) earlier within the 5-year period as is required by the Scottish Ministers.
+
+(3) Where a review under sub-paragraph (1) is started earlier by virtue of sub-paragraph (2)(b), it is to be treated as an extra review that does not affect the running of the 5-year period in relation to the previous review (and no 5-year period runs under sub-paragraph (2)(a) in relation to the extra review).
+
+(4) For the purpose of this paragraph—
+
+- (a) a subsequent rate of return is a rate of return that is set—
+  - (i) for the time being (including by reason of an extra review as mentioned in sub-paragraph (3)), and
+  - (ii) subsequently to an original rate of return as described in paragraph 1(3)(a) (including as a result of a review under sub-paragraph (1) conducted from time to time by virtue of the continuing operation of sub-paragraph (2)(a) and (b)),
+- (b) the 5-year period is the period of 5 years beginning with the day on which the previous review of a rate of return must be started (ignoring an extra review as mentioned in sub-paragraph (3)).
+
+**3.** (1) A review of a rate of return under paragraph 1(1) or 2(1) must be concluded by the rate-assessor within the 90-day period.
+
+(2) For the purpose of this paragraph, the 90-day period is the period of 90 days beginning with the day on which the review must be started by the rate-assessor.
+
+### Overview as to rate-setting
+
+**4.** (1) The conduct by the rate-assessor of a review of a rate of return under paragraph 1(1) or 2(1) is governed by—
+
+- (a) paragraphs 5 to 7,
+- (b) paragraphs 9 and 10,
+- (c) paragraphs 12 and 13,
+- (d) paragraphs 19 to 21.
+
+(2) A rate of return is to be set as a result of a review under paragraph 1(1) or 2(1) accordingly (plus see paragraph 23 as to reporting afterwards on the conduct of such a review).
+
+**5.** In a review under paragraph 1(1) or 2(1), the rate-assessor must determine whether a rate of return to be set is to be—
+
+- (a) different from the rate of return with which the review is concerned, or
+- (b) the same as the rate of return with which the review is concerned.
+
+**6.** In a review under paragraph 1(1) or 2(1), the rate-assessor must have regard to views—
+
+- (a) of any person whom the rate-assessor chooses to consult, and
+- (b) of any person whose advice the rate-assessor chooses to seek,
+
+where received by the rate-assessor timeously in connection with the review.
+
+### Returns-based assessment
+
+**7.** (1) The basis on which the rate-assessor is to make a rate determination in a review under paragraph 1(1) or 2(1) is as narrated in sub-paragraph (2).
+
+(2) A rate of return should reflect the return that could reasonably be expected to be achieved by a person who invests—
+
+- (a) in the notional portfolio, and
+- (b) for a period of 43[^key-82f82ef8a6c5a97e352036815c3d5a79] years.
+
+(3) This is without prejudice to paragraphs 10 and 20 (with paragraph 10 to be met before paragraph 20 is met).
+
+(4) For the notional portfolio, see the table in paragraph 12(3).
+
+**8.** The Scottish Ministers may by regulations modify a period mentioned in paragraph 7(2).
+
+**9.** (1) Allowance must be made by the rate-assessor for the impact of inflation on the value of the return or investment to which paragraph 7(2) relates.
+
+(2) The impact of inflation is to be allowed for by reference to, whether indicating an upward or downward trend—
+
+- (a) the retail prices index within the meaning of section 833(2) of the Income and Corporation Taxes Act 1988, or
+- (b) some published information relating to costs, earnings or other monetary factors as is, for use instead of the retail prices index, prescribed in regulations made by the Scottish Ministers.
+
+### Standard adjustments
+
+**10.** (1) The standard adjustments must be made by the rate-assessor to a rate of return that would be arrived at but for this paragraph.
+
+(2) The standard adjustments are the deduction of—
+
+- (a) 1.25 percentage points[^key-274676ec25e187e1097fb961150924f2], to represent—
+  - (i) the impact of taxation, and
+  - (ii) the costs of investment advice and management, and
+- (b) 0.5 of a percentage point, as the further margin involved in relation to the rate of return.
+
+**11.** (1) The Scottish Ministers may by regulations modify a figure appearing in paragraph 10(2)(a) or (b) (and update the adjacent text so that percentage points are referred to correctly in the singular or plural).
+
+(2) A figure as so modified—
+
+- (a) may be zero or a positive number,
+- (b) if not a whole number (including zero), may comprise or incorporate a decimal fraction.
+
+### Notional investment portfolio
+
+**12.** (1) As for the basis on which the rate-assessor is to proceed by virtue of paragraph 7(1), the notional portfolio is a combination of various types of things for investment in.
+
+(2) In the table—
+
+- (a) the first column shows the types of things that the portfolio is composed of,
+- (b) the second column shows the percentage that each of the types of things is of the portfolio.
+
+(3) Here is the table—
+
+|  |  |
+| --- | --- |
+| cash or equivalents | 10% |
+| nominal gilts | 15% |
+| index-linked gilts | 10% |
+| UK equities | 7.5% |
+| overseas equities | 12.5% |
+| high-yield bonds | 5% |
+| investment-grade credit | 30% |
+| property (heritable or moveable) | 5% |
+| other types (see the examples) | 5% |
+
+(4) Examples of other types as mentioned at the bottom of the first column of the table are infrastructure, commodities, hedge funds and absolute return funds.
+
+**13.** So far as necessary, if—
+
+- (a) an entry in the first column of the table is not ascribed meaning by regulations under paragraph 14, or
+- (b) any associated examples are not ascribed meaning by regulations under paragraph 14,
+
+the entry is or (as the case may be) examples are to be interpreted by the rate-assessor as appropriate by bringing to bear professional knowledge of what the relevant terminology is commonly understood to mean in investment contexts.
+
+### Details within portfolio
+
+**14.** The Scottish Ministers may by regulations ascribe meaning to—
+
+- (a) an entry in the first column of the table in paragraph 12(3),
+- (b) any associated examples.
+
+**15.** (1) The Scottish Ministers may by regulations—
+
+- (a) as respects the first column of the table in paragraph 12(3), add, remove or modify an entry or any associated examples,
+- (b) as respects the second column of the table—
+  - (i) add or remove a figure,
+  - (ii) modify a figure.
+
+(2) A figure so added, or as so modified—
+
+- (a) may be zero or a positive number,
+- (b) if not a whole number (including zero), may comprise or incorporate a decimal fraction.
+
+### Hypothetical investor
+
+**16.** (1) Before a review under paragraph 2(1) is due to start, the Scottish Ministers must consider whether regulations under paragraph 14 or 15 are necessary for ensuring that the notional portfolio remains suitable for investment in by a hypothetical investor. In considering the matter, the Scottish Ministers must consult such persons as they consider appropriate.
+
+(2) In considering the matter, the Scottish Ministers must consult such persons as they consider appropriate.
+
+(3) No consideration of the matter is required ahead of an extra review as mentioned in paragraph 2(3).
+
+(4) For who is a hypothetical investor, see paragraph 17(1).
+
+**17.** (1) A hypothetical investor is someone who falls within each of sub-paragraphs (2) to (4).
+
+(2) That is, someone who—
+
+- (a) is a recipient of damages, and
+- (b) will—
+  - (i) invest the damages, and
+  - (ii) do so as properly advised.
+
+(3) That is, someone who—
+
+- (a) has no financial resources, apart from the damages, that can be used to meet the losses and expenses for which the damages are awarded, and
+- (b) will make withdrawals from the investment fund deriving from investment of the damages.
+
+(4) That is, someone whose objectives are of securing that the damages will—
+
+- (a) meet the losses and expenses for which the damages are awarded, and
+- (b) be exhausted at the end of the period for which the damages are awarded.
+
+**18.** For the purpose of paragraphs 16 and 17—
+
+- (a) a reference to damages is to damages of the kind mentioned in section B1(1), and
+- (b) the damages are to be assumed to be received in a lump sum (rather than by way of periodical payments).
+
+### Expression of rates set
+
+**19.** (1) A rate of return is to be set by the rate-assessor as a percentage figure.
+
+(2) The figure may be—
+
+- (a) zero, or
+- (b) a negative or positive number.
+
+(3) If the figure is not a whole number (including zero), the number is to comprise or incorporate a decimal fraction of 0.25, 0.5 or 0.75.
+
+**20.** (1) A rate of return that would be arrived at but for this paragraph is to be rounded up or down by the rate-assessor to the nearest figure permitted, if necessary so as to come to—
+
+- (a) a whole number (including zero), or
+- (b) a number comprising or incorporating a decimal fraction of 0.25, 0.5 or 0.75.
+
+(2) If two permitted figures are equally near when rounding under sub-paragraph (1) arises, rounding is to be to whichever of the figures is reached—
+
+- (a) from the positive side of zero, by going towards (or to) zero, or
+- (b) from the negative side of zero, by going further below zero.
+
+### Single or multiple rates
+
+**21.** (1) Except where the Scottish Ministers by regulations require more than one rate of return to be set by the rate-assessor, a rate of return is to be set so as to have effect for all cases.
+
+(2) Where more than one rate of return is set for the time being by virtue of regulations under sub-paragraph (1), a review under paragraph 1(1) or 2(1) is to be conducted separately in relation to each rate of return (and a reference in paragraph 2(4)(b) to the previous review is to be read as necessary for this).
+
+**22.** Regulations under paragraph 21(1) must—
+
+- (a) specify the circumstances to which each rate of return is to relate,
+- (b) require the rate-assessor's report under paragraph 23 to cover each rate of return separately.
+
+### Reporting and effective date
+
+**23.** (1) After a review under paragraph 1(1) or 2(1) is concluded, the rate-assessor must send to the Scottish Ministers a report on the conduct of the review.
+
+(2) The report is to be sent to the Scottish Ministers without undue delay (and no later than on the last day of the 90-day period described in paragraph 3(2)).
+
+(3) The report is to—
+
+- (a) include—
+  - (i) a rate determination made in the review,
+  - (ii) a summary of the calculation of the rate of return (which may be accompanied by explanatory or supporting material),
+- (b) state the day on which the report is sent to the Scottish Ministers (and the day on which the review is concluded).
+
+**24.** (1) The Scottish Ministers must lay the report before the Scottish Parliament as soon as practicable after the day on which they receive the report from the rate-assessor.
+
+(2) The rate-assessor must publish the report on the same day as the report is laid before the Scottish Parliament by the Scottish Ministers.
+
+**25.** A rate determination comes into effect at the beginning of the day after the day on which the report including the determination is laid before the Scottish Parliament by the Scottish Ministers.
+
+### Reimbursement of costs
+
+**26.** (1) The Scottish Ministers must adequately reimburse the rate-assessor for costs, including as to staff and outlays, incurred by the rate-assessor in exercising the rate-assessor's functions with respect to a review under paragraph 1(1) or 2(1).
+
+(2) No reimbursement is owed under sub-paragraph (1) if the rate-assessor is part of the Scottish Administration.
+
+### Transitional arrangements
+
+**27.** (1) This sub-paragraph applies to a rate of return—
+
+- (a) prescribed by an order made under section 1(1) of the Damages Act 1996, and
+- (b) having effect—
+  - (i) in relation to Scotland, and
+  - (ii) immediately before the appointed day.
+
+(2) A rate of return to which sub-paragraph (1) applies is to be treated from the appointed day as if it were set for the purpose of section B1(1).
+
+(3) For the purpose of this paragraph, the appointed day is 1 July 2019[^key-34812e28749c2152b2979f953e4eb9bf].
+
+**28.** (1) A review under paragraph 1(1) of the position of there being no rate of return cannot cause the maintaining of that position, so in conducting such a review in relation to that position—
+
+- (a) paragraphs 5(a) and 33(5)(a) are to be read as if referring to a rate of return of some sort, and
+- (b) paragraphs 5(b) and 33(5)(b) are to be ignored.
+
+(2) On the question of a review under paragraph 1(1) of the position of there being no rate of return, see paragraph 1(3)(a)(ii).
+
+**29.** (1) Paragraph 6 extends to views received, in advance of the appointed day, in anticipation of the starting of a review under paragraph 1(1).
+
+(2) For the purpose of this paragraph, the appointed day is 1 July 2019[^key-e8dbefe0c017fd03c114c6aad2dbb31e].
+
+**30.** (1) Paragraph 26 extends to costs incurred, in advance of the appointed day, in anticipation of the starting of a review under paragraph 1(1).
+
+(2) For the purpose of this paragraph, the appointed day is 1 July 2019[^key-d0bdefc7b5089738d46b6b24846fb1a3].
+
+### Procedure for regulations
+
+**31.** (1) Regulations under this schedule may—
+
+- (a) make provision to apply in all cases, or
+- (b) make different provision for different circumstances.
+
+(2) Regulations under this schedule are subject to the affirmative procedure.
+
+### Interpretation of schedule
+
+**32.** In this schedule, a reference to the rate-assessor is to the official rate-assessor as mentioned in section B1(1).
+
+**33.** (1) Sub-paragraphs (2) to (5) are also for construing this schedule.
+
+(2) A rate of return is a rate of return for the purpose of section B1(1).
+
+(3) A rate of return is set as a result of a review under paragraph 1(1) or 2(1) on the making in the review of a rate determination by the rate-assessor.
+
+(4) A review of a rate of return under paragraph 1(1) or 2(1) is concluded when the rate-assessor makes a rate determination in the review.
+
+(5) A rate determination is a determination by the rate-assessor that is to be made in a review under paragraph 1(1) or 2(1) of what the new rate of return is, either—
+
+- (a) different from the rate of return under review, or
+- (b) the same as the rate of return under review.
+
+## SCHEDULE C1 — Setting the rate for section C1(1): Northern Ireland[^key-d609835a4e7675532f3e4b3d25753c18]
+
+*Extent: N.I.*
+
+### Regular review of rates of return
+
+**1.** (1) The rate-assessor must review any original rate of return.
+
+(2) A review under sub-paragraph (1) must be started by the rate-assessor on the appointed day.
+
+(3) For the purposes of this paragraph, an original rate of return is—
+
+- (a) a rate of return to which paragraph 27(1) applies, or
+- (b) the position of there being no rate of return to which paragraph 27(1) applies.
+
+**2.** (1) The rate-assessor must review every subsequent rate of return.
+
+(2) A review under sub-paragraph (1) must be started by the rate-assessor—
+
+- (a) in relation to the first such review—
+  - (i) on 1st July 2024, or
+  - (ii) earlier as is required by the Department of Justice;
+- (b) in relation to any subsequent review—
+  - (i) on the day after the last day of the 5-year period, or
+  - (ii) earlier within the 5-year period as is required by the Department of Justice.
+
+(3) Where a review under sub-paragraph (1) is started earlier by virtue of sub-paragraph (2)(a)(ii) or (2)(b)(ii), it is to be treated as an extra review that does not affect the starting date for the first review of 1st July 2024 or the running of the 5-year period in relation to the previous review (and no 5-year period runs under sub-paragraph (2) in relation to the extra review).
+
+(4) For the purposes of this paragraph—
+
+- (a) a subsequent rate of return is a rate of return that is set—
+  - (i) for the time being (including by reason of an extra review as mentioned in sub-paragraph (3)), and
+  - (ii) subsequently to an original rate of return as described in paragraph 1(3)(a) (including as a result of a review under sub-paragraph (1) conducted from time to time by virtue of the continuing operation of sub-paragraph (2)(a) and (b)),
+- (b) the 5-year period is the period of 5 years beginning with the day on which the previous review of a rate of return must be started (ignoring an extra review as mentioned in sub-paragraph (3)).
+
+**3.** (1) A review of a rate of return under paragraph 1(1) or 2(1) must be concluded by the rate-assessor within the 90-day period.
+
+(2) For the purposes of this paragraph, the 90-day period is the period of 90 days beginning with the day on which the review must be started by the rate-assessor.
+
+### Overview as to rate-setting
+
+**4.** (1) The conduct by the rate-assessor of a review of a rate of return under paragraph 1(1) or 2(1) is governed by—
+
+- (a) paragraphs 5 to 7,
+- (b) paragraphs 9 and 10,
+- (c) paragraphs 12 and 13,
+- (d) paragraphs 19 to 21.
+
+(2) A rate of return is to be set as a result of a review under paragraph 1(1) or 2(1) accordingly (plus see paragraph 23 as to reporting afterwards on the conduct of such a review).
+
+**5.** In a review under paragraph 1(1) or 2(1), the rate-assessor must determine whether a rate of return to be set is to be—
+
+- (a) different from the rate of return with which the review is concerned, or
+- (b) the same as the rate of return with which the review is concerned.
+
+**6.** In a review under paragraph 1(1) or 2(1), the rate-assessor must have regard to views—
+
+- (a) of any person whom the rate-assessor chooses to consult, and
+- (b) of any person whose advice the rate-assessor chooses to seek,
+
+where received by the rate-assessor within a reasonable time in connection with the review.
+
+### Returns-based assessment
+
+**7.** (1) The basis on which the rate-assessor is to make a rate determination in a review under paragraph 1(1) or 2(1) is as set out in sub-paragraph (2).
+
+(2) A rate of return should reflect the return that could reasonably be expected to be achieved by a person who invests—
+
+- (a) in the notional portfolio, and
+- (b) for a period of 43 years.
+
+(3) This is without prejudice to paragraphs 10 and 20 (with paragraph 10 to be met before paragraph 20 is met).
+
+(4) The notional portfolio is shown in the table in paragraph 12(3).
+
+**8.** The Department of Justice may by regulations modify a period mentioned in paragraph 7(2).
+
+**9.** (1) Allowance must be made by the rate-assessor for the impact of inflation on the value of the return or investment to which paragraph 7(2) relates.
+
+(2) The impact of inflation is to be allowed for by reference to, whether indicating an upward or downward trend—
+
+- (a) the retail prices index, or
+- (b) some published information relating to costs, earnings or other monetary factors as is, for use instead of the retail prices index, prescribed in regulations made by the Department of Justice.
+
+(3) In sub-paragraph (2), “**the retail prices index**” means the general index (for all items) published by the Statistics Board or, if that index is not published for a relevant month, any substituted index or index figures published by that Board.
+
+### Standard adjustments
+
+**10.** (1) The standard adjustments must be made by the rate-assessor to a rate of return that would be arrived at but for this paragraph.
+
+(2) The standard adjustments are the deduction of—
+
+- (a) 1.25 percentage points[^key-386a66004577a5becc6e2e21d4906751], to represent—
+  - (i) the impact of taxation, and
+  - (ii) the costs of investment advice and management, and
+- (b) 0.5 of a percentage point, as the further margin involved in relation to the rate of return.
+
+**11.** (1) The Department of Justice may by regulations modify a figure appearing in paragraph 10(2)(a) or (b).
+
+(2) A figure as so modified—
+
+- (a) may be zero or a positive number,
+- (b) if not a whole number (including zero), may comprise or incorporate a decimal fraction.
+
+### Notional investment portfolio
+
+**12.** (1) As for the basis on which the rate-assessor is to proceed by virtue of paragraph 7(1), the notional portfolio is a combination of various types of things for investment in.
+
+(2) In the table—
+
+- (a) the first column shows the types of things that the portfolio is composed of,
+- (b) the second column shows the percentage that each of the types of things is of the portfolio.
+
+(3) The table is as follows—
+
+|  |  |
+| --- | --- |
+| Cash or equivalents | 10% |
+| Nominal gilts | 15% |
+| Index-linked gilts | 10% |
+| UK equities | 7.5% |
+| Overseas equities | 12.5% |
+| High-yield bonds | 5% |
+| Investment-grade-credit | 30% |
+| Property (heritable or moveable) | 5% |
+| Other types (see the examples) | 5% |
+
+(4) Examples of other types as mentioned in the first column of the table are infrastructure, commodities, hedge funds and absolute return funds.
+
+**13.** So far as necessary, if—
+
+- (a) an entry in the first column of the table is not ascribed meaning by regulations under paragraph 14,
+- (b) any associated examples are not ascribed meaning by regulations under paragraph 14,
+
+the entry is or (as the case may be) examples are to be interpreted by the rate-assessor as appropriate by bringing to bear professional knowledge of what the relevant terminology is commonly understood to mean in investment contexts.
+
+### Details within portfolio
+
+**14.** The Department of Justice may by regulations ascribe meaning to—
+
+- (a) an entry in the first column of the table in paragraph 12(3),
+- (b) any associated examples.
+
+**15.** (1) The Department of Justice may by regulations—
+
+- (a) as respects the first column of the table in paragraph 12(3), add, remove or modify an entry or any associated examples,
+- (b) as respects the second column of the table—
+  - (i) add or remove a figure,
+  - (ii) modify a figure.
+
+(2) A figure so added, or as so modified—
+
+- (a) may be zero or a positive number,
+- (b) if not a whole number (including zero), may comprise or incorporate a decimal fraction.
+
+### Hypothetical investor
+
+**16.** (1) Before a review under paragraph 2(1) is due to start, the Department of Justice must consider whether regulations under paragraph 14 or 15 are necessary for ensuring that the notional portfolio remains suitable for investment in by a hypothetical investor.
+
+(2) In considering the matter, the Department of Justice must consult such persons as it considers appropriate.
+
+(3) No consideration of the matter is required ahead of an extra review as mentioned in paragraph 2(3).
+
+**17.** (1) A hypothetical investor is a person who falls within each of sub-paragraphs (2) to (4).
+
+(2) A person falls within this sub-paragraph if the person—
+
+- (a) is a recipient of damages, and
+- (b) will—
+  - (i) invest the damages, and
+  - (ii) do so as properly advised.
+
+(3) A person falls within this sub-paragraph if the person—
+
+- (a) has no financial resources, apart from the damages, that can be used to meet the losses and expenses for which the damages are awarded, and
+- (b) will make withdrawals from the investment fund deriving from investment of the damages.
+
+(4) A person falls within this sub-paragraph if the person is someone whose objectives are of securing that the damages will—
+
+- (a) meet the losses and expenses for which the damages are awarded, and
+- (b) be exhausted at the end of the period for which the damages are awarded.
+
+**18.** For the purpose of paragraphs 16 and 17—
+
+- (a) a reference to damages is to damages of the kind mentioned in section C1(1), and
+- (b) the damages are to be assumed to be received in a lump sum (rather than by way of periodical payments).
+
+### Expression of rates set
+
+**19.** (1) A rate of return is to be set by the rate-assessor as a percentage figure.
+
+(2) The figure may be—
+
+- (a) zero, or
+- (b) a negative or positive number.
+
+(3) If the figure is not a whole number (including zero), the number is to comprise or incorporate a decimal fraction of 0.25, 0.5 or 0.75.
+
+**20.** (1) A rate of return that would be arrived at but for this paragraph is to be rounded up or down by the rate-assessor to the nearest figure permitted, if necessary so as to come to—
+
+- (a) a whole number (including zero), or
+- (b) a number comprising or incorporating a decimal fraction of 0.25, 0.5 or 0.75.
+
+(2) If two permitted figures are equally near when rounding under sub-paragraph (1) arises, rounding is to be to whichever of the figures is reached—
+
+- (a) from the positive side of zero, by going towards (or to) zero, or
+- (b) from the negative side of zero, by going further below zero.
+
+### Single or multiple rates
+
+**21.** (1) Except where the Department of Justice by regulations requires more than one rate of return to be set by the rate-assessor, a rate of return is to be set so as to have effect for all cases.
+
+(2) Where more than one rate of return is set for the time being by virtue of regulations under sub-paragraph (1), a review under paragraph 1(1) or 2(1) is to be conducted separately in relation to each rate of return (and a reference in paragraph 2(4)(b) to the previous review is to be read as necessary for this).
+
+**22.** Regulations under paragraph 21(1) must—
+
+- (a) specify the circumstances to which each rate of return is to relate,
+- (b) require the rate-assessor’s report under paragraph 23 to cover each rate of return separately.
+
+### Reporting and effective date
+
+**23.** (1) After a review under paragraph 1(1) or 2(1) is concluded, the rate-assessor must send to the Department of Justice a report on the conduct of the review.
+
+(2) The report is to be sent to the Department of Justice without undue delay (and no later than on the last day of the 90-day period described in paragraph 3(2)).
+
+(3) The report is to—
+
+- (a) include—
+  - (i) a rate determination made in the review,
+  - (ii) a summary of the calculation of the rate of return (which may be accompanied by explanatory or supporting material),
+- (b) state the day on which the report is sent to the Department of Justice (and the day on which the review is concluded).
+
+**24.** (1) The Department of Justice must lay the report before the Northern Ireland Assembly as soon as practicable after the day on which the Department receives the report from the rate-assessor.
+
+(2) The rate-assessor must publish the report on the same day as the report is laid before the Northern Ireland Assembly by the Department of Justice.
+
+**25.** A rate determination comes into effect at the beginning of the day after the day on which the report including the determination is laid before the Northern Ireland Assembly by the Department of Justice.
+
+### Reimbursement of costs
+
+**26.** The Department of Justice must adequately reimburse the rate-assessor for costs, including as to staff and outlays, incurred by the rate-assessor in exercising the rate-assessor’s functions with respect to a review under paragraph 1(1) or 2(1).
+
+### Transitional arrangements
+
+**27.** (1) This sub-paragraph applies to a rate of return—
+
+- (a) prescribed by an order under section 1(1) of the Damages Act 1996, and
+- (b) having effect—
+  - (i) in relation to Northern Ireland, and
+  - (ii) immediately before the appointed day.
+
+(2) A rate of return to which sub-paragraph (1) applies is to be treated from the appointed day as if it were set for the purpose of section C1(1).
+
+**28.** (1) A review under paragraph 1(1) of the position of there being no rate of return cannot cause the maintaining of that position, so in conducting such a review in relation to that position—
+
+- (a) paragraphs 5(a) and 33(5)(a) are to be read as if referring to a rate of return of some sort, and
+- (b) paragraphs 5(b) and 33(5)(b) are to be ignored.
+
+(2) On the question of a review under paragraph 1(1) of the position of there being no rate of return, see paragraph 1(3)(b).
+
+**29.** Paragraph 6 extends to views received, in advance of the appointed day, in anticipation of the starting of a review under paragraph 1(1).
+
+**30.** Paragraph 26 extends to costs incurred, in advance of the appointed day, in anticipation of the starting of a review under paragraph 1(1).
+
+### Procedure for regulations
+
+**31.** (1) Regulations under this Schedule may—
+
+- (a) make provision to apply in all cases, or
+- (b) make different provision for different circumstances.
+
+(2) The power to make regulations under this Schedule is exercisable by statutory rule for the purposes of the Statutory Rules (Northern Ireland) Order 1979.
+
+(3) Regulations under this Schedule may not be made unless a draft of the regulations has been laid before, and approved by a resolution of, the Northern Ireland Assembly.
+
+### Interpretation of Schedule
+
+**32.** In this Schedule, a reference to the rate-assessor is to the official rate-assessor as mentioned in section C1(1).
+
+**33.** (1) Sub-paragraphs (2) to (5) apply for the interpretation of this Schedule.
+
+(2) A rate of return is a rate of return for the purpose of section C1(1).
+
+(3) A rate of return is set as a result of a review under paragraph 1(1) or 2(1) and on the coming into effect of a rate determination made by the rate-assessor in that review.
+
+(4) A review of a rate of return under paragraph 1(1) or 2(1) is concluded when the rate-assessor makes a rate determination in the review.
+
+(5) A rate determination is a determination by the rate-assessor that is to be made in a review under paragraph 1(1) or 2(1) of what the new rate of return is, either—
+
+- (a) different from the rate of return under review, or
+- (b) the same as the rate of return under review.
+
+**34.** In this Schedule—
+
+- “**the appointed day**” means the day on which the Schedule to the Damages (Return on Investment) Act (Northern Ireland) 2022 comes into operation;
+- “**the Department of Justice**” means the Department of Justice in Northern Ireland.
+
+## SCHEDULE 1 — Guarantees by Northern Ireland departments for public sector settlements[^key-0e86c423093d1467711b1d5f832aecd6][^key-1c52276b68e8fc295febe56e61228fb6]
+
+Section 6(9).
+
+**1.** This Schedule applies where—
+
+- (a) a claim or action for damages for personal injury is settled on terms whereby the damages are to consist wholly or partly of periodical payments[^key-c0af6d8bd871028c36d1afcb9bb50198]; or
+- (b) a court awarding damages for personal injury makes an order incorporating such terms.
+
+**2.** If is appears to a Northern Ireland department that the payments are to be made by a body in relation to which that department has, by virtue of this Schedule, power to do so, that department may guarantee the payments to be made under the agreement or order.
+
+**3.** The bodies in relation to which a Northern Ireland department may give such a guarantee shall, subject to paragraph 4 below, be such bodies as are designated in relation to that department by guidelines agreed upon between that department and the Department of Finance and Personnel in Northern Ireland.
+
+**4.** A guarantee purporting to be given by a Northern Ireland department under this Schedule shall not be invalidated by any failure on the part of that department to act in accordance with such guidelines as are mentioned in paragraph 3 above.
+
+**5.** A guarantee under this Schedule shall be given on such terms as the Northern Ireland department concerned may determine but those terms shall in every case require the body in question to reimburse that department, with interest, for any sums paid by that department in fulfilment of the guarantee.
+
+**6.** A Northern Ireland department which has given one or more guarantees under this Schedule shall, as soon as possible after the end of each financial year, lay before the Northern Ireland Assembly a statement showing what liabilities are outstanding in respect of the guarantees in that year, what sums have been paid in that year in fulfilment of the guarantees and what sums (including interest) have been recovered in that year in respect of the guarantees or are still owing.
+
+## Annotations
+
+[^c862681]: Commencement: Act wholly in force at 24. 9. 1996 see [s. 8(3)](https://www.legislation.gov.uk/ukpga/1996/48/section/8/3)
+
+[^c862682]: Extent: Act extends to UK except s. 3 which extends to E.W. & N.I. only see [s. 8(2)](https://www.legislation.gov.uk/ukpga/1996/48/section/8/2)
+
+[^key-0e35048590c72fd36af583136297f459]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1996/48): transfer of functions (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [Sch. 17 para. 15](https://www.legislation.gov.uk/uksi/2010/976/schedule/17/paragraph/15) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
+
+[^key-0185b97b4b1bbfb5eaac52534e86a323]: Textual amendment: S. A1 inserted (E.W.) (20.12.2018) by [Civil Liability Act 2018 (c. 29)](https://www.legislation.gov.uk/ukpga/2018/29), [ss. 10(1)](https://www.legislation.gov.uk/ukpga/2018/29/section/10/1), [14](https://www.legislation.gov.uk/ukpga/2018/29/section/14)
+
+[^key-074d895e8f728deda0bb8adc28818144]: Textual amendment: S. B1 inserted (S.) (1.7.2019) by [Damages (Investment Returns and Periodical Payments) (Scotland) Act 2019 (asp 4)](https://www.legislation.gov.uk/asp/2019/4), [ss. 1(1)](https://www.legislation.gov.uk/asp/2019/4/section/1/1), [9(2)](https://www.legislation.gov.uk/asp/2019/4/section/9/2); [S.S.I. 2019/197](https://www.legislation.gov.uk/ssi/2019/197), [reg. 2](https://www.legislation.gov.uk/ssi/2019/197/regulation/2)
+
+[^key-3234a517495b32d68fb47bc75d221bd4]: Textual amendment: S. C1 inserted (N.I.) (10.2.2022) by [Damages (Return on Investment) Act (Northern Ireland) 2022 (c. 1)](https://www.legislation.gov.uk/nia/2022/1), [ss. 1(1)](https://www.legislation.gov.uk/nia/2022/1/section/1/1), [5(2)](https://www.legislation.gov.uk/nia/2022/1/section/5/2); [S.R. 2022/30](https://www.legislation.gov.uk/nisr/2022/30), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/30/article/2/a)
+
+[^M_F_6b662725-2222-48e4-a5ff-a7e9de8f8b7c]: Textual amendment: S. 1 omitted (E.W.) (20.12.2018) by virtue of [Civil Liability Act 2018 (c. 29)](https://www.legislation.gov.uk/ukpga/2018/29), [ss. 10(4)(a)](https://www.legislation.gov.uk/ukpga/2018/29/section/10/4/a), [14](https://www.legislation.gov.uk/ukpga/2018/29/section/14)
+
+[^M_F_12275fd2-ca2e-46bc-f2b6-8f64ba1d1ea1]: Textual amendment: S. 1 repealed (S.) (1.7.2019) by virtue of [Damages (Investment Returns and Periodical Payments) (Scotland) Act 2019 (asp 4)](https://www.legislation.gov.uk/asp/2019/4), [ss. 1(2)](https://www.legislation.gov.uk/asp/2019/4/section/1/2), [9(2)](https://www.legislation.gov.uk/asp/2019/4/section/9/2); [S.S.I. 2019/197](https://www.legislation.gov.uk/ssi/2019/197), [reg. 2](https://www.legislation.gov.uk/ssi/2019/197/regulation/2)
+
+[^key-3b8a67bafd25954f9e0efc6546dfc591]: Textual amendment: S. 1 repealed (N.I.) (10.2.2022) by virtue of [Damages (Return on Investment) Act (Northern Ireland) 2022 (c. 1)](https://www.legislation.gov.uk/nia/2022/1), [ss. 1(2)](https://www.legislation.gov.uk/nia/2022/1/section/1/2), [5(2)](https://www.legislation.gov.uk/nia/2022/1/section/5/2); [S.R. 2022/30](https://www.legislation.gov.uk/nisr/2022/30), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/30/article/2/a)
+
+[^key-11e5363a4e4f9017111fc9d036e03a60]: Modification: S. 2(3)-(9) applied (with application in accordance with art. 1(5) of the amending S.I.) by [The Damages (Variation of Periodical Payments) Order 2005 (S.I. 2005/841)](https://www.legislation.gov.uk/uksi/2005/841), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2005/841/article/1/1), [13](https://www.legislation.gov.uk/uksi/2005/841/article/13)
+
+[^key-21b59aa6d80661e5925144781ab095c0]: Modification: S. 2 excluded (E.W.) (1.4.2005) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [s. 101(4)(d)](https://www.legislation.gov.uk/ukpga/2003/39/section/101/4/d)[(e),](https://www.legislation.gov.uk/ukpga/2003/39/section/101/4/e) [110(1)](https://www.legislation.gov.uk/ukpga/2003/39/section/110/1) ; [S.I. 2005/910](https://www.legislation.gov.uk/uksi/2005/910), [art. 3(w)](https://www.legislation.gov.uk/uksi/2005/910/article/3/w)
+
+[^key-4b463797da0f90f578fb9805a44bc029]: Textual amendment: Ss. 2-2B substituted for s. 2 (E.W.N.I.) (1.4.2005) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [ss. 100(1)](https://www.legislation.gov.uk/ukpga/2003/39/section/100/1), [110(1)](https://www.legislation.gov.uk/ukpga/2003/39/section/110/1); [S.I. 2005/910](https://www.legislation.gov.uk/uksi/2005/910), [art. 3(w)](https://www.legislation.gov.uk/uksi/2005/910/article/3/w); [S.I. 2005/910](https://www.legislation.gov.uk/uksi/2005/910), [art. 3(w)](https://www.legislation.gov.uk/uksi/2005/910/article/3/w) (with savings and transitional provisions in [S.I. 2005/911](https://www.legislation.gov.uk/uksi/2005/911), arts. 1, 11)
+
+[^key-1eae128e4649ed19734f5b136ae1b3e7]: Textual amendment: S. 2(A1) added (E.W.S.) (25.6.2010) by [The Rail Passengers’ Rights and Obligations Regulations 2010 (S.I. 2010/1504)](https://www.legislation.gov.uk/uksi/2010/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/1504/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2010/1504/regulation/9)
+
+[^key-cc99c4117f4768b8cf848cf461063488]: Textual amendment: Words in s. 2(4)(a) substituted (E.W.N.I.) (20.12.2018) by [Civil Liability Act 2018 (c. 29)](https://www.legislation.gov.uk/ukpga/2018/29), [ss. 10(4)(b)](https://www.legislation.gov.uk/ukpga/2018/29/section/10/4/b), [14](https://www.legislation.gov.uk/ukpga/2018/29/section/14)
+
+[^key-be948965c43012792adc5fc6aa2f8e1c]: Textual amendment: Words in s. 2(7)(b) substituted (E.W.N.I.) (20.12.2018) by [Civil Liability Act 2018 (c. 29)](https://www.legislation.gov.uk/ukpga/2018/29), [ss. 10(4)(c)](https://www.legislation.gov.uk/ukpga/2018/29/section/10/4/c), [14](https://www.legislation.gov.uk/ukpga/2018/29/section/14)
+
+[^key-36d4f33eace2170439c35f90aa307469]: Textual amendment: Words in s. 2A(6) inserted (N.I.) (7.7.2005) by [The Law Reform (Miscellaneous Provisions) (Northern Ireland) Order 2005 (S.I. 2005/1452)](https://www.legislation.gov.uk/nisi/2005/1452), [arts. 1(4)](https://www.legislation.gov.uk/nisi/2005/1452/article/1/4), [23](https://www.legislation.gov.uk/nisi/2005/1452/article/23)
+
+[^key-671369947272a1bc723fc3b215450dff]: Textual amendment: Word in s. 2A(6)(a) omitted (12.4.2010) by virtue of [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [Sch. 18 para. 56(a)](https://www.legislation.gov.uk/uksi/2010/976/schedule/18/paragraph/56/a) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
+
+[^key-92fc226ea21842d70bb0f97a588735b1]: Textual amendment: S. 2A(6)(c)(d) inserted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [Sch. 18 para. 56(b)](https://www.legislation.gov.uk/uksi/2010/976/schedule/18/paragraph/56/b) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
+
+[^key-04ee106900b7b8b62e625465166813a9]: Textual amendment: S. 2B(8) inserted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [Sch. 18 para. 57](https://www.legislation.gov.uk/uksi/2010/976/schedule/18/paragraph/57) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
+
+[^key-bc77cb5933881a6f80ed61e2259e0c26]: Textual amendment: Words in Act substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 11 para. 1(2)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/11/paragraph/1/2); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d)
+
+[^c862684]: Marginal citation: [1976 c. 30](https://www.legislation.gov.uk/ukpga/1976/30)
+
+[^c862685]: Marginal citation: [1981 c. 54](https://www.legislation.gov.uk/ukpga/1981/54)
+
+[^c862686]: Marginal citation: [1984 c. 28](https://www.legislation.gov.uk/ukpga/1984/28)
+
+[^c862687]: Marginal citation: [S.I. 1977/1251 (N.I. 18)](https://www.legislation.gov.uk/nisi/1977/1251)
+
+[^c862688]: Marginal citation: [1982 c. 53](https://www.legislation.gov.uk/ukpga/1982/53)
+
+[^key-60d4500c524323e2ad7dc4b72e887f7f]: Textual amendment: S. 4 substituted for ss. 4, 5 (1.4.2005) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [ss. 101(1)](https://www.legislation.gov.uk/ukpga/2003/39/section/101/1), [110(1)](https://www.legislation.gov.uk/ukpga/2003/39/section/110/1); [S.I. 2005/910](https://www.legislation.gov.uk/uksi/2005/910), [art. 3(w)](https://www.legislation.gov.uk/uksi/2005/910/article/3/w); [S.I. 2005/910](https://www.legislation.gov.uk/uksi/2005/910), [art. 3(w)](https://www.legislation.gov.uk/uksi/2005/910/article/3/w) (with savings and transitional provisions in [S.I. 2005/911](https://www.legislation.gov.uk/uksi/2005/911), [arts. 1](https://www.legislation.gov.uk/uksi/2005/911/article/1), [13](https://www.legislation.gov.uk/uksi/2005/911/article/13), [14](https://www.legislation.gov.uk/uksi/2005/911/article/14))
+
+[^key-508718744d6cd27ecc3eb6e12ab82ec4]: Textual amendment: Words in s. 6(1)(a) substituted (1.4.2005) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [ss. 101(2)](https://www.legislation.gov.uk/ukpga/2003/39/section/101/2), [110(1)](https://www.legislation.gov.uk/ukpga/2003/39/section/110/1); [S.I. 2005/910](https://www.legislation.gov.uk/uksi/2005/910), [art. 3(w)](https://www.legislation.gov.uk/uksi/2005/910/article/3/w); [S.I. 2005/910](https://www.legislation.gov.uk/uksi/2005/910), [art. 3(w)](https://www.legislation.gov.uk/uksi/2005/910/article/3/w)
+
+[^c862699]: Textual amendment: S. 6(8A) inserted (1.7.1999) by [1998 c. 46](https://www.legislation.gov.uk/ukpga/1998/46), [s. 125](https://www.legislation.gov.uk/ukpga/1998/46/section/125), [Sch. 8](https://www.legislation.gov.uk/ukpga/1998/46/schedule/8), [para. 34](https://www.legislation.gov.uk/ukpga/1998/46/paragraph/34) (with s. 126(3)-(11); [S.I. 1998/3178](https://www.legislation.gov.uk/uksi/1998/3178), [art. 2(1)](https://www.legislation.gov.uk/uksi/1998/3178/article/2/1),
+
+[^c862700]: Textual amendment: S. 6(8B) inserted (1.7.1999) by [S.I. 1999/1820](https://www.legislation.gov.uk/uksi/1999/1820), [art. 4](https://www.legislation.gov.uk/uksi/1999/1820/article/4), [Sch. 2 Pt. 1 para. 126(3)](https://www.legislation.gov.uk/uksi/1999/1820/schedule/2/part/1/paragraph/126/3)
+
+[^key-5c7d93f844ae291c514ee12bb4f107f8]: Textual amendment: Words in s. 6(9) substituted (20.12.2018) by [Civil Liability Act 2018 (c. 29)](https://www.legislation.gov.uk/ukpga/2018/29), [ss. 10(4)(d)](https://www.legislation.gov.uk/ukpga/2018/29/section/10/4/d), [14](https://www.legislation.gov.uk/ukpga/2018/29/section/14)
+
+[^c862701]: Marginal citation: [1934 c. 41](https://www.legislation.gov.uk/ukpga/1934/41)
+
+[^c862702]: Marginal citation: [1976 c. 30](https://www.legislation.gov.uk/ukpga/1976/30)
+
+[^key-897da75517c65614f7f5621d72c551ce]: Textual amendment: Words in s. 7(2) substituted (S.) (7.7.2011) by [Damages (Scotland) Act 2011 (asp 7)](https://www.legislation.gov.uk/asp/2011/7), [s. 19(3)](https://www.legislation.gov.uk/asp/2011/7/section/19/3), [sch. 1 para. 7](https://www.legislation.gov.uk/asp/2011/7/schedule/1/paragraph/7) (with [ss. 17](https://www.legislation.gov.uk/asp/2011/7/section/17), [19(2)](https://www.legislation.gov.uk/asp/2011/7/section/19/2)); [S.S.I. 2011/268](https://www.legislation.gov.uk/ssi/2011/268), [art. 3](https://www.legislation.gov.uk/ssi/2011/268/article/3) (with [art. 4](https://www.legislation.gov.uk/ssi/2011/268/article/4)); [S.S.I. 2011/268](https://www.legislation.gov.uk/ssi/2011/268), [art. 3](https://www.legislation.gov.uk/ssi/2011/268/article/3) (with [art. 4](https://www.legislation.gov.uk/ssi/2011/268/article/4))
+
+[^c862704]: Marginal citation: [1937 c. 9](https://www.legislation.gov.uk/ukpga/1937/9)(N.I.)
+
+[^c862705]: Marginal citation: [S.I. 1977/1251 (N.I. 18)](https://www.legislation.gov.uk/nisi/1977/1251)
+
+[^key-52e3408472bd6e0440c9a8a993dc6c69]: Textual amendment: Sch. A1 inserted (E.W.) (20.12.2018) by [Civil Liability Act 2018 (c. 29)](https://www.legislation.gov.uk/ukpga/2018/29), [ss. 10(2)](https://www.legislation.gov.uk/ukpga/2018/29/section/10/2), [14](https://www.legislation.gov.uk/ukpga/2018/29/section/14)
+
+[^key-b973d49af062a546461bfbd25be738c2]: Textual amendment: Sch. B1 inserted (S.) (1.7.2019) by [Damages (Investment Returns and Periodical Payments) (Scotland) Act 2019 (asp 4)](https://www.legislation.gov.uk/asp/2019/4), [s. 9(2)](https://www.legislation.gov.uk/asp/2019/4/section/9/2), [sch.](https://www.legislation.gov.uk/asp/2019/4/schedule); [S.S.I. 2019/197](https://www.legislation.gov.uk/ssi/2019/197), [reg. 2](https://www.legislation.gov.uk/ssi/2019/197/regulation/2)
+
+[^key-bce33ed101f3163ecd5597d554fd0ce2]: Textual amendment: Words in [Sch. B1 para. 1(3)(b)](https://www.legislation.gov.uk/ukpga/1996/48/schedule/B1/paragraph/1/3/b) substituted (S.) (1.7.2019) by [The Damages (Investment Returns and Periodical Payments) (Scotland) Act 2019 (Commencement No. 1) Regulations 2019 (S.S.I. 2019/197)](https://www.legislation.gov.uk/ssi/2019/197), [reg. 3](https://www.legislation.gov.uk/ssi/2019/197/regulation/3)
+
+[^key-82f82ef8a6c5a97e352036815c3d5a79]: Textual amendment: Word in [Sch. B1 para. 7(2)(b)](https://www.legislation.gov.uk/ukpga/1996/48/schedule/B1/paragraph/7/2/b) substituted (1.7.2024) by [The Damages (Review of Rate of Return) (Scotland) Regulations 2024 (S.S.I. 2024/163)](https://www.legislation.gov.uk/ssi/2024/163), [regs. 1](https://www.legislation.gov.uk/ssi/2024/163/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2024/163/regulation/2/2)
+
+[^key-274676ec25e187e1097fb961150924f2]: Textual amendment: Words in [Sch. B1 para. 10(2)(a)](https://www.legislation.gov.uk/ukpga/1996/48/schedule/B1/paragraph/10/2/a) substituted (1.7.2024) by [The Damages (Review of Rate of Return) (Scotland) Regulations 2024 (S.S.I. 2024/163)](https://www.legislation.gov.uk/ssi/2024/163), [regs. 1](https://www.legislation.gov.uk/ssi/2024/163/regulation/1), [2(3)](https://www.legislation.gov.uk/ssi/2024/163/regulation/2/3)
+
+[^key-34812e28749c2152b2979f953e4eb9bf]: Textual amendment: Words in [Sch. B1 para. 27(3)](https://www.legislation.gov.uk/ukpga/1996/48/schedule/B1/paragraph/27/3) substituted (S.) (1.7.2019) by [The Damages (Investment Returns and Periodical Payments) (Scotland) Act 2019 (Commencement No. 1) Regulations 2019 (S.S.I. 2019/197)](https://www.legislation.gov.uk/ssi/2019/197), [reg. 3](https://www.legislation.gov.uk/ssi/2019/197/regulation/3)
+
+[^key-e8dbefe0c017fd03c114c6aad2dbb31e]: Textual amendment: Words in [Sch. B1 para. 29(2)](https://www.legislation.gov.uk/ukpga/1996/48/schedule/B1/paragraph/29/2) substituted (S.) (1.7.2019) by [The Damages (Investment Returns and Periodical Payments) (Scotland) Act 2019 (Commencement No. 1) Regulations 2019 (S.S.I. 2019/197)](https://www.legislation.gov.uk/ssi/2019/197), [reg. 3](https://www.legislation.gov.uk/ssi/2019/197/regulation/3)
+
+[^key-d0bdefc7b5089738d46b6b24846fb1a3]: Textual amendment: Words in [Sch. B1 para. 30(2)](https://www.legislation.gov.uk/ukpga/1996/48/schedule/B1/paragraph/30/2) substituted (S.) (1.7.2019) by [The Damages (Investment Returns and Periodical Payments) (Scotland) Act 2019 (Commencement No. 1) Regulations 2019 (S.S.I. 2019/197)](https://www.legislation.gov.uk/ssi/2019/197), [reg. 3](https://www.legislation.gov.uk/ssi/2019/197/regulation/3)
+
+[^key-d609835a4e7675532f3e4b3d25753c18]: Textual amendment: [Sch. C1](https://www.legislation.gov.uk/ukpga/1996/48/schedule/C1) inserted (N.I.) (10.2.2022) by [Damages (Return on Investment) Act (Northern Ireland) 2022 (c. 1)](https://www.legislation.gov.uk/nia/2022/1), [s. 5(2)](https://www.legislation.gov.uk/nia/2022/1/section/5/2), [Sch.](https://www.legislation.gov.uk/nia/2022/1/schedule); [S.R. 2022/30](https://www.legislation.gov.uk/nisr/2022/30), [art. 2(c)](https://www.legislation.gov.uk/nisr/2022/30/article/2/c)
+
+[^key-386a66004577a5becc6e2e21d4906751]: Textual amendment: Words in [Sch. C1 para. 10(2)(a)](https://www.legislation.gov.uk/ukpga/1996/48/schedule/C1/paragraph/10/2/a) substituted (1.7.2024) by [The Damages (Process for Setting Rate of Return) Regulations (Northern Ireland) 2024 (S.R. 2024/137)](https://www.legislation.gov.uk/nisr/2024/137), [regs. 1](https://www.legislation.gov.uk/nisr/2024/137/regulation/1), [2](https://www.legislation.gov.uk/nisr/2024/137/regulation/2)
+
+[^key-0e86c423093d1467711b1d5f832aecd6]: Textual amendment: Sch. 1 heading substituted (20.12.2018) by [Civil Liability Act 2018 (c. 29)](https://www.legislation.gov.uk/ukpga/2018/29), [ss. 10(4)(e)](https://www.legislation.gov.uk/ukpga/2018/29/section/10/4/e), [14](https://www.legislation.gov.uk/ukpga/2018/29/section/14)
+
+[^key-1c52276b68e8fc295febe56e61228fb6]: Textual amendment: Sch. renumbered as Sch. 1 (20.12.2018) by [Civil Liability Act 2018 (c. 29)](https://www.legislation.gov.uk/ukpga/2018/29), [ss. 10(4)(e)](https://www.legislation.gov.uk/ukpga/2018/29/section/10/4/e), [14](https://www.legislation.gov.uk/ukpga/2018/29/section/14)
+
+[^key-c0af6d8bd871028c36d1afcb9bb50198]: Textual amendment: Words in Sch. para. 1(a) substituted (1.4.2005) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [ss. 101(3)](https://www.legislation.gov.uk/ukpga/2003/39/section/101/3), [110(1)](https://www.legislation.gov.uk/ukpga/2003/39/section/110/1); [S.I. 2005/910](https://www.legislation.gov.uk/uksi/2005/910), [art. 3(w)](https://www.legislation.gov.uk/uksi/2005/910/article/3/w); [S.I. 2005/910](https://www.legislation.gov.uk/uksi/2005/910), [art. 3(w)](https://www.legislation.gov.uk/uksi/2005/910/article/3/w)

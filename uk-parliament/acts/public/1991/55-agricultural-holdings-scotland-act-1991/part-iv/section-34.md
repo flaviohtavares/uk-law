@@ -1,0 +1,54 @@
+---
+title: Agricultural Holdings (Scotland) Act 1991, section 34
+act: Agricultural Holdings (Scotland) Act 1991
+section: '34'
+status: revised-with-pending-changes
+text_date: '2021-02-28'
+extent: S
+source_url: https://www.legislation.gov.uk/ukpga/1991/55/section/34
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Agricultural Holdings (Scotland) Act 1991, section 34
+
+> **Warning: changes not yet applied to this text (68).** Text as at 2021-02-28. See https://www.legislation.gov.uk/changes/affected/ukpga/1991/55
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 34. Right to compensation for improvements.
+
+*Extent: S*
+
+(1) Subject to subsections (2) to (4), (7) and (8) below, and to sections 36 and 39 to 42 of this Act, a tenant of an agricultural holding shall be entitled, on quitting the holding at the termination of the tenancy, to compensation from the landlord in respect of improvements carried out by the tenant.
+
+(2) A tenant whose lease was entered into before 1st January 1921 shall not be entitled to compensation under this section for an improvement which he was required to carry out by the terms of his tenancy.
+
+(3) A tenant shall not be entitled to compensation under this section for an old improvement carried out on land which, at the time the improvement was begun, was not a holding within the meaning of the [^c1033704]Agricultural Holdings (Scotland) Act 1923 as originally enacted, or land to which provisions of that Act relating to compensation for improvements and disturbance were applied by section 33 of that Act.
+
+(4) Nothing in this section shall prejudice the right of a tenant to any compensation to which he is entitled—
+
+- (a) in the case of an old improvement, under custom, agreement or otherwise;
+- (b)[^key-590880091da283d1aa5ee3a975f2aee2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+in lieu of any compensation provided by this section.
+
+(5) Where a tenant has remained in an agricultural holding during two or more tenancies, he shall not be deprived of his right to compensation under subsection (1) above by reason only that the improvements were not carried out during the tenancy on the termination of which he quits the holding.
+
+(6) Subject to section 36(4) of this Act, a tenant shall be entitled to compensation under this section in respect of the 1931 Act improvement specified in paragraph 28 of Schedule 4 to this Act, or the new improvement specified in paragraph 32 of Schedule 5 to this Act (laying down of temporary pasture), notwithstanding that the laying down or the leaving at the termination of the tenancy of temporary pasture was in contravention of the terms of the lease or of any agreement made by the tenant respecting the method of cropping the arable lands; but, in ascertaining the amount of the compensation, the Land Court[^key-4884d0289480287eaa01076c75414065] shall take into account any injury to or deterioration of the holding due to the contravention (except insofar as the landlord may have recovered damages therefor).
+
+(7) Where under an agreement in writing entered into before 1st January 1921 a tenant is entitled to compensation which is fair and reasonable having regard to the circumstances existing at the time of the making of the agreement, for an old improvement specified in Part III of Schedule 3 to this Act or in Part III of Schedule 4 to this Act, such compensation shall, as respects that improvement, be substituted for compensation under subsection (1) above.
+
+(8) Compensation shall not be payable under this Part of this Act in respect of repairs of the kind specified in paragraph 29 of Schedule 3 to this Act or in paragraph 29 of Schedule 4 to this Act unless, before beginning to execute any such repairs, the tenant gave to the landlord notice in writing under paragraph (29) of Schedule 1 to the [^c1033705]Agricultural Holdings (Scotland) Act 1923, or under paragraph (30) of Schedule 1 to the [^c1033706]Small Landholders and Agricultural Holdings (Scotland) Act 1931, of his intention to execute the repairs, together with particulars thereof, and the landlord failed to exercise the right conferred on him by the said paragraph (29) or, as the case may be, the said paragraph (30) to execute the repairs himself within a reasonable time after receiving the notice.
+
+## Annotations
+
+[^c1033704]: Marginal citation: [1923 c. 10](https://www.legislation.gov.uk/ukpga/1923/10).
+
+[^key-590880091da283d1aa5ee3a975f2aee2]: Textual amendment: S. 34(4)(b) repealed (27.11.2003) by [Agricultural Holdings (Scotland) Act 2003 (asp 11)](https://www.legislation.gov.uk/asp/2003/11), [ss. 43(2)(a)](https://www.legislation.gov.uk/asp/2003/11/section/43/2/a), [95(3)](https://www.legislation.gov.uk/asp/2003/11/section/95/3), [95(4)](https://www.legislation.gov.uk/asp/2003/11/section/95/4) (with [s. 95(2)](https://www.legislation.gov.uk/asp/2003/11/section/95/2)); [S.S.I. 2003/548](https://www.legislation.gov.uk/ssi/2003/548), [art. 2(d)](https://www.legislation.gov.uk/ssi/2003/548/article/2/d) (with [Sch.](https://www.legislation.gov.uk/ssi/2003/548/schedule))
+
+[^key-4884d0289480287eaa01076c75414065]: Textual amendment: Word in s. 34(6) substituted (27.11.2003) by [Agricultural Holdings (Scotland) Act 2003 (asp 11)](https://www.legislation.gov.uk/asp/2003/11), [s. 95(3)](https://www.legislation.gov.uk/asp/2003/11/section/95/3)[(4)](https://www.legislation.gov.uk/asp/2003/11/section/95/4), [Sch. para. 24](https://www.legislation.gov.uk/asp/2003/11/schedule/paragraph/24) (with [s. 95(2)](https://www.legislation.gov.uk/asp/2003/11/section/95/2)); [S.S.I. 2003/548](https://www.legislation.gov.uk/ssi/2003/548), [art. 2(i)](https://www.legislation.gov.uk/ssi/2003/548/article/2/i) (with [Sch.](https://www.legislation.gov.uk/ssi/2003/548/schedule))
+
+[^c1033705]: Marginal citation: [1923 c. 10](https://www.legislation.gov.uk/ukpga/1923/10).
+
+[^c1033706]: Marginal citation: [1931 c. 44](https://www.legislation.gov.uk/ukpga/1931/44).

@@ -1,0 +1,125 @@
+---
+title: The National Health Service (Primary Dental Services) (Miscellaneous Amendments to Charges) Regulations 2013
+id: uksi/2013/711
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2013-03-25'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2013/711
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2013/711/pdfs/uksiem_20130711_en.pdf
+- http://www.legislation.gov.uk/uksi/2013/711/pdfs/uksi_20130711_en.pdf
+- http://www.legislation.gov.uk/uksi/2013/711/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The National Health Service (Primary Dental Services) (Miscellaneous Amendments to Charges) Regulations 2013
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+This Statutory Instrument corrects defects in [SI 2013/364](https://www.legislation.gov.uk/uksi/2013/364) and in [SI 2013/475](https://www.legislation.gov.uk/uksi/2013/475) and is being issued free of charge to all known recipients of those Statutory Instruments.
+
+2013 No. 711
+
+National Health Service, England
+
+The National Health Service (Primary Dental Services) (Miscellaneous Amendments to Charges) Regulations 2013
+
+Made
+
+25th March 2013
+
+Laid before Parliament
+
+27th March 2013
+
+Coming into force in accordance with regulation 1(2) and (3)
+
+The Secretary of State for Health makes the following Regulations in exercise of the powers conferred by sections 176 and 272(7) and (8) of the National Health Service Act 2006[^f00001].
+
+## 1. Citation and commencement
+
+(1) These Regulations may be cited as the National Health Service (Primary Dental Services) (Miscellaneous Amendments to Charges) Regulations 2013.
+
+(2) These Regulations, apart from regulation 4, come into force on 31st March 2013.
+
+(3) Regulation 4 comes into force on 1st April 2013.
+
+## 2. Amendment of the National Health Service (Primary Dental Services) (Miscellaneous Amendments and Transitional Provisions) Regulations 2013
+
+(1) The National Health Service (Primary Dental Services) (Miscellaneous Amendments and Transitional Provisions) Regulations 2013[^f00002] are amended as follows.
+
+(2) Omit regulation 46(a) (amendment of regulation 4).
+
+(3) Omit regulation 51 (new regulation 13A).
+
+## 3. Amendment of the National Health Service (Charges for Drugs and Appliances), (Dental Charges) and (Travel Expenses and Remission of Charges) (Amendment) Regulations 2013
+
+Omit regulation 16(3) (amendment of the Dental Charges Regulations) of the National Health Service (Charges for Drugs and Appliances), (Dental Charges) and (Travel Expenses and Remission of Charges) (Amendment) Regulations 2013[^f00003].
+
+## 4. Amendment of the National Health Service (Dental Charges) Regulations 2005
+
+(1) The National Health Service (Dental Charges) Regulations 2005[^f00004] are amended as follows.
+
+(2) In regulation 4 (calculation of charges), in paragraph (1), after “relevant primary dental services” insert “irrespective of whether any of the components of the course of treatment are also set out in Schedule 1A”.
+
+(3) In regulation 6(4) (circumstances in which charges cannot be made for treatment that occurs after a course of treatment is completed), after “paragraphs (1) to (4) of regulation 4” insert “or regulation 13A(2)”.
+
+(4) After regulation 12 (reduction of remuneration and accounting for charges in relation to providers of relevant primary dental services), insert—
+
+> **13A. Charges in respect of primary dental services provided under a Capitation and Quality Scheme 2 Agreement**
+>
+> (1) This regulation applies in relation to primary dental services provided in accordance with a Capitation and Quality Scheme 2 Agreement.
+>
+> (2) An additional charge to be known as a Band 1A charge of £18.00 may be made and recovered for the provision of any interim care course of treatment the entirety of the components of which are set out in Schedule 1A, irrespective of whether any of the components of the course of treatment are also set out in Schedule 1, where—
+>
+> - (a) subject to paragraph (3), all of the components of an interim care course of treatment proposed for a person at the initial examination have been provided (notwithstanding that they may have been provided at different times); and
+> - (b) those components include at least one of the treatments set out at paragraphs (e) to (g) of Schedule 1A.
+>
+> (3) If—
+>
+> - (a) during an interim care course of treatment a patient voluntarily withdraws from, or is withdrawn by the provider from treatment; and
+> - (b) at least one of the treatments set out at paragraphs (e) to (g) of Schedule 1A has been provided,
+>
+> a Band 1A charge may be made and recovered for that course of treatment (notwithstanding that the requirements of paragraph (2)(a) are not fully met).
+>
+> **13B. Transitional provision relating to interim care**
+>
+> Where an initial examination occurred on or before 31st March 2013 and a course of treatment was planned that would constitute an interim care course of treatment for the purposes of regulation 13A had it been planned on or after 1st April 2013, and all of that treatment is provided on or after 1st April 2013, the planned treatment must be treated as provided in accordance with the Capitation and Quality Scheme 2 Agreement under regulation 13A.
+
+.[^f00005]
+
+Signed by authority of the Secretary of State for Health.
+
+Earl Howe
+
+Parliamentary Under-Secretary of State,
+
+Department of Health
+
+25th March 2013
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations amend the National Health Service (Primary Dental Services) (Miscellaneous Amendments and Transitional Provisions) Regulations 2013 (“the 2013 Regulations”), the National Health Service (Charges for Drugs and Appliances), (Dental Charges) and (Travel Expenses and Remission of Charges) (Amendment) Regulations 2013 (“Charges Regulations 2013”) and the National Health Service (Dental Charges) Regulations 2005 (“the Dental Charges Regulations”).
+
+Regulation 2 amends the 2013 Regulations to omit regulation 46(a) which relates to calculation of dental charges, and regulation 51 which inserts regulations 13A and 13B into the Dental Charges Regulations. Regulation 3 amends the Charges Regulations to omit regulation 16(3) which uplifts the Band 1A charge to £18.00. Regulation 4(2) and (3) make consequential amendments to regulation 4 and 6 of the Dental Charges Regulations respectively. Regulation 4(4) amends the Dental Charges Regulations to insert new regulations 13A and 13B which introduce the new dental charge of £18.00 for an interim care course of treatment that includes certain components provided where patients are receiving treatment under a Capitation and Quality Scheme 2 Agreement, and makes transitional provision in relation to interim care.
+
+## Annotations
+
+[^f00001]: Footnote: [2006 c.41](https://www.legislation.gov.uk/ukpga/2006/41). Section 176 is amended by section 55(1) of, and paragraph 94 of Schedule 4 to, the Health and Social Care Act [2012 (c.7)](https://www.legislation.gov.uk/ukpga/2012/7). *See* section 275(1) for the definition of “regulations” and “prescribed”. By virtue of section 271(1), the powers conferred by these sections are exercisable by the Secretary of State only in relation to England.
+
+[^f00002]: Footnote: [S.I. 2013/364](https://www.legislation.gov.uk/uksi/2013/364).
+
+[^f00003]: Footnote: [S.I. 2013/475](https://www.legislation.gov.uk/uksi/2013/475).
+
+[^f00004]: Footnote: [S.I. 2005/3477](https://www.legislation.gov.uk/uksi/2005/3477), as amended by [S.I. 2006/1837](https://www.legislation.gov.uk/uksi/2006/1837), [2007/544](https://www.legislation.gov.uk/uksi/2007/544), [2008/547](https://www.legislation.gov.uk/uksi/2008/547), [2009/407](https://www.legislation.gov.uk/uksi/2009/407), [2011/519](https://www.legislation.gov.uk/uksi/2011/519), [2012/502](https://www.legislation.gov.uk/uksi/2012/502) and [2013/364](https://www.legislation.gov.uk/uksi/2013/364) and [475](https://www.legislation.gov.uk/uksi/2013/475).
+
+[^f00005]: Footnote: A Capitation and Quality Scheme 2 Agreement is an Agreement which forms a temporary part of a general dental services contract or a personal dental services agreement and which is entered into as part of the Capitation and Quality Scheme 2 and in accordance with the National Health Service (Dental Services) (Capitation and Quality Scheme 2 Agreements) Directions 2013. These Directions are available on the Department of Health website www.dh.gov.uk.

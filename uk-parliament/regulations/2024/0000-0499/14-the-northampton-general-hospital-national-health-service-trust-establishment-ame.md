@@ -1,0 +1,100 @@
+---
+title: The Northampton General Hospital National Health Service Trust (Establishment) (Amendment) Order 2024
+id: uksi/2024/14
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2024-01-08'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2024/14
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2024/14/pdfs/uksi_20240014_en.pdf
+- http://www.legislation.gov.uk/uksi/2024/14/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Northampton General Hospital National Health Service Trust (Establishment) (Amendment) Order 2024
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2024 No. 14
+
+National Health Service, England
+
+The Northampton General Hospital National Health Service Trust (Establishment) (Amendment) Order 2024
+
+Made
+
+8th January 2024
+
+Coming into force
+
+15th January 2024
+
+The Secretary of State for Health and Social Care makes the following Order in exercise of the powers conferred by sections 25(1), 272(7) and (8) and 273(1) of the National Health Service Act 2006[^f00001].
+
+In accordance with section 25(3) of that Act, the Secretary of State has completed the consultation prescribed by regulations[^f00002] made under that section.
+
+## 1. Citation, commencement, interpretation and extent
+
+(1) This Order may be cited as the Northampton General Hospital National Health Service Trust (Establishment) (Amendment) Order 2024 and comes into force on 15th January 2024.
+
+(2) In this Order, “**the Establishment Order**” means the Northampton General Hospital National Health Service Trust (Establishment) Order 1993[^f00003].
+
+(3) This Order extends to England and Wales.
+
+## 2. Amendment of interpretation provision
+
+In article 1(2) of the Establishment Order (interpretation), omit the definitions of “community health services” and “establishment date”.
+
+## 3. Amendment to nature and functions of the trust
+
+For article 3 of the Establishment Order (nature and functions of the trust) (including the heading), substitute—
+
+> **3. Functions of the trust**
+>
+> The trust’s functions are to provide goods and services for the purposes of the health service.
+
+.
+
+## 4. Amendment of requirements relating to directors
+
+For article 4 of the Establishment Order (directors of the trust) substitute—
+
+> **4.** The trust must have, in addition to the chairman, 6 non-executive directors and 5 executive directors.
+
+.
+
+Signed by authority of the Secretary of State for Health and Social Care
+
+Andrew Stephenson
+
+Minister of State
+
+Department of Health and Social Care
+
+8th January 2024
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order amends the Northampton General Hospital National Health Service Trust (Establishment) Order 1993 (“**the Establishment Order**”), which established the Northampton General Hospital National Health Service Trust (“**the trust**”).
+
+Article 3 sets out the functions of the trust as being to provide goods and services for the purposes of the health service. It removes the reference to hospital accommodation and services and community health services.
+
+Article 4 increases the number of non-executive directors, in addition to the chairman, that the trust must have from 5 to 6.
+
+A full impact assessment has not been produced for this instrument as no, or no significant, impact on the private, voluntary or public sector is foreseen.
+
+## Annotations
+
+[^f00001]: Footnote: [2006 c. 41](https://www.legislation.gov.uk/ukpga/2006/41).
+
+[^f00002]: Footnote: [S.I. 2010/743](https://www.legislation.gov.uk/uksi/2010/743), to which there are amendments not relevant to this Order. The prescribed consultation under regulation 2(2) of [S.I. 2010/743](https://www.legislation.gov.uk/uksi/2010/743) is that, before making an order under section 25(1) of the National Health Service Act 2006 in relation to an NHS trust, the Secretary of State must consult that NHS trust.
+
+[^f00003]: Footnote: [S.I. 1993/2561](https://www.legislation.gov.uk/uksi/1993/2561) as amended by [S.I. 2011/1183](https://www.legislation.gov.uk/uksi/2011/1183).

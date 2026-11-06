@@ -1,0 +1,116 @@
+---
+title: The Parole Board (Amendment) Rules 2023
+id: uksi/2023/397
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2023-03-30'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2023/397
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2023/397/pdfs/uksiem_20230397_en.pdf
+- http://www.legislation.gov.uk/uksi/2023/397/pdfs/uksi_20230397_en.pdf
+- http://www.legislation.gov.uk/uksi/2023/397/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Parole Board (Amendment) Rules 2023
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2023 No. 397
+
+Prisons, England And Wales
+
+The Parole Board (Amendment) Rules 2023
+
+Made
+
+at 1.20 p.m. on 30th March 2023
+
+Laid before Parliament
+
+at 4.00 p.m. on 30th March 2023
+
+Coming into force
+
+3rd April 2023
+
+The Secretary of State, in exercise of the powers conferred by section 239(5) of the Criminal Justice Act 2003[^f00001], makes the following Rules:
+
+## 1. Citation, commencement and extent
+
+(1) These Rules may be cited as the Parole Board (Amendment) Rules 2023.
+
+(2) These Rules come into force on 3rd April 2023.
+
+(3) These Rules extend to England and Wales.
+
+## 2. Amendments to the Parole Board Rules 2019
+
+(1) The Parole Board Rules 2019[^f00002] are amended as follows.
+
+(2) In rule 24 (oral hearing procedure), for paragraph (1), substitute “(1) At the beginning of the oral hearing the panel chair must explain the order of proceedings which the panel plans to adopt”.
+
+(3) In the Schedule, after Part A insert—
+
+> Part A1
+>
+> Secretary of State view on suitability for release
+>
+> **1.** Reports relating to the prisoner should present all relevant information and a factual assessment pertaining to risk, as set out in the paragraphs of Part B of this Schedule. Report writers’ may include in the report their professional opinion on whether the prisoner is safe to be managed in the community, or moved to open prison conditions, provided that they feel able to give such an opinion. Any such opinion should be made by reference to their particular area of competence, as well as to their specific interactions with the prisoner.
+>
+> **2.** Where considered appropriate, the Secretary of State, as a party to the proceedings, will present an overarching view on the prisoner’s suitability for release in accordance with the statutory release test.
+
+.
+
+(4) In Part B of the Schedule—
+
+- (a) omit paragraph 1Z;
+- (b) for paragraph 4, substitute—
+
+  > **4.** Current reports on the prisoner’s risk factors, reduction in risk and performance and behaviour in prison
+
+  ;
+- (c) for paragraph 5, substitute—
+
+  > **5.** A current risk management report prepared for the Board by an officer of the National Probation Service, including information on the following where relevant—
+  >
+  > - (a) details of the prisoner’s address, family circumstances and family attitudes towards the prisoner;
+  > - (b) alternative options if the offender cannot return home;
+  > - (c) the opportunity for employment on release;
+  > - (d) the local community’s attitude towards the prisoner (if known);
+  > - (e) the prisoner’s attitude towards the offence for which the offender received the sentence that is being considered by the Board;
+  > - (f) the prisoner’s response to previous periods of supervision;
+  > - (g) the prisoner’s behaviour during any temporary leave during the current sentence;
+  > - (h) the prisoner’s attitude to the prospect of release and the requirements and objectives of supervision, including likely compliance;
+  > - (i) an assessment of the risk of reoffending;
+  > - (j) a programme of supervision;
+  > - (k) analysis of the impact of the offence on the victims, for which the offender received the sentence which is being considered by the Board;
+  > - (l) recommendations regarding any licence conditions.
+
+Dominic Raab
+
+Lord Chancellor
+
+Ministry of Justice
+
+At 1.20 p.m. on 30th March 2023
+
+EXPLANATORY NOTE
+
+(This note is not part of the Rules)
+
+These Rules make amendments to the Parole Board Rules 2019 ([S.I. 2019/1038](https://www.legislation.gov.uk/uksi/2019/1038)) to take account of a court judgment. They amend provisions in respect of the requirement for report writers to give a recommendation as to release in rules 24(1) and paragraphs 4 and 5 of Part B of the Schedule by replacing the current paragraphs in full. The Rules also, in new Part A1, make provision as to report writers professional opinions that can be included in a dossier and provides for an overarching Secretary of State view.
+
+A full impact assessment has not been produced for this instrument as no, or no significant, impact on the private, voluntary or public sectors is foreseen.
+
+## Annotations
+
+[^f00001]: Footnote: [2003 c. 44](https://www.legislation.gov.uk/ukpga/2003/44).
+
+[^f00002]: Footnote: [S.I. 2019/1038](https://www.legislation.gov.uk/uksi/2019/1038) amended by [S.I. 2022/717](https://www.legislation.gov.uk/uksi/2022/717) ***.***

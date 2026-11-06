@@ -1,0 +1,275 @@
+---
+title: The Local Authorities (Elected Mayors)(Elections, Terms of Office and Casual Vacancies)(England) Regulations 2012
+id: uksi/2012/336
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2012-02-08'
+text_date: '2025-07-16'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2012/336
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2012/336/pdfs/uksiem_20120336_en.pdf
+- http://www.legislation.gov.uk/uksi/2012/336/pdfs/uksi_20120336_en.pdf
+- http://www.legislation.gov.uk/uksi/2012/336/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Local Authorities (Elected Mayors)(Elections, Terms of Office and Casual Vacancies)(England) Regulations 2012
+
+> Text as at 2025-07-16.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2012 No. 336
+
+Local Government, England
+
+The Local Authorities (Elected Mayors)(Elections, Terms of Office and Casual Vacancies)(England) Regulations 2012
+
+Made
+
+8th February 2012
+
+Laid before Parliament
+
+15th February 2012
+
+Coming into force
+
+9th March 2012
+
+The Secretary of State makes the following Regulations in exercise of the powers conferred by sections 9HB and 105 of the Local Government Act 2000 [^c21175321].
+
+## 1. Citation and commencement
+
+These Regulations may be cited as the Local Authorities (Elected Mayors)(Elections, Terms of Office and Casual Vacancies)(England) Regulations 2012 and shall come into force on 9th March 2012.
+
+## 2. Interpretation
+
+(1) In these Regulations—
+
+- “**the 2000 Act**” means the Local Government Act 2000;
+- “election”, except in regulation 9, does not include an election to fill a casual vacancy;
+- “**first election**” means the first election for the return of an elected mayor following (as the case may be)—
+  - (a) a referendum in which proposals for a mayor and cabinet executive are approved; or
+  - (b) a mayoral resolution;
+- “**further referendum**” means a referendum held in pursuance of the order of an election court under paragraph (5) of regulation 17 (determination of referendum petitions) of the Referendums Regulations;
+- “**mayoral resolution**” means a resolution of a local authority under section 9KC(1) to change to a mayor and cabinet executive without holding a referendum;
+- “**the ordinary day of election**”, in relation to any year, means the day in that year on which, in accordance with section 37 of the Representation of the People Act 1983 [^c21175331], councillors are elected for local government areas;
+- “the[^key-3a2fd385a27751ddf52de64746179bf8] Petitions Regulations” means the Local Authorities (Referendums) (Petitions) (England) Regulations 2011;
+- “petition organiser” has the same meaning as in regulation 3 of the Petitions Regulations;
+- “**referendum**” means a referendum held under section 9M (cases in which change is subject to approval in a referendum etc), or by virtue of regulations or an order made under any provision of Part 1A of the 2000 Act, other than a further referendum;
+- “**referendum petition**” has the same meaning as in regulation 15 of the Referendums Regulations;
+- “**the Referendums Regulations**” means the Local Authorities (Conduct of Referendums) (England) Regulations 2012 [^c21175341];
+- “**relevant day**” means—
+  - (a) the first Thursday in May; or
+  - (b) the third Thursday in October;
+- “**returning officer**” has the same meaning as in the Local Authorities (Mayoral Elections)(England and Wales) Regulations 2007 [^c21175351];
+- “**second election**” means an election for the return of an elected mayor as successor to an elected mayor who was elected at the first election.
+
+(2) Any reference in the following provisions of these Regulations to a section followed by a number is, unless the context otherwise requires, a reference to the section of the 2000 Act that bears that number.
+
+## 3. First election of mayor
+
+(1) Subject to paragraphs (1A) and (3A)[^key-21cad28f290c6656e01228cdc4987f9e] and regulation 5, if a local authority so resolves the first election shall take place on the first relevant day after (as the case may be) the date of the referendum or the date the mayoral resolution /was passed.[^key-5b573a6f7bb9da78d7217dcb788bb132]
+
+(1A) Subject to paragraph (3A), where[^key-32f8541e193efe96917400a5600ab73d] the following conditions are satisfied, the first election shall take place on the first ordinary day of election after the end of the period of 3 months beginning with the date of the referendum under Part 2 of the Petitions Regulations—
+
+- (a) the petition organiser made a request in writing, at the time a valid petition was presented to the local authority in accordance with regulation 9 of the Petitions Regulations, for the first election to take place on the first ordinary day of election aftee end of the period of 3 months beginning with the date of the referendum under Part 2 of the Petitions Regulations, and
+- (b) the local authority resolves, prior to the publication of the notice under regulation 4(1) of the Referendum Regulations, that if the proposals are approved the first election shall take place on the first ordinary day of election after the period of 3 months beginning with the date of the referendum under Part 2 of the Petitions Regulations.
+
+(2) Subject to regulation 5, where the date of the referendum or the date the mayoral resolution was passed is before 15th November 2012, the local authority may resolve that the first election shall take place on 15th November 2012.
+
+(3)[^M_C_c2ae4403-0e9a-478e-b99f-b11140a25a61] Subject to paragraph (3A), if[^key-95e75dbfac24b4f410fda555278dfe94] no resolution is passed by the local authority under either paragraph (1) , (1A)[^key-64b1cd90cc0715132f91173073d431ec] or (2) the first election shall take place on the first relevant day after (as the case may be) the end of the period of three months beginning with the date of the referendum or the date the mayoral resolution was passed.
+
+(3A)[^key-4246aa91b0a458d9a3fe7fae89096208] If the date of the referendum or the date the mayoral resolution was passed falls within the period beginning with 16th July 2025 and ending with the day before the ordinary day of election in 2026, the first election shall take place on the second ordinary day of election after (as the case may be) the date of the referendum or the date the mayoral resolution was passed.
+
+(4) Paragraphs (1), (1A),[^key-8fce84663cf5dd8f8d556bcfb183713c] (2) and (3) apply with the modifications specified in paragraph (5) if—
+
+- (a) an election court—
+  - (i) dismisses a referendum petition [^c21175361]; or
+  - (ii) in accordance with section 145(1A)(b) of the Representation of the People Act 1983 [^c21175371], reverses the result of a referendum; or
+- (b) the High Court declines to grant leave for the presentation of a referendum petition on the ground mentioned in paragraph (1)(d) of regulation 15 (procedures for questioning referendum) of the Referendums Regulations.
+
+(5) In—
+
+- (a) each of paragraphs (1) and (3) for the words from “the date” to the end substitute the words “ the date of the decision of the election court or the High Court ”; [^key-b9ea044acc71bef715da0946fff34f93]...
+- (aa)[^key-2bfbfd7cf84efdecab0e44ce8b5f9ba5] paragraph (1A) for the words “the date of the referendum under Part 2 of the Petitions Regulations” the first time they occur substitute the words “the date of the decision of the election court or the High Court”; and
+- (b) paragraph (2) for the words from “the date” to “was passed” substitute the words “ the date of the decision of the election court or the High Court ”.
+
+## 4. Second election of mayor
+
+(1) Subject to regulation 6, the second election shall take place on the ordinary day of election in a year in which ordinary elections of councillors of the local authority are held, as may be specified in or determined under the local authority's executive arrangements.
+
+(2) The second election may not take place before the end of the period of 23 months beginning with the date on which the first election took place.
+
+(3) The second election must take place no later than 67 months beginning with the date on which the first election took place.
+
+## 5. First election of mayor in section 9N order authorities
+
+(1) Subject to the other paragraphs of this regulation, where a referendum held by virtue of an order under section 9N (requiring referendum on change to mayor and cabinet executive) made before 1st April 2012 approves the change to a mayor and cabinet executive, the first election for the return of an elected mayor in such an authority shall take place on 15th November 2012.
+
+(2) Paragraphs (3) and (4) apply where—
+
+- (a) an election court—
+  - (i) dismisses a referendum petition [^c21175381]; or
+  - (ii) in accordance with section 145(1A)(b) of the Representation of the People Act 1983 [^c21175391], reverses the result of a referendum; or
+- (b) the High Court declines to grant leave for the presentation of a referendum petition on the ground mentioned in paragraph (1)(d) of regulation 15 (procedures for questioning referendum) of the Referendums Regulations.
+
+(3) If a local authority so resolves, the first election shall take place on the first relevant day after (as the case may be) the date of the decision of the election court or the High Court.
+
+(4) If no resolution is passed by the local authority, the first election shall take place on the first relevant day after (as the case may be) the end of the period of three months beginning with the date of the decision of the election court or the High Court.
+
+## 6. Second election of mayor in section 9N order authorities
+
+Where the change to a mayor and cabinet executive was approved by a referendum held by virtue of an order under section 9N made before 1st April 2012, the second election for the return of an elected mayor in such an authority shall take place on the ordinary day of election in May 2016.
+
+## 7. Elections after the second election
+
+Elections for the return of elected mayors, other than elections under regulations 3, 4, 5 , 6 or 7A[^key-45bc270bcab6f2d10e49895bd6ec7685] shall take place on the ordinary day of elections in every fourth year commencing with the fourth year after that in which the second election takes place.
+
+## 7A. Elections for the mayor of the City of Liverpool[^key-1075e62d8f2c7c797edf3c1ad9785b6a]
+
+(1) The election for the return of the mayor of the City of Liverpool that would otherwise be held on the ordinary day of election in 2024 is to be held instead on the ordinary day of election in 2023; and the mayor’s term of office is reduced accordingly.
+
+(2) The subsequent elections for the return of the mayor are to be held on the ordinary day of election in 2027 and every fourth year after 2027.
+
+## 8. Term of office of elected mayor
+
+(1) An individual elected as elected mayor shall come into office on the fourth day after the election at which he or she was elected and, unless he or she resigns or otherwise ceases to hold office, shall hold office (subject to paragraphs (2) and (3)) until his or her successor comes into office.
+
+(2) Where a local authority which operates a mayor and cabinet executive passes a resolution to make a change in governance arrangements of the kind set out in section 9K or 9KA, the elected mayor under the existing arrangements shall continue to hold office until the fourth day after the date on which, but for the resolution, a second or subsequent election would have been held in accordance with (as the case may be) regulation 4, 6 , 7 or 7A[^key-622e4bd174e8e1155dcde7f060069092] or section 9H(6).
+
+(3) Where the result of a further referendum is to reject the continuation of the existing mayor and cabinet executive, the incumbent elected mayor shall continue to hold office until the local authority concerned implements the operation of the governance arrangements it operated at the time of the tainted referendum.
+
+(4) In paragraph (3) “**tainted referendum**” means a referendum which an election court has declared tainted under regulation 17(5) of the Referendums Regulations.
+
+## 9. Filling of casual vacancies
+
+(1)[^key-278ac0dc7dcf452e2981f9ac77acc6f4] Subject to paragraph (2), on a casual vacancy occurring in the office of an elected mayor, an election to fill the vacancy shall be held—
+
+- (a) in a case in which the High Court or the local authority has declared the office to be vacant, within 35 days (computed in accordance with paragraph (3)) from the date of the declaration;
+- (b) in any other case, within 35 days (computed in accordance with paragraph (3)) after notice in writing of the vacancy has been given to the proper officer of the authority by two local government electors for the area.
+
+(2) A casual vacancy in the office of elected mayor—
+
+- (a) shall not be filled if the authority has passed a resolution to make a change in governance arrangements of the kind set out in section 9K or 9KA;
+- (b) if it occurs within six months before the day on which the elected mayor would have retired, shall be filled at the election on the day determined (as the case may be) by reference to regulation 4, 6 , 7 or 7A[^key-f7e97f9376b3fbdaa7ff71037e37b89c] or by section 9H(6).
+
+(3) The day of election under paragraph (1) shall be fixed by the returning officer; and in computing a period for the purposes of that paragraph, the following shall be disregarded—
+
+- (a) a Saturday or Sunday;
+- (b) Christmas Eve, Christmas Day, Good Friday or a day which is a bank holiday under the Banking and Financial Dealings Act 1971 [^c21175401] in England; and
+- (c) any day appointed as a day of public thanksgiving or mourning.
+
+(4) Where, between the giving of notice of the poll and the completion of the poll, a day is declared to be a bank holiday or a day of public thanksgiving or mourning, paragraph (3) shall not operate to invalidate any act which would have been valid apart from that paragraph.
+
+## 10. Filling of casual vacancies: supplementary
+
+(1) For the purposes of filling a casual vacancy in the office of elected mayor, the date on which the vacancy is to be taken to have occurred shall be—
+
+- (a) in the case of non-acceptance of office, the date of the expiration of the period appointed under section 83 (declaration of acceptance of office) of the Local Government Act 1972 [^c21175411] for the delivery of the declaration;
+- (b) in the case of resignation, the date of the receipt of the notice of resignation by the person to whom the notice is required to be delivered;
+- (c) in the case of death, the date of death;
+- (ca)[^key-2449360f5cb76aedcf2c81174fe4b7b6] in the case of disqualification by virtue of an order under section 30 of the Elections Act 2022 (disqualification orders), on the date the office is vacated in accordance with section 31 of that Act (vacation of office etc);
+- (d) in the case of his or her election being declared void on the determination of an election petition, the date of the report or certificate of the election court;
+- (e) in the case of the elected mayor's ceasing to be qualified to be a member of a local authority, or becoming disqualified for any reason other than one mentioned in sub-paragraphs (a) to (d), or ceasing to be a member of a local authority by reason of failure to attend meetings, the date on which the elected mayor's office is declared to have been vacated by (as the case may be) the High Court or the local authority.
+
+(2) Public notice of a casual vacancy in the office of elected mayor shall be given by the local authority in which the office exists; and the steps to be taken to give public notice in accordance with section 232 (public notices) of the Local Government Act 1972 [^c21175421] shall be taken—
+
+- (a) in a case where the local authority declares the office to be vacant, immediately after the declaration;
+- (b) in any other case, as soon as practicable after the date on which, by virtue of paragraph (1) of this regulation, the vacancy is treated as occurring.
+
+## 11. Term of office of persons filling casual vacancies
+
+A person elected to fill a casual vacancy in the office of elected mayor shall hold office until the date on which the person in whose place he or she is elected would have ceased to hold office (in accordance with regulation 8).
+
+## 12. Transitional provision
+
+Where a local authority has, before the date on which these Regulations come into force, passed a mayoral resolution, that resolution is to have effect for the purpose of determining the date of the first election under regulation 3.
+
+## 13. Revocation
+
+The Local Authorities (Elected Mayors)(Elections, Terms of Office and Casual Vacancies) (England) Regulations 2001 [^c21175431] are revoked.
+
+Signed by authority of the Secretary of State for Communities and Local Government
+
+Greg Clark
+
+Minister of State
+
+Department for Communities and Local Government
+
+*(This note is not part of the Regulations)*
+
+Under the Local Government Act 2000 (“**the 2000 Act**”) a local authority may, or may be required to, hold a referendum on the question of whether it should adopt a mayor and cabinet executive. Where the result of such a referendum is to approve proposals for such arrangements, an election for the return of an elected mayor is required. A local authority may also, if not required to hold a referendum under section 9M or an order made under section 9N resolve, without holding a referendum, to adopt a mayor and cabinet executive.
+
+These Regulations provide for the timing of the first, second and subsequent elections for the return of elected mayors of local authorities (regulations 3, 4 and 7). Different provision is made for the first and second elections of authorities which are subject to an order under section 9N of the 2000 Act made before 1st April 2012 (regulations 5 and 6). The Regulations also provide for the term of office of the individuals elected, for the intervals between subsequent mayoral elections and for the filling of casual vacancies (regulations 8 to 11). They make transitional provision where a local authority has passed a mayoral resolution before the coming into force of these Regulations (regulation 12) and revoke the Local Authorities (Elected Mayors)(Elections, Terms of Office and Casual Vacancies)(England) Regulations 2001 (S.I. 2001/2544) (regulation 13).
+
+A full impact assessment has not been produced for this instrument as no impact on the private or voluntary sectors is foreseen.
+
+## Annotations
+
+[^c21175321]: Marginal citation: [2000 c.22](https://www.legislation.gov.uk/ukpga/2000/22). Section 9HB was inserted into the Local Government Act 2000 by section 21 of, and Schedule 2 to, the [Localism Act 2011 (c.20)](https://www.legislation.gov.uk/ukpga/2011/20).
+
+[^c21175331]: Marginal citation: [1983 c.2](https://www.legislation.gov.uk/ukpga/1983/2). Section 37 was amended by section 18(2) of the [Representation of the People Act 1985 (c.50)](https://www.legislation.gov.uk/ukpga/1985/50) and section 17 of, and paragraphs 1 and 5 of Schedule 3 to, the [Greater London Authority Act 1999 (c.29)](https://www.legislation.gov.uk/ukpga/1999/29).
+
+[^key-3a2fd385a27751ddf52de64746179bf8]: Textual amendment: Words in reg. 2(1) inserted (5.9.2014) by [The Local Authorities (Elected Mayors) (Elections, Terms of Office and Casual Vacancies) (England) (Amendment) Regulations 2014 (S.I. 2014/2172)](https://www.legislation.gov.uk/uksi/2014/2172), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2172/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2014/2172/regulation/2/2)
+
+[^c21175341]: Marginal citation: [S.I. 2012/323](https://www.legislation.gov.uk/uksi/2012/323).
+
+[^c21175351]: Marginal citation: [S.I. 2007/1024](https://www.legislation.gov.uk/uksi/2007/1024).
+
+[^key-21cad28f290c6656e01228cdc4987f9e]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2012/336/regulation/3/1) substituted (16.7.2025) by [The Local Authorities (Referendums and Election of Mayors) (England) (Amendment) Regulations 2025 (S.I. 2025/746)](https://www.legislation.gov.uk/uksi/2025/746), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/746/regulation/1/2), [3(a)](https://www.legislation.gov.uk/uksi/2025/746/regulation/3/a)
+
+[^key-5b573a6f7bb9da78d7217dcb788bb132]: Textual amendment: Reg. 3(1A) inserted (5.9.2014) by [The Local Authorities (Elected Mayors) (Elections, Terms of Office and Casual Vacancies) (England) (Amendment) Regulations 2014 (S.I. 2014/2172)](https://www.legislation.gov.uk/uksi/2014/2172), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2172/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2014/2172/regulation/2/3/b)
+
+[^key-32f8541e193efe96917400a5600ab73d]: Textual amendment: Words in [reg. 3(1A)](https://www.legislation.gov.uk/uksi/2012/336/regulation/3/1A) substituted (16.7.2025) by [The Local Authorities (Referendums and Election of Mayors) (England) (Amendment) Regulations 2025 (S.I. 2025/746)](https://www.legislation.gov.uk/uksi/2025/746), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/746/regulation/1/2), [3(b)](https://www.legislation.gov.uk/uksi/2025/746/regulation/3/b)
+
+[^M_C_c2ae4403-0e9a-478e-b99f-b11140a25a61]: Modification: Reg. 3(3) excluded (5.9.2014) by [The Local Authorities (Elected Mayors) (Elections, Terms of Office and Casual Vacancies) (England) (Amendment) Regulations 2014 (S.I. 2014/2172)](https://www.legislation.gov.uk/uksi/2014/2172), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2172/regulation/1), [3(b)](https://www.legislation.gov.uk/uksi/2014/2172/regulation/3)
+
+[^key-95e75dbfac24b4f410fda555278dfe94]: Textual amendment: Words in [reg. 3(3)](https://www.legislation.gov.uk/uksi/2012/336/regulation/3/3) substituted (16.7.2025) by [The Local Authorities (Referendums and Election of Mayors) (England) (Amendment) Regulations 2025 (S.I. 2025/746)](https://www.legislation.gov.uk/uksi/2025/746), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/746/regulation/1/2), [3(c)](https://www.legislation.gov.uk/uksi/2025/746/regulation/3/c)
+
+[^key-64b1cd90cc0715132f91173073d431ec]: Textual amendment: Word in reg. 3(3) inserted (5.9.2014) by [The Local Authorities (Elected Mayors) (Elections, Terms of Office and Casual Vacancies) (England) (Amendment) Regulations 2014 (S.I. 2014/2172)](https://www.legislation.gov.uk/uksi/2014/2172), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2172/regulation/1), [2(3)(c)](https://www.legislation.gov.uk/uksi/2014/2172/regulation/2/3/c)
+
+[^key-4246aa91b0a458d9a3fe7fae89096208]: Textual amendment: [Reg. 3(3A)](https://www.legislation.gov.uk/uksi/2012/336/regulation/3/3A) inserted (16.7.2025) by [The Local Authorities (Referendums and Election of Mayors) (England) (Amendment) Regulations 2025 (S.I. 2025/746)](https://www.legislation.gov.uk/uksi/2025/746), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/746/regulation/1/2), [3(d)](https://www.legislation.gov.uk/uksi/2025/746/regulation/3/d)
+
+[^key-8fce84663cf5dd8f8d556bcfb183713c]: Textual amendment: Word in reg. 3(4) inserted (5.9.2014) by [The Local Authorities (Elected Mayors) (Elections, Terms of Office and Casual Vacancies) (England) (Amendment) Regulations 2014 (S.I. 2014/2172)](https://www.legislation.gov.uk/uksi/2014/2172), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2172/regulation/1), [2(3)(d)](https://www.legislation.gov.uk/uksi/2014/2172/regulation/2/3/d)
+
+[^c21175361]: Marginal citation: *See* regulation 17 of the Referendums Regulations.
+
+[^c21175371]: Marginal citation: *See* regulation 15 of, and in particular Schedule 6 to, the Referendums Regulations. Schedule 6 to the Referendums Regulations applies existing section 145 of the Representation of the People Act 1983 with modifications relevant to referendum petitions.
+
+[^key-b9ea044acc71bef715da0946fff34f93]: Textual amendment: Word in reg. 3(5)(a) omitted (5.9.2014) by virtue of [The Local Authorities (Elected Mayors) (Elections, Terms of Office and Casual Vacancies) (England) (Amendment) Regulations 2014 (S.I. 2014/2172)](https://www.legislation.gov.uk/uksi/2014/2172), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2172/regulation/1), [2(3)(e)](https://www.legislation.gov.uk/uksi/2014/2172/regulation/2/3/e)
+
+[^key-2bfbfd7cf84efdecab0e44ce8b5f9ba5]: Textual amendment: Reg. 3(5)(aa) inserted (5.9.2014) by [The Local Authorities (Elected Mayors) (Elections, Terms of Office and Casual Vacancies) (England) (Amendment) Regulations 2014 (S.I. 2014/2172)](https://www.legislation.gov.uk/uksi/2014/2172), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2172/regulation/1), [2(3)(e)](https://www.legislation.gov.uk/uksi/2014/2172/regulation/2/3/e)
+
+[^c21175381]: Marginal citation: *See* [regulation 17](https://www.legislation.gov.uk/uksi/2012/336/regulation/17) of the Referendum Regulations.
+
+[^c21175391]: Marginal citation: *See* regulation 15, and Schedule 6 to the Referendum Regulations.
+
+[^key-45bc270bcab6f2d10e49895bd6ec7685]: Textual amendment: Words in [reg. 7](https://www.legislation.gov.uk/uksi/2012/336/regulation/7) substituted (29.10.2021) by [The City of Liverpool (Scheme of Elections and Elections of Elected Mayor) Order 2021 (S.I. 2021/1089)](https://www.legislation.gov.uk/uksi/2021/1089), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/1089/article/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2021/1089/article/4/2)
+
+[^key-1075e62d8f2c7c797edf3c1ad9785b6a]: Textual amendment: [Reg. 7A](https://www.legislation.gov.uk/uksi/2012/336/regulation/7A) inserted (29.10.2021) by [The City of Liverpool (Scheme of Elections and Elections of Elected Mayor) Order 2021 (S.I. 2021/1089)](https://www.legislation.gov.uk/uksi/2021/1089), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/1089/article/1/1), [4(3)](https://www.legislation.gov.uk/uksi/2021/1089/article/4/3)
+
+[^key-622e4bd174e8e1155dcde7f060069092]: Textual amendment: Words in [reg. 8(2)](https://www.legislation.gov.uk/uksi/2012/336/regulation/8/2) substituted (29.10.2021) by [The City of Liverpool (Scheme of Elections and Elections of Elected Mayor) Order 2021 (S.I. 2021/1089)](https://www.legislation.gov.uk/uksi/2021/1089), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/1089/article/1/1), [4(4)](https://www.legislation.gov.uk/uksi/2021/1089/article/4/4)
+
+[^key-278ac0dc7dcf452e2981f9ac77acc6f4]: Modification: Reg. 9(1) modified (E.) (7.4.2020) by [The Local Government and Police and Crime Commissioner (Coronavirus) (Postponement of Elections and Referendums) (England and Wales) Regulations 2020 (S.I. 2020/395)](https://www.legislation.gov.uk/uksi/2020/395), [regs. 1](https://www.legislation.gov.uk/uksi/2020/395/regulation/1), [7](https://www.legislation.gov.uk/uksi/2020/395/regulation/7)
+
+[^key-f7e97f9376b3fbdaa7ff71037e37b89c]: Textual amendment: Words in [reg. 9(2)(b)](https://www.legislation.gov.uk/uksi/2012/336/regulation/9/2/b) substituted (29.10.2021) by [The City of Liverpool (Scheme of Elections and Elections of Elected Mayor) Order 2021 (S.I. 2021/1089)](https://www.legislation.gov.uk/uksi/2021/1089), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/1089/article/1/1), [4(5)](https://www.legislation.gov.uk/uksi/2021/1089/article/4/5)
+
+[^c21175401]: Marginal citation: [1971 c. 80](https://www.legislation.gov.uk/ukpga/1971/80), see [section 1](https://www.legislation.gov.uk/ukpga/1971/80/section/1) and Schedule 1.
+
+[^c21175411]: Marginal citation: [1972 c.22](https://www.legislation.gov.uk/ukpga/1972/22). Section 83 was amended by section 30 of the [Local Government and Housing Act 1989 (c.42)](https://www.legislation.gov.uk/ukpga/1989/42); [section 46](https://www.legislation.gov.uk/uksi/2012/336/section/46) of, and Schedule 15 to, the 2000 Act; [section 59](https://www.legislation.gov.uk/uksi/2012/336/section/59) of, and Schedule 11 to, the [Constitutional Reform Act 2005 (c.4)](https://www.legislation.gov.uk/ukpga/2005/4). There are other amendments which are not relevant.
+
+[^key-2449360f5cb76aedcf2c81174fe4b7b6]: Textual amendment: [Reg. 10(1)(ca)](https://www.legislation.gov.uk/uksi/2012/336/regulation/10/1/ca) inserted (1.11.2023) by [The Local Government and Greater London Authority Elections (Miscellaneous Amendments) Regulations 2023 (S.I. 2023/1066)](https://www.legislation.gov.uk/uksi/2023/1066), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/1066/regulation/1/3), [6](https://www.legislation.gov.uk/uksi/2023/1066/regulation/6)
+
+[^c21175421]: Marginal citation: [Section 232](https://www.legislation.gov.uk/uksi/2012/336/section/232) has been amended, but the amendments are not relevant.
+
+[^c21175431]: Marginal citation: [S.I. 2001/2544](https://www.legislation.gov.uk/uksi/2001/2544).

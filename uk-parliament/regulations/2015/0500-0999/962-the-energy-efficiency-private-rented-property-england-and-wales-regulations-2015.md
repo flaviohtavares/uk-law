@@ -1,0 +1,1333 @@
+---
+title: The Energy Efficiency (Private Rented Property) (England and Wales) Regulations 2015
+id: uksi/2015/962
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2015-03-26'
+text_date: '2026-05-01'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2015/962
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2015/962/pdfs/uksiem_20150962_en.pdf
+- http://www.legislation.gov.uk/uksi/2015/962/pdfs/uksi_20150962_en.pdf
+- http://www.legislation.gov.uk/uksi/2015/962/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Energy Efficiency (Private Rented Property) (England and Wales) Regulations 2015
+
+> Text as at 2026-05-01.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2015 No. 962
+
+Energy Conservation, England And Wales
+
+The Energy Efficiency (Private Rented Property) (England and Wales) Regulations 2015
+
+Made
+
+26th March 2015
+
+Coming into force in accordance with regulation 1(2)
+
+The Secretary of State for Energy and Climate Change makes the following Regulations in exercise of the powers conferred by sections 43(1) and (4), 44, 45(1), (2), (4), (5)(a) and (b) and (d) to (f), and (6)(a) to (c), 46(1) and (4), 47, 48(1), (2), (3)(a), (b) and (d), 49(1) and (4), 50, 51(1) to (3), (4)(a) and (b) and (d) to (f), (5)(a) to (c), and 52(1) of the Energy Act 2011[^f00001].
+
+In accordance with section 52(7)[^f00002] of the Energy Act 2011 the Secretary of State has consulted with the Welsh Ministers.
+
+In accordance with section 52(4)(b) of the Energy Act 2011 a draft of this instrument has been laid before Parliament and approved by a resolution of each House of Parliament.
+
+## PART 1 — Introduction
+
+### 1. Citation and commencement[^key-1c67f0563b7b955aa5fc3b19cc051343]
+
+(1) These Regulations may be cited as the Energy Efficiency (Private Rented Property) (England and Wales) Regulations 2015.
+
+(2) This Part and Part 2 come into force on 1st April 2016 [^key-c405523fa82634a1cac6e8bd4ebc1ca8]....
+
+(3)[^key-b4f060bb438f809074572a25e640639c] Part 3 comes into force—
+
+- (a) on 1st April 2017 in relation to non-domestic PR property,
+- (b) on 1st October 2017 in relation to domestic PR property.
+
+### 2. General interpretation[^key-b96b0a17cfafb1858227ac0dcdd42d46]
+
+(1) In these Regulations—
+
+- “the Act” means the Energy Act 2011;
+- “approved methodology” means the methodology of calculation of the energy performance of buildings, approved by the Secretary of State in accordance with regulation 24(1) of the Building Regulations 2010[^f00003];
+- “building” means a roofed construction having walls, for which energy is used to condition the indoor climate;
+- “building unit” has the meaning given in regulation 2(1) of the EPB Regulations;
+- “central government” has the meaning given in regulation 2 of the Energy Efficiency (Eligible Buildings) Regulations 2013, with the modification that the Scottish Ministers and the Northern Ireland departments are not competent authorities[^f00004];
+- “compliance notice” means a notice which complies with regulation 37;
+- “counter proposal” means a notice which complies with regulation 13;
+- “domestic PR property”—
+  - (a) has the meaning given in regulation 5 for the purposes of Part 2,
+  - (b) has the meaning given in regulation 19 for the purposes of Part 3;
+- “energy bill” has the meaning given in regulation 5 of the Framework Regulations;
+- “energy efficiency improvement”, in relation to a property, means—
+  - (a) a measure for improving efficiency in the use of energy in the property, or
+  - (b) where indicated, a measure installed for the purposes of enabling the supply of gas through a service pipe to the property in any case where the property—
+    - (i) is not fuelled by mains gas, and
+    - (ii) is situated within 23 metres from a relevant main of a gas transporter;
+- “energy performance indicator” has the meaning given in regulation 11 of the EPB Regulations;
+- “enforcement authority” has the meaning given in regulation 34(1);
+- “the EPB Regulations” means the Energy Performance of Buildings (England and Wales) Regulations 2012[^f00005];
+- “the Framework Regulations” means the Green Deal Framework (Disclosure, Acknowledgment, Redress etc.) Regulations 2012[^f00006];
+- “gas” has the meaning given in section 90(1) of the Act;
+- “gas transporter” has the meaning given in section 7(1) of the Gas Act 1986[^f00007];
+- “green deal installer” means a person authorised to act as a green deal installer in accordance with regulation 8 of the Framework Regulations;
+- “green deal report” means a report produced pursuant to a qualifying assessment;
+- “improvement notice” means a notice served under section 11 or section 12 of the Housing Act 2004[^f00008] where—
+  - (a) the time for compliance with the notice has not expired, or
+  - (b) the notice has been appealed, and the appeal has not been determined;
+- “independent”, in relation to a person, means—
+  - (a) where a landlord or a superior landlord is an individual, a person who is not a spouse or civil partner of that landlord or that superior landlord (as the case may be), or
+  - (b) where a landlord or a superior landlord is not an individual, a person who is not, and has not been in the last 12 months—
+    - (i) a director, partner, shareholder or employee of, or other person exercising management control over, that landlord or that superior landlord, or
+    - (ii) a spouse or civil partner of a person falling within paragraph (i);
+- “L”, for the purposes of regulation 37 and Chapters 6 and 7 of Part 3, means a person who is a landlord, or a former landlord;
+- “landlord”—
+  - (a) has the meaning given in regulation 7(b) for the purposes of Part 2,
+  - (b) has the meaning given in regulation 21(b) for the purposes of Part 3;
+- “landlord’s full response” has the meaning given in regulation 12(1)(c);
+- “landlord’s initial response” has the meaning given in regulation 12(1)(a);
+- “local authority” means a local authority within the meaning given in section 106 of the Localism Act 2011[^f00009];
+- “mains gas” is a supply of the kind mentioned in section 5(1)(b) of the Gas Act 1986[^f00010];
+- “market value” has the meaning given in section 272(1) of the Taxation of Chargeable Gains Act 1992;
+- “minimum level of energy efficiency” has the meaning given in regulation 22(b);
+- “non-domestic PR property” has the meaning given in regulation 20;
+- “penalty notice” means a notice which complies with regulation 38;
+- “property” means a building or a building unit;
+- “PRS Exemptions Register” means the system established and maintained in accordance with regulation 36(1);
+- “publication penalty” has the meaning given in regulation 39(1);
+- “qualifying assessment” has the meaning given in section 3(9) of the Act;
+- “recommendation report” has the meaning given in regulation 4(1) of the EPB Regulations;
+- “relevant energy efficiency improvements”—
+  - (a) has the meaning given in regulation 6 for the purposes of Part 2,
+  - (b) has the meaning given in regulation 24 for the purposes of Part 3 in relation to a domestic PR property,
+  - (c) has the meaning given in regulation 28 for the purposes of Part 3 in relation to a non-domestic PR property;
+- “relevant main” has the meaning given in section 10(12) of the Gas Act 1986[^f00011];
+- “relevant person” means an independent architect, chartered engineer, chartered building surveyor or chartered architectural technologist, who is registered on any of—
+  - (a) the Royal Institution of Chartered Surveyors’ Building Conservation Accreditation register[^f00012],
+  - (b) the Architect Accredited in Building Conservation register[^f00013],
+  - (c) the Institution of Civil Engineers’ and the Institution of Structural Engineers’ Conservation Accreditation Register for Engineers[^f00014], and
+  - (d) the Chartered Institute of Architectural Technologists’ Directory of Accredited Conservationists[^f00015];
+- “responsible person” means—
+  - (a) where the landlord is an individual, that person,
+  - (b) where the landlord is a company within the meaning given in section 1 of the Companies Act 2006[^f00016], a director within the meaning of section 250 of that Act, or
+  - (c) in any other case, a person exercising management control in relation to the landlord;
+- “service pipe” has the meaning given in section 48(1) of the Gas Act 1986[^f00017];
+- “sub-standard” has the meaning given in regulation 22(a);
+- “superior landlord” has the meaning given in regulation 7(c);
+- “superior landlord’s response” has the meaning given in regulation 11(5);
+- “surveyor” means a surveyor who is on the Royal Institution of Chartered Surveyors’ register of valuers[^f00018];
+- “tenant”—
+  - (a) has the meaning given in regulation 7(a) for the purposes of Part 2,
+  - (b) has the meaning given in regulation 21(a) for the purposes of Part 3;
+- “tenant’s request” means a notice which complies with regulation 8;
+- “third party consent” means consent, permission or approval which is required before an energy efficiency improvement can be made, including in particular—
+  - (a) the consent of any tenant of the property or, where the property is one of two or more properties comprised in a building, the consent of a tenant or other occupier of any of those properties,
+  - (b) the consent of any person who has a charge over the landlord’s, or a superior landlord’s, interest in the property,
+  - (c) the consent of any superior landlord,
+  - (d) planning permission, approval or consent required under the Town and Country Planning Act 1990[^f00019], and
+  - (e) consent required as a result of the property being listed in accordance with section 1 of the Planning (Listed Buildings and Conservation Areas) Act 1990[^f00020], [^key-07a6c074078278674c040194127df42f]... in a conservation area designated in accordance with section 69 of that Act , listed in accordance with section 76 of the Historic Environment (Wales) Act 2023, or in a conservation area designated in accordance with section 158 of that Act *(Extent: W)*[^key-53c20d415d95dd4b1ccd39d259cd0628];
+- “valid”, in relation to an energy performance certificate, has the meaning given in regulation 22(c);
+- “value added tax” has the meaning given in section 1 of the Value Added Tax Act 1994[^f00021].
+
+(2) For the purposes of these Regulations, a person meets “relevant installer standards” in relation to a relevant energy efficiency improvement where—
+
+- (a) the relevant energy efficiency improvement consists of work of a type described in column 1 of the Table in Schedule 3 to the Building Regulations 2010, and
+- (b) the person is a person who is described in the corresponding entry in column 2 of that Table in respect of that type of work.
+
+(3) Where two or more persons together are the tenant, the landlord, or the superior landlord, then any reference to the tenant, the landlord, or the superior landlord (as the case may be), except—
+
+- (a) in the definitions of “independent” and “responsible person” in paragraph (1), and
+- (b) in paragraph 1(i)(ii) of the Schedule,
+
+is a reference to all the persons who are the tenant, the landlord, or the superior landlord (as the case may be).
+
+(4) Nothing in these Regulations affects any duty to carry out works to a property (including works to repair or to improve) imposed on a tenant, a landlord, or a superior landlord, by the terms of a tenancy agreement or by any other enactment.
+
+### 3. Service of documents[^key-21dd580ffa704822a8605d984160c1a0]
+
+(1) Any notice served under these Regulations must be in writing and may be given by post.
+
+(2) Any such notice may be given—
+
+- (a) in the case of a body corporate, to the secretary or clerk of that body,
+- (b) in the case of a partnership, to any partner or to a person having control or management of the partnership business.
+
+### 4. Duty to review[^key-38af391928996b9cc9b9067a6d1539e7]
+
+(1) At intervals of no more than 5 years, the Secretary of State must—
+
+- (a) carry out a review of the operation and effect of these Regulations,
+- (b) publish the conclusions of the review in a report.
+
+(2) Any report must in particular—
+
+- (a) set out the objectives intended to be achieved by these Regulations,
+- (b) assess the extent to which those objectives are achieved,
+- (c) assess whether those objectives remain appropriate, and
+- (d) where the objectives remain appropriate, assess the extent to which they could be more effectively achieved.
+
+## PART 2 — Tenants’ energy efficiency improvements
+
+### CHAPTER 1 — Interpretation of Part 2
+
+#### 5. Domestic PR property[^key-0caf75d494df2b6102b186d7fe481d54]
+
+(1) For the purposes of this Part, “domestic PR property” means a property which falls within section 42(1)(a) of the Act[^f00022], subject to paragraph (2).
+
+(2) A property is not a domestic PR property if it is, or forms part of, a building—
+
+- (a) which falls within regulation 5(1)(c) of the EPB Regulations, or
+- (b) to which regulations 6 and 7 of those Regulations do not apply, by virtue of regulation 8 of those Regulations.
+
+#### 6. Relevant energy efficiency improvements[^key-8a31dc087df6678def037d297e8bbc2e]
+
+(1) For the purposes of paragraph (a) in the definition of “relevant energy efficiency improvements” in section 46(4) of the Act, a relevant energy efficiency improvement is an energy efficiency improvement which—
+
+- (a) falls within sub-paragraph (a) of the definition of “energy efficiency improvement” in regulation 2(1) and is listed in the Schedule to the Green Deal (Qualifying Energy Improvements) Order 2012[^f00023], or
+- (b) falls within sub-paragraph (b) of the definition of “energy efficiency improvement” in regulation 2(1).
+
+(2) For the purposes of paragraph (b)(iv) in the definition of “relevant energy efficiency improvements” in section 46(4) of the Act, an energy efficiency improvement is a relevant energy efficiency improvement where the cost of the improvement—
+
+- (a) can be wholly financed, at no cost to the landlord, by means of funding provided by central government, a local authority or any other person,
+- (b) can be wholly funded by the tenant making the tenant’s request, or
+- (c) can be wholly financed by a combination of two or more of the financial arrangements in sub-paragraphs (a) and (b), and paragraph (b)(i) and (ii) in the definition of “relevant energy efficiency improvements” in section 46(4) of the Act.
+
+#### 7. Landlord and tenant[^key-dfd5e147d759e3267f7571a5a1bba158]
+
+In this Part—
+
+- (a) subject to regulation 9(1) and (2), “tenant” means—
+  - (i) a person to whom a domestic PR property is let under a tenancy which falls within section 42(1)(a) of the Act,
+  - (ii) any other person with a leasehold interest in a domestic PR property, other than a person who derives title to the domestic PR property from a tenant falling within sub-paragraph (i),
+- (b) “landlord”—
+  - (i) in relation to a tenant falling within paragraph (a)(i), means a person who lets the domestic PR property to that tenant,
+  - (ii) in relation to a tenant falling within paragraph (a)(ii), means a person from whom that tenant directly derives title to the domestic PR property,
+- (c) “superior landlord” means any person from whom a landlord of a domestic PR property derives title to the domestic PR property.
+
+### CHAPTER 2 — Request for consent to the making of relevant energy efficiency improvements to domestic PR property
+
+#### 8. Request for consent to relevant energy efficiency improvements[^key-5c1bd12df67d3a07f27849621f20cc14]
+
+(1) A tenant may serve a notice on the landlord (a “tenant’s request”) requesting the landlord’s consent to the making of one or more relevant energy efficiency improvements to the domestic PR property.
+
+(2) A tenant’s request must—
+
+- (a) specify the relevant energy efficiency improvements for which the landlord’s consent is sought,
+- (b) where it is made by a tenant falling within regulation 7(a)(ii), include written confirmation that any tenant of the property from whom third party consent is required has consented to those relevant energy efficiency improvements being made,
+- (c) where the tenant’s request specifies a relevant energy efficiency improvement which has been recommended in—
+  - (i) a recommendation report,
+  - (ii) a green deal report, or
+  - (iii) a report prepared by a surveyor,
+
+  be accompanied by a copy of the report,
+- (d) be accompanied by—
+  - (i) evidence of any funding secured by the tenant for making the relevant energy efficiency improvements,
+  - (ii) where any relevant energy efficiency improvement is to be provided free of charge pursuant to an obligation imposed by an order made under section 33BC or 33BD of the Gas Act 1986[^f00024] or section 41A or 41B of the Electricity Act 1989[^f00025], evidence to that effect,
+  - (iii) where the tenant proposes to wholly or partly fund the making of any relevant energy efficiency improvement, written confirmation of that,
+- (e) where the making of any relevant energy efficiency improvement is not to be funded through a green deal plan, be accompanied by a copy of a quotation for the cost of making the relevant energy efficiency improvement from a green deal installer, or installer who meets relevant installer standards,
+- (f) where the making of any relevant energy efficiency improvement is to be funded wholly or partly through a green deal plan—
+  - (i) identify the green deal installer, or installer who meets relevant installer standards, who the tenant proposes will make the relevant energy efficiency improvement,
+  - (ii) request that the landlord gives any confirmation which must be obtained from the landlord by virtue of regulation 36 of the Framework Regulations, and
+  - (iii) be accompanied by any confirmation which must be obtained from a person other than the landlord by virtue of regulation 36 of the Framework Regulations, and
+- (g) specify what works, if any, the tenant will undertake to make good the domestic PR property after the relevant energy efficiency improvements are made, and confirm that such works (if any) will be carried out at the tenant’s expense.
+
+(3) Where a landlord lets two or more domestic PR properties in the same building—
+
+- (a) the tenants of two or more of those properties may together serve a tenant’s request on their landlord in relation to the properties let to them, and
+- (b) any reference in these Regulations to a tenant’s request includes a reference to such a tenant’s request.
+
+#### 9. Circumstances in which a request for consent to relevant energy efficiency improvements may not be made[^key-6053a4d245b850d3c0af2de8643faf13]
+
+(1) A tenant falling within regulation 7(a)(i) is not a tenant for the purposes of regulation 8(1)—
+
+- (a) after that tenant has served notice ending the tenancy,
+- (b) within three months before the expiry of a fixed term tenancy, where that tenant has notified the landlord that that tenant intends to vacate the domestic PR property on the expiry of the term,
+- (c) where—
+  - (i) the landlord has served a notice ending the tenancy, including a notice seeking possession served under section 8 [^key-3b8605b9ee89c24a7f200cc2528af971]... of the Housing Act 1988[^f00026] or section 150, section 173, section 186 or section 194 of the Renting Homes (Wales) Act 2016 *(Extent: W)*[^key-41ed612321673111a852cba3ed12d9f0], or a notice to quit, and
+  - (ii) possession proceedings may be brought in reliance on the notice,
+- (d) where the landlord has commenced proceedings against that tenant for possession of the domestic PR property, or for a breach of the tenancy agreement, and—
+  - (i) those proceedings have not been resolved, or
+  - (ii) the Court has made an order for possession of the domestic PR property,
+- (e) where that tenant has, within the preceding six months, arranged for any energy efficiency improvement to be made to the domestic PR property pursuant to a green deal plan, or
+- (f) where that tenant has, within the preceding six months, made a tenant’s request in relation to the domestic PR property in respect of which one, or both, of the exemptions in Chapter 3 applied.
+
+(2) A tenant falling within regulation 7(a)(ii) is not a tenant for the purposes of regulation 8(1)—
+
+- (a) after that tenant has entered into an agreement to transfer that tenant’s interest in the property,
+- (b) within three months before the expiry of that tenant’s leasehold interest in the property, or
+- (c) where the landlord has commenced proceedings against that tenant for forfeiture of the lease, or for a breach of the lease, and—
+  - (i) those proceedings have not been resolved, or
+  - (ii) the Court has made an order confirming the forfeiture and no relief from forfeiture has been granted, or
+- (d) where that tenant has, within the preceding six months, made a tenant’s request in relation to the domestic PR property in respect of which one, or both, of the exemptions in Chapter 3 applied.
+
+#### 10. Landlord’s duty not to unreasonably refuse a tenant’s request[^key-5bd8d784814b0b1de042af15741a56e8]
+
+(1) Subject to regulations 13(5)(a) and 14(3), where a landlord is served with a tenant’s request, the landlord must not unreasonably refuse consent to the making of a relevant energy efficiency improvement specified in the tenant’s request.
+
+(2) A landlord’s refusal of consent is not unreasonable where—
+
+- (a) paragraph (3) applies,
+- (b) paragraph (4) applies,
+- (c) paragraph (5) applies,
+- (d) the landlord relies, or intends to rely, on an exemption in Chapter 3.
+
+(3) This paragraph applies where—
+
+- (a) another tenant submitted a tenant’s request to that landlord in relation to the same domestic PR property within the six months preceding the date of service of the tenant’s request, and the landlord complied with the requirements of these Regulations in relation to that other tenant’s request,
+- (b) a notice has been served on the landlord or the superior landlord, and remains in force, in relation to the domestic PR property, or the building of which it forms part—
+  - (i) under section 20, section 21, or section 43, of the Housing Act 2004[^f00027], or
+  - (ii) under section 265(1) to (4), of the Housing Act 1985[^f00028], or
+- (c) a declaration has been made in relation to the domestic PR property, or the building of which it forms part, under section 289 of the Housing Act 1985[^f00029].
+
+(4) This paragraph applies where the relevant energy efficiency improvement falls within any of paragraphs (d), (n) or (v) of the Schedule to the Green Deal (Qualifying Energy Improvements) Order 2012[^f00030], and the landlord has obtained a written opinion from—
+
+- (a) a relevant person, or
+- (b) an independent installer of the relevant energy efficiency improvement in question who meets the relevant installer standards,
+
+advising that it is not an appropriate energy efficiency improvement, due to its potential negative impact on the fabric or structure of the domestic PR property, or the building of which it forms part.
+
+(5) This paragraph applies where the tenant’s request specifies a relevant energy efficiency improvement which is the same, or substantially the same, as any energy efficiency improvement to the PR property which the landlord had proposed within the preceding six months, where—
+
+- (a) the landlord sought that tenant’s consent to the making of those energy efficiency improvements, and that tenant refused such consent, or
+- (b) that tenant refused to give any confirmation which must be obtained from that tenant by virtue of regulation 36 of the Framework Regulations in relation to a green deal plan with which the landlord proposed to fund the making of those energy efficiency improvements.
+
+#### 11. Superior landlord’s duty not to unreasonably refuse a tenant’s request[^key-33b1a9c2525b7e50be3c9bc26ab13e42]
+
+(1) Subject to regulations 13(5)(a) and 14(3), where a superior landlord is served with copies of a tenant’s request and a landlord’s initial response, or a landlord’s full response, in accordance with regulation 12(5), the superior landlord must not unreasonably refuse consent to the making of a relevant energy efficiency improvement falling within regulation 12(4).
+
+(2) A superior landlord’s refusal of consent is not unreasonable where—
+
+- (a) paragraph (3) applies,
+- (b) paragraph (4) applies,
+- (c) regulation 10(5) applies,
+- (d) the superior landlord relies, or intends to rely, on an exemption in Chapter 3.
+
+(3) This paragraph applies where—
+
+- (a) in the six months preceding the date on which the superior landlord is served with copies of the tenant’s request and the landlord’s initial response in accordance with regulation 12(5), the superior landlord was served with a copy of another tenant’s request in accordance with regulation 12(5) in relation to the same domestic PR property, and the superior landlord complied with the requirements of these Regulations in relation to that other tenant’s request,
+- (b) a notice has been served on the landlord or the superior landlord, and remains in force, in relation to the domestic PR property, or the building of which it forms part—
+  - (i) under section 20, section 21, or section 43, of the Housing Act 2004, or
+  - (ii) under section 265(1) to (4) of the Housing Act 1985, or
+- (c) a declaration has been made in relation to the domestic PR property, or the building of which it forms part, under section 289 of the Housing Act 1985.
+
+(4) This paragraph applies where the relevant energy efficiency improvement falls within any of paragraphs (d), (n) or (v) of the Schedule to the Green Deal (Qualifying Energy Improvements) Order 2012, and the landlord, or the superior landlord, has obtained a written opinion described in regulation 10(4).
+
+(5) A superior landlord must, no later than six weeks after the date of service on the superior landlord of a copy of the landlord’s initial response or, where the landlord’s initial response states that the landlord intends to serve a counter proposal, no later than six weeks after the date of service of the landlord’s intended counter proposal, serve a notice (a “superior landlord’s response”) on the landlord—
+
+- (a) stating, in relation to each of the relevant energy efficiency improvements falling within regulation 12(4), or to each of the energy efficiency improvements in the intended counter proposal that may not be made without the consent of the superior landlord (as the case may be), whether the superior landlord consents to the making of that improvement, and
+- (b) where the superior landlord does not consent to the making of such a relevant energy efficiency improvement, setting out the superior landlord’s reasons and accompanied by any relevant supporting evidence.
+
+#### 12. Landlord’s initial and full response to tenant’s request[^key-dc2c15c8ea1a7b65db67d36ae09294dd]
+
+(1) Where the landlord intends to serve a counter proposal in accordance with regulation 13, the landlord must—
+
+- (a) no later than one month after the date of service of the tenant’s request, serve a notice (a “landlord’s initial response”) on the tenant which complies with paragraph (6),
+- (b) where the landlord intends to serve a counter proposal which specifies an energy efficiency improvement which may not be made without the consent of a superior landlord—
+  - (i) no later than one month after the date of service of the tenant’s request, serve copies of the tenant’s request and the landlord’s initial response on the superior landlord, and
+  - (ii) no later than two months after the date of service of the tenant’s request, serve a copy of the intended counter proposal on the superior landlord requesting the superior landlord’s consent to the making of the energy efficiency improvements specified in the intended counter proposal, and
+- (c) no later than four months after the date of service of the tenant’s request, serve a notice (“a landlord’s full response”) on the tenant which complies with paragraphs (8) and (11).
+
+(2) Where one, or both, of paragraphs (4) and (7) applies in relation to a relevant energy efficiency improvement specified in a tenant’s request, the landlord must—
+
+- (a) no later than one month after the date of service of the tenant’s request, serve a landlord’s initial response on the tenant which complies with paragraph (6), and
+- (b) no later than three months after the date of service of the tenant’s request, serve a landlord’s full response on the tenant which complies with paragraphs (8) and (11).
+
+(3) In any case not falling within paragraphs (1) and (2), the landlord must, no later than one month after the date of service of the tenant’s request, serve a landlord’s full response on the tenant which complies with paragraphs (8) and (11).
+
+(4) This paragraph applies in any case where a landlord consents to one or more relevant energy efficiency improvements specified in a tenant’s request which may not be made without the consent of a superior landlord.
+
+(5) Where paragraph (4) applies, the landlord must serve on the superior landlord—
+
+- (a) no later than one month after the date of service of the tenant’s request, copies of the tenant’s request and any supporting documents, and the landlord’s initial response, and
+- (b) no later than three months after the date of service of the tenant’s request, a copy of the landlord’s full response.
+
+(6) The landlord’s initial response must state—
+
+- (a) whether one, or both, of paragraphs (4) and (7) applies (where relevant),
+- (b) where paragraph (4) applies, which of the relevant energy efficiency improvements specified in the tenant’s request are those that fall within paragraph (4),
+- (c) where paragraph (4) applies, confirm that the superior landlord has been served with a copy of the tenant’s request,
+- (d) whether the landlord intends to serve a counter proposal in accordance with regulation 13, and
+- (e) that the landlord will serve a full response.
+
+(7) This paragraph applies in any case where the landlord wishes to obtain evidence or advice before deciding whether to consent to one or more of the relevant energy efficiency improvements specified in the tenant’s request, as a result of one or more of the following—
+
+- (a) the tenant’s request was not accompanied by a report specified in regulation 8(2)(c),
+- (b) the tenant’s request specifies a relevant energy efficiency improvement which falls within any of paragraphs (d), (n) or (v) of the Schedule to the Green Deal (Qualifying Energy Improvements) Order 2012, and the landlord intends to obtain a written opinion from a relevant person or a person specified in regulation 10(4)(b) as to whether that energy efficiency improvement is an appropriate energy efficiency improvement for the domestic PR property,
+- (c) the landlord intends to rely on the exemption in regulation 16,
+- (d) the tenant’s request specifies a relevant energy efficiency improvement in relation to which third party consent has not been given.
+
+(8) The landlord’s full response must—
+
+- (a) state in relation to each of the relevant energy efficiency improvements specified in the tenant’s request—
+  - (i) whether the landlord consents to the making of that relevant energy efficiency improvement, and
+  - (ii) where paragraph (4) applies, whether the superior landlord has consented to the making of that relevant energy efficiency improvement,
+- (b) where the landlord consents to the making of a relevant energy efficiency improvement which is to be funded wholly or partly through a green deal plan, state whether the landlord will give any confirmation which must be obtained from the landlord by virtue of regulation 36 of the Framework Regulations, and
+- (c) be accompanied by any counter proposal made in accordance with regulation 13.
+
+(9) In any case where the landlord, and where relevant any superior landlord, consents to the making of all the relevant energy efficiency improvements specified in the tenant’s request, the landlord may serve a notice on the tenant (with the landlord’s full response or, where paragraph (4) applies no later than two weeks after the date of service of the superior landlord’s response, whichever is the later)—
+
+- (a) stating that the landlord wishes to make those relevant energy efficiency improvements,
+- (b) specifying the date by which the landlord proposes to make those relevant energy efficiency improvements, which must be no later than six months from the date of service of that notice,
+- (c) seeking any confirmation which must be obtained from the tenant by virtue of regulation 36 of the Framework Regulations in relation to any green deal plan with which the landlord proposes to fund the making of the relevant energy efficiency improvements, and
+- (d) confirming that the landlord has obtained any other third party consent.
+
+(10) Where—
+
+- (a) a notice under paragraph (9) is served and
+- (b) the tenant gives any confirmation referred to in paragraph (9)(c) which is required,
+
+the tenant may not make the relevant energy efficiency improvements specified in the tenant’s request unless the landlord fails to make them by the date specified in paragraph (9)(b).
+
+(11) In any case where—
+
+- (a) the landlord does not give consent to the making of a relevant energy efficiency improvement specified in the tenant’s request, on the grounds that—
+  - (i) the improvement is not a relevant energy efficiency improvement,
+  - (ii) the tenant’s request has not been validly served,
+  - (iii) regulation 10(3) or (4) applies,
+  - (iv) one, or both, of the exemptions in Chapter 3 applies, or
+
+  for any other reason, or
+- (b) the landlord refuses to give any confirmation which must be obtained from the landlord by virtue of regulation 36 of the Framework Regulations,
+
+the landlord’s full response must state that the consent or the confirmation (as the case may be) is not given, set out the landlord’s reasons, and be accompanied by any relevant supporting evidence.
+
+#### 13. Counter proposal[^key-c9b60bda37fd75fe013b7eeab36c83b0]
+
+(1) A landlord’s full response may include a notice (a “counter proposal”) specifying an energy efficiency improvement, or a combination of two or more energy efficiency improvements, which differ from the relevant energy efficiency improvements specified in the tenant’s request.
+
+(2) In any case where the consent of a superior landlord is required before any such energy efficiency improvement can be made, the counter proposal may not be served on the tenant unless the superior landlord has consented to the making of every such energy efficiency improvement specified in it.
+
+(3) A counter proposal must—
+
+- (a) specify the energy efficiency improvement, or combination of energy efficiency improvements, proposed by the landlord,
+- (b) specify what works, if any, will be undertaken to make good the domestic PR property after the energy efficiency improvement, or combination of energy efficiency improvements, are made,
+- (c) confirm that all the energy efficiency improvements specified in the counter proposal would deliver the same, or substantially the same, savings on the energy bills for the domestic PR property as all the relevant energy efficiency improvements specified in the tenant’s request,
+- (d) confirm that all the energy efficiency improvements specified in the counter proposal would not result in an initial, or a continuing, cost to the tenant which exceeds the cost of all the relevant energy efficiency improvements specified in the tenant’s request,
+- (e) specify the date by which the landlord proposes to make all the energy efficiency improvements specified in the counter proposal, which must be no later than six months from the date of service of the counter proposal,
+- (f) seek the tenant’s consent to the making of all the energy efficiency improvements specified in the counter proposal,
+- (g) where the making of any of the energy efficiency improvements is to be funded wholly or partly through a green deal plan, seek any confirmation which must be obtained from the tenant by virtue of regulation 36 of the Framework Regulations, and
+- (h) confirm that the landlord has obtained any third party consent.
+
+(4) The savings on the energy bills for the property referred to in paragraph (3)(c) must be calculated using the approved methodology.
+
+(5) Where a counter proposal is served—
+
+- (a) the tenant’s request ceases to have effect,
+- (b) the tenant must within one month of the date of service of the counter proposal serve a notice on the landlord (a “counter proposal response”) which—
+  - (i) states whether the tenant consents to the making of all or any of the energy efficiency improvements specified in the counter proposal, and
+  - (ii) states whether the tenant gives any confirmation which must be obtained from the tenant by virtue of regulation 36 of the Framework Regulations in relation to any green deal plan with which the landlord proposes to fund the making of the energy efficiency improvements, and
+- (c) provided the tenant gives any consent and confirmation referred to in sub-paragraph (b) which is required, the landlord must make any energy efficiency improvement specified in the counter proposal by the date specified in paragraph (3)(e).
+
+#### 14. Effect of an improvement notice[^key-ee8acc5e752a00562c8cf7aa3ce1d767]
+
+(1) In any case where a superior landlord served with a copy of a tenant’s request under regulation 12(5) or with an intended counter proposal under regulation 12(1)(b)(ii), has also been served with an improvement notice in relation to the domestic PR property, or the building of which it forms part, the superior landlord must, as soon as reasonably practicable after the date of service of the tenant’s request or the intended counter proposal (as the case may be)—
+
+- (a) provide the landlord with a copy of the improvement notice, and
+- (b) specify the works which the superior landlord intends to carry out to comply with the improvement notice, and the date by which the superior landlord proposes to carry out those works.
+
+(2) In any case where a landlord served with a tenant’s request has been served with an improvement notice, or the superior landlord has complied with paragraph (1), the landlord must as soon as reasonably practicable—
+
+- (a) serve a copy of the improvement notice on the tenant, and
+- (b) specify the works which the landlord, or the superior landlord (as the case may be), intends to carry out to comply with the improvement notice, and the date by which the landlord, or the superior landlord (as the case may be) proposes to carry out those works.
+
+(3) Where a tenant is served with a copy of an improvement notice in accordance with paragraph (2) at any time before the landlord’s full response is served, the tenant’s request ceases to have effect.
+
+### CHAPTER 3 — Exemptions
+
+#### 15. Consent exemption[^key-62ad0246850d38f0f5ba309535703247]
+
+Regulations 10(1) and 11(1) do not require a landlord, or a superior landlord (as the case may be), to consent to the making of a relevant energy efficiency improvement specified in a tenant’s request where, despite reasonable efforts by the landlord, or the superior landlord (as the case may be), any third party consent has been—
+
+- (a) refused, or
+- (b) granted subject to a condition with which the landlord, or the superior landlord (as the case may be), cannot reasonably comply.
+
+#### 16. Devaluation exemption[^key-30291cb1d478d5d6b1501175d2aab24f]
+
+Regulations 10(1) and 11(1) do not require a landlord, or a superior landlord (as the case may be), to consent to the making of—
+
+- (a) a relevant energy efficiency improvement, or
+- (b) a combination of two or more relevant energy efficiency improvements,
+
+specified in a tenant’s request where a report prepared by an independent surveyor states that the relevant energy efficiency improvement, or combination of relevant energy efficiency improvements (as the case may be), would result in a reduction of more than 5% in the market value of the domestic PR property, or of the building of which it forms part.
+
+### CHAPTER 4 — Enforcement
+
+#### 17. Application to the First-tier Tribunal[^key-aabcc021b43ba355620c18947e20e8f9]
+
+(1) In any case where a tenant has served a tenant’s request, the tenant may apply to the First-tier Tribunal on the grounds that—
+
+- (a) the landlord failed to serve a landlord’s initial response, or a landlord’s full response, in accordance with regulation 12,
+- (b) the landlord refused consent to the making of a relevant energy efficiency improvement specified in the tenant’s request other than in accordance with these Regulations,
+- (c) the landlord’s counter proposal fails to comply with regulation 13, or
+- (d) the landlord served a counter proposal and the tenant gave any consent and confirmation referred to in regulation 13(5)(b) which was required, but the energy efficiency improvement specified in the landlord’s counter proposal was not made by the date specified in accordance with regulation 13(3)(e).
+
+(2) In any case where a superior landlord was served in accordance with regulation 12(5), the tenant may apply to the First-tier Tribunal on the grounds that the superior landlord refused consent to the making of a relevant energy efficiency improvement specified in the tenant’s request other than in accordance with these Regulations.
+
+#### 18. Determination of an application[^key-94220f3cf56185773459c835e1d0e937]
+
+(1) The First-tier Tribunal must determine whether—
+
+- (a) the landlord’s, or the superior landlord’s, refusal of consent,
+- (b) the landlord’s initial response,
+- (c) the landlord’s full response,
+- (d) the counter proposal, or
+- (e) the landlord’s failure to make energy efficiency improvements specified in a counter proposal,
+
+failed to comply with these Regulations.
+
+(2) If the First-tier Tribunal determines that the landlord, or the superior landlord (as the case may be), has failed to comply with these Regulations in any manner referred to in paragraph (1), the First-tier Tribunal may by Order consent to the making of any relevant energy efficiency improvement specified in the tenant’s request.
+
+## PART 3 — Minimum level of energy efficiency
+
+### CHAPTER 1 — Interpretation of Part 3
+
+#### 19. Domestic PR property[^key-594473542b4e3833db33eba5e1cf163d][^key-3cc7794f2727caf49a31eeacda712bf6]
+
+(1) For the purposes of this Part, “domestic PR property” means a property which falls within section 42(1)(a) of the Act, subject to paragraph (2).
+
+(2) A property is not a domestic PR property if—
+
+- (a) it was not required, and is not part of a building which was required, to have an energy performance certificate[^f00031] by the Energy Performance of Buildings (Certificates and Inspections) (England and Wales) Regulations 2007, and
+- (b) it is not required, and is not part of a building which is required, to have an energy performance certificate by the Building Regulations 2010 or the EPB Regulations.
+
+#### 20. Non-domestic PR property[^key-831860116f6a72526b5eb1fdf2100e0d][^key-fd4916a786d61c010a75c64a34745f9b]
+
+(1) For the purposes of this Part, “non-domestic PR property” means a property which falls within section 42(1)(b) of the Act, subject to paragraphs (2) and (3).
+
+(2) A property is not a non-domestic PR property if—
+
+- (a) it was not required, and is not part of a building which was required, to have an energy performance certificate by the Energy Performance of Buildings (Certificates and Inspections) (England and Wales) Regulations 2007, and
+- (b) it is not required, and is not part of a building which is required, to have an energy performance certificate by the Building Regulations 2010 or the EPB Regulations.
+
+(3) A property is not a non-domestic PR property if it is let—
+
+- (a) on a tenancy granted for a term certain not exceeding six months, unless—
+  - (i) the tenancy agreement contains provision for renewing the term or for extending it beyond six months from its beginning, or
+  - (ii) at the time when the tenancy is granted, the tenant has been in occupation for a continuous period which exceeds 12 months, or
+- (b) on a tenancy granted for a term certain of 99 years or more.
+
+#### 21. Landlord and tenant[^key-07cf9d1433eeb8d67225d7c5b30454fe][^key-278a286cfc0d14b45ddb49f242acdef8]
+
+For the purposes of this Part—
+
+- (a) “tenant” means a person to whom—
+  - (i) a domestic PR property is let on a tenancy which falls within section 42(1)(a) of the Act, or
+  - (ii) a non-domestic PR property is let,
+- (b) “landlord” means a person who lets, or proposes to let—
+  - (i) a domestic PR property on a tenancy which falls within section 42(1)(a) of the Act, or
+  - (ii) a non-domestic PR property.
+
+#### 22. Sub-standard property[^key-00937878ca0c82c575012e83c2a19c64][^key-635e18cf2576e3e2b8a18a34aee2ac31]
+
+For the purposes of this Part—
+
+- (a) a domestic PR property, or a non-domestic PR property, is “sub-standard” where the valid energy performance certificate expresses the energy performance indicator of the property as being below the minimum level of energy efficiency,
+- (b) “minimum level of energy efficiency”, in relation to a domestic PR property and a non-domestic PR property, means an energy performance indicator of band E,
+- (c) an energy performance certificate for a property is “valid” where—
+  - (i) it was entered on the register required to be maintained by regulation 27(1) of the EPB Regulations no more than 10 years before the date on which it is relied on for the purposes of these Regulations, and
+  - (ii) no other energy performance certificate for the property has since been entered on that register.
+
+### CHAPTER 2 — Domestic PR property falling below the minimum level of energy efficiency
+
+#### 23. Prohibition on letting of sub-standard property[^key-c8879470928894dda4146713ec121027][^key-5f1575190f6094d7827dee62de819a3e]
+
+(1) A landlord of a sub-standard domestic PR property must not let the property unless regulation 25, or one or more of the exemptions in Chapter 4, applies.
+
+(2) For the purposes of paragraph (1), “let the property” means—
+
+- (a) on or after 1st April 2018, grant a new tenancy which falls within section 42(1)(a) of the Act, or let the property on such a tenancy as a result of an extension or renewal of an existing tenancy, or
+- (b) on after 1st April 2020, continue to let the property on such a tenancy.
+
+#### 24. Relevant energy efficiency improvements[^key-8a526e56f0ecdbe37aa4e162cdda152c][^key-5e55f342cc96cf8029c987512b3ece30]
+
+(1) Subject to paragraph (2), for the purposes of paragraph (a) in the definition of “relevant energy efficiency improvements” in section 43(4) of the Act, a relevant energy efficiency improvement is an energy efficiency improvement—
+
+- (a) which—
+  - (i) falls within sub-paragraph (a) of the definition of “energy efficiency improvement” in regulation 2(1) and is listed in the Schedule to the Green Deal (Qualifying Energy Improvements) Order 2012, and
+  - (ii) is identified as a recommended improvement for that property in a green deal report, a recommendation report, or a report prepared by a surveyor, or
+- (b) which falls within sub-paragraph (b) of the definition of “energy efficiency improvement” in regulation 2(1).
+
+(2) An energy efficiency improvement which falls within any of paragraphs (d), (n) or (v) of the Schedule to the Green Deal (Qualifying Energy Improvements) Order 2012 is not a relevant energy efficiency improvement where the landlord has obtained a written opinion from—
+
+- (a) a relevant person, or
+- (b) an independent installer of the energy efficiency improvement in question who meets the relevant installer standards,
+
+advising that it is not an appropriate improvement, due to its potential negative impact on the fabric or structure of the domestic PR property, or the building of which it forms part, and the landlord has registered information in accordance with regulation 36(2).
+
+(3) For the purposes of paragraph (b)(iv) in the definition of “relevant energy efficiency improvements” in section 43(4) of the Act, an energy efficiency improvement is a relevant energy efficiency improvement where the cost (including value added tax)[^key-0b4bb3c7f09f0c3542345efd899516ac] of purchasing and installing it—
+
+- (a) can be wholly financed, at no cost to the landlord, by means of funding provided by central government, a local authority, or any other person, [^key-cafaa37ba07ce4d36017e595d0e1eeea]...
+- (b) can be wholly financed by a combination of two or more of the financial arrangements in paragraph (a), and paragraph (b)(i) to (iii) in the definition of “relevant energy efficiency improvements” in section 43(4) of the Act,
+- (c)[^key-c11f019ec836a2e2c295e38d1f23d306] is not more than the cost cap and can be partly financed by the landlord and partly by one or more of the financial arrangements in sub-paragraph (a) and paragraph (b)(i) and (ii) in the definition of “relevant energy efficiency improvements” in section 43(4) of the Act, or
+- (d) is not more than the cost cap and can be wholly financed by the landlord.
+
+(4)[^key-a04d8e3a1eb9e964ff4f491f4d3df3f7] In paragraph (3) and in the Schedule, “the cost cap” means £3,500 less—
+
+- (a) the total sum (including value added tax) spent by the landlord on unregistered energy efficiency improvements made to the property in the period beginning with 1st October 2017 and ending with 31st March 2019, and
+- (b) the total cost (including value added tax) of unregistered energy efficiency improvements made to the property on or after 1st April 2019.
+
+(5) In paragraph (4), “unregistered energy efficiency improvements” means energy efficiency improvements within paragraph (1) that have not been identified, in an entry on the PRS Exemptions Register, as having been made.
+
+#### 25. Relevant energy efficiency improvements undertaken[^key-179207c6ff2e2ac0c4df59edca513c6a][^key-89d64b836ec05efb47cbfe4568675229]
+
+(1) Subject to paragraphs (2) and (3)[^key-604e85095558545167459cb0b216d17c], this regulation applies where—
+
+- (a) the landlord of a sub-standard domestic PR property has made all the relevant energy efficiency improvements for the property, or
+- (b) there are no relevant energy efficiency improvements that can be made to the property.
+
+(2) Subject to paragraph (3), this[^key-9a3559071f872b5f3f85083677ee342c] regulation applies for a period of five years starting with the date on which the landlord registers information in accordance with regulation 36(2).
+
+(3)[^key-78bb56a077d38db37271d530d19e93af] Where in the period beginning with 1st October 2017 and ending with 31st March 2019 the landlord registered evidence under regulation 36(2) on which the landlord relied to demonstrate that no relevant energy efficiency improvements could be made to the property because no financing of the types mentioned in section 43(4) of the Act and regulation 24(3) was available, this regulation applies for a period starting with the date on which the landlord registered the evidence and ending with 31st March 2020.
+
+#### 26. Sub-standard property let in breach of these Regulations[^key-b81f7303b360f1b970ff14c0e59fe083][^key-bfefdadd1ffceeabb72ee2ccadc04aa3]
+
+In any case where a landlord lets, or continues to let, a domestic PR property in breach of regulation 23, that breach does not affect the validity or enforceability of any provision of the tenancy.
+
+### CHAPTER 3 — Non-domestic PR property falling below the minimum level of energy efficiency
+
+#### 27. Prohibition on letting of sub-standard non-domestic PR property[^key-31415334ce805b1778bcfe3e92cd87f6][^key-5aace46114dd62df88e977a458e3fb99]
+
+(1) A landlord of a sub-standard non-domestic PR property must not let the property unless regulation 29, or one or more of the exemptions in Chapter 4, applies.
+
+(2) For the purposes of paragraph (1), “let the property” means—
+
+- (a) on or after 1st April 2018, grant a new tenancy which falls within section 42(1)(b) of the Act, or let the property on such a tenancy as a result of an extension or renewal of an existing tenancy, or
+- (b) on or after 1st April 2023, continue to let the property on such a tenancy.
+
+#### 28. Relevant energy efficiency improvements[^key-973ec7aa87afea4e116b347a7bcdb3a7][^key-59d36b36d426b09ac4544bfe5ba7960a]
+
+(1) Subject to paragraph (2), for the purposes of paragraph (a) in the definition of “relevant energy efficiency improvements” in section 49(4) of the Act, a relevant energy efficiency improvement is an energy efficiency improvement—
+
+- (a) which is listed in—
+  - (i) the Schedule to the Green Deal (Qualifying Energy Improvements) Order 2012, or
+  - (ii) Table 6 of the Building Regulations Approved Document L2B[^f00032], and
+- (b) has been identified as a recommended improvement for that property in a green deal report, a recommendation report, or a report prepared by a surveyor.
+
+(2) An energy efficiency improvement which falls within any of paragraphs (d), (n) or (v) of the Schedule to the Green Deal (Qualifying Energy Improvements) Order 2012 is not a relevant energy efficiency improvement where the landlord has obtained a written opinion from—
+
+- (a) a relevant person, or
+- (b) an independent installer of the energy efficiency improvement in question who meets the relevant installer standards,
+
+advising that it is not an appropriate improvement, due to its potential negative impact on the fabric or structure of the non-domestic PR property, or the building of which it forms part, and the landlord has registered information in accordance with regulation 36(2).
+
+(3) For the purposes of paragraph (b)(ii) in the definition of “relevant energy efficiency improvements” in section 49(4) of the Act, an energy efficiency improvement listed in Table 6 of the Building Regulations Approved Document L2B is a relevant energy efficiency improvement for a property where the improvement would achieve a simple payback of seven years or less.
+
+(4) A relevant energy efficiency improvement achieves “a simple payback of seven years or less”, if it is calculated that the value of savings (“S”) is the same as or greater than the calculated repayment cost (“R”).
+
+(5) For the purposes of paragraph (4), S is the value of savings on energy bills for the property that the relevant energy efficiency improvement is expected to achieve over a period of seven years beginning with the date of the completion of the installation of the improvement, calculated—
+
+- (a) using the approved methodology,
+- (b) using relevant energy prices.
+
+(6) For the purposes of paragraph (4), R is the cost of the relevant energy efficiency improvement (“C”), multiplied by the interest rate factor (“F”), where—
+
+- (a) C is the sum of—
+  - (i) the cost of purchasing the improvement, and
+  - (ii) the cost of installing the improvement (including labour costs), calculated using labour and installation costs as at the date the calculation is made,
+
+  excluding value added tax, and
+- (b) F is calculated as follows—
+
+  [formula: see source](https://www.legislation.gov.uk/uksi/2015/962)
+
+  where *i* is the Bank of England base rate in force at the time of the calculation.
+
+(7) For the purposes of paragraph (5), a “relevant energy price”, in relation to a supply of energy to a property, means the “unit cost” of the supply of that energy to the property, excluding value added tax—
+
+- (a) where the landlord has energy bills for the supply of that energy to the property for the 12 month period which ends on the date of the most recent energy bill for that supply, calculated by dividing the total cost of the supply of that energy for that 12 month period (including any fixed cost charged by the supplier of that energy), by the number of units supplied in that 12 month period,
+- (b) where the landlord has energy bills for the supply of that energy to the property for a period of less than 12 months in the 15 month period which ends on the date that the calculation is made, calculated by—
+  - (i) estimating the total cost of the supply of that energy for the 12 month period which ends on the date that the calculation is made (including any fixed cost charged by the supplier of that energy) (“EC”), and the number of units of that energy that would be supplied in that 12 month period (“EU”), based on those energy bills, and
+  - (ii) dividing EC by EU, or
+- (c) where the landlord has no energy bills for the supply of that energy to the property for the 12 month period which ends on the date the calculation is made, using the cost per unit for the supply of that energy charged by the landlord’s current, or intended, supplier of that energy on the date the calculation is made.
+
+(8) In paragraph (6), “Bank of England base rate” means—
+
+- (a) the rate announced from time to time by the Monetary Policy Committee[^f00033] of the Bank of England as the official dealing rate, being the rate at which the Bank is willing to enter into transactions for providing short term liquidity in the money markets, or
+- (b) where an order under section 19 of the Bank of England Act 1998 is in force, any equivalent rate determined by the Treasury under that section.
+
+#### 29. Relevant energy efficiency improvements undertaken[^key-f649ac001a29aa49dfa080b1859f8761][^key-c3cb7630ef7b0d94dd100ba93fc95874]
+
+(1) Subject to paragraph (2), this regulation applies where—
+
+- (a) the landlord of a sub-standard non-domestic PR property has made all the relevant energy efficiency improvements for the property, or
+- (b) there are no relevant energy efficiency improvements that can be made to the property.
+
+(2) This regulation applies for a period of five years starting with the date on which the landlord registers information in accordance with regulation 36(2).
+
+#### 30. Sub-standard property let in breach of these Regulations[^key-04f9c8872fa4b3eff05f34a0fe7fbe19][^key-1ed4b0a471fd6b30f1f5bbfdb606b776]
+
+In any case where a landlord lets, or continues to let, a non-domestic PR property in breach of regulation 27, that breach does not affect the validity or enforceability of any provision of the tenancy.
+
+### CHAPTER 4 — Exemptions – domestic and non-domestic PR property
+
+#### 31. Consent exemption[^key-53b95e8b10db7a1302248b854f94c950][^key-1a70be9225ad67fe26b74cdfdd5227a3]
+
+(1) Subject to paragraphs (2) and (3), regulation 27 does[^key-c0ac600f2b47622aea9e7c00c37d731f] not apply at any time when the landlord has, within the preceding five years, been unable to increase the energy performance indicator for the property to not less than the minimum level of energy efficiency as a result of—
+
+- (a) the tenant refusing—
+  - (i) consent to any relevant energy efficiency improvement being made, or
+  - (ii) to give any confirmation which must be obtained from the tenant by virtue of regulation 36 of the Framework Regulations before any green deal plan with which the landlord proposed to fund the making of the relevant energy efficiency improvement could be entered into, or
+- (b) despite reasonable efforts by the landlord to obtain third party consent, that consent having been—
+  - (i) refused, or
+  - (ii) granted subject to a condition with which the landlord cannot reasonably comply.
+
+(1A)[^key-60ab9a023e573667323a2cbd27e222f8] Subject to paragraphs (2) and (3), regulation 23 does not apply at any time when the landlord has, within the preceding five years, been unable to increase the energy performance indicator for the property to not less than the minimum level of energy efficiency as a result of—
+
+- (a) the tenant refusing consent to any relevant energy efficiency improvement being made, or
+- (b) despite reasonable efforts by the landlord to obtain third party consent, that consent having been—
+  - (i) refused, or
+  - (ii) granted subject to a condition with which the landlord cannot reasonably comply.
+
+(2) A landlord may rely on the exemption in paragraph (1) or (1A)[^key-5c47740ad5dcb473d51190dd4b34ea6b] only where the landlord has registered information in accordance with regulation 36(2).
+
+(3)[^key-b5676e3d7932771309a5caeb00fa84ef] Where a landlord has relied on the exemption in paragraph (1)(a) or (1A)(a) in relation to the refusal of a particular tenant to give consent or a confirmation, the landlord may no longer rely on the exemption once that tenant’s tenancy has come to an end.
+
+#### 32. Devaluation exemption[^key-50d6200c1efe8f9cb2c8d0dcef859ce3][^key-548956b4b66e13187686ff667ac75a73]
+
+(1) Subject to paragraph (3), regulations 23 and 27 do not apply at any time when, within the preceding five years, the landlord been unable to increase the energy performance indicator for the property to not less than the minimum level of energy efficiency because paragraph (2) applies.
+
+(2) This paragraph applies where the landlord has not made a relevant energy efficiency improvement because the landlord has obtained a report prepared by an independent surveyor which states that making that relevant energy efficiency improvement would result in a reduction of more than 5% in the market value of the property, or of the building of which it forms part.
+
+(3) A landlord may rely on the exemption in paragraph (1) only where the landlord has registered information in accordance with regulation 36(2).
+
+#### 33. Temporary exemption in certain circumstances[^key-4fcc41c2e5b209433748a79016ec4483][^key-089546489c18747941b1d10192ecdcee]
+
+(1) Subject to paragraph (5), regulations 23 and 27 do not apply to a landlord until six months after whichever is the later of—
+
+- (a) the date on which the landlord becomes, or continues to be, the landlord of that property by virtue of any of the circumstances set out in paragraph (2), or
+- (b) the date on which an order falling within paragraph (2)(f) is made.
+
+(2) The circumstances referred to in paragraph (1) are—
+
+- (a) the grant of a lease pursuant to a contractual obligation,
+- (b) a tenant’s insolvency, by virtue of the landlord having been the tenant’s guarantor,
+- (c) the landlord having been a guarantor, or a former tenant, who has exercised the right to obtain an overriding lease of a property pursuant to section 19 of the Landlord and Tenant (Covenants) Act 1995[^f00034],
+- (d) the deemed creation of a new lease by operation of law,
+- (e) the grant of a new lease pursuant to the provisions of Part 2 of the Landlord and Tenant Act 1954[^f00035],
+- (f) the grant of a lease by order of the court not falling within sub-paragraph (e).
+
+(3) Subject to paragraph (5), regulation 23(2)(b) and regulation 27(2)(b) do not apply to a person until six months from the date on which the person becomes the landlord by virtue of the circumstances set out in paragraph (4).
+
+(4) The circumstances referred to in paragraph (3) are—
+
+- (a) the landlord became the landlord of the domestic PR property, or non-domestic PR property (as the case may be), on purchasing an interest in that property, and
+- (b) on the date of the purchase, the property was let on an existing tenancy.
+
+(5) A landlord may rely on a temporary exemption in paragraph (1) or paragraph (3) only where the landlord has registered information in accordance with regulation 36(2).
+
+### CHAPTER 5 — Enforcement Authorities and Compliance – domestic and non-domestic PR property
+
+#### 34. Enforcement authorities[^key-a71adf7d342a0dddfa518eb7b38ded6e][^key-5e6d5748e93de187da5e18660fb13a40]
+
+(1) In this Part “enforcement authority”—
+
+- (a) in relation to a domestic PR property means a local authority,
+- (b) in relation to a non-domestic PR property means a local weights and measures authority[^f00036].
+
+(2) An enforcement authority must enforce compliance with the requirements of this Part in relation to properties in its area.
+
+#### 35. Authorised officers[^key-596cdcf16d4549fd1c310b7260da4c6c][^key-052fc54bb6b68d5d473d7c26acd6ee17]
+
+Where an enforcement authority appoints an authorised officer of that enforcement authority to exercise its powers under this Chapter, except in this regulation any reference to an “enforcement authority” is to be read as including a reference to that authorised officer of that enforcement authority.
+
+#### 36. PRS Exemptions Register[^key-660f4a1bef3a96f2e4c89a78da2cb6e2][^key-acc1927eb74dde6776386c07190421db]
+
+(1) The Secretary of State must establish and maintain a system (the “PRS Exemptions Register”) which enables—
+
+- (a) information to be registered in accordance with paragraph (2) or regulation 37(2),
+- (b) the Secretary of State and enforcement authorities to access information registered on it, and held on it, as necessary to enable them to carry out their functions under these Regulations, and
+- (c) the Secretary of State to publish the following information relating to any domestic PR property, or non-domestic PR property, in respect of which information has been registered in accordance with paragraph (2)—
+  - (i) the address of the property,
+  - (ii) where the landlord is not an individual, the name of the landlord,
+  - (iii) the exemption relied on,
+  - (iv) a copy of the valid energy performance certificate for the property,
+  - (v) the date on which information was registered in accordance with paragraph (2), and
+- (d) every enforcement authority to publish information in accordance with regulation 39.
+
+(2) In any case where a landlord of a sub-standard domestic PR property, or a sub-standard non-domestic PR property, wishes to rely on one or more of the following regulations, the landlord must register the information set out in the Schedule on the PRS Exemptions Register—
+
+- (a) regulation 24(2),
+- (b) regulation 25,
+- (c) regulation 28(2),
+- (d) regulation 29,
+- (e) regulation 31(1) or (1A)[^key-f3ca307c46fbbffb215ff7011bb504e2],
+- (f) regulation 32(1),
+- (g) regulation 33(1) or (3).
+
+#### 37. Compliance notices[^key-0b34f85c5cf6ead6d1da53d9d8309d77][^key-c6b3df4b6f4fba70c34a3487355344e4]
+
+(1) An enforcement authority may, on or after 1st April 2018, serve a notice (a “compliance notice”) on L where L appears to it to be, or to have been at any time within the 12 months preceding the date of service of the compliance notice, in breach of one or more of the following—
+
+- (a) regulation 23,
+- (b) regulation 27,
+
+requesting such information as it considers necessary to enable it to monitor compliance with this Part.
+
+(2) A compliance notice may in particular request L to produce for inspection originals, or copies, of the following—
+
+- (a) the energy performance certificate for the property which was valid at the time the property was let,
+- (b) any other energy performance certificate for the property in L’s possession,
+- (c) any current tenancy agreement under which the property is let,
+- (d) any qualifying assessment in relation to the property,
+- (e) any other document which the enforcement authority considers necessary to enable it to carry out its functions under this Part,
+
+and may request L to register copies of any of them on the PRS Exemptions Register
+
+(3) A compliance notice must specify—
+
+- (a) the name and address of the person to whom the documents or other information required must be provided, and
+- (b) the date by which they must be provided which must be no less than one month from the date on which the compliance notice is served.
+
+(4) L must—
+
+- (a) comply with the compliance notice, and
+- (b) allow the enforcement authority to take copies of any original document produced.
+
+(5) A compliance notice may be varied or revoked in writing at any time by the enforcement authority that issued it.
+
+(6) An enforcement authority may take into account any information held by it, whether or not provided to it in accordance with this regulation, in determining whether L has complied with this Part.
+
+### CHAPTER 6 — Penalties – domestic and non-domestic PR property
+
+#### 38. Penalty notices[^key-b4d8f4f5b0d68a8882e987513b132f6b][^key-f874c24c8cb4f1ad696acf914fbe5f00]
+
+(1) An enforcement authority may, on or after 1st April 2018, serve a notice on L (a “penalty notice”) in any case where it is satisfied that L is, or has been at any time in the 18 months preceding the date of service of the penalty notice, in breach of one or more of the following—
+
+- (a) regulation 23,
+- (b) regulation 27,
+- (c) regulation 37(4)(a),
+
+imposing a financial penalty, a publication penalty, or both a financial penalty and a publication penalty, in accordance with this Chapter.
+
+(2) A penalty notice must—
+
+- (a) specify the provision of these Regulations which the enforcement authority believes L has breached,
+- (b) give such particulars as the enforcement authority considers necessary to identify the matters constituting the breach,
+- (c) specify—
+  - (i) any action the enforcement authority requires L to take to remedy the breach,
+  - (ii) the period within which such action must be taken,
+- (d) specify—
+  - (i) the amount of any financial penalty imposed and, where applicable, how it has been calculated,
+  - (ii) whether the publication penalty has been imposed,
+- (e) require L to pay any financial penalty within a period specified in the notice,
+- (f) specify the name and address of the person to whom any financial penalty must be paid and the method by which payment may be made,
+- (g) state the effect of regulations 42 to 45, and
+- (h) specify—
+  - (i) the name and address of the person to whom a notice requesting a review in accordance with regulation 42 may be sent (and to whom any representations relating to the review must be addressed), and
+  - (ii) the period within which such a notice may be sent.
+
+(3) Each of the periods specified under paragraph (2)(c) and (e) must not be less than one month, beginning on the day on which the penalty notice is served.
+
+(4) Where L fails to take the action required by a penalty notice within the period specified in that penalty notice in accordance with paragraph (2)(c), the enforcement authority may issue a further penalty notice.
+
+#### 39. Publication penalty[^key-15173785aeecbca1bf58ecaa80b60b3a][^key-d446309c059d410306bda059d8e107b9]
+
+(1) In this Chapter, the “publication penalty” means publication on the PRS Exemptions Register of such of the following information in relation to a penalty notice as the enforcement authority decides—
+
+- (a) where L is not an individual, L’s name,
+- (b) details of the breach of these Regulations in respect of which the penalty notice has been issued,
+- (c) the address of the property in relation to which the breach has occurred, and
+- (d) the amount of any financial penalty imposed.
+
+(2) The information in paragraph (1) must be published for a minimum period of 12 months, and may be published for such longer period as the enforcement authority may decide.
+
+(3) A publication penalty does not take effect until—
+
+- (a) the period specified for requesting a review under regulation 38(2)(h)(ii) has expired or, where a review has been requested, the enforcement authority has not served notice of its decision under regulation 42(2)(c), and
+- (b) the period specified for any appeal against the penalty notice has expired or, where an appeal is made, until the appeal has been determined.
+
+#### 40. Breaches in relation to domestic PR property[^key-6d45f41edf209c82d34e266570da71f1][^key-28cf5d15af423b99db1a4479cc1283f7]
+
+(1) The penalties set out in this regulation apply where L is, or was, the landlord of a domestic PR property.
+
+(2) Where L has breached regulation 23 and, at the time the penalty notice is served has, or had, been in breach for less than three months, the penalties are—
+
+- (a) a financial penalty not exceeding £2,000, and
+- (b) the publication penalty.
+
+(3) Where L has breached regulation 23 and, at the time the penalty notice is served has, or had, been in breach for three months or more, the penalties are—
+
+- (a) a financial penalty not exceeding £4,000, and
+- (b) the publication penalty.
+
+(4) Where L has registered false or misleading information under regulation 36(2), the penalties are—
+
+- (a) a financial penalty not exceeding £1,000, and
+- (b) the publication penalty.
+
+(5) Where L has failed to comply with a compliance notice in breach of regulation 37(4)(a), the penalties are—
+
+- (a) a financial penalty not exceeding £2,000, and
+- (b) the publication penalty.
+
+(6) Where an enforcement authority imposes financial penalties on L in relation to a breach of regulation 23 in respect of a domestic PR property—
+
+- (a) under paragraph (2) or (3), and
+- (b) under one or both of paragraphs (4) and (5),
+
+the total of the financial penalties imposed on L must be no more than £5,000.
+
+#### 41. Breaches in relation to non-domestic PR property[^key-7eea407e8110dc2d0fa32aae057360be][^key-a7d99eeb9cbb1b911fbf8811d62460dd]
+
+(1) The penalties set out in this regulation apply where L is, or was, the landlord of a non-domestic PR property.
+
+(2) Where L has breached regulation 27 and, at the time the penalty notice is served has, or had, been in breach for less than three months, the penalties are—
+
+- (a) a financial penalty not exceeding whichever is the greater of—
+  - (i) £5,000, and
+  - (ii) 10% of the rateable value of the property,
+
+  provided that the financial penalty must not exceed £50,000, and
+- (b) the publication penalty.
+
+(3) Where L has breached regulation 27 and, at the time the penalty notice is served has, or had, been in breach for three months or more, the penalties are—
+
+- (a) a financial penalty not exceeding whichever is the greater of—
+  - (i) £10,000, and
+  - (ii) 20% of the rateable value of the property,
+
+  provided that the financial penalty must not exceed £150,000, and
+- (b) the publication penalty.
+
+(4) Where L has registered false or misleading information under regulation 36(2), or has failed to comply with a compliance notice in breach of regulation 37(4)(a), the penalties are—
+
+- (a) a financial penalty not exceeding £5,000, and
+- (b) the publication penalty.
+
+(5) In this regulation—
+
+- “[^key-8b81ac07110454b942d64398f6b09b33]**local non-domestic rating list**” means—
+  - (a) in relation to England, a list maintained under section 41 of the Local Government Finance Act 1988;
+  - (b) in relation to Wales, a list compiled and maintained under section 41ZA of the Local Government Finance Act 1988;
+- “rateable value”, in relation to a non-domestic PR property, means the rateable value shown for the property on a local non-domestic rating list at the time the penalty notice is served.
+
+#### 42. Reviews, waiving and modification of penalties[^key-81834f11e2f242212ad6ebf418daff47][^key-135c0423627628699976e346f6278d70]
+
+(1) L may, within the period specified under regulation 38(2)(h)(ii), serve notice on the enforcement authority requesting a review of its decision to serve a penalty notice.
+
+(2) Where L gives notice in accordance with paragraph (1), or where the enforcement authority decides to review its decision to serve a penalty notice in any other case, the enforcement authority must—
+
+- (a) consider any representations made by L and all other circumstances of the case,
+- (b) confirm or withdraw the penalty notice, and
+- (c) serve notice of its decision to L.
+
+(3) If, on a review under paragraph (2), the enforcement authority—
+
+- (a) ceases to be satisfied that L committed the breach specified in the penalty notice,
+- (b) is satisfied that L took all reasonable steps and exercised all due diligence to avoid committing the breach specified in the penalty notice, or
+- (c) decides that in the circumstances of the case it was not appropriate for a penalty notice to be served on L,
+
+the enforcement authority must serve a further notice on L withdrawing the penalty notice.
+
+(4) A notice confirming the penalty notice must state the effect of regulations 43 to 45.
+
+(5) On a review under paragraph (2), the enforcement authority may—
+
+- (a) waive a penalty,
+- (b) allow L additional time to pay any financial penalty,
+- (c) substitute a lower financial penalty where one has already been imposed, or
+- (d) modify the application of a publication penalty.
+
+### CHAPTER 7 — Appeals and recovery of financial penalties – domestic and non-domestic PR property
+
+#### 43. Appeals[^key-b12d3276975019c4186c50906665e5df][^key-6c00b8ba4af18dd3e8c8b1eaca7079ef]
+
+If, after a review, a penalty notice is confirmed by the enforcement authority, L may appeal to the First-tier Tribunal on the grounds that—
+
+- (a) the issue of the penalty notice was based on an error of fact,
+- (b) the issue of the penalty notice was based on an error of law,
+- (c) the penalty notice does not comply with a requirement imposed by these Regulations, or
+- (d) in the circumstances of the case it was inappropriate for the penalty notice to be served on L.
+
+#### 44. Effect and determination of Appeal[^key-d5e8007a68f2ea8f8e5f97d64bf56798][^key-6141e106d4a39e3d9edb75cf91c89abf]
+
+(1) The bringing of an appeal suspends the penalty notice being appealed taking effect, pending determination or withdrawal of the appeal.
+
+(2) The First-tier Tribunal may—
+
+- (a) quash the penalty notice, or
+- (b) affirm the penalty notice, whether in its original form or with such modification as it sees fit.
+
+(3) If the penalty notice is quashed, the enforcement authority must repay any amount paid as a financial penalty in pursuance of the notice.
+
+#### 45. Recovery of financial penalty[^key-8249be2fb54cec4ac7bfec7e06bbfe4a][^key-a93edde5619f21bccea8dd838e95cf4b]
+
+(1) The amount of an unpaid financial penalty is recoverable from L as a debt owed to the enforcement authority unless the notice has been withdrawn or quashed.
+
+(2) Proceedings for the recovery of the financial penalty may not be commenced—
+
+- (a) before the expiry of the period specified for requesting a review under regulation 38(2)(h)(ii),
+- (b) where a review has been requested under regulation 42(1), before the enforcement authority has served notice of its decision under regulation 42(2)(c), and
+- (c) where the enforcement authority has served a notice of its decision under regulation 42(2)(c) confirming the penalty notice, before the expiry of the period within which L may appeal to the First-tier Tribunal.
+
+(3) In proceedings for the recovery of a financial penalty, a certificate which—
+
+- (a) purports to be signed by or on behalf of the person having responsibility for the financial affairs of the enforcement authority, and
+- (b) states that payment of the financial penalty was or was not received by a date specified in the certificate,
+
+is evidence of the facts stated.
+
+Edward Davey
+
+Secretary of State
+
+Department of Energy and Climate Change
+
+26th March 2015
+
+## SCHEDULE — Information to be registered on the PRS Exemptions Register
+
+Regulation 36(2)
+
+**1.**[^key-f0504e29b81152f96e5f0757c7a3c391][^key-9c2408338be587aeaef52c86c8f3b3cb] The information referred to in regulation 36(2) to be registered where regulation 25 or regulation 29 applies is—
+
+- (a) the name, address, email address and telephone number of the landlord,
+- (b) the address of the property,
+- (c) which provision or provisions of regulations 25 and 29 applies,
+- (d) a copy of the valid energy performance certificate for the property,
+- (e) details of any energy efficiency improvement identified as a recommended improvement for the property in a green deal report, a recommendation report, or a report prepared by a surveyor,
+- (f) where the landlord relies on regulation 25(1)(a) or regulation 29(1)(a), details of any relevant energy efficiency improvements undertaken and the date on which they were completed,
+- (g) where the landlord has not made an energy efficiency improvement, in reliance on regulation 24(2) or regulation 28(2), a copy of any written opinion described in regulation 24(2) or regulation 28(2) (as appropriate),
+- (h) where the landlord has not made an energy efficiency improvement which was identified as a recommended improvement for the property in a green deal report, a recommendation report, or a report prepared by a surveyor, on the grounds that it does not fall within the definition of “relevant energy efficiency improvements” in section 43(4) of the Act and regulation 24(3), or in section 49(4) of the Act, any evidence or[^key-bf56fdde20f65e9f8727b89963b904af] a copy of any evidence on which the landlord relies to demonstrate that the energy efficiency improvement is not a relevant energy efficiency improvement for the property including, where applicable, the items mentioned in paragraph 1A[^key-023ad68d60a4f2281fb54293073578f4], and
+- (i) where the landlord has not made an energy efficiency improvement which was identified as a recommended improvement for that property in a green deal report, a recommendation report, or a report prepared by a surveyor, and which is listed in Table 6 of the Building Regulations Approved Document L2B, on the grounds that it would not achieve a simple payback of seven years or less—
+  - (i) copies of three quotations for the cost of purchasing and installing the improvement from installers of that improvement who meet the relevant installer standards, which demonstrate that fact, and
+  - (ii) the name of the responsible person (or, where two or more persons are the landlord, the name of the responsible person in relation to each landlord), and confirmation that the responsible person (or each of them) is satisfied of that fact.
+
+**1A.**[^key-af6060296317267e4e7b2e61a0c670fe] The items referred to in paragraph 1(h) are—
+
+- (a) for each energy efficiency improvement to the property relied on in calculating the cost cap, details of the improvement and its cost;
+- (b) for each energy efficiency improvement within regulation 24(1) that has not been made—
+  - (i) copies of three quotations for the cost of purchasing and installing the improvement (from installers of that improvement who meet the relevant installer standards), which demonstrate that the total cost (including value added tax) would exceed the cost cap, and
+  - (ii) the name of the responsible person (or, where two or more persons are the landlord, the name of the responsible person in relation to each landlord), and confirmation that the responsible person (or each of them) is satisfied that the total cost (including value added tax) would exceed the cost cap.
+
+**2.**[^key-e0762c485568ca334581dd691ac585cf][^key-0eee82ea49b6659186a293a09743e104] (1) The information referred to in regulation 36(2) to be registered where regulation 31(1) or (1A)[^key-1b858070ea9b17f2587099298edbb832] or regulation 32(1) applies is—
+
+- (a) the name, address, email address and telephone number of the landlord,
+- (b) the address of the property,
+- (c) which of regulations 31(1) , 31(1A)[^key-344292ed241eb5e3a43d2532c91b7b10] and 32(1) applies,
+- (d) a copy of the valid energy performance certificate for the property,
+- (e) where the landlord relies on regulation 31(1) or (1A)[^key-110efb2b4bd16924be0fc1659f42ecfd], a copy of any correspondence and documents evidencing that—
+  - (i) consent was required and sought, and
+  - (ii) consent was refused or granted subject to a condition with which the landlord could not reasonably comply,
+- (f) where the landlord relies on regulation 32(1), a copy of any report described in paragraph (2) of that regulation.
+
+(2) The information required by paragraph (1) must be registered before the landlord lets the property within the meaning of regulation 23 or regulation 27 (as the case may be).
+
+**3.**[^key-7d7313c39365b6dae778e443ea5a888b][^key-bc01af19490ae3b8b85fa16dfca4daab] The information referred to in regulation 36(2) to be registered where regulation 33(1) or (3) applies is—
+
+- (a) the name, address, email address and telephone number of the landlord,
+- (b) the address of the property,
+- (c) whether paragraph (1) or (3) of regulation 33 applies,
+- (d) a copy of any valid energy performance certificate for the property,
+- (e) the date on which the landlord became, or continued to be, the landlord by virtue of a circumstance in regulation 33(2) or 33(4).
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations introduce measures to improve the energy efficiency of certain private rented property in England and Wales.
+
+Part 2 (*tenants’ energy efficiency improvements*) comes into force on 1st April 2016, and enables the tenant of a domestic private rented property (that is, a property let on an assured tenancy for the purposes of the Housing Act 1988, a property let on a regulated tenancy for the purposes of the Rent Act 1977, or a property let on a tenancy prescribed by the Energy Efficiency (Domestic Private Rented Property) Order 2015) to make a request to their landlord for the landlord’s consent to the tenant making prescribed energy efficiency improvements to the property. The landlord, and any superior landlord whose consent is required before they can be made, must not unreasonably refuse consent to the improvements specified in a tenant’s request, unless exemptions set out in the Regulations apply, or the landlord proposes alternative energy efficiency measures. The tenant may apply to the First-tier Tribunal on the ground that the landlord or superior landlord has failed to comply with obligations in relation to the tenant’s request.
+
+Part 3 (*minimum level of energy efficiency*) comes into force on 1st October 2016, and applies to domestic private rented property, and to non-domestic private rented property (that is property which is let under a tenancy and is not a dwelling). It prescribes a minimum level of energy efficiency for private rented properties: that is, is an energy performance indicator (evidenced on the energy performance certificate for the property) of band E.
+
+It provides that, subject to prescribed exceptions, a landlord of a domestic private rented property must not grant a new tenancy of the property after 1st April 2018, and must not continue to let the property after 1st April 2020, where the energy performance of the property is below the minimum level; and that the landlord of a non-domestic private rented property must not grant a new tenancy of the property after 1st April 2018, and must not continue to let the property after 1st April 2023, where the energy performance of the property is below the minimum level.
+
+It makes provision for the enforcement of the requirements of Part 3 by local authorities in relation to domestic private rented properties, and local weights and measures authorities in relation to non-domestic private rented properties (“enforcement authorities”). Landlords seeking to rely on a prescribed exemption when letting a private rented property which falls below the minimum level of energy efficiency must register that exemption on a register maintained by the Secretary of State. Where an enforcement authority considers that a landlord may be in breach of a requirement of Part 3, it may serve a compliance notice requiring the landlord to provide evidence to the enforcement authority. Where an enforcement authority is satisfied that a landlord is in breach, it may issue a penalty notice imposing a financial penalty, and a publication penalty (which consists of publishing the details of the breach on the register). The landlord may request a review of the penalty notice by the enforcement authority and, where a penalty notice is confirmed on review, may appeal against the imposition of the penalty notice to the First-tier Tribunal.
+
+Building Regulations Approved Document L2B: Conservation of fuel and power in existing buildings other than dwellings can be obtained from RIBA Bookshops Mail Order, at 15 Bonhill Street, London EC2P 2EA and at www.thenbs.com/buildingregs.
+
+A full regulatory impact assessment of the effect that this instrument will have on the costs of business and the voluntary sector, is annexed to the Explanatory Memorandum which is available alongside these Regulations on www.legislation.gov.uk/.
+
+## Annotations
+
+[^f00001]: Footnote: [2011 c.16](https://www.legislation.gov.uk/ukpga/2011/16).
+
+[^f00002]: Footnote: Section 52(7) requires the Secretary of State to consult with Welsh Ministers before making regulations under Chapter 2 of Part 1 of the Energy Act 2011 (“the Act”) which apply to domestic PR properties situated in Wales.
+
+[^key-1c67f0563b7b955aa5fc3b19cc051343]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2015/962/regulation/1) in force at 1.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/962/regulation/1/2)
+
+[^key-c405523fa82634a1cac6e8bd4ebc1ca8]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/962/regulation/1/2) omitted (22.6.2016) by virtue of [The Energy Efficiency (Private Rented Property) (England and Wales) (Amendment) Regulations 2016 (S.I. 2016/660)](https://www.legislation.gov.uk/uksi/2016/660), [regs. 1](https://www.legislation.gov.uk/uksi/2016/660/regulation/1), [3(a)](https://www.legislation.gov.uk/uksi/2016/660/regulation/3/a)
+
+[^key-b4f060bb438f809074572a25e640639c]: Textual amendment: [Reg. 1(3)](https://www.legislation.gov.uk/uksi/2015/962/regulation/1/3) inserted (22.6.2016) by [The Energy Efficiency (Private Rented Property) (England and Wales) (Amendment) Regulations 2016 (S.I. 2016/660)](https://www.legislation.gov.uk/uksi/2016/660), [regs. 1](https://www.legislation.gov.uk/uksi/2016/660/regulation/1), [3(b)](https://www.legislation.gov.uk/uksi/2016/660/regulation/3/b)
+
+[^key-b96b0a17cfafb1858227ac0dcdd42d46]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2015/962/regulation/2) in force at 1.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/962/regulation/1/2)
+
+[^f00003]: Footnote: [S.I. 2010/2214](https://www.legislation.gov.uk/uksi/2010/2214), amended by S.I.s [2011/1515](https://www.legislation.gov.uk/uksi/2011/1515), [2012/718](https://www.legislation.gov.uk/uksi/2012/718), [2012/3119](https://www.legislation.gov.uk/uksi/2012/3119), [2013/10](https://www.legislation.gov.uk/uksi/2013/10), [2013/747](https://www.legislation.gov.uk/uksi/2013/747), [2014/110](https://www.legislation.gov.uk/uksi/2014/110) and [2014/579](https://www.legislation.gov.uk/uksi/2014/579).
+
+[^f00004]: Footnote: [S.I. 2013/3220](https://www.legislation.gov.uk/uksi/2013/3220). That is, the Secretary of State in relation to England, the Welsh Ministers in relation to Wales, and non-ministerial departments, and a body or office which is controlled and mainly financed by the Secretary of State or the Welsh Ministers.
+
+[^f00005]: Footnote: [S.I. 2012/3118](https://www.legislation.gov.uk/uksi/2012/3118), amended by S.I.s [2013/10](https://www.legislation.gov.uk/uksi/2013/10), [2013/181](https://www.legislation.gov.uk/uksi/2013/181), [2014/880](https://www.legislation.gov.uk/uksi/2014/880) and [2014/549](https://www.legislation.gov.uk/uksi/2014/549).
+
+[^f00006]: Footnote: [S.I. 2012/2079](https://www.legislation.gov.uk/uksi/2012/2079), amended by S.I.s [2012/3021](https://www.legislation.gov.uk/uksi/2012/3021), [2013/139](https://www.legislation.gov.uk/uksi/2013/139) and [2013/1881](https://www.legislation.gov.uk/uksi/2013/1881).
+
+[^f00007]: Footnote: [1986 c.44](https://www.legislation.gov.uk/ukpga/1986/44). Section 7(1) was substituted by section 5 of the Gas Act [1995 (c.45)](https://www.legislation.gov.uk/ukpga/1995/45), and amended by section 76(2) of the Utilities Act [2000 (c.27)](https://www.legislation.gov.uk/ukpga/2000/27).
+
+[^f00008]: Footnote: [2004 c.34](https://www.legislation.gov.uk/ukpga/2004/34). These are enforcement actions that may be taken by a local housing authority in relation to category 1 hazards and category 2 hazards. Section 11 provides for the service of improvement notices in respect of category 1 hazards, and section 12 provides for the service of improvement notices in respect of category 2 hazards.
+
+[^f00009]: Footnote: [2011 c.20](https://www.legislation.gov.uk/ukpga/2011/20).
+
+[^f00010]: Footnote: Section 5 was substituted by section 3 of the Gas Act 1995, and sub-section (1)(b) was amended by [S.I. 2012/2400](https://www.legislation.gov.uk/uksi/2012/2400).
+
+[^f00011]: Footnote: Section 10 was substituted by paragraph 4 of Schedule 3 to the Gas Act 1995, and sub-section (12) was amended by paragraph 2(1) of Schedule 6 to, and section 80(6) of, the Utilities Act 2000.
+
+[^f00012]: Footnote: The Royal Institution of Chartered Surveyors’ Building Conservation Accreditation Register can be accessed via their website: www.rics.org/uk/join/member-accreditations-list/building-conservation-accreditation/.
+
+[^f00013]: Footnote: The Architect Accredited in Building Conservation (“AABC”) register can be accessed via the AABC register website: www.aabc-register.co.uk/register.
+
+[^f00014]: Footnote: The Institution of Civil Engineers, and the Institution of Structural Engineers’ joint Conservation Accreditation Register for Engineers can be accessed via the Institution of Civil Engineers’ website: www.ice.org.uk/care/.
+
+[^f00015]: Footnote: The Chartered Institute of Architectural Technologists’ Directory of Accredited Conservationists can be accessed via their website: www.ciat.org.uk/en/members/conservation-register.cfm.
+
+[^f00016]: Footnote: [2006 c.46](https://www.legislation.gov.uk/ukpga/2006/46).
+
+[^f00017]: Footnote: The definition of service pipe was inserted by paragraph 54(1)(j) of Schedule 3 to the Gas Act 1995, and amended by paragraph 2(1) of Schedule 6 to the Utilities Act 2000.
+
+[^f00018]: Footnote: The Royal Institution of Chartered Surveyors’ register of valuers can be accessed via their website: www.rics.org/uk/join/member-accreditations/valuer-registration-scheme-vrs1/.
+
+[^f00019]: Footnote: [1990 c.8](https://www.legislation.gov.uk/ukpga/1990/8).
+
+[^f00020]: Footnote: [1990 c.9](https://www.legislation.gov.uk/ukpga/1990/9).
+
+[^key-07a6c074078278674c040194127df42f]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2015/962/regulation/2/1) omitted (4.11.2024) by virtue of [The Historic Environment (Wales) Act 2023 (Consequential Provision) (Secondary Legislation) Regulations 2024 (S.I. 2024/924)](https://www.legislation.gov.uk/wsi/2024/924), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2), [65(a)](https://www.legislation.gov.uk/wsi/2024/924/regulation/65/a)
+
+[^key-53c20d415d95dd4b1ccd39d259cd0628]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2015/962/regulation/2/1) inserted (4.11.2024) by [The Historic Environment (Wales) Act 2023 (Consequential Provision) (Secondary Legislation) Regulations 2024 (S.I. 2024/924)](https://www.legislation.gov.uk/wsi/2024/924), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2), [65(b)](https://www.legislation.gov.uk/wsi/2024/924/regulation/65/b)
+
+[^f00021]: Footnote: [1994 c.23](https://www.legislation.gov.uk/ukpga/1994/23).
+
+[^key-21dd580ffa704822a8605d984160c1a0]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2015/962/regulation/3) in force at 1.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/962/regulation/1/2)
+
+[^key-38af391928996b9cc9b9067a6d1539e7]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2015/962/regulation/4) in force at 1.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/962/regulation/1/2)
+
+[^key-0caf75d494df2b6102b186d7fe481d54]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2015/962/regulation/5) in force at 1.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/962/regulation/1/2)
+
+[^f00022]: Footnote: The Energy Efficiency (Domestic Private Rented Property) Order 2015 ([S.I. 2015/799](https://www.legislation.gov.uk/uksi/2015/799)) made under section 42(1)(a)(iii) specifies additional categories of tenancy for the purposes of section 42(1)(a) of the Act.
+
+[^key-8a31dc087df6678def037d297e8bbc2e]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2015/962/regulation/6) in force at 1.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/962/regulation/1/2)
+
+[^f00023]: Footnote: [S.I. 2012/2105](https://www.legislation.gov.uk/uksi/2012/2105), amended by [2014/2020](https://www.legislation.gov.uk/uksi/2014/2020).
+
+[^key-dfd5e147d759e3267f7571a5a1bba158]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2015/962/regulation/7) in force at 1.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/962/regulation/1/2)
+
+[^key-5c1bd12df67d3a07f27849621f20cc14]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2015/962/regulation/8) in force at 1.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/962/regulation/1/2)
+
+[^f00024]: Footnote: [1986 c.44](https://www.legislation.gov.uk/ukpga/1986/44). Section 33BC was substituted by section 99 of the Utilities Act 2000, and amended by section 15 of, and paragraphs 1 and 2 of the Schedule to, the Climate Change and Sustainable Energy Act [2006 (c.19)](https://www.legislation.gov.uk/ukpga/2006/19), by paragraph 1 of Schedule 8 to the Climate Change Act [2008 (c.27)](https://www.legislation.gov.uk/ukpga/2008/27), by section 66 of the Act, and by [S.I. 2014/631](https://www.legislation.gov.uk/uksi/2014/631). Section 33BD was inserted by section 68 of the Act.
+
+[^f00025]: Footnote: [1989 c.29](https://www.legislation.gov.uk/ukpga/1989/29). Section 41A was substituted by section 70 of the Utilities Act 2000, and amended by section 16 of, and paragraphs 4 and 5 of the Schedule to, the Climate Change and Sustainable Energy Act 2006, by paragraph 3 of Schedule 8 to the Climate Change Act 2008, by section 67 of, and paragraph 4 of Schedule 1 to, the Act, and by [S.I. 2014/631](https://www.legislation.gov.uk/uksi/2014/631). Section 41B was inserted by section 69 the Act.
+
+[^key-6053a4d245b850d3c0af2de8643faf13]: Commencement: Reg. 9 in force at 1.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/962/regulation/1/2)
+
+[^key-3b8605b9ee89c24a7f200cc2528af971]: Textual amendment: Words in reg. 9(1)(c)(i) omitted (1.5.2026) by virtue of [The Renters’ Rights Act 2025 (Consequential Amendments) and Tenancies (Miscellaneous Amendments) (England) Regulations 2026 (S.I. 2026/325)](https://www.legislation.gov.uk/uksi/2026/325), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/325/regulation/1/1), [9](https://www.legislation.gov.uk/uksi/2026/325/regulation/9) (with [reg. 12(1)](https://www.legislation.gov.uk/uksi/2026/325/regulation/12/1))
+
+[^f00026]: Footnote: [1988 c.50](https://www.legislation.gov.uk/ukpga/1988/50). Section 8 was amended by section 151 of the Housing Act [1996 (c.52)](https://www.legislation.gov.uk/ukpga/1996/52) and by section 97(2) of the Anti-social Behaviour, Crime and Policing Act [2014 (c.12)](https://www.legislation.gov.uk/ukpga/2014/12). Section 21 was amended by paragraph 103 of Schedule 11 to the Local Government and Housing Act [1989 (c.42)](https://www.legislation.gov.uk/ukpga/1989/42), by sections 98 and 99 of the Housing Act 1996, by paragraph 9 of Schedule 11 to the Housing and Regeneration Act [2008 (c.17)](https://www.legislation.gov.uk/ukpga/2008/17), by section 15(2) of the Anti-social Behaviour Act [2003 (c.38)](https://www.legislation.gov.uk/ukpga/2003/38), and by section 164 of the Localism Act 2011.
+
+[^key-41ed612321673111a852cba3ed12d9f0]: Textual amendment: Words in reg. 9(1)(c)(i) inserted (1.12.2022) by [The Renting Homes (Wales) Act 2016 (Consequential Amendments to Secondary Legislation) Regulations 2022 (S.I. 2022/907)](https://www.legislation.gov.uk/wsi/2022/907), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/907/regulation/1/2), [Sch. 1 para. 29](https://www.legislation.gov.uk/wsi/2022/907/schedule/1/paragraph/29)
+
+[^key-5bd8d784814b0b1de042af15741a56e8]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2015/962/regulation/10) in force at 1.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/962/regulation/1/2)
+
+[^f00027]: Footnote: [2004 c.34](https://www.legislation.gov.uk/ukpga/2004/34). These are enforcement actions that may be taken by a local housing authority in relation to category 1 hazards and category 2 hazards (as defined in section 2 of that Act). Section 20 provides for the service of prohibition orders in respect of category 1 hazards, section 21 provides for the service of prohibition orders in respect of category 2 hazards, and section 43 provides for the service of emergency prohibition orders in respect of category 1 hazards.
+
+[^f00028]: Footnote: [1985 c.68](https://www.legislation.gov.uk/ukpga/1985/68). These are demolition orders that may be made by a local housing authority in relation to category 1 hazards and category 2 hazards. Section 265 was substituted by section 46 of the Housing Act 2004.
+
+[^f00029]: Footnote: This is a declaration by a local housing authority that an area is a clearance area made, inter alia, as a result of the existence of category 1 or category 2 hazards. Section 289 was amended by paragraph 25 of Schedule 9, and paragraph 70 of Schedule 11 to, the Local Government and Housing Act 1989, and by section 47 of, and paragraph 19 of Schedule 15 and Schedule 16 to, the Housing Act 2004.
+
+[^f00030]: Footnote: That is, “(d) cavity wall insulation”, “(n) external wall insulation systems”, and “(v) internal wall insulation systems (for external walls)”.
+
+[^key-33b1a9c2525b7e50be3c9bc26ab13e42]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2015/962/regulation/11) in force at 1.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/962/regulation/1/2)
+
+[^key-dc2c15c8ea1a7b65db67d36ae09294dd]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2015/962/regulation/12) in force at 1.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/962/regulation/1/2)
+
+[^key-c9b60bda37fd75fe013b7eeab36c83b0]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2015/962/regulation/13) in force at 1.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/962/regulation/1/2)
+
+[^key-ee8acc5e752a00562c8cf7aa3ce1d767]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2015/962/regulation/14) in force at 1.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/962/regulation/1/2)
+
+[^key-62ad0246850d38f0f5ba309535703247]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2015/962/regulation/15) in force at 1.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/962/regulation/1/2)
+
+[^key-30291cb1d478d5d6b1501175d2aab24f]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2015/962/regulation/16) in force at 1.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/962/regulation/1/2)
+
+[^key-aabcc021b43ba355620c18947e20e8f9]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2015/962/regulation/17) in force at 1.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/962/regulation/1/2)
+
+[^key-94220f3cf56185773459c835e1d0e937]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2015/962/regulation/18) in force at 1.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/962/regulation/1/2)
+
+[^key-594473542b4e3833db33eba5e1cf163d]: Commencement: Reg. 19 in force at 1.4.2017 for specified purposes, see [reg. 1(3)(a)](https://www.legislation.gov.uk/uksi/2015/962/regulation/1/3/a) (as inserted by [S.I. 2016/660](https://www.legislation.gov.uk/uksi/2016/660), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2016/660/regulation/3/b))
+
+[^key-3cc7794f2727caf49a31eeacda712bf6]: Commencement: Reg. 19 in force at 1.10.2017 in so far as not already in force, see [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/2015/962/regulation/1/3/b) (as inserted by [S.I. 2016/660](https://www.legislation.gov.uk/uksi/2016/660), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2016/660/regulation/3/b))
+
+[^f00031]: Footnote: “Energy performance certificate” has the meaning given in sections 43(4) and 49(4) of the Act. That is, by virtue of section 42(3) of the Act, the meaning given in the Energy Performance of Buildings (Certificates and Inspections) (England and Wales) Regulations 2007 ([S.I. 2007/991](https://www.legislation.gov.uk/uksi/2007/991)). Those Regulations were revoked and replaced by the Energy Performance of Buildings (England and Wales) Regulations 2012, regulation 2(1) of which contains the definition of energy performance certificate.
+
+[^key-831860116f6a72526b5eb1fdf2100e0d]: Commencement: Reg. 20 in force at 1.4.2017 for specified purposes, see [reg. 1(3)(a)](https://www.legislation.gov.uk/uksi/2015/962/regulation/1/3/a) (as inserted by [S.I. 2016/660](https://www.legislation.gov.uk/uksi/2016/660), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2016/660/regulation/3/b))
+
+[^key-fd4916a786d61c010a75c64a34745f9b]: Commencement: Reg. 20 in force at 1.10.2017 in so far as not already in force, see [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/2015/962/regulation/1/3/b) (as inserted by [S.I. 2016/660](https://www.legislation.gov.uk/uksi/2016/660), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2016/660/regulation/3/b))
+
+[^key-07cf9d1433eeb8d67225d7c5b30454fe]: Commencement: Reg. 21 in force at 1.4.2017 for specified purposes, see [reg. 1(3)(a)](https://www.legislation.gov.uk/uksi/2015/962/regulation/1/3/a) (as inserted by [S.I. 2016/660](https://www.legislation.gov.uk/uksi/2016/660), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2016/660/regulation/3/b))
+
+[^key-278a286cfc0d14b45ddb49f242acdef8]: Commencement: Reg. 21 in force at 1.10.2017 in so far as not already in force, see [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/2015/962/regulation/1/3/b) (as inserted by [S.I. 2016/660](https://www.legislation.gov.uk/uksi/2016/660), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2016/660/regulation/3/b))
+
+[^key-00937878ca0c82c575012e83c2a19c64]: Commencement: Reg. 22 in force at 1.4.2017 for specified purposes, see [reg. 1(3)(a)](https://www.legislation.gov.uk/uksi/2015/962/regulation/1/3/a) (as inserted by [S.I. 2016/660](https://www.legislation.gov.uk/uksi/2016/660), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2016/660/regulation/3/b))
+
+[^key-635e18cf2576e3e2b8a18a34aee2ac31]: Commencement: Reg. 22 in force at 1.10.2017 in so far as not already in force, see [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/2015/962/regulation/1/3/b) (as inserted by [S.I. 2016/660](https://www.legislation.gov.uk/uksi/2016/660), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2016/660/regulation/3/b))
+
+[^key-c8879470928894dda4146713ec121027]: Commencement: Reg. 23 in force at 1.4.2017 for specified purposes, see [reg. 1(3)(a)](https://www.legislation.gov.uk/uksi/2015/962/regulation/1/3/a) (as inserted by [S.I. 2016/660](https://www.legislation.gov.uk/uksi/2016/660), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2016/660/regulation/3/b))
+
+[^key-5f1575190f6094d7827dee62de819a3e]: Commencement: Reg. 23 in force at 1.10.2017 in so far as not already in force, see [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/2015/962/regulation/1/3/b) (as inserted by [S.I. 2016/660](https://www.legislation.gov.uk/uksi/2016/660), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2016/660/regulation/3/b))
+
+[^key-8a526e56f0ecdbe37aa4e162cdda152c]: Commencement: Reg. 24 in force at 1.4.2017 for specified purposes, see [reg. 1(3)(a)](https://www.legislation.gov.uk/uksi/2015/962/regulation/1/3/a) (as inserted by [S.I. 2016/660](https://www.legislation.gov.uk/uksi/2016/660), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2016/660/regulation/3/b))
+
+[^key-5e55f342cc96cf8029c987512b3ece30]: Commencement: Reg. 24 in force at 1.10.2017 in so far as not already in force, see [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/2015/962/regulation/1/3/b) (as inserted by [S.I. 2016/660](https://www.legislation.gov.uk/uksi/2016/660), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2016/660/regulation/3/b))
+
+[^key-0b4bb3c7f09f0c3542345efd899516ac]: Textual amendment: Words in [reg. 24(3)](https://www.legislation.gov.uk/uksi/2015/962/regulation/24/3) inserted (1.4.2019) by [The Energy Efficiency (Private Rented Property) (England and Wales) (Amendment) Regulations 2019 (S.I. 2019/595)](https://www.legislation.gov.uk/uksi/2019/595), [regs. 1](https://www.legislation.gov.uk/uksi/2019/595/regulation/1), [3](https://www.legislation.gov.uk/uksi/2019/595/regulation/3)
+
+[^key-cafaa37ba07ce4d36017e595d0e1eeea]: Textual amendment: Word in [reg. 24(3)(a)](https://www.legislation.gov.uk/uksi/2015/962/regulation/24/3/a) omitted (1.4.2019) by virtue of [The Energy Efficiency (Private Rented Property) (England and Wales) (Amendment) Regulations 2019 (S.I. 2019/595)](https://www.legislation.gov.uk/uksi/2019/595), [regs. 1](https://www.legislation.gov.uk/uksi/2019/595/regulation/1), [4](https://www.legislation.gov.uk/uksi/2019/595/regulation/4)
+
+[^key-c11f019ec836a2e2c295e38d1f23d306]: Textual amendment: [Reg. 24(3)(c)](https://www.legislation.gov.uk/uksi/2015/962/regulation/24/3/c)[(d)](https://www.legislation.gov.uk/uksi/2015/962/regulation/24/3/d) inserted (1.4.2019) by [The Energy Efficiency (Private Rented Property) (England and Wales) (Amendment) Regulations 2019 (S.I. 2019/595)](https://www.legislation.gov.uk/uksi/2019/595), [regs. 1](https://www.legislation.gov.uk/uksi/2019/595/regulation/1), [5](https://www.legislation.gov.uk/uksi/2019/595/regulation/5)
+
+[^key-a04d8e3a1eb9e964ff4f491f4d3df3f7]: Textual amendment: [Reg. 24(4)](https://www.legislation.gov.uk/uksi/2015/962/regulation/24/4)[(5)](https://www.legislation.gov.uk/uksi/2015/962/regulation/24/5) inserted (1.4.2019) by [The Energy Efficiency (Private Rented Property) (England and Wales) (Amendment) Regulations 2019 (S.I. 2019/595)](https://www.legislation.gov.uk/uksi/2019/595), [regs. 1](https://www.legislation.gov.uk/uksi/2019/595/regulation/1), [6](https://www.legislation.gov.uk/uksi/2019/595/regulation/6)
+
+[^key-179207c6ff2e2ac0c4df59edca513c6a]: Commencement: Reg. 25 in force at 1.4.2017 for specified purposes, see [reg. 1(3)(a)](https://www.legislation.gov.uk/uksi/2015/962/regulation/1/3/a) (as inserted by [S.I. 2016/660](https://www.legislation.gov.uk/uksi/2016/660), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2016/660/regulation/3/b))
+
+[^key-89d64b836ec05efb47cbfe4568675229]: Commencement: Reg. 25 in force at 1.10.2017 in so far as not already in force, see [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/2015/962/regulation/1/3/b) (as inserted by [S.I. 2016/660](https://www.legislation.gov.uk/uksi/2016/660), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2016/660/regulation/3/b))
+
+[^key-604e85095558545167459cb0b216d17c]: Textual amendment: Words in [reg. 25(1)](https://www.legislation.gov.uk/uksi/2015/962/regulation/25/1) substituted (1.4.2019) by [The Energy Efficiency (Private Rented Property) (England and Wales) (Amendment) Regulations 2019 (S.I. 2019/595)](https://www.legislation.gov.uk/uksi/2019/595), [regs. 1](https://www.legislation.gov.uk/uksi/2019/595/regulation/1), [7](https://www.legislation.gov.uk/uksi/2019/595/regulation/7)
+
+[^key-9a3559071f872b5f3f85083677ee342c]: Textual amendment: Words in [reg. 25(2)](https://www.legislation.gov.uk/uksi/2015/962/regulation/25/2) substituted (1.4.2019) by [The Energy Efficiency (Private Rented Property) (England and Wales) (Amendment) Regulations 2019 (S.I. 2019/595)](https://www.legislation.gov.uk/uksi/2019/595), [regs. 1](https://www.legislation.gov.uk/uksi/2019/595/regulation/1), [8](https://www.legislation.gov.uk/uksi/2019/595/regulation/8)
+
+[^key-78bb56a077d38db37271d530d19e93af]: Textual amendment: [Reg. 25(3)](https://www.legislation.gov.uk/uksi/2015/962/regulation/25/3) inserted (1.4.2019) by [The Energy Efficiency (Private Rented Property) (England and Wales) (Amendment) Regulations 2019 (S.I. 2019/595)](https://www.legislation.gov.uk/uksi/2019/595), [regs. 1](https://www.legislation.gov.uk/uksi/2019/595/regulation/1), [9](https://www.legislation.gov.uk/uksi/2019/595/regulation/9)
+
+[^key-b81f7303b360f1b970ff14c0e59fe083]: Commencement: Reg. 26 in force at 1.4.2017 for specified purposes, see [reg. 1(3)(a)](https://www.legislation.gov.uk/uksi/2015/962/regulation/1/3/a) (as inserted by [S.I. 2016/660](https://www.legislation.gov.uk/uksi/2016/660), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2016/660/regulation/3/b))
+
+[^key-bfefdadd1ffceeabb72ee2ccadc04aa3]: Commencement: Reg. 26 in force at 1.10.2017 in so far as not already in force, see [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/2015/962/regulation/1/3/b) (as inserted by [S.I. 2016/660](https://www.legislation.gov.uk/uksi/2016/660), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2016/660/regulation/3/b))
+
+[^key-31415334ce805b1778bcfe3e92cd87f6]: Commencement: Reg. 27 in force at 1.4.2017 for specified purposes, see [reg. 1(3)(a)](https://www.legislation.gov.uk/uksi/2015/962/regulation/1/3/a) (as inserted by [S.I. 2016/660](https://www.legislation.gov.uk/uksi/2016/660), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2016/660/regulation/3/b))
+
+[^key-5aace46114dd62df88e977a458e3fb99]: Commencement: Reg. 27 in force at 1.10.2017 in so far as not already in force, see [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/2015/962/regulation/1/3/b) (as inserted by [S.I. 2016/660](https://www.legislation.gov.uk/uksi/2016/660), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2016/660/regulation/3/b))
+
+[^key-973ec7aa87afea4e116b347a7bcdb3a7]: Commencement: Reg. 28 in force at 1.4.2017 for specified purposes, see [reg. 1(3)(a)](https://www.legislation.gov.uk/uksi/2015/962/regulation/1/3/a) (as inserted by [S.I. 2016/660](https://www.legislation.gov.uk/uksi/2016/660), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2016/660/regulation/3/b))
+
+[^key-59d36b36d426b09ac4544bfe5ba7960a]: Commencement: Reg. 28 in force at 1.10.2017 in so far as not already in force, see [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/2015/962/regulation/1/3/b) (as inserted by [S.I. 2016/660](https://www.legislation.gov.uk/uksi/2016/660), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2016/660/regulation/3/b))
+
+[^f00032]: Footnote: “Building Regulations Approved Document L2B: Conservation of fuel and power in existing buildings other than dwellings” ISBN 978 1 85946 327 7, published in December 2010.
+
+[^f00033]: Footnote: The Monetary Policy Committee was constituted on a statutory basis by section 13 of the Bank of England Act [1998 (c.11)](https://www.legislation.gov.uk/ukpga/1998/11).
+
+[^key-f649ac001a29aa49dfa080b1859f8761]: Commencement: Reg. 29 in force at 1.4.2017 for specified purposes, see [reg. 1(3)(a)](https://www.legislation.gov.uk/uksi/2015/962/regulation/1/3/a) (as inserted by [S.I. 2016/660](https://www.legislation.gov.uk/uksi/2016/660), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2016/660/regulation/3/b))
+
+[^key-c3cb7630ef7b0d94dd100ba93fc95874]: Commencement: Reg. 29 in force at 1.10.2017 in so far as not already in force, see [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/2015/962/regulation/1/3/b) (as inserted by [S.I. 2016/660](https://www.legislation.gov.uk/uksi/2016/660), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2016/660/regulation/3/b))
+
+[^key-04f9c8872fa4b3eff05f34a0fe7fbe19]: Commencement: Reg. 30 in force at 1.4.2017 for specified purposes, see [reg. 1(3)(a)](https://www.legislation.gov.uk/uksi/2015/962/regulation/1/3/a) (as inserted by [S.I. 2016/660](https://www.legislation.gov.uk/uksi/2016/660), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2016/660/regulation/3/b))
+
+[^key-1ed4b0a471fd6b30f1f5bbfdb606b776]: Commencement: Reg. 30 in force at 1.10.2017 in so far as not already in force, see [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/2015/962/regulation/1/3/b) (as inserted by [S.I. 2016/660](https://www.legislation.gov.uk/uksi/2016/660), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2016/660/regulation/3/b))
+
+[^key-53b95e8b10db7a1302248b854f94c950]: Commencement: Reg. 31 in force at 1.4.2017 for specified purposes, see [reg. 1(3)(a)](https://www.legislation.gov.uk/uksi/2015/962/regulation/1/3/a) (as inserted by [S.I. 2016/660](https://www.legislation.gov.uk/uksi/2016/660), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2016/660/regulation/3/b))
+
+[^key-1a70be9225ad67fe26b74cdfdd5227a3]: Commencement: Reg. 31 in force at 1.10.2017 in so far as not already in force, see [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/2015/962/regulation/1/3/b) (as inserted by [S.I. 2016/660](https://www.legislation.gov.uk/uksi/2016/660), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2016/660/regulation/3/b))
+
+[^key-c0ac600f2b47622aea9e7c00c37d731f]: Textual amendment: Words in [reg. 31(1)](https://www.legislation.gov.uk/uksi/2015/962/regulation/31/1) substituted (1.4.2019) by [The Energy Efficiency (Private Rented Property) (England and Wales) (Amendment) Regulations 2019 (S.I. 2019/595)](https://www.legislation.gov.uk/uksi/2019/595), [regs. 1](https://www.legislation.gov.uk/uksi/2019/595/regulation/1), [10](https://www.legislation.gov.uk/uksi/2019/595/regulation/10)
+
+[^key-60ab9a023e573667323a2cbd27e222f8]: Textual amendment: [Reg. 31(1A)](https://www.legislation.gov.uk/uksi/2015/962/regulation/31/1A) inserted (1.4.2019) by [The Energy Efficiency (Private Rented Property) (England and Wales) (Amendment) Regulations 2019 (S.I. 2019/595)](https://www.legislation.gov.uk/uksi/2019/595), [regs. 1](https://www.legislation.gov.uk/uksi/2019/595/regulation/1), [11](https://www.legislation.gov.uk/uksi/2019/595/regulation/11)
+
+[^key-5c47740ad5dcb473d51190dd4b34ea6b]: Textual amendment: Words in [reg. 31(2)](https://www.legislation.gov.uk/uksi/2015/962/regulation/31/2) inserted (1.4.2019) by [The Energy Efficiency (Private Rented Property) (England and Wales) (Amendment) Regulations 2019 (S.I. 2019/595)](https://www.legislation.gov.uk/uksi/2019/595), [regs. 1](https://www.legislation.gov.uk/uksi/2019/595/regulation/1), [12](https://www.legislation.gov.uk/uksi/2019/595/regulation/12)
+
+[^key-b5676e3d7932771309a5caeb00fa84ef]: Textual amendment: [Reg. 31(3)](https://www.legislation.gov.uk/uksi/2015/962/regulation/31/3) inserted (1.4.2019) by [The Energy Efficiency (Private Rented Property) (England and Wales) (Amendment) Regulations 2019 (S.I. 2019/595)](https://www.legislation.gov.uk/uksi/2019/595), [regs. 1](https://www.legislation.gov.uk/uksi/2019/595/regulation/1), [13](https://www.legislation.gov.uk/uksi/2019/595/regulation/13)
+
+[^key-50d6200c1efe8f9cb2c8d0dcef859ce3]: Commencement: Reg. 32 in force at 1.4.2017 for specified purposes, see [reg. 1(3)(a)](https://www.legislation.gov.uk/uksi/2015/962/regulation/1/3/a) (as inserted by [S.I. 2016/660](https://www.legislation.gov.uk/uksi/2016/660), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2016/660/regulation/3/b))
+
+[^key-548956b4b66e13187686ff667ac75a73]: Commencement: Reg. 32 in force at 1.10.2017 in so far as not already in force, see [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/2015/962/regulation/1/3/b) (as inserted by [S.I. 2016/660](https://www.legislation.gov.uk/uksi/2016/660), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2016/660/regulation/3/b))
+
+[^key-4fcc41c2e5b209433748a79016ec4483]: Commencement: Reg. 33 in force at 1.4.2017 for specified purposes, see [reg. 1(3)(a)](https://www.legislation.gov.uk/uksi/2015/962/regulation/1/3/a) (as inserted by [S.I. 2016/660](https://www.legislation.gov.uk/uksi/2016/660), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2016/660/regulation/3/b))
+
+[^key-089546489c18747941b1d10192ecdcee]: Commencement: Reg. 33 in force at 1.10.2017 in so far as not already in force, see [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/2015/962/regulation/1/3/b) (as inserted by [S.I. 2016/660](https://www.legislation.gov.uk/uksi/2016/660), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2016/660/regulation/3/b))
+
+[^f00034]: Footnote: [1995 c.30](https://www.legislation.gov.uk/ukpga/1995/30).
+
+[^f00035]: Footnote: [1954 c.56](https://www.legislation.gov.uk/ukpga/1954/56).
+
+[^key-a71adf7d342a0dddfa518eb7b38ded6e]: Commencement: Reg. 34 in force at 1.4.2017 for specified purposes, see [reg. 1(3)(a)](https://www.legislation.gov.uk/uksi/2015/962/regulation/1/3/a) (as inserted by [S.I. 2016/660](https://www.legislation.gov.uk/uksi/2016/660), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2016/660/regulation/3/b))
+
+[^key-5e6d5748e93de187da5e18660fb13a40]: Commencement: Reg. 34 in force at 1.10.2017 in so far as not already in force, see [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/2015/962/regulation/1/3/b) (as inserted by [S.I. 2016/660](https://www.legislation.gov.uk/uksi/2016/660), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2016/660/regulation/3/b))
+
+[^f00036]: Footnote: A local weights and measures authority is defined in section 69(1) and (2) of the Weights and Measures Act [1985 (c.72)](https://www.legislation.gov.uk/ukpga/1985/72). Section 69(2) was amended by paragraph 75 of Schedule 16 to the Local Government (Wales) Act [1994 (c.19)](https://www.legislation.gov.uk/ukpga/1994/19).
+
+[^key-596cdcf16d4549fd1c310b7260da4c6c]: Commencement: Reg. 35 in force at 1.4.2017 for specified purposes, see [reg. 1(3)(a)](https://www.legislation.gov.uk/uksi/2015/962/regulation/1/3/a) (as inserted by [S.I. 2016/660](https://www.legislation.gov.uk/uksi/2016/660), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2016/660/regulation/3/b))
+
+[^key-052fc54bb6b68d5d473d7c26acd6ee17]: Commencement: Reg. 35 in force at 1.10.2017 in so far as not already in force, see [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/2015/962/regulation/1/3/b) (as inserted by [S.I. 2016/660](https://www.legislation.gov.uk/uksi/2016/660), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2016/660/regulation/3/b))
+
+[^key-660f4a1bef3a96f2e4c89a78da2cb6e2]: Commencement: Reg. 36 in force at 1.4.2017 for specified purposes, see [reg. 1(3)(a)](https://www.legislation.gov.uk/uksi/2015/962/regulation/1/3/a) (as inserted by [S.I. 2016/660](https://www.legislation.gov.uk/uksi/2016/660), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2016/660/regulation/3/b))
+
+[^key-acc1927eb74dde6776386c07190421db]: Commencement: Reg. 36 in force at 1.10.2017 in so far as not already in force, see [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/2015/962/regulation/1/3/b) (as inserted by [S.I. 2016/660](https://www.legislation.gov.uk/uksi/2016/660), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2016/660/regulation/3/b))
+
+[^key-f3ca307c46fbbffb215ff7011bb504e2]: Textual amendment: Words in [reg. 36(2)(e)](https://www.legislation.gov.uk/uksi/2015/962/regulation/36/2/e) inserted (1.4.2019) by [The Energy Efficiency (Private Rented Property) (England and Wales) (Amendment) Regulations 2019 (S.I. 2019/595)](https://www.legislation.gov.uk/uksi/2019/595), [regs. 1](https://www.legislation.gov.uk/uksi/2019/595/regulation/1), [14](https://www.legislation.gov.uk/uksi/2019/595/regulation/14)
+
+[^key-0b34f85c5cf6ead6d1da53d9d8309d77]: Commencement: Reg. 37 in force at 1.4.2017 for specified purposes, see [reg. 1(3)(a)](https://www.legislation.gov.uk/uksi/2015/962/regulation/1/3/a) (as inserted by [S.I. 2016/660](https://www.legislation.gov.uk/uksi/2016/660), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2016/660/regulation/3/b))
+
+[^key-c6b3df4b6f4fba70c34a3487355344e4]: Commencement: Reg. 37 in force at 1.10.2017 in so far as not already in force, see [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/2015/962/regulation/1/3/b) (as inserted by [S.I. 2016/660](https://www.legislation.gov.uk/uksi/2016/660), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2016/660/regulation/3/b))
+
+[^key-b4d8f4f5b0d68a8882e987513b132f6b]: Commencement: Reg. 38 in force at 1.4.2017 for specified purposes, see [reg. 1(3)(a)](https://www.legislation.gov.uk/uksi/2015/962/regulation/1/3/a) (as inserted by [S.I. 2016/660](https://www.legislation.gov.uk/uksi/2016/660), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2016/660/regulation/3/b))
+
+[^key-f874c24c8cb4f1ad696acf914fbe5f00]: Commencement: Reg. 38 in force at 1.10.2017 in so far as not already in force, see [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/2015/962/regulation/1/3/b) (as inserted by [S.I. 2016/660](https://www.legislation.gov.uk/uksi/2016/660), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2016/660/regulation/3/b))
+
+[^key-15173785aeecbca1bf58ecaa80b60b3a]: Commencement: Reg. 39 in force at 1.4.2017 for specified purposes, see [reg. 1(3)(a)](https://www.legislation.gov.uk/uksi/2015/962/regulation/1/3/a) (as inserted by [S.I. 2016/660](https://www.legislation.gov.uk/uksi/2016/660), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2016/660/regulation/3/b))
+
+[^key-d446309c059d410306bda059d8e107b9]: Commencement: Reg. 39 in force at 1.10.2017 in so far as not already in force, see [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/2015/962/regulation/1/3/b) (as inserted by [S.I. 2016/660](https://www.legislation.gov.uk/uksi/2016/660), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2016/660/regulation/3/b))
+
+[^key-6d45f41edf209c82d34e266570da71f1]: Commencement: Reg. 40 in force at 1.4.2017 for specified purposes, see [reg. 1(3)(a)](https://www.legislation.gov.uk/uksi/2015/962/regulation/1/3/a) (as inserted by [S.I. 2016/660](https://www.legislation.gov.uk/uksi/2016/660), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2016/660/regulation/3/b))
+
+[^key-28cf5d15af423b99db1a4479cc1283f7]: Commencement: Reg. 40 in force at 1.10.2017 in so far as not already in force, see [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/2015/962/regulation/1/3/b) (as inserted by [S.I. 2016/660](https://www.legislation.gov.uk/uksi/2016/660), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2016/660/regulation/3/b))
+
+[^key-7eea407e8110dc2d0fa32aae057360be]: Commencement: Reg. 41 in force at 1.4.2017 for specified purposes, see [reg. 1(3)(a)](https://www.legislation.gov.uk/uksi/2015/962/regulation/1/3/a) (as inserted by [S.I. 2016/660](https://www.legislation.gov.uk/uksi/2016/660), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2016/660/regulation/3/b))
+
+[^key-a7d99eeb9cbb1b911fbf8811d62460dd]: Commencement: Reg. 41 in force at 1.10.2017 in so far as not already in force, see [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/2015/962/regulation/1/3/b) (as inserted by [S.I. 2016/660](https://www.legislation.gov.uk/uksi/2016/660), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2016/660/regulation/3/b))
+
+[^key-8b81ac07110454b942d64398f6b09b33]: Textual amendment: Words in [reg. 41(5)](https://www.legislation.gov.uk/uksi/2015/962/regulation/41/5) substituted (16.11.2024) by [The Local Government Finance (Consequential and Miscellaneous Amendments and Revocations) (Secondary Legislation) (Wales) Regulations 2024 (S.I. 2024/998)](https://www.legislation.gov.uk/wsi/2024/998), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2024/998/regulation/1/3), [17](https://www.legislation.gov.uk/wsi/2024/998/regulation/17)
+
+[^key-81834f11e2f242212ad6ebf418daff47]: Commencement: Reg. 42 in force at 1.4.2017 for specified purposes, see [reg. 1(3)(a)](https://www.legislation.gov.uk/uksi/2015/962/regulation/1/3/a) (as inserted by [S.I. 2016/660](https://www.legislation.gov.uk/uksi/2016/660), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2016/660/regulation/3/b))
+
+[^key-135c0423627628699976e346f6278d70]: Commencement: Reg. 42 in force at 1.10.2017 in so far as not already in force, see [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/2015/962/regulation/1/3/b) (as inserted by [S.I. 2016/660](https://www.legislation.gov.uk/uksi/2016/660), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2016/660/regulation/3/b))
+
+[^key-b12d3276975019c4186c50906665e5df]: Commencement: Reg. 43 in force at 1.4.2017 for specified purposes, see [reg. 1(3)(a)](https://www.legislation.gov.uk/uksi/2015/962/regulation/1/3/a) (as inserted by [S.I. 2016/660](https://www.legislation.gov.uk/uksi/2016/660), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2016/660/regulation/3/b))
+
+[^key-6c00b8ba4af18dd3e8c8b1eaca7079ef]: Commencement: Reg. 43 in force at 1.10.2017 in so far as not already in force, see [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/2015/962/regulation/1/3/b) (as inserted by [S.I. 2016/660](https://www.legislation.gov.uk/uksi/2016/660), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2016/660/regulation/3/b))
+
+[^key-d5e8007a68f2ea8f8e5f97d64bf56798]: Commencement: Reg. 44 in force at 1.4.2017 for specified purposes, see [reg. 1(3)(a)](https://www.legislation.gov.uk/uksi/2015/962/regulation/1/3/a) (as inserted by [S.I. 2016/660](https://www.legislation.gov.uk/uksi/2016/660), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2016/660/regulation/3/b))
+
+[^key-6141e106d4a39e3d9edb75cf91c89abf]: Commencement: Reg. 44 in force at 1.10.2017 in so far as not already in force, see [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/2015/962/regulation/1/3/b) (as inserted by [S.I. 2016/660](https://www.legislation.gov.uk/uksi/2016/660), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2016/660/regulation/3/b))
+
+[^key-8249be2fb54cec4ac7bfec7e06bbfe4a]: Commencement: Reg. 45 in force at 1.4.2017 for specified purposes, see [reg. 1(3)(a)](https://www.legislation.gov.uk/uksi/2015/962/regulation/1/3/a) (as inserted by [S.I. 2016/660](https://www.legislation.gov.uk/uksi/2016/660), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2016/660/regulation/3/b))
+
+[^key-a93edde5619f21bccea8dd838e95cf4b]: Commencement: Reg. 45 in force at 1.10.2017 in so far as not already in force, see [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/2015/962/regulation/1/3/b) (as inserted by [S.I. 2016/660](https://www.legislation.gov.uk/uksi/2016/660), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2016/660/regulation/3/b))
+
+[^key-f0504e29b81152f96e5f0757c7a3c391]: Commencement: Sch. para. 1 in force at 1.4.2017 for specified purposes, see [reg. 1(3)(a)](https://www.legislation.gov.uk/uksi/2015/962/regulation/1/3/a) (as inserted by [S.I. 2016/660](https://www.legislation.gov.uk/uksi/2016/660), [regs. 1](https://www.legislation.gov.uk/uksi/2016/660/regulation/1), [3(b)](https://www.legislation.gov.uk/uksi/2016/660/regulation/3/b))
+
+[^key-9c2408338be587aeaef52c86c8f3b3cb]: Commencement: Sch. para. 1 in force at 1.10.2017 in so far as not already in force, see [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/2015/962/regulation/1/3/b) (as inserted by [S.I. 2016/660](https://www.legislation.gov.uk/uksi/2016/660), [regs. 1](https://www.legislation.gov.uk/uksi/2016/660/regulation/1), [3(b)](https://www.legislation.gov.uk/uksi/2016/660/regulation/3/b))
+
+[^key-bf56fdde20f65e9f8727b89963b904af]: Textual amendment: Words in [Sch. para. 1(h)](https://www.legislation.gov.uk/uksi/2015/962/schedule/paragraph/1/h) inserted (1.4.2019) by [The Energy Efficiency (Private Rented Property) (England and Wales) (Amendment) Regulations 2019 (S.I. 2019/595)](https://www.legislation.gov.uk/uksi/2019/595), [regs. 1](https://www.legislation.gov.uk/uksi/2019/595/regulation/1), [15(a)](https://www.legislation.gov.uk/uksi/2019/595/regulation/15/a)
+
+[^key-023ad68d60a4f2281fb54293073578f4]: Textual amendment: Words in [Sch. para. 1(h)](https://www.legislation.gov.uk/uksi/2015/962/schedule/paragraph/1/h) inserted (1.4.2019) by [The Energy Efficiency (Private Rented Property) (England and Wales) (Amendment) Regulations 2019 (S.I. 2019/595)](https://www.legislation.gov.uk/uksi/2019/595), [regs. 1](https://www.legislation.gov.uk/uksi/2019/595/regulation/1), [15(b)](https://www.legislation.gov.uk/uksi/2019/595/regulation/15/b)
+
+[^key-af6060296317267e4e7b2e61a0c670fe]: Textual amendment: [Sch. para. 1A](https://www.legislation.gov.uk/uksi/2015/962/schedule/paragraph/1A) inserted (1.4.2019) by [The Energy Efficiency (Private Rented Property) (England and Wales) (Amendment) Regulations 2019 (S.I. 2019/595)](https://www.legislation.gov.uk/uksi/2019/595), [regs. 1](https://www.legislation.gov.uk/uksi/2019/595/regulation/1), [16](https://www.legislation.gov.uk/uksi/2019/595/regulation/16)
+
+[^key-e0762c485568ca334581dd691ac585cf]: Commencement: Sch. para. 2 in force at 1.4.2017 for specified purposes, see [reg. 1(3)(a)](https://www.legislation.gov.uk/uksi/2015/962/regulation/1/3/a) (as inserted by [S.I. 2016/660](https://www.legislation.gov.uk/uksi/2016/660), [regs. 1](https://www.legislation.gov.uk/uksi/2016/660/regulation/1), [3(b)](https://www.legislation.gov.uk/uksi/2016/660/regulation/3/b))
+
+[^key-0eee82ea49b6659186a293a09743e104]: Commencement: Sch. para. 2 in force at 1.10.2017 in so far as not already in force, see [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/2015/962/regulation/1/3/b) (as inserted by [S.I. 2016/660](https://www.legislation.gov.uk/uksi/2016/660), [regs. 1](https://www.legislation.gov.uk/uksi/2016/660/regulation/1), [3(b)](https://www.legislation.gov.uk/uksi/2016/660/regulation/3/b))
+
+[^key-1b858070ea9b17f2587099298edbb832]: Textual amendment: Words in [Sch. para. 2(1)](https://www.legislation.gov.uk/uksi/2015/962/schedule/paragraph/2/1) inserted (1.4.2019) by [The Energy Efficiency (Private Rented Property) (England and Wales) (Amendment) Regulations 2019 (S.I. 2019/595)](https://www.legislation.gov.uk/uksi/2019/595), [regs. 1](https://www.legislation.gov.uk/uksi/2019/595/regulation/1), [17(a)](https://www.legislation.gov.uk/uksi/2019/595/regulation/17/a)
+
+[^key-344292ed241eb5e3a43d2532c91b7b10]: Textual amendment: Words in [Sch. para. 2(1)(c)](https://www.legislation.gov.uk/uksi/2015/962/schedule/paragraph/2/1/c) inserted (1.4.2019) by [The Energy Efficiency (Private Rented Property) (England and Wales) (Amendment) Regulations 2019 (S.I. 2019/595)](https://www.legislation.gov.uk/uksi/2019/595), [regs. 1](https://www.legislation.gov.uk/uksi/2019/595/regulation/1), [17(b)](https://www.legislation.gov.uk/uksi/2019/595/regulation/17/b)
+
+[^key-110efb2b4bd16924be0fc1659f42ecfd]: Textual amendment: Words in [Sch. para. 2(1)(e)](https://www.legislation.gov.uk/uksi/2015/962/schedule/paragraph/2/1/e) inserted (1.4.2019) by [The Energy Efficiency (Private Rented Property) (England and Wales) (Amendment) Regulations 2019 (S.I. 2019/595)](https://www.legislation.gov.uk/uksi/2019/595), [regs. 1](https://www.legislation.gov.uk/uksi/2019/595/regulation/1), [17(a)](https://www.legislation.gov.uk/uksi/2019/595/regulation/17/a)
+
+[^key-7d7313c39365b6dae778e443ea5a888b]: Commencement: Sch. para. 3 in force at 1.4.2017 for specified purposes, see [reg. 1(3)(a)](https://www.legislation.gov.uk/uksi/2015/962/regulation/1/3/a) (as inserted by [S.I. 2016/660](https://www.legislation.gov.uk/uksi/2016/660), [regs. 1](https://www.legislation.gov.uk/uksi/2016/660/regulation/1), [3(b)](https://www.legislation.gov.uk/uksi/2016/660/regulation/3/b))
+
+[^key-bc01af19490ae3b8b85fa16dfca4daab]: Commencement: Sch. para. 3 in force at 1.10.2017 in so far as not already in force, see [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/2015/962/regulation/1/3/b) (as inserted by [S.I. 2016/660](https://www.legislation.gov.uk/uksi/2016/660), [regs. 1](https://www.legislation.gov.uk/uksi/2016/660/regulation/1), [3(b)](https://www.legislation.gov.uk/uksi/2016/660/regulation/3/b))

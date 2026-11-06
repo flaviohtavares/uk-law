@@ -1,0 +1,92 @@
+---
+title: Border Security, Asylum and Immigration Act 2025, section 31
+act: Border Security, Asylum and Immigration Act 2025
+section: '31'
+status: revised
+text_date: '2026-10-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2025/31/section/31
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Border Security, Asylum and Immigration Act 2025, section 31
+
+> Text as at 2026-10-01.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 31. Use and disclosure of information supplied under section 30[^key-93f13397531c92c319c6869b098e15e5][^key-403def6cf7d7a8a890d94a4b7820d181]
+
+*Extent: E+W+S+N.I.*
+
+(1) Subject to the following provisions of this section, a person who receives information under section 30(1)—
+
+- (a) may use it only for the purposes for which it was supplied, and
+- (b) may not further disclose it without the consent of the Commissioners for His Majesty’s Revenue and Customs (which may be general or specific).
+
+(2) Information supplied under subsection (1) of section 30 to a person within subsection (3)(a) to (f) of that section for use for the purposes of particular functions of that person may be used by them for the purposes of any of their other functions.
+
+(3) A person to whom this subsection applies may supply information received under section 30(1) to another person (“**B**”) to whom this subsection applies for use for the purposes of any of B’s functions.
+
+(4) Subsection (3) applies to—
+
+- (a) the Secretary of State for the Home Department, and
+- (b) a person within subsection (3)(b) to (e) of section 30.
+
+(5) If at any time the Secretary of State by whom general customs functions are exercisable is not the Secretary of State for the Home Department, subsection (4) is to be read at that time as if it included a reference to the Secretary of State by whom general customs functions are exercisable.
+
+(6) Information that has been supplied under section 30(1) or subsection (3) of this section to a person mentioned in section 30(3)(b) to (e) is to be treated for the purposes of subsections (7) to (10) of this section as also having been supplied to that person under section 30(1) in their capacity as an official of the Secretary of State.
+
+(7) A person within subsection (3)(a) or (f) of section 30 may, to the extent that this is not otherwise permitted by subsection (3) of this section, supply information received under subsection (1) of section 30 to a person within subsection (3)(a) to (f) of that section for use for any of the following purposes—
+
+- (a) any purpose for which the information was supplied under subsection (1) of that section;
+- (b) immigration purposes;
+- (c) the purposes of exercising a customs function;
+- (d) the law enforcement purposes;
+- (e) human welfare purposes;
+- (f) safeguarding national security;
+- (g) purposes connected with—
+  - (i) a criminal investigation, or
+  - (ii) civil or criminal proceedings,
+
+  (including investigations and proceedings outside the United Kingdom).
+
+(8) The Secretary of State by whom immigration and nationality functions are exercisable may supply information received under section 30(1) to any person (whether or not within the United Kingdom) for use for any of the following purposes—
+
+- (a) a purpose within section 40(1) of the UK Borders Act 2007;
+- (b) purposes connected with—
+  - (i) a criminal investigation relating to an immigration or nationality matter, or
+  - (ii) civil or criminal proceedings relating to such a matter,
+
+  (including investigations and proceedings outside the United Kingdom).
+
+(9) The Secretary of State by whom general customs functions are exercisable may supply information received under section 30(1) to any person (whether or not within the United Kingdom) for use for purposes connected with—
+
+- (a) a criminal investigation, or
+- (b) civil or criminal proceedings relating to a customs function,
+
+(including investigations and proceedings outside the United Kingdom).
+
+(10) A person who receives information under or by virtue of—
+
+- (a) section 30(1),
+- (b) subsection (1)(b), (7), (8) or (9) of this section, or
+- (c) section 32(3) or (4)(b),
+
+may supply the information to any person in pursuance of an order of a court.
+
+(11) This section does not prevent the disclosure of information to HMRC.
+
+(12) This section is subject to section 32.
+
+(13) In this section—
+
+- “**immigration and nationality functions**” has the meaning given by section 40(4) of the UK Borders Act 2007;
+- “**immigration or nationality matter**” means a matter in respect of which the Secretary of State has immigration and nationality functions.
+
+## Annotations
+
+[^key-93f13397531c92c319c6869b098e15e5]: Commencement: S. 31 not in force at Royal Assent, see [s. 65(1)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/1)
+
+[^key-403def6cf7d7a8a890d94a4b7820d181]: Commencement: [S. 31](https://www.legislation.gov.uk/ukpga/2025/31/section/31) in force at 2.2.2026 by [S.I. 2026/59](https://www.legislation.gov.uk/uksi/2026/59), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/59/regulation/2/c)

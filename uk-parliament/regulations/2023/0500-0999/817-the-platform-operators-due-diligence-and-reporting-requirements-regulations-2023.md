@@ -1,0 +1,425 @@
+---
+title: The Platform Operators (Due Diligence and Reporting Requirements) Regulations 2023
+id: uksi/2023/817
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2023-07-18'
+text_date: '2024-11-25'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2023/817
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2023/817/pdfs/uksiem_20230817_en_001.pdf
+- http://www.legislation.gov.uk/uksi/2023/817/pdfs/uksi_20230817_en.pdf
+- http://www.legislation.gov.uk/uksi/2023/817/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Platform Operators (Due Diligence and Reporting Requirements) Regulations 2023
+
+> Text as at 2024-11-25.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2023 No. 817
+
+Taxes
+
+The Platform Operators (Due Diligence and Reporting Requirements) Regulations 2023
+
+Made
+
+18th July 2023
+
+Laid before the House of Commons
+
+19th July 2023
+
+Coming into force
+
+1st January 2024
+
+The Treasury make the following Regulations in exercise of the powers conferred by section 136 of the Finance Act 2002[^f00001] and section 349 of the Finance (No. 2) Act 2023[^f00002].
+
+## PART 1 — Introductory Provisions
+
+### 1. Citation and Commencement[^key-02677ecc7c701d74c291152a3ba8c1dc]
+
+These Regulations may be cited as the Platform Operators (Due Diligence and Reporting Requirements) Regulations 2023 and come into force on 1st January 2024.
+
+### 2. Interpretation[^key-e7a15887d17954a52fa24b53da68a8f1]
+
+(1) In these Regulations—
+
+- “**HMRC**” means His Majesty’s Revenue and Customs;
+- “**the model rules**” means the model rules and commentary set out in OECD (2020), Model Rules for Reporting by Platform Operators with respect to Sellers in the Sharing and Gig Economy, OECD, Paris, approved by the OECD/G20 Inclusive Framework on BEPS on 29 June 2020, as amended by the OECD (2021) Model Reporting Rules for Digital Platforms: International Exchange Framework and Optional Module for sale of goods, OECD, Paris[^f00003];
+- “**partner jurisdiction**” means a jurisdiction listed in a notice published by the Commissioners for HMRC under this regulation;
+- “**tribunal**” means the First-tier Tribunal or Upper Tribunal as determined under Tribunal Procedure Rules[^f00004].
+
+(2) Any expression defined in the model rules but not in these Regulations has the same meaning in these Regulations as in the model rules.
+
+(3) Schedule 1 contains a table listing places where expressions that are used in these Regulations are defined or otherwise explained in the model rules.
+
+(4) In their application for the purposes of these Regulations, the model rules are to be read as if—
+
+- (a) a reference to “\[jurisdiction\]” were a reference to the United Kingdom,
+- (b) a reference to “the tax administration of \[jurisdiction\]” were a reference to HMRC,
+- (c) in section I(A)(2) (definition of Platform Operator), for “an Entity” there were substituted “a legal or natural person, other than a person carrying on a business as a sole trader,”,
+- (d) the expression “Partner Jurisdiction” had the meaning given by regulation 2(1),
+- (e) the expression “Reportable Jurisdiction” meant the United Kingdom or any partner jurisdiction,
+- (f) for the optional provision in section I(A)(3) (definition of excluded platform operator) there were substituted—
+
+  > - An “Excluded Platform Operator” is a Platform Operator—
+  >   - (a) whose entire business model is such that it does not allow Sellers to derive a profit from the Consideration; or
+  >   - (b) whose entire business model is such that it does not have Reportable Sellers.
+
+  ,
+- (g)[^key-9e65ce951f728cc851029fc36234bbce] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (h) section II(G) (application of the due diligence procedures to active sellers only) of the model rules were subject to the modification in regulation 9,
+- (i) the reference to “\[date of entry into effect of rules in jurisdiction\]” in section II(F)(2)(a) (timing and validity of due diligence procedures) were a reference to 1st January 2024, and
+- (j) the optional provisions in Annex A were not included.
+
+## PART 2 — Due diligence, record-keeping and reporting obligations
+
+### 3. Due Diligence and record-keeping[^key-83e75b7d357bee679f8c00f46418a126]
+
+(1) A reporting platform operator must establish and maintain procedures that are designed to—
+
+- (a) collect information about sellers,
+- (b) collect, where applicable, information about property listings,
+- (c) verify the information collected under sub-paragraphs (a) and (b), and
+- (d) identify reportable sellers in respect of each reportable period.
+
+(2) A reporting platform operator must comply with paragraph (1) by applying the due diligence procedures set out in section II of the model rules.
+
+(3) A reporting platform operator must keep a record of—
+
+- (a) the steps taken to comply with this regulation, and
+- (b) the information collected in the course of applying the due diligence procedures referred to in paragraph (2).
+
+(4) A reporting platform operator must keep the records required by paragraph (3) for a period of five years beginning with the day after the end of the reportable period to which they relate.
+
+(5) For the purposes of paragraph (4), records in respect of a particular seller relate to each reportable period in which the information was—
+
+- (a) collected,
+- (b) generated, or
+- (c) relied on under section II(F)(3) (reliance on due diligence procedures conducted in respect of previous reportable periods) of the model rules.
+
+(6) For the purposes of paragraph (4), records which are not in respect of a particular seller relate to all reportable periods.
+
+### 4. Reporting of Information[^key-68d15ddff97ef2e45364344775e488f8]
+
+(1) Subject to paragraph (5), a reporting platform operator must, for each reportable period, make a report to HMRC setting out the information in paragraph (2) on or before the 31st January following the end of the reportable period.
+
+(2) The information is—
+
+- (a) in respect of the reporting platform operator, the information set out in section III(B)(1) (information to be reported with respect to reporting platform operators) of the model rules, and
+- (b) in respect of each seller identified as a reportable seller in respect of the reportable period, the information set out in section III(B)(2) (information to be reported with respect to reportable sellers that provided relevant services other than immovable property rental) or (3) (information to be reported with respect to reportable sellers that provided relevant services for the rental of immoveable property) of the model rules, or both, as applicable.
+
+(3) Section III(A)(5) and (6) of the model rules applies to information with respect to consideration that is required to be included in a report.
+
+(4) Subject to paragraph (5), where a reporting platform operator must make a report for a reportable period including information in respect of a reportable seller, the reporting platform operator must provide that reportable seller with that information by no later than the 31st January following the end of the reportable period.
+
+(5) A reporting platform operator is not required to comply with paragraph (1) or (4) in respect of a reportable seller where—
+
+- (a) either—
+  - (i) the reporting platform operator reasonably believes that another platform operator is required to, and will, include in a report under paragraph (1) the information it would otherwise be required to include in a report under paragraph (1), or
+  - (ii) subject to paragraph (5A),[^key-10bc6e0460ec82688a40ac6f299af2d6] the reporting platform operator reasonably believes that another platform operator is required to, and will, report the information it would otherwise be required to include in a report under paragraph (1) to the tax authority of a partner jurisdiction under substantially similar rules, and
+- (b) the reporting platform operator gives notice to HMRC by no later than the 31st January following the end of the reportable period of—
+  - (i) the fact that it relies on the exemption in this paragraph, and
+  - (ii) such information regarding the other platform operator as is specified in a notice published by the Commissioners for HMRC under this regulation.
+
+(5A)[^key-ef82012ef46dce39f63624d1cbb65e5d] Where the condition in paragraph (5)(a)(ii) is met, the exemption from making a report in paragraph (5) does not apply if under section II(D)(1) of the model rules the reporting platform operator must consider the reportable seller resident in the United Kingdom.
+
+(6) The form and manner in which notice under paragraph (5) is to be given is specified in specific or general directions given by the Commissioners for HMRC.
+
+### 5. Electronic report system[^key-1d840ecebdceb360e1c8ec2be2c233c4]
+
+(1) A report under regulation 4(1) must be made electronically using an electronic report system.
+
+(2) The form and manner in which a report is to be made using an electronic report system is specified in specific or general directions given by the Commissioners for HMRC.
+
+(3) A report which is made otherwise than in accordance with paragraphs (1) and (2) is treated as not having been made.
+
+(4) An electronic report system must incorporate an electronic validation process.
+
+(5) Unless the contrary is proved—
+
+- (a) the use of an electronic report system is presumed to have resulted in the making of a report only if this has successfully been recorded as such by the relevant electronic validation process,
+- (b) the time of making the report is presumed to be the time recorded as such by the relevant electronic validation process, and
+- (c) the person delivering the report is presumed to be the person identified as such by any relevant feature of the electronic report system.
+
+### 6. Provision of Information[^key-ca2358b1593ff2e32f131c3e481dca99]
+
+(1) In order to determine whether or not the obligations arising under these Regulations have been complied with, an officer of Revenue and Customs may require a person who the officer reasonably suspects is a reporting platform operator to provide such information or documents as the officer reasonably requires as specified by written notice.
+
+(2) The information or documents required by notice under paragraph (1) must be provided—
+
+- (a) within such period, being no less than 30 days, and
+- (b) by such means and in such form,
+
+as is reasonably required by the officer of Revenue and Customs.
+
+### 7. Notification to HMRC: reporting platform operators[^key-a7ffa6013edddeaa78349d41af4ad08e]
+
+(1) A reporting platform operator must give notice to HMRC that it is a reporting platform operator by no later than the 31st January following the end of the first reportable period.
+
+(2) The form and manner in which a notice under paragraph (1) is to be given is specified in specific or general directions given by the Commissioners for HMRC.
+
+### 8. Notification to HMRC: excluded platform operators[^key-d358f0fbe9929a7a60484d0b3c0bf01b]
+
+(1) A platform operator that relies on the excluded platform operator exemption (see paragraph (2)) must give notice to HMRC.
+
+(2) A platform operator relies on the excluded platform operator exemption if—
+
+- (a) it is an excluded platform operator,
+- (b) it would be required to comply with regulations 3 (due diligence and record-keeping) and 4 (reporting of information) for a reportable period if it were not an excluded platform operator, and
+- (c) it does not, in fact, comply with one or both of regulations 3 or 4 in respect of that reportable period.
+
+(3) Notice under paragraph (1) must be given by no later than the 31st January following the end of the first reportable period for which the platform operator relies on the excluded platform operator exemption.
+
+(4) The form and manner in which notice under paragraph (1) is to be given is specified in specific or general directions given by the Commissioners for HMRC.
+
+### 9. Notification to HMRC: application of the due diligence procedures to active sellers only[^key-d5fe85fd063e61e264e79237381df612]
+
+(1) An election under section II(G) (application of the due diligence procedures to active sellers only) of the model rules must be made by notice to HMRC.
+
+(2) Notice under paragraph (1) must be given by no later than the 31st January following the end of the reportable period to which it relates.
+
+(3) A notice given under paragraph (1) has effect for the reportable period in which it is made, and for all subsequent reportable periods until it is withdrawn, including the reportable period in which it is withdrawn.
+
+(4) The form and manner in which a notice under paragraph (1) is to be given and withdrawn is specified in specific or general directions given by the Commissioners for HMRC.
+
+### 10. Excluded Sellers: proportional reduction of thresholds[^key-4b38de35bc0796df16973b6be91da1ff]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART 3 — Penalties for breach of obligations
+
+### 11. Penalties for late reports[^key-f7886e5f9eaef62817ad3acb3a6c6373]
+
+If a reporting platform operator fails to make a report required under regulation 4(1) (reporting of information) on or before the date specified in that paragraph, the reporting platform operator is liable—
+
+- (a) to a penalty not exceeding £5,000, and
+- (b) if the failure continues after notice of an assessment of a penalty under paragraph (a) is issued, to a penalty or penalties not exceeding £600 for each subsequent day on which the failure continues.
+
+### 12. Penalties for failure to provide information to reportable sellers[^key-5a80f4100486722144f3039b3ba97b61]
+
+If a reporting platform operator fails to comply with regulation 4(4) (reporting of information to reportable sellers), the reporting platform operator is liable—
+
+- (a) to a penalty not exceeding £5,000 for each reportable period in respect of which one or more failures have occurred, and
+- (b) if any of the failures continue after notice of an assessment to a penalty under paragraph (a) is issued, to a penalty not exceeding £600 for each subsequent day on which any of the failures continue.
+
+### 13. Penalties for failure to provide information to HMRC[^key-f1ef30d2c88151148f12c212420cf1ee]
+
+If a person fails to comply with regulation 6 (provision of information to HMRC), the person is liable—
+
+- (a) to a penalty not exceeding £5,000, and
+- (b) if the failure continues after notice of an assessment of a penalty under paragraph (a) is issued, to a penalty or penalties not exceeding £600 for each subsequent day on which the failure continues.
+
+### 14. Penalties for failure to comply with record-keeping requirements[^key-3eac5337a25dba743b816446e6f96af0]
+
+(1) If a reporting platform operator fails to comply with regulation 3(3) (record-keeping), the reporting platform operator is liable to a penalty not exceeding £5,000 for each reportable period in respect of which one or more failures have occurred.
+
+(2) A failure has occurred in respect of a reportable period if the failure pertains to records which relate to that reportable period for the purposes of regulation 3(5) or 3(6).
+
+### 15. Penalties for failure to notify[^key-d4111c07ecea73cf7776bcac8f74c32f]
+
+(1) If a reporting platform operator fails to comply with regulation 7 (notification to HMRC: reporting platform operators), the reporting platform operator is liable to a penalty not exceeding £1,000.
+
+(2) If a platform operator fails to comply with regulation 8(1) (notification to HMRC: excluded platform operators), the platform operator is liable to a penalty not exceeding £1,000.
+
+### 16. Penalties for failure to apply due diligence procedures[^key-c563a85352ccd8a95b21d1c69dd9f273]
+
+If a reporting platform operator fails to comply with regulation 3(1) or (2) (due diligence), the reporting platform operator is liable to a penalty not exceeding £100 for each seller in respect of which the reporting platform operator fails to apply the due diligence procedures referred to in regulation 3(2).
+
+### 17. Penalties for inaccurate or incomplete reports[^key-fa278a1d7979ad68b1140c7fe8886e24]
+
+If a reporting platform operator makes a report under regulation 4(1) (reporting of information) which contains inaccurate information, or which is incomplete, the reporting platform operator is liable to a penalty not exceeding £100 for each reportable seller in respect of which the information in the report is inaccurate or incomplete, where—
+
+- (a) the inaccuracy or incompleteness is deliberate,
+- (b) the inaccuracy or incompleteness is due to a failure to take reasonable care, or
+- (c) the reporting platform operator discovers the inaccuracy or incompleteness some time later and fails to take reasonable steps to inform HMRC.
+
+### 18. Reasonable excuse[^key-12a97c4aec2a15f8d4cd1117c18a2191]
+
+(1) Liability to a penalty under regulations 11 to 16 does not arise if the person satisfies an officer of Revenue and Customs or, on an appeal notified to the tribunal, the tribunal that there is a reasonable excuse for a failure to do anything required to be done under the applicable regulation.
+
+(2) For the purposes of this regulation none of the following is a reasonable excuse—
+
+- (a) that there is an insufficiency of funds to do something;
+- (b) that a person relies upon another person to do something.
+
+(3) If a person had a reasonable excuse for a failure but the excuse has ceased, the person is to be treated as having continued to have the excuse if the failure is remedied without unreasonable delay after the excuse ceased.
+
+### 19. Duplication of liability to penalties[^key-f526976e544b62929537fb2909a58bc0]
+
+(1) A reporting platform operator cannot be liable to penalties under any two or more of regulations 14 (failure to comply with record-keeping requirements), 16 (failure to apply due diligence procedures) and 17 (inaccurate or incomplete reports) in respect of the same act or omission.
+
+(2) Where, apart from paragraph (1), a reporting platform operator would be so liable, the reporting platform operator is liable to a penalty in respect of that act or omission under any one of regulations 14, 16 or 17, whichever is, in the opinion of an officer of Revenue and Customs, correct or appropriate in the circumstances.
+
+### 20. Assessment of penalties by HMRC[^key-f3a9ff9d44987cb7129543335ad1af7a]
+
+(1) An officer of Revenue and Customs may make an assessment imposing a penalty under any of regulations 11 to 17 and setting it at such amount as, in the opinion of the officer, is correct or appropriate.
+
+(2) Notice of an assessment of a penalty under this regulation must—
+
+- (a) be given to the person liable to the penalty,
+- (b) state the date on which it is issued and the time within which an appeal against the assessment may be made, and
+- (c) in the case of an assessment of a penalty under regulation 11, 14, 16 or 17, state the reportable period in respect of which the penalty is assessed.
+
+(3) Subject to paragraph (4), after a notice of assessment of a penalty under this regulation has been given, the assessment must not be altered except on appeal.
+
+(4) If it is discovered by an officer of Revenue and Customs that the amount of a penalty under regulation 11(b) or 13(b) which has been assessed under this regulation is or has become insufficient, the officer may make an assessment in a further amount so that the penalty is set at the amount which, in the opinion of that officer, is correct or appropriate.
+
+### 21. Time limits and treatment of penalties[^key-69aa087da2fdcf5a02963bb1be6d6b8f]
+
+(1) An assessment of a penalty under regulation 11, 12, 13, 14 or 15 must be made within the period of 12 months beginning with the date on which the person became liable to the penalty.
+
+(2) An assessment of a penalty under regulation 16 or 17 must be made—
+
+- (a) within the period of 12 months beginning with the date on which the inaccuracy, incompleteness or failure first came to the attention of an officer of Revenue and Customs, and
+- (b) within the period of 6 years beginning with the date on which the reporting platform operator became liable to the penalty.
+
+(3) A penalty assessed under regulation 20 is due and payable at the end of the period of 30 days beginning with the day on which the notice of assessment is issued.
+
+(4) A penalty assessed under regulation 20 is to be treated for all purposes as if it were tax charged in an assessment and due and payable.
+
+### 22. Right to appeal against penalty assessments by HMRC[^key-15926f86fb9d4b043d3d9036b863766e]
+
+An appeal may be brought against a penalty assessment under regulation 20—
+
+- (a) on the grounds that liability to a penalty under any of regulations 11 to 17 does not arise, or
+- (b) as to the amount of a penalty assessed under any of regulations 11 to 17.
+
+### 23. Procedure on appeal[^key-de2597cb3270dfa229b67932137c6e95]
+
+(1) Notice of an appeal under regulation 22 must—
+
+- (a) state the grounds of appeal, and
+- (b) be given—
+  - (i) in writing;
+  - (ii) before the end of the period of 30 days beginning with the date on which notice of the assessment under regulation 20(2) was issued;
+  - (iii) to HMRC.
+
+(2) Subject to paragraph (3), the provisions of Part 5 of the Taxes Management Act 1970[^f00005] relating to appeals have effect in relation to an appeal against an assessment under regulation 20 as they have effect in relation to an appeal against an assessment to income tax.
+
+(3) On an appeal under regulation 22 that is notified to the tribunal, the tribunal may—
+
+- (a) if it appears that no liability to a penalty has arisen, set the assessment aside,
+- (b) if the amount assessed appears to be appropriate, confirm the assessment,
+- (c) if the amount assessed appears to be excessive, reduce it to such other amount (including nil) as the tribunal considers appropriate, or
+- (d) if the amount assessed appears to be insufficient, increase it to such amount not exceeding the permitted maximum as the tribunal considers appropriate.
+
+Steve Double
+
+Andrew Stephenson
+
+Two of the Lords Commissioners of His Majesty’s Treasury
+
+18th July 2023
+
+## SCHEDULE 1 — Defined terms[^key-369d97b554d3578e8e99ce781d899f1d]
+
+Regulation 2(3)
+
+| Expression | Definition in model rules |
+| --- | --- |
+| platform | Section I(A)(1) |
+| platform operator | Section I(A)(2), subject to the modification in regulation 2(4)(c) |
+| reporting platform operator | Section I(A)(4) |
+| excluded platform operator | Section I(A)(3), subject to the modification in regulation 2(4)(f) |
+| property listing | Section I(C)(8) |
+| seller | Section I(B)(1) |
+| active seller | Section I(B)(2) |
+| reportable seller | Section I(B)(3) |
+| [^key-61a679bc998929924319c0f1ed4e9be3]. . . | [^key-61a679bc998929924319c0f1ed4e9be3]. . . |
+| reportable period | Section I(C)(7) |
+| consideration | Section I(A)(6) |
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These regulations make provision implementing the OECD (2020), Model Rules for Reporting by Platform Operators with respect to Sellers in the Sharing and Gig Economy, OECD, Paris and the OECD (2021), Model Reporting Rules for Digital Platforms: Optional Module for Sale of Goods, OECD, Paris (together the ‘model rules’). They impose obligations on certain persons who operate digital platforms (known as ‘reporting platform operators’). Reporting platform operators are required to carry out due diligence on users of their platform (known as ‘sellers’), to report information about the sellers to HMRC and to provide a copy of the information to the sellers themselves.
+
+Part 1 contains introductory provisions. Regulation 1 makes provision for citation and commencement. Regulation 2 is an interpretation provision.
+
+Part 2 imposes due diligence and reporting obligations on reporting platform operators. Regulation 3 provides that reporting platform operators must apply due diligence procedures to sellers in accordance with section II of the model rules. Regulation 3(3) requires reporting platform operators to keep records of that due diligence for a specified period. Regulation 4 provides that reporting platform operators must make a report to HMRC containing specified information about sellers in respect of each reportable period (calendar year). Regulation 4(4) requires a reporting platform operator to provide a copy of the information reported to HMRC about a seller to that seller. Regulation 4(5) provides an exemption from reporting in certain circumstances. Regulation 5 provides that reports must be made using an electronic reporting system and provides rebuttable presumptions in respect of those reports. Regulation 6 requires a person whom an officer of Revenue and Customs reasonably suspects is a reporting platform operator to provide information to HMRC on request. Regulation 7 requires persons who are reporting platform operators to notify HMRC of that fact. Regulation 8 requires persons who are subject to an exclusion in the model rules, in the absence of which they would be reporting platform operators, (known as ‘excluded platform operators’) to notify HMRC that they are excluded platform operators. Regulation 9 provides that, where a reporting platform operator elects under section II of the model rules to apply due diligence procedures to a subset of the sellers on their platform (known as ‘active sellers’), that election must be made by notice to HMRC. Regulation 10 provides that various thresholds in the model rules pertaining to whether a seller is an ‘excluded seller’ for the purposes of these regulations are to be proportionally reduced in cases where the seller has been registered on the platform for only part of a reportable period.
+
+Part 3 provides penalties for failures to comply with obligations in the regulations. Regulation 11 imposes penalties for late reports. Regulation 12 imposes penalties for failure to provide information to reportable sellers. Regulation 13 imposes penalties for failure to provide information to HMRC. Regulation 14 imposes penalties for failure to comply with record-keeping requirements. Regulation 15 imposes penalties for failure to apply due diligence procedures. Regulation 16 imposes penalties for failures to make notifications to HMRC. Regulation 17 imposes penalties for inaccurate or incomplete reports to HMRC. Regulation 18 provides that liability to certain penalties does not arise where a person has a reasonable excuse for a failure to comply with the regulations. Regulation 19 provides that a person cannot be liable to a penalty under any two or more of regulation 14 (failure to comply with record-keeping requirements), 16 (failure to apply due diligence procedures) and 17 (inaccurate or incomplete reports) in respect of the same act or omission. Regulation 20 provides for assessment of penalties by HMRC. Regulation 21(1) and (2) provides for time limits for the assessment of penalties and regulation 21(3) and (4) provides for how the penalties are treated. Regulations 22 and 23 provide for appeals against assessments to penalties.
+
+A Tax Information and Impact Note (TIIN) covering this instrument will be published at https://www.gov.uk/government/collections/tax-information-and-impact-notes-tiins.
+
+## Annotations
+
+[^f00001]: Footnote: [2002 c. 23](https://www.legislation.gov.uk/ukpga/2002/23).
+
+[^f00002]: Footnote: [2023 c. 30](https://www.legislation.gov.uk/ukpga/2023/30).
+
+[^key-02677ecc7c701d74c291152a3ba8c1dc]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2023/817/regulation/1) in force at 1.1.2024, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/817/regulation/1)
+
+[^key-e7a15887d17954a52fa24b53da68a8f1]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2023/817/regulation/2) in force at 1.1.2024, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/817/regulation/1)
+
+[^f00003]: Footnote: The model rules and Optional Module for sale of goods are available at https://www.oecd.org/tax/exchange-of-tax-information/model-rules-for-reporting-by-platform-operators-with-respect-to-sellers-in-the-sharing-and-gig-economy.htm and a hard copy is available for inspection at the offices of HMRC, 14 Westfield Avenue, Stratford, London E20 1HZ.
+
+[^f00004]: Footnote: As to which see section 22 of the Tribunals, Courts and Enforcement Act [2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15).
+
+[^key-9e65ce951f728cc851029fc36234bbce]: Textual amendment: [Reg. 2(4)(g)](https://www.legislation.gov.uk/uksi/2023/817/regulation/2/4/g) omitted (25.11.2024) by virtue of [The Platform Operators (Due Diligence and Reporting Requirements) (Amendment) Regulations 2024 (S.I. 2024/1082)](https://www.legislation.gov.uk/uksi/2024/1082), [regs. 1](https://www.legislation.gov.uk/uksi/2024/1082/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2024/1082/regulation/2/2)
+
+[^key-83e75b7d357bee679f8c00f46418a126]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2023/817/regulation/3) in force at 1.1.2024, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/817/regulation/1)
+
+[^key-68d15ddff97ef2e45364344775e488f8]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2023/817/regulation/4) in force at 1.1.2024, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/817/regulation/1)
+
+[^key-10bc6e0460ec82688a40ac6f299af2d6]: Textual amendment: Words in [reg. 4(5)(a)(ii)](https://www.legislation.gov.uk/uksi/2023/817/regulation/4/5/a/ii) inserted (25.11.2024) by [The Platform Operators (Due Diligence and Reporting Requirements) (Amendment) Regulations 2024 (S.I. 2024/1082)](https://www.legislation.gov.uk/uksi/2024/1082), [regs. 1](https://www.legislation.gov.uk/uksi/2024/1082/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2024/1082/regulation/2/3/a)
+
+[^key-ef82012ef46dce39f63624d1cbb65e5d]: Textual amendment: [Reg. 4(5A)](https://www.legislation.gov.uk/uksi/2023/817/regulation/4/5A) inserted (25.11.2024) by [The Platform Operators (Due Diligence and Reporting Requirements) (Amendment) Regulations 2024 (S.I. 2024/1082)](https://www.legislation.gov.uk/uksi/2024/1082), [regs. 1](https://www.legislation.gov.uk/uksi/2024/1082/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2024/1082/regulation/2/3/b)
+
+[^key-1d840ecebdceb360e1c8ec2be2c233c4]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2023/817/regulation/5) in force at 1.1.2024, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/817/regulation/1)
+
+[^key-ca2358b1593ff2e32f131c3e481dca99]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2023/817/regulation/6) in force at 1.1.2024, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/817/regulation/1)
+
+[^key-a7ffa6013edddeaa78349d41af4ad08e]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2023/817/regulation/7) in force at 1.1.2024, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/817/regulation/1)
+
+[^key-d358f0fbe9929a7a60484d0b3c0bf01b]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2023/817/regulation/8) in force at 1.1.2024, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/817/regulation/1)
+
+[^key-d5fe85fd063e61e264e79237381df612]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2023/817/regulation/9) in force at 1.1.2024, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/817/regulation/1)
+
+[^key-4b38de35bc0796df16973b6be91da1ff]: Textual amendment: Reg. 10 omitted (25.11.2024) by virtue of [The Platform Operators (Due Diligence and Reporting Requirements) (Amendment) Regulations 2024 (S.I. 2024/1082)](https://www.legislation.gov.uk/uksi/2024/1082), [regs. 1](https://www.legislation.gov.uk/uksi/2024/1082/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2024/1082/regulation/2/4)
+
+[^key-f7886e5f9eaef62817ad3acb3a6c6373]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2023/817/regulation/11) in force at 1.1.2024, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/817/regulation/1)
+
+[^key-5a80f4100486722144f3039b3ba97b61]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2023/817/regulation/12) in force at 1.1.2024, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/817/regulation/1)
+
+[^key-f1ef30d2c88151148f12c212420cf1ee]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2023/817/regulation/13) in force at 1.1.2024, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/817/regulation/1)
+
+[^key-3eac5337a25dba743b816446e6f96af0]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2023/817/regulation/14) in force at 1.1.2024, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/817/regulation/1)
+
+[^key-d4111c07ecea73cf7776bcac8f74c32f]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2023/817/regulation/15) in force at 1.1.2024, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/817/regulation/1)
+
+[^key-c563a85352ccd8a95b21d1c69dd9f273]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2023/817/regulation/16) in force at 1.1.2024, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/817/regulation/1)
+
+[^key-fa278a1d7979ad68b1140c7fe8886e24]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2023/817/regulation/17) in force at 1.1.2024, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/817/regulation/1)
+
+[^key-12a97c4aec2a15f8d4cd1117c18a2191]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2023/817/regulation/18) in force at 1.1.2024, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/817/regulation/1)
+
+[^key-f526976e544b62929537fb2909a58bc0]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2023/817/regulation/19) in force at 1.1.2024, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/817/regulation/1)
+
+[^key-f3a9ff9d44987cb7129543335ad1af7a]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2023/817/regulation/20) in force at 1.1.2024, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/817/regulation/1)
+
+[^key-69aa087da2fdcf5a02963bb1be6d6b8f]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2023/817/regulation/21) in force at 1.1.2024, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/817/regulation/1)
+
+[^key-15926f86fb9d4b043d3d9036b863766e]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2023/817/regulation/22) in force at 1.1.2024, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/817/regulation/1)
+
+[^key-de2597cb3270dfa229b67932137c6e95]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/2023/817/regulation/23) in force at 1.1.2024, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/817/regulation/1)
+
+[^f00005]: Footnote: [1970 c. 9](https://www.legislation.gov.uk/ukpga/1970/9).
+
+[^key-369d97b554d3578e8e99ce781d899f1d]: Commencement: [Sch. 1](https://www.legislation.gov.uk/uksi/2023/817/schedule/1) in force at 1.1.2024, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/817/regulation/1)
+
+[^key-61a679bc998929924319c0f1ed4e9be3]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2023/817/schedule/1) omitted (25.11.2024) by virtue of [The Platform Operators (Due Diligence and Reporting Requirements) (Amendment) Regulations 2024 (S.I. 2024/1082)](https://www.legislation.gov.uk/uksi/2024/1082), [regs. 1](https://www.legislation.gov.uk/uksi/2024/1082/regulation/1), [2(5)](https://www.legislation.gov.uk/uksi/2024/1082/regulation/2/5)

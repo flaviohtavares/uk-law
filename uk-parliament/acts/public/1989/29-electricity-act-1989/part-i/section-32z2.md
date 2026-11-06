@@ -1,0 +1,86 @@
+---
+title: Electricity Act 1989, section 32Z2
+act: Electricity Act 1989
+section: 32Z2
+status: revised-with-pending-changes
+text_date: '2026-07-24'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/ukpga/1989/29/section/32Z2
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Electricity Act 1989, section 32Z2
+
+> **Warning: changes not yet applied to this text (62).** Text as at 2026-07-24. See https://www.legislation.gov.uk/changes/affected/ukpga/1989/29
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 32Z2. Interpretation of sections 32N to 32Z2[^key-bf1ca1fcb0fef0dc601e59e0241ca51a]
+
+*Extent: E+W+S*
+
+(1) In this section and sections 32N to 32Z1 (“the relevant sections”), the following terms have the meanings given in section 32M(1)—
+
+- “fossil fuel” (but see subsection (4));
+- “generated”;
+- “Northern Ireland authority”;
+- “Northern Ireland supplier”;
+- “renewables obligation certificate”;
+- “renewables obligation order”.
+
+(2) In the relevant sections—
+
+- “**administrator**”, in relation to the certificate purchase levy, is to be construed in accordance with section 32P(7) to (10);
+- “**banding provision**” is to be construed in accordance with section 32V(3);
+- “**CFD counterparty**” has the same meaning as in Chapter 2 of Part 2 of the Energy Act 2013 (see section 7 of that Act);
+- “**certificate purchase levy**” is to be construed in accordance with section 32P;
+- “**certificate purchase order**” is to be construed in accordance with section 32N;
+- “**the certificate purchase obligation**” is to be construed in accordance with section 32N(3);
+- “**distribution system**” includes a distribution system within the meaning of Part 2 of the Electricity (Northern Ireland) Order 1992, and “**distributing**” is to be construed accordingly;
+- “**GB certificate**” is to be construed in accordance with section 32S;
+- “**NI certificate**” is to be construed in accordance with section 32T;
+- “**the Northern Ireland department**” means the Department of Enterprise, Trade and Investment;
+- “**Northern Ireland RO certificate**” means a certificate issued by the Northern Ireland authority in accordance with provision included in an order under Article 52 of the Energy (Northern Ireland) Order 2003;
+- “**the purchasing body of GB certificates**” is to be construed in accordance with section 32N(4);
+- “**the purchasing body of NI certificates**” is to be construed in accordance with section 32N(5);
+- “**relevant authority**” means—
+  - (a) in relation to GB certificates, the Authority;
+  - (b) in relation to NI certificates, the Northern Ireland authority;
+- “**relevant purchasing body**” means—
+  - (a) in relation to GB certificates, the purchasing body of GB certificates;
+  - (b) in relation to NI certificates, the purchasing body of NI certificates;
+- “**renewable sources**” means sources of energy other than fossil fuel or nuclear fuel, but includes waste of which not more than a specified proportion is waste which is, or is derived from, fossil fuel;
+- “**specified**”, in relation to a certificate purchase order, means specified in the order;
+- “**transmission system**” includes a transmission system within the meaning of Part 2 of the Electricity (Northern Ireland) Order 1992, and “**transmitting**” is to be construed accordingly.
+
+(3) For the purposes of the definition of “renewable sources”, a certificate purchase order may make provision—
+
+- (a) about what constitutes “waste”;
+- (b) about how the proportion of waste which is, or is derived from, fossil fuel is to be determined;
+- (c) about what, subject to such exceptions as may be specified, constitutes sufficient evidence of that proportion in any particular case;
+- (d) authorising the relevant authority, in specified circumstances, to require an operator of a generating station to arrange—
+  - (i) for samples of any fuel used (or to be used) in the generating station, or of any gas or other substance produced as a result of the use of such fuel, to be taken by a person, and analysed in a manner, approved by the relevant authority;
+  - (ii) for the results of that analysis to be made available to the relevant authority.
+
+(4) In the application of the relevant sections to Northern Ireland, “**fossil fuel**” includes peat.
+
+(5) In the relevant sections “**Northern Ireland**” does not include any part of the territorial sea of the United Kingdom, but this is subject to subsection (6).
+
+(6) A certificate purchase order may provide that “**Northern Ireland**” includes the territorial sea adjacent to Northern Ireland.
+
+(7) An Order in Council under section 98(8) of the Northern Ireland Act 1998 (apportionment of sea areas) has effect for the purposes of this section if, or to the extent that, the Order is expressed to apply—
+
+- (a) by virtue of this subsection, for those purposes, or
+- (b) if no provision has been made by virtue of paragraph (a), for the general or residual purposes of that Act.
+
+(8) References in the relevant sections to the supply of electricity to customers in Northern Ireland are to be construed in accordance with the definition of “supply” in Article 3 of the Electricity (Northern Ireland) Order 1992.
+
+(9) A certificate purchase order may make provision, for the purposes of the relevant sections, about the circumstances in which electricity is to be regarded as having been supplied—
+
+- (a) to customers in Great Britain;
+- (b) to customers in Northern Ireland.
+
+## Annotations
+
+[^key-bf1ca1fcb0fef0dc601e59e0241ca51a]: Textual amendment: Ss. 32N-32Z2 inserted (18.2.2014) by [Energy Act 2013 (c. 32)](https://www.legislation.gov.uk/ukpga/2013/32), [ss. 56(2)](https://www.legislation.gov.uk/ukpga/2013/32/section/56/2), [156(2)](https://www.legislation.gov.uk/ukpga/2013/32/section/156/2)

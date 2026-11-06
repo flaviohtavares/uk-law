@@ -1,0 +1,308 @@
+---
+title: The Greenhouse Gas Emissions Trading Scheme (Amendment) (Registries and Fees etc.) Regulations 2011
+id: uksi/2011/2911
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2011-12-01'
+text_date: '2013-01-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2011/2911
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2011/2911/pdfs/uksiem_20112911_en.pdf
+- http://www.legislation.gov.uk/uksi/2011/2911/pdfs/uksi_20112911_en.pdf
+- http://www.legislation.gov.uk/uksi/2011/2911/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Greenhouse Gas Emissions Trading Scheme (Amendment) (Registries and Fees etc.) Regulations 2011
+
+> Text as at 2013-01-01.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2011 No. 2911
+
+Climate Change
+
+The Greenhouse Gas Emissions Trading Scheme (Amendment) (Registries and Fees etc.) Regulations 2011
+
+Made
+
+1st December 2011
+
+Laid before Parliament
+
+8th December 2011
+
+Coming into force
+
+1st January 2012
+
+The Secretary of State is a Minister designated [^c21125051] for the purposes of section 2(2) of the European Communities Act 1972 [^c21125061] in relation to the environment.
+
+These Regulations make provision for a purpose mentioned in section 2(2) of that Act, and it appears to the Secretary of State that it is expedient for the references to EU instruments in these Regulations to be construed as references to those instruments as amended from time to time.
+
+Accordingly the Secretary of State, in exercise of the powers conferred by section 2(2) of the European Communities Act 1972, as read with paragraph 1A of Schedule 2 to that Act [^c21125071], makes the following Regulations:
+
+## 1. Citation, commencement and extent
+
+(1) These Regulations may be cited as the Greenhouse Gas Emissions Trading Scheme (Amendment) (Registries and Fees etc.) Regulations 2011 and come into force on 1st January 2012.
+
+(2) These Regulations extend to England, Wales, Scotland and Northern Ireland.
+
+## 2. Interpretation
+
+In these Regulations—
+
+- “**the ETS Directive**” means Directive [2003/87/EC](https://www.legislation.gov.uk/european/directive/2003/0087) of the European Parliament and of the Council of 13 October 2003 establishing a scheme for greenhouse gas emission allowance trading within the Community and amending Council Directive [96/61/EC](https://www.legislation.gov.uk/european/directive/1996/0061), as amended from time to time [^c21125081];
+- “**the 2005 Regulations**” means the Greenhouse Gas Emissions Trading Scheme Regulations 2005 [^c21125091];
+- “**the Registries Regulation**” means Commission Regulation (EU) No 920/2010 of 7 October 2010 for a standardised and secured system of registries pursuant to Directive [2003/87/EC](https://www.legislation.gov.uk/european/directive/2003/0087) of the European Parliament and of the Council and Decision No [280/2004/EC](https://www.legislation.gov.uk/european/decision/19280/2004) of the European Parliament and of the Council, as amended from time to time [^c21125101].
+
+## 3. Review
+
+(1) The Secretary of State must from time to time—
+
+- (a) carry out a review of these Regulations;
+- (b) set out the conclusions of the review in a report; and
+- (c) publish the report.
+
+(2) In carrying out the review the Secretary of State must, so far as is reasonable, have regard to how the Registries Regulation (which is implemented by means of paragraph 14 in the Schedule to these Regulations) and the ETS Directive (which is implemented in part by paragraph 4 of the Schedule to these Regulations) is implemented in other member States.
+
+(3) The report must in particular—
+
+- (a) set out the objectives intended to be achieved by the regulatory system established by these Regulations;
+- (b) assess the extent to which those objectives are achieved; and
+- (c) assess whether those objectives remain appropriate and, if so, the extent to which they could be achieved with a system that imposes less regulation.
+
+(4) The first report under this regulation must be published before the end of the period of five years beginning with the day on which these Regulations come into force.
+
+(5) Reports under this regulation are afterwards to be published at intervals not exceeding five years.
+
+## 4. Amendments in relation to permits, trading scheme registries and charging schemes
+
+The Schedule to these Regulations has effect.
+
+Greg Barker
+
+Minister of State
+
+Department of Energy and Climate Change
+
+## SCHEDULE
+
+Regulation 4
+
+### 1. Amendments to the 2005 Regulations[^key-4180504fe0e3323427b7e6e30e8aeebb]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**2.**[^key-4180504fe0e3323427b7e6e30e8aeebb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**3.**[^key-4180504fe0e3323427b7e6e30e8aeebb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**4.**[^key-4180504fe0e3323427b7e6e30e8aeebb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**5.**[^key-4180504fe0e3323427b7e6e30e8aeebb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**6.**[^key-4180504fe0e3323427b7e6e30e8aeebb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**7.**[^key-4180504fe0e3323427b7e6e30e8aeebb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**8.**[^key-4180504fe0e3323427b7e6e30e8aeebb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**9.**[^key-4180504fe0e3323427b7e6e30e8aeebb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**10.**[^key-4180504fe0e3323427b7e6e30e8aeebb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**11.**[^key-4180504fe0e3323427b7e6e30e8aeebb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**12.**[^key-4180504fe0e3323427b7e6e30e8aeebb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**13.**[^key-4180504fe0e3323427b7e6e30e8aeebb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**14.**[^key-4180504fe0e3323427b7e6e30e8aeebb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**15.**[^key-4180504fe0e3323427b7e6e30e8aeebb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**16.**[^key-4180504fe0e3323427b7e6e30e8aeebb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**17.**[^key-4180504fe0e3323427b7e6e30e8aeebb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**18.**[^key-4180504fe0e3323427b7e6e30e8aeebb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**19.**[^key-4180504fe0e3323427b7e6e30e8aeebb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**20.**[^key-4180504fe0e3323427b7e6e30e8aeebb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 21. Amendment to the Environment Act 1995
+
+The Environment Act 1995 [^c21125141] is amended as follows.
+
+**22.** In section 41 [^c21125151]—
+
+- (a) in subsection (1), in paragraph (g) for “prescribed.” substitute “ prescribed; ”, and after that paragraph insert—
+
+  > - (h) as a means of recovering costs incurred by it in performing functions conferred by regulation 8A of the Greenhouse Gas Emissions Trading Scheme (Amendment) and National Inventory Regulations 2005 [^c21125161], the Agency may require the payment to it of such charges as may from time to time be prescribed;
+  > - (i) as a means of recovering costs incurred by it in performing functions conferred by regulations made for the purpose of implementing Directive [2008/101/EC](https://www.legislation.gov.uk/european/directive/2008/0101) of the European Parliament and of the Council amending Directive [2003/87/EC](https://www.legislation.gov.uk/european/directive/2003/0087) so as to include aviation activities in the scheme for greenhouse gas emission allowance trading within the Community, each of the new Agencies may require the payment to it of such charges as may from time to time be prescribed;
+  > - (j) each of the new Agencies may require the payment to it of such charges as may from time to time be prescribed in respect of the subsistence of an account required to be held in the trading scheme registry by an aircraft operator;
+
+  ;
+- (b)[^key-8cf0a876acc15c582bc12f65e6853d72] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**23.** In section 41A [^c21125181]—
+
+- (a) for the heading, substitute “ Charges in respect of greenhouse gas emissions permits etc: supplementary ”;
+- (b)[^key-3c68240bdf0757c46c1ce043950a8741] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^key-3c68240bdf0757c46c1ce043950a8741] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^key-3c68240bdf0757c46c1ce043950a8741] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e)[^key-3c68240bdf0757c46c1ce043950a8741] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (f)[^key-3c68240bdf0757c46c1ce043950a8741] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 24. Amendment to the Environment (Northern Ireland) Order 2002
+
+Schedule 1 to the Environment (Northern Ireland) Order 2002 [^c21125191] (particular purposes for which provision may be made under Article 4 of that Order) is amended as follows.
+
+**25.** After paragraph 9A insert—
+
+> **9B.** (1) Without prejudice to paragraph 9, authorising the Department to make schemes for the charging by enforcing authorities of fees or other charges as a means of recovering costs incurred by them in performing functions conferred by regulations made for the purpose of implementing Directive [2008/101/EC](https://www.legislation.gov.uk/european/directive/2008/0101) of the European Parliament and of the Council amending Directive [2003/87/EC](https://www.legislation.gov.uk/european/directive/2003/0087) so as to include aviation activities in the scheme for greenhouse gas emission allowance trading within the Community.
+>
+> (2) Without prejudice to paragraph 9, authorising the Department to make schemes for the charging by enforcing authorities of fees or other charges as a means of recovering costs incurred by them in performing functions in respect of the subsistence of an account required to be held in the trading scheme registry by an aircraft operator (“aircraft operator charges”).
+
+**26.** In paragraph 24 of that Schedule, after “9A” insert “ , 9B ”.
+
+**27.** In paragraph 24A—
+
+- (a) after “paragraph 9A” insert “ , or 9B ”;
+- (b) after “operator registry charges” insert “ , or aircraft operator registry charges ”.
+
+**28.** In paragraph 26—
+
+- (a)[^key-03037fd6995647904bb0eb6413fef3ec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) for the definition of “trading scheme registry” substitute—
+
+  > “**trading scheme registry**” means—
+  >
+  > - (a) any registry operated by the Environment Agency for the purpose of meeting the requirements of Article 3(1) of Commission Regulation (EU) No 920/2010 for a standardised and secured system of registries pursuant to Directive [2003/87/EC](https://www.legislation.gov.uk/european/directive/2003/0087) of the European Parliament and of the Council and Decision No [280/2004/EC](https://www.legislation.gov.uk/european/decision/19280/2004) of the European Parliament and of the Council, as amended from time to time; or
+  > - (b) the Union registry referred to in Article 3(2) of that Regulation.
+
+### 29. Amendment to the Greenhouse Gas Emissions Trading Scheme Charging Scheme Regulations (Northern Ireland) 2010
+
+The Greenhouse Gas Emissions Trading Scheme Charging Scheme Regulations (Northern Ireland) 2010 [^c21125201] are amended as follows.
+
+**30.** In regulation 2 (interpretation), in the appropriate alphabetical order insert—
+
+> “**trading scheme registry**” means—
+>
+> - (a) any registry operated by the Environment Agency for the purpose of meeting the requirements of Article 3(1) of Commission Regulation (EU) No 920/2010 for a standardised and secured system of registries pursuant to Directive [2003/87/EC](https://www.legislation.gov.uk/european/directive/2003/0087) of the European Parliament and of the Council and Decision No [280/2004/EC](https://www.legislation.gov.uk/european/decision/19280/2004) of the European Parliament and of the Council, as amended from time to time; or
+> - (b) the Union registry referred to in Article 3(2) of that Regulation.
+
+**31.** In regulation 4 (fees and charges in respect of greenhouse gas emissions permits)—
+
+- (a) in the heading, omit “in respect of greenhouse gas emissions permits”;
+- (b) in paragraph (2), after subparagraph (g) insert—
+
+  > - (h) charges in respect of any costs incurred by it in performing functions conferred by regulations made for the purpose of implementing Directive [2008/101/EC](https://www.legislation.gov.uk/european/directive/2008/0101) of the European Parliament and of the Council amending Directive [2003/87/EC](https://www.legislation.gov.uk/european/directive/2003/0087) so as to include aviation activities in the scheme for greenhouse gas emission allowance trading within the Community;
+  > - (i) charges in respect of the subsistence of an account required to be held in the trading scheme registry by an aircraft operator (“aircraft operator registry charges”).
+
+**32.** In regulation 5 (trading scheme and registry charges)—
+
+- (a) in paragraph (1)(a), after “registry charges” insert “ or aircraft operator registry charges ”;
+- (b) in paragraph (4) after “registry charges” insert “ or aircraft operator registry charges ”.
+
+### 33. Transitional provisions: existing charging schemes
+
+Subject to paragraphs 34 and 35, from the commencement of these Regulations any provisions of an existing scheme or an existing Northern Ireland scheme prescribing charges in respect of the subsistence or creation of an account in the UK registry (or of the updating of information provided in relation to such an account) continue to apply, but as if any reference in those provisions to the “registry” were a reference to the Union registry.
+
+**34.** The modifications made by paragraph 33 have effect only from the date that the Union registry is capable of being used for the purposes specified in Article 3(2) of the Registries Regulation; and for the purposes of this paragraph—
+
+- (a) notice of that date is to be published by the Secretary of State in such manner as the Secretary of State thinks fit; and
+- (b) until that date, any reference in those provisions to the “registry” continues to be a reference to the UK registry.
+
+**35.** Paragraph 33 ceases to have effect—
+
+- (a) in respect of Northern Ireland, on the commencement of the provisions of a new Northern Ireland scheme that prescribe charges in respect of the matters mentioned in that paragraph;
+- (b) in respect of the rest of the United Kingdom, on the commencement of the provisions of a new scheme that prescribe charges in respect of the matters mentioned in that paragraph.
+
+**36.** In paragraphs 33 to 35 and this paragraph—
+
+- “**existing Northern Ireland scheme**” means a scheme in force made under the old regulation 4;
+- “**existing scheme**” means a scheme in force made under section 41 of the Environment Act 1995 as read with the old section 41A;
+- “**new Northern Ireland scheme**” means a scheme made under the new regulation 4;
+- “**new scheme**” means a scheme made under section 41 of the Environment Act 1995 as read with the new section 41A;
+- “**new section 41A**” means section 41A of the Environment Act 1995 as amended by paragraphs 21 to 23 (and “**old section 41A**” means that section as it had effect immediately before that amendment);
+- “**new regulation 4**” means regulation 4 of the Greenhouse Gas Emissions Trading Scheme Charging Scheme Regulations (Northern Ireland) 2010 as amended by paragraphs 29 to 32 of these Regulations (and “**old regulation 4**” means that regulation as it had effect immediately before that amendment);
+- “**the Union registry**” means the Union registry referred to in Article 3(2) of the Registries Regulation.
+
+### 37. Transitional provisions: aviation
+
+The Aviation Greenhouse Gas Emissions Trading Scheme Regulations 2010 are amended as follows.
+
+**38.** For regulation 28 substitute—
+
+> **28.** (1) Schedule 1 (charging) has effect; but the provisions of paragraph 1 of that Schedule cease to have effect—
+>
+> - (a) in respect of Northern Ireland, when they are superseded by a scheme made under the Greenhouse Gas Emissions Trading Scheme Charging Scheme Regulations (Northern Ireland) 2010 (“a Northern Ireland charging scheme”);
+> - (b) in respect of the rest of the United Kingdom, when they are superseded by a scheme made under section 41 of the Environment Act 1995 (“a charging scheme”).
+>
+> (2) For that purpose, a provision is superseded by a Northern Ireland charging scheme or charging scheme respectively where such a scheme is in force that—
+>
+> - (a) specifies an amount in respect of the same activity as is mentioned in that provision, and
+> - (b) states that the amount specified by that provision is superseded by the amount specified by the scheme.
+>
+> (3) Where a provision is superseded in accordance with paragraph (1), any reference in these Regulations to a fee in accordance with Schedule 1 is to be read as a reference to the amount specified by the scheme, and any reference in paragraphs 2 to 4 of Schedule 1 to a charge is to be read as a reference to that amount.
+
+*(This note is not part of the Regulations)*
+
+These Regulations amend the Greenhouse Gas Emissions Trading Scheme Regulations 2005 (“**the 2005 Regulations**”) to give effect to Commission Regulation (EU) No 920/2010 of 7th October 2010 for a standardised and secured system of registries pursuant to Directive [2003/87/EC](https://www.legislation.gov.uk/european/directive/2003/0087) of the European Parliament and of the Council and Decision No [280/2004/EC](https://www.legislation.gov.uk/european/decision/19280/2004) of the European Parliament and of the Council (“**the Registries Regulation**”). They also to amend the powers of the Environment Agency, Scottish Environmental Protection Agency and Department of the Environment in Northern Ireland to enable them to impose charges by means of charging schemes in respect of various functions in relation to the operation of emissions trading registries, the regulation of aviation activities under the EU Emissions Trading Scheme (“the EU ETS”). The regulations also enable the Environment Agency to making charging schemes in relation to its functions in respect of the approval of project activities established under the Kyoto Protocol or for authorisation to participate in such project activities.
+
+Paragraphs 1 to 20 (save paragraph 4) in the Schedule make various amendments to the 2005 Regulations to give effect to the Registries Regulation. The most substantial amendments are made by paragraph 14 which inserts a new regulation 26 into the 2005 Regulations.
+
+Paragraph 4 in the Schedule inserts a new regulation 7A in the 2005 Regulations. This will enable an application to be made for a greenhouse gas emissions permit covering an activity carried out at an installation for which a permit is required only from the beginning of Phase 3 of the EU ETS on 1st January 2013. As a result, an operator who is carrying out (or intending to carry out) such an activity can apply before the beginning of Phase 3. The application can then be considered by the regulator, and a permit (or a variation of an existing permit) granted, before the new Phase 3 requirements take effect.
+
+Paragraphs 21 to 23 in the Schedule amend the Environment Act 1995 to confer new powers on the Environment Agency to make charging schemes in respect of the costs of exercising its functions in relation to aviation accounts in emission trading registries, the regulation of aviation activities under the EU ETS and in respect of functions in relation to the approval of project activities established under the Kyoto Protocol or for authorisation to participate in such project activities under the Greenhouse Gas Emissions Trading Schemes (Amendment) (Fees) and National Emissions Inventory Regulations 2011. Regulation 4 also amends the Agency's existing power to make charging schemes in respect of the costs it incurs in respect of exercising functions in relation to accounts held by operators of fixed installations in emission trading registries to take account of changes which have been made to the existing emissions trading registry.
+
+Paragraphs 24 to 32 in the Schedule make equivalent amendments in respect of the powers of the Department of the Environment in Northern Ireland (“DOENI”). In most cases, the DOENI is required to pass on any charges it imposes to the Environment Agency.
+
+Paragraphs 33 to 38 in the Schedule contain transitional provisions in relation to existing charging powers to ensure that they can continue to be operated where necessary or that they fall away once charging schemes have been made under the new or amended powers.
+
+An Impact Assessment has not been prepared for this instrument. This is because the instrument is only expected to have a minimal impact on the private, voluntary and public sector. An Explanatory Memorandum in relation to these Regulations is available on the legislation website of The National Archives (http://www.legislation.gov.uk ). A transposition note setting out how these Regulations implement the relevant provisions of the Registries Regulation is annexed to that Explanatory Memorandum.
+
+## Annotations
+
+[^c21125051]: Marginal citation: [S.I. 2008/301](https://www.legislation.gov.uk/uksi/2008/301).
+
+[^c21125061]: Marginal citation: [1972 c.68](https://www.legislation.gov.uk/ukpga/1972/68); [section 2(2)](https://www.legislation.gov.uk/uksi/2011/2911/section/2/2) was amended by section 27(1)(a) of the [Legislative and Regulatory Reform Act 2006 (c. 51)](https://www.legislation.gov.uk/ukpga/2006/51) and by section 3(3) of, and Part 1 of the Schedule to, the [European Union (Amendment) Act 2008 (c. 7)](https://www.legislation.gov.uk/ukpga/2008/7). Under section 57 of the [Scotland Act 1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46), despite the transfer to the Scottish Ministers of functions in relation to observing and implementing obligations under Community law in respect of devolved matters, any function of the Secretary of State in relation to any matter continues to be exercisable as regards Scotland for the purposes specified in section 2(2) of the European Communities Act 1972.
+
+[^c21125071]: Marginal citation: [Paragraph 1A](https://www.legislation.gov.uk/uksi/2011/2911/paragraph/1A) of Schedule 2 was inserted by section 28 of the Legislative and Regulatory Reform Act 2006 and amended by [S.I. 2007/1388](https://www.legislation.gov.uk/uksi/2007/1388) and by section 3(3) of, and Part 1 of the Schedule to, the European Union (Amendment) Act 2008.
+
+[^c21125081]: Marginal citation: O.J. No. L275, 25.10.03, p.32.The Directive is amended by European Parliament and Council Directives 2004/101/EC (O.J. No. L338, 13.11.2004, p.18), 2008/101/EC ((O.J. No. L8, 13.1.2009, p.3) and 2009/29/EC (O.J. No. L140, 5.6.2009, p.63), and by Regulation (EC) No 219/2009 of the European Parliament and of the Council (O.J. No. L87, 31.3.2009, p.109).
+
+[^c21125091]: Marginal citation: [S.I. 2005/925](https://www.legislation.gov.uk/uksi/2005/925); amended by [S.I. 2005/2903](https://www.legislation.gov.uk/uksi/2005/2903), 2006/737, 2007/465, 2007/3433, 2010/1513 and 2011/1506.
+
+[^c21125101]: Marginal citation: O.J. No. L270, 14.10.2010, p.1. The Regulation has been amended by Regulation \[Insert Reference to the EU Registries Regulation 2011 Once it has been Published in the OJEU\].
+
+[^key-4180504fe0e3323427b7e6e30e8aeebb]: Textual amendment: [Sch. paras. 1-20](https://www.legislation.gov.uk/uksi/2011/2911/schedule/paragraph/1) revoked (1.1.2013) by [The Greenhouse Gas Emissions Trading Scheme Regulations 2012 (S.I. 2012/3038)](https://www.legislation.gov.uk/uksi/2012/3038), [regs. 1](https://www.legislation.gov.uk/uksi/2012/3038/regulation/1), [85(b)(ix)](https://www.legislation.gov.uk/uksi/2012/3038/regulation/85/b/ix) (with [regs. 85](https://www.legislation.gov.uk/uksi/2012/3038/regulation/85), [87](https://www.legislation.gov.uk/uksi/2012/3038/regulation/87), [Sch. 1](https://www.legislation.gov.uk/uksi/2012/3038/schedule/1))
+
+[^c21125141]: Marginal citation: [1995 c.25](https://www.legislation.gov.uk/ukpga/1995/25).
+
+[^c21125151]: Marginal citation: Section 41 has been amended by [S.S.I. 2003/235](https://www.legislation.gov.uk/ssi/2003/235), [S.I](https://www.legislation.gov.uk/ssi/2003/235/section/I). 2005/894, 2005/1806 (W. 138), 2006/937, 2007/1711, 2007/3106, 2008/3087, 2009/890, 2009/3381, the Climate Change (Scotland) Act 2009 (asp.12), the [Flood and Water Management Act 2010 (c.29)](https://www.legislation.gov.uk/ukpga/2010/29) and [S.I. 2011/988](https://www.legislation.gov.uk/uksi/2011/988).
+
+[^c21125161]: Marginal citation: [S.I. 2005/2903](https://www.legislation.gov.uk/uksi/2005/2903), amended by [S.I. 2011/727](https://www.legislation.gov.uk/uksi/2011/727).
+
+[^key-8cf0a876acc15c582bc12f65e6853d72]: Textual amendment: Sch. para. 22(b) revoked (3.12.2012) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) (Charging Schemes) Regulations 2012 (S.I. 2012/2788)](https://www.legislation.gov.uk/uksi/2012/2788), [regs. 1](https://www.legislation.gov.uk/uksi/2012/2788/regulation/1), [17(2)(a)](https://www.legislation.gov.uk/uksi/2012/2788/regulation/17/2/a)
+
+[^c21125181]: Marginal citation: Inserted by [S.I. 2005/925](https://www.legislation.gov.uk/uksi/2005/925).
+
+[^key-3c68240bdf0757c46c1ce043950a8741]: Textual amendment: Sch. para. 23(b)-(f) revoked (3.12.2012) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) (Charging Schemes) Regulations 2012 (S.I. 2012/2788)](https://www.legislation.gov.uk/uksi/2012/2788), [regs. 1](https://www.legislation.gov.uk/uksi/2012/2788/regulation/1), [17(2)(b)](https://www.legislation.gov.uk/uksi/2012/2788/regulation/17/2/b)
+
+[^c21125191]: Marginal citation: [2002 No. 3153](https://www.legislation.gov.uk/ukcm/2002/3153) (N.I. 7), amended by S.R. (N.I.) [2010 No. 92](https://www.legislation.gov.uk/ukcm/2010/92).
+
+[^key-03037fd6995647904bb0eb6413fef3ec]: Textual amendment: Sch. para. 28(a) revoked (3.12.2012) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) (Charging Schemes) Regulations 2012 (S.I. 2012/2788)](https://www.legislation.gov.uk/uksi/2012/2788), [regs. 1](https://www.legislation.gov.uk/uksi/2012/2788/regulation/1), [17(2)(c)](https://www.legislation.gov.uk/uksi/2012/2788/regulation/17/2/c)
+
+[^c21125201]: Marginal citation: S.R. (N.I.) [2010 No. 151](https://www.legislation.gov.uk/ukcm/2010/151).

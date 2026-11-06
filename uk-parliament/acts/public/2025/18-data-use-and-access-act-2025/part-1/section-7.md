@@ -1,0 +1,63 @@
+---
+title: Data (Use and Access) Act 2025, section 7
+act: Data (Use and Access) Act 2025
+section: '7'
+status: revised
+text_date: '2026-09-30'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2025/18/section/7
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Data (Use and Access) Act 2025, section 7
+
+> Text as at 2026-09-30.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 7. Interface bodies[^key-a5f36ec61ee6692a3f3dfc0fce17340a][^key-49a5eaca435bbfe059b79b4905862c70]
+
+*Extent: E+W+S+N.I.*
+
+(1) This section is about the provision that regulations under section 2 or 4 may (among other things) contain about bodies with one or more of the following tasks—
+
+- (a) establishing a facility or service used, or capable of being used, for providing, publishing or otherwise processing customer data or business data or for taking action described in section 2(4) (referred to in this Part as an “**interface**”);
+- (b) setting standards, or making other arrangements, relating to, or to the use of, an interface (referred to in this Part as “**interface standards**” and “interface arrangements”);
+- (c) maintaining or managing an interface, interface standards or interface arrangements.
+
+(2) Such bodies are referred to in this Part as “**interface bodies**”.
+
+(3) The regulations may—
+
+- (a) require a data holder or a third party recipient to set up an interface body;
+- (b) make provision about the type of body to be set up.
+
+(4) In relation to an interface body (whether or not it is required to be set up by regulations under section 2 or 4), the regulations may—
+
+- (a) make provision about the body’s composition and governance;
+- (b) make provision requiring a data holder or a third party recipient to provide, or arrange for, assistance for the body;
+- (c) impose other requirements relating to the body on a person who is required to set it up or to provide, or arrange for, assistance for the body;
+- (d) make provision requiring the body to carry on all or part of a task described in subsection (1);
+- (e) make provision requiring the body to do other things in connection with its interface, interface standards or interface arrangements;
+- (f) make provision about how the body carries out its functions (such as, for example, provision about the body’s objectives or matters to be taken into account by the body);
+- (g) confer powers on the body for the purpose of monitoring use of its interface, interface standards or interface arrangements (“monitoring powers”) (and see section 8 for provision about enforcement of requirements imposed in exercise of those powers);
+- (h) make provision for the body to arrange for its monitoring powers to be exercised by another person;
+- (i) make provision about the rights of persons affected by the exercise of the body’s functions under the regulations, including (among other things)—
+  - (i) provision about the review of decisions made in exercise of those functions;
+  - (ii) provision about appeals to a court or tribunal;
+- (j) make provision about complaints, including provision requiring the body to implement procedures for the handling of complaints;
+- (k) make provision enabling or requiring the body to publish, or provide to a specified person, specified documents or information relating to its interface, interface standards or interface arrangements;
+- (l) make provision enabling or requiring the body to produce guidance about how it proposes to exercise its functions under the regulations, to publish the guidance and to provide copies to specified persons.
+
+(5) The monitoring powers that may be conferred on an interface body include power to require the provision of documents or information (but such powers are subject to the restrictions in section 9 as well as any restrictions included in the regulations).
+
+(6) Examples of facilities or services referred to in subsection (1) include dashboard services, other electronic communications services and application programming interfaces.
+
+(7) In subsection (4)(b) and (c), the references to assistance include actual or contingent financial assistance (such as, for example, a grant, loan, guarantee or indemnity or buying a company’s share capital).
+
+## Annotations
+
+[^key-a5f36ec61ee6692a3f3dfc0fce17340a]: Commencement: S. 7 in force at Royal Assent for specified purposes, see [s. 142(1)(2)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)(h)
+
+[^key-49a5eaca435bbfe059b79b4905862c70]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2025/18/section/7) in force at 20.8.2025 in so far as not already in force by [S.I. 2025/904](https://www.legislation.gov.uk/uksi/2025/904), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2025/904/regulation/2/a)

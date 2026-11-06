@@ -1,0 +1,106 @@
+---
+title: The Tobacco and Related Products (Amendment) (Northern Ireland) Regulations 2023
+id: uksi/2023/920
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2023-08-17'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2023/920
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2023/920/pdfs/uksiem_20230920_en_001.pdf
+- http://www.legislation.gov.uk/uksi/2023/920/pdfs/uksi_20230920_en.pdf
+- http://www.legislation.gov.uk/uksi/2023/920/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Tobacco and Related Products (Amendment) (Northern Ireland) Regulations 2023
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2023 No. 920
+
+Consumer Protection, Northern Ireland
+
+The Tobacco and Related Products (Amendment) (Northern Ireland) Regulations 2023
+
+Made
+
+17th August 2023
+
+Coming into force
+
+23rd October 2023
+
+The Secretary of State makes these Regulations in exercise of the powers conferred by section 8C(1)(c) of, and paragraph 21 of Schedule 7 to, the European Union (Withdrawal) Act 2018[^f00001].
+
+In accordance with paragraph 8F(1) of Schedule 7 to that Act, a draft of this instrument has been laid before Parliament and approved by a resolution of each House of Parliament.
+
+## 1. Citation and commencement
+
+(1) These Regulations may be cited as the Tobacco and Related Products (Amendment) (Northern Ireland) Regulations 2023.
+
+(2) These Regulations come into force on 23rd October 2023.
+
+## 2. Extent
+
+These Regulations extend to Northern Ireland only.
+
+## 3. Amendment of the Tobacco and Related Products Regulations 2016
+
+(1) The Tobacco and Related Products Regulations 2016[^f00002] are amended as follows.
+
+(2) In regulation 1A (extent), before sub-paragraph (3)(a), insert—
+
+> - (aa) regulation 15A;
+
+.
+
+(3) After regulation 15, insert—
+
+> **15A. No flavoured NI heated tobacco products**
+>
+> (1) No person may produce or supply NI heated tobacco products with a characterising flavour.
+>
+> (2) No person may produce or supply NI heated tobacco products with—
+>
+> - (a) a filter, paper, package, capsule or other component containing flavourings;
+> - (b) a filter, paper or capsule containing tobacco or nicotine; or
+> - (c) a technical feature allowing the consumer to modify the smell, taste, or smoke intensity of the product.
+>
+> (3) In this regulation, “**NI heated tobacco product**” means a novel tobacco product which—
+>
+> - (a) is heated to produce an emission containing nicotine and other chemicals, which is then inhaled by the user; and
+> - (b) is produced for supply, or is supplied, for consumption in Northern Ireland or through the NI travel retail sector.
+
+.
+
+Signed by authority of the Secretary of State for Health and Social Care.
+
+Markham
+
+Parliamentary Under Secretary of State
+
+Department of Health and Social Care
+
+17th August 2023
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations implement [Commission Delegated Directive (EU) 2022/2100](https://www.legislation.gov.uk/european/directive/2022/2100) of 29th June 2022 amending [Directive 2014/40/EU](https://www.legislation.gov.uk/european/directive/2014/0040) of the European Parliament and of the Council as regards the withdrawal of certain exemptions in respect of heated tobacco products.
+
+These Regulations apply to Northern Ireland only and are made for the purposes of dealing with matters arising out of, or related to, the Windsor Framework. Regulation 3(3) prohibits the production or supply of NI heated tobacco products which contain a characterising flavour.
+
+A full impact assessment has not been produced for this instrument as no, or no significant, impact on the private, voluntary or public sector is foreseen.
+
+## Annotations
+
+[^f00001]: Footnote: [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16); section 8C was inserted by section 21 of the European Union (Withdrawal Agreement) Act [2020 (c. 1)](https://www.legislation.gov.uk/ukpga/2020/1).
+
+[^f00002]: Footnote: [S.I. 2016/507](https://www.legislation.gov.uk/uksi/2016/507), amended by [S.I. 2016/1127](https://www.legislation.gov.uk/uksi/2016/1127), [S.I. 2017/409](https://www.legislation.gov.uk/uksi/2017/409) and [S.I. 2019/41](https://www.legislation.gov.uk/uksi/2019/41).

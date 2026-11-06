@@ -1,0 +1,95 @@
+---
+title: The Education (Lay Members of Appeal Committees) Regulations 1994
+id: uksi/1994/1303
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '1994-05-12'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1994/1303
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1994/1303/made/data.pdf
+pending_changes: 7
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Education (Lay Members of Appeal Committees) Regulations 1994
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+1994 No. 1303
+
+EDUCATION, ENGLAND AND WALES
+
+The Education (Lay Members of Appeal Committees) Regulations 1994
+
+Made
+
+12th May 1994
+
+Laid before Parliament
+
+16th May 1994
+
+Coming into force
+
+6th June 1994
+
+In exercise of the powers conferred on the Secretary of State by section 267(2) of the Education Act 1993[^f00001] the Secretary of State for Education, as respects England, and the Secretary of State for Wales, as respects Wales, hereby make the following Regulations:
+
+## 1. Citation and Commencement
+
+These Regulations may be cited as the Education (Lay Members of Appeal Committees) Regulations 1994 and shall come into force on 6th June 1994.
+
+## 2. Interpretation
+
+In these Regulations
+
+- “the 1993 Act” means the Education Act 1993;
+- “appeal committee” means (as the case may require) an appeal committee constituted in accordance with Part 1 of Schedule 2 of the Education Act 1980[^f00002] or in accordance with the instrument of government of a grant-maintained school for the purposes of paragraph 5(1) of Schedule 6 to the 1993 Act;
+- “appropriate authority” means (as the case may require):
+  - (a) the local education authority or the governing body of an aided or special agreement school required by section 7 of the Education Act 1980 or section 26 of the Education (No.2) Act 1986[^f00003] to make arrangements for enabling appeals to be made to an appeal committee; or
+  - (b) the governing body of a grant-maintained school required by the articles of government for the school to make arrangements for appeals to an appeal committee. Duty to advertise.
+
+**3.** (1) Subject to paragraph (3) below, the appropriate authority shall, on or before 1st September 1994 and thereafter in every three year period following the date upon which an advertisement (or the final advertisement of a series of advertisements) was last published in accordance with this regulation, secure the publication of an advertisement for lay members of appeal committees constituted by that authority.
+
+(2) The advertisement referred to in paragraph (1) above shall—
+
+- (a) identify by name, class, or general description the schools served by the appeal committees to which the advertisement relates;
+- (b) be placed in at least one local newspaper circulating in the area in which the schools identified in the advertisement are situated;
+- (c) allow a period of at least 21 days from the date of publication of the advertisement for replies.
+
+(3) The duty under paragraph (1) above shall not be required to be performed before 1st September 1994 if the appropriate authority has in 1994, but before the coming into force of these Regulations, secured the publication of an advertisement which meets the requirements of this regulation and any such advertisement (or the final advertisement of a series of advertisements) shall be deemed to have been published on the date of coming into force of these Regulations.
+
+## 4. Consideration of candidates
+
+Before nominating any lay member of an appeal committee the appropriate authority shall consider any eligible candidate who has responded to the most recent advertisement or series of advertisements placed by or on behalf of the appropriate authority in accordance with regulation 3 indicating that he wishes to be considered for such nomination.
+
+John Patten
+
+Secretary of State for Education
+
+10th May 1994
+
+John Redwood
+
+Secretary of State for Wales
+
+12th May 1994
+
+(This note is not part of the Regulations)
+
+These Regulations require local education authorities or the governing bodies of aided, special agreement or grant-maintained schools, as the case may be, to see that advertisements are placed in local newspapers for lay members of appeal committees. The first advertisement has to be placed on or before 1st September 1994. After this there must be no more than a three year gap between successive advertisements.
+
+Those considered for nomination by the local education authority or governing body must include all eligible applicants who have responded to the last round of advertisements.
+
+## Annotations
+
+[^f00001]: Footnote: [1993 c. 35](https://www.legislation.gov.uk/ukpga/1993/35).
+
+[^f00002]: Footnote: [1980 c. 20](https://www.legislation.gov.uk/ukpga/1980/20).
+
+[^f00003]: Footnote: [1986 c. 61](https://www.legislation.gov.uk/ukpga/1986/61).

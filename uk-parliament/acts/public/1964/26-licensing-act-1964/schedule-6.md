@@ -1,0 +1,73 @@
+---
+title: Licensing Act 1964, SCHEDULE 6
+act: Licensing Act 1964
+section: schedule-6
+status: repealed
+text_date: '2006-01-01'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/1964/26/schedule/6
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Licensing Act 1964, SCHEDULE 6
+
+> This provision is no longer in force.
+>
+> Extent: England, Wales.
+
+## SCHEDULE 6 — Procedure on Applications and Complaints relating to Registration Certificates[^key-08dfeba7c89d3df57009a817dae195d1]
+
+*Extent: E+W*
+
+**No longer in force.**
+
+### Part I — Issue, Renewal and Surrender of Registration Certificates[^key-08dfeba7c89d3df57009a817dae195d1]
+
+#### Applications, et ceteralaetc.[^key-08dfeba7c89d3df57009a817dae195d1]
+
+**1.**[^key-08dfeba7c89d3df57009a817dae195d1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**2.**[^key-08dfeba7c89d3df57009a817dae195d1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**3.**[^key-08dfeba7c89d3df57009a817dae195d1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**4.**[^key-08dfeba7c89d3df57009a817dae195d1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**5.**[^key-08dfeba7c89d3df57009a817dae195d1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Objections, et ceteralaetc.[^key-08dfeba7c89d3df57009a817dae195d1]
+
+**6.**[^key-08dfeba7c89d3df57009a817dae195d1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**7.**[^key-08dfeba7c89d3df57009a817dae195d1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**8.**[^key-08dfeba7c89d3df57009a817dae195d1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**9.**[^key-08dfeba7c89d3df57009a817dae195d1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**10.**[^key-08dfeba7c89d3df57009a817dae195d1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**11.**[^key-08dfeba7c89d3df57009a817dae195d1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**12.**[^key-08dfeba7c89d3df57009a817dae195d1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Part II — Complaint for Cancellation or Variation of Registration Certificate[^key-08dfeba7c89d3df57009a817dae195d1]
+
+**13.**[^key-08dfeba7c89d3df57009a817dae195d1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**14.**[^key-08dfeba7c89d3df57009a817dae195d1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**15.**[^key-08dfeba7c89d3df57009a817dae195d1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Part III — General[^key-08dfeba7c89d3df57009a817dae195d1]
+
+**16.**[^key-08dfeba7c89d3df57009a817dae195d1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**17.**[^key-08dfeba7c89d3df57009a817dae195d1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**18.**[^key-08dfeba7c89d3df57009a817dae195d1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Annotations
+
+[^key-08dfeba7c89d3df57009a817dae195d1]: Textual amendment: Act repealed (17.7.2003 for the purpose of the repeal of ss. 66, 67, Sch. 8, 24.11.2005 in so far as not already in force) by [Licensing Act 2003 (c. 17)](https://www.legislation.gov.uk/ukpga/2003/17), [s. 201(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/201/2), [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/17/schedule/7) (with [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2003/17/section/2/3), [15(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/15/2), [195](https://www.legislation.gov.uk/ukpga/2003/17/section/195)); [S.I. 2003/1911](https://www.legislation.gov.uk/uksi/2003/1911), [art. 2](https://www.legislation.gov.uk/uksi/2003/1911/article/2); S.I. 2005/3056

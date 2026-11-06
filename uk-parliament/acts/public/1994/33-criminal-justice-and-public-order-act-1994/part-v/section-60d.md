@@ -1,0 +1,75 @@
+---
+title: Criminal Justice and Public Order Act 1994, section 60D
+act: Criminal Justice and Public Order Act 1994
+section: 60D
+status: revised-with-pending-changes
+text_date: '2026-06-29'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/1994/33/section/60D
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Criminal Justice and Public Order Act 1994, section 60D
+
+> **Warning: changes not yet applied to this text (16).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/1994/33
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 60D. Offence under section 60C: seizure of property etc[^key-39ddeb6bd16cacf7f1dfb59dc413f246]
+
+*Extent: E+W*
+
+(1) If a constable reasonably suspects that an offence has been committed under section 60C, the constable may seize and remove any relevant property that appears to the constable—
+
+- (a) to belong to the person who the constable suspects has committed the offence (“P”);
+- (b) to be in P’s possession; or
+- (c) to be under P’s control.
+
+(2) “Relevant property” means—
+
+- (a) a vehicle (wherever located) which, for the purposes of section 60C(1)(b) (in the case of an offence under section 60C(2)(a)) or for the purposes of section 60C(2)(b)(ii) (in the case of an offence under section 60C(2)(b)), the constable suspects P had or intended to have with them, or
+- (b) any other property that is on the relevant land.
+
+(3) The “relevant land” is the land in respect of which a request under section 60C(1)(d) is made.
+
+(4) The relevant chief officer of police may retain any property that has been seized under subsection (1) until the end of the period of three months beginning with the day of the seizure (“the relevant period”).
+
+(5) But the relevant chief officer of police ceases to be entitled to retain the property if before the end of the relevant period a custody officer gives written notice to P that P is not to be prosecuted for the offence under section 60C in relation to which the property was seized.
+
+(And see subsection (10)).
+
+(6) Subsection (7) applies where before the end of the relevant period proceedings for an offence under section 60C are commenced against P.
+
+(7) Where this subsection applies the relevant chief officer of police may retain the property seized until the conclusion of proceedings relating to the offence (including any appeal) (but see subsection (10)).
+
+(8) Where a chief officer of police ceases to be entitled to retain property under this section the chief officer must, subject to any order for forfeiture under section 60E, return it to the person whom the chief officer believes to be its owner.
+
+(9) If a chief officer of police cannot after reasonable inquiry identify a person for the purposes of subsection (8)—
+
+- (a) the chief officer must apply to a magistrates’ court for directions, and
+- (b) the court must make an order about the treatment of the property.
+
+(10) If at any time a person other than P satisfies a chief officer of police that property that is retained by the chief officer under this section—
+
+- (a) belongs to the person at that time, and
+- (b) belonged to them at the time of the suspected offence under section 60C,
+
+the chief officer must return the property to the person.
+
+(11) Subsection (10) does not apply in relation to a vehicle belonging to a person other than P if the chief officer of police reasonably believes that the vehicle was, with the consent of the other person, in P’s possession or under P’s control at the time of the suspected offence under section 60C.
+
+(12) For the purposes of subsection (6), proceedings are commenced when—
+
+- (a) a written charge is issued under section 29(1) of the Criminal Justice Act 2003,
+- (b) a person is charged under Part 4 of the Police and Criminal Evidence Act 1984, or
+- (c) an information is laid under section 1 of the Magistrates’ Courts Act 1980.
+
+(13) For the purposes of this section—
+
+- (a) the relevant chief officer of police is the chief officer of the police force for the area in which the property was seized, and
+- (b) “vehicle” has the same meaning as in section 60C.
+
+## Annotations
+
+[^key-39ddeb6bd16cacf7f1dfb59dc413f246]: Textual amendment: Ss. 60C-60E and cross-heading inserted (E.W.) (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 83(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/83/1), [208(5)(i)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/i)

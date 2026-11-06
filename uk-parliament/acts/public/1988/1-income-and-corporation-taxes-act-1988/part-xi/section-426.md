@@ -1,0 +1,27 @@
+---
+title: Income and Corporation Taxes Act 1988, section 426
+act: Income and Corporation Taxes Act 1988
+section: '426'
+status: revised-with-pending-changes
+text_date: '2026-04-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/1988/1/section/426
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Income and Corporation Taxes Act 1988, section 426
+
+> **Warning: changes not yet applied to this text (13).** Text as at 2026-04-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1988/1
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 426. Charge to income tax where apportionment is to an individual.[^c23553491]
+
+*Extent: E+W+S+N.I.*
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Annotations
+
+[^c23553491]: Textual amendment: [Pt. 11 Ch. 3](https://www.legislation.gov.uk/ukpga/1988/1/part/11/chapter/3) (ss. 423-430) repealed (with effect in accordance with s. 103(1) of the repealing Act) by [Finance Act 1989 (c. 4)](https://www.legislation.gov.uk/ukpga/1989/4), [Sch. 17 Pt. 5](https://www.legislation.gov.uk/ukpga/1989/4/schedule/17/part/5), Note 4 (with s. 103(2))

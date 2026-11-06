@@ -1,0 +1,37 @@
+---
+title: Income Tax (Trading and Other Income) Act 2005, section 810
+act: Income Tax (Trading and Other Income) Act 2005
+section: '810'
+status: revised-with-pending-changes
+text_date: '2026-07-15'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2005/5/section/810
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Income Tax (Trading and Other Income) Act 2005, section 810
+
+> **Warning: changes not yet applied to this text (8).** Text as at 2026-07-15. See https://www.legislation.gov.uk/changes/affected/ukpga/2005/5
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 810. Share of fixed amount: income period not a year
+
+*Extent: E+W+S+N.I.*
+
+(1) This section applies if in a tax year an individual's income period for the individual's qualifying care[^key-74709c42fcf3f5403b80718893a7e7ea] receipts is a period other than a year.
+
+(2) The individual's share of the fixed amount for the tax year is—
+
+[formula: see source](https://www.legislation.gov.uk/ukpga/2005/5)
+
+where—
+
+AS is the fixed amount or (if section 809 applies) the individual's share of the fixed amount, and
+
+D is the number of days in the individual's income period.
+
+## Annotations
+
+[^key-74709c42fcf3f5403b80718893a7e7ea]: Textual amendment: Words in s. 810(1) substituted (16.12.2010) (with effect in accordance with Sch. 1 para. 36 of the amending Act) by [Finance (No. 3) Act 2010 (c. 33)](https://www.legislation.gov.uk/ukpga/2010/33), [Sch. 1 para. 11](https://www.legislation.gov.uk/ukpga/2010/33/schedule/1/paragraph/11) (with [Sch. 1 para. 37](https://www.legislation.gov.uk/ukpga/2010/33/schedule/1/paragraph/37))

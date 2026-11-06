@@ -1,0 +1,140 @@
+---
+title: The Service Custody and Service of Relevant Sentences (Amendment) Rules 2023
+id: uksi/2023/1103
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2023-10-17'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2023/1103
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2023/1103/pdfs/uksiem_20231103_en_001.pdf
+- http://www.legislation.gov.uk/uksi/2023/1103/pdfs/uksi_20231103_en.pdf
+- http://www.legislation.gov.uk/uksi/2023/1103/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Service Custody and Service of Relevant Sentences (Amendment) Rules 2023
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2023 No. 1103
+
+DEFENCE
+
+The Service Custody and Service of Relevant Sentences (Amendment) Rules 2023
+
+Made
+
+17th October 2023
+
+Laid before Parliament
+
+23rd October 2023
+
+Coming into force
+
+13th November 2023
+
+The Secretary of State makes these Rules in exercise of the powers conferred by section 300 of the Armed Forces Act 2006[^f00001].
+
+## 1. Citation, commencement and extent
+
+(1) These Rules may be cited as the Service Custody and Service of Relevant Sentences (Amendment) Rules 2023.
+
+(2) These Rules come into force on 13th November 2023.
+
+(3) These Rules extend to England and Wales, Scotland, Northern Ireland, the Isle of Man and the British overseas territories (except Gibraltar).
+
+## 2. Amendment of the Service Custody and Service of Relevant Sentences Rules 2009
+
+The Service Custody and Service of Relevant Sentences Rules 2009[^f00002] are amended as follows.
+
+## 3. Amendment to rule 1 (citation, commencement and interpretation)
+
+In rule 1(2) (citation, commencement and interpretation), before “independent monitoring board” insert—
+
+> - “**electronic cigarette**” means a product that can be used for the consumption of nicotine-containing vapour via a mouth piece, or any component of that product, including a cartridge, a tank, and the device without cartridge or tank (regardless of whether the product is disposable or refillable by means of a refill cartridge and a tank, or rechargeable with single use cartridges);
+
+.
+
+## 4. Amendment to rule 5 (release from service detention)
+
+After rule 5(1)(b) (release from service detention)—
+
+- (a) omit “or”,
+- (b) insert—
+
+  > - (ba) by an order of a commanding officer made under Rule 36H(2) of the Armed Forces (Summary Hearings and Activation of Suspended Sentences of Service Detention) Rules 2009[^f00003]; or
+
+  .
+
+## 5. Amendment to rule 15 (reimbursement allowance)
+
+In the second sentence of rule 15(3) (reimbursement allowance), omit the words “cigarettes, tobacco,”.
+
+## 6. Amendment to rule 16 (smoking)
+
+For rule 16 (smoking), substitute—
+
+> **16. Prohibition of smoking**
+>
+> No detainee is allowed to smoke or to have any tobacco, except in accordance with any directions of the commandant.
+
+.
+
+## 7. Listing of smoking-related articles prohibited for the purposes of the offence of conveyance etc, of List B or C articles into or out of service custody premises
+
+After rule 71 (offences in relation to service custody premises and persons under sentence), insert—
+
+> **71A. List C articles**
+>
+> The following are List C articles within the meaning of section 40A (sections 40B and 40C: classification of articles) of the Prison Act 1952[^f00004], as applied by rule 71 of these Rules—
+>
+> - (a) tobacco;
+> - (b) cigarettes;
+> - (c) electronic cigarettes;
+> - (d) matches;
+> - (e) lighters.
+
+.
+
+Andrew Murrison
+
+Parliamentary Under Secretary of State
+
+Ministry of Defence
+
+17th October 2023
+
+Explanatory Note
+
+(This note is not part of the Rules)
+
+These Rules amend the Service Custody and Service of Relevant Sentences Rules 2009 ([S.I. 2009/1096](https://www.legislation.gov.uk/uksi/2009/1096)) (the “Service Custody Rules”), so as to prohibit smoking in the Military Corrective Training Centre (“**MCTC**”) and other service custody facilities.  They also make provision allowing for a detainee to be released on the order of a commanding officer, where the commanding officer has exercised their power to vary a punishment or rescind an activation order that the commanding officer had no power to make.
+
+Rule 3 inserts a definition of “electronic cigarette” into rule 1 (citation, commencement and interpretation) of the Service Custody Rules. This is the same definition used in rule 2 of the Prison Rules 1999 ([S.I. 1999/728](https://www.legislation.gov.uk/uksi/1999/728), as amended by the Prison and Young Offender Institution (Amendment) Rules 2018 ([S.I. 2018/549](https://www.legislation.gov.uk/uksi/2018/549))).
+
+Rule 4 amends rule 5 (release for service detention) of the Service Custody Rules so as to allow a detainee to be released on the order of a commanding officer, where the commanding officer has varied a punishment awarded or rescinded an activation order made by that commanding officer, on the basis that there was no power to award such a punishment or make such an order.
+
+Rule 5 amends rule 15 (reimbursement allowance) of the Service Custody Rules, so that detainees are no longer permitted to purchase cigarettes or tobacco.
+
+Rule 6 substitutes rule 16 (smoking) of the Service Custody Rules so that detainees are no longer permitted to smoke or have any tobacco, except in accordance with directions issued by the commandant.
+
+Rule 7 inserts a new rule 71A, which establishes a set of “List C” items. Once these Rules come into force, it will be a criminal offence for a person to convey any of the items listed in rule 71A into or out of MCTC or other service custody facilities.
+
+A full impact assessment has not been produced for this instrument as no, or no significant, impact on the private, voluntary or public sector is foreseen.
+
+## Annotations
+
+[^f00001]: Footnote: [2006 c. 52](https://www.legislation.gov.uk/ukpga/2006/52).
+
+[^f00002]: Footnote: [S.I. 2009/1096](https://www.legislation.gov.uk/uksi/2009/1096).
+
+[^f00003]: Footnote: [S.I. 2009/1216](https://www.legislation.gov.uk/uksi/2009/1216). Rule 36H was inserted by the Armed Forces (Amendment of Court Rules) Rules 2023 ([S.I. 2023/1097](https://www.legislation.gov.uk/uksi/2023/1097)).
+
+[^f00004]: Footnote: [1952 c. 52](https://www.legislation.gov.uk/ukpga/1952/52) (15 and 16 Geo 6 and 1 Eliz 2), applied with modifications by rule 71 of the Service Custody and Service of Relevant Sentences Rules 2009.

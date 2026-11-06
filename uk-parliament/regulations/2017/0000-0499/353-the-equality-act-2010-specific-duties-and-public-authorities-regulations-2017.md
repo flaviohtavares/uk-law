@@ -1,0 +1,797 @@
+---
+title: The Equality Act 2010 (Specific Duties and Public Authorities) Regulations 2017
+id: uksi/2017/353
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised-with-pending-changes
+made_date: '2017-03-09'
+text_date: '2026-09-30'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/uksi/2017/353
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2017/353/pdfs/uksiem_20170353_en.pdf
+- http://www.legislation.gov.uk/uksi/2017/353/pdfs/uksi_20170353_en.pdf
+- http://www.legislation.gov.uk/uksi/2017/353/data.pdf
+pending_changes: 1
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Equality Act 2010 (Specific Duties and Public Authorities) Regulations 2017
+
+> **Warning: changes not yet applied to this text (1).** Text as at 2026-09-30. See https://www.legislation.gov.uk/changes/affected/uksi/2017/353
+>
+> Extent: England, Wales, Scotland.
+
+*Extent: E+W+S*
+
+2017 No. 353
+
+Equality
+
+The Equality Act 2010 (Specific Duties and Public Authorities) Regulations 2017
+
+Made
+
+9th March 2017
+
+Coming into force
+
+31st March 2017
+
+These Regulations are made in exercise of the powers conferred by sections 151(1), 153(1), 154(2) and 207(4) of the Equality Act 2010 [^c22997551].
+
+The Secretary of State has consulted the Commission for Equality and Human Rights in accordance with sections 152(1), 153(4) and 154(4) of that Act; and the Welsh Ministers in accordance with section 152(1) and 154(3) of that Act so far as these Regulations relate to relevant Welsh authorities and cross-border Welsh authorities.
+
+In accordance with section 151(8) of that Act, the Secretary of State considers that the extension of the application of section 149 relates to persons by whom a public function is exercisable.
+
+In accordance with section 208(2) and (4), (5)(f) and (8) of that Act, a draft of this instrument was laid before Parliament and approved by a resolution of each House of Parliament.
+
+The Secretary of State, in exercise of those powers, makes the following Regulations:
+
+## 1. Citation, commencement and interpretation
+
+(1) These Regulations may be cited as the Equality Act 2010 (Specific Duties and Public Authorities) Regulations 2017 and come into force on 31st March 2017.
+
+(2) In these Regulations—
+
+- “**the Act**” means the Equality Act 2010;
+- “**the 1996 Act**” means the Employment Rights Act 1996 [^c22997561];
+- “**the 2011 Regulations**” means the Equality Act 2010 (Specific Duties) Regulations 2011 [^c22997571];
+- “employment” and related expressions have the meaning given in regulation 2;
+- “**English local authority**” has the same meaning as in section 162 of the Education and Inspections Act 2006 [^c22997581];
+- “**maintained school**” has the same meaning as in section 20(7) of the School Standards and Framework Act 1998 [^c22997591].
+
+## 2. Meaning of “employment”
+
+(1) In these Regulations, “**employment**” means—
+
+- (a) employment under a contract of employment, a contract of apprenticeship or a contract personally to do work, and
+- (b) Crown employment (within the meaning of section 191(3) of the 1996 Act [^c22997601]).
+
+(2) Section 191(4) of the 1996 Act [^c22997611] applies for the purposes of these Regulations as it applies for the purposes set out in that subsection.
+
+(3) For the purposes of these Regulations, an employee of an English local authority at a maintained school is to be treated as an employee of the governing body of that school.
+
+(4) These Regulations apply to service in the armed forces as they apply to employment by, (or in the case of Crown employment, under or for the purposes of) a public authority, and for that purpose, references to terms of employment, or to a contract of employment, are to be read as including references to terms of service.
+
+(5) For the purposes of these Regulations, the holding, otherwise than under a contract of employment, of the office of constable, or of an appointment as a police cadet, is to be treated as employment by the relevant officer (and for that purpose, references to terms of employment, or to a contract of employment, are to be read as including references to terms of service).
+
+(6) In paragraph (4)—
+
+- (a) “**constable**” does not include a special constable;
+- (b) “**police cadet**” means a person appointed to undergo training with a view to becoming a constable;
+- (c) “**relevant officer**” means—
+  - (i) in relation to a member of a police force or a police cadet appointed for a police area, the chief officer of police;
+  - (ii) in relation to any other person holding the office of constable or an appointment as a police cadet, the person who has the direction and control of the body of constables or cadets in question.
+
+## 3. Gender pay gap reporting
+
+Schedule 1 to these Regulations (which imposes obligations on public authorities to publish gender pay gap information relating to employees) has effect.
+
+## 4. Publication of information
+
+(1) Each public authority listed in Schedule 2 to these Regulations must publish information to demonstrate its compliance with the duty imposed by section 149(1) of the Act.
+
+(2) The public authority must publish the information required by paragraph (1)—
+
+- (a) not later than 30th March 2018; and
+- (b) subsequently at intervals of not greater than one year beginning with the date of last publication.
+
+(3) The information a public authority publishes in compliance with paragraph (1) must include, in particular, information relating to persons who share a relevant protected characteristic who are—
+
+- (a) its employees;
+- (b) other persons affected by its policies and practices.
+
+(4) Paragraph (3)(a) does not apply to a public authority with fewer than 150 employees.
+
+## 5. Equality objectives
+
+(1) Each public authority listed in Schedule 2 to these Regulations must prepare and publish one or more objectives it thinks it should achieve to do any of the things mentioned in paragraphs (a) to (c) of section 149(1) of the Act.
+
+(2) The objectives must be published—
+
+- (a) not later than 30th March 2018 (subject to regulation 9(2)); and
+- (b) subsequently at intervals of not greater than four years beginning with the date of last publication.
+
+(3) An objective published by a public authority in compliance with paragraph (1) must be specific and measurable.
+
+## 6. Manner of publication
+
+(1) The requirements in regulations 4 and 5 to publish information are requirements to publish the information in a manner that is accessible to the public.
+
+(2) A public authority may comply with the requirements to publish information in regulation 4 or 5 by publishing the information within another published document.
+
+## 7. Monitor and the NHS Trust Development Authority[^key-4f0b4ab7d251ee60acc3808ea6c7b84b]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 8. Amendment of Schedule 19 to the Act
+
+Schedule 3 to these Regulations (which amends Parts 1 and 2 of Schedule 19 to the Act) has effect.
+
+## 9. Revocation, saving and transitional provision
+
+(1) The 2011 Regulations are revoked (subject to paragraph (3)).
+
+(2) Where a public authority has, within the period of four years ending with 30th March 2018, published equality objectives in compliance with regulation 3(1) of the 2011 Regulations—
+
+- (a) regulation 5(2)(a) does not apply; and
+- (b) regulation 5(2)(b) is to be read as if—
+  - (i) the word “subsequently” were omitted, and
+  - (ii) the “date of last publication” referred to the date of last publication under regulation 3 of the 2011 Regulations.
+
+(3) Where—
+
+- (a) immediately before the commencement date a public authority is required by regulation 2 of the 2011 Regulations to publish the information referred to in paragraph (1) of that regulation,
+- (b) that information is required to be published on or before 6 April 2017, and
+- (c) the information is not published before the commencement date in a form and manner that complies with regulations 2 and 4 of those Regulations,
+
+regulations 2 and 4 are to continue to have effect on and after the commencement date in so far as they relate to the publication of that information by that authority.
+
+Justine Greening
+
+Secretary of State for Education and Minister for Women and Equalities
+
+Department for Education
+
+## SCHEDULE 1 — Gender pay gap reporting
+
+Regulation 3
+
+**1.** (1) In this Schedule—
+
+- “**bonus pay**” has the meaning given in paragraph 4;
+- “**full-pay relevant employee**” means a relevant employee who is not, during the relevant pay period, being paid at a reduced rate or nil as a result of the employee being on leave;
+- “**hourly rate of pay**” has the meaning given in paragraph 6;
+- “**ITEPA 2003**” means the Income Tax (Earnings and Pensions) Act 2003 [^c22997641];
+- “**leave**” includes—
+  - (a) annual leave;
+  - (b) maternity, paternity, adoption, parental or shared parental leave;
+  - (c) sick leave; and
+  - (d) special leave;
+- “**ordinary pay**” has the meaning given in paragraph 3;
+- “**pay period**” has the meaning given in paragraph 5(1);
+- “**piecework**” means work in respect of which an employee is entitled to be paid by reference to a number of pieces made or processed, or a number of tasks performed, instead of by reference to a period of time worked;
+- “**relevant employee**” means a person who is employed by, (or in the case of Crown employment, under or for the purposes of) the relevant public authority on the snapshot date;
+- “**relevant pay period**” has the meaning given in paragraph 5(2);
+- “**relevant public authority**” means a public authority listed in Schedule 2 to these Regulations which has 250 or more employees on the snapshot date;
+- “**snapshot date**” means the 31st March in the year to which the information required by paragraph 2 relates.
+
+(2) For the purposes of this Schedule, the amount of an employee's ordinary pay or bonus pay is to be calculated before deductions made at source (for example deductions in relation to income tax).
+
+### 2. Duty to publish annual information relating to pay
+
+(1) A relevant public authority must publish, for 2017 and each subsequent year, the following information—
+
+- (a) the difference between the mean hourly rate of pay of male full-pay relevant employees and that of female full-pay relevant employees (see paragraph 8);
+- (b) the difference between the median hourly rate of pay of male full-pay relevant employees and that of female full-pay relevant employees (see paragraph 9);
+- (c) the difference between the mean bonus pay paid to male relevant employees and that paid to female relevant employees (see paragraph 10);
+- (d) the difference between the median bonus pay paid to male relevant employees and that paid to female relevant employees (see paragraph 11);
+- (e) the proportions of male and female relevant employees who were paid bonus pay (see paragraph 12); and
+- (f) the proportions of male and female full-pay relevant employees in the lower, lower middle, upper middle and upper quartile pay bands (see paragraph 13).
+
+(2) The relevant public authority must publish the information required by sub-paragraph (1) within the period of 12 months beginning with the snapshot date.
+
+(3) In compiling the information required by sub-paragraph (1), a relevant public authority is not required to include data relating to a relevant employee if—
+
+- (a) the employee is employed under a contract personally to do work, and
+- (b) the public authority does not have, and it is not reasonably practicable for the public authority to obtain, the data.
+
+### 3. Meaning of “ordinary pay”
+
+(1) In this Schedule, “**ordinary pay**” means (subject to sub-paragraph (2))—
+
+- (a) basic pay;
+- (b) allowances;
+- (c) pay for piecework;
+- (d) pay for leave; and
+- (e) shift premium pay.
+
+(2) “**Ordinary pay**” does not include—
+
+- (a) remuneration referable to overtime;
+- (b) remuneration referable to redundancy or termination of employment;
+- (c) remuneration in lieu of leave; or
+- (d) remuneration provided otherwise than in money.
+
+(3) In sub-paragraph (1)—
+
+- (a) “**allowances**” includes any sum paid with respect to—
+  - (i) any duty of the employee, such as a duty in connection with the role of fire or bomb warden, that is ancillary to the main duties of the employee's employment;
+  - (ii) the location of the employment in a particular area;
+  - (iii) the purchase, lease or maintenance of a vehicle;
+  - (iv) the recruitment and retention of an employee; or
+  - (v) the purchase, lease or maintenance of an item;
+
+but excludes any payment to reimburse expenditure wholly and necessarily incurred by the employee in the course of his or her employment;
+
+- (b) “**shift premium pay**” means the difference between basic pay and any higher rate paid by the public authority for work during different times of the day or night.
+
+### 4. Meaning of “bonus pay”
+
+(1) In this Schedule, “**bonus pay**” means (subject to sub-paragraph (2)) any remuneration that—
+
+- (a) is in the form of money, vouchers, securities, securities options or interests in securities, and
+- (b) relates to profit sharing, productivity, performance, incentive or commission.
+
+(2) “**Bonus pay**” does not include—
+
+- (a) ordinary pay;
+- (b) remuneration referable to overtime; or
+- (c) remuneration referable to redundancy or termination of employment.
+
+(3) For the purpose of sub-paragraph (1), remuneration in the form of securities, securities options and interests in securities, is to be treated as paid to the employee at the time, and in the amounts in respect of which, the securities, securities options and interests in securities give rise to (or would give rise to, if the employee were an employee for the purposes of Part 2 of ITEPA 2003 (employment income))—
+
+- (a) any taxable earnings within the meaning of section 10(2) of ITEPA 2003 [^c22997651]; or
+- (b) any taxable specific income within the meaning of section 10(3) of ITEPA 2003 [^c22997661].
+
+(4) In this paragraph “**securities**”, “**securities options**” and “**interests in securities**” have the same meaning as in section 420 of ITEPA 2003 [^c22997671].
+
+### 5. Meaning of the “pay period” and the “relevant pay period”
+
+(1) In this Schedule, “**pay period**”, in relation to a relevant employee, means—
+
+- (a) the period in respect of which the relevant public authority pays the employee basic pay, whether weekly, fortnightly, monthly or any other period, or
+- (b) if the relevant public authority does not pay the employee basic pay, the period in respect of which the public authority most frequently pays the employee one of the elements of ordinary pay mentioned in paragraph 3(1)(b) to (e).
+
+(2) In this Schedule, the “**relevant pay period**” means the pay period within which the snapshot date falls.
+
+### 6. Meaning of “hourly rate of pay”
+
+(1) The “**hourly rate of pay**” in relation to a relevant employee, is to be determined as follows—
+
+- *Step 1*
+- Identify all amounts of ordinary pay and bonus pay paid to the employee during the relevant pay period.
+- *Step 2*
+- Where an amount identified under Step 1 is an amount of ordinary pay, exclude any amount that would normally fall to be paid in a different pay period.
+- *Step 3*
+- Where an amount identified under Step 1 is an amount of bonus pay, and is paid in respect of a period (“the bonus period”) which is not the same length as the relevant pay period, divide the amount by the length of the bonus period (in days) and multiply it by the length of the relevant pay period (in days).
+- *Step 4*
+- Add together the amounts identified under Step 1 (as adjusted, where necessary, under Steps 2 and 3).
+- *Step 5*
+- Multiply the amount found under Step 4 by the appropriate multiplier (see sub-paragraphs (2) and (3)).
+- *Step 6*
+- Divide the amount found under Step 5 by the number of working hours in a week for that employee (see paragraph 7).
+
+(2) In this paragraph, “**the appropriate multiplier**” means 7 divided by the number of days in the relevant pay period.
+
+(3) In determining for the purposes of this paragraph the number of days in the relevant pay period or bonus period where those periods are (or are determined by reference to) a month or a year—
+
+- (a) a month is treated as having 30.44 days;
+- (b) a year is treated as having 365.25 days.
+
+### 7. Employee's working hours in a week
+
+(1) The number of working hours in a week for a relevant employee, for the purposes of Step 6 in paragraph 6, is to be determined as follows.
+
+(2) Subject to sub-paragraph (6), where an employee has normal working hours that do not differ from week to week or over a longer period, the number of working hours in a week for a relevant employee is the number of the normal working hours in a week for that employee under the employee's contract of employment, or terms of employment, in force on the snapshot date.
+
+(3) Subject to sub-paragraph (6), where the employee has no normal working hours, or the number of the normal working hours differs from week to week or over a longer period, the number of working hours in a week for the employee is—
+
+- (a) the average number of working hours calculated by dividing by twelve the total number of the employee's working hours during the period of twelve weeks ending with the last complete week of the relevant pay period, or
+- (b) where the employee has not been at work for a sufficient period, or for some other reason the public authority is not reasonably able to make the calculation under paragraph (a), a number which fairly represents the number of working hours in a week having regard to such of the considerations specified in sub-paragraph (5) as are appropriate in the circumstances.
+
+(4) In calculating the average number of working hours for the purposes of sub-paragraph (3)(a), no account is to be taken of a week in which no hours were worked by the employee, and hours worked in earlier weeks must be brought in so as to bring up to twelve the number of weeks of which account is taken.
+
+(5) The considerations referred to in sub-paragraph (3)(b) are—
+
+- (a) the average number of working hours in a week which the employee could expect under the employee's contract of employment, or terms of employment; and
+- (b) the average number of working hours of other employees engaged in comparable employment with the same public authority.
+
+(6) Where the employee is paid on the basis of piecework, the number of working hours in a week for the employee is the number of hours of output work for that employee in the week during the relevant pay period within which the snapshot date falls, determined in accordance with Chapter 4 of Part 5 of the National Minimum Wage Regulations 2015 [^c22997681].
+
+(7) In its application by virtue of sub-paragraph (6), Chapter 4 of Part 5 of the National Minimum Wage Regulations 2015 has effect as if—
+
+- (a) references to a worker were references to an employee, and
+- (b) references to a pay reference period were references to a week.
+
+(8) In this paragraph, “working hours”—
+
+- (a) includes hours when an employee is available, and required to be available, at or near a place of work for the purposes of working unless the employee is at home, and
+- (b) excludes any hours for which an employee is entitled to overtime pay.
+
+(9) In sub-paragraph (8), hours when an employee is “available” only includes hours when the employee is awake for the purposes of working, even if an employee by arrangement sleeps at or near a place of work and the employer provides suitable facilities for sleeping.
+
+### 8. Difference in mean hourly rate of pay
+
+The difference between the mean hourly rate of pay of male full-pay relevant employees and that of female full-pay relevant employees must be expressed as a percentage of the mean hourly rate of pay of male full-pay relevant employees and is to be determined as follows—
+
+[formula: see source](https://www.legislation.gov.uk/uksi/2017/353)
+
+where—
+
+A is the mean hourly rate of pay of all male full-pay relevant employees; and
+
+B is the mean hourly rate of pay of all female full-pay relevant employees.
+
+### 9. Difference in median hourly rate of pay
+
+The difference between the median hourly rate of pay of male full-pay relevant employees and that of female full-pay relevant employees must be expressed as a percentage of the median pay of male full-pay relevant employees and is to be determined as follows—
+
+[formula: see source](https://www.legislation.gov.uk/uksi/2017/353)
+
+where—
+
+A is the median hourly rate of pay of all male full-pay relevant employees; and
+
+B is the median hourly rate of pay of all female full-pay relevant employees.
+
+### 10. Difference in mean bonus pay
+
+(1) The difference between the mean bonus pay paid to male relevant employees and that paid to female relevant employees must be expressed as a percentage of the mean bonus pay paid to male relevant employees and is to be determined as follows—
+
+[formula: see source](https://www.legislation.gov.uk/uksi/2017/353)
+
+where—
+
+A is the mean bonus pay paid during the relevant period to male relevant employees who were paid bonus pay during that period; and
+
+B is the mean bonus pay paid during the relevant period to female relevant employees who were paid bonus pay during that period.
+
+(2) In this paragraph, “**the relevant period**” means the period of 12 months ending with the snapshot date.
+
+### 11. Difference in median bonus pay
+
+(1) The difference between the median bonus pay paid to male relevant employees and that paid to female relevant employees must be expressed as a percentage of the median bonus pay paid to male relevant employees and is to be determined as follows—
+
+[formula: see source](https://www.legislation.gov.uk/uksi/2017/353)
+
+where—
+
+A is the median bonus pay paid during the relevant period to male relevant employees who were paid bonus pay during that period; and
+
+B is the median bonus pay paid during the relevant period to female relevant employees who were paid bonus pay during that period.
+
+(2) In this paragraph, “**the relevant period**” means the period of 12 months ending with the snapshot date.
+
+### 12. Proportion of male and female employees who were paid bonus pay
+
+(1) The proportion of male relevant employees who were paid bonus pay must be expressed as a percentage of male relevant employees and as is to be determined as follows—
+
+[formula: see source](https://www.legislation.gov.uk/uksi/2017/353)
+
+where—
+
+A is the number of male relevant employees who were paid bonus pay during the relevant period; and
+
+B is the number of male relevant employees.
+
+(2) The proportion of female relevant employees who were paid bonus pay must be expressed as a percentage of female relevant employees and is to be determined as follows—
+
+[formula: see source](https://www.legislation.gov.uk/uksi/2017/353)
+
+where—
+
+A is the number of female relevant employees who were paid bonus pay during the relevant period; and
+
+B is the number of female relevant employees.
+
+(3) In this paragraph, “**the relevant period**” means the period of 12 months ending with the snapshot date.
+
+### 13. Proportion of male and female employees according to quartile pay bands
+
+(1) The proportions of male and female full-pay relevant employees in the lower, lower middle, upper middle and upper quartile pay bands is to be determined as follows.
+
+- *Step 1*
+- Determine the hourly rate of pay for each full-pay relevant employee and then rank those employees in order from lowest paid to highest paid.
+- *Step 2*
+- Divide the employees, as ranked under Step 1, into four sections, each comprising (so far as possible) an equal number of employees, to determine the lower, lower middle, upper middle and upper quartile pay bands.
+- *Step 3*
+- The proportion of male full-pay relevant employees within each quartile pay band must be expressed as a percentage of the full-pay relevant employees within that band as follows—
+
+  [formula: see source](https://www.legislation.gov.uk/uksi/2017/353)
+
+  where—
+- A is the number of male full-pay relevant employees in a quartile pay band; and
+- B is the number of full-pay relevant employees in that quartile pay band.
+- *Step 4*
+- The proportion of female full-pay relevant employees within each quartile pay band must be expressed as a percentage of the full-pay relevant employees within that band as follows—
+
+  [formula: see source](https://www.legislation.gov.uk/uksi/2017/353)
+
+  where—
+- A is the number of female full-pay relevant employees in a quartile pay band; and
+- B is the number of full-pay relevant employees in that quartile pay band.
+
+(2) Where employees receiving the same hourly rate of pay fall within more than one quartile pay band, the public authority must (so far as possible) ensure that, when ranking the employees under Step 1, the relative proportion of male and female employees receiving that rate of pay is the same in each of those pay bands.
+
+### 14. Manner of publication
+
+(1) The requirement in paragraph 2(1) to publish information is a requirement that that information be published on the public authority's website—
+
+- (a) in a manner that is accessible to all its employees and to the public; and
+- (b) for a period of at least three years beginning with the date of publication.
+
+(2) A relevant public authority must also publish the information required by paragraph 2(1) on a website designated for that purpose by the Secretary of State.
+
+(3) Where the relevant public authority comprises one of the armed forces, the information required by paragraph 2(1) may be published by a government department on its behalf.
+
+(4) Where a government department publishes information by virtue of sub-paragraph (3), the reference in sub-paragraph (1) to the public authority's website is to be read as a reference to that government department's website.
+
+## SCHEDULE 2 — Public authorities required to publish information
+
+Regulation 4(2)
+
+### Armed Forces
+
+Any of the armed forces other than any part of the armed forces which is, in accordance with a requirement of the Secretary of State, assisting the Government Communications Headquarters.
+
+### Broadcasting
+
+The British Broadcasting Corporation (“BBC”), except in respect of functions relating to the provision of a content service (within the meaning given by section 32(7) of the Communications Act 2003 [^c22997691]); and the reference to the BBC includes a reference to a body corporate which—
+
+- (a) is a wholly owned subsidiary of the BBC,
+- (b) is not operated with a view to generating a profit, and
+- (c) undertakes activities primarily in order to promote the BBC's public purposes.
+
+The Channel Four Television Corporation, except in respect of—
+
+- (a) functions relating to the provision of a content service (within the meaning given by section 32(7) of the Communications Act 2003), and
+- (b) the function of carrying on the activities referred to in section 199 of that Act [^c22997701].
+
+The Welsh Authority (as defined by section 56(1) of the Broadcasting Act 1990 [^c22997711]), except in respect of functions relating to the provision of a content service (within the meaning given by section 32(7) of the Communications Act 2003).
+
+### Civil liberties
+
+- The Commission for Equality and Human Rights.
+- The Information Commission.[^key-10c38b706fa94238e6e01bd3cbea9f66]
+
+### Court services and legal services
+
+- The Children and Family Court Advisory and Support Service.
+- The Judicial Appointments Commission.
+- The Legal Services Board.
+
+### Criminal justice
+
+- The Criminal Cases Review Commission.
+- Her Majesty's Chief Inspector of Constabulary.
+- Her Majesty's Chief Inspector of the Crown Prosecution Service.
+- Her Majesty's Chief Inspector of Prisons.
+- Her Majesty's Chief Inspector of Probation for England and Wales.
+- The Parole Board for England and Wales.
+- A probation trust established by an order made under section 5(1) of the Offender Management Act 2007 [^c22997721].
+- The Youth Justice Board for England and Wales.
+
+### Education
+
+- The governing body of an educational establishment maintained by an English local authority (within the meaning of section 162 of the Education and Inspections Act 2006 [^c22997731]).
+- The governing body of an institution in England within the further education sector (within the meaning of section 91(3) of the Further and Higher Education Act 1992 [^c22997741]).
+- The governing body of an institution in England within the higher education sector (within the meaning of section 91(5) of that Act) [^c22997751].
+- The Office for Students[^key-cbf1bfd207e13d7f17461a16e9319074].
+- A local authority in England with respect to the pupil referral units it establishes and maintains by virtue of section 19 of the Education Act 1996 [^c22997761].
+- The proprietor of a City Technology College, City College for Technology of the Arts, or an Academy.
+- The Student Loans Company Limited.
+
+### Environment, housing and development
+
+- The Environment Agency.
+- The Homes and Communities Agency.
+- Natural England.
+
+### Health, social care and social security
+
+- The Care Quality Commission.
+- An integrated care board established under Chapter A3 of Part 2 of the National Health Service Act 2006[^key-64cfd89c3146cf363036a77328e51c13].
+- [^key-830b6baf415552a0c87448d567b1c51f]...
+- The Health Research Authority.
+- [^key-abcf2e6f49080a1629c99f94ce3b7af8]...
+- [^key-5d462ba14f6964d998dd8b86041ea886]...
+- An NHS foundation trust within the meaning given by section 30 of the National Health Service Act 2006 [^c22997781].
+- An NHS trust established under section 25 of that Act.
+- NHS England[^key-7f2ea15e69479a9dbf15eb83642bee82].
+- The National Institute for Health and Care Excellence.
+- A Special Health Authority established under section 28 of the National Health Service Act 2006 [^c22997791].
+
+### Industry, business, finance etc.
+
+- The Advisory, Conciliation and Arbitration Service.
+- The Bank of England, in respect of its public functions.
+- The Board of the Pension Protection Fund.
+- The Civil Aviation Authority.
+- The Coal Authority.
+- The Construction Industry Training Board.
+- The Engineering Construction Industry Training Board.
+- The Independent System Operator and Planner designated in accordance with section 162 of the Energy Act 2023.[^key-0a0c4f8da42c760c71fbde77cd5c1db9]
+- The Financial Conduct Authority.
+- The National Audit Office.
+- The Nuclear Decommissioning Authority.
+- The Office for Budget Responsibility.
+- The Office of Communications.
+- The Oil and Gas Authority.
+- The Prudential Regulation Authority.
+
+### Local government
+
+- A body corporate established pursuant to an order under section 67 of the Local Government Act 1985 [^c22997801].
+- A combined authority established by an order made under section 103(1) of the Local Democracy, Economic Development and Construction Act 2009 [^c22997811].
+- The Common Council of the City of London in its capacity as a local authority or port health authority.
+- The Council of the Isles of Scilly.
+- A county council or district council in England.
+- An economic prosperity board established by an order made under section 88(1) of the Local Democracy, Economic Development and Construction Act 2009 [^c22997821].
+- A fire and rescue authority constituted by a scheme under section 2 of the Fire and Rescue Services Act 2004, or a scheme to which section 4 of that Act applies, for an area in England.
+- A fire and rescue authority created by an order under section 4A of the Fire and Rescue Services Act 2004. *(Extent: E)*[^key-eca9941301fb7d77becd3557767a7b73]
+- The Greater London Authority.
+- A joint committee constituted in accordance with section 102(1)(b) of the Local Government Act 1972 [^c22997831] for an area in England.
+- A London borough council.
+- The London Fire Commissioner[^key-8e5a9cd7bb3ad78806a19cfe9aa989cb].
+- A National Park authority established by an order under section 63 of the Environment Act 1995 [^c22997841] for an area in England.
+- A Passenger Transport Executive for an integrated transport area in England (within the meaning of Part 2 of the Transport Act 1968 [^c22997851]).
+- Transport for London.
+
+### Ministers of the Crown and government departments
+
+- A government department other than the Security Service, the Secret Intelligence Service or the Government Communications Headquarters.
+- A Minister of the Crown.
+
+### Parliamentary and devolved bodies
+
+- The National Assembly for Wales Commission (Comisiwn Cynulliad Cenedlaethol Cymru).
+- The Scottish Parliamentary Corporate Body.
+
+### Police
+
+- The British Transport Police Force.
+- A chief constable of a police force maintained under section 2 of the Police Act 1996.
+- The Chief Inspector of the UK Border Agency.
+- The Civil Nuclear Police Authority.
+- The College of Policing.
+- The Commissioner of Police for the City of London.
+- The Commissioner of Police of the Metropolis.
+- The Common Council of the City of London in its capacity as a police authority.
+- The Independent Police Complaints Commission.
+- The Mayor's Office for Policing and Crime established under section 3 of the Police Reform and Social Responsibility Act 2011 [^c22997861].
+- A police and crime commissioner established under section 1 of that Act.
+
+### Regulators
+
+- The Building Safety Regulator.[^key-ca7bfc589b03f2ae59d9e10658f87d1d]
+- The Disclosure and Barring Service.
+- The Gambling Commission.
+- [^key-eb50ba6bf911ed50e9be65c9f9e54928]...
+- The General Council of the Bar, in respect of its public functions.
+- The Health and Safety Executive.
+- The Law Society of England and Wales, in respect of its public functions.
+- The Office for Nuclear Regulation.
+- The Pensions Regulator.
+- The Regulator of Social Housing.[^key-19b4e628491ff9bfb87e6b35dc0e340d]
+- The Security Industry Authority.
+- Social Work England. *(Extent: E+W)*[^key-2cfce665d4149d74582d7405d437ef28]
+
+### Transport
+
+- High Speed Two (HS2) Limited [^c22997871].
+- A strategic highways company appointed under section 1 of the Infrastructure Act 2015[^key-70e307fd70308c8577cbf9f1fb7bd196].
+- Network Rail Limited [^c22997891].
+
+## SCHEDULE 3 — Amendments to Schedule 19 of the Act
+
+Regulation 8
+
+**1.** Part 1 of Schedule 19 to the Act (public authorities: general) is amended in accordance with paragraphs 2 to 6.
+
+**2.** Under the heading “Industry, business, finance etc”—
+
+- (a) omit “The Competition and Markets Authority.”;
+- (b) insert in the appropriate places—
+
+  > “The Board of the Pension Protection Fund.”
+  >
+  > “The Coal Authority.”
+  >
+  > “The Construction Industry Training Board.”
+  >
+  > “The Engineering Construction Industry Training Board.”
+  >
+  > “The Nuclear Decommissioning Authority.”
+  >
+  > “The Oil and Gas Authority.”
+
+**3.** Under the heading “Local government”—
+
+- (a) omit “The Standards Board for England.”;
+- (b) insert at the end of the entries under that heading—
+
+  > “A combined authority established by an order made under section 103(1) of the Local Democracy, Economic Development and Construction Act 2009.”[^c22997901]
+  >
+  > “An economic prosperity board established by an order made under section 88(1) of the Local Democracy, Economic Development and Construction Act 2009.”
+  >
+  > “An urban development corporation established by an order made under section 135 of the Local Government, Planning and Land Act 1980.”[^c22997911]
+
+**4.** Under the heading “Other educational bodies”, for “The proprietor of a City Technology College, a City College for Technology or the Arts, or an Academy.”, substitute “ The proprietor of a City Technology College, a City College for Technology of the Arts, or an Academy. ”.
+
+**5.** Under the heading “Regulators”—
+
+- (a) omit—
+
+  > “The Association of Authorised Public Accountants, in respect of its public functions.”; and
+  >
+  > “The Association of International Accountants, in respect of its public functions.”
+
+  ;
+- (b) for “The Association of Certified Chartered Accountants, in respect of its public functions.”, substitute “ The Association of Chartered Certified Accountants, in respect of its public functions. ”;
+- (c) insert in the appropriate places—
+
+  > “The Disclosure and Barring Service.”
+  >
+  > “The Gambling Commission.”
+  >
+  > “The Gangmasters and Labour Abuse Authority.”
+  >
+  > “The General Optical Council, in respect of its public functions.”
+  >
+  > “The General Osteopathic Council, in respect of its public functions.”
+  >
+  > “The General Pharmaceutical Council, in respect of its public functions.”
+  >
+  > “The Health and Care Professions Council, in respect of its public functions.”
+  >
+  > “The Independent Monitor appointed under section 119B of the Police Act 1997.”[^c22997921]
+  >
+  > “The Pensions Regulator.”
+  >
+  > “The Security Industry Authority.”
+
+**6.** After the entries for “Regulators”, insert—
+
+> **Transport**
+>
+> High Speed Two (HS2) Limited.
+>
+> Highways England Company Limited.
+>
+> Network Rail Limited.
+
+.
+
+**7.** Part 2 of Schedule 19 to the Act is amended in accordance with paragraphs 8 and 9.
+
+**8.** Under the heading “Other public authorities”, for “The Care Council for Wales or Cyngor Gofal Cymru.”, substitute “ Social Care Wales or Gofal Cymdeithasol Cymru. ”[^c22997931]
+
+**9.** Until section 67(3) of the Regulation and Inspection of Social Care (Wales) Act 2016 comes fully into force, the reference to Social Care Wales or Gofal Cymdeithasol Cymru inserted by paragraph 8 has effect, to the extent that section 67(3) is not in force, as a reference to the Care Council for Wales or Cyngor Gofal Cymru.
+
+*(This note is not part of the Regulations)*
+
+These Regulations impose specific duties, including gender pay gap reporting requirements, on the public authorities listed in Schedule 2 to the Regulations. The purpose of the duties is to enable the better performance by the authority of the public sector equality duty imposed by section 149(1) of the Equality Act 2010 (c. 15) (“**the Act**”). That section requires public authorities to have due regard, in the exercise of their functions, to specified equality aims.
+
+Regulation 2 makes provision as to the meaning of “employment” and related expressions for the purposes of the Regulations.
+
+Regulation 4 requires the public authorities listed in Schedule 2 to publish annual information to demonstrate compliance with the section 149(1) duty. Regulation 5 requires the same public authorities to publish equality objectives at four-yearly intervals. Regulation 6 sets out the way in which the information must be published. Regulations 4 and 5 both require the information to be first published not later than 30th March 2018.
+
+Regulation 7 enables two of the public authorities listed in Schedule 2, Monitor and the NHS Trust Development Authority, to jointly comply with the obligations imposed by the Regulations, as if they were a single public authority. This reflects arrangements by which the two statutory bodies are brought together in a single operational organisation called NHS Improvement.
+
+The requirements in regulations 4 to 6 reproduce requirements in the Equality Act 2010 (Specific Duties) Regulations 2011 (“**the 2011 Regulations**”), which are revoked by regulation 9(1). Regulation 9(2) makes transitional provision, so that if public authorities have published equality objectives in compliance with the 2011 Regulations during the four years ending with 30th March 2018, they are not required to publish such objectives again until four years from the date of last publication under the 2011 Regulations. Regulation 9(3) makes a saving provision.
+
+Regulation 3 and Schedule 1 impose new requirements for public authorities listed in Schedule 2 to the Regulations, if they have 250 or more employees, to publish information relating to the gender pay gap in their organisation. In particular, public authorities are required to publish the difference between the average hourly rate of pay paid to male and female employees; the difference between the average bonus paid to male and female employees; the proportions of male and of female employees who receive bonuses; and the relative proportions of male and female employees in each quartile pay band of the workforce.
+
+Schedule 2 to the Regulations sets out the public authorities to which the obligations in these Regulations apply. This updates and consolidates the lists in Schedules 1 and 2 of the 2011 Regulations.
+
+Schedule 3 to the Regulations amends Parts 1 and 2 of Schedule 19 to the Act (public authorities subject to the public sector equality duty).
+
+This instrument has no impact on the costs of business, charities or voluntary bodies. No specific impact assessment has been carried out on the effect that this instrument will have on the costs of the public sector, but an impact assessment prepared for the Equality Act 2010 (Gender Pay Gap Information) Regulations 2017 (which impose very similar gender pay gap reporting requirements) is published with the Explanatory Memorandum for that instrument on legislation.gov.uk. A hard copy of that full impact assessment can be obtained from the Government Equalities Office, Sanctuary Buildings, 20 Great Smith Street, SW1P 3BT.
+
+## Annotations
+
+[^c22997551]: Marginal citation: [2010 c. 15](https://www.legislation.gov.uk/ukpga/2010/15).
+
+[^c22997561]: Marginal citation: [1996 c. 18](https://www.legislation.gov.uk/ukpga/1996/18).
+
+[^c22997571]: Marginal citation: [S.I. 2011/2260](https://www.legislation.gov.uk/uksi/2011/2260).
+
+[^c22997581]: Marginal citation: [2006 c. 40](https://www.legislation.gov.uk/ukpga/2006/40). There are amendments to section 162, not relevant here.
+
+[^c22997591]: Marginal citation: [1998 c. 31](https://www.legislation.gov.uk/ukpga/1998/31). Section 20 was amended by [S.I. 2010/1158](https://www.legislation.gov.uk/uksi/2010/1158). There are further amendments to the section, not relevant here.
+
+[^c22997601]: Marginal citation: [1996 c. 18](https://www.legislation.gov.uk/ukpga/1996/18).
+
+[^c22997611]: Marginal citation: [Section 191(4)](https://www.legislation.gov.uk/uksi/2017/353/section/191/4) was amended by paragraph 34(2) and (3) of Schedule 1, and paragraph 1 of Schedule 2, to the [Employment Relations Act 2004 (c. 24)](https://www.legislation.gov.uk/ukpga/2004/24).
+
+[^key-4f0b4ab7d251ee60acc3808ea6c7b84b]: Textual amendment: Reg. 7 omitted (1.7.2022) by virtue of [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [121(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/121/2), [125(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/125/2)
+
+[^c22997641]: Marginal citation: [2003 c. 1](https://www.legislation.gov.uk/ukpga/2003/1).
+
+[^c22997651]: Marginal citation: [Section 10(2)](https://www.legislation.gov.uk/uksi/2017/353/section/10/2) was amended by paragraph 4(2) of Schedule 7 to the [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9).
+
+[^c22997661]: Marginal citation: [Section 10(3)](https://www.legislation.gov.uk/uksi/2017/353/section/10/3) was amended by paragraph 6(2) of Schedule 2 to the [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11).
+
+[^c22997671]: Marginal citation: [2003 c. 1](https://www.legislation.gov.uk/ukpga/2003/1). Section 420 was substituted by paragraph 2(1) of Schedule 22 to the [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14).
+
+[^c22997681]: Marginal citation: [S.I. 2015/621](https://www.legislation.gov.uk/uksi/2015/621).
+
+[^c22997691]: Marginal citation: [2003 c. 21](https://www.legislation.gov.uk/ukpga/2003/21).
+
+[^c22997701]: Marginal citation: Section 199 was amended by section 22(2) of the [Digital Economy Act 2010 (c. 24)](https://www.legislation.gov.uk/ukpga/2010/24).
+
+[^c22997711]: Marginal citation: [1990 c. 42](https://www.legislation.gov.uk/ukpga/1990/42). Section 56(1) was amended by Schedule 19(1) of the [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21).
+
+[^key-10c38b706fa94238e6e01bd3cbea9f66]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2017/353/schedule/2) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 3 para. 22](https://www.legislation.gov.uk/uksi/2026/386/schedule/3/paragraph/22); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
+
+[^c22997721]: Marginal citation: [2007 c. 21](https://www.legislation.gov.uk/ukpga/2007/21).
+
+[^c22997731]: Marginal citation: [2006 c. 40](https://www.legislation.gov.uk/ukpga/2006/40).
+
+[^c22997741]: Marginal citation: [1992 c. 13](https://www.legislation.gov.uk/ukpga/1992/13). Section 91(3) was amended by paragraph 13(2) of Schedule 8 to the [Apprenticeships, Skills, Learning and Children Act 2009 (c. 22)](https://www.legislation.gov.uk/ukpga/2009/22).
+
+[^c22997751]: Marginal citation: Section 91(5) was amended, in relation to Wales, by paragraph 4 of the Schedule to the Higher Education (Wales) Act 2015 (anaw. 1.), which is not yet commenced.
+
+[^key-cbf1bfd207e13d7f17461a16e9319074]: Textual amendment: Words in Sch. 2 substituted (1.8.2019) by [The Higher Education and Research Act 2017 (Further Implementation etc.) Regulations 2019 (S.I. 2019/1027)](https://www.legislation.gov.uk/uksi/2019/1027), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1027/regulation/1), [42](https://www.legislation.gov.uk/uksi/2019/1027/regulation/42)
+
+[^c22997761]: Marginal citation: [1996 c. 56](https://www.legislation.gov.uk/ukpga/1996/56). Section 19 was amended by section 3 of the [Children, Schools and Families Act 2010 (c. 26)](https://www.legislation.gov.uk/ukpga/2010/26). There are further, uncommenced, amendments to section 19 in paragraph 1 of Schedule 3, and paragraph 1 of Schedule 4 to that Act. Section 19 was also amended by section 101 of the Education and Inspections Act 2006; by section 47 of the [Education Act 1997 (c. 44)](https://www.legislation.gov.uk/ukpga/1997/44); and by [S.I. 2010/1158](https://www.legislation.gov.uk/uksi/2010/1158) and 2007/1507.
+
+[^key-64cfd89c3146cf363036a77328e51c13]: Textual amendment: Words in Regulations substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [Sch. para. 1(1)(3)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/1/3) (with [Sch. para. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/2))
+
+[^key-830b6baf415552a0c87448d567b1c51f]: Textual amendment: Words in Sch. 2 omitted (1.4.2023) by virtue of [The Health Education England (Transfer of Functions, Abolition and Transitional Provisions) Regulations 2023 (S.I. 2023/368)](https://www.legislation.gov.uk/uksi/2023/368), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/368/regulation/1/2), [Sch. 2 para. 23](https://www.legislation.gov.uk/uksi/2023/368/schedule/2/paragraph/23) (with [reg. 7](https://www.legislation.gov.uk/uksi/2023/368/regulation/7))
+
+[^key-abcf2e6f49080a1629c99f94ce3b7af8]: Textual amendment: Words in Sch. 2 omitted (1.2.2023) by virtue of [The Health and Social Care Information Centre (Transfer of Functions, Abolition and Transitional Provisions) Regulations 2023 (S.I. 2023/98)](https://www.legislation.gov.uk/uksi/2023/98), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/98/regulation/1/2), [Sch. para. 56](https://www.legislation.gov.uk/uksi/2023/98/schedule/paragraph/56) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/98/regulation/3))
+
+[^key-5d462ba14f6964d998dd8b86041ea886]: Textual amendment: Word in Sch. 2 omitted (1.7.2022) by virtue of [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [121(3)](https://www.legislation.gov.uk/uksi/2022/634/regulation/121/3)
+
+[^c22997781]: Marginal citation: Section 30 was amended by section 159(1) of the Health and Social Care Act 2012.
+
+[^key-7f2ea15e69479a9dbf15eb83642bee82]: Textual amendment: Words in Sch. 2 substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [91(2)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/91/2)
+
+[^c22997791]: Marginal citation: Section 28 was amended by paragraph 13 of Schedule 4 to the Health and Social Care Act 2012.
+
+[^key-0a0c4f8da42c760c71fbde77cd5c1db9]: Textual amendment: Words in Sch. 2 inserted (1.10.2024) by [The Energy Act 2023 (Consequential Amendments) Regulations 2024 (S.I. 2024/706)](https://www.legislation.gov.uk/uksi/2024/706), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/706/regulation/1/1), [32](https://www.legislation.gov.uk/uksi/2024/706/regulation/32); [S.I. 2024/957](https://www.legislation.gov.uk/uksi/2024/957), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/957/regulation/2/a)
+
+[^c22997801]: Marginal citation: [1985 c. 51](https://www.legislation.gov.uk/ukpga/1985/51).
+
+[^c22997811]: Marginal citation: [2009 c. 20](https://www.legislation.gov.uk/ukpga/2009/20). Section 103 was amended by sections 12(2) and 14(2) of the [Cities, Local Government and Devolution Act 2016 (c. 1)](https://www.legislation.gov.uk/ukpga/2016/1).
+
+[^c22997821]: Marginal citation: Section 88 was amended by section 11(2) of the Cities, Local Government and Devolution Act 2016.
+
+[^key-eca9941301fb7d77becd3557767a7b73]: Textual amendment: Words in Sch. 2 inserted (E.) (1.10.2017) by [The Fire and Rescue Authority (Police and Crime Commissioner) (Application of Local Policing Provisions, Inspection, Powers to Trade and Consequential Amendments) Order 2017 (S.I. 2017/863)](https://www.legislation.gov.uk/uksi/2017/863), [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/863/article/1/1), [Sch. 2 para. 11(2)](https://www.legislation.gov.uk/uksi/2017/863/schedule/2/paragraph/11/2)
+
+[^c22997831]: Marginal citation: [1972 c. 70](https://www.legislation.gov.uk/ukpga/1972/70). There are amendments to the section, not relevant here.
+
+[^key-8e5a9cd7bb3ad78806a19cfe9aa989cb]: Textual amendment: Words in Sch. 2 substituted (E.) (1.4.2018) by [The London Government (London Fire Commissioner and Policing) (Amendment) Regulations 2018 (S.I. 2018/269)](https://www.legislation.gov.uk/uksi/2018/269), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/269/regulation/1/2), [Sch. para. 20(2)](https://www.legislation.gov.uk/uksi/2018/269/schedule/paragraph/20/2)
+
+[^c22997841]: Marginal citation: [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25).
+
+[^c22997851]: Marginal citation: [1968 c. 73](https://www.legislation.gov.uk/ukpga/1968/73).
+
+[^c22997861]: Marginal citation: [2011 c. 13](https://www.legislation.gov.uk/ukpga/2011/13).
+
+[^key-ca7bfc589b03f2ae59d9e10658f87d1d]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2017/353/schedule/2) inserted (27.1.2026) by [The Building Safety Regulator (Establishment of New Body and Transfer of Functions etc.) Regulations 2026 (S.I. 2026/20)](https://www.legislation.gov.uk/uksi/2026/20), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/20/regulation/1/2), [Sch. 1 para. 24](https://www.legislation.gov.uk/uksi/2026/20/schedule/1/paragraph/24) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/20/regulation/5))
+
+[^key-eb50ba6bf911ed50e9be65c9f9e54928]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2017/353/schedule/2) omitted (7.4.2026) by virtue of [The Employment Rights Act 2025 (Enforcement) (Consequential Amendments) Regulations 2026 (S.I. 2026/302)](https://www.legislation.gov.uk/uksi/2026/302), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/302/regulation/1/1), [12](https://www.legislation.gov.uk/uksi/2026/302/regulation/12)
+
+[^key-19b4e628491ff9bfb87e6b35dc0e340d]: Textual amendment: Words in Sch. 2 inserted (1.10.2018) by [The Legislative Reform (Regulator of Social Housing) (England) Order 2018 (S.I. 2018/1040)](https://www.legislation.gov.uk/uksi/2018/1040), [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1040/article/1/2), [Sch. para. 44](https://www.legislation.gov.uk/uksi/2018/1040/schedule/paragraph/44) (with [Sch. paras. 48](https://www.legislation.gov.uk/uksi/2018/1040/schedule/paragraph/48), [49](https://www.legislation.gov.uk/uksi/2018/1040/schedule/paragraph/49))
+
+[^key-2cfce665d4149d74582d7405d437ef28]: Textual amendment: Words in Sch. 2 inserted (E.) (2.12.2019) by [The Social Workers Regulations 2018 (S.I. 2018/893)](https://www.legislation.gov.uk/uksi/2018/893), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/893/regulation/1/2), [46(2)](https://www.legislation.gov.uk/uksi/2018/893/regulation/46/2); [S.I. 2019/1436](https://www.legislation.gov.uk/uksi/2019/1436), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2019/1436/regulation/2/b)
+
+[^c22997871]: Marginal citation: A company formed and registered under the Companies Acts with the registration number 06791686.
+
+[^key-70e307fd70308c8577cbf9f1fb7bd196]: Textual amendment: Words in Sch. 2 substituted (12.7.2023) by [The Strategic Highways Company (Name Change and Consequential Amendments) Regulations 2023 (S.I. 2023/677)](https://www.legislation.gov.uk/uksi/2023/677), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/677/regulation/1/1), [Sch. para. 4(2)](https://www.legislation.gov.uk/uksi/2023/677/schedule/paragraph/4/2)
+
+[^c22997891]: Marginal citation: A company formed and registered under the Companies Acts with the registration number 04402220.
+
+[^c22997901]: Marginal citation: [2009 c. 20](https://www.legislation.gov.uk/ukpga/2009/20). There are amendments to the section, not relevant here.
+
+[^c22997911]: Marginal citation: [1980 c. 65](https://www.legislation.gov.uk/ukpga/1980/65). Section 135 was amended by section 179(4) of the Leasehold Reform, Housing and Urban Development Act (c. 28), and by section 167(2) and (3) of the [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22).
+
+[^c22997921]: Marginal citation: [1997 c. 50](https://www.legislation.gov.uk/ukpga/1997/50). Section 119B was added by section 28 of the [Safeguarding Vulnerable Groups Act 2006 (c. 47)](https://www.legislation.gov.uk/ukpga/2006/47) and amended by paragraph 111(4) of Schedule 9 and paragraph 1 of Schedule 10 to the [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9); and by [S.I. 2012/3006](https://www.legislation.gov.uk/uksi/2012/3006). There are further amendments to the section, not relevant here.
+
+[^c22997931]: Marginal citation: The Care Council for Wales was renamed Social Care Wales by section 67 of the Regulation and Inspection of Social Care (Wales) Act 2016 (anaw. 2). Section 67 was commenced for certain purposes only by [S.I. 2016/713](https://www.legislation.gov.uk/uksi/2016/713).

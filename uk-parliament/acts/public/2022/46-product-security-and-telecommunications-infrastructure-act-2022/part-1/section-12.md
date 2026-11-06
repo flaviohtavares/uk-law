@@ -1,0 +1,49 @@
+---
+title: Product Security and Telecommunications Infrastructure Act 2022, section 12
+act: Product Security and Telecommunications Infrastructure Act 2022
+section: '12'
+status: revised
+text_date: '2026-04-07'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2022/46/section/12
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Product Security and Telecommunications Infrastructure Act 2022, section 12
+
+> Text as at 2026-04-07.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 12. Duty to maintain records[^key-12eab91595ff9ae3cfa8ed9bd0c9dc13][^key-3ca97825e90d594a260676e8a6e73997]
+
+*Extent: E+W+S+N.I.*
+
+(1) A manufacturer of a relevant connectable product must maintain a record of—
+
+- (a) any investigations carried out by the manufacturer in relation to a compliance failure or suspected compliance failure (whether or not as a result of information received as mentioned in section 10(1)(a));
+- (b) any compliance failures relating to the product.
+
+(2) A record of an investigation must contain the following information—
+
+- (a) the outcome of the investigation;
+- (b) where the manufacturer determined that there was a compliance failure, details of that compliance failure;
+- (c) any steps taken by the manufacturer to remedy the compliance failure and whether or not those steps were successful.
+
+(3) A record of a compliance failure must contain the following information—
+
+- (a) details of the compliance failure;
+- (b) any steps taken by the manufacturer to remedy the compliance failure and whether or not those steps were successful.
+
+(4) A record of an investigation or a compliance failure must be retained for a period of 10 years beginning with the day on which the record is made.
+
+(5) In a case where there is more than one manufacturer in relation to a product, the duty of each of those manufacturers to maintain a record under this section may be met by those manufacturers jointly maintaining a single record.
+
+(6) In this section “**compliance failure**” means a failure by a manufacturer of the product to comply with a relevant security requirement relating to the product.
+
+## Annotations
+
+[^key-12eab91595ff9ae3cfa8ed9bd0c9dc13]: Commencement: S. 12 not in force at Royal Assent, see [s. 79](https://www.legislation.gov.uk/ukpga/2022/46/section/79)
+
+[^key-3ca97825e90d594a260676e8a6e73997]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2022/46/section/12) in force at 29.4.2024 by [S.I. 2023/469](https://www.legislation.gov.uk/uksi/2023/469), [reg. 3](https://www.legislation.gov.uk/uksi/2023/469/regulation/3)

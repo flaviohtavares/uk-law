@@ -1,0 +1,54 @@
+---
+title: Energy Act 2013, section 4
+act: Energy Act 2013
+section: '4'
+status: revised-with-pending-changes
+text_date: '2024-10-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2013/32/section/4
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Energy Act 2013, section 4
+
+> **Warning: changes not yet applied to this text (1).** Text as at 2024-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2013/32
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 4. Meaning and calculation of “carbon intensity of electricity generation in the United Kingdom”
+
+*Extent: E+W+S+N.I.*
+
+(1) In sections 1 and 3, “**carbon intensity of electricity generation in the United Kingdom**” means grams of carbon dioxide equivalent emissions, measured per kilowatt hour of electricity generated in the United Kingdom (calculated consistently with international carbon reporting practice).
+
+(2) For the purposes of subsection (1)—
+
+- (a) “**carbon dioxide equivalent**” means a gram of carbon dioxide or an amount of any other greenhouse gas with an equivalent global warming potential (calculated consistently with international carbon reporting practice);
+- (b) “**the United Kingdom**” includes—
+  - (i) the territorial sea adjacent to the United Kingdom, and
+  - (ii) any area for the time being designated by an Order in Council under section 84(4) of the Energy Act 2004 (a “**Renewable Energy Zone**” for the purposes of that Act).
+
+(3) In this section—
+
+- (a) “**greenhouse gas**” has the meaning given by section 92(1) of the Climate Change Act 2008;
+- (b) “**international carbon reporting practice**” has the meaning given by section 94(1) of that Act.
+
+(4) But the Secretary of State may by order make further provision about—
+
+- (a) the meaning of “carbon intensity of electricity generation in the United Kingdom” (including, in particular, the meaning of “the United Kingdom”);
+- (b) the means by which the carbon intensity is to be calculated;
+- (c) the meaning of “in relation to any year”;
+
+and subsections (1) to (3) are subject to provision made by any such order.
+
+(5) An order under this section is to be made by statutory instrument and a statutory instrument containing such an order may not be made unless a draft of the instrument has been laid before and approved by a resolution of each House of Parliament.
+
+(6) An order under this section may—
+
+- (a) include incidental, supplementary and consequential provision;
+- (b) make transitory or transitional provision or savings;
+- (c) make different provision for different cases or circumstances or for different purposes;
+- (d) make provision subject to exceptions.
+
+(7) Before laying before Parliament a draft of a statutory instrument containing an order under this section the Secretary of State must consult the Department of Enterprise, Trade and Investment, the Scottish Ministers and the Welsh Ministers.

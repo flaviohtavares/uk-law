@@ -1,0 +1,532 @@
+---
+title: The Human Fertilisation and Embryology (Disclosure of Information for Research Purposes) Regulations 2010
+id: uksi/2010/995
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2010-03-24'
+text_date: '2015-01-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2010/995
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2010/995/pdfs/uksiem_20100995_en.pdf
+- http://www.legislation.gov.uk/uksi/2010/995/pdfs/uksi_20100995_en.pdf
+- http://www.legislation.gov.uk/uksi/2010/995/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Human Fertilisation and Embryology (Disclosure of Information for Research Purposes) Regulations 2010
+
+> Text as at 2015-01-01.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2010 No. 995
+
+Human Fertilisation And Embryology
+
+The Human Fertilisation and Embryology (Disclosure of Information for Research Purposes) Regulations 2010
+
+Made
+
+24th March 2010
+
+Coming into force
+
+6th April 2010
+
+These Regulations are made by the Secretary of State for Health in exercise of the powers conferred by sections 33D and 45(1) to (3A) of the Human Fertilisation and Embryology Act 1990[^f00001].
+
+In accordance with section 33D(8) of that Act the Secretary of State for Health has consulted such bodies appearing to the Secretary of State to represent the interests of those likely to be affected by the Regulations as the Secretary of State considers appropriate.
+
+A draft of this instrument has been approved by a resolution of each House of Parliament pursuant to section 45(4) of that Act.
+
+## 1. Citation and commencement[^key-de0d8a8f1fa067701e9123437fb52caa]
+
+These Regulations may be cited as the Human Fertilisation and Embryology (Disclosure of Information for Research Purposes) Regulations 2010 and shall come into force on 6th April 2010.
+
+## 2. Interpretation[^key-254d9fd239f65eb77a086eadab5cc1bc]
+
+(1) In these Regulations—
+
+- “the Act” means the Human Fertilisation and Embryology Act 1990;
+- “additional conditions” mean conditions imposed under regulation 8(2);
+- “application” except in regulation 9, means an application made under regulation 4 and “applicant” shall be construed accordingly;
+- “authorisation” means authorisation by the Authority under regulation 3;
+- “the Authority” means the Human Fertilisation and Embryology Authority;
+- “the Data Protection Act” means the Data Protection Act 1998[^f00002];
+- “the NHS Act” means the National Health Service Act 2006[^f00003];
+- [^key-21584c74c2c611376605b51f328dc838]...
+- “parental responsibility” has the same meaning as in section 33B(6) of the Act[^f00005] (consent required to authorise certain disclosures);
+- “processing” except in regulation 14, means using the disclosable protected information authorised under regulation 3 and “process” and “processed” shall be construed accordingly;
+- “relevant individual” has the same meaning as in section 31(4) of the Act[^f00006] (register of information);
+- “research establishment” means a university or other body or institution that carries out medical or other research within the United Kingdom;
+- “[^key-55a0c24d1b0d720edbe23b9edb3c5f8c]**research ethics committee**” means a research ethics committee recognised or established by or on behalf of the Health Research Authority under the Care Act 2014;
+- “research project” has the meaning given in regulation 4(4)(c).
+
+(2) In these Regulations, “disclosable protected information” means information falling within section 31(2) of the Act[^f00008] (register of information) which—
+
+- (a) is entered by the Authority on its register during the period from 1st August 1991 to 30th September 2009 (both dates inclusive) but does not fall within an exclusion in paragraph (3) of this regulation; or
+- (b) is entered by the Authority on its register on or after 1st October 2009 and is about a relevant individual but does not fall within an exclusion in paragraph (4) of this regulation.
+
+(3) For the purposes of paragraph (2)(a), information is excluded where it—
+
+- (a) identifies or relates to an individual who has donated gametes other than for research purposes only;
+- (b) identifies or relates to an individual (or a person treated with that individual) who has received treatment services with donated gametes;
+- (c) identifies or relates to an individual who has donated (whether alone or with another) an embryo other than for research purposes only;
+- (d) identifies or relates to an individual (or a person treated with that individual) who has received treatment services with a donated embryo;
+- (e) identifies or relates to an individual who was conceived as a result of assisted conception using donated gametes or a donated embryo; or
+- (f) is in respect of—
+  - (i) an individual who has refused to give consent for disclosure for the purposes of research;
+  - (ii) an individual who has not attained the age of 16 years, where the parents of, or other persons with parental responsibility for, that child indicated in writing that information relating to that child could not be disclosed for the purposes of research; or
+  - (iii) an individual who has not attained the age of 16 years, where at the time that treatment services or non-medical fertility services were being provided to the persons who became the parents of that child, those persons indicated in writing that information relating to any child born as a result of those treatment services could not be disclosed for the purposes of research.
+
+(4) For the purposes of paragraph(2)(b), information is excluded where it—
+
+- (a) is in respect of a relevant individual who has attained the age of 16 years unless the relevant individual has consented to the disclosure of the information by the Authority for research purposes in accordance with regulations made under section 33D of the Act (disclosure for the purposes of medical or other research);
+- (b) is in respect of a relevant individual who has given written notice to the Authority that they do not consent to the disclosure for research purposes by the Authority of information about them provided at the time of giving that notice the relevant individual was competent to give it;
+- (c) is in respect of a relevant individual where a person having parental responsibility for the relevant individual has given written notice to the Authority that they do not consent to the disclosure for research purposes by the Authority of information about the relevant individual;
+- (d) is in respect of a relevant individual where, at the time treatment services or non-medical fertility services were being provided to the persons who became the parents of the relevant individual, those persons indicated in writing that information relating to any child born as a result of those treatment services could not be disclosed by the Authority for research purposes in accordance with regulations made under section 33D of the Act (disclosure for the purposes of medical or other research);
+- (e) identifies or relates to an individual who has donated (whether alone or with an individual) an embryo other than for research purposes only; or
+- (f) identifies or relates to an individual who has donated gametes other than for research purposes only.
+
+(5) Any notice given under these Regulations shall be—
+
+- (a) in writing; or
+- (b) transmitted by electronic means in a legible form which is capable of being used for subsequent reference.
+
+## 3. Authorisation for disclosure of information[^key-b37d6dc2e5d99b160e85526ba55c320c]
+
+The Authority may grant an authorisation to a research establishment for the processing of disclosable protected information in accordance with these Regulations.
+
+## 4. Applications[^key-1649d1ad8ecc5f023c84744d9cb0488d]
+
+(1) An application for authorisation must be made to the Authority.
+
+(2) An application may be submitted by an appropriate person nominated by the research establishment.
+
+(3) An application must—
+
+- (a) be in writing; and
+- (b) include the information referred to in paragraph (4).
+
+(4) The information referred to in paragraph (3) is—
+
+- (a) the name, qualifications, address, telephone number and email address of the applicant;
+- (b) the name of the research establishment which is to carry out research processing the disclosable protected information;
+- (c) a description of the medical or other research to be undertaken by the research establishment within the United Kingdom (“the research project”);
+- (d) what disclosable protected information the applicant wants the Authority to disclose to the applicant for the purposes of the research project;
+- (e) the address of the premises at which the research project is to be undertaken;
+- (f) either—
+  - (i) the favourable opinion of a research ethics committee for the research project; or
+  - (ii) where at the time of the application, an application to a research ethics committee for the research project is outstanding, an undertaking to provide the Authority with information regarding the outcome of that application within the period of 14 days beginning with the date of notification by the committee;
+- (g) the reasons why the processing of the disclosable protected information is necessary for the purposes of the research project;
+- (h) a description of the security arrangements in place at the premises in respect of which the application is made relating to the processing of disclosable protected information; and
+- (i) the reasons why the disclosable protected information cannot be obtained otherwise than pursuant to these Regulations.
+
+(5) Where—
+
+- (a) an authorisation has expired; and
+- (b) a further application is submitted within the period of 90 days beginning with the date of expiry of the previous authorisation in relation to the same research project,
+
+the application need not include any of the information mentioned in sub-paragraphs (b) to (h) of paragraph (4), if that information remains the same as that supplied in relation to the previous application.
+
+(6) Where paragraph (5) applies, the applicant shall state what information has remained the same as that supplied by the applicant in relation to the previous application.
+
+(7) The Authority may request further information, where—
+
+- (a) the Authority is of the opinion that the information given by the applicant in accordance with paragraph (4) or (6) is incomplete in any material respect; or
+- (b) the Authority considers that supplementary information is required in order for it to determine the application.
+
+(8) The applicant shall provide the information requested within the period of 56 days beginning with the date of the request.
+
+(9) The Authority need not further consider or determine the application until the applicant has provided it with such further information as requested by it under paragraph (7) and may at the end of the period specified in paragraph (8), refuse to grant the authorisation on the ground that the requested information has not been provided.
+
+## 5. Advice and assistance from NIGB[^key-4ae2162da257a66feda576840f38375d]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 6. Authorisation where approval has been given under section 251 of the NHS Act[^key-c0db00b635ac007bbed24631adc6d3e9]
+
+Where—
+
+- (a) an approval has been given under regulations made under section 251 of the NHS Act (control of patient information) in respect of the research project included in the application;
+- (b) the research project is to take place in England or Wales; and
+- (c) the Authority, having considered the application, is of the opinion that that there are no exceptional reasons why the disclosable protected information should not be processed under these Regulations for the purpose of the research project,
+
+the Authority shall grant an authorisation.
+
+## 7. Grounds for refusal of grant[^key-5db09f130813307395893f8ffda72de5]
+
+(1) Subject to paragraph (2), the Authority must not grant an authorisation where it is satisfied that—
+
+- (a) a research ethics committee has not given a favourable opinion in relation to the research project;
+- (b) the processing of the disclosable protected information is not necessary for the purposes of the research project;
+- (c) the security arrangements in place at the premises at which the disclosable protected information is to be processed are inadequate for the security of the disclosable protected information; or
+- (d) the information to which the application relates is information from which an individual may be identified and it would be reasonably practicable for the purposes of the research project to be achieved otherwise than pursuant to the grant of an authorisation, having regard to the cost of and technology available for achieving that purpose.
+
+(2) Where regulation 4(4)(f)(ii) applies (outstanding request for an opinion of a research ethics committee in relation to the research project), the Authority shall not refuse an application until it has been notified by the applicant of the outcome of the application to the research ethics committee.
+
+(3) In addition to the circumstances set out in regulation 4(9), the Authority may refuse to grant an authorisation where—
+
+- (a) it reasonably estimates that the fee payable under regulation 13 would, if calculated without regard to paragraph (4) of that regulation, be likely to be in excess of £5000; or
+- (b) it is satisfied that the disclosure or processing of the information for the purposes of the research project is not necessary or expedient in the public interest or in the interests of improving patient care.
+
+## 8. Authorisation subject to conditions[^key-a7707b13695f5ca92de63a5b3cd2fcae]
+
+(1) Where the Authority grants an authorisation, it must impose the conditions that—
+
+- (a) the disclosable protected information must be used only in accordance with the purposes set out in the authorisation;
+- (b) the disclosable protected information must not be disclosed to a third party, unless that party is specified in the authorisation;
+- (c) the research establishment must not contact or request any other person to contact on the research establishment’s behalf any individual who is identified by the disclosable protected information except in the manner and circumstances specified in the authorisation;
+- (d) an annual report must be submitted by the research establishment in accordance with regulation 19(1);
+- (e) the research establishment must comply with the Authority’s request for the provision of information under regulation 19(4); and
+- (f) the research establishment must consent to any reasonable request for an inspection of premises under regulation 20(b).
+
+(2) Where the Authority is of the opinion that additional conditions are required in respect of the grant of the authorisation, it may impose such additional conditions as it considers appropriate.
+
+## 9. Variation of additional conditions[^key-f78a1d94c620e84a0007255240796ac3]
+
+(1) A research establishment in respect of which an additional condition is imposed by virtue of paragraph (2) of regulation 8 may apply to the Authority for it to vary that condition.
+
+(2) An application under paragraph (1) shall include—
+
+- (a) the applicant’s reasons for asking the Authority to vary the condition concerned; and
+- (b) the information contained in paragraph (4) of regulation 4 unless it remains the same as that supplied in the application made under regulation 4.
+
+(3) “Vary” in this regulation and regulations 11 and 12 includes revoke, substitute or add.
+
+## 10. Duration of authorisation[^key-f90d4b2a7957c7a5c861ac9fa07a86cb]
+
+(1) Where the Authority grants an authorisation, it shall specify the period for which the authorisation is valid.
+
+(2) Except where regulation 4(5) applies, the period for which the authorisation is valid shall not exceed a period of five years beginning with the date on which the applicant is notified under regulation 11 or where regulation 12 applies under that regulation.
+
+(3) Where regulation 4(5) applies, the period for which the authorisation is valid shall not exceed a period of five years beginning with the date of expiry of the previous authorisation in relation to the same research project.
+
+## 11. Notice of decision[^key-ee912595eced9ca652a5468f6b5b2344]
+
+(1) Where the Authority grants an authorisation or an application to vary additional conditions under regulation 9, it shall give notice to the applicant informing the applicant—
+
+- (a) that the authorisation or application has been granted;
+- (b) of the conditions which apply to the authorisation;
+- (c) in the case of an application under regulation 4, where the decision is to grant an authorisation subject to additional conditions—
+  - (i) of its reasons for imposing those conditions; and
+  - (ii) of the applicant’s right to ask for a review of the decision under regulation 12; and
+- (d) of the period for which the authorisation is given.
+
+(2) Where the Authority refuses to grant an authorisation or an application to vary a condition under regulation 9, it shall give notice to the applicant informing the applicant—
+
+- (a) that the authorisation or application has been refused;
+- (b) of the reasons for its decision; and
+- (c) of the applicant’s right to ask for a review of the decision under regulation 12.
+
+## 12. Review of refusals[^key-fdb803cf7b9a8f5a4157ee6925c60e76]
+
+(1) The Authority may, and if requested in writing to do so by the applicant must, review its decision to—
+
+- (a) refuse to grant an authorisation;
+- (b) grant an authorisation subject to additional conditions; or
+- (c) refuse an application to vary additional conditions under regulation 9.
+
+(2) After a review has taken place there shall be no further review.
+
+(3) Where the Authority reviews its refusal to grant an authorisation, it may decide to—
+
+- (a) grant the authorisation;
+- (b) grant the authorisation and impose additional conditions; or
+- (c) confirm its original decision.
+
+(4) Where the Authority reviews its decision to grant an authorisation subject to additional conditions, it may decide to—
+
+- (a) vary the additional conditions; or
+- (b) confirm its original decision.
+
+(5) Where the Authority reviews its decision to refuse an application to vary conditions under regulation 9, it may decide to—
+
+- (a) vary the additional conditions; or
+- (b) confirm its original decision.
+
+(6) Where the Authority reviews its decision under this regulation, it shall give notice to the applicant informing the applicant—
+
+- (a) of its decision; and
+- (b) of the reasons for its decision.
+
+## 13. Fee in relation to the disclosure of information[^key-07bd1dd4f92d6ee892649cbcdc9d2ac0]
+
+(1) The Authority shall charge the applicant under these Regulations a fee in respect of the disclosure to the applicant of disclosable protected information.
+
+(2) The fee shall be in respect of the time taken by the Authority to—
+
+- (a) locate the information;
+- (b) assemble the information; and
+- (c) prepare the information for disclosure.
+
+(3) Subject to paragraph (4), the fee shall be—
+
+- (a) £250, if the time taken by the Authority is not more than half a day;
+- (b) £500, if the time taken by the Authority is more than half a day but not more than one day; or
+- (c) where the time taken by the Authority is more than one day—
+  - (i) £500; and
+  - (ii) £250 for every additional half a day or less.
+
+(4) Where the fee calculated in accordance with paragraph (3)(c) is greater than £5000, the fee shall be £5000.
+
+(5) In paragraph (3), a reference to “one day” is to a period of 7 hours and 30 minutes; and “half a day” shall be construed accordingly.
+
+(6) In calculating the time taken by the Authority, the time of any individual involved in the disclosure shall be recorded separately and then the time of all the individuals involved shall be added together to reach the total number of hours taken by the Authority.
+
+(7) The time taken by the Authority may include the time of a person providing services to the Authority (or an individual employed by such a person).
+
+(8) The applicant must pay the fee to the Authority specified in the Authority’s notice to the applicant requiring payment.
+
+(9) The Authority may refuse to disclose the disclosable protected information until it has received the fee.
+
+## 14. Provision of information by the Authority[^key-9c24dc31f9f0df7da3d594b591869717]
+
+(1) Subject to regulation 13, where the Authority grants an authorisation, it shall disclose the disclosable protected information requested by the applicant to the research establishment within a period of 90 days beginning with the date on which payment of the fee under regulation 13 is received.
+
+(2) Where disclosable protected information is disclosed in accordance with these Regulations, anything done by the Authority in so disclosing or processing that information shall be taken to be lawfully done despite any obligation of confidence owed by the Authority in respect of it.
+
+## 15. Processing by the research establishment[^key-5344f261c54df2976efca6d1fb0a46f1]
+
+(1) Where the Authority grants an authorisation, the research establishment may process the disclosable protected information disclosed to it under these Regulations provided that the research establishment complies with—
+
+- (a) the general conditions under regulation 8(1);
+- (b) any additional conditions imposed by the Authority; and
+- (c) the Data Protection Act.
+
+(2) Where disclosable protected information is processed in accordance with these Regulations, anything done by the research establishment in so processing that information shall be taken to be lawfully done despite any obligation of confidence owed by the research establishment in respect of it.
+
+## 16. Suspension of authorisation[^key-4ed9aa5830831a6b1e77a01ef989a802]
+
+(1) The Authority may suspend an authorisation if—
+
+- (a) the research establishment has failed to comply with the conditions imposed on it by the Authority or the Data Protection Act; or
+- (b) the information given pursuant to regulation 4(4) or (6) or 9(2) was inaccurate or misleading.
+
+(2) Subject to paragraph (3), before suspending an authorisation of a research establishment, the Authority shall serve a notice on the research establishment—
+
+- (a) stating the Authority’s intention to suspend its authorisation on the date specified in the notice;
+- (b) stating on what grounds it proposes to suspend the authorisation; and
+- (c) giving the research establishment the opportunity to make written representations by a specified day, provided that at least 24 hours notice of that day is given.
+
+(3) Where the Authority considers that it is necessary to do so in the public interest, it shall suspend an authorisation without prior notice under paragraph (2).
+
+(4) Where the Authority decides to suspend an authorisation under paragraph (1) or (3), it shall give notice to the research establishment informing the research establishment—
+
+- (a) that the authorisation has been suspended and the period of suspension; and
+- (b) of the reasons for its decision.
+
+(5) Any suspension pursuant to paragraph (1) or (3) shall be for such period but not exceeding 6 months as the Authority shall consider necessary having regard to the reasons for the suspension.
+
+(6) The Authority may review a suspension at any time and shall review a suspension after a period of three months beginning with the date of the decision to suspend the authorisation if so requested by the relevant research establishment.
+
+(7) Where the Authority reviews a suspension, it may—
+
+- (a) revoke the suspension, in which case the suspension shall cease to have effect; or
+- (b) suspend the authorisation for a further period not exceeding 6 months beginning with the date of the expiry of the current period of suspension.
+
+(8) Where the Authority reviews a suspension it shall give notice to the research establishment informing the research establishment—
+
+- (a) of its decision including where applicable the period of suspension; and
+- (b) of the reasons for its decision.
+
+(9) Where the Authority suspends an authorisation, any processing of the disclosable protected information by the research establishment shall not be in accordance with these Regulations (and accordingly the provision in paragraph (2) of regulation 15 shall not apply).
+
+## 17. Revocation of authorisation[^key-5705ccdbceeac6c91f70180112d588f3]
+
+(1) The Authority may revoke an authorisation where—
+
+- (a) the research establishment has failed to comply with the conditions imposed on it by the Authority or the Data Protection Act; or
+- (b) the information given pursuant to regulation 4(4) or (6) or 9(2) was inaccurate or misleading.
+
+(2) Subject to paragraph (3), before revoking an authorisation the Authority shall serve notice on the research establishment—
+
+- (a) stating the Authority’s intention to revoke the authorisation;
+- (b) stating on what grounds it proposes to revoke the authorisation; and
+- (c) giving the research establishment the opportunity to make written representations by a specified day, provided that at least 28 days notice of that day is given.
+
+(3) Where the Authority considers that it is necessary to do so in the public interest, it shall revoke an authorisation without prior notice under paragraph (2).
+
+(4) Where the Authority decides to revoke an authorisation, it shall give notice to the research establishment informing the research establishment—
+
+- (a) that the authorisation has been revoked and from what date; and
+- (b) of the reasons for its decision.
+
+(5) Where the Authority decides not to revoke the authorisation, it shall give notice to the research establishment informing the research establishment that the authorisation remains valid.
+
+(6) Where the Authority revokes an authorisation any processing of the disclosable protected information by the research establishment shall not be in accordance with these Regulations (and accordingly the provision in paragraph (2) of regulation 15 shall not apply).
+
+## 18. Destruction of information[^key-cf81d8e61bb52e46322a450beb59ba77]
+
+The research establishment shall make appropriate arrangements for the destruction or disposal of the disclosable protected information where—
+
+- (a) the authorisation has expired;
+- (b) the purposes for which it was needed have been satisfied; or
+- (c) the authorisation has been revoked.
+
+## 19. Annual reports and provision of information[^key-daea971e833b0213a253e94bd8e96d06]
+
+(1) A research establishment which is granted an authorisation shall submit an annual report to the Authority for each relevant year, which shall include—
+
+- (a) a declaration that the research establishment has in place appropriate systems to ensure compliance with these Regulations or reasons why it cannot give such a declaration;
+- (b) details of the system it has in place to ensure compliance; and
+- (c) an account of how it has used the information provided under these Regulations.
+
+(2) The report shall be published as soon as possible after the end of each relevant year.
+
+(3) For the purposes of this regulation, “relevant year” means—
+
+- (a) the period beginning with the date on which notice of the decision is given under regulation 11 or where applicable regulation 12 and ending 12 months thereafter; and
+- (b) for the duration of the authorisation, each successive period of 12 months ending with the anniversary of the date on which the decision is notified notwithstanding the expiry of the authorisation before that date in that relevant year.
+
+(4) Where a research establishment processes disclosable protected information under these Regulations, it shall make available to the Authority within the period specified by the Authority such information as the Authority may reasonably require to assist the Authority in any investigation and audit of that processing within the period specified by the Authority.
+
+## 20. Inspections[^key-1a8109d14cca88b540370a81249d0cfb]
+
+The Authority may with the consent of the research establishment, conduct an inspection of the premises of the research establishment at which the research project is being undertaken for the purposes of—
+
+- (a) considering whether or not to grant an application; or
+- (b) ensuring that a research establishment complies with these Regulations or an authorisation granted to it under these Regulations.
+
+## 21. Oversight Committee[^key-8cabc2fb6515ba36fb8b05f6a9cf3ae0]
+
+The Authority shall establish a Committee to—
+
+- (a) monitor the grant of authorisations under these Regulations;
+- (b) monitor the processing of disclosable protected information by research establishments under an authorisation;
+- (c) consider annual reports submitted by research establishments under regulation 19; and
+- (d) consider such other matters relating to these Regulations as the Authority or the Committee may determine.
+
+## 22. Guidance[^key-e196bdb760e27f0b4b314d1e634eddb9]
+
+The Authority may issue information for the purpose of giving practical guidance to research establishments in relation to—
+
+- (a) making an application under these Regulations; and
+- (b) processing the disclosable protected information under an authorisation.
+
+Signed by authority of the Secretary of State for Health.
+
+Gillian Merron
+
+Minister of State,
+
+Department of Health
+
+24th March 2010
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations are made under section 33D of the Human Fertilisation and Embryology Act 1990 (“the Act”)[^f00009] and govern the procedure for applications for authorisations for the disclosure and use of disclosable protected information for medical or other research purposes.
+
+Disclosable protected information is defined in regulation 2(2) for the purposes of the Regulations. Subject to exceptions set out in the Regulations, it is information kept by the Human Fertilisation and Embryology Authority (“the Authority”) on its register, which relates to or identifies individuals during the period on or after the 1st August 1991 and on or before the 30th September 2009; or information entered by the Authority on its register after the 1st October 2009 in relation to a relevant individual. Relevant individual is defined in the Act as meaning a person who was or may have been born as a result of either treatment services (other than basic partner treatment services) or the procurement or distribution of sperm (other than partner donated sperm) in the course of providing non-medical fertility services.
+
+Regulation 3 provides that the Authority is to be the authorising body under the Regulations, to which applications are made by research establishments under regulation 4.
+
+Regulation 4 sets out the procedures to be followed in respect of an application for an authorisation.
+
+Regulation 5 allows the National Information Governance Board for Health and Social Care to provide advice and assistance to the Authority in relation to the Authority’s functions under these Regulations.
+
+Regulation 6 provides for an authorisation to be granted where there is an approval for disclosure of information given under Regulations made under section 251 of the National Health Service Act 2006[^f00010] in England and Wales in respect of the research project provided that the Authority is satisfied that there are no exceptional reasons why the information should not be used for the purpose of the research project.
+
+Regulation 7 sets out the grounds on which the Authority must refuse to grant an authorisation.
+
+Regulation 8(1) sets out the mandatory conditions which apply where the authorisation is granted; and regulation 8(2) allows the Authority to impose additional conditions, which may be varied on application by the research establishment under regulation 9.
+
+Regulation 10 provides for the duration of an authorisation granted under regulation 3, which cannot exceed 5 years in the case of an initial authorisation and 5 years in the case of an extension.
+
+Regulation 11 requires the Authority to give notice and reasons for its decision to grant or refuse an authorisation or an application to vary conditions under regulation 9.
+
+Regulation 12 provides that the Authority may review its decision and must review its decision if requested in writing to do so by the research establishment.
+
+Regulation 13 sets out the basis for calculating the fee to be paid to the Authority in respect of the disclosure of information to the research establishment.
+
+Regulation 14 provides that the Authority must disclose the disclosable protected information to the research establishment within 90 days beginning with the date on which payment of the fee is received by the Authority. It also provides that the Authority will not be in any breach of any duty of confidence in doing so.
+
+Regulation 15 sets out further legal requirements with which the research establishment must comply in order to use the disclosable protected information disclosed under the Regulations. It also provides that the research establishment will not be in breach of any duty of confidence in using the disclosable protected information disclosed to it for the purposes of its research project.
+
+Regulations 16 and 17 set out the circumstances in which the Authority may suspend or revoke an authorisation granted under regulation 3.
+
+Regulation 18 sets out the circumstances in which the disclosable protected information must be destroyed.
+
+Regulation 19 imposes an obligation on the research establishment to submit an annual report and provide information including information about the security systems in place to safeguard the disclosable protected information to the Authority.
+
+Regulation 20 allows the Authority to conduct inspections of premises with the consent of the research establishment.
+
+Regulation 21 specifies that the Authority is to set up a committee, in particular, to monitor the operation of the Regulations and the use of the information disclosed to the research establishments.
+
+Under regulation 22, the Authority can issue guidance on making an application and using the disclosable protected information authorised by the Regulations.
+
+## Annotations
+
+[^f00001]: Footnote: [1990 c. 37](https://www.legislation.gov.uk/ukpga/1990/37). Section 33D was inserted by section 25 of the Human Fertilisation and Embryology Act [2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22).
+
+[^key-de0d8a8f1fa067701e9123437fb52caa]: Commencement: Reg. 1 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/995/regulation/1)
+
+[^key-254d9fd239f65eb77a086eadab5cc1bc]: Commencement: Reg. 2 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/995/regulation/1)
+
+[^f00002]: Footnote: [1998 c. 29](https://www.legislation.gov.uk/ukpga/1998/29).
+
+[^f00003]: Footnote: [2006 c. 41](https://www.legislation.gov.uk/ukpga/2006/41).
+
+[^key-21584c74c2c611376605b51f328dc838]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2010/995/regulation/2/1) omitted (1.4.2013) by virtue of [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 153(2)](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/153/2)
+
+[^f00005]: Footnote: Section 33B of the Act was inserted by section 25 of the 2008 Act.
+
+[^f00006]: Footnote: [1990 c. 37](https://www.legislation.gov.uk/ukpga/1990/37). Section 31(4) of the Act was substituted by section 24 of the 2008 Act.
+
+[^key-55a0c24d1b0d720edbe23b9edb3c5f8c]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2010/995/regulation/2/1) substituted (1.1.2015) by [Care Act 2014 (c. 23)](https://www.legislation.gov.uk/ukpga/2014/23), [s. 127](https://www.legislation.gov.uk/ukpga/2014/23/section/127), [Sch. 8 para. 11](https://www.legislation.gov.uk/ukpga/2014/23/schedule/8/paragraph/11) (with [s. 119(3)](https://www.legislation.gov.uk/ukpga/2014/23/section/119/3)); [S.I. 2014/2473](https://www.legislation.gov.uk/uksi/2014/2473), [art. 5(n)](https://www.legislation.gov.uk/uksi/2014/2473/article/5/n)
+
+[^f00008]: Footnote: [1990 c. 37](https://www.legislation.gov.uk/ukpga/1990/37). Section 31(2) was substituted by section 24 of the 2008 Act.
+
+[^key-b37d6dc2e5d99b160e85526ba55c320c]: Commencement: Reg. 3 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/995/regulation/1)
+
+[^key-1649d1ad8ecc5f023c84744d9cb0488d]: Commencement: Reg. 4 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/995/regulation/1)
+
+[^key-4ae2162da257a66feda576840f38375d]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/uksi/2010/995/regulation/5) omitted (1.4.2013) by virtue of [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 153(3)](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/153/3)
+
+[^key-c0db00b635ac007bbed24631adc6d3e9]: Commencement: Reg. 6 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/995/regulation/1)
+
+[^key-5db09f130813307395893f8ffda72de5]: Commencement: Reg. 7 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/995/regulation/1)
+
+[^key-a7707b13695f5ca92de63a5b3cd2fcae]: Commencement: Reg. 8 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/995/regulation/1)
+
+[^key-f78a1d94c620e84a0007255240796ac3]: Commencement: Reg. 9 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/995/regulation/1)
+
+[^key-f90d4b2a7957c7a5c861ac9fa07a86cb]: Commencement: Reg. 10 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/995/regulation/1)
+
+[^key-ee912595eced9ca652a5468f6b5b2344]: Commencement: Reg. 11 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/995/regulation/1)
+
+[^key-fdb803cf7b9a8f5a4157ee6925c60e76]: Commencement: Reg. 12 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/995/regulation/1)
+
+[^key-07bd1dd4f92d6ee892649cbcdc9d2ac0]: Commencement: Reg. 13 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/995/regulation/1)
+
+[^key-9c24dc31f9f0df7da3d594b591869717]: Commencement: Reg. 14 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/995/regulation/1)
+
+[^key-5344f261c54df2976efca6d1fb0a46f1]: Commencement: Reg. 15 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/995/regulation/1)
+
+[^key-4ed9aa5830831a6b1e77a01ef989a802]: Commencement: Reg. 16 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/995/regulation/1)
+
+[^key-5705ccdbceeac6c91f70180112d588f3]: Commencement: Reg. 17 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/995/regulation/1)
+
+[^key-cf81d8e61bb52e46322a450beb59ba77]: Commencement: Reg. 18 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/995/regulation/1)
+
+[^key-daea971e833b0213a253e94bd8e96d06]: Commencement: Reg. 19 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/995/regulation/1)
+
+[^key-1a8109d14cca88b540370a81249d0cfb]: Commencement: Reg. 20 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/995/regulation/1)
+
+[^key-8cabc2fb6515ba36fb8b05f6a9cf3ae0]: Commencement: Reg. 21 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/995/regulation/1)
+
+[^key-e196bdb760e27f0b4b314d1e634eddb9]: Commencement: Reg. 22 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/995/regulation/1)
+
+[^f00009]: Footnote: [1990 c. 37](https://www.legislation.gov.uk/ukpga/1990/37). Section 33D was inserted by section 25 of the Human Fertilisation and Embryology Act [2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22).
+
+[^f00010]: Footnote: [2006 c. 41](https://www.legislation.gov.uk/ukpga/2006/41).

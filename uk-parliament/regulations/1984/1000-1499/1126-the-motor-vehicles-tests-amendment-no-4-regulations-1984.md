@@ -1,0 +1,107 @@
+---
+title: The Motor Vehicles (Tests) (Amendment) (No. 4) Regulations 1984
+id: uksi/1984/1126
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '1984-07-25'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1984/1126
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1984/1126/pdfs/uksi_19841126_en.pdf
+- http://www.legislation.gov.uk/uksi/1984/1126/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Westlaw UK derived from Crown Copyright material and contributed to legislation.gov.uk
+summary: ''
+---
+
+# The Motor Vehicles (Tests) (Amendment) (No. 4) Regulations 1984
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+1984 No. 1126
+
+ROAD TRAFFIC
+
+The Motor Vehicles (Tests) (Amendment) (No. 4) Regulations 1984
+
+Made
+
+25th July 1984
+
+Laid before Parliament
+
+9th August 1984
+
+Coming into Operation
+
+30th August 1984
+
+The Secretary of State for Transport, in exercise of the powers conferred by section 43(2) and (6) of the Road Traffic Act 1972 and now vested in him, and of all other enabling powers, and after consultation with representative organisations in accordance with the provisions of section 199(2) of that Act, hereby makes the following Regulations:—
+
+**1.** These Regulations shall come into operation on 30th August 1984, and may be cited as the Motor Vehicles (Tests) (Amendment) (No. 4) Regulations 1984.
+
+**2.** The Motor Vehicles (Tests) Regulations 1981[^f00001] are hereby amended in accordance with the following provisions of these Regulations.
+
+**3.** In Regulation 5 (Classification of Vehicles and Application of Regulations)—
+
+- (a) in paragraph (1), for the description of vehicles in Class V substitute the following description:—
+
+  > - (a) Large passenger-carrying vehicles,
+  > - (b) Public service vehicles which are—
+  >   - (i) of a type specified in paragraph (3), and
+  >   - (ii) constructed or adapted to carry more than 12 seated passengers, and
+  > - (c) Play buses
+
+  ;
+- (b) in paragraph (3), for the words “in respect of which no certificate of initial fitness has been issued and which are lawfully in use without one by virtue of —” substitute the words “which may lawfully be used on a road in the absence of a certificate of initial fitness by virtue of —”.
+
+**4.** In Regulation 20 (Fees for examinations), for paragraph (5) substitute the following paragraphs:—
+
+> (5) Save as provided in paragraphs (5A) and (5B), the fees prescribed by paragraphs (1), (3)(b) and (4) shall be payable notwithstanding that the vehicle is not submitted for examination in accordance with any such appointment or arrangement as is mentioned in Regulation 12.
+>
+> (5A) If, in the case of a vehicle not in Class VI, the applicant for the examination has not less than one day before the time so appointed or arranged given the examining authority notice (whether in writing or otherwise) that the applicant does not propose to submit the vehicle for examination at the time so appointed or arranged, the application shall be treated for the purposes of this Regulation as one in respect of which no fee is payable, and any amount previously paid in respect of such a fee shall be repayable by the examining authority to the applicant unless another time is arranged for the carrying out of the examination.
+>
+> (5B) If, in the case of a vehicle in Class VI, the applicant—
+>
+> - (a) has not less than 7 days before the day fixed under these Regulations for the carrying out of the examination given the Secretary of State notice (whether in writing or otherwise) at the address from which the notice of the appointment was issued that the applicant does not propose to submit the vehicle for examination on that day, or
+> - (b) satisfies the Secretary of State that the vehicle cannot, or, as the case may be, could not be submitted for the examination on the day or at the time fixed for the examination because of exceptional circumstances occurring not more than 7 days before the said time and of which the applicant gives notice to the Secretary of State (whether in writing or otherwise) at the said address within 3 days of the occurrence of those circumstances,
+>
+> then the applicant may either—
+>
+> - (i) make an application in writing to the Secretary of State at the said address, either at the time of the notice given under sub-paragraph (a) or (b) of this paragraph or within 28 days of the date thereof, for another examination of the same kind for that vehicle or another vehicle to be carried out within three months of the date of the application, and in that event the said fee shall be treated as having been paid in respect of that application unless the fee in respect of that application is greater, in which case the fee already paid shall be treated as having been paid towards the fee payable in respect of that application, or
+> - (ii) give notice to Secretary of State at the place mentioned in sub-paragraph (i) above, and at the time of the notice given under sub-paragraph (a) or (b) of this paragraph or within 28 days of the date thereof, that no other examination of the same kind is required for that vehicle or another vehicle, and in that event the said fee, less a sum of £1.50 for administrative expenses, shall be refunded to the applicant.
+
+**5.** In Regulation 20, in paragraph (7)(c), after sub-paragraph (i) insert the following new sub-paragraph—
+
+> - (ia) those specified in sub-paragraph (d) of item 12 in column (2)(b)
+
+.
+
+**6.** In Regulation 20, after paragraph (7), add the following paragraph:—
+
+> (8) In this Regulation “**exceptional circumstances**” means an accident, a fire, an epidemic, severe weather, a failure in the supply of essential services or other unexpected happening (excluding a breakdown or mechanical defect in a vehicle or non-delivery of spare parts for a vehicle).
+
+.
+
+Nicholas Ridley
+
+Secretary of State for Transport
+
+25th July 1984
+
+EXPLANATORY NOTE
+
+These Regulations further amend the Motor Vehicles (Tests) Regulations 1981 in the following ways:—
+
+(1) The classification of vehicles for the purposes of the Regulations is amended so that a public service vehicle is within Class V only if it is constructed or adapted to carry more than 12 seated passengers and may lawfully be used on a road in the absence of a certificate of initial fitness by virtue of one of the provisions mentioned in Regulation 5(3); and amendment is made to the reference to vehicles in respect of which no certificate of initial fitness has been issued (see Regulation 3).
+
+(2) The circumstances in which fees for a proposed examination of a vehicle in Class VI can be refunded or applied in respect of another examination are amended by the introduction of the provisions specified in a new paragraph numbered (5B) in Regulation 20 (Regulations 4 and 6).
+
+(3) The items in respect of which a re-examination may occur without the fee prescribed in Regulation 20(4), becoming payable, as specified in Regulation 20(7), are extended by inclusion, as regards the Class VI vehicle requirements, of tachographs (see Regulation 5).
+
+## Annotations
+
+[^f00001]: Footnote: The relevant amending Instruments are S.I. 1982/783, 814, 1477, 1983/1147, 1984/401, 727 and 815.

@@ -1,0 +1,753 @@
+---
+title: The Environmental Permitting (England and Wales) (Amendment) (No. 2) Regulations 2016
+id: uksi/2016/475
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2016-03-24'
+text_date: '2017-01-01'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2016/475
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2016/475/pdfs/uksiem_20160475_en.pdf
+- http://www.legislation.gov.uk/uksi/2016/475/pdfs/uksi_20160475_en.pdf
+- http://www.legislation.gov.uk/uksi/2016/475/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Environmental Permitting (England and Wales) (Amendment) (No. 2) Regulations 2016
+
+> Text as at 2017-01-01.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2016 No. 475
+
+Environmental Protection, England And Wales
+
+Flood Risk Management, England And Wales
+
+The Environmental Permitting (England and Wales) (Amendment) (No. 2) Regulations 2016
+
+Made
+
+24th March 2016
+
+Coming into force
+
+6th April 2016
+
+These Regulations are made by the Secretary of State in relation to England and the Welsh Ministers in relation to Wales, in exercise of the powers conferred by sections 61 and 90 of, and Schedule 8 to, the Water Act 2014[^f00001].
+
+In accordance with section 61(5) of the Water Act 2014, the Secretary of State and the Welsh Ministers have consulted—
+
+- (a) the Environment Agency;
+- (b) the Natural Resources Body for Wales;
+- (c) such bodies or persons appearing to them to be representative of the interests of local government, industry, agriculture and small businesses respectively as they consider appropriate;
+- (d) such other bodies or persons as they consider appropriate.
+
+In accordance with section 61(3) of that Act, the Secretary of State and the Welsh Ministers have had regard to the desirability of reducing burdens by ensuring that so far as is reasonably practicable any system established by regulations under that section is combined with, or is consistent with, systems for regulating activities or other matters that cause pollution.
+
+A draft of this instrument has been approved by a resolution of each House of Parliament and by the National Assembly for Wales pursuant to sections 62(7) and (8) and 90(3) of the Water Act 2014.
+
+## 1. Citation, commencement, extent, application and interpretation
+
+(1) These Regulations may be cited as the Environmental Permitting (England and Wales) (Amendment) (No. 2) Regulations 2016.
+
+(2) These Regulations come into force on 6th April 2016.
+
+(3) These Regulations extend to England and Wales only.
+
+(4) These Regulations do not apply in relation to the Isles of Scilly.
+
+(5) In these Regulations, “the 1991 Act” means the Water Resources Act 1991[^f00002].
+
+## 2. Amendment of the Environmental Permitting (England and Wales) Regulations 2010
+
+The Environmental Permitting (England and Wales) Regulations 2010[^f00003] (referred to in these Regulations as “the principal Regulations”) are amended in accordance with regulations 3 to 28.
+
+## 3. Amendment of regulation 2 (interpretation: general)
+
+In regulation 2(1)—
+
+- (a) after the definition of “confidential information” insert—
+
+  > - “culvert” has the meaning given in paragraph 3 of Part 1 of Schedule 23ZA;
+
+  ;
+- (b) after the definition of “disposal” insert—
+
+  > - “drainage” has the meaning given in paragraph 2 of Part 1 of Schedule 23ZA;
+
+  ;
+- (c) after the definition of “establishment” insert—
+
+  > - “excluded flood risk activity” has the meaning given in paragraph 4 of Part 1 of Schedule 23ZA;
+
+  ;
+- (d) after the definition of “exempt facility” insert—
+
+  > - “exempt flood risk activity” has the meaning given in regulation 5;
+
+  ;
+- (e) after the definition of “extractive waste” insert—
+
+  > - “flood defence structure” has the meaning given in paragraph 2 of Part 1 of Schedule 23ZA;
+  > - “flood risk activity” has the meaning given in paragraph 3 of Part 1 of Schedule 23ZA;
+  > - “flood risk activity emergency works notice” means a notice served under paragraph 7 of Part 1 of Schedule 23ZA;
+  > - “flood risk activity notice of intent” means a notice served under paragraph 9(2) of Part 1 of Schedule 23ZA;
+  > - “flood risk activity remediation notice” means a notice served under paragraph 8 of Part 1 of Schedule 23ZA;
+
+  ;
+- (f) after the definition of “local authority” insert—
+
+  > - “main river” has the meaning given in paragraph 2 of Part 1 of Schedule 23ZA;
+
+  ;
+- (g) after the definition of “non-hazardous waste” insert—
+
+  > - “non-tidal main river” has the meaning given in paragraph 2 of Part 1 of Schedule 23ZA;
+
+  ;
+- (h) after the definition of “relevant territorial waters” insert—
+
+  > - “remote defence” has the meaning given in paragraph 3 of Part 1 of Schedule 23ZA;
+
+  ;
+- (i) after the definition of “revocation notice” insert—
+
+  > - “river control works” has the meaning given in paragraph 3 of Part 1 of Schedule 23ZA;
+
+  ;
+- (j) after the definition of “rule-making authority” insert—
+
+  > - “sea defence” has the meaning given in paragraph 3 of Part 1 of Schedule 23ZA;
+
+  ;
+- (k) after the definition of “standard facility” insert—
+
+  > - “stand-alone flood risk activity” means a flood risk activity that is not carried on as part of the operation of a regulated facility of another class;
+- (l) after the definition of “suspension notice” insert—
+
+  > - “tidal main river” has the meaning given in paragraph 2 of Part 1 of Schedule 23ZA;
+
+  ;
+- (m) after the definition of “waste operation” insert—
+
+  > - “watercourse” has the meaning given in paragraph 2 of Part 1 of Schedule 23ZA;
+
+  .
+
+## 4. Amendment of regulation 5 (interpretation: exempt facilities)
+
+Regulation 5(1) is amended as follows—
+
+- (a) in the definition of “exempt facility”—
+  - (i) omit the word “or” immediately preceding paragraph (b);
+  - (ii) at the end, add—
+
+    > , or
+    >
+    > - (d) an exempt flood risk activity
+
+    ;
+- (b) after the definition of “exempt facility” insert—
+
+  > - “exempt flood risk activity” means a flood risk activity that meets the requirements of paragraph 5B of Schedule 2;
+
+  .
+
+## 5. Amendment of regulation 7 (interpretation: operate a regulated facility and operator)
+
+In regulation 7, in paragraph (b) of the definition of “operate a regulated facility”[^f00004], for “or solvent emission activity” substitute “, solvent emission activity or flood risk activity”.
+
+## 6. Amendment of regulation 8 (interpretation: regulated facility and class of regulated facility)
+
+(1) In regulation 8(1)[^f00005], at the end of sub-paragraph (i) add—
+
+> - (j) a flood risk activity
+
+.
+
+(2) In regulation 8(2), at the end of sub-paragraph (c) add—
+
+> - (d) an excluded flood risk activity
+
+.
+
+(3) In regulation 8(4)[^f00006], at the end of sub-paragraph (f) add—
+
+> - (g) a flood risk activity
+
+.
+
+## 7. Amendment of regulation 9 (interpretation: relevant function)
+
+At the end of regulation 9 add—
+
+> - (g) exercising the power to serve a flood risk activity emergency works notice, a flood risk activity notice of intent or a flood risk activity remediation notice,
+> - (h) exercising the power to take steps under paragraph 9(1) of Part 1 of Schedule 23ZA
+
+.
+
+## 8. Substitution of regulation 15[^key-d1a828a37df83faafa5f39b48e362f57]
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 9. Amendment of regulation 17 (single site permits etc.)[^key-d1a828a37df83faafa5f39b48e362f57]
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 10. Amendment of regulation 18 (consolidation of an environmental permit)[^key-d1a828a37df83faafa5f39b48e362f57]
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 11. Amendment of regulation 20 (variation of an environmental permit)[^key-d1a828a37df83faafa5f39b48e362f57]
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 12. Amendment of regulation 21 (transfer of an environmental permit)[^key-d1a828a37df83faafa5f39b48e362f57]
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 13. Amendment of regulation 24 (notification of surrender of an environmental permit)[^key-d1a828a37df83faafa5f39b48e362f57]
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 14. Amendment of regulation 31 (appeals to an appropriate authority)[^key-d1a828a37df83faafa5f39b48e362f57]
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 15. Amendment of regulation 35 (specific provisions applying to environmental permits)[^key-d1a828a37df83faafa5f39b48e362f57]
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 16. Amendment of regulation 36 (enforcement notices)[^key-d1a828a37df83faafa5f39b48e362f57]
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 17. Amendment of regulation 37 (suspension notices)[^key-d1a828a37df83faafa5f39b48e362f57]
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 18. Amendment of regulation 38 (offences)[^key-d1a828a37df83faafa5f39b48e362f57]
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 19. Amendment of regulation 39 (penalties)[^key-d1a828a37df83faafa5f39b48e362f57]
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 20. Amendment of regulation 42 (enforcement by the High Court)[^key-d1a828a37df83faafa5f39b48e362f57]
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 21. Insertion of regulation 57A[^key-d1a828a37df83faafa5f39b48e362f57]
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 22. Insertion of regulations 66A and 66B[^key-d1a828a37df83faafa5f39b48e362f57]
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 23. Amendment of Schedule 2 (exempt facilities: general)[^key-d1a828a37df83faafa5f39b48e362f57]
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 24. Amendment of Schedule 3 (exempt facilities: descriptions and conditions)[^key-d1a828a37df83faafa5f39b48e362f57]
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 25. Amendment of Schedule 5 (environmental permits)[^key-d1a828a37df83faafa5f39b48e362f57]
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 26. Amendment of Schedule 6 (appeals to the appropriate authority)[^key-d1a828a37df83faafa5f39b48e362f57]
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 27. Insertion of new Schedule 23ZA (flood risk activities)[^key-d1a828a37df83faafa5f39b48e362f57]
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 28. Amendment of Schedule 23A (enforcement undertakings)[^key-d1a828a37df83faafa5f39b48e362f57]
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 29. Consequential amendments etc.
+
+Schedule 3 has effect.
+
+## 30. Repeals[^key-d1a828a37df83faafa5f39b48e362f57]
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 31. Transitional provision: existing consents
+
+(1) On the coming into force of these Regulations and subject to paragraph (2), an existing consent relating to a flood risk activity (as defined in the principal Regulations)—
+
+- (a) becomes an environmental permit under the principal Regulations, and
+- (b) that permit has effect subject to any conditions that applied to the existing consent immediately before the coming into force of these Regulations.
+
+(2) Where an existing consent relates to an excluded or exempt flood risk activity (as defined in the principal Regulations)—
+
+- (a) the existing consent does not become an environmental permit and ceases to have effect;
+- (b) the conditions in paragraph 5B(b) of Schedule 2 to the principal Regulations as to registration do not apply; and
+- (c) the duties in respect of an exempt flood risk activity in paragraph 7 of Schedule 2 to the principal Regulations do not apply.
+
+(3) In this regulation, “existing consent” means a consent which—
+
+- (a) is issued under section 109 of the 1991 Act or under any byelaw made by the regulator under section 210(1) of, and paragraph 5 of Schedule 25 to, that Act[^f00013]; and
+- (b) is in force immediately before the coming into force of these Regulations.
+
+## 32. Transitional provision: applications for consent under the 1991 Act
+
+(1) Where an existing application in respect of a flood risk activity (as defined in the principal Regulations) has not been determined under the 1991 Act before the coming into force of these Regulations and the activity is not an exempt or excluded flood risk activity (as defined in the principal Regulations), the application is taken to have been made under the principal Regulations and paragraphs (2) and (3) apply in respect of the application.
+
+(2) The application is taken to have been made on the date on which the application was made under the 1991 Act.
+
+(3) Anything done under the 1991 Act in relation to the determination of the application before the coming into force of these Regulations is taken to have been done under the principal Regulations.
+
+(4) Where an existing application in respect of a flood risk activity has not been determined under the 1991 Act and the activity is an exempt or excluded flood risk activity (as defined in the principal Regulations), the application is to be disregarded on the coming into force of these Regulations.
+
+(5) For the purposes of this regulation, an “existing application” means an application for consent made before the coming into force of these Regulations under section 109 of the 1991 Act or under any byelaw made by the regulator under section 210(1) of, and paragraph 5 of Schedule 25 to, that Act.
+
+## 33. Transitional provision: existing notices
+
+(1) A notice served under a byelaw before the coming into force of these Regulations is taken to be an enforcement notice under the principal Regulations.
+
+(2) For the purposes of paragraph (1), “byelaw” means a byelaw—
+
+- (a) made by the regulator under section 210(1) of and paragraph 5 of Schedule 25 to the 1991 Act; and
+- (b) under which a consent may be issued to an applicant.
+
+## 34. Saving provision: arbitration
+
+Section 110(4) of the 1991 Act[^f00014] continues to apply in respect of any question referred under that provision to arbitration or to the Secretary of State or the Welsh Ministers[^f00015] before the coming into force of these Regulations.
+
+Rory Stewart
+
+Parliamentary Under Secretary of State
+
+Department for Environment, Food and Rural Affairs
+
+Leslie Griffiths
+
+Minister for Communities and Tackling Poverty
+
+Signed on behalf of Minister for Natural Resources, One of the Welsh Ministers
+
+## SCHEDULE 1 — Amendment of Schedule 3 to the Principal Regulations[^key-d1a828a37df83faafa5f39b48e362f57]
+
+**No longer in force.**
+
+Regulation 24
+
+> **PART 4 — Exempt flood risk activities: descriptions and conditions**
+>
+> **1. General and interpretation**
+>
+> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> **2. Electrical cable services**
+>
+> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> **3. Service crossings below the bed of a main river**
+>
+> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> **4. Service crossings attached to the outside of existing structures over a main river**
+>
+> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> **5. Footbridges**
+>
+> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> **6. Temporary scaffolding in England**
+>
+> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> **7. Temporary dewatering in England**
+>
+> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> **8. Maintenance of raised river or sea defences**
+>
+> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> **9. Maintenance of structures within the channel of a main river**
+>
+> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> **10. Drinking bays**
+>
+> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> **11. Access platforms**
+>
+> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> **12. Outfalls**
+>
+> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> **13. Repair and protection of banks using natural materials**
+>
+> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> **14. Repair of bank slips and erosion**
+>
+> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> **15. Channel habitat structures made of natural materials**
+>
+> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> **16. Rafts for surveys**
+>
+> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> **17. Gravel-cleaning for fish-spawning beds**
+>
+> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> **18. Placement of stones or logs in a main river in England for habitat enhancement**
+>
+> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> **19. Eel pass devices**
+>
+> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> **20. Fish passage notches**
+>
+> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> **21. Removal of silt, sand and other material in England**
+>
+> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> **22. Removal of silt and sand adjacent to in-river structures in England**
+>
+> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> **23. Dredging of man-made ditches, land drains, agricultural drains and previously straightened watercourses in England**
+>
+> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> **24. Dredging of any main river in England**
+>
+> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> **25. Excavation of scrapes and shallow wetland features**
+>
+> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> **26. Raised flood defences in England**
+>
+> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> **27. Bankside wildlife refuge structures**
+>
+> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> **28. Improvement works for tracks and paths**
+>
+> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 2 — Insertion of Schedule 23ZA into the Principal Regulations[^key-d1a828a37df83faafa5f39b48e362f57]
+
+Regulation 27
+
+> [^key-d1a828a37df83faafa5f39b48e362f57][^key-d1a828a37df83faafa5f39b48e362f57]
+>
+> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> [^key-d1a828a37df83faafa5f39b48e362f57][^key-d1a828a37df83faafa5f39b48e362f57]
+>
+> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> [^key-d1a828a37df83faafa5f39b48e362f57][^key-d1a828a37df83faafa5f39b48e362f57]
+>
+> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> [^key-d1a828a37df83faafa5f39b48e362f57][^key-d1a828a37df83faafa5f39b48e362f57]
+>
+> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> [^key-d1a828a37df83faafa5f39b48e362f57][^key-d1a828a37df83faafa5f39b48e362f57]
+>
+> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> [^key-d1a828a37df83faafa5f39b48e362f57][^key-d1a828a37df83faafa5f39b48e362f57]
+>
+> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> [^key-d1a828a37df83faafa5f39b48e362f57][^key-d1a828a37df83faafa5f39b48e362f57]
+>
+> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> [^key-d1a828a37df83faafa5f39b48e362f57][^key-d1a828a37df83faafa5f39b48e362f57]
+>
+> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> [^key-d1a828a37df83faafa5f39b48e362f57][^key-d1a828a37df83faafa5f39b48e362f57]
+>
+> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> [^key-d1a828a37df83faafa5f39b48e362f57][^key-d1a828a37df83faafa5f39b48e362f57]
+>
+> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> [^key-d1a828a37df83faafa5f39b48e362f57][^key-d1a828a37df83faafa5f39b48e362f57] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> [^key-d1a828a37df83faafa5f39b48e362f57][^key-d1a828a37df83faafa5f39b48e362f57]
+>
+> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> [^key-d1a828a37df83faafa5f39b48e362f57][^key-d1a828a37df83faafa5f39b48e362f57]
+>
+> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> [^key-d1a828a37df83faafa5f39b48e362f57][^key-d1a828a37df83faafa5f39b48e362f57]
+>
+> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> [^key-d1a828a37df83faafa5f39b48e362f57][^key-d1a828a37df83faafa5f39b48e362f57]
+>
+> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> [^key-d1a828a37df83faafa5f39b48e362f57][^key-d1a828a37df83faafa5f39b48e362f57]
+>
+> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> [^key-d1a828a37df83faafa5f39b48e362f57][^key-d1a828a37df83faafa5f39b48e362f57]
+>
+> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> [^key-d1a828a37df83faafa5f39b48e362f57][^key-d1a828a37df83faafa5f39b48e362f57]
+>
+> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> [^key-d1a828a37df83faafa5f39b48e362f57][^key-d1a828a37df83faafa5f39b48e362f57]
+>
+> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> [^key-d1a828a37df83faafa5f39b48e362f57][^key-d1a828a37df83faafa5f39b48e362f57]
+>
+> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> [^key-d1a828a37df83faafa5f39b48e362f57][^key-d1a828a37df83faafa5f39b48e362f57]
+>
+> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> [^key-d1a828a37df83faafa5f39b48e362f57][^key-d1a828a37df83faafa5f39b48e362f57]
+>
+> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> [^key-d1a828a37df83faafa5f39b48e362f57][^key-d1a828a37df83faafa5f39b48e362f57]
+>
+> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 3 — Consequential amendments etc.
+
+Regulation 29
+
+### PART 1 — Public General Acts
+
+#### 1. Highways Act 1980
+
+After section 339(1) of the Highways Act 1980[^f00041] insert—
+
+> (1A) Subsection (1) does not apply in respect of an activity which is a flood risk activity within the meaning of the Environmental Permitting (England and Wales) Regulations 2010 ([S.I. 2010/675](https://www.legislation.gov.uk/uksi/2010/675)).
+
+.
+
+#### 2. Water Resources Act 1991
+
+In section 221(1)[^f00042] of the 1991 Act, in the definition of “flood defence functions”—
+
+- (a) at the end of paragraph (b) omit “and”;
+- (b) after paragraph (c) insert—
+
+  > - (d) its functions with respect to securing the drainage of land or the management of flood risk contained in regulations made under section 61 of the Water Act 2014[^f00043]; and
+  > - (e) any other function of the appropriate agency under any provision of this Act or the 1995 Act so far as it relates to a function falling within paragraph (d);
+
+  .
+
+#### 3. Environment Act 1995
+
+(1) The Environment Act 1995[^f00044] is amended as follows.
+
+(2) In section 56(1)[^f00045], in the definition of “environmental licence”, for paragraph (aa) substitute—
+
+> - (aa) a permit granted by the appropriate agency under—
+>   - (i) regulations made under section 2 of the Pollution Prevention and Control Act 1999[^f00046], other than regulations made for the purpose of implementing the EU ETS Directive,
+>   - (ii) regulations made under section 61 of the Water Act 2014.
+
+.
+
+(3) In section 108—
+
+- (a) in subsection (1)—
+  - (i) in paragraph (a), after the words “pollution control enactments” insert “or flood risk activity enactments”;
+  - (ii) in paragraph (b), after the words “pollution control functions” insert “or flood risk activity functions”;
+- (b) in subsection (4)—
+  - (i) for paragraph (g) substitute—
+
+    > - (g) in the case of any article or substance found in or on any premises which the person has power to enter, being an article or substance which appears to that person to have caused or to be likely to cause—
+    >   - (i) pollution of the environment,
+    >   - (ii) harm to the environment,
+    >   - (iii) flooding,
+    >   - (iv) harm to human health, or
+    >   - (v) a detrimental impact on drainage,
+    >
+    >   to cause it to be dismantled or subjected to any process or test (but not so as to damage or destroy it, unless that is necessary);
+
+    ;
+  - (ii) in paragraph (h)(iii), after the words “pollution control enactments” insert “or flood risk activity enactments”;
+  - (iii) in paragraph (k)(i), after the words “pollution control enactments” insert “or flood risk activity enactments”;
+- (c) in subsection (5), after the words “pollution control enactments” insert “or flood risk activity enactments”;
+- (d) in subsection (15)—
+  - (i) for the definition of “emergency” substitute—
+
+    > - “emergency” means a case in which it appears to the authorised person in question—
+    >   - (a) that there is an immediate risk of serious harm or that circumstances exist which are likely to endanger life or health, and
+    >   - (b) that immediate entry to any premises is necessary to verify the existence of that risk or those circumstances or to ascertain the cause of that risk or those circumstances or to effect a remedy,
+    >
+    >   and for this purpose “serious harm” means—
+    >
+    >   - (i) serious pollution of the environment,
+    >   - (ii) serious harm to the environment,
+    >   - (iii) serious flooding,
+    >   - (iv) serious harm to human health, or
+    >   - (v) a serious detrimental impact on drainage;
+
+    ;
+  - (ii) after the definition of “English waste collection authority”[^f00047] insert—
+
+    > - “flood risk activity enactment”, in relation to an enforcing authority, means an enactment relating to the flood risk activity functions of that authority;
+    > - “flood risk activity functions”, in relation to the Agency or the Natural Resources Body for Wales, means the functions relating to flood risk activities conferred or imposed on it by or under regulations made under section 61 of the Water Act 2014;
+
+    .
+
+### PART 2 — Subordinate legislation
+
+**4.** Any requirement of a byelaw made by the regulator before 6th April 2016 under section 210(1) of, and paragraph 5 of Schedule 25 to, the 1991 Act[^f00048] for a person to obtain the consent of the regulator ceases to apply.
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations amend the Environmental Permitting (England and Wales) Regulations 2010 ([S.I. 2010/675](https://www.legislation.gov.uk/uksi/2010/675)) (“the EPRs”) in order to extend the requirement for an environmental permit to flood risk activities.
+
+Regulation 3 amends the EPRs so as to provide for relevant definitions. In particular the term “flood risk activity” is defined by reference to a new Schedule 23ZA to the EPRs (inserted by Schedule 2 to these Regulations).
+
+Regulation 4 amends regulation 5 of the EPRs (exempt facilities) to provide for exempt flood risk activities. Regulations 5 to 7 amend definitions in the EPRs in order to bring flood risk activities within the class of operations that require an environmental permit.
+
+Regulation 8 substitutes a new regulation 15 in the EPRs in connection with provision for permit applications to be granted subject to conditions relating to ongoing maintenance or access requirements by the regulator. Regulations 9 and 10 extend to flood risk activities current flexibilities in the EPRs concerning the grant by the regulator of a permit covering various activities by a single operator.
+
+Regulations 11 to 13 extend the current provisions in the EPRs on variation, transfer and surrender of environmental permits so that they provide for flood risk activities. Regulation 14 make provision for appeals in relation to permits authorising flood risk activities. Regulation 15 adds flood risk activities to the list of specific provisions applying to environmental permits, set out in regulation 35 of the EPRs.
+
+Regulations 16 to 20 extend the current provisions in the EPRs on enforcement and offences relating to permits so that they provide for flood risk activities. Regulation 21 gives the regulator power to arrange for steps to be taken to remove a risk of serious flooding, detrimental impact on drainage or harm to the environment, corresponding to the current power under the EPRs for the regulator to prevent or remedy pollution.
+
+Regulation 22 requires the Environment Agency and the Natural Resources Body for Wales to consult each other before exercising a function relating to a flood risk activity which may affect a flood or coastal erosion risk in Wales or England respectively. It also requires the appropriate authority to have regard to the interests of fisheries, including sea fisheries, when exercising a power under the EPRs that relates to a flood risk activity.
+
+Regulations 23 and 24 amend Schedules 2 and 3 respectively to make provision in respect of exempt facilities for flood risk activities. Regulation 25 amends Schedule 5 to the EPRs in order to make provision in respect of the grant, variation and surrender of environmental permits that include flood risk activities (including provision as to fees for the grant of such permits). Regulation 26 adds provision in respect of flood risk activity enforcement notices to Schedule 6 to the EPRs (appeals to the appropriate authority). Regulation 28 amends Schedule 23A to the EPRs in order to exclude the option of accepting an enforcement undertaking in relation to flood risk activities. Regulation 30 repeals certain provisions of the Water Resources Act 1991[^f00049].
+
+Regulations 31 to 34 make transitional and saving provision in respect of existing flood defence consents, outstanding applications for flood defence consents, existing notices and arbitration matters.
+
+Schedule 1 to these Regulations adds a new Part 4 to Schedule 3 to the EPRs (descriptions and conditions for exempt flood risk activities). Schedule 2 makes specific provision for flood risk activities included in environmental permits. This includes definitions, enforcement notices and excluded flood risk activities. Schedule 3 makes consequential amendments to primary and subordinate legislation.
+
+A full impact assessment of the effect that this instrument will have on the costs of business, the voluntary sector and the public sector is available from the Flood Risk Management Team, the Department for Environment, Food and Rural Affairs, Area 3C, Nobel House, 17 Smith Square, London SW1P 3JR and from the Flood and Coastal Erosion Risk Management Team, the Welsh Government, Cathays Park, Cardiff, CF10 3NQ, and is published alongside the Explanatory Memorandum for this instrument at www.legislation.gov.uk.
+
+## Annotations
+
+[^f00001]: Footnote: [2014 c. 21](https://www.legislation.gov.uk/ukpga/2014/21). Section 61(9) contains the definition of “the Minister”.
+
+[^f00002]: Footnote: [1991 c. 57](https://www.legislation.gov.uk/ukpga/1991/57).
+
+[^f00003]: Footnote: [S.I. 2010/675](https://www.legislation.gov.uk/uksi/2010/675); relevant amending instruments are [S.I. 2012/630](https://www.legislation.gov.uk/uksi/2012/630), [2013/390](https://www.legislation.gov.uk/uksi/2013/390), [2015/664](https://www.legislation.gov.uk/uksi/2015/664) and 1756.
+
+[^f00004]: Footnote: Paragraph (b) of this definition was amended by [S.I. 2013/390](https://www.legislation.gov.uk/uksi/2013/390).
+
+[^f00005]: Footnote: Regulation 8(1) was amended by [S.I. 2013/390](https://www.legislation.gov.uk/uksi/2013/390).
+
+[^f00006]: Footnote: Regulation 8(4) was amended by [S.I. 2013/390](https://www.legislation.gov.uk/uksi/2013/390).
+
+[^key-d1a828a37df83faafa5f39b48e362f57]: Textual amendment: Regulations revoked in part (1.1.2017) by [The Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154)](https://www.legislation.gov.uk/uksi/2016/1154), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/1), [Sch. 28](https://www.legislation.gov.uk/uksi/2016/1154/schedule/28) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/3), [77-79](https://www.legislation.gov.uk/uksi/2016/1154/regulation/77), [Sch. 4](https://www.legislation.gov.uk/uksi/2016/1154/schedule/4))
+
+[^f00013]: Footnote: Section 210(1) was amended by [S.I. 2013/755](https://www.legislation.gov.uk/uksi/2013/755). Paragraph 5 of Schedule 25 was amended by the Natural Environment and Rural Communities Act [2006 (c.16)](https://www.legislation.gov.uk/ukpga/2006/16), section 100(1) and (2), the Marine and Coastal Access Act 2009, section 84 and Schedule 11, paragraph 3, the Flood and Water Management Act [2010 (c.29)](https://www.legislation.gov.uk/ukpga/2010/29), Schedule 2, paragraph 49 and [S.I. 2013/755](https://www.legislation.gov.uk/uksi/2013/755).
+
+[^f00014]: Footnote: Section 110(4) was amended by the Environment Act [1995 (c.25)](https://www.legislation.gov.uk/ukpga/1995/25), Schedule 22, paragraphs 128 and 147(1) and (2).
+
+[^f00015]: Footnote: The functions of the Secretary of State under section 110(4) of the 1991 Act, so far as exercisable in relation to Wales, were transferred to the National Assembly for Wales by the National Assembly for Wales (Transfer of Functions) Order 1999 (S.I 1999/672), article 2(a) and Schedule 1. The functions of the National Assembly for Wales were transferred to the Welsh Ministers by the Government of Wales Act [2006 (c.32)](https://www.legislation.gov.uk/ukpga/2006/32), Schedule 11, paragraph 30.
+
+[^f00041]: Footnote: [1980 c.66](https://www.legislation.gov.uk/ukpga/1980/66); section 339 was amended by the Water Act [1989 (c.15)](https://www.legislation.gov.uk/ukpga/1989/15), Schedule 25, paragraph 62, the Water Consolidation (Consequential Provisions) Act [1991 (c.60)](https://www.legislation.gov.uk/ukpga/1991/60), Schedule 1, paragraph 36(2) and [S.I. 1996/593](https://www.legislation.gov.uk/uksi/1996/593).
+
+[^f00042]: Footnote: The definition of “flood defence functions” was substituted by the Environment Act [1995 (c. 25)](https://www.legislation.gov.uk/ukpga/1995/25), Schedule 22, paragraph 177(7) and amended by [S.I. 2013/755](https://www.legislation.gov.uk/uksi/2013/755).
+
+[^f00043]: Footnote: [2014 c. 21](https://www.legislation.gov.uk/ukpga/2014/21).
+
+[^f00044]: Footnote: [1995 c.25](https://www.legislation.gov.uk/ukpga/1995/25).
+
+[^f00045]: Footnote: Paragraph (aa) of the definition of “environmental licence” was inserted by [S.I. 2000/1973](https://www.legislation.gov.uk/uksi/2000/1973) and amended by 2013/755 and 2012/2788.
+
+[^f00046]: Footnote: [1999 c. 24](https://www.legislation.gov.uk/ukpga/1999/24); section 2 was amended by the Water Act 2014, section 62(13) and [S.I. 2013/755](https://www.legislation.gov.uk/uksi/2013/755).
+
+[^f00047]: Footnote: The definition of “English waste collection authority” was inserted by the Protection of Freedoms Act [2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), Schedule 2, Part 1, paragraph 3(3).
+
+[^f00048]: Footnote: Section 210(1) was amended by [S.I. 2013/755](https://www.legislation.gov.uk/uksi/2013/755). Paragraph 5 of Schedule 25 was amended by the Natural Environment and Rural Communities Act [2006 (c. 16)](https://www.legislation.gov.uk/ukpga/2006/16), section 100(1) and (2), the Marine and Coastal Access Act 2009, section 84 and Schedule 11, paragraph 3, the Flood and Water Management Act [2010 (c. 29)](https://www.legislation.gov.uk/ukpga/2010/29), Schedule 2, paragraph 49 and [S.I. 2013/755](https://www.legislation.gov.uk/uksi/2013/755).
+
+[^f00049]: Footnote: [1991 c.57](https://www.legislation.gov.uk/ukpga/1991/57).

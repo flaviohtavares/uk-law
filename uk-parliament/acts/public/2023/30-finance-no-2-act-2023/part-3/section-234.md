@@ -1,0 +1,56 @@
+---
+title: Finance (No. 2) Act 2023, section 234
+act: Finance (No. 2) Act 2023
+section: '234'
+status: revised
+text_date: '2026-07-15'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2023/30/section/234
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Finance (No. 2) Act 2023, section 234
+
+> Text as at 2026-07-15.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 234. Governmental, international and non-profit entities
+
+*Extent: E+W+S+N.I.*
+
+(1) An entity is a “governmental entity” if—
+
+- (a) it is wholly owned by a national, regional or local government,
+- (b) it has the principal purpose of—
+  - (i) carrying on a public function of that government, or
+  - (ii) managing or investing the assets of that government through investment activities (such as the making and holding of investments or asset management),
+- (c) it is accountable to that government on its overall performance and provides annual information reporting to that government,
+- (d) it does not carry on a trade or business, other than an investment business described in paragraph (b)(ii),
+- (e) its assets vest in that government on its dissolution, and
+- (f) it does not make distributions of its profits to, or for the benefit of, any person other than that government.
+
+(2) “**International organisation**” means an intergovernmental or supranational organisation, or an entity that acts for, is part of, or is wholly owned by such an organisation, provided—
+
+- (a) the organisation is comprised primarily of governments,
+- (b) the organisation has a headquarters, or privileges or immunities in respect of its establishments, in the territory in which it is established, and
+- (c) its governing documents, or the law of that territory, preclude the distribution of its profits for the benefit of private persons.
+
+(3) An entity is a “non-profit organisation” if—
+
+- (a) it is established and operated in the territory it is located in—
+  - (i) exclusively for religious, charitable, scientific, artistic, cultural, athletic, education, or other similar purposes, or
+  - (ii) as a professional organisation, business league, chamber of commerce, labour organisation, agricultural or horticultural organisation, civic league or an organisation operated exclusively for the promotion of social welfare, and
+- (b) it meets all of the conditions mentioned in subsection (4).
+
+(4) Those conditions are that—
+
+- (a) substantially all of the income from the activities it carries out for the purposes it was established is exempt from income tax in the territory where it is located,
+- (b) it has no shareholders or members who have any interest in its income or assets,
+- (c) the income or assets of the entity may not be distributed to, or applied for the benefit of, a private person or non-charitable entity other than—
+  - (i) pursuant to the conduct of the entity in carrying out activities for the purposes for which it was established,
+  - (ii) as payment of reasonable compensation for services rendered or for the use of property or capital, or
+  - (iii) as payment representing the fair market value of property which the entity has purchased,
+- (d) upon termination, liquidation or dissolution of the entity, all of its assets must be distributed or revert to a non-profit organisation or to a governmental entity of the territory in which the entity is located, and
+- (e) the entity does not carry on a trade or business that is not directly related to the purposes for which it was established.

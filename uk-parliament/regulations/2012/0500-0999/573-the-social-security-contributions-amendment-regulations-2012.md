@@ -1,0 +1,98 @@
+---
+title: The Social Security (Contributions) (Amendment) Regulations 2012
+id: uksi/2012/573
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2012-02-28'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2012/573
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2012/573/pdfs/uksiem_20120573_en.pdf
+- http://www.legislation.gov.uk/uksi/2012/573/pdfs/uksi_20120573_en.pdf
+- http://www.legislation.gov.uk/uksi/2012/573/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Social Security (Contributions) (Amendment) Regulations 2012
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2012 No. 573
+
+Social Security
+
+The Social Security (Contributions) (Amendment) Regulations 2012
+
+Made
+
+28th February 2012
+
+Laid before Parliament
+
+29th February 2012
+
+Coming into force
+
+26th March 2012
+
+The Treasury make the following Regulations in exercise of the powers conferred by sections 19(1) and (5A) and 175(3) of the Social Security Contributions and Benefits Act 1992[^f00001] and sections 19(1) and (5A) and 171(3) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00002] and now exercisable by them.
+
+## 1. Citation, commencement and effect
+
+(1) These Regulations may be cited as the Social Security (Contributions) (Amendment) Regulations 2012 and come into force on 26th March 2012.
+
+(2) The amendments made by regulation 2 shall have effect in relation to contributions paid in respect of the tax year 2011-12 and subsequent tax years.
+
+## 2. Amendment of the Social Security (Contributions) Regulations 2001
+
+(1) The Social Security (Contributions) Regulations 2001[^f00003] are amended as follows.
+
+(2) In regulation 21 (annual maxima for those with more than one employment)—
+
+- (a) in paragraph (2)—
+  - (i) in Step Two for “11 per cent” substitute “12 per cent”;
+  - (ii) in Step Five for “1 per cent” substitute “2 per cent”;
+  - (iii) in Step Seven for “1 per cent” substitute “2 per cent”; and
+- (b) in paragraph (3) for “11 per cent” substitute “12 per cent”.
+
+(3) In regulation 100 (annual maxima of Class 4 contributions due under section 15 of the Social Security Contributions and Benefits Act)—
+
+- (a) in paragraph (3)—
+  - (i) in Step Two for “8 per cent” substitute “9 per cent”;
+  - (ii) in Step Five for “[formula: see source](https://www.legislation.gov.uk/uksi/2012/573)” substitute “[formula: see source](https://www.legislation.gov.uk/uksi/2012/573)”;
+  - (iii) in Step Eight for “1 per cent” substitute “2 per cent”;
+  - (iv) in Step Nine for “1 per cent” substitute “2 per cent”; and
+- (b) in paragraph (4) for “11 per cent” substitute “12 per cent”.
+
+Michael Fabricant
+
+Angela Watkinson
+
+Two of the Lords Commissioners of Her Majesty’s Treasury
+
+28th February 2012
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations amend the Social Security (Contributions) Regulations 2001 (“the principal Regulations”) to reflect various recent changes to the rates in respect of National Insurance contributions (“NICs”).
+
+Regulations 21 and 100 of the principal Regulations provide, in the case of those with more than one employment, for the computation of annual maxima for Class 1 and Class 4 NICs respectively.
+
+Regulation 2 ensures that the calculations of the annual maxima to be made after the 2011-12 tax year has ended, and after the end of subsequent tax years, in respect of contributions paid for the relevant tax year takes account of changes to the rates of NICs made by the National Insurance Contributions Act [2011 (c.3)](https://www.legislation.gov.uk/ukpga/2011/3). That Act included provision to increase from 6th April 2011 the main rates of primary Class 1 and Class 4 NICs from 11% to 12% and from 8% to 9% respectively and the additional rates of primary Class 1 and Class 4 NICs from 1% to 2%.
+
+A Tax Information and Impact Note covering this instrument has been published and is available on the HMRC website at http://www.hmrc.gov.uk/the library/tiins.htm.
+
+## Annotations
+
+[^f00001]: Footnote: [1992 c.4](https://www.legislation.gov.uk/ukpga/1992/4). Section 19(1) was amended by paragraph 5(2) of Schedule 1 to the National Insurance Contributions Act [2002 (c. 19)](https://www.legislation.gov.uk/ukpga/2002/19) (the “Contributions Act”), and subsection (5A) was inserted by paragraph 19(2) of Schedule 3 to the Social Security Contributions (Transfer of Functions, etc.) Act [1999 (c. 2)](https://www.legislation.gov.uk/ukpga/1999/2).
+
+[^f00002]: Footnote: [1992 c.7](https://www.legislation.gov.uk/ukpga/1992/7). Section 19(1) was amended by paragraph 24(2) of Schedule 1 to the Contributions Act and subsection (5A) was inserted by paragraph 19(2) of Schedule 3 to the Social Security Contributions (Transfer of Functions, etc.) (Northern Ireland) Order 1999 ([S.I. 1999/671](https://www.legislation.gov.uk/uksi/1999/671)).
+
+[^f00003]: Footnote: [S.I. 2001/1004](https://www.legislation.gov.uk/uksi/2001/1004), amended by [S.I. 2003/193](https://www.legislation.gov.uk/uksi/2003/193); there are other amending instruments but none is relevant.

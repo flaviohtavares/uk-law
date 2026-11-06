@@ -1,0 +1,132 @@
+---
+title: The Diseases of Animals (Fees for the Testing of Disinfectants) (England) Order 2005
+id: uksi/2005/379
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised-with-pending-changes
+made_date: '2005-02-22'
+text_date: '2005-02-22'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2005/379
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2005/379/pdfs/uksiem_20050379_en.pdf
+- http://www.legislation.gov.uk/uksi/2005/379/pdfs/uksi_20050379_en.pdf
+- http://www.legislation.gov.uk/uksi/2005/379/data.pdf
+pending_changes: 5
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Diseases of Animals (Fees for the Testing of Disinfectants) (England) Order 2005
+
+> **Warning: changes not yet applied to this text (5).** Text as at 2005-02-22. See https://www.legislation.gov.uk/changes/affected/uksi/2005/379
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+**Not yet in force.**
+
+2005 No. 379
+
+ANIMALS, ENGLAND
+
+ANIMAL HEALTH
+
+The Diseases of Animals (Fees for the Testing of Disinfectants) (England) Order 2005
+
+Made
+
+22nd February 2005
+
+Laid before the House of Commons
+
+24th February 2005
+
+Coming into force
+
+1st April 2005
+
+The Secretary of State, in exercise of the powers conferred upon her by section 84(1) of the Animal Health Act 1981[^f00001], and with the approval of the Treasury, makes the following Order:
+
+## 1. Title, commencement and application[^key-0275b6318f23eeeb1f12758a56b23654]
+
+This Order may be cited as the Diseases of Animals (Fees for the Testing of Disinfectants) (England) Order 2005, comes into force on 1st April 2005 and applies to England only.
+
+## 2. Fees for the testing of disinfectants[^key-3f880fa51c3071aa5fe7d5c275841832]
+
+A person who submits a disinfectant for testing under article 7 of the Diseases of Animals (Approved Disinfectants) Order 1978[^f00002] shall, when he submits the disinfectant for testing, pay to the Secretary of State the fees set out in the Schedule to this Order.
+
+## 3. Revocation[^key-985f44dcadef48d0f12e5bd1929f6cf8]
+
+The Diseases of Animals (Fees for the Testing of Disinfectants) Order 1991[^f00003] is revoked insofar as it applies to England.
+
+Ben Bradshaw
+
+Parliamentary Under Secretary of State
+
+Department for Environment, Food and Rural Affairs
+
+10th February 2005
+
+We approve
+
+Jim Murphy
+
+Nick Ainger
+
+Two of the Lords Commissioners of Her Majesty’s Treasury
+
+22nd February 2005
+
+## SCHEDULE — FEES PAYABLE IN RESPECT OF DISINFECTANTS SUBMITTED FOR TESTING[^key-bf381650e974027036d49c774453615d]
+
+Article 2
+
+|  | ***New fee (£)*** | ***Old fee (£) payable under the Diseases of Animals (Fees for the Testing of Disinfectants) Order 1991*** |
+| --- | --- | --- |
+| **1. Fee for administrative services** | 134 | 134 |
+| **2. Fee for testing for use under special disease orders (as defined in section 3(1) of the Diseases of Animals (Approved Disinfectants) Order 1978 as read with section 2(2)(a) of that Order)** |  |  |
+| Foot and Mouth Disease Orders[^f00004] | 750 | 381 |
+| Swine Vesicular Disease Order[^f00005] | 750 | 381 |
+| Diseases of Poultry Order[^f00006] | 659<br>(if one dilution rate is specified by the person submitting the disinfectant for approval) | 385 |
+|  | 874.20<br>(if three dilution rates are specified by the person submitting the disinfectant for approval) | 508 |
+| Tuberculosis Orders[^f00007] | 1,110 | 247 |
+| **3. Fee for testing for use under general orders (as defined in section 3(3) of the Diseases of Animals (Approved Disinfectants) Order 1978)** | 606 | 247 |
+
+(This note is not part of the Order)
+
+This Order, which applies to England only, revokes and replaces the Diseases of Animals (Fees for the Testing of Disinfectants) Order 1991 (“the 1991 Fees Order”) ([S.I. 1991/1168](https://www.legislation.gov.uk/uksi/1991/1168)). The Order:
+
+- (i) retains the previous fee for the administrative cost of dealing with applications for approvals under article 7 of the Diseases of Animals (Approved Disinfectants) Order 1978 ([S.I. 1978/32](https://www.legislation.gov.uk/uksi/1978/32));
+- (ii) removes the requirement for the payment of a fee for the testing of a disinfectant’s identity, corrosive effect and stability; and
+- (iii) increases the fees payable for the testing of disinfectants submitted for approval.
+
+The fees payable under the 1991 Fees Order are set out in the second column of the new Fees table.
+
+A full regulatory impact assessment of the effect that this instrument will have on the costs of business is available from the Information Resource Centre, Department for Environment, Food and Rural Affairs, Lower Ground Floor, Ergon House, 17 Smith Square, London, SW1P 3JR.
+
+## Annotations
+
+[^f00001]: Footnote: [1981 c. 22](https://www.legislation.gov.uk/ukpga/1981/22); see section 86(1) for definitions of “the Minister” and “the Ministers”. Functions of “the Ministers”, so far as exercisable in relation to England, were transferred to the Minister of Agriculture, Fisheries and Food by the Transfer of Functions (Agriculture and Food) Order 1999 ([S.I. 1999/3141](https://www.legislation.gov.uk/uksi/1999/3141)) and to the Secretary of State by the Ministry of Agriculture, Fisheries and Food (Dissolution) Order 2002 ([S.I. 2002/794](https://www.legislation.gov.uk/uksi/2002/794)).
+
+[^key-0275b6318f23eeeb1f12758a56b23654]: Commencement: Art. 1 in force at 1.4.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/379/article/1)
+
+[^key-3f880fa51c3071aa5fe7d5c275841832]: Commencement: Art. 2 in force at 1.4.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/379/article/1)
+
+[^f00002]: Footnote: [S.I. 1978/32](https://www.legislation.gov.uk/uksi/1978/32), as amended by [S.I. 1994/3141](https://www.legislation.gov.uk/uksi/1994/3141).
+
+[^key-985f44dcadef48d0f12e5bd1929f6cf8]: Commencement: Art. 3 in force at 1.4.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/379/article/1)
+
+[^f00003]: Footnote: [S.I. 1991/1168](https://www.legislation.gov.uk/uksi/1991/1168), as amended by [S.I. 1994/3141](https://www.legislation.gov.uk/uksi/1994/3141).
+
+[^key-bf381650e974027036d49c774453615d]: Commencement: Sch. in force at 1.4.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/379/article/1)
+
+[^f00004]: Footnote: [S.I. 1928/133](https://www.legislation.gov.uk/uksi/1928/133) and [S.I. 1938/1434](https://www.legislation.gov.uk/uksi/1938/1434), referred to in article 2(1) of [S.I. 1978/32](https://www.legislation.gov.uk/uksi/1978/32), were revoked and replaced by the Foot-and-Mouth Disease Order 1983 ([S.I. 1983/1950](https://www.legislation.gov.uk/uksi/1983/1950)).
+
+[^f00005]: Footnote: [S.I. 1972//1980](https://www.legislation.gov.uk/uksi/1972/1980).
+
+[^f00006]: Footnote: [S.I. 1994/3141](https://www.legislation.gov.uk/uksi/1994/3141), referred to in article 2(1) of [S.I. 1978/32](https://www.legislation.gov.uk/uksi/1978/32), was revoked and replaced, in relation to England, by the Diseases of Poultry (England) Order 2003 ([S.I. 2003/1078](https://www.legislation.gov.uk/uksi/2003/1078)).
+
+[^f00007]: Footnote: [S.I. 1964/1151](https://www.legislation.gov.uk/uksi/1964/1151), referred to in article 2(1) of [S.I. 1978/32](https://www.legislation.gov.uk/uksi/1978/32), was revoked and replaced by the Tuberculosis (England and Wales) Order 1984 ([S.I. 1984/1943](https://www.legislation.gov.uk/uksi/1984/1943)).

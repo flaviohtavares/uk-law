@@ -1,0 +1,556 @@
+---
+title: The Ship Recycling (Facilities and Requirements for Hazardous Materials on Ships) (Amendment) (EU Exit) Regulations 2019
+id: uksi/2019/277
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2019-02-12'
+text_date: '2020-12-31'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2019/277
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2019/277/pdfs/uksiem_20190277_en.pdf
+- http://www.legislation.gov.uk/uksi/2019/277/pdfs/uksi_20190277_en.pdf
+- http://www.legislation.gov.uk/uksi/2019/277/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Ship Recycling (Facilities and Requirements for Hazardous Materials on Ships) (Amendment) (EU Exit) Regulations 2019
+
+> Text as at 2020-12-31.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2019 No. 277
+
+Exiting The European Union
+
+Merchant Shipping
+
+Environmental Protection
+
+Health And Safety
+
+Health And Safety, Northern Ireland
+
+The Ship Recycling (Facilities and Requirements for Hazardous Materials on Ships) (Amendment) (EU Exit) Regulations 2019
+
+Made
+
+12th February 2019
+
+Coming into force in accordance with regulation 1
+
+The Secretary of State makes these Regulations in exercise of the powers conferred by section 8(1) and (2) of, and paragraph 21 of Schedule 7 to, the European Union (Withdrawal) Act 2018 [^c23588791].
+
+In accordance with paragraph 1(1) of Schedule 7 to the European Union (Withdrawal) Act 2018, a draft of this instrument has been laid before Parliament and approved by a resolution of each House of Parliament.
+
+## 1. Citation and commencement[^key-58d3cb6301e2bb801adbce364cc2ad0a]
+
+These Regulations may be cited as the Ship Recycling (Facilities and Requirements for Hazardous Materials on Ships) (Amendment) (EU Exit) Regulations 2019 and come into force on exit day.
+
+## PART 1 — Amendment of subordinate legislation
+
+### 2. Amendment of the Waste Management Licensing Regulations (Northern Ireland) 2003[^key-946606e39c85f9bd32e23e294c063fd6]
+
+(1) The Waste Management Licensing Regulations (Northern Ireland) 2003 [^c23588801] are amended as follows.
+
+(2) In regulation 12(2), for “and 14” substitute “ to 15 ”.
+
+### 3. Amendment of the Ship Recycling Facilities Regulations 2015[^key-f477e312c689989a1fa7ba8407cfea35]
+
+(1) The Ship Recycling Facilities Regulations 2015 [^c23588811] are amended as follows.
+
+(2) In regulation 2 (interpretation), in paragraph (1)—
+
+- (a) omit the definition of “European List”, and
+- (b) at the end insert—
+
+  > “**United Kingdom List**” means the list of ship recycling facilities published by the Secretary of State under Article 16 of the EU Ship Recycling Regulation;
+  >
+  > “**United Kingdom Ship**” means a ship registered in the United Kingdom under Part 2 of the Merchant Shipping Act 1995.
+
+  .
+
+(3) In regulation 4 (authorisation of ship recycling facilities)—
+
+- (a) in paragraph (1), for “and 14” substitute “ to 15 ”; and
+- (b) in paragraph (2), for “and 14” substitute “ to 15 ”.
+
+(4) In regulation 5 (application of the 1974 Act), for “and 14” substitute “ to 15 ”.
+
+(5) In regulation 6 (health and safety fees), for “the European List”, at each place it occurs, substitute “ the United Kingdom List ”.
+
+(6) In regulation 7 (European List of facilities at which ships flying the flag of a member State may be recycled)—
+
+- (a) for the heading, substitute “ United Kingdom List of facilities at which United Kingdom ships may be recycled ”;
+- (b) in paragraph (1), in both places where they occur, for the words “European List”, substitute “ United Kingdom List ”;
+- (c) omit paragraph (2);
+- (d) for paragraph (3), substitute—
+
+  > (3) After IP completion day[^key-110f55b49ca9a4e7cebfec1b584ce422], existing facilities must not accept any United Kingdom ship within the scope of the EU Ship Recycling Regulation for ship recycling unless the facility is included on the United Kingdom List.
+
+  .
+
+(7) In the Schedule, for “the European List”, at each place it occurs, substitute “ the United Kingdom List ”.
+
+### 4. Amendment of the Ship Recycling Facilities Regulations (Northern Ireland) 2015[^key-9b50f0b06a670a5d09357d1427e8b172]
+
+(1) The Ship Recycling Facilities Regulations (Northern Ireland) 2015 [^c23588821] are amended as follows.
+
+(2) In regulation 2 (interpretation), in paragraph 1—
+
+- (a)[^key-ddf1f2b59d00efbbdc1ea17c3388ffe7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) at the end insert—
+
+  > “**United Kingdom List**” means the list of ship recycling facilities published by the Secretary of State under Article 16 of the EU Ship Recycling Regulation;
+  >
+  > “**United Kingdom ship**” means a ship registered in the United Kingdom under Part 2 of the Merchant Shipping Act 1995.
+
+  .
+
+(3) In regulation 4 (authorisation of ship recycling facilities)—
+
+- (a) in paragraph (1), for “and 14” substitute “ to 15 ”; and
+- (b) in paragraph (2), for “and 14” substitute “ to 15 ”.
+
+(4) In regulation 5 (application of the 1978 Order), for “and 14” substitute “ to 15 ”.
+
+(5)[^key-3fb4f93cc564676c412dcdeb0c0d329f] For regulation 6 (European List of facilities at which ships flying the flag of a Member State may be recycled) substitute—
+
+> **6. Facilities at which ships may be recycled**
+>
+> (1) A ship recycling facility in Northern Ireland must not accept any ship flying the flag of a Member State within the scope of the EU Ship Recycling Regulation for ship recycling unless the ship recycling facility is included on the European List.
+>
+> (2) A ship recycling facility in Northern Ireland must not accept any United Kingdom ship within the scope of the EU Ship Recycling Regulation for ship recycling unless the ship recycling facility is included on the United Kingdom List.
+>
+> (3) A failure to comply with paragraph (1) or (2) has the same effect as failure to comply with a condition of a permit.
+>
+> **6A. Obligations of the competent authority and the Secretary of State**
+>
+> (1) In respect of a ship recycling facility in Northern Ireland, the competent authority must inform the Secretary of State without delay of—
+>
+> - (a) the permitting of a ship recycling facility for inclusion on the European List;
+> - (b) the suspension or withdrawal of a permit of a ship recycling facility that is included on the European List.
+>
+> (2) The Secretary of State must carry out the functions of the Member State referred to in Article 14(2) of the EU Ship Recycling Regulation, and must inform the European Commission in accordance with Article 14(3) and 14(4) of that Regulation.
+
+.
+
+### 5. Amendment of the Ship Recycling (Requirements in relation to Hazardous Materials on Ships) (Amendment etc.) Regulations 2018[^key-8a13fcaf4d688ac3ea1f3b678818da7c]
+
+(1) The Ship Recycling (Requirements in relation to Hazardous Materials on Ships) (Amendment etc.) Regulations 2018 [^c23588831] are amended as follows.
+
+(2) In regulation 2(3) (interpretation)—
+
+- (a) before “Annex I” insert “ the EU Ship Recycling Regulation or ”;
+- (b) between “that” and “Annex” insert “ Regulation or ”.
+
+(3) In regulation 9 (offences for contravention of EU Ship Recycling Regulation in respect of Member State ships)—
+
+- (a) in the heading, for “Member State”, substitute “ United Kingdom ”;
+- (b) for sub-paragraph 1(b) substitute—
+
+  > - (b) which is a United Kingdom ship
+  >
+  > wherever the ship maybe.
+
+  ;
+- (c) omit paragraph 2;
+- (d) omit paragraph 3
+- (e) omit paragraph 5.
+
+(4) In the heading of regulation 10 (offences for contravention of EU Ship Recycling Regulation in respect of third country ships), for “third country ships” substitute “ ships other than United Kingdom ships ”.
+
+## PART 2 — Amendment of direct EU legislation
+
+### 6. Amendment of Regulation (EU) 1257/2013[^key-b0dbd3e9393b800da44f0c6f34cb92c9]
+
+(1) Regulation (EU) No 1257/2013 of the European Parliament and of the Council of 20 November 2013 on ship recycling and amending Regulation [(EC) No 1013/2006](https://www.legislation.gov.uk/eur/2006/1013) and Directive [2009/16/EC](https://www.legislation.gov.uk/eudr/2009/16) is amended as follows.
+
+(2) In Article 2 (scope)—
+
+- (a) in paragraph 1, for “ships flying the flag of a Member State” substitute “ United Kingdom ships ”;
+- (b) for the first subparagraph of paragraph 1, substitute—
+
+  > Article 12 shall [^key-3b49183ea6ff4785ecd15af1d00d107e]... apply to ships, other than United Kingdom ships, calling at a port or anchorage in the United Kingdom.
+
+  ;
+- (c) for paragraph 2(c), substitute—
+
+  > - (c) United Kingdom flagged[^key-a3a5594a54a7d8fb5b2538d7365ac0c3] ships operating throughout their life in United Kingdom waters only.
+
+  .
+
+(3) In Article 3 (definitions)—
+
+- (a) in paragraph 1—
+  - (i) in point (7), omit “located in a Member State or in a third country and”;
+  - (ii) in point (9), for “Member State”, substitute “ state ”,
+  - (iii) in point (11), for “Member State or a third country”, substitute “ state ”;
+  - (iv) in point (21), omit “to ships flying the flag of a Member State”;
+  - (v) in point (22), omit “to ships flying the flag of a Member State”;
+  - (vi) for point (23), substitute—
+
+    > (23) ‘statement of compliance’ means, subject to Article 12(7A), a ship-specific certificate supplemented by an inventory of hazardous materials in accordance with Article 12;
+
+    ;
+  - (vii) in point (24), at the end insert—
+
+    > (25) ‘United Kingdom ship’ means a ship registered in the United Kingdom under Part 2 of the Merchant Shipping Act 1995 [^c23588841];
+    >
+    > (26) ‘the EU Regulation as it has effect in EU law’ means Regulation (EU) No 1257/2013 of the European Parliament and the Council of 20 November 2013 on ship recycling and amending Regulation [(EC) No 1013/2006](https://www.legislation.gov.uk/eur/2006/1013) and Directive [2009/16/EC](https://www.legislation.gov.uk/eudr/2009/16) [^c23588851] as it has effect in EU law;
+    >
+    > (27) ‘European List’ means the list of ship recycling facilities established and amended from time to time by the European Commission under Article 16 of the EU Regulation as it has effect in EU law;
+    >
+    > (28) ‘United Kingdom List’ means the list of ship recycling facilities established by the Secretary of State under Article 16;
+    >
+    > (29) ‘direct EU legislation’ has the meaning given in section 3(2) of the European Union (Withdrawal) Act 2018 [^c23588861];
+    >
+    > (30) ‘Hong Kong Convention’ means the Hong Kong International Convention for the Safe and Environmentally Sound Recycling of Ships 2009.
+
+    .
+- (b) in subparagraph (2)(a), omit “ ‘hazardous waste’,”;
+- (c) after subparagraph (2)(a), insert—
+
+  > - (aa) ‘hazardous waste’ has the same meaning as in Article 3 of Directive [2008/98/EC](https://www.legislation.gov.uk/eudr/2008/98), save that that Directive is to be read as if, in Annex III of that Directive—
+  >   - (i) in the HP9 ‘Infectious’ Section, in the second sentence, for “in the Member States” substitute “ in the United Kingdom ”;
+  >   - (ii) in the HP15 ‘Waste capable of exhibiting a hazardous property listed above not directly displayed by the original waste’ Section—
+  >     - (aa) the reference to “Member States” were a reference to the Secretary of State;
+  >     - (ab) the reference to Annex VI to Council Directive [67/548/EEC](https://www.legislation.gov.uk/eudr/1967/548) were a reference to Annex I of Regulation [(EC) No 1272/2008](https://www.legislation.gov.uk/eur/2008/1272) of the European Parliament and of the Council on classification, labelling and packaging of substances and mixtures;
+
+  .
+
+(4) In Article 4 (control of hazardous materials), for “Union law”, substitute “ direct EU legislation ”.
+
+(5) In Article 5 (inventory of hazardous materials)—
+
+- (a) in the second subparagraph of paragraph 2—
+  - (i) after “in the case of” insert “ existing ”; and
+  - (ii) omit “from the date of” until the end of the subparagraph;
+- (b) in paragraph 8, for “The Commission shall be empowered to adopt delegated acts in accordance with Article 24 concerning the” substitute “ The Secretary of State may make regulations ”;
+- (c) omit the second subparagraph of Article 5(8).
+
+(6) In Article 6 (general requirements for ship owners)—
+
+- (a) in paragraph 2(a), for “the European List” substitute “ the United Kingdom List ”;
+- (b) in paragraph 5, omit “of the Member State whose flag the ship is flying”.
+
+(7) In Article 7(4) (ship recycling plan), for “Member States may require their”, substitute “ The Secretary of State may require the ”.
+
+(8) In Article 8 (surveys)—
+
+- (a) omit the second indented point following paragraph 2 and the word “and” that precedes it[^key-e0d587da61dead24764535050bf9bc79];
+- (b) in paragraph 7, in point (c) of the second subparagraph, before “the European List” insert “ the United Kingdom List or ”.
+
+(9) In Article 9 (issuance and endorsement of certificates)—
+
+- (a) for the third subparagraph of paragraph 1, substitute—
+
+  > The Secretary of State may make regulations prescribing the format of the inventory certificate to ensure it is consistent with Appendix 3 to the Hong Kong Convention.
+
+  ;
+- (b) for the second subparagraph of paragraph 9, substitute—
+
+  > **10.**
+  >
+  > A ready for recycling certificate issued by a Member State after a final survey in accordance with Article 9(9) of the EU Regulation as it has effect in EU law must be accepted by the Secretary of State or a recognised organisation authorised by the Secretary of State and regarded for the purposes of this Regulation as having the same validity as a ready for recycling certificate issued by the Secretary of State or a recognised organisation authorised by the Secretary of State.
+  >
+  > **11.**
+  >
+  > The Secretary of State may make regulations prescribing the format of the ready for recycling certificate to ensure it is consistent with Appendix 4 to the Hong Kong Convention.
+
+  .
+
+(10) Omit Article 11 (Port State control).
+
+(11) In Article 12 (requirements for ships flying the flag of a third country)—
+
+- (a) in the heading, for “flying the flag of a third country” substitute “ other than United Kingdom ships ”;
+- (aa)[^key-82c93b6e39243045875d59a3d1c5a2c1] in the first sub-paragraph of paragraph 1—
+  - (i) omit “of a Member State”;
+  - (ii) for “flying the flag of a third country” substitute “other than a United Kingdom ship”;
+- (ab) in the second sub-paragraph of paragraph 1 omit—
+  - (i) “of a Member State”;
+  - (ii) “of that Member State”;
+- (b) in paragraph 2—
+  - (i) for “flying the flag of a third country”, substitute “ other than United Kingdom ships ” in both places where those words occur;
+  - (ii) for “of a Member State”, in both places substitute “ in the United Kingdom ”;
+- (c) in paragraph 3—
+  - (i) for “The”, substitute “ In respect of ships other than United Kingdom ships, the ”;
+  - (ii) omit “flying the flag of a third country”;
+- (d) in paragraph 5—
+  - (i) for “flying the flag of a third country”, substitute “ other than United Kingdom ships ”;
+  - (ii) for “the ports or offshore terminals under the jurisdiction of a Member State”, substitute “ United Kingdom ports or offshore terminals ”;
+  - (iii) omit “of that Member State”;
+  - (iv) for the second sentence, substitute “ Where a United Kingdom relevant authority takes such action, the Secretary of State must immediately inform the relevant authorities of the country whose flag the ship concerned is flying. ”;
+  - (v) in the last sentence, omit “third”;
+- (e) in paragraph 6, in the first sentence, omit “third”;
+- (f) in paragraph 7, omit “third”;
+- (g) after paragraph 7, insert—
+
+  > **7A.**
+  >
+  > In the case of ships flying the flag of an EU Member State, an inventory certificate granted under Article 9 of the EU Regulation as it has effect in EU law by that Member State will be treated as satisfying the requirements of paragraphs 6 and 7.
+
+  .
+- (h)[^key-8fdae55708703af7462b1f59effe2b9b] in paragraph 8—
+  - (i) for “ships flying the flag of a third country applying to be registered under the flag of a Member State” substitute “a non-United Kingdom flagged ship applying to be registered under the flag of the United Kingdom”;
+  - (ii) omit “under the flag of that Member State”;
+
+(12) In Article 13 (requirements necessary for ship recycling facilities to be included in the European List)—
+
+- (a) in the heading, for “European” substitute “ United Kingdom ”;
+- (b) in paragraph 1, for “European”, substitute “ United Kingdom ”;
+- (c) for paragraph 3, substitute—
+
+  > The Secretary of State may make regulations prescribing the format of—
+  >
+  > - (a) the report required by point (b) of paragraph 2 of this Article to ensure it is consistent with Appendix 6 to the Hong Kong Convention; and
+  > - (b) the statement required by point (c) of paragraph 2 of this Article to ensure it is consistent with Appendix 7 to the Hong Kong Convention.
+
+  .
+
+(13) In Article 14 (authorisation of ship recycling facilities located in a Member State)—
+
+- (a) in the heading, for “a Member State”, substitute “ the United Kingdom ”;
+- (b) in the first subparagraph of paragraph 1—
+  - (i)[^key-f382b2cb31aff9db286ece4be8611631] for “Union law provisions” substitute “direct EU legislation provisions or provisions of this Regulation in relation to ship recycling facilities in Northern Ireland”;
+  - (ii) omit “located on their territory”;
+- (c) in the second subparagraph of paragraph 1, for “national or Union law provisions”, substitute “ legislation, including direct EU legislation, ”;
+- (d) omit paragraphs 2 and 3;
+- (e) in paragraph 4—
+  - (i) for “Member State where that ship recycling facility is located” substitute “ competent authorities ”;
+  - (ii) omit “and shall inform the Commission thereof without delay”;
+- (f)[^key-d45b54465b12bc9802eb06921c29bb9c] for paragraph 5 substitute—
+
+  > **5.** Where a ship recycling facility in Northern Ireland—
+  >
+  > - (a) has been authorised in accordance with paragraph 1; or
+  > - (b) ceases to comply with the requirements set out in Article 13,
+  >
+  > the Secretary of State shall inform the Commission thereof without delay.
+
+  .
+
+(14) In Article 15 (ship recycling facilities located in a third country)—
+
+- (a) in the heading, for “in a third country”, substitute “ outside the United Kingdom ”;
+- (b) in paragraph 1—
+  - (i) for “in a third country”, substitute “ outside the United Kingdom ”;
+  - (ii) for “ships flying the flag of a Member State”, substitute “ United Kingdom ships ”;
+  - (iii) for “Commission”, substitute “ Secretary of State ”;
+  - (iv) for “European”, substitute “ United Kingdom ”;
+- (c) in paragraph 2—
+  - (i) in the opening words, for “European”, substitute “ United Kingdom ”;
+  - (ii) in point (c), for “a ship flying the flag of a Member State”, substitute “ a United Kingdom ship ”;
+- (d) for paragraph 3, substitute—
+
+  > **3.**
+  >
+  > The Secretary of State may make regulations specifying the format of the information required to identify the ship recycling facility.
+
+  ;
+- (e) in paragraph 4—
+  - (i) for “European List”, each time it occurs, substitute “ United Kingdom List ”;
+  - (ii) for “in third countries”, substitute “ outside the United Kingdom ”;
+  - (iii) for “Commission”, substitute “ Secretary of State ”;
+- (f) in the second subparagraph of paragraph 4—
+  - (i) for “European List”, in both places, substitute “ United Kingdom List ”;
+  - (ii) in the first sentence, for “the Commission or agents acting on its behalf” substitute “ the Secretary of State, a competent authority or an independent verifier ”;
+  - (iii) in the second sentence, for “the Commission or agents acting on its behalf” substitute “ the Secretary of State or competent authority ”;
+  - (iv) omit the word “third”;
+- (g) omit the third subparagraph of paragraph 4;
+- (h) in paragraph 5, for “relevant international and Union standards”, substitute “ relevant standards set down in international law and direct EU legislation ”;
+- (i) in paragraph 6—
+  - (i) for “Commission”, substitute “ Secretary of State ”;
+  - (ii) for “European” substitute “ United Kingdom ”.
+
+(15) For Article 16 (establishment and updating of the European List), substitute—
+
+> **Article 16 — Establishment and updating of the United Kingdom List**
+>
+> **1.**
+>
+> The Secretary of State must publish and maintain a list of ship recycling facilities which—
+>
+> - (a) are located in the United Kingdom and have been authorised in accordance with Article 14(1);
+> - (b) are located outside the United Kingdom and whose inclusion is based on an assessment of the information and supporting evidence provided or gathered in accordance with Article 15.
+>
+> **2.**
+>
+> Subject to paragraph 3, the Secretary of State may include on the list of ship recycling facilities published under paragraph 1 ship recycling facilities located outside the United Kingdom which are included on the European List.
+>
+> A ship recycling facility which is included on the United Kingdom List by virtue of this paragraph must inform the Secretary of State immediately if it is removed from the European List.
+>
+> **3.**
+>
+> The Secretary of State must be satisfied that, at the time at which a ship recycling facility within paragraph 2 was approved for inclusion on the European List, the standards to which its inclusion was subject were no less than those applicable to facilities included on the United Kingdom List by virtue of paragraph 1.
+>
+> **4.**
+>
+> The Secretary of State may remove a ship recycling facility from the United Kingdom List where—
+>
+> - (a) it no longer complies with the requirements set out in Article 13;
+> - (b) it is no longer authorised in accordance with Article 14(1);
+> - (c) in the case of a ship recycling facility included on the United Kingdom list by virtue of paragraph 2, it is no longer included on the European List; or
+> - (d) the five year period set out in paragraph 6 of this Article expires and updated evidence supporting its inclusion under paragraph 1 or paragraph 2 has not been provided at least three months prior to its expiry.
+>
+> **5.**
+>
+> The United Kingdom List shall include all of the following information about the ship recycling facility—
+>
+> - (a) the method of recycling;
+> - (b) the type and size of ships that can be recycled;
+> - (c) any limitation and conditions under which the ship recycling facility operates, including as regards hazardous waste management;
+> - (d) details on the explicit or tacit procedure, as referred to in Article 7(3), for the approval of the ship recycling plan by the competent authority; and
+> - (e) the maximum annual ship recycling output.
+>
+> **6.**
+>
+> The United Kingdom List shall indicate the date of expiry of the inclusion of the ship recycling facility. An inclusion shall be valid for a maximum period of five years and shall be renewable.
+>
+> **7.**[^key-063e97623944d60b4c12161d57abc7fb] The Secretary of State shall communicate to the European Commission all information that may be relevant in respect of the updating of the European List in relation to those facilities in Northern Ireland.
+
+.
+
+(16) Omit Articles 17 to 30.
+
+(17) In Article 32 (application)—
+
+- (a)[^key-842dd345483891c51218b31a199c45a6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) omit paragraphs 3 and 4, and the unnumbered paragraph following paragraph 4.
+
+(18) After Article 32, insert—
+
+> **Article 33 — Regulations**
+>
+> **1.**
+>
+> Any power to make regulations under this Regulation is exercisable by statutory instrument.
+>
+> **2.**
+>
+> Regulations made under this Regulation may —
+>
+> - (a) make different provision for different purposes, cases or areas;
+> - (b) make consequential, incidental, supplementary, transitional or transitory or saving provisions.
+>
+> **3.**
+>
+> A statutory instrument containing regulations made under this Regulation is subject to annulment in pursuance of a resolution of either House of Parliament.
+
+.
+
+### 7. Amendment of Commission Implementing Decision (EU) 2015/2398[^key-0a5b31e552d6425bc1975a4e2f369480]
+
+(1) Commission Implementing Decision (EU) 2015/2398 of 17 December 2015 on information and documentation related to an application for a facility located in a third country for inclusion in the European List of ship recycling facilities is amended as follows.
+
+(2) In the title, for “European List”, substitute “ United Kingdom List ”.
+
+(3) In Article 1—
+
+- (a) for “in a third country”, substitute “outside the United Kingdom;
+- (b) for “European List”, substitute “ United Kingdom List ”.
+
+(4) In the Annex—
+
+- (a) in Part 5 (statement concerning the recycling of EU Member States flag ships)—
+  - (i) in the heading, for “EU Member States flag ships”, substitute “ United Kingdom ships ”;
+  - (ii) for “RECYCLING OF SHIPS FLYING THE FLAG OF A MEMBER STATE OF THE EUROPEAN UNION”, substitute “ RECYCLING OF UNITED KINGDOM SHIPS ”;
+  - (iii) for “ships flying the flag of EU Member States”, substitute “ United Kingdom ships ”;
+  - (iv) in the final sentence, for “flying the flag of a third country”, substitute “ other than United Kingdom ships ”;
+- (b) in Part 6 (statement concerning waste recovery and disposal operations), for “relevant international and European Union standards”, each time it occurs, substitute “ relevant standards set down in international law and direct EU legislation ”.
+
+### 8. Amendment of Commission Implementing Decision (EU) 2016/2321[^key-a72caca5c0887eb47349b1f35a5b1b77]
+
+(1) Commission Implementing Decision (EU) 2016/2321 of 19 December 2016 on the format of the ready for recycling certificate issued in accordance with Regulation (EU) No 1257/2013 of the European Parliament and of the Council on ship recycling is amended as follows.
+
+(2) In the Annex, at each place it occurs, for “European List” substitute “ United Kingdom List ”.
+
+### 9. Commission Implementing Decision (EU) 2016/2324[^key-5dc9bca2d309a2016c918d234c86a356]
+
+(1) Commission Implementing Decision (EU) 2016/2324 of 19 December 2016 on the format of the report of planned start of ship recycling required under Regulation (EU) No 1257/2013 of the European Parliament and of the Council on ship recycling [^c23588871] is amended as follows.
+
+(2) In the Annex, for “European List” substitute “ United Kingdom List ”.
+
+Signed by authority of the Secretary of State for Transport
+
+Nusrat Ghani
+
+Parliamentary Under Secretary of State
+
+Department for Transport
+
+*(This note is not part of the Regulations)*
+
+These Regulations are made in exercise of the powers conferred by section 8(1) of the European Union (Withdrawal) Act 2018 (c. 16) in order to address failures of retained EU law to operate effectively and other deficiencies (in particular under sections 8(2)(a), (d), (g)) arising from the withdrawal of the United Kingdom from the European Union. They also make further limited consequential provision, pursuant to paragraph 21(b) of Schedule 7 of the Act, in order to restate retained EU law in a clearer way.
+
+The amendments are made to legislation imposing requirements relating to ship recycling, and the authorisation of ship recycling facilities. Part 1 amends secondary legislation and Part 2 amends an EU Regulation (Regulation (EU) No 1257/2013 of the European Parliament and of the Council of 20 November 2013 on ship recycling and amending Regulation [(EC) No 1013/2006](https://www.legislation.gov.uk/european/regulation/2006/1013) and Directive [2009/16/EC](https://www.legislation.gov.uk/european/directive/2009/0016), ‘the EU Regulation’) and three EU Decisions. The secondary legislation amended by Part 1 implements the EU Regulation. Regulations 2 and 3 amend existing secondary legislation which sets out which UK bodies are responsible for the environmental permitting of UK-based ship recycling facilities, and puts in place provision for the enforcement of ship recycling requirements. The direct EU legislation amended by Part 2 imposes obligations relating to the safe and environmentally friendly recycling of ships on ship owners, ship recycling facilities and the Secretary of State.
+
+## Annotations
+
+[^c23588791]: Marginal citation: [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16).
+
+[^key-58d3cb6301e2bb801adbce364cc2ad0a]: Commencement: Reg. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^key-946606e39c85f9bd32e23e294c063fd6]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^c23588801]: Marginal citation: S.R. [2003 No. 493](https://www.legislation.gov.uk/ukcm/2003/493); relevant amending Regulations are S.R. [2006 No. 519](https://www.legislation.gov.uk/ukcm/2006/519), S.R. [2009 No. 159](https://www.legislation.gov.uk/ukcm/2009/159), S.R. [2011 No. 127](https://www.legislation.gov.uk/ukcm/2011/127), S.R. [2014 No. 253](https://www.legislation.gov.uk/ukcm/2014/253) and S.R. [2015 No. 229](https://www.legislation.gov.uk/ukcm/2015/229).
+
+[^key-f477e312c689989a1fa7ba8407cfea35]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^c23588811]: Marginal citation: [S.I. 2015/430](https://www.legislation.gov.uk/uksi/2015/430), amended by [S.I. 2016/1154](https://www.legislation.gov.uk/uksi/2016/1154).
+
+[^key-110f55b49ca9a4e7cebfec1b584ce422]: Textual amendment: Words in reg. 3(6)(d) substituted (31.12.2020 immediately before IP completion day) by [The Merchant Shipping (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1000)](https://www.legislation.gov.uk/uksi/2020/1000), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1000/regulation/1), [5](https://www.legislation.gov.uk/uksi/2020/1000/regulation/5)
+
+[^key-9b50f0b06a670a5d09357d1427e8b172]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^c23588821]: Marginal citation: S.R. [2015 No. 229](https://www.legislation.gov.uk/ukcm/2015/229), as amended by S.R. [2018 No. 171](https://www.legislation.gov.uk/ukcm/2018/171).
+
+[^key-ddf1f2b59d00efbbdc1ea17c3388ffe7]: Textual amendment: Reg. 4(2)(a) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Ship Recycling (Facilities and Requirements for Hazardous Materials on Ships) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1429)](https://www.legislation.gov.uk/uksi/2020/1429), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1429/regulation/1), [3(a)](https://www.legislation.gov.uk/uksi/2020/1429/regulation/3/a)
+
+[^key-3fb4f93cc564676c412dcdeb0c0d329f]: Textual amendment: Reg. 4(5) substituted (31.12.2020 immediately before IP completion day) by [The Ship Recycling (Facilities and Requirements for Hazardous Materials on Ships) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1429)](https://www.legislation.gov.uk/uksi/2020/1429), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1429/regulation/1), [3(b)](https://www.legislation.gov.uk/uksi/2020/1429/regulation/3/b)
+
+[^key-8a13fcaf4d688ac3ea1f3b678818da7c]: Commencement: Reg. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^c23588831]: Marginal citation: [S.I. 2018/1122](https://www.legislation.gov.uk/uksi/2018/1122).
+
+[^key-b0dbd3e9393b800da44f0c6f34cb92c9]: Commencement: Reg. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^key-3b49183ea6ff4785ecd15af1d00d107e]: Textual amendment: Word in reg. 6(2)(b) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Ship Recycling (Facilities and Requirements for Hazardous Materials on Ships) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1429)](https://www.legislation.gov.uk/uksi/2020/1429), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1429/regulation/1), [4(a)](https://www.legislation.gov.uk/uksi/2020/1429/regulation/4/a)
+
+[^key-a3a5594a54a7d8fb5b2538d7365ac0c3]: Textual amendment: Words in reg. 6(2)(c) inserted (31.12.2020 immediately before IP completion day) by [The Ship Recycling (Facilities and Requirements for Hazardous Materials on Ships) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1429)](https://www.legislation.gov.uk/uksi/2020/1429), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1429/regulation/1), [4(b)](https://www.legislation.gov.uk/uksi/2020/1429/regulation/4/b)
+
+[^c23588841]: Marginal citation: [1995 c. 21](https://www.legislation.gov.uk/ukpga/1995/21).
+
+[^c23588851]: Marginal citation: O.J. No L 330, 10.12.2013, p. 1.
+
+[^c23588861]: Marginal citation: [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16)..
+
+[^key-e0d587da61dead24764535050bf9bc79]: Textual amendment: Words in reg. 6(8)(a) inserted (31.12.2020 immediately before IP completion day) by [The Ship Recycling (Facilities and Requirements for Hazardous Materials on Ships) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1429)](https://www.legislation.gov.uk/uksi/2020/1429), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1429/regulation/1), [4(c)](https://www.legislation.gov.uk/uksi/2020/1429/regulation/4/c)
+
+[^key-82c93b6e39243045875d59a3d1c5a2c1]: Textual amendment: Reg. 6(11)(aa)(ab) inserted (31.12.2020 immediately before IP completion day) by [The Ship Recycling (Facilities and Requirements for Hazardous Materials on Ships) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1429)](https://www.legislation.gov.uk/uksi/2020/1429), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1429/regulation/1), [4(d)](https://www.legislation.gov.uk/uksi/2020/1429/regulation/4/d)
+
+[^key-8fdae55708703af7462b1f59effe2b9b]: Textual amendment: Reg. 6(11)(h) inserted (31.12.2020 immediately before IP completion day) by [The Ship Recycling (Facilities and Requirements for Hazardous Materials on Ships) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1429)](https://www.legislation.gov.uk/uksi/2020/1429), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1429/regulation/1), [4(e)](https://www.legislation.gov.uk/uksi/2020/1429/regulation/4/e)
+
+[^key-f382b2cb31aff9db286ece4be8611631]: Textual amendment: Reg. 6(13)(b)(i) substituted (31.12.2020 immediately before IP completion day) by [The Ship Recycling (Facilities and Requirements for Hazardous Materials on Ships) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1429)](https://www.legislation.gov.uk/uksi/2020/1429), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1429/regulation/1), [4(f)(i)](https://www.legislation.gov.uk/uksi/2020/1429/regulation/4/f/i)
+
+[^key-d45b54465b12bc9802eb06921c29bb9c]: Textual amendment: Reg. 6(13)(f) substituted (31.12.2020 immediately before IP completion day) by [The Ship Recycling (Facilities and Requirements for Hazardous Materials on Ships) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1429)](https://www.legislation.gov.uk/uksi/2020/1429), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1429/regulation/1), [4(f)(ii)](https://www.legislation.gov.uk/uksi/2020/1429/regulation/4/f/ii)
+
+[^key-063e97623944d60b4c12161d57abc7fb]: Textual amendment: Words in reg. 6(15) inserted (31.12.2020 immediately before IP completion day) by [The Ship Recycling (Facilities and Requirements for Hazardous Materials on Ships) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1429)](https://www.legislation.gov.uk/uksi/2020/1429), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1429/regulation/1), [4(g)](https://www.legislation.gov.uk/uksi/2020/1429/regulation/4/g)
+
+[^key-842dd345483891c51218b31a199c45a6]: Textual amendment: Reg. 6(17)(a) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Ship Recycling (Facilities and Requirements for Hazardous Materials on Ships) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1429)](https://www.legislation.gov.uk/uksi/2020/1429), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1429/regulation/1), [4(h)](https://www.legislation.gov.uk/uksi/2020/1429/regulation/4/h)
+
+[^key-0a5b31e552d6425bc1975a4e2f369480]: Commencement: Reg. 7 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^key-a72caca5c0887eb47349b1f35a5b1b77]: Commencement: Reg. 8 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^key-5dc9bca2d309a2016c918d234c86a356]: Commencement: Reg. 9 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^c23588871]: Marginal citation: OJ No L 345, 20.12.16, p. 129.

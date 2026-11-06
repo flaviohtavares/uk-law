@@ -1,0 +1,78 @@
+---
+title: Banking Act 2009, section 84A
+act: Banking Act 2009
+section: 84A
+status: revised-with-pending-changes
+text_date: '2026-01-19'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2009/1/section/84A
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Banking Act 2009, section 84A
+
+> **Warning: changes not yet applied to this text (7).** Text as at 2026-01-19. See https://www.legislation.gov.uk/changes/affected/ukpga/2009/1
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 84A. Bail-in option: building societies[^key-a0d7a44be39d941c786e623e31308c6c]
+
+*Extent: E+W+S+N.I.*
+
+(1) This section applies for the purpose of the exercise of the fourth stabilisation option (bail-in) in relation to a building society.
+
+(2) Subsection (2A) of section 12A (bail-in option) is to be read as if the provision referred to included provision under this section.
+
+(3) Subsection (1) of section 12AA (bail-in: sequence of write-down and conversion of capital instruments and liabilities) is to be read as if the powers referred to included the powers conferred by this section, sections 84B and 84C and the provisions modified by section 84D.
+
+(4) A resolution instrument with respect to a building society may make—
+
+- (a) provision of the kind mentioned in subsection (5);
+- (b) other provision for the purposes of, or in connection with, provision of the kind mentioned in subsection (5) made by that or another instrument.
+
+(5) A resolution instrument may—
+
+- (a) convert the building society into a company, or
+- (b) transfer all the property, rights and liabilities of the building society to a company.
+
+(6) In the following provisions of this section, “the successor company”, in relation to a building society, means the company into which the building society is converted, or to which the property, rights and liabilities of the building society are transferred, as a result of provision made under subsection (5).
+
+(7) The provision that may be made under subsection (4)(b) includes—
+
+- (a) provision cancelling shares in the building society;
+- (b) provision cancelling membership rights in the building society;
+- (c) provision converting shares in the building society into deposits with the successor company;
+- (d) provision conferring rights and imposing liabilities in place of cancelled shares and membership rights;
+- (e) provision requiring the FCA to cancel the building society’s registration under the Building Societies Act 1986 at a time specified in or determined in accordance with the instrument;
+- (f) provision that any person approved for the purposes of Part 5 of the Financial Services and Markets Act 2000 (performance of regulated activities) in relation to the building society immediately before the resolution instrument is made continues to be approved for those purposes in relation to the successor company (but without affecting the powers of the FCA or PRA to vary or withdraw an approval);
+- (g) provision which could be included in a property transfer instrument by virtue of—
+  - (i) section 34(7) and (8) (property held on trust), or
+  - (ii) section 36(1) to (5) (continuity).
+
+(8) The provision that may be made under subsection (4)(b) also includes—
+
+- (a) in a case where the resolution instrument makes provision under subsection (5)(a), provision for the successor company on its incorporation to be wholly owned by a company specified in the instrument;
+- (b) in a case where the resolution instrument makes provision under subsection (5)(b) transferring the property, rights and liabilities of the building society to a company which is wholly owned by another company, provision relating to that other company;
+- (c) in either case, provision—
+  - (i) for the transfer of liabilities from the successor company to the other company mentioned in paragraph (a) or (b) (“the parent undertaking”), and for the creation of corresponding liabilities of the successor company to the parent undertaking;
+  - (ii) replacing a liability (of any form) of the building society or the successor company with a liability or security (of any form or class) of the parent undertaking.
+
+(9) A company may not be specified under subsection (8)(a) unless it is (or is to be) wholly owned by—
+
+- (a) the Bank of England,
+- (b) a resolution administrator appointed under section 62B(1), or
+- (c) a person nominated by the Bank of England.
+
+(10) Where a resolution instrument makes provision under subsection (5), section 37 (licences) applies as if the references to a property transfer instrument were references to the resolution instrument.
+
+(11) A resolution instrument may provide for different provision made under this section by the instrument to take effect at different times.
+
+(12) In this section—
+
+- “company” means a company as defined in section 1(1) of the Companies Act 2006 which is a public company limited by shares;
+- “deposit” has the meaning given by article 5(2) of the Financial Services and Markets Act 2000 (Regulated Activities) Order 2001 ([S.I. 2001/544](https://www.legislation.gov.uk/uksi/2001/544)), but ignoring the exclusions in article 6.
+
+## Annotations
+
+[^key-a0d7a44be39d941c786e623e31308c6c]: Textual amendment: Ss. 84A-84D inserted (10.1.2015) by [The Building Societies (Bail-in) Order 2014 (S.I. 2014/3344)](https://www.legislation.gov.uk/uksi/2014/3344), [arts. 1](https://www.legislation.gov.uk/uksi/2014/3344/article/1), [2(3)](https://www.legislation.gov.uk/uksi/2014/3344/article/2/3)

@@ -1,0 +1,40 @@
+---
+title: Agricultural Holdings (Scotland) Act 1991, section 45
+act: Agricultural Holdings (Scotland) Act 1991
+section: '45'
+status: revised-with-pending-changes
+text_date: '2021-02-28'
+extent: S
+source_url: https://www.legislation.gov.uk/ukpga/1991/55/section/45
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Agricultural Holdings (Scotland) Act 1991, section 45
+
+> **Warning: changes not yet applied to this text (68).** Text as at 2021-02-28. See https://www.legislation.gov.uk/changes/affected/ukpga/1991/55
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 45. Compensation to landlord for deterioration etc. of holding.
+
+*Extent: S*
+
+(1) The landlord of an agricultural holding shall be entitled to recover from the tenant, on his quitting the holding on termination of the tenancy, compensation—
+
+- (a) where the landlord shows that the value of the holding has been reduced by dilapidation, deterioration or damage caused by;
+- (b) where dilapidation, deterioration or damage has been caused to any part of the holding or to anything in or on the holding by;
+
+non-fulfilment by the tenant of his responsibilities to farm in accordance with the rules of good husbandry.
+
+(2) The amount of compensation payable under subsection (1) above shall be—
+
+- (a) where paragraph (a) of that subsection applies, (insofar as the landlord is not compensated for the dilapidation, deterioration or damage under paragraph (b) thereof) an amount equal to the reduction in the value of the holding;
+- (b) when paragraph (b) of that subsection applies, the cost, as at the date of the tenant’s quitting the holding, of making good the dilapidation, deterioration or damage.
+
+(3) Notwithstanding anything in this Act, the landlord may, in lieu of claiming compensation under subsection (1)(b) above, claim compensation in respect of matters specified therein, under and in accordance with a lease in writing, so however that—
+
+- (a) compensation shall be so claimed only on the tenant’s quitting the holding on the termination of the tenancy;
+- (b) subject to section 46(4) of this Act compensation shall not be claimed in respect of any one holding both under such a lease and under subsection (1) above;
+
+and compensation under this subsection shall be treated, for the purposes of subsection (2)(a) above and of section 46 (2) of this Act as compensation under subsection (1)(b) above.

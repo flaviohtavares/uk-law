@@ -1,0 +1,140 @@
+---
+title: The Social Security (Habitual Residence) Amendment Regulations 2004
+id: uksi/2004/1232
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2004-04-28'
+text_date: '2011-10-31'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/uksi/2004/1232
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2004/1232/pdfs/uksi_20041232_300912_en.pdf
+- http://www.legislation.gov.uk/uksi/2004/1232/pdfs/uksi_20041232_en.pdf
+- http://www.legislation.gov.uk/uksi/2004/1232/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Social Security (Habitual Residence) Amendment Regulations 2004
+
+> Text as at 2011-10-31.
+>
+> Extent: England, Wales, Scotland.
+
+*Extent: E+W+S*
+
+2004 No. 1232
+
+SOCIAL SECURITY
+
+The Social Security (Habitual Residence) Amendment Regulations 2004
+
+Made
+
+28th April 2004
+
+Laid before Parliament
+
+30th April 2004
+
+Coming into force
+
+1st May 2004
+
+The Secretary of State for Work and Pensions, in exercise of the powers conferred upon him by sections 123(1)(a), (d) and (e), 131(3)(b), 135(1) and (2), 137(1) and (2)(i) and 175(1), (3) and (4) of the Social Security Contributions and Benefits Act 1992 [^c523682], sections 4(5), 35(1) and 36(2) and (4) of the Jobseekers Act 1995 [^c523683] and section 1(5)(a) and 17(1) of the State Pension Credit Act 2002 [^c523684] and of all other powers enabling him in that behalf, after consultation with such organisations appearing to him to be representative of the authorities concerned in so far as they relate to housing benefit and council tax benefit [^c523685] and after reference to the Social Security Advisory Committee [^c523686], hereby makes the following Regulations:
+
+## 1. Citation, commencement and interpretation[^key-6511f0506fc5c1761927a856e7388f0b]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 2. Amendment of the Council Tax Benefit Regulations and of the Housing Benefit Regulations[^key-6511f0506fc5c1761927a856e7388f0b]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 3. Amendment of the Income Support Regulations[^key-6511f0506fc5c1761927a856e7388f0b]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 4. Amendment of the Jobseeker’s Allowance Regulations[^key-6511f0506fc5c1761927a856e7388f0b]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 5. Amendment of the State Pension Credit Regulations[^key-6511f0506fc5c1761927a856e7388f0b]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 6. Transitional arrangements and savings
+
+(1) Paragraph (2) shall apply where a person—
+
+- (a) is entitled to a specified benefit in respect of a period which includes 30th April 2004;
+- (b) claims a specified benefit on or after 1st May 2004 and it is subsequently determined that he is entitled to that benefit in respect of a period which includes 30th April 2004;
+- (c) claims a specified benefit on or after 1st May 2004 and it is subsequently determined that he is entitled to such a benefit in respect of a period which is continuous with a period of entitlement to the same or another specified benefit which includes 30th April 2004;
+- (ca)[^key-0c4335169fcb197d5c4912f0fc5a4ac2] to whom sub-paragraph (c) applied, claims an employment and support allowance and it is subsequently determined that he is entitled to that benefit, and this entitlement is linked to a previous period of entitlement by virtue of regulation 145(1) of the Employment and Support Allowance Regulations (linking rules);
+- (d) claims jobseeker’s allowance on or after 1st May 2004 and it is subsequently determined that he is entitled to jobseeker’s allowance in respect of a period of entitlement to that benefit which is linked to a previous period of entitlement which includes 30th April 2004 by virtue of regulations made under paragraph 3 of Schedule 1 to the Jobseekers Act 1995 [^c523700].
+
+(2) Where this paragraph applies—
+
+- (a)[^key-e81b746560c4db0c9584fd17fdbcd4bb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) regulation 21 of the Income Support Regulations shall continue to have effect as if regulation 3 had not been made;
+- (c) regulation 85 of the Jobseeker’s Allowance Regulations shall continue to have effect as if regulation 4 had not been made;[^key-42e6feefa2a561fa077fa4f911dfbf13]...
+- (d) regulation 2 of the State Pension Credit Regulations shall continue to have effect as if regulation 5 had not been made; and[^key-cda4741567e24c637a699fc6b60d309f]
+- (e) regulation 70(2) to (4) of the Employment and Support Allowance Regulations (special cases: supplemental – persons from abroad) does not apply.
+
+(3) The provisions saved by paragraph (2) shall continue to have effect until the date on which entitlement to a specified benefit for the purposes of paragraph (1) ceases, and if there is more than one such specified benefit, until the last date on which such entitlement ceases.
+
+(4)[^key-063031773ca204fe6dd6adaca808e220] In this regulation—
+
+- (a) “the Employment and Support Allowance Regulations” means the Employment and Support Allowance Regulations 2008; and
+- (b) “specified benefit” means income support, housing benefit, council tax benefit, jobseeker’s allowance, state pension credit and employment and support allowance.
+
+Signed by authority of the Secretary of State for Work and Pensions.
+
+Maria Eagle
+
+Parliamentary Under-Secretary of State,
+
+Department for Work and Pensions
+
+28th April 2004
+
+*(This note is not part of the Regulations)*
+
+These Regulations amend the Income Support (General) Regulations 1987 (S.I. 1987/1967), the Jobseeker’s Allowance Regulations 1996 (S.I. 1996/207), the Housing Benefit (General) Regulations 1987 (S.I. 1987/1971), the Council Tax Benefit (General) Regulations 1992 (S.I. 1992/1814) and the State Pension Credit Regulations 2002 (S.I. 2002/1792) (“**the income-related benefit regulations**”).
+
+In particular, they amend the income-related benefit regulations with effect that no person shall be treated as habitually resident for the purposes of entitlement to income support, jobseeker’s allowance, housing benefit, council tax benefit and state pension credit unless they have a right to reside in the United Kingdom, the Channel Islands, the Isle of Man or the Republic of Ireland. They also extend the exception to the habitual residence test to include certain persons treated as workers from countries acceding to the European Union from 1st May 2004 in accordance with the the Accession (Immigration and Worker Registration) Regulations 2004 (S.I. 2004/1219).
+
+The Regulations also make provision for transitional arrangements and savings for those who are entitled to income support, jobseeker’s allowance, housing benefit, council tax benefit or state pension credit on 30th April 2004.
+
+The Report of the Social Security Advisory Committee dated 22nd April 2004 on the proposals referred to them in respect of these Regulations, together with a statement showing the extent to which the proposals give effect to the Recommendations of the Committee, and in so far as they do not give effect to them, the reasons why not, are contained in Command Paper Cm. 6181 published by the Stationery Office Ltd.
+
+A full regulatory impact assessment has not been produced for this instrument as it has no impact on the costs of business.
+
+## Annotations
+
+[^c523682]: Marginal citation: [1992 c. 4](https://www.legislation.gov.uk/ukpga/1992/4); [sections 123](https://www.legislation.gov.uk/uksi/2004/1232/section/123), [131](https://www.legislation.gov.uk/uksi/2004/1232/section/131), [135](https://www.legislation.gov.uk/uksi/2004/1232/section/135) and 137 were amended with respect to council tax benefit, by Schedule 9 to the [Local Government Finance Act 1992 (c. 14)](https://www.legislation.gov.uk/ukpga/1992/14), [paragraphs 1(1)](https://www.legislation.gov.uk/ukpga/1992/14/paragraph/1/1), [4](https://www.legislation.gov.uk/ukpga/1992/14/paragraph/4), [8](https://www.legislation.gov.uk/ukpga/1992/14/paragraph/8) and 9. Section 137(1) is cited because of the meaning given to the word “prescribed”.
+
+[^c523683]: Marginal citation: [1995 c. 18](https://www.legislation.gov.uk/ukpga/1995/18); [section 35(1)](https://www.legislation.gov.uk/uksi/2004/1232/section/35/1) is cited because of the meaning given to the words “applicable amount”, “prescribed” and “regulations”.
+
+[^c523684]: Marginal citation: [2002 c. 16](https://www.legislation.gov.uk/ukpga/2002/16); [section 17(1)](https://www.legislation.gov.uk/uksi/2004/1232/section/17/1) is cited for the meaning given to the word “prescribed”.
+
+[^c523685]: Marginal citation: *See* section 176(1) of the [Social Security Administration Act 1992 (c. 5)](https://www.legislation.gov.uk/ukpga/1992/5) which was amended by paragraph 23 of Schedule 9 to the Local Government Finance Act 1992.
+
+[^c523686]: Marginal citation: *See* section 172(1) of the [Social Security Administration Act 1992 (c. 5)](https://www.legislation.gov.uk/ukpga/1992/5); [paragraph 67](https://www.legislation.gov.uk/uksi/2004/1232/paragraph/67) of Schedule 2 to the Jobseekers Act 1995 added that Act to the list of “relevant enactments” in respect of which regulations must normally be referred to the Committee.
+
+[^key-6511f0506fc5c1761927a856e7388f0b]: Textual amendment: Regulations, apart from reg. 6, revoked (30.4.2006) by [Social Security (Persons from Abroad) Amendment Regulations 2006 (S.I. 2006/1026)](https://www.legislation.gov.uk/uksi/2006/1026), [regs. 1](https://www.legislation.gov.uk/uksi/2006/1026/regulation/1), [11(1)(d)](https://www.legislation.gov.uk/uksi/2006/1026/regulation/11/1/d) (with [reg. 11(2)](https://www.legislation.gov.uk/uksi/2006/1026/regulation/11/2))
+
+[^key-0c4335169fcb197d5c4912f0fc5a4ac2]: Textual amendment: Reg. 6(1)(ca) added (31.10.2011) by [The Social Security (Miscellaneous Amendments) (No. 3) Regulations 2011 (S.I. 2011/2425)](https://www.legislation.gov.uk/uksi/2011/2425), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/2425/regulation/1/2), [17(a)](https://www.legislation.gov.uk/uksi/2011/2425/regulation/17/a)
+
+[^c523700]: Marginal citation: [1995 c. 18](https://www.legislation.gov.uk/ukpga/1995/18). *See* [S.I. 1996/207](https://www.legislation.gov.uk/uksi/1996/207), 2000/724, 2001/1029 and 2003/511.
+
+[^key-e81b746560c4db0c9584fd17fdbcd4bb]: Textual amendment: Reg. 6(2)(a) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Schs. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
+
+[^key-42e6feefa2a561fa077fa4f911dfbf13]: Textual amendment: Word in reg. 6(2)(c) omitted (31.10.2011) by virtue of [The Social Security (Miscellaneous Amendments) (No. 3) Regulations 2011 (S.I. 2011/2425)](https://www.legislation.gov.uk/uksi/2011/2425), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/2425/regulation/1/2), [17(b)(i)](https://www.legislation.gov.uk/uksi/2011/2425/regulation/17/b/i)
+
+[^key-cda4741567e24c637a699fc6b60d309f]: Textual amendment: Reg. 6(2)(e) and word added (31.10.2011) by [The Social Security (Miscellaneous Amendments) (No. 3) Regulations 2011 (S.I. 2011/2425)](https://www.legislation.gov.uk/uksi/2011/2425), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/2425/regulation/1/2), [17(b)(ii)](https://www.legislation.gov.uk/uksi/2011/2425/regulation/17/b/ii)
+
+[^key-063031773ca204fe6dd6adaca808e220]: Textual amendment: Reg. 6(4) substituted (31.10.2011) by [The Social Security (Miscellaneous Amendments) (No. 3) Regulations 2011 (S.I. 2011/2425)](https://www.legislation.gov.uk/uksi/2011/2425), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/2425/regulation/1/2), [17(c)](https://www.legislation.gov.uk/uksi/2011/2425/regulation/17/c)

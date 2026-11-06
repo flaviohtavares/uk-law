@@ -1,0 +1,119 @@
+---
+title: The Extradition Act 2003 (Designation of Prosecutors) (England and Wales and Northern Ireland) Order 2013
+id: uksi/2013/2388
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2013-09-19'
+text_date: '2014-03-27'
+extent: E+W+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2013/2388
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2013/2388/pdfs/uksiem_20132388_en_001.pdf
+- http://www.legislation.gov.uk/uksi/2013/2388/pdfs/uksiem_20132388_en.pdf
+- http://www.legislation.gov.uk/uksi/2013/2388/pdfs/uksi_20132388_en.pdf
+- http://www.legislation.gov.uk/uksi/2013/2388/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Extradition Act 2003 (Designation of Prosecutors) (England and Wales and Northern Ireland) Order 2013
+
+> Text as at 2014-03-27.
+>
+> Extent: England, Wales, Northern Ireland.
+
+*Extent: E+W+N.I.*
+
+2013 No. 2388
+
+Extradition, England And Wales
+
+Extradition, Northern Ireland
+
+The Extradition Act 2003 (Designation of Prosecutors) (England and Wales and Northern Ireland) Order 2013
+
+Made
+
+19th September 2013
+
+Laid before Parliament
+
+23rd September 2013
+
+Coming into force
+
+14th October 2013
+
+The Secretary of State, in exercise of the powers conferred by sections 19F(2), 83E(2) and 223(3)(b) of the Extradition Act 2003[^f00001] makes the following Order.
+
+## 1. Citation, commencement and extent[^key-46178d46e3312ca55a8da12d095afd63]
+
+This Order—
+
+- (a) may be cited as the Extradition Act 2003 (Designation of Prosecutors) (England and Wales and Northern Ireland) Order 2013;
+- (b) comes into force on 14th October 2013; and
+- (c) extends to England and Wales and Northern Ireland.
+
+## 2. Interpretation and transitional provision[^key-c46ca13ff74b51f9012c24c263d4cd2f]
+
+(1) In this Order, “the CMA Board” has the same meaning as in Schedule 4 to the Enterprise and Regulatory Reform Act 2013[^f00002] (the Competition and Markets Authority – General).
+
+(2) Until section 25 of the Enterprise and Regulatory Reform Act 2013 (the Competition and Markets Authority) comes into force, the reference to the CMA Board in the Schedule has effect as if it were a reference to the Office of Fair Trading.
+
+## 3. Designated prosecutors and descriptions of designated prosecutors[^key-479829a868be34338014394ca576c792]
+
+The following persons are designated prosecutors for the purposes of sections 19F(2) and 83E(2) of the Extradition Act 2003—
+
+- (a) the prosecutors listed in the Schedule; and
+- (b) a chief or deputy chief prosecutor (or the equivalent of a chief or deputy chief prosecutor) appointed by a prosecutor listed in the Schedule.
+
+Taylor of Holbeach
+
+Parliamentary Under Secretary of State
+
+Home Office
+
+19th September 2013
+
+## SCHEDULE — Listed Prosecutors[^key-93be8fcaf9eedf34b091481a1b02ac4a]
+
+Article 3
+
+[^key-93be8fcaf9eedf34b091481a1b02ac4a]
+
+- The CMA Board
+- The Director of Public Prosecutions for Northern Ireland
+- [^key-2799e0bac7f8b5b3c6dbcc744312cb04]...
+- The Director of the Serious Fraud Office
+- The Director of Service Prosecutions
+- The Financial Conduct Authority
+- The Secretary of State for Business, Innovation and Skills, acting personally
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order designates prosecutors and descriptions of prosecutors as “designated prosecutors” for the purposes of sections 19F and 83E of the Extradition Act 2003 (“the 2003 Act”).
+
+Sections 19B to 19F and 83A to 83E of the 2003 Act, as inserted by the Crime and Courts Act 2013, provide that the extradition of a person to category 1 or category 2 territories is barred by reason of forum if the extradition would not be in the interests of justice. If a designated prosecutor gives a prosecutor’s certificate, the judge hearing the proceedings must decide that extradition is not barred by reason of forum. The 2003 Act provides that any member of the Crown Prosecution Service is a designated prosecutor. This Order designates additional prosecutors and descriptions of prosecutors who are able to give a prosecutor’s certificate.
+
+An impact assessment has not been produced for this Order as no impact on business, charities, voluntary agencies or the public sector is foreseen.
+
+## Annotations
+
+[^f00001]: Footnote: [2003 c.41](https://www.legislation.gov.uk/ukpga/2003/41); sections 19F and 83E were inserted by section 50 of, and paragraphs 3 and 6 of Part 1 of Schedule 20 to, the Crime and Courts Act [2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22).
+
+[^key-46178d46e3312ca55a8da12d095afd63]: Commencement: Art. 1 in force at 14.10.2013, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2013/2388/article/1/b)
+
+[^key-c46ca13ff74b51f9012c24c263d4cd2f]: Commencement: Art. 2 in force at 14.10.2013, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2013/2388/article/1/b)
+
+[^f00002]: Footnote: [2013 c.24](https://www.legislation.gov.uk/ukpga/2013/24).
+
+[^key-479829a868be34338014394ca576c792]: Commencement: Art. 3 in force at 14.10.2013, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2013/2388/article/1/b)
+
+[^key-93be8fcaf9eedf34b091481a1b02ac4a]: Commencement: Sch. in force at 14.10.2013, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2013/2388/article/1/b)
+
+[^key-2799e0bac7f8b5b3c6dbcc744312cb04]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2013/2388/schedule) omitted (27.3.2014) by virtue of [The Public Bodies (Merger of the Director of Public Prosecutions and the Director of Revenue and Customs Prosecutions) Order 2014 (S.I. 2014/834)](https://www.legislation.gov.uk/uksi/2014/834), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/834/article/1/1), [Sch. 3 para. 37](https://www.legislation.gov.uk/uksi/2014/834/schedule/3/paragraph/37)

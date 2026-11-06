@@ -1,0 +1,32 @@
+---
+title: Wireless Telegraphy Act 2006, section 116
+act: Wireless Telegraphy Act 2006
+section: '116'
+status: revised-with-pending-changes
+text_date: '2026-04-06'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2006/36/section/116
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Wireless Telegraphy Act 2006, section 116
+
+> **Warning: changes not yet applied to this text (1).** Text as at 2026-04-06. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/36
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 116. “Wireless telegraphy”
+
+*Extent: E+W+S+N.I.*
+
+(1) In this Act “**wireless telegraphy**” means the emitting or receiving, over paths that are not provided by any material substance constructed or arranged for the purpose, of energy to which subsection (2) applies.
+
+(2) This subsection applies to electromagnetic energy of a frequency not exceeding 3,000 gigahertz that—
+
+- (a) serves for conveying messages, sound or visual images (whether or not the messages, sound or images are actually received by anyone), or for operating or controlling machinery or apparatus; or
+- (b) is used in connection with determining position, bearing or distance, or for gaining information as to the presence, absence, position or motion of an object or of a class of objects.
+
+(3) The Secretary of State may by order modify the definition of “wireless telegraphy” by substituting a different frequency for the frequency that is for the time being specified in subsection (2).
+
+(4) No order is to be made containing provision authorised by subsection (3) unless a draft of the order has been laid before Parliament and approved by a resolution of each House.

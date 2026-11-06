@@ -1,0 +1,604 @@
+---
+title: The Export Control (Amendment) (EU Exit) Regulations 2019
+id: uksi/2019/137
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2019-01-28'
+text_date: '2020-12-31'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2019/137
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2019/137/pdfs/uksiem_20190137_en.pdf
+- http://www.legislation.gov.uk/uksi/2019/137/pdfs/uksi_20190137_en.pdf
+- http://www.legislation.gov.uk/uksi/2019/137/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Export Control (Amendment) (EU Exit) Regulations 2019
+
+> Text as at 2020-12-31.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2019 No. 137
+
+Exiting The European Union
+
+Customs
+
+The Export Control (Amendment) (EU Exit) Regulations 2019
+
+Sift requirements satisfied
+
+23rd January 2019
+
+Made
+
+28th January 2019
+
+Laid before Parliament
+
+31st January 2019
+
+Coming into force in accordance with regulation 1
+
+The Secretary of State makes these Regulations in exercise of the powers conferred by section 1(5) and 2(5) of the Export Control Act 2002 [^c23543871] and section 8(1) of the European Union (Withdrawal) Act 2018 [^c23543881].
+
+The requirements of paragraph 3(2) of Schedule 7 to the European Union (Withdrawal) Act 2018 (relating to the appropriate Parliamentary procedure for these Regulations) have been satisfied.
+
+## PART 1 — Introduction
+
+### 1. Citation and commencement[^key-382820889ea12c5f86ced06ac64d31ea]
+
+These Regulations may be cited as the Export Control (Amendment) (EU Exit) Regulations 2019 and save for regulation 4(31) come into force on exit day.
+
+### 2.[^key-ffd9333157f96db634361fef3e938ba7]
+
+Regulation 4(31) comes into force on 1st March 2019.
+
+## PART 2 — Amendment of subordinate legislation
+
+### 3. Amendment of the Export of Radioactive Sources (Control) Order 2006[^key-a5892add8ab4728aeafb0067dd547c71]
+
+(1) The Export of Radioactive Sources (Control) Order 2006 [^c23543891] is amended as follows.
+
+(2) In article 5 (Licences), in paragraph (3)–
+
+- (a) in the words before sub-paragraph (a), omit “to any destination outside the European Union”;
+- (b) in sub-paragraph (b) for “established within the European Union” in each place these words occur, substitute “ established in the United Kingdom ”;
+- (c) in sub-paragraph (b)(ii)(bb) omit “from the European Union”.
+
+(3) In article 13 (Use and disclosure of information), in paragraph (2)(b), omit “European Union or other”.
+
+### 4. Amendment of the Export Control Order 2008[^key-51b54709d00b1fe999b1ad1c179ed267]
+
+(1)[^key-da1266a4c3ad4a34a3a65959d30fe673] The Export Control Order 2008 [^c23543901] is amended as follows.
+
+(2)[^key-da1266a4c3ad4a34a3a65959d30fe673] In article 2(1) (Interpretation)—
+
+- (a) omit the definitions of:
+  - (i) “certificate”;
+  - (ii) “competent authority”;
+  - (iii) “the customs territory”;
+  - (iv) “the defence-related products Directive”;
+  - (v) “European military items”;
+  - (vi) “the firearms Directive”;
+  - (vii) “non-community goods”;
+  - (viii) “the Union General Export Authorisation”; [^key-81c9884739a82fa2a68e28770d79dffa]...
+- (b)[^key-2ab23af340a87a9f93c79d0fcca28505] for the definition of “the dual-use Regulation”, substitute—
+
+  > “**the dual-use Regulation**”, in relation to—
+  >
+  > - (a) England and Wales and Scotland, means Council Regulation [(EC) No 428/2009](https://www.legislation.gov.uk/eur/2009/428) of 5 May 2009 setting up a Community regime for the control of exports, transfer, brokering and transit of dual-use items ;
+  > - (b) Northern Ireland, means Council Regulation [(EC) No 428/2009](https://www.legislation.gov.uk/eur/2009/428) of 5 May 2009 setting up a Community regime for the control of exports, transfer, brokering and transit of dual-use items as it has effect by virtue of the Protocol on Ireland/Northern Ireland in the EU withdrawal agreement ;
+
+  ;
+- (c) before the definition of “goods subject to trade controls”, insert—
+
+  > “**general export authorisation**” has the same meaning as in Article 2(9) of the dual-use Regulation;
+
+  ; and
+- (d) for the definition of “the torture Regulation”, substitute—
+
+  > “**the torture Regulation**”, in relation to—
+  >
+  > - (a) England and Wales and Scotland, means Regulation (EU) 2019/125 of the European Parliament and of the Council of 16 January 2019 concerning trade in certain goods which could be used for capital punishment, torture or other cruel, inhuman or degrading treatment or punishment ;
+  > - (b) Northern Ireland, means Regulation (EU) 2019/125 of the European Parliament and of the Council of 16 January 2019 concerning trade in certain goods which could be used for capital punishment, torture or other cruel, inhuman or degrading treatment or punishment as it has effect by virtue of the Protocol on Ireland/Northern Ireland in the EU withdrawal agreement;
+
+  .
+
+(3)[^key-da1266a4c3ad4a34a3a65959d30fe673][^key-fe491f9968b19b1871fdf2372eebd7f8] In article 2A (Crown application), in paragraph (1), for subparagraphs (c) to (e), substitute—
+
+> - (c) article 8 (transit controls supplementing the dual-use Regulation);
+> - (d) article 42L (export and transfer control in relation to Northern Ireland: dual-use goods, software, and technology); and
+> - (e) article 42S (export control in relation to Northern Ireland: leg irons, gang chains, and portable electric shock devices).
+
+.
+
+(4)[^key-da1266a4c3ad4a34a3a65959d30fe673] In article 6 (WMD purposes end-use control supplementing the dual-use Regulation), for “customs territory” substitute “ United Kingdom ”.
+
+(5)[^key-da1266a4c3ad4a34a3a65959d30fe673] Omit article 7 (Control on transfers within the customs territory supplementing the dual-use Regulation).
+
+(6)[^key-da1266a4c3ad4a34a3a65959d30fe673] In article 8 (Transit controls supplementing the dual-use Regulation)—
+
+- (a) for paragraph (1) substitute—
+
+  > (1) Subject to articles 17 and 26, no person shall export goods listed in Annex I to the dual-use Regulation where the goods in question are entering and passing through the United Kingdom with a final destination outside the United Kingdom and the Isle of Man.
+
+  ;
+- (b) in paragraph (2)(a), for “a competent authority”, substitute “ the Secretary of State ”;
+- (c) in paragraph (2), after the semi-colon at the end of sub-paragraph (b), substitute—
+
+  > and the dual-use goods in question are goods which are not listed in Annex I to the dual-use Regulation and which are entering and passing through the United Kingdom with a final destination outside the United Kingdom and the Isle of Man.
+
+  .
+
+(7)[^key-da1266a4c3ad4a34a3a65959d30fe673] Omit article 9.
+
+(8)[^key-da1266a4c3ad4a34a3a65959d30fe673] In article 10 (Transfers within the United Kingdom for WMD purposes) substitute references to “ customs territory ” with “United Kingdom”.
+
+(9)[^key-da1266a4c3ad4a34a3a65959d30fe673] In the heading to article 11 for “customs territory” substitute “ United Kingdom ”.
+
+(10)[^key-da1266a4c3ad4a34a3a65959d30fe673] In article 11 (Transfers from outside the customs territory for WMD purposes)—
+
+- (a) in paragraph (1) sub-paragraph (a), for “a competent authority”, substitute “ the Secretary of State ”;
+- (b) in paragraph (2) substitute references to “ customs territory ” with “United Kingdom”.
+
+(11)[^key-da1266a4c3ad4a34a3a65959d30fe673] In article 12 (Transfers by non-electronic means from the United Kingdom for WMD purposes, substitute paragraph (2) with “ Subject to articles 18 and 26, the transferor shall not transfer the software or technology in question by non-electronic means to a destination outside the United Kingdom. ”
+
+(12)[^key-da1266a4c3ad4a34a3a65959d30fe673] Omit article 15 (Exception for firearms – European firearms pass).
+
+(13)[^key-da1266a4c3ad4a34a3a65959d30fe673][^key-e78851c32c086d5c31764a688c5e7626] In article 16 (Exception for firearms – firearm or shot gun certificate or permit),—
+
+- (a) for paragraph (2), substitute—
+
+  > (2) Articles 3 (military goods, etc.) and 4 (movement of UK-controlled dual-use goods, etc. to certain destinations) do not apply in relation to a person who exports a firearm to which this article applies if—
+  >
+  > - (a) the firearm, and any related ammunition or sight using non-electronic image enhancement, is a part of the personal effects of the person; and
+  > - (b) the person—
+  >   - (i) is a part of the armed forces, a police force, or a public authority, of the United Kingdom;
+  >   - (ii) is, subject to paragraph (3), not required to have an export authorisation by virtue of Article 4 of the firearms Regulation because the person meets the requirements set out in Article 9(1)(a) of that Regulation (exception for hunters and sport shooters); or
+  >   - (iii) holds in relation to the firearm a certificate of the type specified in paragraph (1)(d) (Manx firearm certificate).
+
+  ;
+- (b) for paragraph (3), substitute—
+
+  > (3) Paragraph (2)(b)(ii) applies only if the export of the firearm is to a country or territory that is neither an embargoed destination nor a country or territory listed in Part 3 of Schedule 4 (countries and territories subject to transit control for military goods).
+  >
+  > (4) In this article, “**firearms Regulation**”, in relation to—
+  >
+  > - (a) England and Wales and Scotland, means Regulation (EU) No 258/2012 of the European Parliament and of the Council of 14 March 2012 implementing Article 10 of the United Nations' Protocol against the illicit manufacturing of and trafficking in firearms, their parts and components and ammunition, supplementing the United Nations Convention against Transnational Organised Crime (UN Firearms Protocol), and establishing export authorisation, and import and transit measures for firearms, their parts and components and ammunition ;
+  > - (b) Northern Ireland, means Regulation (EU) No 258/2012 of the European Parliament and of the Council of 14 March 2012 implementing Article 10 of the United Nations' Protocol against the illicit manufacturing of and trafficking in firearms, their parts and components and ammunition, supplementing the United Nations Convention against Transnational Organised Crime (UN Firearms Protocol), and establishing export authorisation, and import and transit measures for firearms, their parts and components and ammunition as it has effect by virtue of the Protocol on Ireland/Northern Ireland in the EU withdrawal agreement.
+
+  .
+
+(14)[^key-da1266a4c3ad4a34a3a65959d30fe673] In article 17 (Transit or transhipment exception)—
+
+- (a) in paragraph (1)—
+  - (i) omit “, 7”;
+  - (ii) for “conditions in paragraph (4) are met” substitute “ condition in paragraph (4) is met ”;
+- (b) in paragraph (3)(a), for “a competent authority”, substitute “ the Secretary of State ”;
+- (c) for paragraph (4), substitute—
+
+  > (4) The condition is that the goods in question remain on board a vessel, aircraft or vehicle for the entire period that they remain in the United Kingdom or are goods on a through bill of lading, through the air waybill or single transport contract and in any event are exported before the end of the period of 30 days beginning with the date of their importation.
+
+  .
+
+(15)[^key-da1266a4c3ad4a34a3a65959d30fe673] In article 19 (End-use control on technical assistance), for each reference to “customs territory”, substitute “ United Kingdom ”.
+
+(15A)[^key-0aa94bc0d44b6c9d5ff1aa1807ddd645] In article 21 (Category A goods), in paragraph (2), omit “24,”.
+
+(15B) In article 23 (Category C goods), in paragraph (1), omit “24,”.
+
+(16)[^key-da1266a4c3ad4a34a3a65959d30fe673] Omit article 24 (Exception for movement of goods within the customs territory).
+
+(17)[^key-da1266a4c3ad4a34a3a65959d30fe673] In article 26 (Licences) omit paragraph (5).
+
+(18)[^key-da1266a4c3ad4a34a3a65959d30fe673] In article 27(1) (Person authorised by UK licence to export goods)—
+
+- (a) substitute references to “customs territory” with “United Kingdom”; and
+- (b) in sub-paragraph (a) after “on whose behalf the export declaration is made” insert “ , where an export declaration is required, ”.
+
+(19)[^key-da1266a4c3ad4a34a3a65959d30fe673] In article 28(1)(b) (Registration with the Secretary of State), substitute “ Union General Export Authorisation ” with “general export authorisation[^key-0be98c2631df1b4548282f88f8c86dbf]”.
+
+(20)[^key-da1266a4c3ad4a34a3a65959d30fe673] Omit article 28A (Certificates (European military items)) [^c23543911].
+
+(21)[^key-da1266a4c3ad4a34a3a65959d30fe673] In article 29 (Record keeping – general)—
+
+- (a) in paragraph (1)—
+  - (i) in sub-paragraph (b)—
+    - (aa) substitute “Union General Export Authorisation” with “general export authorisation[^key-9eeeffa1e9f95c8a014cc2ee23b2fcbb]”;
+    - (bb) after “Kingdom” insert “ . ”;
+    - (cc) omit “; and”;
+  - (ii) omit sub-paragraph (c);
+- (b) omit paragraph (4).
+
+(22)[^key-da1266a4c3ad4a34a3a65959d30fe673] In article 31 (Inspection of records)—
+
+- (a) in paragraph (1) omit “or 22(8) (records of exportation and transfer of listed items within the customs territory)”;
+- (b) in paragraph (2) sub-paragraph (b) omit “or 22(8)”.
+
+(23)[^key-da1266a4c3ad4a34a3a65959d30fe673] Omit article 33A (Certificates: refusals, etc. and appeals).
+
+(24)[^key-da1266a4c3ad4a34a3a65959d30fe673] In article 35 (Offences relating to prohibitions and restrictions in the dual-use Regulation)—
+
+- (a) in paragraph (1), omit “or 22(1) (exportation or transfer of sensitive items within the customs territory)”;
+- (b) in paragraph (2), for “competent authority” substitute “ the Secretary of State ”;
+- (c) in paragraph (4), omit “or 22(1)”;
+- (d) in paragraph (7), after “Article 20 (record-keeping)” omit “, 22(8) (records of exportation and transfer of listed items within the customs territory) or 22(10) (requirement in relation to commercial documents for exportation and transfer of listed items within the customs territory)”.
+
+(25)[^key-da1266a4c3ad4a34a3a65959d30fe673] Omit “or certificates” from the heading to Article 37 (Misleading applications for licences or certificates).
+
+(26)[^key-da1266a4c3ad4a34a3a65959d30fe673] In article 37, omit both occurrences of “or certificate”.
+
+(27)[^key-da1266a4c3ad4a34a3a65959d30fe673] In article 38(1) (Failure to comply with licence conditions) for each reference to “Union General Export Authorisation” substitute “general export authorisation[^key-9ae2083341187d1276dcbc8e35aa0577]”.
+
+(28)[^key-da1266a4c3ad4a34a3a65959d30fe673] In article 40 (Customs powers relating to dual-use goods)—
+
+- (a) in paragraph (1)—
+  - (i) for “a competent authority” substitute “ the Secretary of State ”;
+  - (ii) for “its” substitute “the Secretary of State's”; and
+- (b) in paragraph (2)—
+  - (i) for “customs territory” substitute “ United Kingdom ”;
+  - (ii) at the end of sub-paragraph (b) omit from “,” to “licence”.
+
+(28A)[^key-5ff9c7d37f93ce1c9a8d4ddd55405209] In Article 41 (Application of CEMA in respect of offences),—
+
+- (a) in paragraph (1)(a)(i), omit “7,” and “9,”; and
+- (b) in paragraph (2)(a), omit “7,” and “9,”.
+
+(28B) Before Part 7 (General), insert—
+
+> **PART 6A — Provisions relating to the Protocol on Ireland/Northern Ireland in the EU withdrawal agreement**
+>
+> **42A. Interpretation**
+>
+> In this Part,—
+>
+> - “**certificate**” means a certificate granted by the Secretary of State in accordance with article 42D;
+> - “**the EU customs Regulation**” means Regulation (EU) No 952/2013 of the European Parliament and of the Council of 9 October 2013 laying down the Union Customs Code as it has effect in EU law;
+> - “**the EU customs territory**” means the customs territory described in Article 4 of the EU customs Regulation;
+> - “**the EU defence-related products Directive**” means Directive [2009/43/EC](https://www.legislation.gov.uk/eudr/2009/43) of the European Parliament and of the Council of 6 May 2009 simplifying terms and conditions of transfers of defence-related products within the Community as it has effect by virtue of the Protocol on Ireland/Northern Ireland in the EU withdrawal agreement;
+> - “**the EU dual-use Regulation**” means Council Regulation [(EC) No 428/2009](https://www.legislation.gov.uk/eur/2009/428) of 5 May 2009 setting up a Community regime for the control of exports, transfer, brokering and transit of dual-use items as it has effect by virtue of the Protocol on Ireland/Northern Ireland in the EU withdrawal agreement;
+> - “**EU-listed military item**” means an item listed in the Annex to the EU defence-related products Directive;
+> - “**the EU torture Regulation**” means Regulation (EU) 2019/125 of the European Parliament and of the Council of 16 January 2019 concerning trade in certain goods which could be used for capital punishment, torture or other cruel, inhuman or degrading treatment or punishment as it has effect by virtue of the Protocol on Ireland/Northern Ireland in the EU withdrawal agreement;
+> - “**Northern Ireland recipient**” means a person in Northern Ireland who is responsible for the receipt of an EU-listed military item.
+>
+> **Provisions relating to the EU defence-related products Directive**
+>
+> **42B. Record-keeping requirement: EU-listed military item supplier**
+>
+> (1) Article 29 (requirement to keep detailed registers or records) applies in relation to a person who acts under the authority of an individual licence to export or transfer from Northern Ireland to the EU customs territory an EU-listed military item as it applies in relation to a person who acts under the authority of a general licence granted by the Secretary of State but as if,—
+>
+> - (a) in paragraph (2),—
+>   - (i) in the words before subparagraph (a), the reference to each act carried out under the authority referred to in paragraph (1) were a reference to the export or transfer carried out under the authority of the individual licence;
+>   - (ii) in subparagraphs (a) to (d) and (f) to (h), the reference to the act were a reference to the export or transfer;
+>   - (iii) in subparagraphs (e), (g), and (h), the reference to the person referred to in paragraph (1) were a reference to the person who acts under the authority of the individual licence; and
+>   - (iv) in subparagraph (i), the reference to the licence or authorisation referred to in paragraph (1) were a reference to the individual licence; and
+> - (b) in paragraph (3), the reference to the licence or authorisation referred to in paragraph (1) were a reference to the individual licence.
+>
+> (2) Article 31 (inspection of records) applies in relation to a person who is required by virtue of paragraph (1) to keep registers or records as it applies in relation to a person who is required under article 29 to keep registers or records.
+>
+> **42C. Offence to contravene article 42B**
+>
+> (1) Article 38 (failure to comply with licence conditions) applies in relation to a person who, having acted under the authority of an individual licence, fails to comply with any obligation by virtue of article 42B as it applies to a person who, having acted under the authority of a licence or the general export authorisation, fails to comply with any obligation under article 29.
+>
+> (2) Article 41 (application of CEMA in respect of offences) applies in relation to paragraph (1) as it applies in relation to article 38.
+>
+> **42D. Secretary of State may certify Northern Ireland recipient undertaking**
+>
+> The Secretary of State may certify an undertaking of a Northern Ireland recipient for the purposes of Article 9(1) of the EU defence-related products Directive by granting a certificate in relation to the recipient.
+>
+> **42E. Applying for certificate**
+>
+> (1) A person may apply to the Secretary of State for a certificate .
+>
+> (2) The applicant must provide the Secretary of State with the information necessary for the Secretary of State to assess the criteria set out in article 42G.
+>
+> **42F. Secretary of State may grant certificate**
+>
+> (1) The Secretary of State may grant a certificate only if the Secretary of State, in accordance with article 42G, establishes the reliability of the Northern Ireland recipient undertaking.
+>
+> (2) A certificate must contain the following—
+>
+> - (a) the name of the Secretary of State;
+> - (b) the name and address of the recipient;
+> - (c) a statement that the recipient conforms with the criteria set out in article 42G; and
+> - (d) the date of issue and the period of validity of the certificate.
+>
+> (3) The period of validity of a certificate must not exceed five years.
+>
+> (4) A certificate may be subject to conditions relating to—
+>
+> - (a) the provision of information necessary to verify compliance by the recipient with the criteria set out in article 42G;
+> - (b) the suspension or revocation of the certificate.
+>
+> (5) If the Secretary of State decides not to grant a certificate, the Secretary of State must provide the applicant with written notification setting out the reason for the decision.
+>
+> **42G. Establishing reliability of Northern Ireland recipient undertaking**
+>
+> (1) The Secretary of State, to establish the reliability of a Northern Ireland recipient undertaking, must assess the following criteria in relation to the recipient—
+>
+> - (a) its capacity to observe limitations on the export of an EU-listed military item received under authorisation granted by a competent authority;
+> - (b) its proven experience in defence activities, in particular,—
+>   - (i) the record of compliance by the undertaking with export restrictions, including any relevant court decisions;
+>   - (ii) any authorisation held by the undertaking to produce or market an EU-listed military item;
+>   - (iii) the employment of experienced management staff by the recipient;
+> - (c) its relevant industrial activity in Northern Ireland or the EU customs territory relating to an EU-listed military item, with, in particular, capacity for system or sub-system integration;
+> - (d) the appointment of a senior executive as the dedicated officer personally responsible for exports and transfers;
+> - (e) the provision of a written commitment, signed by the senior executive referred to in subparagraph (d), that—
+>   - (i) the undertaking will take all necessary steps to observe and enforce any specific condition of an authorisation granted by a competent authority relating to end-use and re-export of any specific component or product received;
+>   - (ii) the undertaking will provide to the Secretary of State, on request, detailed information concerning the end-user or end-use of the EU-listed military item exported, transferred, or received under an authorisation granted by a competent authority; and
+> - (f) the provision of a written description, signed by the senior executive referred to in subparagraph (d), of the internal compliance programme or export and transfer management system of the undertaking, including details of—
+>   - (i) the organisational, human, and technical resources allocated to the management of exports and transfers;
+>   - (ii) the chain of responsibility within the undertaking;
+>   - (iii) internal audit procedures;
+>   - (iv) awareness-raising
+>   - (v) staff-training;
+>   - (vi) physical and technical security arrangements;
+>   - (vii) record-keeping; and
+>   - (viii) traceability of exports and transfers.
+>
+> (2) In this article, “**competent authority**” means an authority in a member State responsible for carrying out the obligations of that member State under the EU defence-related products Directive.
+>
+> **42H. Secretary of State may amend, suspend, and revoke certificate**
+>
+> (1) Article 32 (amendment, suspension, and revocation of licences) applies in relation to a certificate as it applies in relation to a licence.
+>
+> (2) The notification requirements under article 33(2) to (4) (licence refusals) apply in relation to a decision by the Secretary of State to amend, suspend, or revoke a certificate as they apply in relation to a decision by the Secretary of State to amend, suspend, or revoke a licence.
+>
+> **42I. Appeal of Secretary of State decision**
+>
+> Article 33(5) to (7) (licence appeals) applies in relation to a person who has a right under article 42F(5) or by virtue of article 42H(2) to a written notification in respect of a decision made by the Secretary of State as it applies in relation to a person who has a right under paragraphs (1) to (4) to a written notification in respect of a decision made by the Secretary of State.
+>
+> **42J. Offence relating to misleading application for certificate**
+>
+> (1) Article 37 (misleading applications for licences) applies in relation to a misleading application for a certificate as it applies in relation to a misleading application for a licence.
+>
+> (2) Article 41 (application of CEMA in respect of offences) applies in relation to paragraph (1) as it applies in relation to article 37.
+>
+> **Provisions relating to the EU firearms Directive**
+>
+> **42K. Exception in relation to Northern Ireland: European firearms pass holders**
+>
+> (1) Articles 3 (military goods, etc.) and 4 (movement of UK controlled dual-use goods, etc. to certain destinations) do not apply in relation to a person who exports a firearm from Northern Ireland to a member State if—
+>
+> - (a) the firearm is a part of the personal effects of the person;
+> - (b) the person is in possession of—
+>   - (i) a European firearms pass issued to the person under section 32A of the Firearms Act 1968 ; or
+>   - (ii) a document that has been issued to the person under the provisions of the law of a member State corresponding to the provisions of that section; and
+> - (c) paragraph (2) or (3) applies.
+>
+> (2) This paragraph applies if the person, on request, satisfies the appropriate officer of Revenue and Customs at the place of export that—
+>
+> - (a) the exportation of the firearm is necessary to enable the person to participate in one of the activities specified in Article 12(2) of the EU firearms Directive (hunting, target shooting, and re-enactment activities);
+> - (b) the firearm is within the category of firearms appropriate to that activity in accordance with that Article; and
+> - (c) the export or passage of the firearm is not to or through a member State that prohibits or requires an authorisation for the acquisition or possession of the firearm.
+>
+> (3) This paragraph applies if the document referred to in paragraph (1)(b)(ii) contains authorisation for the possession of the firearm issued by—
+>
+> - (i) the destination member State; and
+> - (ii) any other member State through which the person who possesses the firearm intends to pass through on the way to that destination member State.
+>
+> (4) In this article, “**the EU firearms Directive**” means Council Directive of 18 June 1991 on control of the acquisition and possession of weapons ([91/477/EEC](https://www.legislation.gov.uk/eudr/1991/477)) as it has effect by virtue of the Protocol on Ireland/Northern Ireland in the EU withdrawal agreement.
+>
+> **Provisions relating to the EU dual-use Regulation**
+>
+> **42L. Export and transfer control in relation to Northern Ireland: dual-use goods, software, and technology**
+>
+> (1) A person must not, unless the person has a UK licence authorising the act, export or transfer dual-use goods, software, or technology from Northern Ireland to the EU customs territory if the person knows—
+>
+> - (a) the final destination of the dual-use goods, software, or technology is a country or territory other than the EU customs territory; and
+> - (b) no processing or working is to be performed on the dual-use goods, software, or technology in the EU customs territory.
+>
+> (2) Article 17 (transit or transhipment exception) applies in relation to paragraph (1) as it applies in relation to article 8(1) (transit control supplementing the dual-use Regulation).
+>
+> (3) Subject to paragraph (4), the export or transfer of dual-use goods, software, or technology in contravention of this article is prohibited.
+>
+> (4) This article does not prohibit the transfer of software or technology by non-electronic means.
+>
+> (5) In this article, “**dual-use goods, software, or technology**” means goods, software, or technology—
+>
+> - (a) not specified in Annex IV to the EU dual-use Regulation; and
+> - (b) that, if the export or transfer were from Northern Ireland to a country or territory other than the EU customs territory, would require an authorisation granted by the Secretary of State under—
+>   - (i) Article 3 of the EU dual-use Regulation (export control on specified dual-use items); or
+>   - (ii) Article 4 of the EU dual-use Regulation (export control on unspecified dual-use items).
+>
+> **42M. Offence to contravene article 42L**
+>
+> (1) Article 34 (offences relating to prohibition in Parts 2, 3, and 4) applies in relation to—
+>
+> - (a) a person who contravenes the prohibition in article 42L as it applies in relation to a person who contravenes a prohibition in Part 2 (export and transfer controls);
+> - (b) a person knowingly concerned in activity prohibited by article 42L as it applies in relation to a person knowingly concerned in activity prohibited by Part 2.
+>
+> (2) Article 41 (application of CEMA in respect of offences) applies in relation to article 42L as it applies in relation to article 8;
+>
+> (3) Article 42 (increase of maximum penalty for prohibited exportation provided for in CEMA) applies in the case of an offence committed in connection with a prohibition or restriction on exportation in article 42L as it applies in the case of an offence committed in connection with a prohibition or restriction on exportation in Part 2.
+>
+> **42N. Exceptions in relation to Northern Ireland: dual-use goods, software, and technology**
+>
+> (1) Article 6 (WMD purposes end-use control supplementing the dual-use Regulation) does not apply in relation to the export or transfer from Northern Ireland to the EU customs territory of dual-use goods, software, or technology not specified in Annex I to the EU dual-use Regulation.
+>
+> (2) Article 12 (transfer by non-electronic means for WMD purposes) does not apply in relation to a person who transfers from Northern Ireland to the EU customs territory by non-electronic means any software or technology to which that article applies if the person knows—
+>
+> - (a) the final destination of the software or technology is the EU customs territory; or
+> - (b) processing or working is to be performed on the software or technology in the EU customs territory.
+>
+> (3) Article 19(1) (end-use control on providing technical assistance from the United Kingdom) does not apply in relation to a person in Northern Ireland who directly or indirectly provides to a person or place in the EU customs territory any technical assistance to which that article applies.
+>
+> **42O. Exception in relation to Northern Ireland: EU goods in transit**
+>
+> (1) Article 8 (transit controls supplementing the dual-use Regulation) does not apply in relation to EU goods that are entering Northern Ireland from the EU customs territory and passing through Northern Ireland to a country or territory other than the United Kingdom.
+>
+> (2) In this article, “**EU goods**” has the same meaning as “**Union goods**” in Article 5(23) of the EU customs Regulation.
+>
+> **42P. Authorisation requirement: Article 22(1) of the EU dual-use Regulation**
+>
+> (1) The authorisation required by Article 22(1) of the EU dual-use Regulation is a licence granted by the Secretary of State.
+>
+> (2) A person may apply to the Secretary of State for a licence.
+>
+> (3) Article 26(6) (conditions of licence) applies in relation to a licence granted in accordance with paragraph (1).
+>
+> **42Q. Record-keeping requirement: Article 22(8) of the EU dual-use Regulation**
+>
+> (1) The documents and records to be kept in accordance with Article 22(8) of the EU dual-use Regulation are the registers or records referred to in article 29(2)(a) to (i).
+>
+> (2) Article 31 (inspection of records) applies in relation to a person who is required under Article 22(8) of the EU dual-use Regulation to keep documents and records as it applies in relation to a person who is required under Article 20 of the dual-use Regulation to keep registers or records.
+>
+> **42R. Offences in relation to Article 22 of the EU dual-use Regulation**
+>
+> Article 35 (offences relating to prohibitions and restrictions in the dual-use Regulation) applies in relation to—
+>
+> - (a) a person who contravenes a prohibition or restriction in Article 22(1) of the EU dual-use Regulation (control on export or transfer of certain dual-use items from Northern Ireland to the EU customs territory) as it applies in relation to a person who contravenes a prohibition or restriction in Article 3(1) of the dual-use Regulation (export control on specified dual-use items);
+> - (b) a person knowingly concerned in an activity prohibited or restricted by Article 22(1) of the EU dual-use Regulation as it applies in relation to a person knowingly concerned in an activity prohibited or restricted by Article 3(1) of the dual-use Regulation;
+> - (c) a person who fails to comply with Article 22(8) or (10) of the EU dual-use Regulation (specific record-keeping requirements) as it applies in relation to a person who fails to comply with Article 20 of the dual-use Regulation (general record-keeping requirement).
+>
+> **Provisions relating to the EU torture Regulation**
+>
+> **42S. Export control in relation to Northern Ireland: leg irons, gang chains, and portable electric shock devices**
+>
+> (1) A person must not, unless the person has a UK licence authorising the act, export from Northern Ireland to the EU customs territory any goods described in—
+>
+> - (a) item 2.1 in Annex II to the EU torture Regulation (electric shock devices worn on the body);
+> - (b) item 2.3 in Annex II to the EU torture Regulation (bar fetters, weighted leg restraints, and gang chains);
+> - (c) item 2.1 in Annex III to the EU torture Regulation (portable electric discharge weapons).
+>
+> (2) The export of leg irons, gang chains, or portable electric shock devices in contravention of this article is prohibited.
+>
+> **42T. Offence to contravene article 42S**
+>
+> (1) Article 34 (offences relating to prohibition in Parts 2, 3, and 4) applies in relation to—
+>
+> - (a) a person who contravenes a prohibition in article 42S as it applies in relation to a person who contravenes a prohibition in Part 2;
+> - (b) a person knowingly concerned in activity prohibited by article 42S as it applies in relation to a person knowingly concerned in activity prohibited by Part 2.
+>
+> (2) Article 41 (application of CEMA in respect of offences) applies in relation to article 42S as it applies in relation to article 8.
+>
+> (3) Article 42 (increase of maximum penalty for prohibited exportation provided for in CEMA) applies in the case of an offence committed in connection with a prohibition or restriction on exportation in article 42S as it applies in the case of an offence committed in connection with a prohibition or restriction on exportation in Part 2.
+>
+> **42U. Exception in relation to Northern Ireland: category A and C goods**
+>
+> Articles 21 (supplying or delivering category A goods) and 23 (supplying or delivering category C goods) do not apply in relation to a person in Northern Ireland carrying out activities prohibited or restricted by those articles if the goods to which those activities relate are—
+>
+> - (a) Category A goods specified in Annex II to the EU torture Regulation; or
+> - (b) Category C goods specified in Annex III to the EU torture Regulation.
+
+.
+
+(29)[^key-da1266a4c3ad4a34a3a65959d30fe673][^key-c136279233babd11952e11abb9777eaa] In article 43 (Use and disclosure of information), in paragraph (1)(b), after “any”, insert “ retained EU law or ”.
+
+(30)[^key-da1266a4c3ad4a34a3a65959d30fe673] Omit article 46.
+
+(31)[^key-51b54709d00b1fe999b1ad1c179ed267] In Schedule 2 (Military goods, software and technology) omit the definition of “Deactivation Regulation” and substitute with “ ‘Deactivation Regulation’ means Commission Implementing Regulation (EU) 2015/2403 establishing common guidelines on deactivation standards and techniques for ensuring that deactivated firearms are rendered irreversibly inoperable;”.
+
+(32)[^key-da1266a4c3ad4a34a3a65959d30fe673][^key-1f21be308b5a4b137bd6196558e8bb06] In Schedule 3 (UK-controlled dual-use goods, software, and technology),—
+
+- (a) for the definition of “Firearm Regulation”, substitute—
+
+  > “**Firearm Regulation**”, in relation to—
+  >
+  > - (a) England and Wales and Scotland, means Regulation (EU) No 258/2012 of the European Parliament and of the Council of 14 March 2012 implementing Article 10 of the United Nations' Protocol against the illicit manufacturing of and trafficking in firearms, their parts and components and ammunition, supplementing the United Nations Convention against Transnational Organised Crime (UN Firearms Protocol), and establishing export authorisation, and import and transit measures for firearms, their parts and components and ammunition;
+  > - (b) Northern Ireland, means Regulation (EU) No 258/2012 of the European Parliament and of the Council of 14 March 2012 implementing Article 10 of the United Nations' Protocol against the illicit manufacturing of and trafficking in firearms, their parts and components and ammunition, supplementing the United Nations Convention against Transnational Organised Crime (UN Firearms Protocol), and establishing export authorisation, and import and transit measures for firearms, their parts and components and ammunition as it has effect by virtue of the Protocol on Ireland/Northern Ireland in the EU withdrawal agreement;
+
+  ; and
+- (b) in the table, in the second row, in the second column, for “ “the customs territory””, substitute “ European Union ”.
+
+### 5. Amendments to Offences Orders[^key-d2871954e951223057981805929e0b62]
+
+(1) In the Export Control (Somalia) Order 2011 [^c23543931] in article 1 (Citation, commencement and interpretation) in paragraph (2) in the definition of “military goods and technology”, for “Common Military List of the European Union” substitute “ for the time being specified in Schedule 2 (Military goods, software and technology) to the Export Control Order 2008 ”[^c23543941] .
+
+(2) In the Export Control (Al-Qaida and Taliban Sanctions) Regulations 2011 [^c23543951] in regulation 5 (Offences supplementing the Taliban Regulation) [^c23543961] in paragraph (1) for “the Common Military List of the European Union” substitute “ for the time being specified in Schedule 2 (Military goods, software and technology) to the Export Control Order 2008 ”.
+
+(3) In the Export Control (Sudan, South Sudan and Central African Republic Sanctions) Regulations 2014 [^c23543971] in regulation 6 (Offences supplementing the Central African Republic Regulation)—
+
+- (a) in paragraph (a)—
+  - (i) omit “listed in the Common Military List of the European Union” and substitute “ for the time being specified in Schedule 2 (Military goods, software and technology) to the Export Control Order 2008 ”; and
+  - (ii) for “included in that list” substitute “ specified ”.
+- (b) in paragraph (b) omit “listed in the Common Military List of the European Union” and substitute “ for the time being specified in Schedule 2 (Military goods, software and technology) to the Export Control Order 2008 ”.
+
+Signed by authority of the Secretary of State for International Trade.
+
+George Hollingbery
+
+Minister of State for Trade Policy
+
+Department for International Trade
+
+*(This note is not part of the Regulations)*
+
+These Regulations are made in exercise of the powers conferred by section 8(1) of the European Union (Withdrawal) Act 2018 (c. 16) and section 1(5) and 2(5) of the Export Control Act 2002 (c. 28). The powers conferred by section 8(1) of the European Union (Withdrawal) Act 2018 are exercised in order to address failures of retained EU law to operate effectively and other deficiencies (in particular under paragraph (a), (c), (d) and (g) of section 8(2) of that Act) arising from the withdrawal of the UK from the European Union.
+
+These Regulations make amendments to legislation in the field of customs and in particular in relation to export and other trade controls on military and dual-use goods (goods which have both a civilian and a military use). Part 2 amends subordinate legislation. The provisions include provisions within secondary legislation which relate to reciprocal arrangements between the UK and the EU or a Member State of the EU and contain EU references which are no longer appropriate. Upon the withdrawal of the United Kingdom from the EU, these reciprocal arrangements will no longer exist.
+
+Regulation 3 amends provisions of the Export of Radioactive Sources (Control) Order 2006 to remove EU references which are no longer appropriate upon withdrawal of the United Kingdom from the EU.
+
+Regulation 4 amends provisions of the Export Control Order 2008. Regulation 4(2) omits various EU related definitions which will have no practical application once the United Kingdom withdraws from the EU. Amendments are also made to remove other EU references from the Export Control Order 2008 which will no longer be appropriate once the United Kingdom has withdrawn from the EU. Regulations 4(12) and 4(13) omit provisions which relate to reciprocal arrangements concerning exceptions for the movement of firearms within the EU. In order that controls provided for by the retained EU law continue to operate effectively, regulation 4(29) makes amendments to ensure that use and disclosure of information provisions will continue to apply to retained EU law as those provisions applied to directly applicable EU provision prior to withdrawal of the United Kingdom from the EU.
+
+Regulation 4(31) comes into force in advance of exit day to ensure a reference to an EU instrument is up to date upon exit day. Regulation 4(31) is made in exercise of the powers conferred by section 1(5) and 2(5) of the Export Control Act 2002.
+
+Regulation 5 amends domestic instruments which make provision for penalties and enforcement in respect of certain restrictive measures or sanctions targeted at Somalia, the Taliban, Sudan and Central African Republic laid down in various EU Regulations which will form part of domestic law after exit day as added to or otherwise modified by or under the European Union (Withdrawal) Act 2018. The domestic instruments contained references in connection with arrangements dependent upon the United Kingdom's membership of the EU namely reference to the Common Military List of the EU. These Regulations mitigate the consequent deficiencies by replacing references to the EU Common Military List with references to Schedule 2 (Military Goods, Software and Technology) to the Export Control Order 2008 to ensure operability and enforcement of the applicable sanctions measures continues.
+
+An impact assessment has not been produced for this instrument as no, or no significant, impact on the private or voluntary sector is foreseen.
+
+## Annotations
+
+[^c23543871]: Marginal citation: [2002 c. 28](https://www.legislation.gov.uk/ukpga/2002/28).
+
+[^c23543881]: Marginal citation: [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16).
+
+[^key-382820889ea12c5f86ced06ac64d31ea]: Commencement: Reg. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^key-ffd9333157f96db634361fef3e938ba7]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^key-a5892add8ab4728aeafb0067dd547c71]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^c23543891]: Marginal citation: [S.I. 2006/1846](https://www.legislation.gov.uk/uksi/2006/1846), amended by [S.I. 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043); there is another amending instrument, but it is not relevant.
+
+[^key-51b54709d00b1fe999b1ad1c179ed267]: Commencement: [Reg. 4(31)](https://www.legislation.gov.uk/uksi/2019/137/regulation/4/31) in force at 1.3.2019, see [reg. 2](https://www.legislation.gov.uk/uksi/2019/137/regulation/2)
+
+[^key-da1266a4c3ad4a34a3a65959d30fe673]: Commencement: Reg. 4(1)-(30)(32) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/137/regulation/1)
+
+[^c23543901]: Marginal citation: [S.I. 2008/3231](https://www.legislation.gov.uk/uksi/2008/3231) as amended.
+
+[^key-81c9884739a82fa2a68e28770d79dffa]: Textual amendment: Word in reg. 4(2)(a)(viii) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Export Control (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1502)](https://www.legislation.gov.uk/uksi/2020/1502), [regs. 2(3)](https://www.legislation.gov.uk/uksi/2020/1502/regulation/2/3), [7(2)(a)](https://www.legislation.gov.uk/uksi/2020/1502/regulation/7/2/a)
+
+[^key-2ab23af340a87a9f93c79d0fcca28505]: Textual amendment: Reg. 4(2)(b)-(d) substituted for reg. 4(2)(b) (31.12.2020 immediately before IP completion day) by [The Export Control (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1502)](https://www.legislation.gov.uk/uksi/2020/1502), [regs. 2(3)](https://www.legislation.gov.uk/uksi/2020/1502/regulation/2/3), [7(2)(b)](https://www.legislation.gov.uk/uksi/2020/1502/regulation/7/2/b)
+
+[^key-fe491f9968b19b1871fdf2372eebd7f8]: Textual amendment: Reg. 4(3) substituted (31.12.2020 immediately before IP completion day) by [The Export Control (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1502)](https://www.legislation.gov.uk/uksi/2020/1502), [regs. 2(3)](https://www.legislation.gov.uk/uksi/2020/1502/regulation/2/3), [7(3)](https://www.legislation.gov.uk/uksi/2020/1502/regulation/7/3)
+
+[^key-e78851c32c086d5c31764a688c5e7626]: Textual amendment: Reg. 4(13) substituted (31.12.2020 immediately before IP completion day) by [The Export Control (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1502)](https://www.legislation.gov.uk/uksi/2020/1502), [regs. 2(3)](https://www.legislation.gov.uk/uksi/2020/1502/regulation/2/3), [7(4)](https://www.legislation.gov.uk/uksi/2020/1502/regulation/7/4)
+
+[^key-0aa94bc0d44b6c9d5ff1aa1807ddd645]: Textual amendment: Reg. 4(15A)(15B) inserted (31.12.2020 immediately before IP completion day) by [The Export Control (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1502)](https://www.legislation.gov.uk/uksi/2020/1502), [regs. 2(3)](https://www.legislation.gov.uk/uksi/2020/1502/regulation/2/3), [7(5)](https://www.legislation.gov.uk/uksi/2020/1502/regulation/7/5)
+
+[^key-0be98c2631df1b4548282f88f8c86dbf]: Textual amendment: Words in reg. 4(19) substituted (31.12.2020 immediately before IP completion day) by [The Export Control (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1502)](https://www.legislation.gov.uk/uksi/2020/1502), [regs. 2(3)](https://www.legislation.gov.uk/uksi/2020/1502/regulation/2/3), [7(6)](https://www.legislation.gov.uk/uksi/2020/1502/regulation/7/6)
+
+[^c23543911]: Marginal citation: [Article 28A](https://www.legislation.gov.uk/uksi/2019/137/article/28A) was added by [S.I. 2012/1910](https://www.legislation.gov.uk/uksi/2012/1910) which also inserted definitions of “defence-related products Directive” and “European military items” in connection with the implementation of Directive 2009/43/EC fo the European Parliament and of the Council of 6 May 2009 simplifying terms and conditions of transfers of defence-related products within the Community.
+
+[^key-9eeeffa1e9f95c8a014cc2ee23b2fcbb]: Textual amendment: Words in reg. 4(21)(a)(i)(aa) substituted (31.12.2020 immediately before IP completion day) by [The Export Control (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1502)](https://www.legislation.gov.uk/uksi/2020/1502), [regs. 2(3)](https://www.legislation.gov.uk/uksi/2020/1502/regulation/2/3), [7(7)](https://www.legislation.gov.uk/uksi/2020/1502/regulation/7/7)
+
+[^key-9ae2083341187d1276dcbc8e35aa0577]: Textual amendment: Words in reg. 4(27) substituted (31.12.2020 immediately before IP completion day) by [The Export Control (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1502)](https://www.legislation.gov.uk/uksi/2020/1502), [regs. 2(3)](https://www.legislation.gov.uk/uksi/2020/1502/regulation/2/3), [7(8)](https://www.legislation.gov.uk/uksi/2020/1502/regulation/7/8)
+
+[^key-5ff9c7d37f93ce1c9a8d4ddd55405209]: Textual amendment: Reg. 4(28A)(28B) inserted (31.12.2020 immediately before IP completion day) by [The Export Control (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1502)](https://www.legislation.gov.uk/uksi/2020/1502), [regs. 2(3)](https://www.legislation.gov.uk/uksi/2020/1502/regulation/2/3), [7(9)](https://www.legislation.gov.uk/uksi/2020/1502/regulation/7/9) (as amended by [S.I. 2020/1510](https://www.legislation.gov.uk/uksi/2020/1510), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1510/regulation/1), [2](https://www.legislation.gov.uk/uksi/2020/1510/regulation/2))
+
+[^key-c136279233babd11952e11abb9777eaa]: Textual amendment: Reg. 4(29) substituted (31.12.2020 immediately before IP completion day) by [The Export Control (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1502)](https://www.legislation.gov.uk/uksi/2020/1502), [regs. 2(3)](https://www.legislation.gov.uk/uksi/2020/1502/regulation/2/3), [7(10)](https://www.legislation.gov.uk/uksi/2020/1502/regulation/7/10)
+
+[^key-1f21be308b5a4b137bd6196558e8bb06]: Textual amendment: Reg. 4(32) substituted (31.12.2020 immediately before IP completion day) by [The Export Control (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1502)](https://www.legislation.gov.uk/uksi/2020/1502), [regs. 2(3)](https://www.legislation.gov.uk/uksi/2020/1502/regulation/2/3), [7(11)](https://www.legislation.gov.uk/uksi/2020/1502/regulation/7/11)
+
+[^key-d2871954e951223057981805929e0b62]: Commencement: Reg. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^c23543931]: Marginal citation: [S.I. 2011/146](https://www.legislation.gov.uk/uksi/2011/146) as amended.
+
+[^c23543941]: Marginal citation: [S.I. 2008/3231](https://www.legislation.gov.uk/uksi/2008/3231). Schedule 2 was substituted by [S.I. 2017/85](https://www.legislation.gov.uk/uksi/2017/85) and subsequently amended by [S.I. 2017/697](https://www.legislation.gov.uk/uksi/2017/697) and [S.I. 2018/165](https://www.legislation.gov.uk/uksi/2018/165). There are other instruments which amend other parts of the Order.
+
+[^c23543951]: Marginal citation: [S.I. 2011/2649](https://www.legislation.gov.uk/uksi/2011/2649) as amended.
+
+[^c23543961]: Marginal citation: Council Regulation (EU) 753/201, concerning restrictive measures directed against certain individuals, groups, undertakings and entities in view of the situation in Afghanistan as it forms part of domestic law on or after exit day by virtue of the European Union (Withdrawal) Act 2018 is amended by provision made under the Act.
+
+[^c23543971]: Marginal citation: [S.I. 2014/3258](https://www.legislation.gov.uk/uksi/2014/3258) as amended.

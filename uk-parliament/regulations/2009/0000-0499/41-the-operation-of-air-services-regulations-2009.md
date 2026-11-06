@@ -1,0 +1,681 @@
+---
+title: The Operation of Air Services ... Regulations 2009
+id: uksi/2009/41
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2009-01-15'
+text_date: '2020-12-31'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2009/41
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2009/41/pdfs/uksiem_20090041_en.pdf
+- http://www.legislation.gov.uk/uksi/2009/41/pdfs/uksi_20090041_en.pdf
+- http://www.legislation.gov.uk/uksi/2009/41/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Operation of Air Services ... Regulations 2009
+
+> Text as at 2020-12-31.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2009 No. 41
+
+Civil Aviation
+
+The Operation of Air Services [^M_F_406f1cd0-5816-46f5-e2d5-0f04b1d66fa0]... Regulations 2009
+
+Made
+
+15th January 2009
+
+Laid before Parliament
+
+19th January 2009
+
+Coming into force
+
+26th January 2009
+
+The Secretary of State is designated for the purposes of section 2(2) of the European Communities Act 1972 [^c19540951] in relation to measures relating to air transport [^c19540961].
+
+In exercise of the powers conferred by that section the Secretary of State makes the following Regulations.
+
+## 1. Citation and commencement
+
+These Regulations may be cited as the Operation of Air Services [^key-490198964adb8d3116e6f2d8755ce818]... Regulations 2009 and come into force on 26th January 2009.
+
+## 1A. Review[^key-bd94e7d96cf79dfaf37a8b1e8e123e38]
+
+(1) The Secretary of State must from time to time—
+
+- (a) carry out a review of regulations 3 to 32,
+- (b) set out the conclusions of the review in a report, and
+- (c) publish the report.
+
+(2) In carrying out the review the Secretary of State must, so far as is reasonable, have regard to how Chapters I to III of the EC Regulation (which is implemented by means of regulations 3 to 32) is implemented in the other member States.
+
+(3) The report must in particular—
+
+- (a) set out the objectives intended to be achieved by the regulatory system established by those regulations,
+- (b) assess the extent to which those objectives are achieved, and
+- (c) assess whether those objectives remain appropriate and, if so, the extent to which they could be achieved with a system that imposes less regulation.
+
+(4) The first report under this regulation must be published before the end of the period of five years beginning with the day on which the Operation of Air Services in the Community (Pricing etc.) Regulations 2013 come into force.
+
+(5) Reports under this regulation are afterwards to be published at intervals not exceeding five years.
+
+## 2. Revocation
+
+The Regulations listed in Schedule 1 are revoked to the extent there specified.
+
+## 3. Interpretation
+
+(1) In these Regulations—
+
+- “**the CAA**” means the Civil Aviation Authority;
+- “**the EC Regulation**” means Regulation [(EC) No 1008/2008](https://www.legislation.gov.uk/european/regulation/2008/1008) of the European Parliament and of the Council of 24th September 2008 on common rules for the operation of air services in the European Union[^M_F_543100a4-da90-4514-abad-7f722b1b2591] [^c19540971];
+- “[^key-71e56307ebe6e70ef00c697a6ada7440]**Official Record**” means a document of that name published on the website of the CAA; and
+- “**United Kingdom national**” has the same meaning as in section 105(1) of the Civil Aviation Act 1982 [^c19540981].
+
+(2) The expressions "UK air carrier"[^key-7505c21846acdd76ff870881730d03a1], “competent licensing authority”, “dry lease agreement”, “operating licence”, “qualifying air carrier”,[^key-5658b7e2ea35d74b4b49f4366bacc484] “**scheduled air service**”, “**traffic right**” and “**wet lease agreement**” have the meanings given by Article 2 of the EC Regulation.
+
+## PART 1 — Operating licences
+
+### 4. Existing operating licences
+
+A licence granted by the CAA under Council Regulation [(EC) 2407/92](https://www.legislation.gov.uk/european/regulation/1992/2407) of 23rd July 1992 on licensing of air carriers [^c19540991] shall, in relation to times on or after 26th January 2009, be deemed for all purposes (including for the purposes of any enactment) to be an operating licence granted by the CAA under the EC Regulation.
+
+### 5. Competent licensing authority in relation to operating licences
+
+(1)[^key-26b434f53329421cad7fcb33b29dd615] The CAA is the competent licensing authority for the United Kingdom for the purposes of Articles 3 to 11 and 14[^key-4ba0fe5247bc2227cecc82eaa5e7fdd8] of the EC Regulation.
+
+(2)[^key-d3fb6d3971edb607da62138462890ab9] The CAA must publish annually in its Official Record a list of its decisions to grant, suspend or revoke operating licences.
+
+### 6. Proof of good repute etc.
+
+For the purpose of ensuring that an applicant for or holder of an operating licence granted by the CAA complies with Article 4(i) and 7 of the EC Regulation, the CAA may require proof that the person who continuously and effectively manages that undertaking–
+
+- (a) is not an undischarged bankrupt, and
+- (b) is otherwise of good repute.
+
+### 7. Suspension and revocation
+
+(1) The CAA may revoke or suspend an operating licence that it has granted.
+
+(2) The CAA may exercise its powers under paragraph (1) only after notifying the licence holder of its intention to do so and after due consideration of the case and any representations made by the licence holder.
+
+### 8. Date of revocation or suspension of an operating licence
+
+(1)[^key-868dd6f1c66642e33f2d317ef8de44e6] Where the CAA revokes or suspends an operating licence that it has granted on the application of the holder, unless otherwise specified by the CAA the revocation or suspension has effect on and from the day after the date on which the holder is notified of the decision.
+
+(2) In all other cases a revocation or suspension does not take effect before the expiry of the 14-day period specified in paragraph 3 of Schedule 2.
+
+(3) If an appeal in accordance with regulation 9(1) is brought within the 14-day period specified in paragraph 3 of Schedule 2, the revocation or suspension does not take effect before the determination or abandonment of the appeal.
+
+### 9. Appeal to the Secretary of State
+
+(1) Where the CAA–
+
+- (a) refuses to grant an operating licence, or
+- (b) decides to revoke or suspend a licence that it has granted,
+
+the applicant for or the holder of the licence may appeal to the Secretary of State.
+
+(2)[^key-004cd39fed298c9d8060bf8723f03341] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3)[^key-004cd39fed298c9d8060bf8723f03341] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) The provisions of Schedule 2 apply to any appeal.
+
+### 10. Restriction on carriage of passengers by an air carrier
+
+(1) Where this paragraph applies a UK air carrier[^key-9b0f9cbe976af78fb97eb42d4ce03ed5] must not carry by air on a flight a passenger for remuneration or hire.
+
+(2) Paragraph (1) applies where a person has made accommodation for carriage on that flight available to that passenger in circumstances where that person is obliged to but does not hold a licence required by the Civil Aviation (Air Travel Organisers' Licensing) Regulations 1995 [^c19541001].
+
+### 11. Offences relating to operating licences
+
+(1) It is an offence for a person knowingly or recklessly to carry by air passengers, mail or cargo for remuneration or hire without an appropriate operating licence granted by the CAA in circumstances where such a licence is required by the EC Regulation.
+
+(2) For the purposes of determining whether an offence has been committed under paragraph (1), it is immaterial that such carriage occurred outside the United Kingdom if when it occurred the person—
+
+- (a) was a United Kingdom national,
+- (b) was a body incorporated under the law of any part of the United Kingdom, or
+- (c) was a person (other than a United Kingdom national or such a body) maintaining a place of business in the United Kingdom.
+
+### 12.
+
+A UK air carrier[^key-775b6c093763df42b79d3bd05f41df8b] is guilty of an offence if it knowingly or recklessly carries by air any passenger in breach of regulation 10.
+
+### 13.
+
+It is an offence for a person knowingly or recklessly to provide information that is false in a material particular, for the purpose of—
+
+- (a) obtaining an operating licence for that person,
+- (b) procuring an operating licence for another person, or
+- (c) maintaining an operating licence.
+
+## PART 2 — Leased aircraft
+
+### 14. Registration of aircraft[^key-c337ebe57c2bb4ffbbd3bde0e0d8dc4a]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 15. Approval for and restriction on use of leased aircraft
+
+(1)[^key-6d0dfdd6ff68f1932ba2d5793d84e413] The Secretary of State is the competent licensing authority for the purposes of granting an approval under Article 13(3) of the EC Regulation, for determining whether one of the conditions set out in Article 13(3)(b) is fulfilled and for the purposes of Article 13(4).
+
+(2)[^key-8a8493fb612ff0f8df622f60505595bd] The provisions of Schedule 3 apply in relation to an appeal against a decision of the Secretary of State made pursuant to paragraph (1) as to whether one of the conditions in Article 13(3)(b) of the EC Regulation is fulfilled.
+
+### 16.
+
+(1)[^key-ec124ddddf338bb56735f77935a30a9b] The CAA is the competent licensing authority for the purposes of granting safety approvals in accordance with Article 13(2) and for the purposes of Article 13(3)(a) of the EC Regulation.
+
+(2)[^key-7e349a41530c56caddaefc0f355cb33f] The provisions of Schedule 4 apply to the conduct and procedure of the CAA for the purposes of exercising the functions conferred on it by paragraph (1).
+
+### 17.
+
+(1) Save as provided in paragraph (3), where this paragraph applies the CAA must, subject to any conditions it thinks fit, issue an approval to an air carrier that holds an operating licence that it has granted.
+
+(2) Paragraph (1) applies where such an air carrier intends to enter into—
+
+- (a) a dry lease agreement as lessor,
+- (b) a dry lease agreement as lessee in circumstances where the CAA is satisfied that the aircraft may be used safely, or
+- (c) a wet lease agreement in respect of an aircraft registered in the United Kingdom or[^key-39fc7d35b64454fea8b0d49555d19e76] the European Union[^M_F_eb32220a-9017-4f47-f82b-0dbef007fccc] as lessee with a UK air carrier or a[^key-b16857bd2c40e56a4954503445b2f9fc] Community air carrier.
+
+(2A)[^key-748b0cb2aff352d2a233c9b485e9d49f] In paragraph (2)(c), “**Community air carrier**” has the meaning given by Article 2(11) of Regulation [(EC) 1008/2008](https://www.legislation.gov.uk/european/regulation/2008/1008) of the European Parliament and of the Council of 24th September 2008 on common rules for the operation of air services in the Community, as it has effect in EU law.
+
+(3) No approval is required under paragraph (1) where the CAA is required to approve the use of an aircraft pursuant to Annex II of[^key-04c439715f3a1d6dfcf827585bc8ea10] [Commission Regulation (EU) No 965/2012](https://www.legislation.gov.uk/european/regulation/2012/0965) of 5th October 2012 laying down technical requirements and administrative procedures related to air operations pursuant to Regulation [(EC) No 216/2008](https://www.legislation.gov.uk/european/regulation/2008/0216) of the European Parliament and of the Council.
+
+### 18.
+
+(1) Subject to paragraph (2), an operating licence is not valid for the purpose of enabling an air carrier that holds an operating licence granted by the CAA to use an aircraft that is not registered in the United Kingdom[^key-3560e49e0b0678b788a4dbadeed2a438].
+
+(2) Paragraph (1) does not apply where—
+
+- (a) a UK air carrier[^key-b9f15f73645a69e4ae872958f75bcd61] has obtained prior approval for the use of an aircraft pursuant to a dry lease agreement or a wet lease agreement in accordance with regulation 17 or Article 13 of the EC Regulation, or
+- (b) by virtue of regulation 17(3) an approval is not required.
+
+### 19. Offences relating to leased aircraft
+
+An air carrier which without reasonable excuse fails to obtain the necessary approval for the use of a leased aircraft is guilty of an offence.
+
+### 20.
+
+An air carrier which without reasonable excuse fails to comply with conditions of any necessary approval is guilty of an offence.
+
+### 21.
+
+For the purposes of regulations 19 and 20 the necessary approval is the approval specified in regulation 17 or in Article 13(3) of the EC Regulation.
+
+## PART 3 — Access to routes
+
+### 22. Competent authority in relation to access to intra-Community air services[^key-0c003f834eacc8256e6efa91d2f19f45]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 23. Secretary of State's duty
+
+(1) The obligation of the Secretary of State, when taking any decision under Article 16 or 17[^key-243ef37eedd88d94e9f4009450ccacd6] of the EC Regulation, to comply with—
+
+- (a) the provisions of the applicable Article, and
+- (b) any enforceable [^key-230b98572c3e37f79842bc1bb376d523]... obligation applicable to the imposition of a public service obligation concerning a scheduled air service,
+
+is a duty owed to qualifying air carriers[^key-7de002b2130e309dddc0d9f699990664].
+
+(2) A breach of that duty shall be actionable by any qualifying air carrier[^key-9710ad273b5d49d536de35e1ed2dc3c0] which, in consequence, suffers, or risks suffering, loss or damage.
+
+(3) Any proceedings under this regulation must be brought in the High Court in England, Wales or Northern Ireland, or before the Court of Session in Scotland.
+
+(4) Proceedings under this regulation must be brought promptly and in any event within 3 months from the date when grounds for the bringing of proceedings first arose unless the Court considers that there is good reason for extending the period within which proceedings may be brought.
+
+(5) Subject to paragraph (6), but otherwise without prejudice to any other powers of the Court, in proceedings brought under this regulation the Court may—
+
+- (a) by interim order suspend the implementation of any decision taken under Article 16 or 17[^key-1ea66b248937c2863178c57bb5f7b480]; and
+- (b) if satisfied that a decision taken by the Secretary of State is in breach of the duty under paragraph (1) do either or both of the following—
+  - (i) order the setting aside of that decision, or
+  - (ii) award damages to an air carrier which has suffered loss or damage as a consequence of the breach.
+
+(6) If the breach of the duty under paragraph (1) occurred in relation to an existing contract to operate services on a route subject to a public service obligation, the Court may only award damages in respect of that breach.
+
+### 24. Restriction on the operation of air services
+
+Where a public service obligation has been imposed on a route under Article 16(1) of the EC Regulation, a qualifying air carrier[^key-d0c00cf382fc43a0a5e76e15d2cd7c86] may only operate a scheduled air service on that route—
+
+- (a) in accordance with the obligation, and
+- (b) in a case where access to that route has been limited under Article 16(9), if it has been selected to operate that route.
+
+### 25. Offences
+
+A qualifying air carrier[^key-6c9056f75ad637f3277bb96b1c7f7977] is guilty of an offence if it knowingly or recklessly exercises traffic rights—
+
+- (a) on routes within the United Kingdom, between the United Kingdom and Gibraltar [^key-06dc4be1a25671887b957730964e33ea]... in breach of regulation 24;
+- (b)[^key-e2be8c9b8ec518f6141e2b8a3f83aee2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART 4 — Provision of information
+
+### 26. Requirement to provide information[^key-c575d9df2cfd10003f838e0203130a60]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 27. Offences[^key-9bbda2d1feb867c8a7028ea95a0d6d72]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART 5 — Penalties etc.
+
+### 28. Penalties
+
+A person guilty of an offence under these Regulations is liable—
+
+- (a) on summary conviction, to a fine not exceeding the statutory maximum, and
+- (b) on conviction on indictment, to a fine or to imprisonment for a term not exceeding two years or to both.
+
+### 29. Offences by body corporate or Scottish partnership
+
+(1) Where an offence under these Regulations has been committed by a body corporate and is proved to have been committed with the consent or connivance of or to be attributable to any neglect on the part of any director, manager, secretary or other similar officer of the body corporate or any person purporting to act in any such capacity, that officer or person as well as the body corporate is guilty of that offence and is liable to be proceeded against and punished accordingly.
+
+(2) Where the affairs of a body corporate are managed by its members, paragraph (1) applies in relation to the acts and defaults of a member in connection with that member's functions of management as if that member were a director of the body.
+
+(3) Where a Scottish partnership is guilty of an offence under these Regulations and that offence is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, a partner, that partner as well as the partnership is guilty of that offence and is liable to be proceeded against and punished accordingly.
+
+### 30. Proceedings in Scotland
+
+(1) Subject to paragraph (2), summary proceedings for an offence under these Regulations may be commenced in Scotland within a period of 6 months from the date on which evidence sufficient in the opinion of the procurator fiscal to warrant proceedings came to his knowledge.
+
+(2) No such proceedings may be commenced by virtue of this regulation more than 3 years after the commission of the offence.
+
+(3) For the purposes of this regulation, a certificate signed by, or on behalf of, the procurator fiscal and stating the date on which evidence sufficient in the procurator fiscal's opinion to warrant the proceedings came to the knowledge of the procurator fiscal is conclusive evidence of that fact.
+
+(4) A certificate stating that matter and purporting to be so signed is deemed to be so signed unless the contrary is proved.
+
+(5) Subsection (3) of section 136 of the Criminal Procedure (Scotland) Act 1995 [^c19541031] (date of commencement of proceedings) applies for the purposes of this regulation as it applies for the purposes of that section.
+
+### 31. Power to direct that an aircraft must not fly
+
+(1) Where this paragraph applies the CAA may—
+
+- (a) direct the person appearing to it to be in command of an aircraft not to permit the aircraft to take off until it has informed that person that the direction is cancelled,
+- (b) whether or not it has given such a direction, detain the aircraft until it is satisfied that the aircraft will not take off.
+
+(2) Paragraph (1) applies where the CAA has reason to believe that an aircraft is intended to be used by—
+
+- (a) a person without an appropriate operating licence in circumstances where such a licence is required, or
+- (b) an air carrier in breach of the restrictions set out in regulation 10 or 18.
+
+### 32.
+
+It is an offence for a person, without reasonable excuse, to fail to comply with a direction given under regulation 31.
+
+## PART 6 — Consequential amendments
+
+### 33. The Civil Aviation Act 1982
+
+In each of sections 17(1)(c), 64(2)(d) and 84(1)(a) of the Civil Aviation Act 1982 [^c19541041] for “the Community licensing Regulation” substitute “ the operaration of the Community Regulations ”.
+
+### 34.
+
+In section 69A of that Act—
+
+- (a) in subsection (2)(d) for “the Community access Regulation” substitute “ the Operation of Air Services in the Community Regulation ”;
+- (b) in subsection (3) for “articles 3 to 6 of the Community access Regulation” substitute “ article 16 of the Operation of Air Services in the Community Regulation ”;
+- (c) in subsection (8) —
+  - (i) the definition of “the Community access Regulation” is omitted;
+  - (ii) in the definition of “Community air carrier” for “the Community access Regulation” substitute “ the Operation of Air Services in the Community Regulation ”; and
+  - (iii) in the definition of “operating licence” for “Community licensing Regulation” substitute “ the Operation of Air Services in the Community Regulation ”.
+
+### 35.
+
+In section 105(1) of that Act—
+
+- (a) the definition of “the Community licensing Regulation” is omitted; and
+- (b) after the definition of “modifications” there is inserted “ “**the Operation of Air Services in the Community Regulation**” means Regulation [(EC) No 1008/2008](https://www.legislation.gov.uk/european/regulation/2008/1008) of the European Parliament and of the Council of 24th<sup></sup>September 2008 on common rules for the operation of air services in the Community; ”.
+
+### 36. The Civil Aviation Authority Regulations 1991[^c19541051]
+
+In regulation 3(1) for the definition of “operating licence” substitute—
+
+> “**operating licence**” means an operating licence granted by the CAA under Regulation [(EC) No 1008/2008](https://www.legislation.gov.uk/european/regulation/2008/1008) of the European Parliament and of the Council of 24th September 2008 on common rules for the operation of air services in the Community [^c19541061];
+
+.
+
+### 37. The Air Navigation Order 2005[^M_F_a4c325c3-4137-47f4-a2ab-2ca9093c12fe]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Signed by authority of the Secretary of State
+
+Paul Clark
+
+Parliamentary Under Secretary of State
+
+Department for Transport
+
+## SCHEDULE 1 — Revocations
+
+Regulation 2
+
+| *SI number* | *Title* | *Extent of revocation* |
+| --- | --- | --- |
+| 1992/2992 | The Licensing of Air Carriers Regulations 1992 | The whole instrument |
+| 1992/2993 | The Access for Community Air Carriers to Intra-Community Air Routes Regulations 1992 | The whole instrument |
+| 1992/2994 | The Air Fares Regulations 1992 | The whole instrument |
+| 1993/100 | The Air Fares (Amendment) Regulations 1993 | The whole instrument |
+| 1993/101 | The Licensing of Air Carriers (Amendment) Regulations 1993 | The whole instrument |
+| 1993/3039 | The Licensing of Air Carriers (Second Amendment and Other Provisions) Regulations 1993 | The whole instrument |
+| 1993/3040 | The Access for Community Air Carriers to Intra-Community Air Routes (Amendment and Other Provisions) Regulations 1993 | Regulations 2 and 3 |
+| 1993/3041 | The Air Fares (Second Amendment) Regulations 1993 | The whole instrument |
+| 1994/1731 | The Access for Community Air Carriers to Intra-Community Air Routes (Second Amendment and Other Provisions) Regulations 1994 | Regulations 2 and 3 |
+| 1994/1732 | The Licensing of Air Carriers (Third Amendment and Other Provisions) Regulations 1994 | The whole instrument |
+| 1994/1735 | The Air Fares (Second Amendment) Regulations 1994 | The whole instrument |
+| 2004/1256 | The EC/Swiss Air Transport Agreement (Consequential Amendments) Regulation 2004 | Regulations 2(b), 3, 4, 5, 6 and 10 |
+
+## SCHEDULE 2 — Appeal to the Secretary of State
+
+Regulation 9
+
+**1.**[^key-913d1ddb582b9929c37b776b9cec81a3] When the CAA provides to a person having a right of appeal written notification of its decision to refuse, revoke or suspend an operating licence, the notification must specify the date on which the decision takes effect.
+
+**2.** An appeal to the Secretary of State must—
+
+- (a) be made by written notice signed by or on behalf of the appellant,
+- (b) clearly identify the case to which it relates,
+- (c) state the grounds on which the appeal is based, and
+- (d) state the arguments on which the appellant relies.
+
+**3.** The appellant must serve a notice of appeal on the Secretary of State and the CAA within 14 days after the date on which the appellant was notified of the CAA's decision.
+
+**4.** Within 14 days after receiving notice of an appeal, the CAA must—
+
+- (a) serve on the Secretary of State any submission it wishes to make in connection with the appeal and may include in it an amplification and explanation of the reasons for its decision, and
+- (b) serve a copy of any such submission on the appellant.
+
+**5.** Within 14 days after the expiry of that period the appellant—
+
+- (a) may serve on the Secretary of State a reply to any submission made by the CAA under paragraph 4, and
+- (b) must serve a copy of any such reply on the CAA.
+
+**6.** Before deciding an appeal the Secretary of State may ask the appellant or the CAA any question the answer to which appears to the Secretary of State necessary to enable the determination of the appeal. The Secretary of State must give the appellant and the CAA an opportunity to reply to any such answer.
+
+**7.** No person may submit to the Secretary of State evidence that was not before the CAA when it decided the case.
+
+**8.** The Secretary of State may uphold the decision of the CAA or direct it to reverse or vary its decision.
+
+**9.** The Secretary of State must notify the CAA and the appellant of the Secretary of State's decision and of the reasons for it. Where as a consequence the CAA is required to grant or revoke an operating licence the CAA must take the steps necessary to cause the decision to be published in its Official Record[^key-eede8f5d43a05c92ca1c039585a9f043].
+
+**10.** An appeal to the Secretary of State does not preclude consultations with the competent authorities of any country or territory outside the United Kingdom for the purposes of section 6(2)(a) to (d) of the Civil Aviation Act 1982 [^c19541091] (Secretary of State's decision in national interest, etc.) even though the consultation may relate to matters affecting the appeal.
+
+**11.** Subject to paragraph 12, the failure of any person to serve any document, or copy of a document, or to provide information in the time provided for in this Schedule or any other procedural irregularity does not invalidate the decision of the Secretary of State. The Secretary of State may, and if it is considered that any person may have been prejudiced by such an irregularity, must take such steps as are thought fit before deciding the appeal to cure the irregularity.
+
+**12.** Paragraph 11 does not apply where an appellant has failed to serve a notice of appeal within the period set out in paragraph 3.
+
+## SCHEDULE 3 — Appeal against Secretary of State decisions under regulation 15[^key-bfdbf4ffebf5bca9f111d326c5df34f1]
+
+Regulation 15
+
+**1.** Subject to paragraphs 3 and 4, an applicant may appeal to a county court from any determination of the Secretary of State under regulation 15 as to whether one of the conditions set out in Article 13(3)(b) of the EU Regulation is fulfilled.
+
+**2.** If the court is satisfied that on the evidence submitted to the Secretary of State, the Secretary of State’s determination was wrong, the court may reverse the Secretary of State’s determination and the Secretary of State must give effect to the court’s determination.
+
+**3.** If the appellant resides or has a registered or principal office in Scotland the appeal may be made to the sheriff court within whose sheriffdom the appellant resides or, as the case may be, has a registered or principal office and the appeal must be brought within 21 days from the date of the Secretary of State’s determination, or within such further period as the sheriff may allow.
+
+**4.** If the appellant resides or has a registered or principal office in Northern Ireland the appeal may be made to the county court held under the County Courts (Northern Ireland) Order 1980 for the division in which the appellant resides or, as the case may be, has a registered or principal office.
+
+**5.** For the purposes of any provision relating to the time within which an appeal may be brought, the Secretary of State’s determination is deemed to have been taken on the date on which the Secretary of State furnished a statement of the reasons for the determination to the applicant for an approval for operation of an aircraft under a wet lease agreement.
+
+## SCHEDULE 4 — Conduct and procedure of the CAA for purposes of regulation 16
+
+Regulation 16
+
+**1.** (1) In this Schedule—
+
+- “CAA Member” means a person appointed under section 2 of the Civil Aviation Act 1982 to be a member of the CAA;
+- “electronic communication” means a communication transmitted (whether from one person to another, from one device to another or from a person to a device or vice versa) by means of an electronic communications network (within the meaning set out in section 32(1) of the Communications Act 2003);
+- “equivalent safety decision” means a decision of the CAA as to whether the condition in Article 13(3)(a) of the EC Regulation is satisfied;
+- “hearing” means a hearing at which oral evidence or argument may be heard and “to hear” is construed accordingly;
+- “lease approval” means an approval—
+  - (a) under regulation 17; or
+  - (b) under ARO.OPS.110 of Annex II of[^key-0d4528a0312178e6ffb9af9fd5c5a2f1] [Commission Regulation (EU) No 965/2012](https://www.legislation.gov.uk/european/regulation/2012/0965) of 5th October 2012 laying down technical requirements and administrative procedures related to air operations pursuant to Regulation [(EC) No 216/2008](https://www.legislation.gov.uk/european/regulation/2008/0216) of the European Parliament and of the Council.
+
+(2) Any period of time specified in this Schedule by reference to days—
+
+- (a) where such period is expressed to begin after a particular date, is to begin on the first day after that date, and is inclusive of the last day unless that day falls on a day which is not a business day, in which case the period runs to the next business day; and
+- (b) where such period is expressed to run to or expire before a particular date or event, the period is to be calculated to expire on the last business day before the particular date or the date of that event.
+
+(3) A business day is a day other than a Saturday, a Sunday, Christmas Day, Good Friday or a day which is a bank holiday in any part of the United Kingdom under the Banking and Financial Dealings Act 1971.
+
+**2.** A notice or other document required to be served by the CAA under this Schedule must be served in accordance with paragraph 3.
+
+**3.** (1) A notice or other document is served on a person in accordance with this paragraph if it is set out in writing and—
+
+- (a) is delivered personally to a person specified in sub-paragraph (2); or
+- (b) is delivered by posting or transmitting the notice or document by means of electronic communication to, or leaving it at, an address for service set out in sub-paragraph (3) appropriate to the method of communication addressed to the person specified in sub-paragraph (2).
+
+(2) The person to whom the notice or document should be addressed or delivered is—
+
+- (a) for an individual, that person;
+- (b) for a body corporate, a director, secretary, chief execute, treasurer, manager or other similar officer of the body corporate;
+- (c) for a limited liability partnership, any designated member as defined by section 18 of the Limited Liability Partnerships Act 2000;
+- (d) for a partnership, a partner or any person having control or management of the business;
+- (e) for an unincorporated body or association, the proprietor or a person concerned in the management or control of the body or association.
+
+(3) Any notice or document may be sent to one of the following addresses as appropriate—
+
+- (a) in the case of an individual, that person’s usual or last known place of business, employment or residence;
+- (b) in the case of a body corporate, its principal or registered office or its principal place of business;
+- (c) in the case of a limited liability partnership, the address of its principal or registered office;
+- (d) in the case of a partnership or an unincorporated body or association, its principal office or principal place of business;
+- (e) in any case, an electronic address which the person on whom the notice or document is to be served has held out as an address at which that person can be contacted.
+
+(4) An “electronic address” includes a fax number and an email address.
+
+**4.** A decision or proposal to grant, refuse to grant, revoke, suspend or vary a lease approval or an equivalent safety decision may be made on behalf of the CAA by a CAA employee unless paragraph 7 applies.
+
+**5.** If a CAA employee—
+
+- (a) refuses an application for a lease approval,
+- (b) grants an approval but in terms other than those requested by the applicant, or
+- (c) makes an equivalent safety decision against the applicant,
+
+the CAA must serve on the applicant a notice stating the reasons for the decision, and the applicant may within 14 days after the date of service of that notice request that the case be reviewed by CAA Members.
+
+**6.** If a CAA employee proposes to revoke, suspend or vary a lease approval, the CAA must serve on the approval holder notice of the proposal together with the reasons for it, and the approval holder may within 14 days after the date of service of that notice, serve on the CAA a request that the case be decided by CAA Members.
+
+**7.** Where a request for a decision by the CAA Members has been served on the CAA under paragraph 5 or 6, the decision must be made by at least two CAA Members who were not involved in the original decision or proposal made by the CAA employee.
+
+**8.** Before making a decision the CAA Members must consider—
+
+- (a) any brief supplied by the CAA employee responsible for the proposal or decision; and
+- (b) any representations by the applicant or approval holder, served on the CAA Members within 21 days after the date of service of the notice under paragraphs 5 or 6 or such additional period as the CAA Members may determine.
+
+**9.** Within 21 days after the date of service of the notice under paragraphs 5 or 6 the applicant or approval holder may request a hearing.
+
+**10.** If the applicant or the approval holder has requested a hearing under paragraph 9, the CAA Members must before making a decision, conduct a hearing and consider any representations made or evidence submitted at such a hearing.
+
+**11.** (1) All hearings must be in public except—
+
+- (a) where the CAA is satisfied that a private hearing is required—
+  - (i) in the interests of morals, public order or national security in a democratic society,
+  - (ii) in the interests of juveniles or the protection of the private life of the parties, or
+  - (iii) to the extent strictly necessary in the opinion of the CAA in special circumstances if publicity would prejudice the interests of justice; or
+- (b) where the applicant or the approval holder has requested in writing that the hearing be in private and the CAA is satisfied that there is no important public interest consideration that calls for the public to be present.
+
+(2) The CAA may decide under sub-paragraph (1) that part only of the hearing is to be in private or that information about the proceedings before the CAA, the names and identifying characteristics of persons concerned in the proceedings or specified evidence given in the proceedings must not be made public or disclosed to a party or parties.
+
+(3) The following persons are entitled to attend a hearing, whether or not it is in private—
+
+- (a) a member of the Administrative Justice and Tribunals Council or of the Scottish Committee of that Council; and
+- (b) any person whom the CAA, with the consent of the applicant or the approval holder permits to attend the hearing.
+
+**12.** (1) The CAA must serve on all persons having a right to be heard and all person whom the CAA proposes to hear at least 14 days’ notice of the date, time and place of the hearing.
+
+(2) The notice must clearly identify the matter to which it relates.
+
+(3) A similar notice must be published not less than 7 days before the date of the hearing on the CAA’s website.
+
+(4) On the day of a hearing, a similar notice must be posted in a visible and accessible place at the venue where the hearing is scheduled to take place.
+
+**13.** The applicant or approval holder and the CAA employee who made the decision or proposal to be reviewed have a right to be heard at the hearing.
+
+**14.** At the hearing every person with a right to be heard may appear in person or be represented by any other person whom they have authorised to represent them and may produce oral and written evidence and the person with a right to be heard or their representative may examine any other person being heard and any witness produced by that person.
+
+**15.** The CAA Members conducting a hearing may sit with such technical assessors to advise them as they may appoint, but the CAA Members must not appoint as an assessor any person who participated in the decision or proposal or the development of any notice or decision which is to be the subject of the hearing.
+
+**16.** When the CAA makes a decision it must—
+
+- (a) serve notice of the decision and a statement of its reasons for the decision on the applicant or approval holder; and
+- (b) publish the decision and a statement of its reasons for the decision.
+
+**17.** Paragraphs 5 and 6 do not apply where the CAA refuses to grant an approval or grants an approval in terms other than those requested by the applicant or proposes to vary, suspend or revoke an approval pursuant to a direction given by the Secretary of State under section 6 of the Civil Aviation Act 1982 (Secretary of State’s directions in national interest, etc.).
+
+*(This note is not part of the Regulations)*
+
+**1.** These Regulations make provision for implementing Chapters I to III of Regulation [(EC) No 1008/2008](https://www.legislation.gov.uk/european/regulation/2008/1008) of the European Parliament and of the Council of 24th September 2008 on common rules for the operation of air services in the Community (OJ L 293, 31.10.08, p. 3).
+
+**2.** Regulations 5, 14, 15 and 16, and 23 specify the competent authority in relation to operating licences, aircraft leasing and access to intra-Community air services respectively.
+
+**3.** In relation to operating licences provision is made for—
+
+- (a) the provision by an applicant for an operating licence of proof that he is of good repute: *regulation 6;*
+- (b) the power of the CAA to revoke or suspend an operating licence, the date on which a decision to revoke or suspend a licence has effect and the right of appeal: *regulations 7 to 9;*
+- (c) the restriction on an air carrier's ability to carry passengers in certain circumstances: *regulation 10;* and
+- (d) enforcement measures where the CAA believes that an aircraft may be flown by a person without an operating licence or in breach of the restriction in regulation 10: *regulation 31.*
+
+**4.** In relation to leased aircraft provision is made for-
+
+- (a) publication by the CAA of the Secretary of State's decision on whether an air carrier licensed by the CAA may operate aircraft registered in the UK or in another member State: *regulation 14;* and
+- (b) the approvals necessary for the operation of leased aircraft and use of an aircraft that is not registered in accordance with the Secretary of State's decision: *regulations 17 and 18*.
+
+**5.** Regulations 11 to 13 and 19 to 21 respectively provide for offences relating to operating licences and aircraft leases.
+
+**6.** In relation to access to intra-Community air services provision is made for—
+
+- (a) the enforcement action that may be taken in respect of a decision by the Secretary of State relating to a public service obligation: *regulation 23;*
+- (b) restrictions on the right of an air carrier to operate on certain routes: *regulation 24*; and
+- (c) offences relating to the operation of air services without regard to the existence of public service obligations, traffic distribution rules and restrictions on traffic rights: *regulation 25*.
+
+**7.** Regulations 26 and 27 set out requirements relating to the provision of information to the Secretary of State by an air carrier licensed by the CAA.
+
+**8.** Regulations 28 to 30 set out the penalties that apply in relation to the offences in regulations 11 to 13 and 19 to 21, and regulations 31 and 32 make provision for the detention of aircraft in certain circumstances.
+
+**9.** In regulations 33 to 37 the Civil Aviation Act 1982, the Civil Aviation Authority Regulations 1991 and the Air Navigation Order 2005 are amended so as to refer to the EC Regulation.
+
+**10.** Schedule 1 lists the regulations revoked by these regulations and Schedule 2 sets out the appeal process in relation to decisions made by the CAA.
+
+## Annotations
+
+[^M_F_406f1cd0-5816-46f5-e2d5-0f04b1d66fa0]: Textual amendment: Words in title omitted (31.12.2020) by virtue of [The Operation of Air Services (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1392)](https://www.legislation.gov.uk/uksi/2018/1392), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1392/regulation/1/2), [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2018/1392/schedule/1/paragraph/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c19540951]: Marginal citation: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68). Section 2(2) has been amended by section 27 of the [Legislative and Regulatory Reform Act 2006 (c. 51)](https://www.legislation.gov.uk/ukpga/2006/51).
+
+[^c19540961]: Marginal citation: [S.I. 1993/2661](https://www.legislation.gov.uk/uksi/1993/2661).
+
+[^key-490198964adb8d3116e6f2d8755ce818]: Textual amendment: Words in [reg. 1](https://www.legislation.gov.uk/uksi/2009/41/regulation/1) omitted (31.12.2020) by virtue of [The Operation of Air Services (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1392)](https://www.legislation.gov.uk/uksi/2018/1392), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1392/regulation/1/2), [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2018/1392/schedule/1/paragraph/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-bd94e7d96cf79dfaf37a8b1e8e123e38]: Textual amendment: [Reg. 1A](https://www.legislation.gov.uk/uksi/2009/41/regulation/1A) inserted (6.4.2013) by [The Operation of Air Services in the Community (Pricing etc.) Regulations 2013 (S.I. 2013/486)](https://www.legislation.gov.uk/uksi/2013/486), [regs. 1](https://www.legislation.gov.uk/uksi/2013/486/regulation/1), [37(2)](https://www.legislation.gov.uk/uksi/2013/486/regulation/37/2)
+
+[^M_F_543100a4-da90-4514-abad-7f722b1b2591]: Textual amendment: Words in Regulations substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3-6](https://www.legislation.gov.uk/uksi/2011/1043/article/3)
+
+[^c19540971]: Marginal citation: OJ L 293, 31.10.08, p. 3.
+
+[^key-71e56307ebe6e70ef00c697a6ada7440]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2009/41/regulation/3/1) inserted (31.12.2020) by [The Operation of Air Services (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1392)](https://www.legislation.gov.uk/uksi/2018/1392), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1392/regulation/1/2), [Sch. 1 para. 3(a)](https://www.legislation.gov.uk/uksi/2018/1392/schedule/1/paragraph/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c19540981]: Marginal citation: [1982 c.16](https://www.legislation.gov.uk/ukpga/1982/16). Section 105(1) has been amended by [S.I. 1986/948](https://www.legislation.gov.uk/uksi/1986/948) and by virtue of section 2(3) of the [British Overseas Territories Act 2002 (c. 8)](https://www.legislation.gov.uk/ukpga/2002/8).
+
+[^key-7505c21846acdd76ff870881730d03a1]: Textual amendment: Words in [reg. 3(2)](https://www.legislation.gov.uk/uksi/2009/41/regulation/3/2) substituted (31.12.2020) by [The Operation of Air Services (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1392)](https://www.legislation.gov.uk/uksi/2018/1392), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1392/regulation/1/2), [Sch. 1 para. 3(b)(i)](https://www.legislation.gov.uk/uksi/2018/1392/schedule/1/paragraph/3/b/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-5658b7e2ea35d74b4b49f4366bacc484]: Textual amendment: Words in [reg. 3(2)](https://www.legislation.gov.uk/uksi/2009/41/regulation/3/2) inserted (31.12.2020) by [The Operation of Air Services (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1392)](https://www.legislation.gov.uk/uksi/2018/1392), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1392/regulation/1/2), [Sch. 1 para. 3(b)(ii)](https://www.legislation.gov.uk/uksi/2018/1392/schedule/1/paragraph/3/b/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c19540991]: Marginal citation: OJ L 240, 24.8.1992, p. 1.
+
+[^key-26b434f53329421cad7fcb33b29dd615]: Textual amendment: Reg. 5 renumbered as reg. 5(1) (31.12.2020) by [The Operation of Air Services (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1392)](https://www.legislation.gov.uk/uksi/2018/1392), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1392/regulation/1/2), [Sch. 1 para. 4(a)](https://www.legislation.gov.uk/uksi/2018/1392/schedule/1/paragraph/4/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-4ba0fe5247bc2227cecc82eaa5e7fdd8]: Textual amendment: Words in [reg. 5(1)](https://www.legislation.gov.uk/uksi/2009/41/regulation/5/1) substituted (31.12.2020) by [The Operation of Air Services (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1392)](https://www.legislation.gov.uk/uksi/2018/1392), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1392/regulation/1/2), [Sch. 1 para. 4(b)](https://www.legislation.gov.uk/uksi/2018/1392/schedule/1/paragraph/4/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-d3fb6d3971edb607da62138462890ab9]: Textual amendment: [Reg. 5(2)](https://www.legislation.gov.uk/uksi/2009/41/regulation/5/2) inserted (31.12.2020) by [The Operation of Air Services (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1392)](https://www.legislation.gov.uk/uksi/2018/1392), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1392/regulation/1/2), [Sch. 1 para. 4(c)](https://www.legislation.gov.uk/uksi/2018/1392/schedule/1/paragraph/4/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-868dd6f1c66642e33f2d317ef8de44e6]: Textual amendment: [Reg. 8(1)](https://www.legislation.gov.uk/uksi/2009/41/regulation/8/1) substituted (31.12.2020) by [The Operation of Air Services (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1392)](https://www.legislation.gov.uk/uksi/2018/1392), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1392/regulation/1/2), [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2018/1392/schedule/1/paragraph/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-004cd39fed298c9d8060bf8723f03341]: Textual amendment: [Reg. 9(2)](https://www.legislation.gov.uk/uksi/2009/41/regulation/9/2)[(3)](https://www.legislation.gov.uk/uksi/2009/41/regulation/9/3) omitted (31.12.2020) by virtue of [The Operation of Air Services (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1392)](https://www.legislation.gov.uk/uksi/2018/1392), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1392/regulation/1/2), [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2018/1392/schedule/1/paragraph/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-9b0f9cbe976af78fb97eb42d4ce03ed5]: Textual amendment: Words in [reg. 10(1)](https://www.legislation.gov.uk/uksi/2009/41/regulation/10/1) substituted (31.12.2020) by [The Operation of Air Services (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1392)](https://www.legislation.gov.uk/uksi/2018/1392), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1392/regulation/1/2), [Sch. 1 para. 7](https://www.legislation.gov.uk/uksi/2018/1392/schedule/1/paragraph/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c19541001]: Marginal citation: [S.I. 1995/1054](https://www.legislation.gov.uk/uksi/1995/1054), as amended by [S.I. 1997/2912](https://www.legislation.gov.uk/uksi/1997/2912) , [S.I. 2003/1741](https://www.legislation.gov.uk/uksi/2003/1741) and [S.I. 2007/2999](https://www.legislation.gov.uk/uksi/2007/2999).
+
+[^key-775b6c093763df42b79d3bd05f41df8b]: Textual amendment: Words in [reg. 12](https://www.legislation.gov.uk/uksi/2009/41/regulation/12) substituted (31.12.2020) by [The Operation of Air Services (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1392)](https://www.legislation.gov.uk/uksi/2018/1392), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1392/regulation/1/2), [Sch. 1 para. 7](https://www.legislation.gov.uk/uksi/2018/1392/schedule/1/paragraph/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-c337ebe57c2bb4ffbbd3bde0e0d8dc4a]: Textual amendment: [Reg. 14](https://www.legislation.gov.uk/uksi/2009/41/regulation/14) omitted (31.12.2020) by virtue of [The Operation of Air Services (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1392)](https://www.legislation.gov.uk/uksi/2018/1392), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1392/regulation/1/2), [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/2018/1392/schedule/1/paragraph/8); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-6d0dfdd6ff68f1932ba2d5793d84e413]: Textual amendment: Reg. 15(1): reg. 15 renumbered as reg. 15(1) (6.4.2013) by [The Operation of Air Services in the Community (Pricing etc.) Regulations 2013 (S.I. 2013/486)](https://www.legislation.gov.uk/uksi/2013/486), [regs. 1](https://www.legislation.gov.uk/uksi/2013/486/regulation/1), [37(3)](https://www.legislation.gov.uk/uksi/2013/486/regulation/37/3)
+
+[^key-8a8493fb612ff0f8df622f60505595bd]: Textual amendment: Reg. 15(2) inserted (6.4.2013) by [The Operation of Air Services in the Community (Pricing etc.) Regulations 2013 (S.I. 2013/486)](https://www.legislation.gov.uk/uksi/2013/486), [regs. 1](https://www.legislation.gov.uk/uksi/2013/486/regulation/1), [37(4)](https://www.legislation.gov.uk/uksi/2013/486/regulation/37/4)
+
+[^key-ec124ddddf338bb56735f77935a30a9b]: Textual amendment: Reg. 16(1): reg. 16 renumbered as reg. 16(1) (6.4.2013) by [The Operation of Air Services in the Community (Pricing etc.) Regulations 2013 (S.I. 2013/486)](https://www.legislation.gov.uk/uksi/2013/486), [regs. 1](https://www.legislation.gov.uk/uksi/2013/486/regulation/1), [37(5)](https://www.legislation.gov.uk/uksi/2013/486/regulation/37/5)
+
+[^key-7e349a41530c56caddaefc0f355cb33f]: Textual amendment: Reg. 16(2) inserted (6.4.2013) by [The Operation of Air Services in the Community (Pricing etc.) Regulations 2013 (S.I. 2013/486)](https://www.legislation.gov.uk/uksi/2013/486), [regs. 1](https://www.legislation.gov.uk/uksi/2013/486/regulation/1), [37(6)](https://www.legislation.gov.uk/uksi/2013/486/regulation/37/6)
+
+[^key-39fc7d35b64454fea8b0d49555d19e76]: Textual amendment: Words in [reg. 17(2)(c)](https://www.legislation.gov.uk/uksi/2009/41/regulation/17/2/c) inserted (31.12.2020) by [The Operation of Air Services (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1392)](https://www.legislation.gov.uk/uksi/2018/1392), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1392/regulation/1/2), [Sch. 1 para. 9(a)(i)](https://www.legislation.gov.uk/uksi/2018/1392/schedule/1/paragraph/9/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^M_F_eb32220a-9017-4f47-f82b-0dbef007fccc]: Textual amendment: Words in Regulations substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3-6](https://www.legislation.gov.uk/uksi/2011/1043/article/3)
+
+[^key-b16857bd2c40e56a4954503445b2f9fc]: Textual amendment: Words in [reg. 17(2)(c)](https://www.legislation.gov.uk/uksi/2009/41/regulation/17/2/c) inserted (31.12.2020) by [The Operation of Air Services (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1392)](https://www.legislation.gov.uk/uksi/2018/1392), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1392/regulation/1/2), [Sch. 1 para. 9(a)(ii)](https://www.legislation.gov.uk/uksi/2018/1392/schedule/1/paragraph/9/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-748b0cb2aff352d2a233c9b485e9d49f]: Textual amendment: [Reg. 17(2A)](https://www.legislation.gov.uk/uksi/2009/41/regulation/17/2A) inserted (31.12.2020) by [The Operation of Air Services (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1392)](https://www.legislation.gov.uk/uksi/2018/1392), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1392/regulation/1/2), [Sch. 1 para. 9(b)](https://www.legislation.gov.uk/uksi/2018/1392/schedule/1/paragraph/9/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-04c439715f3a1d6dfcf827585bc8ea10]: Textual amendment: Words in [reg. 17(3)](https://www.legislation.gov.uk/uksi/2009/41/regulation/17/3) substituted (9.1.2019) by [The Operation of Air Services (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1392)](https://www.legislation.gov.uk/uksi/2018/1392), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2018/1392/regulation/1/3), [Sch. 1 para. 9(c)](https://www.legislation.gov.uk/uksi/2018/1392/schedule/1/paragraph/9/c)
+
+[^key-3560e49e0b0678b788a4dbadeed2a438]: Textual amendment: Words in [reg. 18(1)](https://www.legislation.gov.uk/uksi/2009/41/regulation/18/1) substituted (31.12.2020) by [The Operation of Air Services (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1392)](https://www.legislation.gov.uk/uksi/2018/1392), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1392/regulation/1/2), [Sch. 1 para. 10(a)](https://www.legislation.gov.uk/uksi/2018/1392/schedule/1/paragraph/10/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-b9f15f73645a69e4ae872958f75bcd61]: Textual amendment: Words in [reg. 18(2)](https://www.legislation.gov.uk/uksi/2009/41/regulation/18/2) substituted (31.12.2020) by [The Operation of Air Services (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1392)](https://www.legislation.gov.uk/uksi/2018/1392), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1392/regulation/1/2), [Sch. 1 para. 10(b)](https://www.legislation.gov.uk/uksi/2018/1392/schedule/1/paragraph/10/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-0c003f834eacc8256e6efa91d2f19f45]: Textual amendment: [Reg. 22](https://www.legislation.gov.uk/uksi/2009/41/regulation/22) omitted (31.12.2020) by virtue of [The Operation of Air Services (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1392)](https://www.legislation.gov.uk/uksi/2018/1392), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1392/regulation/1/2), [Sch. 1 para. 11](https://www.legislation.gov.uk/uksi/2018/1392/schedule/1/paragraph/11); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-243ef37eedd88d94e9f4009450ccacd6]: Textual amendment: Words in [reg. 23(1)](https://www.legislation.gov.uk/uksi/2009/41/regulation/23/1) substituted (31.12.2020) by [The Operation of Air Services (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1392)](https://www.legislation.gov.uk/uksi/2018/1392), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1392/regulation/1/2), [Sch. 1 para. 12(a)(i)](https://www.legislation.gov.uk/uksi/2018/1392/schedule/1/paragraph/12/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-230b98572c3e37f79842bc1bb376d523]: Textual amendment: Word in [reg. 23(1)(b)](https://www.legislation.gov.uk/uksi/2009/41/regulation/23/1/b) omitted (31.12.2020) by virtue of [The Operation of Air Services (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1392)](https://www.legislation.gov.uk/uksi/2018/1392), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1392/regulation/1/2), [Sch. 1 para. 12(a)(ii)](https://www.legislation.gov.uk/uksi/2018/1392/schedule/1/paragraph/12/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-7de002b2130e309dddc0d9f699990664]: Textual amendment: Words in [reg. 23(1)](https://www.legislation.gov.uk/uksi/2009/41/regulation/23/1) substituted (31.12.2020) by [The Operation of Air Services (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1392)](https://www.legislation.gov.uk/uksi/2018/1392), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1392/regulation/1/2), [Sch. 1 para. 12(a)(iii)](https://www.legislation.gov.uk/uksi/2018/1392/schedule/1/paragraph/12/a/iii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-9710ad273b5d49d536de35e1ed2dc3c0]: Textual amendment: Words in [reg. 23(2)](https://www.legislation.gov.uk/uksi/2009/41/regulation/23/2) substituted (31.12.2020) by [The Operation of Air Services (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1392)](https://www.legislation.gov.uk/uksi/2018/1392), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1392/regulation/1/2), [Sch. 1 para. 12(b)](https://www.legislation.gov.uk/uksi/2018/1392/schedule/1/paragraph/12/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-1ea66b248937c2863178c57bb5f7b480]: Textual amendment: Words in [reg. 23(5)(a)](https://www.legislation.gov.uk/uksi/2009/41/regulation/23/5/a) substituted (31.12.2020) by [The Operation of Air Services (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1392)](https://www.legislation.gov.uk/uksi/2018/1392), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1392/regulation/1/2), [Sch. 1 para. 12(c)](https://www.legislation.gov.uk/uksi/2018/1392/schedule/1/paragraph/12/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-d0c00cf382fc43a0a5e76e15d2cd7c86]: Textual amendment: Words in [reg. 24](https://www.legislation.gov.uk/uksi/2009/41/regulation/24) substituted (31.12.2020) by [The Operation of Air Services (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1392)](https://www.legislation.gov.uk/uksi/2018/1392), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1392/regulation/1/2), [Sch. 1 para. 13](https://www.legislation.gov.uk/uksi/2018/1392/schedule/1/paragraph/13); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-6c9056f75ad637f3277bb96b1c7f7977]: Textual amendment: Words in [reg. 25](https://www.legislation.gov.uk/uksi/2009/41/regulation/25) substituted (31.12.2020) by [The Operation of Air Services (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1392)](https://www.legislation.gov.uk/uksi/2018/1392), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1392/regulation/1/2), [Sch. 1 para. 14(a)](https://www.legislation.gov.uk/uksi/2018/1392/schedule/1/paragraph/14/a) (as substituted by [S.I. 2019/687](https://www.legislation.gov.uk/uksi/2019/687), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/687/regulation/1/3), [5(3)](https://www.legislation.gov.uk/uksi/2019/687/regulation/5/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1))
+
+[^key-06dc4be1a25671887b957730964e33ea]: Textual amendment: Words in [reg. 25(a)](https://www.legislation.gov.uk/uksi/2009/41/regulation/25/a) omitted (31.12.2020) by virtue of [The Operation of Air Services (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1392)](https://www.legislation.gov.uk/uksi/2018/1392), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1392/regulation/1/2), [Sch. 1 para. 14(b)](https://www.legislation.gov.uk/uksi/2018/1392/schedule/1/paragraph/14/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-e2be8c9b8ec518f6141e2b8a3f83aee2]: Textual amendment: [Reg. 25(b)](https://www.legislation.gov.uk/uksi/2009/41/regulation/25/b) omitted (31.12.2020) by virtue of [The Operation of Air Services (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1392)](https://www.legislation.gov.uk/uksi/2018/1392), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1392/regulation/1/2), [Sch. 1 para. 14(c)](https://www.legislation.gov.uk/uksi/2018/1392/schedule/1/paragraph/14/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-c575d9df2cfd10003f838e0203130a60]: Textual amendment: [Reg. 26](https://www.legislation.gov.uk/uksi/2009/41/regulation/26) omitted (31.12.2020) by virtue of [The Operation of Air Services (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1392)](https://www.legislation.gov.uk/uksi/2018/1392), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1392/regulation/1/2), [Sch. 1 para. 15](https://www.legislation.gov.uk/uksi/2018/1392/schedule/1/paragraph/15); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-9bbda2d1feb867c8a7028ea95a0d6d72]: Textual amendment: [Reg. 27](https://www.legislation.gov.uk/uksi/2009/41/regulation/27) omitted (31.12.2020) by virtue of [The Operation of Air Services (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1392)](https://www.legislation.gov.uk/uksi/2018/1392), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1392/regulation/1/2), [Sch. 1 para. 15](https://www.legislation.gov.uk/uksi/2018/1392/schedule/1/paragraph/15); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c19541031]: Marginal citation: [1995 c. 46](https://www.legislation.gov.uk/ukpga/1995/46).
+
+[^c19541041]: Marginal citation: [1982 c. 16](https://www.legislation.gov.uk/ukpga/1982/16), [Sections 17](https://www.legislation.gov.uk/ukpga/1982/16/section/17), [64](https://www.legislation.gov.uk/ukpga/1982/16/section/64), [84](https://www.legislation.gov.uk/ukpga/1982/16/section/84) and 105 have been amended by [S.I. 1992/2992](https://www.legislation.gov.uk/uksi/1992/2992), [S.I](https://www.legislation.gov.uk/uksi/1992/2992/section/I). 1993/3039, [S.I. 1994/1732](https://www.legislation.gov.uk/uksi/1994/1732) and 2004/1256. Section 69A was inserted by [S.I. 1992/2992](https://www.legislation.gov.uk/uksi/1992/2992) and has been amended by [S.I. 1993/3039](https://www.legislation.gov.uk/uksi/1993/3039), [S.I](https://www.legislation.gov.uk/uksi/1993/3039/section/I). 1994/1732 and 2004/1256.
+
+[^c19541051]: Marginal citation: [S.I. 1991/1672](https://www.legislation.gov.uk/uksi/1991/1672), as amended by [S.I. 1992/2992](https://www.legislation.gov.uk/uksi/1992/2992), [S.I](https://www.legislation.gov.uk/uksi/1992/2992/section/I). 1993/3039 and [S.I. 1994/1732](https://www.legislation.gov.uk/uksi/1994/1732).
+
+[^c19541061]: Marginal citation: OJ L 293, 31.10.08, p. 3.
+
+[^M_F_a4c325c3-4137-47f4-a2ab-2ca9093c12fe]: Textual amendment: Reg. 37 revoked (1.1.2010) by [The Air Navigation Order 2009 (S.I. 2009/3015)](https://www.legislation.gov.uk/uksi/2009/3015), [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/3015/article/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2009/3015/schedule/1)
+
+[^key-913d1ddb582b9929c37b776b9cec81a3]: Textual amendment: [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2009/41/schedule/2/paragraph/1) substituted (31.12.2020) by [The Operation of Air Services (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1392)](https://www.legislation.gov.uk/uksi/2018/1392), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1392/regulation/1/2), [Sch. 1 para. 16(a)](https://www.legislation.gov.uk/uksi/2018/1392/schedule/1/paragraph/16/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-eede8f5d43a05c92ca1c039585a9f043]: Textual amendment: Words in [Sch. 2 para. 9](https://www.legislation.gov.uk/uksi/2009/41/schedule/2/paragraph/9) substituted (31.12.2020) by [The Operation of Air Services (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1392)](https://www.legislation.gov.uk/uksi/2018/1392), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1392/regulation/1/2), [Sch. 1 para. 16(b)](https://www.legislation.gov.uk/uksi/2018/1392/schedule/1/paragraph/16/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c19541091]: Marginal citation: [1982 c. 16](https://www.legislation.gov.uk/ukpga/1982/16). Section 6 has been amended by section 97 of and paragraph 17 of Schedule 8 to the [Transport Act 2000 (c. 38)](https://www.legislation.gov.uk/ukpga/2000/38).
+
+[^key-bfdbf4ffebf5bca9f111d326c5df34f1]: Textual amendment: Schs. 3, 4 inserted (6.4.2013) by [The Operation of Air Services in the Community (Pricing etc.) Regulations 2013 (S.I. 2013/486)](https://www.legislation.gov.uk/uksi/2013/486), [regs. 1](https://www.legislation.gov.uk/uksi/2013/486/regulation/1), [37(7)](https://www.legislation.gov.uk/uksi/2013/486/regulation/37/7)
+
+[^key-0d4528a0312178e6ffb9af9fd5c5a2f1]: Textual amendment: Words in [Sch. 4 para. 1(1)](https://www.legislation.gov.uk/uksi/2009/41/schedule/4/paragraph/1/1) substituted (9.1.2019) by [The Operation of Air Services (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1392)](https://www.legislation.gov.uk/uksi/2018/1392), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2018/1392/regulation/1/3), [Sch. 1 para. 17](https://www.legislation.gov.uk/uksi/2018/1392/schedule/1/paragraph/17)

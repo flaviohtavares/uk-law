@@ -1,0 +1,360 @@
+---
+title: The Apprenticeships (Miscellaneous Provisions) Regulations 2017
+id: uksi/2017/1310
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2017-12-19'
+text_date: '2025-08-01'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2017/1310
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2017/1310/pdfs/uksiem_20171310_en.pdf
+- http://www.legislation.gov.uk/uksi/2017/1310/pdfs/uksi_20171310_en.pdf
+- http://www.legislation.gov.uk/uksi/2017/1310/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Apprenticeships (Miscellaneous Provisions) Regulations 2017
+
+> Text as at 2025-08-01.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2017 No. 1310
+
+Employment And Training, England
+
+The Apprenticeships (Miscellaneous Provisions) Regulations 2017
+
+Made
+
+19th December 2017
+
+Laid before Parliament
+
+21st December 2017
+
+Coming into force in accordance with regulation 1(2) and (3)
+
+The Secretary of State for Education makes the following Regulations in exercise of the powers conferred by sections A1(2), (3)(c), (4) and (5), A2B(4), A9(1), (5)(d) and (6) and 262(3) of the Apprenticeships, Skills, Children and Learning Act 2009 [^c23092071].
+
+## PART 1 — PRELIMINARY
+
+### 1. Citation, commencement and application
+
+(1) These Regulations may be cited as the Apprenticeships (Miscellaneous Provisions) Regulations 2017.
+
+(2) Subject to paragraph (3), these Regulations come into force on 15th January 2018.
+
+(3) Regulation 8 comes into force on 31st March 2018.
+
+(4) These Regulations apply only in relation to England.
+
+## PART 2 — APPROVED ENGLISH APPRENTICESHIPS
+
+### 2. Interpretation of Part 2
+
+In this Part—
+
+- “**the Act**” means the Apprenticeships, Skills, Children and Learning Act 2009;
+- “**employer**” means the person by whom the apprentice is employed under an approved English apprenticeship agreement;
+- “**final day**” means the final day of the practical period;
+- “**off-the-job training**” has the meaning given in regulation 3(3);
+- “**practical period**” means the period for which the apprentice is expected to work and receive training under an approved English apprenticeship agreement;
+- “**revised final day**” means the final day, as revised by agreement between the apprentice and the employer which takes into account—
+  - (a) all breaks in the practical period (if any); and
+  - (b) any change in the basis on which the apprentice received work and training under the approved English apprenticeship agreement;
+
+### 3. Off-the-job training
+
+(1) It is a condition of an approved English apprenticeship for the purposes of section A1(2) of the Act that the apprentice is to receive off-the-job training.
+
+(2) Each approved English apprenticeship agreement must specify the amount of time the apprentice is to receive off-the-job training during the period of the agreement.
+
+(3) For the purposes of paragraphs (1) and (2)—
+
+- “**off-the-job training**” means training which is not on-the-job training and is received by the apprentice, during the apprentice's normal working hours, for the purpose of achieving the published standard[^key-be5bd4470c2d256c58cb467018c825cb] to which the agreement or arrangement relates;
+- “**on-the-job training**” means training which is received by the apprentice during the apprentice's normal working hours for the sole purpose of enabling the apprentice to perform the work to which the agreement or arrangement relates.
+
+(4) For the purposes of paragraph (3), “**normal working hours**” means the period when the apprentice is required or, as the case may be, expected, under the agreement or arrangement, to work or to receive training.
+
+### 4. Practical period
+
+(1) Each approved English apprenticeship agreement must specify the practical period.
+
+(2) When agreeing the practical period, the employer must take into account—
+
+- (a) the apprentice's knowledge and skills;
+- (b) whether the work and training is to be undertaken by the apprentice on a full-time or part-time basis; and
+- (c) the published standard[^key-24eb418d5db0f969f67cca6abfe87d03] to which the agreement relates [^c23092081].
+
+### 5. Duration of practical period
+
+(1) Except where paragraph (2) applies, the practical period must not be less than 8[^key-1008ab4ffc8d02daa0127443d0e14537] months.
+
+(2) This paragraph applies where all of the following conditions are met—
+
+- (a) the apprentice was working for an employer and receiving training, under an approved English apprenticeship agreement (“**the old agreement**”);
+- (b) the old agreement was terminated before the final day or the revised final day because the apprentice was dismissed by reason of redundancy;
+- (c) the old agreement was terminated less than 8[^key-6d8eac5606f644d3fd5ebdef46e8c436] months before the final day or the revised final day;
+- (d) the apprentice starts work, or starts receiving training, under another approved English apprenticeship agreement (“**the new agreement**”);
+- (e) the new agreement is for the apprentice to perform work and receive training so as to achieve the same published standard[^key-e5b511a7d428fad33d7909eb44ab1eaf] as the published standard to which the old agreement related.
+
+(3) Where paragraph (2) applies, the new agreement may specify that the final day for that agreement is to be the final day or the revised final day of the old agreement.
+
+### 6. Alternative English apprenticeships
+
+(1) For the purposes of section A1(4) of the Act, an alternative English apprenticeship is an arrangement under which a person to whom paragraph (5) , (5A)[^key-43760db47e207faf53a9480251495a67] , (6)[^key-6521bf1a7e5b53c8eda4c652aa266bf6] , (8) or (10)[^key-5222c0d82f385ec0cf11f6d64c13ec94] applies works in order to achieve a published standard[^key-a294b4d9d363d86f7a4d5ae24b51f919].
+
+(2) Work under paragraph (1) may be—
+
+- (a) for an employer;
+- (b) otherwise than for an employer; or
+- (c) otherwise than for reward.
+
+(3) The arrangement in paragraph (1) must specify the amount of time the person is to receive off-the-job training during the period of the arrangement.
+
+(4) The arrangement in paragraph (1) terminates on the date specified in the arrangement.
+
+(5) This paragraph applies to a person where—
+
+- (a) the person was working for an employer and receiving training, under an approved English apprenticeship agreement;
+- (b) that agreement was terminated before the final day or the revised final day because the person was dismissed by reason of redundancy; and
+- (c) that agreement was terminated less than six months before the final day or the revised final day.
+
+(5A)[^key-27b4b0a5ad68ea1dbb15766c951237b8] This paragraph applies to a person where—
+
+- (a) the person was working for an employer and receiving training, under an approved English apprenticeship agreement which was terminated on or after the day on which the Apprenticeships (Alternative English Completion Conditions and Miscellaneous Provisions) (Amendment) (Coronavirus) Regulations 2020 came into force;
+- (b) that agreement was terminated before the final day or the revised final day because the person was dismissed by reason of redundancy; and
+- (c) at the beginning of the day on which that agreement was terminated, at least 75% of the practical period had elapsed.
+
+(6) This paragraph applies to a person who is working and receiving training to achieve a published standard under an arrangement where the person is holding office—
+
+- (a) as a minister or a trainee minister of a religious denomination; or
+- (b) as a constable of a police force in England.
+
+(7) For the purposes of paragraph (1), the arrangement in paragraph (6) must specify a period of not less than 8[^key-424545d95f11aa8b4c907164ae72fbc7] months during which the person is expected to work and receive training under the arrangement.
+
+(8)[^key-e4788ca4e3e0c77890a28e4ff3c7ecd9] This paragraph applies to a person who is working and receiving training during the flexi-job apprenticeship practical period in order to achieve one of the published standards[^key-0afc14201af377f67950aeff9745c8f5] specified in the following sub-paragraphs—
+
+- (a) Creative Venue Technician;
+- (b) Live Events Technician;
+- (c) Props Technician;
+- (d) Museums and Galleries Technician;
+- (e) Archaeological Technician;
+- (f) VFX artist or Technical Director;
+- (g) Junior VFX Artist;
+- (h) Camera Prep Technician;
+- (i) Broadcast and Media Systems Technician;
+- (j) Photographic Assistant;
+- (k) Cultural Heritage Conservation Technician;
+- (l) Junior Content Producer;
+- (m) Cultural Learning and Participation Officer;
+- (n) Game Programmer;
+- (o) Software Development Technician;
+- (p) Software Developer;
+- (q) DevOps Engineer;
+- (r) Advanced Carpentry and Joinery;
+- (s) Stonemason;
+- (t) Industrial Coatings Applicator;
+- (u) Smart Home Technician;
+- (v) Construction Site Supervisor;
+- (w) Bricklayer;
+- (x) Rail Infrastructure Operator.
+- (y)[^key-074a06e73623ad20e4dc449b5c11e500] Adult Care Worker;
+- (z) Customer Service Practitioner;
+- (z1) Data Analyst;
+- (z2) Information Communications Technician;
+- (z3) Lead Adult Care Worker;
+- (z4) Leader in Adult Care;
+- (z5) Healthcare Assistant Practitioner;
+- (z6) Healthcare Support Worker;
+- (z7) Senior Healthcare Support Worker;
+- (z8) Civil Engineering Senior Technician;
+- (z9) Construction Quantity Surveying Technician;
+- (z10) Construction Design and Build Technician;
+- (z11) Civil Engineering Technician;
+- (z12) Content Creator.
+
+(9) For the purposes of paragraph (8)—
+
+- (a)[^key-954c8fea6c9851bed47d0f9a523dfd44] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) “**flexi-job apprenticeship**” means an alternative English apprenticeship undertaken by way of a series of arrangements under which a person works to achieve a published standard;
+- (c) “**the flexi-job apprenticeship practical period**” means the period for which the apprentice is expected to work and receive training when doing a flexi-job apprenticeship;
+- (d) the duration of the flexi-job apprenticeship practical period must not be less than 8[^key-14640bd9ccf670032a5e08c815ed0874] months, made up of the aggregate of the periods spent working and training under arrangements to achieve one of the published standards specified in that paragraph; and
+- (e) each arrangement must specify a period of not less than 3 months during which the person is expected to work and receive training under the arrangement.
+
+(10)[^key-29d95bc8e2c618d0fbb12818442f4b06] This paragraph applies to the following persons who are working and receiving training to achieve a published standard—
+
+- (a) a convicted prisoner who was sentenced in relation to that conviction excluding such a prisoner in a naval, military or air force prison;
+- (b) a convicted inmate who was sentenced in relation to that conviction; and
+- (c) a convicted person—
+  - (i) who was sentenced in relation to that conviction;
+  - (ii) who is required to be detained in any accommodation mentioned in section 102(2)(a), (b) or (d) of the Legal Aid, Sentencing and Punishment of Offenders Act 2012 or in a secure 16 to 19 Academy,
+
+and continues to apply to a person after they cease to be a person mentioned in sub-paragraph (a), (b) or (c), so long as they were such a person when that work or training commenced.
+
+(11) For the purposes of paragraph (1), the arrangement in paragraph (10) must specify a period of at least 8[^key-20a6dae0ca238fbd5d22f23995526372] months during which a person is expected to work and receive training under the arrangement.
+
+(12) In paragraph (10)—
+
+- (a) “**convicted**” means “convicted or found guilty of an offence or committed for contempt of court or for failing to do or abstain from doing anything required to be done or left undone” and “**conviction**” is to be construed accordingly;
+- (b) “**inmate**” has the meaning given by Rule 2 of the Young Offender Institution Rules 2000; and
+- (c) “**secure 16 to 19 Academy**” has the meaning given by section 1B of the Academies Act 2010.
+
+## PART 3 — FEES FOR THE CARRYING OUT OF EVALUATIONS OF APPRENTICESHIP ASSESSMENTS[^key-bd4af61c9e216dae5771866865478511]
+
+**No longer in force.**
+
+### 7. Fees for the carrying out of evaluations of apprenticeship assessments[^key-bd4af61c9e216dae5771866865478511]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART 4 — AMENDMENT OF THE PUBLIC SECTOR APPRENTICESHIP TARGETS REGULATIONS 2017
+
+### 8. Amendment of the Public Sector Apprenticeship Targets Regulations 2017
+
+(1) The Public Sector Apprenticeship Targets Regulations 2017 [^c23092091] are amended as follows.
+
+(2) In paragraph (2) of regulation 2 (headcount)—
+
+- (a) following paragraph (b) omit “or”;
+- (b) following paragraph (c) insert—
+
+  > or;
+  >
+  > - (d) is a member of a police force
+
+  .
+
+(3) In regulation 5 (target period)—
+
+- (a) renumber that regulation as regulation 5(1);
+- (b) after “target period” insert “ , subject to paragraph (2), ”;
+- (c) after the renumbered paragraph (1) insert—
+
+  > (2) The target period for the proprietor of a relevant academy is the period beginning with 1st April 2018 and ending with 31st March 2021.
+  >
+  > (3) In this regulation—
+  >
+  > - “**proprietor**” has the meaning given by section 579(1) of the Education Act 1996 [^c23092101];
+  > - “**relevant academy**” means any of—
+  >   - (a) an Academy school within the meaning of section 1A of the Academies Act 2010 [^c23092111];
+  >   - (b) a 16 to 19 Academy within the meaning of section 1B of that Act [^c23092121]; and
+  >   - (c) an alternative provision Academy within the meaning of section 1C of that Act [^c23092131].
+
+  .
+
+(4) In Schedule 2 (public bodies excluded from the target)—
+
+- (a) in paragraph 6—
+  - (i) omit sub-paragraphs (b) and (c);
+  - (ii) at the end, insert—
+
+    > - (d) is not the governing body of any foundation, voluntary, or foundation special school; and
+    > - (e) is not the proprietor of a relevant academy, and in this Schedule, “proprietor” and “relevant academy” have the meanings given by regulation 5(3).
+
+    ;
+- (b) for paragraph 10 (independent schools within the meaning of section 463(1) of the Education Act 1996) substitute—
+
+  > **10.**
+  >
+  > The proprietor of an independent school within the meaning of section 463 of the Education Act 1996 [^c23092141], other than the proprietor of a relevant academy.
+
+  .
+
+Anne Milton
+
+Minister of State for Apprenticeships and Skills
+
+Department for Education
+
+*(This note is not part of the Regulations)*
+
+These Regulations make miscellaneous provision in respect of apprenticeships.
+
+Part 2 makes provision in respect of approved English apprenticeships under section A1 of the Apprenticeships, Skills, Children and Learning Act 2009 (c.22) (“**the Act**”).
+
+Regulation 3 defines “off-the-job training” and makes it a condition of an approved English apprenticeship that the apprentice must receive off-the-job training. It also provides that the amount of time the apprentice is to receive such training during the course of the agreement must be specified in the approved English apprenticeship agreement.
+
+Regulation 4 makes it a condition that each such agreement must specify a practical period (the period for which the apprentice is expected to work and receive training).
+
+Regulation 5 makes it a condition that each such agreement must provide for a practical period of not less than 12 months. There is an exception to this rule where an agreement is terminated by reason of redundancy with less than 12 months of the practical period to run. In such circumstances, a new agreement under which the apprentice works or receives training to the same approved standard can run until the final day of the practical period of the agreement which was terminated.
+
+Regulation 6 prescribes the circumstances where an alternative English apprenticeship applies. This is an arrangement under which the apprentice may work otherwise than for another person or for reward in order to complete their apprenticeship. Those circumstances are where-
+
+\-the person was working under an approved English apprenticeship agreement and that agreement terminated by reason of redundancy with less than 6 months of the practical period to run; and
+
+\-the apprentice is holding office as a minister or a trainee minister of a religious denomination or as a constable of a police force in England and the relevant approved standard relates to that office. The regulation provides that such arrangements must specify a period of not less than 12 months during which the apprentice is expected to work and receive training.
+
+The arrangement under this regulation must also specify the amount of off-the-job training to be received and the termination date for the arrangement.
+
+Part 3 relates to section A2B(4) of the Act. That section enables the Secretary of State to make regulations authorising the Institute for Apprenticeships (“the Institute”) to charge fees for things done in connection with the carrying out by it of evaluations of apprenticeship assessments. The Institute may only charge fees to those persons who carry out apprenticeship assessments which the Institute evaluates. The maximum fee is £56 for each apprentice who takes an apprenticeship assessment which the Institute evaluates.
+
+Part 4 amends the Public Sector Apprenticeship Targets Regulations 2017 (S.I. 2017/513). The purpose of these amendments is to bring qualifying Academy proprietors within the scope of the public sector apprenticeship target regime established by those Regulations and to provide that in respect of a police force, any member of that police force is relevant for determining its headcount.
+
+The effect of the amendments is that qualifying Academy proprietors will be subject to the target regime for the first time in the reporting period beginning with 1st April 2018, provided that they have a headcount of 250 or more on the day before the first day of any reporting period. These Regulations also specify the target period for qualifying Academy proprietors, which is the three-year period beginning with 1st April 2018 and ending with 31st March 2021.
+
+An impact assessment has been produced in relation to Part 2 of this instrument and is available from Apprenticeships Standards Quality and Assessment, Department for Education, 2 St. Paul's Place, Norfolk Street, Sheffield, S1 2FJ. The impact assessment and an Explanatory Memorandum are available alongside the instrument on the UK legislation website, www.legislation.gov.uk. An impact assessment has not been produced in relation to Parts 3 and 4 of this instrument as those Parts do not have a direct impact on the costs of business or the voluntary sector.
+
+## Annotations
+
+[^c23092071]: Marginal citation: [2009 c. 22](https://www.legislation.gov.uk/ukpga/2009/22). Section A1 was moved to a new heading entitled “Introductory” by paragraph 3 of Schedule 4 to the [Enterprise Act 2016 (c.12)](https://www.legislation.gov.uk/ukpga/2016/12) (“**the 2016 Act**”). Section A2B(4) was inserted by paragraph 14(4) of Schedule 1 to the [Technical and Further Education Act 2017 (c.19)](https://www.legislation.gov.uk/ukpga/2017/19). Section A9 was inserted by section 24(1) of the 2016 Act. See section 264(1) for the meanings of “prescribed” and “regulations”.
+
+[^key-be5bd4470c2d256c58cb467018c825cb]: Textual amendment: Words in [reg. 3(3)](https://www.legislation.gov.uk/uksi/2017/1310/regulation/3/3) substituted (2.7.2025) by [The Institute for Apprenticeships and Technical Education (Transfer of Functions etc) Act 2025 (Consequential Amendments) Regulations 2025 (S.I. 2025/660)](https://www.legislation.gov.uk/uksi/2025/660), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/660/regulation/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2025/660/regulation/4/2)
+
+[^key-24eb418d5db0f969f67cca6abfe87d03]: Textual amendment: Words in [reg. 4(2)(c)](https://www.legislation.gov.uk/uksi/2017/1310/regulation/4/2/c) substituted (2.7.2025) by [The Institute for Apprenticeships and Technical Education (Transfer of Functions etc) Act 2025 (Consequential Amendments) Regulations 2025 (S.I. 2025/660)](https://www.legislation.gov.uk/uksi/2025/660), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/660/regulation/1/1), [4(3)](https://www.legislation.gov.uk/uksi/2025/660/regulation/4/3)
+
+[^c23092081]: Marginal citation: See section A1(7) of the Act as amended by paragraph 9 of Schedule 1 to the [Technical and Further Education Act 2017 (c.19)](https://www.legislation.gov.uk/ukpga/2017/19).
+
+[^key-1008ab4ffc8d02daa0127443d0e14537]: Textual amendment: Word in [reg. 5(1)](https://www.legislation.gov.uk/uksi/2017/1310/regulation/5/1) substituted (1.8.2025) by [The Apprenticeships (Miscellaneous Provisions) (England) (Amendment) Regulations 2025 (S.I. 2025/599)](https://www.legislation.gov.uk/uksi/2025/599), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/599/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2025/599/regulation/2/2)
+
+[^key-6d8eac5606f644d3fd5ebdef46e8c436]: Textual amendment: Word in [reg. 5(2)(c)](https://www.legislation.gov.uk/uksi/2017/1310/regulation/5/2/c) substituted (1.8.2025) by [The Apprenticeships (Miscellaneous Provisions) (England) (Amendment) Regulations 2025 (S.I. 2025/599)](https://www.legislation.gov.uk/uksi/2025/599), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/599/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2025/599/regulation/2/2)
+
+[^key-e5b511a7d428fad33d7909eb44ab1eaf]: Textual amendment: Words in [reg. 5(2)(e)](https://www.legislation.gov.uk/uksi/2017/1310/regulation/5/2/e) substituted (2.7.2025) by [The Institute for Apprenticeships and Technical Education (Transfer of Functions etc) Act 2025 (Consequential Amendments) Regulations 2025 (S.I. 2025/660)](https://www.legislation.gov.uk/uksi/2025/660), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/660/regulation/1/1), [4(4)](https://www.legislation.gov.uk/uksi/2025/660/regulation/4/4)
+
+[^key-43760db47e207faf53a9480251495a67]: Textual amendment: Word in reg. 6(1) inserted (15.10.2020) by [The Apprenticeships (Alternative English Completion Conditions and Miscellaneous Provisions) (Amendment) (Coronavirus) Regulations 2020 (S.I. 2020/1120)](https://www.legislation.gov.uk/uksi/2020/1120), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1120/regulation/1/2), [3(2)(a)](https://www.legislation.gov.uk/uksi/2020/1120/regulation/3/2/a)
+
+[^key-6521bf1a7e5b53c8eda4c652aa266bf6]: Textual amendment: Words in [reg. 6(1)](https://www.legislation.gov.uk/uksi/2017/1310/regulation/6/1) substituted (6.4.2022) by [The Apprenticeships (Miscellaneous Provisions) (Amendment) (England) Regulations 2022 (S.I. 2022/86)](https://www.legislation.gov.uk/uksi/2022/86), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/86/regulation/1/2), [2(2)(a)](https://www.legislation.gov.uk/uksi/2022/86/regulation/2/2/a)
+
+[^key-5222c0d82f385ec0cf11f6d64c13ec94]: Textual amendment: Words in [reg. 6(1)](https://www.legislation.gov.uk/uksi/2017/1310/regulation/6/1) substituted (30.9.2022) by [The Apprenticeships (Miscellaneous Provisions) (Amendment) (No. 2) (England) Regulations 2022 (S.I. 2022/949)](https://www.legislation.gov.uk/uksi/2022/949), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/949/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2022/949/regulation/2/2)
+
+[^key-a294b4d9d363d86f7a4d5ae24b51f919]: Textual amendment: Words in [reg. 6](https://www.legislation.gov.uk/uksi/2017/1310/regulation/6) substituted (2.7.2025) by [The Institute for Apprenticeships and Technical Education (Transfer of Functions etc) Act 2025 (Consequential Amendments) Regulations 2025 (S.I. 2025/660)](https://www.legislation.gov.uk/uksi/2025/660), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/660/regulation/1/1), [4(5)(a)](https://www.legislation.gov.uk/uksi/2025/660/regulation/4/5/a)
+
+[^key-27b4b0a5ad68ea1dbb15766c951237b8]: Textual amendment: Reg. 6(5A) inserted (15.10.2020) by [The Apprenticeships (Alternative English Completion Conditions and Miscellaneous Provisions) (Amendment) (Coronavirus) Regulations 2020 (S.I. 2020/1120)](https://www.legislation.gov.uk/uksi/2020/1120), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1120/regulation/1/2), [3(2)(b)](https://www.legislation.gov.uk/uksi/2020/1120/regulation/3/2/b)
+
+[^key-424545d95f11aa8b4c907164ae72fbc7]: Textual amendment: Word in [reg. 6(7)](https://www.legislation.gov.uk/uksi/2017/1310/regulation/6/7) substituted (1.8.2025) by [The Apprenticeships (Miscellaneous Provisions) (England) (Amendment) Regulations 2025 (S.I. 2025/599)](https://www.legislation.gov.uk/uksi/2025/599), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/599/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2025/599/regulation/2/3)
+
+[^key-e4788ca4e3e0c77890a28e4ff3c7ecd9]: Textual amendment: [Reg. 6(8)](https://www.legislation.gov.uk/uksi/2017/1310/regulation/6/8)[(9)](https://www.legislation.gov.uk/uksi/2017/1310/regulation/6/9) inserted (6.4.2022) by [The Apprenticeships (Miscellaneous Provisions) (Amendment) (England) Regulations 2022 (S.I. 2022/86)](https://www.legislation.gov.uk/uksi/2022/86), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/86/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2022/86/regulation/2/2/b)
+
+[^key-0afc14201af377f67950aeff9745c8f5]: Textual amendment: Words in [reg. 6](https://www.legislation.gov.uk/uksi/2017/1310/regulation/6) substituted (2.7.2025) by [The Institute for Apprenticeships and Technical Education (Transfer of Functions etc) Act 2025 (Consequential Amendments) Regulations 2025 (S.I. 2025/660)](https://www.legislation.gov.uk/uksi/2025/660), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/660/regulation/1/1), [4(5)(b)](https://www.legislation.gov.uk/uksi/2025/660/regulation/4/5/b)
+
+[^key-074a06e73623ad20e4dc449b5c11e500]: Textual amendment: [Reg. 6(8)(y)(z)(z1)-(z12)](https://www.legislation.gov.uk/uksi/2017/1310/regulation/6/8/y/z/z1) inserted (7.1.2023) by [The Apprenticeships (Miscellaneous Provisions) (England) (Amendment) (No. 3) Regulations 2022 (S.I. 2022/1341)](https://www.legislation.gov.uk/uksi/2022/1341), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1341/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2022/1341/regulation/2/2)
+
+[^key-954c8fea6c9851bed47d0f9a523dfd44]: Textual amendment: [Reg. 6(9)(a)](https://www.legislation.gov.uk/uksi/2017/1310/regulation/6/9/a) omitted (30.9.2022) by virtue of [The Apprenticeships (Miscellaneous Provisions) (Amendment) (No. 2) (England) Regulations 2022 (S.I. 2022/949)](https://www.legislation.gov.uk/uksi/2022/949), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/949/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2022/949/regulation/2/3)
+
+[^key-14640bd9ccf670032a5e08c815ed0874]: Textual amendment: Word in [reg. 6(9)(d)](https://www.legislation.gov.uk/uksi/2017/1310/regulation/6/9/d) substituted (1.8.2025) by [The Apprenticeships (Miscellaneous Provisions) (England) (Amendment) Regulations 2025 (S.I. 2025/599)](https://www.legislation.gov.uk/uksi/2025/599), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/599/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2025/599/regulation/2/3)
+
+[^key-29d95bc8e2c618d0fbb12818442f4b06]: Textual amendment: [Reg. 6(10)-(12)](https://www.legislation.gov.uk/uksi/2017/1310/regulation/6/10) inserted (30.9.2022) by [The Apprenticeships (Miscellaneous Provisions) (Amendment) (No. 2) (England) Regulations 2022 (S.I. 2022/949)](https://www.legislation.gov.uk/uksi/2022/949), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/949/regulation/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2022/949/regulation/2/4)
+
+[^key-20a6dae0ca238fbd5d22f23995526372]: Textual amendment: Word in [reg. 6(11)](https://www.legislation.gov.uk/uksi/2017/1310/regulation/6/11) substituted (1.8.2025) by [The Apprenticeships (Miscellaneous Provisions) (England) (Amendment) Regulations 2025 (S.I. 2025/599)](https://www.legislation.gov.uk/uksi/2025/599), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/599/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2025/599/regulation/2/3)
+
+[^key-bd4af61c9e216dae5771866865478511]: Textual amendment: [Pt. 3](https://www.legislation.gov.uk/uksi/2017/1310/part/3) omitted (2.7.2025) by virtue of [The Institute for Apprenticeships and Technical Education (Transfer of Functions etc) Act 2025 (Consequential Amendments) Regulations 2025 (S.I. 2025/660)](https://www.legislation.gov.uk/uksi/2025/660), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/660/regulation/1/1), [4(6)](https://www.legislation.gov.uk/uksi/2025/660/regulation/4/6)
+
+[^c23092091]: Marginal citation: [S.I. 2017/513](https://www.legislation.gov.uk/uksi/2017/513).
+
+[^c23092101]: Marginal citation: [1996 c.56](https://www.legislation.gov.uk/ukpga/1996/56). That definition is amended by paragraph 183 of Schedule 30 to the [School Standards and Framework Act 1998 (c. 31)](https://www.legislation.gov.uk/ukpga/1998/31), paragraph 9 of Schedule 13 to the [Education Act 2011 (c.21)](https://www.legislation.gov.uk/ukpga/2011/21) (“**the 2011 Act**”) and by [S.I. 2005/2913](https://www.legislation.gov.uk/uksi/2005/2913).
+
+[^c23092111]: Marginal citation: [2010 c.32](https://www.legislation.gov.uk/ukpga/2010/32). Section 1A is inserted by section 53(7) of the 2011 Act.
+
+[^c23092121]: Marginal citation: Section 1B is inserted by section 53(7) of the 2011 Act.
+
+[^c23092131]: Marginal citation: Section 1C is inserted by section 53(7) of the 2011 Act.
+
+[^c23092141]: Marginal citation: Section 463 is substituted by section 172 of the [Education Act 2002 (c.32)](https://www.legislation.gov.uk/ukpga/2002/32) and amended by paragraph 43 of Schedule 3 to the [Children and Families Act 2014 (c.6)](https://www.legislation.gov.uk/ukpga/2014/6) and [S.I. 2010/1158](https://www.legislation.gov.uk/uksi/2010/1158) and 2016/413.

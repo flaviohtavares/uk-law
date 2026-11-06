@@ -1,0 +1,19 @@
+---
+title: The Water Industry (Special Administration) (England and Wales) Rules 2024, section 106
+act: The Water Industry (Special Administration) (England and Wales) Rules 2024
+section: '106'
+status: as-enacted
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2024/229/section/106
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Water Industry (Special Administration) (England and Wales) Rules 2024, section 106
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+## 106. Contents of notice of intention to declare a dividend or make a distribution (rule 14.30)
+
+Rule 14.30 has effect as if paragraph (f), and the “and” preceding it, were omitted.

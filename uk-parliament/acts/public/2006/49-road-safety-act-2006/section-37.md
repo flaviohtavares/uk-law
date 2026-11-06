@@ -1,0 +1,56 @@
+---
+title: Road Safety Act 2006, section 37
+act: Road Safety Act 2006
+section: '37'
+status: not-yet-in-force
+text_date: '2023-12-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2006/49/section/37
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Road Safety Act 2006, section 37
+
+> This provision is not yet in force.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 37. Disqualification until test is passed
+
+*Extent: E+W+S+N.I.*
+
+**Not yet in force.**
+
+(1) Section 36 of the Road Traffic Offenders Act 1988 (c. 53) (duty of court to order disqualification until test is passed) is amended as follows.
+
+(2) In subsection (3) (order to be made in case of person disqualified in circumstances, or for period, prescribed by order)—
+
+- (a) for “in such circumstances or for such period” substitute “ for such period, in such circumstances or for such period and in such circumstances ”,
+- (b) for “prescribe” substitute “ specify ”, and
+- (c) for “may be so prescribed” substitute “ the Secretary of State may by order specify ”.
+
+(3) In subsection (5) (interpretation), for the definition of “appropriate driving test” substitute—
+
+> “**appropriate driving test**” means—
+>
+> - (a) in such circumstances as the Secretary of State may prescribe, an extended driving test, and
+> - (b) otherwise, a test of competence to drive which is not an extended driving test,
+
+; and, in the definition of “extended driving test”, after “section” insert “ by regulations made by the Secretary of State ”.
+
+(4) In subsection (8) (disqualification to expire on production in accordance with regulations under section 105 of Road Traffic Act 1988 of evidence of having passed test), for “under section 105 of the Road Traffic Act 1988” substitute “ made by the Secretary of State ”.
+
+(5) In subsection (9) (disqualification to expire by reason of passing of test only in relation to vehicles of such classes as are prescribed by such regulations), for “under that section” substitute “ made by the Secretary of State ”.
+
+(6) After subsection (13) insert—
+
+> (13A) Before making an order under subsection (3) above the Secretary of State must consult with such representative organisations as he thinks fit.
+
+(7) Omit subsection (14) (no order to be made under subsection (3) after end of 2001 unless one previously made).
+
+(8) In section 173(2) of the Road Traffic Act 1988 (c. 52) (forgery of documents etc.), insert at the end
+
+> and
+>
+> - (n) any document produced as evidence of the passing of an appropriate driving test within the meaning of section 36 of that Act.

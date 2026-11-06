@@ -1,0 +1,534 @@
+---
+title: The Civil Legal Aid (Statutory Charge) Regulations 2013
+id: uksi/2013/503
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2013-03-06'
+text_date: '2025-05-21'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2013/503
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2013/503/pdfs/uksiem_20130503_en.pdf
+- http://www.legislation.gov.uk/uksi/2013/503/pdfs/uksi_20130503_en.pdf
+- http://www.legislation.gov.uk/uksi/2013/503/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Civil Legal Aid (Statutory Charge) Regulations 2013
+
+> Text as at 2025-05-21.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2013 No. 503
+
+Legal Aid And Advice, England And Wales
+
+The Civil Legal Aid (Statutory Charge) Regulations 2013
+
+Made
+
+6th March 2013
+
+Laid before Parliament
+
+7th March 2013
+
+Coming into force
+
+1st April 2013
+
+The Lord Chancellor makes the following Regulations [^c21685671] in exercise of the powers conferred by sections 2(3), 5(2), 25(3) to (6) and 41(3)(a) of the Legal Aid, Sentencing and Punishment of Offenders Act 2012 [^c21685681](“**the Act**”).
+
+## PART 1 — INTERPRETATION AND GENERAL
+
+### 1. Citation and commencement
+
+These Regulations may be cited as the Civil Legal Aid (Statutory Charge) Regulations 2013 and come into force on 1st April 2013.
+
+### 2. Interpretation
+
+(1) In these Regulations—
+
+- “**the Act**” means the Legal Aid, Sentencing and Punishment of Offenders Act 2012;
+- “**certificate**” means a certificate issued under the Civil Legal Aid (Procedure) Regulations 2012 [^c21685691];
+- “**child**” means an individual under the age of 18;
+- “**CPR**” means the Civil Procedure Rules 1998 [^c21685701], and a reference to a Part or a rule, prefixed by “CPR”, means the Part or rule so numbered in the CPR;
+- “**family enactment**” has the same meaning as in paragraph 12(9) of Part 1 of Schedule 1 to the Act (civil legal services);
+- “**family relationship**” and “**matter arising out of a family relationship**” have the same meaning as in paragraphs 12(7) and (8) of Part 1 of Schedule 1 to the Act [^c21685711];
+- “**family proceedings**” means—
+  - (a) any matter which is described in any of the following paragraphs of Part 1 of Schedule 1 to the Act—
+    - (i) paragraph 1 (care, supervision and protection of children);
+    - (ii) paragraph 9 (inherent jurisdiction of the High Court in relation to children and vulnerable adults), to the extent that the matter relates to—
+    - (aa) a child; or
+    - (bb) a vulnerable adult, but only to the extent that the matter arises out of a family relationship;
+    - (iii) paragraph 10 (unlawful removal of children);
+    - (iv) paragraph 11 (family homes and domestic abuse[^key-4f135d6e65f40a92e6048cef74f1ddbd]);
+    - (v) paragraph 12 (victims of domestic abuse and family matters);
+    - (vi) paragraph 13 (protection of children and family matters);
+    - (vii) paragraph 14 (mediation in family disputes);
+    - (viii) paragraph 15 (children who are parties to family proceedings);
+    - (ix) paragraph 16 (forced marriage);
+    - (x) paragraph 17 (EU and international agreements concerning children); or
+    - (xi) paragraph 18 (EU and international agreements concerning maintenance); or
+  - (b) a matter arising out of a family relationship in respect of which the Director has made an exceptional case determination under section 10 of the Act (exceptional cases) and which is under—
+    - (i) a family enactment; or
+    - (ii) the Trusts of Land and Appointment of Trustees Act 1996 [^c21685721];
+- “**legally aided party**” means an individual or legal person [^c21685731] to whom civil legal services have been made available under Part 1 of the Act (legal aid);
+- “legally aided party's costs order” and “legally aided party's costs agreement” mean, respectively, an order and an agreement that another party to relevant proceedings or a relevant dispute pay all or part of the costs of the legally aided party;
+- “**legal aid only costs**” means those costs described as such under whichever of the following contracts between the Lord Chancellor and the provider governs the provision of the civil legal services in the relevant proceedings or relevant dispute—
+  - (a) the 2010 Standard Civil Contract;
+  - (b) the 2013 Standard Civil Contract;
+  - (c) the 2013 Individual Case Contract (High Cost Civil); [^key-8824266f40061b1d794dfc98280f41c1]...
+  - (d) the 2013 Individual Case Contract (Civil) [^c21685741];
+  - (e) the 2014 Standard Civil Contract;[^key-47e53a2e58126dbd06b6541b561d5090] [^key-b9dda686d6670111aa5e26a83465544f]...
+  - (f) the 2014 Standard Civil Contract (Welfare Benefits); [^key-97bc8b9bf0c4f317d19a98fe3214de9e]...[^key-cce191c7021813da80ce6365b6b80910]
+  - (g) the 2015 Standard Civil Contract; [^key-017cc76547186bb3a538950fe29c2a47]...[^key-9fa08ed22b8d2959cbecd4f9f154d156]
+  - (h) the 2016 Standard Civil Contract (Welfare Benefits); [^key-9d7a3c4b8d5d620963f3ae5d55d829ca]...[^key-b90cbfedc0a2f68fc7091792b2869803]
+  - (i) the 2018 Standard Civil Contract; or[^key-f4ed5745db6bdde93af427aa3a86d63d]
+  - (j) the 2024 Standard Civil Contract,[^key-d12c8877d9c61165f9402b095add69d5]
+- “**maintenance**” means money or money's worth paid towards the support of a former partner, child or other person for whose support the payer has previously been responsible or has made payments;
+- “**partner**” means—
+  - (a) a legally aided party's spouse or civil partner, from whom the party is not separated due to a breakdown in the relationship which is likely to be permanent;
+  - (b) a person with whom the legally aided party lives as a couple; or
+  - (c) a person with whom the legally aided party ordinarily lives as a couple, from whom the party is not separated due to a breakdown in the relationship which is likely to be permanent;
+- “**provider**” means a person who provides civil legal services under Part 1 of the Act;
+- “**relevant dispute**” means a dispute in connection with which civil legal services have been made available to the legally aided party;
+- “**relevant proceedings**” means proceedings in connection with which civil legal services have been made available to the legally aided party;
+- “**statutory charge**” means the charge created by section 25(1) of the Act (charges on property in connection with civil services); and
+- “**the arrangements**” means arrangements made by the Lord Chancellor under section 2(1) of the Act (arrangements).
+
+(2) Where in these Regulations a reference is made to a form of civil legal services, that is a reference to that form of civil legal services as defined in Part 2 of the Civil Legal Aid (Merits Criteria) Regulations 2013 [^c21685751].
+
+### 3. Delegation
+
+A function of the Lord Chancellor under these Regulations may be exercised by a person authorised for that purpose by the Lord Chancellor, or an employee of that person [^c21685761].
+
+## PART 2 — OPERATION OF THE STATUTORY CHARGE
+
+### 4. Calculation of the statutory charge
+
+(1) The amount of the statutory charge does not include, except where paragraph (2) or (3) applies, the cost to the Lord Chancellor of providing the following forms of civil legal services—
+
+- (a) legal help;
+- (b) help at court;
+- (c) family help (lower);
+- (d) family mediation; or
+- (e) help with family mediation.
+
+(2) Where a legally aided party receives family help (higher) or legal representation, the amount of the statutory charge includes the cost to the Lord Chancellor of providing legal help, help at court, family help (lower) or help with family mediation, where made available, in connection with the same proceedings or dispute.
+
+(3) Where the cost of providing family help (lower) exceeds the amount which would otherwise have qualified for the standard fee, the amount of the statutory charge includes—
+
+- (a) the cost of providing legal help and family help (lower) to the extent that those costs exceed that amount; and
+- (b) any disbursements.
+
+(4) The amount of the statutory charge does not include any settlement fee paid in relation to family proceedings.
+
+(5) In this regulation, “standard fee” and “settlement fee” mean the fees set out in regulations made under section 2(3) of the Act.
+
+### 5. Exceptions to the statutory charge
+
+(1) The statutory charge does not apply to the following property recovered or preserved by a legally aided party in relevant proceedings, or in any compromise or settlement of a relevant dispute,—
+
+- (a) any periodical payment of maintenance;
+- (b) any sum or sums ordered to be paid under—
+  - (i) section 25B(4) (pensions) or 25C (pensions: lump sums) of the Matrimonial Causes Act 1973 [^c21685771];
+  - (ii) section 5 of the Inheritance (Provision for Family and Dependants) Act 1975 [^c21685781] (interim orders);
+  - (iii) Part 4 of the Family Law Act 1996 [^c21685791] (family homes and domestic violence); or
+  - (iv) paragraph 25(2) or 26 of Schedule 5 to the Civil Partnership Act 2004 [^c21685801] (financial relief in the High Court or a County Court etc.);
+- (c) half of any redundancy payment within the meaning of Part 11 of the Employment Rights Act 1996 [^c21685811] (redundancy payments etc.); or
+- (d) any sum, payment or benefit which by virtue of any provision of, or made under, an Act of Parliament cannot be assigned or charged.
+
+(2) The statutory charge does not apply to—
+
+- (a) a legally aided party's clothes or household furniture; or
+- (b) the implements of a legally aided party's trade,
+
+except where the Lord Chancellor considers that there are exceptional circumstances, having regard in particular to the value or quantity of the items concerned.
+
+(3) Where, by virtue of regulation 7, the statutory charge is in favour of a provider, it does not apply to a legally aided party's main or only dwelling.
+
+(4) Paragraphs (2) and (3) do not apply where the legally aided party is a legal person.
+
+### 6. Partial exceptions to the statutory charge
+
+(1) The following amounts do not constitute a charge on any property recovered or preserved by the legally aided party in relevant proceedings or a relevant dispute—
+
+- (a) costs incurred by a provider as a result of fulfilling the provider's statutory obligations to a legally aided party with a disability within the meaning of the Equality Act 2010 [^c21685821];
+- (b) where a determination in relation to which a certificate is withdrawn (but not revoked) the cost of assessment proceedings, other than the cost of drawing up a bill for the purpose of those proceedings, under the—
+  - (i) CPR, Part 47 (procedure for detailed assessment of costs and default provisions); or
+  - (ii) Supreme Court Rules 2009, Part 7 [^c21685831] (fees and costs).
+
+(2) The following amounts do not constitute a charge on any costs payable to a legally aided party under a legally aided party's costs order or costs agreement—
+
+- (a) any contribution owed by the legally aided party under regulations made under section 23(2)(b) of the Act (payment for services);
+- (b) legal aid only costs.
+
+(3) In this regulation, “**revoked**” means that a determination has been withdrawn in circumstances in which the Director has exercised the power to revoke the determination under the Civil Legal Aid (Procedure) Regulations 2012.
+
+### 7. Statutory charge in favour of Lord Chancellor or provider
+
+(1) The statutory charge is in favour of the Lord Chancellor except in the circumstances described in paragraph (2).
+
+(2) The statutory charge is in favour of the provider where—
+
+- (a) regulation 4(3) applies; and
+- (b) no certificate has been issued in connection with the same proceedings or dispute.
+
+### 8. Authority to waive the statutory charge
+
+The Lord Chancellor may, where the statutory charge is in favour of the provider, grant the provider authority, whether in individual cases or generally, to waive all or part of the amount of the statutory charge where its enforcement would—
+
+- (a) cause grave hardship or distress to a legally aided party; or
+- (b) be unreasonably difficult because of the nature of the property.
+
+### 9. Waiver of the statutory charge in cases of significant wider public interest
+
+(1) The Lord Chancellor may, where the Lord Chancellor considers it equitable to do so, waive all or part of the amount of the statutory charge, if the following conditions are satisfied—
+
+- (a) the Director was satisfied, in determining that a legally aided party qualified for legal representation, that the proceedings had a significant wider public interest; and
+- (b) the Director in making the determination took into account that there were other claimants or potential claimants who might benefit from the proceedings.
+
+(2) In this regulation, “**significant wider public interest**” has the same meaning as in the Civil Legal Aid (Merits Criteria) Regulations 2013.
+
+### 10. Operation of the statutory charge where certain determinations are withdrawn
+
+(1) Paragraph (2) applies where a determination in relation to which a certificate was issued is withdrawn.
+
+(2) Where this paragraph applies, the statutory charge applies to property recovered or preserved by, or costs payable to, the legally aided party (or their personal representatives, trustee in bankruptcy or the Official Receiver) after the withdrawal of the determination in the proceedings or dispute in relation to which the determination was made.
+
+### 11. Operation of the statutory charge on money in court
+
+(1) Paragraph (2) applies where—
+
+- (a) the statutory charge is in favour of the Lord Chancellor; and
+- (b) money recovered by a legally aided party in relevant proceedings is ordered to be paid into or remain in court and invested for the benefit of that party.
+
+(2) Where this paragraph applies—
+
+- (a) the statutory charge applies only to such amount of that money as in the opinion of the Lord Chancellor will be necessary to safeguard the Lord Chancellor's interests; and
+- (b) the Lord Chancellor must notify the court in writing of the amount of money to which the statutory charge applies.
+
+## PART 3 — ENFORCEMENT OF THE STATUTORY CHARGE
+
+### 12. Application of regulations 13 to 19
+
+(1) Regulations 13 to 19 apply where civil legal services have been made available under a determination in relation to which a certificate was issued.
+
+(2) Where a legally aided party is no longer being represented by a provider, all money to which regulation 13(1) applies must be paid to the Lord Chancellor, and a reference in regulation 13(1) or 14 to the provider is to be construed as a reference to the Lord Chancellor.
+
+### 13. Money recovered to be paid to the provider
+
+(1) All money payable to or recovered by a legally aided party in relevant proceedings or a relevant dispute, whether under a court order or an agreement or otherwise, must be paid to the legally aided party's provider, and only that provider is capable of giving good discharge for the money.
+
+(2) Paragraph (1) does not apply to—
+
+- (a) any periodical payment of maintenance; or
+- (b) any money which, in accordance with regulation 11, is not subject to the statutory charge.
+
+(3) Where a legally aided party's provider, or former provider, has reason to believe that an attempt may be made to circumvent the provisions of paragraph (1), the provider or former provider must inform the Lord Chancellor immediately.
+
+### 14. Notice to third parties
+
+(1) Where money is payable under regulation 13 by a person other than a party to the proceedings, the legally aided party's provider must give that person notice in writing that civil legal services have been made available to the legally aided party by the Lord Chancellor.
+
+(2) Notice under paragraph (1) must state that—
+
+- (a) it is a request that the money payable in accordance with regulation 13 is to be paid to the legally aided party's provider; and
+- (b) the notice is sufficient authority for that payment to be made.
+
+### 15. Provider to pay money recovered to the Lord Chancellor
+
+(1) The legally aided party's provider must without delay—
+
+- (a) inform the Lord Chancellor of any money or other property recovered or preserved;
+- (b) send to the Lord Chancellor a copy of any order or agreement under which the money or other property was recovered or preserved; and
+- (c) subject to paragraphs (2) and (3) and regulation 16, pay to the Lord Chancellor all money received by the provider by virtue of regulation 13.
+
+(2) Paragraph (1)(c) does not apply to any money which is not subject to the statutory charge by virtue of regulation 5.
+
+(3) The Lord Chancellor may authorise the legally aided party's provider to—
+
+- (a) pay to the Lord Chancellor under paragraph (1)(c) only such amount as in the opinion of the Lord Chancellor is necessary to safeguard the Lord Chancellor's interests;
+- (b) retain, after payment of any amount under sub-paragraph (a), any amount received under a legally aided party's costs order or agreement; and
+- (c) pay any other money to the legally aided party.
+
+(4) Where the provider pays money to the Lord Chancellor in accordance with this regulation, the provider must specify what sums relate to—
+
+- (a) costs;
+- (b) damages;
+- (c) interest on costs; and
+- (d) interest on damages.
+
+### 16. Interim payments
+
+Where—
+
+- (a) an order under CPR rule 25.6 (interim payments), or an agreement having equivalent effect, has been made; and
+- (b) the Lord Chancellor considers it essential to protect the legally aided party's interests or welfare;
+
+the Lord Chancellor must pay, or direct the legally aided party's provider to pay, any money paid by virtue of that order or agreement to the legally aided party.
+
+### 17. Payment out and retention of money by the Lord Chancellor
+
+(1) The Lord Chancellor must pay to the provider—
+
+- (a) any outstanding amount payable under the arrangements to the provider in respect of services provided to the legally aided party in relevant proceedings or a relevant dispute;
+- (b) where costs under a legally aided party's costs order or costs agreement are received by the Lord Chancellor, any amount by which—
+  - (i) the amount under that order or agreement, after deduction of any amount under paragraph (2)(b),(4) or (6); exceeds
+  - (ii) the total amount payable under the arrangements to the provider in respect of civil legal services made available in the relevant proceedings or relevant dispute, after deduction of any legal aid only costs; and
+- (c) where the costs referred to in sub-paragraph (b) are paid to the Lord Chancellor with interest, an amount equal to interest attributable to any amount payable under that sub-paragraph.
+
+(2) Where money is received by the Lord Chancellor under this Part, the Lord Chancellor must, subject to paragraph (6), retain—
+
+- (a) an amount equal to that part of the total cost of the civil legal services made available to the legally aided party in relevant proceedings or a relevant dispute which form part of the statutory charge;
+- (b) an amount equal to the costs incurred in taking steps under regulation 18; and
+- (c) where costs are paid to the Lord Chancellor together with interest, an amount equal to that interest, less the amount of any interest payable to the provider under paragraph (1)(c).
+
+(3) Paragraph (4) applies where—
+
+- (a) money is received by the Lord Chancellor under this Part; and
+- (b) a solicitor, whether or not a provider, has acted on behalf of a legally aided party in proceedings or a dispute before that party receives civil legal services in respect of the same proceedings or dispute, or has a lien on any documents necessary to proceedings to which a legally aided party is party, and has handed them over subject to the lien.
+
+(4) Where this paragraph applies, and the solicitor referred to in paragraph (3) gives the Lord Chancellor written notice to that effect, the Lord Chancellor must, subject to paragraph (6), pay to that solicitor the costs to which the solicitor would have been entitled if those costs had been assessed on an indemnity basis.
+
+(5) Where the amount of costs payable under paragraph (4) have not been assessed by the court, they may be assessed by the Lord Chancellor.
+
+(6) Where the amount received by the Lord Chancellor under this Part, after deduction of any amount under paragraph (2)(b), is insufficient to meet—
+
+- (a) the total amount payable to the provider under the arrangements in respect of the civil legal services made available to the legally aided party in the relevant proceedings or relevant dispute; and
+- (b) the amount payable to a solicitor under paragraph (4),
+
+the Lord Chancellor must apportion the amount received proportionately between the Lord Chancellor and the solicitor, and pay to the solicitor the amount so apportioned.
+
+(7) The Lord Chancellor must pay all the money paid to the Lord Chancellor under this Part, which is not paid or retained under paragraphs (1)(b), (1)(c), (2), (4) or (6) to the legally aided party.
+
+(8) In this regulation, “**solicitor**” means a person who, for the purposes of the Legal Services Act 2007 [^c21685841], is an authorised person in relation to an activity which constitutes the conduct of litigation within the meaning of that Act.
+
+### 18. Enforcement of orders etc in favour of a legally aided party
+
+(1) The Lord Chancellor may take such steps, including bringing proceedings, as may be necessary to enforce or give effect to—
+
+- (a) an order or agreement made in relevant proceedings or a relevant dispute in favour of a legally aided party (whether for that party or another person) providing for the recovery or preservation of property; or
+- (b) a legally aided party's costs order or costs agreement.
+
+(2) A legally aided party may bring proceedings to enforce or give effect to any order or agreement described in paragraph (1) only with the consent of the Lord Chancellor.
+
+(3) A legally aided party's provider may bring proceedings for the recovery of costs where a legally aided party's costs order or costs agreement has been made.
+
+(4) Where—
+
+- (a) the costs order or agreement relates wholly or partly to costs incurred in carrying out work which is paid, or payable, to the provider by the Lord Chancellor in respect of the civil legal services; and
+- (b) those costs have not been reimbursed by payment from any other party in favour of the legally aided party
+
+the provider may bring proceedings under paragraph (3) only with the consent of the Lord Chancellor.
+
+(5) The costs incurred by the Lord Chancellor in taking any step to enforce or give effect to an order or agreement under paragraph (1) are to be a first charge on any property or costs recovered as a result of taking any such step.
+
+### 19. Interest on damages
+
+(1) Where the Lord Chancellor receives damages paid in favour of a legally aided party, the Lord Chancellor must—
+
+- (a) deposit those damages in one general account at a deposit-taker; and
+- (b) except where paragraph (3) applies, pay the legally aided party a sum representing the gross rate of interest earned on the damages while they are held by the Lord Chancellor.
+
+(2) The interest payable to the legally aided party under paragraph (1)(b) is to be calculated—
+
+- (a) at a rate of 0.5% per annum less than the rate payable on damages deposited in the general account; and
+- (b) for the period beginning with the third business day after the date on which the damages are received by the Lord Chancellor, and ending with the date on which the Lord Chancellor determines the amount to be paid to the legally aided party by virtue of regulation 17(7).
+
+(3) The Lord Chancellor is not required to pay interest where the damages received—
+
+- (a) are £500 or less; or
+- (b) are held by the Lord Chancellor for less than 28 days.
+
+(4) In this regulation—
+
+- (a) “**business day**” means a day other than a Saturday, a Sunday, Christmas Day, Good Friday or a bank holiday in England and Wales under the Banking and Financial Dealings Act 1971 [^c21685851];
+- (b) “**deposit taker**” means the Bank of England, or a branch of [^key-2641a8db3da72a850b57da192540962f]...—
+  - (i) a person with permission to accept deposits under Part 4A of the Financial Services and Markets Act 2000 [^c21685861] (permission to carry on regulated activities); [^key-96fcb12dae21121281fe9e3b9d57ab5a]...
+  - (ii)[^key-96fcb12dae21121281fe9e3b9d57ab5a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . and
+- (c) “**general account**” means an interest bearing account opened in the name of the Lord Chancellor, the title of which does not identify any legally aided party.
+
+(5) The definition of “deposit taker” under paragraph (4)(b) must be read with—
+
+- (a) section 22 of the Financial Services and Markets Act 2000 (regulated activities);
+- (b) any relevant order under that section; and
+- (c) Schedule 2 to that Act (regulated activities).
+
+### 20. Application of regulations 21 to 25
+
+Regulations 21 to 25 apply where the statutory charge is in favour of the Lord Chancellor.
+
+### 21. Enforcement of the statutory charge
+
+The Lord Chancellor may enforce the statutory charge in any manner which would be available to a chargee in respect of a charge given between parties to proceedings.
+
+### 22. Postponement of the enforcement of the statutory charge
+
+(1) The Lord Chancellor may postpone the enforcement of the statutory charge if—
+
+- (a) by order of the court or agreement, it relates—
+  - (i) to property to be used as a home by the legally aided party or the legally aided party's dependants; or
+  - (ii) where the relevant proceedings are family proceedings, to money to pay for such a property;
+- (b) the Lord Chancellor is satisfied that the property referred to in paragraph (1)(a) will provide appropriate security for the statutory charge; and
+- (c) the Lord Chancellor considers that it would be unreasonable for the legally aided party to repay the amount of the charge.
+
+(2) Where the Lord Chancellor postpones the statutory charge under this regulation, the Lord Chancellor must, as soon as it is possible to do so, take steps to secure the amount of the statutory charge by—
+
+- (a) registering a charge under the Land Registration Act 2002 [^c21685871]; or
+- (b) taking equivalent steps (whether in England and Wales or another jurisdiction) to protect the Lord Chancellor's interest in the property.
+
+(3) Where the legally aided party wishes to purchase a property in substitution for the property over which a charge (or equivalent) is registered by virtue of paragraph (2), the Lord Chancellor may release that charge if the Lord Chancellor—
+
+- (a) is satisfied that the new property will provide appropriate security for the statutory charge; and
+- (b) the Lord Chancellor takes the steps in paragraph (2) in relation to the new property.
+
+(4) Without prejudice to the provisions of the Land Registration Act 2002 and the Land Charges Act 1972 [^c21685881], all conveyances and acts done to defeat, or operating to defeat, any charge, shall, except in the case of a bona fide purchaser without notice, be void as against the Lord Chancellor.
+
+(5) Where the enforcement of the statutory charge is postponed under this regulation—
+
+- (a) interest shall accrue for the benefit of the Lord Chancellor in accordance with regulation 25; and
+- (b) such interest is an amount for the purposes of the amount of the statutory charge under section 25(2) of the Act.
+
+### 23. Further provision about postponement
+
+(1) Regulation 15(1)(c) does not apply where the Lord Chancellor postpones the enforcement of the statutory charge under regulation 22.
+
+(2) Paragraphs (3) to (6) apply where the Lord Chancellor postpones the enforcement of the statutory charge under regulation 22.
+
+(3) The provider may release the purchase money to the seller or the seller's representative on completion of the purchase of the purchased property and must as soon as possible provide the Lord Chancellor with sufficient information to enable the Lord Chancellor to take the steps described in regulation 22(2).
+
+(4) The provider may release the purchase money to a conveyancer acting for the legally aided party in the purchase of the purchased property if the provider is satisfied that adequate steps have been, or will be, taken to protect the Lord Chancellor's interests.
+
+(5) The steps referred to in paragraph (4) must include the securing of an undertaking from the conveyancer to—
+
+- (a) provide the information referred to in paragraph (3); and
+- (b) repay the purchase money under paragraph (6).
+
+(6) Where the purchase of the purchased property has not been completed within 12 months after the date of the Lord Chancellor's decision to postpone enforcement of the statutory charge, or such longer period as the Lord Chancellor considers reasonable, regulation 15(1)(c) applies and the purchase money must be paid to the Lord Chancellor.
+
+(7) In this regulation—
+
+- (a) “**conveyancer**” means a person who lawfully provides conveyancing services;
+- (b) “**purchase money**” means money recovered or preserved by a legally aided party in the circumstances described in regulation 22(1)(a)(ii); and
+- (c) “**purchased property**” means the property purchased or to be purchased with the purchase money.
+
+### 24. Review of postponement
+
+(1) The Lord Chancellor may review a decision to postpone the enforcement of the statutory charge at any time and where on doing so considers that the conditions in regulation 22(1) are no longer satisfied, the Lord Chancellor must enforce the charge.
+
+(2) Where after a review the Lord Chancellor further postpones enforcement of the statutory charge—
+
+- (a) it may be postponed on such terms and conditions as to repayment by way of interim payments of either capital or interest, or both, as appear to the Lord Chancellor appropriate; and
+- (b) interest shall continue to accrue in accordance with regulation 25.
+
+### 25. Payment and recovery of interest
+
+(1) Where interest accrues under regulation 22(5)(a)—
+
+- (a) that interest shall accrue from the date when the charge is first registered;
+- (b) that interest shall continue to accrue until the amount of the statutory charge is paid;
+- (c) the applicable rate shall be 8% per annum; and
+- (d) the capital on which it is calculated shall be the lesser of—
+  - (i) the amount of the statutory charge outstanding from time to time, less any interest accrued under regulation 22(5)(a); and
+  - (ii) the value of the property recovered at the time of such recovery.
+
+(2) The legally aided party may make interim payments of either capital or interest, or both, in respect of the outstanding amount of the statutory charge, but no interim payment may be used to reduce the capital outstanding while any interest remains outstanding.
+
+Signed by authority of the Lord Chancellor
+
+McNally
+
+Minister of State
+
+Ministry of Justice
+
+*(This note is not part of the Regulations)*
+
+The Civil Legal Aid (Statutory Charge) Regulations 2013 (“**the Regulations**”) make provision about the statutory charge which arises over money and other property preserved or recovered by a legally aided party in civil proceedings and over costs payable to the legally aided party by another party to the proceedings (“the charge”).
+
+The charge arises under section 25(1) of the Legal Aid, Sentencing and Punishment of Offenders Act 2012. Part 2 of the Regulations makes provision about the calculation and operation of the charge and makes exceptions to it (regulations 4 to 6, 10 and 11). Regulation 7 determines when the charge is in favour of the Lord Chancellor and a provider of civil legal services, respectively. Regulations 8 and 9 make provision about when the charge may be waived in specified circumstances.
+
+Part 3 of the Regulations makes provision about the enforcement of the charge, including the obligations on providers and the Lord Chancellor in relation to the transfer, retention and payment of money (including costs) which is subject to the charge (regulations 12 to 17). Regulations 18 to 25 provide for the enforcement of the charge by the Lord Chancellor, providers and the legally aided party, and make provision for postponement of the charge and the payment of interest.
+
+## Annotations
+
+[^c21685671]: Marginal citation: [Section 42(1)](https://www.legislation.gov.uk/uksi/2013/503/section/42/1) of the [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10) provides that in Part 1 of that Act “**regulations**” means regulations made by the Lord Chancellor.
+
+[^c21685681]: Marginal citation: [2012 c. 10](https://www.legislation.gov.uk/ukpga/2012/10).
+
+[^c21685691]: Marginal citation: SI 2012/3098.
+
+[^c21685701]: Marginal citation: SI 1998/3132. There have been numerous amendments, with the relevant parts of the CPR consolidated, in amended form, in SI 2013/262.
+
+[^c21685711]: Marginal citation: The Civil Legal Aid (Family Relationship) Regulations (SI 2012/2684), made under paragraph 12(8)(b) of Part 1 of Schedule 1 to the Act, make provision about when matters arise out of a family relationship for the purpose of paragraph 12.
+
+[^key-4f135d6e65f40a92e6048cef74f1ddbd]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2013/503/regulation/2/1) substituted (21.5.2025) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Legal Aid: Domestic Abuse) (Miscellaneous Amendments) Order 2025 (S.I. 2025/611)](https://www.legislation.gov.uk/uksi/2025/611), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/611/article/1/1), [9](https://www.legislation.gov.uk/uksi/2025/611/article/9)
+
+[^c21685721]: Marginal citation: [1996 c. 47](https://www.legislation.gov.uk/ukpga/1996/47).
+
+[^c21685731]: Marginal citation: Paragraph 7 of Schedule 3 to the Act (legal aid for legal persons) provides that in section 25 references to an individual include a legal person to whom legal services are made available under Part 1 of the Act in accordance with Schedule 3 or regulations made under Schedule 3.
+
+[^key-8824266f40061b1d794dfc98280f41c1]: Textual amendment: Word in reg. 2(1) omitted (1.8.2014) by virtue of [The Civil Legal Aid (Procedure, Remuneration and Statutory Charge) (Amendment) Regulations 2014 (S.I. 2014/1824)](https://www.legislation.gov.uk/uksi/2014/1824), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1824/regulation/1), [4(a)](https://www.legislation.gov.uk/uksi/2014/1824/regulation/4/a)
+
+[^c21685741]: Marginal citation: The contracts are available at www.justice.gov.uk/legalaid. Copies can be inspected at the Legal Aid Agency (Head Office) at 102 Petty France, London, SW1H 9AJ.
+
+[^key-47e53a2e58126dbd06b6541b561d5090]: Textual amendment: Words in reg. 2(1) inserted (1.8.2014) by [The Civil Legal Aid (Procedure, Remuneration and Statutory Charge) (Amendment) Regulations 2014 (S.I. 2014/1824)](https://www.legislation.gov.uk/uksi/2014/1824), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1824/regulation/1), [4(b)](https://www.legislation.gov.uk/uksi/2014/1824/regulation/4/b)
+
+[^key-b9dda686d6670111aa5e26a83465544f]: Textual amendment: Word in reg. 2(1) omitted (1.11.2015) by virtue of [The Civil and Criminal Legal Aid (Amendment) (No.2) Regulations 2015 (S.I. 2015/1678)](https://www.legislation.gov.uk/uksi/2015/1678), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2015/1678/regulation/1/2/b), [7(a)](https://www.legislation.gov.uk/uksi/2015/1678/regulation/7/a)
+
+[^key-97bc8b9bf0c4f317d19a98fe3214de9e]: Textual amendment: Word in reg. 2(1) omitted (1.11.2016) by virtue of [The Civil Legal Aid (Remuneration and Statutory Charge) (Amendment) Regulations 2016 (S.I. 2016/983)](https://www.legislation.gov.uk/uksi/2016/983), [regs. 1](https://www.legislation.gov.uk/uksi/2016/983/regulation/1), [3(a)](https://www.legislation.gov.uk/uksi/2016/983/regulation/3/a)
+
+[^key-cce191c7021813da80ce6365b6b80910]: Textual amendment: Words in reg. 2(1) inserted (1.11.2015) by [The Civil and Criminal Legal Aid (Amendment) (No.2) Regulations 2015 (S.I. 2015/1678)](https://www.legislation.gov.uk/uksi/2015/1678), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2015/1678/regulation/1/2/b), [7(b)](https://www.legislation.gov.uk/uksi/2015/1678/regulation/7/b)
+
+[^key-017cc76547186bb3a538950fe29c2a47]: Textual amendment: Word in reg. 2(1) omitted (1.9.2018) by virtue of [The Civil Legal Aid (Procedure, Remuneration and Statutory Charge) (Amendment) Regulations 2018 (S.I. 2018/803)](https://www.legislation.gov.uk/uksi/2018/803), [regs. 1](https://www.legislation.gov.uk/uksi/2018/803/regulation/1), [4(a)](https://www.legislation.gov.uk/uksi/2018/803/regulation/4/a)
+
+[^key-9fa08ed22b8d2959cbecd4f9f154d156]: Textual amendment: Words in reg. 2(1) inserted (1.11.2016) by [The Civil Legal Aid (Remuneration and Statutory Charge) (Amendment) Regulations 2016 (S.I. 2016/983)](https://www.legislation.gov.uk/uksi/2016/983), [regs. 1](https://www.legislation.gov.uk/uksi/2016/983/regulation/1), [3(b)](https://www.legislation.gov.uk/uksi/2016/983/regulation/3/b)
+
+[^key-9d7a3c4b8d5d620963f3ae5d55d829ca]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2013/503/regulation/2/1) omitted (23.9.2024) by virtue of [The Civil Legal Aid (Standard Civil Contract - Miscellaneous Amendments) Regulations 2024 (S.I. 2024/889)](https://www.legislation.gov.uk/uksi/2024/889), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/889/regulation/1/2), [3(1)(a)](https://www.legislation.gov.uk/uksi/2024/889/regulation/3/1/a)
+
+[^key-b90cbfedc0a2f68fc7091792b2869803]: Textual amendment: Words in reg. 2(1) inserted (1.9.2018) by [The Civil Legal Aid (Procedure, Remuneration and Statutory Charge) (Amendment) Regulations 2018 (S.I. 2018/803)](https://www.legislation.gov.uk/uksi/2018/803), [regs. 1](https://www.legislation.gov.uk/uksi/2018/803/regulation/1), [4(b)](https://www.legislation.gov.uk/uksi/2018/803/regulation/4/b)
+
+[^key-f4ed5745db6bdde93af427aa3a86d63d]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2013/503/regulation/2/1) inserted (23.9.2024) by [The Civil Legal Aid (Standard Civil Contract - Miscellaneous Amendments) Regulations 2024 (S.I. 2024/889)](https://www.legislation.gov.uk/uksi/2024/889), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/889/regulation/1/2), [3(1)(b)](https://www.legislation.gov.uk/uksi/2024/889/regulation/3/1/b)
+
+[^key-d12c8877d9c61165f9402b095add69d5]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2013/503/regulation/2/1) inserted (23.9.2024) by [The Civil Legal Aid (Standard Civil Contract - Miscellaneous Amendments) Regulations 2024 (S.I. 2024/889)](https://www.legislation.gov.uk/uksi/2024/889), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/889/regulation/1/2), [3(1)(c)](https://www.legislation.gov.uk/uksi/2024/889/regulation/3/1/c)
+
+[^c21685751]: Marginal citation: SI 2013/104.
+
+[^c21685761]: Marginal citation: [Section 6](https://www.legislation.gov.uk/uksi/2013/503/section/6) of the Act (authorisations) makes provision for authorisations given for the purpose of section 5 of the Act (delegation) or regulations made under that section.
+
+[^c21685771]: Marginal citation: [1973 c. 18](https://www.legislation.gov.uk/ukpga/1973/18); [sections 25B](https://www.legislation.gov.uk/uksi/2013/503/section/25B) and 25C were inserted by the [Pensions Act 1995 (c. 26)](https://www.legislation.gov.uk/ukpga/1995/26), [section 166(1)](https://www.legislation.gov.uk/ukpga/1995/26/section/166/1). Section 25B was amended by the [Welfare Reform and Pensions Act 1999 (c. 30)](https://www.legislation.gov.uk/ukpga/1999/30), [Schedule 4](https://www.legislation.gov.uk/ukpga/1999/30/schedule/4), [paragraph 1(5)(a)](https://www.legislation.gov.uk/ukpga/1999/30/paragraph/1/5/a) and (b), and section 25C was amended by the same Act, Schedule 4, paragraph 2(2) to (5).
+
+[^c21685781]: Marginal citation: [1975 c. 63](https://www.legislation.gov.uk/ukpga/1975/63).
+
+[^c21685791]: Marginal citation: [1996 c. 27](https://www.legislation.gov.uk/ukpga/1996/27).
+
+[^c21685801]: Marginal citation: [2004 c. 33](https://www.legislation.gov.uk/ukpga/2004/33).
+
+[^c21685811]: Marginal citation: [1996 c. 18](https://www.legislation.gov.uk/ukpga/1996/18).
+
+[^c21685821]: Marginal citation: [2010 c. 15](https://www.legislation.gov.uk/ukpga/2010/15).
+
+[^c21685831]: Marginal citation: SI 2009/1603.
+
+[^c21685841]: Marginal citation: [2007 c. 29](https://www.legislation.gov.uk/ukpga/2007/29).
+
+[^c21685851]: Marginal citation: [1971 c. 80](https://www.legislation.gov.uk/ukpga/1971/80).
+
+[^key-2641a8db3da72a850b57da192540962f]: Textual amendment: Word in [reg. 19(4)(b)](https://www.legislation.gov.uk/uksi/2013/503/regulation/19/4/b) omitted (31.12.2020) by virtue of [The EEA Passport Rights (Amendment, etc., and Transitional Provisions) (EU Exit) Regulations 2018 (S.I. 2018/1149)](https://www.legislation.gov.uk/uksi/2018/1149), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2018/1149/regulation/1/3), [Sch. para. 75(a)](https://www.legislation.gov.uk/uksi/2018/1149/schedule/paragraph/75/a) (with [reg. 4](https://www.legislation.gov.uk/uksi/2018/1149/regulation/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c21685861]: Marginal citation: [2000 c. 8](https://www.legislation.gov.uk/ukpga/2000/8); [Part 4A](https://www.legislation.gov.uk/uksi/2013/503/part/4A) is inserted into the 2000 Act by section 11 of the [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), to be commenced on 1 April 2013.
+
+[^key-96fcb12dae21121281fe9e3b9d57ab5a]: Textual amendment: [Reg. 19(4)(b)(ii)](https://www.legislation.gov.uk/uksi/2013/503/regulation/19/4/b/ii) and word omitted (31.12.2020) by virtue of [The EEA Passport Rights (Amendment, etc., and Transitional Provisions) (EU Exit) Regulations 2018 (S.I. 2018/1149)](https://www.legislation.gov.uk/uksi/2018/1149), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2018/1149/regulation/1/3), [Sch. para. 75(b)](https://www.legislation.gov.uk/uksi/2018/1149/schedule/paragraph/75/b) (with [reg. 4](https://www.legislation.gov.uk/uksi/2018/1149/regulation/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c21685871]: Marginal citation: [2002 c. 9](https://www.legislation.gov.uk/ukpga/2002/9).
+
+[^c21685881]: Marginal citation: [1972 c. 61](https://www.legislation.gov.uk/ukpga/1972/61).

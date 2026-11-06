@@ -1,0 +1,94 @@
+---
+title: Financial Services and Markets Act 2023, section 11
+act: Financial Services and Markets Act 2023
+section: '11'
+status: revised-with-pending-changes
+text_date: '2026-07-13'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2023/29/section/11
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Financial Services and Markets Act 2023, section 11
+
+> **Warning: changes not yet applied to this text (17).** Text as at 2026-07-13. See https://www.legislation.gov.uk/changes/affected/ukpga/2023/29
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 11. Rules relating to investment exchanges and data reporting service providers[^key-571bdf1745602ce5aaebbc3612f481e1][^key-f0dde7237a66ef50932795d888ea47fb]
+
+*Extent: E+W+S+N.I.*
+
+(1) FSMA 2000 is amended as follows.
+
+(2) After section 300G (section 300F: rules in relation to overseas FMI entities) (inserted by section 9) insert—
+
+> **300H. Rules relating to investment exchanges and data reporting service providers**
+>
+> (1) The FCA may make such rules applying to recognised UK investment exchanges or data reporting service providers—
+>
+> - (a) with respect to the carrying on by them of relevant activities, or
+> - (b) with respect to the carrying on by them of an activity which is not a relevant activity,
+>
+> as appear to the FCA to be necessary or expedient for the purpose of advancing one or more of its operational objectives.
+>
+> (2) In this section “relevant activity”—
+>
+> - (a) in relation to a recognised UK investment exchange, means a regulated activity described in section 285(2);
+> - (b) in relation to a data reporting service provider, means providing a data reporting service.
+>
+> (3) Rules under this section may include—
+>
+> - (a) provision applying to a recognised UK investment exchange or data reporting service provider even though there is no relationship between that person and the persons whose interests will be protected by the rules;
+> - (b) requirements which take into account, in the case of a recognised UK investment exchange or data reporting service provider which is a member of a group, any activity of another member of the group.
+>
+> (4) Rules under this section may not modify, amend or revoke any retained direct EU legislation (except retained direct EU legislation which takes the form of FCA rules).
+>
+> (5) In this section—
+>
+> - “data reporting service” and “data reporting service provider” have the meanings given by regulation 2 of the Data Reporting Services Regulations 2017 ([S.I. 2017/699](https://www.legislation.gov.uk/uksi/2017/699));
+> - “**recognised UK investment exchange**” means a recognised investment exchange that is not an overseas investment exchange as defined in section 313(1).
+
+(3) In section 166A (appointment of skilled person to collect and update information), after subsection (9) insert—
+
+> (9A) The powers conferred by this section may also be exercised by the FCA in relation to a recognised investment exchange (and references to an authorised person are to be read accordingly).
+
+(4) In section 168 (appointment of persons to carry out investigations in particular cases), in subsection (4)(ca), at the end insert “or a rule made by the FCA under section 300H”.
+
+(5) In section 312E (public censure)—
+
+- (a) in subsection (1)—
+  - (i) after “recognised body” insert “or data reporting service provider”;
+  - (ii) after “the body” insert “or provider”;
+- (b) in subsection (2)(a) after “exchange” insert “or data reporting service provider”;
+- (c) after subsection (3) insert—
+
+  > (4) In this Chapter “**data reporting service provider**” has the meaning given by regulation 2 of the Data Reporting Services Regulations 2017 ([S.I. 2017/699](https://www.legislation.gov.uk/uksi/2017/699)).
+
+(6) In section 312F (financial penalties), in subsection (1)—
+
+- (a) after “recognised body” insert “or data reporting service provider”;
+- (b) after “the body”, in both places, insert “or provider”.
+
+(7) In section 312G (proposal to take disciplinary measures), in subsection (1)—
+
+- (a) in paragraph (a), after “recognised body” insert “or data reporting service provider”;
+- (b) in the words after paragraph (b), after “body” insert “, provider”.
+
+(8) In section 312H (decision notice)—
+
+- (a) in subsection (1)—
+  - (i) in paragraph (a), after “recognised body” insert “or data reporting service provider”;
+  - (ii) in the words after paragraph (b), after “body” insert “, provider”;
+- (b) in subsection (4)—
+  - (i) in paragraph (a), after “recognised body” insert “or data reporting service provider”;
+  - (ii) in the words after paragraph (b), after “body” insert “, provider”.
+
+(9) In section 312I(a) (publication), after “recognised body” insert “, data reporting service provider”.
+
+## Annotations
+
+[^key-571bdf1745602ce5aaebbc3612f481e1]: Commencement: S. 11 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+
+[^key-f0dde7237a66ef50932795d888ea47fb]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2023/29/section/11) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(g)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/g)

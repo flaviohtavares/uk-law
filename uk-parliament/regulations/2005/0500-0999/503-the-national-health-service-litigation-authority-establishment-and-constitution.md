@@ -1,0 +1,85 @@
+---
+title: The National Health Service Litigation Authority (Establishment and Constitution) Amendment Order 2005
+id: uksi/2005/503
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2005-03-08'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2005/503
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2005/503/pdfs/uksiem_20050503_en.pdf
+- http://www.legislation.gov.uk/uksi/2005/503/pdfs/uksi_20050503_en.pdf
+- http://www.legislation.gov.uk/uksi/2005/503/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The National Health Service Litigation Authority (Establishment and Constitution) Amendment Order 2005
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2005 No. 503
+
+NATIONAL HEALTH SERVICE, ENGLAND
+
+The National Health Service Litigation Authority (Establishment and Constitution) Amendment Order 2005
+
+Made
+
+8th March 2005
+
+Laid before Parliament
+
+10th March 2005
+
+Coming into force
+
+1st April 2005
+
+The Secretary of State for Health, in exercise of the powers conferred upon him by sections 11(1) and (2) and 126(3) and (4) of the National Health Service Act 1977[^f00001], hereby makes the following Order:
+
+## 1. Citation, commencement, application and interpretation
+
+(1) This Order may be cited as the National Health Service Litigation Authority (Establishment and Constitution) Amendment Order 2005 and shall come into force on 1st April 2005.
+
+(2) This Order applies in relation to England.
+
+(3) In this Order “the principal Order” means the National Health Service Litigation Authority (Establishment and Constitution )Order 1995[^f00002].
+
+## 2. Amendment of article 3 of the principal Order
+
+For regulation 3 of the principal Order substitute —
+
+> **3. Functions of the Authority**
+>
+> Subject to and in accordance with such directions as the Secretary of State may give to the Authority, the Authority shall perform on behalf of the Secretary of State -
+>
+> - (a) such of his functions in connection with the establishment and administration of a scheme under section 21 of the National Health Service and Community Care Act 1990 (scheme for meeting liabilities of health service bodies);
+> - (b) such of his appellate and other functions in connection with the decisions and functions of Primary Care Trusts; and
+> - (c) such other functions as the Secretary of State may direct.
+
+.
+
+Signed by authority of the Secretary of State for Health
+
+Rosie Winterton
+
+Minister of State,
+
+Department of Health
+
+8th March 2005
+
+(This note is not part of the Order)
+
+This Order amends the National Health Service Litigation Authority (Establishment and Constitution) Order 1995 to confer on it the functions previously carried out by the Family Health Services Appeal Authority (Special Health Authority) which is abolished by [S.I. 2005/502](https://www.legislation.gov.uk/uksi/2005/502).
+
+## Annotations
+
+[^f00001]: Footnote: [1977 c. 49](https://www.legislation.gov.uk/ukpga/1977/49); section 11 was amended by section 2(1) of, and paragraph 2 of Schedule 1 to, the Health Authorities Act [1995 (c. 17)](https://www.legislation.gov.uk/ukpga/1995/17) (“the 1995 Act”) and section 65 of, and paragraphs 4 and 6 of Schedule 4 to, the Health Act [1999 (c. 8)](https://www.legislation.gov.uk/ukpga/1999/8) (“the 1999 Act”); section 126(3) was amended by section 41(10) of, and paragraph 27 of Schedule 2 to, the National Health Service (Primary Care) Act [1997 (c. 46)](https://www.legislation.gov.uk/ukpga/1997/46) and section 65(2) of the National Health Service and Community Care Act [1990 (c. 19)](https://www.legislation.gov.uk/ukpga/1990/19) (“the 1990 Act”); section 126(4) was amended by section 65(2) of the 1990 Act, section 65(1) of, and paragraphs 4 and 37(1) and (6) of Schedule 4 to, the 1999 Act, section 67(1) of, and paragraphs 5(1) and (13)(b) of Schedule 5 to, the Health and Social Care Act [2001 (c. 15)](https://www.legislation.gov.uk/ukpga/2001/15) (“the 2001 Act”), sections 6(3)(c) and 37(1) of, and paragraphs 1 and 10(a) of Schedule 8 to, the National Health Service Reform and Health Care Professions Act [2002 (c. 17)](https://www.legislation.gov.uk/ukpga/2002/17) and section 184 of, and paragraph 38 of Schedule 11 and Part 4 of Schedule 14 to, the Health and Social Care (Community Health and Standards) Act [2003 (c. 43)](https://www.legislation.gov.uk/ukpga/2003/43) (“the 2003 Act”). The functions of the Secretary of State under these provisions are, so far as exercisable in relation to Wales, transferred to the National Assembly for Wales by article 2(a) of, and Schedule 1 to, the National Assembly for Wales (Transfer of Functions) Order 1999, [S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672).
+
+[^f00002]: Footnote: [S.I.1995/2800](https://www.legislation.gov.uk/uksi/1995/2800) as amended by [S.I. 2002/2621](https://www.legislation.gov.uk/uksi/2002/2621).

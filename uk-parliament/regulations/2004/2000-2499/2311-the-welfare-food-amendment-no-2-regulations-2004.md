@@ -1,0 +1,93 @@
+---
+title: The Welfare Food (Amendment No. 2) Regulations 2004
+id: uksi/2004/2311
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2004-09-07'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2004/2311
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2004/2311/pdfs/uksiem_20042311_en.pdf
+- http://www.legislation.gov.uk/uksi/2004/2311/pdfs/uksi_20042311_en.pdf
+- http://www.legislation.gov.uk/uksi/2004/2311/made/data.pdf
+pending_changes: 1
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Welfare Food (Amendment No. 2) Regulations 2004
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2004 No. 2311
+
+FOOD
+
+The Welfare Food (Amendment No. 2) Regulations 2004
+
+Made
+
+7th September 2004
+
+Laid before Parliament
+
+10th September 2004
+
+Coming into force
+
+1st October 2004
+
+The Secretary of State for Health in exercise of the powers conferred on him by sections 13(3) and (4) of the Social Security Act 1988[^f00001] and 175(2) to (5) of the Social Security Contributions and Benefits Act 1992[^f00002], and all other powers enabling him in that behalf hereby makes the following Regulations:—
+
+## 1. Citation, commencement and interpretation
+
+(1) These Regulations may be cited as the Welfare Food (Amendment No. 2) Regulations 2004.
+
+(2) These Regulations shall come into force on 1<sup>st</sup> October 2004.
+
+(3) In these Regulations “the principal Regulations” means the Welfare Food Regulations 1996[^f00003].
+
+## 2. Amendment of Schedule 6
+
+In Schedule 6 to the principal Regulations (enactments applied for the purposes of these Regulations), at the end, add the following entries—
+
+|  |  |
+| --- | --- |
+| Section 123 of the Social Security Administration Act 1992[^f00004] (unauthorised disclosure of information relating to particular persons) |  |
+| Schedule 4 to the Social Security Administration Act 1992[^f00005] (persons employed in social security administration or adjudication) | In Schedule 4, in Part I (the specified persons), under *Government departments*, after “(d) the Ministry of Defence”, insert “(e) the Department of Health”; and in Part II (construction of references to government departments etc), at the end of paragraph 1, add “and the reference to the Department of Health is a reference to that Department only to the extent that the functions carried out relate to the administration of a scheme made for the purposes of section 13 of the Social Security Act 1988”. |
+| Section 3(2)(a) of the Social Security Act 1998[^f00006] (use of information) | After “or employment or training” insert “, or, where it relates to benefit under the Administration Act, the administration of a scheme made for the purposes of section 13 of the Social Security Act 1988”. |
+
+Signed by authority of the Secretary of State
+
+Melanie Johnson
+
+Parliamentary Under Secretary of State,
+
+Department of Health
+
+7th September 2004
+
+(This note is not part of the Regulations)
+
+These Regulations further amend the Welfare Food Regulations 1996 (“the principal Regulations”).
+
+Regulation 2 adds new entries to Schedule 6 to the principal Regulations (enactments applied for the purposes of these Regulations). The enactments specified are modified as indicated pursuant to regulation 22 of the principal Regulations (application of enactments). The modifications enable information held by the Secretary of State, and which relates to social security, to be supplied to the Secretary of State for Health for use in the administration of a scheme made for the purposes of section 13 of the Social Security Act 1988 (schemes for distribution etc. of welfare foods). It also specifies a civil servant in the Department of Health as a person who will be guilty of an offence if he discloses without lawful authority information acquired in the course of his employment.
+
+These Regulations do not impose a cost on business.
+
+## Annotations
+
+[^f00001]: Footnote: [1988 (c. 7)](https://www.legislation.gov.uk/ukpga/1988/7). Section 13 was amended by section 21(1) and (2) of, and paragraph 8(11)(a) of Schedule 6 and Schedule 7 to, the Social Security Act [1990 (c. 27)](https://www.legislation.gov.uk/ukpga/1990/27), and section 4 of, and Schedule 2, paragraph 94 of, the Social Security (Consequential Provisions) Act [1992 (c. 6)](https://www.legislation.gov.uk/ukpga/1992/6).
+
+[^f00002]: Footnote: [1992 (c. 4)](https://www.legislation.gov.uk/ukpga/1992/4). Section 175(2) to (5) is applied by section 15A of the Social Security Act [1988 (c. 7)](https://www.legislation.gov.uk/ukpga/1988/7), which section was inserted by section 21(1) of, and paragraph 8(10) of Schedule 6 to, the Social Security Act [1990 (c. 27)](https://www.legislation.gov.uk/ukpga/1990/27), and amended by section 4 of, and paragraph 96 of Schedule 2 to, the Social Security (Consequential Provisions) Act [1992 (c. 6)](https://www.legislation.gov.uk/ukpga/1992/6).
+
+[^f00003]: Footnote: S.I. [1996/1434](https://www.legislation.gov.uk/uksi/1996/1434), as amended by the Welfare Food (Amendment) Regulations 2004, S.I. [2004/723](https://www.legislation.gov.uk/uksi/2004/723). Previous amending instruments were revoked by regulation 7 of S.I. [2004/723](https://www.legislation.gov.uk/uksi/2004/723), and earlier amending instruments.
+
+[^f00004]: Footnote: [1992 (c. 5)](https://www.legislation.gov.uk/ukpga/1992/5). Subsections (2) and (9) were amended by the Social Security Administration (Fraud) Act 1997, section 22, Schedule 1, paragraph 6. Subsection (6A) was inserted by the Deregulation and Contracting Out Act 1994, section 76, Schedule 16, paragraph 21, and amended by the Social Security Act 1998, section 86(1), Schedule 7, paragraph 88. Subsection 7 was amended by the Social Security Contributions (Transfer of Functions, etc) Act 1999, section 26(3), Schedule 10, Part 1, and the Scotland Act 1988 (Consequential Modifications) (No. 2) Order 1999, S.I. [1999/1820](https://www.legislation.gov.uk/uksi/1999/1820), article 4, Schedule 2, Part 1, paragraph 105(1), (2). Subsection (8) was amended by the Social Security Administration (Fraud) Act 1997, sections 4(2), 22, Schedule 2, and the Government of Wales Act 1998, section 125, Schedule 12, paragraph 32(b). Subsection (10) was amended by the [Adults with Incapacity (Scotland) Act 2000 (asp 4)](https://www.legislation.gov.uk/asp/2000/4), section 88(2), Schedule 5, paragraph 23.
+
+[^f00005]: Footnote: In Schedule 4, Part I, in the entry relating to “Government departments”, paragraph (a) was amended by the Secretaries of State for Education and Skills and for Work and Pensions Order 2002, S.I. [2002/1397](https://www.legislation.gov.uk/uksi/2002/1397), article 12, Schedule, Part 1, paragraph 8(1), (4)(a), and paragraph (d) was inserted by the Transfer of Functions (War Pensions etc) Order 2001, S.I. [2001/3506](https://www.legislation.gov.uk/uksi/2001/3506), article 5, Schedule, paragraph 4(1), (2). In Part II, paragraph 1 was substituted by the Secretaries of State for Education and Skills and for Work and Pensions Order 2002, S.I. [2002/1397](https://www.legislation.gov.uk/uksi/2002/1397), article 12, Schedule, Part I, paragraph 8(1), (4)(b).
+
+[^f00006]: Footnote: [(c. 14)](https://www.legislation.gov.uk/ukpga/1998/14). Section 3(2) was amended by the Employment Act [2002 (c. 22)](https://www.legislation.gov.uk/ukpga/2002/22) section 50, Schedule 6, paragraph 1(b).

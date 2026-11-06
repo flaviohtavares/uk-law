@@ -1,0 +1,44 @@
+---
+title: Finance Act 2014, section 156
+act: Finance Act 2014
+section: '156'
+status: revised-with-pending-changes
+text_date: '2026-06-25'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2014/26/section/156
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Finance Act 2014, section 156
+
+> **Warning: changes not yet applied to this text (30).** Text as at 2026-06-25. See https://www.legislation.gov.uk/changes/affected/ukpga/2014/26
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 156. Profits on pooled prize gaming
+
+*Extent: E+W+S+N.I.*
+
+(1) Take the following steps to calculate the amount of a gaming provider's profits for an accounting period in respect of pooled prize gaming.
+
+- *Step 1* Take the aggregate of the relevant gaming payments made to the provider in the accounting period and deduct the aggregate of any of those payments that are assigned by or on behalf of the provider to gaming prize funds during the period.
+- *Step 2* If in the accounting period any amount contained in a gaming prize fund to which relevant gaming payments have been assigned by or on behalf of the provider is used otherwise than to provide prizes to participators in pooled prize gaming, multiply each amount so used in the accounting period by the relevant proportion that applies in relation to it.
+- *Step 3* Add the aggregate of the amounts calculated under Step 2 to the amount calculated under Step 1.
+- *Step 4* If in the accounting period any top-up payment is assigned to a gaming prize fund by the gaming provider, multiply the amount of each top-up payment so assigned in the accounting period by the appropriate proportion that applies in relation to it.
+- *Step 5* Subtract the aggregate of the amounts calculated under Step 4 from the amount calculated under Step 3.
+
+(2) For the purposes of Step 2 the relevant proportion, in relation to any amount which is used otherwise than to provide prizes, is—
+
+- (a) if the amount relates to a specific game of chance, the proportion of that amount that consists of relevant gaming payments made to the provider in respect of that game,
+- (b) if the amount does not relate to a specific game of chance but relates to amounts assigned to the fund during a specific period, the proportion of that amount that consists of relevant gaming payments assigned to the fund by or on behalf of the provider during that period, and
+- (c) in any other case, the proportion of the total amount contained in the fund immediately before the amount is so used which consists of relevant gaming payments assigned to the fund by or on behalf of the provider.
+
+(3) For the purposes of Step 4—
+
+- (a) a top-up payment is assigned to a gaming prize fund if the gaming provider assigns an amount (other than a gaming payment) to the fund to satisfy a guarantee given by the gaming provider that prizes of a specified minimum amount will be available in respect of gaming under arrangements made with the provider, and
+- (b) the appropriate proportion, in relation to such a top-up payment, is the proportion determined in accordance with a notice published by the Commissioners.
+
+(4) A notice under subsection (3)(b) may provide for top-up payments to be ignored for the purposes of Step 4 in a specified case or class of cases.
+
+(5) In this section “**relevant gaming payment**” means a gaming payment in respect of pooled prize gaming.

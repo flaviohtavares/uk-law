@@ -1,0 +1,90 @@
+---
+title: The Antarctic Treaty (Amendment) Order 1989
+id: uksi/1989/841
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '1989-05-16'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1989/841
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1989/841/pdfs/uksi_19890841_en.pdf
+- http://www.legislation.gov.uk/uksi/1989/841/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Antarctic Treaty (Amendment) Order 1989
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+1989 No. 841
+
+SOUTH ATLANTIC TERRITORIES
+
+The Antarctic Treaty (Amendment) Order 1989
+
+Made
+
+16th May 1989
+
+Laid before Parliament
+
+24th May 1989
+
+Coming into force
+
+1st July 1989
+
+At the Court at Buckingham Palace, the 16th day of May 1989
+
+Present,
+
+The Queen’s Most Excellent Majesty in Council
+
+Her Majesty, in exercise of the powers conferred upon Her by the British Settlements Acts 1887 and 1945[^f00001], the Foreign Jurisdiction Act 1890[^f00002] or otherwise in Her Majesty vested, is pleased, by and with the advice of Her Privy Council, to order, and it is hereby ordered, as follows:
+
+## 1. Citation and commencement.
+
+This Order may be cited as the Antarctic Treaty (Amendment) Order 1989 and shall come into force on 1st July 1989.
+
+## 2. Amendment of principal Order.
+
+(1) The Antarctic Treaty Order in Council 1962[^f00003] (in this section referred to as “the principal Order”) shall have effect as if references therein to a court included references to a court established under section 15 of the British Antarctic Territory Order 1989[^f00004].
+
+(2) Section 2(1) of the principal Order is amended by substituting for the definition of “the High Commissioner” the following—
+
+> - “the Commissioner” means the person holding the office of Commissioner for the Territory under section 4 of the British Antarctic Territory Order 1989 and includes any person for the time being discharging the functions of that office under section 7 of that Order and, to the extent that a person is for the time being authorised to discharge any of those functions under section 8 of that Order, that person;
+
+.
+
+(3) Sections 4 and 6 of the principal Order are amended by substituting for the words “High Commissioner”, wherever they appear, the word “Commissioner”.
+
+(4) Section 4 of the principal Order is amended by substituting for subsection (3)(b) the following—
+
+> - (b) for the conveyance in custody of any person so arrested to a convenient place in the Territory or, where any court of the Territory having jurisdiction to enquire into a charge in respect of the offence which such person is suspected of having committed may exercise such jurisdiction when sitting in the United Kingdom or any other colony by virtue of the proviso to section 15(2) of the British Antarctic Territory Order 1989, to a convenient place in the United Kingdom or, as the case may be, in such other colony, for the purpose of being charged with that offence;
+
+.
+
+(5) Section 5(2) of the principal Order is amended by substituting for the words “fifty pounds” the words “four hundred pounds”.
+
+G. I. de Deney
+
+Clerk of the Privy Council
+
+(This note is not part of the Order)
+
+This Order makes a number of amendments to the Antarctic Treaty Order in Council 1962 which are consequential upon the making of the British Antarctic Territory Order 1989. It also raises the maximum penalty which may be imposed under the 1962 Order for the offence of impeding or hindering an observer in the exercise of his right of inspection.
+
+## Annotations
+
+[^f00001]: Footnote: [1887 c. 54](https://www.legislation.gov.uk/ukpga/1887/54) and [1945 c. 7](https://www.legislation.gov.uk/ukpga/1945/7) (9 & 10 Geo. 6).
+
+[^f00002]: Footnote: [1890 c. 37](https://www.legislation.gov.uk/ukpga/1890/37).
+
+[^f00003]: Footnote: S.I. [1962/401](https://www.legislation.gov.uk/uksi/1962/401).
+
+[^f00004]: Footnote: S.I. [1989/842](https://www.legislation.gov.uk/uksi/1989/842).

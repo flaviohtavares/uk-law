@@ -1,0 +1,196 @@
+---
+title: The Common Investment (Closure of High Yield Fund) Scheme 2003
+id: uksi/2003/778
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2003-03-05'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2003/778
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2003/778/pdfs/uksi_20030778_en.pdf
+- http://www.legislation.gov.uk/uksi/2003/778/made/data.pdf
+pending_changes: 2
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Common Investment (Closure of High Yield Fund) Scheme 2003
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2003 No. 778
+
+SUPREME COURT OF ENGLAND AND WALES
+
+COUNTY COURTS, ENGLAND AND WALES
+
+The Common Investment (Closure of High Yield Fund) Scheme 2003
+
+Made
+
+5th March 2003
+
+Laid before Parliament
+
+19th March 2003
+
+Coming into force
+
+for the purpose of paragraph 7
+
+10th April 2003
+
+otherwise
+
+9th April 2003
+
+The Lord Chancellor, in exercise of the powers conferred upon him by section 42(1) and (16) of the Administration of Justice Act 1982[^f00001], hereby makes the following Scheme:
+
+## 1. Citation and commencement
+
+This Scheme may be cited as the Common Investment (Closure of High Yield Fund) Scheme 2003 and shall come into force—
+
+- (a) as to paragraph 7, on 10th April 2003;
+- (b) as to the remainder, on 9th April 2003.
+
+## 2. Interpretation
+
+(1) In this Scheme—
+
+- “the additional CF units” means a number of units in the Capital Fund calculated in accordance with paragraph 3(2);
+- “the effective date” means 5th April 2003;
+- “the existing CF units” means the units in the Capital Fund in existence on the effective date;
+- “the existing HYF units” means the units in the High Yield Fund in existence on the effective date;
+- “the final HYF dividend” means the dividend to be paid on units of the High Yield Fund in accordance with paragraph 5;
+- “the HYF asset value” means the value of the assets of the High Yield Fund on the effective date, ascertained in accordance with paragraph 3(1), less the value of the assets retained in accordance with paragraph 6(2);
+- “the CF asset value” means the value of the assets of the Capital Fund on the effective date, ascertained in accordance with paragraph 3(1);
+- “the multiplier” means a number calculated in accordance with paragraph 3(3);
+- “the Principal Scheme” means the Common Investment Scheme 1991[^f00002];
+- “relevant liabilities” means all liabilities, costs and expenses, including liabilities, costs and expenses incurred in relation to paragraphs 3 to 6 which may lawfully be satisfied or paid out of the High Yield Fund and “liabilities” includes, without limitation, a liability to tax;
+- “the retained assets” means the assets retained in accordance with paragraph 6(2), together with any income accruing to those assets while they are retained.
+
+(2) In this Scheme unless the content requires otherwise—
+
+- (a) words and expressions shall have the same meanings as they have in the Principal Scheme;
+- (b) a reference to a paragraph by number alone means the paragraph so numbered in this Scheme.
+
+## 3. Valuation of funds and ascertainment of number of additional units in Capital Fund
+
+(1) On the effective date the investment manager shall (notwithstanding that that date is not a valuation day) value the High Yield Fund and the Capital Fund in accordance with Schedule 1 to the Principal Scheme.
+
+(2) The number of the additional CF units shall be ascertained by dividing the HYF asset value by the CF asset value and multiplying the resulting figure by the number of the existing CF units.
+
+(3) The multiplier shall be ascertained by dividing the number of the additional CF units by the number of the existing HYF units.
+
+## 4. Merger of High Yield Fund into Capital Fund
+
+(1) On the effective date the events set out in the following sub-paragraphs shall take place.
+
+(2) Subject to paragraph 6(2) all the assets of the High Yield Fund shall be added to the Capital Fund and shall from then be treated as assets of the Capital Fund.
+
+(3) Subject to paragraph 5(3), all the units in the High Yield Fund shall be cancelled.
+
+(4) The number of units into which the Capital Fund is divided shall be increased by the number of the additional CF units.
+
+(5) For each unit in the High Yield Fund which was in existence immediately before the effective date, there shall instead be allotted to the Accountant General a number of units in the Capital Fund equal to the multiplier.
+
+## 5. Dividends
+
+(1) The effective date shall be an additional accounting date in relation to the Capital Fund and the High Yield Fund, and dividends shall be paid on units of those funds in accordance with the Principal Scheme.
+
+(2) The dividend date, in relation to the dividends payable under sub-paragraph (1), shall be 11th October 2003.
+
+(3) The right to the final HYF dividend, in relation to the units in the High Yield Fund, shall have effect notwithstanding the cancellation of those units in accordance with paragraph 4(2).
+
+## 6. Retention for liabilities and final dividend of High Yield Fund
+
+(1) On or before the effective date the investment manager shall estimate:
+
+- (a) the relevant liabilities; and
+- (b) the final HYF dividend
+
+and shall give notice in writing of that estimate to the Accountant General.
+
+(2) There shall be retained out of the assets of the High Yield Fund cash, and such other assets as the investment manager may nominate in writing, equivalent in value to the total amount of the relevant liabilities and the final HYF dividend estimated in accordance with sub-paragraph (1).
+
+(3) If the investment manager makes a nomination under sub-paragraph (2) he shall give a copy of it to the Accountant General.
+
+(4) The final HYF dividend and the relevant liabilities shall be satisfied out of the retained assets, unless the retained assets are insufficient to satisfy the final HYF dividend and all the relevant liabilities, in which case sub-paragraph (5) shall apply.
+
+(5) Any of the final HYF dividend and any of the relevant liabilities remaining to be satisfied after the retained assets have been exhausted shall be satisfied out of the assets of the Capital Fund.
+
+(6) When the final amount of the relevant liabilities is ascertained, unless the retained assets have been exhausted, the remaining retained assets shall be added to the Capital Fund and shall from then be treated as assets of the Capital Fund.
+
+## 7. Consequential amendments to the Principal Scheme
+
+(1) The Principal Scheme shall be amended in accordance with the following sub-paragraphs of this paragraph.
+
+(2) In paragraph 2—
+
+- (a) in the definition of “accounting date” and “dividend date”, for “each” there shall be substituted “the”;
+- (b) after the definition of “authorised unitholder” there shall be inserted—
+
+  > - “the Board” means the Lord Chancellor’s Strategic Investment Board;
+
+  ;
+- (c) the definition of “the Committee” shall be omitted;
+- (d) in the definition of “fund”, for “a common investment fund” there shall be substituted “the Capital Fund referred to in paragraph 3”;
+- (e) in the definitions of “unit” and “valuation day”, for “a fund” there shall be substituted “the fund”.
+
+(3) In paragraph 3, for the words from “There shall continue” to “High Yield Fund”, there shall be substituted “There shall be one fund, known as the Capital Fund,”.
+
+(4) In paragraph 4, for “funds” there shall be substituted “fund”.
+
+(5) For paragraph 5(1) there shall be substituted—
+
+> **5.** (1) The investment manager shall administer the Capital Fund with a view to securing high long-term capital growth with some growth in annual income and the investment manager shall frame an investment strategy (which may be revised as and when the investment manager thinks fit) designed to achieve this objective.
+
+.
+
+(6) In paragraph 5(2) and (3), for “Committee”, wherever it occurs, there shall be substituted “Board”.
+
+(7) In paragraph 5(3), for “funds” there shall be substituted “fund”.
+
+(8) In paragraphs 7, 8 and 9, for “each fund”, wherever it occurs, there shall be substituted “the fund”.
+
+(9) In Schedule 1—
+
+- (a) in the heading, for “each” there shall be substituted “the”;
+- (b) in paragraph 1(1), for “Each fund” there shall be substituted “The fund”;
+- (c) paragraph 1(2) shall be omitted;
+- (d) in paragraph 6, for “manaer” there shall be substituted “manager”.
+
+(10) In Schedule 2, the words “High Yield Fund” in the column headed “Title of Fund”, and the entries in the other columns opposite them, shall be deleted.
+
+(11) In Schedule 3—
+
+- (a) in the heading and in paragraph 2(d), for “each fund” there shall be substituted “the fund”;
+- (b) in paragraph 1(e), for “a fund” there shall be substituted “the fund”;
+- (c) for paragraph 2(1) there shall be substituted—
+
+  > (1) pay out of the fund such fees as he is required to collect under section 42(12) of the Act
+
+  .
+
+Signed by authority of the Lord Chancellor.
+
+Rosie Winterton
+
+Parliamentary Secretary,
+
+Lord Chancellor’s Department
+
+5th March 2003
+
+(This note is not part of the Scheme)
+
+This instrument effects the merger of the High Yield Fund, one of the common investment funds established under section 42 of the Administration of Justice Act 1982, into the other (the Capital Fund), and makes consequential amendments to the Common Investment Scheme 1991 (S.I. [1991/1209](https://www.legislation.gov.uk/uksi/1991/1209)).
+
+## Annotations
+
+[^f00001]: Footnote: [1982 c. 53](https://www.legislation.gov.uk/ukpga/1982/53).
+
+[^f00002]: Footnote: S.I. [1991/1209](https://www.legislation.gov.uk/uksi/1991/1209); amended by S.I. [1999/551](https://www.legislation.gov.uk/uksi/1999/551).

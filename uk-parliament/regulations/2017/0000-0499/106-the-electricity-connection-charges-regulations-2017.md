@@ -1,0 +1,345 @@
+---
+title: The Electricity (Connection Charges) Regulations 2017
+id: uksi/2017/106
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2017-02-06'
+text_date: '2023-04-01'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/uksi/2017/106
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2017/106/pdfs/uksiem_20170106_en.pdf
+- http://www.legislation.gov.uk/uksi/2017/106/pdfs/uksi_20170106_en.pdf
+- http://www.legislation.gov.uk/uksi/2017/106/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Electricity (Connection Charges) Regulations 2017
+
+> Text as at 2023-04-01.
+>
+> Extent: England, Wales, Scotland.
+
+*Extent: E+W+S*
+
+2017 No. 106
+
+Electricity
+
+The Electricity (Connection Charges) Regulations 2017
+
+Made
+
+6th February 2017
+
+Laid before Parliament
+
+7th February 2017
+
+Coming into force
+
+6th April 2017
+
+The Secretary of State has consulted the Gas and Electricity Markets Authority in accordance with paragraph 3(1) of Schedule 5B to the Electricity Act 1989[^f00001].
+
+In exercise of the powers conferred by sections 19(3A), 60(3) and 64(1) of, and Schedule 5B to, the Electricity Act 1989[^f00002], the Secretary of State makes the following Regulations:
+
+## PART 1 — Introduction
+
+### 1. Citation and commencement[^key-b6f436359947051ad2660c85b1e6e1d6]
+
+These Regulations may be cited as the Electricity (Connection Charges) Regulations 2017 and come into force on 6th April 2017.
+
+### 2. Interpretation[^key-583e7a2ac469dea54daa59b109eb12ff]
+
+In these Regulations—
+
+- “the Act” means the Electricity Act 1989;
+- “administrative expenses” means the expenses reasonably incurred by a relevant electricity distributor[^f00003] in discharging its obligations under these Regulations;
+- “eligible person” has the meaning given in regulation 5;
+- “[^key-053d54ced3eb35c4bfb05b8fbae45b8c]**high expenses threshold**” means the threshold, expressed in pounds per unit of power, applied by the relevant electricity distributor in relation to the expenses of a connection;
+- [^key-d2e3b4944dde34fa1a980f6b57e070a8]...
+- “independent connection provider” means a person, other than an electricity distributor, who provides electric line or electrical plant for the purpose of making a first connection[^f00004] or a second connection[^f00005];
+- “initial contributor”, in relation to a first connection, means a person who has—
+  - (a) obtained the first connection; and
+  - (b) made a payment to an electricity distributor or to an independent connection provider in respect of first connection expenses[^f00006];
+- [^key-d2e3b4944dde34fa1a980f6b57e070a8]...
+- [^key-d2e3b4944dde34fa1a980f6b57e070a8]...
+- “[^key-75e1ec86705fa3a165125909880e8cce]**net first connection expenses**”, in relation to a second connection, means the first connection expenses excluding such of those expenses relating to reinforcement works—
+  - (a) which were met in full by the relevant electricity distributor or the initial contributor;
+  - (b) which fell above the high expenses threshold and were met by the initial contributor;
+  - (c) which the relevant electricity distributor would not require the person obtaining the second connection to defray under section 19(1) of the Act if the electric line or electrical plant used for the purpose of the second connection were treated as provided for the purpose of making a new first connection;
+- “reinforcement works” means works that add capacity to an existing distribution system;
+- “subsequent contributor”, in relation to a second connection, means a person who has—
+  - (a) obtained the second connection; and
+  - (b) received a demand for a reimbursement payment under regulation 7.
+
+(2) References to a person obtaining, or who has obtained, a first connection or a second connection are to a person who has—
+
+- (a) required that connection under section 16(1) of the Act[^f00007]; or
+- (b) otherwise entered into an arrangement with an electricity distributor or an independent connection provider for the making of the connection.
+
+## PART 2 — Reimbursement payments
+
+### 3. Application of this Part[^key-b16420652a051740fc05e795de159f04]
+
+This Part applies in cases where a first connection is made on or after 6th April 2017.
+
+### 4. Prescribed period[^key-c59e9b20953e44ce37448bd9038c321b]
+
+For the purpose of condition D in paragraph 1(5) of Schedule 5B to the Act, the prescribed period is ten years after the first connection was made.
+
+### 5. Eligible persons[^key-fafc7bc7c1f8140c8b4c0788085a6a75]
+
+(1) For the purposes of this Part, where a second connection is made, each of the following persons is an “eligible person” in relation to first connection expenses—
+
+- (a) a person who—
+  - (i) is an initial contributor; and
+  - (ii) at the relevant time owns or occupies the premises, or owns the distribution system (as the case may be), to which the first connection was made;
+- (b) a person who—
+  - (i) has, on a previous occasion when a second connection was made (“the previous connection”), made a payment under these Regulations in respect of the first connection expenses; and
+  - (ii) at the relevant time owns or occupies the premises, or owns the distribution system (as the case may be), to which the previous connection was made;
+- (c) a person who—
+  - (i) has been assigned a right to receive a reimbursement payment; and
+  - (ii) at the relevant time owns or occupies the premises, or owns the distribution system (as the case may be), to which the first connection was made;
+- (d) an electricity distributor which has incurred first connection expenses which it has not previously fully recovered from any other person; or
+- (e) a person other than—
+  - (i) an initial contributor;
+  - (ii) a person who has made a payment under these Regulations; or
+  - (iii) an electricity distributor,
+
+  that has made a payment to an electricity distributor or to an independent connection provider in respect of the first connection expenses.
+
+(2) In paragraph (1), “the relevant time” means the time at which the second connection is made.
+
+### 6. Requirements where a second connection is to be made[^key-2e81c8bde9953580067e1de976be0d66]
+
+(1) This regulation applies where—
+
+- (a) a second connection is to be made;
+- (b) upon that second connection being made, conditions A to D in paragraph 1 of Schedule 5B to the Act will be met; and
+- (c) the first connection expenses were met in whole or in part by the initial contributor or persons who have previously made payments under these Regulations.
+
+(2) The relevant electricity distributor must take reasonable steps to ascertain whether there are any persons who will be eligible persons, and, if so, the name and address of each of those persons.
+
+(3) If it appears to the relevant electricity distributor that there are any such persons, the relevant electricity distributor must as soon as reasonably practicable give notice in writing to the person obtaining the second connection stating—
+
+- (a) that upon the second connection being made the person may be liable to pay a reimbursement payment; and
+- (b) the amount, or an estimate of the amount, of that payment.
+
+### 7. Demanding a reimbursement payment[^key-c0efb51374fa88af71d6d5f49d8ce6e3]
+
+(1) This regulation applies where—
+
+- (a) a second connection is made;
+- (b) conditions A to D in paragraph 1 of Schedule 5B to the Act are met;
+- (c) the first connection expenses were met in whole or in part by the initial contributor or by persons who have previously made payments under these Regulations; and
+- (d) the relevant electricity distributor has given the person obtaining the second connection a notice under regulation 6(3).
+
+(2) Subject to paragraph (5), the relevant electricity distributor must demand a reimbursement payment from the person obtaining the second connection.
+
+(3) A demand under paragraph (2) must—
+
+- (a) be for an amount equal to the appropriate proportion of the net first connection expenses; and
+- (b) be given in writing and specify the time for payment.
+
+(4) For the purposes of paragraph (3), the appropriate proportion of the net first connection expenses is the proportion of those expenses which appears to the relevant electricity distributor to be reasonable having regard to all the circumstances, including in particular the maximum capacity required by the person obtaining the second connection.
+
+(5)[^key-5e0d70f47c15d1b58a19ba4449956db5] A relevant electricity distributor is not required—
+
+- (a) to demand a reimbursement payment in any case where the amount of the reimbursement payment would, after deduction of administrative expenses under regulation 9, leave less than £300 remaining for payment to eligible persons,
+- (b) to demand a reimbursement payment in any case where all the persons identified by the relevant electricity distributor in accordance with regulation 6(2), other than the relevant electricity distributor if it is an eligible person itself, have notified the relevant electricity distributor in writing that they do not wish to receive a reimbursement payment, or
+- (c) to demand a reimbursement payment, or reimbursement in respect of any part of a reimbursement payment, which the distributor is not required and does not intend to make by virtue of regulation 9(3).
+
+(6) Where the relevant electricity distributor estimates the amount of net first connection expenses under regulation 10(3), the references to the net first connection expenses in paragraphs (3) and (4) are to be treated as references to the amount of net first connection expenses so estimated.
+
+### 8. Obligation to make a reimbursement payment[^key-6140df4e782762027e77f0c49d8d7aae]
+
+(1) A subsequent contributor must, subject to paragraphs (2) and (3), pay the amount demanded under regulation 7 to the relevant electricity distributor within the time specified in the demand.
+
+(2) If the subsequent contributor makes a request for information under regulation 11, the subsequent contributor is not required to comply with the demand until the relevant electricity distributor has—
+
+- (a) provided such information as the subsequent contributor has reasonably requested; or
+- (b) notified the subsequent contributor that it does not hold the information.
+
+(3) If a dispute about the demand is referred to the Authority in accordance with section 23[^f00008] of the Act, the subsequent contributor is not required to comply with the demand unless ordered to do so by the Authority or by a person appointed by the Authority to determine the dispute.
+
+### 9. Obligation to apply a reimbursement payment[^key-b887536028d4884a41ca0915ae78f24f]
+
+(1) Where a relevant electricity distributor has received a reimbursement payment—
+
+- (a) it may deduct its administrative expenses from the amount received; and
+- (b) it must, subject to paragraph (3), pay the amount recovered minus any deduction under sub-paragraph (a) (“the net amount”), to eligible persons as soon as reasonably practicable.
+
+(2) Where there are two or more eligible persons in respect of the same first connection expenses, the relevant electricity distributor must pay to each eligible person a proportion of the net amount which corresponds with the proportion of the first connection expenses that was borne, or that the relevant electricity distributor estimates was borne, by that eligible person.
+
+(3) A relevant electricity distributor is not required to make a payment to an eligible person if—
+
+- (a) the amount of that payment, calculated in accordance with paragraphs (1) and (2), would be less than £300;
+- (b) the relevant electricity distributor, having taken reasonable steps to do so, has been unable to ascertain—
+  - (i) the name and address of the eligible person; or
+  - (ii) the amount of first connection expenses that were borne by the eligible person, or sufficient information to allow it to make a reasonable estimate of the first connection expenses borne by that person; or
+- (c) the eligible person has notified the relevant electricity distributor in writing that the person does not wish to receive a reimbursement payment.
+
+(4) References in these Regulations to paying an amount to an eligible person include retaining an amount, in cases where the relevant electricity distributor is itself an eligible person.
+
+### 10. Determination of net first connection expenses where the first connection was made by a person other than the relevant electricity distributor[^key-19e451a09d49903ee87d11ad68ff6afa]
+
+(1) This regulation applies where the first connection was made by a person other than the relevant electricity distributor.
+
+(2) The relevant electricity distributor must—
+
+- (a) to the extent that it does not already have such information, take such steps as are reasonably practicable to obtain a description of the work carried out for the purpose of making the first connection; and
+- (b) take account of that information in estimating the amount of net first connection expenses under paragraph (3).
+
+(3) For the purpose of exercising its functions under regulations 6 to 9 the relevant electricity distributor must estimate the amount of net first connection expenses in accordance with the formula—
+
+[formula: see source](https://www.legislation.gov.uk/uksi/2017/106)
+
+where—
+
+- E is the relevant electricity distributor’s estimate of the amount of net first connection expenses which that distributor would incur if that distributor were making the first connection at the time of making the estimate;
+- A is the retail prices index at the time when the first connection was actually made;
+- B is the retail prices index at the time of making the estimate.
+
+(4) In paragraph (3), “the retail prices index” means—
+
+- (a) the general index of retail prices (for all items) published by the Office for National Statistics; or
+- (b) if that index is not published for a relevant month, any substituted index or index figures published by the Office for National Statistics.
+
+### 11. Provision of information to subsequent contributor[^key-a4abf1e2d7e6b16a8f8109133677947c]
+
+(1) A subsequent contributor may request information from the relevant electricity distributor about—
+
+- (a) the amount of the net first connection expenses (or, where regulation 10 applies, the relevant electricity distributor’s estimate of that amount);
+- (b) the date on which the first connection was made; and
+- (c) the total amount previously paid in respect of first connection expenses by—
+  - (i) the initial contributor; or
+  - (ii) persons previously required to make payments in respect of first connection expenses.
+
+(2) The relevant electricity distributor must, in so far as it holds the information, provide any information reasonably requested under paragraph (1) as soon as reasonably practicable.
+
+### 12. Maintenance of records[^key-fa8756327e81b9b1f6a4d1e018156033]
+
+A relevant electricity distributor must maintain such records as are necessary for complying with its obligations under this Part.
+
+## PART 3 — Miscellaneous
+
+### 13. Amendment to the Electricity (Connection Charges) Regulations 2002[^key-0cc30f0a7a57a11976df350fdbbfb833]
+
+In the Electricity (Connection Charges) Regulations 2002[^f00009], after regulation 1 insert—
+
+> **1A. Application**
+>
+> (1) These Regulations do not apply in cases where a first connection is made on or after 6th April 2017.
+>
+> (2) In paragraph (1), “first connection” has the meaning given in paragraph 1 of Schedule 5B to the 1989 Act.
+
+.
+
+### 14. Review[^key-06cd5f7f7a3e4adab80d5a5ab9d6d255]
+
+(1) The Secretary of State must from time to time—
+
+- (a) carry out a review of these Regulations;
+- (b) set out the conclusions in a report; and
+- (c) publish the report.
+
+(2) The first report under this regulation must be published before 6th April 2022.
+
+(3) Reports under this regulation are, after the first report, to be published at intervals not exceeding five years.
+
+(4) Section 30(4) of the Small Business, Enterprise and Employment Act 2015[^f00010] requires that a report published under this regulation must—
+
+- (a) set out the objectives intended to be achieved by these Regulations;
+- (b) assess the extent to which those objectives are achieved;
+- (c) assess whether those objectives remain appropriate; and
+- (d) if those objectives remain appropriate, assess the extent to which they could be achieved in another way which involves less onerous regulatory provision.
+
+Jesse Norman
+
+Parliamentary Under Secretary of State
+
+Department for Business, Energy and Industrial Strategy
+
+6th February 2017
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations make provision about the costs of electrical connections, where a person (a “second comer”) obtains a connection to premises or a distribution system which makes use of electric lines or electrical plant previously provided for the purpose of giving a connection to other premises or another distribution system. In cases where other persons have paid for all or part of the cost of the first connection, the Regulations require the relevant electricity distributor to recover an amount from the second comer and to apply that amount, less administrative expenses, to reimburse the persons who paid for the first connection.
+
+These Regulations reflect amendments to section 19 of the Electricity Act 1989, and the insertion of Schedule 5B to that Act, by section 52 of the Infrastructure Act 2015. They supersede the Electricity (Connection Charges) Regulations 2002 (“the 2002 Regulations”) in relation to cases where a first connection (within the meaning given by paragraph 1 of Schedule 5B to the Electricity Act 1989) is made on or after 6th April 2017. The 2002 Regulations will continue to apply where a first connection was made before that date.
+
+The principal differences between these Regulations and the 2002 Regulations (other than minor and drafting changes) are:
+
+- to extend the circumstances in which an electricity distributor is under a duty to charge second comers and make payments to eligible persons, to include cases where:
+  - a first connection was made by an independent connection provider rather than a licensed electricity distributor; or
+  - any of the expenses of a first connection were met by the person who caused that connection to be made, and/or by previous second comers (under the 2002 Regulations a duty only arises where the expenses were wholly or mainly met by such persons);
+- to extend from 5 to 10 years the period following the making of a first connection in which second comers are liable to pay charges; and
+- to require an electricity distributor to estimate first connection expenses, and to calculate charges to second comers and payments to eligible persons on the basis of its estimate, in cases where someone else made the first connection.
+
+An impact assessment of the effect that this instrument will have on the costs of business and the voluntary sector is available from the Department for Business, Energy and Industrial Strategy at 1 Victoria Street, London, SW1H 0ET and is published with the Explanatory Memorandum alongside this instrument on www.legislation.gov.uk.
+
+## Annotations
+
+[^f00001]: Footnote: [1989 c. 29](https://www.legislation.gov.uk/ukpga/1989/29). Schedule 5B was inserted by the Infrastructure Act [2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7), section 52.
+
+[^f00002]: Footnote: Section 19 was amended by the Utilities Act [2000 (c. 27)](https://www.legislation.gov.uk/ukpga/2000/27), section 46 and by the Infrastructure Act 2015, section 52. The definition of “prescribed” in section 64(1) was amended by the Utilities Act 2000, Schedule 6, Part II, paragraph 38(6); there are other amendments to section 64(1) which are not relevant.
+
+[^key-b6f436359947051ad2660c85b1e6e1d6]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2017/106/regulation/1) in force at 6.4.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/106/regulation/1)
+
+[^key-583e7a2ac469dea54daa59b109eb12ff]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2017/106/regulation/2) in force at 6.4.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/106/regulation/1)
+
+[^f00003]: Footnote: “Relevant electricity distributor” is defined in paragraph 4(1) of Schedule 5B to the Act.
+
+[^key-053d54ced3eb35c4bfb05b8fbae45b8c]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2017/106/regulation/2) inserted (1.4.2023) by [The Electricity (Connection Charges) (Amendment) Regulations 2022 (S.I. 2022/1265)](https://www.legislation.gov.uk/uksi/2022/1265), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1265/regulation/1/2), [4(b)](https://www.legislation.gov.uk/uksi/2022/1265/regulation/4/b) (with [reg. 2](https://www.legislation.gov.uk/uksi/2022/1265/regulation/2))
+
+[^key-d2e3b4944dde34fa1a980f6b57e070a8]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2017/106/regulation/2) omitted (1.4.2023) by virtue of [The Electricity (Connection Charges) (Amendment) Regulations 2022 (S.I. 2022/1265)](https://www.legislation.gov.uk/uksi/2022/1265), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1265/regulation/1/2), [4(a)](https://www.legislation.gov.uk/uksi/2022/1265/regulation/4/a) (with [reg. 2](https://www.legislation.gov.uk/uksi/2022/1265/regulation/2))
+
+[^f00004]: Footnote: By virtue of paragraph 1(2) of Schedule 5B, a first connection is made where any electric line or electrical plant is provided for the purpose of making a connection between premises and a distribution system, or between two distribution systems.
+
+[^f00005]: Footnote: By virtue of paragraph 1(4) of Schedule 5B, a second connection is made where any electric line or electric plant provided for the purpose of making a first connection is used for the purpose of making another connection between premises and a distribution system, or between two distribution systems.
+
+[^f00006]: Footnote: “First connection expenses” are defined in paragraph 1(6) of Schedule 5B as ‘any expenses reasonably incurred by a person in providing any electric line or electric plant for the purpose of making the first connection’.
+
+[^key-75e1ec86705fa3a165125909880e8cce]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2017/106/regulation/2) substituted (1.4.2023) by [The Electricity (Connection Charges) (Amendment) Regulations 2022 (S.I. 2022/1265)](https://www.legislation.gov.uk/uksi/2022/1265), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1265/regulation/1/2), [4(c)](https://www.legislation.gov.uk/uksi/2022/1265/regulation/4/c) (with [reg. 2](https://www.legislation.gov.uk/uksi/2022/1265/regulation/2))
+
+[^f00007]: Footnote: Section 16(1) was amended by the Utilities Act [2000 (c. 27)](https://www.legislation.gov.uk/ukpga/2000/27), section 44.
+
+[^key-b16420652a051740fc05e795de159f04]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2017/106/regulation/3) in force at 6.4.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/106/regulation/1)
+
+[^key-c59e9b20953e44ce37448bd9038c321b]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2017/106/regulation/4) in force at 6.4.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/106/regulation/1)
+
+[^key-fafc7bc7c1f8140c8b4c0788085a6a75]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2017/106/regulation/5) in force at 6.4.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/106/regulation/1)
+
+[^key-2e81c8bde9953580067e1de976be0d66]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2017/106/regulation/6) in force at 6.4.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/106/regulation/1)
+
+[^key-c0efb51374fa88af71d6d5f49d8ce6e3]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2017/106/regulation/7) in force at 6.4.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/106/regulation/1)
+
+[^key-5e0d70f47c15d1b58a19ba4449956db5]: Textual amendment: [Reg. 7(5)](https://www.legislation.gov.uk/uksi/2017/106/regulation/7/5) substituted (1.4.2023) by [The Electricity (Connection Charges) (Amendment) Regulations 2022 (S.I. 2022/1265)](https://www.legislation.gov.uk/uksi/2022/1265), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1265/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2022/1265/regulation/5) (with [reg. 2](https://www.legislation.gov.uk/uksi/2022/1265/regulation/2))
+
+[^key-6140df4e782762027e77f0c49d8d7aae]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2017/106/regulation/8) in force at 6.4.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/106/regulation/1)
+
+[^f00008]: Footnote: Section 23 has been amended by the Utilities Act [2000 (c. 27)](https://www.legislation.gov.uk/ukpga/2000/27), section 108 and Schedule 6, Part II, paragraphs 24 and 26, the Infrastructure Act [2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7), section 52(6), and [S.I. 2014/631](https://www.legislation.gov.uk/uksi/2014/631).
+
+[^key-b887536028d4884a41ca0915ae78f24f]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2017/106/regulation/9) in force at 6.4.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/106/regulation/1)
+
+[^key-19e451a09d49903ee87d11ad68ff6afa]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2017/106/regulation/10) in force at 6.4.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/106/regulation/1)
+
+[^key-a4abf1e2d7e6b16a8f8109133677947c]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2017/106/regulation/11) in force at 6.4.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/106/regulation/1)
+
+[^key-fa8756327e81b9b1f6a4d1e018156033]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2017/106/regulation/12) in force at 6.4.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/106/regulation/1)
+
+[^key-0cc30f0a7a57a11976df350fdbbfb833]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2017/106/regulation/13) in force at 6.4.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/106/regulation/1)
+
+[^f00009]: Footnote: [S.I. 2002/93](https://www.legislation.gov.uk/uksi/2002/93), as amended by [S.I. 2002/3232](https://www.legislation.gov.uk/uksi/2002/3232).
+
+[^key-06cd5f7f7a3e4adab80d5a5ab9d6d255]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2017/106/regulation/14) in force at 6.4.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/106/regulation/1)
+
+[^f00010]: Footnote: [2015 c. 26](https://www.legislation.gov.uk/ukpga/2015/26).

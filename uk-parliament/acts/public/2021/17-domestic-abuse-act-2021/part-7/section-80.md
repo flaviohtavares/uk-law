@@ -1,0 +1,62 @@
+---
+title: Domestic Abuse Act 2021, section 80
+act: Domestic Abuse Act 2021
+section: '80'
+status: revised-with-pending-changes
+text_date: '2026-03-25'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/2021/17/section/80
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Domestic Abuse Act 2021, section 80
+
+> **Warning: changes not yet applied to this text (7).** Text as at 2026-03-25. See https://www.legislation.gov.uk/changes/affected/ukpga/2021/17
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 80. Prohibition on charging for the provision of medical evidence of domestic abuse
+
+*Extent: E+W*
+
+(1) No person may charge a fee or any other remuneration for the preparation or provision of relevant evidence relating to an assessment of an individual carried out by a relevant health professional in England or Wales under a qualifying medical services contract.
+
+(2) No person may charge a fee or any other remuneration for the preparation or provision of relevant evidence relating to an individual by a relevant health professional in England or Wales if the services provided by the relevant health professional are wholly or mainly services provided under a qualifying medical services contract.
+
+(3) In this section “**relevant evidence**”, in relation to an individual, means—
+
+- (a) evidence that the individual is, or is at risk of being, a victim of domestic abuse which is intended to support an application by the individual for civil legal services, or
+- (b) any other evidence that the individual is, or is at risk of being, a victim of domestic abuse which is of a description specified in regulations made by the Secretary of State.
+
+(4) In this section “**relevant health professional**” means—
+
+- (a) a medical practitioner licensed to practise by the General Medical Council;
+- (b) a health professional registered to practise in the United Kingdom by the Nursing and Midwifery Council;
+- (c) a paramedic registered to practise in the United Kingdom by the Health and Care Professions Council.
+
+(5) In this section “**qualifying medical services contract**” means—
+
+- (a) in relation to England—
+  - (i) a general medical services contract made under section 84(2) of the National Health Service Act 2006;
+  - (ii) any contractual arrangements made under section 83(2) of that Act;
+  - (iii) an agreement made under section 92 of that Act;
+- (b) in relation to Wales—
+  - (i) a general medical services contract made under section 42(2) of the National Health Service (Wales) Act 2006;
+  - (ii) any contractual arrangements made under section 41(2)(b) of that Act;
+  - (iii) an agreement made under section 50 of that Act.
+
+(6) The appropriate national authority may by regulations amend the definition of—
+
+- (a) “relevant health professional”;
+- (b) “qualifying medical services contract”.
+
+(7) In this section—
+
+- “**appropriate national authority**” means—
+  - (a) in relation to England, the Secretary of State;
+  - (b) in relation to Wales, the Welsh Ministers;
+- “**assessment**” includes a consultation, whether in person or otherwise;
+- “**civil legal services**” has the meaning given by section 8 of the Legal Aid, Sentencing and Punishment of Offenders Act 2012.
+
+(8) Subsections (1) and (2) do not apply in relation to anything done by a relevant health professional before the coming into force of this section.

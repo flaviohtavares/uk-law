@@ -1,0 +1,1352 @@
+---
+title: The Food Safety and Hygiene (England) Regulations 2013
+id: uksi/2013/2996
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2013-11-22'
+text_date: '2025-02-27'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2013/2996
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2013/2996/pdfs/uksiem_20132996_en_001.pdf
+- http://www.legislation.gov.uk/uksi/2013/2996/pdfs/uksiem_20132996_en.pdf
+- http://www.legislation.gov.uk/uksi/2013/2996/pdfs/uksi_20132996_en.pdf
+- http://www.legislation.gov.uk/uksi/2013/2996/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Food Safety and Hygiene (England) Regulations 2013
+
+> Text as at 2025-02-27.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2013 No. 2996
+
+Food, England
+
+The Food Safety and Hygiene (England) Regulations 2013
+
+Made
+
+22nd November 2013
+
+Laid before Parliament
+
+3rd December 2013
+
+Coming into force
+
+31st December 2013
+
+The Secretary of State makes the following Regulations in exercise of the powers conferred on him by section 2(2) of and paragraph 1A of Schedule 2 to the European Communities Act 1972 [^c21954431].
+
+The Secretary of State has been designated for the purposes of that section in relation to measures relating to food (including drink) including the primary production of food [^c21954441] and measures in the veterinary and phytosanitary fields for the protection of public health [^c21954451].
+
+These Regulations make provision for a purpose mentioned in section 2(2) of the European Communities Act 1972 and it appears to the Secretary of State that it is expedient for any reference to an EU instrument defined in Schedule 1 to be construed in accordance with regulation 2(6) as a reference to that instrument as amended from time to time.
+
+As required by Article 9 of Regulation [(EC) No. 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety [^c21954461] there has been open and transparent public consultation during the preparation of the following Regulations.
+
+## 1. Title, application, commencement and extent
+
+(1) These Regulations
+
+- (a) may be cited as the Food Safety and Hygiene (England) Regulations 2013;
+- (b) apply in relation to England only, and
+- (c) come into force on 31st December 2013.
+
+(2) Any amendment or revocation made by these Regulations has the same extent as the provision amended or revoked (but applies in relation to England only).
+
+## 2. Interpretation
+
+(1) In these Regulations —
+
+- “**the Act**” means the Food Safety Act 1990 [^c21954471];
+- “**the Agency**” means the Food Standards Agency;
+- “**authorised officer**”, in relation to an enforcement authority, means any person (whether or not an officer of the authority) who is authorised by them in writing, either generally or specially, to act in matters arising under the Hygiene Regulations and Regulation 178/2002;
+- ”the EU Hygiene Regulations” mean Regulation 852/2004, Regulation 853/2004, Regulation 2073/2005, Regulation 2015/1375, Regulation 2017/185 and Regulation 2017/625 and the Regulation 2017/625 package insofar as it and they apply to food;[^key-92b1aaa96d5a4cb670da525a7174cf05]
+- [^key-60f62b2a249d91c7c9f7591e10593180]...
+- “**enforcement authority**” means the authority which, by virtue of regulation 5, is responsible for executing and enforcing the Hygiene Regulations and Regulation 178/2002;
+- “**food authority**” has the meaning that it bears by virtue of section 5(1) of the Act except that it does not include the appropriate Treasurer referred to in section 5(1)(c) of the Act (which deals with the Inner Temple and Middle Temple);
+- “**the Hygiene Regulations**” means these Regulations and the EU Hygiene Regulations;
+- “**premises**” includes any establishment, any place, vehicle, stall or moveable structure and any ship or aircraft; and
+- “the Regulation 2017/625 package” means Regulation 2017/625 and the other EU Regulations listed in Schedule 1 under the heading “The Regulation 2017/625 package”;[^key-613f38b1362ef5f257bcb81330d2a39b]
+- “**specified EU provision**” means any provision of Regulation 178/2002 or the EU Hygiene Regulations that is specified in column 1 of Schedule 2 and whose subject-matter is described in column 2 of that Schedule.
+
+(1A)[^key-84aabd1097303a5a607a6e8d3c807129] Any reference in these Regulations to Directives or Regulations referred to in Schedule 1 have the meanings respectively given to them in that Schedule.
+
+(2) Subject to paragraph (3), any expression other than one defined in paragraph (1) that is used both in these Regulations and in the Act has the meaning it bears in the Act.
+
+(3) Unless the context otherwise requires, any expression used both in these Regulations and in Regulation 178/2002 or the EU Hygiene Regulations has the meaning that it bears in Regulation 178/2002 or the EU Hygiene Regulations.
+
+(4) Where any functions under the Act are assigned —
+
+- (a) by an order under section 2 or 7 of the Public Health (Control of Disease) Act 1984 [^c21954481], to a port health authority;
+- (b) by an order under section 6 of the Public Health Act 1936 [^c21954491], to a joint board for a united district; or
+- (c) by an order under paragraph 15(6) of Schedule 8 to the Local Government Act 1985 [^c21954501], to a single authority for a metropolitan county,
+
+any reference in these Regulations to a food authority is to be construed, so far as relating to those functions, as a reference to the authority to whom they are so assigned.
+
+(5) Where, apart from this paragraph, any period of less than seven days which is specified in these Regulations would include any day which is —
+
+- (a) a Saturday, a Sunday, Christmas Day or Good Friday; or
+- (b) a day which is a bank holiday under the Banking and Financial Dealings Act 1971 [^c21954511],
+
+that day is to be excluded from the period.
+
+(6) In these Regulations, any reference to an EU instrument defined in Schedule 1 is a reference to that instrument as [^key-9b646497051a98e507cf0aa08c004e15]... amended from time to time.
+
+## 3. Presumptions that food is intended for human consumption
+
+(1) The following paragraphs apply for the purposes of these Regulations.
+
+(2) Any food commonly used for human consumption shall, if placed on the market or offered, exposed or kept for placing on the market, be presumed, until the contrary is proved, to have been placed on the market or, as the case may be, to have been or to be intended for placing on the market for human consumption.
+
+(3) The following, namely—
+
+- (a) any food commonly used for human consumption which is found on premises used for the preparation, storage, or placing on the market of that food; and
+- (b) any article or substance commonly used in the manufacture of food for human consumption which is found on premises used for the preparation, storage or placing on the market of that food,
+
+shall be presumed, until the contrary is proved, to be intended for placing on the market, or for manufacturing food for placing on the market, for human consumption.
+
+(4) Any article or substance capable of being used in the composition or preparation of any food commonly used for human consumption which is found on premises on which that food is prepared shall, until the contrary is proved, be presumed to be intended for such use.
+
+## 4. Competent authorities
+
+(1) The competent authority for the purposes of the EU Hygiene Regulations is the Agency except where it has delegated competences as provided for in those Regulations.
+
+(2) The competent authorities for the purposes of the provisions of Regulation 178/2002 specified in paragraph (3) are the Agency and each food authority in its area or district.
+
+(3) The provisions of Regulation 178/2002 are —
+
+- (a) Article 14(8) (power of competent authorities to take appropriate measures to impose restrictions on the placing of food on the market or to require its withdrawal from the market in certain circumstances);
+- (b) Article 18(2) and (3) (competent authorities to which food business operators must make information available on demand as to the traceability of food); and
+- (c) Article 19 (food business operators to inform and collaborate with competent authorities to avoid or reduce risks posed by a food).
+
+## 5. Enforcement authorities
+
+(1) In respect of any food business operator to whose operations Regulation 852/2004 applies but Regulation 853/2004 does not apply —
+
+- (a) the Agency or the food authority in whose area the food business operator carries out the operations shall execute and enforce the Hygiene Regulations in so far as the operator concerned is carrying out primary production and those associated operations listed in paragraph 1 of Part AI of Annex I to Regulation 852/2004 other than the associated operations described in sub-paragraphs (a) and (c) of that paragraph to the extent that they concern wild game; and
+- (b) the food authority in whose area the food business operator carries out the operations shall execute and enforce the Hygiene Regulations in so far as the operator concerned is carrying out operations which are not executed and enforced by the Agency or the food authority as provided for in sub-paragraph (a).
+
+(2) In respect of any food business operator to whose operations both Regulation 852/2004 and Regulation 853/2004 apply —
+
+- (a) the Agency shall execute and enforce the Hygiene Regulations in so far as the operator concerned is carrying out operations in relation to —
+  - (i) a slaughterhouse,
+  - (ii) a game-handling establishment, or
+  - (iii) a cutting plant;
+- (b) the Agency or the food authority in whose area the food business operator carries out the operations shall execute and enforce the Hygiene Regulations in so far as the operator concerned is carrying out operations in relation to any establishment that is not specified in sub-paragraph (a).
+
+(3) In respect of —
+
+- (a) collection centres and tanneries supplying raw material for the production of gelatine intended for human consumption pursuant to paragraph 5 of Chapter I of Section XIV of Annex III to Regulation 853/2004; and
+- (b) collection centres and tanneries supplying raw material for the production of collagen intended for human consumption pursuant to paragraph 5 of Chapter I of Section XV of Annex III to Regulation 853/2004,
+
+the food authority in whose area the collection centre or tannery concerned is situated shall execute and enforce the Hygiene Regulations.
+
+(4) Each food authority shall execute and enforce these Regulations in its area in relation to the matters regulated by —
+
+- (a) Schedules 3 to 5; and
+- (b) Schedule 6 in so far as it applies in relation to raw milk intended for direct human consumption other than raw cows' milk.
+
+(5) The Agency shall execute and enforce these Regulations in relation to the matters regulated by Schedule 6 in so far as it applies in relation to raw cows' milk intended for direct human consumption.
+
+(6) Each food authority in its area or district shall execute and enforce the provisions of Regulation 178/2002 specified in Schedule 2 and these Regulations in so far as they relate to those provisions.
+
+(7) The Agency shall also execute and enforce Articles 14 and 19 of Regulation 178/2002 and these Regulations in so far as they relate to those Articles as regards relevant food.
+
+(8) In paragraph (7) “**relevant food**” means food in respect of which the Agency is specified in regulations made pursuant to section 6(4) of the Act or made under the European Communities Act 1972 as being the enforcement authority.
+
+(9) In this regulation —
+
+- “**cutting plant**” means an establishment which is used for boning and/or cutting up fresh meat for placing on the market and which —
+  - (a) is approved or conditionally approved under Article 148 of Regulation 2017/625[^key-d2c1adcbef1d88e43099fe7cf65e8404]; or
+  - (b) (although lacking the approval or conditional approval that it requires under Article 4(3) of Regulation 853/2004) was, on 31st December 2005, operating as licensed cutting premises under the Fresh Meat (Hygiene and Inspection) Regulations 1995 [^c21954521] or the Poultry Meat, Farmed Game Bird Meat and Rabbit Meat (Hygiene and Inspection) Regulations 1995 [^c21954531];
+- “**game-handling establishment**” means any establishment in which game and game meat obtained after hunting are prepared for placing on the market and which —
+  - (a) is approved or conditionally approved under Article 148 of Regulation 2017/625[^key-9072acebc7767e73b455d1be3ffc0e3f]; or
+  - (b) (although lacking the approval or conditional approval that it requires under Article 4(3) of Regulation 853/2004) was, on 31st December 2005, operating as a licensed wild game processing facility under the Wild Game Meat (Hygiene and Inspection) Regulations 1995 [^c21954541];
+- “**slaughterhouse**” means an establishment used for slaughtering and dressing animals, the meat of which is intended for human consumption and which —
+  - (a) is approved or conditionally approved under Article 148 of Regulation 2017/625[^key-bc18b55598de0601e3f23e9bb209be8f]; or
+  - (b) (although lacking the approval or conditional approval that it requires under Article 4(3) of Regulation 853/2004) was, on 31st December 2005, operating as a licensed slaughterhouse under the Fresh Meat (Hygiene and Inspection) Regulations 1995 or the Poultry Meat, Farmed Game Bird Meat and Rabbit Meat (Hygiene and Inspection) Regulations 1995.
+
+## 6. Hygiene improvement notices
+
+(1) If an authorised officer of an enforcement authority has reasonable grounds for believing that a food business operator is failing to comply with the Hygiene Regulations, the officer may by a notice served on that person (in these Regulations referred to as a “**hygiene improvement notice**”) —
+
+- (a) state the officer's grounds for believing that the food business operator is failing to comply with the Hygiene Regulations;
+- (b) specify the matters which constitute the food business operator's failure to comply;
+- (c) specify the measures which, in the officer's opinion, the food business operator must take in order to secure compliance; and
+- (d) require the food business operator to take those measures, or measures which are at least equivalent to them, within such period (not being less than 14 days) as may be specified in the notice.
+
+(2) Any person who fails to comply with a hygiene improvement notice commits an offence.
+
+## 7. Hygiene prohibition orders
+
+(1) If —
+
+- (a) a food business operator is convicted of an offence under these Regulations; and
+- (b) the court by or before which the operator is so convicted is satisfied that the health risk condition is fulfilled with respect to the food business concerned,
+
+the court shall by an order impose the appropriate prohibition.
+
+(2) The health risk condition is fulfilled with respect to any food business if any of the following involves risk of injury to health (including any impairment, whether permanent or temporary), namely —
+
+- (a) the use for the purposes of the business of any process or treatment;
+- (b) the construction of any premises used for the purposes of the business, or the use for those purposes of any equipment; and
+- (c) the state or condition of any premises or equipment used for the purposes of the business.
+
+(3) The appropriate prohibition is—
+
+- (a) in a case falling within sub-paragraph (a) of paragraph (2), a prohibition on the use of the process or treatment for the purposes of the business;
+- (b) in a case falling within sub-paragraph (b) of that paragraph, a prohibition on the use of the premises or equipment for the purposes of the business or any other food business of the same class or description; and
+- (c) in a case falling within sub-paragraph (c) of that paragraph, a prohibition on the use of the premises or equipment for the purposes of any food business.
+
+(4) If —
+
+- (a) a food business operator is convicted of an offence under these Regulations; and
+- (b) the court by or before which the operator is so convicted thinks it proper to do so in all the circumstances of the case,
+
+the court may, by an order, impose a prohibition on the food business operator participating in the management of any food business, or any food business of a class or description specified in the order.
+
+(5) As soon as practicable after the making of an order under paragraph (1) or (4) (in these Regulations referred to as a “**hygiene prohibition order**”), the enforcement authority shall —
+
+- (a) serve a copy of the order on the relevant food business operator; and
+- (b) in the case of an order made under paragraph (1), affix a copy of the order in a conspicuous position on such premises used for the purposes of the food business as they consider appropriate,
+
+and any person who knowingly contravenes such an order commits an offence.
+
+(6) A hygiene prohibition order ceases to have effect —
+
+- (a) in the case of an order made under paragraph (1), on the issue by the enforcement authority of a certificate to the effect that they are satisfied that the food business operator has taken sufficient measures to secure that the health risk condition is no longer fulfilled with respect to the food business; and
+- (b) in the case of an order made under paragraph (4), on the giving by the court of a direction to that effect.
+
+(7) The enforcement authority must issue a certificate under sub-paragraph (a) of paragraph (6) within three days of their being satisfied as mentioned in that sub-paragraph; and on an application by the food business operator for such a certificate, the authority must —
+
+- (a) determine, as soon as is reasonably practicable and in any event within 14 days, whether or not they are so satisfied; and
+- (b) if they determine that they are not so satisfied, give notice to the food business operator of the reasons for that determination.
+
+(8) The court shall give a direction under sub-paragraph (b) of paragraph (6) if, on an application by the food business operator, the court thinks it proper to do so having regard to all the circumstances of the case, including in particular the conduct of the food business operator since the making of the order; but no such application shall be entertained if it is made —
+
+- (a) within six months of the making of the hygiene prohibition order; or
+- (b) within three months of the making by the food business operator of a previous application for such a direction.
+
+(9) Where a magistrates' court makes an order under paragraph (2) of regulation 8 with respect to any food business, paragraph (1) shall apply as if the food business operator had been convicted by the court of an offence under these Regulations.
+
+(10) Where the commission of an offence by a food business operator leads to the conviction of another person pursuant to regulation 11, paragraph (4) shall apply in relation to that other person as it applies in relation to the food business operator and any reference in paragraph (5) or (8) to the food business operator is to be construed accordingly.
+
+## 8. Hygiene emergency prohibition notices and orders
+
+(1) If an authorised officer of an enforcement authority is satisfied that the health risk condition is fulfilled with respect to any food business, the officer may by a notice served on the relevant food business operator (in these Regulations referred to as a “**hygiene emergency prohibition notice**”) impose the appropriate prohibition.
+
+(2) If a magistrates' court is satisfied, on the application of such an officer, that the health risk condition is fulfilled with respect to any food business, the court shall, by an order (in these Regulations referred to as a “**hygiene emergency prohibition order**”), impose the appropriate prohibition.
+
+(3) Such an officer may not apply for a hygiene emergency prohibition order unless, at least one day before the date of the application, the officer has served notice on the relevant food business operator of the intention to apply for the order.
+
+(4) Paragraphs (2) and (3) of regulation 7 apply for the purposes of this regulation as they apply for the purposes of that regulation, but as if the reference in paragraph (2) to risk of injury to health were a reference to imminent risk of injury.
+
+(5) As soon as practicable after the service of a hygiene emergency prohibition notice, an authorised officer of an enforcement authority must affix a copy of the notice in a conspicuous position on such premises used for the purposes of the food business as the officer considers appropriate, and any person who knowingly contravenes such a notice commits an offence.
+
+(6) As soon as practicable after the making of a hygiene emergency prohibition order, an authorised officer of an enforcement authority must —
+
+- (a) serve a copy of the order on the relevant food business operator; and
+- (b) affix a copy of the order in a conspicuous position on such premises used for the purposes of the food business as the officer considers appropriate,
+
+and any person who knowingly contravenes such an order commits an offence.
+
+(7) A hygiene emergency prohibition notice ceases to have effect —
+
+- (a) if no application for a hygiene emergency prohibition order is made within the period of three days beginning with the service of the notice, at the end of that period; or
+- (b) if such an application is so made, on the determination or abandonment of the application.
+
+(8) A hygiene emergency prohibition notice or a hygiene emergency prohibition order ceases to have effect on the issue by the enforcement authority of a certificate to the effect that they are satisfied that the food business operator has taken sufficient measures to secure that the health risk condition is no longer fulfilled with respect to the food business.
+
+(9) The enforcement authority must issue a certificate under paragraph (8) within three days of their being satisfied as mentioned in that paragraph; and on an application by the food business operator for such a certificate, the authority must —
+
+- (a) determine as soon as is reasonably practicable and in any event within 14 days whether or not they are so satisfied; and
+- (b) if they determine that they are not so satisfied, give notice to the food business operator of the reasons for that determination.
+
+(10) Where a hygiene emergency prohibition notice is served on a food business operator, the enforcement authority must compensate the operator in respect of any loss suffered by reason of complying with the notice unless —
+
+- (a) an application for a hygiene emergency prohibition order is made within the period of three days beginning with the service of the notice; and
+- (b) the court declares itself satisfied, on the hearing of the application, that the health risk condition was fulfilled with respect to the food business at the time when the notice was served,
+
+and any disputed question as to the right to or the amount of any compensation payable under this paragraph is to be determined by arbitration.
+
+## 9. Remedial action notices
+
+(1) Where it appears to an authorised officer of an enforcement authority that in respect of an establishment that Article 4(2) of Regulation 853/2004 requires to be approved —
+
+- (a) any of the requirements of the Hygiene Regulations is being breached; or
+- (b) inspection under the Hygiene Regulations is being hampered,
+
+the officer may, by a notice in writing (in these Regulations referred to as a “**remedial action notice**”) served on the relevant food business operator or duly authorised representative —
+
+- (c) prohibit the use of any equipment or any part of the establishment specified in the notice;
+- (d) impose conditions upon or prohibit the carrying out of any process; or
+- (e) require the rate of operation to be reduced to such extent as is specified in the notice, or to be stopped completely.
+
+(2) A remedial action notice must be served as soon as practicable and must state why it is being served.
+
+(3) If it is served under paragraph (1)(a), it must specify the breach and the action needed to remedy it.
+
+(4) An authorised officer of the enforcement authority whose authorised officer served the original remedial action notice must, as soon as satisfied that such action has been taken, withdraw the notice by a further notice in writing served on the food business operator or duly authorised representative.
+
+(5) Any person who fails to comply with a remedial action notice commits an offence.
+
+## 10. Detention notices
+
+(1) An authorised officer of an enforcement authority may, at an establishment that Article 4(2) of Regulation 853/2004 requires to be approved, by a notice in writing (in this regulation referred to as a “**detention notice**”) served on the relevant food business operator or duly authorised representative require the detention of any animal or food for the purpose of examination (including the taking of samples).
+
+(2) An authorised officer of the enforcement authority whose officer served the original detention notice must, as soon as satisfied that the animal or food need no longer be detained, withdraw the notice by a further notice in writing served on the food business operator or duly authorised representative.
+
+(3) Any person who fails to comply with a detention notice commits an offence.
+
+## 11. Offences due to the fault of another person
+
+Where the commission by any person of an offence under these Regulations is due to the act or default of some other person, that other person commits the offence; and a person may be convicted of the offence by virtue of this regulation whether or not proceedings are taken against the first-mentioned person.
+
+## 12. Defence of due diligence
+
+(1) In any proceedings for an offence under these Regulations it shall, subject to paragraph (5), be a defence to prove that the person accused (“the accused”) took all reasonable precautions and exercised all due diligence to avoid the commission of the offence by the accused or by a person under the control of the accused.
+
+(2) Without prejudice to the generality of paragraph (1), a person accused of an offence of contravening Article 12 or Article 14(1) of Regulation 178/2002 who did not —
+
+- (a) prepare the food in respect of which the offence is alleged to have been committed; nor
+- (b) import it into the United Kingdom,
+
+shall be taken to have established the defence provided by paragraph (1) if the requirements of paragraphs (3) or (4) are satisfied.
+
+(3) The requirements of this paragraph are satisfied if it is proved that —
+
+- (a) the commission of the offence was due to the act or default of some other person who was not under the control of the accused, or to reliance on information supplied by such a person;
+- (b) either —
+  - (i) the accused carried out all such checks of the food in question as were reasonable in all the circumstances, or
+  - (ii) it was reasonable in all the circumstances for the accused to rely on checks carried out by the person who supplied the accused with that food; and
+- (c) the accused did not know and had no reason to suspect at the time the offence was committed that the act or omission would amount to an offence under these Regulations.
+
+(4) The requirements of this paragraph are satisfied if the offence is one of placing on the market and it is proved that —
+
+- (a) the commission of the offence was due to the act or default of some other person who was not under the control of the accused, or to reliance on information supplied by such a person;
+- (b) the placing on the market of which the offence consisted was not a placing on the market under the name or mark of the accused; and
+- (c) the accused did not know and could not reasonably be expected to know at the time the offence was committed that the act or omission would amount to an offence under these Regulations.
+
+(5) If in any case the defence provided by paragraph (1) involves the allegation that the commission of the offence was due to the act or default of another person, or to reliance on information supplied by another person, the accused shall not without leave of the court be entitled to rely on that defence unless —
+
+- (a) at least seven clear days before the hearing; and
+- (b) where the accused has previously appeared before the court in connection with the alleged offence, within one month of the first such appearance,
+
+the accused has served on the prosecutor a written notice giving such information identifying or assisting in the identification of that other person as was then in the possession of the accused.
+
+## 13. Defence in relation to exports
+
+In any proceedings for an offence of contravening or failing to comply with food law it shall be a defence for the accused to prove that —
+
+- (a) the item in respect of which the offence is alleged to have been committed was intended for export to a country that is not a member State and that the item could lawfully be exported there under Article 12 of Regulation 178/2002; or
+- (b) the item in respect of which the offence is alleged to have been committed was intended for export to a member State and that —
+  - (i) the legislation applicable to that item in that member State is compatible with the relevant provisions of food law (except in so far as it relates to feed produced for or fed to food producing animals) at EU level, and
+  - (ii) the item complies with that legislation.
+
+## 14. Procurement of samples
+
+An authorised officer of an enforcement authority may —
+
+- (a) purchase a sample of any food, or any substance capable of being used in the preparation of food;
+- (b) take a sample of any food, or any such substance, which —
+  - (i) appears to the officer to be intended for placing on the market or to have been placed on the market, for human consumption, or
+  - (ii) is found by the officer on or in any premises which the officer is authorised to enter by or under regulation 16;
+- (c) take a sample from any food source, or a sample of any contact material, which is found by the officer on or in any such premises; and
+- (d) take a sample of any article or substance which is found by the officer on or in any such premises and which the officer has reason to believe may be required as evidence in proceedings under any of the provisions of these Regulations.
+
+## 15. Analysis etc. of samples
+
+(1) An authorised officer of an enforcement authority who has procured a sample under regulation 14 shall —
+
+- (a) if the officer considers that the sample should be analysed, submit it to be analysed—
+  - (i) by the public analyst for the area in which the sample was procured, or
+  - (ii) by the public analyst for the area which consists of or includes the area of the authority; and
+- (b) if the officer considers that the sample should be examined, submit it to be examined by a food examiner.
+
+(2) A person, other than such an officer, who has purchased any food, or any substance capable of being used in the preparation of food, may submit a sample of it —
+
+- (a) to be analysed by the public analyst for the area in which the purchase was made; or
+- (b) to be examined by a food examiner.
+
+(3) If, in any case where a sample is proposed to be submitted for analysis under this regulation, the office of public analyst for the area in question is vacant, the sample shall be submitted to the public analyst for some other area.
+
+(4) If, in any case where a sample is proposed to be or is submitted for analysis under this regulation, the food analyst determines that they are for any reason unable to perform the analysis or examination, the sample shall be submitted or, as the case may be, sent by them to such other food analyst as they may determine.
+
+(5) If, in any case where a sample is proposed to be or is submitted for examination under this regulation, the food examiner determines that they are for any reason unable to perform the examination, the sample shall be submitted or, as the case may be, sent by them to such other food examiner as they may determine.
+
+(6) A food analyst or examiner must analyse or examine as soon as practicable any sample submitted or sent to them under this regulation, but may, except where —
+
+- (a) the person to whom the sample was submitted or sent is the public analyst for the area in question; and
+- (b) the sample is submitted for analysis by an authorised officer of an enforcement authority,
+
+demand in advance the payment of such reasonable fee as the food analyst or examiner may require.
+
+(7) Any food analyst or examiner who has analysed or examined a sample must give to the person by whom it was submitted a certificate specifying the result of the analysis or examination.
+
+(8) Any certificate given by a food analyst or examiner under paragraph (7) must be signed by the food analyst or examiner, but the analysis or examination may be made by any person acting under their direction.
+
+(9) In any proceedings under these Regulations, the production by one of the parties —
+
+- (a) of a document purporting to be a certificate given by a food analyst or examiner under paragraph (7); or
+- (b) of a document supplied to him by the other party as being a copy of such a certificate,
+
+shall be sufficient evidence of the facts stated in it unless, in a case falling within sub-paragraph (a), the other party requires that the food analyst or examiner shall be called as a witness.
+
+(10) Where two or more public analysts are appointed for any area, any reference in this regulation to the public analyst for that area is to be construed as a reference to either or any of them.
+
+(11) The Food Safety (Sampling and Qualifications) (England) Regulations 2013 [^c21954551] apply in relation to a sample procured by an authorised officer of an enforcement authority under regulation 14 as if it were a sample procured by an authorised officer under section 29 of the Act.
+
+(12) The certificate given by a food analyst or examiner under paragraph (7) must be in the form set out in Schedule 3 to the Food Safety (Sampling and Qualifications) (England) Regulations 2013.
+
+## 16. Powers of entry
+
+(1) An authorised officer of a food authority, on producing, if so required, some duly authenticated document showing authorisation, has a right at all reasonable hours —
+
+- (a) to enter any premises within the authority's area for the purpose of ascertaining whether there is or has been on the premises any contravention of the provisions of the Hygiene Regulations or Regulation 178/2002;
+- (b) to enter any premises, whether within or outside the authority's area, for the purpose of ascertaining whether there is on the premises any evidence of any such contravention within that area; and
+- (c) to enter any premises for the purpose of the performance by the authority of their functions under the Hygiene Regulations or Regulation 178/2002,
+
+but admission to any premises used only as a private dwelling-house may not be demanded as of right unless 24 hours' notice of the intended entry has been given to the occupier.
+
+(2) An authorised officer of the Agency, on producing if so required some duly authenticated document showing authorisation, has a right at all reasonable hours to enter any premises for the purpose of —
+
+- (a) ascertaining whether there is or has been on the premises any contravention of the provisions of the Hygiene Regulations or Regulation 178/2002;
+- (b) ascertaining whether there is on the premises any evidence of any such contravention; and
+- (c) the performance by the Agency of its functions under the Hygiene Regulations or Regulation 178/2002,
+
+but admission to any premises used only as a private dwelling-house may not be demanded as of right unless 24 hours' notice of the intended entry has been given to the occupier.
+
+(3) If a justice of the peace, on sworn information in writing, is satisfied that there is reasonable ground for entry onto any premises for any such purpose as is mentioned in paragraph (1) or (2) and either —
+
+- (a) that admission to the premises has been refused, or a refusal is apprehended, and that notice of the intention to apply for a warrant has been given to the occupier; or
+- (b) that an application for admission, or the giving of such a notice, would defeat the object of the entry, or that the case is one of urgency, or that the premises are unoccupied or the occupier is temporarily absent,
+
+the justice may by warrant signed by the justice authorise the authorised officer to enter the premises, if need be by reasonable force.
+
+(4) Every warrant granted under this regulation shall continue in force for a period of one month.
+
+(5) An authorised officer entering any premises by virtue of this regulation, or of a warrant issued under it, may be accompanied by such other persons as the officer considers necessary, and on leaving any unoccupied premises which the officer has entered by virtue of such a warrant must leave them as effectively secured against unauthorised entry as the officer found them.
+
+(6) An authorised officer entering premises by virtue of this regulation, or of a warrant issued under it, may inspect any records (in whatever form they are held) relating to a food business and, where any such records are stored in any electronic form —
+
+- (a) may have access to, and inspect and check the operation of, any computer and any associated apparatus or material which is or has been in use in connection with the records; and
+- (b) may require any person having charge of, or otherwise concerned with the operation of, the computer, apparatus or material to afford such assistance as the officer may reasonably require.
+
+(7) Any officer exercising any power conferred by paragraph (6) may —
+
+- (a) seize and detain any records which the officer has reason to believe may be required as evidence in proceedings under any of the provisions of these Regulations; and
+- (b) where the records are stored in any electronic form, require the records to be produced in a form in which they may be taken away.
+
+(8) Any person who enters any premises by virtue of this regulation, or of a warrant issued under it, commits an offence if they disclose to any other person any information obtained on the premises with regard to any trade secret, unless the disclosure was made in the performance of their duty.
+
+(9) Nothing in this regulation authorises any person, except with the permission of the local authority under the Animal Health Act 1981 [^c21954561], to enter any premises —
+
+- (a) on which an animal or bird affected with any disease to which that Act applies is kept; and
+- (b) which is situated in a place declared under that Act to be infected with such a disease.
+
+## 17. Obstruction etc. of officers
+
+(1) Any person who —
+
+- (a) intentionally obstructs a person acting in the execution of the Hygiene Regulations or Regulation 178/2002; or
+- (b) without reasonable cause, fails to give to any person acting in the execution of the Hygiene Regulations or Regulation 178/2002 any assistance or information which that person may reasonably require of them for the performance of their functions under the Hygiene Regulations,
+
+commits an offence.
+
+(2) Any person who, in purported compliance with any such requirement as is mentioned in sub-paragraph (b) of paragraph (1) —
+
+- (a) furnishes information which they know to be false or misleading in a material particular; or
+- (b) recklessly furnishes information which is false or misleading in a material particular,
+
+commits an offence.
+
+(3) Nothing in sub-paragraph (b) of paragraph (1) is to be construed as requiring any person to answer any question or give any information if to do so might incriminate them.
+
+## 18. Time limit for prosecutions
+
+No prosecution for an offence under these Regulations which is punishable under paragraph (2) of regulation 19 shall be begun after the expiry of —
+
+- (a) three years from the commission of the offence; or
+- (b) one year from its discovery by the prosecutor,
+
+whichever is the earlier.
+
+## 19. Offences and penalties
+
+(1) Subject to paragraphs (4) to (9)[^key-d6fc91d2e9575f57b499981cd607c073], any person who contravenes or fails to comply with any of the specified EU provisions commits an offence.
+
+(2) Subject to paragraphs (3) and (3A)[^key-838ecf44d630e38b3eeed95b186dab2e], a person guilty of an offence under these Regulations is liable —
+
+- (a) on summary conviction to a fine not exceeding the statutory maximum; or
+- (b) on conviction on indictment to imprisonment for a term not exceeding two years, to a fine or to both.
+
+(3) A person guilty of an offence under regulation 17 is liable on summary conviction to a fine not exceeding level 5 on the standard scale or to imprisonment for a term not exceeding three months or to both.
+
+(3A)[^key-039cb959a0e795d4687919f4c505c040] A person guilty of an offence under paragraph 1A or 1B of Schedule 6 is liable on summary conviction to a fine not exceeding level 5 on the standard scale.
+
+(4) Provided the requirements of Schedule 3 are complied with, a person shall be considered not to have contravened or failed to comply with Article 4(2) of Regulation 852/2004 as read with paragraph 4 of Chapter IV of Annex II to that Regulation (bulk foodstuffs in liquid, granulate or powder form to be transported in receptacles and/or containers/tankers reserved for the transport of foodstuffs).
+
+(5) Provided the requirements of Part 1 of Schedule 7 are complied with, a person shall be considered not to have contravened or failed to comply with Article 3(1) or 4(1)(a) of Regulation 853/2004 as read in either case with paragraph 5 of Chapter II of Section I of Annex III to that Regulation (food business operators to ensure that slaughterhouses in which domestic ungulates are slaughtered have lockable facilities for the refrigerated storage of detained meat and separate lockable facilities for the storage of meat declared unfit for human consumption).
+
+(6) Provided the requirements of Part 2 of Schedule 7 are complied with, a person shall be considered not to have contravened or failed to comply with Article 3(1) or 4(1)(a) of Regulation 853/2004 as read in either case with paragraph 5 of Chapter II of Section II of Annex III to that Regulation (food business operators to ensure that slaughterhouses in which poultry or lagomorphs are slaughtered have lockable facilities for the refrigerated storage of detained meat and separate lockable facilities for the storage of meat declared unfit for human consumption).
+
+(7) Provided the requirements of Part 3 of Schedule 7 are complied with, a person shall be considered not to have contravened or failed to comply with Article 3(1) or 4(1)(a) of Regulation 853/2004 as read in either case with paragraph 6 of Chapter II of Section I of Annex III to that Regulation (food business operators to ensure that slaughterhouses in which domestic ungulates are slaughtered have a separate place with appropriate facilities for the cleaning, washing and disinfection of means of transport for livestock unless the competent authority permits them not to have such places and official authorised places and facilities exist nearby).
+
+(8) Provided the requirements of Part 4 of Schedule 7 are complied with, a person shall be considered not to have contravened or failed to comply with Article 3(1) or 4(1)(a) of Regulation 853/2004 as read in either case with paragraph 6(b) of Chapter II of Section II of Annex III to that Regulation (food business operators to ensure that slaughterhouses in which poultry or lagomorphs are slaughtered have a separate place with appropriate facilities for the cleaning, washing and disinfection of means of transport unless officially authorised places and facilities exist nearby).
+
+(9)[^key-f53be6f07423fa8eb078b3dd3f8d906a] A person is to be considered not to have contravened or failed to comply with Article 5(1) of Regulation 853/2004 if—
+
+- (a) in the case of a health mark—
+  - (i) the health mark was applied to a product of animal origin in accordance with Article 5(1) before IP completion day; and
+  - (ii) the health mark complied with Article 5(1) as that Article applied immediately before IP completion day;
+- (b) in the case of an identification mark—
+  - (i) the identification mark was applied to a product of animal origin subject to Article 5(1) before IP completion day; or
+  - (ii) the identification mark is applied to a product of animal origin in accordance with Article 5(1) as that Article applied immediately before IP completion day, no later than 31 December 2023[^key-878b04d5a70e03dd0f074cb4119a9acf], using a label, wrapping or packaging bearing that identification mark which is owned by the food business operator immediately before IP completion day.
+
+## 20. Offences by bodies corporate
+
+(1) Where an offence under these Regulations which has been committed by a body corporate is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of —
+
+- (a) any director, manager, secretary or other similar officer of the body corporate; or
+- (b) any person who was purporting to act in any such capacity,
+
+that person as well as the body corporate shall be deemed to commit that offence and is liable to be proceeded against and punished accordingly.
+
+(2) In sub-paragraph (a) of paragraph (1) “**director**”, in relation to any body corporate established by or under any enactment for the purpose of carrying on under national ownership any industry or part of an industry or undertaking, being a body corporate whose affairs are managed by its members, means a member of that body corporate.
+
+## 21. Offences by Scottish partnerships
+
+Where an offence under these Regulations which has been committed by a Scottish partnership is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, a partner, that partner as well as the partnership shall be deemed to commit that offence and is liable to be proceeded against and punished accordingly.
+
+## 22. Right of appeal
+
+(1) Any person who is aggrieved by —
+
+- (a) a decision of an authorised officer of an enforcement authority to serve a hygiene improvement notice;
+- (b) a decision of an enforcement authority to refuse to issue a certificate under paragraph (6) of regulation 7 or paragraph (8) of regulation 8; or
+- (c) a decision of an authorised officer of an enforcement authority to serve a remedial action notice,
+
+may appeal to a magistrates' court.
+
+(2) The procedure on an appeal to a magistrates' court under paragraph (1) shall be by way of complaint for an order, and the Magistrates' Courts Act 1980 applies to the proceedings.
+
+(3) The period within which an appeal under paragraph (1) may be brought is —
+
+- (a) one month from the date on which notice of the decision was served on the person desiring to appeal; or
+- (b) in the case of an appeal against a decision to issue a hygiene improvement notice, the period specified in sub-paragraph (a) or, if it is shorter, the period specified in the notice pursuant to sub-paragraph (d) of paragraph (1) of regulation 6,
+
+and the making of a complaint for an order shall be deemed for the purposes of this paragraph to be the bringing of the appeal.
+
+## 23. Appeals to the Crown Court
+
+A person who is aggrieved by —
+
+- (a) the dismissal by a magistrates' court of an appeal to it under paragraph (1) of regulation 22; or
+- (b) any decision of such a court to make a hygiene prohibition order or a hygiene emergency prohibition order,
+
+may appeal to the Crown Court.
+
+## 24. Appeals against hygiene improvement notices and remedial action notices
+
+(1) On an appeal against a hygiene improvement notice or a remedial action notice, the court may cancel or affirm the notice and, if it affirms it, may do so either in its original form or with such modifications as the court may in the circumstances think fit.
+
+(2) Where any period specified in a hygiene improvement notice pursuant to sub-paragraph (d) of paragraph (1) of regulation 6 would otherwise include any day on which an appeal against that notice is pending, that day shall be excluded from that period.
+
+(3) Any appeal shall be regarded as pending for the purposes of paragraph (2) until it is finally disposed of, is withdrawn or is struck out for want of prosecution.
+
+## 25. Application of section 9 of the Food Safety Act 1990
+
+Section 9 of the Act (inspection and seizure of suspected food) applies for the purposes of these Regulations with the modification that it shall apply in relation to an authorised officer of an enforcement authority as it applies in relation to an authorised officer of a food authority.
+
+## 26. Power to issue codes of recommended practice
+
+(1) For the guidance of food authorities, the Secretary of State may issue codes of recommended practice as regards the execution and enforcement of the Hygiene Regulations and Regulation 178/2002 and any such code shall be laid before Parliament after being issued.
+
+(2) The Agency may, after consulting the Secretary of State, give a food authority a direction requiring them to take any specified steps in order to comply with a code issued under this regulation.
+
+(3) In exercise of the functions conferred on them by or under the Hygiene Regulations and Regulation 178/2002, every food authority —
+
+- (a) must have regard to any relevant provision of any such code; and
+- (b) must comply with any direction which is given under this regulation and requires them to take any specified steps in order to comply with such a code.
+
+(4) Any direction under paragraph (2) shall, on the application of the Agency, be enforceable by mandatory order.
+
+(5) The Agency must consult the Secretary of State before making an application under paragraph (4).
+
+(6) Before issuing any code under this regulation, the Secretary of State must have regard to any relevant advice given by the Agency.
+
+## 27. Protection of officers acting in good faith
+
+(1) An officer of an enforcement authority is not personally liable in respect of any act done by that officer —
+
+- (a) in the execution or purported execution of the Hygiene Regulations or Regulation 178/2002; and
+- (b) within the scope of his employment,
+
+if that act was done in the honest belief that the officer's duty under the Hygiene Regulations or Regulation 178/2002 required or entitled the officer to do it.
+
+(2) Nothing in paragraph (1) is to be construed as relieving any enforcement authority of any liability in respect of the acts of their officers.
+
+(3) Where an action has been brought against an officer of an enforcement authority in respect of an act done by that officer —
+
+- (a) in the execution or purported execution of the Hygiene Regulations or Regulation 178/2002; but
+- (b) outside the scope of the officer's employment,
+
+the authority may indemnify that officer against the whole or a part of any damages which the officer has been ordered to pay or any costs which the officer may have incurred if they are satisfied that the officer honestly believed that the act complained of was within the scope of the officer's employment.
+
+(4) A public analyst appointed by a food authority is to be treated for the purposes of this regulation as being an officer of the authority, whether or not the appointment is a whole-time one.
+
+## 28. Revocation and suspension of designations and appointments
+
+(1) Subject to paragraphs (2) and (3), the Agency may at any time revoke or suspend —
+
+- (a) the appointment of an official veterinarian;
+- (b) the designation of an approved veterinarian; or
+- (c) the appointment of an official auxiliary,
+
+if it appears to the Agency that the person in question is unfit to perform any of the functions of that post under the Hygiene Regulations.
+
+(2) Where the Agency revokes or suspends a designation or appointment under paragraph (1), the Agency shall, as soon as practicable, give to the person whose designation or appointment has been revoked or suspended a notice in writing of the reasons for the revocation or suspension and shall afford them an opportunity of —
+
+- (a) making representations in writing to the Agency with regard to the revocation or suspension; or
+- (b) being heard by a person nominated by the Agency for the purpose pursuant to sub-paragraph (a) of paragraph (5).
+
+(3) A notice given under paragraph (2) shall inform the person to whom it is given —
+
+- (a) of their right to make representations in writing;
+- (b) of the manner in which and the time (not being less than 21 days from the giving of the notice) within which such representations may be made;
+- (c) of their right to be heard; and
+- (d) of the manner in which and the time (not being less than 21 days from the giving of the notice) within which they may apply for an opportunity to be heard.
+
+(4) In the event of the person whose designation or appointment has been revoked or suspended making any representations (whether orally or in writing) under paragraph (3) the Agency must reconsider whether that person is unfit to perform any of the functions of the post held by them under the Hygiene Regulations and shall, as soon as practicable, reconsider its decision to revoke or suspend the designation or appointment under paragraph (1) in the light of those representations.
+
+(5) Where a person requests the opportunity to be heard pursuant to sub-paragraph (b) of paragraph (2) —
+
+- (a) the Agency must nominate a person to determine the matter from the list established under paragraph (6);
+- (b) the person so nominated must serve a notice on the person who requested the opportunity to be heard and the Agency, informing them of the time (not being less than 21 days from the giving of the notice) of the hearing; and
+- (c) the person so nominated must, within 21 days of the hearing, notify the person who requested the opportunity to be heard and the Agency of the result of the determination.
+
+(6) The Agency must establish and maintain a list of people who may be nominated for the purposes of this regulation and consult those organisations appearing to it to represent official veterinarians, approved veterinarians and official auxiliaries before including any person on the list.
+
+## 29. Food which has not been produced, processed or distributed in accordance with the Hygiene Regulations
+
+(1) On an inspection of any food, an authorised officer of an enforcement authority may certify that it has not been produced, processed or distributed in compliance with the Hygiene Regulations.
+
+(2) Where any food is certified as mentioned in paragraph (1) it shall be treated for the purposes of section 9 of the Act as failing to comply with food safety requirements.
+
+(3) Where any food certified as mentioned in paragraph (1) is part of a batch, lot or consignment of food of the same class or description, all the food in the batch, lot or consignment shall, until it is proved that it has been produced, processed or distributed in compliance with the Hygiene Regulations, be treated for the purposes of paragraph (2) as having been so certified.
+
+## 30. Service of documents
+
+(1) Any document which is required or authorised under the Hygiene Regulations to be served on a food business operator may be served —
+
+- (a) by delivering it to that person;
+- (b) in the case of an incorporated company or body, by delivering it to their secretary at their registered or principal office, or by sending it in a prepaid letter addressed to the secretary at that office; or
+- (c) in the case of any other food business operator, by leaving it or sending it in a prepaid letter addressed to the food business operator at the operator's usual or last known residence.
+
+(2) Where a document is to be served on a food business operator under the Hygiene Regulations and it is not reasonably practicable to ascertain the name and address of the person on whom it should be served, or the premises of the food business operator are unoccupied, the document may be served by addressing it to the food business operator concerned in the capacity of occupier of those premises (naming them), and —
+
+- (a) by delivering it to some other person at the premises; and
+- (b) if there is no other person at the premises to whom it can be delivered, by affixing it or a copy of it to some conspicuous part of the premises.
+
+## 31. Bulk transport in sea-going vessels of liquid oils or fats and the bulk transport by sea of raw sugar
+
+Schedule 3 (bulk transport in sea-going vessels of liquid oils or fats and the bulk transport by sea of raw sugar) has effect.
+
+## 32. Temperature control requirements
+
+Schedule 4 (temperature control requirements) has effect.
+
+## 33. Direct supply by the producer of small quantities of meat from poultry or lagomorphs slaughtered on the farm
+
+Schedule 5 (direct supply by the producer of small quantities of meat from poultry or lagomorphs slaughtered on the farm) has effect.
+
+## 34. Restrictions on the sale of raw milk intended for direct human consumption
+
+Schedule 6 (restrictions on the sale of raw milk intended for direct human consumption) has effect.
+
+## 35. Special health mark[^key-870eb3438db9492b60f91723cc3311a0]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 36. Consequential amendment to the Act
+
+In section 9(5)(a) of the Act [^c21954571], after “section 7” insert “ , regulation 19(1) of the Food Safety and Hygiene (England) Regulations 2013, so far as relating to the second entry in the list of specified EU provisions set out in column 1 of Schedule 2 to those Regulations ”.
+
+## 37. Amendments to the Official Feed and Food Controls (England) Regulations 2009
+
+(1) The Official Feed and Food Controls (England) Regulations 2009 [^c21954581] are amended in accordance with paragraphs (2) to (4).
+
+(2) In regulation 2(1) (interpretation), for the definition of “the Import Provisions” substitute the following definition —
+
+> “**the Import Provisions**” means Part 3 of these Regulations, Article 14 of Regulation 882/2004 in so far as it applies to official controls to verify compliance with aspects of feed or food law not covered by Directive [97/78/EC](https://www.legislation.gov.uk/european/directive/1997/0078) [^c21954591], Articles 15 to 24 of Regulation 882/2004, Regulation 669/2009 and Commission Regulation (EU) No. 211/2013 on certification requirements for imports into the Union of sprouts and seeds intended for the production of sprouts [^c21954601];
+
+.
+
+(3) In regulation 41 (offences and penalties), after paragraph (1) insert the following as paragraph (1A) —
+
+> (1A) Any person who imports into England or places on the market any sprouts or seeds intended for sprouting which do not comply with the certification requirements of Article 3 of Commission Regulation (EU) No. 211/2013 on certification requirements for imports into the Union of sprouts and seeds intended for the production of sprouts shall be guilty of an offence.
+
+.
+
+(4) In paragraphs (5) and (6) of regulation 3, paragraph (d) of Schedule 2 and paragraph (c) of Schedule 3, for the expression “the Food Hygiene (England) Regulations 2006” substitute “ the Food Safety and Hygiene (England) Regulations 2013 ”.
+
+## 38. Consequential amendments to the Animal By-Products (Enforcement) (England) Regulations 2013
+
+The Animal By-Products (Enforcement) (England) Regulations 2013 [^c21954611] are amended as follows —
+
+- (a) In regulation 10(2)(a)[^key-b37e096e09b8d2df0663a3119dccdd17], for “regulation 5(6) of the Food Hygiene (England) Regulations 2006” substitute “ regulation 5(9) of the Food Safety and Hygiene (England) Regulations 2013 ”;
+- (b) In regulation 21(8)[^key-50472b1ddc8d871a652a420a5661b0f8], for “regulation 5(2) of the Food Hygiene (England) Regulations 2006” substitute “ regulation 5(2) of the Food Safety and Hygiene (England) Regulations 2013 ”.
+
+## 39. Consequential amendment to the Trade in Animals and Related Products Regulations 2011
+
+In regulation 32(3)(b) of the Trade in Animals and Related Products Regulations 2011 [^c21954621], for “the Food Hygiene (England) Regulations 2006” substitute “ the Food Safety and Hygiene (England) Regulations 2013 ”.
+
+## 40. Revocations
+
+In so far as they apply in relation to England, the instruments listed in the first column of Schedule 9 are revoked to the extent specified in the second column.
+
+## 41. Review
+
+(1) The Food Standards Agency must from time to time —
+
+- (a) carry out a review of the operation and effect of regulations 2 to 35;
+- (b) set out the conclusions of the review in a report; and
+- (c) publish the report.
+
+(2) In carrying out the review the Agency must, so far as is reasonably practicable, have regard to how the EU instruments mentioned in paragraph (1)[^key-f3afa2261155a5fb5592cb9a7db00dfc] as read with paragraph (6)[^key-e25d626ee3f3da428791fe08d1c17ce7] of regulation 2 are executed and enforced in other Member States.
+
+(3) The report must in particular —
+
+- (a) set out the objectives intended to be achieved by the regulatory system established by these Regulations;
+- (b) assess the extent to which those objectives are achieved; and
+- (c) assess whether those objectives remain appropriate and, if so, the extent to which they could be achieved with a system that imposes less regulation.
+
+(4) The first report under this regulation must be published before the end of the period of five years beginning with the day on which these Regulations come into force.
+
+(5) Reports under this regulation are afterwards to be published at intervals not exceeding five years.
+
+Signed by authority of the Secretary of State for Health.
+
+Jane Ellison
+
+Parliamentary Under Secretary of State,
+
+Department of Health
+
+## SCHEDULE 1 — DEFINITIONS OF LEGISLATION[^key-847be84e9b641e6a3622c8be53f95ccf]
+
+Regulation 2(1)
+
+- “Directive 2004/41” means [Directive 2004/41/EC](https://www.legislation.gov.uk/eudr/2004/0041) of the European Parliament and of the Council repealing certain Directives concerning food hygiene and health conditions for the production and placing on the market of certain products of animal origin intended for human consumption and amending Council Directives [89/662/EEC](https://www.legislation.gov.uk/eudr/1989/662) and [92/118/EEC](https://www.legislation.gov.uk/eudr/1992/118) and Council [Decision 95/408/EC](https://www.legislation.gov.uk/eudn/1995/0408);
+- “Regulation 178/2002” means Regulation [(EC) No. 178/2002](https://www.legislation.gov.uk/eur/2002/0178) of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety as read with Regulation 931/2011 and Regulation 208/2013;
+- “Regulation 852/2004” means Regulation [(EC) No. 852/2004](https://www.legislation.gov.uk/eur/2004/0852) of the European Parliament and of the Council on the hygiene of foodstuffs as read with Regulation 2073/2005 and Regulation 210/2013;
+- “Regulation 853/2004” means Regulation [(EC) No. 853/2004](https://www.legislation.gov.uk/eur/2004/0853) of the European Parliament and of the Council laying down specific hygiene rules for food of animal origin as read with Directive 2004/41, Regulation 1688/2005, Regulation 2074/2005 and 2017/185;
+- “Regulation 1688/2005” means [Commission Regulation (EC) No. 1688/2005](https://www.legislation.gov.uk/eur/2005/1688) implementing Regulation [(EC) No. 853/2004](https://www.legislation.gov.uk/eur/2004/0853) of the European Parliament and of the Council as regards special guarantees concerning salmonella for consignments to Finland and Sweden of certain meat and eggs;
+- “Regulation 2073/2005” means [Commission Regulation (EC) No. 2073/2005](https://www.legislation.gov.uk/eur/2005/2073) on microbiological criteria for foodstuffs;
+- “Regulation 2074/2005” means [Commission Regulation (EC) No. 2074/2005](https://www.legislation.gov.uk/eur/2005/2074) laying down implementing measures for certain products under Regulation [(EC) No. 853/2004](https://www.legislation.gov.uk/eur/2004/0853) of the European Parliament and of the Council and for the organisation of official controls under Regulation [(EC) No. 854/2004](https://www.legislation.gov.uk/eur/2004/0854) of the European Parliament and of the Council and Regulation [(EC) No. 882/2004](https://www.legislation.gov.uk/eur/2004/0882) of the European Parliament and of the Council, derogating from Regulation [(EC) No. 852/2004](https://www.legislation.gov.uk/eur/2004/0852) of the European Parliament and of the Council and amending Regulations [(EC) No. 853/2004](https://www.legislation.gov.uk/eur/2004/0853) and [(EC) No. 854/2004](https://www.legislation.gov.uk/eur/2004/0854);
+- “Regulation 931/2011” means Commission Implementing Regulation (EU) No. 931/2011 on the traceability requirements set by Regulation [(EC) No. 178/2002](https://www.legislation.gov.uk/eur/2002/0178) of the European Parliament and of the Council for food of animal origin;
+- “Regulation 1169/2011” means Regulation (EU) No. 1169/2011 of the European Parliament and of the Council on the provision of food information to consumers, amending Regulations [(EC) No. 1924/2006](https://www.legislation.gov.uk/eur/2006/1924) and [(EC) No. 1925/2006](https://www.legislation.gov.uk/eur/2006/1925) of the European Parliament and of the Council, and repealing Commission [Directive 87/250/EEC](https://www.legislation.gov.uk/eudr/1987/0250), Council [Directive 90/496/EEC](https://www.legislation.gov.uk/eudr/1990/0496), Commission [Directive 1999/10/EC](https://www.legislation.gov.uk/eudr/1999/0010), [Directive 2000/13/EC](https://www.legislation.gov.uk/eudr/2000/0013) of the European Parliament and of the Council, Commission Directives [2002/67/EC](https://www.legislation.gov.uk/eudr/2002/0067) and [2008/5/EC](https://www.legislation.gov.uk/eudr/2008/0005) and [Commission Regulation (EC) No. 608/2004](https://www.legislation.gov.uk/eur/2004/0608);
+- “Regulation 208/2013” means Commission Implementing Regulation (EU) No. 208/2013 on traceability requirements for sprouts and seeds intended for the production of sprouts;
+- “Regulation 210/2013” means [Commission Regulation (EU) No. 210/2013](https://www.legislation.gov.uk/eur/2013/0210) on the approval of establishments producing sprouts pursuant to Regulation [(EC) No. 852/2004](https://www.legislation.gov.uk/eur/2004/0852) of the European Parliament and of the Council;
+- “Regulation 579/2014” means [Commission Regulation (EU) No. 579/2014](https://www.legislation.gov.uk/eur/2014/0579) granting derogation from certain provisions of Annex II to Regulation [(EC) No. 852/2004](https://www.legislation.gov.uk/eur/2004/0852) of the European Parliament and of the Council as regards the transport of liquid oils and fats by sea;
+- “Regulation 2015/1375” means Commission Implementing Regulation (EU) 2015/1375 laying down specific rules on official controls for Trichinella in meat;
+- “Regulation 2017/185” means Commission Regulation (EU) 2017/185 laying down transitional measures for the application of certain provisions of Regulations [(EC) No. 853/2004](https://www.legislation.gov.uk/eur/2004/0853) and [(EC) No. 854/2004](https://www.legislation.gov.uk/eur/2004/0854) of the European Parliament and of the Council;
+- “Regulation 2017/625” means Regulation (EU) 2017/625 of the European Parliament and of the Council on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products, amending Regulations [(EC) No. 999/2001](https://www.legislation.gov.uk/eur/2001/0999), [(EC) No. 396/2005](https://www.legislation.gov.uk/eur/2005/0396), [(EC) No. 1069/2009](https://www.legislation.gov.uk/eur/2009/1069), [(EC) No. 1107/2009](https://www.legislation.gov.uk/eur/2009/1107), (EU) No. 1151/2012, (EU) No. 652/2014, (EU) 2016/429 and (EU) 2016/2031 of the European Parliament and of the Council, Council Regulations [(EC) No. 1/2005](https://www.legislation.gov.uk/eur/2005/0001) and [(EC) No. 1099/2009](https://www.legislation.gov.uk/eur/2009/1099) and Council Directives [98/58/EC](https://www.legislation.gov.uk/eudr/1998/0058), [1999/74/EC](https://www.legislation.gov.uk/eudr/1999/0074), [2007/43/EC](https://www.legislation.gov.uk/eudr/2007/0043), [2008/119/EC](https://www.legislation.gov.uk/eudr/2008/0119) and [2008/120/EC](https://www.legislation.gov.uk/eudr/2008/0120), and repealing Regulations [(EC) No. 854/2004](https://www.legislation.gov.uk/eur/2004/0854) and [(EC) No. 882/2004](https://www.legislation.gov.uk/eur/2004/0882) of the European Parliament and of the Council, Council Directives [89/608/EEC](https://www.legislation.gov.uk/eudr/1989/608), [89/662/EEC](https://www.legislation.gov.uk/eudr/1989/662), [90/425/EEC](https://www.legislation.gov.uk/eudr/1990/425), [91/496/EEC](https://www.legislation.gov.uk/eudr/1991/496), [96/23/EC](https://www.legislation.gov.uk/eudr/1996/23), [96/93/EC](https://www.legislation.gov.uk/eudr/1996/93) and [97/78/EC](https://www.legislation.gov.uk/eudr/1997/78) and Council [Decision 92/438/EEC](https://www.legislation.gov.uk/eudn/1992/0438) as read with Regulation 2074/2005, Regulation 2017/185 and the Regulation 2017/625 package;
+- The Regulation 2017/625 package
+- “Regulation 2019/478” means Commission Delegated Regulation (EU) 2019/478 amending Regulation (EU) 2017/625 of the European Parliament and of the Council as regards the categories of consignments to be subjected to official controls at border control posts;
+- “Regulation 2019/624” means Commission Delegated Regulation (EU) 2019/624 concerning specific rules for the performance of official controls on the production of meat and for production and relaying areas of live bivalve molluscs in accordance with Regulation (EU) 2017/625 of the European Parliament and of the Council;
+- “Regulation 2019/625” means Commission Delegated Regulation (EU) 2019/625 supplementing Regulation (EU) 2017/625 of the European Parliament and of the Council with regard to requirements for the entry into the Union of consignments of certain animals and goods intended for human consumption;
+- “Regulation 2019/626” means Commission Implementing Regulation (EU) 2019/626 concerning lists of third countries or regions thereof authorised for the entry into the European Union of certain animals and goods intended for human consumption, amending Implementing Regulation (EU) 2016/759 as regards these lists;
+- “Regulation 2019/627” means Commission Implementing Regulation (EU) 2019/627 laying down uniform practical arrangements for the performance of official controls on products of animal origin intended for human consumption in accordance with Regulation (EU) 2017/625 of the European Parliament and of the Council and amending [Commission Regulation (EC) No. 2074/2005](https://www.legislation.gov.uk/eur/2005/2074) as regards official controls;
+- “Regulation 2019/628” means Commission Implementing Regulation (EU) 2019/628 concerning model official certificates for certain animals and goods and amending Regulation [(EC) No. 2074/2005](https://www.legislation.gov.uk/eur/2005/2074) and Implementing Regulation (EU) 2016/759 as regards these model certificates;
+- “Regulation 2019/1012” means Commission Delegated Regulation (EU) 2019/1012 supplementing Regulation (EU) 2017/625 of the European Parliament and of the Council by derogating from the rules on the designation of control points and from the minimum requirements for border control posts;
+- “Regulation 2019/1013” means Commission Implementing Regulation (EU) 2019/1013 on prior notification of consignments of certain categories of animals and goods entering the Union;
+- “Regulation 2019/1014” means Commission Implementing Regulation (EU) 2019/1014 to lay down detailed rules on minimum requirements for border control posts, including inspection centres, and for the format, categories and abbreviations to use for listing border control posts and control points;
+- “Regulation 2019/1081” means Commission Delegated Regulation (EU) 2019/1081 establishing rules on specific training requirements for staff for performing certain physical checks at border control posts;
+- “Regulation 2019/1602” means Commission Delegated Regulation (EU) 2019/1602 supplementing Regulation (EU) 2017/625 of the European Parliament and of the Council concerning the Common Health Entry Document accompanying consignments of animals and goods to their destination;
+- “Regulation 2019/1666” means Commission Delegated Regulation (EU) 2019/1666 supplementing Regulation (EU) 2017/625 of the European Parliament and of the Council as regards conditions for monitoring the transport and arrival of consignments of certain goods from the border control post of arrival to the establishment at the place of destination in the Union;
+- “Regulation 2019/1715” means Commission Implementing Regulation (EU) 2019/1715 laying down rules for the functioning of the information management system for official controls and its system components (the IMSOC Regulation);
+- “Regulation 2019/1793” means Commission Implementing Regulation (EU) 2019/1793 on the temporary increase of official controls and emergency measures governing the entry into the Union of certain goods from certain third countries implementing Regulations (EU) 2017/625 and [(EC) No. 178/2002](https://www.legislation.gov.uk/eur/2002/0178) of the European Parliament and of the Council and repealing Commission Regulations [(EC) No. 669/2009](https://www.legislation.gov.uk/eur/2009/0669), (EU) No. 884/2014, (EU) 2015/175, (EU) 2017/186 and (EU) 2018/1660;
+- “Regulation 2019/1873” means Commission Implementing Regulation (EU) 2019/1873 on the procedures at border control posts for a coordinated performance by competent authorities of intensified official controls on products of animal origin, germinal products, animal by-products and composite products;
+- “Regulation 2019/2007” means Commission Implementing Regulation (EU) 2019/2007 laying down rules for the application of Regulation (EU) 2017/625 of the European Parliament and of the Council as regards the lists of animals, products of animal origin, germinal products, animal by-products and derived products and hay and straw subject to official controls at border control posts and amending [Decision 2007/275/EC](https://www.legislation.gov.uk/eudn/2007/0275);
+- “Regulation 2019/2074” means Commission Delegated Regulation (EU) 2019/2074 supplementing Regulation (EU) 2017/625 of the European Parliament and of the Council as regards rules on specific official controls on consignments of certain animals and goods originating from, and returning to the Union following a refusal of entry by a third country;
+- “Regulation 2019/2122” means Commission Delegated Regulation (EU) 2019/2122 supplementing Regulation (EU) 2017/625 of the European Parliament and of the Council as regards certain categories of animals and goods exempted from official controls at border control posts, specific controls on passengers’ personal luggage and on small consignments of goods sent to natural persons which are not intended to be placed on the market and amending [Commission Regulation (EU) No. 142/2011](https://www.legislation.gov.uk/eur/2011/0142);
+- “Regulation 2019/2123” means Commission Delegated Regulation (EU) 2019/2123 supplementing Regulation (EU) 2017/625 of the European Parliament and of the Council as regards rules for the cases where and the conditions under which identity checks and physical checks on certain goods may be performed at control points and documentary checks may be performed at distance from border control posts;
+- “Regulation 2019/2124” means Commission Delegated Regulation (EU) 2019/2124 supplementing Regulation (EU) 2017/625 of the European Parliament and of the Council as regards rules for official controls of consignments of animals and goods in transit, transhipment and onward transportation through the Union, and amending Commission Regulations [(EC) No. 798/2008](https://www.legislation.gov.uk/eur/2008/0798), [(EC) No. 1251/2008](https://www.legislation.gov.uk/eur/2008/1251), [(EC) No. 119/2009](https://www.legislation.gov.uk/eur/2009/0119), (EU) No. 206/2010, (EU) No. 605/2010, (EU) No. 142/2011, (EU) No. 28/2012, Commission Implementing Regulation (EU) 2016/759 and Commission [Decision 2007/777/EC](https://www.legislation.gov.uk/eudn/2007/0777);
+- “Regulation 2019/2126” means Commission Delegated Regulation (EU) 2019/2126 supplementing Regulation (EU) 2017/625 of the European Parliament and of the Council as regards rules for specific official controls for certain categories of animals and goods, measures to be taken following the performance of such controls and certain categories of animals and goods exempted from official controls at border control posts;
+- “Regulation 2019/2129” means Commission Implementing Regulation (EU) 2019/2129 establishing rules for the uniform application of frequency rates for identity checks and physical checks on certain consignments of animals and goods entering the Union;
+- “Regulation 2019/2130” means Commission Implementing Regulation (EU) 2019/2130 establishing detailed rules on the operations to be carried out during and after documentary checks, identity checks and physical checks on animals and goods subject to official controls at border control posts;
+- “Regulation 2020/466” means Commission Implementing Regulation (EU) 2020/466 on temporary measures to contain risks to human, animal and plant health and animal welfare during certain serious disruptions of Member States’ control systems due to coronavirus disease;
+- “Regulation 2020/1158” means Commission Implementing Regulation (EU) 2020/1158 on the conditions governing imports of food and feed originating in third countries following the accident at the Chernobyl nuclear power station.
+
+## Schedule 2 — Specified EU provisions[^key-aa73a71c8c6c1afa301e2ae6f517ee66]
+
+| *1. Provision of assimilated[^key-9f4beda4e83de1326b48298377a0493b] law* | *2. Subject matter* |
+| --- | --- |
+| Article 12 of Regulation 178/2002, as it relates to food | Requirement that food exported or re-exported from Great Britain to third countries must comply with the relevant requirements of food law, except in certain specified circumstances. |
+| Article 14(1) of Regulation 178/2002 | Requirement that unsafe food must not be placed on the market. |
+| Article 16 of Regulation 178/2002, as it relates to food | Requirement that the labelling, advertising and presentation of food must not mislead consumers. |
+| Article 18(2) and (3) of Regulation 178/2002, as it relates to food business operators | Requirement that food business operators must ensure traceability of food, including having systems in place to identify businesses from which they have been supplied and to which they have supplied food. |
+| Article 19 of Regulation 178/2002 | Requirement that where there has been a breach of food safety requirements food business operators must, in specified circumstances, recall and/or withdraw the affected food and inform consumers and the competent authorities. |
+| Article 3 of Regulation 852/2004 | Requirement that food business operators ensure that all stages of production, processing and distribution of food under their control satisfy the relevant hygiene requirements laid down in Regulation 852/2004. |
+| Article 4(1) of Regulation 852/2004 | Requirement that food business operators carrying out primary production and specified associated operations comply with the general hygiene provisions laid down in Part A of Annex 1 to Regulation 852/2004 and any specific requirements provided for in Regulation 853/2004. |
+| Article 4(2) of Regulation 852/2004 | Requirement that food business operators carrying out any stage of production, processing and distribution of food after those stages to which Article 4(1) applies comply with the general hygiene requirements laid down in Annex 2 to Regulation 852/2004 and any specific requirements provided for in Regulation 853/2004 and Regulation 579/2014. |
+| Article 4(3) of Regulation 852/2004 | Requirement that food business operators, as appropriate, adopt certain specific hygiene measures. |
+| Article 5(1) of Regulation 852/2004 | Requirement that food business operators put in place, implement and maintain a permanent procedure or procedures based on the HACCP principles. |
+| Article 5(2) of Regulation 852/2004 | Requirement that when any modification is made in the product, process, or any step, food business operators review the procedure referred to in Article 5(1) and make the necessary changes to it. |
+| Article 5(4)(a) of Regulation 852/2004 | Requirement that food business operators provide the competent authority with evidence of their compliance with Article 5(1). |
+| Article 5(4)(b) of Regulation 852/2004 | Requirement that food business operators ensure that any documents describing the procedures developed in accordance with Article 5 are up to date. |
+| Article 5(4)(c) of Regulation 852/2004 | Requirement that food business operators retain documents and records for an appropriate period. |
+| Article 6(1) of Regulation 852/2004 | Requirement that food business operators co-operate with the competent authorities in accordance with United Kingdom law. |
+| Article 6(2), first paragraph, of Regulation 852/2004 | Requirement that a food business operator notify the competent authority of each establishment under its control that carries out any of the stages of production, processing and distribution of food. |
+| Article 6(2), second paragraph, of Regulation 852/2004 | Requirement that food business operators ensure that the competent authority has up to date information on establishments. |
+| Article 6(3) of Regulation 852/2004 | Requirement that food business operators ensure that establishments are approved by the competent authority when approval is required. |
+| Article 3(1) of Regulation 853/2004 | Requirement that food business operators comply with the relevant provisions of Annexes 2 and 3 to Regulation 853/2004. |
+| Article 3(2) of Regulation 853/2004 | Requirement that food business operators do not use any substance other than potable water or, when Regulation 852/2004 or Regulation 853/2004 permits its use, clean water, to remove surface contamination from products of animal origin unless use of the substance has been approved. |
+| Article 4(1) of Regulation 853/2004 | Requirement that food business operators place products of animal origin on the market only if they have been prepared and handled exclusively in establishments—<br>(a) that meet the relevant requirements of Regulation 852/2004, those of Annexes 2 and 3 of Regulation 853/2004 and other relevant requirements of food law; and<br>(b) that the competent authority has registered or, where required in accordance with Article 4(2), approved. |
+| Article 4(2) of Regulation 853/2004 | Requirement that establishments handling those products of animal origin for which Annex 3 to Regulation 853/2004 lays down requirements do not operate unless the competent authority has approved them in accordance with Article 4(3). |
+| Article 4(3) of Regulation 853/2004 | Requirement that establishments subject to approval in accordance with Article 4(2) do not operate unless the competent authority has, in accordance with Regulation 2017/625—<br>(a) granted the establishment approval to operate following an on-site visit; or<br>(b) provided the establishment with conditional approval. |
+| Article 4(4) of Regulation 853/2004 | Requirement that food business operators co-operate with the competent authorities in accordance with Regulation 2017/625 including ensuring that an establishment ceases to operate if it is no longer approved. |
+| Article 5(1) of Regulation 853/2004 | Requirement that food business operators do not place on the market a product of animal origin handled in an establishment subject to approval in accordance with Article 4(2) unless it has—<br>(a) a health mark applied in accordance with Regulation 2017/625; or<br>(b) when Regulation 2017/625 does not provide for the application of a health mark, an identification mark applied in accordance with Section 1 of Annex 2 to Regulation 853/2004. |
+| Article 5(2) of Regulation 853/2004 | Requirement that food business operators apply an identification mark to a product of animal origin only if the product has been manufactured in accordance with Regulation 853/2004 in establishments meeting the requirements of Article 4. |
+| Article 5(3) of Regulation 853/2004 | Requirement that food business operators do not remove a health mark applied in accordance with Regulation 2017/625 from meat unless they cut or process it or work upon it in another manner. |
+| Article 6(1) and (2) of Regulation 853/2004 | Requirement that food business operators ensure that importation of products of animal origin only takes place where certain conditions are met. |
+| Article 6(3) of Regulation 853/2004 | Requirement that food business operators importing products of animal origin shall ensure that—<br>(a) products are made available for control upon importation in accordance with Council Directive [97/78/EC](https://www.legislation.gov.uk/eudr/1997/78);<br>(b) importation complies with the requirements of Council Directive [2002/99/EC](https://www.legislation.gov.uk/eudr/2002/99); and<br>(c) operations under their control that take place after importation are carried out in accordance with the requirements of Annex 3 to Regulation 853/2004. |
+| Article 6(4) of Regulation 853/2004 | Requirement that food business operators importing food containing both products of plant origin and processed products of animal origin ensure that the processed products of animal origin satisfy the requirements of paragraphs (1) to (3) of Article 6. |
+| Article 7 of Regulation 853/2004 | Requirement that food business operators ensure that certificates or other documents accompany consignments of products of animal origin when required in accordance with Annex 2 or 3 to Regulation 853/2004. |
+| Article 7(1) of Regulation 2073/2005 | Requirement that food business operators take the measures laid down in paragraphs (2) to (4) of Article 7 when the results of testing against the criteria set out in Annex 1 to Regulation 2073/2005 (microbiological criteria for foodstuffs) are unsatisfactory. |
+| Article 9 of Regulation 2015/1375 | Requirement that food business operators of holdings officially recognised as applying controlled housing conditions must inform the competent authority of any requirement of Annex 4 to Regulation 2015/1375 that is no longer fulfilled or of any other change that might affect the holdings' Trichinella status. |
+
+## SCHEDULE 3 — Bulk transport in sea-going vessels of liquid oils or fats and the bulk transport by sea of raw sugar
+
+Regulations 19(4) and 31
+
+### 1. Offence
+
+A person who contravenes or fails to comply with any of the requirements of this Schedule commits an offence.
+
+### 2. Liquid oils or fats[^key-930995639a73d79aa9fbf6857c8374e8]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**3.**[^key-71df4cafd92677662647382a48c396e6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**4.**[^key-af0e970115ea08ce7ecea534dea3c7a4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**5.**[^key-4e307668e0f90e8d7f291d14d0ea2164] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**6.**[^key-6718d66582ab6b330ff4b0ccb587df5a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 7. Raw sugar
+
+The bulk transport by sea of raw sugar which is not intended for use as food or as a food ingredient without a full and effective refining process is permitted in receptacles, containers or tankers that are not exclusively used for the transport of foodstuffs.
+
+**8.** The receptacles, containers or tankers referred to in paragraph 7 shall be subject to the following conditions —
+
+- (a) prior to loading the raw sugar, the receptacle, container or tanker shall be effectively cleaned to remove residues of the previous cargo and other soiling and inspected to establish that such residues have been removed effectively; and
+- (b) the immediate previous cargo prior to the raw sugar shall not have been a bulk liquid.
+
+**9.** A food business operator who is responsible for the transport of raw sugar by sea under paragraph 7 shall keep documentary evidence, accurately describing in detail the immediate previous cargo carried in the receptacle, container or tanker concerned, and the type and effectiveness of the cleaning process applied prior to the transport of the raw sugar.
+
+**10.** The documentary evidence shall accompany the consignment of raw sugar during all stages of transport to the refinery and a copy shall be retained by the refinery. The documentary evidence shall be marked as follows in a clearly visible and indelible fashion, in one or more Community languages: “This product must be refined before being used for human consumption”.
+
+**11.** On request, a food business operator responsible for the transport of the raw sugar or the refining process shall provide the enforcement authority with the documentary evidence referred to in paragraphs 9 and 10.
+
+**12.** Raw sugar which has been transported by sea in receptacles, containers or tankers which are not exclusively reserved for the transport of foodstuffs shall be subjected to a full and effective refining process before being considered suitable for use as food or as a food ingredient.
+
+**13.** In fulfilling the obligations under Article 5(1) of Regulation 852/2004 (hazard analysis and critical control points) in relation to the bulk transport of raw sugar by sea under paragraph 7, a food business operator who is responsible for the transport or refining of raw sugar shall —
+
+- (a) consider the cleaning process undertaken prior to the loading of the sugar for transport by sea to be a critical control point as referred to in Article 5(2)(b) of Regulation 852/2004; and
+- (b) take into account the nature of the previous cargo which has been transported in any receptacle, container or tanker used for the transport of the sugar.
+
+### 14. Interpretation
+
+(1) For the purposes of this Schedule any words or expressions used both in this Schedule and in [^key-31ed591d71865679b22587bc6b7a2d42]... Commission Directive [98/28/EC](https://www.legislation.gov.uk/european/directive/1998/0028) granting a derogation from certain provisions of Directive [93/43/EEC](https://www.legislation.gov.uk/european/directive/1993/0043) on the hygiene of foodstuffs as regards the transport by sea of bulk raw sugar shall bear the same meanings as they respectively have in those Directives.
+
+(2)[^key-fa41231ba13db573ae538ab3b7cf1051] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 4 — Temperature control requirements
+
+Regulation 32
+
+### 1. Scope
+
+(1) This Schedule does not apply in relation to —
+
+- (a) any food business operation to which Regulation 853/2004 applies; or
+- (b) any food business operation carried out on a ship or aircraft.
+
+### 2. Chill holding requirements
+
+(1) Subject to sub-paragraph (2) and paragraph 3, any person who keeps any food —
+
+- (a) which is likely to support the growth of pathogenic micro-organisms or the formation of toxins; and
+- (b) with respect to which any commercial operation is being carried out,
+
+at or in food premises at a temperature above 8 °C commits an offence.
+
+(2) Sub-paragraph (1) shall not apply in relation to any food which, as part of a mail order transaction, is being conveyed to the final consumer.
+
+(3) Subject to paragraph 3, no person shall supply by mail order any food which —
+
+- (a) is likely to support the growth of pathogenic micro-organisms or the formation of toxins; and
+- (b) is being or has been conveyed by post or by a private or common carrier to the final consumer,
+
+at a temperature which has given rise to or is likely to give rise to a risk to health.
+
+### 3. General exemptions from the chill holding requirements
+
+Sub-paragraphs (1) and (3) of paragraph 2 shall not apply in relation to —
+
+- (a) food which —
+  - (i) has been cooked or reheated,
+  - (ii) is for service or on display for sale, and
+  - (iii) needs to be kept at or above 63 °C in order to control the growth of pathogenic micro-organisms or the formation of toxins;
+- (b) food which, for the duration of its shelf life may be kept at ambient temperatures with no risk to health;
+- (c) food which is being or has been subjected to a process such as dehydration or canning intended to prevent the growth of pathogenic micro-organisms at ambient temperatures, but not where —
+  - (i) after or by virtue of that process the food was contained in a hermetically sealed container, and
+  - (ii) that container has been opened;
+- (d) food which must be ripened or matured at ambient temperatures, but not when the process of ripening or maturation is completed;
+- (e) raw food intended for further processing (including cooking) before human consumption, but only if that processing, if undertaken correctly, will render that food fit for human consumption;
+- (f) food to which Council Regulation 1906/90 applies; and
+- (g) food to which Council Regulation 1907/90 applied.
+
+### 4. Upward variation of the 8 degrees centigrade temperature by manufacturers etc.
+
+(1) In any proceedings for an offence consisting of a contravention of sub-paragraph (1) of paragraph 2, it shall be a defence for the accused to prove that —
+
+- (a) a food business responsible for manufacturing, preparing or processing the food, including, where relevant, the accused, has recommended that it is kept —
+  - (i) at or below a specified temperature between 8 °C and ambient temperatures, and
+  - (ii) for a period not exceeding a specified shelf life;
+- (b) that recommendation has, unless the accused is that food business, been communicated to the accused either by means of a label on the packaging of the food or by means of some other appropriate form of written instruction;
+- (c) the food was not kept by the accused at a temperature above the specified temperature; and
+- (d) at the time of the commission of the alleged offence, the specified shelf life had not been exceeded.
+
+(2) A food business responsible for manufacturing, preparing or processing food shall not recommend that any food is kept —
+
+- (a) at or below a specified temperature between 8 °C and ambient temperatures; and
+- (b) for a period not exceeding a specified shelf life,
+
+unless that recommendation is supported by a well-founded scientific assessment of the safety of the food at the specified temperature.
+
+### 5. Chill holding tolerance periods
+
+(1) In any proceedings for an offence consisting of a contravention of sub-paragraph (1) of paragraph 2, it shall be a defence for the accused to prove that the food —
+
+- (a) was for service or on display for sale;
+- (b) had not previously been kept for service or on display for sale at a temperature above 8 °C or, where a recommendation has been made pursuant to sub-paragraph (1) of paragraph 4, the recommended temperature; and
+- (c) had been kept for service or on display for sale for a period of less than four hours.
+
+(2) In any proceedings for an offence consisting of a contravention of sub-paragraph (1) of paragraph 2, it shall be a defence for the accused to prove that the food —
+
+- (a) was being transferred —
+  - (i) from premises at which the food was going to be kept at or below 8 °C or in appropriate circumstances the recommended temperature to a vehicle used for the purposes of a food business, or
+  - (ii) to such premises from such a vehicle; or
+- (b) was kept at a temperature above 8 °C or, in appropriate circumstances, the recommended temperature for an unavoidable reason, such as —
+  - (i) to accommodate the practicalities of handling during and after processing or preparation,
+  - (ii) the defrosting of equipment, or
+  - (iii) temporary breakdown of equipment,
+
+and was kept at a temperature above 8 °C or, in appropriate circumstances, the recommended temperature for a limited period only and that period was consistent with food safety.
+
+### 6. Hot holding requirements
+
+Any person who in the course of the activities of a food business keeps at or in food premises at a temperature below 63 °C any food which —
+
+- (a) has been cooked or reheated;
+- (b) is for service or on display for sale; and
+- (c) needs to be kept at or above 63 °C in order to control the growth of pathogenic micro-organisms or the formation of toxins,
+
+commits an offence.
+
+### 7. Hot holding defences
+
+(1) In any proceedings for an offence consisting of a contravention of paragraph 6, it shall be a defence for the accused to prove that —
+
+- (a) a well-founded scientific assessment of the safety of the food at temperatures below 63 °C has concluded that there is no risk to health if, after cooking or re-heating, the food is held for service or on display for sale —
+  - (i) at a holding temperature which is below 63 °C, and
+  - (ii) for a period not exceeding any period of time specified in that scientific assessment; and
+- (b) at the time of the commission of the alleged offence, the food was held in a manner which was justified in the light of that scientific assessment.
+
+(2) In any proceedings for an offence consisting of a contravention of paragraph 6, it shall be a defence for the accused to prove that the food —
+
+- (a) had been kept for service or on display for sale for a period of less than two hours; and
+- (b) had not previously been kept for service or on display for sale by that person.
+
+### 8. Interpretation
+
+In this Schedule —
+
+- “**Council Regulation 1906/90**” means Council Regulation [(EEC) No. 1906/90](https://www.legislation.gov.uk/eur/1990/1906) on certain marketing standards for poultry as last amended by Council Regulation [(EC) No. 1101/98](https://www.legislation.gov.uk/eur/1998/1101) amending Regulation [(EEC) No. 1906/90](https://www.legislation.gov.uk/eur/1990/1906) on certain marketing standards for poultry meat;
+- “**Council Regulation 1907/90**” means Council Regulation [(EEC) No. 1907/90](https://www.legislation.gov.uk/eur/1990/1907) on certain marketing standards for eggs as last amended by Council Regulation [(EC) No. 2052/2003](https://www.legislation.gov.uk/eur/2003/2052) amending Regulation [(EEC) No. 1907/90](https://www.legislation.gov.uk/eur/1990/1907) on certain marketing standards for eggs;
+- “**recommended temperature**” means a specified temperature which has been recommended in accordance with sub-paragraph (1)(a)(i) of paragraph 4; and
+- “**shelf life**” means—
+  - (a) in relation to food for which a date of minimum durability is required in accordance with Article 9(1)(f) of Regulation ([^key-a32e5b9a858efbc96ef9d8b778ca15d6]EU) No 1169/2011 of the European Parliament and of the Council on the provision of food information to consumers, as read with Article 24(1) and (2) of that Regulation, the period up to and including the required date of minimum durability;
+  - (b) in relation to food for which a “use by” date is required in accordance with Article 9(1)(f) of Regulation (EU) No 1169/2011 of the European Parliament and of the Council, as read with Article 24(1) and (2) of that Regulation, the period up to and including the required “use by” date; and
+  - (c) in relation to food which is not required to bear an indication of minimum durability or a “use by” date, the period for which the food can be expected to remain fit for sale if it is kept in a manner which is consistent with food safety.
+
+## SCHEDULE 5 — Direct supply by the producer of small quantities of meat from poultry or lagomorphs slaughtered on the farm
+
+Regulation 33
+
+### 1. Scope
+
+The requirements of this Schedule apply in relation to the direct supply by the producer of small quantities of meat from poultry or lagomorphs that have been slaughtered on the farm to the final consumer or to local retail establishments directly supplying such meat to the final consumer.
+
+### 2. Requirements
+
+(1) Where a producer supplies meat in the manner described in paragraph 1, the producer must ensure that it bears a label or other marking clearly indicating the name and address of the farm where the animal from which it is derived was slaughtered.
+
+(2) The producer must —
+
+- (a) keep a record in adequate form to show the number of birds and the number of lagomorphs received into, and the amounts of fresh meat despatched from, his premises during each week;
+- (b) retain the record for a period of one year; and
+- (c) make the record available to an authorised officer on request.
+
+### 3. Offence
+
+A producer who fails to comply with any requirement of paragraph 2 commits an offence.
+
+## SCHEDULE 6 — Restrictions on the sale of raw milk intended for direct human consumption
+
+Regulation 34
+
+**1.** Any person who sells raw milk intended for direct human consumption in contravention of paragraph 5 commits an offence.
+
+**1A.**[^key-2291ca53fc63932e91147a9e270f17c6] Any person who sells raw milk in contravention of paragraph 7A commits an offence.
+
+**1B.** Any person who sells raw milk in contravention of paragraph 7B commits an offence.
+
+**2.** (1) Any person, other than the occupier of a production holding or a distributor, who sells raw cows' milk intended for direct human consumption commits an offence.
+
+(2) The occupier of a production holding who sells raw cows' milk intended for direct human consumption in contravention of paragraph 3 commits an offence.
+
+(3) A distributor who sells raw cows' milk intended for direct human consumption in contravention of paragraph 4 commits an offence.
+
+**3.** The occupier of a production holding may only sell raw cows' milk intended for direct human consumption —
+
+- (a) at or from the farm premises where the animals from which the milk has been obtained are maintained; and
+- (b) to —
+  - (i) the final consumer for consumption other than at those farm premises,
+  - (ii) a temporary guest or visitor to those farm premises as or as part of a meal or refreshment, or
+  - (iii) a distributor.
+
+**4.** A distributor may only sell raw cows' milk intended for direct human consumption —
+
+- (a) which the distributor has bought pursuant to sub-paragraph (b)(iii) of paragraph 3;
+- (b) in the containers in which the distributor receives the milk, with the fastenings of the containers unbroken;
+- (c) from a vehicle which is lawfully used as a shop premises; and
+- (d) direct to the final consumer.
+
+**5.** The raw milk must meet the following standards:
+
+|  |  |
+| --- | --- |
+| Plate count at 30 °C (cfu per ml) | ≤ 20,000 |
+| Coliforms (cfu per ml) | \< 100 |
+
+**6.** In the case where farm premises are being used for the sale of raw cows' milk intended for direct human consumption pursuant to sub-paragraph (a) of paragraph 3, the Agency shall carry out such sampling, analysis and examination of the milk as it considers necessary to ensure that it meets the standards specified in paragraph 5.
+
+**7.** In any case where the Agency carries out sampling, analysis and examination of raw cows' milk in accordance with paragraph 6, there shall be due to the Agency from the occupier of the production holding who is selling the milk a fee of £63, which is payable by the occupier to the Agency on demand.
+
+**7A.**[^key-6e24a5f837e4be8a22fd80fbbbb023b4] Subject to paragraph 7C, and except in cases to which paragraph 7B applies, the container in which any raw milk intended for direct human consumption is sold must be marked or labelled with the words “This milk has not been heat-treated and may therefore contain organisms harmful to health.
+
+**7B.** Subject to paragraph 7C, in the case of any raw milk intended for direct human consumption which is not prepacked and is sold at a catering establishment there must appear—
+
+- (a) on a label attached to the container in which that milk is sold, or
+- (b) on a ticket or notice that is readily discernible by an intending purchaser at the place where the purchaser chooses that milk,
+
+the words “Milk supplied in this establishment has not been heat-treated and may therefore contain organisms harmful to health”.
+
+**7C.** The provisions of paragraphs 7A and 7B do not apply to raw milk from buffaloes.
+
+**8.** In this Schedule —
+
+- “catering establishment” means a restaurant, canteen, club, public house, school, hospital or similar establishment (including a vehicle or a fixed or mobile stall) where, in the course of a business, food is prepared for delivery to the final consumer and is ready for consumption without further preparation;[^key-915c9c77d4929c682332142de4bccaf6]
+- “**distributor**” means a person who sells raw cows' milk that has been produced on a production holding of which he is not the occupier;
+- “**farm premises**” means a farm occupied by the occupier of a production holding as a single farm and includes the production holding and any other building situated on that farm and occupied by the same occupier;
+- “labelling”, in relation to a food, includes any words, particulars, trade mark, brand name, pictorial matter or symbol relating to the food and appearing on the packaging of the food or on any document, notice, label, ring or collar accompanying the food;[^key-9412174a10019424a4660b1737c6fae8]
+- “**occupier**” means any person carrying on the business of producing or handling raw cows' milk or his duly authorised representative;
+- “prepacked”, in relation to a food, means put into packaging before being offered for sale in such a way that the food, whether wholly or only partly enclosed, cannot be altered without opening or changing the packaging and is ready for sale to the final consumer or to a catering establishment, and includes a food which is wholly enclosed in packaging before being offered for sale and which is intended to be cooked without opening the packaging and which is ready for sale to the final consumer or to a catering establishment;[^key-6c2b34a05ce8c704a4134aa25d81e9c0]
+- “**production holding**” means premises at which milk-producing cows are kept; and
+- “**shop premises**” means premises from which any food is sold to the final consumer.
+
+## SCHEDULE 7 — Derogations relating to low throughput establishments
+
+Regulation 19
+
+### PART 1 — Requirements referred to in regulation 19(5)
+
+**1.** The requirements are that —
+
+- (a) on 31st December 2005 the slaughterhouse was licensed as a low throughput slaughterhouse under the Fresh Meat (Hygiene and Inspection) Regulations 1995 [^c21954841];
+- (b) the condition of meat derived from domestic ungulates slaughtered at the slaughterhouse is only rarely such that it is necessary to detain such meat after post-mortem inspection for further inspection by the official veterinarian;
+- (c) where such further inspection is considered necessary by the official veterinarian, the meat concerned is destroyed or is detained at an alternative detention facility in the locality of the slaughterhouse;
+- (d) when meat is transported from the slaughterhouse to the alternative detention facility referred to in paragraph (c), it shall be marked ‘detained meat’ and accompanied by a document that has been signed by the official veterinarian, declares that the meat is detained meat and contains the following information—
+  - (i) name and address of slaughterhouse of origin;
+  - (ii) name and address of alternative detention facility;
+  - (iii) number of carcases or cuts; and
+  - (iv) species of animal; and
+- (e) no processing for human consumption of bovine animals that, in accordance with point 2 of Part I of Chapter A of Annex III to the EU TSE Regulation, require BSE testing at slaughter or of swine (domestic and farmed game), solipeds and other species susceptible to Trichinosis that, under Article 18(2) of Regulation 2017/625 as read with Article 31 of Regulation 2019/627, require that examination for Trichinella takes place in accordance with Article 2 of Regulation 2015/1375[^key-51c075685ca8fb681a2194efb3185dcb].
+
+**2.** For the purposes of this Part the “**EU TSE Regulation**” means Regulation [(EC) No. 999/2001](https://www.legislation.gov.uk/european/regulation/2001/0999) of the European Parliament and of the Council laying down rules for the prevention, control and eradication of certain transmissible spongiform encephalopathies [^c21954851], as read with —
+
+- (a) Commission Decision [2007/411/EC](https://www.legislation.gov.uk/european/decision/2007/0411) prohibiting the placing on the market of products derived from bovine animals born or reared within the United Kingdom before 1 August 1996 for any purpose and exempting such animals from certain control and eradication measures laid down in Regulation [(EC) No. 999/2001](https://www.legislation.gov.uk/european/regulation/2001/0999) and repealing Decision [2005/598/EC](https://www.legislation.gov.uk/european/decision/2005/0598) [^c21954861],
+- (b) Commission Decision [2007/453/EC](https://www.legislation.gov.uk/european/decision/2007/0453) establishing the BSE status of Member States or third countries or regions thereof according to their BSE risk [^c21954871], and
+- (c) Commission Decision [2009/719/EC](https://www.legislation.gov.uk/european/decision/2009/0719) authorising certain Member States to revise their annual BSE monitoring programmes [^c21954881].
+
+### PART 2 — Requirements referred to in regulation 19(6)
+
+**1.** The requirements are that —
+
+- (a) on 31st December 2005 the slaughterhouse was licensed as a low throughput slaughterhouse under the Poultry Meat, Farmed Game Bird Meat and Rabbit Meat (Hygiene and Inspection) Regulations 1995 [^c21954891];
+- (b) the condition of meat derived from poultry or lagomorphs slaughtered at the slaughterhouse is only rarely such that it is necessary to detain such meat after post-mortem inspection for further inspection by the official veterinarian;
+- (c) where such further inspection is considered necessary by the official veterinarian, the meat concerned is destroyed or is detained at an alternative detention facility in the locality of the slaughterhouse; and
+- (d) when meat is transported from the slaughterhouse to the alternative detention facility referred to in paragraph (c), it shall be marked ‘detained meat’ and accompanied by a document that has been signed by the official veterinarian, declares that the meat is detained meat and contains the following information —
+  - (i) name and address of slaughterhouse of origin;
+  - (ii) name and address of alternative detention facility;
+  - (iii) number of carcases or cuts; and
+  - (iv) species of animal.
+
+### PART 3 — Requirements referred to in regulation 19(7)
+
+**1.** The requirements are that —
+
+- (a) on 31st December 2005 the slaughterhouse was licensed as a low throughput slaughterhouse under the Fresh Meat (Hygiene and Inspection) Regulations 1995;
+- (b) the food business operator at the slaughterhouse only accepts domestic ungulates that have been transported direct from the holding of origin or from a market;
+- (c) the food business operator responsible for transporting the domestic ungulates undertakes in writing to the food business operator at the slaughterhouse that he will ensure that the means of transport are cleaned and, if necessary, disinfected after emptying;
+- (d) the food business operator at the slaughterhouse retains the undertaking referred to in paragraph (c) for one year; and
+- (e) the food business operator at the slaughterhouse acknowledges to the official veterinarian that he may be required under animal health rules to cease operating at the slaughterhouse in the event of an animal disease outbreak.
+
+### PART 4 — Requirements referred to in regulation 19(8)
+
+**1.** The requirements are that —
+
+- (a) on 31st December 2005 the slaughterhouse was licensed as a low throughput slaughterhouse under the Poultry Meat, Farmed Game Bird Meat and Rabbit Meat (Hygiene and Inspection) Regulations 1995;
+- (b) the food business operator at the holding of origin of the poultry or lagomorphs transports them from that holding direct to the slaughterhouse and undertakes in writing to the food business operator at the slaughterhouse that he will ensure that the means of transport are cleaned and, if necessary, disinfected after emptying;
+- (c) the food business operator at the slaughterhouse retains the undertaking referred to in paragraph (b) for one year; and
+- (d) the food business operator at the slaughterhouse acknowledges to the official veterinarian that he may be required under animal health rules to cease operating at the slaughterhouse in the event of an animal disease outbreak.
+
+## SCHEDULE 8 — The Special Health Mark[^key-d13c94bdfc34029cb4bb2b21c32097a3]
+
+**No longer in force.**
+
+Regulation 35
+
+**1.**[^key-d13c94bdfc34029cb4bb2b21c32097a3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**2.**[^key-d13c94bdfc34029cb4bb2b21c32097a3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 9 — Revocations
+
+Regulation 40
+
+| *Instrument* | *Provisions* |
+| --- | --- |
+| The Food (Cheese) (Emergency Control) Order 1998 (S.I. 1998/1277) | The whole Order |
+| The Food (Cheese) (Emergency Control) (Amendment) Order 1998 (S.I. 1998/1284) | The whole Order |
+| The Food (Cheese) (Emergency Control) (Amendment) Order 1998 (S.I. 1998/1673) | The whole Order |
+| The General Food Regulations 2004 (S.I.2004/3279) | Regulations 3, 4, 5, 6, 6A and 7 |
+| The Food Hygiene (England) Regulations 2006 (S.I. 2006/14) | The whole Regulations |
+| The Food Hygiene (England) (Amendment) Regulations 2010 (S.I. 2010/534) | The whole Regulations |
+| The Food Hygiene (England) (Amendment) Regulations 2012 (S.I. 2012/1742) | The whole Regulations |
+
+*(This note is not part of the Regulations)*
+
+**1.** These Regulations revoke and re-enact with some minor changes the Food Hygiene (England) Regulations 2006 (S.I. 2006/14) and certain provisions of the General Food Regulations 2004 (S.I. 2004/3279) as they apply in relation to England.
+
+**2.** These Regulations provide for the execution and enforcement in England of Regulation [(EC) No. 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety (OJ No L31, 1.2.2002, p.1), as read with Commission Implementing Regulation (EU) No 931/2011 on the traceability requirements set by Regulation [(EC) No 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council for food of animal origin (OJ No. L242, 20.9.2011, p.2), and with Commission Implementing Regulation (EU) No 208/2013 on traceability requirements for sprouts and seeds intended for the production of sprouts (OJ No. L68, 12.3.2013, p.16), (“Regulation 178/2002”).
+
+**3.** These Regulations also provide for the execution and enforcement of a number of EU instruments defined (*in regulation 2(1) as read with Schedule 1*) as “the EU Hygiene Regulations”. These are —
+
+- (a) Regulation [(EC) No. 852/2004](https://www.legislation.gov.uk/european/regulation/2004/0852) of the European Parliament and of the Council on the hygiene of foodstuffs (OJ No. L139, 30.4.2004, p.1), as read with Regulation 2073/2005 and with Commission Regulation (EU) No 210/2013 on the approval of establishments producing sprouts pursuant to Regulation [(EC) No 852/2004](https://www.legislation.gov.uk/european/regulation/2004/0852) of the European Parliament and of the Council;
+- (b) Regulation [(EC) No. 853/2004](https://www.legislation.gov.uk/european/regulation/2004/0853) of the European Parliament and of the Council laying down specific hygiene rules for food of animal origin (OJ No. L139, 30.4.2004, p.55), as read with Directive 2004/41, Regulation 1688/2005, Regulation 2074/2005, Regulation 1020/2008 and Regulation 1079/2013;
+- (c) Regulation [(EC) No. 854/2004](https://www.legislation.gov.uk/european/regulation/2004/0854) of the European Parliament and of the Council laying down specific rules for the organisation of official controls on products of animal origin intended for human consumption (OJ No. L139, 30.4.2004, p.206), as read with Directive 2004/41, Regulation 2074/2005, Regulation 2075/2005, Decision 2006/766, Regulation 1021/2008 and Regulation 1079/2013;
+- (d) Commission Regulation [(EC) No. 2073/2005](https://www.legislation.gov.uk/european/regulation/2005/2073) on microbiological criteria for foodstuffs (OJ No. L338, 22.12.2005, p.1); and
+- (e) Commission Regulation [(EC) No. 2075/2005](https://www.legislation.gov.uk/european/regulation/2005/2075) laying down specific rules on official controls for *Trichinella* in meat (OJ No. L338, 22.12.2005, p.60).
+
+**4.** These Regulations —
+
+- (a) create certain presumptions that, for the purposes of these Regulations, specified food is intended for human consumption *(regulation 3*);
+- (b) provide that the Food Standards Agency is the competent authority for the purposes of the EU Hygiene Regulations except where it has delegated competence as provided for in those Regulations, and that for the purposes of certain specified provisions of Regulation 178/2002 is the Food standards Agency and each food authority in its area or district (*regulation 4*);
+- (c) make provision for the execution of these Regulations, the EU Hygiene Regulations and Regulation 178/2002 (*regulation 5*);
+- (d) provide for the following enforcement measures to be available in respect of a food business operator —
+  - (i) hygiene improvement notices (*regulation 6*);
+  - (ii) hygiene prohibition orders (*regulation 7*);
+  - (iii) hygiene emergency prohibition notices and orders (*regulation 8*);
+  - (iv) remedial action notices (*regulation 9*), and
+  - (v) detention notices (*regulation 10*);
+- (e) provide that where the commission of an offence under these Regulations is due to the act or default of another person, that other person commits the offence (*regulation 11*);
+- (f) provide that in any proceedings for an offence under these Regulations it is a defence for the accused to prove that they took all reasonable precautions and exercised all due diligence to avoid the commission of the offence (*regulation 12*);
+- (g) provide for defences in relation to food that is non-compliant with food law but is destined for export (*regulation 13*);
+- (h) provide for the procurement and analysis of samples (*regulations 14 and 15*);
+- (i) provide powers of entry for authorised officers of a food authority or the Food Standards Agency (*regulation 16*);
+- (j) create the offence of obstructing an officer (*regulation 17*);
+- (k) provide a time limit for bringing prosecutions (*regulation 18*);
+- (l) provide that anyone who contravenes or fails to comply with specified EU provisions commits an offence (*regulation 19(1) and Schedule 2*);
+- (m) provide penalties for offences (*regulation 19(2) and (3)*);
+- (n) provide that in relation to certain potential contraventions, no offence is committed provided certain conditions are met (*regulation 19(4) to (8) and Schedules 3 and 7*);
+- (o) provide that where an offence is committed by a corporate body or a Scottish partnership, officers of that body or partners of that partnership may be deemed to have also committed the offence (*regulations 20 and 21*);
+- (p) provide a right of appeal against a decision of an officer of an enforcement authority —
+  - (i) to serve a hygiene improvement notice or a remedial action notice, or
+  - (ii) to refuse to issue a certificate to the effect that the health risk condition no longer exists in relation to the food business concerned (*regulation 22*);
+- (q) provide for the application, for the purposes of section 9 of the Food Safety Act 1990, but with a specified modification (*regulation 25*);
+- (r) provide that the Secretary of State may issue codes of recommended practice to food authorities (*regulation 26*);
+- (s) provide for the protection of officers acting in good faith (*regulation 27*);
+- (t) provide for the revocation or suspension of the appointment or designation of specified officials (*regulation 28*);
+- (u) provide that when an authorised officer of an enforcement authority has certified that any food has not been produced, processed or distributed in accordance with these Regulations and the EU Hygiene Regulations, it is to be treated for the purposes of section 9 of the Food Safety Act 1990 as failing to comply with food safety requirements (*regulation 29*); and
+- (v) make provision for the service of documents (*regulation 30*).
+
+**5.** These Regulations, (*at regulations 31 to 35*) provide that the requirements in the following Schedules have effect —
+
+- (a) Schedule 3 (bulk transport in sea-going vessels of liquid oils or fats and the bulk transport by sea of raw sugar);
+- (b) Schedule 4 (temperature control requirements);
+- (c) Schedule 5 (the direct supply by the producer of small quantities of meat from poultry or lagomorphs slaughtered on the farm);
+- (d) Schedule 6 (restrictions on the sale of raw milk intended for direct human consumption); and
+- (e) Schedule 8 (the special health mark to be applied in the case of animals that have undergone emergency slaughter).
+
+**6.** These Regulations also —
+
+- (a) make a consequential amendment (which extends to Great Britain but applies in England only) to the Food Safety Act 1990 (*regulation 36*);
+- (b) amend the Official Feed and Food Controls (England) Regulations 2009 (S.I. 2009/3255) in order to enforce new EU requirements relating to sprouting seeds (*regulation 37*);
+- (c) make consequential amendments to the Animal By-Products (Enforcement) (England) Regulations 2013 and the Trade in Animals and Related Products Regulations 2011 (*regulations 38 and 39*);
+- (d) revoke specified legislation (*regulation 40 and Schedule 9*); and
+- (e) provide that the Food Standards Agency must carry out a periodic review of the operation and effect of these Regulations (*regulation 41*).
+
+**7.** A full impact assessment of the effect that this instrument will have on the costs of business and the voluntary sector is available from the Food Safety Group of the Food Standards Agency, Aviation House, 125 Kingsway, London WC2B 6NH and is annexed to the Explanatory Memorandum which is available at www.legislation.gov.uk.
+
+## Annotations
+
+[^c21954431]: Marginal citation: [1972 c.68](https://www.legislation.gov.uk/ukpga/1972/68). Paragraph 1A of Schedule 2 was inserted by section 28 of the [Legislative and Regulatory Reform Act 2006 (2006 c.51)](https://www.legislation.gov.uk/ukpga/2006/51) and has been amended by section 3(3) of and the Schedule to the [European Union (Amendment) Act 2008 (2008 c.7)](https://www.legislation.gov.uk/ukpga/2008/7).
+
+[^c21954441]: Marginal citation: [S.I. 2003/2901](https://www.legislation.gov.uk/uksi/2003/2901).
+
+[^c21954451]: Marginal citation: [S.I. 1999/2027](https://www.legislation.gov.uk/uksi/1999/2027).
+
+[^c21954461]: Marginal citation: OJ No. L31, 1.2.2002, p.1, as last amended by Regulation (EC) No. 596/2009 of the European Parliament and of the Council adapting a number of instruments subject to the procedure referred to in Article 251 of the Treaty to Council Decision 1999/468/EC with regard to the regulatory procedure with scrutiny: Adaptation to the regulatory procedure with scrutiny- Part Four (OJ No. L188, 18.7.2009, p.14).
+
+[^c21954471]: Marginal citation: [1990 c.16](https://www.legislation.gov.uk/ukpga/1990/16).
+
+[^key-92b1aaa96d5a4cb670da525a7174cf05]: Textual amendment: Words in reg. 2(1) substituted (14.12.2019) by [The Official Feed and Food Controls (England) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1476)](https://www.legislation.gov.uk/uksi/2019/1476), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1476/regulation/1), [34(a)(i)](https://www.legislation.gov.uk/uksi/2019/1476/regulation/34/a/i)
+
+[^key-60f62b2a249d91c7c9f7591e10593180]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2013/2996/regulation/2/1) omitted (25.12.2020) by virtue of [The Food and Feed Hygiene and Safety (Miscellaneous Amendments) (England) Regulations 2020 (S.I. 2020/1410)](https://www.legislation.gov.uk/uksi/2020/1410), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1410/regulation/1/2), [5(2)(a)(i)](https://www.legislation.gov.uk/uksi/2020/1410/regulation/5/2/a/i)
+
+[^key-613f38b1362ef5f257bcb81330d2a39b]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2013/2996/regulation/2/1) substituted (25.12.2020) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments) (England) Regulations 2020 (S.I. 2020/1410)](https://www.legislation.gov.uk/uksi/2020/1410), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1410/regulation/1/2), [5(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1410/regulation/5/2/a/ii)
+
+[^key-84aabd1097303a5a607a6e8d3c807129]: Textual amendment: [Reg. 2(1A)](https://www.legislation.gov.uk/uksi/2013/2996/regulation/2/1A) inserted (25.12.2020) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments) (England) Regulations 2020 (S.I. 2020/1410)](https://www.legislation.gov.uk/uksi/2020/1410), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1410/regulation/1/2), [5(2)(b)](https://www.legislation.gov.uk/uksi/2020/1410/regulation/5/2/b)
+
+[^c21954481]: Marginal citation: [1984 c.22](https://www.legislation.gov.uk/ukpga/1984/22); section 7(3)(d) was substituted by paragraph 27 of Schedule 3 to the Food Safety Act 1990.
+
+[^c21954491]: Marginal citation: [1936 c.49](https://www.legislation.gov.uk/ukpga/1936/49); section 36 is to be read with paragraph 1 of Schedule 3 to the Food Safety Act 1990.
+
+[^c21954501]: Marginal citation: [1985 c.51](https://www.legislation.gov.uk/ukpga/1985/51); paragraph 15(6) was amended by paragraph 31(b) of Schedule 3 to the Food Safety Act 1990.
+
+[^c21954511]: Marginal citation: [1971 c.80](https://www.legislation.gov.uk/ukpga/1971/80).
+
+[^key-9b646497051a98e507cf0aa08c004e15]: Textual amendment: Words in reg. 2(6) omitted (14.12.2019) by virtue of [The Official Feed and Food Controls (England) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1476)](https://www.legislation.gov.uk/uksi/2019/1476), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1476/regulation/1), [34(b)](https://www.legislation.gov.uk/uksi/2019/1476/regulation/34/b)
+
+[^key-d2c1adcbef1d88e43099fe7cf65e8404]: Textual amendment: Words in reg. 5(9) substituted (14.12.2019) by [The Official Feed and Food Controls (England) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1476)](https://www.legislation.gov.uk/uksi/2019/1476), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1476/regulation/1), [35(a)](https://www.legislation.gov.uk/uksi/2019/1476/regulation/35/a)
+
+[^c21954521]: Marginal citation: [S.I. 1995/539](https://www.legislation.gov.uk/uksi/1995/539), revoked by [S.I. 2005/2059](https://www.legislation.gov.uk/uksi/2005/2059).
+
+[^c21954531]: Marginal citation: [S.I. 1995/540](https://www.legislation.gov.uk/uksi/1995/540), revoked by [S.I. 2005/2059](https://www.legislation.gov.uk/uksi/2005/2059)
+
+[^key-9072acebc7767e73b455d1be3ffc0e3f]: Textual amendment: Words in reg. 5(9) substituted (14.12.2019) by [The Official Feed and Food Controls (England) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1476)](https://www.legislation.gov.uk/uksi/2019/1476), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1476/regulation/1), [35(b)](https://www.legislation.gov.uk/uksi/2019/1476/regulation/35/b)
+
+[^c21954541]: Marginal citation: [S.I. 1995/2148](https://www.legislation.gov.uk/uksi/1995/2148), revoked by [S.I. 2005/2059](https://www.legislation.gov.uk/uksi/2005/2059)
+
+[^key-bc18b55598de0601e3f23e9bb209be8f]: Textual amendment: Words in reg. 5(9) substituted (14.12.2019) by [The Official Feed and Food Controls (England) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1476)](https://www.legislation.gov.uk/uksi/2019/1476), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1476/regulation/1), [35(c)](https://www.legislation.gov.uk/uksi/2019/1476/regulation/35/c)
+
+[^c21954551]: Marginal citation: [S.I. 2013/264](https://www.legislation.gov.uk/uksi/2013/264).
+
+[^c21954561]: Marginal citation: [1981 c.22](https://www.legislation.gov.uk/ukpga/1981/22).
+
+[^key-d6fc91d2e9575f57b499981cd607c073]: Textual amendment: Word in reg. 19(1) substituted (31.12.2020) by [The General Food Law (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/641)](https://www.legislation.gov.uk/uksi/2019/641), [regs. 1](https://www.legislation.gov.uk/uksi/2019/641/regulation/1), [3A(a)](https://www.legislation.gov.uk/uksi/2019/641/regulation/3A/a) (as inserted by [S.I. 2020/1504](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [10(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/10/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-838ecf44d630e38b3eeed95b186dab2e]: Textual amendment: Words in [reg. 19(2)](https://www.legislation.gov.uk/uksi/2013/2996/regulation/19/2) substituted (13.12.2014) by [The Food Safety and Hygiene (England) (Amendment) Regulations 2014 (S.I. 2014/2885)](https://www.legislation.gov.uk/uksi/2014/2885), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2885/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2014/2885/regulation/2/2/a)
+
+[^key-039cb959a0e795d4687919f4c505c040]: Textual amendment: [Reg. 19(3A)](https://www.legislation.gov.uk/uksi/2013/2996/regulation/19/3A) inserted (13.12.2014) by [The Food Safety and Hygiene (England) (Amendment) Regulations 2014 (S.I. 2014/2885)](https://www.legislation.gov.uk/uksi/2014/2885), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2885/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2014/2885/regulation/2/2/b)
+
+[^key-f53be6f07423fa8eb078b3dd3f8d906a]: Textual amendment: Reg. 19(9) inserted (31.12.2020) by [The General Food Law (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/641)](https://www.legislation.gov.uk/uksi/2019/641), [regs. 1](https://www.legislation.gov.uk/uksi/2019/641/regulation/1), [3A(b)](https://www.legislation.gov.uk/uksi/2019/641/regulation/3A/b) (as inserted by [S.I. 2020/1504](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [10(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/10/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-878b04d5a70e03dd0f074cb4119a9acf]: Textual amendment: Words in [reg. 19(9)(b)(ii)](https://www.legislation.gov.uk/uksi/2013/2996/regulation/19/9/b/ii) substituted (30.9.2022) by [The Food Information (Amendment of Transitional Provisions) (England) Regulations 2022 (S.I. 2022/938)](https://www.legislation.gov.uk/uksi/2022/938), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/938/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2022/938/regulation/6)
+
+[^key-870eb3438db9492b60f91723cc3311a0]: Textual amendment: [Reg. 35](https://www.legislation.gov.uk/uksi/2013/2996/regulation/35) revoked (11.11.2014) by [The Official Feed and Food Controls (England) and the Food Safety and Hygiene (England) (Amendment) Regulations 2014 (S.I. 2014/2748)](https://www.legislation.gov.uk/uksi/2014/2748), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2748/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2014/2748/regulation/3/3)
+
+[^c21954571]: Marginal citation: [Section 9(5)(a)](https://www.legislation.gov.uk/uksi/2013/2996/section/9/5/a) was amended by [S.I. 2004/3279](https://www.legislation.gov.uk/uksi/2004/3279).
+
+[^c21954581]: Marginal citation: [S.I. 2009/3255](https://www.legislation.gov.uk/uksi/2009/3255), amended by [S.I. 2013/264](https://www.legislation.gov.uk/uksi/2013/264).
+
+[^c21954591]: Marginal citation: Council Directive 97/78/EC laying down the principles governing the organisation of veterinary checks on products entering the Community from third countries (OJ No. L24, 30.1.1998, p.9).
+
+[^c21954601]: Marginal citation: OJ No. L68, 12.3.2012, p.26.
+
+[^c21954611]: Marginal citation: [S.I. 2013/2952](https://www.legislation.gov.uk/uksi/2013/2952).
+
+[^key-b37e096e09b8d2df0663a3119dccdd17]: Textual amendment: Words in [reg. 38(a)](https://www.legislation.gov.uk/uksi/2013/2996/regulation/38/a) substituted (15.10.2016) by [The Food Safety and Hygiene (England) (Amendment) Regulations 2016 (S.I. 2016/868)](https://www.legislation.gov.uk/uksi/2016/868), [regs. 1](https://www.legislation.gov.uk/uksi/2016/868/regulation/1), [2(5)(a)](https://www.legislation.gov.uk/uksi/2016/868/regulation/2/5/a)
+
+[^key-50472b1ddc8d871a652a420a5661b0f8]: Textual amendment: Words in [reg. 38(b)](https://www.legislation.gov.uk/uksi/2013/2996/regulation/38/b) substituted (15.10.2016) by [The Food Safety and Hygiene (England) (Amendment) Regulations 2016 (S.I. 2016/868)](https://www.legislation.gov.uk/uksi/2016/868), [regs. 1](https://www.legislation.gov.uk/uksi/2016/868/regulation/1), [2(5)(b)](https://www.legislation.gov.uk/uksi/2016/868/regulation/2/5/b)
+
+[^c21954621]: Marginal citation: [S.I. 2011/1197](https://www.legislation.gov.uk/uksi/2011/1197).
+
+[^key-f3afa2261155a5fb5592cb9a7db00dfc]: Textual amendment: Word in [reg. 41(2)](https://www.legislation.gov.uk/uksi/2013/2996/regulation/41/2) substituted (13.12.2014) by [The Food Safety and Hygiene (England) (Amendment) Regulations 2014 (S.I. 2014/2885)](https://www.legislation.gov.uk/uksi/2014/2885), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2885/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2014/2885/regulation/2/3/a)
+
+[^key-e25d626ee3f3da428791fe08d1c17ce7]: Textual amendment: Word in [reg. 41(2)](https://www.legislation.gov.uk/uksi/2013/2996/regulation/41/2) substituted (13.12.2014) by [The Food Safety and Hygiene (England) (Amendment) Regulations 2014 (S.I. 2014/2885)](https://www.legislation.gov.uk/uksi/2014/2885), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2885/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2014/2885/regulation/2/3/b)
+
+[^key-847be84e9b641e6a3622c8be53f95ccf]: Textual amendment: Sch. 1 substituted (25.12.2020) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments) (England) Regulations 2020 (S.I. 2020/1410)](https://www.legislation.gov.uk/uksi/2020/1410), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1410/regulation/1/2), [Sch. 5](https://www.legislation.gov.uk/uksi/2020/1410/schedule/5)
+
+[^key-aa73a71c8c6c1afa301e2ae6f517ee66]: Textual amendment: Sch. 2 substituted (31.12.2020) by [The General Food Law (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/641)](https://www.legislation.gov.uk/uksi/2019/641), [reg. 1](https://www.legislation.gov.uk/uksi/2019/641/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2019/641/schedule) (as amended by [S.I. 2020/1504](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [10(15)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/10/15)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-9f4beda4e83de1326b48298377a0493b]: Textual amendment: Word in [Sch. 2](https://www.legislation.gov.uk/uksi/2013/2996/schedule/2) table substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 11 para. 3](https://www.legislation.gov.uk/uksi/2025/82/schedule/11/paragraph/3)
+
+[^key-930995639a73d79aa9fbf6857c8374e8]: Textual amendment: [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2013/2996/schedule/3/paragraph/2) omitted (11.11.2014) by virtue of [The Official Feed and Food Controls (England) and the Food Safety and Hygiene (England) (Amendment) Regulations 2014 (S.I. 2014/2748)](https://www.legislation.gov.uk/uksi/2014/2748), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2748/regulation/1), [3(6)(a)](https://www.legislation.gov.uk/uksi/2014/2748/regulation/3/6/a)
+
+[^key-71df4cafd92677662647382a48c396e6]: Textual amendment: [Sch. 3 para. 3](https://www.legislation.gov.uk/uksi/2013/2996/schedule/3/paragraph/3) omitted (11.11.2014) by virtue of [The Official Feed and Food Controls (England) and the Food Safety and Hygiene (England) (Amendment) Regulations 2014 (S.I. 2014/2748)](https://www.legislation.gov.uk/uksi/2014/2748), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2748/regulation/1), [3(6)(a)](https://www.legislation.gov.uk/uksi/2014/2748/regulation/3/6/a)
+
+[^key-af0e970115ea08ce7ecea534dea3c7a4]: Textual amendment: [Sch. 3 para. 4](https://www.legislation.gov.uk/uksi/2013/2996/schedule/3/paragraph/4) omitted (11.11.2014) by virtue of [The Official Feed and Food Controls (England) and the Food Safety and Hygiene (England) (Amendment) Regulations 2014 (S.I. 2014/2748)](https://www.legislation.gov.uk/uksi/2014/2748), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2748/regulation/1), [3(6)(a)](https://www.legislation.gov.uk/uksi/2014/2748/regulation/3/6/a)
+
+[^key-4e307668e0f90e8d7f291d14d0ea2164]: Textual amendment: [Sch. 3 para. 5](https://www.legislation.gov.uk/uksi/2013/2996/schedule/3/paragraph/5) omitted (11.11.2014) by virtue of [The Official Feed and Food Controls (England) and the Food Safety and Hygiene (England) (Amendment) Regulations 2014 (S.I. 2014/2748)](https://www.legislation.gov.uk/uksi/2014/2748), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2748/regulation/1), [3(6)(a)](https://www.legislation.gov.uk/uksi/2014/2748/regulation/3/6/a)
+
+[^key-6718d66582ab6b330ff4b0ccb587df5a]: Textual amendment: [Sch. 3 para. 6](https://www.legislation.gov.uk/uksi/2013/2996/schedule/3/paragraph/6) omitted (11.11.2014) by virtue of [The Official Feed and Food Controls (England) and the Food Safety and Hygiene (England) (Amendment) Regulations 2014 (S.I. 2014/2748)](https://www.legislation.gov.uk/uksi/2014/2748), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2748/regulation/1), [3(6)(a)](https://www.legislation.gov.uk/uksi/2014/2748/regulation/3/6/a)
+
+[^key-31ed591d71865679b22587bc6b7a2d42]: Textual amendment: Words in [Sch. 3 para. 14(1)](https://www.legislation.gov.uk/uksi/2013/2996/schedule/3/paragraph/14/1) omitted (11.11.2014) by virtue of [The Official Feed and Food Controls (England) and the Food Safety and Hygiene (England) (Amendment) Regulations 2014 (S.I. 2014/2748)](https://www.legislation.gov.uk/uksi/2014/2748), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2748/regulation/1), [3(6)(b)](https://www.legislation.gov.uk/uksi/2014/2748/regulation/3/6/b)
+
+[^key-fa41231ba13db573ae538ab3b7cf1051]: Textual amendment: [Sch. 3 para. 14(2)](https://www.legislation.gov.uk/uksi/2013/2996/schedule/3/paragraph/14/2) omitted (11.11.2014) by virtue of [The Official Feed and Food Controls (England) and the Food Safety and Hygiene (England) (Amendment) Regulations 2014 (S.I. 2014/2748)](https://www.legislation.gov.uk/uksi/2014/2748), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2748/regulation/1), [3(6)(c)](https://www.legislation.gov.uk/uksi/2014/2748/regulation/3/6/c)
+
+[^key-a32e5b9a858efbc96ef9d8b778ca15d6]: Textual amendment: Words in Sch. 4 para. 8 substituted (13.12.2014) by [The Food Information Regulations 2014 (S.I. 2014/1855)](https://www.legislation.gov.uk/uksi/2014/1855), [Sch. 7 para. 59](https://www.legislation.gov.uk/uksi/2014/1855/schedule/7/paragraph/59)
+
+[^key-2291ca53fc63932e91147a9e270f17c6]: Textual amendment: Sch. 6 paras. 1A, 1B inserted (13.12.2014) by [The Food Safety and Hygiene (England) (Amendment) Regulations 2014 (S.I. 2014/2885)](https://www.legislation.gov.uk/uksi/2014/2885), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2885/regulation/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/2014/2885/regulation/2/4/a)
+
+[^key-6e24a5f837e4be8a22fd80fbbbb023b4]: Textual amendment: Sch. 6 paras. 7A-7C inserted (13.12.2014) by [The Food Safety and Hygiene (England) (Amendment) Regulations 2014 (S.I. 2014/2885)](https://www.legislation.gov.uk/uksi/2014/2885), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2885/regulation/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/2014/2885/regulation/2/4/b)
+
+[^key-915c9c77d4929c682332142de4bccaf6]: Textual amendment: Words in Sch. 6 para. 8 inserted (13.12.2014) by [The Food Safety and Hygiene (England) (Amendment) Regulations 2014 (S.I. 2014/2885)](https://www.legislation.gov.uk/uksi/2014/2885), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2885/regulation/1), [2(4)(c)(i)](https://www.legislation.gov.uk/uksi/2014/2885/regulation/2/4/c/i)
+
+[^key-9412174a10019424a4660b1737c6fae8]: Textual amendment: Words in Sch. 6 para. 8 inserted (13.12.2014) by [The Food Safety and Hygiene (England) (Amendment) Regulations 2014 (S.I. 2014/2885)](https://www.legislation.gov.uk/uksi/2014/2885), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2885/regulation/1), [2(4)(c)(ii)](https://www.legislation.gov.uk/uksi/2014/2885/regulation/2/4/c/ii)
+
+[^key-6c2b34a05ce8c704a4134aa25d81e9c0]: Textual amendment: Words in Sch. 6 para. 8 inserted (13.12.2014) by [The Food Safety and Hygiene (England) (Amendment) Regulations 2014 (S.I. 2014/2885)](https://www.legislation.gov.uk/uksi/2014/2885), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2885/regulation/1), [2(4)(c)(iii)](https://www.legislation.gov.uk/uksi/2014/2885/regulation/2/4/c/iii)
+
+[^c21954841]: Marginal citation: [S.I. 1995/539](https://www.legislation.gov.uk/uksi/1995/539), revoked by [S.I. 2005/2059](https://www.legislation.gov.uk/uksi/2005/2059).
+
+[^key-51c075685ca8fb681a2194efb3185dcb]: Textual amendment: Words in Sch. 7 para. 1(e) substituted (14.12.2019) by [The Official Feed and Food Controls (England) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1476)](https://www.legislation.gov.uk/uksi/2019/1476), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1476/regulation/1), [37](https://www.legislation.gov.uk/uksi/2019/1476/regulation/37)
+
+[^c21954851]: Marginal citation: OJ No. L147, 31.5.2001, p.1. This instrument was last amended by Commission Regulation (EU) No. 630/2013 (OJ No. L179, 29.6.2013, p.60).
+
+[^c21954861]: Marginal citation: OJ No. L155, 15.6.2007, p.74.
+
+[^c21954871]: Marginal citation: OJ No. L 172, 30.6.2007, p. 84. This instrument was last amended by Commission Implementing Decision 2012/489/EU (OJ No. L231, 28.8.2012, p.13).
+
+[^c21954881]: Marginal citation: OJ L 256, 29.9.2009, p. 35. This instrument was last amended by Commission Implementing Decision 2013/76/EU (OJ No. L35, 6.2.2013, p.6).
+
+[^c21954891]: Marginal citation: [S.I. 1995/540](https://www.legislation.gov.uk/uksi/1995/540), revoked by [S.I. 2005/2059](https://www.legislation.gov.uk/uksi/2005/2059).
+
+[^key-d13c94bdfc34029cb4bb2b21c32097a3]: Textual amendment: [Sch. 8](https://www.legislation.gov.uk/uksi/2013/2996/schedule/8) revoked (11.11.2014) by [The Official Feed and Food Controls (England) and the Food Safety and Hygiene (England) (Amendment) Regulations 2014 (S.I. 2014/2748)](https://www.legislation.gov.uk/uksi/2014/2748), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2748/regulation/1), [3(7)](https://www.legislation.gov.uk/uksi/2014/2748/regulation/3/7)

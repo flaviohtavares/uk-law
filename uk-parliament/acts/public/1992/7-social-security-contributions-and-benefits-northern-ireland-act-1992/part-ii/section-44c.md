@@ -1,0 +1,57 @@
+---
+title: Social Security Contributions and Benefits (Northern Ireland) Act 1992, section 44C
+act: Social Security Contributions and Benefits (Northern Ireland) Act 1992
+section: 44C
+status: revised-with-pending-changes
+text_date: '2026-07-09'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/ukpga/1992/7/section/44C
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Social Security Contributions and Benefits (Northern Ireland) Act 1992, section 44C
+
+> **Warning: changes not yet applied to this text (205).** Text as at 2026-07-09. See https://www.legislation.gov.uk/changes/affected/ukpga/1992/7
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 44C. Earnings factor credits[^key-23ad7c62045cb4c50a1d3b7f0eea2346]
+
+*Extent: N.I.*
+
+(1) This section applies, for the purposes of Conditions B and C in section 44B(4) and (5) above, to 2010–11 and subsequent tax years.
+
+(2) In respect of each week—
+
+- (a) which falls in a relevant year to which this section applies, and
+- (b) in respect of which a pensioner is eligible for earnings factor enhancement,
+
+the pensioner is entitled to an earnings factor credit equal to 1/52 of the QEF for that year.
+
+This is subject to subsection (5) below.
+
+(3) A pensioner is eligible for earnings factor enhancement in respect of a week if one or more of the following apply—
+
+- (a) he was a relevant carer in respect of that week for the purposes of section 23A above (see section 23A(3));
+- (b) carer's allowance was payable to him for any part of that week, or would have been so payable but for the fact that under regulations the amount payable to him was reduced to nil because of his receipt of other benefits;
+- (c) severe disablement allowance was payable to him for any part of that week;
+- (d) long-term incapacity benefit was payable to him for any part of that week or would have been so payable but for the fact that—
+  - (i) he did not satisfy the contribution conditions in paragraph 2 of Schedule 3 to this Act, or
+  - (ii) under regulations the amount payable to him was reduced to nil because of his receipt of other benefits or of payments from an occupational pension scheme or personal pension scheme;
+- (e) he satisfies such other conditions as may be prescribed.
+
+(4) In subsection (3)(d)(ii) above “occupational pension scheme” and “personal pension scheme” have the meanings given by subsection (6) of section 30DD above for the purposes of subsection (5) of that section.
+
+(5) For the purposes of Condition B in section 44B(4) above a person is not entitled to an aggregate amount of earnings factor credits in respect of a year that is greater than the difference referred to in that Condition.
+
+(6) For the purposes of this section a week that falls partly in one tax year and partly in another is to be treated as falling in the year in which it begins and not in the following year.
+
+(7) In section 44B above and this section—
+
+- (a) “**the QEF**” means the qualifying earnings factor, and
+- (b) any reference to a person being entitled to an earnings factor credit of a particular amount (or to an aggregate amount of earnings factor credits) for a year is a reference to the person being treated as having for that year an earnings factor (within the meaning of section 44(6)(za) above) of the amount in question by virtue of subsection (2) above.
+
+## Annotations
+
+[^key-23ad7c62045cb4c50a1d3b7f0eea2346]: Textual amendment: [Ss. 44B](https://www.legislation.gov.uk/ukpga/1992/7/section/44B), [44C](https://www.legislation.gov.uk/ukpga/1992/7/section/44C) inserted (11.2.2008) by [Pensions Act (Northern Ireland) 2008 (c. 1)](https://www.legislation.gov.uk/nia/2008/1), [s. 7(1)](https://www.legislation.gov.uk/nia/2008/1/section/7/1)

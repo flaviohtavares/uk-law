@@ -1,0 +1,25 @@
+---
+title: Marriage Act 1949, section 14
+act: Marriage Act 1949
+section: '14'
+status: revised
+text_date: '2025-05-27'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/Geo6/12-13-14/76/section/14
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Marriage Act 1949, section 14
+
+> Text as at 2025-05-27.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 14. Publication of banns on board His Majesty’s ships.
+
+*Extent: E+W*
+
+(1) Where a marriage is intended to be solemnized in England, after the publication of banns of matrimony, between parties of whom one is residing in England and the other is an officer, seaman or marine borne on the books of one of His Majesty’s ships at sea, the banns may be published on three successive Sundays during morning service on board that ship by the chaplain, or, if there is no chaplain, by the captain or other officer commanding the ship, and, where banns have been so published, the person who published them shall, unless the banns have been forbidden on any of the grounds on which banns may be forbidden, give a certificate of publication.
+
+(2) A certificate issued under this section shall be in such form as may be prescribed by the Admiralty and shall, as respects the party who is an officer, seaman or marine as aforesaid, be sufficient for the purposes of section eleven of this Act, and all provisions of this Act (including penal provisions) relating to the publication of banns and certificates thereof and all rules required by section seven of this Act to be observed shall apply in the case of banns published under this section subject to such adaptations therein as may be made by His Majesty by Order in Council.

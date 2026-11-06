@@ -1,0 +1,919 @@
+---
+title: The Family Proceedings Fees Order 2008
+id: uksi/2008/1054
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised-with-pending-changes
+made_date: '2008-04-07'
+text_date: '2026-07-13'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2008/1054
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2008/1054/pdfs/uksiem_20081054_en.pdf
+- http://www.legislation.gov.uk/uksi/2008/1054/pdfs/uksi_20081054_en.pdf
+- http://www.legislation.gov.uk/uksi/2008/1054/data.pdf
+pending_changes: 1
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Family Proceedings Fees Order 2008
+
+> **Warning: changes not yet applied to this text (1).** Text as at 2026-07-13. See https://www.legislation.gov.uk/changes/affected/uksi/2008/1054
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2008 No. 1054 (L. 6)
+
+Family Proceedings, England And Wales
+
+Supreme Court Of England And Wales
+
+County Courts, England And Wales
+
+The Family Proceedings Fees Order 2008
+
+Made
+
+7th April 2008
+
+Laid before Parliament
+
+9th April 2008
+
+Coming into force
+
+1st May 2008
+
+The Lord Chancellor, with the consent of the Treasury, makes the following Order in exercise of the power conferred by section 92 of the Courts Act 2003[^f00001].
+
+In accordance with section 92(5) and (6) of that Act the Lord Chancellor has consulted the Lord Chief Justice, the Master of the Rolls, the President of the Queen’s Bench Division, the President of the Family Division, the Chancellor of the High Court, the Head of Civil Justice, the Deputy Head of Civil Justice and the Civil Justice Council.
+
+## 1. Citation and commencement[^key-b84fce087d5ce224823ece116c14e614]
+
+(1) This Order may be cited as the Family Proceedings Fees Order 2008 and shall come into force on 1st May 2008.
+
+(2) In this Order—
+
+- (a)[^key-7aa8ab58248a1bda52c7661083dda8c6] “**Legal Aid Agency**” means the body established under section 2(2)(c) of the Legal Aid, Sentencing and Punishment of Offenders Act 2012;
+- (b)[^key-e5215d7043b6b64903693bd2b42360bf] “the FPR 2010” means the Family Procedure Rules 2010; and
+- (c) expressions also used in the FPR 2010 have the same meaning as in the FPR 2010;[^key-468f7cfbd13f2bd8364e2b350f905f24]
+- (d)[^key-7a01945d74045adba2dffa8e129759f2] “EU Regulation 606/2013” means Regulation (EU) No. 606/2013 of the European Parliament and of the Council of June 2013 on mutual recognition of protection measures in civil matters; and
+- (e) “protection measure” and “protected person” have the same meaning as in EU Regulation 606/2013.
+
+## 2. Fees payable[^key-b58a560eab201f237ec94470dc15f51f]
+
+The fees set out in column 2 of Schedule 1 are payable in family proceedings in the High Court and in the family court[^key-b689081077f8f66ee5099462c72b63fa] in respect of the items described in column 1 in accordance with and subject to the directions specified in that column.
+
+**3.**[^key-b2ace852757f7f91a69899ca64f0bdb8] Where by any convention entered into by Her Majesty with any foreign power it is provided that no fee is required to be paid in respect of any proceedings, the fees specified in this Order are not payable in respect of those proceedings.
+
+**3A.**[^key-66d336a59cc3ac7dd45361c09fe19977] Fees 1.1, 5.1 and 5.3 in Schedule 1 (fees to be taken) are not payable—
+
+- (a) in any proceedings relating to protection measures under EU Regulation 606/2013 if the person who would otherwise be liable to pay the fee is the protected person;
+- (b) in proceedings for—
+  - (i) a non-molestation order;
+  - (ii) an occupation order; or
+  - (iii) a forced marriage protection order,
+
+  under Part 4 or 4A of the Family Law Act 1996; [^key-d226207f2a61944a0ff8a492b66583f9]...
+- (bb)[^key-fa9f4fd8b495f2c546d3b07bf5525daf] in proceedings for a female genital mutilation protection order under Part 1 of Schedule 2 to the Female Genital Mutilation Act 2003; [^key-9112ba94a9024656f61544bd225a4df5]...
+- (c) in proceedings issued by the person who commenced proceedings referred to in sub-paragraphs (b) or (bb)[^key-2a7c89a85e43438bc8ae670e0362e4c6], where that person makes any application in respect of an order made in those proceedings, except an application to appeal such an order[^key-5d736e043ab2db7b8d9fc8e88dd4ed38] ; or[^key-c39f991d411b151c7a94eca8a3e1385d]
+- (d) in respect of an application under section 28 (domestic abuse protection orders on application), 29 (applications where domestic abuse protection notice has been given), 40 (arrest for breach of order) or 44 (variation and discharge of orders) of the Domestic Abuse Act 2021 or an appeal under section 46 of that Act (appeals).
+
+**3B.**[^key-ac7b254ed070c212838b9e24be81d053] (1) In proceedings under the Guardianship (Missing Persons) Act 2017—
+
+- (a) fee 5.1 (application in existing proceedings without notice or by consent); and
+- (b) fee 5.3 (application in existing proceedings on notice);
+
+are not payable by the Public Guardian.
+
+(2) For the purpose of this regulation, “Public Guardian” has the meaning given in section 57 of the Mental Capacity Act 2005.
+
+**3C.**[^key-5f8cae1f9f6c78e3bc2442a2dc74f739] Fees 5.1 (on an application in existing proceedings without notice or by consent) and 5.3 (on an application in existing proceedings on notice) in Schedule 1 (fees to be taken) are not payable in respect of any application made by reference to sections 31R-W of the Matrimonial and Family Proceedings Act 1984 for an order or direction of the court relating to cross-examination in person of a party to or witness in the proceedings.
+
+**3D.**[^M_F_8388fe82-ebac-4ef6-fd49-5b427ab5619f] Fee 1.1 (application to start proceedings where no other fee is specified) is not payable where the application is for habeas corpus in respect of a decision mentioned in paragraph 3A(1) of Schedule 10 to the Immigration Act 2016.
+
+**3E.**[^key-d2300aa004c914016e9a9c0509a2841c] Fees 5.1 (on an application in existing proceedings without notice or by consent) and 5.3 (on an application in existing proceedings on notice) in Schedule 1 (fees to be taken) are not payable in respect of any application to request a change of procedure from the express financial remedy procedure in proceedings under Part 9 of the Family Procedure Rules 2010 as modified by Practice Direction 36ZH - Pilot Scheme: Express Financial Remedy Procedure.
+
+## 4. Remissions and part remissions[^key-6114af876a862a7f66f509aa57fe382c]
+
+Schedule 2 applies for the purpose of ascertaining whether a party is entitled to a remission or part remission of a fee prescribed by this Order.
+
+## 5. Revocations[^key-58304bd31da36182b9415dac7ed10c6c]
+
+The instruments listed in column 1 of the table in Schedule 3 (which have the references listed in column 2) are revoked.
+
+## 6. Transitional provision[^key-ace758947962c2e27fc1c9a763ac232e]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Signed by authority of the Lord Chancellor
+
+Bridget Prentice
+
+Parliamentary Under Secretary of State
+
+Ministry of Justice
+
+3rd April 2008
+
+We consent,
+
+Steve McCabe
+
+Claire Ward
+
+Two of the Lords Commissioners of Her Majesty’s Treasury
+
+7th April 2008
+
+## SCHEDULE 1 — Fees to be taken[^key-a5704b0790a9faf4beeb7c6ddf224858]
+
+<table>
+<thead>
+<tr><th><em>Column 1</em><br><em>Number and description of fee</em></th><th><em>Column 2</em><br><em>Amount of fee</em></th></tr>
+</thead>
+<tfoot>
+<tr><td colspan="2">(a)<br><a href="https://www.legislation.gov.uk/ukpga/1973/18">1973 c. 18</a>. Section 1 has been prospectively repealed by section 66(3) of and Schedule 10 to the Family Law Act 1996.</td></tr>
+<tr><td colspan="2">(b)<br><a href="https://www.legislation.gov.uk/ukpga/2004/33">2004 c. 33</a>.</td></tr>
+<tr><td colspan="2">(c)<br><a href="https://www.legislation.gov.uk/uksi/2010/2955">S.I. 2010/2955</a>.</td></tr>
+<tr><td colspan="2">(d)<br><a href="https://www.legislation.gov.uk/ukpga/1996/27">1996 c. 27</a>. Part 4A was inserted by the Forced Marriage (Civil Protection) Act <a href="https://www.legislation.gov.uk/ukpga/2007/20">2007 (c.20)</a>.</td></tr>
+<tr><td colspan="2">(e)<br><a href="https://www.legislation.gov.uk/ukpga/1974/47">1974 c. 47</a>.</td></tr>
+<tr><td colspan="2">(f)<br><a href="https://www.legislation.gov.uk/ukpga/2008/22">2008 c. 22</a>.</td></tr>
+<tr><td colspan="2">(g)<br><a href="https://www.legislation.gov.uk/ukpga/1989/41">1989 c. 41</a>.</td></tr>
+<tr><td colspan="2">(h)<br>Section 4A was inserted by section 112 of the Adoption and Children Act <a href="https://www.legislation.gov.uk/ukpga/2002/38">2002 (c.38)</a> and was amended by section 75 of the Civil Partnership Act <a href="https://www.legislation.gov.uk/ukpga/2004/33">2004 (c.33)</a>.</td></tr>
+<tr><td colspan="2">(i)<br>Section 4ZA(1)(c) and (6) were inserted by paragraph 27 of Schedule 6 to the Human Fertilisation and Embryology Act <a href="https://www.legislation.gov.uk/ukpga/2008/22">2008 (c.22)</a>.</td></tr>
+<tr><td colspan="2">(j)<br>Section 11J was inserted by section 4(1) of the Children and Adoption Act <a href="https://www.legislation.gov.uk/ukpga/2006/20">2006 (c.20)</a>.</td></tr>
+<tr><td colspan="2">(k)<br>Section 11O was inserted by section 5 of the Children and Adoption Act <a href="https://www.legislation.gov.uk/ukpga/2006/20">2006 (c.20)</a>.</td></tr>
+<tr><td colspan="2">(l)<br>Sections 14A, 14C and 14D were inserted by section 115 of the Adoption and Children Act <a href="https://www.legislation.gov.uk/ukpga/2002/38">2002 (c.38)</a>.</td></tr>
+<tr><td colspan="2">(m)<br>Schedule A1 was inserted by Schedule 1 to the Children and Adoption Act <a href="https://www.legislation.gov.uk/ukpga/2006/20">2006 (c.20)</a>.</td></tr>
+<tr><td colspan="2">(n)<br><a href="https://www.legislation.gov.uk/ukpga/2002/38">2002 c. 38</a>.</td></tr>
+<tr><td colspan="2">(o)<br><a href="https://www.legislation.gov.uk/ukpga/2006/20">2006 c. 20</a>.</td></tr>
+<tr><td colspan="2">(p)<br>Section 20 is substituted by section 10 of the Child Support, Pensions and Social Security Act <a href="https://www.legislation.gov.uk/ukpga/2000/19">2000 (c.19)</a> from a date to be appointed.</td></tr>
+<tr><td colspan="2">(q)<br><a href="https://www.legislation.gov.uk/ukpga/1991/48">1991 c.48</a>.</td></tr>
+<tr><td colspan="2">(r)<br><a href="https://www.legislation.gov.uk/ukpga/2012/10">2012 c. 10</a>.</td></tr>
+<tr><td colspan="2">(s)<br><a href="https://www.legislation.gov.uk/ukpga/1972/18">1972 c. 18</a>.</td></tr>
+<tr><td colspan="2">(t)<br><a href="https://www.legislation.gov.uk/ukpga/1950/37">1950 c. 37</a>.</td></tr>
+<tr><td colspan="2">(u)<br><a href="https://www.legislation.gov.uk/ukpga/1958/39">1958 c. 39</a>.</td></tr>
+<tr><td colspan="2">(v)<br><a href="https://www.legislation.gov.uk/ukpga/1978/22">1978 c. 22</a>.</td></tr>
+<tr><td colspan="2">(w)<br><a href="https://www.legislation.gov.uk/ukpga/2004/33">2004 c. 33</a>.</td></tr>
+<tr><td colspan="2">(x)<br><a href="https://www.legislation.gov.uk/ukpga/1971/32">1971 c. 32</a>.</td></tr>
+</tfoot>
+<tbody>
+<tr><th colspan="2">1 Commencement of proceedings</th></tr>
+<tr><td>1.1 On filing an application to start proceedings where no other fee is specified.</td><td>£286</td></tr>
+<tr><td>1.2 On presenting an application for—<br>(a) a divorce order made under section 1 of the Matrimonial Causes Act 1973;<br>(b) a nullity of marriage order made under sections 11 or 12 of the Matrimonial Causes Act 1973;<br>(b) a dissolution order or nullity order made under section 37 of the Civil Partnership Act 2004.</td><td>£628</td></tr>
+<tr><td>1.3 On presenting an application for—<br>(a) a matrimonial or civil partnership order, other than an application for a divorce order, a nullity of marriage order, a dissolution order, nullity order or to which rule 7.4(1)(b) of the Family Procedure Rules 2010 applies, or<br>(b) a declaration to which Chapter 5 of Part 8 of the Family Procedure Rules 2010 applies.</td><td>£426</td></tr>
+<tr><td>Note: Fee 1.3 is payable only once for each declaration to which Chapter 5 of Part 8 of the Family Procedure Rules 2010 applies.</td><td></td></tr>
+<tr><td>. . .</td><td>. . .</td></tr>
+<tr><td>1.5 On amending an application for a matrimonial or civil partnership order, amending an application for a declaration to which Chapter 5 of Part 8 of the Family Procedure Rules 2010 applies, or making an application to which rule 7.4(1)(b) of the Family Procedure Rules 2010 applies.</td><td>£61</td></tr>
+<tr><td>1.6 On filing an answer to an application for a matrimonial or civil partnership order.</td><td>£240</td></tr>
+<tr><td>1.7 On applying for an order under Part 3 of the Solicitors Act 1974 for the assessment of costs payable to a solicitor by a client; or on the commencement of costs-only proceedings.</td><td>£58</td></tr>
+<tr><td>1.8 On an application under section 54 or section 54A (parental order) of the Human Fertilisation and Embryology Act 2008.</td><td>£270</td></tr>
+<tr><th colspan="2">2 Proceedings under the Children Act 1989 or, where specified, the Childcare Act 2006, the Children and Families (Wales) Measure 2010 or the Social Services and Well-being (Wales) Act 2014</th></tr>
+<tr><td>2.1 On an application for an order under the following provisions of the Children Act 1989 or, where specified, the Social Services and Well-being (Wales) Act 2014 —</td><td></td></tr>
+<tr><td>(a) section 4(1)(c) or (3), 4A(1)(b) or (3) (parental responsibility);</td><td>£270</td></tr>
+<tr><td>(b) section 4ZA (1)(c) or (6) (parental responsibility);</td><td>£270</td></tr>
+<tr><td>(c) section 5(1) or 6(7) (guardians);</td><td>£270</td></tr>
+<tr><td>(d) section 10(1) or (2) (section 8 orders);</td><td>£270</td></tr>
+<tr><td>(e) section 11J(2) (enforcement orders);</td><td>£270</td></tr>
+<tr><td>(f) section 11O(2) (compensation for financial loss);</td><td>£270</td></tr>
+<tr><td>(g) section 13(1) (change of child’s surname or removal from jurisdiction while child arrangements order in force);</td><td>£270</td></tr>
+<tr><td>(h) section 14A(3) or (6)(a), 14C(3) or 14D(1) (special guardianship orders);</td><td>£270</td></tr>
+<tr><td>(i) section 25 (secure accommodation order);</td><td>£270</td></tr>
+<tr><td>(ia) section 119 of the Social Services and Well-being (Wales) Act 2014 (secure accommodation order);</td><td>£270</td></tr>
+<tr><td>(j) section 33(7) (change of child’s surname or removal from jurisdiction while care order in force);</td><td>£270</td></tr>
+<tr><td>(k) section 34(2), (3), (4) or (9) (contact with child in care);</td><td>£270</td></tr>
+<tr><td>(l) section 36(1) (education supervision order);</td><td>£270</td></tr>
+<tr><td>(m) section 39 (variation or discharge etc of care and supervision orders);</td><td>£270</td></tr>
+<tr><td>(n) section 43(1) (child assessment order);</td><td>£270</td></tr>
+<tr><td>(o) sections 44, 45 and 46 (emergency protection orders);</td><td>£270</td></tr>
+<tr><td>(p) section 48 (warrant to assist person exercising powers under emergency protection order);</td><td>£270</td></tr>
+<tr><td>(q) section 50 (recovery order);</td><td>£270</td></tr>
+<tr><td>(r) ...</td><td>. . .</td></tr>
+<tr><td>(s) section 102 (warrant to assist person exercising powers to search for children or inspect premises);</td><td>£270</td></tr>
+<tr><td>(t) paragraph 4(2), 6(2), 7(2) or 9(2) of Schedule A1 (applications in respect of enforcement orders);</td><td>£119</td></tr>
+<tr><td>(u) paragraph 5(2) of Schedule A1 (amendment of enforcement order by reason of change of address);</td><td>£81</td></tr>
+<tr><td>(v) paragraph 1(1) or (4), 2(1) or (5), 5(6), 6(5), (7) or (8), 8(2), 10(2), 11 or 14(1) of Schedule 1 (financial provision for children);</td><td>£270</td></tr>
+<tr><td>(w) paragraph 19(1) of Schedule 2 (approval of court for child in care of local authority to live abroad);</td><td>£270</td></tr>
+<tr><td>(wa) section 124(1) of the Social Services and Well-being (Wales) Act 2014 (approval of court for child in care of local authority to live abroad);</td><td>£270</td></tr>
+<tr><td>(x) paragraph 6 of Schedule 3 (extension of supervision order);</td><td>£270</td></tr>
+<tr><td>(y) paragraph 15(2) or 17(1) of Schedule 3 (extension or discharge of education supervision order).</td><td>£270</td></tr>
+<tr><td>(z) paragraph 8(1) of Schedule 8 (appeals concerning foster parenting).</td><td>£270</td></tr>
+<tr><td>2.2 On an application under section 31 of the Children Act 1989 (care and supervision orders).</td><td>£2,580</td></tr>
+<tr><td>Notes to fees 2.1 and 2.2</td><td></td></tr>
+<tr><td>Where an application requires the permission of the court, the relevant fee is payable when permission is sought but no further fee will be charged if permission is granted and the application is made.</td><td></td></tr>
+<tr><td>Where an application is made, permission is sought or an appeal is commenced under or relating to provisions of the Children Act 1989 or, where specified, the Social Services and Well-being (Wales) Act 2014 which are listed in two or more different numbered fees, or require two or more different numbered forms, only one fee is payable, and if those fees are different, only the highest fee is payable.</td><td></td></tr>
+<tr><td>Where an application is made, permission is sought or an appeal is commenced under or relating to two or more provisions of the Children Act 1989 or, where specified, the Social Services and Well-being (Wales) Act 2014 which are listed in the same numbered fee, that fee is payable only once.</td><td></td></tr>
+<tr><td>Where the same application is made, permission is sought or an appeal is commenced in respect of two or more children, who are siblings or children of the family, at the same time, only one fee is payable in respect of each numbered fee.</td><td></td></tr>
+<tr><td>Note to fee 2.2 only</td><td></td></tr>
+<tr><td>Where proceedings are consolidated with other proceedings, any fee which falls to be paid after the date on which the proceedings are consolidated is payable only once.</td><td></td></tr>
+<tr><td>2.3 On commencing an appeal in relation to proceedings to which the fees listed as 2.1 (a) to (s), (v) to (y) and 2.2 apply.</td><td>£251</td></tr>
+<tr><td>2.4 On commencing an appeal under paragraph 23(11) of Schedule 2 to the Children Act 1989 (appeal against contribution order).</td><td>£251</td></tr>
+<tr><td>2.5. On commencing appeal under paragraph 3(11) of Schedule 1 to the Social Services and Well-being (Wales) Act 2014 (appeal against contribution order).</td><td>£251</td></tr>
+<tr><td>2.6 On an application for an order under—</td><td></td></tr>
+<tr><td>(a) section 72 (cancellation, variation or removal or imposition of condition of registration of child minder or day carer) of the Childcare Act 2006; or</td><td>£270</td></tr>
+<tr><td>(b) section 34 (cancellation of registration of child minder or day carer) of the Children and Families (Wales) Measure 2010.</td><td>£270</td></tr>
+<tr><td>2.7 On commencing an appeal in relation to proceedings to which the fees listed as 2.6(a) and (b) apply.</td><td>£251</td></tr>
+<tr><th colspan="2">3 Adoption and wardship applications</th></tr>
+<tr><td>3.1 On applying or requesting permission to apply under any provision in Part 1 of the Adoption and Children Act 2002, other than an application under section 22 of that Act.</td><td>£212</td></tr>
+<tr><td>3.2 On applying under section 22 of the Adoption and Children Act 2002 (placement order).</td><td>£570</td></tr>
+<tr><td>3.3 On applying for the exercise by the High Court of its inherent jurisdiction with respect to children.</td><td>£212</td></tr>
+<tr><td><strong>Notes to fees 3.1, 3.2 and 3.3</strong></td><td></td></tr>
+<tr><td>Fee 3.1 is payable where an application requires the permission of the court when permission is sought, but no further fee will be charged if permission is granted and the application is made.</td><td></td></tr>
+<tr><td>Where an application is made or permission is sought at the same time under or relating to two or more provisions in Part 1 of the Adoption and Children Act 2002, other than an application under section 22 of that Act, fee 3.1 is payable only once.</td><td></td></tr>
+<tr><td>In relation to fees 3.1 and 3.2, where an application is made or permission is sought at the same time under or relating to provisions of the Adoption and Children Act 2002, only one fee is payable and, if those fees are different, the higher fee 3.2 is payable.</td><td></td></tr>
+<tr><td>In relation to fees 3.1, 3.2 and 3.3, where the same application is made or permission is sought at the same time in respect of two or more children who are siblings or children of the same family, only one fee is payable in respect of each numbered fee.</td><td></td></tr>
+<tr><th colspan="2">4 Proceedings under the Children and Adoption Act 2006</th></tr>
+<tr><td>4.1 On an application for a warning notice to be attached to a contact order.</td><td>£57</td></tr>
+<tr><td>Notes: Where an application is made or permission is sought under or relating to provisions of the Children Act 1989 or, where specified, the Social Services and Well-being (Wales) Act 2014 and the Children and Adoption Act 2006 which are listed in two or more different numbered fees, only one fee is payable.</td><td></td></tr>
+<tr><td>Where the same application is made or permission is sought in respect of two or more children at the same time, and those children are siblings or children of the family, only one fee is payable in respect of each numbered fee.</td><td></td></tr>
+<tr><th colspan="2">5 Applications in existing proceedings</th></tr>
+<tr><td>5.1 On an application in existing proceedings without notice or by consent, except where separately listed in this Schedule.</td><td>£62</td></tr>
+<tr><td>Notes: Fee 5.1 is not payable in relation to an application by consent for an adjournment of a hearing where the application is received by the court at least 14 days before the date set for that hearing.</td><td></td></tr>
+<tr><td>Fee 5.1 is not payable on an application to make a final order, as the case may be, where the applicant has paid fee 1.2.</td><td></td></tr>
+<tr><td>Fee 5.1 is payable in proceedings under the Children Act 1989 or, where specified, under the Social Services and Well-being (Wales) Act 2014 to which the fees listed at 2.1 apply.</td><td></td></tr>
+<tr><td>5.2 On an application under rule 7.9 of the Family Procedure Rules 2010 for the court to consider the making of a conditional order, judicial separation order or a separation order (other than in an undefended case where no fee is payable).</td><td>£63</td></tr>
+<tr><td>5.3 On an application in existing proceedings on notice, except where separately listed in this Schedule.</td><td>£195</td></tr>
+<tr><td>Note: Fee 5.3 is payable in proceedings under the Children Act 1989 or, where specified, under the Social Services and Well-being (Wales) Act 2014 to which the fees listed at 2.1 apply ....</td><td></td></tr>
+<tr><td>5.4 On the filing of—<br>(a) a notice of intention to proceed with an application for a financial order to which rule 9.4(a) of the Family Procedure Rules 2010 applies; or<br>(b) an application for a financial order to which rule 9.4(b) of the Family Procedure Rules 2010 applies,<br>other than an application for a consent order.</td><td>£321</td></tr>
+<tr><th colspan="2">6 Appeal</th></tr>
+<tr><td>6.1 On filing an appeal notice from a district judge, one or more lay justices or a justices' legal adviser.</td><td>£146</td></tr>
+<tr><td>6.2 . . .</td><td>. . .</td></tr>
+<tr><th colspan="2">7 Searches</th></tr>
+<tr><td>7.1 On making a search in the central index of decrees absolute or of final orders kept at the Principal Registry of the Family Division for any specified period of ten calendar years or, if no such period is specified, for the ten most recent years, and, if appropriate, providing a certificate of decree absolute or of final order, as the case may be.</td><td>£89</td></tr>
+<tr><td>7.2 On making a search in the central index of parental responsibility agreements kept at the Principal Registry of the Family Division in accordance with regulations made under section 4(2) of the Children Act 1989 and, if appropriate, providing a copy of the agreement.</td><td>£17</td></tr>
+<tr><td>7.3 On making a search in the index of decrees absolute or of final orders kept at any designated family court or district registry for any specified period of ten calendar years or, if no period is specified, for the ten most recent years, and if appropriate, providing a certificate of decree absolute or of final order, as the case may be.</td><td>£61</td></tr>
+<tr><th colspan="2">8 Copy documents</th></tr>
+<tr><td>8.1 On a request for a copy document (other than where fee 8.2 applies)—</td><td></td></tr>
+<tr><td>(a) for ten pages or less; and</td><td>£14</td></tr>
+<tr><td>(b) for each subsequent page.</td><td>50p</td></tr>
+<tr><td>Note: The fee payable under fee 9.1 includes—<br>where the court allows a party to fax to the court for the use of that party a document that has not been requested by the court and is not intended to be placed on the court file.<br>where a party requests that the court fax a copy of a document from the court file.<br>where the court provides a subsequent copy of a document which it has previously provided.</td><td></td></tr>
+<tr><td>8.2 On a request for a copy of a document on a computer disk or in other electronic form, for each such copy.</td><td>£14</td></tr>
+<tr><th colspan="2">9 Determination of costs</th></tr>
+<tr><td>9.1 On filing a request for detailed assessment where the party filing the request is legally aided, is funded by the Legal Aid Agency or is a person for whom civil legal services have been made available under arrangements made by the Lord Chancellor under Part 1 of the Legal Aid, Sentencing and Punishment of Offenders Act 2012 and no other party is ordered to pay the costs of the proceedings.</td><td>£74</td></tr>
+<tr><td>9.2 On filing a request for detailed assessment in any case where fee 9.1 does not apply; or on filing a request for a hearing date for the assessment of costs payable to a solicitor by a client pursuant to an order under Part 3 of the Solicitors Act 1974 where the amount of the costs claimed—</td><td></td></tr>
+<tr><td>(a) does not exceed £15,000;</td><td>£335</td></tr>
+<tr><td>(b) exceeds £15,000 but does not exceed £50,000;</td><td>£675</td></tr>
+<tr><td>(c) exceeds £50,000 but does not exceed £100,000;</td><td>£1,005</td></tr>
+<tr><td>(d) exceeds £100,000 but does not exceed £150,000;</td><td>£1,400</td></tr>
+<tr><td>(e) exceeds £150,000 but does not exceed £200,000;</td><td>£1,680</td></tr>
+<tr><td>(f) exceeds £200,000 but does not exceed £300,000;</td><td>£2,520</td></tr>
+<tr><td>(g) exceeds £300,000 but does not exceed £500,000;</td><td>£4,200</td></tr>
+<tr><td>(h) exceeds £500,000.</td><td>£5,600</td></tr>
+<tr><td>Where there is a combined standard basis and legal aid, or a combined standard basis and Legal Aid Agency, or a combined standard basis and Lord Chancellor, or a combined standard basis, and one or more of legal aid, Legal Aid Agency or Lord Chancellor determination of costs, fee 9.2 will be attributed proportionately to the standard basis, legal aid, Legal Aid Agency or Lord Chancellor (as the case may be) portions of the bill on the basis of the amount allowed.</td><td></td></tr>
+<tr><td>9.3 On a request for the issue of a default costs certificate.</td><td>£18</td></tr>
+<tr><td>9.4 On commencing an appeal against a decision made in detailed assessment proceedings.</td><td>£244</td></tr>
+<tr><td>9.5 On an application to set aside a default costs certificate.</td><td>£128</td></tr>
+<tr><th colspan="2">10 Registration of maintenance orders</th></tr>
+<tr><td>. . .</td><td>. . .</td></tr>
+<tr><td>10.2 On an application for a maintenance order to be registered under the Maintenance Orders Act 1950 or the Maintenance Orders Act 1958.</td><td>£58</td></tr>
+<tr><th colspan="2">11 Financial Provision</th></tr>
+<tr><td>11.1 Proceedings under the Domestic Proceedings and Magistrates’ Courts Act 1978 or Schedule 6 to the Civil Partnership Act 2004 on an application for an order for financial provision (other than an application to vary or revoke such an order, or an application for an order for financial provision made for the benefit of, or against, a person residing outside the United Kingdom).</td><td>£251</td></tr>
+<tr><th colspan="2">12 Enforcement</th></tr>
+<tr><td>12.1 On an application to question a judgment debtor or other person on oath in connection with enforcement of a judgment, or on an application to which rule 33.3(2)(b) of the Family Procedure Rules 2010 applies.</td><td>£63</td></tr>
+<tr><td>12.2 On an application for a third party debt order or the appointment of a receiver by way of equitable execution.</td><td>£90</td></tr>
+<tr><td>Note: Fee 12.2 is payable in respect of each third party against whom the order is sought.</td><td></td></tr>
+<tr><td>12.3 On an application for a charging order.</td><td>£44</td></tr>
+<tr><td>Note: Fee 12.3 is payable in respect of each charging order applied for.</td><td></td></tr>
+<tr><td>12.4 On an application for a judgment summons.</td><td>£85</td></tr>
+<tr><td>12.5 On an application for an attachment of earnings order to secure money due under an order made in family proceedings.</td><td>£39</td></tr>
+<tr><td>Fee 12.5 is payable in respect of each defendant against whom an order is sought.</td><td></td></tr>
+<tr><td>Fee 12.5 is not payable where the attachment of earnings order is made on the hearing of a judgment summons.</td><td></td></tr>
+<tr><th colspan="2">13 Enforcement in the family court</th></tr>
+<tr><td>13.1 On an application for or in relation to enforcement of a judgment or order by the issue of a warrant of control against goods except a warrant to enforce payment of a fine.</td><td>£117</td></tr>
+<tr><td>13.2 On a request for further attempt at execution of a warrant at a new address where the warrant has been returned to the court not executed (except where the warrant has been returned after it has been suspended by the court).</td><td>£6</td></tr>
+<tr><td>13.3 On the issue of a warrant of possession or a warrant of delivery.</td><td>£139</td></tr>
+<tr><td>Note on fee 13.3: Where the recovery of a sum of money is sought in addition, no further fee is payable.</td><td></td></tr>
+<tr><th colspan="2">14 Enforcement in the High Court</th></tr>
+<tr><td>14.1 On sealing a writ of control/possession/delivery.</td><td>£70</td></tr>
+<tr><td>Note on fee 14.1: Where the recovery of a sum of money is sought in addition to a writ of possession and delivery, no further fee is payable.</td><td></td></tr>
+<tr><td>14.2 On a request or application to register a judgment or order; or for permission to enforce an arbitration award; or for a certified copy of a judgment or order for use abroad.</td><td>£70</td></tr>
+<tr><th colspan="2">15 Service</th></tr>
+<tr><td>15.1 On a request for service by bailiff of any document except—<br>(a) an order for a debtor to attend the adjourned hearing of a judgment summons;<br>(b) a claim to controlled, executed or exempt goods;<br>(c) an order made under section 23 of the Attachment of Earnings Act 1971 (enforcement provisions); ...<br>(d) an order for a debtor to attend an adjourned oral examination of means ; or<br>(e) an application for (and accompanying documentation), or an order for, or an application to vary, extend or discharge—<br>(i) a non-molestation order;<br>(ii) an occupation order; or<br>(iii) a forced marriage protection order,<br>under Part 4 or Part 4A of the Family Law Act 1996 ; or<br>(f) an application for (and accompanying documentation), or an order for, or an application to vary or discharge a female genital mutilation protection order under Part 1 of Schedule 2 to the Female Genital Mutilation Act 2003.</td><td>£47</td></tr>
+<tr><th colspan="2">16 Sale</th></tr>
+<tr><td>16.1 For removing or taking steps to remove goods to a place of deposit.</td><td>The reasonable expenses incurred.</td></tr>
+<tr><td>Fee 16.1 is to include the reasonable expenses of feeding and caring for animals.</td><td></td></tr>
+<tr><td>16.2 For the appraisement of goods.</td><td>5p in the £1 or part of a £1 of the appraised value.</td></tr>
+<tr><td>16.3 For the sale of goods (including advertisements, catalogues, sale and commission and delivery of goods).</td><td>15p in the £1 or part of a £1 on the amount realised by the sale or such other sum as the district judge may consider to be justified in the circumstances.</td></tr>
+<tr><td>16.4 Where no sale takes place by reason of an execution being withdrawn, satisfied or stopped.</td><td>(a) 10p in the £1 or part of a £1 on the value of the goods seized, the value to be the appraised value where the goods have been appraised or such other sum as the district judge may consider to be justified in the circumstances; and in addition (b) any sum payable under fee 16.1 and 16.2.</td></tr>
+<tr><th colspan="2">17 Affidavits in the High Court only</th></tr>
+<tr><td>17.1 On taking an affidavit or an affirmation or attestation upon honour in lieu of an affidavit or a declaration.</td><td>£13</td></tr>
+<tr><td>17.2 For each exhibit referred to and required to be marked.</td><td>£3</td></tr>
+</tbody>
+</table>
+
+[^key-1c2726ccaf55f9e4bfaaff1d9b060223][^key-e81ccd251a09f638b42989d3688886d9][^f01000][^key-1eb2fade1b52697feb41e8fc7ffe7ac5][^f01001][^key-c9ef6a3828c080e00f7337eabeb6ceef][^key-e2cac407c71f3216ad03dc543092a445][^f01002][^key-26d92fbc721a35c39c1e5ba540c7e244][^key-26d92fbc721a35c39c1e5ba540c7e244][^key-f20ef2b16a83634a8c7e49220a74c53e][^f01004][^key-c1534a05626a73c57102bb8eaf346c60][^f01005][^key-3683d395abe055683153b738de4b0351][^key-bb16f9b5f940142eed16481b096beaf3][^f01006][^key-d955c7f553e8869a28727d413ef53171][^f01007][^f01008][^f01009][^f01010][^f01011][^key-d84bb6a8faf14debe96da3be0334cf69][^key-3b702492f9549c24267ff0a7bcb0b253][^key-3b702492f9549c24267ff0a7bcb0b253][^f01012][^key-6cc31a0ab6fe182b3ec161eaac81ef5e][^key-d55e4341e1f74e3d75b2d2f1b9dda79e][^key-778b98957570c5eda346411ac176e972][^key-05b1fa7bdf711e265d06741c91c7ebbf][^f01013][^key-2acc7ee7852a63893c424e022e4a7c67][^key-e331c78d66c4e1ed2883e3f4a2189bb0][^f01014][^key-0b0fc6f5090f4baaf6cd2108b2a26480][^key-e8c30d938a2d788515f257c3a2edbe0e][^key-07bbb1c50ac97455b8ce86b0903a979b][^key-69a841a4ad1ff5550ef4befe3d5bacbc][^key-d5fa2517fac75037e00de467b225103d][^key-6adcf89871a6a5356f8d666d5aeaeb84][^key-38fcd6dddd88c6a12d6a87dfc03878bf][^key-cd115b9e57ab095501aebad0a919d588][^key-cd115b9e57ab095501aebad0a919d588][^key-0d5bbc62aecfac593c07e0970d7fcd1a][^key-964cfe722b1919ea483909560aa2f205][^key-129d1d35feff0d7bec69fe7c2a110fda][^f01017][^key-1af82926b210c07ee309524f62c785cc][^key-1314cfaee837b7e6a308291edc0c4b4f][^key-1314cfaee837b7e6a308291edc0c4b4f][^f01019][^f01020][^f01021][^f01022][^f01023][^key-bcf9e4a2f009887828d70f6529d149c1][^key-95b3d962e579ec3aa5081b6e8367a80d][^key-3cc86040975d056c24cbf1080019110e][^key-0b6f967cb0e39ab3cd87a7e02fbfd382]
+
+## SCHEDULE 2 — Remissions and part remissions[^key-f1d9ff944bd30072e37dd74c24228d37]
+
+Article 4
+
+### 1. Interpretation
+
+(1) In this Schedule—
+
+- “child” means a person—
+  - (a) whose main residence is with a party and who is aged—
+    - (i) under 16 years; or
+    - (ii) 16 to 19 years; and is—
+      - (aa) not married or in a civil partnership; and
+      - (bb) enrolled or accepted in full-time education that is not advanced education, or approved training; or
+  - (b) in respect of whom a party or their partner pays child support maintenance or periodic payments in accordance with a maintenance agreement,
+
+  and “full-time education”, “advanced education” and “approved training” have the meaning given by the Child Benefit (General) Regulations 2006;
+- “child support maintenance” has the meaning given in section 3(6) of the Child Support Act 1991;
+- “couple” has the meaning given in section 3(5A) of the Tax Credits Act 2002;
+- “disposable capital” has the meaning given in paragraph 5;
+- “excluded benefits” means any of the following—[^key-a065b3482019b507c34a0a20fa62f3fb]
+  - (a) any of the following benefits payable under the Social Security Contributions and Benefits Act 1992 or the corresponding provisions of the Social Security Contributions and Benefits (Northern Ireland) Act 1992—
+    - (i) attendance allowance under section 64;
+    - (ii) severe disablement allowance;
+    - (iii) carer’s allowance;
+    - (iv) disability living allowance;
+    - (v) constant attendance allowance under section 104 as an increase to a disablement pension;
+    - (vi) any payment made out of the social fund;
+    - (vii) housing benefit;
+    - (viii) [^key-d9f93fe0a5e0465562dc87d61503cf53]...
+  - (b) any of the following benefit payable under the Tax Credits Act 2002—
+    - (i) any disabled child element or severely disabled child element of the child tax credit;
+    - (ii) any childcare element , disabled element or severely disabled element[^key-70ce5d1fdd47e0a01fc6d10a6e45cedb] of the working tax credit;
+  - (c) any direct payment made under the Community Care, Services for Carers and Children’s Services (Direct Payments) (England) Regulations 2009, [^key-62f5417c28f122ade9420ac0596abdd4]..., the Carers and Direct Payments Act (Northern Ireland) 2002, [^key-87d5137be46fe5f250b4270d3cc683a8]... section 12B(1) of the Social Work (Scotland) Act 1968 [^key-caed0f0f012f12286d84dbb38a5395fa]... the Social Care (Self-directed Support) (Scotland) Act 2013[^key-0388fdfb5230d8b9359db9cfff104ba6] or under regulations made under sections 50 to 53 of the Social Services and Well-being (Wales) Act 2014[^key-b14070aa8d8fa32fd19558cc5675f392];
+  - (d) [^key-69d68a00baaf1f8193bd3894d523a6f6]...
+  - (e) any exceptionally severe disablement allowance paid under the Personal Injuries (Civilians) Scheme 1983;
+  - (f) any payments from the Industrial Injuries Disablement Benefit;
+  - (g) any pension paid under the Naval, Military and Air Forces etc. (Disablement and Death) Service Pension Order 2006;
+  - (h) any payment made from the Independent Living Funds;
+  - (i) any payment of bereavement support payment under section 30 of the Pensions Act 2014;[^key-c9d05790fd4ebbba8f83fd68fc50d7db]
+  - (j) any financial support paid under an agreement for the care of a foster child;
+  - (k) any housing credit element of pension credit;
+  - (l) any armed forces independence payment;
+  - (m) any personal independence payment payable under the Welfare Reform Act 2012;
+  - (n) any payment on account of benefit as defined in the Social Security (Payments on Account of Benefit) Regulations 2013;
+  - (o) any of the following amounts, as defined by the Universal Credit Regulations 2013, that make up an award of universal credit—
+    - (i) an additional amount to the child element in respect of a disabled child;
+    - (ii) a housing costs element;
+    - (iii) a childcare costs element;
+    - (iv) a carer element;
+    - (v) a limited capability for work or limited capacity for work and work -related activity element.
+- “family help (higher)” has the meaning given in paragraph 15(3) of the Civil Legal Aid (Merits Criteria) Regulations 2013;
+- “family help (lower)” has the meaning given in paragraph 15(2) of the Civil Legal Aid (Merits Criteria) Regulations 2013;
+- “gross monthly income” has the meaning given in paragraph 13;
+- “Independent Living Funds” means the funds listed at regulation 20(2)(b) of the Criminal Legal Aid (Financial Resources) Regulations 2013;
+- “legal representation” has the meaning given in paragraph 18(2) of the Civil Legal Aid (Merits Criteria) Regulations 2013;
+- “maintenance agreement” has the meaning given in subsection 9(1) of the Child Support Act 1991;
+- “partner” means a person with whom the party lives as a couple and includes a person with whom the party is not currently living but from whom the party is not living separate and apart;
+- “party” means the individual who would, but for this Schedule, be liable to pay a fee under this Order;
+- “restraint order” means—
+  - (a) an order under section 42(1A) of the Senior Courts Act 1981;
+  - (b) an order under section 33 of the Employment Tribunals Act 1996;
+  - (c) a civil restraint order made under rule 3.11 of the Civil Procedure Rules 1998, or a practice direction made under that rule; or
+  - (d) a civil restraint order under rule 4.8 of the Family Procedure Rules 2010, or the practice direction referred to in that rule.
+
+(2) References to remission of a fee are to be read as including references to a part remission of a fee as appropriate and remit and remitted shall be construed accordingly.
+
+### 2. Fee remission
+
+If a party satisfies the disposable capital test, the amount of any fee remission is calculated by applying the gross monthly income test.
+
+### Disposable capital test
+
+#### 3. Disposable capital test[^key-44b743a280b5e5eee23352b05afe3ce4]
+
+Subject to paragraph 4, a party satisfies the disposable capital test if the fee payable by the party and for which an application for remission is made is—
+
+- (a) up to and including £1,420 and the party’s disposable capital is less than £4,250;
+- (b) £1,421 to £5,000 and the party’s disposal capital is less than three times the amount of the fee payable;
+- (c) £5,001 or more and the party’s disposable capital is less than £16,000.
+
+#### 4. Disposable capital test - deeming provisions for those aged 66 or over[^key-02ffe2e9fb5a5d599ad1d77017ee375c]
+
+Subject to paragraph 14, if a party or their partner is aged 66[^key-84e2561e6a8a3f04799840735fed704f] or over, that party satisfies the disposable capital test if that party’s disposable capital is less than £16,000.
+
+#### 5. Disposable capital
+
+(1)[^key-1da86c5dfa0d3d4cb8427ee69449ab7e] Subject to paragraph 14, disposable capital is the value of any savings and investments[^key-068e83467823655c0674bb572a28ebcb] belonging to the party on the date on which the application for remission is made, unless it is treated as income by this Order, or it is disregarded as excluded disposable capital.
+
+(2)[^key-532967a938ed9a4bdde63f350080f7fc] In sub-paragraph (1), reference to “**savings and investments**” includes, but is not limited to—
+
+- (a) bonds;
+- (b) stocks and shares; and
+- (c) the value of any land or property.
+
+#### 6. Disposable capital - non-money resources
+
+The value of any savings and investments that do[^key-cbd5feba385fbf4b9c3f726836b6f4a5] not consist of money is calculated as the amount which that resource would realise if sold, less—
+
+- (a) 10% of the sale value; and
+- (b) the amount of any borrowing secured against that resource that would be repayable on sale.
+
+#### 7. Disposable Capital - resources held outside the United Kingdom[^key-d710c77632610b43709f93a1610cef54]
+
+(1) Capital resources in a country outside the United Kingdom count towards disposable capital.
+
+(2) If there is no prohibition in that country against the transfer of a resource into the United Kingdom, the value of that resource is the amount that resource would realise if sold to a buyer in the United Kingdom.
+
+(3) If there is a prohibition in that country against the transfer of a resource into the United Kingdom, the value of that resource is the amount which that resource would realise if sold in that country, in accordance with paragraph 6.
+
+#### 8. Disposable capital - foreign currency resources
+
+Where disposable capital is held in currency other than sterling, the cost of any banking charge or commission that would be payable if that amount were converted into sterling, is deducted from its value.
+
+#### 9. Disposable capital - jointly owned resources
+
+Where any savings and investments are[^key-e5a5dfed7dcb151f5fd16f6022864d1c] owned jointly or in common, there is a presumption that the resource is owned in equal shares, unless evidence to the contrary is produced.
+
+#### 10. Excluded disposable capital
+
+The following things are excluded disposable capital—
+
+- (a) a property which is the main or only dwelling occupied by the party;
+- (b)[^key-4a6c0ad3de0bd05c8c46e758e5bf5829] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^key-59a182e2a66c05ed05f82142bd01e8f1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d) any vehicle, the sale of which would leave the party, or their partner, without motor transport;
+- (e)[^key-1e583f4cb374d983a83957db0802c05e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (f) the capital value of the party’s or their partner’s business, where the party or their partner is self-employed;
+- (g) the capital value of any funds or other assets held in trust, where the party or their partner is a beneficiary without entitlement to advances of any trust capital;
+- (h) a jobseeker’s back to work bonus;
+- (i) a payment made as a result of a determination of unfair dismissal by a court or tribunal, or by way of settlement of a claim for unfair dismissal;
+- (j) any compensation paid as a result of a determination of medical negligence or in respect of any personal injury by a court, or by way of settlement of a claim for medical negligence or personal injury;
+- (k) the capital held in any personal or occupational pension scheme;
+- (l) any cash value payable on surrender of a contract of insurance;
+- (m) any capital payment made out of the Independent Living Funds;
+- (n) any bereavement support payment in respect of the rate set out in regulation 3(2) or (5) of the Bereavement Support Payment Regulations 2017 (rate of bereavement support payment);[^key-13e3fa037d60e83ae2a1d42b3c7344cc]
+- (o) any capital insurance or endowment lump sum payments that have been paid as a result of illness, disability or death;
+- (p) any student loan or student grant;
+- (q) any payments under the criminal injuries compensation scheme;
+- (r)[^key-56e99661d6a3ce2439bee5393128d086] any payments under the Armed Forces Compensation Scheme;
+- (s) any compensation paid as a result of the Grenfell Tower fire;
+- (t) any payments under the Lambeth Children’s Homes Redress Scheme;
+- (u) any payments from the London Emergencies Trust;
+- (v) any payments under the Medomsley Detention Centre Physical Abuse Settlement Scheme;
+- (w) any payments under the Miscarriage of Justice Compensation Scheme;
+- (x) any payments from the National Emergencies Trust;
+- (y) any payments under the Infected Blood Support Scheme;
+- (z) any payments in relation to internment, forced labour, injury or loss of a child during the Second World War;
+- (za) any payments under the Jesus Fellowship Redress Scheme;
+- (zb) any payment under the Vaccine Damage Payment Scheme;
+- (zc) any compensation paid as a result of variant Creutzfeldt-Jakob Disease;
+- (zd) any compensation paid under the Victims of Overseas Terrorism Compensation Scheme;
+- (ze) any payments under the We Love Manchester Emergency Fund; and
+- (zf) any compensation paid under the Windrush Compensation Scheme (Expenditure) Act 2020.
+
+### Gross monthly income test
+
+#### 11. Remission of fees - gross monthly income[^key-eb3dcdff6fa13606eaa294653ff2edab]
+
+(1) Subject to paragraphs 11A and 12, if a party satisfies the disposable capital test, no fee is payable under this Order if, at the time when the fee would otherwise be payable, the party’s gross monthly income does not exceed the applicable threshold.
+
+(2) The applicable threshold is—
+
+- (a) £1,420, for a party that is single and has no children;
+- (b) £2,130, for a party that is part of a couple and has no children; or
+- (c) as otherwise calculated in accordance with sub-paragraph (3).
+
+(3) Where this sub-paragraph applies, the applicable threshold is determined by taking the following steps—
+
+- Step 1 Identify the number of children aged 13 or below and multiply this number by £425.
+- Step 2 Identify the number of children aged 14 or over and multiply this number by £710.
+- Step 3 Add together the amounts calculated at Step 1 and Step 2.
+- Step 4 Add £1,420 to the amount calculated at Step 3.
+
+  The result is the applicable threshold for a party that is single and has children.
+- Step 5 *If a party is part of a couple, take this additional step.*
+
+  Add £710 to the amount calculated at Step 4.
+
+The result is the applicable threshold for a party that is part of a couple and has children.
+
+(4) Subject to sub-paragraph (6), if a party’s gross monthly income exceeds the applicable threshold, that party must pay an amount towards the fee payable to which the application for remission relates, which is determined in accordance with sub-paragraph (5).
+
+(5) Where this sub-paragraph applies, the amount payable is determined as follows—
+
+- Step 1 Deduct the applicable threshold from the party’s gross monthly income.
+
+  The amount calculated is the “excess income”.
+- Step 2 Apply the rates specified in the second column of the Table to the parts of the party’s excess income specified in the corresponding row of the first column.
+- Step 3 Add together the amounts calculated at Step 2 (if there are two or more such amounts).
+
+  Subject to sub-paragraph (6), the result is the amount payable.
+
+  **Table**
+
+  | Part of excess income | Rate |
+  | --- | --- |
+  | Up to and including £1,000 | 50% |
+  | £1,001 to £2,000 | 70% |
+  | £2,001 to £3,000 | 90% |
+
+(6) No party is required to pay an amount that is more than the fee payable for which the application for remission has been made, if no remission had been granted.
+
+#### 11A. Gross monthly income— passporting benefits[^key-0361efbe6aa2a3471397d6e68cce1995]
+
+(1) If a party satisfies the disposable capital test, no fee is payable under this Order if, at the time when the fee would otherwise be payable, the party is in receipt of any passporting benefits.
+
+(2) The following are passporting benefits—
+
+- (a) income-based Jobseeker’s Allowance;
+- (b) income-related Employment and Support Allowance;
+- (c) income support;
+- (d) pension credit (Guarantee Credit); and
+- (e) universal credit with additional gross annual earnings of less than £6,000.
+
+#### 12. Gross monthly income cap[^key-777a15373b3eacc6594cb9d127f15078]
+
+No remission is available if a party’s gross monthly income exceeds the applicable threshold determined in accordance with paragraph 11(2), plus the sum of £3,000.
+
+#### 13. Gross monthly income[^key-35fba4cbfb62625078fc37fa49344760]
+
+(1) Subject to paragraph 14, “**gross monthly income**” means the total sum of—
+
+- (a) the lower of—
+  - (i) the gross amount that has been earned by the party in the month immediately preceding that in which the application for remission is made; or
+  - (ii) the average of the gross amount that has been earned by the party in the three months immediately preceding that in which the application for remission is made, and
+- (b) the gross amount received by the party from any other source in the month immediately preceding that in which the application for remission is made, other than receipt of any of the excluded benefits.
+
+(2) For the purposes of sub-paragraph (1), earnings from a trade, business or gainful occupation other than an occupation at a wage or salary are calculated as the lower of—
+
+- (a) the party’s net profits for the month preceding that in which the application for remission is made; or
+- (b) the average of the party’s net profits for the three months preceding that in which the application for remission is made.
+
+(3) In sub-paragraph (2), “**net profits**” means the profits which have accrued to the party less all sums necessarily expended to earn those profits.
+
+### General
+
+#### 14. Resources and income treated as the party’s resources and income
+
+(1) Subject to sub-paragraph (2), the disposable capital and gross monthly income of a partner of a party is to be treated as disposable capital and gross monthly income of the party.
+
+(2) Where the partner of a party has a contrary interest to the party in the matter to which the fee relates, the disposable capital and gross monthly income of that partner, if any, is not treated as the disposable capital and gross monthly income of the party.
+
+#### 15. Application for remission of a fee
+
+(1) An application for remission of a fee must be made at the time when the fee would otherwise be payable.
+
+(2) Where an application for remission of a fee is made, the party must—
+
+- (a) indicate the fee to which the application relates;
+- (b) declare the amount of their disposable capital; and
+- (c) provide documentary evidence of their gross monthly income and the number of children relevant for the purposes of paragraph 11[^key-976bc590146aab3b88b29eab355990b5].
+
+(3) Where an application for remission of a fee is made on [^key-ae967d73ae0aabbd478cf51eeb322495]... the date on which a fee is payable, the date for payment of the fee is disapplied.
+
+(4) Where an application for remission is refused, or if part remission of a fee is granted, the amount of the fee which remains unremitted must be paid within the period notified in writing to the party.
+
+(5)[^key-95285baee2261a21ba3a7b1fd2bbfa67] The Lord Chancellor may by written notice request such additional information or evidence as is required to assess the party’s entitlement to fee remission under this Order, and the period specified by such notice must not be less than 7 days, beginning with the day after the date on which the notice is sent.
+
+(6) An application for remission of a fee may be treated as abandoned and no further action taken, if a party fails to provide the information requested under sub-paragraph (5) within the period specified by that notice, or such other extended period as may be agreed in writing at the Lord Chancellor’s discretion.
+
+#### 16. Remission in exceptional circumstances
+
+A fee specified in this Order may be remitted where the Lord Chancellor is satisfied that there are exceptional circumstances which justify doing so.
+
+#### 17. Refunds
+
+(1) Subject to sub-paragraph (3), where a party pays a fee at a time when that party would have been entitled to a remission if they had provided the documentary evidence required by paragraph 15, the fee, or the amount by which the fee would have been reduced as the case may be, must be refunded if documentary evidence relating to the time when the fee became payable is provided at a later date.
+
+(2) Subject to sub-paragraph (3), where a fee has been paid at a time when the Lord Chancellor, if all the circumstances had been known, would have remitted the fee under paragraph 16[^key-5e3864766454df1869660f5054301f61], the fee or the amount by which the fee would have been reduced, as the case may be, must be refunded to the party.
+
+(3) No refund shall be made under this paragraph unless the party who paid the fee applies within 3 months of the date on which the fee was paid.
+
+(4) The Lord Chancellor may extend the period of 3 months mentioned in sub-paragraph (3) if the Lord Chancellor considers that there is a good reason for a refund being made after the end of the period of 3 months.
+
+#### 18. Legal Aid
+
+A party is not entitled to a fee remission if, under Part 1 of the Legal Aid, Sentencing and Punishment of Offenders Act 2012, they are in receipt of the following civil legal services —
+
+- (a) Legal representation; or
+- (b) Family help (higher); or
+- (c) Family help (lower) in respect of applying for a consent order.
+
+#### 19. Vexatious litigants
+
+(1) This paragraph applies where—
+
+- (a) a restraint order is in force against a party; and
+- (b) that party makes an application for permission to—
+  - (i) issue proceedings or take a step in proceedings as required by the restraint order;
+  - (ii) apply for amendment or discharge of the order; or
+  - (iii) appeal the order.
+
+(2) The fee prescribed by this Order for the application is payable in full.
+
+(3) If the party is granted permission, they are to be refunded the difference between—
+
+- (a) the fee paid; and
+- (b) the fee that would have been payable if this Schedule had been applied without reference to this paragraph.
+
+#### 20. Exceptions
+
+No remissions or refunds are available in respect of the fee payable for—
+
+- (a) copy or duplicate documents;
+- (b) searches.
+
+## SCHEDULE 3 — Revocations[^key-a603b973a6a06321d69cf668931f5dc1]
+
+Article 5
+
+| *Column 1*<br>*Title* | *Column 2*<br>*Reference* |
+| --- | --- |
+| The Family Proceedings Fees Order 2004 | [S.I. 2004/3114](https://www.legislation.gov.uk/uksi/2004/3114) |
+| The Family Proceedings Fees (Amendment) Order 2005 | [S.I. 2005/472](https://www.legislation.gov.uk/uksi/2005/472) |
+| The Family Proceedings Fees (Amendment No. 2) Order 2005 | [S.I. 2005/3443](https://www.legislation.gov.uk/uksi/2005/3443) |
+| The Family Proceedings Fees (Amendment) Order 2006 | [S.I. 2006/739](https://www.legislation.gov.uk/uksi/2006/739) |
+| The Family Proceedings Fees (Amendment) Order 2007 | [S.I. 2007/682](https://www.legislation.gov.uk/uksi/2007/682) |
+| The Family Proceedings Fees (Amendment) (No. 2) Order 2007 | [S.I. 2007/2175](https://www.legislation.gov.uk/uksi/2007/2175) |
+| The Family Proceedings Fees (Amendment) (No. 2) (Amendment) Order 2007 | [S.I. 2007/2800](https://www.legislation.gov.uk/uksi/2007/2800) |
+| The Family Proceedings Fees (Amendment) Order 2008 | [S.I. 2008/115](https://www.legislation.gov.uk/uksi/2008/115) |
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order revokes and consolidates the Family Proceedings Fees Order 2004 ([S.I. 2004/3114](https://www.legislation.gov.uk/uksi/2004/3114)) as amended. It specifies the fees payable for family proceedings in the High Court and in county courts. In addition to minor and drafting amendments, this Order also makes the following changes of substance—
+
+In Schedule 1, an incremental fee is introduced in relation to proceedings for a care or supervision order under section 31 of the Children Act 1989 (fee 2.2). The first fee (£2,225) is paid on an application for such an order. The second fee (£700) is payable if an *issues resolution hearing* or *pre-hearing review* is listed, at least 14 days before the day on which the hearing is listed, and the third fee (£1,900) is payable if a final hearing is listed, at least 14 days before the day on which that hearing is listed. Provision is made for a refund to be made if a final order is made at a *case management conference* or if a hearing which has been listed does not take place. The purpose of a case management conference and issues resolution hearing is set out in the Practice Direction entitled “Guide to Case Management in Public Law Proceedings” given by the President of the Family Division of the High Court in April 2008 and the purpose of a pre-hearing review is set out in the Protocol entitled “Judicial Case Management in Public Law Children Act Cases” issued by the President in June 2003. No fee is payable in relation to any issues resolution hearing, pre-hearing review or final hearing listed between 1st May 2008 and 14th May 2008 inclusive (article 6).
+
+The fee for an application for a placement order under section 22 of the Adoption and Children Act 2002 is increased from £140 to £400 (fee 3.2). The notes to fee 3 are updated so as to make it clear that only one fee is payable in relation to an application under more than one provision of the 2002 Act or in relation to an application in respect of two or more children.
+
+In Schedule 2, the definition of “child” in paragraph 1(1) is amended so as to include any qualifying young person in respect of whom child benefit is paid to a party under regulations made under section 142 of the Social Security Contributions and Benefits Act 1992. In paragraph 1(2), it is clarified that paragraphs 2, 3 and 4 of Schedule 2 (full and part remission of fees) only apply to a party who is not in receipt of funding provided by the LSC for the purposes of the proceedings and for which a certificate has been issued under the Funding Code.
+
+Paragraph 3, which sets out the gross annual income, having regard to the number of children that the party has, for the purposes of determining whether a fee is payable by a party under the Order, is amended so as to increase the amount allowable for each child from £2470 to £2735.
+
+Paragraph 5(3), which makes provision for the calculation of a party’s disposable monthly income, is amended so as to increase the amounts that may be deducted from a party’s gross monthly income for living expenses. The amount that a party may deduct rises from £279 to £296, the amount for each child of the party rises from £198 to £228 and the amount that may be deducted if the party has a partner rises from £142 to £150.
+
+An impact assessment of the effect that this instrument will have on the costs of business is available on the Ministry of Justice’s website at www.justice.gov.uk/publications/cp3207.htm .
+
+## Annotations
+
+[^f00001]: Footnote: [2003 c. 39](https://www.legislation.gov.uk/ukpga/2003/39). Section 92 is amended by paragraphs 308 and 345 of Schedule 4 to the Constitutional Reform Act [2005 (c.4)](https://www.legislation.gov.uk/ukpga/2005/4) from 1 October 2005 and by paragraph 4(1) and (3) of Schedule 11 to that Act from a date to be appointed.
+
+[^key-b84fce087d5ce224823ece116c14e614]: Commencement: Art. 1 in force at 1.5.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/1054/article/1/1)
+
+[^key-7aa8ab58248a1bda52c7661083dda8c6]: Textual amendment: [Art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2008/1054/article/1/2/a) substituted (1.5.2024) by [The Court and Tribunal Fees (Miscellaneous Amendments) Order 2024 (S.I. 2024/476)](https://www.legislation.gov.uk/uksi/2024/476), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/476/article/1/1), [7(2)](https://www.legislation.gov.uk/uksi/2024/476/article/7/2)
+
+[^key-e5215d7043b6b64903693bd2b42360bf]: Textual amendment: [Art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2008/1054/article/1/2/b)[(c)](https://www.legislation.gov.uk/uksi/2008/1054/article/1/2/c) substituted for [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2008/1054/article/1/2/b) (6.4.2011) by [The Family Procedure (Modification of Enactments) Order 2011 (S.I. 2011/1045)](https://www.legislation.gov.uk/uksi/2011/1045), [arts. 1](https://www.legislation.gov.uk/uksi/2011/1045/article/1), [35](https://www.legislation.gov.uk/uksi/2011/1045/article/35) (with [art. 39](https://www.legislation.gov.uk/uksi/2011/1045/article/39))
+
+[^key-468f7cfbd13f2bd8364e2b350f905f24]: Textual amendment: [Art. 1(2)(c)](https://www.legislation.gov.uk/uksi/2008/1054/article/1/2/c): semicolon substituted for full stop (6.4.2015) by [The Family Proceedings Fees (Amendment) Order 2015 (S.I. 2015/687)](https://www.legislation.gov.uk/uksi/2015/687), [arts. 1](https://www.legislation.gov.uk/uksi/2015/687/article/1), [3(a)](https://www.legislation.gov.uk/uksi/2015/687/article/3/a)
+
+[^key-7a01945d74045adba2dffa8e129759f2]: Textual amendment: [Art. 1(2)(d)](https://www.legislation.gov.uk/uksi/2008/1054/article/1/2/d)[(e)](https://www.legislation.gov.uk/uksi/2008/1054/article/1/2/e) inserted (6.4.2015) by [The Family Proceedings Fees (Amendment) Order 2015 (S.I. 2015/687)](https://www.legislation.gov.uk/uksi/2015/687), [arts. 1](https://www.legislation.gov.uk/uksi/2015/687/article/1), [3(b)](https://www.legislation.gov.uk/uksi/2015/687/article/3/b)
+
+[^key-b58a560eab201f237ec94470dc15f51f]: Commencement: Art. 2 in force at 1.5.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/1054/article/1/1)
+
+[^key-b689081077f8f66ee5099462c72b63fa]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2008/1054/article/2) substituted (22.4.2014) by [The Family Proceedings Fees (Amendment) Order 2014 (S.I. 2014/877)](https://www.legislation.gov.uk/uksi/2014/877), [arts. 1](https://www.legislation.gov.uk/uksi/2014/877/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2014/877/article/2/2)
+
+[^key-b2ace852757f7f91a69899ca64f0bdb8]: Commencement: Art. 3 in force at 1.5.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/1054/article/1/1)
+
+[^key-66d336a59cc3ac7dd45361c09fe19977]: Textual amendment: [Art. 3A](https://www.legislation.gov.uk/uksi/2008/1054/article/3A) inserted (6.4.2015) by [The Family Proceedings Fees (Amendment) Order 2015 (S.I. 2015/687)](https://www.legislation.gov.uk/uksi/2015/687), [arts. 1](https://www.legislation.gov.uk/uksi/2015/687/article/1), [4](https://www.legislation.gov.uk/uksi/2015/687/article/4)
+
+[^key-d226207f2a61944a0ff8a492b66583f9]: Textual amendment: Word in [art. 3A](https://www.legislation.gov.uk/uksi/2008/1054/article/3A) omitted (1.5.2024) by virtue of [The Court and Tribunal Fees (Miscellaneous Amendments) Order 2024 (S.I. 2024/476)](https://www.legislation.gov.uk/uksi/2024/476), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/476/article/1/1), [7(3)(a)](https://www.legislation.gov.uk/uksi/2024/476/article/7/3/a)
+
+[^key-fa9f4fd8b495f2c546d3b07bf5525daf]: Textual amendment: [Art. 3A(bb)](https://www.legislation.gov.uk/uksi/2008/1054/article/3A/bb) inserted (17.7.2015) by [The Family Proceedings Fees (Amendment No. 2) Order 2015 (S.I. 2015/1419)](https://www.legislation.gov.uk/uksi/2015/1419), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1419/article/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2015/1419/article/2/2/a)
+
+[^key-9112ba94a9024656f61544bd225a4df5]: Textual amendment: Word in [art. 3A](https://www.legislation.gov.uk/uksi/2008/1054/article/3A) omitted (1.5.2024) by virtue of [The Court and Tribunal Fees (Miscellaneous Amendments) Order 2024 (S.I. 2024/476)](https://www.legislation.gov.uk/uksi/2024/476), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/476/article/1/1), [7(3)(b)](https://www.legislation.gov.uk/uksi/2024/476/article/7/3/b)
+
+[^key-2a7c89a85e43438bc8ae670e0362e4c6]: Textual amendment: Words in [art. 3A(c)](https://www.legislation.gov.uk/uksi/2008/1054/article/3A/c) substituted (17.7.2015) by [The Family Proceedings Fees (Amendment No. 2) Order 2015 (S.I. 2015/1419)](https://www.legislation.gov.uk/uksi/2015/1419), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1419/article/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2015/1419/article/2/2/b)
+
+[^key-5d736e043ab2db7b8d9fc8e88dd4ed38]: Textual amendment: Words in [art. 3A(c)](https://www.legislation.gov.uk/uksi/2008/1054/article/3A/c) substituted (1.5.2024) by [The Court and Tribunal Fees (Miscellaneous Amendments) Order 2024 (S.I. 2024/476)](https://www.legislation.gov.uk/uksi/2024/476), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/476/article/1/1), [7(3)(c)](https://www.legislation.gov.uk/uksi/2024/476/article/7/3/c)
+
+[^key-c39f991d411b151c7a94eca8a3e1385d]: Textual amendment: [Art. 3A(d)](https://www.legislation.gov.uk/uksi/2008/1054/article/3A/d) and word inserted (1.5.2024) by [The Court and Tribunal Fees (Miscellaneous Amendments) Order 2024 (S.I. 2024/476)](https://www.legislation.gov.uk/uksi/2024/476), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/476/article/1/1), [7(3)(d)](https://www.legislation.gov.uk/uksi/2024/476/article/7/3/d)
+
+[^key-ac7b254ed070c212838b9e24be81d053]: Textual amendment: [Art. 3B](https://www.legislation.gov.uk/uksi/2008/1054/article/3B) inserted (22.7.2019) by [The Court Fees (Miscellaneous Amendments) Order 2019 (S.I. 2019/1063)](https://www.legislation.gov.uk/uksi/2019/1063), [arts. 1](https://www.legislation.gov.uk/uksi/2019/1063/article/1), [5(2)](https://www.legislation.gov.uk/uksi/2019/1063/article/5/2)
+
+[^key-5f8cae1f9f6c78e3bc2442a2dc74f739]: Textual amendment: [Art. 3C](https://www.legislation.gov.uk/uksi/2008/1054/article/3C) inserted (21.7.2022 immediately after the [Domestic Abuse Act 2021 (c. 17)](https://www.legislation.gov.uk/ukpga/2021/17), [ss. 65](https://www.legislation.gov.uk/ukpga/2021/17/section/65), [66](https://www.legislation.gov.uk/ukpga/2021/17/section/66) come into force) by [The Civil and Family Proceedings Fees (Amendment) Order 2022 (S.I. 2022/540)](https://www.legislation.gov.uk/uksi/2022/540), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/540/article/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2022/540/article/3/2); [S.I. 2022/840](https://www.legislation.gov.uk/uksi/2022/840), [reg. 2](https://www.legislation.gov.uk/uksi/2022/840/regulation/2)
+
+[^M_F_8388fe82-ebac-4ef6-fd49-5b427ab5619f]: Textual amendment: Art. 3D inserted (13.5.2024) by [The Civil and Family Proceedings Fees (Amendment) Order 2024 (S.I. 2024/538)](https://www.legislation.gov.uk/uksi/2024/538), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/538/article/1/2), [3(1)](https://www.legislation.gov.uk/uksi/2024/538/article/3)
+
+[^key-d2300aa004c914016e9a9c0509a2841c]: Textual amendment: [Art. 3E](https://www.legislation.gov.uk/uksi/2008/1054/article/3E) inserted (8.4.2025) by virtue of [The Court and Tribunal Fees (Miscellaneous Amendments) Order 2025 (S.I. 2025/351)](https://www.legislation.gov.uk/uksi/2025/351), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/351/article/1/1), [7(2)](https://www.legislation.gov.uk/uksi/2025/351/article/7/2)
+
+[^key-6114af876a862a7f66f509aa57fe382c]: Commencement: Art. 4 in force at 1.5.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/1054/article/1/1)
+
+[^key-58304bd31da36182b9415dac7ed10c6c]: Commencement: Art. 5 in force at 1.5.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/1054/article/1/1)
+
+[^key-ace758947962c2e27fc1c9a763ac232e]: Textual amendment: [Art. 6](https://www.legislation.gov.uk/uksi/2008/1054/article/6) omitted (1.5.2024) by virtue of [The Court and Tribunal Fees (Miscellaneous Amendments) Order 2024 (S.I. 2024/476)](https://www.legislation.gov.uk/uksi/2024/476), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/476/article/1/1), [7(4)](https://www.legislation.gov.uk/uksi/2024/476/article/7/4)
+
+[^key-a5704b0790a9faf4beeb7c6ddf224858]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/2008/1054/schedule/1) substituted (22.4.2014) by [The Family Proceedings Fees (Amendment) Order 2014 (S.I. 2014/877)](https://www.legislation.gov.uk/uksi/2014/877), [art. 1](https://www.legislation.gov.uk/uksi/2014/877/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2014/877/schedule) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/877/article/3))
+
+[^key-1c2726ccaf55f9e4bfaaff1d9b060223]: Textual amendment: Sums in [Sch. 1](https://www.legislation.gov.uk/uksi/2008/1054/schedule/1) substituted (13.7.2026) by [The Court and Tribunal Fees (Miscellaneous Amendments) Order 2026 (S.I. 2026/642)](https://www.legislation.gov.uk/uksi/2026/642), [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/642/article/1/2), [Sch. 3](https://www.legislation.gov.uk/uksi/2026/642/schedule/3) (as amended by [S.I. 2026/665](https://www.legislation.gov.uk/uksi/2026/665), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/665/article/1/2), [2](https://www.legislation.gov.uk/uksi/2026/665/article/2))
+
+[^key-e81ccd251a09f638b42989d3688886d9]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2008/1054/schedule/1) substituted (6.4.2022) by [The Family Proceedings Fees (Amendment) Order 2022 (S.I. 2022/54)](https://www.legislation.gov.uk/uksi/2022/54), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/54/article/1/2), [3(2)(a)](https://www.legislation.gov.uk/uksi/2022/54/article/3/2/a) (with [art. 2](https://www.legislation.gov.uk/uksi/2022/54/article/2)); [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)
+
+[^f01000]: Footnote: (a)[^key-a5704b0790a9faf4beeb7c6ddf224858]
+
+    [1973 c. 18](https://www.legislation.gov.uk/ukpga/1973/18). Section 1 has been prospectively repealed by section 66(3) of and Schedule 10 to the Family Law Act 1996.
+
+[^key-1eb2fade1b52697feb41e8fc7ffe7ac5]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2008/1054/schedule/1) substituted (6.4.2022) by [The Family Proceedings Fees (Amendment) Order 2022 (S.I. 2022/54)](https://www.legislation.gov.uk/uksi/2022/54), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/54/article/1/2), [3(2)(b)](https://www.legislation.gov.uk/uksi/2022/54/article/3/2/b) (with [art. 2](https://www.legislation.gov.uk/uksi/2022/54/article/2)); [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)
+
+[^f01001]: Footnote: (b)
+
+    [2004 c. 33](https://www.legislation.gov.uk/ukpga/2004/33).
+
+[^key-c9ef6a3828c080e00f7337eabeb6ceef]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2008/1054/schedule/1) substituted (6.4.2022) by [The Family Proceedings Fees (Amendment) Order 2022 (S.I. 2022/54)](https://www.legislation.gov.uk/uksi/2022/54), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/54/article/1/2), [3(3)(a)](https://www.legislation.gov.uk/uksi/2022/54/article/3/3/a) (with [art. 2](https://www.legislation.gov.uk/uksi/2022/54/article/2)); [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)
+
+[^key-e2cac407c71f3216ad03dc543092a445]: Textual amendment: Word in [Sch. 1](https://www.legislation.gov.uk/uksi/2008/1054/schedule/1) substituted (6.4.2022) by [The Family Proceedings Fees (Amendment) Order 2022 (S.I. 2022/54)](https://www.legislation.gov.uk/uksi/2022/54), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/54/article/1/2), [3(3)(b)](https://www.legislation.gov.uk/uksi/2022/54/article/3/3/b) (with [art. 2](https://www.legislation.gov.uk/uksi/2022/54/article/2)); [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)
+
+[^f01002]: Footnote: (c)
+
+    [S.I. 2010/2955](https://www.legislation.gov.uk/uksi/2010/2955).
+
+[^key-26d92fbc721a35c39c1e5ba540c7e244]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2008/1054/schedule/1) omitted (6.4.2015) by virtue of [The Family Proceedings Fees (Amendment) Order 2015 (S.I. 2015/687)](https://www.legislation.gov.uk/uksi/2015/687), [arts. 1](https://www.legislation.gov.uk/uksi/2015/687/article/1), [5(a)](https://www.legislation.gov.uk/uksi/2015/687/article/5/a)
+
+[^key-f20ef2b16a83634a8c7e49220a74c53e]: Textual amendment: Word in [Sch. 1](https://www.legislation.gov.uk/uksi/2008/1054/schedule/1) substituted (6.4.2022) by [The Family Proceedings Fees (Amendment) Order 2022 (S.I. 2022/54)](https://www.legislation.gov.uk/uksi/2022/54), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/54/article/1/2), [3(4)](https://www.legislation.gov.uk/uksi/2022/54/article/3/4) (with [art. 2](https://www.legislation.gov.uk/uksi/2022/54/article/2)); [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)
+
+[^f01004]: Footnote: (e)
+
+    [1974 c. 47](https://www.legislation.gov.uk/ukpga/1974/47).
+
+[^key-c1534a05626a73c57102bb8eaf346c60]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2008/1054/schedule/1) inserted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/3)
+
+[^f01005]: Footnote: (f)
+
+    [2008 c. 22](https://www.legislation.gov.uk/ukpga/2008/22).
+
+[^key-3683d395abe055683153b738de4b0351]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2008/1054/schedule/1) inserted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) (Secondary Legislation) Regulations 2016 (S.I. 2016/211)](https://www.legislation.gov.uk/wsi/2016/211), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/211/regulation/1/2), [Sch. 3 para. 104(2)](https://www.legislation.gov.uk/wsi/2016/211/schedule/3/paragraph/104/2)
+
+[^key-bb16f9b5f940142eed16481b096beaf3]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2008/1054/schedule/1) substituted (1.3.2022) by [The Family Proceedings Fees (Amendment) Order 2022 (S.I. 2022/54)](https://www.legislation.gov.uk/uksi/2022/54), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2022/54/article/1/3), [3(5)](https://www.legislation.gov.uk/uksi/2022/54/article/3/5)
+
+[^f01006]: Footnote: (g)
+
+    [1989 c. 41](https://www.legislation.gov.uk/ukpga/1989/41).
+
+[^key-d955c7f553e8869a28727d413ef53171]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2008/1054/schedule/1) inserted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) (Secondary Legislation) Regulations 2016 (S.I. 2016/211)](https://www.legislation.gov.uk/wsi/2016/211), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/211/regulation/1/2), [Sch. 3 para. 104(3)](https://www.legislation.gov.uk/wsi/2016/211/schedule/3/paragraph/104/3)
+
+[^f01007]: Footnote: (h)
+
+    Section 4A was inserted by section 112 of the Adoption and Children Act [2002 (c.38)](https://www.legislation.gov.uk/ukpga/2002/38) and was amended by section 75 of the Civil Partnership Act [2004 (c.33)](https://www.legislation.gov.uk/ukpga/2004/33).
+
+[^f01008]: Footnote: (i)
+
+    Section 4ZA(1)(c) and (6) were inserted by paragraph 27 of Schedule 6 to the Human Fertilisation and Embryology Act [2008 (c.22)](https://www.legislation.gov.uk/ukpga/2008/22).
+
+[^f01009]: Footnote: (j)
+
+    Section 11J was inserted by section 4(1) of the Children and Adoption Act [2006 (c.20)](https://www.legislation.gov.uk/ukpga/2006/20).
+
+[^f01010]: Footnote: (k)
+
+    Section 11O was inserted by section 5 of the Children and Adoption Act [2006 (c.20)](https://www.legislation.gov.uk/ukpga/2006/20).
+
+[^f01011]: Footnote: (l)
+
+    Sections 14A, 14C and 14D were inserted by section 115 of the Adoption and Children Act [2002 (c.38)](https://www.legislation.gov.uk/ukpga/2002/38).
+
+[^key-d84bb6a8faf14debe96da3be0334cf69]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2008/1054/schedule/1) inserted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) (Secondary Legislation) Regulations 2016 (S.I. 2016/211)](https://www.legislation.gov.uk/wsi/2016/211), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/211/regulation/1/2), [Sch. 3 para. 104(4)](https://www.legislation.gov.uk/wsi/2016/211/schedule/3/paragraph/104/4)
+
+[^key-3b702492f9549c24267ff0a7bcb0b253]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2008/1054/schedule/1) omitted (1.3.2022) by virtue of [The Family Proceedings Fees (Amendment) Order 2022 (S.I. 2022/54)](https://www.legislation.gov.uk/uksi/2022/54), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2022/54/article/1/3), [3(6)](https://www.legislation.gov.uk/uksi/2022/54/article/3/6)
+
+[^f01012]: Footnote: (m)
+
+    Schedule A1 was inserted by Schedule 1 to the Children and Adoption Act [2006 (c.20)](https://www.legislation.gov.uk/ukpga/2006/20).
+
+[^key-6cc31a0ab6fe182b3ec161eaac81ef5e]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2008/1054/schedule/1) inserted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) (Secondary Legislation) Regulations 2016 (S.I. 2016/211)](https://www.legislation.gov.uk/wsi/2016/211), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/211/regulation/1/2), [Sch. 3 para. 104(5)](https://www.legislation.gov.uk/wsi/2016/211/schedule/3/paragraph/104/5)
+
+[^key-d55e4341e1f74e3d75b2d2f1b9dda79e]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2008/1054/schedule/1) inserted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) (Secondary Legislation) Regulations 2016 (S.I. 2016/211)](https://www.legislation.gov.uk/wsi/2016/211), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/211/regulation/1/2), [Sch. 3 para. 104(6)](https://www.legislation.gov.uk/wsi/2016/211/schedule/3/paragraph/104/6)
+
+[^key-778b98957570c5eda346411ac176e972]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2008/1054/schedule/1) inserted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) (Secondary Legislation) Regulations 2016 (S.I. 2016/211)](https://www.legislation.gov.uk/wsi/2016/211), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/211/regulation/1/2), [Sch. 3 para. 104(7)](https://www.legislation.gov.uk/wsi/2016/211/schedule/3/paragraph/104/7)
+
+[^key-05b1fa7bdf711e265d06741c91c7ebbf]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2008/1054/schedule/1) inserted (1.3.2022) by [The Family Proceedings Fees (Amendment) Order 2022 (S.I. 2022/54)](https://www.legislation.gov.uk/uksi/2022/54), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2022/54/article/1/3), [3(7)](https://www.legislation.gov.uk/uksi/2022/54/article/3/7)
+
+[^f01013]: Footnote: (n)
+
+    [2002 c. 38](https://www.legislation.gov.uk/ukpga/2002/38).
+
+[^key-2acc7ee7852a63893c424e022e4a7c67]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2008/1054/schedule/1) substituted (6.4.2015) by [The Family Proceedings Fees (Amendment) Order 2015 (S.I. 2015/687)](https://www.legislation.gov.uk/uksi/2015/687), [arts. 1](https://www.legislation.gov.uk/uksi/2015/687/article/1), [5(b)](https://www.legislation.gov.uk/uksi/2015/687/article/5/b)
+
+[^key-e331c78d66c4e1ed2883e3f4a2189bb0]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2008/1054/schedule/1) inserted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) (Secondary Legislation) Regulations 2016 (S.I. 2016/211)](https://www.legislation.gov.uk/wsi/2016/211), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/211/regulation/1/2), [Sch. 3 para. 104(8)](https://www.legislation.gov.uk/wsi/2016/211/schedule/3/paragraph/104/8)
+
+[^f01014]: Footnote: (o)
+
+    [2006 c. 20](https://www.legislation.gov.uk/ukpga/2006/20).
+
+[^key-0b0fc6f5090f4baaf6cd2108b2a26480]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2008/1054/schedule/1) substituted (6.4.2022) by [The Family Proceedings Fees (Amendment) Order 2022 (S.I. 2022/54)](https://www.legislation.gov.uk/uksi/2022/54), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/54/article/1/2), [3(8)](https://www.legislation.gov.uk/uksi/2022/54/article/3/8) (with [art. 2](https://www.legislation.gov.uk/uksi/2022/54/article/2)); [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)
+
+[^key-e8c30d938a2d788515f257c3a2edbe0e]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2008/1054/schedule/1) inserted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) (Secondary Legislation) Regulations 2016 (S.I. 2016/211)](https://www.legislation.gov.uk/wsi/2016/211), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/211/regulation/1/2), [Sch. 3 para. 104(9)](https://www.legislation.gov.uk/wsi/2016/211/schedule/3/paragraph/104/9)
+
+[^key-07bbb1c50ac97455b8ce86b0903a979b]: Textual amendment: Word in [Sch. 1](https://www.legislation.gov.uk/uksi/2008/1054/schedule/1) substituted (6.4.2022) by [The Family Proceedings Fees (Amendment) Order 2022 (S.I. 2022/54)](https://www.legislation.gov.uk/uksi/2022/54), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/54/article/1/2), [3(9)(a)](https://www.legislation.gov.uk/uksi/2022/54/article/3/9/a) (with [art. 2](https://www.legislation.gov.uk/uksi/2022/54/article/2)); [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)
+
+[^key-69a841a4ad1ff5550ef4befe3d5bacbc]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2008/1054/schedule/1) substituted (6.4.2022) by [The Family Proceedings Fees (Amendment) Order 2022 (S.I. 2022/54)](https://www.legislation.gov.uk/uksi/2022/54), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/54/article/1/2), [3(9)(b)](https://www.legislation.gov.uk/uksi/2022/54/article/3/9/b) (with [art. 2](https://www.legislation.gov.uk/uksi/2022/54/article/2)); [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)
+
+[^key-d5fa2517fac75037e00de467b225103d]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2008/1054/schedule/1) inserted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) (Secondary Legislation) Regulations 2016 (S.I. 2016/211)](https://www.legislation.gov.uk/wsi/2016/211), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/211/regulation/1/2), [Sch. 3 para. 104(10)](https://www.legislation.gov.uk/wsi/2016/211/schedule/3/paragraph/104/10)
+
+[^key-6adcf89871a6a5356f8d666d5aeaeb84]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2008/1054/schedule/1) omitted (1.5.2024) by virtue of [The Court and Tribunal Fees (Miscellaneous Amendments) Order 2024 (S.I. 2024/476)](https://www.legislation.gov.uk/uksi/2024/476), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/476/article/1/1), [7(5)(a)](https://www.legislation.gov.uk/uksi/2024/476/article/7/5/a)
+
+[^key-38fcd6dddd88c6a12d6a87dfc03878bf]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2008/1054/schedule/1) substituted (6.4.2020) by [The Courts and Tribunals (Judiciary and Functions of Staff) Act 2018 (Consequential, Transitional and Saving Provision) Regulations 2020 (S.I. 2020/100)](https://www.legislation.gov.uk/uksi/2020/100), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/100/regulation/1/2), [Sch. para. 12](https://www.legislation.gov.uk/uksi/2020/100/schedule/paragraph/12) (with [reg. 4](https://www.legislation.gov.uk/uksi/2020/100/regulation/4))
+
+[^key-cd115b9e57ab095501aebad0a919d588]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2008/1054/schedule/1) omitted (1.5.2024) by virtue of [The Court and Tribunal Fees (Miscellaneous Amendments) Order 2024 (S.I. 2024/476)](https://www.legislation.gov.uk/uksi/2024/476), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/476/article/1/1), [7(5)(b)](https://www.legislation.gov.uk/uksi/2024/476/article/7/5/b)
+
+[^key-0d5bbc62aecfac593c07e0970d7fcd1a]: Textual amendment: Sum in [Sch. 1](https://www.legislation.gov.uk/uksi/2008/1054/schedule/1) Table substituted (8.4.2025) by [The Court and Tribunal Fees (Miscellaneous Amendments) Order 2025 (S.I. 2025/351)](https://www.legislation.gov.uk/uksi/2025/351), [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/351/article/1/1), [Sch. 5](https://www.legislation.gov.uk/uksi/2025/351/schedule/5)
+
+[^key-964cfe722b1919ea483909560aa2f205]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2008/1054/schedule/1) substituted (1.5.2024) by [The Court and Tribunal Fees (Miscellaneous Amendments) Order 2024 (S.I. 2024/476)](https://www.legislation.gov.uk/uksi/2024/476), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/476/article/1/1), [7(5)(c)(i)](https://www.legislation.gov.uk/uksi/2024/476/article/7/5/c/i)
+
+[^key-129d1d35feff0d7bec69fe7c2a110fda]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2008/1054/schedule/1) substituted (1.5.2024) by [The Court and Tribunal Fees (Miscellaneous Amendments) Order 2024 (S.I. 2024/476)](https://www.legislation.gov.uk/uksi/2024/476), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/476/article/1/1), [7(5)(c)(ii)](https://www.legislation.gov.uk/uksi/2024/476/article/7/5/c/ii)
+
+[^f01017]: Footnote: (r)
+
+    [2012 c. 10](https://www.legislation.gov.uk/ukpga/2012/10).
+
+[^key-1af82926b210c07ee309524f62c785cc]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2008/1054/schedule/1) substituted (1.5.2024) by [The Court and Tribunal Fees (Miscellaneous Amendments) Order 2024 (S.I. 2024/476)](https://www.legislation.gov.uk/uksi/2024/476), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/476/article/1/1), [7(5)(d)](https://www.legislation.gov.uk/uksi/2024/476/article/7/5/d)
+
+[^key-1314cfaee837b7e6a308291edc0c4b4f]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2008/1054/schedule/1) omitted (6.4.2015) by virtue of [The Family Proceedings Fees (Amendment) Order 2015 (S.I. 2015/687)](https://www.legislation.gov.uk/uksi/2015/687), [arts. 1](https://www.legislation.gov.uk/uksi/2015/687/article/1), [5(c)](https://www.legislation.gov.uk/uksi/2015/687/article/5/c)
+
+[^f01019]: Footnote: (t)
+
+    [1950 c. 37](https://www.legislation.gov.uk/ukpga/1950/37).
+
+[^f01020]: Footnote: (u)
+
+    [1958 c. 39](https://www.legislation.gov.uk/ukpga/1958/39).
+
+[^f01021]: Footnote: (v)
+
+    [1978 c. 22](https://www.legislation.gov.uk/ukpga/1978/22).
+
+[^f01022]: Footnote: (w)
+
+    [2004 c. 33](https://www.legislation.gov.uk/ukpga/2004/33).
+
+[^f01023]: Footnote: (x)
+
+    [1971 c. 32](https://www.legislation.gov.uk/ukpga/1971/32).
+
+[^key-bcf9e4a2f009887828d70f6529d149c1]: Textual amendment: Word in [Sch. 1](https://www.legislation.gov.uk/uksi/2008/1054/schedule/1) omitted (6.4.2015) by virtue of [The Family Proceedings Fees (Amendment) Order 2015 (S.I. 2015/687)](https://www.legislation.gov.uk/uksi/2015/687), [arts. 1](https://www.legislation.gov.uk/uksi/2015/687/article/1), [5(d)](https://www.legislation.gov.uk/uksi/2015/687/article/5/d)
+
+[^key-95b3d962e579ec3aa5081b6e8367a80d]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2008/1054/schedule/1) inserted (6.4.2015) by [The Family Proceedings Fees (Amendment) Order 2015 (S.I. 2015/687)](https://www.legislation.gov.uk/uksi/2015/687), [arts. 1](https://www.legislation.gov.uk/uksi/2015/687/article/1), [5(e)](https://www.legislation.gov.uk/uksi/2015/687/article/5/e)
+
+[^key-3cc86040975d056c24cbf1080019110e]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2008/1054/schedule/1) inserted (17.7.2015) by [The Family Proceedings Fees (Amendment No. 2) Order 2015 (S.I. 2015/1419)](https://www.legislation.gov.uk/uksi/2015/1419), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1419/article/1), [2(3)](https://www.legislation.gov.uk/uksi/2015/1419/article/2/3)
+
+[^key-0b6f967cb0e39ab3cd87a7e02fbfd382]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2008/1054/schedule/1) inserted (6.4.2015) by [The Family Proceedings Fees (Amendment) Order 2015 (S.I. 2015/687)](https://www.legislation.gov.uk/uksi/2015/687), [arts. 1](https://www.legislation.gov.uk/uksi/2015/687/article/1), [5(f)](https://www.legislation.gov.uk/uksi/2015/687/article/5/f)
+
+[^key-f1d9ff944bd30072e37dd74c24228d37]: Textual amendment: Sch. 2 substituted (7.10.2013) by [The Courts and Tribunals Fee Remissions Order 2013 (S.I. 2013/2302)](https://www.legislation.gov.uk/uksi/2013/2302), [arts. 1](https://www.legislation.gov.uk/uksi/2013/2302/article/1), [2(a)](https://www.legislation.gov.uk/uksi/2013/2302/article/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2013/2302/schedule) (with [art. 13](https://www.legislation.gov.uk/uksi/2013/2302/article/13))
+
+[^key-a065b3482019b507c34a0a20fa62f3fb]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2008/1054/schedule/2) substituted (6.4.2014) by [The Courts and Tribunals Fees (Miscellaneous Amendments) Order 2014 (S.I. 2014/590)](https://www.legislation.gov.uk/uksi/2014/590), [arts. 1](https://www.legislation.gov.uk/uksi/2014/590/article/1), [5(3)](https://www.legislation.gov.uk/uksi/2014/590/article/5/3)
+
+[^key-d9f93fe0a5e0465562dc87d61503cf53]: Textual amendment: Words in [Sch. 2 para. 1(1)](https://www.legislation.gov.uk/uksi/2008/1054/schedule/2/paragraph/1/1) omitted (27.11.2023) by virtue of [The Courts and Tribunals (Fee Remissions and Miscellaneous Amendments) Order 2023 (S.I. 2023/1094)](https://www.legislation.gov.uk/uksi/2023/1094), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1094/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/1094/article/2/1)[(2)(a)](https://www.legislation.gov.uk/uksi/2023/1094/article/2/2/a) (with [art. 6](https://www.legislation.gov.uk/uksi/2023/1094/article/6))
+
+[^key-70ce5d1fdd47e0a01fc6d10a6e45cedb]: Textual amendment: Words in [Sch. 2 para. 1(1)](https://www.legislation.gov.uk/uksi/2008/1054/schedule/2/paragraph/1/1) inserted (27.11.2023) by [The Courts and Tribunals (Fee Remissions and Miscellaneous Amendments) Order 2023 (S.I. 2023/1094)](https://www.legislation.gov.uk/uksi/2023/1094), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1094/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/1094/article/2/1)[(2)(b)](https://www.legislation.gov.uk/uksi/2023/1094/article/2/2/b) (with [art. 6](https://www.legislation.gov.uk/uksi/2023/1094/article/6))
+
+[^key-62f5417c28f122ade9420ac0596abdd4]: Textual amendment: Words in [Sch. 2 para. 1(1)](https://www.legislation.gov.uk/uksi/2008/1054/schedule/2/paragraph/1/1) omitted (6.4.2016) by virtue of [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) (Secondary Legislation) Regulations 2016 (S.I. 2016/211)](https://www.legislation.gov.uk/wsi/2016/211), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/211/regulation/1/2), [Sch. 3 para. 193(a)](https://www.legislation.gov.uk/wsi/2016/211/schedule/3/paragraph/193/a)
+
+[^key-87d5137be46fe5f250b4270d3cc683a8]: Textual amendment: Word in [Sch. 2](https://www.legislation.gov.uk/uksi/2008/1054/schedule/2) omitted (6.4.2015) by virtue of [The Family Proceedings Fees (Amendment) Order 2015 (S.I. 2015/687)](https://www.legislation.gov.uk/uksi/2015/687), [arts. 1](https://www.legislation.gov.uk/uksi/2015/687/article/1), [6(a)](https://www.legislation.gov.uk/uksi/2015/687/article/6/a)
+
+[^key-caed0f0f012f12286d84dbb38a5395fa]: Textual amendment: Word in [Sch. 2 para. 1(1)](https://www.legislation.gov.uk/uksi/2008/1054/schedule/2/paragraph/1/1) omitted (6.4.2016) by virtue of [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) (Secondary Legislation) Regulations 2016 (S.I. 2016/211)](https://www.legislation.gov.uk/wsi/2016/211), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/211/regulation/1/2), [Sch. 3 para. 193(b)](https://www.legislation.gov.uk/wsi/2016/211/schedule/3/paragraph/193/b)
+
+[^key-0388fdfb5230d8b9359db9cfff104ba6]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2008/1054/schedule/2) inserted (6.4.2015) by [The Family Proceedings Fees (Amendment) Order 2015 (S.I. 2015/687)](https://www.legislation.gov.uk/uksi/2015/687), [arts. 1](https://www.legislation.gov.uk/uksi/2015/687/article/1), [6(b)](https://www.legislation.gov.uk/uksi/2015/687/article/6/b)
+
+[^key-b14070aa8d8fa32fd19558cc5675f392]: Textual amendment: Words in [Sch. 2 para. 1(1)](https://www.legislation.gov.uk/uksi/2008/1054/schedule/2/paragraph/1/1) inserted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) (Secondary Legislation) Regulations 2016 (S.I. 2016/211)](https://www.legislation.gov.uk/wsi/2016/211), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/211/regulation/1/2), [Sch. 3 para. 193(c)](https://www.legislation.gov.uk/wsi/2016/211/schedule/3/paragraph/193/c)
+
+[^key-69d68a00baaf1f8193bd3894d523a6f6]: Textual amendment: Words in [Sch. 2 para. 1(1)](https://www.legislation.gov.uk/uksi/2008/1054/schedule/2/paragraph/1/1) omitted (27.11.2023) by virtue of [The Courts and Tribunals (Fee Remissions and Miscellaneous Amendments) Order 2023 (S.I. 2023/1094)](https://www.legislation.gov.uk/uksi/2023/1094), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1094/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/1094/article/2/1)[(2)(c)](https://www.legislation.gov.uk/uksi/2023/1094/article/2/2/c) (with [art. 6](https://www.legislation.gov.uk/uksi/2023/1094/article/6))
+
+[^key-c9d05790fd4ebbba8f83fd68fc50d7db]: Textual amendment: Words in [Sch. 2 para. 1(1)](https://www.legislation.gov.uk/uksi/2008/1054/schedule/2/paragraph/1/1) substituted (6.4.2017) by [The Pensions Act 2014 (Consequential, Supplementary and Incidental Amendments) Order 2017 (S.I. 2017/422)](https://www.legislation.gov.uk/uksi/2017/422), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2017/422/article/1/2), [34(a)](https://www.legislation.gov.uk/uksi/2017/422/article/34/a) (with [arts. 2](https://www.legislation.gov.uk/uksi/2017/422/article/2), [3](https://www.legislation.gov.uk/uksi/2017/422/article/3)); [S.I. 2017/297](https://www.legislation.gov.uk/uksi/2017/297), [art. 3(1)(b)](https://www.legislation.gov.uk/uksi/2017/297/article/3/1/b)
+
+[^key-44b743a280b5e5eee23352b05afe3ce4]: Textual amendment: [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2008/1054/schedule/2/paragraph/3) substituted (27.11.2023) by [The Courts and Tribunals (Fee Remissions and Miscellaneous Amendments) Order 2023 (S.I. 2023/1094)](https://www.legislation.gov.uk/uksi/2023/1094), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1094/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/1094/article/2/1)[(3)](https://www.legislation.gov.uk/uksi/2023/1094/article/2/3) (with [art. 6](https://www.legislation.gov.uk/uksi/2023/1094/article/6))
+
+[^key-02ffe2e9fb5a5d599ad1d77017ee375c]: Textual amendment: [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2008/1054/schedule/2/paragraph/4) heading inserted (27.11.2023) by [The Courts and Tribunals (Fee Remissions and Miscellaneous Amendments) Order 2023 (S.I. 2023/1094)](https://www.legislation.gov.uk/uksi/2023/1094), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1094/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/1094/article/2/1)[(4)(a)](https://www.legislation.gov.uk/uksi/2023/1094/article/2/4/a) (with [art. 6](https://www.legislation.gov.uk/uksi/2023/1094/article/6))
+
+[^key-84e2561e6a8a3f04799840735fed704f]: Textual amendment: Word in [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2008/1054/schedule/2/paragraph/4) substituted (27.11.2023) by [The Courts and Tribunals (Fee Remissions and Miscellaneous Amendments) Order 2023 (S.I. 2023/1094)](https://www.legislation.gov.uk/uksi/2023/1094), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1094/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/1094/article/2/1)[(4)(b)](https://www.legislation.gov.uk/uksi/2023/1094/article/2/4/b) (with [art. 6](https://www.legislation.gov.uk/uksi/2023/1094/article/6))
+
+[^key-1da86c5dfa0d3d4cb8427ee69449ab7e]: Textual amendment: [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2008/1054/schedule/2/paragraph/5/1) renumbered as Sch. 2 para. 5(1) (27.11.2023) by [The Courts and Tribunals (Fee Remissions and Miscellaneous Amendments) Order 2023 (S.I. 2023/1094)](https://www.legislation.gov.uk/uksi/2023/1094), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1094/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/1094/article/2/1)[(5)(a)](https://www.legislation.gov.uk/uksi/2023/1094/article/2/5/a) (with [art. 6](https://www.legislation.gov.uk/uksi/2023/1094/article/6))
+
+[^key-068e83467823655c0674bb572a28ebcb]: Textual amendment: Words in [Sch. 2 para. 5(1)](https://www.legislation.gov.uk/uksi/2008/1054/schedule/2/paragraph/5/1) substituted (27.11.2023) by [The Courts and Tribunals (Fee Remissions and Miscellaneous Amendments) Order 2023 (S.I. 2023/1094)](https://www.legislation.gov.uk/uksi/2023/1094), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1094/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/1094/article/2/1)[(5)(b)](https://www.legislation.gov.uk/uksi/2023/1094/article/2/5/b) (with [art. 6](https://www.legislation.gov.uk/uksi/2023/1094/article/6))
+
+[^key-532967a938ed9a4bdde63f350080f7fc]: Textual amendment: [Sch. 2 para. 5(2)](https://www.legislation.gov.uk/uksi/2008/1054/schedule/2/paragraph/5/2) inserted (27.11.2023) by [The Courts and Tribunals (Fee Remissions and Miscellaneous Amendments) Order 2023 (S.I. 2023/1094)](https://www.legislation.gov.uk/uksi/2023/1094), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1094/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/1094/article/2/1)[(5)(c)](https://www.legislation.gov.uk/uksi/2023/1094/article/2/5/c) (with [art. 6](https://www.legislation.gov.uk/uksi/2023/1094/article/6))
+
+[^key-cbd5feba385fbf4b9c3f726836b6f4a5]: Textual amendment: Words in [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2008/1054/schedule/2/paragraph/6) substituted (27.11.2023) by [The Courts and Tribunals (Fee Remissions and Miscellaneous Amendments) Order 2023 (S.I. 2023/1094)](https://www.legislation.gov.uk/uksi/2023/1094), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1094/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/1094/article/2/1)[(6)](https://www.legislation.gov.uk/uksi/2023/1094/article/2/6) (with [art. 6](https://www.legislation.gov.uk/uksi/2023/1094/article/6))
+
+[^key-d710c77632610b43709f93a1610cef54]: Textual amendment: [Sch. 2 para. 7](https://www.legislation.gov.uk/uksi/2008/1054/schedule/2/paragraph/7) substituted (27.11.2023) by [The Courts and Tribunals (Fee Remissions and Miscellaneous Amendments) Order 2023 (S.I. 2023/1094)](https://www.legislation.gov.uk/uksi/2023/1094), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1094/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/1094/article/2/1)[(7)](https://www.legislation.gov.uk/uksi/2023/1094/article/2/7) (with [art. 6](https://www.legislation.gov.uk/uksi/2023/1094/article/6))
+
+[^key-e5a5dfed7dcb151f5fd16f6022864d1c]: Textual amendment: Words in [Sch. 2 para. 9](https://www.legislation.gov.uk/uksi/2008/1054/schedule/2/paragraph/9) substituted (27.11.2023) by [The Courts and Tribunals (Fee Remissions and Miscellaneous Amendments) Order 2023 (S.I. 2023/1094)](https://www.legislation.gov.uk/uksi/2023/1094), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1094/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/1094/article/2/1)[(8)](https://www.legislation.gov.uk/uksi/2023/1094/article/2/8) (with [art. 6](https://www.legislation.gov.uk/uksi/2023/1094/article/6))
+
+[^key-4a6c0ad3de0bd05c8c46e758e5bf5829]: Textual amendment: [Sch. 2 para. 10(b)](https://www.legislation.gov.uk/uksi/2008/1054/schedule/2/paragraph/10/b) omitted (27.11.2023) by virtue of [The Courts and Tribunals (Fee Remissions and Miscellaneous Amendments) Order 2023 (S.I. 2023/1094)](https://www.legislation.gov.uk/uksi/2023/1094), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1094/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/1094/article/2/1)[(9)(a)](https://www.legislation.gov.uk/uksi/2023/1094/article/2/9/a) (with [art. 6](https://www.legislation.gov.uk/uksi/2023/1094/article/6))
+
+[^key-59a182e2a66c05ed05f82142bd01e8f1]: Textual amendment: [Sch. 2 para. 10(c)](https://www.legislation.gov.uk/uksi/2008/1054/schedule/2/paragraph/10/c) omitted (27.11.2023) by virtue of [The Courts and Tribunals (Fee Remissions and Miscellaneous Amendments) Order 2023 (S.I. 2023/1094)](https://www.legislation.gov.uk/uksi/2023/1094), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1094/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/1094/article/2/1)[(9)(a)](https://www.legislation.gov.uk/uksi/2023/1094/article/2/9/a) (with [art. 6](https://www.legislation.gov.uk/uksi/2023/1094/article/6))
+
+[^key-1e583f4cb374d983a83957db0802c05e]: Textual amendment: [Sch. 2 para. 10(e)](https://www.legislation.gov.uk/uksi/2008/1054/schedule/2/paragraph/10/e) omitted (27.11.2023) by virtue of [The Courts and Tribunals (Fee Remissions and Miscellaneous Amendments) Order 2023 (S.I. 2023/1094)](https://www.legislation.gov.uk/uksi/2023/1094), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1094/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/1094/article/2/1)[(9)(a)](https://www.legislation.gov.uk/uksi/2023/1094/article/2/9/a) (with [art. 6](https://www.legislation.gov.uk/uksi/2023/1094/article/6))
+
+[^key-13e3fa037d60e83ae2a1d42b3c7344cc]: Textual amendment: Sch. 2 para. 10(n) substituted (6.4.2017) by [The Pensions Act 2014 (Consequential, Supplementary and Incidental Amendments) Order 2017 (S.I. 2017/422)](https://www.legislation.gov.uk/uksi/2017/422), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2017/422/article/1/2), [34(b)](https://www.legislation.gov.uk/uksi/2017/422/article/34/b) (with [arts. 2](https://www.legislation.gov.uk/uksi/2017/422/article/2), [3](https://www.legislation.gov.uk/uksi/2017/422/article/3)); [S.I. 2017/297](https://www.legislation.gov.uk/uksi/2017/297), [art. 3(1)(b)](https://www.legislation.gov.uk/uksi/2017/297/article/3/1/b)
+
+[^key-56e99661d6a3ce2439bee5393128d086]: Textual amendment: [Sch. 2 paras. 10(r)-(zf)](https://www.legislation.gov.uk/uksi/2008/1054/schedule/2/paragraph/10/r) inserted (27.11.2023) by [The Courts and Tribunals (Fee Remissions and Miscellaneous Amendments) Order 2023 (S.I. 2023/1094)](https://www.legislation.gov.uk/uksi/2023/1094), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1094/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/1094/article/2/1)[(9)(b)](https://www.legislation.gov.uk/uksi/2023/1094/article/2/9/b) (with [art. 6](https://www.legislation.gov.uk/uksi/2023/1094/article/6))
+
+[^key-eb3dcdff6fa13606eaa294653ff2edab]: Textual amendment: [Sch. 2 para. 11](https://www.legislation.gov.uk/uksi/2008/1054/schedule/2/paragraph/11) substituted (27.11.2023) by [The Courts and Tribunals (Fee Remissions and Miscellaneous Amendments) Order 2023 (S.I. 2023/1094)](https://www.legislation.gov.uk/uksi/2023/1094), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1094/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/1094/article/2/1)[(10)](https://www.legislation.gov.uk/uksi/2023/1094/article/2/10) (with [art. 6](https://www.legislation.gov.uk/uksi/2023/1094/article/6))
+
+[^key-0361efbe6aa2a3471397d6e68cce1995]: Textual amendment: [Sch. 2 para. 11A](https://www.legislation.gov.uk/uksi/2008/1054/schedule/2/paragraph/11A) inserted (27.11.2023) by [The Courts and Tribunals (Fee Remissions and Miscellaneous Amendments) Order 2023 (S.I. 2023/1094)](https://www.legislation.gov.uk/uksi/2023/1094), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1094/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/1094/article/2/1)[(11)](https://www.legislation.gov.uk/uksi/2023/1094/article/2/11) (with [art. 6](https://www.legislation.gov.uk/uksi/2023/1094/article/6))
+
+[^key-777a15373b3eacc6594cb9d127f15078]: Textual amendment: [Sch. 2 para. 12](https://www.legislation.gov.uk/uksi/2008/1054/schedule/2/paragraph/12) substituted (27.11.2023) by [The Courts and Tribunals (Fee Remissions and Miscellaneous Amendments) Order 2023 (S.I. 2023/1094)](https://www.legislation.gov.uk/uksi/2023/1094), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1094/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/1094/article/2/1)[(12)](https://www.legislation.gov.uk/uksi/2023/1094/article/2/12) (with [art. 6](https://www.legislation.gov.uk/uksi/2023/1094/article/6))
+
+[^key-35fba4cbfb62625078fc37fa49344760]: Textual amendment: [Sch. 2 para. 13](https://www.legislation.gov.uk/uksi/2008/1054/schedule/2/paragraph/13) substituted (27.11.2023) by [The Courts and Tribunals (Fee Remissions and Miscellaneous Amendments) Order 2023 (S.I. 2023/1094)](https://www.legislation.gov.uk/uksi/2023/1094), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1094/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/1094/article/2/1)[(13)](https://www.legislation.gov.uk/uksi/2023/1094/article/2/13) (with [art. 6](https://www.legislation.gov.uk/uksi/2023/1094/article/6))
+
+[^key-976bc590146aab3b88b29eab355990b5]: Textual amendment: Words in [Sch. 2 para. 15(2)(c)](https://www.legislation.gov.uk/uksi/2008/1054/schedule/2/paragraph/15/2/c) substituted (27.11.2023) by [The Courts and Tribunals (Fee Remissions and Miscellaneous Amendments) Order 2023 (S.I. 2023/1094)](https://www.legislation.gov.uk/uksi/2023/1094), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1094/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/1094/article/2/1)[(14)(a)](https://www.legislation.gov.uk/uksi/2023/1094/article/2/14/a) (with [art. 6](https://www.legislation.gov.uk/uksi/2023/1094/article/6))
+
+[^key-ae967d73ae0aabbd478cf51eeb322495]: Textual amendment: Words in [Sch. 2 para. 15(3)](https://www.legislation.gov.uk/uksi/2008/1054/schedule/2/paragraph/15/3) omitted (27.11.2023) by virtue of [The Courts and Tribunals (Fee Remissions and Miscellaneous Amendments) Order 2023 (S.I. 2023/1094)](https://www.legislation.gov.uk/uksi/2023/1094), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1094/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/1094/article/2/1)[(14)(b)](https://www.legislation.gov.uk/uksi/2023/1094/article/2/14/b) (with [art. 6](https://www.legislation.gov.uk/uksi/2023/1094/article/6))
+
+[^key-95285baee2261a21ba3a7b1fd2bbfa67]: Textual amendment: [Sch. 2 para. 15(5)](https://www.legislation.gov.uk/uksi/2008/1054/schedule/2/paragraph/15/5)[(6)](https://www.legislation.gov.uk/uksi/2008/1054/schedule/2/paragraph/15/6) inserted (27.11.2023) by [The Courts and Tribunals (Fee Remissions and Miscellaneous Amendments) Order 2023 (S.I. 2023/1094)](https://www.legislation.gov.uk/uksi/2023/1094), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1094/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/1094/article/2/1)[(14)(c)](https://www.legislation.gov.uk/uksi/2023/1094/article/2/14/c) (with [art. 6](https://www.legislation.gov.uk/uksi/2023/1094/article/6))
+
+[^key-5e3864766454df1869660f5054301f61]: Textual amendment: Words in [Sch. 2 para. 17(2)](https://www.legislation.gov.uk/uksi/2008/1054/schedule/2/paragraph/17/2) substituted (27.11.2023) by [The Courts and Tribunals (Fee Remissions and Miscellaneous Amendments) Order 2023 (S.I. 2023/1094)](https://www.legislation.gov.uk/uksi/2023/1094), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1094/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/1094/article/2/1)[(15)](https://www.legislation.gov.uk/uksi/2023/1094/article/2/15) (with [art. 6](https://www.legislation.gov.uk/uksi/2023/1094/article/6))
+
+[^key-a603b973a6a06321d69cf668931f5dc1]: Commencement: Sch. 3 in force at 1.5.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/1054/article/1/1)

@@ -1,0 +1,33 @@
+---
+title: Policing and Crime Act 2017, section 111
+act: Policing and Crime Act 2017
+section: '111'
+status: revised-with-pending-changes
+text_date: '2026-06-29'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2017/3/section/111
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Policing and Crime Act 2017, section 111
+
+> **Warning: changes not yet applied to this text (13).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2017/3
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 111. Power of arrest and seizure[^c22719501]
+
+*Extent: N.I.*
+
+(1) This section applies if a law enforcement officer has reasonable grounds to suspect that an offence under the law of Northern Ireland has been, or is being, committed on a ship in relation to which the powers conferred by this section are exercisable by virtue of section 107.
+
+(2) The law enforcement officer may arrest without warrant anyone whom the officer has reasonable grounds for suspecting to be guilty of the offence.
+
+(3) The law enforcement officer may seize and retain anything found on the ship which appears to the officer to be evidence of the offence, other than anything that the officer has reasonable grounds to believe to be an item subject to legal privilege.
+
+(4) The power of a law enforcement officer under subsection (2) or (3) may be exercised on the ship or elsewhere.
+
+## Annotations
+
+[^c22719501]: Commencement: [S. 111](https://www.legislation.gov.uk/ukpga/2017/3/section/111) in force for specified purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)

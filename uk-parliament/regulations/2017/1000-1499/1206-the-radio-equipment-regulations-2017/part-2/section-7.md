@@ -1,0 +1,23 @@
+---
+title: The Radio Equipment Regulations 2017, section 7
+act: The Radio Equipment Regulations 2017
+section: '7'
+status: revised-with-pending-changes
+text_date: '2026-01-05'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2017/1206/section/7
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Radio Equipment Regulations 2017, section 7
+
+> **Warning: changes not yet applied to this text (2).** Text as at 2026-01-05. See https://www.legislation.gov.uk/changes/affected/uksi/2017/1206
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 7. Design and manufacture in accordance with essential requirements
+
+*Extent: E+W+S+N.I.*
+
+Before placing radio equipment on the market, a manufacturer must ensure that it has been designed and manufactured in accordance with the essential requirements.

@@ -1,0 +1,194 @@
+---
+title: Digital Switchover (Disclosure of Information) Act 2007
+id: ukpga/2007/8
+type: UnitedKingdomPublicGeneralAct
+category: primary
+status: revised-with-pending-changes
+made_date: '2007-06-18'
+text_date: '2023-10-18'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2007/8
+pdf_urls:
+- http://www.legislation.gov.uk/ukpga/2007/8/pdfs/ukpgaen_20070008_en.pdf
+- http://www.legislation.gov.uk/ukpga/2007/8/pdfs/ukpga_20070008_en.pdf
+- http://www.legislation.gov.uk/ukpga/2007/8/data.pdf
+pending_changes: 1
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Digital Switchover (Disclosure of Information) Act 2007
+
+> **Warning: changes not yet applied to this text (1).** Text as at 2023-10-18. See https://www.legislation.gov.uk/changes/affected/ukpga/2007/8
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+Digital Switchover (Disclosure of Information) Act 2007
+
+2007 c. 8
+
+An Act to make provision about the disclosure of certain information for purposes connected with digital switchover.
+
+\[18th June 2007\]
+
+Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
+
+## 1. Disclosure of information[^key-3e0d1ad7661722d716a4e1ce1e8fce3f]
+
+(1) The Secretary of State and the Northern Ireland department may, at the request of a relevant person, supply a relevant person with social security information for use (by the person to whom it is supplied or by another relevant person) in connection with switchover help functions.
+
+(2) The Secretary of State may, at the request of a relevant person, supply a relevant person with war pensions information for use (by the person to whom it is supplied or by another relevant person) in connection with switchover help functions.
+
+(3) A local authority or, in Northern Ireland, a Health and Social Services Board may, at the request of a relevant person, supply a relevant person with visual impairment information for use (by the person to whom it is supplied or by another relevant person) in connection with switchover help functions.
+
+(4) In this Act “**relevant person**” means—
+
+- (a) the BBC;
+- (b) any company in respect of which any one or more of the following—
+  - (i) the BBC,
+  - (ii) the Secretary of State, or
+  - (iii) a nominee of the BBC or the Secretary of State,
+
+  hold at least 51% of the issued ordinary share capital or possess at least 51% of the voting rights;
+- (c) any person who is engaged by the BBC, the Secretary of State or any company falling within paragraph (b) to provide any service connected with switchover help functions, to carry out a switchover help function or to carry out any function connected with switchover help functions.
+
+(5) In this Act “**switchover help functions**” means—
+
+- (a) the identification of persons who may be eligible for help under a switchover help scheme;
+- (b) making contact with such persons with a view to the provision of such help; and
+- (c) the establishment of any person's entitlement to such help.
+
+## 2. Kinds of information referred to in section 1[^key-3e0d1ad7661722d716a4e1ce1e8fce3f]
+
+(1) This section applies for the purposes of section 1.
+
+(2) “**Social security information**” means—
+
+- (a) in relation to the Secretary of State, information of a prescribed description held by him (or on his behalf) and obtained as a result of, or for the purpose of, the exercise of functions of his in relation to social security;
+- (b) in relation to the Northern Ireland department, information of a prescribed description held by the department (or on its behalf) and obtained as a result of, or for the purpose of, the exercise of the functions of the department in relation to social security.
+
+(3) “**War pensions information**” means information of a prescribed description held by the Secretary of State (or on his behalf) and obtained as a result of, or for the purpose of, the exercise of functions of his relating to war pensions, as defined by section 25(4) of the Social Security Act 1989 (c. 24).
+
+(4) “**Visual impairment information**” means information of a prescribed description about persons who—
+
+- (a) are registered as blind or partially sighted in a register maintained by or on behalf of a local authority in England or Wales under section 29 of the National Assistance Act 1948 (c. 29) (welfare services),
+- (b) have been certified as blind or partially sighted in Scotland and in consequence are registered as blind or partially sighted in a register maintained by or on behalf of a local authority in Scotland, or
+- (c) have been certified as blind in Northern Ireland and in consequence are registered as blind in a register maintained by or on behalf of a Health and Social Services Board in Northern Ireland.
+
+(5) In this section “**prescribed**” means prescribed by order made by the Secretary of State by statutory instrument.
+
+(6) A statutory instrument containing an order under this section is subject to annulment in pursuance of a resolution of either House of Parliament.
+
+(7) An order under this section may make different provision in relation to different cases.
+
+## 3. Offences[^key-3e0d1ad7661722d716a4e1ce1e8fce3f]
+
+(1) A relevant person must not disclose without lawful authority any information supplied to him or another relevant person under section 1.
+
+(2) A person—
+
+- (a) who is or who has been employed by a relevant person,
+- (b) who is or who has been engaged—
+  - (i) in the provision of services to a relevant person in connection with the carrying out of a switchover help function, or
+  - (ii) to carry out any switchover help function, or to carry out any function in connection with the carrying out of a switchover help function, or
+- (c) who is or who has been employed by, or who is or who has been engaged in the provision of services to, or to carry out a function for, a person mentioned in paragraph (b),
+
+must not disclose without lawful authority information supplied to a relevant person under section 1.
+
+(3) A person who contravenes subsection (1) or (2) commits an offence.
+
+(4) It is not an offence under this section—
+
+- (a) to disclose information in the form of a summary or collection of information so framed as not to enable information supplied under section 1 relating to any particular person to be ascertained from it; or
+- (b) to disclose information which has previously been disclosed to the public with lawful authority.
+
+(5) It is a defence for a person charged with an offence under this section to prove that at the time of the alleged offence he believed—
+
+- (a) that he was making the disclosure in question with lawful authority, or
+- (b) that the information in question had previously been disclosed to the public with lawful authority,
+
+and that he had no reasonable cause to believe otherwise.
+
+(6) For the purposes of this section, a disclosure is to be regarded as made with lawful authority if, but only if, it is made—
+
+- (a) for the purpose of carrying out a switchover help function, or for doing anything connected with the carrying out of a switchover help function;
+- (b) in accordance with any enactment or court order;
+- (c) for the purpose of instituting, or otherwise for the purposes of, proceedings before a court; or
+- (d) with the consent of the person to whom the information relates or of any person authorised to act on that person's behalf.
+
+(7) A person guilty of an offence under this section is liable—
+
+- (a) on conviction on indictment, to imprisonment for a term not exceeding two years, or to a fine, or both; or
+- (b) on summary conviction to imprisonment for a term not exceeding 12 months or to a fine not exceeding the statutory maximum, or both.
+
+*Extent: E+W*
+
+(7A)[^key-d1f314f1fabdd404445acb8270759713] In the application of this section in England and Wales, the reference in subsection (7)(b) to 12 months is to be read as a reference to the general limit in a magistrates’ court (or to 6 months in relation to an offence committed before 2 May 2022).
+
+(8) In the application of this section—
+
+- (a)[^key-fe3ca120decd9dde3b2ee254f12cf1ef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) in Scotland, until the commencement of section 45(1) of the Criminal Proceedings etc. (Reform) (Scotland) Act 2007 (asp 6), or
+- (c) in Northern Ireland,
+
+the reference in subsection (7)(b) to 12 months is to be read as a reference to 6 months.
+
+## 4. Liability of directors etc[^key-3e0d1ad7661722d716a4e1ce1e8fce3f]
+
+(1) If an offence under section 3 committed by a body corporate is shown—
+
+- (a) to have been committed with the consent or connivance of an officer, or
+- (b) to be attributable to any neglect on his part,
+
+the officer as well as the body corporate is guilty of the offence and liable to be proceeded against and punished accordingly.
+
+(2) If the affairs of a body corporate are managed by its members, subsection (1) applies in relation to the acts and defaults of a member in connection with his functions of management as if he were a director of the body.
+
+(3) “**Officer**”, in relation to a body corporate, means a director, member of the committee of management, chief executive, manager, secretary or other similar officer of the body, or a person purporting to act in any such capacity.
+
+## 5. Interpretation[^key-3e0d1ad7661722d716a4e1ce1e8fce3f]
+
+(1) In this Act—
+
+- “**the BBC**” means the British Broadcasting Corporation;
+- “**local authority**” means—
+  - (a) in relation to England—
+    - (i) a county council,
+    - (ii) a district council, other than a council for a district in a county for which there is a county council,
+    - (iii) a London borough council,
+    - (iv) the Common Council of the City of London, in its capacity as a local authority, or
+    - (v) the Council of the Isles of Scilly,
+  - (b) in relation to Wales, a county council or a county borough council, and
+  - (c) in relation to Scotland, a council constituted under section 2 of the Local Government etc. (Scotland) Act 1994 (c. 39);
+- “**the Northern Ireland department**” means the Northern Ireland department having responsibility for social security;
+- “**relevant person**” has the meaning given by section 1(4);
+- “**switchover help functions**” has the meaning given by section 1(5);
+- “**switchover help scheme**” means any scheme for the provision of help to individuals in connection with digital switchover which is agreed between the BBC and the Secretary of State in pursuance of the BBC Charter and Agreement, as the scheme has effect from time to time.
+
+(2) In this section—
+
+- “**digital switchover**” means the replacement of the broadcasting of television services in the United Kingdom in analogue form with their broadcasting in digital form;
+- “**the BBC Charter and Agreement**” means the following documents, or any one or more of them, so far as they are for the time being in force—
+  - (a) a Royal Charter for the continuance of the BBC;
+  - (b) supplemental Charters obtained by the BBC under such a Royal Charter;
+  - (c) an agreement between the BBC and the Secretary of State entered into (whether before or after the passing of this Act) for purposes that include the regulation of activities carried on by the BBC;
+- “**broadcasting**” means broadcasting by wireless telegraphy (as defined by section 116 of the Wireless Telegraphy Act 2006 (c. 36)) otherwise than by satellite.
+
+## 6. Short title and extent
+
+(1) This Act may be cited as the Digital Switchover (Disclosure of Information) Act 2007.
+
+(2) This Act extends to England and Wales, Scotland and Northern Ireland.
+
+(3) Her Majesty may by Order in Council provide for any of the provisions of this Act to extend, with or without modifications, to the Isle of Man.
+
+## Annotations
+
+[^key-3e0d1ad7661722d716a4e1ce1e8fce3f]: Modification: [Ss. 1-5](https://www.legislation.gov.uk/ukpga/2007/8/section/1) extended (Isle of Man) (with modifications) (1.1.2008) by [Digital Switchover (Disclosure of Information) (Isle of Man) Order 2007 (S.I. 2007/3472)](https://www.legislation.gov.uk/uksi/2007/3472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/3472/article/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2007/3472/schedule)
+
+[^key-d1f314f1fabdd404445acb8270759713]: Textual amendment: [S. 3(7A)](https://www.legislation.gov.uk/ukpga/2007/8/section/3/7A) inserted (E.W.) (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [13(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/13/2) (as amended (18.10.2023) by [S.I. 2023/1108](https://www.legislation.gov.uk/uksi/2023/1108), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1108/regulation/1/2), [3(1)](https://www.legislation.gov.uk/uksi/2023/1108/regulation/3/1))
+
+[^key-fe3ca120decd9dde3b2ee254f12cf1ef]: Textual amendment: [S. 3(8)(a)](https://www.legislation.gov.uk/ukpga/2007/8/section/3/8/a) omitted (E.W.) (7.2.2023 at 12.00 p.m.) by virtue of [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [13(3)](https://www.legislation.gov.uk/uksi/2023/149/regulation/13/3)

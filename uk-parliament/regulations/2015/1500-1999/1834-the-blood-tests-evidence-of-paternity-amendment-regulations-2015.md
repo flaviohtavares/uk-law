@@ -1,0 +1,253 @@
+---
+title: The Blood Tests (Evidence of Paternity) (Amendment) Regulations 2015
+id: uksi/2015/1834
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2015-10-21'
+text_date: '2016-01-11'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2015/1834
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2015/1834/pdfs/uksiem_20151834_en.pdf
+- http://www.legislation.gov.uk/uksi/2015/1834/pdfs/uksi_20151834_en.pdf
+- http://www.legislation.gov.uk/uksi/2015/1834/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Blood Tests (Evidence of Paternity) (Amendment) Regulations 2015
+
+> Text as at 2016-01-11.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2015 No. 1834
+
+Evidence
+
+The Blood Tests (Evidence of Paternity) (Amendment) Regulations 2015
+
+Made
+
+21st October 2015
+
+Laid before Parliament
+
+30th October 2015
+
+Coming into force
+
+23rd November 2015
+
+The Lord Chancellor makes the following Regulations in exercise of the powers in section 22(1) of the Family Law Reform Act 1969[^f00001].
+
+## 1. Citation and commencement[^key-5fe813841ae3f5619519a28fcb784cfc]
+
+These Regulations may be cited as the Blood Tests (Evidence of Paternity) (Amendment) Regulations 2015 and come into force on 23rd November 2015.
+
+## 2. Amendment of the Blood Tests (Evidence of Paternity) Regulations 1971[^key-fd85dd569b067e8831dff56f46027785]
+
+(1) The Blood Tests (Evidence of Paternity) Regulations 1971[^f00002] are amended as follows.
+
+(2) In regulation 2 (interpretation)[^f00003]—
+
+- (a) in paragraph (1)—
+  - (i) in the definition of “photograph” after “of” insert “at least”; and
+  - (ii) for the definition of “sampler” substitute—
+
+    > - “sampler” has the meaning given in paragraph (4) and is subject to the provisions of paragraphs (5) and (6);
+
+    ; and
+- (b) after paragraph (3), insert—
+
+  > (4) In these Regulations, subject to the provisions of paragraphs (5) and (6), “sampler” means—
+  >
+  > - (a) a registered medical practitioner;
+  > - (b) a person who is under the supervision of a registered medical practitioner and who is—
+  >   - (i) a registered nurse; or
+  >   - (ii) a registered biomedical scientist;
+  > - (c) a tester;
+  > - (d) an officer of the Service, within the meaning given by section 11(3) of the Criminal Justice and Court Services Act 2000[^f00004];
+  > - (e) a Welsh family proceedings officer, within the meaning given by section 35(4) of the Children Act 2004[^f00005]; or
+  > - (f) a person, not being someone within sub-paragraphs (a) or (b), who is appointed by a tester to be a sampler.
+  >
+  > (5) A sampler who is within sub-paragraph (d) or (e) in the definition of “sampler” in paragraph (4) may only be involved in the obtaining of samples where—
+  >
+  > - (a) the court has given a direction of its own initiative in proceedings for a child arrangements order under section 8 of the Children Act 1989[^f00006];
+  > - (b) the sampler has been trained by a tester, or under arrangements made by a tester, in relation to the requirements of these Regulations; and
+  > - (c) the sample is to be obtained by way of a mouth swab.
+  >
+  > (6) A sampler who is within sub-paragraph (f) in the definition of “sampler” in paragraph (4) may only be involved in the obtaining of samples where—
+  >
+  > - (a) the sampler has been trained by a tester, or under arrangements made by a tester, in relation to the requirements of these Regulations; and
+  > - (b) the sample is to be obtained by way of a mouth swab.
+
+  .
+
+(3) In regulation 3 (direction form) for “take” substitute “obtain”.
+
+(4) In regulation 4 (subject who is under 16 or a protected party to be accompanied to sampler)[^f00007] for “the taking of a sample” substitute “a sample to be obtained”.
+
+(5) In regulation 5 (taking of samples)[^f00008]—
+
+- (a) in the heading, for “Taking of” substitute “Obtaining”;
+- (b) in paragraph (1), for “the taking of samples” substitute “samples to be obtained”;
+- (c) in paragraph (2), for “shall take a sample from him on that occasion” substitute “must on that occasion act in accordance with paragraph (2A), (2B) or (2C), as applicable to that sampler”;
+- (d) after paragraph (2), insert—
+
+  > (2A) Where the sampler is a person within sub-paragraph (a), (b) or (c) of the definition of “sampler” in regulation 2(4), the sampler must take a sample from the subject.
+  >
+  > (2B) Where the sampler is a person within sub-paragraph (d) or (e) of the definition of “sampler” in regulation 2(4), the sampler must supervise the taking of the sample—
+  >
+  > - (a) by the subject; or
+  > - (b) where the subject is under 16 or a protected party, by the person of full age who has accompanied the subject.
+  >
+  > (2C) Where the sampler is a person within sub-paragraph (f) of the definition of “sampler” in regulation 2(4), the sampler must—
+  >
+  > - (a) take the sample; or
+  > - (b) supervise the taking of the sample—
+  >   - (i) by the subject; or
+  >   - (ii) where the subject is under 16 or a protected party, by the person of full age who has accompanied the subject.
+
+  ;
+- (e) in paragraph (3)—
+  - (i) for “take” substitute “obtain”;
+  - (ii) in sub-paragraphs (i) and (ii), for “taken” substitute “obtained”; and
+  - (iii) in sub-paragraph (iii) for “the taking of” substitute “obtaining”;
+- (f) in paragraph (4) for “take” substitute “obtain”;
+- (g) in paragraph (5)—
+  - (i) for “take” substitute “obtain”;
+  - (ii) for “the taking of” substitute “obtaining”; and
+  - (iii) for “not taking” substitute “not obtaining”; and
+- (h) in paragraph (6) for “for the taking of” substitute “to give”.
+
+(6) In regulation 6 (sampling procedure)[^f00009]—
+
+- (a) in paragraph (2) for “takes” substitute “obtains”;
+- (b) in paragraph (3)—
+  - (i) for “taken” substitute “obtained”; and
+  - (ii) for “affixed” substitute “attached”;
+- (c) in paragraphs (5), (8) and (9) for “taken” each time it occurs substitute “obtained”;
+- (d) in paragraph (6) for “affix” substitute “attach”; and
+- (e) in paragraph (7) for “the taking of a sample” substitute “a sample being obtained”.
+
+(7) In regulation 7 (despatch of samples to tester)[^f00010]—
+
+- (a) in paragraphs (1) and (2) for “taken” substitute “obtained”; and
+- (b) in paragraph (2) for “take” substitute “obtain”.
+
+(8) In regulation 8 (procedure where sampler nominated is unable to take the samples)[^f00011] in the heading and in paragraph (1) for “take” each time it occurs substitute “obtain”.
+
+(9) In regulation 9 (testing of samples)[^f00012], in paragraph (1) for “taken” substitute “obtained”.
+
+(10) In regulation 12 (fees)[^f00013]—
+
+- (a) in paragraph (1) for “take” substitute “obtain”;
+- (b) in paragraph (2) for “taken” substitute “obtained”; and
+- (c) after paragraph (2) insert—
+
+  > (3) This regulation does not apply where regulation 2(5) applies in a given case.
+
+  .
+
+(11) In Schedule 1, in Form 1 (direction form)[^f00014]—
+
+- (a) in Part I for “taken” substitute “obtained”;
+- (b) in Part II—
+  - (i) for “take” both times it occurs substitute “obtain”; and
+  - (ii) for “taken” each time it occurs substitute “obtained”;
+- (c) in Part III after “Below” insert “, or attached to this form,”;
+- (d) in Part V—
+  - (i) for “affixed to Part III of” substitute “attached to”; and
+  - (ii) for “the taking of a bodily sample” substitute “a bodily sample being obtained”;
+- (e) in Part VI—
+  - (i) for “affixed to Part III of” substitute “attached to”; and
+  - (ii) for “the taking of a sample” substitute “a sample being obtained”; and
+- (f) in Part VII—
+  - (i) for “taken” substitute “obtained”; and
+  - (ii) for “affixed” substitute “attached”.
+
+## 3. Review[^key-3851e065f115e0b8ae108f3ef1aba9b9]
+
+(1) The Secretary of State must from time to time—
+
+- (a) carry out a review of the effect on the Blood Tests (Evidence of Paternity) Regulations 1971 of the amendments made by regulation 2;
+- (b) set out the conclusions of the review in a report, and
+- (c) publish the report.
+
+(2) The report must in particular—
+
+- (a) set out the objectives intended to be achieved by the regulatory system as amended by regulation 2,
+- (b) assess the extent to which those objectives are achieved, and
+- (c) assess whether those objectives remain appropriate and, if so, the extent to which they could be achieved with a system that imposes less regulation.
+
+(3) The first report under this regulation must be published before the end of the period of one year beginning with the day on which regulation 2 came into force.
+
+(4) Reports under this regulation are afterwards to be published at intervals not exceeding five years.
+
+Caroline Dinenage
+
+Parliamentary Under Secretary of State
+
+Ministry of Justice
+
+21st October 2015
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations amend the Blood Tests (Evidence of Paternity) Regulations 1971 ([S.I. 1971/1861](https://www.legislation.gov.uk/uksi/1971/1861)) (“the 1971 Regulations”).
+
+Regulation 2 of the 1971 Regulations is amended to add new categories of person who, in certain circumstances, may be “samplers” under the 1971 Regulations. The new categories are officers of the Service (being the Children and Family Court Advisory and Support Service, known as “Cafcass”), Welsh Family Proceedings Officers (being officers of CAFCASS Cymru) and people appointed by testers. The amendments provide that these new categories of samplers may only act when they have been trained by a tester (as defined in the 1971 Regulations), or under arrangements made by a tester, and where the sample is to be given by way of a mouth swab sample.
+
+Regulation 5 of the 1971 Regulations is amended to set out which categories of sampler must take a sample, which must supervise a sample being given and which may do either.
+
+Regulations 3, 6, 7, 8, 9 and 12 of, and the directions form in Schedule 1 to, the 1971 Regulations, are amended in consequence of the provisions in regulation 5 of the 1971 Regulations allowing for the supervision of the taking of samples, meaning that it is more accurate to refer to samples being “obtained” rather than “taken”.
+
+Regulation 6 of, and the directions form in Schedule 1 to, the 1971 Regulations are also amended to refer to a statement or photograph being “attached” to the directions form, rather than “affixed” to reflect the fact that some samplers may be using electronic versions of the directions form and attaching statements or digital photographs to it.
+
+Regulation 12 of the 1971 Regulations is further amended so that the provision on samplers charging fees will not apply where the sampler is an officer of the Service or a Welsh Family Proceedings Officer.
+
+No impact assessment has been produced for this instrument because no, or minimal, impact is anticipated to result from its provisions.
+
+## Annotations
+
+[^f00001]: Footnote: [1969 c. 46](https://www.legislation.gov.uk/ukpga/1969/46). Section 22 was amended by paragraph 23 of Schedule 2 to the Family Law Reform Act [1987 (c. 42)](https://www.legislation.gov.uk/ukpga/1987/42) and by section 82 of the Child Support, Pensions and Social Security Act [2000 (c. 19)](https://www.legislation.gov.uk/ukpga/2000/19). The powers were vested in the Lord Chancellor by article 3 of and Schedule 2 to the Transfer of Functions (Magistrates’ Courts and Family Law) Order 1992 ([S.I. 1992/709](https://www.legislation.gov.uk/uksi/1992/709)).
+
+[^key-5fe813841ae3f5619519a28fcb784cfc]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2015/1834/regulation/1) in force at 23.11.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/1834/regulation/1)
+
+[^key-fd85dd569b067e8831dff56f46027785]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2015/1834/regulation/2) in force at 23.11.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/1834/regulation/1)
+
+[^f00002]: Footnote: [S.I. 1971/1861](https://www.legislation.gov.uk/uksi/1971/1861).
+
+[^f00003]: Footnote: Regulation 2 was amended by [S.I. 2001/773](https://www.legislation.gov.uk/uksi/2001/773), [2004/2033](https://www.legislation.gov.uk/uksi/2004/2033) and [2008/972](https://www.legislation.gov.uk/uksi/2008/972).
+
+[^f00004]: Footnote: [2000 c. 43](https://www.legislation.gov.uk/ukpga/2000/43).
+
+[^f00005]: Footnote: [2004 c. 31](https://www.legislation.gov.uk/ukpga/2004/31).
+
+[^f00006]: Footnote: [1989 c. 41](https://www.legislation.gov.uk/ukpga/1989/41). Section 8 was amended by paragraphs 41 and 60(1) of Schedule 8, and Schedule 10, to the Family Law Act [1996 (c. 27)](https://www.legislation.gov.uk/ukpga/1996/27), paragraph 68 of Schedule 8 to the Crime and Disorder Act [1998 (c. 37)](https://www.legislation.gov.uk/ukpga/1998/37), paragraphs 54 and 55 of Schedule 3 to the Adoption and Children Act [2002 (c. 38)](https://www.legislation.gov.uk/ukpga/2002/38), paragraph 129 of Schedule 27 to the Civil Partnership Act [2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33) and section 12 of and paragraphs 1 and 3 of Part 1 of Schedule 2 to the Children and Families Act [2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6).
+
+[^f00007]: Footnote: Regulation 4 was amended by [S.I. 2008/972](https://www.legislation.gov.uk/uksi/2008/972).
+
+[^f00008]: Footnote: Regulation 5 was amended by [S.I. 2001/773](https://www.legislation.gov.uk/uksi/2001/773).
+
+[^f00009]: Footnote: Regulation 6 was amended by [S.I. 2001/773](https://www.legislation.gov.uk/uksi/2001/773) and [2008/972](https://www.legislation.gov.uk/uksi/2008/972).
+
+[^f00010]: Footnote: Regulation 7 was amended by [S.I. 2008/972](https://www.legislation.gov.uk/uksi/2008/972).
+
+[^f00011]: Footnote: Regulation 8 was amended by [S.I. 2001/773](https://www.legislation.gov.uk/uksi/2001/773).
+
+[^f00012]: Footnote: Regulation 9 was amended by [S.I. 2001/773](https://www.legislation.gov.uk/uksi/2001/773).
+
+[^f00013]: Footnote: Regulation 12 was substituted by [S.I. 2004/596](https://www.legislation.gov.uk/uksi/2004/596) and amended by [S.I. 2008/972](https://www.legislation.gov.uk/uksi/2008/972).
+
+[^f00014]: Footnote: Form 1 in Schedule 1 was amended by [S.I. 2001/773](https://www.legislation.gov.uk/uksi/2001/773), [2008/972](https://www.legislation.gov.uk/uksi/2008/972) and [2014/879](https://www.legislation.gov.uk/uksi/2014/879).
+
+[^key-3851e065f115e0b8ae108f3ef1aba9b9]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2015/1834/regulation/3) inserted (11.1.2016) by [The Blood Tests (Evidence of Paternity) (Amendment) (Review) Regulations 2015 (S.I. 2015/2048)](https://www.legislation.gov.uk/uksi/2015/2048), [regs. 1](https://www.legislation.gov.uk/uksi/2015/2048/regulation/1), [2](https://www.legislation.gov.uk/uksi/2015/2048/regulation/2)

@@ -1,0 +1,252 @@
+---
+title: The Eggs (Marketing Standards) Regulations 1995
+id: uksi/1995/1544
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '1995-06-14'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1995/1544
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1995/1544/made/data.pdf
+pending_changes: 33
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Eggs (Marketing Standards) Regulations 1995
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+1995 No. 1544
+
+FOOD
+
+The Eggs (Marketing Standards) Regulations 1995
+
+Made
+
+14th June 1995
+
+Laid before Parliament
+
+19th June 1995
+
+Coming into force
+
+10th July 1995
+
+The Minister of Agriculture, Fisheries and Food, the Secretary of State for Health and the Secretary of State for Wales, acting jointly, in relation to England and Wales, and the Secretary of State for Scotland in relation to Scotland, in exercise of the powers conferred on them by sections 6(4), 16(1), 17, 26(2) and (3) and 48(1) of the Food Safety Act 1990[^f00001] and of all other powers enabling them in that behalf; the Minister of Agriculture, Fisheries and Food and the Secretary of State, being Ministers designated[^f00002] for the purposes of section 2(2) of the European Communities Act 1972[^f00003] in relation to the common agricultural policy of the European Community, acting jointly, in exercise (so far as is required for the revocation of Regulations made under the said section 2(2)) of the powers conferred upon them by the said section 2(2), and of all other powers enabling them in that behalf, after consultation in accordance with section 48(4) of the said Act of 1990 with such organisations as appear to them to be representative of interests likely to be substantially affected by the Regulations (in so far as the Regulations are made in exercise of the powers conferred by the said sections of the said Act of 1990) hereby make the following Regulations:—
+
+## 1. Title, commencement and extent
+
+(1) These Regulations may be cited as the Eggs (Marketing Standards) Regulations 1995, and shall come into force on 10th July 1995.
+
+(2) These Regulations shall apply to Great Britain.
+
+## 2. Interpretation
+
+(1) In these Regulations, unless the context otherwise requires—
+
+- “the Act” means the Food Safety Act 1990;
+- “Council Decision” means Council Decision [94/371/EC](https://www.legislation.gov.uk/european/decision/1994/0371) laying down specific public health conditions for the putting on the market of certain types of eggs[^f00004];
+- “Community provision” means—
+  - (a) any provision of a Regulation of the European Communities which is referred to in column 1 of the Schedule to these Regulations which is specified in column 3 thereof; and
+  - (b) any provision of the Council Decision specified in regulation 3 of these Regulations;
+- “food authority” does not include—
+  - (a) except in relation to regulation 3(2), the council of a district in a non-metropolitan county in England and Wales; and
+  - (b) the appropriate Treasurer referred to in section 5(1)(c) of the Act (which deals the the Inner Temple and the Middle Temple);
+- “Minister” means—
+  - (a) in relation to England the Minister of Agriculture, Fisheries and Food, and
+  - (b) in relation to Scotland or Wales the Secretary of State.
+
+(2) Other expressions used in these Regulations have, in so far as the context admits, the same meaning as in the relevant Community provision.
+
+## 3. Requirements under the Council Decision
+
+(1) In relation to the sale of any eggs, any person carrying on an activity regulated by a Community provision shall comply with Articles 2, 3(1) and (2) and 4 of the Council Decision.
+
+(2) Any person using eggs in catering kitchens including restaurants and for the preparation of non-industrial scale egg products or products containing eggs shall comply with Article 5 of the Council Decision.
+
+(3) In this regulation the expressions “eggs”, “catering kitchens”, “restaurants” and “non-industrial scale egg products” have the same meaning as in Articles 1(2) and 5 of the Council Decision respectively.
+
+## 4. Enforcement authorities
+
+(1) It shall be the duty of each food authority to enforce and execute within its area the Community provisions in so far as they relate to—
+
+- (a) the sale of eggs by a retailer;
+- (b) the use of eggs as described in regulation 3(2).
+
+(2) The Minister shall enforce and execute the Community provisions in all other respects.
+
+## 5. Powers of authorised officers
+
+For the purpose of enforcing any Community provision, an authorised officer of the Minister, on producing if so required a duly authenticated document showing his authority, may—
+
+- (a) require any person not to remove or cause to be removed any eggs from any land or premises for such period as he may reasonably specify as necessary for the purposes of his inspection of those eggs;
+- (b) require that any container of eggs which does not comply in any respect with the requirements of any Community provision, whether in relation to eggs contained in it or otherwise, be made so to comply before it is removed from such land or premises, except as may be otherwise directed by an authorised officer of the Minister.
+
+## 6. Keeping of records
+
+If so required by notice in writing served on him by or on behalf of the Minister, any person carrying on any activity regulated by a Community provision shall keep or cause to be kept such records as the Minister may reasonably require for the purpose of enforcing or executing any such provision, and shall provide the Minister with such information derived from such records as the Minister may from time to time require.
+
+## 7. United Kingdom official mark
+
+The official mark for the purposes of Article 19 of Commission Regulation [(EEC) No. 1274/91](https://www.legislation.gov.uk/european/regulation/1991/1274)[^f00005] shall consist of the letters “UK”, each letter being 1 centimetre high and surrounded by a line describing an oval.
+
+## 8. Offences and penalty
+
+(1) Any person who
+
+- (a) fails to comply with any requirement properly made to him by an authorised officer of the Minister or of a food authority under these Regulations, or
+- (b) contravenes or fails to comply with any Community provision,
+
+shall be guilty of an offence and shall be liable on summary conviction to a fine not exceeding level 5 on the standard scale.
+
+(2) Where an offence under these Regulations is committed in Scotland by a Scottish partnership and is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, a partner, he as well as the partnership shall be guilty of the offence and be liable to be proceeded against and punished accordingly.
+
+## 9. Trade Descriptions Act 1968
+
+The descriptions and marks applied in pursuance of any Community provision shall be deemed not to be trade descriptions for the purposes of the Trade Descriptions Act 1968[^f00006].
+
+## 10. Application of various sections of the Act
+
+The following provisions of the Act shall apply for the purposes of these Regulations as they apply for the purposes of section 8, 14 or 15 of the Act and, unless the context otherwise requires, any reference in them to the Act shall be construed as a reference to these Regulations—
+
+- section 2 (extended meaning of “sale” etc.);
+- section 3 (presumption that food is intended for human consumption);
+- section 20 (offences due to fault of another person);
+- section 21 (defence of due diligence);
+- section 30(8) (which relates to documentary evidence);
+- section 32 (powers of entry);
+- section 33 (obstruction etc. of officers);
+- section 36 (offences by bodies corporate);
+- section 44 (protection of officers acting in good faith); and
+- section 50 (service of documents).
+
+## 11. Revocations
+
+The following are revoked—
+
+- (a) the Eggs (Marketing Standards) Regulations 1985[^f00007];
+- (b) the Eggs (Marketing Standards) (Amendment) Regulations 1987[^f00008];
+- (c) regulation 3(2) of the Food Safety Act 1990 (Consequential Modifications) (No. 2) (Great Britain) Order 1990[^f00009]; and
+- (d) the Eggs (Marketing Standards) (Amendment) Regulations 1991[^f00010].
+
+Michael Jack
+
+Minister of State, Ministry of Agriculture, Fisheries and Food
+
+23rd May 1995
+
+Signed by authority of the Secretary of State for Health
+
+Cumberlege
+
+Parliamentary Under Secretary of State,
+
+Department of Health
+
+24th May 1995
+
+Signed by authority of the Secretary of State for Wales
+
+Gwilym Jones
+
+Parliamentary Under Secretary of State, Welsh Office
+
+14th June 1995
+
+Hector Monro
+
+Parliamentary Under Secretary of State, Scottish Office
+
+25th May 1995
+
+## SCHEDULE — COMMUNITY PROVISIONS
+
+Regulations 2, 3 and 4
+
+<table>
+<thead>
+<tr><th><em>(1)</em></th><th><em>(2)</em></th><th><em>(3)</em></th></tr>
+<tr><th><em>Regulations of the European Communities</em></th><th><em>Official Journal of the European Community: References</em></th><th><em>Provisions</em></th></tr>
+</thead>
+<tbody>
+<tr><td>1. Council Regulation <a href="https://www.legislation.gov.uk/european/regulation/1990/1907">(EEC) No. 1907/90</a> on certain marketing standards for eggs, as read with Corrigendum at OJ No. L195 26.7.90, p.40 and as amended by—</td><td>OJ No. L173, 6.7.90, p.5</td><td>Articles 2 to 16</td></tr>
+<tr><td>(a) Council Regulation <a href="https://www.legislation.gov.uk/european/regulation/1993/2617">(EEC) No. 2617/93</a></td><td>OJ No. L240, 25.9.93, p.1</td></tr>
+<tr><td>(b) Council Regulation <a href="https://www.legislation.gov.uk/european/regulation/1994/3117">(EC) No. 3117/94</a></td><td>OJ No. L330, 12.12.94, p.4</td></tr>
+<tr><td>2. Commission Regulation <a href="https://www.legislation.gov.uk/european/regulation/1991/1274">(EEC) No. 1274/91</a> introducing detailed rules for implementing Regulation <a href="https://www.legislation.gov.uk/european/regulation/1990/1907">(EEC) No. 1907/90</a> on certain marketing standards for eggs, as read with Corrigendum at OJ No. L233, 22.8.91, p.31 and as amended by—</td><td>OJ No. L121, 16.5.91, p.11</td><td>Articles 1 to 4(3), 5 to 19 and 21 to 28</td></tr>
+<tr><td>(a) Commission Regulation <a href="https://www.legislation.gov.uk/european/regulation/1991/3540">(EEC) No. 3540/91</a></td><td>OJ No. L335, 6.12.91, p.12</td></tr>
+<tr><td>(b) Commission Regulation <a href="https://www.legislation.gov.uk/european/regulation/1992/2221">(EEC) No. 2221/92</a> as read with Corrigendum at OJ No. L292, 8.10.92, p.34</td><td>OJ No. L218, 1.8.92, p.81</td></tr>
+<tr><td>(c) Commission Regulation <a href="https://www.legislation.gov.uk/european/regulation/1993/3300">(EC) No. 3300/93</a></td><td>OJ No. L296, 1.12.93, p.52</td></tr>
+<tr><td>(d) Commission Regulation <a href="https://www.legislation.gov.uk/european/regulation/1994/1259">(EC) No. 1259/94</a></td><td>OJ No. L137, 1.6.94, p.54</td></tr>
+<tr><td>(e) Commission Regulation <a href="https://www.legislation.gov.uk/european/regulation/1994/3239">(EC) No. 3239/94</a></td><td>OJ No. L338, 28.12.94, p.48</td></tr>
+<tr><td>(f) Commission Regulation <a href="https://www.legislation.gov.uk/european/regulation/1995/0786">(EC) No. 786/95</a></td><td>OJ No. L79, 7.4.95, p.12</td></tr>
+<tr><td>3. Council Regulation <a href="https://www.legislation.gov.uk/european/regulation/1975/2782">(EEC) No. 2782/75</a> on the production and marketing of eggs for hatching and of farmyard poultry chicks, as amended by—</td><td>OJ No. L282, 1.11.75, p.100</td><td>Articles 5 to 9 and 11 to 15</td></tr>
+<tr><td>(a) Council Regulation <a href="https://www.legislation.gov.uk/european/regulation/1980/3485">(EEC) No. 3485/80</a></td><td>OJ No. L365, 31.12.80, p.1</td></tr>
+<tr><td>(b) Council Regulation <a href="https://www.legislation.gov.uk/european/regulation/1985/3791">(EEC) No. 3791/85</a></td><td>OJ No. L367, 31.12.85, p.6</td></tr>
+<tr><td>(c) Council Regulation <a href="https://www.legislation.gov.uk/european/regulation/1986/3494">(EEC) No. 3494/86</a></td><td>OJ No. L323, 18.11.86, p.1</td></tr>
+<tr><td>(d) Commission Regulation <a href="https://www.legislation.gov.uk/european/regulation/1987/3987">(EEC) No. 3987/87</a></td><td>OJ No. L376, 31.12.87, p.20</td></tr>
+<tr><td>(e) Commission Regulation <a href="https://www.legislation.gov.uk/european/regulation/1991/1057">(EEC) No. 1057/91</a></td><td>OJ No. L107, 27.4.91, p.11</td></tr>
+<tr><td>4. Commission Regulation <a href="https://www.legislation.gov.uk/european/regulation/1977/1868">(EEC) No. 1868/77</a> laying down detailed rules of application for Council Regulation <a href="https://www.legislation.gov.uk/european/regulation/1975/2782">(EEC) No. 2782/75</a>, as amended by—</td><td>OJ No. L209, 17.8.77, p.1</td><td>Articles 2 and 3</td></tr>
+<tr><td>(a) 1979 Act of Accession of the Hellenic Republic</td><td>OJ No. L291, 19.11.79, p.1 at p.78</td></tr>
+<tr><td>(b) Commission Regulation <a href="https://www.legislation.gov.uk/european/regulation/1985/3759">(EEC) No. 3759/85</a></td><td>OJ No. L356, 31.12.85, p.64</td></tr>
+<tr><td>(c) Commission Regulation <a href="https://www.legislation.gov.uk/european/regulation/1987/1351">(EEC) No. 1351/87</a> as read with Corrigendum at OJ No. L159, 19.6.87, p.24</td><td>OJ No. L127, 16.5.87, p.18</td></tr>
+<tr><td>(d) Commission Regulation <a href="https://www.legislation.gov.uk/european/regulation/1990/2773">(EEC) No. 2773/90</a></td><td>OJ No. L267, 29.9.90, p.25</td></tr>
+</tbody>
+</table>
+
+(This note is not part of the Regulations)
+
+These Regulations, which apply to Great Britain, supersede the Eggs (Marketing Standards) Regulations 1985 and make provision for the enforcement and execution of specified regulations of the European Communities which relate to marketing standards for shell eggs and to the production and marketing of eggs for hatching and of farmyard poultry chicks.
+
+The principal changes made by these Regulations to the 1985 Regulations are the introduction of more detailed labelling requirements following the further amendment of Council Regulation EEC No. 1907/90 and Commission Regulation EC No. 1274/91. (The amending instruments are specified in the Schedule, items 1 and 2). The Regulations also imelement the public health conditions in relation to the sale of shell eggs and to the use of eggs in catering kitchens laid down by Council Decision [94/371/EC](https://www.legislation.gov.uk/european/decision/1994/0371). These Regulations are made under and incorporate provisions of the Food Safety Act 1990.
+
+The Regulations—
+
+- (a) implement the public health conditions laid down by Council Decision [94/371/EC](https://www.legislation.gov.uk/european/decision/1994/0371) (regulation 3);
+- (b) designate the authorities who are to enforce the Community provisions (regulation 4);
+- (c) give authorised officers of the Minister specified powers (regulation 5);
+- (d) give the Minister power to require specified persons to keep records and supply information (regulation 7);
+- (e) prescribe the form of the official mark which may be used under the Community provisions (regulation 7);
+- (f) create an offence and prescribe a penalty (regulation 8);
+- (g) provide that descriptions and marks applied in pursuance of a Community provision shall not be trade descriptions under the Trade Descriptions Act 1968 (regulation 9).
+
+A compliance cost assessment of the effect that these Regulations would have on the cost of business is available from:
+
+Pigs, Eggs and poultry Dviision
+
+Ministry of Agriculture, Fisheries and Food
+
+Room 201
+
+Whitehall Place (East Block)
+
+London
+
+SW1A 2HH.
+
+## Annotations
+
+[^f00001]: Footnote: [1990 c. 16](https://www.legislation.gov.uk/ukpga/1990/16); “the Ministers” is defined in section 4(1) of the Act; section 6(4)(a) of the Act was amended by the Deregulation and Contracting Out Act [1994 (c. 40)](https://www.legislation.gov.uk/ukpga/1994/40) section 31 and Schedule 9, paragraph 6.
+
+[^f00002]: Footnote: S.I. [1972/1811](https://www.legislation.gov.uk/uksi/1972/1811).
+
+[^f00003]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68).
+
+[^f00004]: Footnote: OJ No. L168, 2.7.94, p.34.
+
+[^f00005]: Footnote: OJ No. L121, 16.5.91, p.11 the amendments to which are specified under item 2 in Column 1 of the Schedule to these Regulations; none of the amendments relate to Article 19.
+
+[^f00006]: Footnote: [1968 c. 29](https://www.legislation.gov.uk/ukpga/1968/29).
+
+[^f00007]: Footnote: S.I. [1985/1271](https://www.legislation.gov.uk/uksi/1985/1271).
+
+[^f00008]: Footnote: S.I. [1987/1184](https://www.legislation.gov.uk/uksi/1987/1184).
+
+[^f00009]: Footnote: S.I. [1990/2487](https://www.legislation.gov.uk/uksi/1990/2487).
+
+[^f00010]: Footnote: S.I. [1991/1396](https://www.legislation.gov.uk/uksi/1991/1396).

@@ -1,0 +1,27 @@
+---
+title: Income and Corporation Taxes Act 1988, section 245B
+act: Income and Corporation Taxes Act 1988
+section: 245B
+status: revised-with-pending-changes
+text_date: '2026-04-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/1988/1/section/245B
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Income and Corporation Taxes Act 1988, section 245B
+
+> **Warning: changes not yet applied to this text (13).** Text as at 2026-04-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1988/1
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 245B. Restriction on set-off where asset transferred after change in ownership of company.
+
+*Extent: E+W+S+N.I.*
+
+[^c22769671]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Annotations
+
+[^c22769671]: Textual amendment: [S. 245B](https://www.legislation.gov.uk/ukpga/1988/1/section/245B) repealed (with effect in accordance with Sch. 3 para. 17(2)(3) of the repealing Act) by [Finance Act 1998 (c. 36)](https://www.legislation.gov.uk/ukpga/1998/36), [Sch. 3 para. 17(1)](https://www.legislation.gov.uk/ukpga/1998/36/schedule/3/paragraph/17/1), [Sch. 27 Pt. 3(2)](https://www.legislation.gov.uk/ukpga/1998/36/schedule/27/part/3/2), Note

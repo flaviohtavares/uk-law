@@ -1,0 +1,66 @@
+---
+title: Education Act 2002, section 122A
+act: Education Act 2002
+section: 122A
+status: revised-with-pending-changes
+text_date: '2026-09-01'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/2002/32/section/122A
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Education Act 2002, section 122A
+
+> **Warning: changes not yet applied to this text (67).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2002/32
+>
+> Extent: England, Wales.
+
+## 122A. Power to set minimum remuneration of Academy teachers etc[^key-6f74c7c6392f350e4b38984f9803d59e]
+
+*Extent: E+W*
+
+(1) The Secretary of State may by order make provision requiring the remuneration of an Academy teacher to be at least equal to the amount specified in, or determined in accordance with, the order.
+
+(2) Subsection (3) applies where—
+
+- (a) an order under this section applies to an Academy teacher, and
+- (b) the contract of employment or for services between the Academy teacher and the relevant proprietor provides for the teacher to be paid remuneration that is less than the amount specified in, or determined in accordance with, the order.
+
+(3) Where this subsection applies—
+
+- (a) the Academy teacher’s remuneration is to be determined and paid in accordance with any provision of the order that applies to the teacher;
+- (b) any provision of the contract mentioned in subsection (2)(b) or of the Academy arrangements entered into with the Secretary of State by the relevant proprietor has no effect to the extent that it makes provision that is prohibited by, or is otherwise inconsistent with, the order.
+
+(4) A person is an Academy teacher for the purposes of this section in any of the following cases.
+
+(5) The first case is where—
+
+- (a) the person provides primary or secondary education under a contract of employment or for services,
+- (b) the other party to the contract is the proprietor of an Academy,
+- (c) the contract requires the person to carry out work of a kind which is specified by regulations under section 133(1), and
+- (d) the person—
+  - (i) is not prevented by regulations under section 133(1) from carrying out that work, and
+  - (ii) is not of a description specified in regulations made by the Secretary of State for the purposes of this paragraph.
+
+(6) The second case is where the person—
+
+- (a) serves as the principal of an Academy, and
+- (b) is not appointed by the proprietor of the Academy as an executive leader of the proprietor.
+
+(7) The third case is where the person would fall within section 122(5) but for the fact that the other party to the contract of employment or for services under which the person provides primary or secondary education is the proprietor of an Academy (and not a party mentioned in section 122(3)(c)).
+
+(8) Regulations under subsection (5)(d) may, in particular, specify a description by reference to a person’s duties or to any provision for a person’s remuneration to be determined otherwise than under this section.
+
+(9) Where the proprietor of an Academy is also the proprietor of a 16 to 19 Academy, a person (“**P**”) is not an Academy teacher for the purposes of this section to the extent that a contract of employment or for services between P and the proprietor requires P to provide secondary education at the 16 to 19 Academy.
+
+(10) In the application of subsections (2) and (3)—
+
+- (a) it is immaterial whether someone other than the relevant proprietor provides or is responsible for providing all or part of a teacher’s remuneration;
+- (b) it is immaterial whether someone other than the relevant proprietor is treated wholly or partly as a teacher’s employer for some or all purposes by virtue of an enactment.
+
+(11) In this section “**the relevant proprietor**”, in relation to an Academy teacher, means the proprietor mentioned in subsection (5)(b), (6)(b) or (7) (as the case may be).
+
+## Annotations
+
+[^key-6f74c7c6392f350e4b38984f9803d59e]: Textual amendment: S. 122A inserted (29.4.2026 for specified purposes, 29.6.2026 in so far as not already in force) by [Children’s Wellbeing and Schools Act 2026 (c. 21)](https://www.legislation.gov.uk/ukpga/2026/21), [s. 78(1)(a)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/1/a)[(2)(i)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/2/i), [Sch. 3 para. 5](https://www.legislation.gov.uk/ukpga/2026/21/schedule/3/paragraph/5)

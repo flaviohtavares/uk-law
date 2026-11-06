@@ -1,0 +1,148 @@
+---
+title: The Family Proceedings Fees (Amendment) Order 2022
+id: uksi/2022/54
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2022-01-17'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2022/54
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2022/54/pdfs/uksiem_20220054_en_001.pdf
+- http://www.legislation.gov.uk/uksi/2022/54/pdfs/uksiem_20220054_en.pdf
+- http://www.legislation.gov.uk/uksi/2022/54/pdfs/uksi_20220054_en.pdf
+- http://www.legislation.gov.uk/uksi/2022/54/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Family Proceedings Fees (Amendment) Order 2022
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2022 No. 54 (L. 3)
+
+Family Proceedings, England And Wales
+
+The Family Proceedings Fees (Amendment) Order 2022
+
+Made
+
+17th January 2022
+
+Laid before Parliament
+
+19th January 2022
+
+Coming into force in accordance with articles 1(2) and (3)
+
+The Lord Chancellor, with the consent of the Treasury, makes the following Order in exercise of the powers conferred by sections 92(1)(a) and (aa), (2)(a), 108(6)(b) and 109(4)(a) of the Courts Act 2003[^f00001].
+
+The Lord Chancellor has had regard to the principle referred to in section 92(3) of the Courts Act 2003.
+
+In accordance with section 92(5) of the Courts Act 2003, the Lord Chancellor has consulted the Lord Chief Justice, the Master of the Rolls, the President of the Queen’s Bench Division, the President of the Family Division, the Chancellor of the High Court, the Head of Civil Justice and the Deputy Head of Civil Justice.
+
+In accordance with section 109(4A) of the Courts Act 2003, the Lord Chancellor has consulted the Lord Chief Justice of England and Wales.
+
+## 1. Citation and commencement
+
+(1) This Order is known as the Family Proceedings Fees (Amendment) Order 2022.
+
+(2) Subject to paragraph (3), this Order comes into force on the day on which section 1 of the Divorce, Dissolution and Separation Act 2020[^f00002] comes fully into force.
+
+(3) Articles 3(5), (6) and (7) of this Order come into force on 1st March 2022.
+
+## 2. Application
+
+Articles 3(2), (3), (4), (8) and (9) do not apply in relation to proceedings that were issued before the date on which those articles come into force in accordance with article 1(2).
+
+## 3. Amendment of the Family Proceedings Fees Order 2008
+
+(1) The table in Schedule 1 to the Family Proceedings Fees Order 2008[^f00003] (fees to be taken) is amended as follows.
+
+(2) In the entry for fee 1.2 (on presenting an application for (a) a decree of divorce made under section 1 of the Matrimonial Causes Act 1973, (b) a decree of nullity made under section 11 or 12 of the Matrimonial Causes Act 1973[^f00004], (c) a dissolution order or nullity order made under section 37 of the Civil Partnership Act 2004[^f00005]), in column 1—
+
+- (a) in paragraph (a), for “decree of divorce” substitute “divorce order”, and
+- (b) in paragraph (b), for “decree of nullity” substitute “nullity of marriage order”.
+
+(3) In the entry for fee 1.3 (on presenting an application for (a) a matrimonial or civil partnership order, other than an application for a decree of divorce, a decree of nullity, a dissolution order, nullity order or to which rule 7.7(1)(b) of the Family Procedure Rules 2010 applies, or (b) a declaration to which Chapter 5 of Part 8 of the Family Procedure Rules 2010[^f00006] applies), in column 1, in paragraph (a)—
+
+- (a) for “decree of divorce, a decree of nullity” substitute “divorce order, a nullity of marriage order”, and
+- (b) for “7.7(1)(b)” substitute “7.4(1)(b)”.
+
+(4) In the entry for fee 1.5 (on amending an application for a matrimonial or civil partnership order, amending an application for a declaration to which Chapter 5 of Part 8 of the Family Procedure Rules 2010 applies, or making an application to which rule 7.7(1)(b) of the Family Procedure Rules 2010 applies), in column 1, for “7.7(1)(b)” substitute “7.4(1)(b)”.
+
+(5) In the entry numbered 2 and commencing with the words “Proceedings under the Children Act 1989”, for “Social Services and Well-being (Wales) Act 2014” substitute “Childcare Act 2006, the Children and Families (Wales) Measure 2010 or the Social Services and Well-being (Wales) Act 2014”.
+
+(6) In the list of paragraphs under the entry for fee 2.1 (on an application for an order under the following provisions of the Children Act 1989[^f00007] or, where specified, the Social Services and Well-being (Wales) Act 2014[^f00008]), omit paragraph (r).
+
+(7) After the entry for fee 2.5 (on commencing an appeal under paragraph 3(11) of Schedule 1 to the Social Services and Well-being (Wales) Act 2014 (appeal against contribution order)), insert—
+
+> | *Column 1*<br>*Number and description of fee* | *Column 2*<br>*Amount of fee* |
+> | --- | --- |
+> | 2.6 On an application for an order under— |  |
+> | (a) section 72 (cancellation, variation or removal or imposition of condition of registration of child minder or day carer) of the Childcare Act 2006[^f00009]; or | £232 |
+> | (b) section 34 (cancellation of registration of child minder or day carer) of the Children and Families (Wales) Measure 2010[^f00010]. | £232 |
+> | 2.7 On commencing an appeal in relation to proceedings to which the fees listed as 2.6(a) and (b) apply. | £215 |
+
+(8) In the Notes relating to fee 5.1 (on an application in existing proceedings without notice or by consent, except where separately listed in this Schedule), in the entry commencing with the words “Fee 5.1 is not payable” and ending with the words “has paid fee 1.2”, in column 1, for “decree or order absolute or final” substitute “final order”.
+
+(9) In the entry for fee 5.2 (on an application under rule 7.19 of the Family Procedure Rules 2010[^f00011] for the court to consider the making of a decree nisi, conditional order, a decree of judicial separation or a separation order (other than in an undefended case where no fee is payable)), in column 1—
+
+- (a) for “7.19” substitute “7.9”, and
+- (b) for “decree nisi, conditional order, a decree of judicial separation” substitute “conditional order, judicial separation order”.
+
+James Cartlidge
+
+Parliamentary Under Secretary of State
+
+Ministry of Justice
+
+17th January 2022
+
+We consent
+
+Rebecca Harris
+
+Michael Tomlinson
+
+Two of the Lords Commissioners of Her Majesty’s Treasury
+
+13th January 2022
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order amends the Family Proceedings Fees Order 2008 ([S.I. 2008/1054](https://www.legislation.gov.uk/uksi/2008/1054)) (“**the Fees Order**”). Articles 3(2), (3)(a), (8) and (9)(b) amend the Fees Order to reflect changes in terminology resulting from the Divorce, Dissolution and Separation Act [2020 (c. 11)](https://www.legislation.gov.uk/ukpga/2020/11). Articles 3(3)(b), (4) and (9)(a) amend cross-references to the Family Procedure Rules 2010 ([S.I. 2010/2955](https://www.legislation.gov.uk/uksi/2010/2955)) (“**the Rules**”) in the Fees Order, so as to align with changes being made to the Rules by a separate statutory instrument ([S.I. 2022/ 44](https://www.legislation.gov.uk/uksi/2022/44)) which comes into force on the same day as this Order. Articles 3(5), (6) and (7) amend fee 2.1(r) in Schedule 1 to the Fees Order in two ways: firstly, to replace it with an entry citing the up-to-date statutory references in the fee description and secondly to increase the fee in line with inflation.
+
+In relation to articles 3(2), (3), (4), (8) and (9) there is no impact on the costs of business, the voluntary sector and the public sector.
+
+In relation to articles 3(5), (6) and (7), the full impact assessment on the costs of business, the voluntary sector and the public sector that was carried out and published in relation to the Court Fees (Miscellaneous Amendments) Order 2021 ([S.I. 2021/985](https://www.legislation.gov.uk/uksi/2021/985)) is applicable to this instrument. That impact assessment is available from the Ministry of Justice, 102 Petty France, London SW1H 9AJ and is published alongside [S.I. 2021/985](https://www.legislation.gov.uk/uksi/2021/985) on https://legislation.gov.uk.
+
+## Annotations
+
+[^f00001]: Footnote: [2003 c. 39](https://www.legislation.gov.uk/ukpga/2003/39). Section 92 was amended by paragraph 345 of Schedule 4, and paragraph 4 of Schedule 11 to the Constitutional Reform Act [2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4) and by paragraph 40(a) of Schedule 9 and paragraph 95 of Schedule 10 to the Crime and Courts Act [2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22). Section 108 was amended by paragraph 348 of Schedule 4 to the Constitutional Reform Act 2005, paragraph 36 of Schedule 1 to the Courts and Tribunals (Judiciary and Functions of Staff) Act [2018 (c. 33)](https://www.legislation.gov.uk/ukpga/2018/33) and paragraph 69(3) of Schedule 18 to the Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 ([S.I. 2010/976](https://www.legislation.gov.uk/uksi/2010/976)). Section 109(4A) was added by paragraph 349 of Schedule 4 to the Constitutional Reform Act 2005.
+
+[^f00002]: Footnote: [2020 c. 11](https://www.legislation.gov.uk/ukpga/2020/11).
+
+[^f00003]: Footnote: [S.I. 2008/1054 (L. 6)](https://www.legislation.gov.uk/uksi/2008/1054). Relevant amending instruments are [S.I. 2014/877](https://www.legislation.gov.uk/uksi/2014/877), [2015/687](https://www.legislation.gov.uk/uksi/2015/687), [2016/211](https://www.legislation.gov.uk/uksi/2016/211), [2018/1413](https://www.legislation.gov.uk/uksi/2018/1413) and [2021/985](https://www.legislation.gov.uk/uksi/2021/985).
+
+[^f00004]: Footnote: [1973 c. 18](https://www.legislation.gov.uk/ukpga/1973/18). Section 1 was substituted by section 1 of the Divorce, Dissolution and Separation Act [2020 (c. 11)](https://www.legislation.gov.uk/ukpga/2020/11). Section 11 was amended by section 12(1) of the Marriage Act [1983 (c. 32)](https://www.legislation.gov.uk/ukpga/1983/32), section 6(4) of the Marriage (Prohibited Degrees of Relationship) Act [1986 (c. 16)](https://www.legislation.gov.uk/ukpga/1986/16), paragraph 40 of Schedule 27 to the Civil Partnership Act [2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), paragraph 27 of Schedule 7(2) to the Marriage (Same Sex Couples) Act [2013 (c. 30)](https://www.legislation.gov.uk/ukpga/2013/30), paragraph 2(2) of Schedule 1 to the Private International Law (Miscellaneous Provisions) Act [1995 (c. 42)](https://www.legislation.gov.uk/ukpga/1995/42), and by [S.I. 2014/3168](https://www.legislation.gov.uk/uksi/2014/3168). Section 12 was amended by paragraph 34 of Schedule 4 to the Mental Health Act [1983 (c. 20)](https://www.legislation.gov.uk/ukpga/1983/20), paragraphs 1 and 2 of Schedule 2(1) to and paragraphs 4 and 5 of Schedule 4(1) to the Gender Recognition Act [2004 (c. 7)](https://www.legislation.gov.uk/ukpga/2004/7), paragraph 4 of Schedule 4(3) to the Marriage (Same Sex Couples) Act 2013 and by [S.I. 2014/3168](https://www.legislation.gov.uk/uksi/2014/3168).
+
+[^f00005]: Footnote: [2004 c. 33](https://www.legislation.gov.uk/ukpga/2004/33). Section 37(4)(b) was substituted by paragraph 162 of Schedule 11(1) to the Crime and Courts Act [2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22) and section 37(2) was repealed by sections 4(1) and (2) of the Divorce, Dissolution and Separation Act [2020 (c. 11)](https://www.legislation.gov.uk/ukpga/2020/11).
+
+[^f00006]: Footnote: [S.I. 2010/2955](https://www.legislation.gov.uk/uksi/2010/2955). Rule 8.19 was revoked by [S.I. 2013/3204](https://www.legislation.gov.uk/uksi/2013/3204). Rule 8.20 was amended by [S.I. 2012/679](https://www.legislation.gov.uk/uksi/2012/679) and [2016/901](https://www.legislation.gov.uk/uksi/2016/901).
+
+[^f00007]: Footnote: [2014 c. 41](https://www.legislation.gov.uk/ukpga/2014/41).
+
+[^f00008]: Footnote: [2014 anaw 4](https://www.legislation.gov.uk/anaw/2014/4).
+
+[^f00009]: Footnote: [2006 c. 11](https://www.legislation.gov.uk/ukpga/2006/11). Section 72 was amended by paragraph 40 of Schedule 4(5) to the Children and Families Act [2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6) and paragraph 203 of Schedule 11(1) to the Crime and Courts Act [2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22).
+
+[^f00010]: Footnote: 2010 nawm 1. Section 34 was amended by paragraphs 207 and 208 of Schedule 11 to the Crime and Courts Act [2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22).
+
+[^f00011]: Footnote: [S.I. 2010/2955](https://www.legislation.gov.uk/uksi/2010/2955). Rule 7.19 was amended by [S.I. 2012/679](https://www.legislation.gov.uk/uksi/2012/679) and [2014/843](https://www.legislation.gov.uk/uksi/2014/843).

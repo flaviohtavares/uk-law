@@ -1,0 +1,48 @@
+---
+title: Water Industry Act 1991, section 66
+act: Water Industry Act 1991
+section: '66'
+status: revised-with-pending-changes
+text_date: '2026-10-31'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/1991/56/section/66
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Water Industry Act 1991, section 66
+
+> **Warning: changes not yet applied to this text (197).** Text as at 2026-10-31. See https://www.legislation.gov.uk/changes/affected/ukpga/1991/56
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 66. Requirements by undertaker for maintaining pressure.
+
+*Extent: E+W*
+
+(1) A water undertaker may require that any premises consisting in—
+
+- (a) any building or part of a building the supply of water to which need not, in accordance with provision contained in or made under this Act, be constantly laid on under pressure; or
+- (b) any relevant house to which water is required to be delivered at a height greater than a point 10.5 metres below the draw-off level of the service reservoir or tank from which a supply of water is being provided by the undertaker to those premises,
+
+shall be provided with a cistern which has a float-operated valve and is fitted on the pipe by means of which water is supplied to those premises.
+
+(2) A water undertaker may, in the case of such a house as is mentioned in paragraph (b) of subsection (1) above, require that a cistern the provision of which is required under that subsection shall be capable of holding sufficient water to provide an adequate supply to the house for a period of twenty-four hours.
+
+(3) If, where a water undertaker provides a supply of water to any premises, the consumer, after having been required to do so by notice served on him by the undertaker, fails before the end of the period specified in the notice—
+
+- (a) to provide a cistern in accordance with a requirement under this section; or
+- (b) to put any such cistern and its float-operated valve into good repair,
+
+the water undertaker may itself provide a cistern, or carry out any repairs necessary to prevent waste of water.
+
+(4) The period specified for the purposes of subsection (3) above in a notice under this section shall be a period of not less than twenty-eight days beginning with the day after the service of the notice.
+
+(5) Where a water undertaker provides a cistern or carries out any repairs under subsection (3) above, it may recover the expenses reasonably incurred by it in doing so from the owner of the premises in question.
+
+(6) In this section—
+
+- “**pre-transfer supplier**”, in relation to a house, means the person who was supplying water to that house immediately before 1st September 1989; and
+- “**relevant house**” means any house other than a house in relation to which the following two conditions are satisfied, that is to say—
+  - (i) the erection of the house was commenced before 1st September 1989; and
+  - (ii) no such requirement as is mentioned in subsection (1) or (2) above could have been imposed in relation to the house under any enactment having effect immediately before that date in relation to the pre-transfer supplier.

@@ -1,0 +1,35 @@
+---
+title: The Avian Influenza and Influenza of Avian Origin in Mammals (England) (No.2) Order 2006, section 57
+act: The Avian Influenza and Influenza of Avian Origin in Mammals (England) (No.2) Order 2006
+section: '57'
+status: revised
+text_date: '2026-04-22'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2006/2702/section/57
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Avian Influenza and Influenza of Avian Origin in Mammals (England) (No.2) Order 2006, section 57
+
+> Text as at 2026-04-22.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 57. Measures in low pathogenic avian influenza restricted zones
+
+*Extent: E+W+S+N.I.*
+
+(1) The measures in Schedule 7 apply in respect of a low pathogenic avian influenza restricted zone, subject to paragraphs (2) and (3).
+
+(2) The Secretary of State may, in a declaration under article 55, disapply some or all of the measures in Schedule 7 if—
+
+- (a) the infected premises are a hatchery or special category premises; and
+- (b) he has carried out a risk assessment and does not believe that the disapplication would endanger disease control.
+
+(3) The Secretary of State may, if he considers it necessary to reduce the risk of the spread of avian influenza, impose, by declaration, measures additional to those in Schedule 7 in respect of the low pathogenic avian influenza restricted zone.
+
+(4) The Secretary of State must ensure that—
+
+- (a) commercial premises in the low pathogenic avian influenza restricted zone are identified as soon as possible;
+- (b) tests for avian influenza are carried out on commercial poultry premises within a radius of at least 1 kilometre of the boundary of the infected premises or, if he thinks it more appropriate, of the part of the infected premises where avian influenza was found.

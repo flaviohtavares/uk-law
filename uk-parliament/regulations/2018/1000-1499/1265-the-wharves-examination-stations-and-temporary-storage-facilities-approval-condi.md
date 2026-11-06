@@ -1,0 +1,219 @@
+---
+title: The Wharves, Examination Stations and Temporary Storage Facilities (Approval Conditions) ( EU Exit) Regulations 2018
+id: uksi/2018/1265
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2018-11-29'
+text_date: '2026-06-30'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2018/1265
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2018/1265/pdfs/uksiem_20181265_en.pdf
+- http://www.legislation.gov.uk/uksi/2018/1265/pdfs/uksi_20181265_en.pdf
+- http://www.legislation.gov.uk/uksi/2018/1265/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Wharves, Examination Stations and Temporary Storage Facilities (Approval Conditions) ( EU Exit) Regulations 2018
+
+> Text as at 2026-06-30.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2018 No. 1265
+
+Exiting The European Union
+
+Customs
+
+The Wharves, Examination Stations and Temporary Storage Facilities (Approval Conditions) (EU Exit) Regulations 2018
+
+Made
+
+29th November 2018
+
+Laid before the House of Commons
+
+30th November 2018
+
+Coming into force in accordance with regulation 1(2)
+
+The Commissioners for Her Majesty’s Revenue and Customs make these Regulations exercising their powers in sections 20(1A)(a), 22(1A)(a) and 25(1A)(a) of the Customs and Excise Management Act 1979[^f00001].
+
+They consider that regulation 2 would facilitate the administration, collection or enforcement of any duty of customs.
+
+## 1. Citation and commencement[^key-3206d90f1cff958f111631518c982be0]
+
+(1) These Regulations may be cited as the Wharves, Examination Stations and Temporary Storage Facilities (Approval Conditions) (EU Exit) Regulations 2018.
+
+(2) They come into force on exit day[^f00002].
+
+## 2. Approval conditions[^key-026ab4d15312581c5976a28ea4f408e1]
+
+(1) Unless regulation 3 applies,[^M_F_34390446-498b-4774-e97f-36b3e4506c96] a place must meet Items 1 to 4 in relation to Items 5 to 15 in the Schedule before the grant of approved wharf[^f00003] status.
+
+(2) A part of, or a place at, a customs and excise airport must meet Items 1 to 4 in relation to Items 5 to 15 in the Schedule (except Item 14) before the grant of examination station[^f00004] status.
+
+(3) Subject to paragraph (4),[^key-fbf958421ad1f0701da31ccccffb44e9] a place must meet Items 1 to 4, in relation to Items 5 to 9 and Items 12 to 15 in the Schedule, before the grant of temporary storage facility[^f00005] status.
+
+(4)[^key-0024a58d7b8eab3cc016c0d17b83781f] Before the Commissioners approve a place as a temporary storage facility that meets the conditions in regulation 2(1A) of the Customs (Temporary Storage Facilities Approval Conditions and Miscellaneous Amendments) (EU Exit) Regulations 2018 that place must meet Items 1 to 4 in relation to Items 5 to 7, 11(a) and 12 to 15 in the Schedule.
+
+## 3. Off-site facilities[^key-7052b3f4597b987ae26d56235a076783]
+
+(1) This regulation applies in a case where, in the opinion of the Commissioners, the place approved, or to be approved, under section 20(1) of the Customs and Excise Management Act 1979 (“**the Act**”) cannot meet Items 1 to 4 in relation to Items 5 to 15 in the Schedule.
+
+(2) Items 5 to 15 in the Schedule must be provided by the person to whom the approval has been, or may be, given under section 20(1) of the Act either—
+
+- (a) at an off-site facility, or
+- (b) partly at an off-site facility and partly at the place approved, or to be approved, under section 20(1) of the Act.
+
+(3) The off-site facility and the place approved, or to be approved, under section 20(1) of the Act must meet Items 1 to 4 in relation to any of Items 5 to 15 in the Schedule which are provided at those places.
+
+(4) The Commissioners may—
+
+- (a) give directions requiring the person to whom the approval has been, or may be, given to propose to the Commissioners by the date specified in the directions a place (“the proposed place”) at which the off-site facility may be located, and
+- (b) specify in the approval, or in directions given by them, the place at which the off-site facility must be located, and—
+  - (i) which (if any) of Items 5 to 15 in the Schedule must be provided at the place approved under section 20(1) of the Act, and
+  - (ii) which of Items 5 to 15 in the Schedule must be provided at the off-site facility.
+
+(5) The off-site facility may only be located at the proposed place with the agreement of the Commissioners.
+
+(6) Where any of Items 5 to 15 are provided at an off-site facility, the Commissioners may give directions imposing conditions and restrictions as respects the movement of goods between the place approved under section 20(1) of the Act and the off-site facility.
+
+Jim Harra
+
+Penny Ciniewicz
+
+Two of the Commissioners for Her Majesty’s Revenue and Customs
+
+## SCHEDULE — Approval conditions for wharves, examination stations and temporary storage facilities under regulation 2
+
+Regulation 2
+
+**1.**[^key-e0af289dd2119c08976efc7d0ca79ea6] The place, or part of the customs and excise airport, must provide officers of Revenue and Customs[^f00006] with unconditional and continuous access while they are there in the course of their duties to such amenities from Items 5 to 15 below as regulations 2 or 3 stipulate[^key-e429b5087e1d19c8c23eaf109766417e] for an approved wharf, an examination station or a temporary storage facility, as the case requires.
+
+**2.**[^key-24b21b7e466f9a0cd9da0e8a13077f8a] The amenities must be adequate in terms of scale, security and privacy for the proper conduct of the formalities and controls conducted by those officers at the individual place or individual part of the airport.
+
+**3.**[^key-ca635b8236abac42474965316148ce33] The amenities must include, where and as appropriate, complimentary—
+
+- (a) electricity,
+- (b) gas, and
+- (c) water and drainage.
+
+**4.**[^key-6b7df20f4eb028210011a7e4d9b59108] The amenities must, where and as appropriate, be—
+
+- (a) clean and clear of waste,
+- (b) illuminated, ventilated, and at an adequate temperature, and
+- (c) in a state of repair reflecting fair use.
+
+### 5. Amenities[^key-ee73a690e76d44a033c3ad74c4c682bc]
+
+Parking areas for vehicles under the control of those officers as part of their duties.
+
+**6.**[^key-28ba7624957d4bc2908c251af958c8af] Furnished office accommodation (that includes telephony and internet-access, complimentary in each case).
+
+**7.**[^key-93f3562a481f60654f79687e02234678] Lavatory facilities.
+
+**8.**[^key-a93ad572f80493983a51170ba4d96f64] Kitchen accommodation that is furnished and has a refrigerator and plumbed sink.
+
+**9.**[^key-bd9beee40678bb91bd12e5d730ebc622] Changing room and showering facilities.
+
+**10.**[^key-f97588bbb663d076dedf24d2568610b3] Space and general equipment for the proper display of customs information signs and publications (for example, direction signs, posters, pamphlets).
+
+**11.**[^key-5826a2be726580feacdda97feca1c2bb] Space and general equipment for the proper conduct of—
+
+- (a) customs formalities[^f00007],
+- (b) controls on cash entering or leaving the United Kingdom (as provided for in Regulation [(EC) No 1889/2005](https://www.legislation.gov.uk/european/regulation/2005/1889) [^f00008], including provision made for that Regulation by regulations under the European Union (Withdrawal) Act 2018[^f00009], section 8), and
+- (c) formalities relating to retail exports (by and under the Value Added Tax Regulations 1995[^f00010], regulation 131).
+
+**12.**[^key-c12920bc0ef3be84db882005d71da180] Furnished office accommodation ensuring the proper conduct of interviews carried out by those officers in the course of their duties.
+
+**13.**[^key-3b06766004b1fc86dc80f2a79b82dd2e] Space to examine imported goods properly, both without and with any specialised equipment under the control of those officers in the course of their duties.
+
+**14.**[^key-e0d8932dc678fcc32134a7c2fd3658e8] Space to examine vehicles properly, both without and with any specialised equipment under the control of those officers in the course of their duties.
+
+**15.**[^key-262fee34776641f37cad8a6a801543b3] Space to store for up to two weeks all goods that are subject to investigation by those officers in the course of their duties.
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations require temporary storage facilities (transit sheds), airport examination stations and approved wharves to provide the amenities necessary for the conduct there of import and export customs formalities and other controls. These are binding conditions of their approval as such if given by HM Revenue and Customs after the United Kingdom exits the European Union.
+
+The amenities in question must be suitable for each individual location, and must be provided unconditionally and on a continuous basis when officers of Revenue and Customs are on duty there.
+
+This instrument is one of a group of instruments covered by a single overarching HMRC impact assessment which will be published on 4th December 2018 and will be available on the website at:
+
+https://www.gov.uk/government/collections/customs-vat-and-excise-regulations-leaving-the-eu-with-no-deal.
+
+## Annotations
+
+[^f00001]: Footnote: [1979 c. 2](https://www.legislation.gov.uk/ukpga/1979/2); section 1(1) of which so defines “the Commissioners”, a substitution made by the Commissioners for Revenue and Customs Act [2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11), Schedule 4, paragraphs 20 and 22(b). Sections 20, 22 and 25 were substituted by [S.I. 1991/2724](https://www.legislation.gov.uk/uksi/1991/2724) and amended by [S.I. 1992/3095](https://www.legislation.gov.uk/uksi/1992/3095), [1993/3014](https://www.legislation.gov.uk/uksi/1993/3014) and [2011/1043](https://www.legislation.gov.uk/uksi/2011/1043), and by the Taxation (Cross-border Trade) Act [2018 (c. 22)](https://www.legislation.gov.uk/ukpga/2018/22), Schedule 7, paragraphs 3, 9, 12 and 16.
+
+[^key-3206d90f1cff958f111631518c982be0]: Commencement: Reg. 1 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1265/regulation/1/2)
+
+[^f00002]: Footnote: The meaning of “exit day” is assigned by the Interpretation Act [1978 (c. 30)](https://www.legislation.gov.uk/ukpga/1978/30), Schedule 1 as amended by the European Union (Withdrawal) Act [2018 (c. 16)](https://www.legislation.gov.uk/ukpga/2018/16), Schedule 8, paragraphs 18 and 22(e) and [S.I. 2018/808](https://www.legislation.gov.uk/uksi/2018/808), and assigned by section 20(1) to (5) of the latter Act.
+
+[^key-026ab4d15312581c5976a28ea4f408e1]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1265/regulation/1/2)
+
+[^M_F_34390446-498b-4774-e97f-36b3e4506c96]: Textual amendment: Words in reg. 2(1) inserted (30.6.2026) by [The Customs (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/605)](https://www.legislation.gov.uk/uksi/2026/605), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/605/regulation/1/1), [6(2)](https://www.legislation.gov.uk/uksi/2026/605/regulation/6/2)
+
+[^f00003]: Footnote: Approved wharf is defined in the Customs and Excise Management Act 1979, section 20A(1) which was a substitution made by [S.I. 1991/2724](https://www.legislation.gov.uk/uksi/1991/2724) and amended by [S.I. 1993/3014](https://www.legislation.gov.uk/uksi/1993/3014) and [S.I. 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043). It will be amended again when the Taxation (Cross-border Trade) Act 2018, Schedule 7, paragraph 10(2) enters force.
+
+[^f00004]: Footnote: Examination stations are defined in the Customs and Excise Management Act 1979, section 22A(1) which was a substitution made by [S.I. 1991/2724](https://www.legislation.gov.uk/uksi/1991/2724) and amended by [S.I. 1993/3014](https://www.legislation.gov.uk/uksi/1993/3014) and [S.I. 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043). It will be amended again when the Taxation (Cross-border Trade) Act 2018, Schedule 7, paragraph 13(2) enters force.
+
+[^key-fbf958421ad1f0701da31ccccffb44e9]: Textual amendment: Words in reg. 2(3) inserted (1.7.2022) by [The Customs (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/628)](https://www.legislation.gov.uk/uksi/2022/628), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/628/regulation/1/3), [6(a)](https://www.legislation.gov.uk/uksi/2022/628/regulation/6/a)
+
+[^f00005]: Footnote: Temporary storage facilities (transit sheds) are defined in the Customs and Excise Management Act 1979, section 25A(1) which was a substitution made by [S.I. 1991/2724](https://www.legislation.gov.uk/uksi/1991/2724) and amended by [S.I. 1993/3014](https://www.legislation.gov.uk/uksi/1993/3014) and [S.I. 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043). It will be amended again when the Taxation (Cross-border) Trade Act 2018, Schedule 7, paragraph 17(2) enters force changing the terminology from “transit shed” to “temporary storage facility”.
+
+[^key-0024a58d7b8eab3cc016c0d17b83781f]: Textual amendment: Reg. 2(4) inserted (1.7.2022) by [The Customs (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/628)](https://www.legislation.gov.uk/uksi/2022/628), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/628/regulation/1/3), [6(b)](https://www.legislation.gov.uk/uksi/2022/628/regulation/6/b)
+
+[^key-7052b3f4597b987ae26d56235a076783]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2018/1265/regulation/3) inserted (30.6.2026) by [The Customs (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/605)](https://www.legislation.gov.uk/uksi/2026/605), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/605/regulation/1/1), [6(3)](https://www.legislation.gov.uk/uksi/2026/605/regulation/6/3)
+
+[^key-e0af289dd2119c08976efc7d0ca79ea6]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/uksi/2018/1265/schedule/paragraph/1) in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+
+[^f00006]: Footnote: Defined in the Interpretation Act 1978, Schedule 1 and the Commissioners for Revenue and Customs Act [2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11), section 2(1). For these purposes, this includes general customs officials under the Borders, Citizenship and Immigration Act [2009 (c. 11)](https://www.legislation.gov.uk/ukpga/2009/11), section 3.
+
+[^key-e429b5087e1d19c8c23eaf109766417e]: Textual amendment: Words in [Sch. para. 1](https://www.legislation.gov.uk/uksi/2018/1265/schedule/paragraph/1) substituted (30.6.2026) by [The Customs (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/605)](https://www.legislation.gov.uk/uksi/2026/605), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/605/regulation/1/1), [6(4)](https://www.legislation.gov.uk/uksi/2026/605/regulation/6/4)
+
+[^key-24b21b7e466f9a0cd9da0e8a13077f8a]: Commencement: Sch. para. 2 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1265/regulation/1/2)
+
+[^key-ca635b8236abac42474965316148ce33]: Commencement: Sch. para. 3 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1265/regulation/1/2)
+
+[^key-6b7df20f4eb028210011a7e4d9b59108]: Commencement: Sch. para. 4 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1265/regulation/1/2)
+
+[^key-ee73a690e76d44a033c3ad74c4c682bc]: Commencement: Sch. para. 5 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1265/regulation/1/2)
+
+[^key-28ba7624957d4bc2908c251af958c8af]: Commencement: Sch. para. 6 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1265/regulation/1/2)
+
+[^key-93f3562a481f60654f79687e02234678]: Commencement: Sch. para. 7 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1265/regulation/1/2)
+
+[^key-a93ad572f80493983a51170ba4d96f64]: Commencement: Sch. para. 8 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1265/regulation/1/2)
+
+[^key-bd9beee40678bb91bd12e5d730ebc622]: Commencement: Sch. para. 9 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1265/regulation/1/2)
+
+[^key-f97588bbb663d076dedf24d2568610b3]: Commencement: Sch. para. 10 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1265/regulation/1/2)
+
+[^key-5826a2be726580feacdda97feca1c2bb]: Commencement: Sch. para. 11 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1265/regulation/1/2)
+
+[^f00007]: Footnote: Defined in the Customs and Excise Management Act 1979, section 1 as amended by the Taxation (Cross-border Trade) Act 2018, Schedule 7, paragraphs 3, 4(1) and 4(2)(c).
+
+[^f00008]: Footnote: O J No. L 309, 25.11.2005, p. 9.
+
+[^f00009]: Footnote: [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16).
+
+[^f00010]: Footnote: [S.I. 1995/2518](https://www.legislation.gov.uk/uksi/1995/2518), relevant amending instruments are [S.I. 1995/3147](https://www.legislation.gov.uk/uksi/1995/3147) and [2003/1485](https://www.legislation.gov.uk/uksi/2003/1485).
+
+[^key-c12920bc0ef3be84db882005d71da180]: Commencement: Sch. para. 12 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1265/regulation/1/2)
+
+[^key-3b06766004b1fc86dc80f2a79b82dd2e]: Commencement: Sch. para. 13 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1265/regulation/1/2)
+
+[^key-e0d8932dc678fcc32134a7c2fd3658e8]: Commencement: Sch. para. 14 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1265/regulation/1/2)
+
+[^key-262fee34776641f37cad8a6a801543b3]: Commencement: Sch. para. 15 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1265/regulation/1/2)

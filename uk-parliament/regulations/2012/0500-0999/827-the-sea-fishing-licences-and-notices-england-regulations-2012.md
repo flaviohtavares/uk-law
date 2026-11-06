@@ -1,0 +1,264 @@
+---
+title: The Sea Fishing (Licences and Notices) (England) Regulations 2012
+id: uksi/2012/827
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2012-03-14'
+text_date: '2020-12-31'
+extent: E+W+S+NI
+source_url: https://www.legislation.gov.uk/uksi/2012/827
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2012/827/pdfs/uksiem_20120827_en.pdf
+- http://www.legislation.gov.uk/uksi/2012/827/pdfs/uksi_20120827_en.pdf
+- http://www.legislation.gov.uk/uksi/2012/827/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Sea Fishing (Licences and Notices) (England) Regulations 2012
+
+> Text as at 2020-12-31.
+>
+> Extent: England, Wales, Scotland, NI.
+
+*Extent: E+W+S+NI*
+
+2012 No. 827
+
+Sea Fisheries, England
+
+The Sea Fishing (Licences and Notices) (England) Regulations 2012
+
+Made
+
+14th March 2012
+
+Laid before Parliament
+
+16th March 2012
+
+Coming into force
+
+6th April 2012
+
+The Secretary of State for Environment, Food and Rural Affairs and the Secretary of State concerned with the sea fishing industry in Northern Ireland, acting jointly in exercise of the powers conferred by section 4B of the Sea Fish (Conservation) Act 1967[^f00001] and now vested in them[^f00002], make the following Regulations.
+
+## 1. Citation, commencement and application
+
+(1) These Regulations may be cited as the Sea Fishing (Licences and Notices) (England) Regulations 2012 and come into force on 6th April 2012.
+
+(2)[^key-44d1e23a0df1f9a15740b5857a8b1405] These regulations apply in relation to—
+
+- (a) licences granted under section 15 of the Fisheries Act 2020 (licensing of British fishing boats) in respect of relevant fishing boats;
+- (b) licences granted under section 17 of that Act (licensing of foreign fishing boats) by the Marine Management Organisation; and
+- (c) licences granted under section 4A of the Sea Fish (Conservation) Act 1967 (licensing of vessels receiving trans-shipped fish)—
+  - (i) in respect of relevant fishing boats, or
+  - (ii) by the Marine Management Organisation in respect of foreign fishing boats.
+
+## 2. Interpretation
+
+*Extent: E+W+S+N.I.*
+
+In these Regulations—
+
+- “electronic communication” has the meaning given in section 15(1) of the Electronic Communications Act 2000[^f00004];
+- “licence” means a licence to which these regulations apply (see regulation 1(2));[^key-a040e2e777a8ef145ee85256524ed31a]
+- “newspaper” means a newspaper circulating within, or within any part of, the United Kingdom and includes a journal, magazine or other periodical publication;
+- “nominee” means either—
+  - (a) an individual resident in the United Kingdom, or
+  - (b) a body incorporated, and having a place of business,[^key-ae44a1fd7984fbe0a161ee65c44fd63f] in the United Kingdom,
+
+  appointed by the owner or charterer of a [^key-8a2c2c6f8f8c5af9869d0c73509076cf]... fishing boat to receive, on the owner or charterer’s behalf, licences and notices;
+- “notice” means a notice of variation, suspension or revocation of a licence;[^key-f8864db9ba45d660344b4b57d75192c7]
+- “relevant fishing boat” means—
+  - (a) a fishing boat or other vessel which is registered in the register maintained under section 8 of the Merchant Shipping Act 1995 (central register of British ships) and whose entry in the register specifies a port in England as the port to which the vessel is to be treated as belonging, or
+  - (b) a fishing boat which is registered under the law of the Channel Islands or the Isle of Man.
+- “sea fishing licence ” means a licence to which these regulations apply by virtue of regulation 1(2)(a) or (b);[^key-d3de0826625a4907cdedc3f68fb73118]
+- “**temporary foreign vessel licence**” means a licence that—
+  - (a) is granted in respect of a foreign fishing boat, and
+  - (b) has effect for a period of no more than three weeks.
+
+## 3. Communication of licences and notices
+
+*Extent: E+W+S+N.I.*
+
+(1) A licence , other than a temporary foreign vessel licence,[^key-2f0b05c9c9fa91a2856f031498732229] is to be granted, and a notice relating to a licence is to be given, by communicating it to an appropriate recipient (“P”)[^key-0f22561835c692e143311ae0ee4d8f5b].
+
+(1A)[^key-11216f0b6c4e14986c52376103efb5b3] In paragraph (1) “**an appropriate recipient**” means—
+
+- (a) in relation to a licence or notice relating to a relevant fishing boat—
+  - (i) the owner or charterer of the fishing boat, or
+  - (ii) a nominee of the owner or charterer;
+- (b) in relation to a licence or a notice, relating to a foreign fishing boat, the owner or charterer of the fishing boat.
+
+(2) A licence , other than a temporary foreign vessel licence,[^key-79e51dd3461e6c497fa0b820d54863b1] must be communicated by—
+
+- (a) personally delivering it to P;
+- (b) posting it to P at P’s address or place of business;
+- (c) leaving it at P’s address or place of business, or in the hands of a person there; or
+- (d) subject to paragraph (6), transmitting it to P by means of an electronic communication to an address which P has specified in accordance with sub-paragraph (b) of that paragraph.
+
+(3) A notice must be communicated to P by—
+
+- (a) a method specified in paragraph (2);
+- (b) publishing the notice on a website, the address of which is indicated on the licence to which the notice relates; or
+- (c) where the notice is a general notice, publishing it in a newspaper.
+
+(3A)[^key-24ef9dc6d5f64b9cb63a3644b2d6c5d2] A temporary foreign vessel licence is to be granted to the owner or charterer of a foreign fishing boat by communicating it to the relevant person by—
+
+- (a) transmitting it to the relevant person by means of an electronic communication, and
+- (b) subsequently publishing it on the website of the Marine Management Organisation or of a person granting the licence on its behalf.
+
+(3B) In paragraph (3A), “**the relevant person**”, in relation to a foreign fishing boat, means—
+
+- (a) if the fishing boat is registered in a member State, the European Commission;
+- (b) if the fishing boat is registered in a country or territory that is not a member State, the authority in that country or territory that is responsible for the regulation of fishing boats.
+
+(4) A general notice must—
+
+- (a) provide that it applies to all sea fishing licences; or
+- (b) specify those sea fishing licences to which it relates by reference to species, area, method or licence type, or any combination of those matters.
+
+(5) A notice other than a general notice must specify the licences to which it relates by reference to the name, port letters and number of each vessel in respect of which such a licence was granted.
+
+(6) A licence or a notice may be communicated by means of an electronic communication as described in paragraph (2)(d) only if the following conditions are satisfied—
+
+- (a) the use of an electronic communication results in the information contained in the licence or notice being available to the person in all material respects as it would appear in a licence or notice given in printed form; and
+- (b) the person has specified an address for the purpose of receiving such communications.
+
+(7) In this regulation a “general notice” means a notice which relates to—
+
+- (a) all sea fishing licences; or
+- (b) all sea fishing licences authorising fishing—
+  - (i) for one or more specified descriptions of sea fish,
+  - (ii) in one or more specified areas,
+  - (iii) by a specified method or methods,
+  - (iv) by licence type, or
+  - (v) by reference to a combination of two or more of the matters referred to in paragraphs (i) to (iv).
+
+(8)[^key-8cbcd3f2185242631705e13f0405a8b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 4. Time at which licences are granted and notices are given[^key-ab7f87d46d18832ae07478b32499f013]
+
+(1) A licence or a notice communicated personally is treated as granted[^key-0cb36a23ec4c05c87094c6fae1de28a0] or given immediately it is communicated.
+
+(2) Subject to paragraph (7), a licence or a notice communicated by post is treated as granted[^key-af1448429ac162bdda8bdca556b9d4f5] or given 48 hours after the end of the day on which it was posted.
+
+(3) A licence or a notice communicated by leaving it at the address or place of business of an owner, charterer or nominee or in the hands of a person there, is treated as granted[^key-3b75ec26d08c54b06d5085bfdd671415] or given 24 hours after the time at which it was left.
+
+(4) A licence or a notice communicated by an electronic communication as described in regulation 3(2)(d) is treated as granted[^key-7bd8b98ca8bb3813e968d01acab3b6fc] or given 24 hours after the time of that transmission.
+
+(4A)[^key-1795511220401f95d1745dad5a4966f4] In relation to a licence or notice transmitted by means of an electronic communication at any time during January 2021, the reference in paragraph (4) to 24 hours is to be read as a reference to one hour.
+
+(4B) A temporary foreign vessel licence communicated as described in regulation 3(3A) is treated as granted immediately it is published in accordance with that provision.
+
+(5) A notice communicated by publication on a website is treated as given immediately it is published.
+
+(6) A notice communicated by publication in a newspaper is treated as given at the end of the day on which it is published.
+
+(7) Where a licence or a notice—
+
+- (a) is communicated by post, and
+- (b) is treated as granted[^key-11b940b09da0f0d116f84c559c198f63] or given on a Sunday or on a bank holiday (within the meaning of the Banking and Financial Dealings Act 1971[^f00006]),
+
+the licence or notice is treated as granted or given at the end of the next day which is not a Sunday or a bank holiday.
+
+## 5. Time at which licences and notices have effect
+
+Subject to regulation 6—
+
+- (a) a licence has effect at the time it is treated as granted[^key-8a545239cbdc06ab8a45dc5eb0e7f7e6] in accordance with regulation 4;
+- (b) a notice communicated in accordance with regulation 3(3)(a) has effect 24 hours after the time it is treated as given in accordance with regulation 4;
+- (c) a notice communicated in accordance with regulation 3(3)(b) has effect 24 hours after the time it is treated as given under regulation 4(5); and
+- (d) a notice communicated in accordance with regulation 3(3)(c) has effect 48 hours after the time it is treated as given in accordance with regulation 4(6).
+
+## 6. Special provision for certain licences and notices
+
+(1) A licence or a notice communicated by more than one of the methods specified in regulation 3 has effect at the earliest of the times corresponding to each such method specified in regulation 5.
+
+(2) A licence or a notice which purports on its face to have effect at a time later than that at which it is treated as having effect in accordance with regulation 5 has effect at the time shown on its face.
+
+## 7. Revocation of the Sea Fishing (Licences and Notices) Regulations 1994
+
+The Sea Fishing (Licences and Notices) Regulations 1994[^f00007] are revoked in relation to England.
+
+Richard Benyon
+
+Parliamentary Under Secretary of State
+
+Department for Environment, Food and Rural Affairs
+
+14th March 2012
+
+Hugo Swire
+
+Minister of State for Northern Ireland
+
+Northern Ireland Office
+
+13th March 2012
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations relate to licences issued in respect of English fishing boats, and fishing boats registered in the Channel Islands or the Isle of Man, under sections 4 and 4A of the Sea Fish (Conservation) Act [1967 (c.84)](https://www.legislation.gov.uk/ukpga/1967/84), and to notices varying, suspending or revoking such licences. They revoke and replace, in relation to such licences and notices, the Sea Fishing (Licences and Notices) Regulations 1994 ([S.I. 1994/2813](https://www.legislation.gov.uk/uksi/1994/2813)).
+
+They provide for the manner in which such licences are to be granted, varied, suspended or revoked, and for the time when such a grant, variation, suspension or revocation is to take effect.
+
+A full impact assessment of the effect that this instrument will have on the costs of business and the public sector is available at www.defra.gov.uk/environment/marine/manage/vessel-licensing and is published with the Explanatory Memorandum alongside the instrument on www.legislation.gov.uk.
+
+## Annotations
+
+[^f00001]: Footnote: [1967 c.84](https://www.legislation.gov.uk/ukpga/1967/84) (“the 1967 Act”). Section 4B was inserted by section 4 of the Sea Fish (Conservation) Act [1992 (c.60)](https://www.legislation.gov.uk/ukpga/1992/60). Section 22(2)(a) of the 1967 Act, which contains a definition of “the Ministers” for the purposes of section 4B, was amended by the Fisheries Act [1981 (c.29)](https://www.legislation.gov.uk/ukpga/1981/29), sections 19(2)(d) and 45(b) (and was modified in relation to Scotland by section 22A(12)(b) of the 1967 Act, inserted by [S.I. 1999/1820](https://www.legislation.gov.uk/uksi/1999/1820)).
+
+[^f00002]: Footnote: The function under section 4B of the 1967 Act in relation to Wales was transferred to the National Assembly for Wales and then transferred from that body to the Welsh Ministers: see article 2(a) of, and Schedule 1 to, the National Assembly for Wales (Transfer of Functions) Order 1999 ([S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672)) and paragraph 30 of Schedule 11 to the Government of Wales Act [2006 (c.32)](https://www.legislation.gov.uk/ukpga/2006/32). The function under section 4B in relation to the Welsh zone was transferred to the Welsh Ministers by article 4(1)(b) of the Welsh Zone (Boundaries and Transfer of Functions) Order 2010 ([S.I. 2010/760](https://www.legislation.gov.uk/uksi/2010/760)). The function under section 4B in relation to Scotland was transferred to the Scottish Ministers under section 53(1) of the Scotland Act [1998 (c.46)](https://www.legislation.gov.uk/ukpga/1998/46). The function under section 4B in relation to licences granted under section 4 or 4A of the 1967 Act by the Department of Agriculture and Rural Development in Northern Ireland was transferred to the Department of Agriculture and Rural Development in Northern Ireland under article 3(1) of, and paragraph 3(1)(g) of Schedule 1 to, the Sea Fisheries (Northern Ireland) Order 2002 ([S.I. 2002/790](https://www.legislation.gov.uk/uksi/2002/790)). Any remaining functions in relation to England of the Secretaries of State concerned with the sea fishing industry in Scotland and Wales under section 4B of the 1967 Act were transferred to the Minister of Agriculture, Fisheries and Food: see article 2(1) of, and the Schedule to, the Transfer of Functions (Agriculture and Fisheries) Order 2000 ([S.I. 2000/1812](https://www.legislation.gov.uk/uksi/2000/1812)). The function of that Minister and the Secretary of State concerned with the sea fishing industry in Northern Ireland acting jointly under section 4B of the 1967 Act was transferred to the Secretary of State for Environment, Food and Rural Affairs and the Secretary of State concerned with the sea fishing industry in Northern Ireland acting jointly: see article 2(5) of the Ministry of Agriculture, Fisheries and Food (Dissolution) Order 2002 ([S.I. 2002/794](https://www.legislation.gov.uk/uksi/2002/794)).
+
+[^key-44d1e23a0df1f9a15740b5857a8b1405]: Textual amendment: [Reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/827/regulation/1/2) substituted (31.12.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(b)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/b), [Sch. 4 para. 19(2)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/19/2) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+
+[^f00004]: Footnote: [2000 c.7](https://www.legislation.gov.uk/ukpga/2000/7); that definition was amended by the Communications Act [2003 (c.21)](https://www.legislation.gov.uk/ukpga/2003/21), section 406(1) and paragraph 158 of Schedule 17.
+
+[^key-a040e2e777a8ef145ee85256524ed31a]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2012/827/regulation/2) substituted (31.12.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(b)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/b), [Sch. 4 para. 19(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/19/3/a) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+
+[^key-ae44a1fd7984fbe0a161ee65c44fd63f]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2012/827/regulation/2) substituted (31.12.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(b)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/b), [Sch. 4 para. 19(3)(b)(i)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/19/3/b/i) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+
+[^key-8a2c2c6f8f8c5af9869d0c73509076cf]: Textual amendment: Word in [reg. 2](https://www.legislation.gov.uk/uksi/2012/827/regulation/2) omitted (31.12.2020) by virtue of [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(b)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/b), [Sch. 4 para. 19(3)(b)(ii)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/19/3/b/ii) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+
+[^key-f8864db9ba45d660344b4b57d75192c7]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2012/827/regulation/2) substituted (31.12.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(b)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/b), [Sch. 4 para. 19(3)(c)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/19/3/c) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+
+[^key-d3de0826625a4907cdedc3f68fb73118]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2012/827/regulation/2) inserted (31.12.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(b)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/b), [Sch. 4 para. 19(3)(e)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/19/3/e) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+
+[^key-2f0b05c9c9fa91a2856f031498732229]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2012/827/regulation/3/1) inserted (31.12.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(b)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/b), [Sch. 4 para. 19(4)(a)(i)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/19/4/a/i) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+
+[^key-0f22561835c692e143311ae0ee4d8f5b]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2012/827/regulation/3/1) substituted (31.12.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(b)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/b), [Sch. 4 para. 19(4)(a)(ii)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/19/4/a/ii) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+
+[^key-11216f0b6c4e14986c52376103efb5b3]: Textual amendment: [Reg. 3(1A)](https://www.legislation.gov.uk/uksi/2012/827/regulation/3/1A) inserted (31.12.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(b)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/b), [Sch. 4 para. 19(4)(b)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/19/4/b) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+
+[^key-79e51dd3461e6c497fa0b820d54863b1]: Textual amendment: Words in [reg. 3(2)](https://www.legislation.gov.uk/uksi/2012/827/regulation/3/2) inserted (31.12.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(b)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/b), [Sch. 4 para. 19(4)(c)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/19/4/c) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+
+[^key-24ef9dc6d5f64b9cb63a3644b2d6c5d2]: Textual amendment: [Reg. 3(3A)](https://www.legislation.gov.uk/uksi/2012/827/regulation/3/3A)[(3B)](https://www.legislation.gov.uk/uksi/2012/827/regulation/3/3B) inserted (31.12.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(b)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/b), [Sch. 4 para. 19(4)(d)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/19/4/d) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+
+[^key-8cbcd3f2185242631705e13f0405a8b6]: Textual amendment: [Reg. 3(8)](https://www.legislation.gov.uk/uksi/2012/827/regulation/3/8) omitted (31.12.2020) by virtue of [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(b)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/b), [Sch. 4 para. 19(4)(e)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/19/4/e) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+
+[^key-ab7f87d46d18832ae07478b32499f013]: Textual amendment: Word in [reg. 4](https://www.legislation.gov.uk/uksi/2012/827/regulation/4) heading substituted (31.12.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(b)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/b), [Sch. 4 para. 19(5)(a)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/19/5/a) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+
+[^key-0cb36a23ec4c05c87094c6fae1de28a0]: Textual amendment: Word in [reg. 4(1)](https://www.legislation.gov.uk/uksi/2012/827/regulation/4/1) substituted (31.12.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(b)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/b), [Sch. 4 para. 19(5)(a)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/19/5/a) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+
+[^key-af1448429ac162bdda8bdca556b9d4f5]: Textual amendment: Word in [reg. 4(2)](https://www.legislation.gov.uk/uksi/2012/827/regulation/4/2) substituted (31.12.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(b)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/b), [Sch. 4 para. 19(5)(a)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/19/5/a) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+
+[^key-3b75ec26d08c54b06d5085bfdd671415]: Textual amendment: Word in [reg. 4(3)](https://www.legislation.gov.uk/uksi/2012/827/regulation/4/3) substituted (31.12.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(b)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/b), [Sch. 4 para. 19(5)(a)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/19/5/a) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+
+[^key-7bd8b98ca8bb3813e968d01acab3b6fc]: Textual amendment: Word in [reg. 4(4)](https://www.legislation.gov.uk/uksi/2012/827/regulation/4/4) substituted (31.12.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(b)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/b), [Sch. 4 para. 19(5)(a)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/19/5/a) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+
+[^key-1795511220401f95d1745dad5a4966f4]: Textual amendment: [Reg. 4(4A)](https://www.legislation.gov.uk/uksi/2012/827/regulation/4/4A)[(4B)](https://www.legislation.gov.uk/uksi/2012/827/regulation/4/4B) inserted (31.12.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(b)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/b), [Sch. 4 para. 19(5)(b)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/19/5/b) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+
+[^key-11b940b09da0f0d116f84c559c198f63]: Textual amendment: Word in [reg. 4(7)](https://www.legislation.gov.uk/uksi/2012/827/regulation/4/7) substituted (31.12.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(b)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/b), [Sch. 4 para. 19(5)(c)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/19/5/c) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+
+[^f00006]: Footnote: [1971 c.80](https://www.legislation.gov.uk/ukpga/1971/80); see section 1 and Schedule 1.
+
+[^key-8a545239cbdc06ab8a45dc5eb0e7f7e6]: Textual amendment: Word in [reg. 5(a)](https://www.legislation.gov.uk/uksi/2012/827/regulation/5/a) substituted (31.12.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(b)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/b), [Sch. 4 para. 19(6)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/19/6) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+
+[^f00007]: Footnote: [S.I. 1994/2813](https://www.legislation.gov.uk/uksi/1994/2813), which was revoked in relation to Scotland by [S.S.I. 2011/70](https://www.legislation.gov.uk/ssi/2011/70).

@@ -1,0 +1,130 @@
+---
+title: The Offshore Installations (Safety Zones) (No. 3) Order 2017
+id: uksi/2017/720
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2017-07-03'
+text_date: '2023-08-08'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2017/720
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2017/720/pdfs/uksi_20170720_en.pdf
+- http://www.legislation.gov.uk/uksi/2017/720/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Offshore Installations (Safety Zones) (No. 3) Order 2017
+
+> Text as at 2023-08-08.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2017 No. 720
+
+Offshore Installations
+
+The Offshore Installations (Safety Zones) (No. 3) Order 2017
+
+Made
+
+3rd July 2017
+
+Coming into force in accordance with article 1(2)
+
+The Secretary of State makes this Order—
+
+- (a) in exercise of the powers conferred by section 22 of the Petroleum Act 1987[^f00001]; and
+- (b) for the purpose of giving effect to proposals submitted by the Health and Safety Executive under section 24(2A)[^f00002] of that Act.
+
+## 1. Citation, commencement and interpretation[^key-a0c22661898a1a700ae8b6e0aa1caaa5]
+
+(1) This Order may be cited as the Offshore Installations (Safety Zones) (No. 3) Order 2017.
+
+(2) This Order comes into force on 6th July2017 except for article 2(2) which comes into force as provided for in article 2(3).
+
+(3) In this Order a reference to an installation is to an installation stationed in waters to which section 21(7) of the Petroleum Act 1987 applies.
+
+## 2. Establishment of safety zones[^key-3fb595ed9be533ded4dfcbafb89c5784][^key-b11386d743d263fed71e4d59e1c36cb5]
+
+(1)[^key-3fb595ed9be533ded4dfcbafb89c5784] A safety zone is established around each installation specified in column 1 of Part 1 of the Schedule having a radius of 500 metres, as respects that installation, from the point which has the co-ordinates of latitude and longitude according to the World Geodetic System 1984[^f00003] specified in columns 2 and 3 of Part 1 of the Schedule.
+
+(2)[^key-b11386d743d263fed71e4d59e1c36cb5] A safety zone is established around each installation specified in column 1 of Part 2 of the Schedule having a radius of 500 metres, as respects that installation, from the point which has the co-ordinates of latitude and longitude according to the World Geodetic System 1984 specified in columns 2 and 3 of Part 2 of the Schedule.
+
+(3)[^key-3fb595ed9be533ded4dfcbafb89c5784] Paragraph (2) comes into force when the installation concerned arrives at its station.
+
+Signed by authority of the Secretary of State for Work and Pensions
+
+Penny Mordaunt
+
+Minister of State
+
+Department for Work and Pensions
+
+3rd July 2017
+
+## SCHEDULE — INSTALLATIONS
+
+Article 2
+
+### PART 1[^key-3952d4ee48f96a17c4d69b52c18aee7d]
+
+Installations stationed at the time the Order is made
+
+| *(1)*<br>*Name or other designation of the offshore installation* | *(2)*<br>*Latitude* | *(3)*<br>*Longitude* |
+| --- | --- | --- |
+| Kraken Drill Centre 4, Block 9/2b, Kraken Field | 59° 55.89’N | 01° 14.98’E |
+| [^key-d61a68e8b71fe94f995936693b43a0d2]. . . | [^key-d61a68e8b71fe94f995936693b43a0d2]. . . | [^key-d61a68e8b71fe94f995936693b43a0d2]. . . |
+
+### PART 2[^key-ebf8b46027fb227eb3b4eeb010263b4c]
+
+Installations not stationed at the time the Order is made
+
+| *(1)*<br>*Name or other designation of the offshore installation* | *(2)*<br>*Latitude* | *(3)*<br>*Longitude* |
+| --- | --- | --- |
+| Edradour PLEM, Block 206/4a, Edradour Field | 60° 54.658’N | 02° 32.259’W |
+| Lancaster Manifold, Block 205/21a, Lancaster Field | 60° 11.95’N | 03° 51.86’W |
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+Article 2 of this Order establishes, under section 22 of the Petroleum Act 1987 (“the Act”), safety zones having a radius of 500 metres from the specified point around the four installations (which are subsea installations) specified in the Schedule to this Order. They are stationed, or to be stationed, in waters to which section 21(7) of the Act applies (these include territorial waters and waters in areas designated under section 1(7) of the Continental Shelf Act [1964 (c.29)](https://www.legislation.gov.uk/ukpga/1964/29)).
+
+Vessels, which for this purpose include hovercraft, submersible apparatus and installations in transit, are prohibited from entering or remaining in a safety zone except with the consent of the Health and Safety Executive or in accordance with regulations made under section 23(1) of the Act (currently regulation 21H of the Offshore Installations and Pipeline Works (Management and Administration) Regulations 1995 ([S.I. 1995/738](https://www.legislation.gov.uk/uksi/1995/738)), inserted by paragraph 14 of Schedule 13 to [S.I. 2015/398](https://www.legislation.gov.uk/uksi/2015/398)).
+
+The United Kingdom Hydrographic Office (UKHO) (https://www.gov.uk/government/organisations/uk-hydrographic-office) publishes nautical charts covering the area in which installations are located, which include information on the existence and, where the scale allows, the location of safety zones. Mariners are advised to keep paper charts up-to-date by using appropriate Notices to Mariners or, where electronic charts are used, to subscribe to an appropriate updating service. Vessels meeting the requirements of the International Convention for the Safety of Life at Sea 1974 will carry nautical charts and nautical publications (such as Notices to Mariners) to plan and display the ship’s route for the intended voyage and to plot and monitor positions throughout the voyage. This may be compulsory for some vessels, for example under the Merchant Shipping (Safety of Navigation) Regulations 2002 ([S.I. 2002/1473](https://www.legislation.gov.uk/uksi/2002/1473)). The UKHO also broadcasts Radio Navigational Warnings in relation to safety zones where updates to charts have yet to take effect and where installations are in transit.
+
+Maritime safety information, which includes information on safety zones, is issued via the appropriate International Maritime Organisation, Global Maritime Distress and Safety System broadcast systems as defined by the World-Wide Navigational Warning Service.
+
+It is estimated that the installations in Part 2 of the Schedule will arrive at their stations at the approximate time set opposite their name in the table below:
+
+| **Name of installation** | **Estimated arrival at station** |
+| --- | --- |
+| Edradour PLEM, Edradour Field | September 2017 |
+| Lancaster Manifold, Lancaster Field | January 2018 |
+
+## Annotations
+
+[^f00001]: Footnote: [1987 c.12](https://www.legislation.gov.uk/ukpga/1987/12).
+
+[^f00002]: Footnote: Section 24(2A) was inserted by [S.I. 1993/1823](https://www.legislation.gov.uk/uksi/1993/1823) and amended by [S.I. 2008/960](https://www.legislation.gov.uk/uksi/2008/960).
+
+[^key-a0c22661898a1a700ae8b6e0aa1caaa5]: Commencement: Art. 1 in force at 6.7.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/720/article/1/2)
+
+[^key-3fb595ed9be533ded4dfcbafb89c5784]: Commencement: Art. 2(1)(3) in force at 6.7.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/720/article/1/2)
+
+[^key-b11386d743d263fed71e4d59e1c36cb5]: Commencement: Art. 2(2) comes into force in accordance with [art. 2(3)](https://www.legislation.gov.uk/uksi/2017/720/article/2/3)
+
+[^f00003]: Footnote: The World Geodetic System 1984 (“WGS84”) defines a reference frame for the earth for use in geodesy and navigation. It was developed by the United States’ National Geospatial-Intelligence Agency and is maintained by it. WGS84 is defined at paragraph 2.1 of the United States’ National Imagery and Mapping Agency Technical Report TR8350.2, third edition, amendment 1 of 3rd January 2000 entitled “Department of Defense World Geodetic System 1984” (http://earth-info.nga.mil/GandG/publications/tr8350.2/wgs84fin.pdf).
+
+[^key-3952d4ee48f96a17c4d69b52c18aee7d]: Commencement: Sch. Pt. 1 in force at 6.7.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/720/article/1/2)
+
+[^key-d61a68e8b71fe94f995936693b43a0d2]: Textual amendment: Entry in [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2017/720/schedule/part/1) omitted (8.8.2023) by virtue of [The Offshore Installations (Safety Zones) Order 2023 (S.I. 2023/838)](https://www.legislation.gov.uk/uksi/2023/838), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/838/article/1/2), [6(2)](https://www.legislation.gov.uk/uksi/2023/838/article/6/2)
+
+[^key-ebf8b46027fb227eb3b4eeb010263b4c]: Commencement: Sch. Pt. 2 in force at 6.7.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/720/article/1/2)

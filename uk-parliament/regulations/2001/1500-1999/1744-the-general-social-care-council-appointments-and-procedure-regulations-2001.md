@@ -1,0 +1,340 @@
+---
+title: The General Social Care Council (Appointments and Procedure) Regulations 2001
+id: uksi/2001/1744
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2001-05-08'
+text_date: '2014-08-01'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2001/1744
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2001/1744/pdfs/uksi_20011744_en.pdf
+- http://www.legislation.gov.uk/uksi/2001/1744/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The General Social Care Council (Appointments and Procedure) Regulations 2001
+
+> Text as at 2014-08-01.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2001 No. 1744
+
+SOCIAL CARE, ENGLAND
+
+The General Social Care Council (Appointments and Procedure) Regulations 2001
+
+Made
+
+8th May 2001
+
+Laid before Parliament
+
+8th May 2001
+
+Coming into force
+
+10th June 2001
+
+The Secretary of State for Health, in exercise of the powers conferred upon him by sections 54(6) and 118(1) and (4) to (7) of, and paragraph 6 of Schedule 1 to, the Care Standards Act 2000[^c15564241] and of all other powers enabling him in that behalf, hereby makes the following Regulations:
+
+### 1. Citation, commencement, interpretation and extent
+
+(1) These Regulations may be cited as the General Social Care Council (Appointments and Procedure) Regulations 2001 and shall come into force on 10th June 2001.
+
+(2) In these Regulations–
+
+- “the Act” means the Care Standards Act 2000;
+- “the chairman” means the chairman of the Council;
+- “the Council” means the General Social Care Council established under section 54 of the Act;
+- “member” means a member of the Council other than the chairman.
+
+(3) In these Regulations, unless the context otherwise requires, any reference to a numbered regulation is a reference to the regulation bearing that number in these Regulations, and any reference to a numbered paragraph is a reference to the paragraph bearing that number in that regulation.
+
+(4) These Regulations extend to England only.
+
+## The chairman and members
+
+### 2. Appointments
+
+(1) The Council shall consist of a chairman and not more than 24 members.
+
+(2) The chairman and all of the members shall be appointed by the Secretary of State.
+
+(3) A majority of the Council shall be appointed from persons who are not, and have not within 12 months of their appointment been–
+
+- (a) social care workers, or
+- (b) involved in the training, education, appointment, employment, supply, supervision, monitoring or representation of social care workers.
+
+(4) Membership of a local authority only counts for the purposes of paragraph (3)(b) if–
+
+- (a) the authority of which the person is a member employs a social care workers in connection with any of the authority’s functions; or
+- (b) the person is a member of a committee or sub-committee of a local authority and a function of that committee or sub-committee is the monitoring or supervising of social care workers or the service they provide.
+
+(5) In these Regulations, “social care workers” includes persons treated as social care workers by virtue of regulations under section 55(3) of the Act.
+
+(6) The chairman shall be one of those persons who must satisfy the requirements of paragraph (3).
+
+### 3. Terms of Appointment
+
+(1) The chairman shall be appointed for a period not exceeding 3 years.
+
+(2) The members shall be appointed for a period not exceeding 4 years.
+
+(3) Members may be appointed for periods of different duration.
+
+(4) The period of appointment of the chairman and of any particular member shall be determined by the Secretary of State.
+
+(5) The chairman shall on the termination of his period of appointment by eligible for reappointment as chairman for such further period not exceeding 3 years or for appointment as a member for a period not exceeding 4 years, as the Secretary of State may determine.
+
+(6) The members shall be eligible for reappointment at the termination of a period of appointment for such further period not exceeding 4 years as the Secretary of State may in any particular case determine.
+
+(7) The Secretary of State may instead of reappointing the chairman or a member on the expiration of their term of office, extend their appointment for such further period as may appear reasonable in the particular circumstances; but the period by which an appointment is extended must not exceed 3 years in the case of the chairman or 4 years in the case of a member.
+
+### 4. Disqualification for appointment
+
+(1) The following persons are disqualified for appointment as chairman or as a member–
+
+- (a) a person who within 5 years of the day his appointment would otherwise have taken effect has been convicted whether in the United Kingdom or elsewhere of any offence and has had passed on him a sentence of imprisonment (whether suspended or not) for a period of not less than 3 months without the option of a fine;
+- (b) a person who within 20 years of the day of his appointment would otherwise have taken effect has been convicted as aforesaid and has had passed on him a sentence of imprisonment for a period of more than two and a half years;
+- (c) a person who has at any time been convicted as aforesaid and has had passed on him a sentence of imprisonment of not less than five years;
+- (d)[^key-c2873b2d34e12e65864f9293a0083256] a person who is the subject of a bankruptcy restrictions order or an interim bankruptcy restrictions order, or a debt relief restrictions order or interim debt relief restrictions order under Schedule 4ZB to the Insolvency Act 1986[^key-cef7c3e45b7e637bba6abb83cec1dcf3];
+- (e) a person who has been dismissed, otherwise than by reason of redundancy, from any paid employment with a local authority;
+- (f) a person whose appointment as chairman or as a member or a director of any public body which employs social care workers has been terminated on the ground that–
+  - (i) it was not in the interests or, or conducive to the good management of that body, that he should continue to hold office;
+  - (ii) he failed without the consent of that body to attend its meetings for a continuous period of 3 months;
+  - (iii) he failed to declare a pecuniary interest or withdraw from consideration of any matter in respect of which he had a pecuniary interest;
+- (g) the person is employed by the Council, the Welsh Council or by any body exercising functions similar to those of the Council under legislation in force in Scotland or Northern Ireland;
+- (h) any person whose application for registration under Part IV of the Act, or under legislation of similar effect in force in Scotland or Northern Ireland, has been refused, or
+  - (i) whose registration has been suspended and the suspension has not been terminated; or
+  - (ii) whose name has been removed from the register and not restored;
+- (i) any person included in a list kept by the Secretary of State under section 1 of the Protection of Children Act 1999 [^c15564251] (list of persons considered unsuitable to work with children) or section 81 of the Act (list of persons considered unsuitable to work with vulnerable adults);
+- (j) any person whose registration as a health care professional has been withdrawn or suspended.
+
+(2) For the purposes of paragraph (1)(a), (b) and (c)–
+
+- (a) the date of conviction shall be deemed to be the date on which the ordinary period allowed for making an appeal or application with respect to the conviction expires or, if such an appeal or application is made, the date on which the appeal or application is finally disposed of or abandoned or fails by reason of its not being prosecuted; and
+- (b) there shall be disregarded–
+  - (i) any conviction by or before a court outside the United Kingdom for an offence in respect of conduct which, if it had taken place in any part of the United Kingdom, would not have constituted an offence under the law in force in that part of the United Kingdom; and
+  - (ii) any sentence of imprisonment passed by such a court on a person who at the time the sentence was passed was under 21 years of age.
+
+(3)[^key-a5fe60b75e42078b5ae15101fe3213a3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4)[^key-a5fe60b75e42078b5ae15101fe3213a3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5) Subject to paragraph (6), a person who is disqualified under paragraph (1)(e) may, after the expiry of 2 years beginning on the date on which he was dismissed, apply in writing to the Secretary of State to remove that disqualification, and the Secretary of State may direct that that disqualification shall cease.
+
+(6) Where the Secretary of State refuses an application to remove a disqualification no further application may be made by that person until the expiry of the period of 2 years beginning with the date of the application and this paragraph shall apply to any subsequent application.
+
+(7) In paragraph (1)(j), a “health care professional” means–
+
+- (a) a medical or dental practitioner, as defined in section 128(1) of the National Health service Act 1977 [^c15564261];
+- (b)[^key-9d566cce3474b9914fde073ee47fb89a] a registered nurse or registered midwife;
+- (c) a registered pharmacist;
+- (d)[^key-58c67b7c8a911b797b3ebb8fd44cdae6] an optometrist or a dispensing optician whose name is entered in a register maintained under section 7 or 8B[^key-1b91d080ed726231413ec0d100b80f96] of the Opticians Act 1989;
+- (e) a person who is registered as a member of a profession to which the Health Professions Order 2001[^key-663d92e0707c11a011f95db0a5af97e8] extends;
+- (f) a registered osteopath as defined by section 41 of the Osteopaths Act 1993 [^c15564301]; or
+- (g) a registered chiropractor as defined by section 43 of the Chiropractors Act 1994 [^c15564311].
+
+### 5. Resignations
+
+(1) The chairman or a member may resign his office at any time during his term of office by giving not less than 30 days notice in writing to the Secretary of State of his intention to do so.
+
+(2) A person who resigns as chairman may, if the Secretary of State consents, continue to serve as a member for any part of the period of his appointment which remains when his resignation as chairman takes effect.
+
+(3) A person who, on his resignation as chairman, seeks to continue to serve as a member must inform the Secretary of State in writing of his wish to do so when he submits his resignation as chairman.
+
+(4) A person who fails to comply with the requirement of paragraph (3) shall cease to be on the Council when his term of office as chairman terminates.
+
+(5) In the case of a member who during his term of office is appointed chairman, the terms on which he was appointed a member shall cease to apply on the day on which his appointment as chairman takes effect.
+
+### 6. Termination by the Secretary of State of tenure of office of chairman and members
+
+(1) The Secretary of State–
+
+- (a) must terminate the appointment of a person as chairman or as a member where the person–
+  - (i) becomes disqualified for appointment under regulation 4; or
+  - (ii) fails without the consent of the Council to attend meetings for a continuous period of 3 months beginning with the date of a meeting; and
+- (b) may terminate the appointment of a person as chairman or as a member where the person–
+  - (i) is capable of carrying out his function by reason of a physical or mental illness; or
+  - (ii) has failed to comply with regulation 10 (disability on account of pecuniary interest).
+
+(2) Paragraph (1)(a)(ii) shall not apply where the Secretary of State is satisfied that the person had good cause for not attending the meetings and that, once the circumstances which caused him to miss the meetings are removed, he can and will attend the meetings of the Council.
+
+(3) Where the Secretary of State decides to terminate an appointment under paragraph (1), he shall forthwith give the person concerned notice in writing of the termination of his appointment and of the reasons for his decision.
+
+(4) Where the Secretary of State is of the opinion that it is not in the interests of, or conducive to the good management of the Council or any of its committees that the chairman or member should continue to hold office, he may forthwith terminate his appointment by giving him notice in writing to that effect.
+
+(5) Where a person has been appointed chairman or a member and it comes to the notice of the Secretary of State that at the time of the appointment he was disqualified for appointment under regulation 4, he shall forthwith declare that the person in question was not duly appointed and notify him in writing to that effect; and upon receipt of such notification, his appointment shall be terminated and he shall cease to act as such chairman or member.
+
+(6) A person who, after his appointment as chairman or as a member, becomes the subject of a bankruptcy restrictions order[^key-eff0b8ac6460ff11005e0aff530fb99e] or an interim bankruptcy restrictions order, or a debt relief restrictions order or interim debt relief restrictions order under Schedule 4ZB to the Insolvency Act 1986[^key-5e035d2ae258bfe1a0bb38ca4cb6f333], shall give notice in writing of the fact to the Secretary of State.
+
+### 7. Appointment of deputy chairman
+
+(1) Subject to paragraph (2), the chairman and members may appoint one of their number to be deputy chairman for such period, not exceeding the remainder of his term of office as a member, as they may specify on appointing him.
+
+(2) Any member so appointed may at any time resign from the office of deputy chairman by giving notice in writing to the chairman.
+
+(3) Where the chairman is, for whatever reason, unable to perform his duties as chairman, the deputy chairman may perform those duties.
+
+## Committees, meetings and procedures
+
+### 8. Appointment of committees and sub-committees
+
+(1) Subject to any directions given to it by the Secretary of State, the Council may and if so directed by the Secretary of State shall, appoint committees of the Council.
+
+(2) A committee appointed by the Council may, subject to such directions as may be given by the Secretary of State or the Council, appoint sub-committees.
+
+(3) Committees and sub-committees appointed under this regulation may consist of such persons, whether or not members of the Council, as the Council or the committee making the appointment may determine.
+
+(4) Regulations 4 and 6 shall apply to appointments to committees and sub-committees and to the termination of those appointments as they apply to appointments to the Council and to the termination of those appointments.
+
+### 9. Meetings and proceedings
+
+(1) The meetings and proceedings of the Council shall be conducted in accordance with the provisions set out in the Schedule to these Regulations and with Standing Orders made under paragraph (2).
+
+(2) Subject to those provisions, to regulation 10 (disability on account of pecuniary interest) and to such directions as may be given by the Secretary of State, the Council shall make, and may vary or revoke, Standing Orders for the regulation of its proceedings and business, including provision for the suspension of the Standing Orders or any of them.
+
+(3) The proceedings of the Council shall not be invalidated by any defect in the appointment of the chairman or a member.
+
+### 10. Disability of chairman and members in proceedings on account of pecuniary interest
+
+(1) Subject to the following provisions of this regulation, if the chairman or any member has a pecuniary interest, direct or indirect, in any contract, proposed contract or other matter and is present at any meeting of the Council at which the contract, proposed contract or other matter is the subject of consideration, he shall at the meeting and as soon as practicable after its meeting, disclose his interest and shall not take part in the consideration or discussion of the contract or other matter or vote on any question with respect to it.
+
+(2) The Council may, by Standing Orders made under regulation 9(2), provide for the exclusion of the chairman or any member from a meeting of the Council while any contract, proposed contract or other matter in which he has a pecuniary interest, direct or indirect, is under consideration.
+
+(3) Any remuneration, compensation or allowances payable to the chairman or a member by virtue of paragraph 7 of Schedule 1 to the Act (remuneration and allowances) shall not be treated as a pecuniary interest for the purpose of this regulation.
+
+(4) Subject of paragraph (5), the chairman or a member shall be treated for the purpose of this regulation as having an indirect pecuniary interest in a contract, proposed contract or other matter if–
+
+- (a) he, or a nominee of his, is a director of a company or other body, not being a public body, with which the contract was made or is proposed to be made or which has a direct pecuniary interest in the other matter under consideration; or
+- (b) he is a partner of, or is in the employment of, a person with whom the contract was made or who has a direct pecuniary interest in the other matter under consideration;
+
+and in the case of married persons living together the interest of one spouse shall, if known to the other, be deemed for the purpose of this regulation to be also an interest of the other.
+
+(5) Neither the chairman nor a member shall be treated as having a pecuniary interest in any contract, proposed contract or other body; or
+
+- (a) of his membership of a company or other body if he has no beneficial interest in any securities of that company or other body; or
+- (b) of an interest in any company, body or person with which he is connected as mentioned in paragraph (4) which is so remote or insignificant that it cannot reasonably be regarded as likely to influence him in consideration or discussion of, or in voting on, any question with respect to that contract, proposed contract or other matter.
+
+(6) Where the chairman or a member–
+
+- (a) has an indirect pecuniary interest in a contract, proposed contract or other matter by reason only of a beneficial interest in securities of a company or other body; and
+- (b) the total nominal value of those securities does not exceed £5,000 or one-hundredth of the total nominal value of the issued share capital of the company or body, whichever is the lesser; and
+- (c) if the share capital is of more than one class, the total nominal value of shares of any one class in which he has a beneficial interest does not exceed one-hundredth of the total issued capital of that class,
+
+this regulation shall not prohibit him from taking part in the consideration or discussion of the contract or other matter, or from voting on any question with respect to it, without prejudice however to his duty to disclose his interest.
+
+(7) This regulation applies to any committee or sub-committee of the Council as it applies to the Council and applies to any member of any such committee or sub-committee (whether or not he is also a member) as it applies to a member.
+
+(8) In this regulation–
+
+- “public body” includes–
+  - (a) any body established for the purpose of carrying on under national ownership, any industry or undertaking or part of any industry or undertaking;
+  - (b) the governing body of any university, university college or college school or hall of a university; and
+  - (c) the National Trust for Places of Historic Interest or Natural beauty incorporated by the National Trust Act 1907 [^c15564321];
+- “securities” means–
+  - (a) shares or debentures, whether or not constituting a charge on the assets of a company or other body, or rights or interests in any share or such debentures; or
+  - (b) rights (whether actual or contingent) in respect of money lent to, or deposited with, any building society or society, other than a society registered as a credit union, which is—[^key-e4674781165a81446f8420e39b2d6986]
+    - (i) a registered society within the meaning given by section 1(1) of the Co-operative and Community Benefit Societies Act 2014; or
+    - (ii) a society registered or deemed to be registered under the Industrial and Provident Societies Act (Northern Ireland) 1969;
+- “shares” means shares in the share capital of a company or other body or the stock of a company or other body.
+
+Signed by authority of the Secretary of State for Health
+
+John Hutton
+
+Minister of State,
+
+Department of Health
+
+## SCHEDULE — PROVISIONS AS TO MEETINGS AND PROCEEDINGS OF THE COUNCIL
+
+Regulation 9(1)
+
+**1.**
+
+- The first meeting of the Council shall be held on such day and at such place as may be fixed by the chairman, and he shall be responsible for convening the meeting.
+
+**2.** (1) The chairman may call a meeting of the Council at any time.
+
+(2) If a requisition for a meeting, signed by at least 5 members, is presented to the chairman, and the chairman either–
+
+- (a) refuses to call a meeting; or
+- (b) without so refusing, does not within 21 days after the requisition has been presented to him call a meeting,
+
+those members may forthwith call a meeting.
+
+(3) Before each meeting of the Council, a notice of the meeting which–
+
+- (a) specifies the principal business proposed to be transacted at it; and
+- (b) is signed by the chairman or by an officer of the Council authorised by the chairman to sign it on his behalf,
+
+shall be delivered to each member, or sent by post to his last known address, at least 7 clear days before the day of the meeting.
+
+(4) The proceedings of any meeting shall not be invalidated by a failure to deliver such notice to any member.
+
+(5) In the case of a meeting called under sub-paragraph (2) above by members, those members shall sign the notice and no business other than that specified in the notice shall be transacted at the meeting.
+
+**3.** (1) At any meeting of the Council the chairman or, in his absence, the deputy chairman (if there is one and he is present) shall preside.
+
+(2) If the chairman and deputy chairman are both absent, such other member present as the other members present shall choose for the purpose shall preside
+
+**4.** (1) At any meeting of the Council the quorum shall be one third (rounded up to a whole number) of the appointed members plus the chairman.
+
+(2) Where the Council is considering the appointment of a Chief Executive, the Council is not quorate unless the chairman is present.
+
+**5.**
+
+- Every question at a meeting shall be determined by a majority of votes of the chairman and members present and competent to vote on the question and, in the case f an equality of votes, the chairman or, in his absence, the person presiding at the meeting shall have a second vote.
+
+**6.** (1) The minutes of the proceedings of a meeting shall be drawn up and shall be signed at the ensuing meeting by the person presiding at that meeting.
+
+(2) The names of the members present and the person presiding at a meeting shall be recorded in the minutes.
+
+*(This note is not part of the Regulations)*
+
+These Regulations make provision concerning the membership and procedure of the General Social Care Council established under Part IV of the Care Standards Act 2000. In particular they make provision for the appointment (regulation 2) and tenure of office (regulation 3) of the chairman and members of the Council; for disqualification for appointment (regulation 4); for resignations (regulation 5); for the termination of appointments by the Secretary of State (regulation 6) and for the appointment of a deputy chairman. Provision is also made for the establishment of committees and sub-committees (regulation 8), the conduct of meetings (regulation 9) and the exclusion from meetings of those with a pecuniary interest in matters under discussion (regulation 10).
+
+These Regulations do not impose a charge on businesses.
+
+## Annotations
+
+[^c15564241]: Marginal citation: [2000 c. 14](https://www.legislation.gov.uk/ukpga/2000/14).
+
+[^key-c2873b2d34e12e65864f9293a0083256]: Textual amendment: Reg. 4(1)(d) substituted (29.6.2006) by [The Enterprise Act 2002 (Disqualification from Office: General) Order 2006 (S.I. 2006/1722)](https://www.legislation.gov.uk/uksi/2006/1722), [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/1722/article/1/1), [Sch. 2 para. 19(2)(a)](https://www.legislation.gov.uk/uksi/2006/1722/schedule/2/paragraph/19/2/a)
+
+[^key-cef7c3e45b7e637bba6abb83cec1dcf3]: Textual amendment: Words in reg. 4(1)(d) substituted (1.10.2012) by [The Tribunals, Courts and Enforcement Act 2007 (Consequential Amendments) Order 2012 (S.I. 2012/2404)](https://www.legislation.gov.uk/uksi/2012/2404), [art. 1](https://www.legislation.gov.uk/uksi/2012/2404/article/1), [Sch. 3 para. 18(2)](https://www.legislation.gov.uk/uksi/2012/2404/schedule/3/paragraph/18/2) (with [arts. 7](https://www.legislation.gov.uk/uksi/2012/2404/article/7), [8](https://www.legislation.gov.uk/uksi/2012/2404/article/8))
+
+[^c15564251]: Marginal citation: [1999 c. 14](https://www.legislation.gov.uk/ukpga/1999/14).
+
+[^key-a5fe60b75e42078b5ae15101fe3213a3]: Textual amendment: Reg. 4(3)(4) omitted (29.6.2006) by virtue of [The Enterprise Act 2002 (Disqualification from Office: General) Order 2006 (S.I. 2006/1722)](https://www.legislation.gov.uk/uksi/2006/1722), [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/1722/article/1/1), [Sch. 2 para. 19(2)(b)](https://www.legislation.gov.uk/uksi/2006/1722/schedule/2/paragraph/19/2/b)
+
+[^c15564261]: Marginal citation: [1977 c. 49](https://www.legislation.gov.uk/ukpga/1977/49).
+
+[^key-9d566cce3474b9914fde073ee47fb89a]: Textual amendment: Reg. 4(7)(b) substituted (1.8.2004) by [The Health Act 1999 (Consequential Amendments) (Nursing and Midwifery) Order 2004 (S.I. 2004/1771)](https://www.legislation.gov.uk/uksi/2004/1771), [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/1771/article/1/1), [Sch. para. 28](https://www.legislation.gov.uk/uksi/2004/1771/schedule/paragraph/28)
+
+[^key-58c67b7c8a911b797b3ebb8fd44cdae6]: Textual amendment: Reg. 4(7)(d) substituted (30.6.2005 as notified in the London Gazette dated 3.6.2005 (Issue 57658)) by [The Opticians Act 1989 (Amendment) Order 2005 (S.I. 2005/848)](https://www.legislation.gov.uk/uksi/2005/848), [art. 1(4)-(6)](https://www.legislation.gov.uk/uksi/2005/848/article/1/4), [Sch. 1 para. 31](https://www.legislation.gov.uk/uksi/2005/848/schedule/1/paragraph/31)
+
+[^key-1b91d080ed726231413ec0d100b80f96]: Textual amendment: Words in reg. 4(7)(d) inserted (3.12.2007) by [The European Qualifications (Health and Social Care Professions) Regulations 2007 (S.I. 2007/3101)](https://www.legislation.gov.uk/uksi/2007/3101), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2007/3101/regulation/1/2), [200](https://www.legislation.gov.uk/uksi/2007/3101/regulation/200)
+
+[^key-663d92e0707c11a011f95db0a5af97e8]: Textual amendment: Words in reg. 4(7)(e) substituted (9.7.2003) by [The Health Professions Order 2001 (Consequential Amendments) Order 2003 (S.I. 2003/1590)](https://www.legislation.gov.uk/uksi/2003/1590), [art. 1](https://www.legislation.gov.uk/uksi/2003/1590/article/1), [Sch. para. 15](https://www.legislation.gov.uk/uksi/2003/1590/schedule/paragraph/15)
+
+[^c15564301]: Marginal citation: [1993 c. 21](https://www.legislation.gov.uk/ukpga/1993/21).
+
+[^c15564311]: Marginal citation: [1994 c. 17](https://www.legislation.gov.uk/ukpga/1994/17).
+
+[^key-eff0b8ac6460ff11005e0aff530fb99e]: Textual amendment: Words in reg. 6(6) substituted (29.6.2006) by [The Enterprise Act 2002 (Disqualification from Office: General) Order 2006 (S.I. 2006/1722)](https://www.legislation.gov.uk/uksi/2006/1722), [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/1722/article/1/1), [Sch. 2 para. 19(3)](https://www.legislation.gov.uk/uksi/2006/1722/schedule/2/paragraph/19/3)
+
+[^key-5e035d2ae258bfe1a0bb38ca4cb6f333]: Textual amendment: Words in reg. 6(6) substituted (1.10.2012) by [The Tribunals, Courts and Enforcement Act 2007 (Consequential Amendments) Order 2012 (S.I. 2012/2404)](https://www.legislation.gov.uk/uksi/2012/2404), [art. 1](https://www.legislation.gov.uk/uksi/2012/2404/article/1), [Sch. 3 para. 18(3)](https://www.legislation.gov.uk/uksi/2012/2404/schedule/3/paragraph/18/3) (with [arts. 7](https://www.legislation.gov.uk/uksi/2012/2404/article/7), [8](https://www.legislation.gov.uk/uksi/2012/2404/article/8))
+
+[^c15564321]: Marginal citation: [1907 c. 36](https://www.legislation.gov.uk/ukpga/1907/36).
+
+[^key-e4674781165a81446f8420e39b2d6986]: Textual amendment: Words in reg. 10(8) substituted (1.8.2014) by [The Co-operative and Community Benefit Societies and Credit Unions Act 2010 (Consequential Amendments) Regulations 2014 (S.I. 2014/1815)](https://www.legislation.gov.uk/uksi/2014/1815), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1815/regulation/1/2), [Sch. para. 10](https://www.legislation.gov.uk/uksi/2014/1815/schedule/paragraph/10)

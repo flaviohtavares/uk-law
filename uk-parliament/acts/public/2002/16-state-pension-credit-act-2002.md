@@ -1,0 +1,1668 @@
+---
+title: State Pension Credit Act 2002
+id: ukpga/2002/16
+type: UnitedKingdomPublicGeneralAct
+category: primary
+status: revised-with-pending-changes
+made_date: '2002-06-25'
+text_date: '2026-07-01'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/ukpga/2002/16
+pdf_urls:
+- http://www.legislation.gov.uk/ukpga/2002/16/pdfs/ukpga_20020016_310815_en.pdf
+- http://www.legislation.gov.uk/ukpga/2002/16/pdfs/ukpga_20020016_301114_en.pdf
+- http://www.legislation.gov.uk/ukpga/2002/16/pdfs/ukpga_20020016_en.pdf
+- http://www.legislation.gov.uk/ukpga/2002/16/data.pdf
+pending_changes: 24
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# State Pension Credit Act 2002
+
+> **Warning: changes not yet applied to this text (24).** Text as at 2026-07-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2002/16
+>
+> Extent: England, Wales, Scotland.
+
+*Extent: E+W+S*
+
+State Pension Credit Act 2002
+
+2002 c. 16
+
+An Act to make provision for and in connection with a new social security benefit called state pension credit; and to amend section 47(1) of the Pension Schemes Act 1993.
+
+\[25th June 2002\]
+
+Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-07bfe89733aeaf3576cc22d33a0d7afd][^key-7329f95b19859c9d733a21da20a130b8][^key-730f7d0903abbda347e1ecdd567108eb][^key-09fb7dc404578f5c55133e15fabeb667][^key-0ebc88f0e0d36f9c56afcc05e5039368][^key-a70b8222d7a3b12e6737d4cce54128e8][^key-187b94aaa193b2bda7ca9e2e130f7673][^key-9d5ebd72336f4e1cb221136006099d1c][^key-daa9e97d962b37a8d8d957917d3a9f50]
+
+## State pension credit: entitlement and amount
+
+### 1. Entitlement[^c4497411][^key-3004cb5856b27d2293bf38bad2b58fa3]
+
+(1) A social security benefit to be known as state pension credit shall be payable in accordance with the following provisions of this Act.
+
+(2) A claimant is entitled to state pension credit if—
+
+- (a) he is in Great Britain;
+- (b) he has attained the qualifying age; and
+- (c) he satisfies—
+  - (i) the condition in section 2(1) (guarantee credit); or
+  - (ii) the conditions in section 3(1) and (2) (savings credit).
+
+(3) A claimant who is entitled to state pension credit is entitled—
+
+- (a) to a guarantee credit, calculated in accordance with section 2, if he satisfies the condition in subsection (1) of that section, or
+- (b) to a savings credit, calculated in accordance with section 3, if he satisfies the conditions in subsections (1) and (2) of that section,
+
+(or to both, if he satisfies both the condition mentioned in paragraph (a) and the conditions mentioned in paragraph (b)).
+
+(4) Subsections (2) and (3) are subject to the following provisions of this Act.
+
+(5) Regulations may make provision for the purposes of this Act—
+
+- (a) as to circumstances in which a person is to be treated as being or not being in Great Britain; or
+- (b) continuing a person’s entitlement to state pension credit during periods of temporary absence from Great Britain.
+
+(6) In this Act “**the qualifying age**” means—
+
+- (a) in the case of a woman, pensionable age; or
+- (b) in the case of a man, the age which is pensionable age in the case of a woman born on the same day as the man.
+
+### 2. Guarantee credit[^c4497421][^key-8ae14d8bba52b8b04b723eb80461dee5]
+
+(1) The condition mentioned in section 1(2)(c)(i) is that the claimant—
+
+- (a) has no income; or
+- (b) has income which does not exceed the appropriate minimum guarantee.
+
+(2) Where the claimant is entitled to a guarantee credit, then—
+
+- (a) if he has no income, the guarantee credit shall be the appropriate minimum guarantee; and
+- (b) if he has income, the guarantee credit shall be the difference between the appropriate minimum guarantee and his income.
+
+(3) The appropriate minimum guarantee shall be the total of—
+
+- (a) the standard minimum guarantee; and
+- (b) such prescribed additional amounts as may be applicable.
+
+(4) The standard minimum guarantee shall be a prescribed amount.
+
+(5) The standard minimum guarantee shall be—
+
+- (a) a uniform single amount in the case of every claimant who is a member of a couple[^key-a497f45253dbf6eddb4fbca83dcf737c] ; and
+- (b) a lower uniform single amount in the case of every claimant who is not a member of a couple[^key-8c513a7f2e6239f8bb3e8cd891460284] .
+
+(6) Regulations may provide that, in prescribed cases, subsection (3) shall have effect with the substitution for the reference in paragraph (a) to the standard minimum guarantee of a reference to a prescribed amount.
+
+(7) Where the claimant is severely disabled, there shall be included among the additional amounts prescribed under subsection (3)(b) an amount in respect of that circumstance.
+
+(8) Where—
+
+- (a) the claimant is entitled to an allowance under section 70 of the Contributions and Benefits Act or carer support payment[^key-71ec75e63675cc1688a20f123d5ecf3f] , or
+- (b) if the claimant is a member of a couple[^key-2b443ea0d31f68a6f4ba4a08f00178af] , the other member of the couple is entitled to such an allowance or payment[^key-8f365600c40ee030d9dbd26edef15082] ,
+
+there shall be included among the additional amounts prescribed under subsection (3)(b) an amount in respect of that circumstance.
+
+(9) Except for the amount of the standard minimum guarantee, the powers conferred by this section to prescribe amounts include power to prescribe nil as an amount.
+
+### 3. Savings credit[^c4497431][^key-883a6ea71de56af45072f31f1d3331a1]
+
+(1)[^key-dcb737fb59400c2aa8a579c1262bfd09] The first of the conditions mentioned in section 1(2)(c)(ii) is that the claimant—
+
+- (a) has attained pensionable age before 6 April 2016 and has attained the age of 65 (before, on or after that date), or
+- (b) is a member of a couple, the other member of which falls within paragraph (a).
+
+(2) The second of the conditions mentioned in section 1(2)(c)(ii) is that—
+
+- (a) the claimant’s qualifying income exceeds the savings credit threshold; and
+- (b) the claimant’s income is such that, for the purposes of subsection (3), amount A exceeds amount B.
+
+(3) Where the claimant is entitled to a savings credit, the amount of the savings credit shall be the amount by which amount A exceeds amount B.
+
+(4) For the purposes of subsection (3)—
+
+- “**amount A**” is the smaller of—
+  - (a) the maximum savings credit; and
+  - (b) a prescribed percentage of the amount by which the claimant’s qualifying income exceeds the savings credit threshold; and
+- “**amount B**” is—
+  - (a) a prescribed percentage of the amount (if any) by which the claimant’s income exceeds the appropriate minimum guarantee; or
+  - (b) if there is no such excess, nil.
+
+(5) Where, by virtue of regulations under section 2(6), the claimant’s appropriate minimum guarantee does not include the standard minimum guarantee, regulations may provide that the definition of “amount B” in subsection (4) shall have effect with the substitution for the reference in paragraph (a) to the appropriate minimum guarantee of a reference to a prescribed higher amount.
+
+(6) Regulations may make provision as to income which is, and income which is not, to be treated as qualifying income for the purposes of this section.
+
+(7) For the purposes of this section—
+
+- “**the savings credit threshold**” is such amount as may be prescribed;
+- “**the maximum savings credit**” is a prescribed percentage of the difference between—
+  - (a) the standard minimum guarantee; and
+  - (b) the savings credit threshold.
+
+(8) Regulations may prescribe descriptions of persons in whose case the maximum savings credit shall be taken to be nil.
+
+### 3ZA. Power to limit savings credit for certain mixed-age couples[^key-9edc5a75e3000189b8cc56b5064a8f04]
+
+(1) Regulations may provide that, in prescribed cases, a person who is a member of a mixed-age couple is not entitled to a savings credit.
+
+(2) For example, the regulations could provide that a member of a mixed-age couple is not entitled to a savings credit unless—
+
+- (a) the person has been awarded a savings credit with effect from a day before 6 April 2016 and was entitled to a savings credit immediately before that date, and
+- (b) the person remained entitled to state pension credit at all times since the beginning of 6 April 2016.
+
+(3) In this section “**mixed-age couple**” means a couple (whenever formed) one member of which had attained pensionable age before 6 April 2016 and the other had not.
+
+### 4. Exclusions[^c4497441][^key-ead54660229e80d8c26857ba5138da65]
+
+(1) A claimant is not entitled to state pension credit if he is a member of a couple[^key-2e3b1f78c06a5a09ed4550c341afc025] the other member of which is entitled to state pension credit.
+
+(1A)[^key-3233b26da8552dcf0dc4dfabb7876b89] A claimant is not entitled to state pension credit if he is a member of a couple the other member of which has not attained the qualifying age.
+
+(2) In section 115(1) of the Immigration and Asylum Act 1999 (c. 33) (exclusion of certain persons from benefits) in the words preceding paragraph (a), after “Jobseekers Act 1995” insert “ or to state pension credit under the State Pension Credit Act 2002 ”.
+
+(3) Where the amount payable by way of state pension credit would (apart from this subsection) be less than a prescribed amount, it shall not be payable except in prescribed circumstances.
+
+## Aggregation
+
+### 5. Income and capital of claimant, spouse etc[^c4497471][^c4550591][^key-81b3d4c2f7b26110b3f03c13e19671e7]
+
+Where the claimant is a member of a couple[^key-05d922fe52f2f49c41449d1b69d3c546] , the income and capital of the other member of the couple shall, except in prescribed circumstances, be treated for the purposes of this Act as income and capital of the claimant.
+
+## Retirement provision
+
+### 6. Duty to specify assessed income period for pre-6 April 2016 awards[^c4497481][^key-b57d39a6e89aad4a2718136fb2aa7b2b][^key-b9211a16a933e920dc095f478d4629b8]
+
+(1) In any case falling within subsection (3) or (4) where the relevant decision takes effect before 6 April 2016[^key-8621873573e7d1614fd674f02d792237], the Secretary of State shall, on the making of the relevant decision, specify a period as the assessed income period, unless prevented by subsection (2).
+
+(2) The Secretary of State is prevented from specifying a period as the assessed income period under subsection (1)—
+
+- (a) if the relevant decision takes effect at a time when an assessed income period is in force in the case of the claimant by virtue of a previous application of this section; or
+- (b) in such other circumstances as may be prescribed.
+
+(3) The first case is where—
+
+- (a) the Secretary of State determines the amount of a claimant’s income for the purposes of a decision relating to state pension credit;
+- (b) the decision is a decision under section 8(1), 9 or 10 of the Social Security Act 1998 (c. 14) (decisions on claims etc, and decisions revising or superseding decisions);
+- (c) the decision takes effect on or after—
+  - (i) the day on which the claimant attains the age of 65; or
+  - (ii) if earlier, in a case where the claimant is a member of a couple[^key-54d51829b6dc160544e572dede5f4699] , the day on which the other member of the couple attains that age; and
+- (d) the decision is not to the effect that the claimant is not entitled to state pension credit.
+
+(4) The second case is where—
+
+- (a) the amount of the claimant’s income is determined on, or for the purposes of, an appeal against a decision that the claimant is not entitled to state pension credit;
+- (b) on the appeal, it is decided that the claimant is entitled to state pension credit; and
+- (c) the decision takes effect as mentioned in subsection (3)(c).
+
+(5) In this section “**the relevant decision**” means—
+
+- (a) so far as relating to the first case, the decision mentioned in subsection (3)(a);
+- (b) so far as relating to the second case, the decision on appeal mentioned in subsection (4)(b).
+
+(6) This section is subject to section 9.
+
+(7) This section and sections 7 to 10 shall be construed as one.
+
+### 7. Fixing of claimant’s retirement provision for assessed income period[^c4497491][^key-2861f924ebb03c93e6c60d2526e3d5c5]
+
+(1) This section applies where, pursuant to section 6(1), the Secretary of State on the making of the relevant decision specifies a period as the assessed income period.
+
+(2) This section has effect for the purpose of determining, as at any time in the assessed income period,—
+
+- (a) the claimant’s entitlement to state pension credit; or
+- (b) the amount of state pension credit to which the claimant is entitled.
+
+(3) Where the claimant’s income, as determined for the purposes of the relevant decision, includes an amount (the “**assessed amount**”) in respect of an element of the claimant’s retirement provision, the amount of that element as at any time in the assessed income period shall be taken to be the assessed amount as for the time being varied in accordance with regulations under subsection (4).
+
+(4) The assessed amount shall be deemed, except in prescribed circumstances,—
+
+- (a) to increase, or
+- (b) in the case of income from capital, to increase or decrease,
+
+on such date or dates and by such amounts as may be prescribed.
+
+(5) Where it is determined for the purposes of the relevant decision that the claimant’s income does not include any, or any further, elements of retirement provision, the claimant’s income throughout the assessed income period shall be taken not to include those elements.
+
+(6) For the purposes of this Act “**retirement provision**” means income of any of the following descriptions—
+
+- (a) retirement pension income, other than benefit under Part 1 of the Pensions Act 2014 or[^key-4011438514c8d42b43142cd21f14f41c] the Contributions and Benefits Act;
+- (b) income from annuity contracts (other than retirement pension income);
+- (c) income from capital;
+- (d)[^key-91185e04e27cf20f42a4f615ea951080] PPF periodic payments,
+
+and an “**element**” of a person’s retirement provision is income of any of those descriptions from a particular source.
+
+(7) For the purposes of this section, regulations may make provision—
+
+- (a) for treating income of any particular description as income of another description; or
+- (b) for treating income from different sources as income from the same source.
+
+(8) Nothing in subsections (3) to (5) prevents the revision under section 9 of the Social Security Act 1998 (c. 14) of the relevant decision or of any earlier or later decision under section 10 of that Act.
+
+(9) This section is subject to section 8.
+
+### 8. Fresh determinations increasing claimant’s entitlement[^key-1f7d80277dea4ed7c28a67c558d121a9]
+
+(1) Subsections (3) to (5) of section 7 do not prevent the making of fresh determinations as to the elements, or any of the elements, or the amount of any of the elements, of the claimant’s retirement provision as at any time during the assessed income period, if—
+
+- (a) the fresh determinations are for the purpose of making a decision under section 10 of the Social Security Act 1998 (c. 14) (“**the new decision**”);
+- (b) the new decision increases the amount of state pension credit to which the claimant is entitled; and
+- (c) the increase is in whole or in part the result of the fresh determinations (taken as a whole).
+
+(2) The conditions in paragraphs (b) and (c) of subsection (1) shall be taken to be satisfied if—
+
+- (a) the new decision reduces the amount of state pension credit to which the claimant is entitled; but
+- (b) the reduction is less than it would have been apart from the fresh determinations (taken as a whole).
+
+(3) Where a fresh determination is made by virtue of subsection (1), then, as respects the part of the assessed income period that begins with the day on which the new decision takes effect, subsections (3) to (5) of section 7 shall have effect in accordance with the fresh determination, instead of the determination which it replaces, but as if—
+
+- (a) the fresh determination were (and the determination which it replaces were not) a determination for the purposes of the relevant decision;
+- (b) any assessed amount resulting from the fresh determination were not subject to variation under subsection (4) of that section at any time before the day on which the new decision takes effect; and
+- (c) the claimant’s income, as determined for the purposes of the relevant decision, were constituted accordingly.
+
+### 9. Duration of assessed income period[^c4497501][^key-5d43d875ef720984126a760afb8f3309]
+
+(1)[^key-bba39af89a143af77e6132775f5f3387] An assessed income period shall (subject to the following subsections) be—
+
+- (a) in the case of a claimant who is under the age of 75 on the day on which the relevant decision takes effect, the period of 5 years beginning with that day;
+- (b) in the case of a claimant who is aged 75 or over on that day, an indefinite period beginning with that day.
+
+(2) If the Secretary of State considers that the particulars of the claimant’s retirement provision as determined for the purposes of the relevant decision are not likely, after taking account of any assumed variations under subsection (3), to be typical of the claimant’s retirement provision throughout the period of 12 months beginning with the day on which that decision takes effect—
+
+- (a) he need not specify a period under section 6(1); and
+- (b) if he does so, he shall specify a period that is shorter than 5 years[^key-b1e658f698558dc670b5d31167889009] (but beginning as mentioned in subsection (1)).
+
+(3) It shall be assumed for the purposes of subsection (2) that the same variations fall to be made in relation to the amount of an element of the claimant’s retirement provision as determined for the purposes of the relevant decision as would fall to be made under section 7(4) if an assessed income period were to be specified in accordance with subsection (1).
+
+(4) An assessed income period shall, except in prescribed circumstances, end at any time at which—
+
+- (a) the claimant becomes a member of a couple[^key-e1c4bf56a7f34e87946d97dd3c5254c4] ;
+- (b) the claimant ceases to be a member of a couple[^key-e4eb32782d902d3ec44940b510d0a2a3] ;
+- (c) the claimant attains the age of 65; or
+- (d) in a case where the claimant is a member of a couple[^key-4021e194a5c1785c1c0d44277d4470ef] , the other member of the couple attains the age of 65.
+
+(5)[^key-34259c495a93ec5b90701e8a6f245acb] Regulations may prescribe further times at which, or circumstances in which, an assessed income period shall end.
+
+(6)[^key-a233d0ced979a891233bf7099dddb13d][^key-77321b9e25ea295afe546a8899f64512] Where—
+
+- (a) an assessed income period is brought to an end , on or after 6 April 2009 but before 6 April 2014,[^key-93f0c5c8b7b79f488e414785b568292f] by the expiry of a period of 5 years or more, and
+- (b) the claimant is aged 80 or over at that time,
+
+the assessed income period shall be treated as not ending at that time but, subject to subsection (4) and provision made under subsection (5), as continuing indefinitely.
+
+### 10. Effect of variations under section 7(4)[^key-8e153919d52b0f0b7043c954ec68f56c]
+
+(1) This section applies where—
+
+- (a) an assessed income period is in force; and
+- (b) there is an alteration in an element of the claimant’s retirement provision which affects the computation of the amount of state pension credit to which the claimant is entitled.
+
+(2) Where, as a result of the alteration, the amount of state pension credit to which the claimant is entitled is increased or reduced, then, as from the commencing date, the amount of state pension credit payable in the case of the claimant shall be the increased or reduced amount, without any further decision of the Secretary of State (and the award of state pension credit shall have effect accordingly).
+
+(3) Where, notwithstanding the alteration, the claimant continues on and after the commencing date to be entitled to the same amount of state pension credit as before, the award shall continue in force accordingly.
+
+(4) In this section—
+
+- “**alteration**” means a variation in the amount of an element of the claimant’s retirement provision in accordance with regulations under section 7(4);
+- “**commencing date**”, in relation to an alteration, means the date on which the alteration comes into force.
+
+## Miscellaneous and supplementary
+
+### 11. Administration[^c4497511][^key-dd7e4c25a21397ed287a3a483bd38d5c][^key-03fb3bd3dd21e6afe43b78d4a4a201e7]
+
+Schedule 1 shall have effect and in that Schedule—
+
+- Part 1 makes amendments to Part 1 of the Administration Act (claims for, and payments and general administration of, benefit);
+- Part 2 makes amendments to Part 1 of the Social Security Act 1998 (c. 14) (decisions and appeals); and
+- Part 3 makes miscellaneous and supplementary provision.
+
+### 12. Polygamous marriages[^c4497521][^key-61081aedbb9730f1f4dc67ab77f5fceb]
+
+(1) This section applies to any case where—
+
+- (a) a person (“**the person in question**”) is a husband or wife by virtue of a marriage entered into under a law which permits polygamy;
+- (b) either party to the marriage has for the time being any spouse additional to the other party; and
+- (c) the person in question, the other party to the marriage and the additional spouse are members of the same household.
+
+(2) Regulations under this section may make provision—
+
+- (a) as to the entitlement of the person in question to state pension credit;
+- (b) as to any guarantee credit or savings credit to which that person is entitled;
+- (c) for prescribing a different amount as the standard minimum guarantee in the case of the person in question;
+- (d) in a case where the person in question is the claimant, for treating the income and capital of the other party and of the additional spouse as income and capital of the person in question.
+
+(3) Any such regulations may provide—
+
+- (a) that prescribed provisions shall apply instead of prescribed provisions of this Act; or
+- (b) that prescribed provisions of this Act shall not apply or shall apply subject to prescribed modifications or adaptations.
+
+(4) Except in relation to the amount of the standard minimum guarantee, any power to prescribe amounts by virtue of this section includes power to prescribe nil as an amount.
+
+### 13. Transitional provisions[^c4497531][^key-782aed16c6bb9861232789a4dc2c425b][^key-7e5781e56bb76431b91c6480292572e4]
+
+(1) The Secretary of State may by regulations make such transitional provision, consequential provision or savings as he considers necessary or expedient for the purposes of, or in connection with,—
+
+- (a) the coming into force of any of the state pension credit provisions of this Act; or
+- (b) the operation of any enactment repealed or amended by any of those provisions during any period when the repeal or amendment is not wholly in force.
+
+(2) The provision that may be made by regulations under this section includes in particular—
+
+- (a) provision for a person who attains or has attained the qualifying age on or before the appointed day and who immediately before that day is entitled to income support—
+  - (i) to be treated as having been awarded on, and with effect as from, that day state pension credit of an amount specified in or determined in accordance with the regulations; or
+  - (ii) to be treated as having made a claim for state pension credit; and
+- (b) provision for an assessed income period under section 6 of such length as may be specified in or determined in accordance with the regulations (which may be longer than the maximum period provided for by section 9(1)) to have effect in the case of a person who attains or has attained the qualifying age on or before the appointed day.
+
+(3) In this section—
+
+- “**the appointed day**” means such day as the Secretary of State may by order appoint;
+- “**the state pension credit provisions of this Act**” means this Act other than section 18.
+
+### 14. Minor and consequential amendments[^c4497541][^key-792f21c046a9957feef6ae79c53ea3dd][^key-75cb78941d8681953d92ee061ebc3915]
+
+Schedule 2 (which makes minor and consequential amendments relating to state pension credit) shall have effect.
+
+## Interpretation of state pension credit provisions
+
+### 15. Income and capital[^c4497611][^key-7c3d71219d32599b706533d8c6281944][^key-244c7c21c6b826168eaf594d3a6cd82b]
+
+(1) In this Act “**income**” means income of any of the following descriptions—
+
+- (a) earnings;
+- (b) working tax credit;
+- (c) retirement pension income;
+- (d) income from annuity contracts (other than retirement pension income);
+- (e) prescribed social security benefits (other than retirement pension income and state pension credit);
+- (f) foreign social security benefits of any prescribed description;
+- (g) a war disablement pension or war widow’s or widower’s pension;
+- (h) a foreign war disablement pension or foreign war widow’s or widower’s pension;
+- (i) income from capital;
+- (j) income of any prescribed description.
+
+(2) Regulations may provide that a person’s capital shall be deemed to yield him income at a prescribed rate.
+
+(3) Income and capital shall be calculated or estimated in such manner as may be prescribed.
+
+(4) A person’s income in respect of any period shall be calculated in accordance with prescribed rules.
+
+(5) The rules may provide for the calculation to be made by reference to an average over a period (which need not consist of or include the whole or any part of the period concerned).
+
+(6) Circumstances may be prescribed in which—
+
+- (a) a person is treated as possessing capital or income which he does not possess;
+- (b) capital or income which a person does possess is to be disregarded;
+- (c) income is to be treated as capital; or
+- (d) capital is to be treated as income.
+
+(7) Subsections (2) to (6) have effect for the purposes of this Act.
+
+### 16. Retirement pension income[^c4497661][^key-7678bc69f653bf82e34b1d597d5c386f]
+
+(1) In this Act “**retirement pension income**” means any of the following—
+
+- (za)[^key-5a6a434a7f0286f76b7da347d2917679] a state pension under Part 1 of the Pensions Act 2014 or under any provision in Northern Ireland which corresponds to that Part;
+- (a) a Category A or Category B retirement pension payable under sections 43 to 55 of—
+  - (i) the Contributions and Benefits Act; or
+  - (ii) the Social Security Contributions and Benefits (Northern Ireland) Act 1992 (c. 7);
+- (b)[^key-45ca9e0f959c33435add11fbf833147d] a shared additional pension payable under—
+  - (i) section 55A of either of those Acts, or
+  - (ii) section 55AA of the Contributions and Benefits Act or any corresponding provision under the law of Northern Ireland;
+- (c) graduated retirement benefit payable under section 62 of either of those Acts;
+- (d) a Category C or Category D retirement pension payable under section 78 of either of those Acts;
+- (e) age addition payable under section 79 of either of those Acts;
+- (f) income from an occupational pension scheme or a personal pension scheme;
+- (g) income from an overseas arrangement;
+- (h) income from a retirement annuity contract;
+- (i) income from annuities or insurance policies purchased or transferred for the purpose of giving effect to rights under a personal pension scheme or an overseas arrangement;
+- (j) income from annuities purchased or entered into for the purpose of discharging liability under—
+  - (i) section 29(1)(b) of the Welfare Reform and Pensions Act 1999 (c. 30) (pension credits on divorce); or
+  - (ii) Article 26(1)(b) of the Welfare Reform and Pensions (Northern Ireland) Order 1999 (S.I. 1999/3147 (N.I. 11)) (corresponding provision for Northern Ireland).
+- (k)[^key-d90c99d97730be957ca986caab3c4fb1] any sum payable by way of pension under section 5 of the Civil List Act 1837 or section 7 of the Civil List Act 1952;
+- (l)[^key-4190e888727a44852abba06106f741d5] any payment, other than a payment ordered by a court or made in settlement of a claim, made by or on behalf of a former employer of a person on account of the early retirement of that person on grounds of ill-health or disability
+- (m)[^key-dc16106d2e25d02605f96d1c74f15ef1] any payment made at regular intervals under an equity release scheme.
+- (n)[^key-a77439b8e3fff21867b693a365f6d257] any payment made under the Financial Assistance Scheme Regulations 2005.
+
+(2) The Secretary of State may by regulations amend subsection (1); and any such regulations may—
+
+- (a) add to or vary the descriptions of income for the time being listed in that subsection; or
+- (b) remove any such description from that subsection.
+
+(3) In this section—
+
+- “**overseas arrangement**” has the meaning given by section 181(1) of the Pension Schemes Act 1993 (c. 48);
+- “**retirement annuity contract**” means a contract or scheme approved under Chapter 3 of Part 14 of the Income and Corporation Taxes Act 1988 (c. 1).
+
+### 17. Other interpretation provisions[^c4497671][^key-1513fb977af9128ca425cf23977e8c19]
+
+(1) In this Act—
+
+- “**the Administration Act**” means the Social Security Administration Act 1992 (c. 5);
+- “**assessed income period**” shall be construed in accordance with sections 6 and 9;
+- “**appropriate minimum guarantee**” shall be construed in accordance with section 2(3);
+- “**capital**” shall be construed in accordance with section 15;
+- “[^key-85fcdae65cc1b55db1ca3ce58e7136cc]**carer support payment**” means the carer support payment component of carer support[^key-d535b1521b51be92b0644903e95a5ea4] given in accordance with the Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023;
+- “**claimant**” means a claimant for state pension credit;
+- “**the Contributions and Benefits Act**” means the Social Security Contributions and Benefits Act 1992 (c. 4);
+- “couple” means— *(Extent: E+W)*[^key-99c5ccfe0db43ac7fe362d5dd56226c3]
+  - (a) two people who are married to, or civil partners of, each other and are members of the same household; or *(Extent: E+W)*
+  - (b) two people who are not married to, or civil partners of, each other but are living together as a married couple *(Extent: E+W)* as if they were a married couple or civil partners[^key-25332548c249986fd93ab3d8bcfd8765] *(Extent: E+W)* otherwise than in prescribed circumstances; *(Extent: E+W)*
+- “**earnings**” has the same meaning as in Parts 1 to 5 of the Contributions and Benefits Act (see sections 3(1) and 112, and the definition of “employment” in section 122, of that Act);
+- “**element**”, in relation to the claimant’s retirement provision, shall be construed in accordance with section 7(6);
+- “**entitled**”, in relation to state pension credit, shall be construed in accordance with—
+  - (a) this Act,
+  - (b) section 1 of the Administration Act (entitlement to be dependent on making of claim etc), and
+  - (c) section 27 of the Social Security Act 1998 (c. 14) (restrictions on entitlement to benefit in certain cases of error),
+
+  (and, in relation to any other benefit within the meaning of section 1 of the Administration Act or section 27 of the Social Security Act 1998, in accordance with that section or (as the case may be) both of those sections in addition to any other conditions relating to that benefit);
+- “**foreign social security benefit**” means any benefit, allowance or other payment which is paid under the law of a country outside the United Kingdom and is in the nature of social security;
+- “**foreign war disablement pension**” means any retired pay, pension, allowance or similar payment granted by the government of a country outside the United Kingdom—
+  - (a) in respect of disablement arising from forces’ service or war injury; or
+  - (b) corresponding in nature to any retired pay or pension to which section 641 of the Income Tax (Earnings and Pensions) Act 2003[^key-e2df1775354325d39914d74ed7226b10] applies;
+- “**foreign war widow’s or widower’s pension**” means any pension, allowance or similar payment granted to a widow, widower or surviving civil partner[^key-a93034cdca43ec1231534725b58374c4] by the government of a country outside the United Kingdom—
+  - (a) in respect of a death due to forces’ service or war injury; or
+  - (b) corresponding in nature to a pension or allowance for a widow, widower or surviving civil partner under any scheme mentioned in section 641(1)(e) or (f) of the Income Tax (Earnings and Pensions) Act 2003[^key-8190a1dd58f0cc117232ed2cd2690374];
+- “**guarantee credit**” shall be construed in accordance with sections 1 and 2;
+- “**income**” shall be construed in accordance with section 15;
+- [^key-3fbc92dbfbf28ed0d90541fa3eacd0c3]...
+- “**occupational pension scheme**” has the meaning given by section 1 of the Pension Schemes Act 1993 (c. 48);
+- “**pensionable age**” has the meaning given by the rules in paragraph 1 of Schedule 4 to the Pensions Act 1995 (c. 26) (equalisation of pensionable ages for men and women);
+- “**personal pension scheme**” means a personal pension scheme—
+  - (a) as defined in section 1 of the Pension Schemes Act 1993; or
+  - (b) as defined in section 1 of the Pension Schemes (Northern Ireland) Act 1993 (c. 49);
+- “[^key-6a4f1d44587001e5c45d3fe543c06b9b]PPF periodic payments” means—
+  - (a) any periodic compensation payments made in relation to a person, payable under the pension compensation provisions as specified in section 162(2) of the Pensions Act 2004 or Article 146(2) of the Pensions (Northern Ireland) Order 2005 (the pension compensation provisions); or
+  - (b) any periodic payments made in relation to a person, payable under section 166 of the Pensions Act 2004 or Article 150 of the Pensions (Northern Ireland) Order 2005 (duty to pay scheme benefits unpaid at assessment date etc.);
+- “**prescribed**” means specified in, or determined in accordance with regulations;
+- “**the qualifying age**” has the meaning given by section 1(6);
+- “**regulations**” means regulations made by the Secretary of State;
+- “**retirement pension income**” shall be construed in accordance with section 16;
+- “**retirement provision**” shall be construed in accordance with section 7(6);
+- “**savings credit**” shall be construed in accordance with sections 1 and 3;
+- “**social security benefits**” means benefits payable under the enactments relating to social security in any part of the United Kingdom;
+- “**standard minimum guarantee**” shall be construed in accordance with section 2(3) to (5) and (9);
+- [^key-3fbc92dbfbf28ed0d90541fa3eacd0c3]...
+- “**war disablement pension**” means—
+  - (a) any retired pay, pension or allowance granted in respect of disablement under powers conferred by or under—
+    - (i) the Air Force (Constitution) Act 1917 (c. 51);
+    - (ii) the Personal Injuries (Emergency Provisions) Act 1939 (c. 82);
+    - (iii) the Pensions (Navy, Army, Air Force and Mercantile Marine) Act 1939 (c. 83);
+    - (iv) the Polish Resettlement Act 1947 (c. 19); or
+    - (v) Part 7 or section 151 of the Reserve Forces Act 1980 (c. 9); or
+  - (b) without prejudice to paragraph (a), any retired pay or pension to which any of paragraphs (a) to (f) of section 641(1) of the Income Tax (Earnings and Pensions) Act 2003[^key-0fbe4f2269f7420e9b2b6749020d2066] applies;
+- “**war widow’s or widower’s pension**” means—
+  - (a) any widow's, widower’s or surviving civil partner's[^key-9de29fcd6cc380eecbee29581b6ddda6] pension or allowance granted in respect of a death due to service or war injury and payable by virtue of any enactment mentioned in paragraph (a) of the definition of “**war disablement pension**”; or
+  - (b) a pension or allowance for a widow, widower or surviving civil partner[^key-249d541122ac658f1f02e71b428ed4d0] granted under any scheme mentioned in section 641(1)(e) or (f) of the Income Tax (Earnings and Pensions) Act 2003[^key-eb537eafcb92430bbbdcfe1c102bbf3e];
+- “**working tax credit**” means a working tax credit under the Tax Credits Act 2002 to which a person is entitled whether alone or jointly with another.
+
+(1A)[^key-e199f4584829d7382ea872ac4f4f8a15] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) Regulations may make provision for the purposes of this Act—
+
+- (a) as to circumstances in which persons are to be treated as being or not being members of the same household;
+- (b) as to circumstances in which persons are to be treated as being or not being severely disabled.
+
+(3) The following provisions of the Contributions and Benefits Act, namely—
+
+- (a) section 172 (references to Great Britain or United Kingdom to include reference to adjacent territorial waters etc), and
+- (b) section 173 (meaning of attaining an age etc),
+
+shall apply for the purposes of this Act as they apply for the purposes of that Act.
+
+## Effect of guaranteed minimum pension on social security benefits
+
+### 18. Equal treatment for widows and widowers
+
+In section 47(1) of the Pension Schemes Act 1993 (c. 48) (which limits the width of the reference in section 46(1) to a person entitled to a guaranteed minimum pension by virtue of being the widower of an earner)—
+
+- (a) after “an earner” insert “ in any case where he is entitled to a benefit other than a widowed parent’s allowance ”;
+- (b) for paragraph (a) substitute—
+
+  > - (a) he is also entitled to a Category B retirement pension by virtue of the earner’s contributions (or would be so entitled but for section 43(1) of the Social Security Contributions and Benefits Act 1992); or
+
+  ;
+
+  and
+- (c) in paragraph (b), for “section 41(7)” substitute “ section 41(5) ” and for “the Social Security Contributions and Benefits Act 1992” substitute “ that Act ”.
+
+## Final provisions
+
+### 18A. Pilot schemes[^key-76aaf18bbb461fb3b2561763fb396939]
+
+(1) Any regulations to which this subsection applies may be made so as to have effect for a specified period not exceeding 12 months.
+
+(2) Subject to subsection (3), subsection (1) applies to—
+
+- (a) regulations made under this Act, and
+- (b) regulations made under section 1 or 5 of the Administration Act.
+
+(3) Subsection (1) only applies to regulations if they are made with a view to ascertaining whether their provisions will—
+
+- (a) make it more likely that persons who are entitled to claim state pension credit will do so;
+- (b) make it more likely that persons who are entitled to claim state pension credit will receive it.
+
+(4) Regulations which, by virtue of subsection (1), are to have effect for a limited period are referred to in this section as a “**pilot scheme**”.
+
+(5) A pilot scheme may, in particular—
+
+- (a) provide for a relevant provision not to apply, or to apply with modifications, for the purposes of the pilot scheme, and
+- (b) make different provision for different cases or circumstances.
+
+(6) For the purposes of subsection (5)(a), a “relevant provision” is—
+
+- (a) any provision of this Act, and
+- (b) section 1 of the Administration Act.
+
+(7) A pilot scheme may provide that no account is to be taken of any payment made under the pilot scheme in considering a person's—
+
+- (a) liability to tax,
+- (b) entitlement to benefit under an enactment relating to social security (irrespective of the name or nature of the benefit), or
+- (c) entitlement to a tax credit.
+
+(8) A pilot scheme may provide that its provisions are to apply only in relation to—
+
+- (a) one or more specified areas or localities;
+- (b) one or more specified classes of person;
+- (c) persons selected—
+  - (i) by reference to prescribed criteria, or
+  - (ii) on a sampling basis.
+
+(9) A pilot scheme may make consequential or transitional provision with respect to the cessation of the scheme on the expiry of the specified period.
+
+(10) A pilot scheme may be replaced by a further pilot scheme making the same or similar provision.
+
+(11) The power of the Secretary of State to make regulations which, by virtue of this section, are to have effect for a limited period is exercisable only with the consent of the Treasury.
+
+### 19. Regulations and orders
+
+(1) Subject to the following provisions of this section, subsections (1), (2) to (5) and (10) of section 175 of the Contributions and Benefits Act (regulations and orders etc) shall apply in relation to any power conferred on the Secretary of State by any provision of this Act to make regulations or an order as they apply in relation to any power conferred on him by that Act to make regulations or an order, but as if for references to that Act (other than references to specific provisions of it) there were substituted references to this Act.
+
+(2) A statutory instrument containing (whether alone or with other provisions) the first regulations under—
+
+- (a) section 2(3)(b), (4) or (6),
+- (b) section 3(4), (5), (6), (7) or (8),
+- (c) section 4(3),
+- (d) section 12, or
+- (e) section 15(1)(e), (f) or (j), (2), (3), (4) or (6),
+
+shall not be made unless a draft of the instrument has been laid before, and approved by a resolution of, each House of Parliament.
+
+(2A)[^key-43f867980be6eb43c19a01aaf3bb5544] A statutory instrument containing regulations which, by virtue of section 18A, are to have effect for a limited period shall not be made unless a draft of the instrument has been laid before, and approved by a resolution of, each House of Parliament.
+
+(3) A statutory instrument—
+
+- (a) which contains regulations under this Act (whether alone or with other provisions), and
+- (b) which is not subject to any requirement that a draft of the instrument be laid before, and approved by a resolution of, each House of Parliament,
+
+shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+### 20. Financial provisions
+
+(1) There shall be paid out of money provided by Parliament—
+
+- (a) any sums payable by way of state pension credit;
+- (b) any expenditure incurred by the Secretary of State or other government department under or by virtue of this Act; and
+- (c) any increase attributable to this Act in the sums payable out of money so provided under any other Act.
+
+(2) There shall be paid into the Consolidated Fund any increase attributable to this Act in the sums which under any other Act are payable into that Fund.
+
+### 21. Enactments repealed[^key-5a98ff4eb07157422a5dd0f65dec5fe4][^key-9840cddf092b50f0a0942fb3783b497e]
+
+The enactments specified in Schedule 3 to this Act are repealed to the extent there specified.
+
+### 22. Short title, commencement and extent
+
+(1) This Act may be cited as the State Pension Credit Act 2002.
+
+(2) This section and sections 19 and 20 come into force on the passing of this Act.
+
+(3)[^c4550571] Except as provided by subsection (2), this Act shall come into force on such day as the Secretary of State may by order appoint; and different days may be so appointed for different purposes.
+
+(4) Any order under this section may make such transitional provision as appears to the Secretary of State to be necessary or expedient in connection with the provisions brought into force by the order.
+
+(5) Any amendment or repeal made by this Act has the same extent as the enactment to which it relates (unless otherwise provided).
+
+(6) Subject to that, this Act extends to England and Wales and Scotland only.
+
+SCHEDULES
+
+## Schedule 1 — Administration
+
+Section 11
+
+### Part 1 — Amendments of the Administration Act
+
+#### 1. Introductory[^c4550351][^key-c2ea430f6c8906e336be52a5cc75099e]
+
+Part 1 of the Administration Act (claims, evidence, and regulations about claims and payment) is amended as follows.
+
+#### 2. Entitlement dependent on making of claim etc[^c4550361][^key-9b7a2b16144f750d84c49942f805022d]
+
+In section 1 (which makes entitlement dependent on the making of a claim and production etc of national insurance numbers and other evidence, and limits backdating to 12 months etc) in subsection (4) (benefits to which the section applies) after “(aa) a jobseeker’s allowance;” insert—
+
+> - (ab) state pension credit;
+
+.
+
+#### 3. Power by regulations to make rules relating to claims, time limits, evidence etc[^c4550371][^key-321f6e219509a98be719f1c4067098d6]
+
+(1) Section 5 is amended as follows.
+
+(2) In subsection (2) (benefits to which the section applies) after paragraph (aa) insert—
+
+> - (ab) state pension credit;
+
+.
+
+(3) After subsection (3) insert—
+
+> (3A) The references in paragraphs (h) and (hh) of subsection (1) above to information or evidence needed for the determination of a claim or of any question arising in connection with a claim or (as the case may be) for a determination whether a decision on an award should be revised or should be superseded, includes, in the case of state pension credit, a reference to information or evidence as to the likelihood of future changes in a person’s circumstances which is needed for determining—
+>
+> - (a) whether a period should be specified as an assessed income period under section 6 of the State Pension Credit Act 2002 in relation to any decision; and
+> - (b) if so, the length of the period to be so specified.
+
+### Part 2 — Amendments of the Social Security Act 1998
+
+#### 4. Introductory[^c4550381][^key-e46400f749de351e9ba9f4c41d4b2b93]
+
+Part 1 of the Social Security Act 1998 (c. 14) (decisions and appeals) is amended as follows.
+
+#### 5. Use of computers[^c4550391][^key-9afc5b5aca70353af328edf2a0aa2074]
+
+In section 2(2) (which defines “relevant enactment”) at the end insert
+
+> ; or
+>
+> - (i) the State Pension Credit Act 2002
+
+.
+
+#### 6. Decisions by Secretary of State[^c4550401][^key-114f4ecc7728a2a1d5d107f338c29845]
+
+(1) Section 8 is amended as follows.
+
+(2) In subsection (3) (meaning of “relevant benefit” in Chapter 2 of Part 1 (social security decisions and appeals)) after paragraph (b) insert—
+
+> - (bb) state pension credit;
+
+.
+
+(3) In subsection (4) (meaning of “relevant enactment” in that section) for “or the Jobseekers Act” substitute “ , the Jobseekers Act or the State Pension Credit Act 2002 ”.
+
+#### 7. Regulations with respect to decisions[^c4550411][^key-da0e99e98f2b4692b43d7b401683dbf2]
+
+In section 11(3), in the definition of “the current legislation”, for “the Social Security (Recovery of Benefits) Act 1997” substitute “ , the Social Security (Recovery of Benefits) Act 1997 and the State Pension Credit Act 2002 ”.
+
+#### 8. Suspension of benefit for failure to furnish information etc[^c4550421][^key-0570d4a0b6cd98b7f7bab1af368a0bb2]
+
+In section 22, after subsection (3) (which defines “information requirement” as a requirement made in pursuance of regulations under section 5(1)(hh) of the Administration Act to furnish certain information or evidence) insert—
+
+> (4) Subsection (3A) of section 5 of the Administration Act (which glosses paragraph (hh) in the case of state pension credit) shall apply in relation to subsection (3) above as it applies in relation to paragraph (hh) of subsection (1) of that section.
+
+#### 9. Restrictions on entitlement to benefit in cases of error: definitions[^c4550431][^key-e8479d53fc671240fc3bfbbbfe9b441f]
+
+In section 27(7), in the definition of “benefit”—
+
+- (a) after paragraph (d) insert—
+
+  > - (dd) state pension credit;
+
+  ,
+
+  and
+- (b) in paragraph (e) for “paragraphs (a) to (d) above” substitute “ paragraphs (a) to (dd) above ”.
+
+#### 10. Correction of errors and setting aside of decisions[^c4550441][^key-b0ffe9b71ccd4e16772814d2469db97b]
+
+In section 28 (correction of errors and setting aside of decisions) in subsection (3) (meaning of “relevant enactment”) at the end insert
+
+> ; or
+>
+> - (f) the State Pension Credit Act 2002
+
+.
+
+#### 11. Decisions against which no appeal lies[^c4550451][^key-6d17dad28c348afb857c7d45bbb178e8]
+
+In Schedule 2 (decisions against which no appeal lies) in paragraph 6(b)(ii), at the end insert
+
+> ; or
+>
+> - (iii) section 159B(1)(b) of that Act (state pension credit)
+
+.
+
+#### 12. Decisions against which appeal lies[^c4550461][^key-b403d2d1dc1f2716dc9374cb09680cd8]
+
+In Schedule 3 (decisions against which appeal lies) after paragraph 8 insert—
+
+> **State pension credit**
+>
+> **8A.** A decision whether to specify a period as an assessed income period under section 6 of the State Pension Credit Act 2002.
+>
+> **8B.** If so, a decision as to the period to be so specified.
+>
+> **8C.** A decision whether an assessed income period comes to an end by virtue of section 9(4) or (5) of that Act.
+>
+> **8D.** If so, a decision as to when the assessed income period so ends.
+
+### Part 3 — Miscellaneous and supplementary
+
+#### 13. Amount payable for periods of less than a week[^c4550471][^key-7436bc2d913076f7329a864905ddbd98]
+
+(1) Where a person is entitled to state pension credit—
+
+- (a) for a period of less than a week, which is the whole period for which state pension credit is payable, or
+- (b) for any other period of less than a week for which it is payable,
+
+the amount payable for that period shall be such amount as may be prescribed.
+
+(2) The power conferred by sub-paragraph (1) to prescribe an amount includes power to prescribe nil as an amount.
+
+## Schedule 2 — Minor and consequential amendments
+
+Section 14
+
+### Part 1 — Amendments of the Contributions and Benefits Act
+
+#### 1. Introductory[^c4497741][^key-4f510f57a44adaab4f0f7cc043e58284]
+
+The Contributions and Benefits Act is amended as follows.
+
+#### 2. Income support[^c4498021][^key-fb4040929f4fb75d0189f53b72a414d6]
+
+(1) Section 124 is amended as follows.
+
+(2) In subsection (1) (entitlement to income support), after paragraph (a) (claimant must be 16 or over) insert—
+
+> - (aa) he has not attained the qualifying age for state pension credit;
+
+.
+
+(3) In that subsection, after paragraph (f) (claimant must not be entitled to jobseeker’s allowance etc) insert
+
+> ; and
+>
+> - (g) if he is a member of a married or unmarried couple, the other member of the couple is not entitled to state pension credit.
+
+#### 3. Effect of attaining qualifying age for state pension credit[^key-1a263e969cdcbc9f7501702d010aa9ee][^key-e785ef28809965ef31620e7b45b52b12]
+
+After section 136 (income and capital) insert—
+
+> **136A. Effect of attaining qualifying age for state pension credit**
+>
+> (1) Subsections (2) and (3) below apply in relation to housing benefit and council tax benefit in the case of any person who has attained the qualifying age for state pension credit.
+>
+> (2) Regulations may make provision for section 134(1) or any provision of section 136 above not to have effect in relation to those benefits in the case of any such person.
+>
+> (3) In relation to those benefits, regulations may make provision for the determination of the income and capital of any such person; and any such regulations may include provision applying (with such modifications as the Secretary of State thinks fit)—
+>
+> - (a) section 5 of the State Pension Credit Act 2002 (provision for treating income of spouse as income of claimant, etc), and
+> - (b) section 15 of that Act (determination of income and capital for purposes of state pension credit).
+>
+> (4) Regulations under subsection (3) above may also include provision—
+>
+> - (a) authorising or requiring the use of any calculation or estimate of a person’s income or capital made by the Secretary of State for the purposes of the State Pension Credit Act 2002; or
+> - (b) requiring that, if and so long as an assessed income period is in force under section 6 of that Act in respect of a person falling within subsection (1) above,—
+>   - (i) the assessed amount of any element of his retirement provision shall be treated as the amount of that element for the purposes of housing benefit or council tax benefit; and
+>   - (ii) his income shall be taken for those purposes not to include any element of retirement provision which it is taken not to include for the purposes of state pension credit by virtue of a determination under subsection (5) of section 7 of that Act.
+>
+> (5) In subsection (4) above “**assessed amount**”, “**element**” and “**retirement provision**” have the same meaning as in the State Pension Credit Act 2002.
+>
+> (6) The Secretary of State may by regulations make provision for the preceding provisions of this section to apply with modifications in cases to which section 12 of the State Pension Credit Act 2002 (polygamous marriages) applies.
+>
+> (7) The provision that may be made by regulations under subsection (6) above includes any provision that may be made by regulations under section 133 above.
+
+#### 4. Interpretation of Part 7 and supplementary provisions[^c4498031][^key-1a1f78b0e8f045729b104d2f29ea15ae]
+
+(1) Section 137 is amended as follows.
+
+(2) In subsection (1), insert the following entries at the appropriate place—
+
+> “**pensionable age**” has the meaning given by the rules in paragraph 1 of Schedule 4 to the Pensions Act 1995 (c. 26);
+
+;
+
+> “**the qualifying age for state pension credit**” is (in accordance with section 1(2)(b) and (6) of the State Pension Credit Act 2002)—
+>
+> - (a) in the case of a woman, pensionable age; or
+> - (b) in the case of a man, the age which is pensionable age in the case of a woman born on the same day as the man;
+
+;
+
+> “**state pension credit**” means state pension credit under the State Pension Credit Act 2002;
+
+.
+
+#### 5. Entitlement of pensioners to Christmas bonus[^c4535671][^key-bdaf27c4df7437055c0f471ac6989f86]
+
+(1) Section 148 is amended as follows.
+
+(2) In subsection (2) (conditions for entitlement in case of couples), in paragraph (c)(ii) (condition that person be in receipt of income support only) for “income support” substitute “ state pension credit ”.
+
+(3) After that subsection insert—
+
+> (2A) In a case falling within paragraph (c)(ii) of subsection (2) above, paragraph (a) of that subsection has effect with the substitution of “qualifying age for state pension credit” for “pensionable age”.
+
+(4) Omit subsection (4) (persons receiving income support only entitled to bonus if attaining pensionable age by end of relevant week).
+
+#### 6. Entitlement to Christmas bonus: supplementary[^c4538191][^key-2c0af0993e5666949731d0926acf2b6d]
+
+(1) Section 149 is amended as follows.
+
+(2) In subsection (2) (circumstances in which a person is treated as entitled to qualifying benefit)—
+
+- (a) in paragraph (a), for “other than income support” substitute “ other than state pension credit ”, and
+- (b) in paragraph (b), for “income support”, in both places where it occurs, substitute “ state pension credit ”.
+
+#### 7. Interpretation of provisions relating to Christmas bonus[^c4538981][^key-0b03426e20e4522eee0968f45257579e]
+
+(1) Section 150 is amended as follows.
+
+(2) In subsection (1) (definition of “qualifying benefit”) in paragraph (k) for “income support” substitute “ state pension credit ”.
+
+(3) In subsection (2) (interpretation of Part 10) insert the following definitions at the appropriate place—
+
+> - “**the qualifying age for state pension credit**” is (in accordance with section 1(2)(b) and (6) of the State Pension Credit Act 2002)—
+>   - (a) in the case of a woman, pensionable age; or
+>   - (b) in the case of a man, the age which is pensionable age in the case of a woman born on the same day as the man;
+
+;
+
+> “**state pension credit**” means state pension credit under the State Pension Credit Act 2002;
+
+.
+
+### Part 2 — Amendments of the Administration Act
+
+#### 8. Introductory[^c4547071][^key-ffae1c3a030171a90a4c7083229d4606]
+
+The Administration Act is amended as follows.
+
+#### 9. Payment out of benefit of sums in respect of mortgage interest etc[^key-4785d7ad74d02d4a628caeafa442cbbe]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 10. Overpayments of benefit: general[^c4549831][^key-1e92a6fdb403db4ae112319b6d89bd75]
+
+In section 71(11) (benefits to which section applies) after paragraph (aa) insert—
+
+> - (ab) state pension credit;
+
+.
+
+#### 11. Adjustment of income support and other payments[^c4549841][^key-355cb8df24c475c5a000cf983c0a2bae]
+
+(1) Section 74 is amended as follows.
+
+(2) In subsection (1)(b) (recovery of income support etc paid because prescribed income not paid until after prescribed date) for “or an income-based jobseeker’s allowance” substitute “ , an income-based jobseeker’s allowance or state pension credit ”.
+
+(3) In subsection (2)(b) (recovery of income support etc paid because prescribed payment from public funds not paid until after prescribed date) for “or an income-based jobseeker’s allowance” substitute “ , an income-based jobseeker’s allowance or state pension credit ”.
+
+#### 12. Interpretation of Part 6: enforcement[^c4549851][^key-9b69714b6497faa0bd8a0622bd1a7b1d]
+
+In section 121DA(1) (definition of “the relevant social security legislation”) after paragraph (h) insert—
+
+> - (hh) the State Pension Credit Act 2002;
+
+.
+
+#### 13. Provisions relating to age, death or marriage[^c4549861][^key-fe2776e2a4e48ae0adfe35681c730ae4]
+
+In section 124(1) (regulations as to furnishing of information from registers of births, marriages and deaths) after “Jobseekers Act 1995;” insert—
+
+> - (ab) of the provisions of the State Pension Credit Act 2002;
+
+.
+
+#### 14. Regulations as to notification of death[^c4549871][^key-9433987fc1a7765fe016e07b661109bb]
+
+In section 125(1) (regulations as to notification of death by Registrar General for England and Wales, etc) after “the Social Security Act 1998” insert “ , the State Pension Credit Act 2002 ”.
+
+#### 15. Provision of information by personal representatives as to estate of deceased person[^c4549881][^key-068aa335ef6bdc00e429a316da69707b]
+
+In section 126(1) (duty to furnish information as to assets and liabilities of a person in receipt of certain benefits) after “income-based jobseeker’s allowance” insert “ , state pension credit ”.
+
+#### 16. Annual up-rating of benefits[^c4549891][^key-8ce9a5899343974aa846df7ca69f6823]
+
+(1) Section 150 is amended as follows.
+
+(2) In subsection (1) (sums which are to be reviewed by the Secretary of State) after paragraph (k) insert—
+
+> - (l) specified in regulations under section 2 or 3 of the State Pension Credit Act 2002;
+
+.
+
+(3) In subsection (7) (provision which may be added to draft up-rating order) after “the Jobseekers Act 1995” insert “ or the State Pension Credit Act 2002 ”.
+
+#### 17. Effect of alterations affecting state pension credit[^c4549901][^key-b04d32277ae404cd62cb5d0536f01942]
+
+After section 159A (effect of alteration of rates of a jobseeker’s allowance) insert—
+
+> **159B. Effect of alterations affecting state pension credit**
+>
+> (1) Subject to such exceptions and conditions as may be prescribed, subsection (2) or (3) below shall have effect where—
+>
+> - (a) an award of state pension credit is in force in favour of any person (“**the recipient**”); and
+> - (b) an alteration—
+>   - (i) in any component of state pension credit,
+>   - (ii) in the recipient’s benefit income,
+>   - (iii) in any component of a contribution-based jobseeker’s allowance, or
+>   - (iv) in the recipient’s war disablement pension or war widow’s or widower’s pension,
+>
+>   affects the computation of the amount of state pension credit to which he is entitled.
+>
+> (2) Where, as a result of the alteration, the amount of state pension credit to which the recipient is entitled is increased or reduced, then, as from the commencing date, the amount of state pension credit payable in the case of the recipient under the award shall be the increased or reduced amount, without any further decision of the Secretary of State; and the award shall have effect accordingly.
+>
+> (3) Where, notwithstanding the alteration, the recipient continues on and after the commencing date to be entitled to the same amount of state pension credit as before, the award shall continue in force accordingly.
+>
+> (4) Subsection (5) below applies where a statement is made in the House of Commons by or on behalf of the Secretary of State which specifies—
+>
+> - (a) in relation to any of the items referred to in subsection (1)(b)(i) to (iv) above, the amount of the alteration which he proposes to make by an order under section 150 or 152 above or by or under any other enactment; and
+> - (b) the date on which he proposes to bring the alteration into force (“**the proposed commencing date**”).
+>
+> (5) If, in a case where this subsection applies, an award of state pension credit is made in favour of a person before the proposed commencing date and after the date on which the statement is made, the award—
+>
+> - (a) may provide for state pension credit to be paid as from the proposed commencing date at a rate determined by reference to the amounts of the items specified in subsection (1)(b)(i) to (iv) above which will be in force on that date; or
+> - (b) may be expressed in terms of the amounts of those items in force at the date of the award.
+>
+> (6) In this section—
+>
+> - “**alteration**” means—
+>   - (a) in relation to any component of state pension credit, its alteration by or under any enactment;
+>   - (b) in relation to a person’s benefit income, the alteration of any of the sums referred to in section 150 above by any enactment or by an order under section 150 or 152 above to the extent that any such alteration affects the amount of his benefit income;
+>   - (c) in relation to any component of a contribution-based jobseeker’s allowance, its alteration by or under any enactment; and
+>   - (d) in relation to a person’s war disablement pension or war widow’s or widower’s pension, its alteration by or under any enactment;
+> - “**benefit income**”, in relation to a person, means so much of his income as consists of benefit under the Contributions and Benefits Act;
+> - “**the commencing date**”, in relation to an alteration, means the date on which the alteration comes into force in relation to the recipient;
+> - “**component**”—
+>   - (a) in relation to contribution-based jobseeker’s allowance, means any of the sums specified in regulations under the Jobseekers Act 1995 (c. 18) which are relevant in calculating the amount payable by way of a jobseeker’s allowance;
+>   - (b) in relation to state pension credit, means any of the sums specified in regulations under section 2, 3 or 12 of the State Pension Credit Act 2002;
+> - “**war disablement pension**” means—
+>   - (a) any retired pay, pension or allowance granted in respect of disablement under powers conferred by or under—
+>     - (i) the Air Force (Constitution) Act 1917 (c. 51);
+>     - (ii) the Personal Injuries (Emergency Provisions) Act 1939 (c. 82);
+>     - (iii) the Pensions (Navy, Army, Air Force and Mercantile Marine) Act 1939 (c. 83);
+>     - (iv) the Polish Resettlement Act 1947 (c. 19); or
+>     - (v) Part 7 or section 151 of the Reserve Forces Act 1980 (c. 9); or
+>   - (b) without prejudice to paragraph (a), any retired pay or pension to which subsection (1) of section 315 of the Income and Corporation Taxes Act 1988 (c. 1) applies;
+> - “**war widow’s or widower’s pension**” means—
+>   - (a) any widow’s or widower’s pension or allowance granted in respect of a death due to service or war injury and payable by virtue of any enactment mentioned in paragraph (a) of the definition of “war disablement pension”; or
+>   - (b) a pension or allowance for a widow or widower granted under any scheme mentioned in section 315(2)(e) of the Income and Corporation Taxes Act 1988.
+
+#### 18. Adjustments between National Insurance Fund and Consolidated Fund[^c4549911][^key-f3823f3aa2a8424bbf7bcc717be1d6d9]
+
+(1) Section 165 is amended as follows.
+
+(2) After subsection (5) (payments from National Insurance Fund into Consolidated Fund) insert—
+
+> (5A) There shall be excluded from the estimate under subsection (5)(a) above any expenses attributable to the carrying into effect of provisions of this Act so far as relating to state pension credit.
+
+(3) In subsection (6) (expenses excluded from Secretary of State’s estimate under subsection (5)(b)) in paragraph (a), after “section 163(2) above” insert “ or section 20 of the State Pension Credit Act 2002 ”.
+
+#### 19. Adjustments between social fund and other sources of finance[^c4549921][^key-63c2970f96930103d4bece73f878de92]
+
+In section 169(1) (adjustments of social fund, Consolidated Fund and National Insurance Fund in relation to repayment or offsetting of benefit or other payment) at the end insert “or the State Pension Credit Act 2002”.
+
+#### 20. The Social Security Advisory Committee[^c4549931][^key-178bf5e74ff561a3816864081c0570d5]
+
+In section 170(5) (interpretation)—
+
+- (a) in the definition of “the relevant enactments”, after paragraph (ag) insert—
+
+  > - (ah) the provisions of the State Pension Credit Act 2002;
+
+  ,
+
+  and
+- (b) in the definition of “the relevant Northern Ireland enactments”, after paragraph (ag) insert—
+
+  > - (ah) any provisions in Northern Ireland which correspond to provisions of the State Pension Credit Act 2002; and
+
+  .
+
+#### 21. Reciprocal agreements with countries outside the United Kingdom[^c4549941][^key-0aebb4acbf6b4033850391a44797872b]
+
+(1) Section 179 is amended as follows.
+
+(2) In subsection (3)(a) (modifications for securing that acts, omissions and events have corresponding effect for the purposes of United Kingdom legislation) after “Part III of the Social Security Contributions (Transfer of Functions, etc) (Northern Ireland) Order 1999” insert “ , the State Pension Credit Act 2002 ”.
+
+(3) In subsection (4) (legislation to which the section applies) after paragraph (ad) insert—
+
+> - (ae) to the State Pension Credit Act 2002; and
+
+.
+
+(4) In subsection (5) (regulations which may be modified) after paragraph (aa) insert—
+
+> - (ab) state pension credit;
+
+.
+
+#### 22. Payment of travelling expenses by Secretary of State[^c4549951][^key-033953898009624d5d657d0b4fac5866]
+
+In section 180—
+
+- (a) in paragraph (a) (expense of attending interview) after “the Social Security Act 1998” insert “ , the State Pension Credit Act 2002 ”, and
+- (b) in paragraph (b)(i) (expense of attending local office) after “the Social Security Act 1998” insert “ , the State Pension Credit Act 2002 ”.
+
+#### 23. Certain benefits to be inalienable[^c4549961][^key-200ba988c2cbe0549b895b8237a2426d]
+
+In section 187(1), after paragraph (aa) insert—
+
+> - (ab) state pension credit;
+
+.
+
+#### 24. Interpretation: general[^c4549971][^key-59630f141942dfa8b92e1f12eb48bb17]
+
+(1) Section 191 is amended as follows.
+
+(2) In the definition of “benefit”, at the end insert “ and state pension credit ”.
+
+(3) Insert the following definition at the appropriate place—
+
+> - “**state pension credit**” means state pension credit under the State Pension Credit Act 2002;
+
+.
+
+### Part 3 — Amendments of other Acts
+
+#### 25. Magistrates’ Courts Act 1980[^key-1715c076ec8897c20ceee4378d6cbec9]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 26. Transport Act 1982[^c4550021][^key-aaecce8ad07629e1cd35dffd77acf41a]
+
+In section 70(2) of the Transport Act 1982 (c. 49) (payments by Secretary of State in respect of applicants for medical exemption from wearing seat belts) after paragraph (b), insert—
+
+> - (bb) those in receipt of guarantee state pension credit (under section 1(3)(a) of the State Pension Credit Act 2002) and those persons who (within the meaning of that Act) are members of a married or unmarried couple the other member of which is in receipt of guarantee state pension credit;
+
+.
+
+#### 27. Abolition of Domestic Rates Etc. (Scotland) Act 1987[^c4550031][^key-ad37e63d3325dd99093701cde7a964a5]
+
+Paragraph 7A of Schedule 2 to the Abolition of Domestic Rates Etc. (Scotland) Act 1987 (c. 47) (recovery of outstanding community charge by deduction from income support) shall, so far as it continues to have effect by virtue of Article 2 of the Local Government Finance Act 1992 (Recovery of Community Charge) Saving Order 1993 (S.I. 1993/1780), apply as if there were inserted at the end—
+
+> (4) This paragraph applies to state pension credit as it applies to income support.
+
+#### 28.[^key-a0bd4c7307da7e4f6e7ce5135fc00aaa]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 29. Local Government Finance Act 1988[^c4550051][^key-72421347e6b9e7cac40e04eeae702fc8]
+
+Paragraph 6 of Schedule 4 to the Local Government Finance Act 1988 (c. 41) (recovery of outstanding community charge by deduction from income support) shall, so far as it continues to have effect by virtue of Article 2 of the Local Government Finance Act 1992 (Recovery of Community Charge) Saving Order 1993, apply as if there were inserted at the end—
+
+> (4) This paragraph applies to state pension credit as it applies to income support.
+
+#### 30. Children Act 1989[^c4550061][^key-f4b7dc1cd50b8b31c57302fa2a9479a9]
+
+In section 29 of the Children Act 1989 (c. 41) (recoupment of cost of providing day care and other services) after subsection (3A) (no charge for certain services if receiving income support or income-based jobseeker’s allowance) insert—
+
+> (3B) No person shall be liable to pay any charge under subsection (1) for a service provided under section 18(2) or (6) at any time when—
+>
+> - (a) he is in receipt of guarantee state pension credit under section 1(3)(a) of the State Pension Credit Act 2002, or
+> - (b) he is a member of a married or unmarried couple (within the meaning of that Act) the other member of which is in receipt of guarantee state pension credit.
+
+#### 31. Criminal Justice Act 1991[^c4550071][^key-931546322b79f0f1dcd23ed5cb4babf7]
+
+In section 24 of the Criminal Justice Act 1991 (c. 53) (recovery of fines by deduction from income support and jobseeker’s allowance)—
+
+- (a) in subsection (1), for “or a jobseeker’s allowance” substitute “ , a jobseeker’s allowance or state pension credit ”, and
+- (b) in subsection (2)(d) for “or a jobseeker’s allowance” substitute “ , a jobseeker’s allowance or state pension credit ”.
+
+#### 32. Local Government Finance Act 1992[^c4550081][^key-b17ef209b5cf765a086b21444fe466b2]
+
+The Local Government Finance Act 1992 (c. 14) is amended as follows.
+
+**33.**[^c4550091][^key-da3fc19486c51faff8d6ff8631cb7d53] (1) Paragraph 6 of Schedule 4 (deductions from income support and jobseeker’s allowance in respect of unpaid council tax) is amended as follows.
+
+(2) In sub-paragraph (1) for “or a jobseeker’s allowance” substitute “ , a jobseeker’s allowance or state pension credit ”.
+
+(3) In sub-paragraph (2)(b) for “or a jobseeker’s allowance” substitute “ , a jobseeker’s allowance or state pension credit ”.
+
+**34.**[^c4550121][^key-289c740be0536f86a7331ae0591d806d] In paragraph 12(1) of that Schedule (relationship between remedies available)—
+
+- (a) after sub-paragraph (b) insert—
+
+  > - (bb) deductions from state pension credit may be resorted to more than once;
+
+  ,
+
+  and
+- (b) in sub-paragraph (d), after “deductions from income support” insert “ , deductions from state pension credit ”.
+
+**35.**[^c4550131][^key-2b83ed9f5aba4652389b3533f71b8593] (1) Paragraph 6 of Schedule 8 (enforcement in Scotland) is amended as follows.
+
+(2) In sub-paragraph (1), for “or a jobseeker’s allowance” substitute “ , a jobseeker’s allowance or state pension credit ”.
+
+(3) In sub-paragraph (2)(b), for “or a jobseeker’s allowance” substitute “ , a jobseeker’s allowance or state pension credit ”.
+
+#### 36. Jobseekers Act 1995[^c4550141][^key-7d3fedce6cfce409705b3df5812a2644][^key-bc55810d22ae2b58645d7cb55acfa5f9]
+
+The Jobseekers Act 1995 (c. 18) is amended as follows. *(affected by repeal, see note)*[^key-bc55810d22ae2b58645d7cb55acfa5f9]
+
+**37.**[^c4550151][^key-dd0cdc6ee051e8f6a3f2c7164add978a] In section 3 (the income-based conditions) in subsection (1)— *(affected by repeal, see note)*[^key-bc55810d22ae2b58645d7cb55acfa5f9]
+
+- (a) in paragraph (b) (claimant must not be entitled to income support) after “income support” insert *(affected by repeal, see note)*[^key-bc55810d22ae2b58645d7cb55acfa5f9] “ or state pension credit ” *(affected by repeal, see note)*[^key-bc55810d22ae2b58645d7cb55acfa5f9]; and *(affected by repeal, see note)*[^key-bc55810d22ae2b58645d7cb55acfa5f9]
+- (b) after paragraph (d) insert— *(affected by repeal, see note)*[^key-bc55810d22ae2b58645d7cb55acfa5f9]
+
+  > - (dd (affected by repeal, see note))[^key-bc55810d22ae2b58645d7cb55acfa5f9] is not a member of a married or unmarried couple the other member of which is entitled to state pension credit; *(affected by repeal, see note)*[^key-bc55810d22ae2b58645d7cb55acfa5f9]
+
+  .
+
+**38.**[^c4550161][^key-36b2aa7e50b0d6dafaa7bd0b31d9de45] In section 3A (conditions for claims by joint-claim couples) in subsection (1), after paragraph (c) insert— *(affected by repeal, see note)*[^key-bc55810d22ae2b58645d7cb55acfa5f9]
+
+> - (cc (affected by repeal, see note))[^key-bc55810d22ae2b58645d7cb55acfa5f9] that neither member of the couple is entitled to state pension credit; *(affected by repeal, see note)*[^key-bc55810d22ae2b58645d7cb55acfa5f9]
+
+.
+
+#### 39. Pensions Act 1995[^c4550171][^key-caffb69e76223a1b4f19c3b2d5bcb619]
+
+In Schedule 4 to the Pensions Act 1995 (c. 26) (equalisation of pension ages for men and women) in paragraph 1 (Acts to which the rules for determining pensionable age apply) for “and the Pension Schemes Act 1993” substitute “ , the Pension Schemes Act 1993 (c. 48) and the State Pension Credit Act 2002 ”.
+
+#### 40. Social Security Act 1998[^c4550181][^key-3f3fc3d84ebed8d06b9c850e48e0ff6b]
+
+The Social Security Act 1998 (c. 14) is amended as follows.
+
+**41.**[^c4550191][^key-5ee6d4d3c70bd7c42dea47994f7ddc25] In section 34 (determination by local authorities of claims for housing benefit and council tax benefit) in subsection (3) (regulations giving priority to persons who have been entitled to jobseeker’s allowance or income support) after “or to income support” insert “ or state pension credit ”.
+
+#### 42. Immigration and Asylum Act 1999[^key-83e5f583f3e880cca4759c3f790cc1cd]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 43. Local Government Act 2000[^c4550211][^key-a897d6de86be5ab9987df98a18bba29f]
+
+In section 94 of the Local Government Act 2000 (c. 22) (disclosure of information) in subsection (1) (information relating to income support and income-based jobseeker’s allowance) for “or income-based jobseeker’s allowance” substitute “ , income-based jobseeker’s allowance or state pension credit ”.
+
+#### 44. Social Security Fraud Act 2001[^c4550221][^key-e16b428c717781a7fc006be37cbe7802]
+
+The Social Security Fraud Act 2001 (c. 11) is amended as follows.
+
+**45.**[^c4550231][^key-3147e21aef30576936f41ae2312cf9a0] (1) Section 7 (loss of benefit for commission of benefit offences) is amended as follows.
+
+(2) After subsection (4) (cases where sanctionable benefit is jobseeker’s allowance) insert—
+
+> (4A) The Secretary of State may by regulations provide that, where the sanctionable benefit is state pension credit, the benefit shall be payable in the offender’s case for any period comprised in the disqualification period as if the rate of the benefit were reduced in such manner as may be prescribed.
+
+(3)[^key-65bcbb5431573ab03d8889ebb5acb518] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**46.**[^c4550241][^key-df7b5369ac134479c854d4d2a2c28571] (1) Section 9 (effect of offence on benefits for members of offender’s family) is amended as follows.
+
+(2) In subsection (1) (benefits to which section applies) after paragraph (b) insert—
+
+> - (bb) state pension credit;
+
+.
+
+(3) After subsection (4) (reduction of jobseeker’s allowance) insert—
+
+> (4A) In relation to cases in which the benefit is state pension credit, the provision that may be made by virtue of subsection (2) is provision that, in the case of the offender’s family member, the benefit shall be payable for the whole or any part of any period comprised in the relevant period as if the rate of the benefit were reduced in such manner as may be prescribed.
+
+**47.**[^c4550251][^key-23ac1e22c5938878abbe3103090f4144] In section 10 (power to supplement and mitigate loss of benefit provisions) in subsection (3), after paragraph (b) insert—
+
+> - (bb) any benefit under the State Pension Credit Act 2002 or under any provision having effect in Northern Ireland corresponding to that Act; or
+
+.
+
+**48.**[^c4550261][^key-e358e0a5bbcb76b96801207e4075b97f] In section 11(3) (loss of benefit regulations: draft regulations requiring approval by resolution of each House of Parliament) in paragraph (c)—
+
+- (a) after “section 7(4)” insert “ , (4A) ”, and
+- (b) after “or 9(4)” insert “ , (4A) ”.
+
+**49.**[^c4550291][^key-4b9349262a18b738c285a324c8050eda] In section 13 (interpretation) insert the following definition at the appropriate place—
+
+> - “**state pension credit**” means state pension credit under the State Pension Credit Act 2002;
+
+.
+
+## Schedule 3 — Enactments repealed[^key-080990b0189291f7bee69972b7fa1e5e][^key-8b2ec1c18622ee4222c61cee1a84fd4a]
+
+Section 21
+
+| Short title and chapter | Extent of repeal |
+| --- | --- |
+| Social Security Contributions and Benefits Act 1992 (c. 4) | In section 124(1), the word “and” immediately preceding paragraph (f).<br>Section 148(4). |
+| Social Security Act 1998 (c. 14) | In section 2(2), the word “or” immediately preceding paragraph (h).<br>In section 11(3), in the definition of “current legislation”, the word “and” in the second place where it occurs.<br>In section 28(3), the word “or” immediately preceding paragraph (e).<br>In paragraph 6(b) of Schedule 2, the word “or” immediately preceding sub-paragraph (ii). |
+| Social Security Fraud Act 2001 (c. 11) | In section 10(3), the word “or” immediately preceding paragraph (b). |
+
+## Annotations
+
+[^key-07bfe89733aeaf3576cc22d33a0d7afd]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2002/16) applied (with modifications) (27.7.2010) by [The State Pension Credit Pilot Scheme Regulations 2010 (S.I. 2010/1925)](https://www.legislation.gov.uk/uksi/2010/1925), [reg. 3](https://www.legislation.gov.uk/uksi/2010/1925/regulation/3), [Sch.](https://www.legislation.gov.uk/uksi/2010/1925/schedule)
+
+[^key-7329f95b19859c9d733a21da20a130b8]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2002/16) modified (coming into force in accordance with art. 1 of the amending S.I.) by [The Social Security (Ireland) Order 2019 (S.I. 2019/622)](https://www.legislation.gov.uk/uksi/2019/622), [art. 2](https://www.legislation.gov.uk/uksi/2019/622/article/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-730f7d0903abbda347e1ecdd567108eb]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2002/16) modified (coming into force in accordance with art. 1 of the amending S.I.) by [The Social Security (Iceland) (Liechtenstein) (Norway) (Citizens' Rights Agreement) Order 2019 (S.I. 2019/1302)](https://www.legislation.gov.uk/uksi/2019/1302), [art. 2](https://www.legislation.gov.uk/uksi/2019/1302/article/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-09fb7dc404578f5c55133e15fabeb667]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2002/16) modified (coming into force in accordance with art. 1 of the amending S.I.) by [The Social Security (Switzerland) (Citizens' Rights Agreement) Order 2019 (S.I. 2019/1303)](https://www.legislation.gov.uk/uksi/2019/1303), [art. 2](https://www.legislation.gov.uk/uksi/2019/1303/article/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-0ebc88f0e0d36f9c56afcc05e5039368]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2002/16) modified (1.1.2021) by [The Social Security (Norway) Order 2020 (S.I. 2020/1597)](https://www.legislation.gov.uk/uksi/2020/1597), [arts. 1](https://www.legislation.gov.uk/uksi/2020/1597/article/1), [2(1)](https://www.legislation.gov.uk/uksi/2020/1597/article/2/1)[(2)](https://www.legislation.gov.uk/uksi/2020/1597/article/2/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1597/schedule) (with [art. 2(3)](https://www.legislation.gov.uk/uksi/2020/1597/article/2/3))
+
+[^key-a70b8222d7a3b12e6737d4cce54128e8]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2002/16) modified (coming into force in accordance with art. 1 of the amending S.I.) by [The Social Security (Switzerland) Order 2021 (S.I. 2021/1088)](https://www.legislation.gov.uk/uksi/2021/1088), [art. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2021/1088/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2021/1088/schedule)
+
+[^key-187b94aaa193b2bda7ca9e2e130f7673]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2002/16) modified (coming into force in accordance with art. 1(3) of the amending S.I.) by [The Social Security (Iceland) (Liechtenstein) (Norway) Order 2023 (S.I. 2023/1060)](https://www.legislation.gov.uk/uksi/2023/1060), [art. 2](https://www.legislation.gov.uk/uksi/2023/1060/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2023/1060/schedule)
+
+[^key-9d5ebd72336f4e1cb221136006099d1c]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2002/16) modified (coming into force in accordance with art. 1(3) of the amending S.I.) by [The Social Security (Gibraltar) Order 2024 (S.I. 2024/149)](https://www.legislation.gov.uk/uksi/2024/149), [art. 2](https://www.legislation.gov.uk/uksi/2024/149/article/2)
+
+[^key-daa9e97d962b37a8d8d957917d3a9f50]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2002/16) modified (S.) (coming into force in accordance with art. 1(3) of the amending S.S.I.) by [The Social Security (Gibraltar) (Iceland) (Liechtenstein) (Norway) (Further provision in respect of Scotland) Order 2024 (S.S.I. 2024/62)](https://www.legislation.gov.uk/ssi/2024/62), [art. 2](https://www.legislation.gov.uk/ssi/2024/62/article/2)
+
+[^c4497411]: Commencement: S. 1 partly in force; s. 1 not in force at Royal Assent, see s. 22(3); s. 1 in force for certain purposes at 2.7.2002 by [S.I. 2002/1691](https://www.legislation.gov.uk/uksi/2002/1691), [art. 2](https://www.legislation.gov.uk/uksi/2002/1691/article/2)
+
+[^key-3004cb5856b27d2293bf38bad2b58fa3]: Commencement: S. 1 in force at 6.10.2003 in so far as not already in force by [S.I. 2003/1766](https://www.legislation.gov.uk/uksi/2003/1766), [art. 2(a)](https://www.legislation.gov.uk/uksi/2003/1766/article/2/a)
+
+[^c4497421]: Commencement: S. 2 partly in force; s. 2 not in force at Royal Assent, see s. 22(3); s. 2 in force for certain purposes at 2.7.2002 by [S.I. 2002/1691](https://www.legislation.gov.uk/uksi/2002/1691), [art. 2](https://www.legislation.gov.uk/uksi/2002/1691/article/2)
+
+[^key-8ae14d8bba52b8b04b723eb80461dee5]: Commencement: S. 2 in force at 6.10.2003 in so far as not already in force by [S.I. 2003/1766](https://www.legislation.gov.uk/uksi/2003/1766), [art. 2(a)](https://www.legislation.gov.uk/uksi/2003/1766/article/2/a)
+
+[^key-a497f45253dbf6eddb4fbca83dcf737c]: Textual amendment: Words in s. 2(5)(a) substituted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [s. 263(8)(d)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/8/d), [Sch. 24 para. 140](https://www.legislation.gov.uk/ukpga/2004/33/schedule/24/paragraph/140); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/3175/schedule/1)
+
+[^key-8c513a7f2e6239f8bb3e8cd891460284]: Textual amendment: Words in s. 2(5)(b) substituted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [s. 263(8)(d)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/8/d), [Sch. 24 para. 141](https://www.legislation.gov.uk/ukpga/2004/33/schedule/24/paragraph/141); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/3175/schedule/1)
+
+[^key-71ec75e63675cc1688a20f123d5ecf3f]: Textual amendment: Words in [s. 2(8)(a)](https://www.legislation.gov.uk/ukpga/2002/16/section/2/8/a) inserted (16.11.2023) by [The Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023 (Consequential Modifications) Order 2023 (S.I. 2023/1214)](https://www.legislation.gov.uk/uksi/2023/1214), [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1214/article/1/2), [reg. 5(2)(a)](https://www.legislation.gov.uk/uksi/2023/1214/regulation/5/2/a)
+
+[^key-2b443ea0d31f68a6f4ba4a08f00178af]: Textual amendment: Words in s. 2(8)(b) substituted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [s. 263(8)(d)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/8/d), [Sch. 24 para. 140](https://www.legislation.gov.uk/ukpga/2004/33/schedule/24/paragraph/140); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/3175/schedule/1)
+
+[^key-8f365600c40ee030d9dbd26edef15082]: Textual amendment: Words in [s. 2(8)(b)](https://www.legislation.gov.uk/ukpga/2002/16/section/2/8/b) inserted (16.11.2023) by [The Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023 (Consequential Modifications) Order 2023 (S.I. 2023/1214)](https://www.legislation.gov.uk/uksi/2023/1214), [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1214/article/1/2), [reg. 5(2)(b)](https://www.legislation.gov.uk/uksi/2023/1214/regulation/5/2/b)
+
+[^c4497431]: Commencement: S. 3 partly in force; s. 3 not in force at Royal Assent, see s. 22(3); s. 3 in force for certain purposes at 2.7.2002 by [S.I. 2002/1691](https://www.legislation.gov.uk/uksi/2002/1691), [art. 2](https://www.legislation.gov.uk/uksi/2002/1691/article/2)
+
+[^key-883a6ea71de56af45072f31f1d3331a1]: Commencement: S. 3 in force at 6.10.2003 in so far as not already in force by [S.I. 2003/1766](https://www.legislation.gov.uk/uksi/2003/1766), [art. 2(a)](https://www.legislation.gov.uk/uksi/2003/1766/article/2/a)
+
+[^key-dcb737fb59400c2aa8a579c1262bfd09]: Textual amendment: [S. 3(1)](https://www.legislation.gov.uk/ukpga/2002/16/section/3/1) substituted (6.4.2016) by [Pensions Act 2014 (c. 19)](https://www.legislation.gov.uk/ukpga/2014/19), [s. 56(4)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/4), [Sch. 12 para. 89](https://www.legislation.gov.uk/ukpga/2014/19/schedule/12/paragraph/89)
+
+[^key-9edc5a75e3000189b8cc56b5064a8f04]: Textual amendment: S. 3ZA inserted (7.7.2015) by [Pensions Act 2014 (c. 19)](https://www.legislation.gov.uk/ukpga/2014/19), [s. 56(4)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/4), [Sch. 12 para. 90](https://www.legislation.gov.uk/ukpga/2014/19/schedule/12/paragraph/90); [S.I. 2015/1475](https://www.legislation.gov.uk/uksi/2015/1475), [art. 2(2)(d)](https://www.legislation.gov.uk/uksi/2015/1475/article/2/2/d)
+
+[^c4497441]: Commencement: S. 4 partly in force; s. 4 not in force at Royal Assent, see s. 22(3); s. 4 in force for certain purposes at 2.7.2002 by [S.I. 2002/1691](https://www.legislation.gov.uk/uksi/2002/1691), [art. 2](https://www.legislation.gov.uk/uksi/2002/1691/article/2)
+
+[^key-ead54660229e80d8c26857ba5138da65]: Commencement: S. 4 in force at 6.10.2003 in so far as not already in force by [S.I. 2003/1766](https://www.legislation.gov.uk/uksi/2003/1766), [art. 2(a)](https://www.legislation.gov.uk/uksi/2003/1766/article/2/a)
+
+[^key-2e3b1f78c06a5a09ed4550c341afc025]: Textual amendment: Words in s. 4(1) substituted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [s. 263(8)(d)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/8/d), [Sch. 24 para. 140](https://www.legislation.gov.uk/ukpga/2004/33/schedule/24/paragraph/140); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/3175/schedule/1)
+
+[^key-3233b26da8552dcf0dc4dfabb7876b89]: Textual amendment: [S. 4(1A)](https://www.legislation.gov.uk/ukpga/2002/16/section/4/1A) inserted (15.5.2019) by [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5), [s. 150(3)](https://www.legislation.gov.uk/ukpga/2012/5/section/150/3), [Sch. 2 para. 64](https://www.legislation.gov.uk/ukpga/2012/5/schedule/2/paragraph/64); [S.I. 2019/37](https://www.legislation.gov.uk/uksi/2019/37), [art. 3](https://www.legislation.gov.uk/uksi/2019/37/article/3) (with [arts. 4](https://www.legislation.gov.uk/uksi/2019/37/article/4), [6-8](https://www.legislation.gov.uk/uksi/2019/37/article/6)) (as amended: (14.5.2019) by [S.I. 2019/935](https://www.legislation.gov.uk/uksi/2019/935); (25.11.2020) by [S.I. 2020/655](https://www.legislation.gov.uk/uksi/2020/655); (14.3.2022) by [S.I. 2022/302](https://www.legislation.gov.uk/uksi/2022/302); (25.7.2022) by [S.I. 2022/752](https://www.legislation.gov.uk/uksi/2022/752)); and (with effect from 8.6.2024) by [S.I. 2024/604](https://www.legislation.gov.uk/uksi/2024/604))
+
+[^c4497471]: Commencement: S. 5 partly in force; s. 5 not in force at Royal Assent, see s. 22(3); s. 5 in force for certain purposes at 2.7.2002 by [S.I. 2002/1691](https://www.legislation.gov.uk/uksi/2002/1691), [art. 2](https://www.legislation.gov.uk/uksi/2002/1691/article/2)
+
+[^c4550591]: Modification: S. 5: power to apply conferred (prosp.) by [Social Security Contributions and Benefits Act 1992 (c. 4)](https://www.legislation.gov.uk/ukpga/1992/4), [s. 136A(3)(a)](https://www.legislation.gov.uk/ukpga/1992/4/section/136A/3/a) (as inserted (prosp.) by [State Pension Credit Act 2002 (c. 16)](https://www.legislation.gov.uk/ukpga/2002/16), [ss. 14](https://www.legislation.gov.uk/ukpga/2002/16/section/14), [22(3)](https://www.legislation.gov.uk/ukpga/2002/16/section/22/3), [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/2002/16/schedule/2/paragraph/3))
+
+[^key-81b3d4c2f7b26110b3f03c13e19671e7]: Commencement: S. 5 in force at 6.10.2003 in so far as not already in force by [S.I. 2003/1766](https://www.legislation.gov.uk/uksi/2003/1766), [art. 2(a)](https://www.legislation.gov.uk/uksi/2003/1766/article/2/a)
+
+[^key-05d922fe52f2f49c41449d1b69d3c546]: Textual amendment: Words in [s. 5](https://www.legislation.gov.uk/ukpga/2002/16/section/5) substituted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [s. 263(8)(d)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/8/d), [Sch. 24 para. 140](https://www.legislation.gov.uk/ukpga/2004/33/schedule/24/paragraph/140); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/3175/schedule/1)
+
+[^c4497481]: Commencement: S. 6 partly in force; s. 6 not in force at Royal Assent, see s. 22(3); s. 6 in force for certain purposes at 2.7.2002 by [S.I. 2002/1691](https://www.legislation.gov.uk/uksi/2002/1691), [art. 2](https://www.legislation.gov.uk/uksi/2002/1691/article/2)
+
+[^key-b57d39a6e89aad4a2718136fb2aa7b2b]: Commencement: S. 6 in force at 6.10.2003 in so far as not already in force by [S.I. 2003/1766](https://www.legislation.gov.uk/uksi/2003/1766), [art. 2(a)](https://www.legislation.gov.uk/uksi/2003/1766/article/2/a)
+
+[^key-b9211a16a933e920dc095f478d4629b8]: Textual amendment: Words in s. 6 heading inserted (6.4.2016) by [Pensions Act 2014 (c. 19)](https://www.legislation.gov.uk/ukpga/2014/19), [ss. 28(2)](https://www.legislation.gov.uk/ukpga/2014/19/section/28/2), [56(1)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/1); [S.I. 2015/1475](https://www.legislation.gov.uk/uksi/2015/1475), [art. 4](https://www.legislation.gov.uk/uksi/2015/1475/article/4)
+
+[^key-8621873573e7d1614fd674f02d792237]: Textual amendment: Words in s. 6(1) inserted (6.4.2016) by [Pensions Act 2014 (c. 19)](https://www.legislation.gov.uk/ukpga/2014/19), [ss. 28(1)](https://www.legislation.gov.uk/ukpga/2014/19/section/28/1), [56(1)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/1); [S.I. 2015/1475](https://www.legislation.gov.uk/uksi/2015/1475), [art. 4](https://www.legislation.gov.uk/uksi/2015/1475/article/4)
+
+[^key-54d51829b6dc160544e572dede5f4699]: Textual amendment: Words in s. 6(3)(c)(ii) substituted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [s. 263(8)(d)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/8/d), [Sch. 24 para. 140](https://www.legislation.gov.uk/ukpga/2004/33/schedule/24/paragraph/140); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/3175/schedule/1)
+
+[^c4497491]: Commencement: S. 7 partly in force; s. 7 not in force at Royal Assent, see s. 22(3); s. 7 in force for certain purposes at 2.7.2002 by [S.I. 2002/1691](https://www.legislation.gov.uk/uksi/2002/1691), [art. 2](https://www.legislation.gov.uk/uksi/2002/1691/article/2)
+
+[^key-2861f924ebb03c93e6c60d2526e3d5c5]: Commencement: S. 7 in force at 6.10.2003 in so far as not already in force by [S.I. 2003/1766](https://www.legislation.gov.uk/uksi/2003/1766), [art. 2(a)](https://www.legislation.gov.uk/uksi/2003/1766/article/2/a)
+
+[^key-4011438514c8d42b43142cd21f14f41c]: Textual amendment: Words in s. 7(6)(a) inserted (6.4.2016) by [Pensions Act 2014 (c. 19)](https://www.legislation.gov.uk/ukpga/2014/19), [s. 56(4)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/4), [Sch. 12 para. 43](https://www.legislation.gov.uk/ukpga/2014/19/schedule/12/paragraph/43)
+
+[^key-91185e04e27cf20f42a4f615ea951080]: Textual amendment: S. 7(6)(d) added (14.2.2006) by [The Pensions Act 2004 (PPF Payments and FAS Payments) (Consequential Provisions) Order 2006 (S.I. 2006/343)](https://www.legislation.gov.uk/uksi/2006/343), [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/343/article/1/1), [Sch. para. 3(1)](https://www.legislation.gov.uk/uksi/2006/343/schedule/paragraph/3/1)
+
+[^key-1f7d80277dea4ed7c28a67c558d121a9]: Commencement: S. 8 in force at 6.10.2003 by [S.I. 2003/1766](https://www.legislation.gov.uk/uksi/2003/1766), [art. 2(a)](https://www.legislation.gov.uk/uksi/2003/1766/article/2/a)
+
+[^c4497501]: Commencement: S. 9 partly in force; s. 9 not in force at Royal Assent, see s. 22(3); s. 9 in force for certain purposes at 2.7.2002 by [S.I. 2002/1691](https://www.legislation.gov.uk/uksi/2002/1691), [art. 2](https://www.legislation.gov.uk/uksi/2002/1691/article/2)
+
+[^key-5d43d875ef720984126a760afb8f3309]: Commencement: S. 9 in force at 6.10.2003 in so far as not already in force by [S.I. 2003/1766](https://www.legislation.gov.uk/uksi/2003/1766), [art. 2(a)](https://www.legislation.gov.uk/uksi/2003/1766/article/2/a)
+
+[^key-bba39af89a143af77e6132775f5f3387]: Textual amendment: S. 9(1) substituted (6.4.2009) by [Pensions Act 2008 (c. 30)](https://www.legislation.gov.uk/ukpga/2008/30), [ss. 105(2)](https://www.legislation.gov.uk/ukpga/2008/30/section/105/2), [149(4)](https://www.legislation.gov.uk/ukpga/2008/30/section/149/4) (with [s. 105(5)](https://www.legislation.gov.uk/ukpga/2008/30/section/105/5))
+
+[^key-b1e658f698558dc670b5d31167889009]: Textual amendment: Words in s. 9(2)(b) substituted (6.4.2009) by [Pensions Act 2008 (c. 30)](https://www.legislation.gov.uk/ukpga/2008/30), [ss. 105(3)](https://www.legislation.gov.uk/ukpga/2008/30/section/105/3), [149(4)](https://www.legislation.gov.uk/ukpga/2008/30/section/149/4) (with [s. 105(5)](https://www.legislation.gov.uk/ukpga/2008/30/section/105/5))
+
+[^key-e1c4bf56a7f34e87946d97dd3c5254c4]: Textual amendment: Words in s. 9(4)(a) substituted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [s. 263(8)(d)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/8/d), [Sch. 24 para. 140](https://www.legislation.gov.uk/ukpga/2004/33/schedule/24/paragraph/140); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/3175/schedule/1)
+
+[^key-e4eb32782d902d3ec44940b510d0a2a3]: Textual amendment: Words in s. 9(4)(b) substituted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [s. 263(8)(d)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/8/d), [Sch. 24 para. 140](https://www.legislation.gov.uk/ukpga/2004/33/schedule/24/paragraph/140); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/3175/schedule/1)
+
+[^key-4021e194a5c1785c1c0d44277d4470ef]: Textual amendment: Words in s. 9(4)(d) substituted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [s. 263(8)(d)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/8/d), [Sch. 24 para. 140](https://www.legislation.gov.uk/ukpga/2004/33/schedule/24/paragraph/140); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/3175/schedule/1)
+
+[^key-34259c495a93ec5b90701e8a6f245acb]: Modification: S. 9(5) modified (7.7.2015) by [Pensions Act 2014 (c. 19)](https://www.legislation.gov.uk/ukpga/2014/19), [ss. 28(3)](https://www.legislation.gov.uk/ukpga/2014/19/section/28/3), [56(1)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/1); [S.I. 2015/1475](https://www.legislation.gov.uk/uksi/2015/1475), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2015/1475/article/2/2/b)
+
+[^key-a233d0ced979a891233bf7099dddb13d]: Modification: S. 9(6) restored (14.5.2014) by [Pensions Act 2014 (c. 19)](https://www.legislation.gov.uk/ukpga/2014/19), [ss. 29(2)(a)](https://www.legislation.gov.uk/ukpga/2014/19/section/29/2/a), [56(2)(a)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/2/a)
+
+[^key-77321b9e25ea295afe546a8899f64512]: Textual amendment: S. 9(6) inserted (temp. until 5.4.2014) (6.4.2009) by [Pensions Act 2008 (c. 30)](https://www.legislation.gov.uk/ukpga/2008/30), [s. 105(4)](https://www.legislation.gov.uk/ukpga/2008/30/section/105/4)[(6)](https://www.legislation.gov.uk/ukpga/2008/30/section/105/6), [149(4)](https://www.legislation.gov.uk/ukpga/2008/30/section/149/4)
+
+[^key-93f0c5c8b7b79f488e414785b568292f]: Textual amendment: Words in s. 9(6)(a) inserted (14.5.2014) by [Pensions Act 2014 (c. 19)](https://www.legislation.gov.uk/ukpga/2014/19), [ss. 29(2)(b)](https://www.legislation.gov.uk/ukpga/2014/19/section/29/2/b), [56(2)(a)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/2/a)
+
+[^key-8e153919d52b0f0b7043c954ec68f56c]: Commencement: S. 10 in force at 6.10.2003 by [S.I. 2003/1766](https://www.legislation.gov.uk/uksi/2003/1766), [art. 2(a)](https://www.legislation.gov.uk/uksi/2003/1766/article/2/a)
+
+[^c4497511]: Commencement: S. 11 not in force at Royal Assent, see s. 22(3); s. 11 in force for certain purposes at 2.7.2002 by [S.I. 2002/1691](https://www.legislation.gov.uk/uksi/2002/1691), [art. 2](https://www.legislation.gov.uk/uksi/2002/1691/article/2)
+
+[^key-dd7e4c25a21397ed287a3a483bd38d5c]: Commencement: S. 11 in force at 7.4.2003 for specified purposes by [S.I. 2003/966](https://www.legislation.gov.uk/uksi/2003/966), [art. 2(a)](https://www.legislation.gov.uk/uksi/2003/966/article/2/a)
+
+[^key-03fb3bd3dd21e6afe43b78d4a4a201e7]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2002/16/section/11) in force at 6.10.2003 in so far as not already in force by [S.I. 2003/1766](https://www.legislation.gov.uk/uksi/2003/1766), [art. 2(a)](https://www.legislation.gov.uk/uksi/2003/1766/article/2/a)
+
+[^c4497521]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2002/16/section/12) partly in force; [s. 12](https://www.legislation.gov.uk/ukpga/2002/16/section/12) not in force at Royal Assent, see [s. 22(3)](https://www.legislation.gov.uk/ukpga/2002/16/section/22/3); [s. 12](https://www.legislation.gov.uk/ukpga/2002/16/section/12) in force for certain purposes at 2.7.2002 by [S.I. 2002/1691](https://www.legislation.gov.uk/uksi/2002/1691), [art. 2](https://www.legislation.gov.uk/uksi/2002/1691/article/2)
+
+[^key-61081aedbb9730f1f4dc67ab77f5fceb]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2002/16/section/12) in force at 6.10.2003 in so far as not already in force by [S.I. 2003/1766](https://www.legislation.gov.uk/uksi/2003/1766), [art. 2(a)](https://www.legislation.gov.uk/uksi/2003/1766/article/2/a)
+
+[^c4497531]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2002/16/section/13) partly in force; [s. 13](https://www.legislation.gov.uk/ukpga/2002/16/section/13) not in force at Royal Assent, see [s. 22(3)](https://www.legislation.gov.uk/ukpga/2002/16/section/22/3); [s. 13](https://www.legislation.gov.uk/ukpga/2002/16/section/13) in force for certain purposes at 2.7.2002 by [S.I. 2002/1691](https://www.legislation.gov.uk/uksi/2002/1691), [art. 2](https://www.legislation.gov.uk/uksi/2002/1691/article/2)
+
+[^key-782aed16c6bb9861232789a4dc2c425b]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2002/16/section/13) in force at 6.10.2003 in so far as not already in force by [S.I. 2003/1766](https://www.legislation.gov.uk/uksi/2003/1766), [art. 2(a)](https://www.legislation.gov.uk/uksi/2003/1766/article/2/a)
+
+[^key-7e5781e56bb76431b91c6480292572e4]: Modification: S. 13: 6.10.2003 appointed by S.I. 2003/1766, art. 2(b)
+
+[^c4497541]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2002/16/section/14) partly in force; [s. 14](https://www.legislation.gov.uk/ukpga/2002/16/section/14) not in force at Royal Assent, see [s. 22(3)](https://www.legislation.gov.uk/ukpga/2002/16/section/22/3); [s. 14](https://www.legislation.gov.uk/ukpga/2002/16/section/14) in force for certain purposes at 2.7.2002 by [S.I. 2002/1691](https://www.legislation.gov.uk/uksi/2002/1691), [art. 2](https://www.legislation.gov.uk/uksi/2002/1691/article/2)
+
+[^key-792f21c046a9957feef6ae79c53ea3dd]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2002/16/section/14) in force at 27.1.2003 for specified purposes by [S.I. 2003/83](https://www.legislation.gov.uk/uksi/2003/83), [art. 2](https://www.legislation.gov.uk/uksi/2003/83/article/2)
+
+[^key-75cb78941d8681953d92ee061ebc3915]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2002/16/section/14) in force at 6.10.2003 in so far as not already in force by [S.I. 2003/1766](https://www.legislation.gov.uk/uksi/2003/1766), [art. 2(a)](https://www.legislation.gov.uk/uksi/2003/1766/article/2/a)
+
+[^c4497611]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2002/16/section/15) partly in force; [s. 15](https://www.legislation.gov.uk/ukpga/2002/16/section/15) not in force at Royal Assent, see [s. 22(3)](https://www.legislation.gov.uk/ukpga/2002/16/section/22/3); [s. 15](https://www.legislation.gov.uk/ukpga/2002/16/section/15) in force for certain purposes at 2.7.2002 by [S.I. 2002/1691](https://www.legislation.gov.uk/uksi/2002/1691), [art. 2](https://www.legislation.gov.uk/uksi/2002/1691/article/2)
+
+[^key-7c3d71219d32599b706533d8c6281944]: Modification: [S. 15](https://www.legislation.gov.uk/ukpga/2002/16/section/15): power to apply conferred by 1992 c. 4, s. 136A(3)(b) (as inserted (27.1.2003 for specified purposes, 6.10.2003 in so far as not already in force) by [State Pension Credit Act 2002 (c. 16)](https://www.legislation.gov.uk/ukpga/2002/16), [s. 22(3)](https://www.legislation.gov.uk/ukpga/2002/16/section/22/3), [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/2002/16/schedule/2/paragraph/3); [S.I. 2003/83](https://www.legislation.gov.uk/uksi/2003/83), [art. 2](https://www.legislation.gov.uk/uksi/2003/83/article/2); [S.I. 2003/1766](https://www.legislation.gov.uk/uksi/2003/1766), [art. 2(a)](https://www.legislation.gov.uk/uksi/2003/1766/article/2/a))
+
+[^key-244c7c21c6b826168eaf594d3a6cd82b]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2002/16/section/15) in force at 6.10.2003 in so far as not already in force by [S.I. 2003/1766](https://www.legislation.gov.uk/uksi/2003/1766), [art. 2(a)](https://www.legislation.gov.uk/uksi/2003/1766/article/2/a)
+
+[^c4497661]: Commencement: S. 16 partly in force; s. 16 not in force at Royal Assent, see s. 22(3); s. 16 in force for certain purposes at 2.7.2002 by [S.I. 2002/1691](https://www.legislation.gov.uk/uksi/2002/1691), [art. 2](https://www.legislation.gov.uk/uksi/2002/1691/article/2)
+
+[^key-7678bc69f653bf82e34b1d597d5c386f]: Commencement: S. 16 in force at 6.10.2003 in so far as not already in force by [S.I. 2003/1766](https://www.legislation.gov.uk/uksi/2003/1766), [art. 2(a)](https://www.legislation.gov.uk/uksi/2003/1766/article/2/a)
+
+[^key-5a6a434a7f0286f76b7da347d2917679]: Textual amendment: [S. 16(1)(za)](https://www.legislation.gov.uk/ukpga/2002/16/section/16/1/za) inserted (6.4.2016) by [Pensions Act 2014 (c. 19)](https://www.legislation.gov.uk/ukpga/2014/19), [s. 56(4)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/4), [Sch. 12 para. 44](https://www.legislation.gov.uk/ukpga/2014/19/schedule/12/paragraph/44)
+
+[^key-45ca9e0f959c33435add11fbf833147d]: Textual amendment: [S. 16(1)(b)](https://www.legislation.gov.uk/ukpga/2002/16/section/16/1/b) substituted (6.4.2016) by [Pensions Act 2014 (c. 19)](https://www.legislation.gov.uk/ukpga/2014/19), [s. 56(4)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/4), [Sch. 11 para. 15](https://www.legislation.gov.uk/ukpga/2014/19/schedule/11/paragraph/15)
+
+[^key-d90c99d97730be957ca986caab3c4fb1]: Textual amendment: S. 16(1)(k) substituted (1.4.2012) by [Sovereign Grant Act 2011 (c. 15)](https://www.legislation.gov.uk/ukpga/2011/15), [s. 15(1)](https://www.legislation.gov.uk/ukpga/2011/15/section/15/1), [Sch. 1 para. 32](https://www.legislation.gov.uk/ukpga/2011/15/schedule/1/paragraph/32)
+
+[^key-4190e888727a44852abba06106f741d5]: Textual amendment: S. 16(1)(l) added by virtue of S.I. 2002/1792, reg. 16 (as amended (6.10.2003) by [The State Pension Credit (Consequential, Transitional and Miscellaneous Provisions) (No. 2) Regulations 2002 (S.I. 2002/3197)](https://www.legislation.gov.uk/uksi/2002/3197), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2002/3197/regulation/1/b), [Sch. para. 4(c)](https://www.legislation.gov.uk/uksi/2002/3197/schedule/paragraph/4/c))
+
+[^key-dc16106d2e25d02605f96d1c74f15ef1]: Textual amendment: S. 16(1)(m) added by S.I. 2002/1792, reg. 16 (as amended (4.10.2004) by [The Social Security (Housing Benefit, Council Tax Benefit, State Pension Credit and Miscellaneous Amendments) Regulations 2004 (S.I. 2004/2327)](https://www.legislation.gov.uk/uksi/2004/2327), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/2004/2327/regulation/1/1/a), [7(4)](https://www.legislation.gov.uk/uksi/2004/2327/regulation/7/4))
+
+[^key-a77439b8e3fff21867b693a365f6d257]: Textual amendment: S. 16(1)(n) added by S.I. 2002/1792, reg. 16 (as amended (18.12.2005) by [The State Pension Credit (Amendment) Regulations 2005 (S.I. 2005/3205)](https://www.legislation.gov.uk/uksi/2005/3205), [regs. 1](https://www.legislation.gov.uk/uksi/2005/3205/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2005/3205/regulation/2/3))
+
+[^c4497671]: Commencement: S. 17 not in force at Royal Assent, see s. 22(3); s. 17 in force for certain purposes at 2.7.2002 by [S.I. 2002/1691](https://www.legislation.gov.uk/uksi/2002/1691), [art. 2](https://www.legislation.gov.uk/uksi/2002/1691/article/2)
+
+[^key-1513fb977af9128ca425cf23977e8c19]: Commencement: S. 17 in force at 6.10.2003 in so far as not already in force by [S.I. 2003/1766](https://www.legislation.gov.uk/uksi/2003/1766), [art. 2(a)](https://www.legislation.gov.uk/uksi/2003/1766/article/2/a)
+
+[^key-85fcdae65cc1b55db1ca3ce58e7136cc]: Textual amendment: Words in [s. 17(1)](https://www.legislation.gov.uk/ukpga/2002/16/section/17/1) inserted (16.11.2023) by [The Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023 (Consequential Modifications) Order 2023 (S.I. 2023/1214)](https://www.legislation.gov.uk/uksi/2023/1214), [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1214/article/1/2), [reg. 5(3)](https://www.legislation.gov.uk/uksi/2023/1214/regulation/5/3)
+
+[^key-d535b1521b51be92b0644903e95a5ea4]: Textual amendment: Words in [s. 17(1)](https://www.legislation.gov.uk/ukpga/2002/16/section/17/1) substituted (15.3.2026) by [The Social Security (Scotland) Act 2018 (Carer’s Assistance) (Consequential Modifications) Order 2026 (S.I. 2026/246)](https://www.legislation.gov.uk/uksi/2026/246), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/246/article/1/2), [5](https://www.legislation.gov.uk/uksi/2026/246/article/5)
+
+[^key-99c5ccfe0db43ac7fe362d5dd56226c3]: Textual amendment: Words in s. 17(1) substituted (E.W.) (13.3.2014) by [The Marriage (Same Sex Couples) Act 2013 (Consequential and Contrary Provisions and Scotland) Order 2014 (S.I. 2014/560)](https://www.legislation.gov.uk/uksi/2014/560), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/560/article/1/2), [Sch. 1 para. 28(2)](https://www.legislation.gov.uk/uksi/2014/560/schedule/1/paragraph/28/2) and said words also substituted (S.) (16.12.2014) by [The Marriage and Civil Partnership (Scotland) Act 2014 and Civil Partnership Act 2004 (Consequential Provisions and Modifications) Order 2014 (S.I. 2014/3229)](https://www.legislation.gov.uk/uksi/2014/3229), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2), [Sch. 5 para. 14(2)](https://www.legislation.gov.uk/uksi/2014/3229/schedule/5/paragraph/14/2)
+
+[^key-25332548c249986fd93ab3d8bcfd8765]: Textual amendment: Words in [s. 17(1)](https://www.legislation.gov.uk/ukpga/2002/16/section/17/1) substituted (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [Sch. 3 para. 22](https://www.legislation.gov.uk/uksi/2019/1458/schedule/3/paragraph/22)
+
+[^key-e2df1775354325d39914d74ed7226b10]: Textual amendment: Words in s. 17(1) substituted (with effect in accordance with s. 723(1)(a)(b) of the amending Act) by [Income Tax (Earnings and Pensions) Act 2003 (c. 1)](https://www.legislation.gov.uk/ukpga/2003/1), [s. 723](https://www.legislation.gov.uk/ukpga/2003/1/section/723), [Sch. 6 para. 263(2)](https://www.legislation.gov.uk/ukpga/2003/1/schedule/6/paragraph/263/2) (with [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/1/schedule/7))
+
+[^key-a93034cdca43ec1231534725b58374c4]: Textual amendment: Words in s. 17(1) substituted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [s. 263(8)(d)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/8/d), [Sch. 24 para. 142(3)](https://www.legislation.gov.uk/ukpga/2004/33/schedule/24/paragraph/142/3); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/3175/schedule/1)
+
+[^key-8190a1dd58f0cc117232ed2cd2690374]: Textual amendment: Words in s. 17(1) substituted (with effect in accordance with s. 723(1)(a)(b) of the amending Act) by [Income Tax (Earnings and Pensions) Act 2003 (c. 1)](https://www.legislation.gov.uk/ukpga/2003/1), [s. 723](https://www.legislation.gov.uk/ukpga/2003/1/section/723), [Sch. 6 para. 263(3)](https://www.legislation.gov.uk/ukpga/2003/1/schedule/6/paragraph/263/3) (with [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/1/schedule/7))
+
+[^key-3fbc92dbfbf28ed0d90541fa3eacd0c3]: Textual amendment: Words in s. 17(1) repealed (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [s. 263(8)(d)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/8/d), [Sch. 24 para. 142(4)](https://www.legislation.gov.uk/ukpga/2004/33/schedule/24/paragraph/142/4), [Sch. 30](https://www.legislation.gov.uk/ukpga/2004/33/schedule/30); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/1)[(6)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/6), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/3175/schedule/1)
+
+[^key-6a4f1d44587001e5c45d3fe543c06b9b]: Textual amendment: Words in s. 17(1) inserted (14.2.2006) by [The Pensions Act 2004 (PPF Payments and FAS Payments) (Consequential Provisions) Order 2006 (S.I. 2006/343)](https://www.legislation.gov.uk/uksi/2006/343), [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/343/article/1/1), [Sch. para. 3(2)](https://www.legislation.gov.uk/uksi/2006/343/schedule/paragraph/3/2)
+
+[^key-0fbe4f2269f7420e9b2b6749020d2066]: Textual amendment: Words in s. 17(1) substituted (with effect in accordance with s. 723(1)(a)(b) of the amending Act) by [Income Tax (Earnings and Pensions) Act 2003 (c. 1)](https://www.legislation.gov.uk/ukpga/2003/1), [s. 723](https://www.legislation.gov.uk/ukpga/2003/1/section/723), [Sch. 6 para. 263(4)](https://www.legislation.gov.uk/ukpga/2003/1/schedule/6/paragraph/263/4) (with [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/1/schedule/7))
+
+[^key-9de29fcd6cc380eecbee29581b6ddda6]: Textual amendment: Words in s. 17(1) substituted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [s. 263(8)(d)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/8/d), [Sch. 24 para. 142(5)(a)](https://www.legislation.gov.uk/ukpga/2004/33/schedule/24/paragraph/142/5/a); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/3175/schedule/1)
+
+[^key-249d541122ac658f1f02e71b428ed4d0]: Textual amendment: Words in s. 17(1) substituted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [s. 263(8)(d)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/8/d), [Sch. 24 para. 142(5)(b)](https://www.legislation.gov.uk/ukpga/2004/33/schedule/24/paragraph/142/5/b); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/3175/schedule/1)
+
+[^key-eb537eafcb92430bbbdcfe1c102bbf3e]: Textual amendment: Words in s. 17(1) substituted (with effect in accordance with s. 723(1)(a)(b) of the amending Act) by [Income Tax (Earnings and Pensions) Act 2003 (c. 1)](https://www.legislation.gov.uk/ukpga/2003/1), [s. 723](https://www.legislation.gov.uk/ukpga/2003/1/section/723), [Sch. 6 para. 263(5)](https://www.legislation.gov.uk/ukpga/2003/1/schedule/6/paragraph/263/5) (with [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/1/schedule/7))
+
+[^key-e199f4584829d7382ea872ac4f4f8a15]: Textual amendment: S. 17(1A) omitted (E.W.) (13.3.2014) by virtue of [The Marriage (Same Sex Couples) Act 2013 (Consequential and Contrary Provisions and Scotland) Order 2014 (S.I. 2014/560)](https://www.legislation.gov.uk/uksi/2014/560), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/560/article/1/2), [Sch. 1 para. 28(3)](https://www.legislation.gov.uk/uksi/2014/560/schedule/1/paragraph/28/3) and said sub-provision also omitted (S.) (16.12.2014) by virtue of [The Marriage and Civil Partnership (Scotland) Act 2014 and Civil Partnership Act 2004 (Consequential Provisions and Modifications) Order 2014 (S.I. 2014/3229)](https://www.legislation.gov.uk/uksi/2014/3229), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2), [Sch. 5 para. 14(3)](https://www.legislation.gov.uk/uksi/2014/3229/schedule/5/paragraph/14/3)
+
+[^key-76aaf18bbb461fb3b2561763fb396939]: Textual amendment: [S. 18A](https://www.legislation.gov.uk/ukpga/2002/16/section/18A) inserted (12.11.2009) by [Welfare Reform Act 2009 (c. 24)](https://www.legislation.gov.uk/ukpga/2009/24), [ss. 27(2)](https://www.legislation.gov.uk/ukpga/2009/24/section/27/2), [61(1)](https://www.legislation.gov.uk/ukpga/2009/24/section/61/1)
+
+[^key-43f867980be6eb43c19a01aaf3bb5544]: Textual amendment: [S. 19(2A)](https://www.legislation.gov.uk/ukpga/2002/16/section/19/2A) inserted (12.11.2009) by [Welfare Reform Act 2009 (c. 24)](https://www.legislation.gov.uk/ukpga/2009/24), [ss. 27(3)](https://www.legislation.gov.uk/ukpga/2009/24/section/27/3), [61(1)](https://www.legislation.gov.uk/ukpga/2009/24/section/61/1)
+
+[^key-5a98ff4eb07157422a5dd0f65dec5fe4]: Commencement: S. 21 in force at 7.4.2003 for specified purposes by [S.I. 2003/966](https://www.legislation.gov.uk/uksi/2003/966), [art. 2(b)](https://www.legislation.gov.uk/uksi/2003/966/article/2/b), [Sch.](https://www.legislation.gov.uk/uksi/2003/966/schedule)
+
+[^key-9840cddf092b50f0a0942fb3783b497e]: Commencement: S. 21 in force at 6.10.2003 in so far as not already in force by [S.I. 2003/1766](https://www.legislation.gov.uk/uksi/2003/1766), [art. 2(a)](https://www.legislation.gov.uk/uksi/2003/1766/article/2/a)
+
+[^c4550571]: Subordinate legislation: S. 22(3) power partly exercised: 2.7.2002 appointed for specified provisions by [S.I. 2002/1691](https://www.legislation.gov.uk/uksi/2002/1691), [art. 2](https://www.legislation.gov.uk/uksi/2002/1691/article/2); 3.9.2002 appointed for specified provision by [S.I. 2002/2248](https://www.legislation.gov.uk/uksi/2002/2248), [art. 2](https://www.legislation.gov.uk/uksi/2002/2248/article/2)
+
+[^c4550351]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/2002/16/schedule/1/paragraph/1) not in force at Royal Assent, see [s. 22(3)](https://www.legislation.gov.uk/ukpga/2002/16/section/22/3); [Sch. 1](https://www.legislation.gov.uk/ukpga/2002/16/schedule/1) in force for certain purposes at 2.7.2002 by [S.I. 2002/1691](https://www.legislation.gov.uk/uksi/2002/1691), [art. 2](https://www.legislation.gov.uk/uksi/2002/1691/article/2)
+
+[^key-c2ea430f6c8906e336be52a5cc75099e]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/2002/16/schedule/1/paragraph/1) in force at 7.4.2003 in so far as not already in force by [S.I. 2003/966](https://www.legislation.gov.uk/uksi/2003/966), [art. 2(a)](https://www.legislation.gov.uk/uksi/2003/966/article/2/a)
+
+[^c4550361]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2002/16/schedule/1/paragraph/2) not in force at Royal Assent, see [s. 22(3)](https://www.legislation.gov.uk/ukpga/2002/16/section/22/3); [Sch. 1](https://www.legislation.gov.uk/ukpga/2002/16/schedule/1) in force for certain purposes at 2.7.2002 by [S.I. 2002/1691](https://www.legislation.gov.uk/uksi/2002/1691), [art. 2](https://www.legislation.gov.uk/uksi/2002/1691/article/2)
+
+[^key-9b7a2b16144f750d84c49942f805022d]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2002/16/schedule/1/paragraph/2) in force at 7.4.2003 in so far as not already in force by [S.I. 2003/966](https://www.legislation.gov.uk/uksi/2003/966), [art. 2(a)](https://www.legislation.gov.uk/uksi/2003/966/article/2/a)
+
+[^c4550371]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/2002/16/schedule/1/paragraph/3) not in force at Royal Assent, see [s. 22(3)](https://www.legislation.gov.uk/ukpga/2002/16/section/22/3); [Sch. 1](https://www.legislation.gov.uk/ukpga/2002/16/schedule/1) in force for certain purposes at 2.7.2002 by [S.I. 2002/1691](https://www.legislation.gov.uk/uksi/2002/1691), [art. 2](https://www.legislation.gov.uk/uksi/2002/1691/article/2)
+
+[^key-321f6e219509a98be719f1c4067098d6]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/2002/16/schedule/1/paragraph/3) in force at 7.4.2003 in so far as not already in force by [S.I. 2003/966](https://www.legislation.gov.uk/uksi/2003/966), [art. 2(a)](https://www.legislation.gov.uk/uksi/2003/966/article/2/a)
+
+[^c4550381]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/2002/16/schedule/1/paragraph/4) not in force at Royal Assent, see [s. 22(3)](https://www.legislation.gov.uk/ukpga/2002/16/section/22/3); [Sch. 1](https://www.legislation.gov.uk/ukpga/2002/16/schedule/1) in force for certain purposes at 2.7.2002 by [S.I. 2002/1691](https://www.legislation.gov.uk/uksi/2002/1691), [art. 2](https://www.legislation.gov.uk/uksi/2002/1691/article/2)
+
+[^key-e46400f749de351e9ba9f4c41d4b2b93]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/2002/16/schedule/1/paragraph/4) in force at 7.4.2003 in so far as not already in force by [S.I. 2003/966](https://www.legislation.gov.uk/uksi/2003/966), [art. 2(a)](https://www.legislation.gov.uk/uksi/2003/966/article/2/a)
+
+[^c4550391]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2002/16/schedule/1/paragraph/5) not in force at Royal Assent, see [s. 22(3)](https://www.legislation.gov.uk/ukpga/2002/16/section/22/3); [Sch. 1](https://www.legislation.gov.uk/ukpga/2002/16/schedule/1) in force for certain purposes at 2.7.2002 by [S.I. 2002/1691](https://www.legislation.gov.uk/uksi/2002/1691), [art. 2](https://www.legislation.gov.uk/uksi/2002/1691/article/2)
+
+[^key-9afc5b5aca70353af328edf2a0aa2074]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2002/16/schedule/1/paragraph/5) in force at 7.4.2003 in so far as not already in force by [S.I. 2003/966](https://www.legislation.gov.uk/uksi/2003/966), [art. 2(a)](https://www.legislation.gov.uk/uksi/2003/966/article/2/a)
+
+[^c4550401]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/ukpga/2002/16/schedule/1/paragraph/6) not in force at Royal Assent, see [s. 22(3)](https://www.legislation.gov.uk/ukpga/2002/16/section/22/3); [Sch. 1](https://www.legislation.gov.uk/ukpga/2002/16/schedule/1) in force for certain purposes at 2.7.2002 by [S.I. 2002/1691](https://www.legislation.gov.uk/uksi/2002/1691), [art. 2](https://www.legislation.gov.uk/uksi/2002/1691/article/2)
+
+[^key-114f4ecc7728a2a1d5d107f338c29845]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/ukpga/2002/16/schedule/1/paragraph/6) in force at 7.4.2003 in so far as not already in force by [S.I. 2003/966](https://www.legislation.gov.uk/uksi/2003/966), [art. 2(a)](https://www.legislation.gov.uk/uksi/2003/966/article/2/a)
+
+[^c4550411]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/ukpga/2002/16/schedule/1/paragraph/7) not in force at Royal Assent, see [s. 22(3)](https://www.legislation.gov.uk/ukpga/2002/16/section/22/3); [Sch. 1](https://www.legislation.gov.uk/ukpga/2002/16/schedule/1) in force for certain purposes at 2.7.2002 by [S.I. 2002/1691](https://www.legislation.gov.uk/uksi/2002/1691), [art. 2](https://www.legislation.gov.uk/uksi/2002/1691/article/2)
+
+[^key-da0e99e98f2b4692b43d7b401683dbf2]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/ukpga/2002/16/schedule/1/paragraph/7) in force at 7.4.2003 in so far as not already in force by [S.I. 2003/966](https://www.legislation.gov.uk/uksi/2003/966), [art. 2(a)](https://www.legislation.gov.uk/uksi/2003/966/article/2/a)
+
+[^c4550421]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/ukpga/2002/16/schedule/1/paragraph/8) not in force at Royal Assent, see [s. 22(3)](https://www.legislation.gov.uk/ukpga/2002/16/section/22/3); [Sch. 1](https://www.legislation.gov.uk/ukpga/2002/16/schedule/1) in force for certain purposes at 2.7.2002 by [S.I. 2002/1691](https://www.legislation.gov.uk/uksi/2002/1691), [art. 2](https://www.legislation.gov.uk/uksi/2002/1691/article/2)
+
+[^key-0570d4a0b6cd98b7f7bab1af368a0bb2]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/ukpga/2002/16/schedule/1/paragraph/8) in force at 6.10.2003 in so far as not already in force by [S.I. 2003/1766](https://www.legislation.gov.uk/uksi/2003/1766), [art. 2(a)](https://www.legislation.gov.uk/uksi/2003/1766/article/2/a)
+
+[^c4550431]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/ukpga/2002/16/schedule/1/paragraph/9) not in force at Royal Assent, see [s. 22(3)](https://www.legislation.gov.uk/ukpga/2002/16/section/22/3); [Sch. 1](https://www.legislation.gov.uk/ukpga/2002/16/schedule/1) in force for certain purposes at 2.7.2002 by [S.I. 2002/1691](https://www.legislation.gov.uk/uksi/2002/1691), [art. 2](https://www.legislation.gov.uk/uksi/2002/1691/article/2)
+
+[^key-e8479d53fc671240fc3bfbbbfe9b441f]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/ukpga/2002/16/schedule/1/paragraph/9) in force at 6.10.2003 in so far as not already in force by [S.I. 2003/1766](https://www.legislation.gov.uk/uksi/2003/1766), [art. 2(a)](https://www.legislation.gov.uk/uksi/2003/1766/article/2/a)
+
+[^c4550441]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/ukpga/2002/16/schedule/1/paragraph/10) not in force at Royal Assent, see [s. 22(3)](https://www.legislation.gov.uk/ukpga/2002/16/section/22/3); [Sch. 1](https://www.legislation.gov.uk/ukpga/2002/16/schedule/1) in force for certain purposes at 2.7.2002 by [S.I. 2002/1691](https://www.legislation.gov.uk/uksi/2002/1691), [art. 2](https://www.legislation.gov.uk/uksi/2002/1691/article/2)
+
+[^key-b0ffe9b71ccd4e16772814d2469db97b]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/ukpga/2002/16/schedule/1/paragraph/10) in force at 7.4.2003 in so far as not already in force by [S.I. 2003/966](https://www.legislation.gov.uk/uksi/2003/966), [art. 2(a)](https://www.legislation.gov.uk/uksi/2003/966/article/2/a)
+
+[^c4550451]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/ukpga/2002/16/schedule/1/paragraph/11) not in force at Royal Assent, see [s. 22(3)](https://www.legislation.gov.uk/ukpga/2002/16/section/22/3); [Sch. 1](https://www.legislation.gov.uk/ukpga/2002/16/schedule/1) in force for certain purposes at 2.7.2002 by [S.I. 2002/1691](https://www.legislation.gov.uk/uksi/2002/1691), [art. 2](https://www.legislation.gov.uk/uksi/2002/1691/article/2)
+
+[^key-6d17dad28c348afb857c7d45bbb178e8]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/ukpga/2002/16/schedule/1/paragraph/11) in force at 6.10.2003 in so far as not already in force by [S.I. 2003/1766](https://www.legislation.gov.uk/uksi/2003/1766), [art. 2(a)](https://www.legislation.gov.uk/uksi/2003/1766/article/2/a)
+
+[^c4550461]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/ukpga/2002/16/schedule/1/paragraph/12) not in force at Royal Assent, see [s. 22(3)](https://www.legislation.gov.uk/ukpga/2002/16/section/22/3); [Sch. 1](https://www.legislation.gov.uk/ukpga/2002/16/schedule/1) in force for certain purposes at 2.7.2002 by [S.I. 2002/1691](https://www.legislation.gov.uk/uksi/2002/1691), [art. 2](https://www.legislation.gov.uk/uksi/2002/1691/article/2)
+
+[^key-b403d2d1dc1f2716dc9374cb09680cd8]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/ukpga/2002/16/schedule/1/paragraph/12) in force at 7.4.2003 in so far as not already in force by [S.I. 2003/966](https://www.legislation.gov.uk/uksi/2003/966), [art. 2(a)](https://www.legislation.gov.uk/uksi/2003/966/article/2/a)
+
+[^c4550471]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/ukpga/2002/16/schedule/1/paragraph/13) not in force at Royal Assent, see [s. 22(3)](https://www.legislation.gov.uk/ukpga/2002/16/section/22/3); [Sch. 1](https://www.legislation.gov.uk/ukpga/2002/16/schedule/1) in force for certain purposes at 2.7.2002 by [S.I. 2002/1691](https://www.legislation.gov.uk/uksi/2002/1691), [art. 2](https://www.legislation.gov.uk/uksi/2002/1691/article/2)
+
+[^key-7436bc2d913076f7329a864905ddbd98]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/ukpga/2002/16/schedule/1/paragraph/13) in force at 6.10.2003 in so far as not already in force by [S.I. 2003/1766](https://www.legislation.gov.uk/uksi/2003/1766), [art. 2(a)](https://www.legislation.gov.uk/uksi/2003/1766/article/2/a)
+
+[^c4497741]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2002/16/schedule/2/paragraph/1) not in force at Royal Assent, see [s. 22(3)](https://www.legislation.gov.uk/ukpga/2002/16/section/22/3); [Sch. 2](https://www.legislation.gov.uk/ukpga/2002/16/schedule/2) in force for certain purposes at 2.7.2002 by [S.I. 2002/1691](https://www.legislation.gov.uk/uksi/2002/1691), [art. 2](https://www.legislation.gov.uk/uksi/2002/1691/article/2)
+
+[^key-4f510f57a44adaab4f0f7cc043e58284]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2002/16/schedule/2/paragraph/1) in force at 6.10.2003 in so far as not already in force by [S.I. 2003/1766](https://www.legislation.gov.uk/uksi/2003/1766), [art. 2(a)](https://www.legislation.gov.uk/uksi/2003/1766/article/2/a)
+
+[^c4498021]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2002/16/schedule/2/paragraph/2) not in force at Royal Assent, see [s. 22(3)](https://www.legislation.gov.uk/ukpga/2002/16/section/22/3); [Sch. 2](https://www.legislation.gov.uk/ukpga/2002/16/schedule/2) in force for certain purposes at 2.7.2002 by [S.I. 2002/1691](https://www.legislation.gov.uk/uksi/2002/1691), [art. 2](https://www.legislation.gov.uk/uksi/2002/1691/article/2)
+
+[^key-fb4040929f4fb75d0189f53b72a414d6]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2002/16/schedule/2/paragraph/2) in force at 6.10.2003 in so far as not already in force by [S.I. 2003/1766](https://www.legislation.gov.uk/uksi/2003/1766), [art. 2(a)](https://www.legislation.gov.uk/uksi/2003/1766/article/2/a)
+
+[^key-1a263e969cdcbc9f7501702d010aa9ee]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/2002/16/schedule/2/paragraph/3) in force at 27.1.2003 for specified purposes by [S.I. 2003/83](https://www.legislation.gov.uk/uksi/2003/83), [art. 2](https://www.legislation.gov.uk/uksi/2003/83/article/2)
+
+[^key-e785ef28809965ef31620e7b45b52b12]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/2002/16/schedule/2/paragraph/3) in force at 6.10.2003 in so far as not already in force by [S.I. 2003/1766](https://www.legislation.gov.uk/uksi/2003/1766), [art. 2(a)](https://www.legislation.gov.uk/uksi/2003/1766/article/2/a)
+
+[^c4498031]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/2002/16/schedule/2/paragraph/4) not in force at Royal Assent, see [s. 22(3)](https://www.legislation.gov.uk/ukpga/2002/16/section/22/3); [Sch. 2](https://www.legislation.gov.uk/ukpga/2002/16/schedule/2) in force for certain purposes at 2.7.2002 by [S.I. 2002/1691](https://www.legislation.gov.uk/uksi/2002/1691), [art. 2](https://www.legislation.gov.uk/uksi/2002/1691/article/2)
+
+[^key-1a1f78b0e8f045729b104d2f29ea15ae]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/2002/16/schedule/2/paragraph/4) in force at 6.10.2003 in so far as not already in force by [S.I. 2003/1766](https://www.legislation.gov.uk/uksi/2003/1766), [art. 2(a)](https://www.legislation.gov.uk/uksi/2003/1766/article/2/a)
+
+[^c4535671]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/ukpga/2002/16/schedule/2/paragraph/5) not in force at Royal Assent, see [s. 22(3)](https://www.legislation.gov.uk/ukpga/2002/16/section/22/3); [Sch. 2](https://www.legislation.gov.uk/ukpga/2002/16/schedule/2) in force for certain purposes at 2.7.2002 by [S.I. 2002/1691](https://www.legislation.gov.uk/uksi/2002/1691), [art. 2](https://www.legislation.gov.uk/uksi/2002/1691/article/2)
+
+[^key-bdaf27c4df7437055c0f471ac6989f86]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/ukpga/2002/16/schedule/2/paragraph/5) in force at 6.10.2003 in so far as not already in force by [S.I. 2003/1766](https://www.legislation.gov.uk/uksi/2003/1766), [art. 2(a)](https://www.legislation.gov.uk/uksi/2003/1766/article/2/a)
+
+[^c4538191]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/ukpga/2002/16/schedule/2/paragraph/6) not in force at Royal Assent, see [s. 22(3)](https://www.legislation.gov.uk/ukpga/2002/16/section/22/3); [Sch. 2](https://www.legislation.gov.uk/ukpga/2002/16/schedule/2) in force for certain purposes at 2.7.2002 by [S.I. 2002/1691](https://www.legislation.gov.uk/uksi/2002/1691), [art. 2](https://www.legislation.gov.uk/uksi/2002/1691/article/2)
+
+[^key-2c0af0993e5666949731d0926acf2b6d]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/ukpga/2002/16/schedule/2/paragraph/6) in force at 6.10.2003 in so far as not already in force by [S.I. 2003/1766](https://www.legislation.gov.uk/uksi/2003/1766), [art. 2(a)](https://www.legislation.gov.uk/uksi/2003/1766/article/2/a)
+
+[^c4538981]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/ukpga/2002/16/schedule/2/paragraph/7) not in force at Royal Assent, see [s. 22(3)](https://www.legislation.gov.uk/ukpga/2002/16/section/22/3); [Sch. 2](https://www.legislation.gov.uk/ukpga/2002/16/schedule/2) in force for certain purposes at 2.7.2002 by [S.I. 2002/1691](https://www.legislation.gov.uk/uksi/2002/1691), [art. 2](https://www.legislation.gov.uk/uksi/2002/1691/article/2)
+
+[^key-0b03426e20e4522eee0968f45257579e]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/ukpga/2002/16/schedule/2/paragraph/7) in force at 6.10.2003 in so far as not already in force by [S.I. 2003/1766](https://www.legislation.gov.uk/uksi/2003/1766), [art. 2(a)](https://www.legislation.gov.uk/uksi/2003/1766/article/2/a)
+
+[^c4547071]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/ukpga/2002/16/schedule/2/paragraph/8) not in force at Royal Assent, see [s. 22(3)](https://www.legislation.gov.uk/ukpga/2002/16/section/22/3); [Sch. 2](https://www.legislation.gov.uk/ukpga/2002/16/schedule/2) in force for certain purposes at 2.7.2002 by [S.I. 2002/1691](https://www.legislation.gov.uk/uksi/2002/1691), [art. 2](https://www.legislation.gov.uk/uksi/2002/1691/article/2)
+
+[^key-ffae1c3a030171a90a4c7083229d4606]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/ukpga/2002/16/schedule/2/paragraph/8) in force at 6.10.2003 in so far as not already in force by [S.I. 2003/1766](https://www.legislation.gov.uk/uksi/2003/1766), [art. 2(a)](https://www.legislation.gov.uk/uksi/2003/1766/article/2/a)
+
+[^key-4785d7ad74d02d4a628caeafa442cbbe]: Textual amendment: Sch. 2 para. 9 repealed (6.4.2018) by [Welfare Reform and Work Act 2016 (c. 7)](https://www.legislation.gov.uk/ukpga/2016/7), [ss. 20(11)(c)](https://www.legislation.gov.uk/ukpga/2016/7/section/20/11/c), [36(6)](https://www.legislation.gov.uk/ukpga/2016/7/section/36/6); [S.I. 2018/438](https://www.legislation.gov.uk/uksi/2018/438), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2018/438/regulation/2/1) (with [reg. 2(2)](https://www.legislation.gov.uk/uksi/2018/438/regulation/2/2)[(3)](https://www.legislation.gov.uk/uksi/2018/438/regulation/2/3))
+
+[^c4549831]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/ukpga/2002/16/schedule/2/paragraph/10) not in force at Royal Assent, see [s. 22(3)](https://www.legislation.gov.uk/ukpga/2002/16/section/22/3); [Sch. 2](https://www.legislation.gov.uk/ukpga/2002/16/schedule/2) in force for certain purposes at 2.7.2002 by [S.I. 2002/1691](https://www.legislation.gov.uk/uksi/2002/1691), [art. 2](https://www.legislation.gov.uk/uksi/2002/1691/article/2)
+
+[^key-1e92a6fdb403db4ae112319b6d89bd75]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/ukpga/2002/16/schedule/2/paragraph/10) in force at 6.10.2003 in so far as not already in force by [S.I. 2003/1766](https://www.legislation.gov.uk/uksi/2003/1766), [art. 2(a)](https://www.legislation.gov.uk/uksi/2003/1766/article/2/a)
+
+[^c4549841]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/ukpga/2002/16/schedule/2/paragraph/11) not in force at Royal Assent, see [s. 22(3)](https://www.legislation.gov.uk/ukpga/2002/16/section/22/3); [Sch. 2](https://www.legislation.gov.uk/ukpga/2002/16/schedule/2) in force for certain purposes at 2.7.2002 by [S.I. 2002/1691](https://www.legislation.gov.uk/uksi/2002/1691), [art. 2](https://www.legislation.gov.uk/uksi/2002/1691/article/2)
+
+[^key-355cb8df24c475c5a000cf983c0a2bae]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/ukpga/2002/16/schedule/2/paragraph/11) in force at 6.10.2003 in so far as not already in force by [S.I. 2003/1766](https://www.legislation.gov.uk/uksi/2003/1766), [art. 2(a)](https://www.legislation.gov.uk/uksi/2003/1766/article/2/a)
+
+[^c4549851]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/ukpga/2002/16/schedule/2/paragraph/12) not in force at Royal Assent, see [s. 22(3)](https://www.legislation.gov.uk/ukpga/2002/16/section/22/3); [Sch. 2](https://www.legislation.gov.uk/ukpga/2002/16/schedule/2) in force for certain purposes at 2.7.2002 by [S.I. 2002/1691](https://www.legislation.gov.uk/uksi/2002/1691), [art. 2](https://www.legislation.gov.uk/uksi/2002/1691/article/2)
+
+[^key-9b69714b6497faa0bd8a0622bd1a7b1d]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/ukpga/2002/16/schedule/2/paragraph/12) in force at 6.10.2003 in so far as not already in force by [S.I. 2003/1766](https://www.legislation.gov.uk/uksi/2003/1766), [art. 2(a)](https://www.legislation.gov.uk/uksi/2003/1766/article/2/a)
+
+[^c4549861]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/ukpga/2002/16/schedule/2/paragraph/13) not in force at Royal Assent, see [s. 22(3)](https://www.legislation.gov.uk/ukpga/2002/16/section/22/3); [Sch. 2](https://www.legislation.gov.uk/ukpga/2002/16/schedule/2) in force for certain purposes at 2.7.2002 by [S.I. 2002/1691](https://www.legislation.gov.uk/uksi/2002/1691), [art. 2](https://www.legislation.gov.uk/uksi/2002/1691/article/2)
+
+[^key-fe2776e2a4e48ae0adfe35681c730ae4]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/ukpga/2002/16/schedule/2/paragraph/13) in force at 6.10.2003 in so far as not already in force by [S.I. 2003/1766](https://www.legislation.gov.uk/uksi/2003/1766), [art. 2(a)](https://www.legislation.gov.uk/uksi/2003/1766/article/2/a)
+
+[^c4549871]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/ukpga/2002/16/schedule/2/paragraph/14) not in force at Royal Assent, see [s. 22(3)](https://www.legislation.gov.uk/ukpga/2002/16/section/22/3); [Sch. 2](https://www.legislation.gov.uk/ukpga/2002/16/schedule/2) in force for certain purposes at 2.7.2002 by [S.I. 2002/1691](https://www.legislation.gov.uk/uksi/2002/1691), [art. 2](https://www.legislation.gov.uk/uksi/2002/1691/article/2)
+
+[^key-9433987fc1a7765fe016e07b661109bb]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/ukpga/2002/16/schedule/2/paragraph/14) in force at 6.10.2003 in so far as not already in force by [S.I. 2003/1766](https://www.legislation.gov.uk/uksi/2003/1766), [art. 2(a)](https://www.legislation.gov.uk/uksi/2003/1766/article/2/a)
+
+[^c4549881]: Commencement: [Sch. 2 para. 15](https://www.legislation.gov.uk/ukpga/2002/16/schedule/2/paragraph/15) not in force at Royal Assent, see [s. 22(3)](https://www.legislation.gov.uk/ukpga/2002/16/section/22/3); [Sch. 2](https://www.legislation.gov.uk/ukpga/2002/16/schedule/2) in force for certain purposes at 2.7.2002 by [S.I. 2002/1691](https://www.legislation.gov.uk/uksi/2002/1691), [art. 2](https://www.legislation.gov.uk/uksi/2002/1691/article/2)
+
+[^key-068aa335ef6bdc00e429a316da69707b]: Commencement: [Sch. 2 para. 15](https://www.legislation.gov.uk/ukpga/2002/16/schedule/2/paragraph/15) in force at 6.10.2003 in so far as not already in force by [S.I. 2003/1766](https://www.legislation.gov.uk/uksi/2003/1766), [art. 2(a)](https://www.legislation.gov.uk/uksi/2003/1766/article/2/a)
+
+[^c4549891]: Commencement: [Sch. 2 para. 16](https://www.legislation.gov.uk/ukpga/2002/16/schedule/2/paragraph/16) not in force at Royal Assent, see [s. 22(3)](https://www.legislation.gov.uk/ukpga/2002/16/section/22/3); [Sch. 2](https://www.legislation.gov.uk/ukpga/2002/16/schedule/2) in force for certain purposes at 2.7.2002 by [S.I. 2002/1691](https://www.legislation.gov.uk/uksi/2002/1691), [art. 2](https://www.legislation.gov.uk/uksi/2002/1691/article/2)
+
+[^key-8ce9a5899343974aa846df7ca69f6823]: Commencement: [Sch. 2 para. 16](https://www.legislation.gov.uk/ukpga/2002/16/schedule/2/paragraph/16) in force at 6.10.2003 in so far as not already in force by [S.I. 2003/1766](https://www.legislation.gov.uk/uksi/2003/1766), [art. 2(a)](https://www.legislation.gov.uk/uksi/2003/1766/article/2/a)
+
+[^c4549901]: Commencement: [Sch. 2 para. 17](https://www.legislation.gov.uk/ukpga/2002/16/schedule/2/paragraph/17) not in force at Royal Assent, see [s. 22(3)](https://www.legislation.gov.uk/ukpga/2002/16/section/22/3); [Sch. 2](https://www.legislation.gov.uk/ukpga/2002/16/schedule/2) in force for certain purposes at 2.7.2002 by [S.I. 2002/1691](https://www.legislation.gov.uk/uksi/2002/1691), [art. 2](https://www.legislation.gov.uk/uksi/2002/1691/article/2)
+
+[^key-b04d32277ae404cd62cb5d0536f01942]: Commencement: [Sch. 2 para. 17](https://www.legislation.gov.uk/ukpga/2002/16/schedule/2/paragraph/17) in force at 6.10.2003 in so far as not already in force by [S.I. 2003/1766](https://www.legislation.gov.uk/uksi/2003/1766), [art. 2(a)](https://www.legislation.gov.uk/uksi/2003/1766/article/2/a)
+
+[^c4549911]: Commencement: [Sch. 2 para. 18](https://www.legislation.gov.uk/ukpga/2002/16/schedule/2/paragraph/18) not in force at Royal Assent, see [s. 22(3)](https://www.legislation.gov.uk/ukpga/2002/16/section/22/3); [Sch. 2](https://www.legislation.gov.uk/ukpga/2002/16/schedule/2) in force for certain purposes at 2.7.2002 by [S.I. 2002/1691](https://www.legislation.gov.uk/uksi/2002/1691), [art. 2](https://www.legislation.gov.uk/uksi/2002/1691/article/2)
+
+[^key-f3823f3aa2a8424bbf7bcc717be1d6d9]: Commencement: [Sch. 2 para. 18](https://www.legislation.gov.uk/ukpga/2002/16/schedule/2/paragraph/18) in force at 6.10.2003 in so far as not already in force by [S.I. 2003/1766](https://www.legislation.gov.uk/uksi/2003/1766), [art. 2(a)](https://www.legislation.gov.uk/uksi/2003/1766/article/2/a)
+
+[^c4549921]: Commencement: [Sch. 2 para. 19](https://www.legislation.gov.uk/ukpga/2002/16/schedule/2/paragraph/19) not in force at Royal Assent, see [s. 22(3)](https://www.legislation.gov.uk/ukpga/2002/16/section/22/3); [Sch. 2](https://www.legislation.gov.uk/ukpga/2002/16/schedule/2) in force for certain purposes at 2.7.2002 by [S.I. 2002/1691](https://www.legislation.gov.uk/uksi/2002/1691), [art. 2](https://www.legislation.gov.uk/uksi/2002/1691/article/2)
+
+[^key-63c2970f96930103d4bece73f878de92]: Commencement: [Sch. 2 para. 19](https://www.legislation.gov.uk/ukpga/2002/16/schedule/2/paragraph/19) in force at 6.10.2003 in so far as not already in force by [S.I. 2003/1766](https://www.legislation.gov.uk/uksi/2003/1766), [art. 2(a)](https://www.legislation.gov.uk/uksi/2003/1766/article/2/a)
+
+[^c4549931]: Commencement: [Sch. 2 para. 20](https://www.legislation.gov.uk/ukpga/2002/16/schedule/2/paragraph/20) not in force at Royal Assent, see [s. 22(3)](https://www.legislation.gov.uk/ukpga/2002/16/section/22/3); [Sch. 2](https://www.legislation.gov.uk/ukpga/2002/16/schedule/2) in force for certain purposes at 2.7.2002 by [S.I. 2002/1691](https://www.legislation.gov.uk/uksi/2002/1691), [art. 2](https://www.legislation.gov.uk/uksi/2002/1691/article/2)
+
+[^key-178bf5e74ff561a3816864081c0570d5]: Commencement: [Sch. 2 para. 20](https://www.legislation.gov.uk/ukpga/2002/16/schedule/2/paragraph/20) in force at 6.10.2003 in so far as not already in force by [S.I. 2003/1766](https://www.legislation.gov.uk/uksi/2003/1766), [art. 2(a)](https://www.legislation.gov.uk/uksi/2003/1766/article/2/a)
+
+[^c4549941]: Commencement: [Sch. 2 para. 21](https://www.legislation.gov.uk/ukpga/2002/16/schedule/2/paragraph/21) not in force at Royal Assent, see [s. 22(3)](https://www.legislation.gov.uk/ukpga/2002/16/section/22/3); [Sch. 2](https://www.legislation.gov.uk/ukpga/2002/16/schedule/2) in force for certain purposes at 2.7.2002 by [S.I. 2002/1691](https://www.legislation.gov.uk/uksi/2002/1691), [art. 2](https://www.legislation.gov.uk/uksi/2002/1691/article/2)
+
+[^key-0aebb4acbf6b4033850391a44797872b]: Commencement: [Sch. 2 para. 21](https://www.legislation.gov.uk/ukpga/2002/16/schedule/2/paragraph/21) in force at 6.10.2003 in so far as not already in force by [S.I. 2003/1766](https://www.legislation.gov.uk/uksi/2003/1766), [art. 2(a)](https://www.legislation.gov.uk/uksi/2003/1766/article/2/a)
+
+[^c4549951]: Commencement: [Sch. 2 para. 22](https://www.legislation.gov.uk/ukpga/2002/16/schedule/2/paragraph/22) not in force at Royal Assent, see [s. 22(3)](https://www.legislation.gov.uk/ukpga/2002/16/section/22/3); [Sch. 2](https://www.legislation.gov.uk/ukpga/2002/16/schedule/2) in force for certain purposes at 2.7.2002 by [S.I. 2002/1691](https://www.legislation.gov.uk/uksi/2002/1691), [art. 2](https://www.legislation.gov.uk/uksi/2002/1691/article/2)
+
+[^key-033953898009624d5d657d0b4fac5866]: Commencement: [Sch. 2 para. 22](https://www.legislation.gov.uk/ukpga/2002/16/schedule/2/paragraph/22) in force at 6.10.2003 in so far as not already in force by [S.I. 2003/1766](https://www.legislation.gov.uk/uksi/2003/1766), [art. 2(a)](https://www.legislation.gov.uk/uksi/2003/1766/article/2/a)
+
+[^c4549961]: Commencement: [Sch. 2 para. 23](https://www.legislation.gov.uk/ukpga/2002/16/schedule/2/paragraph/23) not in force at Royal Assent, see [s. 22(3)](https://www.legislation.gov.uk/ukpga/2002/16/section/22/3); [Sch. 2](https://www.legislation.gov.uk/ukpga/2002/16/schedule/2) in force for certain purposes at 2.7.2002 by [S.I. 2002/1691](https://www.legislation.gov.uk/uksi/2002/1691), [art. 2](https://www.legislation.gov.uk/uksi/2002/1691/article/2)
+
+[^key-200ba988c2cbe0549b895b8237a2426d]: Commencement: [Sch. 2 para. 23](https://www.legislation.gov.uk/ukpga/2002/16/schedule/2/paragraph/23) in force at 6.10.2003 in so far as not already in force by [S.I. 2003/1766](https://www.legislation.gov.uk/uksi/2003/1766), [art. 2(a)](https://www.legislation.gov.uk/uksi/2003/1766/article/2/a)
+
+[^c4549971]: Commencement: [Sch. 2 para. 24](https://www.legislation.gov.uk/ukpga/2002/16/schedule/2/paragraph/24) not in force at Royal Assent, see [s. 22(3)](https://www.legislation.gov.uk/ukpga/2002/16/section/22/3); [Sch. 2](https://www.legislation.gov.uk/ukpga/2002/16/schedule/2) in force for certain purposes at 2.7.2002 by [S.I. 2002/1691](https://www.legislation.gov.uk/uksi/2002/1691), [art. 2](https://www.legislation.gov.uk/uksi/2002/1691/article/2)
+
+[^key-59630f141942dfa8b92e1f12eb48bb17]: Commencement: [Sch. 2 para. 24](https://www.legislation.gov.uk/ukpga/2002/16/schedule/2/paragraph/24) in force at 6.10.2003 in so far as not already in force by [S.I. 2003/1766](https://www.legislation.gov.uk/uksi/2003/1766), [art. 2(a)](https://www.legislation.gov.uk/uksi/2003/1766/article/2/a)
+
+[^key-1715c076ec8897c20ceee4378d6cbec9]: Textual amendment: Sch. 2 para. 25 repealed (1.4.2005) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [s. 110(1)](https://www.legislation.gov.uk/ukpga/2003/39/section/110/1), [Sch. 10](https://www.legislation.gov.uk/ukpga/2003/39/schedule/10); [S.I. 2005/910](https://www.legislation.gov.uk/uksi/2005/910), [art. 3(aa)](https://www.legislation.gov.uk/uksi/2005/910/article/3/aa)
+
+[^c4550021]: Commencement: Sch. 2 para. 26 not in force at Royal Assent, see s. 22(3); Sch. 2 in force for certain purposes at 2.7.2002 by [S.I. 2002/1691](https://www.legislation.gov.uk/uksi/2002/1691), [art. 2](https://www.legislation.gov.uk/uksi/2002/1691/article/2)
+
+[^key-aaecce8ad07629e1cd35dffd77acf41a]: Commencement: Sch. 2 para. 26 in force at 6.10.2003 in so far as not already in force by [S.I. 2003/1766](https://www.legislation.gov.uk/uksi/2003/1766), [art. 2(a)](https://www.legislation.gov.uk/uksi/2003/1766/article/2/a)
+
+[^c4550031]: Commencement: Sch. 2 para. 27 not in force at Royal Assent, see s. 22(3); Sch. 2 in force for certain purposes at 2.7.2002 by [S.I. 2002/1691](https://www.legislation.gov.uk/uksi/2002/1691), [art. 2](https://www.legislation.gov.uk/uksi/2002/1691/article/2)
+
+[^key-ad37e63d3325dd99093701cde7a964a5]: Commencement: Sch. 2 para. 27 in force at 6.10.2003 in so far as not already in force by [S.I. 2003/1766](https://www.legislation.gov.uk/uksi/2003/1766), [art. 2(a)](https://www.legislation.gov.uk/uksi/2003/1766/article/2/a)
+
+[^key-a0bd4c7307da7e4f6e7ce5135fc00aaa]: Textual amendment: Sch. 2 para. 28 repealed (with effect in accordance with s. 723(1)(a)(b) of the amending Act) by [Income Tax (Earnings and Pensions) Act 2003 (c. 1)](https://www.legislation.gov.uk/ukpga/2003/1), [s. 723](https://www.legislation.gov.uk/ukpga/2003/1/section/723), [Sch. 8 Pt. 1](https://www.legislation.gov.uk/ukpga/2003/1/schedule/8/part/1) (with [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/1/schedule/7))
+
+[^c4550051]: Commencement: Sch. 2 para. 29 not in force at Royal Assent, see s. 22(3); Sch. 2 in force for certain purposes at 2.7.2002 by [S.I. 2002/1691](https://www.legislation.gov.uk/uksi/2002/1691), [art. 2](https://www.legislation.gov.uk/uksi/2002/1691/article/2)
+
+[^key-72421347e6b9e7cac40e04eeae702fc8]: Commencement: Sch. 2 para. 29 in force at 6.10.2003 in so far as not already in force by [S.I. 2003/1766](https://www.legislation.gov.uk/uksi/2003/1766), [art. 2(a)](https://www.legislation.gov.uk/uksi/2003/1766/article/2/a)
+
+[^c4550061]: Commencement: Sch. 2 para. 30 not in force at Royal Assent, see s. 22(3); Sch. 2 in force for certain purposes at 2.7.2002 by [S.I. 2002/1691](https://www.legislation.gov.uk/uksi/2002/1691), [art. 2](https://www.legislation.gov.uk/uksi/2002/1691/article/2)
+
+[^key-f4b7dc1cd50b8b31c57302fa2a9479a9]: Commencement: Sch. 2 para. 30 in force at 6.10.2003 in so far as not already in force by [S.I. 2003/1766](https://www.legislation.gov.uk/uksi/2003/1766), [art. 2(a)](https://www.legislation.gov.uk/uksi/2003/1766/article/2/a)
+
+[^c4550071]: Commencement: Sch. 2 para. 31 not in force at Royal Assent, see s. 22(3); Sch. 2 in force for certain purposes at 2.7.2002 by [S.I. 2002/1691](https://www.legislation.gov.uk/uksi/2002/1691), [art. 2](https://www.legislation.gov.uk/uksi/2002/1691/article/2)
+
+[^key-931546322b79f0f1dcd23ed5cb4babf7]: Commencement: Sch. 2 para. 31 in force at 6.10.2003 in so far as not already in force by [S.I. 2003/1766](https://www.legislation.gov.uk/uksi/2003/1766), [art. 2(a)](https://www.legislation.gov.uk/uksi/2003/1766/article/2/a)
+
+[^c4550081]: Commencement: Sch. 2 para. 32 not in force at Royal Assent, see s. 22(3); Sch. 2 in force for certain purposes at 2.7.2002 by [S.I. 2002/1691](https://www.legislation.gov.uk/uksi/2002/1691), [art. 2](https://www.legislation.gov.uk/uksi/2002/1691/article/2)
+
+[^key-b17ef209b5cf765a086b21444fe466b2]: Commencement: Sch. 2 para. 32 in force at 6.10.2003 in so far as not already in force by [S.I. 2003/1766](https://www.legislation.gov.uk/uksi/2003/1766), [art. 2(a)](https://www.legislation.gov.uk/uksi/2003/1766/article/2/a)
+
+[^c4550091]: Commencement: Sch. 2 para. 33 not in force at Royal Assent, see s. 22(3); Sch. 2 in force for certain purposes at 2.7.2002 by [S.I. 2002/1691](https://www.legislation.gov.uk/uksi/2002/1691), [art. 2](https://www.legislation.gov.uk/uksi/2002/1691/article/2)
+
+[^key-da3fc19486c51faff8d6ff8631cb7d53]: Commencement: Sch. 2 para. 33 in force at 6.10.2003 in so far as not already in force by [S.I. 2003/1766](https://www.legislation.gov.uk/uksi/2003/1766), [art. 2(a)](https://www.legislation.gov.uk/uksi/2003/1766/article/2/a)
+
+[^c4550121]: Commencement: Sch. 2 para. 34 not in force at Royal Assent, see s. 22(3); Sch. 2 in force for certain purposes at 2.7.2002 by [S.I. 2002/1691](https://www.legislation.gov.uk/uksi/2002/1691), [art. 2](https://www.legislation.gov.uk/uksi/2002/1691/article/2)
+
+[^key-289c740be0536f86a7331ae0591d806d]: Commencement: Sch. 2 para. 34 in force at 6.10.2003 in so far as not already in force by [S.I. 2003/1766](https://www.legislation.gov.uk/uksi/2003/1766), [art. 2(a)](https://www.legislation.gov.uk/uksi/2003/1766/article/2/a)
+
+[^c4550131]: Commencement: Sch. 2 para. 35 not in force at Royal Assent, see s. 22(3); Sch. 2 in force for certain purposes at 2.7.2002 by [S.I. 2002/1691](https://www.legislation.gov.uk/uksi/2002/1691), [art. 2](https://www.legislation.gov.uk/uksi/2002/1691/article/2)
+
+[^key-2b83ed9f5aba4652389b3533f71b8593]: Commencement: Sch. 2 para. 35 in force at 6.10.2003 in so far as not already in force by [S.I. 2003/1766](https://www.legislation.gov.uk/uksi/2003/1766), [art. 2(a)](https://www.legislation.gov.uk/uksi/2003/1766/article/2/a)
+
+[^c4550141]: Commencement: Sch. 2 para. 36 not in force at Royal Assent, see s. 22(3); Sch. 2 in force for certain purposes at 2.7.2002 by [S.I. 2002/1691](https://www.legislation.gov.uk/uksi/2002/1691), [art. 2](https://www.legislation.gov.uk/uksi/2002/1691/article/2)
+
+[^key-7d3fedce6cfce409705b3df5812a2644]: Commencement: Sch. 2 para. 36 in force at 6.10.2003 in so far as not already in force by [S.I. 2003/1766](https://www.legislation.gov.uk/uksi/2003/1766), [art. 2(a)](https://www.legislation.gov.uk/uksi/2003/1766/article/2/a)
+
+[^key-bc55810d22ae2b58645d7cb55acfa5f9]: Textual amendment: [Sch. 2 paras. 36-38](https://www.legislation.gov.uk/ukpga/2002/16/schedule/2/paragraph/36) repealed (29.4.2013 for specified purposes, 1.7.2013 and 29.7.2013 for specified purposes, 28.10.2013 for specified purposes, 25.11.2013 for specified purposes, 24.2.2014 and 7.4.2014 for specified purposes, 23.6.2014 and further specified dates for specified purposes, 15.9.2014 and further specified dates for specified purposes, 26.11.2014 for specified purposes, 28.1.2015 for specified purposes, 16.2.2015 and further specified dates for specified purposes, 18.3.2015 and further specified dates for specified purposes, 21.9.2015 and further specified dates for specified purposes, 2.12.2015 for specified purposes, 27.1.2016 and 24.2.2016 for specified purposes, 23.3.2016 and 27.4.2016 for specified purposes, 1.2.2019 for specified purposes, 1.12.2025 for specified purposes, 1.4.2026 for specified purposes, 1.7.2026 for specified purposes) by [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5), [s. 150(3)](https://www.legislation.gov.uk/ukpga/2012/5/section/150/3), [Sch. 14 Pt. 1](https://www.legislation.gov.uk/ukpga/2012/5/schedule/14/part/1); [S.I. 2013/983](https://www.legislation.gov.uk/uksi/2013/983), [arts. 4(1)(c)](https://www.legislation.gov.uk/uksi/2013/983/article/4/1/c), [5](https://www.legislation.gov.uk/uksi/2013/983/article/5), [Sch. 1](https://www.legislation.gov.uk/uksi/2013/983/schedule/1) (with [arts. 6](https://www.legislation.gov.uk/uksi/2013/983/article/6), [9(1)](https://www.legislation.gov.uk/uksi/2013/983/article/9/1), [22](https://www.legislation.gov.uk/uksi/2013/983/article/22), [Sch. 4](https://www.legislation.gov.uk/uksi/2013/983/schedule/4)) (as amended: (1.7.2013) by [S.I. 2013/1511](https://www.legislation.gov.uk/uksi/2013/1511); (29.10.2013) by [S.I. 2013/2657](https://www.legislation.gov.uk/uksi/2013/2657); (16.6.2014) by [S.I. 2014/1452](https://www.legislation.gov.uk/uksi/2014/1452); (30.6.2014) by [S.I. 2014/1661](https://www.legislation.gov.uk/uksi/2014/1661); (28.7.2014) by [S.I. 2014/1923](https://www.legislation.gov.uk/uksi/2014/1923); (15.9.2014) by [S.I. 2014/2321](https://www.legislation.gov.uk/uksi/2014/2321); (17.11.2014) by [S.I. 2014/3067](https://www.legislation.gov.uk/uksi/2014/3067); (21.11.2014) by [S.I. 2014/3094](https://www.legislation.gov.uk/uksi/2014/3094); (19.1.2015) by [S.I. 2015/32](https://www.legislation.gov.uk/uksi/2015/32) (as amended (10.2.2015) by [S.I. 2015/101](https://www.legislation.gov.uk/uksi/2015/101)); (10.3.2015) by [S.I. 2015/634](https://www.legislation.gov.uk/uksi/2015/634); (20.7.2015) by [S.I. 2015/1537](https://www.legislation.gov.uk/uksi/2015/1537); (23.11.2015) by [S.I. 2015/1930](https://www.legislation.gov.uk/uksi/2015/1930); (6.4.2017) by [S.I. 2017/483](https://www.legislation.gov.uk/uksi/2017/483); (2.2.2018) by [S.I. 2018/138](https://www.legislation.gov.uk/uksi/2018/138); (16.1.2019) by [S.I. 2019/10](https://www.legislation.gov.uk/uksi/2019/10); (31.1.2019) by [S.I. 2019/167](https://www.legislation.gov.uk/uksi/2019/167); (30.3.2022) by [S.I. 2022/302](https://www.legislation.gov.uk/uksi/2022/302); and (25.7.2022) by [S.I. 2022/752](https://www.legislation.gov.uk/uksi/2022/752)); [S.I. 2013/1511](https://www.legislation.gov.uk/uksi/2013/1511), [art. 4](https://www.legislation.gov.uk/uksi/2013/1511/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2013/1511/schedule) (as amended or modified: (29.10.2013) by [S.I. 2013/2657](https://www.legislation.gov.uk/uksi/2013/2657); (16.6.2014) by [S.I. 2014/1452](https://www.legislation.gov.uk/uksi/2014/1452); (30.6.2014) by [S.I. 2014/1661](https://www.legislation.gov.uk/uksi/2014/1661); (28.7.2014) by [S.I. 2014/1923](https://www.legislation.gov.uk/uksi/2014/1923); (17.11.2014) by [S.I. 2014/3067](https://www.legislation.gov.uk/uksi/2014/3067); (19.1.2015) by [S.I. 2015/32](https://www.legislation.gov.uk/uksi/2015/32); (10.3.2015) by [S.I. 2015/634](https://www.legislation.gov.uk/uksi/2015/634); (20.7.2015) by [S.I. 2015/1537](https://www.legislation.gov.uk/uksi/2015/1537); and (25.1.2017) by [S.I. 2017/57](https://www.legislation.gov.uk/uksi/2017/57)); [S.I. 2013/2657](https://www.legislation.gov.uk/uksi/2013/2657), [art. 4](https://www.legislation.gov.uk/uksi/2013/2657/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2013/2657/schedule) (with [art. 6](https://www.legislation.gov.uk/uksi/2013/2657/article/6)) (as amended or modified: (16.6.2014) by [S.I. 2014/1452](https://www.legislation.gov.uk/uksi/2014/1452); (30.6.2014) by [S.I. 2014/1661](https://www.legislation.gov.uk/uksi/2014/1661); (28.7.2014) by [S.I. 2014/1923](https://www.legislation.gov.uk/uksi/2014/1923); (17.11.2014) by [S.I. 2014/3067](https://www.legislation.gov.uk/uksi/2014/3067); (19.1.2015) by [S.I. 2015/32](https://www.legislation.gov.uk/uksi/2015/32); (10.3.2015) by [S.I. 2015/634](https://www.legislation.gov.uk/uksi/2015/634); (20.7.2015) by [S.I. 2015/1537](https://www.legislation.gov.uk/uksi/2015/1537); (23.5.2016) [S.I. 2016/596](https://www.legislation.gov.uk/uksi/2016/596); and (25.1.2017) by [S.I. 2017/57](https://www.legislation.gov.uk/uksi/2017/57)); [S.I. 2013/2846](https://www.legislation.gov.uk/uksi/2013/2846), [art. 4](https://www.legislation.gov.uk/uksi/2013/2846/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2013/2846/schedule) (with [art. 5](https://www.legislation.gov.uk/uksi/2013/2846/article/5)) (as amended or modified: (16.6.2014) by [S.I. 2014/1452](https://www.legislation.gov.uk/uksi/2014/1452); (30.6.2014) by [S.I. 2014/1661](https://www.legislation.gov.uk/uksi/2014/1661); (28.7.2014) by [S.I. 2014/1923](https://www.legislation.gov.uk/uksi/2014/1923); (17.11.2014) by [S.I. 2014/3067](https://www.legislation.gov.uk/uksi/2014/3067); (19.1.2015) by [S.I. 2015/32](https://www.legislation.gov.uk/uksi/2015/32); (10.3.2015) by [S.I. 2015/634](https://www.legislation.gov.uk/uksi/2015/634); (20.7.2015) by [S.I. 2015/1537](https://www.legislation.gov.uk/uksi/2015/1537); and (23.5.2016) by [S.I. 2016/596](https://www.legislation.gov.uk/uksi/2016/596)); [S.I. 2014/209](https://www.legislation.gov.uk/uksi/2014/209), [art. 4](https://www.legislation.gov.uk/uksi/2014/209/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2014/209/schedule) (as amended or modified: (16.6.2014) by [S.I. 2014/1452](https://www.legislation.gov.uk/uksi/2014/1452); (30.6.2014) by [S.I. 2014/1661](https://www.legislation.gov.uk/uksi/2014/1661); (28.7.2014) by [S.I. 2014/1923](https://www.legislation.gov.uk/uksi/2014/1923); (17.11.2014) by [S.I. 2014/3067](https://www.legislation.gov.uk/uksi/2014/3067); (19.1.2015) by [S.I. 2015/32](https://www.legislation.gov.uk/uksi/2015/32); (10.3.2105) by [S.I. 2015/634](https://www.legislation.gov.uk/uksi/2015/634); (20.7.2015) by [S.I. 2015/1537](https://www.legislation.gov.uk/uksi/2015/1537); (23.5.2016) by [S.I. 2016/596](https://www.legislation.gov.uk/uksi/2016/596); and (25.1.2017) by [S.I. 2017/57](https://www.legislation.gov.uk/uksi/2017/57)); [S.I. 2014/1583](https://www.legislation.gov.uk/uksi/2014/1583), [art. 4](https://www.legislation.gov.uk/uksi/2014/1583/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2014/1583/schedule) (as amended or modified: (30.6.2014) by [S.I. 2014/1661](https://www.legislation.gov.uk/uksi/2014/1661); (28.7.2014) by [S.I. 2014/1923](https://www.legislation.gov.uk/uksi/2014/1923); (17.11.2014) by [S.I. 2014/3067](https://www.legislation.gov.uk/uksi/2014/3067); (19.1.2015) by [S.I. 2015/32](https://www.legislation.gov.uk/uksi/2015/32); (10.3.2015) by [S.I. 2015/634](https://www.legislation.gov.uk/uksi/2015/634); (20.7.2015) by [S.I. 2015/1537](https://www.legislation.gov.uk/uksi/2015/1537); and (19.5.2017) by [S.I. 2017/664](https://www.legislation.gov.uk/uksi/2017/664)); [S.I. 2014/2321](https://www.legislation.gov.uk/uksi/2014/2321), [art. 4](https://www.legislation.gov.uk/uksi/2014/2321/article/4) (as amended or modified: (17.11.2014) by [S.I. 2014/3057](https://www.legislation.gov.uk/uksi/2014/3057); (19.1.2015) by [S.I. 2015/32](https://www.legislation.gov.uk/uksi/2015/32); (10.3.2015) by [S.I. 2015/634](https://www.legislation.gov.uk/uksi/2015/634); (20.7.2015) by [S.I. 2015/1537](https://www.legislation.gov.uk/uksi/2015/1537); (23.5.2016) by [S.I. 2016/596](https://www.legislation.gov.uk/uksi/2016/596); (29.9.2016) by [S.I. 2016/963](https://www.legislation.gov.uk/uksi/2016/963); (24.4.2017) by [S.I. 2017/584](https://www.legislation.gov.uk/uksi/2017/584); and (19.5.2017) by [S.I. 2017/664](https://www.legislation.gov.uk/uksi/2017/664)); [S.I. 2014/3094](https://www.legislation.gov.uk/uksi/2014/3094), [art. 4](https://www.legislation.gov.uk/uksi/2014/3094/article/4) (with [art. 6](https://www.legislation.gov.uk/uksi/2014/3094/article/6)) (as amended (25.7.2022) by [S.I. 2022/752](https://www.legislation.gov.uk/uksi/2022/752)); [S.I. 2015/33](https://www.legislation.gov.uk/uksi/2015/33), [art. 4](https://www.legislation.gov.uk/uksi/2015/33/article/4) (with [art. 6](https://www.legislation.gov.uk/uksi/2015/33/article/6)) (as amended: (11.2.2015) by [S.I. 2015/101](https://www.legislation.gov.uk/uksi/2015/101); (10.3.2015) by [S.I. 2015/634](https://www.legislation.gov.uk/uksi/2015/634); (6.4.2017) by [S.I. 2017/483](https://www.legislation.gov.uk/uksi/2017/483); (11.4.2018) by [S.I. 2018/138](https://www.legislation.gov.uk/uksi/2018/138); (16.1.2019) by [S.I. 2019/10](https://www.legislation.gov.uk/uksi/2019/10); (15.1.2019) by [S.I. 2019/37](https://www.legislation.gov.uk/uksi/2019/37)); (31.1.2019) by [S.I. 2019/167](https://www.legislation.gov.uk/uksi/2019/167); (30.3.2022) by [S.I. 2022/302](https://www.legislation.gov.uk/uksi/2022/302); and (25.7.2022) by [S.I. 2022/752](https://www.legislation.gov.uk/uksi/2022/752)); [S.I. 2015/101](https://www.legislation.gov.uk/uksi/2015/101), [art. 4](https://www.legislation.gov.uk/uksi/2015/101/article/4) (with [art. 2(2)-(4)](https://www.legislation.gov.uk/uksi/2015/101/article/2/2)) (as amended or modified: (10.3.2015) by [S.I. 2015/534](https://www.legislation.gov.uk/uksi/2015/534); (17.3.2015) by [S.I. 2015/740](https://www.legislation.gov.uk/uksi/2015/740); (20.7.2015) by [S.I. 2015/1537](https://www.legislation.gov.uk/uksi/2015/1537); (14.1.2016) by [S.I. 2016/33](https://www.legislation.gov.uk/uksi/2016/33); (21.3.2016) by [S.I. 2016/407](https://www.legislation.gov.uk/uksi/2016/407); (23.5.2016) by [S.I. 2016/596](https://www.legislation.gov.uk/uksi/2016/596); (29.9.2016) by [S.I. 2016/963](https://www.legislation.gov.uk/uksi/2016/963); (25.1.2017) by [S.I. 2017/57](https://www.legislation.gov.uk/uksi/2017/57); (24.4.2017) by [S.I. 2017/584](https://www.legislation.gov.uk/uksi/2017/584); and (19.5.2017) by [S.I. 2017/664](https://www.legislation.gov.uk/uksi/2017/664)); [S.I. 2015/634](https://www.legislation.gov.uk/uksi/2015/634), [art. 4](https://www.legislation.gov.uk/uksi/2015/634/article/4) (with [art. 6](https://www.legislation.gov.uk/uksi/2015/634/article/6)) (as amended: (17.3.2015) by [S.I. 2015/740](https://www.legislation.gov.uk/uksi/2015/740); (6.4.2017) by [S.I. 2017/376](https://www.legislation.gov.uk/uksi/2017/376); (16.1.2019) by [S.I. 2019/10](https://www.legislation.gov.uk/uksi/2019/10); (15.1.2019) by [S.I. 2019/37](https://www.legislation.gov.uk/uksi/2019/37); (31.1.2019) by [S.I. 2019/167](https://www.legislation.gov.uk/uksi/2019/167); (30.3.2022) by [S.I. 2022/302](https://www.legislation.gov.uk/uksi/2022/302); and (25.7.2022) by [S.I. 2022/752](https://www.legislation.gov.uk/uksi/2022/752)); [S.I. 2015/1537](https://www.legislation.gov.uk/uksi/2015/1537), [art. 4](https://www.legislation.gov.uk/uksi/2015/1537/article/4) (as modified: (23.11.2015) by [S.I. 2015/1930](https://www.legislation.gov.uk/uksi/2015/1930); (14.1.2016) by [S.I. 2016/33](https://www.legislation.gov.uk/uksi/2016/33); (21.3.2016) by [S.I. 2016/407](https://www.legislation.gov.uk/uksi/2016/407); (23.5.2016) by [S.I. 2016/596](https://www.legislation.gov.uk/uksi/2016/596); (29.9.2016) by [S.I. 2016/963](https://www.legislation.gov.uk/uksi/2016/963); (25.1.2017) by [S.I. 2017/57](https://www.legislation.gov.uk/uksi/2017/57); (24.4.2017) by [S.I. 2017/584](https://www.legislation.gov.uk/uksi/2017/584); and (19.5.2017) by [S.I. 2017/664](https://www.legislation.gov.uk/uksi/2017/664)); [S.I. 2015/1930](https://www.legislation.gov.uk/uksi/2015/1930), [art. 4](https://www.legislation.gov.uk/uksi/2015/1930/article/4); [S.I. 2016/33](https://www.legislation.gov.uk/uksi/2016/33), [art. 4](https://www.legislation.gov.uk/uksi/2016/33/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2016/33/schedule); [S.I. 2016/407](https://www.legislation.gov.uk/uksi/2016/407), [art. 4](https://www.legislation.gov.uk/uksi/2016/407/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2016/407/schedule); [S.I. 2019/167](https://www.legislation.gov.uk/uksi/2019/167), [art. 4(5)-(7)](https://www.legislation.gov.uk/uksi/2019/167/article/4/5) (with [art. 4(8)-(12)](https://www.legislation.gov.uk/uksi/2019/167/article/4/8)); [S.I. 2025/1148](https://www.legislation.gov.uk/uksi/2025/1148), [arts. 2](https://www.legislation.gov.uk/uksi/2025/1148/article/2), [3A](https://www.legislation.gov.uk/uksi/2025/1148/article/3A), [4](https://www.legislation.gov.uk/uksi/2025/1148/article/4) (with [art. 3](https://www.legislation.gov.uk/uksi/2025/1148/article/3))
+
+[^c4550151]: Commencement: Sch. 2 para. 37 not in force at Royal Assent, see s. 22(3); Sch. 2 in force for certain purposes at 2.7.2002 by [S.I. 2002/1691](https://www.legislation.gov.uk/uksi/2002/1691), [art. 2](https://www.legislation.gov.uk/uksi/2002/1691/article/2)
+
+[^key-dd0cdc6ee051e8f6a3f2c7164add978a]: Commencement: Sch. 2 para. 37 in force at 6.10.2003 in so far as not already in force by [S.I. 2003/1766](https://www.legislation.gov.uk/uksi/2003/1766), [art. 2(a)](https://www.legislation.gov.uk/uksi/2003/1766/article/2/a)
+
+[^c4550161]: Commencement: Sch. 2 para. 38 not in force at Royal Assent, see s. 22(3); Sch. 2 in force for certain purposes at 2.7.2002 by [S.I. 2002/1691](https://www.legislation.gov.uk/uksi/2002/1691), [art. 2](https://www.legislation.gov.uk/uksi/2002/1691/article/2)
+
+[^key-36b2aa7e50b0d6dafaa7bd0b31d9de45]: Commencement: Sch. 2 para. 38 in force at 6.10.2003 in so far as not already in force by [S.I. 2003/1766](https://www.legislation.gov.uk/uksi/2003/1766), [art. 2(a)](https://www.legislation.gov.uk/uksi/2003/1766/article/2/a)
+
+[^c4550171]: Commencement: Sch. 2 para. 39 not in force at Royal Assent, see s. 22(3); Sch. 2 in force for certain purposes at 2.7.2002 by [S.I. 2002/1691](https://www.legislation.gov.uk/uksi/2002/1691), [art. 2](https://www.legislation.gov.uk/uksi/2002/1691/article/2)
+
+[^key-caffb69e76223a1b4f19c3b2d5bcb619]: Commencement: Sch. 2 para. 39 in force at 6.10.2003 in so far as not already in force by [S.I. 2003/1766](https://www.legislation.gov.uk/uksi/2003/1766), [art. 2(a)](https://www.legislation.gov.uk/uksi/2003/1766/article/2/a)
+
+[^c4550181]: Commencement: Sch. 2 para. 40 not in force at Royal Assent, see s. 22(3); Sch. 2 in force for certain purposes at 2.7.2002 by [S.I. 2002/1691](https://www.legislation.gov.uk/uksi/2002/1691), [art. 2](https://www.legislation.gov.uk/uksi/2002/1691/article/2)
+
+[^key-3f3fc3d84ebed8d06b9c850e48e0ff6b]: Commencement: Sch. 2 para. 40 in force at 6.10.2003 in so far as not already in force by [S.I. 2003/1766](https://www.legislation.gov.uk/uksi/2003/1766), [art. 2(a)](https://www.legislation.gov.uk/uksi/2003/1766/article/2/a)
+
+[^c4550191]: Commencement: Sch. 2 para. 41 not in force at Royal Assent, see s. 22(3); Sch. 2 in force for certain purposes at 2.7.2002 by [S.I. 2002/1691](https://www.legislation.gov.uk/uksi/2002/1691), [art. 2](https://www.legislation.gov.uk/uksi/2002/1691/article/2)
+
+[^key-5ee6d4d3c70bd7c42dea47994f7ddc25]: Commencement: Sch. 2 para. 41 in force at 6.10.2003 in so far as not already in force by [S.I. 2003/1766](https://www.legislation.gov.uk/uksi/2003/1766), [art. 2(a)](https://www.legislation.gov.uk/uksi/2003/1766/article/2/a)
+
+[^key-83e5f583f3e880cca4759c3f790cc1cd]: Textual amendment: Sch. 2 para. 42 repealed (14.6.2007) by [Asylum and Immigration (Treatment of Claimants, etc.) Act 2004 (c. 19)](https://www.legislation.gov.uk/ukpga/2004/19), [s. 48(3)](https://www.legislation.gov.uk/ukpga/2004/19/section/48/3), [Sch. 4](https://www.legislation.gov.uk/ukpga/2004/19/schedule/4); [S.I. 2007/1602](https://www.legislation.gov.uk/uksi/2007/1602), [art. 2(2)](https://www.legislation.gov.uk/uksi/2007/1602/article/2/2) (with [art. 2(3)](https://www.legislation.gov.uk/uksi/2007/1602/article/2/3)[(4)](https://www.legislation.gov.uk/uksi/2007/1602/article/2/4))
+
+[^c4550211]: Commencement: Sch. 2 para. 43 not in force at Royal Assent, see s. 22(3); Sch. 2 in force for certain purposes at 2.7.2002 by [S.I. 2002/1691](https://www.legislation.gov.uk/uksi/2002/1691), [art. 2](https://www.legislation.gov.uk/uksi/2002/1691/article/2)
+
+[^key-a897d6de86be5ab9987df98a18bba29f]: Commencement: Sch. 2 para. 43 in force at 6.10.2003 in so far as not already in force by [S.I. 2003/1766](https://www.legislation.gov.uk/uksi/2003/1766), [art. 2(a)](https://www.legislation.gov.uk/uksi/2003/1766/article/2/a)
+
+[^c4550221]: Commencement: Sch. 2 para. 44 not in force at Royal Assent, see s. 22(3); Sch. 2 in force for certain purposes at 2.7.2002 by [S.I. 2002/1691](https://www.legislation.gov.uk/uksi/2002/1691), [art. 2](https://www.legislation.gov.uk/uksi/2002/1691/article/2)
+
+[^key-e16b428c717781a7fc006be37cbe7802]: Commencement: Sch. 2 para. 44 in force at 6.10.2003 in so far as not already in force by [S.I. 2003/1766](https://www.legislation.gov.uk/uksi/2003/1766), [art. 2(a)](https://www.legislation.gov.uk/uksi/2003/1766/article/2/a)
+
+[^c4550231]: Commencement: Sch. 2 para. 45 not in force at Royal Assent, see s. 22(3); Sch. 2 in force for certain purposes at 2.7.2002 by [S.I. 2002/1691](https://www.legislation.gov.uk/uksi/2002/1691), [art. 2](https://www.legislation.gov.uk/uksi/2002/1691/article/2)
+
+[^key-3147e21aef30576936f41ae2312cf9a0]: Commencement: Sch. 2 para. 45 in force at 6.10.2003 in so far as not already in force by [S.I. 2003/1766](https://www.legislation.gov.uk/uksi/2003/1766), [art. 2(a)](https://www.legislation.gov.uk/uksi/2003/1766/article/2/a)
+
+[^key-65bcbb5431573ab03d8889ebb5acb518]: Textual amendment: Sch. 2 para. 45(3) repealed (1.4.2010) by [Welfare Reform Act 2009 (c. 24)](https://www.legislation.gov.uk/ukpga/2009/24), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2009/24/section/61/3), [Sch. 7 Pt. 3](https://www.legislation.gov.uk/ukpga/2009/24/schedule/7/part/3); [S.I. 2010/293](https://www.legislation.gov.uk/uksi/2010/293), [art. 2(5)(a)](https://www.legislation.gov.uk/uksi/2010/293/article/2/5/a)
+
+[^c4550241]: Commencement: Sch. 2 para. 46 not in force at Royal Assent, see s. 22(3); Sch. 2 in force for certain purposes at 2.7.2002 by [S.I. 2002/1691](https://www.legislation.gov.uk/uksi/2002/1691), [art. 2](https://www.legislation.gov.uk/uksi/2002/1691/article/2)
+
+[^key-df7b5369ac134479c854d4d2a2c28571]: Commencement: Sch. 2 para. 46 in force at 6.10.2003 in so far as not already in force by [S.I. 2003/1766](https://www.legislation.gov.uk/uksi/2003/1766), [art. 2(a)](https://www.legislation.gov.uk/uksi/2003/1766/article/2/a)
+
+[^c4550251]: Commencement: Sch. 2 para. 47 not in force at Royal Assent, see s. 22(3); Sch. 2 in force for certain purposes at 2.7.2002 by [S.I. 2002/1691](https://www.legislation.gov.uk/uksi/2002/1691), [art. 2](https://www.legislation.gov.uk/uksi/2002/1691/article/2)
+
+[^key-23ac1e22c5938878abbe3103090f4144]: Commencement: Sch. 2 para. 47 in force at 6.10.2003 in so far as not already in force by [S.I. 2003/1766](https://www.legislation.gov.uk/uksi/2003/1766), [art. 2(a)](https://www.legislation.gov.uk/uksi/2003/1766/article/2/a)
+
+[^c4550261]: Commencement: Sch. 2 para. 48 not in force at Royal Assent, see s. 22(3); Sch. 2 in force for certain purposes at 2.7.2002 by [S.I. 2002/1691](https://www.legislation.gov.uk/uksi/2002/1691), [art. 2](https://www.legislation.gov.uk/uksi/2002/1691/article/2)
+
+[^key-e358e0a5bbcb76b96801207e4075b97f]: Commencement: Sch. 2 para. 48 in force at 6.10.2003 in so far as not already in force by [S.I. 2003/1766](https://www.legislation.gov.uk/uksi/2003/1766), [art. 2(a)](https://www.legislation.gov.uk/uksi/2003/1766/article/2/a)
+
+[^c4550291]: Commencement: Sch. 2 para. 49 not in force at Royal Assent, see s. 22(3); Sch. 2 in force for certain purposes at 2.7.2002 by [S.I. 2002/1691](https://www.legislation.gov.uk/uksi/2002/1691), [art. 2](https://www.legislation.gov.uk/uksi/2002/1691/article/2)
+
+[^key-4b9349262a18b738c285a324c8050eda]: Commencement: Sch. 2 para. 49 in force at 6.10.2003 in so far as not already in force by [S.I. 2003/1766](https://www.legislation.gov.uk/uksi/2003/1766), [art. 2(a)](https://www.legislation.gov.uk/uksi/2003/1766/article/2/a)
+
+[^key-080990b0189291f7bee69972b7fa1e5e]: Commencement: [Sch. 3](https://www.legislation.gov.uk/ukpga/2002/16/schedule/3) in force at 7.4.2003 for specified purposes by [S.I. 2003/966](https://www.legislation.gov.uk/uksi/2003/966), [art. 2(b)](https://www.legislation.gov.uk/uksi/2003/966/article/2/b), [Sch.](https://www.legislation.gov.uk/uksi/2003/966/schedule)
+
+[^key-8b2ec1c18622ee4222c61cee1a84fd4a]: Commencement: [Sch. 3](https://www.legislation.gov.uk/ukpga/2002/16/schedule/3) in force at 6.10.2003 in so far as not already in force by [S.I. 2003/1766](https://www.legislation.gov.uk/uksi/2003/1766), [art. 2(a)](https://www.legislation.gov.uk/uksi/2003/1766/article/2/a)

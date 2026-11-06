@@ -1,0 +1,688 @@
+---
+title: The Management of Health and Safety at Work Regulations 1999
+id: uksi/1999/3242
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '1999-12-03'
+text_date: '2021-11-25'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/uksi/1999/3242
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1999/3242/pdfs/uksi_19993242_en.pdf
+- http://www.legislation.gov.uk/uksi/1999/3242/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Management of Health and Safety at Work Regulations 1999
+
+> Text as at 2021-11-25.
+>
+> Extent: England, Wales, Scotland.
+
+*Extent: E+W+S*
+
+1999 No. 3242
+
+HEALTH AND SAFETY
+
+The Management of Health and Safety at Work Regulations 1999
+
+Made
+
+3rd December 1999
+
+Laid before Parliament
+
+8th December 1999
+
+Coming into force
+
+29th December 1999
+
+The Secretary of State, being a Minister designated[^c16474341] for the purposes of section 2(2) of the European Communities Act 1972[^c16474351] in relation to measures relating to employers’ obligations in respect of the health and safety of workers and in relation to measures relating to the minimum health and safety requirements for the workplace that relate to fire safety and in exercise of the powers conferred on him by the said section 2 and by sections 15(1), (2), (3)(a), (5), and (9), 47(2), 52(2), and (3), 80(1) and 82(3)(a) of and paragraphs 6(1), 7, 8(1), 10, 14, 15, and 16 of Schedule 3 to, the Health and Safety at Work etc. Act 1974[^c16474361] ( “the 1974 Act") and of all other powers enabling him in that behalf—
+
+(a) for the purpose of giving effect without modifications to proposals submitted to him by the Health and Safety Commission under section 11(2)(d) of the 1974 Act after the carrying out by the Commission of consultations in accordance with section 50(3) of that Act; and
+
+(b) it appearing to him that the modifications to the Regulations marked with an asterisk in Schedule 2 are expedient and that it also appearing to him not to be appropriate to consult bodies in respect of such modifications in accordance with section 80(4) of the 1974 Act,hereby makes the following Regulations:
+
+## 1. Citation, commencement and interpretation
+
+(1) These Regulations may be cited as the Management of Health and Safety at Work Regulations 1999 and shall come into force on 29th December 1999.
+
+(2) In these Regulations—
+
+- “the 1996 Act" means the Employment Rights Act 1996 [^c16474371];
+- “the assessment" means, in the case of an employer or self-employed person, the assessment made or changed by him in accordance with regulation 3;
+- “child"—
+  - (a) as respects England and Wales, means a person who is not over compulsory school age, construed in accordance with section 8 of the Education Act 1996 [^c16474381]; and
+  - (b) as respects Scotland, means a person who is not over school age, construed in accordance with section 31 of the Education (Scotland) Act 1980 [^c16474391];
+- “Directive 2014/27/[^key-801d554032f1b598c6c9008e04b1690c]EU” means Directive 2014/27/EU of the European Parliament and of the Council of 26 February 2014 amending Council Directives [92/58/EEC](https://www.legislation.gov.uk/eudr/1992/58), [92/85/EEC](https://www.legislation.gov.uk/eudr/1992/85), [94/33/EC](https://www.legislation.gov.uk/eudr/1994/33), [98/24/EC](https://www.legislation.gov.uk/eudr/1998/24) and [Directive 2004/37/EC](https://www.legislation.gov.uk/eudr/2004/0037) of the European Parliament and of the Council in order to align them to Regulation [(EC) No 1272/2008](https://www.legislation.gov.uk/eur/2008/1272) on classification, labelling and packaging of substances and mixtures;
+- “employment business" means a business (whether or not carried on with a view to profit and whether or not carried on in conjunction with any other business) which supplies persons (other than seafarers) who are employed in it to work for and under the control of other persons in any capacity;
+- “fixed-term contract of employment" means a contract of employment for a specific term which is fixed in advance or which can be ascertained in advance by reference to some relevant circumstance;
+- “given birth" means delivered a living child or, after twenty-four weeks of pregnancy, a stillborn child;
+- “new or expectant mother" means an employee who is pregnant; who has given birth within the previous six months; or who is breastfeeding;
+- “the preventive and protective measures" means the measures which have been identified by the employer or by the self-employed person in consequence of the assessment as the measures he needs to take to comply with the requirements and prohibitions imposed upon him by or under the relevant statutory provisions [^key-5892d09d4cd5af680aadba84a4650498]...;
+- “young person" means any person who has not attained the age of eighteen.
+
+(3) Any reference in these Regulations to—
+
+- (a) a numbered regulation or Schedule is a reference to the regulation or Schedule in these Regulations so numbered; or
+- (b) a numbered paragraph is a reference to the paragraph so numbered in the regulation in which the reference appears.
+
+## 2. Disapplication of these Regulations[^key-8c98d6bd72f9af060f8c83c7ce9be2db]
+
+(1) These Regulations shall not apply to or in relation to the master or crew of a ship, or to the employer of such persons, in respect of the normal ship-board activities of a ship’s crew which are carried out solely by the crew under the direction of the master.
+
+(2) Regulations 3(4), (5), 10(2) and 19 shall not apply to occasional work or short-term work involving work regarded as not being harmful, damaging or dangerous to young people in a family undertaking.
+
+(3) In this regulation—
+
+- “normal ship-board activities” include—
+  - (a) the construction, reconstruction or conversion of a ship outside, but not inside, Great Britain; and
+  - (b) the repair of a ship save repair when carried out in dry dock;
+- “ship” includes every description of vessel used in navigation, other than a ship belonging to Her Majesty which forms part of Her Majesty’s Navy.
+
+## 3. Risk assessment[^key-bbb822ea0ec8be27eea5999c5b0426cd][^key-ef2b3ab1f6f419240a3c5fd739c9c331][^key-210f8bcd69ad7ca51051d9daa82b3180][^key-d3abb67cf3c47241249297f981dee79f][^key-710e64df8022aa663d0225cd5f3ed8c2][^key-6d2eae26080674a68d4c9b4be680e20a]
+
+(1) Every employer shall make a suitable and sufficient assessment of—
+
+- (a) the risks to the health and safety of his employees to which they are exposed whilst they are at work; and
+- (b) the risks to the health and safety of persons not in his employment arising out of or in connection with the conduct by him of his undertaking,
+
+for the purpose of identifying the measures he needs to take to comply with the requirements and prohibitions imposed upon him by or under the relevant statutory provisions [^key-9a3634b49732219b313e6b603820a1e7]....
+
+(2) Every relevant self-employed person[^key-262c44a973c76a64ca9143349ef3bfc0] shall make a suitable and sufficient assessment of—
+
+- (a) the risks to his own health and safety to which he is exposed whilst he is at work; and
+- (b) the risks to the health and safety of persons not in his employment arising out of or in connection with the conduct by him of his undertaking,
+
+for the purpose of identifying the measures he needs to take to comply with the requirements and prohibitions imposed upon him by or under the relevant statutory provisions.
+
+(3) Any assessment such as is referred to in paragraph (1) or (2) shall be reviewed by the employer or relevant self-employed person[^key-bb2a2897609a964d74bb6c9c668f68f4] who made it if—
+
+- (a) there is reason to suspect that it is no longer valid; or
+- (b) there has been a significant change in the matters to which it relates;
+
+and where as a result of any such review changes to an assessment are required, the employer or[^key-fc4ec9a9e8a2019670226346c45339d3] relevant self-employed person concerned shall make them.
+
+(3A)[^key-1347451f0d006546ecc3738f6630a374] In this regulation “relevant self-employed person” means a self-employed person who conducts an undertaking of a prescribed description for the purposes of section 3(2) of the Health and Safety at Work etc. Act 1974.
+
+(4) An employer shall not employ a young person unless he has, in relation to risks to the health and safety of young persons, made or reviewed an assessment in accordance with paragraphs (1) and (5).
+
+(5) In making or reviewing the assessment, an employer who employs or is to employ a young person shall take particular account of—
+
+- (a) the inexperience, lack of awareness of risks and immaturity of young persons;
+- (b) the fitting-out and layout of the workplace and the workstation;
+- (c) the nature, degree and duration of exposure to physical, biological and chemical agents;
+- (d) the form, range, and use of work equipment and the way in which it is handled;
+- (e) the organisation of processes and activities;
+- (f) the extent of the health and safety training provided or to be provided to young persons; and
+- (g)[^key-8a3e2008fa0378db8a54eea60e8615b2] risks from agents, processes and work listed in the Annex to Council [Directive 94/33/EC](https://www.legislation.gov.uk/eudr/1994/0033) on the protection of young people at work, as amended by Directive 2014/27/EU.
+
+(6) Where the employer employs five or more employees, he shall record—
+
+- (a) the significant findings of the assessment; and
+- (b) any group of his employees identified by it as being especially at risk.
+
+## 4. Principles of prevention to be applied
+
+Where an employer implements any preventive and protective measures he shall do so on the basis of the principles specified in Schedule 1 to these Regulations.
+
+## 5. Health and safety arrangements
+
+(1) Every employer shall make and give effect to such arrangements as are appropriate, having regard to the nature of his activities and the size of his undertaking, for the effective planning, organisation, control, monitoring and review of the preventive and protective measures.
+
+(2) Where the employer employs five or more employees, he shall record the arrangements referred to in paragraph (1).
+
+## 6. Health surveillance
+
+Every employer shall ensure that his employees are provided with such health surveillance as is appropriate having regard to the risks to their health and safety which are identified by the assessment.
+
+## 7. Health and safety assistance
+
+(1) Every employer shall, subject to paragraphs (6) and (7), appoint one or more competent persons to assist him in undertaking the measures he needs to take to comply with the requirements and prohibitions imposed upon him by or under the relevant statutory provisions [^key-c66fdff952692b9ce763c160f092bc41]....
+
+(2) Where an employer appoints persons in accordance with paragraph (1), he shall make arrangements for ensuring adequate co-operation between them.
+
+(3) The employer shall ensure that the number of persons appointed under paragraph (1), the time available for them to fulfil their functions and the means at their disposal are adequate having regard to the size of his undertaking, the risks to which his employees are exposed and the distribution of those risks throughout the undertaking.
+
+(4) The employer shall ensure that—
+
+- (a) any person appointed by him in accordance with paragraph (1) who is not in his employment—
+  - (i) is informed of the factors known by him to affect, or suspected by him of affecting, the health and safety of any other person who may be affected by the conduct of his undertaking, and
+  - (ii) has access to the information referred to in regulation 10; and
+- (b) any person appointed by him in accordance with paragraph (1) is given such information about any person working in his undertaking who is—
+  - (i) employed by him under a fixed-term contract of employment, or
+  - (ii) employed in an employment business,
+
+  as is necessary to enable that person properly to carry out the function specified in that paragraph.
+
+(5) A person shall be regarded as competent for the purposes of paragraphs (1) and (8) where he has sufficient training and experience or knowledge and other qualities to enable him properly to assist in undertaking the measures referred to in paragraph (1).
+
+(6) Paragraph (1) shall not apply to a self-employed employer who is not in partnership with any other person where he has sufficient training and experience or knowledge and other qualities properly to undertake the measures referred to in that paragraph himself.
+
+(7) Paragraph (1) shall not apply to individuals who are employers and who are together carrying on business in partnership where at least one of the individuals concerned has sufficient training and experience or knowledge and other qualities—
+
+- (a) properly to undertake the measures he needs to take to comply with the requirements and prohibitions imposed upon him by or under the relevant statutory provisions; and
+- (b) properly to assist his fellow partners in undertaking the measures they need to take to comply with the requirements and prohibitions imposed upon them by or under the relevant statutory provisions.
+
+(8) Where there is a competent person in the employer’s employment, that person shall be appointed for the purposes of paragraph (1) in preference to a competent person not in his employment.
+
+## 8. Procedures for serious and imminent danger and for danger areas
+
+(1) Every employer shall—
+
+- (a) establish and where necessary give effect to appropriate procedures to be followed in the event of serious and imminent danger to persons at work in his undertaking;
+- (b) nominate a sufficient number of competent persons to implement those procedures in so far as they relate to the evacuation from premises of persons at work in his undertaking; and
+- (c) ensure that none of his employees has access to any area occupied by him to which it is necessary to restrict access on grounds of health and safety unless the employee concerned has received adequate health and safety instruction.
+
+(2) Without prejudice to the generality of paragraph (1)(a), the procedures referred to in that sub-paragraph shall—
+
+- (a) so far as is practicable, require any persons at work who are exposed to serious and imminent danger to be informed of the nature of the hazard and of the steps taken or to be taken to protect them from it;
+- (b) enable the persons concerned (if necessary by taking appropriate steps in the absence of guidance or instruction and in the light of their knowledge and the technical means at their disposal) to stop work and immediately proceed to a place of safety in the event of their being exposed to serious, imminent and unavoidable danger; and
+- (c) save in exceptional cases for reasons duly substantiated (which cases and reasons shall be specified in those procedures), require the persons concerned to be prevented from resuming work in any situation where there is still a serious and imminent danger.
+
+(3) A person shall be regarded as competent for the purposes of paragraph (1)(b) where he has sufficient training and experience or knowledge and other qualities to enable him properly to implement the evacuation procedures referred to in that sub-paragraph.
+
+## 9. Contacts with external services
+
+Every employer shall ensure that any necessary contacts with external services are arranged, particularly as regards first-aid, emergency medical care and rescue work.
+
+## 10. Information for employees
+
+(1) Every employer shall provide his employees with comprehensible and relevant information on—
+
+- (a) the risks to their health and safety identified by the assessment;
+- (b) the preventive and protective measures;
+- (c) the procedures referred to in regulation 8(1)(a) [^key-e5f25daaed009823fa15a405126cd135]...;
+- (d) the identity of those persons nominated by him in accordance with regulation 8(1)(b) [^key-6bffd035d24938c561eeca908b5c6635]...; and
+- (e) the risks notified to him in accordance with regulation 11(1)(c).
+
+(2) Every employer shall, before employing a child, provide a parent of the child with comprehensible and relevant information on—
+
+- (a) the risks to his health and safety identified by the assessment;
+- (b) the preventive and protective measures; and
+- (c) the risks notified to him in accordance with regulation 11(1)(c).
+
+(3) The reference in paragraph (2) to a parent of the child includes—
+
+- (a) in England and Wales, a person who has parental responsibility, within the meaning of section 3 of the Children Act 1989 [^c16474421], for him; and
+- (b) in Scotland, a person who has parental rights, within the meaning of section 8 of the Law Reform (Parent and Child) (Scotland) Act 1986 [^c16474431] for him.
+
+## 11. Co-operation and co-ordination
+
+(1) Where two or more employers share a workplace (whether on a temporary or a permanent basis) each such employer shall—
+
+- (a) co-operate with the other employers concerned so far as is necessary to enable them to comply with the requirements and prohibitions imposed upon them by or under the relevant statutory provisions [^key-94e076a598c4a57c3867b4fae88f9a6e]...;
+- (b) (taking into account the nature of his activities) take all reasonable steps to co-ordinate the measures he takes to comply with the requirements and prohibitions imposed upon him by or under the relevant statutory provisions [^M_F_272f8037-b10e-46d1-92ec-70cb04cdaceb]... with the measures the other employers concerned are taking to comply with the requirements and prohibitions imposed upon them by that legislation; and
+- (c) take all reasonable steps to inform the other employers concerned of the risks to their employees’ health and safety arising out of or in connection with the conduct by him of his undertaking.
+
+(2) Paragraph (1) [^key-83d8ccf0c7cc3b7f0f192e7417046e21]... shall apply to employers sharing a workplace with self-employed persons and to self-employed persons sharing a workplace with other self-employed persons as it applies to employers sharing a workplace with other employers; and the references in that paragraph to employers and the reference in the said paragraph to their employees shall be construed accordingly.
+
+## 12. Persons working in host employers’ or self-employed persons’ undertakings
+
+(1) Every employer and every self-employed person shall ensure that the employer of any employees from an outside undertaking who are working in his undertaking is provided with comprehensible information on—
+
+- (a) the risks to those employees’ health and safety arising out of or in connection with the conduct by that first-mentioned employer or by that self-employed person of his undertaking; and
+- (b) the measures taken by that first-mentioned employer or by that self-employed person in compliance with the requirements and prohibitions imposed upon him by or under the relevant statutory provisions [^key-84ac4f7d3fccc6c1a3a4ad56c920bc6d]... in so far as the said requirements and prohibitions relate to those employees.
+
+(2) Paragraph (1) [^key-b2a0d4a0bb577c5751ad4710b64b6015]... shall apply to a self-employed person who is working in the undertaking of an employer or a self-employed person as it applies to employees from an outside undertaking who are working therein; and the reference in that paragraph to the employer of any employees from an outside undertaking who are working in the undertaking of an employer or a self-employed person and the references in the said paragraph to employees from an outside undertaking who are working in the undertaking of an employer or a self-employed person shall be construed accordingly.
+
+(3) Every employer shall ensure that any person working in his undertaking who is not his employee and every self-employed person (not being an employer) shall ensure that any person working in his undertaking is provided with appropriate instructions and comprehensible information regarding any risks to that person’s health and safety which arise out of the conduct by that employer or self-employed person of his undertaking.
+
+(4) Every employer shall—
+
+- (a) ensure that the employer of any employees from an outside undertaking who are working in his undertaking is provided with sufficient information to enable that second-mentioned employer to identify any person nominated by that first mentioned employer in accordance with regulation 8(1)(b) to implement evacuation procedures as far as those employees are concerned; and
+- (b) take all reasonable steps to ensure that any employees from an outside undertaking who are working in his undertaking receive sufficient information to enable them to identify any person nominated by him in accordance with regulation 8(1)(b) to implement evacuation procedures as far as they are concerned.
+
+(5) Paragraph (4) shall apply to a self-employed person who is working in an employer’s undertaking as it applies to employees from an outside undertaking who are working therein; and the reference in that paragraph to the employer of any employees from an outside undertaking who are working in an employer’s undertaking and the references in the said paragraph to employees from an outside undertaking who are working in an employer’s undertaking shall be construed accordingly.
+
+## 13. Capabilities and training
+
+(1) Every employer shall, in entrusting tasks to his employees, take into account their capabilities as regards health and safety.
+
+(2) Every employer shall ensure that his employees are provided with adequate health and safety training—
+
+- (a) on their being recruited into the employer’s undertaking; and
+- (b) on their being exposed to new or increased risks because of—
+  - (i) their being transferred or given a change of responsibilities within the employer’s undertaking,
+  - (ii) the introduction of new work equipment into or a change respecting work equipment already in use within the employer’s undertaking,
+  - (iii) the introduction of new technology into the employer’s undertaking, or
+  - (iv) the introduction of a new system of work into or a change respecting a system of work already in use within the employer’s undertaking.
+
+(3) The training referred to in paragraph (2) shall—
+
+- (a) be repeated periodically where appropriate;
+- (b) be adapted to take account of any new or changed risks to the health and safety of the employees concerned; and
+- (c) take place during working hours.
+
+## 14. Employees’ duties
+
+(1) Every employee shall use any machinery, equipment, dangerous substance, transport equipment, means of production or safety device provided to him by his employer in accordance both with any training in the use of the equipment concerned which has been received by him and the instructions respecting that use which have been provided to him by the said employer in compliance with the requirements and prohibitions imposed upon that employer by or under the relevant statutory provisions.
+
+(2) Every employee shall inform his employer or any other employee of that employer with specific responsibility for the health and safety of his fellow employees—
+
+- (a) of any work situation which a person with the first-mentioned employee’s training and instruction would reasonably consider represented a serious and immediate danger to health and safety; and
+- (b) of any matter which a person with the first-mentioned employee’s training and instruction would reasonably consider represented a shortcoming in the employer’s protection arrangements for health and safety,
+
+in so far as that situation or matter either affects the health and safety of that first mentioned employee or arises out of or in connection with his own activities at work, and has not previously been reported to his employer or to any other employee of that employer in accordance with this paragraph.
+
+## 15. Temporary workers
+
+(1) Every employer shall provide any person whom he has employed under a fixed-term contract of employment with comprehensible information on—
+
+- (a) any special occupational qualifications or skills required to be held by that employee if he is to carry out his work safely; and
+- (b) any health surveillance required to be provided to that employee by or under any of the relevant statutory provisions,
+
+and shall provide the said information before the employee concerned commences his duties.
+
+(2) Every employer and every self-employed person shall provide any person employed in an employment business who is to carry out work in his undertaking with comprehensible information on—
+
+- (a) any special occupational qualifications or skills required to be held by that employee if he is to carry out his work safely; and
+- (b) health surveillance required to be provided to that employee by or under any of the relevant statutory provisions.
+
+(3) Every employer and every self-employed person shall ensure that every person carrying on an employment business whose employees are to carry out work in his undertaking is provided with comprehensible information on—
+
+- (a) any special occupational qualifications or skills required to be held by those employees if they are to carry out their work safely; and
+- (b) the specific features of the jobs to be filled by those employees (in so far as those features are likely to affect their health and safety);
+
+and the person carrying on the employment business concerned shall ensure that the information so provided is given to the said employees.
+
+## 16. Risk assessment in respect of new or expectant mothers
+
+(1) Where—
+
+- (a) the persons working in an undertaking include women of child-bearing age; and
+- (b) the work is of a kind which could involve risk, by reason of her condition, to the health and safety of a new or expectant mother, or to that of her baby, from any processes or working conditions, or physical, biological or chemical agents, including those specified in Annexes I and II of Council Directive [92/85/EEC](https://www.legislation.gov.uk/eudr/1992/85) [^c16474441] on the introduction of measures to encourage improvements in the safety and health at work of pregnant workers and workers who have recently given birth or are breastfeeding, as amended by Directive 2014/27/[^key-19ed47095470f75cbff5729dcd30afad]EU,
+
+the assessment required by regulation 3(1) shall also include an assessment of such risk.
+
+(2) Where, in the case of an individual employee, the taking of any other action the employer is required to take under the relevant statutory provisions would not avoid the risk referred to in paragraph (1) the employer shall, if it is reasonable to do so, and would avoid such risks, alter her working conditions or hours of work.
+
+(3) If it is not reasonable to alter the working conditions or hours of work, or if it would not avoid such risk, the employer shall, subject to section 67 of the 1996 Act suspend the employee from work for so long as is necessary to avoid such risk.
+
+(4) In paragraphs (1) to (3) references to risk, in relation to risk from any infectious or contagious disease, are references to a level of risk at work which is in addition to the level to which a new or expectant mother may be expected to be exposed outside the workplace.
+
+## 16A. Alteration of working conditions in respect of new or expectant mothers (agency workers)[^key-78ac201f2b68b7cac537a7a2088df2a7]
+
+(1) Where, in the case of an individual agency worker, the taking of any other action the hirer is required to take under the relevant statutory provisions would not avoid the risk referred to in regulation 16(1) the hirer shall, if it is reasonable to do so, and would avoid such risks, alter her working conditions or hours of work.
+
+(2) If it is not reasonable to alter the working conditions or hours of work, or if it would not avoid such risk, the hirer shall without delay inform the temporary work agency, who shall then end the supply of that agency worker to the hirer.
+
+(3) In paragraphs (1) and (2) references to risk, in relation to risk from any infectious or contagious disease, are references to a level of risk at work which is in addition to the level to which a new or expectant mother may be expected to be exposed outside the workplace. 
+
+## 17. Certificate from registered medical practitioner in respect of new or expectant mothers
+
+Where—
+
+- (a) a new or expectant mother works at night; and
+- (b) a certificate from a registered medical practitioner or a registered midwife shows that it is necessary for her health or safety that she should not be at work for any period of such work identified in the certificate,
+
+the employer shall, subject to section 67 of the 1996 Act, suspend her from work for so long as is necessary for her health or safety.
+
+## 17A. Certificate from registered medical practitioner in respect of new or expectant mothers (agency workers)[^key-5ea07a6320a68ad369ec91645b0e9d39]
+
+Where—
+
+- (a) a new or expectant mother works at night; and
+- (b) a certificate from a registered medical practitioner or a registered midwife shows that it is necessary for her health or safety that she should not be at work for any period of such work identified in the certificate,
+
+the hirer shall without delay inform the temporary work agency, who shall then end the supply of that agency worker to the hirer.
+
+## 18. Notification by new or expectant mothers
+
+(1) Nothing in paragraph (2) or (3) of regulation 16 shall require the employer to take any action in relation to an employee until she has notified the employer in writing that she is pregnant, has given birth within the previous six months, or is breastfeeding.
+
+(2) Nothing in paragraph (2) or (3) of regulation 16 or in regulation 17 shall require the employer to maintain action taken in relation to an employee—
+
+- (a) in a case—
+  - (i) to which regulation 16(2) or (3) relates; and
+  - (ii) where the employee has notified her employer that she is pregnant, where she has failed, within a reasonable time of being requested to do so in writing by her employer, to produce for the employer’s inspection a certificate from a registered medical practitioner or a registered midwife showing that she is pregnant;
+- (b) once the employer knows that she is no longer a new or expectant mother; or
+- (c) if the employer cannot establish whether she remains a new or expectant mother.
+
+## 18A. Notification by new or expectant mothers (agency workers)[^key-493e6e3117ff0b8e361bf79e07fc9a7d]
+
+(1) Nothing in regulation 16A(1) or (2) shall require the hirer to take any action in relation to an agency worker until she has notified the hirer in writing that she is pregnant, has given birth within the previous six months, or is breastfeeding.
+
+(2) Nothing in regulation 16A(2) shall require the temporary work agency to end the supply of the agency worker until she has notified the temporary work agency in writing that she is pregnant, has given birth within the previous six months, or is breastfeeding.
+
+(3) Nothing in regulation 16A(1) shall require the hirer to maintain action taken in relation to an agency worker—
+
+- (a) in a case—
+  - (i) to which regulation 16A(1) relates; and
+  - (ii) where the agency worker has notified the hirer, that she is pregnant, where she has failed, within a reasonable time of being requested to do so in writing by the hirer, to produce for the hirer's inspection a certificate from a registered medical practitioner or a registered midwife showing that she is pregnant; or
+- (b) once the hirer knows that she is no longer a new or expectant mother; or
+- (c) if the hirer cannot establish whether she remains a new or expectant mother.
+
+## 18AB. Agency workers: general provisions
+
+(1) Without prejudice to any other duties of the hirer or temporary work agency under any enactment or rule of law in relation to health and safety at work, regulation 16A, 17A and 18A shall not apply where the agency worker—
+
+- (a) has not completed the qualifying period, or
+- (b) is no longer entitled to the rights conferred by regulation 5 of the Agency Workers Regulations 2010 pursuant to regulation 8(a) or (b) of those Regulations.
+
+(2) Nothing in regulations 16A or 17A imposes a duty on the hirer or temporary work agency beyond the original intended duration, or likely duration of the assignment, whichever is the longer.
+
+(3) This regulation, and regulations 16A, 17A and 18A do not apply in circumstances where regulations 16, 17 and 18 apply.
+
+(4) For the purposes of this regulation and regulations 16A, 17A or 18A the following have the same meaning as in the Agency Workers Regulations 2010—
+
+- “agency worker”;
+- “assignment”;
+- “hirer”;
+- “qualifying period”;
+- “temporary work agency”.
+
+## 19. Protection of young persons
+
+(1) Every employer shall ensure that young persons employed by him are protected at work from any risks to their health or safety which are a consequence of their lack of experience, or absence of awareness of existing or potential risks or the fact that young persons have not yet fully matured.
+
+(2) Subject to paragraph (3), no employer shall employ a young person for work—
+
+- (a) which is beyond his physical or psychological capacity;
+- (b) involving harmful exposure to agents which are toxic or carcinogenic, cause heritable genetic damage or harm to the unborn child or which in any other way chronically affect human health;
+- (c) involving harmful exposure to radiation;
+- (d) involving the risk of accidents which it may reasonably be assumed cannot be recognised or avoided by young persons owing to their insufficient attention to safety or lack of experience or training; or
+- (e) in which there is a risk to health from—
+  - (i) extreme cold or heat;
+  - (ii) noise; or
+  - (iii) vibration,
+
+  and in determining whether work will involve harm or risks for the purposes of this paragraph, regard shall be had to the results of the assessment.
+
+(3) Nothing in paragraph (2) shall prevent the employment of a young person who is no longer a child for work—
+
+- (a) where it is necessary for his training;
+- (b) where the young person will be supervised by a competent person; and
+- (c) where any risk will be reduced to the lowest level that is reasonably practicable.
+
+(4)[^key-e6b61d6bafa650677bd5b48367c7a759] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 20. Exemption certificates
+
+(1) The Secretary of State for Defence may, in the interests of national security, by a certificate in writing exempt—
+
+- (a) any of the home forces, any visiting force or any headquarters from those requirements of these Regulations which impose obligations other than those in regulations 16-18AB[^key-6ac46ad36daec38d8e545f066e54f5a4] on employers; or
+- (b) any member of the home forces, any member of a visiting force or any member of a headquarters from the requirements imposed by regulation 14;
+
+and any exemption such as is specified in sub-paragraph (a) or (b) of this paragraph may be granted subject to conditions and to a limit of time and may be revoked by the said Secretary of State by a further certificate in writing at any time.
+
+(2) In this regulation—
+
+- (a) “the home forces" has the same meaning as in section 12(1) of the Visiting Forces Act 1952 [^c16474451];
+- (b) “headquarters" means a headquarters for the time being specified in Schedule 2 to the Visiting Forces and International Headquarters (Application of Law) Order 1999 [^c16474461];
+- (c) “member of a headquarters" has the same meaning as in paragraph 1(1) of the Schedule to the International Headquarters and Defence Organisations Act 1964 [^c16474471]; and
+- (d) “visiting force" has the same meaning as it does for the purposes of any provision of Part I of the Visiting Forces Act 1952.
+
+## 21. Provisions as to liability
+
+Nothing in the relevant statutory provisions shall operate so as to afford an employer a defence in any criminal proceedings for a contravention of those provisions by reason of any act or default of—
+
+- (a) an employee of his, or
+- (b) a person appointed by him under regulation 7.
+
+## 22. Restriction of civil liability for breach of statutory duty[^key-4c6a8b4890454fc996971160e5315837]
+
+(1) Breach of a duty imposed by regulation 16, 16A, 17 or 17A shall, so far as it causes damage, be actionable by the new or expectant mother.
+
+(2) Any term of an agreement which purports to exclude or restrict any liability for such a breach is void.
+
+## 23. Extension outside Great Britain
+
+(1) These Regulations shall, subject to regulation 2, apply to and in relation to the premises and activities outside Great Britain to which sections 1 to 59 and 80 to 82 of the Health and Safety at Work etc. Act 1974 apply by virtue of the Health and Safety at Work etc. Act 1974 (Application Outside Great Britain) Order 1995 [^c16474481] as they apply within Great Britain.
+
+(2) For the purposes of Part I of the 1974 Act, the meaning of “at work" shall be extended so that an employee or a self-employed person shall be treated as being at work throughout the time that he is present at the premises to and in relation to which these Regulations apply by virtue of paragraph (1); and, in that connection, these Regulations shall have effect subject to the extension effected by this paragraph.
+
+## 24. Amendment of the Health and Safety (First-Aid) Regulations 1981
+
+Regulation 6 of the Health and Safety (First-Aid) Regulations 1981 [^c16474491] is hereby revoked.
+
+## 25. Amendment of the Offshore Installations and Pipeline Works (First-Aid) Regulations 1989
+
+(1) The Offshore Installations and Pipeline Works (First-Aid) Regulations 1989 [^c16474501] shall be amended in accordance with the following provisions of this regulation.
+
+(2) In regulation 7(1) for the words “from all or any of the requirements of these Regulations", there shall be substituted the words “ from regulation 5(1)(b) and (c) and (2)(a) of these Regulations ”.
+
+(3) After regulation 7(2) the following paragraph shall be added—
+
+> (3) An exemption granted under paragraph (1) above from the requirements in regulation 5(2)(a) of these Regulations shall be subject to the condition that a person provided under regulation 5(1)(a) of these Regulations shall have undergone adequate training.
+
+.
+
+## 26. Amendment of the Mines Miscellaneous Health and Safety Provisions Regulations 1995
+
+(1) The Mines Miscellaneous Health and Safety Provisions Regulations 1995 [^c16474511] shall be amended in accordance with the following provisions of this regulation.
+
+(2) Paragraph (2)(b) of regulation 4 shall be deleted.
+
+(3) After paragraph (4) of regulation 4 there shall be added the following paragraph—
+
+> (5) In relation to fire, the health and safety document prepared pursuant to paragraph (1) shall—
+>
+> - (a) include a fire protection plan detailing the likely sources of fire, and the precautions to be taken to protect against, to detect and combat the outbreak and spread of fire; and
+> - (b) in respect of every part of the mine other than any building on the surface of that mine—
+>   - (i) include the designation of persons to implement the plan, ensuring that the number of such persons, their training and the equipment available to them is adequate, taking into account the size of, and the specific hazards involved in the mine concerned; and
+>   - (ii) include the arrangements for any necessary contacts with external emergency services, particularly as regards rescue work and fire-fighting; and
+>   - (iii) be adapted to the nature of the activities carried on at that mine, the size of the mine and take account of the persons other than employees who may be present.
+
+.
+
+## 27. Amendment of the Construction (Health, Safety and Welfare) Regulations 1996[^key-1e75915324b2ade3c838b2198f9b40cc]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 28. Regulations to have effect as health and safety regulations[^key-e6e1d111ebd011ba65b28cb80142d8f1]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 29. Revocations and consequential amendments
+
+(1) The Management of Health and Safety at Work Regulations 1992 [^c16474541], the Management of Health and Safety at Work (Amendment) Regulations 1994 [^c16474551], the Health and Safety (Young Persons) Regulations 1997 [^c16474561] and Part III of the Fire Precautions (Workplace) Regulations 1997 are hereby revoked.
+
+(2) The instruments specified in column 1 of Schedule 2 shall be amended in accordance with the corresponding provisions in column 3 of that Schedule.
+
+## 30. Transitional provision
+
+The substitution of provisions in these Regulations for provisions of the Management of Health and Safety at Work Regulations 1992 shall not affect the continuity of the law; and accordingly anything done under or for the purposes of such provision of the 1992 Regulations shall have effect as if done under or for the purposes of any corresponding provision of these Regulations.
+
+Signed by authority of the Secretary of State
+
+Whitty,
+
+Parliamentary Under Secretary of State,
+
+Department of the Environment, Transport and the Regions
+
+## SCHEDULE 1 — GENERAL PRINCIPLES OF PREVENTION
+
+Regulation 4
+
+(This Schedule specifies the general principles of prevention set out in Article 6(2) ofCouncil Directive [89/391/EEC](https://www.legislation.gov.uk/eudr/1989/391)) [^c16474571]
+
+- (a) avoiding risks;
+- (b) evaluating the risks which cannot be avoided;
+- (c) combating the risks at source;
+- (d) adapting the work to the individual, especially as regards the design of workplaces, the choice of work equipment and the choice of working and production methods, with a view, in particular, to alleviating monotonous work and work at a predetermined work-rate and to reducing their effect on health;
+- (e) adapting to technical progress;
+- (f) replacing the dangerous by the non-dangerous or the less dangerous;
+- (g) developing a coherent overall prevention policy which covers technology, organisation of work, working conditions, social relationships and the influence of factors relating to the working environment;
+- (h) giving collective protective measures priority over individual protective measures; and
+- (i) giving appropriate instructions to employees.
+
+## SCHEDULE 2 — CONSEQUENTIAL AMENDMENTS
+
+Regulation 29
+
+| Column 1 | Column 2 | Column 3 |
+| --- | --- | --- |
+| Description of Instrument | References | Extent of Modification |
+| The Safety Representatives and Safety Committees Regulations 1977 | S.I. 1977/500; amended by S.I. 1992/2051; S.I. 1996/1513; S.I. 1997/1840; S.I. 1999/860 and by section 1(1) and (2) of the Employment Rights (Dispute Resolution) Act 1998 | In regulation 4A(1)(b) for “regulations 6(1) and 7(1)(b) of the Management of Health and Safety at Work Regulations 1992", there shall be substituted “regulations 7(1) and 8(1)(b) of the Management of Health and Safety at Work Regulations 1999;". |
+| The Offshore Installations (Safety Representatives and Safety Committees) Regulations 1989 | S.I. 1989/971; amended by S.I. 1992/2885; S.I. 1993/1823; S.I. 1995/738; S.I. 1995/743; and S.I. 1995/3163. | In regulation 23(4) for “regulation 6(1) of the Management of Health and Safety at Work Regulations 1992", there shall be substituted “ regulation 7(1) of the Management of Health and Safety at Work Regulations 1999 ”. |
+| The Railways (Safety Case) Regulations 1994 | S.I. 1994/237; amended by S.I. 1996/1592. | In paragraph 6 of Schedule 1 for “regulation 3 of the Management of Health and Safety at Work Regulations 1992 and particulars of the arrangements he has made pursuant to regulation 4(1) thereof.", there shall be substituted “ regulation 3 of the Management of Health and Safety at Work Regulations 1999 and particulars of the arrangements he has made in accordance with regulation 5(1) thereof. ”. |
+| The Suspension from Work (on Maternity Grounds) Order 1994\* | S.I. 1994/2930. | In article 1(2)(b) for “ “the 1992 Regulations" means the Management of Health and Safety at Work Regulations 1992", there shall be substituted, “ “the 1999 Regulations" means the Management of Health and Safety at Work Regulations 1999 ”; and |
+|  |  | In article 2(b) for “regulation 13B of the 1992 regulations", there shall be substituted “ regulation 17 of the 1999 Regulations ”. |
+| [^key-2b58e5642f5dde71c843fb27642ac75e]. . . | [^key-2b58e5642f5dde71c843fb27642ac75e]. . . | [^key-2b58e5642f5dde71c843fb27642ac75e]. . . |
+|  |  | [^key-2b58e5642f5dde71c843fb27642ac75e]. . . |
+|  |  | [^key-2b58e5642f5dde71c843fb27642ac75e]. . . |
+|  |  | [^key-2b58e5642f5dde71c843fb27642ac75e]. . . |
+| The Escape and Rescue from Mines Regulations 1995 | S.I. 1995/2870. | In regulation 2(1) for “ “the 1992 Regulations" means the Management of Health and Safety at Work Regulations 1992", there shall be substituted “ “the 1999 Regulations" means the Management of Health and Safety at Work Regulations 1999 ”; and |
+|  |  | In regulation 4(2) for “regulation 3 of the 1992 Regulations," there shall be substituted “ regulation 3 of the 1999 Regulations. ”. |
+| The Mines Miscellaneous Health and Safety Provisions Regulations 1995 | S.I. 1995/2005. | In regulation 2(1) for “ “the 1992 regulations" means the Management of Health and Safety at Work Regulations 1992;", there shall be substituted “ “the 1999 Regulations" means the Management of Health and Safety at Work Regulations 1999; ”; and |
+|  |  | In regulation 4(1)(a) for “regulation 3 of the 1992 Regulations;", there shall be substituted “ regulation 3 of the 1999 Regulations; ”. |
+| The Quarries Miscellaneous Health and Safety Provisions Regulations 1995 | S.I. 1995/2036. | In regulation 2(1) for “ “the 1992 Regulations" means the Management of Health and Safety at Work Regulations 1992;", there shall be substituted “ “the 1999 Regulations" means the Management of Health and Safety at Work Regulations 1999; ” and |
+|  |  | In regulation 4(1)(a) for “regulation 3 of the 1992 Regulations;", there shall be substituted “ regulation 3 of the 1999 Regulations; ”. |
+| The Borehole Sites and Operations Regulations 1995 | S.I. 1995/2038. | In regulation 7(5) for “ “the Management Regulations" means the Management of Health and Safety at Work Regulations 1992", there shall be substituted “ “the Management Regulations" means the Management of Health and Safety at Work Regulations 1999. ”. |
+| The Gas Safety (Management) Regulations 1996 | S.I. 1996/551 | In paragraph 5 of Schedule 1 for “regulation 3 of the Management of Health and Safety at Work Regulations 1992, and particulars of the arrangements he has made in accordance with regulation 4(1) thereof.", there shall be substituted “ regulation 3 of the Management of Health and Safety at Work Regulations 1999, and particulars of the arrangements he has made in accordance with regulation 5(1) thereof. ”. |
+| The Health and Safety (Safety Signs and Signals) Regulations 1996 | S.I. 1996/341. | In regulation 4(1) for “paragraph (1) of regulation 3 of the Management of Health and Safety at Work Regulations 1992", there shall be substituted “ paragraph (1) of regulation 3 of the Management of Health and Safety at Work Regulations 1999 ”. |
+| The Health and Safety (Consultation with Employees) Regulations 1996 | S.I. 1996/1513. | In regulation 3(b) for “regulations 6(1) and 7(1)(b) of the Management of Health and Safety at Work Regulations 1992", there shall be substituted “ regulations 7(1) and 8(1)(b) of the Management of Health and Safety at Work Regulations 1999 ”. |
+| The Fire Precautions (Workplace) Regulations 1997 | S.I. 1997/1840; amended by S.I. 1999/1877. | In regulation 2(1) for “ “the 1992 Management Regulations" means the Management of Health and Safety at Work Regulations 1992", there shall be substituted “ “the 1999 Management Regulations" means the Management of Health and Safety at Work Regulations 1999 ”; |
+|  |  | In regulation 2(1) in the definitions of “employee" and “employer" for “1992" substitute “ 1999 ”; and |
+|  |  | In regulation 9(2)(b) for the words “regulations 1 to 4, 6 to 10 and 11(2) and (3) of the 1992 Management Regulations (as amended by Part III of these Regulations)", there shall be substituted “ regulations 1 to 5, 7 to 12 and 13(2) and (3) of the 1999 Management Regulations ”. |
+| The Control of Lead at Work Regulations 1998 | S.I. 1998/543. | In regulation 5 for “regulation 3 of the Management of Health and Safety at Work Regulations 1992", there shall be substituted “ regulation 3 of the Management of Health and Safety at Work Regulations 1999 ”. |
+| The Working Time Regulations 1998\* | S.I. 1998/1833. | In regulation 6(8)(b) for “regulation 3 of the Management of Health and Safety at Work Regulations 1992", there shall be substituted “ regulation 3 of the Management of Health and Safety at Work Regulations 1999 ”. |
+| The Quarries Regulations 1999 | S.I. 1999/2024. | In regulation 2(1) for “ “the 1992 Regulations" means the Management of Health and Safety at Work Regulations 1992;", there shall be substituted “ “the 1999 Regulations" means the Management of Health and Safety at Work Regulations 1999; ”. |
+|  |  | In regulation 7(1)(a) for “paragraphs (1) to (3c) of regulation 3 of the 1992 Regulations;" there shall be substituted “ regulation 3 of the Management of Health and Safety at Work Regulations 1999 ”. |
+|  |  | In regulation 43 for “regulation 5 of the 1992 regulations" there shall be substituted “ regulation 6 of the 1999 Regulations ”. |
+
+### Note
+
+The Regulations marked with an asterisk are referred to in the Preamble to these Regulations.
+
+(This note is not part of the Order)
+
+**1.** These Regulations re-enact the Management of Health and Safety at Work Regulations 1992, with the following modifications—
+
+**2.** A new regulation 4 requires an employer to implement preventive and protective measures on the basis of general principles of prevention set out in Article 6(2)(a)-(i) of Council Directive [89/391/EEC](https://www.legislation.gov.uk/eudr/1989/391) (OJ No L 183, 29.6.89, p.1) and specified in Schedule 1 to the Regulations.
+
+**3.** A new regulation 7(8) requires that a competent person in the employer’s employment shall be appointed for the purpose of paragraph (1) of regulation 7 in preference to a competent person who is not in such employment. Minor consequential amendments are made to regulation 7(5) of these Regulations.
+
+**4.** A new regulation 9 requires every employer to arrange any necessary contacts with external services, especially as regards first-aid, emergency medical care and rescue work.
+
+**5.** A new regulation 21 provides that an employer is not to be afforded a defence for contravention of the relevant statutory provisions as defined in section 53 of the Health and Safety at Work etc Act 1974 by reason of any act or default caused by his employee or by a person appointed by the employer under regulation 7 of these Regulations.
+
+**6.** The Regulations revoke regulation 6 of the Health and Safety (First-Aid) Regulations 1981 which confers power on the Health and Safety Executive to grant exemptions from those Regulations (regulation 24). The Regulations also amend the Offshore Installations and Pipeline Works (First-Aid) Regulations 1989 to limit the scope of the exemptions that may be granted by the Health and Safety Executive to those specified in regulation 5(1)(b)(c) and (2)(a) of those Regulations, and to impose a condition that where an exemption is granted the person provided under regulation 5(1)(a) shall have undergone adequate training (regulation 25).
+
+**7.** These Regulations amend the Mines Miscellaneous Health and Safety Provisions Regulations 1995 so as to give full effect to Articles 8(1) and 8(2) of Council Directive [89/391/EEC](https://www.legislation.gov.uk/eudr/1989/391). A new paragraph (5) in regulation 4 requires that a fire protection plan be included in all cases in the health and safety document prepared under the Regulations. In respect of all parts of a mine other than buildings on the surface, the provision requires every mine owner to designate in the document the persons who are to implement the plan and to include in the document the arrangements for the necessary contacts with external services especially as regards rescue work and fire-fighting (regulation 26).
+
+**8.** These Regulations amend the Construction (Health, Safety and Welfare) Regulations 1996 so as to give full effect to Article 8(1) and 8(2) of the Directive. Regulation 20 is amended so that arrangements for dealing with forseeable emergencies on construction sites include the designation of persons to implement the arrangements and the inclusion of necessary contacts with external services, especially as regards rescue work and fire-fighting (regulation 27).
+
+**9.** The Regulations provide that, subject to the exceptions specified in regulation 9 of the Fire Precautions (Workplace) Regulations 1997, they have effect as health and safety regulations within the meaning of the Health and Safety at Work etc Act 1974 (regulation 28).
+
+**10.** The Regulations revoke the Management of Health and Safety at Work Regulations 1992, the Management of Health and Safety at Work (Amendment) Regulations 1994, the Health and Safety (Young Persons) Regulations 1997 and Part III of the Fire Precautions (Workplace) Regulations 1997. The Regulations also make consequential amendments to the instruments specified in Schedule 2 (regulation 29).
+
+**11.** The Regulations contain a transitional provision (regulation 30).
+
+**12.** A copy of the regulatory impact assessment prepared in respect of these Regulations can be obtained from the Health and Safety Executive, Policy Unit, Rose Court, 2 Southwark Bridge, London SE1 9HS. A copy has been placed in the library of each House of Parliament.
+
+## Annotations
+
+[^c16474341]: Marginal citation: [S.I. 1992/1711](https://www.legislation.gov.uk/uksi/1992/1711) and [S.I. 1999/2027](https://www.legislation.gov.uk/uksi/1999/2027).
+
+[^c16474351]: Marginal citation: 1972\. c. 68; the enabling powers conferred by section 2(2) were extended by virtue of section 1 of the [European Economic Area Act 1993 (c. 51)](https://www.legislation.gov.uk/ukpga/1993/51).
+
+[^c16474361]: Marginal citation: [1974 c. 37](https://www.legislation.gov.uk/ukpga/1974/37); sections 15 and 50 were amended by the [Employment Protection Act 1975 (c. 71)](https://www.legislation.gov.uk/ukpga/1975/71), [Schedule 15](https://www.legislation.gov.uk/ukpga/1975/71/schedule/15), [paragraphs 6](https://www.legislation.gov.uk/ukpga/1975/71/paragraph/6) and 16 respectively.
+
+[^c16474371]: Marginal citation: [1996 c. 18](https://www.legislation.gov.uk/ukpga/1996/18).
+
+[^c16474381]: Marginal citation: [1996 c. 56](https://www.legislation.gov.uk/ukpga/1996/56).
+
+[^c16474391]: Marginal citation: [1980 c. 44](https://www.legislation.gov.uk/ukpga/1980/44).
+
+[^key-801d554032f1b598c6c9008e04b1690c]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/1999/3242/regulation/1/2) inserted (1.6.2015) by [The Classification, Labelling and Packaging of Chemicals (Amendments to Secondary Legislation) Regulations 2015 (S.I. 2015/21)](https://www.legislation.gov.uk/uksi/2015/21), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2015/21/regulation/1/3), [8(2)](https://www.legislation.gov.uk/uksi/2015/21/regulation/8/2)
+
+[^key-5892d09d4cd5af680aadba84a4650498]: Textual amendment: Words in reg. 1(2) revoked (E.W.) (1.10.2006) by [The Regulatory Reform (Fire Safety) Order 2005 (S.I. 2005/1541)](https://www.legislation.gov.uk/uksi/2005/1541), [art. 1(3)](https://www.legislation.gov.uk/uksi/2005/1541/article/1/3), [Sch. 5](https://www.legislation.gov.uk/uksi/2005/1541/schedule/5) (with [arts. 49](https://www.legislation.gov.uk/uksi/2005/1541/article/49), [51](https://www.legislation.gov.uk/uksi/2005/1541/article/51)) (as amended by [The Regulatory Reform (Fire Safety) Subordinate Provisions Order 2006 (S.I. 2006/484)](https://www.legislation.gov.uk/uksi/2006/484), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2006/484/article/1/1), [2](https://www.legislation.gov.uk/uksi/2006/484/article/2)); and (S.) (1.10.2016) by [The Fire (Scotland) Act 2005 (Consequential Modifications and Savings) (No. 2) Order 2006 (S.S.I. 2006/457)](https://www.legislation.gov.uk/ssi/2006/457), [art. 1](https://www.legislation.gov.uk/ssi/2006/457/article/1), [sch. 2](https://www.legislation.gov.uk/ssi/2006/457/schedule/2)
+
+[^key-8c98d6bd72f9af060f8c83c7ce9be2db]: Textual amendment: Reg. 2 substituted (27.10.2003) by [The Management of Health and Safety at Work and Fire Precautions (Workplace) (Amendment) Regulations 2003 (S.I. 2003/2457)](https://www.legislation.gov.uk/uksi/2003/2457), [regs. 1](https://www.legislation.gov.uk/uksi/2003/2457/regulation/1), [3](https://www.legislation.gov.uk/uksi/2003/2457/regulation/3)
+
+[^key-bbb822ea0ec8be27eea5999c5b0426cd]: Modification: Reg. 3 applied (W.) (22.8.2020) by [S.I. 2020/725](https://www.legislation.gov.uk/uksi/2020/725), [reg. 14A(5)(a)](https://www.legislation.gov.uk/uksi/2020/725/regulation/14A/5/a) (as inserted by [The Health Protection (Coronavirus Restrictions) (No. 2) (Wales) (Amendment) (No. 6) Regulations 2020 (S.I. 2020/884)](https://www.legislation.gov.uk/uksi/2020/884), [regs. 1](https://www.legislation.gov.uk/uksi/2020/884/regulation/1), [2(5)](https://www.legislation.gov.uk/uksi/2020/884/regulation/2/5) (with [reg. 3](https://www.legislation.gov.uk/uksi/2020/884/regulation/3)))
+
+[^key-ef2b3ab1f6f419240a3c5fd739c9c331]: Modification: Reg. 3 applied (temp.) (W.) (9.11.2020) by [The Health Protection (Coronavirus Restrictions) (No. 4) (Wales) Regulations 2020 (S.I. 2020/1219)](https://www.legislation.gov.uk/uksi/2020/1219), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1219/regulation/1/3), [47(6)(a)](https://www.legislation.gov.uk/uksi/2020/1219/regulation/47/6/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2020/1219/regulation/3))
+
+[^key-210f8bcd69ad7ca51051d9daa82b3180]: Modification: Reg. 3 applied (temp.) (W.) (20.12.2020) by [The Health Protection (Coronavirus Restrictions) (No. 5) (Wales) Regulations 2020 (S.I. 2020/1609)](https://www.legislation.gov.uk/uksi/2020/1609), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1609/regulation/1/3), [57(8)(a)](https://www.legislation.gov.uk/uksi/2020/1609/regulation/57/8/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2020/1609/regulation/3)) (as amended: (19.12.2020 at 11.59 p.m.) by [S.I. 2020/1610](https://www.legislation.gov.uk/uksi/2020/1610), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1610/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2020/1610/regulation/2/2); (7.8.2021 at the beginning of the day) by [S.I. 2021/925](https://www.legislation.gov.uk/uksi/2021/925), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/925/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2021/925/regulation/2/2); and (25.11.2021) by [S.I. 2021/1304](https://www.legislation.gov.uk/uksi/2021/1304), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1304/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2021/1304/regulation/2))
+
+[^key-d3abb67cf3c47241249297f981dee79f]: Modification: Reg. 3 modified (W.) (20.1.2021) by [S.I. 2020/1609](https://www.legislation.gov.uk/uksi/2020/1609), [reg. 16(4)](https://www.legislation.gov.uk/uksi/2020/1609/regulation/16/4) (as inserted by [The Health Protection (Coronavirus Restrictions) (No. 5) (Wales) (Amendment) Regulations 2021 (S.I. 2021/57)](https://www.legislation.gov.uk/uksi/2021/57), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/57/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2021/57/regulation/2/2/b))
+
+[^key-710e64df8022aa663d0225cd5f3ed8c2]: Modification: Reg. 3 applied (temp.) (E.) (29.3.2021) by [The Health Protection (Coronavirus, Restrictions) (Steps) (England) Regulations 2021 (S.I. 2021/364)](https://www.legislation.gov.uk/uksi/2021/364), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/364/regulation/1/2), [6(2)](https://www.legislation.gov.uk/uksi/2021/364/regulation/6/2) (with [reg. 21](https://www.legislation.gov.uk/uksi/2021/364/regulation/21))
+
+[^key-6d2eae26080674a68d4c9b4be680e20a]: Modification: Reg. 3 applied (with modifications) (W.) (21.6.2021) by [S.I. 2020/1609](https://www.legislation.gov.uk/uksi/2020/1609), [reg. 16(4)(5)](https://www.legislation.gov.uk/uksi/2020/1609/regulation/16/4/5) (as substituted by [The Health Protection (Coronavirus Restrictions) (No. 5) (Wales) (Amendment) (No. 13) Regulations 2021 (S.I. 2021/722)](https://www.legislation.gov.uk/uksi/2021/722), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/722/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2021/722/regulation/2/2))
+
+[^key-9a3634b49732219b313e6b603820a1e7]: Textual amendment: Words in reg. 3(1) revoked (E.W.) (1.10.2006) by [The Regulatory Reform (Fire Safety) Order 2005 (S.I. 2005/1541)](https://www.legislation.gov.uk/uksi/2005/1541), [art. 1(3)](https://www.legislation.gov.uk/uksi/2003/2457/article/1/3), [Sch. 5](https://www.legislation.gov.uk/uksi/2003/2457/schedule/5) (with [arts. 49](https://www.legislation.gov.uk/uksi/2003/2457/article/49), [51](https://www.legislation.gov.uk/uksi/2003/2457/article/51)) (as amended by [The Regulatory Reform (Fire Safety) Subordinate Provisions Order 2006 (S.I. 2006/484)](https://www.legislation.gov.uk/uksi/2006/484), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2006/484/article/1/1), [2](https://www.legislation.gov.uk/uksi/2006/484/article/2)); and (S.) (1.10.2006) by [The Fire (Scotland) Act 2005 (Consequential Modifications and Savings) (No. 2) Order 2006 (S.S.I. 2006/457)](https://www.legislation.gov.uk/ssi/2006/457), [art. 1](https://www.legislation.gov.uk/ssi/2006/457/article/1), [sch. 2](https://www.legislation.gov.uk/ssi/2006/457/schedule/2)
+
+[^key-262c44a973c76a64ca9143349ef3bfc0]: Textual amendment: Words in reg. 3(2) substituted (1.10.2015) by [The Deregulation Act 2015 (Health and Safety at Work) (General Duties of Self-Employed Persons) (Consequential Amendments) Order 2015 (S.I. 2015/1637)](https://www.legislation.gov.uk/uksi/2015/1637), [art. 1](https://www.legislation.gov.uk/uksi/2015/1637/article/1), [Sch. para. 6(a)](https://www.legislation.gov.uk/uksi/2015/1637/schedule/paragraph/6/a)
+
+[^key-bb2a2897609a964d74bb6c9c668f68f4]: Textual amendment: Words in reg. 3(3) substituted (1.10.2015) by [The Deregulation Act 2015 (Health and Safety at Work) (General Duties of Self-Employed Persons) (Consequential Amendments) Order 2015 (S.I. 2015/1637)](https://www.legislation.gov.uk/uksi/2015/1637), [art. 1](https://www.legislation.gov.uk/uksi/2015/1637/article/1), [Sch. para. 6(b)](https://www.legislation.gov.uk/uksi/2015/1637/schedule/paragraph/6/b)
+
+[^key-fc4ec9a9e8a2019670226346c45339d3]: Textual amendment: Words in reg. 3(3) repositioned (27.10.2003) by [The Management of Health and Safety at Work and Fire Precautions (Workplace) (Amendment) Regulations 2003 (S.I. 2003/2457)](https://www.legislation.gov.uk/uksi/2003/2457), [regs. 1](https://www.legislation.gov.uk/uksi/2003/2457/regulation/1), [4](https://www.legislation.gov.uk/uksi/2003/2457/regulation/4)
+
+[^key-1347451f0d006546ecc3738f6630a374]: Textual amendment: Reg. 3(3A) inserted (1.10.2015) by [The Deregulation Act 2015 (Health and Safety at Work) (General Duties of Self-Employed Persons) (Consequential Amendments) Order 2015 (S.I. 2015/1637)](https://www.legislation.gov.uk/uksi/2015/1637), [art. 1](https://www.legislation.gov.uk/uksi/2015/1637/article/1), [Sch. para. 6(c)](https://www.legislation.gov.uk/uksi/2015/1637/schedule/paragraph/6/c)
+
+[^key-8a3e2008fa0378db8a54eea60e8615b2]: Textual amendment: Reg. 3(5)(g) substituted (1.6.2015) by [The Classification, Labelling and Packaging of Chemicals (Amendments to Secondary Legislation) Regulations 2015 (S.I. 2015/21)](https://www.legislation.gov.uk/uksi/2015/21), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2015/21/regulation/1/3), [8(3)](https://www.legislation.gov.uk/uksi/2015/21/regulation/8/3)
+
+[^key-c66fdff952692b9ce763c160f092bc41]: Textual amendment: Words in reg. 7(1) revoked (E.W.) (1.10.2006) by [The Regulatory Reform (Fire Safety) Order 2005 (S.I. 2005/1541)](https://www.legislation.gov.uk/uksi/2005/1541), [art. 1(3)](https://www.legislation.gov.uk/uksi/2005/1541/article/1/3), [Sch. 5](https://www.legislation.gov.uk/uksi/2005/1541/schedule/5) (with [arts. 49](https://www.legislation.gov.uk/uksi/2005/1541/article/49), [51](https://www.legislation.gov.uk/uksi/2005/1541/article/51)) (as amended by [The Regulatory Reform (Fire Safety) Subordinate Provisions Order 2006 (S.I. 2006/484)](https://www.legislation.gov.uk/uksi/2006/484), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2006/484/article/1/1), [2](https://www.legislation.gov.uk/uksi/2006/484/article/2)); and (S.) (1.10.2006) by [The Fire (Scotland) Act 2005 (Consequential Modifications and Savings) (No. 2) Order 2006 (S.S.I. 2006/457)](https://www.legislation.gov.uk/ssi/2006/457), [art. 1](https://www.legislation.gov.uk/ssi/2006/457/article/1), [sch. 2](https://www.legislation.gov.uk/ssi/2006/457/schedule/2)
+
+[^key-e5f25daaed009823fa15a405126cd135]: Textual amendment: Words in reg. 10(1)(c) revoked (E.W.) (1.10.2006) by [The Regulatory Reform (Fire Safety) Order 2005 (S.I. 2005/1541)](https://www.legislation.gov.uk/uksi/2005/1541), [art. 1(3)](https://www.legislation.gov.uk/uksi/2005/1541/article/1/3), [Sch. 5](https://www.legislation.gov.uk/uksi/2005/1541/schedule/5) (with [arts. 49](https://www.legislation.gov.uk/uksi/2005/1541/article/49), [51](https://www.legislation.gov.uk/uksi/2005/1541/article/51)) (as amended by [The Regulatory Reform (Fire Safety) Subordinate Provisions Order 2006 (S.I. 2006/484)](https://www.legislation.gov.uk/uksi/2006/484), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2006/484/article/1/1), [2](https://www.legislation.gov.uk/uksi/2006/484/article/2)); and (S.) (1.10.2006) by [The Fire (Scotland) Act 2005 (Consequential Modifications and Savings) (No. 2) Order 2006 (S.S.I. 2006/457)](https://www.legislation.gov.uk/ssi/2006/457), [art. 1](https://www.legislation.gov.uk/ssi/2006/457/article/1), [sch. 2](https://www.legislation.gov.uk/ssi/2006/457/schedule/2)
+
+[^key-6bffd035d24938c561eeca908b5c6635]: Textual amendment: Words in reg. 10(1)(d) revoked (E.W.) (1.10.2006) by [The Regulatory Reform (Fire Safety) Order 2005 (S.I. 2005/1541)](https://www.legislation.gov.uk/uksi/2005/1541), [art. 1(3)](https://www.legislation.gov.uk/uksi/2005/1541/article/1/3), [Sch. 5](https://www.legislation.gov.uk/uksi/2005/1541/schedule/5) (with [arts. 49](https://www.legislation.gov.uk/uksi/2005/1541/article/49), [51](https://www.legislation.gov.uk/uksi/2005/1541/article/51)) (as amended by [The Regulatory Reform (Fire Safety) Subordinate Provisions Order 2006 (S.I. 2006/484)](https://www.legislation.gov.uk/uksi/2006/484), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2006/484/article/1/1), [2](https://www.legislation.gov.uk/uksi/2006/484/article/2)); and (S.) (1.10.2006) by [The Fire (Scotland) Act 2005 (Consequential Modifications and Savings) (No. 2) Order 2006 (S.S.I. 2006/457)](https://www.legislation.gov.uk/ssi/2006/457), [art. 1](https://www.legislation.gov.uk/ssi/2006/457/article/1), [sch. 2](https://www.legislation.gov.uk/ssi/2006/457/schedule/2)
+
+[^c16474421]: Marginal citation: [1989 c. 41](https://www.legislation.gov.uk/ukpga/1989/41).
+
+[^c16474431]: Marginal citation: [1986 c. 9](https://www.legislation.gov.uk/ukpga/1986/9).
+
+[^key-94e076a598c4a57c3867b4fae88f9a6e]: Textual amendment: Words in reg. 11(1)(a) revoked (E.W.) (1.10.2006) by [The Regulatory Reform (Fire Safety) Order 2005 (S.I. 2005/1541)](https://www.legislation.gov.uk/uksi/2005/1541), [art. 1(3)](https://www.legislation.gov.uk/uksi/2005/1541/article/1/3), [Sch. 5](https://www.legislation.gov.uk/uksi/2005/1541/schedule/5) (with [arts. 49](https://www.legislation.gov.uk/uksi/2005/1541/article/49), [51](https://www.legislation.gov.uk/uksi/2005/1541/article/51)) (as amended by [The Regulatory Reform (Fire Safety) Subordinate Provisions Order 2006 (S.I. 2006/484)](https://www.legislation.gov.uk/uksi/2006/484), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2006/484/article/1/1), [2](https://www.legislation.gov.uk/uksi/2006/484/article/2)); and (S.) (1.10.2006) by [The Fire (Scotland) Act 2005 (Consequential Modifications and Savings) (No. 2) Order 2006 (S.S.I. 2006/457)](https://www.legislation.gov.uk/ssi/2006/457), [art. 1](https://www.legislation.gov.uk/ssi/2006/457/article/1), [sch. 2](https://www.legislation.gov.uk/ssi/2006/457/schedule/2)
+
+[^M_F_272f8037-b10e-46d1-92ec-70cb04cdaceb]: Textual amendment: Words in reg. 11(1)(b) revoked (E.W.) (1.10.2006) by [The Regulatory Reform (Fire Safety) Order 2005 (S.I. 2005/1541)](https://www.legislation.gov.uk/uksi/2005/1541), [art. 1(3)](https://www.legislation.gov.uk/uksi/2005/1541/article/1/3), [Sch. 5](https://www.legislation.gov.uk/uksi/2005/1541/schedule/5) (with [arts. 49](https://www.legislation.gov.uk/uksi/2005/1541/article/49), [51](https://www.legislation.gov.uk/uksi/2005/1541/article/51)) (as amended by [The Regulatory Reform (Fire Safety) Subordinate Provisions Order 2006 (S.I. 2006/484)](https://www.legislation.gov.uk/uksi/2006/484), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2006/484/article/1/1), [2](https://www.legislation.gov.uk/uksi/2006/484/article/2)); and (S.) (1.10.2006) by [The Fire (Scotland) Act 2005 (Consequential Modifications and Savings) (No. 2) Order 2006 (S.S.I. 2006/457)](https://www.legislation.gov.uk/ssi/2006/457), [art. 1](https://www.legislation.gov.uk/ssi/2006/457/article/1), [sch. 2](https://www.legislation.gov.uk/ssi/2006/457/schedule/2)
+
+[^key-83d8ccf0c7cc3b7f0f192e7417046e21]: Textual amendment: Words in reg. 11(2) revoked (E.W.) (1.10.2006) by [The Regulatory Reform (Fire Safety) Order 2005 (S.I. 2005/1541)](https://www.legislation.gov.uk/uksi/2005/1541), [art. 1(3)](https://www.legislation.gov.uk/uksi/2005/1541/article/1/3), [Sch. 5](https://www.legislation.gov.uk/uksi/2005/1541/schedule/5) (with [arts. 49](https://www.legislation.gov.uk/uksi/2005/1541/article/49), [51](https://www.legislation.gov.uk/uksi/2005/1541/article/51)) (as amended by [The Regulatory Reform (Fire Safety) Subordinate Provisions Order 2006 (S.I. 2006/484)](https://www.legislation.gov.uk/uksi/2006/484), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2006/484/article/1/1), [2](https://www.legislation.gov.uk/uksi/2006/484/article/2)); and (S.) (1.10.2006) by [The Fire (Scotland) Act 2005 (Consequential Modifications and Savings) (No. 2) Order 2006 (S.S.I. 2006/457)](https://www.legislation.gov.uk/ssi/2006/457), [art. 1](https://www.legislation.gov.uk/ssi/2006/457/article/1), [sch. 2](https://www.legislation.gov.uk/ssi/2006/457/schedule/2)
+
+[^key-84ac4f7d3fccc6c1a3a4ad56c920bc6d]: Textual amendment: Words in reg. 12(1)(b) revoked (E.W.) (1.10.2006) by [The Regulatory Reform (Fire Safety) Order 2005 (S.I. 2005/1541)](https://www.legislation.gov.uk/uksi/2005/1541), [art. 1(3)](https://www.legislation.gov.uk/uksi/2005/1541/article/1/3), [Sch. 5](https://www.legislation.gov.uk/uksi/2005/1541/schedule/5) (with [arts. 49](https://www.legislation.gov.uk/uksi/2005/1541/article/49), [51](https://www.legislation.gov.uk/uksi/2005/1541/article/51)) (as amended by [The Regulatory Reform (Fire Safety) Subordinate Provisions Order 2006 (S.I. 2006/484)](https://www.legislation.gov.uk/uksi/2006/484), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2006/484/article/1/1), [2](https://www.legislation.gov.uk/uksi/2006/484/article/2)); and (S.) (1.10.2006) by [The Fire (Scotland) Act 2005 (Consequential Modifications and Savings) (No. 2) Order 2006 (S.S.I. 2006/457)](https://www.legislation.gov.uk/ssi/2006/457), [art. 1](https://www.legislation.gov.uk/ssi/2006/457/article/1), [sch. 2](https://www.legislation.gov.uk/ssi/2006/457/schedule/2)
+
+[^key-b2a0d4a0bb577c5751ad4710b64b6015]: Textual amendment: Words in reg. 12(2) revoked (E.W.) (1.10.2006) by [The Regulatory Reform (Fire Safety) Order 2005 (S.I. 2005/1541)](https://www.legislation.gov.uk/uksi/2005/1541), [art. 1(3)](https://www.legislation.gov.uk/uksi/2005/1541/article/1/3), [Sch. 5](https://www.legislation.gov.uk/uksi/2005/1541/schedule/5) (with [arts. 49](https://www.legislation.gov.uk/uksi/2005/1541/article/49), [51](https://www.legislation.gov.uk/uksi/2005/1541/article/51)) (as amended by [The Regulatory Reform (Fire Safety) Subordinate Provisions Order 2006 (S.I. 2006/484)](https://www.legislation.gov.uk/uksi/2006/484), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2006/484/article/1/1), [2](https://www.legislation.gov.uk/uksi/2006/484/article/2)); and (S.) (1.10.2006) by [The Fire (Scotland) Act 2005 (Consequential Modifications and Savings) (No. 2) Order 2006 (S.S.I. 2006/457)](https://www.legislation.gov.uk/ssi/2006/457), [art. 1](https://www.legislation.gov.uk/ssi/2006/457/article/1), [sch. 2](https://www.legislation.gov.uk/ssi/2006/457/schedule/2)
+
+[^c16474441]: Marginal citation: OJ No. L348, 28.11.92, p.1.
+
+[^key-19ed47095470f75cbff5729dcd30afad]: Textual amendment: Words in reg. 16(1)(b) inserted (1.6.2015) by [The Classification, Labelling and Packaging of Chemicals (Amendments to Secondary Legislation) Regulations 2015 (S.I. 2015/21)](https://www.legislation.gov.uk/uksi/2015/21), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2015/21/regulation/1/3), [8(4)](https://www.legislation.gov.uk/uksi/2015/21/regulation/8/4)
+
+[^key-78ac201f2b68b7cac537a7a2088df2a7]: Textual amendment: [Reg. 16A](https://www.legislation.gov.uk/uksi/1999/3242/regulation/16A) inserted (1.10.2011) by [The Agency Workers Regulations 2010 (S.I. 2010/93)](https://www.legislation.gov.uk/uksi/2010/93), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/93/regulation/1/1), [Sch. 2 para. 17(2)](https://www.legislation.gov.uk/uksi/2010/93/schedule/2/paragraph/17/2)
+
+[^key-5ea07a6320a68ad369ec91645b0e9d39]: Textual amendment: [Reg. 17A](https://www.legislation.gov.uk/uksi/1999/3242/regulation/17A) inserted (1.10.2011) by [The Agency Workers Regulations 2010 (S.I. 2010/93)](https://www.legislation.gov.uk/uksi/2010/93), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/93/regulation/1/1), [Sch. 2 para. 18](https://www.legislation.gov.uk/uksi/2010/93/schedule/2/paragraph/18)
+
+[^key-493e6e3117ff0b8e361bf79e07fc9a7d]: Textual amendment: [Regs. 18A](https://www.legislation.gov.uk/uksi/1999/3242/regulation/18A), [18AB](https://www.legislation.gov.uk/uksi/1999/3242/regulation/18AB) inserted (1.10.2011) by [The Agency Workers Regulations 2010 (S.I. 2010/93)](https://www.legislation.gov.uk/uksi/2010/93), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/93/regulation/1/1), [Sch. 2 para. 19](https://www.legislation.gov.uk/uksi/2010/93/schedule/2/paragraph/19)
+
+[^key-e6b61d6bafa650677bd5b48367c7a759]: Textual amendment: Reg. 19(4) omitted (27.10.2003) by virtue of [The Management of Health and Safety at Work and Fire Precautions (Workplace) (Amendment) Regulations 2003 (S.I. 2003/2457)](https://www.legislation.gov.uk/uksi/2003/2457), [regs. 1](https://www.legislation.gov.uk/uksi/2003/2457/regulation/1), [5](https://www.legislation.gov.uk/uksi/2003/2457/regulation/5)
+
+[^key-6ac46ad36daec38d8e545f066e54f5a4]: Textual amendment: Words in [reg. 20(1)(a)](https://www.legislation.gov.uk/uksi/1999/3242/regulation/20/1/a) substituted (1.10.2011) by [The Agency Workers Regulations 2010 (S.I. 2010/93)](https://www.legislation.gov.uk/uksi/2010/93), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/93/regulation/1/1), [Sch. 2 para. 20](https://www.legislation.gov.uk/uksi/2010/93/schedule/2/paragraph/20)
+
+[^c16474451]: Marginal citation: [1952 c. 67](https://www.legislation.gov.uk/ukpga/1952/67).
+
+[^c16474461]: Marginal citation: [S.I. 1999/1736](https://www.legislation.gov.uk/uksi/1999/1736).
+
+[^c16474471]: Marginal citation: [1964 c.5](https://www.legislation.gov.uk/ukpga/1964/5).
+
+[^key-4c6a8b4890454fc996971160e5315837]: Textual amendment: [Reg. 22](https://www.legislation.gov.uk/uksi/1999/3242/regulation/22) substituted (1.10.2013) by [The Health and Safety at Work etc. Act 1974 (Civil Liability) (Exceptions) Regulations 2013 (S.I. 2013/1667)](https://www.legislation.gov.uk/uksi/2013/1667), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/1667/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2013/1667/regulation/3)
+
+[^c16474481]: Marginal citation: [S.I. 1995/263](https://www.legislation.gov.uk/uksi/1995/263).
+
+[^c16474491]: Marginal citation: [S.I. 1981/917](https://www.legislation.gov.uk/uksi/1981/917); amended by [S.I. 1989/1671](https://www.legislation.gov.uk/uksi/1989/1671).
+
+[^c16474501]: Marginal citation: [S.I. 1989/1671](https://www.legislation.gov.uk/uksi/1989/1671); amended by [S.I. 1993/1823](https://www.legislation.gov.uk/uksi/1993/1823), and [S.I. 1995/738](https://www.legislation.gov.uk/uksi/1995/738).
+
+[^c16474511]: Marginal citation: [S.I. 1995/2005](https://www.legislation.gov.uk/uksi/1995/2005).
+
+[^key-1e75915324b2ade3c838b2198f9b40cc]: Textual amendment: Reg. 27 revoked (6.4.2007) by [The Construction (Design and Management) Regulations 2007 (S.I. 2007/320)](https://www.legislation.gov.uk/uksi/2007/320), [reg. 1](https://www.legislation.gov.uk/uksi/2007/320/regulation/1), [Sch. 4](https://www.legislation.gov.uk/uksi/2007/320/schedule/4) (with [reg. 3](https://www.legislation.gov.uk/uksi/2007/320/regulation/3))
+
+[^key-e6e1d111ebd011ba65b28cb80142d8f1]: Textual amendment: Reg. 28 revoked (E.W.) (1.10.2006) by [The Regulatory Reform (Fire Safety) Order 2005 (S.I. 2005/1541)](https://www.legislation.gov.uk/uksi/2005/1541), [art. 1(3)](https://www.legislation.gov.uk/uksi/2005/1541/article/1/3), [Sch. 5](https://www.legislation.gov.uk/uksi/2005/1541/schedule/5) (with [arts. 49](https://www.legislation.gov.uk/uksi/2005/1541/article/49), [51](https://www.legislation.gov.uk/uksi/2005/1541/article/51)) (as amended by [The Regulatory Reform (Fire Safety) Subordinate Provisions Order 2006 (S.I. 2006/484)](https://www.legislation.gov.uk/uksi/2006/484), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2006/484/article/1/1), [2](https://www.legislation.gov.uk/uksi/2006/484/article/2)); and (S.) (1.10.2006) by [The Fire (Scotland) Act 2005 (Consequential Modifications and Savings) (No. 2) Order 2006 (S.S.I. 2006/457)](https://www.legislation.gov.uk/ssi/2006/457), [art. 1](https://www.legislation.gov.uk/ssi/2006/457/article/1), [sch. 2](https://www.legislation.gov.uk/ssi/2006/457/schedule/2)
+
+[^c16474541]: Marginal citation: [S.I. 1992/2051](https://www.legislation.gov.uk/uksi/1992/2051); amended by [S.I. 1994/2865](https://www.legislation.gov.uk/uksi/1994/2865); [S.I. 1997/135](https://www.legislation.gov.uk/uksi/1997/135), and [S.I. 1997/1840](https://www.legislation.gov.uk/uksi/1997/1840).
+
+[^c16474551]: Marginal citation: [S.I. 1994/2865](https://www.legislation.gov.uk/uksi/1994/2865).
+
+[^c16474561]: Marginal citation: [S.I. 1997/135](https://www.legislation.gov.uk/uksi/1997/135).
+
+[^c16474571]: Marginal citation: OJ No. L183, 29.6.89, p.1.
+
+[^key-2b58e5642f5dde71c843fb27642ac75e]: Textual amendment: Words in Sch. 2 revoked (6.4.2007) by [The Construction (Design and Management) Regulations 2007 (S.I. 2007/320)](https://www.legislation.gov.uk/uksi/2007/320), [reg. 1](https://www.legislation.gov.uk/uksi/2007/320/regulation/1), [Sch. 4](https://www.legislation.gov.uk/uksi/2007/320/schedule/4) (with [reg. 3](https://www.legislation.gov.uk/uksi/2007/320/regulation/3))

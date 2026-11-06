@@ -1,0 +1,146 @@
+---
+title: The Child Support (Deduction Orders and Fees) (Amendment and Modification) Regulations 2016
+id: uksi/2016/439
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2016-03-23'
+text_date: '2021-05-22'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/uksi/2016/439
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2016/439/pdfs/uksiem_20160439_en.pdf
+- http://www.legislation.gov.uk/uksi/2016/439/pdfs/uksi_20160439_en.pdf
+- http://www.legislation.gov.uk/uksi/2016/439/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Child Support (Deduction Orders and Fees) (Amendment and Modification) Regulations 2016
+
+> Text as at 2021-05-22.
+>
+> Extent: England, Wales, Scotland.
+
+*Extent: E+W+S*
+
+2016 No. 439
+
+Family Law
+
+Child Support
+
+The Child Support (Deduction Orders and Fees) (Amendment and Modification) Regulations 2016
+
+Made
+
+23rd March 2016
+
+Coming into force
+
+23rd May 2016
+
+The Secretary of State for Work and Pensions makes the following Regulations in exercise of the powers conferred by sections 32C(1) and (2)(l), (n) and (p), 32J(1) and (2)(g) and (i), 51(1), 52(4) and 54 of the Child Support Act 1991[^f00001] and sections 6(1) to (3) and 55(3) and (4) of the Child Maintenance and Other Payments Act 2008[^f00002].
+
+A draft of this instrument was laid before and approved by a resolution of each House of Parliament in accordance with section 52(2) of the Child Support Act 1991[^f00003] and section 55(5) of the Child Maintenance and Other Payments Act 2008[^f00004].
+
+## 1. Citation, commencement and cessation[^key-7ae4a79c609f8c3de3b1c2c040526427]
+
+(1) These Regulations may be cited as the Child Support (Deduction Orders and Fees) (Amendment and Modification) Regulations 2016 and come into force on 23rd May 2016.
+
+(2) Regulations 2(2)(b) and 3 cease to have effect on 22nd May 2021 and the Child Support Fees Regulations 2014[^f00005] apply thereafter as if the amendments made to them by regulation 3 had not been made.
+
+## 2. Modification of the Child Support (Collection and Enforcement) Regulations 1992[^key-6081fbc7b98d4df007f2a97318f4ed7d]
+
+(1) The Child Support (Collection and Enforcement) Regulations 1992[^f00006] are modified as follows in relation to a case in which liability to pay child support maintenance is calculated in accordance with Part 1 of Schedule 1 (calculation of weekly amount of child support maintenance) to the Child Support Act 1991[^f00007] as amended by paragraph 2 of Schedule 4 (changes to the calculation of maintenance) to the Child Maintenance and Other Payments Act 2008.
+
+(2) Regulation 25I(2) (variation of a regular deduction order) has effect as if—
+
+- (a) in sub-paragraph (a)—
+  - (i) in paragraph (i) after “arrears” there were inserted “or a payment towards an enforcement fee”;
+  - (ii) in paragraph (ii) after “maintenance” there were inserted “and, where payable, fees”;
+- (b)[^key-e3c3a7d6b6f0e0448a27b9d00c41c469] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c) there were inserted at the end of sub-paragraph (d)—
+
+  > ; or
+  >
+  > - (e) there are arrears that are not included in the order.
+
+  .
+
+(3) Regulation 25J(2)(a) (lapse of a regular deduction order) has effect as if after “maintenance calculation” there were inserted “and an alternative method of payment of fees (where payable)”.
+
+(4) Regulation 25L(1)(b) (discharge of a regular deduction order) has effect as if after “(payment of child support maintenance)” there were inserted “and any fees have been paid in full”.
+
+(5) Regulation 25S(2)(c) (lapse of a lump sum deduction order) has effect as if after “maintenance calculation” there were inserted “and an alternative method of payment of fees (where payable)”.
+
+(6) Regulation 25U(1) (discharge of a lump sum deduction order) has effect as if—
+
+- (a) in sub-paragraph (b) after “(payment of child support maintenance)” there were inserted “and any fees specified in the order have been paid in full”;
+- (b) in sub-paragraph (c) after “and the liable person” there were inserted “and the total amount of any fees specified in the order have been paid”.
+
+## 3. Amendment of the Child Support Fees Regulations 2014
+
+(...)[^key-b38fee82790229f8bab075809abfc2b6][^key-b38fee82790229f8bab075809abfc2b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-b38fee82790229f8bab075809abfc2b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-b38fee82790229f8bab075809abfc2b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+> [^key-b38fee82790229f8bab075809abfc2b6]
+>
+> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+.
+
+Signed by authority of the Secretary of State for Work and Pensions
+
+Altmann,
+
+Minister of State,
+
+Department for Work and Pensions
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations modify the Child Support (Collection and Enforcement) Regulations 1992 ([S.I. 1992/1989](https://www.legislation.gov.uk/uksi/1992/1989)) (“the 1992 Regulations”) and amend the Child Support Fees Regulations 2014 ([S.I. 2014/612](https://www.legislation.gov.uk/uksi/2014/612)) (“the Fees Regulations”).
+
+Regulation 2 modifies the 1992 Regulations for the purposes of cases administered under the 2012 scheme of child support. Paragraph (2)(b) modifies regulation 25I(2) so that a regular deduction order may be varied where there are arrears that are not already included in the order. This modification will cease to have effect on 22nd May 2021. Paragraphs (2)(a) and (3) to (6) make modifications in connection with the charging of fees under the Fees Regulations. Modifications are made to provisions relating to regular deduction orders and lump sum deduction orders so that, where relevant, reference is made to fees.
+
+Regulation 3 amends the Fees Regulations and ceases to have effect on 22nd May 2021. Paragraph (2) makes amendments so that an enforcement fee of £50 is payable by a non-resident parent in certain circumstances. The circumstances are where a case satisfies new regulation 12A(2), the Secretary of State determines that the payment arrangement in place in the case is to end and the deduction from earnings order referred to in regulation 12A(2)(c) is then varied. The fee is only payable on the first occasion the order is varied. Paragraph (3) makes amendments so that the fee may be waived in certain circumstances.
+
+Paragraph (4) inserts new regulation 12A into the Fees Regulations so that collection fees (a fee payable in a case where the Secretary of State arranges for collection of child maintenance) and enforcement fees (a fee payable where the Secretary of State takes enforcement action) may be waived in certain segment 5 cases. A segment 5 case is one with the meaning given in the scheme prepared by the Secretary of State under the Child Support (Ending Liability in Existing Cases and Transition to New Calculation Rules) Regulations 2014 ([S.I. 2014/614](https://www.legislation.gov.uk/uksi/2014/614)) (“the Ending Liability Regulations”).
+
+Collection fees and enforcement fees may be waived in a case that satisfies the following conditions (set out in regulation 12A(2)). The person with care, non-resident parent and qualifying child must be the same person with care, non-resident parent (or absent parent) and qualifying child as in an existing case (that is, a case on the 1993 or 2003 child support scheme). In the existing case, a notice must have been given under the Ending Liability Regulations that specified a date for liability ending determined in accordance with regulation 6(1)(b) of those Regulations. The existing case must have been a segment 5 case on the date that notice was printed and the notice must have been sent on or after 23<sup>rd</sup> May 2016. An application for a maintenance calculation must have been made before liability in the existing case ended. The Secretary of State must have specified that child support maintenance (payable under the 2012 scheme) is to be paid by certain methods of payment with the purpose of enabling the non-resident parent to demonstrate that payments will still be made if there are no arrangements for collection or enforcement (“the payment arrangement”). The first payment to be made in accordance with the payment arrangement must be the first payment of 2012 scheme child support maintenance due in the case.
+
+Collection fees and enforcement fees may only be waived during the relevant period, which begins on the date the 2012 scheme rules come into force in the case and ends on the date the Secretary of State makes a determination that the payment arrangement is to end.
+
+An impact assessment has not been published for this instrument as it has no impact on the private sector and civil society organisations.
+
+## Annotations
+
+[^f00001]: Footnote: [1991 c. 48](https://www.legislation.gov.uk/ukpga/1991/48). Sections 32C and 32J were inserted into the Child Support Act 1991 (“the 1991 Act”) by sections 22 and 23 of the Child Maintenance and Other Payments Act [2008 (c. 6)](https://www.legislation.gov.uk/ukpga/2008/6) (“the 2008 Act”).
+
+[^f00002]: Footnote: [2008 c. 6](https://www.legislation.gov.uk/ukpga/2008/6). Section 6(2) was amended by section 140 of the Welfare Reform Act [2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5).
+
+[^f00003]: Footnote: Section 52(2) was substituted by section 25 of the Child Support, Pensions and Social Security Act [2000 (c. 19)](https://www.legislation.gov.uk/ukpga/2000/19) (“the 2000 Act”) and amended by paragraphs 1(1) and (22) of Schedule 7 and Schedule 8 to the 2008 Act and paragraphs 4 and 8 of Schedule 11 to the Welfare Reform Act 2012.
+
+[^f00004]: Footnote: Section 55(5) was amended by [S.I. 2012/2007](https://www.legislation.gov.uk/uksi/2012/2007).
+
+[^key-7ae4a79c609f8c3de3b1c2c040526427]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2016/439/regulation/1) in force at 23.5.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/439/regulation/1/1)
+
+[^f00005]: Footnote: [S.I. 2014/612](https://www.legislation.gov.uk/uksi/2014/612).
+
+[^key-6081fbc7b98d4df007f2a97318f4ed7d]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2016/439/regulation/2) in force at 23.5.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/439/regulation/1/1)
+
+[^f00006]: Footnote: [S.I. 1992/1989](https://www.legislation.gov.uk/uksi/1992/1989). Regulations 25A to 25AD were inserted by [S.I. 2009/1815](https://www.legislation.gov.uk/uksi/2009/1815). References to “the Commission” in these Regulations were replaced with references to “the Secretary of State” by [S.I. 2012/2007](https://www.legislation.gov.uk/uksi/2012/2007). [S.I. 1992/1989](https://www.legislation.gov.uk/uksi/1992/1989) was amended by [S.I. 2014/1386](https://www.legislation.gov.uk/uksi/2014/1386) which was amended by [S.I. 2014/1621](https://www.legislation.gov.uk/uksi/2014/1621). The effect of this (insofar as is relevant) is that regulation 2 of [S.I. 2014/1386](https://www.legislation.gov.uk/uksi/2014/1386) modifies [S.I. 1992/1989](https://www.legislation.gov.uk/uksi/1992/1989) in relation to cases administered under the 2012 scheme of child support.
+
+[^f00007]: Footnote: Part 1 of Schedule 1 to the 1991 Act was substituted by section 1(3) of, and Schedule 1 to, the 2000 Act and amended by Schedule 4 to the 2008 Act.
+
+[^key-e3c3a7d6b6f0e0448a27b9d00c41c469]: Textual amendment: [Reg. 2(2)(b)](https://www.legislation.gov.uk/uksi/2016/439/regulation/2/2/b) ceases to have effect by virtue of (22.5.2021) by virtue of [The Child Support (Deduction Orders and Fees) (Amendment and Modification) Regulations 2016 (S.I. 2016/439)](https://www.legislation.gov.uk/uksi/2016/439), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/439/regulation/1/2)
+
+[^key-b38fee82790229f8bab075809abfc2b6]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2016/439/regulation/3) ceases to have effect by virtue of (22.5.2021) by virtue of [The Child Support (Deduction Orders and Fees) (Amendment and Modification) Regulations 2016 (S.I. 2016/439)](https://www.legislation.gov.uk/uksi/2016/439), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/439/regulation/1/2)

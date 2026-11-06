@@ -1,0 +1,239 @@
+---
+title: The Further Education Corporations (Publication of Proposals) (England) Regulations 2012
+id: uksi/2012/1157
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2012-04-21'
+text_date: '2015-05-26'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2012/1157
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2012/1157/pdfs/uksiem_20121157_en.pdf
+- http://www.legislation.gov.uk/uksi/2012/1157/pdfs/uksi_20121157_en.pdf
+- http://www.legislation.gov.uk/uksi/2012/1157/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Further Education Corporations (Publication of Proposals) (England) Regulations 2012
+
+> Text as at 2015-05-26.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2012 No. 1157
+
+Education, England
+
+The Further Education Corporations (Publication of Proposals) (England) Regulations 2012
+
+Made
+
+21st April 2012
+
+Laid before Parliament
+
+30th April 2012
+
+Coming into force
+
+21st May 2012
+
+The Secretary of State for Business, Innovation and Skills makes the following Regulations in exercise of the powers conferred by sections 16A(1), 27(2) and (3), and 89(4) of the Further and Higher Education Act 1992[^f00001].
+
+## 1. Citation, commencement, interpretation and application[^key-77914193afdfeac71d5f2d29767d82f0]
+
+(1) These Regulations may be cited as the Further Education Corporations (Publication of Proposals) (England) Regulations 2012 and come into force on 21st May 2012.
+
+(2) In these Regulations—
+
+- “**Academy**” has the meaning in section 1 of the Academies Act 2010[^f00002];
+- “**maintained school**” has the meaning in section 20(7) of the School Standards and Framework Act 1998[^f00003]; and
+- “**student**” includes a pupil[^f00004];
+
+a reference to a section is to a section of the Further and Higher Education Act 1992.
+
+(3) These Regulations apply in relation to England.
+
+## 2. Time and manner of publication of draft orders[^key-d14dca46cdf973a086a26a9f95e15e86]
+
+(1) A draft of a proposed order under section 16(1) or (3) to establish a further education corporation (“**the draft order**”) must be published in the time and manner prescribed[^f00005] in paragraphs (2) to (4).
+
+(2) The draft order must be published—
+
+- (a) at least four months before the date which is specified in the draft order for the establishment of the corporation and at least two months before the date on which the Secretary of State makes the order; or
+- (b) where the establishment of a corporation will be in connection with the dissolution of one or more further education corporations, at least two months before the date specified in the draft order for its establishment.
+
+(3) The Secretary of State must publish the draft order—
+
+- (a) in at least one newspaper circulating in the area served by the institution to which the draft order relates; and
+- (b) in at least one national newspaper.
+
+(4) The Secretary of State must send a copy of the draft order together with a statement containing the information set out in Part 1 of the Schedule to—
+
+- (a) the governing body of any institution within the further education sector within the local authority area in which the institution to which the draft order relates, is proposed to be situated;
+- (b) the governing body or proprietor of any maintained school or Academy which provides full-time education suitable to the requirements of persons over compulsory school age within the local authority area in which the institution to which the draft order relates, is situated or proposed to be situated;
+- (c) the local authority in whose area the institution to which the draft order relates, is situated or is proposed to be situated;
+- (d)[^key-59b5eabb578dd8158de51a280e42332e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e) the Member of Parliament in whose constituency the institution to which the draft order relates, is situated or proposed to be situated;
+- (f) any other Member of Parliament whose constituents it appears to the Secretary of State are likely to be affected by the proposal; and
+- (g) any other person who appears to the Secretary of State to have an interest.
+
+## 3. Publication of proposals for dissolution of further education corporations[^key-54f5d5d1eb249d5f25daffe847df0360]
+
+(1) For the purposes of section 27(2), the corporation must publish the proposal in accordance with paragraphs (2) to (6).
+
+(2) The corporation must publish the proposal at least four months before the date which is specified in the proposal for the dissolution of the corporation.
+
+(3) The proposal must contain the information set out in Part 2 of the Schedule.
+
+(4) The corporation must publish a notice of the proposal—
+
+- (a) in at least one newspaper circulating in the area served by the institution to which the proposal relates; and
+- (b) in at least one national newspaper.
+
+(5) The notice referred to in paragraph (4) must contain, as a minimum, the following information—
+
+- (a) the name of the further education corporation and the name of the institution concerned (if different);
+- (b) the date proposed for the dissolution of the further education corporation; and
+- (c) the procedure for obtaining a copy of the proposal.
+
+(6) The corporation must send a copy of the proposal to—
+
+- (a) the governing body or proprietor of any institution within the further education sector within the local authority area in which the corporation is situated;
+- (b) the governing body or proprietor of any maintained school or Academy which provides full-time education suitable to the requirements of persons over compulsory school age within the local authority area in which the institution is situated;
+- (c) the local authority in whose area the institution is situated;
+- (d) the Member of Parliament in whose constituency the institution is situated;
+- (e) any other Member of Parliament whose constituents it appears to the corporation are likely to be affected by the proposal;
+- (f)[^key-da07e533bda56e84b0b485876598541e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (g) the Secretary of State; and
+- (h) any other person who appears to the corporation to have an interest.
+
+## 4. Consultation[^key-ce73a3ad5fe40bce275b2574f1da23ed]
+
+For the purposes of section 27(3) the corporation must—
+
+- (a) provide for a period of at least one month beginning on the date of publication described in regulation 3(2) for representations to be made on the proposal;
+- (b) take account of the views expressed in any representations received under paragraph (6)(a); and
+- (c) publish a summary of the consultation described in paragraph (a) and its outcome within two months beginning on the date after the end of the consultation period described in paragraph (a), and make the summary available free of charge to any person who requests it.
+
+John Hayes
+
+Minister of State for Further Education, Skills and Lifelong Learning
+
+Department for Business, Innovation and Skills
+
+21st April 2012
+
+## SCHEDULE
+
+Regulations 2 and 3
+
+### PART 1
+
+**1.**[^key-78ad24ef4e2185605aab15a78eb18a45] In all cases—
+
+- (a) the name or proposed name of the institution concerned;
+- (b) its address or proposed address;
+- (c) the date on which it is proposed that the institution is to be established and the date on which it is proposed that the corporation shall conduct the institution;
+- (d) the reason for proposing the establishment of a body corporate.
+
+**2.**[^key-f9a02518f47cee6bdde8d196d8f1407f] In the case of all existing institutions, a general description of the education provided by the institution and of the education to be provided there when it is conducted by a further education corporation, including, in both cases, the age range of the students.
+
+**3.**[^key-41b8cf3b0efb3c4f4ba9548c803167cd] In the case of an institution which is to be established—
+
+- (a) a general description of the education to be provided there when it is conducted by a further education corporation, including the age range of the students; and
+- (b) the number of full-time students, the number of part-time students and the total number of students which are forecast for such time as the institution is fully operational.
+
+**4.**[^key-c05df6c056c53bb3d4132ba634888e89] In the case of proposals for the establishment of a body corporate under section 16(1)—
+
+- (a) whether the further education corporation is to establish an educational institution or to conduct an existing institution; and
+- (b) in the case of an existing institution, whether the governing body has consented to the establishment of a further education corporation to conduct the institution.
+
+**5.**[^key-aef4ca73dae02964f84b6abdc98f1894] In the case of proposals for the establishment of a body corporate under section 16(3)—
+
+- (a) a statement that the governing body of the institution and the local authority who maintain the institution have consented to the publication of the proposals; or
+- (b) where, by virtue of section 110(5) of the Learning and Skills Act 2000[^f00007], section 16A(2) does not apply, a statement to that effect.
+
+### PART 2
+
+**1.**[^key-e97d5dd554d4707f4e8e1c29f201a20d] The name of the further education corporation and the name of the institution concerned (if different).
+
+**2.**[^key-f8e7a9a40fc7eca75ca963cde8c7ba55] The address of the institution.
+
+**3.**[^key-49a699b91b1b9fbbb59eb48396884d33] A general description of the education provided by the institution.
+
+**4.**[^key-cde256497999867bbd7bbf44494a0fc5] The number of full-time students, the number of part-time students and the total number of students at the institution.
+
+**5.**[^key-3e4a4f70150a5b4efb40baa21a8ca3a5] The reason for proposing the dissolution of the further education corporation.
+
+**6.**[^key-202be2ae96e5e6b82f35a55396436ab1] The date proposed for the dissolution of the further education corporation.
+
+**7.**[^key-b69833834867f430a5ca7d5107bbb75c] The educational provision to be made for those students who have not completed their courses on that date.
+
+**8.**[^key-9f02e1cdd16bfbf74f0b3e5da85ddf11] The proposed arrangements for the transfer of the property, rights and liabilities of the further education corporation.
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations (which apply in relation to England) prescribe the time and manner of publication and content of draft orders for the establishment of, and proposals for the dissolution of, further education corporations.
+
+An impact assessment has not been produced for this instrument as it has no impact on businesses or civil society organisations. The instrument has a minimal impact on the public sector.
+
+## Annotations
+
+[^f00001]: Footnote: [1992 c. 13](https://www.legislation.gov.uk/ukpga/1992/13). Section 16A was inserted by paragraph 2, and section 27 was substituted by paragraph 7, of Schedule 12 to the Education Act [2011 (c.21)](https://www.legislation.gov.uk/ukpga/2011/21). For the definition of regulations see section 61.
+
+[^key-77914193afdfeac71d5f2d29767d82f0]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2012/1157/regulation/1) in force at 21.5.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/1157/regulation/1/1)
+
+[^f00002]: Footnote: [2010 c. 32](https://www.legislation.gov.uk/ukpga/2010/32): section 1 was amended by sections 52 and 53 of the Education Act [2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21).
+
+[^f00003]: Footnote: [1998 c. 31](https://www.legislation.gov.uk/ukpga/1998/31).
+
+[^f00004]: Footnote: For the definition of “pupil” see section 3(1) of the Education Act [1996 (c.56)](https://www.legislation.gov.uk/ukpga/1996/56).
+
+[^key-d14dca46cdf973a086a26a9f95e15e86]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2012/1157/regulation/2) in force at 21.5.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/1157/regulation/1/1)
+
+[^f00005]: Footnote: “**Prescribed**” means prescribed in regulations. See section 90(5) and section 579 of the Education Act [1996 (c. 56)](https://www.legislation.gov.uk/ukpga/1996/56).
+
+[^key-59b5eabb578dd8158de51a280e42332e]: Textual amendment: [Reg. 2(4)(d)](https://www.legislation.gov.uk/uksi/2012/1157/regulation/2/4/d) omitted (26.5.2015) by virtue of [The Deregulation Act 2015 (Consequential Amendments) Order 2015 (S.I. 2015/971)](https://www.legislation.gov.uk/uksi/2015/971), [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2015/971/article/1/2/a), [Sch. 3 para. 21(2)](https://www.legislation.gov.uk/uksi/2015/971/schedule/3/paragraph/21/2)
+
+[^key-54f5d5d1eb249d5f25daffe847df0360]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2012/1157/regulation/3) in force at 21.5.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/1157/regulation/1/1)
+
+[^key-da07e533bda56e84b0b485876598541e]: Textual amendment: [Reg. 3(6)(f)](https://www.legislation.gov.uk/uksi/2012/1157/regulation/3/6/f) omitted (26.5.2015) by virtue of [The Deregulation Act 2015 (Consequential Amendments) Order 2015 (S.I. 2015/971)](https://www.legislation.gov.uk/uksi/2015/971), [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2015/971/article/1/2/a), [Sch. 3 para. 21(3)](https://www.legislation.gov.uk/uksi/2015/971/schedule/3/paragraph/21/3)
+
+[^key-ce73a3ad5fe40bce275b2574f1da23ed]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2012/1157/regulation/4) in force at 21.5.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/1157/regulation/1/1)
+
+[^key-78ad24ef4e2185605aab15a78eb18a45]: Commencement: [Sch. Pt. 1 para. 1](https://www.legislation.gov.uk/uksi/2012/1157/schedule/part/1/paragraph/1) in force at 21.5.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/1157/regulation/1/1)
+
+[^key-f9a02518f47cee6bdde8d196d8f1407f]: Commencement: [Sch. Pt. 1 para. 2](https://www.legislation.gov.uk/uksi/2012/1157/schedule/part/1/paragraph/2) in force at 21.5.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/1157/regulation/1/1)
+
+[^key-41b8cf3b0efb3c4f4ba9548c803167cd]: Commencement: [Sch. Pt. 1 para. 3](https://www.legislation.gov.uk/uksi/2012/1157/schedule/part/1/paragraph/3) in force at 21.5.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/1157/regulation/1/1)
+
+[^key-c05df6c056c53bb3d4132ba634888e89]: Commencement: [Sch. Pt. 1 para. 4](https://www.legislation.gov.uk/uksi/2012/1157/schedule/part/1/paragraph/4) in force at 21.5.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/1157/regulation/1/1)
+
+[^key-aef4ca73dae02964f84b6abdc98f1894]: Commencement: [Sch. Pt. 1 para. 5](https://www.legislation.gov.uk/uksi/2012/1157/schedule/part/1/paragraph/5) in force at 21.5.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/1157/regulation/1/1)
+
+[^f00007]: Footnote: [2000 c.21](https://www.legislation.gov.uk/ukpga/2000/21); section 110(5) was amended by paragraph 44 of Schedule 12 to the Education Act [2011 (c.21)](https://www.legislation.gov.uk/ukpga/2011/21).
+
+[^key-e97d5dd554d4707f4e8e1c29f201a20d]: Commencement: [Sch. Pt. 2 para. 1](https://www.legislation.gov.uk/uksi/2012/1157/schedule/part/2/paragraph/1) in force at 21.5.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/1157/regulation/1/1)
+
+[^key-f8e7a9a40fc7eca75ca963cde8c7ba55]: Commencement: [Sch. Pt. 2 para. 2](https://www.legislation.gov.uk/uksi/2012/1157/schedule/part/2/paragraph/2) in force at 21.5.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/1157/regulation/1/1)
+
+[^key-49a699b91b1b9fbbb59eb48396884d33]: Commencement: [Sch. Pt. 2 para. 3](https://www.legislation.gov.uk/uksi/2012/1157/schedule/part/2/paragraph/3) in force at 21.5.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/1157/regulation/1/1)
+
+[^key-cde256497999867bbd7bbf44494a0fc5]: Commencement: [Sch. Pt. 2 para. 4](https://www.legislation.gov.uk/uksi/2012/1157/schedule/part/2/paragraph/4) in force at 21.5.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/1157/regulation/1/1)
+
+[^key-3e4a4f70150a5b4efb40baa21a8ca3a5]: Commencement: [Sch. Pt. 2 para. 5](https://www.legislation.gov.uk/uksi/2012/1157/schedule/part/2/paragraph/5) in force at 21.5.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/1157/regulation/1/1)
+
+[^key-202be2ae96e5e6b82f35a55396436ab1]: Commencement: [Sch. Pt. 2 para. 6](https://www.legislation.gov.uk/uksi/2012/1157/schedule/paragraph/6) in force at 21.5.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/1157/regulation/1/1)
+
+[^key-b69833834867f430a5ca7d5107bbb75c]: Commencement: [Sch. Pt. 2 para. 7](https://www.legislation.gov.uk/uksi/2012/1157/schedule/paragraph/7) in force at 21.5.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/1157/regulation/1/1)
+
+[^key-9f02e1cdd16bfbf74f0b3e5da85ddf11]: Commencement: [Sch. Pt. 2 para. 8](https://www.legislation.gov.uk/uksi/2012/1157/schedule/paragraph/8) in force at 21.5.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/1157/regulation/1/1)

@@ -1,0 +1,392 @@
+---
+title: Education (Student Loans) Act 1990
+id: ukpga/1990/6
+type: UnitedKingdomPublicGeneralAct
+category: primary
+status: repealed
+made_date: '1990-04-26'
+text_date: '2010-05-05'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/1990/6
+pdf_urls:
+- http://www.legislation.gov.uk/ukpga/1990/6/pdfs/ukpga_19900006_en.pdf
+- http://www.legislation.gov.uk/ukpga/1990/6/data.pdf
+pending_changes: 0
+repealed_on: '1998-08-13'
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Education (Student Loans) Act 1990
+
+> This law has been repealed or revoked. Ended on 1998-08-13.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+[^key-8eb8bdf4e56e947b1aefc0209f3e29ae]Education (Student Loans) Act 1990 (repealed 13.8.1998)
+
+1990 c. 6
+
+**No longer in force (ended 1998-08-13).**
+
+## 1. Loans for students.
+
+*Extent: E+W+S*
+
+(1) The Secretary of State may make arrangements for enabling eligible students to receive loans towards their maintenance out of money made available by him for that purpose.
+
+(1A)[^c9303851] The Secretary of State may, in pursuance of arrangements with persons by whom private sector student loans are made, pay subsidy to those persons in respect of such loans; and in this subsection “**private sector student loans**” means loans made to eligible students towards their maintenance otherwise than out of money made available by the Secretary of State.
+
+(1B)[^c9303861] In this Act—
+
+- (a) references to public sector student loans are to loans under arrangements made under subsection (1) above; and
+- (b) references to subsidised private sector student loans are to loans in respect of which arrangements such as are mentioned in subsection (1A) above provide for the payment (at any time or in any circumstances) of subsidy under that subsection.
+
+(2) For the purposes of this section eligible students are those who—
+
+- (a) are attending courses of higher education which are of at least one academic year’s duration and either are at institutions receiving support from public funds or (being at other institutions) are designated for the purposes of this section by or under regulations made by the Secretary of State; and
+- (b) satisfy such other conditions as may be prescribed by regulations made by him.
+
+(3) In this section “**courses of higher education**” means courses of any description mentioned in Schedule 1 to this Act and “**institutions receiving support from public funds**” means—
+
+- (a) universities and other institutions receiving grants under section 65 of the Further and Higher Education Act 1992[^c9303871] or under section 5 of the Education Act 1994[^c9303881], institutions maintained by local education authorities in exercise of their further and higher education functions, institutions receiving recurrent grants towards their costs from a further education funding council[^c9303891] and institutions receiving recurrent grants towards their costs under regulations made under section 485 of the Education Act 1996[^c9303901];
+- (b)[^c9303911] educational establishments within the meaning of section 135(1) of the Education (Scotland) Act 1980 for the provision of any form of further education for the management of which establishment an education authority is responsible, colleges of further education within the meaning of section 36(1) of the Further and Higher Education (Scotland) Act 1992 managed by boards of management established under Part I of that Act and designated institutions within the meaning of Part II of that Act of 1992
+- (c) the Queen’s University of Belfast, the University of Ulster, a college of education in Northern Ireland within the meaning of Article 2(2) of the [^c9303921]Education and Libraries (Northern Ireland) Order 1986 and institutions providing in Northern Ireland further education as defined in Article 5(c) of that Order.
+
+(4) The Secretary of State may by order amend Schedule 1 to this Act but before doing so shall consult any persons with whom consultation appears to him to be desirable.
+
+(5) Schedule 2 to this Act shall have effect in relation to public sector student loans and subsidised private sector student loans[^c9303931].
+
+(6) The power to make orders under subsection (4) above shall be exercisable by statutory instrument and no such order shall be made unless a draft of it has been laid before and approved by a resolution of each House of Parliament.
+
+(7) The power to make regulations under this section or Schedule 2 to this Act shall be exercisable by statutory instrument which, subject to subsection (8) below and paragraph 1(2) of that Schedule, shall be subject to annulment in pursuance of a resolution of either House of Parliament and any such regulations may make different provision for different cases.
+
+(8) A draft of the first regulations to be made under this section or Schedule 2 to this Act shall be laid before each House of Parliament and those regulations shall not be made unless the draft has been approved by a resolution of each House.
+
+## 1A. Transfer of public sector student loans to the private sector.[^c9303941]
+
+*Extent: E+W+S*
+
+(1) A relevant lender may assign to any other person all or any of the lender’s rights in respect of any public sector student loans.
+
+(2) The Secretary of State may make such arrangements as he thinks fit for the purpose of facilitating, or otherwise in connection with, an assignment under subsection (1) above.
+
+(3) Arrangements under this section may provide for the Secretary of State to make payments of any specified description which—
+
+- (a) are payable in such circumstances, and at such times, as may be specified, and
+- (b) are of such amounts as may be specified in, or determined in accordance with, the arrangements.
+
+(4) Such arrangements may authorise the Secretary of State in specified circumstances—
+
+- (a) to take an assignment from the purchaser of all or any of his rights in respect of any loan to which the arrangements relate, or
+- (b) to direct the purchaser to assign all or any such rights to some other person under subsection (1) above.
+
+(5) Such arrangements may also provide for the appointment of an independent person approved by the Secretary of State with the function of investigating and reporting on any dispute between the purchaser and the borrower under a loan to which the arrangements relate.
+
+(6) Subsections (3) to (5) above shall not be read as affecting the generality of subsection (2) above.
+
+(7) In this section—
+
+- “**assignment**”, in relation to Scotland, means assignation;
+- “**the purchaser**” means the assignee under an assignment under subsection (1) above;
+- “**relevant lender**”, in relation to a public sector student loan, means the person who made the loan or the assignee under an assignment under subsection (1) above;
+- “**specified**” means specified in arrangements under this section.
+
+## 2. Northern Ireland.
+
+An Order in Council under paragraph 1(1)(b) of Schedule 1 to the [^c9303951]Northern Ireland Act 1974 (legislation for Northern Ireland in the interim period) which contains a statement that it is made only for purposes corresponding to the purposes of this Act—
+
+- (a) shall not be subject to paragraph 1(4) and (5) of that Schedule (affirmative resolution of both Houses of Parliament); but
+- (b) shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+## 3. Financial provisions.
+
+*Extent: E+W+S*
+
+(1) There shall be paid out of money provided by Parliament any sums required by the Secretary of State for making payments under this Act.
+
+(2) Any sums received by the Secretary of State by virtue of this Act shall be paid into the Consolidated Fund.
+
+## 4. Short title, citation, interpretation and extent.
+
+*Extent: E+W+S*
+
+(1) This Act may be cited as the Education (Student Loans) Act 1990.
+
+(2)[^c9303961] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) In this Act “**university**” includes a university college and any college, or institution in the nature of a college, in a university.
+
+(4) Except for section 2 and, as respects institutions in Northern Ireland, the power to make regulations under paragraph 2 of Schedule 2, this Act does not extend to Northern Ireland.
+
+SCHEDULES
+
+## SCHEDULE 1 — Courses of Higher Education
+
+*Extent: E+W+S*
+
+**No longer in force (ended 1998-08-13).**
+
+Section 1(3).
+
+### 1.
+
+A first degree course.
+
+### 2.
+
+A course for the further training of teachers or youth and community workers.
+
+### 3.
+
+A course for the Diploma of Higher Education.
+
+### 4.
+
+A course for the Higher National Diploma or Higher National Certificate of—
+
+- (a) the Business & Technician Education Council; or
+- (b) the Scottish Qualifications Authority[^c9303971].
+
+### 5.
+
+A course for the initial training of teachers for the time being designated by or under regulations made by virtue of section 1(2)(b) and (3)(c) of the [^c9303981]Education Act 1962.
+
+### 6.
+
+A course in preparation for a professional examination of a standard higher than that of—
+
+- (a) examinations at advanced level for the General Certificate of Education or the examination at higher level for the Scottish Certificate of Education; or
+- (b) the examination for the National Certificate or the National Diploma of either the Council or the Authority[^c9303991] mentioned in paragraph 4 above,
+
+not being a course for entry to which a first degree (or equivalent qualification) is normally required.
+
+### 7.
+
+A course providing education (whether or not in preparation for an examination) the standard of which is—
+
+- (a) higher than that of courses providing education in preparation for any of the examinations mentioned in paragraph 6(a) or (b) above; but
+- (b) not higher than that of a first degree course,
+
+and for entry to which a first degree (or equivalent qualification) is not normally required.
+
+## SCHEDULE 2 — Loans for Students[^c9304011][^key-bf965c4f7ba017cddc94741e0977e779]
+
+Section 1(5).
+
+### Principal, interest and payments
+
+*Extent: E+W+S*
+
+**No longer in force (ended 1998-08-13).**
+
+#### 1.
+
+(1) Regulations made by the Secretary of State shall—
+
+- (a) prescribe the maximum amount of the public sector student[^c9304081] loan that may be made to a student in any year;
+- (b)[^c9304091] require the terms of every agreement for a public sector student loan to include—
+  - (i) such terms relating to the time and manner of repayments,
+  - (ii) such terms relating to the interest to be borne by the loan, and
+  - (iii) such terms under which the borrower’s liability may be deferred or cancelled,
+
+  as are prescribed by the regulations.
+
+(2) The maximum amount prescribed under sub-paragraph (1)(a) above for the loan to be made to a student in any year shall not exceed—
+
+- (a) the amount specified as the ordinary maintenance requirement for students of the class or description to which he belongs by regulations having effect for that year under section 1(1) of the [^c9304101]Education Act 1962 (mandatory awards); or
+- (b) if no such amount is specified for students of the class or description to which he belongs, such amount as the Secretary of State considers appropriate for students of that class or description having regard to the amount specified as mentioned in paragraph (a) above;
+
+but regulations, other than the first, made under sub-paragraph (1)(a) above may prescribe a higher maximum if a draft of the regulations has been laid before and approved by a resolution of each House of Parliament.
+
+(3) Regulations made in pursuance of sub-paragraph (1)(b)(i) above[^c9304111] shall make such separate provision as the Secretary of State considers appropriate with respect to the repayment of loans by borrowers who are disabled.
+
+(4)[^c9304121] Regulations made in pursuance of sub-paragraph (1)(b)(ii) above shall make such provision with respect to the rate of interest for the time being applicable to a public sector student loan as the Secretary of State considers appropriate to maintain the value in real terms of the outstanding amount of the loan.
+
+(5) The provision required by sub-paragraph (4) above shall be framed by reference to such index of prices as may be specified in, or determined in accordance with, the regulations.
+
+(6)[^c9304141][^c9304131] Nothing in any regulations under sub-paragraph (1)(b) above shall affect the terms of any agreement for a public sector student loan entered into before the date of the coming into force of the regulations.
+
+### Certificates etc.
+
+**No longer in force (ended 1998-08-13).**
+
+#### 2.[^c9304191]
+
+(1) The Secretary of State may by regulations require the governing bodies of institutions at which eligible students are attending courses to take such steps (whether by the issue of certificates or otherwise) as may be prescribed by the regulations for the purposes of, or in connection with, applications by those students for public sector student loans or subsidised private sector student loans,[^c9304201] including the provision of information when a person ceases to be an eligible student.
+
+(1A)[^c9304211] Regulations under sub-paragraph (1) above may include provision for the making of payments to governing bodies in respect of the taking by them of steps prescribed by the regulations.
+
+(2) For the purposes of this paragraph the governing body, in relation to a university, means the body responsible for the management and administration of its revenue and property and the conduct of its affairs, in relation to
+
+- (a)[^c9304221] an educational establishment (not being a school) within the meaning of section 135(1) of the Education (Scotland) Act 1980 for the provision of any form of further education for the management of which establishment an education authority is responsible, the education authority;
+- (b) a college of further education within the meaning of section 36(1) of the Further and Higher Education (Scotland) Act 1992 which is managed by a board of management established under Part I of that Act, the board of management.
+
+### Public sector student loans: administration[^c9304241]
+
+*Extent: E+W+S*
+
+**No longer in force (ended 1998-08-13).**
+
+#### 3.[^c9304351]
+
+(1) Arrangements made with any person under section 1(1) of this Act may in particular provide for—
+
+- (a) the making of public sector student loans by that person;
+- (b) the terms to be contained in the agreements for such loans, so far as not provided for by or under paragraph 1 above;
+- (c) the making of payments by the Secretary of State to that person for the purpose of enabling him to make such loans or otherwise in connection with such loans;
+- (d) the making of repayments by that person to the Secretary of State; and
+- (e) the provision by that person to the Secretary of State of reports with respect to the working of the arrangements.
+
+(2) Any such arrangements may also provide for the appointment of an independent person approved by the Secretary of State with the function of investigating and reporting on disputes between persons borrowing or intending to borrow by way of public sector student loans and the person with whom the arrangements are made.
+
+### Circulars to minors[^c9304361]
+
+*Extent: E+W+S*
+
+**No longer in force (ended 1998-08-13).**
+
+#### 3A.[^c9304391]
+
+No document sent—
+
+- (a) in connection with public sector student loans by any person with whom arrangements have been made under section 1(1) of this Act;[^c9304401]; or
+- (b) in connection with subsidised private sector student loans by any person making or proposing to make such loans,
+
+shall be regarded as sent with a view to financial gain within the meaning of section 50 of the [^c9304411]Consumer Credit Act 1974 (circulars to minors).
+
+### Restriction on disclosure of information
+
+*Extent: E+W+S*
+
+**No longer in force (ended 1998-08-13).**
+
+#### 4.
+
+(1)[^c9304491] No person with whom arrangements have been made under section 1(1) of this Act shall provide or make available to anyone else (whether for consideration or not) any information held in connection with public sector student loans if the information is to be used for soliciting custom for goods or services.
+
+(1A)[^c9304501] No person making or proposing to make subsidised private sector student loans shall provide or make available to anyone else (whether for consideration or not) any information held in connection with such loans if the information is to be used for soliciting custom for goods or services; but this sub-paragraph does not prevent a member of a group (within the meaning of Part VII of the [^c9304511]Companies Act 1985) providing or making available information to another member of the group.
+
+(2) As respects information constituting personal data for the purposes of the [^c9304521]Data Protection Act 1984 sub-paragraphs (1) and (1A) above are[^c9304531] without prejudice to the requirements of that Act but apply irrespective of any consent given for the purposes of that Act by the person to whom the information relates.
+
+### Insolvency: England and Wales
+
+*Extent: E+W+S*
+
+**No longer in force (ended 1998-08-13).**
+
+#### 5.
+
+(1) There shall not be treated as part of a bankrupt’s estate or claimed for his estate under section 307 or 310 of the [^c9304561]Insolvency Act 1986 any sums to which this paragraph applies and which he receives or is entitled to receive after the commencement of the bankruptcy.
+
+(2) No debt or liability to which a bankrupt is or may become subject in respect of any such sum shall be included in his bankruptcy debts.
+
+(3) This paragraph applies to any sum by way of public sector student loan or subsidised private sector student loan[^c9304571] payable to the bankrupt pursuant to an agreement entered into by him before or after the commencement of the bankruptcy.
+
+### Insolvency: Scotland
+
+*Extent: E+W+S*
+
+**No longer in force (ended 1998-08-13).**
+
+#### 6.
+
+Where, after the date of sequestration of a person’s estate, he receives, or is entitled to receive, sums by way of public sector student loan or subsidised private sector student loan[^c9304591] pursuant to an agreement entered into by him before or after that date—
+
+- (a) the sheriff shall not, in fixing an amount under subsection (2) of section 32 of the [^c9304601]Bankruptcy (Scotland) Act 1985, treat the sums as income of the person;
+- (b) for the purposes of subsection (6) of that section the sums shall not be treated as estate vesting in, or requiring to be conveyed or delivered to, the person’s permanent trustee; and
+- (c) any debt or liability to which the person is, or may become, subject in respect of the sums shall not be treated as a debt or liability—
+  - (i) for the purposes of the sequestration (or of any offer of composition to the permanent trustee); or
+  - (ii) from which the person is discharged, on the expiry of a period after the date of sequestration, under or by virtue of section 54 or 75(4) of that Act (or on an order being made under paragraph 11 of Schedule 4 to that Act as respects him and the permanent trustee).
+
+## Annotations
+
+[^key-8eb8bdf4e56e947b1aefc0209f3e29ae]: Textual amendment: Act repealed (13.8.1998 subject to savings as mentioned in arts. 2, 3 of the commencing S.I.) by [1998 c. 30](https://www.legislation.gov.uk/ukpga/1998/30), [s. 44(2)](https://www.legislation.gov.uk/ukpga/1998/30/section/44/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/1998/30/schedule/4) (with [s. 42(8)](https://www.legislation.gov.uk/ukpga/1998/30/section/42/8)); [S.I. 1998/2004](https://www.legislation.gov.uk/uksi/1998/2004), [arts. 2](https://www.legislation.gov.uk/uksi/1998/2004/article/2), [3](https://www.legislation.gov.uk/uksi/1998/2004/article/3); and Act amended (1.3.2000) by [1998 c. 29](https://www.legislation.gov.uk/ukpga/1998/29), [s. 74(1)](https://www.legislation.gov.uk/ukpga/1998/29/section/74/1), [Sch. 15 para. 10](https://www.legislation.gov.uk/ukpga/1998/29/schedule/15/paragraph/10); [S.I. 2000/183](https://www.legislation.gov.uk/uksi/2000/183), [art. 2](https://www.legislation.gov.uk/uksi/2000/183/article/2); and further amended (1.4.2001) by [2000 c. 21](https://www.legislation.gov.uk/ukpga/2000/21), [ss. 151(3)](https://www.legislation.gov.uk/ukpga/2000/21/section/151/3), [Sch. 10 Pt. IV para. 18(2)](https://www.legislation.gov.uk/ukpga/2000/21/schedule/10/part/IV/paragraph/18/2); [S.I. 2001/654](https://www.legislation.gov.uk/uksi/2001/654), [art. 2(2)](https://www.legislation.gov.uk/uksi/2001/654/article/2/2), [Sch. Pt. II](https://www.legislation.gov.uk/uksi/2001/654/schedule/part/II) (with [art. 3](https://www.legislation.gov.uk/uksi/2001/654/article/3)); and further amended (1.7.2004) by [Higher Education Act 2004 (c. 8)](https://www.legislation.gov.uk/ukpga/2004/8), [s. 42(3)-(5)](https://www.legislation.gov.uk/ukpga/2004/8/section/42/3), [52(1)](https://www.legislation.gov.uk/ukpga/2004/8/section/52/1); and further amended (S.) (1.4.2008) by Bankruptcy and Diligence Act 2007 (asp 3), s. 34(2)(a)(b); and further amended (12.1.2010) by [Apprenticeships, Skills, Children and Learning Act 2009 (c. 22)](https://www.legislation.gov.uk/ukpga/2009/22), [ss. 258(1)](https://www.legislation.gov.uk/ukpga/2009/22/section/258/1), [269(4)](https://www.legislation.gov.uk/ukpga/2009/22/section/269/4); [S.I. 2009/3317](https://www.legislation.gov.uk/uksi/2009/3317), [art. 2](https://www.legislation.gov.uk/uksi/2009/3317/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2009/3317/schedule); and further amended (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 4 para. 5(1)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/4/paragraph/5/1)[(2)(e)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/4/paragraph/5/2/e)
+
+[^c9303851]: Textual amendment: [S. 1(1A)](https://www.legislation.gov.uk/ukpga/1990/6/section/1/1A) inserted (29.4.1996) by [1996 c. 9](https://www.legislation.gov.uk/ukpga/1996/9), [s. 1(1)](https://www.legislation.gov.uk/ukpga/1996/9/section/1/1)
+
+[^c9303861]: Textual amendment: [S. 1(1B)](https://www.legislation.gov.uk/ukpga/1990/6/section/1/1B) inserted (29.4.1996) by [1996 c. 9](https://www.legislation.gov.uk/ukpga/1996/9), [s. 1(2)](https://www.legislation.gov.uk/ukpga/1996/9/section/1/2), [Sch. para. 2(2)](https://www.legislation.gov.uk/ukpga/1996/9/schedule/paragraph/2/2)
+
+[^c9303871]: Textual amendment: Words in [s. 1(3)(a)](https://www.legislation.gov.uk/ukpga/1990/6/section/1/3/a) substituted (1.4.1993) by [Further and Higher Education Act 1992 (c. 13)](https://www.legislation.gov.uk/ukpga/1992/13), [s. 93(1)](https://www.legislation.gov.uk/ukpga/1992/13/section/93/1), [Sch. 8 Pt. I para. 67(a)](https://www.legislation.gov.uk/ukpga/1992/13/schedule/8/part/I/paragraph/67/a); [S.I. 1992/831](https://www.legislation.gov.uk/uksi/1992/831), [art. 2](https://www.legislation.gov.uk/uksi/1992/831/article/2), [Sch. 3](https://www.legislation.gov.uk/uksi/1992/831/schedule/3)
+
+[^c9303881]: Textual amendment: Words in [s. 1(3)(a)](https://www.legislation.gov.uk/ukpga/1990/6/section/1/3/a) inserted (21.9.1994) by [1994 c. 30](https://www.legislation.gov.uk/ukpga/1994/30), [s. 24](https://www.legislation.gov.uk/ukpga/1994/30/section/24), [Sch. 2 para. 9](https://www.legislation.gov.uk/ukpga/1994/30/schedule/2/paragraph/9); [S.I. 1994/2204](https://www.legislation.gov.uk/uksi/1994/2204), [art. 2](https://www.legislation.gov.uk/uksi/1994/2204/article/2)
+
+[^c9303891]: Textual amendment: Words in [s. 1(3)(a)](https://www.legislation.gov.uk/ukpga/1990/6/section/1/3/a) substituted (1.4.1993) by [Further and Higher Education Act 1992 (c. 13)](https://www.legislation.gov.uk/ukpga/1992/13), [s. 93(1)](https://www.legislation.gov.uk/ukpga/1992/13/section/93/1), [Sch. 8 Pt. I para. 67(b)](https://www.legislation.gov.uk/ukpga/1992/13/schedule/8/part/I/paragraph/67/b); [S.I. 1992/831](https://www.legislation.gov.uk/uksi/1992/831), [art. 2](https://www.legislation.gov.uk/uksi/1992/831/article/2), [Sch. 3](https://www.legislation.gov.uk/uksi/1992/831/schedule/3).
+
+[^c9303901]: Textual amendment: Words in [s. 1(3)(a)](https://www.legislation.gov.uk/ukpga/1990/6/section/1/3/a) substituted (1.11.1996) by [1996 c. 56](https://www.legislation.gov.uk/ukpga/1996/56), [ss. 582(1)](https://www.legislation.gov.uk/ukpga/1996/56/section/582/1), [583(2)](https://www.legislation.gov.uk/ukpga/1996/56/section/583/2), [Sch. 37 Pt. I para.98](https://www.legislation.gov.uk/ukpga/1996/56/schedule/37/part/I/paragraph/98) (with [ss. 1(4)](https://www.legislation.gov.uk/ukpga/1996/56/section/1/4), [561](https://www.legislation.gov.uk/ukpga/1996/56/section/561), [562](https://www.legislation.gov.uk/ukpga/1996/56/section/562), [Sch. 39](https://www.legislation.gov.uk/ukpga/1996/56/schedule/39))
+
+[^c9303911]: Textual amendment: [S. 1(3)(b)](https://www.legislation.gov.uk/ukpga/1990/6/section/1/3/b) substituted (16.5.1992 subject to saving in [S.I. 1992/817](https://www.legislation.gov.uk/uksi/1992/817), [art. 4](https://www.legislation.gov.uk/uksi/1992/817/article/4), [Sch. 5](https://www.legislation.gov.uk/uksi/1992/817/schedule/5)) by [Further and Higher Education (Scotland) Act 1992 (c. 37)](https://www.legislation.gov.uk/ukpga/1992/37), [s. 62(2)](https://www.legislation.gov.uk/ukpga/1992/37/section/62/2), [Sch. 9 para. 12(2)](https://www.legislation.gov.uk/ukpga/1992/37/schedule/9/paragraph/12/2); [S.I. 1992/817](https://www.legislation.gov.uk/uksi/1992/817), [art. 3(2)](https://www.legislation.gov.uk/uksi/1992/817/article/3/2), [Sch. 1](https://www.legislation.gov.uk/uksi/1992/817/schedule/1)
+
+[^c9303921]: Marginal citation: [S.I.1986/594 (N.I.3)](https://www.legislation.gov.uk/nisi/1986/594).
+
+[^c9303931]: Textual amendment: Words in [s. 1(5)](https://www.legislation.gov.uk/ukpga/1990/6/section/1/5) substituted (29.4.1996) by [1996 c. 9](https://www.legislation.gov.uk/ukpga/1996/9), [s. 1(2)](https://www.legislation.gov.uk/ukpga/1996/9/section/1/2), SCh. para. 2(3)
+
+[^c9303941]: Textual amendment: [S. 1A](https://www.legislation.gov.uk/ukpga/1990/6/section/1A) inserted (27.1.1998) by [1998 c. 1](https://www.legislation.gov.uk/ukpga/1998/1), [s.1](https://www.legislation.gov.uk/ukpga/1998/1/section/1)
+
+[^c9303951]: Marginal citation: [1974 c. 28](https://www.legislation.gov.uk/ukpga/1974/28).
+
+[^c9303961]: Textual amendment: [S. 4(2)](https://www.legislation.gov.uk/ukpga/1990/6/section/4/2) repealed (1.11.1996) by [1996 c. 56](https://www.legislation.gov.uk/ukpga/1996/56), [ss. 582(1)](https://www.legislation.gov.uk/ukpga/1996/56/section/582/1), [583(2)](https://www.legislation.gov.uk/ukpga/1996/56/section/583/2), [Sch. 38 Pt.I](https://www.legislation.gov.uk/ukpga/1996/56/schedule/38/part/I) (with [ss. 1(4)](https://www.legislation.gov.uk/ukpga/1996/56/section/1/4), [561](https://www.legislation.gov.uk/ukpga/1996/56/section/561), [562](https://www.legislation.gov.uk/ukpga/1996/56/section/562), [Sch. 39](https://www.legislation.gov.uk/ukpga/1996/56/schedule/39))
+
+[^c9303971]: Textual amendment: Words in [Sch. 1 para. 4(b)](https://www.legislation.gov.uk/ukpga/1990/6/schedule/1/paragraph/4/b) substituted (1.4.1997) by [1996 c. 43](https://www.legislation.gov.uk/ukpga/1996/43), [s. 36](https://www.legislation.gov.uk/ukpga/1996/43/section/36), [Sch. 5 para. 6(a)](https://www.legislation.gov.uk/ukpga/1996/43/schedule/5/paragraph/6/a); [S.I. 1997/365](https://www.legislation.gov.uk/uksi/1997/365), [art.2](https://www.legislation.gov.uk/uksi/1997/365/article/2)
+
+[^c9303981]: Marginal citation: [1962 c. 12](https://www.legislation.gov.uk/ukpga/1962/12).
+
+[^c9303991]: Textual amendment: Words in [Sch. 1 para. 6(b)](https://www.legislation.gov.uk/ukpga/1990/6/schedule/1/paragraph/6/b) substituted (1.4.1997) by [1996 c. 43](https://www.legislation.gov.uk/ukpga/1996/43), [s. 36](https://www.legislation.gov.uk/ukpga/1996/43/section/36), [Sch. 5 para. 6(b)](https://www.legislation.gov.uk/ukpga/1996/43/schedule/5/paragraph/6/b); [S.I. 1997/365](https://www.legislation.gov.uk/uksi/1997/365), [art.2](https://www.legislation.gov.uk/uksi/1997/365/article/2)
+
+[^c9304011]: Modification: [Sch. 2](https://www.legislation.gov.uk/ukpga/1990/6/schedule/2) amended*(prosp.)* by [1998 c. 29](https://www.legislation.gov.uk/ukpga/1998/29), [ss. 74(1)](https://www.legislation.gov.uk/ukpga/1998/29/section/74/1), [75(2)(3)](https://www.legislation.gov.uk/ukpga/1998/29/section/75/2/3), [Sch. 15 para.10](https://www.legislation.gov.uk/ukpga/1998/29/schedule/15/paragraph/10)
+
+[^key-bf965c4f7ba017cddc94741e0977e779]: Textual amendment: Act repealed (13.8.1998 subject to savings as mentioned in arts. 2, 3 of the commencing S.I.) by [1998 c. 30](https://www.legislation.gov.uk/ukpga/1998/30), [s. 44(2)](https://www.legislation.gov.uk/ukpga/1998/30/section/44/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/1998/30/schedule/4) (with [s. 42(8)](https://www.legislation.gov.uk/ukpga/1998/30/section/42/8)); [S.I. 1998/2004](https://www.legislation.gov.uk/uksi/1998/2004), [arts. 2](https://www.legislation.gov.uk/uksi/1998/2004/article/2), [3](https://www.legislation.gov.uk/uksi/1998/2004/article/3); and Act amended (1.3.2000) by [1998 c. 29](https://www.legislation.gov.uk/ukpga/1998/29), [s. 74(1)](https://www.legislation.gov.uk/ukpga/1998/29/section/74/1), [Sch. 15 para. 10](https://www.legislation.gov.uk/ukpga/1998/29/schedule/15/paragraph/10); [S.I. 2000/183](https://www.legislation.gov.uk/uksi/2000/183), [art. 2](https://www.legislation.gov.uk/uksi/2000/183/article/2); and further amended (1.4.2001) by [2000 c. 21](https://www.legislation.gov.uk/ukpga/2000/21), [ss. 151(3)](https://www.legislation.gov.uk/ukpga/2000/21/section/151/3), [Sch. 10 Pt. IV para. 18(2)](https://www.legislation.gov.uk/ukpga/2000/21/schedule/10/part/IV/paragraph/18/2); [S.I. 2001/654](https://www.legislation.gov.uk/uksi/2001/654), [art. 2(2)](https://www.legislation.gov.uk/uksi/2001/654/article/2/2), [Sch. Pt. II](https://www.legislation.gov.uk/uksi/2001/654/schedule/part/II) (with [art. 3](https://www.legislation.gov.uk/uksi/2001/654/article/3)); and further amended (1.7.2004) by [Higher Education Act 2004 (c. 8)](https://www.legislation.gov.uk/ukpga/2004/8), [s. 42(3)-(5)](https://www.legislation.gov.uk/ukpga/2004/8/section/42/3), [52(1)](https://www.legislation.gov.uk/ukpga/2004/8/section/52/1); and further amended (S.) (1.4.2008) by Bankruptcy and Diligence Act 2007 (asp 3), s. 34(2)(a)(b)
+
+[^c9304081]: Textual amendment: Words in [Sch. 2 para. 1(1)](https://www.legislation.gov.uk/ukpga/1990/6/schedule/2/paragraph/1/1) inserted (29.4.1996) by [1996 c. 9](https://www.legislation.gov.uk/ukpga/1996/9), [s. 1(2)](https://www.legislation.gov.uk/ukpga/1996/9/section/1/2), [Sch. para. 3(2)(a)](https://www.legislation.gov.uk/ukpga/1996/9/schedule/paragraph/3/2/a)
+
+[^c9304091]: Textual amendment: [Sch. 2 para. 1(1)(b)](https://www.legislation.gov.uk/ukpga/1990/6/schedule/2/paragraph/1/1/b) substituted (1.3.1998) for Sch. 2 para. 1(1)(b)(c) by [1998 c. 1](https://www.legislation.gov.uk/ukpga/1998/1), [s. 2(2)](https://www.legislation.gov.uk/ukpga/1998/1/section/2/2); [S.I. 1998/210](https://www.legislation.gov.uk/uksi/1998/210), [art. 2](https://www.legislation.gov.uk/uksi/1998/210/article/2)
+
+[^c9304101]: Marginal citation: [1962 c. 12](https://www.legislation.gov.uk/ukpga/1962/12).
+
+[^c9304111]: Textual amendment: Words in [Sch. 2 para. 1(3)](https://www.legislation.gov.uk/ukpga/1990/6/schedule/2/paragraph/1/3) substituted (1.3.1998) by [1998 c. 1](https://www.legislation.gov.uk/ukpga/1998/1), [s. 2(3)](https://www.legislation.gov.uk/ukpga/1998/1/section/2/3); [S.I. 1998/210](https://www.legislation.gov.uk/uksi/1998/210), [art.2](https://www.legislation.gov.uk/uksi/1998/210/article/2)
+
+[^c9304121]: Textual amendment: [Sch. 2 para. 1(4)(5)](https://www.legislation.gov.uk/ukpga/1990/6/schedule/2/paragraph/1/4/5) substituted (1.3.1998) by [1998 c. 1](https://www.legislation.gov.uk/ukpga/1998/1), [s. 2(4)](https://www.legislation.gov.uk/ukpga/1998/1/section/2/4); [S.I. 1998/210](https://www.legislation.gov.uk/uksi/1998/210), [art. 2](https://www.legislation.gov.uk/uksi/1998/210/article/2)
+
+[^c9304141]: Modification: [Sch. 2 para. 1(6)](https://www.legislation.gov.uk/ukpga/1990/6/schedule/2/paragraph/1/6) modified (1.3.1998) by [1998 c. 1](https://www.legislation.gov.uk/ukpga/1998/1), [s. 2(7)](https://www.legislation.gov.uk/ukpga/1998/1/section/2/7); [S.I. 1998/210](https://www.legislation.gov.uk/uksi/1998/210), [art. 2](https://www.legislation.gov.uk/uksi/1998/210/article/2)
+
+[^c9304131]: Textual amendment: [Sch. 2 para. 1(6)](https://www.legislation.gov.uk/ukpga/1990/6/schedule/2/paragraph/1/6) inserted (1.3.1998) by [1998 c. 1](https://www.legislation.gov.uk/ukpga/1998/1), [s. 2(5)](https://www.legislation.gov.uk/ukpga/1998/1/section/2/5); [S.I. 1998/210](https://www.legislation.gov.uk/uksi/1998/210), [art. 2](https://www.legislation.gov.uk/uksi/1998/210/article/2)
+
+[^c9304191]: Extent: [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/1990/6/schedule/2/paragraph/2): in so far as it relates to institutions in Northern Ireland, the power to make regulations under this paragraph does not extend to Northern Ireland see [s. 4(4)](https://www.legislation.gov.uk/ukpga/1990/6/section/4/4)
+
+[^c9304201]: Textual amendment: Words in [Sch. 2 para. 2(1)](https://www.legislation.gov.uk/ukpga/1990/6/schedule/2/paragraph/2/1) substituted (29.4.1996) by [1996 c. 9](https://www.legislation.gov.uk/ukpga/1996/9), [s. 1(2)](https://www.legislation.gov.uk/ukpga/1996/9/section/1/2), [Sch. para. 3(3)(a)](https://www.legislation.gov.uk/ukpga/1996/9/schedule/paragraph/3/3/a)
+
+[^c9304211]: Textual amendment: [Sch. 2 para. 2(1A)](https://www.legislation.gov.uk/ukpga/1990/6/schedule/2/paragraph/2/1A) inserted (29.4.1996) by [1996 c. 9](https://www.legislation.gov.uk/ukpga/1996/9), [s. 1(2)](https://www.legislation.gov.uk/ukpga/1996/9/section/1/2), [Sch. para. 3(3)(b)](https://www.legislation.gov.uk/ukpga/1996/9/schedule/paragraph/3/3/b)
+
+[^c9304221]: Textual amendment: [Sch. 2 para. 2(2)(a)(b)](https://www.legislation.gov.uk/ukpga/1990/6/schedule/2/paragraph/2/2/a/b) substituted for words (1.4.1993) by [Further and Higher Education (Scotland) Act 1992 (c. 37)](https://www.legislation.gov.uk/ukpga/1992/37), [s. 62(2)](https://www.legislation.gov.uk/ukpga/1992/37/section/62/2), [Sch. 9 para. 12(3)](https://www.legislation.gov.uk/ukpga/1992/37/schedule/9/paragraph/12/3); [S.I. 1992/817](https://www.legislation.gov.uk/uksi/1992/817), [art. 3(2)](https://www.legislation.gov.uk/uksi/1992/817/article/3/2), [Sch. 4](https://www.legislation.gov.uk/uksi/1992/817/schedule/4)
+
+[^c9304241]: Textual amendment: Cross heading immediately preceding Sch. 2 para. 3 substituted (29.4.1996) by [1996 c. 9](https://www.legislation.gov.uk/ukpga/1996/9), [s. 1(2)](https://www.legislation.gov.uk/ukpga/1996/9/section/1/2), [Sch. para. 3(4)(e)](https://www.legislation.gov.uk/ukpga/1996/9/schedule/paragraph/3/4/e) and (1.3.1998) by virtue of [1998 c. 1](https://www.legislation.gov.uk/ukpga/1998/1), [s. 3(1)](https://www.legislation.gov.uk/ukpga/1998/1/section/3/1) (with [s. 3(4)(5)](https://www.legislation.gov.uk/ukpga/1998/1/section/3/4/5)); [S.I. 1998/210](https://www.legislation.gov.uk/uksi/1998/210), [art.2](https://www.legislation.gov.uk/uksi/1998/210/article/2)
+
+[^c9304351]: Textual amendment: [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/1990/6/schedule/2/paragraph/3) substituted (1.3.1998) by [1998 c. 1](https://www.legislation.gov.uk/ukpga/1998/1), [s. 3(1)](https://www.legislation.gov.uk/ukpga/1998/1/section/3/1) (with [s. 3(4)(5)](https://www.legislation.gov.uk/ukpga/1998/1/section/3/4/5)); [S.I. 1998/210](https://www.legislation.gov.uk/uksi/1998/210), [art.2](https://www.legislation.gov.uk/uksi/1998/210/article/2)
+
+[^c9304361]: Textual amendment: Heading and Sch. 2 para. 3A substituted (29.4.1996) for Sch. 2 para. 3(8) by [1996 c. 9](https://www.legislation.gov.uk/ukpga/1996/9), [s. 1(2)](https://www.legislation.gov.uk/ukpga/1996/9/section/1/2), [Sch. para. 3(5)](https://www.legislation.gov.uk/ukpga/1996/9/schedule/paragraph/3/5)
+
+[^c9304391]: Textual amendment: Heading and Sch. 2 para. 3A substituted (29.4.1996) for Sch. 2 para. 3(8) by [1996 c. 9](https://www.legislation.gov.uk/ukpga/1996/9), [s. 1(2)](https://www.legislation.gov.uk/ukpga/1996/9/section/1/2), [Sch. para. 3(5)](https://www.legislation.gov.uk/ukpga/1996/9/schedule/paragraph/3/5)
+
+[^c9304401]: Textual amendment: Words in [Sch. 2 para. 3A(a)](https://www.legislation.gov.uk/ukpga/1990/6/schedule/2/paragraph/3A/a) substituted (1.3.1998) by [1998 c. 1](https://www.legislation.gov.uk/ukpga/1998/1), [s. 3(2)](https://www.legislation.gov.uk/ukpga/1998/1/section/3/2)
+
+[^c9304411]: Marginal citation: [1974 c. 39](https://www.legislation.gov.uk/ukpga/1974/39).
+
+[^c9304491]: Textual amendment: [Sch. 2 para. 4(1)](https://www.legislation.gov.uk/ukpga/1990/6/schedule/2/paragraph/4/1) substituted (1.3.1998) by [1998 c. 1](https://www.legislation.gov.uk/ukpga/1998/1), [s. 3(3)](https://www.legislation.gov.uk/ukpga/1998/1/section/3/3); [S.I. 1998/210](https://www.legislation.gov.uk/uksi/1998/210), [art. 2](https://www.legislation.gov.uk/uksi/1998/210/article/2)
+
+[^c9304501]: Textual amendment: [Sch. 2 para. 4(1A)](https://www.legislation.gov.uk/ukpga/1990/6/schedule/2/paragraph/4/1A) inserted (29.4.1996) by [1996 c. 9](https://www.legislation.gov.uk/ukpga/1996/9), [s. 1(2)](https://www.legislation.gov.uk/ukpga/1996/9/section/1/2), [Sch. para. 3(6)(b)](https://www.legislation.gov.uk/ukpga/1996/9/schedule/paragraph/3/6/b)
+
+[^c9304511]: Marginal citation: [1985 c. 6](https://www.legislation.gov.uk/ukpga/1985/6).
+
+[^c9304521]: Marginal citation: [1984 c. 35](https://www.legislation.gov.uk/ukpga/1984/35).
+
+[^c9304531]: Textual amendment: Words in [Sch. 2 para. 4(2)](https://www.legislation.gov.uk/ukpga/1990/6/schedule/2/paragraph/4/2) substituted (29.4.1996) by [1996 c. 9](https://www.legislation.gov.uk/ukpga/1996/9), [s. 1(2)](https://www.legislation.gov.uk/ukpga/1996/9/section/1/2), [Sch. para. 3(6)(c)](https://www.legislation.gov.uk/ukpga/1996/9/schedule/paragraph/3/6/c)
+
+[^c9304561]: Marginal citation: [1986 c. 45](https://www.legislation.gov.uk/ukpga/1986/45).
+
+[^c9304571]: Textual amendment: Words in [Sch. 2 para. 5(3)](https://www.legislation.gov.uk/ukpga/1990/6/schedule/2/paragraph/5/3) substituted (29.4.1996) by [1996 c. 9](https://www.legislation.gov.uk/ukpga/1996/9), [s. 1(2)](https://www.legislation.gov.uk/ukpga/1996/9/section/1/2), [Sch. para. 3(7)](https://www.legislation.gov.uk/ukpga/1996/9/schedule/paragraph/3/7)
+
+[^c9304591]: Textual amendment: Words in [Sch. 2 para. 6](https://www.legislation.gov.uk/ukpga/1990/6/schedule/2/paragraph/6) substituted (29.4.1996) by [1996 c. 9](https://www.legislation.gov.uk/ukpga/1996/9), [s. 1(2)](https://www.legislation.gov.uk/ukpga/1996/9/section/1/2), [Sch. para. 3(7)](https://www.legislation.gov.uk/ukpga/1996/9/schedule/paragraph/3/7)
+
+[^c9304601]: Marginal citation: [1985 c. 66](https://www.legislation.gov.uk/ukpga/1985/66).

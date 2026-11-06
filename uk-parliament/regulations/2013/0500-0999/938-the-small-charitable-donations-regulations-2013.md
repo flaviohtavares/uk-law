@@ -1,0 +1,434 @@
+---
+title: The Small Charitable Donations Regulations 2013
+id: uksi/2013/938
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2013-04-18'
+text_date: '2026-04-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2013/938
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2013/938/pdfs/uksiem_20130938_en.pdf
+- http://www.legislation.gov.uk/uksi/2013/938/pdfs/uksi_20130938_en.pdf
+- http://www.legislation.gov.uk/uksi/2013/938/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Small Charitable Donations Regulations 2013
+
+> Text as at 2026-04-01.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2013 No. 938
+
+Charities
+
+The Small Charitable Donations Regulations 2013
+
+Made
+
+18th April 2013
+
+Coming into force in accordance with regulation 1
+
+The Commissioners for Her Majesty’s Revenue and Customs make the following Regulations in exercise of the powers conferred by sections 11, 12(6), 13(7) and 17(3) of the Small Charitable Donations Act 2012[^f00001].
+
+In accordance with section 17(2) of that Act, a draft of this instrument was laid before the House of Commons and approved by a resolution of the House of Commons.
+
+## 1. Citation and commencement[^key-9ba6711c0964d6dbfd19ca452e1534db]
+
+These Regulations may be cited as the Small Charitable Donations Regulations 2013 and come into force on the day after the day on which they are made.
+
+## 2. Interpretation[^key-da4eb52fdf9ee300226b703eabfcaa88]
+
+In these Regulations—
+
+- “the 2012 Act” means the Small Charitable Donations Act 2012;
+- “overpayment” means an amount paid to a charity under section 1 of the 2012 Act to which the charity was not, or has ceased to be, entitled;
+- “TMA 1970” means the Taxes Management Act 1970[^f00002].
+
+## 3. Making and giving effect to top-up claims[^key-f32d964bfa84c24a058d3ea645811ac9]
+
+(1) Subject to the modifications in paragraph (2), and to paragraph (3), Schedule 1A to TMA 1970[^f00003] (claims etc not included in returns) applies in relation to—
+
+- (a) making and amending top-up claims and giving effect to top-up claims and amendments;
+- (b) enquiring into top-up claims and completing an enquiry by issue of a closure notice;
+- (c) amending a top-up claim in a closure notice and appealing against any such amendment,
+
+as it applies to a claim or election under the Tax Acts[^f00004] made otherwise than in a return.
+
+(2) The modifications are—
+
+- (a) a reference to an amount of tax to be discharged or repaid is to be treated as a reference to an amount of top-up payment to be made;
+- (b) a reference to the discharge or repayment of tax is to be treated as a reference to the making of a top-up payment;
+- (c) a reference to a year of assessment or accounting period is to be treated as a reference to a tax year;
+- (d) in paragraph 4(1), for “Subject to sub-paragraphs (1A), (3) to (5)” substitute “Subject to sub-paragraph (3)”.
+
+(3) In applying Schedule 1A to TMA 1970 for the purposes of this regulation, omit—
+
+- (a) paragraph 2(2);
+- (b) in paragraph 2A—
+  - (i) sub-paragraph (2A);
+  - (ii) in sub-paragraph (3), “sub-paragraph (3A) and”;
+  - (iii) sub-paragraph (3A);
+  - (iv) in sub-paragraph (4), “Subject to sub-paragraph (5) below,”;
+  - (v) sub-paragraphs (5) and (7);
+- (c) in paragraph 4—
+  - (i) sub-paragraphs (1A) and (2);
+  - (ii) in sub-paragraph (3), “or (2)”;
+  - (iii) sub-paragraphs (4) and (5);
+- (d) in paragraph 5—
+  - (i) in sub-paragraph (1), “or, in the case of a partnership claim, any successor of that person”;
+  - (ii) in sub-paragraph (3), paragraph (b) and the “or” immediately preceding it;
+- (e) paragraph 7(3) and (8);
+- (f) in paragraph 8—
+  - (i) in sub-paragraph (1), the words from “whether—” to the end;
+  - (ii) sub-paragraphs (2) and (3);
+- (g) in paragraph 9—
+  - (i) in sub-paragraph (1), paragraph (b) and the “or” immediately preceding it;
+  - (ii) sub-paragraphs (2) and (5).
+
+(4) No top-up claim may be made more than 2 years after the end of the tax year to which the claim relates.
+
+## 3A. Notices under section 9A(1) of the 2012 Act[^key-9c6ba39012e57c200af40b653365341c]
+
+(1) A notice under section 9A(1) of the 2012 Act is to be in such form, contain such particulars, and be accompanied by such information as HMRC may determine.
+
+(2) HMRC may in particular—
+
+- (a) require or permit a notice to be given by each connected eligible charity separately, or by all of the connected eligible charities jointly;
+- (b) permit a notice to be given by two or more of the connected eligible charities jointly.
+
+(3) A notice in relation to a tax year may not be given—
+
+- (a) more than 2 years after the end of that tax year;
+- (b) after the end of the period of 12 months beginning with the day on which a top-up claim in respect of small donations made in that tax year is first made by any of the connected eligible charities.
+
+## 4. Information powers: orders for delivery of documents[^key-188d25324fc42fb4c0e606b5168d28de]
+
+The following provisions of TMA 1970 apply to an offence involving serious fraud in connection with, or in relation to, the making of a top-up claim as they apply to such an offence in connection with, or in relation to, tax—
+
+- (a) section 20BA[^f00005] (orders for the delivery of documents);
+- (b) section 20BB[^f00006] (falsification etc of documents);
+- (c) section 20D[^f00007] (interpretation of sections 20 to 20CC);
+- (d) Schedule 1AA[^f00008] (orders for production of documents).
+
+## 5. Information and inspection powers[^key-422fe562e6ddd32384450a592f7b6287]
+
+(1) Subject to the modifications in paragraph (2), and to paragraph (3), Schedule 36 to the Finance Act 2008[^f00009] (information and inspection powers) applies to checking a charity’s position in relation to a top-up claim or an overpayment as it applies to checking a person’s tax position.
+
+(2) The modifications are—
+
+- (a) a reference to checking a person’s tax position is to be treated as a reference to checking a charity’s position in relation to a top-up claim or an overpayment;
+- (b) a reference to a taxpayer is to be treated as a reference to a charity;
+- (c) a reference to prejudice to the assessment or collection of tax is to be treated as a reference to prejudice to the assessment or collection of an overpayment;
+- (d) in paragraph 5(4)(b), for “tax” substitute “top-up claims”;
+- (e) in paragraph 19(1)(a), for “tax” substitute “a top-up claim or an overpayment”;
+- (f) in paragraph 25, a reference to a tax adviser is to be treated as a reference to a person appointed to give advice to a charity in relation to a top-up claim or an overpayment;
+- (g) in paragraph 50—
+  - (i) in sub-paragraph (1)(c), for “the amount of tax that the person has paid, or is likely to pay, is significantly less” substitute “the amount of overpayment made, or likely to be made, to a charity, is significantly more”;
+  - (ii) in sub-paragraph (3), for “the amount of tax which has not been, or is not likely to be, paid by the person” substitute “the amount of overpayment which has been, or is likely to be, made to a charity”;
+- (h) in paragraph 62(1), after “the Taxes Acts,” omit the “or” and insert—
+
+  > - (aa) the Small Charitable Donations Act 2012, or
+
+  .
+
+(3) In applying Schedule 36 to the Finance Act 2008 for the purposes of this regulation, omit—
+
+- (a) paragraphs 10A and 11;
+- (b) in the heading to paragraph 12 and in sub-paragraph (1) of that paragraph, “10A or 11”;
+- (c) paragraphs 12A and 12B;
+- (d) in paragraph 13—
+  - (i) in sub-paragraph (1A), “(except as required under sub-paragraph (2A))”;
+  - (ii) in sub-paragraph (2), “10A or 11”;
+  - (iii) sub-paragraphs (2A) and (2B);
+- (e) paragraph 17;
+- (f) paragraphs 21 to 22;
+- (g) paragraphs 33 to 38;
+- (h) paragraph 41;
+- (i) in paragraph 50(6)—
+  - (i) paragraph (a);
+  - (ii) paragraph (c) and the “and” immediately preceding it;
+- (j) paragraphs 56 and 57;
+- (k) paragraph 60(3);
+- (l) paragraphs 61 and 61A;
+- (m) paragraphs 63 to 92.
+
+## 6. Agents of the charity: information powers and penalties[^key-b3a4108a31f9fc9842425c296fce8854]
+
+(1) Subject to the modifications in paragraph (2), and to paragraph (3), Parts 1 to 6 of Schedule 38 to the Finance Act 2012 (tax advisers: sanctionable conduct[^key-343800fb5f967c540f55e8add75cc755]) apply to an individual who, in the course of business, assists a charity in connection with a top-up claim, a top-up payment or an overpayment as they apply to tax advisers[^key-ea9b09e32f81a8dc8b836f05f7d7947b].
+
+(2) The modifications are—
+
+- (a) a reference to a tax adviser[^key-dcb317c7d6cb1e917fb9b96df033d576] is to be treated as a reference to an individual who, in the course of business, assists a charity in connection with a top-up claim, a top-up payment or an overpayment;
+- (b) a reference to a client’s tax affairs or tax position is to be treated as a reference to the affairs or position of a charity in relation to a top-up claim, a top-up payment or an overpayment;
+- (c) a reference to a loss of tax revenue or to the tax revenue lost is to be treated as a reference to an overpayment, and a loss of tax revenue is brought about for the purposes of paragraph 3(1) and (4) if an eligible charity obtains a top-up payment to which it is not, or has ceased to be, entitled;
+- (d) in paragraph 7(3)(a), the reference to an offence relating to tax is to be treated as including a reference to an offence committed in connection with a top-up claim, a top-up payment or an overpayment;
+- (e) in paragraph 15(1)(a), for “tax” substitute “a top-up claim or an overpayment”;
+- (f) in paragraph 27(3)(b), for “a loss of tax revenue from a client is balanced by an overpayment” substitute “an overpayment to a client charity is balanced by an amount paid to HMRC”.
+
+(3) In applying Schedule 38 to the Finance Act 2012 for the purposes of this regulation, omit paragraphs 36 and 37.
+
+## 7. Overpayments: making and notifying assessment[^key-f81d824c9a7c72e20e5f8362d6ccf119]
+
+(1) Where an officer of Revenue and Customs discovers that an overpayment has been made, the officer may make an assessment in the amount to be repaid to HMRC by the charity*.*
+
+(2) Notice of an assessment under this regulation—
+
+- (a) shall be served on the charity assessed;
+- (b) shall state the amount of overpayment and the reason why, in the officer’s view, the charity is not, or has ceased to be, entitled to it;
+- (c) shall state the date of issue of the assessment and the time within which an appeal against it may be made;
+- (d) may contain an assessment of overpayments relating to more than one tax year.
+
+(3) In the case of a charity which is a trust, an assessment under this regulation may be made on, and in the name of, any one or more of the trustees in the tax year in which the assessment is made.
+
+## 8. Overpayments: time limit for assessment[^key-99b4411cdffa1b232fbf3a853a6ca28c]
+
+(1) Subject to paragraphs (2) and (3), an assessment of an overpayment may be made at any time not more than 4 years after the end of the tax year to which it relates.
+
+(2) An assessment involving an overpayment brought about carelessly by a charity, or by a person acting on its behalf, may be made at any time not more than 6 years after the end of the tax year to which it relates.
+
+(3) An assessment involving an overpayment brought about deliberately by a charity, or by a person acting on its behalf, may be made at any time not more than 20 years after the end of the tax year to which it relates.
+
+(4) An assessment of an overpayment shall not be out of time if it is made before the relevant date.
+
+(5) The relevant date for the purposes of paragraph (4) is the later of—
+
+- (a) the last day of the tax year following that in which an officer of Revenue and Customs discovered the overpayment; or
+- (b) where a top-up claim made by a charity is enquired into by an officer of Revenue and Customs, the day on which, by virtue of paragraph 7(1) of Schedule 1A to TMA 1970 as applied by regulation 3, the enquiry is completed.
+
+(6) An objection to the making of an assessment of an overpayment on the ground that it is out of time shall only be made on an appeal against the assessment.
+
+## 9. Overpayments: altering an assessment and payment of amount assessed[^key-5929c58bbc2ede1b49d251d62bb05569]
+
+(1) After the notice of an assessment of an overpayment has been served on a charity, the assessment shall not be altered except in accordance with the provisions of TMA 1970 applied to it by regulation 11(1).
+
+(2) Subject to section 55 of TMA 1970 as applied by regulation 11(2), an amount assessed as an overpayment must be paid to HMRC within 30 days of the date of service on the charity of the notice of assessment.
+
+## 10. Overpayments: appeal against assessment[^key-8c7e0703a42f3cecff7ff1100ca4ba9d]
+
+(1) An appeal may be brought against an assessment of an overpayment.
+
+(2) Notice of an appeal under paragraph (1) must—
+
+- (a) specify the grounds of appeal, and
+- (b) be given—
+  - (i) in writing to the officer of Revenue and Customs by whom the notice of assessment was given;
+  - (ii) within 30 days of the date of service on the charity of the notice of assessment.
+
+## 11. Overpayments: application of TMA 1970 to appeals against assessments[^key-87dbcda46697b9640e5f3e491ae170a0]
+
+(1) The following provisions of TMA 1970 apply to an appeal against an assessment of an overpayment as they apply to an appeal against an assessment to tax—
+
+- (a) section 49[^f00010] (late notice of appeal);
+- (b) sections 49A to 49I (appeal: HMRC review or determination by tribunal);
+- (c) section 50(6), (7), (10) and (11)(a) and (b)[^f00011] (procedure);
+- (d) section 54[^f00012] (settling of appeals by agreement).
+
+(2) Subject to the modification in paragraph (4), section 55[^f00013] (recovery of tax not postponed) of TMA 1970 applies to an appeal against an assessment of an overpayment as it applies to an appeal to the tribunal against an assessment to tax other than a self-assessment.
+
+(3) Subject to the modification in paragraph (4), section 56[^f00014] (payment of tax where there is a further appeal) of TMA 1970 applies for the purposes of payment of an amount determined as an overpayment as it applies to an amount of tax determined as payable or repayable.
+
+(4) The modification is that a reference to tax is to be treated as a reference to an overpayment.
+
+## 12. Collection and recovery[^key-753ad1962dd1b6a1a0cb67a6b65696a2]
+
+Part 6 of TMA 1970[^f00015] (collection and recovery) applies to overpayments, interest and penalties which have become due and payable under these Regulations as it applies to income tax, interest charged and penalties imposed under that Act.
+
+## 13. Persons chargeable in a representative capacity[^key-79cc3df404adbc8e93cdeab22391203b]
+
+Sections 71[^f00016] (bodies of persons) and 75 (receivers appointed by a court) of TMA 1970 apply to overpayments as they apply to income tax chargeable to any person.
+
+## 14. Interest[^key-4767c4f5da92ab09848d521ff4aea593]
+
+Sections 101 (late payment interest on sums due to HMRC) and 103 (rates of interest) of, and paragraphs 3 and 4 of Schedule 53 (late payment interest) to, the Finance Act 2009[^f00017] together with any regulations made by the Treasury under section 103 of that Act, apply to overpayments which have become due and payable under these Regulations as they apply for the purposes of any amount payable by a person to HMRC under or by virtue of an enactment.
+
+## 15. Penalties[^key-8be3aa078b2b1eb623d086dd931ee2c3]
+
+(1) Subject to the modifications in paragraph (2), and to paragraph (3), Schedule 24 to the Finance Act 2007[^f00018] (penalties for errors) applies in connection with a top-up claim as it applies to income tax for the purposes of—
+
+- (a) liability for penalties;
+- (b) the calculation and assessment of penalties; and
+- (c) appeals against the assessment of penalties.
+
+(2) The modifications are—
+
+- (a) in paragraphs 1(1) and 1A(1), the reference to a document of a kind listed in the Table includes a reference to a document containing a top-up claim;
+- (b) in paragraphs 1(2) and 1A(2), the reference to a false or inflated claim to repayment of tax is to be treated as a reference to a false or inflated top-up claim;
+- (c) in paragraph 5(1), the reference to an additional amount due or payable in respect of tax is to be treated as a reference to an amount of overpayment due or payable;
+- (d) in paragraph 18, a reference to tax is to be treated as a reference to a top-up claim.
+
+(3) In applying Schedule 24 to the Finance Act 2007 for the purposes of this regulation, omit—
+
+- (a) paragraph 2 and references to that paragraph or to the failure to notify or disclose an under-assessment in paragraphs 5, 9, 11, 13, 18 and 21;
+- (b) paragraph 4(3) to (5);
+- (c) paragraph 4A(1)(b) and the “or” immediately preceding it, (2), (3) and (7);
+- (d) paragraph 4C;
+- (e) paragraph 5(2) to (4);
+- (f) paragraphs 6 to 8;
+- (g) paragraph 12;
+- (h) paragraph 13(4) and (7);
+- (i) paragraphs 19 and 20;
+- (j) paragraphs 21A and 21B;
+- (k) paragraphs 24 to 27;
+- (l) paragraphs 29 to 31.
+
+## 16. Penalties: publishing details of defaulters[^key-04d7e85a270a8df918b8351a12420184]
+
+(1) Subject to the modifications in paragraph (2), and to paragraph (3), section 94 of the Finance Act 2009 (publishing details of deliberate tax defaulters) applies to a charity and its managers where they have incurred one or more penalties in relation to a top-up claim as it applies to a person who has incurred a tax penalty.
+
+(2) The modifications are—
+
+- (a) a reference to a relevant tax penalty is to be treated as a reference to a penalty under paragraph 1(1) or 1A(1) of Schedule 24 to the Finance Act 2007 as applied by regulation 15;
+- (b) a reference to potential lost revenue is to be treated as a reference to the amount of overpayment to be repaid to HMRC as a result of correcting the inaccuracy to which the penalty relates;
+- (c) all references to Schedule 41 to the Finance Act 2008 (penalties: failure to notify and certain VAT and excise wrongdoing) are omitted.
+
+(3) In applying section 94 of the Finance Act 2009 for the purposes of this regulation, omit subsections (12) to (15).
+
+(4) In this regulation, “managers”, in relation to a charity, means the persons having the general control and management of the administration of the charity and includes the trustees of a charity which is a trust.
+
+## 17. Charity mergers: applications[^key-e33f0b4d7bafbead977ddf70ba7e74ad]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 18. Charity mergers: elections as to relevant old charity under section 13(4)(d)[^key-e33f0b4d7bafbead977ddf70ba7e74ad]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 19. Charity mergers: HMRC decisions and appeals[^key-e33f0b4d7bafbead977ddf70ba7e74ad]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 20. Documents: form, delivery, service and lodgement[^key-15e30a2905909a25b674a028d4d99efa]
+
+Sections 108(1)[^f00019] and 113 to 115A[^f00020] of, and Schedule 3A to, TMA 1970 (documents) apply to claims, assessments, applications, elections and other documents made, required, issued, served, sent or lodged for the purposes of or in connection with a top-up claim, top-up payment or overpayment as they apply to documents for the purposes of or in connection with income tax.
+
+Jim Harra
+
+Nick Lodge
+
+Two of Her Majesty’s Commissioners for Revenue and Customs
+
+18th April 2013
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations provide for the administration of top-up claims, top-up payments and overpayments under the Small Charitable Donations Act 2012 (“the 2012 Act”). They also apply and incorporate, for the purposes of such administration, provisions of the Tax Acts and the Taxes Management Act 1970 (“TMA 1970”) which apply for the purposes of gift aid relief from income tax and corporation tax.
+
+Regulation 1 and 2 provide for citation, commencement and interpretation.
+
+Regulation 3 applies, with modifications, the provisions of Schedule 1A to the TMA 1970 for the purposes of making and giving effect to top-up claims and amendments, enquiring into top-up claims, completing enquiries and amending claims by closure notice and appealing against any such amendments. The provisions of Schedule 1A will have effect in relation to top-up claims in the same way as they apply to claims for discharge or repayment of tax. Where provisions of the Schedule are not relevant for top-up claims, they are omitted.
+
+Regulations 4 and 5 apply, for the purposes of top-up claims, provisions dealing with obtaining information and documents in relation to tax. Where an offence involving serious fraud in relation to a top-up claim is suspected, sections 20BA and 20BB of TMA 1970 apply, providing for an order for delivery of documents and for the offence of falsifying, concealing or destroying documents. The main information provisions relating to tax in Schedule 36 to the Finance Act 2008 also apply. These enable Her Majesty’s Revenue and Customs (“HMRC”) to obtain information and documents in order to check that a charity has complied with the 2012 Act in relation to a top-up claim and in order to establish whether there has been an overpayment under section 10 of that Act.
+
+Regulation 6 applies for the purposes of top-up claims the information and penalty provisions in Schedule 38 to the Finance Act 2012. This Schedule provides that tax agents who engage in dishonest conduct can be subject to penalties and that officers of Revenue and Customs can obtain relevant documents from such agents. The regulation applies these provisions, with modifications, in relation to an individual who in the course of business assists a charity in connection with a top-up claim.
+
+Regulations 7 to 11 make provision in relation to overpayments under section 10 of the 2012 Act. Regulations 7 to 9 provide for notice of an assessment of an overpayment to be given to a charity by an officer of Revenue and Customs. The notice must state the overpayment amount and the time for payment. Time limits apply to the making of an assessment and, once served on the charity, the notice of assessment cannot be altered except on appeal. Regulations 10 and 11, which provide for an appeal against an assessment, incorporate and apply to overpayments the main tax appeal provisions in Part 5 of TMA 1970. Regulation 12 applies the relevant collection and recovery provisions in Part 6 of TMA 1970 for the purposes of collecting and recovering an overpayment which is due and payable.
+
+Regulation 13 applies for the same purposes the provisions in Part 7 of TMA 1970 in relation to persons chargeable in a representative capacity. Regulation 14 provides for interest to be charged on unpaid overpayments, applying and incorporating for these purposes the interest charging provisions on late payment of amounts payable to HMRC in sections 101 and 103 of, and Schedule 53 to, the Finance Act 2009.
+
+Regulation 15 applies, for the purposes of a charity making a top-up claim, the tax penalty provisions in Schedule 24 to the Finance Act 2007. This Schedule provides that penalties may be imposed for errors in documents given to HMRC, with the penalty varying according to the degree of culpability in making the error. The Schedule is modified in its application to top-up claims and provisions which are not relevant for these purposes are omitted.
+
+Regulation 16 applies section 94 of the Finance Act 2009 to a charity making a top-up claim. Section 94 allows HMRC to publish details of deliberate tax defaulters, where an inaccuracy in a document leads to one or more penalties being imposed on that individual. Regulation 16 provides for publication of the details of a charity, its managers or trustees, who have incurred one or more penalties under Schedule 24 to the Finance Act 2007 in relation to a top-up claim.
+
+Regulations 17 to 19 make provision in relation to applications under sections 12(1) and 13(1) of the 2012 Act. Those sections allow a new charity taking over the activities of one or more old charities to benefit from the predecessors’ gift aid claim history for the purposes of eligibility to make top-up claims under section 2. To do so, HMRC must have certified on an application that the new charity was created to take over the old charity’s activities and has done so, that the purposes of the old and new charities are substantially similar, and that more than half the new charity managers were old charity managers. Regulation 17 sets out the requirements of an application by the new charity for HMRC to so certify. Regulation 18 provides for an election as to which is the relevant old charity for the purposes of an application, where there is more than one old charity which has been taken over and at least two of them have equal gift aid claim histories. Regulation 19 provides for notification by HMRC of its decision on the application and for appeals to the tribunal in the case of a refusal by HMRC to certify.
+
+Regulation 20 provides that the administrative provisions for tax in sections 108(1) and 113 to 115A of, and Schedule 3A to, TMA 1970 in relation to the form of documents, their delivery, service and electronic lodgement, apply for the purposes of a top-up claim, a top-up payment and an overpayment.
+
+A full impact assessment of the effect that the Small Charitable Donations scheme, including this instrument, will have on the costs of business and the voluntary sector was published on 26th November 2012 alongside draft legislation and is available on the HMRC website at http://www.hmrc.gov.uk/ria/ia-final-giftaid-don.pdf. It remains an accurate summary of the impacts that apply to this instrument.
+
+## Annotations
+
+[^f00001]: Footnote: [2012 c. 23](https://www.legislation.gov.uk/ukpga/2012/23).
+
+[^key-9ba6711c0964d6dbfd19ca452e1534db]: Commencement: Reg. 1 in force at 19.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/938/regulation/1)
+
+[^key-da4eb52fdf9ee300226b703eabfcaa88]: Commencement: Reg. 2 in force at 19.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/938/regulation/1)
+
+[^f00002]: Footnote: [1970 c. 9](https://www.legislation.gov.uk/ukpga/1970/9). Several of the provisions of TMA 1970 that apply to small charitable donations by virtue of these Regulations make reference to “the Board” which section 118(1) of that Act defines as the Commissioners of Inland Revenue. The functions of the Commissioners of Inland Revenue were transferred to the Commissioners for Her Majesty’s Revenue and Customs by section 5(1)(a) of the Commissioners for Revenue and Customs Act [2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11). Section 50(1) of that Act provides that, in so far as it is appropriate in consequence of section 5, a reference, however expressed, to the Commissioners of Inland Revenue is to be taken as a reference to the Commissioners for Her Majesty’s Revenue and Customs.
+
+[^key-f32d964bfa84c24a058d3ea645811ac9]: Commencement: Reg. 3 in force at 19.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/938/regulation/1)
+
+[^f00003]: Footnote: Schedule 1A was inserted by paragraph 35 of Schedule 19 to the Finance Act [1994 (c. 9)](https://www.legislation.gov.uk/ukpga/1994/9). Relevant amendments to Schedule 1A have been made by Schedule 20 to the Finance Act [1995 (c. 4)](https://www.legislation.gov.uk/ukpga/1995/4), sections 124(6) to (8) and 130(5) of, and paragraphs 8 to 10 of Schedule 19 to, the Finance Act [1996 (c. 8)](https://www.legislation.gov.uk/ukpga/1996/8), paragraph 42 of Schedule 19 to the Finance Act [1998 (c. 36)](https://www.legislation.gov.uk/ukpga/1998/36), paragraphs 10, 12 and 34 of Schedule 29 to the Finance Act [2001 (c. 9)](https://www.legislation.gov.uk/ukpga/2001/9), paragraph 141 of Schedule 6 to the Income Tax (Earnings and Pensions) Act [2003 (c. 1)](https://www.legislation.gov.uk/ukpga/2003/1), paragraph 264 of Schedule 1 to the Income Tax Act [2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), paragraph 77 of Schedule 36 and paragraph 3 of Schedule 37 to the Finance Act [2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), paragraphs 6 and 7 of Schedule 52 to the Finance Act [2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [S.I. 2009/56](https://www.legislation.gov.uk/uksi/2009/56), [S.I. 2009/404](https://www.legislation.gov.uk/uksi/2009/404) and [S.I. 2009/2035](https://www.legislation.gov.uk/uksi/2009/2035).
+
+[^f00004]: Footnote: “The Tax Acts” is defined in Schedule 1 to the Interpretation Act [1978 (c. 30)](https://www.legislation.gov.uk/ukpga/1978/30) and means the Income Tax Acts and the Corporation Tax Acts, which terms are also defined in that Schedule. The tax provisions that apply to small charitable donations by virtue of these Regulations, besides those contained in TMA 1970, are all contained in the Tax Acts.
+
+[^key-9c6ba39012e57c200af40b653365341c]: Textual amendment: [Reg. 3A](https://www.legislation.gov.uk/uksi/2013/938/regulation/3A) inserted (with effect for the tax year 2017-18 and subsequent tax years) by [Small Charitable Donations and Childcare Payments Act 2017 (c. 1)](https://www.legislation.gov.uk/ukpga/2017/1), [ss. 4(6)](https://www.legislation.gov.uk/ukpga/2017/1/section/4/6), [7(1)](https://www.legislation.gov.uk/ukpga/2017/1/section/7/1) (with [s. 4(7)](https://www.legislation.gov.uk/ukpga/2017/1/section/4/7))
+
+[^key-188d25324fc42fb4c0e606b5168d28de]: Commencement: Reg. 4 in force at 19.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/938/regulation/1)
+
+[^f00005]: Footnote: Section 20BA was inserted by section 149(1) of the Finance Act [2000 (c. 17)](https://www.legislation.gov.uk/ukpga/2000/17).
+
+[^f00006]: Footnote: Section 20BB was inserted by section 145 of the Finance Act [1989 (c. 26)](https://www.legislation.gov.uk/ukpga/1989/26) and relevantly amended by section 149(3) of the Finance Act 2000, paragraph 69 of Schedule 36 to the Finance Act 2008 and [S.I. 2009/56](https://www.legislation.gov.uk/uksi/2009/56).
+
+[^f00007]: Footnote: Section 20D was substituted by Schedule 6 to the Finance Act [1976 (c. 40)](https://www.legislation.gov.uk/ukpga/1976/40) and relevantly amended by section 148(2) of the Finance Act 1989, paragraph 1 of Schedule 22 to the Finance Act [2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11) and paragraph 70 of Schedule 36 to the Finance Act 2008.
+
+[^f00008]: Footnote: Schedule 1AA was inserted by section 149(2) of the Finance Act 2000.
+
+[^key-422fe562e6ddd32384450a592f7b6287]: Commencement: Reg. 5 in force at 19.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/938/regulation/1)
+
+[^f00009]: Footnote: Schedule 36 was relevantly amended by section 96(1) of, and Schedules 47 and 48 to, the Finance Act 2009, [S.I. 2009/56](https://www.legislation.gov.uk/uksi/2009/56), paragraph 582 of Schedule 1 to the Corporation Tax Act [2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), paragraph 24 of Schedule 6 to the Finance Act [2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13), paragraph 62 of Schedule 23 and Schedule 24 to the Finance Act [2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11) and section 224(1) to (5) of the Finance Act [2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14).
+
+[^key-b3a4108a31f9fc9842425c296fce8854]: Commencement: Reg. 6 in force at 19.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/938/regulation/1)
+
+[^key-343800fb5f967c540f55e8add75cc755]: Textual amendment: Words in reg. 6(1) substituted (1.4.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 250(2)](https://www.legislation.gov.uk/ukpga/2026/11/section/250/2), [Sch. 22 para. 36(a)(i)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/22/paragraph/36/a/i)
+
+[^key-ea9b09e32f81a8dc8b836f05f7d7947b]: Textual amendment: Words in reg. 6(1) substituted (1.4.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 250(2)](https://www.legislation.gov.uk/ukpga/2026/11/section/250/2), [Sch. 22 para. 36(a)(ii)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/22/paragraph/36/a/ii)
+
+[^key-dcb317c7d6cb1e917fb9b96df033d576]: Textual amendment: Word in reg. 6(2)(a) substituted (1.4.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 250(2)](https://www.legislation.gov.uk/ukpga/2026/11/section/250/2), [Sch. 22 para. 36(b)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/22/paragraph/36/b)
+
+[^key-f81d824c9a7c72e20e5f8362d6ccf119]: Commencement: Reg. 7 in force at 19.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/938/regulation/1)
+
+[^key-99b4411cdffa1b232fbf3a853a6ca28c]: Commencement: Reg. 8 in force at 19.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/938/regulation/1)
+
+[^key-5929c58bbc2ede1b49d251d62bb05569]: Commencement: Reg. 9 in force at 19.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/938/regulation/1)
+
+[^key-8c7e0703a42f3cecff7ff1100ca4ba9d]: Commencement: Reg. 10 in force at 19.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/938/regulation/1)
+
+[^key-87dbcda46697b9640e5f3e491ae170a0]: Commencement: Reg. 11 in force at 19.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/938/regulation/1)
+
+[^f00010]: Footnote: Section 49 was substituted, and sections 49A to 49I inserted, by [S.I. 2009/56](https://www.legislation.gov.uk/uksi/2009/56).
+
+[^f00011]: Footnote: Subsections (6) and (7) of section 50 were substituted by paragraph 17 of Schedule 19 to the Finance Act [1994 (c. 9)](https://www.legislation.gov.uk/ukpga/1994/9) and were relevantly amended by paragraph 30 of Schedule 29 to the Finance Act [2001 (c. 9)](https://www.legislation.gov.uk/ukpga/2001/9) and [S.I. 2009/56](https://www.legislation.gov.uk/uksi/2009/56). Subsections (10) and (11) were inserted by [S.I. 2009/56](https://www.legislation.gov.uk/uksi/2009/56).
+
+[^f00012]: Footnote: Section 54 was relevantly amended by [S.I. 2009/56](https://www.legislation.gov.uk/uksi/2009/56).
+
+[^f00013]: Footnote: Section 55 was substituted by section 45(1) of the Finance (No. 2) Act [1975 (c. 45)](https://www.legislation.gov.uk/ukpga/1975/45) and was relevantly amended by section 68 of the Finance Act [1982 (c. 39)](https://www.legislation.gov.uk/ukpga/1982/39), section 156(2) of the Finance Act [1989 (c. 26)](https://www.legislation.gov.uk/ukpga/1989/26), paragraph 18 of Schedule 19 to the Finance Act 1994, paragraph 28 of Schedule 19 to the Finance Act [1998 (c. 36)](https://www.legislation.gov.uk/ukpga/1998/36), paragraph 31 of Schedule 29 to the Finance Act 2001, paragraph 257 of Schedule 1 to the Income Tax Act [2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3) and [S.I. 2009/56](https://www.legislation.gov.uk/uksi/2009/56).
+
+[^f00014]: Footnote: Section 56 was substituted by [S.I. 2009/56](https://www.legislation.gov.uk/uksi/2009/56) with effect from 1st April 2009.
+
+[^key-753ad1962dd1b6a1a0cb67a6b65696a2]: Commencement: Reg. 12 in force at 19.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/938/regulation/1)
+
+[^f00015]: Footnote: Relevant amendments to Part 6 have been made by section 57 of the Finance Act [1984 (c. 43)](https://www.legislation.gov.uk/ukpga/1984/43), sections 152, 153 and 155 of the Finance Act 1989, [S.I. 1991/724](https://www.legislation.gov.uk/uksi/1991/724), paragraph 22 of Schedule 19 to the Finance Act 1994, section 156 of the Finance Act [1995 (c. 4)](https://www.legislation.gov.uk/ukpga/1995/4), paragraph 30 of Schedule 19 to the Finance Act 1998, section 89(2) of the Finance Act 2001, paragraphs 132, 134 and 135 of Schedule 6 to the Income Tax (Earnings and Pensions) Act [2003 (c. 1)](https://www.legislation.gov.uk/ukpga/2003/1), paragraphs 4 and 6 of Schedule 12 to the Finance Act [2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), section 95(7) of the Finance Act [2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11) and sections 101 to 103 of the Finance Act 2009.
+
+[^key-79cc3df404adbc8e93cdeab22391203b]: Commencement: Reg. 13 in force at 19.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/938/regulation/1)
+
+[^f00016]: Footnote: Section 71 was amended by paragraph 304 of Schedule 1 to the Corporation Tax Act [2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4).
+
+[^key-4767c4f5da92ab09848d521ff4aea593]: Commencement: Reg. 14 in force at 19.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/938/regulation/1)
+
+[^f00017]: Footnote: [2009 c. 10](https://www.legislation.gov.uk/ukpga/2009/10); for the rate of interest under section 101, see [S.I. 2011/2446](https://www.legislation.gov.uk/uksi/2011/2446).
+
+[^key-8be3aa078b2b1eb623d086dd931ee2c3]: Commencement: Reg. 15 in force at 19.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/938/regulation/1)
+
+[^f00018]: Footnote: [2007 c. 11](https://www.legislation.gov.uk/ukpga/2007/11); relevant amendments to Schedule 24 were made by Schedule 40 to the Finance Act [2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), Part 1 of Schedule 57 to the Finance Act 2009, [S.I. 2009/56](https://www.legislation.gov.uk/uksi/2009/56), paragraph 575 of Schedule 1 to the Corporation Tax Act [2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), paragraphs 1 to 6 of Schedule 10 to the Finance Act [2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13) and section 219 of the Finance Act [2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14).
+
+[^key-04d7e85a270a8df918b8351a12420184]: Commencement: Reg. 16 in force at 19.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/938/regulation/1)
+
+[^key-e33f0b4d7bafbead977ddf70ba7e74ad]: Textual amendment: [Regs. 17-19](https://www.legislation.gov.uk/uksi/2013/938/regulation/17) omitted (with effect for the tax year 2017-18 and subsequent tax years) by virtue of [Small Charitable Donations and Childcare Payments Act 2017 (c. 1)](https://www.legislation.gov.uk/ukpga/2017/1), [ss. 1(5)](https://www.legislation.gov.uk/ukpga/2017/1/section/1/5), [7(1)](https://www.legislation.gov.uk/ukpga/2017/1/section/7/1) (with [s. 8(1)](https://www.legislation.gov.uk/ukpga/2017/1/section/8/1))
+
+[^key-15e30a2905909a25b674a028d4d99efa]: Commencement: Reg. 20 in force at 19.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/938/regulation/1)
+
+[^f00019]: Footnote: Section 108(1) was amended by paragraph 7 of Schedule 14 to the Finance Act [1993 (c. 34)](https://www.legislation.gov.uk/ukpga/1993/34).
+
+[^f00020]: Footnote: Sections 113 to 115 were relevantly amended by paragraph 10 of Schedule 4 to the Finance Act [1970 (c. 24)](https://www.legislation.gov.uk/ukpga/1970/24), sections 160(5) and 168(7) of the Finance Act [1989 (c. 26)](https://www.legislation.gov.uk/ukpga/1989/26) and [S.I. 2009/56](https://www.legislation.gov.uk/uksi/2009/56). Section 115A and Schedule 3A were inserted by paragraphs 1 and 2 of Schedule 28 to the Finance Act [1995 (c. 4)](https://www.legislation.gov.uk/ukpga/1995/4).

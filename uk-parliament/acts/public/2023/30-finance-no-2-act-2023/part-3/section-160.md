@@ -1,0 +1,40 @@
+---
+title: Finance (No. 2) Act 2023, section 160
+act: Finance (No. 2) Act 2023
+section: '160'
+status: revised
+text_date: '2026-07-15'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2023/30/section/160
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Finance (No. 2) Act 2023, section 160
+
+> Text as at 2026-07-15.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 160. Attribution of losses between permanent establishment and main entity
+
+*Extent: E+W+S+N.I.*
+
+(1) Subsection (2) applies where, on determining (ignoring this section) the adjusted profits of a member of a multinational group that is a permanent establishment for an accounting period (“**the relevant period**”), that member has a loss.
+
+(2) So much of that loss as—
+
+- (a) is treated as an allowable expense of the main entity for the purposes of the computation of tax in the territory in which the main entity is located, and
+- (b) is not set off against an item of income that is subject to tax under the laws of both the territory of the permanent establishment and the territory of the main entity,
+
+is to be treated as an expense of the main entity for the purposes of determining the adjusted profits of the main entity for the relevant period.
+
+(3) Subsections (4) and (5) apply where an amount (“**the relevant amount**”) is treated as an expense of the main entity for the purposes of determining its adjusted profits for the relevant period as a result of subsection (2).
+
+(4) The relevant amount is to be excluded from the adjusted profits of the permanent establishment for the relevant period.
+
+(5) Where, on determining (ignoring this section) the adjusted profits of the permanent establishment for an accounting period after the relevant period, the permanent establishment has made a profit for that period, those profits are to be treated as income of the main entity for the purpose of determining that entity’s adjusted profits for that period.
+
+(6) But subsection (5) only applies until the total amount treated as income of the main entity as a result of that subsection is equal to the relevant amount.
+
+(7) Where profits of the permanent establishment for an accounting period are treated as income of the main entity as a result of subsection (5), those profits are to be excluded from the adjusted profits of the permanent establishment for that period.

@@ -1,0 +1,55 @@
+---
+title: Animals (Scientific Procedures) Act 1986, section 11
+act: Animals (Scientific Procedures) Act 1986
+section: '11'
+status: revised-with-pending-changes
+text_date: '2026-06-19'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/1986/14/section/11
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Animals (Scientific Procedures) Act 1986, section 11
+
+> **Warning: changes not yet applied to this text (3).** Text as at 2026-06-19. See https://www.legislation.gov.uk/changes/affected/ukpga/1986/14
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 11. Failure to comply with licence conditions etc[^c1016521][^key-92c099114b670b8c75a739dca91dbad1]
+
+*Extent: E+W+S+N.I.*
+
+(1) Subsections (2) to (5) apply where it appears to the Secretary of State that the holder of a licence under this Act is failing or has failed to comply with—
+
+- (a) a condition of the licence, or
+- (b) a provision of this Act.
+
+(2) The Secretary of State may issue the holder of the licence with a notice (“a compliance notice”) which—
+
+- (a) specifies the condition or provision that the Secretary of State considers the holder is failing or has failed to comply with;
+- (b) specifies the action the Secretary of State considers should be taken by the holder to ensure that the failure is not continued or repeated;
+- (c) specifies any action the Secretary of State considers should be taken by the holder to eliminate or reduce any consequences of the failure;
+- (d) requires the holder to take that action within such time as is specified in the notice; and
+- (e) explains the effect of subsection (3).
+
+(3) If a compliance notice has been issued and it appears to the Secretary of State that the holder of the licence has failed to comply with it, the Secretary of State may revoke the licence (unless the compliance notice has been withdrawn, or the notice has been varied and the holder is in compliance with the notice as varied).
+
+(4) If it appears to the Secretary of State that—
+
+- (a) remedial action needs to be taken to safeguard the welfare of protected animals for the time being kept by or on behalf of the holder of the licence, and
+- (b) the holder of the licence is not willing or able to take that action,
+
+the Secretary of State may take that action (whether or not a compliance notice has already been issued).
+
+(5) If the Secretary of State does not act under subsection (2) or (4) the Secretary of State may suspend, revoke or vary the licence.
+
+(6) A licence under this Act may also be suspended, revoked or varied by the Secretary of State in any case in which it appears to the Secretary of State that it is appropriate to do so or at the request of the holder.
+
+(7) A reference in this section to suspending a licence is a reference to suspending the operation of the licence either for a specified period or until further notice.
+
+## Annotations
+
+[^c1016521]: Extent: In its application to Northern Ireland, this section has effect subject to the modifications set out in s. 29, see s. 29(1)
+
+[^key-92c099114b670b8c75a739dca91dbad1]: Textual amendment: S. 11 substituted (1.1.2013) by [The Animals (Scientific Procedures) Act 1986 Amendment Regulations 2012 (S.I. 2012/3039)](https://www.legislation.gov.uk/uksi/2012/3039), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/3039/regulation/1/2), [11](https://www.legislation.gov.uk/uksi/2012/3039/regulation/11) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2012/3039/schedule/3))

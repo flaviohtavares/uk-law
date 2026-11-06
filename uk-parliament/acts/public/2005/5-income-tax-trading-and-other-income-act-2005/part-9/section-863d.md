@@ -1,0 +1,90 @@
+---
+title: Income Tax (Trading and Other Income) Act 2005, section 863D
+act: Income Tax (Trading and Other Income) Act 2005
+section: 863D
+status: revised-with-pending-changes
+text_date: '2026-07-15'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2005/5/section/863D
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Income Tax (Trading and Other Income) Act 2005, section 863D
+
+> **Warning: changes not yet applied to this text (8).** Text as at 2026-07-15. See https://www.legislation.gov.uk/changes/affected/ukpga/2005/5
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 863D. Condition C[^key-63eed683f6b80e0c9ee7cefa1d32ef22]
+
+*Extent: E+W+S+N.I.*
+
+(1) Condition C is that, at the time at which it is being determined whether the condition is met (“**the relevant time**”), M's contribution to the limited liability partnership (see sections 863E and 863F) is less than 25% of the amount given by subsection (2) (subject to subsection (7)).
+
+(2) That amount is the total amount of the disguised salary which, at the relevant time, it is reasonable to expect will be payable by the limited liability partnership in respect of M's performance during the relevant tax year of services for the partnership in M's capacity as a member of the partnership.
+
+In this section “**the relevant tax year**” means the tax year in which the relevant time falls and an amount is “disguised salary” if it falls within any of paragraphs (a) to (c) at step 2 in section 863B(3).
+
+(3) The question of whether condition C is met is to be determined—
+
+- (a) at the beginning of the tax year 2014-15 or, if later, the time at which M becomes a member of the limited liability partnership;
+- (b) after that, at the beginning of each tax year.
+
+(4) If in a tax year—
+
+- (a) there is a change in M's contribution to the limited liability partnership, or
+- (b) there is otherwise a change of circumstances which might affect the question of whether condition C is met,
+
+the question of whether the condition is met is to be re-determined at the time of the change.
+
+This subsection is subject to section 863F(3).
+
+(5) If condition C is determined to be met (including by virtue of subsection (7)), or not to be met, at the relevant time, the condition is to be treated as met, or as not met, at all subsequent times until the question is required to be re-determined under subsection (3)(b) or (4).
+
+(6) Subsection (7) applies if—
+
+- (a) the relevant time coincides with an increase in M's contribution to the limited liability partnership, and
+- (b) apart from subsection (7), that increase would cause condition C not to be met at the relevant time.
+
+(7) Condition C is to be treated as met at the relevant time unless, at that time, it is reasonable to expect that condition C will not be met for the remainder of the relevant tax year (ignoring this subsection).
+
+(8) If there are any excluded days in the relevant tax year (see subsections (9) to (11)), in subsection (1) the reference to M's contribution to the limited liability partnership is to be read as a reference to that contribution multiplied by the following fraction—
+
+[formula: see source](https://www.legislation.gov.uk/ukpga/2005/5)
+
+where—
+
+D is the number of days in the relevant tax year, and
+
+E is the number of excluded days in the relevant tax year.
+
+(9) Any day in the relevant tax year—
+
+- (a) which is before the day on which the relevant time falls, and
+- (b) on which M is not a member of the limited liability partnership,
+
+is an “excluded” day for the purposes of subsection (8).
+
+(10) If, at the relevant time, it is reasonable to expect that M will not be a member of the limited liability partnership for the remainder of the relevant tax year, any day in the relevant tax year—
+
+- (a) which is after the day on which the relevant time falls, and
+- (b) on which it is reasonable to expect that M will not be a member of the limited liability partnership,
+
+is an “excluded” day for the purposes of subsection (8).
+
+(11) If the relevant time coincides with an increase in M's contribution to the limited liability partnership, any day in the relevant tax year—
+
+- (a) which is before the day on which the relevant time falls, and
+- (b) on which condition C is met,
+
+is an “excluded” day for the purposes of subsection (8).
+
+(12) In subsections (6) and (11) references to an increase in M's contribution to the limited liability partnership include (in particular)—
+
+- (a) the making of M's first contribution to the capital of the limited liability partnership, and
+- (b) M being treated as having made a contribution by section 863F(2).
+
+## Annotations
+
+[^key-63eed683f6b80e0c9ee7cefa1d32ef22]: Textual amendment: Ss. 863A-863G inserted (6.4.2014 for specified purposes, 18.7.2014 in so far as not already in force) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 17 paras. 1](https://www.legislation.gov.uk/ukpga/2014/26/schedule/17/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2014/26/schedule/17/paragraph/6)

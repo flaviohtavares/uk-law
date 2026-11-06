@@ -1,0 +1,34 @@
+---
+title: Economic Crime (Transparency and Enforcement) Act 2022, section 66
+act: Economic Crime (Transparency and Enforcement) Act 2022
+section: '66'
+status: revised
+text_date: '2024-03-21'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2022/10/section/66
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Economic Crime (Transparency and Enforcement) Act 2022, section 66
+
+> Text as at 2024-03-21.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 66. Consequential provision[^key-b092ae0655e62564c3c31ea343809f02]
+
+*Extent: E+W+S+N.I.*
+
+(1) An appropriate Minister (within the meaning of the 2018 Act) may by regulations make provision that the Minister considers to be consequential on this Chapter amending—
+
+- (a) Part 1 or 3 of the 2018 Act, or
+- (b) regulations made under Part 1 of that Act.
+
+(2) A statutory instrument containing (whether alone or with other provision) regulations under this section that amend or repeal any provision of Part 1 or 3 of the 2018 Act is subject to the affirmative resolution procedure.
+
+(3) Any other statutory instrument containing regulations under this section is subject to the negative resolution procedure.
+
+## Annotations
+
+[^key-b092ae0655e62564c3c31ea343809f02]: Commencement: S. 66 in force at Royal Assent, see [s. 69(3)](https://www.legislation.gov.uk/ukpga/2022/10/section/69/3)

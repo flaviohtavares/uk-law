@@ -1,0 +1,2122 @@
+---
+title: The Child Support Maintenance Calculation Regulations 2012
+id: uksi/2012/2677
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2012-10-20'
+text_date: '2026-03-15'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/uksi/2012/2677
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2012/2677/pdfs/uksiem_20122677_en.pdf
+- http://www.legislation.gov.uk/uksi/2012/2677/pdfs/uksi_20122677_310818_en.pdf
+- http://www.legislation.gov.uk/uksi/2012/2677/pdfs/uksi_20122677_310817_en.pdf
+- http://www.legislation.gov.uk/uksi/2012/2677/pdfs/uksi_20122677_310516_en.pdf
+- http://www.legislation.gov.uk/uksi/2012/2677/pdfs/uksi_20122677_301114_en.pdf
+- http://www.legislation.gov.uk/uksi/2012/2677/pdfs/uksi_20122677_en.pdf
+- http://www.legislation.gov.uk/uksi/2012/2677/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Child Support Maintenance Calculation Regulations 2012
+
+> Text as at 2026-03-15.
+>
+> Extent: England, Wales, Scotland.
+
+*Extent: E+W+S*
+
+2012 No. 2677
+
+Family Law
+
+Child Support
+
+The Child Support Maintenance Calculation Regulations 2012
+
+Made
+
+20th October 2012
+
+Coming into force in accordance with regulation 1
+
+The Secretary of State makes the following Regulations in exercise of the powers conferred by sections 3(3), 5(3), 12(4) and (5), 14(1) and (1A), 16(1), (4) and (6), 17(2), (3) and (5), 20(4) and (5), 28ZA(2)(b) and (4)(c), 28ZB(6)(c) and (8), 28A(5), 28B(2)(c), 28C(2)(b) and (5), 28F(2)(b), (3)(b) and (5), 28G(2) and (3), 42, 51(1) and (2), 52(4), 54 and 55(1)(b) of, and paragraphs 3(2) and (3), 4(1) and (2), 5, 5A(6)(b), 7(3), 8(2), 9, 10(1) and (2), 10C(2)(b) and 11 of Schedule 1, paragraphs 2, 4 and 5 of Schedule 4A and paragraphs 2(2) to (5), 4, 5 and 6 of Schedule 4B to, the Child Support Act 1991 [^c2141965].
+
+A draft of this instrument was laid before and approved by a resolution of each House of Parliament in accordance with section 52(2) and (2A) of that Act [^c2141966].
+
+## PART 1 — GENERAL
+
+### 1. Citation and commencement[^c2199838]
+
+These Regulations may be cited as the Child Support Maintenance Calculation Regulations 2012 and come into force in relation to a particular case on the day on which paragraph 2 of Schedule 4 to the Child Maintenance and Other Payments Act 2008 [^c2141967] (calculation by reference to gross weekly income) comes into force in relation to that type of case.
+
+### 2. Interpretation[^c2199839]
+
+In these Regulations—
+
+- “**the 1991 Act**” means the Child Support Act 1991;
+- “contribution-based jobseeker’s allowance” means an allowance under the Jobseekers Act 1995 as amended by the provisions of Part 1 of Schedule 14 to the Welfare Reform Act 2012 that remove references to an income-based allowance, and a contribution-based allowance under the Jobseekers Act 1995 as that Act has effect apart from those provisions;[^key-53341ae82fe07cb7eeb7e23689c9f654]
+- “[^key-a033dd58f44d02b160b8103628d430d1]**contributory employment and support allowance**” means an allowance under Part 1 of the Welfare Reform Act 2007 [^c2141968] as amended by the provisions of Schedule 3, and Part 1 of Schedule 14, to the Welfare Reform Act 2012 that remove references to an income-related allowance, and a contributory allowance under Part 1 of the Welfare Reform Act 2007 as that Part has effect apart from those provisions;;
+- “**capped amount**” means the figure specified in paragraph 10(3) of Schedule 1 to the 1991 Act (or in that sub-paragraph as modified by regulations under paragraph 10A of Schedule 1 to the 1991 Act [^c2141969]);
+- “**couple**” has the meaning given by paragraph 10C(5) of Schedule 1 to the 1991 Act;
+- “**current income**” has the meaning given in regulation 37;
+- “[^key-c71bbb004b85a8ad342f80dc281c1608]**electronic communication**” has the same meaning as in section 15(1) of the Electronic Communications Act 2000;
+- “**the flat rate**” means the flat rate of child support maintenance payable under paragraph 4 of Schedule 1 to the 1991 Act;
+- “**gross weekly income**” means income calculated under Chapter 1 of Part 4;
+- “**historic income** ” has the meaning given in regulation 35;
+- “**HMRC**” means Her Majesty's Revenue and Customs;
+- “**the HMRC figure**” has the meaning given in regulation 36;
+- “**income support**” means support to which a person is entitled under section 124 of the Social Security Contributions and Benefits Act 1992 [^c2141970];
+- “**initial effective date**” has the meaning given in regulation 12;
+- “**ITEPA**” means the Income Tax (Earnings and Pensions) Act 2003 [^c2141971];
+- “**ITTOIA**” means the Income Tax (Trading and Other Income) Act 2005 [^c2141972];
+- “**local authority**” means, in relation to England, a county council, a district council, a London borough council, the Common Council of the City of London or the Council of the Isles of Scilly and, in relation to Wales, a county council or a county borough council and, in relation to Scotland, a council constituted under section 2 of the Local Government etc. (Scotland) Act 1994 [^c2141973];
+- “**net pay arrangements**” means arrangements for relief in respect of pension contributions under section 193 of the Finance Act 2004 [^c2141974];
+- “**the nil rate**” means the nil rate of child support maintenance payable under paragraph 5 of Schedule 1 to the 1991 Act;
+- “**partner**” has the meaning given by paragraph 10C(4) of Schedule 1 to the 1991 Act;
+- “**party**”, in relation to a maintenance calculation in force or an application for a maintenance calculation, means the non-resident parent, the person with care and, in the case of an application by a child under section 7 of the 1991 Act or a maintenance calculation made in response to such an application, the child in question;
+- “**the PAYE Regulations**” means the Income Tax (Pay As You Earn) Regulations 2003 [^c2141975];
+- “**qualifying lender**” has the meaning given to it in section 376(4) of the Income and Corporation Taxes Act 1988 [^c2141976];
+- “**the reduced rate**” means the reduced rate of child support maintenance payable under paragraph 3 of Schedule 1 to the 1991 Act;
+- “**relievable pension contributions**” has the meaning given by section 188(2) of the Finance Act 2004;
+- “**review date**” has the meaning given in regulation 19;
+- “**self-assessment return**” means a return which an individual is required to make and deliver under section 8 of the Taxes Management Act 1970 [^c2141977];
+- “**supersession decision**” means a decision made under section 17 of the 1991 Act superseding a decision mentioned in subsection (1) of that section;
+- “**state pension credit**” means the benefit payable in accordance with section 1 (entitlement) of the State Pension Credit Act 2002 [^c2141978];
+- “**tax year**” has the meaning given by section 4 of the Income Tax Act 2007 [^c2141979];
+- “**Tribunal Procedure Rules**” means the Tribunal Procedure (First-tier Tribunal) (Social (Entitlement Chamber) Rules 2008 [^c2141980]; and
+- “**UK social security pension**” means a pension to which section 577 of ITEPA applies [^c2141981].
+
+### 2A. Use of electronic communications[^key-db356617e33a169f7611066f5d28da5d]
+
+Schedule 1 makes provision for the use of electronic communications.
+
+### 3. Meaning of “calculation decision”[^c2199840]
+
+In these Regulations “**calculation decision**” means a decision of the Secretary of State under section 11 (the maintenance calculation), section 16 (revision) or section 17 (supersession) of the 1991 Act determining the amount of child support maintenance to be fixed in accordance with Part 1 of Schedule 1 to that Act.
+
+### 4. Meaning of “latest available tax year”[^c2199841]
+
+(1) In these Regulations “**latest available tax year**” means the tax year which, on the date on which the Secretary of State requests information from HMRC for the purposes of regulation 35 (historic income) or regulation 69 (non-resident parent with unearned income), is the most recent relevant tax year for which HMRC have received the information required to be provided in relation to the non-resident parent under the PAYE Regulations or in a self-assessment return.
+
+(2) In this regulation a “**relevant tax year**” is any one of the 6 tax years immediately preceding the date of the request for information referred to in paragraph (1).
+
+### 5. Calculation – information applicable[^c2199842]
+
+Information required for the purposes of making a calculation decision or a decision in relation to an application for a variation is the information applicable at the date from which that decision (assuming that the decision was a decision to make or amend a maintenance calculation) would have effect.
+
+### 6. Rounding[^c2199843]
+
+Where a calculation decision or a decision in relation to an application for a variation results in a fraction of a penny, that is to be treated as a penny if it is either one half or exceeds one half, and otherwise it is to be disregarded.
+
+### 7. Service of documents[^c2199844]
+
+(1) Where any document is given or sent to the Secretary of State, that document is to be treated as having been given or sent on the date of receipt by the Secretary of State.
+
+(2) Where the Secretary of State sends any written notification or any document by post to a person's last known or notified address that document is treated as having been given or sent on the second day following the day on which it is posted.
+
+(3)[^key-f1227ea0cbd8d7b7ee68a84d4191be0a] Where the Secretary of State sends any written notification or any document by electronic communication to a person’s last known or notified address for electronic communication that document is treated as having been given or sent at the end of the first day after the day it was sent.
+
+### 8. Authorisation of representative[^c2199845]
+
+(1) A person may authorise a representative, whether or not legally qualified, to receive notices and other documents on their behalf and to act on their behalf in relation to the making of applications and the supply of information under any provision of the 1991 Act or these Regulations.
+
+(2) Where a person has authorised a representative for the purposes of paragraph (1) who is not legally qualified, that person must confirm the authorisation in writing to the Secretary of State.
+
+## PART 2 — APPLICATION FOR A MAINTENANCE CALCULATION
+
+### 9. Applications under section 4 or 7 of the 1991 Act[^c2199846]
+
+(1) The Secretary of State may determine the form in which an application for a maintenance calculation is to be made and may require the applicant to provide such information or evidence as the Secretary of State reasonably requires in order to process the application (including, in the case of an application by a person with care, information sufficient to enable the person named as the non-resident parent to be identified).
+
+(2) The application is to be taken to have been made when the application has been submitted to the Secretary of State in the required form and the information required under paragraph (1) has been provided.
+
+### 10. Multiple applications[^c2199847]
+
+(1) Where two or more applications for a maintenance calculation are made with respect to the same child the Secretary of State may determine which to proceed with.
+
+(2) In making a determination under paragraph (1) the Secretary of State must have regard to the following order of priority—
+
+- (a) an application by a person with care or a non-resident parent has priority over an application by a child under section 7 of the 1991 Act [^c2141982];
+- (b) otherwise an earlier application has priority over one made later.
+
+(3) Where—
+
+- (a) in relation to an application under section 4 or 7 of the 1991 Act [^c2141983], both parents of a qualifying child are named as non-resident parents; or
+- (b) an application is made under section 4 of that Act by both non-resident parents of a qualifying child,
+
+the Secretary of State must proceed with the application in relation to each non-resident parent, treating it as a single application for a maintenance calculation in respect of that qualifying child.
+
+### 11. Notice of application[^c2199848]
+
+(1) Where an application has been made under section 4 or 7 of the 1991 Act, and the requirements in paragraph (3) are satisfied,[^key-7220b91da366e486df9816a5c3f4e26c] the Secretary of State must[^key-b9960c445f816f7e3ec9b1e9042fad1a]... give written notice to the non-resident parent—
+
+- (a) requesting such information as the Secretary of State may require to make the maintenance calculation; and
+- (b) where relevant, advising the non-resident parent of the power of the Secretary of State to make an estimate of income or a default maintenance decision.
+
+(2)[^key-bd2670f4fb02d5728fe51982391c541f] The notice must be sent by—
+
+- (a) post to the last known address of the non-resident parent (as ascertained and verified in accordance with paragraph (3)(a)); or
+- (b) by electronic communication in accordance with Schedule 1.
+
+(3)[^key-5de53cf53ddb8e8f18f1e92d58d730f3] The requirements referred to in paragraph (1) are—
+
+- (a) the address of the non-resident parent in relation to the application has been ascertained and verified; and
+- (b) any application fee payable under regulation 3(1) (the application fee) of the Child Support Fees Regulations 2014 has been paid or waived in accordance with those Regulations.
+
+(4) Except where paragraph (5) or (6) applies to an application, notice must be given as soon as is reasonably practicable.
+
+(5) Where—
+
+- (a) there is an existing case related to the application; or
+- (b) the applicant—
+  - (i) has been required to choose in an existing case whether or not to stay in the statutory scheme (under Schedule 5 (maintenance calculations: transfer of cases to new rules) to the 2008 Act), as a result of that applicant's existing case being related to an application made under section 4(1) or 7(1) of the 1991 Act, and
+  - (ii) has chosen, by way of the application, to remain in the statutory scheme,
+
+notice must be given as soon as is reasonable.
+
+(6) Subject to paragraph (8), where the applicant—
+
+- (a) has been required to choose in an existing case whether or not to stay in the statutory scheme (under Schedule 5 to the 2008 Act), in circumstances where the existing case is not related to an application made under section 4(1) or 7(1) of the 1991 Act; and
+- (b) has chosen, by way of the application, to remain in the statutory scheme,
+
+notice must be given in accordance with paragraph (7).
+
+(7) Where paragraph (6) applies, notice must be given—
+
+- (a) where the application is made and the requirements in paragraph (3) are satisfied before the day 39 days before the liability end date (which means the date determined in accordance with regulation 6 (liability end date) of the Ending Liability Regulations) in relation to the existing case has passed, as soon as is reasonable once that day has passed; or
+- (b) where the application is made and the requirements in paragraph (3) are satisfied after the day 39 days before the liability end date has passed, as soon as is reasonable.
+
+(8) Where an application to which paragraph (6) applies becomes an application to which paragraph (5) applies (because it becomes an existing case related to an application), paragraph (6) ceases to apply to that application.
+
+(9) For the purposes of paragraphs (5) to (8) and this paragraph—
+
+- (a) “**the 2008 Act**” means the Child Maintenance and Other Payments Act 2008;
+- (b) “**existing case**” has the meaning given in paragraph 1(2) of Schedule 5 to the 2008 Act;
+- (c) “**the Ending Liability Regulations**” means the Child Support (Ending Liability in Existing Cases and Transition to New Calculation Rules) Regulations 2014;
+- (d) an existing case is related to an application if—
+  - (i) the non-resident parent in relation to that application is also the non-resident parent in relation to the existing case and the person with care in relation to that application is not the person with care in relation to the existing case, or
+  - (ii) the non-resident parent in relation to that application is a partner of a non-resident parent in relation to the existing case and either or both are in receipt of a benefit prescribed by regulations made under paragraph 4(1)(c) (flat rate) of Schedule 1 to the 1991 Act.
+
+## PART 3 — DECISION MAKING
+
+### CHAPTER 1 — MAKING THE MAINTENANCE CALCULATION
+
+#### 12. Initial effective date[^c2199849]
+
+(1)[^key-f6c455f799f0d2685aff607caa390034] The effective date of a decision under section 11 of the 1991 Act [^c2141984] (“the initial effective date”) is the date provided as the initial effective date in the notice[^key-e8160c9c0637b48b4bc064ca59f23f46] given to the non-resident parent under regulation 11.
+
+(2)[^key-76f8229ac0d55db038a1f81ef8529117] The non-resident parent must be notified of the initial effective date—
+
+- (a) by written notice posted to the last known postal address[^key-d238206bf5907a6286c4b9218855958b] of the non-resident parent at least two days prior to the initial effective date; [^key-8b330edf7bbde28e68f9d735af107145]...
+- (b) by telephone on or before the initial effective date and by written notice sent by post to the last known postal address of the non-resident parent; or[^key-09657a0542c7aa59c88ba4454d875ade]
+- (c) by electronic communication in accordance with Schedule 1, at least one day prior to the initial effective date
+
+#### 13. Effect of variation applied for before a maintenance calculation is made[^c2199850]
+
+(1) Subject to paragraph (2), where an application for a variation is made in the circumstances referred to in section 28A(3) of the 1991 Act [^c2141985] (that is before the Secretary of State has reached a decision under section 11 or 12(1) of the Act) and the application is agreed to, the effective date of the maintenance calculation which takes account of the variation is—
+
+- (a) where the ground giving rise to the variation existed from the initial effective date, that date; or
+- (b) where the ground giving rise to the variation arose after the initial effective date, the day on which the ground arose.
+
+(2) Where—
+
+- (a) the ground for the variation applied for under section 28A(3) of the 1991 Act is a ground in regulation 65 (prior debts) or 67 (payments in respect of certain mortgages, loans or insurance policies), and
+- (b) payments falling within the relevant regulation which have been made by the non-resident parent constitute voluntary payments for the purposes of section 28J of that Act (voluntary payments) [^c2141986] and regulations made under that section,
+
+the date from which the maintenance calculation is to take account of the variation on this ground is to be the date on which the non-resident parent is notified under regulation 25 (notification of a maintenance calculation) of the amount of their liability to pay child support maintenance.
+
+(3) Where the ground for the variation applied for under section 28A(3) of the 1991 Act has ceased to exist by the date on which the maintenance calculation is made, that calculation is to take account of the variation for the period ending on the day on which the ground ceased to exist.
+
+### CHAPTER 2 — REVISION
+
+#### 14. Grounds for revision[^c2199851]
+
+(1) [^c2141987]A decision to which section 16(1A) of the 1991 Act applies may be revised by the Secretary of State—
+
+- (a)[^key-8215437652e3989e1350d6e306d42909] if the Secretary of State receives an application for the revision of a decision under either section 16 or section 28G (application for a variation where a maintenance calculation is in force) of that Act—
+  - (i) within 30 days after the date of notification of the decision;
+  - (ii) within 30 days after the date on which notice of the correction is given under regulation 27A(3) (correction of accidental errors); or
+  - (iii) within such longer time as may be allowed under regulation 15;
+- (b) if the Secretary of State is satisfied that the decision was wrong due to a misrepresentation of, or failure to disclose, a material fact and that decision was more advantageous to the person who misrepresented or failed to disclose that fact than it would have been but for the wrongness of the decision;
+- (c) if an appeal is made under section 20 of the 1991 Act [^c2141989] (appeals to First-tier Tribunal) against a decision within the time limit prescribed by the Tribunal Procedure Rules but that appeal has not been determined;
+- (d) if the Secretary of State commences action leading to the revision of the decision within 30 days after the date of notification of the decision;
+- (e) if the decision arose from official error;
+- (f) if the information held by HMRC in relation to a tax year in respect of which the Secretary of State has determined historic income for the purposes of regulation 35, or unearned income for the purposes of regulation 69, has since been amended; or
+- (g) if the ground for revision is that a person with respect to whom a maintenance calculation was made was not, at the time the calculation was made, a parent of a child to whom the calculation relates.
+
+(2) A decision may not be revised because of a change of circumstances that occurred since the decision had effect or is expected to occur.
+
+(3) An interim maintenance decision or default maintenance decision made under section 12 of the 1991 Act may be revised at any time.
+
+(3A)[^key-eab3695984e03b3920969baaa7fef716] Where—
+
+- (a) the Secretary of State makes a decision and there is an appeal;
+- (b) there is a further decision in relation to the appellant (“decision B”) after the appeal but before the appeal results in a decision by the First-tier Tribunal (“decision C”); and
+- (c) the Secretary of State would have made decision B differently if aware of decision C at the time of making decision B,
+
+decision B may be revised at any time.
+
+(4) In paragraph (1)(e) “**official error**” means an error made by an officer of the Department for Work and Pensions or HMRC acting as such to which no person outside the Department or HMRC materially contributed, but excludes any error of law which is shown to have been an error by virtue of a subsequent decision of the Upper Tribunal or the court.
+
+#### 14A. Consideration of revision before appeal[^key-9d15476e61bfd2a33bfe4c125951d485]
+
+(1) This regulation applies in a case where—
+
+- (a) the Secretary of State gives a person written notice of a decision; and
+- (b) that notice includes a statement to the effect that there is a right of appeal to the First-tier Tribunal against the decision only if the Secretary of State has considered an application for a revision of the decision.
+
+(2) In a case to which this regulation applies, a person has a right of appeal against the decision only if the Secretary of State has considered on an application whether to revise the decision under section 16 of the 1991 Act.
+
+(3) The notice referred to in paragraph (1) must inform the person of the time limit specified in regulation 14(1) for making an application for a revision.
+
+(4) Where, as the result of paragraph (2), there is no right of appeal against a decision, the Secretary of State may treat any purported appeal as an application for a revision under section 16 of that Act.
+
+(5) In this regulation, “decision” means a decision mentioned in section 20(1)(a) or (b) of the 1991 Act (as substituted by section 10 of the Child Support, Pensions and Social Security Act 2000).
+
+#### 15. Late application for a revision[^c2199852]
+
+(1) The time limit for making an application for a revision specified in regulation 14(1)(a) (grounds for revision) may be extended where the conditions specified in the following provisions of this regulation are satisfied.
+
+(2) An application for an extension of time must be made by one of the parties or their authorised representative.
+
+(3) An application for an extension of time must contain particulars of the grounds on which the extension is sought and must contain sufficient details of the decision which it is sought to have revised to enable that decision to be identified.
+
+(4) An application for an extension of time may not be granted unless the applicant satisfies the Secretary of State that–
+
+- (a) it is reasonable to grant the application;
+- (b) the application for revision has merit, except in a case to which regulation 14A applies[^key-3abd693496a8ac3bd9c0c811600b21f2]; and
+- (c) special circumstances are relevant to the application and because of those special circumstances it was not practicable for the application to be made within the time limit specified in regulation 14(1)(a).
+
+(5) In determining whether it is reasonable to grant an application for an extension of time, the Secretary of State must have regard to the principle that the greater the amount of time that has elapsed between the end of the time specified in regulation 14(1)(a) for applying for a revision and the making of the application for an extension of time, the more compelling should be the special circumstances on which the application is based.
+
+(6) In determining whether it is reasonable to grant the application for an extension of time, except in a case to which regulation 14A applies[^key-8d8e01aa88b485edb7ac75ff5d0f733a], no account shall be taken of the following–
+
+- (a) that the applicant, or any person acting for the applicant, was unaware of or misunderstood the law applicable to the case (including ignorance or misunderstanding of the time limits imposed by these Regulations); or
+- (b) that the Upper Tribunal or a court has taken a different view of the law from that previously understood and applied.
+
+(7) An application under this regulation for an extension of time which has been refused may not be renewed.
+
+#### 16. Effective date of a revision[^c2199853]
+
+Where a decision is revised and the date from which the original decision took effect is found to be wrong, the decision as revised takes effect from the date on which the original decision would have taken effect had the error not been made.
+
+### CHAPTER 3 — SUPERSESSION
+
+#### 17. Grounds for supersession[^c2199854]
+
+(1) A decision mentioned in section 17(1) of the 1991 Act [^c2141990] may be superseded by a decision of the Secretary of State, on an application or on the Secretary of State's own initiative, where—
+
+- (a) there has been a relevant change of circumstances since the decision had effect or it is expected that a relevant change of circumstances will occur;
+- (b) the decision was made in ignorance of, or was based on a mistake as to, some material fact; or
+- (c) the decision was wrong in law (unless it was a decision made on appeal).
+
+(2) The circumstances in which a decision may be superseded include where the relevant change of circumstances causes the maintenance calculation to cease by virtue of paragraph 16 of Schedule 1 to the 1991 Act [^c2141991] or where the Secretary of State no longer has jurisdiction by virtue of section 44 of that Act.
+
+(3) A decision may be superseded by a decision made by the Secretary of State where the Secretary of State receives an application for the supersession of a decision by way of an application under section 28G of the 1991 Act (application for a variation where a maintenance calculation is in force).
+
+(4) A decision may not be superseded in circumstances where it may be revised.
+
+(5) A decision to refuse an application for a maintenance calculation may not be superseded.
+
+(6) In making a supersession decision under section 17(1) of the 1991 Act, the Secretary of State need not consider any issue that is not raised by the application or, as the case may be, did not cause the decision to be made on the Secretary of State's own initiative.
+
+(7) This regulation is subject to any provision in Chapter 4 of this Part (updating gross weekly income) relating to the circumstances in which a supersession decision may be made.
+
+#### 18. Effective dates for supersession decisions[^c2199855]
+
+(1) This regulation sets out cases and circumstances in which a supersession decision takes effect on a date other than the date mentioned in section 17(4) of the 1991 Act [^c2141992].
+
+(2) Where the ground for the supersession decision is that a relevant change of circumstances is expected to occur or that a ground for a variation is expected to occur, the decision takes effect from the date on which that change or that ground is expected to occur.
+
+(3) Where the ground for the supersession decision is that a relevant change of circumstances of the following kind has occurred, the decision takes effect from the date on which the change occurred—
+
+- (a) a child ceases to be a qualifying child, a relevant other child, or a child supported under another arrangement;
+- (b) the person with care dies or ceases to be a person with care in relation to a qualifying child;
+- (c) the person with care, the non-resident parent or a qualifying child ceases to be habitually resident in the United Kingdom;
+- (d) the non-resident parent begins or ceases to receive a benefit mentioned in regulation 44(1) or begins or ceases to be a person who receives, or whose partner receives, a benefit referred to in regulation 44(2).
+
+(4) Where the ground for the supersession decision is that a relevant change of circumstances affecting the non-resident parent's current income has occurred and the non-resident parent was required to report that change in accordance with regulations under section 14(1) of the 1991 Act, the decision takes effect from the date on which the change occurred.
+
+(5) Where the ground for the supersession decision is that there is a new qualifying child in relation to the non-resident parent, the decision takes effect from the date which would be the initial effective date in relation to an application under section 4 or 7 of the 1991 Act in relation to that child if there were no maintenance calculation already in force.
+
+(6) Where paragraphs (2) to (5) do not apply—
+
+- (a) if the supersession decision is made on an application by one of the parties, the decision takes effect from the date of the application;
+- (b) if the supersession decision is made on the Secretary of State's own initiative on the basis of information provided by a third party, the decision takes effect from the date on which that information is provided; and
+- (c) if the supersession decision is made on the Secretary of State's own initiative, and sub-paragraph (b) does not apply, the decision takes effect from the date on which it is made.
+
+(7) In paragraph (3)—
+
+- (a) the reference to a child supported under another arrangement is to a child supported under a qualifying maintenance arrangement mentioned in paragraph 5A of Schedule 1 to the 1991 Act [^c2141993] or a child mentioned in regulation 52 (non-resident parent liable to maintain a child of the family or a child abroad); and
+- (b) the reference to the date on which a person begins or ceases to receive a benefit is to the date on which entitlement to the benefit commences or ceases.
+
+(8) This regulation is subject to any provision in Chapter 4 of this Part (updating gross weekly income) relating to the date from which a supersession decision made under that Chapter takes effect.
+
+### CHAPTER 4 — UPDATING GROSS WEEKLY INCOME
+
+#### 19. Setting the review date[^c2199856]
+
+(1) The Secretary of State must, in relation to each application for a maintenance calculation, fix a date at which the non-resident parent's gross weekly income is to be reviewed by reference to an updated HMRC figure (“the review date”).
+
+(2) Subject to paragraph (3), the first review date falls 12 months after the initial effective date and subsequent review dates fall on each anniversary of that date, unless the Secretary of State decides in any particular case or class of case to fix a different date.
+
+(3) Where a maintenance calculation is in force and there is a further application in relation to the non-resident parent in respect of a new qualifying child, the review dates are to be aligned so that the first review date in respect of the new application is the next review date for the calculation already in force.
+
+(4) Where an application for a maintenance calculation in relation to both non-resident parents of a qualifying child is treated as a single application by virtue of regulation 10(3) (multiple applications) the Secretary of State may fix different review dates in respect of each non-resident parent.
+
+#### 20. Updating gross weekly income at the review date[^c2199857]
+
+(1) Where an updated figure is provided by HMRC for the latest available tax year in accordance with a request under regulation 35(2)(b) (historic income – general), that figure applies, for the purposes of determining historic income, on and after the review date.
+
+(2) If the non-resident parent's gross weekly income, as calculated in accordance with Chapter 1 of Part 4 by reference to that updated figure, has changed, the Secretary of State may make a supersession decision with effect from the review date.
+
+#### 21. Updating unearned income at the review date[^c2199858]
+
+(1) This regulation applies where, in relation to a maintenance calculation in force, additional income has been taken into account by virtue of a variation previously agreed to under regulation 69 (non-resident parent with unearned income).
+
+(2) When the Secretary of State makes a request to HMRC for the purposes of reviewing the non-resident parent's gross weekly income in accordance with regulation 20 (updating gross weekly income at the review date) the Secretary of State may also request information relating to the non-resident parent's unearned income for the latest available tax year and, where appropriate, make a supersession decision on the basis of that information with effect from the review date.
+
+#### 22. Periodic current income check[^c2199859]
+
+(1) Where—
+
+- (a) the non-resident parent's gross weekly income is based on an amount of current income by virtue of regulation 34(2) (the general rule for determining gross weekly income and exceptions to that rule); and
+- (b) no supersession decision changing that amount has been made within the past 11 months,
+
+the Secretary of State may, for the purposes of validating that amount, require evidence of current income to be provided by the non-resident parent.
+
+(2) Where the non-resident parent fails to provide evidence as requested under paragraph (1), the Secretary of State may make a supersession decision determining the non-resident parent's gross weekly income on the basis of historic income.
+
+(3) Where the Secretary of State is provided with sufficient information on which to make a new determination of current income, the Secretary of State may make a supersession decision applying the general rule in regulation 34(2).
+
+(4) Subject to paragraph (5), a supersession decision under this regulation has effect from the date on which it is made.
+
+(5) Where the Secretary of State makes a supersession decision under paragraph (3) and the relevant change of circumstances affecting the non-resident parent's current income was one that the non-resident parent was required to report in accordance with regulations under section 14(1) of the 1991 Act, the decision takes effect from the date on which the change occurred.
+
+#### 23. 25% tolerance for changes outside annual review or periodic current income check[^c2199860]
+
+(1) This regulation applies where the non-resident parent's gross weekly income is based on an amount of current income by virtue of regulation 34(2) and, before the next review date, there is a change of circumstances affecting the amount of that current income.
+
+(2) No supersession decision giving effect to that change may be made unless the amount of that current income has changed by at least 25%.
+
+(3) Paragraph (1) does not prevent a supersession decision that—
+
+- (a) is made on the Secretary of State's own initiative under regulation 20 (updating weekly income at the annual review) or regulation 22 (periodic check where current income unchanged for 11 months);
+- (b) is made on the ground mentioned in regulation 17(1)(c) (error of law); or
+- (c) supersedes a decision determining the non-resident parent's gross weekly income on the basis of regulation 42 (estimate of current income where insufficient information available).
+
+(4) Where the condition in paragraph (2) is satisfied, the current income (as changed) is to apply even if it does not differ from historic income by an amount that is at least 25% of historic income.
+
+### CHAPTER 5 — NOTIFICATION OF DECISIONS
+
+#### 24. Notification – general[^c2199861]
+
+(1) Notification of a decision made by the Secretary of State under section 11 (maintenance calculation), 12 (default or interim maintenance decision) or 17 (supersession) of the 1991 Act or of any revision of such a decision under section 16 of that Act must be given to the parties in accordance with this Chapter.
+
+(2) Any such notification must include information as to the provisions relating to the revision and supersession of, and appeals from, decisions made under the 1991 Act.
+
+#### 25. Notification of a maintenance calculation[^c2199862]
+
+(1) Notification of a decision made under section 11 or 12(2) of the 1991 Act [^c2141994] must set out—
+
+- (a) the effective date of the maintenance calculation;
+- (b) where relevant, the non-resident parent's gross weekly income, including—
+  - (i) whether that is based on historic income or current income, and
+  - (ii) if based on current income, whether that income has been estimated in accordance with regulation 42;
+- (c) the number of qualifying children;
+- (d) the number of relevant other children;
+- (e) the weekly rate;
+- (f) the amounts calculated in accordance with Part 1 of Schedule 1 to the 1991 Act and, where there has been an agreement to a variation or a variation has otherwise been taken into account, Part 5 of these Regulations (Variations);
+- (g) where the weekly rate is adjusted by apportionment or to take account of shared care;
+- (h) where the amount of child support maintenance is decreased—
+  - (i) to take account of a child supported under a qualifying maintenance arrangement mentioned in paragraph 5A of Schedule 1 to the 1991 Act; or
+  - (ii) in accordance with regulation 52 (non-resident parent liable to maintain a child of the family or a child abroad) or regulation 53 (care provided in part by a local authority).
+
+(2) A notification of a maintenance calculation made under section 12(1) of the 1991 Act (default maintenance decision) must set out—
+
+- (a) the effective date of the maintenance calculation;
+- (b) the default rate;
+- (c) the number of qualifying children on which the rate is based; and
+- (d) whether apportionment has been applied under regulation 49,
+
+and must state the nature of the information required to enable a calculation decision to be made.
+
+(3) Except with the written permission of the person concerned, a notice under this regulation must not include—
+
+- (a) the address of any person other than the recipient of the notice (other than the address of the relevant office of the Secretary of State) or any other information the use of which could reasonably be expected to lead to any such persons being located; and
+- (b) any other information the use of which could reasonably be expected to lead to any person other than the qualifying child or a party to the application being identified.
+
+#### 26. Notification of a revision or supersession[^c2199863]
+
+(1) A notification of a decision made following the revision or supersession of a decision made under section 11 (the maintenance calculation), 12 (default or interim maintenance decision) or 17 (supersession) of the 1991 Act, whether as originally made or revised under section 16 of that Act, must, subject to the qualification in regulation 25(3), set out the information mentioned in regulation 25(1) and (2) in relation to the decision in question.
+
+(2) The requirement in paragraph (1) does not apply where the Secretary of State has decided not to supersede a decision and in that case the Secretary of State must, where appropriate and as far as reasonably practicable, notify the parties of that decision.
+
+#### 27. Notification of cessation of a maintenance calculation[^c2199864]
+
+(1) Where the Secretary of State decides that a maintenance calculation has ceased or is to cease to have effect, the Secretary of State must immediately notify the non-resident parent and person with care so far as that is reasonably practicable.
+
+(2) Where a child under section 7 of the 1991 Act ceases to be a child for the purposes of that Act, the Secretary of State must immediately notify the persons mentioned in paragraph (1) and the other qualifying children with the meaning of section 7(2) of that Act.
+
+### Chapter 5A — Accidental errors[^key-00c97a8b1b6898355ace9884ce502d30]
+
+#### 27A. Correction of accidental errors
+
+(1) An accidental error in a decision of the Secretary of State made under the 1991 Act, or in any record of such a decision, may be corrected by the Secretary of State at any time.
+
+(2) Such a correction is to be treated as part of that decision or of that record.
+
+(3) The Secretary of State must give written notice of the correction as soon as practicable to the persons to whom notice of the decision was required to be given.
+
+(4) In calculating the time within which an application may be made under regulation 14(1)(a) (grounds for revision) for a decision to be revised, no account is to be taken of any day falling before the day on which notice of any correction was given.
+
+### CHAPTER 6 — MISCELLANEOUS MATTERS RELATING TO APPEALS
+
+#### 28. Decisions involving issues that arise on appeal in other cases[^c2199865]
+
+(1) For the purposes of section 28ZA(2)(b) of the 1991 Act [^c2141995] (prescribed cases and circumstances in which a decision may be made on a prescribed basis)—
+
+- (a) a case in which there is no maintenance calculation in force is a prescribed case; and
+- (b) the prescribed basis on which the Secretary of State may make the decision is as if—
+  - (i) the appeal in relation to the different matter, which is referred to in section 28ZA(1)(b) of that Act had already been determined, and
+  - (ii) for the purposes of making that decision, the appeal had been determined in a way that resulted in the lowest possible amount of child support maintenance in the circumstances of that case being payable.
+
+(2) The circumstances prescribed under section 28ZA(4)(c) of the 1991 Act (appeal treated as pending against a decision given in a different case even though an appeal against the decision has not been brought or, as the case may be, an application for permission to appeal against the decision has not been made but the time for doing so has not expired) are that the Secretary of State—
+
+- (a) certifies in writing that an appeal against that decision is being considered; and
+- (b) considers that, if such an appeal were to be determined in a particular way—
+  - (i) there would be no liability for child support maintenance, or
+  - (ii) such liability would be less than would be the case were an appeal not made.
+
+#### 29. Child support appeals involving issues that arise in other cases[^c2199866]
+
+The circumstances prescribed for the purposes of section 28ZB(6)(c) of the 1991 Act [^c2141996] (appeals involving issues that arise on appeal in other cases) are where the Secretary of State—
+
+- (a) certifies in writing that an appeal against the decision in question is being considered; and
+- (b) considers that, if such an appeal were already determined, it would affect the determination of the appeal described in section 28ZB(1)(a) of that Act.
+
+#### 30. Tribunal decision made pending outcome of a related appeal[^c2199867]
+
+Where, in accordance with section 28ZB(5) of the 1991 Act (appeals involving issues that arise on appeal in other cases), the Secretary of State makes a decision superseding the decision of the First-tier Tribunal or the Upper Tribunal, the superseding decision takes effect from the date on which the decision of the First-tier Tribunal or, as the case may be, the Upper Tribunal would have taken effect had it been decided in accordance with the determination of the Upper Tribunal or the court in the appeal referred to in section 28ZB(1)(b) of that Act.
+
+#### 31. Supersession of tribunal decision made in error due to misrepresentation etc.[^c2199868]
+
+(1) Where—
+
+- (a) a decision made by the First-tier Tribunal or the Upper Tribunal is superseded on the ground that it was erroneous due to misrepresentation of, or that there was a failure to disclose, a material fact; and
+- (b) the Secretary of State is satisfied that the decision was more advantageous to the person who misrepresented or failed to disclose that fact than it would otherwise have been but for that error,
+
+the superseding decision takes effect from the date on which the decision of the First-tier Tribunal or, as the case may be, the Upper Tribunal, took or was to take, effect.
+
+#### 32. Supersession of look alike case where law reinterpreted by the Upper Tribunal or a court[^c2199869]
+
+Any supersession decision made under section 17 of the 1991 Act in consequence of a determination which is a relevant determination for the purposes of section 28ZC of that Act [^c2141997] (restriction on liability in certain cases of error) takes effect from the date of the relevant determination.
+
+#### 33. Procedural matters relating to appeals[^c2199870]
+
+Schedule 2[^key-d82d0030b926e674bae550c788985e96] to these Regulations has effect.
+
+## PART 4 — THE MAINTENANCE CALCULATION RULES
+
+### CHAPTER 1 — DETERMINATION OF GROSS WEEKLY INCOME
+
+#### 34. The general rule for determining gross weekly income[^c2199871]
+
+(1) The gross weekly income of a non-resident parent for the purposes of a calculation decision is a weekly amount determined at the effective date of the decision on the basis of either historic income or current income in accordance with this Chapter.
+
+(2)[^key-1139a0aef7d38f2250f05d493b1805e5][^key-5b555cd02e9125e4b01fa51bf944038a] The non-resident parent's gross weekly income is to be based on historic income unless—
+
+- (a) current income differs from historic income by an amount that is at least 25% of historic income; or
+- (b) [^key-4d6ac266ad2fb1a7348b0edcde1c78df]... no historic income is available; or[^key-83870ca03c74cb573f173e9a9b2aa9a2]
+- (c) the Secretary of State is unable, for whatever reason, to request or obtain the required information from HMRC.
+
+(2A)[^key-8fb8e80bb2709f504943784737293004] For the purposes of paragraph (2)(a), current income is to be treated as differing from historic income by an amount that is at least 25% of historic income where—
+
+- (a) the amount of historic income is nil; and
+- (b) the amount of current income is greater than nil.
+
+(3) For the purposes of paragraph (2)(b) no historic income is available if HMRC did not, when a request was last made by the Secretary of State for the purposes of regulation 35, have the required information in relation to a relevant tax year.
+
+(4) “**Relevant tax year**” has the meaning given in regulation 4(2).
+
+(5) This regulation is subject to regulation 23(4) (change to current income outside the annual review or periodic current income check).
+
+#### 35. Historic income – general[^c2199872]
+
+(1) Historic income is determined by—
+
+- (a) taking the HMRC figure last requested from HMRC in relation to the non-resident parent;
+- (b) adjusting that figure where required in accordance with paragraph (3); and
+- (c) dividing by 365 and multiplying by 7.
+
+(2) A request for the HMRC figure is to be made by the Secretary of State—
+
+- (a) for the purposes of a decision under section 11 of the 1991 Act (the initial maintenance calculation) no more than 30 days before the initial effective date; and
+- (b) for the purposes of updating that figure, no more than 30 days before the review date.
+
+(3) Where the non-resident parent has made relievable pension contributions during the tax year to which the HMRC figure relates and those contributions have not been deducted under net pay arrangements, the HMRC figure is, if the non-resident parent so requests and provides such information as the Secretary of State requires, to be adjusted by deducting the amount of those contributions.
+
+#### 36. Historic income – the HMRC figure[^c2199873]
+
+(1) The HMRC figure is the amount identified by HMRC from information provided in a self-assessment return or under the PAYE regulations, as the sum of the income on which the non-resident parent was charged to tax for the latest available tax year—
+
+- (a) under Part 2 of ITEPA (employment income);
+- (b) under Part 9 of ITEPA (pension income);
+- (c) under Part 10 of ITEPA (social security income) but only in so far as that income comprises the following taxable UK benefits listed in Table A in Chapter 3 of that Part—
+  - (i) incapacity benefit;
+  - (ii) contributory employment and support allowance;
+  - (iii) jobseeker's allowance; and
+  - (iv) income support; and
+- (d) under Part 2 of ITTOIA (trading income).
+
+(2)[^key-f6e8e4bdcb786c6ea80de31891cac380] The amount identified as income for the purposes of paragraph (1)(a) is to be taken after any deduction for relievable pension contributions made by the non-resident parent’s employer in accordance with net pay arrangements.
+
+(3) The amount identified as income for the purposes of paragraph (1)(b) is not to include a UK social security pension.
+
+(4) The amount identified as income for the purposes of paragraph (1)(d) is to be taken after deduction of any relief under section 83 of the Income Tax Act 2007 [^c2141998] (carry forward trade loss relief against trade profits).
+
+(5) Where, for the latest available tax year, HMRC has both information provided in a self-assessment return and information provided under the PAYE Regulations, the amount identified for the purposes of paragraph (1) is to be taken from the former.
+
+#### 37. Current income – general[^c2199874]
+
+(1) Current income is the sum of the non-resident parent's income—
+
+- (a) as an employee or office-holder;
+- (b) from self-employment; and
+- (c) from a pension,
+
+calculated or estimated as a weekly amount at the effective date of the relevant calculation decision in accordance with regulations 38 to 42.
+
+(2) Where payment is made in a currency other than sterling, an amount equal to any banking charge payable in converting that payment to sterling is to be disregarded in calculating the current income of a non-resident parent.
+
+#### 38. Current income as an employee or office-holder[^c2199875]
+
+(1) The non-resident parent's current income as an employee or office-holder is income of a kind that would be taxable earnings within the meaning of section 10(2) of ITEPA and is to be calculated as follows.
+
+(2) As regards any part of the non-resident parent's income that comprises salary, wages or other amounts paid periodically—
+
+- (a) if it appears to the Secretary of State that the non-resident parent is (or is to be) paid a regular amount according to a settled pattern that is likely to continue for the foreseeable future, that part of the non-resident parent's income is to be calculated as the weekly equivalent of that amount; and
+- (b) if sub-paragraph (a) does not apply (for example where the non-resident parent is a seasonal worker or has working hours that follow an irregular pattern) that part of the non-resident parent's income is to be calculated as the weekly average of the amounts paid over such period preceding the effective date of the relevant calculation decision as appears to the Secretary of State to be appropriate.
+
+(3) Where the income from the non-resident parent's present employment or office has, during the past 12 months, included bonus or commission or other amounts paid separately from, or in relation to a longer period than, the amounts referred to in paragraph (2), the amount of that income is to be calculated by aggregating those payments, dividing by 365 and multiplying by 7.
+
+(4) Where the earnings from the non-resident parent's present employment or office have, in the past 12 months, included amounts treated as earnings under Chapters 2 to 11 of Part 3 of ITEPA (the benefits code) the non-resident parent's current income is to be taken to include the amount of those benefits as last obtained by HMRC divided by 365 and multiplied by 7.
+
+(5) Where the non-resident parent's employer makes deductions of relievable pension contributions from the payments referred to in paragraph (2) or (3) the amount of those payments is to be calculated after those deductions.
+
+#### 39. Current income from self-employment[^c2199876]
+
+(1) The non-resident parent's current income from self-employment is to be determined by reference to the profits of any trade, profession or vocation carried on by the non-resident parent at the effective date of the relevant calculation decision.
+
+(2) The profits referred to in paragraph (1) are the profits determined in accordance with Part 2 of ITTOIA for the most recently completed relevant period or, if no such period has been completed, the estimated profits for the current relevant period.
+
+(3) The weekly amount is calculated by dividing the amount of those profits by the number of weeks in the relevant period.
+
+(4) In paragraphs (2) and (3) the “**relevant period**” means a tax year or such other period in respect of which the non-resident parent should, in the normal course of events, report the profits or losses of the trade, profession or vocation in question to HMRC in a self-assessment return.
+
+(5) In the case of a non-resident parent who carries on a trade, profession or vocation in partnership, the profits referred to in this regulation are the profits attributable to the non-resident parent's share of the partnership.
+
+(6) The profits of a trade, profession or vocation that the non-resident parent has ceased to carry on at the effective date of the relevant calculation decision are to be taken as nil.
+
+#### 40. Deduction for pension contributions relievable at source[^c2199877]
+
+Where the non-resident parent—
+
+- (a) has current income from self-employment or as an employee or office-holder at the effective date of the relevant calculation decision; and
+- (b) makes relievable pension contributions which are not taken into account under regulation 38(5),
+
+there is to be deducted from the sum of any amounts calculated in accordance with regulation 38 or 39 (current income as an employee, current income from self-employment) an amount determined by the Secretary of State as representing the weekly average of those contributions.
+
+#### 41. Current income from a pension[^c2199878]
+
+The non-resident parent's current income from a pension is to be calculated as the weekly average, over such period as the Secretary of State considers appropriate, of amounts received by the non-resident parent from a pension or annuity or other income (excluding UK social security pensions) of a kind that would be charged to tax under Part 9 of ITEPA.
+
+#### 42. Estimate of current income where insufficient information available[^c2199879]
+
+(1) Where—
+
+- (a)[^key-34a5b517d6a9d83b44b6ca3a02622585] current income applies by virtue of regulation 34(2)(a) where the amount of historic income is nil or by virtue of[^key-6b0fd5e5fe8bd1ed0fb23391ac32283b] regulation 34(2)(b) or (c)[^key-d913cd87374b452d90e75c199280f1ab] (historic income [^key-a75be4603edfd81673cc59842aaa2dbb]... not available); and
+- (b) the information available in relation to current income is insufficient or unreliable,
+
+the Secretary of State may estimate that income and, in doing so, may make any assumption as to any fact.
+
+(2) Where the Secretary of State is satisfied that the non-resident parent is engaged in a particular occupation, whether as an employee, office-holder or self-employed person, the assumptions referred to in paragraph (1) may include an assumption that the non-resident parent has the average weekly income of a person engaged in that occupation in the UK or in any part of the UK.
+
+### CHAPTER 2 — RATES OF CHILD SUPPORT MAINTENANCE
+
+#### 43. Reduced Rate[^c2199880]
+
+The reduced rate is an amount calculated as follows—
+
+[formula: see source](https://www.legislation.gov.uk/uksi/2012/2677)
+
+where—
+
+F is the flat rate liability applicable to the non-resident parent;
+
+A is the amount of the non-resident parent's gross weekly income between £100 and £200; and
+
+T is the percentage determined in accordance with the following Table—
+
+<table>
+<tbody>
+<tr><td></td><td>Number of relevant other children of the non-resident parent</td><td>T (%)</td></tr>
+<tr><td rowspan="4">1 qualifying child of the non-resident parent</td><td>0</td><td>17.0</td></tr>
+<tr><td>1</td><td>14.1</td></tr>
+<tr><td>2</td><td>13.2</td></tr>
+<tr><td>3 or more</td><td>12.4</td></tr>
+<tr><td rowspan="4">2 qualifying children of the non-resident parent</td><td>0</td><td>25.0</td></tr>
+<tr><td>1</td><td>21.2</td></tr>
+<tr><td>2</td><td>19.9</td></tr>
+<tr><td>3 or more</td><td>18.9</td></tr>
+<tr><td rowspan="4">3 or more qualifying children of the non-resident parent</td><td>0</td><td>31.0</td></tr>
+<tr><td>1</td><td>26.4</td></tr>
+<tr><td>2</td><td>24.9</td></tr>
+<tr><td>3 or more</td><td>23.8</td></tr>
+</tbody>
+</table>
+
+[^M_F_c0586af1-1bc9-426c-d84b-6c2d99639f3f]
+
+#### 44. Flat Rate[^c2199881]
+
+(1) The following benefits, pensions or allowances are prescribed for the purposes of paragraph 4(1)(b) of Schedule 1 to the 1991 Act [^c2141999] (that is the benefits, pensions or allowances that qualify the non-resident parent for the flat rate)—
+
+- (a) under the Social Security Contributions and Benefits Act 1992 [^c2142000]—
+  - (i)[^key-59ba266e64c6dac2184822eabe9892e0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (ii) category A retirement pension under section 44 [^c2142002],
+  - (iii) category B retirement pension under section 48C [^c2142003],
+  - (iv) category C and category D retirement pension under section 78 [^c2142004],
+  - (v) incapacity benefit under section 30A [^c2142005],
+  - (vi) carer's allowance under section 70 [^c2142006],
+  - (vii) maternity allowance under section 35 or 35B[^key-8d110b8b3153eb5624e40fc5e7eac1b3][^c2142007],
+  - (viii) severe disablement allowance under section 68 [^c2142008],
+  - (ix) industrial injuries benefit under section 94,
+  - (x) widowed mother's allowance under section 37 [^c2142009],
+  - (xi) widowed parent's allowance under section 39A [^c2142010], and
+  - (xii) widow's pension under section 38 [^c2142011];
+- (b) contribution-based jobseeker's allowance under the Jobseekers Act 1995 [^c2142012];
+- (c) a social security benefit paid by a country other than the United Kingdom;
+- (d) a training allowance (other than work-based training for young people or, in Scotland, Skillseekers training);
+- (e) a war disablement pension within the meaning of section 150(2) of the Social Security Contributions and Benefits Act 1992 [^c2142013] or a pension which is analogous to such a pension paid by the government of a country outside Great Britain;
+- (f) a war widow's pension, war widower's pension or surviving civil partner's war pension within the meaning of that section [^c2142014];
+- (g) a payment under a scheme mentioned in section 1(2) of the Armed Forces (Pensions and Compensation) Act 2004 [^c2142015] (compensation schemes for armed and reserve forces); [^key-bcb713d35ff3c6ac8e841e2238d0fe67]...
+- (h) contributory employment and support allowance;[^key-978386cf14709c0d2cfa99b8ba235365][^key-ab35c6235dbc976becbd2e87e537ed01]...
+- (i) a state pension under Part 1 of the Pensions Act 2014 and[^key-c7d460b7a5a762891aaaf25f9436104b].
+- (j)[^key-5b455e59a89031a5e4c781a5f0645310] the carer support payment component of carer support given in accordance with[^key-42a4b5bbf28178f37274b183af0f69d9] the Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023.
+
+(2) The following benefits are prescribed for the purposes of paragraph 4(1)(c) of Schedule 1 to the 1991 Act (that is the benefits that qualify the non-resident parent for the flat rate if received by the non-resident parent or their partner)—
+
+- (a) income support;
+- (b) income-based jobseeker's allowance;
+- (c) income-related employment and support allowance; [^key-4449f352c8f582276150accf698e0267]...
+- (d) state pension credit; and[^key-26d5bdb3a462ca907994f309a079a27c]
+- (e) universal credit under Part 1 of the Welfare Reform Act 2012, where the award of universal credit is calculated on the basis that the non-resident parent does not have any earned income
+
+(3) Where the conditions referred to in paragraph 4(2) of Schedule 1 to the 1991 Act are satisfied (that is where an income-related benefit is payable to the non-resident parent or their partner and a maintenance calculation is in force in respect of each of them) the flat rate of maintenance payable is half the flat rate that would otherwise apply.
+
+(4) In paragraph (1)(d) “**training allowance**” means a payment under section 2 of the Employment and Training Act 1973 [^c2142016] or section 2 of the Enterprise and New Towns (Scotland) Act 1990 [^c2142017] which is paid to a person for their maintenance while they are undergoing training.
+
+(5)[^key-6935c72f6d74ac5a41fe734d064dfbaa] For the purposes of paragraph (2)(e) and regulation 45(1)(c), “earned income” has the meaning given in regulation 52 of the Universal Credit Regulations 2013.
+
+#### 45. Nil rate[^c2199882]
+
+(1) The nil rate is payable where the non-resident parent is—
+
+- (a) a child;
+- (b) a prisoner or a person serving a sentence of imprisonment detained in hospital;
+- (c) a person who is 16 or 17 years old and—
+  - (i) in receipt of income support, income-based jobseeker's allowance or income-related employment and support allowance, [^key-fd988cecae4cdefcd66689cdb411e344]...
+  - (ii) a member of a couple whose partner is in receipt of income support, income-based jobseeker's allowance or income-related employment and support allowance;
+  - (iii)[^key-ec201a24189b0af454257cac1b93d3e9] in receipt of universal credit under Part 1 of the Welfare Reform Act 2012, where the award of universal credit is calculated on the basis that they do not have any earned income; or
+  - (iv) in a case not covered by paragraph (iii), a member of a couple where their partner is in receipt of universal credit under Part 1 of the Welfare Reform Act 2012 and the award of universal credit is calculated on the basis that the non-resident parent does not have any earned income
+- (d) a person receiving an allowance in respect of work-based training for young people, or in Scotland, Skillseekers training; or
+- (e) a person who is resident in a care home or an independent hospital or is being provided with a care home service or an independent health care service who—
+  - (i) is in receipt of a pension, benefit or allowance specified in regulation 44(1) or (2) (flat rate), or
+  - (ii) has the whole or part of the cost of their accommodation met by a local authority.
+
+(2) For the purposes only of determining whether paragraph 5(b) of Schedule 1 to the 1991 Act [^c2142018] applies (nil rate payable where non-resident parent has gross weekly income of below the flat rate that is referred to in, or prescribed for the purposes of, paragraph 4(1) of Schedule 1 to the 1991 Act), the gross weekly income of the non-resident parent is to include any payments made by way of benefits, pensions or allowances referred to in regulation 44(1) or (2).
+
+(3) In paragraph (1)—
+
+- “care home” in England has the meaning given by section 3 of the Care Standards Act 2000;[^key-3d6b981c9306b898a23e990fc11b8840]
+- “**care home service**” in Wales means a care home service within the meaning of Part 1 of the Regulation and Inspection of Social Care (Wales) Act 2016 which is provided wholly or mainly to persons aged 18 or over and in Scotland[^key-844f1c74d4566d147e5775349a5f4abe] has the meaning given by paragraph 2 of schedule 12 to the Public Services Reform (Scotland) Act 2010 [^c2142020] and “**independent health care service**” has the meaning given by section 10F(1)(a) and (b) of the National Health Service (Scotland) Act 1978[^c2142021];
+- “independent hospital” has the meaning given by section 2 of the Care Standards Act 2000;[^key-435a6cc50b630b46c7f58982b2bffb74]
+- “**person serving a sentence of imprisonment detained in hospital**” means a person who—
+  - (a) is being detained—
+    - (i) under section 45A or 47 of the Mental Health Act 1983 [^c2142022]; and
+    - (ii) before the day which the Secretary of State certifies to be that person's release date within the meaning of section 50(3) of that Act [^c2142023] (in any case where there is such a release date); or
+  - (b) is being detained under—
+    - (i) section 59A of the Criminal Procedure (Scotland) Act 1995 [^c2142024]; or
+    - (ii) section 136 of the Mental Health (Care and Treatment) (Scotland) Act 2003 [^c2142025];
+- “**prisoner**” means a person who—
+  - (c) is detained in custody pending trial or sentence upon conviction or under sentence imposed by a court; or
+  - (d) is on temporary release in accordance with the provisions of the Prison Act 1952 [^c2142026] or the Prisons (Scotland) Act 1989 [^c2142027],
+
+other than a person who is detained in hospital under the provisions of the Mental Health Act 1983 or, in Scotland, the Mental Health (Care and Treatment)(Scotland) Act 2003 or the Criminal Procedure (Scotland) Act 1995.
+
+#### 46. Decrease for shared care[^c2199883]
+
+(1) This regulation and regulation 47 apply where the Secretary of State determines the number of nights which count for the purposes of the decrease in the amount of child support maintenance under paragraphs 7 and 8 of Schedule 1 to the 1991 Act [^c2142028].
+
+(2) Subject to paragraph (3), the determination is to be based on the number of nights for which the non-resident parent is expected to have the care of the qualifying child overnight during the 12 months beginning with the effective date of the relevant calculation decision.
+
+(3) The Secretary of State may have regard to a period of less than 12 months where the Secretary of State considers a shorter period is appropriate (for example where the parties have an agreement in relation to a shorter period) and, if the Secretary of State does so, paragraphs 7(3) and 8(2) of Schedule 1 to the 1991 Act are to have effect as if—
+
+- (a) the period mentioned there were that shorter period; and
+- (b) the number of nights mentioned in the Table in paragraph 7(4), or in paragraph 8(2), of that Schedule were reduced proportionately.
+
+(4) When making a determination under paragraphs (1) to (3) the Secretary of State must consider—
+
+- (a) the terms of any agreement made between the parties or of any court order providing for contact between the non-resident parent and the qualifying child; or
+- (b) if there is no agreement or court order, whether a pattern of shared care has already been established over the past 12 months (or such other period as the Secretary of State considers appropriate in the circumstances of the case).
+
+(5) For the purposes of this regulation—
+
+- (a) a night will count where the non-resident parent has the care of the qualifying child overnight and the child stays at the same address as the non-resident parent;
+- (b) the non-resident parent has the care of the qualifying child when the non-resident parent is looking after the child; and
+- (c) where, on a particular night, a child is a boarder at a boarding school, or an in-patient in a hospital, the person who would, but for those circumstances, have the care of the child for that night, shall be treated as having care of the child for that night.
+
+#### 47. Assumption as to number of nights of shared care[^c2199884]
+
+(1) This regulation applies where the Secretary of State is required to make a determination under regulation 46 for the purposes of a calculation decision.
+
+(2) If it appears to the Secretary of State that—
+
+- (a) the parties agree in principle that the care of a qualifying child is to be shared during the period mentioned in regulation 46(2) or (3) (decrease for shared care); but
+- (b) there is insufficient evidence to make that determination on the basis set out in regulation 46(4) (for example because the parties have not yet agreed the pattern or frequency or the evidence as to a past pattern is disputed),
+
+the Secretary of State may make the decision on the basis of an assumption that the non-resident parent is to have the care of the child overnight for one night per week.
+
+(3) Where the Secretary of State makes a decision under paragraph (2) the assumption applies until an application is made under section 17 of the 1991 Act for a supersession of that decision and the evidence provided is sufficient to enable a determination to be made on the basis set out in regulation 46(4).
+
+#### 48. Non-resident parent party to another maintenance arrangement[^c2199885]
+
+(1) An agreement described in paragraph (2) is an agreement of a prescribed description for the purposes of paragraph 5A(6)(b) of Schedule 1 to the 1991 Act [^c2142029] (that is an agreement which is a qualifying maintenance arrangement for the purposes of that paragraph).
+
+(2) The agreement may be oral or written and must satisfy the following conditions—
+
+- (a) it must relate to a child of the non-resident parent who is habitually resident in the UK;
+- (b) it must be between the non-resident parent and a person with whom the child has their home (but not in the same household as the non-resident parent) and who usually provides day to day care for that child; and
+- (c) it must provide for the non-resident parent to make regular payments for the benefit of the child.
+
+(3) The payments mentioned in paragraph (2)(c) may include payments made by the non-resident parent direct to the person mentioned in paragraph (2)(b) or payments to other persons.
+
+### CHAPTER 3 — DEFAULT MAINTENANCE DECISIONS
+
+#### 49. Default rate[^c2199886]
+
+(1) Where the Secretary of State makes a default maintenance decision under section 12(1) of the 1991 Act (that is where there is insufficient information to make a maintenance calculation) the default rate is set out in paragraph (2).
+
+(2) The default rate is—
+
+- (a) £39 where there is one qualifying child;
+- (b) £51 where there are two qualifying children; or
+- (c) £64 where there are three or more qualifying children,
+
+apportioned, where the non-resident parent has more than one qualifying child and in relation to them there is more than one person with care, as provided in paragraph 6(2) of Schedule 1 to the 1991 Act.
+
+### CHAPTER 4 — SPECIAL CASES
+
+#### 50. Parent treated as a non-resident parent in shared care cases[^c2199887]
+
+(1) Where the circumstances of a case are that—
+
+- (a) an application is made by a person with care under section 4 of the 1991 Act [^c2142030]; and
+- (b) the person named in that application as the non-resident parent of the qualifying child also provides a home for that child (in a different household from the applicant) and shares the day to day care of that child with the applicant,
+
+the case is to be treated as a special case for the purposes of the 1991 Act.
+
+(2) For the purposes of this special case, the person mentioned in paragraph (1)(b) is to be treated as the non-resident parent if, and only if, that person provides day to day care to a lesser extent than the applicant.
+
+(3) Where the applicant is receiving child benefit in respect of the qualifying child the applicant is assumed, in the absence of evidence to the contrary, to be providing day to day care to a greater extent than any other person.
+
+(4)[^key-37ea73fcfc2e8596d44cc53dad1a8809] For the purposes of paragraph (3), where a person has made an election under section 13A(1) of the Social Security Administration Act 1992 (election not to receive child benefit) for payments of child benefit not to be made, that person is to be treated as receiving child benefit.
+
+#### 51. Child in care who is allowed to live with their parent[^c2199888]
+
+(1) Where the circumstances of a case are that a qualifying child who is in the care of a local authority in England and Wales is allowed by the authority to live with a parent of that child under section 22C(2) [^key-d173aed31da43f3fd7d2aa1e6e9f118c]... of the Children Act 1989 or section 81(2) of the Social Services and Well-being (Wales) Act 2014[^key-7f0de39449a04c6a898febf1e31de8dd][^c2142031], that case is to be treated as a special case for the purposes of the 1991 Act.
+
+(2) For the purposes of this case, section 3(3)(b) of the 1991 Act is to be modified so that, for the reference to the person who usually provides day to day care for the child there is substituted a reference to the parent of the child with whom the local authority has allowed the child to live.
+
+#### 52. Non-resident parent liable to maintain a child of the family or a child abroad[^c2199889]
+
+(1) A case is to be treated as a special case for the purposes of the 1991 Act where—
+
+- (a) an application for a maintenance calculation has been made or a maintenance calculation is in force with respect to a qualifying child and a non-resident parent;
+- (b) there is a different child in respect of whom no application for a maintenance calculation may be made but whom the non-resident parent is liable to maintain—
+  - (i) in accordance with a maintenance order made in respect of that child as a child of the non-resident parent's family, or
+  - (ii) in accordance with an order made by a court outside Great Britain or under the legislation of a jurisdiction outside the United Kingdom; and
+- (c) the weekly rate of child support maintenance, apart from this regulation, would be the basic rate or the reduced rate or would be calculated following agreement to a variation where the rate would otherwise be the flat rate or the nil rate.
+
+(2) In any such case the amount of child support maintenance is to be calculated in accordance with paragraph 5A of Schedule 1 to the 1991 Act as if the child in question were a child with respect to whom the non-resident parent was a party to a qualifying maintenance arrangement.
+
+(3) For the purposes of this regulation “**child**” includes a person who has not attained the age of 20 whom the non-resident parent is liable to maintain in accordance with paragraph (1)(b)(ii).
+
+#### 53. Care provided in part by a local authority[^c2199890]
+
+(1) This regulation applies where paragraph (2) applies and the rate of child support maintenance payable is the basic rate, or the reduced rate, or has been calculated following agreement to a variation where the non-resident parent's liability would otherwise have been the flat rate or the nil rate.
+
+(2) Where the circumstances of a case are that the care of the qualifying child is shared between the person with care and a local authority and—
+
+- (a) the qualifying child is in the care of the local authority for 52 nights or more in the period of 12 months ending with the effective date of the relevant calculation decision;
+- (b) where, in the opinion of the Secretary of State, a period other than the period of 12 months mentioned in sub-paragraph (a) is more representative of the current arrangements for the care of the qualifying child, the qualifying child is in the care of the local authority during that period for no fewer than the number of nights which bears the same ratio to 52 nights as that period bears to 12 months; or
+- (c) it is intended that the qualifying child is to be in the care of the local authority for a number of nights in a period beginning with the day after the effective date and—
+  - (i) if that period were a period of 12 months, the number of nights is 52 nights or more; or
+  - (ii) if that period were a period other than 12 months, the number of nights is no fewer than the number of nights which bears the same ratio to 52 nights as that period bears to 12 months,
+
+that case is to be treated as a special case for the purpose of the 1991 Act.
+
+(3) In a case where this regulation applies, the amount of child support maintenance which the non-resident parent is liable to pay the person with care of that qualifying child is the amount calculated in accordance with the provisions of Part I of Schedule 1 to the 1991 Act and decreased in accordance with this regulation.
+
+(4) First, there is to be a decrease according to the number of nights spent or to be spent by the qualifying child in the care of the local authority during the period under consideration.
+
+(5) Where paragraph (2)(b) or (c) applies, the number of nights in the period under consideration shall be adjusted by the ratio which the period of 12 months bears to the period under consideration.
+
+(6) After any adjustment under paragraph (5), the amount of the decrease for one child is set out in the following Table—
+
+| *Number of nights in care of local authority* | *Fraction to subtract* |
+| --- | --- |
+| 52-103 | One-seventh |
+| 104-155 | Two-sevenths |
+| 156-207 | Three-sevenths |
+| 208-259 | Four-sevenths |
+| 260-262 | Five-sevenths |
+
+(7) If the non-resident parent and the person with care have more than one qualifying child, the applicable decrease is the sum of the appropriate fractions in the Table divided by the number of such qualifying children.
+
+(8) In a case where the amount of child support maintenance which the non-resident parent is liable to pay in relation to the same person with care is to be decreased in accordance with the provisions of both this regulation and of paragraph 7 of Part 1 of Schedule 1 to the 1991 Act, read with these Regulations, the applicable decrease is the sum of the appropriate fractions derived under those provisions.
+
+(9) If the application of this regulation would decrease the weekly amount of child support maintenance (or the aggregate of all such amounts) payable by the non-resident parent to less than the flat rate referred to in paragraph 4(1) of Schedule 1 to the 1991 Act (or in that sub-paragraph as modified by regulations under paragraph 10A of Schedule 1), the non-resident parent is instead liable to pay child support maintenance at a rate equivalent to that rate, apportioned (if appropriate) in accordance with paragraph 6 of Part I of Schedule 1 to that Act.
+
+(10) If the number of nights calculated for the purposes of applying the table in paragraph (6) is 263 or more, the amount of child support maintenance payable by the non-resident parent in respect of the child in question is nil.
+
+(11) Where a qualifying child is a boarder at a boarding school or is an in-patient at a hospital, the qualifying child shall be treated as being in the care of the local authority for any night that the local authority would otherwise have been providing such care.
+
+(12) A child is in the care of a local authority for any night in which that child is being looked after by the local authority within the meaning of section 22 of the Children Act 1989 [^c2142032] or section 17(6) of the Children (Scotland) Act 1995 or section 74 of the Social Services and Well-being (Wales) Act 2014[^key-f6de386246fe3186cfe3a70827553c92][^c2142033].
+
+#### 54. Care provided for relevant other child by a local authority[^c2199891]
+
+(1)[^key-e0d630edbca717af35c2ddeb4e51c8cb] Where a child other than a qualifying child is cared for in part or in full by a local authority, and the non-resident parent or the non-resident parent's partner receives child benefit for that child, the child is a relevant other child for the purposes of Schedule 1 to the 1991 Act.
+
+(2)[^key-0a04b00ea2860f47019ca1043f09fe7e] For the purposes of paragraph (1), where a person has made an election under section 13A(1) of the Social Security Administration Act 1992 (election not to receive child benefit) for payments of child benefit not to be made, that person is to be treated as receiving child benefit.
+
+#### 55. Child who is a boarder or an in-patient in hospital[^c2199892]
+
+(1) Where the circumstances of the case are that—
+
+- (a) a qualifying child is a boarder at a boarding school or is an in-patient in a hospital; and
+- (b) by reason of those circumstances, the person who would otherwise provide day to day care is not doing so,
+
+that case is to be treated as a special case for the purposes of the 1991 Act.
+
+(2) For the purposes of this case, section 3(3)(b) of the 1991 Act is to be modified so that for the reference to the person who usually provides day to day care for the child there is substituted a reference to the person who would usually provide day to day care for that child but for the circumstances specified in paragraph (1).
+
+## PART 5 — VARIATIONS
+
+### CHAPTER 1 — GENERAL
+
+#### 56. Application for a variation[^c2199893]
+
+(1) Where an application for a variation is made other than in writing it is treated as made on the date on which the applicant notifies the Secretary of State that the applicant wishes to make such an application.
+
+(2) Where an application for a variation is made in writing it is treated as made on the date that the Secretary of State receives it.
+
+(3) Two or more applications for a variation with respect to the same maintenance calculation or application for a maintenance calculation may be considered together.
+
+(4) The Secretary of State may treat an application for a variation made on one ground as made on another ground if that other ground is more appropriate to the facts alleged in that case.
+
+#### 57. Rejection of an application following preliminary consideration[^c2199894]
+
+(1) The circumstances prescribed for the purposes of section 28B(2)(c) of the 1991 Act [^c2142034] (other circumstances in which an application may be rejected after preliminary consideration) are—
+
+- (a) the applicant does not state a ground for the variation or provide sufficient information to enable a ground to be identified;
+- (b) although a ground is stated, the Secretary of State is satisfied that the application would not be agreed to because —
+  - (i) the facts alleged do not bring the case within the ground; or
+  - (ii) no facts are alleged that would support the ground or could reasonably form the basis of further enquiries;
+- (c) a default maintenance decision is in force;
+- (d) the non-resident parent is liable to pay the flat rate or nil rate because the non-resident parent or their partner is in receipt of a benefit listed in regulation 44(2) (flat rate);
+- (e) in the case of an application made by the non-resident parent on the grounds mentioned in Chapter 2 (special expenses)—
+  - (i) the amount of the expenses does not exceed the relevant threshold;
+  - (ii) the amount of maintenance for which the non-resident parent is liable is equal to or less than the flat rate referred to in paragraph 4(1) of Schedule 1 to the 1991 Act (or in that sub-paragraph as modified by regulations under paragraph 10A of Schedule 1);
+  - (iii) the amount of the non-resident parent's gross weekly income would exceed the capped amount after deducting special expenses; or
+  - (iv) the non resident parent's gross weekly income has been determined on the basis of regulation 42 (estimate of current income where insufficient information available); or
+- (f) in the case of an application on any of the grounds mentioned in Chapter 3 (additional income), the amount of the non-resident parent's gross weekly income (without taking that ground into account) is the capped amount.
+
+(2) The circumstances set out in paragraph (1) are circumstances prescribed for the purposes of section 28F(3)(b) of the 1991 Act in which the Secretary of State must not agree to a variation.
+
+#### 58. Provision of information[^c2199895]
+
+(1) Where the Secretary of State has received an application for a variation the Secretary of State may request further information or evidence from the applicant to enable that application to be determined.
+
+(2) Any such information or evidence requested in accordance with paragraph (1) must be provided within 14 days after the date of notification of the request or such longer period as the Secretary of State is satisfied is reasonable in the circumstances of the case.
+
+(3) Where any information or evidence requested is not provided within the time specified in paragraph (2), the Secretary of State may, where able to do so, proceed to determine the application in the absence of the requested information or evidence.
+
+#### 59. Procedure in relation to a variation[^c2199896]
+
+(1) Where the Secretary of State has given the preliminary consideration to an application for a variation and not rejected it, the Secretary of State—
+
+- (a) must give notice of the application to any other party informing them of the grounds on which the application has been made and any relevant information or evidence given by the applicant or obtained by the Secretary of State, except information or evidence falling within paragraph (5); and
+- (b) may invite representations (which need not be in writing but must be in writing if in any case the Secretary of State so directs) from the other party on any matter relating to that application, to be submitted to the Secretary of State within 14 days after the date of notification or such longer period as the Secretary of State is satisfied is reasonable in the circumstances of the case.
+
+(2) The Secretary of State need not act in accordance with paragraph (1) if—
+
+- (a) the Secretary of State is satisfied on the information or evidence available that the application would not be agreed to;
+- (b) in the case of an application for a variation on the ground mentioned in regulation 69 (non-resident parent with unearned income), the information from HMRC for the latest available tax year does not disclose unearned income exceeding the relevant threshold and the Secretary of State is not in possession of other information or evidence that would merit further enquiry; or
+- (c) regulation 75 (previously agreed variation may be taken into account notwithstanding that no further application has been made) applies;
+
+(3) Where the Secretary of State receives representations from the other party—
+
+- (a) the Secretary of State may, if the Secretary of State is satisfied that it is reasonable to do so, inform the applicant of the representations concerned (excluding material falling within paragraph (5)) and invite comments within 14 days or such longer period as the Secretary of State is satisfied is reasonable in the circumstances of the case; and
+- (b) where the Secretary of State acts under sub-paragraph (a), the Secretary of State must not proceed to determine the application until such comments are received or the period referred to in that sub-paragraph has expired.
+
+(4) Where the Secretary of State has not received representations from the other party notified in accordance with paragraph (1) within the time specified in sub-paragraph (b) of that paragraph, the Secretary of State may in their absence proceed to agree (or not, as the case may be) to the variation.
+
+(5) The information or evidence referred to in paragraph (1)(a) is as follows—
+
+- (a) details of the nature of the long-term illness or disability of the relevant other child which forms the basis of a variation application on the ground in regulation 64 (illness or disability of a relevant other child) where the applicant requests they should not be disclosed and the Secretary of State is satisfied that disclosure is not necessary in order to be able to determine the application;
+- (b) medical evidence or medical advice which has not been disclosed to the applicant or the other party and which the Secretary of State considers would be harmful to the health of the applicant or that party if disclosed; or
+- (c) the address of the other party or qualifying child, or any other information which could reasonably be expected to lead to that party or child being located, where the Secretary of State considers that there would be a risk of harm or undue distress to that other party or that child or any other children living with that other party if the address or information were disclosed.
+
+#### 60. Factors not taken into account for the purposes of section 28F[^c2199897]
+
+The following factors are not to be taken into account in determining whether it would be just and equitable to agree to a variation in any case—
+
+- (a) the fact that the conception of the qualifying child was not planned by one or both of the parents;
+- (b) whether the non-resident parent or the person with care of the qualifying child was responsible for the breakdown of the relationship between them;
+- (c) the fact that the non-resident parent or the person with care of the qualifying child has formed a new relationship with a person who is not a parent of that child;
+- (d) the existence of particular arrangements for contact with the qualifying child, including whether any arrangements made are being adhered to;
+- (e) the income or assets of any person other than the non-resident parent;
+- (f) the failure by a non-resident parent to make payments of child support maintenance, or to make payments under a maintenance order or a maintenance agreement; or
+- (g) representations made by persons other than the parties.
+
+#### 61. Procedure on revision or supersession of a previously determined variation[^c2199898]
+
+(1) Subject to paragraph (2), where the Secretary of State has received an application under section 16 or 17 of the 1991 Act [^c2142035] in connection with a previously determined variation which has effect on a maintenance calculation in force, regulations 58 to 60 apply in relation to that application as if it were an application for a variation that had not been rejected after preliminary consideration.
+
+(2) The Secretary of State need not act in accordance with regulation 59(1) (procedure in relation to a variation) if—
+
+- (a) were the application to succeed, the decision as revised or superseded would be less advantageous to the applicant than the decision before it was so revised or superseded; or
+- (b) it appears to the Secretary of State that representations of the other party would not be relevant to the decision.
+
+#### 62. Regular payments condition[^c2199899]
+
+(1) For the purposes of section 28C(2)(b) of the 1991 Act [^c2142036] (payments of child support maintenance less than those specified in the interim maintenance decision) the payments are those fixed by the interim maintenance decision or the maintenance calculation in force, as the case may be, adjusted to take account of the variation applied for by the non-resident parent as if that variation had been agreed.
+
+(2) The Secretary of State may refuse to consider the application for a variation where a regular payments condition has been imposed and the non-resident parent fails to make such payments, which are due and unpaid, within one month after being required to do so by the Secretary of State or such other period as the Secretary of State may in the particular case decide.
+
+### CHAPTER 2 — GROUNDS FOR VARIATION: SPECIAL EXPENSES
+
+#### 63. Contact costs[^c2199900]
+
+(1) Subject to the following paragraphs of this regulation, and to regulation 68 (thresholds), the following costs incurred or reasonably expected to be incurred by the non-resident parent, whether in respect of the non-resident parent or the qualifying child or both, for the purpose of maintaining contact with that child, constitute special expenses for the purposes of paragraph 2(2) of Schedule 4B to the 1991 Act [^c2142037]—
+
+- (a) the cost of purchasing a ticket for travel;
+- (b) the cost of purchasing fuel where travel is by a vehicle which is not carrying fare-paying passengers;
+- (c) the taxi fare for a journey or part of a journey where the Secretary of State is satisfied that the disability or long-term illness of the non-resident parent or the qualifying child makes it impracticable for any other form of transport to be used for that journey or part of that journey;
+- (d) the cost of car hire where the cost of the journey would be less in total than it would be if public transport or taxis or a combination of both were used;
+- (e) where the Secretary of State considers a return journey on the same day is impracticable, or the established or intended pattern of contact with the child includes contact over two or more consecutive days, the cost of the non-resident parent's or, as the case may be, the child's, accommodation for the number of nights the Secretary of State considers appropriate in the circumstances of the case; and
+- (f) any minor incidental costs such as tolls or fees payable for the use of a particular road or bridge incurred in connection with such travel, including breakfast where it is included as part of the accommodation cost referred to in sub-paragraph (e).
+
+(2) The costs to which paragraph (1) applies include the cost of a person to travel with the non-resident parent or the qualifying child, if the Secretary of State is satisfied that the presence of another person on the journey, or part of the journey, is necessary including, but not limited to, where it is necessary because of the young age of the qualifying child or the disability or long-term illness of the non-resident parent or that child.
+
+(3) The costs referred to in paragraphs (1) and (2)—
+
+- (a) are expenses for the purposes of paragraph 2(2) of Schedule 4B to the 1991 Act only to the extent that they are—
+  - (i) incurred in accordance with a set pattern as to frequency of contact between the non-resident parent and the qualifying child which has been established at or, where at the time of the variation application it has ceased, which had been established before, the time that the variation application is made; or
+  - (ii) based on an intended set pattern for such contact which the Secretary of State is satisfied has been agreed between the non-resident parent and the person with care of the qualifying child; and
+- (b) are —
+  - (i) where sub-paragraph (a)(i) applies and such contact is continuing, calculated as an average weekly amount based on the expenses actually incurred during the period of 12 months, or such lesser period as the Secretary of State may consider appropriate in the circumstances of the case, ending immediately before the day from which a variation agreed on this ground would take effect;
+  - (ii) where sub-paragraph (a)(i) applies and such contact has ceased, calculated as an average weekly amount based on the expenses actually incurred during the period from the day from which a variation agreed on this ground would take effect to the last day on which the variation would take effect; or
+  - (iii) where sub-paragraph (a)(ii) applies, calculated as an average weekly amount based on anticipated costs during such period as the Secretary of State considers appropriate.
+
+(4) Where, at the date on which the variation application is made, the non-resident parent has received, is in receipt of, or will receive, any financial assistance, other than a loan, from any source to meet, wholly or in part, the costs of maintaining contact with a child as referred to in paragraph (1), only the amount of the costs referred to in that paragraph, after the deduction of the financial assistance, constitutes special expenses for the purposes of paragraph 2(2) of Schedule 4B to the 1991 Act.
+
+#### 64. Illness or disability of relevant other child[^c2199901]
+
+(1) Subject to the following paragraphs of this regulation, expenses necessarily incurred by the non-resident parent in respect of the items listed in sub-paragraphs (a) to (m) due to the long-term illness or disability of a relevant other child constitute special expenses for the purposes of paragraph 2(2) of Schedule 4B to the 1991 Act—
+
+- (a) personal care and attendance;
+- (b) personal communication needs;
+- (c) mobility;
+- (d) domestic help;
+- (e) medical aids where these cannot be provided under the health service;
+- (f) heating;
+- (g) clothing;
+- (h) laundry requirements;
+- (i) payments for food essential to comply with a diet recommended by a medical practitioner;
+- (j) adaptations required to the non-resident parent's home;
+- (k) day care;
+- (l) rehabilitation; or
+- (m) respite care.
+
+(2) For the purposes of this regulation and regulation 63 (contact costs)—
+
+- (a) a person is “disabled” for a period in respect of which—
+  - (i) a disability living allowance , Scottish adult disability living allowance[^key-9a3d98ba4cfecc6572cb1147ff5ce7f2] , child disability payment[^key-b6dbbb185740f84199dfdffed6b52499] , armed forces independence payment[^key-e4832c589b3bd907288e1ff57e47c0b4] ,[^key-0d9bda7579edffab2338c689a5e8e113][^key-26ec3163671b303d443b80827f1c3b17] personal independence payment or adult disability payment[^key-0ad787189d6422d0e059a40edba4739d] is paid to or in respect of that person;
+  - (ii) that person would receive a disability living allowance , or the care component of child disability payment in accordance with regulation 11 of the Disability Assistance for Children and Young People (Scotland) Regulations 2021,[^key-c823a4fe8d439fcded0a08f48a522bee] if it were not for the fact that the person is a patient, though remaining part of the applicant's family; [^key-e066b8a169ef36a5b20387a68da8edf3]...
+  - (iii) that person is registered blind, [^key-3cafa56b779e227d06bf9c9ccddfb03b]...
+  - (iv)[^key-968df67b674e7c28783fb47148324281] that person would receive personal independence payment but for regulations under section 86(1) (hospital in-patients) of the Welfare Reform Act 2012, and remains part of the applicant’s family,[^key-e59b386aaa420d8c6cde976b9df41600]...
+  - (v)[^key-1bf785d73f5f925277990768d99a0f23] that person would receive adult disability payment but for regulation 28 (effect of admission to hospital on ongoing entitlement to Adult Disability Payment) of the Disability Assistance for Working Age People (Scotland) Regulations 2022[^key-bb406f16439efcbdcb0b8f4b6a554e28], and remains part of the applicant’s family, or[^key-99bd927ba3d5a4ce770110495c976114]
+  - (vi) that person would receive Scottish adult disability living allowance but for regulation 23 (effect of admission to hospital on ongoing entitlement to Scottish adult disability living allowance) of the Disability Assistance (Scottish Adult Disability Living Allowance) Regulations 2025, and remains part of the applicant's family,
+
+  and “**disability**” is to be construed accordingly;
+- (ab)[^key-9584fe8bf6159c4fede94fae51c8bcb8] “child disability payment” has the meaning given in regulation 2 of the Disability Assistance for Children and Young People (Scotland) Regulations 2021
+- (b) “**disability living allowance**” means the care component of a disability living allowance, payable under section 72 of the Social Security Contributions and Benefits Act 1992;
+- (ba)[^key-a092434eff5238cf556444f4822781aa] “**Scottish adult disability living allowance**” means the care component of a Scottish adult disability living allowance, payable under regulation 6 of the Disability Assistance (Scottish Adult Disability Living Allowance) Regulations 2025;
+- (c) “**the health service**” has the same meaning as in section 275 of the National Health Service Act 2006[^c2142038] or in section 108(1) of the National Health Service (Scotland) Act 1978[^c2142039];
+- (d) “**long-term illness**” means an illness from which the child is suffering at the date of the application or the date from which the variation, if agreed, would take effect and which is likely to last for at least 12 months after that date, or, if likely to be shorter than 12 months, for the remainder of their life; and
+- (e) “**relevant other child**” has the meaning given in paragraph 10C(2) of Schedule 1 to the 1991 Act[^c2142040];
+- (f) a person is “registered blind” where that person is—
+  - (i)[^key-5849d4577fcc7c95d726fd525719e432] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - ((ia)) registered as severely sight-impaired in a register kept by a local authority in England under section 77(1) of the Care Act 2014 (registers of sight-impaired adults);[^key-3a411f6e167f4f560f56582eab9d3f7a] [^key-be026dfcd375a0fbefa1f2723bb297a2]...
+  - (ii) registered as blind in a register maintained by or on behalf of a local authority in Scotland; or[^key-3e3d1510b0bc3ba2578419ecf4db9dde]
+  - (iii) registered as severely sight impaired in a register kept by a local authority in Wales under section 18(1)(a) of the Social Services and Well-being (Wales) Act 2014;
+- (g)[^key-6572895cd687ef491f3200856d1bb75d] “personal independence payment” means the daily living component of personal independence payment under section 78 of the Welfare Reform Act 2012.
+- (ga)[^key-141004cefecf46891def5d300f75c762] “**adult disability payment**” means the daily living component of adult disability payment under regulation 5 of the Disability Assistance for Working Age People (Scotland) Regulations 2022;
+- (h)[^key-04e61337e926616c2ef3d20aaf4bf123] “armed forces independence payment” means armed forces independence payment under the Armed Forces and Reserve Forces (Compensation Scheme) Order 2011.
+
+(3) Where, at the date on which the non-resident parent makes the variation application—
+
+- (a) the non-resident parent or a member of the non-resident parent's household has received, is in receipt of, or will receive any financial assistance from any source in respect of the long-term illness or disability of the relevant other child; or
+- (b) a disability living allowance , Scottish adult disability living allowance[^key-021bbe3b0d761ab407954f8fec95ce43] , child disability payment[^key-e680751653fb84c47954ed8e390c7bfa] , armed forces independence payment[^key-06362a70e06bff0ab227c332d5ac6e80] ,[^key-78090a65fb991724f3be994af1c6ccbb][^key-822debe6910153f79ac12feee339d79e] personal independence payment or adult disability payment[^key-459b086fcb4aaad1f5f3681f1962dc66] is received by the non-resident parent or the member of the non-resident parent's household on behalf of the relevant other child,
+
+only the net amount of the costs incurred in respect of the items listed in paragraph (1), after the deduction of the financial assistance or the amount of the allowance or payment[^key-4b406f5442469635a57884443c5f440f], constitutes special expenses for the purposes of paragraph 2(2) of Schedule 4B to the 1991 Act.
+
+(4) For the purposes of paragraph (2)(a)—
+
+- (a) “**patient**” means a person (other than a person who is serving a sentence of imprisonment within the meaning of section 163 of the Powers of Criminal Courts (Sentencing) Act 2000 [^c2142042] or section 397 of the Sentencing Code[^key-0c7958cb21110d6da9f9355e630ebd4c] or of detention in a young offender institution within the meaning of section 96 of the Powers of Criminal Courts (Sentencing) Act 2000 or section 262 of the Sentencing Code[^key-4b09a1a08e2bc2d5d104068c11a72ef7] or, in Scotland, a sentence of imprisonment or detention within the meaning of section 307 of the Criminal Procedure (Scotland) Act 1995) who is regarded as receiving free in-patient treatment within the meaning of regulation 2(4) and (5) of the Social Security (Hospital In-Patients) Regulations 2005[^c2142043]; and
+- (b) where a person has ceased to be registered in a register as referred to in paragraph (2)(f), having regained their eyesight, that person is to be treated as though they were registered blind, for a period of 28 days after the day on which that person ceased to be registered in such a register.
+
+#### 65. Prior debts[^c2199902]
+
+(1) Subject to the following paragraphs of this regulation and regulation 68 (thresholds), the repayment of debts to which paragraph (2) applies constitutes special expenses for the purposes of paragraph 2(2) of Schedule 4B to the 1991 Act where those debts were incurred—
+
+- (a) before the non-resident parent became a non-resident parent in relation to the qualifying child; and
+- (b) at the time when the non-resident parent and the person with care in relation to the child referred to in sub-paragraph (a) were a couple.
+
+(2) This paragraph applies to debts incurred—
+
+- (a) for the joint benefit of the non-resident parent and the person with care;
+- (b) for the benefit of the person with care where the non-resident parent remains legally liable to repay the whole or part of the debt;
+- (c) for the benefit of any person who is not a child but who at the time the debt was incurred—
+  - (i) was a child,
+  - (ii) lived with the non-resident parent and the person with care, and
+  - (iii) of whom the non-resident parent or the person with care is the parent, or both are the parents;
+- (d) for the benefit of the qualifying child referred to in paragraph (1); or
+- (e) for the benefit of any child, other than the qualifying child referred to in paragraph (1), who, at the time the debt was incurred—
+  - (i) lived with the non-resident parent and the person with care, and
+  - (ii) of whom the person with care is the parent.
+
+(3) Paragraph (1) does not apply to repayment of—
+
+- (a) a debt which would otherwise fall within paragraph (1) where the non-resident parent has retained for the non-resident parent's own use and benefit the asset in connection with the purchase of which the debt was incurred;
+- (b) a debt incurred for the purposes of any trade or business;
+- (c) a gambling debt;
+- (d) a fine imposed on the non-resident parent;
+- (e) unpaid legal costs in respect of—
+  - (i) separation from the person with care;
+  - (ii) divorce from the person with care; or
+  - (iii) dissolution of a civil partnership that had been formed with the person with care;
+- (f) amounts due after use of a credit card;
+- (g) a debt incurred by the non-resident parent to pay for any of the items listed in sub-paragraphs (c) to (f) and (j);
+- (h) amounts payable by the non-resident parent under a mortgage or loan taken out on the security of any property, except where that mortgage or loan was taken out to facilitate the purchase of, or to pay for repairs or improvements to, any property which was, and continues to be, the home of the person with care and any qualifying child;
+- (i) amounts payable by the non-resident parent in respect of a policy of insurance, except where that policy of insurance was obtained or retained to discharge a mortgage or charge taken out to facilitate the purchase of, or to pay for repairs or improvements to, any property which was, and continues to be, the home of the person with care and the qualifying child;
+- (j) a bank overdraft except where the overdraft was at the time it was taken out agreed to be for a specified amount repayable over a specified period;
+- (k) a loan obtained by the non-resident parent other than a loan obtained from a qualifying lender or the non-resident parent's current or former employer; or
+- (l) any other debt which the Secretary of State is satisfied is reasonable to exclude.
+
+(4) Except where the repayment is of an amount which is payable under a mortgage or loan or in respect of a policy of insurance which falls within the exception set out in sub-paragraph (h) or (i) of paragraph (3), repayment of a debt does not constitute expenses for the purposes of paragraph (1) where the Secretary of State is satisfied that the non-resident parent has taken responsibility for repayment of that debt as, or as part of, a financial settlement with the person with care or by virtue of a court order.
+
+(5) Where an applicant has incurred a debt partly to repay a debt, repayment of which would have fallen within paragraph (1), the repayment of that part of the debt incurred which is referable to the debt repayment of which would have fallen within that paragraph, constitutes expenses for the purposes of paragraph 2(2) of Schedule 4B to the 1991 Act.
+
+(6) In paragraph (3)(h) “**repairs or improvements**” means repairs that the Secretary of State considers are major repairs necessary to maintain the fabric of the home and any of the following measures—
+
+- (a) installation of a fixed bath, shower, wash basin or lavatory, and necessary associated plumbing;
+- (b) damp-proofing measures;
+- (c) provision or improvement of ventilation and natural light;
+- (d) provision of electric lighting and sockets;
+- (e) provision or improvement of drainage facilities;
+- (f) improvement of the structural condition of the home;
+- (g) improvements to the facilities for the storing, preparation and cooking of food;
+- (h) provision of heating, including central heating;
+- (i) provision of storage facilities for fuel and refuse;
+- (j) improvements to the insulation of the home; or
+- (k) other improvements which the Secretary of State considers reasonable in the circumstances.
+
+#### 66. Boarding school fees[^c2199903]
+
+(1) Subject to the following paragraphs of this regulation and regulation 68 (thresholds), the maintenance element of boarding school fees, incurred or reasonably expected to be incurred by the non-resident parent, constitutes special expenses for the purposes of paragraph 2(2) of Schedule 4B to the 1991 Act.
+
+(2) Where the Secretary of State considers that the maintenance element of the boarding school fees cannot be distinguished with reasonable certainty from the total fees, the Secretary of State may instead determine the amount of the maintenance element and any such determination is not to exceed 35% of the total fees.
+
+(3) Where—
+
+- (a) the non-resident parent has, at the date on which the variation application is made, received, or at that date is in receipt of, financial assistance from any source in respect of the boarding school fees; or
+- (b) the boarding school fees are being paid in part by the non-resident parent and in part by another person,
+
+a portion of the expenses incurred by the non-resident parent in respect of the boarding school fees, calculated in accordance with paragraph (4), constitutes special expenses for the purposes of paragraph 2(2) of Schedule 4B to the 1991 Act.
+
+(4) For the purposes of paragraph (3), the portion in question is calculated as follows—
+
+- (a) find the amount (A) that results from deducting from the amount of the boarding school fees the financial assistance, or the amount that another person is paying, as referred to in paragraph (3);
+- (b) find the amount that bears the same proportion to A as the maintenance element of the fees referred to in paragraph (1) bears to the total fees referred to in that paragraph, and that amount is the portion in question.
+
+(5) No variation on this ground may reduce by more than 50% the income to which the Secretary of State would otherwise have had regard in the calculation of maintenance liability.
+
+(6) For the purposes of this regulation, “**boarding school fees**” means the fees payable in respect of attendance at a recognised educational establishment providing full-time education, which is not advanced education, for children under the age of 20 and where some or all of the pupils, including the qualifying child, are resident during term time.
+
+(7) For the purposes of paragraph (6)—
+
+- “**recognised educational establishment**” means an establishment recognised by the Secretary of State for the purposes of that paragraph as being, or as comparable to, a university, college or school;
+- “**advanced education**” means education for the purposes of—
+  - (a) a course in preparation for a degree, a diploma of higher education, a higher national diploma or a teaching qualification; or
+  - (b) any other course which is of a standard above ordinary national diploma including a national diploma or national certificate of Edexcel, a general certificate of education (advanced level) or Scottish national qualifications at higher or advanced higher level.
+
+#### 67. Payments in respect of certain mortgages, loans or insurance policies[^c2199905]
+
+(1) Subject to regulation 68 (thresholds), the payments to which paragraph (2) applies constitute special expenses for the purposes of paragraph 2(2) of Schedule 4B to the 1991 Act.
+
+(2) This paragraph applies to payments, whether made to the mortgagee, lender, insurer or the person with care—
+
+- (a) in respect of a mortgage or a loan from a qualifying lender where—
+  - (i) the mortgage or loan was taken out to facilitate the purchase of, or repairs or improvements to, a property (“**the property**”) by a person other than the non-resident parent;
+  - (ii) the payments are not made under a debt incurred by the non-resident parent and do not arise out of any other legal liability of the non-resident parent for the period in respect of which the variation is applied for;
+  - (iii) the property was the home of the applicant and the person with care when they were a couple and remains the home of the person with care and the qualifying child; and
+  - (iv) the non-resident parent has no legal or equitable interest in and no charge or right to have a charge over the property; or
+- (b) of amounts payable in respect of a policy of insurance taken out for the discharge of a mortgage or loan referred to in sub-paragraph (a), including an endowment policy, except where the non-resident parent is entitled to any part of the proceeds on the maturity of that policy.
+
+#### 68. Thresholds[^c2199904]
+
+(1) Subject to paragraphs (3) and (4), the costs or repayments referred to in regulations 63 (contact costs) and 65 to 67 (prior debts, boarding school fees and payments in respect of certain mortgages etc.) are to be special expenses for the purposes of paragraph 2(2) of Schedule 4B to the 1991 Act only where they are equal to or exceed the threshold amount of £10 per week.
+
+(2) Where the expenses fall within more than one description of expense referred to in paragraph (1), the threshold amount applies separately in respect of each description.
+
+(3) Subject to paragraph (4), where the Secretary of State considers any expenses referred to in this Chapter to be unreasonably high or to have been unreasonably incurred the Secretary of State may substitute such lower amount as the Secretary of State considers to be reasonable, including an amount which is below the threshold amount or a nil amount.
+
+(4) Any lower amount substituted by the Secretary of State under paragraph (3) in relation to contact costs under regulation 63 (contact costs) must not be so low as to make it impossible, in the Secretary of State's opinion, for contact between the non-resident parent and the qualifying child to be maintained at the frequency specified in any court order made in respect of the non-resident parent and that child where the non-resident parent is maintaining contact at that frequency.
+
+### CHAPTER 3 — GROUNDS FOR VARIATION: ADDITIONAL INCOME
+
+#### 69. Non-resident parent with unearned income[^c2199906]
+
+(1) A case is a case for a variation for the purposes of paragraph 4(1) of Schedule 4B to the 1991 Act where the non-resident parent has unearned income equal to or exceeding £2,500 per annum.
+
+(2) For the purposes of this regulation unearned income is income of a kind that is chargeable to tax under—
+
+- (a) Part 3 of ITTOIA (property income);
+- (b) Part 4 of ITTOIA (savings and investment income); or
+- (c) Part 5 of ITTOIA (miscellaneous income).
+
+(3) Subject to paragraphs (5) and (6), the amount of the non-resident parent's unearned income is to be determined by reference to information provided by HMRC at the request of the Secretary of State in relation to the latest available tax year and, where that information does not identify any income of a kind referred to in paragraph (2), the amount of the non-resident parent's unearned income is to be treated as nil.
+
+(4) For the purposes of paragraph (2), the information in relation to property income is to be taken after deduction of relief under section 118 of the Income Tax Act 2007 [^c2142044] (carry forward against subsequent property business profits).
+
+(5)[^key-69df91eb60963d8fbf9324351bb24326][^key-6529f2502547f00089c364e8055f3b5c] Where—
+
+- (a) the latest available tax year is not the most recent tax year; or
+- (b) the information provided by HMRC in relation to the latest available tax year does not include any information from a self-assessment return; or[^key-39b8cefd95e7e40d23dafa7caa5fc757]
+- (c) the Secretary of State is unable, for whatever reason, to request or obtain the information from HMRC,
+
+the Secretary of State may, if satisfied that there is sufficient evidence to do so, determine the amount of the non-resident parent's unearned income by reference to the most recent tax year; and any such determination must, as far as possible, be based on the information that would be required to be provided in a self-assessment return.
+
+(6) Where the Secretary of State is satisfied that, by reason of the non-resident parent no longer having any property or assets from which unearned income was derived in a past tax year and having no current source from which unearned income may be derived, the non-resident parent will have no unearned income for the current tax year, the amount of the non-resident parent's unearned income for the purposes of this regulation is to be treated as nil.
+
+(7) Where a variation is agreed to under this regulation, the non-resident parent is to be treated as having additional weekly income of the amount determined in accordance with paragraph (3) or (5) divided by 365 and multiplied by 7.
+
+(8)[^key-af7e1ce2880dcce28c763f9c85faa288] Subject to paragraph (9), where the non-resident parent makes relievable pension contributions, which have not been otherwise taken into account for the purposes of the maintenance calculation, there is to be deducted from the additional weekly income calculated in accordance with paragraph (7) an amount determined by the Secretary of State as representing the weekly average of those contributions.
+
+(9) An amount must only be deducted in accordance with paragraph (8) where the relievable pension contributions referred to in that paragraph relate to the same tax year that has been used for the purposes of determining the additional weekly income.
+
+#### 69A. Assets exceeding a prescribed value[^key-78520ccef5e3457f3f7866cb9870b51c]
+
+(1) Where this paragraph applies, the other cases prescribed under paragraph 4(1) of Schedule 4B to the 1991 Act are cases where the Secretary of State is satisfied that there is an asset in which the non-resident parent has a legal or beneficial interest and the value of that interest exceeds the prescribed value.
+
+(2) In this regulation “asset” means—
+
+- (a) money, whether in cash or on deposit, including any money which is due to a non-resident parent where the Secretary of State is satisfied that requiring payment of the monies to the non-resident parent immediately would be reasonable;
+- (b) gold, silver or platinum bullion bars or coins;
+- (c) a virtual currency which is capable of being exchanged for money;
+- (d) land or rights in or over land;
+- (e) shares within the meaning of section 540 of the Companies Act 2006;
+- (f) stock and unit trusts within the meaning of section 6 of the Charging Orders Act 1979;
+- (g) gilt edged securities within the meaning of paragraphs 1 and 1A of Part 1 of Schedule 9 to the Taxation of Chargeable Gains Act 1992; or
+- (h) a chose in action which has not been enforced on the date of an application for a variation under regulation 56 and where the Secretary of State is satisfied that such enforcement would be reasonable.
+
+(3) In this regulation “asset” includes any asset which is subject to a trust where the non-resident parent is a beneficiary.
+
+(4) Paragraph (1) does not apply in the case of any asset which—
+
+- (a) has been received by the non-resident parent as compensation for personal injury suffered by the non-resident parent;
+- (b) is being used in the course of the non-resident parent’s trade or business;
+- (c) the Secretary of State is satisfied could have been purchased from the gross weekly income of the non-resident parent which has been taken into account for the purposes of a maintenance calculation;
+- (d) will need to be sold in order to meet any additional maintenance payment required as a result of a variation under paragraph 4(1) of Schedule 4B to the 1991 Act where the Secretary of State is satisfied that the sale of that asset would cause hardship to a child of the non-resident parent, or would otherwise be unreasonable having taken into account all relevant circumstances; or
+- (f) is a legal or beneficial interest in land where the land in question is the primary residence of the non-resident parent or any child of the non-resident parent.
+
+(5) The “prescribed value” is £31,250.
+
+(6) In the case of an asset which is subject to a mortgage or charge, the value of that asset will be its value after a deduction is made for any amount owing under the mortgage or charge.
+
+(7) The Secretary of State shall calculate the weekly value of an asset by applying the statutory rate of interest to the value of the asset and dividing by 52.
+
+(8) For the purposes of this regulation—
+
+- “statutory rate of interest” means interest at the statutory rate prescribed for a judgment debt or, in Scotland, the statutory rate of interest included in or payable under a decree in the Court of Sessions applicable on the date upon which the variation takes effect;
+- “virtual currency” means a digital representation of value which is not issued by a central bank or a public authority; is accepted by natural or legal persons as a means of payment; and can be transferred, stored or traded electronically.
+
+#### 70. Non-resident parent on a flat rate or nil rate with gross weekly income[^c2199907]
+
+(1) A case is a case for a variation for the purposes of paragraph 4(1) of Schedule 4B to the 1991 Act where—
+
+- (a) the non-resident parent's liability to pay child support maintenance under a maintenance calculation which is in force or has been applied for is or would be—
+  - (i) the nil rate by virtue of the non-resident parent being one of the persons referred to in paragraph (3); or
+  - (ii) the flat rate by virtue of the non-resident parent receiving a benefit, pension or allowance mentioned in regulation 44(1) (flat rate);
+- (b) the Secretary of State is satisfied that the non-resident parent has an amount of income that would be taken into account in the maintenance calculation as gross weekly income if sub-paragraph (a) did not apply; and
+- (c) that income is [^M_F_68cbc826-6a6d-4d0d-c155-511729ef1f6d]... more than £100 per week.
+
+(2) Where a variation is agreed to under this regulation, the non-resident parent is treated as having additional income of the amount referred to in paragraph (1)(b).
+
+(3) The persons referred to are—
+
+- (a) a child;
+- (b) a prisoner;
+- (c) a person receiving an allowance in respect of work-based training for young people, or in Scotland, Skillseekers training;
+- (d) a person referred to in regulation 45(1)(e) (persons resident in a care home or independent hospital etc.).
+
+#### 71. Diversion of income[^c2199908]
+
+(1) A case is a case for a variation for the purposes of paragraph 4(1) of Schedule 4B to the 1991 Act where—
+
+- (a) the non-resident parent (“P”) has the ability to control, whether directly or indirectly, the amount of income that—
+  - (i) P receives, or
+  - (ii) is taken into account as P's gross weekly income; and
+- (b) the Secretary of State is satisfied that P has unreasonably reduced the amount of P's income which would otherwise fall to be taken into account as gross weekly income or as unearned income under regulation 69 by diverting it to other persons or for purposes other than the provision of such income for P.
+
+(2) Where a variation is agreed to under this regulation, the additional income to be taken into account is the whole of the amount by which the Secretary of State is satisfied that P has reduced the amount that would otherwise be taken into account as P's income.
+
+### CHAPTER 4 — EFFECT OF VARIATION ON THE MAINTENANCE CALCULATION
+
+#### 72. Effect on the maintenance calculation – special expenses[^c2199909]
+
+(1) Subject to paragraph (2) and regulation 74 (effect on maintenance calculation – general), where the variation agreed to is one falling within Chapter 2 (variation grounds: special expenses), effect is to be given to the variation in the maintenance calculation by deducting from the gross weekly income of the non-resident parent the weekly amount of the expenses referred to in Chapter 2.
+
+(2) Where the income which is taken into account in the maintenance calculation is the capped amount, then—
+
+- (a) the weekly amount of the expenses is first to be deducted from the actual gross weekly income of the non-resident parent;
+- (b) the amount by which the capped amount exceeds the figure calculated under sub-paragraph (a) is to be calculated; and
+- (c) effect is to be given to the variation in the maintenance calculation by deducting from the capped amount the amount calculated under sub-paragraph (b).
+
+#### 73. Effect on the maintenance calculation – additional income grounds[^c2199910]
+
+(1) Subject to paragraph (2) and regulation 74 (effect on maintenance calculation – general), where the variation agreed to is one falling within Chapter 3 (grounds for variation : additional income) effect is to be given to the variation by increasing the gross weekly income of the non-resident parent which would otherwise be taken into account by the weekly amount of the additional income except that, where the amount of gross weekly income calculated in this way would exceed the capped amount, the amount of the gross weekly income taken into account is to be the capped amount.
+
+(2) Where a variation is agreed to under this Chapter and the non-resident parent's liability would, apart from the variation, be the flat rate (or an amount equivalent to the flat rate), the amount of child support maintenance which the non-resident parent is liable to pay is a weekly amount calculated by adding an amount equivalent to the flat rate to the amount calculated by applying Schedule 1 to the 1991 Act to the additional income arising under the variation.
+
+#### 74. Effect on maintenance calculation – general[^c2199911]
+
+(1) Subject to paragraph (5), where more than one variation is agreed to in respect of the same period, regulations 72 and 73 apply and the results are to be aggregated as appropriate.
+
+(1A)[^M_F_bdbbc6a1-1184-4eb0-bd4b-bb276dd15916] Where the application of a variation agreed to (or of the aggregate of variations agreed to) would decrease the amount of child support maintenance payable by the non-resident parent to less than the figure equivalent to the flat rate referred to in paragraph 4(1) of Schedule 1 to the 1991 Act (or in that sub-paragraph as modified by regulations under paragraph 10A of that Schedule), the non-resident parent is instead liable to pay child support maintenance at a rate equivalent to that flat rate apportioned if appropriate as provided in paragraph 6 of Schedule 1 to that Act.
+
+(2) Paragraph 7(2) to (7) of Schedule 1 to the 1991 Act [^c2142045] (shared care) applies where the rate of child support maintenance is affected by a variation which is agreed to and paragraph 7(2) is to be read as if after the words “as calculated in accordance with the preceding paragraphs of this Part of this Schedule” there were inserted the words, “ , Schedule 4B and regulations made under that Schedule ”.
+
+(3) Subject to paragraphs (4) and (5), where the non-resident parent shares the care of a qualifying child within the meaning in Part 1 of Schedule 1 to the 1991 Act, or where the care of such a child is shared with a local authority, the amount of child support maintenance that the non-resident parent is liable to pay to the person with care, calculated to take account of any variation, is to be reduced in accordance with the provisions of paragraph 7 of that Part or regulation 53 (care provided in part by a local authority), as the case may be.
+
+(4) If the application of paragraph (3) would decrease the weekly amount of child support maintenance (or the aggregate of all such amounts) payable by the non-resident parent to the person with care (or all of them) to less than a figure equivalent to the flat rate referred to in paragraph 4(1) of Schedule 1 to the 1991 Act (or in that sub-paragraph as modified by regulations under paragraph 10A of Schedule 1), the non-resident parent is instead liable to pay child support maintenance at a rate equivalent to that flat rate apportioned if appropriate as provided in paragraph 6 of Schedule 1 to that Act.
+
+(5) The effect of a variation is not to be applied for any period during which a circumstance referred to in regulation 57(1)(d) to (f) (rejection of an application following preliminary consideration) applies.
+
+#### 75. Situations in which a variation previously agreed to may be taken into account in calculating maintenance liability[^c2199912]
+
+(1) This regulation applies where—
+
+- (a) a variation that has been agreed to has ceased to have effect in relation to the weekly amount of the non-resident parent's liability for child support maintenance because—
+  - (i) the non-resident parent has become liable to pay child support maintenance at the nil rate, or another rate which means that the variation cannot be taken into account; or
+  - (ii) the decision as to the maintenance calculation has been replaced with a default maintenance decision under section 12(1)(b) of the 1991 Act; and
+- (b) the non-resident parent has subsequently become liable to pay a rate of child support maintenance which can be adjusted to take account of the variation by virtue of a decision under section 16(1B) or 17 of the 1991 Act.
+
+(2) Where this regulation applies [^key-7c8930e98817ee0fe749631fce4cf1e0]... the Secretary of State may, when making the decision referred to in paragraph (1)(b), take into account the effect of the variation upon the amount of liability for child support maintenance notwithstanding the fact that an application has not been made.
+
+## PART 6 — MEANING OF TERMS IN THE 1991 ACT
+
+### 76. Meaning of “child” for the purposes of the 1991 Act[^c2199913]
+
+(1)[^key-2f2ac88229f471987cf8ef06317b2107] Subject to paragraphs (2) and (3), the prescribed[^key-60cc16148b1ebb55b4c83cae057aa0b8] condition for the purposes of section 55(1) of the 1991 Act [^c2142046] (that is the condition that must be satisfied if a person who has attained the age of 16 but not the age of 20 is to fall with the meaning of “child”) is that the person is a qualifying young person as defined in section 142(2) of the Social Security Contributions and Benefits Act 1992[^c2142047].
+
+(2)[^key-9829e62c3a2d1c4719802c9acdeb6507] A person does not satisfy the condition referred to in paragraph (1) where the person is—
+
+- (a) engaged in remunerative work in any week during a prescribed period; or
+- (b) in receipt of other financial support in any week.
+
+(3) Case 2.1(b)(i) in regulation 7(2) (qualifying young person: terminal dates) of the Child Benefit (General) Regulations 2006 (the “2006 Regulations”) is to be read as if at the beginning there were inserted “the week in which”.
+
+(4) In this regulation—
+
+- “other financial support” means any of the types of financial support specified in regulation 8(2) (child benefit not payable in respect of a qualifying young person: other financial support) of the 2006 Regulations;
+- “prescribed period” is the period found in accordance with cases 1 and 2 in regulation 7(2) of the 2006 Regulations (as modified in respect of case 2.1(b)(i) by paragraph (3) of this regulation);
+- “remunerative work” has the meaning given in regulation 1(3) (citation, commencement and interpretation) of the 2006 Regulations;
+- “week” has the meaning in the 2006 Regulations.
+
+### 77. Meaning of “relevant other child” for the purposes of the 1991 Act[^c2199914][^key-63a3f34b5166d790b3270f3151ece87e]
+
+For the purposes of paragraph 10C(2)(b) of Schedule 1 to the 1991 Act (which provides for other descriptions of relevant other children to be prescribed) “ **for the purposes of the 1991 Act** ” includes a child, other than a qualifying child, in respect of whom the non-resident parent or the non-resident parent's partner would receive
+
+- (a)[^key-72c41ec1b17b1af56ab924ef8ba701a5] child benefit, but in respect of whom they do not do so, solely because the conditions set out in section 146 of the Social Security Contributions and Benefits Act 1992 (persons outside Great Britain) are not met; or[^key-ad4f5ed8f838cd6362adda074e7a5145]
+- (b) has made an election under section 13A(1) of the Social Security Administration Act 1992 (election not to receive child benefit) for payments of child benefit not to be made.
+
+### 78. Persons who are not persons with care[^c2199915]
+
+(1) The following categories of person are not persons with care for the purposes of the 1991 Act—
+
+- (a) a local authority;
+- (b) a person with whom a child who is looked after by a local authority is placed by that authority under the provisions of the Children Act 1989, except where that person is a parent of such a child and the local authority allow the child to live with that parent under section 22C(2) [^key-af1ee4c36c55754a2437451e170e5e16]... of that Act [^c2142048];
+- (c) in Scotland, a family or relative with whom a child is placed by a local authority under the provisions of section 26 of the Children (Scotland) Act 1995[^key-f005cb7da8d47069df8ab15b3dadf645] or who is providing continuing care by virtue of arrangements made under section 26A of that Act[^key-dce0b4e680d45bc52f1dc944a14948d0]; [^c2142049]
+- (d) in Wales, a person with whom a child who is looked after by a local authority is placed by that authority under the provisions of Part 6 of the Social Services and Well-being (Wales) Act 2014, except where that person is a parent of such a child and the local authority allow the child to live with that parent under section 81(2) of that Act.
+
+(2) In paragraph (1)—
+
+- “**a child who is looked after by a local authority**” has the same meaning as in section 22 of the Children Act 1989 or section 17(6) of the Children (Scotland) Act 1995 or section 74 of the Social Services and Well-being (Wales) Act 2014[^key-ae6f2574e7dfb8dc8788d9411f6ba614] as the case may be;
+- “**family**” means a family other than a family defined in section 93(1) of the Children (Scotland) Act 1995.
+
+Signed by authority of the Secretary of State for Work and Pensions
+
+Steve Webb
+
+Minister of State
+
+Department for Work and Pensions
+
+## SCHEDULE 1 — Electronic Communications[^key-ecb4321afc40940da60f6caac07394ca]
+
+Regulation 2A
+
+### PART 1 — Use of Electronic Communications
+
+#### 1. Use of electronic communications
+
+(1) Where these Regulations require or permit a person to carry out an action referred to in sub-paragraph (2)—
+
+- (a) that person may, if the conditions specified in paragraph 2 are met, use electronic communication to carry out the action, and
+- (b) any reference to the action is to be construed as being capable of being carried out using electronic communication.
+
+(2) The actions are—
+
+- (a) authorising a representative;
+- (b) certification;
+- (c) giving or sending of a document or notice;
+- (d) informing or notifying a person.
+
+#### 2. Conditions for the use of electronic communications
+
+The conditions for the use of electronic communications are—
+
+- (a) the electronic communication, its form, and the electronic address for the communication, have been agreed with the recipient for a purpose in paragraph 1(2);
+- (b) the electronic communication is sent in the agreed form to the agreed electronic address for the agreed purpose;
+- (c) the electronic communication is—
+  - (i) legible, and
+  - (ii) in a form sufficiently permanent to be used for subsequent reference.
+
+#### 3. Use of intermediaries
+
+The Secretary of State may use intermediaries in connection with the actions referred to in paragraph 1(2).
+
+### PART 2 — Evidential provisions
+
+#### 4. Proof of delivery
+
+(1) An agreed electronic communication is presumed, unless the contrary is proved, to have resulted in delivery if—
+
+- (a) in the case that it falls to be delivered to the Secretary of State, the delivery of the agreed electronic communication is recorded on an official computer system; or
+- (b) in the case that it falls to be delivered by the Secretary of State, if the despatch of the agreed electronic communication is recorded on an official computer system.
+
+(2) An agreed electronic communication is presumed, unless the contrary is proved, not to have resulted in delivery if—
+
+- (a) in the case that it falls to be delivered to the Secretary of State, the delivery of the agreed electronic communication is not recorded on an official computer system; or
+- (b) in the case that it falls to be delivered by the Secretary of State, the despatch of that agreed electronic communication is not recorded on an official computer system.
+
+(3) The time and date of receipt of an agreed electronic communication is presumed to be that recorded on an official computer system, unless the contrary is proved.
+
+#### 5. Proof of identity
+
+(1) The identity of the sender and the recipient of an electronic communication is presumed to be the persons whose names are recorded on an official computer system, unless the contrary is proved.
+
+(2) An electronic communication sent on behalf of another person (“**P**”) is presumed to have been delivered by P unless P proves that it was delivered without P’s knowledge.
+
+#### 6. Proof of content
+
+The content of an electronic communication is presumed to be that recorded on an official computer system, unless the contrary is proved.
+
+#### 7. Interpretation
+
+In this Schedule—
+
+- “**agreed electronic address**” means an electronic address agreed in accordance with paragraph 2(a);
+- “**agreed electronic communication**” means an electronic communication agreed in accordance with paragraph 2(a);
+- “**agreed form**” means the form agreed in accordance with paragraph 2(a);
+- “**agreed purpose**” means the purpose agreed in accordance with paragraph 2(a);
+- “**official computer system**” means a computer system maintained by or on behalf of the Secretary of State for the purposes of these Regulations.
+
+## SCHEDULE 2 — APPEALS: PROCEDURAL MATTERS[^key-71ecc06cd6bf99b8935b2044c59d9404]
+
+Regulation 33
+
+### 1. Appeal against a decision which has been replaced or revised[^c2199916]
+
+(1) An appeal against a decision of the Secretary of State does not lapse where—
+
+- (a) the decision is treated as replaced by a decision under section 11 [^c2142050] or section 28F(5) of the 1991 Act [^c2142051]; or
+- (b) is revised under section 16 of that Act before the appeal is determined,
+
+and the decision as replaced or revised is not more advantageous to the appellant than the decision before it was replaced or revised.
+
+(2) Where sub-paragraph (1) applies, the appeal must be treated as though it had been brought against the decision as replaced or revised.
+
+(3) The appellant has a period of one month from the date of notification of the decision as replaced or revised to make further representations as to the appeal.
+
+(4) Subject to sub-paragraph (5), after the expiration of the period specified in sub-paragraph (3), or within that period if the appellant consents in writing, the appeal to the First-tier Tribunal must proceed.
+
+(5) The appeal shall lapse where, in the light of the further representations from the appellant, the decision as replaced or revised as referred to in sub-paragraph (1), is revised, and the new decision is more advantageous to the appellant than the decision before it was replaced or revised as referred to in sub-paragraph (1).
+
+### 2. Late appeals[^c2199917]
+
+(1)[^key-526073c7ebe29a388ff3f5c289a9e997] Where a dispute arises as to whether an appeal was brought within the time specified under the Tribunal Procedure Rules the dispute shall be referred to, and determined by, the First-tier Tribunal. *(affected by repeal, see note)*[^key-526073c7ebe29a388ff3f5c289a9e997]
+
+(2) The Secretary of State may treat a late appeal as made in time in accordance with the Tribunal Procedure Rules if the Secretary of State is satisfied that it is in the interests of justice to do so. *(affected by repeal, see note)*[^key-526073c7ebe29a388ff3f5c289a9e997]
+
+(3) For the purposes of sub-paragraph (2) it is not in the interests of justice to treat the appeal as made in time unless the Secretary of State is satisfied that– *(affected by repeal, see note)*[^key-526073c7ebe29a388ff3f5c289a9e997]
+
+- (a) the special circumstances specified in sub-paragraph (4) are relevant; or *(affected by repeal, see note)*[^key-526073c7ebe29a388ff3f5c289a9e997]
+- (b) some other special circumstances exist which are wholly exceptional and relevant, *(affected by repeal, see note)*[^key-526073c7ebe29a388ff3f5c289a9e997]
+
+and as a result of those special circumstances, it was not practicable for the appeal to be made within the time limit specified in the Tribunal Procedure Rules. *(affected by repeal, see note)*[^key-526073c7ebe29a388ff3f5c289a9e997]
+
+(4) For the purposes of sub-paragraph (3)(a), the special circumstances are that— *(affected by repeal, see note)*[^key-526073c7ebe29a388ff3f5c289a9e997]
+
+- (a) the appellant or a partner or dependant of the appellant has died or suffered serious illness; *(affected by repeal, see note)*[^key-526073c7ebe29a388ff3f5c289a9e997]
+- (b) the appellant is not resident in the United Kingdom; or *(affected by repeal, see note)*[^key-526073c7ebe29a388ff3f5c289a9e997]
+- (c) normal postal services were disrupted. *(affected by repeal, see note)*[^key-526073c7ebe29a388ff3f5c289a9e997]
+
+(5) In determining whether it is in the interests of justice to treat the appeal as made in time regard must be had to the principle that the greater the amount of time that has elapsed between the expiration of the time limit under the Tribunal Procedure Rules and the submission of the notice of appeal, the more compelling should be the special circumstances. *(affected by repeal, see note)*[^key-526073c7ebe29a388ff3f5c289a9e997]
+
+(6) In determining whether it is in the interests of justice to treat the appeal as made in time no account shall be taken of the following– *(affected by repeal, see note)*[^key-526073c7ebe29a388ff3f5c289a9e997]
+
+- (a) that the applicant or any person acting for him was unaware of or misunderstood the law applicable to his case (including ignorance or misunderstanding of the time limits imposed by the Tribunal Procedure Rules); or *(affected by repeal, see note)*[^key-526073c7ebe29a388ff3f5c289a9e997]
+- (b) that the Upper Tribunal or a court has taken a different view of the law from that previously understood and applied. *(affected by repeal, see note)*[^key-526073c7ebe29a388ff3f5c289a9e997]
+
+### 3. Notice of Appeal[^c2199918]
+
+(1)[^key-9fee1203029c2b32df0470501b5a14b8] A notice of appeal made in accordance with the Tribunal Procedure Rules and on a form approved by the Secretary of State or in such other form as the Secretary of State accepts, is to be sent or delivered to an appropriate office of the Secretary of State. *(affected by repeal, see note)*[^key-9fee1203029c2b32df0470501b5a14b8]
+
+(2) Except where sub-paragraph (3) applies, where a form does not contain the information required under the Tribunal Procedure Rules the form may be returned by the Secretary of State to the sender for completion in accordance with the Tribunal Procedure Rules. *(affected by repeal, see note)*[^key-9fee1203029c2b32df0470501b5a14b8]
+
+(3) Where it appears that the form, although not completed in accordance with the instructions on it, includes sufficient information to enable the appeal to proceed, the Secretary of State may treat the form as satisfying the requirements of the Tribunal Procedure Rules. *(affected by repeal, see note)*[^key-9fee1203029c2b32df0470501b5a14b8]
+
+(4) Where a notice of appeal is made in writing otherwise than on the approved form (“ *(affected by repeal, see note)*[^key-9fee1203029c2b32df0470501b5a14b8]**the letter *(affected by repeal, see note)*[^key-9fee1203029c2b32df0470501b5a14b8]**”), and it appears that the letter includes sufficient information to enable the appeal to proceed, the Secretary of State may treat the letter as satisfying the requirements of the Tribunal Procedure Rules. *(affected by repeal, see note)*[^key-9fee1203029c2b32df0470501b5a14b8]
+
+(5) Where the letter does not include sufficient information to enable the appeal to proceed, the Secretary of State may request further information in writing (“further particulars”) from the person who wrote the letter. *(affected by repeal, see note)*[^key-9fee1203029c2b32df0470501b5a14b8]
+
+(6) Where a person to whom a form is returned duly completes and returns the form, if the form is received by the Secretary of State within– *(affected by repeal, see note)*[^key-9fee1203029c2b32df0470501b5a14b8]
+
+- (a) 14 days after the date on which the form was returned by the Secretary of State, the time for making the appeal shall be extended by 14 days following the date on which the form was returned; *(affected by repeal, see note)*[^key-9fee1203029c2b32df0470501b5a14b8]
+- (b) such longer period as the Secretary of State may direct, the time for making the appeal shall be extended by a period equal to that longer period directed by the Secretary of State. *(affected by repeal, see note)*[^key-9fee1203029c2b32df0470501b5a14b8]
+
+(7) Where a person from whom further particulars are requested duly sends the further particulars, if the particulars are received by the Secretary of State within— *(affected by repeal, see note)*[^key-9fee1203029c2b32df0470501b5a14b8]
+
+- (a) 14 days after the date on which the Secretary of State's request was made, the time for making the appeal shall be extended by 14 days following the date of the request; *(affected by repeal, see note)*[^key-9fee1203029c2b32df0470501b5a14b8]
+- (b) such longer period as the Secretary of State may direct, the time for making the appeal shall be extended by a period equal to that longer period directed by the Secretary of State. *(affected by repeal, see note)*[^key-9fee1203029c2b32df0470501b5a14b8]
+
+(8) Where a person to whom a form is returned or from whom further particulars are requested does not complete and return the form or send further particulars within the period of time specified in sub-paragraph (6) or (7)— *(affected by repeal, see note)*[^key-9fee1203029c2b32df0470501b5a14b8]
+
+- (a) the Secretary of State must forward a copy of the form, or as the case may be, the letter, together with any other relevant documents or evidence to the First-tier Tribunal, and *(affected by repeal, see note)*[^key-9fee1203029c2b32df0470501b5a14b8]
+- (b) the First-tier Tribunal shall determine whether the form or the letter satisfies the requirements of the Tribunal Procedure Rules. *(affected by repeal, see note)*[^key-9fee1203029c2b32df0470501b5a14b8]
+
+(9) Where– *(affected by repeal, see note)*[^key-9fee1203029c2b32df0470501b5a14b8]
+
+- (a) a form is duly completed and returned or further particulars are sent after the expiry of the period of time allowed in accordance with sub-paragraph (6) or (7), and *(affected by repeal, see note)*[^key-9fee1203029c2b32df0470501b5a14b8]
+- (b) no decision has been made under sub-paragraph (8) at the time the form or the further particulars are received by the Secretary of State, that form or further particulars must also be forwarded to the First-tier Tribunal which must take into account any further information or evidence set out in the form or further particulars. *(affected by repeal, see note)*[^key-9fee1203029c2b32df0470501b5a14b8]
+
+(10) The Secretary of State may discontinue action on an appeal where the notice of appeal has not been forwarded to the First-tier Tribunal and the appellant or an authorised representative of the appellant has given notice that he does not wish the appeal to continue. *(affected by repeal, see note)*[^key-9fee1203029c2b32df0470501b5a14b8]
+
+### 4. Death of a party to an appeal[^c2199919]
+
+(1)[^key-9709477148851aed7911682abd24bd4d] In any proceedings, on the death of a party to those proceedings, the Secretary of State may appoint a person to proceed with the appeal in the place of such deceased party. *(affected by repeal, see note)*[^key-9709477148851aed7911682abd24bd4d]
+
+(2) A grant of probate, confirmation or letters of administration in respect of the estate of the deceased party, whenever taken out, shall have no effect on an appointment made under sub-paragraph (1). *(affected by repeal, see note)*[^key-9709477148851aed7911682abd24bd4d]
+
+(3) Where a person appointed under sub-paragraph (1) has, prior to the date of such appointment, taken any action in relation to the appeal on behalf of the deceased party, the appointment shall be treated as having effect on the day immediately prior to the first day on which such action was taken. *(affected by repeal, see note)*[^key-9709477148851aed7911682abd24bd4d]
+
+*(This note is not part of the Regulations)*
+
+These Regulations provide for a range of matters in relation to the calculation of child support maintenance under the Child Support Act 1991 (“**the 1991 Act**”). Together with the provisions of the 1991 Act as amended by the Child Maintenance and Other Payments Act 2008 (c.6) and other relevant legislation, they set out the rules and procedures for a new child support scheme.
+
+Part 1 provides for general matters, including commencement, interpretation and the rules for rounding of calculations and service of documents. The Regulations come into force for new applications in relation to a particular case on the day on which paragraph 2 of Schedule 4 to the Child Maintenance and Other Payments Act 2008 (calculation by reference to gross weekly income) comes into force in relation to that type of case.
+
+Part 2 provides for applications for child support maintenance, including the priority rules where more than one application is made in relation to the same child.
+
+Part 3 deals with decision making. Chapter 1 sets out the general rules for setting the effective date for a maintenance calculation. Chapter 2 sets out the general rules relating to revision of decisions in accordance with section 16 of the 1991 Act. Chapter 3 sets out the circumstances in which a maintenance calculation may be adjusted by a supersession decision and the dates from which such decisions have effect. Chapter 4 provides for the updating of the gross weekly income figure on which a calculation has been based. Chapter 5 sets out the requirement to notify decisions. Chapter 6 and the Schedule set out some miscellaneous matters in relation to appeals.
+
+Part 4 contains provisions relating to the rules for calculation of child support maintenance, supplementing Part 1 of Schedule 1 to the 1991 Act. In particular Chapter 1 contains the rules for calculating the non-resident parent's gross weekly income by reference to information provided by Her Majesty's Revenue and Customs for the latest available tax year. Part 4 also provides for special cases, including provision for determining which parent is the non-resident parent where the care of a child is shared (regulation 50).
+
+Part 5 provides for the variation of the rules for calculating child support maintenance. These include provision for reducing the amount payable where the non-resident parent has special expenses or increasing the amount payable if the non-resident parent has sources of income not otherwise taken into account or diverts income to another person or for another purpose.
+
+Part 6 provides for the interpretation of various terms in the 1991 Act.
+
+An assessment of the impact of these Regulations on the private sector and civil society organisations has been made. A copy of the impact assessment is available in the libraries of both Houses of Parliament, and is annexed to the Explanatory Memorandum which is available alongside this instrument on www.legislation.gov.uk. Copies may also be obtained from the Better Regulation Unit of the Department for Work and Pensions, 2D, Caxton House, Tothill Street, London, SW1H 9NA.
+
+## Annotations
+
+[^c2141965]: Marginal citation: [1991 c. 48](https://www.legislation.gov.uk/ukpga/1991/48). Section 5(3) was amended by section 1(2)(a) of the [Child Support, Pensions and Social Security Act 2000 (c. 19)](https://www.legislation.gov.uk/ukpga/2000/19) (“**the 2000 Act**”). Section 12 was substituted by section 4 of that Act. Section 14(1) was amended by section 12 of, and paragraph 11(1) and (7) of Schedule 3 to, that Act and amended by Schedule 8 to the [Child Maintenance and Other Payments Act 2008 (c. 6)](https://www.legislation.gov.uk/ukpga/2008/6) (“**the 2008 Act**”). Section 14(1A) was inserted by paragraph 3 of Schedule 3 to the [Child Support Act 1995 (c. 34)](https://www.legislation.gov.uk/ukpga/1995/34). Section 16 was substituted by section 40 of the [Social Security Act 1998 (c. 14)](https://www.legislation.gov.uk/ukpga/1998/14). Section 17 was substituted by section 41 of the Social Security Act 1998; subsections (2) and (3) were substituted by section 17 of the 2008 Act. Sections 28ZA and 28ZB were inserted by section 43 of the Social Security Act 1998. Sections 28A to 28C were substituted by section 5(1) and (2) of the 2000 Act. Section 28F was substituted by section 5(1) and (5) of the 2000 Act. Section 28G was substituted by section 7 of the 2000 Act. Section 42 was amended by paragraph 11(1) and (2) of Schedule 3 to the 2000 Act. Section 51 was amended by section 1(2) of, and paragraph 11(1) and (19)(a) of Schedule 3 to, the 2000 Act. Section 55 was substituted by section 42 of the 2008 Act. Schedule 1 was amended as follows. Paragraphs 4 and 5 were amended by paragraphs 1 and 2 of Schedule 4 to the 2008 Act. Paragraph 5A was inserted by paragraph 5 of Schedule 4 to the 2008 Act. Paragraph 8(2) was amended by paragraphs 1 and 7 of Schedule 4 to the 2008 Act. Paragraph 9 was amended by paragraphs 1 and 8(2) to (4) of Schedule 4, and Schedule 8, to the 2008 Act. Paragraph 10 was amended by paragraphs 1, 2, 9 and 10 of Schedule 4 to the 2008 Act. Paragraph 10C was amended by paragraph 1(1) and (31) of Schedule 7 to the 2008 Act. Schedules 4A and 4B were substituted by section 6 of, and Schedule 2 to, the 2000 Act and amended by section 58 of, and Schedule 8 to, the 2008 Act and by [S.I. 2008/2833](https://www.legislation.gov.uk/uksi/2008/2833). Section 54 is cited for the meaning of “prescribed”. References in the 1991 Act to “the Commission” were replaced by references to “the Secretary of State” by [S.I. 2012/2007](https://www.legislation.gov.uk/uksi/2012/2007).
+
+[^c2141966]: Marginal citation: [Section 52(2)](https://www.legislation.gov.uk/uksi/2012/2677/section/52/2) was substituted by section 25 of the 2000 Act. Section 52(2A) was inserted by paragraph 1(1) and (23) of Schedule 7 to the 2008 Act.
+
+[^c2199838]: Commencement: Reg. 1 wholly in force; reg. 1 not in force at made date; reg. 1 in force at 29.7.2013 for certain purposes and reg. 1 in force at 25.11.2013 in so far as not already in force, see reg. 1, SI 2013/1860 and [S.I. 2013/2947](https://www.legislation.gov.uk/uksi/2013/2947)
+
+[^c2141967]: Marginal citation: [2008 c. 6](https://www.legislation.gov.uk/ukpga/2008/6).
+
+[^c2199839]: Commencement: Reg. 2 wholly in force; reg. 2 not in force at made date; reg. 2 in force at 29.7.2013 for certain purposes and reg. 2 in force at 25.11.2013 in so far as not already in force, see reg. 1, SI 2013/1860 and [S.I. 2013/2947](https://www.legislation.gov.uk/uksi/2013/2947)
+
+[^key-53341ae82fe07cb7eeb7e23689c9f654]: Textual amendment: Words in Pt. 1 reg. 2 inserted (29.4.2013) by [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations 2013 (S.I. 2013/630)](https://www.legislation.gov.uk/uksi/2013/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/630/regulation/1/2), [44(2)(a)](https://www.legislation.gov.uk/uksi/2013/630/regulation/44/2/a)
+
+[^key-a033dd58f44d02b160b8103628d430d1]: Textual amendment: Words in Pt. 1 reg. 2 substituted (29.4.2013) by [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations 2013 (S.I. 2013/630)](https://www.legislation.gov.uk/uksi/2013/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/630/regulation/1/2), [44(2)(b)](https://www.legislation.gov.uk/uksi/2013/630/regulation/44/2/b)
+
+[^c2141968]: Marginal citation: [2007 c. 5](https://www.legislation.gov.uk/ukpga/2007/5).
+
+[^c2141969]: Marginal citation: Paragraph 10A was amended by paragraph 1(1) and (30) of the 2008 Act.
+
+[^key-c71bbb004b85a8ad342f80dc281c1608]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2012/2677/regulation/2) inserted (26.5.2022) by [The Child Support (Amendments Relating to Electronic Communications and Information) (England and Wales and Scotland) Regulations 2022 (S.I. 2022/503)](https://www.legislation.gov.uk/uksi/2022/503), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/503/regulation/1/2), [22](https://www.legislation.gov.uk/uksi/2022/503/regulation/22)
+
+[^c2141970]: Marginal citation: [1992 c. 4](https://www.legislation.gov.uk/ukpga/1992/4). Section 124 was amended by paragraph 30(2), (4) and (5) of Schedule 2 and paragraph 1 of Schedule 3 to the [Jobseekers Act 1995 (c. 18)](https://www.legislation.gov.uk/ukpga/1995/18), [paragraph 28](https://www.legislation.gov.uk/ukpga/1995/18/paragraph/28) of Schedule 8 to the [Welfare Reform and Pensions Act 1999 (c. 30)](https://www.legislation.gov.uk/ukpga/1999/30), [paragraph 2(2)](https://www.legislation.gov.uk/ukpga/1999/30/paragraph/2/2) of Schedule 2 and paragraph 1 of Schedule 3 to the [State Pensions Credit Act 2002 (c. 16)](https://www.legislation.gov.uk/ukpga/2002/16), [paragraph 42](https://www.legislation.gov.uk/ukpga/2002/16/paragraph/42) of Schedule 24(3) to the [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33) and paragraph 9 of Schedule 3 to the [Welfare Reform Act 2007 (c. 5)](https://www.legislation.gov.uk/ukpga/2007/5).
+
+[^c2141971]: Marginal citation: [2003 c. 1](https://www.legislation.gov.uk/ukpga/2003/1).
+
+[^c2141972]: Marginal citation: [2005 c. 5](https://www.legislation.gov.uk/ukpga/2005/5).
+
+[^c2141973]: Marginal citation: [1994 c. 39](https://www.legislation.gov.uk/ukpga/1994/39). Section 2 was amended by paragraph 232(1) of Schedule 22 to the [Environment Act 1995 (c. 25)](https://www.legislation.gov.uk/ukpga/1995/25).
+
+[^c2141974]: Marginal citation: [2004 c. 12](https://www.legislation.gov.uk/ukpga/2004/12). Section 193 was amended by paragraph 475 of Part 2 of Schedule 1 to the [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3).
+
+[^c2141975]: Marginal citation: [S.I. 2003/2682](https://www.legislation.gov.uk/uksi/2003/2682).
+
+[^c2141976]: Marginal citation: [1988 c. 1](https://www.legislation.gov.uk/ukpga/1988/1). Section 376(4) was amended by Part 5(19) of Schedule 26 to the [Finance Act 1994 (c. 9)](https://www.legislation.gov.uk/ukpga/1994/9), [paragraph 42](https://www.legislation.gov.uk/ukpga/1994/9/paragraph/42) of Schedule 8 and paragraph 12 of Schedule 9 to the [Housing and Regeneration Act 2008 (c.17)](https://www.legislation.gov.uk/ukpga/2008/17), [paragraph 55](https://www.legislation.gov.uk/ukpga/2008/17/paragraph/55) of Schedule 16 and paragraph 1 of Part 4 of Schedule 18 to the [Government of Wales Act 1998 (c. 38)](https://www.legislation.gov.uk/ukpga/1998/38), [Part 3(7)](https://www.legislation.gov.uk/ukpga/1998/38/part/3/7) of Schedule 20 to the [Finance Act 1999 (c. 16)](https://www.legislation.gov.uk/ukpga/1999/16), [paragraph 24](https://www.legislation.gov.uk/ukpga/1999/16/paragraph/24) of Schedule 19 to the [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20) and [S.I. 2001/1149](https://www.legislation.gov.uk/uksi/2001/1149) and 3629.
+
+[^c2141977]: Marginal citation: [1970 c. 9](https://www.legislation.gov.uk/ukpga/1970/9). The provisions in subsection (1) on the power to require a return were amended by section 121(1) of the [Finance Act 1996 (c. 8)](https://www.legislation.gov.uk/ukpga/1996/8) and by paragraph 1 of Part 5(3) of Schedule 27 to the [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11).
+
+[^c2141978]: Marginal citation: [2002 c. 16](https://www.legislation.gov.uk/ukpga/2002/16).
+
+[^c2141979]: Marginal citation: [2007 c. 3](https://www.legislation.gov.uk/ukpga/2007/3).
+
+[^c2141980]: Marginal citation: [S.I.2008/2685](https://www.legislation.gov.uk/uksi/2008/2685) (L. 13).
+
+[^c2141981]: Marginal citation: Section 577 was amended by paragraph 9(4)(a) of Schedule 17 and Part 2(12) of Schedule 42 to the [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12) and by section 10(2) of the [Finance (No. 2) Act 2005 (c. 22)](https://www.legislation.gov.uk/ukpga/2005/22).
+
+[^key-db356617e33a169f7611066f5d28da5d]: Textual amendment: [Reg. 2A](https://www.legislation.gov.uk/uksi/2012/2677/regulation/2A) inserted (26.5.2022) by [The Child Support (Amendments Relating to Electronic Communications and Information) (England and Wales and Scotland) Regulations 2022 (S.I. 2022/503)](https://www.legislation.gov.uk/uksi/2022/503), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/503/regulation/1/2), [23](https://www.legislation.gov.uk/uksi/2022/503/regulation/23)
+
+[^c2199840]: Commencement: Reg. 3 wholly in force; reg. 3 not in force at made date; reg. 3 in force at 29.7.2013 for certain purposes and reg. 3 in force at 25.11.2013 in so far as not already in force, see reg. 1, SI 2013/1860 and [S.I. 2013/2947](https://www.legislation.gov.uk/uksi/2013/2947)
+
+[^c2199841]: Commencement: Reg. 4 wholly in force; reg. 4 not in force at made date; reg. 4 in force at 29.7.2013 for certain purposes and reg. 4 in force at 25.11.2013 in so far as not already in force, see reg. 1, SI 2013/1860 and [S.I. 2013/2947](https://www.legislation.gov.uk/uksi/2013/2947)
+
+[^c2199842]: Commencement: Reg. 5 wholly in force; reg. 5 not in force at made date; reg. 5 in force at 29.7.2013 for certain purposes and reg. 5 in force at 25.11.2013 in so far as not already in force, see reg. 1, SI 2013/1860 and [S.I. 2013/2947](https://www.legislation.gov.uk/uksi/2013/2947)
+
+[^c2199843]: Commencement: Reg. 6 wholly in force; reg. 6 not in force at made date; reg. 6 in force at 29.7.2013 for certain purposes and reg. 6 in force at 25.11.2013 in so far as not already in force, see reg. 1, SI 2013/1860 and [S.I. 2013/2947](https://www.legislation.gov.uk/uksi/2013/2947)
+
+[^c2199844]: Commencement: Reg. 7 wholly in force; reg. 7 not in force at made date; reg. 7 in force at 29.7.2013 for certain purposes and reg. 7 in force at 25.11.2013 in so far as not already in force, see reg. 1, SI 2013/1860 and [S.I. 2013/2947](https://www.legislation.gov.uk/uksi/2013/2947)
+
+[^key-f1227ea0cbd8d7b7ee68a84d4191be0a]: Textual amendment: [Reg. 7(3)](https://www.legislation.gov.uk/uksi/2012/2677/regulation/7/3) inserted (26.5.2022) by [The Child Support (Amendments Relating to Electronic Communications and Information) (England and Wales and Scotland) Regulations 2022 (S.I. 2022/503)](https://www.legislation.gov.uk/uksi/2022/503), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/503/regulation/1/2), [24](https://www.legislation.gov.uk/uksi/2022/503/regulation/24)
+
+[^c2199845]: Commencement: Reg. 8 wholly in force; reg. 8 not in force at made date; reg. 8 in force at 29.7.2013 for certain purposes and reg. 8 in force at 25.11.2013 in so far as not already in force, see reg. 1, SI 2013/1860 and [S.I. 2013/2947](https://www.legislation.gov.uk/uksi/2013/2947)
+
+[^c2199846]: Commencement: Reg. 9 wholly in force; reg. 9 not in force at made date; reg. 9 in force at 29.7.2013 for certain purposes and reg. 9 in force at 25.11.2013 in so far as not already in force, see reg. 1, SI 2013/1860 and [S.I. 2013/2947](https://www.legislation.gov.uk/uksi/2013/2947)
+
+[^c2199847]: Commencement: Reg. 10 wholly in force; reg. 10 not in force at made date; reg. 10 in force at 29.7.2013 for certain purposes and reg. 10 in force at 25.11.2013 in so far as not already in force, see reg. 1, SI 2013/1860 and [S.I. 2013/2947](https://www.legislation.gov.uk/uksi/2013/2947)
+
+[^c2141982]: Marginal citation: Section 7 was amended by paragraph 21 of Schedule 7, and Schedule 8, to the [Social Security Act 1998 (c. 14)](https://www.legislation.gov.uk/ukpga/1998/14) (“**the 1998 Act**”), section 1(2) of, and paragraph 11(1), (2) and (4) of Schedule 3 to, the [Child Support, Pensions and Social Security Act 2000 (c. 19)](https://www.legislation.gov.uk/ukpga/2000/19) (“**the 2000 Act**”), and by section 35(2) of the [Child Maintenance and Other Payments Act 2008 (c. 6)](https://www.legislation.gov.uk/ukpga/2008/6) (“**the 2008 Act**”).
+
+[^c2141983]: Marginal citation: Section 4 was amended by section 18(1) of the [Child Support Act 1995 (c. 34)](https://www.legislation.gov.uk/ukpga/1995/34), [paragraph 19](https://www.legislation.gov.uk/ukpga/1995/34/paragraph/19) of Schedule 7, and Schedule 8, to the 1998 Act, sections 1(2) and 2(1) to (3) of, and paragraph 11(1) to (3) of Schedule 3 to, the 2000 Act and section 35(1) of, and Schedule 8 to, the 2008 Act.
+
+[^c2199848]: Commencement: Reg. 11 wholly in force; reg. 11 not in force at made date; reg. 11 in force at 29.7.2013 for certain purposes and reg. 11 in force at 25.11.2013 in so far as not already in force, see reg. 1, SI 2013/1860 and [S.I. 2013/2947](https://www.legislation.gov.uk/uksi/2013/2947)
+
+[^key-7220b91da366e486df9816a5c3f4e26c]: Textual amendment: Words in Pt. 2 reg. 11(1) inserted (30.6.2014) by [The Child Support (Consequential and Miscellaneous Amendments) Regulations 2014 (S.I. 2014/1386)](https://www.legislation.gov.uk/uksi/2014/1386), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/1386/regulation/1/2), [7(2)(a)(i)](https://www.legislation.gov.uk/uksi/2014/1386/regulation/7/2/a/i) (as amended (24.6.2014) by [S.I. 2014/1621](https://www.legislation.gov.uk/uksi/2014/1621), reg. 3)
+
+[^key-b9960c445f816f7e3ec9b1e9042fad1a]: Textual amendment: Words in Pt. 2 reg. 11(1) omitted (30.6.2014) by virtue of [The Child Support (Consequential and Miscellaneous Amendments) Regulations 2014 (S.I. 2014/1386)](https://www.legislation.gov.uk/uksi/2014/1386), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/1386/regulation/1/2), [7(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2014/1386/regulation/7/2/a/ii) (as amended (24.6.2014) by [S.I. 2014/1621](https://www.legislation.gov.uk/uksi/2014/1621), reg. 3)
+
+[^key-bd2670f4fb02d5728fe51982391c541f]: Textual amendment: [Reg. 11(2)](https://www.legislation.gov.uk/uksi/2012/2677/regulation/11/2) substituted (26.5.2022) by [The Child Support (Amendments Relating to Electronic Communications and Information) (England and Wales and Scotland) Regulations 2022 (S.I. 2022/503)](https://www.legislation.gov.uk/uksi/2022/503), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/503/regulation/1/2), [25](https://www.legislation.gov.uk/uksi/2022/503/regulation/25)
+
+[^key-5de53cf53ddb8e8f18f1e92d58d730f3]: Textual amendment: Pt. 2 reg. 11(3)-(9) inserted (30.6.2014) by [The Child Support (Consequential and Miscellaneous Amendments) Regulations 2014 (S.I. 2014/1386)](https://www.legislation.gov.uk/uksi/2014/1386), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/1386/regulation/1/2), [7(2)(c)](https://www.legislation.gov.uk/uksi/2014/1386/regulation/7/2/c) (as amended (24.6.2014) by [S.I. 2014/1621](https://www.legislation.gov.uk/uksi/2014/1621), reg. 3)
+
+[^c2199849]: Commencement: Reg. 12 wholly in force; reg. 12 not in force at made date; reg. 12 in force at 29.7.2013 for certain purposes and reg. 12 in force at 25.11.2013 in so far as not already in force, see reg. 1, SI 2013/1860 and [S.I. 2013/2947](https://www.legislation.gov.uk/uksi/2013/2947)
+
+[^key-f6c455f799f0d2685aff607caa390034]: Textual amendment: Pt. 3 reg. 12(1): reg. 12 renumbered as reg. 12(1) (30.6.2014) by [The Child Support (Consequential and Miscellaneous Amendments) Regulations 2014 (S.I. 2014/1386)](https://www.legislation.gov.uk/uksi/2014/1386), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/1386/regulation/1/2), [7(3)(a)](https://www.legislation.gov.uk/uksi/2014/1386/regulation/7/3/a) (as amended (24.6.2014) by [S.I. 2014/1621](https://www.legislation.gov.uk/uksi/2014/1621), reg. 3)
+
+[^c2141984]: Marginal citation: Section 11 was substituted by section 1(1) of the 2000 Act and amended by Schedule 8 to the 2008 Act.
+
+[^key-e8160c9c0637b48b4bc064ca59f23f46]: Textual amendment: Words in Pt. 3 reg. 12(1) substituted (30.6.2014) by [The Child Support (Consequential and Miscellaneous Amendments) Regulations 2014 (S.I. 2014/1386)](https://www.legislation.gov.uk/uksi/2014/1386), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/1386/regulation/1/2), [7(3)(b)](https://www.legislation.gov.uk/uksi/2014/1386/regulation/7/3/b) (as amended (24.6.2014) by [S.I. 2014/1621](https://www.legislation.gov.uk/uksi/2014/1621), reg. 3)
+
+[^key-76f8229ac0d55db038a1f81ef8529117]: Textual amendment: Pt. 3 reg. 12(2) inserted (30.6.2014) by [The Child Support (Consequential and Miscellaneous Amendments) Regulations 2014 (S.I. 2014/1386)](https://www.legislation.gov.uk/uksi/2014/1386), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/1386/regulation/1/2), [7(3)(c)](https://www.legislation.gov.uk/uksi/2014/1386/regulation/7/3/c) (as amended (24.6.2014) by [S.I. 2014/1621](https://www.legislation.gov.uk/uksi/2014/1621), reg. 3)
+
+[^key-d238206bf5907a6286c4b9218855958b]: Textual amendment: Words in [reg. 12(2)(a)](https://www.legislation.gov.uk/uksi/2012/2677/regulation/12/2/a)[(b)](https://www.legislation.gov.uk/uksi/2012/2677/regulation/12/2/b) substituted (26.5.2022) by [The Child Support (Amendments Relating to Electronic Communications and Information) (England and Wales and Scotland) Regulations 2022 (S.I. 2022/503)](https://www.legislation.gov.uk/uksi/2022/503), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/503/regulation/1/2), [26(c)](https://www.legislation.gov.uk/uksi/2022/503/regulation/26/c)
+
+[^key-8b330edf7bbde28e68f9d735af107145]: Textual amendment: Word in [reg. 12(2)(a)](https://www.legislation.gov.uk/uksi/2012/2677/regulation/12/2/a) omitted (26.5.2022) by virtue of [The Child Support (Amendments Relating to Electronic Communications and Information) (England and Wales and Scotland) Regulations 2022 (S.I. 2022/503)](https://www.legislation.gov.uk/uksi/2022/503), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/503/regulation/1/2), [26(a)](https://www.legislation.gov.uk/uksi/2022/503/regulation/26/a)
+
+[^key-09657a0542c7aa59c88ba4454d875ade]: Textual amendment: [Reg. 12(2)(c)](https://www.legislation.gov.uk/uksi/2012/2677/regulation/12/2/c) and word inserted (26.5.2022) by [The Child Support (Amendments Relating to Electronic Communications and Information) (England and Wales and Scotland) Regulations 2022 (S.I. 2022/503)](https://www.legislation.gov.uk/uksi/2022/503), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/503/regulation/1/2), [26(b)](https://www.legislation.gov.uk/uksi/2022/503/regulation/26/b)
+
+[^c2199850]: Commencement: Reg. 1 3wholly in force; reg. 1 3not in force at made date; reg. 13 in force at 29.7.2013 for certain purposes and reg. 13 in force at 25.11.2013 in so far as not already in force, see reg. 1, SI 2013/1860 and [S.I. 2013/2947](https://www.legislation.gov.uk/uksi/2013/2947)
+
+[^c2141985]: Marginal citation: Section 28A(3) was amended by Schedule 8 to the 2008 Act.
+
+[^c2141986]: Marginal citation: Section 28J was inserted by section 20 of the 2000 Act.
+
+[^c2199851]: Commencement: Reg. 14 wholly in force; reg. 14 not in force at made date; reg. 14 in force at 29.7.2013 for certain purposes and reg. 14 in force at 25.11.2013 in so far as not already in force, see reg. 1, SI 2013/1860 and [S.I. 2013/2947](https://www.legislation.gov.uk/uksi/2013/2947)
+
+[^c2141987]: Marginal citation: Section 16(1A) was inserted by section 8(1) and (3) of the 2000 Act and amended by Schedule 8 to the 2008 Act and [S.I. 2008/2833](https://www.legislation.gov.uk/uksi/2008/2833). The decisions to which section 16(1A) applies are: a maintenance calculation; an interim maintenance decision; a default maintenance decision; a supersession; a decision on a variation referred to an appeal tribunal under section 28D of the 1991 Act.
+
+[^key-8215437652e3989e1350d6e306d42909]: Textual amendment: Pt. 3 reg. 14(1)(a) substituted (23.3.2015) by [The Child Support (Miscellaneous and Consequential Amendments) Regulations 2015 (S.I. 2015/338)](https://www.legislation.gov.uk/uksi/2015/338), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/338/regulation/1/2), [8(2)](https://www.legislation.gov.uk/uksi/2015/338/regulation/8/2)
+
+[^c2141989]: Marginal citation: Section 20 was amended by paragraphs 1(1) and (4) to (6) and 3 of Schedule 7, and Schedule 8, to the 2008 Act and [S.I. 2008/2833](https://www.legislation.gov.uk/uksi/2008/2833).
+
+[^key-eab3695984e03b3920969baaa7fef716]: Textual amendment: Pt. 3 reg. 14(3A) inserted (30.6.2014) by [The Child Support (Consequential and Miscellaneous Amendments) Regulations 2014 (S.I. 2014/1386)](https://www.legislation.gov.uk/uksi/2014/1386), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/1386/regulation/1/2), [7(4)](https://www.legislation.gov.uk/uksi/2014/1386/regulation/7/4) (as amended (24.6.2014) by [S.I. 2014/1621](https://www.legislation.gov.uk/uksi/2014/1621), reg. 3)
+
+[^key-9d15476e61bfd2a33bfe4c125951d485]: Textual amendment: Pt. 3 reg. 14A inserted (28.10.2013) by [The Social Security, Child Support, Vaccine Damage and Other Payments (Decisions and Appeals) (Amendment) Regulations 2013 (S.I. 2013/2380)](https://www.legislation.gov.uk/uksi/2013/2380), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/2380/regulation/1/2), [6(2)](https://www.legislation.gov.uk/uksi/2013/2380/regulation/6/2)
+
+[^c2199852]: Commencement: Reg. 15 wholly in force; reg. 15 not in force at made date; reg. 15 in force at 29.7.2013 for certain purposes and reg. 15 in force at 25.11.2013 in so far as not already in force, see reg. 1, SI 2013/1860 and [S.I. 2013/2947](https://www.legislation.gov.uk/uksi/2013/2947)
+
+[^key-3abd693496a8ac3bd9c0c811600b21f2]: Textual amendment: Words in Pt. 3 reg. 15(4)(b) inserted (28.10.2013) by [The Social Security, Child Support, Vaccine Damage and Other Payments (Decisions and Appeals) (Amendment) Regulations 2013 (S.I. 2013/2380)](https://www.legislation.gov.uk/uksi/2013/2380), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/2380/regulation/1/2), [6(3)(a)](https://www.legislation.gov.uk/uksi/2013/2380/regulation/6/3/a)
+
+[^key-8d8e01aa88b485edb7ac75ff5d0f733a]: Textual amendment: Words in Pt. 3 reg. 15(6) inserted (28.10.2013) by [The Social Security, Child Support, Vaccine Damage and Other Payments (Decisions and Appeals) (Amendment) Regulations 2013 (S.I. 2013/2380)](https://www.legislation.gov.uk/uksi/2013/2380), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/2380/regulation/1/2), [6(3)(b)](https://www.legislation.gov.uk/uksi/2013/2380/regulation/6/3/b)
+
+[^c2199853]: Commencement: Reg. 16 wholly in force; reg. 16 not in force at made date; reg. 16 in force at 29.7.2013 for certain purposes and reg. 16 in force at 25.11.2013 in so far as not already in force, see reg. 1, SI 2013/1860 and [S.I. 2013/2947](https://www.legislation.gov.uk/uksi/2013/2947)
+
+[^c2199854]: Commencement: Reg. 17 wholly in force; reg. 17 not in force at made date; reg. 17 in force at 29.7.2013 for certain purposes and reg. 17 in force at 25.11.2013 in so far as not already in force, see reg. 1, SI 2013/1860 and [S.I. 2013/2947](https://www.legislation.gov.uk/uksi/2013/2947)
+
+[^c2141990]: Marginal citation: Section 17(1) was substituted by section 41 of the [Social Security Act 1998 (c. 14)](https://www.legislation.gov.uk/ukpga/1998/14) and amended by section 9(1) and (2) of, and Schedule 9 to, the [Child Support, Pensions and Social Security Act 2000 (c. 19)](https://www.legislation.gov.uk/ukpga/2000/19) (“**the 2000 Act**”), Schedule 8 to the [Child Maintenance and Other Payments Act 2008 (c. 6)](https://www.legislation.gov.uk/ukpga/2008/6) (“**the 2008 Act**”) and [S.I. 2008/2833](https://www.legislation.gov.uk/uksi/2008/2833). The decisions mentioned in section 17 are: a maintenance calculation; an interim maintenance decision; a default maintenance decision or a supersession (whether as originally made or revised); a decision of a First-tier tribunal made on appeal under section 20 or on a variation referred under section 28D of the 1991 Act; a decision of an Upper Tribunal on appeal from the First-tier Tribunal.
+
+[^c2141991]: Marginal citation: Paragraph 16 was amended by section 1(2) of, and paragraph 11(1), (2) and (22)(c)(i) of Schedule 3 to, the 2000 Act; there are other amendments not relevant to these Regulations.
+
+[^c2199855]: Commencement: Reg. 18 wholly in force; reg. 18 not in force at made date; reg. 18 in force at 29.7.2013 for certain purposes and reg. 18 in force at 25.11.2013 in so far as not already in force, see reg. 1, SI 2013/1860 and [S.I. 2013/2947](https://www.legislation.gov.uk/uksi/2013/2947)
+
+[^c2141992]: Marginal citation: Section 17(4) and (4A) was substituted by section 9(1) and (3) of the 2000 Act.
+
+[^c2141993]: Marginal citation: Paragraph 5A was inserted by paragraph 5(2) of Schedule 4 to the 2008 Act.
+
+[^c2199856]: Commencement: Reg. 19 wholly in force; reg. 19 not in force at made date; reg. 19 in force at 29.7.2013 for certain purposes and reg. 19 in force at 25.11.2013 in so far as not already in force, see reg. 1, SI 2013/1860 and [S.I. 2013/2947](https://www.legislation.gov.uk/uksi/2013/2947)
+
+[^c2199857]: Commencement: Reg. 20 wholly in force; reg. 20 not in force at made date; reg. 20 in force at 29.7.2013 for certain purposes and reg. 20 in force at 25.11.2013 in so far as not already in force, see reg. 1, SI 2013/1860 and [S.I. 2013/2947](https://www.legislation.gov.uk/uksi/2013/2947)
+
+[^c2199858]: Commencement: Reg. 21 wholly in force; reg. 21 not in force at made date; reg. 21 in force at 29.7.2013 for certain purposes and reg. 21 in force at 25.11.2013 in so far as not already in force, see reg. 1, SI 2013/1860 and [S.I. 2013/2947](https://www.legislation.gov.uk/uksi/2013/2947)
+
+[^c2199859]: Commencement: Reg. 22 wholly in force; reg. 22 not in force at made date; reg. 22 in force at 29.7.2013 for certain purposes and reg. 22 in force at 25.11.2013 in so far as not already in force, see reg. 1, SI 2013/1860 and [S.I. 2013/2947](https://www.legislation.gov.uk/uksi/2013/2947)
+
+[^c2199860]: Commencement: Reg. 23 wholly in force; reg. 23 not in force at made date; reg. 23 in force at 29.7.2013 for certain purposes and reg. 23 in force at 25.11.2013 in so far as not already in force, see reg. 1, SI 2013/1860 and [S.I. 2013/2947](https://www.legislation.gov.uk/uksi/2013/2947)
+
+[^c2199861]: Commencement: Reg. 24 wholly in force; reg. 24 not in force at made date; reg. 24 in force at 29.7.2013 for certain purposes and reg. 24 in force at 25.11.2013 in so far as not already in force, see reg. 1, SI 2013/1860 and [S.I. 2013/2947](https://www.legislation.gov.uk/uksi/2013/2947)
+
+[^c2199862]: Commencement: Reg. 25 wholly in force; reg. 25 not in force at made date; reg. 25 in force at 29.7.2013 for certain purposes and reg. 25 in force at 25.11.2013 in so far as not already in force, see reg. 1, SI 2013/1860 and [S.I. 2013/2947](https://www.legislation.gov.uk/uksi/2013/2947)
+
+[^c2141994]: Marginal citation: Section 12(2) was amended by Schedule 8 to the [Child Maintenance and Other Payments Act 2008 (c. 6)](https://www.legislation.gov.uk/ukpga/2008/6) (“**the 2008 Act**”).
+
+[^c2199863]: Commencement: Reg. 26 wholly in force; reg. 26 not in force at made date; reg. 26 in force at 29.7.2013 for certain purposes and reg. 26 in force at 25.11.2013 in so far as not already in force, see reg. 1, SI 2013/1860 and [S.I. 2013/2947](https://www.legislation.gov.uk/uksi/2013/2947)
+
+[^c2199864]: Commencement: Reg. 27 wholly in force; reg. 27 not in force at made date; reg. 27 in force at 29.7.2013 for certain purposes and reg. 27 in force at 25.11.2013 in so far as not already in force, see reg. 1, SI 2013/1860 and [S.I. 2013/2947](https://www.legislation.gov.uk/uksi/2013/2947)
+
+[^key-00c97a8b1b6898355ace9884ce502d30]: Textual amendment: Pt. 3 Ch. 5A inserted (23.3.2015) by [The Child Support (Miscellaneous and Consequential Amendments) Regulations 2015 (S.I. 2015/338)](https://www.legislation.gov.uk/uksi/2015/338), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/338/regulation/1/2), [8(3)](https://www.legislation.gov.uk/uksi/2015/338/regulation/8/3)
+
+[^c2199865]: Commencement: Reg. 28 wholly in force; reg. 28 not in force at made date; reg. 28 in force at 29.7.2013 for certain purposes and reg. 28 in force at 25.11.2013 in so far as not already in force, see reg. 1, SI 2013/1860 and [S.I. 2013/2947](https://www.legislation.gov.uk/uksi/2013/2947)
+
+[^c2141995]: Marginal citation: Section 28ZA was inserted by section 43 of the [Social Security Act 1998 (c.14)](https://www.legislation.gov.uk/ukpga/1998/14) (“**the 1998 Act**”).
+
+[^c2199866]: Commencement: Reg. 29 wholly in force; reg. 29 not in force at made date; reg. 29 in force at 29.7.2013 for certain purposes and reg. 29 in force at 25.11.2013 in so far as not already in force, see reg. 1, SI 2013/1860 and [S.I. 2013/2947](https://www.legislation.gov.uk/uksi/2013/2947)
+
+[^c2141996]: Marginal citation: Section 28ZB was inserted by section 43 of the 1998 Act. Subsection (6) concerns the situation where, in prescribed circumstances, an appeal against a decision in a case has not been brought, or an application for leave to appeal has not been made, but the time for doing so has not expired.
+
+[^c2199867]: Commencement: Reg. 30 wholly in force; reg. 30 not in force at made date; reg. 30 in force at 29.7.2013 for certain purposes and reg. 30 in force at 25.11.2013 in so far as not already in force, see reg. 1, SI 2013/1860 and [S.I. 2013/2947](https://www.legislation.gov.uk/uksi/2013/2947)
+
+[^c2199868]: Commencement: Reg. 31 wholly in force; reg. 31 not in force at made date; reg. 31 in force at 29.7.2013 for certain purposes and reg. 31 in force at 25.11.2013 in so far as not already in force, see reg. 1, SI 2013/1860 and [S.I. 2013/2947](https://www.legislation.gov.uk/uksi/2013/2947)
+
+[^c2199869]: Commencement: Reg. 32 wholly in force; reg. 32 not in force at made date; reg. 32 in force at 29.7.2013 for certain purposes and reg. 32 in force at 25.11.2013 in so far as not already in force, see reg. 1, SI 2013/1860 and [S.I. 2013/2947](https://www.legislation.gov.uk/uksi/2013/2947)
+
+[^c2141997]: Marginal citation: Section 28ZC was inserted by section 44 of the 1998 Act and amended by sections 1(2) and 26 of, and paragraph 11(1) and (13) of Schedule 3 to, the [Child Support, Pensions and Social Security Act 2000 (c. 19)](https://www.legislation.gov.uk/ukpga/2000/19), [section 40(4)](https://www.legislation.gov.uk/ukpga/2000/19/section/40/4) of, and paragraph 54 of Schedule 9 to, the [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [section 58](https://www.legislation.gov.uk/ukpga/2005/4/section/58) of, and Schedule 8 to, the 2008 Act and [S.I. 2008/2833](https://www.legislation.gov.uk/uksi/2008/2833), 2009/1604 and 2011/1043.
+
+[^c2199870]: Commencement: Reg. 33 wholly in force; reg. 33 not in force at made date; reg. 33 in force at 29.7.2013 for certain purposes and reg. 33 in force at 25.11.2013 in so far as not already in force, see reg. 1, SI 2013/1860 and [S.I. 2013/2947](https://www.legislation.gov.uk/uksi/2013/2947)
+
+[^key-d82d0030b926e674bae550c788985e96]: Textual amendment: Words in [reg. 33](https://www.legislation.gov.uk/uksi/2012/2677/regulation/33) substituted (26.5.2022) by [The Child Support (Amendments Relating to Electronic Communications and Information) (England and Wales and Scotland) Regulations 2022 (S.I. 2022/503)](https://www.legislation.gov.uk/uksi/2022/503), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/503/regulation/1/2), [27](https://www.legislation.gov.uk/uksi/2022/503/regulation/27)
+
+[^c2199871]: Commencement: Reg. 34 wholly in force; reg. 34 not in force at made date; reg. 34 in force at 29.7.2013 for certain purposes and reg. 34 in force at 25.11.2013 in so far as not already in force, see reg. 1, SI 2013/1860 and [S.I. 2013/2947](https://www.legislation.gov.uk/uksi/2013/2947)
+
+[^key-1139a0aef7d38f2250f05d493b1805e5]: Modification: Reg. 34(2) modified (temp.) (10.12.2012) by [The Child Maintenance and Other Payments Act 2008 (Commencement No. 10 and Transitional Provisions) Order 2012 (S.I. 2012/3042)](https://www.legislation.gov.uk/uksi/2012/3042), [art. 6(a)](https://www.legislation.gov.uk/uksi/2012/3042/article/6/a) (which amending art. 6 was omitted (29.7.2013) by virtue of [S.I. 2013/1860](https://www.legislation.gov.uk/uksi/2013/1860), art. 6)
+
+[^key-5b555cd02e9125e4b01fa51bf944038a]: Modification: Reg. 34(2) modified (temp.) (29.7.2013) by [The Child Maintenance and Other Payments Act 2008 (Commencement No. 11 and Transitional Provisions) Order 2013 (S.I. 2013/1860)](https://www.legislation.gov.uk/uksi/2013/1860), [art. 7(a)](https://www.legislation.gov.uk/uksi/2013/1860/article/7/a)
+
+[^key-4d6ac266ad2fb1a7348b0edcde1c78df]: Textual amendment: Words in Pt. 4 reg. 34(2)(b) omitted (25.11.2013) by virtue of [The Child Support (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/1517)](https://www.legislation.gov.uk/uksi/2013/1517), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2013/1517/regulation/1/4)[(5)](https://www.legislation.gov.uk/uksi/2013/1517/regulation/1/5), [8(2)(a)(i)](https://www.legislation.gov.uk/uksi/2013/1517/regulation/8/2/a/i)
+
+[^key-83870ca03c74cb573f173e9a9b2aa9a2]: Textual amendment: Pt. 4 reg. 34(2)(c) and word inserted (25.11.2013) by [The Child Support (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/1517)](https://www.legislation.gov.uk/uksi/2013/1517), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2013/1517/regulation/1/4)[(5)](https://www.legislation.gov.uk/uksi/2013/1517/regulation/1/5), [8(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2013/1517/regulation/8/2/a/ii)
+
+[^key-8fb8e80bb2709f504943784737293004]: Textual amendment: Pt. 4 reg. 34(2A) inserted (25.11.2013) by [The Child Support (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/1517)](https://www.legislation.gov.uk/uksi/2013/1517), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2013/1517/regulation/1/4)[(5)](https://www.legislation.gov.uk/uksi/2013/1517/regulation/1/5), [8(2)(b)](https://www.legislation.gov.uk/uksi/2013/1517/regulation/8/2/b)
+
+[^c2199872]: Commencement: Reg. 35 wholly in force; reg. 35 not in force at made date; reg. 35 in force at 29.7.2013 for certain purposes and reg. 35 in force at 25.11.2013 in so far as not already in force, see reg. 1, SI 2013/1860 and [S.I. 2013/2947](https://www.legislation.gov.uk/uksi/2013/2947)
+
+[^c2199873]: Commencement: Reg. 36 wholly in force; reg. 36 not in force at made date; reg. 36 in force at 29.7.2013 for certain purposes and reg. 36 in force at 25.11.2013 in so far as not already in force, see reg. 1, SI 2013/1860 and [S.I. 2013/2947](https://www.legislation.gov.uk/uksi/2013/2947)
+
+[^key-f6e8e4bdcb786c6ea80de31891cac380]: Textual amendment: [Reg. 36(2)](https://www.legislation.gov.uk/uksi/2012/2677/regulation/36/2) substituted (4.7.2019) by [The Child Support (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1084)](https://www.legislation.gov.uk/uksi/2019/1084), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1084/regulation/1/3), [14](https://www.legislation.gov.uk/uksi/2019/1084/regulation/14)
+
+[^c2141998]: Marginal citation: [2007 c. 3](https://www.legislation.gov.uk/ukpga/2007/3).
+
+[^c2199874]: Commencement: Reg. 37 wholly in force; reg. 37 not in force at made date; reg. 37 in force at 29.7.2013 for certain purposes and reg. 37 in force at 25.11.2013 in so far as not already in force, see reg. 1, SI 2013/1860 and [S.I. 2013/2947](https://www.legislation.gov.uk/uksi/2013/2947)
+
+[^c2199875]: Commencement: Reg. 38 wholly in force; reg. 38 not in force at made date; reg. 38 in force at 29.7.2013 for certain purposes and reg. 38 in force at 25.11.2013 in so far as not already in force, see reg. 1, SI 2013/1860 and [S.I. 2013/2947](https://www.legislation.gov.uk/uksi/2013/2947)
+
+[^c2199876]: Commencement: Reg. 39 wholly in force; reg. 39 not in force at made date; reg. 39 in force at 29.7.2013 for certain purposes and reg. 39 in force at 25.11.2013 in so far as not already in force, see reg. 1, SI 2013/1860 and [S.I. 2013/2947](https://www.legislation.gov.uk/uksi/2013/2947)
+
+[^c2199877]: Commencement: Reg. 40 wholly in force; reg. 40 not in force at made date; reg. 40 in force at 29.7.2013 for certain purposes and reg. 40 in force at 25.11.2013 in so far as not already in force, see reg. 1, SI 2013/1860 and [S.I. 2013/2947](https://www.legislation.gov.uk/uksi/2013/2947)
+
+[^c2199878]: Commencement: Reg. 41 wholly in force; reg. 41 not in force at made date; reg. 41 in force at 29.7.2013 for certain purposes and reg. 41 in force at 25.11.2013 in so far as not already in force, see reg. 1, SI 2013/1860 and [S.I. 2013/2947](https://www.legislation.gov.uk/uksi/2013/2947)
+
+[^c2199879]: Commencement: Reg. 42 wholly in force; reg. 42 not in force at made date; reg. 42 in force at 29.7.2013 for certain purposes and reg. 42 in force at 25.11.2013 in so far as not already in force, see reg. 1, SI 2013/1860 and [S.I. 2013/2947](https://www.legislation.gov.uk/uksi/2013/2947)
+
+[^key-34a5b517d6a9d83b44b6ca3a02622585]: Modification: Reg. 42(1)(a) modified (temp.) (29.7.2013) by [The Child Maintenance and Other Payments Act 2008 (Commencement No. 11 and Transitional Provisions) Order 2013 (S.I. 2013/1860)](https://www.legislation.gov.uk/uksi/2013/1860), [art. 7(b)](https://www.legislation.gov.uk/uksi/2013/1860/article/7/b)
+
+[^key-6b0fd5e5fe8bd1ed0fb23391ac32283b]: Textual amendment: Words in Pt. 4 reg. 42(1)(a) inserted (25.11.2013) by [The Child Support (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/1517)](https://www.legislation.gov.uk/uksi/2013/1517), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2013/1517/regulation/1/4)[(5)](https://www.legislation.gov.uk/uksi/2013/1517/regulation/1/5), [8(3)(a)](https://www.legislation.gov.uk/uksi/2013/1517/regulation/8/3/a)
+
+[^key-d913cd87374b452d90e75c199280f1ab]: Textual amendment: Words in Pt. 4 reg. 42(1)(a) inserted (25.11.2013) by [The Child Support (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/1517)](https://www.legislation.gov.uk/uksi/2013/1517), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2013/1517/regulation/1/4)[(5)](https://www.legislation.gov.uk/uksi/2013/1517/regulation/1/5), [8(3)(b)](https://www.legislation.gov.uk/uksi/2013/1517/regulation/8/3/b)
+
+[^key-a75be4603edfd81673cc59842aaa2dbb]: Textual amendment: Words in Pt. 4 reg. 42(1)(a) omitted (25.11.2013) by virtue of [The Child Support (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/1517)](https://www.legislation.gov.uk/uksi/2013/1517), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2013/1517/regulation/1/4)[(5)](https://www.legislation.gov.uk/uksi/2013/1517/regulation/1/5), [8(3)(c)](https://www.legislation.gov.uk/uksi/2013/1517/regulation/8/3/c)
+
+[^c2199880]: Commencement: Reg. 43 wholly in force; reg. 43 not in force at made date; reg. 43 in force at 29.7.2013 for certain purposes and reg. 43 in force at 25.11.2013 in so far as not already in force, see reg. 1, SI 2013/1860 and [S.I. 2013/2947](https://www.legislation.gov.uk/uksi/2013/2947)
+
+[^M_F_c0586af1-1bc9-426c-d84b-6c2d99639f3f]: Textual amendment: Reg. 43 substituted (coming into force in accordance with reg. 1(2)(3) of the amending S.I.) by [The Child Support and Claims and Payments (Miscellaneous Amendments and Change to the Minimum Amount of Liability) Regulations 2013 (S.I. 2013/1654)](https://www.legislation.gov.uk/uksi/2013/1654), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/1654/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2013/1654/regulation/1/3), [5(2)](https://www.legislation.gov.uk/uksi/2013/1654/regulation/5/2)
+
+[^c2199881]: Commencement: Reg. 44 wholly in force; reg. 44 not in force at made date; reg. 44 in force at 29.7.2013 for certain purposes and reg. 44 in force at 25.11.2013 in so far as not already in force, see reg. 1, SI 2013/1860 and [S.I. 2013/2947](https://www.legislation.gov.uk/uksi/2013/2947)
+
+[^c2141999]: Marginal citation: Paragraph 4 of Schedule 1 was amended by paragraphs 1 and 2 of Schedule 4 to the [Child Maintenance and Other Payments Act 2008 (c. 6)](https://www.legislation.gov.uk/ukpga/2008/6).
+
+[^c2142000]: Marginal citation: [1992 c. 4](https://www.legislation.gov.uk/ukpga/1992/4).
+
+[^key-59ba266e64c6dac2184822eabe9892e0]: Textual amendment: Pt. 4 reg. 44(1)(a)(i) omitted (coming into force in accordance with art. 1-3 of the amending S.I.) by virtue of [The Pensions Act 2014 (Consequential, Supplementary and Incidental Amendments) Order 2017 (S.I. 2017/422)](https://www.legislation.gov.uk/uksi/2017/422), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2017/422/article/1/2), [40](https://www.legislation.gov.uk/uksi/2017/422/article/40)
+
+[^c2142002]: Marginal citation: Section 44 was amended by section 6 of, and paragraphs 2 and 3 of Schedule 4 to, the [Social Security (Consequential Provisions) Act 1992 (c.6)](https://www.legislation.gov.uk/ukpga/1992/6), [section 190](https://www.legislation.gov.uk/ukpga/1992/6/section/190) of, and paragraph 38 of Schedule 8 to, the [Pension Schemes Act 1993 (c. 48)](https://www.legislation.gov.uk/ukpga/1993/48), [section 128(1)](https://www.legislation.gov.uk/ukpga/1993/48/section/128/1) and (2) of the [Pensions Act 1995 (c. 26)](https://www.legislation.gov.uk/ukpga/1995/26), [section 68](https://www.legislation.gov.uk/ukpga/1995/26/section/68) of the [Social Security Act 1998 (c.14)](https://www.legislation.gov.uk/ukpga/1998/14), [sections 30(2)](https://www.legislation.gov.uk/ukpga/1998/14/section/30/2) and 35(1) and (5) to (7) of the [Child Support, Pensions and Social Security Act 2000 (c. 19)](https://www.legislation.gov.uk/ukpga/2000/19) (“**the 2000 Act**”), section 6 of, and paragraphs 1 and 10 of Schedule 1 to, the [National Insurance Contributions Act 2002 (c.19)](https://www.legislation.gov.uk/ukpga/2002/19), [sections 1(4)](https://www.legislation.gov.uk/ukpga/2002/19/section/1/4), [11(5)(c)](https://www.legislation.gov.uk/ukpga/2002/19/section/11/5/c) and 12(2) of, and paragraph 1 of Schedule 1 and paragraph 5 of Schedule 2 to, the [Pensions Act 2007 (c.22)](https://www.legislation.gov.uk/ukpga/2007/22), [section 3(1)](https://www.legislation.gov.uk/ukpga/2007/22/section/3/1) and (3) of the [National Insurance Contributions Act 2008 (c.16)](https://www.legislation.gov.uk/ukpga/2008/16) and article 4 of [S.I. 2012/780](https://www.legislation.gov.uk/uksi/2012/780).
+
+[^c2142003]: Marginal citation: Section 48C was inserted by section 126 of, and paragraph 3(1) of Schedule 4 to, the [Pensions Act 1995 (c. 26)](https://www.legislation.gov.uk/ukpga/1995/26). It was amended by sections 70 and 84(1) of, and paragraphs 2 and 7 of Schedule 8 and paragraphs 14 and 21 of Schedule 12 to, the [Welfare Reform and Pensions Act 1999 (c.30)](https://www.legislation.gov.uk/ukpga/1999/30) (“**the 1999 Act**”) and sections 35(1) and (12) and 39(1)(a) and (2)(b) of the 2000 Act, section 11(5)(c) of, and paragraph 10 of Schedule 2 to, the [Pensions Act 2007 (c. 22)](https://www.legislation.gov.uk/ukpga/2007/22) and [S.I. 2005/2053](https://www.legislation.gov.uk/uksi/2005/2053).
+
+[^c2142004]: Marginal citation: Section 78 was amended by section 60 of, and Schedule 6 to, the [Tax Credits Act 2002 (c.21)](https://www.legislation.gov.uk/ukpga/2002/21) and sections 4(3) and 27(2) of, and paragraph 13 of Schedule 1, and Part 2 of Schedule 7 to, the [Pensions Act 2007 (c.22)](https://www.legislation.gov.uk/ukpga/2007/22).
+
+[^c2142005]: Marginal citation: Section 30A was inserted by section 1(1) of the [Social Security (Incapacity for Work) Act 1994 (c.18)](https://www.legislation.gov.uk/ukpga/1994/18). It was amended by section 64 of the 1999 Act and section 254(1) of, and paragraph 14 of Schedule 24 to, the [Civil Partnership Act 2004 (c.33)](https://www.legislation.gov.uk/ukpga/2004/33).
+
+[^c2142006]: Marginal citation: Section 70 was amended by [S.I. 1994/2556](https://www.legislation.gov.uk/uksi/1994/2556), 2002/1457 and 2011/2426.
+
+[^key-8d110b8b3153eb5624e40fc5e7eac1b3]: Textual amendment: Words in Pt. 4 reg. 44(1)(a)(vii) inserted (18.5.2014) by [The Social Security (Maternity Allowance) (Miscellaneous Amendments) Regulations 2014 (S.I. 2014/884)](https://www.legislation.gov.uk/uksi/2014/884), [regs. 1](https://www.legislation.gov.uk/uksi/2014/884/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2014/884/regulation/3/3)
+
+[^c2142007]: Marginal citation: Section 35 was amended by section 2 of the Still-[Birth (Definition) Act 1992 (c.92)](https://www.legislation.gov.uk/ukpga/1992/92), [section 67](https://www.legislation.gov.uk/ukpga/1992/92/section/67) of the [Social Security Act 1998 (c.14)](https://www.legislation.gov.uk/ukpga/1998/14), [section 53(1)](https://www.legislation.gov.uk/ukpga/1998/14/section/53/1) and (2) of the 1999 Act, section 53 of, and paragraphs 2 and 4 of Schedule 7 to, the [Employment Act 2002 (c.22)](https://www.legislation.gov.uk/ukpga/2002/22), [section 11(1)](https://www.legislation.gov.uk/ukpga/2002/22/section/11/1) of, and paragraph 6 of Schedule 1 to, the [Work and Families Act 2006 (c.18)](https://www.legislation.gov.uk/ukpga/2006/18) and [S.I. 1994/1230](https://www.legislation.gov.uk/uksi/1994/1230).
+
+[^c2142008]: Marginal citation: Section 68 was repealed by section 65 of the 1999 Act with savings in [S.I. 2000/2958](https://www.legislation.gov.uk/uksi/2000/2958).
+
+[^c2142009]: Marginal citation: Section 37 was amended by sections 254(1) and 261(4) of, and paragraph 18 of Schedule 24, and Schedule 30, to, the [Civil Partnership Act 2004 (c.33)](https://www.legislation.gov.uk/ukpga/2004/33), [section 1(3)](https://www.legislation.gov.uk/ukpga/2004/33/section/1/3) of, and paragraphs 1 and 2 of Schedule 1 to, the [Child Benefit Act 2005 (c.6)](https://www.legislation.gov.uk/ukpga/2005/6) and sections 50 and 67 of, and Schedule 8 to, the [Welfare Reform Act 2007 (c.5)](https://www.legislation.gov.uk/ukpga/2007/5).
+
+[^c2142010]: Marginal citation: Section 39A was inserted by section 55(2) of the 1999 Act. It was amended by sections 254(1) and 261(4) of, and paragraph 20 of Schedule 24, and Schedule 30, to the [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [section 1(3)](https://www.legislation.gov.uk/ukpga/2004/33/section/1/3) of, and paragraphs 1 and 3 of Schedule 1 to, the [Child Benefit Act 2005 (c. 6)](https://www.legislation.gov.uk/ukpga/2005/6) and section 51 of the [Welfare Reform Act 2007 (c. 5)](https://www.legislation.gov.uk/ukpga/2007/5).
+
+[^c2142011]: Marginal citation: Section 38 was amended by sections 254(1) and 261(4) of, and paragraph 19 of Schedule 24, and Schedule 30, to the [Civil Partnership Act 2004 (c.33)](https://www.legislation.gov.uk/ukpga/2004/33) and section 13(2) of, and paragraph 40 of Schedule 1 to, the [Pensions Act 2007 (c.22)](https://www.legislation.gov.uk/ukpga/2007/22).
+
+[^c2142012]: Marginal citation: [1995 c. 18](https://www.legislation.gov.uk/ukpga/1995/18).
+
+[^c2142013]: Marginal citation: Relevant amendments were made to section 150(2) by section 722 of, and paragraphs 169 and 180(1) and (3) of Schedule 6 to, the [Income Tax (Earnings and Pensions) Act 2003 (c.1)](https://www.legislation.gov.uk/ukpga/2003/1).
+
+[^c2142014]: Marginal citation: Relevant amendments were made to section 150 by section 722 of, and paragraphs 169 and 180(1) and (4) of Schedule 6 to, the [Income Tax (Earnings and Pensions) Act 2003 (c.1)](https://www.legislation.gov.uk/ukpga/2003/1) and section 254(1) of, and paragraph 49 of Schedule 24 to, the [Civil Partnership Act 2004 (c.33)](https://www.legislation.gov.uk/ukpga/2004/33).
+
+[^c2142015]: Marginal citation: [2004 c. 32](https://www.legislation.gov.uk/ukpga/2004/32).
+
+[^key-bcb713d35ff3c6ac8e841e2238d0fe67]: Textual amendment: Word in Pt. 4 reg. 44(1)(g) omitted (coming into force in accordance with art. 1(2)(b) of the amending S.I.) by virtue of [The Pensions Act 2014 (Consequential, Supplementary and Incidental Amendments) Order 2015 (S.I. 2015/1985)](https://www.legislation.gov.uk/uksi/2015/1985), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2015/1985/article/1/2/b), [38(a)](https://www.legislation.gov.uk/uksi/2015/1985/article/38/a)
+
+[^key-978386cf14709c0d2cfa99b8ba235365]: Textual amendment: Pt. 4 reg. 44(1)(i) and word inserted (coming into force in accordance with art. 1(2)(b) of the amending S.I.) by [The Pensions Act 2014 (Consequential, Supplementary and Incidental Amendments) Order 2015 (S.I. 2015/1985)](https://www.legislation.gov.uk/uksi/2015/1985), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2015/1985/article/1/2/b), [38(b)](https://www.legislation.gov.uk/uksi/2015/1985/article/38/b)
+
+[^key-ab35c6235dbc976becbd2e87e537ed01]: Textual amendment: Word in [reg. 44(1)(h)](https://www.legislation.gov.uk/uksi/2012/2677/regulation/44/1/h) omitted (19.11.2023) by virtue of [The Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023 (Consequential Amendments) Order 2023 (S.I. 2023/1218)](https://www.legislation.gov.uk/uksi/2023/1218), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1218/article/1/2), [22(a)](https://www.legislation.gov.uk/uksi/2023/1218/article/22/a)
+
+[^key-c7d460b7a5a762891aaaf25f9436104b]: Textual amendment: Word in [reg. 44(1)(i)](https://www.legislation.gov.uk/uksi/2012/2677/regulation/44/1/i) inserted (19.11.2023) by [The Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023 (Consequential Amendments) Order 2023 (S.I. 2023/1218)](https://www.legislation.gov.uk/uksi/2023/1218), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1218/article/1/2), [22(b)](https://www.legislation.gov.uk/uksi/2023/1218/article/22/b)
+
+[^key-5b455e59a89031a5e4c781a5f0645310]: Textual amendment: [Reg. 44(1)(j)](https://www.legislation.gov.uk/uksi/2012/2677/regulation/44/1/j) inserted (19.11.2023) by [The Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023 (Consequential Amendments) Order 2023 (S.I. 2023/1218)](https://www.legislation.gov.uk/uksi/2023/1218), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1218/article/1/2), [22(c)](https://www.legislation.gov.uk/uksi/2023/1218/article/22/c)
+
+[^key-42a4b5bbf28178f37274b183af0f69d9]: Textual amendment: Words in [reg. 44(1)(j)](https://www.legislation.gov.uk/uksi/2012/2677/regulation/44/1/j) substituted (15.3.2026) by [The Social Security (Scotland) Act 2018 (Carer’s Assistance) (Consequential Modifications) Order 2026 (S.I. 2026/246)](https://www.legislation.gov.uk/uksi/2026/246), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/246/article/1/2), [24](https://www.legislation.gov.uk/uksi/2026/246/article/24)
+
+[^key-4449f352c8f582276150accf698e0267]: Textual amendment: Word in Pt. 4 reg. 44(2) omitted (29.4.2013) by virtue of [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations 2013 (S.I. 2013/630)](https://www.legislation.gov.uk/uksi/2013/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/630/regulation/1/2), [44(3)(a)](https://www.legislation.gov.uk/uksi/2013/630/regulation/44/3/a)
+
+[^key-26d5bdb3a462ca907994f309a079a27c]: Textual amendment: Pt. 4 reg. 44(2)(e) and word inserted (29.4.2013) by [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations 2013 (S.I. 2013/630)](https://www.legislation.gov.uk/uksi/2013/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/630/regulation/1/2), [44(3)(a)](https://www.legislation.gov.uk/uksi/2013/630/regulation/44/3/a)
+
+[^c2142016]: Marginal citation: [1973 c.50](https://www.legislation.gov.uk/ukpga/1973/50). Section 2 was substituted by section 25(1) of the [Employment Act 1988 (c.19)](https://www.legislation.gov.uk/ukpga/1988/19). It was amended by section 29(4) of, and Part 1 of Schedule 7 to, the [Employment Act 1989 (c.38)](https://www.legislation.gov.uk/ukpga/1989/38).
+
+[^c2142017]: Marginal citation: [1990 c.35](https://www.legislation.gov.uk/ukpga/1990/35). Section 2 was amended by sections 47 and 51 of, and Schedule 10 to, the [Trade Union Reform and Employment Rights Act 1993 (c.19)](https://www.legislation.gov.uk/ukpga/1993/19), [section 211(1)](https://www.legislation.gov.uk/ukpga/1993/19/section/211/1) of, and paragraphs 19 and 20 of Schedule 26 to, the [Equality Act 2010 (c.15)](https://www.legislation.gov.uk/ukpga/2010/15) (as inserted by [S.I. 2010/2279](https://www.legislation.gov.uk/uksi/2010/2279)) and [S.I.1999/1820](https://www.legislation.gov.uk/uksi/1999/1820).
+
+[^key-6935c72f6d74ac5a41fe734d064dfbaa]: Textual amendment: Pt. 4 reg. 44(5) inserted (29.4.2013) by [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations 2013 (S.I. 2013/630)](https://www.legislation.gov.uk/uksi/2013/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/630/regulation/1/2), [44(3)(b)](https://www.legislation.gov.uk/uksi/2013/630/regulation/44/3/b)
+
+[^c2199882]: Commencement: Reg. 45 wholly in force; reg. 45 not in force at made date; reg. 45 in force at 29.7.2013 for certain purposes and reg. 45 in force at 25.11.2013 in so far as not already in force, see reg. 1, SI 2013/1860 and [S.I. 2013/2947](https://www.legislation.gov.uk/uksi/2013/2947)
+
+[^key-fd988cecae4cdefcd66689cdb411e344]: Textual amendment: Word in Pt. 4 reg. 45(1)(c) omitted (29.4.2013) by virtue of [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations 2013 (S.I. 2013/630)](https://www.legislation.gov.uk/uksi/2013/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/630/regulation/1/2), [44(4)](https://www.legislation.gov.uk/uksi/2013/630/regulation/44/4)
+
+[^key-ec201a24189b0af454257cac1b93d3e9]: Textual amendment: Pt. 4 reg. 45(1)(c)(iii)(iv) and semi-colon inserted (29.4.2013) by [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations 2013 (S.I. 2013/630)](https://www.legislation.gov.uk/uksi/2013/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/630/regulation/1/2), [44(4)](https://www.legislation.gov.uk/uksi/2013/630/regulation/44/4)
+
+[^c2142018]: Marginal citation: Paragraph 5 of Schedule 1 was amended by paragraphs 1 and 2 of Schedule 4 to the [Child Maintenance and Other Payments Act 2008 (c. 6)](https://www.legislation.gov.uk/ukpga/2008/6) (“**the 2008 Act**”).
+
+[^key-3d6b981c9306b898a23e990fc11b8840]: Textual amendment: Words in Pt. 4 reg. 45(3) substituted (2.4.2018) by [The Social Security and Child Support (Regulation and Inspection of Social Care (Wales) Act 2016) (Consequential Provision) Regulations 2018 (S.I. 2018/228)](https://www.legislation.gov.uk/uksi/2018/228), [regs. 1](https://www.legislation.gov.uk/uksi/2018/228/regulation/1), [13(2)(a)](https://www.legislation.gov.uk/uksi/2018/228/regulation/13/2/a)
+
+[^key-844f1c74d4566d147e5775349a5f4abe]: Textual amendment: Words in Pt. 4 reg. 45(3) inserted (2.4.2018) by [The Social Security and Child Support (Regulation and Inspection of Social Care (Wales) Act 2016) (Consequential Provision) Regulations 2018 (S.I. 2018/228)](https://www.legislation.gov.uk/uksi/2018/228), [regs. 1](https://www.legislation.gov.uk/uksi/2018/228/regulation/1), [13(2)(b)](https://www.legislation.gov.uk/uksi/2018/228/regulation/13/2/b)
+
+[^c2142020]: Marginal citation: [2010 asp 8](https://www.legislation.gov.uk/asp/2010/8).
+
+[^c2142021]: Marginal citation: [1978 c. 29](https://www.legislation.gov.uk/ukpga/1978/29). Section 10F was inserted by section 108 of the [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8).
+
+[^key-435a6cc50b630b46c7f58982b2bffb74]: Textual amendment: Words in Pt. 4 reg. 45(3) inserted (2.4.2018) by [The Social Security and Child Support (Regulation and Inspection of Social Care (Wales) Act 2016) (Consequential Provision) Regulations 2018 (S.I. 2018/228)](https://www.legislation.gov.uk/uksi/2018/228), [regs. 1](https://www.legislation.gov.uk/uksi/2018/228/regulation/1), [13(2)(c)](https://www.legislation.gov.uk/uksi/2018/228/regulation/13/2/c)
+
+[^c2142022]: Marginal citation: [1983 c. 20](https://www.legislation.gov.uk/ukpga/1983/20). Section 45A was inserted by section 46 of the [Crime (Sentences) Act 1997 (c. 43)](https://www.legislation.gov.uk/ukpga/1997/43) and amended by sections 304 and 332 of, and paragraphs 37 and 39 of Schedule 32 and Part 7 of Schedule 37 to, the [Criminal Justice Act 2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44) and sections 1(4), 4(1) and (6), 10(1) and (8) and section 53 of, and paragraphs 1 and 9 of Schedule 1 and Part 1of Schedule 11 to, the [Mental Health Act 2007 (c. 12)](https://www.legislation.gov.uk/ukpga/2007/12). Section 47 was amended by sections 49(3) and 56(2) of, and Schedule 6 to, the [Crime (Sentences) Act 1997 (c. 43)](https://www.legislation.gov.uk/ukpga/1997/43), [section 58(1)](https://www.legislation.gov.uk/ukpga/1997/43/section/58/1) of, and paragraph 18 of Schedule 10 to, the [Domestic Violence, Crime and Victims Act 2004 (c. 28)](https://www.legislation.gov.uk/ukpga/2004/28), [section 378(1)](https://www.legislation.gov.uk/ukpga/2004/28/section/378/1) of, and paragraph 97 of Schedule 16 to, the [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52) and sections 1(4), 4(1) and (7) and 55 of, and paragraphs 1 and 10 of Schedule 1 and Part 1 of Schedule 11 to, the Mental Health Act 2007.
+
+[^c2142023]: Marginal citation: Section 50(3) was substituted by section 294(1) and (3) of the [Criminal Justice Act 2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44).
+
+[^c2142024]: Marginal citation: [1995 c.46](https://www.legislation.gov.uk/ukpga/1995/46). Section 59A was substituted by paragraph 8(6) of Schedule 4 to the [Mental Health (Care and Treatment) (Scotland) Act 2003 (asp 13)](https://www.legislation.gov.uk/asp/2003/13).
+
+[^c2142025]: Marginal citation: [2003 asp 13](https://www.legislation.gov.uk/asp/2003/13).
+
+[^c2142026]: Marginal citation: [1952 c. 52](https://www.legislation.gov.uk/ukpga/1952/52).
+
+[^c2142027]: Marginal citation: [1989 c. 45](https://www.legislation.gov.uk/ukpga/1989/45).
+
+[^c2199883]: Commencement: Reg. 46 wholly in force; reg. 46 not in force at made date; reg. 46 in force at 29.7.2013 for certain purposes and reg. 46 in force at 25.11.2013 in so far as not already in force, see reg. 1, SI 2013/1860 and [S.I. 2013/2947](https://www.legislation.gov.uk/uksi/2013/2947)
+
+[^c2142028]: Marginal citation: Paragraph 7 was amended by paragraphs 1 and 6 of Schedule 4, and paragraph 1(1) and (29) of Schedule 7 to, the 2008 Act. Paragraph 8 was amended by paragraphs 1 and 7 of Schedule 4 to the 2008 Act.
+
+[^c2199884]: Commencement: Reg. 47 wholly in force; reg. 47 not in force at made date; reg. 47 in force at 29.7.2013 for certain purposes and reg. 47 in force at 25.11.2013 in so far as not already in force, see reg. 1, SI 2013/1860 and [S.I. 2013/2947](https://www.legislation.gov.uk/uksi/2013/2947)
+
+[^c2199885]: Commencement: Reg. 48 wholly in force; reg. 48 not in force at made date; reg. 48 in force at 29.7.2013 for certain purposes and reg. 48 in force at 25.11.2013 in so far as not already in force, see reg. 1, SI 2013/1860 and [S.I. 2013/2947](https://www.legislation.gov.uk/uksi/2013/2947)
+
+[^c2142029]: Marginal citation: Paragraph 5A was inserted by paragraph 5(2) of Schedule 4 to the 2008 Act.
+
+[^c2199886]: Commencement: Reg. 49 wholly in force; reg. 49 not in force at made date; reg. 49 in force at 29.7.2013 for certain purposes and reg. 49 in force at 25.11.2013 in so far as not already in force, see reg. 1, SI 2013/1860 and [S.I. 2013/2947](https://www.legislation.gov.uk/uksi/2013/2947)
+
+[^c2199887]: Commencement: Reg. 50 wholly in force; reg. 50 not in force at made date; reg. 50 in force at 29.7.2013 for certain purposes and reg. 50 in force at 25.11.2013 in so far as not already in force, see reg. 1, SI 2013/1860 and [S.I. 2013/2947](https://www.legislation.gov.uk/uksi/2013/2947)
+
+[^c2142030]: Marginal citation: Section 4 was amended by section 18(1) of the [Child Support Act 1995 (c.34)](https://www.legislation.gov.uk/ukpga/1995/34), [paragraph 19](https://www.legislation.gov.uk/ukpga/1995/34/paragraph/19) of Schedule 7, and Schedule 8, to the [Social Security Act 1998 (c.14)](https://www.legislation.gov.uk/ukpga/1998/14), [sections 1(2)](https://www.legislation.gov.uk/ukpga/1998/14/section/1/2) and 2(1) to (3) of, and paragraph 11(1) to (3) of Schedule 3 to, the [Child Support, Pensions and Social Security Act 2000 (c. 19)](https://www.legislation.gov.uk/ukpga/2000/19) and by section 35(1) of, and Schedule 8 to, the [Child Maintenance and Other Payments Act 2008 (c. 6)](https://www.legislation.gov.uk/ukpga/2008/6).
+
+[^key-37ea73fcfc2e8596d44cc53dad1a8809]: Textual amendment: Pt. 4 reg. 50(4) inserted (30.9.2013) by [The Child Support (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/1517)](https://www.legislation.gov.uk/uksi/2013/1517), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/1517/regulation/1/2), [8(4)](https://www.legislation.gov.uk/uksi/2013/1517/regulation/8/4)
+
+[^c2199888]: Commencement: Reg. 51 wholly in force; reg. 51 not in force at made date; reg. 51 in force at 29.7.2013 for certain purposes and reg. 51 in force at 25.11.2013 in so far as not already in force, see reg. 1, SI 2013/1860 and [S.I. 2013/2947](https://www.legislation.gov.uk/uksi/2013/2947)
+
+[^key-d173aed31da43f3fd7d2aa1e6e9f118c]: Textual amendment: Words in Pt. 4 reg. 51(1) omitted (3.11.2017) by virtue of [The Social Services and Well-being (Wales) Act 2014 and the Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments) Order 2017 (S.I. 2017/901)](https://www.legislation.gov.uk/uksi/2017/901), [arts. 1](https://www.legislation.gov.uk/uksi/2017/901/article/1), [28(2)](https://www.legislation.gov.uk/uksi/2017/901/article/28/2)
+
+[^key-7f0de39449a04c6a898febf1e31de8dd]: Textual amendment: Words in Pt. 4 reg. 51(1) inserted (3.11.2017) by [The Social Services and Well-being (Wales) Act 2014 and the Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments) Order 2017 (S.I. 2017/901)](https://www.legislation.gov.uk/uksi/2017/901), [arts. 1](https://www.legislation.gov.uk/uksi/2017/901/article/1), [14(2)](https://www.legislation.gov.uk/uksi/2017/901/article/14/2)
+
+[^c2142031]: Marginal citation: [1989 c. 41](https://www.legislation.gov.uk/ukpga/1989/41). Section 22C(2) is inserted prospectively by section 8 of the [Children and Young Persons Act 2008 (c.23)](https://www.legislation.gov.uk/ukpga/2008/23); when it is in force, it will replace section 23(5).
+
+[^c2199889]: Commencement: Reg. 52 wholly in force; reg. 52 not in force at made date; reg. 52 in force at 29.7.2013 for certain purposes and reg. 52 in force at 25.11.2013 in so far as not already in force, see reg. 1, SI 2013/1860 and [S.I. 2013/2947](https://www.legislation.gov.uk/uksi/2013/2947)
+
+[^c2199890]: Commencement: Reg. 53 wholly in force; reg. 53 not in force at made date; reg. 53 in force at 29.7.2013 for certain purposes and reg. 53 in force at 25.11.2013 in so far as not already in force, see reg. 1, SI 2013/1860 and [S.I. 2013/2947](https://www.legislation.gov.uk/uksi/2013/2947)
+
+[^c2142032]: Marginal citation: [1989 c. 41](https://www.legislation.gov.uk/ukpga/1989/41). Section 22 was amended by paragraph 19 of Schedule 5 to the [Local Government Act 2000 (c. 22)](https://www.legislation.gov.uk/ukpga/2000/22) and by section 2(2) of the [Children (Leaving Care) Act 2000 (c. 35)](https://www.legislation.gov.uk/ukpga/2000/35); there are other amendments to section 22 that are not relevant to these Regulations.
+
+[^key-f6de386246fe3186cfe3a70827553c92]: Textual amendment: Words in Pt. 4 reg. 53(12) inserted (3.11.2017) by [The Social Services and Well-being (Wales) Act 2014 and the Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments) Order 2017 (S.I. 2017/901)](https://www.legislation.gov.uk/uksi/2017/901), [arts. 1](https://www.legislation.gov.uk/uksi/2017/901/article/1), [14(3)](https://www.legislation.gov.uk/uksi/2017/901/article/14/3)
+
+[^c2142033]: Marginal citation: [1995 c. 36](https://www.legislation.gov.uk/ukpga/1995/36).
+
+[^c2199891]: Commencement: Reg. 54 wholly in force; reg. 54 not in force at made date; reg. 54 in force at 29.7.2013 for certain purposes and reg. 54 in force at 25.11.2013 in so far as not already in force, see reg. 1, SI 2013/1860 and [S.I. 2013/2947](https://www.legislation.gov.uk/uksi/2013/2947)
+
+[^key-e0d630edbca717af35c2ddeb4e51c8cb]: Textual amendment: Words in Pt. 4 reg. 54(1) in reg. 54 renumbered as reg. 54(1) (30.9.2013) by [The Child Support (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/1517)](https://www.legislation.gov.uk/uksi/2013/1517), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/1517/regulation/1/2), [8(5)](https://www.legislation.gov.uk/uksi/2013/1517/regulation/8/5)
+
+[^key-0a04b00ea2860f47019ca1043f09fe7e]: Textual amendment: Pt. 4 reg. 54(2) inserted (30.9.2013) by [The Child Support (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/1517)](https://www.legislation.gov.uk/uksi/2013/1517), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/1517/regulation/1/2), [8(5)](https://www.legislation.gov.uk/uksi/2013/1517/regulation/8/5)
+
+[^c2199892]: Commencement: Reg. 55 wholly in force; reg. 55 not in force at made date; reg. 55 in force at 29.7.2013 for certain purposes and reg. 55 in force at 25.11.2013 in so far as not already in force, see reg. 1, SI 2013/1860 and [S.I. 2013/2947](https://www.legislation.gov.uk/uksi/2013/2947)
+
+[^c2199893]: Commencement: Reg. 56 wholly in force; reg. 56 not in force at made date; reg. 56 in force at 29.7.2013 for certain purposes and reg. 56 in force at 25.11.2013 in so far as not already in force, see reg. 1, SI 2013/1860 and [S.I. 2013/2947](https://www.legislation.gov.uk/uksi/2013/2947)
+
+[^c2199894]: Commencement: Reg. 57 wholly in force; reg. 57 not in force at made date; reg. 57 in force at 29.7.2013 for certain purposes and reg. 57 in force at 25.11.2013 in so far as not already in force, see reg. 1, SI 2013/1860 and [S.I. 2013/2947](https://www.legislation.gov.uk/uksi/2013/2947)
+
+[^c2142034]: Marginal citation: Section 28B was inserted by section 5(1) and (2) of the [Child Support, Pensions and Social Security Act 2000 (c. 19)](https://www.legislation.gov.uk/ukpga/2000/19) .
+
+[^c2199895]: Commencement: Reg. 58 wholly in force; reg. 58 not in force at made date; reg. 58 in force at 29.7.2013 for certain purposes and reg. 58 in force at 25.11.2013 in so far as not already in force, see reg. 1, SI 2013/1860 and [S.I. 2013/2947](https://www.legislation.gov.uk/uksi/2013/2947)
+
+[^c2199896]: Commencement: Reg. 59 wholly in force; reg. 59 not in force at made date; reg. 59 in force at 29.7.2013 for certain purposes and reg. 59 in force at 25.11.2013 in so far as not already in force, see reg. 1, SI 2013/1860 and [S.I. 2013/2947](https://www.legislation.gov.uk/uksi/2013/2947)
+
+[^c2199897]: Commencement: Reg. 60 wholly in force; reg. 60 not in force at made date; reg. 60 in force at 29.7.2013 for certain purposes and reg. 60 in force at 25.11.2013 in so far as not already in force, see reg. 1, SI 2013/1860 and [S.I. 2013/2947](https://www.legislation.gov.uk/uksi/2013/2947)
+
+[^c2199898]: Commencement: Reg. 61 wholly in force; reg. 61 not in force at made date; reg. 61 in force at 29.7.2013 for certain purposes and reg. 61 in force at 25.11.2013 in so far as not already in force, see reg. 1, SI 2013/1860 and [S.I. 2013/2947](https://www.legislation.gov.uk/uksi/2013/2947)
+
+[^c2142035]: Marginal citation: Section 16 was substituted by section 40 of the [Social Security Act 1998 (c. 14)](https://www.legislation.gov.uk/ukpga/1998/14). Subsections (1A) and (1B) were inserted by section 8(1) and (3) of the [Child Support, Pensions and Social Security Act 2000 (c. 19)](https://www.legislation.gov.uk/ukpga/2000/19) (“**the 2000 Act**”) and subsection (1A) was amended by Schedule 8 to the [Child Maintenance and Other Payments Act 2008 (c. 6)](https://www.legislation.gov.uk/ukpga/2008/6) (“**the 2008 Act**”) and [S.I. 2008/2833](https://www.legislation.gov.uk/uksi/2008/2833). Section 17 was substituted by section 41 of the Social Security Act 1998. Subsection (1) was substituted by section 41 of the Social Security Act 1998 and amended by section 9(1) and (2) of, and Schedule 9 to, the 2000 Act, Schedule 8 to the 2008 Act and [S.I. 2008/2833](https://www.legislation.gov.uk/uksi/2008/2833). Subsections (2) and (3) were substituted by section 17 of the 2008 Act. Section 17(4) and (4A) were substituted by section 9(1) and (3) of the 2000 Act.
+
+[^c2199899]: Commencement: Reg. 62 wholly in force; reg. 62 not in force at made date; reg. 62 in force at 29.7.2013 for certain purposes and reg. 62 in force at 25.11.2013 in so far as not already in force, see reg. 1, SI 2013/1860 and [S.I. 2013/2947](https://www.legislation.gov.uk/uksi/2013/2947)
+
+[^c2142036]: Marginal citation: Section 28C was inserted by section 5(1) and (2) of the 2000 Act.
+
+[^c2199900]: Commencement: Reg. 63 wholly in force; reg. 63 not in force at made date; reg. 63 in force at 29.7.2013 for certain purposes and reg. 63 in force at 25.11.2013 in so far as not already in force, see reg. 1, SI 2013/1860 and [S.I. 2013/2947](https://www.legislation.gov.uk/uksi/2013/2947)
+
+[^c2142037]: Marginal citation: Schedule 4B was substituted by section 6 of, and Schedule 2 to, the 2000 Act and amended by Schedule 8 to the 2008 Act and [S.I. 2008/2833](https://www.legislation.gov.uk/uksi/2008/2833).
+
+[^c2199901]: Commencement: Reg. 64 wholly in force; reg. 64 not in force at made date; reg. 64 in force at 29.7.2013 for certain purposes and reg. 64 in force at 25.11.2013 in so far as not already in force, see reg. 1, SI 2013/1860 and [S.I. 2013/2947](https://www.legislation.gov.uk/uksi/2013/2947)
+
+[^key-9a3d98ba4cfecc6572cb1147ff5ce7f2]: Textual amendment: Words in [reg. 64(2)(a)(i)](https://www.legislation.gov.uk/uksi/2012/2677/regulation/64/2/a/i) inserted (21.3.2025) by [The Social Security (Scotland) Act 2018 (Disability Assistance) (Consequential Amendments) Order 2025 (S.I. 2025/227)](https://www.legislation.gov.uk/uksi/2025/227), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/227/article/1/1), [14(2)(a)](https://www.legislation.gov.uk/uksi/2025/227/article/14/2/a)
+
+[^key-b6dbbb185740f84199dfdffed6b52499]: Textual amendment: Words in reg. 64(2)(a)(i) inserted (26.7.2021) by [The Social Security (Scotland) Act 2018 (Disability Assistance for Children and Young People) (Consequential Modifications) Order 2021 (S.I. 2021/786)](https://www.legislation.gov.uk/uksi/2021/786), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/786/article/1/2), [18(2)(a)](https://www.legislation.gov.uk/uksi/2021/786/article/18/2/a)
+
+[^key-e4832c589b3bd907288e1ff57e47c0b4]: Textual amendment: Words in Pt. 5 reg. 64(2)(a)(i) inserted (8.4.2013) by [The Armed Forces and Reserve Forces Compensation Scheme (Consequential Provisions: Subordinate Legislation) Order 2013 (S.I. 2013/591)](https://www.legislation.gov.uk/uksi/2013/591), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/591/article/2/2), [Sch. para. 47(2)(a)](https://www.legislation.gov.uk/uksi/2013/591/schedule/paragraph/47/2/a)
+
+[^key-0d9bda7579edffab2338c689a5e8e113]: Textual amendment: [Reg. 64(2)(a)(i)](https://www.legislation.gov.uk/uksi/2012/2677/regulation/64/2/a/i): comma substituted for word (21.3.2022) by [The Social Security (Disability Assistance for Working Age People) (Consequential Amendments) Order 2022 (S.I. 2022/177)](https://www.legislation.gov.uk/uksi/2022/177), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/177/article/1/2), [12(2)(a)(i)](https://www.legislation.gov.uk/uksi/2022/177/article/12/2/a/i)
+
+[^key-26ec3163671b303d443b80827f1c3b17]: Textual amendment: Words in Pt. 5 reg. 64(2)(a)(i) inserted (8.4.2013) by [The Personal Independence Payment (Supplementary Provisions and Consequential Amendments) Regulations 2013 (S.I. 2013/388)](https://www.legislation.gov.uk/uksi/2013/388), [reg. 2](https://www.legislation.gov.uk/uksi/2013/388/regulation/2), [Sch. para. 50(a)](https://www.legislation.gov.uk/uksi/2013/388/schedule/paragraph/50/a)
+
+[^key-0ad787189d6422d0e059a40edba4739d]: Textual amendment: Words in [reg. 64(2)(a)(i)](https://www.legislation.gov.uk/uksi/2012/2677/regulation/64/2/a/i) inserted (21.3.2022) by [The Social Security (Disability Assistance for Working Age People) (Consequential Amendments) Order 2022 (S.I. 2022/177)](https://www.legislation.gov.uk/uksi/2022/177), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/177/article/1/2), [12(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2022/177/article/12/2/a/ii)
+
+[^key-c823a4fe8d439fcded0a08f48a522bee]: Textual amendment: Words in reg. 64(2)(a)(ii) inserted (26.7.2021) by [The Social Security (Scotland) Act 2018 (Disability Assistance for Children and Young People) (Consequential Modifications) Order 2021 (S.I. 2021/786)](https://www.legislation.gov.uk/uksi/2021/786), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/786/article/1/2), [18(2)(b)](https://www.legislation.gov.uk/uksi/2021/786/article/18/2/b)
+
+[^key-e066b8a169ef36a5b20387a68da8edf3]: Textual amendment: Word in Pt. 5 reg. 64(2)(a)(ii) omitted (8.4.2013) by virtue of [The Personal Independence Payment (Supplementary Provisions and Consequential Amendments) Regulations 2013 (S.I. 2013/388)](https://www.legislation.gov.uk/uksi/2013/388), [reg. 2](https://www.legislation.gov.uk/uksi/2013/388/regulation/2), [Sch. para. 50(b)](https://www.legislation.gov.uk/uksi/2013/388/schedule/paragraph/50/b)
+
+[^key-3cafa56b779e227d06bf9c9ccddfb03b]: Textual amendment: Word in [reg. 64(2)(a)(iii)](https://www.legislation.gov.uk/uksi/2012/2677/regulation/64/2/a/iii) omitted (21.3.2022) by virtue of [The Social Security (Disability Assistance for Working Age People) (Consequential Amendments) Order 2022 (S.I. 2022/177)](https://www.legislation.gov.uk/uksi/2022/177), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/177/article/1/2), [12(2)(b)](https://www.legislation.gov.uk/uksi/2022/177/article/12/2/b)
+
+[^key-968df67b674e7c28783fb47148324281]: Textual amendment: Pt. 5 reg. 64(2)(a)(iv) inserted (8.4.2013) by [The Personal Independence Payment (Supplementary Provisions and Consequential Amendments) Regulations 2013 (S.I. 2013/388)](https://www.legislation.gov.uk/uksi/2013/388), [reg. 2](https://www.legislation.gov.uk/uksi/2013/388/regulation/2), [Sch. para. 50(c)](https://www.legislation.gov.uk/uksi/2013/388/schedule/paragraph/50/c)
+
+[^key-e59b386aaa420d8c6cde976b9df41600]: Textual amendment: Word in [reg. 64(2)(a)](https://www.legislation.gov.uk/uksi/2012/2677/regulation/64/2/a) omitted (21.3.2025) by virtue of [The Social Security (Scotland) Act 2018 (Disability Assistance) (Consequential Amendments) Order 2025 (S.I. 2025/227)](https://www.legislation.gov.uk/uksi/2025/227), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/227/article/1/1), [14(2)(b)](https://www.legislation.gov.uk/uksi/2025/227/article/14/2/b)
+
+[^key-1bf785d73f5f925277990768d99a0f23]: Textual amendment: [Reg. 64(2)(a)(v)](https://www.legislation.gov.uk/uksi/2012/2677/regulation/64/2/a/v) inserted (21.3.2022) by [The Social Security (Disability Assistance for Working Age People) (Consequential Amendments) Order 2022 (S.I. 2022/177)](https://www.legislation.gov.uk/uksi/2022/177), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/177/article/1/2), [12(2)(c)](https://www.legislation.gov.uk/uksi/2022/177/article/12/2/c)
+
+[^key-bb406f16439efcbdcb0b8f4b6a554e28]: Textual amendment: Words in [reg. 64(2)(a)(v)](https://www.legislation.gov.uk/uksi/2012/2677/regulation/64/2/a/v) substituted (6.6.2022) by [The Social Security (Disability Assistance for Working Age People) (Consequential Amendments) (No. 2) Order 2022 (S.I. 2022/530)](https://www.legislation.gov.uk/uksi/2022/530), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/530/article/1/2), [5(2)](https://www.legislation.gov.uk/uksi/2022/530/article/5/2)
+
+[^key-99bd927ba3d5a4ce770110495c976114]: Textual amendment: [Reg. 64(2)(a)(vi)](https://www.legislation.gov.uk/uksi/2012/2677/regulation/64/2/a/vi) and word inserted (21.3.2025) by [The Social Security (Scotland) Act 2018 (Disability Assistance) (Consequential Amendments) Order 2025 (S.I. 2025/227)](https://www.legislation.gov.uk/uksi/2025/227), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/227/article/1/1), [14(2)(c)](https://www.legislation.gov.uk/uksi/2025/227/article/14/2/c)
+
+[^key-9584fe8bf6159c4fede94fae51c8bcb8]: Textual amendment: Reg. 64(2)(ab) inserted (26.7.2021) by [The Social Security (Scotland) Act 2018 (Disability Assistance for Children and Young People) (Consequential Modifications) Order 2021 (S.I. 2021/786)](https://www.legislation.gov.uk/uksi/2021/786), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/786/article/1/2), [18(2)(c)](https://www.legislation.gov.uk/uksi/2021/786/article/18/2/c)
+
+[^key-a092434eff5238cf556444f4822781aa]: Textual amendment: [Reg. 64(2)(ba)](https://www.legislation.gov.uk/uksi/2012/2677/regulation/64/2/ba) inserted (21.3.2025) by [The Social Security (Scotland) Act 2018 (Disability Assistance) (Consequential Amendments) Order 2025 (S.I. 2025/227)](https://www.legislation.gov.uk/uksi/2025/227), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/227/article/1/1), [14(2)(d)](https://www.legislation.gov.uk/uksi/2025/227/article/14/2/d)
+
+[^c2142038]: Marginal citation: [2006 c. 41](https://www.legislation.gov.uk/ukpga/2006/41).
+
+[^c2142039]: Marginal citation: [1978 c. 29](https://www.legislation.gov.uk/ukpga/1978/29).
+
+[^c2142040]: Marginal citation: Paragraph 10C was amended by paragraph 1(1) and (31) of Schedule 7 to the 2008 Act.
+
+[^key-5849d4577fcc7c95d726fd525719e432]: Textual amendment: Word in Pt. 5 reg. 64(2)(f)(i) omitted (3.11.2017) by virtue of [The Social Services and Well-being (Wales) Act 2014 and the Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments) Order 2017 (S.I. 2017/901)](https://www.legislation.gov.uk/uksi/2017/901), [arts. 1](https://www.legislation.gov.uk/uksi/2017/901/article/1), [14(4)(a)](https://www.legislation.gov.uk/uksi/2017/901/article/14/4/a)
+
+[^key-3a411f6e167f4f560f56582eab9d3f7a]: Textual amendment: Pt. 5 reg. 64(2)(f)(ia) inserted (1.4.2015) by [The Care Act 2014 (Consequential Amendments) (Secondary Legislation) Order 2015 (S.I. 2015/643)](https://www.legislation.gov.uk/uksi/2015/643), [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/643/article/1/2), [Sch. para. 35(b)](https://www.legislation.gov.uk/uksi/2015/643/schedule/paragraph/35/b) (with [art. 4](https://www.legislation.gov.uk/uksi/2015/643/article/4))
+
+[^key-be026dfcd375a0fbefa1f2723bb297a2]: Textual amendment: Word in Pt. 5 reg. 64(2)(f)(ia) omitted (3.11.2017) by virtue of [The Social Services and Well-being (Wales) Act 2014 and the Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments) Order 2017 (S.I. 2017/901)](https://www.legislation.gov.uk/uksi/2017/901), [arts. 1](https://www.legislation.gov.uk/uksi/2017/901/article/1), [14(4)(b)](https://www.legislation.gov.uk/uksi/2017/901/article/14/4/b)
+
+[^key-3e3d1510b0bc3ba2578419ecf4db9dde]: Textual amendment: Pt. 5 reg. 64(2)(f)(iii) and word inserted (3.11.2017) by [The Social Services and Well-being (Wales) Act 2014 and the Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments) Order 2017 (S.I. 2017/901)](https://www.legislation.gov.uk/uksi/2017/901), [arts. 1](https://www.legislation.gov.uk/uksi/2017/901/article/1), [14(4)(c)](https://www.legislation.gov.uk/uksi/2017/901/article/14/4/c)
+
+[^key-6572895cd687ef491f3200856d1bb75d]: Textual amendment: Pt. 5 reg. 64(2)(g) inserted (8.4.2013) by [The Personal Independence Payment (Supplementary Provisions and Consequential Amendments) Regulations 2013 (S.I. 2013/388)](https://www.legislation.gov.uk/uksi/2013/388), [reg. 2](https://www.legislation.gov.uk/uksi/2013/388/regulation/2), [Sch. para. 50(d)](https://www.legislation.gov.uk/uksi/2013/388/schedule/paragraph/50/d)
+
+[^key-141004cefecf46891def5d300f75c762]: Textual amendment: [Reg. 64(2)(ga)](https://www.legislation.gov.uk/uksi/2012/2677/regulation/64/2/ga) inserted (21.3.2022) by [The Social Security (Disability Assistance for Working Age People) (Consequential Amendments) Order 2022 (S.I. 2022/177)](https://www.legislation.gov.uk/uksi/2022/177), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/177/article/1/2), [12(2)(d)](https://www.legislation.gov.uk/uksi/2022/177/article/12/2/d)
+
+[^key-04e61337e926616c2ef3d20aaf4bf123]: Textual amendment: Pt. 5 reg. 64(2)(h) inserted (8.4.2013) by [The Armed Forces and Reserve Forces Compensation Scheme (Consequential Provisions: Subordinate Legislation) Order 2013 (S.I. 2013/591)](https://www.legislation.gov.uk/uksi/2013/591), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/591/article/2/2), [Sch. para. 47(2)(b)](https://www.legislation.gov.uk/uksi/2013/591/schedule/paragraph/47/2/b)
+
+[^key-021bbe3b0d761ab407954f8fec95ce43]: Textual amendment: Words in [reg. 64(3)(b)](https://www.legislation.gov.uk/uksi/2012/2677/regulation/64/3/b) inserted (21.3.2025) by [The Social Security (Scotland) Act 2018 (Disability Assistance) (Consequential Amendments) Order 2025 (S.I. 2025/227)](https://www.legislation.gov.uk/uksi/2025/227), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/227/article/1/1), [14(2)(e)](https://www.legislation.gov.uk/uksi/2025/227/article/14/2/e)
+
+[^key-e680751653fb84c47954ed8e390c7bfa]: Textual amendment: Words in reg. 64(3)(b) inserted (26.7.2021) by [The Social Security (Scotland) Act 2018 (Disability Assistance for Children and Young People) (Consequential Modifications) Order 2021 (S.I. 2021/786)](https://www.legislation.gov.uk/uksi/2021/786), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/786/article/1/2), [18(3)](https://www.legislation.gov.uk/uksi/2021/786/article/18/3)
+
+[^key-06362a70e06bff0ab227c332d5ac6e80]: Textual amendment: Words in Pt. 5 reg. 64(3)(b) inserted (8.4.2013) by [The Armed Forces and Reserve Forces Compensation Scheme (Consequential Provisions: Subordinate Legislation) Order 2013 (S.I. 2013/591)](https://www.legislation.gov.uk/uksi/2013/591), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/591/article/2/2), [Sch. para. 47(2)(c)](https://www.legislation.gov.uk/uksi/2013/591/schedule/paragraph/47/2/c)
+
+[^key-78090a65fb991724f3be994af1c6ccbb]: Textual amendment: [Reg. 64(3)(b)](https://www.legislation.gov.uk/uksi/2012/2677/regulation/64/3/b): comma substituted for word (21.3.2022) by [The Social Security (Disability Assistance for Working Age People) (Consequential Amendments) Order 2022 (S.I. 2022/177)](https://www.legislation.gov.uk/uksi/2022/177), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/177/article/1/2), [12(2)(e)(i)](https://www.legislation.gov.uk/uksi/2022/177/article/12/2/e/i)
+
+[^key-822debe6910153f79ac12feee339d79e]: Textual amendment: Words in Pt. 5 reg. 64(3)(b) inserted (8.4.2013) by [The Personal Independence Payment (Supplementary Provisions and Consequential Amendments) Regulations 2013 (S.I. 2013/388)](https://www.legislation.gov.uk/uksi/2013/388), [reg. 2](https://www.legislation.gov.uk/uksi/2013/388/regulation/2), [Sch. para. 50(f)](https://www.legislation.gov.uk/uksi/2013/388/schedule/paragraph/50/f)
+
+[^key-459b086fcb4aaad1f5f3681f1962dc66]: Textual amendment: Words in [reg. 64(3)(b)](https://www.legislation.gov.uk/uksi/2012/2677/regulation/64/3/b) inserted (21.3.2022) by [The Social Security (Disability Assistance for Working Age People) (Consequential Amendments) Order 2022 (S.I. 2022/177)](https://www.legislation.gov.uk/uksi/2022/177), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/177/article/1/2), [12(2)(e)(ii)](https://www.legislation.gov.uk/uksi/2022/177/article/12/2/e/ii)
+
+[^key-4b406f5442469635a57884443c5f440f]: Textual amendment: Words in Pt. 5 reg. 64(3) inserted (8.4.2013) by [The Personal Independence Payment (Supplementary Provisions and Consequential Amendments) Regulations 2013 (S.I. 2013/388)](https://www.legislation.gov.uk/uksi/2013/388), [reg. 2](https://www.legislation.gov.uk/uksi/2013/388/regulation/2), [Sch. para. 50(e)](https://www.legislation.gov.uk/uksi/2013/388/schedule/paragraph/50/e)
+
+[^c2142042]: Marginal citation: [2000 c. 6](https://www.legislation.gov.uk/ukpga/2000/6).
+
+[^key-0c7958cb21110d6da9f9355e630ebd4c]: Textual amendment: Words in reg. 64(4)(a) inserted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 408(a)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/408/a) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+
+[^key-4b09a1a08e2bc2d5d104068c11a72ef7]: Textual amendment: Words in reg. 64(4)(a) substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 408(b)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/408/b) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+
+[^c2142043]: Marginal citation: [S.I. 2005/3360](https://www.legislation.gov.uk/uksi/2005/3360).
+
+[^c2199902]: Commencement: Reg. 65 wholly in force; reg. 65 not in force at made date; reg. 65 in force at 29.7.2013 for certain purposes and reg. 65 in force at 25.11.2013 in so far as not already in force, see reg. 1, SI 2013/1860 and [S.I. 2013/2947](https://www.legislation.gov.uk/uksi/2013/2947)
+
+[^c2199903]: Commencement: Reg. 66 wholly in force; reg. 66 not in force at made date; reg. 66 in force at 29.7.2013 for certain purposes and reg. 66 in force at 25.11.2013 in so far as not already in force, see reg. 1, SI 2013/1860 and [S.I. 2013/2947](https://www.legislation.gov.uk/uksi/2013/2947)
+
+[^c2199905]: Commencement: Reg. 67 wholly in force; reg. 67 not in force at made date; reg. 67 in force at 29.7.2013 for certain purposes and reg. 67 in force at 25.11.2013 in so far as not already in force, see reg. 1, SI 2013/1860 and [S.I. 2013/2947](https://www.legislation.gov.uk/uksi/2013/2947)
+
+[^c2199904]: Commencement: Reg. 68 wholly in force; reg. 68 not in force at made date; reg. 68 in force at 29.7.2013 for certain purposes and reg. 68 in force at 25.11.2013 in so far as not already in force, see reg. 1, SI 2013/1860 and [S.I. 2013/2947](https://www.legislation.gov.uk/uksi/2013/2947)
+
+[^c2199906]: Commencement: Reg. 69 wholly in force; reg. 69 not in force at made date; reg. 69 in force at 29.7.2013 for certain purposes and reg. 69 in force at 25.11.2013 in so far as not already in force, see reg. 1, SI 2013/1860 and [S.I. 2013/2947](https://www.legislation.gov.uk/uksi/2013/2947)
+
+[^c2142044]: Marginal citation: [2007 c. 3](https://www.legislation.gov.uk/ukpga/2007/3).
+
+[^key-69df91eb60963d8fbf9324351bb24326]: Modification: Reg. 69(5) modified (temp.) (10.12.2012) by [The Child Maintenance and Other Payments Act 2008 (Commencement No. 10 and Transitional Provisions) Order 2012 (S.I. 2012/3042)](https://www.legislation.gov.uk/uksi/2012/3042), [art. 6(b)](https://www.legislation.gov.uk/uksi/2012/3042/article/6/b) (which amending art. 6 was omitted (29.7.2013) by virtue of [S.I. 2013/1860](https://www.legislation.gov.uk/uksi/2013/1860), art. 6)
+
+[^key-6529f2502547f00089c364e8055f3b5c]: Modification: Reg. 69(5) modified (temp.) (29.7.2013) by [The Child Maintenance and Other Payments Act 2008 (Commencement No. 11 and Transitional Provisions) Order 2013 (S.I. 2013/1860)](https://www.legislation.gov.uk/uksi/2013/1860), [art. 7(c)](https://www.legislation.gov.uk/uksi/2013/1860/article/7/c)
+
+[^key-39b8cefd95e7e40d23dafa7caa5fc757]: Textual amendment: Reg. 69(5)(c) and word inserted (coming into force in accordance with reg. 1(2)(3) of the amending S.I.) by [The Child Support and Claims and Payments (Miscellaneous Amendments and Change to the Minimum Amount of Liability) Regulations 2013 (S.I. 2013/1654)](https://www.legislation.gov.uk/uksi/2013/1654), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/1654/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2013/1654/regulation/1/3), [5(3)(a)](https://www.legislation.gov.uk/uksi/2013/1654/regulation/5/3/a)
+
+[^key-af7e1ce2880dcce28c763f9c85faa288]: Textual amendment: Reg. 69(8)(9) inserted (coming into force in accordance with reg. 1(2)(3) of the amending S.I.) by [The Child Support and Claims and Payments (Miscellaneous Amendments and Change to the Minimum Amount of Liability) Regulations 2013 (S.I. 2013/1654)](https://www.legislation.gov.uk/uksi/2013/1654), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/1654/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2013/1654/regulation/1/3), [5(3)(b)](https://www.legislation.gov.uk/uksi/2013/1654/regulation/5/3/b)
+
+[^key-78520ccef5e3457f3f7866cb9870b51c]: Textual amendment: Reg. 69A inserted (13.12.2018) by [The Child Support (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/1279)](https://www.legislation.gov.uk/uksi/2018/1279), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1279/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2018/1279/regulation/2/2)
+
+[^c2199907]: Commencement: Reg. 70 wholly in force; reg. 70 not in force at made date; reg. 70 in force at 29.7.2013 for certain purposes and reg. 70 in force at 25.11.2013 in so far as not already in force, see reg. 1, SI 2013/1860 and [S.I. 2013/2947](https://www.legislation.gov.uk/uksi/2013/2947)
+
+[^M_F_68cbc826-6a6d-4d0d-c155-511729ef1f6d]: Textual amendment: Reg. 70(1)(c) omitted (3.7.13) (coming into force in accordance with reg. 1(2)(3) of the amending S.I.) by virtue of The Child Support and Claims and Payments (Miscellaneous Amendments and Change to the Minimum Amount of Liability) Regulations 2013 by ([S.I. 2013/1654](https://www.legislation.gov.uk/uksi/2013/1654)), reg. 1(2)(3),5(4)
+
+[^c2199908]: Commencement: Reg. 71 wholly in force; reg. 71 not in force at made date; reg. 71 in force at 29.7.2013 for certain purposes and reg. 71 in force at 25.11.2013 in so far as not already in force, see reg. 1, SI 2013/1860 and [S.I. 2013/2947](https://www.legislation.gov.uk/uksi/2013/2947)
+
+[^c2199909]: Commencement: Reg. 72 wholly in force; reg. 72 not in force at made date; reg. 72 in force at 29.7.2013 for certain purposes and reg. 72 in force at 25.11.2013 in so far as not already in force, see reg. 1, SI 2013/1860 and [S.I. 2013/2947](https://www.legislation.gov.uk/uksi/2013/2947)
+
+[^c2199910]: Commencement: Reg. 73 wholly in force; reg. 73 not in force at made date; reg. 73 in force at 29.7.2013 for certain purposes and reg. 73 in force at 25.11.2013 in so far as not already in force, see reg. 1, SI 2013/1860 and [S.I. 2013/2947](https://www.legislation.gov.uk/uksi/2013/2947)
+
+[^c2199911]: Commencement: Reg. 74 wholly in force; reg. 74 not in force at made date; reg. 74 in force at 29.7.2013 for certain purposes and reg. 74 in force at 25.11.2013 in so far as not already in force, see reg. 1, SI 2013/1860 and [S.I. 2013/2947](https://www.legislation.gov.uk/uksi/2013/2947)
+
+[^M_F_bdbbc6a1-1184-4eb0-bd4b-bb276dd15916]: Textual amendment: Reg. 74(1A) inserted (coming into force in accordance with reg. 1(2)(3) of the amending S.I.) by [The Child Support and Claims and Payments (Miscellaneous Amendments and Change to the Minimum Amount of Liability) Regulations 2013 (S.I. 2013/1654)](https://www.legislation.gov.uk/uksi/2013/1654), reg. 1(2)(3), 5(5)
+
+[^c2142045]: Marginal citation: Paragraph 7(2) was amended by paragraphs 1 and 6 of Schedule 4 to the [Child Maintenance and Other Payments Act 2008 (c. 6)](https://www.legislation.gov.uk/ukpga/2008/6) (“**the 2008 Act**”).
+
+[^c2199912]: Commencement: Reg. 75 wholly in force; reg. 75 not in force at made date; reg. 75 in force at 29.7.2013 for certain purposes and reg. 75 in force at 25.11.2013 in so far as not already in force, see reg. 1, SI 2013/1860 and [S.I. 2013/2947](https://www.legislation.gov.uk/uksi/2013/2947)
+
+[^key-7c8930e98817ee0fe749631fce4cf1e0]: Textual amendment: Words in Pt. 5 reg. 75(2) omitted (25.11.2013) by virtue of [The Child Support (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/1517)](https://www.legislation.gov.uk/uksi/2013/1517), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2013/1517/regulation/1/4)[(5)](https://www.legislation.gov.uk/uksi/2013/1517/regulation/1/5), [8(6)](https://www.legislation.gov.uk/uksi/2013/1517/regulation/8/6)
+
+[^c2199913]: Commencement: Reg. 76 wholly in force; reg. 76 not in force at made date; reg. 76 in force at 29.7.2013 for certain purposes and reg. 76 in force at 25.11.2013 in so far as not already in force, see reg. 1, SI 2013/1860 and [S.I. 2013/2947](https://www.legislation.gov.uk/uksi/2013/2947)
+
+[^key-2f2ac88229f471987cf8ef06317b2107]: Textual amendment: [Reg. 76(1)](https://www.legislation.gov.uk/uksi/2012/2677/regulation/76/1): reg. 76 renumbered as reg. 76(1) (19.7.2021) by [The Child Support (Collection and Enforcement and Maintenance Calculation) (Amendment No. 2) Regulations 2021 (S.I. 2021/763)](https://www.legislation.gov.uk/uksi/2021/763), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/763/regulation/1/2), [4(2)(a)](https://www.legislation.gov.uk/uksi/2021/763/regulation/4/2/a)
+
+[^key-60cc16148b1ebb55b4c83cae057aa0b8]: Textual amendment: Words in [reg. 76(1)](https://www.legislation.gov.uk/uksi/2012/2677/regulation/76/1) substituted (19.7.2021) by [The Child Support (Collection and Enforcement and Maintenance Calculation) (Amendment No. 2) Regulations 2021 (S.I. 2021/763)](https://www.legislation.gov.uk/uksi/2021/763), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/763/regulation/1/2), [4(2)(b)](https://www.legislation.gov.uk/uksi/2021/763/regulation/4/2/b)
+
+[^c2142046]: Marginal citation: Section 55 was substituted by section 42 of the 2008 Act.
+
+[^c2142047]: Marginal citation: [1992 c. 4](https://www.legislation.gov.uk/ukpga/1992/4). Section 142 defines the terms “child” and “**qualifying young person**” for the purposes of entitlement to child benefit. A child is a person under 16 and a qualifying young person is a person aged 16 or over who satisfies conditions in regulations made by Her Majesty's Treasury. The relevant regulations are [S.I. 2006/223](https://www.legislation.gov.uk/uksi/2006/223) as amended by [S.I. 2007/2150](https://www.legislation.gov.uk/uksi/2007/2150), 2008/1879 and 2009/3268.
+
+[^key-9829e62c3a2d1c4719802c9acdeb6507]: Textual amendment: [Reg. 76(2)-(4)](https://www.legislation.gov.uk/uksi/2012/2677/regulation/76/2) inserted (19.7.2021) by [The Child Support (Collection and Enforcement and Maintenance Calculation) (Amendment No. 2) Regulations 2021 (S.I. 2021/763)](https://www.legislation.gov.uk/uksi/2021/763), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/763/regulation/1/2), [4(2)(c)](https://www.legislation.gov.uk/uksi/2021/763/regulation/4/2/c)
+
+[^c2199914]: Commencement: Reg. 77 wholly in force; reg. 77 not in force at made date; reg. 77 in force at 29.7.2013 for certain purposes and reg. 77 in force at 25.11.2013 in so far as not already in force, see reg. 1, SI 2013/1860 and [S.I. 2013/2947](https://www.legislation.gov.uk/uksi/2013/2947)
+
+[^key-63a3f34b5166d790b3270f3151ece87e]: Textual amendment: Words in Pt. 6 reg. 77 heading substituted (30.9.2013) by [The Child Support (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/1517)](https://www.legislation.gov.uk/uksi/2013/1517), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/1517/regulation/1/2), [8(7)](https://www.legislation.gov.uk/uksi/2013/1517/regulation/8/7)
+
+[^key-72c41ec1b17b1af56ab924ef8ba701a5]: Textual amendment: Words in Pt. 6 reg. 77 in reg. 77 reunmbered as reg. 77(a) (30.9.2013) by [The Child Support (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/1517)](https://www.legislation.gov.uk/uksi/2013/1517), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/1517/regulation/1/2), [8(8)](https://www.legislation.gov.uk/uksi/2013/1517/regulation/8/8)
+
+[^key-ad4f5ed8f838cd6362adda074e7a5145]: Textual amendment: Pt. 6 reg. 77(b) and word inserted (30.9.2013) by [The Child Support (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/1517)](https://www.legislation.gov.uk/uksi/2013/1517), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/1517/regulation/1/2), [8(8)](https://www.legislation.gov.uk/uksi/2013/1517/regulation/8/8)
+
+[^c2199915]: Commencement: Reg. 78 wholly in force; reg. 78 not in force at made date; reg. 78 in force at 29.7.2013 for certain purposes and reg. 78 in force at 25.11.2013 in so far as not already in force, see reg. 1, SI 2013/1860 and [S.I. 2013/2947](https://www.legislation.gov.uk/uksi/2013/2947)
+
+[^key-af1ee4c36c55754a2437451e170e5e16]: Textual amendment: Words in Pt. 6 reg. 78(1)(b) omitted (3.11.2017) by virtue of [The Social Services and Well-being (Wales) Act 2014 and the Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments) Order 2017 (S.I. 2017/901)](https://www.legislation.gov.uk/uksi/2017/901), [arts. 1](https://www.legislation.gov.uk/uksi/2017/901/article/1), [28(3)](https://www.legislation.gov.uk/uksi/2017/901/article/28/3)
+
+[^c2142048]: Marginal citation: [1989 c. 41](https://www.legislation.gov.uk/ukpga/1989/41). Section 22C(2) was inserted prospectively by section 8 of the [Children Act 2008 (c. 23)](https://www.legislation.gov.uk/ukpga/2008/23); when it is in force, it will replace section 23(5).
+
+[^key-f005cb7da8d47069df8ab15b3dadf645]: Textual amendment: Words in Pt. 6 reg. 78(1)(c) substituted (3.11.2017) by [The Social Services and Well-being (Wales) Act 2014 and the Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments) Order 2017 (S.I. 2017/901)](https://www.legislation.gov.uk/uksi/2017/901), [arts. 1](https://www.legislation.gov.uk/uksi/2017/901/article/1), [14(5)(a)](https://www.legislation.gov.uk/uksi/2017/901/article/14/5/a)
+
+[^key-dce0b4e680d45bc52f1dc944a14948d0]: Textual amendment: Words in Pt. 6 reg. 78(1)(c) inserted (7.11.2017) by [The Social Security and Child Support (Care Payments and Tenant Incentive Scheme) (Amendment) Regulations 2017 (S.I. 2017/995)](https://www.legislation.gov.uk/uksi/2017/995), [regs. 1](https://www.legislation.gov.uk/uksi/2017/995/regulation/1), [19(2)](https://www.legislation.gov.uk/uksi/2017/995/regulation/19/2)
+
+[^c2142049]: Marginal citation: [1995 c. 36](https://www.legislation.gov.uk/ukpga/1995/36).
+
+[^key-ae6f2574e7dfb8dc8788d9411f6ba614]: Textual amendment: Words in Pt. 6 reg. 78(2) inserted (3.11.2017) by [The Social Services and Well-being (Wales) Act 2014 and the Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments) Order 2017 (S.I. 2017/901)](https://www.legislation.gov.uk/uksi/2017/901), [arts. 1](https://www.legislation.gov.uk/uksi/2017/901/article/1), [14(5)(b)](https://www.legislation.gov.uk/uksi/2017/901/article/14/5/b)
+
+[^key-ecb4321afc40940da60f6caac07394ca]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/2012/2677/schedule/1) inserted (26.5.2022) by [The Child Support (Amendments Relating to Electronic Communications and Information) (England and Wales and Scotland) Regulations 2022 (S.I. 2022/503)](https://www.legislation.gov.uk/uksi/2022/503), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/503/regulation/1/2), [29](https://www.legislation.gov.uk/uksi/2022/503/regulation/29)
+
+[^key-71ecc06cd6bf99b8935b2044c59d9404]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/2012/2677/schedule/2): Sch. renumbered as Sch. 2 (26.5.2022) by [The Child Support (Amendments Relating to Electronic Communications and Information) (England and Wales and Scotland) Regulations 2022 (S.I. 2022/503)](https://www.legislation.gov.uk/uksi/2022/503), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/503/regulation/1/2), [28](https://www.legislation.gov.uk/uksi/2022/503/regulation/28)
+
+[^c2199916]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/uksi/2012/2677/schedule/paragraph/1) wholly in force; [sch. para. 1](https://www.legislation.gov.uk/uksi/2012/2677/schedule/paragraph/1) not in force at made date; [sch. para. 1](https://www.legislation.gov.uk/uksi/2012/2677/schedule/paragraph/1) in force at 29.7.2013 for certain purposes and sch. para. 1 in force at 25.11.2013 in so far as not already in force, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/2677/regulation/1), SI 2013/1860 and [S.I. 2013/2947](https://www.legislation.gov.uk/uksi/2013/2947)
+
+[^c2142050]: Marginal citation: [Section 11](https://www.legislation.gov.uk/uksi/2012/2677/section/11) was substituted by section 1(1) of the Child support, [Pensions and Social Security Act 2000 (c. 19)](https://www.legislation.gov.uk/ukpga/2000/19) (“**the 2000 Act**”) and amended by Schedule 8 to the 2008 Act.
+
+[^c2142051]: Marginal citation: [Section 28F](https://www.legislation.gov.uk/uksi/2012/2677/section/28F) was substituted by section 5(1) and (5) of the 2000 Act.
+
+[^c2199917]: Commencement: Sch. para. 2 wholly in force; sch. para. 2 not in force at made date; sch. para. 2 in force at 29.7.2013 for certain purposes and sch. para. 2 in force at 25.11.2013 in so far as not already in force, see reg. 1, SI 2013/1860 and [S.I. 2013/2947](https://www.legislation.gov.uk/uksi/2013/2947)
+
+[^key-526073c7ebe29a388ff3f5c289a9e997]: Textual amendment: [Sch. para. 2](https://www.legislation.gov.uk/uksi/2012/2677/schedule/paragraph/2) omitted (28.10.2013) by virtue of [The Social Security, Child Support, Vaccine Damage and Other Payments (Decisions and Appeals) (Amendment) Regulations 2013 (S.I. 2013/2380)](https://www.legislation.gov.uk/uksi/2013/2380), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/2380/regulation/1/2), [6(4)](https://www.legislation.gov.uk/uksi/2013/2380/regulation/6/4) (with [reg. 8(1)](https://www.legislation.gov.uk/uksi/2013/2380/regulation/8/1))
+
+[^c2199918]: Commencement: Sch. para. 3 wholly in force; sch. para. 3 not in force at made date; sch. para. 3 in force at 29.7.2013 for certain purposes and sch. para. 3 in force at 25.11.2013 in so far as not already in force, see reg. 1, SI 2013/1860 and [S.I. 2013/2947](https://www.legislation.gov.uk/uksi/2013/2947)
+
+[^key-9fee1203029c2b32df0470501b5a14b8]: Textual amendment: [Sch. para. 3](https://www.legislation.gov.uk/uksi/2012/2677/schedule/paragraph/3) omitted (28.10.2013) by virtue of [The Social Security, Child Support, Vaccine Damage and Other Payments (Decisions and Appeals) (Amendment) Regulations 2013 (S.I. 2013/2380)](https://www.legislation.gov.uk/uksi/2013/2380), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/2380/regulation/1/2), [6(4)](https://www.legislation.gov.uk/uksi/2013/2380/regulation/6/4) (with [reg. 8(1)](https://www.legislation.gov.uk/uksi/2013/2380/regulation/8/1))
+
+[^c2199919]: Commencement: Sch. para. 4 wholly in force; sch. para. 4 not in force at made date; sch. para. 4 in force at 29.7.2013 for certain purposes and sch. para. 4 in force at 25.11.2013 in so far as not already in force, see reg. 1, SI 2013/1860 and [S.I. 2013/2947](https://www.legislation.gov.uk/uksi/2013/2947)
+
+[^key-9709477148851aed7911682abd24bd4d]: Textual amendment: [Sch. para. 4](https://www.legislation.gov.uk/uksi/2012/2677/schedule/paragraph/4) omitted (28.10.2013) by virtue of [The Social Security, Child Support, Vaccine Damage and Other Payments (Decisions and Appeals) (Amendment) Regulations 2013 (S.I. 2013/2380)](https://www.legislation.gov.uk/uksi/2013/2380), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/2380/regulation/1/2), [6(4)](https://www.legislation.gov.uk/uksi/2013/2380/regulation/6/4) (with [reg. 8(1)](https://www.legislation.gov.uk/uksi/2013/2380/regulation/8/1))

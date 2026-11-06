@@ -1,0 +1,93 @@
+---
+title: Health and Care Act 2022, section 168
+act: Health and Care Act 2022
+section: '168'
+status: revised
+text_date: '2025-07-07'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/2022/31/section/168
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Health and Care Act 2022, section 168
+
+> Text as at 2025-07-07.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 168. Regulation of health care and associated professions[^key-990b7c27b22a671e6f08eee162dfe6cb][^key-6773c4c0d9282019bde754c72799a171]
+
+*Extent: E+W*
+
+(1) The Health Act 1999 is amended as follows.
+
+(2) In section 60 (regulation of health professions and social care workers etc)—
+
+- (a) in subsection (1), after paragraph (b) insert—
+
+  > - (bza) deregulating a profession regulated by an enactment to which subsection (2) applies if the profession does not appear to Her to require regulation for the protection of the public,
+
+  ;
+- (b) in subsection (1), after paragraph (bd) insert—
+
+  > - (be) deregulating any social care workers in England who do not appear to Her to require regulation for the protection of the public,
+
+  ;
+- (c) for subsection (2) substitute—
+
+  > (2) The professions referred to in subsection (1)(a) and (bza) are the professions regulated by any of the following—
+  >
+  > - (a) the Medical Act 1983;
+  > - (b) the Dentists Act 1984;
+  > - (c) the Opticians Act 1989;
+  > - (d) the Osteopaths Act 1993;
+  > - (e) the Chiropractors Act 1994;
+  > - (f) the Nursing and Midwifery Order 2001;
+  > - (g) the Health Professions Order 2001;
+  > - (h) the Pharmacy Order 2010 and the Pharmacy (Northern Ireland) Order 1976;
+  > - (i) an Order in Council under this section.
+
+  ;
+- (d) after subsection (2) insert—
+
+  > (2ZZA) For the purposes of subsection (1)(b) the reference to a profession is to be treated as including any group of workers, whether or not they are generally regarded as a profession (and references in this Part to a profession are to be read accordingly).
+
+  ;
+- (e) in subsection (2ZB), for “and (bd)” substitute “, (bd) and (be)”.
+
+(3) In section 62 (regulations and orders), after subsection (10) insert—
+
+> (10A) If any provision made by an Order in Council by virtue of section 60(2ZZA) would, if it were included in an Act of Senedd Cymru, be within the legislative competence of the Senedd and is not merely incidental to, or consequential on, provision that (if so included) would be outside that competence, no recommendation is to be made to Her Majesty to make the Order unless the Welsh Ministers have consented to that provision.
+
+(4) In Schedule 3 (power to make provision about regulation of health care and associated professions: supplementary)—
+
+- (a) after paragraph 1B insert—
+
+  > **1C. Power to abolish regulatory bodies**
+  >
+  > An Order may abolish a regulatory body if (and only if) the professions regulated by the body or social care workers in England regulated by it—
+  >
+  > - (a) will continue to be regulated by one or more other regulatory bodies, or
+  > - (b) are deregulated by provision made under section 60(1)(bza).
+
+  ;
+- (b) in paragraph 7 (matters outside scope of the Orders), omit sub-paragraphs (1) and (1A);
+- (c) in paragraph 8 (restrictions on provision authorising regulatory body’s functions to be exercised by others)—
+  - (i) in sub-paragraphs (1), (2ZA) and (2A), for the words from “other than” to the end substitute
+
+    > to exercise that function other than—
+    >
+    > - (a) a regulatory body for—
+    >   - (i) a profession to which section 60(2) applies, or
+    >   - (ii) social care workers in England, or
+    > - (b) the committees or officers of such a body.
+
+    ;
+  - (ii) omit sub-paragraph (2B).
+
+## Annotations
+
+[^key-990b7c27b22a671e6f08eee162dfe6cb]: Commencement: S. 168 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
+
+[^key-6773c4c0d9282019bde754c72799a171]: Commencement: [S. 168](https://www.legislation.gov.uk/ukpga/2022/31/section/168) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))

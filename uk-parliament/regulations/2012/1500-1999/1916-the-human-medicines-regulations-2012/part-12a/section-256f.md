@@ -1,0 +1,43 @@
+---
+title: The Human Medicines Regulations 2012, section 256F
+act: The Human Medicines Regulations 2012
+section: 256F
+status: revised-with-pending-changes
+text_date: '2026-03-31'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2012/1916/section/256F
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Human Medicines Regulations 2012, section 256F
+
+> **Warning: changes not yet applied to this text (9).** Text as at 2026-03-31. See https://www.legislation.gov.uk/changes/affected/uksi/2012/1916
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 256F. Provision of information to the licensing authority[^key-935f6544e55359fa0989b19ff0c80cd3][^key-2694adaf84ccabd44691cba8e5c36f87]
+
+*Extent: E+W+S+N.I.*
+
+(1) A person on the list must immediately inform the licensing authority and, where applicable, the marketing authorisation holder, of medicinal products which that person—
+
+- (a) identifies as;
+- (b) knows or suspects; or
+- (c) has reasonable grounds for knowing or suspecting,
+
+to be falsified.
+
+(2) The person entered on the list must notify the licensing authority of any change of circumstances which is material as regards that person’s entry on the list.
+
+(3) The licensing authority may give a notice to a person on the list, requiring that person to provide information of a kind specified in the notice within the period specified in the notice.
+
+(4) A notice under paragraph (3) may not be given to a person on the list unless it appears to the licensing authority that it is necessary for that competent authority to consider whether that person’s entry on the list should be varied, suspended or removed.
+
+(5) A notice under paragraph (4) may specify information which the licensing authority thinks necessary for considering whether the person’s entry on the list should be varied, suspended or removed.
+
+## Annotations
+
+[^key-935f6544e55359fa0989b19ff0c80cd3]: Textual amendment: Pt. 12A inserted (coming into force in accordance with reg. 1(2) of the amending S.I.) by [The Human Medicines (Amendment) Regulations 2013 (S.I. 2013/1855)](https://www.legislation.gov.uk/uksi/2013/1855), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/1855/regulation/1/2), [28](https://www.legislation.gov.uk/uksi/2013/1855/regulation/28)
+
+[^key-2694adaf84ccabd44691cba8e5c36f87]: Textual amendment: Words in [regs. 256C-256M](https://www.legislation.gov.uk/uksi/2012/1916/regulation/256C) substituted (31.12.2020) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [regs. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [197(4)](https://www.legislation.gov.uk/uksi/2019/775/regulation/197/4) (as substituted by [S.I. 2020/1488](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 151](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/151)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -1,0 +1,32 @@
+---
+title: Local Government Act 1985, section 7
+act: Local Government Act 1985
+section: '7'
+status: revised-with-pending-changes
+text_date: '2026-04-29'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/1985/51/section/7
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Local Government Act 1985, section 7
+
+> **Warning: changes not yet applied to this text (12).** Text as at 2026-04-29. See https://www.legislation.gov.uk/changes/affected/ukpga/1985/51
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 7. National Parks and countryside functions.
+
+*Extent: E+W+S+N.I.*
+
+(1) Schedule 3 to this Act shall have effect for transferring functions relating to National Parks and the countryside from—
+
+- (a) the Greater London Council to London borough councils and the Common Council; and
+- (b) from metropolitan county councils to metropolitan district councils.
+
+(2)[^key-9a0bcc4bbeddcbdbd63713a3124a5a12] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Annotations
+
+[^key-9a0bcc4bbeddcbdbd63713a3124a5a12]: Textual amendment: [S. 7(2)](https://www.legislation.gov.uk/ukpga/1985/51/section/7/2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/10) Group 3

@@ -1,0 +1,72 @@
+---
+title: The M27 South Coast Motorway (Ower—Chilworth Section) Connecting Roads Scheme 1970 Variation Scheme (No 2) 1995
+id: uksi/1995/3270
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '1995-12-14'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1995/3270
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1995/3270/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The M27 South Coast Motorway (Ower—Chilworth Section) Connecting Roads Scheme 1970 Variation Scheme (No 2) 1995
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+1995 No. 3270
+
+HIGHWAYS, ENGLAND AND WALES
+
+The M27 South Coast Motorway (Ower—Chilworth Section) Connecting Roads Scheme 1970 Variation Scheme (No 2) 1995
+
+Made
+
+14th December 1995
+
+Coming into force
+
+12th January 1995
+
+The Secretary of State for Transport makes this Scheme in exercise of powers conferred by sections 16, 17, 19 and 326 (7) and (8) of the Highways Act 1980[^f00001] and of all other powers enabling him in that behalf:—
+
+**1.** This Scheme may be cited as The M27 South Coast Motorway (Ower—Chilworth Section) Connecting Roads Scheme 1970 Variation Scheme (No 2) 1995 and shall come into force on 12 January 1996.
+
+**2.** (1) The M27 South Coast Motorway (Ower—Chilworth Section) Connecting Roads Scheme 1970[^f00002] is hereby varied as follows:
+
+- (a) in article 2, “1, 1A and 2” shall be substituted for “1 and 2”;
+- (b) in article 4, in the definition of the “deposited plan”, the words “and the plan numbered 1A, marked “The M27 South Coast Motorway (Ower—Chilworth Section) Connecting Roads Scheme 1970 Variation Scheme (No 2) 1995”, signed by authority of the Secretary of State, that plan folio and plan being deposited at the Department of Transport, Great Minster House, Marsham Street, London SW1P 4DR;” shall be substituted for the words “and deposited at the Ministry of Transport, St Christopher House, Southwark Street, London SE1;”;
+- (c) for paragraph 1 of the Schedule, the following paragraph shall be substituted,
+
+  > **1.** Interchange with Romsey Road (A31) at Ower in Hampshire. The routes of the special roads for effecting this interchange are routes to connect—
+  >
+  > - (a) the eastbound and (for traffic joining the motorway) westbound carriageways of the motorway with the roundabout (part of Totton Western Bypass A326) at Junction 2, and
+  > - (b) the westbound carriageway of the motorway (for traffic leaving the motorway) with an 80 metre length of all purpose trunk road slip road connecting with that roundabout;
+  >
+  > the centre lines of the 3 special roads referred to in (a) above are shown on site plan No 1 in the deposited plan where they are respectively given the reference letters B, C and D, and the centre line of the special road referred to in (b) above is shown on site plan No 1A in the deposited plan where it is given the reference letter F. The point where the special road shown F connects with the 80 metre length of all purpose trunk road slip road connecting to the said roundabout is shown by the letter X.
+
+  .
+
+(2) The heavy black line on the site plan numbered 1 referred to in The M27 South Coast Motorway (Ower—Chilworth Section) Connecting Roads Scheme 1970 which is given the reference letter E, and associated markings on that plan, shall be disregarded.
+
+Signed by authority of the Secretary of State for Transport
+
+A. D. Rowland
+
+Director Southern Network Management Division Highways Agency
+
+Department of Transport
+
+14th December 1995
+
+## Annotations
+
+[^f00001]: Footnote: [1980 c. 66](https://www.legislation.gov.uk/ukpga/1980/66).
+
+[^f00002]: Footnote: [SI 1970/727](https://www.legislation.gov.uk/uksi/1970/727), varied by [SI 1994/2141](https://www.legislation.gov.uk/uksi/1994/2141).

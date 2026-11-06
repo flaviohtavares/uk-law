@@ -1,0 +1,88 @@
+---
+title: The Western Sussex Primary Care Trust (Establishment) Order 2002
+id: uksi/2002/987
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2002-03-25'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2002/987
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2002/987/pdfs/uksi_20020987_en.pdf
+- http://www.legislation.gov.uk/uksi/2002/987/made/data.pdf
+pending_changes: 2
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Western Sussex Primary Care Trust (Establishment) Order 2002
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2002 No. 987
+
+NATIONAL HEALTH SERVICE, ENGLAND
+
+The Western Sussex Primary Care Trust (Establishment) Order 2002
+
+Made
+
+25th March 2002
+
+Coming into force
+
+1st April 2002
+
+The Secretary of State for Health, in the exercise of the powers conferred on him by sections 16A(1), (2) and (3) and 126(4) of, and paragraph 1 of Schedule 5A to, the National Health Service Act 1977[^f00001] and of all other powers enabling him in that behalf, following compliance with the consultation requirements contained in regulations made under section 16A(5) of the Act[^f00002], hereby makes the following Order:
+
+## 1. Citation, commencement and interpretation
+
+(1) This Order may be cited as the Western Sussex Primary Care Trust (Establishment) Order 2002 and shall come into force on 1st April 2002.
+
+(2) In this Order, unless the context otherwise requires—
+
+- “operational date” is to be construed in accordance with paragraph 1(2) of Schedule 5A to the Act;
+- “the trust” means the Western Sussex Primary Care Trust established by article 2 of this Order.
+
+## 2. Establishment, operational date and name of the Primary Care Trust
+
+(1) There is hereby established with effect from 1st April 2002 a Primary Care Trust to be called the Western Sussex Primary Care Trust.
+
+(2) The operational date of the trust shall be 1st April 2002.
+
+## 3. Area of the trust
+
+The trust shall be established for the area specified in the Schedule to this Order.
+
+Signed by authority of the Secretary of State
+
+Hazel Blears
+
+Parliamentary Under Secretary of State,
+
+Department of Health
+
+25th March 2002
+
+## SCHEDULE — AREA OF TRUST
+
+Article 3
+
+- In the district of Arun District Council—
+  - the electoral wards of Aldingbourne, Aldwick East, Aldwick West, Arundel, Barnham, Bersted, Felpham East, Felpham West, Hotham, Marine (Arun), Middleton-on-Sea, Orchard, Pagham, Pevensey, Walberton
+- In the district of Chichester District Council—
+  - the electoral wards of Birdham, Bosham, Boxgrove, Bury, Chichester East, Chichester North, Chichester South, Chichester West, Donnington, Easebourne, East Wittering, Fernhurst, Fishbourne, Funtington, Graffham, Harting, Hunston, Lavant, Linchmere, Lodsworth, Midhurst, Oving, Petworth, Plaistow, Rogate, Selsey North, Selsey South, Sidlesham, Southbourne, Stedham, Stoughton, Westbourne, West Wittering, Wisborough Green
+- In the district of Horsham District Council—
+  - Billingshurst, Pulborough, Rudgwick, West Chiltington
+
+(This note is not part of the Order)
+
+This Order establishes the Western Sussex Primary Care Trust (“the trust”), as provided for under section 16A of the National Health Service Act 1977. It specifies the trust’s establishment and operational dates (article 2) and the area for which it is established (article 3 and the Schedule).
+
+## Annotations
+
+[^f00001]: Footnote: [1977 c. 49](https://www.legislation.gov.uk/ukpga/1977/49); section 16A was inserted by the Health Act [1999 (c. 8)](https://www.legislation.gov.uk/ukpga/1999/8) (“the 1999 Act”), section 2(1); section 126(4) was amended by the National Health Service and Community Care Act [1990 (c. 19)](https://www.legislation.gov.uk/ukpga/1990/19) (“the 1990 Act”), section 65(2) and by the 1999 Act, Schedule 4, paragraph 37(6); Schedule 5A was inserted by the 1999 Act, Schedule 1. The functions of the Secretary of State under these provisions are, so far as exercisable in relation to Wales, transferred to the National Assembly for Wales by article 2(a) of, and the entry for the National Health Service Act 1977 in Schedule 1 to, the National Assembly for Wales (Transfer of Functions) Order 1999, [S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672), as amended by section 66(5) of the 1999 Act.
+
+[^f00002]: Footnote: *See* [S.I. 1999/2337](https://www.legislation.gov.uk/uksi/1999/2337).

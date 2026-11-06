@@ -1,0 +1,294 @@
+---
+title: Powers of Attorney Act 1971
+id: ukpga/1971/27
+type: UnitedKingdomPublicGeneralAct
+category: primary
+status: revised
+made_date: '1971-05-12'
+text_date: '2023-11-18'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/1971/27
+pdf_urls:
+- http://www.legislation.gov.uk/ukpga/1971/27/pdfs/ukpga_19710027_en.pdf
+- http://www.legislation.gov.uk/ukpga/1971/27/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Powers of Attorney Act 1971
+
+> Text as at 2023-11-18.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+*Extent: E+W*
+
+Powers of Attorney Act 1971
+
+1971 c.27
+
+An Act to make new provision in relation to powers of attorney and the delegation by trustees of their trusts, powers and discretions.
+
+\[12th May 1971\] [^c816656][^c816657]
+
+## 1. Execution of powers of attorney.
+
+*Extent: E+W*
+
+(1) An instrument creating a power of attorney shall be executed as a deed by[^c816658] the donor of the power.
+
+(2) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c816659]
+
+(3) This section is without prejudice to any requirement in, or having effect under, any other Act as to the witnessing of instruments creating powers of attorney and does not affect the rules relating to the execution of instruments by bodies corporate.
+
+## 2. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c816660]
+
+*Extent: E+W*
+
+## 3. Proof of instruments creating powers of attorney.
+
+(1) The contents of an instrument creating a power of attorney may be proved by means of a copy which—
+
+- (a) is a reproduction of the original made with a photographic or other device for reproducing documents in facsimile; and
+- (b)[^c816667] contains the following certificate or certificates signed by the donor of the power or by a solicitor , authorised person[^key-bfd317baa6a027c12b02875025d64b6b] , chartered legal executive[^key-37e71a812d67fb2614ef4ca00147ff14] or stockbroker, that is to say—
+  - (i) a certificate at the end to the effect that the copy is a true and complete copy of the original; and
+  - (ii) if the original consists of two or more pages, a certificate at the end of each page of the copy to the effect that it is a true and complete copy of the corresponding page of the original.
+
+(2) Where a copy of an instrument creating a power of attorney has been made which complies with subsection (1) of this section, the contents of the instrument may also be proved by means of a copy of that copy if the further copy itself complies with that subsection, taking references in it to the original as references to the copy from which the further copy is made.
+
+(3) In this section **authorised person[^key-f3d4d244f77474e1c82887d6242c0fa2]**” means a person (other than a solicitor) who, for the purposes of the Legal Services Act 2007, is an authorised person in relation to any activity which constitutes a notarial activity (within the meaning of that Act) and “**stockbroker**” means a member of any stock exchange within the meaning of the [^c816670]Stock Transfer Act 1963 or the [^c816671]Stock Transfer Act (Northern Ireland) 1963.
+
+(3A)[^key-9959f5887f25efa33fc84b9613a543fd] In this section “**chartered legal executive**” means a person authorised by the Chartered Institute of Legal Executives to practise as a chartered legal executive.
+
+(4) This section is without prejudice to section 4 of the [^c816672]Evidence and Powers of Attorney Act 1940 (proof of deposited instruments by office copy) and to any other method of proof authorised by law.
+
+(5) For the avoidance of doubt, in relation to an instrument made in Scotland the references to a power of attorney in this section and in section 4 of the [^c816673]Evidence and Powers of Attorney Act 1940 include references to a factory and commission.
+
+## 4. Powers of attorney given as security.[^c816674]
+
+*Extent: E+W*
+
+(1) Where a power of attorney is expressed to be irrevocable and is given to secure—
+
+- (a) a proprietary interest of the donee of the power; or
+- (b) the performance of an obligation owed to the donee,
+
+then, so long as the donee has that interest or the obligation remains undischarged, the power shall not be revoked—
+
+- (i) by the donor without the consent of the donee; or
+- (ii) by the death, incapacity or bankruptcy of the donor or, if the donor is a body corporate, by its winding up or dissolution.
+
+(2) A power of attorney given to secure a proprietary interest may be given to the person entitled to the interest and persons deriving title under him to that interest, and those persons shall be duly constituted donees of the power for all purposes of the power but without prejudice to any right to appoint substitutes given by the power.
+
+(3) This section applies to powers of attorney whenever created.
+
+## 5. Protection of donee and third persons where power of attorney is revoked.[^key-11f05bd0f3691b2abd4ea9d3769a82b7][^key-dee41ea563286d09fc0dc549194d55bd][^key-d3ede796a5b89bd867059170a28af76b][^c816675]
+
+*Extent: E+W*
+
+(1) A donee of a power of attorney who acts in pursuance of the power at a time when it has been revoked shall not, by reason of the revocation, incur any liability (either to the donor or to any other person) if at that time he did not know that the power had been revoked.
+
+(2) Where a power of attorney has been revoked and a person, without knowledge of the revocation, deals with the donee of the power, the transaction between them shall, in favour of that person, be as valid as if the power had then been in existence.
+
+(3) Where the power is expressed in the instrument creating it to be irrevocable and to be given by way of security then, unless the person dealing with the donee knows that it was not in fact given by way of security, he shall be entitled to assume that the power is incapable of revocation except by the donor acting with the consent of the donee and shall accordingly be treated for the purposes of subsection (2) of this section as having knowledge of the revocation only if he knows that it has been revoked in that manner.
+
+(4) Where the interest of a purchaser depends on whether a transaction between the donee of a power of attorney and another person was valid by virtue of subsection (2) of this section, it shall be conclusively presumed in favour of the purchaser that that person did not at the material time know of the revocation of the power if—
+
+- (a) the transaction between that person and the donee was completed within twelve months of the date on which the power came into operation; or
+- (b) that person makes a statutory declaration, before or within three months after the completion of the purchase, that he did not at the material time know of the revocation of the power.
+
+(5) Without prejudice to subsection (3) of this section, for the purposes of this section knowledge of the revocation of a power of attorney includes knowledge of the occurrence of any event (such as the death of the donor) which has the effect of revoking the power.
+
+(6) In this section “**purchaser**” and “**purchase**” have the meanings specified in section 205(1) of the [^c816676]Law of Property Act 1925.
+
+(7) This section applies whenever the power of attorney was created but only to acts and transactions after the commencement of this Act.
+
+## 6. Additional protection for transferees under stock exchange transactions.
+
+*Extent: E+W*
+
+(1) Without prejudice to section 5 of this Act, where—
+
+- (a) the donee of a power of attorney executes, as transferor, an instrument transferring registered securities; and
+- (b) the instrument is executed for the purposes of a stock exchange transaction,
+
+it shall be conclusively presumed in favour of the transferee that the power had not been revoked at the date of the instrument if a statutory declaration to that effect is made by the donee of the power on or within three months after that date.
+
+(2) In this section “**registered securities**” and “**stock exchange transaction**” have the same meanings as in the [^c816677]Stock Transfer Act 1963.
+
+## 7. Execution of instruments etc. by donee of power of attorney.
+
+*Extent: E+W*
+
+(1)[^c816678] If the donee of a power of attorney is an individual, he may, if he thinks fit—
+
+- (a) execute any instrument with his own signature, and
+- (b) do any other thing in his own name,
+
+by the authority of the donor of the power; and any instrument executed or thing done in that manner shall, subject to subsection (1A) of this section, be as effective as if executed by the donee in any manner which would constitute due execution of that instrument by the donor or, as the case may be, as if done by the donee in the name of the donor[^key-0814f2bbf7d999563fdca66b1cfff985].
+
+(1A)[^key-c562d144fb114f9c9b60fa1ae886f309] Where an instrument is executed by the donee as a deed, it shall be as effective as if executed by the donee in a manner which would constitute due execution of it as a deed by the donor only if it is executed in accordance with section 1(3)(a) of the Law of Property (Miscellaneous Provisions) Act 1989.
+
+(2) For the avoidance of doubt it is hereby declared that an instrument to which subsection (3) . . . [^c816680] of section 74 of the [^c816681]Law of Property Act 1925 applies may be executed either as provided in that subsection[^c816682] or as provided in this section.
+
+(3)[^key-e6b823963e4cc286aa3e11d8e5c1a500] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) This section applies whenever the power of attorney was created.
+
+## 8. Repeal of s. 129 of Law of Property Act 1925.[^key-1615db24f02f501bcc034b7e48e5f0c3][^c816683]
+
+*Extent: E+W*
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 9. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c816686]
+
+*Extent: E+W*
+
+## 10. Effect of general power of attorney in specified form.
+
+*Extent: E+W*
+
+(1) Subject to subsection (2) of this section, a general power of attorney in the form set out in Schedule 1 to this Act, or in a form to the like effect but expressed to be made under this Act, shall operate to confer—
+
+- (a) on the donee of the power; or
+- (b) if there is more than one donee, on the donees acting jointly or acting jointly or severally, as the case may be,
+
+authority to do on behalf of the donor anything which he can lawfully do by an attorney.
+
+(2) Subject to section 1 of the Trustee Delegation Act 1999, this section[^c816688] does not apply to functions which the donor has as a trustee or personal representative or as a tenant for life or statutory owner within the meaning of the [^c816689]Settled Land Act 1925.
+
+## 11. Short title, repeals, consequential amendments, commencement and extent.
+
+*Extent: E+W*
+
+(1) This Act may be cited as the Powers of Attorney Act 1971.
+
+(2)[^c816690] The enactments specified in Schedule 2 to this Act are hereby repealed to the extent specified in the third column of that Schedule.
+
+(3)[^c816691] In section 125(2) of the Law of Property Act 1925 [^c816692] for the words “as aforesaid” there shall be substituted the words “under the Land Registration Act 1925” ; . . . [^c816693].
+
+(4)[^key-180c68e78012cd6e00aa0e06767744d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5) Section 3 of this Act extends to Scotland and Northern Ireland but, save as aforesaid, this Act extends to England and Wales only.
+
+*Extent: E+W*
+
+SCHEDULES
+
+## SCHEDULE 1 — Form of General Power of Attorney for Purposes of Section 10[^c816694]
+
+Section 10.
+
+This General Power of Attorneyis made this day of 19 by AB of
+
+I appoint CD of
+
+\[*or*CD of and
+
+EF of jointly*or*
+
+jointly and severally\] to be my attorney\[s\] in accordance with section 10 of the Powers of Attorney Act 1971.
+
+In Witness etc.,
+
+## SCHEDULE 2 — Repeals[^c816695]
+
+Section 11(2)
+
+| Chapter | Short Title | Extent of Repeal |
+| --- | --- | --- |
+| 15 & 16 Geo. 5. c. 19 | The Trustee Act 1925. | Section 29. |
+| 15 & 16 Geo. 5. c. 20. | The Law of Property Act 1925. | Sections 123 and 124. |
+|  |  | Section 125(1). |
+|  |  | Sections 126 to 129. |
+| 15 & 16 Geo. 5. c. 49. | The Supreme Court of Judicature (Consolidation) Act 1925. | Section 219(1). |
+| 4 & 5 Eliz. 2. c. 46. | The Administration of Justice Act 1956. | Section 18. |
+
+## Annotations
+
+[^c816656]: Commencement: Act wholly in force at 1. 10. 1971 see [s. 11(4)](https://www.legislation.gov.uk/ukpga/1971/27/section/11/4)
+
+[^c816657]: Modification: Words of enactment omitted under authority of [Statute Law Revision Act 1948 (c. 62)](https://www.legislation.gov.uk/ukpga/1948/62), [s. 3](https://www.legislation.gov.uk/ukpga/1948/62/section/3)
+
+[^c816658]: Textual amendment: Words substituted by [Law of Property (Miscellaneous Provisions) Act 1989 (c. 34, SIF 98:1)](https://www.legislation.gov.uk/ukpga/1989/34), [s. 1(8)(9)(11)](https://www.legislation.gov.uk/ukpga/1989/34/section/1/8/9/11), [Sch. 1 para. 6(a)](https://www.legislation.gov.uk/ukpga/1989/34/schedule/1/paragraph/6/a)
+
+[^c816659]: Textual amendment: [S. 1(2)](https://www.legislation.gov.uk/ukpga/1971/27/section/1/2) repealed by [Law of Property (Miscellaneous Provisions) Act 1989 (c. 34, SIF 98:1)](https://www.legislation.gov.uk/ukpga/1989/34), [ss. 1(8)(9)(11)](https://www.legislation.gov.uk/ukpga/1989/34/section/1/8/9/11), [4](https://www.legislation.gov.uk/ukpga/1989/34/section/4), [Sch. 1 para. 6(b)](https://www.legislation.gov.uk/ukpga/1989/34/schedule/1/paragraph/6/b), [Sch. 2](https://www.legislation.gov.uk/ukpga/1989/34/schedule/2)
+
+[^c816660]: Textual amendment: [S. 2](https://www.legislation.gov.uk/ukpga/1971/27/section/2) repealed by [Supreme Court Act 1981 (c. 54, SIF 37)](https://www.legislation.gov.uk/ukpga/1981/54), [s. 152(4)](https://www.legislation.gov.uk/ukpga/1981/54/section/152/4), [Sch. 7](https://www.legislation.gov.uk/ukpga/1981/54/schedule/7)
+
+[^c816667]: Modification: S. 3(1)(b) amended (E.W.) (1.1.1992) by [S.I. 1991/2684](https://www.legislation.gov.uk/uksi/1991/2684), [arts. 2(1)](https://www.legislation.gov.uk/uksi/1991/2684/article/2/1), [4](https://www.legislation.gov.uk/uksi/1991/2684/article/4), [Sch.1](https://www.legislation.gov.uk/uksi/1991/2684/schedule/1)
+
+[^key-bfd317baa6a027c12b02875025d64b6b]: Textual amendment: Words in s. 3(1)(b) substituted (1.1.2010) by [Legal Services Act 2007 (c. 29)](https://www.legislation.gov.uk/ukpga/2007/29), [s. 211(2)](https://www.legislation.gov.uk/ukpga/2007/29/section/211/2), [Sch. 21 para. 26(a)](https://www.legislation.gov.uk/ukpga/2007/29/schedule/21/paragraph/26/a) (with [ss. 29](https://www.legislation.gov.uk/ukpga/2007/29/section/29), [192](https://www.legislation.gov.uk/ukpga/2007/29/section/192), [193](https://www.legislation.gov.uk/ukpga/2007/29/section/193)); [S.I. 2009/3250](https://www.legislation.gov.uk/uksi/2009/3250), [art. 2(h)](https://www.legislation.gov.uk/uksi/2009/3250/article/2/h)
+
+[^key-37e71a812d67fb2614ef4ca00147ff14]: Textual amendment: Words in [s. 3(1)(b)](https://www.legislation.gov.uk/ukpga/1971/27/section/3/1/b) inserted (18.11.2023) by [Powers of Attorney Act 2023 (c. 42)](https://www.legislation.gov.uk/ukpga/2023/42), [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2023/42/section/2/2), [3(4)](https://www.legislation.gov.uk/ukpga/2023/42/section/3/4)
+
+[^key-f3d4d244f77474e1c82887d6242c0fa2]: Textual amendment: Words in s. 3(3) substituted (1.1.2010) by [Legal Services Act 2007 (c. 29)](https://www.legislation.gov.uk/ukpga/2007/29), [s. 211(2)](https://www.legislation.gov.uk/ukpga/2007/29/section/211/2), [Sch. 21 para. 26(b)](https://www.legislation.gov.uk/ukpga/2007/29/schedule/21/paragraph/26/b) (with [ss. 29](https://www.legislation.gov.uk/ukpga/2007/29/section/29), [192](https://www.legislation.gov.uk/ukpga/2007/29/section/192), [193](https://www.legislation.gov.uk/ukpga/2007/29/section/193)); [S.I. 2009/3250](https://www.legislation.gov.uk/uksi/2009/3250), [art. 2(h)](https://www.legislation.gov.uk/uksi/2009/3250/article/2/h)
+
+[^c816670]: Marginal citation: [1963 c. 18](https://www.legislation.gov.uk/ukpga/1963/18).
+
+[^c816671]: Marginal citation: [1963 c. 24 (N.I.)](https://www.legislation.gov.uk/apni/1963/24)
+
+[^key-9959f5887f25efa33fc84b9613a543fd]: Textual amendment: [S. 3(3A)](https://www.legislation.gov.uk/ukpga/1971/27/section/3/3A) inserted (18.11.2023) by [Powers of Attorney Act 2023 (c. 42)](https://www.legislation.gov.uk/ukpga/2023/42), [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2023/42/section/2/3), [3(4)](https://www.legislation.gov.uk/ukpga/2023/42/section/3/4)
+
+[^c816672]: Marginal citation: [1940 c. 28](https://www.legislation.gov.uk/ukpga/1940/28).
+
+[^c816673]: Marginal citation: [1940 c. 28](https://www.legislation.gov.uk/ukpga/1940/28).
+
+[^c816674]: Modification: [S. 4](https://www.legislation.gov.uk/ukpga/1971/27/section/4) applied (with modifications) (19.12.1995) by [S.I. 1995/3272](https://www.legislation.gov.uk/uksi/1995/3272) reg. 36(3)
+
+    [S. 4](https://www.legislation.gov.uk/ukpga/1971/27/section/4) applied (E.W.S.) (26.11.2001) by [S.I. 2001/3755](https://www.legislation.gov.uk/uksi/2001/3755), [reg. 43(3)](https://www.legislation.gov.uk/uksi/2001/3755/regulation/43/3) (with [regs. 39](https://www.legislation.gov.uk/uksi/2001/3755/regulation/39), [45](https://www.legislation.gov.uk/uksi/2001/3755/regulation/45))
+
+[^key-11f05bd0f3691b2abd4ea9d3769a82b7]: Modification: [S. 5](https://www.legislation.gov.uk/ukpga/1971/27/section/5) modified (1.10.2007) by [Mental Capacity Act 2005 (c. 9)](https://www.legislation.gov.uk/ukpga/2005/9), [ss. 14(5)](https://www.legislation.gov.uk/ukpga/2005/9/section/14/5), [68(1)](https://www.legislation.gov.uk/ukpga/2005/9/section/68/1) (with [ss. 27-29](https://www.legislation.gov.uk/ukpga/2005/9/section/27), [62](https://www.legislation.gov.uk/ukpga/2005/9/section/62)); [S.I. 2007/1897](https://www.legislation.gov.uk/uksi/2007/1897), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2007/1897/article/2/1/a)
+
+[^key-dee41ea563286d09fc0dc549194d55bd]: Modification: [S. 5](https://www.legislation.gov.uk/ukpga/1971/27/section/5) modified (1.10.2007) by [Mental Capacity Act 2005 (c. 9)](https://www.legislation.gov.uk/ukpga/2005/9), [s. 68(1)](https://www.legislation.gov.uk/ukpga/2005/9/section/68/1), [Sch. 4 para. 18(5)](https://www.legislation.gov.uk/ukpga/2005/9/schedule/4/paragraph/18/5) (with [ss. 27-29](https://www.legislation.gov.uk/ukpga/2005/9/section/27), [62](https://www.legislation.gov.uk/ukpga/2005/9/section/62)); [S.I. 2007/1897](https://www.legislation.gov.uk/uksi/2007/1897), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2007/1897/article/2/1/d)
+
+[^key-d3ede796a5b89bd867059170a28af76b]: Modification: [S. 5](https://www.legislation.gov.uk/ukpga/1971/27/section/5) applied (1.10.2007) by [Mental Capacity Act 2005 (c. 9)](https://www.legislation.gov.uk/ukpga/2005/9), [s. 68(1)](https://www.legislation.gov.uk/ukpga/2005/9/section/68/1), [Sch. 4 para. 1(1)(c)](https://www.legislation.gov.uk/ukpga/2005/9/schedule/4/paragraph/1/1/c) (with [ss. 27-29](https://www.legislation.gov.uk/ukpga/2005/9/section/27), [62](https://www.legislation.gov.uk/ukpga/2005/9/section/62)); [S.I. 2007/1897](https://www.legislation.gov.uk/uksi/2007/1897), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2007/1897/article/2/1/d)
+
+[^c816675]: Modification: [S. 5](https://www.legislation.gov.uk/ukpga/1971/27/section/5) modified by [Enduring Powers of Attorney Act 1985 (c. 29, SIF 1)](https://www.legislation.gov.uk/ukpga/1985/29), [ss. 1(1)(c)](https://www.legislation.gov.uk/ukpga/1985/29/section/1/1/c), [9(5)](https://www.legislation.gov.uk/ukpga/1985/29/section/9/5)
+
+[^c816676]: Marginal citation: [1925 c. 20](https://www.legislation.gov.uk/ukpga/1925/20).
+
+[^c816677]: Marginal citation: [1963 c. 18](https://www.legislation.gov.uk/ukpga/1963/18).
+
+[^c816678]: Textual amendment: Words from the beginning of s. 7(1) to the end of para. (a) substituted by [Law of Property (Miscellaneous Provisions) Act 1989 (c. 34, SIF 98:1)](https://www.legislation.gov.uk/ukpga/1989/34), [s. 1(8)(9)(11)](https://www.legislation.gov.uk/ukpga/1989/34/section/1/8/9/11), [Sch. 1 para. 7(1)](https://www.legislation.gov.uk/ukpga/1989/34/schedule/1/paragraph/7/1)
+
+[^key-0814f2bbf7d999563fdca66b1cfff985]: Textual amendment: Words in [s. 7(1)](https://www.legislation.gov.uk/ukpga/1971/27/section/7/1) substituted (15.9.2005) by [Regulatory Reform (Execution of Deeds and Documents) Order 2005 (S.I. 2005/1906)](https://www.legislation.gov.uk/uksi/2005/1906), [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/1906/article/1/1), [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2005/1906/schedule/1/paragraph/6)
+
+[^key-c562d144fb114f9c9b60fa1ae886f309]: Textual amendment: [S. 7(1A)](https://www.legislation.gov.uk/ukpga/1971/27/section/7/1A) inserted (15.9.2005) by [Regulatory Reform (Execution of Deeds and Documents) Order 2005 (S.I. 2005/1906)](https://www.legislation.gov.uk/uksi/2005/1906), [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/1906/article/1/1), [Sch. 1 para. 7](https://www.legislation.gov.uk/uksi/2005/1906/schedule/1/paragraph/7)
+
+[^c816680]: Textual amendment: Words repealed by [Law of Property (Miscellaneous Provisions) Act 1989 (c. 34, SIF 98:1)](https://www.legislation.gov.uk/ukpga/1989/34), [ss. 1(8)(9)(11)](https://www.legislation.gov.uk/ukpga/1989/34/section/1/8/9/11), [4](https://www.legislation.gov.uk/ukpga/1989/34/section/4), [Sch. 1 para. 7(2)(a)](https://www.legislation.gov.uk/ukpga/1989/34/schedule/1/paragraph/7/2/a), [Sch. 2](https://www.legislation.gov.uk/ukpga/1989/34/schedule/2)
+
+[^c816681]: Marginal citation: [1925 c. 20](https://www.legislation.gov.uk/ukpga/1925/20).
+
+[^c816682]: Textual amendment: Words substituted by [Law of Property (Miscellaneous Provisions) Act 1989 (c. 34, SIF 98:1)](https://www.legislation.gov.uk/ukpga/1989/34), [s. 1(8)(9)(11)](https://www.legislation.gov.uk/ukpga/1989/34/section/1/8/9/11), [Sch. 1 para. 7(2)(b)](https://www.legislation.gov.uk/ukpga/1989/34/schedule/1/paragraph/7/2/b)
+
+[^key-e6b823963e4cc286aa3e11d8e5c1a500]: Textual amendment: [S. 7(3)](https://www.legislation.gov.uk/ukpga/1971/27/section/7/3) repealed (15.9.2005) by [Regulatory Reform (Execution of Deeds and Documents) Order 2005 (S.I. 2005/1906)](https://www.legislation.gov.uk/uksi/2005/1906), [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/1906/article/1/1), [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/2005/1906/schedule/1/paragraph/8), [Sch. 2](https://www.legislation.gov.uk/uksi/2005/1906/schedule/2)
+
+[^key-1615db24f02f501bcc034b7e48e5f0c3]: Textual amendment: [S. 8](https://www.legislation.gov.uk/ukpga/1971/27/section/8) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 17](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/17) Group 11(1)
+
+[^c816683]: Modification: The text of s. 8 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
+
+[^c816686]: Textual amendment: [S. 9](https://www.legislation.gov.uk/ukpga/1971/27/section/9) repealed (1.3.2000 with effect in relation to powers of attorney created after the commencement of the amending Act) by [1999 c. 15](https://www.legislation.gov.uk/ukpga/1999/15), [s. 12](https://www.legislation.gov.uk/ukpga/1999/15/section/12),Sch. Note; [S.I. 2000/216](https://www.legislation.gov.uk/uksi/2000/216), [art. 2](https://www.legislation.gov.uk/uksi/2000/216/article/2)
+
+[^c816688]: Textual amendment: Words in [s. 10(2)](https://www.legislation.gov.uk/ukpga/1971/27/section/10/2) substituted (1.3.2000) by [1999 c. 15](https://www.legislation.gov.uk/ukpga/1999/15), [s.3](https://www.legislation.gov.uk/ukpga/1999/15/section/3); [S.I. 2000/216](https://www.legislation.gov.uk/uksi/2000/216), [art. 2](https://www.legislation.gov.uk/uksi/2000/216/article/2)
+
+[^c816689]: Marginal citation: [1925 c. 18](https://www.legislation.gov.uk/ukpga/1925/18).
+
+[^c816690]: Modification: The text of s. 11(2) is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
+
+[^c816691]: Modification: The text of s. 11(3) is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and except as specified does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
+
+[^c816692]: Marginal citation: [1925 c.20](https://www.legislation.gov.uk/ukpga/1925/20)
+
+[^c816693]: Textual amendment: Words repealed by [Supreme Court Act 1981 (c. 54, SIF 37)](https://www.legislation.gov.uk/ukpga/1981/54), [s. 152(4)](https://www.legislation.gov.uk/ukpga/1981/54/section/152/4), [Sch. 7](https://www.legislation.gov.uk/ukpga/1981/54/schedule/7)
+
+[^key-180c68e78012cd6e00aa0e06767744d6]: Textual amendment: [S. 11(4)](https://www.legislation.gov.uk/ukpga/1971/27/section/11/4) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 17](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/17) Group 11(1)
+
+[^c816694]: Modification: [Sch. 1](https://www.legislation.gov.uk/ukpga/1971/27/schedule/1) amended (1.3.2000) by 2000/215, art. 3, Sch. Pt. II
+
+[^c816695]: Modification: The text of Sch. 2 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.

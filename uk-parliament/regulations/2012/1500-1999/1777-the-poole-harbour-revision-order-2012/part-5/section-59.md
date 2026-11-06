@@ -1,0 +1,27 @@
+---
+title: The Poole Harbour Revision Order 2012, section 59
+act: The Poole Harbour Revision Order 2012
+section: '59'
+status: revised
+text_date: '2026-07-23'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/uksi/2012/1777/section/59
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Poole Harbour Revision Order 2012, section 59
+
+> Text as at 2026-07-23.
+>
+> Extent: England, Wales, Scotland.
+
+## 59. Saving for Trinity House[^key-fadb60cd409649ebae90aef874895cb6]
+
+*Extent: E+W+S*
+
+Nothing in this Order shall prejudice or derogate from any of the rights, duties or privileges of Trinity House.
+
+## Annotations
+
+[^key-fadb60cd409649ebae90aef874895cb6]: Commencement: Art. 59 in force at 23.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1777/article/1/2)

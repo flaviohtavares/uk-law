@@ -1,0 +1,320 @@
+---
+title: The Excise Duties (Northern Ireland etc. Miscellaneous Modifications and Amendments) (EU Exit) Regulations 2022
+id: uksi/2022/265
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2022-03-09'
+text_date: '2024-12-23'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2022/265
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2022/265/pdfs/uksiem_20220265_en.pdf
+- http://www.legislation.gov.uk/uksi/2022/265/pdfs/uksi_20220265_en.pdf
+- http://www.legislation.gov.uk/uksi/2022/265/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Excise Duties (Northern Ireland etc. Miscellaneous Modifications and Amendments) (EU Exit) Regulations 2022
+
+> Text as at 2024-12-23.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2022 No. 265
+
+Exiting The European Union
+
+Excise
+
+The Excise Duties (Northern Ireland etc. Miscellaneous Modifications and Amendments) (EU Exit) Regulations 2022
+
+Made
+
+9th March 2022
+
+Laid before the House of Commons
+
+10th March 2022
+
+Coming into force
+
+1st April 2022
+
+The Commissioners for Her Majesty’s Revenue and Customs make the following Regulations in exercise of the powers conferred by sections 45(1) and (2) and 48(10) and (11) of the Taxation (Cross-border Trade) Act 2018[^f00001] and sections 100G and 100H of the Customs and Excise Management Act 1979[^f00002].
+
+## PART 1 — Introduction
+
+### 1. Citation and commencement[^key-469d8408f16e4d728a098a17d61000ae]
+
+These Regulations may be cited as the Excise Duties (Northern Ireland etc. Miscellaneous Modifications and Amendments) (EU Exit) Regulations 2022 and come into force on 1st April 2022.
+
+### 2. Interpretation[^key-f6f14a805037e7d94e3009ef6d78a26f]
+
+In these Regulations “**NIMMA 2020**” means the Excise Duties (Northern Ireland Miscellaneous Modifications and Amendments) (EU Exit) Regulations 2020[^f00003].
+
+## PART 2 — Amendments
+
+### 3. Amendment of the Excise Duties (Northern Ireland Miscellaneous Modifications and Amendments) (EU Exit) Regulations 2020[^key-810fd01864ee3a71f57adef41d5b7ebc]
+
+(1) NIMMA 2020 are amended as follows.
+
+(2) In regulation 93 (offset against excise duty resulting from movement of excise goods to Northern Ireland)—
+
+- (a) in paragraph (1), after “Great Britain” insert “or the Isle of Man”;
+- (b) in paragraph (2), after “UK excise duty” insert “, or a corresponding duty under the law of the Isle of Man,”;
+- (c) in paragraph (4), after “UK excise duty” insert “, or a corresponding duty under the law of the Isle of Man,”;
+- (d) after paragraph (4) insert—
+
+  > (5) This Regulation does not apply in relation to movements of excise goods[^f00004] to Northern Ireland from the Isle of Man that start before 1st April 2022.
+
+  .
+
+(3) In regulation 94 (remittance of excise duty)—
+
+- (a) in paragraph (1), in the words before sub-paragraph (a), after “Great Britain” insert “or the Isle of Man”;
+- (b) for paragraph (2) substitute—
+
+  > (2) Where, under regulation 93, the Commissioners have offset duty that has previously been paid against the excise duty due, they may remit any such excise duty that remains payable, upon application by a person who is liable to pay that duty.
+
+  .
+
+## PART 3 — Additional amounts – payment
+
+### 4. Simplified excise duty model[^key-e9e7a855d2f4bb159569e2f2e0a9bea0]
+
+(1) Where—
+
+- (a) regulation 93 (offset against excise duty resulting from movement of excise goods to Northern Ireland) of NIMMA 2020 applies;
+- (b) HMRC Commissioners[^f00005] are satisfied that excise duty[^f00006], or a corresponding duty under the law of the Isle of Man, has been paid in respect of goods prior to their removal to Northern Ireland from Great Britain or the Isle of Man;
+- (c) the latest change in the rate of that duty occurred within the period of one calendar month ending with the date of such removal; and
+- (d) HMRC Commissioners are satisfied that no person liable for any amount of excise duty arising as a result of the removal of excise goods to Northern Ireland from Great Britain or the Isle of Man is, or could reasonably be expected to be—
+  - (i) aware of the rate at which the duty described in sub-paragraph (b) was paid in respect of the goods prior to their removal to Northern Ireland from Great Britain or the Isle of Man; or
+  - (ii) able to obtain such information,
+
+the amount of that duty paid in respect of the goods prior to such removal is deemed to have been that which would have been payable immediately prior to the change in the rate of such duty referred to in paragraph (1)(c).
+
+(2) Where—
+
+- (a) sub-paragraphs (a), (b) and (d) of paragraph (1) apply; and
+- (b) the latest change in the rate of the duty referred to in paragraph (1)(c) occurred before the period of one calendar month ending with the date of the removal of the goods to Northern Ireland from Great Britain or the Isle of Man,
+
+the amount of that duty paid in respect of the goods prior to such removal is deemed to have been that which would have been payable immediately after the latest change in the rate of such duty.
+
+(3) HMRC Commissioners may require a person to provide such evidence to demonstrate that paragraph (1)(d) applies as may be specified in a notice published by HMRC Commissioners.
+
+### 5. Time of payment and return[^key-60089290e9de00f63dbb1a4e647a177f]
+
+(1) This regulation applies where sub-paragraphs (a) and (b) of regulation 4(1) apply.
+
+(2) If any amount of excise duty remains payable in respect of goods on their removal to Northern Ireland from Great Britain or the Isle of Man after HMRC Commissioners have, under regulation 93(2) of NIMMA 2020, offset duty that has previously been paid (“the remaining amount”), payment of the remaining amount of excise duty may be deferred, subject to compliance with the relevant condition.
+
+(3) For the purposes of paragraph (2) “the relevant condition” is—
+
+- (a) where sub-paragraphs (c) and (d) of regulation 4(1) apply, a return must be made, and the remaining amount of excise duty must be paid, within the period of two calendar months beginning with the date of the change in the rate of such duty;
+- (b) where at least one of sub-paragraphs (c) and (d) of regulation 4(1) does not apply, a return must be made, and the remaining amount of excise duty must be paid, within the period of two calendar months beginning with such date as is specified in a notice by HMRC Commissioners.
+
+(4) A return referred to in paragraph (3) must be made in such form and manner, if any, as may be specified in a notice published by HMRC Commissioners.
+
+(5) HMRC Commissioners must publish a notice referred to in paragraph (3)(b) and may publish a notice referred to in paragraph (4).
+
+(6) A notice referred to in paragraph (3)(b) may specify different dates in relation to goods removed to Northern Ireland on different dates.
+
+### 6. Record-keeping[^key-f89f57d92b4be1ef41be9245d0f29fed]
+
+(1) A person liable for an amount of excise duty arising as a result of the removal of excise goods to Northern Ireland from Great Britain or the Isle of Man (irrespective of whether a remaining amount is payable under this Part) must keep and make available for inspection such records relating to their activities as may be prescribed in a notice published by the Commissioners[^f00007] for such period as may be so prescribed.
+
+(2) The Commissioners may publish a notice prescribing—
+
+- (a) the records to be kept and made available for inspection under paragraph (1); and
+- (b) the period for which they must be kept and made available for inspection.
+
+(3) A notice published under paragraph (2) may make different provision for different cases.
+
+## PART 4 — Importation – transitional provisions
+
+### 7. Modification of the Excise Goods (Holding, Movement and Duty Point) Regulations 2010[^key-87dbd36873f97bdd1cef3c69c3db9192]
+
+The Excise Goods (Holding, Movement and Duty Point) Regulations 2010[^f00008] apply with the modifications set out in this Part to excise goods—
+
+- (a) in respect of which a declaration for the free-circulation procedure or an authorised use procedure has been made[^f00009] (and not amended or withdrawn unless in accordance with the Customs (Import Duty) (EU Exit) Regulations 2018[^f00010]);
+- (b) in respect of which the notification referred to in paragraph 11(1) of Schedule 1 to the Taxation (Cross-border Trade) Act 2018 is being treated as having been given under regulation 4(3B) of the Customs (Import Duty) (EU Exit) Regulations 2018 (notification of importation)[^f00011];
+- (c)[^key-5e6c1930f0b486ee96e76af422d86a27] that were in Northern Ireland immediately before they were removed to Great Britain.
+
+### 8. Contravention of conditions or requirements – duty point and persons liable to pay[^key-322b425d9d6098abbf0b636d18379a69]
+
+In regulation 19(3) (contraventions)—
+
+- (a) after sub-paragraph (a) regard as inserted—
+
+  > - (aa) a failure to comply with regulation 57(11) (completion of draft electronic administrative document for movements of excise goods under duty suspension arrangements from transitional arrival locations);
+
+  .
+- (b) after sub-paragraph (b) regard as inserted—
+
+  > - (bb) a failure to comply with regulation 60AA(2) (procedure for movement of excise goods under duty suspension arrangements from transitional arrival locations when computerised system unavailable).
+
+  .
+
+### 9. Movements of excise goods from a transitional arrival location under duty suspension arrangements[^key-27d8e2e062acd0423eac9815066696a8]
+
+(1) In regulation 57 (electronic administrative document for movements of excise goods under duty suspension arrangements wholly within the United Kingdom)—
+
+- (a) in paragraph (1), after “electronic administrative document”, regard as inserted “, but see paragraph (10) for an exception for the beginning of a movement from a transitional arrival location[^f00012]”;
+- (b) in paragraph (2) for “Before” regard as substituted “Except as provided for in paragraphs (10) and (11), before”;
+- (c)[^key-2eb11d3094f560198d4bda6836f08543] regard paragraph (7) as substituted by—
+
+  > (7) The consignor of the excise goods must provide the person accompanying the goods during the course of the movement or, where there is no person accompanying the goods, the transporter or carrier with—
+  >
+  > - (a) the unique administrative reference code, or
+  > - (b) if paragraph (10) applies, a master reference number issued by the Commissioners in respect of the goods further to the customs declaration referred to in that paragraph.
+
+  .
+- (d) after paragraph (9) regard as inserted—
+
+  > (10) Where—
+  >
+  > - (a) the excise goods are dispatched from a transitional arrival location; and
+  > - (b) details of the guarantee required in accordance with regulation 39 have been provided to the Commissioners in the declaration for the free-circulation procedure or authorised use procedure made before the goods entered Great Britain,
+  >
+  > the consignor may dispatch the goods before completing a draft electronic administrative document.
+  >
+  > (11) Where paragraph (10) applies, the consignor must complete the draft electronic administrative document and send it to the Commissioners as soon as practicable and no later than the latest time by which the notification required under regulation 4(3C) of the import duty regulations[^f00013] must be given in accordance with regulation 4(3D)(c) of those regulations.
+
+  .
+
+(2) In regulation 60 (procedure for movement of excise goods under duty suspension arrangements wholly within the United Kingdom when computerised system unavailable), after paragraph (1), regard as inserted—
+
+> (1A) This regulation does not apply where regulation 60AA applies.
+
+.
+
+(3) After regulation 60 regard as inserted—
+
+> **60AA. Procedure for movement of excise goods under duty suspension arrangements from transitional arrival locations when computerised system unavailable**
+>
+> (1) This regulation applies where—
+>
+> - (a) goods are dispatched before completion of the draft electronic administrative document in accordance with regulation 57(10); and
+> - (b) the computerised system is unavailable at the time the consignor is required to complete the draft electronic administrative document in accordance with regulation 57(11).
+>
+> (2) Excise goods may only be moved from the place of importation under duty suspension arrangements if they are accompanied by a master reference number issued by the Commissioners in respect of the goods further to the customs declaration referred to in regulation 57(10)(b).
+>
+> (3) At any time before the consignor completes the draft electronic administrative document in accordance with regulation 57(2) the Commissioners may require the consignor to—
+>
+> - (a) provide a copy of the printed version of the customs declaration which includes the details of the guarantee required in accordance with regulation 39;
+> - (b) verify the data contained in that document; and
+> - (c) provide information on the reasons for the unavailability of the computerised system (if the consignor is responsible for that unavailability).
+>
+> (4) As soon as the computerised system is restored the consignor must complete a draft electronic administrative document that complies with the requirements set out in regulation 57(9) and send it to the Commissioners.
+>
+> (5) The Commissioners must, in accordance with regulation 57(3), carry out a verification of the data in the draft electronic administrative document.
+>
+> (6) If the data are valid, regulation 57(5) to (8) shall apply.
+>
+> (7) If the data are invalid, the movement shall be treated as taking place under cover of the customs declaration.
+>
+> (8) The consignor must keep a copy of the printed version of the customs declaration.
+
+.
+
+### 10. Relevant regulations[^key-cf7fb01ba6a6ae14ef22333910782b97]
+
+In Schedule 1 (civil penalties – relevant regulations), regard as inserted in the appropriate places—
+
+> 57(11) (completion of draft electronic administrative document for movements of excise goods under duty suspension arrangements from transitional arrival locations);
+
+;
+
+> 60AA(2) and (4) (procedure for movement of excise goods under duty suspension arrangements from transitional arrival locations when computerised system unavailable);
+
+.
+
+Sophie Dean
+
+Katherine Green
+
+Two of the Commissioners for Her Majesty’s Revenue and Customs
+
+9th March 2022
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations are made by the Commissioners for Her Majesty’s Revenue and Customs under the Taxation (Cross-border Trade) Act [2018 (c. 22)](https://www.legislation.gov.uk/ukpga/2018/22) and the Customs and Excise Management Act [1979 (c. 2)](https://www.legislation.gov.uk/ukpga/1979/2). They amend the Excise Duties (Northern Ireland Miscellaneous Modifications and Amendments) (EU Exit) Regulations 2020 ([S.I. 2020/1559](https://www.legislation.gov.uk/uksi/2020/1559)) (“**the 2020 Regulations**”) as well as making modifications to the application of the Excise Goods (Holding, Movement and Duty Point) Regulations 2010 ([S.I. 2010/593](https://www.legislation.gov.uk/uksi/2010/593)) (“**the HMDP Regulations**”) and stand-alone provision. This is an EU Exit statutory instrument.
+
+Part 1 provides for citation, commencement and interpretation.
+
+Part 2 amends regulation 93 of the 2020 Regulations to extend the offset against excise duty resulting from movement of excise goods to Northern Ireland to include a corresponding duty under the law of the Isle of Man where the goods are removed from the Isle of Man to Northern Ireland. This only applies in relation to movements that start on or after 1st April 2022. Part 2 also makes consequential amendments to regulation 94 of the 2020 Regulations in relation to the remission of excise duty that remains payable after the offset.
+
+Part 3 makes further provision in relation to the offset against excise duty resulting from movement of excise goods to Northern Ireland.
+
+Regulation 4 makes provision for a simplified excise duty model in certain circumstances where excise goods are removed to Northern Ireland from Great Britain or the Isle of Man.
+
+Regulation 5 provides that any amount of excise duty payable upon removal of excise goods to Northern Ireland from Great Britain or the Isle of Man remaining after the application of the offset may be deferred, in which case it must be notified and paid within a certain timeframe, depending on the circumstances in which such amount becomes payable. It also enables HMRC Commissioners to specify the form and manner of any return, and requires them to specify the relevant date for the purposes of calculating the timeframe for a return, in a notice published by HMRC Commissioners.
+
+Regulation 6 requires persons to keep and make available for inspection such records for such period as the Commissioners may specify in a notice. It also allows the Commissioners to make different provision for different cases in such a notice.
+
+Any notices referred to in Part 3 will be published at https://www.gov.uk/government/collections/holdings-and-movement-notices. A person unable to access the notices electronically may access them in hard copy by post free of charge on application to 0300 200 3700.
+
+Part 4 makes modifications to the application of the HMDP Regulations in respect of certain excise goods moved into Great Britain to reflect changes to customs procedures that were preserved in relation to certain goods by the Taxation (Cross-border Trade) (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2021 ([S.I. 2021/1444](https://www.legislation.gov.uk/uksi/2021/1444)).
+
+A Tax Information and Impact Note covering this instrument will be published on the website at https://www.gov.uk/government/collections/tax-information-and-impact-notes-tiins.
+
+## Annotations
+
+[^f00001]: Footnote: [2018 c. 22](https://www.legislation.gov.uk/ukpga/2018/22).
+
+[^f00002]: Footnote: [1979 c. 2](https://www.legislation.gov.uk/ukpga/1979/2). Sections 100G and 100H were inserted by paragraph 1 of Schedule 4 to the Finance Act [1991 (c. 31)](https://www.legislation.gov.uk/ukpga/1991/31); section 100H was amended by paragraph 6 of Schedule 1, paragraph 4 of Schedule 2 and paragraph 1 of Schedule 18 to the Finance (No. 2) Act [1992 (c. 48)](https://www.legislation.gov.uk/ukpga/1992/48) and by paragraph 2 of Schedule 3 to the Finance Act [2002 (c. 23)](https://www.legislation.gov.uk/ukpga/2002/23); “prescribed” is defined for the purposes of section 100H in section 100H(3).
+
+[^key-469d8408f16e4d728a098a17d61000ae]: Commencement: Reg. 1 in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/265/regulation/1)
+
+[^key-f6f14a805037e7d94e3009ef6d78a26f]: Commencement: Reg. 2 in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/265/regulation/1)
+
+[^f00003]: Footnote: [S.I. 2020/1559](https://www.legislation.gov.uk/uksi/2020/1559). There is an amendment, but it is not relevant.
+
+[^key-810fd01864ee3a71f57adef41d5b7ebc]: Commencement: Reg. 3 in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/265/regulation/1)
+
+[^f00004]: Footnote: “Excise goods” is defined in regulation 3(1) of the Excise Goods (Holding, Movement and Duty Point) Regulations 2010 ([S.I. 2010/593](https://www.legislation.gov.uk/uksi/2010/593)).
+
+[^key-e9e7a855d2f4bb159569e2f2e0a9bea0]: Commencement: Reg. 4 in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/265/regulation/1)
+
+[^f00005]: Footnote: “HMRC Commissioners” is defined as “**the Commissioners for Her Majesty’s Revenue and Customs**” for the purposes of sections 44 to 48 of the Taxation Cross-border Trade Act 2018 (“**TCTA**”) by section 49 of that Act.
+
+[^f00006]: Footnote: “Excise duty” is defined for the purposes of sections 44 to 48 of the TCTA by section 49 of that Act.
+
+[^key-60089290e9de00f63dbb1a4e647a177f]: Commencement: Reg. 5 in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/265/regulation/1)
+
+[^key-f89f57d92b4be1ef41be9245d0f29fed]: Commencement: Reg. 6 in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/265/regulation/1)
+
+[^f00007]: Footnote: “The Commissioners” is defined in section 1(1) of the Customs and Excise Management Act, as substituted by paragraph 22 of Schedule 4 to the Commissioners for Revenue and Customs Act [2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11), as “the Commissioners for Her Majesty’s Revenue and Customs”.
+
+[^key-87dbd36873f97bdd1cef3c69c3db9192]: Commencement: Reg. 7 in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/265/regulation/1)
+
+[^f00008]: Footnote: [S.I. 2010/593](https://www.legislation.gov.uk/uksi/2010/593); relevant amending instruments are [S.I. 2011/2225](https://www.legislation.gov.uk/uksi/2011/2225), [2019/13](https://www.legislation.gov.uk/uksi/2019/13) and [2019/474](https://www.legislation.gov.uk/uksi/2019/474).
+
+[^f00009]: Footnote: See section 3(3)(a) of, and paragraph 13 of Schedule 2 to, the TCTA and [S.I. 2018/1249](https://www.legislation.gov.uk/uksi/2018/1249) for the meanings of a declaration for the free-circulation procedure or an authorised use procedure.
+
+[^f00010]: Footnote: [S.I. 2018/1248](https://www.legislation.gov.uk/uksi/2018/1248); relevant amending instruments are [S.I. 2019/326](https://www.legislation.gov.uk/uksi/2019/326), [2019/486](https://www.legislation.gov.uk/uksi/2019/486), [2019/1215](https://www.legislation.gov.uk/uksi/2019/1215), [2019/1346](https://www.legislation.gov.uk/uksi/2019/1346), [2020/1234](https://www.legislation.gov.uk/uksi/2020/1234) and [2021/1347](https://www.legislation.gov.uk/uksi/2021/1347).
+
+[^f00011]: Footnote: Regulation 4(3B) was inserted by [S.I. 2019/326](https://www.legislation.gov.uk/uksi/2019/326) and amended by [S.I. 2019/1346](https://www.legislation.gov.uk/uksi/2019/1346) and [2020/1234](https://www.legislation.gov.uk/uksi/2020/1234).
+
+[^key-5e6c1930f0b486ee96e76af422d86a27]: Textual amendment: [Reg. 7(c)](https://www.legislation.gov.uk/uksi/2022/265/regulation/7/c) substituted (31.1.2024) by [The Taxation (Cross-border Trade) (Miscellaneous Amendments) Regulations 2024 (S.I. 2024/12)](https://www.legislation.gov.uk/uksi/2024/12), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/12/regulation/1/2), [4(2)](https://www.legislation.gov.uk/uksi/2024/12/regulation/4/2) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/12/regulation/1/3))
+
+[^key-322b425d9d6098abbf0b636d18379a69]: Commencement: Reg. 8 in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/265/regulation/1)
+
+[^key-27d8e2e062acd0423eac9815066696a8]: Commencement: Reg. 9 in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/265/regulation/1)
+
+[^f00012]: Footnote: “Transitional arrival location” is defined for the purposes of goods in relation to which this modification applies by regulation 11 of the Excise Duties (Miscellaneous Amendments) (EU Exit) (No. 3) Regulations 2019 ([S.I. 2019/474](https://www.legislation.gov.uk/uksi/2019/474)).
+
+[^key-2eb11d3094f560198d4bda6836f08543]: Textual amendment: [Reg. 9(1)(c)](https://www.legislation.gov.uk/uksi/2022/265/regulation/9/1/c) substituted (23.12.2024) by [The Excise Duties (Miscellaneous Amendments and Revocations) Regulations 2024 (S.I. 2024/1262)](https://www.legislation.gov.uk/uksi/2024/1262), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/1262/regulation/1/3), [6](https://www.legislation.gov.uk/uksi/2024/1262/regulation/6)
+
+[^f00013]: Footnote: “Import duty regulations” is defined for the purposes of goods in relation to which this modification applies by regulation 11 of the Excise Duties (Miscellaneous Amendments) (EU Exit) (No. 3) Regulations 2019 ([S.I. 2019/474](https://www.legislation.gov.uk/uksi/2019/474)) as the Customs (Import Duty) (EU Exit) Regulations 2018 ([S.I. 2018/1248](https://www.legislation.gov.uk/uksi/2018/1248)).
+
+[^key-cf7fb01ba6a6ae14ef22333910782b97]: Commencement: Reg. 10 in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/265/regulation/1)

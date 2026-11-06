@@ -1,0 +1,622 @@
+---
+title: The Financial Services (Banking Reform) Act 2013 (Transitional and Savings Provisions) Order 2015
+id: uksi/2015/492
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2015-03-04'
+text_date: '2015-10-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2015/492
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2015/492/pdfs/uksiem_20150492_en.pdf
+- http://www.legislation.gov.uk/uksi/2015/492/pdfs/uksi_20150492_en.pdf
+- http://www.legislation.gov.uk/uksi/2015/492/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Financial Services (Banking Reform) Act 2013 (Transitional and Savings Provisions) Order 2015
+
+> Text as at 2015-10-01.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2015 No. 492
+
+Financial Services And Markets
+
+The Financial Services (Banking Reform) Act 2013 (Transitional and Savings Provisions) Order 2015
+
+Made
+
+4th March 2015
+
+Laid before Parliament
+
+5th March 2015
+
+Coming into force
+
+26th March 2015
+
+The Treasury, in exercise of the powers conferred by section 146 of the Financial Services (Banking Reform) Act 2013[^f00001], make the following Order:
+
+## PART 1 — Introductory
+
+### 1. Citation, commencement and interpretation[^key-9b076e62d7b2a97a73040a9536bf4d37]
+
+(1) This Order may be cited as the Financial Services (Banking Reform) Act 2013 (Transitional and Savings Provisions) Order 2015 and comes into force on 26th March 2015.
+
+(2) In this Order—
+
+- “article 2 notice” has the meaning given in article 2(1);
+- “article 11 notice” has the meaning given in article 11(b);
+- “the appropriate regulator” means, unless the context otherwise requires—
+  - (a) the FCA, in respect of those notified functions or notified application functions that are controlled functions specified in rules made by the FCA under section 59 (approval for particular arrangements)[^f00002]; and
+  - (b) the PRA, in respect of those notified functions or notified application functions that are controlled functions specified in rules made by the PRA under section 59;
+- “approval” means an approval given by the FCA or the PRA to a person for the purposes of section 59;
+- [^key-a3e417ca653637b2b7800e62ac89dbcc]...
+- “class 1 firm” means a relevant authorised person[^f00004];
+- “class 2 firm” means a[^key-ae41ec430a5a3776ebbc0afdfd97a4ae] PRA-authorised person other than a relevant authorised person;
+- “conditions for continuing approval” means the conditions set out in article 3;
+- “continuing approval” means an approval that continues to have effect on and after 7th March 2016 in accordance with article 2(4);
+- “controlled function” has the meaning given in section 59(3) (approval for particular arrangements) [^f00008];
+- “designated senior management function” means a function designated as a senior management function under section 59(6A) or 59(6B) (approval for particular arrangements) [^f00009];
+- “equivalent function” has the meaning given in article 17;
+- “FSMA” means the Financial Services and Markets Act 2000[^f00010];
+- “insurer” has the meaning given in section 71A(6)(d);[^key-ce57cd6cbcf84023e5141bcc30e6d7ad]
+- “non-UK institution” has the meaning given in section 71A(6)(b);
+- “the notification date” means, in relation to an article 2 notice or an article 11 notice, the date on which—
+  - (a) the notice is first received by one of the regulators[^f00011], or
+  - (b) if the authorised person concerned[^f00012] provides one or more revised article 2 notices or revised article 11 notices, the date on which the last revised notice provided is first received by one of the regulators;
+- “notified functions” has the meaning given in article 2(3)(a);
+- “notified application functions” has the meaning given in article 11(b);
+- “post-implementation controlled function” means a controlled function which, on or after 7th March 2016, either regulator has specified for the purposes of section 59 (approval for particular arrangements);
+- “pre-implementation application” means an application under section 60 (applications for approval)[^f00013] which—
+  - (a) is received by the appropriate regulator (within the meaning given by section 60(9)) before 7th March 2016; and
+  - (b) concerns the performance of controlled functions in relation to a class 1 firm or a class 2 firm;
+- “pre-implementation approval” means an approval which—
+  - (a) is given by either regulator before 7th March 2016; and
+  - (b) concerns the performance of controlled functions in relation to a class 1 firm or a class 2 firm;
+- “pre-implementation controlled function” means a controlled function which, before 7th March 2016, either regulator has specified for the purposes of section 59 (approval for particular arrangements);
+- “revised article 2 notice” has the meaning given in article 6(1);
+- “revised article 11 notice” has the meaning given in article 14(1);
+- [^key-aed657594b38285c2bc905a09f89378d]...
+- “Solvency II Directive” means [Directive 2009/138/EC](https://www.legislation.gov.uk/european/directive/2009/0138) of the European Parliament and of the Council of 25 November 2009 on the taking-up and pursuit of the business of insurance and re-insurance (Solvency II) (recast)[^f00014].
+
+(3) A reference in this Order to a provision of an Act is a reference to a provision of FSMA except where indicated otherwise.
+
+(4) A term used in this Order which is defined in Part 5 or Part 29 of FSMA has the same meaning as in that Act.
+
+(5) For the purposes of this Order, a reference to a permission, approval or requirement under FSMA, or to any other thing done under or for the purposes of that Act, includes a reference to a permission, approval or requirement or other thing treated as having effect or having been done under FSMA, however described, by a statutory instrument made under—
+
+- (a) section 426 (consequential and supplementary provision);
+- (b) section 2(2) of the European Communities Act 1972 (general implementation of Treaties)[^f00015].
+
+## PART 2 — Approval for particular arrangements
+
+### 2. Requirement to give notice in relation to an approved person[^key-7be2a8bae3b8282560e573dd98404399]
+
+(1) Every class 1 firm and class 2 firm must before 8th February 2016 give a notice to the appropriate regulator in accordance with this article (an “article 2 notice”) in respect of each person (“P”) (subject to rules made by the regulators under paragraph (2)) in respect of whom that regulator has granted a pre-implementation approval in relation to that firm.
+
+(2) Either or both of the regulators may make rules specifying those persons (or classes of persons) in respect of whom a class 1 or class 2 firm is not required to give a notice to the appropriate regulator under paragraph (1).
+
+(3) In relation to an article 2 notice (or a revised article 2 notice)—
+
+- (a) the notice must specify the post-implementation controlled functions[^f00016] that P will perform on and after 7th March 2016 (the “notified functions”);
+- (b) each of the notified functions must be an equivalent function in relation to one or more pre-implementation controlled functions which, immediately before 7th March 2016, P has approval to perform; and
+- (c) if the notice concerns the performance of a designated senior management function in relation to a relevant authorised person[^f00017] it must contain, or be accompanied by, a statement setting out the aspects of the affairs of the relevant authorised person which it is intended the person who is the subject of the notice will be responsible for managing in performing the notified functions.
+
+(4) If—
+
+- (a) an article 2 notice is given before 7th March 2016 (whether or not that notice was given before 8th February 2016), and
+- (b) the conditions in article 3 are met (the “conditions for continuing approval”),
+
+the pre-implementation approval concerned has effect on and after 7th March 2016 in accordance with article 4.
+
+(5) If an article 2 notice has been given in respect of a person but in relation to one or more pre-implementation controlled functions for which approval has been given in respect of that person—
+
+- (a) that notice does not specify a notified function, or
+- (b) the notified function specified in that notice is not an equivalent function,
+
+the pre-implementation approval given in respect of that person ceases to have effect at the beginning of 7th March 2016 in relation to the pre-implementation controlled functions concerned.
+
+(6) If notice is required under paragraph (1) in respect of a person but before 7th March 2016—
+
+- (a) notice has not been given in respect of that person; or
+- (b) a notice to which paragraph (3)(c) applies has been given in respect of that person but that notice does not meet the requirements in paragraph (3)(c),
+
+the pre-implementation approval given in respect of that person ceases to have effect at the beginning of 7th March 2016 in relation to all of the functions for which it has been given.
+
+### 3. Conditions for continuation of an approval[^key-c68c5de8a41408815ce415bb41181fc8]
+
+In relation to a pre-implementation approval, the conditions for continuing approval are that—
+
+- (a) the pre-implementation approval has not been withdrawn before 7th March 2016; and
+- (b) in relation to each notified function specified in an article 2 notice concerning the person (“P”) to whom the pre-implementation approval has been given—
+  - (i) on the notification date P is performing a function which falls within the description of that notified function; and
+  - (ii) immediately before 7th March 2016 P is continuing to perform that function.
+
+### 4. Treatment of a continuing approval[^key-7683ffe9117dbf21c38cc32cf31f1562]
+
+(1) In relation to a person (“P”) a continuing approval is to be treated as if it had been given—
+
+- (a) in relation to the notified functions specified in an article 2 notice concerning P, and
+- (b) by the appropriate regulator.
+
+(2) Where, immediately before 7th March 2016, the pre-implementation approval is subject to a suspension or limitation imposed under section 66(3)(disciplinary powers)[^f00018], that suspension or limitation is from the beginning of 7th March 2016 to be treated as if it were imposed by the appropriate regulator in respect of the notified functions.
+
+(3) Where, immediately before 7th March 2016, the pre-implementation approval is subject to a restriction imposed under section 66(3)(ab)(disciplinary powers)[^f00019], that restriction is from the beginning of 7th March 2016 to be treated as if it were a condition imposed under section 66(3)(ab).
+
+(4) This article applies whether or not one of the regulators has given a warning notice or a decision notice to P under—
+
+- (a) section 63 (withdrawal of approval)[^f00020];
+- (b) section 63B (procedure and right to refer to tribunal)[^f00021]; or
+- (c) section 67 (disciplinary measures: procedure and right to refer to Tribunal)[^f00022].
+
+### 5. Regulators’ power to impose requirements for an article 2 notice[^key-3cbdc3ec51055286aecd63cf3b7ea6ae]
+
+(1) An article 2 notice (or a revised article 2 notice) must—
+
+- (a) be given in such form as the appropriate regulator may direct; and
+- (b) contain, or be accompanied by, such information as the appropriate regulator may reasonably require.
+
+(2) The appropriate regulator may require the authorised person concerned to present information which that person is required to give under this article in such form, or to verify it in such a way, as the appropriate regulator may direct, and may in particular—
+
+- (a) give different directions, and impose different requirements, in relation to different notices or categories of notice;
+- (b) require, or permit, an article 2 notice and an article 11 notice to be contained in a single document.
+
+(3) The PRA must consult the FCA before—
+
+- (a) giving a direction under paragraph (2)(a) in relation to a class of persons giving an article 2 notice;
+- (b) imposing a requirement under paragraph (2)(b) in relation to a class of such persons.
+
+### 6. Revision of an article 2 notice[^key-b6acfd43328f9e5baae6fe1f5c5660d9]
+
+(1) If before 7th March 2016—
+
+- (a) there is a change relating to information given in or accompanying an article 2 notice (or a revised notice given in accordance with this article), or
+- (b) the person giving the notice discovers that any part of that information is inaccurate,
+
+the authorised person concerned must before that date submit a revised notice to each regulator (“a revised article 2 notice”).
+
+(2) If the authorised person concerned submits one or more revised article 2 notices which update the notified functions specified in the article 2 notice, articles 2, 3 and 4 apply as if references in those articles to “notified functions” were to functions specified in the last revised notice received by the regulators.
+
+### 7. Application of section 63ZA to a continuing approval[^key-e3385085e05a582433d688c227331831]
+
+Section 63ZA (variation of senior manager’s approval at request of relevant authorised person)[^f00023] applies to a continuing approval to perform a designated senior management function in relation to the carrying on of a regulated activity by a relevant authorised person as it applies to an approval that is granted subject to conditions, but as if references to the appropriate regulator [^f00024] were to the regulator who is treated under article 4(1)(b) as having given the continuing approval.
+
+### 8. Application of section 62A to a statement provided under article 2(3)(c)[^key-add010c6a6f041bb47ae670ff191d9ae]
+
+Where by virtue of article 2(4) a pre-implementation approval given in relation to a person continues to have effect on and after 7th March 2016 as an approval for the person to perform a designated senior management function in relation to the carrying on of a regulated activity by a relevant authorised person, section 62A (changes in responsibilities of senior managers)[^f00025] has effect in relation to the authorised person concerned, but as if—
+
+- (a) subsection (1) were omitted,
+- (b) the reference in subsection (2) to the granting of the application were a reference to 7th March 2016, and
+- (c) the reference in that subsection to a statement of responsibilities included a reference to a statement under article 2(3)(c).
+
+### 9. Steps taken under section 63[^key-8e75ff88a8df3f51472b76fd0c40a0a9]
+
+Anything done under section 63 (withdrawal of approval) in respect of a pre-implementation approval before 7th March 2016 continues to have effect on and after that day in respect of the approval as if done by the regulator who is treated under article 4(1)(b) as having given the approval.
+
+## PART 3 — Applications for approval for particular arrangements
+
+### 10. Period for consideration of an application to perform controlled functions[^key-26d2522445ddda1a673d154c1ea20128]
+
+(1)[^key-7aaf3b0b972bd46dda91a6128e890bfa] In relation to a pre-implementation application—
+
+- (a) if the application is received by the appropriate regulator within the meaning of section 60(9) (applications for approval)[^f00026] on or before the rule-making date, the period for consideration referred to in section 61(3A)(determination of applications)[^f00027] for that application is suspended from the day after the rule-making date until the condition in article 11(b) is met in relation to that application;
+- (b) if the application is received by the appropriate regulator after the rule-making date the period for consideration does not begin to run until the end of the day on which the condition in article 11(b) is met in relation to that application.
+
+(2)[^key-2e5b82e1c181a042c4bf28a66060b6d7] In this article the “rule-making date” means—
+
+- (a) in relation to a pre-implementation application concerning the performance of controlled functions in relation to a relevant non-UK institution (whether on the date concerned the institution is a class 1 or a class 2 firm)—
+  - (i) the date on which both regulators publish rules made under article 17 specifying in relation to relevant non-UK institutions equivalent functions for the purposes of this Order; or
+  - (ii) if the regulators publish such rules on different dates, the last day on which such rules are published;
+- (b) in relation to a pre-implementation application concerning the performance of controlled functions in relation to an insurer that is not a solvency-II firm—
+  - (i) the date on which both regulators publish rules made under article 17 specifying in relation to such insurers equivalent functions for the purpose of this Order; or
+  - (ii) if the regulators publish such rules on different dates, the last day on which such rules are published; and
+- (c) in relation to a pre-implementation application concerning the performance of controlled functions in relation to any other firm—
+  - (i) the date on which both regulators publish rules made under article 17 specifying in relation to such firms equivalent functions for the purposes of this Order; or
+  - (ii) if the regulators publish such rules on different dates, the last day on which such rules are published.
+
+(3) For the purposes of this article—
+
+- (a) “relevant non-UK institution” has the meaning given in article 10A (relevant non-UK institutions); and
+- (b) “solvency II firm” has the meaning given in article 10B (solvency II firms).
+
+### 10A. Relevant non-UK institutions[^key-657c7586a024ed1796dad4d3da35cdd0]
+
+(1) A “relevant non-UK institution” is a non-UK institution which—
+
+- (a) meets condition A or B;
+- (b) has a branch in the United Kingdom; and
+- (c) is not an insurer.
+
+(2) Condition A is that the non-UK institution is a credit institution which has permission under Part 4A or resulting from Schedule 3 or 4 to carry on the regulated activity of accepting deposits.
+
+(3) Condition B is that—
+
+- (a) the non-UK institution is an investment firm;
+- (b) it has permission under Part 4A or resulting from Schedule 3 or 4 to carry on the regulated activity of dealing in investments as principal; and
+- (c) when carried on by it, that activity is a PRA-regulated activity.
+
+(4) In this article—
+
+- (a) “branch” means a place of business that forms a legally dependent part of a non-UK institution and conducts directly all or some of the operations inherent in the institution’s business;
+- (b) “credit institution” has the meaning given in section 71A(6)(c);
+- (c) “investment firm” has the meaning given in section 424A.
+
+### 10B. Solvency II firms
+
+(1) “Solvency II firm” means—
+
+- (a) an insurance undertaking within the meaning of Article 13(1) of the Solvency II Directive that is not—
+  - (i) an insurance undertaking falling under Article 308b(1) of the Solvency II Directive; or
+  - (ii) excluded from the scope of the Solvency II Directive by Section 2 of Chapter 1 of Title 1 of that Directive;
+- (b) a reinsurance undertaking within the meaning of Article 13(4) of the Solvency II Directive that is not—
+  - (i) a reinsurance undertaking falling under Article 308b(1) of the Solvency II Directive; or
+  - (ii) excluded from the scope of the Solvency II Directive by Section 2 of Chapter 1 of Title 1 of that Directive;
+- (c) a special purpose vehicle within the meaning of Article 13(26) of the Solvency II Directive;
+- (d) a third country insurance undertaking within the meaning of Article 13(3) of the Solvency II Directive which has a branch in the United Kingdom; or
+- (e) a third country reinsurance undertaking within the meaning of Article 13(6) of the Solvency II Directive which has a branch in the United Kingdom.
+
+(2) In this article “branch” has the meaning given in Article 13(11) of the Solvency II Directive.
+
+### 11. Conditions for continuation of an application to perform controlled functions[^key-94510b2dbef720c689e8bdaac532d81c]
+
+Article 12 applies to a pre-implementation application if, before 7th March 2016—
+
+- (a) the application has not been determined or withdrawn;
+- (b) each of the regulators has received from the authorised person concerned a notice (an “article 11 notice”) specifying the controlled functions which, on and after 7th March 2016, the application is to be treated as relating to (“the notified application functions”);
+- (c) each of the notified application functions is an equivalent function in relation to a function to which the pre-implementation application relates; and
+- (d) if the article 11 notice concerns the performance of a designated senior management function in relation to a relevant authorised person, it contains or is accompanied by a statement setting out the aspects of the affairs of the relevant authorised person which it is intended the person who is the subject of the notice will be responsible for managing in performing the notified application functions.
+
+### 12. Continuation of an application to perform controlled functions[^key-3f5751ffb287040cd8107537ce8aa249]
+
+(1) A pre-implementation application to which this article applies is to be treated, on and after 7th March 2016, as if it had been made—
+
+- (a) for approval to perform the notified application[^key-3253220f1620f19c160c8473c05b5129] functions, and
+- (b) to the appropriate regulator.
+
+(2) Paragraph (3) of this article applies if, in relation to the application, either regulator has before 7th March 2016—
+
+- (a) imposed a requirement under section 60(2)(b) (application for approval)[^f00028];
+- (b) given a warning notice under section 62(2) (applications for approval: procedure and right to refer to tribunal)[^f00029] or a decision notice under section 62(3) to the interested parties referred to in section 62(5); or
+- (c) taken any step in connection with giving a warning notice or decision notice under section 62.
+
+(3) The requirement, notice or step is to be treated, on and after 7th March 2016, as having been imposed, given or taken—
+
+- (a) in relation to the application as affected by paragraph (1); and
+- (b) by the appropriate regulator.
+
+(4) Nothing in this article alters the day on which a warning notice or a decision notice is to be treated as having been given to the interested parties.
+
+(5) Paragraph (1) of this article applies whether or not a regulator has given to the authorised person concerned a warning notice or a decision notice under section 62 before 7th March 2016 in relation to an application under section 60.
+
+### 13. Regulators’ power to impose requirements for an article 11 notice[^key-0871f2d60d67300f4f41de59999e7891]
+
+(1) An article 11 notice (or a revised article 11 notice) must—
+
+- (a) be given in such form as the appropriate regulator may direct; and
+- (b) contain, or be accompanied by, such information as the appropriate regulator may reasonably require.
+
+(2) The appropriate regulator may require the authorised person concerned to present information which the authorised person concerned is required to give under this article in such form, or to verify it in such a way, as the appropriate regulator may direct, and may in particular give different directions, and impose different requirements, in relation to different notices or categories of notice.
+
+(3) The PRA must consult the FCA before giving a direction under paragraph (2) in relation to a class of persons giving an article 11 notice.
+
+### 14. Revision of an article 11 notice[^key-bf60c26784cfe3518e48612d3054e8ca]
+
+(1) If before 7th March 2016—
+
+- (a) there is a change relating to information given in or accompanying an article 11 notice (or a revised notice given in accordance with this article), or
+- (b) the person giving the notice discovers that any part of that information is inaccurate,
+
+the authorised person concerned must submit a revised notice to the regulators (a “revised article 11 notice”).
+
+(2) If the authorised person concerned submits one or more revised article 11 notices, articles 11 and 12 apply as if references to “notified application functions” were to functions specified in the last revised article 11 notice received by the regulators.
+
+### 15. Application of section 62A to a statement provided under article 11(d)[^key-0fe6ff5f8057de7d7ecd503fab7e4889]
+
+Section 62A (changes in responsibilities of senior managers)[^f00030] has effect in relation to any pre-implementation application to which article 12 applies as if any reference in that section to a statement of responsibilities under section 60(2A)(applications for approval)[^f00031] included a reference to a statement under article 11(d).
+
+### 16. Determination of a continuing application[^key-c7c2e5ff3c304bf5bfb92d628e609978]
+
+When determining a pre-implementation application which—
+
+- (a) has not been withdrawn or determined before 7th March 2016, and
+- (b) on and after 7th March 2016, is treated under article 12 as having been made in respect of the notified application functions,
+
+the regulator may have regard to anything it could have had regard to if the application had been made on or after 7th March 2016.
+
+## PART 4 — Power for the regulators to specify equivalent functions and make provision about approvals
+
+### 17. Power for the regulators to specify equivalent functions[^key-3d071718f766aef5ca440bbfa0c97496]
+
+(1) Either or both of the regulators may make rules—
+
+- (a) specifying post-implementation controlled functions (each an “equivalent function”) that are to be treated (alone or with one or more other post-implementation controlled functions) as equivalent to a pre-implementation controlled function for the purposes of this Order;
+- (b) providing which post-implementation controlled functions an approval or application is to be treated as relating to in the event that—
+  - (i) a person would otherwise as a result of article 4 be treated as having approval in relation to a relevant authorised person to perform the designated senior management functions described in paragraph (2); or
+  - (ii) an application would otherwise as a result of article 12 be treated as an application for approval in relation to a relevant authorised person to perform the designated senior management functions described in paragraph (2).
+
+(2) The designated senior management functions described in this paragraph are—
+
+- (a) two or more designated senior management functions of a description specified by the same regulator, or
+- (b) one or more designated senior management functions of a description specified by the PRA and one or more designated senior management functions of a description specified by the FCA.
+
+## PART 5 — The regulators’ enforcement and variation powers
+
+### 18. Prohibition orders[^key-0c09527df64cb7b15d7748339d234bdf]
+
+(1) Paragraph 2 applies to—
+
+- (a) a warning notice or a decision notice under section 57 (prohibition orders: procedure and right to refer to tribunal)[^f00032],
+- (b) a further decision notice under section 390(2A) relating to a decision notice under that section [^f00033],
+- (c) a final notice under section 390 (final notices) about an order under section 56 (prohibition orders)[^f00034], or
+- (d) a prohibition order under section 56,
+
+which is given or made before 7th March 2016.
+
+(2) The notice or prohibition order is not affected by—
+
+- (a) the amendments made to section 59 (approval for particular arrangements) by section 18 of the Financial Services (Banking Reform) Act 2013[^f00035], or
+- (b) rules made by either regulator under section 59 before 7th March 2016 which alter or replace a description of controlled function to which the notice or prohibition order relates.
+
+(3) But nothing in this article prevents a prohibition order that—
+
+- (a) is made in relation to a person on or after 7th March 2016, and
+- (b) relates to any functions to which a warning notice or decision notice given to the person before that date in respect of the order related,
+
+from describing, or referring to, those functions in a different way from the way in which they were described or referred to in the notice.
+
+### 19. Power to impose penalties[^key-32b89a5d6c928c8cb66ac12321d1ce86]
+
+(1) Rules made by a regulator on or before 7th March 2016 which alter or replace a pre-implementation controlled function do not affect the power of a regulator to impose a penalty under section 63A (power to impose penalties)[^f00036] in respect of the performance of that controlled function before 7th March 2016.
+
+(2) Paragraph (3) applies in a case where—
+
+- (a) a controlled function (“the relevant function”) was, immediately before 7th March 2016, a controlled function of a description specified in rules made by the PRA, and
+- (b) on and after that date the equivalent function is a controlled function of a description specified in rules made by the FCA.
+
+(3) For the purposes of imposing a penalty under section 63A in respect of the performance of the relevant function at any time before 7th March 2016—
+
+- (a) both the FCA and the PRA are the appropriate regulator for the purposes of section 63A, and
+- (b) a warning notice or decision notice given by the PRA under section 63B (procedure and right to refer to Tribunal)[^f00037] before that date is to be treated on and after that date as also having been given by the FCA.
+
+(4) If under paragraph (3)(b) a warning notice is treated as given to a person by the PRA and the FCA, and that person has referred the matter to the Tribunal[^f00038] under section 63B(5) (procedure and right to refer to Tribunal), both the PRA and the FCA are entitled to become a party to any proceedings before the Tribunal resulting from that referral.
+
+## PART 6 — Miscellaneous
+
+### 20. Rules and requirements imposed by a regulator under this Order[^key-6ffd416482078841c949851a7f4e767f]
+
+(1) Requirements imposed by either regulator under this Order may make different provision for different cases.
+
+(2) Rules made under article 2 or 17—
+
+- (a) by the FCA are to be treated as if they were general rules made by the FCA under section 137A ((the FCA’s general rules)[^f00039];
+- (b) by the PRA are to be treated as if they were general rules made by the PRA under section 137G (the PRA’s general rules),
+
+and Part 9A of FSMA shall apply in relation to rules made under those articles.
+
+### 21. Giving of notices, documents etc under this Order[^key-4b4abfaf436f607706bba5e30826d07e]
+
+Regulations under section 414 (service of notices), and subsection (4) of that section, apply in relation to any notice, direction or document of any kind required to be given under any provision of this Order (however that requirement is expressed) as if those provisions were provisions of FSMA.
+
+### 22. Consultation[^key-15ddab0da065e0dc240f37f37cb2fb0e]
+
+(1) This article applies where any provision in Part 9A of FSMA imposes on either regulator, in connection with the making or issuing of any rules or other instrument or document under Part 5 of FSMA or under this Order—
+
+- (a) a requirement (however expressed) to publish a draft of the rules, instrument or other document with or without other material and to invite representations about it, or
+- (b) a requirement (however expressed) to consult particular persons.
+
+(2)[^key-3353ceb6320bd4903ff5541a59809eae] The requirement may be satisfied by things done (wholly or in part)—
+
+- (a) before the commencement of this Order, or
+- (b) where the rules, instrument or document relate (wholly or in part) to a person to whom this Order applies as a result of any amendment to this Order, before the date on which that amendment comes into force.
+
+### 23. Enforcement of this Order[^key-315122cf92bbdfe44bb65fbd58e216d4]
+
+A contravention of a requirement imposed by or under this Order is to be treated for the purposes of Part 14 of FSMA (disciplinary measures) as a contravention of a relevant requirement within the meaning of section 204A(2) (meaning of “relevant requirement” and “appropriate regulator”)[^f00040].
+
+Mark Lancaster
+
+Harriett Baldwin
+
+Two of the Lords Commissioners of Her Majesty’s Treasury
+
+4th March 2015
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order makes transitional and savings provisions in connection with the commencement of Part 4 of the Financial Services (Banking Reform) Act 2013 (the “2013 Act”), which makes amendments to Part 5 of the Financial Services and Markets Act 2000 (“FSMA”).
+
+Part 2 makes provision about people who, before 7th March 2016, have approval to perform a controlled function in relation to a firm that is authorised to carry on regulated activities.
+
+Article 2 makes provision about the conditions that must be met for a person who, before the 7<sup>th</sup> March 2016, has an approval to perform controlled functions in relation to a firm to continue to have approval on and after the 7th March 2016.
+
+Article 3 sets out additional conditions for the continuation of an approval.
+
+Article 4 makes provision about the treatment, on and after 7th March 2016, of a continuing approval for the purposes of Part 5 of FSMA. In particular, it specifies what functions the approval is to be treated as relating to.
+
+Article 5 confers power on either regulator to impose further requirements about the form and content of a notice given in accordance with article 2.
+
+Article 6 requires a notice given in accordance with article 2 (or any revision of that notice) to be updated if there is a change relating to information given in, or accompanying, the notice.
+
+Article 7 makes provision to an authorised person to apply for the regulators to impose a condition on a continuing approval (or, if a condition has already been imposed, to vary or remove that condition).
+
+Article 8 requires that a statement of management responsibilities given under article 2 must be updated if there is any significant change in those responsibilities after 7th March 2016.
+
+Article 9 ensures that any steps taken by either regulator before 7th March 2016 in connection with the withdrawal of an approval continue to have effect on and after 7th March 2016.
+
+Part 3 make provision in relation to applications for approval to perform controlled functions which have not been finally determined or withdrawn before 7th March 2016.
+
+Article 10 suspends the period of time which the regulators have to consider such an application until the firm making the application has provided to the regulators a notice in accordance with article 11.
+
+Article 11 sets out the conditions for the continuation of an application on and after 7th March 2016, including provision of a notice referred to in article 10.
+
+Article 12 makes provision for the treatment of an application that continues on and after 7th March 2016. In particular, it specifies what functions the application is to be treated as relating to.
+
+Article 13 confers power on either regulator to impose further requirements about the form and content of an article 13 notice.
+
+Article 14 requires a notice given in accordance with article 11 to be updated if there is a change relating to information given in, or accompanying, the notice.
+
+Article 15 requires that a statement of responsibilities given under article 11 must be updated if there is any significant change in those responsibilities after 7th March 2016.
+
+Article 16 allows the PRA or the FCA, when determining an application which continues after 7th March 2016, to have regard to anything they could have had regard to if the application had been made on or after that date.
+
+Part 4 confers powers on the regulators for the purposes of this Order. Article 17 allows the regulators to specify which controlled functions that are specified on or after 7th March 2016 are, for the purposes of this Order, to be treated as equivalent to controlled functions that are specified before 7th March 2016.
+
+Part 5 makes provision about the enforcement powers of the regulators under FSMA.
+
+Article 18 provides that amendments made by the Financial Services (Banking Reform) Act 2013 to section 59 of FSMA (or any rules made by the regulators). do not affect any prohibition made by either regulator before 7th March 2016 (and makes similar provision in relation to warning, decision and final notices given by a regulator in connection with a prohibition).
+
+Article 20 ensures that the regulators’ powers to impose a penalty on a person for performing a controlled function without approval before 7th March 2016 is not affected by any rules made by the regulator which alter or replace the controlled function in question.
+
+Part 6 contains miscellaneous provisions.
+
+This Order will have no effect on the costs of business and the voluntary sector. For that reason, no impact assessment has been produced for this instrument.
+
+## Annotations
+
+[^f00001]: Footnote: [2013 c.33](https://www.legislation.gov.uk/ukpga/2013/33) (the “2013 Act”).
+
+[^key-9b076e62d7b2a97a73040a9536bf4d37]: Commencement: Art. 1 in force at 26.3.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/492/article/1/1)
+
+[^f00002]: Footnote: Section 59 was amended by the Financial Services Act [2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), section 14(1) and Schedule 5, paragraphs 1, 3; the 2013 Act, section 18 and 35, and [S.I. 2012/1906](https://www.legislation.gov.uk/uksi/2012/1906), articles 3, 4. Subsection (7C) was inserted by [S.I. 2013/1773](https://www.legislation.gov.uk/uksi/2013/1773).
+
+[^key-a3e417ca653637b2b7800e62ac89dbcc]: Textual amendment: Words in [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/492/article/1/2) omitted (1.10.2015) by virtue of [The Financial Services (Banking Reform) Act 2013 (Transitional and Savings Provisions) (Amendment) Order 2015 (S.I. 2015/1660)](https://www.legislation.gov.uk/uksi/2015/1660), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2015/1660/article/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2015/1660/article/3/2)
+
+[^f00004]: Footnote: “relevant authorised person” is defined in section 71A.
+
+[^key-ae41ec430a5a3776ebbc0afdfd97a4ae]: Textual amendment: Words in [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/492/article/1/2) substituted (1.10.2015) by [The Financial Services (Banking Reform) Act 2013 (Transitional and Savings Provisions) (Amendment) Order 2015 (S.I. 2015/1660)](https://www.legislation.gov.uk/uksi/2015/1660), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2015/1660/article/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2015/1660/article/3/3)
+
+[^f00008]: Footnote: Subsection (3) was substituted by the Financial Services Act [2012 (c. 81)](https://www.legislation.gov.uk/ukpga/2012/81), section 14(1), together with subsections (4) to (7B), for subsections (3) to (7) as originally enacted.
+
+[^f00009]: Footnote: Subsections (6A) and (6B) are inserted by the 2013 Act (c. 33), section 18.
+
+[^f00010]: Footnote: [2000 c.8](https://www.legislation.gov.uk/ukpga/2000/8).
+
+[^key-ce57cd6cbcf84023e5141bcc30e6d7ad]: Textual amendment: Words in [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/492/article/1/2) inserted (1.10.2015) by [The Financial Services (Banking Reform) Act 2013 (Transitional and Savings Provisions) (Amendment) Order 2015 (S.I. 2015/1660)](https://www.legislation.gov.uk/uksi/2015/1660), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2015/1660/article/1/1), [3(4)](https://www.legislation.gov.uk/uksi/2015/1660/article/3/4)
+
+[^f00011]: Footnote: “regulator” is defined in section 417.
+
+[^f00012]: Footnote: “authorised person concerned” is defined in section 60(6).
+
+[^f00013]: Footnote: Section 60 was amended by the Financial Services Act [2012 (c.81)](https://www.legislation.gov.uk/ukpga/2012/81), Schedule 5, paragraphs 1, 4; and the 2013 Act, section 20.
+
+[^key-aed657594b38285c2bc905a09f89378d]: Textual amendment: Words in [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/492/article/1/2) omitted (1.10.2015) by virtue of [The Financial Services (Banking Reform) Act 2013 (Transitional and Savings Provisions) (Amendment) Order 2015 (S.I. 2015/1660)](https://www.legislation.gov.uk/uksi/2015/1660), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2015/1660/article/1/1), [3(5)](https://www.legislation.gov.uk/uksi/2015/1660/article/3/5)
+
+[^f00014]: Footnote: OJ L 335, 17.12.2009, p1.
+
+[^f00015]: Footnote: [1972 c.68](https://www.legislation.gov.uk/ukpga/1972/68). Section 2(2) was amended by section 27 of the Legislative and Regulatory Reform Act [2006 (c.51)](https://www.legislation.gov.uk/ukpga/2006/51) and by section 3 of, and the Schedule to, the European Union (Amendment) Act [2008 (c.7)](https://www.legislation.gov.uk/ukpga/2008/7).
+
+[^key-7be2a8bae3b8282560e573dd98404399]: Commencement: Art. 2 in force at 26.3.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/492/article/1/1)
+
+[^f00016]: Footnote: “controlled function” is defined in section 59.
+
+[^f00017]: Footnote: “relevant authorised person” is defined in section 71A. Section 71A is inserted by the 2013 Act, section 33.
+
+[^key-c68c5de8a41408815ce415bb41181fc8]: Commencement: Art. 3 in force at 26.3.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/492/article/1/1)
+
+[^key-7683ffe9117dbf21c38cc32cf31f1562]: Commencement: Art. 4 in force at 26.3.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/492/article/1/1)
+
+[^f00018]: Footnote: Section 66 was amended by the Financial Services Act [2010 (c. 28)](https://www.legislation.gov.uk/ukpga/2010/28), section 12, section 24 and Schedule 2, Part 1, paragraphs 1,8; the Financial Services Act [2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), Schedule 5, paragraphs 1, 14; [S.I. 2013/1773](https://www.legislation.gov.uk/uksi/2013/1773), Schedule 1, Part 1, Paragraphs 7, 8; and the 2013 Act, section 28, 32 and Schedule 3, paragraph 5.
+
+[^f00019]: Footnote: Section 66(3)(ab) is substituted together with subsection (ac) for section 66(3)(ab) by the 2013 Act, Schedule 3, paragraph 5.
+
+[^f00020]: Footnote: Section 63 is amended by the Financial Services Act [2012 (c. 81)](https://www.legislation.gov.uk/ukpga/2012/81), section 14(3) and Schedule 5, paragraphs 1, 7; and the 2013 Act, section 25 and Schedule 3, paragraph 3.
+
+[^f00021]: Footnote: Section 63B was amended by the Financial Services Act [2012 (c.81)](https://www.legislation.gov.uk/ukpga/2012/81), Schedule 5, paragraphs 1, 9.
+
+[^f00022]: Footnote: Section 67 was amended by the Financial Services Act [2010 (c. 28)](https://www.legislation.gov.uk/ukpga/2010/28), section 24 and Schedule 2, Part 1, paragraphs 1, 9; the Financial Services Act [2012 (c. 81)](https://www.legislation.gov.uk/ukpga/2012/81), Schedule 5, paragraphs 1, 15; and the 2013 Act, Schedule 3, paragraph 6.
+
+[^key-3cbdc3ec51055286aecd63cf3b7ea6ae]: Commencement: Art. 5 in force at 26.3.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/492/article/1/1)
+
+[^key-b6acfd43328f9e5baae6fe1f5c5660d9]: Commencement: Art. 6 in force at 26.3.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/492/article/1/1)
+
+[^key-e3385085e05a582433d688c227331831]: Commencement: Art. 7 in force at 26.3.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/492/article/1/1)
+
+[^f00023]: Footnote: Section 63ZA is inserted together with sections 63ZB and 63ZC by the 2013 Act, section 26.
+
+[^f00024]: Footnote: For the purposes of section 63ZA, “appropriate regulator” is defined in section 63ZA(2).
+
+[^key-add010c6a6f041bb47ae670ff191d9ae]: Commencement: Art. 8 in force at 26.3.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/492/article/1/1)
+
+[^f00025]: Footnote: Section 62A is inserted by the 2013 Act (c. 33), section 24.
+
+[^key-8e75ff88a8df3f51472b76fd0c40a0a9]: Commencement: Art. 9 in force at 26.3.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/492/article/1/1)
+
+[^key-26d2522445ddda1a673d154c1ea20128]: Commencement: Art. 10 in force at 26.3.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/492/article/1/1)
+
+[^key-7aaf3b0b972bd46dda91a6128e890bfa]: Textual amendment: [Art. 10](https://www.legislation.gov.uk/uksi/2015/492/article/10/1) renumbered as art. 10(1) (1.10.2015) by [The Financial Services (Banking Reform) Act 2013 (Transitional and Savings Provisions) (Amendment) Order 2015 (S.I. 2015/1660)](https://www.legislation.gov.uk/uksi/2015/1660), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2015/1660/article/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2015/1660/article/4/2)
+
+[^f00026]: Footnote: Section 60(9) was added, together with subsections (7) and (8) by the Financial Services Act [2012 (c.81)](https://www.legislation.gov.uk/ukpga/2012/81), Schedule 5, paragraphs 1, 4.
+
+[^f00027]: Footnote: Section 61(3A) was inserted by the Financial Services Act [2012 (c.21)](https://www.legislation.gov.uk/ukpga/2012/21), Schedule 5, paragraphs 1, 5.
+
+[^key-2e5b82e1c181a042c4bf28a66060b6d7]: Textual amendment: [Art. 10(2)(3)](https://www.legislation.gov.uk/uksi/2015/492/article/10/2) inserted (1.10.2015) by [The Financial Services (Banking Reform) Act 2013 (Transitional and Savings Provisions) (Amendment) Order 2015 (S.I. 2015/1660)](https://www.legislation.gov.uk/uksi/2015/1660), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2015/1660/article/1/1), [4(3)](https://www.legislation.gov.uk/uksi/2015/1660/article/4/3)
+
+[^key-657c7586a024ed1796dad4d3da35cdd0]: Textual amendment: [Arts. 10A](https://www.legislation.gov.uk/uksi/2015/492/article/10A), [10B](https://www.legislation.gov.uk/uksi/2015/492/article/10B) inserted (1.10.2015) by [The Financial Services (Banking Reform) Act 2013 (Transitional and Savings Provisions) (Amendment) Order 2015 (S.I. 2015/1660)](https://www.legislation.gov.uk/uksi/2015/1660), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2015/1660/article/1/1), [5](https://www.legislation.gov.uk/uksi/2015/1660/article/5)
+
+[^key-94510b2dbef720c689e8bdaac532d81c]: Commencement: Art. 11 in force at 26.3.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/492/article/1/1)
+
+[^key-3f5751ffb287040cd8107537ce8aa249]: Commencement: Art. 12 in force at 26.3.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/492/article/1/1)
+
+[^key-3253220f1620f19c160c8473c05b5129]: Textual amendment: Word in [art. 12(1)(a)](https://www.legislation.gov.uk/uksi/2015/492/article/12/1/a) inserted (1.10.2015) by [The Financial Services (Banking Reform) Act 2013 (Transitional and Savings Provisions) (Amendment) Order 2015 (S.I. 2015/1660)](https://www.legislation.gov.uk/uksi/2015/1660), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2015/1660/article/1/1), [6](https://www.legislation.gov.uk/uksi/2015/1660/article/6)
+
+[^f00028]: Footnote: Section 60 was amended by the Financial Services Act 2012, section 15 and Schedule 5, paragraphs 1, 4 and the 2013 Act, section 20.
+
+[^f00029]: Footnote: Section 62 was amended by the Financial Services Act 2012, section 15 and Schedule 5, paragraphs 1, 6 and the 2013 Act, section 23(7).
+
+[^key-0871f2d60d67300f4f41de59999e7891]: Commencement: Art. 13 in force at 26.3.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/492/article/1/1)
+
+[^key-bf60c26784cfe3518e48612d3054e8ca]: Commencement: Art. 14 in force at 26.3.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/492/article/1/1)
+
+[^key-0fe6ff5f8057de7d7ecd503fab7e4889]: Commencement: Art. 15 in force at 26.3.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/492/article/1/1)
+
+[^f00030]: Footnote: Section 62A is inserted by the 2013 Act (c. 33), section 24.
+
+[^f00031]: Footnote: Section 60(2A) is inserted together with subsections (2B) and (2C) by the 2013 Act, section 20.
+
+[^key-c7c2e5ff3c304bf5bfb92d628e609978]: Commencement: Art. 16 in force at 26.3.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/492/article/1/1)
+
+[^key-3d071718f766aef5ca440bbfa0c97496]: Commencement: Art. 17 in force at 26.3.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/492/article/1/1)
+
+[^key-0c09527df64cb7b15d7748339d234bdf]: Commencement: Art. 18 in force at 26.3.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/492/article/1/1)
+
+[^f00032]: Footnote: Section 57 was amended by the Financial Services Act [2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), section 13.
+
+[^f00033]: Footnote: Section 390 was amended by the Financial Services Act 2012, section 37 and Schedule 9, Part 1, paragraph 1, Part 6, paragraph 29; [S.I. 2010/22](https://www.legislation.gov.uk/uksi/2010/22), article 5 and Schedule 2, paragraphs 43, 47.
+
+[^f00034]: Footnote: Section 56 was amended by the Financial Services Act 2012, section 13.
+
+[^f00035]: Footnote: [2013 c.33](https://www.legislation.gov.uk/ukpga/2013/33).
+
+[^key-32b89a5d6c928c8cb66ac12321d1ce86]: Commencement: Art. 19 in force at 26.3.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/492/article/1/1)
+
+[^f00036]: Footnote: Section 63A was inserted by the Financial Services Act [2010 (c. 28)](https://www.legislation.gov.uk/ukpga/2010/28), section 11, and amended by the Financial Services Act 2012, section 15 and Schedule 5, paragraphs 1, 8 and the 2013 Act, section 28 and Schedule 3, paragraph 4.
+
+[^f00037]: Footnote: Section 63B was inserted by the Financial Services Act [2010 (c. 28)](https://www.legislation.gov.uk/ukpga/2010/28), section 11.
+
+[^f00038]: Footnote: “the tribunal” is defined in section 417.
+
+[^key-6ffd416482078841c949851a7f4e767f]: Commencement: Art. 20 in force at 26.3.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/492/article/1/1)
+
+[^f00039]: Footnote: Section 137A was inserted, together with sections 137B to 137T and the rest of Part 9A, by the Financial Services Act [2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), section 24.
+
+[^key-4b4abfaf436f607706bba5e30826d07e]: Commencement: Art. 21 in force at 26.3.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/492/article/1/1)
+
+[^key-15ddab0da065e0dc240f37f37cb2fb0e]: Commencement: Art. 22 in force at 26.3.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/492/article/1/1)
+
+[^key-3353ceb6320bd4903ff5541a59809eae]: Textual amendment: [Art. 22(2)](https://www.legislation.gov.uk/uksi/2015/492/article/22/2) substituted (1.10.2015) by [The Financial Services (Banking Reform) Act 2013 (Transitional and Savings Provisions) (Amendment) Order 2015 (S.I. 2015/1660)](https://www.legislation.gov.uk/uksi/2015/1660), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2015/1660/article/1/1), [7](https://www.legislation.gov.uk/uksi/2015/1660/article/7)
+
+[^key-315122cf92bbdfe44bb65fbd58e216d4]: Commencement: Art. 23 in force at 26.3.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/492/article/1/1)
+
+[^f00040]: Footnote: Section 204A was inserted by the Financial Services Act [2012 (c.21)](https://www.legislation.gov.uk/ukpga/2012/21), Schedule 9, paragraph 10 and amended by [S.I. 2013/1773](https://www.legislation.gov.uk/uksi/2013/1773).

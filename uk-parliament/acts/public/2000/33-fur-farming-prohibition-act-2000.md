@@ -1,0 +1,167 @@
+---
+title: Fur Farming (Prohibition) Act 2000
+id: ukpga/2000/33
+type: UnitedKingdomPublicGeneralAct
+category: primary
+status: revised
+made_date: '2000-11-23'
+text_date: '2015-03-12'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/2000/33
+pdf_urls:
+- http://www.legislation.gov.uk/ukpga/2000/33/pdfs/ukpgaen_20000033_en.pdf
+- http://www.legislation.gov.uk/ukpga/2000/33/pdfs/ukpga_20000033_en.pdf
+- http://www.legislation.gov.uk/ukpga/2000/33/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Fur Farming (Prohibition) Act 2000
+
+> Text as at 2015-03-12.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+Fur Farming (Prohibition) Act 2000
+
+2000 c. 33
+
+An Act to prohibit the keeping of animals solely or primarily for slaughter for the value of their fur; to provide for the making of payments in respect of the related closure of certain businesses; and for connected purposes.
+
+\[23rd November 2000\]
+
+Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
+
+## 1. Offences relating to fur farming.
+
+(1) A person is guilty of an offence if he keeps animals solely or primarily—
+
+- (a) for slaughter (whether by himself or another) for the value of their fur, or
+- (b) for breeding progeny for such slaughter.
+
+(2) A person is guilty of an offence if he knowingly causes or permits another person to keep animals as mentioned in subsection (1).
+
+(3) The references in this section to keeping animals for slaughter or to breeding progeny for slaughter include keeping or (as the case may be) breeding them for sale for slaughter.
+
+(4) A person who is guilty of an offence under subsection (1) or subsection (2) is liable on summary conviction to a fine[^key-e8b3060184e2b21dc9be0a3f41c35423].
+
+## 2. Forfeiture orders.
+
+(1) If a person is convicted of an offence under section 1(1) in respect of animals of a particular description, the court may make a forfeiture order in respect of any animals of that description which are kept by that person when the order is made or which come into his keeping during the relevant period.
+
+(2) If a person is convicted of an offence under section 1(2) in respect of animals of a particular description kept by another person, the court may make a forfeiture order in respect of any animals of that description which are kept by that other person when the order is made or which come into his keeping during the relevant period.
+
+(3) For the purposes of this Act, a forfeiture order is an order for the forfeiture and destruction or other disposal of the animals to which the order applies (including any subsequent progeny of those animals).
+
+(4) The court may make a forfeiture order whether or not it also deals with the offender in respect of the offence in any other way.
+
+(5) Where—
+
+- (a) the court proposes to make a forfeiture order, and
+- (b) a person claiming to have an interest in the animals concerned applies to be heard by the court,
+
+the court shall not make the order unless that person has been given an opportunity to show cause why the order should not be made.
+
+(6) In this section “**relevant period**” means the period beginning with the making of the forfeiture order and ending with the destruction or other disposal of the animals in pursuance of the order.
+
+## 3. Effect of forfeiture orders.
+
+(1) A forfeiture order operates in relation to the forfeiture of animals so as to deprive any person of his rights in those animals.
+
+(2) Any person claiming to have an interest in the animals concerned may appeal against a forfeiture order to the Crown Court.
+
+(3) Where the court makes a forfeiture order, it may in particular—
+
+- (a) appoint a person to carry out the order,
+- (b) impose requirements on any person in relation to the keeping of the animals concerned pending their destruction or other disposal,
+- (c) order the offender to pay such sum as the court may determine in respect of the reasonable expenses of carrying out the order and, where he does not keep the animals himself, of keeping them pending their destruction or other disposal,
+- (d) make such provision as the court considers appropriate in relation to the operation of the order pending the making or determination of any appeal or application relevant to the order.
+
+(4) Any sum ordered to be paid under subsection (3)(c) shall be treated for the purposes of enforcement as if it were a fine imposed on conviction.
+
+## 4. Powers of entry and enforcement.
+
+(1) A person authorised in writing by the appropriate authority (whether generally or in a particular case) may at any reasonable time enter any premises on which he has reasonable grounds for suspecting that an offence under section 1(1) has been or is being committed and may inspect the premises and any animals or things found there.
+
+(2) A person appointed by the court under section 3(3)(a) to carry out a forfeiture order may at any reasonable time enter any premises on which he has reasonable grounds for suspecting that animals to which the order applies are being kept, and carry out the order.
+
+(3) A person seeking to enter any premises in the exercise of his powers under subsection (1) or (2) shall, if required by or on behalf of the owner or occupier or person in charge of the premises, produce evidence of his identity, and of his authority or (as the case may be) appointment, before entering.
+
+(4) A person who has entered any premises in the exercise of his powers under subsection (1) or (2) shall, if required as mentioned in subsection (3), state in writing his reasons for entering.
+
+(5) A person is guilty of an offence if he intentionally obstructs or delays any person in the exercise of his powers under subsection (1) or (2).
+
+(6) A person who is guilty of an offence under subsection (5) is liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+
+(7) In this section—
+
+- “**premises**” includes any place but not any private dwelling, and
+- “**private dwelling**” means any premises for the time being used as a private dwelling excluding any garage, outhouse or other structure (whether or not forming part of the same building as the premises) which belongs to or is usually enjoyed with the premises.
+
+## 5. Compensation for existing businesses.
+
+(1) The appropriate authority may (and, in the case of the Secretary of State[^c887089], shall) by order make a scheme for the making of payments by that authority to persons in respect of income and non-income losses incurred by them as a result of ceasing, by reason of the enactment or coming into force of section 1, to carry on their businesses so far as they consist of activities prohibited by that section.
+
+(2) A scheme shall, in particular, specify—
+
+- (a) the description or descriptions of income losses and the description or descriptions of non-income losses in respect of which payments are to be made, and
+- (b) the description or descriptions of businesses in respect of which payments are to be made,
+
+but need not provide for the making of payments in respect of all income losses or all non-income losses or (as the case may be) in respect of all businesses.
+
+(3) A scheme shall also, in particular—
+
+- (a) specify the basis or bases of valuation for determining losses,
+- (b) specify the amounts of the payments to be made or the basis or bases on which such amounts are to be calculated,
+- (c) provide for the procedure to be followed (including the time within which claims must be made and the provision of information) in respect of claims under the scheme and for the determination of such claims.
+
+(4) Before making a scheme under this section, the appropriate authority shall consult such persons as appear to it to be likely to be entitled to payments under such a scheme and such organisations as appear to it to represent such persons.
+
+(5) Subsection (6) applies to any dispute as to a person’s entitlement to payments under a scheme or the amounts of any such payments which—
+
+- (a) has not been resolved within nine months of the day on which the original decision as to entitlement or amounts was notified in writing to the person concerned by the appropriate authority, and
+- (b) has not been referred by agreement to arbitration.
+
+(6) The dispute shall be referred by the appropriate authority to, and determined by, the Upper Tribunal[^key-85837c2c7173dad2eafac00983f20ad9].
+
+(7) An order under this section shall be made by statutory instrument which, except in the case of an instrument made by the National Assembly for Wales, shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+(8) In this section—
+
+- “**income losses**” means losses of income, and
+- “**non-income losses**” means losses other than income losses.
+
+## 6. Interpretation.
+
+In this Act “**the appropriate authority**” means—
+
+- (a) in relation to England, the Secretary of State[^c887090], and
+- (b) in relation to Wales, the National Assembly for Wales.
+
+## 7. Short title, commencement and extent.
+
+(1) This Act may be cited as the Fur Farming (Prohibition) Act 2000.
+
+(2)[^c887092] Sections 1 to 4 shall come into force on such day as the Secretary of State[^c887093] may by order made by statutory instrument appoint; but no day before 1st January 2003 shall be appointed.
+
+(3) Section 5 shall come into force at the end of the period of two months beginning with the day on which this Act is passed.
+
+(4) This Act extends to England and Wales only.
+
+## Annotations
+
+[^key-e8b3060184e2b21dc9be0a3f41c35423]: Textual amendment: Words in s. 1(4) substituted (12.3.2015) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 4 para. 29](https://www.legislation.gov.uk/uksi/2015/664/schedule/4/paragraph/29) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))
+
+[^c887089]: Textual amendment: Words in s. 5(1) substituted (27.3.2002) by [S.I. 2002/794](https://www.legislation.gov.uk/uksi/2002/794), [art. 5(1)](https://www.legislation.gov.uk/uksi/2002/794/article/5/1), [Sch. 1 para 40](https://www.legislation.gov.uk/uksi/2002/794/schedule/1/paragraph/40) (with arts. 5(3), (6))
+
+[^key-85837c2c7173dad2eafac00983f20ad9]: Textual amendment: Words in [s. 5(6)](https://www.legislation.gov.uk/ukpga/2000/33/section/5/6) substituted (1.6.2009) by [The Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 (S.I. 2009/1307)](https://www.legislation.gov.uk/uksi/2009/1307), [art. 1](https://www.legislation.gov.uk/uksi/2009/1307/article/1), [Sch. 1 para. 268](https://www.legislation.gov.uk/uksi/2009/1307/schedule/1/paragraph/268) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2009/1307/schedule/5))
+
+[^c887090]: Textual amendment: Words in [S. 6(a)](https://www.legislation.gov.uk/ukpga/2000/33/section/6/a) substituted (27.3.2002) by [S.I. 2002/794](https://www.legislation.gov.uk/uksi/2002/794), [art. 5(1)](https://www.legislation.gov.uk/uksi/2002/794/article/5/1), [Sch. 1 para. 41](https://www.legislation.gov.uk/uksi/2002/794/schedule/1/paragraph/41) (with [arts. 5(3)](https://www.legislation.gov.uk/uksi/2002/794/article/5/3), [6](https://www.legislation.gov.uk/uksi/2002/794/article/6))
+
+[^c887092]: Subordinate legislation: [S. 7(2)](https://www.legislation.gov.uk/ukpga/2000/33/section/7/2) power partly exercised: 1.1.2003 appointed for specified provisions by [S.I. 2001/3854](https://www.legislation.gov.uk/uksi/2001/3854), [art. 2](https://www.legislation.gov.uk/uksi/2001/3854/article/2)
+
+[^c887093]: Textual amendment: Words in [s. 7(2)](https://www.legislation.gov.uk/ukpga/2000/33/section/7/2) substituted (27.3.2002) by [S.I. 2002/794](https://www.legislation.gov.uk/uksi/2002/794), [art. 5(1)](https://www.legislation.gov.uk/uksi/2002/794/article/5/1), [Sch. 1 para. 42](https://www.legislation.gov.uk/uksi/2002/794/schedule/1/paragraph/42) (with [arts. 5(3)](https://www.legislation.gov.uk/uksi/2002/794/article/5/3), [6](https://www.legislation.gov.uk/uksi/2002/794/article/6))

@@ -1,0 +1,54 @@
+---
+title: Trade Marks Act 1994, section 21B
+act: Trade Marks Act 1994
+section: 21B
+status: revised
+text_date: '2025-07-10'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/1994/26/section/21B
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Trade Marks Act 1994, section 21B
+
+> Text as at 2025-07-10.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 21B. Permitted communications[^key-0a6bb98b6839e4cca75c7e192e6fa27d]
+
+*Extent: E+W+S+N.I.*
+
+(1) For the purposes of section 21A(6), a communication containing a threat of infringement proceedings is a “permitted communication” if—
+
+- (a) the communication, so far as it contains information that relates to the threat, is made for a permitted purpose;
+- (b) all of the information that relates to the threat is information that—
+  - (i) is necessary for that purpose (see subsection (5)(a) to (c) for some examples of necessary information), and
+  - (ii) the person making the communication reasonably believes is true.
+
+(2) Each of the following is a “permitted purpose”—
+
+- (a) giving notice that a registered trade mark exists;
+- (b) discovering whether, or by whom, a registered trade mark has been infringed by an act mentioned in section 21A(2)(a), (b) or (c);
+- (c) giving notice that a person has a right in or under a registered trade mark, where another person's awareness of the right is relevant to any proceedings that may be brought in respect of the registered trade mark.
+
+(3) The court may, having regard to the nature of the purposes listed in subsection (2)(a) to (c), treat any other purpose as a “permitted purpose” if it considers that it is in the interests of justice to do so.
+
+(4) But the following may not be treated as a “permitted purpose”—
+
+- (a) requesting a person to cease using, in the course of trade, a sign in relation to goods or services,
+- (b) requesting a person to deliver up or destroy goods, or
+- (c) requesting a person to give an undertaking relating to the use of a sign in relation to goods or services.
+
+(5) If any of the following information is included in a communication made for a permitted purpose, it is information that is “necessary for that purpose” (see subsection (1)(b)(i))—
+
+- (a) a statement that a registered trade mark exists and is in force or that an application for the registration of a trade mark has been made;
+- (b) details of the registered trade mark, or of a right in or under the registered trade mark, which—
+  - (i) are accurate in all material respects, and
+  - (ii) are not misleading in any material respect; and
+- (c) information enabling the identification of the goods or their packaging, or the services, in relation to which it is alleged that the use of a sign constitutes an infringement of the registered trade mark.
+
+## Annotations
+
+[^key-0a6bb98b6839e4cca75c7e192e6fa27d]: Textual amendment: Ss. 21-21F and cross-heading substituted for s. 21 (1.10.2017) by [Intellectual Property (Unjustified Threats) Act 2017 (c. 14)](https://www.legislation.gov.uk/ukpga/2017/14), [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2017/14/section/2/2), [8](https://www.legislation.gov.uk/ukpga/2017/14/section/8); [S.I. 2017/771](https://www.legislation.gov.uk/uksi/2017/771), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2017/771/regulation/2/1/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/771/regulation/3))

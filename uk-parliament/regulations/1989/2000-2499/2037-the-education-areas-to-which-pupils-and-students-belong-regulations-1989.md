@@ -1,0 +1,221 @@
+---
+title: The Education (Areas to which Pupils and Students Belong) Regulations 1989
+id: uksi/1989/2037
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '1989-11-06'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1989/2037
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1989/2037/pdfs/uksi_19892037_en.pdf
+- http://www.legislation.gov.uk/uksi/1989/2037/made/data.pdf
+pending_changes: 6
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Education (Areas to which Pupils and Students Belong) Regulations 1989
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+1989 No. 2037
+
+EDUCATION, ENGLAND AND WALES
+
+The Education (Areas to which Pupils and Students Belong) Regulations 1989
+
+Made
+
+6th November 1989
+
+Laid before Parliament
+
+8th November 1989
+
+Coming into force
+
+1st April 1990
+
+In exercise of the powers conferred on the Secretary of State by sections 35(4) and 38(5) of the Education Act 1980[^f00001] and section 51(1) and (10) of the Education (No. 2) Act 1986[^f00002], the Secretary of State for Education and Science, as respects England, and the Secretary of State for Wales, as respects Wales, hereby make the following Regulations:—
+
+## 1. Citation and Commencement
+
+These Regulations may be cited as the Education (Areas to which Pupils and Students Belong) Regulations 1989 and shall come into force on 1st April 1990.
+
+## 2. Interpretation
+
+In these Regulations—
+
+- (a) “the Act” means the Education (No. 2) Act 1986; “further education” has the meaning assigned to it by section 41 of the Education Act 1944[^f00003]; “further education student” means a pupil in respect of whom provision for further education is made; “higher education” has the meaning assigned to it by section 120(1) of the Education Reform Act 1988[^f00004]; “hospital” includes a nursing home or other establishment (not being a school) for the care of persons who are sick or disabled (including pupils whose sickness or disability makes special educational provision requisite) and, in relation to such an establishment, “patient” includes any sick or disabled person cared for therein; “provision for education” shall be construed according to section 51(7) of the Act read with section 82(4) and (5) of the Education Reform Act 1988; “school pupil” means a pupil in respect of whom provision for primary or secondary education is made and includes a pupil for whom such provision is made otherwise than at a school and a pupil for whom special educational provision is made; “special educational provision” has the meaning assigned to it by section 1 of the Education Act 1981[^f00005];
+- (b) references to the place where a person is ordinarily resident are references to the address where that person is habitually and normally resident apart from temporary or occasional absences; and
+- (c) references to the person responsible for a pupil are to the parent or other person in England or Wales with whom the pupil ordinarily resides (or, when there is no such person, who has care of him) when he is not attending school or in hospital.
+
+## 3. Revocation of previous regulations
+
+The Regulations referred to in the Schedule hereto are hereby revoked.
+
+## 4. General principle
+
+Subject to the following provisions of these Regulations—
+
+- (a) a school pupil or full-time further education student shall be treated as belonging to the area of the local education authority in which he is ordinarily resident or, where he has no ordinary residence, the area of the authority in which he is for the time being resident; and
+- (b) a part-time further education student shall be treated as belonging to the area of the local education authority in which he was resident at the beginning of the current year of his course.
+
+## 5. Special cases Boarding school pupils
+
+(1) This regulation shall apply in the case of a pupil other than one for whom a statement of special educational needs is maintained under the Education Act 1981, who attends a boarding school as a boarder, where—
+
+- (a) the school is maintained by a local education authority or is a grant-maintained school, or
+- (b) he so attends pursuant to arrangements made by such an authority undersection 6 of the Education (Miscellaneous Provisions) Act 1953[^f00006], or
+- (c) any fees or expenses which are related to his attendance are paid, in whole or in part, by such an authority under regulations for the time being in force under section 81 of the Education Act 1944[^f00007].
+
+(2) Such a pupil shall, irrespective of whether he commenced boarding at the school before or after the coming into force of these Regulations, be treated, for so long as he is a boarder at the school, as belonging to the area of the local education authority—
+
+- (a) who placed him at the school or give him financial assistance in respect of his attendance there, or, where there is no such authority,
+- (b) who maintain the school or (in the case of a grant-maintained school) from whom sums are recoverable under section 81 of the Education Reform Act 1988 in respect of the school.
+
+## 6. School pupils boarded out
+
+(1) This regulation shall apply in the case of a school pupil who—
+
+- (a) is provided with boarding accommodation otherwise than at his school, in pursuance of section 50(1) of the Education Act 1944[^f00008]; and
+- (b) spends his holidays at that accommodation.
+
+(2) Where the person responsible for such a pupil is ordinarily resident in the area of a local education authority the pupil shall be treated as belonging to that area.
+
+(3) Where the person responsible for such a pupil is not so resident, the pupil shall be treated as belonging to the area of the local education authority which provides the said boarding accommodation.
+
+## 7. Boarding school pupils with special educational needs
+
+(1) This regulation shall apply in the case of a school pupil for whom a statement of special educational needs is maintained under the Education Act 1981, and who—
+
+- (a) attends a boarding school; and
+- (b) does not spend his holidays with the person responsible for him.
+
+(2) Where the person responsible for such a pupil is ordinarily resident in the area of a local education authority the pupil shall be treated as belonging to that area.
+
+(3) Where the person responsible for such a pupil is not so resident, the pupil shall be treated as belonging to the area of the local education authority which maintains the said statement.
+
+## 8. School pupils resident in hospital
+
+(1) This regulation shall apply in the case of a school pupil who receives education while residing as a patient in a hospital.
+
+(2) Where the person responsible for such a pupil is ordinarily resident in the area of a local education authority the pupil shall be treated as belonging to that area.
+
+(3) Where the person responsible for such a pupil is not so resident, the pupil shall be treated as belonging to the area to which he belonged immediately before he became a patient in the hospital.
+
+(4) Where the pupil did not belong to the area of any local education authority immediately before he became a patient in the hospital, he shall be treated as belonging to the area of the local education authority in which the hospital is situated.
+
+## 9. School pupils whose parents are resident outside England and Wales
+
+(1) This regulation shall apply in the case of a school pupil whose parents are either ordinarily resident, or for the time being resident, outside England and Wales, if the circumstances are such that subparagraph (a) or (b) of paragraph (2) applies.
+
+(2)
+
+- (a) Where the person responsible for such a pupil is ordinarily resident in the area of a local education authority, the pupil shall be treated as belonging to that area; and
+- (b) where that person is not so resident, the pupil shall be treated as belonging to the area of the local education authority where his parents (or either of them) were last ordinarily resident.Further education students becoming ordinarily resident for educational purposes
+
+**10.** (1) This regulation shall apply in the case of a student attending a course of full-time further education (his “current course”) who moved to become ordinarily resident in the area of a local education authority for the purpose of attending either his current course or such a previous course as is mentioned in paragraph (3).
+
+(2)
+
+- (a) Where immediately before so moving such a student was ordinarily resident in the area of another local education authority, he shall be treated as belonging to the area of that other authority for so long as he attends his current course; and
+- (b) where immediately before so moving such a student was not so resident, he shall be treated as belonging to the area of the authority in which he attends his current course.
+
+(3) The reference in paragraph (1) (and in regulation 11(1)) to a previous course is a reference to a full-time course of further education or higher education which, disregarding an intervening vacation, the student was attending immediately before commencing his current course.
+
+## 11. Further education students who change ordinary residence while attending courses
+
+(1) This regulation shall apply in the case of a student whose ordinary residence changes while he is attending a course of full-time further education (his “current course”) or such a previous course as is mentioned in regulation 10(3).
+
+(2) Where the student was treated as belonging to the area of a local education authority immediately before his change of ordinary residence (or would have been so treated had his previous course not been a course of higher education), he shall continue to be treated as belonging to that area for so long as he attends his current course.
+
+## 12. Further education students in receipt of awards
+
+(1) This regulation shall apply in the case of a student attending a course of full-time further education in respect of which he is granted an award by a local education authority (otherwise than pursuant to section 1 of the Education Act 1962[^f00009]) and shall so apply to the exclusion of any preceding regulation which would otherwise apply in his case.
+
+(2) The student shall be treated as belonging to the area of the authority by whom the award was granted so long as he attends the course in question.
+
+## 13. Further education students educated in hospitals
+
+(1) A further education student who has not attained the age of 19 years and who—
+
+- (a) is ordinarily resident in the area of a local education authority by reason only of his residing as a patient in a hospital in that area; and
+- (b) receives education at that hospital,shall be treated as belonging to the area of the local education authority in which he was ordinarily resident immediately before taking up residence in the hospital.
+
+(2) A further education student who has attained the age of 19 years and who receives education in a hospital in which he resides as a patient shall be treated as belonging to the area of the local education authority in which the hospital is situated.
+
+(3) This regulation shall apply to the exclusion of any preceding regulation which would otherwise apply to such a student.
+
+## 14. Pupils and students in local authority care
+
+(1) This regulation shall apply in the case of a school pupil or full-time further education student in the care of a local authority and shall so apply to the exclusion of any preceding regulation which would otherwise apply in his case.
+
+(2) Such a person shall be treated as belonging to the local education authority area which coincides with or includes the area of the local authority in whose care he is unless that authority has placed him with a foster parent in the area of another local authority in which event the pupil shall be treated as belonging to the area of that other authority.
+
+## 15. Pupils and students resident in refugee camps
+
+A school pupil or further education student who is for the time being resident in a camp or other accommodation or establishment provided for refugees or displaced or similar persons shall be treated as belonging to the area of the local education authority in whose area the camp, accommodation or establishment is sited.
+
+## 16. Period for claims for recoupment
+
+The period within which a claim for recoupment may be made under section 51 of the Act shall be 18 months after the end of the year in which the provision was made, being
+
+- (a) in the case of a school pupil a year ending with 31st March, and
+- (b) in the case of a further education student a year ending with 31st July.
+
+John MacGregor
+
+Secretary of State for Education and Science
+
+2nd November 1989
+
+Peter Walker
+
+Secretary of State for Wales
+
+6th November 1989
+
+## SCHEDULE — REGULATIONS WHICH ARE REVOKED BY THESE REGULATIONS
+
+Regulation 3
+
+- The Education (Areas to which Pupils belong) Regulations 1980 (S.I. [1980/917](https://www.legislation.gov.uk/uksi/1980/917)).
+- The Education (Areas to which Pupils belong) (Amendment) Regulations 1980 (S.I. [1980/1862](https://www.legislation.gov.uk/uksi/1980/1862)).
+- The Education (Areas to which Pupils belong) (Amendment) Regulations 1983 (S.I. [1983/260](https://www.legislation.gov.uk/uksi/1983/260)).
+
+This note is not part of the Regulation)
+
+These Regulations specify the circumstances in which school pupils and further education students are to be treated as belonging to particular areas for the purposes of certain provisions of the Education Acts. They supersede, as from 1st April 1990, the Education (Areas to which Pupils belong) Regulations 1980, as amended, which are revoked by regulation 3.
+
+The provisions to which the Regulations relate are—
+
+- (a) section 8(3)(d) of the Education Act 1980, which provides for the publication of school admission arrangements in respect of pupils not belonging to the area of the local education authority maintaining the schools; and
+- (b) section 51 of the Education (No. 2) Act 1986, which provides for recoupment between local education authorities in respect of provision for primary, secondary or further education made by one authority in respect of pupils belonging to the area of another.
+
+The main change from the 1980 Regulations is that all school pupils and further education students are to be treated as belonging to the area of a local education authority: there will no longer be any “no area pupils”. Regulation 4 lays down a general principle which applies in all cases other than those for which special provision is made in regulations 5 to 9 (school pupils), 10 to 13 (further education students) and 14 and 15 (pupils and students). As previously, these cases relate to boarding school pupils and pupils boarded out (regulations 5 to 7), school pupils and further education students in hospital (regulations 8 and 13), school pupils whose parents are resident outside England and Wales (regulation 9), further education students who move to become ordinarily resident in a particular area for educational purposes, or who change their ordinary residence (regulations 10 and 11) or who are in receipt of certain awards (regulation 12), and pupils and students in local authority care or who reside in accommodation provided for refugees or displaced persons (regulations 14 and 15).
+
+Regulation 16 prescribes the period within which a local education authority must make a claim in respect of the cost of providing education for a pupil belonging to the area of another such authority if they are to be entitled to recoup that cost.
+
+## Annotations
+
+[^f00001]: Footnote: [1980 c. 20](https://www.legislation.gov.uk/ukpga/1980/20).
+
+[^f00002]: Footnote: [1986 c. 61](https://www.legislation.gov.uk/ukpga/1986/61). For matters to be prescribed, see section 67(3) of the Education (No. 2) Act 1986 and section 114(1) of the Education Act [1944 (c. 31)](https://www.legislation.gov.uk/ukpga/1944/31) and for the transfer of functions to the Secretary of State see S.I. [1964/490](https://www.legislation.gov.uk/uksi/1964/490), [1970/1536](https://www.legislation.gov.uk/uksi/1970/1536) and [1978/274](https://www.legislation.gov.uk/uksi/1978/274).
+
+[^f00003]: Footnote: [1944 c. 31](https://www.legislation.gov.uk/ukpga/1944/31); section 41 was substituted by section 120(2) of the Education Reform Act [1988 (c. 40)](https://www.legislation.gov.uk/ukpga/1988/40).
+
+[^f00004]: Footnote: [1988 c. 40](https://www.legislation.gov.uk/ukpga/1988/40).
+
+[^f00005]: Footnote: [1981 c. 60](https://www.legislation.gov.uk/ukpga/1981/60).
+
+[^f00006]: Footnote: [1953 c. 33](https://www.legislation.gov.uk/ukpga/1953/33); section 6(1) was amended by Schedule 7 to the Education Act [1980 (c. 20)](https://www.legislation.gov.uk/ukpga/1980/20) and section 6(2) by paragraph 8(2) of Schedule 3 to the Education Act [1981 (c. 60)](https://www.legislation.gov.uk/ukpga/1981/60).
+
+[^f00007]: Footnote: [1944 c. 31](https://www.legislation.gov.uk/ukpga/1944/31); section 81 was amended by Part I of Schedule 12 to the Education Reform Act [1988 (c. 40)](https://www.legislation.gov.uk/ukpga/1988/40).
+
+[^f00008]: Footnote: [1944 c. 31](https://www.legislation.gov.uk/ukpga/1944/31); section 50(1) was amended by Part I of Schedule 2 to the Education Act [1946 (c. 50)](https://www.legislation.gov.uk/ukpga/1946/50), Part I of Schedule 1 to the Education (Miscellaneous Provisions) Act [1948 (c. 40)](https://www.legislation.gov.uk/ukpga/1948/40), paragraph 3 of Schedule 3 to the Education Act [1981 (c. 60)](https://www.legislation.gov.uk/ukpga/1981/60), and section 100(2) of and Part II of Schedule 13 to the Education Reform Act [1988 (c. 40)](https://www.legislation.gov.uk/ukpga/1988/40).
+
+[^f00009]: Footnote: [1962 c. 12](https://www.legislation.gov.uk/ukpga/1962/12); section 1 was substituted by section 19 of, and Schedule 5 to, the Education Act [1980 (c. 20)](https://www.legislation.gov.uk/ukpga/1980/20) and was amended by section 4 of the Education (Grants and Awards) Act [1984 (c. 11)](https://www.legislation.gov.uk/ukpga/1984/11).

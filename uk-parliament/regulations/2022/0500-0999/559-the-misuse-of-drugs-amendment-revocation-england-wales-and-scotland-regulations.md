@@ -1,0 +1,81 @@
+---
+title: The Misuse of Drugs (Amendment) (Revocation) (England, Wales and Scotland) Regulations 2022
+id: uksi/2022/559
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2022-05-17'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2022/559
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2022/559/pdfs/uksiem_20220559_en.pdf
+- http://www.legislation.gov.uk/uksi/2022/559/pdfs/uksi_20220559_en.pdf
+- http://www.legislation.gov.uk/uksi/2022/559/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Misuse of Drugs (Amendment) (Revocation) (England, Wales and Scotland) Regulations 2022
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2022 No. 559
+
+Dangerous Drugs
+
+The Misuse of Drugs (Amendment) (Revocation) (England, Wales and Scotland) Regulations 2022
+
+Made
+
+17th May 2022
+
+Laid before Parliament
+
+23rd May 2022
+
+Coming into force
+
+14th June 2022
+
+The Secretary of State makes the following Regulations in exercise of the powers conferred by sections 7(1)(a) and (b), 10(1), 22(1)(a) and 31(1)(a) of the Misuse of Drugs Act 1971[^f00001].
+
+In accordance with section 31(3) of that Act the Secretary of State has consulted the Advisory Council on the Misuse of Drugs.
+
+## 1. Citation, Commencement and Extent
+
+(1) These Regulations may be cited as the Misuse of Drugs (Amendment) (Revocation) (England, Wales and Scotland) Regulations 2022 and come into force on 14th June 2022.
+
+(2) These Regulations extend to England and Wales and Scotland.
+
+## 2. Revocation of the Misuse of Drugs (Amendment) (England, Wales and Scotland) Regulations 2021
+
+The Misuse of Drugs (Amendment) (England, Wales and Scotland) Regulations 2021[^f00002] are revoked.
+
+Kit Malthouse
+
+Minister of State
+
+Home Office
+
+17th May 2022
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations revoke the Misuse of Drugs (Amendment) (England, Wales and Scotland) Regulations 2021 ([S.I. 2021/1427](https://www.legislation.gov.uk/uksi/2021/1427)) (“**the 2021 Regulations**”).
+
+The 2021 Regulations removed regulation 4B of the Misuse of Drugs Regulations 2001 (“**the 2001 Regulations**”), that made it lawful to import, export, produce, supply, offer to supply or possess Gamma–butyrolactone (GBL) and 1,4–Butanediol (1,4-BD) in certain circumstances. The 2021 Regulations also added 1,4-Butanediol (1,4-BD) and Gamma-butyrolactone (GBL) to Schedule 1 to the 2001 Regulations. The Schedule in which a controlled drug is placed affects the extent to which the drug can be lawfully imported, exported, produced, supplied or possessed. The controlled drugs placed in Schedule 1 to the 2001 Regulations are those subject to the tightest controls, requiring a Home Office licence in order to access such drugs.
+
+Revocation of the 2021 Regulations means that the exemption in regulation 4B of the 2001 Regulations will remain in force and 1,4-Butanediol (1,4-BD) and Gamma-butyrolactone (GBL) will not be placed in Schedule 1, so a Home Office controlled drugs licence will not be required to lawfully import, export, produce, supply or possess these drugs.
+
+A full impact assessment has not been produced for this instrument as no, or no significant, impact on the private, voluntary or public sector is foreseen.
+
+## Annotations
+
+[^f00001]: Footnote: [1971 c. 38](https://www.legislation.gov.uk/ukpga/1971/38). Section 22 was amended by the Police Reform and Social Responsibility Act [2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), Schedule 17, paragraph 14. See the definition of “prescribed” in section 37(1).
+
+[^f00002]: Footnote: [S.I. 2021/1427](https://www.legislation.gov.uk/uksi/2021/1427).

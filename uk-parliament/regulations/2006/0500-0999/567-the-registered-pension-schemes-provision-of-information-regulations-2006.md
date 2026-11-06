@@ -1,0 +1,1897 @@
+---
+title: The Registered Pension Schemes (Provision of Information) Regulations 2006
+id: uksi/2006/567
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised-with-pending-changes
+made_date: '2006-03-09'
+text_date: '2026-06-25'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2006/567
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2006/567/pdfs/uksiem_20060567_en.pdf
+- http://www.legislation.gov.uk/uksi/2006/567/pdfs/uksi_20060567_en.pdf
+- http://www.legislation.gov.uk/uksi/2006/567/data.pdf
+pending_changes: 7
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Registered Pension Schemes (Provision of Information) Regulations 2006
+
+> **Warning: changes not yet applied to this text (7).** Text as at 2026-06-25. See https://www.legislation.gov.uk/changes/affected/uksi/2006/567
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2006 No. 567
+
+INCOME TAX
+
+The Registered Pension Schemes (Provision of Information) Regulations 2006
+
+Made
+
+9th March 2006
+
+Laid before the House of Commons
+
+10th March 2006
+
+Coming into force
+
+6th April 2006
+
+The Commissioners for Her Majesty’s Revenue and Customs make the following Regulations in exercise of the powers conferred by sections 220(5), 221(6), 224(9), 251(1)(a) and (b), (4)(a) and (b), (5) and (6) and 256 of, and paragraphs 7(1)(b), 12(1) and 18(6) of Schedule 36 to, the Finance Act 2004[^f00001], and now vested in them[^f00002].[^key-7777262f171377106d1c8193ab44dc09][^key-b8f8f288be759b9d4b1a89aa774245d3]
+
+## 1. Citation, commencement and effect[^key-c1143661438e9e762d2d88a5c3c94332]
+
+These Regulations may be cited as the Registered Pension Schemes (Provision of Information) Regulations 2006, shall come into force on 6th April 2006, and have effect in relation to any reportable event which takes place on or after 6th April 2006.
+
+## 2. Interpretation[^key-8de53da66dd8850207733f0506a2211a]
+
+(1) In these Regulations—
+
+- “the Act” means the Finance Act 2004 and a reference, without more, to a numbered section or Schedule is a reference to the section of, or Schedule to the Act bearing that number;
+- “associated company” has the meaning given by section 449 of the Corporation Tax Act 2010[^key-7188ae273c9e21d07a370626c5b7d7d8];
+- “the Commissioners” means the Commissioners for Her Majesty’s Revenue and Customs;
+- “director” has the meaning given by section 67 of[^key-40c730e534538d0033464b12683ddc9d] ITEPA 2003;
+- “event report” means the report required by regulation 3(1);
+- “fixed protection” means transitional protection provided for under paragraph 14 of Schedule 18 to the Finance Act 2011;[^key-b22bbd9e8baaaab274bb85e473ef3f6b]
+- “[^key-da2c26c61dc0fb1071711b44b2af435c]**fixed protection 2016**” means protection under paragraph 1(2) of Schedule 4 to FA 2016;
+- “fixed protection 2014” means transitional protection provided for under Part 1 of Schedule 22 to the Finance Act 2013.[^key-2e393a2e6b671658aee8c30fd72f6a64]
+- “individual protection 2014” means transitional protection provided for under Part 1 of Schedule 6 to the Finance Act 2014;[^key-1c0f2b97347c62d2bfc6ceb6f90a56ed]
+- “[^key-151ee1e946d5c12c5769678110de4f5b]**individual protection 2016**” means protection under paragraph 9(2) of Schedule 4 to FA 2016;
+- “[^key-33ba3b36176deb9cd77a98d77a3216ef]**relevant benefit crystallisation event**”—
+  - (a) in relation to a member’s lump sum allowance, has the same meaning as in section 637Q of ITEPA 2003 (availability of individual’s lump sum allowance) in relation to the member;
+  - (b) in relation to a member’s lump sum and death benefit allowance, has the same meaning as in section 637S of ITEPA 2003 (availability of individual’s lump sum and death benefit allowance) in relation to the member;
+- “relevant lump sum death benefit” has the meaning given by[^key-5e5cf8a5093b3d3e090f8c3ed0b8853e] section 637S(2)(c) of ITEPA 2003 (availability of individual’s lump sum and death benefit allowance) ;
+- “**relevant reference number**”, in relation to a member, means a reference number given by or on behalf of the Commissioners in respect of the member under—
+  - (a) the Registered Pension Schemes (Enhanced Allowances) Regulations 2006 ([S.I. 2006/131](https://www.legislation.gov.uk/uksi/2006/131)) (where the member relies on any provision of Schedule 36 to FA 2004);
+  - (b) the Registered Pension Schemes (Enhanced Allowances Transitional Protection) Regulations 2011 ([S.I. 2011/1752](https://www.legislation.gov.uk/uksi/2011/1752)) (where the member relies on fixed protection under Schedule 18 to FA 2011);
+  - (c) the Registered Pension Schemes and Relieved Non-UK Pension Schemes (Enhanced Allowances Transitional Protection) (Notification) Regulations 2013 ([S.I. 2013/1741](https://www.legislation.gov.uk/uksi/2013/1741)) (where the member relies on fixed protection 2014 under Schedule 22 to FA 2013);
+  - (d) the Registered Pension Schemes and Relieved Non-UK Pension Schemes (Enhanced Allowances Transitional Protection) (Individual Protection 2014 Notification) Regulations 2014 ([S.I. 2014/1842](https://www.legislation.gov.uk/uksi/2014/1842)) (where the member relies on individual protection 2014 under Schedule 6 to FA 2014);
+  - (e) paragraph 14 of Schedule 4 to the Finance Act 2016 (where the member relies on fixed or individual protection 2016 under that Schedule);
+- “reportable event” means an event in relation to which information is required to be provided by virtue of these Regulations;
+- “reporting year” means the tax year to which an event report relates.
+
+(2) Section 993 of ITA 2007[^key-517942dd045b892983d605fb86130f79] applies for the purpose of determining whether a person is connected with another for the purposes of these Regulations.
+
+(3) Expressions defined, or otherwise explained, in section 280, have the same meaning in these Regulations as they have in Part 4 of the Act.
+
+## 3. Provision of information by scheme administrator to the Commissioners[^key-0553656322d82d6e9a19cf0aaf525170][^key-e513aacb0993551af7c3c2c9ad0cf468]
+
+(1) The scheme administrator of a registered pension scheme shall provide to the Commissioners an event report in respect of all of the reportable events specified in column (1) of the Table below which have occurred in respect of the scheme during the reporting year, containing the information specified in column (2).
+
+Table
+
+<table>
+<thead>
+<tr><th>Reportable event</th><th>Information</th></tr>
+</thead>
+<tbody>
+<tr><th colspan="2">1. Unauthorised payments</th></tr>
+<tr><td>The name of the person to whom the payment was made, and—<br>(a) where the person is an individual, the national insurance number,<br>(b) where the person is a company, the company registration number, or<br>(c) in any other case, an alternative number obtained from the Commissioners,<br>together with the nature, amount and date of the payment.;</td><td>The name, date of birth (if applicable), address and national insurance or company registration number of the person to whom the payment was made, together with the nature, amount and date of the payment.</td></tr>
+<tr><td colspan="2">2. ...</td></tr>
+<tr><th colspan="2">3. Early provision of benefits</th></tr>
+<tr><td>The scheme provides benefits to a member of the scheme who is under the normal minimum pension age and before the benefits were provided the member was, either in the year in which they were provided or any of the preceding six years—<br>(a) in relation to the sponsoring employer, or an associated company of that employer, a director or a person connected with a director;<br>(b) whether alone or with others, the sponsoring employer; or<br>(c) a person connected with the sponsoring employer.</td><td>The name ... and national insurance number of the member, the nature, date and amount of the benefits provided, and reasons for those benefits having been provided under normal minimum pension age.</td></tr>
+<tr><th colspan="2">4. Serious ill-health lump sum</th></tr>
+<tr><td>A scheme pays a member of the scheme a serious ill-health lump sum and before the payment was made the member was, either in the year in which they were provided or any of the preceding six years—<br>(a) in relation to the sponsoring employer, or an associated company of that employer, a director or a person connected with a director; or<br>(b) whether alone or with others, the sponsoring employer; or<br>(c) a person connected with the sponsoring employer.</td><td>The name ... and national insurance number of the member, and the date and amount of the payment.</td></tr>
+<tr><th colspan="2">5. Suspension of ill-health pension</th></tr>
+<tr><td>An ill-health pension which has been paid, pursuant to pension rule 1 in section 165(1), ceases to be paid for any reason other than the member’s death.</td><td>The name ... and national insurance number of the member to whom the pension had been paid, the date on which the period of non-payment began and the annual rate of the pension, to which the member was entitled, immediately before that period began.</td></tr>
+<tr><td colspan="2">6. ...</td></tr>
+<tr><td colspan="2">7. ...</td></tr>
+<tr><td colspan="2">8. ...</td></tr>
+<tr><td colspan="2">8A. ...</td></tr>
+<tr><th colspan="2">9. Transfers to qualifying recognised overseas pension schemes</th></tr>
+<tr><td>The scheme makes a recognised transfer to a qualifying recognised overseas pension (“QROPS”) scheme which is not a registered pension scheme.</td><td>The name and national insurance number of the member, together with—<br>(a) the member’s principal residential address and, where that address is not in the United Kingdom, the member’s last principal residential address in the United Kingdom;<br>(aa) if the member is no longer resident in the United Kingdom, the date that the residence ceased;<br>(b) the member’s date of birth;<br>(c) the member’s telephone number, if any, which the member has provided to the scheme administrator for use by the Commissioners in relation to the scheme;<br>(d) the acknowledgement mentioned in regulation 11BA(2)(b);<br>(e) the date of the recognised transfer;<br>(f) in the case of a transfer of sums, the amount of the sums;<br>(g) in the case of a transfer of assets, a description and valuation of each type of asset transferred including the value of any unquoted shares, quoted shares and real property;<br>(ga) whether or not overseas transfer charge arises on the transfer;<br>(gb) if the transfer is excluded from the charge, the reason why it is excluded;<br>(gc) if the charge arises on the transfer—<br>(i) the transferred value, and<br>(ii) the amount in respect of the charge deducted from the transfer;<br>(h) the name and address of the QROPS to which the sums or assets have been transferred;<br>(ha) the reference number, if any, given by the Commissioners for the QROPS;<br>(i) the country or territory under the law of which the QROPS is established and regulated; ...<br>(j) the name, address, business telephone number and, where available, the electronic mail address of the manager of the QROPS ; and<br>(k) the amount of the member’s overseas transfer allowance that is available on the making of the transfer.</td></tr>
+<tr><td colspan="2"><strong>10. Investment-regulated pension scheme</strong></td></tr>
+<tr><td>The scheme becomes, or ceases to be, an investment-regulated pension scheme.</td><td>(a) The date on which the scheme becomes, or ceases to be, an investment-regulated pension scheme; and<br>(b) whether all the investments held by the scheme comprise contracts or policies of insurance.</td></tr>
+<tr><th colspan="2">11. Changes in scheme rules</th></tr>
+<tr><td>The scheme changes its rules to—<br>(a) entitle any person to require the making of unauthorised payments; or<br>(b) permit investment other than in contracts or policies of insurance.</td><td>The fact of the change and the date on which the change takes effect.</td></tr>
+<tr><th colspan="2">12. Changes to rules of pre-commencement scheme treated as more than one scheme</th></tr>
+<tr><td>The scheme, being one which immediately before 6<sup>th</sup> April 2006 was treated in accordance with section 611 of ICTA as two or more separate schemes, changes its rules in any way.</td><td>The fact of the change and the date on which the change takes effect.</td></tr>
+<tr><th colspan="2">13. Change in legal structure of scheme</th></tr>
+<tr><td>The legal structure of the scheme changes from one of the following categories to another.<br>The categories are—<br>(a) a single trust under which all of the assets are held for the benefit of all members of the scheme and which does not fall within category (d);<br>(b) ...<br>(c) ...<br>(d) a single trust under which all of the assets are held for the benefit of all members of the scheme and which provides benefits only—<br>(i) in the event of the death of a member, and<br>(ii) in respect of a sum assured under a policy of insurance which becomes payable on the death of that member;<br>(e) a body corporate; and<br>(f) other.</td><td>The date on which the change took effect, together with—<br>(a) the new category listed in column 1 which applies to the scheme; and<br>(b) in the case of a change falling within category (f), a brief description of the nature of the new category of legal structure of the scheme.</td></tr>
+<tr><th colspan="2">14. Change in number of members</th></tr>
+<tr><td>The number of scheme members falls in a different band at the end of a tax year from that in which it fell at the end of the previous tax year.<br>The bands are—<br>(a) 0 members;<br>(b) 1 member;<br>(c) 2 to 11 members;<br>(d) 12 to 50 members;<br>(e) 51 to 10,000 members; and<br>(f) more than 10,000 members.</td><td>The new band applicable to the number of scheme members.</td></tr>
+<tr><td colspan="2"><strong>15. ...</strong></td></tr>
+<tr><td colspan="2"><strong>16. ...</strong></td></tr>
+<tr><td colspan="2"><strong>17. ...</strong></td></tr>
+<tr><td colspan="2"><strong>18. Scheme chargeable payment</strong></td></tr>
+<tr><td>The scheme is treated as having made a scheme chargeable payment under ... section 185A (income from taxable property) or section 185F (gains from taxable property).</td><td>The fact that the scheme is to be treated as having made a scheme chargeable payment.</td></tr>
+<tr><td colspan="2"><strong>19. Country or territory of establishment</strong></td></tr>
+<tr><td>The scheme changes the country or territory in which it is established.</td><td>The date of the change and the country or territory in which the scheme becomes established</td></tr>
+<tr><td colspan="2"><strong>20. Occupational pension scheme</strong></td></tr>
+<tr><td>The scheme becomes, or ceases to be, an occupational pension scheme.</td><td>The fact of the change and the date on which the change takes effect.</td></tr>
+<tr><td><strong>20A. Master Trust scheme</strong></td><td></td></tr>
+<tr><td>The scheme becomes, or ceases to be, a Master Trust scheme within the meaning of section 1 of the Pension Schemes Act 2017</td><td>The fact of the change and the date on which the change took effect.</td></tr>
+<tr><td><strong>21. ...</strong></td><td></td></tr>
+<tr><td><strong>22. Annual Allowance</strong></td><td></td></tr>
+<tr><td>The scheme administrator is required to provide a member with a pension savings statement under regulation 14A(1) containing the information specified in regulation 14A(2).</td><td>The tax year for which the annual allowance was exceeded and the name and national insurance number of the member together with the information specified in regulation 14A(2)(a).</td></tr>
+<tr><td><strong>23. Dual annual allowances</strong></td><td></td></tr>
+<tr><td>The scheme administrator is required to provide a member with a pension savings statement under regulation 14A(1) containing the information specified in regulation 14A(10).</td><td>The tax year for which the statement is provided and the name and national insurance number of the member together with the information specified in regulation 14A(10)(a) and (b).</td></tr>
+<tr><td><strong>24. Reportable payments of lump sums or lump sum death benefits</strong></td><td></td></tr>
+<tr><td>The scheme makes—<br>(a) a reportable payment of a lump sum to a member (see paragraphs (10) to (14) of this regulation), or<br>(b) a reportable payment of a lump sum death benefit in respect of a member (see paragraphs (15) and (16) of this regulation).</td><td>The information is—<br>(a) the member’s name and national insurance number,<br>(b) the nature and amount of the lump sum or lump sum death benefit,<br>(c) the date of the payment,<br>(d) in a case in which the payment is the payment of a lump sum, confirmation that any amount of tax due on the excess as a result of the charge to tax on pension income under Part 9 of ITEPA 2003 has been paid, and<br>(e) each relevant reference number (if any).</td></tr>
+</tbody>
+</table>
+
+[^key-7537c867f82916f2cdda7d19aa0abd44][^key-5893e338f839e954f4a48a09f2bb8ee1][^key-f580255d0fff477fe3c51f351dfc5ad2][^f00005][^key-31d5367aceeb0c0279f09b6f9ee96ccb][^key-31d5367aceeb0c0279f09b6f9ee96ccb][^key-129bbf8f37f017e58ce8781d140da3fb][^key-31d5367aceeb0c0279f09b6f9ee96ccb][^key-f3974a7ba865cd976216257d0a022466][^key-f9cbb27f18cb110235d925ac476a2740][^key-519441466dc225327479deb3bb67c10d][^key-947046dbc53ce8f3147d85706c027351][^key-c76b07fe44ccac2b9da392f97d0cd00a][^key-c89ac66b1de7cdea57184dd218e7802f][^key-0ab2758e6fad45672a03497fd62d3259][^key-57df8761f694bbc954a5e6daa567bf11][^key-3947a828aabb7d64012f6635154f947d][^key-df2644ae8bb21a50c7826b63df0b82ab][^key-981c600d03f496b5d796c847eafa3266][^key-92213b690975cbe7328f6997a71f563f][^key-a7b2be6a7387a3338e55a61498f577d1][^key-ffc3e2a4adc408f11e012a9e943b72a7][^key-a584d99de69df6b6430bfba9325da54d][^key-d6549a4e94b965a29b0109870df9731a][^key-903fe8a635958a20f90e3e521e4e3cc7][^key-903fe8a635958a20f90e3e521e4e3cc7][^key-bc7aee1098706c7b4e1dcee021f8a862][^key-49d7be2fa077e833fea0d464497e3ae0][^key-ba93a631ee9b3c33243a3c143d74885c][^key-856492d1de705340dcaeb2da0242306b][^key-856492d1de705340dcaeb2da0242306b][^key-07cc86cd50868745994e9838d6d66dd3][^key-f00d856770b0a5da29d7d7f855f68fba][^key-5f5888fefdd8b58791bd8cea6eda960b][^key-d08690afe22fe4b431544b99d783f99e][^key-cb9c5b7c70075ac0cb0c8194be8d2b19][^key-99f2a693b409bd44eb73846817ea4078][^key-2900cccf4e112932e214ac8e3e24295f][^key-5a748ed77e3493952d11450fca8a0801][^key-0ff8d4dd5f4b8df90b27a2ac0f3832f4][^key-7f7051aafabc38df41ce73cf2b27f0ae]
+
+(2)[^key-ae516cc7eda0775710d21cbfcddf47ed] Where an individual provides the scheme administrator of a scheme with written confirmation that the individual does not qualify for a national insurance number, the scheme administrator must—
+
+- (a) provide the Commissioners with the individual’s date of birth and address in order to obtain an alternative number from them, and
+- (b) provide this alternative number in place of the national insurance number (where the national insurance number is required by paragraph (1)).
+
+(2A) Paragraph (2B) applies to any amendment—
+
+- (a) delivered on or after 6th April 2011 to an event report delivered before 6th April 2011, and
+- (b) which relates to an individual whose details were included in respect of a reportable event in the event report which is being amended.
+
+(2B) Where paragraph (1) requires the scheme administrator of the scheme to provide the Commissioners with an individual’s national insurance number and where the national insurance number is not known to the scheme administrator —
+
+- (a) paragraph (2) does not apply, and
+- (b) the scheme administrator may provide the date of birth in place of the national insurance number.
+
+(3) For the purposes of reportable event 3 “benefits” does not include a payment—
+
+- (a) which is reportable as reportable event 1 or reportable event 4; or
+- (b) which falls within paragraph 10 of Schedule 29.
+
+(4) No event report is required by virtue of reportable event 10 in respect of arrangements—
+
+- (a) where all the assets held by the scheme comprise contracts or policies of insurance, units in unit trust schemes or shares in open-ended investment companies and in managing those investments, the scheme administrator does not consult with any member of the scheme except to the extent necessary by virtue of the investment offering choices that are available to any person; and
+- (b) under which all contributions paid are, after deduction of expenses, invested in deposits with deposit takers and the payment of interest on those deposits comprises the only income of the scheme from its investments.
+
+(5)[^key-3c75976b5c289bbaa43c2d373e3114a7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(6) The event report shall—
+
+- (a) be in a form specified by the Commissioners, and
+- (b) be delivered (subject to the qualification in paragraph (7)[^key-1f4560b27251d0423703e34bdc644d97] , (9)[^key-6c05bea1ac5bd2b929d98d01c4e4030c] and regulation 4(3)) at any time which falls—
+  - (i) after the end of the end of the tax year to which the report relates, but
+  - (ii) no later than the 31st January following the tax year to which the report relates.
+
+(7)[^key-52def369febb00ae7df561df4a15f27d][^key-20764a35c78855237e73c3bf829a9778] An event report in respect of reportable event 9 must be delivered within 60 days beginning with the day of the transfer to which it relates but, if the scheme administrator applies before the end of those 60 days for a repayment of overseas transfer charge on the transfer, the report must be delivered before the administrator applies for the repayment.[^key-a9ad1999dc458569fd4c849fb674369a].
+
+(8)[^key-aa4d34f48b89fe4d19e605e34dae4e3a] An event report in respect of reportable event 20A must be delivered within 30 days of the event.
+
+(9)[^key-4e91d5116d32672b9846ecc13956eeec] An event report in respect of reportable event 22, in a case where regulation 14A(6A) or (6B) applies, must be delivered—
+
+- (a) within 3 months of the date of issue of the pension savings statement, or
+- (b) if later, on or before 31st January following the tax year to which the report relates.
+
+(10)[^key-0590aae5b083ad921e4ed55f9a0d8c4a] For the purposes of event 24, a lump sum paid to a member is “reportable” if any of the following four conditions is met.
+
+(11) The first condition is that—
+
+- (a) the member becoming entitled to the lump sum constitutes a relevant benefit crystallisation event within the meaning of section 637Q of ITEPA 2003, and
+- (b) the amount of the payment exceeds the amount of the member’s lump sum allowance that is available on the member becoming so entitled.
+
+(12) The second condition is that—
+
+- (a) the member becoming entitled to the lump sum constitutes a relevant benefit crystallisation event within the meaning of section 637S of ITEPA 2003, and
+- (b) the amount of the payment exceeds the amount of the member’s lump sum and death benefit allowance that is available on the member becoming so entitled.
+
+(13) The third condition is that—
+
+- (a) the member becoming entitled to the lump sum constitutes a relevant benefit crystallisation event within the meaning of section 637Q of ITEPA 2003,
+- (b) the member’s lump sum allowance is, by virtue of any enactment, higher than the standard lump sum allowance, and
+- (c) the amount of the payment exceeds the amount of the member’s lump sum allowance that would have been available on the member becoming so entitled had that allowance been the standard lump sum allowance.
+
+(14) The fourth condition is that—
+
+- (a) the member becoming entitled to the lump sum constitutes a relevant benefit crystallisation event within the meaning of section 637S of ITEPA 2003,
+- (b) the member’s lump sum and death benefit allowance is, by virtue of any enactment, higher than the standard lump sum and death benefit allowance, and
+- (c) the amount of the payment exceeds the amount of the member’s lump sum and death benefit allowance that would have been available on the member becoming so entitled had that allowance been the standard lump sum and death benefit allowance.
+
+(15) For the purposes of event 24, a lump sum death benefit paid in respect of a member is “reportable” if the following condition is met.
+
+(16) The condition is that—
+
+- (a) the payment constitutes a relevant benefit crystallisation event within the meaning of section 637S of ITEPA 2003, and
+- (b) the amount of the payment, either alone or when aggregated with other payments of lump sum death benefits from the same scheme that constitute relevant benefit crystallisation events within the meaning of section 637S of ITEPA 2003, exceeds the amount of the standard lump sum and death benefit allowance.
+
+(17) In this regulation—
+
+- “**the standard lump sum allowance**” means the amount specified in section 637P of ITEPA, disregarding the effect of any enactment under which the amount specified in that section is treated as a different amount in relation to any individual;
+- “**the standard lump sum and death benefit allowance**” means the amount specified in section 637R of ITEPA, disregarding the effect of any enactment under which the amount specified in that section is treated as a different amount in relation to any individual.
+
+## Other information requirements
+
+### 4. Provision of information in respect of a pension scheme which has been wound-up[^key-95f6bae1fa3ab28ce069764e44228623]
+
+(1) The person who, immediately before the winding-up of a registered pension scheme, was the scheme administrator shall give notice to the Commissioners of the fact that the scheme has been wound up and the date on which the winding up was concluded.
+
+(2) No notice is required by virtue of paragraph (1) in respect of—
+
+- (a) an annuity contract or a trust scheme which is treated as a registered pension scheme by virtue of paragraph 1(1)(d), or (f) of Schedule 36, or article 27 of the Taxation of Pension Schemes (Transitional Provisions) Order 2006 (contracts approved under section 620 or 621 of the Income and Corporation Taxes Act 1988[^f00008]); [^key-3c7f1ce6128d7bd9076601f7b69aa323]...
+- (b) a former approved superannuation fund within the meaning of paragraph 1(3) of Schedule 36 ;[^key-6895cf5d9848858d492b826f0a9b5371] [^key-5520edf7c30e8fccf6827ca674c4f601]...
+- (c) an annuity contract which is treated as a registered pension scheme by virtue of section 153(8) other than an annuity contract to which paragraph (2A) applies. ; or[^key-09af7edae7a14d09cb7afee0569582ba]
+- (d)[^key-49506fb3fb3c685b53d7e35e42cfd600] an annuity policy which is treated as a registered pension scheme by virtue of article 15(5) of the Pension Schemes (Transfers, Reorganisations and Winding Up) (Transitional Provisions) Order 2006 other than an annuity policy to which paragraph (2A) applies.
+
+(2A)[^key-66ae7dcc9e9bc21e7ebcf199758c2ca1] This paragraph applies to an annuity contract or annuity policy[^key-d7d49779f3a2a5f9c727a816944071f8] —
+
+- (a)[^key-9c39119a261ab72e648251733c5687b5] which has received a recognised transfer (within the meaning of section 169) subsequent to the one which led to—
+  - (i) the annuity contract becoming a registered pension scheme under section 153(8), or
+  - (ii) the annuity policy becoming a registered pension scheme under paragraph 1(1) of Schedule 36 by virtue of article 15(5) of the Pension Schemes (Transfers, Reorganisations and Winding Up) (Transitional Provisions) Order 2006;
+- (b) which has received—
+  - (i) relievable pension contributions as defined in section 188(2), or
+  - (ii) contributions paid by an employer,
+
+  where the total of those contributions exceeds £10;
+- (c) where a declaration under section 270(2)(b) has been made by the scheme administrator to the Commissioners; or
+- (d) which is an investment-regulated pension scheme which directly or indirectly holds an interest in taxable property.
+
+Here “taxable property” has the same meaning as in Part 2 of Schedule 29A and whether an interest in taxable property is held directly or indirectly shall be determined in accordance with Part 3 of that Schedule.
+
+(3) Where a pension scheme is wound up, the time prescribed in respect of any information required to be delivered under these Regulations (whether in the event report or otherwise) is any time on or before—
+
+- (a) the last day of the period of 3 months beginning with the day on which the winding up is completed, or
+- (b) the last day otherwise prescribed by these Regulations for the provision of that information,
+
+whichever is the earlier.
+
+### 5. Provision of information by employer company to the Commissioners[^key-3d3975b62d96c0a6453630aab20f221c]
+
+(1) Where a registered pension scheme makes an unauthorised employer payment to a company, the company shall provide the information specified in paragraph (2).
+
+(2) The information required is—
+
+- (a) details of the scheme that made the payment;
+- (b) the nature of the payment;
+- (c) the amount of the payment; and
+- (d) the date on which the payment was made.
+
+(3) This information shall be provided to the Commissioners no later than the 31st January following the tax year in which the payment is made.
+
+### 5A. Unauthorised borrowing: Provision of information by scheme administrator to the Commissioners[^key-9e6a3247bdc083419c152465289f42ba]
+
+(1)  Where a registered pension scheme is treated as having made a scheme chargeable payment (“the payment”) by virtue of sections 183 (effect of unauthorised borrowing: money purchase arrangements) or 185 (effect of unauthorised borrowing: other arrangements), the scheme administrator shall provide the information specified in paragraph (2).
+
+(2) The information required is—
+
+- (a) the name and pension scheme tax reference number of the scheme that is treated as making the payment;
+- (b) the name and address of the scheme administrator;
+- (c) the tax year in which the payment is treated as having been made; and
+- (d) the aggregate amount of payments treated as having been made by the scheme during that tax year.
+
+(3) This information shall be provided to the Commissioners in an annual written report delivered at any time which falls—
+
+- (a) after the end of the tax year in which the payment is treated as having been made, but
+- (b) no later than the 31st January following that tax year.
+
+### 5B. Minimum income requirement: provision of information by scheme administrator to the Commissioners for the tax year 2011-12[^key-80421b18b666ca69c5730207e7f84994]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 6. Scheme administration[^key-5d20dda16a4ad92e933a79b28bfe7979]
+
+The person who has been, but has ceased to be, the scheme administrator must notify the Commissioners of the termination of his appointment, together with the date on which the termination took effect, within 30 days.
+
+### 7. Relevant benefit crystallisation events: amount of member’s allowances expended[^key-9a494fd88a58a96d5f4813e287af6652][^key-14d97c48f52b4d813adcd73189ddc623]
+
+(1)[^key-aae76b2acf841df10975d8fa7c42ec16] The amount of a member’s lump sum allowance or lump sum and death benefit allowance expended on the happening of a relevant benefit crystallisation event is the non-taxable amount in relation to the lump sum to which the member becomes entitled, or the lump sum death benefit which a person is paid in respect of the member.
+
+(3) The provisions to which this paragraph applies are—
+
+- (a) regulation 8(2) [^key-cc491f8909c283c85259ec0170cb4bd0]... and (3);
+- (b) regulation 9(2);
+- (c) regulation 14(3);
+- (d) regulation 15(2);
+- (e) regulation 16(2) and (3);
+- (f) regulation 17(2), (3) (5) and (7).
+
+(4)[^key-19d221831c2e909b8a0b397375b99d4e] The total amount of a member’s lump sum allowance or lump sum and death benefit allowance expended is the sum of the amounts calculated in accordance with paragraph (1) in respect of each relevant benefit crystallisation event that has occurred in relation to the member.
+
+(5)[^key-2273df0b4bcd3483f7c4965bea8cd240] In this regulation “non-taxable amount”—
+
+- (a) in relation to a member’s lump sum allowance, has the meaning given by section 637Q(6) of ITEPA 2003;
+- (b) in relation to a member’s lump sum and death benefit allowance, has the meaning given by section 637S(6) of ITEPA 2003.
+
+### 8. Death: provision of information by scheme administrator to personal representatives[^key-86554a3c9471cecabbb984a75b825621]
+
+(1) The scheme administrator of a registered pension scheme shall provide to the personal representatives [^key-b3088d82389cb7c493112d25bff6971e]... of a deceased member of that scheme, the information specified in paragraphs (1A),[^key-b437a0139fa93841e80099b1aea2b831] (2) [^key-696f4ebe24acf253038dfcaa67a3b068]... and (3).
+
+(1A)[^key-3c7a90cc8e4275ab0b1bf645757e6321] The information specified in this paragraph is—
+
+- (a) the name of the scheme and the name and address of the scheme administrator of the scheme;
+- (b) each relevant reference number (if any) in relation to the deceased member;
+- (c) the name, address, date of birth and national insurance number of each individual (if any) to whom a relevant lump sum death benefit in respect of the deceased member has been, or will be, paid under the scheme.
+
+The information is to be provided no later than the last day of the period of 2 months beginning with the day on which a request for it is received from the member’s personal representatives.
+
+(2) The information specified in this paragraph[^key-2132dd9558e7d8dc60e43e181bec936c] is the amount of the member’s lump sum and death benefit allowance[^key-3ac6b21017acc6618ddb6f420e00c4be] expended by, and the amount and the date of payment of, each relevant lump sum death benefit paid[^key-007ef542727806fc70b743f9be0631e7] by the scheme in relation to the member.
+
+- The information shall be provided no later than the last day of the period of 3 months beginning with the day on which the final such payment is made.
+
+(2A)[^key-b9de4533f135810b00ce58e3e83e9aba] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2B)[^key-7c900bde8f7e028462b5b1599af0b4cb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) The information specified in this paragraph[^key-06ee480599473f6d32ccbfeae0dff751] is the total amount of the member’s lump sum and death benefit allowance[^key-3618e92650ecae6f7f9bf7e0ff48bdeb] expended, at the date of the statement, by—
+
+- (a) any relevant benefit crystallisation event[^key-0587604e8d866f1b6b8b4e8c4985570a] in respect of the deceased member’s rights under the scheme to the extent that—
+  - (i) the sums or assets subject to any such event; and
+  - (ii) any sums or assets subsequently representing those sums or assets;
+
+  have not been transferred to another registered pension scheme, and
+- (b) where sums or assets have been transferred to the scheme from another registered pension scheme (whether directly or indirectly) in respect of the deceased member any relevant benefit crystallisation event[^key-6e41ba9fe5773e89a5acf1b1c8b59570] in connection with—
+  - (i) those sums or assets; and
+  - (ii) any other sums or assets held prior to the transfer which the sums and assets mentioned in sub-paragraph (i) represented,
+
+but excluding from that amount[^key-07887b3d1f0d0acec42dba115849f96e] any amount in respect of any relevant lump sum death benefit[^key-385bd188f2b560ca93c08b8b4268113f] payment in respect of the deceased member [^key-fca161f3e197a97734dfef3a2b9a33ab].... The information is to be provided no later than the last day of the period of 2 months beginning with the day on which a request for it is received from the member’s personal representatives.[^key-1653e5eafbd51a972625568caabbd1e2]
+
+### 9. Death: provision of information by insurance company to personal representatives[^key-f714a005bb809648b91b2a8ad66d7422]
+
+(1) Where—
+
+- (a) an insurance company has paid a lifetime annuity or a scheme pension to an individual who has been a member of a registered pension scheme purchased with sums or assets held for the purposes of that scheme, and
+- (b) the member to whom that annuity or pension was payable has died,
+
+the insurance company shall, on request by the member’s personal representatives, provide them with the information specified in paragraph (2).
+
+(2) The information is the total percentage of amount of the member’s lump sum and death benefit allowance[^key-e3a2e9fee1dda79737b286c10da972c2] expended, at the date of the statement, by—
+
+- (a) any relevant benefit crystallisation event[^key-65bbd7a5fd8694a06473ecd6eaec2b1a] in respect of the deceased member under the registered pension scheme to the extent that—
+  - (i) the sums and assets subject to that event, or
+  - (ii) sums and assets subsequently representing those sums and assets,
+
+  have not been transferred to another such scheme, and
+- (b) where sums or assets have been transferred to the scheme from another registered pension scheme (whether directly or indirectly) in respect of the deceased member’s rights, any relevant benefit crystallisation event[^key-a8127122b133f111945af566edfe1341] in connection with—
+  - (i) those sums or assets; and
+  - (ii) any other sums or assets held prior to the transfer which the sums or assets mentioned in sub-paragraph (i) represented.
+
+(3) The information shall be provided no later than the last day of the period of 2 months beginning with the day on which the request was received.
+
+### 10. Death: provision of information by personal representatives to the Commissioners[^key-6a600bbaa7b7b130fcb8511fa6f7149f]
+
+(1) Where—
+
+- (a) a relevant lump sum death benefit is paid in respect of a deceased member of a registered pension scheme, and
+- (b) that payment, of itself or together with any other relevant lump sum death benefit [^key-cbef82b78b56a2a0b4513cf6ca91a268]..., results in the member’s lump sum and death benefit allowance being exceeded[^key-ede16e2141c8be3866ec23ce9b50fe5c],
+
+the personal representatives of the member shall provide to the Commissioners the information specified in paragraph (2).
+
+(1A)[^key-6787f84be018f64dad7c9761f9824cc5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(1B)[^key-be54d2b33f1011c77535d9a4284099b2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) The information required is—
+
+- (a) the name of the pension scheme from which, and the name and address of the scheme administrator by whom, the benefits were paid;
+- (aa)[^key-9b770b3e775333b96733f184b1dc07ac] the name of each other pension scheme (if any) of which the deceased member was a member, and the name and address of the scheme administrator of each such scheme;
+- (b) the name , date of birth, date of death and national insurance number[^key-066f3a8704bcec1d7f184f1a998483a0] of the deceased member in respect of whom the benefits were paid;
+- (ba)[^key-333a29f69ac5f48f008f152d8c0be335] each relevant reference number (if any) in relation to the deceased member;
+- (bb) the name, address, date of birth and national insurance number of the individual to whom the relevant lump sum death benefit is paid;
+- (c) the amount and date of payment of the benefits; and
+- (d) the amount by which the member’s lump sum and death benefit allowance is exceeded[^key-f73557558bda5a92fa3eeb84ca446a0a] by virtue of the payments.
+
+(2A)[^key-755c54ebd29937a890a6c3776ba5c0aa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2B)[^key-92d2090d0693ac22c0d3509d55ae3b7d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) The information required shall be provided on or before the later of—
+
+- (a) the end of the period of 13 months beginning with the death of the member; or
+- (b) the end of the period of 30 days beginning with the date on which the personal representatives (or any of them) became aware that paragraph (1) [^key-191bce8c5dc2c1ec192cfadfd296d8dc]... applied to the deceased member.
+
+(4) Where a requirement to provide information under this regulation arises after the period specified in paragraph (3) has expired, the information shall be provided no later than the last day of the period of 30 months beginning with the death of the member.
+
+(5) If the personal representatives discover after the latest date for providing information under paragraph (4) any information required to be provided under paragraph (1) [^key-e576fd38d9bc73a9d7740522281b8bb5]..., that information shall be provided no later than the last day of the period of 3 months beginning with the discovery of that information.
+
+### 10A. Death: provision of information by scheme administrator to trustee[^key-a96c30a02d8941a3f5479f24932403bb]
+
+(1) Where—
+
+- (a) a registered pension scheme makes a payment of a sum on whose payment tax has been charged under section 206, and
+- (b) the payment is made to a trustee who is not a bare trustee,
+
+the scheme administrator shall provide to the trustee the information specified in paragraph (2).
+
+(2) The information required is—
+
+- (a) the amount of the lump sum death benefit on which tax has been charged under section 206,
+- (b) the amount of that tax charge,
+- (c) the name and pension scheme tax reference number of the registered pension scheme making the payment, and
+- (d) the name, date of birth and date of death of the member of the registered pension scheme in respect of whom the lump sum death benefit is paid.
+
+(3) The scheme administrator shall provide the information specified in paragraph (2) to the trustee before—
+
+- (a) the end of 30 days beginning with the date of the payment to the trustee, or
+- (b) if later, the end of 8th March 2017.
+
+(4) In paragraph (1) “bare trustee” has the meaning given by section 206(10).
+
+### 10B. Death: provision of information by trustee to beneficiary
+
+(1) Where—
+
+- (a) a trustee who is not a bare trustee makes a payment out of a sum on whose payment tax has been charged under section 206, and
+- (b) the payment is made out of a settlement to a beneficiary who is an individual,
+
+the trustee shall provide to the beneficiary the information specified in paragraph (2).
+
+(2) The information required is—
+
+- (a) the total of—
+  - (i) the sum paid to the beneficiary, and
+  - (ii) the amount of tax that has been charged in respect of that sum under section 206,
+- (b) the amount of tax that has been charged under section 206 in respect of the sum paid to the beneficiary,
+- (c) the name and pension scheme tax reference number of the registered pension scheme which paid the lump sum death benefit, and
+- (d) the name, date of birth and date of death of the member of the registered pension scheme in respect of whom the lump sum death benefit was paid.
+
+(3) The trustee shall provide the information specified in paragraph (2) to the beneficiary before the latest of the following—
+
+- (a) the end of 30 days beginning with the date of the payment to the beneficiary,
+- (b) the end of 30 days beginning with the date of the receipt by the trustee of the information required to be provided by the scheme administrator under regulation 10A, and
+- (c) the end of 8th March 2017.
+
+(4) In paragraph (1) “bare trustee” has the meaning given by section 206(10).
+
+### 11. Information provided by member to scheme administrator: enhanced allowances, enhanced protection , fixed protection , fixed protection 2014 , individual protection 2014 , fixed protection 2016 or individual protection 2016[^key-e15df7f780033a82cf28e0f0d1dbabdc][^key-ba74df230b4b51dde9f9f27b68a41a05][^key-cd56db7fabcc7f3e21d86e6c49625a9e][^key-77c0f8c635408bd942256fc779a80109][^key-0b051f413102ac00b59693cba8ddfbc9][^key-0de21878ac7af6946b9e7759920bd530]
+
+(1)[^key-0848e97da0a287236712a2fa580cd0f1] If a member[^key-2653b3c47b90caddaa33b4b5de955dd4] of a registered pension scheme intends to rely on entitlement to—
+
+- (a) an enhanced [^key-985322bf80d98960ba7438e483f03129]... allowance or enhanced protection by virtue of any provisions listed in section 256(1), [^key-82232ed0437a7b7a87f61d3c882b032d]...
+- (b) fixed protection by virtue of paragraph 14 of Schedule 18 to the Finance Act 2011 ,[^key-2958e6f8645da395d112590169290f42] [^key-3937a43835ee6bb6c987563a72467740]...
+- (c) fixed protection 2014 by virtue of Part 1 of Schedule 22 to the Finance Act 2013 , or[^key-e2f94b1b22996a06383ef249b41a37d6]
+- (d) fixed protection 2016 by virtue of Part 1 of Schedule 4 to the Finance Act 2016,
+
+the member must give to the scheme administrator the reference number issued by or on behalf of the Commissioners under any of the provisions mentioned in paragraph (1A) in respect of that entitlement.[^key-ae45068fd3d428879072d59d1f59c99a]
+
+(1A)[^key-9ec7823aa79c4cb3cbd14fd5cff3fcf2] The provisions are—
+
+- (a) the Registered Pension Schemes (Enhancement of Allowances) Regulations 2006 ([S.I. 2006/131](https://www.legislation.gov.uk/uksi/2006/131));
+- (b) the Registered Pension Schemes (Enhanced Allowances Transitional Protection) Regulations 2011 ([S.I. 2011/1752](https://www.legislation.gov.uk/uksi/2011/1752));
+- (c) the Registered Pension Schemes and Relieved Non-UK Pension Schemes (Enhanced Allowances Transitional Protection) (Notification) Regulations 2013 ([S.I. 2013/1741](https://www.legislation.gov.uk/uksi/2013/1741));
+- (d) Schedule 4 to the Finance Act 2016 (pensions: lump sum allowance and lump sum and death benefit allowance: transitional provision).
+
+(2)[^key-a3241511e5f66dc1926a7238c5afa2da] If the member of a registered pension scheme intends to rely on entitlement to individual protection 2014 by virtue of Part 1 of Schedule 6 to the Finance Act 2014 (“Part 1”), the member must notify the scheme administrator of—
+
+- (a) the reference number issued by the Commissioners under the Registered Pension Schemes and Relieved Non-UK Pension Schemes ( Enhanced Allowances[^key-8931279198bc8800fca07e389840a110] Transitional Protection) (Individual Protection 2014 Notification) Regulations 2014; and
+- (b) the member’s relevant amount calculated in accordance with Part 1.
+
+(3)[^key-cbb3b3e8b83e0678b582107040379820] If the member of a registered pension scheme intends to rely on individual protection 2016 by virtue of Part 2 of Schedule 4 to the Finance Act 2016, the member must notify the scheme administrator of—
+
+- (a) the reference number in respect of the member issued by or on behalf of the Commissioners for the purposes of paragraph 9(2) of that Schedule, and
+- (b) the member's relevant amount calculated in accordance with Part 2 of that Schedule.
+
+### 11A. Information provided by members to scheme administrators: recycling of lump sums[^key-66bb9ef946b759c6cf10b67f4b962dcb]
+
+Where a registered pension scheme is treated as making to a member of the scheme an unauthorised payment under paragraph 3A of Schedule 29 (recycling of lump sums), the member shall notify—
+
+- (a) the date on which the unauthorised payment is treated as made, and
+- (b) the amount of the payment,
+
+to the scheme administrator within 30 days of the date on which the unauthorised payment is treated as made.
+
+### 11B. Information provided by members to scheme administrators: pension commencement lump sums[^key-03e5c5eaf6f3cace05436b59bc441707]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 11BA. Information provided by members to scheme administrators: recognised transfers[^key-9dd46f711facf2928c8e15c017b85707]
+
+(1) Paragraph (2) applies where a member of a registered pension scheme makes a request to the scheme administrator to make a recognised transfer (“transfer request”) in respect of a qualifying recognised overseas pension scheme.
+
+(2) The member must provide to the scheme administrator—
+
+- (a) the member’s—
+  - (i) name;
+  - (ii) date of birth;
+  - (iii) principal residential address and, where that address is not in the United Kingdom, the member’s last principal residential address in the United Kingdom;
+  - (iiia)[^key-8c4f03bc640a61828456a2b7425ceaa0] if the member is no longer resident in the United Kingdom, the date that the residence ceased;
+  - (iv) national insurance number or, where applicable, confirmation in writing that the member does not qualify for a national insurance number;
+  - (v) telephone number, if any, which the member provides for use by the scheme administrator or the Commissioners in relation to the scheme;
+  - (vi)[^key-9786b9fc1685c1001d012aa932da3d87] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (vii)[^key-9786b9fc1685c1001d012aa932da3d87] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (aa)[^key-79e850f21eab9f9c9afe3fff63ecaa1b] the name and address of, and (if known) the reference number given by the Commissioners for, the qualifying recognised overseas pension scheme (“the QROPS”);
+- (ab) the country or territory under the law of which the QROPS is established and regulated;
+- (ac) whether the member knows for certain that the transfer would be excluded from the overseas transfer charge by one of sections 244D, 244E and 244F, and if the member does know that for certain—
+  - (i) the section concerned (if known),
+  - (ii) the name and address of the member's employer whose connection with the QROPS gives rise to exclusion of the transfer from the charge,
+  - (iii) the member's job title as an employee of that employer,
+  - (iv) the date the member's employment with that employer began, and
+  - (v) if known, that employer's tax reference for that employment;
+- (ad)[^key-dce89d8b3030abaf1fcf1728d21352aa] a statement of the nature and transferred value of any transfers that have previously been made in relation to the member—
+  - (i) from any registered pension scheme or relieved relevant non-UK scheme of which the member is, or was at any time after 6 April 2006, a member, and
+  - (ii) to a qualifying recognised overseas pension scheme.
+- (ae)[^key-b458c7f87c0c5ea64d9a54ae9ef60805] a statement of the amount of the member’s overseas transfer allowance that is available on the making of the transfer;
+- (b) the member’s acknowledgement in writing that the member is aware that a transfer other than a recognised transfer to a qualifying recognised overseas pension scheme of sums or assets held for the purposes of, or representing accrued rights under, an arrangement under a registered pension scheme—
+  - (i) gives rise to a liability under section 208 (unauthorised payments charge); and
+  - (ii) may give rise to a liability under section 209 (unauthorised payments surcharge) ; and[^key-8620250a4cc82edd515089b71d694f99]
+- (c) the member's acknowledgement in writing that the member—
+  - (i) is aware that a recognised transfer to a qualifying recognised overseas pension scheme may give rise to a liability to overseas transfer charge, and
+  - (ii) is aware of the circumstances in which liability arises, in which liability is excluded from the outset and in which liability is excluded only if conditions continue to be met over a period of time.
+
+(3)[^key-e6cc1a7581d0d2e546c1f16ece39472e] The information specified in paragraph (2) must be provided within 60 days beginning with the day of the transfer request.
+
+(4)[^key-36cc8dfdbece158b7ca7497bf29461b3] The scheme administrator must send the member notification of the requirements specified in this regulation within 30 days beginning with the day of the transfer request.
+
+### 11BB. Information provided by members to scheme administrators: overseas transfers[^key-aab8b5b8046c5dbc8fd8b9b1b30b987e]
+
+(1) Paragraph (2) applies where—
+
+- (a) a recognised transfer is made by a registered pension scheme to a qualifying recognised overseas pension scheme, and
+- (b) either—
+  - (i) an[^key-721ea41dd853ade5322cc9bdb2ef7d4e] overseas transfer charge arises in the case of the transfer, or
+  - (ii) the transfer is excluded from the overseas transfer charge under section 244AC[^key-fda52476c6ef0bb5e44aee9267133c9f] by section 244B [^key-53dc79f00d9d0a40827cdfe16cfa328c]... [^key-456e0f4d3215b5cb240825af348a9fc2]....
+
+(2) Each time during the relevant period for the transfer that the member—
+
+- (a) becomes resident in a country or territory, or
+- (b) ceases to be resident in a country or territory,
+
+the member must, within 60 days after the date that happens, inform the scheme administrator of the registered pension scheme that it has happened.
+
+(3) In a case where the 60 days mentioned in paragraph (2) ends with a day earlier than 30 June 2017, paragraph (2) is to be treated as requiring the information to be given no later than 30 June 2017.
+
+### 11C. Information provided by individuals to scheme administrator: national insurance number[^key-817e747f9252339876e5f2e809e30753]
+
+(1) Paragraph (2) applies where a scheme administrator needs an individual’s national insurance number or to obtain an alternative number in respect of an individual in order to complete an event report , other than an event report in respect of reportable event 9,[^key-3a26353e83bd66fa75c8395017ca381d] or a return under section 254.
+
+(2) The individual must provide the scheme administrator with the national insurance number or the information described in paragraph (3), as appropriate, within 60 days of the date on which the scheme administrator requests the individual to provide the information.
+
+(3) If the individual does not qualify for a national insurance number the individual must provide the scheme administrator with confirmation of this in writing, together with the individual’s date of birth and address.
+
+### 12. Information about scheme administrator’s liability for a lifetime allowance charge[^key-a0bab1b4f58d6e413331391e086e97af]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 12A. Provision of information about liability for overseas transfer charge etc[^key-e13f9343304622b68a1ddef01ab9465d][^key-6dbe29026916abe3ebf0f43e6d8a3a49]
+
+(1) If a recognised transfer is made by a registered pension scheme to a qualifying recognised overseas pension scheme and an overseas transfer charge[^key-4fe79155f19119c213b4cb54d21e68a5] arises on the transfer, the scheme administrator of the registered pension scheme must within 90 days after the date of the transfer provide the member with a notice stating—
+
+- (a) the date of the transfer,
+- (b)[^key-63e27926a5efa54df52fddceb247ad49] whether the overseas transfer charge arises under section 244AC or 244IA in the case of the transfer,
+- (c) the transferred value of the transfer,
+- (d) the amount of the charge on the transfer,
+- (e) whether, and to what extent, the scheme administrator has accounted, or intends to account, for the charge, and
+- (f) where the scheme administrator has accounted for the charge, the date the scheme administrator did so.
+
+(2) If a recognised transfer is made by a registered pension scheme to a qualifying recognised overseas pension scheme and the transfer is excluded from the overseas transfer charge under section 244AC[^key-44d59f71f10473030af0c1e4094381d0] by or under sections 244B to 244H, the scheme administrator of the registered pension scheme must within 90 days after the date of the transfer provide the member with a notice stating—
+
+- (a) the date of the transfer,
+- (b) that the transfer is excluded from the overseas transfer charge under section 244AC[^key-741fa94a285d52629d7de7933d3a6225],
+- (ba)[^key-8c8b627d0f3cb028d8f855287a10f3f5] the transferred value of the transfer,
+- (c) the provision by reason of which the transfer is excluded, and
+- (d) where that provision is section 244B [^key-4ac51942a8965683019256ed6b4e8ed3]..., how the transfer may turn out not to be excluded as a result of the member changing country or territory of residence within the relevant period for the transfer.
+
+(3) If an overseas transfer charge under section 244AC[^key-0a16ce6269dfe7795dcaf34de833604e] on a transfer is repaid to the scheme administrator of a registered pension scheme, the scheme administrator must within 90 days after the date of the repayment provide the member with a notice stating—
+
+- (a) the date of the repayment,
+- (b) the amount of the repayment, and
+- (c) the reason for the repayment.
+
+### 13. Provision of information about unauthorised payments[^key-1cc790c8811b1779eecd65f7a28172bc]
+
+(1) Where a registered pension scheme has made to a member of the scheme an unauthorised payment under section 173(1) (provision of benefits), the scheme administrator shall provide to the member before 7<sup>th</sup> July following the tax year in which the payment is made the information specified in paragraph (2).
+
+(2) The information is—
+
+- (a) the nature of the benefit provided;
+- (b) the amount of the unauthorised payment which is treated as being made by the provision of the benefit; and
+- (c) the date on which the benefit was provided.
+
+### 14. Information provided to members by scheme administrators about relevant benefit crystallisation events[^key-7d8ab954a33825cdddc12b581b7c3222][^key-a17b91b33c273ebe7552ce31fcc1096b]
+
+(1) The scheme administrator shall provide a statement containing the information in paragraph (3) to each member of the scheme or, if the member has died, the member’s personal representatives[^key-d2971ded0f593adf4083d0d0ac8547a9]—
+
+- (a) who has an actual (as opposed to prospective) entitlement to be paid a pension, at least once in each tax year, or
+- (b) in respect of whom a relevant benefit crystallisation event[^key-abde51b5cdbb7f2a43803af87d481dfa] has occurred, within 3 months of that event.
+
+- This paragraph is subject to the following qualification.
+
+(2) No obligation to provide a statement arises—
+
+- (a) under paragraph (1) if a statement is required to be provided under regulation 16, 17 or 17A[^key-9b44bf7cfbf8f2028b5afb40adcdf628] containing the same information as is required by paragraph (3);
+- (b) under paragraph (1)(a) in relation to a relevant existing pension (within the meaning of paragraph 10(2) of Schedule 36) to which an individual has an actual (as opposed to prospective) entitlement to be paid a pension on 5<sup>th</sup> April 2006;
+- (ba)[^key-b7de5812e2229d6b4ebf10528f981dee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c) under paragraph (1)(b) if a statement is required to be provided under paragraph (1)(a) or under regulation 8(2) ,[^key-ecc5ca6fbb38f8ee2b76cabed1c339f4] [^key-35c8cb78b026ce5d8c10ef9fb2009cea]....
+
+(3) The information is the amount of the member’s lump sum allowance, and the amount of the member’s lump sum and death benefit allowance,[^key-4cc843c6cae5dcd5892ca4f0c8a80580] expended by—
+
+- (a) relevant benefit crystallisation events[^key-ae543f5ed38b56cd162fff2af5d8cfbd] in respect of the scheme, to the extent that the sums or assets subject to any such event have not been transferred to another registered pension scheme, and
+- (b) where the first-mentioned scheme has received (whether directly or indirectly) a transfer in respect of the member, any relevant benefit crystallisation event[^key-b31f4268798c4d581130052e23e5bf49], prior to the transfer, in connection with—
+  - (i) the sums or assets represented by the transfer;
+  - (ii) sums and assets replaced by the sums or assets mentioned in paragraph (i).
+
+### 14ZA. Information provided to member by scheme administrator where it appears member may be first flexibly accessing pension rights[^key-051adbe835777ce9de8fd3fcad93f899]
+
+(1) If a relevant event (see paragraph (2)) occurs in relation to a member of a registered pension scheme, the scheme administrator—
+
+- (a) must provide the member with a statement—
+  - (i) stating the date of the relevant event, and
+  - (ii) explaining the matters specified in paragraph (3), and
+- (b) must do so before the end of the 31 days beginning with the date of the relevant event,
+
+but this is subject to paragraph (4).
+
+(2) For the purposes of this regulation—
+
+- (a) if—
+  - (i) the member has a member's flexi-access drawdown fund in respect of an arrangement under the scheme, and
+  - (ii) the fund came into being as a result of sums or assets being designated on or after 6 April 2015 as available for the payment of drawdown pension, or as a result of the operation of paragraph 8D(2) of Schedule 28,
+
+  a relevant event occurs when a qualifying payment is made to the member from the fund,
+- (b) if—
+  - (i) the member has a member's drawdown pension fund in respect of an arrangement under the scheme, and
+  - (ii) the sums and assets that make up the fund become newly-designated funds by the operation of paragraph 8B of Schedule 28,
+
+  a relevant event occurs when a qualifying payment is made to the member from the member's flexi-access drawdown fund in respect of the arrangement,
+- (c) a relevant event occurs when an uncrystallised funds pension lump sum is paid to the member by the scheme,
+- (d) if the member is entitled to payment of a lifetime annuity under a flexible annuity contract as defined by section 227G(8), a relevant event occurs when the first payment of the annuity is made,
+- (e) if—
+  - (i) the member is entitled to payment of a scheme pension under a money purchase arrangement under the scheme,
+  - (ii) the member became entitled to the scheme pension on or after 6 April 2015,
+  - (iii) the member became entitled to the scheme pension at a time when fewer than 11 other individuals were entitled to the present payment of a scheme pension, or dependants' scheme pension, under the scheme, and
+  - (iv) the scheme pension is not payable under an annuity contract treated under section 153(8) or (8A) as having become a registered pension scheme,
+
+  a relevant event occurs when the first payment of the scheme pension is made, and
+- (f) a relevant event occurs when a stand-alone lump sum is paid on or after 6 April 2015 to the member by the scheme in circumstances where article 25B(2) of the Taxation of Pension Schemes (Transitional Provisions) Order 2006 applies.
+
+(3) The matters mentioned in paragraph (1)(a)(ii) are—
+
+- (a) that a relevant event has occurred in relation to the member and that, as a result, the member has flexibly accessed the member's pension rights (although may have first done so previously),
+- (b) that if in any tax year the total of the pension inputs to money purchase arrangements, and certain hybrid arrangements, relating to the member exceeds £10,000[^key-3727fd4b5e1c62664c2e5c6e8d9ac76e]—
+  - (i) there will be an annual allowance tax charge on the excess, and
+  - (ii) the annual allowance for pension inputs to other arrangements relating to the member will be £10,000 less than it would otherwise be, and
+- (c) the duties under regulation 14ZB and the circumstances in which the member will have to comply with them.
+
+(4) The scheme administrator is not required to comply with paragraph (1) in relation to the relevant event if—
+
+- (a) the scheme administrator has complied with paragraph (1) in respect of an earlier relevant event, or
+- (b) the scheme administrator is, at any time before complying with paragraph (1) in relation to the relevant event, informed—
+  - (i) by the member, or
+  - (ii) by the scheme administrator of another registered pension scheme or the scheme manager of a qualifying recognised overseas pension scheme or former qualifying recognised overseas pension scheme[^key-a481c7031afcd4440cf41af7476a895f],
+
+  that the member flexibly accessed pension rights at a time before the relevant event occurred.
+
+(5) In this regulation, a reference to a qualifying payment from a fund is a reference to—
+
+- (a) payment of income withdrawal from the fund, or
+- (b) payment of a short-term annuity purchased using sums or assets out of the fund,
+
+but does not include payment at a time when the whole of the fund represents rights attributable to a disqualifying pension credit.
+
+(6) In paragraph (5) “**disqualifying pension credit**” is to be read in accordance with paragraph 2(3) and (4) of Schedule 29.
+
+### 14ZB. Passing-on by member of information under regulation 14ZA if active or contributing etc
+
+(1) Paragraphs (3) and (4) apply if—
+
+- (a) an individual receives a statement under regulation 14ZA from the scheme administrator of a registered pension scheme (the “flexed” registered pension scheme), and
+- (b) on the date of the relevant event concerned, or at any later time, the individual is an accruing member (see paragraph (7)) of the flexed or any other registered pension scheme.
+
+(2) In this regulation—
+
+- “**the relevant 13-week period**” means the period of 91 days beginning with—
+  - (a) the date of receipt if the individual is an accruing member of any registered pension scheme on any day in the period—
+    - (i) beginning with the date of the relevant event concerned, and
+    - (ii) ending with the date of receipt, or
+  - (b) if not, the first day after the date of receipt when the individual is an accruing member of a registered pension scheme, and
+- “**the intervening period**” means the period—
+  - (a) beginning with the date of the relevant event concerned, and
+  - (b) ending with the first day of the relevant 13-week period.
+
+(3) The individual must before the end of the relevant 13-week period—
+
+- (a) pass on a copy of the statement, or
+- (b) otherwise give notice—
+  - (i) of receipt of the statement, and
+  - (ii) of the date of the relevant event concerned or (if applicable) of its having occurred more than 2 years before the start of the relevant 13-week period,
+
+to the scheme administrator of each other registered pension scheme of which the individual is an accruing member on any day in the intervening period; but this is subject to paragraph (6).
+
+(4) Where, in the case of a particular registered pension scheme other than the flexed scheme, the individual is not an accruing member of that other scheme on any day in the intervening period but becomes an accruing member of that other scheme on a day ( “ the activation day ”) after the last day of that period, the individual must before the end of the 91 days beginning with the activation day—
+
+- (a) pass on a copy of the statement, or
+- (b) otherwise give notice—
+  - (i) of receipt of the statement, and
+  - (ii) of the date of the relevant event concerned or (if applicable) of its having occurred more than 2 years before the activation day,
+
+to the scheme administrator of that other scheme; but this is subject to paragraphs (5) and (6).
+
+(5) Paragraph (4) does not apply in connection with the individual becoming an accruing member of any particular scheme if the individual becomes an accruing member of that scheme upon or after becoming a member of that scheme as a result of a recognised transfer after the date of the relevant event concerned.
+
+(6) Paragraph (3) or (4), as the case may be, does not require the information concerned to be provided to the scheme administrator of a particular scheme if the individual has complied with regulation 14ZD(3) or (4) or 14ZE(3) or (4), or has complied with regulation 3AB(2) or (3) of the Pension Schemes (Information Requirements for Qualifying Overseas Pension Schemes, Qualifying Recognised Overseas Pension Schemes and Corresponding Relief) Regulations 2006,[^key-788574b319df6472a8f597bc8da483ff] or has previously complied with paragraph (3) or (4), in relation to the scheme administrator of that scheme.
+
+(7) For the purposes of this regulation, the individual is an accruing member of a registered pension scheme on any particular day if—
+
+- (a) the individual is an active member of the scheme on that day as a result of there presently being arrangements for the accrual of benefits to or in respect of the individual under a cash balance arrangement or hybrid arrangement, or
+- (b) a relevant contribution is made under the scheme on that day.
+
+(8) For the purposes of this regulation, a relevant contribution is made under a registered pension scheme if—
+
+- (a) a relievable pension contribution is paid by or on behalf of the individual under a non-cash-balance money purchase arrangement relating to the individual under the scheme,
+- (b) a contribution is paid in respect of the individual by an employer of the individual under a non-cash-balance money purchase arrangement relating to the individual under the scheme, or
+- (c) a contribution—
+  - (i) paid under the scheme by an employer of the individual, and
+  - (ii) paid otherwise than in respect of any individual,
+
+  becomes held for the purposes of a non-cash-balance money purchase arrangement relating to the individual under the scheme;
+
+and in this paragraph “**non-cash-balance money purchase arrangement**” means a money purchase arrangement other than a cash balance arrangement.
+
+### 14ZC. Information provided by scheme administrators on recognised transfers[^key-2b89e5cd48cc4c87b3e3b321546945ed]
+
+(1) Paragraph (2) applies if—
+
+- (a) in connection with a member of a registered pension scheme (“**the transferring scheme**”), there is a recognised transfer from the transferring scheme to another registered pension scheme or a qualifying recognised overseas pension scheme[^key-65b961fb51ea04f8533e5b43a9557d38] (“**the recipient scheme**”), and
+- (b) the scheme administrator of the transferring scheme has reason to believe that the member first flexibly accessed pension rights before the transfer.
+
+(2) The scheme administrator of the transferring scheme must provide the scheme administrator or the scheme manager (as the case may be)[^key-76a9aaec7a3cbd85e3377458e300a787] of the recipient scheme with a statement—
+
+- (a) stating that the scheme administrator of the transferring scheme has reason to believe that the member first flexibly accessed pension rights before the transfer, and
+- (b) specifying the date the scheme administrator of the transferring scheme understands to be the date when the member first flexibly accessed pension rights.
+
+(3) The requirement under paragraph (2) is to be complied with before—
+
+- (a) the end of the 31 days beginning with the date of the transfer, or
+- (b) if later, the end of the 31 days beginning with the date when the scheme administrator of the transferring scheme first has reason for the belief mentioned in paragraph (1)(b).
+
+(4) References in this regulation to an individual first flexibly accessing pension rights are to be read in accordance with section 227G.
+
+(5)[^key-6ce2c01e75dda37c2cd7a24e30c95048] Paragraph (6) applies if—
+
+- (a) in connection with a member of a registered pension scheme (“**the transferring scheme**”), there is a recognised transfer from the transferring scheme to another registered pension scheme (“**the recipient scheme**”), and
+- (b) paragraph 12 of Schedule 36 (enhanced protection) applies in the case of the member.
+
+(6) The scheme administrator of the transferring scheme must provide the scheme administrator of the recipient scheme with a statement stating, for each arrangement under the transferring scheme relating to the member, the amount that would be “**the permitted maximum**” in relation to each of the following lump sums if a lump sum of that description were paid to or in respect of the member under the arrangement —
+
+- a pension commencement lump sum;
+- a serious ill-health lump sum;
+- an uncrystallised funds pension lump sum;
+- a defined benefits lump sum death benefit;
+- a pension protection lump sum death benefit;
+- an uncrystallised funds lump sum death benefit;
+- an annuity protection lump sum death benefit;
+- a drawdown pension fund lump sum death benefit;
+- a flexi-access drawdown lump sum death benefit.
+
+(7) In this regulation “**the permitted maximum**”, in relation to a lump sum of any description, means the permitted maximum relating to a lump sum of that description under Chapter 15A of Part 9 of ITEPA 2003, as that Chapter has effect in relation to the member as modified by paragraph 12A of Schedule 36.
+
+(8)[^key-7e254adf41b98c376ad954fb450fe13d] Paragraph (9) applies if—
+
+- (a) in connection with a member of a registered pension scheme (“**the transferring scheme**”), there is a recognised transfer from the transferring scheme to another registered pension scheme (“**the recipient scheme**”), and
+- (b) either—
+  - (i) immediately before the transfer, the member is entitled under any arrangement under the transferring scheme to a stand-alone lump sum, or
+  - (ii) at some time in the future the member would (in the absence of the transfer or any other transfer) become entitled under any such arrangement to such a lump sum.
+
+(9) The scheme administrator of the transferring scheme must provide the scheme administrator of the recipient scheme with a statement stating the amount of the 5th April 2023 maximum.
+
+(10) In paragraphs (8) and (9) and this paragraph—
+
+- “**the 5 April 2023 maximum**” means the maximum amount that, on 5th April 2023, could have been paid to the member under the arrangement in question by way of a stand-alone lump sum;
+- “**stand-alone lump sum**” has the meaning given by article 25 of the Taxation of Pension Schemes (Transitional Provisions) Order 2006.
+
+(11) The requirements in paragraphs (6) and (9) must be complied with before the end of the period of 3 months beginning with the date of the recognised transfer in question.
+
+### 14ZCA. Further information provided by scheme administrators on recognised transfers to overseas schemes[^key-3b535dbb35788b2d9a74223b579c213f]
+
+(1) This regulation applies if there is a recognised transfer from a registered pension scheme to a qualifying recognised overseas pensions scheme.
+
+(2) The scheme administrator of the registered pension scheme must provide the scheme manager of the qualifying recognised overseas pension scheme with a statement—
+
+- (a) stating whether or not an overseas transfer charge[^key-394385bf6061779a3d494a9c9c4c8a48] arose on the transfer, and
+- (b)[^key-e4413e9f726bd4fb3bf727ca30110561] in a case where an overseas transfer charge arose in the case of the transfer, stating—
+  - (i) the transferred value of the transfer,
+  - (ii) whether the charge arose under section 244AC or 244IA, and
+  - (iii) the amount of the charge, and
+- (c) in a case where the transfer is excluded from the overseas transfer charge under section 244AC by or under any of sections 244B to 244H, the section under which it is so excluded.
+
+(3) The requirement under paragraph (2) is to be complied with before the end of the 31 days beginning with the date of the transfer.
+
+(4) Paragraph (5) applies if overseas transfer charge on the transfer is repaid to the scheme administrator of the registered pension scheme.
+
+(5) The scheme administrator of the registered pension scheme must provide the scheme manager of the qualifying recognised overseas pension scheme with—
+
+- (a) a copy of the statement under paragraph (2),
+- (b) a statement that the original statement is inaccurate and that the overseas transfer charge on the transfer has been repaid to the scheme administrator, and
+- (c) the reason why the transfer is excluded from the charge.
+
+(6) The requirement under paragraph (5) is to be complied with before the end of the 31 days beginning with the date of the repayment.
+
+### 14ZD. Individual to whom flexible drawdown arrangements applied before 6 April 2015 must tell other schemes if active or contributing etc
+
+(1) Paragraphs (3) and (4) apply if—
+
+- (a) at any time before 6 April 2015, section 165(3A) applied to an arrangement relating to an individual under a registered pension scheme (the “flexed” registered pension scheme), and
+- (b) on or after 6 April 2015, the individual is an accruing member (see paragraph (9)) of the flexed or any other registered pension scheme.
+
+(2) In this regulation “**the relevant 13-week period**” means the period of 91 days beginning with—
+
+- (a) 6 April 2015 if on that date the individual is an accruing member of any registered pension scheme, or
+- (b) if not, the first day after 6 April 2015 when the individual is an accruing member of a registered pension scheme.
+
+(3) The individual must, before the end of the relevant 13-week period, provide the information specified in paragraph (5) to the scheme administrator of each registered pension scheme of which the individual is an accruing member on the first day of the relevant 13-week period; but this is subject to paragraphs (6) and (8).
+
+(4) Where, in the case of a particular registered pension scheme other than the flexed scheme, the individual is not an accruing member of that other scheme on the first day of the relevant 13-week period but becomes an accruing member of that other scheme on a day ( “ the activation day ”) after the first day of that period, the individual must, before the end of the 91 days beginning with the activation day, provide the information specified in paragraph (5) to the scheme administrator of that other scheme; but this is subject to paragraphs (7) and (8).
+
+(5) The information is that, as a result of section 227G(3), the individual is treated for the purposes of sections 227B to 227F as having first flexibly accessed pension rights at the start of 6 April 2015.
+
+(6) Paragraph (3) does not require that information to be provided to the scheme administrator of a particular scheme if, immediately before 6 April 2015, section 165(3A) applied to an arrangement relating to the individual under that scheme.
+
+(7) Paragraph (4) does not require that information to be provided to the scheme administrator of a particular scheme if the individual becomes an accruing member of that scheme upon or after becoming a member of that scheme as a result of a recognised transfer made to the scheme after 6 April 2015.
+
+(8) Paragraph (3) or (4), as the case may be, does not require that information to be provided to the scheme administrator of a particular scheme if the individual has complied with regulation 14ZB(3) or (4) or 14ZE(3) or (4), or has previously complied with paragraph (3) or (4), or has complied with regulation 3AB(2) or (3) of the Pension Schemes (Information Requirements for Qualifying Overseas Pension Schemes, Qualifying Recognised Overseas Pension Schemes and Corresponding Relief) Regulations 2006,[^key-a292ec117e89357fb8233f2580726955] in relation to the scheme administrator of that scheme.
+
+(9) For the purposes of this regulation, the individual is an accruing member of a registered pension scheme on any particular day if—
+
+- (a) the individual is an active member of the scheme on that day as a result of there presently being arrangements for the accrual of benefits to or in respect of the individual under a cash balance arrangement or hybrid arrangement, or
+- (b) a relevant contribution is made under the scheme on that day.
+
+(10) For the purposes of this regulation, a relevant contribution is made under a registered pension scheme if—
+
+- (a) a relievable pension contribution is paid by or on behalf of the individual under a non-cash-balance money purchase arrangement relating to the individual under the scheme,
+- (b) a contribution is paid in respect of the individual by an employer of the individual under a non-cash-balance money purchase arrangement relating to the individual under the scheme, or
+- (c) a contribution—
+  - (i) paid under the scheme by an employer of the individual, and
+  - (ii) paid otherwise than in respect of any individual,
+
+  becomes held for the purposes of a non-cash-balance money purchase arrangement relating to the individual under the scheme;
+
+and in this paragraph “**non-cash-balance money purchase arrangement**” means a money purchase arrangement other than a cash balance arrangement.
+
+### 14ZE. Member to inform other schemes if active or contributing etc and, under paragraph 8C of Schedule 28, drawdown pension fund becomes flexi-access drawdown fund and is flexibly accessed[^key-45317b4715b9f20a7efec567ea7b13aa]
+
+(1) Paragraphs (3) and (4) apply if—
+
+- (a) under paragraph 8C of Schedule 28, the drawdown pension fund in respect of an arrangement relating to an individual under a registered pension scheme (the “flexed” registered pension scheme) becomes the individual's flexi-access drawdown fund in respect of the arrangement, [^key-bf14b8081da3be3183e4ebc1d9483047]...
+- (b)[^key-b01f8ed7554688618dc983bc2865c613] the individual accesses that flexi-access drawdown fund, and
+- (c)[^key-112b76f19c055fb3a543f799e4988a05] on the date (the “first flexi-access date”) that the individual first flexibly accesses that flexi-access drawdown fund (the “first flexi-access”)[^key-2feb0a82b9ff2c8ee5cbe744cb02d9bd], or at any later time, the individual is an accruing member (see paragraph (7)) of the flexed or any other registered pension scheme.
+
+(2) In this regulation “**the relevant 13-week period**” means the period of 91 days beginning with—
+
+- (a) the first flexi-access date[^key-11a2e814c3129610107861e32c7a0f3d] if on that date the individual is an accruing member of any registered pension scheme, or
+- (b) if not, the first day after that date when the individual is an accruing member of a registered pension scheme.
+
+(3) The individual must, before the end of the relevant 13-week period, inform the scheme administrator of each other registered pension scheme of which the individual is an accruing member on the first day of the relevant 13-week period—
+
+- (a) of the conversion, and
+- (b) of the first flexi-access date[^key-e3dca6eed6e6bd555a9f7a1b4b49e7e0] or (if applicable) of the first flexi-access having occurred more than 2 years before the start of the relevant 13-week period;
+
+but this is subject to paragraph (6).
+
+(4) Where, in the case of a particular registered pension scheme other than the flexed scheme, the individual is not an accruing member of that other scheme on the first day of the relevant 13-week period but becomes an accruing member of that other scheme on a day ( “ the activation day ”) after the first day of that period, the individual must, before the end of the 91 days beginning with the activation day, inform the scheme administrator of that other scheme—
+
+- (a) of the conversion, and
+- (b) of the first flexi-access date[^key-2cddcaf9e779a4f365b4f33e91d124ac] or (if applicable) of the first flexi-access having occurred more than 2 years before the activation day;
+
+but this is subject to paragraphs (5) and (6).
+
+(5) Paragraph (4) does not apply in connection with the individual becoming an accruing member of any particular scheme if the individual becomes an accruing member of that scheme upon or after becoming a member of that scheme as a result of a recognised transfer after the conversion date.
+
+(6) Paragraph (3) or (4), as the case may be, does not require the information concerned to be provided to the scheme administrator of a particular scheme if the individual has complied with regulation 14ZB(3) or (4) or 14ZD(3) or (4), or has complied with regulation 3AB(2) or (3) of the Pension Schemes (Information Requirements for Qualifying Overseas Pension Schemes, Qualifying Recognised Overseas Pension Schemes and Corresponding Relief) Regulations 2006,[^key-ae1dba6e032db2a653d2b32ba724d230] or has previously complied with paragraph (3) or (4), in relation to the scheme administrator of that scheme.
+
+(7) For the purposes of this regulation, the individual is an accruing member of a registered pension scheme on any particular day if—
+
+- (a) the individual is an active member of the scheme on that day as a result of there presently being arrangements for the accrual of benefits to or in respect of the individual under a cash balance arrangement or hybrid arrangement, or
+- (b) a relevant contribution is made under the scheme on that day.
+
+(8) For the purposes of this regulation, a relevant contribution is made under a registered pension scheme if—
+
+- (a) a relievable pension contribution is paid by or on behalf of the individual under a non-cash-balance money purchase arrangement relating to the individual under the scheme,
+- (b) a contribution is paid in respect of the individual by an employer of the individual under a non-cash-balance money purchase arrangement relating to the individual under the scheme, or
+- (c) a contribution—
+  - (i) paid under the scheme by an employer of the individual, and
+  - (ii) paid otherwise than in respect of any individual,
+
+  becomes held for the purposes of a non-cash-balance money purchase arrangement relating to the individual under the scheme;
+
+and in this paragraph “**non-cash-balance money purchase arrangement**” means a money purchase arrangement other than a cash balance arrangement.
+
+### 14A. Annual allowance: annual provision of information by scheme administrator to member[^M_C_f1633af9-f1e8-4cb0-9d05-c0e2b5f92a49][^key-2235553e96b20dff7fec5d66421a6928][^key-511d992a1ce33b18f23bc97b41281f51]
+
+(1) Where—
+
+- (a) an individual is a member (“the member”) of a registered pension scheme for all or part of a pension input period ending in a tax year (“the relevant pension input period”) who meets one of the conditions in paragraph (8), and
+- (b) either—[^key-72ed37c69085a2a1fd3da9af431b09e1]
+  - (i) the aggregate of the pension input amounts for the relevant pension input period in respect of each arrangement under the registered pension scheme relating to the member exceeds the annual allowance for that tax year, or[^key-db6dbc2dac7bbe7eda5111c1a7e26d6c]
+- (ii) both of the conditions in paragraph (9) are met,
+
+the scheme administrator must provide the member with a statement containing the information specified in paragraph (10) if the condition in sub-paragraph (b)(ii) is met but otherwise containing the information[^key-c64ef9f6d0a506f7f7217314247b5cac] specified in paragraph (2) (the “pension savings statement”).
+
+(1A)[^key-aaad07c7702eb4149dd97031324320ab] For the tax year 2015-16—
+
+- (a) for the purposes of this regulation the pre-alignment and post-alignment tax years are treated as a single tax year and references to “tax year”, “the relevant tax year” and “the relevant pension input period” shall be construed accordingly,
+- (b) without prejudice to sub-paragraph (a), the condition in paragraph (1)(b)(i) is satisfied if the aggregate of the pension input amounts for the tax year 2015-16 exceeds £80,000, or the aggregate of the pension input amounts for the post-alignment tax year exceeds £40,000,
+- (c) without prejudice to sub-paragraph (a), the information required to be provided pursuant to paragraphs (2)(a), (2)(c), (10)(a), (10)(b), (10)(c) and (10)(f) must be provided separately for the pre-alignment and post-alignment tax years,
+- (d) paragraphs (2)(b) , (10)(d) and (10)(e)[^key-8e5b88f9a76b234c256b4a4a10c81874] do not apply, and[^key-9227490a79ffbb89bfbd87d7b04827f0]
+- (e) the annual allowance for that tax year is excluded from the information required to be provided pursuant to paragraph (2)(d), [^key-217dd6af8f7efaaf44db8c79e3f5e66f]...
+- (f)[^key-217dd6af8f7efaaf44db8c79e3f5e66f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) The information is—
+
+- (a) the aggregate of the pension input amounts for the relevant pension input period in respect of all the arrangements under the registered pension scheme relating to the member (see section 152),
+- (b) the annual allowance for the tax year in which the relevant pension input period ends (“the relevant tax year”),
+- (c) the aggregate of the pension input amounts in respect of all the arrangements under the registered pension scheme relating to the member for each of the pension input periods ending in the three tax years immediately preceding the relevant tax year (subject to paragraph (3)), and
+- (d) the annual allowance for each of the three preceding tax years or where one or more of the three preceding tax years is the 2008-09, 2009-10 or 2010-11 tax year, the assumed annual allowance for that tax year pursuant to paragraph 30(3)(a) of Schedule 17 to the Finance Act 2011.
+
+(3) Where a pension input period in paragraph (2)(c) ends in the 2008-09, 2009-10 or 2010-11 tax year, the pension input amount for that pension input period must be determined on the basis that the assumptions in paragraph 30(3)(b) of Schedule 17 to the Finance Act 2011 apply to that pension input period.
+
+(4) The scheme administrator must provide the member with the pension savings statement no later than the 6th October following the relevant tax year. This paragraph is subject to paragraphs (5) , (6) and (6C)[^key-7fc2cdaff6a253b93629f66f2017f959].
+
+(5) Where the relevant tax year is 2011-12, the scheme administrator must provide the member with the pension savings statement for that year no later than 6th October 2013.
+
+(6) Where the scheme administrator has not been provided with the information concerning the member by the member’s employer in respect of the relevant pension input period pursuant to regulation 15A, the scheme administrator must provide the pension savings statement—
+
+- (a) within 3 months following receipt of that information, or
+- (b) if later, on or before the date specified in paragraph (4) or (where the relevant tax year is 2011-12) paragraph (5).
+
+(6A)[^key-0ed5180878b8e4def47fd126d1443140] This paragraph applies where—
+
+- (a) the scheme administrator has been provided with additional information concerning the member by the member’s employer in respect of the relevant pension input period pursuant to regulation 15B, and
+- (b) the conditions in paragraph (1)(a) and (b) are met.
+
+(6B) This paragraph applies where —
+
+- (a) a change is made to scheme rules,
+- (b) as a result of the change to scheme rules the aggregate of the member’s pension input amounts has changed in a pension input period, and
+- (c) the conditions in paragraph (1)(a) and (b) are met.
+
+(6C) Where paragraph (6A) or (6B) applies, the scheme administrator must provide the member with a pension savings statement for a pension input period falling within the relevant time—
+
+- (a) within 3 months after the scheme administrator receives the additional information pursuant to regulation 15B or the change to scheme rules is made, or
+- (b) if later, on or before the date specified in paragraph (4),
+
+irrespective of whether a pension savings statement has previously been provided for the relevant tax year.
+
+(6D) In this regulation “**relevant time**” means a time beginning with the start of the tax year 6 years before the current tax year and ending with the end of the current tax year.
+
+(6E) In this regulation, “**current tax year**” means the tax year in which the condition in paragraph (6A)(a) or (6B)(a) is met.
+
+(7) Where—
+
+- (a) the member meets the conditions in paragraph (1)(a) and (b), and
+- (b) paragraph 28 of Schedule 17 to the Finance Act 2011 applies (provision for a straddling pension input period),
+
+the scheme administrator must provide the member with a pension savings statement containing the pension input amount in respect of the pre-announcement period and post-announcement period in addition to the information specified in paragraph (2).
+
+(8) The conditions referred to in paragraph (1)(a)[^key-e372d4ded4b44ca0a2c51ae53290126f] are as follows.
+
+(9)[^key-6cb3c4f4331da3d9e8fc08077604c347] The conditions referred to in paragraph (1)(b)(ii) are as follows.
+
+- *Condition D* The scheme administrator has reason to believe that the member has first flexibly accessed pension rights for the purposes of sections 227B to 227F.
+- *Condition E* That the overall total of the following amounts is more than £10,000[^key-8695a2ec033a0f65f3a49a39cdc21023]—
+  - (a) for each money purchase arrangement relating to the member under the scheme, the pension input amount for the relevant pension input period in respect of the arrangement, and
+  - (b) for each hybrid arrangement relating to the member under the scheme, the greater of such of input amounts A and B mentioned in section 237 as are, for the purposes of section 237, relevant input amounts for the relevant pension input period in the case of the arrangement.
+
+(10) The information is—
+
+- (a) the total of—
+  - (i) the pension input amounts for the relevant pension input period in respect of each money purchase arrangement relating to the member under the scheme, and
+  - (ii) the pension input amounts for the relevant pension input period in respect of each hybrid arrangement under the scheme—
+    - (aa) that relates to the member, and
+    - (bb) for which the pension input amount for the relevant pension input period is input amount A or B mentioned in section 237,
+- (b) the total of—
+  - (i) the pension input amounts for the relevant pension input period in respect of each defined benefits arrangement relating to the member under the scheme, and
+  - (ii) the pension input amounts for the relevant pension input period in respect of each hybrid arrangement under the scheme—
+    - (aa) that relates to the member,
+    - (bb) for which the pension input amount for the relevant pension input period is input amount C mentioned in section 237, and
+    - (cc) that is made before 14 October 2014 and has not become a hybrid arrangement (whether or not for the first time) on or after that day,
+- (c) for each hybrid arrangement relating to the member under the scheme—
+  - (i) that is made on or after 14 October 2014 or has become a hybrid arrangement (whether or not for the first time) on or after that day, and
+  - (ii) for which the pension input amount for the relevant pension input period is input amount C mentioned in section 237,
+
+  which of input amounts A, B and C mentioned in section 237 is a relevant input amount for the purposes of section 237 for the relevant pension input period in the case of the arrangement, and the amount of each of those input amounts that in the case of the arrangement is a relevant input amount for those purposes for that period,
+- (d) the unadjusted alternative annual allowance for the relevant tax year, and the fact the member's money-purchase input sub-total for the relevant tax year will be tested against a £10,000[^key-6e5b34c5934f68d9ba8e4b113f241c8a] allowance,
+- (e)[^key-590fc8364201326570130e60bb2fc56a]
+  - (i) the unadjusted alternative allowance for each of the three preceding tax years, and the fact that the member's money purchase input sub-total for each of those preceding years will be tested against—
+    - (aa) a £4,000 allowance for the tax year 2017-18 and subsequent years,
+    - (bb) a £10,000 allowance for the tax year 2016-17, or
+  - (ii) if any of those preceding years is the tax year 2014-15 or earlier, the annual allowance for that year, and
+- (f) for each of those three preceding years, the information given in the pension savings statement for the pension input period ending in that year under, as the case may be, sub-paragraphs (a) to (c) or paragraph (2)(a).
+
+(11) If, in the case of a hybrid arrangement, input amount C mentioned in section 237—
+
+- (a) is a relevant input amount for the purposes of section 237 for the relevant pension input period, and
+- (b) is equal to—
+  - (i) input amount A or B mentioned in section 237 if that is the only other relevant input amount for the purposes of section 237 for that period, or
+  - (ii) the greater of input amounts A and B mentioned in section 237 if both are relevant input amounts for the purposes of section 237 for that period,
+
+the pension input amount in respect of the arrangement for that period is, for the purposes of paragraph (10), treated as being input amount A or B or, as the case may be, the greater of input amounts A and B (and, in either case, not input amount C).
+
+(12) In paragraph (10)(d) and (e) “**the unadjusted alternative annual allowance**”, in relation to a tax year, means the amount that would be the member's alternative annual allowance under section 227B(2) for that tax year if any increases under section 228A(2) (carry forward of unused allowance from preceding 3 years) and any reductions under section 228ZA (tapered reduction of annual allowance: high-income individual)[^key-ba2a38a4374ff2e87ae7ec116b5cf4c3] are ignored.
+
+Condition A
+
+The individual is an active member of the registered pension scheme referred to in paragraph (1)
+
+Condition B
+
+The individual is a deferred member of the registered pension scheme referred to in paragraph (1) in relation to a cash balance arrangement and the condition in section 230(5B)(b) (cash balance arrangements) is not met in respect of the pension input amount for the relevant pension input period.
+
+Condition C
+
+The individual is a deferred member of the registered pension scheme referred to in paragraph (1) in relation to a defined benefits arrangement and the condition in section 234(5B)(b) (defined balance arrangements) is not met in respect of the pension input amount for the relevant pension input period.
+
+### 14B. Annual allowance: provision of information by scheme administrator to member on request[^key-246f256b220d2efbfc5ab02cc0936c28]
+
+(1) Where a member or former member (“the member”) of a registered pension scheme makes a written request to the scheme administrator of that scheme for any such information in respect of a pension input period ending in a tax year (“the relevant pension input period”) as is referred to in regulation 14A(2), (7) or (10)[^key-5e4734106deae9bd33e7033256f401ed], the scheme administrator must provide the member with the information requested—
+
+- (a) within 3 months following receipt of the request, or
+- (b) if later, on or before 6th October following the tax year (**“**the relevant tax year”) in which the relevant pension input period ended.
+
+This paragraph is subject to paragraphs (2) and (3).
+
+(2) Where the relevant tax year is 2011-12, the scheme administrator must provide the member with the information requested under paragraph (1) for that tax year no later than 6th October 2013.
+
+(3) Where the scheme administrator has not been provided with the information concerning the member by the member’s employer in respect of the relevant pension input period pursuant to regulation 15A (“the regulation 15A information”), the scheme administrator must provide the information requested under paragraph (1)—
+
+- (a) within 3 months following receipt of the regulation 15A information, or
+- (b) if later, on or before—
+  - (i) 6th October following the relevant tax year, or
+  - (ii) where the relevant tax year is 2011-12, the 6th October 2013.
+
+### 14C. Individual protection 2016: provision of information by scheme administrator to member on request[^key-222876bff97a1114278357756d49dcab]
+
+(1) Where—
+
+- (a) an individual is a member of a registered pension scheme on 5 April 2016,
+- (b) the individual makes a written request to the scheme administrator for the information mentioned in paragraph (2), and
+- (c)[^key-6eb90cfed0f764573f57c85ee02a74f3][^key-1d2d4f96c6581f00762578f04804cec9] the request is received by the scheme administrator before 6 April 2020,
+
+the scheme administrator must provide the individual with the information within 3 months following receipt of the request.
+
+(2) The information is such information relating to the member's rights under the scheme as is necessary for calculating, in accordance with Part 2 of Schedule 4 to the Finance Act 2016 (individual protection 2016), the member's relevant amount for the purposes of paragraph 9(2) of that Schedule.
+
+### 14D. Annual allowance: provision of updated information by scheme administrator to member[^key-1230a6e3c287a2813198c8b707d56711]
+
+(1) Where, for a pension input period falling within the relevant time—
+
+- (a) the scheme administrator has provided a member with information in respect of a pension input period ending in a tax year (“the relevant pension input period”) pursuant to regulation 14A(1) or 14B(1), and
+- (b) either—
+  - (i) the scheme administrator has since been provided with additional information concerning the member by the member’s employer in respect of the relevant pension input period pursuant to regulation 15B (“the regulation 15B information”), or
+  - (ii) as a result of a change to scheme rules the aggregate of the member’s pension input amounts has changed in any pension input period falling within the relevant time (“the rule change aggregate”), and
+- (c) the scheme administrator is not required to provide the member with a pension savings statement for the relevant pension input period under regulation 14A(6C),
+
+the scheme administrator must provide the information referred to in paragraph (1)(a), as amended where necessary by either the regulation 15B information or the rule change aggregate, to the member again (“the updated information”).
+
+(2) The updated information must be provided by the scheme administrator—
+
+- (a) within 3 months after the scheme administrator receives the regulation 15B information or the change to scheme rules is made, or
+- (b) if later, on or before 6th October following the tax year in which the relevant pension input period ended.
+
+(3) In this regulation “**relevant time**” means a time beginning with the start of the tax year 6 years before the current tax year and ending with the end of the current tax year.
+
+(4) In this regulation, “**current tax year**” means the tax year in which either of the conditions in paragraph (1)(b) are met.
+
+### 15. Information between scheme administrators[^key-5db330ee5cdd5659ab85ea239faff947]
+
+(1) This regulation applies if, and to the extent that, a member’s crystallised rights under one registered pension scheme (“Scheme A”), are transferred to another such scheme (“Scheme B”).
+
+(2) The scheme administrator of Scheme A shall provide to the administrator of Scheme B, within 3 months of the transfer, a statement of the total amount of the member’s lump sum allowance, and the total amount of the member’s lump sum and death benefit allowance,[^key-4132251b480ebe1284ae69edc7a840ee] expended in each of the reportable periods[^key-01cd4052f2f1d9dec9cc7c9e391dd22b] by—
+
+- (a) relevant benefit crystallisation events[^key-58f6262eb3615e0fa1b62cb0f962fe56] in respect of Scheme A in connection with the sums and assets represented by the transfer; and
+- (b) where Scheme A has received (whether directly or indirectly) a transfer in respect of the member, any relevant benefit crystallisation event[^key-9aad33bbf5ec32cbd670125d63cb714b] prior to the occurrence of the transfer in connection with—
+  - (i) the sums or assets represented by the transfer; and
+  - (ii) sums and assets replaced by the sums and assets mentioned in paragraph (i).
+
+(3)[^key-a1e7c4b174f6cbf0c37b563fadb227aa] In paragraph (2) “**the reportable periods**” means—
+
+- (a) the period ending with 5th April 2024, and
+- (b) the period beginning with 6th April 2024 and ending with the date of the statement.
+
+### 15ZA. Information between scheme administrators: transfer of dependant’s, nominee’s or successor’s funds[^key-df82ac6498514743781aea9b81fbe3ed]
+
+(1) This regulation applies if and to the extent to which there is a recognised transfer of sums or assets (or both) which represent—
+
+- (a) a dependant’s flexi-access drawdown fund,
+- (b) a nominee’s flexi-access drawdown fund,
+- (c) a successor’s flexi-access drawdown fund, or
+- (d) a dependant’s drawdown pension fund,
+
+in respect of a registered pension scheme (“Scheme A”) to another such scheme (“Scheme B”).
+
+(2) The scheme administrator of Scheme A shall provide the information specified in paragraph (3) to the scheme administrator of Scheme B within 3 months of the transfer.
+
+(3) The information is—
+
+- (a) which of the descriptions in paragraphs (1)(a) to (d) applies to the drawdown fund from which the sums or assets (or both) are transferred,
+- (b) whether a successor has been nominated in respect of that drawdown fund under paragraph 27F of Schedule 28 and the name and address of any individual so nominated,
+- (c) where the sums or assets (or both) transferred represent a dependant’s flexi-access drawdown fund, a nominee’s flexi-access drawdown fund or a dependant’s drawdown pension fund, the age at death of the deceased member,
+- (d) where the sums or assets (or both) transferred represent a successor’s flexi-access drawdown fund, the age at death of the immediately preceding dependant, nominee or successor (as the case may be), and
+- (e) where the deceased member referred to in sub-paragraph (c), or the immediately preceding dependant, nominee or successor referred to in sub-paragraph (d) died before the age of 75—
+  - (i) confirmation as to whether or not section 579CZA(1) or (2) of ITEPA 2003 (exemption for beneficiaries’ income withdrawal in some cases) apply to payments of income withdrawal from the fund from which the sums or assets (or both) are transferred, and
+  - (ii) if section 579CZA(1) or (2) do not apply, confirmation as to which (if any) of section 579CZA(4), (5) or (6) of ITEPA 2003 apply to payments of income withdrawal from that fund.
+
+### 15A. Annual allowance: information to be provided to scheme administrators by certain persons[^key-20ef0e2762518648080f606b62d58132]
+
+(1) Where—
+
+- (a) an employer is a sponsoring employer of a registered pension scheme, and
+- (b) an employee of that employer or a director is an active member of that scheme in relation to an arrangement under the scheme (“the arrangement”) for all or part of a pension input period ending in a tax year,
+
+the employer must provide to the scheme administrator such information as will enable the scheme administrator to calculate the pension input amount in respect of the arrangement for the pension input period ending in that tax year.
+
+(2) The information must be provided to the scheme administrator no later than the 6th July following the tax year in which the pension input period ends. This paragraph is subject to paragraph (3).
+
+(3) Where the pension input period ends in the tax year 2011-12, the employer must provide the information relating to the pension input period no later than 6th July 2013.
+
+(4) The employer must provide to the scheme administrator such information as will enable the scheme administrator to calculate the pension input amount for any of the pension input periods ending in the tax years 2008-09, 2009-10 and 2010-11, within 3 months following receipt of a written request from the scheme administrator or (if later) on or before 6th July 2013.
+
+(5) Where—
+
+- (a) regulation 14A(7) applies to a scheme administrator (obligation to provide information to a member where there is a straddling pension input period), and
+- (b) a written request is made by the scheme administrator to the employer,
+
+the employer must provide the scheme administrator with such information as will enable the scheme administrator to comply with the obligation contained in regulation 14A(7), such information to be supplied within three months of receipt of the written request or, (if later) on or before 6th July 2013.
+
+(6) The obligations contained in this regulation shall apply to a responsible person (see paragraph (7)) and for the purposes of applying this regulation to the responsible person, references to “employer” shall be read as referring to the responsible person.
+
+(7) For the purposes of this regulation “responsible person” means a person who is responsible for providing the scheme administrator of a registered pension scheme with such information as will enable the scheme administrator to calculate the pension input amount in respect of a member where the member is an active member of that scheme in relation to an arrangement under the scheme for all or part of a pension input period ending in a tax year.
+
+### 15B. Annual allowance: additional information to be provided to scheme administrators by certain persons[^key-ac02b72155628ffeb9b2891ccd92aaa7]
+
+(1) Where, for a pension input period falling within the relevant time—
+
+- (a) an employer has provided information to the scheme administrator under regulation 15A, and
+- (b) the employer becomes aware that the information provided under regulation 15A is insufficient to enable the scheme administrator to correctly calculate the pension input amounts in respect of the arrangement for the pension input period ending in that tax year,
+
+the employer must provide to the scheme administrator such information as will enable the scheme administrator to recalculate the pension input amounts in respect of the arrangement for the pension input period ending in that tax year.
+
+(2)  The information must be provided to the scheme administrator within 3 months of the employer becoming aware that the information provided under regulation 15A is insufficient or, (if later), on or before 6th July following the tax year in which the pension input period ends.
+
+(3) In this regulation “**relevant time**” means a time beginning with the start of the tax year 6 years before the current tax year and ending with the end of the current tax year.
+
+(4) In this regulation, “**current tax year**” means the tax year in which the condition in paragraph (1)(b) is met.
+
+(5) The obligations contained in this regulation shall apply to a responsible person (see paragraph (6)) and for the purposes of applying this regulation to the responsible person, references to “employer” shall be read as referring to the responsible person.
+
+(6) In this regulation “**responsible person**” means a person who is responsible for providing the scheme administrator of a registered pension scheme with such information as will enable the scheme administrator to calculate the pension input amounts in respect of a member where the member is an active member of that scheme in relation to an arrangement under the scheme for all or part of a pension input period ending in a tax year.
+
+### 16. Pensions and annuities in payment: information provided to and by insurance companies[^key-c9e40f062e5d79311c01992d1271101a]
+
+(1) This regulation applies if a registered pension scheme has provided an insurance company with funds, otherwise than from a drawdown pension[^key-983be3c6220a709702f2086c178ccd3f] fund or flexi-access drawdown fund[^key-861f3a1012b522587692d1894d6ffdf3], to secure the payment of—
+
+- (a) a scheme pension, or
+- (b) a lifetime annuity.
+
+(2) The scheme administrator shall provide the insurance company, within 3 months of the date on which the recipient becomes entitled to the pension or annuity, with a statement of the total amount of the member’s lump sum allowance, and the total amount of the member’s lump sum and death benefit allowance,[^key-2e8a4849b778a06e8eb8c091baab92f1] expended, at the date of the statement by relevant benefit crystallisation events[^key-10d6e19bea123c09c941b7e7c81dbc2c] in respect of that pension or annuity, and any pension commencement lump sum connected with that pension or annuity.
+
+(3) The insurance company shall provide to each pensioner or annuitant, at least once in each tax year, a statement of the total amount of the member’s lump sum allowance, and the total amount of the member’s lump sum and death benefit allowance,[^key-d27e421f977d1472a89511602b748d4d] expended at the date of the statement, by relevant benefit crystallisation events[^key-3a56411ae57645b944c29ef14499a751] in respect of that pension or annuity and any pension commencement lump sum paid in connection with that pension or annuity.
+
+(4)[^key-0f0bfd25a7e92f196ec3c8391c000d8a] No obligation to provide a statement arises—
+
+- (a) under paragraph (2) in respect of any entitlement to a pension or annuity or pension commencement lump sum which does not give rise to a relevant benefit crystallisation event[^key-1a71107f2a04d5ea16959c89eff1ff63] ;
+- (b)[^key-20f01b7757518a57a35b09415076db66] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 17. Payments to insurance companies from drawdown pension funds[^key-b37521879b36abd5a0c3303740e4be1f][^key-4627477d9453da1d1ca5cc1f80be68c6]
+
+(1) This regulation applies if a registered pension scheme has provided an insurance company with sums or assets from a drawdown pension[^key-336c4ee30a7630db0f1c291195d08e56] fund or flexi-access drawdown fund[^key-e3fdeb608c823a22c1deeecc347f39fa], to secure the payment of—
+
+- (a) a scheme pension, or
+- (b) a lifetime annuity.
+
+(2) If the sums or assets provided comprise part of the member’s drawdown pension[^key-307e88c2685e38db940a97385384f4f6] fund or of the member's flexi-access drawdown fund[^key-fe8364151fac51c718916a001b987256], the scheme administrator shall provide the insurance company, within 3 months of the purchase of the pension or annuity, with a statement of the amount of the member’s lump sum allowance, and the amount of the member’s lump sum and death benefit allowance,[^key-3a2abae537090fc8ae71b44f2b8ffc8c] expended by the member becoming entitled to the scheme pension or the lifetime annuity.
+
+(3) The insurance company shall provide to each pensioner or annuitant, at least once in each tax year, a statement of the amount of the member’s lump sum allowance, and the amount of the member’s lump sum and death benefit allowance,[^key-91638d2d11e0b3bc3b0a15f7ecc1aa4a] expended at the date of the statement, in respect of that pension or annuity.
+
+- But no statement is required if the amount expended[^key-1fc5fe96832552ef8112baddecc022ed] is nil.
+
+(4) If the sums or assets provided comprise the whole of the member’s drawdown pension[^key-bbb986af952f994d328da5f298e947d5] fund or of the member's flexi-access drawdown fund[^key-4360cb70de889f20a4057b629099e5ab], the scheme administrator shall provide the insurance company, within 3 months of the purchase of the pension or annuity, with a statement containing the information in paragraph (5).
+
+(5) The information is—
+
+- (a) the sum of the amounts of the member’s lump sum allowance, and the sum of the amounts of the member’s lump sum and death benefit allowance,[^key-f975a8380ccb602a95c80253d0e7ad68] expended by—
+  - (i) relevant benefit crystallisation events[^key-da21790f2a69fcfd7748f5b49998a4e0] in respect of the scheme referred to in paragraph (4) (“A”), to the extent that the sums and assets subject to those events have not been the subject of a transfer to another registered scheme; and
+  - (ii) where A has received (whether directly or indirectly) a transfer in respect of that member, any relevant benefit crystallisation event[^key-1aa72c08d84e9879138396d2cf57e6c1] prior to the transfer in connection with the sums and assets represented by the transfer and sums and assets which were replaced by the sums and assets mentioned in paragraph (i), less
+- (b) the sum of the amounts of the member’s lump sum allowance, and the sum of the amounts of the member’s lump sum and death benefit allowance,[^key-876b929b4f32fc5e9e8b3a670afc74b6] expended by relevant benefit crystallisation events[^key-4b0c94b03a224295790a4cbb87ea958e]—
+  - (i) which have been the subject of a statement under paragraph (2),
+  - (ii) which have been the subject of a statement under regulation 16(2), or
+  - (iii) which are referable to sums or assets which continue to be held by A.
+
+(6) The insurance company shall provide to the pensioner or annuitant, once in each tax year, a statement containing the information in paragraph (7).
+
+(7) The information is—
+
+- (a) the sum of the amounts of the member’s lump sum allowance, and the sum of the amounts of the member’s lump sum and death benefit allowance,[^key-3b2f3f31dbf19a16993f5305ca0cf339] expended by—
+  - (i) relevant benefit crystallisation events[^key-de013bccb0156a396202d07bba901847] in respect of the scheme referred to in paragraph (4) (“A”), to the extent that the sums and assets subject to those events have not been the subject of a transfer to another registered scheme;
+  - (ii) relevant benefit crystallisation events[^key-f4e2569098824d213b02397fab10b738] in respect of a scheme pension after the pensioner first became entitled to it; and
+  - (iii) where A has received (whether directly or indirectly) a transfer in respect of that member, any benefit crystallisation event prior to the transfer in connection with the sums and assets represented by the transfer and sums and assets which were replaced by the sums and assets mentioned in paragraph (i), less
+- (b) the sum of the amounts of the member’s lump sum allowance, and the sum of the amounts of the member’s lump sum and death benefit allowance,[^key-9d5f1188ab4962c1d9e5cfdebc948b72] expended by benefit crystallisation events—
+  - (i) which have been the subject of a statement under paragraph (2),
+  - (ii) which have been the subject of a statement under regulation 16(3), or
+  - (iii) which are referable to sums or assets which continue to be held by A.
+
+(8)[^key-e0d76af34eace280b3be70d7abf6cade] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 17A. Transfers between insurance companies[^key-8f795f72ddaf597f82322176e979ca73]
+
+(1) This regulation applies if—
+
+- (a) a scheme pension payable by an insurance company (“Insurer A”) ceases to be payable and another scheme pension becomes payable by another insurance company (“Insurer B”), in the circumstances described in regulation 4 of the Registered Pension Schemes (Transfer of Sums and Assets) Regulations 2006 (scheme pension payable by insurance company) (“the Transfer Regulations”); or
+- (b) a lifetime annuity payable by an insurance company (“Insurer A”) ceases to be payable and a new lifetime annuity becomes payable by another insurance company (“Insurer B”), in the circumstances described in regulation 6 of the Transfer Regulations (lifetime annuity).
+
+In the following provisions of this regulation “a relevant transfer” means a transfer which occurs in the circumstances described in regulation 4 or 6 of the Transfer Regulations.
+
+(2) If in connection with a relevant transfer —
+
+- (a) Insurer A transfers funds to Insurer B; and
+- (b) Insurer A was required to provide a statement under regulation 16(3),
+
+Insurer A shall provide Insurer B, within 3 months of the transfer, with a statement containing the information specified in regulation 16(3).
+
+(3) After the relevant transfer the obligation imposed by regulation 16(3) shall be that of Insurer B.
+
+(4) Where in connection with a relevant transfer Insurer A transfers funds to Insurer B, and Insurer A was required to provide a statement under regulation 17(3) or 17(6)—
+
+- (a) if the statement was provided under regulation 17(3), Insurer A must provide Insurer B, within 3 months of the transfer, with a statement containing the information specified in regulation 17(3); or
+- (b) if the statement was provided under regulation 17(6), Insurer A must provide Insurer B, within 3 months of the transfer, with a statement containing the information specified in regulation 17(7).
+
+(5) Where paragraph (4)(a) applies, after the relevant transfer the obligation imposed by regulation 17(3) shall be that of Insurer B.
+
+But no statement is required if the percentage expended is nil.
+
+(6) Where paragraph (4)(b) applies, after the relevant transfer the obligation imposed by regulation 17(6) shall be that of Insurer B.
+
+### 17B. Information between insurance companies: transfer of sums or assets representing beneficiaries’ annuities[^key-62eccb8e1cb826b22be74e965963579a]
+
+(1) This regulation applies if and to the extent to which there is a transfer of sums or assets (or both) which represent—
+
+- (a) a lifetime annuity that is being paid pursuant to pension rule 2 in section 165 (guaranteed period for payment of scheme pension or annuity),
+- (b) a dependants’ annuity,
+- (c) a nominees’ annuity, or
+- (d) a successors’ annuity,
+
+as a result of which an annuity payable by an insurance company (“Insurer A”) ceases to be payable and a new annuity becomes payable by another insurance company (“Insurer B”) in the circumstances described in regulation 6(1), 10(1), 19(1) or 20(1) (as the case may be) of the Registered Pension Schemes (Transfer of Sums and Assets) Regulations 2006.
+
+(2) Insurer A shall provide the information specified in paragraph (3) to Insurer B within 3 months of the transfer.
+
+(3) The information is—
+
+- (a) which of the descriptions in paragraphs (1)(a) to (d) applies to the annuity in respect of which the sums or assets (or both) are transferred,
+- (b) where sums or assets (or both) are transferred in respect of a lifetime annuity that is being paid pursuant to pension rule 2 in section 165, a dependants’ annuity or a nominees’ annuity, the age at death of the deceased member,
+- (c) where sums or assets (or both) are transferred in respect of a successors’ annuity, the age at death of the immediately preceding dependant, nominee or successor (as the case may be), and
+- (d) where the deceased member referred to in sub-paragraph (b), or the immediately preceding dependant, nominee or successor referred to in sub-paragraph (c) died before the age of 75—
+  - (i) confirmation as to whether or not section 646B(1) to (4) of ITEPA 2003 (registered schemes: beneficiaries’ annuities from unused funds) apply to payments of the annuity, and
+  - (ii) if so, confirmation as to which of section 646B(1) to (4) apply to those payments.
+
+### 17C. Information between insurance companies: transfer of sums or assets representing beneficiaries’ short-term annuities
+
+(1) This regulation applies if and to the extent to which there is a transfer of sums or assets (or both) which represent—
+
+- (a) a dependants’ short-term annuity,
+- (b) a nominees’ short-term annuity, or
+- (b) a successors’ short-term annuity,
+
+as a result of which a short-term annuity payable by an insurance company (“Insurer A”) ceases to be payable and a new short-term annuity becomes payable by another insurance company (“Insurer B”) in the circumstances described in regulation 11, 17 or 18 (as the case may be) of the Registered Pension Schemes (Transfer of Sums and Assets) Regulations 2006.
+
+(2) Insurer A shall provide the information specified in paragraph (3) to Insurer B within 3 months of the transfer.
+
+(3) The information is—
+
+- (a) which of the descriptions in paragraphs (1)(a) to (c) applies to the short-term annuity in respect of which the sums or assets (or both) are transferred,
+- (b) where sums or assets (or both) are transferred in respect of a dependants’ short-term annuity or a nominees’ short-term annuity, the age at death of the deceased member,
+- (c) where sums or assets (or both) are transferred in respect of a successors’ short-term annuity, the age at death of the immediately preceding dependant, nominee or successor (as the case may be), and
+- (d) where the deceased member referred to in sub-paragraph (b), or the immediately preceding dependant, nominee or successor referred to in sub-paragraph (c) died before the age of 75—
+  - (i) confirmation as to whether or not section 646C(1) and (2) of ITEPA 2003 (registered schemes: beneficiaries’ annuities from drawdown funds) apply to payments of the annuity, and
+  - (ii) if so, confirmation as to which of section 646C(1) and (2) apply to those payments.
+
+## Record-keeping
+
+### 18. Retention of records[^key-91de87f35d6248179b8af83d6bf87253]
+
+(1) The persons prescribed by paragraph (2) shall preserve any documents in their possession or under their control in relation to a registered pension scheme and relating to—
+
+- (a) any monies received by or owing to the scheme;
+- (b) any investments or assets held by the scheme;
+- (c) any payments made by the scheme;
+- (d) any contracts to purchase a lifetime annuity in respect of a member of the scheme; and
+- (e) the administration of the scheme.
+
+(2) In relation to a registered pension scheme the persons prescribed are—
+
+- (a) any person who is or has been the scheme administrator;
+- (b) any person who is or has been a trustee of the scheme;
+- (c) any person who provides or has provided administrative services to the scheme; and
+- (d) if the scheme is an occupational pension scheme, any person who is or has been a sponsoring employer[^f00010] or a director of an employer company.
+
+- This is subject to the following qualification.
+
+(3) Any person who has ceased to act in relation to the scheme or ceased to provide administrative services to the scheme shall not be required to preserve documents where he has transferred all the documents to another person who has succeeded him in acting in relation to the scheme or providing administrative services to the scheme.
+
+(4) Documents must be preserved for the tax year to which they relate and for a period of 6 years following that year.
+
+## ...[^key-15984ad9e300778c1bbcdaab1026d943]
+
+### 19. Lump sums to which paragraph 1B of Schedule 29 applies[^key-403204354dfb37819c2aab282abbf6e3]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Lump sums to which paragraph 1B of Schedule 29 fails to apply[^key-8fb1c41787af6eb16fe9dda74227cf4c]
+
+**20.**[^key-560c528965db1a97123971120a4ee589] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+David Varney
+
+Paul Gray
+
+Two of the Commissioners for Her Majesty’s Revenue and Customs
+
+9th March 2006
+
+(This note is not part of the Regulations)
+
+These Regulations specify the requirements for the provision of information in connection with registered pension schemes under Part 4 of the Finance Act [2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12).
+
+Regulation 1 provides for the citation and commencement of the Regulations, and regulation 2 for the interpretation of certain terms used in them.
+
+Regulation 3 prescribes information which a scheme administrator is required to provide to the Commissioners for Her Majesty’s Revenue and Customs in the form of an annual event report. The regulation prescribes the information to be included in the form in respect of various events: the form itself will be approved separately by the Commissioners for HM Revenue and Customs.
+
+Regulations 4 to 17 prescribe other information which is required to be given in connection with the administration of a scheme.
+
+Regulation 18 prescribes requirements in respect of the keeping of records.
+
+A regulatory impact assessment in respect of the provisions of Part 4 of the Finance Act 2004 and subordinate legislation under it was published by the former Board of Inland Revenue on 8 April 2004 and is now available at www.hmrc.gov.uk/ria/simplifying-pensions.pdf or (for hard copies) by writing to the Ministerial Correspondence Unit, Capital and Savings 1st Floor Ferrers House, PO Box 38, Castle Meadow Road, Nottingham, NG2 1BB.
+
+## Annotations
+
+[^f00001]: Footnote: [2004 c. 12](https://www.legislation.gov.uk/ukpga/2004/12). Section 251(6) is cited because of the meaning ascribed to “prescribed”.
+
+[^f00002]: Footnote: The functions of the Commissioners of Inland Revenue (“the former Commissioners”) were transferred to the Commissioners for Her Majesty’s Revenue and Customs by section 5 of the Commissioners for Revenue and Customs Act [2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11) *See* also section 50 of that Act in relation to the construction of references to the former Commissioners in other enactments.
+
+[^key-7777262f171377106d1c8193ab44dc09]: Modification: Regulations excluded (1.5.2010) by [The Financial Assistance Scheme (Tax) Regulations 2010 (S.I. 2010/1187)](https://www.legislation.gov.uk/uksi/2010/1187), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/1187/regulation/1/1), [11(1)](https://www.legislation.gov.uk/uksi/2010/1187/regulation/11/1) (with [reg. 12(2)](https://www.legislation.gov.uk/uksi/2010/1187/regulation/12/2))
+
+[^key-b8f8f288be759b9d4b1a89aa774245d3]: Modification: Regulations modified (for the tax year 2024-25 and subsequent tax years) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 9 paras. 124](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/124), [128](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/128) (as amended by [S.I. 2024/356](https://www.legislation.gov.uk/uksi/2024/356), regs. 1, 4)
+
+[^key-c1143661438e9e762d2d88a5c3c94332]: Commencement: Reg. 1 in force at 6.4.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/567/regulation/1)
+
+[^key-8de53da66dd8850207733f0506a2211a]: Commencement: Reg. 2 in force at 6.4.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/567/regulation/1)
+
+[^key-7188ae273c9e21d07a370626c5b7d7d8]: Textual amendment: Words in reg. 2(1) substituted (11.8.2011) by [The Registered Pension Schemes (Provision of Information) (Amendment) (No.2) Regulations 2011 (S.I. 2011/1797)](https://www.legislation.gov.uk/uksi/2011/1797), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/1797/regulation/1/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2011/1797/regulation/3/2/a)
+
+[^key-40c730e534538d0033464b12683ddc9d]: Textual amendment: Words in reg. 2(1) substituted (11.8.2011) by [The Registered Pension Schemes (Provision of Information) (Amendment) (No.2) Regulations 2011 (S.I. 2011/1797)](https://www.legislation.gov.uk/uksi/2011/1797), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/1797/regulation/1/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2011/1797/regulation/3/2/b)
+
+[^key-b22bbd9e8baaaab274bb85e473ef3f6b]: Textual amendment: Words in reg. 2(1) inserted (11.8.2011) by [The Registered Pension Schemes (Provision of Information) (Amendment) (No.2) Regulations 2011 (S.I. 2011/1797)](https://www.legislation.gov.uk/uksi/2011/1797), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/1797/regulation/1/1), [3(2)(c)](https://www.legislation.gov.uk/uksi/2011/1797/regulation/3/2/c)
+
+[^key-da2c26c61dc0fb1071711b44b2af435c]: Textual amendment: Words in reg. 2(1) inserted (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 4 para. 23(a)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/4/paragraph/23/a)
+
+[^key-2e393a2e6b671658aee8c30fd72f6a64]: Textual amendment: Words in reg. 2(1) inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Registered Pension Schemes (Provision of Information) (Amendment) Regulations 2013 (S.I. 2013/1742)](https://www.legislation.gov.uk/uksi/2013/1742), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/1742/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2013/1742/regulation/3)
+
+[^key-1c0f2b97347c62d2bfc6ceb6f90a56ed]: Textual amendment: Words in reg. 2(1) inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Registered Pension Schemes (Provision of Information) (Amendment) Regulations 2014 (S.I. 2014/1843)](https://www.legislation.gov.uk/uksi/2014/1843), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/1843/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2014/1843/regulation/3)
+
+[^key-151ee1e946d5c12c5769678110de4f5b]: Textual amendment: Words in reg. 2(1) inserted (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 4 para. 23(b)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/4/paragraph/23/b)
+
+[^key-33ba3b36176deb9cd77a98d77a3216ef]: Textual amendment: Words in reg. 2(1) inserted (for the tax year 2024-25 and subsequent tax years) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 9 paras. 105(a)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/105/a), [124](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/124) (with [Sch. 9 paras. 125-132A](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/125)) (as amended by [S.I. 2024/356](https://www.legislation.gov.uk/uksi/2024/356), [regs. 1](https://www.legislation.gov.uk/uksi/2024/356/regulation/1), [4](https://www.legislation.gov.uk/uksi/2024/356/regulation/4))
+
+[^key-5e5cf8a5093b3d3e090f8c3ed0b8853e]: Textual amendment: Words in reg. 2(1) substituted (for the tax year 2024-25 and subsequent tax years) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 9 paras. 105(b)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/105/b), [124](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/124) (with [Sch. 9 paras. 125-132A](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/125)) (as amended by [S.I. 2024/356](https://www.legislation.gov.uk/uksi/2024/356), [regs. 1](https://www.legislation.gov.uk/uksi/2024/356/regulation/1), [4](https://www.legislation.gov.uk/uksi/2024/356/regulation/4))
+
+[^key-517942dd045b892983d605fb86130f79]: Textual amendment: Words in reg. 2(2) substituted (11.8.2011) by [The Registered Pension Schemes (Provision of Information) (Amendment) (No.2) Regulations 2011 (S.I. 2011/1797)](https://www.legislation.gov.uk/uksi/2011/1797), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/1797/regulation/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2011/1797/regulation/3/3)
+
+[^key-0553656322d82d6e9a19cf0aaf525170]: Commencement: Reg. 3 in force at 6.4.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/567/regulation/1)
+
+[^key-e513aacb0993551af7c3c2c9ad0cf468]: Modification: Reg. 3 modified (6.4.2023) by [The Public Service Pension Schemes (Rectification of Unlawful Discrimination) (Tax) Regulations 2023 (S.I. 2023/113)](https://www.legislation.gov.uk/uksi/2023/113), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/113/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2023/113/regulation/5) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2023/113/regulation/1/3))
+
+[^key-7537c867f82916f2cdda7d19aa0abd44]: Textual amendment: Words in reg. 3 Table entry 1 substituted (6.4.2011) by [The Registered Pension Schemes (Provision of Information) (Amendment) Regulations 2011 (S.I. 2011/301)](https://www.legislation.gov.uk/uksi/2011/301), [regs. 1](https://www.legislation.gov.uk/uksi/2011/301/regulation/1), [3(a)(i)](https://www.legislation.gov.uk/uksi/2011/301/regulation/3/a/i)
+
+[^key-5893e338f839e954f4a48a09f2bb8ee1]: Textual amendment: Words in reg. 3(1) Table entry 1 substituted (11.8.2011) by [The Registered Pension Schemes (Provision of Information) (Amendment) (No.2) Regulations 2011 (S.I. 2011/1797)](https://www.legislation.gov.uk/uksi/2011/1797), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/1797/regulation/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2011/1797/regulation/4/2)
+
+[^key-f580255d0fff477fe3c51f351dfc5ad2]: Textual amendment: Reg. 3(1) Table entry 2 omitted (for the tax year 2024-25 and subsequent tax years) by virtue of [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 9 paras. 106(2)(a)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/106/2/a), [124](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/124) (with [Sch. 9 paras. 125-132A](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/125)) (as amended by [S.I. 2024/356](https://www.legislation.gov.uk/uksi/2024/356), [regs. 1](https://www.legislation.gov.uk/uksi/2024/356/regulation/1), [4](https://www.legislation.gov.uk/uksi/2024/356/regulation/4))
+
+[^f00005]: Footnote: *See* section 279(1) and paragraph 21 of Schedule 36..
+
+[^key-31d5367aceeb0c0279f09b6f9ee96ccb]: Textual amendment: Words in reg. 3 Table entries 3-8A omitted (6.4.2011) by virtue of [The Registered Pension Schemes (Provision of Information) (Amendment) Regulations 2011 (S.I. 2011/301)](https://www.legislation.gov.uk/uksi/2011/301), [regs. 1](https://www.legislation.gov.uk/uksi/2011/301/regulation/1), [3(a)(iii)](https://www.legislation.gov.uk/uksi/2011/301/regulation/3/a/iii)
+
+[^key-129bbf8f37f017e58ce8781d140da3fb]: Textual amendment: Words in reg. 3 Table entry 5 substituted (6.4.2008) by [The Registered Pension Schemes (Provision of Information) (Amendment) Regulations 2008 (S.I. 2008/720)](https://www.legislation.gov.uk/uksi/2008/720), [regs. 1](https://www.legislation.gov.uk/uksi/2008/720/regulation/1), [3(a)](https://www.legislation.gov.uk/uksi/2008/720/regulation/3/a)
+
+[^key-f3974a7ba865cd976216257d0a022466]: Textual amendment: Reg. 3(1) Table entry 6 omitted (for the tax year 2024-25 and subsequent tax years) by virtue of [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 9 paras. 106(2)(b)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/106/2/b), [124](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/124) (with [Sch. 9 paras. 125-132A](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/125)) (as amended by [S.I. 2024/356](https://www.legislation.gov.uk/uksi/2024/356), [regs. 1](https://www.legislation.gov.uk/uksi/2024/356/regulation/1), [4](https://www.legislation.gov.uk/uksi/2024/356/regulation/4))
+
+[^key-f9cbb27f18cb110235d925ac476a2740]: Textual amendment: Reg. 3(1) Table entry 7 omitted (for the tax year 2024-25 and subsequent tax years) by virtue of [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 9 paras. 106(2)(c)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/106/2/c), [124](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/124) (with [Sch. 9 paras. 125-132A](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/125)) (as amended by [S.I. 2024/356](https://www.legislation.gov.uk/uksi/2024/356), [regs. 1](https://www.legislation.gov.uk/uksi/2024/356/regulation/1), [4](https://www.legislation.gov.uk/uksi/2024/356/regulation/4))
+
+[^key-519441466dc225327479deb3bb67c10d]: Textual amendment: Reg. 3(1) Table entry 8 omitted (for the tax year 2024-25 and subsequent tax years) by virtue of [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 9 paras. 106(2)(d)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/106/2/d), [124](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/124) (with [Sch. 9 paras. 125-132A](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/125)) (as amended by [S.I. 2024/356](https://www.legislation.gov.uk/uksi/2024/356), [regs. 1](https://www.legislation.gov.uk/uksi/2024/356/regulation/1), [4](https://www.legislation.gov.uk/uksi/2024/356/regulation/4))
+
+[^key-947046dbc53ce8f3147d85706c027351]: Textual amendment: Reg. 3(1) Table entry 9 omitted (for the tax year 2024-25 and subsequent tax years) by virtue of [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 9 paras. 106(2)(e)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/106/2/e), [124](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/124) (with [Sch. 9 paras. 125-132A](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/125)) (as amended by [S.I. 2024/356](https://www.legislation.gov.uk/uksi/2024/356), [regs. 1](https://www.legislation.gov.uk/uksi/2024/356/regulation/1), [4](https://www.legislation.gov.uk/uksi/2024/356/regulation/4))
+
+[^key-c76b07fe44ccac2b9da392f97d0cd00a]: Textual amendment: Words in reg. 3(1) Table entry 9 inserted (with effect in accordance with reg. 1(2)(b) of the amending S.I.) by [The Registered Pension Schemes and Overseas Pension Schemes (Miscellaneous Amendments) Regulations 2012 (S.I. 2012/884)](https://www.legislation.gov.uk/uksi/2012/884), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/884/regulation/1/1), [12(a)(i)](https://www.legislation.gov.uk/uksi/2012/884/regulation/12/a/i)
+
+[^key-c89ac66b1de7cdea57184dd218e7802f]: Textual amendment: Words in reg. 3 Table entry 9 substituted (6.4.2011) by [The Registered Pension Schemes (Provision of Information) (Amendment) Regulations 2011 (S.I. 2011/301)](https://www.legislation.gov.uk/uksi/2011/301), [regs. 1](https://www.legislation.gov.uk/uksi/2011/301/regulation/1), [3(a)(iv)](https://www.legislation.gov.uk/uksi/2011/301/regulation/3/a/iv)
+
+[^key-0ab2758e6fad45672a03497fd62d3259]: Textual amendment: Words in reg. 3(1) Table entry 9 substituted (with effect in accordance with reg. 1(2)(b) of the amending S.I.) by [The Registered Pension Schemes and Overseas Pension Schemes (Miscellaneous Amendments) Regulations 2012 (S.I. 2012/884)](https://www.legislation.gov.uk/uksi/2012/884), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/884/regulation/1/1), [12(a)(ii)](https://www.legislation.gov.uk/uksi/2012/884/regulation/12/a/ii)
+
+[^key-57df8761f694bbc954a5e6daa567bf11]: Textual amendment: Words in reg. 3(1) Table entry 9 inserted (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Registered Pension Schemes (Provision of Information) (Amendment) Regulations 2013 (S.I. 2013/1742)](https://www.legislation.gov.uk/uksi/2013/1742), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/1742/regulation/1/1), [4(3)](https://www.legislation.gov.uk/uksi/2013/1742/regulation/4/3)
+
+[^key-3947a828aabb7d64012f6635154f947d]: Textual amendment: Words in reg. 3(1) Table entry 9 inserted (with effect in accordance with Sch. 4 para. 25 of the amending Act) by [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [Sch. 4 para. 24(2)(a)](https://www.legislation.gov.uk/ukpga/2017/10/schedule/4/paragraph/24/2/a) (with [Sch. 4 para. 24(8)](https://www.legislation.gov.uk/ukpga/2017/10/schedule/4/paragraph/24/8))
+
+[^key-df2644ae8bb21a50c7826b63df0b82ab]: Textual amendment: Words in reg. 3(1) Table entry 9 inserted (with effect in accordance with Sch. 4 para. 25 of the amending Act) by [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [Sch. 4 para. 24(2)(b)](https://www.legislation.gov.uk/ukpga/2017/10/schedule/4/paragraph/24/2/b) (with [Sch. 4 para. 24(8)](https://www.legislation.gov.uk/ukpga/2017/10/schedule/4/paragraph/24/8))
+
+[^key-981c600d03f496b5d796c847eafa3266]: Textual amendment: Word in reg. 3(1) Table entry 9 omitted (18.11.2024 for the tax year 2024-25 and subsequent tax years) by virtue of [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [24(2)(a)(i)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/24/2/a/i)
+
+[^key-92213b690975cbe7328f6997a71f563f]: Textual amendment: Word in reg. 3(1) Table entry 9 inserted (18.11.2024 for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [24(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/24/2/a/ii)
+
+[^key-a7b2be6a7387a3338e55a61498f577d1]: Textual amendment: Words in reg. 3(1) Table entry 9 inserted (18.11.2024 for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [24(2)(a)(iii)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/24/2/a/iii)
+
+[^key-ffc3e2a4adc408f11e012a9e943b72a7]: Textual amendment: Reg. 3(1) Table entry 10 substituted (11.8.2006) by [The Registered Pension Schemes (Provision of Information) (Amendment) Regulations 2006 (S.I. 2006/1961)](https://www.legislation.gov.uk/uksi/2006/1961), [regs. 1](https://www.legislation.gov.uk/uksi/2006/1961/regulation/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2006/1961/regulation/3/2/b)
+
+[^key-a584d99de69df6b6430bfba9325da54d]: Textual amendment: Words in reg. 3(1) Table entry 11 inserted (11.8.2006) by [The Registered Pension Schemes (Provision of Information) (Amendment) Regulations 2006 (S.I. 2006/1961)](https://www.legislation.gov.uk/uksi/2006/1961), [regs. 1](https://www.legislation.gov.uk/uksi/2006/1961/regulation/1), [3(2)(c)](https://www.legislation.gov.uk/uksi/2006/1961/regulation/3/2/c)
+
+[^key-d6549a4e94b965a29b0109870df9731a]: Textual amendment: Words in reg. 3(1) Table entry 13 inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Registered Pension Schemes (Provision of Information) (Amendment) Regulations 2015 (S.I. 2015/606)](https://www.legislation.gov.uk/uksi/2015/606), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/606/regulation/1/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2015/606/regulation/3/2/a)
+
+[^key-903fe8a635958a20f90e3e521e4e3cc7]: Textual amendment: Words in reg. 3(1) Table entry 13 omitted (11.8.2006) by virtue of [The Registered Pension Schemes (Provision of Information) (Amendment) Regulations 2006 (S.I. 2006/1961)](https://www.legislation.gov.uk/uksi/2006/1961), [regs. 1](https://www.legislation.gov.uk/uksi/2006/1961/regulation/1), [3(2)(d)](https://www.legislation.gov.uk/uksi/2006/1961/regulation/3/2/d)
+
+[^key-bc7aee1098706c7b4e1dcee021f8a862]: Textual amendment: Words in reg. 3(1) Table entry 13 substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Registered Pension Schemes (Provision of Information) (Amendment) Regulations 2015 (S.I. 2015/606)](https://www.legislation.gov.uk/uksi/2015/606), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/606/regulation/1/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2015/606/regulation/3/2/b)
+
+[^key-49d7be2fa077e833fea0d464497e3ae0]: Textual amendment: Words in reg. 3(1) Table entry 14 substituted (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Registered Pension Schemes (Provision of Information) (Amendment) Regulations 2015 (S.I. 2015/606)](https://www.legislation.gov.uk/uksi/2015/606), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/606/regulation/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2015/606/regulation/3/3)
+
+[^key-ba93a631ee9b3c33243a3c143d74885c]: Textual amendment: Reg. 3(1) Table entries 15, 17 omitted (11.8.2011) by virtue of [The Registered Pension Schemes (Provision of Information) (Amendment) (No.2) Regulations 2011 (S.I. 2011/1797)](https://www.legislation.gov.uk/uksi/2011/1797), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/1797/regulation/1/1), [4(7)](https://www.legislation.gov.uk/uksi/2011/1797/regulation/4/7)
+
+[^key-856492d1de705340dcaeb2da0242306b]: Textual amendment: Reg. 3 Table entry 16 omitted (6.4.2008) by virtue of [The Registered Pension Schemes (Provision of Information) (Amendment) Regulations 2008 (S.I. 2008/720)](https://www.legislation.gov.uk/uksi/2008/720), [regs. 1](https://www.legislation.gov.uk/uksi/2008/720/regulation/1), [3(d)](https://www.legislation.gov.uk/uksi/2008/720/regulation/3/d)
+
+[^key-07cc86cd50868745994e9838d6d66dd3]: Textual amendment: Reg. 3(1) Table entries 18-20 inserted (11.8.2006) by [The Registered Pension Schemes (Provision of Information) (Amendment) Regulations 2006 (S.I. 2006/1961)](https://www.legislation.gov.uk/uksi/2006/1961), [regs. 1](https://www.legislation.gov.uk/uksi/2006/1961/regulation/1), [3(2)(e)](https://www.legislation.gov.uk/uksi/2006/1961/regulation/3/2/e)
+
+[^key-f00d856770b0a5da29d7d7f855f68fba]: Textual amendment: Words in reg. 3(1) Table entry 18 omitted (11.8.2011) by virtue of [The Registered Pension Schemes (Provision of Information) (Amendment) (No.2) Regulations 2011 (S.I. 2011/1797)](https://www.legislation.gov.uk/uksi/2011/1797), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/1797/regulation/1/1), [4(8)](https://www.legislation.gov.uk/uksi/2011/1797/regulation/4/8)
+
+[^key-5f5888fefdd8b58791bd8cea6eda960b]: Textual amendment: Words in reg. 3 Table entry 18 substituted (6.4.2008) by [The Registered Pension Schemes (Provision of Information) (Amendment) Regulations 2008 (S.I. 2008/720)](https://www.legislation.gov.uk/uksi/2008/720), [regs. 1](https://www.legislation.gov.uk/uksi/2008/720/regulation/1), [3(e)(ii)](https://www.legislation.gov.uk/uksi/2008/720/regulation/3/e/ii)
+
+[^key-d08690afe22fe4b431544b99d783f99e]: Textual amendment: Words in reg. 3 Table entry 18 substituted (6.4.2008) by [The Registered Pension Schemes (Provision of Information) (Amendment) Regulations 2008 (S.I. 2008/720)](https://www.legislation.gov.uk/uksi/2008/720), [regs. 1](https://www.legislation.gov.uk/uksi/2008/720/regulation/1), [3(e)(iii)](https://www.legislation.gov.uk/uksi/2008/720/regulation/3/e/iii)
+
+[^key-cb9c5b7c70075ac0cb0c8194be8d2b19]: Textual amendment: Reg. 3(1) Table entry 20A inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Registered Pension Schemes and Overseas Pension Schemes (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/5)](https://www.legislation.gov.uk/uksi/2018/5), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/5/regulation/1/1), [3(a)](https://www.legislation.gov.uk/uksi/2018/5/regulation/3/a)
+
+[^key-99f2a693b409bd44eb73846817ea4078]: Textual amendment: Reg. 3(1) Table entry 21 omitted (17.12.2014) by virtue of [Taxation of Pensions Act 2014 (c. 30)](https://www.legislation.gov.uk/ukpga/2014/30), [Sch. 1 para. 35(2)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/paragraph/35/2)
+
+[^key-2900cccf4e112932e214ac8e3e24295f]: Textual amendment: Reg. 3(1) Table entry 22 inserted (with effect in accordance with reg. 1(4) of the amending S.I.) by [The Registered Pension Schemes (Provision of Information) (Amendment) Regulations 2013 (S.I. 2013/1742)](https://www.legislation.gov.uk/uksi/2013/1742), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/1742/regulation/1/1), [4(4)](https://www.legislation.gov.uk/uksi/2013/1742/regulation/4/4)
+
+[^key-5a748ed77e3493952d11450fca8a0801]: Textual amendment: Words in reg. 3(1) Table entry 22 inserted (6.4.2015) by [Taxation of Pensions Act 2014 (c. 30)](https://www.legislation.gov.uk/ukpga/2014/30), [Sch. 1 paras. 90(2)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/paragraph/90/2), [91(a)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/paragraph/91/a) (with [Sch. 1 para. 91(b)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/paragraph/91/b))
+
+[^key-0ff8d4dd5f4b8df90b27a2ac0f3832f4]: Textual amendment: Reg. 3(1) Table entry 23 inserted (6.4.2015) by [Taxation of Pensions Act 2014 (c. 30)](https://www.legislation.gov.uk/ukpga/2014/30), [Sch. 1 paras. 90(3)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/paragraph/90/3), [91(a)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/paragraph/91/a) (with [Sch. 1 para. 91(b)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/paragraph/91/b))
+
+[^key-7f7051aafabc38df41ce73cf2b27f0ae]: Textual amendment: Reg. 3 Table entry 24 substituted (for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) Regulations 2024 (S.I. 2024/356)](https://www.legislation.gov.uk/uksi/2024/356), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/356/regulation/1/3), [9(3)](https://www.legislation.gov.uk/uksi/2024/356/regulation/9/3)
+
+[^key-ae516cc7eda0775710d21cbfcddf47ed]: Textual amendment: Reg. 3(2)-(2B) substituted for reg. 3(2) (6.4.2011) by [The Registered Pension Schemes (Provision of Information) (Amendment) Regulations 2011 (S.I. 2011/301)](https://www.legislation.gov.uk/uksi/2011/301), [regs. 1](https://www.legislation.gov.uk/uksi/2011/301/regulation/1), [3(b)](https://www.legislation.gov.uk/uksi/2011/301/regulation/3/b)
+
+[^key-3c75976b5c289bbaa43c2d373e3114a7]: Textual amendment: Reg. 3(5) omitted (18.11.2024 for the tax year 2024-25 and subsequent tax years) by virtue of [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [24(2)(b)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/24/2/b)
+
+[^key-1f4560b27251d0423703e34bdc644d97]: Textual amendment: Words in reg. 3(6)(b) inserted (with effect in accordance with reg. 1(2)(b) of the amending S.I.) by [The Registered Pension Schemes and Overseas Pension Schemes (Miscellaneous Amendments) Regulations 2012 (S.I. 2012/884)](https://www.legislation.gov.uk/uksi/2012/884), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/884/regulation/1/1), [12(b)](https://www.legislation.gov.uk/uksi/2012/884/regulation/12/b)
+
+[^key-6c05bea1ac5bd2b929d98d01c4e4030c]: Textual amendment: Word in reg. 3(6)(b) inserted (6.4.2022) by [The Registered Pension Schemes (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/392)](https://www.legislation.gov.uk/uksi/2022/392), [regs. 1](https://www.legislation.gov.uk/uksi/2022/392/regulation/1), [3(a)](https://www.legislation.gov.uk/uksi/2022/392/regulation/3/a)
+
+[^key-52def369febb00ae7df561df4a15f27d]: Modification: Reg. 3(7) excluded (14.10.2013) by [The Registered Pension Schemes and Overseas Pension Schemes (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/2259)](https://www.legislation.gov.uk/uksi/2013/2259), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2259/regulation/1), [6(1)](https://www.legislation.gov.uk/uksi/2013/2259/regulation/6/1)
+
+[^key-20764a35c78855237e73c3bf829a9778]: Textual amendment: Reg. 3(7) inserted (with effect in accordance with reg. 1(2)(b) of the amending S.I.) by [The Registered Pension Schemes and Overseas Pension Schemes (Miscellaneous Amendments) Regulations 2012 (S.I. 2012/884)](https://www.legislation.gov.uk/uksi/2012/884), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/884/regulation/1/1), [12(c)](https://www.legislation.gov.uk/uksi/2012/884/regulation/12/c)
+
+[^key-a9ad1999dc458569fd4c849fb674369a]: Textual amendment: Words in reg. 3(7) inserted (with effect in accordance with Sch. 4 para. 25 of the amending Act) by [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [Sch. 4 para. 24(3)](https://www.legislation.gov.uk/ukpga/2017/10/schedule/4/paragraph/24/3) (with [Sch. 4 para. 24(8)](https://www.legislation.gov.uk/ukpga/2017/10/schedule/4/paragraph/24/8))
+
+[^key-aa4d34f48b89fe4d19e605e34dae4e3a]: Textual amendment: Reg. 3(8) inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Registered Pension Schemes and Overseas Pension Schemes (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/5)](https://www.legislation.gov.uk/uksi/2018/5), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/5/regulation/1/1), [3(b)](https://www.legislation.gov.uk/uksi/2018/5/regulation/3/b)
+
+[^key-4e91d5116d32672b9846ecc13956eeec]: Textual amendment: Reg. 3(9) inserted (6.4.2022) by [The Registered Pension Schemes (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/392)](https://www.legislation.gov.uk/uksi/2022/392), [regs. 1](https://www.legislation.gov.uk/uksi/2022/392/regulation/1), [3(b)](https://www.legislation.gov.uk/uksi/2022/392/regulation/3/b)
+
+[^key-0590aae5b083ad921e4ed55f9a0d8c4a]: Textual amendment: Reg. 3(10)-(17) inserted (for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) Regulations 2024 (S.I. 2024/356)](https://www.legislation.gov.uk/uksi/2024/356), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/356/regulation/1/3), [9(4)](https://www.legislation.gov.uk/uksi/2024/356/regulation/9/4)
+
+[^key-95f6bae1fa3ab28ce069764e44228623]: Commencement: Reg. 4 in force at 6.4.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/567/regulation/1)
+
+[^f00008]: Footnote: These provisions are repealed with effect from 6<sup>th</sup> April 2006 by section 326 of, and the relevant entry in Part 3 of Schedule 41 to the Finance Act 2004.
+
+[^key-3c7f1ce6128d7bd9076601f7b69aa323]: Textual amendment: Word in reg. 4(2)(a) omitted (6.4.2008) by virtue of [The Registered Pension Schemes (Provision of Information) (Amendment) Regulations 2008 (S.I. 2008/720)](https://www.legislation.gov.uk/uksi/2008/720), [regs. 1](https://www.legislation.gov.uk/uksi/2008/720/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/2008/720/regulation/4/2)
+
+[^key-6895cf5d9848858d492b826f0a9b5371]: Textual amendment: Reg. 4(2)(c) and word inserted (6.4.2008) by [The Registered Pension Schemes (Provision of Information) (Amendment) Regulations 2008 (S.I. 2008/720)](https://www.legislation.gov.uk/uksi/2008/720), [regs. 1](https://www.legislation.gov.uk/uksi/2008/720/regulation/1), [4(3)](https://www.legislation.gov.uk/uksi/2008/720/regulation/4/3)
+
+[^key-5520edf7c30e8fccf6827ca674c4f601]: Textual amendment: Word in reg. 4(2)(b) omitted (6.4.2010) by virtue of [The Registered Pension Schemes (Provision of Information) (Amendment) Regulations 2010 (S.I. 2010/581)](https://www.legislation.gov.uk/uksi/2010/581), [regs. 1](https://www.legislation.gov.uk/uksi/2010/581/regulation/1), [3(1)(a)](https://www.legislation.gov.uk/uksi/2010/581/regulation/3/1/a)
+
+[^key-09af7edae7a14d09cb7afee0569582ba]: Textual amendment: Word in reg. 4(2)(c) inserted (6.4.2010) by [The Registered Pension Schemes (Provision of Information) (Amendment) Regulations 2010 (S.I. 2010/581)](https://www.legislation.gov.uk/uksi/2010/581), [regs. 1](https://www.legislation.gov.uk/uksi/2010/581/regulation/1), [3(1)(a)](https://www.legislation.gov.uk/uksi/2010/581/regulation/3/1/a)
+
+[^key-49506fb3fb3c685b53d7e35e42cfd600]: Textual amendment: Reg. 4(2)(d) inserted (6.4.2010) by [The Registered Pension Schemes (Provision of Information) (Amendment) Regulations 2010 (S.I. 2010/581)](https://www.legislation.gov.uk/uksi/2010/581), [regs. 1](https://www.legislation.gov.uk/uksi/2010/581/regulation/1), [3(1)(b)](https://www.legislation.gov.uk/uksi/2010/581/regulation/3/1/b)
+
+[^key-66ae7dcc9e9bc21e7ebcf199758c2ca1]: Textual amendment: Reg. 4(2A) inserted (6.4.2008) by [The Registered Pension Schemes (Provision of Information) (Amendment) Regulations 2008 (S.I. 2008/720)](https://www.legislation.gov.uk/uksi/2008/720), [regs. 1](https://www.legislation.gov.uk/uksi/2008/720/regulation/1), [4(4)](https://www.legislation.gov.uk/uksi/2008/720/regulation/4/4)
+
+[^key-d7d49779f3a2a5f9c727a816944071f8]: Textual amendment: Word in reg. 4(2A) inserted (6.4.2010) by [The Registered Pension Schemes (Provision of Information) (Amendment) Regulations 2010 (S.I. 2010/581)](https://www.legislation.gov.uk/uksi/2010/581), [regs. 1](https://www.legislation.gov.uk/uksi/2010/581/regulation/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2010/581/regulation/3/2/a)
+
+[^key-9c39119a261ab72e648251733c5687b5]: Textual amendment: Reg. 4(2A)(a) substituted (6.4.2010) by [The Registered Pension Schemes (Provision of Information) (Amendment) Regulations 2010 (S.I. 2010/581)](https://www.legislation.gov.uk/uksi/2010/581), [regs. 1](https://www.legislation.gov.uk/uksi/2010/581/regulation/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2010/581/regulation/3/2/b)
+
+[^key-3d3975b62d96c0a6453630aab20f221c]: Commencement: Reg. 5 in force at 6.4.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/567/regulation/1)
+
+[^key-9e6a3247bdc083419c152465289f42ba]: Textual amendment: Reg. 5A inserted (6.4.2010) by [The Registered Pension Schemes (Provision of Information) (Amendment) Regulations 2010 (S.I. 2010/581)](https://www.legislation.gov.uk/uksi/2010/581), [regs. 1](https://www.legislation.gov.uk/uksi/2010/581/regulation/1), [4](https://www.legislation.gov.uk/uksi/2010/581/regulation/4)
+
+[^key-80421b18b666ca69c5730207e7f84994]: Textual amendment: Reg. 5B omitted (6.4.2015) by virtue of [Taxation of Pensions Act 2014 (c. 30)](https://www.legislation.gov.uk/ukpga/2014/30), [Sch. 1 para. 35(3)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/paragraph/35/3)[(11)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/paragraph/35/11) (with [Sch. 1 para. 35(11)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/paragraph/35/11))
+
+[^key-5d20dda16a4ad92e933a79b28bfe7979]: Commencement: Reg. 6 in force at 6.4.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/567/regulation/1)
+
+[^key-9a494fd88a58a96d5f4813e287af6652]: Commencement: Reg. 7 in force at 6.4.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/567/regulation/1)
+
+[^key-14d97c48f52b4d813adcd73189ddc623]: Textual amendment: Reg. 7 heading substituted (for the tax year 2024-25 and subsequent tax years) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 9 paras. 107(2)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/107/2), [124](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/124) (with [Sch. 9 paras. 125-132A](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/125)) (as amended by [S.I. 2024/356](https://www.legislation.gov.uk/uksi/2024/356), [regs. 1](https://www.legislation.gov.uk/uksi/2024/356/regulation/1), [4](https://www.legislation.gov.uk/uksi/2024/356/regulation/4))
+
+[^key-aae76b2acf841df10975d8fa7c42ec16]: Textual amendment: Reg. 7(1) substituted for reg. 7(1)(2) (for the tax year 2024-25 and subsequent tax years) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 9 paras. 107(3)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/107/3), [124](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/124) (with [Sch. 9 paras. 125-132A](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/125)) (as amended by [S.I. 2024/356](https://www.legislation.gov.uk/uksi/2024/356), [regs. 1](https://www.legislation.gov.uk/uksi/2024/356/regulation/1), [4](https://www.legislation.gov.uk/uksi/2024/356/regulation/4))
+
+[^key-cc491f8909c283c85259ec0170cb4bd0]: Textual amendment: Words in reg. 7(3)(a) omitted (for the tax year 2024-25 and subsequent tax years) by virtue of [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 9 paras. 107(4)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/107/4), [124](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/124) (with [Sch. 9 paras. 125-132A](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/125)) (as amended by [S.I. 2024/356](https://www.legislation.gov.uk/uksi/2024/356), [regs. 1](https://www.legislation.gov.uk/uksi/2024/356/regulation/1), [4](https://www.legislation.gov.uk/uksi/2024/356/regulation/4))
+
+[^key-19d221831c2e909b8a0b397375b99d4e]: Textual amendment: Reg. 7(4) substituted (for the tax year 2024-25 and subsequent tax years) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 9 paras. 107(5)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/107/5), [124](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/124) (with [Sch. 9 paras. 125-132A](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/125)) (as amended by [S.I. 2024/356](https://www.legislation.gov.uk/uksi/2024/356), [regs. 1](https://www.legislation.gov.uk/uksi/2024/356/regulation/1), [4](https://www.legislation.gov.uk/uksi/2024/356/regulation/4))
+
+[^key-2273df0b4bcd3483f7c4965bea8cd240]: Textual amendment: Reg. 7(5) inserted (for the tax year 2024-25 and subsequent tax years) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 9 paras. 107(6)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/107/6), [124](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/124) (with [Sch. 9 paras. 125-132A](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/125)) (as amended by [S.I. 2024/356](https://www.legislation.gov.uk/uksi/2024/356), [regs. 1](https://www.legislation.gov.uk/uksi/2024/356/regulation/1), [4](https://www.legislation.gov.uk/uksi/2024/356/regulation/4))
+
+[^key-86554a3c9471cecabbb984a75b825621]: Commencement: Reg. 8 in force at 6.4.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/567/regulation/1)
+
+[^key-b3088d82389cb7c493112d25bff6971e]: Textual amendment: Words in reg. 8(1) omitted (6.4.2008) by virtue of [The Registered Pension Schemes (Provision of Information) (Amendment) Regulations 2008 (S.I. 2008/720)](https://www.legislation.gov.uk/uksi/2008/720), [regs. 1](https://www.legislation.gov.uk/uksi/2008/720/regulation/1), [5](https://www.legislation.gov.uk/uksi/2008/720/regulation/5)
+
+[^key-b437a0139fa93841e80099b1aea2b831]: Textual amendment: Word in reg. 8(1) inserted (18.11.2024 for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [24(3)(a)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/24/3/a)
+
+[^key-696f4ebe24acf253038dfcaa67a3b068]: Textual amendment: Words in reg. 8(1) omitted (for the tax year 2024-25 and subsequent tax years) by virtue of [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 9 paras. 108(2)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/108/2), [124](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/124) (with [Sch. 9 paras. 125-132A](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/125)) (as amended by [S.I. 2024/356](https://www.legislation.gov.uk/uksi/2024/356), [regs. 1](https://www.legislation.gov.uk/uksi/2024/356/regulation/1), [4](https://www.legislation.gov.uk/uksi/2024/356/regulation/4))
+
+[^key-3c7a90cc8e4275ab0b1bf645757e6321]: Textual amendment: Reg. 8(1A) inserted (18.11.2024 for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [24(3)(b)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/24/3/b)
+
+[^key-2132dd9558e7d8dc60e43e181bec936c]: Textual amendment: Words in reg. 8(2) inserted (18.11.2024 for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [24(3)(c)(i)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/24/3/c/i)
+
+[^key-3ac6b21017acc6618ddb6f420e00c4be]: Textual amendment: Words in reg. 8(2) substituted (for the tax year 2024-25 and subsequent tax years) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 9 paras. 108(3)(a)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/108/3/a), [124](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/124) (with [Sch. 9 paras. 125-132A](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/125)) (as amended by [S.I. 2024/356](https://www.legislation.gov.uk/uksi/2024/356), [regs. 1](https://www.legislation.gov.uk/uksi/2024/356/regulation/1), [4](https://www.legislation.gov.uk/uksi/2024/356/regulation/4))
+
+[^key-007ef542727806fc70b743f9be0631e7]: Textual amendment: Words in reg. 8(2) substituted (18.11.2024 for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [24(3)(c)(ii)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/24/3/c/ii)
+
+[^key-b9de4533f135810b00ce58e3e83e9aba]: Textual amendment: Reg. 8(2A) omitted (for the tax year 2024-25 and subsequent tax years) by virtue of [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 9 paras. 108(4)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/108/4), [124](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/124) (with [Sch. 9 paras. 125-132A](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/125)) (as amended by [S.I. 2024/356](https://www.legislation.gov.uk/uksi/2024/356), [regs. 1](https://www.legislation.gov.uk/uksi/2024/356/regulation/1), [4](https://www.legislation.gov.uk/uksi/2024/356/regulation/4))
+
+[^key-7c900bde8f7e028462b5b1599af0b4cb]: Textual amendment: Reg. 8(2B) omitted (for the tax year 2024-25 and subsequent tax years) by virtue of [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 9 paras. 108(4)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/108/4), [124](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/124) (with [Sch. 9 paras. 125-132A](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/125)) (as amended by [S.I. 2024/356](https://www.legislation.gov.uk/uksi/2024/356), [regs. 1](https://www.legislation.gov.uk/uksi/2024/356/regulation/1), [4](https://www.legislation.gov.uk/uksi/2024/356/regulation/4))
+
+[^key-06ee480599473f6d32ccbfeae0dff751]: Textual amendment: Words in reg. 8(3) inserted (18.11.2024 for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [24(3)(d)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/24/3/d)
+
+[^key-3618e92650ecae6f7f9bf7e0ff48bdeb]: Textual amendment: Words in reg. 8(3) substituted (for the tax year 2024-25 and subsequent tax years) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 9 paras. 108(5)(a)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/108/5/a), [124](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/124) (with [Sch. 9 paras. 125-132A](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/125)) (as amended by [S.I. 2024/356](https://www.legislation.gov.uk/uksi/2024/356), [regs. 1](https://www.legislation.gov.uk/uksi/2024/356/regulation/1), [4](https://www.legislation.gov.uk/uksi/2024/356/regulation/4))
+
+[^key-0587604e8d866f1b6b8b4e8c4985570a]: Textual amendment: Words in reg. 8(3)(a) substituted (for the tax year 2024-25 and subsequent tax years) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 9 paras. 108(5)(b)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/108/5/b), [124](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/124) (with [Sch. 9 paras. 125-132A](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/125)) (as amended by [S.I. 2024/356](https://www.legislation.gov.uk/uksi/2024/356), [regs. 1](https://www.legislation.gov.uk/uksi/2024/356/regulation/1), [4](https://www.legislation.gov.uk/uksi/2024/356/regulation/4))
+
+[^key-6e41ba9fe5773e89a5acf1b1c8b59570]: Textual amendment: Words in reg. 8(3)(b) substituted (for the tax year 2024-25 and subsequent tax years) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 9 paras. 108(5)(c)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/108/5/c), [124](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/124) (with [Sch. 9 paras. 125-132A](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/125)) (as amended by [S.I. 2024/356](https://www.legislation.gov.uk/uksi/2024/356), [regs. 1](https://www.legislation.gov.uk/uksi/2024/356/regulation/1), [4](https://www.legislation.gov.uk/uksi/2024/356/regulation/4))
+
+[^key-07887b3d1f0d0acec42dba115849f96e]: Textual amendment: Word in reg. 8(3) substituted (for the tax year 2024-25 and subsequent tax years) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 9 paras. 108(5)(d)(i)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/108/5/d/i), [124](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/124) (with [Sch. 9 paras. 125-132A](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/125)) (as amended by [S.I. 2024/356](https://www.legislation.gov.uk/uksi/2024/356), [regs. 1](https://www.legislation.gov.uk/uksi/2024/356/regulation/1), [4](https://www.legislation.gov.uk/uksi/2024/356/regulation/4))
+
+[^key-385bd188f2b560ca93c08b8b4268113f]: Textual amendment: Words in reg. 8(3) substituted (for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) Regulations 2024 (S.I. 2024/356)](https://www.legislation.gov.uk/uksi/2024/356), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/356/regulation/1/3), [9(5)(b)(i)](https://www.legislation.gov.uk/uksi/2024/356/regulation/9/5/b/i)
+
+[^key-fca161f3e197a97734dfef3a2b9a33ab]: Textual amendment: Words in reg. 8(3) omitted (for the tax year 2024-25 and subsequent tax years) by virtue of [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 9 paras. 108(5)(d)(iii)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/108/5/d/iii), [124](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/124) (with [Sch. 9 paras. 125-132A](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/125)) (as amended by [S.I. 2024/356](https://www.legislation.gov.uk/uksi/2024/356), [regs. 1](https://www.legislation.gov.uk/uksi/2024/356/regulation/1), [4](https://www.legislation.gov.uk/uksi/2024/356/regulation/4))
+
+[^key-1653e5eafbd51a972625568caabbd1e2]: Textual amendment: Words in reg. 8(3) inserted (for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) Regulations 2024 (S.I. 2024/356)](https://www.legislation.gov.uk/uksi/2024/356), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/356/regulation/1/3), [9(5)(b)(ii)](https://www.legislation.gov.uk/uksi/2024/356/regulation/9/5/b/ii)
+
+[^key-f714a005bb809648b91b2a8ad66d7422]: Commencement: Reg. 9 in force at 6.4.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/567/regulation/1)
+
+[^key-e3a2e9fee1dda79737b286c10da972c2]: Textual amendment: Words in reg. 9(2) substituted (for the tax year 2024-25 and subsequent tax years) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 9 paras. 109(2)(a)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/109/2/a), [124](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/124) (with [Sch. 9 paras. 125-132A](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/125)) (as amended by [S.I. 2024/356](https://www.legislation.gov.uk/uksi/2024/356), [regs. 1](https://www.legislation.gov.uk/uksi/2024/356/regulation/1), [4](https://www.legislation.gov.uk/uksi/2024/356/regulation/4))
+
+[^key-65bbd7a5fd8694a06473ecd6eaec2b1a]: Textual amendment: Words in reg. 9(2)(a) substituted (for the tax year 2024-25 and subsequent tax years) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 9 paras. 109(2)(b)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/109/2/b), [124](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/124) (with [Sch. 9 paras. 125-132A](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/125)) (as amended by [S.I. 2024/356](https://www.legislation.gov.uk/uksi/2024/356), [regs. 1](https://www.legislation.gov.uk/uksi/2024/356/regulation/1), [4](https://www.legislation.gov.uk/uksi/2024/356/regulation/4))
+
+[^key-a8127122b133f111945af566edfe1341]: Textual amendment: Words in reg. 9(2)(b) substituted (for the tax year 2024-25 and subsequent tax years) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 9 paras. 109(2)(c)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/109/2/c), [124](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/124) (with [Sch. 9 paras. 125-132A](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/125)) (as amended by [S.I. 2024/356](https://www.legislation.gov.uk/uksi/2024/356), [regs. 1](https://www.legislation.gov.uk/uksi/2024/356/regulation/1), [4](https://www.legislation.gov.uk/uksi/2024/356/regulation/4))
+
+[^key-6a600bbaa7b7b130fcb8511fa6f7149f]: Commencement: Reg. 10 in force at 6.4.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/567/regulation/1)
+
+[^key-cbef82b78b56a2a0b4513cf6ca91a268]: Textual amendment: Words in reg. 10(1)(b) omitted (for the tax year 2024-25 and subsequent tax years) by virtue of [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 9 paras. 110(2)(a)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/110/2/a), [124](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/124) (with [Sch. 9 paras. 125-132A](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/125)) (as amended by [S.I. 2024/356](https://www.legislation.gov.uk/uksi/2024/356), [regs. 1](https://www.legislation.gov.uk/uksi/2024/356/regulation/1), [4](https://www.legislation.gov.uk/uksi/2024/356/regulation/4))
+
+[^key-ede16e2141c8be3866ec23ce9b50fe5c]: Textual amendment: Words in reg. 10(1)(b) substituted (for the tax year 2024-25 and subsequent tax years) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 9 paras. 110(2)(b)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/110/2/b), [124](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/124) (with [Sch. 9 paras. 125-132A](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/125)) (as amended by [S.I. 2024/356](https://www.legislation.gov.uk/uksi/2024/356), [regs. 1](https://www.legislation.gov.uk/uksi/2024/356/regulation/1), [4](https://www.legislation.gov.uk/uksi/2024/356/regulation/4))
+
+[^key-6787f84be018f64dad7c9761f9824cc5]: Textual amendment: Reg. 10(1A) omitted (for the tax year 2024-25 and subsequent tax years) by virtue of [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 9 paras. 110(3)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/110/3), [124](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/124) (with [Sch. 9 paras. 125-132A](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/125)) (as amended by [S.I. 2024/356](https://www.legislation.gov.uk/uksi/2024/356), [regs. 1](https://www.legislation.gov.uk/uksi/2024/356/regulation/1), [4](https://www.legislation.gov.uk/uksi/2024/356/regulation/4))
+
+[^key-be54d2b33f1011c77535d9a4284099b2]: Textual amendment: Reg. 10(1B) omitted (for the tax year 2024-25 and subsequent tax years) by virtue of [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 9 paras. 110(3)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/110/3), [124](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/124) (with [Sch. 9 paras. 125-132A](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/125)) (as amended by [S.I. 2024/356](https://www.legislation.gov.uk/uksi/2024/356), [regs. 1](https://www.legislation.gov.uk/uksi/2024/356/regulation/1), [4](https://www.legislation.gov.uk/uksi/2024/356/regulation/4))
+
+[^key-9b770b3e775333b96733f184b1dc07ac]: Textual amendment: Reg. 10(2)(aa) inserted (for the tax year 2024-25 and subsequent tax years) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 9 paras. 110(4)(a)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/110/4/a), [124](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/124) (with [Sch. 9 paras. 125-132A](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/125)) (as amended by [S.I. 2024/356](https://www.legislation.gov.uk/uksi/2024/356), [regs. 1](https://www.legislation.gov.uk/uksi/2024/356/regulation/1), [4](https://www.legislation.gov.uk/uksi/2024/356/regulation/4))
+
+[^key-066f3a8704bcec1d7f184f1a998483a0]: Textual amendment: Words in reg. 10(2)(b) inserted (for the tax year 2024-25 and subsequent tax years) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 9 paras. 110(4)(b)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/110/4/b), [124](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/124) (with [Sch. 9 paras. 125-132A](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/125)) (as amended by [S.I. 2024/356](https://www.legislation.gov.uk/uksi/2024/356), [regs. 1](https://www.legislation.gov.uk/uksi/2024/356/regulation/1), [4](https://www.legislation.gov.uk/uksi/2024/356/regulation/4))
+
+[^key-333a29f69ac5f48f008f152d8c0be335]: Textual amendment: Reg. 10(2)(ba)(bb) inserted (for the tax year 2024-25 and subsequent tax years) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 9 paras. 110(4)(c)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/110/4/c), [124](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/124) (with [Sch. 9 paras. 125-132A](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/125)) (as amended by [S.I. 2024/356](https://www.legislation.gov.uk/uksi/2024/356), [regs. 1](https://www.legislation.gov.uk/uksi/2024/356/regulation/1), [4](https://www.legislation.gov.uk/uksi/2024/356/regulation/4))
+
+[^key-f73557558bda5a92fa3eeb84ca446a0a]: Textual amendment: Words in reg. 10(2)(d) substituted (for the tax year 2024-25 and subsequent tax years) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 9 paras. 110(4)(d)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/110/4/d), [124](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/124) (with [Sch. 9 paras. 125-132A](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/125)) (as amended by [S.I. 2024/356](https://www.legislation.gov.uk/uksi/2024/356), [regs. 1](https://www.legislation.gov.uk/uksi/2024/356/regulation/1), [4](https://www.legislation.gov.uk/uksi/2024/356/regulation/4))
+
+[^key-755c54ebd29937a890a6c3776ba5c0aa]: Textual amendment: Reg. 10(2A) omitted (for the tax year 2024-25 and subsequent tax years) by virtue of [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 9 paras. 110(5)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/110/5), [124](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/124) (with [Sch. 9 paras. 125-132A](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/125)) (as amended by [S.I. 2024/356](https://www.legislation.gov.uk/uksi/2024/356), [regs. 1](https://www.legislation.gov.uk/uksi/2024/356/regulation/1), [4](https://www.legislation.gov.uk/uksi/2024/356/regulation/4))
+
+[^key-92d2090d0693ac22c0d3509d55ae3b7d]: Textual amendment: Reg. 10(2B) omitted (for the tax year 2024-25 and subsequent tax years) by virtue of [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 9 paras. 110(5)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/110/5), [124](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/124) (with [Sch. 9 paras. 125-132A](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/125)) (as amended by [S.I. 2024/356](https://www.legislation.gov.uk/uksi/2024/356), [regs. 1](https://www.legislation.gov.uk/uksi/2024/356/regulation/1), [4](https://www.legislation.gov.uk/uksi/2024/356/regulation/4))
+
+[^key-191bce8c5dc2c1ec192cfadfd296d8dc]: Textual amendment: Words in reg. 10(3) omitted (for the tax year 2024-25 and subsequent tax years) by virtue of [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 9 paras. 110(6)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/110/6), [124](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/124) (with [Sch. 9 paras. 125-132A](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/125)) (as amended by [S.I. 2024/356](https://www.legislation.gov.uk/uksi/2024/356), [regs. 1](https://www.legislation.gov.uk/uksi/2024/356/regulation/1), [4](https://www.legislation.gov.uk/uksi/2024/356/regulation/4))
+
+[^key-e576fd38d9bc73a9d7740522281b8bb5]: Textual amendment: Words in reg. 10(5) omitted (for the tax year 2024-25 and subsequent tax years) by virtue of [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 9 paras. 110(6)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/110/6), [124](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/124) (with [Sch. 9 paras. 125-132A](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/125)) (as amended by [S.I. 2024/356](https://www.legislation.gov.uk/uksi/2024/356), [regs. 1](https://www.legislation.gov.uk/uksi/2024/356/regulation/1), [4](https://www.legislation.gov.uk/uksi/2024/356/regulation/4))
+
+[^key-a96c30a02d8941a3f5479f24932403bb]: Textual amendment: Regs. 10A, 10B inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Registered Pension Schemes (Provision of Information) (Amendment) Regulations 2017 (S.I. 2017/11)](https://www.legislation.gov.uk/uksi/2017/11), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/11/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2017/11/regulation/3)
+
+[^key-e15df7f780033a82cf28e0f0d1dbabdc]: Textual amendment: Reg. 11 substituted (11.8.2011 for tax year 2012-13 and subsequent years) by [The Registered Pension Schemes (Provision of Information) (Amendment) (No.2) Regulations 2011 (S.I. 2011/1797)](https://www.legislation.gov.uk/uksi/2011/1797), [regs. 1](https://www.legislation.gov.uk/uksi/2011/1797/regulation/1), [6](https://www.legislation.gov.uk/uksi/2011/1797/regulation/6)
+
+[^key-ba74df230b4b51dde9f9f27b68a41a05]: Textual amendment: Words in reg. 11 heading substituted (for the tax year 2024-25 and subsequent tax years) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 9 paras. 111(2)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/111/2), [124](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/124) (with [Sch. 9 paras. 125-132A](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/125)) (as amended by [S.I. 2024/356](https://www.legislation.gov.uk/uksi/2024/356), [regs. 1](https://www.legislation.gov.uk/uksi/2024/356/regulation/1), [4](https://www.legislation.gov.uk/uksi/2024/356/regulation/4))
+
+[^key-cd56db7fabcc7f3e21d86e6c49625a9e]: Textual amendment: Words in reg. 11 heading substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Registered Pension Schemes (Provision of Information) (Amendment) Regulations 2013 (S.I. 2013/1742)](https://www.legislation.gov.uk/uksi/2013/1742), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/1742/regulation/1/1), [5(a)](https://www.legislation.gov.uk/uksi/2013/1742/regulation/5/a)
+
+[^key-77c0f8c635408bd942256fc779a80109]: Textual amendment: Words in reg. 11 heading substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Registered Pension Schemes (Provision of Information) (Amendment) Regulations 2014 (S.I. 2014/1843)](https://www.legislation.gov.uk/uksi/2014/1843), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/1843/regulation/1/1), [5(a)](https://www.legislation.gov.uk/uksi/2014/1843/regulation/5/a)
+
+[^key-0b051f413102ac00b59693cba8ddfbc9]: Textual amendment: Reg. 11 heading: comma substituted for word (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 4 para. 25(4)(a)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/4/paragraph/25/4/a)
+
+[^key-0de21878ac7af6946b9e7759920bd530]: Textual amendment: Words in reg. 11 heading inserted (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 4 para. 25(4)(b)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/4/paragraph/25/4/b)
+
+[^key-0848e97da0a287236712a2fa580cd0f1]: Textual amendment: Reg. 11 renumbered as reg. 11(1) (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Registered Pension Schemes (Provision of Information) (Amendment) Regulations 2014 (S.I. 2014/1843)](https://www.legislation.gov.uk/uksi/2014/1843), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/1843/regulation/1/1), [5(b)](https://www.legislation.gov.uk/uksi/2014/1843/regulation/5/b)
+
+[^key-2653b3c47b90caddaa33b4b5de955dd4]: Textual amendment: Words in reg. 11(1) substituted (for the tax year 2024-25 and subsequent tax years) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 9 paras. 111(3)(a)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/111/3/a), [124](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/124) (with [Sch. 9 paras. 125-132A](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/125)) (as amended by [S.I. 2024/356](https://www.legislation.gov.uk/uksi/2024/356), [regs. 1](https://www.legislation.gov.uk/uksi/2024/356/regulation/1), [4](https://www.legislation.gov.uk/uksi/2024/356/regulation/4))
+
+[^key-985322bf80d98960ba7438e483f03129]: Textual amendment: Word in reg. 11(1)(a) omitted (for the tax year 2024-25 and subsequent tax years) by virtue of [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 9 paras. 111(3)(b)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/111/3/b), [124](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/124) (with [Sch. 9 paras. 125-132A](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/125)) (as amended by [S.I. 2024/356](https://www.legislation.gov.uk/uksi/2024/356), [regs. 1](https://www.legislation.gov.uk/uksi/2024/356/regulation/1), [4](https://www.legislation.gov.uk/uksi/2024/356/regulation/4))
+
+[^key-82232ed0437a7b7a87f61d3c882b032d]: Textual amendment: Word in reg. 11(a) omitted (with effect in accordance with reg. 1(2) of the amending S.I.) by virtue of [The Registered Pension Schemes (Provision of Information) (Amendment) Regulations 2013 (S.I. 2013/1742)](https://www.legislation.gov.uk/uksi/2013/1742), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/1742/regulation/1/1), [5(b)](https://www.legislation.gov.uk/uksi/2013/1742/regulation/5/b)
+
+[^key-2958e6f8645da395d112590169290f42]: Textual amendment: Reg. 11(c) and word inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Registered Pension Schemes (Provision of Information) (Amendment) Regulations 2013 (S.I. 2013/1742)](https://www.legislation.gov.uk/uksi/2013/1742), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/1742/regulation/1/1), [5(b)](https://www.legislation.gov.uk/uksi/2013/1742/regulation/5/b)
+
+[^key-3937a43835ee6bb6c987563a72467740]: Textual amendment: Word in reg. 11(1)(b) omitted (15.9.2016) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 4 para. 25(2)(a)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/4/paragraph/25/2/a)
+
+[^key-e2f94b1b22996a06383ef249b41a37d6]: Textual amendment: Reg. 11(1)(d) and word inserted (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 4 para. 25(2)(b)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/4/paragraph/25/2/b)
+
+[^key-ae45068fd3d428879072d59d1f59c99a]: Textual amendment: Words in reg. 11(1) substituted (for the tax year 2024-25 and subsequent tax years) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 9 paras. 111(3)(c)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/111/3/c), [124](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/124) (with [Sch. 9 paras. 125-132A](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/125)) (as amended by [S.I. 2024/356](https://www.legislation.gov.uk/uksi/2024/356), [regs. 1](https://www.legislation.gov.uk/uksi/2024/356/regulation/1), [4](https://www.legislation.gov.uk/uksi/2024/356/regulation/4))
+
+[^key-9ec7823aa79c4cb3cbd14fd5cff3fcf2]: Textual amendment: Reg. 11(1A) inserted (for the tax year 2024-25 and subsequent tax years) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 9 paras. 111(4)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/111/4), [124](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/124) (with [Sch. 9 paras. 125-132A](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/125)) (as amended by [S.I. 2024/356](https://www.legislation.gov.uk/uksi/2024/356), [regs. 1](https://www.legislation.gov.uk/uksi/2024/356/regulation/1), [4](https://www.legislation.gov.uk/uksi/2024/356/regulation/4))
+
+[^key-a3241511e5f66dc1926a7238c5afa2da]: Textual amendment: Reg. 11(2) inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Registered Pension Schemes (Provision of Information) (Amendment) Regulations 2014 (S.I. 2014/1843)](https://www.legislation.gov.uk/uksi/2014/1843), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/1843/regulation/1/1), [5(b)](https://www.legislation.gov.uk/uksi/2014/1843/regulation/5/b)
+
+[^key-8931279198bc8800fca07e389840a110]: Textual amendment: Words in reg. 11(2)(a) substituted (for the tax year 2024-25 and subsequent tax years) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 9 paras. 111(5)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/111/5), [124](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/124) (with [Sch. 9 paras. 125-132A](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/125)) (as amended by [S.I. 2024/356](https://www.legislation.gov.uk/uksi/2024/356), [regs. 1](https://www.legislation.gov.uk/uksi/2024/356/regulation/1), [4](https://www.legislation.gov.uk/uksi/2024/356/regulation/4))
+
+[^key-cbb3b3e8b83e0678b582107040379820]: Textual amendment: Reg. 11(3) inserted (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 4 para. 25(3)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/4/paragraph/25/3)
+
+[^key-66bb9ef946b759c6cf10b67f4b962dcb]: Textual amendment: Regs. 11A, 11B inserted (11.8.2006) by [The Registered Pension Schemes (Provision of Information) (Amendment) Regulations 2006 (S.I. 2006/1961)](https://www.legislation.gov.uk/uksi/2006/1961), [regs. 1](https://www.legislation.gov.uk/uksi/2006/1961/regulation/1), [4](https://www.legislation.gov.uk/uksi/2006/1961/regulation/4)
+
+[^key-03e5c5eaf6f3cace05436b59bc441707]: Textual amendment: [Reg. 11B](https://www.legislation.gov.uk/uksi/2006/567/regulation/11B) omitted (for the tax year 2024-25 and subsequent tax years) by virtue of [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 9 paras. 112](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/112), [124](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/124) (with [Sch. 9 paras. 125-132A](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/125)) (as amended by [S.I. 2024/356](https://www.legislation.gov.uk/uksi/2024/356), [regs. 1](https://www.legislation.gov.uk/uksi/2024/356/regulation/1), [4](https://www.legislation.gov.uk/uksi/2024/356/regulation/4))
+
+[^key-9dd46f711facf2928c8e15c017b85707]: Textual amendment: Reg. 11BA inserted (6.4.2012) by [The Registered Pension Schemes and Overseas Pension Schemes (Miscellaneous Amendments) Regulations 2012 (S.I. 2012/884)](https://www.legislation.gov.uk/uksi/2012/884), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/884/regulation/1/1), [13](https://www.legislation.gov.uk/uksi/2012/884/regulation/13)
+
+[^key-8c4f03bc640a61828456a2b7425ceaa0]: Textual amendment: Reg. 11BA(2)(a)(iiia) inserted (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Registered Pension Schemes (Provision of Information) (Amendment) Regulations 2013 (S.I. 2013/1742)](https://www.legislation.gov.uk/uksi/2013/1742), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/1742/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2013/1742/regulation/6)
+
+[^key-9786b9fc1685c1001d012aa932da3d87]: Textual amendment: Reg. 11BA(2)(a)(vi)(vii) omitted (with effect in accordance with Sch. 4 para. 25 of the amending Act) by virtue of [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [Sch. 4 para. 24(4)(a)](https://www.legislation.gov.uk/ukpga/2017/10/schedule/4/paragraph/24/4/a) (with [Sch. 4 para. 24(8)](https://www.legislation.gov.uk/ukpga/2017/10/schedule/4/paragraph/24/8))
+
+[^key-79e850f21eab9f9c9afe3fff63ecaa1b]: Textual amendment: Reg. 11BA(2)(aa)-(ac) inserted (with effect in accordance with Sch. 4 para. 25 of the amending Act) by [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [Sch. 4 para. 24(4)(b)](https://www.legislation.gov.uk/ukpga/2017/10/schedule/4/paragraph/24/4/b) (with [Sch. 4 para. 24(8)](https://www.legislation.gov.uk/ukpga/2017/10/schedule/4/paragraph/24/8))
+
+[^key-dce89d8b3030abaf1fcf1728d21352aa]: Textual amendment: [Reg. 11BA(2)(ad)](https://www.legislation.gov.uk/uksi/2006/567/regulation/11BA/2/ad) inserted (for the tax year 2024-25 and subsequent tax years) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 9 paras. 113](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/113), [124](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/124) (with [Sch. 9 paras. 125-132A](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/125)) (as amended by [S.I. 2024/356](https://www.legislation.gov.uk/uksi/2024/356), [regs. 1](https://www.legislation.gov.uk/uksi/2024/356/regulation/1), [4](https://www.legislation.gov.uk/uksi/2024/356/regulation/4))
+
+[^key-b458c7f87c0c5ea64d9a54ae9ef60805]: Textual amendment: Reg. 11BA(2)(ae) inserted (18.11.2024 for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [24(4)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/24/4)
+
+[^key-8620250a4cc82edd515089b71d694f99]: Textual amendment: Reg. 11BA(2)(c) and word inserted (with effect in accordance with Sch. 4 para. 25 of the amending Act) by [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [Sch. 4 para. 24(4)(c)](https://www.legislation.gov.uk/ukpga/2017/10/schedule/4/paragraph/24/4/c) (with [Sch. 4 para. 24(8)](https://www.legislation.gov.uk/ukpga/2017/10/schedule/4/paragraph/24/8))
+
+[^key-e6cc1a7581d0d2e546c1f16ece39472e]: Modification: Reg. 11BA(3) excluded (14.10.2013) by [The Registered Pension Schemes and Overseas Pension Schemes (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/2259)](https://www.legislation.gov.uk/uksi/2013/2259), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2259/regulation/1), [6(2)](https://www.legislation.gov.uk/uksi/2013/2259/regulation/6/2)
+
+[^key-36cc8dfdbece158b7ca7497bf29461b3]: Modification: Reg. 11BA(4) excluded (14.10.2013) by [The Registered Pension Schemes and Overseas Pension Schemes (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/2259)](https://www.legislation.gov.uk/uksi/2013/2259), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2259/regulation/1), [6(3)](https://www.legislation.gov.uk/uksi/2013/2259/regulation/6/3)
+
+[^key-aab8b5b8046c5dbc8fd8b9b1b30b987e]: Textual amendment: Reg. 11BB inserted (with effect in accordance with Sch. 4 para. 25 of the amending Act) by [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [Sch. 4 para. 24(5)](https://www.legislation.gov.uk/ukpga/2017/10/schedule/4/paragraph/24/5) (with [Sch. 4 para. 24(8)](https://www.legislation.gov.uk/ukpga/2017/10/schedule/4/paragraph/24/8))
+
+[^key-721ea41dd853ade5322cc9bdb2ef7d4e]: Textual amendment: Word in reg. 11BB(1)(b)(i) substituted (for the tax year 2024-25 and subsequent tax years) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 9 paras. 114(a)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/114/a), [124](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/124) (with [Sch. 9 paras. 125-132A](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/125)) (as amended by [S.I. 2024/356](https://www.legislation.gov.uk/uksi/2024/356), [regs. 1](https://www.legislation.gov.uk/uksi/2024/356/regulation/1), [4](https://www.legislation.gov.uk/uksi/2024/356/regulation/4))
+
+[^key-fda52476c6ef0bb5e44aee9267133c9f]: Textual amendment: Words in reg. 11BB(1)(b)(ii) substituted (for the tax year 2024-25 and subsequent tax years) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 9 paras. 114(b)(i)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/114/b/i), [124](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/124) (with [Sch. 9 paras. 125-132A](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/125)) (as amended by [S.I. 2024/356](https://www.legislation.gov.uk/uksi/2024/356), [regs. 1](https://www.legislation.gov.uk/uksi/2024/356/regulation/1), [4](https://www.legislation.gov.uk/uksi/2024/356/regulation/4))
+
+[^key-53dc79f00d9d0a40827cdfe16cfa328c]: Textual amendment: Words in [reg. 11BB(1)(b)(ii)](https://www.legislation.gov.uk/uksi/2006/567/regulation/11BB/1/b/ii) omitted (with effect in accordance with s. 32(6) of the amending Act) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 32(5)(a)](https://www.legislation.gov.uk/ukpga/2025/8/section/32/5/a)[(6)](https://www.legislation.gov.uk/ukpga/2025/8/section/32/6) (with [s. 32(7)](https://www.legislation.gov.uk/ukpga/2025/8/section/32/7)[(8)](https://www.legislation.gov.uk/ukpga/2025/8/section/32/8))
+
+[^key-456e0f4d3215b5cb240825af348a9fc2]: Textual amendment: Words in reg. 11BB(1)(b)(ii) omitted (for the tax year 2024-25 and subsequent tax years) by virtue of [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 9 paras. 114(b)(ii)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/114/b/ii), [124](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/124) (with [Sch. 9 paras. 125-132A](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/125)) (as amended by [S.I. 2024/356](https://www.legislation.gov.uk/uksi/2024/356), [regs. 1](https://www.legislation.gov.uk/uksi/2024/356/regulation/1), [4](https://www.legislation.gov.uk/uksi/2024/356/regulation/4))
+
+[^key-817e747f9252339876e5f2e809e30753]: Textual amendment: Reg. 11C inserted (6.4.2011) by [The Registered Pension Schemes (Provision of Information) (Amendment) Regulations 2011 (S.I. 2011/301)](https://www.legislation.gov.uk/uksi/2011/301), [regs. 1](https://www.legislation.gov.uk/uksi/2011/301/regulation/1), [4](https://www.legislation.gov.uk/uksi/2011/301/regulation/4)
+
+[^key-3a26353e83bd66fa75c8395017ca381d]: Textual amendment: Words in reg. 11C(1) inserted (6.4.2012) by [The Registered Pension Schemes and Overseas Pension Schemes (Miscellaneous Amendments) Regulations 2012 (S.I. 2012/884)](https://www.legislation.gov.uk/uksi/2012/884), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/884/regulation/1/1), [14](https://www.legislation.gov.uk/uksi/2012/884/regulation/14)
+
+[^key-a0bab1b4f58d6e413331391e086e97af]: Textual amendment: [Reg. 12](https://www.legislation.gov.uk/uksi/2006/567/regulation/12) omitted (for the tax year 2024-25 and subsequent tax years) by virtue of [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 9 paras. 115](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/115), [124](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/124) (with [Sch. 9 paras. 125-132A](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/125)) (as amended by [S.I. 2024/356](https://www.legislation.gov.uk/uksi/2024/356), regs. 1, 4)
+
+[^key-e13f9343304622b68a1ddef01ab9465d]: Textual amendment: Reg. 12A inserted (with effect in accordance with Sch. 4 para. 25 of the amending Act) by [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [Sch. 4 para. 24(6)](https://www.legislation.gov.uk/ukpga/2017/10/schedule/4/paragraph/24/6) (with [Sch. 4 para. 24(8)](https://www.legislation.gov.uk/ukpga/2017/10/schedule/4/paragraph/24/8))
+
+[^key-6dbe29026916abe3ebf0f43e6d8a3a49]: Textual amendment: Word in reg. 12A heading inserted (for the tax year 2024-25 and subsequent tax years) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 9 paras. 116(2)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/116/2), [124](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/124) (with [Sch. 9 paras. 125-132A](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/125)) (as amended by [S.I. 2024/356](https://www.legislation.gov.uk/uksi/2024/356), [regs. 1](https://www.legislation.gov.uk/uksi/2024/356/regulation/1), [4](https://www.legislation.gov.uk/uksi/2024/356/regulation/4))
+
+[^key-4fe79155f19119c213b4cb54d21e68a5]: Textual amendment: Words in reg. 12A(1) substituted (for the tax year 2024-25 and subsequent tax years) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 9 paras. 116(3)(a)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/116/3/a), [124](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/124) (with [Sch. 9 paras. 125-132A](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/125)) (as amended by [S.I. 2024/356](https://www.legislation.gov.uk/uksi/2024/356), [regs. 1](https://www.legislation.gov.uk/uksi/2024/356/regulation/1), [4](https://www.legislation.gov.uk/uksi/2024/356/regulation/4))
+
+[^key-63e27926a5efa54df52fddceb247ad49]: Textual amendment: Reg. 12A(1)(b) substituted (for the tax year 2024-25 and subsequent tax years) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 9 paras. 116(3)(b)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/116/3/b), [124](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/124) (with [Sch. 9 paras. 125-132A](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/125)) (as amended by [S.I. 2024/356](https://www.legislation.gov.uk/uksi/2024/356), [regs. 1](https://www.legislation.gov.uk/uksi/2024/356/regulation/1), [4](https://www.legislation.gov.uk/uksi/2024/356/regulation/4))
+
+[^key-44d59f71f10473030af0c1e4094381d0]: Textual amendment: Words in reg. 12A(2) inserted (for the tax year 2024-25 and subsequent tax years) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 9 paras. 116(4)(a)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/116/4/a), [124](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/124) (with [Sch. 9 paras. 125-132A](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/125)) (as amended by [S.I. 2024/356](https://www.legislation.gov.uk/uksi/2024/356), [regs. 1](https://www.legislation.gov.uk/uksi/2024/356/regulation/1), [4](https://www.legislation.gov.uk/uksi/2024/356/regulation/4))
+
+[^key-741fa94a285d52629d7de7933d3a6225]: Textual amendment: Words in reg. 12A(2)(b) inserted (for the tax year 2024-25 and subsequent tax years) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 9 paras. 116(4)(b)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/116/4/b), [124](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/124) (with [Sch. 9 paras. 125-132A](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/125)) (as amended by [S.I. 2024/356](https://www.legislation.gov.uk/uksi/2024/356), [regs. 1](https://www.legislation.gov.uk/uksi/2024/356/regulation/1), [4](https://www.legislation.gov.uk/uksi/2024/356/regulation/4))
+
+[^key-8c8b627d0f3cb028d8f855287a10f3f5]: Textual amendment: Reg. 12A(2)(ba) inserted (for the tax year 2024-25 and subsequent tax years) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 9 paras. 116(4)(c)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/116/4/c), [124](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/124) (with [Sch. 9 paras. 125-132A](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/125)) (as amended by [S.I. 2024/356](https://www.legislation.gov.uk/uksi/2024/356), [regs. 1](https://www.legislation.gov.uk/uksi/2024/356/regulation/1), [4](https://www.legislation.gov.uk/uksi/2024/356/regulation/4))
+
+[^key-4ac51942a8965683019256ed6b4e8ed3]: Textual amendment: Words in [reg. 12A(2)(d)](https://www.legislation.gov.uk/uksi/2006/567/regulation/12A/2/d) omitted (with effect in accordance with s. 32(6) of the amending Act) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 32(5)(b)](https://www.legislation.gov.uk/ukpga/2025/8/section/32/5/b)[(6)](https://www.legislation.gov.uk/ukpga/2025/8/section/32/6) (with [s. 32(7)](https://www.legislation.gov.uk/ukpga/2025/8/section/32/7)[(8)](https://www.legislation.gov.uk/ukpga/2025/8/section/32/8))
+
+[^key-0a16ce6269dfe7795dcaf34de833604e]: Textual amendment: Words in reg. 12A(3) substituted (for the tax year 2024-25 and subsequent tax years) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 9 paras. 116(5)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/116/5), [124](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/124) (with [Sch. 9 paras. 125-132A](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/125)) (as amended by [S.I. 2024/356](https://www.legislation.gov.uk/uksi/2024/356), [regs. 1](https://www.legislation.gov.uk/uksi/2024/356/regulation/1), [4](https://www.legislation.gov.uk/uksi/2024/356/regulation/4))
+
+[^key-1cc790c8811b1779eecd65f7a28172bc]: Commencement: Reg. 13 in force at 6.4.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/567/regulation/1)
+
+[^key-7d8ab954a33825cdddc12b581b7c3222]: Commencement: Reg. 14 in force at 6.4.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/567/regulation/1)
+
+[^key-a17b91b33c273ebe7552ce31fcc1096b]: Textual amendment: Words in reg. 14 heading substituted (for the tax year 2024-25 and subsequent tax years) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 9 paras. 117(2)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/117/2), [124](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/124) (with [Sch. 9 paras. 125-132A](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/125)) (as amended by [S.I. 2024/356](https://www.legislation.gov.uk/uksi/2024/356), [regs. 1](https://www.legislation.gov.uk/uksi/2024/356/regulation/1), [4](https://www.legislation.gov.uk/uksi/2024/356/regulation/4))
+
+[^key-d2971ded0f593adf4083d0d0ac8547a9]: Textual amendment: Words in reg. 14(1) inserted (6.4.2008) by [The Registered Pension Schemes (Provision of Information) (Amendment) Regulations 2008 (S.I. 2008/720)](https://www.legislation.gov.uk/uksi/2008/720), [regs. 1](https://www.legislation.gov.uk/uksi/2008/720/regulation/1), [6(a)](https://www.legislation.gov.uk/uksi/2008/720/regulation/6/a)
+
+[^key-abde51b5cdbb7f2a43803af87d481dfa]: Textual amendment: Words in reg. 14(1)(b) substituted (for the tax year 2024-25 and subsequent tax years) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 9 paras. 117(3)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/117/3), [124](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/124) (with [Sch. 9 paras. 125-132A](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/125)) (as amended by [S.I. 2024/356](https://www.legislation.gov.uk/uksi/2024/356), [regs. 1](https://www.legislation.gov.uk/uksi/2024/356/regulation/1), [4](https://www.legislation.gov.uk/uksi/2024/356/regulation/4))
+
+[^key-9b44bf7cfbf8f2028b5afb40adcdf628]: Textual amendment: Words in reg. 14(2)(a) substituted (6.4.2008) by [The Registered Pension Schemes (Provision of Information) (Amendment) Regulations 2008 (S.I. 2008/720)](https://www.legislation.gov.uk/uksi/2008/720), [regs. 1](https://www.legislation.gov.uk/uksi/2008/720/regulation/1), [6(b)](https://www.legislation.gov.uk/uksi/2008/720/regulation/6/b)
+
+[^key-b7de5812e2229d6b4ebf10528f981dee]: Textual amendment: Reg. 14(2)(ba) omitted (for the tax year 2024-25 and subsequent tax years) by virtue of [The Pensions (Abolition of Lifetime Allowance Charge etc) Regulations 2024 (S.I. 2024/356)](https://www.legislation.gov.uk/uksi/2024/356), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/356/regulation/1/3), [9(6)](https://www.legislation.gov.uk/uksi/2024/356/regulation/9/6)
+
+[^key-ecc5ca6fbb38f8ee2b76cabed1c339f4]: Textual amendment: Words in reg. 14(2)(c) substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Registered Pension Schemes (Provision of Information) (Amendment No. 2) Regulations 2015 (S.I. 2015/1455)](https://www.legislation.gov.uk/uksi/2015/1455), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1455/regulation/1/1)[(2)](https://www.legislation.gov.uk/uksi/2015/1455/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2015/1455/regulation/6)
+
+[^key-35c8cb78b026ce5d8c10ef9fb2009cea]: Textual amendment: Words in reg. 14(2)(c) omitted (for the tax year 2024-25 and subsequent tax years) by virtue of [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 9 paras. 117(4)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/117/4), [124](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/124) (with [Sch. 9 paras. 125-132A](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/125)) (as amended by [S.I. 2024/356](https://www.legislation.gov.uk/uksi/2024/356), [regs. 1](https://www.legislation.gov.uk/uksi/2024/356/regulation/1), [4](https://www.legislation.gov.uk/uksi/2024/356/regulation/4))
+
+[^key-4cc843c6cae5dcd5892ca4f0c8a80580]: Textual amendment: Words in reg. 14(3) substituted (for the tax year 2024-25 and subsequent tax years) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 9 paras. 117(5)(a)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/117/5/a), [124](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/124) (with [Sch. 9 paras. 125-132A](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/125)) (as amended by [S.I. 2024/356](https://www.legislation.gov.uk/uksi/2024/356), [regs. 1](https://www.legislation.gov.uk/uksi/2024/356/regulation/1), [4](https://www.legislation.gov.uk/uksi/2024/356/regulation/4))
+
+[^key-ae543f5ed38b56cd162fff2af5d8cfbd]: Textual amendment: Words in reg. 14(3)(a) substituted (for the tax year 2024-25 and subsequent tax years) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 9 paras. 117(5)(b)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/117/5/b), [124](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/124) (with [Sch. 9 paras. 125-132A](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/125)) (as amended by [S.I. 2024/356](https://www.legislation.gov.uk/uksi/2024/356), [regs. 1](https://www.legislation.gov.uk/uksi/2024/356/regulation/1), [4](https://www.legislation.gov.uk/uksi/2024/356/regulation/4))
+
+[^key-b31f4268798c4d581130052e23e5bf49]: Textual amendment: Words in reg. 14(3)(b) substituted (for the tax year 2024-25 and subsequent tax years) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 9 paras. 117(5)(c)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/117/5/c), [124](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/124) (with [Sch. 9 paras. 125-132A](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/125)) (as amended by [S.I. 2024/356](https://www.legislation.gov.uk/uksi/2024/356), [regs. 1](https://www.legislation.gov.uk/uksi/2024/356/regulation/1), [4](https://www.legislation.gov.uk/uksi/2024/356/regulation/4))
+
+[^key-051adbe835777ce9de8fd3fcad93f899]: Textual amendment: Regs. 14ZA-14ZE inserted (6.4.2015) by [Taxation of Pensions Act 2014 (c. 30)](https://www.legislation.gov.uk/ukpga/2014/30), [Sch. 1 paras. 87](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/paragraph/87), [91(a)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/paragraph/91/a) (with [Sch. 1 para. 91(b)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/paragraph/91/b))
+
+[^key-3727fd4b5e1c62664c2e5c6e8d9ac76e]: Textual amendment: Sum in reg. 14ZA(3)(b) substituted (for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) Regulations 2024 (S.I. 2024/356)](https://www.legislation.gov.uk/uksi/2024/356), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/356/regulation/1/3), [9(7)](https://www.legislation.gov.uk/uksi/2024/356/regulation/9/7)
+
+[^key-a481c7031afcd4440cf41af7476a895f]: Textual amendment: Words in reg. 14ZA(4)(b)(ii) inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Registered Pension Schemes (Provision of Information) (Amendment No. 2) Regulations 2015 (S.I. 2015/1455)](https://www.legislation.gov.uk/uksi/2015/1455), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1455/regulation/1/1)[(2)](https://www.legislation.gov.uk/uksi/2015/1455/regulation/1/2), [7](https://www.legislation.gov.uk/uksi/2015/1455/regulation/7)
+
+[^key-788574b319df6472a8f597bc8da483ff]: Textual amendment: Words in reg. 14ZB(6) inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Registered Pension Schemes (Provision of Information) (Amendment No. 2) Regulations 2015 (S.I. 2015/1455)](https://www.legislation.gov.uk/uksi/2015/1455), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1455/regulation/1/1)[(2)](https://www.legislation.gov.uk/uksi/2015/1455/regulation/1/2), [8](https://www.legislation.gov.uk/uksi/2015/1455/regulation/8)
+
+[^key-2b89e5cd48cc4c87b3e3b321546945ed]: Textual amendment: Words in reg. 14ZC heading substituted (with effect in accordance with reg. 1(4) of the amending S.I.) by [The Registered Pension Schemes (Provision of Information) (Amendment) Regulations 2015 (S.I. 2015/606)](https://www.legislation.gov.uk/uksi/2015/606), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/606/regulation/1/1), [8(a)](https://www.legislation.gov.uk/uksi/2015/606/regulation/8/a)
+
+[^key-65b961fb51ea04f8533e5b43a9557d38]: Textual amendment: Words in reg. 14ZC(1)(a) inserted (with effect in accordance with reg. 1(4) of the amending S.I.) by [The Registered Pension Schemes (Provision of Information) (Amendment) Regulations 2015 (S.I. 2015/606)](https://www.legislation.gov.uk/uksi/2015/606), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/606/regulation/1/1), [8(b)](https://www.legislation.gov.uk/uksi/2015/606/regulation/8/b)
+
+[^key-76a9aaec7a3cbd85e3377458e300a787]: Textual amendment: Words in reg. 14ZC(2) inserted (with effect in accordance with reg. 1(4) of the amending S.I.) by [The Registered Pension Schemes (Provision of Information) (Amendment) Regulations 2015 (S.I. 2015/606)](https://www.legislation.gov.uk/uksi/2015/606), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/606/regulation/1/1), [8(c)](https://www.legislation.gov.uk/uksi/2015/606/regulation/8/c)
+
+[^key-6ce2c01e75dda37c2cd7a24e30c95048]: Textual amendment: Reg. 14ZC(5)-(7) inserted (18.11.2024 for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [24(5)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/24/5)
+
+[^key-7e254adf41b98c376ad954fb450fe13d]: Textual amendment: [Reg. 14ZC(8)-(11)](https://www.legislation.gov.uk/uksi/2006/567/regulation/14ZC/8) inserted (with effect in relation to transfers made on or after 29.6.2026) by [The Pensions (Abolition of Lifetime Allowance Charge etc) Regulations 2026 (S.I. 2026/698)](https://www.legislation.gov.uk/uksi/2026/698), [regs. 1(5)(6)](https://www.legislation.gov.uk/uksi/2026/698/regulation/1/5/6), [12](https://www.legislation.gov.uk/uksi/2026/698/regulation/12)
+
+[^key-3b535dbb35788b2d9a74223b579c213f]: Textual amendment: Reg. 14ZCA inserted (with effect in accordance with Sch. 4 para. 25 of the amending Act) by [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [Sch. 4 para. 24(7)](https://www.legislation.gov.uk/ukpga/2017/10/schedule/4/paragraph/24/7) (with [Sch. 4 para. 24(8)](https://www.legislation.gov.uk/ukpga/2017/10/schedule/4/paragraph/24/8))
+
+[^key-394385bf6061779a3d494a9c9c4c8a48]: Textual amendment: Words in reg. 14ZCA(2)(a) substituted (for the tax year 2024-25 and subsequent tax years) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 9 paras. 118(a)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/118/a), [124](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/124) (with [Sch. 9 paras. 125-132A](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/125)) (as amended by [S.I. 2024/356](https://www.legislation.gov.uk/uksi/2024/356), [regs. 1](https://www.legislation.gov.uk/uksi/2024/356/regulation/1), [4](https://www.legislation.gov.uk/uksi/2024/356/regulation/4))
+
+[^key-e4413e9f726bd4fb3bf727ca30110561]: Textual amendment: Reg. 14ZCA(2)(b)(c) substituted for reg. 14ZCA(2)(b) (for the tax year 2024-25 and subsequent tax years) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 9 paras. 118(b)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/118/b), [124](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/124) (with [Sch. 9 paras. 125-132A](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/125)) (as amended by [S.I. 2024/356](https://www.legislation.gov.uk/uksi/2024/356), [regs. 1](https://www.legislation.gov.uk/uksi/2024/356/regulation/1), [4](https://www.legislation.gov.uk/uksi/2024/356/regulation/4))
+
+[^key-a292ec117e89357fb8233f2580726955]: Textual amendment: Words in reg. 14ZD(8) inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Registered Pension Schemes (Provision of Information) (Amendment No. 2) Regulations 2015 (S.I. 2015/1455)](https://www.legislation.gov.uk/uksi/2015/1455), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1455/regulation/1/1)[(2)](https://www.legislation.gov.uk/uksi/2015/1455/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2015/1455/regulation/9)
+
+[^key-45317b4715b9f20a7efec567ea7b13aa]: Textual amendment: Words in reg. 14ZE heading inserted (with effect in accordance with reg. 1(4) of the amending S.I.) by [The Registered Pension Schemes (Provision of Information) (Amendment) Regulations 2015 (S.I. 2015/606)](https://www.legislation.gov.uk/uksi/2015/606), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/606/regulation/1/1), [9(a)](https://www.legislation.gov.uk/uksi/2015/606/regulation/9/a)
+
+[^key-bf14b8081da3be3183e4ebc1d9483047]: Textual amendment: Word in reg. 14ZE(1)(a) omitted (with effect in accordance with reg. 1(4) of the amending S.I.) by virtue of [The Registered Pension Schemes (Provision of Information) (Amendment) Regulations 2015 (S.I. 2015/606)](https://www.legislation.gov.uk/uksi/2015/606), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/606/regulation/1/1), [9(b)](https://www.legislation.gov.uk/uksi/2015/606/regulation/9/b)
+
+[^key-b01f8ed7554688618dc983bc2865c613]: Textual amendment: Reg. 14ZE(1)(b) inserted (with effect in accordance with reg. 1(4) of the amending S.I.) by [The Registered Pension Schemes (Provision of Information) (Amendment) Regulations 2015 (S.I. 2015/606)](https://www.legislation.gov.uk/uksi/2015/606), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/606/regulation/1/1), [9(b)](https://www.legislation.gov.uk/uksi/2015/606/regulation/9/b)
+
+[^key-112b76f19c055fb3a543f799e4988a05]: Textual amendment: Reg. 14ZE(1)(b) renumbered as reg. 14ZE(1)(c) (with effect in accordance with reg. 1(4) of the amending S.I.) by [The Registered Pension Schemes (Provision of Information) (Amendment) Regulations 2015 (S.I. 2015/606)](https://www.legislation.gov.uk/uksi/2015/606), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/606/regulation/1/1), [9(c)](https://www.legislation.gov.uk/uksi/2015/606/regulation/9/c)
+
+[^key-2feb0a82b9ff2c8ee5cbe744cb02d9bd]: Textual amendment: Words in reg. 14ZE(1)(c) substituted (with effect in accordance with reg. 1(4) of the amending S.I.) by [The Registered Pension Schemes (Provision of Information) (Amendment) Regulations 2015 (S.I. 2015/606)](https://www.legislation.gov.uk/uksi/2015/606), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/606/regulation/1/1), [9(c)](https://www.legislation.gov.uk/uksi/2015/606/regulation/9/c)
+
+[^key-11a2e814c3129610107861e32c7a0f3d]: Textual amendment: Words in reg. 14ZE(2)(a) substituted (with effect in accordance with reg. 1(4) of the amending S.I.) by [The Registered Pension Schemes (Provision of Information) (Amendment) Regulations 2015 (S.I. 2015/606)](https://www.legislation.gov.uk/uksi/2015/606), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/606/regulation/1/1), [9(d)](https://www.legislation.gov.uk/uksi/2015/606/regulation/9/d)
+
+[^key-e3dca6eed6e6bd555a9f7a1b4b49e7e0]: Textual amendment: Words in reg. 14ZE(3)(b) substituted (with effect in accordance with reg. 1(4) of the amending S.I.) by [The Registered Pension Schemes (Provision of Information) (Amendment) Regulations 2015 (S.I. 2015/606)](https://www.legislation.gov.uk/uksi/2015/606), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/606/regulation/1/1), [9(e)](https://www.legislation.gov.uk/uksi/2015/606/regulation/9/e)
+
+[^key-2cddcaf9e779a4f365b4f33e91d124ac]: Textual amendment: Words in reg. 14ZE(4)(b) substituted (with effect in accordance with reg. 1(4) of the amending S.I.) by [The Registered Pension Schemes (Provision of Information) (Amendment) Regulations 2015 (S.I. 2015/606)](https://www.legislation.gov.uk/uksi/2015/606), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/606/regulation/1/1), [9(f)](https://www.legislation.gov.uk/uksi/2015/606/regulation/9/f)
+
+[^key-ae1dba6e032db2a653d2b32ba724d230]: Textual amendment: Words in reg. 14ZE(6) inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Registered Pension Schemes (Provision of Information) (Amendment No. 2) Regulations 2015 (S.I. 2015/1455)](https://www.legislation.gov.uk/uksi/2015/1455), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1455/regulation/1/1)[(2)](https://www.legislation.gov.uk/uksi/2015/1455/regulation/1/2), [10](https://www.legislation.gov.uk/uksi/2015/1455/regulation/10)
+
+[^M_C_f1633af9-f1e8-4cb0-9d05-c0e2b5f92a49]: Modification: Reg. 14A modified (13.2.2025 with effect in relation to the tax year 2024-25 and subsequent tax years) by [The MPs’, Senedd and Assembly Pension Schemes (Tax) Regulations 2025 (S.I. 2025/52)](https://www.legislation.gov.uk/uksi/2025/52), [regs. 1(2)(3)](https://www.legislation.gov.uk/uksi/2025/52/regulation/1/2), [24](https://www.legislation.gov.uk/uksi/2025/52/regulation/24)
+
+[^key-2235553e96b20dff7fec5d66421a6928]: Modification: Reg. 14A modified (6.4.2023) by [The Public Service Pension Schemes (Rectification of Unlawful Discrimination) (Tax) Regulations 2023 (S.I. 2023/113)](https://www.legislation.gov.uk/uksi/2023/113), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/113/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2023/113/regulation/6) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2023/113/regulation/1/3))
+
+[^key-511d992a1ce33b18f23bc97b41281f51]: Textual amendment: Regs. 14A, 14B inserted (11.8.2011) by [The Registered Pension Schemes (Provision of Information) (Amendment) (No.2) Regulations 2011 (S.I. 2011/1797)](https://www.legislation.gov.uk/uksi/2011/1797), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/1797/regulation/1/1), [8](https://www.legislation.gov.uk/uksi/2011/1797/regulation/8)
+
+[^key-72ed37c69085a2a1fd3da9af431b09e1]: Textual amendment: Words in [reg. 14A(1)(b)](https://www.legislation.gov.uk/uksi/2006/567/regulation/14A/1/b) inserted (6.4.2015) by [Taxation of Pensions Act 2014 (c. 30)](https://www.legislation.gov.uk/ukpga/2014/30), [Sch. 1 paras. 88(2)(a)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/paragraph/88/2/a), [91(a)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/paragraph/91/a) (with [Sch. 1 para. 91(b)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/paragraph/91/b))
+
+[^key-db6dbc2dac7bbe7eda5111c1a7e26d6c]: Textual amendment: Reg. 14A(1)(b)(ii) and word inserted (6.4.2015) by [Taxation of Pensions Act 2014 (c. 30)](https://www.legislation.gov.uk/ukpga/2014/30), [Sch. 1 paras. 88(2)(b)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/paragraph/88/2/b), [91(a)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/paragraph/91/a) (with [Sch. 1 para. 91(b)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/paragraph/91/b))
+
+[^key-c64ef9f6d0a506f7f7217314247b5cac]: Textual amendment: Words in reg. 14A(1) inserted (6.4.2015) by [Taxation of Pensions Act 2014 (c. 30)](https://www.legislation.gov.uk/ukpga/2014/30), [Sch. 1 paras. 88(2)(c)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/paragraph/88/2/c), [91(a)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/paragraph/91/a) (with [Sch. 1 para. 91(b)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/paragraph/91/b))
+
+[^key-aaad07c7702eb4149dd97031324320ab]: Textual amendment: Reg. 14A(1A) inserted (6.4.2016) by [The Registered Pension Schemes (Provision of Information) (Amendment) Regulations 2016 (S.I. 2016/308)](https://www.legislation.gov.uk/uksi/2016/308), [regs. 1](https://www.legislation.gov.uk/uksi/2016/308/regulation/1), [2](https://www.legislation.gov.uk/uksi/2016/308/regulation/2)
+
+[^key-8e5b88f9a76b234c256b4a4a10c81874]: Textual amendment: Words in reg. 14A(1A)(d) substituted (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Registered Pension Schemes (Provision of Information) (Amendment) Regulations 2017 (S.I. 2017/11)](https://www.legislation.gov.uk/uksi/2017/11), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/11/regulation/1/1), [4(a)](https://www.legislation.gov.uk/uksi/2017/11/regulation/4/a)
+
+[^key-9227490a79ffbb89bfbd87d7b04827f0]: Textual amendment: Word in reg. 14A(1A)(d) inserted (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Registered Pension Schemes (Provision of Information) (Amendment) Regulations 2017 (S.I. 2017/11)](https://www.legislation.gov.uk/uksi/2017/11), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/11/regulation/1/1), [4(b)](https://www.legislation.gov.uk/uksi/2017/11/regulation/4/b)
+
+[^key-217dd6af8f7efaaf44db8c79e3f5e66f]: Textual amendment: Reg. 14A(1)(f) and word omitted (with effect in accordance with reg. 1(3) of the amending S.I.) by virtue of [The Registered Pension Schemes (Provision of Information) (Amendment) Regulations 2017 (S.I. 2017/11)](https://www.legislation.gov.uk/uksi/2017/11), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/11/regulation/1/1), [4(c)](https://www.legislation.gov.uk/uksi/2017/11/regulation/4/c)
+
+[^key-7fc2cdaff6a253b93629f66f2017f959]: Textual amendment: Words in reg. 14A(4) substituted (6.4.2022) by [The Registered Pension Schemes (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/392)](https://www.legislation.gov.uk/uksi/2022/392), [regs. 1](https://www.legislation.gov.uk/uksi/2022/392/regulation/1), [4(a)](https://www.legislation.gov.uk/uksi/2022/392/regulation/4/a)
+
+[^key-0ed5180878b8e4def47fd126d1443140]: Textual amendment: Reg. 14A(6A)-(6E) inserted (6.4.2022) by [The Registered Pension Schemes (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/392)](https://www.legislation.gov.uk/uksi/2022/392), [regs. 1](https://www.legislation.gov.uk/uksi/2022/392/regulation/1), [4(b)](https://www.legislation.gov.uk/uksi/2022/392/regulation/4/b)
+
+[^key-e372d4ded4b44ca0a2c51ae53290126f]: Textual amendment: Words in reg. 14A(8) substituted (6.4.2015) by [Taxation of Pensions Act 2014 (c. 30)](https://www.legislation.gov.uk/ukpga/2014/30), [Sch. 1 paras. 88(3)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/paragraph/88/3), [91(a)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/paragraph/91/a) (with [Sch. 1 para. 91(b)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/paragraph/91/b))
+
+[^key-6cb3c4f4331da3d9e8fc08077604c347]: Textual amendment: Reg. 14A(9)-(12) inserted (6.4.2015) by [Taxation of Pensions Act 2014 (c. 30)](https://www.legislation.gov.uk/ukpga/2014/30), [Sch. 1 paras. 88(4)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/paragraph/88/4), [91(a)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/paragraph/91/a) (with [Sch. 1 para. 91(b)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/paragraph/91/b))
+
+[^key-8695a2ec033a0f65f3a49a39cdc21023]: Textual amendment: Sum in reg. 14A(9) substituted (18.11.2024 for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [24(6)(a)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/24/6/a)
+
+[^key-6e5b34c5934f68d9ba8e4b113f241c8a]: Textual amendment: Sum in reg. 14A(10)(d) substituted (18.11.2024 for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [24(6)(b)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/24/6/b)
+
+[^key-590fc8364201326570130e60bb2fc56a]: Textual amendment: Reg. 14A(10)(e) substituted (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Registered Pension Schemes and Overseas Pension Schemes (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/5)](https://www.legislation.gov.uk/uksi/2018/5), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/5/regulation/1/1), [5(c)](https://www.legislation.gov.uk/uksi/2018/5/regulation/5/c)
+
+[^key-ba2a38a4374ff2e87ae7ec116b5cf4c3]: Textual amendment: Words in reg. 14A(12) inserted (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Registered Pension Schemes (Provision of Information) (Amendment) Regulations 2017 (S.I. 2017/11)](https://www.legislation.gov.uk/uksi/2017/11), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/11/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2017/11/regulation/5)
+
+[^key-246f256b220d2efbfc5ab02cc0936c28]: Modification: Reg. 14B modified (6.4.2023) by [The Public Service Pension Schemes (Rectification of Unlawful Discrimination) (Tax) Regulations 2023 (S.I. 2023/113)](https://www.legislation.gov.uk/uksi/2023/113), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/113/regulation/1/2), [7](https://www.legislation.gov.uk/uksi/2023/113/regulation/7) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2023/113/regulation/1/3)) (as amended (14.9.2023) by [S.I. 2023/912](https://www.legislation.gov.uk/uksi/2023/912), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/912/regulation/1/2), [22](https://www.legislation.gov.uk/uksi/2023/912/regulation/22) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2023/912/regulation/1/3)))
+
+[^key-5e4734106deae9bd33e7033256f401ed]: Textual amendment: Words in reg. 14B(1) substituted (6.4.2015) by [Taxation of Pensions Act 2014 (c. 30)](https://www.legislation.gov.uk/ukpga/2014/30), [Sch. 1 paras. 89](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/paragraph/89), [91(a)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/paragraph/91/a) (with [Sch. 1 para. 91(b)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/paragraph/91/b))
+
+[^key-222876bff97a1114278357756d49dcab]: Textual amendment: Reg. 14C inserted (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 4 para. 26](https://www.legislation.gov.uk/ukpga/2016/24/schedule/4/paragraph/26)
+
+[^key-6eb90cfed0f764573f57c85ee02a74f3]: Modification: Reg. 14C(1)(c) excluded (6.4.2023) by [The Public Service Pension Schemes (Rectification of Unlawful Discrimination) (Tax) Regulations 2023 (S.I. 2023/113)](https://www.legislation.gov.uk/uksi/2023/113), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/113/regulation/1/2), [39](https://www.legislation.gov.uk/uksi/2023/113/regulation/39) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2023/113/regulation/1/3))
+
+[^key-1d2d4f96c6581f00762578f04804cec9]: Modification: [Reg. 14C(1)(c)](https://www.legislation.gov.uk/uksi/2006/567/regulation/14C/1/c) modified (24.4.2025 for the tax year 2024-25 and subsequent tax years) by S.I. 2023/113, reg. 39 (as substituted by [The Public Service Pension Schemes (Rectification of Unlawful Discrimination) (Tax) Regulations 2025 (S.I. 2025/419)](https://www.legislation.gov.uk/uksi/2025/419), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/419/regulation/1/2)[(6)](https://www.legislation.gov.uk/uksi/2025/419/regulation/1/6), [20(8)](https://www.legislation.gov.uk/uksi/2025/419/regulation/20/8))
+
+[^key-1230a6e3c287a2813198c8b707d56711]: Textual amendment: Reg. 14D inserted (6.4.2022) by [The Registered Pension Schemes (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/392)](https://www.legislation.gov.uk/uksi/2022/392), [regs. 1](https://www.legislation.gov.uk/uksi/2022/392/regulation/1), [5](https://www.legislation.gov.uk/uksi/2022/392/regulation/5)
+
+[^key-5db330ee5cdd5659ab85ea239faff947]: Commencement: Reg. 15 in force at 6.4.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/567/regulation/1)
+
+[^key-4132251b480ebe1284ae69edc7a840ee]: Textual amendment: Words in reg. 15(2) substituted (for the tax year 2024-25 and subsequent tax years) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 9 paras. 119(2)(a)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/119/2/a), [124](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/124) (with [Sch. 9 paras. 125-132A](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/125)) (as amended by [S.I. 2024/356](https://www.legislation.gov.uk/uksi/2024/356), [regs. 1](https://www.legislation.gov.uk/uksi/2024/356/regulation/1), [4](https://www.legislation.gov.uk/uksi/2024/356/regulation/4))
+
+[^key-01cd4052f2f1d9dec9cc7c9e391dd22b]: Textual amendment: Words in reg. 15(2) substituted (18.11.2024 for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [24(7)(a)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/24/7/a)
+
+[^key-58f6262eb3615e0fa1b62cb0f962fe56]: Textual amendment: Words in reg. 15(2)(a) substituted (for the tax year 2024-25 and subsequent tax years) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 9 paras. 119(2)(b)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/119/2/b), [124](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/124) (with [Sch. 9 paras. 125-132A](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/125)) (as amended by [S.I. 2024/356](https://www.legislation.gov.uk/uksi/2024/356), [regs. 1](https://www.legislation.gov.uk/uksi/2024/356/regulation/1), [4](https://www.legislation.gov.uk/uksi/2024/356/regulation/4))
+
+[^key-9aad33bbf5ec32cbd670125d63cb714b]: Textual amendment: Words in reg. 15(2)(b) substituted (for the tax year 2024-25 and subsequent tax years) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 9 paras. 119(2)(c)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/119/2/c), [124](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/124) (with [Sch. 9 paras. 125-132A](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/125)) (as amended by [S.I. 2024/356](https://www.legislation.gov.uk/uksi/2024/356), [regs. 1](https://www.legislation.gov.uk/uksi/2024/356/regulation/1), [4](https://www.legislation.gov.uk/uksi/2024/356/regulation/4))
+
+[^key-a1e7c4b174f6cbf0c37b563fadb227aa]: Textual amendment: Reg. 15(3) inserted (18.11.2024 for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [24(7)(b)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/24/7/b)
+
+[^key-df82ac6498514743781aea9b81fbe3ed]: Textual amendment: Reg. 15ZA inserted (with effect in accordance with reg. 1(5) of the amending S.I.) by [The Registered Pension Schemes (Provision of Information) (Amendment) Regulations 2015 (S.I. 2015/606)](https://www.legislation.gov.uk/uksi/2015/606), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/606/regulation/1/1), [10](https://www.legislation.gov.uk/uksi/2015/606/regulation/10)
+
+[^key-20ef0e2762518648080f606b62d58132]: Textual amendment: Reg. 15A inserted (11.8.2011) by [The Registered Pension Schemes (Provision of Information) (Amendment) (No.2) Regulations 2011 (S.I. 2011/1797)](https://www.legislation.gov.uk/uksi/2011/1797), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/1797/regulation/1/1), [9](https://www.legislation.gov.uk/uksi/2011/1797/regulation/9)
+
+[^key-ac02b72155628ffeb9b2891ccd92aaa7]: Textual amendment: Reg. 15B inserted (6.4.2022) by [The Registered Pension Schemes (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/392)](https://www.legislation.gov.uk/uksi/2022/392), [regs. 1](https://www.legislation.gov.uk/uksi/2022/392/regulation/1), [6](https://www.legislation.gov.uk/uksi/2022/392/regulation/6)
+
+[^key-c9e40f062e5d79311c01992d1271101a]: Commencement: Reg. 16 in force at 6.4.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/567/regulation/1)
+
+[^key-983be3c6220a709702f2086c178ccd3f]: Textual amendment: Words in reg. 16(1) substituted (11.8.2011) by [The Registered Pension Schemes (Provision of Information) (Amendment) (No.2) Regulations 2011 (S.I. 2011/1797)](https://www.legislation.gov.uk/uksi/2011/1797), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/1797/regulation/1/1), [10(a)](https://www.legislation.gov.uk/uksi/2011/1797/regulation/10/a)
+
+[^key-861f3a1012b522587692d1894d6ffdf3]: Textual amendment: Words in reg. 16(1) inserted (6.4.2015) by [Taxation of Pensions Act 2014 (c. 30)](https://www.legislation.gov.uk/ukpga/2014/30), [Sch. 1 para. 35(4)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/paragraph/35/4)[(12)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/paragraph/35/12) (with [Sch. 1 para. 35(7)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/paragraph/35/7)[(11)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/paragraph/35/11))
+
+[^key-2e8a4849b778a06e8eb8c091baab92f1]: Textual amendment: Words in reg. 16(2) substituted (for the tax year 2024-25 and subsequent tax years) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 9 paras. 120(2)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/120/2), [124](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/124) (with [Sch. 9 paras. 125-132A](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/125)) (as amended by [S.I. 2024/356](https://www.legislation.gov.uk/uksi/2024/356), [regs. 1](https://www.legislation.gov.uk/uksi/2024/356/regulation/1), [4](https://www.legislation.gov.uk/uksi/2024/356/regulation/4))
+
+[^key-10d6e19bea123c09c941b7e7c81dbc2c]: Textual amendment: Words in reg. 16(2) substituted (for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) Regulations 2024 (S.I. 2024/356)](https://www.legislation.gov.uk/uksi/2024/356), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/356/regulation/1/3), [9(8)(a)](https://www.legislation.gov.uk/uksi/2024/356/regulation/9/8/a)
+
+[^key-d27e421f977d1472a89511602b748d4d]: Textual amendment: Words in reg. 16(3) substituted (for the tax year 2024-25 and subsequent tax years) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 9 paras. 120(3)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/120/3), [124](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/124) (with [Sch. 9 paras. 125-132A](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/125)) (as amended by [S.I. 2024/356](https://www.legislation.gov.uk/uksi/2024/356), [regs. 1](https://www.legislation.gov.uk/uksi/2024/356/regulation/1), [4](https://www.legislation.gov.uk/uksi/2024/356/regulation/4))
+
+[^key-3a56411ae57645b944c29ef14499a751]: Textual amendment: Words in reg. 16(3) substituted (for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) Regulations 2024 (S.I. 2024/356)](https://www.legislation.gov.uk/uksi/2024/356), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/356/regulation/1/3), [9(8)(a)](https://www.legislation.gov.uk/uksi/2024/356/regulation/9/8/a)
+
+[^key-0f0bfd25a7e92f196ec3c8391c000d8a]: Textual amendment: Reg. 16(4) inserted (11.8.2011) by [The Registered Pension Schemes (Provision of Information) (Amendment) (No.2) Regulations 2011 (S.I. 2011/1797)](https://www.legislation.gov.uk/uksi/2011/1797), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/1797/regulation/1/1), [10(b)](https://www.legislation.gov.uk/uksi/2011/1797/regulation/10/b)
+
+[^key-1a71107f2a04d5ea16959c89eff1ff63]: Textual amendment: Words in reg. 16(4)(a) substituted (for the tax year 2024-25 and subsequent tax years) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 9 paras. 120(4)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/120/4), [124](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/124) (with [Sch. 9 paras. 125-132A](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/125)) (as amended by [S.I. 2024/356](https://www.legislation.gov.uk/uksi/2024/356), [regs. 1](https://www.legislation.gov.uk/uksi/2024/356/regulation/1), [4](https://www.legislation.gov.uk/uksi/2024/356/regulation/4))
+
+[^key-20f01b7757518a57a35b09415076db66]: Textual amendment: Reg. 16(4)(b) omitted (for the tax year 2024-25 and subsequent tax years) by virtue of [The Pensions (Abolition of Lifetime Allowance Charge etc) Regulations 2024 (S.I. 2024/356)](https://www.legislation.gov.uk/uksi/2024/356), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/356/regulation/1/3), [9(8)(b)](https://www.legislation.gov.uk/uksi/2024/356/regulation/9/8/b)
+
+[^key-b37521879b36abd5a0c3303740e4be1f]: Commencement: Reg. 17 in force at 6.4.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/567/regulation/1)
+
+[^key-4627477d9453da1d1ca5cc1f80be68c6]: Textual amendment: Words in s. 17 heading substituted (11.8.2011) by [The Registered Pension Schemes (Provision of Information) (Amendment) (No.2) Regulations 2011 (S.I. 2011/1797)](https://www.legislation.gov.uk/uksi/2011/1797), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/1797/regulation/1/1), [11](https://www.legislation.gov.uk/uksi/2011/1797/regulation/11)
+
+[^key-336c4ee30a7630db0f1c291195d08e56]: Textual amendment: Words in reg. 17(1) substituted (11.8.2011) by [The Registered Pension Schemes (Provision of Information) (Amendment) (No.2) Regulations 2011 (S.I. 2011/1797)](https://www.legislation.gov.uk/uksi/2011/1797), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/1797/regulation/1/1), [12(a)](https://www.legislation.gov.uk/uksi/2011/1797/regulation/12/a)
+
+[^key-e3fdeb608c823a22c1deeecc347f39fa]: Textual amendment: Words in reg. 17(1) inserted (6.4.2015) by [Taxation of Pensions Act 2014 (c. 30)](https://www.legislation.gov.uk/ukpga/2014/30), [Sch. 1 para. 35(5)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/paragraph/35/5)[(12)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/paragraph/35/12) (with [Sch. 1 para. 35(7)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/paragraph/35/7)[(11)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/paragraph/35/11))
+
+[^key-307e88c2685e38db940a97385384f4f6]: Textual amendment: Words in reg. 17(2) substituted (11.8.2011) by [The Registered Pension Schemes (Provision of Information) (Amendment) (No.2) Regulations 2011 (S.I. 2011/1797)](https://www.legislation.gov.uk/uksi/2011/1797), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/1797/regulation/1/1), [12(b)](https://www.legislation.gov.uk/uksi/2011/1797/regulation/12/b)
+
+[^key-fe8364151fac51c718916a001b987256]: Textual amendment: Words in reg. 17(2) inserted (6.4.2015) by [Taxation of Pensions Act 2014 (c. 30)](https://www.legislation.gov.uk/ukpga/2014/30), [Sch. 1 para. 35(6)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/paragraph/35/6)[(12)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/paragraph/35/12) (with [Sch. 1 para. 35(7)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/paragraph/35/7)[(11)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/paragraph/35/11))
+
+[^key-3a2abae537090fc8ae71b44f2b8ffc8c]: Textual amendment: Words in reg. 17(2) substituted (for the tax year 2024-25 and subsequent tax years) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 9 paras. 121(2)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/121/2), [124](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/124) (with [Sch. 9 paras. 125-132A](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/125)) (as amended by [S.I. 2024/356](https://www.legislation.gov.uk/uksi/2024/356), [regs. 1](https://www.legislation.gov.uk/uksi/2024/356/regulation/1), [4](https://www.legislation.gov.uk/uksi/2024/356/regulation/4))
+
+[^key-91638d2d11e0b3bc3b0a15f7ecc1aa4a]: Textual amendment: Words in reg. 17(3) substituted (for the tax year 2024-25 and subsequent tax years) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 9 paras. 121(3)(a)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/121/3/a), [124](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/124) (with [Sch. 9 paras. 125-132A](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/125)) (as amended by [S.I. 2024/356](https://www.legislation.gov.uk/uksi/2024/356), [regs. 1](https://www.legislation.gov.uk/uksi/2024/356/regulation/1), [4](https://www.legislation.gov.uk/uksi/2024/356/regulation/4))
+
+[^key-1fc5fe96832552ef8112baddecc022ed]: Textual amendment: Words in reg. 17(3) substituted (for the tax year 2024-25 and subsequent tax years) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 9 paras. 121(3)(b)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/121/3/b), [124](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/124) (with [Sch. 9 paras. 125-132A](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/125)) (as amended by [S.I. 2024/356](https://www.legislation.gov.uk/uksi/2024/356), [regs. 1](https://www.legislation.gov.uk/uksi/2024/356/regulation/1), [4](https://www.legislation.gov.uk/uksi/2024/356/regulation/4))
+
+[^key-bbb986af952f994d328da5f298e947d5]: Textual amendment: Words in reg. 17(4) substituted (11.8.2011) by [The Registered Pension Schemes (Provision of Information) (Amendment) (No.2) Regulations 2011 (S.I. 2011/1797)](https://www.legislation.gov.uk/uksi/2011/1797), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/1797/regulation/1/1), [12(b)](https://www.legislation.gov.uk/uksi/2011/1797/regulation/12/b)
+
+[^key-4360cb70de889f20a4057b629099e5ab]: Textual amendment: Words in reg. 17(4) inserted (6.4.2015) by [Taxation of Pensions Act 2014 (c. 30)](https://www.legislation.gov.uk/ukpga/2014/30), [Sch. 1 para. 35(6)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/paragraph/35/6)[(12)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/paragraph/35/12) (with [Sch. 1 para. 35(7)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/paragraph/35/7)[(11)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/paragraph/35/11))
+
+[^key-f975a8380ccb602a95c80253d0e7ad68]: Textual amendment: Words in reg. 17(5)(a) substituted (for the tax year 2024-25 and subsequent tax years) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 9 paras. 121(4)(a)(i)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/121/4/a/i), [124](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/124) (with [Sch. 9 paras. 125-132A](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/125)) (as amended by [S.I. 2024/356](https://www.legislation.gov.uk/uksi/2024/356), [regs. 1](https://www.legislation.gov.uk/uksi/2024/356/regulation/1), [4](https://www.legislation.gov.uk/uksi/2024/356/regulation/4))
+
+[^key-da21790f2a69fcfd7748f5b49998a4e0]: Textual amendment: Words in reg. 17(5)(a)(i) substituted (for the tax year 2024-25 and subsequent tax years) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 9 paras. 121(4)(a)(ii)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/121/4/a/ii), [124](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/124) (with [Sch. 9 paras. 125-132A](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/125)) (as amended by [S.I. 2024/356](https://www.legislation.gov.uk/uksi/2024/356), [regs. 1](https://www.legislation.gov.uk/uksi/2024/356/regulation/1), [4](https://www.legislation.gov.uk/uksi/2024/356/regulation/4))
+
+[^key-1aa72c08d84e9879138396d2cf57e6c1]: Textual amendment: Words in reg. 17(5)(a)(ii) substituted (for the tax year 2024-25 and subsequent tax years) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 9 paras. 121(4)(a)(iii)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/121/4/a/iii), [124](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/124) (with [Sch. 9 paras. 125-132A](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/125)) (as amended by [S.I. 2024/356](https://www.legislation.gov.uk/uksi/2024/356), [regs. 1](https://www.legislation.gov.uk/uksi/2024/356/regulation/1), [4](https://www.legislation.gov.uk/uksi/2024/356/regulation/4))
+
+[^key-876b929b4f32fc5e9e8b3a670afc74b6]: Textual amendment: Words in reg. 17(5)(b) substituted (for the tax year 2024-25 and subsequent tax years) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 9 paras. 121(4)(b)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/121/4/b), [124](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/124) (with [Sch. 9 paras. 125-132A](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/125)) (as amended by [S.I. 2024/356](https://www.legislation.gov.uk/uksi/2024/356), [regs. 1](https://www.legislation.gov.uk/uksi/2024/356/regulation/1), [4](https://www.legislation.gov.uk/uksi/2024/356/regulation/4))
+
+[^key-4b0c94b03a224295790a4cbb87ea958e]: Textual amendment: Words in reg. 17(5)(b) substituted (for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) Regulations 2024 (S.I. 2024/356)](https://www.legislation.gov.uk/uksi/2024/356), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/356/regulation/1/3), [9(9)(a)](https://www.legislation.gov.uk/uksi/2024/356/regulation/9/9/a)
+
+[^key-3b2f3f31dbf19a16993f5305ca0cf339]: Textual amendment: Words in reg. 17(7)(a) substituted (for the tax year 2024-25 and subsequent tax years) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 9 paras. 121(5)(a)(i)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/121/5/a/i), [124](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/124) (with [Sch. 9 paras. 125-132A](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/125)) (as amended by [S.I. 2024/356](https://www.legislation.gov.uk/uksi/2024/356), [regs. 1](https://www.legislation.gov.uk/uksi/2024/356/regulation/1), [4](https://www.legislation.gov.uk/uksi/2024/356/regulation/4))
+
+[^key-de013bccb0156a396202d07bba901847]: Textual amendment: Words in reg. 17(7)(a)(i) substituted (for the tax year 2024-25 and subsequent tax years) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 9 paras. 121(5)(a)(ii)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/121/5/a/ii), [124](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/124) (with [Sch. 9 paras. 125-132A](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/125)) (as amended by [S.I. 2024/356](https://www.legislation.gov.uk/uksi/2024/356), [regs. 1](https://www.legislation.gov.uk/uksi/2024/356/regulation/1), [4](https://www.legislation.gov.uk/uksi/2024/356/regulation/4))
+
+[^key-f4e2569098824d213b02397fab10b738]: Textual amendment: Words in reg. 17(7)(a)(ii) substituted (for the tax year 2024-25 and subsequent tax years) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 9 paras. 121(5)(a)(iii)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/121/5/a/iii), [124](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/124) (with [Sch. 9 paras. 125-132A](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/125)) (as amended by [S.I. 2024/356](https://www.legislation.gov.uk/uksi/2024/356), [regs. 1](https://www.legislation.gov.uk/uksi/2024/356/regulation/1), [4](https://www.legislation.gov.uk/uksi/2024/356/regulation/4))
+
+[^key-9d5f1188ab4962c1d9e5cfdebc948b72]: Textual amendment: Words in reg. 17(7)(b) substituted (for the tax year 2024-25 and subsequent tax years) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 9 paras. 121(5)(b)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/121/5/b), [124](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/124) (with [Sch. 9 paras. 125-132A](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/125)) (as amended by [S.I. 2024/356](https://www.legislation.gov.uk/uksi/2024/356), [regs. 1](https://www.legislation.gov.uk/uksi/2024/356/regulation/1), [4](https://www.legislation.gov.uk/uksi/2024/356/regulation/4))
+
+[^key-e0d76af34eace280b3be70d7abf6cade]: Textual amendment: Reg. 17(8) omitted (for the tax year 2024-25 and subsequent tax years) by virtue of [The Pensions (Abolition of Lifetime Allowance Charge etc) Regulations 2024 (S.I. 2024/356)](https://www.legislation.gov.uk/uksi/2024/356), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/356/regulation/1/3), [9(9)(b)](https://www.legislation.gov.uk/uksi/2024/356/regulation/9/9/b)
+
+[^key-8f795f72ddaf597f82322176e979ca73]: Textual amendment: Reg. 17A inserted (6.4.2008) by [The Registered Pension Schemes (Provision of Information) (Amendment) Regulations 2008 (S.I. 2008/720)](https://www.legislation.gov.uk/uksi/2008/720), [regs. 1](https://www.legislation.gov.uk/uksi/2008/720/regulation/1), [7](https://www.legislation.gov.uk/uksi/2008/720/regulation/7)
+
+[^key-62eccb8e1cb826b22be74e965963579a]: Textual amendment: Regs. 17B, 17C inserted (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Registered Pension Schemes (Provision of Information) (Amendment No. 2) Regulations 2015 (S.I. 2015/1455)](https://www.legislation.gov.uk/uksi/2015/1455), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1455/regulation/1/1)[(3)](https://www.legislation.gov.uk/uksi/2015/1455/regulation/1/3), [11](https://www.legislation.gov.uk/uksi/2015/1455/regulation/11)
+
+[^key-91de87f35d6248179b8af83d6bf87253]: Commencement: Reg. 18 in force at 6.4.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/567/regulation/1)
+
+[^f00010]: Footnote: “Sponsoring employer” has the meaning given by section 150(6) of the Finance Act 2004.
+
+[^key-15984ad9e300778c1bbcdaab1026d943]: Textual amendment: Reg. 19 cross-heading omitted (for the tax year 2024-25 and subsequent tax years) by virtue of [The Pensions (Abolition of Lifetime Allowance Charge etc) Regulations 2024 (S.I. 2024/356)](https://www.legislation.gov.uk/uksi/2024/356), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/356/regulation/1/3), [9(10)](https://www.legislation.gov.uk/uksi/2024/356/regulation/9/10)
+
+[^key-403204354dfb37819c2aab282abbf6e3]: Textual amendment: [Reg. 19](https://www.legislation.gov.uk/uksi/2006/567/regulation/19) omitted (for the tax year 2024-25 and subsequent tax years) by virtue of [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 9 paras. 122](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/122), [124](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/124) (with [Sch. 9 paras. 125-132A](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/125)) (as amended by [S.I. 2024/356](https://www.legislation.gov.uk/uksi/2024/356), [regs. 1](https://www.legislation.gov.uk/uksi/2024/356/regulation/1), [4](https://www.legislation.gov.uk/uksi/2024/356/regulation/4))
+
+[^key-8fb1c41787af6eb16fe9dda74227cf4c]: Textual amendment: [Regs. 19](https://www.legislation.gov.uk/uksi/2006/567/regulation/19), [20](https://www.legislation.gov.uk/uksi/2006/567/regulation/20) and cross-headings inserted (retrospective to 19.3.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 5 paras. 11](https://www.legislation.gov.uk/ukpga/2014/26/schedule/5/paragraph/11), [15](https://www.legislation.gov.uk/ukpga/2014/26/schedule/5/paragraph/15)
+
+[^key-560c528965db1a97123971120a4ee589]: Textual amendment: Reg. 20 omitted (for the tax year 2024-25 and subsequent tax years) by virtue of [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 9 paras. 122](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/122), [124](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/124) (with [Sch. 9 paras. 125-132A](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/125)) (as amended by [S.I. 2024/356](https://www.legislation.gov.uk/uksi/2024/356), [regs. 1](https://www.legislation.gov.uk/uksi/2024/356/regulation/1), [4](https://www.legislation.gov.uk/uksi/2024/356/regulation/4))

@@ -1,0 +1,51 @@
+---
+title: Income Tax Act 2007, section 809AZB
+act: Income Tax Act 2007
+section: 809AZB
+status: revised-with-pending-changes
+text_date: '2026-09-16'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2007/3/section/809AZB
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Income Tax Act 2007, section 809AZB
+
+> **Warning: changes not yet applied to this text (14).** Text as at 2026-09-16. See https://www.legislation.gov.uk/changes/affected/ukpga/2007/3
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 809AZB. Value of transferred income stream treated as income[^key-e4ae3b38f4418a7e7eade5988cff1cd3]
+
+*Extent: E+W+S+N.I.*
+
+(1) The relevant amount (see subsection (2)) is to be treated as income of the transferor chargeable to income tax in the same way and to the same extent as that in which the relevant receipts—
+
+- (a) would have been chargeable to income tax, or
+- (b) would have been brought into account in calculating any profits for the purposes of income tax,
+
+but for the transfer of the right to relevant receipts.
+
+(2) The relevant amount is—
+
+- (a) (except where paragraph (b) applies) the amount of the consideration for the transfer of the right, or
+- (b) where the amount of any such consideration is substantially less than the market value of the right at the time when the transfer takes place (or where there is no consideration for the transfer of the right), the market value of the right at that time.
+
+(3) The income under subsection (1) is to be treated as arising in the chargeable period of the transferor in which the transfer takes place.
+
+(4) But subsection (5) applies if (apart from the transfer) any of the relevant receipts—
+
+- (a) would have been brought into account in accordance with Part 2 or 3 of ITTOIA 2005 (trading income and property income) in calculating any profits for the purposes of income tax, and
+- (b) in accordance with generally accepted accounting practice, would have been recognised otherwise than wholly in the chargeable period in which the transfer takes place.
+
+(5) If this subsection applies, the income under subsection (1) is to be treated as arising—
+
+- (a) to the extent that it does not exceed the amount of the consideration for the transfer of the right, in the chargeable period or periods for which, in accordance with generally accepted accounting practice, the consideration for the transfer is recognised for accounting purposes in a profit and loss account or income statement of the transferor, and
+- (b) otherwise, in the chargeable period or periods for which, in accordance with generally accepted accounting practice, the consideration for the transfer would be so recognised if it were of an amount equal to the market value of the right at the time when the transfer takes place.
+
+(6) But if in a case where the transferor is a company it at any time becomes reasonable to assume that the income (to any extent) is not, or would not be, treated by subsection (5) as arising in an accounting period of the transferor, the income is to that extent to be treated as arising immediately before that time.
+
+## Annotations
+
+[^key-e4ae3b38f4418a7e7eade5988cff1cd3]: Textual amendment: Pt. 13 Ch. 5A inserted (with effect in accordance with Sch. 25 para. 10 of the amending Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 25 para. 7](https://www.legislation.gov.uk/ukpga/2009/10/schedule/25/paragraph/7)

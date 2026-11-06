@@ -1,0 +1,96 @@
+---
+title: The Value Added Tax (Sport, Physical Education and Fund-Raising Events) Order 1994
+id: uksi/1994/687
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '1994-03-10'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1994/687
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1994/687/made/data.pdf
+pending_changes: 1
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Value Added Tax (Sport, Physical Education and Fund-Raising Events) Order 1994
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+1994 No. 687
+
+VALUE ADDED TAX
+
+The Value Added Tax (Sport, Physical Education and Fund-Raising Events) Order 1994
+
+Made
+
+10th March 1994
+
+Laid before the House of Commons
+
+10th March 1994
+
+Coming into force
+
+1st April 1994
+
+The Treasury, in exercise of the powers conferred on them by sections 17(2) and 48(6) of the Value Added Tax Act 1983[^f00001]and of all powers enabling them in that behalf, hereby make the following Order:
+
+**1.** This Order may be cited as the Value Added Tax (Sport, Physical Education and Fund-Raising Events) Order 1994 and shall come into force on the 1st April 1994.
+
+**2.** Group 10 (Sports Competitions) of Schedule 6 to the Value Added Tax At 1983 shall be varied—
+
+- (a) by inserting “SPORT,” in the heading before the words “SPORTS COMPETITIONS”, and after the words “SPORTS COMPETITIONS” by adding the words “AND PHYSICAL EDUCATION”;
+- (b) by adding after item 2 the following—
+
+  > **3.** The supply by a non-profit making body to an individual, except, where the body operates a membership scheme, an individual who is not a member, of services closely linked with and essential to sport or physical education in which the individual is taking part.
+
+  ;
+- (c) by substituting for the note to the Group the following—
+
+  > Notes:
+  >
+  > (1) Item 3 does not include the supply of any services by a non-profit making body of residential accommodation, catering or transport.
+  >
+  > (2) An individual shall only be considered to be a member of a non-profit making body for the purpose of Item 3 where he is granted membership for a period of three months or more.
+  >
+  > (3) In Item 3 a “non-profit making body” does not include—
+  >
+  > - (a) a local authority within the meaning of section 20(6) of this Act;
+  > - (b) a Government department within the meaning of section 27(4) of this Act; or
+  > - (c) a non-departmental public body which is listed in the 1993 edition of the publication prepared by the Office of Public Service and Science and known as Public Bodies.
+
+**3.** In Group 12 (Fund-Raising Events by Charities and Other Qualifying Bodies) of Schedule 6 to the Value Added Tax Act 1983, Note (2) shall be varied by substituting the following—
+
+> (2) For the purposes of Item 2 “qualifying body” means any non-profit making body which is—
+>
+> - (a) mentioned in section 47(3) or Item 1 of Group 9 of Schedule 6 tothe Act: or
+> - (b) established for the principal purpose of providing facilities for participating in sport or physical education.
+
+.
+
+Tim Wood
+
+Nicholas Baker
+
+Two of the Lords Commissioners of Her Majesty’s Treasury
+
+10th March 1994
+
+(This note is not part of the Order)
+
+This Order extends Group 10 of Schedule 6 to the Value Added Tax Act 1983 to provide exemption from value added tax for certain services supplied by non-profit making bodies to people taking part in sport or physical education, and implements Article 13A.1(m) and 13A.2(b) of the Sixth Council Directive on the harmonisation of the laws of the member States relating to turnover taxes—common system of value added tax: uniform basis of assessment ([77/388/EEC](https://www.legislation.gov.uk/european/directive/1977/0388))[^f00002](“the Directive”).
+
+The notes exclude from the exemption supplies by public authorities and supplies of residential accommodation, catering and transport. They also restrict exemption by providing for a minimum membership period in relation to supplies by membership bodies.
+
+The Order also amends Group 12 of Schedule 6 to the Value Added Tax Act 1983 by extending the exemption for fund-raising to non-profit making sports bodies. This implements Article 13A.1(o) of the Directive insofar as it affects Article 13A.1(m).
+
+## Annotations
+
+[^f00001]: Footnote: [1983 c. 55](https://www.legislation.gov.uk/ukpga/1983/55).
+
+[^f00002]: Footnote: O.J. No. L145, 17.5.1977, p.9.

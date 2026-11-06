@@ -1,0 +1,479 @@
+---
+title: The Safety of Sports Grounds (Designation) Order 2015
+id: uksi/2015/661
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2015-03-10'
+text_date: '2026-08-06'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/uksi/2015/661
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2015/661/pdfs/uksiem_20150661_en.pdf
+- http://www.legislation.gov.uk/uksi/2015/661/pdfs/uksi_20150661_en.pdf
+- http://www.legislation.gov.uk/uksi/2015/661/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Safety of Sports Grounds (Designation) Order 2015
+
+> Text as at 2026-08-06.
+>
+> Extent: England, Wales, Scotland.
+
+*Extent: E+W+S*
+
+2015 No. 661
+
+Sports Grounds And Sporting Events
+
+The Safety of Sports Grounds (Designation) Order 2015
+
+Made
+
+10th March 2015
+
+Laid before Parliament
+
+12th March 2015
+
+Coming into force
+
+1st October 2015
+
+The Secretary of State makes the following Order in exercise of the powers conferred by sections 1(1) and 18(2) of the Safety of Sports Grounds Act 1975[^f00001].
+
+In accordance with section 18(4) of that Act, he has consulted with such persons or bodies of persons as appear to him to be requisite.
+
+## 1. Title, commencement and interpretation[^key-426cd9facfedfdd5baf163925a67fb8e]
+
+(1) The title of this Order is the Safety of Sports Grounds (Designation) Order 2015, and it comes into force on 1st October 2015.
+
+(2) In this Order, “the Act” means the Safety of Sports Grounds Act 1975.
+
+## 2. Designations[^key-bf2413b075f567b03e8d4ddfe8833218]
+
+(1) The sports grounds specified in Schedule 1 to this Order, being sports grounds which in the opinion of the Secretary of State have accommodation for more than 10,000 spectators, are designated as sports grounds requiring a safety certificate under the Act.
+
+(2) The sports grounds specified in Schedule 2 to this Order, being sports grounds—
+
+- (a) in England and Wales,
+- (b) at which association football matches are played,
+- (c) which are occupied by a club that is a member of the Football League Limited or the Football Association Premier League Limited, and
+- (d) which in the opinion of the Secretary of State have accommodation for more than 5,000 spectators,
+
+are designated as sports grounds requiring a safety certificate under the Act[^f00002].
+
+## 3. Revocations[^key-738ff583aedc65d5538684f288666051]
+
+The Orders listed in Schedule 3 to this Order are revoked.
+
+## 4. Review[^key-624beef173697ec93389481dd7b28882]
+
+(1) The Secretary of State must—
+
+- (a) carry out a review of this Order, and
+- (b) publish a report setting out the conclusions of the review.
+
+(2) The report must, in particular—
+
+- (a) set out the objectives intended to be achieved by this Order,
+- (b) assess the extent to which those objectives are achieved,
+- (c) assess whether those objectives remain appropriate, and
+- (d) if so, assess the extent to which they could be achieved in another way which involves less onerous regulatory provision.
+
+(3) The first report must be published by 30th September 2020.
+
+(4) Subsequent reports must be published at intervals not exceeding 5 years.
+
+Helen Grant
+
+Minister for Sport and Tourism
+
+Department for Culture, Media and Sport
+
+10th March 2015
+
+## SCHEDULE 1 — SPORTS GROUNDS DESIGNATED UNDER ARTICLE 2(1)[^key-a86fba0e6a800b92d762a7295b84feb9]
+
+Article 2(1)
+
+| Sports ground | Occupier(s) of sports ground |
+| --- | --- |
+| [^key-78edb3175e0995dc56fb262109f6af53]... | [^key-78edb3175e0995dc56fb262109f6af53]... |
+| [^key-56a440ff48668dd0e4e8b5d03bb390ba]. . . | [^key-56a440ff48668dd0e4e8b5d03bb390ba]. . . |
+| The Recreation Ground, Spring Gardens, Bath, BA2 4DS[^key-abf87809706fffcaea8cb9f051a8be09] | Bath Rugby Club |
+| Alexander Stadium, Walsall Road, Perry Barr, B42 2LR[^key-f69910f4b7536337d94bebef88c6444f] | Birmingham City Council |
+| Provident Stadium, Rooley Avenue, Bradford, West Yorkshire, BD6 1BS | Bradford Bulls Rugby League Football Club |
+| Gigg Lane, Bury, Lancashire, BL9 9HR[^key-e1927c884585d5e3ef343bfc45807422] | Bury Football Club |
+| [^key-3c20a5fcc302e303472c31f2c76bae96]... | [^key-3c20a5fcc302e303472c31f2c76bae96]... |
+| BT Sport Cardiff Arms Park, Westgate Street, Cardiff, CF10 1JA | Cardiff Blues Rugby Football Club, and Cardiff Rugby Football Club |
+| Brunton Park, Warwick Road, Carlisle, Cumbria, CA1 1LL[^key-221c1d470a8f5e5205591e3f6efe1f0a] | Carlisle United Football Club |
+| Mend-a-Hose Jungle, Wheldon Road, Castleford, WF10 2SD | Castleford Tigers Rugby League Football Club |
+| Cwmbrân Stadium, Henllys Way, Cwmbrân, NP44 3YS | Cwmbrân Town Association Football Club |
+| Northern Echo Arena, Neasham Road, Darlington, DL2 1DL | Darlington Mowden Park Rugby Football Club |
+| Emirates Durham International Cricket Ground, Riverside, Chester-le-Street, Durham, DH3 3QR | Durham County Cricket Club |
+| Lord’s Cricket Ground, St. John’s Wood, London, NW8 8QN | England and Wales Cricket Board, and Middlesex County Cricket Club |
+| Sandy Park Stadium, Sandy Park Way, Exeter, Devon, EX2 7NN | Exeter Rugby Club |
+| Wembley National Stadium, Wembley, London, HA9 0WS | The Football Association |
+| Gateshead International Stadium, Neilson Road, Gateshead, Tyne and Wear, NE10 0EF | Gateshead Football Club |
+| SWALEC Stadium, Sophia Gardens, Cardiff, CF11 9XR | Glamorgan County Cricket Club |
+| Kingsholm Stadium, Kingsholm Road, Kingsholm, Gloucestershire, GL1 3AX | Gloucester Rugby Club |
+| Crystal Palace National Sports Centre, Ledrington Road, London, SE19 2BB | Greenwich Leisure Ltd |
+| [^key-86b84797fbca7b63a0e0e29e344b1c57]. . . | [^key-86b84797fbca7b63a0e0e29e344b1c57]. . . |
+| Shay Syke, Halifax, West Yorkshire, HX1 2YS | F. C. Halifax Town |
+| The ageas Bowl, Botley Road, Southampton, Hampshire, SO30 3XH | Hampshire County Cricket Club |
+| Twickenham Stoop Stadium, Langhorn Drive, Twickenham, Middlesex, TW2 7SX | Harlequins Rugby Football Club |
+| KC Lightstream Stadium, Preston Road, Hull, HU9 5HE | Hull Kingston Rovers Rugby League Football Club |
+| Emirates Old Trafford Cricket, Talbot Road, Manchester, M16 0PX | Lancashire County Cricket Club |
+| Headingley Carnegie Stadium, St. Michael’s Lane, Leeds, West Yorkshire, LS6 3BR | Leeds Rhinos Rugby League Football Club |
+| Welford Road Stadium, Aylestone Road, Leicester, LE2 7TR | Leicester Tigers Rugby Club |
+| Leigh Sports Village Stadium, Sale Way, Leigh, WN7 4JY | Leigh Centurions Rugby League Club |
+| Sincil Bank Stadium, Lincoln, LN5 8LD | Lincoln City Football Club |
+| Parc y Scarlets, Pemberton Retail Park, Trostre Roundabout, Llanelli, Carmarthenshire, SA14 9UZ | Llanelli Rugby Football Club, and Llanelli Scarlets Rugby Club |
+| London Stadium, Stratford, London, E20 2ST[^key-77db79df49d3b9d61b35152643748649] | London Stadium 185 |
+| Kingston Park Stadium, Brunton Road, Kenton Bank Foot, Newcastle upon Tyne, NE13 8AF | Newcastle Falcons Rugby Football Club |
+| [^key-9947e3fae7d393ded9f4e885bc960d1f]. . . | [^key-9947e3fae7d393ded9f4e885bc960d1f]. . . |
+| Franklin’s Gardens, Weedon Road, Northampton, NN5 5BG | Northampton Saints Rugby Football Club |
+| Trent Bridge, Bridgford Road, West Bridgford, Nottingham, NG2 6AG | Nottinghamshire County Cricket Club |
+| [^M_F_83d8216b-31ec-4c47-bffa-061fd2530b85]. . . | [^M_F_83d8216b-31ec-4c47-bffa-061fd2530b85]. . . |
+| Boundary Park, Furtherwood Road, Oldham, OL1 2PA[^key-bbccceddf39c88a03b48322fc366b43d] | Oldham Athletic Association Football Club |
+| [^key-c7ed6c1a4416e0fe32bcb0f4cc618843]... | [^key-c7ed6c1a4416e0fe32bcb0f4cc618843]... |
+| Twickenham Stadium, 200 Whitton Road, Twickenham, TW2 7BA | Rugby Football Union |
+| AJ Bell Stadium, 1 Stadium Way, Barton-upon-Irwell, Salford, M30 7EY | Sale Rugby Union Football Club, and Salford Red Devils Rugby Football League Club |
+| StoneX Stadium, Greenlands Lane, London, NW4 1RL[^key-8e8d431922c5437fda3e7765041eb774] | Saracens Rugby Club |
+| North Marine Road Ground, Scarborough, North Yorkshire, YO12 7TJ | Scarborough Cricket Club |
+| Roots Hall Football Ground, Victoria Avenue, Southend on Sea, Essex SS2 6NQ[^key-7626877d292422c425807577ad32e46f] | Southend United Football Club |
+| Langtree Park, McManus Drive, St Helens, Merseyside, WA9 3AL | St. Helens Rugby Football Club |
+| [^key-f972e962e7907c53550965601b6d61d8]. . . | [^key-f972e962e7907c53550965601b6d61d8]. . . |
+| The Kia Oval, Kennington, London, SE11 5SS | Surrey County Cricket Club |
+| Rapid Solicitors Stadium, Belle Vue, Doncaster Road, Wakefield, WF1 5EY | Wakefield Trinity Wildcats Rugby League Football Club |
+| Edgbaston Stadium, Edgbaston Road, Birmingham, West Midlands, B5 7QU | Warwickshire County Cricket Club |
+| Ricoh Arena, Phoenix Way, Foleshill, Coventry, CV6 6GE[^key-5dda79066e8d795a87520607972d667a] | Wasps Rugby Football Club |
+| The Principality Stadium[^key-77b7b6d55c50f19ddf0281dd29e2dbd4], Westgate Street, Cardiff, CF10 1JL | Welsh Rugby Union |
+| Select Security Stadium Halton, Lowerhouse Lane, Widnes, WA8 7DZ | Widnes Vikings Rugby League Football Club |
+| Sixways Stadium, Pershore Lane, Hindlip, Worcester, WR3 8ZE | Worcester Rugby Football Club |
+| [^key-8fba3c3c0a67baceab5a857cc805d1d6]. . . | [^key-8fba3c3c0a67baceab5a857cc805d1d6]. . . |
+| Headingley Carnegie Stadium, St. Michael’s Lane, Leeds, LS6 3DP | Yorkshire County Cricket Club |
+
+## SCHEDULE 2 — SPORTS GROUNDS DESIGNATED UNDER ARTICLE 2(2)[^key-86284107c1d78bfba25c12f3466ab392]
+
+Article 2(2)
+
+| Sports ground | Occupier of sports ground |
+| --- | --- |
+| Goldsands Stadium, Dean Court, Kings Park, Bournemouth, Dorset, BH7 7AF | A. F. C. Bournemouth |
+| Plough Lane Stadium, Plough Lane, London, SW17 0NR[^key-21e15221ee9ed0eccac8626d1f572a9e] | A. F. C. Wimbledon |
+| [^key-d3813f8c76262f42bb493b1c189d2bd2]. . . | [^key-d3813f8c76262f42bb493b1c189d2bd2]. . . |
+| Store First Stadium, Livingstone Road, Accrington, Lancashire, BB5 5BX | Accrington Stanley Football Club |
+| Emirates Stadium, Drayton Park, London, N5 1BU | Arsenal Football Club |
+| Villa Park, Trinity Road, Birmingham, B6 6HE | Aston Villa Football Club |
+| [^key-5543a5aac01bef3cace92be4ac90dc75]. . . | [^key-5543a5aac01bef3cace92be4ac90dc75]. . . |
+| The Hive, Camrose Avenue, London, HA8 6AG[^key-ea29a860793663d3a649bee58be084a8] | Barnet Football Club |
+| Oakwell Stadium, Grove Street, Barnsley, South Yorkshire, S71 1ET | Barnsley Football Club |
+| [^key-c4190a3d579b29c3049aa6ba65797136]. . . | [^key-c4190a3d579b29c3049aa6ba65797136]. . . |
+| St. Andrew’s Stadium, Cattell Road, Birmingham, B9 4RL | Birmingham City Football Club |
+| Ewood Park, Nuttall Street, Blackburn, Lancashire, BB2 4JF | Blackburn Rovers Football Club |
+| Bloomfield Road, Seasiders Way, Blackpool, Lancashire, FY1 6JJ | Blackpool Football Club |
+| The Macron Stadium, Burnden Way, Bolton, BL6 6JW | Bolton Wanderers Football Club |
+| Coral Windows Stadium, Valley Parade, Bradford, West Yorkshire, BD8 7DY | Bradford City Football Club |
+| [^key-fbae0c8cb04a76935848e2f79a29138b]. . . | [^key-fbae0c8cb04a76935848e2f79a29138b]. . . |
+| Gtech Community Stadium[^key-935ffa93c74ddc3a8ee34fb8b427cc96][^key-7fe080e4f5af54fb90d211cf97e51feb], Lionel Road South, Brentford TW8 0RU | Brentford Football Club and London Irish Rugby Football Club |
+| American Express Community Stadium, Village Way, Brighton, BN1 9BL | Brighton and Hove Albion Football Club |
+| Ashton Gate Stadium, Ashton Road,Bristol, BS3 2EJ | Bristol City Football Club |
+| The Memorial Stadium, Filton Avenue, Horsfield, Bristol, BS7 0AQ | Bristol Rovers Football Club |
+| Hayes Lane Stadium, 89 Hayes Lane, Bromley, BR2 9EF[^key-fe92a1287aac04270303d80ecbc70ec1] | Bromley Football Club |
+| Turf Moor, Harry Potts Way, Burnley, Lancashire, BB10 4BX | Burnley Football Club |
+| Pirelli Stadium, Princess Way, Burton upon Trent, Staffordshire, DE13 0AR | Burton Albion Football Club |
+| [^key-070146e7956c5ff62a1c3724e99b45db]. . . | [^key-070146e7956c5ff62a1c3724e99b45db]. . . |
+| Abbey Stadium, Newmarket Road, Cambridge, CB5 8LN | Cambridge United Football Club |
+| Cardiff City Stadium, Leckwith Road, Cardiff, CF11 8AZ | Cardiff City Football Club |
+| [^M_F_0727fc47-b9bd-4ce6-c961-3d6173d20f89]. . . | [^M_F_0727fc47-b9bd-4ce6-c961-3d6173d20f89]. . . |
+| The Valley, Floyd Road, London, SE7 8BL | Charlton Athletic Football Club |
+| Stamford Bridge, Fulham Road, London, SW6 1HS | Chelsea Football Club |
+| Abbey Business Stadium, Whaddon Road, Cheltenham, Gloucestershire, GL52 5NA | Cheltenham Town Football Club, and Gloucester City Association Football Club |
+| Proact Stadium, 1866 Sheffield Road, Chesterfield, Derbyshire, S41 8NZ | Chesterfield Football Club |
+| Weston Homes Community Stadium, United Way, Colchester, CO4 5UP | Colchester United Football Club |
+| [^key-69b921a307aa177d869b5cceefc45d42]. . . | [^key-69b921a307aa177d869b5cceefc45d42]. . . |
+| Checkatrade.com Stadium, Winfield Way, Crawley, West Sussex, RH11 9RX | Crawley Town Football Club |
+| Alexandra Stadium, Gresty Road, Crewe, Cheshire, CW2 6EB | Crewe Alexandra Football Club |
+| Selhurst Park, Whitehorse Lane, London, SE25 6PU | Crystal Palace Football Club |
+| [^key-85abbb17980882a188e1398838754ae0]. . . | [^key-85abbb17980882a188e1398838754ae0]. . . |
+| iPro Stadium, Pride Park, Derby DE24 8XL | Derby County Football Club |
+| Keepmoat Stadium, Stadium Way, Doncaster, DN4 5JW | Doncaster Rovers Football Club, Doncaster Rovers Belles Ladies Football Club, and Doncaster Rugby League Football Club |
+| Goodison, Goodison Park, Goodison Road, L4 4EL | Everton Football Club |
+| Hill Dickinson Stadium, Bramley Moore Dock, Liverpool, L5 9SR[^key-ca2d5bef9c32fca833fea173ffb923be] | Everton Football Club |
+| St James Park, Exeter, EX4 6PX | Exeter City Football Club |
+| Highbury Stadium, Park Avenue, Fleetwood, Lancashire, FY7 6TX | Fleetwood Town Football Club |
+| [^key-b0d444ca21c68d0f3f86abeeeca2aa29]. . . | [^key-b0d444ca21c68d0f3f86abeeeca2aa29]. . . |
+| Craven Cottage, Stevenage Road, London, SW6 6HH | Fulham Football Club |
+| MEMS Priestfield Stadium, Redfern Avenue, Gillingham, Medway, ME7 4DD | Gillingham Football Club |
+| Blundell Park, Cleethorpes, Lincolnshire, DN35 7PY[^key-7882f9d52d2275de0c96e5a90318e757] | Grimsby Town Football Club |
+| [^key-fc4f52636195e1c78321ef567c4fb8a2]. . . | [^key-fc4f52636195e1c78321ef567c4fb8a2]. . . |
+| [^key-202efb641fc993872bbd0ddd6000b56d]. . . | [^key-202efb641fc993872bbd0ddd6000b56d]. . . |
+| The John Smith’s Stadium, Stadium Way, Huddersfield, West Yorkshire, HD1 6PG | Huddersfield Town Association Football Club, and Huddersfield Giants Rugby League Football Club |
+| KC Stadium, West Park, Hull HU3 6HU | Hull City Association Football Club, and Hull Football Club |
+| Ipswich Town Football Club, Portman Road, Ipswich, Suffolk, IP1 2DA | Ipswich Town Football Club |
+| Elland Road Stadium, Elland Road, Leeds, West Yorkshire, LS11 0ES | Leeds United Football Club |
+| King Power Stadium, Filbert Way, Leicester, LE2 7FL | Leicester City Football Club |
+| Matchroom Stadium, Brisbane Road, Leyton, London, E10 5NF | Leyton Orient Football Club |
+| Anfield, Anfield Road, Liverpool, L4 0TH | Liverpool Football Club |
+| Kenilworth Road Stadium, 1 Maple Road, Luton, LU4 8AW | Luton Town Football Club |
+| [^key-a3b4d1cee64304e491e61d240dea671d]. . . | [^key-a3b4d1cee64304e491e61d240dea671d]. . . |
+| City Football Academy Arena, Etihad Campus, 400 Ashton New Road, Manchester, M11 4TQ | Manchester City Football Club |
+| Etihad Stadium, Etihad Campus, Rowsley Street, Manchester, M11 3FF | Manchester City Football Club |
+| Old Trafford, Sir Matt Busby Way, Old Trafford, Manchester, M16 0RA | Manchester United Football Club |
+| One Call Stadium, Field Mill, Quarry Lane, Mansfield, Nottinghamshire, NG18 5DA | Mansfield Town Football Club |
+| Riverside Stadium, Middlesbrough, Cleveland, TS3 6RS | Middlesbrough Football Club |
+| The Den, Bolina Road, London, SE16 3LN | Millwall Football Club |
+| Stadium MK, Stadium Way West, Milton Keynes, MK1 1ST | Milton Keynes Dons Football Club |
+| [^key-13f2fd5ac89f99ef7efcce8ef1bbdf40]. . . | [^key-13f2fd5ac89f99ef7efcce8ef1bbdf40]. . . |
+| St. James’ Park, Newcastle upon Tyne, NE1 4ST | Newcastle United Football Club |
+| Rodney Parade, Rodney Road, Newport, NP19 0UU | Newport County Association Football Club, Newport Gwent Dragons, and Newport Rugby Football Club |
+| Sixfields Stadium, Upton Way, Northampton, NN5 5QA | Northampton Town Football Club |
+| Carrow Road Football Ground, Carrow Road, Norwich, NR1 1JE | Norwich City Football Club |
+| The City Ground, Pavilion Road, Nottingham, NG2 5FJ | Nottingham Forest Football Club |
+| Meadow Lane Stadium, Meadow Lane, Nottingham, NG2 4HJ[^key-4fb9524242743a8d230345ca8d3db0e9] | Notts County Football Club |
+| [^key-b7b6b77c6f4c2b1eca853bd92da6db40]. . . | [^key-b7b6b77c6f4c2b1eca853bd92da6db40]. . . |
+| [^key-67f2682f7a41e0d3b62539f968f836e3]. . . | [^key-67f2682f7a41e0d3b62539f968f836e3]. . . |
+| Kassam Stadium, Grenoble Road, Oxford, OX4 4XP | Oxford United Football Club, and London Welsh Rugby Football Club |
+| Abax Stadium, London Road, Peterborough PE2 8AL | Peterborough United Football Club |
+| Home Park, Plymouth, Devon, PL2 3DQ | Plymouth Argyle Football Club |
+| Vale Park, Hamil Road, Burslem, Stoke on Trent, ST6 1AW | Port Vale Football Club |
+| Fratton Park, Frogmore Road, Portsmouth, PO4 8RA | Portsmouth Football Club |
+| Deepdale, Sir Tom Finney Way, Deepdale, Preston, Lancashire, PR1 6RU | Preston North End Football Club |
+| Loftus Road Stadium, South Africa Road, London, W12 7PA | Queens Park Rangers Football Club |
+| Madejski Stadium, Bennet Road, Reading, RG2 0FL | Reading Football Club |
+| Crown Oil Arena, Sandy Lane, Rochdale, OL11 5DR[^key-592b55385f6273ef4085b3f9a6f44e92] | Rochdale Association Football Club and Rochdale Hornets Rugby League Football Club |
+| [^key-202efb641fc993872bbd0ddd6000b56d]. . . | [^key-202efb641fc993872bbd0ddd6000b56d]. . . |
+| AESSEAL New York Stadium, Don Street, Rotherham, S60 1AH | Rotherham United Football Club |
+| The Peninsula Stadium, Moor Lane, Salford, M7 3PZ[^key-708f2dcd1199d3d484324d60fa5bb9d4] | Salford City Football Club |
+| [^key-952b262577c465cf06758d6defdd5e07]. . . | [^key-952b262577c465cf06758d6defdd5e07]. . . |
+| Bramall Lane Stadium, Sheffield, S2 4SU | Sheffield United Football Club |
+| Hillsborough Stadium, Sheffield, S6 1SW | Sheffield Wednesday Football Club |
+| Greenhous Meadow, Oteley Road, Shrewsbury, SY2 6ST | Shrewsbury Town Football Club |
+| St. Mary’s Stadium, Britannia Road, Southampton, SO14 5FP | Southampton Football Club |
+| [^M_F_a8a17b9f-5434-44cf-d94c-b6316fb8edaa]. . . | [^M_F_a8a17b9f-5434-44cf-d94c-b6316fb8edaa]. . . |
+| Lamex Stadium, Broadhall Way, Stevenage, Hertfordshire, SG2 8RH | Stevenage Football Club |
+| Edgeley Park, Hardcastle Road, Stockport, SK3 9DD[^key-fe7324f8dd1ad1d6fa400531c5ab978d] | Stockport County Football Club |
+| Britannia Stadium, Stanley Matthews Way, Stoke-on-Trent, ST4 4EG | Stoke City Football Club |
+| Stadium of Light, Sunderland, SR5 1SU | Sunderland Association Football Club |
+| VBS Community Stadium, Gander Green Lane, Sutton, SM1 2EY[^key-84ec811b8a45b377f2377745b77cce64] | Sutton United Football Club |
+| Liberty Stadium, Landore, Swansea, SA1 2FA | Swansea City Association Football Club, and Ospreys Rugby Union |
+| County Ground, County Road, Swindon SN1 2ED | Swindon Town Football Club |
+| Tottenham Hotspur Stadium, 782 High Road, London, N17 0BX[^key-c03f477ed663ab1658c5c122d363a7a6] | Tottenham Hotspur Football Club |
+| Prenton Park, Prenton Road West, Birkenhead, Merseyside, CH42 9PY | Tranmere Rovers Football Club |
+| The Banks’s Stadium, Bescot Crescent, Walsall, West Midlands, WS1 4SA | Walsall Football Club |
+| Vicarage Road Stadium, Watford, WD18 0ER | Watford Association Football Club |
+| The Hawthorns, West Bromwich, West Midlands, B71 4LF | West Bromwich Albion Football Club |
+| [^key-fdce76a3a93a850214b49bf4a5983d2a]. . . | [^key-fdce76a3a93a850214b49bf4a5983d2a]. . . |
+| DW Stadium, Anjou Boulevard, Robin Park, Wigan, WN5 0UZ | Wigan Athletic Football Club, and Wigan Warriors Rugby League Football Club |
+| Molineux Grounds, Waterloo Road, Wolverhampton, WV1 4QR | Wolverhampton Wanderers Football Club |
+| The Racecourse Ground, Mold Road, Wrexham, LL11 2AH[^key-24b1b3cf5b7740239d943db072dfdced] | Wrexham Association Football Club |
+| Adams Park, Hillbottom Road, High Wycombe, Buckinghamshire, HP12 4HJ | Wycombe Wanderers Football Club |
+| LNER Community Stadium, Kathryn Avenue, Monks Cross Drive, Huntington, York, YO32 9AF[^key-30c7e9f7634c50a3112e4cc4ce9d8d0b] | York City Football Club |
+| [^key-6a64ff4efb2d01dee5643de9e4a5cda7]. . . | [^key-6a64ff4efb2d01dee5643de9e4a5cda7]. . . |
+| [^key-6bdd5f204cb6759f5de1124d7a15cff9]. . . | [^key-6bdd5f204cb6759f5de1124d7a15cff9]. . . |
+
+## SCHEDULE 3 — REVOCATIONS[^key-35c6c7940acf7bf6a0b612fd578d5992]
+
+Article 3
+
+[^key-35c6c7940acf7bf6a0b612fd578d5992]
+
+- The Safety of Sports Grounds (Designation) Order 1976 ([S.I. 1976/1264](https://www.legislation.gov.uk/uksi/1976/1264))
+- The Safety of Sports Grounds (Designation) Order 1977 ([S.I. 1977/1323](https://www.legislation.gov.uk/uksi/1977/1323))
+- The Safety of Sports Grounds (Designation) Order 1978 ([S.I. 1978/1091](https://www.legislation.gov.uk/uksi/1978/1091))
+- The Safety of Sports Grounds (Designation) Order 1979 ([S.I. 1979/1022](https://www.legislation.gov.uk/uksi/1979/1022))
+- The Safety of Sports Grounds (Designation) Order 1980 ([S.I. 1980/1021](https://www.legislation.gov.uk/uksi/1980/1021))
+- The Safety of Sports Grounds (Designation) Order 1981 ([S.I. 1981/949](https://www.legislation.gov.uk/uksi/1981/949))
+- The Safety of Sports Grounds (Designation) Order 1982 ([S.I. 1982/1052](https://www.legislation.gov.uk/uksi/1982/1052))
+- The Safety of Sports Grounds (Designation) Order 1983 ([S.I. 1983/962](https://www.legislation.gov.uk/uksi/1983/962))
+- The Safety of Sports Grounds (Designation) Order 1984 ([S.I. 1984/942](https://www.legislation.gov.uk/uksi/1984/942))
+- The Safety of Sports Grounds (Association Football Grounds) (Designation) Order 1985 ([S.I. 1985/1063](https://www.legislation.gov.uk/uksi/1985/1063))
+- The Safety of Sports Grounds (Rugby Football Grounds) (Designation) Order 1985 ([S.I. 1985/1064](https://www.legislation.gov.uk/uksi/1985/1064))
+- The Safety of Sports Grounds (Designation) Order 1986 ([S.I. 1986/1296](https://www.legislation.gov.uk/uksi/1986/1296))
+- The Safety of Sports Grounds (Designation) Order 1987 ([S.I. 1987/1689](https://www.legislation.gov.uk/uksi/1987/1689))
+- The Safety of Sports Grounds (Designation) Order 1988 ([S.I. 1988/1975](https://www.legislation.gov.uk/uksi/1988/1975))
+- The Safety of Sports Grounds (Designation) Order 1992 ([S.I. 1992/607](https://www.legislation.gov.uk/uksi/1992/607))
+- The Safety of Sports Grounds (Designation) Order 1993 ([S.I. 1993/2090](https://www.legislation.gov.uk/uksi/1993/2090))
+- The Safety of Sports Grounds (Designation) Order 1994 ([S.I. 1994/2239](https://www.legislation.gov.uk/uksi/1994/2239))
+- The Safety of Sports Grounds (Designation) Order 1995 ([S.I. 1995/1990](https://www.legislation.gov.uk/uksi/1995/1990))
+- The Safety of Sports Grounds (Designation) Order 1996 ([S.I. 1996/2648](https://www.legislation.gov.uk/uksi/1996/2648))
+- The Safety of Sports Grounds (Designation) Order 1997 ([S.I. 1997/1676](https://www.legislation.gov.uk/uksi/1997/1676))
+- The Safety of Sports Grounds (Designation) Order 1998 ([S.I. 1998/1845](https://www.legislation.gov.uk/uksi/1998/1845))
+- The Safety of Sports Grounds (Designation) Order 1999 ([S.I. 1999/1930](https://www.legislation.gov.uk/uksi/1999/1930))
+- The Safety of Sports Grounds (Designation) Order 2000 ([S.I. 2000/1809](https://www.legislation.gov.uk/uksi/2000/1809))
+- The Safety of Sports Grounds (Designation) Order 2001 ([S.I. 2001/2372](https://www.legislation.gov.uk/uksi/2001/2372))
+- The Safety of Sports Grounds (Designation) Order 2002 ([S.I. 2002/1754](https://www.legislation.gov.uk/uksi/2002/1754))
+- The Safety of Sports Grounds (Designation) (No.2) Order 2002 ([S.I. 2002/2893](https://www.legislation.gov.uk/uksi/2002/2893))
+- The Safety of Sports Grounds (Designation) Order 2003 ([S.I. 2003/1256](https://www.legislation.gov.uk/uksi/2003/1256))
+- The Safety of Sports Grounds (Designation) (No.2) Order 2003 ([S.I. 2003/1637](https://www.legislation.gov.uk/uksi/2003/1637))
+- The Safety of Sports Grounds (Designation) Order 2004 ([S.I. 2004/1907](https://www.legislation.gov.uk/uksi/2004/1907))
+- The Safety of Sports Grounds (Designation) Order 2005 ([S.I. 2005/1748](https://www.legislation.gov.uk/uksi/2005/1748))
+- The Safety of Sports Grounds (Designation) Order 2006 ([S.I. 2006/218](https://www.legislation.gov.uk/uksi/2006/218))
+- The Safety of Sports Grounds (Designation) (No.2) Order 2006 ([S.I. 2006/1662](https://www.legislation.gov.uk/uksi/2006/1662))
+- The Safety of Sports Grounds (Designation) (No.3) Order 2006 ([S.I. 2006/1971](https://www.legislation.gov.uk/uksi/2006/1971))
+- The Safety of Sports Grounds (Designation) (No.4) Order 2006 ([S.I. 2006/3168](https://www.legislation.gov.uk/uksi/2006/3168))
+- The Safety of Sports Grounds (Designation) Order 2007 ([S.I. 2007/1587](https://www.legislation.gov.uk/uksi/2007/1587))
+- The Safety of Sports Grounds (Designation) Order 2008 ([S.I. 2008/55](https://www.legislation.gov.uk/uksi/2008/55))
+- The Safety of Sports Grounds (Designation) (No.2) Order 2008 ([S.I. 2008/1644](https://www.legislation.gov.uk/uksi/2008/1644))
+- The Safety of Sports Grounds (Designation) Order 2009 ([S.I. 2009/373](https://www.legislation.gov.uk/uksi/2009/373))
+- The Safety of Sports Grounds (Designation) (No.2) Order 2009 ([S.I. 2009/1394](https://www.legislation.gov.uk/uksi/2009/1394))
+- The Safety of Sports Grounds (Designation) (No.3) Order 2009 ([S.I. 2009/1501](https://www.legislation.gov.uk/uksi/2009/1501))
+- The Safety of Sports Grounds (Designation) Order 2010 ([S.I. 2010/1485](https://www.legislation.gov.uk/uksi/2010/1485))
+- The Safety of Sports Grounds (Designation) (No.2) Order 2010 ([S.I. 2010/1664](https://www.legislation.gov.uk/uksi/2010/1664))
+- The Safety of Sports Grounds (Designation) (No.3) Order 2010 ([S.I. 2010/1864](https://www.legislation.gov.uk/uksi/2010/1864))
+- The Safety of Sports Grounds (Designation) Order 2011 ([S.I. 2011/1437](https://www.legislation.gov.uk/uksi/2011/1437))
+- The Safety of Sports Grounds (Designation) (No.2) Order 2011 ([S.I. 2011/1499](https://www.legislation.gov.uk/uksi/2011/1499))
+- The Safety of Sports Grounds (Designation) (No.3) Order 2011 ([S.I. 2011/2244](https://www.legislation.gov.uk/uksi/2011/2244))
+- The Safety of Sports Grounds (Designation) (No.4) Order 2011 ([S.I. 2011/2669](https://www.legislation.gov.uk/uksi/2011/2669))
+- The Safety of Sports Grounds (Designation) (No.5) Order 2011 ([S.I. 2011/2869](https://www.legislation.gov.uk/uksi/2011/2869))
+- The Safety of Sports Grounds (Designation) Order 2012 ([S.I. 2012/1133](https://www.legislation.gov.uk/uksi/2012/1133))
+- The Safety of Sports Grounds (Designation) (No.2) Order 2012 ([S.I. 2012/1666](https://www.legislation.gov.uk/uksi/2012/1666))
+- The Safety of Sports Grounds (Designation) Order 2014 ([S.I. 2014/2523](https://www.legislation.gov.uk/uksi/2014/2523))
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+By section 1 of the Safety of Sports Grounds Act 1975, the Secretary of State may by order designate as a sports ground requiring a safety certificate under that Act any sports ground which, in his opinion, has accommodation for more than the specified number of spectators.
+
+By the Safety of Sports Grounds (Accommodation of Spectators) Order 1996 ([S.I. 1996/499](https://www.legislation.gov.uk/uksi/1996/499)), the specified number of spectators is 5,000 for sports grounds in England and Wales at which association football matches are played and which are occupied by a club that is a member of the Football League Limited or the Football Association Premier League Limited. The specified number of spectators for all other purposes is 10,000.
+
+Article 2 of and Schedules 1 and 2 to this Order consolidate, with amendments, the large number of designations made in respect of sports grounds in England and Wales by orders previously made under section 1 of the Act.
+
+Article 3 of and Schedule 3 to this Order revoke all previous designation orders relating to sports grounds in England and Wales. Any sports ground designated in a previous order as requiring a safety certificate is omitted from this Order if such a certificate is no longer required because that sports ground no longer meets the conditions to which the Secretary of State’s power to designate is subject.
+
+An impact assessment has not been produced for this Order, as no impact on the private, voluntary or public sectors is foreseen. An Explanatory Memorandum has been prepared and is available alongside this instrument on www.legislation.gov.uk.
+
+## Annotations
+
+[^f00001]: Footnote: [1975 c. 52](https://www.legislation.gov.uk/ukpga/1975/52); section 1(1) was amended by Schedule 2 to the Fire Safety and Safety of Places of Sport Act [1987 (c. 27)](https://www.legislation.gov.uk/ukpga/1987/27). The functions of the Secretary of State were, so far as exercisable in relation to Scotland, transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act [1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46).
+
+[^key-426cd9facfedfdd5baf163925a67fb8e]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2015/661/article/1) in force at 1.10.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/661/article/1/1)
+
+[^key-bf2413b075f567b03e8d4ddfe8833218]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2015/661/article/2) in force at 1.10.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/661/article/1/1)
+
+[^f00002]: Footnote: For the number specified in section 1(1) of the Safety of Sports Grounds Act 1975 (currently 10,000), the Safety of Sports Grounds (Accommodation of Spectators) Order 1996 ([S.I. 1996/499](https://www.legislation.gov.uk/uksi/1996/499)) substituted the number 5,000 in respect of a sports ground in England and Wales at which association football matches are played and which is occupied by a club which is a member of either the Football League Limited or the Football Association Premier League Limited.
+
+[^key-738ff583aedc65d5538684f288666051]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2015/661/article/3) in force at 1.10.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/661/article/1/1)
+
+[^key-624beef173697ec93389481dd7b28882]: Textual amendment: [Art. 4](https://www.legislation.gov.uk/uksi/2015/661/article/4) inserted (1.10.2015) by [The Safety of Sports Grounds (Designation) (Amendment) Order 2015 (S.I. 2015/1556)](https://www.legislation.gov.uk/uksi/2015/1556), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1556/article/1), [3](https://www.legislation.gov.uk/uksi/2015/1556/article/3)
+
+[^key-a86fba0e6a800b92d762a7295b84feb9]: Commencement: [Sch. 1](https://www.legislation.gov.uk/uksi/2015/661/schedule/1) in force at 1.10.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/661/article/1/1)
+
+[^key-78edb3175e0995dc56fb262109f6af53]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2015/661/schedule/1) omitted (15.11.2015) by virtue of [The Safety of Sports Grounds (Designation) (Amendment) (No.2) Order 2015 (S.I. 2015/1807)](https://www.legislation.gov.uk/uksi/2015/1807), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1807/article/1), [2(a)](https://www.legislation.gov.uk/uksi/2015/1807/article/2/a)
+
+[^key-56a440ff48668dd0e4e8b5d03bb390ba]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2015/661/schedule/1) omitted (20.8.2021) by virtue of [The Safety of Sports Grounds (Designation) (Amendment) (England) Order 2021 (S.I. 2021/912)](https://www.legislation.gov.uk/uksi/2021/912), [arts. 1](https://www.legislation.gov.uk/uksi/2021/912/article/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2021/912/article/2/2/a)
+
+[^key-abf87809706fffcaea8cb9f051a8be09]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2015/661/schedule/1) inserted (1.10.2015) by [The Safety of Sports Grounds (Designation) (Amendment) Order 2015 (S.I. 2015/1556)](https://www.legislation.gov.uk/uksi/2015/1556), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1556/article/1), [4](https://www.legislation.gov.uk/uksi/2015/1556/article/4)
+
+[^key-f69910f4b7536337d94bebef88c6444f]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2015/661/schedule/1) inserted (7.3.2022) by [The Safety of Sports Grounds (Designation) (Amendment) (England) Order 2022 (S.I. 2022/122)](https://www.legislation.gov.uk/uksi/2022/122), [arts. 1](https://www.legislation.gov.uk/uksi/2022/122/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2022/122/article/2/2)
+
+[^key-e1927c884585d5e3ef343bfc45807422]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2015/661/schedule/1) inserted (11.2.2020) by [The Safety of Sports Grounds (Designation) (Amendment) Order 2020 (S.I. 2020/35)](https://www.legislation.gov.uk/uksi/2020/35), [arts. 1](https://www.legislation.gov.uk/uksi/2020/35/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2020/35/article/2/2)
+
+[^key-3c20a5fcc302e303472c31f2c76bae96]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2015/661/schedule/1) omitted (15.11.2015) by virtue of [The Safety of Sports Grounds (Designation) (Amendment) (No.2) Order 2015 (S.I. 2015/1807)](https://www.legislation.gov.uk/uksi/2015/1807), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1807/article/1), [2(b)](https://www.legislation.gov.uk/uksi/2015/1807/article/2/b)
+
+[^key-221c1d470a8f5e5205591e3f6efe1f0a]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/2015/661/schedule/2) entry moved to Sch. 1 (2.8.2025) by [The Safety of Sports Grounds (Designation) (Amendment) Order 2025 (S.I. 2025/828)](https://www.legislation.gov.uk/uksi/2025/828), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/828/article/1/1), [2(5)(a)](https://www.legislation.gov.uk/uksi/2025/828/article/2/5/a)
+
+[^key-86b84797fbca7b63a0e0e29e344b1c57]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2015/661/schedule/1) omitted (20.8.2021) by virtue of [The Safety of Sports Grounds (Designation) (Amendment) (England) Order 2021 (S.I. 2021/912)](https://www.legislation.gov.uk/uksi/2021/912), [arts. 1](https://www.legislation.gov.uk/uksi/2021/912/article/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2021/912/article/2/2/b)
+
+[^key-77db79df49d3b9d61b35152643748649]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2015/661/schedule/1) substituted (2.8.2025) by [The Safety of Sports Grounds (Designation) (Amendment) Order 2025 (S.I. 2025/828)](https://www.legislation.gov.uk/uksi/2025/828), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/828/article/1/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2025/828/article/2/2/a)
+
+[^key-9947e3fae7d393ded9f4e885bc960d1f]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2015/661/schedule/1) omitted (2.8.2025) by virtue of [The Safety of Sports Grounds (Designation) (Amendment) Order 2025 (S.I. 2025/828)](https://www.legislation.gov.uk/uksi/2025/828), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/828/article/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2025/828/article/2/2/b)
+
+[^M_F_83d8216b-31ec-4c47-bffa-061fd2530b85]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/2015/661/schedule/1) entry moved to Sch. 2 (2.8.2025) by [The Safety of Sports Grounds (Designation) (Amendment) Order 2025 (S.I. 2025/828)](https://www.legislation.gov.uk/uksi/2025/828), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/828/article/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2025/828/article/2/4)
+
+[^key-bbccceddf39c88a03b48322fc366b43d]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2015/661/schedule/1) inserted (27.7.2022) by [The Safety of Sports Grounds (Designation) (Amendment) (England) (No. 2) Order 2022 (S.I. 2022/753)](https://www.legislation.gov.uk/uksi/2022/753), [arts. 1](https://www.legislation.gov.uk/uksi/2022/753/article/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2022/753/article/2/2/b)
+
+[^key-c7ed6c1a4416e0fe32bcb0f4cc618843]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2015/661/schedule/1) omitted (15.11.2015) by virtue of [The Safety of Sports Grounds (Designation) (Amendment) (No.2) Order 2015 (S.I. 2015/1807)](https://www.legislation.gov.uk/uksi/2015/1807), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1807/article/1), [2(c)](https://www.legislation.gov.uk/uksi/2015/1807/article/2/c)
+
+[^key-8e8d431922c5437fda3e7765041eb774]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2015/661/schedule/1) inserted (30.3.2023) by [The Safety of Sports Grounds (Designation) (Amendment) (England) Order 2023 (S.I. 2023/272)](https://www.legislation.gov.uk/uksi/2023/272), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/272/article/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2023/272/article/2/2)
+
+[^key-7626877d292422c425807577ad32e46f]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/2015/661/schedule/2) entry moved to Sch. 1 (2.8.2025) by [The Safety of Sports Grounds (Designation) (Amendment) Order 2025 (S.I. 2025/828)](https://www.legislation.gov.uk/uksi/2025/828), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/828/article/1/1), [2(5)(b)](https://www.legislation.gov.uk/uksi/2025/828/article/2/5/b)
+
+[^key-f972e962e7907c53550965601b6d61d8]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2015/661/schedule/1) omitted (27.7.2022) by virtue of [The Safety of Sports Grounds (Designation) (Amendment) (England) (No. 2) Order 2022 (S.I. 2022/753)](https://www.legislation.gov.uk/uksi/2022/753), [arts. 1](https://www.legislation.gov.uk/uksi/2022/753/article/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2022/753/article/2/2/a)
+
+[^key-5dda79066e8d795a87520607972d667a]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2015/661/schedule/1) inserted (2.8.2019) by [The Safety of Sports Grounds (Designation) (Amendment) Order 2019 (S.I. 2019/1116)](https://www.legislation.gov.uk/uksi/2019/1116), [arts. 1](https://www.legislation.gov.uk/uksi/2019/1116/article/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2019/1116/article/2/2/b)
+
+[^key-77b7b6d55c50f19ddf0281dd29e2dbd4]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2015/661/schedule/1) substituted (9.8.2018) by [The Safety of Sports Grounds (Designation) (Amendment) Order 2018 (S.I. 2018/869)](https://www.legislation.gov.uk/uksi/2018/869), [arts. 1](https://www.legislation.gov.uk/uksi/2018/869/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2018/869/article/2/2)
+
+[^key-8fba3c3c0a67baceab5a857cc805d1d6]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2015/661/schedule/1) omitted (24.8.2020) by virtue of [The Safety of Sports Grounds (Designation) (Amendment) (No. 3) Order 2020 (S.I. 2020/785)](https://www.legislation.gov.uk/uksi/2020/785), [arts. 1](https://www.legislation.gov.uk/uksi/2020/785/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2020/785/article/2/2)
+
+[^key-86284107c1d78bfba25c12f3466ab392]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/2015/661/schedule/2) in force at 1.10.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/661/article/1/1)
+
+[^key-21e15221ee9ed0eccac8626d1f572a9e]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2015/661/schedule/2) substituted (21.10.2020) by [The Safety of Sports Grounds (Designation) (Amendment) (England) (No. 4) Order 2020 (S.I. 2020/1063)](https://www.legislation.gov.uk/uksi/2020/1063), [arts. 1](https://www.legislation.gov.uk/uksi/2020/1063/article/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2020/1063/article/2/2/a)
+
+[^key-d3813f8c76262f42bb493b1c189d2bd2]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2015/661/schedule/2) omitted (24.8.2020) by virtue of [The Safety of Sports Grounds (Designation) (Amendment) (No. 3) Order 2020 (S.I. 2020/785)](https://www.legislation.gov.uk/uksi/2020/785), [arts. 1](https://www.legislation.gov.uk/uksi/2020/785/article/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2020/785/article/2/3/b)
+
+[^key-5543a5aac01bef3cace92be4ac90dc75]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2015/661/schedule/2) omitted (21.10.2020) by virtue of [The Safety of Sports Grounds (Designation) (Amendment) (England) (No. 4) Order 2020 (S.I. 2020/1063)](https://www.legislation.gov.uk/uksi/2020/1063), [arts. 1](https://www.legislation.gov.uk/uksi/2020/1063/article/1), [2(2)(c)(i)](https://www.legislation.gov.uk/uksi/2020/1063/article/2/2/c/i)
+
+[^key-ea29a860793663d3a649bee58be084a8]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2015/661/schedule/2) inserted (2.8.2025) by [The Safety of Sports Grounds (Designation) (Amendment) Order 2025 (S.I. 2025/828)](https://www.legislation.gov.uk/uksi/2025/828), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/828/article/1/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2025/828/article/2/3/a)
+
+[^key-c4190a3d579b29c3049aa6ba65797136]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2015/661/schedule/2) omitted (6.8.2026) by virtue of [The Safety of Sports Grounds (Designation) (Amendment) (England) Order 2026 (S.I. 2026/829)](https://www.legislation.gov.uk/uksi/2026/829), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/829/article/1/1), [2(a)](https://www.legislation.gov.uk/uksi/2026/829/article/2/a)
+
+[^key-fbae0c8cb04a76935848e2f79a29138b]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2015/661/schedule/2) omitted (21.10.2020) by virtue of [The Safety of Sports Grounds (Designation) (Amendment) (England) (No. 4) Order 2020 (S.I. 2020/1063)](https://www.legislation.gov.uk/uksi/2020/1063), [arts. 1](https://www.legislation.gov.uk/uksi/2020/1063/article/1), [2(2)(c)(ii)](https://www.legislation.gov.uk/uksi/2020/1063/article/2/2/c/ii)
+
+[^key-935ffa93c74ddc3a8ee34fb8b427cc96]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2015/661/schedule/2) substituted (8.5.2023) by [The Safety of Sports Grounds (Designation) (Amendment) (England) (No. 2) Order 2023 (S.I. 2023/425)](https://www.legislation.gov.uk/uksi/2023/425), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/425/article/1/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2023/425/article/2/2/a)
+
+[^key-7fe080e4f5af54fb90d211cf97e51feb]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2015/661/schedule/2) inserted (13.5.2020) by [The Safety of Sports Grounds (Designation) (Amendment) (No. 2) Order 2020 (S.I. 2020/434)](https://www.legislation.gov.uk/uksi/2020/434), [arts. 1](https://www.legislation.gov.uk/uksi/2020/434/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2020/434/article/2/2)
+
+[^key-fe92a1287aac04270303d80ecbc70ec1]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2015/661/schedule/2) inserted (2.8.2025) by [The Safety of Sports Grounds (Designation) (Amendment) Order 2025 (S.I. 2025/828)](https://www.legislation.gov.uk/uksi/2025/828), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/828/article/1/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2025/828/article/2/3/b)
+
+[^key-070146e7956c5ff62a1c3724e99b45db]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2015/661/schedule/2) omitted (11.2.2020) by virtue of [The Safety of Sports Grounds (Designation) (Amendment) Order 2020 (S.I. 2020/35)](https://www.legislation.gov.uk/uksi/2020/35), [arts. 1](https://www.legislation.gov.uk/uksi/2020/35/article/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2020/35/article/2/3/b)
+
+[^M_F_0727fc47-b9bd-4ce6-c961-3d6173d20f89]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/2015/661/schedule/2) entry moved to Sch. 1 (2.8.2025) by [The Safety of Sports Grounds (Designation) (Amendment) Order 2025 (S.I. 2025/828)](https://www.legislation.gov.uk/uksi/2025/828), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/828/article/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2025/828/article/2/4)
+
+[^key-69b921a307aa177d869b5cceefc45d42]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2015/661/schedule/2) omitted (2.8.2019) by virtue of [The Safety of Sports Grounds (Designation) (Amendment) Order 2019 (S.I. 2019/1116)](https://www.legislation.gov.uk/uksi/2019/1116), [arts. 1](https://www.legislation.gov.uk/uksi/2019/1116/article/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2019/1116/article/2/3/a)
+
+[^key-85abbb17980882a188e1398838754ae0]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2015/661/schedule/2) omitted (2.8.2025) by virtue of [The Safety of Sports Grounds (Designation) (Amendment) Order 2025 (S.I. 2025/828)](https://www.legislation.gov.uk/uksi/2025/828), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/828/article/1/1), [2(3)(c)](https://www.legislation.gov.uk/uksi/2025/828/article/2/3/c)
+
+[^key-ca2d5bef9c32fca833fea173ffb923be]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2015/661/schedule/2) inserted (2.8.2025) by [The Safety of Sports Grounds (Designation) (Amendment) Order 2025 (S.I. 2025/828)](https://www.legislation.gov.uk/uksi/2025/828), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/828/article/1/1), [2(3)(d)](https://www.legislation.gov.uk/uksi/2025/828/article/2/3/d)
+
+[^key-b0d444ca21c68d0f3f86abeeeca2aa29]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2015/661/schedule/2) omitted (2.8.2025) by virtue of [The Safety of Sports Grounds (Designation) (Amendment) Order 2025 (S.I. 2025/828)](https://www.legislation.gov.uk/uksi/2025/828), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/828/article/1/1), [2(3)(e)](https://www.legislation.gov.uk/uksi/2025/828/article/2/3/e)
+
+[^key-7882f9d52d2275de0c96e5a90318e757]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2015/661/schedule/2) inserted (27.7.2022) by [The Safety of Sports Grounds (Designation) (Amendment) (England) (No. 2) Order 2022 (S.I. 2022/753)](https://www.legislation.gov.uk/uksi/2022/753), [arts. 1](https://www.legislation.gov.uk/uksi/2022/753/article/1), [2(3)(c)](https://www.legislation.gov.uk/uksi/2022/753/article/2/3/c)
+
+[^key-fc4f52636195e1c78321ef567c4fb8a2]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2015/661/schedule/2) omitted (6.8.2026) by virtue of [The Safety of Sports Grounds (Designation) (Amendment) (England) Order 2026 (S.I. 2026/829)](https://www.legislation.gov.uk/uksi/2026/829), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/829/article/1/1), [2(b)](https://www.legislation.gov.uk/uksi/2026/829/article/2/b)
+
+[^key-202efb641fc993872bbd0ddd6000b56d]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2015/661/schedule/2) omitted (27.7.2023) by virtue of [The Safety of Sports Grounds (Designation) (Amendment) (England) (No. 3) Order 2023 (S.I. 2023/755)](https://www.legislation.gov.uk/uksi/2023/755), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/755/article/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2023/755/article/2/2)
+
+[^key-a3b4d1cee64304e491e61d240dea671d]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2015/661/schedule/2) omitted (21.10.2020) by virtue of [The Safety of Sports Grounds (Designation) (Amendment) (England) (No. 4) Order 2020 (S.I. 2020/1063)](https://www.legislation.gov.uk/uksi/2020/1063), [arts. 1](https://www.legislation.gov.uk/uksi/2020/1063/article/1), [2(2)(c)(iii)](https://www.legislation.gov.uk/uksi/2020/1063/article/2/2/c/iii)
+
+[^key-13f2fd5ac89f99ef7efcce8ef1bbdf40]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2015/661/schedule/2) omitted (2.8.2025) by virtue of [The Safety of Sports Grounds (Designation) (Amendment) Order 2025 (S.I. 2025/828)](https://www.legislation.gov.uk/uksi/2025/828), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/828/article/1/1), [2(3)(f)](https://www.legislation.gov.uk/uksi/2025/828/article/2/3/f)
+
+[^key-4fb9524242743a8d230345ca8d3db0e9]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/2015/661/schedule/2) entry moved from Sch. 1 (2.8.2025) by [The Safety of Sports Grounds (Designation) (Amendment) Order 2025 (S.I. 2025/828)](https://www.legislation.gov.uk/uksi/2025/828), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/828/article/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2025/828/article/2/4)
+
+[^key-b7b6b77c6f4c2b1eca853bd92da6db40]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2015/661/schedule/2) omitted (2.8.2019) by virtue of [The Safety of Sports Grounds (Designation) (Amendment) Order 2019 (S.I. 2019/1116)](https://www.legislation.gov.uk/uksi/2019/1116), [arts. 1](https://www.legislation.gov.uk/uksi/2019/1116/article/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2019/1116/article/2/3/b)
+
+[^key-67f2682f7a41e0d3b62539f968f836e3]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2015/661/schedule/2) omitted (27.7.2022) by virtue of [The Safety of Sports Grounds (Designation) (Amendment) (England) (No. 2) Order 2022 (S.I. 2022/753)](https://www.legislation.gov.uk/uksi/2022/753), [arts. 1](https://www.legislation.gov.uk/uksi/2022/753/article/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2022/753/article/2/3/a)
+
+[^key-592b55385f6273ef4085b3f9a6f44e92]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2015/661/schedule/2) inserted (6.8.2026) by [The Safety of Sports Grounds (Designation) (Amendment) (England) Order 2026 (S.I. 2026/829)](https://www.legislation.gov.uk/uksi/2026/829), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/829/article/1/1), [2(c)](https://www.legislation.gov.uk/uksi/2026/829/article/2/c)
+
+[^key-708f2dcd1199d3d484324d60fa5bb9d4]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2015/661/schedule/2) inserted (11.2.2020) by [The Safety of Sports Grounds (Designation) (Amendment) Order 2020 (S.I. 2020/35)](https://www.legislation.gov.uk/uksi/2020/35), [arts. 1](https://www.legislation.gov.uk/uksi/2020/35/article/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2020/35/article/2/3/a)
+
+[^key-952b262577c465cf06758d6defdd5e07]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2015/661/schedule/2) omitted (27.7.2022) by virtue of [The Safety of Sports Grounds (Designation) (Amendment) (England) (No. 2) Order 2022 (S.I. 2022/753)](https://www.legislation.gov.uk/uksi/2022/753), [arts. 1](https://www.legislation.gov.uk/uksi/2022/753/article/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2022/753/article/2/3/b)
+
+[^M_F_a8a17b9f-5434-44cf-d94c-b6316fb8edaa]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/2015/661/schedule/2) entry moved to Sch. 1 (2.8.2025) by [The Safety of Sports Grounds (Designation) (Amendment) Order 2025 (S.I. 2025/828)](https://www.legislation.gov.uk/uksi/2025/828), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/828/article/1/1), [2(5)(b)](https://www.legislation.gov.uk/uksi/2025/828/article/2/5/b)
+
+[^key-fe7324f8dd1ad1d6fa400531c5ab978d]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2015/661/schedule/2) inserted (27.7.2022) by [The Safety of Sports Grounds (Designation) (Amendment) (England) (No. 2) Order 2022 (S.I. 2022/753)](https://www.legislation.gov.uk/uksi/2022/753), [arts. 1](https://www.legislation.gov.uk/uksi/2022/753/article/1), [2(3)(d)](https://www.legislation.gov.uk/uksi/2022/753/article/2/3/d)
+
+[^key-84ec811b8a45b377f2377745b77cce64]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2015/661/schedule/2) inserted (27.7.2022) by [The Safety of Sports Grounds (Designation) (Amendment) (England) (No. 2) Order 2022 (S.I. 2022/753)](https://www.legislation.gov.uk/uksi/2022/753), [arts. 1](https://www.legislation.gov.uk/uksi/2022/753/article/1), [2(3)(e)](https://www.legislation.gov.uk/uksi/2022/753/article/2/3/e)
+
+[^key-c03f477ed663ab1658c5c122d363a7a6]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2015/661/schedule/2) substituted (8.5.2023) by [The Safety of Sports Grounds (Designation) (Amendment) (England) (No. 2) Order 2023 (S.I. 2023/425)](https://www.legislation.gov.uk/uksi/2023/425), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/425/article/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2023/425/article/2/2/b)
+
+[^key-fdce76a3a93a850214b49bf4a5983d2a]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2015/661/schedule/2) omitted (2.8.2025) by virtue of [The Safety of Sports Grounds (Designation) (Amendment) Order 2025 (S.I. 2025/828)](https://www.legislation.gov.uk/uksi/2025/828), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/828/article/1/1), [2(3)(g)](https://www.legislation.gov.uk/uksi/2025/828/article/2/3/g)
+
+[^key-24b1b3cf5b7740239d943db072dfdced]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2015/661/schedule/2) inserted (2.8.2025) by [The Safety of Sports Grounds (Designation) (Amendment) Order 2025 (S.I. 2025/828)](https://www.legislation.gov.uk/uksi/2025/828), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/828/article/1/1), [2(3)(h)](https://www.legislation.gov.uk/uksi/2025/828/article/2/3/h)
+
+[^key-30c7e9f7634c50a3112e4cc4ce9d8d0b]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2015/661/schedule/2) inserted (6.8.2026) by [The Safety of Sports Grounds (Designation) (Amendment) (England) Order 2026 (S.I. 2026/829)](https://www.legislation.gov.uk/uksi/2026/829), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/829/article/1/1), [2(d)](https://www.legislation.gov.uk/uksi/2026/829/article/2/d)
+
+[^key-6a64ff4efb2d01dee5643de9e4a5cda7]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2015/661/schedule/2) omitted (2.8.2019) by virtue of [The Safety of Sports Grounds (Designation) (Amendment) Order 2019 (S.I. 2019/1116)](https://www.legislation.gov.uk/uksi/2019/1116), [arts. 1](https://www.legislation.gov.uk/uksi/2019/1116/article/1), [2(3)(c)](https://www.legislation.gov.uk/uksi/2019/1116/article/2/3/c)
+
+[^key-6bdd5f204cb6759f5de1124d7a15cff9]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2015/661/schedule/2) omitted (2.8.2025) by virtue of [The Safety of Sports Grounds (Designation) (Amendment) Order 2025 (S.I. 2025/828)](https://www.legislation.gov.uk/uksi/2025/828), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/828/article/1/1), [2(3)(i)](https://www.legislation.gov.uk/uksi/2025/828/article/2/3/i)
+
+[^key-35c6c7940acf7bf6a0b612fd578d5992]: Commencement: [Sch. 3](https://www.legislation.gov.uk/uksi/2015/661/schedule/3) in force at 1.10.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/661/article/1/1)

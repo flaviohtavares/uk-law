@@ -1,0 +1,92 @@
+---
+title: The School Information (England) (Amendment No.2) Regulations 2013
+id: uksi/2013/2912
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2013-11-18'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2013/2912
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2013/2912/pdfs/uksiem_20132912_en.pdf
+- http://www.legislation.gov.uk/uksi/2013/2912/pdfs/uksi_20132912_en.pdf
+- http://www.legislation.gov.uk/uksi/2013/2912/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The School Information (England) (Amendment No.2) Regulations 2013
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2013 No. 2912
+
+Education, England
+
+The School Information (England) (Amendment No.2) Regulations 2013
+
+Made
+
+18th November 2013
+
+Laid before Parliament
+
+20th November 2013
+
+Coming into force
+
+12th December 2013
+
+The Secretary of State for Education makes the following Regulations in exercise of the powers conferred by section 537(1) of the Education Act 1996[^f00001]:
+
+## 1. Citation and commencement
+
+These Regulations may be cited as the School Information (England) (Amendment No. 2) Regulations 2013 and come into force on 12th December 2013.
+
+## 2. Amendment of the School Information (England) Regulations 2008
+
+(1) The School Information (England) Regulations[^f00002] are amended as follows.
+
+(2) In Schedule 4 (specified information to be published on a school’s website)—
+
+- (a) for paragraph 4(a), substitute—
+
+  > - (a) “% achieving Level 4 or above in Reading, Writing and Maths”
+
+  ; and
+- (b) for paragraph 4(c), substitute—
+
+  > - (c) in relation to Reading and Writing, “% achieving Level 5 or above”
+
+  .
+
+David Laws
+
+Minister of State
+
+Department for Education
+
+18th November 2013
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations make amendments to the School Information (England) Regulations 2008 (“the 2008 Regulations”) and come into force on 12th December 2013. The amendments apply to maintained schools.
+
+Regulation 10 of the 2008 Regulations requires maintained schools to publish the information specified in Schedule 4 to those Regulations on their website. Paragraph 4 of that Schedule requires schools to publish the most recent key stage 2 results, as published in the School Performance Tables published on the Department for Education’s website.
+
+The Department will no longer combine key stage 2 pupils’ reading and writing results to produce an overall English level. Instead, it will report separately on reading and writing results.
+
+These Regulations amend paragraph 4 of Schedule 4 to the 2008 Regulations to ensure that the information which the Department publishes is reflected accurately on the maintained schools’ websites.
+
+No impact assessment has been produced for this instrument because no significant impact on business, civil society organisations or the public sector is foreseen.
+
+## Annotations
+
+[^f00001]: Footnote: [1996 c.56](https://www.legislation.gov.uk/ukpga/1996/56). Relevant amendments to section 537 have been made by paragraph 37 of Schedule 7 to the Education Act [1997 (c.44)](https://www.legislation.gov.uk/ukpga/1997/44), paragraph 152(a) of Schedule 30 to the School Standards and Framework Act [1998 (c.31)](https://www.legislation.gov.uk/ukpga/1998/31) and paragraph 7 of Part 1 of Schedule 2 to [S.I. 2010/1158](https://www.legislation.gov.uk/uksi/2010/1158). See section 579 of the Education Act 1996 for the definitions of “prescribed” and “regulations”.
+
+[^f00002]: Footnote: [S.I. 2008/3093](https://www.legislation.gov.uk/uksi/2008/3093). Relevant amendments to these Regulations have been made by S.I.s [2012/1124](https://www.legislation.gov.uk/uksi/2012/1124) and [2013/758](https://www.legislation.gov.uk/uksi/2013/758).

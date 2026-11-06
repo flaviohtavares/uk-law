@@ -1,0 +1,394 @@
+---
+title: The Registrar (Annotation, Removal and Disclosure Restrictions) Regulations 2024
+id: uksi/2024/54
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2024-01-17'
+text_date: '2025-03-13'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2024/54
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2024/54/pdfs/uksiem_20240054_en_001.pdf
+- http://www.legislation.gov.uk/uksi/2024/54/pdfs/uksi_20240054_en.pdf
+- http://www.legislation.gov.uk/uksi/2024/54/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Registrar (Annotation, Removal and Disclosure Restrictions) Regulations 2024
+
+> Text as at 2025-03-13.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2024 No. 54
+
+COMPANIES
+
+LIMITED LIABILITY PARTNERSHIPS
+
+The Registrar (Annotation, Removal and Disclosure Restrictions) Regulations 2024
+
+Made
+
+17th January 2024
+
+Laid before Parliament
+
+18th January 2024
+
+Coming into force in accordance with regulation 1(2)
+
+The Secretary of State makes these Regulations in exercise of the powers conferred by sections 243(3)(a) (as applied by sections 790ZF(1) and 1087C(4)), 1081(2), 1094A(1) and (2) and 1292(1)(a) of the Companies Act 2006[^f00001] and section 15(a) of the Limited Liability Partnerships Act 2000[^f00002].
+
+## Part 1 — Introductory
+
+### 1. Citation, commencement and extent[^key-c3cbe5a852eee86a7f0f2775c567a9df]
+
+(1) These Regulations may be cited as the Registrar (Annotation, Removal and Disclosure Restrictions) Regulations 2024.
+
+(2) These Regulations come into force as follows—
+
+- (a) this Part and Parts 2 to 4 come into force on 4th March 2024[^key-982e87dbbbbc9d8ca57a8e98822f2cfb];
+- (b) Part 5 comes into force on 4th March 2024[^key-21718bf048b9101764d76fb262767e05].
+
+(3) These Regulations extend to England and Wales, Scotland and Northern Ireland.
+
+### 2. Interpretation[^key-a5e5bce7be65c7d613a911bfdc9ca575]
+
+In these Regulations—
+
+- “**the 2006 Act**” means the Companies Act 2006;
+- “**the 2009 Regulations**” means the Registrar of Companies and Applications for Striking Off Regulations 2009[^f00003].
+
+## Part 2 — Annotations of the register
+
+### 3. Annotations of the register[^key-3eebee5de3b278416c6be74ee3b338bf]
+
+The registrar may place a note in the register containing such information as appears to the registrar to be appropriate to address any confusion that may arise where material that was formerly considered by the registrar to form part of the register is no longer considered by the registrar to do so.
+
+## Part 3 — Removal of material from the register
+
+### 4. Interpretation[^key-fd81507fa710e4a7d5d2022d9fa805dc]
+
+In this Part—
+
+- “**application for removal**” means an application made in accordance with regulation 6;
+- “**the specified material**” has the meaning given in regulation 6(2)(c).
+
+### 5. Removal of material on registrar’s own motion[^key-6701c6a1f65f0bb084dc62dea813f6e8]
+
+(1) Before or as soon as reasonably practicable after removing material contained in the register on the registrar’s own motion pursuant to section 1094(1) and (2)(a) of the 2006 Act, the registrar must give notice of the removal to such persons as the registrar considers appropriate.
+
+(2) The notice must state—
+
+- (a) the name and registered number of the company to which the material relates;
+- (b) what material the registrar intends to remove, or has removed, and on what grounds, and
+- (c) where the material is, or was, in the register.
+
+### 6. Removal of material on application[^key-a366317e9e9012a987c8ccb53b128812]
+
+(1) An application for removal of material from the register can be made by any person.
+
+(2) An application for removal must—
+
+- (a) be in writing;
+- (b) contain the required information about the applicant (see paragraph (4));
+- (c) specify the material which the applicant wants the registrar to remove from the register (“the specified material”) and where in the register the specified material is;
+- (d) specify which, if any, of the specified material is, in the applicant’s view, within each of the following provisions of the 2006 Act—
+  - (i) section 1094(1)(a);
+  - (ii) section 1094(1)(b);
+- (e) explain the basis for that view, and
+- (f) where section 1094(3) of the 2006 Act is relevant, include representations about the applicant’s interest in removing that of the specified material to which that subsection is relevant.
+
+(3) An application for removal must be accompanied by any information in writing which the applicant wishes to rely on.
+
+(4) The “**required information about the applicant**” means—
+
+- (a) name;
+- (b) address;
+- (c) email address, and
+- (d) a description of any current or past connection the applicant has or had with the company.
+
+### 7. Rejection of application for removal[^key-405cd51bf5903d97374b41e09a65b64b]
+
+(1) This regulation applies where an application for removal has been delivered to the registrar and all of the specified material is material that the registrar—
+
+- (a) is not satisfied the registrar has the power to remove, or
+- (b) does not intend to remove.
+
+(2) The registrar must reject the application and give a notice stating it is rejected to the applicant and to any other person the registrar considers appropriate.
+
+### 8. Notice of decision to remove material[^key-908d690cab6f424cb6525235a521cfd0]
+
+(1) This regulation applies where an application for removal has been delivered to the registrar and the registrar—
+
+- (a) is satisfied that the registrar has power to remove some or all of the specified material;
+- (b) intends to exercise that power in relation to some or all of that material, and
+- (c) does not consider it necessary to provide a period for objections to be made to the removal of that material.
+
+(2) Before or as soon as reasonably practicable after removing any of the specified material from the register, the registrar must give a notice to the applicant and to such other persons as the registrar considers appropriate.
+
+(3) The notice must state—
+
+- (a) the name and registered number of the company to which the specified material which the registrar intends to remove, or has removed, relates;
+- (b) what specified material the registrar intends to remove, or has removed, and on what grounds, and
+- (c) where that material is, or was, in the register.
+
+### 9. Notice of intention to remove material[^key-74f2bce985410bdc46efa3e42327f129]
+
+(1) This regulation applies where an application for removal has been delivered to the registrar and the registrar—
+
+- (a) is satisfied that the registrar has power to remove some or all of the specified material;
+- (b) intends to exercise that power in relation to some or all of that material, and
+- (c) considers it necessary to provide a period for objections to be made to the removal of that material.
+
+(2) As soon as reasonably practicable, the registrar must give notice stating the registrar has received an application for removal to such persons as the registrar considers appropriate.
+
+(3) The notice given by the registrar must state—
+
+- (a) the name and registered number of the company to which the specified material that the registrar intends to remove from the register relates;
+- (b) what specified material the registrar intends to remove, and on what grounds;
+- (c) where that material is in the register;
+- (d) the date of the notice;
+- (e) how the recipient can object to the removal (see regulation 10), and
+- (f) the date on or before which any objection to removal must be made.
+
+(4) If the registrar gives more than one notice in respect of the same application for removal, the date stated under paragraph (3)(f) must be the same in each notice.
+
+### 10. Objection to removal of material[^key-4bace7d01e5133dc701d9185c661e085]
+
+(1) Where a notice has been given under regulation 9 following an application for removal, the registrar must determine the application as soon as reasonably practicable after the end of the period for objecting.
+
+(2) In determining the application for removal, the registrar must take into account any objection made within the period for objecting.
+
+(3) The period for objecting is the period beginning with the date of the notice under regulation 9(3)(d) (or, if more than one notice was given in respect of the application, the date of the earliest notice) and ending with the date stated in the notice under regulation 9(3)(f).
+
+(4) An objection is made by giving written notice to the registrar.
+
+(5) A notice given under paragraph (4) must state—
+
+- (a) the name of the person making the objection;
+- (b) the person’s address;
+- (c) the person’s email address;
+- (d) the specified material to which the objection relates, and
+- (e) the reasons for the objection.
+
+(6) A notice given under paragraph (4) must be accompanied by any information in writing which the person wishes to rely on in advancing their objection.
+
+### 11. Notice of outcome of application for removal[^key-264d5eed34acca347e8e88c2122fd62a]
+
+(1) As soon as reasonably practicable after determining an application for removal to which regulation 9 applies, the registrar must notify the outcome of the application for removal to—
+
+- (a) the applicant;
+- (b) any person who objected to the removal in accordance with regulation 10, and
+- (c) any other person to whom the registrar considers it appropriate to give notice.
+
+(2) The notice given under paragraph (1) must state—
+
+- (a) the name and registered number of the company to which the specified material relates;
+- (b) what, if any, specified material the registrar intends to remove, or has removed, and on what grounds;
+- (c) where any removed specified material was, or where any specified material which the registrar intends to remove is, in the register, and
+- (d) if the registrar has decided not to remove some or all of the specified material, on what grounds.
+
+### 12. Revocation and transitional provision[^key-1bb571da49ae1d6abd0eef4178474eff]
+
+(1) Regulations 4 and 5 of the 2009 Regulations are revoked.
+
+(2) An application made or notice given under a provision of the 2009 Regulations specified in column 2 of the table is to be treated, after the commencement of these Regulations—
+
+- (a) as if it were an application made or notice given under the provision of these Regulations specified in the corresponding entry in column 3, and
+- (b) as if it complied with the requirements of these Regulations in relation to such applications or notices.
+
+| 1 | 2 | 3 |
+| --- | --- | --- |
+| General description | Provision of the 2009 Regulations | Corresponding provision of these Regulations |
+| Application for removal | Regulation 4 | Regulation 6 |
+| Notice of application | Regulation 5(2) to (5) | Regulation 9(2) |
+| Notice of objection | Regulation 5(10) | Regulation 10(4) |
+| Notice of outcome | Regulation 5(14), (15) and (15E) | Regulation 11 |
+
+(3) Where a notice has been given under regulation 5(2), (3), (4) or (5) of the 2009 Regulations before these Regulations come into force, the period for objecting for the purposes of regulation 10(3) of these Regulations is the period specified in regulation 5(11) of the 2009 Regulations.
+
+(4) Anything else done under (or for the purposes of or in reliance on) regulation 4 or 5 of the 2009 Regulations, and effective immediately before the time these Regulations come into force, has effect after that time as if done under (or for the purposes of or in reliance on) the corresponding provision of these Regulations.
+
+## Part 4 — Annotations and removal of material relating to limited liability partnerships
+
+### 13. Interpretation[^key-c69bf2cb1b8948a3b9fdca456d737a2c]
+
+In this Part “**the 2009 LLP Regulations**” means the Limited Liability Partnerships (Application of Companies Act 2006) Regulations 2009[^f00004].
+
+### 14. Annotations of the register[^key-e4c6c0768bec6a988ce27ecf9c231b84]
+
+In regulation 64 (the register)[^f00005] of the 2009 LLP Regulations, in section 1081 (annotations) of the 2006 Act, as applied to limited liability partnerships by that regulation—
+
+- (a) in subsection (1), omit paragraph (b);
+- (b) after subsection (2) insert—
+
+  > (2A) The registrar may place a note in the register containing such information as appears to the registrar to be appropriate to address any confusion that may arise where material that was formerly considered by the registrar to form part of the register is no longer considered by the registrar to do so.
+
+  ;
+- (c) in subsection (6)—
+  - (i) for “or” substitute “(2A), ”;
+  - (ii) after “subsection (2)” insert “, or in pursuance of any other enactment,”.
+
+### 15. Material not available for public inspection[^key-094b4340355d5671c7cc6e1d9c254ed2]
+
+In regulation 66 (inspection etc of the register)[^f00006] of the 2009 LLP Regulations, in section 1087(1) (material not available for public inspection) of the 2006 Act, as applied to limited liability partnerships by that regulation, for paragraph (g) substitute—
+
+> - (g) any application or other document delivered to the registrar under section 1094 (removal of material from the register);
+
+.
+
+### 16. Removal of material from the register[^key-813ab8c210260f10a146f9fb8b20bcf2]
+
+In regulation 67 (correction or removal of material on the register)[^f00007] of the 2009 LLP Regulations, for sections 1094, 1095 and 1095A of the 2006 Act, as applied to limited liability partnerships by that regulation, substitute—
+
+> **1094. Removal of material from the register**
+>
+> (1) The registrar may remove from the register anything that appears to the registrar to be—
+>
+> - (a) a document, or material derived from a document, accepted under section 1073 (power to accept documents not meeting requirements for proper delivery), or
+> - (b) unnecessary material as defined by section 1074.
+>
+> (2) The power to remove material from the register under this section may be exercised—
+>
+> - (a) on the registrar’s own motion, or
+> - (b) on an application made in accordance with the provisions applied to LLPs by section 1094A (further provision about removal of material from the register).
+>
+> (3) The registrar may exercise the power to remove from the register anything the registration of which had legal consequences only if satisfied that the interest of the LLP, or (if different) the applicant, in removing the material outweighs any interest of other persons in the material continuing to appear on the register.
+>
+> **1094A. Further provision about removal of material from the register**
+>
+> Part 3 (removal of material from the register) of the Registrar (Annotation, Removal and Disclosure Restrictions) Regulations 2024 ([S.I. 2024/54](https://www.legislation.gov.uk/uksi/2024/54)) applies to LLPs, modified so that every reference to a company is read as if it were a reference to an LLP.
+>
+> **1094B. Power of court to make consequential orders following removal**
+>
+> (1) Where the registrar removes anything from the register otherwise than in pursuance of a court order, the court may, on an application by a person with sufficient interest, make such consequential orders as the court thinks fit as to the legal effects of the inclusion of the material on the register or its removal.
+>
+> (2) In this section the reference to the registrar removing material from the register includes the registrar determining that anything purported to be delivered to the registrar under any enactment was not in fact delivered under an enactment and therefore does not form part of the register.
+
+.
+
+### 17. Transitional provision[^key-a3201698f4c3f0a596d41e212cfa4a75]
+
+Regulation 12(2) to (4) applies to limited liability partnerships as if the references to regulations 4 and 5 of the 2009 Regulations were references to those regulations as applied to limited liability partnerships by regulation 67 (correction or removal of material on the register) of the 2009 LLP Regulations before 4th March 2024[^key-de32eefb511f40f49290347c69e43e57].
+
+## Part 5 — Registrar disclosure restrictions
+
+### 18. Usual residential addresses of people with significant control[^key-c977083dcc962b1205371dea376c0e66]
+
+(1) Schedule 4 (conditions for permitted disclosure) to the Register of People with Significant Control Regulations 2016[^f00008] is amended as follows.
+
+(2) After paragraph 12 insert—
+
+> 12ZA. The information within section 790ZF(2) of the Act is not information to which regulation 34(1) applies.
+
+.
+
+### 19. Date of birth information of people with significant control[^key-762db5db206a66fae313f6b5cf2f978c]
+
+(1) The Companies (Disclosure of Date of Birth Information) Regulations 2015[^f00009] are amended as follows.
+
+(2) In regulation 3(1) (permitted disclosure by the registrar to credit reference agencies), for “10” substitute “10A”.
+
+(3) In Schedule 2 (conditions for permitted disclosure)[^f00010], after paragraph 10 insert—
+
+> 10A. The relevant date of birth information is not information to which regulation 34(1) of the Register of People with Significant Control Regulations 2016 ([S.I. 2016/339](https://www.legislation.gov.uk/uksi/2016/339)) applies.
+
+.
+
+Kevin Hollinrake
+
+Parliamentary Under Secretary of State
+
+Department for Business and Trade
+
+17th January 2024
+
+Explanatory Note
+
+(This note is not part of the Regulations)
+
+These Regulations provide the registrar with a new power to annotate the register maintained under section 1080 of the Companies Act [2006 (c. 46)](https://www.legislation.gov.uk/ukpga/2006/46) (“**the 2006 Act**”), with a view to providing clarity to people who inspect the register. These Regulations also make provision about the removal of material from the register by the registrar using powers contained in section 1094 of the 2006 Act, which was substituted by the Economic Crime and Corporate Transparency Act [2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56) and which replaces narrower provisions permitting administrative removal and rectification of the register on application to the registrar. These Regulations also make provision whose purpose is to ensure that it continues to be the case that certain sensitive information about a person with significant control over a company cannot be disclosed to a credit reference agency if the person has obtained protection over that information under Part 7 of the People with Significant Control Regulations 2016 ([S.I. 2016/339](https://www.legislation.gov.uk/uksi/2016/339), “**the 2016 Regulations**”).
+
+Part 2 of these Regulations empowers the registrar to annotate the register (as defined in section 1080(2) of the 2006 Act) with such information as appears to the registrar to be appropriate to address any confusion that may arise where material that was formerly considered by the registrar to form part of the register is no longer considered by the registrar to do so.
+
+Part 3 of these Regulations makes provision in connection with the exercise by the registrar of the power in section 1094 of the 2006 Act to remove registered material. This includes provision concerning the required contents of applications for removal, the notices to be given of the receipt of applications and decisions of the registrar under section 1094 and Part 3 of these Regulations, and about periods (if any) within which people may object to the removal of material.
+
+Part 4 of these Regulations applies the company law provisions in Parts 2 and 3 to limited liability partnerships.
+
+Part 5 of these Regulations ensures the registrar is barred from disclosing certain sensitive information about a person with significant control over a company to a credit reference agency if that person has obtained protection over that information under the 2016 Regulations.
+
+A full Impact Assessment has not been prepared for this instrument.
+
+## Annotations
+
+[^f00001]: Footnote: [2006 c. 46](https://www.legislation.gov.uk/ukpga/2006/46). Sections 1087C and 1094A were respectively inserted by sections 52(3) and 85(2) of the Economic Crime and Corporate Transparency Act [2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56).
+
+[^f00002]: Footnote: [2000 c. 12](https://www.legislation.gov.uk/ukpga/2000/12).
+
+[^key-c3cbe5a852eee86a7f0f2775c567a9df]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2024/54/regulation/1) in force at 4.3.2024, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2024/54/regulation/1/2/a)
+
+[^key-982e87dbbbbc9d8ca57a8e98822f2cfb]: Textual amendment: Words in [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2024/54/regulation/1/2/a) substituted (13.3.2025) by [The Economic Crime and Corporate Transparency Act 2023 (Commencement No. 4) Regulations 2025 (S.I. 2025/349)](https://www.legislation.gov.uk/uksi/2025/349), [reg. 5(2)(a)](https://www.legislation.gov.uk/uksi/2025/349/regulation/5/2/a)
+
+[^key-21718bf048b9101764d76fb262767e05]: Textual amendment: Words in [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2024/54/regulation/1/2/b) substituted (13.3.2025) by [The Economic Crime and Corporate Transparency Act 2023 (Commencement No. 4) Regulations 2025 (S.I. 2025/349)](https://www.legislation.gov.uk/uksi/2025/349), [reg. 5(2)(b)](https://www.legislation.gov.uk/uksi/2025/349/regulation/5/2/b)
+
+[^key-a5e5bce7be65c7d613a911bfdc9ca575]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2024/54/regulation/2) in force at 4.3.2024, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2024/54/regulation/1/2/a)
+
+[^f00003]: Footnote: [S.I. 2009/1803](https://www.legislation.gov.uk/uksi/2009/1803).
+
+[^key-3eebee5de3b278416c6be74ee3b338bf]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2024/54/regulation/3) in force at 4.3.2024, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2024/54/regulation/1/2/a)
+
+[^key-fd81507fa710e4a7d5d2022d9fa805dc]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2024/54/regulation/4) in force at 4.3.2024, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2024/54/regulation/1/2/a)
+
+[^key-6701c6a1f65f0bb084dc62dea813f6e8]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2024/54/regulation/5) in force at 4.3.2024, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2024/54/regulation/1/2/a)
+
+[^key-a366317e9e9012a987c8ccb53b128812]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2024/54/regulation/6) in force at 4.3.2024, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2024/54/regulation/1/2/a)
+
+[^key-405cd51bf5903d97374b41e09a65b64b]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2024/54/regulation/7) in force at 4.3.2024, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2024/54/regulation/1/2/a)
+
+[^key-908d690cab6f424cb6525235a521cfd0]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2024/54/regulation/8) in force at 4.3.2024, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2024/54/regulation/1/2/a)
+
+[^key-74f2bce985410bdc46efa3e42327f129]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2024/54/regulation/9) in force at 4.3.2024, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2024/54/regulation/1/2/a)
+
+[^key-4bace7d01e5133dc701d9185c661e085]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2024/54/regulation/10) in force at 4.3.2024, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2024/54/regulation/1/2/a)
+
+[^key-264d5eed34acca347e8e88c2122fd62a]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2024/54/regulation/11) in force at 4.3.2024, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2024/54/regulation/1/2/a)
+
+[^key-1bb571da49ae1d6abd0eef4178474eff]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2024/54/regulation/12) in force at 4.3.2024, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2024/54/regulation/1/2/a)
+
+[^key-c69bf2cb1b8948a3b9fdca456d737a2c]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2024/54/regulation/13) in force at 4.3.2024, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2024/54/regulation/1/2/a)
+
+[^f00004]: Footnote: [S.I. 2009/1804](https://www.legislation.gov.uk/uksi/2009/1804).
+
+[^key-e4c6c0768bec6a988ce27ecf9c231b84]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2024/54/regulation/14) in force at 4.3.2024, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2024/54/regulation/1/2/a)
+
+[^f00005]: Footnote: Regulation 64 was amended by [S.I. 2013/618](https://www.legislation.gov.uk/uksi/2013/618).
+
+[^key-094b4340355d5671c7cc6e1d9c254ed2]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2024/54/regulation/15) in force at 4.3.2024, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2024/54/regulation/1/2/a)
+
+[^f00006]: Footnote: Regulation 66 was amended by [S.I. 2013/618](https://www.legislation.gov.uk/uksi/2013/618), [2015/1695](https://www.legislation.gov.uk/uksi/2015/1695), [2016/340](https://www.legislation.gov.uk/uksi/2016/340) and [2016/423](https://www.legislation.gov.uk/uksi/2016/423). Other amendments have been made which are not relevant.
+
+[^key-813ab8c210260f10a146f9fb8b20bcf2]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2024/54/regulation/16) in force at 4.3.2024, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2024/54/regulation/1/2/a)
+
+[^f00007]: Footnote: Regulation 67 was amended by [S.I. 2013/618](https://www.legislation.gov.uk/uksi/2013/618), [2015/664](https://www.legislation.gov.uk/uksi/2015/664), [2016/423](https://www.legislation.gov.uk/uksi/2016/423) and [2019/1511](https://www.legislation.gov.uk/uksi/2019/1511).
+
+[^key-a3201698f4c3f0a596d41e212cfa4a75]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2024/54/regulation/17) in force at 4.3.2024, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2024/54/regulation/1/2/a)
+
+[^key-de32eefb511f40f49290347c69e43e57]: Textual amendment: Words in [reg. 17](https://www.legislation.gov.uk/uksi/2024/54/regulation/17) substituted (13.3.2025) by [The Economic Crime and Corporate Transparency Act 2023 (Commencement No. 4) Regulations 2025 (S.I. 2025/349)](https://www.legislation.gov.uk/uksi/2025/349), [reg. 5(2)(c)](https://www.legislation.gov.uk/uksi/2025/349/regulation/5/2/c)
+
+[^key-c977083dcc962b1205371dea376c0e66]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2024/54/regulation/18) in force at 4.3.2024, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2024/54/regulation/1/2/b)
+
+[^f00008]: Footnote: [S.I. 2016/339](https://www.legislation.gov.uk/uksi/2016/339). Schedule 4 has been amended but none are relevant.
+
+[^key-762db5db206a66fae313f6b5cf2f978c]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2024/54/regulation/19) in force at 4.3.2024, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2024/54/regulation/1/2/b)
+
+[^f00009]: Footnote: [S.I. 2015/1694](https://www.legislation.gov.uk/uksi/2015/1694).
+
+[^f00010]: Footnote: Schedule 2 has been amended but none are relevant.

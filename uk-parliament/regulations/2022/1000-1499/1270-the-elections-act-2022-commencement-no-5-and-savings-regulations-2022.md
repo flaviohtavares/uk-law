@@ -1,0 +1,122 @@
+---
+title: The Elections Act 2022 (Commencement No. 5 and Savings) Regulations 2022
+id: uksi/2022/1270
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2022-12-05'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2022/1270
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2022/1270/pdfs/uksi_20221270_en.pdf
+- http://www.legislation.gov.uk/uksi/2022/1270/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Elections Act 2022 (Commencement No. 5 and Savings) Regulations 2022
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2022 No. 1270 (C. 101)
+
+Representation Of The People
+
+The Elections Act 2022 (Commencement No. 5 and Savings) Regulations 2022
+
+Made
+
+5th December 2022
+
+The Secretary of State makes the following Regulations in exercise of the powers conferred by section 67(1) and (4) of the Elections Act 2022[^f00001].
+
+## 1. Citation
+
+These Regulations may be cited as the Elections Act 2022 (Commencement No. 5 and Savings) Regulations 2022.
+
+## 2. Provisions coming into force on 29th December 2022
+
+The following provisions of the Elections Act 2022 come into force on 29th December 2022—
+
+- (a) section 9 (assistance with voting for persons with disabilities), so far as not already in force;
+- (b) section 12 (local elections and Assembly elections in Northern Ireland), so far as it relates to the provisions of Schedule 6 brought into force by paragraph (c);
+- (c) the following paragraphs of Schedule 6 (local elections in Northern Ireland and elections to the Northern Ireland Assembly)—
+  - (i) paragraphs 1 and 6, so far as those paragraphs relate to the provisions brought into force by sub-paragraphs (ii) to (iv);
+  - (ii) in paragraph 12—
+    - (aa) sub-paragraph (1), so far as it relates to the provisions brought into force by paragraphs (bb) to (dd);
+    - (bb) sub-paragraph (3);
+    - (cc) sub-paragraph (4), so far as not already in force;
+    - (dd) sub-paragraph (5);
+  - (iii) in paragraph 16—
+    - (aa) sub-paragraph (1), so far as it relates to the provision brought into force by paragraph (bb);
+    - (bb) sub-paragraphs (2) and (4);
+  - (iv) paragraph 22;
+  - (v) paragraph 34(b);
+  - (vi) paragraph 35, so far as it relates to the provision brought into force by sub-paragraph (vii);
+  - (vii) paragraph 46.
+
+## 3. Savings
+
+(1) The provisions which come into force in accordance with regulation 2 do not apply to an election in respect of which the qualifying date is on or before 3rd May 2023.
+
+(2) In paragraph (1), “**qualifying date**” means the date of the poll as specified in the notice of election published in accordance with—
+
+- (a) in the case of a parliamentary election, rule 5 of Schedule 1 to RPA 1983[^f00002];
+- (b) in the case of a local election in Northern Ireland, rule 4 of Schedule 5 to the Electoral Law Act (Northern Ireland) 1962[^f00003];
+- (c) in the case of an election to the Northern Ireland Assembly, rule 5 of Schedule 1 to RPA 1983 (as applied by article 3 of, and Schedule 1 to, the Northern Ireland Assembly (Elections) Order 2001[^f00004]).
+
+Signed by authority of the Secretary of State for Levelling Up, Housing and Communities
+
+Lee Rowley
+
+Parliamentary Under Secretary of State
+
+Department for Levelling Up, Housing and Communities
+
+5th December 2022
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations are the fifth commencement regulations made under the Elections Act [2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37) (“**the Act**”).
+
+Regulation 2(a) brings into force section 9 of the Act from 29th December 2022. Section 9 makes provision that replaces the current requirement for returning officers to provide polling stations with a device for voters with sight loss with a new requirement to provide each polling station with such equipment as is reasonable to enable, or make it easier, for voters with disabilities (including, but not limited to, sight loss) to vote. Section 9 amends the criteria governing who can act in the role of ‘companion’ to a person with a disability for the purposes of voting, by enabling anyone who is aged 18 or over to act in that capacity, irrespective of their relationship to the person who is voting. Section 9 also amends the form of the declaration to be made by the companion of a voter with disabilities. Section 9 also amends section 5 of the Political Parties, Elections and Referendums Act [2000 (c. 41)](https://www.legislation.gov.uk/ukpga/2000/41) to require the Electoral Commission to include in their report on the administration of certain elections a description of the steps taken by returning officers to assist persons with disabilities to vote.
+
+Regulation 2(b) and (c) brings into force certain paragraphs of Schedule 6 to the Act which make similar provision in relation to local elections in Northern Ireland and elections to the Northern Ireland Assembly as that made by section 9 of the Act in relation to parliamentary elections.
+
+Regulation 3 provides that the amendments made by section 9 of the Act to the conduct rules for parliamentary elections in Schedule 1 to the Representation of the People Act [1983 (c. 2)](https://www.legislation.gov.uk/ukpga/1983/2), or by Schedule 6 to the Act to the conduct rules for local elections in Schedule 5 to the Electoral Law Act (Northern Ireland) [1962 (c. 14 (N.I.))](https://www.legislation.gov.uk/nia/1962/14) or to the conduct rules for elections to the Northern Ireland Assembly in Schedule 1 to the Northern Ireland Assembly (Elections) Order 2001 ([S.I. 2001/2599](https://www.legislation.gov.uk/uksi/2001/2599)) do not apply in respect of an election where the day of poll for the election is on or before 3rd May 2023.
+
+An impact assessment has been produced in relation to the Elections Act 2022 and copies can be obtained at https://bills.parliament.uk/publications/44886/documents/1304 or from the Department for Levelling Up, Housing and Communities at 2 Marsham Street, London, SW1P 4DF.
+
+NOTE AS TO EARLIER COMMENCEMENT REGULATIONS
+
+(This note is not part of the Regulations)
+
+| Provision | Date of Commencement | S.I. No. |
+| --- | --- | --- |
+| Sections 1 (partially) and 2 (partially) | 27.08.2022 | [2022/916](https://www.legislation.gov.uk/uksi/2022/916) |
+| Section 9 (partially) | 24.11.2022 | [2022/1226](https://www.legislation.gov.uk/uksi/2022/1226) |
+| Section 12 (partially) | 27.08.2022 | [2022/916](https://www.legislation.gov.uk/uksi/2022/916) |
+| Section 12 (partially) | 24.11.2022 | [2022/1226](https://www.legislation.gov.uk/uksi/2022/1226) |
+| Section 13 | 26.10.2022 | [2022/1093](https://www.legislation.gov.uk/uksi/2022/1093) |
+| Sections 16 to 19 | 19.08.2022 | [2022/908](https://www.legislation.gov.uk/uksi/2022/908) |
+| Sections 20 to 29 | 24.11.2022 | [2022/1226](https://www.legislation.gov.uk/uksi/2022/1226) |
+| In Schedule 1, paragraphs 1 (partially), 2 (partially), 3 (partially), 5 (partially), 6 (partially), 10 (partially), 11 (partially), 15 (partially), 17 (partially), 24 (partially), 30 and 32 (partially) | 27.08.2022 | [2022/916](https://www.legislation.gov.uk/uksi/2022/916) |
+| In Schedule 2, paragraphs 1 to 11 and 14 (partially) | 27.08.2022 | [2022/916](https://www.legislation.gov.uk/uksi/2022/916) |
+| In Schedule 6— |  |  |
+| paragraphs 1 (partially), 6 (partially) and 12 (partially) | 24.11.2022 | [2022/1226](https://www.legislation.gov.uk/uksi/2022/1226) |
+| paragraph 30 (partially) | 27.08.2022 | [2022/916](https://www.legislation.gov.uk/uksi/2022/916) |
+
+## Annotations
+
+[^f00001]: Footnote: [2022 c. 37](https://www.legislation.gov.uk/ukpga/2022/37).
+
+[^f00002]: Footnote: [1983 c. 2](https://www.legislation.gov.uk/ukpga/1983/2). See section 65 of the Elections Act 2022 for the meaning of “RPA 1983”. Rule 5 was amended by Part 1 of Schedule 2, paragraph 74 of Schedule 4, and Schedule 5 to the Representation of the People Act [1985 (c. 50)](https://www.legislation.gov.uk/ukpga/1985/50); by paragraphs 3 and 10 of Schedule 6 to the Representation of the People Act [2000 (c. 2)](https://www.legislation.gov.uk/ukpga/2000/2); and by section 19(1) and (3) of the Electoral Administration Act [2006 (c. 22)](https://www.legislation.gov.uk/ukpga/2006/22).
+
+[^f00003]: Footnote: [1962 c. 14 (N.I.)](https://www.legislation.gov.uk/nia/1962/14). Rule 4 was amended by [S.I. 2010/2977](https://www.legislation.gov.uk/uksi/2010/2977).
+
+[^f00004]: Footnote: [S.I. 2001/2599](https://www.legislation.gov.uk/uksi/2001/2599); relevant amending instruments are [S.I. 2009/256](https://www.legislation.gov.uk/uksi/2009/256), [2010/2892](https://www.legislation.gov.uk/uksi/2010/2892), [2015/1939](https://www.legislation.gov.uk/uksi/2015/1939).

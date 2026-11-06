@@ -1,0 +1,735 @@
+---
+title: The Environmental Assessment of Plans and Programmes Regulations 2004
+id: uksi/2004/1633
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2004-06-28'
+text_date: '2026-02-18'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2004/1633
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2004/1633/pdfs/uksiem_20041633_en.pdf
+- http://www.legislation.gov.uk/uksi/2004/1633/pdfs/uksi_20041633_en.pdf
+- http://www.legislation.gov.uk/uksi/2004/1633/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Environmental Assessment of Plans and Programmes Regulations 2004
+
+> Text as at 2026-02-18.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2004 No. 1633
+
+ENVIRONMENTAL PROTECTION
+
+The Environmental Assessment of Plans and Programmes Regulations 2004
+
+Made
+
+28th June 2004
+
+Laid before Parliament
+
+29th June 2004
+
+Coming into force
+
+20th July 2004
+
+The Secretary of State, being a designated [^c5244861] Minister for the purposes of section 2(2) of the European Communities Act 1972 [^c5244871] in relation to matters relating to the assessment of the effects of certain plans and programmes on the environment, in exercise of the powers conferred by that section 2, and of all other powers enabling him in that behalf, hereby makes the following Regulations:[^key-787f55eda3d0ad3e7573d99570f7caf6]
+
+## PART 1 — INTRODUCTORY PROVISIONS
+
+### 1. Citation and commencement
+
+These Regulations may be cited as the Environmental Assessment of Plans and Programmes Regulations 2004 and shall come into force on 20th July 2004.
+
+### 2. Interpretation
+
+(1) In these Regulations—
+
+- “**consultation body**” has the meaning given by regulation 4;
+- “coronavirus” means severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2);[^key-de6941f9b72bb5e19f779441653d9220]
+- “**England**” includes the territorial waters of the United Kingdom that are not part of Northern Ireland, Scotland or Wales, and waters in any area for the time being designated under section 17(1) of the Continental Shelf Act 1964 [^c5244881];
+- “**the Environmental Assessment of Plans and Programmes Directive**” means Directive [2001/42/EC](https://www.legislation.gov.uk/european/directive/2001/0042) [^c5244891] of the European Parliament and of the Council on the assessment of the effects of certain plans and programmes on the environment , as it had effect immediately before exit day[^key-2b7ec66bbadd4867195ff5999eb73aed];
+- “**the Habitats Directive**” means Council Directive [92/43/EEC](https://www.legislation.gov.uk/european/directive/1992/0043) on the conservation of natural habitats and of wild flora and fauna, as it had effect immediately before exit day[^key-6a845a4d1b6d1a5040def558304f2a4a];
+- “**Northern Ireland**” has the meaning given by section 98 of the Northern Ireland Act 1998 [^c5244911];
+- “**plans and programmes**” means plans and programmes, including those co-financed by the European Community, as well as any modifications to them, which—
+  - (a) are subject to preparation or adoption by an authority at national, regional or local level; or
+  - (b) are prepared by an authority for adoption, through a legislative procedure by Parliament or Government; and, in either case,
+  - (c) are required by legislative, regulatory or administrative provisions; [^key-39b37df5d18df00a40d50a8406ca9f4a]...
+- “public website” means a website accessible to the public where the public can view and download information placed upon it;
+- “**responsible authority**”, in relation to a plan or programme, means—
+  - (a) the authority by which or on whose behalf it is prepared; and
+  - (b) where, at any particular time, that authority ceases to be responsible, or solely responsible, for taking steps in relation to the plan or programme, the person who, at that time, is responsible (solely or jointly with the authority) for taking those steps;
+- “**Scotland**” has the meaning given by section 126 of the Scotland Act 1998 [^c5244921]; and
+- “**Wales**” has the meaning given by section 155 of the Government of Wales Act 1998 [^c5244931].
+
+(2) Other expressions used both in these Regulations and in the Environmental Assessment of Plans and Programmes Directive have the same meaning in these Regulations as they have in that Directive.
+
+### 3. Application of Regulations
+
+(1) With the exception of regulations 14 and 15, these Regulations apply as follows.
+
+(2) These Regulations apply to a plan or programme relating—
+
+- (a) solely to the whole or any part of England; or
+- (b) to England (whether as to the whole or part) and any other part of the United Kingdom.
+
+(3) These Regulations apply to a plan or programme relating (whether wholly or in part) to the Isles of Scilly as if the Isles were a county in England.
+
+(4) These Regulations do not apply to a plan or programme relating solely —
+
+- (a) to the whole or any part of Northern Ireland;
+- (b) to the whole or any part of Scotland; or
+- (c) to the whole or any part of Wales.
+
+### 4. Consultation bodies
+
+(1) Subject to paragraph (5), in relation to every plan or programme to which these Regulations apply, each of the following bodies shall be a consultation body—
+
+- (a) the Countryside Agency;
+- (b) the Historic Buildings and Monuments Commission for England (English Heritage);
+- (c) English Nature; and
+- (d) the Environment Agency,
+
+but where paragraph (2), (3) or (4) applies, the functions of those bodies under these Regulations shall be exercisable only in relation to so much of the plan or programme as relates to England.
+
+(2) In relation to such part of a plan or programme to which these Regulations apply as relates to Northern Ireland, the Department of the Environment for Northern Ireland shall be a consultation body for the purposes of these Regulations.
+
+(3) In relation to such part of a plan or programme to which these Regulations apply as relates to Scotland, each of the following shall be a consultation body for the purposes of these Regulations—
+
+- (a) the Scottish Ministers;
+- (b) the Scottish Environment Protection Agency; and
+- (c) Scottish Natural Heritage.
+
+(4) In relation to such part of a plan or programme to which these Regulations apply as relates to Wales, each of the following shall be a consultation body for the purposes of these Regulations—
+
+- (a) the National Assembly for Wales; and
+- (b) the Natural Resources Body for Wales[^key-a63bf2a4cb5b9cf20bec92c16effd27d].
+
+(5) Where a body mentioned in paragraph (1) is at any time the responsible authority as regards a plan or programme, it shall not at that time exercise the functions under these Regulations of a consultation body in relation to that plan or programme; and references to the consultation bodies in the following provisions of these Regulations shall be construed accordingly.
+
+## PART 2 — ENVIRONMENTAL ASSESSMENT FOR PLANS AND PROGRAMMES
+
+### 5. Environmental assessment for plans and programmes: first formal preparatory act on or after 21st July 2004
+
+(1) Subject to paragraphs (5) and (6) and regulation 7, where—
+
+- (a) the first formal preparatory act of a plan or programme is on or after 21st July 2004; and
+- (b) the plan or programme is of the description set out in either paragraph (2) or paragraph (3),
+
+the responsible authority shall carry out, or secure the carrying out of, an environmental assessment, in accordance with Part 3 of these Regulations, during the preparation of that plan or programme and before its adoption or submission to the legislative procedure.
+
+(2) The description is a plan or programme which—
+
+- (a) is prepared for agriculture, forestry, fisheries, energy, industry, transport, waste management, water management, telecommunications, tourism, town and country planning or land use, and
+- (b) sets the framework for future development consent of projects listed in Annex I or II to [Directive 2011/92/EU](https://www.legislation.gov.uk/european/directive/2011/0092)[^key-a84f3d174589df47e03ecdcd7c85aad5] of the European Parliament and of the Council on the assessment of the effects of certain public and private projects on the environment.
+
+(3) The description is a plan or programme which, in view of the likely effect on sites, has been determined to require an assessment pursuant to any law that implemented[^key-e079232b899a435cd2524783c354f42d] Article 6 or 7 of the Habitats Directive.
+
+(4) Subject to paragraph (5) and regulation 7, where—
+
+- (a) the first formal preparatory act of a plan or programme, other than a plan or programme of the description set out in paragraph (2) or (3), is on or after 21st July 2004;
+- (b) the plan or programme sets the framework for future development consent of projects; and
+- (c) the plan or programme is the subject of a determination under regulation 9(1) or a direction under regulation 10(3) that it is likely to have significant environmental effects,
+
+the responsible authority shall carry out, or secure the carrying out of, an environmental assessment, in accordance with Part 3 of these Regulations, during the preparation of that plan or programme and before its adoption or submission to the legislative procedure.
+
+(5) Nothing in paragraph (1) or (4) requires the carrying out of an environmental assessment for—
+
+- (a) a plan or programme the sole purpose of which is to serve national defence or civil emergency;
+- (aa)[^key-b8121707facffc6d9688b7625f248202] an environmental delivery plan, within the meaning of Part 3 of the Planning and Infrastructure Act 2025;
+- (b) a financial or budget plan or programme; or
+- (c) a plan or programme co-financed under—
+  - (i) the 2000-2006 programming period for Council Regulation [(EC) No. 1260/1999](https://www.legislation.gov.uk/european/regulation/1999/1260); or
+  - (ii) the 2000-2006 or 2000-2007 programming period for Council Regulation [(EC) No. 1257/1999](https://www.legislation.gov.uk/european/regulation/1999/1257).
+
+(6) An environmental assessment need not be carried out—
+
+- (a) for a plan or programme of the description set out in paragraph (2) or (3) which determines the use of a small area at local level; or
+- (b) for a minor modification to a plan or programme of the description set out in either of those paragraphs,
+
+unless it has been determined under regulation 9(1) that the plan, programme or modification, as the case may be, is likely to have significant environmental effects, or it is the subject of a direction under regulation 10(3).
+
+### 6. Environmental assessment for plans and programmes: first formal preparatory act before 21st July 2004
+
+(1) Subject to paragraph (2) and regulation 7, where—
+
+- (a) a plan or programme of which the first formal preparatory act is before 21st July 2004 has not been adopted or submitted to the legislative procedure for adoption before 22nd July 2006; and
+- (b) the plan or programme is such that, had the first act in its preparation occurred on 21st July 2004, the plan or programme would have required an environmental assessment by virtue of regulation 5(1); or
+- (c) the responsible authority is of the opinion that, if a determination under regulation 9(1) in respect of the plan or programme had been made on 21st July 2004, it would have determined that the plan or programme was likely to have significant environmental effects,
+
+the responsible authority shall carry out, or secure the carrying out of, an environmental assessment, in accordance with Part 3 of these Regulations, during the preparation of that plan or programme and before its adoption or submission to the legislative procedure.
+
+(2) Nothing in paragraph (1) shall require the environmental assessment of a particular plan or programme if the responsible authority—
+
+- (a) decides that such assessment is not feasible; and
+- (b) informs the public of its decision.
+
+### 7. Environmental assessment for plans and programmes co-financed by the European Community
+
+The environmental assessment required by any provision of this Part for a plan or programme co-financed by the European Community shall be carried out by the responsible authority in conformity with the specific provisions in relevant Community legislation.
+
+### 8. Restriction on adoption or submission of plans, programmes and modifications
+
+(1) A plan, programme or modification in respect of which a determination under regulation 9(1) is required shall not be adopted or submitted to the legislative procedure for the purpose of its adoption—
+
+- (a) where an environmental assessment is required in consequence of the determination or of a direction under regulation 10(3), before the requirements of paragraph (3) below have been met;
+- (b) in any other case, before the determination has been made under regulation 9(1).
+
+(2) A plan or programme for which an environmental assessment is required by any provision of this Part shall not be adopted or submitted to the legislative procedure for the purpose of its adoption before—
+
+- (a) if it is a plan or programme co-financed by the European Community, the environmental assessment has been carried out as mentioned in regulation 7;
+- (b) in any other case, the requirements of paragraph (3) below, and such requirements of Part 3 as apply in relation to the plan or programme, have been met.
+
+(3) The requirements of this paragraph are that account shall be taken of—
+
+- (a) the environmental report for the plan or programme;
+- (b) opinions expressed in response to the invitation referred to in regulation 13(2)(d);
+- (c) opinions expressed in response to action taken by the responsible authority in accordance with regulation 13(4); and
+- (d) the outcome of any consultations under regulation 14(4).
+
+### 9. Determinations of the responsible authority
+
+(1) The responsible authority shall determine whether or not a plan, programme or modification of a description referred to in—
+
+- (a) paragraph (4)(a) and (b) of regulation 5;
+- (b) paragraph (6)(a) of that regulation; or
+- (c) paragraph (6)(b) of that regulation,
+
+is likely to have significant environmental effects.
+
+(2) Before making a determination under paragraph (1) the responsible authority shall—
+
+- (a) take into account the criteria specified in Schedule 1 to these Regulations; and
+- (b) consult the consultation bodies.
+
+(3) Where the responsible authority determines that the plan, programme or modification is unlikely to have significant environmental effects (and, accordingly, does not require an environmental assessment), it shall prepare a statement of its reasons for the determination.
+
+### 10. Powers of the Secretary of State
+
+(1) The Secretary of State may at any time require the responsible authority to send him a copy of—
+
+- (a) any determination under paragraph (1) of regulation 9 with respect to the plan, programme or modification;
+- (b) the plan, programme or modification to which the determination relates; and
+- (c) where paragraph (3) of that regulation applies, the statement prepared in accordance with that paragraph.
+
+(2) The responsible authority shall comply with a requirement under paragraph (1) within 7 days.
+
+(3) The Secretary of State may direct that a plan, programme or modification is likely to have significant environmental effects (whether or not a copy of it has been sent to him in response to a requirement under paragraph (1)).
+
+(4) Before giving a direction under paragraph (3) the Secretary of State shall—
+
+- (a) take into account the criteria specified in Schedule 1 to these Regulations; and
+- (b) consult the consultation bodies.
+
+(5) The Secretary of State shall, as soon as reasonably practicable after the giving of the direction, send to the responsible authority and to each consultation body—
+
+- (a) a copy of the direction; and
+- (b) a statement of his reasons for giving the direction.
+
+(6) In relation to a plan, programme or modification in respect of which a direction has been given—
+
+- (a) any determination under regulation 9(1) with respect to the plan, programme or modification shall cease to have effect on the giving of the direction; and.
+- (b) if no determination has been made under regulation 9(1) with respect to the plan, programme or modification, the responsible authority shall cease to be under any duty imposed by that regulation.
+
+### 11. Publicity for determinations and directions
+
+(1) Within 28 days of making a determination under regulation 9(1), the responsible authority shall send to each consultation body—
+
+- (a) a copy of the determination; and
+- (b) where the responsible authority has determined that the plan or programme does not require an environmental assessment, a statement of its reasons for the determination.
+
+(2) The responsible authority shall—
+
+- (a)[^key-e80ca08c76f949f87f22486ce2e850cb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (aa)[^key-c634ff41ba178dde27d4a31afcc253a6] publish the determination and any accompanying statement of reasons on a public website at which the documents may be viewed and downloaded;
+- (ab) provide a copy of those documents by email to any person who requests a copy, as soon as reasonably practicable after receipt of that person’s request;
+- (ac) provide one copy of those documents by post to any person who requests a copy, as soon as reasonably practicable after receipt of that person’s request, unless it is not reasonably practicable to provide a copy by post for reasons connected to the effects of coronavirus, including restrictions on movement;
+- (ad) make available a telephone number for the public to make enquiries in relation to those documents; and
+- (b) within 28 days of the making of the determination, take such steps as it considers appropriate to bring to the attention of the public—
+  - (i) the title of the plan, programme or modification to which the determination relates;
+  - (ii) that the responsible authority has determined that the plan, programme or modification is or is not likely to have significant environmental effects (as the case may be) and, accordingly, that an environmental assessment is or is not required in respect of the plan, programme or modification; [^key-bacefc0afd4f4be769ab7428ad5e4e3a]...
+  - (iii) the address of the website[^key-495c235597d9cf3f01370ffed4d22883] the determination and any accompanying statement of reasons may be “viewed and downloaded free of charge;[^key-35c882e5e10e00fbdc9422bf3a0ca729]
+  - (iv)[^key-de18cea2db69fed145cbcf6337fcb8c9] the fact that a copy of those documents may be obtained by email from the responsible authority;
+  - (v) the fact that a copy of those documents may be obtained by post from the responsible authority, provided that it is reasonably practicable for the authority to provide a copy by post;
+  - (vi) the address, email address and telephone number for the purpose of requesting a copy of those documents, either by email or by post;
+  - (vii) whether a charge will be made for copies of those documents provided by post, and the amount of any charge; and
+  - (viii) the telephone number which can be used to contact the responsible authority for enquiries in relation to those documents.
+
+(3) Where the responsible authority receives a direction under regulation 10(3), it shall—
+
+- (a)[^key-105127ef0044295b48938732b65418c2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (aa)[^key-68be7dbc7173dd3be6f11d89e4998463] publish the direction and the Secretary of State’s statement of his reasons for giving it on a public website at which the documents may be viewed and downloaded;
+- (ab) provide a copy of those documents by email to any person who requests a copy, as soon as reasonably practicable after receipt of that person’s request;
+- (ac) provide one copy of those documents by post to any person who requests a copy, as soon as reasonably practicable after receipt of that person’s request, unless it is not reasonably practicable to provide a copy by post for reasons connected to the effects of coronavirus, including restrictions on movement;
+- (ad) make available a telephone number for the public to make enquiries in relation to those documents; and
+- (b) within 28 days of the receipt of such a direction, take such steps as it considers appropriate to bring to the attention of the public—
+  - (i) the title of the plan, programme or modification to which the direction relates;
+  - (ii) that the Secretary of State has directed that the plan, programme or modification is likely to have significant environmental effects and, accordingly, that an environmental assessment is required in respect of the plan, programme or modification; [^key-4a88a06b52fe3d78e3c6302aa8e24f08]...
+  - (iii) the address of the website[^key-f1f21c7f23028891b5dddb28a92bcef2] the direction and of the Secretary of State’s statement of his reasons for giving it may be viewed and downloaded free of charge;[^key-05fc00962818c0552d8281aa5c3a84d4]
+  - (iv)[^key-84e2d30ea42611d76ddcb14fcb7b7963] the fact that a copy of those documents may be obtained by email from the responsible authority;
+  - (v) the fact that a copy of those documents may be obtained by post from the responsible authority, provided that it is reasonably practicable for the authority to provide a copy by post;
+  - (vi) the address, email address and telephone number for the purpose of requesting a copy of those documents either by email or by post;
+  - (vii) whether a charge will be made for copies of those documents provided by post, and the amount of any charge; and
+  - (viii) the telephone number which can be used to contact the responsible authority for enquiries in relation to those documents.
+
+(4)[^key-d71f436e35ffe0183990988703455dee] Nothing in paragraphs (2)(ac) or (3)(ac) shall require the responsible authority to provide copies of—
+
+- (a) the determination and any accompanying statement of reasons; or
+- (b) the direction and of the Secretary of State’s statement of his reasons for giving it,
+
+by post free of charge, but where a charge is made that charge shall be of a reasonable amount.
+
+## PART 3 — ENVIRONMENTAL REPORTS AND CONSULTATION PROCEDURES
+
+### 12. Preparation of environmental report
+
+(1) Where an environmental assessment is required by any provision of Part 2 of these Regulations, the responsible authority shall prepare, or secure the preparation of, an environmental report in accordance with paragraphs (2) and (3) of this regulation.
+
+(2) The report shall identify, describe and evaluate the likely significant effects on the environment of—
+
+- (a) implementing the plan or programme; and
+- (b) reasonable alternatives taking into account the objectives and the geographical scope of the plan or programme.
+
+(3) The report shall include such of the information referred to in Schedule 2 to these Regulations as may reasonably be required, taking account of—
+
+- (a) current knowledge and methods of assessment;
+- (b) the contents and level of detail in the plan or programme;
+- (c) the stage of the plan or programme in the decision-making process; and
+- (d) the extent to which certain matters are more appropriately assessed at different levels in that process in order to avoid duplication of the assessment.
+
+(4) Information referred to in Schedule 2 may be provided by reference to relevant information obtained at other levels of decision-making or through other assimilated[^key-d874dbb4b6cf4858f8fff2cc3dc94226][^key-6600efb3de85e6e91ab026c50df07aa1] law.
+
+(5) When deciding on the scope and level of detail of the information that must be included in the report, the responsible authority shall consult the consultation bodies.
+
+(6) Where a consultation body wishes to respond to a consultation under paragraph (5), it shall do so within the period of 5 weeks beginning with the date on which it receives the responsible authority’s invitation to engage in the consultation.
+
+### 13. Consultation procedures
+
+(1) Every draft plan or programme for which an environmental report has been prepared in accordance with regulation 12 and its accompanying environmental report (“the relevant documents”) shall be made available for the purposes of consultation in accordance with the following provisions of this regulation.
+
+(2) As soon as reasonably practicable after the preparation of the relevant documents, the responsible authority shall—
+
+- (a) send a copy of those documents to each consultation body;
+- (b) take such steps as it considers appropriate to bring the preparation of the relevant documents to the attention of the persons who, in the authority’s opinion, are affected or likely to be affected by, or have an interest in the decisions involved in the assessment and adoption of the plan or programme concerned, required under the Environmental Assessment of Plans and Programmes Directive (“the public consultees”);
+- (c)[^key-a64099b8eecf47f9d7800850d4d5bc72] inform the public consultees of—
+  - (i) the address of the website at which the relevant documents may be viewed and downloaded free of charge;
+  - (ii) the fact that a copy of the relevant documents may be obtained by email from the responsible authority;
+  - (iii) the fact that a copy of the relevant documents may be obtained by post from the responsible authority, provided that it is reasonably practicable for the authority to provide a copy by post;
+  - (iv) the address, email address and telephone number for the purpose of requesting a copy of the relevant documents either by email or by post;
+  - (v) whether a charge will be made for copies of the relevant documents provided by post and the amount of any charge; and
+  - (vi) the telephone number which can be used to contact the responsible authority for enquiries in relation to the relevant documents;
+- (d) invite the consultation bodies and the public consultees to express their opinion on the relevant documents, specifying the address to which, and the period within which, opinions must be sent.
+
+(3) The period referred to in paragraph (2)(d) must be of such length as will ensure that the consultation bodies and the public consultees are given an effective opportunity to express their opinion on the relevant documents.
+
+(4)[^key-dbddfc37dff11b74acf02950b15a58d3] The responsible authority shall—
+
+- (a) publish the relevant documents on a public website at which the relevant documents may be viewed and downloaded free of charge;
+- (b) provide a copy of the relevant documents by email to any person who requests a copy, as soon as reasonably practicable after receipt of that person’s request;
+- (c) provide one copy of the relevant documents by post to any person who requests a copy, as soon as reasonably practicable after receipt of that person’s request, unless it is not reasonably practicable to provide a copy by post for reasons connected to the effects of coronavirus, including restrictions on movement; and
+- (d) make available a telephone number for the public to make enquiries in relation to the relevant documents.
+
+(5) Nothing in paragraph (4)(c)[^key-c7ab5103388163a6890747051f12b84d] shall require the responsible authority to provide copies of the relevant documents by post[^key-61f7339def6f46e60931481157c3d4b5] free of charge; but where a charge is made, it shall be of a reasonable amount.
+
+### 14. Transboundary consultations
+
+(1) Where a responsible authority, other than the Secretary of State, is of the opinion that a plan or programme for which it is the responsible authority is likely to have significant effects on the environment of a[^key-4df097e9208e700321f0c4837009aa2a] Member State, it shall, as soon as reasonably practicable after forming that opinion—
+
+- (a) notify the Secretary of State of its opinion and of the reasons for it; and
+- (b) supply the Secretary of State with a copy of the plan or programme concerned, and of the accompanying environmental report.
+
+(2) Where the Secretary of State has been notified under paragraph (1)(a), the responsible authority shall, within such period as the Secretary of State may specify by notice in writing to the authority, provide the Secretary of State with such other information about the plan or programme or its accompanying environmental report as he may reasonably require.
+
+(3) Where—
+
+- (a) the Secretary of State, whether in consequence of a notice under paragraph (1)(a) or otherwise, considers that the implementation of a plan or programme in any part of the United Kingdom is likely to have significant effects on the environment of a[^key-fb892d0e059570854d54c0bc69aa0757] Member State); or
+- (b) a Member State that is likely to be significantly affected by the implementation of a plan or programme so requests,
+
+the Secretary of State shall, before the adoption of the plan or programme or its submission to the legislative procedure for adoption, forward a copy of it and of its accompanying environmental report to the Member State concerned.
+
+(4) Where the Secretary of State receives from a Member State an indication that it wishes to enter into consultations before the adoption, or submission to the legislative procedure for adoption, of a plan or programme forwarded to it in accordance with paragraph (3), the Secretary of State shall—
+
+- (a) agree with the Member State—
+  - (i) detailed arrangements to ensure that the authorities referred to in paragraph 3 of Article 6 of the Environmental Assessment of Plans and Programmes Directive and the public referred to in paragraph 4 of that Article in the Member State likely to be significantly affected are informed and given an opportunity to forward their opinion within a reasonable time; and
+  - (ii) a reasonable time for the duration of the consultations;
+- (b) enter into consultations with the Member State concerning—
+  - (i) the likely transboundary environmental effects of implementing the plan or programme; and
+  - (ii) the measures envisaged to reduce or eliminate such effects; and
+- (c) where he is not the responsible authority, direct the responsible authority that it shall not adopt the plan or programme, or submit it to the legislative procedure for adoption, until the consultations with the Member State have been concluded.
+
+(5) Where consultations take place pursuant to paragraph (4), the Secretary of State shall—
+
+- (a) as soon as reasonably practicable after those consultations begin, notify the consultation bodies of that fact; and
+- (b) notify the consultation bodies and, where he is not the responsible authority, the responsible authority, of the outcome of the consultations.
+
+### 15. Plans and programmes of ... Member States[^key-6471de543c6a832653bf325efe1c14a8]
+
+(1) This regulation applies where the Secretary of State receives from a Member State (whether or not in response to a request made by the United Kingdom [^key-fc7d37ddab79132b3d375d88bf4a9464]...) a copy of a draft plan or programme—
+
+- (a) that is being prepared in relation to any part of that Member State; and
+- (b) whose implementation is likely to have significant effects on the environment of any part of the United Kingdom.
+
+(2) The Secretary of State shall indicate to the Member State whether, before the adoption of the plan or programme or its submission to the legislative procedure for adoption, the United Kingdom wishes to enter into consultations in respect of that plan or programme concerning—
+
+- (a) the likely transboundary environmental effects of implementing the plan or programme; and
+- (b) the measures envisaged to reduce or eliminate such effects.
+
+(3) Where the Secretary of State so indicates, he shall agree with the Member State concerned—
+
+- (a) detailed arrangements to ensure that the consultation bodies and the public in the United Kingdom or, as the case may be, the part of the United Kingdom that is likely to be significantly affected by the implementation of the plan or programme, are informed and given an opportunity to forward their opinion within a reasonable time; and
+- (b) a reasonable time for the duration of the consultations.
+
+(4) Where such consultations take place under this regulation, the Secretary of State shall—
+
+- (a) inform the consultation bodies of the receipt of the draft plan or programme;
+- (aa)[^key-0a60b289e2f10cd37ac47d4525dcddb8] publish the draft plan or programme and the relevant environmental report provided by the Member State (“the relevant transboundary documents”) on a public website at which the documents may be viewed and downloaded free of charge;
+- (ab) provide a copy of the relevant transboundary documents by email to any person who requests a copy, as soon as reasonably practicable after receipt of that person’s request;
+- (ac) provide one copy of the relevant transboundary documents by post to any person who requests a copy, as soon as reasonably practicable after receipt of that person’s request, unless it is not reasonably practicable for the Secretary of State to provide a copy by post for reasons connected to the effects of coronavirus, including restrictions on movement;
+- (ad) make available a telephone number for the public to make enquiries in relation to the relevant transboundary documents;
+- (b) provide the consultation bodies[^key-ec9e806f9dbe292ab5581b69e09085b3] with a copy of the draft plan or programme and the relevant environmental report provided by the Member State[^key-3895a72cc8051e1f844073eb223747f2] or specify the address of the public website at which those documents may be viewed and downloaded free of charge[^key-788618882a88c4de583905a3506a16b4];
+- (c) take such steps as he considers appropriate to bring the receipt of the draft plan or programme to the attention of such persons as, in his opinion, are affected or likely to be affected by, or have an interest in the decisions involved in the assessment and adoption of the plan or programme concerned, required under the Environmental Assessment of Plans and Programmes Directive (“the transboundary consultees”);
+- (d) inform the transboundary consultees of the address of the public website[^key-2350355330aa0a15a8f50086bf364042] at which a copy of the draft plan or programme and the relevant environmental report provided by the Member State[^key-f557e97d041637ad6189253ef66ca65d] may be viewed and downloaded free of charge[^key-800cca621fb4f8bd50b9d9409a4ae897]; [^key-3de16888730d8dc03fbfb53746bc34c4]...
+- (da)[^key-d4dc37b9893ace7629b4f6a9cf3cc793] inform the transboundary consultees of—
+  - (i) the fact that a copy of the relevant transboundary documents may be obtained by email from the Secretary of State;
+  - (ii) the fact that a copy of the relevant transboundary documents may be obtained by post from the Secretary of State, provided that it is reasonably practicable for the Secretary of State to provide a copy by post;
+  - (iii) the address, email address and telephone number for the purpose of requesting a copy of the relevant transboundary documents either by email or by post, and;
+  - (iv) whether a charge will be made for copies of the relevant transboundary documents provided by post, and the amount of any charge; and
+  - (v) the telephone number which can be used to contact the responsible authority for enquiries in relation to the relevant transboundary documents; and
+- (e) invite the consultation bodies and the transboundary consultees to forward to him their opinions within such period as he may specify.
+
+(5) The period specified under paragraph (4)(e) shall end not later than 28 days before the end of the period that the Secretary of State has agreed with the Member State concerned, pursuant to paragraph (3)(b), as reasonable for the duration of their consultations.
+
+(6) Nothing in paragraph (4)(ac)[^key-96614e2f737c6187ff31e7d97e668ff8] shall require the Secretary of State to provide copies of the relevant transboundary documents by post[^key-fb447f0822b8235a6aed00ee8c8b8f7b] free of charge; but where a charge is made, it shall be of a reasonable amount.
+
+## PART 4 — POST-ADOPTION PROCEDURES
+
+### 16. Information as to adoption of plan or programme
+
+(1) As soon as reasonably practicable after the adoption of a plan or programme for which an environmental assessment has been carried out under these Regulations, the responsible authority shall—
+
+- (a)[^key-2235c80a9d68fa4bbd89b99108de324a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (aa)[^key-97f38a7d0f076f5fa1a4afe85d392da3] publish the plan or programme, as adopted, its accompanying environmental report and a statement containing the particulars specified in paragraph (4) (“the relevant adoption documents”) on a public website at which the documents may be viewed and downloaded free of charge;
+- (ab) provide a copy of the relevant adoption documents by email to any person who requests a copy, as soon as reasonably practicable after receipt of that person’s request;
+- (ac) provide one copy of the relevant adoption documents by post to any person who requests a copy, as soon as reasonably practicable after receipt of that person’s request, unless it is not reasonably practicable to provide a copy by post for reasons connected to the effects of coronavirus, including restrictions on movement;
+- (ad) make available a telephone number for the public to make enquiries in relation to the relevant adoption documents; and
+- (b) take such steps as it considers appropriate to bring to the attention of the public—
+  - (i) the title of the plan or programme;
+  - (ii) the date on which it was adopted;
+  - (iii)[^key-8af27a1da9e5599d2a805d9c94ca7e6a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (iv)[^key-8af27a1da9e5599d2a805d9c94ca7e6a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (v)[^key-8af27a1da9e5599d2a805d9c94ca7e6a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (vi)[^key-8e51ff769d543a659a1d3b20c77a5318] the address of the website at which the relevant adoption documents may be viewed and downloaded free of charge;
+  - (vii) the fact that a copy of the relevant adoption documents may be obtained by email from the responsible authority;
+  - (viii) the fact that a copy of the relevant adoption documents may be obtained by post from the responsible authority, provided that it is reasonably practicable for the authority to provide a copy by post;
+  - (ix) the address, email address and telephone number for the purpose of requesting a copy of the relevant adoption documents either by email or by post;
+  - (x) whether a charge will be made for copies of the relevant adoption documents provided by post, and the amount of any charge; and
+  - (xi) a telephone number which can be used to contact the responsible authority for enquiries in relation to the relevant adoption documents.
+
+(2) As soon as reasonably practicable after the adoption of a plan or programme—
+
+- (a) the responsible authority shall inform—
+  - (i) the consultation bodies;
+  - (ii) the persons who, in relation to the plan or programme, were public consultees for the purposes of regulation 13; and
+  - (iii) where the responsible authority is not the Secretary of State, the Secretary of State; and
+- (b) the Secretary of State shall inform the Member State with which consultations in relation to the plan or programme have taken place under regulation 14(4),
+
+of the matters referred to in paragraph (3).
+
+(3) The matters are—
+
+- (a) that the plan or programme has been adopted;
+- (b) the date on which it was adopted; and
+- (c)[^key-b12db9c0b6ad25e928a6198df4ba253c] the address of the website at which a copy of—
+  - (i) the plan or programme, as adopted;
+  - (ii) its accompanying environmental report; and
+  - (iii) a statement containing the particulars specified in paragraph (4),
+
+  may be viewed, or from which a copy may be obtained;
+- (d) the fact that a copy of the relevant adoption documents may be obtained by email from the responsible authority;
+- (e) the fact that a copy of the relevant adoption documents may be obtained by post, provided that it is reasonably practicable for the responsible authority to provide a copy by post;
+- (f) the address, email address and telephone number for the purpose of requesting a copy of the relevant adoption documents either by email or by post;
+- (g) whether a charge will be made for copies of the relevant adoption documents provided by post, and the amount of any charge; and
+- (h) a telephone number which can be used to contact the responsible authority for enquiries in relation to the relevant adoption documents.
+
+(4) The particulars referred to in paragraphs (1)(b)(vi)[^key-eae5280fb0a48ad749cdce2059eea434] and (3)(c)(iii) are —
+
+- (a) how environmental considerations have been integrated into the plan or programme;
+- (b) how the environmental report has been taken into account;
+- (c) how opinions expressed in response to—
+  - (i) the invitation referred to in regulation 13(2)(d);
+  - (ii) action taken by the responsible authority in accordance with regulation 13(4),
+
+  have been taken into account;
+- (d) how the results of any consultations entered into under regulation 14(4) have been taken into account;
+- (e) the reasons for choosing the plan or programme as adopted, in the light of the other reasonable alternatives dealt with; and
+- (f) the measures that are to be taken to monitor the significant environmental effects of the implementation of the plan or programme.
+
+(5)[^key-3b5f598a292d5a4c813c21e985607779] Nothing in paragraph (1)(ac) shall require the responsible authority to provide copies of the relevant adoption documents by post free of charge, but where a charge is made, that charge shall be of a reasonable amount.
+
+### 17. Monitoring of implementation of plans and programmes
+
+(1) The responsible authority shall monitor the significant environmental effects of the implementation of each plan or programme with the purpose of identifying unforeseen adverse effects at an early stage and being able to undertake appropriate remedial action.
+
+(2) The responsible authority’s monitoring arrangements may comprise or include arrangements established otherwise than for the express purpose of complying with paragraph (1).
+
+### 18. Coronavirus: temporary modification of public inspection requirements[^key-5672892db4f73c094983333dfbc45c8c]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Signed by authority of one of Her Majesty’s Principal Secretaries of State
+
+Keith Hill
+
+Minister of State, Office of the Deputy Prime Minister
+
+## SCHEDULE 1 — CRITERIA FOR DETERMINING THE LIKELY SIGNIFICANCE OF EFFECTS ON THE ENVIRONMENT
+
+Regulations 9(2)(a) and 10(4)(a)
+
+**1.** The characteristics of plans and programmes, having regard, in particular, to—
+
+- (a) the degree to which the plan or programme sets a framework for projects and other activities, either with regard to the location, nature, size and operating conditions or by allocating resources;
+- (b) the degree to which the plan or programme influences other plans and programmes including those in a hierarchy;
+- (c) the relevance of the plan or programme for the integration of environmental considerations in particular with a view to promoting sustainable development;
+- (d) environmental problems relevant to the plan or programme; and
+- (e) the relevance of the plan or programme for the implementation of assimilated[^key-ebf88c581d8c34a35662f3deb0372a25][^key-e252af2fa0afa1da379059e36994b783] law on the environment (for example, plans and programmes linked to waste management or water protection).
+
+**2.** Characteristics of the effects and of the area likely to be affected, having regard, in particular, to—
+
+- (a) the probability, duration, frequency and reversibility of the effects;
+- (b) the cumulative nature of the effects;
+- (c) the transboundary nature of the effects;
+- (d) the risks to human health or the environment (for example, due to accidents);
+- (e) the magnitude and spatial extent of the effects (geographical area and size of the population likely to be affected);
+- (f) the value and vulnerability of the area likely to be affected due to—
+  - (i) special natural characteristics or cultural heritage;
+  - (ii) exceeded environmental quality standards or limit values; or
+  - (iii) intensive land-use; and
+- (g) the effects on areas or landscapes which have a recognised national, Community or international protection status.
+
+## SCHEDULE 2 — INFORMATION FOR ENVIRONMENTAL REPORTS
+
+Regulation 12(3)
+
+**1.** An outline of the contents and main objectives of the plan or programme, and of its relationship with other relevant plans and programmes.
+
+**2.** The relevant aspects of the current state of the environment and the likely evolution thereof without implementation of the plan or programme.
+
+**3.** The environmental characteristics of areas likely to be significantly affected.
+
+**4.** Any existing environmental problems which are relevant to the plan or programme including, in particular, those relating to any areas of a particular environmental importance, such as a European site (within the meaning of regulation 8 of the Conservation of Habitats and Species Regulations 2017)[^key-52ef5c7eead490e649a29a3d0c355b35].
+
+**5.** The environmental protection objectives, established at international, Community or national[^key-c3d869393fa2c8da5f7cc02fbdd88acd] level, which are relevant to the plan or programme and the way those objectives and any environmental considerations have been taken into account during its preparation.
+
+**6.** The likely significant effects on the environment, including short, medium and long-term effects, permanent and temporary effects, positive and negative effects, and secondary, cumulative and synergistic effects, on issues such as—
+
+- (a) biodiversity;
+- (b) population;
+- (c) human health;
+- (d) fauna;
+- (e) flora;
+- (f) soil;
+- (g) water;
+- (h) air;
+- (i) climatic factors;
+- (j) material assets;
+- (k) cultural heritage, including architectural and archaeological heritage;
+- (l) landscape; and
+- (m) the inter-relationship between the issues referred to in sub-paragraphs (a) to (l).
+
+**7.** The measures envisaged to prevent, reduce and as fully as possible offset any significant adverse effects on the environment of implementing the plan or programme.
+
+**8.** An outline of the reasons for selecting the alternatives dealt with, and a description of how the assessment was undertaken including any difficulties (such as technical deficiencies or lack of know-how) encountered in compiling the required information.
+
+**9.** A description of the measures envisaged concerning monitoring in accordance with regulation 17.
+
+**10.** A non-technical summary of the information provided under paragraphs 1 to 9.
+
+*(This note is not part of the Regulations)*
+
+These Regulations implement Directive [2001/42/EC](https://www.legislation.gov.uk/european/directive/2001/0042) of the European Parliament and Council on the assessment of the effects of certain plans and programmes on the environment (“**the Directive**”), as regards plans and programmes relating solely to any part of England. For this purpose, England is treated as including any territorial waters of the United Kingdom that are not within Northern Ireland, Scotland or Wales, and waters in areas for the time being designated under the Continental Shelf Act 1964.
+
+The Regulations also implement the Directive as regards plans and programmes relating to England and any other part of the United Kingdom. They do not apply to plans and programmes relating exclusively to Northern Ireland, Scotland or Wales, for which separate provision implementing the Directive is to be made.
+
+The Directive and, accordingly, these Regulations, do not apply to plans and programmes whose sole purpose is to serve national defence or civil emergency, or to financial or budget plans and programmes. Nor do they apply to a plan or programme co-financed by the European Community under the 2000-2006 programming period for Council Regulation [(EC) No. 1260/1999](https://www.legislation.gov.uk/european/regulation/1999/1260) or the 2000-2006 or 2000-2007 programming period for Council Regulation [(EC) No. 1257/1999](https://www.legislation.gov.uk/european/regulation/1999/1257) (regulation 5(5); Article 3.8 and 3.9 of the Directive).
+
+The Regulations apply to certain plans and programmes, including those co-financed by the European Community, and any modifications to them, which are required by legislative, regulatory or administrative provisions and are either—
+
+- (a) subject to preparation or adoption by an authority at national, regional or local level; or
+- (b) prepared by an authority for adoption, through a legislative procedure by Parliament or Government.
+
+Subject to the exceptions mentioned below, where the first formal preparatory act in relation to a plan or programme to which the Regulations apply is on or after 21 July 2004, the plan or programme cannot be adopted, or submitted for adoption, unless it has been subjected to environmental assessment under the Regulations (regulations 5(1) and 7; Articles 4.1 and 13.3 of the Directive).
+
+The requirement for environmental assessment applies, in particular, to any plan or programme prepared for agriculture, forestry, fisheries, energy, industry, transport, waste management, water management, telecommunications, tourism, town and country planning or land use, which sets the framework for future development consent of projects listed in Annex I or II to Council Directive [85/337/EEC](https://www.legislation.gov.uk/european/directive/1985/0337) on the assessment of the effects of certain public and private projects on the environment, as amended by Council Directive [97/11/EC](https://www.legislation.gov.uk/european/directive/1997/0011); and to any plan or programme which, in view of the likely effect on sites, has been determined to require an assessment pursuant to Article 6 or 7 of Council Directive [92/43/EEC](https://www.legislation.gov.uk/european/directive/1992/0043) on the conservation of natural habitats and of wild flora and fauna, as last amended by Council Directive [97/62/EC](https://www.legislation.gov.uk/european/directive/1997/0062) (regulation 5(1) to (3); Article 3.2 of the Directive).
+
+There are exceptions for plans and programmes that determine the use of a small area at local level, and for minor modifications, if the authority responsible for preparing the plan or programme (referred to in the Regulations as the “**responsible authority**”) has determined under regulation 9(1) that the plan or programme is unlikely to have significant environmental effects (regulation 5(6); Article 3.3 of the Directive). The responsible authority’s determination may, however, cease to have effect if the Secretary of State gives a direction under regulation 10(3).
+
+The requirement for environmental assessment also applies to other plans and programmes which set the framework for future development consent of projects if they are the subject of a determination under regulation 9(1) that the plan or programme is likely to have significant environmental effects (regulation 5(4); Article 3.4 of the Directive). The responsible authority’s determination may, however, cease to have effect if the Secretary of State gives a direction under regulation 10(3).
+
+The requirement for environmental assessment under the Regulations may also apply where a plan or programme in relation to which the first formal preparatory act occurred before 21 July 2004 has not been adopted before 22 July 2006. If an environmental assessment would have been required if the first formal preparatory act had occurred on 21 July 2004, the plan or programme must be subjected to environmental assessment unless the responsible authority directs that that is not feasible and informs the public to that effect (regulation 6; Articles 4.1 and 13.3 of the Directive).
+
+Regulation 7 makes provision for environmental assessment of plans and programmes co-financed by the European Community (other than those excepted by Article 3.9 of the Directive) to be carried out in conformity with the specific provisions in relevant Community legislation (Article 11.3 of the Directive).
+
+Regulation 8 prevents the adoption, or submission for adoption, of a plan or programme for which an environmental assessment is required under these Regulations, before the completion of that assessment. An environmental assessment is not complete until account has been taken of the environmental report for that plan or programme and the opinions expressed in the course of the consultations required by regulation 13, and the outcome of any transboundary consultations under regulation 14(4) (Article 8 of the Directive). Regulation 8 also prevents the adoption, or submission for adoption, of a plan or programme before the responsible authority has determined whether the plan or programme is likely to have significant environmental effects.
+
+Regulation 9 deals with the making of determinations by the responsible authority as to whether a plan or programme is likely to have significant environmental effects. The criteria to be applied are set out in Schedule 1 to the Regulations (Article 3.5 of, and Annex II to, the Directive). Determinations cannot be made unless the responsible authority has consulted designated bodies (“the consultation bodies”).
+
+Regulation 4 deals with the designation of the consultation bodies (Article 6.3 of the Directive). In the case of every plan and programme to which the Regulations apply, the consultation bodies will consist of, or include, the Countryside Agency, English Heritage, English Nature and the Environment Agency. In respect of the part of a plan or programme to which the Regulations apply that relates to any part of Northern Ireland, the Department of the Environment for Northern Ireland will also be a consultation body. In respect of the part of a plan or programme to which the Regulations apply that relates to any part of Scotland, the Scottish Ministers, the Scottish Environment Protection Agency and Scottish Natural Heritage will also be consultation bodies. In respect of the part of a plan or programme to which the Regulations apply that relates to any part of Wales, the National Assembly for Wales and the Countryside Council for Wales will also be consultation bodies.
+
+Regulation 10 enables the Secretary of State to require a responsible authority to provide him with relevant documents. It also enables him to direct that a particular plan or programme is likely to have significant environmental effects. In the latter case, any determination to the contrary made under regulation 9(1) by a responsible authority ceases to have effect. If a responsible authority has not made any determination under that provision, the Secretary of State’s direction relieves it of the duty to do so.
+
+Regulation 11 requires the publication of determinations under regulation 9 (Article 3.7 of the Directive) and directions under regulation 10.
+
+Environmental assessment under the Regulations includes the preparation of an environmental report (regulation 12; Article 5 of the Directive). The matters to be included in the environmental report are specified in Schedule 2 to the Regulations (Article 5.1 of, and Annex I to, the Directive).
+
+Regulation 13 specifies the consultation procedures that must be undertaken in relation to a draft plan or programme for which an environmental report has been prepared under these Regulations (Articles 5.4 and 6 of the Directive).
+
+Regulation 14 deals with transboundary consultations and includes procedures for consultations in relation to those draft plans and programmes prepared in the United Kingdom that are likely to have significant effects on the environment in other Member States (Article 7 of the Directive).
+
+Regulation 15 applies in relation to those draft plans and programmes prepared in another Member State that are likely to have significant effects on the environment in any part of the United Kingdom (Article 7 of the Directive). Where the Secretary of State receives a draft plan or programme from another Member State he must indicate to that Member State whether the United Kingdom wishes to enter into consultations in respect of that plan or programme concerning—
+
+- (a) the likely transboundary environmental effects of implementing the plan or programme; and
+- (b) the measures envisaged to reduce or eliminate such effects.
+
+Regulation 16 in Part 4 deals with procedures after the adoption of a plan or programme that has been the subject of an environmental assessment under the Regulations. It requires the person who prepared the plan or programme to give notice of its adoption and to make it and other specified information available for inspection (Article 9 of the Directive).
+
+Regulation 17 is relevant to the monitoring of the significant environmental effects of implementing plans and programmes (Article 10 of the Directive). It requires the person by whom the plan or programme was prepared to monitor with a view to identifying, at an early stage, unforeseen adverse effects, and being able to undertake appropriate remedial action.
+
+A Regulatory Impact Assessment has been prepared in connection with these Regulations. A copy may be obtained from the Office of the Deputy Prime Minister, Zone D1, Eland House, Bressenden Place, London, SW1E 5DU (Tel: 0207 944 3894 or 5879) or accessed at www.odpm.gov.uk
+
+## Annotations
+
+[^c5244861]: Marginal citation: [S.I. 2004/706](https://www.legislation.gov.uk/uksi/2004/706).
+
+[^c5244871]: Marginal citation: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68).
+
+[^key-787f55eda3d0ad3e7573d99570f7caf6]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2004/1633) power to amend or revoke conferred (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 164(3)](https://www.legislation.gov.uk/ukpga/2023/55/section/164/3), [255(5)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/5), [Sch. 14 Pt. 1](https://www.legislation.gov.uk/ukpga/2023/55/schedule/14/part/1) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
+
+[^key-de6941f9b72bb5e19f779441653d9220]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2004/1633/regulation/2/1) inserted (31.12.2020 immediately before 11 p.m.) by [The Environmental Assessment of Plans and Programmes (Amendment) Regulations 2020 (S.I. 2020/1531)](https://www.legislation.gov.uk/uksi/2020/1531), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1531/regulation/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2020/1531/regulation/3/2)
+
+[^c5244881]: Marginal citation: [1964 c. 29](https://www.legislation.gov.uk/ukpga/1964/29).
+
+[^c5244891]: Marginal citation: O.J. No. L 197, 21.07.2001, p.30.
+
+[^key-2b7ec66bbadd4867195ff5999eb73aed]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2004/1633/regulation/2/1) added (31.12.2020) by [The Environmental Assessments and Miscellaneous Planning (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1232)](https://www.legislation.gov.uk/uksi/2018/1232), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1232/regulation/1/2), [5(2)(a)](https://www.legislation.gov.uk/uksi/2018/1232/regulation/5/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-6a845a4d1b6d1a5040def558304f2a4a]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2004/1633/regulation/2/1) substituted (31.12.2020) by [The Environmental Assessments and Miscellaneous Planning (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1232)](https://www.legislation.gov.uk/uksi/2018/1232), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1232/regulation/1/2), [5(2)(b)](https://www.legislation.gov.uk/uksi/2018/1232/regulation/5/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c5244911]: Marginal citation: [1998 c. 47](https://www.legislation.gov.uk/ukpga/1998/47). See also the orders made under section 98.
+
+[^key-39b37df5d18df00a40d50a8406ca9f4a]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2004/1633/regulation/2/1) omitted (31.12.2020 immediately before 11 p.m.) by virtue of [The Environmental Assessment of Plans and Programmes (Amendment) Regulations 2020 (S.I. 2020/1531)](https://www.legislation.gov.uk/uksi/2020/1531), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1531/regulation/1/2), [3(1)](https://www.legislation.gov.uk/uksi/2020/1531/regulation/3/1)
+
+[^c5244921]: Marginal citation: [1998 c. 46](https://www.legislation.gov.uk/ukpga/1998/46). See also the orders made under section 126.
+
+[^c5244931]: Marginal citation: [1998 c. 38](https://www.legislation.gov.uk/ukpga/1998/38). See also the orders made under section 155.
+
+[^key-a63bf2a4cb5b9cf20bec92c16effd27d]: Textual amendment: Words in [reg. 4(4)(b)](https://www.legislation.gov.uk/uksi/2004/1633/regulation/4/4/b) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 189](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/189) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+
+[^key-a84f3d174589df47e03ecdcd7c85aad5]: Textual amendment: Words in reg. 5(2)(b) substituted (31.12.2018) by [The Environmental Assessments and Miscellaneous Planning (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1232)](https://www.legislation.gov.uk/uksi/2018/1232), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1232/regulation/1/3), [5(3)(a)](https://www.legislation.gov.uk/uksi/2018/1232/regulation/5/3/a)
+
+[^key-e079232b899a435cd2524783c354f42d]: Textual amendment: Words in reg. 5(3) inserted (31.12.2020) by [The Environmental Assessments and Miscellaneous Planning (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1232)](https://www.legislation.gov.uk/uksi/2018/1232), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1232/regulation/1/2), [5(3)(b)](https://www.legislation.gov.uk/uksi/2018/1232/regulation/5/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-b8121707facffc6d9688b7625f248202]: Textual amendment: Reg. 5(5)(aa) inserted (18.2.2026) by [Planning and Infrastructure Act 2025 (c. 34)](https://www.legislation.gov.uk/ukpga/2025/34), [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3), [Sch. 5 para. 46](https://www.legislation.gov.uk/ukpga/2025/34/schedule/5/paragraph/46) (with [s. 116](https://www.legislation.gov.uk/ukpga/2025/34/section/116)); [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [reg. 4(1)(l)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/1/l)[(3)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/3)
+
+[^key-e80ca08c76f949f87f22486ce2e850cb]: Textual amendment: [Reg. 11(2)(a)](https://www.legislation.gov.uk/uksi/2004/1633/regulation/11/2/a) omitted (31.12.2020 immediately before 11 p.m.) by virtue of [The Environmental Assessment of Plans and Programmes (Amendment) Regulations 2020 (S.I. 2020/1531)](https://www.legislation.gov.uk/uksi/2020/1531), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1531/regulation/1/2), [4(2)(a)](https://www.legislation.gov.uk/uksi/2020/1531/regulation/4/2/a)
+
+[^key-c634ff41ba178dde27d4a31afcc253a6]: Textual amendment: [Reg. 11(2)(aa)-(ad)](https://www.legislation.gov.uk/uksi/2004/1633/regulation/11/2/aa) inserted (31.12.2020 immediately before 11 p.m.) by [The Environmental Assessment of Plans and Programmes (Amendment) Regulations 2020 (S.I. 2020/1531)](https://www.legislation.gov.uk/uksi/2020/1531), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1531/regulation/1/2), [4(2)(b)](https://www.legislation.gov.uk/uksi/2020/1531/regulation/4/2/b)
+
+[^key-bacefc0afd4f4be769ab7428ad5e4e3a]: Textual amendment: Word in [reg. 11(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2004/1633/regulation/11/2/b/ii) omitted (31.12.2020 immediately before 11 p.m.) by virtue of [The Environmental Assessment of Plans and Programmes (Amendment) Regulations 2020 (S.I. 2020/1531)](https://www.legislation.gov.uk/uksi/2020/1531), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1531/regulation/1/2), [4(2)(c)](https://www.legislation.gov.uk/uksi/2020/1531/regulation/4/2/c)
+
+[^key-495c235597d9cf3f01370ffed4d22883]: Textual amendment: Words in [reg. 11(2)(b)(iii)](https://www.legislation.gov.uk/uksi/2004/1633/regulation/11/2/b/iii) substituted (31.12.2020 immediately before 11 p.m.) by [The Environmental Assessment of Plans and Programmes (Amendment) Regulations 2020 (S.I. 2020/1531)](https://www.legislation.gov.uk/uksi/2020/1531), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1531/regulation/1/2), [4(2)(d)(i)](https://www.legislation.gov.uk/uksi/2020/1531/regulation/4/2/d/i)
+
+[^key-35c882e5e10e00fbdc9422bf3a0ca729]: Textual amendment: Words in [reg. 11(2)(b)(iii)](https://www.legislation.gov.uk/uksi/2004/1633/regulation/11/2/b/iii) substituted (31.12.2020 immediately before 11 p.m.) by [The Environmental Assessment of Plans and Programmes (Amendment) Regulations 2020 (S.I. 2020/1531)](https://www.legislation.gov.uk/uksi/2020/1531), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1531/regulation/1/2), [4(2)(d)(ii)](https://www.legislation.gov.uk/uksi/2020/1531/regulation/4/2/d/ii)
+
+[^key-de18cea2db69fed145cbcf6337fcb8c9]: Textual amendment: [Reg. 11(2)(b)(iv)-(viii)](https://www.legislation.gov.uk/uksi/2004/1633/regulation/11/2/b/iv) inserted (31.12.2020 immediately before 11 p.m.) by [The Environmental Assessment of Plans and Programmes (Amendment) Regulations 2020 (S.I. 2020/1531)](https://www.legislation.gov.uk/uksi/2020/1531), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1531/regulation/1/2), [4(2)(e)](https://www.legislation.gov.uk/uksi/2020/1531/regulation/4/2/e)
+
+[^key-105127ef0044295b48938732b65418c2]: Textual amendment: [Reg. 11(3)(a)](https://www.legislation.gov.uk/uksi/2004/1633/regulation/11/3/a) omitted (31.12.2020 immediately before 11 p.m.) by virtue of [The Environmental Assessment of Plans and Programmes (Amendment) Regulations 2020 (S.I. 2020/1531)](https://www.legislation.gov.uk/uksi/2020/1531), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1531/regulation/1/2), [4(3)(a)](https://www.legislation.gov.uk/uksi/2020/1531/regulation/4/3/a)
+
+[^key-68be7dbc7173dd3be6f11d89e4998463]: Textual amendment: [Reg. 11(3)(aa)-(ad)](https://www.legislation.gov.uk/uksi/2004/1633/regulation/11/3/aa) inserted (31.12.2020 immediately before 11 p.m.) by [The Environmental Assessment of Plans and Programmes (Amendment) Regulations 2020 (S.I. 2020/1531)](https://www.legislation.gov.uk/uksi/2020/1531), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1531/regulation/1/2), [4(3)(b)](https://www.legislation.gov.uk/uksi/2020/1531/regulation/4/3/b)
+
+[^key-4a88a06b52fe3d78e3c6302aa8e24f08]: Textual amendment: Word in [reg. 11(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2004/1633/regulation/11/3/b/ii) omitted (31.12.2020 immediately before 11 p.m.) by virtue of [The Environmental Assessment of Plans and Programmes (Amendment) Regulations 2020 (S.I. 2020/1531)](https://www.legislation.gov.uk/uksi/2020/1531), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1531/regulation/1/2), [4(3)(c)](https://www.legislation.gov.uk/uksi/2020/1531/regulation/4/3/c)
+
+[^key-f1f21c7f23028891b5dddb28a92bcef2]: Textual amendment: Words in [reg. 11(3)(b)(iii)](https://www.legislation.gov.uk/uksi/2004/1633/regulation/11/3/b/iii) substituted (31.12.2020 immediately before 11 p.m.) by [The Environmental Assessment of Plans and Programmes (Amendment) Regulations 2020 (S.I. 2020/1531)](https://www.legislation.gov.uk/uksi/2020/1531), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1531/regulation/1/2), [4(3)(d)(i)](https://www.legislation.gov.uk/uksi/2020/1531/regulation/4/3/d/i)
+
+[^key-05fc00962818c0552d8281aa5c3a84d4]: Textual amendment: Words in [reg. 11(3)(b)(iii)](https://www.legislation.gov.uk/uksi/2004/1633/regulation/11/3/b/iii) substituted (31.12.2020 immediately before 11 p.m.) by [The Environmental Assessment of Plans and Programmes (Amendment) Regulations 2020 (S.I. 2020/1531)](https://www.legislation.gov.uk/uksi/2020/1531), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1531/regulation/1/2), [4(3)(d)(ii)](https://www.legislation.gov.uk/uksi/2020/1531/regulation/4/3/d/ii)
+
+[^key-84e2d30ea42611d76ddcb14fcb7b7963]: Textual amendment: [Reg. 11(3)(b)(iv)-(viii)](https://www.legislation.gov.uk/uksi/2004/1633/regulation/11/3/b/iv) inserted (31.12.2020 immediately before 11 p.m.) by [The Environmental Assessment of Plans and Programmes (Amendment) Regulations 2020 (S.I. 2020/1531)](https://www.legislation.gov.uk/uksi/2020/1531), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1531/regulation/1/2), [4(3)(e)](https://www.legislation.gov.uk/uksi/2020/1531/regulation/4/3/e)
+
+[^key-d71f436e35ffe0183990988703455dee]: Textual amendment: [Reg. 11(4)](https://www.legislation.gov.uk/uksi/2004/1633/regulation/11/4) substituted (31.12.2020 immediately before 11 p.m.) by [The Environmental Assessment of Plans and Programmes (Amendment) Regulations 2020 (S.I. 2020/1531)](https://www.legislation.gov.uk/uksi/2020/1531), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1531/regulation/1/2), [4(4)](https://www.legislation.gov.uk/uksi/2020/1531/regulation/4/4)
+
+[^key-d874dbb4b6cf4858f8fff2cc3dc94226]: Textual amendment: Word in [reg. 12(4)](https://www.legislation.gov.uk/uksi/2004/1633/regulation/12/4) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 5 para. 1(a)](https://www.legislation.gov.uk/uksi/2025/82/schedule/5/paragraph/1/a), [Sch. 15 para. 7(a)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/7/a)
+
+[^key-6600efb3de85e6e91ab026c50df07aa1]: Textual amendment: Words in [reg. 12(4)](https://www.legislation.gov.uk/uksi/2004/1633/regulation/12/4) substituted (31.12.2020) by [The Environmental Assessments and Miscellaneous Planning (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1232)](https://www.legislation.gov.uk/uksi/2018/1232), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1232/regulation/1/2), [5(4)](https://www.legislation.gov.uk/uksi/2018/1232/regulation/5/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-a64099b8eecf47f9d7800850d4d5bc72]: Textual amendment: [Reg. 13(2)(c)](https://www.legislation.gov.uk/uksi/2004/1633/regulation/13/2/c) substituted (31.12.2020 immediately before 11 p.m.) by [The Environmental Assessment of Plans and Programmes (Amendment) Regulations 2020 (S.I. 2020/1531)](https://www.legislation.gov.uk/uksi/2020/1531), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1531/regulation/1/2), [5(2)](https://www.legislation.gov.uk/uksi/2020/1531/regulation/5/2)
+
+[^key-dbddfc37dff11b74acf02950b15a58d3]: Textual amendment: [Reg. 13(4)](https://www.legislation.gov.uk/uksi/2004/1633/regulation/13/4) substituted (31.12.2020 immediately before 11 p.m.) by [The Environmental Assessment of Plans and Programmes (Amendment) Regulations 2020 (S.I. 2020/1531)](https://www.legislation.gov.uk/uksi/2020/1531), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1531/regulation/1/2), [5(3)](https://www.legislation.gov.uk/uksi/2020/1531/regulation/5/3)
+
+[^key-c7ab5103388163a6890747051f12b84d]: Textual amendment: Word in [reg. 13(5)](https://www.legislation.gov.uk/uksi/2004/1633/regulation/13/5) substituted (31.12.2020 immediately before 11 p.m.) by [The Environmental Assessment of Plans and Programmes (Amendment) Regulations 2020 (S.I. 2020/1531)](https://www.legislation.gov.uk/uksi/2020/1531), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1531/regulation/1/2), [5(4)(a)](https://www.legislation.gov.uk/uksi/2020/1531/regulation/5/4/a)
+
+[^key-61f7339def6f46e60931481157c3d4b5]: Textual amendment: Words in [reg. 13(5)](https://www.legislation.gov.uk/uksi/2004/1633/regulation/13/5) inserted (31.12.2020 immediately before 11 p.m.) by [The Environmental Assessment of Plans and Programmes (Amendment) Regulations 2020 (S.I. 2020/1531)](https://www.legislation.gov.uk/uksi/2020/1531), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1531/regulation/1/2), [5(4)(b)](https://www.legislation.gov.uk/uksi/2020/1531/regulation/5/4/b)
+
+[^key-4df097e9208e700321f0c4837009aa2a]: Textual amendment: Word in [reg. 14(1)](https://www.legislation.gov.uk/uksi/2004/1633/regulation/14/1) substituted (31.12.2020) by [The Environmental Assessments and Miscellaneous Planning (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1232)](https://www.legislation.gov.uk/uksi/2018/1232), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1232/regulation/1/2), [5(5)](https://www.legislation.gov.uk/uksi/2018/1232/regulation/5/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-fb892d0e059570854d54c0bc69aa0757]: Textual amendment: Word in [reg. 14(3)(a)](https://www.legislation.gov.uk/uksi/2004/1633/regulation/14/3/a) substituted (31.12.2020) by [The Environmental Assessments and Miscellaneous Planning (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1232)](https://www.legislation.gov.uk/uksi/2018/1232), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1232/regulation/1/2), [5(5)](https://www.legislation.gov.uk/uksi/2018/1232/regulation/5/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-6471de543c6a832653bf325efe1c14a8]: Textual amendment: Word in [reg. 15](https://www.legislation.gov.uk/uksi/2004/1633/regulation/15) heading omitted (31.12.2020) by virtue of [The Environmental Assessments and Miscellaneous Planning (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1232)](https://www.legislation.gov.uk/uksi/2018/1232), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1232/regulation/1/2), [5(6)(a)](https://www.legislation.gov.uk/uksi/2018/1232/regulation/5/6/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-fc7d37ddab79132b3d375d88bf4a9464]: Textual amendment: Words in [reg. 15(1)](https://www.legislation.gov.uk/uksi/2004/1633/regulation/15/1) omitted (31.12.2020) by virtue of [The Environmental Assessments and Miscellaneous Planning (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1232)](https://www.legislation.gov.uk/uksi/2018/1232), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1232/regulation/1/2), [5(6)(b)](https://www.legislation.gov.uk/uksi/2018/1232/regulation/5/6/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-0a60b289e2f10cd37ac47d4525dcddb8]: Textual amendment: [Reg. 15(4)(aa)-(ad)](https://www.legislation.gov.uk/uksi/2004/1633/regulation/15/4/aa) inserted (31.12.2020 immediately before 11 p.m.) by [The Environmental Assessment of Plans and Programmes (Amendment) Regulations 2020 (S.I. 2020/1531)](https://www.legislation.gov.uk/uksi/2020/1531), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1531/regulation/1/2), [6(2)(a)](https://www.legislation.gov.uk/uksi/2020/1531/regulation/6/2/a)
+
+[^key-ec9e806f9dbe292ab5581b69e09085b3]: Textual amendment: Words in [reg. 15(4)(b)](https://www.legislation.gov.uk/uksi/2004/1633/regulation/15/4/b) substituted (31.12.2020 immediately before 11 p.m.) by [The Environmental Assessment of Plans and Programmes (Amendment) Regulations 2020 (S.I. 2020/1531)](https://www.legislation.gov.uk/uksi/2020/1531), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1531/regulation/1/2), [6(2)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1531/regulation/6/2/b/i)
+
+[^key-3895a72cc8051e1f844073eb223747f2]: Textual amendment: Words in [reg. 15(4)(b)](https://www.legislation.gov.uk/uksi/2004/1633/regulation/15/4/b) substituted (31.12.2020) by [The Environmental Assessments and Miscellaneous Planning (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1232)](https://www.legislation.gov.uk/uksi/2018/1232), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1232/regulation/1/2), [5(6)(c)(i)](https://www.legislation.gov.uk/uksi/2018/1232/regulation/5/6/c/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-788618882a88c4de583905a3506a16b4]: Textual amendment: Words in [reg. 15(4)(b)](https://www.legislation.gov.uk/uksi/2004/1633/regulation/15/4/b) substituted (31.12.2020 immediately before 11 p.m.) by [The Environmental Assessment of Plans and Programmes (Amendment) Regulations 2020 (S.I. 2020/1531)](https://www.legislation.gov.uk/uksi/2020/1531), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1531/regulation/1/2), [6(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1531/regulation/6/2/b/ii)
+
+[^key-2350355330aa0a15a8f50086bf364042]: Textual amendment: Words in [reg. 15(4)(d)](https://www.legislation.gov.uk/uksi/2004/1633/regulation/15/4/d) substituted (31.12.2020 immediately before 11 p.m.) by [The Environmental Assessment of Plans and Programmes (Amendment) Regulations 2020 (S.I. 2020/1531)](https://www.legislation.gov.uk/uksi/2020/1531), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1531/regulation/1/2), [6(2)(c)(i)](https://www.legislation.gov.uk/uksi/2020/1531/regulation/6/2/c/i)
+
+[^key-f557e97d041637ad6189253ef66ca65d]: Textual amendment: Words in [reg. 15(4)(d)](https://www.legislation.gov.uk/uksi/2004/1633/regulation/15/4/d) substituted (31.12.2020) by [The Environmental Assessments and Miscellaneous Planning (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1232)](https://www.legislation.gov.uk/uksi/2018/1232), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1232/regulation/1/2), [5(6)(c)(ii)](https://www.legislation.gov.uk/uksi/2018/1232/regulation/5/6/c/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-800cca621fb4f8bd50b9d9409a4ae897]: Textual amendment: Words in [reg. 15(4)(d)](https://www.legislation.gov.uk/uksi/2004/1633/regulation/15/4/d) substituted (31.12.2020 immediately before 11 p.m.) by [The Environmental Assessment of Plans and Programmes (Amendment) Regulations 2020 (S.I. 2020/1531)](https://www.legislation.gov.uk/uksi/2020/1531), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1531/regulation/1/2), [6(2)(c)(ii)](https://www.legislation.gov.uk/uksi/2020/1531/regulation/6/2/c/ii)
+
+[^key-3de16888730d8dc03fbfb53746bc34c4]: Textual amendment: Word in [reg. 15(4)(d)](https://www.legislation.gov.uk/uksi/2004/1633/regulation/15/4/d) omitted (31.12.2020 immediately before 11 p.m.) by virtue of [The Environmental Assessment of Plans and Programmes (Amendment) Regulations 2020 (S.I. 2020/1531)](https://www.legislation.gov.uk/uksi/2020/1531), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1531/regulation/1/2), [6(2)(d)](https://www.legislation.gov.uk/uksi/2020/1531/regulation/6/2/d)
+
+[^key-d4dc37b9893ace7629b4f6a9cf3cc793]: Textual amendment: [Reg. 15(4)(da)](https://www.legislation.gov.uk/uksi/2004/1633/regulation/15/4/da) inserted (31.12.2020 immediately before 11 p.m.) by [The Environmental Assessment of Plans and Programmes (Amendment) Regulations 2020 (S.I. 2020/1531)](https://www.legislation.gov.uk/uksi/2020/1531), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1531/regulation/1/2), [6(2)(e)](https://www.legislation.gov.uk/uksi/2020/1531/regulation/6/2/e)
+
+[^key-96614e2f737c6187ff31e7d97e668ff8]: Textual amendment: Word in [reg. 15(6)](https://www.legislation.gov.uk/uksi/2004/1633/regulation/15/6) substituted (31.12.2020 immediately before 11 p.m.) by [The Environmental Assessment of Plans and Programmes (Amendment) Regulations 2020 (S.I. 2020/1531)](https://www.legislation.gov.uk/uksi/2020/1531), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1531/regulation/1/2), [6(3)(a)](https://www.legislation.gov.uk/uksi/2020/1531/regulation/6/3/a)
+
+[^key-fb447f0822b8235a6aed00ee8c8b8f7b]: Textual amendment: Words in [reg. 15(6)](https://www.legislation.gov.uk/uksi/2004/1633/regulation/15/6) inserted (31.12.2020 immediately before 11 p.m.) by [The Environmental Assessment of Plans and Programmes (Amendment) Regulations 2020 (S.I. 2020/1531)](https://www.legislation.gov.uk/uksi/2020/1531), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1531/regulation/1/2), [6(3)(b)](https://www.legislation.gov.uk/uksi/2020/1531/regulation/6/3/b)
+
+[^key-2235c80a9d68fa4bbd89b99108de324a]: Textual amendment: [Reg. 16(1)(a)](https://www.legislation.gov.uk/uksi/2004/1633/regulation/16/1/a) omitted (31.12.2020 immediately before 11 p.m.) by virtue of [The Environmental Assessment of Plans and Programmes (Amendment) Regulations 2020 (S.I. 2020/1531)](https://www.legislation.gov.uk/uksi/2020/1531), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1531/regulation/1/2), [7(2)(a)](https://www.legislation.gov.uk/uksi/2020/1531/regulation/7/2/a)
+
+[^key-97f38a7d0f076f5fa1a4afe85d392da3]: Textual amendment: [Reg. 16(1)(aa)-(ad)](https://www.legislation.gov.uk/uksi/2004/1633/regulation/16/1/aa) inserted (31.12.2020 immediately before 11 p.m.) by [The Environmental Assessment of Plans and Programmes (Amendment) Regulations 2020 (S.I. 2020/1531)](https://www.legislation.gov.uk/uksi/2020/1531), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1531/regulation/1/2), [7(2)(b)](https://www.legislation.gov.uk/uksi/2020/1531/regulation/7/2/b)
+
+[^key-8af27a1da9e5599d2a805d9c94ca7e6a]: Textual amendment: [Reg. 16(1)(b)(iii)-(v)](https://www.legislation.gov.uk/uksi/2004/1633/regulation/16/1/b/iii) omitted (31.12.2020 immediately before 11 p.m.) by virtue of [The Environmental Assessment of Plans and Programmes (Amendment) Regulations 2020 (S.I. 2020/1531)](https://www.legislation.gov.uk/uksi/2020/1531), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1531/regulation/1/2), [7(2)(c)](https://www.legislation.gov.uk/uksi/2020/1531/regulation/7/2/c)
+
+[^key-8e51ff769d543a659a1d3b20c77a5318]: Textual amendment: [Reg. 16(1)(b)(vi)-(xi)](https://www.legislation.gov.uk/uksi/2004/1633/regulation/16/1/b/vi) inserted (31.12.2020 immediately before 11 p.m.) by [The Environmental Assessment of Plans and Programmes (Amendment) Regulations 2020 (S.I. 2020/1531)](https://www.legislation.gov.uk/uksi/2020/1531), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1531/regulation/1/2), [7(2)(d)](https://www.legislation.gov.uk/uksi/2020/1531/regulation/7/2/d)
+
+[^key-b12db9c0b6ad25e928a6198df4ba253c]: Textual amendment: [Reg. 16(3)(c)-(h)](https://www.legislation.gov.uk/uksi/2004/1633/regulation/16/3/c) substituted for [reg. 16(3)(c)](https://www.legislation.gov.uk/uksi/2004/1633/regulation/16/3/c) (31.12.2020 immediately before 11 p.m.) by [The Environmental Assessment of Plans and Programmes (Amendment) Regulations 2020 (S.I. 2020/1531)](https://www.legislation.gov.uk/uksi/2020/1531), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1531/regulation/1/2), [7(3)](https://www.legislation.gov.uk/uksi/2020/1531/regulation/7/3)
+
+[^key-eae5280fb0a48ad749cdce2059eea434]: Textual amendment: Word in [reg. 16(4)](https://www.legislation.gov.uk/uksi/2004/1633/regulation/16/4) substituted (31.12.2020 immediately before 11 p.m.) by [The Environmental Assessment of Plans and Programmes (Amendment) Regulations 2020 (S.I. 2020/1531)](https://www.legislation.gov.uk/uksi/2020/1531), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1531/regulation/1/2), [7(4)](https://www.legislation.gov.uk/uksi/2020/1531/regulation/7/4)
+
+[^key-3b5f598a292d5a4c813c21e985607779]: Textual amendment: [Reg. 16(5)](https://www.legislation.gov.uk/uksi/2004/1633/regulation/16/5) inserted (31.12.2020 immediately before 11 p.m.) by [The Environmental Assessment of Plans and Programmes (Amendment) Regulations 2020 (S.I. 2020/1531)](https://www.legislation.gov.uk/uksi/2020/1531), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1531/regulation/1/2), [7(5)](https://www.legislation.gov.uk/uksi/2020/1531/regulation/7/5)
+
+[^key-5672892db4f73c094983333dfbc45c8c]: Textual amendment: [Reg. 18](https://www.legislation.gov.uk/uksi/2004/1633/regulation/18) omitted (31.12.2020 immediately before 11 p.m.) by virtue of [The Environmental Assessment of Plans and Programmes (Amendment) Regulations 2020 (S.I. 2020/1531)](https://www.legislation.gov.uk/uksi/2020/1531), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1531/regulation/1/2), [8](https://www.legislation.gov.uk/uksi/2020/1531/regulation/8)
+
+[^key-ebf88c581d8c34a35662f3deb0372a25]: Textual amendment: Word in [Sch. 1 para. 1(e)](https://www.legislation.gov.uk/uksi/2004/1633/schedule/1/paragraph/1/e) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 5 para. 1(b)](https://www.legislation.gov.uk/uksi/2025/82/schedule/5/paragraph/1/b), [Sch. 15 para. 7(b)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/7/b)
+
+[^key-e252af2fa0afa1da379059e36994b783]: Textual amendment: Words in [Sch. 1 para. 1(e)](https://www.legislation.gov.uk/uksi/2004/1633/schedule/1/paragraph/1/e) substituted (31.12.2020) by [The Environmental Assessments and Miscellaneous Planning (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1232)](https://www.legislation.gov.uk/uksi/2018/1232), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1232/regulation/1/2), [5(7)](https://www.legislation.gov.uk/uksi/2018/1232/regulation/5/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-52ef5c7eead490e649a29a3d0c355b35]: Textual amendment: Words in [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2004/1633/schedule/2/paragraph/4) substituted (31.12.2020) by [The Environmental Assessments and Miscellaneous Planning (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1232)](https://www.legislation.gov.uk/uksi/2018/1232), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1232/regulation/1/2), [5(8)(a)](https://www.legislation.gov.uk/uksi/2018/1232/regulation/5/8/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-c3d869393fa2c8da5f7cc02fbdd88acd]: Textual amendment: Word in [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2004/1633/schedule/2/paragraph/5) substituted (31.12.2020) by [The Environmental Assessments and Miscellaneous Planning (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1232)](https://www.legislation.gov.uk/uksi/2018/1232), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1232/regulation/1/2), [5(8)(b)](https://www.legislation.gov.uk/uksi/2018/1232/regulation/5/8/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

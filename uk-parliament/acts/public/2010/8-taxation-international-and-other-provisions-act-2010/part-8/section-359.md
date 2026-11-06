@@ -1,0 +1,32 @@
+---
+title: Taxation (International and Other Provisions) Act 2010, section 359
+act: Taxation (International and Other Provisions) Act 2010
+section: '359'
+status: revised-with-pending-changes
+text_date: '2026-03-18'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2010/8/section/359
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Taxation (International and Other Provisions) Act 2010, section 359
+
+> **Warning: changes not yet applied to this text (4).** Text as at 2026-03-18. See https://www.legislation.gov.uk/changes/affected/ukpga/2010/8
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 359. Power to make regulations about exceptions to definition of “mutual fund”
+
+*Extent: E+W+S+N.I.*
+
+(1) The Treasury may by regulations amend or repeal any provision of section 357 or 358.
+
+(2) The Treasury may by regulations provide that arrangements are not a mutual fund for the purposes of section 355—
+
+- (a) in specified circumstances, or
+- (b) if they are of a specified description.
+
+(3) Regulations under this section may include provision having effect in relation to the tax year, or accounting periods, current on the day on which the regulations are made.
+
+(4) Regulations under subsection (1) may only be made if a draft of the statutory instrument containing the regulations has been laid before and approved by a resolution of the House of Commons.

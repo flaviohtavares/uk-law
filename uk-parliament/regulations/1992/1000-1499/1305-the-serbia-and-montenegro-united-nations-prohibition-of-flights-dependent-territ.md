@@ -1,0 +1,144 @@
+---
+title: The Serbia and Montenegro (United Nations Prohibition of Flights) (Dependent Territories) Order 1992
+id: uksi/1992/1305
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '1992-06-04'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1992/1305
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1992/1305/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Serbia and Montenegro (United Nations Prohibition of Flights) (Dependent Territories) Order 1992
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+1992 No. 1305
+
+UNITED NATIONS
+
+The Serbia and Montenegro (United Nations Prohibition of Flights) (Dependent Territories) Order 1992
+
+Made
+
+4th June 1992
+
+Laid before Parliament
+
+4th June 1992
+
+Coming into force
+
+5th June 1992
+
+At the Court at Buckingham Palace, the 4th day of June 1992
+
+Present,
+
+The Queen’s Most Excellent Majesty in Council
+
+Whereas under Article 41 of the Charter of the United Nations the Security Council of the United Nations have, by a resolution adopted on 30th May 1992, called upon Her Majesty’s Government in the United Kingdom and all other States to apply certain measures to give effect to a decision of the Council in relation to Serbia and Montenegro:
+
+Now therefore Her Majesty, in exercise of the powers conferred on Her by section 1 of the United Nations Act 1946[^f00001], is pleased, by and with the advice of Her Privy Council, to order, and it is hereby ordered, as follows:
+
+## 1. Citation, commencement, operation and extent
+
+(1) This Order may be cited as the Serbia and Montenegro (United Nations Prohibition of Flights) (Dependent Territories) Order 1992 and shall come into force on 5th June 1992.
+
+(2) If, after the making of this Order, the Security Council of the United Nations takes a decision which has the effect of cancelling or suspending the operation of the resolution adopted by it on 30th May 1992, this Order shall cease to have effect or its operation shall be suspended, as the case may be, in accordance with that decision; and particulars of that decision shall be published by the Governor in a notice in the official gazette of the Territory.
+
+(3)
+
+- (a) This Order shall extend to the territories listed in the Schedule to this Order.
+- (b) In the application of this Order to any of the said territories the expression “the Territory” in this Order means that territory.
+
+## 2. Interpretation
+
+In this Order the following expressions have the meanings hereby respectively assigned to them, that is to say—
+
+- “airport operator” means the person for the time being having the management of an airport or, in relation to a particular airport, the management of that airport;
+- “commander”, in relation to an aircraft, means the member of the flight crew designated as commander of the aircraft by the operator thereof, or, failing such a person, the person who is for the time being the pilot in command of the aircraft;
+- “operator”, in relation to an aircraft, means the person for the time being having the management of the aircraft.
+
+## 3. Prohibition of Flights
+
+(1) Except with the permission of the Secretary of State granted under this article, no aircraft, wherever registered, shall take off from, land in or fly over the Territory if its destination is, or if it has taken off from Serbia or Montenegro.
+
+(2) If any aircraft is used in contravention of the provisions of this article, then the operator and the commander of the aircraft shall be guilty of an office against this Order.
+
+## 4. Powers of airport operator
+
+(1) For the purpose of enforcing the prohibitions contained in article 3 of this Order, it shall be the duty of an airport operator to take all such steps as may be necessary to secure that any aircraft at his airport
+
+- (a) whose commander or operator has indicated an intention to fly the aircraft to a destination in Serbia or Montenegro or which the airport operator otherwise has reason to suspect will be flown to such a destination; or
+- (b) which the airport operator knows or has reason to suspect has, since 30th May 1992, taken off from Serbia or Montenegro,
+
+is prevented from taking off unless permission to do so has been granted under article 3 of this Order.
+
+(2) Without prejudice to the generality of paragraph (1) of this article, such steps may include:
+
+- (a) the refusal of any refuelling service for the aircraft;
+- (b) the placing of obstacles in the path of a parked aircraft to prevent it from leaving its parked position; and
+- (c) requiring the commander or operator of the aircraft to move it, or to secure that it is moved, to another part of the airport.
+
+(3) Any person who, without reasonable excuse, obstructs an airport operator, his servants or agents acting in accordance with the provisions of this article, or refuses or fails within a reasonable time to comply with a request by any such persons made in accordance with paragraph 2(c) of this article, shall be guilty of an offence under this Order.
+
+## 5. Penalties and proceedings
+
+(1) Any person guilty of an offence under this Order shall be liable—
+
+- (a) on conviction on indictment to imprisonment for a term not exceeding two years or to a fine or to both; or
+- (b) on summary conviction to imprisonment for a term not exceeding six months or to a fine not exceeding £5,000 or its equivalent or to both.
+
+(2) Where any body corporate is guilty of an offence against this Order, and that offence is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, any director, manager, secretary or other similar officer of the body corporate or any person who was purporting to act in any such capacity, he, as well as the body corporate, shall be guilty of that offence and shall be liable to be proceeded against and punished accordingly.
+
+(3) Proceedings against any person for an offence against this Order may be taken before the appropriate court in the Territory having jurisdiction in the place where that person is for the time being.
+
+(4) No proceedings for an offence against this Order shall be instituted in the Territory except by or with the consent of the principal public officer of the Territory having responsibility for criminal prosecutions:
+
+Provided that this paragraph shall not prevent the arrest, or the issue or execution of a warrant for the arrest, of any person in respect of such an offence, or the remand in custody or on bail of any person charged with such an offence, notwithstanding that the necessary consent to the institution of proceedings for the offence has not been obtained.
+
+## 6. Exercise of powers of the Secretary of State
+
+(1) The Secretary of State may, to such extent and subject to such restrictions and conditions as he may think proper, delegate or authorise the delegation of any of his powers under this Order to any person, or class or description of persons, approved by him, and references in this Order to the Secretary of State shall be construed accordingly.
+
+(2) Any permissions granted under this Order may be either general or special, may be subject to or without conditions, may be limited so as to expire on a specified date unless renewed and may be varied or revoked by the authority that granted them.
+
+G. I. de Deney
+
+Clerk of the Privy Council
+
+## SCHEDULE — TERRITORIES TO WHICH THE ORDER EXTENDS
+
+Article 1(3)(a)
+
+- Anguilla
+- Bermuda
+- British Antarctic Territory
+- British Indian Ocean Territory
+- Cayman Islands
+- Falkland Islands
+- South Georgia and South Sandwich Islands
+- Gibraltar
+- Hong Kong
+- Montserrat
+- Pitcairn
+- St. Helena and its dependencies
+- Sovereign Base Areas of Akrotiri and Dhekelia
+- Turks and Caicos Islands
+- Virgin Islands
+
+(This note is not part of the Order)
+
+This Order, made under the United Nations Act 1946, implements a decision of the Security Council of the United Nations in Resolution No. 757 of 30th May 1992 by prohibiting aircraft from taking off from, landing in or overflying the territories specified in the Schedule, if they are destined for, or have taken off from, Serbia or Montenegro.
+
+## Annotations
+
+[^f00001]: Footnote: [1946 c. 45](https://www.legislation.gov.uk/ukpga/1946/45).

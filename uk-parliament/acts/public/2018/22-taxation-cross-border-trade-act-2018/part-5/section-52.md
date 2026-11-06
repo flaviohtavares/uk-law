@@ -1,0 +1,52 @@
+---
+title: Taxation (Cross-border Trade) Act 2018, section 52
+act: Taxation (Cross-border Trade) Act 2018
+section: '52'
+status: revised-with-pending-changes
+text_date: '2026-03-18'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2018/22/section/52
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Taxation (Cross-border Trade) Act 2018, section 52
+
+> **Warning: changes not yet applied to this text (26).** Text as at 2026-03-18. See https://www.legislation.gov.uk/changes/affected/ukpga/2018/22
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 52. Subordinate legislation relating to VAT or duties of customs or excise
+
+*Extent: E+W+S+N.I.*
+
+(1) In this section “**relevant subordinate legislation**” means any subordinate legislation within the meaning of the Interpretation Act 1978 made under—
+
+- (a) this Act, or
+- (b) any other enactment relating to value added tax, any duty of customs or any excise duty.
+
+(2) If the person making any relevant subordinate legislation considers it is appropriate to do so in consequence of, or otherwise in connection with, the withdrawal of the United Kingdom from the EU, the legislation may provide for it, or any of its provisions, to come into force on such day as the Treasury may by regulations under this section appoint.
+
+(3) In the case of relevant subordinate legislation subject to the 28-day affirmative procedure containing provision as a result of subsection (2)—
+
+- (a) any reference in the enactment dealing with that procedure to the date on which the legislation (or statutory instrument containing it) was made is to be read as a reference to the first day on which any provision of the legislation comes into force for any purpose as a result of subsection (2), and
+- (b) any reference in the enactment dealing with that procedure to a period of 28 days is to be read as a reference to a period of 60 days.
+
+(4) For this purpose subordinate legislation is “subject to the 28-day affirmative procedure” if provision is made for it to cease to have effect unless approved by a resolution of the House of Commons before the end of a period of 28 days.
+
+(5) Any power to make relevant subordinate legislation (or to do anything under it) includes—
+
+- (a) power to make supplementary, incidental or consequential provision, and
+- (b) power to make transitional or transitory provision or savings,
+
+if the person exercising the power considers it appropriate to make the provision concerned in consequence of, or otherwise in connection with, the withdrawal of the United Kingdom from the EU.
+
+(6) Any power of the Treasury to appoint a day under this section includes—
+
+- (a) a power to appoint different days for different purposes or areas,
+- (b) a power to appoint a time on a day if they consider it appropriate to do so (including a time that has effect by reference to the coming into force of any other enactment), and
+- (c) a power to revoke provision made by relevant subordinate legislation so far as the provision was an alternative to provision coming into force as a result of subsection (2).
+
+(7) Regulations under this section are to be made by statutory instrument.
+
+(8) Nothing in this section is to be read as having any bearing on whether or not, in the absence of this section, the matters it authorises would otherwise have been authorised.

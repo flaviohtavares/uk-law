@@ -1,0 +1,107 @@
+---
+title: Universal Credit (Removal of Two Child Limit) Act 2026
+id: ukpga/2026/13
+type: UnitedKingdomPublicGeneralAct
+category: primary
+status: revised
+made_date: '2026-03-18'
+text_date: '2026-04-06'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2026/13
+pdf_urls:
+- http://www.legislation.gov.uk/ukpga/2026/13/pdfs/ukpgaen_20260013_en.pdf
+- http://www.legislation.gov.uk/ukpga/2026/13/pdfs/ukpga_20260013_en.pdf
+- http://www.legislation.gov.uk/ukpga/2026/13/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Universal Credit (Removal of Two Child Limit) Act 2026
+
+> Text as at 2026-04-06.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+Universal Credit (Removal of Two Child Limit) Act 2026
+
+2026 Chapter 13
+
+An Act to make provision to remove the two child limit on the child element of universal credit.
+
+\[18th March 2026\]
+
+Be it enacted by the King’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
+
+## 1. Removal of two child limit: GB[^key-2b6fabce258df27bc7c1e8a86d30a0bb]
+
+*Extent: E+W+S*
+
+(1) In [section 10](https://www.legislation.gov.uk/ukpga/2012/5/section/10) of the [Welfare Reform Act 2012](https://www.legislation.gov.uk/ukpga/2012/5/contents) (responsibility for children and young persons)—
+
+- (a) omit [subsection (1A)](https://www.legislation.gov.uk/ukpga/2012/5/section/10) (the two child limit), and
+- (b) in [subsection (4)](https://www.legislation.gov.uk/ukpga/2012/5/section/10) omit “or (1A)”.
+
+(2) In consequence of the amendments made by subsection (1)—
+
+- (a) in [section 14](https://www.legislation.gov.uk/ukpga/2016/7/section/14) of the [Welfare Reform and Work Act 2016](https://www.legislation.gov.uk/ukpga/2016/7/contents), omit [subsections (2)](https://www.legislation.gov.uk/ukpga/2016/7/section/14), [(4)](https://www.legislation.gov.uk/ukpga/2016/7/section/14) and [(5)](https://www.legislation.gov.uk/ukpga/2016/7/section/14)[(a)](https://www.legislation.gov.uk/ukpga/2016/7/section/14), and
+- (b) in [regulation 24](https://www.legislation.gov.uk/uksi/2013/376/regulation/24)[(1)](https://www.legislation.gov.uk/uksi/2013/376/regulation/24) of the [Universal Credit Regulations 2013 (S.I. 2013/376)](https://www.legislation.gov.uk/uksi/2013/376/contents), omit “and in respect of whom an amount may be included under section 10”.
+
+(3) The following provisions of the [Universal Credit Regulations 2013](https://www.legislation.gov.uk/uksi/2013/376/contents) were made under the power repealed by subsection (1)(b) (power to provide for exceptions to the two child limit) and are therefore revoked—
+
+- (a) [regulation 24A](https://www.legislation.gov.uk/uksi/2013/376/regulation/24A);
+- (b) [regulation 24B](https://www.legislation.gov.uk/uksi/2013/376/regulation/24B);
+- (c) [Schedule 12](https://www.legislation.gov.uk/uksi/2013/376/schedule/12).
+
+(4) The amendments made by this section have effect in relation to assessment periods commencing on or after 6 April 2026, and for this purpose “**assessment period**” has the same meaning as in [Part 1](https://www.legislation.gov.uk/ukpga/2012/5/part/1) of the [Welfare Reform Act 2012](https://www.legislation.gov.uk/ukpga/2012/5/contents).
+
+## 2. Removal of two child limit: NI[^key-aa29c16053f8ade01447347f25bf2b84]
+
+*Extent: N.I.*
+
+(1) In [Article 15](https://www.legislation.gov.uk/nisi/2015/2006/article/15) of the [Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006 (N.I. 1))](https://www.legislation.gov.uk/nisi/2015/2006/contents) (responsibility for children and young persons)—
+
+- (a) omit [paragraph (1A)](https://www.legislation.gov.uk/nisi/2015/2006/article/15) (the two child limit), and
+- (b) in [paragraph (4)](https://www.legislation.gov.uk/nisi/2015/2006/article/15), omit “or (1A)”.
+
+(2) In consequence of the amendments made by subsection (1)—
+
+- (a) in [Article 10](https://www.legislation.gov.uk/nisi/2016/999/article/10) of the [Welfare Reform and Work (Northern Ireland) Order 2016 (S.I. 2016/999 (N.I. 1))](https://www.legislation.gov.uk/nisi/2016/999/contents), omit paragraphs (2), (4) and (5)(a), and
+- (b) in regulation 25(1) of the [Universal Credit Regulations (Northern Ireland) 2016 (S.R. (N.I.) 2016 No. 216)](https://www.legislation.gov.uk/nisr/2016/216/contents), omit “and in respect of whom an amount may be included under Article 15”.
+
+(3) The following provisions of the [Universal Credit Regulations (Northern Ireland) 2016](https://www.legislation.gov.uk/nisr/2016/216/contents) were made under the power repealed by subsection (1)(b) (power to provide for exceptions to the two child limit) and are therefore revoked—
+
+- (a) [regulation 25A](https://www.legislation.gov.uk/nisr/2016/216/regulation/25A);
+- (b) [regulation 25B](https://www.legislation.gov.uk/nisr/2016/216/regulation/25B);
+- (c) [Schedule 12](https://www.legislation.gov.uk/nisr/2016/216/schedule/12).
+
+(4) The amendments made by this section have effect in relation to assessment periods commencing on or after 6 April 2026, and for this purpose “**assessment period**” has the same meaning as in [Part 2](https://www.legislation.gov.uk/nisi/2015/2006/part/2) of the [Welfare Reform (Northern Ireland) Order 2015](https://www.legislation.gov.uk/nisi/2015/2006/contents).
+
+## 3. Extent, commencement and short title[^key-e9ac640a3652fdd31db1935b50cd5deb][^key-e9ac640a3652fdd31db1935b50cd5deb]
+
+(1) Section 1 extends to England and Wales and Scotland only.
+
+(2) Section 2 extends to Northern Ireland only.
+
+(3) This section extends to England and Wales, Scotland and Northern Ireland.
+
+(4) Sections 1 and 2 come into force on 6 April 2026.
+
+(5) This section comes into force on the day on which this Act is passed.
+
+(6) The Secretary of State may by regulations made by statutory instrument make transitional or saving provision in connection with the coming into force of section 1.
+
+(7) The Department for Communities in Northern Ireland may by regulations made by statutory rule for the purposes of the [Statutory Rules (Northern Ireland) Order 1979 (S.I. 1979/1573 (N.I. 12))](https://www.legislation.gov.uk/nisi/1979/1573/contents) make transitional or saving provision in connection with the coming into force of section 2.
+
+(8) This Act may be cited as the Universal Credit (Removal of Two Child Limit) Act 2026.
+
+## Annotations
+
+[^key-2b6fabce258df27bc7c1e8a86d30a0bb]: Commencement: S. 1 in force at 6.4.2026, see [s. 3(4)](https://www.legislation.gov.uk/ukpga/2026/13/section/3/4)
+
+[^key-aa29c16053f8ade01447347f25bf2b84]: Commencement: S. 2 in force at 6.4.2026, see [s. 3(4)](https://www.legislation.gov.uk/ukpga/2026/13/section/3/4)
+
+[^key-e9ac640a3652fdd31db1935b50cd5deb]: Commencement: S. 3 in force at Royal Assent, see [s. 3(5)](https://www.legislation.gov.uk/ukpga/2026/13/section/3/5)

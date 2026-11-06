@@ -1,0 +1,24 @@
+---
+title: The Deposit Scheme for Drinks Containers (England and Northern Ireland) Regulations 2025, section 41
+act: The Deposit Scheme for Drinks Containers (England and Northern Ireland) Regulations 2025
+section: '41'
+status: as-enacted
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2025/67/section/41
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Deposit Scheme for Drinks Containers (England and Northern Ireland) Regulations 2025, section 41
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+## 41. Provision of take-back services
+
+(1) A person may provide a take-back service if—
+
+- (a) they are a scheme retailer, and
+- (b) they are registered with the deposit management organisation to provide that service.
+
+(2) Schedule 4 contains further provision about registration to provide a take-back service and related matters.

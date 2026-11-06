@@ -1,0 +1,88 @@
+---
+title: The Submarine Pipe-lines (Designated Owners) (No. 34) Order 1989
+id: uksi/1989/2503
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '1989-12-22'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1989/2503
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1989/2503/pdfs/uksi_19892503_en.pdf
+- http://www.legislation.gov.uk/uksi/1989/2503/made/data.pdf
+pending_changes: 1
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Submarine Pipe-lines (Designated Owners) (No. 34) Order 1989
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+1989 No. 2503
+
+PIPE-LINES
+
+The Submarine Pipe-lines (Designated Owners) (No. 34) Order 1989
+
+Made
+
+22nd December 1989
+
+Coming into force
+
+19th January 1990
+
+Th Secretary of State, in exercise of the powers conferred on him by section 33(2) and (3) of the Petroleum and Submarine Pipe-lines Act 1975[^f00001] and of all other powers enabling him in that behalf, and after giving those persons affected an opportunity of being heard with respect to the matter, hereby makes the following Order:—
+
+**1.** This Order may be cited as the Submarine Pipe-lines (Designated Owners) (No. 34) Order 1989, and shall come into force on 19th January 1990.
+
+**2.** In this Order—
+
+- “the Act” means the Petroleum and Submarine Pipe-lines Act 1975;
+- “49/24J” , “49/24K” and “49/23AT” mean the offshore installations known respectively as the Indefatigable 49/24J platform, the Indefatigable 49/24K platform and the Indefatigable 49/23AT platform, all of which are situated above the Indefatigable gasfield, north-east of the coast of Norfolk;
+- “the pipe-lines” means the 20 inch nominal diameter pipe, brought into use during 1971, which lies between 49/24J and 49/23AT, and the 24 inch nominal diameter pipe brought into use during 1972, which lies between 49/24K and 49/23AT together with the apparatus and works associated therewith;
+- “the platform apparatus” means all of the apparatus and works of a kind specified in paragraph (a), (aa), (b), (c), (d), (e), or (f) of section 33(1) of the Act[^f00002] which are part of the pipe-lines and attached to 49/23AT; and
+- “the riser” means that section of each of the pipe-lines which connects 49/23AT to that section of the pipe-line which lies in, or in close proximity, to the sea-bed and extends outwards from 49/23AT.
+
+**3.** For the purposes of Part III of the Act, except section 33(2), in the case of each of the pipe-lines, the platform apparatus and the riser shall together be treated as a pipe-line and the remainder of each of the pipe-lines shall be treated as a separate pipe-line.
+
+**4.** For the purposes of Part III of the Act, the persons specified in Part I of the Schedule hereto are hereby designated as the owners of the platform apparatus and the riser comprised in each of the pipe-lines, and the persons specified in Part II of the Schedule hereto are hereby designated as the owners of the remainder of each of the pipe-lines.
+
+Peter Morrison
+
+Minister of State,
+
+Department of Energy
+
+22nd December 1989
+
+## SCHEDULE
+
+Article 4
+
+### PART I — DESIGNATED OWNERS OF PLATFORM APPARATUS AND RISER
+
+- Amerada Hess Ltd., whose registered office is at 2 Stephen Street, Tottenham Court Road, London, W1P 1PL.
+- Amoco (U.K.) Exploration Company, whose principal place of business in the United Kingdom is at Amoco House, West Gate, Ealing, London, W5X 1XL.
+- Esso Exploration and Production UK Ltd., whose registered office is at Esso House, Victoria Street, London, SW1E 5JW.
+- Gas Council (Exploration) Limited, whose registered office is at Rivermill House, 152 Grosvenor Road, London, SW1V 3JL.
+- Shell U.K. Limited, whose registered office is at Shell-Mex House, Strand, London, WC2R 0DX.
+- Texas Eastern North Sea, Inc., whose principal place of business in the United Kingdom is at Berkeley Square House, Berkeley Square, London, W1X 5LE.
+
+### PART II — DESIGNATED OWNERS OF REMAINDER OF PIPE-LINE
+
+- Esso Exploration and Production UK Ltd., whose registered office is at Esso House, Victoria Street, London, SW1E 5JW.
+- Shell U.K. Limited, whose registered office is at Shell-Mex House, Strand, London, WC2R 0DX.
+
+(This note is not part of the Order)
+
+This Order designates owners of two pipe-lines lying between offshore installations above the Indefatigable gasfield, situated north-east of the coast of Norfolk. The companies listed in Part I of the Schedule are designated as owners of the apparatus and works and the riser which are part of the pipe-lines and which are installed on or beneath one of the installations, the 49/23AT platform, and the companies listed in Part II of the Schedule are designated as owners of the remainder of the pipe-lines.
+
+## Annotations
+
+[^f00001]: Footnote: [1988 c. 41](https://www.legislation.gov.uk/ukpga/1988/41). Paragraph 3(2) of Schedule 6 is amended by paragraph 38(13) of Schedule 5 to the Local Government and Housing Act [1989 (c. 42)](https://www.legislation.gov.uk/ukpga/1989/42).
+
+[^f00002]: Footnote: S.I. [1989/2263](https://www.legislation.gov.uk/uksi/1989/2263).

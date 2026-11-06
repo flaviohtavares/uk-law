@@ -1,0 +1,42 @@
+---
+title: Localism Act 2011, section 118
+act: Localism Act 2011
+section: '118'
+status: revised-with-pending-changes
+text_date: '2026-10-26'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/2011/20/section/118
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Localism Act 2011, section 118
+
+> **Warning: changes not yet applied to this text (48).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/2011/20
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 118. Regulations under section 117: collection and enforcement
+
+*Extent: E+W*
+
+(1) Regulations under section 117 must include provision about the collection of charges imposed by the regulations.
+
+(2) The regulations may make provision—
+
+- (a) for payment on account or by instalments,
+- (b) about repayment (with or without interest) in cases of overpayment, and
+- (c) about the source of payments in respect of a Crown interest or Duchy interest (within the meaning of section 227(3) or (4) of the Planning Act 2008).
+
+(3) Regulations under section 117 must include provision about enforcement of charges imposed by the regulations; and that provision must include provision—
+
+- (a) for a charge (or other amount payable under the regulations) to be treated as a civil debt due to a local planning authority, and
+- (b) for the debt to be recoverable summarily.
+
+(4) The regulations may make provision—
+
+- (a) about the consequences of failure to assume liability, to give a notice or to comply with another procedure under the regulations,
+- (b) for the payment of interest (at a rate specified in, or determined in accordance with, the regulations),
+- (c) for the imposition of a penalty or surcharge (of an amount specified in, or determined in accordance with, the regulations),
+- (d) replicating or applying (with or without modifications) any provision made by any of sections 324 to 325A of the Town and Country Planning Act 1990 (rights of entry), and
+- (e) for enforcement in the case of death or insolvency of a person liable for the charge.

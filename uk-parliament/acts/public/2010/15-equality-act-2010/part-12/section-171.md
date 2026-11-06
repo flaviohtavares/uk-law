@@ -1,0 +1,43 @@
+---
+title: Equality Act 2010, section 171
+act: Equality Act 2010
+section: '171'
+status: revised-with-pending-changes
+text_date: '2026-10-30'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/ukpga/2010/15/section/171
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Equality Act 2010, section 171
+
+> **Warning: changes not yet applied to this text (10).** Text as at 2026-10-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2010/15
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 171. Assistance dogs in private hire vehicles: exemption certificates
+
+*Extent: E+W+S*
+
+(1) A licensing authority must issue a driver with a certificate exempting the driver from the offence under section 170(3) (an “exemption certificate”) if satisfied that it is appropriate to do so on medical grounds.
+
+(2) In deciding whether to issue an exemption certificate the authority must have regard, in particular, to the physical characteristics of the private hire vehicle which the person drives or those of any kind of private hire vehicle in relation to which the person requires the certificate.
+
+(3) An exemption certificate is valid—
+
+- (a) in respect of a specified private hire vehicle or a specified kind of private hire vehicle;
+- (b) for such period as is specified in the certificate.
+
+(4) A driver does not commit an offence under section 170(3) if—
+
+- (a) an exemption certificate issued to the driver is in force with respect to the private hire vehicle, and
+- (b) the prescribed notice of the exemption is exhibited on the vehicle in the prescribed manner.
+
+The power to make regulations under paragraph (b) is exercisable by the Secretary of State.
+
+(5) In this section “**driver**” and “licensing authority”[^key-ea32c3ba26954f82937cc4b42bc33f66] have the same meaning as in section 170.
+
+## Annotations
+
+[^key-ea32c3ba26954f82937cc4b42bc33f66]: Textual amendment: Words in [s. 171(5)](https://www.legislation.gov.uk/ukpga/2010/15/section/171/5) substituted (28.6.2022) by [Taxis and Private Hire Vehicles (Disabled Persons) Act 2022 (c. 29)](https://www.legislation.gov.uk/ukpga/2022/29), [ss. 5(4)](https://www.legislation.gov.uk/ukpga/2022/29/section/5/4), [6(2)](https://www.legislation.gov.uk/ukpga/2022/29/section/6/2)

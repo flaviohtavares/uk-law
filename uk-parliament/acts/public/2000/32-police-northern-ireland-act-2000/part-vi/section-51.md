@@ -1,0 +1,82 @@
+---
+title: Police (Northern Ireland) Act 2000, section 51
+act: Police (Northern Ireland) Act 2000
+section: '51'
+status: revised-with-pending-changes
+text_date: '2016-05-13'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2000/32/section/51
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Police (Northern Ireland) Act 2000, section 51
+
+> **Warning: changes not yet applied to this text (1).** Text as at 2016-05-13. See https://www.legislation.gov.uk/changes/affected/ukpga/2000/32
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 51. Notifiable memberships.[^key-fd196ba3489926cba1f0acc7b7310e84]
+
+*Extent: N.I.*
+
+(1) For the purposes of this section, a police officer has a notifiable membership if membership of the organisation in question might reasonably be regarded as affecting the officer’s ability to discharge his duties effectively and impartially.
+
+(2) The Chief Constable may give guidance to police officers in connection with notifiable memberships.
+
+(3) Before issuing any guidance under subsection (2), the Chief Constable shall consult—
+
+- (a) the Board;
+- (b) the Department of Justice[^key-ab5fddf317f3aa942926478ba3c71df6]; and
+- (c) the Northern Ireland Human Rights Commission.
+
+(4) The Chief Constable shall publish any guidance issued under subsection (2).
+
+(5) The Chief Constable shall require each police officer to inform him—
+
+- (a) of any notifiable membership which that police officer believes he has; or
+- (b) if he believes he has no notifiable memberships, of that belief.
+
+(6) In imposing a requirement on a police officer under subsection (5) the Chief Constable shall—
+
+- (a) draw the attention of that officer to the provisions of this section; and
+- (b) give a general explanation of the purposes for which the information required may lawfully be used.
+
+(7) The Chief Constable—
+
+- (a) shall, subject to paragraphs (b) and (c), retain information received under this section for so long as the person to whom it relates remains a police officer;
+- (b) shall amend that information where the police officer to whom it relates informs the Chief Constable that there has been a change in his notifiable memberships; and
+- (c) shall destroy the information within one year from the date on which the person to whom it relates ceases to be a police officer.
+
+(8) No information received by the Chief Constable under this section is to be disclosed unless the person making the disclosure is a person to whom this subsection applies and the disclosure is made—
+
+- (a) to the Ombudsman or an officer of the Ombudsman or to any other person in connection with the exercise of any function of the Ombudsman;
+- (b) as permitted by section 63 of the 1998 Act;
+- (c) to the Board in connection with the exercise of any of its functions;
+- (d) for the purposes of any criminal, civil or disciplinary proceedings;
+- (e) in the form of a summary or other general statement which does not identify any person to whom the information relates;
+- (f) to, or with the consent of, the person to whom the information relates; or
+- (g) to another person to whom this subsection applies.
+
+(9) Subsection (8) applies to—
+
+- (a) the Chief Constable;
+- (b) a police officer engaged in carrying out on behalf of the Chief Constable his functions under this section;
+- (c) the Board, each of its members and the members of its staff; and
+- (d) a member of the police support staff engaged in carrying out on behalf of the Chief Constable his functions under this section.
+
+(10) Any person who discloses information in contravention of subsection (8) shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 5 on the standard scale.
+
+(11) It is a defence for a person charged with an offence under subsection (10) to show that, before the disclosure was made, he obtained the information otherwise than in his capacity as a person to whom subsection (8) applies.
+
+(12) But subsection (11) does not provide a defence if it is shown that the person concerned used his position as a person to whom subsection (8) applies in order to obtain the information.
+
+(13) The annual report of the Chief Constable under section 58 shall contain statistical information on the notifiable memberships of police officers of which he has been informed under this section.
+
+(14) For the purposes of this section a person is a member of an organisation if he belongs to it by virtue of his admission to any sort of membership provided for by its constitution.
+
+## Annotations
+
+[^key-fd196ba3489926cba1f0acc7b7310e84]: Modification: S. 51 applied (with modifications) (8.4.2003) by [Police (Northern Ireland) Act 2003 (c. 6)](https://www.legislation.gov.uk/ukpga/2003/6), [s. 36](https://www.legislation.gov.uk/ukpga/2003/6/section/36)
+
+[^key-ab5fddf317f3aa942926478ba3c71df6]: Textual amendment: Words in s. 51(3)(b) substituted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 3 para. 68](https://www.legislation.gov.uk/uksi/2010/976/schedule/3/paragraph/68) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))

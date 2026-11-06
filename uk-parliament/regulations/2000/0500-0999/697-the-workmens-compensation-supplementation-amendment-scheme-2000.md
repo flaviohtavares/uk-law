@@ -1,0 +1,155 @@
+---
+title: The Workmen’s Compensation (Supplementation) (Amendment) Scheme 2000
+id: uksi/2000/697
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2000-03-07'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2000/697
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2000/697/pdfs/uksi_20000697_en.pdf
+- http://www.legislation.gov.uk/uksi/2000/697/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Workmen’s Compensation (Supplementation) (Amendment) Scheme 2000
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2000 No. 697
+
+SOCIAL SECURITY
+
+The Workmen’s Compensation (Supplementation) (Amendment) Scheme 2000
+
+Made
+
+7th March 2000
+
+Laid before Parliament
+
+16th March 2000
+
+Coming into force
+
+12th April 2000
+
+The Secretary of State for Social Security, with the consent of the Treasury, in exercise of the powers conferred by paragraph 2 of Schedule 8 to the Social Security Contributions and Benefits Act 1992[^f00001] and paragraph 1 of Schedule 9 to the Social Security Administration Act 1992[^f00002] and of all other powers enabling him in that behalf, hereby makes the following Scheme:
+
+## 1. Citation, commencement and interpretation
+
+(1) This Scheme may be cited as the Workmen’s Compensation (Supplementation) (Amendment) Scheme 2000 and shall come into force on 12th April 2000.
+
+(2) In this Scheme—
+
+- “the operative date” means 12th April 2000;
+- “the principal Scheme” means the Workmen’s Compensation (Supplementation) Scheme 1982[^f00003]; and
+- “lesser incapacity allowance” means the allowance payable in accordance with article 5 of the principal Scheme.
+
+## 2. Amendment of article 5 of the principal Scheme
+
+Paragraph (2) of article 5 of the principal Scheme (lesser incapacity allowances under scheme) shall be amended by substituting for the words “14th April 1999” the words “12th April 2000”.
+
+## 3. Substitution of Schedule 1 to the principal Scheme
+
+For Schedule 1 to the principal Scheme, Part I (table of rates of lesser incapacity allowance for beneficiaries to whom article 5(2) applies) and Part II (table of loss of earnings and corresponding rates of lesser incapacity allowance), there shall be substituted the Schedule set out in the Schedule to this Scheme.
+
+## 4. Transitional provision relating to amount of allowance payable
+
+(1) Paragraph (2) of this article shall apply to a beneficiary who was, before the operative date, in receipt of a lesser incapacity allowance but in respect of whom the final calculation of loss of earnings required by article 7(2) of the principal Scheme had not been made by that date.
+
+(2) In such a case as is referred to in paragraph (1) the beneficiary shall be treated as entitled, from the operative date, to an allowance at the rate to which he would have been entitled had the final calculation been made before the operative date.
+
+## 5. Transitional provision relating to claims not made, or made but not determined, before the operative date
+
+(1) Paragraph (2) of this article shall apply to a person whose claim for lesser incapacity allowance—
+
+- (a) was not made before the operative date and who is awarded such allowance for a period after the operative date at one of the rates shown in the second column of Part II of Schedule 1 to the principal Scheme as it will have effect after the operative date; or
+- (b) was made but not determined before the operative date.
+
+(2) Any lesser incapacity allowance which is found to be payable to a person mentioned in paragraph (1) in respect of a period before the operative date shall be paid at the rate which would have been payable in respect of that period had the amendment to the principal Scheme made by article 3 of this Scheme not been made.
+
+## 6. Transitional provision relating to revision and appeal
+
+Where a lesser incapacity allowance has been awarded to a person under the principal Scheme before the operative date and a question arises as to the weekly rate of allowance payable in consequence of this Scheme, the case shall be reconsidered in the light of the amendments made by, and transitional provisions contained in, this Scheme and the allowance shall continue to be payable at the weekly rate specified in the award until the question has been determined in accordance with the provisions of the principal Scheme.
+
+Signed by authority of the Secretary of State for Social Security.
+
+Jeff Rooker
+
+Minister of State,
+
+Department of Social Security
+
+2nd March 2000
+
+We consent,
+
+Greg Pope
+
+Bob Ainsworth
+
+Two of the Lords' Commissionersof Her Majesty’s Treasury
+
+7th March 2000
+
+## SCHEDULE — CONTAINING NEW SCHEDULE 1 TO BE SUBSTITUTED IN THE PRINCIPAL SCHEME
+
+Article 3
+
+> **SCHEDULE 1**
+>
+> Article 5
+>
+> **PART I — Table of Rates of Lesser Incapacity Allowance for beneficiaries to whom article 5(2) applies**
+>
+> <table>
+> <thead>
+> <tr><th>Rate of Lesser Incapacity Allowance from 14th April 1999 to 11th April 2000</th><th>Rate of Lesser Incapacity Allowance from 12th April 2000</th></tr>
+> <tr><th>£</th><th>£</th></tr>
+> </thead>
+> <tbody>
+> <tr><td>3.35</td><td>3.40</td></tr>
+> <tr><td>8.95</td><td>9.05</td></tr>
+> <tr><td>15.15</td><td>15.30</td></tr>
+> <tr><td>21.80</td><td>22.05</td></tr>
+> <tr><td>31.40</td><td>31.75</td></tr>
+> <tr><td>39.95</td><td>40.40</td></tr>
+> </tbody>
+> </table>
+>
+> **PART II — Table of Loss of Earnings and corresponding Rates of Lesser Incapacity Allowance**
+>
+> <table>
+> <thead>
+> <tr><th>Loss of Earnings</th><th>Rate of Lesser Incapacity Allowance</th></tr>
+> <tr><th>£</th><th>£</th></tr>
+> </thead>
+> <tbody>
+> <tr><td>10.95</td><td>3.40</td></tr>
+> <tr><td>24.00</td><td>9.05</td></tr>
+> <tr><td>37.15</td><td>15.30</td></tr>
+> <tr><td>43.85</td><td>22.05</td></tr>
+> <tr><td>53.55</td><td>31.75</td></tr>
+> <tr><td>Over 53.55</td><td>40.40</td></tr>
+> </tbody>
+> </table>
+
+(This note is not part of the Scheme)
+
+This Scheme amends the Workmen’s Compensation (Supplementation) Scheme 1982 by making adjustments to the rate of lesser incapacity allowance consequential upon the increase in the maximum rate of that allowance made by the Social Security Benefits Up-rating Order 2000. The Scheme also makes transitional provision.
+
+This Scheme does not impose any costs on business.
+
+## Annotations
+
+[^f00001]: Footnote: [1992 c. 4](https://www.legislation.gov.uk/ukpga/1992/4); paragraph 2(6)(c) of Schedule 8 was amended by S.I. [2000/440](https://www.legislation.gov.uk/uksi/2000/440).
+
+[^f00002]: Footnote: [1992 c. 5](https://www.legislation.gov.uk/ukpga/1992/5); paragraph 1(6) of Schedule 9 was amended by paragraph 115 of Schedule 7 to the Social Security Act [1998 (c. 14)](https://www.legislation.gov.uk/ukpga/1998/14).
+
+[^f00003]: Footnote: S.I. [1982/1489](https://www.legislation.gov.uk/uksi/1982/1489); the relevant amending instruments are S.I. [1982/1490](https://www.legislation.gov.uk/uksi/1982/1490), [1983/1361](https://www.legislation.gov.uk/uksi/1983/1361), [1984/1118](https://www.legislation.gov.uk/uksi/1984/1118), [1985/1446](https://www.legislation.gov.uk/uksi/1985/1446), [1986/1174](https://www.legislation.gov.uk/uksi/1986/1174), [1987/419](https://www.legislation.gov.uk/uksi/1987/419) and [429](https://www.legislation.gov.uk/uksi/1987/429), [1988/574](https://www.legislation.gov.uk/uksi/1988/574), [1989/525](https://www.legislation.gov.uk/uksi/1989/525), [1990/688](https://www.legislation.gov.uk/uksi/1990/688) and [2538](https://www.legislation.gov.uk/uksi/1990/2538), [1991/718](https://www.legislation.gov.uk/uksi/1991/718), [1992/319](https://www.legislation.gov.uk/uksi/1992/319), [1993/422](https://www.legislation.gov.uk/uksi/1993/422), [1994/671](https://www.legislation.gov.uk/uksi/1994/671), [1995/746](https://www.legislation.gov.uk/uksi/1995/746), [1996/598](https://www.legislation.gov.uk/uksi/1996/598), [1997/731](https://www.legislation.gov.uk/uksi/1997/731) and [823](https://www.legislation.gov.uk/uksi/1997/823), [1998/571](https://www.legislation.gov.uk/uksi/1998/571) and [1999/720](https://www.legislation.gov.uk/uksi/1999/720).

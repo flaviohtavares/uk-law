@@ -1,0 +1,29 @@
+---
+title: Finance Act 2014, section 158
+act: Finance Act 2014
+section: '158'
+status: revised-with-pending-changes
+text_date: '2026-06-25'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2014/26/section/158
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Finance Act 2014, section 158
+
+> **Warning: changes not yet applied to this text (30).** Text as at 2026-06-25. See https://www.legislation.gov.uk/changes/affected/ukpga/2014/26
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 158. Profits on retained prizes
+
+*Extent: E+W+S+N.I.*
+
+(1) The amount of a gaming provider's profits for an accounting period in respect of retained prizes is the aggregate of the amounts which cease to be qualifying amounts during the accounting period.
+
+(2) An amount is a qualifying amount for the purposes of this section if, as a result of a person (“P”) being notified as mentioned in section 160(1), it has been taken into account in calculating the provider's profits for any accounting period under section 156 or 157.
+
+(3) An amount ceases to be a qualifying amount for the purposes of this section if, otherwise than by virtue of being withdrawn by P as mentioned in section 160(1), P ceases to be entitled to withdraw it.
+
+(4) The Commissioners may by notice published by them direct that subsection (3) is not to apply in a specified case or class of cases.

@@ -1,0 +1,152 @@
+---
+title: The Mobile Homes (Written Statement) (England) Regulations 2011
+id: uksi/2011/1006
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2011-04-04'
+text_date: '2015-10-01'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2011/1006
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2011/1006/pdfs/uksiem_20111006_en.pdf
+- http://www.legislation.gov.uk/uksi/2011/1006/pdfs/uksi_20111006_en.pdf
+- http://www.legislation.gov.uk/uksi/2011/1006/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Mobile Homes (Written Statement) (England) Regulations 2011
+
+> Text as at 2015-10-01.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2011 No. 1006
+
+Mobile Homes, England
+
+The Mobile Homes (Written Statement) (England) Regulations 2011
+
+Made
+
+4th April 2011
+
+Laid before Parliament
+
+7th April 2011
+
+Coming into force
+
+30th April 2011
+
+The Secretary of State, in exercise of the powers conferred by section 1(2)(e) of the Mobile Homes Act 1983[^f00001], makes the following Regulations.
+
+## 1. Citation, commencement and application[^key-20adac5943ca43da6469e2c88ca32ab0]
+
+(1) These Regulations may be cited as the Mobile Homes (Written Statement) (England) Regulations 2011 and come into force on 30th April 2011.
+
+(2) These Regulations apply in relation to any written statement given on or after 30th April 2011 with respect to an agreement—
+
+- (a) for the stationing of a mobile home on a protected site[^f00002] in England, and
+- (b) to which the 1983 Act will apply.
+
+## 2. Interpretation[^key-960003222697be01839bbbc07115e43f]
+
+In these Regulations—
+
+- “the 1983 Act” means the Mobile Homes Act 1983;
+- “written statement” means the written statement that the owner of a protected site is required by section 1(2) of the 1983 Act to give to the proposed occupier.
+
+## 3. Written statement: prescribed requirements[^key-6c50e052bcf56c49e09f811541fcbd94]
+
+The requirements with which a written statement must comply for the purposes of section 1(2) of the 1983 Act (in addition to the requirements of sections 1(2)(a) to (d) of the 1983 Act) are—
+
+- (a) that it must contain—
+  - (i) the note preceding Part 1 of the Schedule to these Regulations, and
+  - (ii) the information mentioned in Parts 1 to 3 of that Schedule (so far as not already required by section 1(2)(a) to (d) of the 1983 Act), and
+- (b) that it must be in the form set out in that Schedule or a form substantially to the same effect.
+
+## 4. Revocation[^key-dfaec734310e4a10164f1a05d2448371]
+
+The Mobile Homes (Written Statement) (England) Regulations 2006[^f00003] are revoked.
+
+Signed by authority of the Secretary of State for Communities and Local Government
+
+Grant Shapps
+
+Minister of State
+
+Department for Communities and Local Government
+
+4th April 2011
+
+## SCHEDULE — WRITTEN STATEMENT UNDER THE MOBILE HOMES ACT 1983 REQUIRED TO BE GIVEN TO A PROPOSED OCCUPIER OF A PITCH
+
+Regulation 3
+
+[^key-3237ce70ef580d7f2406200971479521][^key-c4afb91f6b63b3be81c9b047a40e7d8f][^key-e2257306a368c267176a3855f9cba631][^key-64b570be97b82e32d1abec3b3330fbe9][^key-7f942776f2c0721d74f3a25af4e196dc][^key-d2708d6034e10be563e23905485353ab][^key-c7e19ab41b0445abb34e4340074b5479][^key-8e4a1f2931e0d0178e665dc2deb60458][^key-739d3f09d00a6b579128652b938d8d9f][^key-72fa5825ae6551241a5722a95a8ae65b][^key-71802d2a8ee24e1de873ba6d3b49ca2a][^key-03054dba0fde164286cc155383d1f21c]PART 1
+
+[image: see source](https://www.legislation.gov.uk/uksi/2011/1006/images/uksi_20111006_en_001) [image: see source](https://www.legislation.gov.uk/uksi/2011/1006/images/uksi_20111006_en_002) [image: see source](https://www.legislation.gov.uk/uksi/2011/1006/images/uksi_20111006_en_003) [image: see source](https://www.legislation.gov.uk/uksi/2011/1006/images/uksi_20111006_en_004) [image: see source](https://www.legislation.gov.uk/uksi/2011/1006/images/uksi_20111006_en_005)
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+The Mobile Homes Act 1983 (“the 1983 Act”) applies to all agreements under which persons are entitled to station a mobile home on a protected site and occupy it as their only or main residence. The 1983 Act provides that before such an agreement is entered into the site owner must give to the proposed occupier of the mobile home a written statement which must include the matters specified in section 1(2)(a) to (d) of the 1983 Act and such other matters which are specified by regulations.
+
+These Regulations specify that the written statement must contain certain information, in addition to that required by section 1(2)(a) to (d) to the 1983 Act, and must be in the form set out in the Schedule.
+
+Part 1 of the Schedule contains information about the occupier’s rights under the agreement.
+
+Part 2 of the Schedule sets out the main provisions of the agreement, name and address, particulars of the land, pitch fee, its review and additional charges.
+
+Part 3 of the Schedule contains any other express terms of the agreement.
+
+These Regulations revoke the Mobile Homes (Written Statement) (England) Regulations 2006.
+
+An impact assessment has not been prepared for this instrument as it has no significant impact on the private or voluntary sectors.
+
+## Annotations
+
+[^f00001]: Footnote: [1983 c. 34](https://www.legislation.gov.uk/ukpga/1983/34). Section 1 of the 1983 Act was substituted by section 206(1) of the Housing Act [2004 (c. 34)](https://www.legislation.gov.uk/ukpga/2004/34). The power to make regulations under section 1(2) is, in relation to England, conferred on the Secretary of State and, in relation to Wales, conferred on the Welsh Ministers, *see* the definition of “appropriate national authority” in section 5(1) of the 1983 Act, as amended by section 261 of the Housing Act 2004. The 1983 Act extends to England and Wales and Scotland and has been substantially amended, in relation to England and Wales by sections 206 to 208 of the Housing Act 2004, the Mobile Homes Act 1983 (Jurisdiction of Residential Property Tribunals) (England) Order 2011 ([S.I. 2011/1005](https://www.legislation.gov.uk/uksi/2011/1005)), the Housing and Regeneration Act 2008 (Consequential Amendments to the Mobile Homes Act 1983) Order 2011 ([S.I. 2011/1004](https://www.legislation.gov.uk/uksi/2011/1004)), and, in relation to England, by the [Mobile Homes Act 1983 (Amendment of Schedule 1) (England) Order 2006 (S.I. No 2006/1755)](https://www.legislation.gov.uk/uksi/2006/1755) and the Mobile Homes Act 1983 (Amendment of Schedule 1 and Consequential Amendments) (England) Order 2011 ([S.I. 2011/1003](https://www.legislation.gov.uk/uksi/2011/1003)).
+
+[^key-20adac5943ca43da6469e2c88ca32ab0]: Commencement: Reg. 1 in force at 30.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1006/regulation/1/1)
+
+[^f00002]: Footnote: For the definitions of “mobile home” and “protected site”, *see* section 5(1) of the 1983 Act.
+
+[^key-960003222697be01839bbbc07115e43f]: Commencement: Reg. 2 in force at 30.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1006/regulation/1/1)
+
+[^key-6c50e052bcf56c49e09f811541fcbd94]: Commencement: Reg. 3 in force at 30.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1006/regulation/1/1)
+
+[^key-dfaec734310e4a10164f1a05d2448371]: Commencement: Reg. 4 in force at 30.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1006/regulation/1/1)
+
+[^f00003]: Footnote: [S.I. 2006/2275](https://www.legislation.gov.uk/uksi/2006/2275).
+
+[^key-3237ce70ef580d7f2406200971479521]: Commencement: Sch. in force at 30.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1006/regulation/1/1)
+
+[^key-c4afb91f6b63b3be81c9b047a40e7d8f]: Textual amendment: Sch. para. 6: words “the First-tier Tribunal” substituted for “a residential property tribunal” (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 2 para. 48(a)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/2/paragraph/48/a) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+
+[^key-e2257306a368c267176a3855f9cba631]: Textual amendment: Sch. para. 7: words “residential property” omitted (1.7.2013) by virtue of [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 2 para. 48(b)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/2/paragraph/48/b) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+
+[^key-64b570be97b82e32d1abec3b3330fbe9]: Textual amendment: Sch. para. 8: words “residential property” omitted (1.7.2013) by virtue of [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 2 para. 48(b)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/2/paragraph/48/b) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+
+[^key-7f942776f2c0721d74f3a25af4e196dc]: Textual amendment: Sch. para. 11: words “the First-tier Tribunal” substituted for “a Residential Property Tribunal” (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 2 para. 48(c)(i)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/2/paragraph/48/c/i) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+
+[^key-d2708d6034e10be563e23905485353ab]: Textual amendment: Sch. para. 11: words “the website of the Ministry of Justice: www.justice.gov.uk ” substituted for “the website of the Ministry of Justice: www.justice.gov.uk” (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 2 para. 48(c)(ii)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/2/paragraph/48/c/ii) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+
+[^key-c7e19ab41b0445abb34e4340074b5479]: Textual amendment: Sch. para. 14: words “a tribunal” substituted for “a Residential Property Tribunal” (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 2 para. 48(d)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/2/paragraph/48/d) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+
+[^key-8e4a1f2931e0d0178e665dc2deb60458]: Textual amendment: [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2011/1006/schedule/part/1): after para. 3, words “The following paragraph does not apply to an agreement for a transit or permanent pitch on a local authority or county council Gypsy and Traveller site (3A) The site rules for your site, as deposited with your local authority, also form part of the express terms of your agreement, which are set out in Part 3 of this statement. Site rules may only be made, varied or deleted in accordance with the prescribed procedure, as set out in section 2C of the 1983 Act” inserted (4.2.2014) by [The Mobile Homes (Site Rules) (England) Regulations 2014 (S.I. 2014/5)](https://www.legislation.gov.uk/uksi/2014/5), [regs. 1](https://www.legislation.gov.uk/uksi/2014/5/regulation/1), [18(1)(a)](https://www.legislation.gov.uk/uksi/2014/5/regulation/18/1/a)
+
+[^key-739d3f09d00a6b579128652b938d8d9f]: Textual amendment: [Sch. para. 4](https://www.legislation.gov.uk/uksi/2011/1006/schedule/paragraph/4): at the end of the sentence within the brackets “The following paragraphs do not apply to an agreement for a transit pitch on a local authority or county council Gypsy and Traveller site”, words “They also do not apply to site rules which form part of the express terms of your agreement.” inserted (4.2.2014) by [The Mobile Homes (Site Rules) (England) Regulations 2014 (S.I. 2014/5)](https://www.legislation.gov.uk/uksi/2014/5), [regs. 1](https://www.legislation.gov.uk/uksi/2014/5/regulation/1), [18(1)(b)](https://www.legislation.gov.uk/uksi/2014/5/regulation/18/1/b)
+
+[^key-72fa5825ae6551241a5722a95a8ae65b]: Textual amendment: Sch. 1 para. 8: after heading “Six months time limit for challenging the terms”, words “They also do not apply to site rules which form part of the express terms of your agreement.” inserted (4.2.2014) by [The Mobile Homes (Site Rules) (England) Regulations 2014 (S.I. 2014/5)](https://www.legislation.gov.uk/uksi/2014/5), [regs. 1](https://www.legislation.gov.uk/uksi/2014/5/regulation/1), [18(1)(c)](https://www.legislation.gov.uk/uksi/2014/5/regulation/18/1/c)
+
+[^key-71802d2a8ee24e1de873ba6d3b49ca2a]: Textual amendment: [Sch. para. 10](https://www.legislation.gov.uk/uksi/2011/1006/schedule/paragraph/10): words “Competition and Markets Authority” substituted for “Office of Fair Trading” (1.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) (No. 2) Order 2014 (S.I. 2014/549)](https://www.legislation.gov.uk/uksi/2014/549), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/549/article/1/1), [Sch. 1 para. 44](https://www.legislation.gov.uk/uksi/2014/549/schedule/1/paragraph/44) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/549/article/3))
+
+[^key-03054dba0fde164286cc155383d1f21c]: Textual amendment: Sch. para. 10: words “Consumer Rights Act 2015” substituted for “Unfair Terms in Consumer Contracts Regulations 1999” (1.10.2015) by [The Consumer Rights Act 2015 (Commencement No. 3, Transitional Provisions, Savings and Consequential Amendments) Order 2015 (S.I. 2015/1630)](https://www.legislation.gov.uk/uksi/2015/1630), [art. 1](https://www.legislation.gov.uk/uksi/2015/1630/article/1), [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2015/1630/schedule/1/paragraph/5)

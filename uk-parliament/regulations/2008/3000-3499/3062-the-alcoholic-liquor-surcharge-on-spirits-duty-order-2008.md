@@ -1,0 +1,87 @@
+---
+title: The Alcoholic Liquor (Surcharge on Spirits Duty) Order 2008
+id: uksi/2008/3062
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2008-11-26'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2008/3062
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2008/3062/pdfs/uksiem_20083062_en.pdf
+- http://www.legislation.gov.uk/uksi/2008/3062/pdfs/uksi_20083062_en.pdf
+- http://www.legislation.gov.uk/uksi/2008/3062/made/data.pdf
+pending_changes: 1
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Alcoholic Liquor (Surcharge on Spirits Duty) Order 2008
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2008 No. 3062
+
+Excise
+
+The Alcoholic Liquor (Surcharge on Spirits Duty) Order 2008
+
+Approved by the House of Commons
+
+Made
+
+26th November 2008
+
+Laid before the House of Commons
+
+26th November 2008
+
+Coming into force
+
+1st December 2008
+
+The Treasury make this Order exercising the powers conferred by sections 1(2)(a), 1(1)(a) and 2(3) of the Excise Duties (Surcharges or Rebates) Act 1979[^f00001].
+
+**1.** (1) This Order may be cited as the Alcoholic Liquor (Surcharge on Spirits Duty) Order 2008.
+
+(2) It takes effect on 1st December 2008.
+
+**2.** (1) The surcharge on the liability to the excise duty chargeable in respect of spirits[^f00002] in Schedule 1 to the Alcoholic Liquor Duties (Surcharges) and Tobacco Products Duty Order 2008[^f00003] is negated[^f00004].
+
+(2) Instead, the liability to the excise duty chargeable in respect of spirits is adjusted as follows.
+
+(3) To the amount payable, 4 per cent of that amount is added[^f00005].
+
+Frank Roy
+
+Steve McCabe
+
+Two of the Lords Commissioners of Her Majesty’s Treasury
+
+26th November 2008
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+Liability to the excise duty on spirits increases on 1 December 2008 by 4% of the amount payable[^f00006] (instead of by 8%[^f00007]).
+
+A full Impact Assessment has not been produced for this instrument as no impact on the private or voluntary sectors is foreseen.
+
+## Annotations
+
+[^f00001]: Footnote: [1979 c. 8](https://www.legislation.gov.uk/ukpga/1979/8); section 1(2) was amended by section 10(2) of the [Finance Act 1980 (c. 48)](https://www.legislation.gov.uk/ukpga/1980/48) and by section 10(1) of the [Finance Act 1982 (c. 39)](https://www.legislation.gov.uk/ukpga/1982/39); section 1(1)(a) was amended by Schedule 23 Part 1(4) to the [Finance Act 1993 (c. 34)](https://www.legislation.gov.uk/ukpga/1993/34); section 2(3) was substituted by section 10(2) of the [Finance Act 1982 (c. 39)](https://www.legislation.gov.uk/ukpga/1982/39).
+
+[^f00002]: Footnote: Equivalent expressions have the same meaning as in the [Alcoholic Liquor Duties Act 1979 (c. 4)](https://www.legislation.gov.uk/ukpga/1979/4) (see section 4(1) of the [Excise Duties (Surcharges or Rebates) Act 1979 (c. 8)](https://www.legislation.gov.uk/ukpga/1979/8) and section 1(1) of the [Customs and Excise Management Act 1979 (c. 2)](https://www.legislation.gov.uk/ukpga/1979/2)). For the excise duty on spirits, see sections 1(1), 1(2) and 5 of the Alcoholic Liquor Duties Act 1979 (section 1(2) was substituted by regulation 2(2) of [S.I. 1992/3158](https://www.legislation.gov.uk/uksi/1992/3158), and then amended by the [Finance Act 1995 (c. 4)](https://www.legislation.gov.uk/ukpga/1995/4) Schedule 29 Part 1(3) and [S.I. 2005/1523 (C. 67)](https://www.legislation.gov.uk/uksi/2005/1523); relevant amendments to section 5 were made by section 1(1) of the [Finance Act 1982 (c. 39)](https://www.legislation.gov.uk/ukpga/1982/39) and section 11(2) of the [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9)).
+
+[^f00003]: Footnote: [S.I. 2008/3026](https://www.legislation.gov.uk/uksi/2008/3026).
+
+[^f00004]: Footnote: This does not affect the surcharges in that Schedule on the liabilities to the excise duties chargeable in respect of beer, wine, made-wine and cider.
+
+[^f00005]: Footnote: The adjustment shall be made where the duty becomes due while the order is in force with respect to it, see section 1(3) of the [Excise Duties (Surcharges or Rebates) Act 1979 (c. 8)](https://www.legislation.gov.uk/ukpga/1979/8) (to which there is an amendment not relevant to this instrument).
+
+[^f00006]: Footnote: Articles 1(2) and 2 of the instrument. These cease to be in force at the expiration of one year from the date on which they take effect unless continued in force by a further order, see section 2(2) of the [Excise Duties (Surcharges or Rebates) Act 1979 (c. 8)](https://www.legislation.gov.uk/ukpga/1979/8) (substituted by section 10(3) of the [Finance Act 1980 (c. 48)](https://www.legislation.gov.uk/ukpga/1980/48)).
+
+[^f00007]: Footnote: As would otherwise have been the case given articles 1(2) and 2 of, and Schedule 1 to, [S.I. 2008/3026](https://www.legislation.gov.uk/uksi/2008/3026).

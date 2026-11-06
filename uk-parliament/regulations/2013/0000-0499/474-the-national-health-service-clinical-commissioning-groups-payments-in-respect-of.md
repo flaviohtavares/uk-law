@@ -1,0 +1,165 @@
+---
+title: The National Health Service (Clinical Commissioning Groups – Payments in Respect of Quality) Regulations 2013
+id: uksi/2013/474
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2013-03-04'
+text_date: '2023-11-06'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2013/474
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2013/474/pdfs/uksiem_20130474_en.pdf
+- http://www.legislation.gov.uk/uksi/2013/474/pdfs/uksi_20130474_en.pdf
+- http://www.legislation.gov.uk/uksi/2013/474/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The National Health Service (Clinical Commissioning Groups – Payments in Respect of Quality) Regulations 2013
+
+> Text as at 2023-11-06.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2013 No. 474
+
+National Health Service, England
+
+The National Health Service (Clinical Commissioning Groups – Payments in Respect of Quality) Regulations 2013
+
+Made
+
+4th March 2013
+
+Laid before Parliament
+
+7th March 2013
+
+Coming into force
+
+1st April 2013
+
+The Secretary of State for Health makes the following Regulations in exercise of the powers conferred by sections 223K and 272(7) and (8) of the National Health Service Act 2006[^f00001].
+
+## 1. Citation, commencement and interpretation[^key-d38214b92ce68757c7291e2d06d1e186]
+
+(1) These Regulations may be cited as the National Health Service (Clinical Commissioning Groups – Payments in Respect of Quality) Regulations 2013, and come into force on 1st April 2013.
+
+(2) In these Regulations—
+
+- “the 2006 Act” means the National Health Service Act 2006;
+- “the 2012 Act” means the Health and Social Care Act 2012[^f00002];
+- [^key-6fcb718764d0f1411928a069a7de22ac]...
+- “[^key-e3795ae1ce2b464b5b85f9336d74a3ea]**integrated care board**” means an integrated care board established under Chapter A3 of Part 2 of the 2006 Act;
+- “joint health and wellbeing strategy” means a strategy under section 116A of the Local Government and Public Involvement in Health Act 2007 (health and social care: joint health and wellbeing strategies)[^f00004] which is prepared and published by a Health and Wellbeing Board by virtue of section 196 of the 2012 Act (other functions of Health and Wellbeing Boards)[^f00005];
+- “performance indicator” means a matter by reference to which an integrated care board’s[^key-54d648307e549c146bf478690ddaddba] performance in relation to one or more of the factors listed in section 223K(2) or (3) of the 2006 Act may be measured;
+- “relevant financial year” means the financial year in respect of which NHS England[^key-fb16048132895353f498a2dd2a342fed] is considering whether or not to make any payment under section 223K of the 2006 Act.
+
+## 2. Principles or other matters that the Board must take into account[^key-cf31abf7fcfb9fa32f81ae59c213e1b2]
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 3. Principles or other matters that the Board may take into account[^key-cf31abf7fcfb9fa32f81ae59c213e1b2]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 4. Circumstances in which the Board may withhold or reduce payment[^key-cf31abf7fcfb9fa32f81ae59c213e1b2]
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 5. Procedure[^key-e03a85b111ba28e20e538ca675ab42c6]
+
+(1) NHS England must before the start of each relevant period publish the procedure that it proposes to adopt in relation to that period, for the purpose of determining whether to make a payment to an integrated care board under section 223K(1) of the 2006 Act, and if so, the amount of such a payment.
+
+(2) The procedure must in particular—
+
+- (a) set out the arrangements made by NHS England for securing that there is transparency about the exercise of NHS England’s functions under section 223K of the 2006 Act; and
+- (b) in relation to any relevant period that begins on or after 1st April 2014, allow for an integrated care board to propose to NHS England, and for NHS England to adopt, performance indicators relating to a relevant joint health and wellbeing strategy.
+
+(3) The procedure may in relation to the relevant period that begins on 30th April 2013 and ends on 31st March 2014 allow for an integrated care board to propose to NHS England and for NHS England to adopt, performance indicators relating to any relevant draft joint health and wellbeing strategy which it is proposed should apply to the relevant financial year or any part of that year.
+
+(4) For the purposes of this regulation—
+
+- (a) “relevant joint health and wellbeing strategy” means a joint health and wellbeing strategy that relates to the relevant financial year or any part of the relevant financial year and “relevant draft joint health and wellbeing strategy” is to be construed accordingly;
+- (b) “relevant period” means—
+  - (i) the period which begins on 30th April 2013 and ends on 31st March 2014; and
+  - (ii) each subsequent financial year.
+
+## 6. Provision in relation to how payments may be spent[^key-22981ee8c46cd84d0990c2295ab8c2d2]
+
+(1) Payments under section 223K of the 2006 Act may only be spent by an integrated care board in relation to—
+
+- (a) securing improvement in—
+  - (i) the quality of health services; or
+  - (ii) the outcomes achieved from the provision of health services; or
+- (b) reducing inequalities between patients with respect to—
+  - (i) their ability to access health services; or
+  - (ii) the outcomes achieved for them by the provision of health services.
+
+(2) In this regulation—
+
+- “health services” means services provided as part of the health service in England;
+- “patient” means any person to whom health services are being or may be provided.
+
+Signed by the authority of the Secretary of State for Health.
+
+Earl Howe
+
+Parliamentary Under-Secretary of State,
+
+Department of Health
+
+4th March 2013
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations make provision in relation to payments to clinical commissioning groups (“CCGs”) in respect of quality.
+
+Under section 223K of the National Health Service Act 2006 (“the 2006 Act”), inserted by section 27 of the Health and Social Care Act 2012 (“the 2012 Act”), the National Health Service Commissioning Board (“the Board”), may after the end of a financial year make a payment to a CCG. Section 223K(2) of the 2006 Act sets out factors in relation to quality of services, outcomes achieved from the provision of those services and improvements to such quality and outcomes. The Board must take into account at least one of these factors in determining whether to make a payment and if so the amount. The Board may also under section 223K(3) of the 2006 Act, take into account any relevant inequalities identified during that year and any reduction in relevant inequalities identified during that year in comparison with relevant inequalities identified over previous years.
+
+Regulation 2 sets out the principles or other matters that the Board must take into account in assessing the factors listed in section 223K(2) and (3) of the 2006 Act. Regulation 3 sets out the matters that the Board may take into account in assessing the factors listed in section 223K(2) and (3) of the 2006 Act.
+
+Regulation 4 sets out the circumstances when the Board may if it considers that it is appropriate to do so either not make a payment to a CCG that it would otherwise make or reduce the amount of a payment that it would otherwise have made.
+
+Regulation 5 makes provision requiring the Board to publish the procedure that it proposes to adopt in determining whether to make a payment to a CCG under section 223K and, if so, the amount of such a payment. It also sets out some requirements in relation to that procedure.
+
+Regulation 6 sets out that payments made to a CCG by the Board under section 223K may only be spent by a CCG for the purposes of improving the quality of health services provided and outcomes achieved for patients or to reduce inequalities between patients with respect to access to and outcomes from health services.
+
+An impact assessment has not been produced for this instrument as the instrument itself has no impact on the private sector or civil society organisations. A full impact assessment has been produced in relation to the provisions of the 2012 Act and a copy is available at http://www.dh.gov.uk/en/Publicationsandstatistics/Publications/PublicationsLegislation/DH\_123583.
+
+## Annotations
+
+[^f00001]: Footnote: [2006 c. 41](https://www.legislation.gov.uk/ukpga/2006/41). Section 223K of the National Health Service Act 2006 (“the 2006 Act”), was inserted into the 2006 Act by section 27 of the Health and Social Care Act [2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7) (“the 2012 Act”). By virtue of section 271(1) of the 2006 Act, the powers exercised in making these Regulations are exercisable by the Secretary of State only in relation to England. *See* section 275(1) of the 2006 Act for the definitions of “prescribed” and “regulations”.
+
+[^key-d38214b92ce68757c7291e2d06d1e186]: Commencement: Reg. 1 in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/474/regulation/1/1)
+
+[^f00002]: Footnote: [2012 c .7](https://www.legislation.gov.uk/ukpga/2012/7).
+
+[^key-6fcb718764d0f1411928a069a7de22ac]: Textual amendment: Words in reg. 1(2) omitted (1.7.2022) by virtue of [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [67(2)(a)](https://www.legislation.gov.uk/uksi/2022/634/regulation/67/2/a)
+
+[^key-e3795ae1ce2b464b5b85f9336d74a3ea]: Textual amendment: Words in reg. 1(2) inserted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [67(2)(b)](https://www.legislation.gov.uk/uksi/2022/634/regulation/67/2/b)
+
+[^f00004]: Footnote: [2007 c. 28](https://www.legislation.gov.uk/ukpga/2007/28). Section 116A of the Local Government and Public Involvement in Health Act 2007 was inserted by section 193 of the 2012 Act.
+
+[^f00005]: Footnote: A Health and Wellbeing Board is established under section 194 of the 2012 Act.
+
+[^key-54d648307e549c146bf478690ddaddba]: Textual amendment: Words in Regulations substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1)
+
+[^key-fb16048132895353f498a2dd2a342fed]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
+
+[^key-cf31abf7fcfb9fa32f81ae59c213e1b2]: Textual amendment: [Regs. 2-4](https://www.legislation.gov.uk/uksi/2013/474/regulation/2) omitted (1.7.2022) by virtue of [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [210(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/210/2)
+
+[^key-e03a85b111ba28e20e538ca675ab42c6]: Commencement: Reg. 5 in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/474/regulation/1/1)
+
+[^key-22981ee8c46cd84d0990c2295ab8c2d2]: Commencement: Reg. 6 in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/474/regulation/1/1)

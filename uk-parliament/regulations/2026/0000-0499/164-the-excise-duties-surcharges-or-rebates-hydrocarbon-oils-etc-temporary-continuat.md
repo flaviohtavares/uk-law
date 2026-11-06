@@ -1,0 +1,272 @@
+---
+title: The Excise Duties (Surcharges or Rebates) (Hydrocarbon Oils etc.) (Temporary Continuation of 2022 Order and Adjustments) Order 2026
+id: uksi/2026/164
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2026-02-25'
+text_date: '2026-06-15'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2026/164
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2026/164/pdfs/uksiem_20260164_en_001.pdf
+- http://www.legislation.gov.uk/uksi/2026/164/pdfs/uksi_20260164_en.pdf
+- http://www.legislation.gov.uk/uksi/2026/164/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Excise Duties (Surcharges or Rebates) (Hydrocarbon Oils etc.) (Temporary Continuation of 2022 Order and Adjustments) Order 2026
+
+> Text as at 2026-06-15.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2026 No. 164
+
+EXCISE
+
+The Excise Duties (Surcharges or Rebates) (Hydrocarbon Oils etc.) (Temporary Continuation of 2022 Order and Adjustments) Order 2026
+
+Made
+
+25th February 2026
+
+Laid before the House of Commons
+
+26th February 2026
+
+Coming into force
+
+23rd March 2026
+
+The Treasury make this Order in exercise of the powers conferred by sections 1(2) and 2(2) and (3) of the Excise Duties (Surcharges or Rebates) Act 1979[^f00001].
+
+## 1. Citation, commencement and effect[^key-a333765d521c9846384807e9475f6e2b]
+
+(1) This Order may be cited as the Excise Duties (Surcharges or Rebates) (Hydrocarbon Oils etc.) (Temporary Continuation of 2022 Order and Adjustments) Order 2026 and comes into force on 23rd March 2026.
+
+(2) Article 3 has effect in relation to products charged with duty under the Oil Act in the period beginning with 23rd March 2026 and ending with 31st December 2026[^key-89eec06ddb8fa6c321494f07d1c6c453].
+
+(3)[^key-dbf8858a9229eafc6f8c6cc0ba8e6cc1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) Articles 8 to 11 have effect in relation to products charged with duty under the Oil Act in the period beginning with 1st January 2027[^key-c13d850695a3715fffcf08e470de69a6] and ending with 28th February 2027.
+
+## 2. Interpretation[^key-9eba1472b786311361517f4da343fdfd]
+
+In this Order—
+
+- (a) “**the Oil Act**” means the Hydrocarbon Oil Duties Act 1979[^f00002];
+- (b) expressions used in this Order and in section 27(1) (interpretation) of the Oil Act[^f00003] have the same meaning as in the Oil Act;
+- (c) “**aqua methanol additive or extender duty**” means the duty charged by section 6AG(1) of the Oil Act (excise duty on aqua methanol) where the chargeable use is within subsection (2)(b) of that section[^f00004];
+- (d) “**fuel oil**” has the same meaning as in section 11(2) of the Oil Act (rebate on heavy oil)[^f00005];
+- (e) “**fuel substitutes duty**” means the duty charged by section 6A(1) of the Oil Act (fuel substitutes)[^f00006];
+- (f) “**hydrocarbon oil duty**” means the duty charged by section 6(1) of the Oil Act (excise duty on hydrocarbon oil)[^f00007];
+- (g) “**natural road fuel gas**” has the same meaning as in section 5(2) of the Oil Act (road fuel gas)[^f00008].
+
+## 3. Continuation of the Excise Duties (Surcharges or Rebates) (Hydrocarbon Oils etc.) Order 2022[^key-d6a38802262211421e2f71162fe5cc4c]
+
+The Excise Duties (Surcharges or Rebates) (Hydrocarbon Oils etc.) Order 2022[^f00009] continues in force until the end of 31st December 2026[^key-a4a89ec3c5a1d7bb5a96fbc82f3b07a3], instead of expiring in accordance with section 2(2) of the Excise Duties (Surcharges or Rebates) Act 1979, article 2 of the Excise Duties (Surcharges or Rebates) (Hydrocarbon Oils etc.) Order 2022 (Continuation) Order 2023[^f00010], article 2 of the Excise Duties (Surcharges or Rebates) (Hydrocarbon Oils etc.) Order 2022 (Continuation) Order 2024[^f00011], or article 2 of the Excise Duties (Surcharges or Rebates) (Hydrocarbon Oils etc.) Order 2022 (Continuation) Order 2025[^f00012].
+
+## 4. Adjustments of liability to duties chargeable by virtue of the Oil Act in the period beginning with 1st September 2026 and ending with 30th November 2026[^key-5eabb665a41e275e535f9261af73c29d]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 5. Adjustments of rights to rebate of duties chargeable by virtue of the Oil Act in the period beginning with 1st September 2026 and ending with 30th November 2026[^key-5eabb665a41e275e535f9261af73c29d]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 6. Adjustments of liability to fuel substitutes duty in the period beginning with 1st September 2026 and ending with 30th November 2026[^key-5eabb665a41e275e535f9261af73c29d]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 7. Adjustments of liability to aqua methanol additive or extender duty in the period beginning with 1st September 2026 and ending with 30th November 2026[^key-5eabb665a41e275e535f9261af73c29d]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 8. Adjustments of liability to duties chargeable by virtue of the Oil Act in the period beginning with 1st January 2027 and ending with 28th February 2027[^key-7a589b953dc623108c01c6ff544e1145][^key-22cba3264d586200bb2eb02a900417ea]
+
+(1) The following are adjusted in accordance with Table D—
+
+- (a) the liability to hydrocarbon oil duty in respect of the products listed in rows (a) to (d) of column *(A)*;
+- (b) the liability to the duty charged on biodiesel by section 6AA(1) (excise duty on biodiesel) of the Oil Act;
+- (c) the liability to the duty charged on bioblend by section 6AB(1) (excise duty on blends of biodiesel and heavy oils) of the Oil Act;
+- (d) the liability to the duty charged on bioethanol by section 6AD(1) (excise duty on bioethanol) of the Oil Act;
+- (e) the liability to the duty charged on bioethanol blend by section 6AE(1) (excise duty on blends of bioethanol and hydrocarbon oil) of the Oil Act;
+- (f) the liability to the duty charged on aqua methanol by section 6AG(1) (excise duty on aqua methanol) of the Oil Act,
+
+by the deduction from the amount payable of the percentages specified in column *(C)*.
+
+Table D
+
+|  | (A) | (B) | (C) | (D) |
+| --- | --- | --- | --- | --- |
+|  | Product | Amount payable before adjustment (£ per litre) | Percentage deduction | Amount payable after adjustment (£ per litre) |
+| (a) | Unleaded petrol | 0.5795 | 3.45 | 0.5595 |
+| (b) | Light oil other than unleaded petrol or aviation gasoline | 0.6767 | 2.96 | 0.6567 |
+| (c) | Heavy oil | 0.5795 | 3.45 | 0.5595 |
+| (d) | Aviation gasoline | 0.3820 | 2.02 | 0.3743 |
+| (e) | Biodiesel | 0.5795 | 3.45 | 0.5595 |
+| (f) | Bioblend | 0.5795 | 3.45 | 0.5595 |
+| (g) | Bioethanol | 0.5795 | 3.45 | 0.5595 |
+| (h) | Bioethanol blend | 0.5795 | 3.45 | 0.5595 |
+| (i) | Aqua methanol | 0.0790 | 3.45 | 0.0763 |
+
+(2) The figures in columns *(B)* and *(D)* are only for ease of reference and comprehension of effect.
+
+(3) The liability to the duty charged on road fuel gas by section 8(1) and (2) of the Oil Act (excise duty on road fuel gas) is adjusted in accordance with Table E by the deduction from the amount payable of the percentages specified in column *(C)*.
+
+Table E
+
+|  | (A) | (B) | (C) | (D) |
+| --- | --- | --- | --- | --- |
+|  | Product | Amount payable before adjustment | Percentage deduction | Amount payable after adjustment (£ per kilogram) |
+| (a) | Natural road fuel gas | 0.2470 | 3.45 | 0.2385 |
+| (b) | Road fuel gas other than natural road fuel gas | 0.3161 | 3.45 | 0.3052 |
+
+(4) The figures in columns *(B)* and *(D)* are only for ease of reference and comprehension of effect.
+
+## 9. Adjustments of rights to rebate of duties chargeable by virtue of the Oil Act in the period beginning with 1st January 2027 and ending with 28th February 2027[^key-1903fce51e18c80b89bb5a87c2ad755f][^key-cfca1beaf4aeb24fdcfb44e57e86b099]
+
+(1) The following are adjusted in accordance with Table F—
+
+- (a) the right to rebate allowed by section 11(1) (rebate on heavy oil) of the Oil Act in respect of the products listed in rows (a) and (b) of column *(A)*;
+- (b) the right to rebate allowed on kerosene by section 13AA(1) (restrictions on use of rebated kerosene) of the Oil Act;
+- (c) the right to rebate allowed on heavy oil by section 13ZA (rebate on certain heavy oil used for heating etc.) of the Oil Act;
+- (d) the right to rebate allowed on light oil by section 14(1) (rebate on light oil for use as furnace fuel) of the Oil Act;
+- (e) the right to rebate allowed on biodiesel by section 14A(2) (rebate on biodiesel used for certain purposes) of the Oil Act;
+- (f) the right to rebate allowed on bioblend by section 14B (rebate on bioblend used for certain purposes) of the Oil Act,
+
+by the addition to the amount allowable of the percentage specified in column (*C)*.
+
+Table F
+
+|  | (A) | (B) | (C) | (D) |
+| --- | --- | --- | --- | --- |
+|  | Product | Rebated rate before adjustment (£ per litre) | Percentage addition | Rebated rate after adjustment (£ per litre) |
+| (a) | Fuel oil | 0.1070 | 0.78 | 0.1033 |
+| (b) | Gas oil | 0.1114 | 0.81 | 0.1076 |
+| (c) | Kerosene | 0.1114 | 0.81 | 0.1076 |
+| (d) | Heavy oil to which section 13ZA of the Oil Act applies | 0.1070 | 0.78 | 0.1033 |
+| (e) | Light oil | 0.1070 | 0.65 | 0.1033 |
+| (f) | Biodiesel | 0.1114 | 0.81 | 0.1076 |
+| (g) | Bioblend | 0.1114 | 0.81 | 0.1076 |
+
+(2) The figures in columns *(B)* and *(D)* are only for ease of reference and comprehension of effect.
+
+## 10. Adjustments of liability to fuel substitutes duty in the period beginning with 1st January 2027 and ending with 28th February 2027[^key-0268b353c65bc540e4c0ddd9844cb9f2][^key-fbf1f6fb43e1afa21d585d017d615251]
+
+(1) This article applies where the rate of fuel substitutes duty for a product is prescribed by the Other Fuel Substitutes (Rates of Excise Duty etc.) Order 1995 by reference to the rate of hydrocarbon oil duty specified in the Oil Act for—
+
+- (a) unleaded petrol;
+- (b) light oil other than unleaded petrol;
+- (c) heavy oil; or
+- (d) aviation gasoline.
+
+(2) The liability to fuel substitutes duty in the case described by paragraph (1)(a) is decreased by making the like adjustment as that made by article 8 in the case of the product specified in row (a) of Table D.
+
+(3) The liability to fuel substitutes duty in the case described by paragraph (1)(b) is decreased by making the like adjustment as that made by article 8 in the case of the product specified in row (b) of Table D.
+
+(4) The liability to fuel substitutes duty in the case described by paragraph (1)(c) is decreased by making the like adjustment as that made by article 8 in the case of the product specified in row (c) of Table D.
+
+(5) The liability to fuel substitutes duty in the case described by paragraph (1)(d) is decreased by making the like adjustment as that made by article 8 in the case of the product specified in row (d) of Table D.
+
+## 11. Adjustments of liability to aqua methanol additive or extender duty in the period beginning with 1st January 2027 and ending with 28th February 2027[^key-c0ba366ad2df5c28286122935d07a90a][^key-3995d10261d3bc7ee011241499d757d1]
+
+(1) This article applies where the rate of aqua methanol additive or extender duty is prescribed by the Aqua Methanol (Use as Additive or Extender) (Rates of Excise Duty) Order 2016 by reference to the rate of hydrocarbon oil duty specified in the Oil Act for—
+
+- (a) unleaded petrol;
+- (b) light oil other than unleaded petrol; or
+- (c) heavy oil.
+
+(2) The liability to aqua methanol additive or extender duty in the case described by paragraph (1)(a) is decreased by making the like adjustment as that made by article 8 in the case of the product specified in row (a) of Table D.
+
+(3) The liability to aqua methanol additive or extender duty in the case described by paragraph (1)(b) is decreased by making the like adjustment as that made by article 8 in the case of the product specified in row (b) of Table D.
+
+(4) The liability to aqua methanol additive or extender duty in the case described by paragraph (1)(c) is decreased by making the like adjustment as that made by article 8 in the case of the product specified in row (c) of Table D.
+
+Stephen Morgan
+
+Gen Kitchen
+
+Two of the Lords Commissioners of His Majesty's Treasury
+
+25th February 2026
+
+Explanatory Note
+
+(This note is not part of the Order)
+
+This Order, which comes into force on 23rd March 2026, makes temporary adjustments to the liabilities to excise duty (and, where applicable, the rights to rebate in respect of such duty) in respect of liquid fuels that are chargeable by virtue of the Hydrocarbon Oil Duties Act [1979 (c. 5)](https://www.legislation.gov.uk/ukpga/1979/5) (“**the Oil Act**”). The adjustments made by this Order are all in the form of a deduction from the amount payable (or an addition to the amount of rebate allowable) of a specified percentage not exceeding 10 per cent.
+
+Article 3 provides for the continuation of the Excise (Surcharges or Rebates) (Hydrocarbon Oils etc.) Order 2022 ([S.I. 2022/365](https://www.legislation.gov.uk/uksi/2022/365)) (“**the 2022 Order**”) until the end of 31st August 2026. The 2022 Order provides for adjustments of liabilities to excise duty and rights of rebate in respect of excise duty in accordance with sections 1(2) and 2(3) of the Excise Duties (Surcharges or Rebates) Act 1979. Section 2(2) of that Act (which applies in respect of orders under section 1 - see section 2(1)) - provides that an order shall cease to be in force at the expiration of a period of one year from the date on which it takes effect, unless continued in force by a further order. The 2022 Order was continued in force by [S.I. 2023/329](https://www.legislation.gov.uk/uksi/2023/329), [S.I. 2024/300](https://www.legislation.gov.uk/uksi/2024/300) and [S.I. 2025/228](https://www.legislation.gov.uk/uksi/2025/228).
+
+Articles 4, 6 and 7 adjust liabilities to duty, and article 5 provides adjustments to rebates, in relation to products charged with duty in the period beginning with 1st September 2026 and ending with 30th November 2026.
+
+Articles 8, 10 and 11 adjust liabilities to duty, and article 9 provides adjustments to rebates, in relation to products charged with duty in the period beginning with 1st December 2026 and ending with 28th February 2027.
+
+For ease of reference and comprehension of effect, the figures in columns *(B)* and *(D)* of the Tables in this Order indicate the amounts of excise duty payable both before and after the adjustment is made.
+
+A Tax Information and Impact Note covering this instrument will be published on the website at https://www.gov.uk/government/collections/tax-information-and-impact-notes-tiins.
+
+## Annotations
+
+[^f00001]: Footnote: [1979 c. 8](https://www.legislation.gov.uk/ukpga/1979/8) (“**the Surcharges or Rebates Act**”). Relevant amendments have been made by section 10(2) and (3) of the Finance Act [1980 (c. 48)](https://www.legislation.gov.uk/ukpga/1980/48), section 10(1) and (2) of the Finance Act [1982 (c. 39)](https://www.legislation.gov.uk/ukpga/1982/39) and section 11(4) of the Finance Act [1993 (c. 34)](https://www.legislation.gov.uk/ukpga/1993/34). Section 2(2) of the Surcharges or Rebates Act provides that an order made under the Surcharges or Rebates Act shall cease to be in force at the expiration of a period of one year from the date on which it takes effect, unless continued in force by a further order; section 2(2) was substituted by section 10(3) of the Finance Act 1980.
+
+[^key-a333765d521c9846384807e9475f6e2b]: Commencement: Art. 1 in force at 23.3.2026, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2026/164/article/1/1)
+
+[^key-89eec06ddb8fa6c321494f07d1c6c453]: Textual amendment: Words in art. 1(2) substituted (15.6.2026) by [The Excise Duties (Surcharges or Rebates) (Hydrocarbon Oils etc.) (Amendment) Order 2026 (S.I. 2026/555)](https://www.legislation.gov.uk/uksi/2026/555), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/555/article/1/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2026/555/article/2/2/a)
+
+[^key-dbf8858a9229eafc6f8c6cc0ba8e6cc1]: Textual amendment: Art. 1(3) omitted (15.6.2026) by virtue of [The Excise Duties (Surcharges or Rebates) (Hydrocarbon Oils etc.) (Amendment) Order 2026 (S.I. 2026/555)](https://www.legislation.gov.uk/uksi/2026/555), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/555/article/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2026/555/article/2/2/b)
+
+[^key-c13d850695a3715fffcf08e470de69a6]: Textual amendment: Words in art. 1(4) substituted (15.6.2026) by [The Excise Duties (Surcharges or Rebates) (Hydrocarbon Oils etc.) (Amendment) Order 2026 (S.I. 2026/555)](https://www.legislation.gov.uk/uksi/2026/555), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/555/article/1/1), [2(2)(c)](https://www.legislation.gov.uk/uksi/2026/555/article/2/2/c)
+
+[^key-9eba1472b786311361517f4da343fdfd]: Commencement: Art. 2 in force at 23.3.2026, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2026/164/article/1/1)
+
+[^f00002]: Footnote: [1979 c. 5](https://www.legislation.gov.uk/ukpga/1979/5) (“**the Oil Act**”).
+
+[^f00003]: Footnote: Relevant amendments were made to section 27(1) by paragraph 9 of Schedule 17 to the Finance Act [2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24) (“**aqua methanol**”), section 4(4) of the Finance Act 1982 and paragraph 6 of Schedule 6 to the Finance Act [2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9) (“**aviation gasoline**”), paragraph 6 of Schedule 2 to the Finance Act [2002 (c. 23)](https://www.legislation.gov.uk/ukpga/2002/23) (“**bioblend” and “biodiesel**”), section 10(9) of the Finance Act [2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12) (“**bioethanol” and “bioethanol blend**”), section 7(8) of the Finance Act [1997 (c. 16)](https://www.legislation.gov.uk/ukpga/1997/16) (“**gas oil**”), paragraph 22 of Schedule 5 to the Finance Act 2008 (“**kerosene**”), section 3(3) of the Finance Act [2001 (c. 9)](https://www.legislation.gov.uk/ukpga/2001/9), paragraph 9 of Schedule 3 to the Finance Act 2002 and section 13(9) of, and paragraph 22 of Schedule 5 and paragraph 32 of Schedule 6 of Schedule 3 to, the Finance Act 2008 (“**rebate**”), and section 5(5) of the Finance Act [2000 (c. 17)](https://www.legislation.gov.uk/ukpga/2000/17), section 7(8) of the Finance Act 2004, and section 13(9) of the Finance Act 2008 (“**unleaded petrol**”).
+
+[^f00004]: Footnote: Section 6AG was inserted by paragraph 4 of Schedule 17 to the Finance Act 2016. Subsection (2)(b) refers to use of aqua methanol as an additive or extender in any substance used as a fuel for any engine, motor or other machinery.
+
+[^f00005]: Footnote: Section 11(2) was substituted by section 2(3) of the Finance Act [1986 (c. 41)](https://www.legislation.gov.uk/ukpga/1986/41) and amended by Part 1 of Schedule 18 to the Finance Act 1997.
+
+[^f00006]: Footnote: Section 6A was inserted by section 11(1) of the Finance Act [1993 (c. 34)](https://www.legislation.gov.uk/ukpga/1993/34) and amended by section 11 of the Finance Act 2000, section 7(1) of, and paragraph 2 of Schedule 2 to, the Finance Act 2002, section 10(4) and 12(1) of the Finance Act 2004, paragraph 5 of Schedule 17 to the Finance Act 2016, and paragraph 4 of Schedule 12 to the Finance Act [2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26).
+
+[^f00007]: Footnote: Section 6(1) has been amended by section 4(1) of the Finance Act [1981 (c. 35)](https://www.legislation.gov.uk/ukpga/1981/35), section 7(2) of the Finance Act 1997, section 6(1) of the Finance Act [1998 (c. 36)](https://www.legislation.gov.uk/ukpga/1998/36) and paragraph 4 of Schedule 6 to the Finance Act 2008. The rates of excise duty charged under section 6(1) are specified in section 6(1A). Section 6(1A) was inserted by section 7(3) of the Finance Act 1997 and substituted by section 13(3) of the Finance Act 2008. It has been amended by sections 4(1) and 5(3) of the Finance Act 2000, section 1(1) of the Finance Act 2001, section 4(1) of the Finance Act [2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), sections 5(1) and 7(5) of the Finance Act 2004, sections 4(2) and 5(2) of the Finance Act [2005 (c. 7)](https://www.legislation.gov.uk/ukpga/2005/7), sections 6(2) and 7(2) of the Finance Act [2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), section 10(2) of the Finance Act [2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), sections 15(2) and 16(1) of the Finance Act 2008, sections 15(2) and 16(1) of the Finance Act [2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), sections 12(2) and 13(3) of the Finance Act [2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13), sections 19(2) and 20(2) of the Finance Act [2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), section 179(2) of the Finance Act [2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), and section 6 of the Taxation (Post-transition Period) Act [2020 (c. 26)](https://www.legislation.gov.uk/ukpga/2020/26).
+
+[^f00008]: Footnote: Section 5(2) was inserted by section 6(1) of the Finance Act 2004.
+
+[^key-d6a38802262211421e2f71162fe5cc4c]: Commencement: Art. 3 in force at 23.3.2026, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2026/164/article/1/1)
+
+[^f00009]: Footnote: [S.I. 2022/365](https://www.legislation.gov.uk/uksi/2022/365). That Order provides for adjustments of liabilities to excise duty and rights of rebate in respect of excise duty in accordance with sections 1(2) and 2(3) of the Excise Duties (Surcharges or Rebates) Act 1979 (surcharges or rebates of amounts due for excise duties). Section 2(2) of that Act (which applies in respect of orders under section 1 - see section 2(1)) provides that an order shall cease to be in force at the expiration of a period of one year from the date on which it takes effect, unless continued in force by a further order. [S.I. 2025/228](https://www.legislation.gov.uk/uksi/2025/228) and previous similar orders operated to provide that [S.I. 2022/365](https://www.legislation.gov.uk/uksi/2022/365) continues in force until the end of 22nd March 2026.
+
+[^key-a4a89ec3c5a1d7bb5a96fbc82f3b07a3]: Textual amendment: Words in art. 3 substituted (15.6.2026) by [The Excise Duties (Surcharges or Rebates) (Hydrocarbon Oils etc.) (Amendment) Order 2026 (S.I. 2026/555)](https://www.legislation.gov.uk/uksi/2026/555), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/555/article/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2026/555/article/2/3)
+
+[^f00010]: Footnote: [S.I. 2023/329](https://www.legislation.gov.uk/uksi/2023/329).
+
+[^f00011]: Footnote: [S.I. 2024/300](https://www.legislation.gov.uk/uksi/2024/300).
+
+[^f00012]: Footnote: [S.I. 2025/228](https://www.legislation.gov.uk/uksi/2025/228).
+
+[^key-5eabb665a41e275e535f9261af73c29d]: Textual amendment: Arts. 4-7 omitted (15.6.2026) by virtue of [The Excise Duties (Surcharges or Rebates) (Hydrocarbon Oils etc.) (Amendment) Order 2026 (S.I. 2026/555)](https://www.legislation.gov.uk/uksi/2026/555), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/555/article/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2026/555/article/2/4)
+
+[^key-7a589b953dc623108c01c6ff544e1145]: Commencement: Art. 8 in force at 23.3.2026, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2026/164/article/1/1)
+
+[^key-22cba3264d586200bb2eb02a900417ea]: Textual amendment: Words in art. 8 heading substituted (15.6.2026) by [The Excise Duties (Surcharges or Rebates) (Hydrocarbon Oils etc.) (Amendment) Order 2026 (S.I. 2026/555)](https://www.legislation.gov.uk/uksi/2026/555), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/555/article/1/1), [2(5)](https://www.legislation.gov.uk/uksi/2026/555/article/2/5)
+
+[^key-1903fce51e18c80b89bb5a87c2ad755f]: Commencement: Art. 9 in force at 23.3.2026, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2026/164/article/1/1)
+
+[^key-cfca1beaf4aeb24fdcfb44e57e86b099]: Textual amendment: Words in art. 9 heading substituted (15.6.2026) by [The Excise Duties (Surcharges or Rebates) (Hydrocarbon Oils etc.) (Amendment) Order 2026 (S.I. 2026/555)](https://www.legislation.gov.uk/uksi/2026/555), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/555/article/1/1), [2(5)](https://www.legislation.gov.uk/uksi/2026/555/article/2/5)
+
+[^key-0268b353c65bc540e4c0ddd9844cb9f2]: Commencement: Art. 10 in force at 23.3.2026, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2026/164/article/1/1)
+
+[^key-fbf1f6fb43e1afa21d585d017d615251]: Textual amendment: Words in art. 10 heading substituted (15.6.2026) by [The Excise Duties (Surcharges or Rebates) (Hydrocarbon Oils etc.) (Amendment) Order 2026 (S.I. 2026/555)](https://www.legislation.gov.uk/uksi/2026/555), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/555/article/1/1), [2(5)](https://www.legislation.gov.uk/uksi/2026/555/article/2/5)
+
+[^key-c0ba366ad2df5c28286122935d07a90a]: Commencement: Art. 11 in force at 23.3.2026, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2026/164/article/1/1)
+
+[^key-3995d10261d3bc7ee011241499d757d1]: Textual amendment: Words in art. 11 heading substituted (15.6.2026) by [The Excise Duties (Surcharges or Rebates) (Hydrocarbon Oils etc.) (Amendment) Order 2026 (S.I. 2026/555)](https://www.legislation.gov.uk/uksi/2026/555), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/555/article/1/1), [2(5)](https://www.legislation.gov.uk/uksi/2026/555/article/2/5)

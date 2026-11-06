@@ -1,0 +1,318 @@
+---
+title: The Procurement (Amendment) Regulations 2026
+id: uksi/2026/360
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised-with-pending-changes
+made_date: '2026-03-23'
+text_date: '2026-07-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2026/360
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2026/360/pdfs/uksiem_20260360_en_001.pdf
+- http://www.legislation.gov.uk/uksi/2026/360/pdfs/uksi_20260360_en.pdf
+- http://www.legislation.gov.uk/uksi/2026/360/data.pdf
+pending_changes: 1
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Procurement (Amendment) Regulations 2026
+
+> **Warning: changes not yet applied to this text (1).** Text as at 2026-07-01. See https://www.legislation.gov.uk/changes/affected/uksi/2026/360
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+This Statutory Instrument has been laid partly in consequence of defects in [S.I. 2024/692](https://www.legislation.gov.uk/uksi/2024/692) and is being issued free of charge to all known recipients of that Statutory Instrument.
+
+2026 No. 360
+
+PUBLIC PROCUREMENT
+
+The Procurement (Amendment) Regulations 2026
+
+Made
+
+23rd March 2026
+
+Coming into force in accordance with regulation 1
+
+The Minister for the Cabinet Office makes these Regulations in exercise of the powers conferred by sections 95(1), (2) and (3), 97(1) and (2), 113(1), 115(1), 122(3)(c) and (d), 125(1) and 127(2) of, and paragraph 5(1) of Schedule 1 to, the Procurement Act 2023[^f00001].
+
+These Regulations are made with the consent of the Department of Finance for Northern Ireland in accordance with section 113(4) of the Procurement Act 2023.
+
+In accordance with section 122(4)(o), (p), (q) and (x) of the Procurement Act 2023, a draft of this instrument has been laid before Parliament and approved by a resolution of each House of Parliament.
+
+## 1. Citation and commencement[^key-f72d7b6a850a877028f897bc07703d38][^key-f72d7b6a850a877028f897bc07703d38]
+
+(1) These Regulations may be cited as the Procurement (Amendment) Regulations 2026.
+
+(2) Regulations 1, 2, 3(1), 3(2)(b), 3(3), 3(4), 3(8), 3(9) and 4 come into force on the day after the day on which these Regulations are made.
+
+(3) Regulations 3(2)(a), 3(5), 3(6), 3(7) and 6 come into force on 1st April 2026.
+
+(4) Regulation 5 comes into force on 1st May 2027[^key-ce0726cfe1457622f8db9e176e59e4c1].
+
+## 2. Extent and application[^key-a565893d0cb6dd3b4b0a1cf45fcbcc91][^key-a565893d0cb6dd3b4b0a1cf45fcbcc91]
+
+The amendments made by these Regulations have the same extent and application as the provisions they amend.
+
+## 3. Amendments to the Procurement Regulations 2024[^key-97c16486ee2295a163603013fa582e8e][^key-61cff9f08cd233aec65c90567a217c7f][^key-97c16486ee2295a163603013fa582e8e]
+
+(1)[^key-97c16486ee2295a163603013fa582e8e] The Procurement Regulations 2024[^f00002] are amended as follows.
+
+(2) In regulation 5 (publication of notices etc on the central digital platform)—
+
+- (a)[^key-61cff9f08cd233aec65c90567a217c7f] after paragraph (3)(p), insert—
+
+  > - (pa) section 70(1) (information about payments under public contracts),
+
+  ;
+- (b)[^key-97c16486ee2295a163603013fa582e8e] in paragraph (5), for “all of the conditions in paragraph (6) are met” substitute “the central digital platform is unavailable, or all of the conditions in paragraph (6) are met,”.
+
+(3)[^key-97c16486ee2295a163603013fa582e8e] In regulation 7 (core supplier information: platform not working, urgency, private utilities), for paragraph (4) substitute—
+
+> (4) Paragraph (4A) applies in the case of—
+>
+> - (a) a direct award of a public contract pursuant to regulations made under section 42 of the PA 2023 (direct award to protect life, etc), or
+> - (b) a direct award of a public contract pursuant to paragraphs 13 and 14 of Schedule 5 to the PA 2023 (urgency).
+>
+> (4A) Regulation 6 is to be read as if—
+>
+> - (a) the reference in paragraph (4) to the contracting authority obtaining confirmation before the award of the public contract were a reference to the authority obtaining confirmation as soon as practicable and in any event before the date when the contract details notice is published, and
+> - (b) paragraphs (6) to (8) were omitted.
+
+.
+
+(4)[^key-97c16486ee2295a163603013fa582e8e] In regulation 24(2) (below-threshold tender notices)—
+
+- (a) omit the “and” after sub-paragraph (j);
+- (b) after sub-paragraph (k), insert
+
+  > , and
+  >
+  > - (l) whether the notice is being used to reserve a contract to either or both of the following—
+  >   - (i) small and medium-sized enterprises;
+  >   - (ii) non-governmental organisations that are value-driven and which principally reinvest their surpluses to further social, environmental or cultural objectives
+
+  .
+
+(5)[^key-61cff9f08cd233aec65c90567a217c7f] In regulation 36 (contract details notices: below-threshold contracts), in paragraph (2)(e)(iii) omit “except where the supplier has not obtained one,”.
+
+(6)[^key-61cff9f08cd233aec65c90567a217c7f] After regulation 36, insert—
+
+> **36A. Supplier registration on central digital platform: below-threshold contracts**
+>
+> (1) Before the publication of a contract details notice in accordance with section 87(3) of the PA 2023, the contracting authority must obtain from the supplier—
+>
+> - (a) confirmation that the supplier has taken the steps set out in paragraph (2), and
+> - (b) its unique identifier.
+>
+> (2) The steps are—
+>
+> - (a) the supplier has registered on the central digital platform, and
+> - (b) the supplier has submitted the required information to that platform.
+>
+> (3) In this regulation “**required information**” means—
+>
+> - (a) the supplier’s name,
+> - (b) the supplier’s contact postal address and email address, and
+> - (c) whether the supplier is—
+>   - (i) a small and medium-sized enterprise, or
+>   - (ii) a non-governmental organisation that is value-driven and which principally reinvests its surpluses to further social, environmental or cultural objectives.
+
+.
+
+(7)[^key-61cff9f08cd233aec65c90567a217c7f] After regulation 38 (payments compliance notices), insert—
+
+> **38A. Contract payment information**
+>
+> (1) This regulation sets out what information about a payment must be published under section 70(1) of the PA 2023 (“the payment information”).
+>
+> (2) The payment information is—
+>
+> - (a) in respect of the contracting authority which made the payment—
+>   - (i) the name of the contracting authority,
+>   - (ii) a contact postal address and email address for the contracting authority,
+>   - (iii) the unique identifier for the contracting authority,
+> - (b) if different from sub-paragraph (a), the information referred to in that sub-paragraph in respect of the contracting authority which published the contract details notice under section 53 of the PA 2023 in respect of the relevant contract,
+> - (c) the unique identifier for—
+>   - (i) the procurement, and
+>   - (ii) the relevant contract,
+> - (d) in respect of each payment to which the payment information relates—
+>   - (i) the name of the supplier to whom the payment was made, and
+>   - (ii) the unique identifier for the supplier to whom the payment was made,
+> - (e) the value of the payment net of VAT, and
+> - (f) the date when the payment was made.
+>
+> (3) A unique identifier is not required to be published by virtue of paragraph (2)(c) or (d)(ii) if—
+>
+> - (a) no notice relating to the relevant contract has been previously published on the central digital platform, and
+> - (b) the unique identifier is not available.
+>
+> (4) In paragraphs (2)(b), (c) and (3), the relevant contract is the public contract under which the payment to which the payment information relates was made.
+>
+> (5) Nothing in this regulation prevents a contracting authority from publishing other relevant information alongside the payment information.
+
+.
+
+(8)[^key-97c16486ee2295a163603013fa582e8e] In regulation 50 (application of Parts 2 and 3 in relation to devolved Scottish authorities), for “Schedule 9” substitute “Schedule 9A”.
+
+(9)[^key-97c16486ee2295a163603013fa582e8e] In the table in Schedule 2 (central government authorities)—
+
+- (a) in the entry for “Department for Culture, Media and Sport”, for the entries for “Historic Buildings and Monuments” and “Commission for England (known as “**Historic England**”)” substitute—
+
+  > |  |  |
+  > | --- | --- |
+  > |  | Historic Buildings and Monuments Commission for England (known as “**Historic England**”) |
+
+  ;
+- (b) in the entry for “Department for Transport”, for “Highways England Company Ltd (known as “**Highways England**”)” substitute “National Highways Company Ltd (known as “**National Highways**”)”;
+- (c) omit—
+
+  > |  |  |
+  > | --- | --- |
+  > | Office for National Statistics | National Health Service Central Register |
+
+  ;
+- (d) after the entry for “Police Retraining and Rehabilitation Trust” insert—
+
+  > |  |  |
+  > | --- | --- |
+  > | Postal business of the Post Office |  |
+
+  ;
+- (e) after the entry for “HM Treasury” insert—
+
+  > |  |  |
+  > | --- | --- |
+  > | UK Statistics Authority | Office for National Statistics |
+
+  .
+
+## 4. Amendments to the Health Care Services (Provider Selection Regime) Regulations 2023[^key-a99776aa4d1593fee266032e563b0d74][^key-a99776aa4d1593fee266032e563b0d74]
+
+In regulation 22 (termination of contracts) of the Health Care Services (Provider Selection Regime) Regulations 2023[^f00003], after paragraph (3), insert—
+
+> (4) A relevant authority must not terminate a contract, whether by reference to provisions in the contract or the implied term in paragraph (3), on the basis of the mandatory exclusion ground in paragraph 35 of Schedule 6 to the Procurement Act 2023 (threat to national security) unless the authority has notified a Minister of the Crown of its intention.
+>
+> (5) A relevant authority must not terminate a contract, whether by reference to provisions in the contract or the implied term in paragraph (3), on the basis of the discretionary exclusion ground in paragraph 14 of Schedule 7 to the Procurement Act 2023 (threat to national security) unless—
+>
+> - (a) the authority has notified a Minister of the Crown of its intention, and
+> - (b) the Minister considers that—
+>   - (i) the provider or a sub-contractor is an excludable supplier by reference to paragraph 14 of Schedule 7 to the Procurement Act 2023, and
+>   - (ii) the contract should be terminated.
+
+.
+
+## 5. Amendments to the Procurement Act 2023 (Commencement No. 3 and Transitional and Saving Provisions) Regulations 2024[^key-669c4ad01a364009bbc9bcbc7662eba1]
+
+**Not yet in force.**
+
+In regulation 5 (saving provisions relating to the 2015 Regulations) of the Procurement Act 2023 (Commencement No. 3 and Transitional and Saving Provisions) Regulations 2024[^f00004]—
+
+- (a) in paragraph (1), for “paragraph (4)(b), (c), (d) and (e)”[^f00005], substitute “paragraph (4)(aa) to (e)”;
+- (b) after paragraph (4)(a), insert—
+
+  > - (aa) regulation 2(1) of those Regulations (definitions) is to be read as if after the definition of “candidate” there were inserted—
+  >
+  >   > - “**central digital platform**” has the meaning given by regulation 5(2) of the Procurement Regulations 2024 (publication of notices etc on central digital platform);
+
+  ;
+- (c) after paragraph (4)(b), insert—
+
+  > - (ba) those Regulations are to be read as if regulation 106 of those Regulations (publication of information on Contracts Finder where contract notices are used) were omitted;
+  > - (bb) regulation 108 of those Regulations (publication of information on Contracts Finder about contracts awarded) is to be read as if—
+  >   - (i) in the heading, for “Contracts Finder” there were substituted “the central digital platform”,
+  >   - (ii) paragraph (1)(a) were omitted,
+  >   - (iii) in paragraphs (2) and (6)(a), for “Contracts Finder” there were substituted “the central digital platform”,
+  >   - (iv) paragraph (5) were omitted,
+  >   - (v) in paragraph (6)(b), the words “(having regard, where relevant, to paragraph (5))” were omitted, and
+  >   - (vi) paragraphs (7) to (9) were omitted;
+  > - (bc) regulation 112 of those Regulations (publication of information on Contracts Finder about contracts awarded - below-threshold procurements) is to be read as if in the heading and paragraphs (1) and (3)(a), for “Contracts Finder” there were substituted “the central digital platform”;
+
+  .
+
+## 6. Transitional provisions[^key-51f4f510c8926fabc1206b1278facd31]
+
+(1) The amendments made by regulation 3(2)(a) and (7) do not affect any procurement commenced before the date on which section 70 of the Procurement Act 2023 comes into force.
+
+(2) For the purposes of paragraph (1), a procurement is commenced before the date on which section 70 of that Act comes into force if before that date—
+
+- (a) a tender notice has been published in accordance with section 21(1) of that Act (tender notices and associated tender documents) or provided in accordance with section 40(1) to (3) of that Act (qualifying utilities dynamic market notices: no duty to publish a tender notice),
+- (b) a transparency notice has been published in accordance with section 44(1) of that Act (transparency notices),
+- (c) in respect of a contract to be awarded in accordance with a framework to which neither sub-paragraph (a) nor (b) applies, a contracting authority has contacted a supplier in order to commence the award of that contract,
+- (d) a below-threshold tender notice has been published in accordance with section 87(1) of that Act[^f00006] (regulated below-threshold contracts: notices),
+- (e) a contracting authority has invited the submission of tenders in relation to a regulated below-threshold contract (see section 85(1) of that Act (regulated below-threshold contracts: procedure)), or
+- (f) in respect of a below-threshold contract to which neither sub-paragraph (d) nor (e) applies, a contracting authority has contacted a supplier in order to commence the award of that contract.
+
+Chris Ward
+
+Parliamentary Secretary
+
+23rd March 2026
+
+Cabinet Office
+
+Explanatory Note
+
+(This note is not part of the Regulations)
+
+These Regulations make amendments to the Procurement Regulations 2024 ([S.I. 2024/692](https://www.legislation.gov.uk/uksi/2024/692)) (“**the 2024 Regulations**”), the Health Care Services (Provider Selection Regime) Regulations 2023 ([S.I. 2023/1348](https://www.legislation.gov.uk/uksi/2023/1348)) (“**the PSR Regulations**”) and the Procurement Act 2023 (Commencement No. 3 and Transitional and Saving Provisions) Regulations 2024 ([S.I. 2024/716](https://www.legislation.gov.uk/uksi/2024/716)) (“**the Transitional and Saving Provisions Regulations**”).
+
+Amending the 2024 Regulations, regulation 3(2)(a) and (7) make provision about what information must be included in the contract payment information published under section 70(1) of the Procurement Act 2023 (“the PA 2023”).
+
+Regulation 5(1) of the 2024 Regulations provides that notices and other information published under the PA 2023 must be published on the central digital platform, but regulation 5(5) provides that publication can be made on an alternative online system in certain circumstances. Regulation 3(2)(b) of this instrument adds to those circumstances the unavailability of the platform.
+
+Regulation 7(4) of the 2024 Regulations sets out the circumstances when confirmation that a supplier has registered on, and provided up-to-date information to, the central digital platform can take place after the award of the contract. Regulation 3(3) of this instrument adds the direct award of a public contract pursuant to regulations made under section 42 of the PA 2023 to those circumstances.
+
+Regulation 24(2) of the 2024 Regulations sets out the information which must be included in a below-threshold notice. Regulation 3(4) of this instrument adds to this information a requirement to specify whether the contracting authority reserves a competition for a below-threshold contract to small and medium-sized enterprises and/or voluntary, community and social enterprises.
+
+Regulation 36(2)(e)(iii) of the 2024 Regulations provides that contracting authorities do not have to include a supplier’s unique identifier in a below-threshold contract details notice where the supplier has not obtained one. Regulation 3(5) removes this exemption as it is rendered obsolete, given the new regulation 36A of the 2024 Regulations (as inserted by regulation 3(6)) which requires contracting authorities to confirm a supplier has registered on the central digital platform (and in so doing would have obtained a unique identifier), and to obtain the supplier’s unique identifier, prior to publishing a below-threshold contract details notice.
+
+Regulation 3(6) mandates contracting authorities to require suppliers, when awarded below-threshold contracts, to confirm their registration on the central digital platform and provide their unique identifiers.
+
+Regulation 3(8) corrects an incorrect Schedule number in regulation 50 of the 2024 Regulations.
+
+Regulation 3(9) amends a number of entries in Schedule 2 to the 2024 Regulations, which specifies central government authorities for the purposes of paragraph 5 of Schedule 1 to the PA 2023. It corrects a formatting error, updates out-of-date references and inserts an erroneously omitted authority.
+
+Regulation 4 amends the PSR Regulations to provide when a relevant authority must notify a Minister of the Crown when terminating a contract in reliance on a national security exclusion ground.
+
+Amending the Transitional and Saving Provisions Regulations, regulation 5 makes provision about discontinuing publication on Contracts Finder or, where relevant, replacing it with publication on the central digital platform.
+
+Regulation 6 contains transitional provisions which set out the circumstances in which the amendments made by regulation 3(2)(a) and (7) will not have effect.
+
+An impact assessment in relation to the PA 2023 and associated reforms was published in May 2022 and can be found at https://bills.parliament.uk/publications/46429/documents/1767 or may be obtained by writing to the Cabinet Office, 70 Whitehall, London, SW1A 2AS, United Kingdom.
+
+## Annotations
+
+[^f00001]: Footnote: [2023 c. 54](https://www.legislation.gov.uk/ukpga/2023/54). See section 123(1) of the Procurement Act 2023 for the definitions of “appropriate authority” and “Minister of the Crown”.
+
+[^key-f72d7b6a850a877028f897bc07703d38]: Commencement: Reg. 1 in force at 24.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/360/regulation/1/2)
+
+[^key-ce0726cfe1457622f8db9e176e59e4c1]: Textual amendment: Words in reg. 1(4) substituted (1.7.2026) by [The Procurement (Amendment) (No. 2) Regulations 2026 (S.I. 2026/746)](https://www.legislation.gov.uk/uksi/2026/746), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/746/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2026/746/regulation/2)
+
+[^key-a565893d0cb6dd3b4b0a1cf45fcbcc91]: Commencement: Reg. 2 in force at 24.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/360/regulation/1/2)
+
+[^key-97c16486ee2295a163603013fa582e8e]: Commencement: Reg. 3(1)(2)(b)(3)(4)(8)(9) in force at 24.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/360/regulation/1/2)
+
+[^key-61cff9f08cd233aec65c90567a217c7f]: Commencement: Reg. 3(2)(a)(5)(6)(7) in force at 1.4.2026, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2026/360/regulation/1/3)
+
+[^f00002]: Footnote: [S.I. 2024/692](https://www.legislation.gov.uk/uksi/2024/692), as amended by [S.I. 2025/163](https://www.legislation.gov.uk/uksi/2025/163) and [2026/94](https://www.legislation.gov.uk/uksi/2026/94).
+
+[^key-a99776aa4d1593fee266032e563b0d74]: Commencement: Reg. 4 in force at 24.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/360/regulation/1/2)
+
+[^f00003]: Footnote: [S.I. 2023/1348](https://www.legislation.gov.uk/uksi/2023/1348), as amended by [S.I. 2025/163](https://www.legislation.gov.uk/uksi/2025/163).
+
+[^key-669c4ad01a364009bbc9bcbc7662eba1]: Commencement: Reg. 5 in force at 1.10.2026, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2026/360/regulation/1/4)
+
+[^f00004]: Footnote: [S.I. 2024/716](https://www.legislation.gov.uk/uksi/2024/716), as amended by [S.I. 2024/959](https://www.legislation.gov.uk/uksi/2024/959), [2025/1337](https://www.legislation.gov.uk/uksi/2025/1337) and [2026/297](https://www.legislation.gov.uk/uksi/2026/297).
+
+[^f00005]: Footnote: The reference to sub-paragraphs (d) and (e) was inserted by [S.I. 2025/1337](https://www.legislation.gov.uk/uksi/2025/1337).
+
+[^key-51f4f510c8926fabc1206b1278facd31]: Commencement: Reg. 6 in force at 1.4.2026, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2026/360/regulation/1/3)
+
+[^f00006]: Footnote: Section 87 was amended by [S.I. 2024/782](https://www.legislation.gov.uk/uksi/2024/782) and [2024/959](https://www.legislation.gov.uk/uksi/2024/959).

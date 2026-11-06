@@ -1,0 +1,61 @@
+---
+title: Judicial Review and Courts Act 2022, section 37
+act: Judicial Review and Courts Act 2022
+section: '37'
+status: not-yet-in-force
+text_date: '2026-09-07'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2022/35/section/37
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Judicial Review and Courts Act 2022, section 37
+
+> This provision is not yet in force.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 37. Exercise of tribunal functions by authorised persons[^key-d3348f72bb267a13450a33057977921c]
+
+*Extent: E+W+S+N.I.*
+
+**Not yet in force.**
+
+(1) Chapter 2A of Part 1 of the Tribunals, Courts and Enforcement Act 2007 (which makes provision in connection with the exercise of functions of tribunals by persons authorised under Tribunal Procedure Rules) is amended as follows.
+
+(2) In section 29A (meaning of certain terms)—
+
+- (a) for the heading substitute “Interpretation of Chapter”;
+- (b) in the definition of “authorised person”—
+  - (i) for “paragraph 3 of Schedule 5” substitute “a relevant Procedure Rule”;
+  - (ii) for “the First-tier Tribunal or Upper Tribunal” substitute “a tribunal”;
+- (c) in the definition of “judicial office holder”—
+  - (i) for “has” substitute “means—
+
+    > - (a) a judicial office holder within
+
+    ;
+  - (ii) at the end insert
+
+    > , or
+    >
+    > - (b) the President of Employment Tribunals (Scotland);
+
+    ;
+- (d) at the end insert—
+
+  > - “**relevant Procedure Rule**” means—
+  >   - (a) a Tribunal Procedure Rule of a kind mentioned in paragraph 3 of Schedule 5 to this Act, or
+  >   - (b) an Employment Tribunal Procedure Rule of a kind mentioned in paragraph 2 of Schedule A1 to the Employment Tribunals Act 1996;
+  > - “**tribunal**” means the First-tier Tribunal, the Upper Tribunal, an employment tribunal or the Employment Appeal Tribunal.
+
+(3) In each of the following provisions, for “paragraph 3 of Schedule 5” substitute “a relevant Procedure Rule”—
+
+- (a) section 29B(2) (authorised person not subject to directions not made under that section);
+- (b) section 29C(1)(a) and (2)(a) (protection against actions for authorised persons acting within or without jurisdiction);
+- (c) section 29D(1) (protection against costs for authorised persons).
+
+## Annotations
+
+[^key-d3348f72bb267a13450a33057977921c]: Commencement: S. 37 not in force at Royal Assent, see [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4)

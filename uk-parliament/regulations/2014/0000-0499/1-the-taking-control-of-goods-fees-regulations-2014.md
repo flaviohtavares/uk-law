@@ -1,0 +1,442 @@
+---
+title: The Taking Control of Goods (Fees) Regulations 2014
+id: uksi/2014/1
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2014-01-04'
+text_date: '2026-05-01'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2014/1
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2014/1/pdfs/uksiem_20140001_en.pdf
+- http://www.legislation.gov.uk/uksi/2014/1/pdfs/uksi_20140001_en.pdf
+- http://www.legislation.gov.uk/uksi/2014/1/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Taking Control of Goods (Fees) Regulations 2014
+
+> Text as at 2026-05-01.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2014 No. 1
+
+Enforcement, England And Wales
+
+Taking Control Of Goods
+
+Commercial Rent Arrears Recovery
+
+The Taking Control of Goods (Fees) Regulations 2014
+
+Made
+
+4th January 2014
+
+Laid before Parliament
+
+9th January 2014
+
+Coming into force
+
+6th April 2014
+
+The Lord Chancellor makes the following Regulations in exercise of the powers conferred by section 90 of and paragraphs 13(3), 42, 50(4) and (7), and 62 of Schedule 12 to the Tribunals, Courts and Enforcement Act 2007[^f00001].
+
+## 1. Citation, commencement and extent[^key-86d53b02f28bef03ed8cfb28112ecf43]
+
+(1) These Regulations may be cited as the Taking Control of Goods (Fees) Regulations 2014 and come into force on 6th April 2014.
+
+(2) These Regulations extend to England and Wales only.
+
+## 2. Interpretation[^key-ac78b29dedf0c64a767933262d0ceb0a]
+
+(1) In these Regulations—
+
+- “the Act” means the Tribunals, Courts and Enforcement Act 2007;
+- “amount outstanding” has the meaning given by paragraph 50(3) of Schedule 12;
+- “controlled goods agreement” has the meaning given by paragraph 13(4) of Schedule 12;
+- “creditor” has the meaning given by paragraph 1(6) of Schedule 12;
+- “debtor” has the meaning given by paragraph 1(5) of Schedule 12;
+- “enforcement agent” means an individual entitled to act as an enforcement agent by virtue of section 63(2) of the Act, but it does not include an individual who may so act by virtue of section 63(2)(c);
+- “enforcement power” has the meaning given by paragraph 1(2) of Schedule 12;
+- “enforcement-related services” has the meaning given by paragraph 62(5) of Schedule 12;
+- “percentage fee” means a fee calculated in accordance with regulation 7;
+- “premises” has the meaning given by paragraph 3 of Schedule 12;
+- “proceeds” has the meaning given by paragraph 50(2) of Schedule 12;
+- “[^key-18efbe6e572a85e192a8af52a27a4276]**repayment arrangement**” has the meaning given by regulation 9(2) of the Taking Control of Goods Regulations 2013;
+- “Schedule 12” means Schedule 12 to the Act, and references to “the Schedule 12 procedure” are to be read accordingly;
+- “[^key-da297effd774da43f6dfb5dd53c48177]**sum equivalent to VAT**” has the meaning given to it by regulations 18(2) and (3);
+- “sum to be recovered” means the amount of the debt which remains unpaid, or an amount that the creditor agrees to accept in full satisfaction of the debt;
+- “[^key-35fc517eb1b074082dbce5194974ace9]**VAT**” means Value Added Tax.
+
+(2) In these Regulations, references to “the compliance stage”, “the first enforcement stage”, “the second enforcement stage” and to “the sale or disposal stage” are to be construed in accordance with—
+
+- (a) regulation 5 where the reference relates to enforcement other than under an enforcement power conferred by a High Court writ; and
+- (b) regulation 6 where the reference relates to enforcement under an enforcement power conferred by a High Court writ.
+
+## 3. Application of these Regulations[^key-1c69d1cdbfa9b5a819f4c67197f14d0c]
+
+These Regulations apply when an enforcement agent uses the Schedule 12 procedure.
+
+## 4. Recovery of fees for enforcement-related services from the debtor[^key-351c3bbd68f7f30d073dd515e7c380f6]
+
+(1)[^key-f79e16838bbf8f93e0fe6513eded54f7] The enforcement agent may recover from the debtor—
+
+- (a) the fees indicated in the Schedule; and
+- (b) where the creditor is not VAT-registered, the sum equivalent to VAT on those fees,
+
+in accordance with this regulation and regulations 9, 11, 12, 13, 16, 17 and 18, by reference to the stage, or stages, of enforcement for which enforcement-related services have been supplied.
+
+(2) The fees referred to in paragraph (1) and the sum equivalent to VAT on those fees[^key-4ac9ee9dd7456bf41e1a474e05f00cbb] may be recovered out of proceeds.
+
+(3) The enforcement agent may recover under this regulation the whole fee provided in the Schedule for a stage and the sum equivalent to VAT on that fee,[^key-88cee6ef10b01194213fcf55de2a8a7f] where the amount outstanding is paid after the commencement, but before the completion, of that stage.
+
+(4) For the purposes of this regulation, the relevant stage of enforcement is determined according to regulation 5 or 6 as appropriate.
+
+(5) Where the enforcement agent is acting under an enforcement power conferred by a High Court writ—
+
+- (aa)[^key-eca24316e3646b6326b749944d4a47a0] Where no initial contact is established during the first attendance at the premises, the enforcement agent will not proceed to the second enforcement stage until the debtor has been given another opportunity to make payment in full or enter into a repayment arrangement or a controlled goods agreement;
+- (ab) Sub-paragraph (aa) does not prevent the recovery of the fee provided for the first enforcement stage nor does it prohibit advancement to the second enforcement stage—
+  - (i) if no contact is established during a subsequent visit, or
+  - (ii) if contact is later made but the debtor does not make payment in full or enter into a repayment arrangement or a controlled goods agreement;
+- (a) where the debtor makes payment in full or[^key-795feac1d02a5b57ddc543f449420e7a] the enforcement agent and the debtor enter into a repayment arrangement or[^key-bd3aafe4bea3704ade3c2b4c02aad532] a controlled goods agreement which the debtor does not breach, only the first enforcement stage fee may be recovered from the debtor; and
+- (b) where—
+  - (i) the enforcement agent and the debtor enter into a repayment arrangement or[^key-9f1cec3731eafb435b4995ecee4a4419] a controlled goods agreement which the debtor breaches; or
+  - (ii) the enforcement agent and the debtor do not enter into a repayment arrangement or a controlled goods agreement,
+
+  both the first enforcement stage and second enforcement stage fees may be recovered from the debtor, and the first enforcement stage fee is recoverable where sub-paragraph (ii) applies notwithstanding that the first enforcement stage did not apply.
+
+(6)[^key-9f6a4d2ea12a7bbd517a42bc46c18c7c] The fees indicated in the Schedule are exclusive of VAT.
+
+## 5. Stages of enforcement for which fees may be recovered – enforcement other than under High Court writs[^key-2fdb3a4cc3570700ed7b5ec2665b1bbe]
+
+(1) The relevant stages of enforcement under an enforcement power which is not conferred by a High Court writ are as follows—
+
+- (a) the compliance stage, which comprises all activities relating to enforcement from the receipt by the enforcement agent of instructions to use that procedure in relation to a sum to be recovered up to but not including the commencement of the enforcement stage;
+- (b) the enforcement stage, which comprises all activities relating to enforcement from the first attendance at the premises in relation to the instructions up to but not including the commencement of the sale or disposal stage;
+- (c) the sale or disposal stage, which comprises all activities relating to enforcement from the first attendance at the property for the purpose of transporting goods to the place of sale, or from commencing preparation for sale if the sale is to be held on the premises, until the completion of the sale or disposal (including application of the proceeds and provision of the information required by regulation 14).
+
+(2) Where the goods against which enforcement is sought are securities, the sale or disposal stage commences with the provision of a notice of disposal in accordance with paragraph 49(2) of Schedule 12.
+
+## 6. Stages of enforcement for which fees may be recovered – enforcement of High Court writs[^key-5fe2e5a73879836d821ac0ee73181498]
+
+(1) The relevant stages of enforcement under an enforcement power conferred by a High Court writ are as follows—
+
+- (a) the compliance stage, which comprises all activities relating to enforcement from the receipt by the enforcement agent of instructions to use that procedure in relation to a sum to be recovered up to but not including the commencement of the first enforcement stage, or, where sub-paragraph (c)(i) applies, the commencement of the second enforcement stage;
+- (b) where the debtor makes payment in full or[^key-b55d1a529be45e97428cee8c313d4b9e] the enforcement agent and the debtor enter into a repayment arrangement or[^key-bfba083339ac8932bc5cfd13f67e422d] a controlled goods agreement, the first enforcement stage, which comprises all activities relating to enforcement from the first attendance at the premises in relation to the instructions until payment in full is made or the repayment arrangement or controlled goods agreement[^key-681815ffb439e3d4e12f61afaf3ee13d] is completed or breached;
+- (c) the second enforcement stage, which comprises—
+  - (i) where payment in full is not made or[^key-a114a1e4714a78bc10fc3cd0c7b58164] the enforcement agent and the debtor do not enter into a repayment arrangement or[^key-b93e5528e6eb75ee395f46e57c8ba494] a controlled goods agreement, all activities relating to enforcement from the first attendance at the premises in relation to the instructions up to but not including the commencement of the sale or disposal stage;
+  - (ii) where the enforcement agent and the debtor enter into a repayment arrangement or a controlled goods agreement but the debtor breaches that arrangement or agreement[^key-d72a2af00823646facb1cdf52813d6e8], all activities relating to enforcement from the time at which the debtor breaches the arrangement or agreement[^key-8f6b516b23057089e88b91aca1c90bc8] up to but not including the commencement of the sale or disposal stage;
+- (d) the sale or disposal stage, which comprises all activities relating to enforcement from the first attendance at the property for the purpose of transporting goods to the place of sale, or from commencing preparation for sale if the sale is to be held on the premises, until the completion of the sale or disposal (including application of the proceeds and provision of the information required by regulation14).
+
+(2) Where the goods against which enforcement is sought are securities, the sale or disposal stage commences with the provision of a notice of disposal in accordance with paragraph 49(2) of Schedule 12.
+
+## 7. Calculation of fees by reference to value of sum sought to be recovered[^key-df5327ac6577caa7634dea11b059a3c7]
+
+The percentage fee or fees are to be calculated—
+
+- (a) where enforcement takes place other than under a High Court writ, by multiplying the amount of the sum to be recovered which exceeds £1900[^key-79fc24070f24df66e69acc41c4c8bb8e] by the percentage indicated in the relevant column of table 1 in the Schedule;
+- (b) where enforcement takes place under a High Court writ, by multiplying the amount of the sum to be recovered which exceeds £1200[^key-1ed5d83d80146e2f14f171cb85ff2047] by the percentage indicated in the relevant column of table 2 in the Schedule;
+- (c) in either case, in the total amount of the fee so calculated, any fraction of £1 is to be reckoned as £1, but any fraction of a penny is to be disregarded.
+
+## 8. Other fees and disbursements recoverable from the debtor[^key-3364b511e312e39aaddd13026a234354][^key-825ff83ebe56e1be9ec8fea341faccee]
+
+(1)[^key-87553fff25f2bf47ec90f069c3748f7c] The enforcement agent may recover from the debtor the fees and disbursements set out in this regulation and regulations 9 and 10 and, where the creditor is not VAT-registered, the sum equivalent to VAT on those fees and disbursements, only in accordance with this regulation and regulations 9, 10, 11 and 18.
+
+(2) The following disbursements are recoverable provided that they are reasonably and actually incurred—
+
+- (a) the cost of storing goods which have been taken into control and removed from the premises or highway;
+- (b) the cost of hiring a locksmith to gain access to premises when using reasonable force to enter them in accordance with Schedule 12, and to secure them thereafter;
+- (c) court fees in relation to any applications made by the enforcement agent in relation to the enforcement power which are granted.
+
+(3)[^key-275f20931ffcb98506ff3fd7b67dffc2] The fees and disbursements referred to in this regulation and regulations 9 and 10 and the sum equivalent to VAT on those fees and disbursements, may be recovered out of proceeds.
+
+## 9. Other fees and disbursements recoverable from the debtor in relation to sale of goods by auction or by private sale[^key-0254691538649e75f9479b4903a470c6][^key-6e0a462dc7cf5cb57b6dba77d462f6e7]
+
+(1) The enforcement agent may recover disbursements related to the sale of the goods from the debtor in accordance with this regulation and regulations 10 and 11.
+
+(2) Where the sale is held on premises provided by the auctioneer conducting the sale, the enforcement agent may recover from the debtor—
+
+- (a) a sum in respect of the auctioneer’s commission not exceeding 15% of the sum realised by the sale of the goods;
+- (b) the auctioneer’s out of pocket expenses; and
+- (c) reasonable disbursements incurred in respect of advertising the sale.
+
+(3) Where the sale is held on other premises in accordance with regulations made under paragraph 43 of Schedule 12, the enforcement agent may recover from the debtor the sums and disbursements referred to in paragraph (2), except that the sum referred to in paragraph (2)(a) may not exceed 7.5% of the sum realised by the sale of the goods.
+
+(4) Where the goods are—
+
+- (a) auctioned by way of an internet auction site; or
+- (b) sold other than by auction,
+
+the enforcement agent may recover from the debtor a fee of 7.5% of the sum realised by the sale of the goods in addition to the fees set out in the Schedule and, where the creditor is not VAT-registered, the sum equivalent to VAT on that fee.[^key-81ef16d409222ff8b847989f25aca942]
+
+(5)[^key-6d21fc18afa82e8abaa67809a17447d6] The fee in paragraph (4) is exclusive of VAT.
+
+## 10. Exceptional disbursements[^key-b83ea11b358f0e8fefcd941c5352c3cf]
+
+(1) Upon application by the enforcement agent with the consent of the creditor in accordance with rules of court, the court may order that the enforcement agent may recover from the debtor exceptional disbursements associated with the use of the Schedule 12 procedure which are not otherwise recoverable under these Regulations.
+
+(2) The court may not make an order under paragraph (1) unless satisfied that the disbursements to which it relates are necessary for effective enforcement of the sum to be recovered, having regard to all the circumstances including—
+
+- (a) the amount of that sum; and
+- (b) the nature and value of the goods which have been taken into control, or which it is sought to take into control.
+
+## 11. More than one enforcement power available against the same debtor[^key-34703abaa7ae469dd371283c82f674b6]
+
+(1) This regulation applies for the purpose of calculating the fees and disbursements payable to the enforcement agent in accordance with regulations 4, 8, 9 and 10 in a case where—
+
+- (a) the enforcement agent receives instructions to use the procedure under Schedule 12 in relation to the same debtor but in respect of more than one enforcement power; and
+- (b) those enforcement powers can reasonably be exercised at the same time.
+
+(2) In paragraph (1)(b), “can reasonably be exercised at the same time” means in particular—
+
+- (a) taking control of goods in relation to all such enforcement powers on the same occasion; and
+- (b) selling or disposing of all goods so taken into control on the same occasion,
+
+except where it is impracticable to do so.
+
+(3) The enforcement agent may recover the compliance stage fee in respect of each enforcement power to which the instructions relate.
+
+(4) Where paragraph (1) applies, the fee recoverable in respect of the enforcement stage (or stages) and the sale or disposal stage respectively is to be calculated as follows—
+
+- (a) the fixed fee for each stage may be recovered only once regardless of the number of enforcement powers to which the instructions relate;
+- (b) the amount in relation to which the percentage fee for each stage, if any, is to be calculated is the total amount of the sums to be recovered under all enforcement powers to which paragraph (1) applies.
+
+(5) Where this regulation applies, the enforcement agent must, as far as practicable, minimise the disbursements recoverable from the debtor under these Regulations by dealing with the goods taken into control pursuant to the instructions together and on as few occasions as possible.
+
+## 12. Recovery of fees from vulnerable debtors[^key-2f09a8372ba7c776529a73069dfba870]
+
+Where the debtor is a vulnerable person, the fee or fees due for the enforcement stage (or, where regulation 6 applies, the first, or first and second, enforcement stages as appropriate) and any disbursements related to that stage (or stages) are not recoverable unless the enforcement agent has, before proceeding to remove goods which have been taken into control, given the debtor an adequate opportunity to get assistance and advice in relation to the exercise of the enforcement power.
+
+## 13. Application of proceeds where less than the amount outstanding[^key-b51a4b11670240bfa2cdf94f8cda0bd6]
+
+(1) Subject to paragraph 50(6) of Schedule 12, when the proceeds from the exercise of an enforcement power are less than the amount outstanding, they must be applied in accordance with this regulation.
+
+(2) Where the goods are sold or disposed of at public auction (other than by internet auction), the proceeds must be applied first in payment of the auctioneer’s fees calculated in accordance with regulation 9(2) or (3) as appropriate.
+
+(3) Following the payment at paragraph (2), the enforcement agent may then recover the compliance fee.
+
+(4) Subject to paragraph (5), following any payment due by virtue of paragraphs (2) and (3), the proceeds must be applied *pro rata* in payment of—
+
+- (a) the sum to be recovered, and
+- (b) any remaining amounts recoverable in respect of fees and disbursements and the sum equivalent to VAT on those fees and disbursements,[^key-321213512cbc6b1957a216a8520f8497] payable to the enforcement agent in accordance with these Regulations.
+
+(5) Where the same legal person is both the creditor and the enforcement agent, paragraph (4) does not apply and the proceeds must be applied in payment of the amount referred to in paragraph (4)(b) before payment of the amount at paragraph (4)(a).
+
+(6) In paragraphs (4) and (5), references to the proceeds are to the proceeds after deduction of the sums, if any, to which paragraphs (2) and (3) relate.
+
+## 14. Provision of information to debtor and co-owner by enforcement agent[^key-87558eea9178dbc0cbae888f12a3a88b]
+
+(1) As soon as possible after sale or disposal of the goods, the enforcement agent must provide the debtor and any co-owner of goods of whom the enforcement agent is aware with—
+
+- (a) an itemised list of the goods sold or otherwise disposed of;
+- (b) a statement of—
+  - (i) the sum received in relation to each item;
+  - (ii) the proceeds;
+  - (iii) the application of the proceeds;
+  - (iv) the disbursements recoverable under these Regulations and incurred in relation to the goods.
+
+(2) The enforcement agent must provide the debtor and any co-owner with a copy of all receipts for the disbursements referred to at paragraph (1)(b)(iv) [^key-dbe6ec0c70631cefc1746f734dc76d47]....
+
+(3) Where the debtor pays, or seeks to pay, the amount outstanding at any time after the enforcement agent has incurred disbursements in relation to the enforcement power but before sale or disposal of the goods, the enforcement agent must provide the debtor with—
+
+- (a) a statement of disbursements recoverable in accordance with paragraph (1)(b)(iv);
+- (b) any receipts in accordance with paragraph (2);
+- (c) a statement of the fixed and percentage fees (if any) charged.
+
+## 15. Dispute regarding co-owner’s share of proceeds[^key-2bb8d395aad21486e74153608971f25f]
+
+Upon application in accordance with rules of court by the enforcement agent, the creditor, the debtor or a co-owner of goods, any dispute about the amount of the proceeds payable to that co-owner under paragraph 50(6)(a) of Schedule 12 is to be determined by the court.
+
+## 16. Disputes about the amount of fees and disbursements recoverable under regulations[^key-25c3fc3b8a50b3252952349779137df8]
+
+Upon application in accordance with rules of court, any dispute regarding the amount recoverable under these Regulations is to be determined by the court.
+
+## 17. Fees and disbursements not recoverable where enforcement process ceases[^key-a0e0a226e147a0fcf12a767cfc31e251]
+
+(1) The enforcement agent may not recover fees or disbursements from the debtor in relation to any stage of enforcement undertaken at a time when the relevant enforcement power has ceased to be exercisable.
+
+(2) Paragraph (1) does not apply where the enforcement power ceases to be exercisable because the debtor has paid the amount outstanding or that amount has been recovered from proceeds or otherwise.
+
+(3) In a case in which the enforcement agent is instructed by a landlord to exercise CRAR and the court makes an order under section 78(1) of the Act—
+
+- (a) the enforcement agent may not recover fees or disbursements from the debtor where the order is made under section 78(1)(a);
+- (b) where the order is made under section 78(1)(b), the enforcement agent may recover fees and disbursements from the debtor in accordance with these Regulations only if the court has made a further order permitting further steps to be taken under CRAR.
+
+(4) In paragraph (3), “CRAR” has the meaning given by section 72(2) of the Act.
+
+## 18. Recovery from debtors of the sum equivalent to VAT[^key-fced3ff2d02188df3ed5e81a8aacb1dd]
+
+(1) Where the creditor is VAT-registered the enforcement agent may not recover VAT on the fees or disbursements under these Regulations, or the sum equivalent to VAT.
+
+(2) Where the creditor is not VAT-registered the enforcement agent may recover from the debtor a sum equivalent to VAT only in accordance with these Regulations.
+
+(3) For the purposes of these Regulations, the sum equivalent to VAT is an amount of the same value as the VAT the creditor is liable to pay on —
+
+- (a) the fees indicated in regulation 9(4) and the Schedule; and
+- (b) the disbursements set out in regulations 8, 9 and 10.
+
+Signed by the authority of the Lord Chancellor
+
+Shailesh Vara
+
+Parliamentary Under Secretary of State
+
+Ministry of Justice
+
+4th January 2014
+
+## SCHEDULE — Fees recoverable under regulation 4[^key-50286c4df33fb29bd4a3105c47758ca5]
+
+Regulation 4
+
+**Table 1[^key-e4cb07efee5c51cab48375899927ac3d]**
+
+**Enforcement other than under a High Court Writ**
+
+| Fee Stage | Fixed Fee | Percentage fee (regulation 7): percentage of sum to be recovered exceeding £1900 |
+| --- | --- | --- |
+| Compliance stage | £79.00 | 0% |
+| Enforcement stage | £247.00 | 7.5% |
+| Sale or disposal stage | £116.00 | 7.5% |
+
+**Table 2[^key-28006872451cb15f7cab55b3b7f4afad]**
+
+**Enforcement under a High Court Writ**
+
+| Fee Stage | Fixed Fee | Percentage fee (regulation 7): percentage of sum to be recovered exceeding £1200 |
+| --- | --- | --- |
+| Compliance stage | £79.00 | 0% |
+| First enforcement stage | £200.00 | 7.5% |
+| Second enforcement stage | £520.00 | 0% |
+| Sale or disposal stage | £550.00 | 7.5% |
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations make provision for recovery of fees and disbursements from debtors by enforcement agents in relation to the procedure for taking control of goods under Schedule 12 to the Tribunals Courts and Enforcement Act [2007 (c.15)](https://www.legislation.gov.uk/ukpga/2007/15) (“the Act”). The Act provides a new statutory code for taking control of goods in order to sell them to enforce the payment of debts (replacing the process formerly known as “distress”). By section 62 of the Act, the Schedule 12 procedure is available where an enactment, writ or warrant confers the power to use the procedure. It is also available in relation to commercial rent arrears recovery under section 72 of the Act .
+
+These Regulations apply whenever an enforcement agent uses the Schedule 12 procedure (regulation 3), including in exercise of commercial rent arrears recovery. Regulation 2 makes general interpretative provision.
+
+Regulations 4 to 7 concern the recovery of fees from debtors out of the proceeds (defined in regulation 2). Fees are recoverable by reference to stages of the enforcement procedure as defined in regulation 5 for cases where the enforcement power is derived other than from a High Court writ, and in regulation 6 for High Court writs. Fees are recoverable on a fixed basis for each stage, but in certain situations an additional fee is recoverable as a percentage of the value of the sum to be recovered (regulations 4 and 7). The levels of fixed fees, and the relevant percentages to be applied, are provided for in the Schedule.
+
+Where the enforcement agent and the debtor enter into a controlled goods agreement (defined in accordance with paragraph 13(4) of Schedule 12 to the Act) which the debtor complies with, only the first enforcement stage fee is payable. However, if the debtor does not enter into such an agreement, or does so but breaches the agreement, both the first and second enforcement stage fees are applicable.
+
+Disbursements are also recoverable from the debtor out of the proceeds, and are addressed in regulations 8, 9, and 10. They may only be recovered in accordance with those regulations (regulation 8(1)). Regulation 8 provides for common disbursements regarding storage of goods, hire of locksmiths to enter and to secure premises, and court fees for various applications relating to the Schedule 12 process where the enforcement agent’s application is successful. Regulation 9 provides for costs of sale, including by public auction. Regulation 10 permits application to the court for permission to incur or recover exceptional disbursements (for example, the cost of insuring a valuable or rare item whilst it is out of the debtor’s control).
+
+Regulations 11 and 12 make specific provision to protect debtors. Regulation 11 requires enforcement agents to minimise the fees and disbursements charged where they act in relation to more than one enforcement power. Where practicable, they are expected to deal with the goods together and on as few occasions as possible. Regulation 12 makes provision to protect vulnerable debtors. The enforcement agent is required to give such a debtor an adequate opportunity to obtain assistance and advice prior to removal of the goods. The enforcement stage fee (or fees) is not recoverable unless such an opportunity has been given.
+
+Regulation 13 provides for the order of application of the proceeds where the amount recovered is less than the amount outstanding. Any fees and expenses owed to an auctioneer, and the compliance stage fee for the enforcement agent, are prioritised, with the remaining proceeds being divided pro rata between payment of the debt and payment of the remaining fees and disbursements due to the enforcement agent.
+
+Regulation 14 requires the enforcement agent to provide the debtor and any co-owner with specified information relating to sale or disposal of the goods, and equivalent provision is also made for the situation where the debtor has paid, or seeks to pay, the amount outstanding prior to sale or disposal. Regulations 15 and 16 make provision for disputes about a co-owner’s share of proceeds, and about the amount of fees and disbursements recoverable by the enforcement agent, to be referred to the court for resolution. Regulation 17 prevents recovery of fees or disbursements by an enforcement agent in relation to any enforcement stage during which the enforcement power ceases to be exercisable. Specific provision is made for orders made under section 78 of the Act relating to commercial rent arrears recovery.
+
+## Annotations
+
+[^f00001]: Footnote: [2007 c.15](https://www.legislation.gov.uk/ukpga/2007/15). Section 90 and Schedule 12 are prospectively amended by the Crime and Courts Act [2013 (c.22)](https://www.legislation.gov.uk/ukpga/2013/22), section 25(8).
+
+[^key-86d53b02f28bef03ed8cfb28112ecf43]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2014/1/regulation/1) in force at 6.4.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/1/regulation/1/1)
+
+[^key-ac78b29dedf0c64a767933262d0ceb0a]: Commencement: Reg. 2 in force at 6.4.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/1/regulation/1/1)
+
+[^key-18efbe6e572a85e192a8af52a27a4276]: Textual amendment: Words in reg. 2 inserted (1.5.2026) by [The Taking Control of Goods (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/366)](https://www.legislation.gov.uk/uksi/2026/366), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/366/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2026/366/regulation/3/2) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2026/366/regulation/1/3))
+
+[^key-da297effd774da43f6dfb5dd53c48177]: Textual amendment: Words in reg. 2 inserted (9.12.2021) by [The Taking Control of Goods (Fees) (Amendment) Regulations 2021 (S.I. 2021/1288)](https://www.legislation.gov.uk/uksi/2021/1288), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1288/regulation/1/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2021/1288/regulation/3/2/a)
+
+[^key-35fc517eb1b074082dbce5194974ace9]: Textual amendment: Words in reg. 2 inserted (9.12.2021) by [The Taking Control of Goods (Fees) (Amendment) Regulations 2021 (S.I. 2021/1288)](https://www.legislation.gov.uk/uksi/2021/1288), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1288/regulation/1/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2021/1288/regulation/3/2/b)
+
+[^key-1c69d1cdbfa9b5a819f4c67197f14d0c]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2014/1/regulation/3) in force at 6.4.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/1/regulation/1/1)
+
+[^key-351c3bbd68f7f30d073dd515e7c380f6]: Commencement: Reg. 4 in force at 6.4.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/1/regulation/1/1)
+
+[^key-f79e16838bbf8f93e0fe6513eded54f7]: Textual amendment: Reg. 4(1) substituted (9.12.2021) by [The Taking Control of Goods (Fees) (Amendment) Regulations 2021 (S.I. 2021/1288)](https://www.legislation.gov.uk/uksi/2021/1288), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1288/regulation/1/1), [3(3)(a)](https://www.legislation.gov.uk/uksi/2021/1288/regulation/3/3/a)
+
+[^key-4ac9ee9dd7456bf41e1a474e05f00cbb]: Textual amendment: Words in reg. 4(2) inserted (9.12.2021) by [The Taking Control of Goods (Fees) (Amendment) Regulations 2021 (S.I. 2021/1288)](https://www.legislation.gov.uk/uksi/2021/1288), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1288/regulation/1/1), [3(3)(b)](https://www.legislation.gov.uk/uksi/2021/1288/regulation/3/3/b)
+
+[^key-88cee6ef10b01194213fcf55de2a8a7f]: Textual amendment: Words in reg. 4(3) inserted (9.12.2021) by [The Taking Control of Goods (Fees) (Amendment) Regulations 2021 (S.I. 2021/1288)](https://www.legislation.gov.uk/uksi/2021/1288), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1288/regulation/1/1), [3(3)(c)](https://www.legislation.gov.uk/uksi/2021/1288/regulation/3/3/c)
+
+[^key-eca24316e3646b6326b749944d4a47a0]: Textual amendment: Reg. 4(5)(aa)(ab) inserted (1.5.2026) by [The Taking Control of Goods (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/366)](https://www.legislation.gov.uk/uksi/2026/366), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/366/regulation/1/1), [3(3)(a)](https://www.legislation.gov.uk/uksi/2026/366/regulation/3/3/a) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2026/366/regulation/1/3))
+
+[^key-795feac1d02a5b57ddc543f449420e7a]: Textual amendment: Words in reg. 4(5)(a) inserted (1.5.2026) by [The Taking Control of Goods (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/366)](https://www.legislation.gov.uk/uksi/2026/366), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/366/regulation/1/1), [3(3)(b)(i)](https://www.legislation.gov.uk/uksi/2026/366/regulation/3/3/b/i) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2026/366/regulation/1/3))
+
+[^key-bd3aafe4bea3704ade3c2b4c02aad532]: Textual amendment: Words in reg. 4(5)(a) inserted (1.5.2026) by [The Taking Control of Goods (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/366)](https://www.legislation.gov.uk/uksi/2026/366), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/366/regulation/1/1), [3(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2026/366/regulation/3/3/b/ii) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2026/366/regulation/1/3))
+
+[^key-9f1cec3731eafb435b4995ecee4a4419]: Textual amendment: Words in reg. 4(5)(b) inserted (1.5.2026) by [The Taking Control of Goods (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/366)](https://www.legislation.gov.uk/uksi/2026/366), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/366/regulation/1/1), [3(3)(c)](https://www.legislation.gov.uk/uksi/2026/366/regulation/3/3/c) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2026/366/regulation/1/3))
+
+[^key-9f6a4d2ea12a7bbd517a42bc46c18c7c]: Textual amendment: Reg. 4(6) inserted (9.12.2021) by [The Taking Control of Goods (Fees) (Amendment) Regulations 2021 (S.I. 2021/1288)](https://www.legislation.gov.uk/uksi/2021/1288), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1288/regulation/1/1), [3(3)(d)](https://www.legislation.gov.uk/uksi/2021/1288/regulation/3/3/d)
+
+[^key-2fdb3a4cc3570700ed7b5ec2665b1bbe]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2014/1/regulation/5) in force at 6.4.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/1/regulation/1/1)
+
+[^key-5fe2e5a73879836d821ac0ee73181498]: Commencement: Reg. 6 in force at 6.4.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/1/regulation/1/1)
+
+[^key-b55d1a529be45e97428cee8c313d4b9e]: Textual amendment: Words in reg. 6(1)(b) inserted (1.5.2026) by [The Taking Control of Goods (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/366)](https://www.legislation.gov.uk/uksi/2026/366), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/366/regulation/1/1), [3(4)(a)(i)](https://www.legislation.gov.uk/uksi/2026/366/regulation/3/4/a/i) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2026/366/regulation/1/3))
+
+[^key-bfba083339ac8932bc5cfd13f67e422d]: Textual amendment: Words in reg. 6(1)(b) inserted (1.5.2026) by [The Taking Control of Goods (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/366)](https://www.legislation.gov.uk/uksi/2026/366), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/366/regulation/1/1), [3(4)(a)(ii)](https://www.legislation.gov.uk/uksi/2026/366/regulation/3/4/a/ii) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2026/366/regulation/1/3))
+
+[^key-681815ffb439e3d4e12f61afaf3ee13d]: Textual amendment: Words in reg. 6(1)(b) substituted (1.5.2026) by [The Taking Control of Goods (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/366)](https://www.legislation.gov.uk/uksi/2026/366), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/366/regulation/1/1), [3(4)(a)(iii)](https://www.legislation.gov.uk/uksi/2026/366/regulation/3/4/a/iii) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2026/366/regulation/1/3))
+
+[^key-a114a1e4714a78bc10fc3cd0c7b58164]: Textual amendment: Words in reg. 6(1)(c)(i) inserted (1.5.2026) by [The Taking Control of Goods (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/366)](https://www.legislation.gov.uk/uksi/2026/366), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/366/regulation/1/1), [3(4)(b)(ii)](https://www.legislation.gov.uk/uksi/2026/366/regulation/3/4/b/ii) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2026/366/regulation/1/3))
+
+[^key-b93e5528e6eb75ee395f46e57c8ba494]: Textual amendment: Words in reg. 6(1)(c) inserted (1.5.2026) by [The Taking Control of Goods (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/366)](https://www.legislation.gov.uk/uksi/2026/366), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/366/regulation/1/1), [3(4)(b)(i)](https://www.legislation.gov.uk/uksi/2026/366/regulation/3/4/b/i) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2026/366/regulation/1/3))
+
+[^key-d72a2af00823646facb1cdf52813d6e8]: Textual amendment: Words in reg. 6(1)(c)(ii) substituted (1.5.2026) by [The Taking Control of Goods (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/366)](https://www.legislation.gov.uk/uksi/2026/366), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/366/regulation/1/1), [3(4)(b)(iii)(aa)](https://www.legislation.gov.uk/uksi/2026/366/regulation/3/4/b/iii/aa) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2026/366/regulation/1/3))
+
+[^key-8f6b516b23057089e88b91aca1c90bc8]: Textual amendment: Words in reg. 6(1)(c)(ii) substituted (1.5.2026) by [The Taking Control of Goods (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/366)](https://www.legislation.gov.uk/uksi/2026/366), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/366/regulation/1/1), [3(4)(b)(iii)(bb)](https://www.legislation.gov.uk/uksi/2026/366/regulation/3/4/b/iii/bb) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2026/366/regulation/1/3))
+
+[^key-df5327ac6577caa7634dea11b059a3c7]: Commencement: Reg. 7 in force at 6.4.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/1/regulation/1/1)
+
+[^key-79fc24070f24df66e69acc41c4c8bb8e]: Textual amendment: Sum in reg. 7(a) substituted (1.5.2026) by [The Taking Control of Goods (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/366)](https://www.legislation.gov.uk/uksi/2026/366), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/366/regulation/1/1), [3(5)(a)](https://www.legislation.gov.uk/uksi/2026/366/regulation/3/5/a) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2026/366/regulation/1/3))
+
+[^key-1ed5d83d80146e2f14f171cb85ff2047]: Textual amendment: Sum in reg. 7(b) substituted (1.5.2026) by [The Taking Control of Goods (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/366)](https://www.legislation.gov.uk/uksi/2026/366), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/366/regulation/1/1), [3(5)(b)](https://www.legislation.gov.uk/uksi/2026/366/regulation/3/5/b) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2026/366/regulation/1/3))
+
+[^key-3364b511e312e39aaddd13026a234354]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2014/1/regulation/8) in force at 6.4.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/1/regulation/1/1)
+
+[^key-825ff83ebe56e1be9ec8fea341faccee]: Textual amendment: [Reg. 8](https://www.legislation.gov.uk/uksi/2014/1/regulation/8) heading substituted (9.12.2021) by [The Taking Control of Goods (Fees) (Amendment) Regulations 2021 (S.I. 2021/1288)](https://www.legislation.gov.uk/uksi/2021/1288), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1288/regulation/1/1), [3(4)(a)](https://www.legislation.gov.uk/uksi/2021/1288/regulation/3/4/a)
+
+[^key-87553fff25f2bf47ec90f069c3748f7c]: Textual amendment: [Reg. 8(1)](https://www.legislation.gov.uk/uksi/2014/1/regulation/8/1) substituted (9.12.2021) by [The Taking Control of Goods (Fees) (Amendment) Regulations 2021 (S.I. 2021/1288)](https://www.legislation.gov.uk/uksi/2021/1288), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1288/regulation/1/1), [3(4)(b)](https://www.legislation.gov.uk/uksi/2021/1288/regulation/3/4/b)
+
+[^key-275f20931ffcb98506ff3fd7b67dffc2]: Textual amendment: [Reg. 8(3)](https://www.legislation.gov.uk/uksi/2014/1/regulation/8/3) substituted (9.12.2021) by [The Taking Control of Goods (Fees) (Amendment) Regulations 2021 (S.I. 2021/1288)](https://www.legislation.gov.uk/uksi/2021/1288), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1288/regulation/1/1), [3(4)(c)](https://www.legislation.gov.uk/uksi/2021/1288/regulation/3/4/c)
+
+[^key-0254691538649e75f9479b4903a470c6]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2014/1/regulation/9) in force at 6.4.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/1/regulation/1/1)
+
+[^key-6e0a462dc7cf5cb57b6dba77d462f6e7]: Textual amendment: [Reg. 9](https://www.legislation.gov.uk/uksi/2014/1/regulation/9) heading substituted (9.12.2021) by [The Taking Control of Goods (Fees) (Amendment) Regulations 2021 (S.I. 2021/1288)](https://www.legislation.gov.uk/uksi/2021/1288), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1288/regulation/1/1), [3(5)(a)](https://www.legislation.gov.uk/uksi/2021/1288/regulation/3/5/a)
+
+[^key-81ef16d409222ff8b847989f25aca942]: Textual amendment: Words in [reg. 9(4)](https://www.legislation.gov.uk/uksi/2014/1/regulation/9/4) substituted (9.12.2021) by [The Taking Control of Goods (Fees) (Amendment) Regulations 2021 (S.I. 2021/1288)](https://www.legislation.gov.uk/uksi/2021/1288), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1288/regulation/1/1), [3(5)(b)](https://www.legislation.gov.uk/uksi/2021/1288/regulation/3/5/b)
+
+[^key-6d21fc18afa82e8abaa67809a17447d6]: Textual amendment: Reg. 9(5) inserted (9.12.2021) by [The Taking Control of Goods (Fees) (Amendment) Regulations 2021 (S.I. 2021/1288)](https://www.legislation.gov.uk/uksi/2021/1288), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1288/regulation/1/1), [3(5)(c)](https://www.legislation.gov.uk/uksi/2021/1288/regulation/3/5/c)
+
+[^key-b83ea11b358f0e8fefcd941c5352c3cf]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2014/1/regulation/10) in force at 6.4.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/1/regulation/1/1)
+
+[^key-34703abaa7ae469dd371283c82f674b6]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2014/1/regulation/11) in force at 6.4.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/1/regulation/1/1)
+
+[^key-2f09a8372ba7c776529a73069dfba870]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2014/1/regulation/12) in force at 6.4.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/1/regulation/1/1)
+
+[^key-b51a4b11670240bfa2cdf94f8cda0bd6]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2014/1/regulation/13) in force at 6.4.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/1/regulation/1/1)
+
+[^key-321213512cbc6b1957a216a8520f8497]: Textual amendment: Words in [reg. 13(4)(b)](https://www.legislation.gov.uk/uksi/2014/1/regulation/13/4/b) inserted (9.12.2021) by [The Taking Control of Goods (Fees) (Amendment) Regulations 2021 (S.I. 2021/1288)](https://www.legislation.gov.uk/uksi/2021/1288), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1288/regulation/1/1), [3(6)](https://www.legislation.gov.uk/uksi/2021/1288/regulation/3/6)
+
+[^key-87558eea9178dbc0cbae888f12a3a88b]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2014/1/regulation/14) in force at 6.4.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/1/regulation/1/1)
+
+[^key-dbe6ec0c70631cefc1746f734dc76d47]: Textual amendment: Words in reg. 14(2) omitted (9.12.2021) by [The Taking Control of Goods (Fees) (Amendment) Regulations 2021 (S.I. 2021/1288)](https://www.legislation.gov.uk/uksi/2021/1288), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1288/regulation/1/1), [3(7)](https://www.legislation.gov.uk/uksi/2021/1288/regulation/3/7)
+
+[^key-2bb8d395aad21486e74153608971f25f]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2014/1/regulation/15) in force at 6.4.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/1/regulation/1/1)
+
+[^key-25c3fc3b8a50b3252952349779137df8]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2014/1/regulation/16) in force at 6.4.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/1/regulation/1/1)
+
+[^key-a0e0a226e147a0fcf12a767cfc31e251]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2014/1/regulation/17) in force at 6.4.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/1/regulation/1/1)
+
+[^key-fced3ff2d02188df3ed5e81a8aacb1dd]: Textual amendment: Reg. 18 inserted (9.12.2021) by [The Taking Control of Goods (Fees) (Amendment) Regulations 2021 (S.I. 2021/1288)](https://www.legislation.gov.uk/uksi/2021/1288), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1288/regulation/1/1), [3(8)](https://www.legislation.gov.uk/uksi/2021/1288/regulation/3/8)
+
+[^key-50286c4df33fb29bd4a3105c47758ca5]: Commencement: Sch. in force at 6.4.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/1/regulation/1/1)
+
+[^key-e4cb07efee5c51cab48375899927ac3d]: Textual amendment: Sch. Table 1 substituted (1.5.2026) by [The Taking Control of Goods (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/366)](https://www.legislation.gov.uk/uksi/2026/366), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/366/regulation/1/1), [3(6)(a)](https://www.legislation.gov.uk/uksi/2026/366/regulation/3/6/a) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2026/366/regulation/1/3))
+
+[^key-28006872451cb15f7cab55b3b7f4afad]: Textual amendment: Sch. Table 2 substituted (1.5.2026) by [The Taking Control of Goods (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/366)](https://www.legislation.gov.uk/uksi/2026/366), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/366/regulation/1/1), [3(6)(b)](https://www.legislation.gov.uk/uksi/2026/366/regulation/3/6/b) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2026/366/regulation/1/3))

@@ -1,0 +1,52 @@
+---
+title: Marine and Coastal Access Act 2009, section 298
+act: Marine and Coastal Access Act 2009
+section: '298'
+status: revised-with-pending-changes
+text_date: '2026-10-20'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/2009/23/section/298
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Marine and Coastal Access Act 2009, section 298
+
+> **Warning: changes not yet applied to this text (14).** Text as at 2026-10-20. See https://www.legislation.gov.uk/changes/affected/ukpga/2009/23
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 298. The coastal access scheme
+
+*Extent: E+W*
+
+(1) Natural England must—
+
+- (a) prepare a scheme setting out the approach it will take when discharging the coastal access duty, and
+- (b) submit the scheme to the Secretary of State.
+
+(2) The Secretary of State may—
+
+- (a) approve the scheme, with or without modifications, or
+- (b) reject the scheme and give Natural England a notice requiring it to prepare and submit a new scheme under subsection (1).
+
+(3) The scheme must be submitted to the Secretary of State within the period of 12 months beginning with the day on which this section comes into force or, in a case within subsection (2)(b), within the period specified in the notice.
+
+(4) Natural England may, with the approval of the Secretary of State, revise a scheme approved under this section.
+
+(5) A scheme approved under this section (and any revised scheme) must set out the approach Natural England will take when deciding, for the purposes of section 55A(4) of the 1949 Act, whether it would be appropriate for an access authority to carry out any preliminary activity (within the meaning of section 55A(3) of that Act).
+
+(6) The Secretary of State must lay before Parliament a copy of the scheme approved under this section and, where that scheme is revised, a copy of the revised scheme.
+
+(7) Before preparing or revising a scheme under this section, Natural England must consult such persons as it considers appropriate.
+
+(8) Natural England must, as soon as reasonably practicable, publish in such manner as it considers appropriate—
+
+- (a) the scheme approved by the Secretary of State, and
+- (b) where that scheme is revised, the revised scheme.
+
+(9) In discharging the coastal access duty, Natural England must act in accordance with the scheme approved under this section (or, where that scheme has been revised, the revised scheme).
+
+(10) Until such time as there is an approved scheme under this section, Natural England may not prepare or submit a report under section 51 or 55 of the 1949 Act (report containing proposals for long-distance routes) pursuant to the coastal access duty.
+
+(11) Nothing in subsection (10) prevents Natural England from surveying any land in connection with the preparation of such a report.

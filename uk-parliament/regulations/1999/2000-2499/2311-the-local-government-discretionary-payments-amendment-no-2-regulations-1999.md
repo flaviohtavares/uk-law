@@ -1,0 +1,110 @@
+---
+title: The Local Government (Discretionary Payments) (Amendment No. 2) Regulations 1999
+id: uksi/1999/2311
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '1999-08-13'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1999/2311
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1999/2311/pdfs/uksi_19992311_en.pdf
+- http://www.legislation.gov.uk/uksi/1999/2311/made/data.pdf
+pending_changes: 1
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Local Government (Discretionary Payments) (Amendment No. 2) Regulations 1999
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+1999 No. 2311
+
+PENSIONS
+
+The Local Government (Discretionary Payments) (Amendment No. 2) Regulations 1999
+
+Made
+
+13th August 1999
+
+Laid before Parliament
+
+20th August 1999
+
+Coming into force
+
+10th September 1999
+
+The Secretary of State, in exercise of the powers conferred on him by section 24 of the Superannuation Act 1972[^f00001] and of all other powers enabling him in that behalf, hereby makes the following Regulations which relate only to persons to whom regulations may be made under section 7 of that Act[^f00002]:–
+
+## 1. Citation and commencement
+
+These Regulations may be cited as the Local Government (Discretionary Payments) (Amendment No. 2) Regulations 1999 and shall come into force on 10th September 1999, but regulation 2 shall have effect from 1st April 1998, paragraph (2)(a) of regulation 3 shall have effect from 1st April 1999 and paragraphs (2)(b) to (6) of regulation 3 shall have effect from 1st September 1999.
+
+## 2. General interpretation
+
+In regulation 2(1)[^f00003] of the Local Government (Discretionary Payments) Regulations 1996[^f00004] (“the 1996 Regulations”), in the definition of “employing authority” after “Schedule 2 of the LGPS Regulations (Scheme employers)” add “or a resolution body specified in regulation 4 of the LGPS Regulations”.
+
+## 3. Persons employed in educational establishments
+
+(1) In Schedule 2 to the 1996 Regulations (modifications for special categories of employees), Part II (persons employed in educational establishments) shall be amended in accordance with the following provisions of this regulation.
+
+(2) In paragraph 2–
+
+- (a) in sub-paragraph (a), for “Chapter III of Part I of the Education Act 1988” substitute “Chapter IV of Part II of the School Standards and Framework Act 1998[^f00005]”; and
+- (b) delete sub-paragraph (c).
+
+(3) In paragraph 4[^f00006] for “an aided school (within the meaning of the Education Act 1944)” substitute “a voluntary, foundation or foundation special school (within the meaning of section 20 of the School Standards and Framework Act 1998)”.
+
+(4) In paragraph 5(2)(a) delete “, (c)”.
+
+(5) In paragraph 7–
+
+- (a) in sub-paragraph (2), delete paragraph (b); and
+- (b) delete sub-paragraph (3).
+
+(6) For paragraph 8(a) substitute–
+
+> - (a) a person is employed (otherwise than as a teacher) by the governing body of a voluntary, foundation or foundation special school (within the meaning of section 20 of the School Standards and Framework Act 1998); and
+
+.
+
+## 4. Retrospective effect
+
+Nothing in these Regulations shall place any individual who is qualified to participate in the benefits for which the 1996 Regulations provide in a worse position than he would have been in if regulations 2 and 3 had been framed so as to have effect only from the date of their making.
+
+Signed by authority of the Secretary of State
+
+Gus Macdonald
+
+Minister of State,
+
+Department of the Environment, Transport and the Regions
+
+13th August 1999
+
+(This note is not part of the Regulations)
+
+These Regulations amend the Local Government (Discretionary Payments) Regulations 1996 (“the 1996 Regulations”). Regulation 1 sets out the effective dates of the changes. Section 24(3)(c) of the Superannuation Act 1972 provides that regulations made under that section may be framed so as to have effect from a date earlier than the making of the regulations. Regulation 4 provides that the retrospective effect of the amendments cannot operate to anyone’s detriment.
+
+Regulation 2 makes an amendment to the definition of “employing authority” to include the same bodies as were included before the amendment of the 1996 Regulations by the Local Government Pension Scheme (Transitional Provisions) Regulations 1997.
+
+Regulation 3 makes amendments to Part II of Schedule 2 to the 1996 Regulations to take account of changes to the structure of educational establishments made by the School Standards and Framework Act 1998.
+
+## Annotations
+
+[^f00001]: Footnote: [1972 c. 11](https://www.legislation.gov.uk/ukpga/1972/11); section 24 was amended by the Police Pensions Act [1976 (c. 35)](https://www.legislation.gov.uk/ukpga/1976/35), Schedule 2, paragraph 10.
+
+[^f00002]: Footnote: See section 24(2).
+
+[^f00003]: Footnote: Regulation 2(1) was amended by [S.I. 1997/1613](https://www.legislation.gov.uk/uksi/1997/1613), Schedule 3, paragraph 38(a)(i).
+
+[^f00004]: Footnote: [S.I. 1996/1680](https://www.legislation.gov.uk/uksi/1996/1680), amended by [S.I. 1997/1613](https://www.legislation.gov.uk/uksi/1997/1613), [1998/559](https://www.legislation.gov.uk/uksi/1998/559) and [1999/502](https://www.legislation.gov.uk/uksi/1999/502).
+
+[^f00005]: Footnote: [1998 c. 31](https://www.legislation.gov.uk/ukpga/1998/31).
+
+[^f00006]: Footnote: Paragraph 4 was amended by [S.I. 1998/559](https://www.legislation.gov.uk/uksi/1998/559), regulation 2(g).

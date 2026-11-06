@@ -1,0 +1,51 @@
+---
+title: Levelling-up and Regeneration Act 2023, section 50
+act: Levelling-up and Regeneration Act 2023
+section: '50'
+status: revised-with-pending-changes
+text_date: '2026-10-20'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/2023/55/section/50
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Levelling-up and Regeneration Act 2023, section 50
+
+> **Warning: changes not yet applied to this text (97).** Text as at 2026-10-20. See https://www.legislation.gov.uk/changes/affected/ukpga/2023/55
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 50. Boundaries of power under section 49[^key-b86ff4f355894258478d2c12fd2b1462]
+
+*Extent: E+W*
+
+(1) Section 49(1) does not enable a CCA to do anything which it is unable to do by virtue of a relevant limitation which is expressed to apply—
+
+- (a) to its power under section 49(1),
+- (b) to all of its powers, or
+- (c) to all of its powers but with exceptions that do not include its power under section 49(1).
+
+(2) If exercise of a relevant power of a CCA is subject to restrictions, those restrictions apply also to exercise of the power conferred on it by section 49(1) so far as that power is overlapped by the relevant power.
+
+(3) Section 49(1) does not authorise a CCA to borrow money.
+
+(4) Section 49(1)(a) to (d) does not authorise a CCA to charge a person for anything done by it otherwise than for a commercial purpose (but see section 93 of the Local Government Act 2003 (power of CCAs and other best value authorities to charge for discretionary services)).
+
+(5) Section 49(1)(e) does not authorise a CCA to do things for a commercial purpose in relation to a person if a statutory provision requires it to do those things in relation to the person.
+
+(6) Where under section 49(1)(e) a CCA does things for a commercial purpose, it must do them through—
+
+- (a) a company within the meaning given by section 1(1) of the Companies Act 2006,
+- (b) a registered society within the meaning of the Co-operative and Community Benefit Societies Act 2014, or
+- (c) a society registered or deemed to be registered under the Industrial and Provident Societies Act (Northern Ireland) 1969.
+
+(7) In this section—
+
+- “**relevant limitation**” means a prohibition, restriction or other limitation imposed by a statutory provision;
+- “**relevant power**” means a power conferred by a statutory provision;
+- “**statutory provision**” means a provision of an Act or of an instrument made under an Act.
+
+## Annotations
+
+[^key-b86ff4f355894258478d2c12fd2b1462]: Commencement: [S. 50](https://www.legislation.gov.uk/ukpga/2023/55/section/50) in force at 26.12.2023, see [s. 255(2)(c)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/c)

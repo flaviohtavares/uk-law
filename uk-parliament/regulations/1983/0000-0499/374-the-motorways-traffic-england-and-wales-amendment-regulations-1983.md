@@ -1,0 +1,92 @@
+---
+title: The Motorways Traffic (England and Wales) (Amendment) Regulations 1983
+id: uksi/1983/374
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '1983-03-09'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1983/374
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1983/374/pdfs/uksi_19830374_en.pdf
+- http://www.legislation.gov.uk/uksi/1983/374/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Westlaw UK derived from Crown Copyright material and contributed to legislation.gov.uk
+summary: ''
+---
+
+# The Motorways Traffic (England and Wales) (Amendment) Regulations 1983
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+1983 No. 374
+
+ROAD TRAFFIC
+
+SPECIAL ROADS
+
+The Motorways Traffic (England and Wales) (Amendment) Regulations 1983
+
+Made
+
+9th March 1983
+
+Laid before Parliament
+
+25th March 1983
+
+Coming into Operation
+
+16th April 1983
+
+The Secretary of State for Transport (as respects England) and the Secretary of State for Wales (as respects Wales), in exercise of the powers conferred by section 13(2) and (3) of the Road Traffic Regulation Act 1967 and now vested in them[^f00001], and of all other enabling powers, and after consultation with representative organisations in accordance with the provisions of section 107(2) of that Act, hereby make the following Regulations:—
+
+**1.** These Regulations shall come into operation on 16th April 1983 and may be cited as the Motorways Traffic (England and Wales) (Amendment) Regulations 1983.
+
+**2.** The Motorways Traffic (England and Wales) Regulations 1982 (here-in after referred to as “**the 1982 Regulations**”) are hereby amended as follows.
+
+**3.** For Regulations 12 of the 1982 Regulations (which provides for restrictions on the right hand or offside lane) substitute the following Regulation:—
+
+> **12.** (1) This Regulation applies to—
+>
+> - (a) a goods vehicle which has an operating weight exceeding 7.5 tonnes:
+> - (b) a motor vehicle constructed solely for the carriage of passengers and their effects the overall length of which exceeds 12 metres;
+> - (c) a motor vehicle drawing a trailer, and
+> - (d) a motor vehicle other than a motor vehicle constructed solely for the carriage of passengers and their effects which does not fall within sub-paragraphs (a), (b) or (c) and which is a heavy motor car, a motor tractor, a light locomotive or a heavy locomotive.
+>
+> (2) Subject to the provisions of paragraph (3) below, no vehicle to which this Regulation applies shall be driven or moved or stop or remain at rest on the right hand or offside lane of a length of carriage way which has three or more traffic lanes at any place where all the lanes are open for use by traffic proceeding in the same direction.
+>
+> (3) The prohibition contained in paragraph (2) above shall not apply to a vehicle while it is being driven on any right hand or offside lane such as is mentioned in that paragraph in so far as it is necessary for the vehicle to be driven to enable it to pass another vehicle which is carrying or drawing a load of exceptional width.
+>
+> (4) In this Regulation—
+>
+> - “**goods vehicle**” and “**operating weight**” have the same meanings as in sections 104(1C) and 104(1B) respectively of the Act of 1967[^f00002], and
+> - “**overall length**” has the same meaning as in Regulation 3(1) of the Motor Vehicles (Construction and Use) Regulations 1978[^f00003]
+
+David Howell
+
+Secretary of State for Transport
+
+1st March 1983
+
+Nicholas Edwards
+
+Secretary of State for Wales
+
+9th March 1983
+
+EXPLANATORY NOTE
+
+These Regulations amend Regulation 12 of the Motorways Traffic (England and Wales) Regulations 1982 which impose restrictions on the use of the right hand or offside lane of motorways.
+
+The restriction on passenger vehicles with an overall length exceeding 12 metres and the restriction on vehicles drawing a trailer is unchanged. The restriction on other load carrying vehicles is framed as a restriction on goods vehicles with an operating weight exceeding 7.5 tonnes, the expressions “**goods vehicle**” and “**operating weight**” having the same meanings as in sections 104(1C) and 104(1B) of the Road Traffic Regulation Act 1967. There is an additional restriction on any other vehicle (except a passenger vehicle) which is a heavy motor car, a motor tractor, a light locomotive, or a heavy locomotive.
+
+## Annotations
+
+[^f00001]: Footnote: As to the Secretary of State for Transport, by virtue of S.I. 1970/1681, 1979/571 and 1981/238
+
+[^f00002]: Footnote: Sections 104(1C) and 104(1B) were inserted into the Act of 1967 by section 56 of the Transport Act 1982 (c. 49).
+
+[^f00003]: Footnote: S.I. 1978/1017, to which there are amendments not relevant to these Regulations.

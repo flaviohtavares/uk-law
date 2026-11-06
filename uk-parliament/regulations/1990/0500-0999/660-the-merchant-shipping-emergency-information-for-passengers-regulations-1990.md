@@ -1,0 +1,125 @@
+---
+title: The Merchant Shipping (Emergency Information for Passengers) Regulations 1990
+id: uksi/1990/660
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '1990-03-15'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1990/660
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1990/660/pdfs/uksi_19900660_en.pdf
+- http://www.legislation.gov.uk/uksi/1990/660/made/data.pdf
+pending_changes: 3
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Merchant Shipping (Emergency Information for Passengers) Regulations 1990
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+1990 No. 660
+
+MERCHANT SHIPPING
+
+SAFETY
+
+The Merchant Shipping (Emergency Information for Passengers) Regulations 1990
+
+Made
+
+15th March 1990
+
+Laid before Parliament
+
+22nd March 1990
+
+Coming into force
+
+12th April 1990
+
+The Secretary of State for Transport after consulting with the persons referred to insection 22(2) of the Merchant Shipping Act 1979[^f00001], in exercise of the powers conferred on him by sections 21(1)(a) and (3) to (6) and 22(1) of that Act and of all other powers enabling him in that behalf, hereby makes the following Regulations:—
+
+## 1. Citation
+
+These Regulations may be cited as the Merchant Shipping (Emergency Information for Passengers) Regulations 1990 and shall come into force on 12th April 1990.
+
+## 2. Interpretation
+
+(1) In these Regulations
+
+- (a) “voyage” includes an excursion; and
+- (b) the expression “passenger ship” means a ship carrying more than 12 passengers.
+
+(2) Where a ship is managed by a person other than its owner (whether on behalf of the owner or some other person or on his own behalf), a reference in these Regulations to the owner shall be construed as including a reference to that person.
+
+(3) A reference in these Regulations to a numbered regulation is a reference to the regulation of that number in these Regulations.
+
+## 3. Application
+
+These Regulations apply to United Kingdom passenger ships when operating as passenger ships of Classes I, II, II(A), III, IV, V, VI and VI(A) within the meaning of the Merchant Shipping (Fire Protection) Regulations 1984[^f00002] and references to Classes shall be construed accordingly.
+
+## 4. Public Address Systems
+
+(1)
+
+- (a) Subject tosub-paragraph (b) below, every ship which is certified to carry more than 20 passengers shall be provided with a public address system.
+- (b) This paragraph does not apply to any ship which is a new passenger ship for the purpose of the Merchant Shipping (Fire Protection) Regulations 1984 and which is of Class I or II, or IIA of 21.34 metres in length or over.
+
+(2) Notwithstanding the requirements of paragraph (1) in every ship of Classes IV, V. VI and VI(A) which is certified to carry not more than 50 passengers and in which the passengers have access to only one passenger compartment or space a portable loud hailer may be carried in lieu of providing a public address system.
+
+(3) Broadcasts made on the public address system shall be capable of being heard in all public spaces, including open decks, to which passengers have access.
+
+## 5. Emergency Instructions for Passengers
+
+(1) In ships of Class I, if a muster of the passengers is not held on departure, the attention of the passengers shall be drawn by means of an announcement at the commencement of the voyage to the emergency instructions required by regulation 4(9) and (10) of the Merchant Shipping (Musters and Training) Regulations 1986[^f00003].
+
+(2)
+
+- (a) In ships ofClasses IV, V, VI and VI(A) the passengers shall be informed by means of an announcement at the commencement of each voyage of the action they should take in the event of an emergency which could lead to the ship being abandoned.
+- (b) In ships of such Classes notices providing emergency instructions for passengers shall also be displayed in each passenger compartment.
+
+## 6. Marking of Exits
+
+In every ship to which these Regulations apply, not being an open or partially decked ship of Classes V, VI or VI(A), all doors provided for passenger use and leading from passenger compartments to open decks shall be clearly indicated with one or more signs marked “EXIT”. All doors, windows, side scuttles and other openings provided for emergency escape purposes shall be clearly indicated with one or more signs marked “EMERGENCY ESCAPE DOOR” or “EMERGENCY ESCAPE WINDOW” as appropriate.
+
+## 7. Exemptions
+
+The Secretary of State may exempt any ships or description of ships from all or any of the provisions of these Regulations (as may be specified in the exemption) if he is satisfied that compliance with such provisions is either impracticable or unreasonable in the case of that ship or description of ships on such terms (if any) as he may specify and may, subject to giving reasonable notice, alter or cancel any such exemption.
+
+## 8. Power to detain
+
+In any case where a ship does not comply with the requirements of these Regulations the ship shall be liable to be detained and section 692(1)—(3) of the Merchant Shipping Act 1894[^f00004] (which relates to the detention of a ship) shall have effect in relation to the ship, subject to the modification that for the words “this Act” wherever they appear, there shall be substituted “the Merchant Shipping (Emergency Information for Passengers) Regulations 1990”.
+
+## 9. Penalties and defence
+
+(1) If a ship to which these Regulations apply proceeds on any voyage or excursion without complying with the requirements of regulations 4, 5(2)(b) and 6 the owner of the ship shall be guilty of an offence and liable on summary conviction to a fine not exceeding the statutory maximum or on conviction on indictment to imprisonment for a term not exceeding two years or a fine or both.
+
+(2) If regulation 5(1) or 2(a) is not complied with the master of the ship shall be guilty of an offence and liable on summary conviction to a fine not exceeding the statutory maximum or on conviction on indictment to imprisonment for a term not exceeding two years or a fine or both.
+
+(3) It shall be a defence to a charge under these Regulations for the defendant to show that all reasonable steps were taken to avoid commission of the offence.
+
+Cecil Parkinson
+
+Secretary of State for Transport
+
+15th March 1990
+
+(This note is not part of the Regulations)
+
+These Regulations require all United Kingdom passenger ships certified to carry more than 20 passengers which are not required by the Merchant Shipping (Fire Protection) Regulations 1984 to be provided witha public address system, to be provided withsuch a system. Smaller ships of certain Classes may be provided witha portable loud hailer in lieu of such a system. The Regulations also require the attention of passengers on Class I passenger ships to be drawn to the passenger emergency instructions, when a muster is not held on departure, and require passengers on ships of Classes IV, V, VI and VI(A) to be given safety information at the commencement of each voyage.
+
+The Regulations also require normaland emergency exits leading from the interior of the ship to be clearly marked.
+
+## Annotations
+
+[^f00001]: Footnote: [1979 c. 39](https://www.legislation.gov.uk/ukpga/1979/39).
+
+[^f00002]: Footnote: S.I. [1984/1218](https://www.legislation.gov.uk/uksi/1984/1218).
+
+[^f00003]: Footnote: S.I. [1986/1071](https://www.legislation.gov.uk/uksi/1986/1071).
+
+[^f00004]: Footnote: [1894 c. 60](https://www.legislation.gov.uk/ukpga/1894/60).

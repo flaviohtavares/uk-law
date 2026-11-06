@@ -1,0 +1,40 @@
+---
+title: The Iran (Sanctions) (Nuclear) (EU Exit) Regulations 2019, section 45
+act: The Iran (Sanctions) (Nuclear) (EU Exit) Regulations 2019
+section: '45'
+status: revised
+text_date: '2026-09-29'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2019/461/section/45
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Iran (Sanctions) (Nuclear) (EU Exit) Regulations 2019, section 45
+
+> Text as at 2026-09-29.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 45. Section 8B(1) to (3) of Immigration Act 1971: directions[^key-f22efa642eb7123719c8aa0e2d9089aa][^key-be6d2ec2413a494e9a88d3c58f4d4109]
+
+*Extent: E+W+S+N.I.*
+
+(1) The Secretary of State may direct that, in relation to any person within regulation 19 whose name is specified, or who is of a specified description, section 8B(1) and (2) of the Immigration Act 1971, or section 8B(3) of that Act, have effect subject to specified exceptions.
+
+(2) A direction under this regulation—
+
+- (a) may contain conditions;
+- (b) must be of a defined duration (and that duration may be expressed in any way, including, for example, being expressed in a way such that the direction ceases to have effect on, or within a specified period after, the occurrence of a specified event).
+
+(3) The Secretary of State may vary, revoke or suspend a direction under this regulation at any time.
+
+(4) On the issue, variation, revocation or suspension of a direction under this regulation, the Secretary of State may take such steps as the Secretary of State considers appropriate to publicise the issue, variation, revocation or suspension of the direction.
+
+(5) In this regulation “**specified**” means specified in a direction under this regulation.
+
+## Annotations
+
+[^key-f22efa642eb7123719c8aa0e2d9089aa]: Commencement: Reg. 45 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/461/regulation/1/2)
+
+[^key-be6d2ec2413a494e9a88d3c58f4d4109]: Commencement: Reg. 45 in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 8(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/8/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

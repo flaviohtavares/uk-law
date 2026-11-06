@@ -1,0 +1,323 @@
+---
+title: The Biofuel (Labelling) Regulations 2004
+id: uksi/2004/3349
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2004-12-14'
+text_date: '2021-08-12'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2004/3349
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2004/3349/pdfs/uksiem_20043349_en.pdf
+- http://www.legislation.gov.uk/uksi/2004/3349/pdfs/uksi_20043349_en.pdf
+- http://www.legislation.gov.uk/uksi/2004/3349/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Biofuel (Labelling) Regulations 2004
+
+> Text as at 2021-08-12.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2004 No. 3349
+
+CONSUMER PROTECTION
+
+The Biofuel (Labelling) Regulations 2004
+
+Made
+
+14th December 2004
+
+Laid before Parliament
+
+21st December 2004
+
+Coming into force
+
+1st February 2005
+
+The Secretary of State, being designated [^c5293081] for the purposes of section 2(2) of the European Communities Act 1972 [^c5293091] in relation to measures relating to consumer protection, in exercise of the powers conferred by that section, hereby makes the following Regulations:
+
+## 1. Citation and commencement
+
+These Regulations may be cited as the Biofuel (Labelling) Regulations 2004 and shall come into force on 1st February 2005.
+
+## 2. Interpretation
+
+In these Regulations—
+
+- “**biodiesel**” means biofuel which is a fatty acid methyl-ester produced from vegetable or animal oil;
+- “**bioethanol**” means biofuel which is ethanol produced from biomass or the biodegradable fraction of waste;
+- “**biofuel**” means liquid or gaseous fuel for transport produced from biomass;
+- “**biomass**” means the biodegradable fraction of products, waste and residues from agriculture (including vegetal and animal substances), forestry and related industries, as well as the biodegradable fraction of industrial and municipal waste;
+- “**blend**” means motor fuel containing mineral oil derivatives and any biofuel;
+- “**enforcement authority**” means—
+  - (a) in England and Wales and in Scotland, a local weights and measures authority within the meaning of section 69 of the Weights and Measures Act 1985 [^c5293101]; and
+  - (b) in Northern Ireland, the Department of Enterprise, Trade and Investment; and
+- “**ultimate consumer**” means the person to whom a blend or biofuel is sold by retail at a filling station.
+
+## 3. Labelling requirements
+
+(1) Paragraph (2)[^key-7d6baef6d1d0be0f45fc24c96b13cfb6] applies to each of the following fuels—
+
+- (a) bioethanol;
+- (b) biodiesel;
+- (c) any blend containing more than 10%[^key-89808c51101def532e5262b89b32a6a8] by volume of bioethanol[^key-c3de7020f572ac9a97bf40e5e4f35ff9].
+- (d)[^key-b867fc537f8ef85b67ad328bb328d5da] any blend containing more than 7% by volume of biodiesel.
+
+(2) No person shall sell, or offer for sale, to the ultimate consumer any fuel to which this paragraph[^key-9512f691a547edf705d6aeddf09cc179] applies, unless the words, “Not suitable for all vehicles: consult vehicle manufacturer before use” are displayed prominently on any dispenser from which such fuel is sold or offered for sale to the ultimate consumer.
+
+(3)[^key-270d7c89775457444d4bc8361fb2c762] No person shall sell, or offer for sale, to the ultimate consumer before 1st April 2010 any blend containing more than 5% but not more than 7% by volume of biodiesel unless the words “Contains up to 7% biodiesel” are displayed prominently on any dispenser from which such fuel is sold or offered for sale to the ultimate consumer.
+
+(4)[^key-46eb151039a0dc1d128da3506c5950f0] A person must not sell, or offer for sale, to the ultimate consumer any blend containing more than 5% but not more than 10% by volume of bioethanol, unless the words “Suitable for most petrol vehicles: check before use” are displayed prominently on any dispenser from which such blend is sold or offered for sale to the ultimate consumer.
+
+## 4. Penalties and enforcement
+
+(1) Any person who contravenes a provision of these Regulations shall be guilty of an offence and shall on summary conviction be liable to a penalty not exceeding level 5 on the standard scale.
+
+(2) The provisions of the Schedule (defences and enforcement) shall have effect.
+
+(3) It shall be the duty of every enforcement authority to enforce these Regulations within its area, provided that nothing in these Regulations authorises an enforcement authority in Scotland to bring proceedings in Scotland for an offence.
+
+(4) In Northern Ireland proceedings for an offence under these Regulations may be instituted by or on behalf of an enforcement authority or the Director of Public Prosecutions.
+
+Signed by authority of the Secretary of State
+
+David Jamieson
+
+Parliamentary Under Secretary of State
+
+Department for Transport
+
+## SCHEDULE — DEFENCES AND ENFORCEMENT
+
+Regulation 4(2)
+
+### PART 1 — PROVISIONS AS TO DEFENCES
+
+#### 1. Defences
+
+(1) Subject to sub-paragraphs (2) to (4), in proceedings against any person for any offence under these Regulations it shall be a defence for that person to show that he took all reasonable steps and exercised all due diligence to avoid committing the offence.
+
+(2) Where in any proceedings [^key-ea8f3648de6f002affaa9be7779b34ce]... against any person for such an offence the defence provided by sub-paragraph (1) above involves an allegation that the commission of the offence was due to—
+
+- (a) the act or default of another; or
+- (b) reliance on information given by another,
+
+that person shall not, without the leave of the court, be entitled to rely on the defence unless, not less than seven clear days before the hearing of the proceedings (or, in Scotland the trial diet), he has served a notice under sub-paragraph (3) on the person bringing the proceedings.
+
+(3) A notice under this sub-paragraph shall give such information identifying or assisting in the identification of the person who committed the act or default or gave the information as is in the possession of the person who is the subject of the proceedings[^key-c9bcb9facf293a496fce8f9ddac7eccd].
+
+(4) A person shall not be entitled to rely on the defence provided by sub-paragraph (1) by reason of his reliance on information supplied by another, unless he shows that it was reasonable in all the circumstances for him to have relied on the information, having regard in particular to —
+
+- (a) the steps which he took, and those which might reasonably have been taken, for the purpose of verifying the information; and
+- (b) whether he had any reason to disbelieve the information.
+
+#### 2. Liability of persons other than principal offender
+
+(1) An employee or agent contravenes these Regulations if as a result of his act he causes the sale or offer for sale in contravention of regulation 3(2) or (3)[^M_F_52353ef5-76dc-41fd-e515-5179029bc45e] whether or not proceedings are taken against his employer or principal.
+
+(2) Where a body corporate is guilty of an offence under these Regulations (including where it is so guilty by virtue of sub-paragraph (1)) in respect of any act or default which is shown to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, any director, manager, secretary or other similar officer of the body corporate or any person who was purporting to act in any such capacity, he, as well as the body corporate, shall be guilty of that offence and shall be liable to be proceeded against and punished accordingly.
+
+(3) Where the affairs of a body corporate are managed by its members, sub-paragraph (2) shall apply in relation to the acts and defaults of a member in connection with his functions of management as if he were a director of the body corporate.
+
+(4) Where a Scottish partnership is guilty of an offence under these Regulations (including where it is so guilty by virtue of sub-paragraph (1)) in respect of any act or default which is shown to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, a partner in the partnership, both he and the partnership, shall be guilty of that offence and shall be liable to be proceeded against and punished accordingly.
+
+### PART 2 — PROVISIONS AS TO ENFORCEMENT
+
+#### 3. Obstruction of authorised offices and false statements
+
+(1) No person shall—
+
+- (a) intentionally obstruct a duly authorised officer of an enforcement authority acting in pursuance of any provision of these Regulations;
+- (b) intentionally fail to comply with any requirement properly made to him by such an officer under any provision of these Regulations; or
+- (c) without reasonable cause fail to give any such officer of an enforcement authority who is so acting any other assistance or information which he may reasonably require of him for the purposes of the exercise of the officer’s functions under any provision of these Regulations.
+
+(2) No person shall, in giving any information which is required of him by virtue of sub-paragraph (1)(c)—
+
+- (a) make any statement which he knows is false in a material particular; or
+- (b) recklessly make a statement which is false in a material particular.
+
+#### 4. Powers of search etc.
+
+(1) A duly authorised officer of an enforcement authority may, at all reasonable hours and on—
+
+- (a) identifying himself and producing authority in writing from the enforcement authority which appointed him for the exercise by him of powers conferred on the authority by these Regulations; and
+- (b) stating the purpose of his actions and his grounds for undertaking them,
+
+exercise any of the powers set out in sub-paragraph (2).
+
+(2) The powers referred to in sub-paragraph (1) are—
+
+- (a) he may, for the purpose of ascertaining whether an offence under these Regulations has been committed, inspect any relevant equipment and enter any premises other than premises used only as a dwelling;
+- (b) if he has reasonable cause to suspect that an offence under these Regulations has been committed, he may, for the purpose of ascertaining whether it has been committed, require any person carrying on or employed in connection with a business to produce any records relating to the biofuel or blend in question and he may take copies of those records or any part of them;
+- (c) if he has reasonable cause to suspect that an offence under these Regulations has been committed, he may seize and detain any sample of the biofuel or blend for the purpose of ascertaining whether the offence has been committed;
+- (d) he may seize and detain records which he has reason to believe may be required as evidence in proceedings for an offence under these Regulations;
+- (e) he may, for the purpose of exercising his powers of seizure under this sub-paragraph, but only if and to the extent that it is reasonably necessary in order to secure that the provisions of these Regulations are duly observed, require any person having authority to do so to break open any container and, if that person does not comply with the requirement or if there is no person present having authority to open it, he may do so himself.
+
+(3) For the purposes of paragraphs (b) and (d) of sub-paragraph (2), the officer may require information stored electronically to be made available to him in printed form.
+
+(4) If a justice of the peace is satisfied by any written information on oath—
+
+- (a) that there are reasonable grounds for believing either—
+  - (i)[^key-25e76cfa22305c5550dcfbf1a9e71873] that any sample or records, which a duly authorised officer has power under this paragraph to seize or require to be produced, is or are on any premises and that its or their seizure or production is likely to disclose evidence of the commission of an offence under these Regulations; or
+  - (ii) that any offence under these Regulations has been, is being, or is about to be committed on any premises; and
+- (b) either—
+  - (i) that admission to the premises has been or is likely to be refused and that notice of intention to apply for a warrant under this sub-paragraph has been given to the occupier; or
+  - (ii) that an application for admission, or the giving of such a notice, would defeat the object of the entry or that the premises are unoccupied or that the occupier is temporarily absent and it might defeat the object of the entry to await his return,
+
+the justice may by warrant under his hand, which shall continue in force for a period of one month, authorise an officer of an enforcement authority to enter the premises, if need be by force.
+
+(5) An officer entering any premises by authority of a warrant granted under sub-paragraph (4) shall, if the occupier is present, give to the occupier or, if the occupier is temporarily absent, leave in a prominent place on the premises or appropriate part of the premises a notice in writing—
+
+- (a) summarising the officer’s powers of seizure and detention of any sample or records under this paragraph;
+- (b) explaining that compensation may be payable for damage caused in entering premises and seizing and removing any sample or records therefrom, and giving the address to which an application for compensation should be directed; and
+- (c) indicating at which office of the enforcement authority and within which hours a copy of these Regulations is available to be consulted.
+
+(6) An officer entering any premises by virtue of this paragraph may take with him such other persons and such equipment as may appear to him necessary; and on leaving any premises which he has entered by virtue of a warrant he shall, if the premises are unoccupied or the occupier is temporarily absent, leave them as effectively secured against trespassers as he found them.
+
+(7) An officer exercising any power of seizure and detention under this paragraph shall as soon as practicable give to the person against whom the power has been exercised, a written notice–
+
+- (a) stating precisely what has been so seized and detained; and
+- (b) explaining where, within what period and on what grounds an appeal against such detention may be brought under paragraph 5 (Appeals against detention of a sample or records) and whether the things detained would be released while an appeal was pending.
+
+(8) A person who is not a duly authorised officer of an enforcement authority shall not purport to act as such under this paragraph.
+
+(9) In the application of this paragraph to Scotland, the reference in sub-paragraph (4) to a justice of the peace shall include a reference to a sheriff and the reference to any written information on oath shall be construed as a reference to any evidence on oath.[^key-630c9b6a2c7bc8cc97cdcee7969e1c71]
+
+(10) In the application of this paragraph to Northern Ireland, the reference in sub-paragraph (4) to a justice of the peace shall include a reference to a lay magistrate and the reference to any written information on oath shall be construed as a reference to any complaint on oath.[^key-f6a26919a0f432c4d9866c445e2b30a4]
+
+#### 5. Appeals against detention of a sample or records
+
+(1) Any person having an interest in a sample or records which is or[^key-b30dc8c3f8951cee8de1c87d4689c1b3] are for the time being detained under paragraph 4 (Powers of search etc.) by an enforcement authority or by a duly authorised officer of an enforcement authority may apply for an order requiring the sample [^key-cb27f81cc760f91fd92c322d4b0f29c0]... or records to be released to him or to another person.
+
+(2) An application under this paragraph may be made–
+
+- (a) to any magistrates' court in which proceedings have been brought in England and Wales or Northern Ireland for an offence in respect of a contravention of any provision of these Regulations in relation to the sample or records;
+- (b) where no such proceedings have been so brought, by way of complaint to a magistrates' court; or
+- (c) in Scotland, by summary application to the sheriff.
+
+(3) A magistrates' court or the sheriff shall not make an order under sub-paragraph (1) unless the court or sheriff is satisfied–
+
+- (a) that proceedings have not been brought for an offence in respect of a contravention of any provision of these Regulations [^key-1017334fd1dfd76f35738c61abeade6b]... or having been brought, have been concluded; and
+- (b) where no such proceedings have been brought, that more than six months have elapsed since the seizure was carried out.
+
+(4) Any person aggrieved by an order made under this paragraph by a magistrates' court or sheriff[^key-c67192dcf457e8aa54f03e09d833ad65] or by a decision of such a court or sheriff not to make such an order, may appeal against that order or decision–
+
+- (a) in England and Wales, to the Crown Court;
+- (b) in Scotland, to the sheriff principal[^key-fc9121a275dcebc1e9be7d7a3901a21c]; or
+- (c) in Northern Ireland to a county court.
+
+(5) In England and Wales or in Northern Ireland, an order made under this paragraph may contain such provision as appears to the court to be appropriate for delaying the coming into force of the order pending the making and determination of any appeal (including any application under section 111 of the Magistrates' Courts Act 1980 [^c5293111] or article 146 of the Magistrates' Courts (Northern Ireland) Order 1981 [^c5293121] (statement of case)).
+
+#### 6. Compensation for seizure and detention
+
+(1) Where a duly authorised officer of an enforcement authority exercises any power under paragraph 4 (Powers of search etc.) to seize and detain any sample or records, the enforcement authority shall be liable to pay compensation to any person having an interest in the sample or records in respect of any loss or damage caused by the exercise of the power if—
+
+- (a) there has been no contravention of any provision of these Regulations; and
+- (b) the exercise of the power is not attributable to any neglect or default by that person.
+
+(2) Any disputed question as to the right to or the amount of any compensation payable under this paragraph shall be determined—
+
+- (a) in England and Wales or Northern Ireland by arbitration; or
+- (b) in Scotland by a single arbiter appointed by the parties, or in event of the parties failing to agree, by the sheriff.
+
+#### 7. Recovery of the expenses of enforcement
+
+(1) This paragraph shall apply where a court convicts a person of an offence in respect of a contravention of any provision of these Regulations.
+
+(2) The court may (in addition to any other order it may make as to costs and expenses) order the person convicted to reimburse an enforcement authority for any expenditure which has been or may be incurred by that authority in connection with any seizure or detention by or on behalf of the authority.
+
+#### 8. Savings for certain privileges
+
+Nothing in these Regulations shall be taken as requiring any person—
+
+- (a) to produce any records if he would be entitled to refuse to produce those records in any proceedings in any court on the grounds that they are the subject of legal professional privilege, or, in Scotland, a claim to confidential communications, or as authorising any person to take possession of any records which are in the possession of a person who would be so entitled; or
+- (b) to answer any question or give any information if to do so would incriminate that person or that person’s spouse.
+
+#### 9. Savings for contracts
+
+A contract for the supply of a biofuel or blend shall not be void or unenforceable by reason only of a contravention of any provision of these Regulations.
+
+#### 10. Service of documents etc.
+
+(1) Any document required or authorised by virtue of these Regulations to be served on a person may be so served—
+
+- (a) by delivering it to him or leaving it at his proper address or by sending it by post to him at that address;
+- (b) if the person is a body corporate, by serving it in accordance with paragraph (a) on the secretary or clerk of that body; or
+- (c) if in England and Wales or Northern Ireland the person is a partnership, by serving it in accordance with paragraph (a) on a partner or on a person having control or management of the partnership business.
+
+(2) For the purposes of sub-paragraph (1), and for the purposes of section 7 of the Interpretation Act 1978 [^c5293131] (which relates to the service of documents by post) in its application to that sub-paragraph, the proper address of any person on whom a document is to be served by virtue of these Regulations shall be his last known address except that–
+
+- (a) in the case of service on a body corporate or its secretary or clerk, it shall be the address of the registered or principal office of the body corporate;
+- (b) in the case of service on a partnership in England and Wales or Northern Ireland or a partner or a person having the control or management of a partnership business, it shall be the principal office of the partnership.
+
+(3) For the purposes of sub-paragraph (2) the principal office of a company registered outside the United Kingdom or of a partnership carrying on business outside the United Kingdom is its principal office within the United Kingdom.
+
+*(This note is not part of the Regulations)*
+
+These Regulations, which extend to the United Kingdom, transpose Article 3.5 of Directive [2003/30/EC](https://www.legislation.gov.uk/european/directive/2003/0030) of the European Parliament and of the Council of 8th May 2003 on the promotion of the use of biofuels or other renewable fuels for transport. *Regulation 3* provides that the notice “Not suitable for all vehicles: consult vehicle manufacturer before use” should be prominently displayed on any fuel pumps for dispensing by retail to an ultimate consumer a biofuel or a fuel blend containing more than 5% of biofuel by volume. *Regulation 4* and *the Schedule* provide a mechanism through which the labelling requirements can be enforced by weights and measures authorities.
+
+A Transposition Note in respect of the Directive has been laid before each House of Parliament.
+
+A full Regulatory Impact Assessment of the effect that this instrument will have on the costs to business is available from the Cleaner Fuels and Vehicles Division, Department for Transport, Great Minster House, 76 Marsham Street, London SW1P 4DR (telephone: 020 7944 4378). A copy has been placed in the library of each House of Parliament.
+
+Copies of the Directive can be obtained from the Stationery Office.
+
+## Annotations
+
+[^c5293081]: Marginal citation: [S.I. 1993/2661](https://www.legislation.gov.uk/uksi/1993/2661).
+
+[^c5293091]: Marginal citation: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68).
+
+[^c5293101]: Marginal citation: [1985 c. 72](https://www.legislation.gov.uk/ukpga/1985/72), as amended by paragraph 75 of Schedule 16 to the [Local Government (Wales) Act 1994 (c. 19)](https://www.legislation.gov.uk/ukpga/1994/19) and paragraph 144 of Schedule 13 to the [Local Government etc. (Scotland) Act 1994 (c. 39)](https://www.legislation.gov.uk/ukpga/1994/39).
+
+[^key-7d6baef6d1d0be0f45fc24c96b13cfb6]: Textual amendment: Words in reg. 3(1) substituted (8.1.2010) by [The Biofuel (Labelling) (Amendment) Regulations 2009 (S.I. 2009/3277)](https://www.legislation.gov.uk/uksi/2009/3277), [regs. 1](https://www.legislation.gov.uk/uksi/2009/3277/regulation/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2009/3277/regulation/3/2/a)
+
+[^key-89808c51101def532e5262b89b32a6a8]: Textual amendment: Word in [reg. 3(1)(c)](https://www.legislation.gov.uk/uksi/2004/3349/regulation/3/1/c) substituted (12.8.2021) by [The Motor Fuel (Composition and Content) and the Biofuel (Labelling) (Amendment) (No. 2) Regulations 2021 (S.I. 2021/894)](https://www.legislation.gov.uk/uksi/2021/894), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/894/regulation/1/2), [13(a)](https://www.legislation.gov.uk/uksi/2021/894/regulation/13/a)
+
+[^key-c3de7020f572ac9a97bf40e5e4f35ff9]: Textual amendment: Word in reg. 3(1)(c) substituted (8.1.2010) by [The Biofuel (Labelling) (Amendment) Regulations 2009 (S.I. 2009/3277)](https://www.legislation.gov.uk/uksi/2009/3277), [regs. 1](https://www.legislation.gov.uk/uksi/2009/3277/regulation/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2009/3277/regulation/3/2/b)
+
+[^key-b867fc537f8ef85b67ad328bb328d5da]: Textual amendment: Reg. 3(1)(d) added (8.1.2010) by [The Biofuel (Labelling) (Amendment) Regulations 2009 (S.I. 2009/3277)](https://www.legislation.gov.uk/uksi/2009/3277), [regs. 1](https://www.legislation.gov.uk/uksi/2009/3277/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2009/3277/regulation/3/3)
+
+[^key-9512f691a547edf705d6aeddf09cc179]: Textual amendment: Words in reg. 3(2) substituted (8.1.2010) by [The Biofuel (Labelling) (Amendment) Regulations 2009 (S.I. 2009/3277)](https://www.legislation.gov.uk/uksi/2009/3277), [regs. 1](https://www.legislation.gov.uk/uksi/2009/3277/regulation/1), [3(4)](https://www.legislation.gov.uk/uksi/2009/3277/regulation/3/4)
+
+[^key-270d7c89775457444d4bc8361fb2c762]: Textual amendment: Reg. 3(3) added (8.1.2010) by [The Biofuel (Labelling) (Amendment) Regulations 2009 (S.I. 2009/3277)](https://www.legislation.gov.uk/uksi/2009/3277), [regs. 1](https://www.legislation.gov.uk/uksi/2009/3277/regulation/1), [3(5)](https://www.legislation.gov.uk/uksi/2009/3277/regulation/3/5)
+
+[^key-46eb151039a0dc1d128da3506c5950f0]: Textual amendment: [Reg. 3(4)](https://www.legislation.gov.uk/uksi/2004/3349/regulation/3/4) inserted (12.8.2021) by [The Motor Fuel (Composition and Content) and the Biofuel (Labelling) (Amendment) (No. 2) Regulations 2021 (S.I. 2021/894)](https://www.legislation.gov.uk/uksi/2021/894), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/894/regulation/1/2), [13(b)](https://www.legislation.gov.uk/uksi/2021/894/regulation/13/b)
+
+[^key-ea8f3648de6f002affaa9be7779b34ce]: Textual amendment: Words in Sch. para. 1(2) omitted (1.2.2006) by virtue of [The Biofuel (Labelling) (Amendment) Regulations 2005 (S.I. 2005/3355)](https://www.legislation.gov.uk/uksi/2005/3355), [regs. 1](https://www.legislation.gov.uk/uksi/2005/3355/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2005/3355/regulation/2/2)
+
+[^key-c9bcb9facf293a496fce8f9ddac7eccd]: Textual amendment: Words in Sch. para. 1(3) substituted (1.2.2006) by [The Biofuel (Labelling) (Amendment) Regulations 2005 (S.I. 2005/3355)](https://www.legislation.gov.uk/uksi/2005/3355), [regs. 1](https://www.legislation.gov.uk/uksi/2005/3355/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2005/3355/regulation/2/3)
+
+[^M_F_52353ef5-76dc-41fd-e515-5179029bc45e]: Textual amendment: Words in Sch. para. 2(1) substituted (8.1.2010) by [The Biofuel (Labelling) (Amendment) Regulations 2009 (S.I. 2009/3277)](https://www.legislation.gov.uk/uksi/2009/3277), [regs. 1](https://www.legislation.gov.uk/uksi/2009/3277/regulation/1), [4](https://www.legislation.gov.uk/uksi/2009/3277/regulation/4)
+
+[^key-25e76cfa22305c5550dcfbf1a9e71873]: Textual amendment: Sch. para. 4(4)(a)(i) substituted (1.2.2006) by [The Biofuel (Labelling) (Amendment) Regulations 2005 (S.I. 2005/3355)](https://www.legislation.gov.uk/uksi/2005/3355), [regs. 1](https://www.legislation.gov.uk/uksi/2005/3355/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2005/3355/regulation/2/4)
+
+[^key-630c9b6a2c7bc8cc97cdcee7969e1c71]: Textual amendment: Words in Sch. para. 4(9) substituted (1.2.2006) by [The Biofuel (Labelling) (Amendment) Regulations 2005 (S.I. 2005/3355)](https://www.legislation.gov.uk/uksi/2005/3355), [regs. 1](https://www.legislation.gov.uk/uksi/2005/3355/regulation/1), [2(5)](https://www.legislation.gov.uk/uksi/2005/3355/regulation/2/5)
+
+[^key-f6a26919a0f432c4d9866c445e2b30a4]: Textual amendment: Words in Sch. para. 4(10) substituted (1.2.2006) by [The Biofuel (Labelling) (Amendment) Regulations 2005 (S.I. 2005/3355)](https://www.legislation.gov.uk/uksi/2005/3355), [regs. 1](https://www.legislation.gov.uk/uksi/2005/3355/regulation/1), [2(6)](https://www.legislation.gov.uk/uksi/2005/3355/regulation/2/6)
+
+[^key-b30dc8c3f8951cee8de1c87d4689c1b3]: Textual amendment: Words in Sch. para. 5(1) inserted (1.2.2006) by [The Biofuel (Labelling) (Amendment) Regulations 2005 (S.I. 2005/3355)](https://www.legislation.gov.uk/uksi/2005/3355), [regs. 1](https://www.legislation.gov.uk/uksi/2005/3355/regulation/1), [2(7)(a)](https://www.legislation.gov.uk/uksi/2005/3355/regulation/2/7/a)
+
+[^key-cb27f81cc760f91fd92c322d4b0f29c0]: Textual amendment: Words in Sch. para. 5(1) omitted (1.2.2006) by virtue of [The Biofuel (Labelling) (Amendment) Regulations 2005 (S.I. 2005/3355)](https://www.legislation.gov.uk/uksi/2005/3355), [regs. 1](https://www.legislation.gov.uk/uksi/2005/3355/regulation/1), [2(7)(b)](https://www.legislation.gov.uk/uksi/2005/3355/regulation/2/7/b)
+
+[^key-1017334fd1dfd76f35738c61abeade6b]: Textual amendment: Words in Sch. para. 5(3)(a) omitted (1.2.2006) by virtue of [The Biofuel (Labelling) (Amendment) Regulations 2005 (S.I. 2005/3355)](https://www.legislation.gov.uk/uksi/2005/3355), [regs. 1](https://www.legislation.gov.uk/uksi/2005/3355/regulation/1), [2(8)](https://www.legislation.gov.uk/uksi/2005/3355/regulation/2/8)
+
+[^key-c67192dcf457e8aa54f03e09d833ad65]: Textual amendment: Words in Sch. para. 5(4) inserted (1.2.2006) by [The Biofuel (Labelling) (Amendment) Regulations 2005 (S.I. 2005/3355)](https://www.legislation.gov.uk/uksi/2005/3355), [regs. 1](https://www.legislation.gov.uk/uksi/2005/3355/regulation/1), [2(9)](https://www.legislation.gov.uk/uksi/2005/3355/regulation/2/9)
+
+[^key-fc9121a275dcebc1e9be7d7a3901a21c]: Textual amendment: Words in Sch. para. 5(4)(b) substituted (1.2.2006) by [The Biofuel (Labelling) (Amendment) Regulations 2005 (S.I. 2005/3355)](https://www.legislation.gov.uk/uksi/2005/3355), [regs. 1](https://www.legislation.gov.uk/uksi/2005/3355/regulation/1), [2(10)](https://www.legislation.gov.uk/uksi/2005/3355/regulation/2/10)
+
+[^c5293111]: Marginal citation: [1980 c. 43](https://www.legislation.gov.uk/ukpga/1980/43).
+
+[^c5293121]: Marginal citation: [S.I. 1981/1675](https://www.legislation.gov.uk/uksi/1981/1675)(N.I. 26)
+
+[^c5293131]: Marginal citation: [1978 c. 30](https://www.legislation.gov.uk/ukpga/1978/30).

@@ -1,0 +1,287 @@
+---
+title: The Health Professions Council (Registration Appeals) Rules Order of Council 2003
+id: uksi/2003/1579
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2003-06-13'
+text_date: '2025-04-29'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2003/1579
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2003/1579/pdfs/uksi_20031579_en.pdf
+- http://www.legislation.gov.uk/uksi/2003/1579/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Health Professions Council (Registration Appeals) Rules Order of Council 2003
+
+> Text as at 2025-04-29.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2003 No. 1579
+
+HEALTH CARE AND ASSOCIATED PROFESSIONS
+
+HEALTH PROFESSIONS
+
+The Health Professions Council (Registration Appeals) Rules Order of Council 2003
+
+Made
+
+13th June 2003
+
+Laid before Parliament
+
+17th June 2003
+
+Coming into force
+
+9th July 2003
+
+At the Council Chamber, Whitehall, the 13th day of June 2003
+
+By the Lords of Her Majesty’s Most Honourable Privy Council
+
+Whereas in exercise of the powers conferred on it by articles 37(1), (4) and (5) and 41(2) of the Health Professions Order 2001 [^c5050431], and of all other powers enabling it in that behalf, the Health Professions Council has made the Health Professions Council (Registration Appeals) Rules 2003 as set out in the Schedule to this Order:
+
+And whereas by articles 41(1) and 42 of the Health Professions Order 2001 such Rules shall not come into force until approved by order of the Privy Council:
+
+Now, therefore, Their Lordships, having taken the Rules into consideration, are pleased to, and do hereby, approve them.
+
+This Order may be cited as the Health Professions Council (Registration Appeals) Rules Order of Council 2003 and shall come into force on 9th July 2003.
+
+A. K. Galloway
+
+Clerk of the Privy Council
+
+## SCHEDULE — THE HEALTH PROFESSIONS COUNCIL (REGISTRATION APPEALS) RULES 2003[^key-51d9e3062179776a842aaa539ab93f2d]
+
+[^key-51d9e3062179776a842aaa539ab93f2d]
+
+The Health Professions Council, in exercise of its powers under articles 37(1), (4) and (5) and 41(2) of the Health Professions Order 2001 [^c5050441] and of all other powers enabling it in that behalf and after consulting in accordance with article 41(3) of that Order, hereby makes the following Rules:
+
+**1.** These rules may be cited as the Health Professions Council (Registration Appeals) Rules 2003 and shall come into force on 9th July 2003.
+
+**2.** In these Rules—
+
+- “**appeal**” means an appeal which is made to the Council in accordance with article 37(1) of the Order;
+- “**Appeal Panel**” means a panel appointed under rule 9 to consider an appeal;
+- “**appellant**” means a person who makes an appeal;
+- “Chair” means the Chair of an Appeal Panel;[^key-205adc918fa4d8b8200e3739dafcb969]
+- “**Committee**” means the Education and Training Committee of the Council; and
+- “**Order**” means the Health Professions Order 2001[^key-2d0ee2c9498167eea4a02dcd537a7138].
+
+### 2A. Emergency virtual meetings and hearings[^key-ee4a62cb27030ae40290652a7e857e21]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 3. Service of Documents[^key-cd982b3937ef42a62636106b79433c5f]
+
+In these Rules a reference to the sending of a notice or other document to any person is a reference to it being—
+
+- (a) in the case of the Council, the Committee, an Appeal Panel or the Registrar—
+  - (i) sent by post to or left at the offices of the Council, or
+  - (ii) sent by electronic mail to an electronic mail address which the Council has notified to the sender as an address for communications;
+- (b) in the case of the appellant—
+  - (i) sent by post to or left at the address identified in the appellant's notice of appeal, or
+  - (ii) sent by electronic mail to an electronic mail address which the appellant has notified to the Council as an address for communications; and
+- (c) in any other case—
+  - (i) sent by post to or left at the last known address of that person, or
+  - (ii) sent by electronic mail to an electronic mail address which the person has notified to the Council as an address for communications.
+
+**3A.**[^key-c4d971f5df5bf8dbcfb64a068fdd2d2f] Any communications sent for the purposes of these Rules is to be treated as having been sent on the day the communication was posted or sent by electronic mail.
+
+**4.** The period within which the person aggrieved may appeal to the Council under article 37(1) of the Order is—
+
+- (a) where the appeal is against a decision referred to in sub-paragraph (a), (b) or (c) of that article, before the end of the period of 28 days beginning with the day on which the Committee made the decision; or
+- (b) where the appeal is against a failure to issue a decision as referred to in sub-paragraph (d) of that article, before the end of the period of 28 days beginning with the day after the end of the period of three months referred to in article 9(5) of the Order[^key-45c8cef25d70336a649c25eb8d1a4526].
+
+**5.** (1) An appeal shall be made by giving notice in writing in accordance with the following paragraphs.
+
+(2) The notice shall be addressed to the Registrar at the offices of the Council and shall—
+
+- (a) include—
+  - (i) the name and address of the appellant,
+  - (ii) his registration number (where applicable),
+  - (iii) where the appeal is against a decision referred to in article 37(1)(a), (b) or (c) of the Order, the date, nature and other relevant details of the decision against which the appeal is brought,
+  - (iv) where the appeal is against a failure to issue a decision as referred to in article 37(1)(d) of the Order, the date, nature and other relevant details of the application in respect of which there has been a failure to issue a decision,
+  - (v) a concise statement of the grounds of the appeal, and
+  - (vi) the name and address of the appellant’s representative (if any) and a statement as to whether the Council should correspond with that representative concerning the appeal instead of with the appellant;
+- (b) state that the notice is a notice of appeal; and
+- (c) be signed by or on behalf of the appellant.
+
+(3) The appellant shall attach to the notice of appeal a copy of any documents on which he proposes to rely for the purposes of the appeal.
+
+**6.** Upon receiving a valid notice of appeal the Council shall send the appellant a notice acknowledging its receipt and informing the appellant—
+
+- (a) that he may before the end of the period of 28 days beginning with the date on which the notice was sent request that a hearing be held;
+- (b) that, even if he does not request a hearing, the Council may hold a hearing if it considers it to be desirable; and
+- (c) that he may be heard and be represented at such a hearing.
+
+**7.** (1) If the appellant has requested that a hearing be held, or the Council determines that it would be desirable to hold a hearing, the Council shall fix a day on which it is to hear the case and send notice to the parties of the day, time and venue for the hearing.
+
+(2) The Council shall not fix a date for the hearing which is before the end of the period of 28 days beginning with the day on which the Council sent the notice referred to in paragraph (1) to the appellant.
+
+**8.** (1) Before the end of the period of 28 days beginning with the day on which the notice referred to in rule 7(1) is sent, the parties shall inform the Council whether or not they intend to attend or be represented at the hearing and whether or not they intend to call any witnesses and, if so, shall provide their names and addresses to the Council.
+
+(2) An appellant who does not intend to attend or be represented at a hearing may, before the beginning of the period of 7 days ending with the date on which the hearing is to be held, send to the Council additional written representations in support of his appeal.
+
+(3) The Committee shall be the respondent in any proceedings.
+
+(4) The appellant may be represented in any proceedings by any person, whether or not legally qualified, except a member of the Council or any of its committees or a person employed by the Council.
+
+(5) The Council may invite any person who, in its opinion, has an interest in the proceedings to make written representations and any such representations shall be sent to the Council before the end of the period of 14 days beginning with the date on which the invitation is sent to that person.
+
+**9.** (1) Except where the Council considers an appeal itself, an appeal shall be considered by an Appeal Panel appointed by the Council for that purpose.
+
+(2) The quorum of the Council when considering an appeal is seven and shall consist of registrant members and lay members and the number of members who are registrants may exceed the number of lay members but may not exceed them by more than one.
+
+(3)[^key-f5f92ef544d175cc1aeb7c8deb6dede7] An Appeal Panel shall comprise not fewer than three members appointed by the Council and shall include—
+
+- (a) a person who is registered in the same part of the register as that in which the appellant is, or is applying to be, registered;
+- (b) a person who—
+  - (i) is not and never has been a registrant, or registered under the 1960 Act or in the AODP register, the AEP register or the BPS register; and
+  - (ii) does not hold a qualification that would entitle them to apply for registration under the Order;
+- (c) where the health of the appellant is in issue, a registered medical practitioner.
+
+(4) A member of the Council shall be appointed as Chair (and may also count as the registrant or lay person mentioned in paragraphs (3)(b)(i) and (ii))[^key-fcb89beb1ae4ec420629d83c495e1e84].
+
+(5) A person who has been involved in any other capacity in a case which is to be considered by an Appeal Panel shall not be appointed as a member of that Panel.
+
+(6) Decisions by an Appeal Panel shall be made by a majority vote of those present and, in the event of a tie, the Chair[^key-d2133a4ef7f964d7079dbd5d6a4a91a8] shall have an additional casting vote which shall be exercised in favour of the appellant.
+
+(7)[^key-50239e656c2b52b1beac441c6449f062] The members of an Appeal Panel, other than the Chair, shall be appointed from among the members of the Practice Committees.
+
+(8) A person—
+
+- (a) is not eligible to be appointed to, or sit as a member of, an Appeal Panel if that person is disqualified or suspended from membership of the Council or a Practice Committee; and
+- (b) shall cease to be a member of an Appeal Panel if—
+  - (i) the member resigns, which the member may do at any time by notice in writing to the Council,
+  - (ii) the Council votes (by a majority at a quorate meeting) to terminate the member’s appointment, or
+  - (iii) the member ceases to be a member of the Council or a Practice Committee.
+
+**10.** (1) The Appeal Panel or the Chairman may hold a preliminary meeting in private with the parties, their representatives and any other person it or he considers appropriate if such a meeting would, in its or his opinion, assist the panel to perform its functions.
+
+(2) At any meeting he conducts under paragraph (1) the Chairman may give directions under article 32(3) of the Order and, with the agreement of the parties, take any action which the Appeal Panel would be competent to take at such a meeting.
+
+**11.** (1) The Appeal Panel may determine an appeal without an oral hearing on the basis of any documents provided by the appellant under rule 5 or 8(2) where—
+
+- (a) the Council does not receive a reply from the appellant within the time specified in rule 8(1) and the Appeal Panel is satisfied that all reasonable steps have been taken to give notice under rule 7(1), or the appellant replies under rule 8(1) to the effect that he does not wish to attend or be represented;
+- (b) the Appeal Panel has notified the appellant and the Committee of its intention to do so; and
+- (c) the Appeal Panel considers it desirable to do so having taken into account any representations received in response to the notice referred to in paragraph (b).
+
+(2) If the Appeal Panel decides under paragraph (1) to determine an appeal without an oral hearing, it may take into account any written representations provided in accordance with rule 8(5) or written representations from the Committee received by the Council before the beginning of the period of 7 days ending with the date on which the Appeal Panel determines the appeal.
+
+**12.** (1) The Appeal Panel, either of its motion or at the request of a party to the hearing, may postpone a hearing at any time before it begins and may adjourn the proceedings from time to time as it thinks fit.
+
+(2) Where a hearing is postponed the Registrar shall send the appellant notice of the date on which the Appeal Panel is to hold the postponed hearing.
+
+(3) The date for a postponed hearing shall not be fixed for any date before the end of the period of 14 days beginning with the day on which the Registrar sends the notice referred to in paragraph (2) to the appellant.
+
+**13.** Where—
+
+- (a) the Council has fixed a date for a hearing; and
+- (b) the appellant has informed the Council that he intends to attend or be represented; but
+- (c) he does not attend and is not represented,
+
+the Appeal Panel may nevertheless proceed with the hearing if it is satisfied that all reasonable steps have been taken to give notice of the hearing to the appellant.
+
+**14.** (1) The[^key-b2a9a44f720eca42600468ac23eafe98][^key-db3f7af4ef6cd07a6badf609ce2f290e] hearing shall be held in public unless the Appeal Panel is satisfied that, in the interests of justice or for the protection of the private life of the appellant[^key-11a34d0a37f239a6301adbe273eedc60], the complainant, any person giving evidence or of any patient or client, the public should be excluded from all or part of the hearing.
+
+(2) At the beginning of the hearing the Chairman shall explain to the parties the order of proceedings which the Appeal Panel proposes to adopt.
+
+(3) The Appeal Panel shall conduct the hearing in such manner as it considers most suitable to the clarification of the issues before it and generally to the just handling of the proceedings and the parties shall be heard in such order as the Appeal Panel shall determine having regard to the following—
+
+- (a) the appellant may present his case in support of his appeal;
+- (b) the appellant or any person called on his behalf may be cross-examined by the Committee and, in the case of a person called on his behalf, re-examined by the appellant;
+- (c) the Committee may present its case in support of the decision appealed against or its failure to issue a decision;
+- (d) the Committee or any person called on its behalf may be cross-examined by the appellant and, in the case of a person called on its behalf, re-examined by the Committee;
+- (e) the Committee may address the Appeal Panel on its case in respect of the decision appealed against or its failure to issue a decision; and
+- (f) the appellant may address the Appeal Panel on his case in respect of his appeal.
+
+(4) The parties shall be entitled to give evidence, to call witnesses, to question any witnesses and to address the Appeal Panel both on the evidence and generally on the subject matter of the appeal.
+
+(5) Subject to paragraph (6) where the appellant or the Committee are represented, references in paragraphs (3) and (4) to the Committee or the appellant—
+
+- (a) presenting the case;
+- (b) calling, or questioning witnesses;
+- (c) cross-examining or re-examining witnesses; or
+- (d) addressing the panel,
+
+shall be read as references to the representative of the Committee or the appellant as the case may be.
+
+(6) Except as provided in paragraph (5) references in paragraph (3) to the Committee shall be references to the Chairman of the Committee or any other person nominated by the Committee to appear on its behalf.
+
+### 14A. Meetings and hearings[^key-3eccf5189b591aa710fe6c91ac86e6cd]
+
+(1) In the case of—
+
+- (a) a preliminary meeting under these Rules, the Appeal Panel or Chair may arrange for a preliminary meeting to be conducted using audio or video conferencing facilities; and
+- (b) a hearing under these Rules, the Appeal Panel, Chair or the Council may arrange for a hearing to be conducted using audio or video conferencing facilities.
+
+(2) Where a meeting or hearing uses audio or video conferencing facilities any notice sent under these Rules giving notice of the meeting or hearing must include the details of any audio or video conferencing arrangements required to access that meeting or hearing.
+
+**15.** (1) Subject to paragraph (3) the rules on the admissibility of evidence that apply in civil proceedings in the appropriate court in that part of the United Kingdom in which the hearing takes place shall apply.
+
+(2) In paragraph (1) the “**appropriate court**” means a county court or, in Scotland, a sheriff.
+
+(3) The Appeal Panel may hear or receive evidence which would not be admissible in such proceedings if it is satisfied that admission of that evidence is necessary in order to protect members of the public.
+
+(4) The Appeal Panel may require any person (other than the appellant) to attend a hearing and give evidence or produce documents.
+
+(5) At any hearing the Appeal Panel may, if it is satisfied that it is just and reasonable to do so, permit a party to rely on grounds not stated in the notice of appeal or to adduce any evidence not presented to the Committee before it took the disputed decision.
+
+(6) Where the appellant has been convicted of a criminal offence, a certified copy of the certificate of conviction (or, in Scotland, an extract conviction) shall be admissible as proof of that conviction and of the findings of fact upon which it was based.
+
+(7) The Appeal Panel may require evidence to be given on oath or affirmation and for that purpose may administer oaths or affirmations in an appropriate form.
+
+**16.** The Appeal Panel shall notify the appellant of its decision and the reasons for reaching that decision and shall inform the appellant of his right to appeal to a county court or, in Scotland, a sheriff under article 37(10) of the Order.
+
+**17.** Where the Council considers an appeal, references in these Rules to an Appeal Panel, other than in the definition in rule 2 of “Appeal Panel”, rule 3(1)(a) and 9(1) and (3), shall be construed as references to the Council.
+
+*(This note is not part of the Order)*
+
+This Order, which is made under the Health Professions Order 2001, approves Rules made by the Health Professions Council (“**the Council**”) in respect of appeals to the Council from decisions by the Education and Training Committee on the inclusion of a person in the register maintained by the Council or removal of a health professional from the register for breach of a condition in respect of post-registration education and training.
+
+## Annotations
+
+[^c5050431]: Marginal citation: [S.I. 2002/254](https://www.legislation.gov.uk/uksi/2002/254).
+
+[^key-51d9e3062179776a842aaa539ab93f2d]: Modification: [Sch.](https://www.legislation.gov.uk/uksi/2003/1579/schedule) continued (with modifications) (coming into force in accordance with reg. 1 of the amending S.I.) by [The Children and Social Work Act 2017 (Transitional and Savings Provisions) (Social Workers) Regulations 2019 (S.I. 2019/1140)](https://www.legislation.gov.uk/uksi/2019/1140), [reg. 23(9)](https://www.legislation.gov.uk/uksi/2019/1140/regulation/23/9)
+
+[^c5050441]: Marginal citation: [S.I. 2002/254](https://www.legislation.gov.uk/uksi/2002/254).
+
+[^key-205adc918fa4d8b8200e3739dafcb969]: Textual amendment: Words in Sch. rule 2 substituted (1.7.2009) by [The Health Professions Council (Practice Committees and Miscellaneous Amendments) Rules Order of Council 2009 (S.I. 2009/1355)](https://www.legislation.gov.uk/uksi/2009/1355), [Sch. rules 1(a)](https://www.legislation.gov.uk/uksi/2009/1355/schedule/rule/1/a), [13(a)](https://www.legislation.gov.uk/uksi/2009/1355/schedule/rule/13/a)
+
+[^key-2d0ee2c9498167eea4a02dcd537a7138]: Textual amendment: Words in [Sch. rule 2](https://www.legislation.gov.uk/uksi/2003/1579/schedule/rule/2) substituted (coming into force in accordance with reg. 1 of the amending S.I.) by [The Children and Social Work Act 2017 (Consequential Amendments) (Social Workers) Regulations 2019 (S.I. 2019/1094)](https://www.legislation.gov.uk/uksi/2019/1094), [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/2019/1094/schedule/1/paragraph/9)
+
+[^key-ee4a62cb27030ae40290652a7e857e21]: Textual amendment: [Sch. rule 2A](https://www.legislation.gov.uk/uksi/2003/1579/schedule/rule/2A) omitted (9.11.2023) by virtue of [The Health and Care Professions Council (Miscellaneous Amendment) Rules Order of Council 2023 (S.I. 2023/995)](https://www.legislation.gov.uk/uksi/2023/995), [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/995/article/1/1), [Sch. para. 6(a)](https://www.legislation.gov.uk/uksi/2023/995/schedule/paragraph/6/a)
+
+[^key-cd982b3937ef42a62636106b79433c5f]: Textual amendment: [Sch. rule 3](https://www.legislation.gov.uk/uksi/2003/1579/schedule/rule/3) substituted (4.3.2021) by [The Health and Care Professions Council (Coronavirus) (Amendment) Rules Order of Council 2021 (S.I. 2021/27)](https://www.legislation.gov.uk/uksi/2021/27), [art. 1](https://www.legislation.gov.uk/uksi/2021/27/article/1), [Sch. rule 5(3)](https://www.legislation.gov.uk/uksi/2021/27/schedule/rule/5/3)
+
+[^key-c4d971f5df5bf8dbcfb64a068fdd2d2f]: Textual amendment: Sch. rule 3A inserted (4.3.2021) by [S.I. 2021/27](https://www.legislation.gov.uk/uksi/2021/27), [Sch. rule 5(3A)](https://www.legislation.gov.uk/uksi/2021/27/schedule/rule/5/3A) (as inserted by [The Health and Care Professions Council (Coronavirus) (Amendment) (No. 2) Rules Order of Council 2021 (S.I. 2021/167)](https://www.legislation.gov.uk/uksi/2021/167), [art. 1](https://www.legislation.gov.uk/uksi/2021/167/article/1), [Sch. rule 2](https://www.legislation.gov.uk/uksi/2021/167/schedule/rule/2))
+
+[^key-45c8cef25d70336a649c25eb8d1a4526]: Textual amendment: Words in [Sch. rule 4(b)](https://www.legislation.gov.uk/uksi/2003/1579/schedule/rule/4/b) substituted (31.12.2020) by [The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593)](https://www.legislation.gov.uk/uksi/2019/593), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/593/regulation/1/2), [Sch. 8 para. 18](https://www.legislation.gov.uk/uksi/2019/593/schedule/8/paragraph/18) (with [reg. 12A](https://www.legislation.gov.uk/uksi/2019/593/regulation/12A), [Sch. 8 Pt. 2](https://www.legislation.gov.uk/uksi/2019/593/schedule/8/part/2)) (as amended by [S.I. 2020/1394](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 4](https://www.legislation.gov.uk/uksi/2020/1394/regulation/4), [16(6)-(13)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/16/6)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-f5f92ef544d175cc1aeb7c8deb6dede7]: Textual amendment: Sch. rule 9(3) substituted (1.7.2009) by [The Health Professions Council (Practice Committees and Miscellaneous Amendments) Rules Order of Council 2009 (S.I. 2009/1355)](https://www.legislation.gov.uk/uksi/2009/1355), [Sch. rules 1(a)](https://www.legislation.gov.uk/uksi/2009/1355/schedule/rule/1/a), [13(b)(i)](https://www.legislation.gov.uk/uksi/2009/1355/schedule/rule/13/b/i)
+
+[^key-fcb89beb1ae4ec420629d83c495e1e84]: Textual amendment: Words in Sch. rule 9(4) substituted (1.7.2009) by [The Health Professions Council (Practice Committees and Miscellaneous Amendments) Rules Order of Council 2009 (S.I. 2009/1355)](https://www.legislation.gov.uk/uksi/2009/1355), [Sch. rules 1(a)](https://www.legislation.gov.uk/uksi/2009/1355/schedule/rule/1/a), [13(b)(ii)](https://www.legislation.gov.uk/uksi/2009/1355/schedule/rule/13/b/ii)
+
+[^key-d2133a4ef7f964d7079dbd5d6a4a91a8]: Textual amendment: Word in Sch. rule 9(6) substituted (1.7.2009) by [The Health Professions Council (Practice Committees and Miscellaneous Amendments) Rules Order of Council 2009 (S.I. 2009/1355)](https://www.legislation.gov.uk/uksi/2009/1355), [Sch. rules 1(a)](https://www.legislation.gov.uk/uksi/2009/1355/schedule/rule/1/a), [13(b)(iii)](https://www.legislation.gov.uk/uksi/2009/1355/schedule/rule/13/b/iii)
+
+[^key-50239e656c2b52b1beac441c6449f062]: Textual amendment: Sch. rule 9(7)(8) inserted (1.7.2009) by [The Health Professions Council (Practice Committees and Miscellaneous Amendments) Rules Order of Council 2009 (S.I. 2009/1355)](https://www.legislation.gov.uk/uksi/2009/1355), [Sch. rules 1(a)](https://www.legislation.gov.uk/uksi/2009/1355/schedule/rule/1/a), [13(b)(iv)](https://www.legislation.gov.uk/uksi/2009/1355/schedule/rule/13/b/iv)
+
+[^key-b2a9a44f720eca42600468ac23eafe98]: Textual amendment: Word in [Sch. rule 14(1)](https://www.legislation.gov.uk/uksi/2003/1579/schedule/rule/14/1) substituted (9.11.2023) by [The Health and Care Professions Council (Miscellaneous Amendment) Rules Order of Council 2023 (S.I. 2023/995)](https://www.legislation.gov.uk/uksi/2023/995), [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/995/article/1/1), [Sch. para. 6(b)](https://www.legislation.gov.uk/uksi/2023/995/schedule/paragraph/6/b)
+
+[^key-db3f7af4ef6cd07a6badf609ce2f290e]: Textual amendment: Words in [Sch. rule 14(1)](https://www.legislation.gov.uk/uksi/2003/1579/schedule/rule/14/1) inserted (4.3.2021) by [The Health and Care Professions Council (Coronavirus) (Amendment) Rules Order of Council 2021 (S.I. 2021/27)](https://www.legislation.gov.uk/uksi/2021/27), [art. 1](https://www.legislation.gov.uk/uksi/2021/27/article/1), [Sch. rule 5(4)](https://www.legislation.gov.uk/uksi/2021/27/schedule/rule/5/4)
+
+[^key-11a34d0a37f239a6301adbe273eedc60]: Textual amendment: Word in Sch. rule 14(1) substituted (1.8.2012) by [The Health and Social Care Act 2012 (Consequential ProvisionSocial Workers) Order 2012 (S.I. 2012/1479)](https://www.legislation.gov.uk/uksi/2012/1479), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/1479/article/1/2), [9(3)](https://www.legislation.gov.uk/uksi/2012/1479/article/9/3)
+
+[^key-3eccf5189b591aa710fe6c91ac86e6cd]: Textual amendment: [Sch. rule 14A](https://www.legislation.gov.uk/uksi/2003/1579/schedule/rule/14A) substituted (29.4.2025) by [The Health and Care Professions Council (Miscellaneous Amendments) Rules Order of Council 2025 (S.I. 2025/240)](https://www.legislation.gov.uk/uksi/2025/240), [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/240/article/1/1), [Sch. rule 6](https://www.legislation.gov.uk/uksi/2025/240/schedule/rule/6)

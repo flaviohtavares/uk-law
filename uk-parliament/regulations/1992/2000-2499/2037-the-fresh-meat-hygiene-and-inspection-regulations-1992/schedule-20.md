@@ -1,0 +1,21 @@
+---
+title: The Fresh Meat (Hygiene and Inspection) Regulations 1992, SCHEDULE 20
+act: The Fresh Meat (Hygiene and Inspection) Regulations 1992
+section: schedule-20
+status: as-enacted
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1992/2037/schedule/20
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Fresh Meat (Hygiene and Inspection) Regulations 1992, SCHEDULE 20
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+## SCHEDULE 20 — CERTIFICATE OF ANTE-MORTEM HEALTH INSPECTION AND SLAUGHTER OF FARMED GAME
+
+Regulation 14(1)(b)
+
+[image: see source](https://www.legislation.gov.uk/uksi/1992/2037/images/uksi_19922037_en_005)

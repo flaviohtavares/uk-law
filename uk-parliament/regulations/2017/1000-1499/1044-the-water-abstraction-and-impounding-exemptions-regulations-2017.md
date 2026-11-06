@@ -1,0 +1,465 @@
+---
+title: The Water Abstraction and Impounding (Exemptions) Regulations 2017
+id: uksi/2017/1044
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2017-10-30'
+text_date: '2020-12-31'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2017/1044
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2017/1044/pdfs/uksiem_20171044_en.pdf
+- http://www.legislation.gov.uk/uksi/2017/1044/pdfs/uksi_20171044_en.pdf
+- http://www.legislation.gov.uk/uksi/2017/1044/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Water Abstraction and Impounding (Exemptions) Regulations 2017
+
+> Text as at 2020-12-31.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2017 No. 1044
+
+Water Resources, England And Wales
+
+The Water Abstraction and Impounding (Exemptions) Regulations 2017
+
+Made
+
+30th October 2017
+
+Laid before Parliament
+
+31st October 2017
+
+Laid before National Assembly for Wales
+
+31st October 2017
+
+Coming into force
+
+1st January 2018
+
+The Secretary of State, in relation to England, and the Welsh Ministers, in relation to Wales, make the following Regulations in exercise of the powers conferred by sections 33A and 219(2)(f) of the Water Resources Act 1991 [^c23067441].[^key-7115fdbfdc3c3e22cc3cf216c386f612]
+
+## PART 1 — Introduction
+
+### 1. Citation and commencement
+
+These Regulations may be cited as the Water Abstraction and Impounding (Exemptions) Regulations 2017 and come into force on 1st January 2018.
+
+### 2. Interpretation
+
+(1) In these Regulations—
+
+- “**the 1991 Act**” means the Water Resources Act 1991;
+- “the 2017 Regulations” means the Conservation of Habitats and Species Regulations 2017;[^key-2ec622b4114423543d0c6c0703f246a0]
+- “**conservation site**” means—
+  - (a) a European site within the meaning of regulation 8(1)(e) of the 2017 Regulations;[^key-4a16e2edfe1ec09baba5cfe472db529e]
+  - (b) a special area of conservation within the meaning of regulation 12[^key-330f9ddfe15152c560ef3f7b3510bb7f][^key-3c88f8a5a4cf8ac00000ed5798881265] of the 2017 Regulations;
+  - (c) a special protection area or proposed special protection area within the meaning of regulations 15 and 16, respectively, of the 2017 Regulations[^key-616b690f91deec5bb34982a1dafe6178];
+  - (d) a site of special scientific interest confirmed by the Natural Resources Body for Wales or Natural England pursuant to section 28(5)(b) of the Wildlife and Countryside Act 1981 [^c23067471];
+  - (e) in so far as not falling under sub-paragraph (d), a wetland designated under the Ramsar Convention, within the meaning of section 37A of the Wildlife and Countryside Act 1981 [^c23067481];
+  - (f) an area designated by order by the Natural Resources Body for Wales or Natural England under section 7 of the National Parks and Access to the Countryside Act 1949 [^c23067491];
+  - (g) a nature reserve established by a local authority under section 21 of the National Parks and Access to the Countryside Act 1949 [^c23067501];
+- “**managed wetland system**” means—
+  - (a) an area of land that is periodically inundated or saturated by abstracted water in order to provide ecological benefits to flora and fauna, or
+  - (b) an area of land through which abstracted water flows, through a system of channels, sluices, carriers or other apparatus in order to provide ecological benefits to flora and fauna;
+- “**normal tidal limit**” means the normal tidal limit as marked on the Ordnance Maps (1:25,000 scale);
+- “**protected species**” means—
+  - (a) a European protected species within the meaning of regulation 42(1) of, and Schedule 2 to, the 2017 Regulations[^key-1185b2d1e3b28251dcc71367bc4b6227];
+  - (b) a species designated under section 9 of, and Schedule 5 to, the Wildlife and Countryside Act 1981 [^c23067511];
+  - (c) a species included in a list published by the Secretary of State under section 41 of the Natural Environment and Rural Communities Act 2006 [^c23067521] or by the Welsh Ministers under section 7 of the Environment (Wales) Act 2016 [^c23067531].
+
+(2) In these Regulations, references to alteration, in relation to impounding works, include the removal or partial removal of those works and cognate expressions are construed accordingly.
+
+## PART 2 — Exemptions from restriction on abstraction
+
+### 3. Navigation, harbour and conservancy authorities and dry docks
+
+(1) The restriction on abstraction does not apply to any abstraction of water that is carried out by, or on behalf of, a navigation authority, harbour authority or conservancy authority if—
+
+- (a) the purpose of the abstraction is a transfer, without intervening use, of water from any inland waters downstream of the normal tidal limit to that authority's water system, and
+- (b) the water is abstracted at any time other than in the hour before or in the hour after low tide at the point of abstraction.
+
+(2) The restriction on abstraction does not apply to any abstraction of water that is carried out if it is for the purpose of a transfer of water, without intervening use—
+
+- (a) into a dry dock from a water system of the authority for use within that dry dock, or
+- (b) from that dry dock back into the same water system.
+
+(3) In this regulation, “**water system**” has the meaning given by sections 26(4)(a) and (5) of the 1991 Act [^c23067541].
+
+### 4. Emergency abstractions by navigation, harbour and conservancy authorities
+
+(1) The restriction on abstraction does not apply to any abstraction of water that is carried out by, or on behalf of, a navigation authority, harbour authority or conservancy authority in connection with its functions as such an authority if—
+
+- (a) the purpose of the abstraction is a transfer of water without intervening use,
+- (b) the abstraction is an emergency abstraction as defined in paragraph (2), and
+- (c) the authority gives notice in accordance with paragraphs (3) and (4) (but see paragraph (5)).
+
+(2) An abstraction of water is an emergency abstraction if, in the opinion of the authority, an emergency has arisen which makes the abstraction necessary to prevent immediate danger of interference with any operations relating to that authority or, in relation to such operations, to prevent an immediate risk of—
+
+- (a) death, personal injury, or harm to health of a human being,
+- (b) damage to property, or
+- (c) damage to the environment.
+
+(3) The authority referred to in paragraph (2) must give notice to the appropriate agency of —
+
+- (a) the fact that the abstraction has taken place and of the source of supply in question, and
+- (b) the reason that the authority considered that—
+  - (i) an emergency had arisen, and
+  - (ii) the abstraction was a necessary measure to prevent an immediate danger or risk identified in paragraph (2).
+
+(4) Notice under paragraph (3) must be given before the end of the period of five days beginning with the date on which the abstraction started.
+
+(5) On receipt of a notice under paragraph (3), the appropriate agency may give notice to the authority that—
+
+- (a) in the appropriate agency's opinion an emergency has not arisen, or
+- (b) that the abstraction is not, or is no longer, necessary for any of the reasons set out in paragraph (2).
+
+(6) If the appropriate agency gives notice under paragraph (5), the restriction on abstraction applies to the abstraction from the time when the notice is served (and, where appropriate, the restriction imposed by section 24(2) of the 1991 Act also applies accordingly).
+
+### 5. Small scale dewatering in the course of building or engineering works
+
+(1) The restriction on abstraction does not apply to an abstraction or series of abstractions of water carried out in the course of building or engineering works for the purpose of dewatering from a sump or excavation if—
+
+- (a) the abstraction or series of abstractions are temporary and in any event carried out over a period of less than six consecutive months beginning with commencement of the first abstraction,
+- (b) each abstraction does not cause or is not likely to cause damage to a conservation site or specific features in such a site,
+- (c) each abstraction does not cause or is not likely to cause damage to protected species, and
+- (d) either—
+  - (i) the water abstracted is immediately discharged to a soakaway, or
+  - (ii) the volume of water abstracted is less than 100 cubic metres of water per day and there is no intervening use of that water before discharge (but see paragraph (2)).
+
+(2) Where the abstraction is undertaken within 500 metres of a conservation site or within 250 metres of a spring, well or borehole used to supply water for any lawful use, paragraph (1)(d)(ii) applies in respect of that abstraction as if the reference to 100 cubic metres of water per day were a reference to 50 cubic metres of water per day.
+
+### 6. Surface water abstraction in the course of building or engineering works
+
+The restriction on abstraction does not apply to any abstraction or series of abstractions of surface water in order to prevent interference with building or engineering works, if the following conditions are met—
+
+- (a) the abstraction or series of abstractions are temporary and in any event carried out over a period of less than six consecutive months beginning with the commencement of the first abstraction;
+- (b) each abstraction does not cause or is not likely to cause damage to a conservation site or specific features in such a site;
+- (c) each abstraction does not cause or is not likely to cause damage to protected species;
+- (d) the water abstracted is immediately discharged downstream of the building or engineering works.
+
+### 7. Abstraction in the course of dredging
+
+(1) The restriction on abstraction does not apply to any abstraction of water in the course of dredging —
+
+- (a) in inland waters downstream of the normal tidal limit, or
+- (b) in inland waters upstream of the normal tidal limit, if that dredging is carried out by, or on behalf of, any authority in the exercise of its functions in those inland waters.
+
+(2) In paragraph (1)(b), “**authority**” means the Environment Agency, the Natural Resources Body for Wales, a navigation authority, a harbour authority, a conservancy authority, an internal drainage board or a local authority.
+
+### 8. Abstraction within a managed wetland system
+
+The restriction on abstraction does not apply to any abstraction of water within a managed wetland system if the abstraction is for the sole purpose of the management, operation or maintenance of water levels or flows in that managed wetland system.
+
+### 9. Abstraction from specified saliferous strata
+
+(1) The restriction on abstraction and the restrictions imposed by section 24(2) of the 1991 Act do not apply to the abstraction of water from the saliferous strata underlying the surface of the land in the areas listed in the Schedule to these Regulations [^c23067551].
+
+(2) In paragraph (1), “**saliferous strata**” means strata which (whether in their natural state or when water is artificially introduced) yield an aqueous solution with a salt content of more than 100,000 milligrams per litre.
+
+## PART 3 — Exemptions from restriction on impounding works
+
+### 10. Construction or alteration of impounding works in emergencies
+
+(1) The restriction on impounding works does not apply to the construction or alteration of impounding works carried out in an emergency where the works are undertaken—
+
+- (a) by the appropriate agency pursuant to its powers as enforcement authority under section 16 of the Reservoirs Act 1975 [^c23067561];
+- (b) by, or on behalf of, a navigation authority, a harbour authority or a conservancy authority in connection with its functions, or by any other person, with the prior written consent of the appropriate agency given in accordance with paragraph (2) (but see paragraphs (3) to (5)).
+
+(2) The appropriate agency may not give consent under paragraph (1)(b) unless it is satisfied that the works are necessary to prevent an immediate risk of—
+
+- (a) death, personal injury or harm to health of a human being,
+- (b) damage to property, or
+- (c) damage to the environment.
+
+(3) Where an authority or person does not seek the appropriate agency's consent before carrying out impounding works, the authority or person must give notice to the appropriate agency of—
+
+- (a) the fact that the impounding works have been carried out, and
+- (b) the reason that the authority or the person considered that—
+  - (i) an emergency had arisen, and
+  - (ii) the works were necessary to prevent an immediate risk identified in paragraph (2).
+
+(4) Notice under paragraph (3) must be given before the end of the period of five days beginning with the date on which the impounding works started.
+
+(5) On receipt of a notice under paragraph (3), the appropriate agency may either—
+
+- (a) give written consent retrospectively for the impounding works carried out, or
+- (b) give notice to the authority or person that—
+  - (i) in the appropriate agency's opinion an emergency has not arisen, or
+  - (ii) that the works are not, or are no longer, necessary to prevent an immediate risk identified in paragraph (2).
+
+(6) If the appropriate agency gives notice under paragraph (5)(b), the restriction on impounding works applies to the impounding works from the time when the notice is served.
+
+### 11. Construction or alteration of impounding works by internal drainage boards
+
+The restriction on impounding works does not apply to the construction or alteration of impounding works within the district of an internal drainage board [^c23067571] if—
+
+- (a) the works are constructed or altered by, or on behalf of, that board in connection with its functions, and
+- (b) construction or alteration is commenced after the coming into force of these Regulations.
+
+### 12. Construction or alteration of impounding works in a managed wetland system
+
+The restriction on impounding works does not apply to the construction or alteration of impounding works in a managed wetland system if—
+
+- (a) the sole purpose of the works is the management, operation or maintenance of water levels or flows in that managed wetland system, and
+- (b) construction or alteration is commenced after the coming into force of these Regulations.
+
+## PART 4 — Miscellaneous
+
+### 13. Existing licences for abstraction
+
+A licence to abstract water granted under Chapter 2 of Part 2 of the 1991 Act [^c23067581] ceases to have effect to the extent that it authorises an activity falling within regulation 7 or 8.
+
+### 14. Transitional provision regarding managed wetland systems
+
+(1) Paragraph (2) applies where—
+
+- (a) a person has, in the seven years prior to the coming into force of these Regulations, abstracted water from a managed wetland system for the sole purpose of the management, operation or maintenance of water levels or flows in that managed wetland system, and
+- (b) written consent under regulation 102(2) of the 2017 Regulations[^key-8cc6fb66e8ecf12f349f2f3c35baa389] is required for that abstraction.
+
+(2) The person may continue that abstraction in paragraph (1) until—
+
+- (a) the date an application for such consent to that abstraction is determined by the appropriate agency, or
+- (b) if no such application is submitted, 31st December 2019.
+
+Thérèse Coffey
+
+Parliamentary Under Secretary of State
+
+Department for Environment, Food and Rural Affairs
+
+Lesley Griffiths
+
+Cabinet Secretary for the Environment and Rural Affairs, one of the Welsh Ministers
+
+## SCHEDULE — Areas to which regulation 9(1) applies
+
+Regulation 9(1)
+
+| *Areas* |
+| --- |
+| In the County of Cheshire, the following civil parishes: |
+| Acton |
+| Agden |
+| Allostock |
+| Alpraham |
+| Alsager |
+| Anderton with Marbury |
+| Arclid |
+| Ashley |
+| Ashton By Budworth |
+| Aston Juxta Mondrum |
+| Audlem |
+| Austerson |
+| Baddiley |
+| Baddington |
+| Barthomley |
+| Batherton |
+| Basford |
+| Beeston |
+| Betchton |
+| Bexton |
+| Bickerton |
+| Bickley |
+| Blakenhall |
+| Bostock |
+| Bradley |
+| Bradwall |
+| Brereton |
+| Bridgemere |
+| Brindley |
+| Broomhall |
+| Buerton |
+| Bulkeley |
+| Bunbury |
+| Burland |
+| Byley |
+| Calveley |
+| Checkley cum Wrinehill |
+| Chelford |
+| Chidlow |
+| Cholmondeley |
+| Cholmondeston |
+| Chorley |
+| Chorlton |
+| Church Lawton |
+| Church Minshull |
+| Comberbach |
+| Congleton |
+| Coole Pilate |
+| Crewe Green |
+| Darnhall |
+| Davenham |
+| Delamere |
+| Dodcott cum Wilkesley |
+| Doddington |
+| Edleston |
+| Egerton |
+| Faddiley |
+| Great Budworth |
+| Great Warford |
+| Hampton |
+| Hankelow |
+| Hartford |
+| Haslington |
+| Hassall |
+| Hatherton |
+| Haughton |
+| Henbury |
+| Henhull |
+| Hough |
+| Hunsterson |
+| Hurleston |
+| Knutsford |
+| Lea |
+| Little Bollington |
+| Little Budworth |
+| Little Warford |
+| Lostock Gralam |
+| Lower Withington |
+| Macefen |
+| Marbury cum Quoisley |
+| Marston |
+| Marthall |
+| Marton |
+| Mere |
+| Middlewich |
+| Millington |
+| Mobberley |
+| Moreton cum Alcumlow |
+| Moston |
+| Moulton |
+| Nantwich |
+| Nether Alderley |
+| Nether Peover |
+| Newbold Astbury |
+| Newhall |
+| Norbury |
+| Northwich |
+| Oakmere |
+| Odd Rode |
+| Peckforton |
+| Peover Inferior |
+| Peover Superior |
+| Pickmere |
+| Plumley |
+| Poole |
+| Ridley |
+| Rostherne |
+| Rudheath |
+| Rushton |
+| Sandbach |
+| Siddington |
+| Smallwood |
+| Snelson |
+| Sound |
+| Sproston |
+| Spurstow |
+| Stanthorne |
+| Stapeley |
+| Stoke |
+| Tabley Inferior |
+| Tabley Superior |
+| Tarporley |
+| Tatton |
+| Tilstone Fearnall |
+| Tiverton |
+| Toft |
+| Tushingham cum Grindley |
+| Utkinton |
+| Walgherton |
+| Wardle |
+| Warmingham |
+| Weston |
+| Wettenhall |
+| Whitegate and Marton |
+| Wigland |
+| Willaston |
+| Wimboldsley |
+| Wincham |
+| Winsford |
+| Wirswall |
+| Worleston |
+| Wrenbury cum Frith |
+| Wybunbury |
+| In the District of Manchester, the civil parish of Ringway |
+| In the county of Shropshire, the civil parishes of Whitchurch Rural, Whitchurch Urban, Whixall and Woore |
+| In the county of Staffordshire, the civil parishes of Audley Rural, Balterley and Betley |
+| In the District of Trafford, the civil parishes of Dunham Massey and Warburton |
+| In Warrington, the civil parish of Lymm |
+
+*(This note is not part of these Regulations)*
+
+These Regulations provide for exemptions from the restriction on abstraction and the restriction on impounding works in the Water Resources Act 1991 (c. 57).
+
+The Regulations provide exemptions (subject to certain conditions) for—
+
+- (a) the transfer of water by a navigation, conservancy or harbour authority to that authority's water system and the transfer of water for use in a dry dock (regulation 3) and emergency abstractions by such authorities (regulation 4);
+- (b) dewatering in the course of building or engineering works (regulation 5);
+- (c) the abstraction of surface water in the course of building and engineering works (regulation 6);
+- (d) the abstraction of water during dredging (regulation 7);
+- (e) the abstraction of water within a managed wetland system for the management, operation or maintenance of water levels or flows in that managed wetland system (regulation 8);
+- (f) the abstraction of water from saliferous strata in the brinefields in areas listed in the Schedule (regulation 9).
+
+The Regulations provide exemptions from the restriction on impounding works in the case of the construction or alteration of impounding works—
+
+- (a) undertaken in an emergency to avoid, or reduce the threat of, imminent loss of human life or damage to property or the environment (regulation 10);
+- (b) in the area of an internal drainage board, if they are constructed by that board after the date these Regulations come into force (regulation 11);
+- (c) in a managed wetland system after the date these Regulations come into force, for the management, operation or maintenance of water levels or flows in that managed wetland system (regulation 12).
+
+A Regulatory Impact Assessment (“RIA”) was produced in connection with the Water Act 2003 (c. 37). This RIA set out the impact of removing exemptions from the restriction on abstraction to which these Regulations relate. A further impact assessment was produced in respect of new authorisations for water abstraction in October 2017. Copies of the RIA and the impact assessment can be obtained from the Water Resources Management Team, the Department for Environment, Food and Rural Affairs, Area 3D, Nobel House, 17 Smith Square, London SW1P 3JR and from the Water Branch, the Welsh Government, Cathays Park, Cardiff, CF10 3NQ. Both are published alongside the Explanatory Memorandum on www.legislation.gov.uk.
+
+## Annotations
+
+[^c23067441]: Marginal citation: [1991 c. 57](https://www.legislation.gov.uk/ukpga/1991/57); section 33A was inserted by section 9 of the [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), and was amended by [S.I. 2013/755](https://www.legislation.gov.uk/uksi/2013/755) (W. 90). See section 221(1) of the Water Resources Act 1991 for the definition of “the Ministers”. The functions under sections 33A and 219(2) were transferred, in relation to Wales, to the National Assembly for Wales by virtue of article 2 of, and Schedule 1 to, the [National Assembly for Wales (Transfer of Functions) Order 1999 (S.I. 1999/672)](https://www.legislation.gov.uk/uksi/1999/672), with references to the Water Resources Act 1991 in that Schedule treated as referring to that Act as amended by the Water Act 2003, pursuant to section 100(6) of the Water Act 2003. The functions of the National Assembly for Wales were transferred to the Welsh Ministers by virtue of section 162 of, and paragraph 30 of Schedule 11 to, the [Government of Wales Act 2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32).
+
+[^key-7115fdbfdc3c3e22cc3cf216c386f612]: Modification: Regulations applied (Isles of Scilly) (27.3.2020) by [The Isles of Scilly (Application of Water Legislation) Order 2020 (S.I. 2020/214)](https://www.legislation.gov.uk/uksi/2020/214), [arts. 2(1)](https://www.legislation.gov.uk/uksi/2020/214/article/2/1), [5(aa)](https://www.legislation.gov.uk/uksi/2020/214/article/5/aa)
+
+[^key-2ec622b4114423543d0c6c0703f246a0]: Textual amendment: Words in reg. 2(1) substituted (E.) (17.9.2018) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) Regulations 2018 (S.I. 2018/942)](https://www.legislation.gov.uk/uksi/2018/942), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/942/regulation/1/2), [35(2)(a)](https://www.legislation.gov.uk/uksi/2018/942/regulation/35/2/a); and (W.) (17.12.2018) by [The Environment, Planning and Rural Affairs (Miscellaneous Amendments) (Wales) Regulations 2018 (S.I. 2018/1216)](https://www.legislation.gov.uk/uksi/2018/1216), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1216/regulation/1/3), [16(2)(a)](https://www.legislation.gov.uk/uksi/2018/1216/regulation/16/2/a)
+
+[^key-4a16e2edfe1ec09baba5cfe472db529e]: Textual amendment: [Words in reg. 2(1)](https://www.legislation.gov.uk/uksi/2017/1044/regulation/2/a) substituted (31.12.2020) by [The Floods and Water (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/558)](https://www.legislation.gov.uk/uksi/2019/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/558/regulation/1/1), [21(a)](https://www.legislation.gov.uk/uksi/2019/558/regulation/21/a) (as amended by [S.I. 2019/559](https://www.legislation.gov.uk/uksi/2019/559), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/559/regulation/1/2), [5(a)](https://www.legislation.gov.uk/uksi/2019/559/regulation/5/a)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-330f9ddfe15152c560ef3f7b3510bb7f]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2017/1044/regulation/2/b) substituted (31.12.2020) by [The Floods and Water (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/558)](https://www.legislation.gov.uk/uksi/2019/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/558/regulation/1/1), [21(b)](https://www.legislation.gov.uk/uksi/2019/558/regulation/21/b) (as amended by [S.I. 2019/559](https://www.legislation.gov.uk/uksi/2019/559), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/559/regulation/1/2), [5(b)](https://www.legislation.gov.uk/uksi/2019/559/regulation/5/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-3c88f8a5a4cf8ac00000ed5798881265]: Textual amendment: Words in reg. 2(1) substituted (E.) (17.9.2018) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) Regulations 2018 (S.I. 2018/942)](https://www.legislation.gov.uk/uksi/2018/942), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/942/regulation/1/2), [35(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2018/942/regulation/35/2/b/ii); and (W.) (17.12.2018) by [The Environment, Planning and Rural Affairs (Miscellaneous Amendments) (Wales) Regulations 2018 (S.I. 2018/1216)](https://www.legislation.gov.uk/uksi/2018/1216), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1216/regulation/1/3), [16(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2018/1216/regulation/16/2/b/ii)
+
+[^key-616b690f91deec5bb34982a1dafe6178]: Textual amendment: Words in reg. 2(1) substituted (E.) (17.9.2018) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) Regulations 2018 (S.I. 2018/942)](https://www.legislation.gov.uk/uksi/2018/942), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/942/regulation/1/2), [35(2)(b)(iii)](https://www.legislation.gov.uk/uksi/2018/942/regulation/35/2/b/iii); and (W.) (17.12.2018) by [The Environment, Planning and Rural Affairs (Miscellaneous Amendments) (Wales) Regulations 2018 (S.I. 2018/1216)](https://www.legislation.gov.uk/uksi/2018/1216), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1216/regulation/1/3), [16(2)(b)(iii)](https://www.legislation.gov.uk/uksi/2018/1216/regulation/16/2/b/iii)
+
+[^c23067471]: Marginal citation: Section 28 was substituted by paragraph 1 of Schedule 9 to the [Countryside and Rights of Way Act 2000 (c. 37)](https://www.legislation.gov.uk/ukpga/2000/37) and amended by paragraph 79 of Schedule 11 to the [Natural Environment and Rural Communities Act 2006 (c. 16)](https://www.legislation.gov.uk/ukpga/2006/16) and paragraph 2(1) and (5) of Schedule 13 to the [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23). References to Natural England in section 28 have effect as if they were references to the Natural Resources Body for Wales in relation to land in Wales by virtue of section 27[AA of the Wildlife and Countryside Act 1981 (c. 69)](https://www.legislation.gov.uk/ukpga/1981/69).
+
+[^c23067481]: Marginal citation: Section 37A was inserted by section 77 of the Countryside and Rights of Way Act 2000 and amended by [S.I. 2013/755](https://www.legislation.gov.uk/uksi/2013/755) (W.90).
+
+[^c23067491]: Marginal citation: [1949 c. 97](https://www.legislation.gov.uk/ukpga/1949/97). Section 2 was amended by paragraph 10(c) of Schedule 11 to the Natural Environment and Rural Communities Act 2006. Functions conferred on Natural England under section 7 as respects England (or areas of any description in England) were conferred on the Natural Resources Body for Wales as respects Wales (or areas of a similar description in Wales) by virtue of section 4A.
+
+[^c23067501]: Marginal citation: Section 21 was amended by Schedule 30 to the [Local Government Act 1972 (c.70)](https://www.legislation.gov.uk/ukpga/1972/70), [paragraph 100](https://www.legislation.gov.uk/ukpga/1972/70/paragraph/100) of Schedule 27 to the [Local Government (Scotland) Act 1973 (c. 65)](https://www.legislation.gov.uk/ukpga/1973/65), [section 10](https://www.legislation.gov.uk/ukpga/1973/65/section/10) of the [Local Government and Planning (Scotland) Act 1982 (c. 43)](https://www.legislation.gov.uk/ukpga/1982/43), [Schedule 14](https://www.legislation.gov.uk/ukpga/1982/43/schedule/14) to the [Local Government etc. (Scotland) Act 1994 (c.39)](https://www.legislation.gov.uk/ukpga/1994/39), [paragraphs 15](https://www.legislation.gov.uk/ukpga/1994/39/paragraph/15) and 19 of Schedule 11 to the Natural Environment and Rural Communities Act 2006 and paragraph 1(4) of Schedule 2(1) to the Environment (Wales) Act 2016 (anaw. 3).
+
+[^key-1185b2d1e3b28251dcc71367bc4b6227]: Textual amendment: Words in reg. 2(1) substituted (E.) (17.9.2018) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) Regulations 2018 (S.I. 2018/942)](https://www.legislation.gov.uk/uksi/2018/942), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/942/regulation/1/2), [35(2)(c)](https://www.legislation.gov.uk/uksi/2018/942/regulation/35/2/c); and (W.) (17.12.2018) by [The Environment, Planning and Rural Affairs (Miscellaneous Amendments) (Wales) Regulations 2018 (S.I. 2018/1216)](https://www.legislation.gov.uk/uksi/2018/1216), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1216/regulation/1/3), [16(2)(c)](https://www.legislation.gov.uk/uksi/2018/1216/regulation/16/2/c)
+
+[^c23067511]: Marginal citation: Section 9 was amended in relation to England and Wales by paragraph 5 of Schedule 12 to the Countryside and Rights of Way Act 2000 and by [S.I. 2007/1843](https://www.legislation.gov.uk/uksi/2007/1843). Schedule 5 was amended in relation to England and Wales by [S.I. 1988/288](https://www.legislation.gov.uk/uksi/1988/288), 1989/906, 1991/367, 1992/2350, 1998/878, 2007/1843, 2008/431, 1927 (W. 183), 2172 and 2011/2015.
+
+[^c23067521]: Marginal citation: [2006 c.16](https://www.legislation.gov.uk/ukpga/2006/16).
+
+[^c23067531]: Marginal citation: [2016 anaw 3](https://www.legislation.gov.uk/anaw/2016/3).
+
+[^c23067541]: Marginal citation: [Section 26(4)](https://www.legislation.gov.uk/uksi/2017/1044/section/26/4) and (5) was inserted by section 5 of the Water Act 2003.
+
+[^c23067551]: Marginal citation: These areas are delineated on a map available from the Environment Agency at www.gov.uk/government/organisations/environment-agency and a copy of the map can be obtained from the Environment Agency, National Customer Contact Centre, PO Box 544, Rotherham S60 1BY.
+
+[^c23067561]: Marginal citation: [1975 c. 23](https://www.legislation.gov.uk/ukpga/1975/23).
+
+[^c23067571]: Marginal citation: [Sch](https://www.legislation.gov.uk/uksi/2017/1044/schedule)emes were made under sections 3(1)(a) and 4(3) of the [Land Drainage Act 1991 (c. 59)](https://www.legislation.gov.uk/ukpga/1991/59) by the Natural Resources Body for Wales and the Environment Agency making provision for the abolition of certain internal drainage boards, the creation of new internal drainage boards and provision that the Natural Resources Body for Wales shall be the drainage board in respect of those new districts. These schemes were confirmed by the Secretary of State and the Welsh Ministers under [S.I. 2015/923](https://www.legislation.gov.uk/uksi/2015/923) and by the Welsh Ministers under [S.I. 2015/872](https://www.legislation.gov.uk/uksi/2015/872) (W. 65).
+
+[^c23067581]: Marginal citation: [Chapter 2](https://www.legislation.gov.uk/uksi/2017/1044/chapter/2) of Part 2 of the Water Resources Act 1991 was amended by Part 1 of the Water Act 2003.
+
+[^key-8cc6fb66e8ecf12f349f2f3c35baa389]: Textual amendment: Words in [reg. 14(1)(b)](https://www.legislation.gov.uk/uksi/2017/1044/regulation/14/1/b) substituted (17.9.2018 for E. and 17.12.2018 for W.) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) Regulations 2018 (S.I. 2018/942)](https://www.legislation.gov.uk/uksi/2018/942), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/942/regulation/1/2), [35(3)](https://www.legislation.gov.uk/uksi/2018/942/regulation/35/3) and [The Environment, Planning and Rural Affairs (Miscellaneous Amendments) (Wales) Regulations 2018 (S.I. 2018/1216)](https://www.legislation.gov.uk/wsi/2018/1216), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2018/1216/regulation/1/3), [16(3)](https://www.legislation.gov.uk/wsi/2018/1216/regulation/16/3)

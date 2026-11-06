@@ -1,0 +1,52 @@
+---
+title: Automated Vehicles Act 2024, section 41
+act: Automated Vehicles Act 2024
+section: '41'
+status: not-yet-in-force
+text_date: '2026-05-15'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/ukpga/2024/10/section/41
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Automated Vehicles Act 2024, section 41
+
+> This provision is not yet in force.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 41. Notices[^key-f7f6a351c4186bb72b87ecc88fafc324]
+
+*Extent: E+W+S*
+
+**Not yet in force.**
+
+(1) The Secretary of State must impose authorisation requirements designed to secure that the Secretary of State has available at all times—
+
+- (a) a postal address, and
+- (b) an electronic address,
+
+which can be used to issue notices under this Part to an authorised self-driving entity.
+
+(2) If the Secretary of State makes operator licensing regulations, the regulations must include provision designed to secure that the Secretary of State has available at all times—
+
+- (a) a postal address, and
+- (b) an electronic address,
+
+which can be used to issue notices under this Part to a licensed no-user-in-charge operator.
+
+(3) A notice issued under this Part to a regulated body is to be taken for the purposes of this Part to be issued at—
+
+- (a) the time at which it is received by the regulated body, or
+- (b) if earlier, the time at which it would in the ordinary course of events be received by the regulated body (taking account of the means by which it is issued).
+
+(4) It is to be assumed for the purposes of subsection (3)(b) that the regulated body will receive a notice sent to an address made available to the Secretary of State further to authorisation requirements or operator licensing regulations or the sort described in subsection (1) or (2).
+
+(5) For the purposes of subsections (3) and (4), a regulated body “receives” a notice when it would first be possible for an individual acting on behalf of the body to view the notice.
+
+(6) In this section, “**electronic address**” includes any form of information that enables a written electronic communication to be directed to a particular recipient.
+
+## Annotations
+
+[^key-f7f6a351c4186bb72b87ecc88fafc324]: Commencement: S. 41 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)

@@ -1,0 +1,102 @@
+---
+title: The Terrorism Act 2000 (Video Recording with Sound of Interviews and Associated Code of Practice) (Northern Ireland) Order 2020
+id: uksi/2020/860
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2020-08-13'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2020/860
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2020/860/pdfs/uksiem_20200860_en.pdf
+- http://www.legislation.gov.uk/uksi/2020/860/pdfs/uksi_20200860_en.pdf
+- http://www.legislation.gov.uk/uksi/2020/860/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Terrorism Act 2000 (Video Recording with Sound of Interviews and Associated Code of Practice) (Northern Ireland) Order 2020
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2020 No. 860
+
+Prevention And Suppression Of Terrorism
+
+The Terrorism Act 2000 (Video Recording with Sound of Interviews and Associated Code of Practice) (Northern Ireland) Order 2020
+
+Made
+
+13th August 2020
+
+Coming into force
+
+14th August 2020
+
+The Secretary of State makes the following Order in exercise of the powers conferred by paragraphs 3(2)(b), (3) and (4)(b) and 4(4) and (5) of Schedule 8 to the Terrorism Act 2000[^f00001] (“the Act”).
+
+The Secretary of State has:
+
+- (a) in accordance with paragraph 4(2)(a) and (5) of Schedule 8 to the Act, published a draft of a revised code of practice[^f00002] about the video recording with sound of interviews to which paragraph 3 of Schedule 8 to the Act applies;
+- (b) in accordance with paragraph 4(2)(b) and (c) and (5) of Schedule 8 to the Act, considered representations made about the draft revised code of practice and, as thought appropriate, modified the draft accordingly;
+- (c) in accordance with paragraph 4(3) and (5) of Schedule 8 to the Act, laid a draft of the revised code of practice before Parliament.
+
+A draft of this instrument has been laid before Parliament under section 123(4)(j) and (k)[^f00003] of the Act and has been approved by a resolution of each House of Parliament.
+
+## 1. Citation and commencement
+
+This Order may be cited as the Terrorism Act 2000 (Video Recording with Sound of Interviews and Associated Code of Practice) (Northern Ireland) Order 2020 and comes into force on the day after the day on which it is made.
+
+## 2. Video recording with sound
+
+(1) An interview by a constable of a person detained under section 41 of, or Schedule 7 to, the Terrorism Act 2000 must, if the interview takes place in a police station[^f00004] in Northern Ireland, be video recorded with sound.
+
+(2) An interview referred to in paragraph (1) must be video recorded in accordance with the revised code of practice.
+
+(3) In sub-paragraph (2) the “revised code of practice” means the revised code of practice referred to in article 3.
+
+## 3. Revised Code of Practice
+
+The revised code of practice entitled “Code of practice for video recording with sound of interviews of persons detained under section 41 of, or Schedule 7 to, the Terrorism Act 2000 which take place in a police station in Northern Ireland” and laid before Parliament in draft on 8th June 2020 comes into operation on the day on which this Order comes into force.
+
+## 4. Revocations
+
+The following Orders are revoked—
+
+- (a) the Terrorism Act 2000 (Video Recording of Interviews) Order 2000[^f00005];
+- (b) the Terrorism Act 2000 (Code of Practice on Video Recording of Interviews) (Northern Ireland) Order 2003[^f00006].
+
+Brandon Lewis
+
+Secretary of State
+
+Northern Ireland Office
+
+13th August 2020
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+Article 2(1) of this Order requires that any interview by a constable of a person detained under section 41 of, or Schedule 7 to, the Terrorism Act 2000 (c. 11, “the Act”) which takes place in a police station in Northern Ireland is to be video recorded with sound. (A reference to a police station includes a reference to any place which the Secretary of State has designated under paragraph 1(1) of Schedule 8 to the Act as a place where a person may be detained under section 41.) Article 2(2) further requires that any such interview must be video recorded in accordance with the revised code of practice and Article 2(3) defines that revised code of practice as being the one referred to in Article 3. Article 3 brings that code of practice into force. Article 4 revokes the Terrorism Act 2000 (Video Recording of Interviews) Order 2000 ([S.I. 2000/3179](https://www.legislation.gov.uk/uksi/2000/3179)) and the Terrorism Act 2000 (Code of Practice on Video Recording of Interviews) (Northern Ireland) Order 2003 ([S.I. 2003/1100](https://www.legislation.gov.uk/uksi/2003/1100)), which brought into force previous versions of the code of practice.
+
+The revised code of practice is available from the Northern Ireland Office, Stormont House, Stormont Estate, Belfast BT4 3SH or https://www.gov.uk/government/organisations/northern-ireland-office.
+
+A full impact assessment has not been produced for this instrument as no, or no significant, impact on the private, voluntary or public sectors is foreseen.
+
+## Annotations
+
+[^f00001]: Footnote: [2000 c. 11](https://www.legislation.gov.uk/ukpga/2000/11).
+
+[^f00002]: Footnote: The revised code of practice will replace the one issued in 2003 and brought into force by [S.I. 2003/1100](https://www.legislation.gov.uk/uksi/2003/1100).
+
+[^f00003]: Footnote: There are amendments to section 123 but none are relevant.
+
+[^f00004]: Footnote: In accordance with paragraph 1(2) of Schedule 8 to the Act, a reference to a police station includes a reference to any place which the Secretary of State has designated under paragraph 1(1) of that Schedule as a place where a person may be detained under section 41.
+
+[^f00005]: Footnote: [S.I. 2000/3179](https://www.legislation.gov.uk/uksi/2000/3179).
+
+[^f00006]: Footnote: [S.I. 2003/1100](https://www.legislation.gov.uk/uksi/2003/1100).

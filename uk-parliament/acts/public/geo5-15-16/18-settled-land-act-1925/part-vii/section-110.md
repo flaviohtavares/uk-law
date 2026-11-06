@@ -1,0 +1,58 @@
+---
+title: Settled Land Act 1925, section 110
+act: Settled Land Act 1925
+section: '110'
+status: revised-with-pending-changes
+text_date: '2026-10-01'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/Geo5/15-16/18/section/110
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Settled Land Act 1925, section 110
+
+> **Warning: changes not yet applied to this text (2).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/Geo5/15-16/18
+>
+> Extent: England, Wales.
+
+## 110. Protection of purchasers, &c.
+
+*Extent: E+W*
+
+(1) On a sale, exchange, lease, mortgage, charge, or other disposition, a purchaser dealing in good faith with a tenant for life or statutory owner shall, as against all parties entitled under the settlement, be conclusively taken to have given the best price, consideration, or rent as the case may require, that could reasonably be obtained by the tenant for life or statutory owner, and to have complied with all the requisitions of this Act.
+
+(2) A purchaser of a legal estate in settled land shall not, except as hereby expressly provided, be bound or entitled to call for the production of the trust instrument or any information concerning that instrument or any ad valorem stamp duty thereon, and whether or not he has notice of its contents he shall, save as hereinafter provided, be bound and entitled if the last or only principal vesting instrument contains the statements and particulars required by this Act to assume that—
+
+- (a) the person in whom the land is by the said instrument vested or declared to be vested is the tenant for life or statutory owner and has all the powers of a tenant for life under this Act, including such additional or larger powers, if any, as are therein mentioned;
+- (b) the persons by the said instrument stated to be the trustees of the settlement, or their successors appearing to be duly appointed, are the properly constituted trustees of the settlement;
+- (c) the statements and particulars required by this Act and contained (expressly or by reference) in the said instrument were correct at the date thereof;
+- (d) the statements contained in any deed executed in accordance with this Act declaring who are the trustees of the settlement for the purposes of this Act are correct;
+- (e) the statements contained in any deed of discharge, executed in accordance with this Act, are correct:
+
+Provided that, as regards the first vesting instrument executed for the purpose of giving effect to—
+
+- (a) a settlement subsisting at the commencement of this Act; or
+- (b) an instrument which by virtue of this Act is deemed to be a settlement; or
+- (c) a settlement which by virtue of this Act is deemed to have been made by any person after the commencement of this Act; or
+- (d) an instrument inter vivos intended to create a settlement of a legal estate in land which is executed after the commencement of this Act and does not comply with the requirements of this Act with respect to the method of effecting such a settlement;
+
+a purchaser shall be concerned to see—
+
+- (i) that the land disposed of to him is comprised in such settlement or instrument;
+- (ii) that the person in whom the settled land is by such vesting instrument vested, or declared to be vested, is the person in whom it ought to be vested as tenant for life or statutory owner;
+- (iii) that the persons thereby stated to be the trustees of the settlement are the properly constituted trustees of the settlement.
+
+(3) A purchaser of a legal estate in settled land from a personal representative shall be entitled to act on the following assumptions:—
+
+- (i) If the capital money, if any, payable in respect of the transaction is paid to the personal representative, that such representative is acting under his statutory or other powers and requires the money for purposes of administration;
+- (ii) If such capital money is, by the direction of the personal representative, paid to persons who are stated to be the trustees of a settlement, that such persons are the duly constituted trustees of the settlement for the purposes of this Act, and that the personal representative is acting under his statutory powers during a minority;
+- (iii) In any other case, that the personal representative is acting under his statutory or other powers.
+
+(4) Where no capital money arises under a transaction, a disposition by a tenant for life or statutory owner shall, in favour of a purchaser of a legal estate, have effect under this Act notwithstanding that at the date of the transaction there are no trustees of the settlement.
+
+(5) If a conveyance of or an assent relating to land formerly subject to a vesting instrument does not state who are the trustees of the settlement for the purposes of this Act, a purchaser of a legal estate shall be bound and entitled to act on the assumption that the person in whom the land was thereby vested was entitled to the land free from all limitations, powers, and charges taking effect under that settlement, absolutely and beneficially, or, if so expressed in the conveyance or assent, as personal representative, or trustee of land[^c6451521] or otherwise, and that every statement of fact in such conveyance or assent is correct.
+
+## Annotations
+
+[^c6451521]: Textual amendment: Words in s. 110(5) substituted (1.1.1997) by [1996 c. 47](https://www.legislation.gov.uk/ukpga/1996/47), [s. 25(1)](https://www.legislation.gov.uk/ukpga/1996/47/section/25/1), [Sch. 3 para. 2(12)](https://www.legislation.gov.uk/ukpga/1996/47/schedule/3/paragraph/2/12)(with ss. 24(2), 25(4)(5)); [S.I. 1996/2974](https://www.legislation.gov.uk/uksi/1996/2974), [art.2](https://www.legislation.gov.uk/uksi/1996/2974/article/2)

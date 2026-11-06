@@ -1,0 +1,93 @@
+---
+title: The Child Support (Miscellaneous Amendments) (No. 3) Regulations 1995
+id: uksi/1995/3265
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '1995-12-18'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1995/3265
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1995/3265/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Child Support (Miscellaneous Amendments) (No. 3) Regulations 1995
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+This Statutory Instrument corrects errors in S.I. [1995/3261](https://www.legislation.gov.uk/uksi/1995/3261) and is being issued free of charge to all known recipients of that Statutory Instrument.
+
+1995 No. 3265
+
+FAMILY LAW
+
+CHILD SUPPORT
+
+The Child Support (Miscellaneous Amendments) (No. 3) Regulations 1995
+
+Made
+
+18th December 1995
+
+Laid before Parliament
+
+20th December 1995
+
+Coming into force
+
+22nd January 1996
+
+The Secretary of State for Social Security, in exercise of the powers conferred by sections 51 and 54 of the Child Support Act 1991[^f00001], and of all other powers enabling him in that behalf, hereby makes the following Regulations:
+
+## 1. Citation, commencement and interpretation
+
+(1) These Regulations may be cited as the Child Support (Miscellaneous Amendments) (No. 3) Regulations 1995 and shall come into force on 22nd January 1996, immediately following the coming into force of regulations 35, 41 and 57 of the Child Support (Miscellaneous Amendments) (No. 2) Regulations 1995[^f00002].
+
+(2) In these Regulations–
+
+- “the Maintenance Assessment Procedure Regulations” means the Child Support (Maintenance Assessment Procedure) Regulations 1992[^f00003];
+- “the Maintenance Assessments and Special Cases Regulations” means the Child Support (Maintenance Assessments and Special Cases) Regulations 1992[^f00004];
+- “the Miscellaneous Amendments (No. 2) Regulations” means the Child Support (Miscellaneous Amendments) (No. 2) Regulations 1995.
+
+## 2. Re-positioning of regulation 32B of the Maintenance Assessment Procedure Regulations
+
+Regulation 32B of the Maintenance Assessment Procedure Regulations (notification of cancellation under paragraph 16(4A) of Schedule 1 to the Child Support Act 1991), which was inserted after regulation 32 of those Regulations by regulation 35 of the Miscellaneous Amendments (No. 2) Regulations shall, instead, be inserted after regulation 32A of the Maintenance Assessment Procedure Regulations.
+
+## 3. Amendment of regulation 2 of the Maintenance Assessments and Special Cases Regulations
+
+In paragraph (2) of regulation 2 of the Maintenance Assessments and Special Cases Regulations (calculation or estimation of amounts), for the words “regulation 8A(4)” there shall be substituted the words “regulation 8A(5)”.
+
+## 4. Amendment of regulation 57 of the Miscellaneous Amendments (No. 2) Regulations
+
+In paragraph (3) of regulation 57 of the Miscellaneous Amendments (No. 2) Regulations (transitional and consequential provisions), for the words “regulation 39, 41, 42(3) or (5), 45, 46 or 48” there shall be substituted the words “regulation 40, 42, 43(3) or (5), 46, 47 or 49”.
+
+Signed by authority of the Secretary of State for Social Security.
+
+A. J. B. Mitchell
+
+Parliamentary Under-Secretary of State,
+
+Department of Social Security
+
+18th December 1995
+
+(This note is not part of the Regulations)
+
+These Regulations make three amendments to provisions made by the Child Support (Miscellaneous Amendments) (No. 2) Regulations 1995, which were made under the Child Support Act 1991. Regulation 32B of the Child Support (Maintenance Assessment Procedure) Regulations 1992 is re-positioned so as to follow rather than precede regulation 32A (regulation 2). Regulations 3 and 4 correct mistaken references in regulation 2 of the Child Support (Maintenance Assessments and Special Cases) Regulations 1992 and regulation 57 of the Child Support (Miscellaneous Amendments) (No. 2) Regulations 1995 respectively.
+
+These Regulations impose no costs on business.
+
+## Annotations
+
+[^f00001]: Footnote: [1991 c. 48](https://www.legislation.gov.uk/ukpga/1991/48). Section 54 is cited because of the meaning ascribed to the word “prescribed”. Paragraph 16(4A) of Schedule 1 was inserted by Section 14(2) of the Child Support Act [1995 (c. 34)](https://www.legislation.gov.uk/ukpga/1995/34).
+
+[^f00002]: Footnote: S.I. [1995/3261](https://www.legislation.gov.uk/uksi/1995/3261).
+
+[^f00003]: Footnote: S.I. [1992/1813](https://www.legislation.gov.uk/uksi/1992/1813).
+
+[^f00004]: Footnote: S.I. [1992/1815](https://www.legislation.gov.uk/uksi/1992/1815). Regulation 2 was amended by S.I. [1995/1045](https://www.legislation.gov.uk/uksi/1995/1045).

@@ -1,0 +1,60 @@
+---
+title: The Scottish Parliament (Elections etc.) Order 2002, section 27
+act: The Scottish Parliament (Elections etc.) Order 2002
+section: '27'
+status: as-enacted
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2002/2779/section/27
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Scottish Parliament (Elections etc.) Order 2002, section 27
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+## 27. Other voting offences
+
+(1) A person shall be guilty of an offence if–
+
+- (a) he votes in person or by post, whether as an elector or as proxy, or applies to vote by proxy or by post as elector at a Scottish parliamentary election, or at Scottish parliamentary elections, knowing that he is subject to a legal incapacity to vote at the election or, as the case may be, at elections of that kind; or
+- (b) he applies for the appointment of a proxy to vote for him at any Scottish parliamentary election or at Scottish parliamentary elections knowing that he or the person to be appointed is subject to a legal incapacity to vote at the election or, as the case may be, at elections of that kind; or
+- (c) he votes, whether in person or by post, as proxy for some other person at a Scottish parliamentary election, knowing that that person is subject to a legal incapacity to vote.
+
+(2) For the purposes of paragraph (1) above, references to a person being subject to a legal incapacity to vote do not, in relation to things done before polling day at the election or first election at or for which they are done, include his being below voting age if he will be of voting age on that day.
+
+(3) A person shall be guilty of an offence if–
+
+- (a) he votes as elector–
+  - (i) more than once in any constituency at a poll for the return of a constituency member; or
+  - (ii) more than once in any constituency at a poll for the return of regional members; or
+  - (iii) in more than one constituency at a Scottish parliamentary general election;
+- (b) he votes as elector in person at a Scottish parliamentary election at which he is entitled to vote by post;
+- (c) he votes as elector in person at a Scottish parliamentary election, knowing that a person appointed to vote as his proxy at the election either has already voted in person at the election or is entitled to vote by post at the election; or
+- (d) he applies for a person to be appointed as his proxy to vote for him at Scottish parliamentary elections in any constituency without applying for the cancellation of a previous appointment of a third person then in force in respect of that or another constituency or without withdrawing a pending application for such an appointment in respect of that or another constituency.
+
+(4) A person shall be guilty of an offence if–
+
+- (a) he votes as proxy for the same elector either–
+  - (i) more than once in the same constituency at any Scottish parliamentary election; or
+  - (ii) in more than one constituency at a Scottish parliamentary general election;
+- (b) he votes in person as proxy for an elector at a Scottish parliamentary election at which he is entitled to vote by post as proxy for that elector; or
+- (c) he votes in person as proxy for an elector at a Scottish parliamentary election knowing that the elector has already voted in person at the election.
+
+(5) A person shall also be guilty of an offence if he votes at a Scottish parliamentary election in any constituency as proxy for more than two persons of whom he is not the husband, wife, parent, grandparent, brother, sister, child or grandchild.
+
+(6) A person shall also be guilty of an offence if he knowingly induces or procures some other person to do an act which is, or but for that other person’s want of knowledge would be, an offence by that other person under the foregoing paragraphs of this article.
+
+(7) For the purposes of this article a person who has applied for a ballot paper for the purpose of voting in person, or who has marked, whether validly or not, and returned a ballot paper issued for the purpose of voting by post, shall be deemed to have voted, but for the purpose of determining whether an application for a ballot paper constitutes an offence under paragraph (4) above, a previous application made in circumstances which entitle the applicant only to mark a tendered ballot paper shall, if he does not exercise that right, be disregarded.
+
+(8) An offence under this article shall be an illegal practice, but–
+
+- (a) the court before whom a person is convicted of any such offence may, if they think it just in the special circumstances of the case, mitigate or entirely remit any incapacity imposed by virtue of section 173 of the 1983 Act (as applied by this Order)[^f00023]; and
+- (b) a candidate shall not be liable, nor shall his election be avoided, for an illegal practice under this article of any agent of his other than an offence under paragraph (6) above.
+
+(9) Where a person is entitled to give two votes in an election (whether in person as elector or proxy, or by post as elector or proxy) and so exercises that right he shall, for the purposes of this article, be treated as voting once in relation to each poll for which his votes are given.
+
+## Annotations
+
+[^f00023]: Footnote: By Schedule 6 to this Order.

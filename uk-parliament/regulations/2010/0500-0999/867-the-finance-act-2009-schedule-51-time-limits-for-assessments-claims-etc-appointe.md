@@ -1,0 +1,237 @@
+---
+title: The Finance Act 2009, Schedule 51 (Time Limits for Assessments, Claims, etc.) (Appointed Days and Transitional Provisions) Order 2010
+id: uksi/2010/867
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2010-03-18'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2010/867
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2010/867/pdfs/uksi_20100867_en.pdf
+- http://www.legislation.gov.uk/uksi/2010/867/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Finance Act 2009, Schedule 51 (Time Limits for Assessments, Claims, etc.) (Appointed Days and Transitional Provisions) Order 2010
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2010 No. 867 (C. 58)
+
+Aggregates Levy
+
+Climate Change Levy
+
+Inheritance Tax
+
+Insurance Premium Tax
+
+Landfill Tax
+
+Petroleum Revenue Tax
+
+Stamp Duty Land Tax
+
+The Finance Act 2009, Schedule 51 (Time Limits for Assessments, Claims, etc.) (Appointed Days and Transitional Provisions) Order 2010
+
+Made
+
+18th March 2010
+
+The Treasury make the following Order in exercise of the powers conferred by sections 99(2) and 99(3) of the Finance Act 2009[^f00001].
+
+## PART 1 — APPOINTED DAYS AND PRELIMINARY PROVISIONS
+
+### 1. Citation and interpretation
+
+(1) This Order may be cited as the Finance Act 2009, Schedule 51 (Time Limits for Assessments, Claims, etc.) (Appointed Days and Transitional Provisions) Order 2010.
+
+(2) In this Order a reference to a paragraph (without more) is a reference to that paragraph of Schedule 51 to the Finance Act 2009.
+
+(3) In this Order—
+
+- “The Commissioners” means the Commissioners for Her Majesty’s Revenue and Customs;
+- “FA”, followed by a year, means the Finance Act of that year[^f00002].
+- “IHTA 1984” means the Inheritance Tax Act 1984[^f00003];
+
+### 2. Appointed days
+
+(1) The day appointed as the day on which the amendments made by paragraphs 1 to 4 and 27 to 43 (insurance premium tax, aggregates levy, climate change levy, landfill tax and minor and consequential provision) come into force is 1st April 2010.
+
+(2) The day appointed as the day on which the amendments made by paragraphs 5 to 26 (inheritance tax, stamp duty land tax and petroleum revenue tax) come into force is 1st April 2011.
+
+## PART 2 — TRANSITIONAL PROVISION
+
+### 3. Insurance premium tax: claims
+
+The amendment made by paragraph 2 is disregarded where claims made under paragraph 8 of Schedule 7 to FA 1994[^f00004] (recovery of overpaid tax) are for the repayment of amounts paid to the Commissioners on or before 31st March 2007.
+
+**4.** The amendment made by paragraph 3 is disregarded where claims made under paragraph 22 of Schedule 7 to FA 1994[^f00005] (interest payable by Commissioners) are for the repayment of amounts paid to the Commissioners on or before 31st March 2007.
+
+### 5. Insurance premium tax: assessments
+
+The amendments made by paragraph 4 are disregarded where, for the purposes of paragraph 26 of Schedule 7 to FA 1994[^f00006] (assessments: time limits), the “relevant event” occurred on or before 31st March 2007.
+
+### 6. Inheritance tax: underpayments
+
+In a case under section 240(2) IHTA 1984[^f00007], where —
+
+- (a) the chargeable transfer took place on or before 31st March 2011, and
+- (b) a loss of tax was brought about deliberately by any person (or a person acting on behalf of such a person),
+
+the period within which proceedings may be brought is the period of 6 years beginning when the deliberate conduct comes to the knowledge of Her Majesty’s Revenue and Customs or the period of 20 years provided in section 240(5) IHTA 1984[^f00008], whichever ends soonest.
+
+### 7. Stamp duty land tax: determination of penalties
+
+Where a person incurs a penalty on or before 31st March 2011 under Part 4 of FA 2003[^f00009], and the case involves a loss of tax arising in one of the circumstances specified in paragraph 8(4B) of Schedule 14 to that Act (deliberately, etc), the amendments made by paragraph 16(2) and (4) are disregarded.
+
+### 8. Aggregates levy: claims
+
+The amendment made by paragraph 28 is disregarded where, for the purposes of section 32(1) of FA 2001[^f00010] (repayments of overpaid aggregates levy), a claim is for the repayment of an amount paid to the Commissioners on or before 31st March 2007.
+
+**9.** The amendment made by paragraph 30 is disregarded where claims made under paragraph 2 of Schedule 8 to FA 2001[^f00011] (interest payable by the Commissioners) are for the repayment of amounts relating to an applicable period which ends on or before 31st March 2007.
+
+### 10. Aggregates levy: assessments
+
+The amendment made by paragraph 29(2) is disregarded where, for the purposes of paragraph 4(1)(b) of Schedule 5 to FA 2001[^f00012] (time limits for assessments), the end of the accounting period was on or before 31st March 2007.
+
+**11.** The amendments made by paragraph 29(3) are disregarded where, for the purposes of paragraph 4(3) of Schedule 5 to FA 2001[^f00013] (time limits for assessments), the end of the accounting period to which the assessment relates was on or before 31st March 2007.
+
+**12.** The amendments made by paragraph 29(4) are disregarded where, for the purposes of paragraph 4(4) of Schedule 5 to FA 2001[^f00014] (time limits for assessments), the death was on or before 31st March 2007.
+
+**13.** The amendment made by paragraph 31(2) is disregarded where, for the purposes of paragraph 4(1) of Schedule 10 to FA 2001[^f00015] (time limits on penalty assessments), the conduct to which the penalty relates occurred on or before 31st March 2007.
+
+**14.** The amendments made by paragraph 31(3) are disregarded where, for the purposes of paragraph 4(2) of Schedule 10 to FA 2001[^f00016] (time limits on penalty assessments), the conduct to which the penalty relates occurred on or before 31st March 2007.
+
+**15.** The amendments made by paragraph 31(4) are disregarded where, for the purposes of paragraph 4(3) of Schedule 10 to FA 2001[^f00017] (time limits on penalty assessments), the death was on or before 31st March 2007.
+
+### 16. Climate change levy: claims
+
+The amendment made by paragraph 33 is disregarded where, for the purpose of paragraph 64(1) of Schedule 6 to FA 2000[^f00018] (repayments of overpaid levy), claims made are for the repayment of amounts paid to the Commissioners on or before 31st March 2007.
+
+**17.** The amendment made by paragraph 34 is disregarded where, for the purpose of paragraph 66 of Schedule 6 to FA 2000[^f00019] (interest payable by the Commissioners), claims made for the repayment of interest relate to an applicable period which ended on or before 31st March 2007.
+
+### 18. Climate change levy: assessments
+
+The amendment made by paragraph 35(2) is disregarded where, for the purposes of paragraph 80(1)(b) of Schedule 6 to FA 2000[^f00020] (time limits for assessments), the end of the prescribed accounting period or the date when the levy is due[^f00021] occurred on or before 31st March 2007.
+
+**19.** The amendments made by paragraph 35(3) are disregarded where, for the purposes of paragraph 80(3) of Schedule 6 to FA 2000[^f00022] (time limits for assessments), the end of the prescribed accounting period occurred on or before 31st March 2007.
+
+**20.** The amendments made by paragraph 35(4) are disregarded where, for the purposes of paragraph 80(4) of Schedule 6 to FA 2000[^f00023] (time limits for assessments), the death occurred on or before 31st March 2007.
+
+**21.** The amendment made by paragraph 36(2) is disregarded where, for the purposes of paragraph 108(1) of Schedule 6 to FA 2000[^f00024] (time limits on penalty assessments), the conduct to which the penalty relates occurred on or before 31st March 2007.
+
+**22.** The amendments made by paragraph 36(3) are disregarded where, for the purposes of paragraph 108(2) of Schedule 6 to FA 2000[^f00025] (time limits on penalty assessments), the conduct to which the penalty relates occurred on or before 31st March 2007.
+
+**23.** The amendments made by paragraph 36(4) are disregarded where, for the purposes of paragraph 108(3) of Schedule 6 to FA 2000[^f00026] (time limits on penalty assessments), the death was on or before 31st March 2007.
+
+### 24. Landfill tax: claims
+
+The amendment made by paragraph 38 is disregarded where claims made under paragraph 14 of Schedule 5 to FA 1996[^f00027] (recovery of overpaid tax) are for the repayment of an amount paid to the Commissioners on or before 31st March 2007.
+
+**25.** The amendment made by paragraph 39 is disregarded where claims made under paragraph 29 of Schedule 5 to FA 1996[^f00028] (interest payable by the Commissioners) relate to an applicable period which ends on or before 31st March 2007.
+
+### 26. Landfill tax: assessments
+
+The amendments made by paragraph 40(2), (3) and (4) are disregarded where, for the purposes of paragraph 33(1) and (3) of Schedule 5 to FA 1996[^f00029] (assessments: time limits), the “relevant event” occurred on or before 31st March 2007.
+
+**27.** The amendments made by paragraph 40(5) are disregarded where, for the purposes of paragraph 33(4) of Schedule 5 to FA 1996[^f00030] (assessments: time limits), the “relevant event” occurred on or before 31st March 2007.
+
+**28.** The amendments made by paragraph 40(6) are disregarded where, for the purposes of paragraph 33(5) of Schedule 5 to FA 1996[^f00031] (assessments: time limits), the death occurred on or before 31st March 2007.
+
+Dave Watts
+
+Steve McCabe
+
+Two of the Lords Commissioners of Her Majesty’s Treasury
+
+18th March 2010
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order appoints the days on which the amendments made by section 99 of and Schedule 51 to the Finance Act [2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10) (“Schedule 51”) come into force. It also contains transitional provisions. Schedule 51 aligns the time limits to four years in most cases for assessments and claims, etc. across aggregates levy, climate change levy, inheritance tax, insurance premium tax, landfill tax, petroleum revenue tax and stamp duty land tax.
+
+Article 2(1) appoints 1st April 2010 as the day on which the amendments made by paragraphs 1 to 4 and 27 to 43 of Schedule 51 come into force. These paragraphs make changes to time limits and associated amendments (subject to the transitional provisions contained in Part 2 of this Order) for insurance premium tax, aggregates levy, climate change levy, landfill tax and also make minor and consequential provision.
+
+Article 2(2) appoints 1st April 2011 as the day on which the amendments made by paragraphs 5 to 26 of Schedule 51 come into force (subject to the transitional provisions contained in Part 2 of this Order). These paragraphs make changes to inheritance tax, stamp duty land tax and petroleum revenue tax.
+
+Articles 3 to 5 contain transitional provisions for the purposes of changes to insurance premium tax time limits. These ensure that the changes do not allow assessments and claims, etc. that are already out of time on 31st March 2011 to be brought back into time and that the changes do not cause assessments and claims, etc. that are in time or not time-barred on 31st March 2011 to be out of time.
+
+Article 6 contains transitional provision for the purpose of changes to section 240(2) IHTA 1984. It ensures that the period for the commencement of proceedings in any case where a loss of tax was brought about deliberately is not extended under the new rules where a chargeable transfer took place on or before 31st March 2011.
+
+Article 7 contains transitional provisions for the purposes of changes to stamp duty land tax, specifically paragraph 8 of Schedule 14 to FA 2003. It ensures that the period for the commencement of proceedings in any case where a person is liable to a penalty involving a loss of tax arising in one of the specified circumstances is not extended under the new rules where that penalty was incurred on or before 31st March 2011.
+
+Articles 8 to 28 contain transitional provisions for the purposes of changes to aggregates levy, climate change levy and landfill tax time limits. These ensure that the changes do not allow assessments and claims that are already out of time on 31st March 2011 to be brought back into time and that the changes do not cause assessments and claims, etc. that are in time or not time-barred on 31st March 2011 to be out of time.
+
+A full impact assessment has not been produced for this instrument as no impact on the private or voluntary sectors is foreseen.
+
+## Annotations
+
+[^f00001]: Footnote: [2009 c. 10](https://www.legislation.gov.uk/ukpga/2009/10).
+
+[^f00002]: Footnote: See section 126(2) of the Finance Act 2009 and section 11 of the Interpretation Act 1978.
+
+[^f00003]: Footnote: [1984 c. 51](https://www.legislation.gov.uk/ukpga/1984/51). By virtue of section 100(1) and (2) of the [Finance Act 1986(c. 41)](https://www.legislation.gov.uk/ukpga/1986/41), on and after 25th July 1986 the Capital Transfer Tax Act 1984 may be cited as the Inheritance Tax Act 1984, and any reference in that Act to capital transfer tax is to have effect as a reference to inheritance tax, except where the reference relates to a liability to tax arising before 25th July 1986. See section 126(1) of the Finance Act 2009 and section 11 of the Interpretation Act [1978 (c. 30)](https://www.legislation.gov.uk/ukpga/1978/30).
+
+[^f00004]: Footnote: [1994 c. 9](https://www.legislation.gov.uk/ukpga/1994/9); sub-paragraphs (4) and (5) of paragraph 8 of Schedule 7 were substituted for sub-paragraph (4) by paragraph 5(2) of Schedule 5 to the Finance Act [1997 (c. 16)](https://www.legislation.gov.uk/ukpga/1997/16). Sub-paragraph (4) was amended by section 99(1) of, and paragraphs 1 and 2 of Schedule 51 to, the Finance Act 2009.
+
+[^f00005]: Footnote: In paragraph 22, sub-paragraph (1A) was inserted, and sub-paragraphs (9) and (10) were substituted, with retrospective effect, by section 50 of, and paragraph 9 of Schedule 5 to, the Finance Act 1997. Sub-paragraph (2) was amended by section 197(6)(c) and (7) of the Finance Act [1996 (c. 8)](https://www.legislation.gov.uk/ukpga/1996/8). Sub-paragraphs (5), (5A) and (6) were substituted for sub-paragraphs (5) to (7) by section 50 of, and paragraph 10 of Schedule 5 to, the Finance Act 1997. Sub-paragraph (9) was amended by section 99(1) of, and paragraphs 1 and 3 of Schedule 51 to, the Finance Act 2009.
+
+[^f00006]: Footnote: Paragraph 26 was amended by section 50 of, and paragraph 6 of Schedule 5 to, the Finance Act 1997. Sub-paragraph (1) was amended by section 99(1) of, and paragraphs 1, 4(1) and (2) of Schedule 51 to, the Finance Act 2009. Sub-paragraph (1A) was inserted by section 99(1) of, and paragraphs 1 and 4 (1) and (3) of Schedule 51 to, the Finance Act 2009. Sub-paragraph (3) was amended by section 99(1) of, and paragraphs 1 and 4 (1) and (4) of Schedule 51 to, the Finance Act 2009. Sub-paragraphs (4) and (4A) were substituted for sub-paragraph (4) by section 99(1) of, and paragraphs 1 and 4(1) and (5) of Schedule 51 to, the Finance Act 2009.
+
+[^f00007]: Footnote: [1984 c. 51](https://www.legislation.gov.uk/ukpga/1984/51); subsection (2) was amended by section 99(1) of, and paragraphs 5 and 11(1) and (2) of Schedule 51 to, the Finance Act 2009.
+
+[^f00008]: Footnote: Subsections (3) to (8) were substituted for sub-paragraph (3) by section 99(1) of, and paragraphs 5 and 11(1) and (3) of Schedule 51 to, the Finance Act 2009.
+
+[^f00009]: Footnote: [2003 c. 14](https://www.legislation.gov.uk/ukpga/2003/14); sub-paragraph (4B) of paragraph 8 to Schedule 14 was inserted by section 99(1) of, and paragraph 16(1) and (4) of Schedule 51 to, the Finance Act 2009; there are other amendments to Part 4 but none is relevant.
+
+[^f00010]: Footnote: [2001 c. 9](https://www.legislation.gov.uk/ukpga/2001/9); section 32(1) was amended by section 99(1) of, and paragraphs 27 and 28 of Schedule 51 to, the Finance Act 2009.
+
+[^f00011]: Footnote: Paragraph 2 was amended by section 99(1) of, and paragraphs 27 and 30 of Schedule 51 to, the Finance Act 2009.
+
+[^f00012]: Footnote: Sub-paragraph (1)(b) was amended by section 99(1) of, and paragraphs 27 and 29 (1) and (2) of Schedule 51 to, the Finance Act 2009.
+
+[^f00013]: Footnote: Sub-paragraph (3) was amended by section 99(1) of, and paragraphs 27 and 29 (1) and (3) of Schedule 51 to, the Finance Act 2009.
+
+[^f00014]: Footnote: Sub-paragraph (4) was amended by section 99(1) of, and paragraphs 27 and 29 (1) and (4) of Schedule 51 to, the Finance Act 2009.
+
+[^f00015]: Footnote: Sub-paragraph (1) was amended by section 99(1) of, and paragraphs 27 and 31 (1) and (2) of Schedule 51 to, the Finance Act 2009.
+
+[^f00016]: Footnote: Sub-paragraphs (2) and (2A) were substituted for sub-paragraph (2) by section 99(1) of, and paragraphs 27 and 31(1) and (3) of Schedule 51 to, the Finance Act 2009.
+
+[^f00017]: Footnote: Sub-paragraph (3) was amended by section 99(1) of, and paragraphs 31(1) and (4) of Schedule 51 to, the Finance Act 2009.
+
+[^f00018]: Footnote: [2000 c. 17](https://www.legislation.gov.uk/ukpga/2000/17); sub-paragraph (1) was amended by section 99(1) of, and paragraphs 32 and 34 of Schedule 51 to, the Finance Act 2009.
+
+[^f00019]: Footnote: Paragraph 66(10) was amended by section 99(1) of, and paragraphs 32 and 34 of Schedule 51 to, the Finance Act 2009.
+
+[^f00020]: Footnote: Sub-paragraph (1)(b) was amended by section 99(1) of, and paragraphs 32 and 35(1) and (2) of Schedule 51 to, the Finance Act 2009.
+
+[^f00021]: Footnote: See paragraph 91(5) of Schedule 6 to the Finance Act 2000.
+
+[^f00022]: Footnote: Sub-paragraphs (3) and (3A) were substituted for sub-paragraph (3) by section 99(1) of, and paragraphs 32 and 35(1) and (3) of Schedule 51 to, the Finance Act 2009.
+
+[^f00023]: Footnote: Sub-paragraph (4) was amended by section 99(1) of, and paragraphs 32 and 35(1) and (4) of Schedule 51 to, the Finance Act 2009.
+
+[^f00024]: Footnote: Sub-paragraph (1) was amended by section 99(1) of, and paragraphs 32 and 36(1) and (2) of Schedule 51 to, the Finance Act 2009.
+
+[^f00025]: Footnote: Sub-paragraph (2) and (2A) were substituted for sub-paragraph (2) by section 99(1) of, and paragraphs 32 and 36(1) and (3) of Schedule 51 to, the Finance Act 2009.
+
+[^f00026]: Footnote: Sub-paragraph (3) was amended by section 99(1) of, and paragraphs 32 and 46(1) and (4) of Schedule 51 to, the Finance Act 2009.
+
+[^f00027]: Footnote: [1996 c. 8](https://www.legislation.gov.uk/ukpga/1996/8); paragraph 14(4) was substituted by section 50 of, and paragraph 5(3) of Schedule 5 to, the Finance Act 1997. Paragraph 14(4) was amended by section 99(1) of, and paragraphs 37 and 40(1) and (6) of Schedule 51 to, the Finance Act 2009.
+
+[^f00028]: Footnote: Sub-paragraph (1A) was inserted, and sub-paragraphs (8) and (9) were substituted, with retrospective effect, by section 50 of, and paragraph 11 of Schedule 5 to, the Finance Act 1997. Sub-paragraphs (4), (4A) and (5) were substituted, for paragraphs (4) to (6) as originally enacted, in relation to determining whether any period beginning on or after 19 March 1997 is left out of account, by section 50 of, and paragraph 12 of Schedule 5 to, the Finance Act 1997. Sub-paragraph (8) was amended by section 99(1) of, and paragraphs 37 and 39 of Schedule 51 to, the Finance Act 2009.
+
+[^f00029]: Footnote: Sub-paragraphs (1) and (3) were amended by section 99(1) of, and paragraphs 37 and 40(1), (2) and (4) of Schedule 51 to, the Finance Act 2009. Sub-paragraph (1A) was inserted by section 99(1) of, and paragraphs 37 and 40(1) and (3) of Schedule 51 to the Finance Act 2009.
+
+[^f00030]: Footnote: Sub-paragraph (4) was amended by section 50 of, and paragraphs 6(1) and (2)(c) of Schedule 5 to, the Finance Act 1997. Subsections (4) and (4A) were substituted for subsection (4) by paragraphs 37 and 40(1) and (5) of Schedule 51 to the Finance Act 2009.
+
+[^f00031]: Footnote: Sub-paragraph (5) was amended by section 99(1) of, and paragraphs 37, and 40(1) and (6) of Schedule 51 to the Finance Act 2009.

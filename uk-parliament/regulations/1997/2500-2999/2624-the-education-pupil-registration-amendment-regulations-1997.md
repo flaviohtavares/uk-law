@@ -1,0 +1,154 @@
+---
+title: The Education (Pupil Registration) (Amendment) Regulations 1997
+id: uksi/1997/2624
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised-with-pending-changes
+made_date: '1997-10-29'
+text_date: '1997-10-29'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/1997/2624
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1997/2624/data.pdf
+pending_changes: 7
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Education (Pupil Registration) (Amendment) Regulations 1997
+
+> **Warning: changes not yet applied to this text (7).** Text as at 1997-10-29. See https://www.legislation.gov.uk/changes/affected/uksi/1997/2624
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+**Not yet in force.**
+
+1997 No. 2624
+
+EDUCATION, ENGLAND AND WALES
+
+The Education (Pupil Registration) (Amendment) Regulations 1997
+
+Made
+
+29th October 1997
+
+Laid before Parliament
+
+6th November 1997
+
+Coming into force
+
+1st January 1998
+
+In exercise of the powers conferred by sections 434 and 551 of the Education Act 1996[^f00001], the Secretary of State for Education and Employment, as respects England, and the Secretary of State for Wales, as respects Wales, hereby make the following Regulations:
+
+## 1. Citation and commencement[^key-f7055a87a26dec9700de1cf74d749820]
+
+These Regulations may be cited as the Education (Pupil Registration) (Amendment) Regulations 1997 and shall come into force on 1st January 1998.
+
+## 2. Amendments[^key-938415ddf9f069b9fe4df6233dae224b]
+
+The Education (Pupil Registration) Regulations 1995[^f00002] shall be amended in accordance with regulations 3 to 6 below.
+
+**3.**[^key-b94a8fc1510158406ab2748242e6be1a] —In regulation 7 (contents of attendance register)—
+
+(1) in paragraph (1) for the words “morning and afternoon” there shall be substituted the words “morning session and once during each afternoon”;
+
+(2) for sub-paragraph (1)(a) there shall be substituted the following sub-paragraph—
+
+> - (a) in the case of every pupil whose name is entered in and not deleted from the admission register whether the pupil is present, absent or attending an approved educational activity within paragraph (4A);
+
+;
+
+(3) after sub-paragraph (1)(b) there shall be inserted the following sub-paragraph—
+
+> - (c) in the case of any such pupil of compulsory school age who is attending an approved educational activity the nature of that activity:
+
+(4) in paragraph (4) for the words “commencement of a session” there shall be substituted the words “time when the register is taken”;
+
+(5) after paragraph 4 there shall be inserted the following paragraph—
+
+> (4A) An approved educational activity is an activity which takes place outside the school premises and which is—
+>
+> - (a) approved by a person authorised in that behalf by the proprietor of the school;
+> - (b) of an educational nature, including work experience under section 560 of the Education Act 1996 and a sporting activity; and
+> - (c) supervised by a person authorised in that behalf by the proprietor or the head teacher of the school.
+
+.
+
+**4.**[^key-07dd5dc36b66e1375761daff0436f525] In regulation 8 (leave of absence) sub-paragraph (2)(a) shall be omitted.
+
+**5.**[^key-7e306a9a1134af5e553edfa4d1dd97aa] In regulation 9 (deletions from admission register) after sub-paragraph (9)(1)(g) there shall be inserted the following sub-paragraph—
+
+> - (ga) that he has been continuously absent from the school for a period of not less than four weeks and he is detained in pursuance of a final order made by a court or of an order of recall made by the Secretary of State.
+
+.
+
+**6.**[^key-8afb937b0ce4ee62bc67a63e70a39707] —In regulation 10 (dual registration)—
+
+(1) after paragraph (3) there shall be inserted the following paragraphs—
+
+> (3A) This paragraph applies to a pupil who
+>
+> - (a) has no fixed abode for the reason that his parent is engaged in a trade or business of such a nature as to require him to travel from place to place; and
+> - (b) is at any time registered as a pupil at two or more schools.
+>
+> (3B) The name of a pupil to whom paragraph (3A) applies shall not be deleted from the register of a school pursuant to regulation 9(1)(b) while he is attending that school.
+>
+> (3C) The name of a pupil to whom paragraph (3A) applies shall not be deleted from that pupil’s school of ordinary attendance pursuant to regulation 9(1)(b).
+>
+> (3D) Subject to paragraph (3E), for the purposes of paragraph (3C), a school shall be a pupil’s school of ordinary attendance if, during the immediately preceding 18 months, it is the school which the pupil has attended during periods when his parent is not travelling in the course of trade or business.
+>
+> (3E) In any case in which two or more schools fulfil the definition of a school of ordinary attendance in paragraph (3D), paragraph (3C) shall apply only in respect of the school which fulfils the definition most recently.
+
+; and
+
+(2) in paragraph (4) the number “(3E)” shall be substituted for the number “(3)”.
+
+Estelle Morris
+
+Parliamentary Under-Secretary of State,
+
+Department for Education and Employment
+
+28th October 1997
+
+Ron Davies
+
+Secretary of State for Wales
+
+29th October 1997
+
+(This note is not part of the Regulations)
+
+These Regulations amend the Education (Pupil Registration) Regulations 1995.
+
+Regulation 3 provides that when a pupil is attending an approved educational activity outside the school premises the school’s attendance register must be marked accordingly. The nature of that activity must also be recorded. It also provides that the taking of the attendance register in the afternoon can be done at any time during the afternoon session.
+
+Regulation 4 removes work experience in the last year of compulsory schooling (as permitted by section 560 of the Education Act 1996) from the categories of employment requiring leave of absence. Work experience is now an approved educational activity in accordance with Regulation 3.
+
+Regulation 5 provides that the name of pupil may be deleted from the admission register where that pupil has been continuously absent for four weeks and is detained under a final court order or an order of recall.
+
+Regulation 6 allows the children of traveller families to be registered both at a base school which they normally attend and at another school for the time being.
+
+## Annotations
+
+[^f00001]: Footnote: [1996 c. 56](https://www.legislation.gov.uk/ukpga/1996/56).
+
+[^key-f7055a87a26dec9700de1cf74d749820]: Commencement: Reg. 1 in force at 1.1.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1997/2624/regulation/1)
+
+[^key-938415ddf9f069b9fe4df6233dae224b]: Commencement: Reg. 2 in force at 1.1.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1997/2624/regulation/1)
+
+[^f00002]: Footnote: S.I. [1995/2089](https://www.legislation.gov.uk/uksi/1995/2089).
+
+[^key-b94a8fc1510158406ab2748242e6be1a]: Commencement: Reg. 3 in force at 1.1.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1997/2624/regulation/1)
+
+[^key-07dd5dc36b66e1375761daff0436f525]: Commencement: Reg. 4 in force at 1.1.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1997/2624/regulation/1)
+
+[^key-7e306a9a1134af5e553edfa4d1dd97aa]: Commencement: Reg. 5 in force at 1.1.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1997/2624/regulation/1)
+
+[^key-8afb937b0ce4ee62bc67a63e70a39707]: Commencement: Reg. 6 in force at 1.1.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1997/2624/regulation/1)

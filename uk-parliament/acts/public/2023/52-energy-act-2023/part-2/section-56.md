@@ -1,0 +1,59 @@
+---
+title: Energy Act 2023, section 56
+act: Energy Act 2023
+section: '56'
+status: revised
+text_date: '2026-09-30'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2023/52/section/56
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Energy Act 2023, section 56
+
+> Text as at 2026-09-30.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 56. Chapter 1: interpretation[^key-176ad385fe2d338001f5b7a1bd3ae503]
+
+*Extent: E+W+S+N.I.*
+
+(1) In this Chapter—
+
+- “**allocation body**” has the meaning given by section 73(6)(d);
+- “**allocation notification**” has the meaning given by section 75(3);
+- “**carbon capture allocation body**” has the meaning given by section 73(6)(b);
+- “**carbon capture counterparty**” has the meaning given by section 67(3);
+- “**carbon capture entity**” has the meaning given by section 67(7);
+- “**carbon capture revenue support contract**” has the meaning given by section 67(2);
+- “**carbon dioxide transport and storage counterparty**” has the meaning given by section 59(3);
+- “**carbon dioxide transport and storage revenue support contract**” has the meaning given by section 59(2);
+- “**eligible carbon capture entity**” is to be interpreted in accordance with regulations by virtue of section 68(4);
+- “**eligible hydrogen storage provider**” is to be interpreted in accordance with section 64(4);
+- “**eligible hydrogen transport provider**” is to be interpreted in accordance with section 62(4);
+- “**eligible low carbon hydrogen producer**” is to be interpreted in accordance with regulations by virtue of section 66(4);
+- “**GB gas shipper**” means a person who holds a licence under section 7A(2) of the Gas Act 1986;
+- “**hydrogen levy administrator**” has the meaning given by section 69(6);
+- “**hydrogen production allocation body**” has the meaning given by section 73(6)(a);
+- “**hydrogen production counterparty**” has the meaning given by section 65(3);
+- “**hydrogen production revenue support contract**” has the meaning given by section 65(2);
+- “**hydrogen storage counterparty**” has the meaning given by section 63(3);
+- “**hydrogen storage provider**” has the meaning given by section 63(7);
+- “**hydrogen storage revenue support contract**” has the meaning given by section 63(2);
+- “**hydrogen transport counterparty**” has the meaning given by section 61(3);
+- “**hydrogen transport provider**” has the meaning given by section 61(7);
+- “**hydrogen transport revenue support contract**” has the meaning given by section 61(2);
+- “**low carbon hydrogen producer**” has the meaning given by section 65(7);
+- “**Northern Ireland gas shipper**” means a person who holds a licence under Article 8(1)(c) of the Gas (Northern Ireland) Order 1996 ([S.I. 1996/275 (N.I. 2))](https://www.legislation.gov.uk/nisi/1996/275) and who in the opinion of the Secretary of State carries on an activity which is similar to an activity that (in Great Britain) may be authorised by a licence under section 7A(2) of the Gas Act 1986;
+- “**relevant market participant**” has the meaning given by section 70(8);
+- “**revenue support contract**” has the meaning given by section 57(2);
+- “**revenue support counterparty**” has the meaning given by section 58(6);
+- “**revenue support regulations**” has the meaning given by section 57(4).
+
+(2) In this Chapter references to “allocating” a hydrogen production revenue support contract or carbon capture revenue support contract to a person are to be interpreted in accordance with section 73(6).
+
+## Annotations
+
+[^key-176ad385fe2d338001f5b7a1bd3ae503]: Commencement: [S. 56](https://www.legislation.gov.uk/ukpga/2023/52/section/56) in force at Royal Assent, see [s. 334(2)(a)(i)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/a/i)

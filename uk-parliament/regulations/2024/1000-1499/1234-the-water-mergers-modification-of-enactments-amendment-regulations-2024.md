@@ -1,0 +1,228 @@
+---
+title: The Water Mergers (Modification of Enactments) (Amendment) Regulations 2024
+id: uksi/2024/1234
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2024-11-25'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2024/1234
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2024/1234/pdfs/uksiem_20241234_en_001.pdf
+- http://www.legislation.gov.uk/uksi/2024/1234/pdfs/uksi_20241234_en.pdf
+- http://www.legislation.gov.uk/uksi/2024/1234/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Water Mergers (Modification of Enactments) (Amendment) Regulations 2024
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2024 No. 1234
+
+COMPETITION
+
+WATER INDUSTRY, ENGLAND AND WALES
+
+The Water Mergers (Modification of Enactments) (Amendment) Regulations 2024
+
+Made
+
+25th November 2024
+
+Laid before Parliament
+
+29th November 2024
+
+Coming into force
+
+1st January 2025
+
+The Secretary of State makes these Regulations in exercise of the powers conferred by section 213(2)(f) of, and paragraph 1 of Schedule 4ZA to, the Water Industry Act 1991[^f00001].
+
+## 1. Citation, commencement and extent
+
+(1) These Regulations may be cited as the Water Mergers (Modification of Enactments) (Amendment) Regulations 2024 and come into force on 1st January 2025.
+
+(2) These Regulations extend to England and Wales.
+
+## 2. Amendment of the Water Mergers (Modification of Enactments) Regulations 2004
+
+The Water Mergers (Modification of Enactments) Regulations 2004[^f00002] are amended as set out in these Regulations.
+
+## 3. Regulation 3 - Omitted provisions
+
+In regulation 3(1) (omitted provisions), after paragraph (a), insert—
+
+> - (aa) sections 34ZD to 34ZF (fast track reference requests)[^f00003];
+
+.
+
+## 4. Regulation 8 - Section 32: Supplementary provision for purposes of section 25
+
+Omit regulation 8 (section 32: supplementary provision for purposes of section 25)[^f00004].
+
+## 5. Regulation 10ZA - Section 34ZA: Time-limits for decisions about references
+
+In regulation 10ZA (section 34ZA: time-limits for decisions about references)—
+
+- (a) in paragraph (a)(i), for “22 or 33” substitute “22(1) or 33(1)”;
+- (b) after paragraph (a) insert—
+
+  > - (aa) subsection (1A) were omitted[^f00005];
+
+  ;
+- (c) in paragraph (b)(i), for “22 or 33” substitute “22(1) or 33(1)”.
+
+## 6. Regulation 13A - Section 39: Time-limits for investigations and reports
+
+In regulation 13A (section 39: time-limits for investigations and reports), for the words from “as if,” to the end substitute—
+
+> as if—
+>
+> - (a) in subsection (3), for “section 22(1) or 33(1)” there were substituted “section 32(a) or (b) of the 1991 Act”;
+> - (b) subsection (3A)[^f00006] were omitted;
+> - (c) in subsection (7), “, (3A)” were omitted; and
+> - (d) in subsection (8A)[^f00007], for “section 33” there were substituted “section 32(a) of the 1991 Act”.
+
+.
+
+## 7. Regulation 14 - Section 40: Section 39: supplementary
+
+In regulation 14 (section 40: section 39: supplementary), for the words from “as if,” to the end substitute—
+
+> as if—
+>
+> - (a) in subsection (4), “or (3A)” were omitted;
+> - (b) in subsection (5), “, (3A)” were omitted; and
+> - (c) in subsection (10), for “section 22 or 33” there were substituted “section 32(a) or (b) of the 1991 Act”.
+
+.
+
+## 8. Regulation 26 - Section 104: Certain duties of relevant authorities to consult
+
+In regulation 26 (section 104: certain duties of relevant authorities to consult)—
+
+- (a) in paragraph (a), for “22, 33” substitute “22(1), 33(1)”;
+- (b) omit the “and” after paragraph (a);
+- (c) after paragraph (a) insert—
+
+  > - (aa) in sub-paragraph (ii) of paragraph (a), for “section 22, 33, 68B or 68C” there were substituted “section 32(a) or (b) of the 1991 Act”; and
+
+  .
+
+## 9. Regulation 29 - Section 107: Further publicity requirements
+
+In regulation 29 (section 107: further publicity requirements), in paragraph (a)—
+
+- (a) in sub-paragraph (i)—
+  - (i) for “paragraphs (a) and (b)” substitute “paragraph (a)”;
+  - (ii) for “22, 33” substitute “22(1), 33(1)”;
+- (b) omit the “and” after sub-paragraph (i);
+- (c) after sub-paragraph (ii) insert—
+
+  > - (iia) paragraph (aaa) were omitted[^f00008];
+
+  ;
+- (d) after paragraph (iii) insert—
+
+  > - (iiia) in paragraph (b), for “section 22, 33, 68B or 68C” there were substituted “section 32(a) or (b) of the 1991 Act”;
+
+  .
+
+## 10. New regulations 30ZA and 30ZB
+
+After regulation 30 insert—
+
+> **30ZA. Section 109B: Extra-territorial application of notices under section 109**
+>
+> Section 109B (extra-territorial application of notices under section 109)[^f00009] has effect as if, in subsection (3)(a), for the words from “section 22, 33, 45, 62, 62B or 68C” to “section 70A(1),” there were substituted “section 32(a) or (b) of the 1991 Act”.
+>
+> **30ZB. Section 110: Enforcement of powers under section 109: imposition of penalties**
+>
+> Section 110 (enforcement of powers under section 109: imposition of penalties) has effect as if—
+>
+> - (a) in subsection (1A)(a) and (b)[^f00010], after the word “Part” there were inserted “or section 32 of the 1991 Act”;
+> - (b) in subsection (1B), paragraphs (b) and (c) were omitted; and
+> - (c) in subsection (9), paragraph (b) were omitted.
+
+.
+
+## 11. Transitional provision
+
+(1) The insertion of new regulation 30ZB into the Water Mergers (Modification of Enactments) Regulations 2004 effected by regulation 10 has no effect in relation to any act or omission of a kind described within section 110(1A) of the Enterprise Act 2002, where such an act or omission occurred—
+
+- (a) before 1st January 2025; or
+- (b) on or after 1st January 2025, but the act or omission occurred in relation to—
+  - (i) a notice under section 109 of the Enterprise Act 2002 (attendance of witnesses and production of documents etc)[^f00011] given before that date; or
+  - (ii) a non-compulsory information request made before that date.
+
+(2) For the purposes of paragraph (1), “**non-compulsory information request**” means a written request—
+
+- (a) made by the CMA[^f00012];
+- (b) addressed to a specific person to provide information relating to the CMA’s functions under Part 3 of the Enterprise Act 2002 or section 32 of the Water Industry Act 1991 (duty to refer merger of water or sewerage undertaking)[^f00013];
+- (c) where that request does not amount to a requirement to provide information imposed under Part 3 of the Enterprise Act 2002.
+
+(3) References in this regulation to provisions of the Enterprise Act 2002 are references to those provisions as applied by virtue of paragraph 1 of Schedule 4ZA to the Water Industry Act 1991.
+
+Justin Madders
+
+Parliamentary Under-Secretary of State for Employment Rights, Competition and Markets
+
+Department for Business and Trade
+
+25th November 2024
+
+Explanatory Note
+
+(This note is not part of the Regulations)
+
+These Regulations amend the Water Mergers (Modification of Enactments) Regulations 2004 ([S.I. 2004/3202](https://www.legislation.gov.uk/uksi/2004/3202)) (“**the 2004 Regulations**”).
+
+Part 3 of the Enterprise Act 2002 contains the main statutory scheme for the regulation of mergers. Sections 32 to 35 of, and Schedule 4ZA to, the Water Industry Act [1991 (c. 56)](https://www.legislation.gov.uk/ukpga/1991/56) provide a separate scheme for the regulation of mergers between water or sewerage enterprises in England and Wales. Paragraph 1 of Schedule 4ZA provides that Part 3 of the Enterprise Act 2002 applies to water mergers with such modifications as may be prescribed by the Secretary of State. These modifications are set out in the 2004 Regulations.
+
+The Digital Markets, Competition and Consumers Act [2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13) (“**DMCCA**”) makes amendments to Part 3 of the Enterprise Act 2002. These include, for example, amendments to enable the Competition and Markets Authority (“**CMA**”) to fast-track a merger to an in-depth Phase 2 investigation if it receives a request from the parties involved in a merger to do so (section 128 of, and Schedule 5 to, the DMCCA). It also amends Part 3 of the Enterprise Act 2002 to create new turnover based civil penalties for breaches of investigative measures (section 143(1)(b) of, and Part 2 of Schedule 10 to, the DMCCA) and for breaches of remedies in relation to mergers, i.e., breaches of an undertaking accepted or order made under that Part (section 143(2)(b) of, and Part 2 of Schedule 11 to, the DMCCA).
+
+These Regulations amend the modifications made by the 2004 Regulations to Part 3 of the Enterprise Act 2002 to reflect and, where appropriate, vary the amendments made by the DMCCA in their application to water mergers.
+
+Regulations 3 and 5 to 9 make amendments to ensure that provisions in Part 3 of the Enterprise Act 2002 relating to the new fast-track process do not apply to water mergers.
+
+Regulation 4 reflects the repeal by the DMCCA of section 32 of the Enterprise Act 2002 (in connection with changes to the definition of “**working day**” for the purposes of Part 3 of that Act).
+
+Regulation 10 ensures that the new provision in Part 3 of the Enterprise Act 2002 relating to the territorial extent of information notices under that Part and the new civil penalties powers apply to water mergers.
+
+Regulation 11 makes transitional provision ensuring that the modification inserted into the 2004 Regulations by regulation 10, concerning the imposition of civil penalties for the breach of investigative measures, does not apply in relation to information supplied in response to information notices given under section 109 of the Enterprise Act 2002 before 1st January 2025 or to a non-compulsory request for information made by the CMA before that date.
+
+A full impact assessment has not been produced for this instrument as no, or no significant, impact on the private, voluntary sector or community bodies is foreseen.
+
+## Annotations
+
+[^f00001]: Footnote: [1991 c. 56](https://www.legislation.gov.uk/ukpga/1991/56). Schedule 4ZA was inserted by section 70(2) of, and Schedule 6 to, the Enterprise Act [2002 (c. 40)](https://www.legislation.gov.uk/ukpga/2002/40). See section 219(1) of the Water Industry Act 1991 for the definition of “prescribed”.
+
+[^f00002]: Footnote: [S.I. 2004/3202](https://www.legislation.gov.uk/uksi/2004/3202), amended by [S.I. 2014/549](https://www.legislation.gov.uk/uksi/2014/549), [2015/1936](https://www.legislation.gov.uk/uksi/2015/1936), [2019/93](https://www.legislation.gov.uk/uksi/2019/93), [2023/1185](https://www.legislation.gov.uk/uksi/2023/1185) and [2024/840](https://www.legislation.gov.uk/uksi/2024/840).
+
+[^f00003]: Footnote: Sections 34ZD to 34ZF were inserted into the Enterprise Act 2002 by paragraph 7 of Schedule 5 to the Digital Markets, Competition and Consumers Act [2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13).
+
+[^f00004]: Footnote: Section 32 of the Enterprise Act 2002 was repealed by section 146(2)(b) of the Digital Markets, Competition and Consumers Act 2024. Section 146(5) of that Act inserted a new definition of “working day” into section 129(1) of the Enterprise Act 2002 (other interpretative provisions).
+
+[^f00005]: Footnote: Subsection (1A) was inserted into section 34ZA of the Enterprise Act 2002 by paragraph 4 of Schedule 5 to the Digital Markets, Competition and Consumers Act 2024. Section 34ZA was inserted by paragraph 4 of Schedule 8 to the Enterprise and Regulatory Reform Act [2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24).
+
+[^f00006]: Footnote: Subsection (3A) was inserted into section 39 of the Enterprise Act 2002 by paragraph 8 of Schedule 5 to the Digital Markets, Competition and Consumers Act 2024.
+
+[^f00007]: Footnote: Subsection (8A) was inserted into section 39 of the Enterprise Act 2002 by paragraph 5 of Schedule 8 to the Enterprise and Regulatory Reform Act 2013.
+
+[^f00008]: Footnote: Paragraph (aaa) was inserted into section 107(1) of the Enterprise Act 2002 by paragraph 14 of Schedule 5 to the Digital Markets, Competition and Consumers Act 2024.
+
+[^f00009]: Footnote: Section 109B was inserted into the Enterprise Act 2002 by paragraph 16 of Schedule 13 to the Digital Markets, Competition and Consumers Act 2024.
+
+[^f00010]: Footnote: Subsections (1A) and (1B) were inserted into section 110 of the Enterprise Act 2002 by paragraph 15 of Schedule 10 to the Digital Markets, Competition and Consumers Act 2024.
+
+[^f00011]: Footnote: Section 109 was amended by section 29 of, and paragraph 143 of Schedule 5 to, the Enterprise and Regulatory Reform Act [2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), paragraph 27 of Schedule 16 to the Energy Act [2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), section 142 of the Digital Markets, Competition and Consumers Act 2024 and [S.I. 2014/892](https://www.legislation.gov.uk/uksi/2014/892). There is another amendment to section 109 which is not relevant to these Regulations.
+
+[^f00012]: Footnote: See section 219(1) of the Water Industry Act 1991 for the definition of “the CMA”.
+
+[^f00013]: Footnote: Section 32 was substituted by section 70 of the Enterprise Act 2002 and amended by section 14 of the Water Act [2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21) and [S.I. 2014/892](https://www.legislation.gov.uk/uksi/2014/892).

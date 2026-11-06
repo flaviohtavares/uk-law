@@ -1,0 +1,38 @@
+---
+title: The Energy Supply Company Administration (Scotland) Rules 2013, section 39
+act: The Energy Supply Company Administration (Scotland) Rules 2013
+section: '39'
+status: as-enacted
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2013/1047/section/39
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Energy Supply Company Administration (Scotland) Rules 2013, section 39
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+## 39. Adjudication of claims
+
+(1) At the commencement of every meeting of creditors, the energy administrator shall, for the purposes of Rule 38 so far as it relates to voting at that meeting, accept or reject the claim of each creditor.
+
+(2) Where funds are available for payment of a dividend out of the assets of the energy supply company in respect of an accounting period, the energy administrator for the purpose of determining who is entitled to such a dividend shall, not later than 4 weeks before the end of the period, accept or reject every claim submitted or deemed to have been re-submitted to the energy administrator under these Rules; and shall at the same time make a decision on any matter requiring to be specified under sub-paragraph (a) or (b) of paragraph (4).
+
+(3) Where the energy administrator rejects a claim, the energy administrator shall forthwith notify the creditor giving reasons for the rejection.
+
+(4) Where the energy administrator accepts or rejects a claim, the energy administrator shall record the decision on the claim in the sederunt book specifying—
+
+- (a) the amount of the claim accepted by the energy administrator;
+- (b) the category of debt, and the value of any security, as decided by the energy administrator, and
+- (c) if the energy administrator is rejecting the claim, the energy administrator’s reasons for doing so.
+
+(5) Any member or creditor may, if dissatisfied with the acceptance or rejection of any claim (or, in relation to such acceptance or rejection, with a decision in respect of any matter requiring to be specified under paragraph (4)(a) or (b) above), appeal to the court–
+
+- (a) if the acceptance or rejection is under paragraph (1) above, within 2 weeks of that acceptance or rejection;
+- (b) if the acceptance or rejection is under paragraph (2) above, not later than 2 weeks before the end of the accounting period,
+
+and the energy administrator shall record the court’s decision in the sederunt book.
+
+(6) Any reference in this Rule to the acceptance or rejection of a claim shall be construed as a reference to the acceptance or rejection of the claim in whole or in part.

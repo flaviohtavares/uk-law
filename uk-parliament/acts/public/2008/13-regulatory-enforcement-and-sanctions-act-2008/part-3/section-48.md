@@ -1,0 +1,33 @@
+---
+title: Regulatory Enforcement and Sanctions Act 2008, section 48
+act: Regulatory Enforcement and Sanctions Act 2008
+section: '48'
+status: revised-with-pending-changes
+text_date: '2026-10-29'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2008/13/section/48
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Regulatory Enforcement and Sanctions Act 2008, section 48
+
+> **Warning: changes not yet applied to this text (8).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/13
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 48. Stop notices: compensation
+
+*Extent: E+W+S+N.I.*
+
+(1) Provision under section 46 conferring power on a regulator to serve a stop notice on a person must include provision for the regulator to compensate the person for loss suffered as the result of the service of the notice.
+
+(2) Provision under subsection (1) may provide for compensation—
+
+- (a) only in prescribed cases;
+- (b) only in relation to prescribed descriptions of loss.
+
+(3) Provision under subsection (1) must secure that the person on whom the stop notice is served is able to appeal against—
+
+- (a) a decision by the regulator not to award compensation, or
+- (b) a decision of the regulator as to the amount of the compensation.

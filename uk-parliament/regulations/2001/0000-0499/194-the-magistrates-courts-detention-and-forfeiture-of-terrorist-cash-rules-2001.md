@@ -1,0 +1,181 @@
+---
+title: The Magistrates' Courts (Detention and Forfeiture of Terrorist Cash) Rules 2001
+id: uksi/2001/194
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2001-01-29'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2001/194
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2001/194/pdfs/uksi_20010194_en.pdf
+- http://www.legislation.gov.uk/uksi/2001/194/made/data.pdf
+pending_changes: 1
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Magistrates' Courts (Detention and Forfeiture of Terrorist Cash) Rules 2001
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2001 No. 194 (L. 6)
+
+MAGISTRATES' COURTS, ENGLAND AND WALES
+
+PROCEDURE
+
+The Magistrates' Courts (Detention and Forfeiture of Terrorist Cash) Rules 2001
+
+Made
+
+29th January 2001
+
+Laid before Parliament
+
+29th January 2001
+
+Coming into force
+
+19th February 2001
+
+The Lord Chancellor, in exercise of the power conferred on him by section 144 of the Magistrates' Courts Act 1980[^f00001], after consultation with the Rule Committee appointed under the said section 144, hereby makes the following Rules:
+
+## 1. Citation, commencement and interpretation
+
+(1) These Rules may be cited as the Magistrates' Courts (Detention and Forfeiture of Terrorist Cash) Rules 2001 and shall come into force on 19th February 2001.
+
+(2) In these Rules,
+
+- (a) “the Act” means the Terrorism Act 2000[^f00002]; and
+- (b) any reference to a form is a reference to a form set out in the Schedule to these Rules.
+
+## 2. Application for continued detention of seized cash
+
+(1) An application under section 26(1) of the Act for an order for continued detention of cash seized under section 25 of that Act shall be made in writing in Form A to a justice of the peace for the petty sessions area in which the cash was seized.
+
+(2) A copy of the written application under paragraph (1) above and notification of the hearing of the application shall be given by the applicant to the person from whom the cash was seized.
+
+(3) A justice of the peace considering an application under section 26(1) of the Act shall require the matters contained in it to be sworn by the applicant under oath, may require the applicant to answer any questions under oath, and may require any statement in response by the person from whom the cash was seized to be made under oath.
+
+(4) The justice of the peace shall record or cause to be recorded in writing the substance of any statements made under oath which are not already recorded in the written application.
+
+## 3. Unattended parcels and other containers
+
+In rules 2 and 6 of these Rules, references to the person from whom the cash was seized include references to the sender and the intended recipient, where this is known, of a letter, parcel, container or other means of unattended dispatch, but a justice of the peace shall not decline to hear an application in such a case solely on the ground that it has not been proved that the sender or intended recipient has received a copy of the written application and notification of hearing under rule 2(2) of these Rules.
+
+## 4. Order for continued detention of seized cash
+
+(1) An order made by a justice of the peace in relation to an application under section 26(1) of the Act shall be in Form B.
+
+(2) Notice of any order mentioned in paragraph (1) above shall be given without delay by the court to the person from whom the cash was seized and to any other person who is affected by, and specified in, the said order. Notice shall be in the form set out in Form B and shall be accompanied by a copy of the order.
+
+## 5. Further applications for continued detention of seized cash and applications for the release of detained cash
+
+(1) An application under section 26(4) of the Act for a further order for the continued detention of cash shall be in Form C and shall be sent to the clerk to the justices for the petty sessions area in which the cash was seized, and to the person from whom the cash was seized and any other person affected by and specified in the order made in relation to the application under section 26(1). The application shall be accompanied by a copy of the order made in relation to the application under section 26(1).
+
+(2) An application under section 27(2) for the release of detained cash shall be made in writing to the clerk of a magistrates' court, and shall specify the grounds on which it is made.
+
+(3) The clerk of the magistrates' court who receives an application in accordance with paragraph (1) or (2) above shall fix a date for the hearing of the application, which, unless the justices' clerk directs otherwise, shall not be earlier than seven days from the date on which it is fixed, and shall notify the applicant and any person to whom notice of the order for continued detention has been given of that date.
+
+(4) At the hearing of an application received in accordance with paragraph (1) or (2) the justice of the peace shall require the matters contained in the application to be sworn by the applicant under oath, may require the applicant to answer any questions under oath, and may require any response from the respondent to the application to be made under oath.
+
+(5) If the court is satisfied that a further order for continued detention of cash should be made under section 26(4) of the Act, it shall endorse the order for continued detention accordingly, and a copy of the order as endorsed shall be given by the clerk of the court to every person to whom notice of the order for continued detention has been given.
+
+## 6. Direction for release of cash
+
+A direction under section 27(3) of the Act for the release of detained cash shall be in Form D, and shall provide for the release of the cash within seven days of the date of the making of the direction or such longer period as with the agreement of the person from whom the cash was seized may be specified in the direction, except that the cash shall not be released whilst section 27(5) of the Act applies.
+
+## 7. Application for forfeiture of detained cash
+
+(1) An application under section 28 of the Act for the forfeiture of detained cash shall be in Form E and shall be addressed to the clerkof the magistrates' court referred to in rule 5(3) of these Rules.
+
+(2) The clerk of the magistrates' court who receives such an application shall fix a date for the hearing and notify the applicant and every person to whom notice of an order for continued detention has been given of the application and the date fixed for the hearing.
+
+(3) At the hearing of an application received in accordance with paragraph (1) the justice of the peace shall require the matters contained in the application to be sworn by the applicant under oath, may require the applicant to answer any questions under oath, and may require any response from the respondent to the application and from any other party heard by the court in accordance with section 28(3) of the Terrorism Act 2000 to be made under oath.
+
+## 8. Order for forfeiture of detained cash
+
+An order for the forfeiture of detained cash made by a justice of the peace under section 28 of the Act shall be in Form F and a copy of the order shall be given to every person to whom notice of the order for continued detention was given and to every party heard by the court in accordance with section 28(3) of the Act when considering the application.
+
+## 9. Release of cash to meet legal expenses in connection with appeal against forfeiture order
+
+(1) An application under section 29(3) of the Act for the release of cash to meet the appellant’s legal expenses in connection with his/her appeal under section 29(1) of the Act shall be made in writing to the magistrates' court which made the order for forfeiture under section 28 of the Act, and shall contain the name and address of the solicitor instructed by the appellant and the amount requested to be released, together with any evidence in support of the application.
+
+(2) The clerk of the magistrates' court who receives such an application shall fix a date for the hearing and notify the applicant and every person to whom a copy of the forfeiture order was given of the date of the hearing.
+
+(3) An order for the release of cash under section 29(3) of the Act shall be in Form G.
+
+## 10. Joinder
+
+At any hearing under sections 26(1), 26(4), 27(2) or 28(1) of the Act, or on the application of any person affected by an order or further order for continued detention, the court may, if it thinks fit, order that any person shall be joined as a party to the proceedings and, if the court so orders otherwise than at such a hearing, the clerk of the magistrates' court shall give notice to the other parties of the joinder.
+
+## 11. Notice
+
+Any notice or copy of any order required to be given to any person under these Rules may be given by post to his/her last known address.
+
+## 12. Procedure at hearings
+
+(1) At the hearing of an application under section 26(1), 26(4), 27(2) or 28(1) of the Act, any person to whom notice of the application has been given may attend and be heard on the question of whether an order or further order of continued detention should be made, an existing order should be discharged or a forfeiture order should be made, as the case may be, but the fact that any such person does not attend shall not prevent the court from hearing the application.
+
+(2) Subject to the foregoing provisions of these Rules, proceedings on such an application shall be regulated in the same manner as proceedings on a complaint, and accordingly for the purposes of these Rules the application shall be deemed to be a complaint, the applicant a complainant, the respondents to be defendants and any notice given by the clerk of a magistrates' court under rule 5(3) or 7(2) of these Rules to be a summons: but nothing in this rule shall be construed as enabling a warrant of arrest to be issued for failure to appear in answer to any such notice.
+
+Irvine of Lairg, *C.*
+
+Dated 29th January 2001
+
+## SCHEDULE
+
+**FORM A**
+
+Application under section 26(1) of the Terrorism Act 2000 for continued detention of seized cash
+
+[image: see source](https://www.legislation.gov.uk/uksi/2001/194/images/uksi_20010194_en_001)
+
+**FORM B**
+
+Order for continued detention of seized cash made in relation to an application under section 26(1) of the Terrorism Act 2000
+
+[image: see source](https://www.legislation.gov.uk/uksi/2001/194/images/uksi_20010194_en_002) [image: see source](https://www.legislation.gov.uk/uksi/2001/194/images/uksi_20010194_en_003)
+
+**FORM C**
+
+Further application for continued detention of seized cash made under section 26(4) of the Terrorism Act 2000
+
+[image: see source](https://www.legislation.gov.uk/uksi/2001/194/images/uksi_20010194_en_004)
+
+**FORM D**
+
+Direction for the release of detained cash made under section 27(3) of the Terrorism Act 2000
+
+[image: see source](https://www.legislation.gov.uk/uksi/2001/194/images/uksi_20010194_en_005)
+
+**FORM E**
+
+Application for forfeiture of detained cash under section 28 of the Terrorism Act 2000
+
+[image: see source](https://www.legislation.gov.uk/uksi/2001/194/images/uksi_20010194_en_006)
+
+**FORM F**
+
+Order for forfeiture of detained cash made in under section 28 of the Terrorism Act 2000
+
+[image: see source](https://www.legislation.gov.uk/uksi/2001/194/images/uksi_20010194_en_007)
+
+**FORM G**
+
+Order under section 29(3) of the Terrorism Act 2000 for the release of detained cash to meet legal expenses
+
+[image: see source](https://www.legislation.gov.uk/uksi/2001/194/images/uksi_20010194_en_008)
+
+(This note is not part of the Rules)
+
+These Rules prescribe the procedure to be followed for applications to a magistrates' court for the detention, further detention, forfeiture or release of cash seized by a constable, customs officer or immigration officer on reasonable suspicion of being related to terrorism in one of the ways listed in section 25 of the Terrorism Act 2000. The Rules also prescribe the forms to be used in connection with the applications and hearings.
+
+## Annotations
+
+[^f00001]: Footnote: [1980 c. 43](https://www.legislation.gov.uk/ukpga/1980/43).
+
+[^f00002]: Footnote: [2000 c. 11](https://www.legislation.gov.uk/ukpga/2000/11).

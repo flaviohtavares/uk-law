@@ -1,0 +1,101 @@
+---
+title: Online Safety Act 2023, section 101
+act: Online Safety Act 2023
+section: '101'
+status: revised-with-pending-changes
+text_date: '2026-09-30'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2023/50/section/101
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Online Safety Act 2023, section 101
+
+> **Warning: changes not yet applied to this text (10).** Text as at 2026-09-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2023/50
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 101. Information in connection with an investigation into the death of a child[^key-5c8e5a577e907b5148a0e3e5626b61e7][^key-7a45d5da2e97718faf727890561a495e]
+
+*Extent: E+W+S+N.I.*
+
+(A1)[^key-e04659a2da84bf23248175d14ed1207f] Subsection (C1) applies if a senior coroner (in England and Wales), a procurator fiscal (in Scotland) or a coroner (in Northern Ireland) (“**the investigating authority**”)—
+
+- (a) notifies OFCOM that they are conducting an investigation in connection with the death of a child, and
+- (b) provides OFCOM with the details in subsection (B1).
+
+(B1) The details are—
+
+- (a) the name of the child who has died,
+- (b) the child’s date of birth,
+- (c) any email addresses used by the child (so far as the investigating authority knows), and
+- (d) if any regulated service has been brought to the attention of the investigating authority as being of interest in connection with the child’s death, the name of the service.
+
+(C1) Where this subsection applies, OFCOM—
+
+- (a) must give a notice to the provider of a service within subsection (E1) requiring the provider to ensure the retention of information relating to the use of the service by the child who has died, and
+- (b) may give a notice to any other relevant person requiring the person to ensure the retention of information relating to the use of a service within subsection (E1) by that child.
+
+(D1) The references in subsection (C1) to ensuring the retention of information relating to the child’s use of a service include taking all reasonable steps, without delay, to prevent the deletion of such information by the routine operation of systems or processes.
+
+(E1) A service is within this subsection if it is—
+
+- (a) a regulated service of a kind described in regulations made by the Secretary of State, or
+- (b) a regulated service notified to OFCOM by the investigating authority as described in subsection (B1)(d).
+
+(F1) A notice under subsection (C1) may require information described in that subsection to be retained only if it is information—
+
+- (a) of a kind which OFCOM have power to require under a notice under subsection (1) (see, in particular, subsection (2)(a) to (d)), or
+- (b) which a person might need to retain to enable the person to provide information in response to a notice under subsection (1) (if such a notice were given).
+
+(G1) OFCOM must share with the investigating authority any information they receive in response to requirements mentioned in section 102(5A)(d) that are included in a notice under subsection (C1).
+
+(H1)[^key-e5096df9193f5defc26a5b93af41522e] Regulations under subsection (E1)(a) may make provision by reference to a document as amended from time to time.
+
+(1) OFCOM may by notice under this subsection require a relevant person to provide them with information for the purpose of—
+
+- (a) responding to a notice given by a senior coroner under paragraph 1(2) of Schedule 5 to the Coroners and Justice Act 2009 in connection with an investigation into the death of a child, or preparing a report under section 163 in connection with such an investigation;
+- (b) responding to a request for information in connection with the investigation of a procurator fiscal into, or an inquiry held or to be held in relation to, the death of a child, or preparing a report under section 163 in connection with such an inquiry;
+- (c) responding to a notice given by a coroner under section 17A(2) of the [Coroners Act (Northern Ireland) 1959 (c. 15 (N.I.))](https://www.legislation.gov.uk/apni/1959/15) in connection with—
+  - (i) an investigation to determine whether an inquest into the death of a child is necessary, or
+  - (ii) an inquest in relation to the death of a child,
+
+  or preparing a report under section 163 in connection with such an investigation or inquest.
+
+(2) The power conferred by subsection (1) includes power to require a relevant person to provide OFCOM with information about the use of a regulated service by the child whose death is under investigation, including, in particular—
+
+- (a) content encountered by the child by means of the service,
+- (b) how the content came to be encountered by the child (including the role of algorithms or particular functionalities),
+- (c) how the child interacted with the content (for example, by viewing, sharing or storing it or enlarging or pausing on it), and
+- (d) content generated, uploaded or shared by the child.
+
+(3) The powers conferred by this section include[^key-f5e3831ef13c62c8a366164f3eab6533] power to require a relevant person to obtain or generate information.
+
+(4) The power conferred by subsection (1) must be exercised in a way that is proportionate to the purpose mentioned in that subsection.
+
+(5) The power conferred by subsection (1) does not include power to require the provision of information in respect of which a claim to legal professional privilege, or (in Scotland) to confidentiality of communications, could be maintained in legal proceedings.
+
+(5A)[^key-58ac0e32278c9681802d95a641bfde35] The powers to give a notice conferred by this section do not include power to require processing of personal data that would contravene the data protection legislation (but in determining whether processing of personal data would do so, the duty imposed by the notice is to be taken into account).
+
+(6) Nothing in this section limits the power conferred on OFCOM by section 100.
+
+(7) In this section—
+
+- “**information**” includes documents, and any reference to providing information includes a reference to producing a document (and see also section 102(11));
+- “**inquiry**” means an inquiry held, or to be held, under the Inquiries into Fatal Accidents and Sudden Deaths etc. (Scotland) Act [2016 (asp 2)](https://www.legislation.gov.uk/asp/2016/2);
+- “**relevant person**” means a person within any of paragraphs (a) to (e) of section 100(5).
+
+## Annotations
+
+[^key-5c8e5a577e907b5148a0e3e5626b61e7]: Commencement: S. 101 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
+
+[^key-7a45d5da2e97718faf727890561a495e]: Commencement: S. 101 in force at 1.4.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/3/a)
+
+[^key-e04659a2da84bf23248175d14ed1207f]: Textual amendment: S. 101(A1)-(G1) inserted (19.6.2025 for specified purposes, 30.9.2025 in so far as not already in force) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 124(3)(a)](https://www.legislation.gov.uk/ukpga/2025/18/section/124/3/a), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)[(2)(h)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/2/h); [S.I. 2025/982](https://www.legislation.gov.uk/uksi/2025/982), [reg. 2](https://www.legislation.gov.uk/uksi/2025/982/regulation/2)
+
+[^key-e5096df9193f5defc26a5b93af41522e]: Textual amendment: S. 101(H1) inserted (29.6.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 247(3)(b)](https://www.legislation.gov.uk/ukpga/2026/20/section/247/3/b), [255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1); [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z7)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z7)
+
+[^key-f5e3831ef13c62c8a366164f3eab6533]: Textual amendment: Words in s. 101(3) substituted (30.9.2025) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 124(3)(b)](https://www.legislation.gov.uk/ukpga/2025/18/section/124/3/b), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1); [S.I. 2025/982](https://www.legislation.gov.uk/uksi/2025/982), [reg. 2](https://www.legislation.gov.uk/uksi/2025/982/regulation/2)
+
+[^key-58ac0e32278c9681802d95a641bfde35]: Textual amendment: S. 101(5A) inserted (30.9.2025) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 124(3)(c)](https://www.legislation.gov.uk/ukpga/2025/18/section/124/3/c), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1); [S.I. 2025/982](https://www.legislation.gov.uk/uksi/2025/982), [reg. 2](https://www.legislation.gov.uk/uksi/2025/982/regulation/2)

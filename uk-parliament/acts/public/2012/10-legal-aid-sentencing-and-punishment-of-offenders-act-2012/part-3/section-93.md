@@ -1,0 +1,60 @@
+---
+title: Legal Aid, Sentencing and Punishment of Offenders Act 2012, section 93
+act: Legal Aid, Sentencing and Punishment of Offenders Act 2012
+section: '93'
+status: revised-with-pending-changes
+text_date: '2026-10-26'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/2012/10/section/93
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Legal Aid, Sentencing and Punishment of Offenders Act 2012, section 93
+
+> **Warning: changes not yet applied to this text (57).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/2012/10
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 93. Conditions etc on remands to local authority accommodation[^c22554261]
+
+*Extent: E+W*
+
+(1) A court remanding a child to local authority accommodation may require the child to comply with any conditions that could be imposed under section 3(6) of the Bail Act 1976 if the child were then being granted bail.
+
+(2) The court may also require the child to comply with any conditions imposed for the purpose of securing the electronic monitoring of the child's compliance with the conditions imposed under subsection (1) if—
+
+- (a) in the case of a child remanded under section 91(1) (proceedings other than extradition proceedings), the requirements in section 94 are met, or
+- (b) in the case of a child remanded under section 91(2) (extradition proceedings), the requirements in section 95 are met.
+
+(3) A court remanding a child to local authority accommodation may impose on the designated authority—
+
+- (a) requirements for securing compliance with any conditions imposed on the child under subsection (1) or (2), or
+- (b) requirements stipulating that the child must not be placed with a named person.
+
+(4) A court may only impose a condition under subsection (1) or (2), or a requirement under subsection (3), after consultation with the designated authority.
+
+(5) Where a child has been remanded to local authority accommodation, a relevant court—
+
+- (a) may, on the application of the designated authority, impose on that child any conditions that could be imposed under subsection (1) or (2) if the court were then remanding the child to local authority accommodation, and
+- (b) where it does so, may impose on the authority requirements for securing compliance with the conditions imposed under paragraph (a).
+
+(6) Where a child has been remanded to local authority accommodation, a relevant court may, on the application of the designated authority or that child, vary or revoke any conditions or requirements imposed under this section (including as previously varied under this subsection).
+
+(7) A court that imposes conditions on a child under this section or varies conditions so imposed—
+
+- (a) must explain to the child in open court and in ordinary language why it is imposing or varying those conditions, and
+- (b) if the court is a magistrates' court, must cause a reason given under paragraph (a) to be specified in the warrant of commitment and entered in the register.
+
+(8) In this section “relevant court”—
+
+- (a) in relation to a child remanded to local authority accommodation by virtue of section 91(1) (proceedings other than extradition proceedings), means—
+  - (i) the court by which the child was so remanded, or
+  - (ii) any magistrates' court that has jurisdiction in the place where the child is for the time being;
+- (b) in relation to a child remanded to local authority accommodation by virtue of section 91(2) (extradition proceedings), means the court by which the child was so remanded.
+
+(9) References in this section to consultation are to such consultation (if any) as is reasonably practicable in all the circumstances of the case.
+
+## Annotations
+
+[^c22554261]: Commencement: [S. 93](https://www.legislation.gov.uk/ukpga/2012/10/section/93) wholly in force at 3.12.2012, see [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1) and [S.I. 2012/2906](https://www.legislation.gov.uk/uksi/2012/2906), [art. 2(c)](https://www.legislation.gov.uk/uksi/2012/2906/article/2/c) (with [art. 7(1)(3)](https://www.legislation.gov.uk/uksi/2012/2906/article/7/1/3))

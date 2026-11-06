@@ -1,0 +1,95 @@
+---
+title: The School Standards and Framework Act 1998 (Commencement No. 2 and Supplemental, Saving and Transitional Provisions) (Amendment) Order 1998
+id: uksi/1998/2459
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '1998-09-30'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1998/2459
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1998/2459/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The School Standards and Framework Act 1998 (Commencement No. 2 and Supplemental, Saving and Transitional Provisions) (Amendment) Order 1998
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+This Statutory Instrument has been made to correct errors in, and in consequence of an omission from, [S.I. 1998/2212](https://www.legislation.gov.uk/uksi/1998/2212), and is being issued free of charge to all known recipients of that Statutory Instrument.
+
+1998 No. 2459 (C.58)
+
+EDUCATION, ENGLAND AND WALES
+
+The School Standards and Framework Act 1998 (Commencement No. 2 and Supplemental, Saving and Transitional Provisions) (Amendment) Order 1998
+
+Made
+
+30th September 1998
+
+Coming into force
+
+1st October 1998
+
+In exercise of the powers conferred on the Secretary of State by sections 145(3) and 138(7) of the School Standards and Framework Act 1998[^f00001], the Secretary of State for Education and Employment hereby makes the following Order:
+
+**1.** This Order may be cited as the School Standards and Framework Act 1998 (Commencement No. 2 and Supplemental, Saving and Transitional Provisions) (Amendment) Order 1998, and shall come into force on 1st October 1998.
+
+**2.** (1) The School Standards and Framework Act 1998 (Commencement No. 2 and Supplemental, Saving and Transitional Provisions) Order 1998[^f00002] shall be amended as follows.
+
+(2) In article 4(1) and (2), after “supplemental” there shall (in each place) be inserted “, saving”.
+
+(3) In the heading to Schedule 2, there shall be inserted before “TRANSITIONAL” the words “SUPPLEMENTAL, SAVING AND”.
+
+(4) In Part I of Schedule 2, there shall be inserted after paragraph 4 the following new paragraph–
+
+> **4A. North East London Education Association**
+>
+> Notwithstanding the repeal of Part II and certain related provisions of the School Inspections Act 1996[^f00003] (“the Inspections Act”)–
+>
+> - (a) there shall continue to be a body corporate known as the North East London Education Association[^f00004] (“the Association”);
+> - (b) the following provisions of the Inspections Act shall continue to have effect in relation to the Association–
+>   - (i) section 31(1) to (3), (5), (6) and (7);
+>   - (ii) section 32;
+>   - (iii) section 38(3) and (4) so far as those subsections enable the Secretary of State to make provision for the disposal of the property of Hackney Downs School and the discharge of any liabilities of the Association in respect of that school;
+>   - (iv) section 39;
+>   - (v) section 44(1)(a) and (2);
+>   - (vi) in section 45(1) the words “(except an order under section 38)”;
+>   - (vii) in section 45(2) the words “(except an order under section 39)”; and
+>   - (viii) Schedule 5;
+> - (c) the North East London Education Association Order 1995 ([S.I. 1995/2037](https://www.legislation.gov.uk/uksi/1995/2037)) shall continue to have effect;
+> - (d) any order previously made in relation to the Association and Hackney Downs School under section 38(3) of the Inspections Act shall continue to have effect;
+> - (e) section 45 of the Inspections Act shall continue to apply in relation to any order made in respect of the Association or Hackney Downs School under section 38 or 39 of that Act.
+
+.
+
+Estelle Morris
+
+Minister of State,
+
+Department for Education and Employment
+
+30th September 1998
+
+(This note is not part of the Order)
+
+This Order amends the School Standards and Framework Act 1998 (Commencement No. 2 and Supplemental, Saving and Transitional Provisions) Order 1998 (“the commencement order”) by inserting a saving provision in Part I of Schedule 2. It provides for the North East London Education Association to remain in existence, and to continue to exercise certain functions, notwithstanding the coming into force on 1st October 1998 of the provisions of Schedules 29 and 30 to the School Standards and Framework Act 1998 repealing Part II of the School Inspections Act 1996.
+
+The North East London Education Association was established by Order of the Secretary of State dated 27th July 1995 to conduct Hackney Downs School. That school was discontinued with effect from 31st December 1995, but an Order has yet to be made under section 39 of the School Inspections Act for the dissolution of the Association.
+
+This Order also corrects errors of description in article 4(1) and (2) of, and the heading of Schedule 2 to, the commencement order.
+
+## Annotations
+
+[^f00001]: Footnote: [1998 c. 31](https://www.legislation.gov.uk/ukpga/1998/31).
+
+[^f00002]: Footnote: [S.I. 1998/2212 (c. 49)](https://www.legislation.gov.uk/uksi/1998/2212).
+
+[^f00003]: Footnote: [1996 c. 57](https://www.legislation.gov.uk/ukpga/1996/57).
+
+[^f00004]: Footnote: The Association was established on 27th July 1995 by the North East London Education Association Order 1995 ([S.I. 1995/2037](https://www.legislation.gov.uk/uksi/1995/2037)).

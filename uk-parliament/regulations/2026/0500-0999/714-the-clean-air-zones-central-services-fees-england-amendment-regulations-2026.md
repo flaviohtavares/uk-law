@@ -1,0 +1,97 @@
+---
+title: The Clean Air Zones Central Services (Fees) (England) (Amendment) Regulations 2026
+id: uksi/2026/714
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2026-06-29'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2026/714
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2026/714/pdfs/uksiem_20260714_en_001.pdf
+- http://www.legislation.gov.uk/uksi/2026/714/pdfs/uksi_20260714_en.pdf
+- http://www.legislation.gov.uk/uksi/2026/714/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Clean Air Zones Central Services (Fees) (England) (Amendment) Regulations 2026
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2026 No. 714
+
+ENVIRONMENTAL PROTECTION, ENGLAND
+
+FEES, ENGLAND
+
+The Clean Air Zones Central Services (Fees) (England) (Amendment) Regulations 2026
+
+Made
+
+29th June 2026
+
+Coming into force
+
+1st September 2026
+
+The Secretary of State makes these Regulations in exercise of the powers conferred by paragraph 7(1) and (2) of Schedule 4 to the European Union (Withdrawal) Act 2018 (the “**2018 Act**”)[^f00001].
+
+In accordance with paragraph 10 of Schedule 4 to the 2018 Act the Treasury have consented to the making of these Regulations.
+
+A draft of these Regulations was laid before Parliament in accordance with paragraph 12(1) of Schedule 7 to the 2018 Act, and approved by a resolution of each House of Parliament.
+
+## 1. Citation, commencement, extent and application
+
+(1) These Regulations may be cited as the Clean Air Zones Central Services (Fees) (England) (Amendment) Regulations 2026.
+
+(2) These Regulations come into force on 1st September 2026.
+
+(3) They extend to England and Wales, but apply in England only.
+
+## 2. Amendment of the Clean Air Zones Central Services (Fees) (England) Regulations 2020
+
+(1) The Clean Air Zones Central Services (Fees) (England) Regulations 2020[^f00002] are amended as follows.
+
+(2) In regulation 3(2)(b), for “2027” substitute “2031”.
+
+(3) In regulation 3(3), for “£2” substitute “£4”.
+
+We consent
+
+Taiwo Owatemi
+
+Lilian Greenwood
+
+Two of the Lords Commissioners of His Majesty’s Treasury
+
+24th June 2026
+
+Signed by authority of the Secretary of State for Transport
+
+Keir Mather
+
+Parliamentary Under-Secretary of State
+
+Department for Transport
+
+29th June 2026
+
+Explanatory Note
+
+(This note is not part of the Regulations)
+
+These Regulations amend regulation 3 of the Clean Air Zones Central Services (Fees) (England) Regulations 2020 ([S.I. 2020/1444](https://www.legislation.gov.uk/uksi/2020/1444)) (the “**2020 Regulations**”). Under the 2020 Regulations, where a payment is made under a charging scheme that has been established by a relevant charging authority, and that payment is processed by the clean air zones central services provided by or on behalf of the Secretary of State (a “processed payment”), that relevant charging authority is liable to pay a fee to the Secretary of State. These Regulations increase the fee payable by the relevant charging authority from £2 to £4 per processed payment, from 1st September 2026. The amendments also extend the period during which charging authorities are liable to pay fees to the Secretary of State in respect of processed payments, to 31st March 2031.
+
+An impact assessment has not been produced for this instrument as it has no impact, or no significant impact, on the costs of business, charities or the voluntary sector.
+
+An Explanatory Memorandum has been prepared for this instrument and is available alongside this instrument on the UK legislation website: www.legislation.gov.uk.
+
+## Annotations
+
+[^f00001]: Footnote: [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16). Paragraph 7(1) was amended by Schedule 2, paragraph 8(12) of the Retained EU Law (Revocation and Reform) Act [2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28).
+
+[^f00002]: Footnote: [S.I. 2020/1444](https://www.legislation.gov.uk/uksi/2020/1444).

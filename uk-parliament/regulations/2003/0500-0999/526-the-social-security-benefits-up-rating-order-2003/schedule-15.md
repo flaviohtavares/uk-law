@@ -1,0 +1,51 @@
+---
+title: The Social Security Benefits Up-rating Order 2003, SCHEDULE 15
+act: The Social Security Benefits Up-rating Order 2003
+section: schedule-15
+status: as-enacted
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2003/526/schedule/15
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Social Security Benefits Up-rating Order 2003, SCHEDULE 15
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+## SCHEDULE 15 — OTHER APPLICABLE AMOUNTS SPECIFIED IN THE JOBSEEKER'S ALLOWANCE REGULATIONS
+
+Article 23(11)
+
+| Provision in Jobseeker’s Allowance Regulations | Specified Sum |
+| --- | --- |
+| Regulation 145(1)[^f00140] | Weekly applicable amount to be reduced by a sum equivalent to 40 per cent. or, as the case may be, 20 per cent. of the specified amount. |
+| Regulation 146G(1)[^f00141] | Weekly applicable amount to be reduced by a sum equivalent to 40 per cent. or, as the case may be, 20 per cent. of the specified amount. |
+| Regulation 148(1)(a)(i) | 90 per cent. of the applicable amount or, as the case may be, of the reduced applicable amount. |
+| Regulation 148(1)(c)(i) | 98 per cent. of the applicable amount for persons in residential accommodation. |
+| Regulation 148(1)(d) | 90 per cent. of the applicable amount. |
+| Regulation 148A(1)(a)(i)[^f00142] | 90 per cent. of the applicable amount or, as the case may be, of the reduced applicable amount. |
+| Regulation 148A(1)(c) | 98 per cent. of the applicable amount for persons in residential accommodation. |
+| Regulation 148A(1)(d) | 90 per cent. of the applicable amount. |
+| Schedule 2, paragraph 5(3) | The relevant fraction of the applicable amount is the amount calculated by the formula—<br>[formula: see source](https://www.legislation.gov.uk/uksi/2003/526) |
+| Schedule 2, paragraph 6(1)(b) | Half the amount which would fall to be met by applying the provisions of sub-paragraph (a). |
+| Schedule 2, paragraph 6(1)(c) | Nil. |
+| Schedule 2, paragraph 7(1)(b) | Nil. |
+| Schedule 2, paragraph 9(1)[^f00143] | The weekly amount of housing costs is the amount calculated by the formula—<br>[formula: see source](https://www.legislation.gov.uk/uksi/2003/526) |
+| Schedule 2, paragraph 10(4) | £100,000. |
+| Schedule 2, paragraph 10(6)(a) | The alternative appropriate amount shall be calculated using the formula— P × Q |
+| Schedule 2, paragraph 10(10) | The qualifying portion of a loan shall be determined by the formula—<br>[formula: see source](https://www.legislation.gov.uk/uksi/2003/526) |
+| Schedule 2, paragraph 11(2) and (3)[^f00144] | 5 per cent. |
+
+## Annotations
+
+[^f00140]: Footnote: Relevant amending instrument is [S.I. 1996/1516](https://www.legislation.gov.uk/uksi/1996/1516).
+
+[^f00141]: Footnote: Regulation 146G was inserted by [S.I. 2000/1978](https://www.legislation.gov.uk/uksi/2000/1978).
+
+[^f00142]: Footnote: Regulation 148A was inserted by [S.I. 2000/1978](https://www.legislation.gov.uk/uksi/2000/1978).
+
+[^f00143]: Footnote: Relevant amending instrument is [S.I. 2001/3651](https://www.legislation.gov.uk/uksi/2001/3651).
+
+[^f00144]: Footnote: Relevant amending instrument is [S.I. 1996/1517](https://www.legislation.gov.uk/uksi/1996/1517).

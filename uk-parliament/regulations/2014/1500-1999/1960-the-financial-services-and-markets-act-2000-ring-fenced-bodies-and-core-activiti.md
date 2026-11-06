@@ -1,0 +1,647 @@
+---
+title: The Financial Services and Markets Act 2000 (Ring-fenced Bodies and Core Activities) Order 2014
+id: uksi/2014/1960
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2014-07-23'
+text_date: '2025-02-04'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2014/1960
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2014/1960/pdfs/uksiem_20141960_en.pdf
+- http://www.legislation.gov.uk/uksi/2014/1960/pdfs/uksi_20141960_en.pdf
+- http://www.legislation.gov.uk/uksi/2014/1960/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Financial Services and Markets Act 2000 (Ring-fenced Bodies and Core Activities) Order 2014
+
+> Text as at 2025-02-04.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2014 No. 1960
+
+Banks And Banking
+
+The Financial Services and Markets Act 2000 (Ring-fenced Bodies and Core Activities) Order 2014
+
+Made
+
+23rd July 2014
+
+Coming into force
+
+1st January 2015
+
+The Treasury, in exercise of the powers conferred by sections 142A(2)(b), 142B(2), 142F and 428(3) of the Financial Services and Markets Act 2000 [^c22188331], make the following Order.
+
+In accordance with section 142Z of the Financial Services and Markets Act 2000, a draft of this Order has been laid before Parliament and approved by a resolution of each House of Parliament.
+
+## PART 1 — General
+
+### 1. Citation, commencement and interpretation
+
+(1) This Order may be cited as the Financial Services and Markets Act 2000 (Ring-fenced Bodies and Core Activities) Order 2014.
+
+(2) This Order comes into force on 1st January 2015.
+
+(3) In this Order—
+
+- “**account holder**” means any person who has an account with an institution which carries on the activity of accepting deposits;
+- “**the 2000 Act**” means the Financial Services and Markets Act 2000;
+- “**the 2006 Act**” means the Companies Act 2006 [^c22188341];
+- “**charity**” has the meaning given in section 1 of the Charities Act 2011 [^c22188351], section 106 of the Charities and Trustee Investment (Scotland) Act 2005 [^c22188361] or section 1 of the Charities (Northern Ireland) Act 2008 [^c22188371];
+- “**CIO**” means a body constituted and registered as a charitable incorporated organisation under Part 11 of the Charities Act 2011 or Part 11 of the Charities (Northern Ireland) Act 2008, or as a Scottish charitable incorporated organisation under Part 1 of the Charities and Trustee Investment (Scotland) Act 2005;
+- “**company**” has the meaning in section 1 of the 2006 Act;
+- “**core deposit**” has the meaning given in article 2(2);
+- “**declaration of eligibility**” has the meaning given in article 9(1);
+- “**deposit**” has the meaning given in article 5 of the Financial Services and Markets Act 2000 (Regulated Activities) Order 2001 [^c22188381];
+- [^key-af2d4999f3f99395fd39afbcdf2c0482]...
+- [^key-af2d4999f3f99395fd39afbcdf2c0482]...
+- “**eligible individual**” has the meaning given in article 9(1);
+- “**excluded activities and prohibitions order**” means the Financial Services and Markets Act 2000 (Excluded Activities and Prohibitions) Order 2014 [^c22188391];
+- “financial year”—
+  - (a) in relation to a company, has the meaning given in section 390 of the 2006 Act,
+  - (b) in relation to a limited liability partnership has the meaning given in section 390 of the 2006 Act as modified by regulation 7 of the Limited Liability Partnerships (Accounts and Audit) (Application of Companies Act 2006) Regulations 2008 [^c22188401],
+  - (c) in relation to an organisation which is—
+    - (i) a charity or a CIO, and
+    - (ii) is not a company,
+
+    has the meaning given in regulation 3 of the Charities (Accounts and Reports) Regulations 2008 [^c22188411],
+  - (d) in relation to a registered society—
+    - (i) if that society was registered on or after 8th January 2012, means a year of account for that society as defined in section 77 of the Co-operative and Community Benefit Societies Act 2014 [^c22188421],
+    - (ii) if that society was registered on or before 7th January 2012 , means a year of account for that society as defined in section 78 of the Co-operative and Community Benefit Societies Act 2014,
+  - (e) in relation to a Northern Ireland industrial and provident society, means a year of account as defined in section 101(1) of the Industrial and Provident Societies Act (Northern Ireland) 1969 [^c22188431],
+  - (f) in relation to a Northern Ireland credit union, means a year of account as defined in Article 2(2) of the Credit Unions (Northern Ireland) Order 1985 [^c22188441],
+  - (g) in relation to a society registered under the Friendly Societies Act 1974 [^c22188451], means a year of account as defined in section 111 of that Act,
+  - (h) in relation to a society incorporated in accordance with section 6(1) of the Friendly Societies Act 1992 [^c22188461], has the meaning given in section 118 of that Act,
+  - (i) in relation to any other organisation—
+    - (i) if that organisation is required to prepare a profit and loss account by its constitution or by the law under which it is established, means any period in respect of which it is required to prepare such a profit and loss account,
+    - (ii) if that organisation is not required to prepare a profit and loss account, means any year commencing on the 1st January;
+- “**limited liability partnership**” means a body incorporated under the Limited Liability Partnerships Act 2000 [^c22188471];
+- “**Northern Ireland credit union**” means a credit union as defined in Article 2(2) of the Credit Unions (Northern Ireland) Order 1985;
+- “**Northern Ireland industrial and provident society**” means a society registered or deemed to be registered under the Industrial and Provident Societies Act (Northern Ireland) 1969;
+- “[^key-201b834a225e388ca37c193d85773210]**the prudential requirements regulation**” means [Regulation (EU) No 575/2013](https://www.legislation.gov.uk/european/regulation/2013/0575) of the European Parliament and of the Council on prudential requirements for credit institutions and investment firms;
+- “**public body**” means any person certain of whose functions are functions of a public nature;
+- “**qualifying organisation**” has the meaning given in article 3(1);
+- [^key-a9bcedd2008e5c31a2aa9fd8141730b4]...
+- “**qualifying group member**” has the meaning given in article 8(1);
+- [^key-a9bcedd2008e5c31a2aa9fd8141730b4]...
+- “**quarter**” means a period of three months;
+- “**recognised accountant**” means an accountant who is a member of—
+  - (a) the Institute of Chartered Accountants in England and Wales,
+  - (b) the Institute of Chartered Accountants of Scotland,
+  - (c) the Institute of Chartered Accountants in Ireland,
+  - (d) the Association of Chartered Certified Accountants,
+  - (e) the Chartered Institute of Management Accountants,
+  - (f) the Chartered Institute of Public Finance and Accountancy, or
+  - (g) a professional body for accountants established in a jurisdiction outside the United Kingdom;
+- “**registered society**” has the meaning given in section 1 of the Co-operative and Community Benefit Societies Act 2014;
+- “relevant financial year” in relation to an organisation means—[^key-3a771c35c1e82a7ccf72b0a4ea1a00fd]
+  - ((a)) the last completed financial year for which accounting records are available, or
+  - ((b)) where the organisation has existed for less than one financial year, its first financial year;
+- “**securities**” has the meaning given in section 14 of the Banking Act 2009 [^c22188481];
+- “[^key-98429bccfeca0d8ab48320def7660560]**SME**” has the meaning given in article 1(4) of the excluded activities and prohibitions order;
+- “[^key-4d52fa8943560015cc2c6ba4313432c7]**UK account**” has the meaning given in article 2(3)(ba);
+- “**UK account holder**” means the holder of a UK account;
+- “**UK deposit-taker**” means a body corporate incorporated in the United Kingdom[^key-a88e6dda5a4794ff403eafe7953f22e0] which carries on the regulated activity of accepting deposits in relation to which it has a permission under Part 4A of the 2000 Act ;[^key-b8649250712388b5a73066a54680002d]
+- “**undertaking**” includes a company, body corporate, partnership or unincorporated association.
+
+## PART 2 — Circumstances in which accepting a deposit is not a core activity
+
+### 2. Circumstances in which accepting a deposit is not a core activity
+
+(1) In relation to a UK deposit-taker, accepting a deposit is not a core activity unless the deposit is a core deposit.
+
+(2) A deposit is a core deposit if it is held with the UK deposit-taker in a UK account[^key-4a6feab54fe88f3680d5dcbac3c43014] [^key-5fa92b73548455630f50bbdfef033a87]... except where one or more of the account holders is—
+
+- (a) a relevant financial institution;
+- (aa)[^key-2fefe8feecfd6cb710cbb6a3887bee21] an SME which is—
+  - (i) an investment firm,
+  - (ii) a UCITS or an alternative investment fund,
+  - (iii) a management company or an alternative investment fund manager, or
+  - (iv) a financial holding company or a mixed financial holding company,
+
+  and for these purposes, “UCITS”, “alternative investment fund”, “management company”, “**alternative investment fund manager**”, “**financial holding company**” and “**mixed financial holding company**” have the meanings given in article 1(4) of the excluded activities and prohibitions order;
+- (b) a qualifying organisation;
+- (c) a qualifying group member; [^key-d6754612191b3b81c91d2ea84598c51e]...
+- (d) an eligible individual; [^key-23a9e50b5084ced50181977f0bdf5331]...[^key-ec76aa74584905d0f616e3206ee218a3]
+- (e) a person who is, or at any time within the previous six months has been, subject to financial sanctions;
+- (f)[^key-213489c916f92fe06735bfce4d0d5a81] the central bank of a state or territory other than the United Kingdom;
+- (g) the European Central Bank;
+- (h) the European Union;
+- (i) the European Atomic Energy Community;
+- (j) the Bank for International Settlements;
+- (k) the Bank of England Asset Purchase Facility Fund Limited;
+- (l) the Covid Corporate Financing Facility Limited; or
+- (m) the UK Infrastructure Bank Limited.
+
+(3) In this article—
+
+- (a) a reference to an account held with a UK deposit-taker is to an account provided by the institution as part of its activity of accepting deposits;
+- (b)[^key-fc97e5f4bab8dd5aaef339dfe28a3352] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (ba)[^key-da44be8329faa363adfa2cd06bdc2c65] an account is a UK account if it was opened at a branch of the UK deposit-taker located in the United Kingdom;
+- (c) “**branch**” means a place of business that forms a legally dependent part of the UK deposit-taker and conducts directly all or some of the operations inherent in its business;
+- (d) “**relevant financial institution**” has the meaning given in the excluded activities and prohibitions order;
+- (e)[^key-de0a6a04fb210be8a5a6fb1c2a38442f] “financial sanctions” means any prohibition or obligation imposed under financial sanctions legislation as defined in section 143(4) of the Policing and Crime Act 2017.
+
+(4)[^key-c5314e1e660429e67f44bf4674e8ffc1] A UK deposit-taker may continue to treat an account holder of that UK deposit-taker as a relevant financial institution for the purposes of this article—
+
+- (a) for a period of twelve months beginning with the day after the day on which the account holder ceases to satisfy the definition of a relevant financial institution (“the twelve-month period”), or
+- (b) until the date on which the account holder ceases to be an account holder of that UK deposit-taker, where this happens before the end of the twelve-month period.
+
+### 3. Meaning of qualifying organisation[^key-ea5b9cfa68bacff61667ce8d8fd495df]
+
+(1) An organisation is a qualifying organisation in relation to a UK deposit-taker if that deposit-taker, having made reasonable inquiries, determines that the organisation meets the relevant qualifying condition for the relevant financial year.
+
+(2) The relevant qualifying condition is set out—
+
+- (a) in the case of a body corporate or a partnership, in article 4;
+- (b) in the case of an organisation which is not a body corporate or a partnership, in article 5.
+
+(3)[^key-d0369894211c6e72e65e74e42fc02d6f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 4. Qualifying condition for a body corporate or a partnership
+
+(1) The qualifying condition for a body corporate or a partnership is that during the relevant financial year that body or partnership met one or more of the criteria in table 1—
+
+Table 1
+
+|  |  |
+| --- | --- |
+| Turnover | Not less than £6.5 million |
+| Balance sheet total | Not less than £3.26 million |
+| Number of employees | Not less than 50 |
+
+(2) If the organisation has existed for less than one financial year, the maximum figure for turnover must be proportionately adjusted.
+
+(3) The balance sheet total means—
+
+- (a) the aggregate of the amounts shown as assets in the organisation's balance sheet for the relevant financial year; or
+- (b)[^key-334f3c214c5f753f212d2ccfd46f8a39] where the UK deposit-taker—
+  - (i) makes a determination as to whether the organisation meets the qualifying condition during the organisation’s first financial year; and
+  - (ii) at the time the determination is made, the organisation has not yet prepared a balance sheet;
+
+  the aggregate of the amounts which would be shown as assets in a balance sheet prepared not more than six weeks before the date upon which that determination is made.
+
+(4) The number of employees means the average number of persons employed (whether full-time or part-time) by the organisation in the relevant financial year, determined as follows—
+
+- (a) find for each month in the relevant financial year the number of persons employed under contracts of service by the organisation (whether throughout the month or not);
+- (b) add together the monthly totals; and
+- (c) divide by the number of months in the relevant financial year.
+
+(5) In this article “**turnover**”, in relation to a body corporate or a partnership, means the amounts derived from the provision of goods and services falling within the ordinary activities of the body corporate or partnership (“the gross receipts”), after deduction of—
+
+- (a) trade discounts;
+- (b) value added tax; and
+- (c) any other taxes based on the gross receipts.
+
+### 5. Qualifying condition for an organisation which is not a body corporate or a partnership
+
+(1) The qualifying condition for an organisation which is not a body corporate or a partnership is that the organisation's gross income for the relevant financial year was more than £6.5 million.
+
+(2) In this article “**gross income**” means an organisation's gross income from all sources.
+
+(3) For the purpose of paragraph (2)—
+
+- (a) the gross income of a charity or a CIO which—
+  - (i) is not entered in the register of charities kept under section 3 of the Charities and Trustee Investment (Scotland) Act 2005 [^c22188501] (“**the Scottish Charity Register**”), and
+  - (ii) is a member of a group as defined in section 141 of the Charities Act 2011 or paragraph 1(5) of Schedule 6 to the Charities (Northern Ireland) Act 2008 [^c22188511]
+
+  includes the gross income of any charity or CIO which is a member of the same group, and
+- (b) the gross income of a charity or a CIO which—
+  - (i) is entered in the Scottish Charity Register, and
+  - (ii) has one or more subsidiary undertakings (as defined by regulation 1(2) of the Charities Accounts (Scotland) Regulations 2006) [^c22188521],
+
+  includes the gross income of any of those subsidiary undertakings which are charities or CIOs.
+
+### 6. Qualifying organisation declaration accompanied by a confirming statement: requirements for confirming statement[^key-d1289f84dee3824d928ffe072168061a]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 7. Requirements concerning currency when qualifying organisation declaration accompanied by annual accounts[^key-d1289f84dee3824d928ffe072168061a]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 8. Meaning of qualifying group member[^key-e42c856db8ee94f98d700b62a1ea24e4]
+
+(1) An organisation is a qualifying group member in relation to a UK deposit-taker if that deposit-taker determines that the organisation is a member of the same group as a qualifying organisation.
+
+(2)[^key-fa141b893087813dbd0a73374f0484f0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3)[^key-e23b6580f76f1165cdf160de83ee6a10] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 9. Meaning of eligible individual
+
+(1) An individual is an eligible individual in relation to a UK deposit-taker if—
+
+- (a) that individual has provided to that UK deposit-taker a statement complying with paragraph (2) (a “declaration of eligibility”); and
+- (b) that declaration of eligibility is—
+  - (i) accompanied by a statement signed and dated by a recognised accountant in accordance with paragraph (5) (a “confirming statement”), or
+  - (ii) accepted by the UK deposit-taker to which that declaration is given without a confirming statement, in accordance with paragraph (6).
+
+(2) A declaration of eligibility must—
+
+- (a) confirm that the individual giving the declaration meets the condition in paragraph (3);
+- (b) specify the period in respect of which the individual giving the declaration has calculated that they meet the condition in paragraph (3) (the “eligibility calculation period”); and
+- (c) be signed and dated by the individual giving the declaration.
+
+(3) The condition mentioned in paragraph (2)(a) is that on average during the eligibility calculation period the individual giving the declaration of eligibility held assets to the value of not less than £250,000, as calculated in accordance with article 10.
+
+(4) An eligibility calculation period specified in a declaration of eligibility in accordance with paragraph (2)(b) must be a period of twelve months ending on a day which falls not more than three months before the date of the declaration of eligibility in which it is specified.
+
+(5) A confirming statement given in accordance with paragraph (1)(b)(i) must state that the recognised accountant signing the statement has reviewed—
+
+- (a) the declaration of eligibility; and
+- (b) any information relating to the assets on which the declaration of eligibility is based—
+  - (i) of which the recognised accountant was aware at the time at which the recognised accountant was asked to make the confirming statement, or
+  - (ii) which the recognised accountant has subsequently requested from the individual giving the declaration of eligibility,
+
+and that nothing has come to the recognised accountant's attention which suggests that the declaration of eligibility is false.
+
+(6) A UK deposit-taker may accept a declaration of eligibility without a confirming statement if it is satisfied that the declaration of eligibility is true.
+
+(7) The date of a declaration of eligibility is the date given by the individual making the declaration when that individual dates the declaration.
+
+### 10. Declaration of eligibility: determining assets held by an individual
+
+(1) For the purpose of preparing a declaration of eligibility the assets of an individual (“A”) must be calculated as follows—
+
+- (a) at the end of each quarter in the eligibility calculation period calculate the value of such assets held by A as are necessary to demonstrate that A meets the condition specified in article 9(3) to give quarterly totals; and
+- (b) add the quarterly totals together and divide by four.
+
+(2) For the purpose of calculating quarterly totals—
+
+- (a) any money on deposit in a joint bank account for which A is one of the account holders shall be treated as held by A alone;
+- (b) if A holds any other asset jointly with one or more other persons, A shall be treated as holding —
+  - (i) a share of the asset determined in accordance with any agreement between the owners of the asset concerning the shares in which they hold the asset, or
+  - (ii) if there is no such agreement, a share of the value of the asset which is equal to the total value of the asset concerned divided by the number of joint owners.
+
+(3) In this article “**assets**”, in relation to an individual, means assets of one of the kinds mentioned in paragraph (5) which are held—
+
+- (a) by that individual as legal and beneficial owner, solely or jointly with others; or
+- (b) by another person for the benefit of that individual (solely or jointly with others) under a trust.
+
+(4) For the purpose of paragraph (3)(b) assets which are held in a part of the United Kingdom other than England or Wales or in a country or territory outside the United Kingdom are to be regarded as held under a trust if they are held under an arrangement under the law of that part, country or territory which corresponds to a trust.
+
+(5) The kinds of asset referred to in paragraph (3) are—
+
+- (a) money, including money held on deposit; or
+- (b) transferable securities as defined in Article 2.1(24) of the markets in financial instruments regulation[^key-77edce0e9cfacc8cdda880b2b7e37294].
+
+(6) In this article “**joint bank account**” means an account—
+
+- (a) opened in the name of two or more persons; or
+- (b) over which two or more persons have rights that are exercised by means of the signature of one or more of those persons.
+
+(7) In this article, a reference to a quarter is a reference to any complete quarter falling within a core deposit calculation period for a UK deposit-taker.
+
+## PART 3 — Circumstances in which UK deposit-takers are not ring-fenced bodies
+
+### 11. Circumstances in which UK deposit-takers are not ring-fenced bodies[^key-d754343b90361554a6274494ce07586d]
+
+(1) A UK deposit-taker is not a ring-fenced body if—
+
+- (a) it carries out the regulated activity of effecting or carrying out contracts of insurance as principal in accordance with a permission under Part 4A of the 2000 Act;
+- (b) it is a registered society, a Northern Ireland industrial and provident society or a Northern Ireland credit union;
+- (c) it complies with the condition set out in paragraph (2) (the “relevant event condition”); [^key-c1a9c15eb5287c0976c38aa2ebfe28d8]...
+- (d) it complies with the condition set out in article 12 (the “core deposit level condition”) ; or[^key-937861726981bbcdca6ae2eef395ca1d]
+- (e) it complies with the condition set out in article 13A (the “trading assets condition”).
+
+(1A)[^key-f078e5745e39ac7c0ed29742510e19c0] Subject to paragraph (1B), paragraph (1)(e) does not apply to a UK deposit-taker which is included, or is a member of a group which is included, on the list of global systemically important banks published by the Financial Stability Board on 21st November 2022, as that list is updated by the Financial Stability Board from time to time (“the GSIB list”).
+
+(1B) When a UK deposit-taker, or the group of which it is a member, is included on the GSIB list by the Financial Stability Board after paragraph (1)(e) has come into force, paragraph (1)(e) continues to apply to that UK deposit-taker for a period of four years starting with the date on which it is first added to the GSIB list.
+
+(2) In relation to a UK deposit-taker, the relevant event condition is—
+
+- (a) that the UK deposit-taker would not be a ring-fenced body but for the occurrence of a relevant event; and
+- (b) not more than four years have passed since the date of that relevant event.
+
+(3) In this article “**relevant event**”, in relation to a UK deposit-taker, means an event of one of the following kinds—
+
+- (a) as a result of a transfer effected by an instrument or order made under or in accordance with any provision of the Banking Act 2009 [^c22188551] the UK deposit-taker or a member of its group—
+  - (i) acquires property, rights or liabilities from another institution, or
+  - (ii) acquires securities issued by another institution;
+- (b) any other power conferred by or as a result of Part 1 of the Banking Act 2009 is exercised in relation to the UK deposit-taker;
+- (c)[^key-ff44c643dd12adfc5724f7f5fc99b063] a ring-fenced body or a member of its group acquires securities issued by—
+  - (i) the UK deposit-taker, or
+  - (ii) the parent undertaking of the UK deposit-taker;
+- (d) as a result of one of the following transactions, the UK deposit-taker no longer satisfies the trading assets condition in article 13A—
+  - (i) the UK deposit-taker or a member of its group acquires the whole or part of the business of another undertaking,
+  - (ii) the UK deposit-taker or a member of its group acquires securities issued by another undertaking, making the undertaking a member of the same group as the UK deposit-taker, or
+  - (iii) an undertaking acquires securities issued by the UK deposit-taker or another member of its group, making the UK deposit-taker a member of the same group as that undertaking.
+
+### 12. Core deposit level condition
+
+(1) The core deposit level condition is that at any particular time (‘T’)—
+
+- (a) in the case of a UK deposit-taker which is not a member of a group, its average core deposit total is equal to or less than £35 billion[^key-b68596ade4dfe07e48a7fd2e8199a053];
+- (b) in the case of a UK deposit-taker which is a member of a group, the sum of the average core deposit totals for each member of the group that is a relevant group member is equal to or less than £35 billion[^key-ce089d553339a1871dfe30db7280f54f].
+
+(2) For the purpose of paragraph (1)(b) a group member is a relevant group member if—
+
+- (a) it is a UK deposit-taker; and
+- (b) it does not carry out the regulated activity of effecting or carrying out contracts of insurance as principal in accordance with a permission under Part 4A of the 2000 Act.
+
+(3) Subject to article 13, the average core deposit total for a UK deposit-taker is determined as follows—
+
+- (a) calculate the total core deposits held by the UK deposit-taker at the end of each quarter in the core deposit calculation period to produce quarterly totals; and
+- (b) add those quarterly totals together and divide by the number of quarters in the core deposit calculation period.
+
+(4) The core deposit calculation period is—
+
+- (a) in the case of a UK deposit-taker that has existed for three financial years or more, the period of three consecutive financial years of that UK deposit-taker which ends immediately before the start of the financial year in which T falls;
+- (b) in the case of any other UK deposit-taker, the period for which that UK deposit-taker has existed at T.
+
+(5) If a UK deposit-taker holds core deposits in a currency other than sterling, the quarterly totals referred to in paragraph (3) must be calculated by converting financial amounts representing such deposits into sterling.
+
+(6) The conversion must be made by reference to an appropriate spot rate of exchange as at the last day of the quarter to which a quarterly total relates.
+
+(7) In this article a reference to a quarter is a reference to any complete quarter falling within a core deposit calculation period for a UK deposit-taker.
+
+### 13. Deposits excluded from determination of core deposit level
+
+(1) For the purpose of determining the average core deposit total for a UK deposit-taker the quarterly totals referred to in article 12(3) do not include deposits if—
+
+- (a) the deposits concerned are held by the UK deposit-taker as a result of the transfer to it of all or part of the business of another institution, other than by way of an excluded transfer; and
+- (b) not more than four years have passed since the date of completion of that transfer.
+
+(2) For the purpose of calculating the sum referred to in article 12(1)(b) the average core deposit total for a UK deposit-taker is not included if—
+
+- (a) the relevant UK deposit-taker (the “target institution”) became a member of the group concerned as a result of another member of that group (the “acquiring institution”) acquiring securities issued by the target institution;
+- (b) at the date of that acquisition the target institution was not a ring-fenced body;
+- (c) that acquisition would, but for the provisions of this paragraph, have resulted in the group of which the acquiring institution is a member ceasing to meet the condition in article 12(1)(b); and
+- (d) not more than four years have passed since the date of completion of the acquisition.
+
+(3) In this article “**excluded transfer**” means a transfer which is made—
+
+- (a) by way of a ring-fencing transfer scheme; or
+- (b) to a UK deposit-taker from an institution which is a member of the same group as the UK deposit-taker as at the date of the transfer.
+
+### 13A. Trading assets condition[^key-2f020f45d7fab32d30c30594861e520b]
+
+(1) The trading assets condition is that at any particular time (“**T**”)—
+
+- (a) in the case of a UK deposit-taker which is not a member of a group, the average value of the trading assets held by the UK deposit-taker in the calculation period does not exceed 10% of the average tier 1 capital of the UK deposit-taker in the calculation period, in each case as calculated in accordance with paragraph (2);
+- (b) in the case of a UK deposit-taker which is a member of a group, the average sum of the value of the trading assets held by—
+  - (i) the UK deposit-taker,
+  - (ii) each CRR firm in the same group as the UK deposit-taker,
+  - (iii) each FCA investment firm in the same group as the UK deposit-taker, and
+  - (iv) a UK branch in the same group as the UK deposit-taker,
+
+  in the calculation period does not exceed 10% of the average sum of the tier 1 capital of the UK deposit-taker, and each CRR firm and FCA investment firm in the group, in each case as calculated in accordance with paragraphs (3) and (4).
+
+(2) For the purpose of paragraph (1)(a), the average value of the trading assets or tier 1 capital of an entity is to be calculated as follows—
+
+- (a) calculate the value of the trading assets or tier 1 capital at the end of each quarter in the calculation period to give quarterly totals, and
+- (b) in each case, add those quarterly totals together and divide by the number of quarters in the calculation period to give the average value.
+
+(3) For the purpose of paragraph (1)(b), at the end of each quarter in the calculation period—
+
+- (a) add together the total value of the trading assets held by—
+  - (i) the UK deposit-taker,
+  - (ii) any other CRR firm in the same group as the UK deposit-taker, so far as those assets are not included in the total in paragraph (i),
+  - (iii) any FCA investment firm in the same group as the UK deposit-taker, so far as those assets are not included in the total in paragraph (i) or (ii), and
+  - (iv) any UK branch in the same group as the UK deposit-taker, so far as those assets are not included in the total in paragraph (i), (ii) or (iii),
+- (b) add together the total value of the tier 1 capital of—
+  - (i) the UK deposit-taker,
+  - (ii) any other CRR firm in the same group as the UK deposit-taker, so far as that capital is not included in the total in paragraph (i), and
+  - (iii) any FCA investment firm in the same group as the UK deposit-taker, so far as that capital is not included in the total in paragraph (i) or (ii), and
+- (c) in each case, add the quarterly totals calculated under sub-paragraphs (a) and (b) together and divide by the number of quarters in the calculation period to give the average value.
+
+(4) Each calculation required by paragraph (3) is to be made—
+
+- (a) on a consolidated basis in accordance with the prudential requirements regulation in the case of a UK deposit-taker or other CRR firm, where the CRR firm or any UK parent institution of the CRR firm is required to calculate tier 1 capital on a consolidated basis under the prudential requirements regulation;
+- (b) on a consolidated basis in accordance with MIFIDPRU in the case of an FCA investment firm not included in any calculations made under sub-paragraph (a), where the FCA investment firm or any UK parent entity (as defined in the glossary to the FCA Handbook) of the FCA investment firm—
+  - (i) is required to calculate the tier 1 capital of the FCA investment firm on a consolidated basis under MIFIDPRU, or
+  - (ii) is permitted to use the group capital test provided for in MIFIDPRU 2.6;
+- (c) on an individual basis in any other case.
+
+(5) For the purposes of this article—
+
+- (a) trading assets are held by a branch if they are treated by the credit institution to which the branch belongs as being held by the branch;
+- (b) the value of trading assets is their fair value, assessed in accordance with International Financial Reporting Standard 13 (fair value measurement) issued by the International Accounting Standards Board in May 2011, as amended from time to time;
+- (c) tier 1 capital has the same meaning as in—
+  - (i) the prudential requirements regulation in relation to a CRR firm, and the value of the tier 1 capital is to be calculated in accordance with the prudential requirements regulation;
+  - (ii) MIFIDPRU in relation to an FCA investment firm, and the value of the tier 1 capital is to be calculated in accordance with MIFIDPRU;
+- (d) the calculation period is—
+  - (i) in the case of a UK deposit-taker that has existed for three financial years or more, the period of three consecutive financial years of that UK deposit-taker which ends immediately before the start of the financial year in which T falls;
+  - (ii) in the case of any other UK deposit-taker, the period for which that UK deposit-taker has existed at T.
+
+(6) If a UK deposit-taker, CRR firm, FCA investment firm or UK branch holds trading assets or tier 1 capital in a currency other than sterling, the quarterly totals referred to in paragraphs (2) and (3) must be calculated by converting financial amounts representing such trading assets or tier 1 capital into sterling.
+
+(7) The conversion required by paragraph (6) must be made by reference to an appropriate spot rate of exchange as at the last day of the quarter to which a quarterly total relates.
+
+(8) In this article, a reference to a quarter is a reference to any complete quarter falling within a calculation period for the entity concerned.
+
+(9) In this article—
+
+- “**CRR firm**” has the meaning given in article 4(1)(2A) of the prudential requirements regulation;
+- “**FCA Handbook**” means the Handbook of Rules and Guidance published by the FCA containing rules made by the FCA under the 2000 Act;
+- “**FCA investment firm**” has the meaning given in section 143A of the 2000 Act;
+- “**MIFIDPRU**” means the Prudential Sourcebook for MIFID Investment firms in the FCA Handbook, as that Sourcebook has effect from time to time;
+- “**overseas deposit-taker**” means a credit institution, as defined by article 4(1)(1) of the prudential requirements regulation, which is not a CRR firm;
+- “**trading assets**” means financial assets which are held for trading, other than any hedging assets, and for these purposes—
+  - (a) “**financial assets**” has the meaning given in paragraph 11 of International Accounting Standard 32 (financial instruments: presentation) as amended from time to time,
+  - (b) “**held for trading**” has the meaning given in Appendix A to International Financial Reporting Standard 9 (financial instruments), issued by the International Accounting Standards Board in November 2009 as amended from time to time,
+  - (c) “**hedging assets**” means assets where the sole or main purpose for the entity acquiring the asset is to limit the extent to which—
+    - (i) that entity, or
+    - (ii) any other entity, whose trading assets are included in the calculation required by paragraph (3)(a)(i), (ii) or (iii),
+
+    will be adversely affected by any of the factors specified in article 6(2) of the excluded activities and prohibitions order;
+- “**UK branch**” means a place of business located in the United Kingdom that forms a legally dependant part of an overseas deposit-taker and conducts directly all or some of the operations inherent in its business, where the overseas deposit-taker is a member of the same group as the UK deposit-taker;
+- “**UK parent institution**” has the meaning given in article 4(1)(28) of the prudential requirements regulation.
+
+## PART 4 — Requirements for non ring-fenced bodies
+
+### 14. Rules about information to be provided by a non ring-fenced body to individual account-holders
+
+(1) The FCA must make rules specifying the information a non ring-fenced body must provide at any specified time (“specified information”) to—
+
+- (a) individuals who have applied to open a UK account[^key-405a14dd3aaf3ab890da80eaf4112c51] [^key-6e72490f042beb91f14a71087facbe1e]... for the purpose of making one or more deposits[^key-36eb80394c29d4715049a86f979d9342] with that non ring-fenced body (including a joint account); and
+- (b) UK account holders[^key-71ca5139752bd2e9f265f7717b289135] [^key-62111fdac9143db5ebcdee2f4195c370]... of that non ring-fenced body who are individuals who use the account for the purpose of making one or more deposits[^key-fce5ffb29f3d28a16a9bbf6f1a9d1cac].
+
+(2) The specified information must include a description of—
+
+- (a) any excluded activity [^c22188561] which the non ring-fenced body is carrying on; and
+- (b) any prohibited action which the non ring-fenced body has taken;
+
+at the time at which rules made by the FCA under paragraph (1) specify the information must be provided.
+
+(3) In this article—
+
+- (a) “**non ring-fenced body**” means a UK deposit-taker which is not—
+  - (i) a ring-fenced body, or
+  - (ii) an institution which is exempt from the definition of a ring-fenced body by virtue of section 142A(2) of the 2000 Act or any order made under that section;
+- (b) “**prohibited action**” means any action which a ring-fenced body is prohibited from taking by the excluded activities and prohibitions order.
+
+David Evenett
+
+John Penrose
+
+Two of the Lords Commissioners of Her Majesty's Treasury
+
+*(This note is not part of the Order)*
+
+This Order specifies classes of institution which are exempted from the definition of “ring-fenced body in section 142A of the Financial Services and Markets Act 2000 (c.8) (“**the Act**”). The classes of institution which are exempted are insurance companies, societies registered under s. 1 of the Co-operative and Community Benefit Societies Act 2014 (which include credit unions and industrial and provident societies), Northern Ireland credit unions, Northern Ireland industrial and provident societies, banks which hold less than £25 billion core deposits, and bodies which would only have become ring-fenced bodies as a result of action being taken under the Banking Act 2009 to stabilise a bank in financial difficulty where not more than four years has passed since the date of that action.
+
+Article 2 defines core deposit and provides that if a deposit is not a core deposit, then the activity of accepting it is not a core activity. A deposit is a core deposit if it held in an EEA account unless one or more of account holders is a relevant financial institution; a qualifying organisation; a member of a qualifying group, or an eligible individual.
+
+Article 3 defines a qualifying organisation as an organisation that has confirmed to a UK deposit-taker that it met the qualifying condition in the relevant financial year.
+
+Article 4 specifies the qualifying condition for a body corporate or a partnership. The condition is that in a relevant financial year the organisation meets at least one of three conditions: its turnover is not less than £6.5 million; its balance sheet total is not less than £3.26 million; it employs not less than 50 people.
+
+Article 5 specifies the qualifying condition for a public body, a charity or a charitable incorporated organisation (CIO). The condition is that in a relevant financial year the organisation has a gross income of more than £6.5 million.
+
+Article 6 sets out the requirements for the confirming statement which must be provided with the declaration made by a qualifying organisation.
+
+Article 7 requires an organisation which providing to a UK deposit-taker a qualifying organisation declaration that is supported by annual accounts, to provide those annual accounts in sterling, or accompanied by a set of those annual accounts converted into sterling.
+
+Article 8 defines “qualifying group member” and sets out the requirements for the declaration which must be made by the qualifying group member.
+
+Article 9 defines when an individual is an eligible individual and how they may certify this is the case by providing a declaration of eligibility. An individual is eligible if they have provided a statement that they held not less than £250,000 in assets on average during the period of one year ending with the date of the declaration of eligibility.
+
+Article 10 makes provision about how to determine the assets held by an individual and the value of those assets (which must consist of money or transferable securities) for the purpose of preparing a declaration of eligibility.
+
+Article 11 specifies types of UK deposit-taker which are not ring-fenced bodies.
+
+Article 12 sets out the core deposit level condition which determines whether or not a deposit-taker is a ring-fenced body, and makes provision for calculating the average core deposit total for UK deposit-takers.
+
+Article 13 makes provision for the exclusion of certain deposits from the average core deposit total.
+
+Article 14 requires the FCA to make rules applicable to non ring-fenced bodies specifying information they must provide to their account holders in specified circumstances.
+
+An Impact Assessment of the effect of the Financial Services (Banking Reform) Act 2013, and the secondary legislation to be made under it (including this Order) on the costs of business and the voluntary sector has been prepared and is available on HM Treasury's website (www.gov.uk/treasury) or from the HM Treasury, 1 Horse Guards Road, London SW1A 2HQ and is annexed to the Explanatory Memorandum for this Order.
+
+## Annotations
+
+[^c22188331]: Marginal citation: [2000 c. 8](https://www.legislation.gov.uk/ukpga/2000/8). Sections 142A to 142Z1 were inserted into the Act by the Financial Services (Banking Reform) Act 2013, section 4.
+
+[^c22188341]: Marginal citation: [2006 c.46](https://www.legislation.gov.uk/ukpga/2006/46).
+
+[^c22188351]: Marginal citation: [2011 c. 25](https://www.legislation.gov.uk/ukpga/2011/25).
+
+[^c22188361]: Marginal citation: [2005 asp 10](https://www.legislation.gov.uk/asp/2005/10).
+
+[^c22188371]: Marginal citation: [2008 c. 12 (N.I.)](https://www.legislation.gov.uk/nia/2008/12).
+
+[^c22188381]: Marginal citation: [S.I. 2001/544](https://www.legislation.gov.uk/uksi/2001/544).This article was amended by [S.I. 2002/682](https://www.legislation.gov.uk/uksi/2002/682).
+
+[^key-af2d4999f3f99395fd39afbcdf2c0482]: Textual amendment: Words in [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/1960/article/1/3) omitted (4.2.2025) by virtue of [The Financial Services and Markets Act 2000 (Ring-fenced Bodies, Core Activities, Excluded Activities and Prohibitions) (Amendment) Order 2025 (S.I. 2025/30)](https://www.legislation.gov.uk/uksi/2025/30), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/30/article/1/2), [3(a)](https://www.legislation.gov.uk/uksi/2025/30/article/3/a)
+
+[^c22188391]: Marginal citation: S.I. 2014/\[ \].
+
+[^c22188401]: Marginal citation: [S.I. 2008/1911](https://www.legislation.gov.uk/uksi/2008/1911).
+
+[^c22188411]: Marginal citation: [S.I. 2008/629](https://www.legislation.gov.uk/uksi/2008/629).
+
+[^c22188421]: Marginal citation: [2014 c.14](https://www.legislation.gov.uk/ukpga/2014/14).
+
+[^c22188431]: Marginal citation: [1969 c. 24 (N.I.)](https://www.legislation.gov.uk/apni/1969/24).
+
+[^c22188441]: Marginal citation: [S.I. 1985/1205 (N.I. 12)](https://www.legislation.gov.uk/nisi/1985/1205).
+
+[^c22188451]: Marginal citation: [1974 c. 46](https://www.legislation.gov.uk/ukpga/1974/46). There are amendments to section 111, but none are relevant to this Order.
+
+[^c22188461]: Marginal citation: [1992 c. 40](https://www.legislation.gov.uk/ukpga/1992/40).
+
+[^c22188471]: Marginal citation: [2000 c. 12](https://www.legislation.gov.uk/ukpga/2000/12). There are amendments to the Act, but none are relevant to this Order.
+
+[^key-201b834a225e388ca37c193d85773210]: Textual amendment: Words in [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/1960/article/1/3) inserted (4.2.2025) by [The Financial Services and Markets Act 2000 (Ring-fenced Bodies, Core Activities, Excluded Activities and Prohibitions) (Amendment) Order 2025 (S.I. 2025/30)](https://www.legislation.gov.uk/uksi/2025/30), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/30/article/1/2), [3(b)](https://www.legislation.gov.uk/uksi/2025/30/article/3/b)
+
+[^key-a9bcedd2008e5c31a2aa9fd8141730b4]: Textual amendment: Words in [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/1960/article/1) omitted (1.12.2016) by virtue of [The Financial Services and Markets Act 2000 (Ring-fenced Bodies, Core Activities, Excluded Activities and Prohibitions) (Amendment) Order 2016 (S.I. 2016/1032)](https://www.legislation.gov.uk/uksi/2016/1032), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/1032/article/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2016/1032/article/2/2/b)
+
+[^key-3a771c35c1e82a7ccf72b0a4ea1a00fd]: Textual amendment: Words in [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/1960/article/1) inserted (1.12.2016) by [The Financial Services and Markets Act 2000 (Ring-fenced Bodies, Core Activities, Excluded Activities and Prohibitions) (Amendment) Order 2016 (S.I. 2016/1032)](https://www.legislation.gov.uk/uksi/2016/1032), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/1032/article/1/2), [2(2)(c)](https://www.legislation.gov.uk/uksi/2016/1032/article/2/2/c)
+
+[^c22188481]: Marginal citation: [2009 c. 1](https://www.legislation.gov.uk/ukpga/2009/1). Section 14 was amended by [S.I. 2013/3115](https://www.legislation.gov.uk/uksi/2013/3115).
+
+[^key-98429bccfeca0d8ab48320def7660560]: Textual amendment: Words in [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/1960/article/1/3) inserted (4.2.2025) by [The Financial Services and Markets Act 2000 (Ring-fenced Bodies, Core Activities, Excluded Activities and Prohibitions) (Amendment) Order 2025 (S.I. 2025/30)](https://www.legislation.gov.uk/uksi/2025/30), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/30/article/1/2), [3(c)](https://www.legislation.gov.uk/uksi/2025/30/article/3/c)
+
+[^key-4d52fa8943560015cc2c6ba4313432c7]: Textual amendment: Words in [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/1960/article/1/3) inserted (31.12.2020) by [The Financial Services and Markets Act 2000 (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/632)](https://www.legislation.gov.uk/uksi/2019/632), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/632/regulation/1/3), [191(2)](https://www.legislation.gov.uk/uksi/2019/632/regulation/191/2) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11) (as amended by [S.I. 2019/1212](https://www.legislation.gov.uk/uksi/2019/1212), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/1/3), [22(3)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/22/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-a88e6dda5a4794ff403eafe7953f22e0]: Textual amendment: Words in [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/1960/article/1) substituted (1.12.2016) by [The Financial Services and Markets Act 2000 (Ring-fenced Bodies, Core Activities, Excluded Activities and Prohibitions) (Amendment) Order 2016 (S.I. 2016/1032)](https://www.legislation.gov.uk/uksi/2016/1032), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/1032/article/1/2), [2(2)(d)](https://www.legislation.gov.uk/uksi/2016/1032/article/2/2/d)
+
+[^key-b8649250712388b5a73066a54680002d]: Textual amendment: Words in [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/1960/article/1/3) inserted (4.2.2025) by [The Financial Services and Markets Act 2000 (Ring-fenced Bodies, Core Activities, Excluded Activities and Prohibitions) (Amendment) Order 2025 (S.I. 2025/30)](https://www.legislation.gov.uk/uksi/2025/30), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/30/article/1/2), [3(d)](https://www.legislation.gov.uk/uksi/2025/30/article/3/d)
+
+[^key-4a6feab54fe88f3680d5dcbac3c43014]: Textual amendment: Words in [art. 2(2)](https://www.legislation.gov.uk/uksi/2014/1960/article/2/2) inserted (31.12.2020) by [The Financial Services and Markets Act 2000 (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/632)](https://www.legislation.gov.uk/uksi/2019/632), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/632/regulation/1/3), [191(3)(a)](https://www.legislation.gov.uk/uksi/2019/632/regulation/191/3/a) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11) (as amended by [S.I. 2019/1212](https://www.legislation.gov.uk/uksi/2019/1212), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/1/3), [22(3)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/22/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-5fa92b73548455630f50bbdfef033a87]: Textual amendment: Words in [art. 2(2)](https://www.legislation.gov.uk/uksi/2014/1960/article/2/2) omitted (4.2.2025) by virtue of [The Financial Services and Markets Act 2000 (Ring-fenced Bodies, Core Activities, Excluded Activities and Prohibitions) (Amendment) Order 2025 (S.I. 2025/30)](https://www.legislation.gov.uk/uksi/2025/30), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/30/article/1/2), [4(1)(a)(i)](https://www.legislation.gov.uk/uksi/2025/30/article/4/1/a/i)
+
+[^key-2fefe8feecfd6cb710cbb6a3887bee21]: Textual amendment: [Art. 2(2)(aa)](https://www.legislation.gov.uk/uksi/2014/1960/article/2/2/aa) inserted (4.2.2025) by [The Financial Services and Markets Act 2000 (Ring-fenced Bodies, Core Activities, Excluded Activities and Prohibitions) (Amendment) Order 2025 (S.I. 2025/30)](https://www.legislation.gov.uk/uksi/2025/30), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/30/article/1/2), [4(1)(a)(ii)](https://www.legislation.gov.uk/uksi/2025/30/article/4/1/a/ii)
+
+[^key-d6754612191b3b81c91d2ea84598c51e]: Textual amendment: Word in art. 2(2) omitted (31.10.2018) by virtue of [The Financial Services and Markets Act 2000 (Ring-fenced Bodies and Core Activities) (Amendment) Order 2018 (S.I. 2018/897)](https://www.legislation.gov.uk/uksi/2018/897), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/897/article/1/2), [2(2)(a)(i)](https://www.legislation.gov.uk/uksi/2018/897/article/2/2/a/i)
+
+[^key-23a9e50b5084ced50181977f0bdf5331]: Textual amendment: Word in [art. 2(2)(d)](https://www.legislation.gov.uk/uksi/2014/1960/article/2/2/d) omitted (4.2.2025) by virtue of [The Financial Services and Markets Act 2000 (Ring-fenced Bodies, Core Activities, Excluded Activities and Prohibitions) (Amendment) Order 2025 (S.I. 2025/30)](https://www.legislation.gov.uk/uksi/2025/30), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/30/article/1/2), [4(1)(a)(iii)](https://www.legislation.gov.uk/uksi/2025/30/article/4/1/a/iii)
+
+[^key-ec76aa74584905d0f616e3206ee218a3]: Textual amendment: Art. 2(2)(e) and word inserted (31.10.2018) by [The Financial Services and Markets Act 2000 (Ring-fenced Bodies and Core Activities) (Amendment) Order 2018 (S.I. 2018/897)](https://www.legislation.gov.uk/uksi/2018/897), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/897/article/1/2), [2(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2018/897/article/2/2/a/ii)
+
+[^key-213489c916f92fe06735bfce4d0d5a81]: Textual amendment: [Art. 2(2)(f)-(m)](https://www.legislation.gov.uk/uksi/2014/1960/article/2/2/f) inserted (4.2.2025) by [The Financial Services and Markets Act 2000 (Ring-fenced Bodies, Core Activities, Excluded Activities and Prohibitions) (Amendment) Order 2025 (S.I. 2025/30)](https://www.legislation.gov.uk/uksi/2025/30), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/30/article/1/2), [4(1)(a)(iv)](https://www.legislation.gov.uk/uksi/2025/30/article/4/1/a/iv)
+
+[^key-fc97e5f4bab8dd5aaef339dfe28a3352]: Textual amendment: [Art. 2(3)(b)](https://www.legislation.gov.uk/uksi/2014/1960/article/2/3/b) omitted (4.2.2025) by virtue of [The Financial Services and Markets Act 2000 (Ring-fenced Bodies, Core Activities, Excluded Activities and Prohibitions) (Amendment) Order 2025 (S.I. 2025/30)](https://www.legislation.gov.uk/uksi/2025/30), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/30/article/1/2), [4(1)(b)](https://www.legislation.gov.uk/uksi/2025/30/article/4/1/b)
+
+[^key-da44be8329faa363adfa2cd06bdc2c65]: Textual amendment: [Art. 2(3)(ba)](https://www.legislation.gov.uk/uksi/2014/1960/article/2/3/ba) inserted (31.12.2020) by [The Financial Services and Markets Act 2000 (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/632)](https://www.legislation.gov.uk/uksi/2019/632), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/632/regulation/1/3), [191(3)(b)](https://www.legislation.gov.uk/uksi/2019/632/regulation/191/3/b) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11) (as amended by [S.I. 2019/1212](https://www.legislation.gov.uk/uksi/2019/1212), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/1/3), [22(3)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/22/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-de0a6a04fb210be8a5a6fb1c2a38442f]: Textual amendment: Art. 2(3)(e) inserted (31.10.2018) by [The Financial Services and Markets Act 2000 (Ring-fenced Bodies and Core Activities) (Amendment) Order 2018 (S.I. 2018/897)](https://www.legislation.gov.uk/uksi/2018/897), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/897/article/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2018/897/article/2/2/b)
+
+[^key-c5314e1e660429e67f44bf4674e8ffc1]: Textual amendment: [Art. 2(4)](https://www.legislation.gov.uk/uksi/2014/1960/article/2/4) inserted (4.2.2025) by [The Financial Services and Markets Act 2000 (Ring-fenced Bodies, Core Activities, Excluded Activities and Prohibitions) (Amendment) Order 2025 (S.I. 2025/30)](https://www.legislation.gov.uk/uksi/2025/30), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/30/article/1/2), [4(1)(c)](https://www.legislation.gov.uk/uksi/2025/30/article/4/1/c)
+
+[^key-ea5b9cfa68bacff61667ce8d8fd495df]: Textual amendment: Art. 3 substituted (1.12.2016) by [The Financial Services and Markets Act 2000 (Ring-fenced Bodies, Core Activities, Excluded Activities and Prohibitions) (Amendment) Order 2016 (S.I. 2016/1032)](https://www.legislation.gov.uk/uksi/2016/1032), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/1032/article/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2016/1032/article/2/3)
+
+[^key-d0369894211c6e72e65e74e42fc02d6f]: Textual amendment: [Art. 3(3)](https://www.legislation.gov.uk/uksi/2014/1960/article/3/3) omitted (4.2.2025) by virtue of [The Financial Services and Markets Act 2000 (Ring-fenced Bodies, Core Activities, Excluded Activities and Prohibitions) (Amendment) Order 2025 (S.I. 2025/30)](https://www.legislation.gov.uk/uksi/2025/30), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/30/article/1/2), [4(2)](https://www.legislation.gov.uk/uksi/2025/30/article/4/2)
+
+[^key-334f3c214c5f753f212d2ccfd46f8a39]: Textual amendment: [Art. 4(3)(b)](https://www.legislation.gov.uk/uksi/2014/1960/article/4/3/b) substituted (1.12.2016) by [The Financial Services and Markets Act 2000 (Ring-fenced Bodies, Core Activities, Excluded Activities and Prohibitions) (Amendment) Order 2016 (S.I. 2016/1032)](https://www.legislation.gov.uk/uksi/2016/1032), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/1032/article/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2016/1032/article/2/4)
+
+[^c22188501]: Marginal citation: 2005 (asp 10).
+
+[^c22188511]: Marginal citation: [2008 c. 12 (N.I.)](https://www.legislation.gov.uk/nia/2008/12).
+
+[^c22188521]: Marginal citation: [S.S.I. 2006/218](https://www.legislation.gov.uk/ssi/2006/218). There are amendments to regulation 1, but they are not relevant to this Order.
+
+[^key-d1289f84dee3824d928ffe072168061a]: Textual amendment: Arts. 6, 7 omitted (1.12.2016) by virtue of [The Financial Services and Markets Act 2000 (Ring-fenced Bodies, Core Activities, Excluded Activities and Prohibitions) (Amendment) Order 2016 (S.I. 2016/1032)](https://www.legislation.gov.uk/uksi/2016/1032), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/1032/article/1/2), [2(5)](https://www.legislation.gov.uk/uksi/2016/1032/article/2/5)
+
+[^key-e42c856db8ee94f98d700b62a1ea24e4]: Textual amendment: Art. 8 substituted (1.12.2016) by [The Financial Services and Markets Act 2000 (Ring-fenced Bodies, Core Activities, Excluded Activities and Prohibitions) (Amendment) Order 2016 (S.I. 2016/1032)](https://www.legislation.gov.uk/uksi/2016/1032), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/1032/article/1/2), [2(6)](https://www.legislation.gov.uk/uksi/2016/1032/article/2/6)
+
+[^key-fa141b893087813dbd0a73374f0484f0]: Textual amendment: [Art. 8(2)](https://www.legislation.gov.uk/uksi/2014/1960/article/8/2) omitted (4.2.2025) by virtue of [The Financial Services and Markets Act 2000 (Ring-fenced Bodies, Core Activities, Excluded Activities and Prohibitions) (Amendment) Order 2025 (S.I. 2025/30)](https://www.legislation.gov.uk/uksi/2025/30), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/30/article/1/2), [4(3)](https://www.legislation.gov.uk/uksi/2025/30/article/4/3)
+
+[^key-e23b6580f76f1165cdf160de83ee6a10]: Textual amendment: [Art. 8(3)](https://www.legislation.gov.uk/uksi/2014/1960/article/8/3) omitted (4.2.2025) by virtue of [The Financial Services and Markets Act 2000 (Ring-fenced Bodies, Core Activities, Excluded Activities and Prohibitions) (Amendment) Order 2025 (S.I. 2025/30)](https://www.legislation.gov.uk/uksi/2025/30), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/30/article/1/2), [4(3)](https://www.legislation.gov.uk/uksi/2025/30/article/4/3)
+
+[^key-77edce0e9cfacc8cdda880b2b7e37294]: Textual amendment: Words in [art. 10(5)(b)](https://www.legislation.gov.uk/uksi/2014/1960/article/10/5/b) substituted (31.12.2020) by [The Financial Services and Markets Act 2000 (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/632)](https://www.legislation.gov.uk/uksi/2019/632), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/632/regulation/1/3), [191(4)](https://www.legislation.gov.uk/uksi/2019/632/regulation/191/4) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11) (as amended by [S.I. 2019/1212](https://www.legislation.gov.uk/uksi/2019/1212), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/1/3), [22(3)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/22/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-d754343b90361554a6274494ce07586d]: Modification: [Art. 11](https://www.legislation.gov.uk/uksi/2014/1960/article/11) modified (23.6.2023) by [The Amendments of the Law (Resolution of Silicon Valley Bank UK Limited) (No. 2) Order 2023 (S.I. 2023/694)](https://www.legislation.gov.uk/uksi/2023/694), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/694/article/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2023/694/article/2/2)
+
+[^key-c1a9c15eb5287c0976c38aa2ebfe28d8]: Textual amendment: Word in [art. 11(1)(c)](https://www.legislation.gov.uk/uksi/2014/1960/article/11/1/c) omitted (4.2.2025) by virtue of [The Financial Services and Markets Act 2000 (Ring-fenced Bodies, Core Activities, Excluded Activities and Prohibitions) (Amendment) Order 2025 (S.I. 2025/30)](https://www.legislation.gov.uk/uksi/2025/30), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/30/article/1/2), [5(1)(a)(i)](https://www.legislation.gov.uk/uksi/2025/30/article/5/1/a/i)
+
+[^key-937861726981bbcdca6ae2eef395ca1d]: Textual amendment: [Art. 11(1)(e)](https://www.legislation.gov.uk/uksi/2014/1960/article/11/1/e) and word inserted (4.2.2025) by [The Financial Services and Markets Act 2000 (Ring-fenced Bodies, Core Activities, Excluded Activities and Prohibitions) (Amendment) Order 2025 (S.I. 2025/30)](https://www.legislation.gov.uk/uksi/2025/30), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/30/article/1/2), [5(1)(a)(ii)](https://www.legislation.gov.uk/uksi/2025/30/article/5/1/a/ii)
+
+[^key-f078e5745e39ac7c0ed29742510e19c0]: Textual amendment: [Art. 11(1A)](https://www.legislation.gov.uk/uksi/2014/1960/article/11/1A)[(1B)](https://www.legislation.gov.uk/uksi/2014/1960/article/11/1B) inserted (4.2.2025) by [The Financial Services and Markets Act 2000 (Ring-fenced Bodies, Core Activities, Excluded Activities and Prohibitions) (Amendment) Order 2025 (S.I. 2025/30)](https://www.legislation.gov.uk/uksi/2025/30), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/30/article/1/2), [5(1)(b)](https://www.legislation.gov.uk/uksi/2025/30/article/5/1/b)
+
+[^c22188551]: Marginal citation: [2009 c. 1](https://www.legislation.gov.uk/ukpga/2009/1).
+
+[^key-ff44c643dd12adfc5724f7f5fc99b063]: Textual amendment: [Art. 11(3)(c)](https://www.legislation.gov.uk/uksi/2014/1960/article/11/3/c)[(d)](https://www.legislation.gov.uk/uksi/2014/1960/article/11/3/d) inserted (4.2.2025) by [The Financial Services and Markets Act 2000 (Ring-fenced Bodies, Core Activities, Excluded Activities and Prohibitions) (Amendment) Order 2025 (S.I. 2025/30)](https://www.legislation.gov.uk/uksi/2025/30), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/30/article/1/2), [5(1)(c)](https://www.legislation.gov.uk/uksi/2025/30/article/5/1/c)
+
+[^key-b68596ade4dfe07e48a7fd2e8199a053]: Textual amendment: Sum in [art. 12(1)(a)](https://www.legislation.gov.uk/uksi/2014/1960/article/12/1/a) substituted (4.2.2025) by [The Financial Services and Markets Act 2000 (Ring-fenced Bodies, Core Activities, Excluded Activities and Prohibitions) (Amendment) Order 2025 (S.I. 2025/30)](https://www.legislation.gov.uk/uksi/2025/30), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/30/article/1/2), [5(2)](https://www.legislation.gov.uk/uksi/2025/30/article/5/2)
+
+[^key-ce089d553339a1871dfe30db7280f54f]: Textual amendment: Sum in [art. 12(1)(b)](https://www.legislation.gov.uk/uksi/2014/1960/article/12/1/b) substituted (4.2.2025) by [The Financial Services and Markets Act 2000 (Ring-fenced Bodies, Core Activities, Excluded Activities and Prohibitions) (Amendment) Order 2025 (S.I. 2025/30)](https://www.legislation.gov.uk/uksi/2025/30), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/30/article/1/2), [5(2)](https://www.legislation.gov.uk/uksi/2025/30/article/5/2)
+
+[^key-2f020f45d7fab32d30c30594861e520b]: Textual amendment: [Art. 13A](https://www.legislation.gov.uk/uksi/2014/1960/article/13A) inserted (4.2.2025) by [The Financial Services and Markets Act 2000 (Ring-fenced Bodies, Core Activities, Excluded Activities and Prohibitions) (Amendment) Order 2025 (S.I. 2025/30)](https://www.legislation.gov.uk/uksi/2025/30), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/30/article/1/2), [5(3)](https://www.legislation.gov.uk/uksi/2025/30/article/5/3)
+
+[^key-405a14dd3aaf3ab890da80eaf4112c51]: Textual amendment: Words in [art. 14(1)(a)](https://www.legislation.gov.uk/uksi/2014/1960/article/14/1/a) inserted (31.12.2020) by [The Financial Services and Markets Act 2000 (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/632)](https://www.legislation.gov.uk/uksi/2019/632), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/632/regulation/1/3), [191(5)(a)](https://www.legislation.gov.uk/uksi/2019/632/regulation/191/5/a) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11) (as amended by [S.I. 2019/1212](https://www.legislation.gov.uk/uksi/2019/1212), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/1/3), [22(3)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/22/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-6e72490f042beb91f14a71087facbe1e]: Textual amendment: Words in [art. 14(1)(a)](https://www.legislation.gov.uk/uksi/2014/1960/article/14/1/a) omitted (4.2.2025) by virtue of [The Financial Services and Markets Act 2000 (Ring-fenced Bodies, Core Activities, Excluded Activities and Prohibitions) (Amendment) Order 2025 (S.I. 2025/30)](https://www.legislation.gov.uk/uksi/2025/30), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/30/article/1/2), [6(a)](https://www.legislation.gov.uk/uksi/2025/30/article/6/a)
+
+[^key-36eb80394c29d4715049a86f979d9342]: Textual amendment: Words in [art. 14(1)(a)](https://www.legislation.gov.uk/uksi/2014/1960/article/14/1/a) substituted (1.12.2016) by [The Financial Services and Markets Act 2000 (Ring-fenced Bodies, Core Activities, Excluded Activities and Prohibitions) (Amendment) Order 2016 (S.I. 2016/1032)](https://www.legislation.gov.uk/uksi/2016/1032), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/1032/article/1/2), [2(7)(a)](https://www.legislation.gov.uk/uksi/2016/1032/article/2/7/a)
+
+[^key-71ca5139752bd2e9f265f7717b289135]: Textual amendment: Words in [art. 14(1)(b)](https://www.legislation.gov.uk/uksi/2014/1960/article/14/1/b) inserted (31.12.2020) by [The Financial Services and Markets Act 2000 (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/632)](https://www.legislation.gov.uk/uksi/2019/632), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/632/regulation/1/3), [191(5)(b)](https://www.legislation.gov.uk/uksi/2019/632/regulation/191/5/b) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11) (as amended by [S.I. 2019/1212](https://www.legislation.gov.uk/uksi/2019/1212), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/1/3), [22(3)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/22/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-62111fdac9143db5ebcdee2f4195c370]: Textual amendment: Words in [art. 14(1)(b)](https://www.legislation.gov.uk/uksi/2014/1960/article/14/1/b) omitted (4.2.2025) by virtue of [The Financial Services and Markets Act 2000 (Ring-fenced Bodies, Core Activities, Excluded Activities and Prohibitions) (Amendment) Order 2025 (S.I. 2025/30)](https://www.legislation.gov.uk/uksi/2025/30), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/30/article/1/2), [6(b)](https://www.legislation.gov.uk/uksi/2025/30/article/6/b)
+
+[^key-fce5ffb29f3d28a16a9bbf6f1a9d1cac]: Textual amendment: Words in [art. 14(1)(b)](https://www.legislation.gov.uk/uksi/2014/1960/article/14/1/b) inserted (1.12.2016) by [The Financial Services and Markets Act 2000 (Ring-fenced Bodies, Core Activities, Excluded Activities and Prohibitions) (Amendment) Order 2016 (S.I. 2016/1032)](https://www.legislation.gov.uk/uksi/2016/1032), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/1032/article/1/2), [2(7)(b)(ii)](https://www.legislation.gov.uk/uksi/2016/1032/article/2/7/b/ii)
+
+[^c22188561]: Marginal citation: “Excluded activity” is defined in section 142D of the Act. Section 142D was inserted into the Act by the Financial Services (Banking Reform) Act 2013 (c 33), section 4.

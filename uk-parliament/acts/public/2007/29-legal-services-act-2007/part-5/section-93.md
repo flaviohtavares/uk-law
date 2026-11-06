@@ -1,0 +1,55 @@
+---
+title: Legal Services Act 2007, section 93
+act: Legal Services Act 2007
+section: '93'
+status: revised-with-pending-changes
+text_date: '2025-01-01'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/2007/29/section/93
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Legal Services Act 2007, section 93
+
+> **Warning: changes not yet applied to this text (1).** Text as at 2025-01-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2007/29
+>
+> Extent: England, Wales, Scotland.
+
+## 93. Information[^key-23614f379b2d9f6f55151d1ffd292801]
+
+*Extent: E+W*
+
+(1) The relevant licensing authority in relation to a licensed body may by notice require a person within subsection (2)—
+
+- (a) to provide information, or information of a description, specified in the notice, or
+- (b) produce documents, or documents of a description, specified in the notice,
+
+for the purpose of enabling the licensing authority to ascertain whether the terms of the licensed body's licence are being, or have been, complied with.
+
+(2) The persons are—
+
+- (a) the licensed body;
+- (b) any manager or employee (or former manager or employee) of the licensed body;
+- (c) any non-authorised person who has an interest or an indirect interest, or holds a material interest, in the licensed body.
+
+(3) A notice under subsection (1)—
+
+- (a) may specify the manner and form in which any information is to be provided;
+- (b) must specify the period within which the information is to be provided or the document produced;
+- (c) may require the information to be provided, or the document to be produced, to the licensing authority or to a person specified in the notice.
+
+(4) The licensing authority may, by notice, require a person within subsection (2) (or a representative of such a person) to attend at a time and place specified in the notice to provide an explanation of any information provided or document produced under this section.
+
+(5) The licensing authority may pay to any person such reasonable costs as may be incurred by that person in connection with—
+
+- (a) the provision of any information, or production of any document, by that person pursuant to a notice under subsection (1), or
+- (b) that person's compliance with a requirement imposed under subsection (4).
+
+(6) The licensing authority, or a person specified under subsection (3)(c) in a notice, may take copies of or extracts from a document produced pursuant to a notice under subsection (1).
+
+(7) For the purposes of this section and section 94, references to a licensed body include a body which was, but is no longer, a licensed body.
+
+## Annotations
+
+[^key-23614f379b2d9f6f55151d1ffd292801]: Commencement: S. 93 in force at 1.10.2011 by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/c)

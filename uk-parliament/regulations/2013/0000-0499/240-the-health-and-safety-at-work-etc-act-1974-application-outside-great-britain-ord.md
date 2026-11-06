@@ -1,0 +1,313 @@
+---
+title: The Health and Safety at Work etc. Act 1974 (Application outside Great Britain) Order 2013
+id: uksi/2013/240
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2013-02-12'
+text_date: '2026-04-06'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2013/240
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2013/240/pdfs/uksiem_20130240_en.pdf
+- http://www.legislation.gov.uk/uksi/2013/240/pdfs/uksi_20130240_en.pdf
+- http://www.legislation.gov.uk/uksi/2013/240/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Health and Safety at Work etc. Act 1974 (Application outside Great Britain) Order 2013
+
+> Text as at 2026-04-06.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2013 No. 240
+
+Health And Safety
+
+The Health and Safety at Work etc. Act 1974 (Application outside Great Britain) Order 2013
+
+Made
+
+12th February 2013
+
+Laid before Parliament
+
+19th February 2013
+
+Coming into force
+
+6th April 2013
+
+At the Court at Buckingham Palace, the 12th day of February 2013
+
+Present,
+
+The Queen’s Most Excellent Majesty in Council
+
+Her Majesty, in exercise of the powers conferred by section 84(3) and (4) of the Health and Safety at Work etc Act 1974[^f00001], is pleased by and with the advice of Her Privy Council, to order, and it is hereby ordered as follows:
+
+## 1. Citation, commencement and revocation[^key-9f8e6c715887dea2f19c2bd0218aab55]
+
+(1) This Order may be cited as the Health and Safety at Work etc. Act 1974 (Application outside Great Britain) Order 2013 and comes into force on 6th April 2013.
+
+(2) The Health and Safety at Work etc. Act 1974 (Application outside Great Britain) Order 2001[^f00002] and the Health and Safety at Work etc. Act 1974 (Application outside Great Britain) (Variation) Order 2011[^f00003] are revoked.
+
+## 2. Interpretation[^key-c8fdb3f19e12e9178f622689ccaefdec]
+
+(1) In this Order—
+
+- “the 1974 Act” means the Health and Safety at Work etc. Act 1974;
+- “activity” includes, unless the context otherwise requires, a diving project and standing a vessel by;
+- “designated area” means any area designated by order under section 1(7) of the Continental Shelf Act 1964[^f00004] and “within a designated area” includes over and under it;
+- “diving project” has the same meaning as it has in the Diving at Work Regulations 1997[^f00005] save that it includes an activity in which a person takes part as a diver wearing an atmospheric pressure suit and without breathing in air or other gas at a pressure greater than atmospheric pressure;
+- “gas importation and storage zone” has the meaning given by section 1(5) of the Energy Act 2008[^f00006] and “within a gas importation and storage zone” includes over and under it;
+- “offshore installation” has the meaning given in article 4(2) and (3) of this Order;
+- “the prescribed provisions of the 1974 Act” means sections 1 to 59 and 80 to 82 of the 1974 Act;
+- “supplementary unit” means a fixed or floating structure, other than a vessel, for providing energy, information or substances to an offshore installation;
+- “territorial sea” means the territorial sea adjacent to Great Britain and “within the territorial sea” includes on, over and under it; and
+- “vessel” includes a hovercraft and any floating structure which is capable of being navigated.
+
+(2) For the purposes of this Order, any structures and devices on top of a well are treated as forming part of the well.
+
+## 3. Application of the 1974 Act outside Great Britain[^key-6fa28916102e6dabaa9326a40223816c]
+
+(1) The prescribed provisions of the 1974 Act, to the extent specified in the following articles of this Order, apply to and in relation to the premises and activities outside Great Britain which are so specified as those provisions apply within Great Britain.
+
+(2) The reference in paragraph (1) of this article to premises and activities includes a reference to any person, article or substance on those premises or engaged in or, as the case may be, used or for use in connection with any such activity, but does not include a reference to an aircraft which is airborne.
+
+## 4. Offshore installations[^key-dcf439cbec77d0626d2994094e9a6c5d]
+
+(1) The prescribed provisions of the 1974 Act apply within the territorial sea, a designated area or a gas importation and storage zone to and in relation to—
+
+- (a) any offshore installation and any activity on it;
+- (b) any activity in connection with, or any activity immediately preparatory to an activity in connection with, an offshore installation, whether carried on from the installation itself, in or from a vessel or in any manner, other than an activity falling within paragraph (4);
+- (c) a diving project involving—
+  - (i) the survey and preparation of the sea bed for an offshore installation;
+  - (ii) the survey and restoration of the sea bed consequent on the removal of an offshore installation.
+
+(2) In this Order “offshore installation” means subject to paragraph (3) of this article, a structure which is, is to be, or has been, used while standing or stationed in water, or on the foreshore or other land intermittently covered with water—
+
+- (a) for the exploitation, or exploration with a view to exploitation, of mineral resources by means of a well;
+- (aa)[^key-919a490f19554bc7d55adf9912f5b6bb] for the production of hydrogen including any processes involved in its production;
+- (b) for undertaking activities falling within article 8(2);
+- (c) for the conveyance of things by means of a pipe;
+- (d) for undertaking activities that involve mechanically entering the pressure containment boundary of a well; or
+- (e) primarily for the provision of accommodation for persons who work on or from a structure falling within any of sub-paragraphs (a) to (d),
+
+together with any supplementary unit which is ordinarily connected to it and all the connections.
+
+(3) Any reference in paragraph (2) to a structure or supplementary unit does not include—
+
+- (a) a structure which is connected with dry land by a permanent structure providing access at all times and for all purposes;
+- (b) a well;
+- (c) a mobile structure which has been taken out of use and is not yet being moved with a view to its being used for any of the purposes specified in paragraph (2) of this article;
+- (d) any part of a pipeline; and
+- (e) a structure falling within article 10(c).
+
+(4) Subject to paragraph (5), the following activities fall within this paragraph—
+
+- (a) transporting, towing or navigating an installation;
+- (b) any of the following activities carried on in or from a vessel—
+  - (i) giving assistance in the event of an emergency;
+  - (ii) training in relation to the giving of assistance in the event of an emergency;
+  - (iii) testing equipment for use in giving assistance in the event of an emergency.
+  - (iv) putting or maintaining a vessel on stand-by ready for an activity referred to in any of sub-subparagraphs (i) to (iii).
+
+(5) Paragraph (4)(b) does not apply in respect of a vessel in or from which an activity is carried on in connection with, or any activity that is immediately preparatory to an activity in connection with, an offshore installation other than an activity falling within paragraph 4(b).
+
+## 5. Wells[^key-0f6f1cba36674be42c4ac45ca1f3596b]
+
+(1) Subject to paragraph (2) of this article, the prescribed provisions of the 1974 Act apply within the territorial sea or a designated area to and in relation to—
+
+- (a) a well and any activity in connection with it; and
+- (b) an activity which is immediately preparatory to any activity in sub-paragraph (a) above.
+
+(2) Paragraph (1) of this article includes keeping a vessel on station for the purpose of working on a well but otherwise does not include navigation or an activity connected with navigation.
+
+## 6. Pipelines[^key-df0f6fc9236a19eafbc77928a5b7ccd8]
+
+(1) The prescribed provisions of the 1974 Act apply within the territorial sea or a designated area to and in relation to—
+
+- (a) any pipeline;
+- (b) any pipeline works;
+- (c) the following activities in connection with pipeline works—
+  - (i) the loading, unloading, fuelling or provisioning of a vessel engaged in pipeline works;
+  - (ii) the loading, unloading, fuelling, repair and maintenance of an aircraft on a vessel engaged in pipeline works; or
+  - (iii) the moving, supporting, laying or retrieving of anchors attached to a pipe-laying vessel including the supervision of those activities and giving of instruction in connection with them.
+
+(2) In this article—
+
+- “pipeline” means a pipe or system of pipes for the conveyance of any thing, together with—
+  - (a) any apparatus for inducing or facilitating the flow of any thing through, or through part of, the pipe or system;
+  - (b) any apparatus for treating or cooling any thing which is to flow through, or through part of, the pipe or system;
+  - (c) valves, valve chambers and similar works which are annexed to, or incorporated in the course of, the pipe or system;
+  - (d) apparatus for supplying energy for the operation of any such apparatus or works as are mentioned in the preceding paragraphs;
+  - (e) apparatus for the transmission of information for the operation of the pipe or system;
+  - (f) apparatus for the cathodic protection of the pipe or system; and
+  - (g) a structure used or to be used solely for the support of a part of the pipe or system,
+
+but not including a pipeline of which no initial or terminal point is situated in the United Kingdom, within the territorial sea adjacent to the United Kingdom, or within a designated area;
+
+- “pipeline works” means—
+  - (a) assembling or placing a pipeline or length of pipeline including the provision of internal or external protection for it;
+  - (b) inspecting, testing, maintaining, adjusting, repairing, altering or renewing a pipeline or length of pipeline;
+  - (c) changing the position of or dismantling or removing a pipeline or length of pipeline;
+  - (d) opening the bed of the sea for the purposes of the works mentioned in sub-paragraphs (a) to (c) of this definition, and tunnelling or boring for those purposes;
+  - (e) any activities incidental to the activities described in sub-paragraph (a) to (d) of this definition;
+  - (f) a diving project in connection with any of the works mentioned in sub-paragraphs (a) to (e) of this definition or for the purpose of determining whether a place is suitable as part of the site of a proposed pipeline and the carrying out of surveying operations for settling the route of a proposed pipeline.
+
+## 7. Mines[^key-3960b7b5a8193cedafaf2f43296b528d]
+
+(1) The prescribed provisions of the 1974 Act apply to and in relation to a mine within the territorial sea or extending beyond it, and any activity in connection with it, while it is being worked.
+
+(2) In this article “mine” has the same meaning as in the Mines and Quarries Act 1954[^f00007] (“the 1954 Act”).
+
+(3) For the purposes of this article a mine is treated as being worked when it is so treated for the purposes of the 1954 Act.
+
+## 8. Gas Importation and Storage[^key-57eaa4da126f192e2dec86040cfd0088]
+
+(1) Subject to paragraph (3), the prescribed provisions of the 1974 Act apply within the territorial sea or a gas importation and storage zone to and in relation to any activities connected with or immediately preparatory to the activities set out in paragraph (2).
+
+(2) The activities are—
+
+- (a) the unloading of gas to an installation or pipeline;
+- (b) the storage of gas, whether temporary or permanent, in or under the shore or bed of any water;
+- (c) the conversion of any natural feature for the purpose of storing gas, whether temporarily or permanently;
+- (d) the recovery of gas stored;
+- (e) exploration with a view to, or in connection with, the carrying on of activities within sub-paragraphs (a) to (d).
+
+(3) Paragraph (1) does not apply to an activity falling within paragraph (2) if the prescribed provisions of the 1974 Act apply to or in relation to that activity by virtue of article 4(1).
+
+(4) In this article—
+
+- “gas” means any substance which is gaseous at a temperature of 15°C and a pressure of 101.325 kPa (1013.25 mb); and
+- “installation” includes any floating structure or device maintained on a station by whatever means.
+
+(5) For the purposes of paragraphs (2) and (4), references to gas include any substance which consists wholly or mainly of gas.
+
+## 9. Production of Energy from Water or Wind[^key-2052e5046f2caadcb83f9924b655b841]
+
+(1) The prescribed provisions of the 1974 Act apply within the territorial sea or a renewable energy zone to and in relation to any energy structure or activities connected with or preparatory to—
+
+- (a) the exploitation of those areas for the production of energy from water or wind,
+- (b) the exploration of such areas with a view to, or in connection with, the production of energy from water or wind, or
+- (c) the operation of a cable for transmitting electricity from an energy structure.
+
+(2) In this article—
+
+- “energy structure” means a fixed or floating structure or machine, other than a vessel, which is, or is to be, or has been, used for producing energy from water or wind; and
+- “renewable energy zone” has the meaning given by section 84(4) of the Energy Act 2004[^f00008] and “within a renewable energy zone” includes over and under it.
+
+## 10. Underground Coal Gasification[^key-5f411068ac4062717a07dceae7df4fb7]
+
+The prescribed provisions of the 1974 Act apply within the territorial sea or a designated area to and in relation to—
+
+- (a) underground coal gasification and any activity in connection with it;
+- (b) any activity which is immediately preparatory to any activity in paragraph (a); and
+- (c) any fixed or floating structure which is, or is to be, or has been, used in connection with the carrying on of activities within paragraphs (a) and (b).
+
+## 11. Other activities within the territorial sea[^key-1750496fe991b92f9624ed4bda72e7cd]
+
+(1) Subject to paragraph (2), the prescribed provisions of the 1974 Act apply within the territorial sea to and in relation to—
+
+- (a) the construction, reconstruction, alteration, repair, maintenance, cleaning, use, operation, demolition and dismantling of any building, or other structure, not being in any case a vessel, or any preparation for any such activity;
+- (b) the transfer of people or goods between a vessel or aircraft and a structure (including a building) mentioned in sub-paragraph (a) of this paragraph;
+- (c) the loading, unloading, fuelling or provisioning of a vessel;
+- (d) a diving project;
+- (e) the laying, installation, inspection, maintenance, operation, recovery or repair of a cable;
+- (f) the construction, reconstruction, finishing, refitting, repair, maintenance, cleaning or breaking up of a vessel except when carried out by the master or any officer or member of the crew of that vessel;
+- (g) the maintaining on a station of a vessel which would be an offshore installation were it not a structure to which article 4(3)(c) of this Order applies;
+- (h) the transfer of people or goods between a vessel or aircraft and a structure mentioned in sub-paragraph (g) of this paragraph.
+
+(2) This article does not apply—
+
+- (a) to a case where article 4, 5, 6, 7, 8, 9 or 10 of this Order applies; or
+- (b) to vessels which are registered outside the United Kingdom and are on passage through the territorial sea.
+
+## 12. Legal proceedings[^key-dea5509fa15e22cd871c1c268afff7bc]
+
+(1) Proceedings for any offence under section 33 of the 1974 Act[^f00009], being an offence to which that section applies by virtue of this Order, may be taken, and the offence may for all incidental purposes be treated as having been committed, in any place in Great Britain.
+
+(2) Section 3 of the Territorial Waters Jurisdiction Act 1878[^f00010] (which requires certain consents for the institution of proceedings) does not apply to proceedings for any offence to which paragraph (1) of this article relates.
+
+## 13. Miscellaneous provisions[^key-699fadb9e131264c4581c0325fbca04e]
+
+The prescribed provisions of the 1974 Act apply in accordance with this Order to individuals whether or not they are British subjects, and to bodies corporate whether or not they are incorporated under the law of any part of the United Kingdom.
+
+**14.**[^key-09d8c1097e917cb3ea2973687ea4a561] Nothing in this Order except article 12(2) limits or prejudices the operation which any Act or legislative instrument may, apart from this Order, have in the territorial sea or elsewhere.
+
+Richard Tilbrook
+
+Clerk of the Privy Council
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+**1.** This Order revokes and re-enacts with amendments the Health and Safety at Work etc. Act 1974 (Application outside Great Britain) Order 2001 (“the 2001 Order”), which applied sections 1 to 59 and 80 to 82 of the Health and Safety at Work etc. Act 1974 (“the prescribed provisions”) to certain premises and activities in the territorial sea adjacent to Great Britain and to areas designated under the Continental Shelf Act 1964. In addition to minor and drafting amendments, this Order makes the following changes of substance.
+
+**2.** The application of the prescribed provisions to certain premises or activities within the territorial sea or a designated area now extend to gas importation and storage (article 8) within a gas importation and storage zone which is defined in article 2.
+
+**3.** Article 10 extends the application of the prescribed provisions to underground coal gasification production in the territorial sea and to designated areas.
+
+**4.** The Health and Safety Executive plan to review the operation and effect of this Order five years after it comes into force.
+
+**5.** A full impact assessment of the effect that this instrument will have on the costs of business and the voluntary sector is available from the Health and Safety Executive’s website (http://www.hse.gov.uk/ria) A copy is also annexed to the Explanatory Memorandum which is available alongside the instrument on www.legislation.gov.uk.
+
+## Annotations
+
+[^f00001]: Footnote: [1974 c. 37](https://www.legislation.gov.uk/ukpga/1974/37). The general purposes of Part I of the Health and Safety at Work etc. Act 1974 were extended by section 1(1) of the Offshore Safety Act 1992 ([1992 c. 15](https://www.legislation.gov.uk/ukpga/1992/15)).
+
+[^key-9f8e6c715887dea2f19c2bd0218aab55]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2013/240/article/1) in force at 6.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/240/article/1/1)
+
+[^f00002]: Footnote: [S.I. 2001/2127](https://www.legislation.gov.uk/uksi/2001/2127).
+
+[^f00003]: Footnote: [S.I. 2011/745](https://www.legislation.gov.uk/uksi/2011/745).
+
+[^key-c8fdb3f19e12e9178f622689ccaefdec]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2013/240/article/2) in force at 6.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/240/article/1/1)
+
+[^f00004]: Footnote: [1964 c. 29](https://www.legislation.gov.uk/ukpga/1964/29); section 1(7) was amended by the Oil and Gas (Enterprise) Act [1982 (c. 23)](https://www.legislation.gov.uk/ukpga/1982/23), Schedule 3, paragraph 1 and by the Energy Act [2011 (c. 16)](https://www.legislation.gov.uk/ukpga/2011/16), section 103.
+
+[^f00005]: Footnote: [S.I. 1997/2776](https://www.legislation.gov.uk/uksi/1997/2776).
+
+[^f00006]: Footnote: [2008 c. 32](https://www.legislation.gov.uk/ukpga/2008/32); section 1(5) is prospectively amended by the Marine and Coastal Access Act [2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), Schedule 4, Part 1, paragraph 5(1) and (2). Section 1(5) of the Energy Act 2008 would continue to define the term “gas importation and storage zone” after the amendment.
+
+[^key-6fa28916102e6dabaa9326a40223816c]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2013/240/article/3) in force at 6.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/240/article/1/1)
+
+[^key-dcf439cbec77d0626d2994094e9a6c5d]: Commencement: Art. 4 in force at 6.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/240/article/1/1)
+
+[^key-919a490f19554bc7d55adf9912f5b6bb]: Textual amendment: Art. 4(2)(aa) inserted (6.4.2026) by [The Health and Safety at Work etc. Act 1974 (Application outside Great Britain) (Variation) Order 2026 (S.I. 2026/184)](https://www.legislation.gov.uk/uksi/2026/184), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/184/article/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2026/184/article/2/2)
+
+[^key-0f6f1cba36674be42c4ac45ca1f3596b]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2013/240/article/5) in force at 6.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/240/article/1/1)
+
+[^key-df0f6fc9236a19eafbc77928a5b7ccd8]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2013/240/article/6) in force at 6.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/240/article/1/1)
+
+[^key-3960b7b5a8193cedafaf2f43296b528d]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2013/240/article/7) in force at 6.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/240/article/1/1)
+
+[^f00007]: Footnote: [1954 c. 70](https://www.legislation.gov.uk/ukpga/1954/70); sections 180(1) and 182(3)(a) were amended by [S.I. 1993/1897](https://www.legislation.gov.uk/uksi/1993/1897).
+
+[^key-57eaa4da126f192e2dec86040cfd0088]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/2013/240/article/8) in force at 6.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/240/article/1/1)
+
+[^key-2052e5046f2caadcb83f9924b655b841]: Commencement: [Art. 9](https://www.legislation.gov.uk/uksi/2013/240/article/9) in force at 6.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/240/article/1/1)
+
+[^f00008]: Footnote: [2004 c.20](https://www.legislation.gov.uk/ukpga/2004/20); section 84(4) is prospectively amended by the Marine and Coastal Access Act [2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), Schedule 4, Part 1, paragraph 4. Section 84(4) of the Energy Act 2004 would continue to define the term “renewable energy zone” after the amendment.
+
+[^key-5f411068ac4062717a07dceae7df4fb7]: Commencement: [Art. 10](https://www.legislation.gov.uk/uksi/2013/240/article/10) in force at 6.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/240/article/1/1)
+
+[^key-1750496fe991b92f9624ed4bda72e7cd]: Commencement: [Art. 11](https://www.legislation.gov.uk/uksi/2013/240/article/11) in force at 6.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/240/article/1/1)
+
+[^key-dea5509fa15e22cd871c1c268afff7bc]: Commencement: [Art. 12](https://www.legislation.gov.uk/uksi/2013/240/article/12) in force at 6.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/240/article/1/1)
+
+[^f00009]: Footnote: [1974 c. 37](https://www.legislation.gov.uk/ukpga/1974/37); section 33 was amended by the Employment Protection Act [1975 (c. 71)](https://www.legislation.gov.uk/ukpga/1975/71), section 116 and Schedule 15, paragraph 11 and Schedule 18; the Consumer Protection Act [1987 (c. 43)](https://www.legislation.gov.uk/ukpga/1987/43), section 36 and Schedule 3; the Forgery and Counterfeiting Act [1981 (c. 45)](https://www.legislation.gov.uk/ukpga/1981/45), the Schedule, Part I; the Offshore Safety Act [1992 (c. 15)](https://www.legislation.gov.uk/ukpga/1992/15), section 4(2) to (6) and Schedule 2; and section 1(1) of the Health and Safety (Offences) Act [2008 (c. 20)](https://www.legislation.gov.uk/ukpga/2008/20).
+
+[^f00010]: Footnote: [1878 c.73](https://www.legislation.gov.uk/ukpga/1878/73).
+
+[^key-699fadb9e131264c4581c0325fbca04e]: Commencement: [Art. 13](https://www.legislation.gov.uk/uksi/2013/240/article/13) in force at 6.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/240/article/1/1)
+
+[^key-09d8c1097e917cb3ea2973687ea4a561]: Commencement: [Art. 14](https://www.legislation.gov.uk/uksi/2013/240/article/14) in force at 6.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/240/article/1/1)

@@ -1,0 +1,85 @@
+---
+title: The Income Tax (Car Benefits) (Reduction of Value of Appropriate Percentage) (Amendment) Regulations 2005
+id: uksi/2005/2209
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2005-08-04'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2005/2209
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2005/2209/pdfs/uksiem_20052209_en.pdf
+- http://www.legislation.gov.uk/uksi/2005/2209/pdfs/uksi_20052209_en.pdf
+- http://www.legislation.gov.uk/uksi/2005/2209/made/data.pdf
+pending_changes: 1
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Income Tax (Car Benefits) (Reduction of Value of Appropriate Percentage) (Amendment) Regulations 2005
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2005 No. 2209
+
+INCOME TAX
+
+The Income Tax (Car Benefits) (Reduction of Value of Appropriate Percentage) (Amendment) Regulations 2005
+
+Made
+
+4th August 2005
+
+Laid before House of Commons
+
+8th August 2005
+
+Coming into force
+
+6th April 2006
+
+The Treasury, in exercise of the powers conferred upon them by section 170(4) of the Income Tax (Earnings and Pensions) Act 2003[^f00001] make the following Regulations:
+
+## 1. Citation, commencement and interpretation
+
+(1) These Regulations may be cited as the Income Tax (Car Benefits) (Reduction of Value of Appropriate Percentage) (Amendment) Regulations 2005 and shall come into force on 6th April 2006.
+
+(2) In these Regulations “the Car Benefit Regulations” means the Income Tax (Car Benefits) (Reduction of Value of Appropriate Percentage) Regulations 2001[^f00002].
+
+## 2. Amendment of the Car Benefit Regulations
+
+(1) The Car Benefit Regulations shall be amended in accordance with this regulation.
+
+(2) Regulation 3 (prescribed reduction of value of appropriate percentage – cars propelled solely by diesel) shall cease to have effect in respect of any car registered on or after 1st January 2006.
+
+(3) In regulation 5 (prescribed reduction of value of appropriate percentage – hybrid cars capable of being propelled by electricity and petrol) for the words following “The amount prescribed by this paragraph shall be” substitute “3%”.
+
+(4) In regulation 6 (prescribed reduction of value of appropriate percentage – cars propelled solely by road fuel gas and bi-fuel cars to which paragraph 5 of Schedule 6 applies) for the words following “The amount prescribed by this paragraph shall be” substitute “2%”.
+
+(5) Omit regulation 7 (prescribed reduction of value of appropriate percentage – bi-fuel cars to which paragraph 5 of Schedule 6 does not apply).
+
+Dave Watts
+
+Vernon Coaker
+
+Two of the Lords Commissioners of Her Majesty’s Treasury
+
+4th August 2005
+
+(This note is not part of the Regulations)
+
+These regulations amend The Income Tax (Car Benefits) (Reduction of Value of Appropriate Percentage) Regulations 2001 (S.I. [2001/1123](https://www.legislation.gov.uk/uksi/2001/1123)) (“the Car Benefits Regulations”).
+
+Regulation 1 provides for the citation and commencement of these Regulations, and for interpretation.
+
+Regulation 2 amends the Car Benefits Regulations. Paragraph (2) provides that regulation 3 of the Car Benefits Regulations shall cease to have effect in respect of any car registered on or after 1st January 2006. This waiver will continue for cars registered before 1 January 2006. Paragraph (3) provides that the standard reduction for hybrid electric and petrol cars contained in regulation 5 of the Car Benefits Regulations shall be increased to 3% and removes the additional discount “B”. Paragraph (4) provides that the standard reduction for gas-only and bi-fuel gas and petrol cars contained in regulation 6 of the Car Benefits Regulations shall be increased to 2% and removes the additional discount “B”. Paragraph (5) omits regulation 7 of the Car Benefits Regulations.
+
+These Regulations impose negligible costs on business, and most businesses will face no additional costs at all.
+
+## Annotations
+
+[^f00001]: Footnote: [2003 c. 1](https://www.legislation.gov.uk/ukpga/2003/1). Section 170(4) was derived from paragraph 5E of Schedule 6 to the Income and Corporation Taxes Act 1988.
+
+[^f00002]: Footnote: S.I. [2001/1123](https://www.legislation.gov.uk/uksi/2001/1123).

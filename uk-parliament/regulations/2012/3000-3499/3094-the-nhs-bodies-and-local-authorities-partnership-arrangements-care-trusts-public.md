@@ -1,0 +1,1302 @@
+---
+title: The NHS Bodies and Local Authorities (Partnership Arrangements, Care Trusts, Public Health and Local Healthwatch) Regulations 2012
+id: uksi/2012/3094
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2012-12-12'
+text_date: '2023-11-06'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2012/3094
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2012/3094/pdfs/uksiem_20123094_en.pdf
+- http://www.legislation.gov.uk/uksi/2012/3094/pdfs/uksi_20123094_en.pdf
+- http://www.legislation.gov.uk/uksi/2012/3094/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The NHS Bodies and Local Authorities (Partnership Arrangements, Care Trusts, Public Health and Local Healthwatch) Regulations 2012
+
+> Text as at 2023-11-06.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2012 No. 3094
+
+National Health Service, England
+
+Social Care, England
+
+Public Health, England
+
+The NHS Bodies and Local Authorities (Partnership Arrangements, Care Trusts, Public Health and Local Healthwatch) Regulations 2012
+
+Made
+
+12th December 2012
+
+Laid before Parliament
+
+17th December 2012
+
+Coming into force in accordance with regulation 1(2)
+
+The Secretary of State makes these Regulations in exercise of the powers conferred on him by sections 73A(1)(f), 73B(2)(e), 73C(1) and (2), 75(1) to (4), 76(1), 77(1), (1A) and (1B), (5A) to (5C) and (8), 111(1) and 272(7) and (8) of the National Health Service Act 2006[^f00001], section 115(1), (2) and (4) to (6) of the Health and Social Care (Community Health and Standards) Act 2003[^f00002] and sections 222(2)(b), (8)(b), (9) and (10), 223, 224(1), 226(6), 229(2) and 240(10) of the Local Government and Public Involvement in Health Act 2007[^f00003].
+
+In accordance with section 224(4) of the Local Government and Public Involvement in Health Act 2007 the Secretary of State has consulted such persons as the Secretary of State considers appropriate.
+
+## PART 1 — GENERAL
+
+### 1. Citation, commencement and interpretation[^key-51cce56ad4000c658965f10c802f9ee9]
+
+(1) These Regulations may be cited as the NHS Bodies and Local Authorities (Partnership Arrangements, Care Trusts, Public Health and Local Healthwatch) Regulations 2012.
+
+(2) These Regulations come into force as follows—
+
+- (a) regulations 3 to 11, and regulation 2 in so far as it relates to those regulations, come into force on the date that section 200 of the 2012 Act (Care Trusts) [^f00004] comes fully into force;
+- (b) regulation 12 comes into force on the date that section 14 of the 2012 Act (power of integrated care board[^key-768fb193da722b7af79fbece78255763] to commission certain health services) [^f00005] comes fully into force;
+- (c) regulation 13, and regulation 2 in so far as it relates to that regulation, comes into force on the date that paragraph 25 of Schedule 4 to the 2012 Act (amendment of section 76 of the 2006 Act) [^f00006] comes fully into force;
+- (d) Part 3 comes into force on the date that section 30 of the 2012 Act (appointment of directors of public health) [^f00007] comes fully into force;
+- (e) Part 4 comes into force on the date that section 29 of the 2012 Act (other health service functions of local authorities under the 2006 Act) [^f00008] comes fully into force;
+- (f) Part 5 comes into force on the date that section 32 of the 2012 Act (complaints about the exercise of public health functions by local authorities) [^f00009] comes fully into force;
+- (g) Part 6 comes into force on the date that section 183 of the 2012 Act (local authority arrangements) [^f00010] comes fully into force; and
+- (h) Part 1 comes into force on whichever of the dates specified in paragraphs (a) to (g) is the earliest.
+
+(3) In these Regulations—
+
+- “the 2006 Act” means the National Health Service Act 2006;
+- “the 2012 Act” means the Health and Social Care Act 2012.
+
+## PART 2 — CARE TRUSTS AND MISCELLANEOUS AMENDMENTS
+
+**2.**[^key-fe0369b64e0fc13b5ec3e6431b364435] In this Part—
+
+- [^key-1dbba261867bf21c13f3013c1d37411d]...
+- “[^key-60ab9d7c0e21039532b3690b82527b96]**NHS England**” means the body corporate established under section 1H of the 2006 Act;
+- “the body” means, in relation to a Care Trust designation or proposed Care Trust designation, the clinical commissioning group, NHS trust or NHS foundation trust which is, or is to be, designated;
+- “the Partnership Regulations” means the NHS Bodies and Local Authorities Partnership Regulations 2000[^f00012].
+
+### 3. Prescribed functions for the purposes of section 77(1) of the 2006 Act[^key-192a58c1ab07928e25744dd2a361320f]
+
+(1) Subject to paragraphs (3) and (4), the health-related functions of local authorities specified in regulation 6 of the Partnership Regulations[^f00013] are prescribed for the purposes of section 77(1) of the 2006 Act[^f00014] (designation of a body as a Care Trust).
+
+(2) The NHS functions specified in regulation 5 of the Partnership Regulations[^f00015] are prescribed for the purposes of section 77(1) of the 2006 Act.
+
+(3) Where the body exercising a health-related function is, or is to be, an integrated care board and the function consists of providing or securing the provision of services, that function is prescribed for the purposes of section 77(1) only if it is to be exercised by that integrated care board securing the provision of those services.
+
+(4) Where the body exercising a health-related function is, or is to be, an NHS trust or NHS foundation trust and the function consists of providing or securing the provision of services, that function is prescribed for the purposes of section 77(1) only if it is to be exercised (whether wholly or in part) by that trust providing those services.
+
+### 4. Consultation requirements[^key-ca89cb9524becc056038adebec42231e]
+
+(1) This regulation applies where an integrated care board, NHS trust or NHS foundation trust and a local authority propose to designate a body as a Care Trust under section 77(1) of the 2006 Act, or propose to revoke such designation.
+
+(2) Where this regulation applies, the body and the local authority must, before designating or revoking the designation, as the case may be, consult jointly such persons as appear to them to be affected by the proposed designation or revocation.
+
+### 5. Combination of consultations[^key-68b6351555f53bcbe5b0e7d04721b466]
+
+Where the body and the local authority agree, the consultation required by regulation 4 of these Regulations may be combined with any consultation carried out by the body in relation to proposals for changes in the way in which services are provided by, or provided under arrangements made by, the body.
+
+### 6. Prescribed form and manner for publication[^key-3af1b6ed96f483fbac003030df8bace2]
+
+(1) The reasons and information referred to in section 77(1A)(a) of the 2006 Act (reasons for designation and information about proposed governance arrangements) must be published before the consultation required by regulation 4 and in the form and manner prescribed by paragraph (2).
+
+(2) The reasons and information referred to in paragraph (1) must be published—
+
+- (a) in writing; and
+- (b) on the websites of the body and the local authority.
+
+### 7. Action following consultation[^key-9508696976fec4f1f963ac2622c64cbe]
+
+The body and the local authority must, following the consultation prior to designation or revocation of designation of the body as a Care Trust, publish—
+
+- (a) a summary of responses to the consultation; and
+- (b) a written statement setting out how the responses received as part of the consultation have influenced the decision to designate the body as a Care Trust or revoke the designation.
+
+### 8. Publication requirements following the decision to designate[^key-2536e03cbee877f72e756bdcff21e17b]
+
+(1) The body and the local authority must publish the following information as soon as practicable following the decision to designate the body as a Care Trust.
+
+(2) The body and the local authority must publish—
+
+- (a) the date on which the Care Trust designation takes effect;
+- (b) the names of the body and the local authority;
+- (c) the proposed name of the Care Trust;
+- (d) the LA delegation arrangements[^f00016] between the body and the local authority;
+- (e) the proposed governance arrangements of the body following designation as a Care Trust; and
+- (f) the services which it is proposed that the body would provide, or arrange for the provision of, in the exercise of—
+  - (i) the functions specified in the LA delegation arrangements, and
+  - (ii) the NHS functions to be exercised in conjunction with those functions.
+
+### 9. Publication requirements following the decision to revoke the designation[^key-1a58c0e5d5c27f584db083f745350ddf]
+
+(1) The body and the local authority must publish the following information as soon as practicable following the decision to revoke the designation of the body as a Care Trust.
+
+(2) The body and the local authority must publish—
+
+- (a) the date on which the Care Trust designation comes to an end;
+- (b) the names of the body and the local authority;
+- (c) the proposed new name of the body following the revocation of the designation; and
+- (d) details of how the LA delegation arrangements between the body and the local authority would be operated following the revocation of the designation.
+
+### 10. Notification requirements following designation or revocation of designation[^key-ced964efcecc5047cf3a8b39421ccedc]
+
+(1) Where a body has been designated as a Care Trust or the designation has been revoked, the body and the local authority must notify the persons mentioned in paragraph (2) of that fact as soon as practicable following the designation or revocation.
+
+(2) The persons to be notified are—
+
+- (a) NHS England[^key-b1b11aaad4b1e129053ffb7732f9d720];
+- (b)[^key-8afd2a30982dbb0c05b82b08473d029b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c) every member of the local authority;
+- (d) the Care Quality Commission[^f00018]; and
+- (e) the Local Healthwatch organisation for the area of the local authority.
+
+### 11. Revocations and amendment relating to Care Trusts[^key-492c07ceb4ec5704d73b411f54ca5d8a]
+
+(1) The Care Trusts (Application and Consultation) Regulations 2001[^f00019] are revoked.
+
+(2) In the National Health Service Trusts (Consultation on Establishment and Dissolution) Regulations 2010[^f00020], in regulation 2 (consultation relating to orders under section 25 of the Act and dissolution orders), in paragraph (4) for “to designate” substitute “to revoke a designation of”.
+
+### 12. Amendment of the NHS Bodies and Local Authorities Partnership Regulations 2000[^key-fe0b6aceb9f4448445d6a76c6183eef4]
+
+(1) The NHS Bodies and Local Authorities Partnership Arrangements Regulations 2000[^f00021] are amended as follows.
+
+(2) In regulation 2 (interpretation)[^f00022]—
+
+- (a) omit the definition of “the 1977 Act”;
+- (b) after the definition of “the 1983 Act” insert—
+
+  > - “the 2006 Act” means the National Health Service Act 2006
+
+  ;
+- (c) omit the definition of “health improvement plan”;”
+- (d) before the definition of “health-related functions” insert—
+
+  > - “the Board” means the National Health Service Commissioning Board;
+
+  ; and
+- (e) in the definition of “NHS contract” for “section 4(1) of the National Health Service and Community Care Act 1990” substitute “section 9 of the 2006 Act[^f00023]”.
+
+(3) In regulation 3 (prescribed NHS bodies and local authorities)[^f00024] in paragraph (1)—
+
+- (a) omit paragraph (b);
+- (b) after paragraph (d) insert—
+
+  > - (e) a clinical commissioning group;
+  > - (f) the Board.
+
+  .
+
+(4) In regulation 4 (partnership arrangements between NHS bodies and local authorities)[^f00025]—
+
+- (a) in paragraph (2A), omit from the words “regulation 4” to the end and insert—
+
+  > section 77(1A)(b) of the 2006 Act and regulation 4 of the NHS Bodies and Local Authorities (Partnership Arrangements, Care Trusts, Public Health and Local Healthwatch) Regulations 2012 (consultation requirements).
+
+  ;
+- (b) omit paragraph (3).
+
+(5) In regulation 5 (functions of NHS bodies)[^f00026]—
+
+- (a) for paragraph (a), substitute—
+
+  > - (a) the functions of arranging for the provision of services under sections 3, 3A and 3B of, and paragraphs 9 to 11 of Schedule 1, to the 2006 Act, including rehabilitation services and services intended to avoid admission to hospital but excluding surgery, radiotherapy, termination of pregnancies, endoscopy, the use of Class 4 laser treatments and other invasive treatments and emergency ambulance services; and
+  > - (aa) the functions of providing the services referred to in paragraph (a), pursuant to arrangements made by a clinical commissioning group or the Board;
+
+  ;
+- (b) for paragraph (b) substitute—
+
+  > - (b) the functions of arranging for the provision of services under section 117 of the Mental Health Act 1983; and
+  > - (ba) the functions of providing services referred to in paragraph (b) pursuant to arrangements made by a clinical commissioning group or the Board;
+
+  ;
+- (c) in paragraph (bb)(ii), omit “regulation 2(7) of”.
+
+(6) In regulation 6 (health-related functions of local authorities)[^f00027]—
+
+- (a) in paragraph (a), for “the Local Authorities Social Services Act 1970” substitute “the Local Authority Social Services Act 1970”;
+- (b) for paragraph (a)(ii) substitute—
+
+  > section 6 of the Local Authority Social Services Act 1970;
+
+  ;
+- (c) in paragraph (a)(iva), after “1983 Act;” insert “and”;
+- (d) omit paragraph (a)(v);
+- (e) in paragraph (a)(vi), for “Parts VII to X” substitute “Parts VII to IX”;
+- (f) in paragraph (d), for “section 57 of the Education Act 1996” substitute “section 578 of the Education Act 1996”; and
+- (g) after paragraph (l) insert—
+
+  > - (m) the functions of local authorities under or by virtue of sections 2B or 6C(1) of, or Schedule 1 to, the 2006 Act.
+
+  .
+
+(7) In regulation 7 (pooled fund arrangements)[^f00028], in paragraph (2), for “Primary Care Trust” substitute “clinical commissioning group”.
+
+(8) In regulation 8 (exercise of functions by NHS body)[^f00029], after paragraph (2)(h) insert—
+
+> - (i) the arrangements in place for the sharing of information between NHS bodies and local authorities.
+
+.
+
+(9) In regulation 9 (exercise of functions by local authorities)[^f00030]—
+
+- (a) in paragraph (2), for “Primary Care Trust” substitute “clinical commissioning group”; and
+- (b) after paragraph (3)(h), insert—
+
+  > - (i) the arrangements in place for the sharing of information between NHS bodies and local authorities.
+
+  .
+
+### 13. Payments by local authorities to specified NHS bodies in respect of prescribed functions[^key-19be411a178cb0d58262212c634cb5a7]
+
+(1) Subject to paragraph (3) below, the following functions are prescribed functions of NHS England, an integrated care board or a Local Health Board for the purposes of section 76(1) of the 2006 Act (power of local authorities to make payments).
+
+(2) The prescribed functions are those of arranging for the provision of services under—
+
+- (a) sections 3, 3A and 3B of, and paragraphs 9 to 11 of Schedule 1 to, the 2006 Act, and sections 2 and 3(1) of, and paragraphs 1 to 6 and 8 of Schedule 1 to, the National Health Service (Wales) Act 2006[^f00031] including rehabilitation services and services intended to avoid admission to hospital;
+- (b) directions under section 127 of the 2006 Act[^f00032]; and
+- (c) section 117 of the Mental Health Act 1983.
+
+(3) The functions prescribed under paragraph (2)(a) and (c) are prescribed only to the extent that they do not include arranging the provision of—
+
+- (a) surgery, radiotherapy, termination of pregnancies, endoscopy, the use of Class 4 laser treatments and other invasive treatments;
+- (b) emergency ambulance services;
+- (c) drugs and other substances which are listed in Schedule 1 to the National Health Service (General Medical Services Contracts) (Prescription of Drugs etc) Regulations 2004[^f00033] or which are listed in column 1 of Schedule 2 to those Regulations in circumstances in which the conditions specified in column 3 of that Schedule are not met; and
+- (d) appliances which are not listed in Part IX of the Drug Tariff which is published in accordance with regulation 89(1) (the Drug Tariff: general provisions) of the National Health Service (Pharmaceutical and Local Pharmaceutical Services) Regulations 2013[^key-d5d049b234f75bb69ac5b2b26356a92e] [^f00034].
+
+(4) The National Health Service (Payments by Local Authorities to NHS Bodies) (Prescribed Functions) Regulations 2000[^f00035] are revoked.
+
+## PART 3 — RESPONSIBILITIES OF DIRECTORS OF PUBLIC HEALTH
+
+### 14. Responsibilities of directors of public health[^key-879ca1028ce2003f8faf657d3c0f4b18][^key-69dcb26be9c1e5efaa0d8dffa211def1]
+
+The following functions of a local authority[^f00036] are prescribed for the purposes of section 73A(1)(f) of the 2006 Act (appointment of directors of public health)—
+
+- (a) any of the authority’s functions arising from it being an authority which must be consulted pursuant to section 5(3)(bb) (statement of licensing policy) of the Licensing Act 2003[^f00037];
+- (b) any of the authority’s functions arising from it being a responsible authority, by virtue of sections 13(4)(bb) (authorised persons and responsible authorities), 69(4)(bb) (authorised persons and responsible authorities) or 172B(4)(da) (procedural requirements for early morning alcohol restriction order) of the Licensing Act 2003[^f00038], for the purposes of the following sections of that Act—
+  - (i) sections 18, 35 and 41B (representations by a responsible authority in relation to applications for, or to vary, premises licences) [^f00039];
+  - (ii) section 31 (representations by a responsible authority in relation to determination of application for provisional statement) [^f00040];
+  - (iii) sections 51, 52 and 53 (applications and representations by a responsible authority for and in relation to a review of premises licences) [^f00041];
+  - (iv)[^key-879ca1028ce2003f8faf657d3c0f4b18] section 53C (representations by a responsible authority in relation to summary reviews of premises licences) [^f00042];
+  - (v) sections 72, 85 and 86B (representations by a responsible authority in relation to applications concerning club premises certificates) [^f00043];
+  - (vi) sections 87[^f00044], 88 and 89 (applications and representations by a responsible authority for and in relation to a review of club premises certificates);
+  - (vii) section 96 (powers of a responsible authority in relation to inspection of club premises);
+  - (viii) section 167[^f00045] (representations by a responsible authority in relation to review of premises licence following closure order);
+  - (ix) section 172B[^f00046] (representations by a responsible authority in relation to early morning alcohol restriction orders).
+- (c)[^key-6700c6fe6e37f10b764fb21e271c8788] any of the authority's functions arising from its duty to provide, or arrange the provision of, healthy start vitamins under regulation 8A of the Healthy Start Scheme and Welfare Food (Amendment) Regulations 2005.
+
+### 15. Further provision as to prescribed public health functions[^key-557a9253265480241a4de3b9b8fc2d3d]
+
+The functions which are prescribed under regulation 14 are also prescribed for the purposes of section 73B(2)(e) of the 2006 Act (other public health functions in the exercise of which a local authority must have regard to Secretary of State documents).
+
+## PART 4 — DENTAL PUBLIC HEALTH FUNCTIONS OF LOCAL AUTHORITIES
+
+### 16. Interpretation[^key-9d630b0c5277a2bc8cd40150cdde3ea9]
+
+In this Part—
+
+- “oral health promotion programme” means a health promotion and disease prevention programme the underlying purpose of which is to educate and support members of the public about ways in which they may improve their oral health;
+- “oral health survey” means a survey to establish the prevalence and incidence of disease or abnormality of the oral cavity;
+- “water fluoridation programme” means fluoridation arrangements made under section 87(1) (fluoridation of water supplies at request of relevant authorities) of the Water Industry Act 1991[^f00047].
+
+### 17. Exercise of functions of local authorities[^key-af010a86c66bbed06ab75e70e6c3e7bd]
+
+(1) Each local authority[^f00048] shall have the following functions in relation to dental public health in England.
+
+(2) A local authority shall provide, or shall make arrangements to secure the provision of, the following within its area—
+
+- (a) to the extent that the authority considers appropriate for improving the health of the people in its area, oral health promotion programmes;
+- (b) oral health surveys to facilitate—
+  - (i) the assessment and monitoring of oral health needs,
+  - (ii) the planning and evaluation of oral health promotion programmes,
+  - (iii) the planning and evaluation of the arrangements for provision of dental services as part of the health service, and
+  - (iv) where there are water fluoridation programmes affecting the authority’s area, the monitoring and reporting of the effect of water fluoridation programmes.
+
+(3) The local authority shall participate in any oral health survey conducted or commissioned by the Secretary of State under paragraph 13(1) of Schedule 1 to the 2006 Act (powers in relation to research etc)[^f00049] so far as that survey is conducted within the authority’s area.
+
+### 18. Revocations and transitional arrangements[^key-bb6d4f08450a10ddb142e012f6df1294]
+
+(1) The Functions of Primary Care Trusts (Dental Public Health) (England) Regulations 2006[^f00050] (“the 2006 Regulations”) are revoked.
+
+(2) This paragraph applies where, in the exercise of its functions under the 2006 Regulations, a Primary Care Trust—
+
+- (a) provided an oral health promotion programme or an oral health survey which was ongoing immediately prior to section 29 of the 2012 Act coming fully into force, or
+- (b) participated in an oral health survey required by the Department of Health which was ongoing immediately prior to section 29 of the 2012 Act coming fully into force.
+
+(3) Where paragraph (2) applies, each local authority whose area fell wholly or partly within the area of the Primary Care Trust shall continue to carry out the oral health promotion programme or oral health survey, to the extent that the programme or survey relates to persons in the local authority’s area.
+
+## PART 5 — COMPLAINTS ABOUT PUBLIC HEALTH FUNCTIONS OF LOCAL AUTHORITIES
+
+### 19. Interpretation[^key-427d0490f243c2b89a8fe33318c3ddc6]
+
+In this Part—
+
+- “complaints manager” means the person designated in accordance with regulation 22(1)(b);
+- “responsible body” means a local authority[^f00051] or a service provider;
+- “responsible person” means the person designated in accordance with regulation 22(1)(a);
+- “service provider” has the meaning given by regulation 20(e);
+- “working day” means any day except a Saturday, a Sunday, Christmas Day, Good Friday or a day which is a bank holiday in England under section 1 of the Banking and Financial Dealings Act 1971[^f00052].
+
+### 20. Complaints about exercise of public health functions by local authorities[^key-681df9e0130732bf8ce260a81bd0898f]
+
+(1) Subject to regulation 25, where a complaint of a description to which paragraph (2) applies is made under these Regulations, it shall be handled and considered in accordance with these Regulations.
+
+(2) This paragraph applies to complaints about—
+
+- (a) the exercise by a local authority of any of its public health functions[^f00053];
+- (b) the exercise by a local authority of its functions by virtue of section 6C(1) or (3) of the 2006 Act (regulations as to the exercise by local authorities of the public health functions of the Secretary of State)[^f00054];
+- (c) anything done by a local authority in pursuance of arrangements made under section 7A of the 2006 Act[^f00055] (exercise of Secretary of State’s public health functions);
+- (d) the exercise by a local authority of any of its other functions—
+  - (i) which relate to public health, and
+  - (ii) for which its director of public health has responsibility[^f00056];
+- (e) the provision of services by another person, in this Part referred to as a service provider, in pursuance of arrangements made by a local authority in the exercise of any function mentioned in sub-paragraphs (a) to (d).
+
+### 21. Arrangements for the handling and consideration of complaints[^key-a8664ce08e6445596114a39c39e2e69b]
+
+(1) Each responsible body must make arrangements (“arrangements for dealing with complaints”) in accordance with these Regulations for the handling and consideration of complaints.
+
+(2) The arrangements for dealing with complaints must be such as to ensure that—
+
+- (a) complaints are dealt with efficiently;
+- (b) complaints are properly investigated;
+- (c) complainants are treated with respect and courtesy;
+- (d) complainants receive, so far as is reasonably practical—
+  - (i) assistance to enable them to understand the procedure in relation to complaints, or
+  - (ii) advice on where they may obtain such assistance;
+- (e) complainants receive a timely and appropriate response;
+- (f) complainants are told the outcome of the investigation of their complaint; and
+- (g) action is taken if necessary in the light of the outcome of a complaint.
+
+### 22. Responsibility for complaints arrangements[^key-9dd22a90f0045fad9947d30a58cb137b]
+
+(1) Each responsible body must designate—
+
+- (a) a person, in this Part referred to as a responsible person, to be responsible for ensuring compliance with the arrangements made under these Regulations, and in particular ensuring that action is taken if necessary in the light of the outcome of a complaint; and
+- (b) a person, in this Part referred to as a complaints manager, to be responsible for managing the procedures for handling and considering complaints in accordance with the arrangements made under these Regulations.
+
+(2) The functions of the responsible person may be performed by any person authorised by the responsible body to act on behalf of the responsible person.
+
+(3) The functions of the complaints manager may be performed by any person authorised by the responsible body to act on behalf of the complaints manager.
+
+(4) The responsible person is to be—
+
+- (a) in the case of a responsible body which is a local authority, the person who acts as the chief executive or other person designated as the authority’s head of paid service pursuant to section 4 of the Local Government and Housing Act 1989[^f00057];
+- (b) in the case of a responsible body which is a service provider, the person who is the chief executive of the provider or, if none—
+  - (i) the person who is the sole proprietor of the service provider;
+  - (ii) where the service provider is a partnership, a partner; or
+  - (iii) in any other case, a director of the service provider or a person who is responsible for managing the service provider.
+
+(5) The complaints manager may be—
+
+- (a) a person who is not an employee of the responsible body;
+- (b) the same person as the responsible person;
+- (c) a complaints manager designated by another responsible body under paragraph (1)(b).
+
+### 23. Persons who may make complaints[^key-1124a4aee58036d446a3832c687359b5]
+
+(1) A complaint may be made by—
+
+- (a) a person who receives or has received services from a responsible body; or
+- (b) a person who is affected, or likely to be affected, by the action, omission or decision of the responsible body which is the subject of the complaint.
+
+(2) A complaint may be made by a person (in this regulation referred to as a representative) acting on behalf of a person mentioned in paragraph (1) who—
+
+- (a) has died;
+- (b) is a child;
+- (c) is unable to make the complaint themselves because of—
+  - (i) physical incapacity; or
+  - (ii) lack of capacity within the meaning of the Mental Capacity Act 2005[^f00058]; or
+- (d) has requested the representative to act on their behalf.
+
+(3) Where a representative makes a complaint on behalf of a child, the responsible body to which the complaint is made—
+
+- (a) must not consider the complaint unless it is satisfied that there are reasonable grounds for the complaint being made by a representative instead of the child; and
+- (b) if it is not so satisfied, must notify the representative in writing, and state the reason for its decision.
+
+(4) This paragraph applies where—
+
+- (a) a representative makes a complaint on behalf of—
+  - (i) a child; or
+  - (ii) a person who lacks capacity within the meaning of the Mental Capacity Act 2005; and
+- (b) the responsible body to which the complaint is made is satisfied that the representative is not conducting the complaint in the best interests of the person on whose behalf the complaint is made.
+
+(5) Where paragraph (4) applies—
+
+- (a) the complaint must not be considered or further considered under these Regulations; and
+- (b) the responsible body must notify the representative in writing, and state the reason for its decision.
+
+(6) In this Part, any reference to a complainant includes a reference to a representative.
+
+### 24. Duty to handle complaints[^key-e86fe0e47523a5e72c5bd05bdb9cbb8d]
+
+(1) Subject to the following provisions of this regulation, where a responsible body receives a complaint made in accordance with these Regulations, it must handle the complaint in accordance with these Regulations.
+
+(2) The duty in paragraph (1) applies—
+
+- (a) in the case of a local authority, to any complaint made to the authority about—
+  - (i) the exercise of any its functions as specified in regulation 20(2)(a) to (d); or
+  - (ii) the provision of services by a service provider, in pursuance of arrangements made by the authority in the exercise of any of those functions; and
+- (b) in the case of a service provider, to any complaint made to the provider about the provision of services by it under arrangements made by a local authority in the exercise of any of the functions specified in regulation 20(2)(a) to (d).
+
+(3) In the case of a complaint which is received by the local authority which is about a service provided by a service provider in pursuance of arrangements made by that authority—
+
+- (a) the authority must ask the complainant whether the complainant consents to details of the complaint being sent to the service provider; and
+- (b) if the complainant so consents, the authority must as soon as reasonably practicable send details of the complaint to the service provider.
+
+(4) Where details of the complaint are sent to the service provider in accordance with paragraph (2), the local authority may also consider whether it would be more appropriate for the complaint to be dealt with by the service provider.
+
+(5) If the local authority considers that it is more appropriate for the complaint to be dealt with by the service provider, the authority must ask the complainant whether the complainant consents to the complaint being dealt with by the service provider and if the complainant consents—
+
+- (a) the local authority must so notify the complainant and the service provider; and
+- (b) the service provider must handle the complaint in accordance with these Regulations and the complainant shall be deemed to have made the complaint to the service provider under these Regulations.
+
+### 25. Complaints not required to be dealt with[^key-5dda08cf7bcfbe95e45e61d0ff9dd396]
+
+(1) The following complaints are not required to be dealt with in accordance with these Regulations—
+
+- (a) a complaint by a responsible body;
+- (b) a complaint by an employee of a responsible body about any matter relating to that employment;
+- (c) a complaint which—
+  - (i) is made orally, and
+  - (ii) is resolved to the complainant’s satisfaction not later than the next working day after the day on which the complaint was made;
+- (d) a complaint the subject matter of which is the same as that of a complaint that has previously been made and resolved in accordance with sub-paragraph (c);
+- (e) a complaint the subject matter of which has previously been investigated under these Regulations;
+- (f) a complaint the subject matter of which is being or has been investigated by a Local Commissioner under the Local Government Act 1974[^f00059];
+- (g) a complaint arising out of the alleged failure by a responsible body to comply with a request for information under the Freedom of Information Act 2000[^f00060];
+- (h) a complaint which relates to any scheme established under section 7 (superannuation of persons employed in local government service etc.) or section 24 (compensation for loss of office, etc.) of the Superannuation Act 1972[^f00061], or to the administration of those schemes.
+
+(2) Subject to paragraph (3), where a complaint is a complaint specified in paragraph (1), and a responsible body makes a decision to that effect, the responsible body must as soon as reasonably practicable notify the complainant in writing of its decision and the reason for its decision.
+
+(3) Paragraph (2) does not apply to a complaint specified in sub-paragraph (c) of paragraph (1).
+
+(4) Where a complaint specified in paragraph (1) is part of, or is connected with, another complaint which is not so specified, nothing in this regulation prevents that other complaint being handled in accordance with these Regulations.
+
+### 26. Duty to co-operate[^key-b2239f75da2429cea2ef1b88e5187258]
+
+(1) This regulation applies where—
+
+- (a) a local authority (“the first body”) is considering a complaint made in accordance with these Regulations; and
+- (b) it appears to the first body that the complaint contains material which, if it had been sent to another local authority (“the second body”), would be a complaint which would fall to be handled in accordance with these Regulations by the second body.
+
+(2) The first body and the second body must co-operate for the purpose of—
+
+- (a) co-ordinating the handling of the complaint; and
+- (b) ensuring that the complainant receives a co-ordinated response to the complaint.
+
+(3) The duty to co-operate under paragraph (2) includes, in particular, a duty for each body—
+
+- (a) to seek to agree which of the two bodies should take the lead in—
+  - (i) co-ordinating the handling of the complaint; and
+  - (ii) communicating with the complainant;
+- (b) to provide to the other body information relevant to the consideration of the complaint which is reasonably requested by the other body; and
+- (c) to send a representative to any meeting reasonably required in connection with the consideration of the complaint.
+
+### 27. Time limit for making a complaint[^key-c765bc35d5f52de6ddae95b92a0f6648]
+
+(1) Except as mentioned in paragraph (2), a complaint must be made not later than twelve months after—
+
+- (a) the date on which the matter which is the subject of the complaint occurred; or
+- (b) if later, the date on which the matter which is the subject of the complaint came to the notice of the complainant.
+
+(2) The time limit in paragraph (1) shall not apply if the responsible body is satisfied that—
+
+- (a) the complainant had good reasons for not making the complaint within that time limit; and
+- (b) notwithstanding the delay, it is still possible to investigate the complaint effectively and fairly.
+
+### 28. Procedure before investigation[^key-c1a8f06a6029ac22c5a43515cebc3925]
+
+(1) A complaint may be made orally, in writing or electronically.
+
+(2) Where a complaint is made orally, the responsible body to which the complaint is made must make a written record of the complaint.
+
+(3) Except where paragraph (4) applies, the responsible body must acknowledge the complaint not later than three working days after the day on which it receives the complaint.
+
+(4) In the case of a complaint of a description specified in regulation 24(3)—
+
+- (a) the local authority which receives the complaint must acknowledge the complaint not later than three working days after the day on which it receives the complaint; and
+- (b) where a service provider receives notification under regulation 24(5)(a), it must acknowledge the complaint not later than three working days after the day on which it receives the notification.
+
+(5) The acknowledgement may be made orally, in writing or, subject to regulation 30(1), electronically.
+
+(6) At the time it acknowledges the complaint, the responsible body must offer to discuss with the complainant, at a time to be agreed with the complainant—
+
+- (a) the manner in which the complaint is to be handled; and
+- (b) the period (the “response period”) within which—
+  - (i) the investigation of the complaint is likely to be completed; and
+  - (ii) the response required by regulation 29(2) is likely to be sent to the complainant.
+
+(7) If the complainant does not accept the offer of a discussion under paragraph (6), the responsible body must—
+
+- (a) determine the response period specified in paragraph (6)(b); and
+- (b) notify the complainant in writing of that period.
+
+### 29. Investigation and response[^key-eba32dc96b739deaac0638ee2ce9dced]
+
+(1) A responsible body to which a complaint is made must—
+
+- (a) investigate the complaint in a manner appropriate to resolve it speedily and efficiently, and
+- (b) during the investigation, keep the complainant informed, as far as reasonably practicable, as to the progress of the investigation.
+
+(2) As soon as reasonably practicable after completing the investigation and in any event before the expiry of the relevant period, the responsible body must send the complainant in writing a response, signed by the responsible person, which includes—
+
+- (a) a report which includes the following matters—
+  - (i) an explanation of how the complaint has been considered; and
+  - (ii) the conclusions reached in relation to the complaint, including any matters in respect of which the complaint specifies, or the responsible body considers, that remedial action is needed;
+- (b) confirmation as to whether the responsible body is satisfied that any action needed in consequence of the complaint has been taken or is proposed to be taken; and
+- (c) details of the complainant’s right to take their complaint to a Local Commissioner under the Local Government Act 1974.
+
+(3) In this regulation, “relevant period” means—
+
+- (a) the period of 6 months commencing on the day on which the complaint was received or, where notification was given to a service provider by the local authority under regulation 24(5), the day on which notification was given, or
+- (b) such longer period as may be agreed by the complainant and the responsible body before the expiry of the period specified in sub-paragraph (a).
+
+(4) If the responsible body does not send the complainant a response in accordance with paragraph (2) within the relevant period, the responsible body must—
+
+- (a) notify the complainant in writing accordingly and explain the reason why; and
+- (b) send the complainant in writing a response in accordance with paragraph (2) as soon as reasonably practicable after the relevant period.
+
+### 30. Form of communications[^key-3b7343357422b9754adf5f00d2b078a8]
+
+(1) Any communication which is required by these Regulations to be made to a complainant may be sent to the complainant electronically where the complainant—
+
+- (a) has consented in writing or electronically; and
+- (b) has not withdrawn such consent in writing or electronically.
+
+(2) Any requirement in these Regulations for a document to be signed by a person is satisfied, in the case of a document which is sent electronically in accordance with these Regulations, by the individual who is authorised to sign the document typing their name or producing their name using a computer or other electronic means.
+
+### 31. Publicity[^key-69a3f9e24c495983bfed6d83c9bf2621]
+
+Each responsible body must make information available to the public as to—
+
+- (a) its arrangements for dealing with complaints; and
+- (b) how further information about those arrangements may be obtained.
+
+### 32. Monitoring[^key-e4d407e828d79d9a07a08f23c039a653]
+
+For the purpose of monitoring the arrangements under these Regulations, each responsible body must maintain a record of the following matters—
+
+- (a) each complaint received;
+- (b) the subject matter and outcome of each complaint; and
+- (c) whether a report of the outcome of the investigation was sent to the complainant within the response period specified in regulation 28(6)(b).
+
+### 33. Annual reports[^key-3f822fa9a8d14417960c35102c93daf3]
+
+(1) Each responsible body must prepare an annual report for each year which must—
+
+- (a) specify the number of complaints which the responsible body received;
+- (b) specify the number of complaints which the responsible body decided were well-founded;
+- (c) specify the number of complaints which the responsible body has been informed have been referred to a Local Commissioner to investigate under the Local Government Act 1974; and
+- (d) summarise—
+  - (i) the subject matter of complaints that the responsible body received;
+  - (ii) any matters of general importance arising out of those complaints, or the way in which the complaints were handled;
+  - (iii) any matters where action has been or is to be taken to improve services as a consequence of those complaints.
+
+(2) In paragraph (1), “year” means a period of 12 months ending with 31st March.
+
+(3) Each responsible body must ensure that its annual report is available to any person on request.
+
+(4) A local authority shall be deemed to have complied with the requirements of this regulation where the matters specified in paragraph (1) are included in an annual report which also covers matters relating to other statutory complaints procedures[^f00062], so long as that report has otherwise been prepared and made available in compliance with this regulation.
+
+## PART 6 — LOCAL HEALTHWATCH
+
+### 34. Interpretation[^key-0346e8ee7e261bd078babd78567e87f7]
+
+(1) In this Part—
+
+- “the 2007 Act” means the Local Government and Public Involvement in Health Act 2007;
+- “authorised representative” means an authorised representative within the meaning of section 225(5) of the 2007 Act[^f00063] (duties of services-providers to allow entry by Local Healthwatch organisations or contractors);
+- “care services” has the meaning given in section 221(6) of the 2007 Act[^f00064] (local arrangements in relation to health services and social services);
+- “health or social care professional” means (subject to paragraph (2)) an individual who is a member of a profession regulated by a body mentioned in section 25(3) of the National Health Service Reform and Health Care Professions Act 2002[^f00065] (the Professional Standards Authority for Health and Social Care);
+- “lay person” means an individual who is not—
+  - (a) a health or social care professional; or
+  - (b) an employee of a Local Healthwatch organisation[^f00066];
+- “local authority arrangements” means arrangements made by a local authority[^f00067] under section 221(1) of the 2007 Act (health services and social services);
+- “Local Healthwatch arrangements” has the meaning given by section 222 of the 2007 Act[^f00068] (arrangements under section 221(1): Local Healthwatch organisations);
+- “Local Healthwatch contractor” has the meaning given by section 223 of the 2007 Act[^f00069] (prescribed provision to be included in arrangements under section 221(1));
+- “overview and scrutiny committee” has the meaning given by section 226(8) of the 2007 Act[^f00070] (referrals of social care matters);
+- “responsible person” has the meaning given by section 224(2) of the 2007 Act[^f00071] (duties to respond to Local Healthwatch);
+- “section 221 activities” means activities specified in section 221(2) of the 2007 Act[^f00072] (patient and public involvement in health and social care);
+- “services-provider”, except in regulation 47, has the meaning given by section 225(7) of the 2007 Act[^f00073] (duties of services-providers to allow entry by Local Healthwatch organisations and contractors);
+- “social care workers in England” has the meaning given in section 60 of the Health Act 1999[^f00074] (regulation of health professions, social workers and other care workers);
+- “the relevant section 221 activities” means—
+  - (a) in relation to a Local Healthwatch organisation, the section 221 activities that that organisation is to carry on under local authority arrangements; and
+  - (b) in relation to a Local Healthwatch contractor, the section 221 activities that that contractor is to carry on under Local Healthwatch arrangements;
+- “the social work profession in England” has the meaning given in section 60 of the Health Act 1999[^f00075];
+- “volunteer” means, in relation to a Local Healthwatch organisation or Local Healthwatch contractor, a person who without being paid (except for travel or other expenses)—
+  - (a) is a member or director of, or otherwise participates in the governance of, the organisation or contractor, or
+  - (b) is engaged in the carrying-on of the relevant section 221 activities by that organisation or contractor;
+- “working day” means any day except for a Saturday, a Sunday, Christmas Day, Good Friday or a day which is a bank holiday (in England) under the Banking and Financial Dealings Act 1971[^f00076].
+
+(2) In the definition of “health or social care professional” in paragraph (1), the reference to a body mentioned in section 25(3) of the National Health Service Reform and Health Care Professions Act 2002 is to be read as including a reference to the Health and Care Professions Council[^f00077], or a regulatory body within section 25(3)(j) of that Act[^f00078], so far as it has functions relating to—
+
+- (a) the social work profession in England; or
+- (b) social care workers in England.
+
+### 35. Criteria concerning social enterprises[^key-835201bd859a6cd32770029216a3691e]
+
+(1) For the purposes of section 222(8)(b) of the 2007 Act (Local Healthwatch: social enterprises) the criteria prescribed are that the constitution of the body must—
+
+- (a) state, or contain provisions which ensure, that not less than 50 per cent of its distributable profits in each financial year will be used or applied for the purpose of the activities of that body;
+- (b) contain a statement or condition that the body is carrying on its activities for the benefit of the community in England; and
+- (c) where appropriate, contain provisions relating to the distribution of assets which take effect when that body is dissolved or wound up, as specified in paragraph (2).
+
+(2) The provisions referred to in paragraph (1)(c) are ones which—
+
+- (a) require that the residual assets of the body be distributed to those members of the body (if any) who are entitled to share in any distribution of assets on the dissolution or winding up of that body according to those members’ rights and interests in that body;
+- (b) in the case of a company not limited by guarantee and registered as a charity in England and Wales, provide that no member shall receive an amount which exceeds the paid up value of the shares which the member holds in the company; and
+- (c) designate another social enterprise (within the meaning of section 222(8) of the 2007 Act) to which any remaining residual assets of the body will be distributed after any distribution to members of the body.
+
+(3) The criteria prescribed in paragraph (1) do not apply to the following bodies—
+
+- (a) a company limited by guarantee and registered as a charity in England and Wales;
+- (b) a community interest company registered as a company limited by guarantee; and
+- (c) a charitable incorporated organisation (within the meaning of Part 11 of the Charities Act 2011[^f00079] (charitable incorporated organisations)).
+
+(4) In this regulation—
+
+- “charity” has the meaning given in section 1(1) of the Charities Act 2011;
+- “community interest company” means a company as referred to in section 26 of the Companies (Audit, Investigations and Community Enterprise) Act 2004[^f00080];
+- “constitution” means—
+  - (a) in the case of a company, the company’s memorandum and articles of association; and
+  - (b) in the case of any other body, a written instrument which sets out the purpose, objectives, proposed activities and provisions for the governance of the body, including any provisions relating to the membership of the body and the distribution of profits and assets;
+- “distributable profits” means—
+  - (a) in relation to a company, the company’s profits available for distribution, within the meaning of section 830 of the Companies Act 2006[^f00081]; and
+  - (b) in relation to any other body, its accumulated, realised profits, so far as not previously utilised by distribution, less its accumulated, realised losses, so far as not previously written off;
+- “financial year” means the 12 month period that a body uses for accounting purposes;
+- “realised losses” and “realised profits” means the losses or profits of the business carried on by the body as fall to be treated as realised in accordance with generally accepted accounting practice;
+- “residual assets” means, in relation to the dissolution or winding up of a body, the assets of the body which remain after satisfaction of the body’s liabilities.
+
+### 36. Political activities not to be treated as being carried on for the benefit of the community[^key-0610776f6bf80721c48a1a85399659ee]
+
+(1) For the purposes of section 222(9) of the 2007 Act (social enterprises: activities for the benefit of the community) and regulation 35(1)(b), the following activities are to be treated as not being activities which a person might reasonably consider to be activities carried on for the benefit of the community in England—
+
+- (a) the promotion of, or opposition to, changes in—
+  - (i) any law applicable in the United Kingdom or elsewhere; or
+  - (ii) the policy adopted by any governmental or public authority in relation to any matter;
+- (b) the promotion of, or opposition (including the promotion of changes) to, the policy which any governmental or public authority proposes to adopt in relation to any matter;
+- (c) activities which can reasonably be regarded as intended or likely to—
+  - (i) provide or affect support (whether financial or otherwise) for a political party or political campaigning organisation; or
+  - (ii) influence voters in relation to any election or referendum.
+
+(2) But activities of the descriptions prescribed in paragraph (1) are to be treated as being activities which a person might reasonably consider to be activities carried on for the benefit of the community in England if—
+
+- (a) they can reasonably be regarded as incidental to other activities, which a person might reasonably consider to be activities carried on for the benefit of the community in England; and
+- (b) those other activities cannot reasonably be regarded as incidental to activities of the descriptions prescribed in paragraph (1).
+
+(3) In this regulation—
+
+- “governmental authority” includes—
+  - (a) any national, regional or local government in the United Kingdom or elsewhere, including any organ or agency of any such government;
+  - (b) the EU[^f00082], or any of its institutions or agencies; and
+  - (c) any organisation which is able to make rules or adopt decisions which are legally binding on any governmental authority falling within paragraph (a) or (b) of this definition;
+- “political campaigning organisation” means any person carrying on, or proposing to carry on activities—
+  - (a) to promote, or oppose, changes in any law applicable in the United Kingdom or elsewhere, or any policy of a governmental or public authority (unless such activities are incidental to other activities carried on by that person); or
+  - (b) which could reasonably be regarded as intended to affect public support for a political party, or to influence voters in relation to any election or referendum (unless such activities are incidental to other activities carried on by that person);
+- “political party” includes any person standing, or proposing to stand, as a candidate at any election, and any person holding public office following election to that office;
+- “public authority” includes—
+  - (a) a court or tribunal; and
+  - (b) any person certain of whose functions are functions of a public nature;
+- “referendum” includes any national or regional referendum or other poll held in pursuance of any provision made by or under the law of any state on one or more questions or propositions specified in or in accordance with any such provision.
+
+### 37. Section of the community[^key-603f4474a041511101211e66dbcab92f]
+
+For the purposes of section 222(8)(a) and (10) of the 2007 Act (social enterprises: activities for the benefit of the community including a section of the community) and regulation 35(1)(b), any group of individuals may constitute a section of the community if—
+
+- (a) they share a readily identifiable characteristic; and
+- (b) other members of the community of which that group forms part do not share that characteristic.
+
+### 38. Criterion to be met by bodies to be Local Healthwatch organisations[^key-523b073cb93ed16bee17cd18bfa00358]
+
+For the purposes of section 222(2)(b) of the 2007 Act (arrangements under section 221(1): criteria to be satisfied by social enterprises which are to be Local Healthwatch organisations), the criterion prescribed is that the governance arrangements of the body must include provision for the involvement of lay persons and volunteers in the governance of the body.
+
+### 39. Regulations 40 to 43 - application and interpretation[^key-38a69026411f6cd772fa4aaabe26212e]
+
+(1) Regulations 40 to 43 apply to any local authority arrangements.
+
+(2) In those regulations, in relation to local authority arrangements—
+
+- “A” refers to the local authority which made the arrangements;
+- “L” refers to the Local Healthwatch organisation with which the arrangements were made;
+- “relevant Local Healthwatch arrangements” means any Local Healthwatch arrangements made by L pursuant to section 222(2B) of the 2007 Act;
+- “the relevant contractor”, in relation to each set of relevant Local Healthwatch arrangements, means the Local Healthwatch contractor with whom those arrangements were made.
+
+### 40. Provision to be included in local authority arrangements[^key-9d88193f85c1d1f0e8c4abffe34e8557]
+
+(1) Arrangements to which this regulation applies must include provision that L must—
+
+- (a) before making any relevant decisions, have and publish the required procedures;
+- (b) if any amendments are made to a required procedure, as soon as practicable publish the required procedure as amended;
+- (c) comply with the required procedures as may be amended from time to time;
+- (d) within a reasonable time after a relevant decision has been made, publish a written statement of that decision and the reasons for that decision;
+- (e) comply with the requirements in regulation 42 (authorised representatives);
+- (f) comply with the requirements in regulation 43(1) (trade mark); and
+- (g) involve lay persons and volunteers in the carrying-on of the relevant section 221 activities.
+
+(2) For the purposes of this regulation, a “relevant decision” is a decision as to—
+
+- (a) how to undertake the relevant section 221 activities;
+- (b) which care services in relation to which those activities are to be carried out;
+- (c) the spending of amounts in relation to those activities;
+- (d) whether to request information from a responsible person or services-provider;
+- (e) whether to refer a report or a recommendation to a responsible person or services-provider;
+- (f) which premises owned or controlled by a services-provider an individual authorised as an authorised representative by L is to enter and view and when those premises are to be visited;
+- (g) whether to refer a matter to an overview and scrutiny committee of a local authority or to a health scrutiny authority;
+- (h) whether to report a matter concerning one or more of the section 221 activities to another person; or
+- (i) in relation to relevant Local Healthwatch arrangements, the matters specified in paragraph (3).
+
+(3) The matters referred to in paragraph (2)(i) are—
+
+- (a) which relevant section 221 activities in relation to which relevant Local Healthwatch arrangements are to be made;
+- (b) which care services in relation to which such arrangements are to be made;
+- (c) in relation to each set of such arrangements, the identity of the relevant contractor;
+- (d) in relation to each set of such arrangements, whether those arrangements are to include provision for the relevant contractor to—
+  - (i) authorise individuals as authorised representatives;
+  - (ii) request information from a responsible person or services-provider;
+  - (iii) refer a report or a recommendation to a responsible person or services-provider;
+  - (iv) refer a matter to an overview and scrutiny committee of a local authority or to a health scrutiny authority; or
+  - (v) report a matter concerning one or more of the section 221 activities to another person;
+- (e) in relation to each set of such arrangements, the provision to be included in those arrangements in relation to decisions as to which premises owned or controlled by a services-provider are to be visited by an authorised representative or when those premises are to be so visited; or
+- (f) in relation to any provision of the kind described in sub-paragraph (d)(i) to (v), whether such provision is to be subject to any conditions or restrictions.
+
+(4) In this regulation—
+
+- “health scrutiny authority” means a committee or other person who discharges any functions conferred on a local authority under regulations under section 244(2) to (2ZC) of the 2006 Act[^f00083] (health scrutiny by local authorities);
+- “the required procedures” means—
+  - (a) a procedure for making relevant decisions, including provisions as to who may make such decisions;
+  - (b) a procedure for involving lay persons or volunteers in such decisions; and
+  - (c) a procedure for dealing with breaches of any procedure referred to in sub-paragraph (a) or (b).
+
+(5) The procedure referred to in sub-paragraph (c) of the definition of “the required procedures” in paragraph (4) must include provision setting out the circumstances in which a breach must be referred by L to A.
+
+### 41. Provision to be included in Local Healthwatch arrangements[^key-b694d003f1c9ade5cf9106ab78a03de7]
+
+(1) Arrangements to which this regulation applies must require each set of relevant Local Healthwatch arrangements to include provision that the relevant contractor must, in so far as that contractor carries on the relevant section 221 activities on behalf of L—
+
+- (a) before making any relevant decisions, have and publish the required procedures;
+- (b) if any amendments are made to a required procedure, as soon as practicable publish the required procedure as amended;
+- (c) comply with the required procedures as may be amended from time to time;
+- (d) within a reasonable time after a relevant decision has been made, publish a written statement of that decision and the reasons for that decision; and
+- (e) involve lay persons and volunteers in the carrying-on of the relevant section 221 activities.
+
+(2) Without prejudice to paragraph (1), arrangements to which this regulation applies must require each set of relevant Local Healthwatch arrangements, in so far as they include provision of the kind described in regulation 40(3)(d)(i) (arrangements to authorise individuals as authorised representatives), to include provision that the relevant contractor must comply with the requirements in regulation 42 (authorised representatives).
+
+(3) For the purposes of this regulation, a “relevant decision” is a decision as to—
+
+- (a) how to undertake the relevant section 221 activities;
+- (b) the spending of amounts in relation to those activities;
+- (c) whether to request information from a responsible person or services-provider;
+- (d) whether to refer a report or a recommendation to a responsible person or services-provider;
+- (e) whether to refer a matter to an overview and scrutiny committee of a local authority or to a health scrutiny authority;
+- (f) whether to report a matter concerning one or more of the section 221 activities to another person; or
+- (g) where the relevant Local Healthwatch arrangements include provision as described in regulation 40(3)(e), which premises owned or controlled by a services-provider are to be visited by an authorised representative and when those premises are to be so visited.
+
+(4) In this regulation—
+
+- “health scrutiny authority” has the same meaning as in regulation 40;
+- “the required procedures” means—
+  - (a) a procedure for making relevant decisions, including provisions as to who may make such decisions; and
+  - (b) a procedure for dealing with breaches of the procedure referred to in sub-paragraph (a).
+
+(5) The procedure referred to in sub-paragraph (b) of the definition of “the required procedures” in paragraph (4) must include provision setting out the circumstances in which a breach must be referred by the relevant contractor to L.
+
+### 42. Requirements relating to authorised representatives for the purposes of entering and viewing[^key-b79634093846c8a4df15a079224292dd]
+
+(1) The requirements referred to in regulation 40(1)(e) and 41(2) are that L or the relevant contractor, as the case may be, must—
+
+- (a) have and publish a procedure for the making of decisions about who may be an authorised representative;
+- (b) if any amendments are made to the procedure referred to in sub-paragraph (a), as soon as practicable publish the procedure as amended;
+- (c) comply with the procedure referred to in sub-paragraph (a) as may be amended from time to time;
+- (d) maintain and publish a list of individuals authorised as authorised representatives;
+- (e) provide each authorised representative with written evidence of that individual’s authorisation; and
+- (f) ensure that only an individual to whom paragraph (2) applies may be an authorised representative.
+
+(2) This paragraph applies to an individual if—
+
+- (a) a criminal records certificate under section 113A of the Police Act 1997[^f00084] has been obtained in respect of that individual;
+- (b) the relevant person has considered that certificate; and
+- (c) that person is satisfied that the individual to whom that certificate refers is a suitable person for the purposes of entering and viewing, and observing the carrying-on of activities on, premises owned or controlled by a services-provider.
+
+(3) For the purposes of paragraph (2), “the relevant person” means—
+
+- (a) in the case of a representative to be authorised by L, L; and
+- (b) in the case of a representative to be authorised by the relevant contractor, that contractor.
+
+### 43. Requirements relating to trade mark[^key-cad404519f54f988f806f1080f7727b7]
+
+(1) The requirements referred to in regulation 40(1)(f) are that L must—
+
+- (a) by such date as A may specify, apply to the Commission for a licence under section 45D(1) of the 2008 Act[^f00085] (grant of licence to use trade mark) which provides for the grant of a sub-licence by the licensee in accordance with section 45D(2) of that Act;
+- (b) where a licence under section 45D(1) of the 2008 Act is obtained, use the trade mark[^f00086] to which that licence relates in relation to the carrying-on of the relevant section 221 activities; and
+- (c) provide such advice, support or other assistance to the Commission as the Commission may reasonably require in connection with infringement proceedings (whether existing or proposed) relating to that trade mark.
+
+(2) In this regulation—
+
+- “the 2008 Act” means the Health and Social Care Act 2008[^f00087];
+- “infringement proceedings” has the same meaning as in the Trade Marks Act 1994[^f00088];
+- “the Commission” means the Care Quality Commission[^f00089].
+
+### 44. Duties of responsible persons to respond to reports and recommendations by Local Healthwatch organisations contractors[^key-10a22603e8df482c977efe198c4a61bd]
+
+(1) Subject to regulation 45, this regulation applies where a Local Healthwatch organisation or a Local Healthwatch contractor has, in the carrying-on of the relevant section 221 activities, made a report or recommendation to a responsible person.
+
+(2) Where a report or recommendation (whether an original or a copy) is received for the first time by a relevant responsible person (“R”), R must within the period specified in paragraph (3)—
+
+- (a) acknowledge receipt to the referrer; and
+- (b) provide an explanation to the referrer of any action R intends to take in respect of the report or recommendation or an explanation of why R does not intend to take any action in respect of that report or recommendation.
+
+(3) The period referred to in paragraph (2) is—
+
+- (a) 20 working days beginning with the date of receipt of the report or recommendation in any case other than one to which paragraph (4) applies; and
+- (b) 30 working days beginning with the date of receipt of the report or recommendation in a case to which that paragraph applies.
+
+(4) This paragraph applies where—
+
+- (a) the report or recommendation to which the duty in paragraph (2) applies appears to R to have been sent to more than one relevant responsible person;
+- (b) the report or recommendation relates to a care service that more than one responsible person was responsible for arranging the provision of;
+- (c) R is an integrated care board and might reasonably consider it appropriate to consult NHS England in respect of the report or recommendation; or
+- (d) it is agreed by R and the referrer that, in all the circumstances, it is not expedient for R to comply with the duty in paragraph (2) within 20 working days.
+
+(5) Where a report or recommendation (whether an original or a copy) is received for the first time by a responsible person, other than a relevant responsible person, that responsible person must within 20 working days beginning with the date of receipt of that report or recommendation—
+
+- (a) acknowledge receipt to the referrer;
+- (b) provide a copy of the report or recommendation to any other responsible person which appears to the responsible person to be a relevant responsible person; and
+- (c) inform the referrer if no other responsible person appears to the responsible person to be a relevant responsible person.
+
+(6) A relevant responsible person is a responsible person who was responsible for providing or arranging the provision of any of the care services to which the report or recommendation relates.
+
+(7) This paragraph applies where persons who are relevant responsible persons in respect of a report or recommendation agree that one of those responsible persons may act on their behalf in relation to a report or recommendation made in accordance with paragraph (1).
+
+(8) Where paragraph (7) applies—
+
+- (a) the duty in paragraph (2)(b) and the period specified in paragraph (3) do not apply; and
+- (b) the responsible person acting on behalf of the relevant responsible persons must, within 30 working days of the latest date on which the report or recommendation was received by one of those responsible persons, provide to the referrer—
+  - (i) an explanation of any action any of those responsible persons intends to take in respect of the report or recommendation; or
+  - (ii) an explanation of why none of those responsible persons intends to take any action in respect of that report or recommendation.
+
+(9) If a relevant responsible person receives a report or recommendation from a Local Healthwatch organisation or a Local Healthwatch contractor, the relevant responsible person must send a copy of the report or recommendation to any other relevant responsible person which appears to the relevant responsible person not to have received that report or recommendation, or a copy of it.
+
+(10) If a relevant responsible person receives a copy of a report or recommendation from a responsible person, the relevant responsible person must send a copy to any other relevant responsible person which appears to the relevant responsible person not to have received a copy of that report or recommendation.
+
+(11) In this regulation, “the referrer” means the Local Healthwatch organisation or Local Healthwatch contractor which made the report or recommendation.
+
+(12) Where a responsible person is required to acknowledge receipt, provide an explanation or inform the referrer, that responsible person must do so in writing.
+
+### 45. Excluded services[^key-74e0fc7fa7111699b06a1d8a620479c7]
+
+(1) Regulation 44 does not apply where a report or recommendation relates wholly to excluded services.
+
+(2) Where a report or recommendation relates partly to excluded services, regulation 44 applies only to that part of the report or recommendation that does not relate to those services.
+
+(3) In this regulation, “excluded services” means services which are not care services in respect of which the Local Healthwatch organisation or Local Healthwatch contractor, as the case may be, which made the report or recommendation is carrying on the relevant section 221 activities.
+
+### 46. Referrals of social care matters[^key-58ccc447be2ef7ad5c69759a7229ce39]
+
+For the purposes of section 226(2)(a) of the 2007 Act (overview and scrutiny committees: acknowledgement of referrals by Local Healthwatch), the time by which the duty under that section is to be performed is 20 working days beginning with the date on which the referral to which the duty applies was received.
+
+### 47. Revocation and saving provision[^key-032f83c5a9cce3ecb18f44455088153a]
+
+(1) The Local Involvement Networks Regulations 2008[^f00090] are revoked.
+
+(2) Where paragraph (3) applies, subject to paragraphs (4) and (5), regulations 5 and 6 of the 2008 Regulations continue to have effect as if this Part were not in force.
+
+(3) This paragraph applies where—
+
+- (a) a services-provider has, prior to the commencement of this Part, received a report or recommendation (whether an original or a copy) made by a local involvement network in the carrying-on of section 221 activities pursuant to arrangements made under section 221(1) of the 2007 Act (“the relevant report or recommendation”);
+- (b) the time by which any duties under regulations 5 and 6 of the 2008 Regulations as respects the relevant report or recommendation are to be performed has not expired as at the date of commencement of this Part; and
+- (c) any such duties have yet to be performed as at that date.
+
+(4) For the purposes of paragraph (2)—
+
+- (a) the referrer of a relevant report or recommendation is deemed to be the Local Healthwatch organisation for the local authority area in respect of which the local involvement network referred to in paragraph (3)(a) carried out the section 221 activities in question;
+- (b) regulation 5 of the 2008 Regulations is to be read as if references to “Local Healthwatch organisation” are substituted for references to “local involvement network”.
+
+(5) For the purposes of paragraph (2), in any case where a Primary Care Trust was a relevant services-provider, as defined in regulation 5(4) of the 2008 Regulations, in respect of the report or recommendation—
+
+- (a) the body or bodies responsible for discharging the duties of that services-provider on or after the date this Part comes into force are the relevant body or bodies exercising the function of arranging the provision of the care services to which the report or recommendation relates and which were commissioned by the Trust;
+- (b) the references to “relevant services-provider” in regulation 5(3)(b) and (c) of the 2008 Regulations include a reference to the relevant body or bodies; and
+- (c) the period referred to in regulation 5(3) of the 2008 Regulations is to be treated as 30 working days beginning with the date, or latest date, on which the report or recommendation was received by the relevant body or bodies.
+
+(6) In this regulation—
+
+- “the 2008 Regulations” means the Local Involvement Networks Regulations 2008;
+- “local involvement network” has the same meaning as in the 2008 Regulations[^f00091];
+- “services-provider” has the same meaning as in the 2008 Regulations[^f00092];
+- “relevant body or bodies” means a clinical commissioning group or groups or NHS England.
+
+Signed by authority of the Secretary of State for Health.
+
+Anna Soubry
+
+Parliamentary Under-Secretary of State for Health,
+
+Department of Health
+
+12th December 2012
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations make provision in relation to the designation of certain NHS bodies as Care Trusts, the public health functions of local authorities and Local Healthwatch organisations.
+
+Part 2 makes provision for the designation of clinical commissioning groups, NHS trusts or NHS foundation trusts as Care Trusts under section 77(1) of the National Health Service Act [2006 (c.41)](https://www.legislation.gov.uk/ukpga/2006/41) (“the 2006 Act”) in consequence of amendments to section 77 of that Act by virtue of section 200 of the Health and Social Care Act [2012 (c.7)](https://www.legislation.gov.uk/ukpga/2012/7) (“the 2012 Act”).
+
+Part 2 also amends the NHS Bodies and Local Authorities Partnership Arrangement Regulations 2000 (“the 2000 Regulations”) in consequence of changes to health service made by Part 1 of the 2012 Act and prescribes certain functions of clinical commissioning groups, NHS England or a Local Health Board, for the purposes of section 76(1) of the 2006 Act.
+
+Part 3 specifies functions of local authorities in relation to public health for which directors of public health are to have responsibility.
+
+Part 4 specifies the functions to be exercised by local authorities in relation to dental public health in England.
+
+Part 5 makes provision for complaints to be made in relation to local authority public health services.
+
+Part 6 makes provision in relation to Local Healthwatch organisations. These organisations are provided for in Part 14 of the Local Government and Public Involvement in Health Act [2007 (c.28)](https://www.legislation.gov.uk/ukpga/2007/28) (“the 2007 Act”) as amended by Part 5 of the 2012 Act.
+
+Part 2, regulation 3(1) and (2) prescribes health-related functions of local authorities and NHS functions for the purposes of section 77(1) of the 2006 Act. The functions prescribed are those set out in regulations 5 and 6 of the 2000 Regulations, subject to the restrictions in paragraphs (3) and (4).
+
+Regulation 4 makes provision for consultation before an integrated care board or an NHS foundation trust is designated as a Care Trust and prior to the revocation of the designation. Regulation 5 makes provision for combined consultations where the parties to the Care Trust agree.
+
+Regulation 6 prescribes the form and manner for publication of reasons for the proposed designation of an NHS foundation trust, NHS trust and an integrated care board as a Care trust and information relating to the governance arrangements of the Care Trust.
+
+Regulation 7 provides for steps which the parties to the Care Trust must take following consultation but prior to designation or revocation of the designation of the NHS foundation trust, NHS trust or the clinical commissioning group as a Care Trust.
+
+Regulations 8 and 9 make provision for publication requirements following the decision to designate or revoke the designation of an NHS foundation trust, NHS trust or an integrated care board as a Care Trust.
+
+Regulation 10 prescribes the bodies which the parties to a Care Trust must notify following the designation or the revocation of a designation of a Care Trust.
+
+Regulation 11 revokes the Care Trusts (Application and Consultation) Regulations 2001 and amends the National Health Service Trusts (Consultation on Establishment and Dissolution) Regulations 2010.
+
+Regulation 12(2) amends the 2000 Regulations in consequence of changes to the health service made by Part 1 of the 2012 Act.
+
+Regulation 13 prescribes certain functions of clinical commissioning groups, NHS England or a Local Health Board, for the purposes of section 76(1) of the 2006 Act. Subject to certain conditions prescribed in Directions made by the Secretary of State under section 76(3) of the 2006 Act, this provision allows local authorities to make payments to those NHS bodies towards expenditure incurred by them in connection with the performance of any of the functions so prescribed. Regulation 13 also revokes the National Health Service (Payments by Local Authorities to NHS Bodies)(Prescribed Functions) Regulations 2000.
+
+The public health functions specified in Part 3 for which directors of public health are to have responsibility relate to local authorities making representations and making applications in connection with premises regulated by the Licensing Act 2003 (regulation 14).
+
+Regulation 15 prescribes those functions which are specified in regulation 14 pursuant to section 73B(2)(e) of the National Health Service Act 2006. The effect is that local authorities must have regard to any document published by the Secretary of State in the exercise of those functions and the Secretary of State may give guidance to local authorities as to the exercise of these same functions.
+
+The functions to be exercised by local authorities in relation to dental public health in England as specified in Part 4, relate to the provision of oral health promotion programmes and oral health surveys. In the case of oral health surveys, local authorities must make their own arrangements for oral health surveys and must also participate in any such surveys conducted or commissioned by the Secretary of State.
+
+Regulation 18 revokes and replaces the Functions of Primary Care Trusts (Dental Public Health) (England) Regulations 2006, which made provision for functions in relation to dental public health to be exercised by Primary Care Trusts, and makes transitional provision.
+
+Part 5 makes provision for complaints about the exercise of public health functions by local authorities. Regulation 20 specifies the range of complaints which may be made in relation to the exercise of public health functions by local authorities; this includes complaints about services provided by “service providers” with whom local authorities make arrangements to provide services in the exercise of their public health functions.
+
+Regulation 21 requires each local authority and service provider (“responsible body”) to make arrangements for the handling of consideration of complaints.
+
+Regulation 22 requires each responsible body to designate a person to be responsible for ensuring compliance with the arrangements and a complaints manager to be responsible for managing the complaints procedure.
+
+Regulation 23 specifies the persons who may make complaints under these Regulations and Regulation 24 makes provision as to the circumstances in which each responsible body will have a duty to handle complaints in accordance with the Regulations. Regulation 25 specifies certain types of complaint which are not required to be dealt with in accordance with the Regulations.
+
+Regulation 26 makes provision for local authorities to co-operate in relation to complaints being considered by one authority which also fall to be handled by another authority.
+
+Regulation 27 specifies the time limit for making a complaint and regulation 28 makes provision about how a complaint is to be made and processed initially, including determining the likely period for investigating and responding to the complaint. Regulation 29 provides for the investigation of the complaint and the response to the complainant. Regulation 30 makes provision for electronic communications.
+
+Each responsible body must ensure that its complaints arrangements are made available to the public (regulation 31); must maintain records for the purpose of monitoring complaints arrangements (regulation 32); and must prepare and make available an annual report, although that report may form part of a wider report relating to other prescribed complaints procedures (regulation 33).
+
+Part 6 concerns Local Healthwatch organisations. Section 222(2) of the 2007 Act requires that contractual arrangements made by a local authority under section 221 of that Act for patient and public involvement in health and social care (“local authority arrangements”) must be made with a body corporate which is a social enterprise and which satisfies any criteria prescribed by regulations. Section 222(8) of that Act sets out that a body is a social enterprise for these purposes if it could reasonably be considered to act for the benefit of the community in England and it satisfies any criteria prescribed by regulations. Section 222(2A) of the 2007 Act provides that such a body is to be known as the Local Healthwatch organisation for the area of the local authority. Regulations 35 to 38 make related provision.
+
+Regulation 35 prescribes criteria to be satisfied in order for a body to be a social enterprise under section 222(8) of the 2007 Act. It also sets out bodies to which those criteria do not apply and which will therefore be social enterprises for the purposes of these Regulations if they act for the benefit of the community in England. Regulation 36 sets out certain political activities which are not to be treated as carried on for the benefit of the community for the purposes of section 222(8). Regulation 37 makes provision about what constitutes a section of the community for those purposes. Regulation 38 prescribes the criterion to be satisfied by a social enterprise for the purposes of section 222(2) of the 2007 Act.
+
+Regulations 40 to 43 require local authorities to ensure that local authority arrangements and arrangements (“Local Healthwatch arrangements”) made pursuant to those arrangements by Local Healthwatch organisations with other persons (“Local Healthwatch contractors)” include certain provisions about procedures, decision-making and the use of a trade mark of which the Care Quality Commission is the registered proprietor. This includes provision about who may be an authorised representative for the purposes of entering and viewing the premises of certain providers of health and social care services and how such a person may be authorised.
+
+Regulation 44 imposes duties on certain commissioners and providers of health and social care services where a Local Healthwatch organisation or Local Healthwatch contractor has made a report or recommendation to them. Regulation 45 disapplies the duty under regulation 44 in relation to a report or recommendation which relates to services which are not care services in respect of which the Local Healthwatch organisation or contractor which made the report or recommendation is to carry on activities under local authority arrangements or Local Healthwatch arrangements.
+
+Regulation 46 sets out the time limit for an overview and scrutiny committee of a local authority to acknowledge receipt of a referral of a social care matter by a Local Healthwatch organisation or Local Healthwatch contractor.
+
+Regulation 47 revokes the Local Involvement Networks Regulations 2008. It also makes savings provision in respect of reports and recommendations made by local involvement networks prior to the commencement of these Regulations to which a response was outstanding as at the date of commencement of these Regulations.
+
+A full Impact Assessment has not been produced for this instrument as no or minimal impact on the private sector or civil society organisations is foreseen. A full impact assessment has been produced in relation to the relevant provisions of the 2012 Act and a copy is available at http://www.dh.gov.uk/en/Publicationsandstatistics/Publications/PublicationsLegislation/DH\_123583.
+
+## Annotations
+
+[^f00001]: Footnote: [2006 c.41](https://www.legislation.gov.uk/ukpga/2006/41) (“the 2006 Act”). Sections 73A and 73B of the 2006 Act are inserted by sections 30 and 31 respectively of the Health and Social Care Act [2012 (c.7)](https://www.legislation.gov.uk/ukpga/2012/7) (“the 2012 Act”). Section 73C is inserted by section 32 of the 2012 Act. Section 76(1) is amended by paragraph 25 of Schedule 4 to the 2012 Act. Section 77 of the 2006 Act is amended by section 200 of, and paragraph 26 of Schedule 4 to, the 2012 Act. Section 111 is amended by section 29 of the 2012 Act. *See* section 275(1) of the 2006 Act for the definition of “prescribed” and “regulations”. The powers exercised in making these Regulations are exercisable by the Secretary of State only in relation to England by virtue of section 271(1) of the 2006 Act.
+
+[^f00002]: Footnote: [2003 c.43](https://www.legislation.gov.uk/ukpga/2003/43). By virtue of section 73C(5) of the 2006 Act, section 115 of the Health and Social Care (Community Health and Standards) Act 2003 applies in relation to regulations made under section 73C of the 2006 Act as it applies in relation to regulations under section 113(1) of the Health and Social Care (Community Health and Standards) Act 2003.
+
+[^f00003]: Footnote: [2007 c.28](https://www.legislation.gov.uk/ukpga/2007/28). Section 222 is amended by section 183 of, and paragraph 149 of Schedule 5 to, the 2012 Act; section 223 is amended by section 184 of the 2012 Act. *See* the definition of “prescribed provision” in section 223(3). Section 224 is amended by section 186(1) to (5) of, and paragraph 150 of Schedule 5 to, the 2012 Act.
+
+[^key-51cce56ad4000c658965f10c802f9ee9]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2012/3094/regulation/1) in force at 1.4.2013, see [reg. 1(2)(h)](https://www.legislation.gov.uk/uksi/2012/3094/regulation/1/2/h)
+
+[^f00004]: Footnote: [2012 c.7](https://www.legislation.gov.uk/ukpga/2012/7) (“the 2012 Act”); section 200 of the 2012 Act is commenced for limited purposes by virtue of section 306(1)(d) of that Act.
+
+[^key-768fb193da722b7af79fbece78255763]: Textual amendment: Words in [Regulations](https://www.legislation.gov.uk/uksi/2012/3094) substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [Sch. para. 1(1)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/1)[(3)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/3) (with [Sch. para. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/2))
+
+[^f00005]: Footnote: Section 14 of the 2012 Act is commenced for limited purposes by virtue of section 306(1)(d) of that Act and by [S.I. 2012/2657](https://www.legislation.gov.uk/uksi/2012/2657).
+
+[^f00006]: Footnote: Paragraph 25 of Schedule 4 to the 2012 Act is commenced for limited purposes by virtue of section 306(1)(d) of that Act.
+
+[^f00007]: Footnote: Section 30 of the 2012 Act is commenced for limited purposes by virtue of section 306(1)(d) of that Act.
+
+[^f00008]: Footnote: Section 29 of the 2012 Act is commenced for limited purposes by virtue of section 306(1)(d) of that Act.
+
+[^f00009]: Footnote: Section 32 of the 2012 Act is commenced for limited purposes by virtue of section 306(1)(d) of that Act.
+
+[^f00010]: Footnote: Section 183 of the 2012 Act is commenced for limited purposes by virtue of section 306(1)(d) of that Act.
+
+[^key-fe0369b64e0fc13b5ec3e6431b364435]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2012/3094/regulation/2) in force at 1.4.2013, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/3094/regulation/1/2/a)[(c)](https://www.legislation.gov.uk/uksi/2012/3094/regulation/1/2/c)
+
+[^key-1dbba261867bf21c13f3013c1d37411d]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2012/3094/regulation/2) omitted (6.11.2023) by virtue of [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [57(2)(a)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/57/2/a)
+
+[^key-60ab9d7c0e21039532b3690b82527b96]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2012/3094/regulation/2) inserted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [57(2)(b)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/57/2/b)
+
+[^f00012]: Footnote: [S.I. 2000/617](https://www.legislation.gov.uk/uksi/2000/617) as amended by [S.I. 2001/2237](https://www.legislation.gov.uk/uksi/2001/2237), [2002/2469](https://www.legislation.gov.uk/uksi/2002/2469), [2003/629](https://www.legislation.gov.uk/uksi/2003/629), [2004/696](https://www.legislation.gov.uk/uksi/2004/696), [2005/3504](https://www.legislation.gov.uk/uksi/2005/3504), [2009/278](https://www.legislation.gov.uk/uksi/2009/278), [2010/1000](https://www.legislation.gov.uk/uksi/2010/1000) and [2010/1172](https://www.legislation.gov.uk/uksi/2010/1172).
+
+[^key-192a58c1ab07928e25744dd2a361320f]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2012/3094/regulation/3) in force at 1.4.2013, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/3094/regulation/1/2/a)
+
+[^f00013]: Footnote: Regulation 6 was amended by [S.I. 2003/629](https://www.legislation.gov.uk/uksi/2003/629), [2005/3504](https://www.legislation.gov.uk/uksi/2005/3504), [2010/1172](https://www.legislation.gov.uk/uksi/2010/1172) and by regulation 12 of these Regulations.
+
+[^f00014]: Footnote: Section 77(1) was amended by section 200(1) of the 2012 Act.
+
+[^f00015]: Footnote: Regulation 5 was amended by [S.I. 2009/278](https://www.legislation.gov.uk/uksi/2009/278), [2010/1000](https://www.legislation.gov.uk/uksi/2010/1000) and by regulation 12 of these Regulations.
+
+[^key-ca89cb9524becc056038adebec42231e]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2012/3094/regulation/4) in force at 1.4.2013, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/3094/regulation/1/2/a)
+
+[^key-68b6351555f53bcbe5b0e7d04721b466]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2012/3094/regulation/5) in force at 1.4.2013, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/3094/regulation/1/2/a)
+
+[^key-3af1b6ed96f483fbac003030df8bace2]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2012/3094/regulation/6) in force at 1.4.2013, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/3094/regulation/1/2/a)
+
+[^key-9508696976fec4f1f963ac2622c64cbe]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2012/3094/regulation/7) in force at 1.4.2013, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/3094/regulation/1/2/a)
+
+[^key-2536e03cbee877f72e756bdcff21e17b]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2012/3094/regulation/8) in force at 1.4.2013, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/3094/regulation/1/2/a)
+
+[^f00016]: Footnote: *See* section 77(12) of the 2006 Act for the meaning of “LA delegation arrangements”.
+
+[^key-1a58c0e5d5c27f584db083f745350ddf]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2012/3094/regulation/9) in force at 1.4.2013, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/3094/regulation/1/2/a)
+
+[^key-ced964efcecc5047cf3a8b39421ccedc]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2012/3094/regulation/10) in force at 1.4.2013, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/3094/regulation/1/2/a)
+
+[^key-b1b11aaad4b1e129053ffb7732f9d720]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
+
+[^key-8afd2a30982dbb0c05b82b08473d029b]: Textual amendment: [Reg. 10(2)(b)](https://www.legislation.gov.uk/uksi/2012/3094/regulation/10/2/b) omitted (1.7.2022) by virtue of [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [110(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/110/2)
+
+[^f00018]: Footnote: Established by section 1 of the Health and Social Care Act [2008 (c. 14)](https://www.legislation.gov.uk/ukpga/2008/14) (“the 2008 Act”).
+
+[^key-492c07ceb4ec5704d73b411f54ca5d8a]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2012/3094/regulation/11) in force at 1.4.2013, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/3094/regulation/1/2/a)
+
+[^f00019]: Footnote: [S.I. 2001/3788](https://www.legislation.gov.uk/uksi/2001/3788). The Care Trusts (Application and Consultation) Regulations 2001 were amended by [S.I. 2002/2469](https://www.legislation.gov.uk/uksi/2002/2469) and [S.I. 2010/743](https://www.legislation.gov.uk/uksi/2010/743).
+
+[^f00020]: Footnote: [S.I. 2010/743](https://www.legislation.gov.uk/uksi/2010/743).
+
+[^key-fe0b6aceb9f4448445d6a76c6183eef4]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2012/3094/regulation/12) in force at 1.4.2013, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2012/3094/regulation/1/2/b)
+
+[^f00021]: Footnote: [S.I. 2000/617](https://www.legislation.gov.uk/uksi/2000/617).
+
+[^f00022]: Footnote: Regulation 2 was amended by [S.I. 2000/629](https://www.legislation.gov.uk/uksi/2000/629).
+
+[^f00023]: Footnote: Section 9 was amended by the 2008 Act, Schedule 5, paragraph 82 and by the 2012 Act, Schedule 4, paragraph 6, Schedule 7, paragraph 18, Schedule 14, paragraph 4, Schedule 17, paragraph 10(2), Schedule 19, paragraph 9(2), and Schedule 21, paragraph 6.
+
+[^f00024]: Footnote: Regulation 3 was amended by [S.I. 2002/2469](https://www.legislation.gov.uk/uksi/2002/2469), [2003/629](https://www.legislation.gov.uk/uksi/2003/629) and [2004/696](https://www.legislation.gov.uk/uksi/2004/696).
+
+[^f00025]: Footnote: Regulation 4 was amended by [S.I. 2002/2469](https://www.legislation.gov.uk/uksi/2002/2469) and [2003/629](https://www.legislation.gov.uk/uksi/2003/629).
+
+[^f00026]: Footnote: Regulation 5 was amended by [S.I. 2009/278](https://www.legislation.gov.uk/uksi/2009/278) and [2010/1000](https://www.legislation.gov.uk/uksi/2010/1000).
+
+[^f00027]: Footnote: Regulation 6 was amended by [S.I. 2003/629](https://www.legislation.gov.uk/uksi/2003/629), [2005/3504](https://www.legislation.gov.uk/uksi/2005/3504) and [2010/1172](https://www.legislation.gov.uk/uksi/2010/1172).
+
+[^f00028]: Footnote: Regulation 7 was amended by [S.I. 2002/2469](https://www.legislation.gov.uk/uksi/2002/2469).
+
+[^f00029]: Footnote: Regulation 8 was amended by [S.I. 2003/629](https://www.legislation.gov.uk/uksi/2003/629).
+
+[^f00030]: Footnote: Regulation 9 was amended by [S.I. 2002/2469](https://www.legislation.gov.uk/uksi/2002/2469) and [2003/629](https://www.legislation.gov.uk/uksi/2003/629).
+
+[^key-19be411a178cb0d58262212c634cb5a7]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2012/3094/regulation/13) in force at 1.4.2013, see [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2012/3094/regulation/1/2/c)
+
+[^f00031]: Footnote: [2006 c.42](https://www.legislation.gov.uk/ukpga/2006/42). Schedule 1 was amended by sections 144 and 160 of, and Schedule 14 to, the 2008 Act, [S.I. 2010/1158](https://www.legislation.gov.uk/uksi/2010/1158) and by section 72 of, and paragraphs 25 and 26 of Schedule 1 to, the Children and Families (Wales) Measure [2010 (nawm 1)](https://www.legislation.gov.uk/mwa/2010/1).
+
+[^f00032]: Footnote: Section 127 was amended by section 55(1) of, and paragraph 64(1) to (4) of Schedule 4 to, the 2012 Act.
+
+[^f00033]: Footnote: [S.I. 2004/629](https://www.legislation.gov.uk/uksi/2004/629). Schedule 2 was amended by [S.I. 2004/3215](https://www.legislation.gov.uk/uksi/2004/3215), [2009/2230](https://www.legislation.gov.uk/uksi/2009/2230), [2010/2389](https://www.legislation.gov.uk/uksi/2010/2389), [2011/680](https://www.legislation.gov.uk/uksi/2011/680) and [2011/1043](https://www.legislation.gov.uk/uksi/2011/1043).
+
+[^key-d5d049b234f75bb69ac5b2b26356a92e]: Textual amendment: Words in [reg. 13(3)(d)](https://www.legislation.gov.uk/uksi/2012/3094/regulation/12/3/d) substituted (1.4.2013) by [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) Regulations 2013 (S.I. 2013/349)](https://www.legislation.gov.uk/uksi/2013/349), [reg. 1](https://www.legislation.gov.uk/uksi/2013/349/regulation/1), [Sch. 10 para. 12](https://www.legislation.gov.uk/uksi/2013/349/schedule/10/paragraph/12)
+
+[^f00034]: Footnote: [S.I. 2012/1909](https://www.legislation.gov.uk/uksi/2012/1909).
+
+[^f00035]: Footnote: [S.I. 2000/618](https://www.legislation.gov.uk/uksi/2000/618). The National Health Service (Payments by Local Authorities to NHS Bodies) (Prescribed Functions) Regulations was amended by [S.I. 2004/865](https://www.legislation.gov.uk/uksi/2004/865), [2007/674](https://www.legislation.gov.uk/uksi/2007/674), [2008/2828](https://www.legislation.gov.uk/uksi/2008/2828) and [2012/1909](https://www.legislation.gov.uk/uksi/2012/1909).
+
+[^key-879ca1028ce2003f8faf657d3c0f4b18]: Modification: [Reg. 14(b)(iv)](https://www.legislation.gov.uk/uksi/2012/3094/regulation/14/b/iv) modified (temp. until 1.4.2025) (22.7.2020) by [Business and Planning Act 2020 (c. 16)](https://www.legislation.gov.uk/ukpga/2020/16), [ss. 11(10)](https://www.legislation.gov.uk/ukpga/2020/16/section/11/10), [25(1)](https://www.legislation.gov.uk/ukpga/2020/16/section/25/1) (with [s. 11(13)](https://www.legislation.gov.uk/ukpga/2020/16/section/11/13)) (as amended (29.9.2022) by [S.I. 2022/978](https://www.legislation.gov.uk/uksi/2022/978), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/978/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/978/regulation/2); and (28.9.2023) by [S.I. 2023/990](https://www.legislation.gov.uk/uksi/2023/990), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/990/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2023/990/regulation/2))
+
+[^key-69dcb26be9c1e5efaa0d8dffa211def1]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2012/3094/regulation/14) in force at 1.4.2013, see [reg. 1(2)(d)](https://www.legislation.gov.uk/uksi/2012/3094/regulation/1/2/d)
+
+[^f00036]: Footnote: *See* section 2B(5) of the 2006 Act for the definition of “local authority”, which is also applied to sections 73A and 73B of the 2006 Act by virtue of sections 73A(8) and 73B(7) respectively of that Act.
+
+[^f00037]: Footnote: [2003 c.17](https://www.legislation.gov.uk/ukpga/2003/17). Section 5(3)(bb) of the Licensing Act 2003 (“the 2003 Act”) was inserted by paragraphs 111 and 112(b) of Schedule 5 to the 2012 Act.
+
+[^f00038]: Footnote: Sections 13(4)(bb), 69(4)(bb) and 172B(4)(da) of the 2003 Act were each inserted by paragraph 111 and (respectively) paragraphs 113(b), 115(b) and 116(b) of Schedule 5 to the 2012 Act.
+
+[^f00039]: Footnote: Sections 18 and 35 of the 2003 Act were amended (in relation to relevant references to the responsible authority) by section 105(1) and (respectively) section 105(4) and 105(6) of the Police Reform and Social Responsibility Act [2011 (c.13)](https://www.legislation.gov.uk/ukpga/2011/13) (“the 2011 Act”). Section 41B of the 2003 Act was inserted by article 2 of [S.I. 2009/1772](https://www.legislation.gov.uk/uksi/2009/1772).
+
+[^f00040]: Footnote: Section 31 of the 2003 Act was amended by section 105(1) and (5) of the 2011 Act.
+
+[^f00041]: Footnote: Section 51 of the 2003 Act was amended (in relation to relevant references to the responsible authority) by section 106(1) and (2) of the 2011 Act. Section 86B of the 2003 Act was inserted by article 3 of [S.I. 2009/1772](https://www.legislation.gov.uk/uksi/2009/1772).
+
+[^f00042]: Footnote: Section 53C of the 2003 Act was inserted by section 21 of the Violent Crime Reduction Act [2006 (c.38)](https://www.legislation.gov.uk/ukpga/2006/38).
+
+[^f00043]: Footnote: Sections 72 and 85 of the 2003 Act were amended (in relation to relevant references to the responsible authority) by section 107(1) and (respectively) section 107(4) and (5) of the 2011 Act. Section 86B of the 2003 Act was inserted by article 3 of [S.I. 2009/1772](https://www.legislation.gov.uk/uksi/2009/1772).
+
+[^f00044]: Footnote: Section 87 of the 2003 Act was amended (in relation to relevant references to the responsible authority) by section 108(1) to (3) of the 2011 Act.
+
+[^f00045]: Footnote: Section 167 was amended (in relation to relevant references to the responsible authority) by section 106(1) and (6)(e) of the 2011 Act.
+
+[^f00046]: Footnote: Section 172B of the 2003 Act was inserted by section 119(1) and (3) of the 2011 Act.
+
+[^key-6700c6fe6e37f10b764fb21e271c8788]: Textual amendment: [Reg. 14(c)](https://www.legislation.gov.uk/uksi/2012/3094/regulation/14/c) inserted (1.4.2013) by [The National Health Service and Public Health (Functions and Miscellaneous Provisions) Regulations 2013 (S.I. 2013/261)](https://www.legislation.gov.uk/uksi/2013/261), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/261/regulation/1/1), [21](https://www.legislation.gov.uk/uksi/2013/261/regulation/21)
+
+[^key-557a9253265480241a4de3b9b8fc2d3d]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2012/3094/regulation/15) in force at 1.4.2013, see [reg. 1(2)(d)](https://www.legislation.gov.uk/uksi/2012/3094/regulation/1/2/d)
+
+[^key-9d630b0c5277a2bc8cd40150cdde3ea9]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2012/3094/regulation/16) in force at 1.4.2013, see [reg. 1(2)(e)](https://www.legislation.gov.uk/uksi/2012/3094/regulation/1/2/e)
+
+[^f00047]: Footnote: [1991 c.56](https://www.legislation.gov.uk/ukpga/1991/56). Section 87(1) is substituted by section 58(1) and (2) of the Water Act [2003 (c.37)](https://www.legislation.gov.uk/ukpga/2003/37).
+
+[^key-af010a86c66bbed06ab75e70e6c3e7bd]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2012/3094/regulation/17) in force at 1.4.2013, see [reg. 1(2)(e)](https://www.legislation.gov.uk/uksi/2012/3094/regulation/1/2/e)
+
+[^f00048]: Footnote: *See* section 2B(5) of the 2006 Act for the definition of “local authority”, which is also applied to section 111 by virtue of section 111(3) of that Act.
+
+[^f00049]: Footnote: Paragraph 13 of Schedule 1 to the 2006 Act is substituted by section 17(2) and (13) of the 2012 Act.
+
+[^key-bb6d4f08450a10ddb142e012f6df1294]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2012/3094/regulation/18) in force at 1.4.2013, see [reg. 1(2)(e)](https://www.legislation.gov.uk/uksi/2012/3094/regulation/1/2/e)
+
+[^f00050]: Footnote: [S.I. 2006/185](https://www.legislation.gov.uk/uksi/2006/185).
+
+[^key-427d0490f243c2b89a8fe33318c3ddc6]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2012/3094/regulation/19) in force at 1.4.2013, see [reg. 1(2)(f)](https://www.legislation.gov.uk/uksi/2012/3094/regulation/1/2/f)
+
+[^f00051]: Footnote: *See* section 2B(5) of the 2006 Act for the definition of “local authority”, which is also applied to section 73C by virtue of section 73C(6) of the 2006 Act.
+
+[^f00052]: Footnote: [1971 c.80](https://www.legislation.gov.uk/ukpga/1971/80).
+
+[^key-681df9e0130732bf8ce260a81bd0898f]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2012/3094/regulation/20) in force at 1.4.2013, see [reg. 1(2)(f)](https://www.legislation.gov.uk/uksi/2012/3094/regulation/1/2/f)
+
+[^f00053]: Footnote: *See* section 1H(5)(b) of the 2006 Act for the meaning of references to the public health functions of local authorities.
+
+[^f00054]: Footnote: Section 6C of the 2006 Act is inserted by section 18(1) of the 2012 Act. *See* section 1H(5)(a) of the 2006 Act for the meaning of references to the public health functions of the Secretary of State.
+
+[^f00055]: Footnote: Section 7A of the 2006 Act is inserted by section 22 of the 2012 Act.
+
+[^f00056]: Footnote: *See* section 73A of the 2006 Act and regulation 14 of these Regulations as to the responsibilities of directors of public health.
+
+[^key-a8664ce08e6445596114a39c39e2e69b]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2012/3094/regulation/21) in force at 1.4.2013, see [reg. 1(2)(f)](https://www.legislation.gov.uk/uksi/2012/3094/regulation/1/2/f)
+
+[^key-9dd22a90f0045fad9947d30a58cb137b]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2012/3094/regulation/22) in force at 1.4.2013, see [reg. 1(2)(f)](https://www.legislation.gov.uk/uksi/2012/3094/regulation/1/2/f)
+
+[^f00057]: Footnote: [1989 c.42](https://www.legislation.gov.uk/ukpga/1989/42).
+
+[^key-1124a4aee58036d446a3832c687359b5]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/2012/3094/regulation/23) in force at 1.4.2013, see [reg. 1(2)(f)](https://www.legislation.gov.uk/uksi/2012/3094/regulation/1/2/f)
+
+[^f00058]: Footnote: [2005 c.9](https://www.legislation.gov.uk/ukpga/2005/9).
+
+[^key-e86fe0e47523a5e72c5bd05bdb9cbb8d]: Commencement: [Reg. 24](https://www.legislation.gov.uk/uksi/2012/3094/regulation/24) in force at 1.4.2013, see [reg. 1(2)(f)](https://www.legislation.gov.uk/uksi/2012/3094/regulation/1/2/f)
+
+[^key-5dda08cf7bcfbe95e45e61d0ff9dd396]: Commencement: [Reg. 25](https://www.legislation.gov.uk/uksi/2012/3094/regulation/25) in force at 1.4.2013, see [reg. 1(2)(f)](https://www.legislation.gov.uk/uksi/2012/3094/regulation/1/2/f)
+
+[^f00059]: Footnote: [1974 c.7](https://www.legislation.gov.uk/ukpga/1974/7).
+
+[^f00060]: Footnote: [2000 c.36](https://www.legislation.gov.uk/ukpga/2000/36).
+
+[^f00061]: Footnote: [1972 c.11](https://www.legislation.gov.uk/ukpga/1972/11).
+
+[^key-b2239f75da2429cea2ef1b88e5187258]: Commencement: [Reg. 26](https://www.legislation.gov.uk/uksi/2012/3094/regulation/26) in force at 1.4.2013, see [reg. 1(2)(f)](https://www.legislation.gov.uk/uksi/2012/3094/regulation/1/2/f)
+
+[^key-c765bc35d5f52de6ddae95b92a0f6648]: Commencement: [Reg. 27](https://www.legislation.gov.uk/uksi/2012/3094/regulation/27) in force at 1.4.2013, see [reg. 1(2)(f)](https://www.legislation.gov.uk/uksi/2012/3094/regulation/1/2/f)
+
+[^key-c1a8f06a6029ac22c5a43515cebc3925]: Commencement: [Reg. 28](https://www.legislation.gov.uk/uksi/2012/3094/regulation/28) in force at 1.4.2013, see [reg. 1(2)(f)](https://www.legislation.gov.uk/uksi/2012/3094/regulation/1/2/f)
+
+[^key-eba32dc96b739deaac0638ee2ce9dced]: Commencement: [Reg. 29](https://www.legislation.gov.uk/uksi/2012/3094/regulation/29) in force at 1.4.2013, see [reg. 1(2)(f)](https://www.legislation.gov.uk/uksi/2012/3094/regulation/1/2/f)
+
+[^key-3b7343357422b9754adf5f00d2b078a8]: Commencement: [Reg. 30](https://www.legislation.gov.uk/uksi/2012/3094/regulation/30) in force at 1.4.2013, see [reg. 1(2)(f)](https://www.legislation.gov.uk/uksi/2012/3094/regulation/1/2/f)
+
+[^key-69a3f9e24c495983bfed6d83c9bf2621]: Commencement: [Reg. 31](https://www.legislation.gov.uk/uksi/2012/3094/regulation/31) in force at 1.4.2013, see [reg. 1(2)(f)](https://www.legislation.gov.uk/uksi/2012/3094/regulation/1/2/f)
+
+[^key-e4d407e828d79d9a07a08f23c039a653]: Commencement: [Reg. 32](https://www.legislation.gov.uk/uksi/2012/3094/regulation/32) in force at 1.4.2013, see [reg. 1(2)(f)](https://www.legislation.gov.uk/uksi/2012/3094/regulation/1/2/f)
+
+[^key-3f822fa9a8d14417960c35102c93daf3]: Commencement: [Reg. 33](https://www.legislation.gov.uk/uksi/2012/3094/regulation/33) in force at 1.4.2013, see [reg. 1(2)(f)](https://www.legislation.gov.uk/uksi/2012/3094/regulation/1/2/f)
+
+[^f00062]: Footnote: *See* section 115(6) of the 2003 Act for the meaning of “statutory complaints procedure”.
+
+[^key-0346e8ee7e261bd078babd78567e87f7]: Commencement: [Reg. 34](https://www.legislation.gov.uk/uksi/2012/3094/regulation/34) in force at 1.4.2013, see [reg. 1(2)(g)](https://www.legislation.gov.uk/uksi/2012/3094/regulation/1/2/g)
+
+[^f00063]: Footnote: Section 225(5) is amended by section 186(6) and (7) of the 2012 Act.
+
+[^f00064]: Footnote: There are no relevant amendments to section 221(6).
+
+[^f00065]: Footnote: [2002 c.17](https://www.legislation.gov.uk/ukpga/2002/17). Section 25 was amended by section 113 of, and paragraphs 16 and 17 of Schedule 10 to, the Health and Social Care Act [2008 (c.14)](https://www.legislation.gov.uk/ukpga/2008/14) (“the 2008 Act”), section 222 of, and paragraphs 56 and 62 of Schedule 15 to, the 2012 Act, and [S.I. 2010/231](https://www.legislation.gov.uk/uksi/2010/231). *See* also section 25(3A) and the related provision in regulation 34(2) of these Regulations.
+
+[^f00066]: Footnote: *See* section 222(2A) of the Local Government and Public Involvement in Health Act [2007 (c.28)](https://www.legislation.gov.uk/ukpga/2007/28) (“the 2007 Act”) for the meaning of “Local Healthwatch organisation”. Subsection (2A) is substituted by section 183(1) and (2) of the 2012 Act.
+
+[^f00067]: Footnote: *See* section 229 of the 2007 Act for the definition of “local authority”.
+
+[^f00068]: Footnote: Section 222 is amended by section 183 of the 2012 Act. *See* in particular section 222(2B) which is substituted by section 183(2) of the 2012 Act, and the definition of “local authority” in section 229(1) of the 2007 Act.
+
+[^f00069]: Footnote: Section 223 is amended by section 184 of the 2012 Act. The definition of “Local Healthwatch contractor” is inserted by section 184(1) and (6) of that Act – *see* section 223(3).
+
+[^f00070]: Footnote: There are no relevant amendments to section 226(8). Section 21 of, and Schedule 2 to, the Localism Act [2011 (c.20)](https://www.legislation.gov.uk/ukpga/2011/20) inserted new Part 1A into the Local Government Act [2000 (c.22)](https://www.legislation.gov.uk/ukpga/2000/22) (arrangements with respect to local authority governance in England) which replaces Part 1 of that Act in relation to England. Overview and scrutiny committees are provided for in section 9F(1) of that Act for authorities operating executive arrangements, and in section 9JA for authorities operating a committee system.
+
+[^f00071]: Footnote: Section 224(2) is amended by paragraphs 148 and 150 of Schedule 5 to the 2012 Act.
+
+[^f00072]: Footnote: Section 221(2) is amended by section 182(1) to (4) of the 2012 Act.
+
+[^f00073]: Footnote: Section 225(7) is amended by paragraphs 148 and 151 of Schedule 5 and paragraphs 103 and 106 of Schedule 14 to the 2012 Act.
+
+[^f00074]: Footnote: [1999 c.8](https://www.legislation.gov.uk/ukpga/1999/8). *See* section 60(2ZB) and (2ZC) which is inserted by section 209(1) and (6) of the 2012 Act.
+
+[^f00075]: Footnote: *See* section 60(2ZA) which is inserted by section 209(1) and (5) of the 2012 Act.
+
+[^f00076]: Footnote: [1971 c.80](https://www.legislation.gov.uk/ukpga/1971/80).
+
+[^f00077]: Footnote: The Health and Care Professions Council was formerly known as the Health Professions Council and is continued in existence by section 214 of the 2012 Act. The Council was established under article 3 of the Health and Social Work Professions Order 2001 ([S.I. 2002/254](https://www.legislation.gov.uk/uksi/2002/254)). The Order is so re-named by section 213(4) and (6) of the 2012 Act and has been amended by paragraph 8 of Schedule 12 to the Health and Social Care (Community Health and Standards) Act [2003 (c.43)](https://www.legislation.gov.uk/ukpga/2003/43), Schedule 9 and paragraph 48 of Schedule 8 to the Health Act [2006 (c.28)](https://www.legislation.gov.uk/ukpga/2006/28), paragraph 15 of Schedule 10 to the 2008 Act, by virtue of section 81(5) of the Policing and Crime Act [2009 (c.26)](https://www.legislation.gov.uk/ukpga/2009/26), by sections 213(1) to (6), 214(2) to (4), 215, 216, 218 and 219 of the 2012 Act and [S.I. 2003/3148](https://www.legislation.gov.uk/uksi/2003/3148), [2004/2033](https://www.legislation.gov.uk/uksi/2004/2033), [2007/3101](https://www.legislation.gov.uk/uksi/2007/3101), [2009/1182](https://www.legislation.gov.uk/uksi/2009/1182), [2010/233](https://www.legislation.gov.uk/uksi/2010/233), [2011/1043](https://www.legislation.gov.uk/uksi/2011/1043) and [2012/1479](https://www.legislation.gov.uk/uksi/2012/1479).
+
+[^f00078]: Footnote: Section 25(3)(j) was substituted by paragraph 17 of Schedule 10 to the 2008 Act.
+
+[^key-835201bd859a6cd32770029216a3691e]: Commencement: [Reg. 35](https://www.legislation.gov.uk/uksi/2012/3094/regulation/35) in force at 1.4.2013, see [reg. 1(2)(g)](https://www.legislation.gov.uk/uksi/2012/3094/regulation/1/2/g)
+
+[^f00079]: Footnote: [2011 c.25](https://www.legislation.gov.uk/ukpga/2011/25).
+
+[^f00080]: Footnote: [2004 c.27](https://www.legislation.gov.uk/ukpga/2004/27). Section 26 was amended by [S.I. 2006/242](https://www.legislation.gov.uk/uksi/2006/242) and [S.I. 2007/1093](https://www.legislation.gov.uk/uksi/2007/1093).
+
+[^f00081]: Footnote: [2006 c.46](https://www.legislation.gov.uk/ukpga/2006/46).
+
+[^key-0610776f6bf80721c48a1a85399659ee]: Commencement: [Reg. 36](https://www.legislation.gov.uk/uksi/2012/3094/regulation/36) in force at 1.4.2013, see [reg. 1(2)(g)](https://www.legislation.gov.uk/uksi/2012/3094/regulation/1/2/g)
+
+[^f00082]: Footnote: *See* section 5 of, and Schedule 1 to, the Interpretation Act [1978 (c.30)](https://www.legislation.gov.uk/ukpga/1978/30) for the definition of “the EU”. The definition was substituted by the Schedule to the European Union (Amendment) Act [2008 (c.7)](https://www.legislation.gov.uk/ukpga/2008/7).
+
+[^key-603f4474a041511101211e66dbcab92f]: Commencement: [Reg. 37](https://www.legislation.gov.uk/uksi/2012/3094/regulation/37) in force at 1.4.2013, see [reg. 1(2)(g)](https://www.legislation.gov.uk/uksi/2012/3094/regulation/1/2/g)
+
+[^key-523b073cb93ed16bee17cd18bfa00358]: Commencement: [Reg. 38](https://www.legislation.gov.uk/uksi/2012/3094/regulation/38) in force at 1.4.2013, see [reg. 1(2)(g)](https://www.legislation.gov.uk/uksi/2012/3094/regulation/1/2/g)
+
+[^key-38a69026411f6cd772fa4aaabe26212e]: Commencement: [Reg. 39](https://www.legislation.gov.uk/uksi/2012/3094/regulation/39) in force at 1.4.2013, see [reg. 1(2)(g)](https://www.legislation.gov.uk/uksi/2012/3094/regulation/1/2/g)
+
+[^key-9d88193f85c1d1f0e8c4abffe34e8557]: Commencement: [Reg. 40](https://www.legislation.gov.uk/uksi/2012/3094/regulation/40) in force at 1.4.2013, see [reg. 1(2)(g)](https://www.legislation.gov.uk/uksi/2012/3094/regulation/1/2/g)
+
+[^f00083]: Footnote: Sections 244 and 245 are amended by sections 190 and 191 respectively of the 2012 Act.
+
+[^key-b694d003f1c9ade5cf9106ab78a03de7]: Commencement: [Reg. 41](https://www.legislation.gov.uk/uksi/2012/3094/regulation/41) in force at 1.4.2013, see [reg. 1(2)(g)](https://www.legislation.gov.uk/uksi/2012/3094/regulation/1/2/g)
+
+[^key-b79634093846c8a4df15a079224292dd]: Commencement: [Reg. 42](https://www.legislation.gov.uk/uksi/2012/3094/regulation/42) in force at 1.4.2013, see [reg. 1(2)(g)](https://www.legislation.gov.uk/uksi/2012/3094/regulation/1/2/g)
+
+[^f00084]: Footnote: Section 113A was inserted by section 163(2) of the Serious Organised Crime and Police Act [2005 (c.15)](https://www.legislation.gov.uk/ukpga/2005/15) and amended by paragraph 14(1) and (2) of Schedule 9 to, the Safeguarding Vulnerable Groups Act [2006 (c.47)](https://www.legislation.gov.uk/ukpga/2006/47), section 78(2)(a) to (d) and 79 of, and paragraphs 27 and 28 of Schedule 4 to, the Protection of Vulnerable Groups (Scotland) Act [2007 (asp 14)](https://www.legislation.gov.uk/asp/2007/14), section 50(1) and (3)(a) to (c) of the Criminal Justice and Immigration Act [2008 (c.4)](https://www.legislation.gov.uk/ukpga/2008/4), sections 97(2) of, and Schedule 8 to, the Policing and Crime Act [2009 (c.26)](https://www.legislation.gov.uk/ukpga/2009/26), section 188 of the Children’s Hearings (Scotland) Act [2011 (asp 1)](https://www.legislation.gov.uk/asp/2011/1), sections 79(2)(a) and 80(1) of, and Schedule 10 and paragraphs 35 and 36 of Schedule 9 to the Protection of Freedoms Act [2012 (c.9)](https://www.legislation.gov.uk/ukpga/2012/9) and [S.I. 2009/203](https://www.legislation.gov.uk/uksi/2009/203) and [2010/1146](https://www.legislation.gov.uk/uksi/2010/1146).
+
+[^key-cad404519f54f988f806f1080f7727b7]: Commencement: [Reg. 43](https://www.legislation.gov.uk/uksi/2012/3094/regulation/43) in force at 1.4.2013, see [reg. 1(2)(g)](https://www.legislation.gov.uk/uksi/2012/3094/regulation/1/2/g)
+
+[^f00085]: Footnote: Section 45D(1) of the 2008 Act enables the Care Quality Commission to grant a Local Healthwatch organisation a licence authorising the use, in relation to the carrying-on of activities under arrangements made under section 221(1) of the 2007 Act, of a registered trade mark of which the Commission is the proprietor. *See* the definition of “registered trade mark” and “use” in section 45D(3) of the 2008 Act. Section 45D is inserted by section 182(11) of the 2012 Act.
+
+[^f00086]: Footnote: *See* the meaning of “use” and “trade mark” in section 223(3) of the 2007 Act.
+
+[^f00087]: Footnote: [2008 c.14](https://www.legislation.gov.uk/ukpga/2008/14).
+
+[^f00088]: Footnote: [1994 c.26](https://www.legislation.gov.uk/ukpga/1994/26); see section 103 for the definition of “infringement proceedings”.
+
+[^f00089]: Footnote: The Commission was established by section 1(1) of the 2008 Act.
+
+[^key-10a22603e8df482c977efe198c4a61bd]: Commencement: [Reg. 44](https://www.legislation.gov.uk/uksi/2012/3094/regulation/44) in force at 1.4.2013, see [reg. 1(2)(g)](https://www.legislation.gov.uk/uksi/2012/3094/regulation/1/2/g)
+
+[^key-74e0fc7fa7111699b06a1d8a620479c7]: Commencement: [Reg. 45](https://www.legislation.gov.uk/uksi/2012/3094/regulation/45) in force at 1.4.2013, see [reg. 1(2)(g)](https://www.legislation.gov.uk/uksi/2012/3094/regulation/1/2/g)
+
+[^key-58ccc447be2ef7ad5c69759a7229ce39]: Commencement: [Reg. 46](https://www.legislation.gov.uk/uksi/2012/3094/regulation/46) in force at 1.4.2013, see [reg. 1(2)(g)](https://www.legislation.gov.uk/uksi/2012/3094/regulation/1/2/g)
+
+[^key-032f83c5a9cce3ecb18f44455088153a]: Commencement: [Reg. 47](https://www.legislation.gov.uk/uksi/2012/3094/regulation/47) in force at 1.4.2013, see [reg. 1(2)(g)](https://www.legislation.gov.uk/uksi/2012/3094/regulation/1/2/g)
+
+[^f00090]: Footnote: [S.I. 2008/528](https://www.legislation.gov.uk/uksi/2008/528), as amended by [S.I. 2008/1877](https://www.legislation.gov.uk/uksi/2008/1877).
+
+[^f00091]: Footnote: *See* regulation 1(3) of the Local Involvement Networks Regulations 2008.
+
+[^f00092]: Footnote: *See* regulation 1(3) of the Local Involvement Networks Regulations 2008.

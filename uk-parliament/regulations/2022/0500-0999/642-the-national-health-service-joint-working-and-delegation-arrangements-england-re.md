@@ -1,0 +1,174 @@
+---
+title: The National Health Service (Joint Working and Delegation Arrangements) (England) Regulations 2022
+id: uksi/2022/642
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2022-06-09'
+text_date: '2023-04-10'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2022/642
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2022/642/pdfs/uksiem_20220642_en.pdf
+- http://www.legislation.gov.uk/uksi/2022/642/pdfs/uksi_20220642_en.pdf
+- http://www.legislation.gov.uk/uksi/2022/642/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The National Health Service (Joint Working and Delegation Arrangements) (England) Regulations 2022
+
+> Text as at 2023-04-10.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2022 No. 642
+
+National Health Service, England
+
+The National Health Service (Joint Working and Delegation Arrangements) (England) Regulations 2022
+
+Made
+
+9th June 2022
+
+Laid before Parliament
+
+10th June 2022
+
+Coming into force
+
+1st July 2022
+
+The Secretary of State makes these Regulations in exercise of the power conferred by section 65Z5(3)(a) of the National Health Service Act 2006[^f00001].
+
+## 1. Citation, commencement and extent[^key-0f5b53f16f3b00b800b04c4a27a36ac5]
+
+(1) These Regulations may be cited as the National Health Service (Joint Working and Delegation Arrangements) (England) Regulations 2022.
+
+(2) These Regulations come into force on 1st July 2022.
+
+(3) These Regulations extend to England and Wales.
+
+## 1A. Interpretation[^key-f6d12c8700cfc298364d69219d72c1c9]
+
+In these Regulations—
+
+- “**the 2006 Act**” means the National Health Service Act 2006;
+- “**relevant body**” has the meaning given in regulation 2(1) of the Standing Rules;
+- “**the Standing Rules**” means the National Health Service Commissioning Board and Clinical Commissioning Groups (Responsibilities and Standing Rules) Regulations 2012.
+
+## 2. Joint working and delegation arrangements[^key-884fea1d0ff39c5631e6e09a864e5349]
+
+The power in section 65Z5(1) of the 2006 Act[^key-b7a6e2e398c3af46626631221c286504] [^f00002] does not apply in relation to the functions of NHS England specified in—
+
+- (a) the following provisions of the 2006 Act[^key-ebe84b348e0add5802845064a7cf9618]—
+  - (i) section 14Z25 (duty to establish integrated care boards);
+  - (ii) section 14Z26 (process for establishing initial integrated care boards);
+  - (iii) section 14Z28 (transfer schemes in connection with integrated care boards);
+  - (iv) section 14Z59 (performance assessment of integrated care boards);
+  - (v) section 14Z60 (power of NHS England to obtain information);
+  - (vi) section 14Z61 (power to give directions to integrated care boards);
+  - (vii) section 14Z62 (section 14Z61 directions: consultation and cooperation);
+  - (viii) section 27B (NHS England’s directions to NHS trusts);
+  - (ix) section 27C (recommendations about restructuring);
+  - (x) section 27D (intervention in NHS trusts: recommendations etc by NHS England);
+  - (xi) section 33 (applications by NHS trusts);
+  - (xii) section 35 (authorisation of NHS foundation trusts);
+  - (xiii) section 37 (amendments of constitution);
+  - (xiv) section 39 (register of NHS foundation trusts);
+  - (xv) section 39A (panel for advising governors);
+  - (xvi) section 42B (limits on capital expenditure);
+  - (xvii) section 42C (guidance in relation to orders under section 42B);
+  - (xviii) section 56 (mergers);
+  - (xix) section 56A (acquisitions);
+  - (xx) section 56B (separations);
+  - (xxi) section 57 (sections 56 to 56B: supplementary);
+  - (xxii) section 57A (dissolution);
+  - (xxiii) section 65B (NHS trusts: appointment of trust special administrator);
+  - (xxiv) section 65D (NHS foundation trusts: appointment of trust special administrator);
+  - (xxv) section 65DA (objective of trust special administration);
+  - (xxvi) section 65F (draft report);
+  - (xxvii) section 65G (consultation plan);
+  - (xxviii) section 65H (consultation requirements);
+  - (xxix) section 65I (final report);
+  - (xxx) section 65J (power to extend time);
+  - (xxxi) section 65K (decision of NHS England or Secretary of State in case of NHS trust);
+  - (xxxii) section 65KA (NHS England’s decision in case of NHS foundation trust);
+  - (xxxiii) section 65L (trusts coming out of administration);
+  - (xxxiv) section 65LA (trusts to be dissolved);
+  - (xxxv) section 65M (replacement of trust special administrator);
+  - (xxxvi) section 65N (guidance);
+  - (xxxvii) section 223G (means of meeting expenditure of integrated care boards out of public funds);
+  - (xxxviii) section 223GA (expenditure on integration);
+  - (xxxix) section 223GB (power to impose financial requirements on integrated care boards);
+  - (xl) section 223GC (financial duties of integrated care boards: expenditure limits);
+  - (xli) section 223L (joint financial objectives for integrated care boards etc);
+  - (xlii) section 223M (financial duties of integrated care boards etc: use of resources);
+  - (xliii) section 223N (financial duties of integrated care boards etc: additional controls on resource use);
+  - (xliv) paragraphs 28 and 29 of Schedule 4 (dissolution of NHS Trusts); [^key-99ddb7b47855dcba58efd3b9edaa5769]...
+- (b) the following chapters of Part 3 of the Health and Social Care Act 2012[^f00003]—
+  - (i) Chapter 3 (licensing of health service providers);
+  - (ii) Chapter 5 (health special administration);
+  - (iii) Chapter 6 (financial assistance in special administration cases ;[^key-f5d65f802e44b4b3e4aba31cc02af3ed] [^M_F_d05ebba0-2bf2-47cf-99e1-af5c86c91278]...
+- (c) the definition of “relevant data functions” in section 253(3) (general duties) of the Health and Social Care Act 2012 ; and[^key-fce2964c055f66f3f7a3e8a7f2f6b76f]
+- (d)[^key-82e6d9f430b664bbfa4ac169a84c8b7d] regulation 23 of the Standing Rules (the Board’s duty: reviewing decisions).
+
+## 3. Functions relating to NHS Continuing Healthcare and NHS funded nursing care[^key-8b2461e89a5d20fb1a71964ee7d735e3]
+
+The power in section 65Z5(1) of the 2006 Act does not apply in relation to the functions of NHS England and integrated care boards arising under or by virtue of sections 3, 3A or 3B of the 2006 Act insofar as they relate to—
+
+- (a) deciding whether a person has a primary health need in accordance with paragraph (5)(b) of regulation 21 of the Standing Rules (duty of relevant bodies: assessment and provision of NHS Continuing Healthcare); and
+- (b) determining whether a person has a need for nursing care in accordance with regulation 28 of the Standing Rules (persons who enter relevant premises or who develop a need for nursing care) but the power continues to apply in relation to an assessment of the need for nursing care under paragraph (1) of that regulation.
+
+Signed by authority of the Secretary of State for Health and Social Care
+
+Edward Argar
+
+Minister of State,
+
+Department of Health and Social Care
+
+9th June 2022
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations provide that the power in section 65Z5(1) of the National Health Service Act [2006 (c. 41)](https://www.legislation.gov.uk/ukpga/2006/41), as inserted by section 71 of the Health and Care Act [2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), does not apply to the functions of NHS England specified in the provisions of the National Health Service Act 2006 listed in regulation 2(a) and the provisions of the Health and Social Care Act 2012 listed in regulation 2(b). Section 65Z5 contains provision about joint working and delegation arrangements for certain bodies including NHS England.
+
+A full impact assessment has not been produced for this instrument as no, or no significant, impact on the private, voluntary or public sector is foreseen.
+
+## Annotations
+
+[^f00001]: Footnote: [2006 c. 41](https://www.legislation.gov.uk/ukpga/2006/41). Section 65Z5 was inserted by section 71 of the Health and Care Act [2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31). See section 275(1) of the National Health Service Act 2006 for the meaning of “regulations”.
+
+[^key-0f5b53f16f3b00b800b04c4a27a36ac5]: Commencement: Reg. 1 in force at 1.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/642/regulation/1/2)
+
+[^key-f6d12c8700cfc298364d69219d72c1c9]: Textual amendment: [Reg. 1A](https://www.legislation.gov.uk/uksi/2022/642/regulation/1A) inserted (10.4.2023) by [The National Health Service (Joint Working and Delegation Arrangements) (England) (Amendment) Regulations 2023 (S.I. 2023/223)](https://www.legislation.gov.uk/uksi/2023/223), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/223/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2023/223/regulation/2/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/223/regulation/3))
+
+[^key-884fea1d0ff39c5631e6e09a864e5349]: Commencement: Reg. 2 in force at 1.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/642/regulation/1/2)
+
+[^key-b7a6e2e398c3af46626631221c286504]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2022/642/regulation/2) substituted (10.4.2023) by [The National Health Service (Joint Working and Delegation Arrangements) (England) (Amendment) Regulations 2023 (S.I. 2023/223)](https://www.legislation.gov.uk/uksi/2023/223), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/223/regulation/1/2), [2(3)(a)](https://www.legislation.gov.uk/uksi/2023/223/regulation/2/3/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/223/regulation/3))
+
+[^f00002]: Footnote: Sections 14Z25, 14Z26, 14Z28, 14Z59, 14Z60, 14Z61, 14Z62, 27B, 27C, 27D, 42B, 42C, 223GB, 223GC, 223L, 223M and 223N of the National Health Service Act 2006 were inserted by the Health and Care Act 2022. Sections 33, 35, 37, 39, 56 and 57 of, and paragraphs 28 and 29 of Schedule 4 to, the National Health Service Act 2006 were amended by the Health and Care Act 2022. Sections 39A, 56A, 56B, 57A, 65DA, 65KA, 65LA and 223G of the National Health Service Act 2006, which were inserted by the Health and Social Care Act [2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), were amended by the Health and Care Act 2022. Sections 65B and 65K of the National Health Service Act 2006 were substituted by the Health and Care Act 2022. Sections 65D, 65F, 65G, 65H, 65I, 65J, 65L, 65M and 65N of the National Health Service Act 2006, which were inserted by the Health Act [2009 (c. 21)](https://www.legislation.gov.uk/ukpga/2009/21), were amended by the Health and Care Act 2022.
+
+[^key-ebe84b348e0add5802845064a7cf9618]: Textual amendment: Words in [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/642/regulation/2/a) substituted (10.4.2023) by [The National Health Service (Joint Working and Delegation Arrangements) (England) (Amendment) Regulations 2023 (S.I. 2023/223)](https://www.legislation.gov.uk/uksi/2023/223), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/223/regulation/1/2), [2(3)(b)](https://www.legislation.gov.uk/uksi/2023/223/regulation/2/3/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/223/regulation/3))
+
+[^key-99ddb7b47855dcba58efd3b9edaa5769]: Textual amendment: Word in [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/642/regulation/2/a) omitted (1.2.2023) by virtue of [The Health and Social Care Information Centre (Transfer of Functions, Abolition and Transitional Provisions) Regulations 2023 (S.I. 2023/98)](https://www.legislation.gov.uk/uksi/2023/98), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/98/regulation/1/2), [Sch. para. 63(a)](https://www.legislation.gov.uk/uksi/2023/98/schedule/paragraph/63/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/98/regulation/3))
+
+[^f00003]: Footnote: [2012 c. 7](https://www.legislation.gov.uk/ukpga/2012/7). Chapters 3, 5 and 6 of Part 3 of the Health and Care Act 2012 were amended by the Health and Care Act 2022.
+
+[^key-f5d65f802e44b4b3e4aba31cc02af3ed]: Textual amendment: [Reg. 2(c)](https://www.legislation.gov.uk/uksi/2022/642/regulation/2/c) and word inserted (1.2.2023) by [The Health and Social Care Information Centre (Transfer of Functions, Abolition and Transitional Provisions) Regulations 2023 (S.I. 2023/98)](https://www.legislation.gov.uk/uksi/2023/98), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/98/regulation/1/2), [Sch. para. 63(b)](https://www.legislation.gov.uk/uksi/2023/98/schedule/paragraph/63/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/98/regulation/3))
+
+[^M_F_d05ebba0-2bf2-47cf-99e1-af5c86c91278]: Textual amendment: Word in [reg. 2(b)(iii)](https://www.legislation.gov.uk/uksi/2022/642/regulation/2/b/iii) omitted (10.4.2023) by [The National Health Service (Joint Working and Delegation Arrangements) (England) (Amendment) Regulations 2023 (S.I. 2023/223)](https://www.legislation.gov.uk/uksi/2023/223), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/223/regulation/1/2), [2(3)(c)](https://www.legislation.gov.uk/uksi/2023/223/regulation/2/3/c) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/223/regulation/3))
+
+[^key-fce2964c055f66f3f7a3e8a7f2f6b76f]: Textual amendment: Word in [reg. 2(c)](https://www.legislation.gov.uk/uksi/2022/642/regulation/2/c) substituted (10.4.2023) by [The National Health Service (Joint Working and Delegation Arrangements) (England) (Amendment) Regulations 2023 (S.I. 2023/223)](https://www.legislation.gov.uk/uksi/2023/223), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/223/regulation/1/2), [2(3)(d)](https://www.legislation.gov.uk/uksi/2023/223/regulation/2/3/d) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/223/regulation/3))
+
+[^key-82e6d9f430b664bbfa4ac169a84c8b7d]: Textual amendment: [Reg. 2(d)](https://www.legislation.gov.uk/uksi/2022/642/regulation/2/d) inserted (10.4.2023) by [The National Health Service (Joint Working and Delegation Arrangements) (England) (Amendment) Regulations 2023 (S.I. 2023/223)](https://www.legislation.gov.uk/uksi/2023/223), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/223/regulation/1/2), [2(3)(e)](https://www.legislation.gov.uk/uksi/2023/223/regulation/2/3/e) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/223/regulation/3))
+
+[^key-8b2461e89a5d20fb1a71964ee7d735e3]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2022/642/regulation/3) inserted (10.4.2023) by [The National Health Service (Joint Working and Delegation Arrangements) (England) (Amendment) Regulations 2023 (S.I. 2023/223)](https://www.legislation.gov.uk/uksi/2023/223), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/223/regulation/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2023/223/regulation/2/4) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/223/regulation/3))

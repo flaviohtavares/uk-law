@@ -1,0 +1,490 @@
+---
+title: The Consumer Credit (Agreements) Regulations 2010
+id: uksi/2010/1014
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised-with-pending-changes
+made_date: '2010-03-28'
+text_date: '2023-07-11'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2010/1014
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2010/1014/pdfs/uksiem_20101014_en.pdf
+- http://www.legislation.gov.uk/uksi/2010/1014/pdfs/uksi_20101014_en.pdf
+- http://www.legislation.gov.uk/uksi/2010/1014/data.pdf
+pending_changes: 1
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Consumer Credit (Agreements) Regulations 2010
+
+> **Warning: changes not yet applied to this text (1).** Text as at 2023-07-11. See https://www.legislation.gov.uk/changes/affected/uksi/2010/1014
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2010 No. 1014
+
+Consumer Credit
+
+The Consumer Credit (Agreements) Regulations 2010
+
+Made
+
+28th March 2010
+
+Laid before Parliament
+
+30th March 2010
+
+Coming into force in accordance with regulation 1(2)
+
+The Secretary of State makes these Regulations in exercise of the powers conferred by sections 60, 61(1)(a), 105(9), 114(1), 182(2) and 189(1) of the Consumer Credit Act 1974[^c20239721].[^key-f6ca9c409a23281042c2f773b9b6799a][^key-ecea379459f0ec952c112d75d9919c88]
+
+## 1. Citation, commencement and interpretation
+
+(1) These Regulations may be cited as the Consumer Credit (Agreements) Regulations 2010.
+
+(2) Except as provided for in paragraphs (2A) and (2B)[^M_F_21af82b2-7f26-46da-f9f4-684b8d7c07fe] these Regulations shall come into force —
+
+- (a) on 1st February 2011, or
+- (b) in relation to a regulated consumer credit agreement, on the date and at the time Parts 1 to 3 of the Consumer Credit (EU Directive) Regulations 2010 [^c20239731] apply to such an agreement, being a date before 1st February 2011.
+
+(2A)[^M_F_b7ba2bb7-64a0-43e1-c19e-e59ad6e08a12] Where the condition in paragraph (2B) is satisfied on a date on or after 26th August 2010 and before 1st February 2011 in relation to a prospective regulated consumer credit agreement to which section 58 of the Act applies, these Regulations apply to that agreement (and to any subsequent regulated consumer credit agreement entered into before 1st February 2011) from the date and time the condition is satisfied.
+
+(2B) The condition referred to in paragraph (2A) is that—
+
+- (a) before the creditor gives the debtor the unexecuted agreement for his signature the creditor gives the debtor a copy of the unexecuted agreement in compliance or purported compliance with regulations 3 and 7 of, and Schedules 1 and 2 to, these Regulations and
+- (b) the copy of the unexecuted agreement contains a heading and notice as set out in regulation 4(a)(ii) and (b)(ii) respectively of the Consumer Credit (Cancellation Notices and Copies of Documents) Regulations 1983.
+
+(3) In these Regulations, unless the context otherwise requires—
+
+- “**the Act**” means the Consumer Credit Act 1974;
+- “**advance payment**” includes any deposit and in relation to a regulated consumer credit agreement includes also any part-exchange allowance in respect of any goods agreed in antecedent negotiations to be taken by the creditor in part-exchange but does not include a repayment of credit or any insurance premium or any amount entering into the total charge for credit;
+- “**the APR**” means the annual percentage rate of charge for credit determined in accordance with Schedule 4 and the total charge for credit rules[^M_F_c39641fc-3b92-47c9-d6a6-08442b792688];
+- “**cash price**” in relation to any goods, services, land or other things means the price or charge at which the goods, services, land or other things may be purchased by, or supplied to, the debtor for cash;
+- “**contract of shortfall insurance**” means anything in writing which contains or purports to contain some promise or assurance (however worded or presented) that if a sum payable under a contract of insurance against loss of or damage to goods is less than the amount necessary to defray—
+  - (a) any amount of credit provided to finance the purchase of those goods, and
+  - (b) any other amount included in the total charge for that credit,
+
+  to the extent that these remain unpaid at the date of the loss or damage, a sum up to but not exceeding that shortfall will be paid;
+- “**credit intermediary**” has the same meaning as in section 61A[^key-6934fefbf2d8ef99350942f3bab312f2] of the Act;
+- “**distance contract**” means any regulated agreement made under an organised distance sales or service provision scheme run by or on behalf of the creditor who, in any such case, for the purpose of the agreement makes exclusive use of one or more means of distance communication up to and including the time at which the agreement is made. For this purpose, “**means of distance communication**” means any means which, without the simultaneous physical presence of the creditor or a person acting on behalf of the creditor, and of the debtor, may be used for the making of a regulated agreement between the parties to that agreement;
+- “**earlier agreement**” means an earlier consumer credit agreement for the provision of credit;
+- “**exempted agreement**” means an agreement of the description specified in the Schedule to the Consumer Credit (Notices of Cancellation Rights) (Exemptions) Regulations 1983 [^c20239741] in relation to which there are no charges forming part of the total charge for credit;
+- “**the Information Regulations 2010**” means the Consumer Credit (Disclosure of Information) Regulations 2010 [^c20239751];
+- “**lettering**” includes figures and symbols;
+- “**modified agreement**” means an earlier agreement as varied or supplemented by a modifying agreement, which is treated as—
+  - (a) revoking the earlier agreement, and
+  - (b) containing provisions reproducing the combined effect of the two agreements;
+- “**pawn agreement**” means a regulated consumer credit agreement under which the creditor takes an article in pawn;
+- “**pre-contract credit information**” means the information required to be disclosed by regulation 3(4) of the Information Regulations 2010;
+- “**total amount of credit**” means the credit limit or the total sums made available under a consumer credit agreement;
+- “**total amount payable**” means the sum of the total charge for credit and the total amount of credit payable under the consumer credit agreement as well as any advance payment;
+- “**total charge for credit**” means the total charge for credit determined in accordance with Schedule 4 and the total charge for credit rules[^key-37784692754c08b737cd64c76c047259];
+- “the total charge for credit rules” means rules made by the Financial Conduct Authority under article 60M of the Financial Services and Markets Act 2000 (Regulated Activities) Order 2001 for the purposes of Chapter 14A of Part 2 of that Order;[^key-b41fdccf2794d0095609e12bbd297952]
+
+(4) References in these Regulations to a contract of insurance shall be read with—
+
+- (a) section 22 of the Financial Services and Markets Act 2000 [^c20239771],
+- (b) any relevant order under that section, and
+- (c) Schedule 2 to that Act.
+
+(5) In these Regulations—
+
+- (a) a reference to a repayment is a reference to—
+  - (i) a repayment of the whole or any part of the credit,
+  - (ii) a payment of the whole or any part of the total charge for credit, or
+  - (iii) a combination of such repayments and payments.
+- (b) a reference to rate of interest is a reference to the interest rate expressed as a fixed or variable percentage applied on an annual basis to the amount of credit drawn down.
+
+(6)[^M_F_1fc68be6-14c4-42c6-e60c-05f41855a9ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 2. Agreements to which these regulations apply
+
+(1) These Regulations apply in respect of a regulated consumer credit agreement except as provided for in paragraphs (1A) to (5)[^M_F_28228cd5-653e-4906-c7ec-1befbf25a1b2].
+
+(1A)[^M_F_8c0e7134-6964-456c-9f14-a9490ca1ff0c] These Regulations apply to an agreement to which section 58 of the Act applies where—
+
+- (a) before the creditor gives the debtor the unexecuted agreement for his signature the creditor gives the debtor a copy of the unexecuted agreement in compliance or purported compliance with regulations 3 and 7 of, and Schedules 1 and 2 to, these Regulations, and
+- (b) the copy of the unexecuted agreement contains a heading and notice as set out in regulation 4(a)(ii) and (b)(ii) respectively of the Consumer Credit (Cancellation Notices and Copies of Documents) Regulations 1983.
+
+(2) These Regulations do not apply to an agreement mentioned in paragraph (3) unless pre-contract credit information has been disclosed in compliance (or in purported compliance) with the Information Regulations 2010.
+
+(3) The agreements referred to in paragraph (2) are—
+
+- (a) an agreement secured on land other than an agreement to which section 58 applies[^M_F_d6ebddbd-5dae-423a-f2fc-0414825eaa01];
+- (b) an agreement under which the creditor provides the debtor with credit which exceeds £60,260 other than a residential renovation agreement[^key-cf974a5469b20c87c11eff01230a0b7a];
+- (c) an agreement entered into by the debtor wholly or predominantly for the purposes of a business carried on, or intended to be carried on, by him.
+
+(4) Paragraph (2) and regulations 3 to 4 and 6 to 7 do not apply to an authorised non-business overdraft agreement or an authorised business overdraft agreement.
+
+(5) Regulation 5 does not apply to a regulated consumer credit agreement which is also a distance contract unless the agreement is entered into by the debtor wholly or predominantly for the purposes of a business carried on, or intended to be carried on, by him.
+
+(6)[^key-1ff60ea00b2455aae89f574444f572a8] Article 60C(5) and (6) of the Financial Services and Markets Act 2000 (Regulated Activities) Order 2001 applies for the purposes of paragraphs (3)(c) and (5).
+
+## 3. Form and content of regulated consumer credit agreements
+
+(1) Documents embodying a regulated consumer credit agreement shall contain the information set out in column 2 of Schedule 1 to these Regulations in so far as that information relates to the type of agreement referred to in column 1.
+
+(2) The information specified in Schedule 1 shall be presented in a clear and concise manner.
+
+(3) For the purposes of this regulation, the requirement for the information to be “**clear**” includes a requirement that the wording, apart from any signature, is to be easily legible and of a colour which is readily distinguishable from the background medium upon which the information is displayed.
+
+(4) Documents embodying a regulated consumer credit agreement, other than an exempted agreement, shall contain statements of the protection and remedies available to debtors under the Act, in the Form numbered in column 1 of Schedule 2 to these Regulations and set out in column 3, in so far as those statements relate to the type of agreement referred to in column 2.
+
+(5) Documents embodying a regulated consumer credit agreement shall contain details of any security provided in relation to the regulated agreement by the debtor.
+
+(6) Paragraph (7) applies to documents embodying a debtor-creditor-supplier agreement falling within section 12(a) of the Act or a debtor-creditor agreement (in this paragraph and paragraph (7) referred to as “**the principal agreement**”) and also embodying, or containing the option of, a debtor-creditor-supplier agreement falling within section 12(b) of the Act (in this paragraph referred to as “**the subsidiary agreement**”) where the subsidiary agreement is to finance a premium under one or more of—
+
+- (a) a contract of insurance to provide a sum payable in the event of the death of a debtor or a debtor suffering one or more of the following—
+  - (i) accident;
+  - (ii) sickness;
+  - (iii) unemployment,
+
+  at any time before the credit under the principal agreement and the subsidiary agreement has been repaid, where
+
+  - (i) the sum payable does not exceed the amount sufficient to defray the sums payable to the creditor in respect of that credit and of the total charge for credit, and
+  - (ii) the policy monies payable under the contract of insurance are to be used for a repayment under the principal agreement and the subsidiary agreement;
+- (b) a contract of shortfall insurance;
+- (c) a contract of insurance in so far as it relates to the guarantee of goods.
+
+(7) Documents to which this regulation applies may contain instead of the headings specified in paragraph 1 of Schedule 1 to these Regulations and any applicable statements of protection and remedies available to debtors under the Act that would otherwise apply—
+
+- (a) a heading in so far as it relates to the principal agreement, and
+- (b) if applicable, statements of the protection and remedies available to debtors under the Act in so far as they relate to the principal agreement.
+
+## 4. Signing of agreement
+
+(1) The information specified in paragraphs 5, 6, 7, 11 and 14 of Schedule 1 to these Regulations in relation to the type of regulated consumer credit agreement referred to in column 1 shall be “**the prescribed terms**” for the purposes of section 61(1)(a) of the Act (the terms which must be contained in a document if a regulated consumer credit agreement is not to be improperly executed).
+
+(2) The document containing the prescribed terms of the regulated consumer credit agreement referred to in paragraph (1) shall contain a space indicated for the purpose of the debtor's signature.
+
+(3) The signature of the document shall be made in the following manner—
+
+- (a) by the debtor, or by or on behalf of the debtor in the case of a partnership or an unincorporated body of persons, in the space in the document indicated for the purpose and, subject to sub-paragraph (c), the date of the signature shall be inserted in the space in the document indicated for the purpose,
+- (b) by the creditor, or by a person on behalf of the creditor, and subject to sub-paragraph (c), the date of the signature shall be inserted in the document,
+- (c) except where the agreement is cancellable, the date on which the unexecuted agreement becomes an executed agreement may be inserted in the document and in such a case any other date specified in paragraphs (a) and (b) need not be inserted, and
+- (d) nothing in this regulation shall prohibit the inclusion in the said document, near to any such signature, of the signature by any witness.
+
+(4) In Scotland any provision in paragraph (3) requiring the said document to be signed shall be complied with by a body corporate if the document is properly executed in accordance with the law of Scotland.
+
+(5) Where an agreement is intended to be concluded by the use of electronic communication nothing in this regulation shall prohibit the inclusion in the document of information about the process or means of providing, communicating or verifying the signature to be made by the debtor.
+
+## 5. Modifying agreements
+
+(1) These Regulations shall apply to a modifying agreement which varies or supplements an earlier agreement and which is, or is treated under section 82(3) of the Act as, a regulated agreement.
+
+(2) Where an item of information required by regulation 3(1) or 8(1) is unchanged by the modifying agreement, the requirements of regulation 3(1) or 8(1) may be satisfied in relation to such item of information by a statement in the modifying agreement clearly indicating that the information in the earlier agreement remains unchanged.
+
+(3) Except as provided for in paragraph (3A)[^M_F_6e8ebe2b-9843-46e7-f9b0-4c730b9b5798] a statement referred to in paragraph (2) shall be contained in the document which is signed by the debtor.
+
+(3A)[^M_F_e87451a6-48d8-4fb6-cf0a-ac27ee96f09a] Where a modifying agreement is an authorised business overdraft agreement or an authorised non-business overdraft agreement the document referred to in paragraph (3) does not have to be signed by the debtor.
+
+(4) The information referred to in regulation 4(1) as prescribed terms for the purposes of section 61(1)(a) of the Act shall not be prescribed for the purposes of a modifying agreement if the information contained in the earlier agreement has not been varied or supplemented by the modifying agreement.
+
+(5) For the purposes of Schedule 1 to these Regulations, in calculating—
+
+- (a) the amount of repayments of credit or of any capital outstanding under an earlier agreement,
+- (b) the total charge for credit (or any items included in it) in relation to the credit to be provided under the modified agreement, or
+- (c) the APR in relation to the modified agreement,
+
+the relevant date shall be determined by reference to the date of the modifying agreement.
+
+## 6. Pawn agreements
+
+Where a pawn-receipt is given under section 114(1) of the Act by a person who takes any article in pawn under a regulated consumer credit agreement (or a modifying agreement varying or supplementing an earlier credit agreement which is, or is treated under section 82(3) of the Act as, a regulated consumer credit agreement) and where the pawn-receipt is not separate from any document embodying such an agreement, it shall contain—
+
+- (a) the information set out in paragraphs 1, 2 and 22 of Schedule 1 to these Regulations, and
+- (b) a notice in the form contained in Schedule 3 to these Regulations.
+
+## 7. Statutory Forms
+
+(1) The wording of any Form specified in Schedules 2 and 3 to these Regulations shall be reproduced in documents embodying regulated consumer credit agreements where applicable without any alteration, except that—
+
+- (a) the words “the creditor” may be replaced by the name of the creditor, by the expression by which the creditor is referred to in the agreement or by an appropriate pronoun, and any consequential changes to pronouns and verbs or other consequential grammatical changes may be made,
+- (b) the word “DEBTOR” may be replaced by “ BORROWER ” or “ CUSTOMER ” and the word “Debtor(s)” may be replaced by “ Borrower(s) ” or “ Customer(s) ”, and
+- (c) every Form shall be completed in accordance with any note.
+
+(2) Any such note shall not be treated as part of any Form specified in the said Schedules and may be reproduced in addition to any such Form.
+
+(3) Where any such note requires any words to be omitted, those words shall be omitted or deleted.
+
+(4) Where words are shown in capital letters in any Form specified in Schedule 2 or 3 to these Regulations, and are reproduced in documents embodying regulated consumer credit agreements, they shall be afforded more prominence (whether by capital letters, underlining, larger or bold print or otherwise) than any other lettering in that Form except lettering inserted in accordance with paragraph 1(c) and no less prominence than that given to any other information in the document apart from the heading to the document, trade names, names of parties to the agreement or lettering in the document inserted in handwriting.
+
+## 8. Form and content of an authorised overdraft agreement
+
+(1) Subject to paragraph (3), in the case of an authorised non-business overdraft agreement or an authorised business overdraft agreement, the following information shall be specified in writing in a clear and concise manner—
+
+- (a) the type of credit,
+- (b) the identities and geographical addresses of the creditor, debtor and, where relevant, of any credit intermediary involved,
+- (c) the duration of the agreement,
+- (d) the credit limit and the conditions governing its drawdown,
+- (e) the rate of interest charged, any conditions applicable to that rate, any reference rate on which that rate is based and any information on changes to the rate of interest (including the periods that the rate applies, and any conditions or procedure applicable to changing the rate),
+- (f) where different rates of interest are charged in different circumstances the creditor must provide the information in paragraph (e) in respect of each rate,
+- (g) the total charge for credit, calculated at the time the agreement is made, mentioning all the assumptions used in order to calculate it,
+- (h) an indication that the debtor may be requested to repay the amount of credit in full on demand at any time, and
+- (i) the charges payable by the debtor under the agreement (and the conditions under which those charges may be varied).
+
+(2) For the purposes of paragraph (1), the requirement for the information to be “**clear**” includes a requirement that the wording is easily legible and of a colour which is readily distinguishable from the background medium upon which the information is displayed.
+
+(3) Paragraph (1)(g) shall not apply—
+
+- (a) in the case of an authorised business overdraft agreement, or
+- (b) in the case of an authorised non-business overdraft agreement that is also an agreement secured on land.
+
+Kevin Brennan
+
+Minister for Further Education, Skills, Apprenticeships and Consumer Affairs
+
+Department for Business Innovation & Skills
+
+## SCHEDULE 1 — INFORMATION TO BE INCLUDED IN REGULATED CONSUMER CREDIT AGREEMENTS
+
+Regulation 3
+
+<table>
+<tbody>
+<tr><th><em>Paragraph</em></th><th><em>Type of agreement</em><em>(1)</em></th><th><em>Information</em><em>(2)</em></th></tr>
+<tr><td></td><td><em>Nature of the agreement</em></td><td></td></tr>
+<tr><td>1.</td><td>All types.</td><td>  (1) Subject to paragraph (2) below, a heading in one of the following forms of words—<br>a) “Hire Purchase Agreement regulated by the Consumer Credit Act 1974”<br>b) “Conditional Sale Agreement regulated by the Consumer Credit Act 1974<br>c) “Fixed Sum Loan Agreement regulated by the Consumer Credit Act 1974”<br>d) “Credit Card Agreement regulated by the Consumer Credit Act 1974”<br>e) “Agreement modifying a Credit Agreement regulated by the Consumer Credit Act 1974.”<br>as the case may require.<br>  (2) If none of the headings in (1)(a) to (e) above are applicable—<br>a) a heading in the following form of words – “Credit Agreement regulated by the Consumer Credit Act 1974” and<br>b) a description of the type of credit.<br>  (3) Where the document and a pawn-receipt are combined, the words “and Pawn-Receipt” shall be inserted in the heading after the word “Agreement”.<br>  (4) Where the document embodies an agreement of which at least one part is a consumer credit agreement not regulated by the Act, the word “ partly ” shall be inserted before “regulated” unless the regulated and unregulated parts of the agreement are clearly separate.<br>  (5) Where the credit is secured on land the words “and secured on” followed by the address of the land shall be inserted at the end of the heading.</td></tr>
+<tr><td></td><td><em>Parties to the agreement</em></td><td></td></tr>
+<tr><td>2.</td><td>All types.</td><td>The identity and geographical address of the creditor, debtor and, where relevant, the identity and geographical address of any credit intermediary involved.</td></tr>
+<tr><td></td><td><em>Duration of the agreement</em></td><td></td></tr>
+<tr><td>3.</td><td>Agreement of fixed duration.</td><td>The duration of the agreement.</td></tr>
+<tr><td>4.</td><td>Open end agreements.</td><td>A statement indicating that the agreement has no fixed duration. The statement shall include details of the minimum duration of the agreement where such a period is provided for under the agreement.</td></tr>
+<tr><td></td><td><em>Amount of credit</em></td><td></td></tr>
+<tr><td>5.</td><td>Agreements falling within paragraph 9 except agreements under which both—<br>a) the total amount payable by the debtor is not greater than the total cash price referred to in paragraph 10; and<br>b) there is no advance payment.</td><td>The amount of the credit to be provided under the agreement, namely the difference between the total cash price to be referred to in paragraph 10 and the total of any advance payments.</td></tr>
+<tr><td>6.</td><td>Agreements for fixed-sum credit not falling within paragraph 9.</td><td>The amount of the credit to be provided under the agreement.</td></tr>
+<tr><td></td><td><em>Credit limit</em></td><td></td></tr>
+<tr><td>7.</td><td>Agreements for running-account credit.</td><td>The credit limit expressed as—<br>a) a sum of money,<br>b) a statement that the credit limit will be determined by the creditor from time to time under the agreement and that notice of it will be given by the creditor to the debtor,<br>c) a sum of money together with a statement that the creditor may vary the credit limit to such sum as the creditor may from time to time determine under the agreement and that notice of it will be given by the creditor to the debtor, or<br>d) in a case not falling within head (a), (b) or (c), either a statement indicating the manner in which the credit limit will be determined and that notice of it will be given by the creditor to the debtor, or a statement indicating that there is no credit limit.</td></tr>
+<tr><td>8.</td><td>How and when credit will be provided.<br>All types.</td><td>A statement indicating how and when the credit to be advanced under the agreement is to be drawn down.</td></tr>
+<tr><td></td><td><em>Description of goods, services, land etc</em></td><td></td></tr>
+<tr><td>9.</td><td>Restricted use debtor-creditor-supplier agreements for fixed-sum credit to finance a transaction comprising the acquisition of goods, services, land or other things specified in the agreement or identified and agreed on at the time the agreement is made</td><td>A list or other description of the goods, services or other things and, in the case of land, a general description of the land, the acquisition of which is to be financed by credit under the agreement.</td></tr>
+<tr><td></td><td><em>Cash price</em></td><td></td></tr>
+<tr><td>10.</td><td>Agreements falling within paragraph 9.</td><td>The cash price in relation to each item referred to in paragraph 9 and, where applicable, the total cash price.</td></tr>
+<tr><td></td><td><em>Rate of interest</em></td><td></td></tr>
+<tr><td rowspan="3">11.</td><td rowspan="3">All types.</td><td>The rate(s) of interest and, where available, any reference rate on which that rate is based.</td></tr>
+<tr><td>The following additional information shall be given in relation to each rate that applies:</td></tr>
+<tr><td>(1) the conditions governing the application of the rate;<br><br>(2) the period during which the rate will apply;<br><br>(3) the conditions and procedure for changing the rate.<br></td></tr>
+<tr><td></td><td><em>Total amount payable</em></td><td></td></tr>
+<tr><td rowspan="2">12.</td><td rowspan="2">All types.</td><td>(1) The total amount payable by the debtor being the sum of the total amount of credit and the total charge for credit payable under the agreement as well as any advance payment.<br></td></tr>
+<tr><td>(2) In the case of running-account credit, where the credit limit is not known at the time the credit agreement is made, the total amount of credit referred to in paragraph (1) shall be assumed to be £1,200 or in a case where credit is to be provided subject to a maximum credit limit of less than £1,200, an amount equal to that maximum limit.<br></td></tr>
+<tr><td></td><td><em>APR</em></td><td></td></tr>
+<tr><td rowspan="2">13.</td><td rowspan="2">All Types.</td><td>The APR in relation to the agreement calculated at the time the credit agreement is made. All the assumptions used in order to calculate that rate shall be specified.</td></tr>
+<tr><td>Alternatively, where applicable, a statement indicating that the total amount payable under the agreement is not greater than the total cash price of the goods, services, land or other things the acquisition of which is to be financed by credit under the agreement.</td></tr>
+<tr><td></td><td><em>Repayments</em></td><td></td></tr>
+<tr><td>14.</td><td>All types.</td><td>The number (if applicable) and frequency of repayments to be made by the debtor.</td></tr>
+<tr><td></td><td><em>Allocation of payments</em></td><td></td></tr>
+<tr><td>14A.</td><td>All types where different rates of interest are or will be at any time during the term of the agreement payable in respect of—<br>a) credit provided under the agreement for different purposes, or<br>b) credit provided under each of the different parts of the agreement,<br>whether or not the agreement is a multiple agreement.</td><td>A statement of the order or proportions in which any amount paid by the debtor which is not sufficient to discharge the total debt then due under the agreement will be applied or appropriated by the creditor towards the discharge of the sums due—<br>a) in respect of the amounts of credit provided for different purposes, or<br>b) different parts of the agreement<br>as the case may be.</td></tr>
+<tr><td></td><td><em>Amounts of repayments</em></td><td></td></tr>
+<tr><td>15.</td><td>All types.</td><td>The amount of each repayment to be made under the agreement expressed as—<br>a) a sum of money;<br>b) a specified proportion of a specified amount (including the amount outstanding from time to time);<br>c) a combination of heads (a) and (b); or<br>d) in a case where the amount of any repayment cannot be expressed in accordance with head (a), (b) or (c), a statement indicating the manner in which the amount will be determined.</td></tr>
+<tr><td></td><td><em>Statement of account</em></td><td></td></tr>
+<tr><td>16.</td><td>Agreements of fixed duration where the debtor's repayments under the agreement result in an immediate reduction in the total amount of credit owed, other than—<br>a) agreements referred to in regulation 2(2), or<br>b) agreements where the total amount payable by the debtor does not exceed the total amount of credit.</td><td>The right to receive, on request, and free of charge, at any time throughout the duration of the agreement pursuant to section 77B of the Act, a statement in the form of a table showing—<br>a) the details of each instalment owing under the agreement;<br>b) the date on which each instalment is due, the amount and any conditions relating to the payment of the instalment;<br>c) a breakdown of each instalment showing how much comprises—<br>        i) capital repayment,<br>        ii) interest payment, and<br>        iii) if applicable, any other charges.<br>Where the interest rate is variable or the other charges may be varied the statement shall indicate clearly and concisely that the information contained in the statement is valid only until the rates of interest or charges are varied.</td></tr>
+<tr><td></td><td><em>Statement where no credit reduction</em></td><td></td></tr>
+<tr><td>17.</td><td>Agreements under which payments of interest and charges made by the debtor are not accompanied by a reduction in the total amount of credit owed under the agreement.</td><td>A statement indicating the periods and conditions for the payment of the interest and of any associated recurrent or non-recurrent charges.</td></tr>
+<tr><td>17A.</td><td>Agreements under which repayments made by the debtor do not give rise to an immediate corresponding reduction in the total amount of credit owed but are used to constitute capital during periods and under conditions laid down in the credit agreement or in an ancillary agreement.</td><td>A statement indicating that—<br>a) the debtor's regular repayments will not repay the capital advanced, and<br>b) at the termination of the agreement the debtor must repay the capital advanced unless the agreement provides a guarantee that any capital constituted by the debtor's repayments will repay the total amount of credit.</td></tr>
+<tr><td></td><td><em>Charges</em></td><td></td></tr>
+<tr><td>18.</td><td>All types where applicable.</td><td>(1) Where applicable, the charges for maintaining an account recording both payment transactions and draw downs, unless the opening of the account is optional.<br><br>(2) Any charge payable as a result of using a method of payment in respect of repayment transactions or drawdown.<br><br>(3) Any other charges deriving from the credit agreements (other than those referred to in paragraph 19(3)) and the conditions under which those charges may be changed.<br></td></tr>
+<tr><td></td><td><em>Interest for late payment</em></td><td></td></tr>
+<tr><td>19.</td><td>All types where applicable.</td><td>(1) The rate of interest which applies in the case of late payments applicable at the time of the making of the credit agreement,<br><br>(2) the arrangements for its adjustment and,<br><br>(3) where applicable, any charges payable for late payment.<br></td></tr>
+<tr><td></td><td><em>Missing payment warning</em></td><td></td></tr>
+<tr><td>20.</td><td>All types under which periodic repayments are to be made except pawn agreements.</td><td>A statement warning about the consequences of missing payments, including, for example, a reference to possible legal proceedings and the possibility that the debtor's home may be repossessed and the possibility of missing payments making it more difficult to obtain credit.</td></tr>
+<tr><td></td><td><em>Notarial fees</em></td><td></td></tr>
+<tr><td>21.</td><td>All types.</td><td>Where applicable, a statement that notarial fees will be payable.</td></tr>
+<tr><td></td><td><em>Security provided by the debtor</em></td><td></td></tr>
+<tr><td>22.</td><td>Pawn agreements, to which section 114 of the Act applies and where no separate pawn receipt is given.</td><td>A statement indicating that an article has been taken in pawn under the agreement and a description of the article sufficient to identify it.</td></tr>
+<tr><td>23.</td><td>All types except those referred to in paragraph 22 in relation to which any security or guarantee is to be provided by the debtor or on his behalf.</td><td>A description of the security or guarantee as applicable.</td></tr>
+<tr><td></td><td><em>Compulsory insurance</em></td><td></td></tr>
+<tr><td>24.</td><td>All types.</td><td>A description of any contract of insurance which the debtor is required to conclude under the terms of the agreement.</td></tr>
+<tr><td></td><td><em>Right of withdrawal</em></td><td></td></tr>
+<tr><td>25.</td><td>All types except where the agreement is-<br>a) an agreement secured on land,<br>b) restricted-use credit agreements to finance the purchase of land,<br>c) an agreement for a bridging loan in connection with the purchase of land,<br>d) for credit which exceeds £60,260 other than a residential renovation agreement, or<br>e) a cancellable agreement.</td><td>A statement providing details of the debtor's right under section 66A of the Act to withdraw from the regulated consumer credit agreement including—<br>  (1) the right to withdraw within 14 days without the debtor having to give any reason,<br>  (2) when that period of withdrawal begins and ends;<br>  (3) the requirement of the debtor to notify the creditor of his intention to withdraw, in writing or orally,<br>  (4) contact details of the person/creditor whom he must notify of his intention to withdraw from the agreement;<br>  (5) the requirement to repay the credit without delay and no later than 30 calendar days after giving notice of withdrawal,<br>  (6) the requirement to pay, without delay and no later than 30 calendar days after giving notice of withdrawal, the interest accrued from the date the credit was provided to the date of repaying it,<br>  (7) the amount of interest payable per day expressed as a sum of money, and<br>  (8) details of how and to whom he must pay the credit and interest.<br>Paragraph (7) does not apply in respect of agreements for running-account credit where it is not practicable for the creditor to state the amount of interest payable per day. In such cases, the agreement shall state that where credit is drawn down during the withdrawal period, the creditor shall inform the debtor, on request, without delay, of the amount of interest payable per day.</td></tr>
+<tr><td>25A.</td><td>Agreements referred to in paragraph 25 (a) to (e).</td><td>(1) A statement that there is no right of withdrawal under section 66A of the Act.<br><br>(2) An indication of any other right to cancel the credit agreement whether under the Act or otherwise, with details as appropriate.<br></td></tr>
+<tr><td></td><td><em>Linked credit agreements to which section 75A of the Act applies</em></td><td></td></tr>
+<tr><td>26.</td><td>Linked credit agreements except those—<br>a) falling within paragraph 27;<br>b) under which the credit provided exceeds £60,260.</td><td>A statement explaining—<br><br>(1) that the credit agreement finances the supply of specific goods or services,<br><br>(2) that if the goods or services are not supplied, or are supplied only in part, or do not conform with the contract, the debtor has the right to seek redress from the creditor, if he is unable to obtain redress from the supplier of the goods or services.<br></td></tr>
+<tr><td>27.</td><td>Agreements falling within section 12(b) or (c) of the Act to which section 75 of the Act applies.</td><td>A statement explaining that the debtor may have a right to sue the supplier, the creditor or both if he has received unsatisfactory goods or services paid for under the agreement costing more than £100 and not more than £30,000.</td></tr>
+<tr><td></td><td><em>Early repayment</em></td><td></td></tr>
+<tr><td>28.</td><td>All types.</td><td>A statement providing details of the debtor's right of early repayment under section 94 of the Act including—<br><br>(1) the fact that the debtor has a right to repay early in full or (except where the agreement is secured on land) in part,<br><br>(2) the procedure for early repayment, and<br><br>(3) where applicable, details of the creditor's right to compensation under section 95A <em>(Extent: E.W.S.)</em> <em>(affected by repeal, see note)</em>sections 95A and 95B <em>(Extent: E.W.S.)</em> of the Act and the manner in which that compensation shall be determined.<br></td></tr>
+<tr><td></td><td><em>Termination by debtor</em></td><td></td></tr>
+<tr><td>29.</td><td>Open-end agreements.</td><td>A statement explaining how and when the debtor can terminate the agreement.</td></tr>
+<tr><td>30.</td><td>Hire-purchase and conditional sale agreements.</td><td>A statement explaining—<br><br>(1) how and when the debtor can terminate the agreement under section 99 of the Act, and<br><br>(2) the debtor's maximum liability under section 100 of the Act.<br></td></tr>
+<tr><td></td><td><em>Ombudsman Scheme</em></td><td></td></tr>
+<tr><td>31.</td><td>All types.</td><td>A statement explaining that the debtor who is not a business debtor has the right to complain to the Financial Ombudsman Service. A debtor who is a business debtor may have a right to complain to the Financial Ombudsman Service.</td></tr>
+<tr><td></td><td><em>Contractual terms and conditions</em></td><td></td></tr>
+<tr><td>32.</td><td>All types.</td><td>Where applicable, the other contractual terms and conditions.</td></tr>
+<tr><td></td><td><em>Supervisory authority</em></td><td></td></tr>
+<tr><td>33.</td><td>All types.</td><td>A statement specifying that the Financial Conduct Authority, [geographical address] is the supervisory authority under the Act or, in a case where the supplier is carrying on an activity which is exempt from the general prohibition in section 19 of the Financial Services and Markets Act 2000 by virtue of section 327 of that Act, a statement specifying (i) that the activity of the supplier is so exempt and (ii) the relevant designated professional body (within the meaning of section 326 of that Act) as the supervisory authority under that Act, and (iii) the geographical address of the relevant designated professional body.</td></tr>
+</tbody>
+</table>
+
+[^M_F_8c4e66b4-725e-40b9-af39-3eab9f2e171c][^M_F_63add76c-0cd2-48fa-f1ba-cdfe1506f9a3][^M_F_f6fc47f6-426f-445b-a180-2d640d1cd7f1][^M_F_746f7e9e-059c-45c4-bd38-789c6175a517][^M_F_77442073-85d3-4f82-c803-2f2a20939c2c][^M_F_dc21fb74-4e45-49dd-f9f5-f8decc5418d0][^M_F_9f0e9e66-7aa4-452a-e681-6c98db6d180c]
+
+## SCHEDULE 2 — FORMS OF STATEMENT OF PROTECTION AND REMEDIES AVAILABLE UNDER THE CONSUMER CREDIT ACT 1974 TO DEBTORS UNDER REGULATED CONSUMER CREDIT AGREEMENTS
+
+Regulations 3(4) and 7
+
+| *FORM (1)* | *TYPE OF AGREEMENT (2)* | *FORM OF STATEMENT (3)* |
+| --- | --- | --- |
+| 1\. | Agreement to which section 58(1) of the Act applies. | YOUR RIGHTS<br>Under the Consumer Credit Act 1974, you should have been given a copy of this agreement at least seven days ago so you could consider whether you wanted to go ahead. If the creditor did not give you a copy of this agreement he can only enforce it with a court order. |
+| 2\. | All agreements which are secured on land. | YOUR HOME MAY BE REPOSSESSED. Your home may be repossessed if you do not keep up repayments on a mortgage or other debt secured on it. |
+| 3\. | Cancellable agreements to which section 68(b) of the Act applies. | YOUR RIGHT TO CANCEL<br>You can cancel this agreement within FOURTEEN days (starting the day after you signed it) by giving WRITTEN notice to\*.<br>If you intend to cancel you should not use any goods you have under the agreement and you should keep them safe. You can wait for them to be collected and you do not need to hand them over until you receive a written request for them.<br>\*Creditor or agent to insert the name and address of the person to whom the notice may be given or an indication of the person to whom a notice may be given with clear reference to the place in the document embodying the agreement where his name and address appear. |
+| 4\. | Cancellable agreements not included in paragraphs 3 or 5. | YOUR RIGHT TO CANCEL<br>Once you have signed this agreement you will have a short time in which you can cancel \[it\]\* \[that part of this agreement which is regulated by the Consumer Credit Act 1974\]\*. The creditor will send you exact details of how and when you can do this.<br>\*Creditor to omit passage in square brackets which does not apply to the agreement. |
+| 5\. | Modifying agreement treated under section 82(5) of the Act as cancellable arrangements. | YOUR RIGHT TO CANCEL<br>This agreement modifies an earlier agreement. Once you have signed this agreement your right to cancel \[that part of\]\* the earlier agreement \[which was regulated by the Consumer Credit Act 1974\]\* will be widened to cover the \[regulated\]\* agreement as modified. The cancellation period itself will be unchanged. Details of how to cancel are given in your copy of this agreement.<br>\*Creditor to omit passages in square brackets except in the case of an agreement of which at least one part is credit agreement not regulated by the Act. |
+| 6\. | Pawn agreements to which section 114 of the Act applies. | IMPORTANT – READ THIS CAREFULLY TO FIND OUT ABOUT YOUR RIGHTS<br>The Consumer Credit Act 1974 (“**the Act**”) lays down certain requirements for your protection which should have been complied with when this agreement was made. If they were not, the creditor cannot enforce this agreement without getting a court order.<br>The Act also gives you a number of rights. In particular, you should read the NOTICE TO DEBTOR \[in this agreement\]\* \[in your pawn-receipt\].\*\*<br>If you would like to know more about your rights under the Act, contact Consumer Direct, your local Trading Standards Department or your nearest Citizens' Advice Bureau.<br>\*Phrase in square brackets to be included by creditor in agreements where any document embodying the agreement is not separate from the pawn-receipt. Creditor to omit “in your pawn-receipt”.<br>\*\*Phrase in square brackets to be included by creditor in agreements where a separate pawn-receipt is given to the debtor. Creditor to omit “in this agreement”. |
+| 7\. | Conditional sale agreements secured on land. | TERMINATION: YOUR RIGHTS<br>Until the title to the land has passed to you, you have a right to end this agreement. To do so write to the person you make your payments to. They will then be entitled to the return of the land and to \[half the total amount payable under this agreement, that is\]\* £x. \*\* If, at the time you end this agreement, you have already paid at least this amount plus any overdue instalments and you have taken reasonable care of the land, you will not have to pay any more.<br>\*Creditor to insert the passage in square brackets where the amount calculated in accordance with the provisions of section 100 of the Act applies. If the agreement provides for a sum below the minimum prescribed in the Act, the passage in square brackets is to be omitted<br>\*\*Creditor to insert the amount calculated in accordance with the provisions of section 100 of the Act or such lesser sum as the agreement may provide. |
+| 8\. | Agreements modifying conditional sale agreements relating to land. | TERMINATION: YOUR RIGHTS<br>Until the title to the land has passed to you, you have a right to end this agreement. To do so write to the person you make your payments to. They will then be entitled to the return of the land and to \[half the total amount payable under this agreement, that is\]\* \[£\[—\*\*\] If at the time you end this agreement, you have already paid at least this amount plus any overdue instalments and you have taken reasonable care of the land, you will not have to pay any more.<br>\*Creditor to insert the passage in square brackets where the amount calculated in accordance with the provisions of section 100 of the Act applies. If the agreement provides for a sum below the minimum prescribed in the Act, the passage in square brackets is to be omitted.<br>\*\* Creditor to insert the amount calculated in accordance with the provisions of section 100 of the Act or such lesser sum as the agreement may provide. |
+| 9\. | Hire purchase and conditional sale agreements relating to goods, not included in paragraph 10. | TERMINATION: YOUR RIGHTS<br>You have a right to end this agreement. To do so, you should write to the person you make your payments to. They will then be entitled to the return of the goods and to \[the cost of installing the goods plus half the rest of the total amount payable under this agreement, that is\]\[half the total amount payable under this agreement, that is\]\*£x\*\*. If you have already paid at least this amount plus any overdue instalments and have taken reasonable care of the goods, you will not have to pay any more.<br>\*Creditor to insert the appropriate passage in square brackets where the amount calculated in accordance with the provisions of section 100 of the Act apply. If the agreement provides for a sum below the minimum prescribed in the Act, both passages in square brackets are to be omitted.<br>\*\*Creditor to insert the amount calculated in accordance with the provisions of section 100 of the Act or such lesser sum as the agreement may provide. |
+| 10\. | Agreements modifying hire-purchase and conditional sale agreements relating to goods. | TERMINATION: YOUR RIGHTS<br>You have the right to end this agreement. To do so, write to the person you make your payments to. They will then be entitled to the return of the goods and to \[the cost of installing the goods plus half the total amount yet to be paid under the earlier agreement as modified by this agreement, that is\]\[half the total amount payable under the earlier agreement as modified by this agreement, that is\]\*£x\*\*. If you have already paid at least this amount, plus any overdue instalments and have taken reasonable care of the goods, you will not have to pay any more.<br>\*Creditor to insert the appropriate passage in square brackets where the amount calculated in accordance with the provisions of section 100 of the Act applies. If the modified agreement provides for a sum below the minimum prescribed in the Act, both passages in square brackets are to be omitted.<br>\*\*Creditor to insert the amount calculated in accordance with the provisions of section 100 of the Act or such lesser sum as the agreement may provide. |
+| 11\. | Hire-purchase and conditional sale agreements relating to goods, not included in paragraph 12. | REPOSSESSION: YOUR RIGHTS<br>If you do not keep your side of the agreement but you have paid at least \[the cost of installing the goods plus one third of the rest of the total amount payable under this agreement, that is\]\[one third of the total amount payable under this agreement, that is\] **\***£x \*\*the creditor may not take back the goods against your wishes unless he gets a court order. (In Scotland he may need to get a court order at any time). If he does take the goods without your consent or a court order, you have the right to get back any money that you have paid under this agreement.<br>\*Creditor to insert the appropriate passage in square brackets.<br>\*\*Creditor to insert the amount calculated in accordance with the provision of section 90 of the Act. |
+| 12\. | Agreements modifying hire-purchase and conditional sale agreements relating to goods. | REPOSSESSION: YOUR RIGHTS<br>If you do not keep your side of this agreement \[but you have paid at least £x\*\]\*\* the creditor may not take back the goods against your wishes unless he gets a court order. (In Scotland he may need to get a court order at any time). If he does take the goods back without your consent or a court order, you have the right to get back all the money you have paid under this agreement.<br>\*Creditor to insert the amount calculated in accordance with the provisions of section 90 of the Act.<br>\*\* Creditor to omit both passages in square brackets in the case of a modifying agreement where the goods are protected at the time the modifying agreement is made. |
+
+## SCHEDULE 3 — NOTICE TO BE CONTAINED IN DOCUMENTS EMBODYING A COMBINED CONSUMER CREDIT AGREEMENT AND PAWN-RECEIPT
+
+Regulation 6
+
+**NOTICE TO DEBTOR**
+
+IMPORTANT – YOU SHOULD READ THIS CAREFULLY
+
+Right to Redeem Articles
+
+If you hand in this agreement (which is also your pawn receipt) and pay the amount you owe, you may redeem the article(s) in pawn at any time within 6 months of the date of this agreement or any longer time agreed with the creditor (“the redemption period”).
+
+**IF YOU DO NOT REDEEM THE ARTICLE(S) ON OR BEFORE<sup>(1)</sup>** **YOU MAY LOSE YOUR RIGHT TO REDEEM IT (THEM).**
+
+Loss of Receipt
+
+If you lose your receipt you may provide either a statutory declaration or, if the credit (or credit limit) is not more than £x <sup>(2)</sup> and the creditor agrees, a signed statement instead. The creditor may provide the form to be used and may charge for doing so.
+
+Unredeemed Articles
+
+An article not redeemed within the redemption period becomes the creditor's property if the credit (or credit limit) is not more than £x <sup>(3)</sup> and the redemption period is 6 months. In any other case it may be sold by the creditor, but it continues to be redeemable until it is sold. Interest is payable until the actual date of redemption. Where the credit (or credit limit) is more than £x <sup>(4)</sup> the creditor must give you 14 days notice of his intention to sell. When an article has been sold you will receive information about the sale. If the proceeds (less expenses) are more that the amount that would have been payable to redeem the article on the date of the sale you will be entitled to receive the extra amount. If the proceeds are less than the amount you will owe the creditor the shortfall.
+
+Your goods will not be insured by the creditor while they are in pawn.<sup>(5)</sup>
+
+<sup>(1)</sup> Creditor to insert the date at the end of the redemption period.
+
+<sup>(2)</sup> Creditor to insert the amount specified in section 118(1)(b) of the Act.
+
+<sup>(3)</sup> Creditor to insert the amount specified in section 120(1)(a) of the Act.
+
+<sup>(4)</sup> Creditor to insert the amount specified in the Consumer Credit (Realisation of Pawn) Regulations 1983 (S.I. 1983/1568).
+
+<sup>(5)</sup> Creditor to omit this paragraph if inapplicable.
+
+## SCHEDULE 4 — PROVISIONS RELATING TO CALCULATION AND DISCLOSURE OF THE TOTAL CHARGE FOR CREDIT AND APR
+
+Regulation 1(2)
+
+**1. Assumptions about running-account credit**
+
+- (a) In the case of an agreement for running-account credit, the assumption in paragraph (b) below shall have effect for the purpose of calculating the total charge for credit and any APR in place of the assumption in the total charge for credit rules[^M_F_2a0192ff-672c-4f31-dbea-36c77235daae] that might otherwise apply.
+- (b) In a case where credit is to be provided subject to a maximum credit limit of less than £1,200, the credit limit shall be assumed to be an amount equal to that maximum limit.
+
+**2. Permissible tolerances in disclosure of an APR**
+
+For the purposes of these Regulations, it shall be sufficient compliance with the requirement to show an APR if there is included in the consumer credit agreement—
+
+- (a) a rate which exceeds the APR by not more than one, or
+- (b) a rate which falls short of the APR by not more than 0.1, or
+- (c) in a case to which either of paragraphs 3 or 4 of this Schedule applies, a rate determined in accordance with those paragraphs or whichever of them applies to that case.
+
+**3. Tolerance where repayments are nearly equal**
+
+In the case of an agreement under which all repayments of credit but one are equal and that one repayment does not differ from any other repayment by more whole pence than there are repayments of credit, there may be included in a consumer credit agreement a rate found under the total charge for credit rules[^M_F_72edbca2-1d0a-4edd-a727-334c5217c9df] as if that one repayment were equal to the other repayments to be made under the agreement.
+
+**4. Tolerance where interval between relevant date and first repayment is greater than interval between repayments**
+
+- (a) In the case of a consumer credit agreement under which—
+  - (i) three or more repayments are to be made at equal intervals, and
+  - (ii) the interval between the relevant date and the first repayment is greater than the interval between the repayments,
+
+  there may be included in the agreement a rate found under the total charge for credit rules as if the interval between the relevant date and the first repayment were shortened so as to be equal to the interval between repayments.
+- (b) In this paragraph “**relevant date**” means—
+  - (i) in a case where a date is specified in or determinable under the consumer credit agreement at the date of its making as that on which the debtor is entitled to require provision of anything the subject of the agreement, the earliest such date, and
+  - (ii) in any other case, the date of the making of the agreement.
+
+*(This note is not part of the Regulations)*
+
+These Regulations implement article 10 of Directive [2008/48/EC](https://www.legislation.gov.uk/european/directive/2008/0048) of the European Parliament and of the Council on credit agreements for consumers (OJ No. L133, 22.5.2008, p.66) (“**the Directive**”) and impose requirements about what information has to be included in a regulated consumer credit agreement.
+
+Regulation 2 sets out the scope of application of the Regulations. It provides that the Regulations may apply to agreements outside the scope of the Directive but which are regulated under the Consumer Credit Act 1974. In addition they apply to agreements secured on land, agreements under which the creditor provides the debtor with credit exceeding £60,260 or agreements entered into by the debtor wholly or predominantly for the purpose of his business, where the creditor in relation to such agreements has disclosed or purported to disclose the pre-contract credit information in accordance with the Consumer Credit (Disclosure of Information) Regulations 2010 (2010/1013).
+
+Regulation 3 sets out the requirements relating to the form and content of documents embodying a regulated consumer credit agreement referred to in Schedule 1.
+
+Regulation 4 sets out the requirements relating to the signing of the agreement.
+
+Regulation 5 makes provision for the application of the Regulations to modifying agreements. This regulation does not apply to modifying agreements which are distance contracts except in limited circumstances.
+
+Regulation 6 makes provision for information requirements in certain pawn agreements.
+
+Regulation 7 sets out the provisions relating to statutory Forms specified in Schedules 2 and 3.
+
+Regulation 8 sets out the provisions relating to the form and content of authorised overdraft agreements.
+
+A transposition note and an impact assessment of the effect this instrument will have on the costs to business and the voluntary sector is available from the BIS website (www.bis.gov.uk). They are also annexed to the Explanatory Memorandum which is available alongside the instrument on the OPSI website (www.opsi.gov.uk). Copies have also been placed in the Libraries of both Houses of Parliament.
+
+## Annotations
+
+[^c20239721]: Marginal citation: [1974 c. 39](https://www.legislation.gov.uk/ukpga/1974/39).
+
+[^key-f6ca9c409a23281042c2f773b9b6799a]: Modification: Regulations modified (temp.) (14.2.2014 to 14.7.2014) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2014 (S.I. 2014/366)](https://www.legislation.gov.uk/uksi/2014/366), [art. 17](https://www.legislation.gov.uk/uksi/2014/366/article/17)
+
+[^key-ecea379459f0ec952c112d75d9919c88]: Modification: Regulations: power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/section/3/schedule/1/part/2); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
+
+[^M_F_21af82b2-7f26-46da-f9f4-684b8d7c07fe]: Textual amendment: Words in reg. 1(2) inserted (26.8.2010) by [The Consumer Credit (Amendment) Regulations 2010 (S.I. 2010/1969)](https://www.legislation.gov.uk/uksi/2010/1969), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1969/regulation/1), [42(a)](https://www.legislation.gov.uk/uksi/2010/1969/regulation/42/a)
+
+[^c20239731]: Marginal citation: [S.I. 2010/1010](https://www.legislation.gov.uk/uksi/2010/1010).
+
+[^M_F_b7ba2bb7-64a0-43e1-c19e-e59ad6e08a12]: Textual amendment: Reg. 1(2A)(2B) inserted (26.8.2010) by [The Consumer Credit (Amendment) Regulations 2010 (S.I. 2010/1969)](https://www.legislation.gov.uk/uksi/2010/1969), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1969/regulation/1), [42(b)](https://www.legislation.gov.uk/uksi/2010/1969/regulation/42/b)
+
+[^M_F_c39641fc-3b92-47c9-d6a6-08442b792688]: Textual amendment: Words in Regulations substituted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [art. 27(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/27/2)
+
+[^key-6934fefbf2d8ef99350942f3bab312f2]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/uksi/2010/1014/regulation/1/3) substituted (26.7.2013 for specified purposes) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [art. 1(2)(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2/6), [27(3)(a)](https://www.legislation.gov.uk/uksi/2013/1881/article/27/3/a)
+
+[^c20239741]: Marginal citation: [S.I. 1983/1557](https://www.legislation.gov.uk/uksi/1983/1557) as amended by [S.I. 2004/3236](https://www.legislation.gov.uk/uksi/2004/3236).
+
+[^c20239751]: Marginal citation: [S.I. 2010/1013](https://www.legislation.gov.uk/uksi/2010/1013).
+
+[^key-37784692754c08b737cd64c76c047259]: Textual amendment: Words in Regulations substituted (26.7.2013 for specified purposes) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [art. 27(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/27/2)
+
+[^key-b41fdccf2794d0095609e12bbd297952]: Textual amendment: Words in reg. 1(3) substituted (26.7.2013 for specified purposes) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [27(3)(b)](https://www.legislation.gov.uk/uksi/2013/1881/article/27/3/b)
+
+[^c20239771]: Marginal citation: [2000 c.8](https://www.legislation.gov.uk/ukpga/2000/8).
+
+[^M_F_1fc68be6-14c4-42c6-e60c-05f41855a9ca]: Textual amendment: Reg. 1(6) omitted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by virtue of [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [27(3)(c)](https://www.legislation.gov.uk/uksi/2013/1881/article/27/3/c)
+
+[^M_F_28228cd5-653e-4906-c7ec-1befbf25a1b2]: Textual amendment: Words in reg. 2(1) substituted (26.8.2010) by [The Consumer Credit (Amendment) Regulations 2010 (S.I. 2010/1969)](https://www.legislation.gov.uk/uksi/2010/1969), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1969/regulation/1), [43(a)](https://www.legislation.gov.uk/uksi/2010/1969/regulation/43/a)
+
+[^M_F_8c0e7134-6964-456c-9f14-a9490ca1ff0c]: Textual amendment: Reg. 2(1A) inserted (26.8.2010) by [The Consumer Credit (Amendment) Regulations 2010 (S.I. 2010/1969)](https://www.legislation.gov.uk/uksi/2010/1969), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1969/regulation/1), [43(b)](https://www.legislation.gov.uk/uksi/2010/1969/regulation/43/b)
+
+[^M_F_d6ebddbd-5dae-423a-f2fc-0414825eaa01]: Textual amendment: Words in reg. 2(3)(a) inserted (26.8.2010) by [The Consumer Credit (Amendment) Regulations 2010 (S.I. 2010/1969)](https://www.legislation.gov.uk/uksi/2010/1969), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1969/regulation/1), [43(c)](https://www.legislation.gov.uk/uksi/2010/1969/regulation/43/c)
+
+[^key-cf974a5469b20c87c11eff01230a0b7a]: Textual amendment: Words in [reg. 2(3)(b)](https://www.legislation.gov.uk/uksi/2010/1014/regulation/2/3/b) inserted (20.4.2015 for specified purposes, 21.12.2015 for specified purposes, 21.3.2016 in so far as not already in force) by [The Mortgage Credit Directive Order 2015 (S.I. 2015/910)](https://www.legislation.gov.uk/uksi/2015/910), [art. 1(5)](https://www.legislation.gov.uk/uksi/2015/910/article/1/5), [Sch. 1 para. 14(2)](https://www.legislation.gov.uk/uksi/2015/910/schedule/1/paragraph/14/2) (with [Pt. 4](https://www.legislation.gov.uk/uksi/2015/910/part/4))
+
+[^key-1ff60ea00b2455aae89f574444f572a8]: Textual amendment: [Reg. 2(6)](https://www.legislation.gov.uk/uksi/2010/1014/regulation/2/6) substituted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [art. 1(2)(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2), [27(4)](https://www.legislation.gov.uk/uksi/2013/1881/article/27/4)
+
+[^M_F_6e8ebe2b-9843-46e7-f9b0-4c730b9b5798]: Textual amendment: Words in reg. 5(3) inserted (26.8.2010) by [The Consumer Credit (Amendment) Regulations 2010 (S.I. 2010/1969)](https://www.legislation.gov.uk/uksi/2010/1969), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1969/regulation/1), [44(a)](https://www.legislation.gov.uk/uksi/2010/1969/regulation/44/a)
+
+[^M_F_e87451a6-48d8-4fb6-cf0a-ac27ee96f09a]: Textual amendment: Reg. 5(3A) inserted (26.8.2010) by [The Consumer Credit (Amendment) Regulations 2010 (S.I. 2010/1969)](https://www.legislation.gov.uk/uksi/2010/1969), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1969/regulation/1), [44(b)](https://www.legislation.gov.uk/uksi/2010/1969/regulation/44/b)
+
+[^M_F_8c4e66b4-725e-40b9-af39-3eab9f2e171c]: Textual amendment: Word in Sch. 1 para. 14 substituted (26.8.2010) by [The Consumer Credit (Amendment) Regulations 2010 (S.I. 2010/1969)](https://www.legislation.gov.uk/uksi/2010/1969), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1969/regulation/1), [45(a)(i)](https://www.legislation.gov.uk/uksi/2010/1969/regulation/45/a/i)
+
+[^M_F_63add76c-0cd2-48fa-f1ba-cdfe1506f9a3]: Textual amendment: Words in Sch. 1 para. 14 substituted (26.8.2010) by [The Consumer Credit (Amendment) Regulations 2010 (S.I. 2010/1969)](https://www.legislation.gov.uk/uksi/2010/1969), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1969/regulation/1), [45(a)(ii)](https://www.legislation.gov.uk/uksi/2010/1969/regulation/45/a/ii)
+
+[^M_F_f6fc47f6-426f-445b-a180-2d640d1cd7f1]: Textual amendment: Words in Sch. 1 para. 25 inserted (20.4.2015 for specified purposes, 21.12.2015 for specified purposes, 21.3.2016 in so far as not already in force) by [The Mortgage Credit Directive Order 2015 (S.I. 2015/910)](https://www.legislation.gov.uk/uksi/2015/910), [art. 1(5)](https://www.legislation.gov.uk/uksi/2015/910/article/1/5), [Sch. 1 para. 14(3)](https://www.legislation.gov.uk/uksi/2015/910/schedule/1/paragraph/14) (with [Pt. 4](https://www.legislation.gov.uk/uksi/2015/910/part/4))
+
+[^M_F_746f7e9e-059c-45c4-bd38-789c6175a517]: Textual amendment: Words in Sch. 1 para. 26 substituted (26.8.2010) by [The Consumer Credit (Amendment) Regulations 2010 (S.I. 2010/1969)](https://www.legislation.gov.uk/uksi/2010/1969), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1969/regulation/1), [45(b)](https://www.legislation.gov.uk/uksi/2010/1969/regulation/45/b)
+
+[^M_F_77442073-85d3-4f82-c803-2f2a20939c2c]: Textual amendment: Words in Sch. 1 para. 28 substituted (E.W.S.) (28.1.2013) by [The Consumer Credit (Green Deal) Regulations 2012 (S.I. 2012/2798)](https://www.legislation.gov.uk/uksi/2012/2798), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2012/2798/regulation/1/b), [Sch. para 6](https://www.legislation.gov.uk/uksi/2012/2798/schedule/paragraph/6)
+
+[^M_F_dc21fb74-4e45-49dd-f9f5-f8decc5418d0]: Textual amendment: Words in Sch. 1 para. 33 substituted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [art. 1(2)(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2), [27(5)](https://www.legislation.gov.uk/uksi/2013/1881/article/27/5)
+
+[^M_F_9f0e9e66-7aa4-452a-e681-6c98db6d180c]: Textual amendment: Words in Sch. 1 para. 33 inserted (14.2.2014 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2014 (S.I. 2014/366)](https://www.legislation.gov.uk/uksi/2014/366), [art. 1(3)(4)](https://www.legislation.gov.uk/uksi/2014/366/article/1/3), [16](https://www.legislation.gov.uk/uksi/2014/366/article/16)
+
+[^M_F_2a0192ff-672c-4f31-dbea-36c77235daae]: Textual amendment: Words in Sch. 4 para. 1 substituted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [art. 1(2)(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2/6), [27(6)(a)](https://www.legislation.gov.uk/uksi/2013/1881/article/27/6/a)
+
+[^M_F_72edbca2-1d0a-4edd-a727-334c5217c9df]: Textual amendment: Words in Sch. 4 paras. 3, 4 substituted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [art. 1(2)(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2/6), [27(6)(b)](https://www.legislation.gov.uk/uksi/2013/1881/article/27/6/b)

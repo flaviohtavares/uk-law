@@ -1,0 +1,47 @@
+---
+title: Trade Union and Labour Relations (Consolidation) Act 1992, section 251A
+act: Trade Union and Labour Relations (Consolidation) Act 1992
+section: 251A
+status: revised-with-pending-changes
+text_date: '2026-10-01'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/ukpga/1992/52/section/251A
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Trade Union and Labour Relations (Consolidation) Act 1992, section 251A
+
+> **Warning: changes not yet applied to this text (156).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1992/52
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 251A. Fees for exercise of functions by ACAS.[^c14521811]
+
+*Extent: E+W+S*
+
+(1) ACAS may, in any case in which it thinks it appropriate to do so, but subject to any directions under subsection (2) below, charge a fee for exercising a function in relation to any person.
+
+(2) The Secretary of State may direct ACAS to charge fees, in accordance with the direction, for exercising any function specified in the direction, but the Secretary of State shall not give a direction under this subsection without consulting ACAS.
+
+(3) A direction under subsection (2) above may require ACAS to charge fees in respect of the exercise of a function only in specified descriptions of case.
+
+(4) A direction under subsection (2) above shall specify whether fees are to be charged in respect of the exercise of any specified function—
+
+- (a) at the full economic cost level, or
+- (b) at a level less than the full economic cost but not less than a specified proportion or percentage of the full economic cost.
+
+(5) Where a direction requires fees to be charged at the full economic cost level ACAS shall fix the fee for the case at an amount estimated to be sufficient to cover the administrative costs of ACAS of exercising the function including an appropriate sum in respect of general staff costs and overheads.
+
+(6) Where a direction requires fees to be charged at a level less than the full economic cost ACAS shall fix the fee for the case at such amount, not being less than the proportion or percentage of the full economic cost specified under subsection (4)(b) above, as it thinks appropriate (computing that cost in the same way as under subsection (5) above).
+
+(7) No liability to pay a fee charged under this section shall arise on the part of any person unless ACAS has notified that person that a fee may or will be charged.
+
+(8) For the purposes of this section—
+
+- (a) a function is exercised in relation to a person who avails himself of the benefit of its exercise, whether or not he requested its exercise and whether the function is such as to be exercisable in relation to particular persons only or in relation to persons generally; and
+- (b) where a function is exercised in relation to two or more persons the fee chargeable for its exercise shall be apportioned among them as ACAS thinks appropriate.
+
+## Annotations
+
+[^c14521811]: Textual amendment: S. 251A inserted (30.8.1993) by [1993 c. 19](https://www.legislation.gov.uk/ukpga/1993/19), [s.44](https://www.legislation.gov.uk/ukpga/1993/19/section/44); [S.I. 1993/1908](https://www.legislation.gov.uk/uksi/1993/1908), [art. 2(1)](https://www.legislation.gov.uk/uksi/1993/1908/article/2/1), [Sch.1](https://www.legislation.gov.uk/uksi/1993/1908/schedule/1)

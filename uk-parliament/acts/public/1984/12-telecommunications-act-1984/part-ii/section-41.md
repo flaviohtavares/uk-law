@@ -1,0 +1,27 @@
+---
+title: Telecommunications Act 1984, section 41
+act: Telecommunications Act 1984
+section: '41'
+status: revised-with-pending-changes
+text_date: '2026-04-06'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/1984/12/section/41
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Telecommunications Act 1984, section 41
+
+> **Warning: changes not yet applied to this text (3).** Text as at 2026-04-06. See https://www.legislation.gov.uk/changes/affected/ukpga/1984/12
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 41. Purchase of Duchy of Lancaster land.
+
+*Extent: E+W+S+N.I.*
+
+The Chancellor and Council of the Duchy of Lancaster may, if they think fit, agree with a public telecommunications operator for the sale, and absolutely make sale, for such sum of money as appears to them to be sufficient consideration for the same, of any land belonging to Her Majesty in right of the Duchy of Lancaster which the operator seeks to acquire for, or in connection with, the establishment or running of his system. *(affected by repeal, see note)*[^c19237961]
+
+## Annotations
+
+[^c19237961]: Textual amendment: [S. 41](https://www.legislation.gov.uk/ukpga/1984/12/section/41) repealed (25.7.2003 for specified purposes, 29.12.2003 otherwise) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [ss. 406](https://www.legislation.gov.uk/ukpga/2003/21/section/406), [408](https://www.legislation.gov.uk/ukpga/2003/21/section/408), [411](https://www.legislation.gov.uk/ukpga/2003/21/section/411), [Sch. 19(1)](https://www.legislation.gov.uk/ukpga/2003/21/schedule/19/1) (with [Sch. 18](https://www.legislation.gov.uk/ukpga/2003/21/schedule/18), [Sch. 19(1)](https://www.legislation.gov.uk/ukpga/2003/21/schedule/19/1) Note [1](https://www.legislation.gov.uk/ukpga/2003/21/schedule/1)); [S.I. 2003/1900](https://www.legislation.gov.uk/uksi/2003/1900), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2003/1900/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2003/1900/article/2/1), [3(1)](https://www.legislation.gov.uk/uksi/2003/1900/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/1900/schedule/1) (with [art. 3(2)](https://www.legislation.gov.uk/uksi/2003/1900/article/3/2) (as amended ([8](https://www.legislation.gov.uk/uksi/2003/1900/article/8).[12](https://www.legislation.gov.uk/uksi/2003/1900/article/12).[2003](https://www.legislation.gov.uk/uksi/2003/1900/article/2003)) by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 1(3)](https://www.legislation.gov.uk/uksi/2003/3142/article/1/3))); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3](https://www.legislation.gov.uk/uksi/2003/3142/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))

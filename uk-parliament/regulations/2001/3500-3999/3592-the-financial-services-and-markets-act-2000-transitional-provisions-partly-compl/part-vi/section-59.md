@@ -1,0 +1,29 @@
+---
+title: The Financial Services and Markets Act 2000 (Transitional Provisions) (Partly Completed Procedures) Order 2001, section 59
+act: The Financial Services and Markets Act 2000 (Transitional Provisions) (Partly Completed Procedures) Order 2001
+section: '59'
+status: revised
+text_date: '2020-12-31'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2001/3592/section/59
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Financial Services and Markets Act 2000 (Transitional Provisions) (Partly Completed Procedures) Order 2001, section 59
+
+> Text as at 2020-12-31.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 59. Test to be applied by interim tribunal[^key-d82025755177a6bdb8b17870f3dab6f6]
+
+*Extent: E+W+S+N.I.*
+
+(1) Where the issues arising for determination in the incomplete disciplinary proceedings included the issue whether a person who was authorised under the Financial Services Act was a fit and proper person, the interim tribunal must consider instead whether that person is failing or is likely to fail to satisfy the threshold conditions (within the meaning of section 41(1)).
+
+(2) Where the issues arising for determination in the incomplete disciplinary proceedings included the issue whether a person was a fit and proper person to be employed in connection with investment business (within the meaning of the Financial Services Act) or investment business of a particular kind, the interim tribunal must consider instead whether that person is a fit and proper person to perform the functions in relation to the regulated activity corresponding to that investment business which he was performing before commencement.
+
+## Annotations
+
+[^key-d82025755177a6bdb8b17870f3dab6f6]: Commencement: Art. 59 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)

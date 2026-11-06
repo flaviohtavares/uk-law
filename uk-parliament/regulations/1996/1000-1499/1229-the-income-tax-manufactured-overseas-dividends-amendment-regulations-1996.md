@@ -1,0 +1,132 @@
+---
+title: The Income Tax (Manufactured Overseas Dividends) (Amendment) Regulations 1996
+id: uksi/1996/1229
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '1996-05-07'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1996/1229
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1996/1229/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Income Tax (Manufactured Overseas Dividends) (Amendment) Regulations 1996
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+1996 No. 1229
+
+INCOME TAX
+
+The Income Tax (Manufactured Overseas Dividends) (Amendment) Regulations 1996
+
+Made
+
+7th May 1996
+
+Laid before the House of Commons
+
+7th May 1996
+
+Coming into force
+
+28th May 1996
+
+The Treasury, in exercise of the powers conferred on them by paragraphs 1(1) and 4(6) to (8) and 8 of Schedule 23A to the Income and Corporation Taxes Act 1988[^f00001], hereby make the following Regulations:
+
+## 1. Citation and commencement
+
+These Regulations may be cited as the Income Tax (Manufactured Overseas Dividends) (Amendment) Regulations 1996 and shall come into force on 28th May 1996.
+
+## 2. Interpretation
+
+In these Regulations “the principal Regulations” means the Income Tax (Manufactured Overseas Dividends) Regulations 1993[^f00002] and “regulation” means a regulation of the principal Regulations.
+
+## 3. Amendments to the principal Regulations
+
+In regulation 2—
+
+- (a) the definition of “approved manufactured overseas dividend” shall be omitted;
+- (b) in the definition of “approved United Kingdom collecting agent”—
+  - (i) after the words “a person who is” there shall be inserted “a collecting agent for the purposes of Chapter VIIA of Part IV of the Taxes Act and who is”;
+  - (ii) for the words from “, as part of” to the end there shall be substituted “is approved by the Board for the purposes of these Regulations”;
+- (c) in the definition of “approved United Kingdom intermediary” for the words from “an approved intermediary” to the end there shall be substituted “approved as an intermediary by the Board for the purposes of these Regulations”;
+- (d) the definition of “unapproved manufactured payment” shall be omitted.
+
+**4.** In regulations 4, 5 and 7—
+
+- (a) for the words “an approved manufactured overseas dividend”, wherever occurring, there shall be substituted “a manufactured overseas dividend”;
+- (b) for the words “the approved manufactured overseas dividend”, wherever occurring, there shall be substituted “the manufactured overseas dividend”.
+
+**5.** Regulation 9(2)(c) and the word “and” immediately following it shall be omitted.
+
+**6.** In regulation 11—
+
+- (a) in paragraphs (1)(d) and (2)(a)(i) and (c), the word “approved” immediately before “manufactured overseas dividends” shall be omitted;
+- (b) paragraph (2)(a) (ii) shall be omitted.
+
+**7.** In regulation 12—
+
+- (a) in paragraph (1)—
+  - (i) in sub-paragraph (a) for “(a), (b), (c), or (d)” there shall be substituted “(b) or (c)”;
+  - (ii) in sub-paragraph (b) for the words from “subsection (2)” to “17(1)” there shall be substituted “Chapter VIIA of Part IV”;
+  - (iii) sub-paragraph (c) and the word “and” immediately preceding it shall be omitted;
+- (b) in paragraph (2)—
+  - (i) in sub-paragraph (a) for the words from “subsection (2)” to “may be” there shall be substituted “Chapter VIIA of Part IV of the Taxes Act”;
+  - (ii) for sub-paragraph (b) there shall be substituted the following sub-paragraph—
+
+    > - (b) the provisions of that Chapter relating to collecting agents shall apply in relation to amounts falling to be deducted under sub-paragraph (a) as if references in that Chapter to relevant dividends, or the proceeds of sale or other realisation of coupons for relevant dividends, included references to manufactured overseas dividends to which this regulation applies or, as the case may be, the proceeds of sale or other realisation of manufactured overseas dividends to which this regulation applies.
+
+**8.** In regulation 13—
+
+- (a) in paragraph (1)(a) for the words from “subsection (2)” to “17(1)” there shall be substituted “Chapter VIIA of Part IV”;
+- (b) in paragraph (2)—
+  - (i) in sub-paragraph (a) for the words from “subsection (2)” to “may be” there shall be substituted “Chapter VIIA of Part IV of the Taxes Act”;
+  - (ii) for sub-paragraph (b) there shall be substituted the following sub-paragraph—
+
+    > - (b) subject to paragraph (3), the provisions of that Chapter relating to collecting agents shall apply in relation to amounts falling to be deducted under sub-paragraph (a) as if the modifications to that Chapter specified in regulation 12(2)(b) also had effect in relation to manufactured overseas dividends to which this regulation applies.
+
+**9.** For regulation 16 there shall be substituted the following regulation—
+
+> **16. Modifications of section 21 of the Management Act in relation to overseas dividend manufacturers**
+>
+> Section 21 of the Management Act[^f00003] shall apply in relation to an overseas dividend manufacturer as it applies to a market maker within the meaning of that section and shall have effect as if—
+>
+> - (a) references to “market maker” in subsections (1), (2), (4) and (5) included references to an overseas dividend manufacturer, and
+> - (b) in subsection (1) the words from “whose” to the end were omitted.
+
+Simon Burns
+
+Michael Bates
+
+Two of the Lords Commissioners of Her Majesty’s Treasury
+
+7th May 1996
+
+(This note is not part of the Regulations)
+
+These Regulations amend the Income Tax (Manufactured Overseas Dividends) Regulations 1993 (S.I. [1993/2004](https://www.legislation.gov.uk/uksi/1993/2004)) (“the principal Regulations”).
+
+The amendments are made in consequence of two sets of provisions in the Finance Act [1996 (c. 8)](https://www.legislation.gov.uk/ukpga/1996/8). The first set consists of the provisions relating to corporate loan relationships in Chapter II of Part IV of the 1996 Act, which supersede or repeal a number of the provisions of Schedule 23A to the Income and Corporation Taxes Act 1988 relating to manufactured payments other than manufactured dividends. The second set consists of the provisions relating to paying and collecting agents in Schedule 29 to the 1996 Act (“Schedule 29”). The amendments also extend the information powers conferred on the Board of Inland Revenue by section 21 of the Taxes Management Act 1970 (“the Management Act”) to all overseas dividend manufacturers.
+
+Regulation 1 provides for citation and commencement, and regulation 2 for interpretation.
+
+Regulation 3(a), (b)(ii), (c), and (d), and regulations 4 to 6 amend the principal Regulations so as to take account of the new provisions relating to corporate loan relationships, in particular by removing the distinction between approved and unapproved manufactured overseas dividends from the principal Regulations.
+
+Regulations 3(b)(i), 7 and 8 amend the principal Regulations so as to apply the new provisions in Schedule 29, so far as they relate to collecting agents, to income tax required to be deducted by approved United Kingdom collecting agents and approved United Kingdom intermediaries in respect of manufactured overseas dividends that are representative of foreign dividends.
+
+Regulation 9 substitutes a new regulation 16 of the principal Regulations so as to apply the provisions of section 21 of the Management Act to all overseas dividend manufacturers.
+
+## Annotations
+
+[^f00001]: Footnote: [1988 c. 1](https://www.legislation.gov.uk/ukpga/1988/1). Schedule 23A was inserted by paragraph 1 of Schedule 13 to the Finance Act [1991 (c. 31)](https://www.legislation.gov.uk/ukpga/1991/31), and paragraph 4 of Schedule 23A was amended by section 124 of the Finance Act [1994 (c. 9)](https://www.legislation.gov.uk/ukpga/1994/9) and by paragraph 28(2) of Schedule 7, paragraph 52(4) of Schedule 14, and paragraph 7 of Schedule 29, to the Finance Act [1996 (c. 8)](https://www.legislation.gov.uk/ukpga/1996/8). See also the definitions of “dividend manufacturing regulations” and “prescribed” in paragraph 1(1) of Schedule 23A.
+
+[^f00002]: Footnote: S.I. [1993/2004](https://www.legislation.gov.uk/uksi/1993/2004), amended by S.I. [1995/1324](https://www.legislation.gov.uk/uksi/1995/1324).
+
+[^f00003]: Footnote: [1970 c. 9](https://www.legislation.gov.uk/ukpga/1970/9); section 21 of the Taxes Management Act 1970 was amended by paragraph 5(a) of Schedule 21 to, and Part IV of Schedule 22 to, the Finance Act [1973 (c. 51)](https://www.legislation.gov.uk/ukpga/1973/51), and by paragraph 7(1), (2) and (3) of Schedule 18 to the Finance Act [1986 (c. 41)](https://www.legislation.gov.uk/ukpga/1986/41).

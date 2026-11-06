@@ -1,0 +1,112 @@
+---
+title: The National Health Service (General Dental Services) (Scotland) Amendment (No.2) Regulations 1989
+id: uksi/1989/851
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '1989-05-14'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1989/851
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1989/851/pdfs/uksi_19890851_en.pdf
+- http://www.legislation.gov.uk/uksi/1989/851/made/data.pdf
+pending_changes: 1
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The National Health Service (General Dental Services) (Scotland) Amendment (No.2) Regulations 1989
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+1989 No. 851 (S.86)
+
+NATIONAL HEALTH SERVICE, SCOTLAND
+
+The National Health Service (General Dental Services) (Scotland) Amendment (No.2) Regulations 1989
+
+Made
+
+14th May 1989
+
+Laid before Parliament
+
+18th May 1989
+
+Coming into force
+
+9th June 1989
+
+The Secretary of State, in exercise of powers conferred on him by sections 25(2), 105 and 108(1) of the National Health Service (Scotland) Act 1978[^f00001] and section 8(1)(b), and (5) of the Health and Medicines Act 1988[^f00002] and of all other powers enabling him in that behalf, hereby makes the following Regulations:
+
+## 1. Citation, commencement and interpretation
+
+(1) These Regulations may be cited as the National Health Service (General Dental Services) (Scotland) Amendment (No.2) Regulations 1989 and shall come into force on 9th June 1989.
+
+(2) In these Regulations—
+
+- “the dental list” means the list prepared by a Health Board in accordance with regulation 4(1) of the principal Regulations;
+- “dentist” means a registered dental practitioner;
+- “the principal Regulations” means the National Health Service (General Dental Services) (Scotland) Regulations 1974[^f00003].
+
+## 2. Amendment of the principal regulations
+
+After regulation 6 of the principal Regulations there shall be inserted the following regulation:—
+
+> **6A. Removal from dental list on grounds of age**
+>
+> (1) A Health Board shall, on each of the dates specified in column (1 of the Table below, remove from the dental list the name of any dentist included in the list who has, on or before that date, attained the age specified in column (2) of the Table in relation to that date.
+>
+> TABLE
+>
+> | *(1)* | *(2)* |
+> | --- | --- |
+> | 1st April 1990 | the age of 72 |
+> | 1st April 1991 | the age of 71 |
+> | 1st April 1992 | the age of 70 |
+> | 1st April 1993 | the age of 69 |
+> | 1st April 1994 | the age of 68 |
+> | 1st April 1995 | the age of 67 |
+> | 1st April 1996 | the age of 66 |
+> | 1st April 1997 | the age of 65 |
+>
+> (2) A Health Board shall, on 1st April in 1998 and in each successive year therafter, remove from the dental list the name of any dentist included in the list who has attained the age of 65 during the period of 12 months ending on 1st April in that year.
+>
+> (3) A Health Board shall give to any dentist whose name is to be removed from the dental list in accordance with paragraph (1) or (2)—
+>
+> - (a) notice in writing to that effect not less than 12 months nor more than 13 months before the date on which his name is to be removed; and
+> - (b) a further such notice not less than 3 months nor more than 4 months before that date,
+>
+> but the failure to give notice to any dentist as required by sub-paragraph (a) or (b) shall not prevent the removal of that dentist’s name from the dental list in accordance with paragraph (1) or (2).
+>
+> (4) A Health Board shall, no later than 7 days after the removal in accordance with paragraph (1) or (2) of the name of any dentist from the dental list, notify the Secretary of State, in writing, of the name, address, date of birth and dental list number of the dentist in question.
+
+## 3. Transitional provision
+
+In relation to any dentist whose name is to be removed from the dental list on 1st April 1990, the requirement as to notice in paragraph (3)(a) of regulation 6A of the principal Regulations shall have effect as if for the references to “12 months” and “13 months” there were substituted references to “9 months” and “10 months” respectively.
+
+Michael B Forsyth
+
+Parliamentary Under Secretary of State, Scottish Office
+
+St Andrew’s House,
+
+Edinburgh
+
+14th May 1989
+
+(This note is not part of the Regulations)
+
+These Regulations further amend the National Health Service (General Dental Services) (Scotland) Regulations 1974 (“the principal Regulations”), which provide for the arrangements under which dentists provide general dental services under the National Health Service in Scotland.
+
+Regulation 2 inserts a new regulation 6A into the principal Regulations to provide for the removal, annually from 1st April 1990, from lists of dentists providing general dental service, of the name of any dentist who has attained the age specified in relation to the year in question. The new regulation also provides for a dentist to be given written notice of the removal of his name from a list and for the Health Board to notify the Secretary of State. Transitional provision is made (in regulation 3 of these Regulations) for the period of notice applicable in relation to those dentists whose names fall to be removed on 1st April 1990.
+
+## Annotations
+
+[^f00001]: Footnote: [1978 c. 29](https://www.legislation.gov.uk/ukpga/1978/29); section 25(2) was amended by S.I. [1981/432](https://www.legislation.gov.uk/uksi/1981/432) and by the Health and Medicines Act [1988 (c. 49)](https://www.legislation.gov.uk/ukpga/1988/49), Schedule 2, paragraph 11; section 105, which was amended by the Health Services Act [1980 (c. 53)](https://www.legislation.gov.uk/ukpga/1980/53), Schedule 6, paragraph 5 and Schedule 7, paragraph 24 and by the Health and Social Services and Social Security Adjudications Act [1983 (c. 41)](https://www.legislation.gov.uk/ukpga/1983/41), Schedule 9, contains provisions relevant to the making of regulations; section 108(1) contains a definition of “regulations” relevant to the exercise of the statutory powers under which these Regulations are made.
+
+[^f00002]: Footnote: [1988 c. 49](https://www.legislation.gov.uk/ukpga/1988/49)
+
+[^f00003]: Footnote: S.I. [1974/505](https://www.legislation.gov.uk/uksi/1974/505)

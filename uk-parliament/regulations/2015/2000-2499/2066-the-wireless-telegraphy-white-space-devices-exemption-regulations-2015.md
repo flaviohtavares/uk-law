@@ -1,0 +1,355 @@
+---
+title: The Wireless Telegraphy (White Space Devices) (Exemption) Regulations 2015
+id: uksi/2015/2066
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2015-12-18'
+text_date: '2016-06-09'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2015/2066
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2015/2066/pdfs/uksi_20152066_en.pdf
+- http://www.legislation.gov.uk/uksi/2015/2066/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Wireless Telegraphy (White Space Devices) (Exemption) Regulations 2015
+
+> Text as at 2016-06-09.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2015 No. 2066
+
+Electronic Communications
+
+The Wireless Telegraphy (White Space Devices) (Exemption) Regulations 2015
+
+Made
+
+18th December 2015
+
+Coming into force
+
+31st December 2015
+
+The Office of Communications (“OFCOM”), in exercise of the powers conferred by section 8(3) of the Wireless Telegraphy Act 2006 (the “Act”)[^f00001], make the following Regulations.
+
+Before making these Regulations, OFCOM have given notice of their proposal to do so in accordance with section 122(4)(a) of the Act, published notice of their proposal in accordance with section 122(4)(b) of the Act and have considered the representations made to them before the time specified in that notice in accordance with section 122(4)(c) of the Act.
+
+## 1. Citation, commencement and extent[^key-0e3ae67e18fe434d61368f6c1fb383cd]
+
+(1) These Regulations may be cited as the Wireless Telegraphy (White Space Devices) (Exemption) Regulations 2015 and shall come into force on 31st December 2015.
+
+(2) These Regulations shall not extend to the Channel Islands.
+
+## 2. Interpretation[^key-49a99b2dbb6f95af723d17645f0ade7e]
+
+In these Regulations—
+
+- “channel usage parameters” has the meaning given in regulation 12;
+- “dBm” means decibels of power referenced to one milliWatt;
+- “dedicated antenna” means a removable antenna which has been designed for use and supplied with a device;
+- “database” means a database operated by an organisation which has been listed in Schedule 1;
+- “DTT channel” is a digital terrestrial television frequency channel of 8 MHz listed in Row 1 of the Table set out in Schedule 2 and which is known by the channel number listed in Row 2 of that Table;
+- “EIRP” means equivalent isotropic radiated power, which is the product of the power supplied to an antenna and the absolute or isotropic antenna gain in a given direction relative to an isotropic antenna, in dBm;
+- “EIRP spectral density” means EIRP, in dBm, over a bandwidth of 0.1 MHz;
+- “external antenna” means a removable antenna which is not a dedicated antenna;
+- “generic slave operational parameters” shall be construed in accordance with regulation 7(1)(a);
+- “geo-location capability” means the ability of a device to determine the latitude and longitude coordinates of the location of its antenna and the geo-location uncertainty of the location of its antenna;
+- “geo-location uncertainty” means the uncertainty (in metres) of the location of a device’s antenna;
+- “integral antenna” means a fixed antenna forming part of a device;
+- “master device” shall be construed in accordance with regulation 4;
+- “master device characteristics” shall be construed in accordance with regulation 6(3);
+- “master operational parameters” has the meaning given in regulation 10;
+- “MHz” means megahertz;
+- “simultaneous operation power restriction” has the meaning given in regulation 6(8);
+- “slave device” shall be construed in accordance with regulation 4;
+- “slave device characteristics” shall be construed in accordance with regulation 7(6);
+- “slave operational parameters” has the meaning given in regulation 11;
+- “specific slave operational parameters” shall be construed in accordance with regulation 7(1)(a);
+- “Type A equipment” has the meaning given in regulation 4(5);
+- “Type B equipment” has the meaning given in regulation 4(6);
+- “unique identifier” means a set of characters comprising—
+  - (a) the unique serial number of a device;
+  - (b) a device’s model number or other identifier of the product family to which the device belongs; and
+  - (c) a set of characters identifying the manufacturer of the device;
+- “update period” has the meaning given in regulation 6(9); and
+- “white space device” shall be construed in accordance with regulation 4.
+
+## 3. Exemption[^key-a93e10ce0674f324e350dfaf4767d031]
+
+The establishment, installation and use of wireless telegraphy stations or wireless telegraphy apparatus is hereby exempt from the provisions of section 8(1) of the Wireless Telegraphy Act 2006 where the terms, provisions and limitations in regulation 4 are met.
+
+## 4. White space devices[^key-2f13c290c9393adcf02080529708c2c8]
+
+(1) The exemption provided for in regulation 3 shall only apply to wireless telegraphy stations or wireless telegraphy apparatus which are white space devices.
+
+(2) White space devices are wireless telegraphy stations or wireless telegraphy apparatus which—
+
+- (a) transmit within the frequency band 470 to 790 MHz;
+- (b) are master devices or slave devices; and
+- (c) are Type A equipment or Type B equipment.
+
+(3) Master devices are devices capable of communicating with and obtaining master operational parameters from a database for the purpose of transmitting within the frequency band 470 MHz to 790 MHz and which operate in accordance with regulations 5 to 12.
+
+(4) Slave devices are devices capable of transmitting within the frequency band 470 MHz to 790 MHz after receiving slave operational parameters from a master device and which operate in accordance with regulations 5 to 12.
+
+(5) Type A equipment is a device which has an integral antenna, a dedicated antenna or an external antenna and is intended for fixed location use only.
+
+(6) Type B equipment is a device which has an integral antenna or a dedicated antenna and is not intended for fixed location use.
+
+## 5. General requirements for white space devices[^key-af6735ba91307ca9d8baf79d0b46a4c6]
+
+Master devices and slave devices must—
+
+- (a) not be used airborne; and
+- (b) be configured such that a user is unable to input, reconfigure or alter any technical or operational settings or features of the device in a way which—
+  - (i) would alter the technical characteristics of the device which are communicated to a database, including the master device characteristics and the slave device characteristics; or
+  - (ii) would cause the device to operate other than in accordance with master operational parameters (if a master device) or slave operational parameters (if a slave device).
+
+## 6. Master device requirements[^key-96fff42a5f76ce76e60f554960394e55]
+
+(1) A master device must—
+
+- (a) have a geo-location capability; and
+- (b) only transmit within the frequency band 470 MHz to 790 MHZ—
+  - (i) after requesting and receiving master operational parameters from a database;
+  - (ii) in accordance with the limitations specified in the master operational parameters it has received from that database; and
+  - (iii) on the specific frequencies and within the specific power limits specified in the channel usage parameters which the master device has communicated to that database.
+
+(2) If a master device operates simultaneously on more than one DTT channel and if indicated by the master operational parameters, a master device must also apply a simultaneous operation power restriction.
+
+(3) When requesting master operational parameters from a database, a master device must communicate to that database the following information (“master device characteristics”)—
+
+- (a) information specifying that it is a master device;
+- (b) the master device’s unique identifier;
+- (c) information specifying that the master device is Type A equipment or Type B equipment;
+- (d) the location of the master device expressed as the latitude and longitude coordinates of the location of its antenna; and
+- (e) the geo-location uncertainty of its antenna.
+
+(4) After receiving master operational parameters from a database, a master device must communicate its channel usage parameters to that database.
+
+(5) After receiving master operational parameters from a database, a master device must communicate with that database every update period for confirmation that those parameters remain valid.
+
+(6) Master operational parameters cease to be valid if—
+
+- (a) a database communicates an instruction to the master device that those master operational parameters are not valid; or
+- (b) the master device has not received confirmation from a database that those master operational parameters are still valid by the end of an update period.
+
+(7) If its master operational parameters are no longer valid, a master device must—
+
+- (a) communicate an instruction to all slave devices to which that master device has communicated slave operational parameters to cease transmitting on the basis of those slave operational parameters; and
+- (b) thereafter itself cease transmitting on the basis of those master operational parameters.
+
+(8) “Simultaneous operation power restriction” means a restriction on total maximum EIRP across all of the DTT channels on which a device transmits simultaneously to no greater than the lowest permitted maximum EIRP for any of those DTT channels.
+
+(9) “Update period” means the time period (in seconds) specified by a database as part of the master operational parameters.
+
+## 7. Slave device requirements[^key-dcaf737fe3084fbcb612b27c5bdf859f]
+
+(1) A slave device must only transmit within the frequency band 470 MHz to 790 MHZ—
+
+- (a) after receiving slave operational parameters from a master device which are either—
+  - (i) parameters for use by all slave devices operating in the coverage area in which communications from the master device can be received (“generic slave operational parameters”); or
+  - (ii) parameters that are specific to a particular slave device (“specific slave operational parameters”);
+- (b) in accordance with the limitations specified in slave operational parameters which have been communicated by a master device; and
+- (c) on the specific frequencies and within the specific power limits specified in channel usage parameters that have been determined—
+  - (i) by the slave device and communicated to a master device; or
+  - (ii) by a master device for the slave device.
+
+(2) If a slave device operates simultaneously on more than one DTT channel and if indicated by the slave operational parameters, a slave device must also apply a simultaneous operation power restriction.
+
+(3) A slave device must cease transmitting if the slave operational parameters it has received are no longer valid.
+
+(4) Slave operational parameters cease to be valid if—
+
+- (a) the slave device receives an instruction to cease transmissions from the master device from which it has received its slave operational parameters; or
+- (b) the slave device has not received any transmission from the master device from which it has received its slave operational parameters for longer than five seconds.
+
+(5) A slave device which transmits using generic slave operational parameters must communicate to the master device which has communicated those parameters—
+
+- (a) information specifying that the device is a slave device; and
+- (b) the slave device’s unique identifier.
+
+(6) If a slave device requests specific slave operational parameters from a master device, it must communicate to the master device when requesting those parameters the following information (“slave device characteristics”)—
+
+- (a) information specifying that it is a slave device;
+- (b) the slave device’s unique identifier;
+- (c) information specifying that the slave device is Type A equipment or Type B equipment;
+- (d) the location of the slave device expressed as the latitude and longitude coordinates of the location of its antenna; and
+- (e) the geo-location uncertainty of its antenna.
+
+(7) Except where paragraph (8) applies, after receiving slave operational parameters from a master device, a slave device must communicate its channel usage parameters to that master device.
+
+(8) This paragraph applies if the channel usage parameters for a slave device have been determined by the master device.
+
+## 8. Further requirements relating to generic slave operational parameters[^key-09d0dae4cb7a812cf9e0df61d1e18210]
+
+(1) A master device which communicates generic slave operational parameters to a slave device must have requested and received those parameters from a database.
+
+(2) When requesting generic slave operational parameters from a database, a master device must communicate its master device characteristics to that database.
+
+(3) A master device must communicate to the database from which it has received generic slave operational parameters—
+
+- (a) the unique identifiers which have been communicated to the master device by slave devices which are transmitting using those parameters; and
+- (b) the master device’s unique identifier.
+
+(4) A master device must communicate to the database from which it has received generic slave operational parameters—
+
+- (a) the channel usage parameters of slave devices that transmit using those parameters and which are either—
+  - (i) channel usage parameters determined by the slave device and communicated to the master device; or
+  - (ii) channel usage parameters determined by the master device for that slave device; and
+- (b) the master device’s unique identifier.
+
+## 9. Further requirements relating to specific slave operational parameters[^key-e09e701e843f95c58e0743f6b873750a]
+
+(1) A master device which communicates specific slave operational parameters to a slave device must have requested and received those parameters from a database.
+
+(2) When requesting specific slave operational parameters from a database, a master device must communicate to that database—
+
+- (a) the slave device characteristics of the slave device which have been communicated to the master device; and
+- (b) the master device’s unique identifier.
+
+(3) After receiving specific slave operational parameters from a database, a master device must communicate to that database—
+
+- (a) the channel usage parameters of the slave device, which are either—
+  - (i) channel usage parameters determined by the slave device and communicated to the master device; or
+  - (ii) channel usage parameters determined by the master device for that slave device; and
+- (b) the master device’s unique identifier.
+
+## 10. Master operational parameters[^key-af0040e640d2447dc02608cf24b77b33]
+
+The master operational parameters are—
+
+- (a) the lower and upper boundaries of each of the DTT channels within which a master device may transmit;
+- (b) the maximum permitted EIRP spectral density for each DTT channel within which a master device may transmit;
+- (c) the maximum permitted EIRP for each DTT channel within which a master device may transmit;
+- (d) limits on the maximum total number of DTT channels that may be used at any given time;
+- (e) limits on the maximum number of contiguous DTT channels that may be used at any given time;
+- (f) the time period during which the master operational parameters are valid;
+- (g) the geographic area within which the master operational parameters are valid;
+- (h) the time period (in seconds) within which and the regularity with which a master device must check with a database that the master operational parameters it has received from that database are still valid; and
+- (i) information which indicates whether a device which operates simultaneously on more than one DTT channel must apply a simultaneous operation power restriction.
+
+## 11. Slave operational parameters[^key-d72d9667d5e9ee432fabb8ec07f49e2f]
+
+The slave operational parameters are—
+
+- (a) the lower and upper boundaries of the DTT channels within which a slave device may transmit;
+- (b) the maximum permitted EIRP spectral density for each DTT channel within which a slave device may transmit;
+- (c) the maximum permitted EIRP for each DTT channel within which a slave device may transmit;
+- (d) limits on the maximum total number of DTT channels that may be used at any given time;
+- (e) limits on the maximum number of contiguous DTT channels that may be used at any given time;
+- (f) the time period during which the slave operational parameters are valid;
+- (g) the geographic area within which the slave operational parameters are valid; and
+- (h) information which indicates whether a device which operates simultaneously on more than one DTT channel must apply a simultaneous operation power restriction.
+
+## 12. Channel usage parameters[^key-fa03b4c5d6411c1ef0908720dd7b98ef]
+
+The channel usage parameters are—
+
+- (a) the lower and upper frequency boundaries of each DTT channel within which the device will transmit;
+- (b) the maximum EIRP spectral density at which the device will transmit in each DTT channel; and
+- (c) the maximum EIRP at which the device will transmit in each DTT channel.
+
+Philip Marnick
+
+Group Director Spectrum Group
+
+For and by the authority of the Office of Communications
+
+18th December 2015
+
+## SCHEDULE 1 — ORGANISATIONS OPERATING DATABASES[^key-6f41839bfe5491bf13a7c122844487dc]
+
+Regulation 2
+
+[^key-6f41839bfe5491bf13a7c122844487dc]
+
+The organisations which may operate databases from which white space devices may obtain master operational parameters and slave operational parameters are—
+
+- The Council for Scientific and Industrial Research ([^key-109905c3e72a0e4a931b180f18255d82]CSIR), a statutory body established under South African legislation;
+- Fairspectrum Oy, a company registered in Finland with company number 2372718-1;
+- Google UK Limited, a company registered in the United Kingdom with company number 03977902;
+- Microsoft Ireland Operations Limited, a company registered in the Republic of Ireland with company number 256796;
+- Nominet UK, a company registered in the United Kingdom with company number 03203859;
+- Sony Europe Limited, a company registered in the United Kingdom with company number 02422874;
+- Spectrum Bridge Incorporated, a company incorporated in the State of Delaware, United States of America.
+
+## SCHEDULE 2 — DTT CHANNELS AND CHANNEL NUMBERS[^key-12997cfec55f19ec3be01d784858cfab]
+
+Regulation 2
+
+Table of DTT channels and corresponding DTT channel numbers
+
+|  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| *Row 1* | DTT channel (MHz) | 470<br>to<br>478 | 478<br>to<br>486 | 486<br>to<br>494 | .... | 766<br>to<br>774 | 774<br>to<br>782 | 782<br>to<br>790 |
+| *Row 2* | DTT channel numbers | 21 | 22 | 23 | .... | 58 | 59 | 60 |
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations exempt the use of certain wireless telegraphy stations and wireless telegraphy apparatus using white space technology in the digital terrestrial television frequency band (470 to 790 MHz) from the requirement to be licensed under section 8(1) of the Wireless Telegraphy Act [2006 (c.36)](https://www.legislation.gov.uk/ukpga/2006/36) (“the Act”).
+
+Regulation 3 provides for an exemption where the terms, conditions and limitations set out in regulation 4 are met.
+
+Regulation 4 exempts white space devices, which must be master devices or slave devices and categorised as Type A equipment or Type B equipment.
+
+Master devices are devices capable of communicating with and obtaining master operational parameters from a database for the purpose of transmitting within the frequency band 470 MHz to 790 MHz.
+
+Slave devices are devices capable of transmitting within the frequency band 470 MHz to 790 MHz after receiving slave operational parameters from a master device.
+
+Schedule 1 lists the organisations which may operate databases from which white space devices may obtain master operational parameters and slave operational parameters.
+
+Master devices and slave devices must not be used airborne and they must be configured such that a user is unable to input, reconfigure or alter technical characteristics of the device (regulation 5).
+
+Regulations 6 and 7 set out specific requirements relating to use of master devices and slave devices.
+
+Regulations 10 and 11 set out the information which will be provided by a database to master devices and slave devices (master operational parameters and slave operational parameters).
+
+Regulation 12 sets out certain information that must be communicated to a database in respect of master devices and slave devices (channel usage parameters).
+
+A full regulatory impact assessment of the effect that these Regulations will have on costs to business is available to the public from OFCOM’s website at http://www.ofcom.org.uk or from the OFCOM library at Riverside House, 2a Southwark Bridge Road, London SE1 9HA (Tel: 020 7981 3000). Copies of this assessment have also been placed in the library of the House of Commons.
+
+## Annotations
+
+[^f00001]: Footnote: [2006 c. 36](https://www.legislation.gov.uk/ukpga/2006/36). Section 8(3) was extended to the to the Isle of Man by article 2 of the Wireless Telegraphy (Isle of Man) Order 2007 ([S.I. 2007/278](https://www.legislation.gov.uk/uksi/2007/278)); to the Bailiwick of Jersey by article 2 of the Wireless Telegraphy (Jersey) Order 2006 ([S.I. 2006/3324](https://www.legislation.gov.uk/uksi/2006/3324)); and to the Bailiwick of Guernsey by article 2 of the Wireless Telegraphy (Guernsey) Order 2006 ([S.I. 2006/3325](https://www.legislation.gov.uk/uksi/2006/3325)).
+
+[^key-0e3ae67e18fe434d61368f6c1fb383cd]: Commencement: Reg. 1 in force at 31.12.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/2066/regulation/1/1)
+
+[^key-49a99b2dbb6f95af723d17645f0ade7e]: Commencement: Reg. 2 in force at 31.12.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/2066/regulation/1/1)
+
+[^key-a93e10ce0674f324e350dfaf4767d031]: Commencement: Reg. 3 in force at 31.12.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/2066/regulation/1/1)
+
+[^key-2f13c290c9393adcf02080529708c2c8]: Commencement: Reg. 4 in force at 31.12.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/2066/regulation/1/1)
+
+[^key-af6735ba91307ca9d8baf79d0b46a4c6]: Commencement: Reg. 5 in force at 31.12.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/2066/regulation/1/1)
+
+[^key-96fff42a5f76ce76e60f554960394e55]: Commencement: Reg. 6 in force at 31.12.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/2066/regulation/1/1)
+
+[^key-dcaf737fe3084fbcb612b27c5bdf859f]: Commencement: Reg. 7 in force at 31.12.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/2066/regulation/1/1)
+
+[^key-09d0dae4cb7a812cf9e0df61d1e18210]: Commencement: Reg. 8 in force at 31.12.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/2066/regulation/1/1)
+
+[^key-e09e701e843f95c58e0743f6b873750a]: Commencement: Reg. 9 in force at 31.12.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/2066/regulation/1/1)
+
+[^key-af0040e640d2447dc02608cf24b77b33]: Commencement: Reg. 10 in force at 31.12.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/2066/regulation/1/1)
+
+[^key-d72d9667d5e9ee432fabb8ec07f49e2f]: Commencement: Reg. 11 in force at 31.12.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/2066/regulation/1/1)
+
+[^key-fa03b4c5d6411c1ef0908720dd7b98ef]: Commencement: Reg. 12 in force at 31.12.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/2066/regulation/1/1)
+
+[^key-6f41839bfe5491bf13a7c122844487dc]: Commencement: Sch. 1 in force at 31.12.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/2066/regulation/1/1)
+
+[^key-109905c3e72a0e4a931b180f18255d82]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2015/2066/schedule/1) substituted (9.6.2016) by [The Wireless Telegraphy (White Space Devices) (Exemption) (Amendment) Regulations 2016 (S.I. 2016/615)](https://www.legislation.gov.uk/uksi/2016/615), [regs. 1](https://www.legislation.gov.uk/uksi/2016/615/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2016/615/regulation/2/2)
+
+[^key-12997cfec55f19ec3be01d784858cfab]: Commencement: Sch. 2 in force at 31.12.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/2066/regulation/1/1)

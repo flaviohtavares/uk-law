@@ -1,0 +1,73 @@
+---
+title: The Coal Industry Act 1994 (British Coal Corporation) Extinguishment of Loans Order 1995
+id: uksi/1995/509
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '1995-02-27'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1995/509
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1995/509/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Coal Industry Act 1994 (British Coal Corporation) Extinguishment of Loans Order 1995
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+1995 No. 509
+
+COAL INDUSTRY
+
+The Coal Industry Act 1994 (British Coal Corporation) Extinguishment of Loans Order 1995
+
+Made
+
+27th February 1995
+
+Laid before Parliament
+
+2nd March 1995
+
+Coming into force
+
+25th March 1995
+
+The Secretary of State, in exercise of the powers conferred on him by section 20(1) of the Coal Industry Act 1994[^f00001] and with the consent of the Treasury, hereby makes the following Order:—
+
+**1.** This Order may be cited as the Coal Industry Act 1994 (British Coal Corporation) Extinguishment of Loans Order 1995 and shall come into force on 25th March 1995.
+
+**2.** The liabilities of the British Coal Corporation to make repayments of capital of £1,598,400,000 and payments of interest of £34,466,803 in respect of sums lent to it out of money provided by Parliament pursuant to section 2 of the Coal Industry Act 1980[^f00002] are hereby extinguished.
+
+Richard Page
+
+Parliamentary Under Secretary for Industry and Energy,
+
+Department of Trade and Industry
+
+22nd February 1995
+
+We consent,
+
+Derek Conway
+
+Timothy Wood
+
+Two of the Lords Commissioners of Her Majesty’s Treasury
+
+27th February 1995
+
+(This note is not part of the Order)
+
+Section 20 of the Coal Industry Act [1994 (c. 21)](https://www.legislation.gov.uk/ukpga/1994/21) gives the Secretary of State power by order (with the consent of the Treasury) to extinguish the liabilities of the British Coal Corporation (“the Corporation”) to make repayments of capital and payments of interest in respect of sums lent to the Corporation out of money provided by Parliament. This Order extinguishes the liabilities of the Corporation to make repayments of capital of £1,598,400,000 and payments of interest of £34,466,803.
+
+## Annotations
+
+[^f00001]: Footnote: [1994 c. 21](https://www.legislation.gov.uk/ukpga/1994/21).
+
+[^f00002]: Footnote: [1980 c. 50](https://www.legislation.gov.uk/ukpga/1980/50); section 2 was amended by the Coal Industry Act [1987 (c. 3)](https://www.legislation.gov.uk/ukpga/1987/3), section 1(2) and Schedule 1, paragraph 36 and by section 3 of the Coal Industry Act [1990 (c. 3)](https://www.legislation.gov.uk/ukpga/1990/3). The Coal Industry Act 1994, section 67(8) and Schedule II, Part III, provides for the repeal of section 2 of the Coal Industry Act 1980 but the relevant provisions have not yet been brought into force.

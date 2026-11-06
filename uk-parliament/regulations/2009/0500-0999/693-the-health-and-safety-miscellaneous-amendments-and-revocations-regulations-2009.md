@@ -1,0 +1,400 @@
+---
+title: The Health and Safety (Miscellaneous Amendments and Revocations) Regulations 2009
+id: uksi/2009/693
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2009-03-11'
+text_date: '2014-10-01'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/uksi/2009/693
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2009/693/pdfs/uksiem_20090693_en.pdf
+- http://www.legislation.gov.uk/uksi/2009/693/pdfs/uksi_20090693_en.pdf
+- http://www.legislation.gov.uk/uksi/2009/693/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Health and Safety (Miscellaneous Amendments and Revocations) Regulations 2009
+
+> Text as at 2014-10-01.
+>
+> Extent: England, Wales, Scotland.
+
+*Extent: E+W+S*
+
+2009 No. 693
+
+Health And Safety
+
+The Health and Safety (Miscellaneous Amendments and Revocations) Regulations 2009
+
+Made
+
+11th March 2009
+
+Laid before Parliament
+
+16th March 2009
+
+Coming into force
+
+6th April 2009
+
+The Secretary of State makes these Regulations in exercise of the powers conferred upon him by section 143(2) of the Mines and Quarries Act 1954 [^c19606551], section 2(2) of the European Communities Act 1972 [^c19606561] and sections 15(1), (2), (3)(c), (5)(a) and (9), 18(2)(a) and 82(3)(a) of, and paragraphs 1(1), 4, 5, 6(1), 7, 9, 11, 13(2), 14 and 16, of Schedule 3 to, the Health and Safety at Work etc. Act 1974 [^c19606571] (“**the 1974 Act**”).
+
+The Secretary of State is a Minister designated in relation to the control and regulation of genetically modified organisms [^c19606581].
+
+In making these Regulations, and save as is referred to below, he gives effect without modifications to proposals submitted to him by the Health and Safety Executive under section 11(3) of the 1974 Act.
+
+Before submitting those proposals to the Secretary of State, the Health and Safety Executive consulted the bodies that appeared to it to be appropriate as required by section 50(3) of the 1974 Act.
+
+The Secretary of State makes sub-paragraphs (4)(a) and (c), (9)(a), (b)(ii), (d) and (e) and (10)(a) of paragraph 4 of Schedule 1 to these Regulations independently of those proposals to the extent that those provisions relate to, or are connected with, the insertion by these Regulations of regulation 13(4)(f) of the Manufacture and Storage of Explosives Regulations 2005 [^c19606591].
+
+In relation to the provisions made independently of the Health and Safety Executive's proposals and in accordance with section 50(1AA) of the 1974 Act, the Secretary of State has consulted the Health and Safety Executive and the other body which appeared to him to be appropriate to consult, namely, the Local Government Association.
+
+## 1. Citation and commencement
+
+These Regulations may be cited as the Health and Safety (Miscellaneous Amendments and Revocations) Regulations 2009 and shall come into force on 6<sup>th</sup> April 2009.
+
+## 2. Extension outside Great Britain
+
+The amendments made by regulation 3(1) and Schedule 1 to —
+
+- (a)[^key-d5e8fb5b2764f3c23e7070c696bcd8e7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^key-4a55be73f26c548dc1f4efe40e888041] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c) the Control of Noise at Work Regulations 2005 [^c19606611],
+
+shall apply outside Great Britain to the extent that they affect provisions of those Regulations which apply outside Great Britain by virtue of [^key-7103515d18e536eb67dd3661c4b6781d]... regulation 14 of the Control of Noise Regulations 2005.
+
+## 3. Amendments and revocations
+
+(1) The instruments referred to in Schedule 1 are amended in accordance with that Schedule.
+
+(2) The instruments referred to in Schedule 2 are revoked.
+
+Signed by authority of the Secretary of State for Work and Pensions
+
+William D.McKenzie.
+
+Parliamentary Under-Secretary of State
+
+Department for Work and Pensions
+
+## SCHEDULE 1 — AMENDMENTS
+
+Regulation 3(1)
+
+### 1. The Control of Explosives Regulations 1991[^key-8450fe1f684b6424ec6c1ca6ccc3b3b3]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 2. The Health and Safety (Enforcing Authority) Regulations 1998[^key-8abe8457d184bf06ddd68260393b7c95]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 3. The Genetically Modified Organisms (Contained Use) Regulations 2000
+
+For paragraph (7) of regulation 24 of the Genetically Modified Organisms (Contained Use) Regulations 2000 [^c19606661], substitute —
+
+> (7) Copies of the register as regards Great Britain shall be maintained at the offices of the Executive at Redgrave Court, Merton Road, Bootle, Merseyside, L20 7HS.
+
+.
+
+### 4. The Manufacture and Storage of Explosives Regulations 2005[^key-c1c2a5d645766e9806fdd59450bb30e0]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 5. The Control of Noise at Work Regulations 2005
+
+At the end of paragraph (4) of regulation 7 of the Control of Noise at Work Regulations 2005 [^c19606711], add —
+
+> and shall comply with any requirement of the Personal Protective Equipment Regulations 2002 [^c19606721] which is applicable to them.
+
+.
+
+## SCHEDULE 2 — REVOCATIONS
+
+Regulation 3(2)
+
+| *Title of instrument* | *Reference* |
+| --- | --- |
+| The Rotherham Main Mine (Employment Below Ground) Special Regulations 1957 | S.I. 1957/331 |
+| The Newman Spinney Mine (Electricity) Special Regulations 1958 | S.I. 1958/1168 |
+| The Loch Aline Mine (Diesel Vehicles) Special Regulations 1958 | S.I. 1958/1678 |
+| The Sandwith Anhydrite Mine (Electricity) Special Regulations 1959 | S.I. 1959/141 |
+| The Subwealden Mine (Diesel Vehicles) Special Regulations 1959 | S.I. 1959/1011 |
+| The Middleton-by-Wirksworth Limestone Mine (Diesel Vehicles) Special Regulations 1959 | S.I. 1959/1520 |
+| The Linby Mine (Refuge Holes) Special Regulations 1960 | S.I. 1960/132 |
+| The Parsonage Mine (Refuge Holes) Special Regulations 1960 | S.I. 1960/133 |
+| The Sandwith Anhydrite Mine (Explosives) Special Regulations 1960 | S.I. 1960/718 |
+| The Billingham Mine (Explosives) Special Regulations 1960 | S.I. 1960/724 |
+| The Riber Mine (Explosives) Special Regulations 1960 | S.I. 1960/1118 |
+| The Woodside Nos. 2 & 3 Mine (Diesel Vehicles) Special Regulations 1960 | S.I. 1960/1291 |
+| The Moorgreen (Waterloo) Mine (Diesel Vehicles) Special Regulations 1960 | S.I. 1960/2347 |
+| The Bestwood Mine (Diesel Vehicles) Special Regulations 1961 | S.I. 1961/241 |
+| The Bates Mine (Diesel Vehicles) Special Regulations 1961 | S.I. 1961/1273 |
+| The Hartley Bank Mine (Diesel Vehicles) Special Regulations 1961 | S.I. 1961/1973 |
+| The Sandwith Anhydrite Mine (Diesel Vehicles) Special Regulations 1961 | S.I. 1961/2305 |
+| The Grimethorpe Mine (Diesel Vehicles) Special Regulations 1961 | S.I. 1961/2444 |
+| The Lynemouth Mine (Diesel Vehicles and Storage Battery Vehicles) Special Regulations 1961 | S.I. 1961/2445 |
+| The Dollar Nos. 4 and 5 Mine (Diesel Vehicles) Special Regulations 1962 | S.I. 1962/13 |
+| The Lingdale Mine (Diesel Vehicles) Special Regulations 1962 | S.I. 1962/49 |
+| The Golborne Mine (Diesel Vehicles) Special Regulations 1962 | S.I. 1962/617 |
+| The Usworth Mine (Diesel Vehicles) Special Regulations 1962 | S.I. 1962/719 |
+| The Lea Hall Mine (Diesel Vehicles) Special Regulations 1962 | S.I. 1962/735 |
+| The North Skelton Mine (Diesel Vehicles) Special Regulations 1962 | S.I. 1962/763 |
+| The Calverton Mine (Diesel Vehicles) Special Regulations 1962 | S.I. 1962/931 |
+| The New Stamphill Mine (Diesel Vehicles) Special Regulations 1962 | S.I. 1962/1002 |
+| The Coppice Mine (Diesel Vehicles) Special Regulations 1962 | S.I. 1962/1020 |
+| The Brightling Mine (Diesel Vehicles) Special Regulations 1962 | S.I. 1962 1094 |
+| The Horden Mine (Diesel Vehicles) Special Regulations 1962 | S.I. 1962/1096 |
+| The Sutton Manor Mine (Steam Boilers) Special Regulations 1962 | S.I. 1962/1286 |
+| The Easington Mine (Diesel Vehicles) Special Regulations 1962 | S.I. 1962/1676 |
+| The Boldon Mine (Diesel Vehicles) Special Regulations 1962 | S.I. 1962/1729 |
+| The Harton Mine (Diesel Vehicles) Special Regulations 1962 | S.I. 1962/1730 |
+| The Heworth Mine (Diesel Vehicles) Special Regulations 1962 | S.I. 1962/1731 |
+| The Wardley Mine (Diesel Vehicles) Special Regulations 1962 | S.I. 1962/1732 |
+| The Washington “F” Mine (Diesel Vehicles) Special Regulations 1962 | S.I. 1962/1733 |
+| The Rufford Mine (Diesel Vehicles) Special Regulations 1962 | S.I. 1962/2059 |
+| The Trelewis Drift Mine (Diesel Vehicles) Special Regulations 1962 | S.I. 1962/2114 |
+| The Wharncliffe Woodmoor 4 and 5 Mine (Diesel Vehicles) Special Regulations 1962 | S.I. 1962/2193 |
+| The Seaham Mine (Diesel Vehicles) Special Regulations 1962 | S.I. 1962/2512 |
+| The Denby Grange Mine (Refuge Holes) Special Regulations 1962 | S.I. 1962/2578 |
+| The Bold Mine (Diesel Vehicles) Special Regulations 1963 | S.I. 1963/28 |
+| The Newstead Mine (Diesel Vehicles) Special Regulations 1963 | S.I. 1963/45 |
+| The Dawdon Mine (Diesel Vehicles) Special Regulations 1963 | S.I. 1963/118 |
+| The Lambton “D” Mine (Diesel Vehicles) Special Regulations 1963 | S.I. 1963/132 |
+| The Herrington Mine (Diesel Vehicles) Special Regulations 1963 | S.I. 1963/353 |
+| The Thoresby Mine (Diesel Vehicles) Special Regulations 1963 | S.I. 1963/825 |
+| The Mainsforth Mine (Diesel Vehicles) Special Regulations 1963 | S.I. 1963/889 |
+| The Cousland No. 2 Mine (Diesel Vehicles) Special Regulations 1963 | S.I. 1963/1035 |
+| The Westoe Mine (Diesel Vehicles) Special Regulations 1963 | S.I. 1963/1096 |
+| The Ledston Luck Mine (Diesel Vehicles) Special Regulations 1963 | S.I. 1963/1117 |
+| The Nostell Mine (Refuge Holes) Special Regulations 1963 | S.I. 1963/1137 |
+| The Hem Heath Mine (Diesel Vehicles) Special Regulations 1963 | S.I. 1963/1197 |
+| The Abernant Mine (Diesel Vehicles) Special Regulations 1963 | S.I. 1963/1335 |
+| The Skelpie Mine (Diesel Vehicles) Special Regulations 1963 | S.I. 1963/1469 |
+| The Blaengwrach New Mine (Diesel Vehicles) Special Regulations 1963 | S.I. 1963/1470 |
+| The Albion Mine (Diesel Vehicles) Special Regulations 1963 | S.I. 1963/1536 |
+| The Markham Main Mine (Steam Boilers) Special Regulations 1963 | S.I. 1963/1545 |
+| The Silverwood Mine (Diesel Vehicles) Special Regulations 1963 | S.I. 1963/1618 |
+| The Fforchaman Mine (Diesel Vehicles) Special Regulations 1963 | S.I. 1963/1778 |
+| The Merry Lees Mine (Diesel Vehicles) Special Regulations 1964 | S.I. 1964/239 |
+| The Harelawhill Mine (Diesel Vehicles) Special Regulations 1964 | S.I. 1964/378 |
+| The Marley Hill Mine (Diesel Vehicles) Special Regulations 1964 | S.I. 1964/379 |
+| The Prince of Wales Mine (Diesel Vehicles) Special Regulations 1964 | S.I. 1964/539 |
+| The Kellingley Mine (Diesel Vehicles) Special Regulations 1964 | S.I. 1964/567 |
+| The Ormonde Mine (Diesel Vehicles) Special Regulations 1964 | S.I. 1964/616 |
+| The Eden/South Medomsley Mine (Diesel Vehicles) Special Regulations 1964 | S.I. 1964/660 |
+| The Denby Hall Mine (Diesel Vehicles) Special Regulations 1964 | S.I. 1964/669 |
+| The Newbiggin Mine (Diesel Vehicles) Special Regulations 1964 | S.I. 1964/899 |
+| The Cwmgwili Mine (Diesel Vehicles) Special Regulations 1964 | S.I. 1964/1225 |
+| The Ryhope Mine (Diesel Vehicles) Special Regulations 1964 | S.I. 1964/1418 |
+| The Wearmouth Mine (Diesel Vehicles) Special Regulations 1964 | S.I. 1964/1476 |
+| The Pleasley Mine (Diesel Vehicles) Special Regulations 1964 | S.I. 1964/1614 |
+| The Huncoat Mine (Diesel Vehicles) Special Regulations 1964 | S.I. 1964/1952 |
+| The Nailstone Mine (Precautions against Inrushes) Special Regulations 1964 | S.I. 1964/1773 |
+| The Blackhall Mine (Diesel Vehicles) Special Regulations 1965 | S.I. 1965/41 |
+| The Langley Park Mine (Diesel Vehicles) Special Regulations 1965 | S.I. 1965/272 |
+| The Brandon Pit House Mine (Diesel Vehicles) Special Regulations 1965 | S.I. 1965/539 |
+| The South Crofty Mine (Locomotives) Special Regulations 1965 | S.I. 1965/759 |
+| The Bevercotes Mine (Diesel Vehicles) Special Regulations 1965 | S.I. 1965/1194 |
+| The Fishburn Mine (Diesel Vehicles) Special Regulations 1965 | S.I. 1965/1430 |
+| The Stafford Mine (Diesel Vehicles) Special Regulations 1965 | S.I. 1965/1699 |
+| The Astley Green Mine (Steam Boilers) Special Regulations 1965 | S.I. 1965/1915 |
+| The Trimdon Grange Mine (Diesel Vehicles) Special Regulations 1965 | S.I. 1965/1997 |
+| The East Hetton Mine (Diesel Vehicles) Special Regulations 1966 | S.I. 1966/141 |
+| The Dean and Chapter Nos. 1, 2 and 3 Mine (Diesel Vehicles) Special Regulations 1966 | S.I. 1966/350 |
+| The Thorny Bank Mine (Diesel Vehicles) Special Regulations 1966 | S.I. 1966/475 |
+| The Cairn Hill Mine (Refuge Holes) Special Regulations 1966 | S.I. 1966/777 |
+| The Arley Mine (Diesel Vehicles) Special Regulations 1966 | S.I. 1966/979 |
+| The Sallet Hole Mine (Storage Battery Locomotives) Special Regulations 1966 | S.I. 1966/1325 |
+| The Ellington Mine (Diesel Vehicles and Storage Battery Vehicles) Special Regulations 1967 | S.I. 1967/956 |
+| The Haig Mine (Diesel Vehicles) Special Regulations 1967 | S.I. 1967/1291 |
+| The Glebe Mine (Locomotives and Diesel Vehicles) Special Regulations 1967 | S.I. 1967/1335 |
+| The Groverake Mine (Storage Battery Locomotives) Special Regulations 1967 | S.I. 1967/1545 |
+| The Fauld Mine (Diesel Vehicles) Special Regulations 1968 | S.I. 1968/1295 |
+| The Brenkley Mine (Endless Rope Haulage) Special Regulations 1969 | S.I. 1969/559 |
+| The Bagworth Mine (Pass-Byes) (Revocation) Special Regulations 1969 | S.I. 1969/727 |
+| The Lynemouth Mine (Cable Reel Shuttle Cars) Special Regulations 1969 | S.I. 1969/799 |
+| The Ellington Mine (Cable Reel Shuttle Cars) Special Regulations 1969 | S.I. 1969/800 |
+| The Prince of Wales Mine (Captive Rail Diesel Locomotives) Special Regulations 1969 | S.I. 1969/1377 |
+| The Whiteheaps Mine (Storage Battery Locomotives) Special Regulations 1969 | S.I. 1969/1592 |
+| The Blackdene Mine (Storage Battery Locomotives) Special Regulations 1969 | S.I. 1969/1876 |
+| The Bullcliffe Wood Mine (Suspended Chair Haulage Apparatus) Special Regulations 1970 | S.I. 1970/36 |
+| The Aberpergwm Mine (Diesel Vehicles) Special Regulations 1970 | S.I. 1970/613 |
+| The Blidworth Mine (Man-riding) (Revocation) Special Regulations 1970 | S.I. 1970/1122 |
+| The New Stubbin Mine (Diesel Vehicles) (Revocation) Special Regulations 1970 | S.I. 1970/1174 |
+| The Creswell Mine (Winding and Haulage) Special Regulations 1970 | S.I. 1970/1230 |
+| The Maltby Main Mine (Methane Gas-Fired Steam Boilers) Special Regulations 1970 | S.I. 1970/1428 |
+| The West Cannock No. 5 Mine (Diesel Vehicles) Special Regulations 1971 | S.I. 1971/28 |
+| The Winsford Rock Salt Mine (Diesel Vehicles and Storage Battery Vehicles) Special Regulations 1971 | S.I. 1971/50 |
+| The Lynemouth Mine (Cable Reel Shuttle Cars) (Amendment) Special Regulations 1971 | S.I. 1971/111 |
+| The Ellington Mine (Cable Reel Shuttle Cars) (Amendment) Special Regulations 1971 | S.I. 1971/139 |
+| The Silverwood Mine (Methane Gas-Fired Steam Boilers) Special Regulations 1971 | S.I. 1971/1325 |
+| The Ashington Mine (Endless Rope Haulage) Special Regulations 1971 | S.I. 1971/1578 |
+| The Littleton Mine (Refuge Holes) Special Regulations 1971 | S.I. 1971/1703 |
+| The Riddings Drift Mine (Rope Hauled Sledge) Special Regulations 1971 | S.I. 1971/1704 |
+| The Cotgrave Mine (Electric Lighting for Cinematography) Special Regulations 1972 | S.I. 1972/371 |
+| The Marblaegis Mine (Diesel Vehicles) Special Regulations 1972 | S.I. 1972/984 |
+| The Hatfield/Thorne Mine (Chain Haulage) Special Regulations 1972 | S.I. 1972/1163 |
+| The Easington Mine (Man-riding) (Revocation) Special Regulations 1972 | S.I. 1972/1179 |
+| The Savile Mine (Rope Hauled Sledge) Special Regulations 1972 | S.I. 1972/1180 |
+| The Creswell Mine (Light Water Container Barrier) Special Regulations 1972 | S.I. 1972/1351 |
+| The Vane Tempest Mine (Diesel Vehicles) (Revocation) Special Regulations 1972 | S.I. 1972/1364 |
+| The Vane Tempest Mine (Endless Rope Haulage) Special Regulations 1972 | S.I. 1972/1357 |
+| The Ledston Luck Mine (Rope Hauled Sledge) Special Regulations 1972 | S.I. 1972/1389 |
+| The Hucknall Mine (Endless Rope Haulage) Special Regulations 1972 | S.I. 1972/1630 |
+| The Glass Houghton Mine (Rope Hauled Sledge) Special Regulations 1972 | S.I. 1972/1831 |
+| The Bentinck Mine (Endless Rope Haulage) Special Regulations 1972 | S.I. 1972/1952 |
+| The Newstead Mine (Endless Rope Haulage) Special Regulations 1972 | S.I. 1972/2036 |
+| The Longriggs Mine (Diesel Vehicles) Special Regulations 1973 | S.I. 1973/371 |
+| The Nostell Mine (Endless Rope Haulage) Special Regulations 1973 | S.I. 1973/737 |
+| The Pye Hill Mine (Endless Rope Haulage) Special Regulations 1973 | S.I. 1973/917 |
+| The Savile Mine (Diesel Vehicles) Special Regulations 1973 | S.I. 1973/940 |
+| The Calverton Mine (Endless Rope Haulage) Special Regulations 1973 | S.I. 1973/1003 |
+| The Cadley Hill Mine (Endless Rope Haulage) Special Regulations 1973 | S.I. 1973/1005 |
+| The Annesley Mine (Endless Rope Haulage) Special Regulations 1973 | S.I. 1973/1041 |
+| The Whitwick Mine (Endless Rope Haulage) Special Regulations 1973 | S.I. 1973/1042 |
+| The Cotgrave Mine (Endless Rope Haulage) Special Regulations 1973 | S.I. 1973/1043 |
+| The Linby Mine (Endless Rope Haulage) Special Regulations 1973 | S.I. 1973/1044 |
+| The Gedling Mine (Endless Rope Haulage) Special Regulations 1973 | S.I. 1973/1073 |
+| The Babbington Mine (Endless Rope Haulage) Special Regulations 1973 | S.I. 1973/1074 |
+| The Ash Grove No. 1 Mine (Diesel Vehicles) Special Regulations 1973 | S.I. 1973/1206 |
+| The Creswell Mine (Light Water Container Barrier) Special Regulations 1973 | S.I. 1973/1339 |
+| The Bagworth Mine (Endless Rope Haulage) Special Regulations 1973 | S.I. 1973/1499 |
+| The Rawdon Mine (Endless Rope Haulage) Special Regulations 1973 | S.I. 1973/1524 |
+| The Moorgreen Mine (Endless Rope Haulage) Special Regulations 1973 | S.I. 1973/1633 |
+| The Bates Mine (Endless Rope Haulage) Special Regulations 1973 | S.I. 1973/1689 |
+| The Elsecar Main Mine (Diesel Vehicles) Special Regulations 1974 | S.I. 1974/710 |
+| The Cynheidre/Pentremawr (Escape Breathing Apparatus) Special Regulations 1974 | S.I. 1974/1101 |
+| The Bilsthorpe Mine (Endless Rope Haulage) Special Regulations 1974 | S.I. 1974/1176 |
+| The Rixey Park Mine (Storage Battery Locomotives) Special Regulations 1974 | S.I. 1974/1866 |
+| The Collins Green Mine (Employment Below Ground) Special Regulations 1974 | S.I. 1974/1917 |
+| The Desford Mine (Endless Rope Haulage) Special Regulations 1974 | S.I. 1974/1963 |
+| The Silverdale Mine (Endless Rope Haulage) Special Regulations 1974 | S.I. 1974/2049 |
+| The Whitwick Mine (Diesel Vehicles) Special Regulations 1974 | S.I. 1974/2112 |
+| The Markham Main Mine (Endless Rope Haulage) Special Regulations 1974 | S.I. 1974/2198 |
+| The Frickley/South Elmsall Mine (Endless Rope Haulage) Special Regulations 1974 | S.I. 1974/2199 |
+| The Ellistown Mine (Endless Rope Haulage) Special Regulations 1974 | S.I. 1974/2200 |
+| The Hatfield/Thorne Mine (Endless Rope Haulage) Special Regulations 1974 | S.I. 1974/2201 |
+| The Santon Main Mine (Diesel Vehicles) Special Regulations 1974 | S.I. 1974/2217 |
+| The Askern Mine (Endless Rope Haulage) Special Regulations 1974 | S.I. 1974/2218 |
+| The Kellingley Mine (Endless Rope Haulage) Special Regulations 1974 | S.I. 1974/2219 |
+| The Measham Mine (Endless Rope Haulage) Special Regulations 1974 | S.I. 1974/2220 |
+| The Kiveton Park Mine (Diesel Vehicles) Special Regulations 1974 | S.I. 1974/2224 |
+| The Shilbottle Mine (Endless Rope Haulage) Special Regulations 1975 | S.I. 1975/1078 |
+| The Baddesley Mine (Endless Rope Haulage) Special Regulations 1976 | S.I. 1976/27 |
+| The Birch Coppice Mine (Endless Rope Haulage) Special Regulations 1976 | S.I. 1976/28 |
+| The High Moor Mine (Endless Rope Haulage) Special Regulations 1976 | S.I. 1976/43 |
+| The Warsop Main Mine (Endless Rope Haulage) Special Regulations 1976 | S.I. 1976/44 |
+| The Snibston Mine (Endless Rope Haulage) Special Regulations 1976 | S.I. 1976/82 |
+| The Monktonhall Mine (Endless Rope Haulage) Special Regulations 1976 | S.I. 1976/479 |
+| The Snibston Mine (Diesel Vehicles) Special Regulations 1976 | S.I. 1976/480 |
+| The Bogside Mine (Endless Rope Haulage) Special Regulations 1976 | S.I. 1976/482 |
+| The Polkemmet Mine (Endless Rope Haulage) Special Regulations 1976 | S.I. 1976/483 |
+| The Arkwright Mine (Endless Rope Haulage) Special Regulations 1976 | S.I. 1976/484 |
+| The Bolsolver Mine (Endless Rope Haulage) Special Regulations 1976 | S.I. 1976/485 |
+| The Shirebrook Mine (Endless Rope Haulage) Special Regulations 1976 | S.I. 1976/486 |
+| The Westthorpe Mine (Endless Rope Haulage) Special Regulations 1976 | S.I. 1976/487 |
+| The Daw Mill Mine (Endless Rope Haulage) Regulations 1976 | S.I. 1976/556 |
+| The Whitwell Mine (Endless Rope Haulage) Special Regulations 1976 | S.I. 1976/967 |
+| The Seafield Mine (Endless Rope Haulage) Special Regulations 1976 | S.I. 1976/1445 |
+| The Solsgirth Nos. 1 & 2 Mine (Endless Rope Haulage) Special Regulations 1976 | S.I. 1976/1607 |
+| The Killoch Mine (Endless Rope Haulage) Special Regulations 1976 | S.I. 1976/1608 |
+| The Bilston Glen Mine (Endless Rope Haulage) Special Regulations 1976 | S.I. 1976/1609 |
+| The New Hucknall Mine (Endless Rope Haulage) Special Regulations 1976 | S.I. 1976/1610 |
+| The Cardowan Mine (Endless Rope Haulage) Regulations 1976 | S.I. 1976/1612 |
+| The Yorkshire Main Mine (Endless Rope Haulage) Regulations 1976 | S.I. 1976/1654 |
+| The Frances Mine (Endless Rope Haulage) Regulations 1976 | S.I. 1976/1655 |
+| The High Moor Mine (Diesel Vehicles) Regulations 1976 | S.I. 1976/1733 |
+| The Markham Mine (Diesel Vehicles) Regulations 1976 | S.I. 1976/1734 |
+| The Blackdene Mine (Storage Battery Locomotives) Special Regulations 1976 | S.I. 1976/1827 |
+| The Bentinck Mine (Diesel Engined Stone Dusting Machine) Regulations 1976 | S.I. 1976/2046 |
+| The High Moor Mine (Cable Reel Shuttle Cars) Regulations 1976 | S.I. 1976/2052 |
+| The Bentley Mine (Endless Rope Haulage) Regulations 1977 | S.I. 1977/203 |
+| The Murton Mine (Endless Rope Haulage) Regulations 1977 | S.I. 1977/225 |
+| The Donisthorpe Mine (Endless Rope Haulage) Regulations 1977 | S.I. 1977/243 |
+| The Rossington Mine (Endless Rope Haulage) Regulations 1977 | S.I. 1977/483 |
+| The Goldthorpe/Highgate Mine (Endless Rope Haulage) Regulations 1977 | S.I. 1977/658 |
+| The Ireland Mine (Diesel Vehicles) Regulations 1977 | S.I. 1977/735 |
+| The Dinnington Main Mine (Revocation of Special Regulations) Regulations 1977 | S.I. 1977/737 |
+| The Blaenserchan Mine (Diesel Vehicles) Regulations 1977 | S.I. 1977/917 |
+| The Parsonage Mine (Endless Rope Haulage) Regulations 1977 | S.I. 1977/1593 |
+| The Hapton Valley Mine (Diesel Vehicles) Regulations 1977 | S.I. 1977/1696 |
+| The Treeton Mine (Refuge Holes) Special Regulations 1977 | S.I. 1977/1758 |
+| The Golborne Mine (Endless Rope Haulage) Regulations 1977 | S.I. 1977/1855 |
+| The Cynheidre/Pentremawr Mine (Escape Breathing Apparatus) (Amendment) Regulations 1977 | S.I. 1977/2036 |
+| The Cwmgwili Mine (Escape Breathing Apparatus) Regulations 1977 | S.I. 1977/2106 |
+| The Gascoigne Wood Mine (Refuge Holes) Regulations 1978 | S.I. 1978/33 |
+| The Thoresby Mine (Cable Reel Load-Haul-Dump Vehicles) Regulations 1978 | S.I. 1978/119 |
+| The Sallet Hole Nos. 1 & 2 Mines (Diesel Vehicles) Regulations 1978 | S.I. 1978/761 |
+| The Trelewis Drift Mine (Diesel Vehicles) Regulations 1978 | S.I. 1978/1376 |
+| The High Moor Mine (Cable Reel Load-Haul-Dump Vehicles) Regulations 1979 | S.I. 1979/1293 |
+| The Boulby Mine (Diesel Vehicles) Regulations 1979 | S.I. 1979/1532 |
+| The Whitwell Mine (Teleplatform Haulage and Refuge Holes) Regulations 1979 | S.I. 1979/1769 |
+| The Sallet Hole No. 2 Mine (Storage Battery Locomotives) Special Regulations 1980 | S.I. 1980/1203 |
+| The Harworth Mine (Cable Reel Load-Haul-Dump Vehicles) Regulations 1980 | S.I. 1980/1474 |
+| The Point of Ayr Mine (Diesel Vehicles) Regulations 1980 | S.I. 1980/1705 |
+| The Glebe Mine (Locomotives and Diesel Vehicles) Special Regulations 1981 | S.I. 1981/1502 |
+| The Mines (Endless Rope Haulage) Regulations 1983 | S.I. 1983/711 |
+| The Point of Ayr and Cadley Hill Mines (Drift) Regulations 1983 | S.I. 1983/712 |
+| The Houghton Main Mine (Steam Boilers) Regulations 1983 | S.I. 1983/1360 |
+| The Kellingley Mine (Steam Boilers) Regulations 1985 | S.I. 1985/1162 |
+| The Gascoigne Wood Mine (Refuge Platforms) Regulations 1985 | S.I. 1985/1262 |
+
+*(This note is not part of the Regulations)*
+
+**1.** These Regulations amend five sets of Regulations, which are referred to below, and revoke a number of old Regulations concerning mines (*regulation 3 and Schedule**1)*.
+
+**2.** In addition to making minor and drafting amendments, these Regulations make the following changes of substance.
+
+**3.** The maximum period of validity of an explosives certificate under the Control of Explosives Regulations 1991 (S.I. 1991/1531) is now extended to five years. The amendments made get rid of the distinction between periods of validity for explosives certificates relating to the acquisition and keeping of explosives and those for acquisition only. The former were up to three years and are now up to five and the latter were up to one year but are now also up to five. The definition of chief officer of police is changed so that it is linked to statutory provisions and the power to delegate the chief office of police's functions under those Regulations is now provided for in a separate provision. Certain model rocket motors are added to the list of explosives in Schedule 1 to those Regulations, which relates to exceptions to the Regulations (*paragraph 1 of Schedule**1*).
+
+**4.** The Health and Safety (Enforcing Authority) Regulations 1998 (S.I. 1998/494) are amended so that the Health and Safety Executive (“**the Executive**”) is the enforcing authority for the storage of ammonium nitrate blasting intermediate. The amendments also make the Executive the enforcing authority for section 25 of the Manufacture and Storage of Explosives Regulations 2005 (S.I 2005/1082) (“**the 2005 Regulations**”) at sites in relation to which it has granted a person a licence to manufacture or store explosives or registered a person for such storage (*paragraph 2 of Schedule**1*).
+
+**5.** The amendment to the Genetically Modified Organisms (Contained Use) Regulations 2000 (S.I. 2000/2831) reflects a change of address at which copies are to be maintained of the register as regards Great Britain of notifications of activities involving genetic modification of micro-organisms. The copies are now to be maintained at the offices of the Executive at Redgrave Court, Merton Road, Bootle, Merseyside, L20 7HS (*paragraph 3 of Schedule**1*).
+
+**6.** The amendments to the 2005 Regulations include the following. The period for which a registration may be granted by the Executive, or a chief officer of police, is extended to five years; but if the applicant has an explosive certificate, the period is to be up to the expiry date of that certificate. The requirement of regulation 13 of the 2005 Regulations for local authority assent before a licence may be granted is disapplied in two cases. Firstly, where the application is for a licence to follow a licence which was granted to follow a “deemed licence” within the meaning of the 2005 Regulations and, secondly, where the police are applying for a licence to manufacture explosives for their operational purposes or training in those purposes. In those cases, the requirements of regulation 5(1) of the 2005 Regulations as to separation distances are also disapplied. Regulation 16 of the 2005 Regulations is amended so that a licensing authority may vary a registration. Regulation 20 of the 2005 Regulations now provides that a transfer of a licence or a registration is to be refused if the licensing authority is of the opinion that the applicant is not a fit person to store or manufacture explosives, as the case may be. A new regulation 25A is added, placing a duty on manufacturers, importers and suppliers of pyrotechnic articles to ensure, so far as is reasonably practicable, that the net mass of explosive in the article does not exceed the amount they have specified on the article, its packaging or its accompanying document (*paragraph 4 of Schedule**1*).
+
+**7.** The amendment in Schedule 1 to the Control of Noise at Work Regulations 2005 is for fully implementing Article 6(1) of Directive [2003/10/EC](https://www.legislation.gov.uk/european/directive/2003/0010) (OJ No. L42, 15.2.2003, p.38) on the minimum health and safety requirements regarding the exposure of workers to the risks arising from physical agents (noise) (seventeenth individual Directive within the meaning of Article 16(1) of Directive [89/391/EEC](https://www.legislation.gov.uk/european/directive/1989/0391)) read with Article 4(1) of Council Directive [89/656/EEC](https://www.legislation.gov.uk/european/directive/1989/0656) on the minimum health and safety requirements for the use by workers of personal protective equipment at the workplace (OJ No. L393, 30.12.1989, p. 18 – 28) (*paragraph 5 of Schedule**1*).
+
+**8.** The revocations in Schedule 2 are of regulations, many of them special regulations for the purposes of the Mines and Quarries Act 1954, governing mines which have either been closed permanently or where the mechanical systems which were once used in them, and which the regulations concern, are no longer used.
+
+**9.** A full impact assessment prepared of the effect that this instrument will have on the costs of business is available from the Health and Safety Executive's website (http://www.hse.gov.uk/ria) and the Better Regulation Executive's Impact Assessment library (http://www.ialibrary.berr.gov.uk). A copy of the impact assessment can also be requested from the Health and Safety Executive at 5S.3 Redgrave Court, Merton Road, Merseyside, L20 7HS. A copy is also annexed to the Explanatory Memorandum which is available alongside the instrument on the Office of Public Sector Information's website (http: www.opsi.gov.uk/legislation.uk.htm).
+
+## Annotations
+
+[^c19606551]: Marginal citation: [1954 c. 70 (2 & 3 Eliz. 2)](https://www.legislation.gov.uk/ukpga/Eliz2/2-3/70); subsections (1) to (4) of section 141, which included the power to make regulations, were repealed by [S.I. 1974/2013](https://www.legislation.gov.uk/uksi/1974/2013), with a saving for regulations made and in force under that section; [section 143(2)](https://www.legislation.gov.uk/uksi/2009/693/section/143/2) provides an express power to revoke special regulations.
+
+[^c19606561]: Marginal citation: [1972 c.68](https://www.legislation.gov.uk/ukpga/1972/68). As regards Scotland, see also section 57(1) of the [Scotland Act 1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46), which provides that, despite the transfer to the Scottish Ministers by virtue of that Act of functions in relation to the observing and implementing obligations under community law, any function of a Minister of the Crown in relation to any matter shall continue to be exercisable by him as regards Scotland for the purposes specified in section 2(2) of the European Communities Act 1972.
+
+[^c19606571]: Marginal citation: [1974 c.37](https://www.legislation.gov.uk/ukpga/1974/37). Section 11 is substituted by [S.I. 2008/960](https://www.legislation.gov.uk/uksi/2008/960); [sections 15(1)](https://www.legislation.gov.uk/uksi/2009/693/section/15/1) and 50(3) are amended by the [Employment Protection Act 1975 (c. 71)](https://www.legislation.gov.uk/ukpga/1975/71), [Schedule 15](https://www.legislation.gov.uk/ukpga/1975/71/schedule/15), [paragraphs 6](https://www.legislation.gov.uk/ukpga/1975/71/paragraph/6) and 16 respectively; [section 50(3)](https://www.legislation.gov.uk/uksi/2009/693/section/50/3) is further amended by the Health Protection Agency Act 2004, Schedule 3, paragraph 5(1) and (3) and [S.I. 2008/960](https://www.legislation.gov.uk/uksi/2008/960), which also inserts section 50(1AA).
+
+[^c19606581]: Marginal citation: [S.I. 1991/755](https://www.legislation.gov.uk/uksi/1991/755).
+
+[^c19606591]: Marginal citation: [S.I. 2005/1082](https://www.legislation.gov.uk/uksi/2005/1082), amended by [S.I. 2007/2598](https://www.legislation.gov.uk/uksi/2007/2598).
+
+[^key-d5e8fb5b2764f3c23e7070c696bcd8e7]: Textual amendment: Reg. 2(a) omitted (1.10.2014) by virtue of [The Explosives Regulations 2014 (S.I. 2014/1638)](https://www.legislation.gov.uk/uksi/2014/1638), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/1638/regulation/1/1), [Sch. 13 para. 22(a)](https://www.legislation.gov.uk/uksi/2014/1638/schedule/13/paragraph/22/a), Sch. 14 Pt. 2
+
+[^key-4a55be73f26c548dc1f4efe40e888041]: Textual amendment: Reg. 2(b) omitted (1.10.2014) by virtue of [The Explosives Regulations 2014 (S.I. 2014/1638)](https://www.legislation.gov.uk/uksi/2014/1638), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/1638/regulation/1/1), [Sch. 13 para. 22(a)](https://www.legislation.gov.uk/uksi/2014/1638/schedule/13/paragraph/22/a), Sch. 14 Pt. 2
+
+[^c19606611]: Marginal citation: [S.I. 2005/1643](https://www.legislation.gov.uk/uksi/2005/1643).
+
+[^key-7103515d18e536eb67dd3661c4b6781d]: Textual amendment: Words in reg. 2 omitted (1.10.2014) by virtue of [The Explosives Regulations 2014 (S.I. 2014/1638)](https://www.legislation.gov.uk/uksi/2014/1638), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/1638/regulation/1/1), [Sch. 13 para. 22(b)](https://www.legislation.gov.uk/uksi/2014/1638/schedule/13/paragraph/22/b)
+
+[^key-8450fe1f684b6424ec6c1ca6ccc3b3b3]: Textual amendment: [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2009/693/schedule/1/paragraph/1) revoked (1.10.2014) by [The Explosives Regulations 2014 (S.I. 2014/1638)](https://www.legislation.gov.uk/uksi/2014/1638), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/1638/regulation/1/1), [Sch. 14 Pt. 2](https://www.legislation.gov.uk/uksi/2014/1638/schedule/14/part/2)
+
+[^key-8abe8457d184bf06ddd68260393b7c95]: Textual amendment: [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2009/693/schedule/1/paragraph/2) revoked (1.10.2014) by [The Explosives Regulations 2014 (S.I. 2014/1638)](https://www.legislation.gov.uk/uksi/2014/1638), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/1638/regulation/1/1), [Sch. 14 Pt. 2](https://www.legislation.gov.uk/uksi/2014/1638/schedule/14/part/2)
+
+[^c19606661]: Marginal citation: [S.I. 2000/2831](https://www.legislation.gov.uk/uksi/2000/2831), to which there are amendments not relevant to these Regulations.
+
+[^key-c1c2a5d645766e9806fdd59450bb30e0]: Textual amendment: [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2009/693/schedule/1/paragraph/4) revoked (1.10.2014) by [The Explosives Regulations 2014 (S.I. 2014/1638)](https://www.legislation.gov.uk/uksi/2014/1638), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/1638/regulation/1/1), [Sch. 14 Pt. 2](https://www.legislation.gov.uk/uksi/2014/1638/schedule/14/part/2)
+
+[^c19606711]: Marginal citation: [S.I. 2005/1643](https://www.legislation.gov.uk/uksi/2005/1643).
+
+[^c19606721]: Marginal citation: [S.I. 2002/1144](https://www.legislation.gov.uk/uksi/2002/1144), to which there are amendments not relevant to these Regulations.

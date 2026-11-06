@@ -1,0 +1,60 @@
+---
+title: Finance Act 2014, section 214
+act: Finance Act 2014
+section: '214'
+status: revised-with-pending-changes
+text_date: '2026-06-25'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2014/26/section/214
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Finance Act 2014, section 214
+
+> **Warning: changes not yet applied to this text (30).** Text as at 2026-06-25. See https://www.legislation.gov.uk/changes/affected/ukpga/2014/26
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 214. Appeal against a section 208 penalty
+
+*Extent: E+W+S+N.I.*
+
+(1) P may appeal against a decision of HMRC that a penalty is payable by P under section 208.
+
+(2) P may appeal against a decision of HMRC as to the amount of a penalty payable by P under section 208.
+
+(3) The grounds on which an appeal under subsection (1) may be made include in particular—
+
+- (a) that Condition A, B or D in section 204 was not met in relation to the follower notice,
+- (b) that the judicial ruling specified in the notice is not one which is relevant to the chosen arrangements,
+- (c) that the notice was not given within the period specified in subsection (6) of that section, or
+- (d) that it was reasonable in all the circumstances for P not to have taken the necessary corrective action (see section 208(4)) in respect of the denied advantage.
+
+(4) An appeal under this section must be made within the period of 30 days beginning with the day on which notification of the penalty is given under section 211.
+
+(5) An appeal under this section is to be treated in the same way as an appeal against an assessment to the tax concerned (including by the application of any provision about bringing the appeal by notice to HMRC, about HMRC's review of the decision or about determination of the appeal by the First-tier Tribunal or Upper Tribunal).
+
+(6) Subsection (5) does not apply—
+
+- (a) so as to require a person to pay a penalty before an appeal against the assessment of the penalty is determined, or
+- (b) in respect of any other matter expressly provided for by this Part.
+
+(7) In this section a reference to an assessment to tax, in relation to inheritance tax, is to a determination.
+
+(8) On an appeal under subsection (1), the tribunal may affirm or cancel HMRC's decision.
+
+(8A)[^key-636d2d84d0181d5ede9bd5bf7188ffac] If the tribunal cancels a decision of HMRC that a penalty is payable by P under section 208, any penalty additional to that penalty to which P is liable under section 208A is also cancelled.
+
+(9) On an appeal under subsection (2), the tribunal may—
+
+- (a) affirm HMRC's decision, or
+- (b) substitute for HMRC's decision another decision that HMRC had power to make.
+
+(10) The cancellation under subsection (8) of HMRC's decision on the ground specified in subsection (3)(d) does not affect the validity of the follower notice, or of any accelerated payment notice or partner payment notice under Chapter 3 related to the follower notice.
+
+(11) In this section “**tribunal**” means the First-tier Tribunal or Upper Tribunal (as appropriate by virtue of subsection (5)).
+
+## Annotations
+
+[^key-636d2d84d0181d5ede9bd5bf7188ffac]: Textual amendment: [S. 214(8A)](https://www.legislation.gov.uk/ukpga/2014/26/section/214/8A) inserted (with effect in accordance with Sch. 28 para. 15 of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 28 para. 7](https://www.legislation.gov.uk/ukpga/2021/26/schedule/28/paragraph/7)

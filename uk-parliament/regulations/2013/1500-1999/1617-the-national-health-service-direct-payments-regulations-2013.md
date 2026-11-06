@@ -1,0 +1,891 @@
+---
+title: The National Health Service (Direct Payments) Regulations 2013
+id: uksi/2013/1617
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2013-07-01'
+text_date: '2023-11-06'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2013/1617
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2013/1617/pdfs/uksiem_20131617_en.pdf
+- http://www.legislation.gov.uk/uksi/2013/1617/pdfs/uksi_20131617_en.pdf
+- http://www.legislation.gov.uk/uksi/2013/1617/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The National Health Service (Direct Payments) Regulations 2013
+
+> Text as at 2023-11-06.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2013 No. 1617
+
+National Health Service, England
+
+The National Health Service (Direct Payments) Regulations 2013
+
+Made
+
+1st July 2013
+
+Laid before Parliament
+
+4th July 2013
+
+Coming into force
+
+1st August 2013
+
+The Secretary of State for Health makes the following Regulations in exercise of the powers conferred by sections 12A(4), 12B(1) to (4), 75, and 272(7) and (8) of the National Health Service Act 2006[^f00001].
+
+## PART 1 — General
+
+### 1. Citation and commencement[^key-4862aca20f764925270ceb8cf45e2969]
+
+These Regulations may be cited as the National Health Service (Direct Payments) Regulations 2013 and come into force on 1st August 2013.
+
+### 2. Interpretation[^key-4d66598250f225607cf46812cd0b7d8d]
+
+(1) In these Regulations—
+
+- “the 2002 Act” means the National Health Service Reform and Health Care Professions Act 2002[^f00002];
+- “the 2005 Act” means the Mental Capacity Act 2005[^f00003];
+- “the 2006 Act” means the National Health Service Act 2006;
+- [^key-340506d7ad4d0dba52b9e81ee293ccad]...
+- “care plan” means a plan prepared in accordance with regulation 8 (care plan and care co-ordinator);
+- [^key-81419481141b293e3e8820592e66b269]...
+- “child” means a person under the age of 16;
+- “health body” means an integrated care board[^key-403e14f2cfaba367316f6fb665c297b0], NHS England[^key-2487d0ffd798a3409a8a7bd6ca7d44c4], a local authority (within the meaning of section 2B of the 2006 Act[^f00006]) or the Secretary of State;
+- “health care professional” means a member of a profession regulated by a body mentioned in section 25(3) of the 2002 Act (the Professional Standards Authority for Health and Social Care)[^f00007];
+- “[^key-dc62b9bad24f0a78c9f4ed16493df5a4]**integrated care board**” means an integrated care board established under Chapter A3 of Part 2 of the National Health Service Act 2006;
+- “[^key-d0210f8adac1ab5d9a4bf07d2e11faf0]**NHS England**” means the body corporate established under section 1H of the 2006 Act;
+- “nominee” has the meaning given in regulation 6 (nominated person);
+- “parental responsibility” has the meaning given in section 3 of the Children Act 1989 (meaning of parental responsibility)[^f00008];
+- “patient” means a person to or in respect of whom direct payments may be made in accordance with regulations 3, 4 or 5 (persons to whom a direct payment may be made, and direct payments in respect of children and persons who lack capacity);
+- “regulated activity” has the meaning given in section 8 of the Health and Social Care Act 2008 (regulated activity)[^f00009];
+- “relevant services for a disabled person” means any services in relation to which direct payments regulations, within the meaning of section 42 of the Welfare Reform Act 2009 (provision that may be made about direct payments)[^f00010], have been made;
+- “relevant services for social care” means relevant services within the meaning of regulation 1(2) of the Community Care, Services for Carers and Children’s Services (Direct Payments) (England) Regulations 2009[^f00011];
+- “representative” means—
+  - (a) in the case of a person in respect of whom any deputy has been appointed by the Court of Protection under section 16(2)(b) of the 2005 Act (powers to appoint deputies) to make decisions on that person’s behalf in relation to matters in respect of which direct payments may be made, any such deputy;
+  - (b) in the case of a person who has appointed any donee of a lasting power of attorney within the meaning of section 9 of the 2005 Act (lasting powers of attorney) to make decisions on that person’s behalf in relation to matters in respect of which direct payments may be made, any such donee;
+  - (c) in the case of a person who has created an enduring power of attorney within the meaning of Schedule 4 to the 2005 Act (provisions applying to existing enduring powers of attorney), which is registered in accordance with paragraphs 4 and 13 of that Schedule or in respect of which an application has been made for such registration, any attorney in whom the power is vested;
+  - (d) in the case of a child, any person with parental responsibility for the child;
+  - (e) in the case of a person aged 16 or over but who lacks capacity and in respect of whom there is a person with parental responsibility, any such person with parental responsibility; or
+  - (f) in the case of a person in respect of whom a person has been appointed under regulation 5(4) (appointment of person in respect of persons who lack capacity), that other person.
+
+(2) In determining for the purposes of these Regulations what is in the best interests of a patient, other than a child, the person making the determination must comply with the requirements specified in section 4(1) to (7) of the 2005 Act (best interests).
+
+## PART 2 — Direct Payments
+
+### 3. Persons to whom a direct payment may be made[^key-fd8b9c7e5442d17a5aaed73ed8e5dcfc]
+
+(1) A direct payment may be made to a person who—
+
+- (a) is a person for whose benefit anything may or must be provided or arranged by a health body—
+  - (i) under the 2006 Act, or
+  - (ii) in the case of an integrated care board or NHS England, under any other enactment; and
+- (b) consents to the making of a direct payment to them.
+
+(2) In determining whether a direct payment should be made to a person falling within paragraph (1), a health body must have regard to—
+
+- (a) whether it is appropriate for a person with that person’s condition;
+- (b) the impact of that condition on that person’s life; and
+- (c) whether a direct payment represents value for money.
+
+(3) A direct payment may only be made to a person falling within paragraph (1) if the person—
+
+- (a) is aged 16 or over;
+- (b) has capacity to consent to the making of a direct payment to them; and
+- (c) is not a person described in the Schedule (persons excluded from direct payments).
+
+### 4. Direct payments in respect of children[^key-af6dd75d6d567802bca4e166c5b99dc8]
+
+(1) A direct payment may be made in respect of a person who is a child, if that person—
+
+- (a) is a person for whose benefit anything may or must be provided or arranged by a health body—
+  - (i) under the 2006 Act, or
+  - (ii) in the case of an integrated care board or NHS England, under any other enactment;
+- (b) is not a person described in the Schedule; and
+- (c) has a representative who consents to the making of direct payments in respect of that person.
+
+(2) In determining whether a direct payment should be made in respect of a person falling within paragraph (1), a health body must have regard to—
+
+- (a) whether it is appropriate for a person with that person’s condition;
+- (b) the impact of that condition on that person’s life; and
+- (c) whether a direct payment represents value for money.
+
+(3) A representative to whom a direct payment may be made in respect of a person who is a child must—
+
+- (a) agree to act on the patient’s behalf in relation to the direct payment;
+- (b) act in the best interests of the patient when securing the provision of services in respect of which the direct payment is made;
+- (c) be responsible as a principal for all contractual arrangements entered into for the benefit of the patient and secured by means of the direct payment;
+- (d) use the direct payment in accordance with the care plan; and
+- (e) comply with the relevant provisions of these Regulations.
+
+(4) Where a patient reaches the age of 16—
+
+- (a) if the patient and any representative or nominee consents, the health body may continue to make direct payments to the representative or nominee of the patient in accordance with the care plan;
+- (b) if the patient does not consent to the continued making of direct payments to the representative or nominee, the health body must stop making the direct payments; and
+- (c) the health body must as soon as reasonably possible review the making of the direct payments in accordance with regulation 14 (monitoring and review of direct payments).
+
+### 5. Direct payments in respect of persons who lack capacity[^key-a21e0adf3c02bad7c0dad8f631f7f28d]
+
+(1) A direct payment may be made in respect of a person, other than a child, who lacks capacity to consent to the making of a direct payment to them, if that person—
+
+- (a) is a person for whose benefit anything may or must be provided or arranged by a health body—
+  - (i) under the 2006 Act, or
+  - (ii) in the case of an integrated care board or NHS England, under any other enactment;
+- (b) is not a person described in the Schedule (persons excluded from direct payments); and
+- (c) has a representative who consents to the making of direct payments in respect of that person.
+
+(2) In determining whether a direct payment should be made in respect of a person falling within paragraph (1), a health body must have regard to—
+
+- (a) whether it is appropriate for a person with that person’s condition;
+- (b) the impact of that condition on that person’s life; and
+- (c) whether a direct payment represents value for money.
+
+(3) This paragraph applies to a person, other than a child, who lacks capacity to consent to the making of a direct payment to them but is a person in respect of whom there is no representative.
+
+(4) Where paragraph (3) applies to a person, a health body may appoint another person it considers appropriate to receive and manage a direct payment in respect of that person.
+
+(5) A representative to whom a direct payment is made in respect of a patient must—
+
+- (a) agree to act on the patient’s behalf in relation to the direct payment;
+- (b) act in the best interests of the patient when securing the provision of services in respect of which the direct payment is made;
+- (c) be responsible as a principal for all contractual arrangements entered into for the benefit of the patient and secured by means of the direct payment;
+- (d) use the direct payment in accordance with the care plan; and
+- (e) comply with the relevant provisions of these Regulations.
+
+(6) Where a patient has been receiving direct payments on the basis that they were eligible to do so under regulation 3 (persons to whom a direct payment may be made), but the patient no longer has capacity to consent to the making of a direct payment to them, or a health body reasonably believes that the patient no longer has the necessary capacity, paragraph (7) applies.
+
+(7) Where this paragraph applies, a health body may continue to make direct payments in respect of that patient if—
+
+- (a) the health body is reasonably satisfied that the patient’s lack of capacity is likely to be temporary;
+- (b) a representative or nominee in respect of the patient agrees pursuant to paragraph (5)(a) or regulation 6(4)(a), to receive direct payments on behalf of the patient; and
+- (c) direct payments are made subject to the condition that the representative or nominee must allow the patient to manage the direct payments themselves for any period in respect of which a health body is satisfied that the patient has capacity to consent to the making of the direct payments and is capable of managing direct payments.
+
+(8) Where a patient without capacity gains or regains capacity to consent to the making of a direct payment to them—
+
+- (a) if the patient and their representative or nominee consents, the health body may continue to make direct payments to the representative or nominee of the patient in accordance with the care plan; or
+- (b) if the patient does not consent to the continued making of direct payments to the representative or nominee, the health body must stop making the direct payments; and
+- (c) the health body must as soon as reasonably possible review the making of the direct payments in accordance with regulation 14 (monitoring and review of direct payments).
+
+### 6. Nominated person[^key-d43ce52549d3b6272d76f2a495e3b959]
+
+(1) The following persons may nominate another person (a “nominee”) to receive a direct payment on a patient’s behalf—
+
+- (a) a patient with capacity to consent to the making of a direct payment who is not a child;
+- (b) the representative of a patient; or
+- (c) in a case where regulation 5(7) applies (lack of capacity to consent to the making of a direct payment), a health body.
+
+(2) If a patient who lacks capacity to consent to the making of a direct payment to them has indicated in advance of losing capacity a wish to have another person nominated to receive direct payments on the patient’s behalf, that other person shall be a nominee.
+
+(3) A nominee to whom a direct payment is made in respect of a patient must—
+
+- (a) be responsible as a principal for all contractual arrangements entered into for the benefit of the patient and secured by means of the direct payment;
+- (b) use the direct payment in accordance with the care plan; and
+- (c) comply with the relevant provisions of these Regulations.
+
+(4) Before making a direct payment to a nominee—
+
+- (a) the nominee must agree to receive the direct payment in respect of the patient; and
+- (b) a health body must agree to the making of the direct payment to the nominee.
+
+(5) If the person who has nominated a nominee pursuant to paragraph (1) notifies a health body in writing that they wish to withdraw or change the nomination, the health body must consider whether to—
+
+- (a) stop making the direct payments; and
+- (b) as soon as reasonably possible review the making of the direct payments in accordance with regulation 14.
+
+### 7. Decision to make a direct payment[^key-505c7985e061a229ee7aa15857f47697]
+
+(1) A health body must make any decision to make a direct payment to, or in respect of, a patient in accordance with this regulation.
+
+(2) Before deciding whether to make a direct payment to a patient, a health body—
+
+- (a) may consult the following persons—
+  - (i) anyone identified by the patient as a person to be consulted for the purpose,
+  - (ii) if the patient is a person aged 16 or over but under the age of 18, a person with parental responsibility for the patient,
+  - (iii) the person primarily involved in the care of a patient,
+  - (iv) any other person who provides care for the patient,
+  - (v) any independent mental capacity advocate[^f00012] or independent mental health advocate[^f00013] appointed for the patient,
+  - (vi) any health care professional or other professional person who provides health services to the patient,
+  - (vii) any local authority social care team that is responsible for ensuring that the patient’s social care needs are met, or
+  - (viii) any other person who appears to a health body to be able to provide information of relevance;
+- (b) may require the patient to provide information relating to—
+  - (i) the patient’s state of health,
+  - (ii) any health condition of the patient in respect of which a direct payment is contemplated, and
+  - (iii) any bank, building society, post office or other account into which a direct payment may be made; and
+- (c) must be satisfied that the patient is capable of managing a direct payment by themselves or with the assistance that may be available to them.
+
+(3) Before deciding whether to make a direct payment in respect of a patient to the representative of the patient, a health body may consult—
+
+- (a) the patient;
+- (b) any deputy appointed in respect of the patient by the Court of Protection under section 16(2)(b) of the 2005 Act (powers to appoint deputies) who lacks authority to make decisions on behalf of the patient in relation to matters in respect of which direct payments may be made;
+- (c) any donee of a lasting power of attorney within the meaning of section 9 of the 2005 Act (lasting powers of attorney) in respect of the patient but who lacks authority to make decisions on behalf of the patient in relation to matters in respect of which direct payments may be made;
+- (d) the persons mentioned in paragraph (2)(a)(iii) to (viii); and
+- (e) anyone named by the patient, when the patient had capacity, as a person to be consulted for this purpose.
+
+(4) Before deciding whether to make a direct payment in respect of a patient to the representative of the patient, a health body—
+
+- (a) may require the representative to provide information relating to any bank, building society, post office or other account into which the direct payment may be made; and
+- (b) must be satisfied that the representative is capable of managing a direct payment by themselves or with the assistance that may be available to them.
+
+(5) When deciding whether to make a direct payment in respect of a patient to a representative, a health body may, in particular, consider—
+
+- (a) whether the patient has in the past, when the patient had capacity, expressed in writing, or by other means which are understandable, a wish for direct payments to be made to them or for their benefit;
+- (b) so far as reasonably ascertainable, the beliefs and values that would be likely to influence the patient’s decision as to whether or not to consent to receive a direct payment if the patient had capacity; and
+- (c) any other factors that the patient would be likely to consider on the issue of whether to consent to receive a direct payment if the patient were able to do so, including the patient’s wishes and feelings.
+
+(6) Before deciding whether to make a direct payment in respect of a patient to a nominee, a health body may—
+
+- (a) consult the persons mentioned in paragraphs (2)(a) and (3)(a) to (c) and, where relevant, (e);
+- (b) require a patient with the necessary capacity or competence to provide information relating to the patient’s state of health or any health condition in respect of which the direct payment is contemplated; and
+- (c) require the nominee to provide information relating to any bank, building society, post office or other account into which the direct payment may be made.
+
+(7) Before deciding whether to make a direct payment in respect of a patient to a nominee, a health body must—
+
+- (a) be satisfied that the nominee is capable of managing a direct payment by themselves or with the assistance that may be available to them;
+- (b) where the nominee is an individual, require the nominee to apply for an enhanced criminal record certificate issued under section 113B of the Police Act 1997[^f00014] including suitability information relating to vulnerable adults under section 113BB of that Act[^f00015], unless the nominee is an individual living in the same household as the patient, a family member mentioned in paragraph (8) or a friend involved in the provision of the patient’s care; and
+- (c) where the nominee is a body corporate or an unincorporated body of persons, require that the individual whom the nominee has decided will, on behalf of the nominee, have overall responsibility for the day-to-day management of the patient’s direct payments, applies for an enhanced criminal record certificate issued under section 113B of the Police Act 1997 including suitability information relating to vulnerable adults under section 113BB of that Act.
+
+(8) The family members referred to in paragraph (7)(b) are—
+
+- (a) the spouse or civil partner of the patient;
+- (b) a person who lives with the patient as if their spouse or civil partner;
+- (c) a person who is the patient’s—
+  - (i) parent or parent-in-law,
+  - (ii) son or daughter,
+  - (iii) son-in-law or daughter-in law,
+  - (iv) stepson or stepdaughter,
+  - (v) brother or sister,
+  - (vi) aunt or uncle, or
+  - (vii) grandparent;
+- (d) the spouse or civil partner of any person specified in sub-paragraph (c); and
+- (e) a person who lives with any person specified in sub-paragraph (c) as if that person’s spouse or civil partner.
+
+(9) In deciding whether a patient, representative or nominee is capable of managing a direct payment, a health body may, in particular, consider whether—
+
+- (a) the patient, representative or nominee would be a suitable person to arrange with any person or body to provide, or assist in providing, any services secured by means of direct payments for the patient;
+- (b) the patient, representative or nominee has not been able to manage a direct payment or a direct payment to secure relevant services for social care under the Community Care, Services for Carers and Children’s Services (Direct Payments) (England) Regulations 2009[^f00016]; or
+- (c) the patient, representative or nominee is capable of taking all reasonable steps to prevent fraudulent use of the direct payment.
+
+(10) If a health body considers making a direct payment to a patient in accordance with this regulation and decides not to make such a payment, they must inform the patient and any representative or nominee in writing of the decision, and state the reasons for the decision.
+
+(11)[^key-9be8d50dd9b7b91459567001e6b516f5] Where a health body decides under paragraph (10) not to make a direct payment, a patient, representative or nominee may require the health body to re-consider the decision, and may provide evidence or relevant information for the health body to consider as part of that deliberation.
+
+(12) A health body must inform the patient and any representative or nominee in writing of the decision on a re-consideration, and state the reasons for the decision.
+
+(13) A health body may not be required to undertake more than one re-consideration following a decision under paragraph (10) in any six month period.
+
+### 8. Care plan and care co-ordinator[^key-b667bf9ab4555b833198a5d0316659d0]
+
+(1) Before a health body may make a direct payment, the health body must—
+
+- (a) prepare a care plan in respect of the services to be secured for a patient by way of direct payments;
+- (b) advise the patient, representative or nominee of significant potential risks arising in relation to the making of direct payments in respect of the patient, the potential consequences of the risks and any proportionate means of mitigating the risks;
+- (c) agree with the patient, representative or nominee the procedure for managing any significant potential risk, and include the agreed procedure in the care plan; and
+- (d) be satisfied—
+  - (i) that the health needs identified in the care plan of the patient can be met by the services specified in the care plan, and
+  - (ii) that the amount represented by the direct payments will be sufficient to provide for the full cost of each of the services specified in the care plan.
+
+(2) The risks mentioned in paragraph (1)(b) may in particular include—
+
+- (a) risks to the patient’s health;
+- (b) medical or surgical risk arising from the procurement of a particular type of service;
+- (c) risks arising from the employment relationship where direct payments are used to secure services from an employee;
+- (d) risks arising from a provider of services secured by means of direct payments operating under an inadequate or no procedure for the investigation of complaints arising from the provision of the services;
+- (e) risks arising from a provider of services secured by means of direct payments operating under inadequate or no insurance or indemnity cover for the services to be provided; or
+- (f) a risk that monies paid by way of a direct payment may go missing, be misused or be subject to fraud.
+
+(3) A health body must nominate a care co-ordinator who is to be responsible for the following functions in respect of the patient—
+
+- (a) managing the assessment of the health needs of the patient for the care plan;
+- (b) ensuring that the patient or their representative has agreed to the matters listed in paragraph (7);
+- (c) monitoring or arranging for the monitoring of—
+  - (i) the making of direct payments, and
+  - (ii) the health conditions of the patient in respect of which the direct payments are made;
+- (d) arranging for review of the direct payments; and
+- (e) liaising between the patient or the representative or nominee and the health body in relation to the direct payments.
+
+(4) A health body must in the care plan specify—
+
+- (a) the health needs to be met by services secured by means of direct payments, and the health outcomes intended to be achieved through the provision of the services;
+- (b) the services to be secured by means of direct payments that the health body considers necessary to meet the health needs of the patient;
+- (c) the amount to be paid by way direct payments, and the intervals at which monies are to be paid;
+- (d) the name of the person who is the care co-ordinator in respect of the patient;
+- (e) who is to be responsible for monitoring each health condition of the patient in respect of which direct payments may be made;
+- (f) the anticipated date of the first review mentioned in regulation 14(2)(a) (monitoring and review of direct payments) and how it is intended to be carried out; and
+- (g) the period of notice that is to apply if, following a review under regulation 14(2)(a), a health body decides to reduce the amount of the direct payments or to stop making the direct payments.
+
+(5) The services that may be secured by means of direct payments exclude services—
+
+- (a) arranged or provided under sections 83 (primary medical services)[^f00017], 84 (general medical services contracts)[^f00018] or 92 (arrangements by NHS England for the provision of primary medical services)[^f00019] of the 2006 Act;
+- (b) in respect of which a charge is otherwise payable by virtue of sections 172 (charges for drugs, medicines or appliances, or pharmaceutical services), 176 (dental charging)[^f00020] or 179 (charges for optical appliances) of the 2006 Act;
+- (c) planned surgical procedures;
+- (d) providing vaccination, immunisation or screening, including population-wide immunisation programmes;
+- (e) provided under the National Child Measurement Programme[^f00021];
+- (f) provided as part of an NHS Health Check[^f00022];
+- (g) which consist of the supply or procurement of alcohol or tobacco;
+- (h) which consist of the provision of gambling services or facilities; or
+- (i) to repay a debt otherwise than in respect of a service specified in the care plan.
+
+(5A)[^key-aa2d23ece9955bf69ff37f2e716ddf93] A health body may specify in a care plan that a service may be secured in respect of a patient from a connected person[^key-cc2bda14db2fba0f2d329ccc8e98bfd1] only if a health body is satisfied that to secure a service from that person is necessary—
+
+- (a) to meet satisfactorily the patient’s need for that service; or
+- (b) to promote the welfare of a patient who is a child.
+
+(5B)[^key-d076b01e583857d5e0f8b3b6b80ac8c9] In paragraph (5A), “connected person” in relation to a patient means any of the following who lives in the same household as the patient whether or not the person is a nominee—
+
+- (a) a family member mentioned in regulation 7(8); or
+- (b) a friend of the patient.
+
+(6) If a health body has considered including a particular service in the care plan as a service to be secured by means of direct payments but decides not to include that service—
+
+- (a) the patient, representative or nominee may request the health body to inform them of the reason for the decision; and
+- (b) the health body must inform them of the reason for the decision.
+
+(6A)[^key-03e8764ac9309862c0e1b19c557ea2fd] Where a health body decides under paragraph (6) not to include a particular service in the care plan, a patient, representative or nominee may require the health body to re-consider the decision, and may provide evidence or relevant information for the health body to consider as part of that deliberation.
+
+(6B) The health body must inform the patient and any representative or nominee in writing of the decision on a re-consideration, and state the reasons for the decision.
+
+(6C) A health body may not be required to undertake more than one re-consideration following a decision under paragraph (6).
+
+(7) Before a health body may make a direct payment, the patient or their representative must agree—
+
+- (a) that the patient’s specified health needs can be met by the services specified in the care plan;
+- (b) that the amount of the direct payments is sufficient to provide for the full cost of each of the services specified in the care plan; and
+- (c) that the patient’s requirements may be reviewed in accordance with regulation 14(2).
+
+### 9. Information, advice and other support[^key-d9e04dacea05d6b3bade280a08e0bbcc]
+
+(1) A health body must make arrangements for a patient, representative or nominee to whom direct payments are made to obtain information, advice or other support in connection with the making of direct payments.
+
+(2) The arrangements for information, advice or other support mentioned in paragraph (1) may include—
+
+- (a) specifying the amount of a patient’s direct payment and how this payment is calculated;
+- (b) how a patient, representative or nominee can request a review of the patient’s direct payment and care plan;
+- (c) the circumstances in which a patient may no longer qualify for a direct payment;
+- (d) the restrictions on how a direct payment may be spent;
+- (e) the process involved in drawing up and agreeing the care plan;
+- (f) provision for advocacy services, whereby a third party assists a patient, representative or nominee in relation to the terms of a care plan, or the management of any contract under which services secured by means of direct payments are provided, or otherwise;
+- (g) provision for commissioning services, whereby a person assists the patient, representative or nominee in procuring services that may be secured by means of direct payments;
+- (h) provision for payroll, training, sickness cover or other employment related services to assist a patient, representative or nominee where an employee provides services secured by direct payments for the patient; or
+- (i) where the patient is also in receipt of a direct payment to secure relevant services for social care, information on integration of both direct payments and the arrangements between a health body and a local authority for joint working and co-operation.
+
+(3) If the care plan specifies a requirement for information, advice or other support, that support may be a service in respect of which direct payments may be made.
+
+### 10. Conditions applying to the making of direct payments by a health body[^key-f294067c7a52ea3f8324290ac0578d14]
+
+(1) Where a health body has decided to make direct payments to or in respect of a patient, a health body must only make the payments into an account approved by the health body for the benefit of the patient if they are satisfied —[^key-8cdde039a9af32732b9d2f76f09fb738]
+
+- (a) where the account is a managed account, that the requirements in paragraphs (2)(b) and (5) are met;
+- (b) in any other case, that the requirements in paragraphs (2), (3) and (5) are met.
+
+(1A)[^key-ab0024bdca5b96652363b372daa4bf81] In paragraph (1)(a), “managed account” means an account held by a person or organisation where that person or organisation has been appointed by the patient, representative or nominee, both to hold the direct payment on the patient’s, representative’s or nominee’s behalf, and to apply that payment in accordance with the instructions of the patient, representative or nominee.
+
+(2) The account mentioned at paragraph (1) must be capable of—
+
+- (a) providing for monies paid into the account to be held only for the purposes of securing services by means of—
+  - (i) direct payments under these Regulations,
+  - (ii) direct payments to secure relevant services for social care,
+  - (iii) payments made by the Independent Living Fund (2006)[^f00023], or
+  - (iv) other payments to secure relevant services for a disabled person; and
+- (b) being audited (by reference to statements setting out the source of monies deposited and the destination of monies withdrawn) by—
+  - (i) a health body, or
+  - (ii) anyone authorised in writing by a health body.
+
+(3) The account mentioned in paragraph (1) must be—
+
+- (a) accessible only by named persons approved by a health body; and
+- (b) used only to hold monies paid into the account by way of the payments mentioned in paragraph (2)(a).
+
+(4) A health body may require a patient, representative or nominee to provide the health body with access to information about an account into which a direct payment is, or may be made.
+
+(5) A health body must ensure that an account mentioned in paragraph (1) is subject to arrangements or procedures that the health body considers adequate to—
+
+- (a) enable the monitoring and review mentioned in regulation 14(1)(a) and (6)(c) to be carried out; and
+- (b)[^key-e213a4b75a3753322378231b74888637] ensure that direct payments paid into it in respect of a patient will be used only for services agreed in that patient’s care plan.
+
+(6) Paragraphs (1) to (5) do not apply where a patient is in receipt of a one-off direct payment.
+
+(7) Where a health body is satisfied that a one-off direct payment is appropriate in the circumstances of an individual case, that payment may be made into the personal bank account of the patient.
+
+(8) In this regulation and regulation 11, “one-off direct payment” means a payment made for a single item or service or a single payment made for no more than 5 items or services where that payment is the only payment a patient would receive from that health body in any financial year.
+
+### 11. Conditions to be complied with by the patient, representative or nominee[^key-edc6978494d24a18e395c555d4db432c]
+
+(1) A patient, representative or nominee must—
+
+- (a) use the direct payments to procure services specified in the care plan;
+- (b) only use the direct payments in accordance with the patient’s care plan, in particular, to secure the provision of the whole of the services specified in the care plan.
+
+(2) A patient, representative or nominee must make enquiries before securing services from a provider—
+
+- (a) to ascertain that the provider—
+  - (i) if carrying on a regulated activity, is registered as a service provider in respect of that activity with the Care Quality Commission[^f00024],
+  - (ii) has complied with any obligation that the provider has to be registered as a member of a profession regulated by a body mentioned in section 25(3) of the 2002 Act (the Professional Standards Authority for Health and Social Care)[^f00025]; and
+- (b) with a view to ascertaining whether the provider must operate under insurance or indemnity cover, and if so whether the insurance or indemnity cover under which the provider operates is—
+  - (i) proportionate to the risks involved in providing the service, and
+  - (ii) otherwise appropriate in relation to the services provided to the patient.
+
+(3) If a patient, representative or nominee requests a health body to be responsible in place of that person for ensuring that the enquiries mentioned in paragraph (2)(a) or (b) have been carried out in respect of any particular provider of services, the health body must make the enquiries mentioned.
+
+(3A)[^key-cda8d2d0a859a4ac4b7faa9c2f566867] A patient, representative or nominee may use direct payments to secure a service in respect of the patient from a person mentioned in regulation 8(5A), only if the care plan specifies, pursuant to that regulation, that the service may be secured from that person.
+
+(4) A patient, representative or nominee must on request, or at intervals specified by a health body, provide the health body with information or evidence relating to—
+
+- (a) the state of health or any condition of the patient in respect of which the direct payment is made; or
+- (b) the health outcomes expected from the provision of any service.
+
+(5) If the patient, representative or nominee considers that it is reasonable to do so, the patient, representative or nominee must notify the health body when the state of health or other relevant circumstances of the patient change substantially.
+
+(6) Except in the case of a managed account as defined in regulation 10(1A),[^key-b1c2da20b92eddd415907fde04124b69] a patient, representative or nominee must ensure that the account approved by a health body into which direct payments are paid is—
+
+- (a) used only for the purposes of securing services by means of—
+  - (i) direct payments under these Regulations,
+  - (ii) direct payments to secure relevant services for social care,
+  - (iii) payments made by the Independent Living Fund (2006), or
+  - (iv) other payments to secure relevant services for a disabled person; and
+- (b) accessible only by named persons approved by a health body.
+
+(7) A patient, representative or nominee must, on request, or at intervals specified by a health body provide the health body with information or evidence relating to—
+
+- (a) the account mentioned in paragraph (6); or
+- (b) the services secured by means of the direct payments.
+
+(8) A health body may impose on a patient, representative or nominee either or both of the following conditions in connection with the making of a direct payment, that—
+
+- (a) the recipient, whether the patient, or the representative or nominee in respect of the patient, must not secure a service from a particular person; or
+- (b) the patient, the representative or the nominee must provide information that the health body considers necessary as described at paragraph (5) or (7) or regulation 7(2)(b), (4)(a) or (6)(c) (information that a health body may require a patient, representative or nominee to provide in making a decision as to a direct payment).
+
+(9) If the information or evidence requested from a person referred to in paragraph (8) is within the control of another person referred to in that paragraph from whom that information may be requested, then it must be provided by that other person.
+
+(10) Paragraphs (6) and (7)(a) do not apply where a patient is in receipt of a one-off direct payment.
+
+(11) Where a health body is satisfied that a one-off direct payment is appropriate in the circumstances of an individual case, that payment may be made into the personal bank account of the patient or that of the patient’s representative or nominee.
+
+### 12. Provision of information[^key-dd1f6fc74653d789a581b769c717c5c8]
+
+Any information that must be provided under these Regulations to a health body must be—
+
+- (a) legible;
+- (b) accompanied by the relevant authorisation enabling the taking of copies or making of extracts, where appropriate;
+- (c) if so requested by a health body, accompanied by—
+  - (i) an explanation by the information provider of anything which has been provided, or
+  - (ii) a statement to the best of the knowledge and belief of the information provider as to where information or evidence that the person has failed to provide is held.
+
+### 13. Amount of direct payment[^key-9c9a0de6fd86ecc37720b512bc471cf1]
+
+(1) A health body must ensure that the amount of the direct payments paid to or in respect of a patient is sufficient to provide for the full cost of each of the services specified in the care plan.
+
+(2) Where a health body is notified, or becomes aware, that the state of health of the patient has changed significantly, but in the view of the health body a review mentioned in regulation 14 is not necessary, the health body must be satisfied that the amount of the direct payments continues to be sufficient in accordance with paragraph (1).
+
+(3) A health body may at any time increase or reduce the amount of the direct payments if satisfied that the new amount is sufficient in accordance with paragraph (1).
+
+(4) A health body may reduce the amount paid by way of direct payments by an amount not exceeding the amount due in respect of a period for which payment falls to be made where—
+
+- (a) direct payments have been accumulated and remain unused; and
+- (b) the health body considers that it is reasonable to offset the monies accumulated against the outstanding amount to be paid for that period.
+
+(5) Where a health body decides to reduce the amount of the direct payments, the health body must provide reasonable notice in writing to the patient, representative or nominee stating the reasons for the decision.
+
+(6)[^key-6c52748eaec15111cd74446a86db3032] Where a health body decides under paragraph (5) to reduce the amount paid by way of direct payments, a patient, representative or nominee may require the health body to re-consider the decision, and may provide evidence or relevant information for the health body to consider as part of that deliberation.
+
+(7) A health body must inform the patient and any representative or nominee in writing of the decision on a re-consideration, and state the reasons for the decision.
+
+(8) A health body may not be required to undertake more than one re-consideration following a decision under paragraph (5).
+
+### 14. Monitoring and review of direct payments[^key-15d0700ec7e4c4351bb254b1b3ac8681]
+
+(1) A health body must monitor—
+
+- (a) the making of direct payments to or in respect of a patient; and
+- (b) the health conditions of the patient in respect of which direct payments are made.
+
+(2) A health body must review the making of direct payments to or in respect of the patient at appropriate intervals and—
+
+- (a) at least once within the first three months of the direct payments being made; and
+- (b) subsequently, at intervals not exceeding twelve months.
+
+(3) Where a health body is notified, or becomes aware, that the state of health of the patient has changed significantly, the health body must consider whether a review is appropriate.
+
+(4) Where a health body becomes aware that direct payments have not been sufficient to secure the services specified in a care plan, the health body must carry out a review.
+
+(5) When carrying out a review a health body must—
+
+- (a) review the care plan to establish whether it continues to provide appropriately for the health needs of the patient;
+- (b) consider whether the direct payments have been used effectively;
+- (c) consider whether the amount of the direct payments paid to or in respect of the patient is sufficient to provide for the full cost of each of the services specified in the care plan; and
+- (d) consider whether the patient, representative or nominee has complied with the obligations imposed on them by or under regulation 11.
+
+(6) When carrying out a review a health body may—
+
+- (a) re-assess the health needs of the patient for services to be secured by way of direct payments;
+- (b) consult any of the persons mentioned in regulation 7(2)(a) or (3)(a) to (c) or, where relevant, (e) (consultation by a health body in relation to a decision to make a direct payment to or in respect of a patient);
+- (c) review receipts, bank statements or other information relating to the use of the direct payments;
+- (d) consider whether the direct payments have been effectively managed, including whether any provider of services secured by means of the direct payments—
+  - (i) if carrying on a regulated activity, is registered as a service provider in respect of that activity with the Care Quality Commission,
+  - (ii) has complied with any obligation that the provider has to be registered as a member of a profession regulated by a body mentioned in section 25(3) of the 2002 Act, or
+  - (iii) operates under insurance or indemnity cover which is proportionate to the risks involved in providing the service and otherwise appropriate in relation to the services provided to the patient.
+
+(7) If a patient, representative or nominee requests a health body to review the making of direct payments—
+
+- (a) the health body must decide whether to carry out a review, taking into account relevant local practices and circumstances; and
+- (b) if the health body decides to carry out a review, they must carry out the review in accordance with this regulation.
+
+(8) Following a review, a health body may, having regard to the purposes of the care plan and the consultations and enquiries under regulation 7—
+
+- (a) amend the care plan;
+- (b) substitute the patient for the nominee or representative of the patient, or substitute a representative or nominee for the patient, as the person to whom the direct payments are made;
+- (c) increase, maintain or reduce the amount of the direct payments;
+- (d) impose on the patient, representative or nominee either or both of the following conditions in connection with the making of direct payments—
+  - (i) the recipient, whether the patient, their representative or their nominee, must not secure a service from a particular person, or
+  - (ii) the patient, their representative or their nominee must provide information that the health body considers necessary other than as described at regulation 7(2)(b), (4)(a) or (6)(c) (information that can be required in relation to a decision to make a direct payment) or regulation 11(4), (7) or (8)(b) (conditions relating to information that are to be complied with by the patient, representative or nominee); or
+- (e) take other action that the health body considers appropriate.
+
+(9) Where, following a review, a health body decides to reduce the amount of, or stop making, the direct payments the health body must give reasonable notice in writing to the patient and any representative or nominee, stating the reasons for the decision.
+
+(10) On receipt of a notice under paragraph (9), a patient, representative or nominee may require a health body to undertake a further review and may provide evidence or information for the health body to consider as part of that review.
+
+(11) A health body must give written notice to the patient and any representative or nominee of the decision in any further review, stating the reasons for the decision.
+
+(12) A health body may not be required to undertake more than one further review following a decision under paragraph (9).
+
+### 15. Repayment of direct payments[^key-c46f0f94233f91dcc69b82a8d680cddb]
+
+(1) A health body may require that part or all of a direct payment must be repaid to the health body, if satisfied that it is appropriate to require repayment having regard in particular to whether—
+
+- (a) the care plan has changed substantially;
+- (b) the patient’s circumstances have changed substantially;
+- (c) a substantial proportion of the direct payments received by a patient, representative or nominee have not been used to secure services specified in the care plan and have accumulated;
+- (d) the direct payments have been used otherwise than for a service specified in the care plan;
+- (e) theft, fraud or another offence may have occurred in connection with the direct payments; or
+- (f) the patient has died.
+
+(2) Where a health body decides under paragraph (1) that a sum must be repaid, the health body must give reasonable notice in writing to the patient and any representative or nominee, stating—
+
+- (a) the reasons for the decision;
+- (b) the amount to be repaid;
+- (c) the time within which the sum must be repaid; and
+- (d) the person who must repay.
+
+(3) In the case of a patient who has died, the notice mentioned in paragraph (2) must be given to the personal representatives of the patient.
+
+(4) On receipt of a notice under paragraph (2), a patient, personal representative, representative or nominee may require a health body to re-consider the decision, and may provide evidence or relevant information for the health body to consider as part of that deliberation.
+
+(5) A health body must inform the patient and any personal representative, representative or nominee in writing of the decision on a re-consideration, stating the reasons for the decision, the amount to be repaid, if any, the time within which any sum must be repaid and the person who must repay, if any.
+
+(6) A health body may not be required to undertake more than one re-consideration following a decision under paragraph (1).
+
+(7) A health body may waive any requirement pursuant to a decision under paragraph (1) or (4) for part or all of a direct payment to be repaid.
+
+### 16. Recovery of amounts due as a civil debt[^key-0035e25dedc560998dee8138ffcc804b]
+
+(1) Where a sum must be repaid to a health body pursuant to regulation 15 and the reasons for the decision to require repayment is that theft, fraud or another offence may have occurred in connection with a direct payment, that sum may be recovered summarily as a civil debt.
+
+(2) Paragraph (1) does not affect any other method of recovery.
+
+### 17. Stopping direct payments[^key-f56cfa78c49d447f339349cd2e8b92ec]
+
+(1) A health body must stop making direct payments—
+
+- (a) in the case of a patient, other than a child, who has capacity to consent to the making of direct payments, when the patient does not, or has withdrawn, consent to the making of the payments;
+- (b) in the case of a child or a patient who lacks capacity to consent to the making of direct payments, when a representative has withdrawn consent to the making of the payments and there is no other representative who consents pursuant to regulation 4(1)(c) or 5(1)(c); and
+- (c) in the circumstances mentioned in regulation 4(4)(b) or 5(8)(b) (withdrawal of consent in relation to the making of a direct payment).
+
+(2) A health body may stop making direct payments if satisfied that it is appropriate to do so and in particular if—
+
+- (a) a person in respect of whom a direct payment is made is not a patient;
+- (b) the health body does not consider that the representative or nominee is a suitable person to receive direct payments in respect of the patient;
+- (c) the nominee does not agree to receive the direct payments in respect of the patient;
+- (d) the person who has nominated the nominee pursuant to regulation 6(1) (nominated person) has withdrawn the nomination;
+- (e) the direct payments have been used otherwise than for a service specified in the care plan;
+- (f) the health body considers that theft, fraud or another offence may have occurred in connection with the direct payments;
+- (g) the health body considers that the health needs of the patient cannot be, or are not being, met by services secured by means of direct payments; or
+- (h) the patient has died.
+
+(3) Where a health body decides under paragraph (1) or (2) to stop making direct payments, the health body must give reasonable notice in writing to the patient and any representative or nominee, stating reasons for the decision.
+
+(4) In the case of a patient who has died, the notice mentioned in paragraph (3) must be given to the personal representatives of the patient.
+
+(5) On receipt of a notice under paragraph (3), a patient, personal representative, representative or nominee may require a health body to re-consider the decision, and may provide evidence or relevant information for the health body to consider as part of that deliberation.
+
+(6) A health body must inform the patient and any personal representatives, representative or nominee in writing of the decision on a re-consideration, stating the reasons for the decision.
+
+(7) A health body may not be required to undertake more than one re-consideration following a decision under paragraph (1) or (2).
+
+(8) A health body may stop making direct payments following reasonable notice even though a decision under paragraph (1) or (2) is being re-considered.
+
+(9) Any right or liability of the patient, personal representatives, representative or nominee in respect of or to a third party, acquired or incurred in respect of a service secured by means of a direct payment, shall transfer to a health body when the health body stops making direct payments pursuant to paragraph (1) or (2).
+
+(10) The transfer of any liability under paragraph (9) is binding on the third party, even though, apart from this paragraph, it would have required the consent or concurrence of that party.
+
+## PART 3 — Partnership Arrangements
+
+### 18. Amendment of the NHS Bodies and Local Authorities Partnership Arrangements Regulations 2000[^key-5371c2726c23cf8ca08228b03e724fd3]
+
+(1) The NHS Bodies and Local Authorities Partnership Arrangements Regulations 2000[^f00026] are amended as follows.
+
+(2) In regulation 5 of those regulations (functions of NHS bodies), for paragraph (bb) substitute—
+
+> - (bb) the functions of making direct payments under—
+>   - (i) section 12A(1) of the National Health Service Act 2006 (direct payments for health care); and
+>   - (ii) the National Health Service (Direct Payments) Regulations 2013.
+
+.
+
+## PART 4 — Revocation and Transitional Provision
+
+### 19. Transitional provision in respect of direct payments[^key-9f99ee33d78e0a9b2cee8036d4c059f9]
+
+(1) Any direct payment payable under a pilot scheme by a pilot health body immediately before 1st August 2013 is to be payable by the successor health body on and after that date.
+
+(2) These Regulations apply to a direct payment that is payable by a successor health body under paragraph (1).
+
+(3) Any act or omission by or in relation to a pilot health body before 1st August 2013 under or in connection with any provision of a pilot scheme or the 2010 Direct Payments Regulations is to be treated as an act or omission by or in relation to a successor health body.
+
+(4) Anything which is in the process of being done by or in relation to a pilot health body immediately before 1st August 2013 under or in connection with any provision of a pilot scheme or the 2010 Direct Payments Regulations is to be treated as done by or in relation to, and may be continued by or in relation to, a successor health body.
+
+(5) In this Regulation—
+
+- “the 2010 Direct Payments Regulations” means the National Health Service (Direct Payments) Regulations 2010[^f00027];
+- “pilot health body” means a body which is a successor body within the meaning of paragraph 22 of Schedule 3 to the National Treatment Agency (Abolition) and Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2012[^f00028] to a Primary Care Trust in respect of which a pilot scheme has been made under the 2010 Direct Payments Regulations.
+- “pilot scheme” means a pilot scheme under the 2010 Direct Payments Regulations;
+- “successor health body” means the health body which, on or after 1st August 2013, has a duty to provide or arrange for the provision of the services which, immediately before 1st August 2013, are being secured for a patient by a direct payment under a pilot scheme.
+
+### 20. Revocation[^key-a1f33730425e767aaec54cdc71b58e41]
+
+The National Health Service (Direct Payments) Regulations 2010 are revoked.
+
+Signed by authority of the Secretary of State for Health.
+
+Norman Lamb
+
+Minister of State,
+
+Department of Health
+
+1st July 2013
+
+## SCHEDULE — Persons excluded from direct payments[^key-94ae3e9c16ad577c61afe75a1ead7058]
+
+Regulations 3, 4 and 5
+
+[^key-94ae3e9c16ad577c61afe75a1ead7058]
+
+A person referred to in regulations 3(3)(c), 4(1)(b) and 5(1)(b) is a person who is—
+
+- (a) subject to a drug rehabilitation requirement, as defined by section 209 of the Criminal Justice Act 2003 or paragraph 19 of Schedule 9 to the Sentencing Code[^key-e83d19c51722f9507276a13f1c68c645] (drug rehabilitation requirement)[^f00029], imposed by a community order within the meaning of section 177 of that Act or section 200 of that Code[^key-e25ab415d3b076dbd017ad7f58d84b3e] (community orders)[^f00030], or by a suspended sentence of imprisonment within the meaning of section 189 of that Act or section 286 of that Code[^key-2e4c93440e88c33105ae1e96376b18dc] (suspended sentences of imprisonment)[^f00031];
+- (b) subject to an alcohol treatment requirement as defined by section 212 of the Criminal Justice Act 2003 or paragraph 23 of Schedule 9 to the Sentencing Code[^key-be6e97237fbe7f9291aa6c4b4ef9a8c5] (alcohol treatment requirement), imposed by a community order, within the meaning of section 177 of that Act or section 200 of that Code[^key-930ca274a7c54cbf648992574d109760], or by a suspended sentence of imprisonment, within the meaning of section 189 of that Act or section 286 of that Code[^key-61b720f8ce4afb0e401d73bc1c7f5019];
+- (c) released on licence under Part 2 of the Criminal Justice Act 1991 (early release of prisoners)[^f00032], Chapter 6 of Part 12 of the Criminal Justice Act 2003 (release, licences and recall)[^f00033] or Chapter 2 of Part 2 of the Crime (Sentences) Act 1997 (life sentences)[^f00034] subject to a non-standard licence condition requiring the offender to undertake offending behaviour work to address drug or alcohol related behaviour;
+- (d) required to submit to treatment for their drug or alcohol dependency by virtue of a community rehabilitation order within the meaning of section 41 of the Powers of Criminal Courts (Sentencing) Act 2000 (community rehabilitation orders)[^f00035] or a community punishment and rehabilitation order within the meaning of section 51 of that Act (community punishment and rehabilitation orders)[^f00036];
+- (e) subject to a drug treatment and testing order imposed under section 52 of the Powers of Criminal Courts (Sentencing) Act 2000 (drug treatment and testing orders)[^f00037];
+- (f) subject to a youth rehabilitation order imposed in accordance with paragraph 22 of Schedule 1 to the Criminal Justice and Immigration Act 2008 (“the Criminal Justice Act 2008”) or Part 13 of Schedule 6 to the Sentencing Code (drug treatment requirement)[^key-fad51fff169afc68cfef37a0f2e015a0] which requires the person to submit to treatment pursuant to a drug treatment requirement;
+- (g) subject to a youth rehabilitation order imposed in accordance with paragraph 23 of Schedule 1 to the Criminal Justice Act 2008 or Part 14 of Schedule 6 to the Sentencing Code[^key-6a6ed8299519228e226e46879d715928] (drug testing requirement) which includes a drug testing requirement;
+- (h) subject to a youth rehabilitation order imposed in accordance with paragraph 24 of Schedule 1 to the Criminal Justice Act 2008 or Part 15 of Schedule 6 to the Sentencing Code[^key-6817340cd69de9a0aec9d64137473111] (intoxicating substance treatment requirement) which requires the person to submit to treatment pursuant to an intoxicating substance treatment requirement;
+- (i) either—
+  - (i) subject to a drug treatment and testing order within the meaning of section 234B of the Criminal Procedure (Scotland) Act 1995 (drug treatment and testing order)[^f00039], or
+  - (ii) subject to a community payback order under section 227A of that Act[^f00040] imposing requirements relating to drug or alcohol treatment; or
+- (j) released on licence under section 22 (release on licence of persons serving determinate sentences) or section 26 of the Prisons (Scotland) Act 1989 (release on licence of persons sentenced to imprisonment for life, etc.)[^f00041] or under section 1 (release of short-term, long term and life prisoners) or section 1AA of the Prisoners and Criminal Proceedings (Scotland) Act 1993 (release of certain sexual offenders)[^f00042] and subject to a condition that they submit to treatment for their drug or alcohol dependency.
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations make provision for the making of direct payments for health care to secure the provision of certain health services under the National Health Service Act 2006 (“the 2006 Act”) by a clinical commissioning group (CCG), the Board, a local authority or the Secretary of State, or in the case of a CCG or the Board, under any other enactment.
+
+The National Health Service (Direct Payments) (Repeal of Pilot Schemes Limitation) Order 2013 ([S.I. 2013/1563](https://www.legislation.gov.uk/uksi/2013/1563)) removes the previous pilot schemes limitation by repealing sections 12A(6) and 12C(1) to (4) of the 2006 Act.
+
+Part 2 of these Regulations makes provision in respect of direct payments. Regulations 3 to 5 specify the persons to, or in respect of whom, direct payments may be made, and the Schedule specifies the persons excluded from direct payments. Regulation 6 provides for the nomination of a person (nominee) to receive direct payments on a patient’s behalf. A decision to make a direct payment must be made in accordance with regulation 7.
+
+Regulation 8 sets out the requirements in relation to the preparation of a care plan for a patient and regulation 9 provides for the provision of information, advice or support in connection with the making of a direct payment. The conditions that apply to the making of a direct payment are set out in regulation 10, and regulation 11 sets out the conditions to be complied with by the patient, and any representative or nominee. Regulation 13 makes provision in relation to the amount of a direct payment.
+
+Monitoring and review of direct payments is provided for in regulation 14. Regulations 15 to 17 provide for the repayment, recovery and stopping of direct payments.
+
+Part 3 contains an amendment to the NHS Bodies and Local Authorities Partnership Arrangements Regulations 2000 ([S.I. 2000/617](https://www.legislation.gov.uk/uksi/2000/617)) providing for the making of direct payments to be an NHS function for the purposes of partnership arrangements under those regulations (regulation 18).
+
+Part 4 makes transitional provision in respect of matters that are on-going in relation to pilot schemes immediately before 1st August 2013 (regulation 19). Part 4 also revokes the National Health Service (Direct Payments) Regulations 2010 ([S.I. 2010/1000](https://www.legislation.gov.uk/uksi/2010/1000)) (regulation 20) which underpinned the making of pilot schemes in accordance with which direct payments for health care could be made prior to the repeal of sections 12A(6) and 12C(1) to (4) of the 2006 Act.
+
+An impact assessment has not been produced for this instrument as the instrument itself has no impact on the private sector or the voluntary sector. A full impact assessment has been produced in relation to the direct payments for healthcare consultation 2013 and a copy is available at http://www.dh.gov.uk/health/2013/03/direct-payments-consultation/.
+
+## Annotations
+
+[^f00001]: Footnote: [2006 c. 41](https://www.legislation.gov.uk/ukpga/2006/41). Sections 12A to 12D of the National Health Service Act 2006 (“the 2006 Act”) were inserted by section 11 of the Health Act [2009 (c. 21)](https://www.legislation.gov.uk/ukpga/2009/21) (“the 2009 Act”). Sections 12A and 12B have been amended by section 55(1) of, and paragraphs 10 and 11 of Part 1 of Schedule 4 to, the Health and Social Care Act [2012 (c.7)](https://www.legislation.gov.uk/ukpga/2012/7) (“the 2012 Act”). Sections 12A(6) and 12C(1) to (4) have been repealed by the National Health Service (Direct Payments) (Repeal of Pilot Schemes Limitation) Order 2013 ([S.I. 2013/1563](https://www.legislation.gov.uk/uksi/2013/1563)). *See* section 275 of the 2006 Act for the definitions of “prescribed” and “regulations”. By virtue of section 271(1) of the 2006 Act, the powers exercised in making these Regulations are exercisable by the Secretary of State only in relation to England.
+
+[^key-4862aca20f764925270ceb8cf45e2969]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2013/1617/regulation/1) in force at 1.8.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1617/regulation/1)
+
+[^key-4d66598250f225607cf46812cd0b7d8d]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2013/1617/regulation/2) in force at 1.8.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1617/regulation/1)
+
+[^f00002]: Footnote: [2002 c.17](https://www.legislation.gov.uk/ukpga/2002/17) (“the 2002 Act”).
+
+[^f00003]: Footnote: [2005 c.9](https://www.legislation.gov.uk/ukpga/2005/9).
+
+[^key-340506d7ad4d0dba52b9e81ee293ccad]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2013/1617/regulation/2/1) omitted (6.11.2023) by virtue of [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [69(2)(a)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/69/2/a)
+
+[^key-81419481141b293e3e8820592e66b269]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2013/1617/regulation/2/1) omitted (1.7.2022) by virtue of [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [68(2)(a)](https://www.legislation.gov.uk/uksi/2022/634/regulation/68/2/a)
+
+[^key-403e14f2cfaba367316f6fb665c297b0]: Textual amendment: Words in [Regulations](https://www.legislation.gov.uk/uksi/2013/1617) substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [Sch. para. 1(1)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/1)[(3)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/3) (with [Sch. para. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/2))
+
+[^key-2487d0ffd798a3409a8a7bd6ca7d44c4]: Textual amendment: Words in [Regulations](https://www.legislation.gov.uk/uksi/2013/1617) substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
+
+[^f00006]: Footnote: Section 2B was inserted by section 12 of the 2012 Act.
+
+[^f00007]: Footnote: Section 25(3) of the 2002 Act has been amended by [S.I. 2010/231](https://www.legislation.gov.uk/uksi/2010/231); section 127 of, and paragraphs 17 of Schedule 10 to, the Health and Social Care Act [2008 (c.14)](https://www.legislation.gov.uk/ukpga/2008/14) (“the 2008 Act”), and by section 230(1) of, and paragraph 56(b) of Schedule 15 to, the 2012 Act.
+
+[^key-dc62b9bad24f0a78c9f4ed16493df5a4]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2013/1617/regulation/2/1) inserted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [68(2)(b)](https://www.legislation.gov.uk/uksi/2022/634/regulation/68/2/b)
+
+[^key-d0210f8adac1ab5d9a4bf07d2e11faf0]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2013/1617/regulation/2/1) inserted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [69(2)(b)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/69/2/b)
+
+[^f00008]: Footnote: [1989 c.41](https://www.legislation.gov.uk/ukpga/1989/41) (“the 1989 Act”). A person may have parental responsibility for a person who is not a child for the purposes of these Regulations; see section 105 of the 1989 Act, by virtue of which “child” for the purposes of the 1989 Act means, subject to paragraph 16 of Schedule 1 to the Act, a person under the age of 18.
+
+[^f00009]: Footnote: [2008 c.14](https://www.legislation.gov.uk/ukpga/2008/14). *See* the Health and Social Care Act 2008 (Regulated Activities) Regulations 2010, [S.I. 2010/781](https://www.legislation.gov.uk/uksi/2010/781), as amended by [S.I. 2011/2711](https://www.legislation.gov.uk/uksi/2011/2711) and [S.I. 2012/1513](https://www.legislation.gov.uk/uksi/2012/1513).
+
+[^f00010]: Footnote: [2009 c.24](https://www.legislation.gov.uk/ukpga/2009/24).
+
+[^f00011]: Footnote: [S.I. 2009/1887](https://www.legislation.gov.uk/uksi/2009/1887), as amended by [S.I. 2010/2246](https://www.legislation.gov.uk/uksi/2010/2246).
+
+[^key-fd8b9c7e5442d17a5aaed73ed8e5dcfc]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2013/1617/regulation/3) in force at 1.8.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1617/regulation/1)
+
+[^key-af6dd75d6d567802bca4e166c5b99dc8]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2013/1617/regulation/4) in force at 1.8.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1617/regulation/1)
+
+[^key-a21e0adf3c02bad7c0dad8f631f7f28d]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2013/1617/regulation/5) in force at 1.8.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1617/regulation/1)
+
+[^key-d43ce52549d3b6272d76f2a495e3b959]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2013/1617/regulation/6) in force at 1.8.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1617/regulation/1)
+
+[^key-505c7985e061a229ee7aa15857f47697]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2013/1617/regulation/7) in force at 1.8.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1617/regulation/1)
+
+[^f00012]: Footnote: *See* section 35 of the Mental Capacity Act [2005 (c.9)](https://www.legislation.gov.uk/ukpga/2005/9). Section 35 has been amended by section 50(7) of, and Schedule 9 to, the Mental Health Act [2007 (c.12)](https://www.legislation.gov.uk/ukpga/2007/12) (“the 2007 Act”), section 55(2) of, and paragraphs 133 and 134 of Schedule 5 to, the 2012 Act, and by [S.I. 2010/813](https://www.legislation.gov.uk/uksi/2010/813), regulation 17.
+
+[^f00013]: Footnote: *See* section 130A of the Mental Health Act [1983 (c.20)](https://www.legislation.gov.uk/ukpga/1983/20), as inserted by section 30(1) and (2) of the 2007 Act.
+
+[^f00014]: Footnote: [1997 c.50](https://www.legislation.gov.uk/ukpga/1997/50). Section 113B was inserted by section 163(2) of the Serious Organised Crime and Police Act [2005 (c.15)](https://www.legislation.gov.uk/ukpga/2005/15). Section 113B is amended by section 63(1) of, and paragraph 14 of Schedule 9 to, the Safeguarding Vulnerable Groups Act [2006 (c.47)](https://www.legislation.gov.uk/ukpga/2006/47); section 378(1) of, and paragraph 149 of Schedule 16 to, the Armed Forces Act [2006 (c.52)](https://www.legislation.gov.uk/ukpga/2006/52); sections 97(2) and 112(2) of, and Schedule 8 to, the Policing and Crime Act [2009 (c.26)](https://www.legislation.gov.uk/ukpga/2009/26); [S.I. 2009/203](https://www.legislation.gov.uk/uksi/2009/203); [S.I. 2010/1146](https://www.legislation.gov.uk/uksi/2010/1146); sections 79(2), 80(1), 82(1) to (3) and 115 of, and Schedules 9 and 10 to, the Protection of Freedoms Act [2012 (c.9)](https://www.legislation.gov.uk/ukpga/2012/9), and [S.I. 2012/3006](https://www.legislation.gov.uk/uksi/2012/3006).
+
+[^f00015]: Footnote: Section 113BB was inserted by section 63(1) of, and paragraph 14 of Schedule 9 to, the Safeguarding Vulnerable Groups Act 2006. Subsection (2), paragraphs (b) to (d) were repealed in relation to England by section 115(1) and (2) of, and Schedules 9 and 10 to, the Protection of Freedoms Act 2012. Section 113BB is subject to the modifications set out in [S.I. 2009/2610](https://www.legislation.gov.uk/uksi/2009/2610).
+
+[^f00016]: Footnote: [S.I. 2009/1887](https://www.legislation.gov.uk/uksi/2009/1887), as amended by [S.I. 2010/2246](https://www.legislation.gov.uk/uksi/2010/2246).
+
+[^key-9be8d50dd9b7b91459567001e6b516f5]: Textual amendment: [Reg. 7(11)-(13)](https://www.legislation.gov.uk/uksi/2013/1617/regulation/7/11) added (14.10.2013) by [The National Health Service (Direct Payments) (Amendment) Regulations 2013 (S.I. 2013/2354)](https://www.legislation.gov.uk/uksi/2013/2354), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2354/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2013/2354/regulation/2)
+
+[^key-b667bf9ab4555b833198a5d0316659d0]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2013/1617/regulation/8) in force at 1.8.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1617/regulation/1)
+
+[^f00017]: Footnote: Section 83 has been amended by section 55(1) of, and paragraph 30 of Schedule 4 to, the 2012 Act.
+
+[^f00018]: Footnote: Section 84 has been amended by section 55(1) of, and paragraph 31 of Schedule 4 to, the 2012 Act.
+
+[^f00019]: Footnote: Section 92 has been amended by section 55(1) of, and paragraph 36 of Schedule 4 to, the 2012 Act.
+
+[^f00020]: Footnote: Section 176 has been amended by section 55(1) of, and paragraph 94 of Schedule 4 to, the 2012 Act.
+
+[^f00021]: Footnote: The National Child Measurement Programme weighs and measures children at primary school. The information is used by the NHS to plan and provide better health services for children and is the responsibility of Local Government. *See* https://www.gov.uk/government/news/national-child-measurement-programme-briefing-is-launched.
+
+[^f00022]: Footnote: The NHS Health Check programme aims to help prevent heart disease, stroke, diabetes, kidney disease and certain types of dementia. *See* http://www.healthcheck.nhs.uk/.
+
+[^key-aa2d23ece9955bf69ff37f2e716ddf93]: Textual amendment: [Reg. 8(5A)](https://www.legislation.gov.uk/uksi/2013/1617/regulation/8/5A) inserted (14.10.2013) by [The National Health Service (Direct Payments) (Amendment) Regulations 2013 (S.I. 2013/2354)](https://www.legislation.gov.uk/uksi/2013/2354), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2354/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2013/2354/regulation/3/2)
+
+[^key-cc2bda14db2fba0f2d329ccc8e98bfd1]: Textual amendment: Words in [reg. 8(5A)](https://www.legislation.gov.uk/uksi/2013/1617/regulation/8/5A) substituted (1.4.2017) by [The National Health Service (Direct Payments) (Amendment) Regulations 2017 (S.I. 2017/219)](https://www.legislation.gov.uk/uksi/2017/219), [regs. 1](https://www.legislation.gov.uk/uksi/2017/219/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2017/219/regulation/2/2/a)
+
+[^key-d076b01e583857d5e0f8b3b6b80ac8c9]: Textual amendment: [Reg. 8(5B)](https://www.legislation.gov.uk/uksi/2013/1617/regulation/8/5B) inserted (1.4.2017) by [The National Health Service (Direct Payments) (Amendment) Regulations 2017 (S.I. 2017/219)](https://www.legislation.gov.uk/uksi/2017/219), [regs. 1](https://www.legislation.gov.uk/uksi/2017/219/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2017/219/regulation/2/2/b)
+
+[^key-03e8764ac9309862c0e1b19c557ea2fd]: Textual amendment: [Reg. 8(6A)-(6C)](https://www.legislation.gov.uk/uksi/2013/1617/regulation/8/6A) inserted (14.10.2013) by [The National Health Service (Direct Payments) (Amendment) Regulations 2013 (S.I. 2013/2354)](https://www.legislation.gov.uk/uksi/2013/2354), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2354/regulation/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2013/2354/regulation/3/3)
+
+[^key-d9e04dacea05d6b3bade280a08e0bbcc]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2013/1617/regulation/9) in force at 1.8.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1617/regulation/1)
+
+[^key-f294067c7a52ea3f8324290ac0578d14]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2013/1617/regulation/10) in force at 1.8.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1617/regulation/1)
+
+[^key-8cdde039a9af32732b9d2f76f09fb738]: Textual amendment: Words in [reg. 10(1)](https://www.legislation.gov.uk/uksi/2013/1617/regulation/10/1) inserted (1.4.2017) by [The National Health Service (Direct Payments) (Amendment) Regulations 2017 (S.I. 2017/219)](https://www.legislation.gov.uk/uksi/2017/219), [regs. 1](https://www.legislation.gov.uk/uksi/2017/219/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2017/219/regulation/2/3/a)
+
+[^key-ab0024bdca5b96652363b372daa4bf81]: Textual amendment: [Reg. 10(1A)](https://www.legislation.gov.uk/uksi/2013/1617/regulation/10/1A) inserted (1.4.2017) by [The National Health Service (Direct Payments) (Amendment) Regulations 2017 (S.I. 2017/219)](https://www.legislation.gov.uk/uksi/2017/219), [regs. 1](https://www.legislation.gov.uk/uksi/2017/219/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2017/219/regulation/2/3/b)
+
+[^f00023]: Footnote: The Independent Living Fund (2006) is an Executive Non-Departmental Public Body of the Department of Work and Pensions set up as a national resource dedicated to the financial support of disabled people. It provides discretionary cash payments directly to disabled people. Its operations are governed by a Deed dated 10th April 2006 between the Secretary of State for Work and Pensions and the Original Trustees, amended from time to time by the Secretary of State for Work and Pensions. *See* the Independent Living Fund (2006) Order 2007 ([S.I. 2007/2538](https://www.legislation.gov.uk/uksi/2007/2538), as amended by [S.I. 2013/458](https://www.legislation.gov.uk/uksi/2013/458)).
+
+[^key-e213a4b75a3753322378231b74888637]: Textual amendment: [Reg. 10(5)(b)](https://www.legislation.gov.uk/uksi/2013/1617/regulation/10/5/b) substituted (1.4.2017) by [The National Health Service (Direct Payments) (Amendment) Regulations 2017 (S.I. 2017/219)](https://www.legislation.gov.uk/uksi/2017/219), [regs. 1](https://www.legislation.gov.uk/uksi/2017/219/regulation/1), [2(3)(c)](https://www.legislation.gov.uk/uksi/2017/219/regulation/2/3/c)
+
+[^key-edc6978494d24a18e395c555d4db432c]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2013/1617/regulation/11) in force at 1.8.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1617/regulation/1)
+
+[^f00024]: Footnote: The Care Quality Commission (CQC) was established by section 1(1) of the 2008 Act and regulates all health and adult social care services in England, including those provided by the NHS, local authorities, private companies and voluntary organisations.
+
+[^f00025]: Footnote: Section 25(3) of the 2002 Act has been amended by [S.I. 2010/231](https://www.legislation.gov.uk/uksi/2010/231); section 127 of, and paragraphs 17(1) and (2) of Schedule 10 to, the 2008 Act, and by section 230(1) of, and paragraph 56(b) of Schedule 15 to, the 2012 Act.
+
+[^key-cda8d2d0a859a4ac4b7faa9c2f566867]: Textual amendment: [Reg. 11(3A)](https://www.legislation.gov.uk/uksi/2013/1617/regulation/11/3A) inserted (14.10.2013) by [The National Health Service (Direct Payments) (Amendment) Regulations 2013 (S.I. 2013/2354)](https://www.legislation.gov.uk/uksi/2013/2354), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2354/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2013/2354/regulation/4)
+
+[^key-b1c2da20b92eddd415907fde04124b69]: Textual amendment: Words in [reg. 11(6)](https://www.legislation.gov.uk/uksi/2013/1617/regulation/11/6) inserted (1.4.2017) by [The National Health Service (Direct Payments) (Amendment) Regulations 2017 (S.I. 2017/219)](https://www.legislation.gov.uk/uksi/2017/219), [regs. 1](https://www.legislation.gov.uk/uksi/2017/219/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2017/219/regulation/2/4)
+
+[^key-dd1f6fc74653d789a581b769c717c5c8]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2013/1617/regulation/12) in force at 1.8.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1617/regulation/1)
+
+[^key-9c9a0de6fd86ecc37720b512bc471cf1]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2013/1617/regulation/13) in force at 1.8.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1617/regulation/1)
+
+[^key-6c52748eaec15111cd74446a86db3032]: Textual amendment: [Reg. 13(6)-(8)](https://www.legislation.gov.uk/uksi/2013/1617/regulation/13/6) added (14.10.2013) by [The National Health Service (Direct Payments) (Amendment) Regulations 2013 (S.I. 2013/2354)](https://www.legislation.gov.uk/uksi/2013/2354), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2354/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2013/2354/regulation/5)
+
+[^key-15d0700ec7e4c4351bb254b1b3ac8681]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2013/1617/regulation/14) in force at 1.8.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1617/regulation/1)
+
+[^key-c46f0f94233f91dcc69b82a8d680cddb]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2013/1617/regulation/15) in force at 1.8.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1617/regulation/1)
+
+[^key-0035e25dedc560998dee8138ffcc804b]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2013/1617/regulation/16) in force at 1.8.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1617/regulation/1)
+
+[^key-f56cfa78c49d447f339349cd2e8b92ec]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2013/1617/regulation/17) in force at 1.8.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1617/regulation/1)
+
+[^key-5371c2726c23cf8ca08228b03e724fd3]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2013/1617/regulation/18) in force at 1.8.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1617/regulation/1)
+
+[^f00026]: Footnote: [S.I. 2000/617](https://www.legislation.gov.uk/uksi/2000/617). Regulation 5 has been amended by [S.I. 2009/278](https://www.legislation.gov.uk/uksi/2009/278), [S.I. 2010/1000](https://www.legislation.gov.uk/uksi/2010/1000), [S.I. 2012/3094](https://www.legislation.gov.uk/uksi/2012/3094) and [S.I 2013/235](https://www.legislation.gov.uk/uksi/2013/235).
+
+[^key-9f99ee33d78e0a9b2cee8036d4c059f9]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2013/1617/regulation/19) in force at 1.8.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1617/regulation/1)
+
+[^f00027]: Footnote: [S.I. 2010/1000](https://www.legislation.gov.uk/uksi/2010/1000). Regulations 1 to 5 and 7 to 20 were amended by, or affected by the provisions of, the National Treatment Agency (Abolition) and articles 11 and 12 of, and paragraph 154 of Schedule 2 and paragraph 22 of Schedule 3 to, the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 ([S.I. 2013/235](https://www.legislation.gov.uk/uksi/2013/235)).
+
+[^f00028]: Footnote: [S.I. 2013/235](https://www.legislation.gov.uk/uksi/2013/235).
+
+[^key-a1f33730425e767aaec54cdc71b58e41]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2013/1617/regulation/20) in force at 1.8.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1617/regulation/1)
+
+[^key-94ae3e9c16ad577c61afe75a1ead7058]: Commencement: [Sch.](https://www.legislation.gov.uk/uksi/2013/1617/schedule) in force at 1.8.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1617/regulation/1)
+
+[^key-e83d19c51722f9507276a13f1c68c645]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2013/1617/schedule) inserted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 418(2)(a)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/418/2/a) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+
+[^f00029]: Footnote: [2003 c.44](https://www.legislation.gov.uk/ukpga/2003/44). Section 209 has been amended by section 6(2) of, and paragraphs 71 and 88 of Schedule 4 to, the Criminal Justice and Immigration Act [2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4) (“the Criminal Justice Act 2008”), and section 74(1) of the Legal Aid, Sentencing and Punishment of Offenders Act [2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10) (“the Legal Aid Act”).
+
+[^key-e25ab415d3b076dbd017ad7f58d84b3e]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2013/1617/schedule) inserted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 418(2)(b)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/418/2/b) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+
+[^f00030]: Footnote: Section 177 has been amended by section 6(2) of, and paragraphs 71 and 82 of Schedule 4 to, the Criminal Justice Act 2008, and sections 66, 70, 72 and 76 of the Legal Aid Act.
+
+[^key-2e4c93440e88c33105ae1e96376b18dc]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2013/1617/schedule) inserted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 418(2)(c)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/418/2/c) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+
+[^f00031]: Footnote: Section 189 has been amended by [S.I. 2005/643](https://www.legislation.gov.uk/uksi/2005/643), and section 68 of the Legal Aid Act.
+
+[^key-be6e97237fbe7f9291aa6c4b4ef9a8c5]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2013/1617/schedule) inserted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 418(3)(a)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/418/3/a) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+
+[^key-930ca274a7c54cbf648992574d109760]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2013/1617/schedule) inserted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 418(3)(b)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/418/3/b) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+
+[^key-61b720f8ce4afb0e401d73bc1c7f5019]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2013/1617/schedule) inserted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 418(3)(c)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/418/3/c) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+
+[^f00032]: Footnote: [1991 c.53](https://www.legislation.gov.uk/ukpga/1991/53). Sections 34A and 35 have been repealed, with savings, by sections 303 and 332 of, and Schedule 37 to, the Criminal Justice Act [2003 (c.44)](https://www.legislation.gov.uk/ukpga/2003/44) (“the 2003 Act”).
+
+[^f00033]: Footnote: Heading to Chapter 6 of Part 12 substituted by section 111 of, and Schedule 14 to, the Legal Aid Act. Section 244 has been amended by section 31 of, and Schedule 6 to, the Domestic Violence and Crime Act [2004 (c.28)](https://www.legislation.gov.uk/ukpga/2004/28); sections 89, 111, 114, 120, 121 and 125 of, and Schedules 10, 14, 15, and 17 to, the Legal Aid Act. Section 246, has been amended by section 378 of, and Schedule 16 to, the Armed Forces Act [2006 (c.52)](https://www.legislation.gov.uk/ukpga/2006/52); section 24 of the Criminal Justice Act 2008; sections 89, 110, 111, 112, 120 and 125 of, and Schedules 10, 14, 15, and 20 to, the Legal Aid Act. Section 246A was inserted by section 125 of the Legal Aid Act. Section 247 has been amended by sections 25, 121 and 149 of, and Schedules 17 and 28 to, the Criminal Justice Act 2008.
+
+[^f00034]: Footnote: [1997 c.43](https://www.legislation.gov.uk/ukpga/1997/43). Subsections (1A), (1B) and (5)(a) of section 28 substituted, for subsections (1) to (5)(a) as originally enacted, by section 74 of, and Schedule 7 to, the Criminal Justice and Court Services Act [2000 (c.43)](https://www.legislation.gov.uk/ukpga/2000/43) and further substituted by section 275 of the 2003 Act. Subsection (7)(c) has been amended by section 119 of, and Schedule 8 to, the Crime and Disorder Act 1998. Subsection (8A) was inserted by section 275 of the 2003 Act. Section 28(1B) has been modified by section 74 of, and paragraphs 146, 147 and 148 of Schedule 7 to, the Criminal Justice and Court Services Act 2000. Section 29 was repealed by sections 303 and 332 of, and Schedule 37 to, the 2003 Act.
+
+[^f00035]: Footnote: [2000 c. 6](https://www.legislation.gov.uk/ukpga/2000/6). Section 41 has been repealed, with savings, by sections 303 and 332 of, and Schedule 37 to, the 2003 Act.
+
+[^f00036]: Footnote: Section 51 has been repealed, with savings, by sections 303 and 332 of, and Schedule 37 to, the 2003 Act.
+
+[^f00037]: Footnote: Section 52 has been repealed, with savings, by sections 303 and 332 of, and Schedule 37 to, the 2003 Act.
+
+[^key-fad51fff169afc68cfef37a0f2e015a0]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2013/1617/schedule) substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 418(4)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/418/4) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+
+[^key-6a6ed8299519228e226e46879d715928]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2013/1617/schedule) inserted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 418(5)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/418/5) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+
+[^key-6817340cd69de9a0aec9d64137473111]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2013/1617/schedule) inserted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 418(6)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/418/6) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+
+[^f00039]: Footnote: [1995 c. 46](https://www.legislation.gov.uk/ukpga/1995/46). Section 234B was inserted by section 89 of the Crime and Disorder Act [1998 (c.37)](https://www.legislation.gov.uk/ukpga/1998/37).
+
+[^f00040]: Footnote: Section 227A was inserted by section 14(1) of the Criminal Justice and Licensing (Scotland) Act [2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13).
+
+[^f00041]: Footnote: [1989 c.45](https://www.legislation.gov.uk/ukpga/1989/45). Sections 22 and 26 are repealed by section 47(3) of, and Schedule 1 to, the Prisoners and Criminal Proceedings (Scotland) Act [1993 (c.9)](https://www.legislation.gov.uk/ukpga/1993/9).
+
+[^f00042]: Footnote: [1993 c.9](https://www.legislation.gov.uk/ukpga/1993/9). Section 1 has been amended by section 119 of, and Schedule 8 to, the Crime and Disorder Act [1998 (c.37)](https://www.legislation.gov.uk/ukpga/1998/37). Section 1(4) to (7) has been repealed by section 1 of the Convention Rights (Compliance) (Scotland) Act [2001 (asp 7)](https://www.legislation.gov.uk/asp/2001/7). Section 1AA was inserted by sections 15(1) and (3) of the Management of Offenders etc. (Scotland) Act [2005 (asp 14)](https://www.legislation.gov.uk/asp/2005/14) and was repealed by section 66(2) of, and Schedule 5 to, the Custodial Sentences and Weapons (Scotland) Act [2007 (asp 17)](https://www.legislation.gov.uk/asp/2007/17).

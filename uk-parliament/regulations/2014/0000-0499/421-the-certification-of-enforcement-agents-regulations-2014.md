@@ -1,0 +1,308 @@
+---
+title: The Certification of Enforcement Agents Regulations 2014
+id: uksi/2014/421
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2014-02-25'
+text_date: '2026-05-01'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2014/421
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2014/421/pdfs/uksiem_20140421_en.pdf
+- http://www.legislation.gov.uk/uksi/2014/421/pdfs/uksi_20140421_en.pdf
+- http://www.legislation.gov.uk/uksi/2014/421/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Certification of Enforcement Agents Regulations 2014
+
+> Text as at 2026-05-01.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2014 No. 421
+
+Enforcement, England And Wales
+
+Taking Control Of Goods
+
+Commercial Rent Arrears Recovery
+
+The Certification of Enforcement Agents Regulations 2014
+
+Made
+
+25th February 2014
+
+Laid before Parliament
+
+28th February 2014
+
+Coming into force
+
+6th April 2014
+
+The Lord Chancellor makes the following Regulations in exercise of the powers conferred by sections 64 and 90 of the Tribunals, Courts and Enforcement Act 2007 [^c22022231].
+
+## PART 1 — INTRODUCTORY
+
+### 1. Citation, commencement and extent
+
+(1) These Regulations may be cited as the Certification of Enforcement Agents Regulations 2014 and come into force on 6th April 2014.
+
+(2) These Regulations extend to England and Wales only.
+
+### Interpretation
+
+#### 2. General interpretation
+
+In these Regulations—
+
+- “**the Act**” means the Tribunals, Courts and Enforcement Act 2007;
+- “**the 1888 Act**” means the Law of Distress Amendment Act 1888 [^c22022241];
+- “**the 1895 Act**” means the Law of Distress Amendment Act 1895 [^c22022251];
+- “**the 1988 Rules**” means the Distress for Rent Rules 1988 [^c22022261];
+- “**applicant**” means a person applying for a certificate to be issued under section 64 of the Act;
+- “**certificate**” means a certificate under section 64 of the Act to act as an enforcement agent and includes a certificate under section 7 of the 1888 Act which by virtue of section 64(4) of the Act has effect as a certificate under section 64 of the Act;
+- “**certificated person**” means a person to whom a certificate has been issued;
+- “**commercial rent arrears recovery**” has the meaning given by section 72 of the Act;
+- “**complainant**” means a person who makes a complaint to the court under regulation 9;
+- “**court**” means the County Court;
+- “**enforcement agent**” has the meaning given in paragraph 2(1) of Schedule 12 (enforcement agents);
+- [^key-ee4dd377a951984d8cf84856c6afff60]...
+- “**Schedule 12**” means Schedule 12 to the Act;
+- “**the security**” means the security required by regulation 6(1) of these Regulations.
+
+### Issue of certificates
+
+#### 3. Issue of certificates
+
+A certificate may be issued under section 64 of the Act only—
+
+- (a) on application by the person to whom the certificate is to be issued; and
+- (b) if the judge is satisfied that—
+  - (i) the applicant is a fit and proper person to hold a certificate;
+  - (ii) the applicant possesses sufficient knowledge of the law and procedure relating to powers of enforcement by taking control of goods and of commercial rent arrears recovery to be competent to exercise those powers;
+  - (iii) the forms which the applicant intends to use when exercising powers of taking control of goods or commercial rent arrears recovery conform to the design and layout prescribed in the Schedule to these Regulations;
+  - (iv) the applicant has lodged the security required by regulation 6(1), or such security is already subsisting; and
+  - (v) the applicant does not carry on, and is not and will not be employed in, a business which includes buying debts.
+
+#### 4. Information about certificates and applications
+
+(1) The court must compile and maintain a list of all certificated persons who hold a certificate which has not expired or been cancelled.
+
+(2) The list required by paragraph (1) must contain, for each certificated person—
+
+- (a) the certificated person's name;
+- (b) the name of the certificated person's employer, if any;
+- (c) the date of issue of the certificate; and
+- (d) the date on which the certificate ceases to have effect.
+
+(3) The list required by paragraph (1) must be published on a website maintained by or on behalf of Her Majesty's Courts and Tribunals Service.
+
+(4) The court must also publish, on the website referred to in paragraph (3), notice of every application made to the court for a certificate to be issued under section 64.
+
+(5) The notice required by paragraph (4) must contain the following information—
+
+- (a) the applicant's name;
+- (b) the name of the applicant's employer, if any;
+- (c) the date on which the application will be heard, which must be at least eight days after the date in sub-paragraph (f);
+- (d) that any person who knows of any reason or reasons why the applicant may not be a fit and proper person to hold a certificate may give the reason or reasons to the court;
+- (e) that reasons given under sub-paragraph (d) must be given in writing;
+- (f) the date by which a person must give a reason or reasons to the court under sub-paragraph (d), which must be at least 30 days from the date on which the notice is published on the website.
+
+#### 5. When application may be heard
+
+No application for a certificate to be issued will be heard before the date in regulation 4(5)(c).
+
+#### 6. Security
+
+(1) The applicant must, before a certificate is issued—
+
+- (a) lodge in court by way of bond security totalling £10,000; or
+- (b) satisfy the judge that security totalling that amount is already subsisting by way of bond.
+
+(2) The security must be retained once the certificate has been issued for the purpose of securing the certificated person's duties as an enforcement agent and the payment of any reasonable costs, fees and expenses incurred in the investigation of any complaint made to the court against the certificated person in the capacity of an enforcement agent.
+
+(3) The certificated person must maintain the security throughout the duration of the certificate.
+
+(4) If at any time during the duration of the certificate the security no longer exists, or is reduced in value so it totals less than £10,000, the certificated person must, by such time as the court may direct, provide fresh security to the satisfaction of the court.
+
+#### 7. Duration of certificates
+
+(1) Subject to paragraph (3), a[^key-840d37ada94a6965aba168042dcb3e04] certificate has effect, unless cancelled, for two years from the date on which it was issued, subject in the case of a replacement certificate to regulation 8(3).
+
+(2) Subject to paragraph (3), every[^key-acf4240a612e124c9982df0f31bad5a0] certificate must state the date on which it ceases to have effect.
+
+(3)[^key-22940be8c3613d2b360355e8782454fa] If the relevant day during the period beginning with 26th December 2019 and ending on 23rd August 2020, the certificate will continue to have effect for a period of 9 months beginning with the relevant day.[^key-0b6c2517c951693288e89631a19932f2]
+
+(4) For the purposes of paragraph (3), the relevant day is the day 3 months before the expiry of the period referred to in paragraph (1).
+
+#### 8. Issue of replacement certificate following change of relevant details
+
+(1) If there is for any certificated person a change in any of the matters referred to in regulation 4(2)(a) and (b) (name, business address and employer of a certificated person), the certificated person must as soon as possible notify the court in writing of the change or changes, and produce the certificate to the court.
+
+(2) Where a certificated person notifies the court and produces the certificate in accordance with paragraph (1), the certificate must be cancelled, and a replacement certificate issued to the certificated person, as soon possible.
+
+(3) The replacement certificate must reflect the change notified, but in all other respects, including the date on which it ceases to have effect, must be the same as the cancelled certificate.
+
+(4) No fee is payable for cancellation of a certificate and issue of a replacement certificate under this regulation.
+
+### Complaints and cancellation of certificates
+
+#### 9. Complaints as to fitness to hold a certificate
+
+(1) Any person who considers that a certificated person is by reason of the certificated person's conduct in acting as an enforcement agent, or for any other reason, not a fit person to hold a certificate, may submit a complaint in writing to the court.
+
+(2) No fee is payable for submitting a complaint under paragraph (1).
+
+(3) A complaint submitted under paragraph (1) must provide details of the matters complained of and explain the reason or reasons why the certificated person is not a fit person to hold a certificate.
+
+(4) No complaint submitted under paragraph (1) may be considered by the judge until the certificated person has been provided with a copy of the complaint and given an opportunity to respond to it in writing.
+
+(5) If on considering the complaint and the certificated person's response the judge is satisfied that the certificated person remains a fit and proper person to hold a certificate, the complaint must be dismissed.
+
+(6) If—
+
+- (a) the certificated person fails to respond; or
+- (b) on considering the complaint and the certificated person's response the judge is not satisfied that the certificated person remains a fit and proper person to hold a certificate,
+
+the complaint must be considered at a hearing.
+
+(7) If a complaint is to be considered at a hearing under paragraph (6)—
+
+- (a) the certificated person must attend for examination and may make representations; and
+- (b) the complainant may attend and make representations, or may make representations in writing.
+
+(8) If after a hearing the judge is satisfied that the certificated person remains a fit and proper person to hold a certificate, the complaint must be dismissed.
+
+(9) No appeal lies against the dismissal of a complaint under paragraph (5) or paragraph (8).
+
+#### 10. Cancellation or suspension of certificates
+
+(1) If, following consideration of a complaint at a hearing, the judge is satisfied that the certificated person is not a fit and proper person to hold a certificate, the judge may—
+
+- (a) cancel the certificate; or
+- (b) suspend the certificate.
+
+(2) If the certificate is cancelled, the judge may order that the certificated person must, before making any further application to be issued with a certificate, have fulfilled such conditions as to training or any other conditions as the judge considers necessary for the certificated person to be a fit and proper person to hold a certificate.
+
+(3) If the certificate is suspended the judge may order that the suspension is not to be lifted until the certificated person has fulfilled such conditions as to training or any other conditions as the judge considers necessary for the certificated person to be a fit and proper person to hold a certificate.
+
+(4) The court must, whether the certificate is suspended or cancelled, consider whether to make an order under regulation 13(2).
+
+#### 11. Application of security after consideration of complaint at a hearing
+
+(1) When a complaint has been considered at a hearing, the judge may, if satisfied that the complaint was well founded, order that the security be forfeited either wholly or in part, and that the forfeited amount be paid, in such proportions as the judge considers appropriate—
+
+- (a) to the complainant by way of compensation for failure in due performance of the certificated person's duties as an enforcement agent or for the complainant's costs or expenses in attending and making representations; and
+- (b) where costs or expenses have been incurred by the court in considering the complaint at a hearing, to Her Majesty's Paymaster General by way of reimbursement of those costs or expenses.
+
+(2) The judge may make an order under paragraph (1) whether or not the certificate is cancelled or suspended.
+
+(3) If an order is made under paragraph (1) but the certificate is not cancelled, regulation 6(4) applies.
+
+(4) If the certificate is cancelled, the security must, subject to the making of an order under paragraph (1), be cancelled and the balance of any deposit, following payment of any amounts ordered to be forfeited, returned to the certificated person.
+
+#### 12. Surrender of certificate
+
+(1) When a certificate is cancelled or expires, it must be surrendered to the court, unless the judge directs otherwise.
+
+(2) If a certificated person ceases to carry on business as an enforcement agent, the certificated person must unless the judge orders otherwise surrender the certificate to the court, and the certificate will be treated as if it had expired on the date on which it was surrendered.
+
+(3) The security must be cancelled and the balance of any deposit returned to the certificated person following surrender of a certificate.
+
+#### 13. Continuing effect of certificate in certain circumstances
+
+(1) This regulation applies in any case where—
+
+- (a) a certificate is cancelled or has expired, or is suspended; and
+- (b) before the cancellation, expiry or suspension, the certificated person took control of goods (within the meaning given by paragraph 13(1) of Schedule 12 (ways of taking control)).
+
+(2) In such a case, unless the court orders otherwise, the goods continue to be controlled goods and the certificate continues to have effect, for the purpose of any action which may be taken in relation to the goods as controlled goods under Schedule 12, as if it had not been cancelled, or expired, or suspended as the case may be.
+
+### Transitional, saving and consequential provisions
+
+#### 14. Applications for grant of certificate made under the 1988 Rules
+
+(1) The 1988 Rules continue to apply in relation to—
+
+- (a) an application for the grant of a certificate which was made before 6th April 2014 by a person who does not hold a certificate but was not determined before that date;
+- (b) an application for the grant of a certificate to replace an existing certificate which ceases to have effect on or before 6th August 2014.
+
+(2) A certificate granted on or after 6th April 2014 pursuant to an application referred to in paragraph (1)(a) or (b) has effect as a certificate under section 64 of the Act in the same way as a certificate under section 7 of the 1888 Act which is in force on that date.
+
+#### 15. Duration of certificates granted under section 7 of the 1888 Act
+
+A certificate under section 7 of the 1888 Act which is in force on 6th April 2014 shall have effect for the period provided for when it was granted.
+
+Signed by the authority of the Lord Chancellor
+
+Edward Faulks
+
+Minister of State
+
+Ministry of Justice
+
+## SCHEDULE
+
+Regulation 3
+
+Notice of enforcement[^key-29adf954af965fdf1738845d6f9d4ecf]
+
+[image: see source](https://www.legislation.gov.uk/uksi/2014/421/images/uksi_20140421_en_epp_001.gif)[image: see source](https://www.legislation.gov.uk/uksi/2014/421/images/uksi_20140421_en_epp_002.gif)
+
+[image: see source](https://www.legislation.gov.uk/uksi/2014/421/images/uksi_20140421_en_sld_003)[image: see source](https://www.legislation.gov.uk/uksi/2014/421/images/uksi_20140421_en_sld_004)[image: see source](https://www.legislation.gov.uk/uksi/2014/421/images/uksi_20140421_en_sld_005)[image: see source](https://www.legislation.gov.uk/uksi/2014/421/images/uksi_20140421_en_sld_006)[image: see source](https://www.legislation.gov.uk/uksi/2014/421/images/uksi_20140421_en_sld_007)[image: see source](https://www.legislation.gov.uk/uksi/2014/421/images/uksi_20140421_en_sld_008)[image: see source](https://www.legislation.gov.uk/uksi/2014/421/images/uksi_20140421_en_sld_009)[image: see source](https://www.legislation.gov.uk/uksi/2014/421/images/uksi_20140421_en_sld_010)[image: see source](https://www.legislation.gov.uk/uksi/2014/421/images/uksi_20140421_en_sld_011)[image: see source](https://www.legislation.gov.uk/uksi/2014/421/images/uksi_20140421_en_sld_012)[image: see source](https://www.legislation.gov.uk/uksi/2014/421/images/uksi_20140421_en_sld_013)[image: see source](https://www.legislation.gov.uk/uksi/2014/421/images/uksi_20140421_en_sld_014)[image: see source](https://www.legislation.gov.uk/uksi/2014/421/images/uksi_20140421_en_sld_015)[image: see source](https://www.legislation.gov.uk/uksi/2014/421/images/uksi_20140421_en_sld_016)[image: see source](https://www.legislation.gov.uk/uksi/2014/421/images/uksi_20140421_en_sld_017)[image: see source](https://www.legislation.gov.uk/uksi/2014/421/images/uksi_20140421_en_sld_018)[image: see source](https://www.legislation.gov.uk/uksi/2014/421/images/uksi_20140421_en_sld_019)[image: see source](https://www.legislation.gov.uk/uksi/2014/421/images/uksi_20140421_en_sld_020)[image: see source](https://www.legislation.gov.uk/uksi/2014/421/images/uksi_20140421_en_sld_021)[image: see source](https://www.legislation.gov.uk/uksi/2014/421/images/uksi_20140421_en_sld_022)[image: see source](https://www.legislation.gov.uk/uksi/2014/421/images/uksi_20140421_en_sld_023)[image: see source](https://www.legislation.gov.uk/uksi/2014/421/images/uksi_20140421_en_sld_024)[image: see source](https://www.legislation.gov.uk/uksi/2014/421/images/uksi_20140421_en_sld_025)
+
+*(This note is not part of the Regulations)*
+
+These Regulations, which are made under section 64 of the Tribunals, Courts and Enforcement Act 2007 (“**the 2007 Act**”), make provision for the process by which persons who by virtue of section 63 of the 2007 Act require a certificate in order to act as enforcement agents are issued with a certificate, including the requirements which must be satisfied for such a certificate to be issued, the duration of certificates and how they may be suspended or cancelled, and the making of complaints about a person that a person issued with a certificate is not a fit and proper person to hold such a certificate. They replace the provisions of the Distress for Rent Rules 1988 (which are separately revoked) dealing with these matters, but apply more widely.
+
+Certificates are, under section 64(1) of the 2007 Act, to be issued by a judge of the County Court, and regulation 3 sets out the matters of which the judge must be satisfied before a certificate may be issued. Those are that the applicant for the certificate—
+
+- — is a fit and proper person to hold such a certificate;
+- — has sufficient knowledge of the relevant law and practice to be competent;
+- — will use forms which follow the appropriate template (as set out in the Schedule);
+- — has lodged (or otherwise has in place) the necessary security (as set out regulation 6);
+
+is not involved (as employee or otherwise) in the business of buying debts.
+
+Regulation 4 requires the court to keep and publish certain information about certificated persons.
+
+Regulation 7 provides for the duration of a certificate (2 years from issue unless it has to be replaced under regulation 8 because of a change in certain details).
+
+Regulation 9 makes provision about the making of complaints that a certificated person is not a fit and proper person to hold a certificate; and regulations 10 and 11 make provision about possible cancellation or suspension of a certificate, and application of the certificated person's security, following a hearing of such a complaint.
+
+Regulation 12 makes provision about the surrender of certificates and regulation 13 for a certificate which has been cancelled or suspended or has expired to continue to have effect for certain limited purposes enabling enforcement action to be completed.
+
+Regulations 14 and 15 make transitional provision in relation to certificates issued or applications made under the Distress for Rent Rules 1988.
+
+An Impact Assessment was carried out to consider the impact of the introduction of the reforms of which these Regulations form a part. That Impact Assessment may be found at https://consult.justice.gov.uk/digital-communications/transforming-bailiff-action.
+
+## Annotations
+
+[^c22022231]: Marginal citation: [2007 c. 15](https://www.legislation.gov.uk/ukpga/2007/15). Section 90 is prospectively amended by the [Crime and Courts Act 2013 (c.22)](https://www.legislation.gov.uk/ukpga/2013/22), [section 25(8)](https://www.legislation.gov.uk/ukpga/2013/22/section/25/8), and section 64(1) by the same Act, section 17(5) and Schedule 9, paragraph 46.
+
+[^c22022241]: Marginal citation: [1888 c. 21](https://www.legislation.gov.uk/ukpga/1888/21). Section 7 was amended by the [Statute Law Revision Act 1908 (c.49)](https://www.legislation.gov.uk/ukpga/1908/49), by the [Courts Act 1971 (c.23)](https://www.legislation.gov.uk/ukpga/1971/23), [section 56(1)](https://www.legislation.gov.uk/ukpga/1971/23/section/56/1) and Schedule 8, Part I, paragraph 2, and is prospectively amended by the [Crime and Courts Act 2013 (c.22)](https://www.legislation.gov.uk/ukpga/2013/22), [section 17(5)](https://www.legislation.gov.uk/ukpga/2013/22/section/17/5) and Schedule 9, paragraph 16. The Act is prospectively repealed by the [Tribunals, Courts and Enforcement Act 2007 (c.15)](https://www.legislation.gov.uk/ukpga/2007/15), [sections 86](https://www.legislation.gov.uk/ukpga/2007/15/section/86) and 146 and Schedule 14, paragraph 19 and Schedule 23, Part 4.
+
+[^c22022251]: Marginal citation: [1895 c. 24](https://www.legislation.gov.uk/ukpga/1895/24). Section 1 was amended by the [Statute Law Revision Act 1908 (c.49)](https://www.legislation.gov.uk/ukpga/1908/49), and is prospectively amended by the [Crime and Courts Act 2013 (c.22)](https://www.legislation.gov.uk/ukpga/2013/22), [section 17(5)](https://www.legislation.gov.uk/ukpga/2013/22/section/17/5) and Schedule 9, paragraph 17(a).
+
+[^c22022261]: Marginal citation: [S.I. 1988/2050](https://www.legislation.gov.uk/uksi/1988/2050), amended by [S.I. 1999/2360](https://www.legislation.gov.uk/uksi/1999/2360), 1999/2564, 1999/3186, 2000/1481, 2000/2737, 2001/4026, 2003/1858, 2003/2141 and 2009/873.
+
+[^key-ee4dd377a951984d8cf84856c6afff60]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2014/421/regulation/2) omitted (24.6.2020) by virtue of [The Taking Control of Goods and Certification of Enforcement Agents (Amendment) (No. 2) (Coronavirus) Regulations 2020 (S.I. 2020/614)](https://www.legislation.gov.uk/uksi/2020/614), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/614/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2020/614/regulation/3/2) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/614/regulation/1/2))
+
+[^key-840d37ada94a6965aba168042dcb3e04]: Textual amendment: Words in reg. 7(1) substituted (25.4.2020) by [The Taking Control of Goods and Certification of Enforcement Agents (Amendment) (Coronavirus) Regulations 2020 (S.I. 2020/451)](https://www.legislation.gov.uk/uksi/2020/451), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/451/regulation/1/1), [3(3)(a)](https://www.legislation.gov.uk/uksi/2020/451/regulation/3/3/a) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/451/regulation/1/2))
+
+[^key-acf4240a612e124c9982df0f31bad5a0]: Textual amendment: Words in reg. 7(2) substituted (25.4.2020) by [The Taking Control of Goods and Certification of Enforcement Agents (Amendment) (Coronavirus) Regulations 2020 (S.I. 2020/451)](https://www.legislation.gov.uk/uksi/2020/451), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/451/regulation/1/1), [3(3)(b)](https://www.legislation.gov.uk/uksi/2020/451/regulation/3/3/b) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/451/regulation/1/2))
+
+[^key-22940be8c3613d2b360355e8782454fa]: Textual amendment: Reg. 7(3)(4) inserted (25.4.2020) by [The Taking Control of Goods and Certification of Enforcement Agents (Amendment) (Coronavirus) Regulations 2020 (S.I. 2020/451)](https://www.legislation.gov.uk/uksi/2020/451), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/451/regulation/1/1), [3(3)(c)](https://www.legislation.gov.uk/uksi/2020/451/regulation/3/3/c) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/451/regulation/1/2))
+
+[^key-0b6c2517c951693288e89631a19932f2]: Textual amendment: Words in [reg. 7(3)](https://www.legislation.gov.uk/uksi/2014/421/regulation/7/3) substituted (24.6.2020) by [The Taking Control of Goods and Certification of Enforcement Agents (Amendment) (No. 2) (Coronavirus) Regulations 2020 (S.I. 2020/614)](https://www.legislation.gov.uk/uksi/2020/614), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/614/regulation/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2020/614/regulation/3/3) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/614/regulation/1/2))
+
+[^key-29adf954af965fdf1738845d6f9d4ecf]: Textual amendment: Sch. Form substituted (1.5.2026) by [The Taking Control of Goods (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/366)](https://www.legislation.gov.uk/uksi/2026/366), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/366/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/366/schedule) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2026/366/regulation/1/3))

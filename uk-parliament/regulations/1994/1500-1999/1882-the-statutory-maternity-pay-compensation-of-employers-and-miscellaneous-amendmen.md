@@ -1,0 +1,266 @@
+---
+title: The Statutory Maternity Pay (Compensation of Employers) and Miscellaneous Amendment Regulations 1994
+id: uksi/1994/1882
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '1994-07-14'
+text_date: '2026-04-06'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/uksi/1994/1882
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1994/1882/pdfs/uksi_19941882_301114_en.pdf
+- http://www.legislation.gov.uk/uksi/1994/1882/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Statutory Maternity Pay (Compensation of Employers) and Miscellaneous Amendment Regulations 1994
+
+> Text as at 2026-04-06.
+>
+> Extent: England, Wales, Scotland.
+
+*Extent: E+W+S*
+
+1994 No. 1882
+
+SOCIAL SECURITY
+
+TERMS AND CONDITIONS OF EMPLOYMENT
+
+The Statutory Maternity Pay (Compensation of Employers) and Miscellaneous Amendment Regulations 1994
+
+Made
+
+14th July 1994
+
+Laid before Parliament
+
+15th July 1994
+
+Coming into force in accordance with regulation 1(2) and (3)
+
+regulations 1 and 9
+
+31st July 1994
+
+regulations 2 to 8
+
+4th September 1994
+
+The Secretary of State for Social Security, in exercise of powers conferred on him by sections 35(3), 167(1), (1A), (1B) and (4), 171(1) and 175(1) to (4) of the Social Security Contributions and Benefits Act 1992[^c1798413] and of all other powers enabling him in that behalf after agreement by the Social Security Advisory Committee that proposals in respect of regulation 9 should not be referred to it[^c1798414], hereby makes the following Regulations:
+
+## 1. Citation, commencement and interpretation
+
+(1) These Regulations may be cited as the Statutory Maternity Pay (Compensation of Employers) and Miscellaneous Amendment Regulations 1994 and regulations 2 to 7 shall have effect in relation to payments of statutory maternity pay due on or after 4th September 1994.
+
+(2) This regulation and regulation 9 shall come into force on 31st July 1994.
+
+(3) Regulations 2 to 8 shall come into force on 4th September 1994.
+
+(4) In these Regulations—
+
+- “the Board” means the Commissioners of Inland Revenue;[^key-185b6b041798f1d62c4a2005c2dc2bb7]
+- “the Contributions and Benefits Act” means the Social Security Contributions and Benefits Act 1992
+- “the Contributions Regulations” means the Social Security (Contributions) Regulations 2001;
+- “the Employment Act” means the Employment Act 2002;
+- [^c1798415]“the Maternity Allowance Regulations” means the Social Security (Maternity Allowance) Regulations 1987 ;
+- [^key-d4315ff2f8e8f50ebe7291d6f5790abd]...
+- “contributions payments” has the same meaning as in section 167(8) of the Contributions and Benefits Act;
+- “employer” shall include a person who was previously an employer of a woman to whom a payment of statutory maternity pay was made, whether or not that person remains her employer at the date any deduction from contributions payments is made by him in accordance with regulation 5 or, as the case may be, any payment is received by him in accordance with regulation 6;
+- “income tax month” means the period beginning on the 6th day of any calendar month and ending on the 5th day of the following calendar month;
+- “income tax quarter” means, in any tax year, the period beginning on 6th April and ending on 5th July, the period beginning on 6th July and ending on 5th October, the period beginning on 6th October and ending on 5th January, or the period beginning on 6th January and ending on 5th April;
+- [^key-d4315ff2f8e8f50ebe7291d6f5790abd]...
+- “qualifying day” means the first day in the week immediately preceding the 14th week before the expected week of confinement in which a woman who is or has been an employee first satisfies the conditions of entitlement to statutory maternity pay for which a deduction from a contributions payment is made by her employer in respect of a payment of statutory maternity pay made by him;
+- “qualifying tax year” means the tax year preceding the tax year in which the qualifying day in question falls.
+- “statutory adoption pay” means any payment under section 171ZL of the Contributions and Benefits Act;
+- “statutory paternity pay” means any payment under section 171ZA or 171ZB of the Contributions and Benefits Act;
+- “tax year” means the period of 12 months beginning on 6th April in any year;
+- “writing” includes writing delivered by means of electronic communications approved by directions issued by the Board pursuant to regulations made under section 132 of the Finance Act 1999;
+
+(5)[^key-d2be65ab8b31aaed96c739b5ed9d27bd] Any reference in these Regulations to the employees of any employer includes, where the context permits, a reference to his former employees.
+
+(6)[^key-bb6ef1727c02cbbc6b35be7b20b5719c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 2. Meaning of “small employer”
+
+(1) Subject to the following provisions of this regulation, a small employer is an employer whose contributions payments for the qualifying tax year do not exceed £45,000[^key-bb60d710d914b198cd8c6d30a0b3882a].
+
+(2) For the purposes of this regulation, the amount of an employer’s contributions payments shall be determined without regard to any deductions that may be made from them under any enactment or instrument.
+
+(3) Where in the qualifying tax year an employer has made contributions payments in one or more, but less than 12, of the income tax months, the amount of his contributions payments for that tax year shall be estimated by adding together all of those payments, dividing the total amount by the number of those months in which he has made those payments and multiplying the resulting figure by 12.
+
+(4) Where in the qualifying tax year an employer has made no contributions payments, but does have such payments in one or more income tax months which fall both—
+
+- (a) in the tax year in which the qualifying day falls, and
+- (b) before the qualifying day or, where there is more than one such day in that tax year, before the first of those days,
+
+then the amount of his contributions payments for the qualifying tax year shall be estimated in accordance with paragraph (3) but as if the amount of the contributions payments falling in those months had fallen instead in the corresponding tax months in the qualifying tax year.
+
+## 3. Determination of the amount of additional payment to which a small employer shall be entitled[^M_C_2e3a8348-3177-4852-8db8-35b45cd4b165]
+
+In respect of any payment of statutory maternity pay made in the tax year commencing 6th[^key-f35780b4b96a2d5ca1c28f14cf3e4ddd] 6th April 2026[^key-6b6e2dbf179856f306c2bfe309d5eeea], or in any subsequent tax year, a small employer shall be entitled to recover an additional amount[^key-0d63652bcccdc71687410d3153fbed5b] being an amount equal to 9 per cent.[^key-468620c285fa685fcdbfb66579090574] of such payment, that percentage being the total amount of secondary Class 1 contributions estimated by the Secretary of State as to be paid in respect of statutory maternity pay by all employers in that year, expressed as a percentage of the total amount of statutory maternity pay estimated by him to be paid by all employers in that year.
+
+## 4. Right of employers to prescribed amount[^key-7d7461c3f659b44bdffac96b5545f6f9]
+
+An employer who has made, or is liable to make, any payment of statutory maternity pay shall be entitled to recover—
+
+- (a) an amount equal to 92 per cent. of such payment; or
+- (b) if he is a small employer—
+  - (i) an amount equal to such payment, and
+  - (ii) an additional amount under regulation 3,
+
+  in accordance with the provisions of these Regulations.
+
+## 5. Application for advance funding from the Board
+
+(1) If an employer is entitled to recover an amount determined in accordance with regulation 4 in respect of statutory maternity pay which he is required to pay to an employee or employees in any income tax month or income tax quarter and the amount exceeds the aggregate of—
+
+- (a) the total amount of tax which the employer is required to pay to the collector of taxes in respect of deductions from the emoluments of his employees in accordance with the Income Tax (Employments) Regulations 1993 for that income tax month or income tax quarter;
+- (b) the total amount of deductions made by the employer from the emoluments of his employees for that income tax month or income tax quarter in accordance with regulations made under section 22(5) of the Teaching and Higher Education Act 1998 or section 73B of the Education (Scotland) Act 1980 or in accordance with Article 3(5) of the Education (Student Support) (Northern Ireland) Order 1988;
+- (c) the total amount of contributions payments which the employer is required to pay to the collector of taxes in respect of the emoluments of his employees (whether by means of deduction or otherwise) in accordance with the Contributions Regulations for that income tax month or income tax quarter;
+- (d) the total amount of payments which the employer is required to pay to the collector of taxes in respect of deductions made on account of tax from payments to sub-contractors in accordance with section 559 of the Income and Corporation Taxes Act 1988 for that income tax month or income tax quarter; and
+- (e) the statutory paternity pay, statutory adoption pay and statutory maternity pay which the employer is required to pay to his employees in that income tax month or income tax quarter,
+
+the employer may apply to the Board in accordance with paragraph (2) for funds (“advance funding”) to pay that excess (or so much of it as remains outstanding) to the employee or employees.
+
+(2) Where—
+
+- (a) the conditions in paragraph (1) are satisfied; or
+- (b) the employer considers that the conditions in paragraph (1) will be satisfied on the date of any subsequent payment of emoluments to one or more employees who are entitled to a payment of statutory maternity pay,
+
+the employer may apply to the Board for advance funding on a form approved for that purpose by the Board.
+
+(3) An application by an employer under paragraph (2) shall be for an amount not exceeding the amount of statutory maternity pay which the employer is entitled to recover in accordance with regulation 4 and which he is required to pay to an employee or employees for the income tax month or income tax quarter to which the payment of emoluments relates.
+
+## 6. Deductions from payments to the Board[^M_C_0b8aaaca-7b2f-48f4-9c4f-8f4fb102bad0]
+
+An employer who is entitled to recover an amount under regulation 4 may do so by making one or more deductions from the aggregate of the amounts specified in sub-paragraphs (a) to (e) of regulation 5(1), except where and insofar as—
+
+- (a) those amounts relate to earnings paid before the beginning of the income tax month or income tax quarter in which the payment of statutory maternity pay was made;
+- (b) those amounts are paid by him later than six years after the tax year in which the payment of statutory maternity pay was made;
+- (c) the employer has received advance funding from the Board in accordance with an application under regulation 5; or
+- (d) the employer has made a request in writing under regulation 5 that the amount which he is entitled to recover under regulation 4 be paid to him and he has not received notification by the Board that such request is refused.
+
+## 6A. Payments to employers by the Board
+
+If, in an income tax month or an income tax quarter—
+
+- (a) the total amount that the employer is entitled to deduct under regulation 6 is less than the amount which the employer is entitled to recover under regulation 4;
+- (b) the Board is satisfied that this is so; and
+- (c) the employer has so requested in writing,
+
+the Board shall pay to the employer the sum that the employer is unable to deduct under regulation 6.
+
+## 7. Date when certain contributions are to be treated as paid
+
+Where an employer has made a deduction from a contributions payment under regulation 6[^key-c2ca586075789c6f03ae0691de073b7f], the date on which it is to be treated as having been paid for the purposes of section 167(6)[^key-c69296ab0f235f909827e525d46acfaa] of the Contributions and Benefits Act (amount deducted to be treated as paid and received towards discharging liability in respect of Class 1 contributions) is—
+
+- (a) in a case where the deduction did not extinguish the contributions payment, the date on which the remainder of the contributions payment or, as the case may be, the first date on which any part of the remainder of the contributions payment was paid; and
+- (b) in a case where the deduction extinguished the contributions payment, the 14th day after the end of the income tax month during which there were paid the earnings in respect of which the contributions payment was payable.
+
+## 7A. Overpayments[^key-35a4232a8e0cbcabb884ee4169a40c33]
+
+(1) Where advance funding has been provided to an employer in accordance with an application under regulation 5, the Board may recover any part of it not used to pay statutory maternity pay (“the overpayment”).
+
+(2) An officer of the Board shall decide to the best of his judgement the amount of the overpayment and shall give notice in writing of his decision to the employer.
+
+(3) A decision under paragraph (2) may be in respect of funding provided in accordance with regulation 5 for one or more income tax months or income tax quarters in a tax year—
+
+- (a) in respect of one or more classes of employees specified in a decision notice (where a notice does not name any individual employee); or
+- (b) in respect of one or more individual employees named in a decision notice.
+
+(4) Subject to paragraphs (5), (6) or (7), Part 6 of the Taxes Management Act 1970 (collection and recovery) shall apply with any necessary modifications to a decision under this regulation as if the amount specified were an assessment and as if the amount set out in the notice were income tax charged on the employer.
+
+(5) Where a decision under paragraph (2) relates to more than one employee, proceedings may be brought to recover the amount overpaid without distinguishing the sum to be repaid in respect of each employee and without specifying the employee in question.
+
+(6) A decision to recover an amount made in accordance with this regulation shall give rise to one cause of action or matter of complaint for the purpose of proceedings under section 65, 66 or 67 of the Taxes Management Act 1970.
+
+(7) Nothing in paragraph (5) shall prevent separate proceedings being brought for the recovery of any amount which the employer is liable to repay in respect of each employee to whom the decision relates.
+
+## 8. Revocation
+
+The Statutory Maternity Pay (Compensation of Employers) Regulations 1987 [^c1798416] are hereby revoked.
+
+## 9. Amendment of regulation 3 of the Maternity Allowance Regulations
+
+In regulation 3(4)(c) of the Maternity Allowance Regulations (modification of the maternity allowance period) for head (ii) there shall be substituted the following head—
+
+> - (ii) where a woman is absent from work after the beginning of the 6th week before the expected week of confinement wholly or partly due to pregnancy or confinement, at the end of the 18th week following the week in which she was so absent,
+
+.
+
+Signed by authority of the Secretary of State for Social Security.
+
+Astor
+
+Parliamentary Under-Secretary of State,
+
+Department of Social Security
+
+(This note is not part of the Regulations)
+
+These Regulations provide for compensation of employers who have made payments of statutory maternity pay under the Social Security Contributions and Benefits Act 1992. They also contain a miscellaneous amendment to the Social Security (Maternity Allowance) Regulations 1987 (“the maternity allowance regulations”).
+
+Regulation 2 defines the meaning of small employer for the purposes of the recovery of statutory maternity pay.
+
+Regulation 3 defines the additional payment which a small employer shall be entitled to recover.
+
+Regulation 4 sets out the payments which may be recovered by employers.
+
+Regulation 5 provides that payments may be recovered by deductions from Class 1 national insurance contributions.
+
+Regulation 6 provides for payments to employers by the Secretary of State where the total amount which the employer can deduct under the regulations exceeds the amount he is liable to pay by way of Class 1 national insurance contributions.
+
+Regulation 7 sets out the circumstances in which a deduction from contributions payments may be treated as paid.
+
+Regulation 8 revokes the Statutory Maternity Pay (Compensation of Employers) Regulations 1987.
+
+Regulations 1 to 8 are made under section 167 of the Social Security Contributions and Benefits Act 1992. They do not, by virtue of paragraph 8 of Schedule 7 to the Social Security Administration Act 1992, require prior submission to the Social Security Advisory Committee and they have not been so referred.
+
+Regulation 9 amends regulation 3 of the maternity allowance regulations to amend the definition of maternity allowance period in respect of women claiming maternity allowance after confinement.
+
+An assessment of the compliance costs for employers has been made and a copy has been placed in the libraries of both Houses of Parliament. Copies can be obtained by post from the Department of Social Security, Room 06/11, Adelphi, 1—11 John Adam Street, London, WC2N 6HT.
+
+## Annotations
+
+[^c1798413]: Marginal citation: [1992 c.4](https://www.legislation.gov.uk/ukpga/1992/4); [sections 35](https://www.legislation.gov.uk/uksi/1994/1882/section/35) and 167 were amended by the [Maternity Allowance and Statutory Maternity Pay Regulations 1994 (S.I. 1994/1230)](https://www.legislation.gov.uk/uksi/1994/1230). Section 171(1) is cited because of the meaning ascribed to the word “prescribe”.
+
+[^c1798414]: Marginal citation: [See the Social Security Administration Act 1992 (c.5)](https://www.legislation.gov.uk/ukpga/1992/5) section 173(1)(b).
+
+[^key-185b6b041798f1d62c4a2005c2dc2bb7]: Textual amendment: Words in reg. 1(4) inserted (6.4.2003) by [Statutory Maternity Pay (Compensation of Employers) Amendment Regulations 2003 (S.I. 2003/672)](https://www.legislation.gov.uk/uksi/2003/672), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/672/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2003/672/regulation/2/2/b)
+
+[^c1798415]: Marginal citation: [S.I. 1987/416](https://www.legislation.gov.uk/uksi/1987/416); the relevant amending instrument is [S.I. 1994/1367](https://www.legislation.gov.uk/uksi/1994/1367).
+
+[^key-d4315ff2f8e8f50ebe7291d6f5790abd]: Textual amendment: Words in reg. 1(4) omitted (6.4.2003) by virtue of [Statutory Maternity Pay (Compensation of Employers) Amendment Regulations 2003 (S.I. 2003/672)](https://www.legislation.gov.uk/uksi/2003/672), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/672/regulation/1/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2003/672/regulation/2/2/a)
+
+[^key-d2be65ab8b31aaed96c739b5ed9d27bd]: Textual amendment: Reg. 1(5) substituted (6.4.2003) by [Statutory Maternity Pay (Compensation of Employers) Amendment Regulations 2003 (S.I. 2003/672)](https://www.legislation.gov.uk/uksi/2003/672), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/672/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2003/672/regulation/2/3)
+
+[^key-bb6ef1727c02cbbc6b35be7b20b5719c]: Textual amendment: Reg. 1(6) omitted (6.4.2003) by virtue of [Statutory Maternity Pay (Compensation of Employers) Amendment Regulations 2003 (S.I. 2003/672)](https://www.legislation.gov.uk/uksi/2003/672), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/672/regulation/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2003/672/regulation/2/4)
+
+[^key-bb60d710d914b198cd8c6d30a0b3882a]: Textual amendment: Word in reg. 2(1) substituted (6.4.2004 with effect in accordance with reg. 1(2)) by [Statutory Maternity Pay (Compensation of Employers) Amendment Regulations 2004 (S.I. 2004/698)](https://www.legislation.gov.uk/uksi/2004/698), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2004/698/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2004/698/regulation/2)
+
+[^M_C_2e3a8348-3177-4852-8db8-35b45cd4b165]: Modification: Reg. 3: transfer of functions (1.4.1999) by [Social Security Contributions (Transfer of Functions, etc.) Act 1999 (c. 2)](https://www.legislation.gov.uk/ukpga/1999/2), [ss. 1(2)](https://www.legislation.gov.uk/ukpga/1999/2/section/1/2), [28(3)](https://www.legislation.gov.uk/ukpga/1999/2/section/28/3), [Sch. 2](https://www.legislation.gov.uk/ukpga/1999/2/schedule/2); [S.I. 1999/527](https://www.legislation.gov.uk/uksi/1999/527), [art. 2(b)](https://www.legislation.gov.uk/uksi/1999/527/article/2/b), [Sch. 2](https://www.legislation.gov.uk/uksi/1999/527/schedule/2)
+
+[^key-f35780b4b96a2d5ca1c28f14cf3e4ddd]: Textual amendment: Words in reg. 3 inserted (6.4.1995) by [The Statutory Maternity Pay (Compensation of Employers) Amendment Regulations 1995 (S.I. 1995/566)](https://www.legislation.gov.uk/uksi/1995/566), [regs. 1](https://www.legislation.gov.uk/uksi/1995/566/regulation/1), [2(a)](https://www.legislation.gov.uk/uksi/1995/566/regulation/2/a)
+
+[^key-6b6e2dbf179856f306c2bfe309d5eeea]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/uksi/1994/1882/regulation/3) substituted (6.4.2026) by [The Social Security and Statutory Maternity Pay (Evidence of Pregnancy and Compensation of Employers) (Amendment) Regulations 2026 (S.I. 2026/201)](https://www.legislation.gov.uk/uksi/2026/201), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2026/201/regulation/1/3), [5(a)](https://www.legislation.gov.uk/uksi/2026/201/regulation/5/a)
+
+[^key-0d63652bcccdc71687410d3153fbed5b]: Textual amendment: Words in reg. 3 substituted (6.4.2003) by [Statutory Maternity Pay (Compensation of Employers) Amendment Regulations 2003 (S.I. 2003/672)](https://www.legislation.gov.uk/uksi/2003/672), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/672/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2003/672/regulation/3)
+
+[^key-468620c285fa685fcdbfb66579090574]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/uksi/1994/1882/regulation/3) substituted (6.4.2026) by [The Social Security and Statutory Maternity Pay (Evidence of Pregnancy and Compensation of Employers) (Amendment) Regulations 2026 (S.I. 2026/201)](https://www.legislation.gov.uk/uksi/2026/201), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2026/201/regulation/1/3), [5(b)](https://www.legislation.gov.uk/uksi/2026/201/regulation/5/b)
+
+[^key-7d7461c3f659b44bdffac96b5545f6f9]: Textual amendment: Regs. 4-6A substituted for regs. 4-6 (6.4.2003) by [Statutory Maternity Pay (Compensation of Employers) Amendment Regulations 2003 (S.I. 2003/672)](https://www.legislation.gov.uk/uksi/2003/672), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/672/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2003/672/regulation/4)
+
+[^M_C_0b8aaaca-7b2f-48f4-9c4f-8f4fb102bad0]: Modification: Reg. 6: transfer of functions (1.4.1999) by [Social Security Contributions (Transfer of Functions, etc.) Act 1999 (c. 2)](https://www.legislation.gov.uk/ukpga/1999/2), [ss. 1(2)](https://www.legislation.gov.uk/ukpga/1999/2/section/1/2), [28(3)](https://www.legislation.gov.uk/ukpga/1999/2/section/28/3), [Sch. 2](https://www.legislation.gov.uk/ukpga/1999/2/schedule/2); [S.I. 1999/527](https://www.legislation.gov.uk/uksi/1999/527), [art. 2(b)](https://www.legislation.gov.uk/uksi/1999/527/article/2/b), [Sch. 2](https://www.legislation.gov.uk/uksi/1999/527/schedule/2)
+
+[^key-c2ca586075789c6f03ae0691de073b7f]: Textual amendment: Words in reg. 7 substituted (6.4.2003) by [Statutory Maternity Pay (Compensation of Employers) Amendment Regulations 2003 (S.I. 2003/672)](https://www.legislation.gov.uk/uksi/2003/672), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/672/regulation/1/1), [5(a)](https://www.legislation.gov.uk/uksi/2003/672/regulation/5/a)
+
+[^key-c69296ab0f235f909827e525d46acfaa]: Textual amendment: Words in reg. 7 substituted (6.4.2003) by [Statutory Maternity Pay (Compensation of Employers) Amendment Regulations 2003 (S.I. 2003/672)](https://www.legislation.gov.uk/uksi/2003/672), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/672/regulation/1/1), [5(b)](https://www.legislation.gov.uk/uksi/2003/672/regulation/5/b)
+
+[^key-35a4232a8e0cbcabb884ee4169a40c33]: Textual amendment: Reg. 7A inserted (6.4.2003) by [Statutory Maternity Pay (Compensation of Employers) Amendment Regulations 2003 (S.I. 2003/672)](https://www.legislation.gov.uk/uksi/2003/672), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/672/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2003/672/regulation/6)
+
+[^c1798416]: Marginal citation: [S.I. 1987/91](https://www.legislation.gov.uk/uksi/1987/91); the relevant amending instruments are [S.I. 1988/430](https://www.legislation.gov.uk/uksi/1988/430), 1991/641 and 1994/592.

@@ -1,0 +1,130 @@
+---
+title: The Control of Dogs Order 1992
+id: uksi/1992/901
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '1992-03-19'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1992/901
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1992/901/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Control of Dogs Order 1992
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+1992 No. 901
+
+DOGS
+
+CONTROL OF DOGS
+
+The Control of Dogs Order 1992
+
+Made
+
+19th March 1992
+
+Coming into force
+
+1st April 1992
+
+The Minister of Agriculture, Fisheries and Food, in relation to England, the Secretary of State for Scotland in relation to Scotland, and the Secretary of State for Wales in relation to Wales, in exercise of the powers conferred on them by sections 13(2) and (3) and 72 of the Animal Health Act 1981[^f00001] and of all other powers enabling them in that behalf, hereby make the following Order:
+
+## 1. Title and commencement
+
+This Order may be cited as the Control of Dogs Order 1992 and shall come into force on 1st April 1992.
+
+## 2. Wearing of collars by dogs
+
+(1) Subject to paragraph (2) below, every dog while in a highway or in a place of public resort shall wear a collar with the name and address of the owner inscribed on the collar or on a plate or badge attached to it.
+
+(2) Paragraph (1) above shall not apply to—
+
+- (a) any pack of hounds,
+- (b) any dog while being used for sporting purposes,
+- (c) any dog while being used for the capture or destruction of vermin,
+- (d) any dog while being used for the driving or tending of cattle or sheep,
+- (e) any dog while being used on official duties by a member of Her Majesty’s Armed Forces or Her Majesty’s Customs and Excise or the police force for any area,
+- (f) any dog while being used in emergency rescue work, or
+- (g) any dog registered with the Guide Dogs for the Blind Association.
+
+## 3. Offences
+
+The owner of a dog or the person in charge of a dog who, without lawful authority or excuse, proof of which shall lie on him, causes or permits the dog to be in a highway or in a place of public resort not wearing a collar as prescribed in article 2(1) above shall be guilty of an offence against the Animal Health Act 1981.
+
+## 4. Seizure of dogs
+
+Any dog in respect of which an offence is being committed against this Order may be seized and treated as a stray dog under section 3 of the Dogs Act 1906[^f00002] or under section 149 of the Environmental Protection Act 1990.
+
+## 5. Enforcement
+
+(1) This Order shall be executed and enforced by the officers of a local authority (and not by the police force for any area).
+
+(2) In this article “local authority” and “officer” have the same meaning as in section 149 of the Environmental Protection Act 1990.
+
+## 6. Revocations
+
+The Orders specified in the Schedule to this Order are hereby revoked to the extent specified in column 3 of that Schedule.
+
+In witness whereof the Official Seal of the Minister of Agriculture, Fisheries and Food is hereunto affixed on
+
+John Selwyn Gummer
+
+Minister of Agriculture, Fisheries and Food
+
+16th March 1992.
+
+Allan Stewart
+
+Parliamentary Under Secretary of State, Scottish Office
+
+19th March 1992
+
+David Hunt
+
+Secretary of State for Wales
+
+17th March 1992
+
+## SCHEDULE — REVOCATIONS
+
+Article 6
+
+<table>
+<thead>
+<tr><th><em>(1)</em></th><th><em>(2)</em></th><th><em>(3)</em></th></tr>
+<tr><th><em>Orders revoked</em></th><th><em>References</em></th><th><em>Extent of revocation</em></th></tr>
+</thead>
+<tbody>
+<tr><td>The Control of Dogs Order 1930</td><td>S.R. &amp; O. <a href="https://www.legislation.gov.uk/nisro/1930/399">1930/399</a></td><td>The whole Order.</td></tr>
+<tr><td>The Control of Dogs (Amendment) Order 1930</td><td>S.R. &amp; O. <a href="https://www.legislation.gov.uk/nisro/1930/683">1930/683</a></td><td>The whole Order.</td></tr>
+<tr><td>The Control of Dogs (Amendment) Order 1931</td><td>S.R. &amp; O. <a href="https://www.legislation.gov.uk/nisro/1931/80">1931/80</a></td><td>The whole Order.</td></tr>
+<tr><td>The Diseases of Animals (Local Authorities) (Miscellaneous Provisions) Order 1976</td><td><a href="https://www.legislation.gov.uk/uksi/1976/919">S.I. 1976/919</a></td><td>Article 3.</td></tr>
+</tbody>
+</table>
+
+(This note is not part of the Order)
+
+This Order replaces with amendments the Control of Dogs Order 1930 concerning wearing of collars by dogs (article 2), offences (article 3), seizure of dogs (article 4) and enforcement (article 5). Changes of substance are—
+
+(1) the exemptions from the requirement relating to the wearing of collars have been extended (article 2(2)).
+
+(2) the duty to execute and enforce the Order chiefly lies with the district councils and not with the police force for any area (article 5).
+
+The provisions of the 1930 Order relating to the making of regulations by local authorities for the control of dogs between sunset and sunrise have not been re-enacted.
+
+Contravention of the Order is an offence against the Animal Health Act 1981 punishable on summary conviction by a fine not exceeding level 5 on the standard scale (currently £2000).
+
+## Annotations
+
+[^f00001]: Footnote: [1981 c. 22](https://www.legislation.gov.uk/ukpga/1981/22), section 13(3) was inserted by the Environmental Protection Act [1990 (c. 43)](https://www.legislation.gov.uk/ukpga/1990/43), section 151(1). *See*section 86(1)(b) for a definition of “the appropriate Minister”.
+
+[^f00002]: Footnote: [1906 c. 32](https://www.legislation.gov.uk/ukpga/1906/32); section 3 was amended by the Decimal Currency Act [1969 (c. 19)](https://www.legislation.gov.uk/ukpga/1969/19), section 10(1), the Environmental Protection Act [1990 (c. 43)](https://www.legislation.gov.uk/ukpga/1990/43), section 162(1), Schedule 15, paragraph 3, the Roads (Scotland) Act [1984 (c. 54)](https://www.legislation.gov.uk/ukpga/1984/54), section 156(1), Schedule 9, paragraph 20(a) and the Civic Government (Scotland) Act [1982 (c. 45)](https://www.legislation.gov.uk/ukpga/1982/45), section 128(2)(a). There are other amendments not relevant to this Order.

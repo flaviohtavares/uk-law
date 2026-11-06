@@ -1,0 +1,504 @@
+---
+title: The Scheme for Construction Contracts (England and Wales) Regulations 1998
+id: uksi/1998/649
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '1998-03-06'
+text_date: '2011-10-01'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/1998/649
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1998/649/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Scheme for Construction Contracts (England and Wales) Regulations 1998
+
+> Text as at 2011-10-01.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+1998 No. 649
+
+CONSTRUCTION, ENGLAND AND WALES
+
+The Scheme for Construction Contracts (England and Wales) Regulations 1998
+
+Made
+
+6th March 1998
+
+Coming into force
+
+1st May 1998
+
+The Secretary of State, in exercise of the powers conferred on him by sections 108(6), 114 and 146(1) and (2) of the Housing Grants, Construction and Regeneration Act 1996[^f00001], and of all other powers enabling him in that behalf, having consulted such persons as he thinks fit, and draft Regulations having been approved by both Houses of Parliament, hereby makes the following Regulations:
+
+## 1. Citation, commencement, extent and interpretation[^key-81236898ddb61ed6b32057b5173aafb7]
+
+(1) These Regulations may be cited as the Scheme for Construction Contracts (England and Wales) Regulations 1998 and shall come into force at the end of the period of 8 weeks begining with the day on which they are made (the “commencement date”).
+
+(2) These Regulations shall extend only to England and Wales.
+
+(3) In these Regulations, “the Act” means the Housing Grants, Construction and Regeneration Act 1996.
+
+## 2. The Scheme for Construction Contracts[^key-5a052d00bdfc3b27ea9fbdcd630c295c]
+
+Where a construction contract does not comply with the requirements of section 108(1) to (4) of the Act, the adjudication provisions in Part I of the Schedule to these Regulations shall apply.
+
+**3.**[^key-23ca108334c02a2e159cc4b7c2167ec0] Where—
+
+- (a) the parties to a construction contract are unable to reach agreement for the purposes mentioned respectively in sections 109, 111 and 113 of the Act, or
+- (b) a construction contract does not make provision as required by section 110 [^key-3acdbf243b09fa1c1a5ee33dd1163e5f]or by section 110A[^key-51a852cc05bc71a25ad9f3f4ffddaf7b] of the Act,
+
+the relevant provisions in Part II of the Schedule to these Regulations shall apply.
+
+**4.**[^key-a8f677843fca7248d1609563cac962e4] The provisions in the Schedule to these Regulations shall be the Scheme for Construction Contracts for the purposes of section 114 of the Act.
+
+Signed by authority of the Secretary of State
+
+Nick Raynsford
+
+Parliamentary Under-Secretary of State,
+
+Department of the Environment, Transport and the Regions
+
+6th March 1998
+
+## SCHEDULE — THE SCHEME FOR CONSTRUCTION CONTRACTS
+
+Regulations 2, 3 and 4
+
+### PART I— — ADJUDICATION
+
+#### 1. Notice of Intention to seek Adjudication[^key-ccdeb893a974342cff1774fb5c104d2c]
+
+(1) Any party to a construction contract (the “referring party”) may give written notice (the “notice of adjudication”) of his intention [^key-b83bd5974bc5a88522eeb3f841279d4d]at any time[^key-349093142d48685b21106b52d0bcd7af] to refer any dispute arising under the contract, to adjudication.
+
+(2) The notice of adjudication shall be given to every other party to the contract.
+
+(3) The notice of adjudication shall set out briefly—
+
+- (a) the nature and a brief description of the dispute and of the parties involved,
+- (b) details of where and when the dispute has arisen,
+- (c) the nature of the redress which is sought, and
+- (d) the names and addresses of the parties to the contract (including, where appropriate, the addresses which the parties have specified for the giving of notices).
+
+**2.**[^key-d210fc03c8c3cbb7c9c1a31665fb2292] (1) Following the giving of a notice of adjudication and subject to any agreement between the parties to the dispute as to who shall act as adjudicator—
+
+- (a) the referring party shall request the person (if any) specified in the contract to act as adjudicator, or
+- (b) if no person is named in the contract or the person named has already indicated that he is unwilling or unable to act, and the contract provides for a specified nominating body to select a person, the referring party shall request the nominating body named in the contract to select a person to act as adjudicator, or
+- (c) where neither paragraph (a) nor (b) above applies, or where the person referred to in (a) has already indicated that he is unwilling or unable to act and (b) does not apply, the referring party shall request an adjudicator nominating body to select a person to act as adjudicator.
+
+(2) A person requested to act as adjudicator in accordance with the provisions of paragraph (1) shall indicate whether or not he is willing to act within two days of receiving the request.
+
+(3) In this paragraph, and in paragraphs 5 and 6 below, an “adjudicator nominating body” shall mean a body (not being a natural person and not being a party to the dispute) which holds itself out publicly as a body which will select an adjudicator when requested to do so by a referring party.
+
+**3.**[^key-5fa6fdd1195446b2d2b0ba78889a2e4f] The request referred to in paragraphs 2, 5 and 6 shall be accompanied by a copy of the notice of adjudication.
+
+**4.**[^key-aefe0fae712dab25f65159f53e013658] Any person requested or selected to act as adjudicator in accordance with paragraphs 2, 5 or 6 shall be a natural person acting in his personal capacity. A person requested or selected to act as an adjudicator shall not be an employee of any of the parties to the dispute and shall declare any interest, financial or otherwise, in any matter relating to the dispute.
+
+**5.**[^key-a8728e4fab31dda5c4935ad321f8dbbc] (1) The nominating body referred to in paragraphs 2(1)(b) and 6(1)(b) or the adjudicator nominating body referred to in paragraphs 2(1)(c), 5(2)(b) and 6(1)(c) must communicate the selection of an adjudicator to the referring party within five days of receiving a request to do so.
+
+(2) Where the nominating body or the adjudicator nominating body fails to comply with paragraph (1), the referring party may—
+
+- (a) agree with the other party to the dispute to request a specified person to act as adjudi-cator, or
+- (b) request any other adjudicator nominating body to select a person to act as adjudicator.
+
+(3) The person requested to act as adjudicator in accordance with the provisions of paragraphs (1) or (2) shall indicate whether or not he is willing to act within two days of receiving the request.
+
+**6.**[^key-8d91fa2a1eca6cbcab474be37ad202c9] (1) Where an adjudicator who is named in the contract indicates to the parties that he is unable or unwilling to act, or where he fails to respond in accordance with paragraph 2(2), the referring party may—
+
+- (a) request another person (if any) specified in the contract to act as adjudicator, or
+- (b) request the nominating body (if any) referred to in the contract to select a person to act as adjudicator, or
+- (c) request any other adjudicator nominating body to select a person to act as adjudicator.
+
+(2) The person requested to act in accordance with the provisions of paragraph (1) shall indicate whether or not he is willing to act within two days of receiving the request.
+
+**7.**[^key-e56a6bb2f23384ef118e2169e2737a06] (1) Where an adjudicator has been selected in accordance with paragraphs 2, 5 or 6, the referring party shall, not later than seven days from the date of the notice of adjudication, refer the dispute in writing (the “referral notice”) to the adjudicator.
+
+(2) A referral notice shall be accompanied by copies of, or relevant extracts from, the construction contract and such other documents as the referring party intends to rely upon.
+
+(3) The referring party shall, at the same time as he sends to the adjudicator the documents referred to in paragraphs (1) and (2), send copies of those documents to every other party to the dispute.
+
+(4)[^key-54961302a1495e364e6551003213a2f6][^key-556b8c1b0229199a23bb5870f6a4a678] Upon receipt of the referral notice, the adjudicator must inform every party to the dispute of the date that it was received.
+
+**8.**[^key-73110da218210db4d161e78dd2eded7a] (1) The adjudicator may, with the consent of all the parties to those disputes, adjudicate at the same time on more than one dispute under the same contract.
+
+(2) The adjudicator may, with the consent of all the parties to those disputes, adjudicate at the same time on related disputes under different contracts, whether or not one or more of those parties is a party to those disputes.
+
+(3) All the parties in paragraphs (1) and (2) respectively may agree to extend the period within which the adjudicator may reach a decision in relation to all or any of these disputes.
+
+(4) Where an adjudicator ceases to act because a dispute is to be adjudicated on by another person in terms of this paragraph, that adjudicator’s fees and expenses shall be determined in accordance with paragraph 25.
+
+**9.**[^key-53fa233745dbd3f866fb800df7defa56] (1) An adjudicator may resign at any time on giving notice in writing to the parties to the dispute.
+
+(2) An adjudicator must resign where the dispute is the same or substantially the same as one which has previously been referred to adjudication, and a decision has been taken in that adjudication.
+
+(3) Where an adjudicator ceases to act under paragraph 9(1)—
+
+- (a) the referring party may serve a fresh notice under paragraph 1 and shall request an adjudicator to act in accordance with paragraphs 2 to 7; and
+- (b) if requested by the new adjudicator and insofar as it is reasonably practicable, the parties shall supply him with copies of all documents which they had made available to the previous adjudicator.
+
+(4) Where an adjudicator resigns in the circumstances referred to in paragraph (2), or where a dispute varies significantly from the dispute referred to him in the referral notice and for that reason he is not competent to decide it, the adjudicator shall be entitled to the payment of such reasonable amount as he may determine by way of fees and expenses reasonably incurred by him. [^key-5f489730a73aad626fb00598833c4756]Subject to any contractual provision pursuant to section 108A(2) of[^key-06d8b51e74a87ec0e2ed5af5814e76a4] the Act, the adjudicator may determine how the payment is to be apportioned and the parties are jointly and severally liable for any sum which remains outstanding following the making of any such determination.
+
+**10.**[^key-de186117a5553c2fede3a5eb7499ebeb] Where any party to the dispute objects to the appointment of a particular person as adjudicator, that objection shall not invalidate the adjudicator’s appointment nor any decision he may reach in accordance with paragraph 20.
+
+**11.**[^key-cc31a3fcf3a3a5ef398c1c59cde1e947] (1) The parties to a dispute may at any time agree to revoke the appointment of the adjudicator. The adjudicator shall be entitled to the payment of such reasonable amount as he may determine by way of fees and expenses incurred by him. [^key-1f7881b01369b90e26fbef4fb98e6d35]Subject to any contractual provision pursuant to section 108A(2) of[^key-86042ab1d099085fadf88b4954a9e4ad] the Act, the adjudicator may determine how the payment is to be apportioned and the parties are jointly and severally liable for any sum which remains outstanding following the making of any such determination.
+
+(2) Where the revocation of the appointment of the adjudicator is due to the default or misconduct of the adjudicator, the parties shall not be liable to pay the adjudicator’s fees and expenses.
+
+#### 12. Powers of the adjudicator[^key-7affecbf399b89b3b6f7a61db488c3dc]
+
+The adjudicator shall—
+
+- (a) act impartially in carrying out his duties and shall do so in accordance with any relevant terms of the contract and shall reach his decision in accordance with the applicable law in relation to the contract; and
+- (b) avoid incurring unnecessary expense.
+
+**13.**[^key-54fc2f22f3fadbfa479de7140f24a33e] The adjudicator may take the initiative in ascertaining the facts and the law necessary to determine the dispute, and shall decide on the procedure to be followed in the adjudication. In particular he may—
+
+- (a) request any party to the contract to supply him with such documents as he may reasonably require including, if he so directs, any written statement from any party to the contract supporting or supplementing the referral notice and any other documents given under paragraph 7(2),
+- (b) decide the language or languages to be used in the adjudication and whether a translation of any document is to be provided and if so by whom,
+- (c) meet and question any of the parties to the contract and their representatives,
+- (d) subject to obtaining any necessary consent from a third party or parties, make such site visits and inspections as he considers appropriate, whether accompanied by the parties or not,
+- (e) subject to obtaining any necessary consent from a third party or parties, carry out any tests or experiments,
+- (f) obtain and consider such representations and submissions as he requires, and, provided he has notified the parties of his intention, appoint experts, assessors or legal advisers,
+- (g) give directions as to the timetable for the adjudication, any deadlines, or limits as to the length of written documents or oral representations to be complied with, and
+- (h) issue other directions relating to the conduct of the adjudication.
+
+**14.**[^key-2a7721539955ba0779bb51030ae681e8] The parties shall comply with any request or direction of the adjudicator in relation to the adjudication.
+
+**15.**[^key-500a5bff9809ae4693a9be0edf9f63e4] If, without showing sufficient cause, a party fails to comply with any request, direction or timetable of the adjudicator made in accordance with his powers, fails to produce any document or written statement requested by the adjudicator, or in any other way fails to comply with a requirement under these provisions relating to the adjudication, the adjudicator may—
+
+- (a) continue the adjudication in the absence of that party or of the document or written statement requested,
+- (b) draw such inferences from that failure to comply as the circumstances may, in the adjudicator’s opinion, justify[^key-1475c64035285ab18bf4acdf240f22c7], and
+- (c) make a decision on the basis of the information before him attaching such weight as he thinks fit to any evidence submitted to him outside any period he may have requested or directed.
+
+**16.**[^key-52602a31fde6f221ea8c38ab64d6c674] (1) Subject to any agreement between the parties to the contrary, and to the terms of paragraph (2) below, any party to the dispute may be assisted by, or represented by, such advisers or representatives (whether legally qualified or not) as he considers appropriate.
+
+(2) Where the adjudicator is considering oral evidence or representations, a party to the dispute may not be represented by more than one person, unless the adjudicator gives directions to the contrary.
+
+**17.**[^key-c62e109cfa66b538088af3f4c0b00bd0] The adjudicator shall consider any relevant information submitted to him by any of the parties to the dispute and shall make available to them any information to be taken into account in reaching his decision.
+
+**18.**[^key-c41b73f94063f8c475eaecb2f6acfaa5] The adjudicator and any party to the dispute shall not disclose to any other person any information or document provided to him in connection with the adjudication which the party supplying it has indicated is to be treated as confidential, except to the extent that it is necessary for the purposes of, or in connection with, the adjudication.
+
+**19.**[^key-114d547c73e1dafb4283662415aba9a6] (1) The adjudicator shall reach his decision not later than—
+
+- (a) twenty eight days after [^key-cd453c34a4ff967932a1c5d82f99ecd8]receipt[^key-7e191c52a733d63c08033563217f84ba] of the referral notice mentioned in paragraph 7(1), or
+- (b) forty two days after [^key-6205999952a0464aa3c3dce1b6c4bc4e]receipt[^key-2269768631088465baa6c81b1767f8d0] of the referral notice if the referring party so consents, or
+- (c) such period exceeding twenty eight days after [^key-c01a1a6d27b63e3bad8b2b6c329c79bf]receipt of[^key-5fca96457b60c2d1b99461a4cf81a517] the referral notice as the parties to the dispute may, after the giving of that notice, agree.
+
+(2) Where the adjudicator fails, for any reason, to reach his decision in accordance with paragraph (1)
+
+- (a) any of the parties to the dispute may serve a fresh notice under paragraph 1 and shall request an adjudicator to act in accordance with paragraphs 2 to 7; and
+- (b) if requested by the new adjudicator and insofar as it is reasonably practicable, the parties shall supply him with copies of all documents which they had made available to the previous adjudicator.
+
+(3) As soon as possible after he has reached a decision, the adjudicator shall deliver a copy of that decision to each of the parties to the contract.
+
+#### 20. Adjudicator’s decision[^key-dee18dca2bc6603f0d3344e918b29ddb]
+
+The adjudicator shall decide the matters in dispute. He may take into account any other matters which the parties to the dispute agree should be within the scope of the adjudication or which are matters under the contract which he considers are necessarily connected with the dispute. In particular, he may—
+
+- (a) open up, revise and review any decision taken or any certificate given by any person referred to in the contract unless the contract states that the decision or certificate is final and conclusive,
+- (b) decide that any of the parties to the dispute is liable to make a payment under the contract (whether in sterling or some other currency) and, subject to [^key-8e204940ace4c63ef7d5c4854a35696b]section 111(9)[^key-fabe03a476eb1eaf8539b2c27df4d5ad] of the Act, when that payment is due and the final date for payment,
+- (c) having regard to any term of the contract relating to the payment of interest decide the circumstances in which, and the rates at which, and the periods for which simple or compound rates of interest shall be paid.
+
+**21.**[^key-06f6bc4936b14830d84f93baa3dd3968] In the absence of any directions by the adjudicator relating to the time for performance of his decision, the parties shall be required to comply with any decision of the adjudicator immediately on delivery of the decision to the parties [^key-fe4dd60e086b45ddfc49e693805ff9b9][^key-b54c483d5028548c745e8339978c9ec4]....
+
+**22.**[^key-56c351c1eb4179e8536bf9d4eaa24a99] If requested by one of the parties to the dispute, the adjudicator shall provide reasons for his decision.
+
+**22A.**[^key-dbf19cb2011180d19846a51f3c88bcc8][^key-186329f34696bff1bae0ffb9e3cef851] (1) The adjudicator may on his own initiative or on the application of a party correct his decision so as to remove a clerical or typographical error arising by accident or omission.
+
+(2) Any correction of a decision must be made within five days of the delivery of the decision to the parties.
+
+(3) As soon as possible after correcting a decision in accordance with this paragraph, the adjudicator must deliver a copy of the corrected decision to each of the parties to the contract.
+
+(4) Any correction of a decision forms part of the decision.
+
+#### 23. Effects of the decision[^key-03461408d1879923febb42f167836bcf]
+
+(1)[^key-2606a10bddf1e838484b189158c48a81][^key-f2633f36f6391808ab023db747607a20] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) The decision of the adjudicator shall be binding on the parties, and they shall comply with it until the dispute is finally determined by legal proceedings, by arbitration (if the contract provides for arbitration or the parties otherwise agree to arbitration) or by agreement between the parties.
+
+**24.**[^key-f71c79d368fec5ce173d0d28ed8ae517][^key-c838e1e24299aef50ce972c3c6ab6a2e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**25.**[^key-0d738cc33d06acf0305b6123bcba3e97] The adjudicator shall be entitled to the payment of such reasonable amount as he may determine by way of fees and expenses reasonably incurred by him. [^key-be62905d0bf015cc915ec9bff3fb8702]Subject to any contractual provision pursuant to section 108A(2) of[^key-bf29a9abfedec929b845baab88a10342] the Act, the adjudicator may determine how the payment is to be apportioned and the parties are jointly and severally liable for any sum which remains outstanding following the making of any such determination.
+
+**26.**[^key-7bae913cd84e73d90813d9b3814252ae] The adjudicator shall not be liable for anything done or omitted in the discharge or purported discharge of his functions as adjudicator unless the act or omission is in bad faith, and any employee or agent of the adjudicator shall be similarly protected from liability.
+
+### PART II— — PAYMENT
+
+#### 1. Entitlement to and amount of stage payments[^key-44369cc444109f7752d2008fd7e0a5fd]
+
+Where the parties to a relevant construction contract fail to agree—
+
+- (a) the amount of any instalment or stage or periodic payment for any work under the contract, or
+- (b) the intervals at which, or circumstances in which, such payments become due under that contract, or
+- (c) both of the matters mentioned in sub-paragraphs (a) and (b) above,
+
+the relevant provisions of paragraphs 2 to 4 below shall apply.
+
+**2.**[^key-c18b1ab9c36013c4f1dbc5429fa7284c] (1) The amount of any payment by way of instalments or stage or periodic payments in respect of a relevant period shall be the difference between the amount determined in accordance with sub-paragraph (2) and the amount determined in accordance with sub-paragraph (3).
+
+(2) The aggregate of the following amounts—
+
+- (a) an amount equal to the value of any work performed in accordance with the relevant construction contract during the period from the commencement of the contract to the end of the relevant period (excluding any amount calculated in accordance with sub-paragraph (b)),
+- (b) where the contract provides for payment for materials, an amount equal to the value of any materials manufactured on site or brought onto site for the purposes of the works during the period from the commencement of the contract to the end of the relevant period, and
+- (c) any other amount or sum which the contract specifies shall be payable during or in respect of the period from the commencement of the contract to the end of the relevant period.
+
+(3) The aggregate of any sums which have been paid or are due for payment by way of instalments, stage or periodic payments during the period from the commencement of the contract to the end of the relevant period.
+
+(4) An amount calculated in accordance with this paragraph shall not exceed the difference between—
+
+- (a) the contract price, and
+- (b) the aggregate of the instalments or stage or periodic payments which have become due.
+
+#### 3. Dates for payment[^key-9e89f94ee47199bc6318828dbcc153ca]
+
+Where the parties to a construction contract fail to provide an adequate mechanism for determining either what payments become due under the contract, or when they become due for payment, or both, the relevant provisions of paragraphs 4 to 7 shall apply.
+
+**4.**[^key-66bfa7cb7cae784ddcf6d952e3f80f6c] Any payment of a kind mentioned in paragraph 2 above shall become due on whichever of the following dates occurs later—
+
+- (a) the expiry of 7 days following the relevant period mentioned in paragraph 2(1) above, or
+- (b) the making of a claim by the payee.
+
+**5.**[^key-b74d74844a12c8f6fd22c1d89a97095f] The final payment payable under a relevant construction contract, namely the payment of an amount equal to the difference (if any) between—
+
+- (a) the contract price, and
+- (b) the aggregate of any instalment or stage or periodic payments which have become due under the contract,
+
+shall become due on [^key-6544dc0836d36f8fa305d7528061f606][^key-2fa2f8ecb315e244064b53bb8d23931f]...—
+
+- (a) [^key-22a3c74596a44d16dde76f9ccba529fb]the expiry of[^key-a2feac6bd8f5f692a190ec9b32ce74ed] 30 days following completion of the work, or
+- (b) the making of a claim by the payee,
+
+whichever is the later.
+
+**6.**[^key-ad4723cd0e3b758825f274252a4f902d] Payment of the contract price under a construction contract (not being a relevant construction contract) shall become due on
+
+- (a) the expiry of 30 days following the completion of the work, or
+- (b) the making of a claim by the payee,
+
+whichever is the later.
+
+**7.**[^key-86d9936f50e55fb1256039837a27139a] Any other payment under a construction contract shall become due
+
+- (a) on the expiry of 7 days following the completion of the work to which the payment relates, or
+- (b) the making of a claim by the payee,
+
+whichever is the later.
+
+#### 8. Final date for payment[^key-352fee80abb769de24f9e0fc18e9f8b3]
+
+(1) Where the parties to a construction contract fail to provide a final date for payment in relation to any sum which becomes due under a construction contract, the provisions of this paragraph shall apply.
+
+(2) The final date for the making of any payment of a kind mentioned in paragraphs 2, 5, 6 or 7, shall be 17 days from the date that payment becomes due.
+
+#### 9. Payment notice[^key-e2c3174446ba275f730624850126cf1b][^key-32527a0fc503ac30ba0247ad2a0efef7]
+
+(1) Where the parties to a construction contract fail, in relation to a payment provided for by the contract, to provide for the issue of a payment notice pursuant to section 110A(1) of the Act, the provisions of this paragraph apply.
+
+(2) The payer must, not later than five days after the payment due date, give a notice to the payee complying with sub-paragraph (3).
+
+(3) A notice complies with this sub-paragraph if it specifies the sum that the payer considers to be due or to have been due at the payment due date and the basis on which that sum is calculated.
+
+(4) For the purposes of this paragraph, it is immaterial that the sum referred to in sub-paragraph (3) may be zero.
+
+(5) A payment provided for by the contract includes any payment of the kind mentioned in paragraph 2, 5, 6, or 7 above.
+
+#### 10. Notice of intention to pay less than the notified sum[^key-960f39db4fa2316913a0fbf6fbead901][^key-7372bd586d7ad62d5224867a82d4c748]
+
+Where, in relation to a notice of intention to pay less than the notified sum mentioned in section 111(3) of the Act, the parties fail to agree the prescribed period mentioned in section 111(5), that notice must be given not later than seven days before the final date for payment determined either in accordance with the construction contract, or where no such provision is made in the contract, in accordance with paragraph 8 above.
+
+#### 11. Prohibition of conditional payment provisions[^key-275c251b66352c60d3a86ad4d5a8d500]
+
+Where a provision making payment under a construction contract conditional on the payer receiving payment from a third person is ineffective as mentioned in section 113 of the Act, and the parties have not agreed other terms for payment, the relevant provisions of—
+
+- (a) paragraphs 2, 4, 5, 7, 8, 9 and 10 shall apply in the case of a relevant construction contract, and
+- (b) paragraphs 6, 7, 8, 9 and 10 shall apply in the case of any other construction contract.
+
+#### 12. Interpretation[^key-aed0b1b2903f0028f46dec6899a75413]
+
+In this Part of the Scheme for Construction Contracts—
+
+- “claim by the payee” means a written notice given by the party carrying out work under a construction contract to the other party specifying the amount of any payment or payments which he considers to be due and the basis on which it is, or they are calculated;
+- “contract price” means the entire sum payable under the construction contract in respect of the work;
+- “relevant construction contract” means any construction contract other than one—
+  - (a) which specifies that the duration of the work is to be less than 45 days, or
+  - (b) in respect of which the parties agree that the duration of the work is estimated to be less than 45 days;
+- “relevant period” means a period which is specified in, or is calculated by reference to the construction contract or where no such period is so specified or is so calculable, a period of 28 days;
+- “value of work” means an amount determined in accordance with the construction contract under which the work is performed or where the contract contains no such provision, the cost of any work performed in accordance with that contract together with an amount equal to any overhead or profit included in the contract price;
+- “work” means any of the work or services mentioned in section 104 of the Act.
+
+(This note is not part of the Order)
+
+Part II of the Housing Grants, Construction and Regeneration Act 1996 makes provision in relation to construction contracts. Section 114 empowers the Secretary of State to make the Scheme for Construction Contracts. Where a construction contract does not comply with the requirements of sections 108 to 111 (adjudication of disputes and payment provisions), and section 113 (prohibition of conditional payment provisions), the relevant provisions of the Scheme for Construction Contracts have effect.
+
+The Scheme which is contained in the Schedule to these Regulations is in two parts. Part I provides for the selection and appointment of an adjudicator, gives powers to the adjudicator to gather and consider information, and makes provisions in respect of his decisions. Part II makes provision with respect to payments under a construction contract where either the contract fails to make provision or the parties fail to agree—
+
+- (a) the method for calculating the amount of any instalment, stage or periodic payment,
+- (b) the due date and the final date for payments to be made, and
+- (c) prescribes the period within which a notice of intention to withhold payment must be given.
+
+## Annotations
+
+[^f00001]: Footnote: [1996 c. 53](https://www.legislation.gov.uk/ukpga/1996/53).
+
+[^key-81236898ddb61ed6b32057b5173aafb7]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/1998/649/regulation/1) in force at 1.5.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/649/regulation/1/1)
+
+[^key-5a052d00bdfc3b27ea9fbdcd630c295c]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/1998/649/regulation/2) in force at 1.5.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/649/regulation/1/1)
+
+[^key-23ca108334c02a2e159cc4b7c2167ec0]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/1998/649/regulation/3) in force at 1.5.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/649/regulation/1/1)
+
+[^key-3acdbf243b09fa1c1a5ee33dd1163e5f]: Textual amendment: Words in [reg. 3(b)](https://www.legislation.gov.uk/uksi/1998/649/regulation/3/b) inserted (W.) (1.10.2011) by [The Scheme for Construction Contracts (England and Wales) Regulations 1998 (Amendment) (Wales) Regulations 2011 (S.I. 2011/1715)](https://www.legislation.gov.uk/wsi/2011/1715), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2011/1715/regulation/1/1), [2](https://www.legislation.gov.uk/wsi/2011/1715/regulation/2) (with [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/1715/regulation/1/2)[(3)](https://www.legislation.gov.uk/wsi/2011/1715/regulation/1/3))
+
+[^key-51a852cc05bc71a25ad9f3f4ffddaf7b]: Textual amendment: Words in [reg. 3(b)](https://www.legislation.gov.uk/uksi/1998/649/regulation/3/b) inserted (E.) (1.10.2011) by [The Scheme for Construction Contracts (England and Wales) Regulations 1998 (Amendment) (England) Regulations 2011 (S.I. 2011/2333)](https://www.legislation.gov.uk/uksi/2011/2333), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2333/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2011/2333/regulation/2) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/2333/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2011/2333/regulation/1/3))
+
+[^key-a8f677843fca7248d1609563cac962e4]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/1998/649/regulation/4) in force at 1.5.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/649/regulation/1/1)
+
+[^key-ccdeb893a974342cff1774fb5c104d2c]: Commencement: [Sch. Pt. I para. 1](https://www.legislation.gov.uk/uksi/1998/649/schedule/part/I/paragraph/1) in force at 1.5.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/649/regulation/1/1)
+
+[^key-b83bd5974bc5a88522eeb3f841279d4d]: Textual amendment: Words in Sch. Pt. 1 para. 1(1) inserted (W.) (1.10.2011) by [The Scheme for Construction Contracts (England and Wales) Regulations 1998 (Amendment) (Wales) Regulations 2011 (S.I. 2011/1715)](https://www.legislation.gov.uk/wsi/2011/1715), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2011/1715/regulation/1/1), [3(2)](https://www.legislation.gov.uk/wsi/2011/1715/regulation/3/2) (with [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/1715/regulation/1/2)[(3)](https://www.legislation.gov.uk/wsi/2011/1715/regulation/1/3))
+
+[^key-349093142d48685b21106b52d0bcd7af]: Textual amendment: Words in Sch. Pt. 1 para. 1(1) inserted (E.) (1.10.2011) by [The Scheme for Construction Contracts (England and Wales) Regulations 1998 (Amendment) (England) Regulations 2011 (S.I. 2011/2333)](https://www.legislation.gov.uk/uksi/2011/2333), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2333/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2011/2333/regulation/3/2) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/2333/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2011/2333/regulation/1/3))
+
+[^key-d210fc03c8c3cbb7c9c1a31665fb2292]: Commencement: [Sch. Pt. I para. 2](https://www.legislation.gov.uk/uksi/1998/649/schedule/part/I/paragraph/2) in force at 1.5.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/649/regulation/1/1)
+
+[^key-5fa6fdd1195446b2d2b0ba78889a2e4f]: Commencement: [Sch. Pt. I para. 3](https://www.legislation.gov.uk/uksi/1998/649/schedule/part/I/paragraph/3) in force at 1.5.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/649/regulation/1/1)
+
+[^key-aefe0fae712dab25f65159f53e013658]: Commencement: [Sch. Pt. I para. 4](https://www.legislation.gov.uk/uksi/1998/649/schedule/part/I/paragraph/4) in force at 1.5.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/649/regulation/1/1)
+
+[^key-a8728e4fab31dda5c4935ad321f8dbbc]: Commencement: [Sch. Pt. I para. 5](https://www.legislation.gov.uk/uksi/1998/649/schedule/part/I/paragraph/5) in force at 1.5.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/649/regulation/1/1)
+
+[^key-8d91fa2a1eca6cbcab474be37ad202c9]: Commencement: [Sch. Pt. I para. 6](https://www.legislation.gov.uk/uksi/1998/649/schedule/part/I/paragraph/6) in force at 1.5.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/649/regulation/1/1)
+
+[^key-e56a6bb2f23384ef118e2169e2737a06]: Commencement: [Sch. Pt. I para. 7](https://www.legislation.gov.uk/uksi/1998/649/schedule/part/I/paragraph/7) in force at 1.5.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/649/regulation/1/1)
+
+[^key-54961302a1495e364e6551003213a2f6]: Textual amendment: Sch. Pt. 1 para. 7(4) inserted (W.) (1.10.2011) by [The Scheme for Construction Contracts (England and Wales) Regulations 1998 (Amendment) (Wales) Regulations 2011 (S.I. 2011/1715)](https://www.legislation.gov.uk/wsi/2011/1715), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2011/1715/regulation/1/1), [3(3)](https://www.legislation.gov.uk/wsi/2011/1715/regulation/3/3) (with [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/1715/regulation/1/2)[(3)](https://www.legislation.gov.uk/wsi/2011/1715/regulation/1/3))
+
+[^key-556b8c1b0229199a23bb5870f6a4a678]: Textual amendment: Sch. Pt. 1 para. 7(4) inserted (E.) (1.10.2011) by [The Scheme for Construction Contracts (England and Wales) Regulations 1998 (Amendment) (England) Regulations 2011 (S.I. 2011/2333)](https://www.legislation.gov.uk/uksi/2011/2333), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2333/regulation/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2011/2333/regulation/3/3) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/2333/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2011/2333/regulation/1/3))
+
+[^key-73110da218210db4d161e78dd2eded7a]: Commencement: [Sch. Pt. I para. 8](https://www.legislation.gov.uk/uksi/1998/649/schedule/part/I/paragraph/8) in force at 1.5.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/649/regulation/1/1)
+
+[^key-53fa233745dbd3f866fb800df7defa56]: Commencement: [Sch. Pt. I para. 9](https://www.legislation.gov.uk/uksi/1998/649/schedule/part/I/paragraph/9) in force at 1.5.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/649/regulation/1/1)
+
+[^key-5f489730a73aad626fb00598833c4756]: Textual amendment: Words in Sch. Pt. 1 para. 9(4) substituted (W.) (1.10.2011) by [The Scheme for Construction Contracts (England and Wales) Regulations 1998 (Amendment) (Wales) Regulations 2011 (S.I. 2011/1715)](https://www.legislation.gov.uk/wsi/2011/1715), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2011/1715/regulation/1/1), [3(4)](https://www.legislation.gov.uk/wsi/2011/1715/regulation/3/4) (with [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/1715/regulation/1/2)[(3)](https://www.legislation.gov.uk/wsi/2011/1715/regulation/1/3))
+
+[^key-06d8b51e74a87ec0e2ed5af5814e76a4]: Textual amendment: Words in Sch. Pt. 1 para. 9(4) substituted (E.) (1.10.2011) by [The Scheme for Construction Contracts (England and Wales) Regulations 1998 (Amendment) (England) Regulations 2011 (S.I. 2011/2333)](https://www.legislation.gov.uk/uksi/2011/2333), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2333/regulation/1/1), [3(4)](https://www.legislation.gov.uk/uksi/2011/2333/regulation/3/4) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/2333/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2011/2333/regulation/1/3))
+
+[^key-de186117a5553c2fede3a5eb7499ebeb]: Commencement: [Sch. Pt. I para. 10](https://www.legislation.gov.uk/uksi/1998/649/schedule/part/I/paragraph/10) in force at 1.5.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/649/regulation/1/1)
+
+[^key-cc31a3fcf3a3a5ef398c1c59cde1e947]: Commencement: [Sch. Pt. I para. 11](https://www.legislation.gov.uk/uksi/1998/649/schedule/part/I/paragraph/11) in force at 1.5.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/649/regulation/1/1)
+
+[^key-1f7881b01369b90e26fbef4fb98e6d35]: Textual amendment: Words in Sch. Pt. 1 para. 11(1) substituted (W.) (1.10.2011) by [The Scheme for Construction Contracts (England and Wales) Regulations 1998 (Amendment) (Wales) Regulations 2011 (S.I. 2011/1715)](https://www.legislation.gov.uk/wsi/2011/1715), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2011/1715/regulation/1/1), [3(5)](https://www.legislation.gov.uk/wsi/2011/1715/regulation/3/5) (with [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/1715/regulation/1/2)[(3)](https://www.legislation.gov.uk/wsi/2011/1715/regulation/1/3))
+
+[^key-86042ab1d099085fadf88b4954a9e4ad]: Textual amendment: Words in Sch. Pt. 1 para. 11(1) substituted (E.) (1.10.2011) by [The Scheme for Construction Contracts (England and Wales) Regulations 1998 (Amendment) (England) Regulations 2011 (S.I. 2011/2333)](https://www.legislation.gov.uk/uksi/2011/2333), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2333/regulation/1/1), [3(5)](https://www.legislation.gov.uk/uksi/2011/2333/regulation/3/5) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/2333/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2011/2333/regulation/1/3))
+
+[^key-7affecbf399b89b3b6f7a61db488c3dc]: Commencement: [Sch. Pt. I para. 12](https://www.legislation.gov.uk/uksi/1998/649/schedule/part/I/paragraph/12) in force at 1.5.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/649/regulation/1/1)
+
+[^key-54fc2f22f3fadbfa479de7140f24a33e]: Commencement: [Sch. Pt. I para. 13](https://www.legislation.gov.uk/uksi/1998/649/schedule/paragraph/13) in force at 1.5.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/649/regulation/1/1)
+
+[^key-2a7721539955ba0779bb51030ae681e8]: Commencement: [Sch. Pt. I para. 14](https://www.legislation.gov.uk/uksi/1998/649/schedule/paragraph/14) in force at 1.5.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/649/regulation/1/1)
+
+[^key-500a5bff9809ae4693a9be0edf9f63e4]: Commencement: [Sch. Pt. I para. 15](https://www.legislation.gov.uk/uksi/1998/649/schedule/paragraph/15) in force at 1.5.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/649/regulation/1/1)
+
+[^key-1475c64035285ab18bf4acdf240f22c7]: Textual amendment: Words in Sch. Pt. 1 para. 15(b) substituted (W.) (1.10.2011) by [The Scheme for Construction Contracts (England and Wales) Regulations 1998 (Amendment) (Wales) Regulations 2011 (S.I. 2011/1715)](https://www.legislation.gov.uk/wsi/2011/1715), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2011/1715/regulation/1/1), [3(6)](https://www.legislation.gov.uk/wsi/2011/1715/regulation/3/6) (with [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/1715/regulation/1/2)[(3)](https://www.legislation.gov.uk/wsi/2011/1715/regulation/1/3)); and corresponding amendment made (E.) (1.10.2011) by [The Scheme for Construction Contracts (England and Wales) Regulations 1998 (Amendment) (England) Regulations 2011 (S.I. 2011/2333)](https://www.legislation.gov.uk/uksi/2011/2333), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2333/regulation/1/1), [3(6)(a)](https://www.legislation.gov.uk/uksi/2011/2333/regulation/3/6/a) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/2333/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2011/2333/regulation/1/3))
+
+[^key-52602a31fde6f221ea8c38ab64d6c674]: Commencement: [Sch. Pt. I para. 16](https://www.legislation.gov.uk/uksi/1998/649/schedule/paragraph/16) in force at 1.5.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/649/regulation/1/1)
+
+[^key-c62e109cfa66b538088af3f4c0b00bd0]: Commencement: [Sch. Pt. I para. 17](https://www.legislation.gov.uk/uksi/1998/649/schedule/paragraph/17) in force at 1.5.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/649/regulation/1/1)
+
+[^key-c41b73f94063f8c475eaecb2f6acfaa5]: Commencement: [Sch. Pt. I para. 18](https://www.legislation.gov.uk/uksi/1998/649/schedule/paragraph/18) in force at 1.5.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/649/regulation/1/1)
+
+[^key-114d547c73e1dafb4283662415aba9a6]: Commencement: [Sch. Pt. I para. 19](https://www.legislation.gov.uk/uksi/1998/649/schedule/paragraph/19) in force at 1.5.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/649/regulation/1/1)
+
+[^key-cd453c34a4ff967932a1c5d82f99ecd8]: Textual amendment: Word in Sch. Pt. 1 para. 19(1)(a) substituted (W.) (1.10.2011) by [The Scheme for Construction Contracts (England and Wales) Regulations 1998 (Amendment) (Wales) Regulations 2011 (S.I. 2011/1715)](https://www.legislation.gov.uk/wsi/2011/1715), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2011/1715/regulation/1/1), [3(7)(a)](https://www.legislation.gov.uk/wsi/2011/1715/regulation/3/7/a) (with [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/1715/regulation/1/2)[(3)](https://www.legislation.gov.uk/wsi/2011/1715/regulation/1/3))
+
+[^key-7e191c52a733d63c08033563217f84ba]: Textual amendment: Word in Sch. Pt. 1 para. 19(1)(a) substituted (E.) (1.10.2011) by [The Scheme for Construction Contracts (England and Wales) Regulations 1998 (Amendment) (England) Regulations 2011 (S.I. 2011/2333)](https://www.legislation.gov.uk/uksi/2011/2333), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2333/regulation/1/1), [3(7)(a)](https://www.legislation.gov.uk/uksi/2011/2333/regulation/3/7/a) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/2333/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2011/2333/regulation/1/3))
+
+[^key-6205999952a0464aa3c3dce1b6c4bc4e]: Textual amendment: Word in Sch. Pt. 1 para. 19(1)(a) substituted (W.) (1.10.2011) by [The Scheme for Construction Contracts (England and Wales) Regulations 1998 (Amendment) (Wales) Regulations 2011 (S.I. 2011/1715)](https://www.legislation.gov.uk/wsi/2011/1715), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2011/1715/regulation/1/1), [3(7)(a)](https://www.legislation.gov.uk/wsi/2011/1715/regulation/3/7/a) (with [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/1715/regulation/1/2)[(3)](https://www.legislation.gov.uk/wsi/2011/1715/regulation/1/3))
+
+[^key-2269768631088465baa6c81b1767f8d0]: Textual amendment: Word in Sch. Pt. 1 para. 19(1)(a) substituted (E.) (1.10.2011) by [The Scheme for Construction Contracts (England and Wales) Regulations 1998 (Amendment) (England) Regulations 2011 (S.I. 2011/2333)](https://www.legislation.gov.uk/uksi/2011/2333), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2333/regulation/1/1), [3(7)(a)](https://www.legislation.gov.uk/uksi/2011/2333/regulation/3/7/a) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/2333/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2011/2333/regulation/1/3))
+
+[^key-c01a1a6d27b63e3bad8b2b6c329c79bf]: Textual amendment: Words in Sch. Pt. 1 para. 19(1)(c) inserted (W.) (1.10.2011) by [The Scheme for Construction Contracts (England and Wales) Regulations 1998 (Amendment) (Wales) Regulations 2011 (S.I. 2011/1715)](https://www.legislation.gov.uk/wsi/2011/1715), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2011/1715/regulation/1/1), [3(7)(b)](https://www.legislation.gov.uk/wsi/2011/1715/regulation/3/7/b) (with [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/1715/regulation/1/2)[(3)](https://www.legislation.gov.uk/wsi/2011/1715/regulation/1/3))
+
+[^key-5fca96457b60c2d1b99461a4cf81a517]: Textual amendment: Words in Sch. Pt. 1 para. 19(1)(c) inserted (E.) (1.10.2011) by [The Scheme for Construction Contracts (England and Wales) Regulations 1998 (Amendment) (England) Regulations 2011 (S.I. 2011/2333)](https://www.legislation.gov.uk/uksi/2011/2333), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2333/regulation/1/1), [3(7)(b)](https://www.legislation.gov.uk/uksi/2011/2333/regulation/3/7/b) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/2333/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2011/2333/regulation/1/3))
+
+[^key-dee18dca2bc6603f0d3344e918b29ddb]: Commencement: [Sch. Pt. I para. 20](https://www.legislation.gov.uk/uksi/1998/649/schedule/paragraph/20) in force at 1.5.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/649/regulation/1/1)
+
+[^key-8e204940ace4c63ef7d5c4854a35696b]: Textual amendment: Word in Sch. Pt. 1 para. 20(b) substituted (W.) (1.10.2011) by [The Scheme for Construction Contracts (England and Wales) Regulations 1998 (Amendment) (Wales) Regulations 2011 (S.I. 2011/1715)](https://www.legislation.gov.uk/wsi/2011/1715), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2011/1715/regulation/1/1), [3(8)](https://www.legislation.gov.uk/wsi/2011/1715/regulation/3/8) (with [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/1715/regulation/1/2)[(3)](https://www.legislation.gov.uk/wsi/2011/1715/regulation/1/3))
+
+[^key-fabe03a476eb1eaf8539b2c27df4d5ad]: Textual amendment: Words in Sch. Pt. 1 para. 20(b) substituted (E.) (1.10.2011) by [The Scheme for Construction Contracts (England and Wales) Regulations 1998 (Amendment) (England) Regulations 2011 (S.I. 2011/2333)](https://www.legislation.gov.uk/uksi/2011/2333), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2333/regulation/1/1), [3(8)](https://www.legislation.gov.uk/uksi/2011/2333/regulation/3/8) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/2333/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2011/2333/regulation/1/3))
+
+[^key-06f6bc4936b14830d84f93baa3dd3968]: Commencement: [Sch. Pt. I para. 21](https://www.legislation.gov.uk/uksi/1998/649/schedule/paragraph/21) in force at 1.5.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/649/regulation/1/1)
+
+[^key-fe4dd60e086b45ddfc49e693805ff9b9]: Textual amendment: Words in Sch. Pt. 1 para. 21 omitted (W.) (1.10.2011) by virtue of [The Scheme for Construction Contracts (England and Wales) Regulations 1998 (Amendment) (Wales) Regulations 2011 (S.I. 2011/1715)](https://www.legislation.gov.uk/wsi/2011/1715), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2011/1715/regulation/1/1), [3(9)](https://www.legislation.gov.uk/wsi/2011/1715/regulation/3/9) (with [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/1715/regulation/1/2)[(3)](https://www.legislation.gov.uk/wsi/2011/1715/regulation/1/3))
+
+[^key-b54c483d5028548c745e8339978c9ec4]: Textual amendment: Words in Sch. Pt. 1 para. 21 omitted (E.) (1.10.2011) by virtue of [The Scheme for Construction Contracts (England and Wales) Regulations 1998 (Amendment) (England) Regulations 2011 (S.I. 2011/2333)](https://www.legislation.gov.uk/uksi/2011/2333), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2333/regulation/1/1), [3(9)](https://www.legislation.gov.uk/uksi/2011/2333/regulation/3/9) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/2333/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2011/2333/regulation/1/3))
+
+[^key-56c351c1eb4179e8536bf9d4eaa24a99]: Commencement: [Sch. Pt. I para. 22](https://www.legislation.gov.uk/uksi/1998/649/schedule/paragraph/22) in force at 1.5.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/649/regulation/1/1)
+
+[^key-dbf19cb2011180d19846a51f3c88bcc8]: Textual amendment: Sch. Pt. 1 para. 22A inserted (W.) (1.10.2011) by [The Scheme for Construction Contracts (England and Wales) Regulations 1998 (Amendment) (Wales) Regulations 2011 (S.I. 2011/1715)](https://www.legislation.gov.uk/wsi/2011/1715), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2011/1715/regulation/1/1), [3(10)](https://www.legislation.gov.uk/wsi/2011/1715/regulation/3/10) (with [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/1715/regulation/1/2)[(3)](https://www.legislation.gov.uk/wsi/2011/1715/regulation/1/3))
+
+[^key-186329f34696bff1bae0ffb9e3cef851]: Textual amendment: Sch. Pt. 1 para. 22A inserted (E.) (1.10.2011) by [The Scheme for Construction Contracts (England and Wales) Regulations 1998 (Amendment) (England) Regulations 2011 (S.I. 2011/2333)](https://www.legislation.gov.uk/uksi/2011/2333), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2333/regulation/1/1), [3(10)](https://www.legislation.gov.uk/uksi/2011/2333/regulation/3/10) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/2333/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2011/2333/regulation/1/3))
+
+[^key-03461408d1879923febb42f167836bcf]: Commencement: [Sch. Pt. I para. 23](https://www.legislation.gov.uk/uksi/1998/649/schedule/paragraph/23) in force at 1.5.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/649/regulation/1/1)
+
+[^key-2606a10bddf1e838484b189158c48a81]: Textual amendment: Sch. Pt. 1 para. 23(1) omitted (W.) (1.10.2011) by virtue of [The Scheme for Construction Contracts (England and Wales) Regulations 1998 (Amendment) (Wales) Regulations 2011 (S.I. 2011/1715)](https://www.legislation.gov.uk/wsi/2011/1715), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2011/1715/regulation/1/1), [3(11)](https://www.legislation.gov.uk/wsi/2011/1715/regulation/3/11) (with [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/1715/regulation/1/2)[(3)](https://www.legislation.gov.uk/wsi/2011/1715/regulation/1/3))
+
+[^key-f2633f36f6391808ab023db747607a20]: Textual amendment: Sch. Pt. 1 para. 23(1) omitted (E.) (1.10.2011) by virtue of [The Scheme for Construction Contracts (England and Wales) Regulations 1998 (Amendment) (England) Regulations 2011 (S.I. 2011/2333)](https://www.legislation.gov.uk/uksi/2011/2333), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2333/regulation/1/1), [3(11)](https://www.legislation.gov.uk/uksi/2011/2333/regulation/3/11) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/2333/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2011/2333/regulation/1/3))
+
+[^key-f71c79d368fec5ce173d0d28ed8ae517]: Textual amendment: Sch. Pt. 1 para. 24 omitted (W.) (1.10.2011) by virtue of [The Scheme for Construction Contracts (England and Wales) Regulations 1998 (Amendment) (Wales) Regulations 2011 (S.I. 2011/1715)](https://www.legislation.gov.uk/wsi/2011/1715), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2011/1715/regulation/1/1), [3(12)](https://www.legislation.gov.uk/wsi/2011/1715/regulation/3/12) (with [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/1715/regulation/1/2)[(3)](https://www.legislation.gov.uk/wsi/2011/1715/regulation/1/3))
+
+[^key-c838e1e24299aef50ce972c3c6ab6a2e]: Textual amendment: Sch. Pt. 1 para. 24 omitted (E.) (1.10.2011) by virtue of [The Scheme for Construction Contracts (England and Wales) Regulations 1998 (Amendment) (England) Regulations 2011 (S.I. 2011/2333)](https://www.legislation.gov.uk/uksi/2011/2333), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2333/regulation/1/1), [3(12)](https://www.legislation.gov.uk/uksi/2011/2333/regulation/3/12) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/2333/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2011/2333/regulation/1/3))
+
+[^key-0d738cc33d06acf0305b6123bcba3e97]: Commencement: [Sch. Pt. I para. 25](https://www.legislation.gov.uk/uksi/1998/649/schedule/paragraph/25) in force at 1.5.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/649/regulation/1/1)
+
+[^key-be62905d0bf015cc915ec9bff3fb8702]: Textual amendment: Word in Sch. Pt. 1 para. 25 substituted (W.) (1.10.2011) by [The Scheme for Construction Contracts (England and Wales) Regulations 1998 (Amendment) (Wales) Regulations 2011 (S.I. 2011/1715)](https://www.legislation.gov.uk/wsi/2011/1715), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2011/1715/regulation/1/1), [3(13)](https://www.legislation.gov.uk/wsi/2011/1715/regulation/3/13) (with [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/1715/regulation/1/2)[(3)](https://www.legislation.gov.uk/wsi/2011/1715/regulation/1/3))
+
+[^key-bf29a9abfedec929b845baab88a10342]: Textual amendment: Words in Sch. Pt. 1 para. 25 substituted (E.) (1.10.2011) by [The Scheme for Construction Contracts (England and Wales) Regulations 1998 (Amendment) (England) Regulations 2011 (S.I. 2011/2333)](https://www.legislation.gov.uk/uksi/2011/2333), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2333/regulation/1/1), [3(13)](https://www.legislation.gov.uk/uksi/2011/2333/regulation/3/13) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/2333/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2011/2333/regulation/1/3))
+
+[^key-7bae913cd84e73d90813d9b3814252ae]: Commencement: [Sch. Pt. I para. 26](https://www.legislation.gov.uk/uksi/1998/649/schedule/paragraph/26) in force at 1.5.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/649/regulation/1/1)
+
+[^key-44369cc444109f7752d2008fd7e0a5fd]: Commencement: [Sch. Pt. II para. 1](https://www.legislation.gov.uk/uksi/1998/649/schedule/part/II/paragraph/1) in force at 1.5.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/649/regulation/1/1)
+
+[^key-c18b1ab9c36013c4f1dbc5429fa7284c]: Commencement: [Sch. Pt. II para. 2](https://www.legislation.gov.uk/uksi/1998/649/schedule/part/II/paragraph/2) in force at 1.5.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/649/regulation/1/1)
+
+[^key-9e89f94ee47199bc6318828dbcc153ca]: Commencement: [Sch. Pt. II para. 3](https://www.legislation.gov.uk/uksi/1998/649/schedule/part/II/paragraph/3) in force at 1.5.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/649/regulation/1/1)
+
+[^key-66bfa7cb7cae784ddcf6d952e3f80f6c]: Commencement: [Sch. Pt. II para. 4](https://www.legislation.gov.uk/uksi/1998/649/schedule/part/II/paragraph/4) in force at 1.5.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/649/regulation/1/1)
+
+[^key-b74d74844a12c8f6fd22c1d89a97095f]: Commencement: [Sch. Pt. II para. 5](https://www.legislation.gov.uk/uksi/1998/649/schedule/part/II/paragraph/5) in force at 1.5.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/649/regulation/1/1)
+
+[^key-6544dc0836d36f8fa305d7528061f606]: Textual amendment: Words in Sch. Pt. 2 para. 5 omitted (W.) (1.10.2011) by virtue of [The Scheme for Construction Contracts (England and Wales) Regulations 1998 (Amendment) (Wales) Regulations 2011 (S.I. 2011/1715)](https://www.legislation.gov.uk/wsi/2011/1715), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2011/1715/regulation/1/1), [4(2)](https://www.legislation.gov.uk/wsi/2011/1715/regulation/4/2) (with [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/1715/regulation/1/2)[(3)](https://www.legislation.gov.uk/wsi/2011/1715/regulation/1/3))
+
+[^key-2fa2f8ecb315e244064b53bb8d23931f]: Textual amendment: Words in Sch. Pt. 2 para. 5 omitted (E.) (1.10.2011) by virtue of [The Scheme for Construction Contracts (England and Wales) Regulations 1998 (Amendment) (England) Regulations 2011 (S.I. 2011/2333)](https://www.legislation.gov.uk/uksi/2011/2333), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2333/regulation/1/1), [4(2)(a)](https://www.legislation.gov.uk/uksi/2011/2333/regulation/4/2/a) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/2333/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2011/2333/regulation/1/3))
+
+[^key-22a3c74596a44d16dde76f9ccba529fb]: Textual amendment: Words in Sch. Pt. 2 para. 5 inserted (W.) (1.10.2011) by [The Scheme for Construction Contracts (England and Wales) Regulations 1998 (Amendment) (Wales) Regulations 2011 (S.I. 2011/1715)](https://www.legislation.gov.uk/wsi/2011/1715), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2011/1715/regulation/1/1), [4(2)](https://www.legislation.gov.uk/wsi/2011/1715/regulation/4/2) (with [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/1715/regulation/1/2)[(3)](https://www.legislation.gov.uk/wsi/2011/1715/regulation/1/3))
+
+[^key-a2feac6bd8f5f692a190ec9b32ce74ed]: Textual amendment: Words in Sch. Pt. 2 para. 5 inserted (E.) (1.10.2011) by [The Scheme for Construction Contracts (England and Wales) Regulations 1998 (Amendment) (England) Regulations 2011 (S.I. 2011/2333)](https://www.legislation.gov.uk/uksi/2011/2333), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2333/regulation/1/1), [4(2)(b)](https://www.legislation.gov.uk/uksi/2011/2333/regulation/4/2/b) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/2333/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2011/2333/regulation/1/3))
+
+[^key-ad4723cd0e3b758825f274252a4f902d]: Commencement: [Sch. Pt. II para. 6](https://www.legislation.gov.uk/uksi/1998/649/schedule/part/II/paragraph/6) in force at 1.5.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/649/regulation/1/1)
+
+[^key-86d9936f50e55fb1256039837a27139a]: Commencement: [Sch. Pt. II para. 7](https://www.legislation.gov.uk/uksi/1998/649/schedule/part/II/paragraph/7) in force at 1.5.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/649/regulation/1/1)
+
+[^key-352fee80abb769de24f9e0fc18e9f8b3]: Commencement: [Sch. Pt. II para. 8](https://www.legislation.gov.uk/uksi/1998/649/schedule/part/II/paragraph/8) in force at 1.5.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/649/regulation/1/1)
+
+[^key-e2c3174446ba275f730624850126cf1b]: Textual amendment: Sch. Pt. 2 para. 9 substituted (E.) (1.10.2011) by [The Scheme for Construction Contracts (England and Wales) Regulations 1998 (Amendment) (England) Regulations 2011 (S.I. 2011/2333)](https://www.legislation.gov.uk/uksi/2011/2333), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2333/regulation/1/1), [4(3)](https://www.legislation.gov.uk/uksi/2011/2333/regulation/4/3) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/2333/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2011/2333/regulation/1/3))
+
+[^key-32527a0fc503ac30ba0247ad2a0efef7]: Textual amendment: Sch. Pt. 2 para. 9 substituted (W.) (1.10.2011) by [The Scheme for Construction Contracts (England and Wales) Regulations 1998 (Amendment) (Wales) Regulations 2011 (S.I. 2011/1715)](https://www.legislation.gov.uk/wsi/2011/1715), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2011/1715/regulation/1/1), [4(3)](https://www.legislation.gov.uk/wsi/2011/1715/regulation/4/3) (with [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/1715/regulation/1/2)[(3)](https://www.legislation.gov.uk/wsi/2011/1715/regulation/1/3))
+
+[^key-960f39db4fa2316913a0fbf6fbead901]: Textual amendment: Sch. Pt. 2 para. 10 substituted (E.) (1.10.2011) by [The Scheme for Construction Contracts (England and Wales) Regulations 1998 (Amendment) (England) Regulations 2011 (S.I. 2011/2333)](https://www.legislation.gov.uk/uksi/2011/2333), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2333/regulation/1/1), [4(4)](https://www.legislation.gov.uk/uksi/2011/2333/regulation/4/4) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/2333/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2011/2333/regulation/1/3))
+
+[^key-7372bd586d7ad62d5224867a82d4c748]: Textual amendment: Sch. Pt. 2 para. 10 substituted (W.) substituted (1.10.2011) by [The Scheme for Construction Contracts (England and Wales) Regulations 1998 (Amendment) (Wales) Regulations 2011 (S.I. 2011/1715)](https://www.legislation.gov.uk/wsi/2011/1715), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2011/1715/regulation/1/1), [4(4)](https://www.legislation.gov.uk/wsi/2011/1715/regulation/4/4) (with [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/1715/regulation/1/2)[(3)](https://www.legislation.gov.uk/wsi/2011/1715/regulation/1/3))
+
+[^key-275c251b66352c60d3a86ad4d5a8d500]: Commencement: [Sch. Pt. II para. 11](https://www.legislation.gov.uk/uksi/1998/649/schedule/part/II/paragraph/11) in force at 1.5.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/649/regulation/1/1)
+
+[^key-aed0b1b2903f0028f46dec6899a75413]: Commencement: [Sch. Pt. II para. 12](https://www.legislation.gov.uk/uksi/1998/649/schedule/part/II/paragraph/12) in force at 1.5.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/649/regulation/1/1)

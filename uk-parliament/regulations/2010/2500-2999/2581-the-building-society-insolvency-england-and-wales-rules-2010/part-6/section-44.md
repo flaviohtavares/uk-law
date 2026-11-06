@@ -1,0 +1,32 @@
+---
+title: The Building Society Insolvency (England and Wales) Rules 2010, section 44
+act: The Building Society Insolvency (England and Wales) Rules 2010
+section: '44'
+status: revised
+text_date: '2013-04-01'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2010/2581/section/44
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Building Society Insolvency (England and Wales) Rules 2010, section 44
+
+> Text as at 2013-04-01.
+>
+> Extent: England, Wales.
+
+## 44. The chair at meetings[^key-ec9ffb7135694bdc86394247e628c48f]
+
+*Extent: E+W*
+
+(1) Meetings shall be chaired by the building society liquidator or a person nominated in writing by the building society liquidator.
+
+(2) A person nominated under paragraph (1) must be—
+
+- (a) qualified to act as an insolvency practitioner in accordance with section 390 of the Insolvency Act, or
+- (b) an employee of the building society liquidator or of the building society liquidator’s firm who is experienced in insolvency matters.
+
+## Annotations
+
+[^key-ec9ffb7135694bdc86394247e628c48f]: Commencement: Rule 44 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)

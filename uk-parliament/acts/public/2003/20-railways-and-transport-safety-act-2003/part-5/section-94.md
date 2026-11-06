@@ -1,0 +1,59 @@
+---
+title: Railways and Transport Safety Act 2003, section 94
+act: Railways and Transport Safety Act 2003
+section: '94'
+status: revised-with-pending-changes
+text_date: '2026-06-29'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2003/20/section/94
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Railways and Transport Safety Act 2003, section 94
+
+> **Warning: changes not yet applied to this text (5).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/20
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 94. Aviation functions[^key-cb38b53f80e241e970e71af717f6e569]
+
+*Extent: E+W+S+N.I.*
+
+(1) For the purposes of this Part the following (and only the following) are aviation functions—
+
+- (a) acting as a pilot of an aircraft during flight,
+- (b) acting as flight navigator of an aircraft during flight,
+- (c) acting as flight engineer of an aircraft during flight,
+- (d) acting as flight radio-telephony operator of an aircraft during flight,
+- (e) acting as a member of the cabin crew of an aircraft during flight,
+- (f) attending the flight deck of an aircraft during flight to give or supervise training, to administer a test, to observe a period of practice or to monitor or record the gaining of experience,
+- (g) acting as an air traffic controller in pursuance of a licence granted under or by virtue of an enactment (other than a licence granted to a student), and
+- (h) acting as a licensed aircraft maintenance engineer.
+
+(2) For the purposes of subsection (1)(h) a person acts as a licensed aircraft maintenance engineer if—
+
+- (a) he issues a document relating to the maintenance, condition or use of an aircraft or equipment in reliance on a licence granted under or by virtue of an enactment relating to aviation, or
+- (b) he carries out or supervises work on an aircraft or equipment with a view to, or in connection with, the issue by him of a document of the kind specified in paragraph (a).
+
+(3) For the purposes of this Part a reference to an activity which is ancillary to an aviation function is a reference to anything which falls to be treated as such by virtue of subsections (4) to (6).
+
+(4) An activity shall be treated as ancillary to an aviation function if it is undertaken—
+
+- (a) by a person who has reported for a period of duty in respect of the function, and
+- (b) as a requirement of, for the purpose of or in connection with the performance of the function during that period of duty.
+
+(5) A person who in accordance with the terms of an employment or undertaking holds himself ready to perform an aviation function if called upon shall be treated as carrying out an activity ancillary to the function.
+
+(6) Where a person sets out to perform an aviation function, anything which he does by way of preparing to perform the function shall be treated as an activity ancillary to it.
+
+(7) For the purposes of this Part it is immaterial whether a person performs a function or carries out an activity in the course of an employment or trade or otherwise.
+
+(8) The Secretary of State may by regulations—
+
+- (a) amend this section;
+- (b) make an amendment of this Part which is consequential on an amendment under paragraph (a).
+
+## Annotations
+
+[^key-cb38b53f80e241e970e71af717f6e569]: Commencement: [S. 94](https://www.legislation.gov.uk/ukpga/2003/20/section/94) in force at 30.3.2004 by [S.I. 2004/827](https://www.legislation.gov.uk/uksi/2004/827), [art. 3(q)](https://www.legislation.gov.uk/uksi/2004/827/article/3/q)

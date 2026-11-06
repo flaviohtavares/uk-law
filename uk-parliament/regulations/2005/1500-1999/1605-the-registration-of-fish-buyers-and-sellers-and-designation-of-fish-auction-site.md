@@ -1,0 +1,454 @@
+---
+title: The Registration of Fish Buyers and Sellers and Designation of Fish Auction Sites Regulations 2005
+id: uksi/2005/1605
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2005-06-10'
+text_date: '2015-03-06'
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2005/1605
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2005/1605/pdfs/uksiem_20051605_en.pdf
+- http://www.legislation.gov.uk/uksi/2005/1605/pdfs/uksi_20051605_en.pdf
+- http://www.legislation.gov.uk/uksi/2005/1605/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Registration of Fish Buyers and Sellers and Designation of Fish Auction Sites Regulations 2005
+
+> Text as at 2015-03-06.
+
+2005 No. 1605
+
+SEA FISHERIES, ENGLAND
+
+The Registration of Fish Buyers and Sellers and Designation of Fish Auction Sites Regulations 2005
+
+Made
+
+10th June 2005
+
+Laid before Parliament
+
+13th June 2005
+
+Coming into force
+
+Except for regulations 4,5,8 and 9
+
+7th July 2005
+
+Regulations 4,5,8 and 9
+
+1st September 2005
+
+The Secretary of State, being a Minister designated for the purposes of section 2(2) of the European Communities Act 1972 in relation to the common agricultural policy of the European Community [^c1225161], and in exercise of the powers conferred upon her by section 2(2) of the European Communities Act 1972 [^c1225162], makes the following Regulations:
+
+## 1. Citation, commencement and extent
+
+(1) These Regulations may be cited as the Registration of Fish Buyers and Sellers and Designation of Fish Auction Sites Regulations 2005.
+
+(2) These Regulations shall come into force on 7th July 2005, except for regulations 4, 5, 8 and 9 which shall come into force on 1st September 2005.
+
+(3)[^key-57caaab16b1445b75fdef4c4d4741d0f] These Regulations apply—
+
+- (a) in England;
+- (b) in relation to any relevant British fishing boat wherever it is, except when it is in Wales or the Welsh zone[^key-3a2ebc41657f38636ca6b191cd844f08]; and
+- (c) in relation to any other fishing boat within British fishery limits, except when the boat is in—
+  - (i) the Northern Ireland zone (as defined in section 98 of the Northern Ireland Act 1998);
+  - (ii) the Scottish zone (as defined in section 126(1) of the Scotland Act 1998);
+  - (iii) the territorial sea adjacent to the Isle of Man, Jersey or Guernsey; or
+  - (iv) Wales or the Welsh zone[^key-f0e87cec70da94677b924993250f7502].
+
+(4)[^key-1c8cdcc3e7501be3a3c6d3f9e6c99df3] In paragraph (3)(b) and (c)(iv), “Wales” and the “Welsh zone” have the same meanings as in section 158(1) of the Government of Wales Act 2006
+
+## 2. Interpretation
+
+(1) In these Regulations—
+
+- [^key-c4f9fc4a542ebf2be713b74d9dc789e1]...
+- “**British fishing boat**” means a fishing boat which is registered in the United Kingdom under Part II of the Merchant Shipping Act 1995 [^c1225165] or is owned wholly by persons qualified to own British ships for ships for the purposes of that Part of that Act;
+- “the Control Regulation” means Council Regulation[^key-e743fe9bbeb1d17669a0cad6df9acda5] [(EC) No. 1224/2009](https://www.legislation.gov.uk/european/regulation/2009/1224) establishing a Community control system for ensuring compliance with the rules of the common fisheries policy, as amended from time to time
+- [^key-9623fcd570b10cdbdf544002bc25f6d4]...
+- “**document**” includes information recorded in any form;
+- “**equivalent provisions**” means any provision in any other regulations made under section 2(2) of the European Communities Act 1972 for the purposes of implementing Chapter[^key-5b25c0cade482a8d9ac629f472fc338c] II of Title V, extending to any part of the United Kingdom, which has equivalent effect to any provision in these Regulations;
+- “**first sale fish**” means fish being marketed for the first time;
+- “**fish**” means fishery products landed from a fishing vessel to which the Control Regulation[^key-aaff40bedbc9e386e62672dc312eae68] applies;
+- “**licensed fishing vessel**” means a fishing vessel in respect of which a licence has been issued under section 4 of the Sea Fish (Conservation) Act 1967 [^c1225167] or under similar fisheries related provisions by another Member State or by the appropriate authorities in the Channel Islands, Isle of Man or another country;
+- “**Northern Ireland fishing boat**” means a fishing boat which is registered in the register maintained under section 8 of the Merchant Shipping Act 1995 and whose entry in the register specifies a port in Northern Ireland as the port to which the boat is to be treated as belonging;
+- “**PLN**” means a vessel's port number within the meaning of regulation 31 of the Merchant Shipping (Registration of Ships) Regulations 1993 [^c1225168];
+- “**relevant British fishing boat**” means a British fishing boat which is neither a Scottish fishing boat nor a Northern Ireland fishing boat;
+- “**registered fish buyer**” means a person who is registered by the Secretary of State in accordance with regulation 7;
+- “**registered fish seller**” means a person who is registered by the Secretary of State in accordance with regulation 3; and
+- “**Scottish fishing boat**” means a British fishing boat which is registered in the register maintained under section 8 of the Merchant Shipping 1995 and whose entry in the register specifies a port in Scotland as the port to which the boat is to be treated as belonging .
+
+(2) In these Regulations, any reference to a fish seller shall include—
+
+- (a) an agent who sells fish on behalf of the seller; and,
+- (b) an auction trader.
+
+(3)[^key-180e6831f2c9d1e662775e7aee7741ac] Terms used in these Regulations which are not defined in paragraph (1) or (2) and which appear in the Control Regulation have the same meaning in these Regulations as they have for the purposes of the Control Regulation.
+
+(4) In these Regulations, a reference to an Article means an Article of the Control Regulation, and a reference to Chapter II of Title V means Chapter II of Title V of the Control Regulation
+
+## 3. Registration of fish sellers
+
+(1) A registered fish seller is authorised for the purposes of Chapter[^key-79f88b054f96de76d4a3899868710188] II of Title V (control of marketing: post-landing activities), insofar as he sells first sale fish by any form of competitive bidding at a designated auction site either on his own behalf or as the seller's agent.
+
+(2) Any person may apply, using such form as the Secretary of State may prescribe, to the Secretary of State to be registered as a fish seller.
+
+(3) An applicant for registration as a fish seller shall include with his application a statement of the facilities and the proposed methods of operation he intends to use and of the place where he intends to maintain his records of sales of first sale fish.
+
+(4) In considering an application for registration the Secretary of State shall take into account whether the statement as to the facilities and proposed methods of operation of the fish seller, and of the place where he intends to maintain his records of sales of first sale fish, are such as to assist compliance by the fish seller with Articles 59, 62, 63, 64, 66 and 67[^key-3313454b993585459ef0c4b4ecb12188] and these Regulations.
+
+(5) The Secretary of State shall notify an applicant in writing of her decision on an application made to her in accordance with this regulation.
+
+(6) Where the Secretary of State grants a registration the Secretary of State shall specify the conditions, listed at Schedule 1, subject to which the registration is granted.
+
+(7) The Secretary of State shall publish a list of registered fish sellers in such manner as she sees fit.
+
+(8) The registration of a fish seller may be suspended where, in the view of the Secretary of State, the registered fish seller has not —
+
+- (a) complied with a condition of registration; or,
+- (b) complied with any requirement of Article 59, 62, 63, 64, 66 or 67[^key-24f7c580383ab45bba352c6b5ab9fd2a] or these Regulations.
+
+(9) Any person who knowingly or recklessly makes a false statement for the purposes of an application under this regulation is guilty of an offence.
+
+(10) Any registered fish seller who sells first sale fish in breach of a condition of his registration is guilty of an offence.
+
+## 4. Sale of fish by unregistered seller
+
+Any person who—
+
+- (a) sells first sale fish by any form of competitive bidding at a designated auction site, either on his own behalf or as an agent of the seller; and
+- (b) is not a registered fish seller,
+
+is guilty of an offence.
+
+## 5. Maintenance of records by registered fish seller
+
+(1) A registered fish seller shall maintain records, of each sale of first sale fish that he makes, at the place notified to the Secretary of State in accordance with these Regulations.
+
+(2) The records referred to in this regulation shall include all of the following information in relation to each sale—
+
+- (a) date and location of the sale;
+- (b) quantities of each species sold;
+- (c) price paid for each species sold;
+- (d) name and PLN of the vessel which landed the fish;
+- (e) name, address and, where available, registration number of the buyer;
+- (f) reference number of the contract of sale or invoice.
+
+(3) A registered fish seller shall keep the records of each sale as required by this regulation for 3 years[^key-671b09796527546f42793107bbb3246a].
+
+(4) A registered fish seller shall make available for inspection at all reasonable times the records of sale of fish at the place notified to the Secretary of State.
+
+(5) A registered fish seller who does not operate his business from or is not established in the United Kingdom shall —
+
+- (a) either –
+  - (i) nominate a place in the United Kingdom where his records will be made available to the Secretary of State until the end of the second year following the sale to which the records relate; or
+  - (ii) submit his records annually from the date of registration; and
+- (b) submit his records within 28 days of a demand by the authorities.
+
+(6) A registered fish seller who does not operate his business from or is not established in the United Kingdom shall keep the records of each sale as required by this regulation until the end of the second calendar year following that sale.
+
+(7) A registered fish seller who fails to keep or make available the records as required by this regulation is guilty of an offence.
+
+## 6. Designation of fish auction sites
+
+(1) Any person may apply to the Secretary of State, using such form as she may prescribe, to have a place designated for the purposes of Chapter[^key-737957a54fbc68c04d677e2c0bf6e1d6] II of Title V as a fish auction site.
+
+(2) An applicant for designation shall include with his application a statement as to the facilities and proposed methods of operation he will use at the site.
+
+(3) In considering an application for designation the Secretary of State shall take into account whether the statement as to the facilities and proposed methods of operation at the site are such as to assist compliance with Chapter[^key-c40dc2194f57f3f4222e75c93b803584] II of Title V and these Regulations.
+
+(4) The Secretary of State shall notify an applicant in writing of her decision on an application for designation made in accordance with this regulation.
+
+(5) Where the Secretary of State grants a designation she shall specify the conditions, listed at Schedule 2, subject to which the designation is granted.
+
+(6) The Secretary of State shall publish a list of designated fish auction sites in such a manner that she sees fit.
+
+(7) The designation of a site may be suspended where in the view of the Secretary of State—
+
+- (a) a condition subject to which the designation was granted has not been complied with; or
+- (b) the methods of operation and facilities at the site do not comply with the requirements of Chapter[^key-6f0cd055af838b208ee8734065e45841] II of Title V or these Regulations.
+
+(8) Any person who knowingly or recklessly makes a false statement for the purposes of this regulation is guilty of an offence.
+
+(9) Any person who has control over a designated site, or part of a site, and breaches a condition of the site's designation, is guilty of an offence.
+
+(10) In this regulation—
+
+- “**person who has control of a designated site**” includes, in relation to the site or a part of the site, the owner of the site or that part, or his agent, or any person who exercises any control over or is in possession of the site or that part .
+
+## 7. Registration of fish buyers
+
+(1) For the purposes of Article 59[^key-04a6a1d9dbac2bb207543f536a18d302] any person may apply to the Secretary of State to be registered as a fish buyer, using such form as the Secretary of State may prescribe.
+
+(2) An applicant for registration as a fish buyer shall include with his application a statement of the facilities and the proposed methods of operation he intends to use and of the place where he intends to maintain his records of purchases of first sale fish.
+
+(3) In considering an application the Secretary of State shall take into account whether the statement as to the proposed methods of operation of the fish buyer, and of the place where he intends to maintain his records of purchases of first sale fish, are such as to assist compliance by the fish buyer with Articles 62, 63, 64, 66 and 67[^key-5448dd54136dcdba2e71975d29f8ccfc] and these Regulations.
+
+(4) The Secretary of State shall notify an applicant in writing of her decision on an application made to her in accordance with this regulation.
+
+(5) Where the Secretary of State grants a registration the Secretary of State shall specify the conditions, listed at Schedule 3, subject to which the registration is granted.
+
+(6) The Secretary of State shall publish a list of registered buyers in such manner that she sees fit.
+
+(7) The registration of a fish buyer may be suspended where, in the view of the Secretary of State, the registered fish buyer has not—
+
+- (a) complied with a condition of registration; or,
+- (b) conducted his business in a manner that complies with the requirements of Article 62, 63, 64, 66 or 67[^key-0a29dbf2dfeffb32cf683df45be12e9e] or these Regulations.
+
+(8) Any person who knowingly or recklessly makes a false statement for the purposes of an application under this regulation is guilty of an offence.
+
+(9) Any registered fish buyer who fails to comply with a condition of his registration is guilty of an offence.
+
+## 8. Purchase of fish by an unregistered buyer[^key-310c62a5c39903751ecc3695d8ea93b4]
+
+Any person who buys fish contrary to Article 59(2) is guilty of an offence, unless the exemption in Article 59(3) applies
+
+## 9. Maintenance of records by registered fish buyer
+
+(1) A registered fish buyer shall maintain and make available for inspection records of every purchase of first sale fish that he makes.
+
+(2) The records referred to in this regulation shall include all of the following information in relation to each individual purchase—
+
+- (a) date and location of the purchase;
+- (b) quantity of each species purchased;
+- (c) price paid for each species purchased;
+- (d) name and PLN of the vessel which landed the fish;
+- (e) name, address, and where available, the registration number of the seller;
+- (f) reference number of the invoice or contract of sale.
+
+(3) A registered fish buyer shall keep the records of each purchase, as required by this regulation, and at the place notified to the authorities, for 3 years[^key-ec8f0cdfbc3b7b7545f648d1c637dfaf].
+
+(4) A registered fish buyer who is does not operate his business from or is not established in the UK shall either—
+
+- (a) nominate a place in the UK where his records will be made available to the authorities until the end of the second year following purchase; or
+- (b) submit his records annually from the date of registration; and
+- (c) submit his records within 28 days of a demand by the authorities.
+
+(5) A registered fish buyer who does not operate his business from the UK shall keep the records of each purchase as required by this regulation until the end of the second calendar year following that purchase.
+
+(6) A registered fish buyer who fails to keep, or to produce on the request by the relevant authority, the records required by this Regulation is guilty of an offence.
+
+## 10. Sale of first sale fish landed from a licensed fishing vessel
+
+Any person who sells first sale fish which has been landed in the United Kingdom otherwise than by a licensed fishing vessel is guilty of an offence.
+
+## 11. Purchase of first sale fish landed from a licensed fishing vessel
+
+(1) Any person who buys first sale fish which has been landed otherwise than by a licensed fishing vessel is guilty of an offence.
+
+(2) In any proceedings for an offence under paragraph (1), it shall be a defence for a person to show that—
+
+- (a) he did not know; and
+- (b) it was reasonable for him not to suspect,
+
+that the fish had not been landed by a licensed fishing vessel.
+
+## 12. Penalties
+
+(1) A person convicted of an offence under these Regulations shall be liable—
+
+- (a) on summary conviction to a fine not exceeding the statutory maximum; or
+- (b) on conviction on indictment, to a fine.
+
+(2) In addition to the penalties in paragraph (1), a court may also—
+
+- (a) in relation to an offence under regulations 3(9), 3(10) or 5(7), order that the registration of the person convicted is revoked and that the person be disqualified from applying for registration under regulation 3, or be disqualified from applying for registration under regulation 3 for a specified period;
+- (b) in relation to an offence under regulation 6(8) or 6(9), order that the designation of the site be revoked or order that the person convicted be disqualified from applying to have a site designated under regulation 6 or be disqualified from applying to have a site designated under that regulation for a specified period; and
+- (c) in relation to an offence under regulations 7(8), 7(9) or 9(6), order that the registration of the person convicted is revoked and that he be disqualified from applying for registration under regulation 7 or be disqualified from applying for registration under that regulation for a specified period.
+
+## 13. Powers of British sea-fishery officers in relation to fishing boats
+
+(1)[^key-cf562b16e04818849ad48cad903f5360] For the purpose of enforcing these Regulations or any equivalent provisions, any British sea-fishery officer may exercise the powers conferred by this regulation in relation to any fishing boat to which these Regulations apply.
+
+(2) He may go on board the boat, with or without persons assigned to assist him in his duties, and may require the boat to stop and do anything else which will facilitate either the boarding of, or the disembarkation from, the boat.
+
+(3) He may require the attendance of the master and other persons on board the boat and may make any examination and inquiry which appears to him to be necessary for the purpose mentioned in paragraph (1) of this regulation[^key-1d3bd6eb82797f358313d176b79d13e3] and, in particular—
+
+- (a) may search for fish or fishing gear on the boat and may examine any fish on the boat and the equipment of the boat, including the fishing gear, and require persons on board the boat to do anything which appears to him to be necessary for facilitating the examination;
+- (b) may require any person on board the boat to produce any document relating to the boat, to any fishing operations or other operations ancillary thereto or to the persons on board which is in his custody or possession;
+- (c) for the purpose of ascertaining whether an offence under these Regulations or any equivalent provisions has been committed, may search the boat for any such document and may require any person on board the boat to do anything which appears to him to be necessary for facilitating the search;
+- (d) may inspect and take copies of any such document produced to him or found on board;
+- (e) without prejudice to sub-paragraphs (c) and (d), may require the master and any person for the time being in charge of the boat to render all such documents on a computer system into a visible and legible form, including requiring any such document to be produced in a form in which it may be taken away; and
+- (f) where the boat is one in relation to which he has reason to suspect that an offence under these Regulations or any equivalent provisions has been committed, may seize and detain any such document produced to him or found on board for the purpose of enabling the document to be used as evidence in proceedings for the offence;
+
+but nothing in sub-paragraph (f) above shall permit any document required by law to be carried on board the boat to be seized and detained except while the boat is detained in a port.
+
+(4) Where it appears to a British sea-fishery officer that an offence under these Regulations or any equivalent provisions has at any time been committed, he may—
+
+- (a) require the master of the boat in relation to which the offence took place to take, or himself take, the boat and its crew to the port which appears to him to be the nearest convenient port; and
+- (b) detain or require the master to detain the boat in the port;
+
+and where such an officer detains or requires the detention of a boat he shall serve on the master a notice in writing stating that the boat will be or is required to be detained until the notice is withdrawn by the service on the master of a further notice in writing signed by a British sea-fishery officer.
+
+## 14. Powers of British sea-fishery officers on land
+
+(1) For the purpose of enforcing these Regulations or any equivalent provisions, any British sea-fishery officer may—
+
+- (a) enter and inspect at any reasonable time any premises used for carrying on any business in connection with the operation of fishing boats or activities connected therewith or ancillary thereto or with the treatment, storage, purchase or sale of fish;
+- (b) take with him such other persons as appear to him to be necessary and any equipment or materials;
+- (c) examine any fish on the premises and require persons on the premises to do anything which appears to him to be necessary for facilitating the examination;
+- (d) carry out at such premises such other inspections or tests as may reasonably be necessary;
+- (e) require any person not to remove or cause to be removed any fish from such premises for such a period as may be reasonably necessary for the purposes of establishing whether an offence under these Regulations or any equivalent provisions has at any time been committed;
+- (f) require any person on the premises to produce any documents which are in his custody or possession relating to the catching, landing, transportation, trans-shipment, sale or disposal of any fish or to the entry to, or exit from, any port or harbour by any fishing vessel;
+- (g) for the purpose of ascertaining whether any person on the premises has committed an offence under these Regulations or any equivalent provisions, search the premises for any such document and require any person on the premises to do anything which appears to him to be necessary for facilitating the search;
+- (h) inspect and take copies of any such document produced to him or found on the premises;
+- (i) require any appropriate or responsible person to render any such document on a computer system into a visible and legible form, including requiring it to be produced in a form in which it may be taken away; and
+- (j) if he has a reason to suspect that an offence under these Regulations or any equivalent provisions has been committed, seize and detain any such document produced to him or found on the premises for the purpose of enabling the document to be used as evidence in proceedings for the offence.
+
+(2) The provisions of paragraph (1) above shall also apply in relation to any land used in connection with any of the activities described in paragraph (1) above, or in respect of any vehicle or container which a British sea-fishery officer has reasonable cause to believe is being used to transport fisheries products, as they apply in relation to premises and, in the case of a vehicle, shall include power to require the vehicle to stop at any time and, if necessary, direct the vehicle to some other place to facilitate the inspection.
+
+(3) If a justice of the peace on sworn information in writing is satisfied—
+
+- (a) that there is reasonable ground to believe that any documents or other items which a British sea-fishery officer has power under this regulation to inspect are on any premises and that their inspection is likely to disclose evidence of the commission of an offence under these Regulations or any equivalent provisions; and
+- (b) either—
+  - (i) that admission to the premises has been or is likely to be refused and that notice of intention to apply for a warrant has been given to the occupier; or
+  - (ii) that an application for admission or the giving of such notice would defeat the object of the entry, or that the premises are unoccupied, or that the occupier is temporarily absent and it might defeat the object of the entry to await his return;
+
+the justice may by warrant signed by him, and valid for one month, authorise a British sea-fishery officer to enter the premises, if need be by reasonable force, and take with him such persons as appear to him to be necessary.
+
+## 15. Powers of British sea-fishery officers to seize fish[^key-4e41647c934977542052a0402b154e65]
+
+Any British sea-fishery officer may seize any fish (including any receptacle that contains the fish) in respect of which the officer has reasonable grounds to suspect that an offence under these Regulations or under any equivalent provision has been committed.
+
+## 16. Protection of officers
+
+An officer or a person assisting him by virtue of regulations 13(2) or 14(1)(b) or authorisation under regulation 14(3) of these Regulations shall not be liable in any civil or criminal proceedings for anything done in the purported exercise of the powers conferred on him by regulations 13 to 15 of these Regulations if the court is satisfied that the act was done in good faith, that there were reasonable grounds for doing it and that it was done with reasonable skill and care.
+
+## 17. Obstruction of officers
+
+(1) Any person who—
+
+- (a) fails without reasonable excuse to comply with any requirement imposed by a British sea-fishery officer under the powers conferred on British sea-fishery officers by regulations 13, 14 and 15 of these Regulations;
+- (b) without reasonable excuse prevents, or attempts to prevent, any other person from complying with any such requirement; or
+- (c) assaults an officer who is exercising any of the powers conferred on him by regulations 13, 14 and 15 of these Regulations or intentionally obstructs any such officer in the exercise of any of those powers,
+
+is guilty of an offence.
+
+(2) A person guilty of an offence under paragraph (1) is liable—
+
+- (a) on summary conviction to a fine not exceeding the statutory maximum; or
+- (b) on conviction on indictment to a fine.
+
+## 18. Offences by bodies corporate
+
+(1) Where any offence under these Regulations or any equivalent provision committed by a body corporate is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, a director, manager, secretary or other similar officer of the body corporate, or a person purporting to act in any such capacity, he as well as the body corporate shall be guilty of the offence and liable to be proceeded against and punished accordingly.
+
+(2) Where any offence under these Regulations or any equivalent provision committed by a partnership is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, a partner, he as well as the partnership shall be guilty of the offence and liable to be proceeded against and punished accordingly.
+
+(3) Where any offence under these Regulations or any equivalent provision committed by an unincorporated association (other than a partnership) is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, any officer of the association or any member of its governing body, he as well as the association shall be guilty of the offence and liable to be proceeded against and punished accordingly.
+
+Ben Bradshaw
+
+Parliamentary Under Secretary of State
+
+Department for Environment, Food and Rural Affairs
+
+## SCHEDULE 1 — Conditions applicable to registrations of fish sellers
+
+Article 3
+
+**1.** The Secretary of State shall be informed of any changes to the information contained in the application for registration within 28 days of the change occurring.
+
+**2.** Sales notes shall be submitted in accordance with the provisions of Articles 62 to 64[^key-ad69049f6728099403f28a618647fb0b].
+
+## SCHEDULE 2 — Conditions applicable to designations of auction sites
+
+Article 6
+
+**1.** Auctions shall be conducted only at the times notified to the Secretary of State, subject to any variation notified to and approved by a local British sea fisheries officer.
+
+**2.** The Secretary of State shall be informed of any changes to the information contained in the application for designation within 28 days of the change occurring.
+
+## SCHEDULE 3 — Conditions applicable to registrations of fish buyers
+
+Article 7
+
+**1.** The Secretary of State shall be informed of any changes to the information contained in the application for registration within 28 days of the change occurring.
+
+**2.** Sales notes shall be submitted in accordance with Articles 62 to 64[^key-d9bed83e768701ebc2e7d3fb5e10eee2].
+
+*(This note is not part of the Regulations)*
+
+These Regulations make provision for the administration and enforcement of Article 22 of Council Regulation [(EC) No 2371/2002](https://www.legislation.gov.uk/european/regulation/2002/2371), “the CFP Regulation”, (O.J. No. L 358, 31.12.02, p.59) and Article 9 of Council Regulation [(EEC) No 2847/93](https://www.legislation.gov.uk/european/regulation/1993/2847) (O.J. NO. L 261, 20.10.93, p.1.) which impose requirements relating to the first marketing and purchasing of fish (first sale fish. The Regulations come into force on 7th July 2005 except for regulations 4,5,8 and 9 which come into force on 1st September. The Regulations do not form part of the law of Scotland, Wales or Northern Ireland, for which separate administration and enforcement provisions are respectively being made.
+
+The Regulations make provision for the registration by the Secretary of State of sellers of first sale fish (regulation 3), designation of fish auction sites (regulation 6) and registration of buyers of first sale fish (regulation 7). Regulation 5 requires registered fish sellers to maintain records of their sales of first sale fish and regulation 9 requires buyers of first sale fish to maintain records of their purchases of first sale fish. And the Regulations provide offences for the purposes of the enforcement of these registrations and designations (regulations 3(9), 3(10), 5(7), 6(8), 6(9), 7(8), 7(9) and 9(6).
+
+The Regulations provide offences in relation to the sale and purchase of first sale fish. Regulation 4 provides an offence to sell first sale fish at a designated auction site unless registered as a fish seller. By regulation 8 it is an offence to buy first sale fish contrary to Article 22(2)(b) of the CFP Regulation (requirement that buyers of first sale fish are registered) as read with the final sub-paragraph of that article 22(2), which provides an exception for fish bought for private consumption. By regulation 10 it is an offence to sell first sale fish landed otherwise than by a licensed fishing vessel. And by regulation 11 it is an offence to buy first sale fish unless the fish has been landed by a licensed fishing vessel.
+
+Penalties for these offences are provided by regulation 12: on summary conviction, a fine not exceeding the statutory maximum and on conviction on indictment a fine. Where a person is convicted of an offence under regulations 3(9), 3(10), 5(7) 6(8), 6(9), 7(8), 7(9) or 9(6) a court may also revoke the registration or designation concerned and may order that the person convicted is disqualified from applying for registration or designation for a specified period.
+
+The Regulations confer powers of enforcement on British sea fishery officers for the purposes of enforcing these Regulations. These powers may be exercised in relation to premises in England, to any fishing boat within relevant British fishery limits and in relation to a relevant British fishing boat wherever it may be (regulations 13 to 15). Regulation 16 makes provision for protection of British sea fishery officers and regulation 17 provides offences and penalties for their obstruction. Regulation 18 makes provision in respect of offences by bodies corporate.
+
+## Annotations
+
+[^c1225161]: Marginal citation: [S.I. 1972/1811](https://www.legislation.gov.uk/uksi/1972/1811).
+
+[^c1225162]: Marginal citation: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68).
+
+[^key-57caaab16b1445b75fdef4c4d4741d0f]: Textual amendment: Reg. 1(3)(4) substituted (30.6.2009) by [The Fisheries (Miscellaneous Amendments) Regulations 2009 (S.I. 2009/1309)](https://www.legislation.gov.uk/uksi/2009/1309), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/1309/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2009/1309/regulation/2/2)
+
+[^key-3a2ebc41657f38636ca6b191cd844f08]: Textual amendment: Words in reg. 1(3)(b) inserted (6.3.2015) by [The Sea Fishing (Enforcement and Miscellaneous Provisions) Order 2015 (S.I. 2015/191)](https://www.legislation.gov.uk/uksi/2015/191), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2015/191/article/1/1), [4(2)(a)](https://www.legislation.gov.uk/uksi/2015/191/article/4/2/a)
+
+[^key-f0e87cec70da94677b924993250f7502]: Textual amendment: Words in reg. 1(3)(c)(iv) inserted (6.3.2015) by [The Sea Fishing (Enforcement and Miscellaneous Provisions) Order 2015 (S.I. 2015/191)](https://www.legislation.gov.uk/uksi/2015/191), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2015/191/article/1/1), [4(2)(a)](https://www.legislation.gov.uk/uksi/2015/191/article/4/2/a)
+
+[^key-1c8cdcc3e7501be3a3c6d3f9e6c99df3]: Textual amendment: Reg. 1(4) substituted (6.3.2015) by [The Sea Fishing (Enforcement and Miscellaneous Provisions) Order 2015 (S.I. 2015/191)](https://www.legislation.gov.uk/uksi/2015/191), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2015/191/article/1/1), [4(2)(b)](https://www.legislation.gov.uk/uksi/2015/191/article/4/2/b)
+
+[^key-c4f9fc4a542ebf2be713b74d9dc789e1]: Textual amendment: Words in reg. 2(1) omitted (6.3.2015) by virtue of [The Sea Fishing (Enforcement and Miscellaneous Provisions) Order 2015 (S.I. 2015/191)](https://www.legislation.gov.uk/uksi/2015/191), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2015/191/article/1/1), [4(3)(a)(i)](https://www.legislation.gov.uk/uksi/2015/191/article/4/3/a/i)
+
+[^c1225165]: Marginal citation: [1995 c. 21](https://www.legislation.gov.uk/ukpga/1995/21).
+
+[^key-e743fe9bbeb1d17669a0cad6df9acda5]: Textual amendment: Words in reg. 2(1) inserted (6.3.2015) by [The Sea Fishing (Enforcement and Miscellaneous Provisions) Order 2015 (S.I. 2015/191)](https://www.legislation.gov.uk/uksi/2015/191), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2015/191/article/1/1), [4(3)(a)(iii)](https://www.legislation.gov.uk/uksi/2015/191/article/4/3/a/iii)
+
+[^key-9623fcd570b10cdbdf544002bc25f6d4]: Textual amendment: Words in reg. 2(1) omitted (6.3.2015) by virtue of [The Sea Fishing (Enforcement and Miscellaneous Provisions) Order 2015 (S.I. 2015/191)](https://www.legislation.gov.uk/uksi/2015/191), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2015/191/article/1/1), [4(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2015/191/article/4/3/a/ii)
+
+[^key-5b25c0cade482a8d9ac629f472fc338c]: Textual amendment: Words in reg. 2(1) substituted (6.3.2015) by [The Sea Fishing (Enforcement and Miscellaneous Provisions) Order 2015 (S.I. 2015/191)](https://www.legislation.gov.uk/uksi/2015/191), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2015/191/article/1/1), [4(3)(a)(iv)](https://www.legislation.gov.uk/uksi/2015/191/article/4/3/a/iv)
+
+[^key-aaff40bedbc9e386e62672dc312eae68]: Textual amendment: Words in reg. 2(1) substituted (6.3.2015) by [The Sea Fishing (Enforcement and Miscellaneous Provisions) Order 2015 (S.I. 2015/191)](https://www.legislation.gov.uk/uksi/2015/191), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2015/191/article/1/1), [4(3)(a)(v)](https://www.legislation.gov.uk/uksi/2015/191/article/4/3/a/v)
+
+[^c1225167]: Marginal citation: [1967 c. 84](https://www.legislation.gov.uk/ukpga/1967/84).
+
+[^c1225168]: Marginal citation: [S.I. 1993/3138](https://www.legislation.gov.uk/uksi/1993/3138); the relevant amending instrument is 1999/3206.
+
+[^key-180e6831f2c9d1e662775e7aee7741ac]: Textual amendment: Reg. 2(3)(4) substituted for reg. 2(3) (6.3.2015) by [The Sea Fishing (Enforcement and Miscellaneous Provisions) Order 2015 (S.I. 2015/191)](https://www.legislation.gov.uk/uksi/2015/191), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2015/191/article/1/1), [4(3)(b)](https://www.legislation.gov.uk/uksi/2015/191/article/4/3/b)
+
+[^key-79f88b054f96de76d4a3899868710188]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2005/1605/regulation/3/1) substituted (6.3.2015) by [The Sea Fishing (Enforcement and Miscellaneous Provisions) Order 2015 (S.I. 2015/191)](https://www.legislation.gov.uk/uksi/2015/191), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2015/191/article/1/1), [4(4)(a)](https://www.legislation.gov.uk/uksi/2015/191/article/4/4/a)
+
+[^key-3313454b993585459ef0c4b4ecb12188]: Textual amendment: Words in [reg. 3(4)](https://www.legislation.gov.uk/uksi/2005/1605/regulation/3/4) substituted (6.3.2015) by [The Sea Fishing (Enforcement and Miscellaneous Provisions) Order 2015 (S.I. 2015/191)](https://www.legislation.gov.uk/uksi/2015/191), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2015/191/article/1/1), [4(4)(b)](https://www.legislation.gov.uk/uksi/2015/191/article/4/4/b)
+
+[^key-24f7c580383ab45bba352c6b5ab9fd2a]: Textual amendment: Words in [reg. 3(8)(b)](https://www.legislation.gov.uk/uksi/2005/1605/regulation/3/8/b) substituted (6.3.2015) by [The Sea Fishing (Enforcement and Miscellaneous Provisions) Order 2015 (S.I. 2015/191)](https://www.legislation.gov.uk/uksi/2015/191), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2015/191/article/1/1), [4(4)(c)](https://www.legislation.gov.uk/uksi/2015/191/article/4/4/c)
+
+[^key-671b09796527546f42793107bbb3246a]: Textual amendment: Words in [reg. 5(3)](https://www.legislation.gov.uk/uksi/2005/1605/regulation/5/3) substituted (6.3.2015) by [The Sea Fishing (Enforcement and Miscellaneous Provisions) Order 2015 (S.I. 2015/191)](https://www.legislation.gov.uk/uksi/2015/191), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2015/191/article/1/1), [4(5)](https://www.legislation.gov.uk/uksi/2015/191/article/4/5)
+
+[^key-737957a54fbc68c04d677e2c0bf6e1d6]: Textual amendment: Words in [reg. 6(1)](https://www.legislation.gov.uk/uksi/2005/1605/regulation/6/1) substituted (6.3.2015) by [The Sea Fishing (Enforcement and Miscellaneous Provisions) Order 2015 (S.I. 2015/191)](https://www.legislation.gov.uk/uksi/2015/191), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2015/191/article/1/1), [4(6)(a)](https://www.legislation.gov.uk/uksi/2015/191/article/4/6/a)
+
+[^key-c40dc2194f57f3f4222e75c93b803584]: Textual amendment: Words in [reg. 6(3)](https://www.legislation.gov.uk/uksi/2005/1605/regulation/6/3) substituted (6.3.2015) by [The Sea Fishing (Enforcement and Miscellaneous Provisions) Order 2015 (S.I. 2015/191)](https://www.legislation.gov.uk/uksi/2015/191), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2015/191/article/1/1), [4(6)(b)](https://www.legislation.gov.uk/uksi/2015/191/article/4/6/b)
+
+[^key-6f0cd055af838b208ee8734065e45841]: Textual amendment: Words in [reg. 6(7)(b)](https://www.legislation.gov.uk/uksi/2005/1605/regulation/6/7/b) substituted (6.3.2015) by [The Sea Fishing (Enforcement and Miscellaneous Provisions) Order 2015 (S.I. 2015/191)](https://www.legislation.gov.uk/uksi/2015/191), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2015/191/article/1/1), [4(6)(b)](https://www.legislation.gov.uk/uksi/2015/191/article/4/6/b)
+
+[^key-04a6a1d9dbac2bb207543f536a18d302]: Textual amendment: Words in [reg. 7(1)](https://www.legislation.gov.uk/uksi/2005/1605/regulation/7/1) substituted (6.3.2015) by [The Sea Fishing (Enforcement and Miscellaneous Provisions) Order 2015 (S.I. 2015/191)](https://www.legislation.gov.uk/uksi/2015/191), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2015/191/article/1/1), [4(7)(a)](https://www.legislation.gov.uk/uksi/2015/191/article/4/7/a)
+
+[^key-5448dd54136dcdba2e71975d29f8ccfc]: Textual amendment: Words in [reg. 7(3)](https://www.legislation.gov.uk/uksi/2005/1605/regulation/7/3) substituted (6.3.2015) by [The Sea Fishing (Enforcement and Miscellaneous Provisions) Order 2015 (S.I. 2015/191)](https://www.legislation.gov.uk/uksi/2015/191), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2015/191/article/1/1), [4(7)(b)](https://www.legislation.gov.uk/uksi/2015/191/article/4/7/b)
+
+[^key-0a29dbf2dfeffb32cf683df45be12e9e]: Textual amendment: Words in [reg. 7(7)(b)](https://www.legislation.gov.uk/uksi/2005/1605/regulation/7/7/b) substituted (6.3.2015) by [The Sea Fishing (Enforcement and Miscellaneous Provisions) Order 2015 (S.I. 2015/191)](https://www.legislation.gov.uk/uksi/2015/191), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2015/191/article/1/1), [4(7)(c)](https://www.legislation.gov.uk/uksi/2015/191/article/4/7/c)
+
+[^key-310c62a5c39903751ecc3695d8ea93b4]: Textual amendment: [Reg. 8](https://www.legislation.gov.uk/uksi/2005/1605/regulation/8) substituted (6.3.2015) by [The Sea Fishing (Enforcement and Miscellaneous Provisions) Order 2015 (S.I. 2015/191)](https://www.legislation.gov.uk/uksi/2015/191), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2015/191/article/1/1), [4(8)](https://www.legislation.gov.uk/uksi/2015/191/article/4/8)
+
+[^key-ec8f0cdfbc3b7b7545f648d1c637dfaf]: Textual amendment: Words in [reg. 9(3)](https://www.legislation.gov.uk/uksi/2005/1605/regulation/9/3) substituted (6.3.2015) by [The Sea Fishing (Enforcement and Miscellaneous Provisions) Order 2015 (S.I. 2015/191)](https://www.legislation.gov.uk/uksi/2015/191), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2015/191/article/1/1), [4(9)](https://www.legislation.gov.uk/uksi/2015/191/article/4/9)
+
+[^key-cf562b16e04818849ad48cad903f5360]: Textual amendment: Reg. 13(1) substituted (30.6.2009) by [The Fisheries (Miscellaneous Amendments) Regulations 2009 (S.I. 2009/1309)](https://www.legislation.gov.uk/uksi/2009/1309), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/1309/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2009/1309/regulation/2/3)
+
+[^key-1d3bd6eb82797f358313d176b79d13e3]: Textual amendment: Word in reg. 13(3) substituted (30.6.2009) by [The Fisheries (Miscellaneous Amendments) Regulations 2009 (S.I. 2009/1309)](https://www.legislation.gov.uk/uksi/2009/1309), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/1309/regulation/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2009/1309/regulation/2/4)
+
+[^key-4e41647c934977542052a0402b154e65]: Textual amendment: Reg. 15 substituted (30.6.2009) by [The Fisheries (Miscellaneous Amendments) Regulations 2009 (S.I. 2009/1309)](https://www.legislation.gov.uk/uksi/2009/1309), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/1309/regulation/1/2), [2(5)](https://www.legislation.gov.uk/uksi/2009/1309/regulation/2/5)
+
+[^key-ad69049f6728099403f28a618647fb0b]: Textual amendment: Words in [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2005/1605/schedule/1/paragraph/2) substituted (6.3.2015) by [The Sea Fishing (Enforcement and Miscellaneous Provisions) Order 2015 (S.I. 2015/191)](https://www.legislation.gov.uk/uksi/2015/191), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2015/191/article/1/1), [4(10)](https://www.legislation.gov.uk/uksi/2015/191/article/4/10)
+
+[^key-d9bed83e768701ebc2e7d3fb5e10eee2]: Textual amendment: Words in [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2005/1605/schedule/3/paragraph/2) substituted (6.3.2015) by [The Sea Fishing (Enforcement and Miscellaneous Provisions) Order 2015 (S.I. 2015/191)](https://www.legislation.gov.uk/uksi/2015/191), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2015/191/article/1/1), [4(11)](https://www.legislation.gov.uk/uksi/2015/191/article/4/11)

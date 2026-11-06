@@ -1,0 +1,154 @@
+---
+title: The Pyrotechnic Articles (Safety) Regulations 2015, SCHEDULE 7
+act: The Pyrotechnic Articles (Safety) Regulations 2015
+section: schedule-7
+status: revised
+text_date: '2025-02-27'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2015/1553/schedule/7
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Pyrotechnic Articles (Safety) Regulations 2015, SCHEDULE 7
+
+> Text as at 2025-02-27.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## SCHEDULE 7 — Enforcement powers of weights and measures authorities, district councils and the Secretary of State under the 1987 Act
+
+*Extent: E+W+S+N.I.*
+
+Regulation 54(1)
+
+### 1. Enforcement powers under the 1987 Act
+
+For the purposes of enforcing these Regulations, the following sections of the 1987 Act apply subject to the modifications in paragraph 2—
+
+- (a) section 13 (prohibition notices and notices to warn);
+- (b) section 14 (suspension notices);
+- (c) section 16 (forfeiture: England and Wales and Northern Ireland);
+- (d) section 17 (forfeiture: Scotland);
+- (e) section 18 (power to obtain information);
+- (f) section 28 (test purchases);
+- (g) section 29 (powers of search etc);
+- (h) section 30 (provisions supplemental to s 29);
+- (i) section 31 (powers of customs officer to detain goods);
+- (j) section 33 (appeals against detention of goods);
+- (k) section 34 (compensation for seizure and detention);
+- (l) section 35 (recovery of expenses of enforcement);
+- (m) section 37 (power of Commissioners for Revenue and Customs to disclose information);
+- (n) section 45 (interpretation);
+- (o) section 46(1) (meaning of “supply”); and
+- (p) Schedule 2 (prohibition notices and notices to warn).
+
+### 2. Modifications to the 1987 Act
+
+The sections of the 1987 Act referred to in paragraph 1 are to apply as if—
+
+- (a) in section 13—
+  - (i) in subsection (1), “relevant” were omitted on each occasion that it appears;
+  - (ii) in subsection (1), for “unsafe”, on each occasion that it appears, there were substituted “ non-compliant ”;
+  - (iii) in subsection (2), the words from “; and the Secretary of State may” to the end were omitted; and
+  - (iv) subsections (4) to (7) were omitted;
+- (b) in section 14—
+  - (i) in subsection (1), after “any safety provision has been contravened in relation to any goods”, there were inserted “ or that any goods present a risk ”;
+  - (ii) in subsection 2(b), after “a safety provision has been contravened in relation to the goods”, there were inserted “ or that the goods present a risk ”;
+  - (iii) in subsection (2)(c), “under section 15 below” were omitted; and
+  - (iv) subsections (6) to (8) were omitted;
+- (c) in section 16—
+  - (i) in subsection (1), after “a contravention in relation to the goods of a safety provision”, there were inserted “ or that the goods present a risk ”;
+  - (ii) for subsection 2(b) there were substituted—
+
+    > - (b) where an application with respect to some or all of the goods has been made to a magistrates' court under regulation 70 (appeals against notices) of the 2015 Regulations or section 33, to that court; and
+
+    ;
+  - (iii) in subsection (3), after “a contravention in relation to the goods of a safety provision”, there were inserted “ or that the goods present a risk ”;
+  - (iv) after subsection (4), there were inserted—
+
+    > (4A) A court may infer for the purposes of this section that any goods present a risk if it is satisfied that such a risk is presented by goods which are representative of those goods (whether by reason of being of the same design or part of the same consignment or batch or otherwise).
+
+    ;
+  - (v) in subsection (6), for “Subject to subsection (7) below, where” there were substituted “ Where ”; and
+  - (vi) subsection (7) were omitted;
+- (d) in section 17—
+  - (i) in subsection (1), after “a contravention of a safety provision”, there were inserted “ or where the goods present a risk ”;
+  - (ii) in subsection (6), after “a contravention in relation to those goods of a safety provision”, there were inserted “ or that those goods present a risk ”; and
+  - (iii) after subsection (7), there were inserted—
+
+    > (7A) The sheriff may infer for the purposes of this section that any goods present a risk if satisfied that such risk is presented by goods which are representative of those goods (whether by reason of being of the same design or part of the same consignment or batch or otherwise).
+
+    ;
+- (e) in section 18, subsections (3) and (4) were omitted;
+- (f) in section 28—
+  - (i) in subsection (1), for “, services, accommodation or facilities”, there were substituted “ or whether any goods present a risk ”;
+  - (ii) in subsection (1), paragraph (b) were omitted; and
+  - (iii) subsections (3) and (4) were omitted;
+- (g) in section 29—
+  - (i) in subsection (2), after “any contravention of any safety provision” there were inserted “ or whether goods present a risk ”;
+  - (ii) in subsection (3), after “any contravention of any safety provision” there were inserted “ or whether goods present a risk ”;
+  - (iii) in subsection 4(a), after “any contravention of any safety provision in relation to the goods”, there were inserted “ or whether the goods present a risk ”;
+  - (iv) in subsection 4(b), after “any such contravention”, there were inserted “ or whether the goods present a risk ”;
+  - (v) in subsection (5), after “a contravention in relation to any goods of any safety provision”, there were inserted “ or that the goods present a risk ”;
+  - (vi) in subsection (5)(a), after “any such contravention”, there were inserted “ or whether the goods present a risk ”;
+  - (vii) in subsection (5)(b), after “any such contravention”, there were inserted “ or whether the goods present a risk ”; and
+  - (viii) in subsection (7), after “a contravention of any safety provision”, there were inserted “ or prevent goods from presenting a risk ”;
+- (h) in section 30—
+  - (i) after subsection (2)(a)(ii), for “and”, there were substituted—
+
+    > or
+    >
+    > - (iii) that any goods which any officer has power to inspect under section 29 are on any premises and their inspection is likely to demonstrate that they present a risk; and
+
+    ; and
+  - (ii) subsections (5), (7) and (8) were omitted;
+- (i) in section 31(1), for “Part II of this Act”, there were substituted “ the 2015 Regulations ”;
+- (j) in section 34(1), after paragraph (a), there were inserted
+
+  > - (aa) the goods do not present a risk;
+
+  ;
+- (k) in section 37(1), for “Part II of this Act”, there were substituted “ the 2015 Regulations ”;
+- (l) in section 45(1)—
+  - (i) the definitions of “conditional sale agreement”, “credit-sale agreement”, “gas”, “motor vehicle”, “personal injury”, “subordinate legislation” and “substance” were omitted;
+  - (ii) before the definition of “aircraft”, there were inserted—
+
+    > “**2015 Regulations**” means the Pyrotechnic Articles (Safety) Regulations 2015;
+
+    ;
+  - (iii) for the definition of “enforcement authority” there were substituted—
+
+    > “**enforcement authority**” means an enforcing authority within the meaning set out in regulation 2(1) of 2015 Regulations;
+
+    ;
+  - (iv) for the definition of “goods” there were substituted—
+
+    > “**goods**” means a pyrotechnic article within the meaning set out in regulation 3 of the 2015 Regulations;
+
+    ;
+  - (v) after the definition of “modifications”, there were inserted—
+
+    > “**non-compliant**” in relation to any goods means that—
+    >
+    > - (a) a safety provision has been contravened in relation to the goods; or
+    > - (b) the goods present a risk;
+  - (vi) after the definition of “premises”, there were inserted—
+
+    > “**present a risk**” means present a risk within the meaning set out in regulation 2(5) of the 2015 Regulations;
+
+    ;
+  - (vii) for the definition of “safety provision” there were substituted—
+
+    > “**safety provision**” means any provision of the 2015 Regulations;
+
+    ; and
+  - (viii) for the definition of “safety regulations” there were inserted—
+
+    > “**safety regulations**” means the 2015 Regulations;
+
+    ;
+- (m) in section 46(1), omit “and, in relation to gas or water, those references shall be construed as including references to providing the service by which the gas or water is made available for use”; and
+- (n) in Schedule 2—
+  - (i) for “unsafe”, on each occasion that it appears, there were substituted “ non-compliant ”; and
+  - (ii) for “safe”, on each occasion that it appears, there were substituted “ not non-compliant ”.

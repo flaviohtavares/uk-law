@@ -1,0 +1,1722 @@
+---
+title: The Electricity and Gas (Energy Company Obligation) Order 2018
+id: uksi/2018/1183
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2018-11-12'
+text_date: '2020-01-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2018/1183
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2018/1183/pdfs/uksiem_20181183_en.pdf
+- http://www.legislation.gov.uk/uksi/2018/1183/pdfs/uksi_20181183_en.pdf
+- http://www.legislation.gov.uk/uksi/2018/1183/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Electricity and Gas (Energy Company Obligation) Order 2018
+
+> Text as at 2020-01-01.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2018 No. 1183
+
+Electricity
+
+Gas
+
+The Electricity and Gas (Energy Company Obligation) Order 2018
+
+Made
+
+12th November 2018
+
+Coming into force in accordance with article 1
+
+The Secretary of State makes this Order in exercise of the powers conferred by section 33BD of the Gas Act 1986 [^c23434141], section 41B of the Electricity Act 1989 [^c23434151], section 103A of the Utilities Act 2000 [^c23434161] and section 2(2) of the European Communities Act 1972 [^c23434171], with the agreement of the Scottish Ministers [^c23434181].
+
+The Secretary of State is a Minister designated for the purpose of section 2(2) of the European Communities Act 1972 in relation to energy and energy sources [^c23434191].
+
+The Secretary of State has consulted the Gas and Electricity Markets Authority, the National Association of Citizens Advice Bureaux, the Scottish Association of Citizens Advice Bureaux, electricity distributors, electricity suppliers, gas transporters, gas suppliers and such other persons as the Secretary of State considers appropriate.
+
+A draft of this instrument has been approved by a resolution of each House of Parliament pursuant to section 33BC(12) of the Gas Act 1986 [^c23434201], as applied by section 33BD(4) of that Act, section 41A(12) of the Electricity Act 1989 [^c23434211], as applied by section 41B(4) of that Act, section 103A(6) of the Utilities Act 2000 and paragraph 2(2) of Schedule 2 to the European Communities Act 1972 [^c23434221].
+
+## PART 1 — Introduction
+
+### 1. Citation and commencement
+
+This Order may be cited as the Electricity and Gas (Energy Company Obligation) Order 2018 and comes into force on the 21st day after the day on which this Order is made.
+
+### 2. Interpretation
+
+In this Order—
+
+- “**2014 Order**” means the Electricity and Gas (Energy Company Obligation) Order 2014 [^c23434231];
+- “**A to E private rented premises**” means private rented premises for which a pre-installation EPC expresses the energy performance rating of the premises as band A, B, C, D or E;
+- “**central heating system**” means a system which—
+  - (a) provides heat for the purpose of space heating through a boiler or other heat source connected to one or more separate heat emitters; and
+  - (b) does not include a district heating connection;
+- “**commencement date**” means the date on which this Order comes into force;
+- “**completed**”, in relation to a measure, has the meaning given in article 24(3);
+- “**cost savings**” means, in relation to a measure—
+  - (a) the money that would be saved by that measure over its expected lifetime in heating domestic premises to 21 degrees Celsius in the main living areas and 18 degrees Celsius in all other areas; and
+  - (b) where the measure also results—
+    - (i) in savings in the cost of heating water, the money that would be saved by the measure over its expected lifetime in heating water in those premises; or
+    - (ii) in the generation of electricity, the money that would be saved by the measure over its expected lifetime in generating electricity for use at those premises, excluding any electricity generated for the purpose of heating the premises or for heating water;
+- “**demonstration action**” has the meaning given in article 20(5);
+- “**district heating connection**” means a connection of domestic premises to a district heating system;
+- “**district heating system**” means a system that delivers heat through pipes or conduits to—
+  - (a) at least two domestic premises in at least two separate buildings; or
+  - (b) at least three domestic premises located in a single building, provided that those premises are not all located within one house in multiple occupation, and for the purpose of this definition “house in multiple occupation”—
+    - (i) in respect of premises in England and Wales, has the meaning given by section 254 of the Housing Act 2004 [^c23434241];
+    - (ii) in respect of premises in Scotland, has the meaning given to “HMO” in section 125 of the Housing (Scotland) Act 2006 [^c23434251];
+- “**domestic customer**” means a person living in domestic premises in Great Britain who is supplied with electricity or gas at those premises wholly or mainly for domestic purposes;
+- “**domestic premises**” includes a mobile home;
+- “**efficient repairable electric storage heater**” means an electric storage heater which—
+  - (a) has a responsiveness rating of more than 0.2 when assessed against the Standard Assessment Procedure [^c23434261]; and
+  - (b) is not broken down or, if it is broken down, can be economically repaired;
+- “energy performance certificate”—
+  - (a) in respect of domestic premises in England and Wales, has the meaning given in regulation 2 of the Energy Performance of Buildings (England and Wales) Regulations 2012 [^c23434271];
+  - (b) in respect of domestic premises in Scotland, has the meaning given in regulation 2 of the Energy Performance of Buildings (Scotland) Regulations 2008 [^c23434281];
+- “energy performance rating”—
+  - (a) in respect of domestic premises in England and Wales, has the meaning given in regulation 11 of the Energy Performance of Buildings (England and Wales) Regulations 2012 [^c23434291];
+  - (b) in respect of domestic premises in Scotland, has the same meaning as “energy performance indicator” in regulation 2 of the Energy Performance of Buildings (Scotland) Regulations 2008;
+- “**F, G or unrated private rented premises**” means private rented premises other than A to E private rented premises;
+- “**first time heating system**” means the installation of a central heating system or a district heating connection at domestic premises—
+  - (a) which at no point prior to the installation were heated by a central heating system or a district heating system; and
+  - (b) which immediately prior to the installation do not contain an efficient repairable electric storage heater;
+- “group”, except in article 14(7), means a group of companies that includes as members of the group at least two companies that are licence-holders, and for the purpose of this definition—
+  - (a) “**company**” includes any body corporate; and
+  - (b) “**group of companies**” means a holding company and the wholly-owned subsidiaries of that holding company where “**holding company**” and “**wholly-owned subsidiary**” have the same meaning as in section 1159 of the Companies Act 2006 [^c23434301];
+- “**innovation measure**” has the meaning given in article 21(5);
+- “installation”, except where otherwise stated, includes the carrying out of a repair, and cognate expressions are to be construed accordingly;
+- “**licence-holder**” means a person holding one or both of the following—
+  - (a) a licence under section 6(1)(d) of the Electricity Act 1989 [^c23434311];
+  - (b) a licence under section 7A of the Gas Act 1986 [^c23434321];
+- “**local authority**” means—
+  - (a) a county council;
+  - (b) a combined authority established under section 103 of the Local Democracy, Economic Development and Construction Act 2009 [^c23434331];
+  - (c) a district council;
+  - (d) a London Borough Council;
+  - (e) the Greater London Authority;
+  - (f) the Common Council of the City of London;
+  - (g) the Council of the Isles of Scilly;
+  - (h) a county borough council; or
+  - (i) a council constituted under section 2 of the Local Government etc. (Scotland) Act 1994 [^c23434341];
+- “**mobile home**” means a home which is—
+  - (a) a caravan within the meaning of Part 1 of the Caravan Sites and Control of Development Act 1960 [^c23434351] (disregarding the modification made by section 13(2) of the Caravan Sites Act 1968 [^c23434361]); and
+  - (b) used as a dwelling for the purposes of—
+    - (i) Part 1 of the Local Government Finance Act 1992 [^c23434371] if it is located in England or Wales;
+    - (ii) Part 2 of the Local Government Finance Act 1992 [^c23434381] if it is located in Scotland;
+- “**monitored measure**” has the meaning given in article 22(5);
+- “**non-renewable source**” means a source of energy or technology not mentioned in section 100(4) of the Energy Act 2008 [^c23434391];
+- “**oil**” means liquid hydrocarbons;
+- “**owner**” includes any person who under the Lands Clauses Acts [^c23434401] would be enabled to sell and convey land to promoters of an undertaking;
+- “**owner-occupied premises**” means domestic premises other than—
+  - (a) private rented premises; or
+  - (b) social housing;
+- “**participant**” has the meaning given in article 3(1) and (2);
+- “[^key-e68676439ba7884db7b19d0353a8f901]**PAS 2030:2019**” means Publicly Available Specification 2030:2019 [^c23434471];
+- “**PAS 2030:2019 certified installer**” means, in relation to a measure, a person who is certified, by a certification body or organisation accredited to EN ISO/IEC 17065:2012 [^c23434481], as compliant with those parts of PAS 2030:2019 that apply to the measure;
+- “**PAS 2035:2019**” means Publicly Available Specification 2035:2019 [^c23434491];
+- “**phase**” means one of the four phases as follows—
+  - (a) the period starting on the commencement date and ending with 31st March 2019 (“phase 1”);
+  - (b) the twelve months ending with 31st March 2020 (“phase 2”);
+  - (c) the twelve months ending with 31st March 2021 (“phase 3”);
+  - (d) the twelve months ending with 31st March 2022 (“phase 4”);
+- “**post-installation EPC**” means, in relation to domestic premises where a measure is installed, an energy performance certificate for the premises that was issued after the measure was installed;
+- “**pre-installation EPC**” means, in relation to domestic premises where a measure is installed, an energy performance certificate for the premises that is the most recent of any energy performance certificate for the premises issued before the measure was installed;
+- “**previous energy efficiency schemes**” means—
+  - (a) the Electricity and Gas (Energy Companies Obligation) Order 2012 [^c23434411]; or
+  - (b) the 2014 Order;
+- “**primary insulation measure**” means a qualifying action which is the installation at domestic premises of—
+  - (a) insulation of at least 50% of the floor area of the lowest storey of the premises containing a habitable room;
+  - (b) insulation of a cavity wall which divides the premises from other premises under different occupation;
+  - (c) wall insulation applied to at least 50%, by area, of the walls of the premises which are exterior facing;
+  - (d) insulation of at least 50%, by area, of the walls and ceiling of a room in the roof space of the premises;
+  - (e) insulation of at least 50% of the roof area of the premises, where the area insulated includes at least 50% of a flat roof; or
+  - (f) insulation applied to at least 50%, by area, of the floor, walls and ceiling of a mobile home;
+- “**private domestic premises**” means domestic premises other than social housing;
+- “**private rented premises**” means—
+  - (a) in respect of premises in England and Wales, private domestic premises which are a domestic PR property within the meaning of regulation 19 of the Energy Efficiency (Private Rented Property) (England and Wales) Regulations 2015 [^c23434421]; and
+  - (b) in respect of premises in Scotland, private domestic premises let under a tenancy to which Chapter 4 of Part 1 of the Housing (Scotland) Act 2006 [^c23434431] applies;
+- “**qualification year**” means—
+  - (a) for phase 1, the year 2017;
+  - (b) for phase 2, the year 2018;
+  - (c) for phase 3, the year 2019; and
+  - (d) for phase 4, the year 2020;
+- “**qualifying action**” has the meaning given in article 13;
+- “**qualifying supply**” means, in relation to the qualification year for a phase, the supply to domestic customers of—
+  - (a) in the case of phase 1, 500 gigawatt hours of electricity or 1400 gigawatt hours of gas;
+  - (b) in the case of phase 2, 400 gigawatt hours of electricity or 1100 gigawatt hours of gas;
+  - (c) in the case of phase 3, 300 gigawatt hours of electricity or 700 gigawatt hours of gas;
+  - (d) in the case of phase 4, 300 gigawatt hours of electricity or 700 gigawatt hours of gas;
+- “**Reduced Data Standard Assessment Procedure**” means the Government's Reduced Data Standard Assessment Procedure for Energy Rating of Dwellings (2012 Edition, version 9.92) [^c23434441];
+- “**relevant supplier**” means—
+  - (a) a participant; or
+  - (b) a licence-holder on whom a total carbon emissions reduction obligation was imposed within the meaning of the 2014 Order;
+- “**renewable heating measure**” means a measure for the generation of heat wholly or partly by means of a source of energy or technology mentioned in section 100(4) of the Energy Act 2008;
+- “**score**” means the contribution that a qualifying action makes towards a participant's total home-heating cost reduction obligation;
+- “**secondary heating measure**” means a measure which—
+  - (a) is installed at the same domestic premises where a primary insulation measure has been installed (“the related primary measure”);
+  - (b) is completed on the same date as, or no more than six months after, the date on which the related primary measure is completed;
+  - (c) is promoted by the same participant who promoted the related primary measure;
+  - (d) is not installed to improve the insulating properties of domestic premises; and
+  - (e) is not the installation of equipment for the generation of heat wholly or partly from oil;
+- “**social housing**” means domestic premises described in Schedule 1;
+- “**social landlord**” has the meaning given in paragraph 4 of Schedule 1;
+- “**solid wall**” includes a metal or timber frame wall or a wall of pre-fabricated concrete construction;
+- “**solid wall insulation**” means internal or external insulation of a solid wall, but does not include insulation applied to the walls of a mobile home;
+- “**solid wall minimum requirement**” means the amount determined under article 6(1)(b) for a participant in respect of a phase;
+- “**Standard Assessment Procedure**” means the Government's Standard Assessment Procedure for Energy Rating of Dwellings (2012 Edition, version 9.92) [^c23434451];
+- “**surplus action**” has the meaning given in article 23(3);
+- “**total home-heating cost reduction obligation**” means, in respect of a participant, and subject to article 35, the sum of home-heating cost reduction obligations [^c23434461] which have been determined for the participant under article 6;
+- “**total solid wall minimum requirement**” has the meaning given in article 11(4);
+- “**wall insulation**” means—
+  - (a) insulation of a cavity wall;
+  - (b) solid wall insulation.
+
+### 3. Definition of a participant
+
+(1) A licence-holder is a participant in relation to a phase if—
+
+- (a) the licence-holder supplies or, where the licence-holder is a member of a group, the group supplies, more than—
+  - (i) a qualifying supply of electricity in the qualification year for that phase; and
+  - (ii) the qualifying number of domestic customers at the end of that qualification year;
+- (b) the licence-holder supplies or, where the licence-holder is a member of a group, the group supplies, more than—
+  - (i) a qualifying supply of gas in the qualification year for that phase; and
+  - (ii) the qualifying number of domestic customers at the end of that qualification year; or
+- (c) in the case of phase 2, 3 or 4, the licence-holder was a participant in relation to the preceding phase.
+
+(2) Where a dual licence-holder is a participant by virtue of paragraph (1), that licence-holder is to be treated under this Order as two participants, of which—
+
+- (a) one is a participant in respect of the supply of electricity; and
+- (b) the other is a participant in respect of the supply of gas.
+
+(3) For the purposes of this article—
+
+- (a) whether or not a licence-holder is a member of a group is to be determined according to whether the licence-holder was a member of a group at the end of the qualification year; and
+- (b) where a licence-holder is a member of a group, the amount of electricity or gas supplied by the group in a qualification year is the amount supplied in that year by all licence-holders in the group, whether or not they were members of the group throughout that year.
+
+(4) For the purposes of determining the number of domestic customers of a licence-holder under this Order, a domestic customer who receives electricity and gas from a dual licence-holder is a separate domestic customer under each licence.
+
+(5) In this article—
+
+- “**dual licence-holder**” means a person holding a licence under section 6(1)(d) of the Electricity Act 1989 and a licence under section 7A of the Gas Act 1986;
+- “**qualifying number**” means, in relation to the end of the qualification year for—
+  - (a) phase 1, 250,000;
+  - (b) phase 2, 200,000;
+  - (c) phase 3, 150,000;
+  - (d) phase 4, 150,000.
+
+## PART 2 — Overall home-heating cost reduction target
+
+### 4. Overall home-heating cost reduction target
+
+For the period from the commencement date to 31st March 2022 the overall home-heating cost reduction target is £8.253 billion.
+
+## PART 3 — Determining obligations
+
+### 5. Notification by participants of domestic customers and energy supplied
+
+(1) A licence-holder who is a participant in relation to a phase must notify the Administrator [^c23434471] of the number of that participant's domestic customers as at the end of the qualification year for that phase.
+
+(2) That participant must also notify the Administrator—
+
+- (a) where it supplied electricity to domestic customers in that qualification year, of the amount of electricity it so supplied; or
+- (b) where it supplied gas to domestic customers in that qualification year, of the amount of gas it so supplied.
+
+(3) Where a participant (“P”) is a member of a group with another participant, P must also notify the Administrator—
+
+- (a) where P supplied electricity to domestic customers in that qualification year, of—
+  - (i) the name and company registration number of any other participant in the group that supplied electricity to domestic customers in that year; and
+  - (ii) the amount of electricity supplied to domestic customers by the group in that year; or
+- (b) where P supplied gas to domestic customers in that qualification year, of—
+  - (i) the name and company registration number of any other participant in the group that supplied gas to domestic customers in that year; and
+  - (ii) the amount of gas supplied to domestic customers by the group in that year.
+
+(4) The notifications referred to in paragraphs (1) to (3) must be made in writing on or before—
+
+- (a) for phase 1, the date falling 7 days after the commencement date;
+- (b) for phase 2, 1st February 2019;
+- (c) for phase 3, 1st February 2020;
+- (d) for phase 4, 1st February 2021.
+
+(5) Where a participant fails to provide the information in paragraphs (1) to (3), or the Administrator considers any of the information notified by the participant under those paragraphs is inaccurate, the Administrator may determine the matters in those paragraphs.
+
+(6) Anything determined by the Administrator under paragraph (5) is to be treated for the purposes of this Order as if it were notified by the participant.
+
+(7) For the purposes of this article—
+
+- (a) whether or not a participant is a member of a group is to be determined according to whether the participant was a member of a group at the end of the qualification year; and
+- (b) where a participant is a member of a group, the amount of electricity or gas supplied by the group in a qualification year is the amount supplied in that year by all participants in the group, whether or not they were members of the group throughout that year.
+
+### 6. Determining a participant's home-heating cost reduction obligation and solid wall minimum requirement
+
+(1) The Administrator must determine for each participant in relation to a phase—
+
+- (a) the participant's home-heating cost reduction obligation for that phase; and
+- (b) the participant's solid wall minimum requirement for that phase.
+
+(2) For the purposes of paragraph (1), the Administrator must—
+
+- (a) in the case of a participant who is not a member of a group with another participant at the end of the qualification year for the phase, make the determination in accordance with article 7;
+- (b) in any other case, make the determination in accordance with article 8.
+
+(3) The Administrator must notify a participant of its home-heating cost reduction obligation and solid wall minimum requirement in writing—
+
+- (a) for phase 1, within 28 days of the commencement date;
+- (b) for phases 2, 3 and 4, on or before the last day of February prior to the commencement of the phase.
+
+### 7. Determining obligations for a participant who is not a member of a group
+
+(1) Where this article applies—
+
+- (a) if the participant has notified under article 5(2) a supply of electricity or gas in the qualification year for the phase which does not exceed a qualifying supply, the participant's home-heating cost reduction obligation and solid wall minimum requirement for the phase are zero;
+- (b) in any other case, the participant's home-heating cost reduction obligation and solid wall minimum requirement for the phase are each to be calculated in accordance with the following formula—
+
+  [formula: see source](https://www.legislation.gov.uk/uksi/2018/1183)
+
+(2) In this article—
+
+- (a) “A” is the value given for the obligation or requirement in the following table for the phase—
+
+  | *Phase* | *Home-heating cost reduction obligation* | *Solid wall minimum requirement* |
+  | --- | --- | --- |
+  | 1 | £589.5 million | £51.5 million |
+  | 2 | £1.179 billion | £103 million |
+  | 3 | £1.179 billion | £103 million |
+  | 4 | £1.179 billion | £103 million |
+- (b) “Tx” is the amount of electricity or gas supplied in the qualification year for the phase by the participant as determined—
+  - (i) for phase 1, in accordance with article 9(2);
+  - (ii) for phases 2 to 4, in accordance with article 10(2); and
+- (c) “T” is the total amount of electricity or gas, as applicable, supplied in the qualification year for the phase by all participants as determined—
+  - (i) for phase 1, in accordance with article 9(6);
+  - (ii) for phases 2 to 4, in accordance with article 10(4).
+
+### 8. Determining obligations for a participant who is a member of a group
+
+(1) Where this article applies—
+
+- (a) if the participant has notified under article 5(3) a supply of electricity or gas for the group in the qualification year for the phase which does not exceed a qualifying supply, the participant's home-heating cost reduction obligation and solid wall minimum requirement for the phase are zero;
+- (b) in any other case, the participant's home-heating cost reduction obligation and solid wall minimum requirement for the phase are each to be calculated in accordance with the following formula—
+
+  [formula: see source](https://www.legislation.gov.uk/uksi/2018/1183)
+
+(2) In paragraph (1)(b)—
+
+- (a) “**A**” and “**T**” have the same meaning as in article 7;
+- (b) “Tg” is the amount of electricity or gas, as applicable, supplied in the qualification year for the phase by the group of which the participant is a member as determined—
+  - (i) for phase 1, in accordance with article 9(3);
+  - (ii) for phases 2 to 4, in accordance with article 10(3);
+- (c) “B” is the amount of electricity or gas notified by the participant under article 5(2) for the qualification year for the phase; and
+- (d) “C” is the amount of electricity or gas notified by the participant under article 5(3) as supplied in the qualification year for the phase by the group of which the participant is a member.
+
+### 9. Determining supply for phase 1
+
+(1) This article applies for the purposes of articles 7 and 8.
+
+(2) The amount of electricity or gas supplied by a participant in the qualification year for phase 1 is—
+
+- (a) where the amount notified by the participant under article 5(2) for that year is more than a qualifying supply but less than 1000 gigawatt hours of electricity or 2800 gigawatt hours of gas, the amount determined using the formula in paragraph (4);
+- (b) where the amount notified under article 5(2) for that year is equal to or more than 1000 gigawatt hours of electricity or 2800 gigawatt hours of gas, the notified amount.
+
+(3) The amount of electricity or gas supplied by a group in the qualification year for phase 1 is—
+
+- (a) where the amount notified by the participant under article 5(3) for that year is more than a qualifying supply but less than 1000 gigawatt hours of electricity or 2800 gigawatt hours of gas, the amount determined using the formula in paragraph (4);
+- (b) where the amount notified under article 5(3) for that year is equal to or more than 1000 gigawatt hours of electricity or 2800 gigawatt hours of gas, the notified amount.
+
+(4) The formula referred to in paragraphs (2)(a) and (3)(a) is—
+
+[formula: see source](https://www.legislation.gov.uk/uksi/2018/1183)
+
+(5) In paragraph (4)—
+
+- “D” is—
+  - (a) in the case of a participant who is not a member of a group with another participant at the end of the qualification year for phase 1, the amount of electricity or gas notified under article 5(2) as supplied by the participant in the qualification year for phase 1;
+  - (b) in the case of a participant who is a member of a group with another participant at the end of the qualification year for phase 1, the amount of electricity or gas notified under article 5(3) as supplied by the group in the qualification year for phase 1;
+- “E” is—
+  - (a) in the case of electricity, 500 gigawatt hours; or
+  - (b) in the case of gas, 1400 gigawatt hours.
+
+(6) The total amount of electricity or gas supplied in the qualification year for phase 1 by all participants is the sum of—
+
+- (a) all the electricity or gas supplied in the qualification year by participants that are not members of a group with another participant at the end of the qualification year, as determined in accordance with paragraph (2); and
+- (b) all the electricity or gas supplied in the qualification year by groups, as determined in accordance with paragraph (3).
+
+(7) In paragraph (6)(b), the reference to “groups” is to those groups that, at the end of the qualification year, include at least two participants.
+
+### 10. Determining supply for phases 2 to 4
+
+(1) This article applies for the purposes of articles 7 and 8.
+
+(2) The amount of electricity or gas supplied by a participant in a qualification year for phase 2, 3 or 4 is the amount of electricity or gas notified by the participant under article 5(2) for the qualification year, but deducting an amount equal to the qualifying supply for the phase.
+
+(3) The amount of electricity or gas supplied by a group in a qualification year for phase 2, 3 or 4 is the amount of electricity or gas notified by a participant under article 5(3) as supplied in the qualification year by the group of which the participant is a member, but deducting an amount equal to the qualifying supply for the phase.
+
+(4) The total amount of electricity or gas supplied in a qualification year for phase 2, 3 or 4 by all participants is the sum of—
+
+- (a) all the electricity or gas supplied in the qualification year by participants that are not members of a group with another participant at the end of the qualification year, as determined in accordance with paragraph (2); and
+- (b) all the electricity or gas supplied in the qualification year by groups, as determined in accordance with paragraph (3).
+
+(5) In paragraph (4)—
+
+- (a) in sub-paragraph (a), the reference to “**participants**” does not include those participants where the amount of electricity or gas, as applicable, notified under article 5(2) as supplied by the participant in the qualification year does not exceed the qualifying supply for the phase;
+- (b) in sub-paragraph (b), the reference to “groups”—
+  - (i) is to those groups that, at the end of the qualification year, include at least two participants; and
+  - (ii) does not include those groups where the amount of electricity or gas, as applicable, notified under article 5(3) as supplied by the group in the qualification year does not exceed the qualifying supply for the phase.
+
+## PART 4 — Achievement of obligations
+
+### 11. Achievement of home-heating cost reduction obligation
+
+(1) A participant must achieve its total home-heating cost reduction obligation by no later than 31st March 2022.
+
+(2) Subject to article 12, a participant must achieve its total home-heating cost reduction obligation by promoting qualifying actions.
+
+(3) In meeting its total home-heating cost reduction obligation—
+
+- (a) the participant must promote sufficient solid wall actions to meet or exceed its total solid wall minimum requirement; and
+- (b) at least 15% of the participant's total home-heating cost reduction obligation must be achieved by promoting qualifying actions that—
+  - (i) are installed at domestic premises located in a rural area; and
+  - (ii) are not the installation of equipment for the generation of heat wholly or partly from oil.
+
+(4) For the purposes of this Order, a participant's total solid wall minimum requirement is, subject to article 35, the sum of the solid wall minimum requirements which have been determined for the participant under article 6 (and is the amount of the participant's total home-heating cost reduction obligation, as a minimum, which is to be achieved by promoting solid wall actions).
+
+(5) In this article—
+
+- “**rural area**” means—
+  - (a) in respect of an area in England and Wales, an area classified as rural in the “2011 rural-urban classification of output areas” published by the Office for National Statistics in August 2013 [^c23434481];
+  - (b) in respect of an area in Scotland, an area classified as rural in the “Scottish Government Urban Rural Classification 2016” published by the Scottish Government in March 2018 [^c23434491];
+- “**solid wall action**” means a qualifying action that is—
+  - (a) the installation of solid wall insulation to at least 50%, by area, of the exterior facing solid walls of uninsulated solid wall premises; or
+  - (b) a solid wall alternative measure installed at uninsulated solid wall premises that achieves at least the same amount of cost savings as would have been achieved by the installation of solid wall insulation at the premises, those cost savings to be calculated—
+    - (i) in accordance with a methodology published by the Administrator under article 33;
+    - (ii) disregarding any solid wall insulation already installed at the premises; and
+    - (iii) as if the solid wall insulation is installed to at least 95%, by area, of the exterior facing solid walls of the premises;
+- “**solid wall alternative measure**” means a qualifying action that—
+  - (a) is—
+    - (i) installed to improve the insulating properties of domestic premises;
+    - (ii) the installation of heating controls;
+    - (iii) the installation, but not the repair, of a renewable heating measure; or
+    - (iv) a connection to a district heating system that delivers heat generated wholly or partly by means of a source of energy or technology mentioned in section 100(4) of the Energy Act 2008; and
+  - (b) is not the installation of solid wall insulation to at least 50%, by area, of the exterior facing solid walls of domestic premises;
+- “**uninsulated solid wall premises**” means, in relation to premises at which a qualifying action is installed, domestic premises—
+  - (a) with at least one exterior facing wall, where—
+    - (i) at least 50%, by area, of the exterior facing walls are solid walls; and
+    - (ii) before the installation of the qualifying action takes place, at least 50%, by area, of the exterior facing solid walls do not have internal or external insulation; and
+  - (b) which are not a mobile home.
+
+### 12. Caps on certain types of qualifying actions
+
+(1) No more than 25% of a participant's total home-heating cost reduction obligation may be achieved by qualifying actions which are—
+
+- (a) qualifying actions by virtue of meeting the condition in article 17; or
+- (b) heating qualifying actions, within the meaning of article 16(3) of the 2014 Order, by virtue of meeting the condition in article 16A(3), (4) or (5) of that Order.
+
+(2) No more than 10% of a participant's total home-heating cost reduction obligation may be achieved by qualifying actions which are—
+
+- (a) demonstration actions; or
+- (b) innovation measures other than excess innovation measures.
+
+(3) No more than 10% of a participant's total home-heating cost reduction obligation may be achieved by qualifying actions which are monitored measures.
+
+(4) No more than 5% of a participant's total home-heating cost reduction obligation may be achieved by the same demonstration action.
+
+(5) No more than 5% of a participant's total home-heating cost reduction obligation may be achieved by innovation measures—
+
+- (a) which fall within the same innovation measure description; and
+- (b) which are not excess innovation measures, demonstration actions or monitored measures.
+
+(6) No more than 5% of a participant's total home-heating cost reduction obligation may be achieved by measures which are the repair of a boiler.
+
+(7) No more than 5% of a participant's total home-heating cost reduction obligation may be achieved by measures which are the repair of an electric storage heater.
+
+(8) No more than 21.023% of a participant's total home-heating cost reduction obligation may be achieved by measures to which paragraph (9) applies.
+
+(9) This paragraph applies to a measure which the Administrator is satisfied—
+
+- (a) is installed at domestic premises which immediately prior to the installation of the measure—
+  - (i) have a boiler, central heating system or district heating connection which in each case has broken down and cannot be economically repaired;
+  - (ii) have one or more electric storage heaters, all of which are broken down and cannot be economically repaired; or
+  - (iii) do not have a boiler, central heating system, district heating connection or electric storage heater, but which have been heated by a boiler, central heating system, district heating connection or electric storage heater; and
+- (b) is not—
+  - (i) installed to improve the insulating properties of domestic premises;
+  - (ii) a district heating connection;
+  - (iii) a first time heating system;
+  - (iv) a secondary heating measure;
+  - (v) the installation of heating controls;
+  - (vi) a demonstration action;
+  - (vii) an innovation measure;
+  - (viii) a renewable heating measure; or
+  - (ix) a repair.
+
+(10) In this article—
+
+- “**excess innovation measure**” means an innovation measure which, following an application under article 29(4), is designated as an excess innovation measure for the purposes of that article and this article;
+- “**innovation measure description**” has the meaning given in article 21(2).
+
+### 13. Qualifying actions
+
+(1) A qualifying action is a measure which the Administrator is satisfied—
+
+- (a) is installed at domestic premises;
+- (b) results in the reduction in the cost of heating those premises to 21 degrees Celsius in the main living areas and 18 degrees Celsius in all other areas, or in the case of a demonstration action, is reasonably expected to result in such a reduction;
+- (c) is completed on or after 1st October 2018;
+- (d) except in the case of a repair, is installed at—
+  - (i) premises erected before 1st October 2018; or
+  - (ii) premises which were first occupied as domestic premises before the installation was completed;
+- (e) meets a condition in any one of articles 14 to 17 (measures installed at private domestic premises, certain social housing or accompanied by a statement from a local authority);
+- (f) meets the requirements of article 18 (installation standards, warranties and consumer protection);
+- (g) except in the case of a measure installed to improve the insulating properties of the premises, meets the requirements of article 19 (additional requirements to be met by heating measures); and
+- (h) is notified to the Administrator in accordance with article 24.
+
+(2) A qualifying action is also a measure which is recognised by the Administrator as a surplus action.
+
+### 14. Measures installed at private domestic premises
+
+(1) A measure meets the condition in this article if the measure is installed at owner-occupied premises which are occupied by a member of the help to heat group.
+
+(2) A measure also meets the condition in this article if—
+
+- (a) the measure is installed at A to E private rented premises occupied by a member of the help to heat group; and
+- (b) the measure is not the replacement or repair of a boiler, electric storage heater or central heating system that has broken down.
+
+(3) A measure also meets the condition in this article if—
+
+- (a) the measure is installed at F, G or unrated private rented premises occupied by a member of the help to heat group; and
+- (b) the measure is—
+  - (i) solid wall insulation; [^key-6916fbe74c131b36df0c87b39f409429]...
+  - (ii) a renewable heating measure; or[^key-632d62efb3907ab415483050b929b36f]
+  - (iii)[^key-a85ec286d32e8233461c9db571ab1cf0] a first time heating system.
+
+(4) A measure also meets the condition in this article if the measure (“the in-fill measure”) is—
+
+- (a) installed at private domestic premises;
+- (b) solid wall insulation or a district heating connection; and
+- (c) linked with at least two other qualifying actions (“the primary actions”) which are—
+  - (i) also solid wall insulation or district heating connections, as the case may be;
+  - (ii) promoted by the same participant that promoted the in-fill measure;
+  - (iii) each installed at separate domestic premises which are—
+    - (aa) private domestic premises occupied by a member of the help to heat group; or
+    - (bb) social housing to which paragraph (2) or (3) of article 16 applies;
+  - (iv) installed in the same area as the in-fill measure; and
+  - (v) completed within the same 6 month period as the in-fill measure.
+
+(5) For the purposes of paragraph (4), an in-fill measure is linked with a primary action if—
+
+- (a) the in-fill measure is notified under article 24 after, or on the same day as, the notification of the primary action under that article;
+- (b) when notifying the in-fill measure under that article, the participant includes information sufficient to enable the Administrator to identify the primary action with which it is to be linked; and
+- (c) the primary action is not already linked with another in-fill measure.
+
+(6) For the purposes of paragraph (4)(c)(iv), measures are installed in the same area if the domestic premises at which they are installed are located in the same building, in immediately adjacent buildings or in the same terrace.
+
+(7) In this article, “**help to heat group**” means a group of persons where each person in the group is—
+
+- (a) awarded at least one of the benefits set out in paragraph 1 of Schedule 2 and meets any condition in relation to that benefit which is specified in that Schedule; or
+- (b) a core group customer in relation to a scheme year beginning on or after 1st April 2019, where “**core group customer**” and “**scheme year**” have the same meaning as in regulation 2 of the Warm Home Discount Regulations 2011 [^c23434501].
+
+### 15. Measures installed at D social housing
+
+(1) A measure meets the condition in this article if the measure—
+
+- (a) is installed at social housing to which paragraph (2) or (3) applies; and
+- (b) is a demonstration action or an innovation measure.
+
+(2) This paragraph applies to social housing if a post-installation EPC expresses the energy performance rating of the social housing as band D.
+
+(3) This paragraph applies to social housing if—
+
+- (a) a pre-installation EPC expresses the energy performance rating of the social housing as band D; and
+- (b) the social landlord in respect of the social housing has confirmed in writing that, to the best of its knowledge and belief, no changes were made to the social housing, after the pre-installation EPC was issued and before the measure was installed, which would increase the energy performance rating of the social housing to band A, B or C.
+
+### 16. Measures installed at E, F or G social housing
+
+(1) A measure meets the condition in this article if the measure—
+
+- (a) is installed at social housing to which paragraph (2) or (3) applies; and
+- (b) is—
+  - (i) installed to improve the insulating properties of the premises;
+  - (ii) a demonstration action;
+  - (iii) an innovation measure; or
+  - (iv) a first time heating system [^key-ce3ba14d9c3f4ccb5847f905eb283655]... .
+
+(2) This paragraph applies to social housing if a post-installation EPC expresses the energy performance rating of the social housing as band E, F or G.
+
+(3) This paragraph applies to social housing if—
+
+- (a) a pre-installation EPC expresses the energy performance rating of the social housing as band E, F or G; and
+- (b) the social landlord in respect of the social housing has confirmed in writing that, to the best of its knowledge and belief, no changes were made to the social housing, after the pre-installation EPC was issued and before the measure was installed, which would increase the energy performance rating of the social housing to band A, B, C or D.
+
+(4)[^key-cfc103be3533bad936ec16218355fcd6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 17. Measures accompanied by a statement from a local authority
+
+(1) A measure meets the condition in this article if—
+
+- (a) the measure is installed at owner-occupied premises;
+- (b) a local authority has been consulted on the installation of a qualifying action at the premises; and
+- (c) that local authority has, on or after publication on its website of a statement of intent made in respect of the local authority—
+  - (i) made a statement in writing that, in the opinion of the local authority, the premises are occupied by a household living on a low income in a home which cannot be kept warm at a reasonable cost; or
+  - (ii) made a statement in writing that, in the opinion of the local authority, the premises are occupied by a household living on a low income and vulnerable to the effects of living in a cold home.
+
+(2) A measure also meets the condition in this article if—
+
+- (a) the measure is installed at A to E private rented premises;
+- (b) paragraphs (1)(b) and (c) apply in respect of the premises; and
+- (c) the measure is not the replacement or repair of a boiler, electric storage heater or central heating system that has broken down.
+
+(3) A measure also meets the condition in this article if—
+
+- (a) the measure is installed at F, G or unrated private rented premises;
+- (b) paragraphs (1)(b) and (c) apply in respect of the premises; and
+- (c) the measure is—
+  - (i) solid wall insulation; [^key-22cd2cbc15a9363ed2a34d035c2c8d22]...
+  - (ii) a renewable heating measure; or[^key-4bf9ee0b61fd37639b903d1fe9b573df]
+  - (iii)[^key-e4a67d0a0b2b023437cee722b7890ab1] a first time heating system.
+
+(4) A measure also meets the condition in this article if—
+
+- (a) it is solid wall insulation installed at private domestic premises;
+- (b) a local authority has been consulted on the installation of the solid wall insulation at the premises;
+- (c) that local authority has, on or after publication on its website of a statement of intent made in respect of the local authority, created a list of premises which—
+  - (i) includes the premises at which the measure is installed;
+  - (ii) identifies any premises in the list which in the opinion of the local authority are occupied by a household living on a low income in a home which cannot be kept warm at a reasonable cost; and
+  - (iii) identifies any other premises in the list which in the opinion of the local authority are occupied by a household living on a low income and vulnerable to the effects of living in a cold home; and
+- (d) the local authority has made a statement in writing that—
+  - (i) to the best of the local authority's knowledge and belief, all of the premises included in the list referred to in sub-paragraph (c) are private domestic premises;
+  - (ii) all of the premises included in that list are located in the same building, in immediately adjacent buildings or in the same terrace; and
+  - (iii) in the opinion of the local authority, at least 50% of the premises included in that list are occupied by households—
+    - (aa) living on a low income in a home which cannot be kept warm at a reasonable cost; or
+    - (bb) living on a low income and vulnerable to the effects of living in a cold home.
+
+(5) In this article, “**statement of intent**” means—
+
+- (a) a description of how a local authority intends to identify households that may benefit from a qualifying action and are living—
+  - (i) on a low income in a home which cannot be kept warm at a reasonable cost; or
+  - (ii) on a low income and are vulnerable to the effects of living in a cold home; or
+- (b) a statement of intent within the meaning of article 16A of the 2014 Order.
+
+### 18. Installation standards, warranties and consumer protection[^key-f785faa8a733e8243b1fb477b952d5c3]
+
+(1) Where the installation of a measure is completed before 1st July 2021, that measure meets the requirements of this article if—
+
+- (a) the measure is installed in accordance with paragraph (2);
+- (b) subject to paragraph (3)—
+  - (i) the measure is installed by, or under the responsibility of, a person who is registered with TrustMark for the purposes of that measure; and
+  - (ii) a certificate of lodgement is issued by the operator of TrustMark in respect of the measure;
+- (c) in the case of the installation of a district heating connection, the measure meets one of the conditions in paragraph (4);
+- (d) in the case of the installation of a boiler—
+  - (i) in the case of a repair, the measure is accompanied by a warranty for at least two years;
+  - (ii) in any other case, the measure is accompanied by a warranty that meets the requirements set out in Schedule 3; and
+- (e) in the case of the installation of an electric storage heater, the measure is accompanied by a warranty for at least two years.
+
+(2) A measure is installed in accordance with this paragraph if the measure—
+
+- (a) is referred to in PAS 2030:2017 and is installed in accordance with PAS 2030:2017 by, or under the responsibility of, a PAS 2030:2017 certified installer;
+- (b) is referred to in PAS 2030:2019 and is installed in accordance with PAS 2030:2019 and PAS 2035:2019 by, or under the responsibility of, a PAS 2030:2019 certified installer;
+- (c) is not referred to in PAS 2030:2017 and is installed by a person of appropriate skill and experience; or
+- (d) is not referred to in PAS 2030:2019 and is installed by a person of appropriate skill and experience.
+
+(3) Paragraph (1)(b) does not apply where the measure—
+
+- (a) is a demonstration action;
+- (b) is a district heating connection which falls within paragraph (4)(a) or (b); or
+- (c) is subject to arrangements for quality assurance and consumer protection, including arrangements for repairs and other remedies, which are equivalent to the requirements under TrustMark.
+
+(4) The installation of a district heating connection meets one of the conditions in this paragraph if—
+
+- (a) it is a connection to a district heating system registered with the Heat Trust Scheme;
+- (b) it is subject to arrangements for consumer protection which are equivalent to the requirements under the Heat Trust Scheme; or
+- (c) it includes the installation of a ground source heat pump at the domestic premises.
+
+(5) Where the installation of a measure is completed on or after 1st July 2021, that measure meets the requirements of this article if—
+
+- (a) in the case of a measure which—
+  - (i) is a demonstration action;
+  - (ii) is a district heating connection which falls within paragraph (4)(a) or (b); or
+  - (iii) is subject to arrangements for quality assurance and consumer protection, including arrangements for repairs and other remedies, which are equivalent to the requirements under TrustMark,
+
+  the measure is installed in accordance with paragraph (6);
+- (b) in the case of a measure which does not fall within sub-paragraph (a)(i) to (iii)—
+  - (i) the measure is installed by, or under the responsibility of, a person who is registered with TrustMark for the purposes of that measure; and
+  - (ii) a certificate of lodgement is issued by the operator of TrustMark in respect of the measure;
+- (c) in the case of the installation of a district heating connection, the measure meets one of the conditions in paragraph (4); and
+- (d) in the case of the installation of a boiler which is not a repair, the measure is accompanied by a warranty that meets the requirements set out in Schedule 3.
+
+(6) A measure is installed in accordance with this paragraph if the measure—
+
+- (a) is referred to in PAS 2030:2019 and is installed in accordance with PAS 2030:2019 and PAS 2035:2019 by, or under the responsibility of, a PAS 2030:2019 certified installer; or
+- (b) is not referred to in PAS 2030:2019 and is installed by a person of appropriate skill and experience.
+
+(7) In this article—
+
+- “certificate of lodgement” means a document entitled “TrustMark Certificate of Lodgement” which sets out the address at which a measure has been installed and the type of measure;
+- “ground source heat pump” means equipment which generates heat—
+  - (a) using the heat energy provided by a shared ground loop; or
+  - (b) by absorbing energy stored in the form of heat in the ground, including water in the ground, or in surface water;
+- “Heat Trust Scheme” means the scheme operated by Heat Customer Protection Ltd, a company registered in England and Wales with company number 09456667;
+- “PAS 2030:2017” means Publicly Available Specification 2030:2017 [^c23434521];
+- “PAS 2030:2017 certified installer” means, in relation to a measure, a person who is certified, by a certification body or organisation accredited to EN ISO/IEC 17065:2012, as compliant with those parts of PAS 2030:2017 that apply to the measure;
+- “shared ground loop” means equipment which—
+  - (a) absorbs energy stored in the form of heat in the ground, including water in the ground, or in surface water; and
+  - (b) provides heat energy through a hydraulic connection to two or more ground source heat pumps;
+- “TrustMark” means the scheme of that name operated by TrustMark (2005) Limited, a company registered in England and Wales with company number 05480144.
+
+### 19. Additional requirements to be met by heating measures
+
+(1) A measure meets the requirements of this article if the measure—
+
+- (a) is not the installation of equipment for the generation of heat wholly or partly from coal;
+- (b) is not the installation of equipment for the generation of heat wholly or partly from oil, unless the measure is—
+  - (i) a repair; or
+  - (ii) installed at domestic premises which immediately prior to the installation of the measure have a central heating system or district heating connection that in either case has broken down and cannot be economically repaired;
+- (c) is not the installation of a connection to a district heating system that delivers heat generated wholly or partly from coal or oil;
+- (ca)[^key-0705df0e08d7834c1ea618120b436e85] is not the installation of a first time heating system at uninsulated premises;
+- (d) except in the case of the installation of a ground source heat pump, is not the installation of equipment that is, or has been at any time—
+  - (i) an accredited domestic plant within the meaning of the Domestic Renewable Heat Incentive Scheme Regulations 2014 [^c23434531]; or
+  - (ii) an accredited RHI installation within the meaning of the Renewable Heat Incentive Scheme Regulations 2018 [^c23434541];
+- (e) is not the installation of a ground source heat pump generating heat in respect of which a participant, or a connected person, is, or has been at any time, entitled to—
+  - (i) RHI payments, within the meaning of regulation 26 of the Domestic Renewable Heat Incentive Scheme Regulations 2014; or
+  - (ii) periodic support payments within the meaning of regulation 3 of the Renewable Heat Incentive Scheme Regulations 2018;
+- (f) in the case of a measure installed at domestic premises which immediately prior to the installation of the measure have an efficient repairable heating system, is—
+  - (i) a district heating connection;
+  - (ii) the installation of heating controls;
+  - (iii) a demonstration action;
+  - (iv) an innovation measure;
+  - (v) a renewable heating measure; or
+  - (vi) a repair; and
+- (g) in the case of a measure installed at domestic premises which immediately prior to the installation of the measure have an inefficient repairable heating system, is—
+  - (i) a first time heating system;
+  - (ii) a secondary heating measure;
+  - (iii) a district heating connection;
+  - (iv) the installation of heating controls;
+  - (v) a demonstration action;
+  - (vi) an innovation measure;
+  - (vii) a renewable heating measure; or
+  - (viii) a repair.
+
+(2) In this article—
+
+- “**connected person**” means, in relation to a participant, a person connected with the participant within the meaning of section 1122 of the Corporation Tax Act 2010 [^c23434551];
+- “**efficient repairable heating system**” means—
+  - (a) an efficient repairable electric storage heater; or
+  - (b) a central heating system or district heating connection which—
+    - (i) is not broken down or, if it is broken down, can be economically repaired; and
+    - (ii) is not an inefficient repairable heating system;
+- “**electric heating system**” means a central heating system or district heating connection which provides heat generated wholly or mainly from electricity;
+- “**ground source heat pump**” has the same meaning as in article 18;
+- “**inefficient repairable heating system**” means a central heating system, district heating connection or electric storage heater which—
+  - (a) is not broken down or, if it is broken down, can be economically repaired;
+  - (b) in the case of a central heating system other than an electric heating system—
+    - (i) includes a non-condensing boiler; or
+    - (ii) has a peak energy efficiency that is no better than a central heating system falling within sub-paragraph (i);
+  - (c) in the case of a district heating connection other than an electric heating system, is a connection to a district heating system that—
+    - (i) includes a non-condensing boiler; or
+    - (ii) has a peak energy efficiency that is no better than a central heating system falling within paragraph (b)(i); and
+  - (d) in the case of an electric heating system or an electric storage heater, has a responsiveness rating equal to or less than 0.2 when assessed against the Standard Assessment Procedure;
+- “**peak energy efficiency**” means the maximum efficiency at which a central heating system or district heating system, as the case may be, is designed to produce heat.
+- “[^key-7230151c162fd9b4523bc5025e03d3bf]**room-in-roof**” means, in relation to insulation, insulation of the ceiling and walls of a room in the roof space of a building;
+- “**uninsulated premises**” means premises other than a mobile home—
+  - (a) which include the top floor of the building in which they are located and which—
+    - (i) do not have flat roof, loft, rafter or room-in-roof insulation; and
+    - (ii) are premises at which flat roof, loft, rafter or room-in-roof insulation can be installed; or
+  - (b) which have exterior facing cavity walls which—
+    - (i) can be insulated; and
+    - (ii) are not insulated.
+
+## PART 5 — Applications for demonstration actions, innovation measures, monitored measures and surplus actions
+
+### 20. Demonstration actions
+
+(1) A participant may apply to the Administrator in writing for the installation of a measure at two or more domestic premises to be approved as a demonstration action.
+
+(2) An application under paragraph (1) must include—
+
+- (a) the following information—
+  - (i) an explanation of how the measure is expected to achieve cost savings;
+  - (ii) the estimated amount of cost savings expected;
+  - (iii) the arrangements for monitoring whether the measure achieves cost savings;
+  - (iv) the arrangements for assessing the effectiveness of the measure at achieving cost savings;
+  - (v) the arrangements for ensuring the safety of the measure, for repairing or removing any measure that is faulty and for preventing or remedying any adverse impacts caused by the measure on the domestic premises at which it is installed;
+  - (vi) the number of domestic premises at which the participant intends to promote the installation of the measure, and an explanation of how that number was determined;
+  - (vii) the estimated cost in pounds sterling to be incurred by the participant in respect of the matters described in paragraphs (iii) to (vi); and
+  - (viii) such other information relating to the measure as the Administrator may require; and
+- (b) consent to the publication of information, other than personal data, provided by the participant to the Administrator in relation to the promotion, monitoring and assessment of the measure.
+
+(3) An application under paragraph (1) must be made before the installation of the measure to which the application relates.
+
+(4) The Administrator must not approve the application unless it is satisfied that—
+
+- (a) the measure to which the application relates is reasonably expected to result in a reduction in the cost of heating domestic premises;
+- (b) the estimates provided under paragraph (2)(a)(ii) and (vii) are reasonable, and having regard to those estimates, the measure is reasonably expected to provide value for money;
+- (c) the arrangements described under paragraph (2)(a)(iii) to (v) are reasonable;
+- (d) the number of domestic premises at which the participant intends to promote the installation of the measure is no more than is necessary in order to demonstrate the effectiveness of the measure at achieving cost savings;
+- (e) the measure is not—
+  - (i) the installation of equipment for the generation of heat wholly or partly from oil;
+  - (ii) the installation of equipment for the generation of heat wholly from a non-renewable source; or
+  - (iii) a repair;
+- (f) the measure is at technology readiness level 8 (system complete and qualified) or technology readiness level 9 (actual system proven in operational environment); and
+- (g) the measure is materially different from the measures promoted by licence-holders to meet their obligations under previous energy efficiency schemes and from any measures notified under article 24 before the date on which the application was made.
+
+(5) A demonstration action is the installation of a measure at two or more domestic premises which is the subject of an application under paragraph (1) which has been approved by the Administrator.
+
+(6) For the purposes of this article—
+
+- (a) a measure is not materially different from another measure merely because it is installed at different domestic premises; and
+- (b) when considering whether a measure is materially different from another measure, the Administrator may have regard to such matters as it thinks fit, including to any one or more of the following—
+  - (i) the production method;
+  - (ii) the installation method;
+  - (iii) the materials used;
+  - (iv) the technology used;
+  - (v) the expected costs of promoting the measure;
+  - (vi) the expected cost savings or other benefits of the measure.
+
+(7) In this article—
+
+- “**personal data**” has the same meaning as in section 3 of the Data Protection Act 2018 [^c23434561];
+- “technology readiness level” followed by a number has the same meaning as “TRL” followed by that number in General Annex G to the Horizon 2020 Work Programme 2018-2020 adopted by Commission Decision C(2017)7124 of 27th October 2017 [^c23434571].
+
+### 21. Innovation measures
+
+(1) A participant may apply to the Administrator in writing for a measure which the participant intends to promote to be approved as an innovation measure.
+
+(2) An application under paragraph (1) must include the following information—
+
+- (a) a description of the characteristics of the measure (“the innovation measure description”);
+- (b) an explanation of how the measure is—
+  - (i) an improvement on the measures that would otherwise be promoted by the participant; or
+  - (ii) an improvement on the measures promoted by licence-holders to meet their obligations under previous energy efficiency schemes; and
+- (c) such other information relating to the measure as the Administrator may require.
+
+(3) The Administrator must not approve the application unless it is satisfied that—
+
+- (a) the measure to which the application relates is capable of resulting in a reduction in the cost of heating domestic premises;
+- (b) the innovation measure description is accurate and contains sufficient detail to distinguish the measure from other measures that are materially different;
+- (c) the explanation provided under paragraph (2)(b) is reasonable;
+- (d) the measure is not—
+  - (i) a district heating connection;
+  - (ii) the installation of equipment for the generation of heat wholly or partly from oil;
+  - (iii) the installation of equipment for the generation of heat wholly from a non-renewable source; or
+  - (iv) a repair; and
+- (e) the measure is materially different from—
+  - (i) the measures promoted by licence-holders to meet their obligations under previous energy efficiency schemes; and
+  - (ii) any measures, other than innovation measures, notified under article 24 before the date of the application under paragraph (1).
+
+(4) If the Administrator approves the application it must publish on its website—
+
+- (a) the innovation measure description; and
+- (b) the date on which the application was approved.
+
+(5) An innovation measure is a measure which—
+
+- (a) is completed after the date on which an application under paragraph (1) is approved by the Administrator; and
+- (b) falls within the innovation measure description published by the Administrator in respect of that application.
+
+(6) For the purposes of this article, article 20(6) applies as it applies for the purposes of that article.
+
+### 22. Monitored measures
+
+(1) A participant may apply to the Administrator in writing for the installation of a measure at domestic premises to be approved as a monitored measure.
+
+(2) An application under paragraph (1) must include—
+
+- (a) the following information—
+  - (i) the arrangements for monitoring the cost savings achieved by the measure at the premises where it is installed;
+  - (ii) reasons why the arrangements in paragraph (i) are likely to improve the information available about the cost savings achieved by the measure;
+  - (iii) a methodology, based on the performance of the measure at the premises where it is installed, for calculating the cost savings achieved by the measure at those premises; and
+  - (iv) such other information relating to the measure as the Administrator may require; and
+- (b) consent to the publication of information provided by the participant to the Administrator in relation to the methodology for calculating the cost savings achieved by the measure.
+
+(3) An application under paragraph (1) must be made before the installation of the measure to which the application relates.
+
+(4) The Administrator must not approve the application unless it is satisfied that—
+
+- (a) the measure to which the application relates is capable of resulting in a reduction in the cost of heating domestic premises;
+- (b) the arrangements described under paragraph (2)(a)(i) are reasonable, and are likely to improve the information available about the cost savings achieved by the measure;
+- (c) the methodology provided under paragraph (2)(a)(iii) is reasonable; and
+- (d) the measure is not—
+  - (i) a district heating connection;
+  - (ii) the installation of equipment for the generation of heat wholly or partly from oil; or
+  - (iii) a repair.
+
+(5) A monitored measure is a measure which is the subject of an application under paragraph (1) which has been approved by the Administrator.
+
+### 23. Surplus actions
+
+(1) On or before 30th November 2019 a relevant supplier may apply to the Administrator in writing for a measure to be recognised as a surplus action.
+
+(2) An application under paragraph (1) must give details of the measure which the applicant considers constitutes a surplus action.
+
+(3) A surplus action is a measure which—
+
+- (a) is an ECO2 carbon qualifying action or an ECO2 heating qualifying action which was achieved by the applicant;
+- (b) is not required by the applicant to meet any obligations under the 2014 Order or, by virtue of article 16(6) to (7A) of the 2014 Order, cannot be used by the applicant to meet any obligations under the 2014 Order;
+- (c) was completed on or after 1st April 2017; and
+- (d) is not the installation of equipment for the generation of heat wholly or partly from coal.
+
+(4) The Administrator must recognise a measure as a surplus action if, following an application under paragraph (1), the Administrator is satisfied that—
+
+- (a) the measure to which the application relates is a surplus action; and
+- (b) in the case of an ECO2 carbon qualifying action, recognition of the measure as a surplus action would not cause the total carbon saving attributable to all of the ECO2 carbon qualifying actions achieved by the applicant and recognised by the Administrator as surplus actions to exceed 20% of the applicant's ECO2 CERO target.
+
+(5) For the purposes of paragraph (4)(b), the carbon saving attributable to an ECO2 carbon qualifying action is the carbon saving attributed to it by the Administrator in accordance with article 25 of the 2014 Order.
+
+(6) In this article—
+
+- “**ECO2 carbon qualifying action**” means a carbon qualifying action within the meaning of article 12(3) of the 2014 Order and which was notified to the Administrator in accordance with article 17 of the 2014 Order;
+- “**ECO2 CERO target**” means, in relation to an applicant, the applicant's total carbon emissions reduction obligation within the meaning of the 2014 Order;
+- “**ECO2 heating qualifying action**” means a heating qualifying action within the meaning of article 16(3) of the 2014 Order and which was notified to the Administrator in accordance with article 17 of the 2014 Order.
+
+## PART 6 — Notification of completed measures
+
+### 24. Notification requirements for completed measures
+
+(1) A measure is notified to the Administrator in accordance with this article if the notification—
+
+- (a) is made, in writing, by the participant that promoted the measure;
+- (b) includes a calculation of the score for the measure;
+- (c) if the measure is a demonstration action, includes—
+  - (i) the total cost in pounds sterling incurred by the participant in promoting and monitoring the demonstration action (“the actual cost”);
+  - (ii) a breakdown of the actual cost;
+  - (iii) the information obtained by the participant as to whether the demonstration action achieved cost savings; and
+  - (iv) an assessment of the effectiveness of the demonstration action at achieving cost savings;
+- (d) includes such other information relating to the measure as the Administrator may require;
+- (e) is made after the measure is completed; and
+- (f) is made on time within the meaning of article 25.
+
+(2) The Administrator must publish, on its website, a summary of the information provided by a participant in respect of a demonstration action under paragraph (1)(c).
+
+(3) For the purposes of this Order, a measure is completed—
+
+- (a) in the case of a demonstration action, when the planned monitoring of the demonstration action is completed;
+- (b) in any other case, when the installation of the measure is completed.
+
+(4) In this article, “**planned monitoring**” means the arrangements for monitoring whether a demonstration action achieves cost savings—
+
+- (a) as described in the application for approval of the demonstration action in accordance with article 20(2)(a)(iii); or
+- (b) as otherwise agreed, in writing, by the Administrator.
+
+### 25. Deadline for notification of completed measures
+
+(1) For the purposes of article 24, a notification of a measure is made on time if it is made—
+
+- (a) before the original deadline, which is—
+  - (i) in the case of a measure completed before the commencement date, the end of the second month immediately following the month in which this Order comes into force;
+  - (ii) in the case of a measure completed on or after the commencement date, the end of the first month immediately following the month in which the measure was completed;
+- (b) following an application under paragraph (4) which has been accepted by the Administrator, on or before the date specified by the Administrator under paragraph (6); or
+- (c) in the case of a measure falling within the 5% notification threshold for the participant (“the notifying participant”), before the earlier of—
+  - (i) the end of the fourth month after the month in which the measure was completed; and
+  - (ii) the end of June 2022.
+
+(2) For the purposes of paragraph (1)(c), a measure falls within the 5% notification threshold for the notifying participant if—
+
+- (a) the measure is notified to the Administrator after the original deadline; and
+- (b) at the time the measure is notified, the result of the following formula is less than or equal to 0.05—
+
+  [formula: see source](https://www.legislation.gov.uk/uksi/2018/1183)
+
+(3) In paragraph (2)—
+
+- “F” is the number of measures (also counting the measure being notified) which are—
+  - (a) completed in the same month as the measure being notified; and
+  - (b) notified after the original deadline by—
+    - (i) the notifying participant; or
+    - (ii) by any other participant that is a member of the same group as the notifying participant;
+- “G” is the number of measures which are—
+  - (a) completed in the same month as the measure being notified;
+  - (b) the subject of an application under paragraph (4) which is accepted by the Administrator; and
+  - (c) notified, after the original deadline and on or before the date specified by the Administrator under paragraph (6), by—
+    - (i) the notifying participant; or
+    - (ii) any other participant that is a member of the same group as the notifying participant;
+- “H” is the greater of 1 and the number of measures which are—
+  - (a) completed in the same month as the measure being notified; and
+  - (b) notified within the original deadline by—
+    - (i) the notifying participant; or
+    - (ii) any other participant that is a member of the same group as the notifying participant.
+
+(4) A participant may apply at any time to the Administrator in writing for a measure to be notified after the original deadline.
+
+(5) An application under paragraph (4) must include—
+
+- (a) details of why the participant is seeking an extension of time to notify the measure; and
+- (b) such other information relating to the measure as the Administrator may require.
+
+(6) Following receipt of an application under paragraph (4), the Administrator must—
+
+- (a) accept the application and specify a date, as it thinks fit but falling after the original deadline, for the notification of the measure; or
+- (b) reject the application.
+
+(7) In this article, “**original deadline**” has the meaning given in paragraph (1)(a).
+
+## PART 7 — Scores
+
+### 26. Attributing the score to a qualifying action
+
+(1) To determine whether a participant has achieved its total home-heating cost reduction obligation, the Administrator must attribute a score to each qualifying action.
+
+(2) In the case of a qualifying action notified by a participant under article 24—
+
+- (a) where the Administrator is satisfied that the score notified by the participant under that article is correctly calculated, the Administrator must attribute that score to the qualifying action; or
+- (b) where the Administrator is not satisfied that the score notified by the participant under that article is correctly calculated, the Administrator must attribute the score which the Administrator considers would have been determined for the action had it been correctly calculated.
+
+(3) In the case of a qualifying action that is a surplus action, the Administrator must attribute the score which is determined by the Administrator in accordance with article 31.
+
+(4) The Administrator must notify in writing—
+
+- (a) a participant of the score it has attributed to a qualifying action notified by the participant under article 24; and
+- (b) a relevant supplier of the score it has attributed to a surplus action which was the subject of an application by the relevant supplier under article 23.
+
+### 27. The score for district heating connections
+
+(1) This article applies for the purpose of calculating the score of a qualifying action which—
+
+- (a) is a district heating connection; and
+- (b) is not a demonstration action or a surplus action.
+
+(2)[^key-1dd8d5d2ac39939e00812a2b484fc357] Where this article applies, the score is calculated by determining the cost savings for the qualifying action in accordance with the following formulae—
+
+- (a) in the case of a qualifying action which meets the conditions in paragraph (2A)—
+
+  [formula: see source](https://www.legislation.gov.uk/uksi/2018/1183)
+- (b) in all other cases—
+
+  [formula: see source](https://www.legislation.gov.uk/uksi/2018/1183)
+
+(2A)[^key-365f38ccc1443b24eb2fd11f170bc181] A qualifying action meets the conditions in this paragraph if the qualifying action is a measure which—
+
+- (a) is referred to in PAS 2030:2019;
+- (b) is installed in accordance with PAS 2030:2019 and PAS 2035:2019 by, or under the responsibility of, a PAS 2030:2019 certified installer; and
+- (c) is completed before 1st July 2021.
+
+(3) In paragraph (2)—
+
+- “K” is the cost savings for the qualifying action determined in accordance with—
+  - (a) the Standard Assessment Procedure;
+  - (b) the Reduced Data Standard Assessment Procedure; or
+  - (c) following an application under paragraph (4) in respect of the district heating connection, an alternative methodology approved by the Administrator under paragraph (6);
+- “L” is—
+  - (a) 1.25, in the case of a district heating connection which is—
+    - (i) a qualifying action by virtue of meeting the condition in article 17; and
+    - (ii) installed at domestic premises described as relevant F or G owner-occupied premises in Schedule 4;
+  - (b) 1, in any other case.
+
+(4) For the purposes of determining the cost savings achieved by a district heating connection (“the proposed connection”), a participant may apply to the Administrator in writing for approval of a methodology other than the Standard Assessment Procedure or the Reduced Data Standard Assessment Procedure (“an alternative methodology”).
+
+(5) An application under paragraph (4) must be made—
+
+- (a) in the case of a district heating connection installed before the commencement date, before the measure is notified to the Administrator under article 24;
+- (b) in any other case, before the proposed connection is installed.
+
+(6) The Administrator may approve an alternative methodology if—
+
+- (a) it is satisfied that—
+  - (i) neither the Standard Assessment Procedure nor the Reduced Data Standard Assessment Procedure contain an appropriate methodology for determining the cost savings achieved by the proposed connection; and
+  - (ii) the alternative methodology is an appropriate methodology for determining the cost savings achieved by the proposed connection; or
+- (b) the alternative methodology is published by, or on behalf of, the Secretary of State as a replacement for the Standard Assessment Procedure or the Reduced Data Standard Assessment Procedure.
+
+### 28. The score for demonstration actions
+
+(1) This article applies for the purpose of calculating the score of a qualifying action which is a demonstration action.
+
+(2)[^key-bf6dcf5b4fdb1f66401d77b366443b40] The score of a demonstration action is calculated in accordance with the following formulae—
+
+- (a) in the case of a qualifying action which meets the conditions in paragraph (2A)—
+
+  [formula: see source](https://www.legislation.gov.uk/uksi/2018/1183)
+- (b) in all other cases—
+
+  [formula: see source](https://www.legislation.gov.uk/uksi/2018/1183)
+
+(2A)[^key-fa0c70af7db7f92b85d8965d5dfbef1f] A qualifying action meets the conditions in this paragraph if the qualifying action is a measure—
+
+- (a) which is referred to in PAS 2030:2019;
+- (b) which is installed in accordance with PAS 2030:2019 and PAS 2035:2019 by, or under the responsibility of, a PAS 2030:2019 certified installer; and
+- (c) in respect of which installation is completed before 1st July 2021.
+
+(3) In paragraph (2), “M” is the lower of—
+
+- (a) the actual cost as stated in the notification of the demonstration action in accordance with article 24(1)(c)(i); and
+- (b) the estimated cost as stated in the application for approval of the demonstration action in accordance with article 20(2)(a)(vii).
+
+### 29. The score for innovation measures
+
+(1) This article applies for the purpose of calculating the score of a qualifying action which—
+
+- (a) is an innovation measure; and
+- (b) is not a demonstration action or a monitored measure.
+
+(2) Where this article applies, the score is calculated in accordance with the following formula—
+
+[formula: see source](https://www.legislation.gov.uk/uksi/2018/1183)
+
+(3) In paragraph (2)—
+
+- “N” is the cost savings for the qualifying action calculated in accordance with article 32(2); and
+- “P” is—
+  - (a) in the case of a qualifying action which is designated as an excess innovation measure, 1;
+  - (b) in any other case, 1.25.
+
+(4) A participant may apply for a qualifying action which is an innovation measure promoted by the participant—
+
+- (a) to be designated as an excess innovation measure for the purposes of this article and article 12; or
+- (b) if it is already designated as an excess innovation measure for those purposes, to be no longer so designated.
+
+(5) An application under paragraph (4) must—
+
+- (a) be made to the Administrator, in writing, by no later than 30th June 2022; and
+- (b) include such information relating to the qualifying action as the Administrator may require.
+
+(6) The Administrator must approve an application if it is satisfied that the application is made in accordance with paragraphs (4) and (5).
+
+(7) If the Administrator approves an application—
+
+- (a) made under paragraph (4)(a), the qualifying action is designated as an excess innovation measure for the purposes of this article and article 12;
+- (b) made under paragraph (4)(b), the qualifying action ceases to be designated as an excess innovation measure for the purposes of this article and article 12.
+
+### 30. The score for monitored measures
+
+(1) This article applies for the purpose of calculating the score of a qualifying action which—
+
+- (a) is a monitored measure; and
+- (b) is not a demonstration action.
+
+(2) Where this article applies, the score is the greater of—
+
+- (a) the score for the qualifying action calculated in accordance with article 32(2); and
+- (b)[^key-4b7aa2fb6e9becb7ab33fa1df93887ab] either—
+  - (i) the score for the qualifying action calculated in accordance with the methodology stated in the application for approval of the monitored measure in accordance with article 22(2)(a)(iii); or
+  - (ii) if the conditions in paragraph (2A) are met, the score under paragraph (i) multiplied by 1.2.
+
+(2A)[^key-cefcaef12ccb3597bbb578b0588349ce] The conditions in this paragraph are met if the qualifying action is a measure which—
+
+- (a) is referred to in PAS 2030:2019;
+- (b) is installed in accordance with PAS 2030:2019 and PAS 2035:2019 by, or under the responsibility of, a PAS 2030:2019 certified installer; and
+- (c) is completed before 1st July 2021.
+
+(3) Where the score for the qualifying action is the score under paragraph (2)(b), the Administrator must publish, on its website, a summary of the methodology referred to in that paragraph.
+
+### 31. The score for surplus actions
+
+(1) This article applies for the purpose of determining the score of a qualifying action which is a surplus action.
+
+(2) Where a cost score was attributed to the surplus action by the Administrator under article 25 of the 2014 Order, the score is the cost score so attributed.
+
+(3) Where a cost score was not attributed to the surplus action under article 25 of the 2014 Order, the score is the cost score calculated in accordance with articles 19 and 23 of the 2014 Order.
+
+(4) In this article, “**cost score**” has the meaning given in article 2 of the 2014 Order.
+
+### 32. The score for all other qualifying actions
+
+(1) This article applies for the purpose of calculating the score of a qualifying action which is not—
+
+- (a) a district heating connection;
+- (b) a demonstration action;
+- (c) an innovation measure;
+- (d) a monitored measure; or
+- (e) a surplus action.
+
+(2)[^key-d71c16e081873f0139ecee13bef86038] Where this article applies, the score is calculated by determining the cost savings for the qualifying action in accordance with the following formulae—
+
+- (a) in the case of a qualifying action which meets the conditions in paragraph (2A)—
+
+  [formula: see source](https://www.legislation.gov.uk/uksi/2018/1183)
+- (b) in all other cases—
+
+  [formula: see source](https://www.legislation.gov.uk/uksi/2018/1183)
+
+(2A)[^key-c30e16fe6493212d66045a3543733408] A qualifying action meets the conditions in this paragraph if the qualifying action is a measure which—
+
+- (a) is referred to in PAS 2030:2019;
+- (b) is installed in accordance with PAS 2030:2019 and PAS 2035:2019 by, or under the responsibility of, a PAS 2030:2019 certified installer; and
+- (c) is completed before 1st July 2021.
+
+(3) In paragraph (2)—
+
+- “Q” is the cost savings for the qualifying action calculated in accordance with a methodology published by the Administrator under article 33;
+- “R” is—
+  - (a) 1.35, in the case of a qualifying action which is installed to improve the insulating properties of non-gas fuelled premises;
+  - (b) 4, in the case of a qualifying action which is the replacement of a broken boiler with another boiler and which is—[^key-aca8f7c00eb94c6861d00b46c4ccca5c]
+    - (i) a measure to which article 12(9) applies; or
+    - (ii) a renewable heating measure;
+  - (ba) 2, in the case of a qualifying action which is the replacement of a broken boiler with another boiler and which is not a qualifying action described in paragraph (b);[^key-31445ec6160865fd09aefda452cd9c3b]
+  - (c) 2.4, in the case of a qualifying action which is the replacement of a broken electric storage heater with another electric storage heater;
+  - (d) 1.25, in the case of a qualifying action which—
+    - (i) is not a qualifying action described in paragraph (a), (b) , (ba)[^key-4989c2c0e82d03c4433f5a0af3af0d49] or (c);
+    - (ii) is a qualifying action by virtue of meeting the condition in article 17; and
+    - (iii) is installed at domestic premises described as relevant F or G owner-occupied premises in Schedule 4;
+  - (e) 1, in all other cases.
+
+(4) In this article—
+
+- “**broken boiler**” means a boiler that has broken down and cannot be economically repaired;
+- “**broken electric storage heater**” means an electric storage heater that has broken down and cannot be economically repaired;
+- “**non-gas fuelled premises**” means domestic premises where, both before and after the installation of the qualifying action—
+  - (a) the main space heating system for the premises is not fuelled by mains gas; and
+  - (b) the premises are not connected to a district heating system.
+
+### 33. Publication of a cost savings methodology
+
+(1) The Administrator must publish, on its website, a methodology for the purpose of calculating the cost savings of a qualifying action under article 32.
+
+(2) Under the methodology published by the Administrator the calculation of the cost savings must be based on—
+
+- (a)[^key-46c4075551585d48f4c17f7c10fe0818] in the case of a qualifying action which is the repair of a boiler or electric storage heater, an expected lifetime for the qualifying action of 2 years;
+- (b) in the case of a qualifying action which is the replacement of a broken boiler with another boiler, an expected lifetime for the qualifying action of 3 years;
+- (c) in the case of a qualifying action which is the replacement of a broken electric storage heater with another electric storage heater, an expected lifetime for the qualifying action of 5 years;
+- (d) in the case of a qualifying action which is the installation of cavity wall insulation and which is accompanied by an appropriate warranty, an expected lifetime for the qualifying action of 42 years;
+- (e) in the case of a qualifying action which is the installation of insulation applied to the floor, walls and ceiling of a mobile home and which is accompanied by an appropriate warranty, an expected lifetime for the qualifying action of 30 years;
+- (f) in the case of a qualifying action which is the installation of solid wall insulation and which is accompanied by an appropriate warranty, an expected lifetime for the qualifying action of 36 years; [^key-9d7d9d9aea359c10c5bddab6d2ad0430]...
+- (fa)[^key-db24a4db909b4310a0b26081b559f5ae] in the case of a qualifying action which is the installation of room-in-roof insulation and which, if completed on or after 1st July 2020, is accompanied by an appropriate warranty, an expected lifetime for the qualifying action of 42 years;
+- (fb) in the case of a qualifying action which is the installation of underfloor insulation and which, if completed on or after 1st July 2020, is accompanied by an appropriate warranty, an expected lifetime for the qualifying action of 42 years;
+- (fc) in the case of a qualifying action which is a first time heating system other than the installation of a district heating connection, an expected lifetime for the qualifying action of 20 years; and
+- (g) in the case of any other qualifying action, an expected lifetime for the qualifying action that is specified in, or determined in accordance with, the methodology.
+
+(3) Before publishing a methodology under this article, the Administrator must have regard to—
+
+- (a) the Standard Assessment Procedure and the Reduced Data Standard Assessment Procedure, or to any methodology published by, or on behalf of, the Secretary of State as a replacement for the Standard Assessment Procedure or the Reduced Data Standard Assessment Procedure; and
+- (b) the desirability of the methodology being easy to use.
+
+(4) In this article—
+
+- “**appropriate warranty**” means a warranty which the Administrator is satisfied—
+  - (a) is supported by a mechanism that gives assurance that—
+    - (i) funds will be available to honour the warranty; and
+    - (ii) the installation of the insulation and products used in the insulation comply with a quality assurance framework;
+  - (b) is for 25 years or more; and
+  - (c) provides for repair, or replacement where appropriate, of the insulation, covering the cost of remedial and replacement works and materials;
+- “**broken boiler**” and “**broken electric storage heater**” have the same meaning as in article 32;
+- “[^key-cb50ea70f6fdd479e1b9bcac1f2791c7]**room-in-roof**” in relation to insulation has the same meaning as in article 19;
+- “**underfloor insulation**” means insulation of all or part of the floor of a room in a building, where that floor, or that part of the floor, is not situated above a habitable room.
+
+## PART 8 — Transfers
+
+### 34. Transfers of qualifying actions
+
+(1) A relevant supplier may apply to the Administrator with another relevant supplier for one or more qualifying actions promoted by the relevant supplier (“A”) to be treated as promoted by the other relevant supplier (“B”) (“a proposed transfer”).
+
+(2) An application under paragraph (1) must—
+
+- (a) be made by A and B, in writing, on or before 30th June 2022; and
+- (b) include such information relating to the proposed transfer as the Administrator may require.
+
+(3) The Administrator must not approve the application if—
+
+- (a) the application is made in respect of an in-fill measure or a primary action with which an in-fill measure is linked, unless the application is made in respect of the in-fill measure and all of the primary actions with which the in-fill measure is linked; or
+- (b) the application is made in respect of a secondary heating measure or a measure that is a related primary measure for a secondary heating measure, unless the application is made in respect of the secondary heating measure and its related primary measure.
+
+(4) In paragraph (3)—
+
+- (a) “**in-fill measure**” and “**primary actions**” have the same meaning as in article 14(4); and
+- (b) “**related primary measure**” has the meaning given in the definition of “secondary heating measure” in article 2.
+
+(5) If the Administrator decides not to approve the application it must notify A and B in writing of the reasons for that decision.
+
+(6) If the Administrator approves the application—
+
+- (a) the qualifying actions in respect of which the application was made are treated as promoted by B and not A; and
+- (b) the Administrator must notify A and B in writing of the date on which the application was approved.
+
+### 35. Transfer of obligations
+
+(1) A participant may apply to the Administrator with another participant for all or part of its total home-heating cost reduction obligation or total solid wall minimum requirement to be transferred from the participant (“A”) to the other participant (“B”) (“a proposed transfer”).
+
+(2) An application under paragraph (1) must—
+
+- (a) be made by A and B, in writing, on or before 30th September 2021;
+- (b) state in respect of which one of the following the application is being made (“the relevant obligation”)—
+  - (i) a total home-heating cost reduction obligation; or
+  - (ii) a total solid wall minimum requirement;
+- (c) state the amount of its relevant obligation that A intends to transfer to B (“the proposed transfer amount”); and
+- (d) include such other information relating to the proposed transfer as the Administrator may require.
+
+(3) The Administrator must not approve the application if—
+
+- (a) the proposed transfer amount exceeds A's relevant obligation;
+- (b) approval of the application would result in A or B's total solid wall minimum requirement being greater than its total home-heating cost reduction obligation;
+- (c) having regard to section 30O of the Gas Act 1986 [^c23434581] and section 27O of the Electricity Act 1989 [^c23434591] (maximum amount of penalty or compensation), the Administrator considers that, if the application were approved, there is a significant risk that it would adversely affect the Administrator's ability to enforce the requirements placed on B under this Order; or
+- (d) where A and B are not members of the same group, the Administrator considers that, if the application were approved, there is a significant risk that B will be unable to achieve its total home-heating cost reduction obligation or total solid wall minimum requirement.
+
+(4) If the Administrator decides not to approve the application it must in writing—
+
+- (a) notify A of any reasons for that decision relating to A; and
+- (b) notify B of any reasons for that decision relating to B.
+
+(5) If the Administrator approves the application—
+
+- (a) A's relevant obligation is treated as reduced by the proposed transfer amount, and the Administrator must notify A in writing of its reduced relevant obligation; and
+- (b) B's relevant obligation is treated as increased by the proposed transfer amount, and the Administrator must notify B in writing of its increased relevant obligation.
+
+## PART 9 — Information and enforcement
+
+### 36. Final determination and reporting
+
+(1) The Administrator must determine whether a participant has achieved its total home-heating cost reduction obligation.
+
+(2) The Administrator must notify the participant in writing of its determination under paragraph (1) by no later than 30th September 2022.
+
+(3) The Administrator must submit to the Secretary of State a report each month setting out the progress which participants have made towards achieving their total home-heating cost reduction obligation.
+
+(4) The first report under paragraph (3) is to be submitted in the month following the month in which the commencement date occurs.
+
+(5) The final report under paragraph (3) is to be submitted in April 2022.
+
+(6) Not later than 30th September 2022 the Administrator must submit to the Secretary of State a report setting out whether participants achieved the overall home-heating cost reduction target.
+
+### 37. Information from participants
+
+The Administrator may require a participant—
+
+- (a) to provide it with such information, or information of such nature, as it may specify—
+  - (i) about the participant's proposals for complying with any requirement under this Order; or
+  - (ii) relating to the cost to the participant of achieving its total home-heating cost reduction obligation; and
+- (b) to produce to it evidence, of such kind as it may specify, demonstrating that the participant is complying with, or has complied with, any requirement under this Order.
+
+### 38. Publication of energy savings achieved by participants and provision of information to the Secretary of State by participants
+
+(1) At least once in each reporting year the Secretary of State must publish, on a website maintained by or on behalf of the Secretary of State, the energy savings achieved—
+
+- (a) by each participant by qualifying actions which—
+  - (i) have been promoted by the participant; and
+  - (ii) are not surplus actions; and
+- (b) by all qualifying actions other than surplus actions.
+
+(2) No more than once each reporting year, the Secretary of State may require a participant to provide to the Secretary of State—
+
+- (a) aggregated statistical information on its final customers (identifying significant changes to previously submitted information); and
+- (b) current information on final customers' consumption, including, where applicable, load profiles, customer segmentation and geographical location of customers.
+
+(3) In this article—
+
+- (a) “energy savings” and “final customer” have the meaning given by Article 2 of the Energy Efficiency Directive;
+- (b) “**aggregated statistical information**”, “**customer segmentation**” and “**load profiles**” have the same meaning as in the Energy Efficiency Directive;
+- (c) “**the Energy Efficiency Directive**” means Directive 2012/27/EU of the European Parliament and of the Council on energy efficiency [^c23434601]; and
+- (d) “**reporting year**” means 2019, 2020, 2021 and 2022.
+
+### 39. Enforcement
+
+A requirement placed on a participant under this Order is a relevant requirement for the purpose of Part 1 of the Electricity Act 1989 and Part 1 of the Gas Act 1986.
+
+Claire Perry
+
+Minister of State for Climate Change and Industry
+
+Department for Business, Energy and Industrial Strategy
+
+The Scottish Ministers consent to the making of this Order.
+
+Kevin Stewart
+
+A member of the Scottish Government
+
+## SCHEDULE 1 — Domestic premises which are social housing
+
+Article 2
+
+**1.** Domestic premises in England and Wales are “social housing” if the premises are let below the market rate and—
+
+- (a) the relevant interest in those premises is registered as belonging to a social landlord; or
+- (b) if no relevant interest in the premises has been registered, the premises are let by a social landlord other than under a lease granted pursuant to Part 5 of the Housing Act 1985 [^c23434611].
+
+**2.** Domestic premises in Scotland are “social housing” if the premises are let below the market rate and—
+
+- (a) the relevant interest in the premises is registered as belonging to a social landlord; or
+- (b) if no relevant interest in the premises has been registered, the premises are let by a social landlord other than under a lease granted pursuant to sections 61 to 84 of the Housing (Scotland) Act 1987 [^c23434621], as modified by section 84A of that Act [^c23434631].
+
+**3.** For the purposes of this Schedule—
+
+- (a) in respect of premises in England and Wales, a relevant interest is registered if it is registered in the register of title maintained by Her Majesty's Land Registry; and
+- (b) in respect of premises in Scotland, a relevant interest is registered if it is—
+  - (i) registered in the Land Register of Scotland; or
+  - (ii) recorded in the Register of Sasines.
+
+**4.** In this Schedule—
+
+- “**relevant interest**” means—
+  - (a) in respect of premises in England and Wales—
+    - (i) the freehold estate, unless the whole of the premises have been let under a registered lease; or
+    - (ii) the leasehold estate, unless the whole of the premises have been further let under a registered lease; and
+  - (b) in respect of premises in Scotland—
+    - (i) the owner's interest or right, unless the whole of the premises have been let under a registered lease; or
+    - (ii) the lessee's interest under a lease, unless the whole of the premises have been further let under a registered lease;
+- “**social landlord**” means—
+  - (a) in respect of premises in England—
+    - (i) a local housing authority, within the meaning of section 1 of the Housing Act 1985 [^c23434641];
+    - (ii) a housing association, within the meaning of section 5 of the Housing Act 1985 [^c23434651];
+    - (iii) a housing trust, within the meaning of section 6 of the Housing Act 1985; or
+    - (iv) a charity, within the meaning of section 1 of the Charities Act 2011 [^c23434661];
+  - (b) in respect of premises in Scotland, a person so described in section 165 of the Housing (Scotland) Act 2010 [^c23434671]; and
+  - (c) in respect of premises in Wales—
+    - (i) a local housing authority, within the meaning of section 1 of the Housing Act 1985;
+    - (ii) a housing association, within the meaning of section 5 of the Housing Act 1985;
+    - (iii) a housing trust, within the meaning of section 6 of the Housing Act 1985;
+    - (iv) a charity, within the meaning of section 1 of the Charities Act 2011;
+    - (v) a person listed in section 80(1) of the Housing Act 1985 [^c23434681]; or
+    - (vi) a body registered as a social landlord under Chapter 1 of Part 1 of the Housing Act 1996 [^c23434691].
+
+## SCHEDULE 2 — Help to heat group eligibility
+
+Article 14
+
+**1.** The benefits referred to in the definition of “help to heat group” in article 14 are—
+
+- (a) armed forces independence payment under a scheme established under section 1 of the Armed Forces (Pensions and Compensation) Act 2004 [^c23434701];
+- (b) attendance allowance under Part 3 of the 1992 Act [^c23434711];
+- (c) carer's allowance under Part 3 of the 1992 Act [^c23434721];
+- (d) child benefit under Part 9 of the 1992 Act [^c23434731];
+- (e) child tax credit under section 8 of the Tax Credits Act 2002 [^c23434741];
+- (f) constant attendance allowance under—
+  - (i) article 14 of the Personal Injuries (Civilians) Scheme 1983 [^c23434751], or
+  - (ii) article 8 of the Naval, Military and Air Forces etc (Disablement and Death) Service Pensions Order 2006 [^c23434761];
+- (g) disability living allowance under Part 3 of the 1992 Act [^c23434771];
+- (h) guarantee credit (and for this purpose “**guarantee credit**” is to be construed in accordance with sections 1 and 2 of the State Pension Credit Act 2002 [^c23434781]);
+- (i) income-related employment and support allowance within the meaning of section 1 of the Welfare Reform Act 2007 [^c23434791];
+- (j) income-based jobseeker's allowance within the meaning of section 1 of the Jobseekers Act 1995 [^c23434801];
+- (k) income support under Part 7 of the 1992 Act [^c23434811];
+- (l) industrial injuries disablement benefit under Part 5 of the 1992 Act [^c23434821];
+- (m) personal independence payment under Part 4 of the Welfare Reform Act 2012 [^c23434831];
+- (n) severe disablement allowance under Part 3 of the 1992 Act [^c23434841];
+- (o) universal credit under Part 1 of the Welfare Reform Act 2012 [^c23434851];
+- (p) mobility supplement as defined in section 150(2) of the 1992 Act [^c23434861];
+- (q) working tax credit under section 10 of the Tax Credits Act 2002 [^c23434871].
+
+**2.** The condition as to income in paragraph 3 is specified in relation to child benefit.
+
+**3.** Where the person claiming child benefit is—
+
+- (a) a single claimant, the condition as to income is that the claimant's annual income from all sources does not exceed the amount set out in the first row of the table in the column corresponding to the number of children or qualifying young persons for whom the claimant is responsible;
+- (b) a member of a couple, the condition as to income is that the couple's combined annual income from all sources does not exceed the amount set out in the second row of the table in the column corresponding to the number of children or qualifying young persons for whom at least one member of the couple is responsible.
+
+  Table
+
+  <table>
+  <tbody>
+  <tr><th rowspan="2"><em>Type of claimant</em></th><th colspan="4"><em>Number of children or qualifying young persons</em></th></tr>
+  <tr><td><em>1</em></td><td><em>2</em></td><td><em>3</em></td><td><em>4 or more</em></td></tr>
+  <tr><td>Single claimant</td><td>£18,500</td><td>£23,000</td><td>£27,500</td><td>£32,000</td></tr>
+  <tr><td>Member of a couple</td><td>£25,500</td><td>£30,000</td><td>£34,500</td><td>£39,000</td></tr>
+  </tbody>
+  </table>
+
+**4.** For the purposes of paragraph 3, whether a person is responsible for a child or qualifying young person is to be determined in accordance with Part 9 of the 1992 Act [^c23434881].
+
+**5.** In this Schedule—
+
+- “**1992 Act**” means the Social Security Contributions and Benefits Act 1992 [^c23434891];
+- “**child**” and “**qualifying young person**” have the same meaning as in Part 9 of the 1992 Act [^c23434901];
+- “**couple**” means—
+  - (a) two people who are married to, or civil partners of, each other and are members of the same household; or
+  - (b) two people who are not married to, or civil partners of, each other but are living together as if they were a married couple or civil partners[^key-6bf1f8cfcf9dcbd07c3874de16f9522b];
+- “**single claimant**” means a person who is not a member of a couple.
+
+## SCHEDULE 3 — Requirements for warranties for boiler installations
+
+Article 18
+
+**1.** The requirements referred to in article 18(1)(d)(ii) and (5)(d)[^key-381744a9d9d90c7c0e26b2d84c51fdd2] for a warranty are as follows.
+
+**2.** Subject to paragraph 3, the warranty must provide for the rectification, without any charge to a consumer, of all problems which affect the functioning of the boiler or the heating system it serves and which—
+
+- (a) relate to its installation or its suitability for the heating system it serves; and
+- (b) are notified to the person providing the warranty within 2 years[^key-680c45b4731f1932b75dedfbfa13cf3c] of the boiler being installed.
+
+**3.** The warranty is not required to provide for the rectification of a problem which—
+
+- (a) is covered by a warranty provided by the manufacturer of the boiler; or
+- (b) arises after the boiler is installed where that problem arises from one or more of—
+  - (i) negligence of a third party;
+  - (ii) accident caused by a third party;
+  - (iii) misuse of the boiler by a third party;
+  - (iv) repair of the boiler by a third party.
+
+**4.** In paragraph 3, “**third party**” means a person other than—
+
+- (a) the person who installed the boiler;
+- (b) the person providing the warranty; or
+- (c) a person acting on behalf of a person in sub-paragraph (a) or (b).
+
+**5.** The warranty must be accompanied by confirmation in writing from an occupier of the domestic premises at which the boiler is installed that, to that person's knowledge, no consumer has been charged for the warranty.
+
+## SCHEDULE 4 — Relevant F or G owner-occupied premises
+
+Articles 27 and 32
+
+**1.** A qualifying action is installed at domestic premises that are “relevant F or G owner-occupied premises” if—
+
+- (a) a relevant local authority has made a statement in writing that, in the opinion of the local authority, the premises are occupied—
+  - (i) by a household living on a low income in a home which cannot be kept warm at a reasonable cost; or
+  - (ii) by a household living on a low income and vulnerable to the effects of living in a cold home;
+- (b) the premises are owner-occupied premises; and
+- (c) the condition in paragraph 2 or 3 is met.
+
+**2.** The condition in this paragraph is that a post-installation EPC expresses the energy performance rating of the premises as band F or G.
+
+**3.** The condition in this paragraph is that—
+
+- (a) a pre-installation EPC expresses the energy performance rating of the premises as band F or G; and
+- (b) an owner or occupier of the premises has confirmed in writing that, to the best of its knowledge and belief, no changes were made to the premises, after the pre-installation EPC was issued and before the qualifying action was installed, which would increase the energy performance rating of the premises to band A, B, C, D or E.
+
+**4.** In this Schedule, “**relevant local authority**” means a local authority that has published, on its website, a statement of intent made in respect of the local authority, and for the purpose of this definition “**statement of intent**” has the meaning given in article 17(5).
+
+*(This note is not part of the Order)*
+
+This Order applies in Great Britain. It establishes the Energy Company Obligation scheme for the period to 31st March 2022 for the promotion of measures for reducing the cost to individuals of heating their homes. The scheme is administered and enforced by the Gas and Electricity Markets Authority (the “Administrator”).
+
+Article 3 of the Order sets who must participate in the scheme. These are licensed electricity and gas suppliers that have more than a specified number of domestic customers at the end of any year between 2017 and 2020, and that supply more than a specified amount of gas or electricity to domestic customers during that same year, or that are in a group that meets these thresholds.
+
+Article 4 sets out the overall home-heating cost reduction target for the period from the commencement of the Order to 31st March 2022.
+
+Articles 5 to 10 set out the process for the apportionment of the overall home-heating cost reduction target between participants. A participant's share of the target is referred to as its total home-heating cost reduction obligation (its “obligation”). A participant's obligation is determined in four phases, by reference to whether the participant is a participant in relation to the phase, and if so, by reference to the amount of gas or electricity supplied by the participant (or its group) in the calendar year preceding the phase. Phase 1 is the period from commencement of the Order to 31st March 2019. Phases 2 to 4 are each successive period of 12 months.
+
+Article 11 requires a participant to achieve its obligation by no later than 31st March 2022, and by promoting “qualifying actions”, which are defined in article 13. It also requires at least 15% of a participant's obligation to be achieved by qualifying actions that are installed at domestic premises in a rural area as long as it is not the installation of equipment for the generation of heat wholly or partly from oil; and requires a participant to promote sufficient “solid wall actions” to meet or exceed its total “solid wall minimum requirement”, which is determined by the Administrator under article 6.
+
+Article 12 sets limits on the amount of a participant's obligation that may be met by certain qualifying actions.
+
+Articles 14 to 16 set out different conditions to be met for a measure to be a qualifying action, depending on whether the measure is installed at private domestic premises, social housing with an energy performance rating of band D or at social housing with an energy performance rating of band E, F or G. Article 17 sets out a condition that measures may meet to be a qualifying action, where a local authority has been consulted on the installation of a measure and made certain statements. Further requirements to be met by measures in order to be qualifying actions are set out in articles 18 and 19.
+
+A participant may apply to the Administrator for a measure to be approved as a “demonstration action” (article 20), an “innovation measure” (article 21) or a “monitored measure” (article 22). Where such an application is accepted, some of the provisions of the Order differ for these measures, including the rules for calculating the contribution the measure makes to a participant's obligation (Part 7 of the Order), and in the case of demonstration actions and innovation measures, the conditions and requirements that the measure must meet under Part 4 of the Order.
+
+A participant, or any other licence-holder on whom a total carbon emissions reduction obligation was imposed under the Electricity and Gas (Energy Company Obligation) Order 2014 (S.I. 2014/3219) (a “relevant supplier”), can also apply for a measure promoted under that Order to be recognised as a “surplus action” if it is not required or used by the applicant to meet its obligations under that Order and meets the criteria in article 23 of this Order. A measure recognised by the Administrator as a surplus action under article 23 may contribute towards a participant's obligation under this Order.
+
+Except in the case of surplus actions, the requirements for a qualifying action include a requirement for the participant to notify the measure to the Administrator in accordance with article 24. The deadline for notification of the measure is set by, or determined under, article 25.
+
+Article 26 requires the Administrator to attribute a score to each qualifying action to determine the amount the qualifying action contributes towards the achievement of a participant's obligation. For all actions, except demonstration actions and surplus actions, the score is calculated by reference to the cost savings (as defined in article 2) determined in accordance with articles 27, 29, 30 and 32.
+
+For demonstration actions, the score is calculated using the actual costs incurred or cost estimate provided by the participant in respect of the promotion of the demonstration action (article 28). For surplus actions, article 31 provides that the score is the cost score attributed to the measure under the Electricity and Gas (Energy Company Obligation) Order 2014, or the cost score calculated in accordance with that Order.
+
+Article 33 requires the Administrator to publish a methodology for the purpose of calculating the cost savings of qualifying actions.
+
+Relevant suppliers can apply to the Administrator under article 34 to transfer qualifying actions from one to another. Participants can apply to the Administrator under article 35 to transfer all or part of a participant's obligation or total solid wall minimum requirement from one to another.
+
+Article 36 requires the Administrator to determine by no later than 30th September 2022 whether a participant has achieved its obligation. The Administrator must also deliver monthly reports to the Secretary of State until April 2022, and a final report by no later than 30th September 2022 setting out whether participants achieved the overall home-heating cost reduction target.
+
+Article 37 enables the Administrator to require information and evidence from a participant regarding compliance with the requirements of this Order and the costs of achieving its obligation.
+
+Article 38 transposes article 7(8) of Directive 2012/27/EU of the European Parliament and of the Council on energy efficiency (OJ No. L 315, 14.11.2012, p1). It requires the Secretary of State to publish the energy savings achieved by participants and the provision of information to the Secretary of State by participants on their final customers.
+
+Article 39 provides that a requirement placed on a participant under this Order is a relevant requirement for the purposes of Part 1 of the Electricity Act 1989 and Part 1 of the Gas Act 1986.
+
+A full impact assessment of the effect that this Order will have on the costs of business and the voluntary sector will be published and will be available from the Department for Business, Energy and Industrial Strategy at 1 Victoria Street, London, SW1H 0ET.
+
+## Annotations
+
+[^c23434141]: Marginal citation: [1986 c.44](https://www.legislation.gov.uk/ukpga/1986/44). Section 33BD was inserted by section 68 of the [Energy Act 2011 (c.16)](https://www.legislation.gov.uk/ukpga/2011/16).
+
+[^c23434151]: Marginal citation: [1989 c.29](https://www.legislation.gov.uk/ukpga/1989/29). Section 41B was inserted by section 69 of the Energy Act 2011.
+
+[^c23434161]: Marginal citation: [2000 c.27](https://www.legislation.gov.uk/ukpga/2000/27). Section 103A was inserted by section 70 of the Energy Act 2011 and amended by section 60 of the [Scotland Act 2016 (c.11)](https://www.legislation.gov.uk/ukpga/2016/11) and [S.I. 2014/631](https://www.legislation.gov.uk/uksi/2014/631). Section 60 of the Scotland Act 2016 was brought into force by [S.I. 2017/1157](https://www.legislation.gov.uk/uksi/2017/1157) for the purpose of making orders to come into force not earlier than 1st October 2018.
+
+[^c23434171]: Marginal citation: [1972 c.68](https://www.legislation.gov.uk/ukpga/1972/68). Section 2(2) was amended by section 27(1)(a) of the [Legislative and Regulatory Reform Act 2006 (c.51)](https://www.legislation.gov.uk/ukpga/2006/51) and by Part 1 of the Schedule to the [European Union (Amendment) Act 2008 (c.7)](https://www.legislation.gov.uk/ukpga/2008/7). The European Communities Act 1972 is prospectively repealed by the [European Union (Withdrawal) Act 2018 (c.16)](https://www.legislation.gov.uk/ukpga/2018/16).
+
+[^c23434181]: Marginal citation: Notwithstanding section 33BDA of the Gas Act 1986 and section 41BA of the Electricity Act 1989, as inserted by section 59 of the Scotland Act 2016, the Secretary of State may, by virtue of section 33BDA(10) of the Gas Act 1986 and section 41BA(10) of the Electricity Act 1989, make provision under section 33BD of the Gas Act 1986 and section 41B of the Electricity Act 1989 for the purposes of obligations imposed under those sections in relation to Scotland, with the agreement of the Scottish Ministers. Section 59 of the Scotland Act 2016 was brought into force by [S.I. 2017/1157](https://www.legislation.gov.uk/uksi/2017/1157) for the purpose of making orders to come into force not earlier than 1st October 2018, and comes into force for remaining purposes on 1st October 2018.
+
+[^c23434191]: Marginal citation: [S.I. 2010/761](https://www.legislation.gov.uk/uksi/2010/761).
+
+[^c23434201]: Marginal citation: [Section 33BC](https://www.legislation.gov.uk/uksi/2018/1183/section/33BC) was inserted by section 99 of the [Utilities Act 2000 (c.27)](https://www.legislation.gov.uk/ukpga/2000/27) and amended by section 15 of, and the Schedule to, the [Climate Change and Sustainable Energy Act 2006 (c.19)](https://www.legislation.gov.uk/ukpga/2006/19), [Schedule 8](https://www.legislation.gov.uk/ukpga/2006/19/schedule/8) to the [Climate Change Act 2008 (c.27)](https://www.legislation.gov.uk/ukpga/2008/27), [section 66](https://www.legislation.gov.uk/ukpga/2008/27/section/66) of the [Energy Act 2011 (c.16)](https://www.legislation.gov.uk/ukpga/2011/16) and [S.I. 2014/631](https://www.legislation.gov.uk/uksi/2014/631).
+
+[^c23434211]: Marginal citation: [Section 41A](https://www.legislation.gov.uk/uksi/2018/1183/section/41A) was inserted by section 70 of the Utilities Act 2000 and amended by section 16 of, and the Schedule to, the Climate Change and Sustainable Energy Act 2006, Schedule 8 to the Climate Change Act 2008, section 67 of, and Schedule 1 to, the Energy Act 2011 and [S.I. 2014/631](https://www.legislation.gov.uk/uksi/2014/631).
+
+[^c23434221]: Marginal citation: [Paragraph 2(2)](https://www.legislation.gov.uk/uksi/2018/1183/paragraph/2/2) of Schedule 2 was amended by section 27(2)(a) of the Legislative and Regulatory Reform Act 2006.
+
+[^c23434231]: Marginal citation: [S.I. 2014/3219](https://www.legislation.gov.uk/uksi/2014/3219) was amended by [S.I. 2017/490](https://www.legislation.gov.uk/uksi/2017/490).
+
+[^c23434241]: Marginal citation: [2004 c.34](https://www.legislation.gov.uk/ukpga/2004/34).
+
+[^c23434251]: Marginal citation: [2006 asp 1](https://www.legislation.gov.uk/asp/2006/1). Section 125 was amended by section 13 of the [Private Rented Housing (Scotland) Act 2011 (asp 14)](https://www.legislation.gov.uk/asp/2011/14).
+
+[^c23434261]: Marginal citation: The responsiveness ratings for electric storage heaters are set out in table 4a of the Standard Assessment Procedure.
+
+[^c23434271]: Marginal citation: [S.I. 2012/3118](https://www.legislation.gov.uk/uksi/2012/3118). Regulation 2 was amended by [S.I. 2016/284](https://www.legislation.gov.uk/uksi/2016/284). There are other amendments which are not relevant.
+
+[^c23434281]: Marginal citation: [S.S.I. 2008/309](https://www.legislation.gov.uk/ssi/2008/309). Regulation 2 was amended by [S.S.I. 2012/208](https://www.legislation.gov.uk/ssi/2012/208) and [S.S.I. 2013/12](https://www.legislation.gov.uk/ssi/2013/12). There are other amendments which are not relevant.
+
+[^c23434291]: Marginal citation: Regulation 11 was amended by [S.I. 2014/880](https://www.legislation.gov.uk/uksi/2014/880), [S.I](https://www.legislation.gov.uk/uksi/2014/880/section/I). 2015/609 and [S.I. 2016/284](https://www.legislation.gov.uk/uksi/2016/284).
+
+[^c23434301]: Marginal citation: [2006 c.46](https://www.legislation.gov.uk/ukpga/2006/46).
+
+[^c23434311]: Marginal citation: [1989 c.29](https://www.legislation.gov.uk/ukpga/1989/29). Section 6 was substituted by section 30 of the [Utilities Act 2000 (c.27)](https://www.legislation.gov.uk/ukpga/2000/27) and amended by section 89(3) of the [Energy Act 2004 (c.20)](https://www.legislation.gov.uk/ukpga/2004/20) and [S.I. 2011/2704](https://www.legislation.gov.uk/uksi/2011/2704). There are other amendments which are not relevant.
+
+[^c23434321]: Marginal citation: [1986 c.44](https://www.legislation.gov.uk/ukpga/1986/44); section 7A was inserted by section 6(1) of the [Gas Act 1995 (c.45)](https://www.legislation.gov.uk/ukpga/1995/45) and amended by section 3(2) of, and Schedule 6 to, the Utilities Act 2000. There are other amendments which are not relevant.
+
+[^c23434331]: Marginal citation: [2009 c.20](https://www.legislation.gov.uk/ukpga/2009/20). Section 103 was amended by sections 12(2) and 14(2) of the [Cities and Local Government Devolution Act 2016 (c.1)](https://www.legislation.gov.uk/ukpga/2016/1).
+
+[^c23434341]: Marginal citation: [1994 c.39](https://www.legislation.gov.uk/ukpga/1994/39). Section 2 was amended by paragraph 232 of Schedule 22 to the [Environment Act 1995 (c.25)](https://www.legislation.gov.uk/ukpga/1995/25).
+
+[^c23434351]: Marginal citation: [1960 c.62](https://www.legislation.gov.uk/ukpga/1960/62). There are amendments to Part 1 which are not relevant.
+
+[^c23434361]: Marginal citation: [1968 c.52](https://www.legislation.gov.uk/ukpga/1968/52). There are amendments to section 13 which are not relevant.
+
+[^c23434371]: Marginal citation: [1992 c.14](https://www.legislation.gov.uk/ukpga/1992/14). See section 3, which was amended by [S.I. 2013/468](https://www.legislation.gov.uk/uksi/2013/468).
+
+[^c23434381]: Marginal citation: See section 72.
+
+[^c23434391]: Marginal citation: [2008 c.32](https://www.legislation.gov.uk/ukpga/2008/32). Section 100(4) was amended by [S.I. 2011/2195](https://www.legislation.gov.uk/uksi/2011/2195).
+
+[^c23434401]: Marginal citation: Defined in Schedule 1 to the [Interpretation Act 1978 (c.30)](https://www.legislation.gov.uk/ukpga/1978/30).
+
+[^key-e68676439ba7884db7b19d0353a8f901]: Textual amendment: Words in art. 2 inserted (1.1.2020) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2019 (S.I. 2019/1441)](https://www.legislation.gov.uk/uksi/2019/1441), [arts. 1](https://www.legislation.gov.uk/uksi/2019/1441/article/1), [3](https://www.legislation.gov.uk/uksi/2019/1441/article/3) (with [art. 15](https://www.legislation.gov.uk/uksi/2019/1441/article/15))
+
+[^c23434471]: Marginal citation: ISBN 978 0 580 99563 7. This specification for the installation of energy efficiency measures in existing dwellings and insulation in residential park homes was published by the British Standards Institution on 30th June 2019.
+
+[^c23434481]: Marginal citation: ISBN 978 0 580 78472 9. This international standard was published by the British Standards Institution on 31st October 2012.
+
+[^c23434491]: Marginal citation: ISBN 978 0 580 99564 4. This specification and guidance for retrofitting dwellings for improved energy efficiency was published by the British Standards Institution on 30th June 2019.
+
+[^c23434411]: Marginal citation: [S.I. 2012/3018](https://www.legislation.gov.uk/uksi/2012/3018), as amended by [S.I. 2014/1131](https://www.legislation.gov.uk/uksi/2014/1131), [S.I](https://www.legislation.gov.uk/uksi/2014/1131/section/I). 2014/2897 and [S.I. 2014/3231](https://www.legislation.gov.uk/uksi/2014/3231).
+
+[^c23434421]: Marginal citation: [S.I. 2015/962](https://www.legislation.gov.uk/uksi/2015/962).
+
+[^c23434431]: Marginal citation: [2006 asp 1](https://www.legislation.gov.uk/asp/2006/1). See section 12 which was amended by Schedule 2 to the [Land Reform (Scotland) Act 2016 (asp 18)](https://www.legislation.gov.uk/asp/2016/18).
+
+[^c23434441]: Marginal citation: The Government's Reduced Data Standard Assessment Procedure for Energy Rating of Dwellings (2012 Edition, version 9.92) is at Appendix S of the document entitled “The Government's Standard Assessment Procedure for the Energy Rating of Dwellings 2012 edition” which can be accessed at
+
+    http://www.bre.co.uk/filelibrary/SAP/2012/SAP-2012\_9-92.pdf. A copy can be inspected by contacting the Energy Company Obligation Team at the Department for Business, Energy and Industrial Strategy, 1 Victoria Street, London SW1H 0ET.
+
+[^c23434451]: Marginal citation: See the footnote to the definition of “Reduced Data Standard Assessment Procedure”.
+
+[^c23434461]: Marginal citation: See section 33BD(1) of the Gas Act 1986 and section 41B(1) of the Electricity Act 1989 for the definition of “home-heating cost reduction obligation”.
+
+[^key-6916fbe74c131b36df0c87b39f409429]: Textual amendment: Word in art. 14(3)(b)(i) omitted (1.1.2020) by virtue of [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2019 (S.I. 2019/1441)](https://www.legislation.gov.uk/uksi/2019/1441), [arts. 1](https://www.legislation.gov.uk/uksi/2019/1441/article/1), [4(a)](https://www.legislation.gov.uk/uksi/2019/1441/article/4/a) (with [art. 15](https://www.legislation.gov.uk/uksi/2019/1441/article/15))
+
+[^key-632d62efb3907ab415483050b929b36f]: Textual amendment: Word in art. 14(3)(b)(ii) inserted (1.1.2020) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2019 (S.I. 2019/1441)](https://www.legislation.gov.uk/uksi/2019/1441), [arts. 1](https://www.legislation.gov.uk/uksi/2019/1441/article/1), [4(b)](https://www.legislation.gov.uk/uksi/2019/1441/article/4/b) (with [art. 15](https://www.legislation.gov.uk/uksi/2019/1441/article/15))
+
+[^key-a85ec286d32e8233461c9db571ab1cf0]: Textual amendment: Art. 14(3)(b)(iii) inserted (1.1.2020) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2019 (S.I. 2019/1441)](https://www.legislation.gov.uk/uksi/2019/1441), [arts. 1](https://www.legislation.gov.uk/uksi/2019/1441/article/1), [4(c)](https://www.legislation.gov.uk/uksi/2019/1441/article/4/c) (with [art. 15](https://www.legislation.gov.uk/uksi/2019/1441/article/15))
+
+[^c23434501]: Marginal citation: [S.I. 2011/1033](https://www.legislation.gov.uk/uksi/2011/1033), as amended by [S.I. 2014/695](https://www.legislation.gov.uk/uksi/2014/695), [S.I. 2015/652](https://www.legislation.gov.uk/uksi/2015/652) and [S.I. 2016/806](https://www.legislation.gov.uk/uksi/2016/806) and the [Warm Home Discount (Miscellaneous Amendments) Regulations 2018](https://www.legislation.gov.uk/uksi/2018/909).
+
+[^key-ce3ba14d9c3f4ccb5847f905eb283655]: Textual amendment: Words in art. 16(1)(b)(iv) omitted (1.1.2020) by virtue of [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2019 (S.I. 2019/1441)](https://www.legislation.gov.uk/uksi/2019/1441), [arts. 1](https://www.legislation.gov.uk/uksi/2019/1441/article/1), [5(a)](https://www.legislation.gov.uk/uksi/2019/1441/article/5/a) (with [art. 15](https://www.legislation.gov.uk/uksi/2019/1441/article/15))
+
+[^key-cfc103be3533bad936ec16218355fcd6]: Textual amendment: Art. 16(4) omitted (1.1.2020) by virtue of [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2019 (S.I. 2019/1441)](https://www.legislation.gov.uk/uksi/2019/1441), [arts. 1](https://www.legislation.gov.uk/uksi/2019/1441/article/1), [5(b)](https://www.legislation.gov.uk/uksi/2019/1441/article/5/b) (with [art. 15](https://www.legislation.gov.uk/uksi/2019/1441/article/15))
+
+[^key-22cd2cbc15a9363ed2a34d035c2c8d22]: Textual amendment: Word in art. 17(3)(c)(i) omitted (1.1.2020) by virtue of [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2019 (S.I. 2019/1441)](https://www.legislation.gov.uk/uksi/2019/1441), [arts. 1](https://www.legislation.gov.uk/uksi/2019/1441/article/1), [6(a)](https://www.legislation.gov.uk/uksi/2019/1441/article/6/a) (with [art. 15](https://www.legislation.gov.uk/uksi/2019/1441/article/15))
+
+[^key-4bf9ee0b61fd37639b903d1fe9b573df]: Textual amendment: Word in art. 17(3)(c)(ii) inserted (1.1.2020) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2019 (S.I. 2019/1441)](https://www.legislation.gov.uk/uksi/2019/1441), [arts. 1](https://www.legislation.gov.uk/uksi/2019/1441/article/1), [6(b)](https://www.legislation.gov.uk/uksi/2019/1441/article/6/b) (with [art. 15](https://www.legislation.gov.uk/uksi/2019/1441/article/15))
+
+[^key-e4a67d0a0b2b023437cee722b7890ab1]: Textual amendment: Art. 17(3)(c)(iii) inserted (1.1.2020) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2019 (S.I. 2019/1441)](https://www.legislation.gov.uk/uksi/2019/1441), [arts. 1](https://www.legislation.gov.uk/uksi/2019/1441/article/1), [6(c)](https://www.legislation.gov.uk/uksi/2019/1441/article/6/c) (with [art. 15](https://www.legislation.gov.uk/uksi/2019/1441/article/15))
+
+[^key-f785faa8a733e8243b1fb477b952d5c3]: Textual amendment: Art. 18 substituted (1.1.2020) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2019 (S.I. 2019/1441)](https://www.legislation.gov.uk/uksi/2019/1441), [arts. 1](https://www.legislation.gov.uk/uksi/2019/1441/article/1), [7](https://www.legislation.gov.uk/uksi/2019/1441/article/7) (with [art. 15](https://www.legislation.gov.uk/uksi/2019/1441/article/15))
+
+[^c23434521]: Marginal citation: ISBN 978 0 580 82569 9. This specification for the installation of energy efficiency measures in existing buildings was published by the British Standards Institution on 31st January 2017.
+
+[^key-0705df0e08d7834c1ea618120b436e85]: Textual amendment: Art. 19(1)(ca) inserted (1.1.2020) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2019 (S.I. 2019/1441)](https://www.legislation.gov.uk/uksi/2019/1441), [arts. 1](https://www.legislation.gov.uk/uksi/2019/1441/article/1), [8(a)](https://www.legislation.gov.uk/uksi/2019/1441/article/8/a) (with [art. 15](https://www.legislation.gov.uk/uksi/2019/1441/article/15))
+
+[^c23434531]: Marginal citation: [S.I. 2014/928](https://www.legislation.gov.uk/uksi/2014/928), amended by [S.I. 2015/143](https://www.legislation.gov.uk/uksi/2015/143), [S.I. 2015/145](https://www.legislation.gov.uk/uksi/2015/145), [S.I. 2015/1459](https://www.legislation.gov.uk/uksi/2015/1459), [S.I. 2016/257](https://www.legislation.gov.uk/uksi/2016/257), [S.I. 2017/857](https://www.legislation.gov.uk/uksi/2017/857), [S.I. 2018/610](https://www.legislation.gov.uk/uksi/2018/610) and [S.I. 2018/635](https://www.legislation.gov.uk/uksi/2018/635). See regulation 2.
+
+[^c23434541]: Marginal citation: [S.I. 2018/611](https://www.legislation.gov.uk/uksi/2018/611), amended by [S.I. 2018/635](https://www.legislation.gov.uk/uksi/2018/635). See regulation 2.
+
+[^c23434551]: Marginal citation: [2010 c.4](https://www.legislation.gov.uk/ukpga/2010/4).
+
+[^key-7230151c162fd9b4523bc5025e03d3bf]: Textual amendment: Words in art. 19(2) inserted (1.1.2020) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2019 (S.I. 2019/1441)](https://www.legislation.gov.uk/uksi/2019/1441), [arts. 1](https://www.legislation.gov.uk/uksi/2019/1441/article/1), [8(b)](https://www.legislation.gov.uk/uksi/2019/1441/article/8/b) (with [art. 15](https://www.legislation.gov.uk/uksi/2019/1441/article/15))
+
+[^c23434561]: Marginal citation: [2018 c.12](https://www.legislation.gov.uk/ukpga/2018/12).
+
+[^c23434571]: Marginal citation: OJ No. C 368, 28.10.2017, p.6. The Horizon 2020 Work Programme 2018-2020 and its General Annexes can be found at: http://ec.europa.eu/research/participants/portal/desktop/en/funding/reference\_docs.html#h2020-work-programmes-2018-20 A copy can be inspected by contacting the Energy Company Obligation Team at the Department for Business, Energy and Industrial Strategy, 1 Victoria Street, London SW1H 0ET.
+
+[^key-1dd8d5d2ac39939e00812a2b484fc357]: Textual amendment: Art. 27(2) substituted (1.1.2020) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2019 (S.I. 2019/1441)](https://www.legislation.gov.uk/uksi/2019/1441), [arts. 1](https://www.legislation.gov.uk/uksi/2019/1441/article/1), [9(a)](https://www.legislation.gov.uk/uksi/2019/1441/article/9/a) (with [art. 15](https://www.legislation.gov.uk/uksi/2019/1441/article/15))
+
+[^key-365f38ccc1443b24eb2fd11f170bc181]: Textual amendment: Art. 27(2A) inserted (1.1.2020) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2019 (S.I. 2019/1441)](https://www.legislation.gov.uk/uksi/2019/1441), [arts. 1](https://www.legislation.gov.uk/uksi/2019/1441/article/1), [9(b)](https://www.legislation.gov.uk/uksi/2019/1441/article/9/b) (with [art. 15](https://www.legislation.gov.uk/uksi/2019/1441/article/15))
+
+[^key-bf6dcf5b4fdb1f66401d77b366443b40]: Textual amendment: Art. 28(2) substituted (1.1.2020) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2019 (S.I. 2019/1441)](https://www.legislation.gov.uk/uksi/2019/1441), [arts. 1](https://www.legislation.gov.uk/uksi/2019/1441/article/1), [10(a)](https://www.legislation.gov.uk/uksi/2019/1441/article/10/a) (with [art. 15](https://www.legislation.gov.uk/uksi/2019/1441/article/15))
+
+[^key-fa0c70af7db7f92b85d8965d5dfbef1f]: Textual amendment: Art. 28(2A) inserted (1.1.2020) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2019 (S.I. 2019/1441)](https://www.legislation.gov.uk/uksi/2019/1441), [arts. 1](https://www.legislation.gov.uk/uksi/2019/1441/article/1), [10(b)](https://www.legislation.gov.uk/uksi/2019/1441/article/10/b) (with [art. 15](https://www.legislation.gov.uk/uksi/2019/1441/article/15))
+
+[^key-4b7aa2fb6e9becb7ab33fa1df93887ab]: Textual amendment: Art. 30(2)(b) substituted (1.1.2020) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2019 (S.I. 2019/1441)](https://www.legislation.gov.uk/uksi/2019/1441), [arts. 1](https://www.legislation.gov.uk/uksi/2019/1441/article/1), [11(a)](https://www.legislation.gov.uk/uksi/2019/1441/article/11/a) (with [art. 15](https://www.legislation.gov.uk/uksi/2019/1441/article/15))
+
+[^key-cefcaef12ccb3597bbb578b0588349ce]: Textual amendment: Art. 30(2A) inserted (1.1.2020) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2019 (S.I. 2019/1441)](https://www.legislation.gov.uk/uksi/2019/1441), [arts. 1](https://www.legislation.gov.uk/uksi/2019/1441/article/1), [11(b)](https://www.legislation.gov.uk/uksi/2019/1441/article/11/b) (with [art. 15](https://www.legislation.gov.uk/uksi/2019/1441/article/15))
+
+[^key-d71c16e081873f0139ecee13bef86038]: Textual amendment: Art. 32(2) substituted (1.1.2020) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2019 (S.I. 2019/1441)](https://www.legislation.gov.uk/uksi/2019/1441), [arts. 1](https://www.legislation.gov.uk/uksi/2019/1441/article/1), [12(a)](https://www.legislation.gov.uk/uksi/2019/1441/article/12/a) (with [art. 15](https://www.legislation.gov.uk/uksi/2019/1441/article/15))
+
+[^key-c30e16fe6493212d66045a3543733408]: Textual amendment: Art. 32(2A) inserted (1.1.2020) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2019 (S.I. 2019/1441)](https://www.legislation.gov.uk/uksi/2019/1441), [arts. 1](https://www.legislation.gov.uk/uksi/2019/1441/article/1), [12(b)](https://www.legislation.gov.uk/uksi/2019/1441/article/12/b) (with [art. 15](https://www.legislation.gov.uk/uksi/2019/1441/article/15))
+
+[^key-aca8f7c00eb94c6861d00b46c4ccca5c]: Textual amendment: Words in art. 32(3) substituted (1.1.2020) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2019 (S.I. 2019/1441)](https://www.legislation.gov.uk/uksi/2019/1441), [arts. 1](https://www.legislation.gov.uk/uksi/2019/1441/article/1), [12(c)(i)](https://www.legislation.gov.uk/uksi/2019/1441/article/12/c/i) (with [art. 15](https://www.legislation.gov.uk/uksi/2019/1441/article/15))
+
+[^key-31445ec6160865fd09aefda452cd9c3b]: Textual amendment: Words in art. 32(3) inserted (1.1.2020) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2019 (S.I. 2019/1441)](https://www.legislation.gov.uk/uksi/2019/1441), [arts. 1](https://www.legislation.gov.uk/uksi/2019/1441/article/1), [12(c)(ii)](https://www.legislation.gov.uk/uksi/2019/1441/article/12/c/ii) (with [art. 15](https://www.legislation.gov.uk/uksi/2019/1441/article/15))
+
+[^key-4989c2c0e82d03c4433f5a0af3af0d49]: Textual amendment: Word in art. 32(3) inserted (1.1.2020) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2019 (S.I. 2019/1441)](https://www.legislation.gov.uk/uksi/2019/1441), [arts. 1](https://www.legislation.gov.uk/uksi/2019/1441/article/1), [12(c)(iii)](https://www.legislation.gov.uk/uksi/2019/1441/article/12/c/iii) (with [art. 15](https://www.legislation.gov.uk/uksi/2019/1441/article/15))
+
+[^key-46c4075551585d48f4c17f7c10fe0818]: Textual amendment: Art. 33(2)(a) substituted (1.1.2020) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2019 (S.I. 2019/1441)](https://www.legislation.gov.uk/uksi/2019/1441), [arts. 1](https://www.legislation.gov.uk/uksi/2019/1441/article/1), [13(a)(i)](https://www.legislation.gov.uk/uksi/2019/1441/article/13/a/i) (with [art. 15](https://www.legislation.gov.uk/uksi/2019/1441/article/15))
+
+[^key-9d7d9d9aea359c10c5bddab6d2ad0430]: Textual amendment: Word in art. 33(2)(f) omitted (1.1.2020) by virtue of [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2019 (S.I. 2019/1441)](https://www.legislation.gov.uk/uksi/2019/1441), [arts. 1](https://www.legislation.gov.uk/uksi/2019/1441/article/1), [13(a)(ii)](https://www.legislation.gov.uk/uksi/2019/1441/article/13/a/ii) (with [art. 15](https://www.legislation.gov.uk/uksi/2019/1441/article/15))
+
+[^key-db24a4db909b4310a0b26081b559f5ae]: Textual amendment: Art. 33(2)(fa)-(fc) inserted (1.1.2020) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2019 (S.I. 2019/1441)](https://www.legislation.gov.uk/uksi/2019/1441), [arts. 1](https://www.legislation.gov.uk/uksi/2019/1441/article/1), [13(a)(iii)](https://www.legislation.gov.uk/uksi/2019/1441/article/13/a/iii) (with [art. 15](https://www.legislation.gov.uk/uksi/2019/1441/article/15))
+
+[^key-cb50ea70f6fdd479e1b9bcac1f2791c7]: Textual amendment: Words in art. 33(4) inserted (1.1.2020) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2019 (S.I. 2019/1441)](https://www.legislation.gov.uk/uksi/2019/1441), [arts. 1](https://www.legislation.gov.uk/uksi/2019/1441/article/1), [13(b)](https://www.legislation.gov.uk/uksi/2019/1441/article/13/b) (with [art. 15](https://www.legislation.gov.uk/uksi/2019/1441/article/15))
+
+[^c23434581]: Marginal citation: [1986 c.44](https://www.legislation.gov.uk/ukpga/1986/44). Section 30O was inserted by paragraph 1 of Schedule 14 to the [Energy Act 2013 (c.32)](https://www.legislation.gov.uk/ukpga/2013/32).
+
+[^c23434591]: Marginal citation: [1989 c.29](https://www.legislation.gov.uk/ukpga/1989/29). Section 27O was inserted by paragraph 2 of Schedule 14 to the Energy Act 2013.
+
+[^c23434601]: Marginal citation: OJ No. L 315, 14.11.2012, p.1. The Directive has been amended but the amendments are not relevant.
+
+[^c23434611]: Marginal citation: [1985 c.68](https://www.legislation.gov.uk/ukpga/1985/68). Part 5 was amended by section 83 of the [Housing Act 1988 (c.50)](https://www.legislation.gov.uk/ukpga/1988/50), [sections 104](https://www.legislation.gov.uk/ukpga/1988/50/section/104), [105](https://www.legislation.gov.uk/ukpga/1988/50/section/105), [108 to 120](https://www.legislation.gov.uk/ukpga/1988/50/section/108) of, and Schedules 21 and 22 to, the [Leasehold Reform, Housing and Urban Development Act 1993 (c. 28)](https://www.legislation.gov.uk/ukpga/1993/28), [Schedules 16](https://www.legislation.gov.uk/ukpga/1993/28/schedule/16) and 18 to the [Government of Wales Act 1998 (c.38)](https://www.legislation.gov.uk/ukpga/1998/38), [Schedule 5](https://www.legislation.gov.uk/ukpga/1998/38/schedule/5) to the [Commonhold and Leasehold Reform Act 2002 (c.15)](https://www.legislation.gov.uk/ukpga/2002/15), [sections 180 to 190](https://www.legislation.gov.uk/ukpga/2002/15/section/180), [192](https://www.legislation.gov.uk/ukpga/2002/15/section/192), [193](https://www.legislation.gov.uk/ukpga/2002/15/section/193) of, and Schedule 16 to, the [Housing Act 2004 (c.34)](https://www.legislation.gov.uk/ukpga/2004/34), [Schedules 11](https://www.legislation.gov.uk/ukpga/2004/34/schedule/11) and 13 to the [Land Registration Act 2002 (c.9)](https://www.legislation.gov.uk/ukpga/2002/9), [Schedules 19](https://www.legislation.gov.uk/ukpga/2002/9/schedule/19) and 22 to the [Localism Act 2011 (c.20)](https://www.legislation.gov.uk/ukpga/2011/20), [section 100](https://www.legislation.gov.uk/ukpga/2011/20/section/100) of, and Schedule 11 to, the Anti-social [Behaviour, Crime and Policing Act 2014 (c.12)](https://www.legislation.gov.uk/ukpga/2014/12), the Abolition of the Right to Buy and Associated Rights (Wales) Act 2018 (anaw 1), [S.I](https://www.legislation.gov.uk/ukpga/2014/12/section/I). 1996/2325 and [S.I. 2010/866](https://www.legislation.gov.uk/uksi/2010/866). There are other amendments which are not relevant.
+
+[^c23434621]: Marginal citation: [1987 c.26](https://www.legislation.gov.uk/ukpga/1987/26). Sections 61 to 84 were amended by sections 3 and 65 of, and Schedules 2, 8, 9 and 10 to, the [Housing (Scotland) Act 1988 (c.43)](https://www.legislation.gov.uk/ukpga/1988/43), [sections 168](https://www.legislation.gov.uk/ukpga/1988/43/section/168) and 176 of, and Schedules 11 and 12 to, the [Local Government and Housing Act 1989 (c.42)](https://www.legislation.gov.uk/ukpga/1989/42), [sections 144](https://www.legislation.gov.uk/ukpga/1989/42/section/144), [145](https://www.legislation.gov.uk/ukpga/1989/42/section/145), [157](https://www.legislation.gov.uk/ukpga/1989/42/section/157) of, and Schedule 22 to, the [Leasehold Reform, Housing and Urban Development Act 1993 (c.28)](https://www.legislation.gov.uk/ukpga/1993/28), [Schedules 13](https://www.legislation.gov.uk/ukpga/1993/28/schedule/13) and 14 to the [Local Government etc. (Scotland) Act 1994 (c.39)](https://www.legislation.gov.uk/ukpga/1994/39), [Schedule 2](https://www.legislation.gov.uk/ukpga/1994/39/schedule/2) to the [Planning (Consequential Provisions) (Scotland) Act 1997 (c.11)](https://www.legislation.gov.uk/ukpga/1997/11), [Schedule 18](https://www.legislation.gov.uk/ukpga/1997/11/schedule/18) to the [Government of Wales Act 1998 (c.38)](https://www.legislation.gov.uk/ukpga/1998/38), [sections 42 to 49](https://www.legislation.gov.uk/ukpga/1998/38/section/42), [51](https://www.legislation.gov.uk/ukpga/1998/38/section/51) and 108 of, and Schedule 10 to, the [Housing (Scotland) Act 2001 (asp 10)](https://www.legislation.gov.uk/asp/2001/10), [Schedule 7](https://www.legislation.gov.uk/asp/2001/10/schedule/7) to the [Water Industry (Scotland) Act 2002 (asp 3)](https://www.legislation.gov.uk/asp/2002/3), [sections 140 to 144](https://www.legislation.gov.uk/asp/2002/3/section/140) of the [Housing (Scotland) Act 2010 (asp 17)](https://www.legislation.gov.uk/asp/2010/17), [section 113](https://www.legislation.gov.uk/asp/2010/17/section/113) of the [Housing (Scotland) Act 2006 (asp 1)](https://www.legislation.gov.uk/asp/2006/1) and [S.I. 2000/2040](https://www.legislation.gov.uk/uksi/2000/2040). Sections 61 to 81 and 84 are repealed by section 1 of the [Housing (Scotland) Act 2014 (asp 14)](https://www.legislation.gov.uk/asp/2014/14), subject to savings made by [S.S.I. 2014/264](https://www.legislation.gov.uk/ssi/2014/264).
+
+[^c23434631]: Marginal citation: [Section 84A](https://www.legislation.gov.uk/uksi/2018/1183/section/84A) was inserted by section 178 of the [Local Government and Housing Act 1989 (c.42)](https://www.legislation.gov.uk/ukpga/1989/42). It was amended by paragraph 13 of Schedule 10 to the Housing (Scotland) Act 2001. Section 84A is repealed by section 1 of the Housing (Scotland) Act 2014, subject to savings made by [S.S.I. 2014/264](https://www.legislation.gov.uk/ssi/2014/264).
+
+[^c23434641]: Marginal citation: [Section 1](https://www.legislation.gov.uk/uksi/2018/1183/section/1) was amended by Schedule 8 to the [Local Government (Wales) Act 1994 (c.19)](https://www.legislation.gov.uk/ukpga/1994/19).
+
+[^c23434651]: Marginal citation: [Section 5](https://www.legislation.gov.uk/uksi/2018/1183/section/5) was amended by [S.I. 1996/2325](https://www.legislation.gov.uk/uksi/1996/2325), [S.I](https://www.legislation.gov.uk/uksi/1996/2325/section/I). 2010/866 and Schedule 4 to the Co-operative and [Community Benefit Societies Act 2014 (c.14)](https://www.legislation.gov.uk/ukpga/2014/14).
+
+[^c23434661]: Marginal citation: [2011 c.25](https://www.legislation.gov.uk/ukpga/2011/25).
+
+[^c23434671]: Marginal citation: [2010 asp 17](https://www.legislation.gov.uk/asp/2010/17). There are amendments to section 165 which are not relevant.
+
+[^c23434681]: Marginal citation: [Section 80(1)](https://www.legislation.gov.uk/uksi/2018/1183/section/80/1) was amended by section 83 of, and Schedule 18 to, the [Housing Act 1988 (c.50)](https://www.legislation.gov.uk/ukpga/1988/50), [Schedules 16](https://www.legislation.gov.uk/ukpga/1988/50/schedule/16) and 18 to the [Government of Wales Act 1998 (c.38)](https://www.legislation.gov.uk/ukpga/1998/38), [Schedules 19](https://www.legislation.gov.uk/ukpga/1998/38/schedule/19) and 22 to the [Localism Act 2011 (c.20)](https://www.legislation.gov.uk/ukpga/2011/20), [S.I](https://www.legislation.gov.uk/ukpga/2011/20/section/I). 2008/3002 and [S.I. 2010/866](https://www.legislation.gov.uk/uksi/2010/866).
+
+[^c23434691]: Marginal citation: [1996 c.52](https://www.legislation.gov.uk/ukpga/1996/52). Chapter 1 of Part 1 was amended by Schedules 16 and 18 to the Government of Wales Act 1998, Schedule 8 to the [Charities Act 2006 (c.50)](https://www.legislation.gov.uk/ukpga/2006/50), [section 61](https://www.legislation.gov.uk/ukpga/2006/50/section/61) of, and Schedule 16 to, the [Housing and Regeneration Act 2008 (c.17)](https://www.legislation.gov.uk/ukpga/2008/17), [Schedule 4](https://www.legislation.gov.uk/ukpga/2008/17/schedule/4) to the Co-operative and [Community Benefit Societies Act 2014 (c.14)](https://www.legislation.gov.uk/ukpga/2014/14), [S.I](https://www.legislation.gov.uk/ukpga/2014/14/section/I). 2009/1941 and [S.I. 2013/496](https://www.legislation.gov.uk/uksi/2013/496). There are other amendments which are not relevant.
+
+[^c23434701]: Marginal citation: [2004 c.32](https://www.legislation.gov.uk/ukpga/2004/32). Section 1 was amended by Schedule 8 to the [Public Service Pensions Act 2013 (c.25)](https://www.legislation.gov.uk/ukpga/2013/25).
+
+[^c23434711]: Marginal citation: See section 64. That section was amended by section 66 of the [Welfare Reform and Pensions Act 1999 (c.30)](https://www.legislation.gov.uk/ukpga/1999/30), [Schedule 1](https://www.legislation.gov.uk/ukpga/1999/30/schedule/1) to the [Pensions Act 2007 (c.22)](https://www.legislation.gov.uk/ukpga/2007/22) and Schedules 9 and 14 to the [Welfare Reform Act 2012 (c.5)](https://www.legislation.gov.uk/ukpga/2012/5).
+
+[^c23434721]: Marginal citation: See section 70. That section was amended by [S.I. 1994/2556](https://www.legislation.gov.uk/uksi/1994/2556), [S.I](https://www.legislation.gov.uk/uksi/1994/2556/section/I). 2002/1457, [S.I. 2011/2426](https://www.legislation.gov.uk/uksi/2011/2426), [S.I](https://www.legislation.gov.uk/uksi/2011/2426/section/I). 2013/388, [S.I. 2013/796](https://www.legislation.gov.uk/uksi/2013/796) and [S.I. 2015/1754](https://www.legislation.gov.uk/uksi/2015/1754).
+
+[^c23434731]: Marginal citation: See sections 141 and 145A. Section 141 was amended by section 1 of the [Child Benefit Act 2005 (c.6)](https://www.legislation.gov.uk/ukpga/2005/6). Section 145A was inserted by section 55 of the [Tax Credits Act 2002 (c.21)](https://www.legislation.gov.uk/ukpga/2002/21) and was amended by Schedule 24 to the [Civil Partnership Act 2004 (c.33)](https://www.legislation.gov.uk/ukpga/2004/33) and Schedule 1 to the Child Benefit Act 2005.
+
+[^c23434741]: Marginal citation: [2002 c.21](https://www.legislation.gov.uk/ukpga/2002/21). Section 8 is prospectively repealed by Schedule 14 to the Welfare Reform Act 2012.
+
+[^c23434751]: Marginal citation: [S.I. 1983/686](https://www.legislation.gov.uk/uksi/1983/686). Article 14 was substituted by [S.I. 2001/420](https://www.legislation.gov.uk/uksi/2001/420).
+
+[^c23434761]: Marginal citation: [S.I. 2006/606](https://www.legislation.gov.uk/uksi/2006/606). Article 8 was amended by [S.I. 2006/1455](https://www.legislation.gov.uk/uksi/2006/1455) and [S.I. 2009/706](https://www.legislation.gov.uk/uksi/2009/706).
+
+[^c23434771]: Marginal citation: See section 71. That section was amended by section 67 of the Welfare Reform and Pensions Act 1999. Disability living allowance under Part 3 of the 1992 Act is prospectively repealed by section 90 of the Welfare Reform Act 2012.
+
+[^c23434781]: Marginal citation: [2002 c.16](https://www.legislation.gov.uk/ukpga/2002/16). Section 2 was amended by Schedule 24 to the Civil Partnership Act 2004.
+
+[^c23434791]: Marginal citation: [2007 c.5](https://www.legislation.gov.uk/ukpga/2007/5). Section 1 was amended by sections 50, 52 and 53 of the Welfare Reform Act 2012. It was also amended by section 54 of, and Schedules 3 and 14 to, the Welfare Reform Act 2012 and these amendments have been brought into force for certain purposes. It is prospectively amended by section 62 of the Welfare Reform Act 2012.
+
+[^c23434801]: Marginal citation: [1995 c.18](https://www.legislation.gov.uk/ukpga/1995/18). Section 1 was amended by Schedules 7 and 13 to the Welfare Reform and Pensions Act 1999, Schedule 24 to the Civil Partnership Act 2004 and Schedule 3 to the [Welfare Reform Act 2007 (c.5)](https://www.legislation.gov.uk/ukpga/2007/5). It was also amended by sections 44 and 49 of, and Schedule 14 to, the Welfare Reform Act 2012 and these amendments have been brought into force for certain purposes. It is prospectively amended by section 61 of the Welfare Reform Act 2012.
+
+[^c23434811]: Marginal citation: See section 124. That section was amended by Schedules 2 and 3 to the Jobseekers Act 1995, Schedule 8 to the Welfare Reform and Pensions Act 1999, Schedules 2 and 3 to the State Pension Credit Act 2002, Schedule 24 to the Civil Partnership Act 2004, Schedules 3 and 8 to the Welfare Reform Act 2007, section 3 of the [Welfare Reform Act 2009 (c.24)](https://www.legislation.gov.uk/ukpga/2009/24) and section 59 of the Welfare Reform Act 2012. Part 7 is prospectively repealed by Schedule 14 to the Welfare Reform Act 2012.
+
+[^c23434821]: Marginal citation: See section 94(2)(a).
+
+[^c23434831]: Marginal citation: [2012 c.5](https://www.legislation.gov.uk/ukpga/2012/5). See section 77.
+
+[^c23434841]: Marginal citation: See section 68. That section was repealed by section 65 of the Welfare Reform and Pensions Act 1999. [S.I. 2000/2958](https://www.legislation.gov.uk/uksi/2000/2958) made savings relating to those entitled to severe disablement allowance before the repeal was brought into force.
+
+[^c23434851]: Marginal citation: See section 1.
+
+[^c23434861]: Marginal citation: [Section 150(2)](https://www.legislation.gov.uk/uksi/2018/1183/section/150/2) was amended by section 132 of the [Pensions Act 1995 (c.26)](https://www.legislation.gov.uk/ukpga/1995/26) and Schedule 6 to the [Income Tax (Earnings and Pensions) Act 2003 (c.1)](https://www.legislation.gov.uk/ukpga/2003/1). There are other amendments which are not relevant. The mobility supplement defined in that section is known as war pensions mobility supplement.
+
+[^c23434871]: Marginal citation: [Section 10](https://www.legislation.gov.uk/uksi/2018/1183/section/10) is prospectively repealed by Schedule 14 to the Welfare Reform Act 2012.
+
+[^c23434881]: Marginal citation: See section 143. That section was amended by section 72 of the [Child Support, Pensions and Social Security Act 2000 (c.19)](https://www.legislation.gov.uk/ukpga/2000/19), [Schedule 24](https://www.legislation.gov.uk/ukpga/2000/19/schedule/24) to the Civil Partnership Act 2004, Schedules 1 and 2 to the Child Benefit Act 2005, [S.I. 2013/1465](https://www.legislation.gov.uk/uksi/2013/1465) and [S.I. 2016/413](https://www.legislation.gov.uk/uksi/2016/413).
+
+[^c23434891]: Marginal citation: [1992 c.4](https://www.legislation.gov.uk/ukpga/1992/4).
+
+[^c23434901]: Marginal citation: See section 142. That section was amended by section 1 of the Child Benefit Act 2005.
+
+[^key-6bf1f8cfcf9dcbd07c3874de16f9522b]: Textual amendment: Words in Sch. 2 para. 5 substituted (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [Sch. 3 para. 105](https://www.legislation.gov.uk/uksi/2019/1458/schedule/3/paragraph/105)
+
+[^key-381744a9d9d90c7c0e26b2d84c51fdd2]: Textual amendment: Words in Sch. 3 para. 1 substituted (1.1.2020) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2019 (S.I. 2019/1441)](https://www.legislation.gov.uk/uksi/2019/1441), [arts. 1](https://www.legislation.gov.uk/uksi/2019/1441/article/1), [14(a)](https://www.legislation.gov.uk/uksi/2019/1441/article/14/a) (with [art. 15](https://www.legislation.gov.uk/uksi/2019/1441/article/15))
+
+[^key-680c45b4731f1932b75dedfbfa13cf3c]: Textual amendment: Words in Sch. 3 para. 2(b) substituted (1.1.2020) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2019 (S.I. 2019/1441)](https://www.legislation.gov.uk/uksi/2019/1441), [arts. 1](https://www.legislation.gov.uk/uksi/2019/1441/article/1), [14(b)](https://www.legislation.gov.uk/uksi/2019/1441/article/14/b) (with [art. 15](https://www.legislation.gov.uk/uksi/2019/1441/article/15))

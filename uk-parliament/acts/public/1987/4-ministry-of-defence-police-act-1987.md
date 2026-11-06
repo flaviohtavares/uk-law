@@ -1,0 +1,698 @@
+---
+title: Ministry of Defence Police Act 1987
+id: ukpga/1987/4
+type: UnitedKingdomPublicGeneralAct
+category: primary
+status: revised-with-pending-changes
+made_date: '1987-03-05'
+text_date: '2026-09-29'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/1987/4
+pdf_urls:
+- http://www.legislation.gov.uk/ukpga/1987/4/pdfs/ukpga_19870004_en.pdf
+- http://www.legislation.gov.uk/ukpga/1987/4/data.pdf
+pending_changes: 3
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Ministry of Defence Police Act 1987
+
+> **Warning: changes not yet applied to this text (3).** Text as at 2026-09-29. See https://www.legislation.gov.uk/changes/affected/ukpga/1987/4
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+Ministry of Defence Police Act 1987
+
+1987 c. 4
+
+An Act to make fresh provision for the Ministry of Defence Police.
+
+\[5th March 1987\] [^c379184]
+
+Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
+
+## 1. The Ministry of Defence Police.
+
+(1) There shall be a police force to be known as the Ministry of Defence Police and consisting—
+
+- (a) of persons nominated by the Secretary of State; and
+- (b) of persons who at the coming into force of this Act are special constables by virtue of appointment under section 3 of the Special Constables Act [^c379193] 1923 on the nomination of the Defence Council.
+
+(2) A person nominated under subsection (1) above shall—
+
+- (a) in England and Wales be attested as a constable by making the declaration required of a member of a police force maintained under the Police Act 1996[^c379194] before a justice of the peace;
+- (b) in Scotland make the declaration required of a constable of the Police Service of Scotland by section 10 of the Police and Fire Reform (Scotland) Act 2012 before a sheriff or justice of the peace[^key-3a6e5776a5c4ae4b895ad7aeef625f87]; and
+- (c) in Northern Ireland be attested as a constable by making the declaration[^c379196] required of a member of the Royal Ulster Constabulary before a justice of the peace.
+
+(3) The Secretary of State shall appoint a chief constable for the Ministry of Defence Police, and they shall operate under the chief constable’s direction and control.
+
+(4) The Secretary of State shall have power—
+
+- (a) to suspend a member of the Ministry of Defence Police from duty; and
+- (b) to terminate a person’s membership.
+
+(5)[^key-73d666811ca50ebd949d7b786331d771] The Secretary of State shall appoint a committee, to be known as the Ministry of Defence Police Committee—
+
+- (a) to advise him with respect to such matters concerning the Ministry of Defence Police as he may from time to time require; and
+- (b) to exercise such other functions as may be conferred on it by or under this Act;
+
+and the Secretary of State may make regulations concerning the membership and the procedure of the Committee.
+
+(6) The power to make regulations conferred by subsection (5) above shall be exercisable by statutory instrument which shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+## 2. Jurisdiction.[^key-3d5776bee9798abde2cd3847d59367c5]
+
+(1) In any place in the United Kingdom to which subsection (2) below for the time being applies, members of the Ministry of Defence Police shall have the powers and privileges of constables.
+
+(2)[^c379222] The places to which this subsection applies are—
+
+- (a) land, vehicles, vessels, aircraft and hovercraft in the possession, under the control or used for the purposes of—
+  - (i) the Secretary of State for Defence;
+  - (ii) the Defence Council;
+  - (iii) a headquarters or defence organisation; or
+  - (iv) the service authorities of a visiting force;
+- (b) land, vehicles, vessels, aircraft and hovercraft which are—
+  - (i) in the possession, under the control or used for the purposes of an ordnance company; and
+  - (ii) used for the purpose of, or for purposes which include, the making or development of ordnance or otherwise for naval, military or air force purposes;
+- (c) land, vehicles, vessels, aircraft and hovercraft which are—
+  - (i) in the possession, under the control or used for the purposes of a dockyard contractor; and
+  - (ii) used for the purpose of, or for purposes which include, providing designated services or otherwise for naval, military or air force purposes;
+- (d)[^c379223] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e) land where the Secretary of State has agreed to provide the services of the Ministry of Defence Police under an agreement notice of which has been published in the appropriate Gazette.
+
+(3)[^c379224] [^c379225]Members of the Ministry of Defence Police shall also have the powers and privileges of constables in any place in the United Kingdom to which subsection (2) above does not for the time being apply . . .—
+
+- (a) in relation to Crown property, international defence property, ordnance property and dockyard property;
+- (b) in relation to persons—
+  - (i) subject to the control of the Defence Council;
+  - (ii) employed under or for the purposes of the Ministry of Defence or the Defence Council; or
+  - (iii) in respect of whom the service courts and service authorities of any country may exercise powers by virtue of section 2 of the Visiting Forces Act [^c379226] 1952;
+- (ba)[^key-2655eb5b4bedb015e47abbdd24e60054][^c379227] in connection with offences against persons within paragraph (b) above, with the incitement of such persons to commit offences and with offences under the Bribery Act 2010[^key-495e91fb639155fef9203291b7ea0451] in relation to such persons;
+- (c) in relation to matters connected with anything done under a contract entered into by the Secretary of State for Defence for the purposes of his Department or the Defence Council; and
+- (d) for the purpose of securing the unimpeded passage of any such property as is mentioned in paragraph (a) above.
+
+(3A)[^c379228] Where a member of the Ministry of Defence Police has been requested by a constable of—
+
+- (a) the police force for any police area;
+- (aa)[^key-71e79aeef287211d0462014819330674] the Police Service of Scotland;
+- (b) the Police Service of Northern Ireland;
+- (c) the British Transport Police Force; or
+- (d)[^key-c18bad0055465ae5c3a409fca5f7d488] the Civil Nuclear Constabulary,
+
+to assist him in the execution of his duties in relation to a particular incident, investigation or operation, members of the Ministry of Defence Police shall have the powers and privileges of constables for the purposes of that incident, investigation or operation but subject to subsection (3B) below.
+
+(3B) Members of the Ministry of Defence Police have the powers and privileges of constables for the purposes of an incident, investigation or operation by virtue of subsection (3A) above—
+
+- (a) if the request was made under paragraph (a) of that subsection by a constable of the police force for a police area, only in that police area;
+- (aa)[^key-867cacecbe3839d7f035f287bcd246ed] if it was made under paragraph (aa) of that subsection, only in Scotland;
+- (b) if it was made under paragraph (b) of that subsection, only in Northern Ireland;
+- (c) if it was made under paragraph (c) of that subsection, only to the extent that those powers and privileges would in the circumstances be exercisable for those purposes by a constable of the British Transport Police Force by virtue of subsection (1A) or, in Scotland, subsection (4) of section 53 of the British Transport Commission Act 1949 (c. xxix); or
+- (d) if it was made under paragraph (d) of that subsection, only to the extent that those powers and privileges would in the circumstances be exercisable for those purposes by a constable of the Civil Nuclear Constabulary[^key-19d59591bd40a696459fc59fa2ee664d].
+
+(3C) Members of the Ministry of Defence Police shall have in any police area the same powers and privileges as constables of the police force for that police area,in Scotland the same powers and privileges as constables of the Police Service of Scotland,[^key-642f4ad196c16ba412a7ea5405a6f7fc] and in Northern Ireland the same powers and privileges as constables of the Police Service of Northern Ireland,—
+
+- (a) in relation to persons whom they suspect on reasonable grounds of having committed, being in the course of committing or being about to commit an offence; or
+- (b) if they believe on reasonable grounds that they need those powers and privileges in order to save life or to prevent or minimise personal injury.
+
+(3D) But members of the Ministry of Defence Police have powers and privileges by virtue of subsection (3C) above only if—
+
+- (a) they are in uniform or have with them documentary evidence that they are members of the Ministry of Defence Police; and
+- (b) they believe on reasonable grounds that a power of a constable which they would not have apart from that subsection ought to be exercised and that, if it cannot be exercised until they secure the attendance of or a request under subsection (3A) above by a constable who has it, the purpose for which they believe it ought to be exercised will be frustrated or seriously prejudiced.
+
+(4) Subsections (1) to (3D)[^c379229] above shall have effect in the territorial waters adjacent to the United Kingdom [^c379230]. . ., but as if the references in those subsections[^c379231] to the powers and privileges of constables were references to the powers and privileges of constables in the nearest part of the United Kingdom.
+
+(5) In this section—
+
+- “**appropriate Gazette**” means—
+  - (i) in relation to land in England or Wales, the London Gazette;
+  - (ii) in relation to land in Scotland, the Edinburgh Gazette, and
+  - (iii) in relation to land in Northern Ireland, the Belfast Gazette;
+- “[^c379232][^M_F_5e45a38c-cc9f-4fca-872b-9b732e83d3ab] **British Transport Police Force *(affected by repeal, see note)*[^M_F_5e45a38c-cc9f-4fca-872b-9b732e83d3ab]** ” means the constables appointed under section 53 of the British Transport Commission Act 1949 (c. xxix); *(affected by repeal, see note)*[^M_F_5e45a38c-cc9f-4fca-872b-9b732e83d3ab]
+- “**Crown property**” includes property in the possession or under the control of the Crown and property which has been unlawfully removed from its possession or control;
+- “**designated services**” means services designated under subsection (1) of section 1 of the Dockyard Services Act [^c379233] 1986;
+- “**dockyard contractor**” means a company which is a dockyard contractor as defined by subsection (13) of that section;
+- “**dockyard property**” means property which—
+- (a) belongs to a dockyard contractor, is in its possession or under its control or has been unlawfully removed from its possession or control; and
+- (b) is (or was immediately before its removal) used to any extent for the purpose of providing designated services or otherwise for naval, military or air force purposes;
+  - “**headquarters**”, “**defence organisation**” and “**visiting force**” mean respectively a headquarters, defence organisation or visiting force to which the Visiting Forces and International Headquarters (Application of Law) Order [^c379234] 1965, or any order replacing that Order, applies;
+  - “**international defence property**” means property which belongs to, is in the possession or under the control of or has been unlawfully removed from the possession or control of a headquarters, a defence organisation or the service authorities of a visiting force;
+  - “**ordnance company**” means a company in which there is for the time being vested any property, right or liability which has at some time been the subject of a transfer by virtue of a provision made under section 1(1)(a) of the Ordnance Factories and Military Services Act [^c379235] 1984;
+  - “**ordnance property**” means property which—
+- (a) belongs to an ordnance company, is in its possession or under its control or has been unlawfully removed from its possession or control; and
+- (b) is (or was immediately before its removal) used to any extent for the purpose of, or for purposes including, the making or development of ordnance or otherwise for naval, military or air force purposes;
+  - “**service authorities**” means naval, military or air force authorities;
+  - [^key-f75ea4441b80bdae0808f35bfc3f7a30]...
+  - “**vessel**” includes any ship or boat or any other description of vessel used in navigation.
+
+## 2A. Provision of assistance to other forces[^key-e70264ecaa573b9ca7e8e2cdda91e9ad][^c379186]
+
+(1) The Chief Constable of the Ministry of Defence Police may, on the application of the chief officer of any relevant force, provide constables or other assistance for the purpose of enabling that force to meet any special demand on its resources.
+
+(2) Where a member of the Ministry of Defence Police is provided for the assistance of a relevant force under this section—
+
+- (a) he shall be under the direction and control of the chief officer of that force; and
+- (b) he shall have the same powers and privileges as a member of that force.
+
+(3) Constables are not to be regarded as provided for the assistance of a relevant force under this section in a case where assistance is provided under section 2 above.
+
+(4) In this section—
+
+- “[^M_F_b7adedcc-c7c2-4ff3-a373-b217a7a9f9d7] **British Transport Police Force *(affected by repeal, see note)*[^M_F_b7adedcc-c7c2-4ff3-a373-b217a7a9f9d7]** ” has the same meaning as in section 2 above; *(affected by repeal, see note)*[^M_F_b7adedcc-c7c2-4ff3-a373-b217a7a9f9d7]
+- “ **chief officer** ” means—
+  - (a) the chief officer of the police force for any police area;
+  - (aa) the chief constable of the Police Service of Scotland;[^key-3fe928eb2a606f1fbfce18b72bde928c]
+  - (b) the Chief Constable of the Police Service of Northern Ireland;
+  - (c) the Chief Constable of the British Transport Police Force; or
+  - (d) the Chief Constable of the Civil Nuclear Constabulary[^key-64af166e06aa2ac5440796e58f471c98];
+- “ **relevant force** ” means—
+  - (a) the police force for any police area;
+  - (aa) the Police Service of Scotland;[^key-cb0634310d52bf1b03e08f9e1687a845]
+  - (b) the Police Service of Northern Ireland;
+  - (c) the British Transport Police Force; or
+  - (d) the Civil Nuclear Constabulary.[^key-d8ed535608c7910a3b5ce78062ce3f57] [^key-033f69ffd0929adc2748f03fd8784b01] ...
+- [^key-033f69ffd0929adc2748f03fd8784b01]...
+
+## 2B. Constables serving with other forces[^key-e6cd553570646ea90b689f8cbd1c4922][^c440122]
+
+(1) This section applies where a member of the Ministry of Defence Police serves with a relevant force under arrangements made between the chief officer of that force and the chief constable of the Ministry of Defence Police.
+
+(2) The member of the Ministry of Defence Police—
+
+- (a) shall be under the direction and control of the chief officer of the relevant force; and
+- (b) shall have the same powers and privileges as a member of that force.
+
+(3) In this section—
+
+- “[^M_F_2c2afdf0-d6dd-4f00-c940-e6359c4f0982] **British Transport Police Force *(affected by repeal, see note)*[^M_F_2c2afdf0-d6dd-4f00-c940-e6359c4f0982]** ” has the same meaning as in section 2 above; *(affected by repeal, see note)*[^M_F_2c2afdf0-d6dd-4f00-c940-e6359c4f0982]
+- “ **chief officer** ” means—
+  - (a) any chief officer of police of a police force for a police area in England and Wales[^key-3caad30d76b7fbf848d9ab7dd9d72948];
+  - (aa) the chief constable of the Police Service of Scotland;[^key-5c240c7b70db332ade0e9c7fec79cc5c]
+  - (b) the chief constable of the Police Service of Northern Ireland;
+  - (c) the Director General of the National Criminal Intelligence Service; *(Extent: E+W)* *(affected by repeal, see note)*[^key-6b7bd96a080c98ed52037a3d35b34594]
+  - (d) the Director General of the National Crime Squad; *(Extent: E+W)* *(affected by repeal, see note)*[^key-6b7bd96a080c98ed52037a3d35b34594]
+  - (e) the chief constable of the British Transport Police Force; or
+  - (f) the chief constable of the Civil Nuclear Constabulary[^key-9e79d67e40e4c3dd848f160b04f08434];
+- “ **relevant force** ” means—
+  - (a) any police force for a police area in England and Wales[^key-fe7af1d3f8908a0e4ee917cf027690bd];
+  - (aa) the Police Service of Scotland;[^key-53367d78a2edc57596d174398038bd7e]
+  - (b) the Police Service of Northern Ireland;
+  - (c) the National Criminal Intelligence Service; *(Extent: E+W)* *(affected by repeal, see note)*[^key-6b7bd96a080c98ed52037a3d35b34594]
+  - (d) the National Crime Squad; *(Extent: E+W)* *(affected by repeal, see note)*[^key-6b7bd96a080c98ed52037a3d35b34594]
+  - (e) the British Transport Police Force; or
+  - (f) the Civil Nuclear Constabulary.[^key-866738e6c093629f8fefefe195f6560d]
+- [^key-064523a6fd12e6267563809796cd98ff]... **[^key-064523a6fd12e6267563809796cd98ff] ...** [^key-064523a6fd12e6267563809796cd98ff]...
+
+## 2C. Constables serving with National Crime Agency[^key-2c42fe1edc3cca7a95171fc564543163][^key-523fb1668764f762631a6e23c153e968]
+
+(1) A member of the Ministry of Defence Police serving with the National Crime Agency[^key-121341aa7a1299d41ec1d8c4b7a585b6] under arrangements to which subsection (2) applies shall—
+
+- (a) be under the direction and control of the Director General of the National Crime Agency[^key-cfb2c6a34c7eb32d8965f36ac3c9f66b], and
+- (b) continue to be a constable.
+
+(2) This subsection applies to arrangements made between—
+
+- (a) the Director General of the National Crime Agency[^key-bf0e914bfe1e8152f32a63a7315b76de], and
+- (b) the chief constable of the Ministry of Defence Police.
+
+## 2D. Exercise of powers and privileges in Scotland[^key-bdb48dd1bea74be11b097dea7c065236]
+
+(1) Where a member of the Ministry of Defence Police exercises in Scotland any power or privilege of a constable, Parts 1 and 2 of the Criminal Justice (Scotland) Act 2016 (in this section “the 2016 Act”) apply in relation to the exercise as though the power or privilege were exercised by a constable of the Police Service of Scotland.
+
+(2) For the purposes of subsection (1)—
+
+- (a) in section 64 of the 2016 Act (police custody), references to a person arrested by a constable are to be read as including a person arrested by a member of the Ministry of Defence Police,
+- (b) section 69 of the 2016 Act (publication of information by police) does not apply.
+
+## 2E. Exercise of functions in relation to children under the Scottish age of criminal responsibility[^key-3bf6668ef0c2e5475f25987d0e02580a]
+
+(1) The following apply, in Scotland, in relation to a member of the Ministry of Defence Police as they apply in relation to a constable of the Police Service of Scotland—
+
+- (a) Part 4 of the Age of Criminal Responsibility (Scotland) Act 2019 (in this section, “the 2019 Act”),
+- (b) any regulations made or guidance issued under that Part.
+
+(2) Subsections (3) to (6) make further provision in relation to the application of Part 4 of the 2019 Act to members of the Ministry of Defence Police.
+
+(3) References in Part 4 of the 2019 Act (however expressed) to constables of a particular rank are to be read, in relation to action taken or proposed to be taken by a member of the Ministry of Defence Police, as references to a member of the Ministry of Defence Police of the rank referred to.
+
+(4) References in the following sections of the 2019 Act to the chief constable are to be read as including reference to the chief constable of the Ministry of Defence Police—
+
+- (a) section 29(2)(a),
+- (b) section 31(3)(a) and (5)(a),
+- (c) section 57(4)(a).
+
+(5) The reference in section 33(1) of the 2019 Act to an enactment includes reference to an enactment which confers a power of the type described in that section on members of the Ministry of Defence Police (whether or not the enactment also confers that power on constables of the Police Service of Scotland).
+
+(6) The reference in section 75(2) of the 2019 Act to a constable is to be read as including reference to a member of the Ministry of Defence Police.
+
+## 3. Defence Police Federation.
+
+(1) There shall continue to be a Defence Police Federation.
+
+(2) The Federation shall represent members of the Ministry of Defence Police in all matters affecting their welfare and efficiency, other than questions of discipline affecting individuals, except as provided by subsection (3) below, and questions of promotion affecting individuals.
+
+(3) The Federation may represent a member of the Ministry of Defence Police at any disciplinary proceedings or on an appeal from any such proceedings.
+
+(4) Except as provided in regulations made under[^key-bfd56902f930b4ac743af0a7f38e39f9] section 4 below, a member of the Ministry of Defence Police may only be represented under subsection (3) above by another member of that force.
+
+(5) The Federation shall act through branches and regional and national committees; and the Federation and every branch and committee thereof shall be entirely independent of and unassociated with, any body or person outside the police service, but may employ persons outside the police service in an administrative or advisory capacity.
+
+(6) The Secretary of State may, after consultation with the management committee of the Federation, by regulations prescribe the constitution and proceedings of the Federation or authorise the Federation to make rules concerning such matters relating to their constitution and proceedings as may be specified in the regulations and, without prejudice to the generality of that power, regulations under this subsection may make provision—
+
+- (a) with respect to the membership of the Federation;
+- (b) with respect to the raising of funds by the Federation by subscription and the use and management of funds derived from subscription; and
+- (c) with respect to the manner in which representations may be made by the Federation to the Ministry of Defence Police Committee and the Secretary of State.
+
+(7) The power to make regulations conferred by this section shall be exercisable by statutory instrument which shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+## 3A. Regulations relating to disciplinary matters[^key-8f44131f5fe6b6d6a8d02f28d0cac76b]
+
+(1)[^key-6083c3f253e9f28f28f351a8f1c1b1c6] The Secretary of State may make regulations with respect to—
+
+- (a) the conduct, efficiency and effectiveness[^key-e3d2457b452e91c54766af395e813f54] of members of the Ministry of Defence Police and the maintenance of discipline;
+- (b) the suspension from duty of members of the Ministry of Defence Police.
+
+(1A) Without prejudice to the powers conferred by subsection (1), regulations under this section shall—
+
+- (a) establish, or
+- (b) make provision for the establishment of,
+
+procedures for the taking of disciplinary proceedings in respect of the conduct, efficiency and effectiveness[^key-c983065815919f07bfbcbf56f0be6140] of members of the Ministry of Defence Police, including procedures for cases in which such persons may be dealt with by dismissal.
+
+(1B)[^key-ce1755867780379636eb89bae0524424] Regulations under this section may provide for the procedures that are established by or under regulations made by virtue of subsection (1A) to apply (with or without modifications) in respect of the conduct, efficiency or effectiveness of any person where—
+
+- (a) an allegation relating to the conduct, efficiency or effectiveness of the person comes to the attention of the chief constable of the Ministry of Defence Police, the Ministry of Defence Police Committee, the Director General of the Independent Office for Police Conduct[^key-a33a2cffc5609db2f50283f43810a7d5], the Police Investigations and Review Commissioner or the Police Ombudsman for Northern Ireland,
+- (b) at the time of the alleged misconduct, inefficiency or ineffectiveness the person was a member of the Ministry of Defence Police, and
+- (c) condition A, B or C is satisfied in relation to the person.
+
+(1C) Condition A is that the person ceases to be a member of the Ministry of Defence Police after the allegation first comes to the attention of a person mentioned in subsection (1B)(a).
+
+(1D) Condition B is that the person had ceased to be a member of the Ministry of Defence Police before the allegation first came to the attention of a person mentioned in subsection (1B)(a) but the period between the person having ceased to be a member of the Ministry of Defence Police and the allegation first coming to the attention of a person mentioned in subsection (1B)(a) does not exceed the period specified in regulations under this section.
+
+(1E) Condition C is that—
+
+- (a) the person had ceased to be a member of the Ministry of Defence Police before the allegation first came to the attention of a person mentioned in subsection (1B)(a),
+- (b) the period between the person having ceased to be a member of the Ministry of Defence Police and the allegation first coming to the attention of a person mentioned in subsection (1B)(a) exceeds the period specified for the purposes of condition B, and
+- (c) the alleged misconduct, inefficiency or ineffectiveness is such that, if proved, the person could have been dealt with by dismissal if the person had still been a member of the Ministry of Defence Police.
+
+(1F) Regulations made by virtue of subsection (1B) as they apply in a case where condition C is satisfied in relation to a person must provide that disciplinary proceedings may be taken against the person in respect of the alleged misconduct, inefficiency or ineffectiveness only if the Director General of the Independent Office for Police Conduct[^key-c2a17723f076e9d1208f2a3c38378e4e] determines that taking such proceedings would be reasonable and proportionate having regard to—
+
+- (a) the seriousness of the alleged misconduct, inefficiency or ineffectiveness,
+- (b) the impact of the allegation on public confidence in the police, and
+- (c) the public interest.
+
+(1G) Regulations made by virtue of subsection (1B) may make provision about matters to be taken into account by the Director General of the Independent Office for Police Conduct[^key-c6ec361cca702a29e8ee040a9f9b252e] for the purposes of subsection (1F)(a) to (c).
+
+(1H) Regulations made by virtue of subsection (1B) must provide that disciplinary proceedings which are not the first disciplinary proceedings to be taken against the person in respect of the alleged misconduct, inefficiency or ineffectiveness may be taken only if they result from a re-investigation of the allegation (whether carried out under regulations under this section or by virtue of section 26 of the Police Reform Act 2002) that begins within the period specified in the regulations.
+
+The period specified must begin with the date when the person ceased to be a member of the Ministry of Defence Police.
+
+(2)[^key-3c82be18145ab44a5593d59234d51be7] Regulations under this section[^key-8d5491d234fbfa1875377703db822b85] may provide for decisions which would otherwise fall to be taken by the Secretary of State or the chief constable of the Ministry of Defence Police to be taken instead by—
+
+- (a) a person appointed in accordance with the regulations; or
+- (b) the Ministry of Defence Police Committee.
+
+(3) In relation to any matter as to which provision may be made by regulations under this section, the regulations may—
+
+- (a) authorise or require provision to be made by, or confer discretionary powers on, the Secretary of State, the Ministry of Defence Police Committee, the chief constable of the Ministry of Defence Police or other persons; or
+- (b) authorise or require the delegation by any person of functions conferred on that person by or under the regulations.
+
+(4) Any statutory instrument containing regulations under this section shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+## 4. Representation etc. at disciplinary proceedings[^key-4bcb835db9bbf002feb017cb8d782732]
+
+(1) The Secretary of State shall by regulations make provision for or in connection with—
+
+- (a) enabling the officer concerned or the relevant authority to be represented in proceedings conducted under regulations made in pursuance of section 3A;
+- (b) enabling the panel conducting such proceedings to receive advice from a relevant lawyer or another person falling within any prescribed description of persons.
+
+(2) Regulations under this section may in particular make provision—
+
+- (a) specifying the circumstances in which the officer concerned or the relevant authority is entitled to be represented by a relevant lawyer;
+- (b) specifying the circumstances in which the officer concerned or the relevant authority is entitled to be represented by a person (other than a relevant lawyer) who falls within any prescribed description of persons;
+- (c) for securing that—
+  - (i) the relevant authority may be legally represented, and
+  - (ii) the panel conducting the proceedings may receive advice from a relevant lawyer,
+
+  whether or not the officer concerned is legally represented.
+
+(3) Without prejudice to the powers conferred by this section, regulations under this section shall, in relation to cases where the officer concerned is entitled to legal or other representation, make provision—
+
+- (a) for securing that the officer is notified of his right to such representation;
+- (b) specifying when the officer is to be so notified;
+- (c) for securing that proceedings at which the officer may be dismissed are not to take place unless the officer has been notified of his right to such representation.
+
+(4) In this section—
+
+- “**the officer concerned**”, in relation to proceedings within subsection (1)(a), means the member or, as the case may be, the former member[^key-03284f28ce7b40e06a3640d4bcbc6fa3] of the Ministry of Defence Police to whom the proceedings relate;
+- “**the panel**”, in relation to proceedings within subsection (1)(a), means the panel of persons, or the person, prescribed for the purpose of conducting the proceedings;
+- “**prescribed**” means prescribed by regulations under this section;
+- “**relevant authority**” means—
+  - (a) where the officer concerned is a member of the Ministry of Defence Police (other than a senior officer), the chief constable for the Ministry of Defence Police;
+  - (aa) where the officer concerned is a former member of the Ministry of Defence Police who immediately before ceasing to be such a member was not a senior officer, the chief constable for the Ministry of Defence Police;[^key-934d6fd2872795233a8dccbacd5ff64a]
+  - (b) where the officer concerned is a senior officer, the Ministry of Defence Police Committee;
+  - (c) where the officer concerned is a former member of the Ministry of Defence Police who immediately before ceasing to be such a member was a senior officer, the Ministry of Defence Police Committee;[^key-65516eff18861c99a53ddae8d8605bed]
+- “**relevant lawyer**” means—
+  - (a) in relation to England and Wales, a person who, for the purposes of the Legal Services Act 2007, is an authorised person in relation to an activity which constitutes the exercise of a right of audience (within the meaning of that Act), and
+  - (b) in relation to Scotland or Northern Ireland, counsel or a solicitor;
+- “**senior officer**” means a member of the Ministry of Defence Police holding a rank above that of chief superintendent.
+
+(5) But in prescribed circumstances “**relevant authority**” also includes—
+
+- (a) in relation to England and Wales, the Independent Office for Police Conduct[^key-1cc62a7f463a54f88c3f9b30b2a19494] ;
+- (b) in relation to Scotland, the Police Complaints Commissioner for Scotland;
+- (c) in relation to Northern Ireland, the Police Ombudsman for Northern Ireland.
+
+(6) A statutory instrument containing regulations under this section shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+(7) Subsection (6) does not apply to a statutory instrument containing (whether alone or with other provision) any regulations under this section coming into force at a time that is the earliest time at which any regulations under this section are to come into force since the commencement of paragraph 15 of Schedule 22 to the Criminal Justice and Immigration Act 2008.
+
+(8) A statutory instrument within subsection (7) may not be made unless a draft of it has been laid before and approved by a resolution of each House of Parliament.
+
+## 4A. Appeals against dismissal etc.[^key-21c6ebeab76a5f61380709a305776a54]
+
+(1) The Secretary of State shall by regulations—
+
+- (a) make provision specifying the cases in which a member, or former member,[^key-41b8904e9914395fc4a987c97c04b8e4] of the Ministry of Defence Police may appeal to a police appeals tribunal;
+- (aa)[^key-1433fcc71d1f975c6fe9299405f1ae9b] make provision enabling the chief constable of the Ministry of Defence Police to appeal to a police appeals tribunal against a decision relating to—
+  - (i) a member of the Ministry of Defence Police other than a senior officer, or
+  - (ii) a former member of the Ministry of Defence Police who immediately before ceasing to be such a member was not a senior officer;
+- (ab) make provision enabling the Secretary of State to appeal to a police appeals tribunal against a decision relating to—
+  - (i) a senior officer of the Ministry of Defence Police, or
+  - (ii) a former member of the Ministry of Defence Police who immediately before ceasing to be such a member was a senior officer;
+- (ac) make provision enabling the Director General of the Independent Office for Police Conduct to appeal to a police appeals tribunal against a decision made in proceedings at which the Director General presented the case;
+- (ad) make provision enabling the Police Ombudsman for Northern Ireland to appeal to a police appeals tribunal against a decision made in proceedings at which the Ombudsman presented the case;
+- (b) make provision equivalent, subject to such modifications as the Secretary of State thinks fit, to that made (or authorised to be made) in relation to police appeals tribunals by any provision of Schedule 6 to the Police Act 1996 (c. 16) or Schedule 3 to the Police and Fire Reform (Scotland) Act 2012[^M_F_074d5f1b-6bee-4359-80a9-06d2ca741b05].
+
+(2) A police appeals tribunal may, on the determination of an appeal under this section, make an order dealing with the person to whom the appeal relates[^key-4bb4d76eff6a1a2f236882eca9342f62] in any way in which he could have been dealt with by the person who made the decision appealed against.
+
+(3) The Secretary of State may make regulations as to the procedure on appeals to police appeals tribunals under this section.
+
+(4) Regulations under this section may, in particular, make provision—
+
+- (a) for enabling a police appeals tribunal, in such circumstances as are specified in the regulations, to determine a case without a hearing;
+- (b) for the appellant or the respondent to be entitled, in a case where there is a hearing, to be represented—
+  - (i) by a relevant lawyer, or
+  - (ii) by a person who falls within any description of persons prescribed by the regulations;
+- (c) for enabling a police appeals tribunal to require any person to attend a hearing to give evidence or to produce documents,
+
+and regulations made in pursuance of paragraph (c) may apply subsections (2) and (3) of section 250 of the Local Government Act 1972 with such modifications as may be set out in the regulations.
+
+(4A)[^key-868ab4c40dfe3b3deacceaffcc696709] Regulations under this section may provide for decisions relating to appeals which would otherwise fall to be taken by the Secretary of State or the chief constable of the Ministry of Defence Police to be taken instead by—
+
+- (a) a person appointed in accordance with the regulations, or
+- (b) the Ministry of Defence Police Committee.
+
+(5) Any statutory instrument containing regulations under this section shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+(6) Subsection (5) does not apply to a statutory instrument containing (whether alone or with other provision) the first regulations made under this section after the commencement of paragraph 16 of Schedule 22 to the Criminal Justice and Immigration Act 2008: such an instrument may not be made unless a draft of it has been laid before and approved by a resolution of each House of Parliament.
+
+(7) In this section—
+
+- “**police appeals tribunal**” means a tribunal constituted in accordance with regulations under this section;
+- “**relevant lawyer**” has the same meaning as in section 4.
+- “[^key-23a7b2354d67d46644f02881244da136]**senior officer**” has the same meaning as in section 4.
+
+## 4B. Functions of inspectors of constabulary[^c1134437]
+
+(1) The inspectors of constabulary shall inspect, and report to the Secretary of State on, the efficiency and effectiveness of the Ministry of Defence Police.
+
+(2) The Secretary of State may at any time require the inspectors of constabulary to carry out an inspection under this section of the Ministry of Defence Police and to report to him on that inspection.
+
+(3) A requirement under subsection (2) may include a requirement for the inspection to be confined to a particular part of the Ministry of Defence Police, to particular matters or to particular activities of the Ministry of Defence Police.
+
+(4) The inspectors of constabulary shall carry out such other duties for the purposes of furthering the efficiency and effectiveness of the Ministry of Defence Police as the Secretary of State may from time to time direct.
+
+(5) Before carrying out any inspection by virtue of subsection (1) in Scotland, the inspectors of constabulary shall consult the Scottish inspectors with respect to the scope and conduct of the proposed inspection.
+
+(6) In this section—
+
+- “ **the inspectors of constabulary** ” means Her Majesty’s Inspectors of Constabulary appointed under section 54 of the Police Act 1996 (c. 16);
+- “ **the Scottish inspectors** ” means the inspectors of constabulary appointed under section 71 of the Police and Fire Reform (Scotland) Act 2012[^key-ccf184d8959e2c59bc2a37afaf4c0f07].
+
+## 4C. Publication of reports[^c1134440]
+
+(1) Subject to subsection (2) below, the Secretary of State shall arrange for any report received by him under section 4B above to be published in such manner as appears to him to be appropriate.
+
+(2) The Secretary of State may exclude from publication under subsection (1) above any part of a report if, in his opinion, the publication of that part—
+
+- (a) would be against the interests of national security; or
+- (b) might jeopardise the safety of any person.
+
+(3) The Secretary of State shall—
+
+- (a) send a copy of the published report to the chief constable of the Ministry of Defence Police; and
+- (b) invite the chief constable to submit comments on the published report to the Secretary of State before such date as the Secretary of State may specify.
+
+(4) The Secretary of State shall arrange for—
+
+- (a) any comments submitted by the chief constable in accordance with subsection (3) above, and
+- (b) any response that the Secretary of State may prepare to the published report or to any comments submitted by the chief constable,
+
+to be published in such manner as he considers appropriate.
+
+## 5. Impersonation etc.
+
+(1) Any person who with intent to deceive impersonates a member of the Ministry of Defence Police, or makes any statement or does any act calculated falsely to suggest that he is such a member, shall be guilty of an offence and liable on summary conviction to imprisonment for a term not exceeding six months or to a fine not exceeding level 5 on the standard scale, or to both.
+
+(2) Any person who, not being a member of the Ministry of Defence Police, wears any article of the uniform of the Ministry of Defence Police in circumstances where it gives him an appearance so nearly resembling that of a member as to be calculated to deceive shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+
+(3) Any person who, not being a member of the Ministry of Defence Police, has in his possession any article of uniform of the Ministry of Defence Police shall, unless he proves that he obtained possession of that article lawfully and has possession of it for a lawful purpose, be guilty of an offence and liable on summary conviction to a fine not exceeding level 1 on the standard scale.
+
+(4) In this section “**article of uniform**” means any article of uniform or any distinctive badge or mark or document of identification usually issued to members of the Ministry of Defence Police, or any thing having the appearance of such an article, badge, mark or document.
+
+## 6. Causing disaffection.
+
+Any person who causes, or attempts to cause, or does any act calculated to cause, disaffection amongst the members of the Ministry of Defence Police, or induces or attempts to induce, or does any act calculated to induce, any member of the Ministry of Defence Police to withhold his services or to commit breaches of discipline, shall be guilty of an offence and liable—
+
+- (a) on summary conviction, to imprisonment for a term not exceeding six months or to a fine not exceeding the statutory maximum, or to both;
+- (b) on conviction on indictment, to imprisonment for a term not exceeding two years or to a fine or to both.
+
+## 6A. Powers to make regulations[^key-97a7322a5b77e0fd43f6a3a25c9a433b]
+
+Any power of the Secretary of State under this Act to make regulations shall include power to make different provision for different purposes.
+
+## 7. Consequential amendments and repeals.
+
+(1) In section 3 of the Special Constables Act 1923—
+
+- (a) in subsection (1)—
+  - (i) for the words “the Defence Council”, there shall be substituted the words “an authority who by virtue of any enactment are authorised to make nominations under this section”; and
+  - (ii) the words from “both” to “Force” shall cease to have effect; and
+- (b) in subsection (2), for the word “department”, in both places where it occurs, there shall be substituted the word “authority”.
+
+(2) In paragraph 1 of Schedule 2 to the Emergency Laws (Miscellaneous Provisions) Act [^c379238] 1947—
+
+- (a) in sub-paragraph (1) there shall cease to have effect—
+  - (i) the words “nominated by the Defence Council”;
+  - (ii) the words “so nominated”;
+  - (iii) the word “other”;
+  - (iv) the words “the Defence Council, the Secretary of State for Defence or”; and
+  - (v) the words “or are for the time being used for or in connection with naval, military or air force purposes”; and
+- (b) in sub-paragraph (2)—
+  - (i) for the words “the Defence Council” there shall be substituted the words “an authority who by virtue of any enactment are authorised to make nominations under section 3 of the Special Constables Act [^c379239] 1923”; and
+  - (ii) there shall cease to have effect the words “the Defence Council, the Secretary of State for Defence or” and the words “or are specified by the Defence Council to be, for the time being, used for or in connection with naval, military or air force purposes”.
+
+(3)[^key-08804acfc6962fdca7e511f440900b58] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) In paragraph 4 of Schedule 1 to the Nuclear Installations Act [^c379241] 1965—
+
+- (a)[^key-bf1d85ded866889dbb69de2d5f47f7b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) sub-paragraph (2) shall cease to have effect.
+
+(5) Section 11 of the Ordnance Factories and Military Services Act [^c379242] 1984 and Schedule 3 to that Act (both of which relate to special constables) shall cease to have effect.
+
+(6) In subsection 3(1) of the Dockyard Services Act [^c379243] 1986, paragraph (a) (application of section 3 of the Special Constables Act 1923 to land in a designated dockyard) shall cease to have effect.
+
+## 8. Short title, commencement and extent.
+
+(1) This Act may be cited as the Ministry of Defence Police Act 1987.
+
+(2) This Act shall come into force at the end of the period of two months beginning with the date on which it is passed.
+
+(3) The provisions of this Act, except section 7(1)(2)(a) and (6), extend to Northern Ireland, and section 7(2)(b) only so extends.
+
+## Annotations
+
+[^c379184]: Commencement: Act not in force at Royal Assent see [s. 8(2)](https://www.legislation.gov.uk/ukpga/1987/4/section/8/2); Act wholly in force at 5.5.1987
+
+[^c379193]: Marginal citation: [1923 c. 11](https://www.legislation.gov.uk/ukpga/1923/11).
+
+[^c379194]: Textual amendment: Words in s. 1(2)(a) substituted (22.8.1996) by [1996 c. 16](https://www.legislation.gov.uk/ukpga/1996/16), [ss. 103(1)](https://www.legislation.gov.uk/ukpga/1996/16/section/103/1), [104(1)](https://www.legislation.gov.uk/ukpga/1996/16/section/104/1), [Sch. 7 Pt. II para. 41](https://www.legislation.gov.uk/ukpga/1996/16/schedule/7/part/II/paragraph/41)
+
+[^key-3a6e5776a5c4ae4b895ad7aeef625f87]: Textual amendment: Words in s. 1(2)(b) substituted (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 2 para. 20(2)](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/20/2)
+
+[^c379196]: Textual amendment: Words in s. 1(2)(c) substituted (9.2.1999) by [1998 c. 32](https://www.legislation.gov.uk/ukpga/1998/32), [s. 74(1)](https://www.legislation.gov.uk/ukpga/1998/32/section/74/1), [Sch. 4 para. 16](https://www.legislation.gov.uk/ukpga/1998/32/schedule/4/paragraph/16); [S.R. 1999/48](https://www.legislation.gov.uk/nisr/1999/48), [art. 3](https://www.legislation.gov.uk/nisr/1999/48/article/3) (with [art. 4](https://www.legislation.gov.uk/nisr/1999/48/article/4))
+
+[^key-73d666811ca50ebd949d7b786331d771]: Textual amendment: S. 1(5) substituted (9.3.2004) by [Police Reform Act 2002 (c. 30)](https://www.legislation.gov.uk/ukpga/2002/30), [ss. 79(3)](https://www.legislation.gov.uk/ukpga/2002/30/section/79/3), [108(2)](https://www.legislation.gov.uk/ukpga/2002/30/section/108/2); [S.I. 2004/636](https://www.legislation.gov.uk/uksi/2004/636), [art. 2](https://www.legislation.gov.uk/uksi/2004/636/article/2)
+
+[^key-3d5776bee9798abde2cd3847d59367c5]: Textual amendment: S. 2 amended (1.7.2004) by [Railways and Transport Safety Act 2003 (c. 20)](https://www.legislation.gov.uk/ukpga/2003/20), [Sch. 5 para. 4](https://www.legislation.gov.uk/ukpga/2003/20/schedule/5/paragraph/4); [S.I. 2004/1572](https://www.legislation.gov.uk/uksi/2004/1572), [art. 3(jjj)](https://www.legislation.gov.uk/uksi/2004/1572/article/3/jjj)
+
+[^c379222]: Modification: S. 2: s. 2(2) extended (25.9.1991) by [Atomic Weapons Establishment Act 1991 (c. 46, SIF 8)](https://www.legislation.gov.uk/ukpga/1991/46), [ss. 1](https://www.legislation.gov.uk/ukpga/1991/46/section/1), [4(1)](https://www.legislation.gov.uk/ukpga/1991/46/section/4/1), [6(2)](https://www.legislation.gov.uk/ukpga/1991/46/section/6/2)
+
+[^c379223]: Textual amendment: S. 2(2)(d) repealed (14.12.2001 for E.W.N.I. and 7.1.2002 for S.) by [2001 c. 24](https://www.legislation.gov.uk/ukpga/2001/24), [ss. 98(2)](https://www.legislation.gov.uk/ukpga/2001/24/section/98/2), [125](https://www.legislation.gov.uk/ukpga/2001/24/section/125), [127(2)(i)(iii)](https://www.legislation.gov.uk/ukpga/2001/24/section/127/2/i/iii), [Sch. 8 Pt. 6](https://www.legislation.gov.uk/ukpga/2001/24/schedule/8/part/6); [S.I. 2001/4104](https://www.legislation.gov.uk/uksi/2001/4104), [art. 2(a)(e)](https://www.legislation.gov.uk/uksi/2001/4104/article/2/a/e)
+
+[^c379224]: Modification: S. 2: s. 2(3) extended (25.9.1991) by [Atomic Weapons Establishment Act 1991 (c. 46, SIF:8)](https://www.legislation.gov.uk/ukpga/1991/46), [ss. 1](https://www.legislation.gov.uk/ukpga/1991/46/section/1), [4(2)](https://www.legislation.gov.uk/ukpga/1991/46/section/4/2), [6(2)](https://www.legislation.gov.uk/ukpga/1991/46/section/6/2)
+
+[^c379225]: Textual amendment: Words in s. 2(3) repealed (14.12.2001 for E.W.N.I. and 7.1.2002 for S.) by [2001 c. 24](https://www.legislation.gov.uk/ukpga/2001/24), [ss. 125](https://www.legislation.gov.uk/ukpga/2001/24/section/125), [127(2)(i)(iii)](https://www.legislation.gov.uk/ukpga/2001/24/section/127/2/i/iii), [Sch. 8 Pt. 6](https://www.legislation.gov.uk/ukpga/2001/24/schedule/8/part/6); [S.I. 2001/4104](https://www.legislation.gov.uk/uksi/2001/4104), [art. 2(e)](https://www.legislation.gov.uk/uksi/2001/4104/article/2/e)
+
+[^c379226]: Marginal citation: [1952 c. 67](https://www.legislation.gov.uk/ukpga/1952/67).
+
+[^key-2655eb5b4bedb015e47abbdd24e60054]: Modification: S. 2(3)(ba) modified (E.W.) (1.10.2008) by [Serious Crime Act 2007 (c. 27)](https://www.legislation.gov.uk/ukpga/2007/27), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2007/27/section/94/1), [Sch. 6 para. 14](https://www.legislation.gov.uk/ukpga/2007/27/schedule/6/paragraph/14) (with [Sch. 13 para. 5](https://www.legislation.gov.uk/ukpga/2007/27/schedule/13/paragraph/5)); [S.I. 2008/2504](https://www.legislation.gov.uk/uksi/2008/2504), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/2504/article/2/a)
+
+[^c379227]: Textual amendment: S. 2(3)(ba) inserted (14.12.2001 for E.W.N.I. and 7.1.2002 for S.) by [2001 c. 24](https://www.legislation.gov.uk/ukpga/2001/24), [ss. 98(3)](https://www.legislation.gov.uk/ukpga/2001/24/section/98/3), [127(2)(e)](https://www.legislation.gov.uk/ukpga/2001/24/section/127/2/e); [S.I. 2001/4104](https://www.legislation.gov.uk/uksi/2001/4104), [art. 2(a)](https://www.legislation.gov.uk/uksi/2001/4104/article/2/a)
+
+[^key-495e91fb639155fef9203291b7ea0451]: Textual amendment: Words in s. 2(3)(ba) substituted (1.7.2011) by [Bribery Act 2010 (c. 23)](https://www.legislation.gov.uk/ukpga/2010/23), [s. 19(1)](https://www.legislation.gov.uk/ukpga/2010/23/section/19/1), [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/2010/23/schedule/1/paragraph/1) (with [ss. 16](https://www.legislation.gov.uk/ukpga/2010/23/section/16), [19(5)](https://www.legislation.gov.uk/ukpga/2010/23/section/19/5)); [S.I. 2011/1418](https://www.legislation.gov.uk/uksi/2011/1418), [art. 2](https://www.legislation.gov.uk/uksi/2011/1418/article/2)
+
+[^c379228]: Textual amendment: S. 2(3A)-(3D) inserted (14.12.2001 for E.W.N.I. and 7.1.2002 for S.) by [2001 c. 24](https://www.legislation.gov.uk/ukpga/2001/24), [ss. 98(4)](https://www.legislation.gov.uk/ukpga/2001/24/section/98/4), [127(2)(e)](https://www.legislation.gov.uk/ukpga/2001/24/section/127/2/e); [S.I. 2001/4104](https://www.legislation.gov.uk/uksi/2001/4104), [art. 2(a)](https://www.legislation.gov.uk/uksi/2001/4104/article/2/a)
+
+[^key-71e79aeef287211d0462014819330674]: Textual amendment: S. 2(3A)(aa) inserted (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 2 para. 20(3)(a)](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/20/3/a)
+
+[^key-c18bad0055465ae5c3a409fca5f7d488]: Textual amendment: S. 2(3A)(d) substituted (1.4.2005) by [Energy Act 2004 (c. 20)](https://www.legislation.gov.uk/ukpga/2004/20), [s. 198(2)](https://www.legislation.gov.uk/ukpga/2004/20/section/198/2), [Sch. 14 para. 5(1)(a)](https://www.legislation.gov.uk/ukpga/2004/20/schedule/14/paragraph/5/1/a); [S.I. 2005/877](https://www.legislation.gov.uk/uksi/2005/877), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/877/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/877/schedule/1)
+
+[^key-867cacecbe3839d7f035f287bcd246ed]: Textual amendment: S. 2(3B)(aa) inserted (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 2 para. 20(3)(b)](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/20/3/b)
+
+[^key-19d59591bd40a696459fc59fa2ee664d]: Textual amendment: Words in s. 2(3B)(d) substituted (1.4.2005) by [Energy Act 2004 (c. 20)](https://www.legislation.gov.uk/ukpga/2004/20), [s. 198(2)](https://www.legislation.gov.uk/ukpga/2004/20/section/198/2), [Sch. 14 para. 5(1)(b)](https://www.legislation.gov.uk/ukpga/2004/20/schedule/14/paragraph/5/1/b); [S.I. 2005/877](https://www.legislation.gov.uk/uksi/2005/877), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/877/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/877/schedule/1)
+
+[^key-642f4ad196c16ba412a7ea5405a6f7fc]: Textual amendment: Words in s. 2(3C) inserted (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 2 para. 20(3)(c)](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/20/3/c)
+
+[^c379229]: Textual amendment: Words in s. 2(4) substituted (14.12.2001 for E.W.N.I. and 7.1.2002 for S.) by [2001 c. 24](https://www.legislation.gov.uk/ukpga/2001/24), [ss. 98(5)(a)](https://www.legislation.gov.uk/ukpga/2001/24/section/98/5/a), [127(2)(e)](https://www.legislation.gov.uk/ukpga/2001/24/section/127/2/e); [S.I. 2001/4104](https://www.legislation.gov.uk/uksi/2001/4104), [art. 2(a)](https://www.legislation.gov.uk/uksi/2001/4104/article/2/a)
+
+[^c379230]: Textual amendment: Words in s. 2(4) repealed (14.12.2001 for E.W.N.I. and 7.1.2002 for S.) by [2001 c. 24](https://www.legislation.gov.uk/ukpga/2001/24), [ss. 125](https://www.legislation.gov.uk/ukpga/2001/24/section/125), [127(2)(i)(iii)](https://www.legislation.gov.uk/ukpga/2001/24/section/127/2/i/iii), [Sch. 8 Pt. 6](https://www.legislation.gov.uk/ukpga/2001/24/schedule/8/part/6); [S.I. 2001/4104](https://www.legislation.gov.uk/uksi/2001/4104), [art. 2(e)](https://www.legislation.gov.uk/uksi/2001/4104/article/2/e)
+
+[^c379231]: Textual amendment: Words in s. 2(4) substituted (14.12.2001 for E.W.N.I. and 7.1.2002 for S.) by [2001 c. 24](https://www.legislation.gov.uk/ukpga/2001/24), [ss. 98(5)(b)](https://www.legislation.gov.uk/ukpga/2001/24/section/98/5/b), [127(2)(e)](https://www.legislation.gov.uk/ukpga/2001/24/section/127/2/e); [S.I. 2001/4104](https://www.legislation.gov.uk/uksi/2001/4104), [art. 2(a)](https://www.legislation.gov.uk/uksi/2001/4104/article/2/a)
+
+[^c379232]: Textual amendment: Definition of “British Transport Police Force” in s. 2(5) inserted (14.12.2001 for E.W.N.I. and 7.1.2002 for S.) by [2001 c. 24](https://www.legislation.gov.uk/ukpga/2001/24), [ss. 98(6)(a)](https://www.legislation.gov.uk/ukpga/2001/24/section/98/6/a), [127(2)(e)](https://www.legislation.gov.uk/ukpga/2001/24/section/127/2/e); [S.I. 2001/4104](https://www.legislation.gov.uk/uksi/2001/4104), [art. 2(a)](https://www.legislation.gov.uk/uksi/2001/4104/article/2/a)
+
+[^M_F_5e45a38c-cc9f-4fca-872b-9b732e83d3ab]: Textual amendment: Definition of “British Transport Police Force” in 2(5) (1.7.2004) ceases to have effect by virtue of [Railways and Transport Safety Act 2003 (c. 20)](https://www.legislation.gov.uk/ukpga/2003/20), [Sch. 5 para. 4](https://www.legislation.gov.uk/ukpga/2003/20/schedule/5/paragraph/4); [S.I. 2004/1572](https://www.legislation.gov.uk/uksi/2004/1572), [art. 3(jjj)](https://www.legislation.gov.uk/uksi/2004/1572/article/3/jjj)
+
+[^c379233]: Marginal citation: [1986 c. 52](https://www.legislation.gov.uk/ukpga/1986/52).
+
+[^c379234]: Marginal citation: [S.I. 1965/1536](https://www.legislation.gov.uk/uksi/1965/1536).
+
+[^c379235]: Marginal citation: [1984 c. 59](https://www.legislation.gov.uk/ukpga/1984/59).
+
+[^key-f75ea4441b80bdae0808f35bfc3f7a30]: Textual amendment: Definition of “United Kingdom Atomic Energy Authority Constabulary” in s. 2(5) repealed (1.4.2005) by [Energy Act 2004 (c. 20)](https://www.legislation.gov.uk/ukpga/2004/20), [s. 198(2)](https://www.legislation.gov.uk/ukpga/2004/20/section/198/2), [Sch. 23 Pt. 1](https://www.legislation.gov.uk/ukpga/2004/20/schedule/23/part/1); [S.I. 2005/877](https://www.legislation.gov.uk/uksi/2005/877), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/877/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/877/schedule/1)
+
+[^key-e70264ecaa573b9ca7e8e2cdda91e9ad]: Textual amendment: S. 2A amended (1.7.2004) by [Railways and Transport Safety Act 2003 (c. 20)](https://www.legislation.gov.uk/ukpga/2003/20), [Sch. 5 para. 4](https://www.legislation.gov.uk/ukpga/2003/20/schedule/5/paragraph/4); [S.I. 2004/1572](https://www.legislation.gov.uk/uksi/2004/1572), [art. 3(jjj)](https://www.legislation.gov.uk/uksi/2004/1572/article/3/jjj)
+
+[^c379186]: Textual amendment: S. 2A inserted (14.12.2001 for E.W.N.I. and 7.1.2002 for S.) by [2001 c. 24](https://www.legislation.gov.uk/ukpga/2001/24), [ss. 99](https://www.legislation.gov.uk/ukpga/2001/24/section/99), [127(2)(e)](https://www.legislation.gov.uk/ukpga/2001/24/section/127/2/e); [S.I. 2001/4104](https://www.legislation.gov.uk/uksi/2001/4104), [art. 2(b)](https://www.legislation.gov.uk/uksi/2001/4104/article/2/b)
+
+[^M_F_b7adedcc-c7c2-4ff3-a373-b217a7a9f9d7]: Textual amendment: Definition of “British Transport Police Force” in 2A(4) (1.7.2004) ceases to have effect by virtue of [Railways and Transport Safety Act 2003 (c. 20)](https://www.legislation.gov.uk/ukpga/2003/20), [Sch. 5 para. 4](https://www.legislation.gov.uk/ukpga/2003/20/schedule/5/paragraph/4); [S.I. 2004/1572](https://www.legislation.gov.uk/uksi/2004/1572), art. 3(jjj)
+
+[^key-3fe928eb2a606f1fbfce18b72bde928c]: Textual amendment: Words in definition of “chief officer” in s. 2A(4) inserted (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 2 para. 20(4)(a)](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/20/4/a)
+
+[^key-64af166e06aa2ac5440796e58f471c98]: Textual amendment: Words in s. 2A(4) substituted (1.4.2005) by [Energy Act 2004 (c. 20)](https://www.legislation.gov.uk/ukpga/2004/20), [s. 198(2)](https://www.legislation.gov.uk/ukpga/2004/20/section/198/2), [Sch. 14 para. 5(2)(a)](https://www.legislation.gov.uk/ukpga/2004/20/schedule/14/paragraph/5/2/a); [S.I. 2005/877](https://www.legislation.gov.uk/uksi/2005/877), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/877/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/877/schedule/1)
+
+[^key-cb0634310d52bf1b03e08f9e1687a845]: Textual amendment: Words in definition of “relevant force” in s. 2A(4) inserted (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 2 para. 20(4)(b)](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/20/4/b)
+
+[^key-d8ed535608c7910a3b5ce78062ce3f57]: Textual amendment: Words in s. 2A(4) substituted (1.4.2005) by [Energy Act 2004 (c. 20)](https://www.legislation.gov.uk/ukpga/2004/20), [s. 198(2)](https://www.legislation.gov.uk/ukpga/2004/20/section/198/2), [Sch. 14 para. 5(2)(b)](https://www.legislation.gov.uk/ukpga/2004/20/schedule/14/paragraph/5/2/b); [S.I. 2005/877](https://www.legislation.gov.uk/uksi/2005/877), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/877/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/877/schedule/1)
+
+[^key-033f69ffd0929adc2748f03fd8784b01]: Textual amendment: Words in s. 2A(4) repealed (1.4.2005) by [Energy Act 2004 (c. 20)](https://www.legislation.gov.uk/ukpga/2004/20), [s. 198(2)](https://www.legislation.gov.uk/ukpga/2004/20/section/198/2), [Sch. 23 Pt. 1](https://www.legislation.gov.uk/ukpga/2004/20/schedule/23/part/1); [S.I. 2005/877](https://www.legislation.gov.uk/uksi/2005/877), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/877/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/877/schedule/1)
+
+[^key-e6cd553570646ea90b689f8cbd1c4922]: Textual amendment: S. 2B amended (1.7.2004) by [Railways and Transport Safety Act 2003 (c. 20)](https://www.legislation.gov.uk/ukpga/2003/20), [Sch. 5 para. 4](https://www.legislation.gov.uk/ukpga/2003/20/schedule/5/paragraph/4); [S.I. 2004/1572](https://www.legislation.gov.uk/uksi/2004/1572), [art. 3(jjj)](https://www.legislation.gov.uk/uksi/2004/1572/article/3/jjj)
+
+[^c440122]: Textual amendment: S. 2B inserted (1.10.2002) by [Police Reform Act 2002 (c. 30)](https://www.legislation.gov.uk/ukpga/2002/30), s. {78}; [S.I. 2002/2306](https://www.legislation.gov.uk/uksi/2002/2306), [art. 2(e)](https://www.legislation.gov.uk/uksi/2002/2306/article/2/e)
+
+[^M_F_2c2afdf0-d6dd-4f00-c940-e6359c4f0982]: Textual amendment: Definition of “British Transport Police Force” in 2B(3) (1.7.2004) ceases to have effect by virtue of [Railways and Transport Safety Act 2003 (c. 20)](https://www.legislation.gov.uk/ukpga/2003/20), [Sch. 5 para. 4](https://www.legislation.gov.uk/ukpga/2003/20/schedule/5/paragraph/4); [S.I. 2004/1572](https://www.legislation.gov.uk/uksi/2004/1572), [art. 3(jjj)](https://www.legislation.gov.uk/uksi/2004/1572/article/3/jjj)
+
+[^key-3caad30d76b7fbf848d9ab7dd9d72948]: Textual amendment: Words in definition of 'chief officer' in s. 2B(3) substituted (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 2 para. 20(5)(a)(i)](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/20/5/a/i)
+
+[^key-5c240c7b70db332ade0e9c7fec79cc5c]: Textual amendment: Words in definition of 'chief officer' in s. 2B(3) inserted (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 2 para. 20(5)(a)(ii)](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/20/5/a/ii)
+
+[^key-6b7bd96a080c98ed52037a3d35b34594]: Textual amendment: Words in s. 2B(3) repealed (E.W.) (1.4.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8)[(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8), [Sch. 4 para. 49](https://www.legislation.gov.uk/ukpga/2005/15/schedule/4/paragraph/49), [17 Pt. 2](https://www.legislation.gov.uk/ukpga/2005/15/schedule/17/part/2); [S.I. 2006/378](https://www.legislation.gov.uk/uksi/2006/378), [art. 4(1)](https://www.legislation.gov.uk/uksi/2006/378/article/4/1), [Sch. paras. 10](https://www.legislation.gov.uk/uksi/2006/378/schedule/paragraph/10), [13(s)](https://www.legislation.gov.uk/uksi/2006/378/schedule/paragraph/13/s)
+
+[^key-9e79d67e40e4c3dd848f160b04f08434]: Textual amendment: Words in s. 2B(3) substituted (1.4.2005) by [Energy Act 2004 (c. 20)](https://www.legislation.gov.uk/ukpga/2004/20), [s. 198(2)](https://www.legislation.gov.uk/ukpga/2004/20/section/198/2), [Sch. 14 para. 5(3)(a)](https://www.legislation.gov.uk/ukpga/2004/20/schedule/14/paragraph/5/3/a); [S.I. 2005/877](https://www.legislation.gov.uk/uksi/2005/877), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/877/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/877/schedule/1)
+
+[^key-fe7af1d3f8908a0e4ee917cf027690bd]: Textual amendment: Words in definition 'relevant force' in s. 2B(3) substituted (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 2 para. 20(5)(b)(i)](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/20/5/b/i)
+
+[^key-53367d78a2edc57596d174398038bd7e]: Textual amendment: Words in definition of 'relevant force' in s. 2B(3) inserted (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 2 para. 20(5)(b)(ii)](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/20/5/b/ii)
+
+[^key-866738e6c093629f8fefefe195f6560d]: Textual amendment: Words in s. 2B(3) substituted (1.4.2005) by [Energy Act 2004 (c. 20)](https://www.legislation.gov.uk/ukpga/2004/20), [s. 198(2)](https://www.legislation.gov.uk/ukpga/2004/20/section/198/2), [Sch. 14 para. 5(3)(b)](https://www.legislation.gov.uk/ukpga/2004/20/schedule/14/paragraph/5/3/b); [S.I. 2005/877](https://www.legislation.gov.uk/uksi/2005/877), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/877/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/877/schedule/1)
+
+[^key-064523a6fd12e6267563809796cd98ff]: Textual amendment: Definition of “United Kingdom Atomic Energy Authority Constabulary in s. 2B(3) repealed (1.4.2005) by [Energy Act 2004 (c. 20)](https://www.legislation.gov.uk/ukpga/2004/20), [s. 198(2)](https://www.legislation.gov.uk/ukpga/2004/20/section/198/2), [Sch. 23 Pt. 1](https://www.legislation.gov.uk/ukpga/2004/20/schedule/23/part/1); [S.I. 2005/877](https://www.legislation.gov.uk/uksi/2005/877), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/877/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/877/schedule/1)
+
+[^key-2c42fe1edc3cca7a95171fc564543163]: Textual amendment: S. 2C inserted (1.4.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8), [Sch. 4 para. 50](https://www.legislation.gov.uk/ukpga/2005/15/schedule/4/paragraph/50); [S.I. 2006/378](https://www.legislation.gov.uk/uksi/2006/378), [art. 4(1)](https://www.legislation.gov.uk/uksi/2006/378/article/4/1), [Sch. para. 10](https://www.legislation.gov.uk/uksi/2006/378/schedule/paragraph/10)
+
+[^key-523fb1668764f762631a6e23c153e968]: Textual amendment: Words in s. 2C substituted (7.10.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 8 para. 31(2)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/8/paragraph/31/2); [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(v)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/v)
+
+[^key-121341aa7a1299d41ec1d8c4b7a585b6]: Textual amendment: Words in s. 2C(1) substituted (7.10.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 8 para. 31(3)(a)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/8/paragraph/31/3/a); [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(v)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/v)
+
+[^key-cfb2c6a34c7eb32d8965f36ac3c9f66b]: Textual amendment: Words in s. 2C(1)(a) substituted (7.10.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 8 para. 31(3)(b)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/8/paragraph/31/3/b); [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(v)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/v)
+
+[^key-bf0e914bfe1e8152f32a63a7315b76de]: Textual amendment: Words in s. 2C(2)(a) substituted (7.10.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 8 para. 31(4)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/8/paragraph/31/4); [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(v)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/v)
+
+[^key-bdb48dd1bea74be11b097dea7c065236]: Textual amendment: [S. 2D](https://www.legislation.gov.uk/ukpga/1987/4/section/2D) inserted (25.1.2018) by [The Criminal Justice (Scotland) Act 2016 (Consequential Provisions) Order 2018 (S.I. 2018/46)](https://www.legislation.gov.uk/uksi/2018/46), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2018/46/article/2/2/a)[(f)](https://www.legislation.gov.uk/uksi/2018/46/article/2/2/f), [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2018/46/schedule/2/paragraph/1) (with [art. 6](https://www.legislation.gov.uk/uksi/2018/46/article/6))
+
+[^key-3bf6668ef0c2e5475f25987d0e02580a]: Textual amendment: [S. 2E](https://www.legislation.gov.uk/ukpga/1987/4/section/2E) inserted (17.12.2021) by [The Age of Criminal Responsibility (Scotland) Act 2019 (Consequential Provisions and Modifications) Order 2021 (S.I. 2021/1458)](https://www.legislation.gov.uk/uksi/2021/1458), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/1458/article/1/1), [17](https://www.legislation.gov.uk/uksi/2021/1458/article/17)
+
+[^key-bfd56902f930b4ac743af0a7f38e39f9]: Textual amendment: Words in s. 3(4) substituted (30.11.2009) by [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), [s. 153(7)](https://www.legislation.gov.uk/ukpga/2008/4/section/153/7), [Sch. 22 para. 13](https://www.legislation.gov.uk/ukpga/2008/4/schedule/22/paragraph/13); [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(r)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/r)
+
+[^key-8f44131f5fe6b6d6a8d02f28d0cac76b]: Textual amendment: S. 3A inserted (9.3.2004) by [Police Reform Act 2002 (c. 30)](https://www.legislation.gov.uk/ukpga/2002/30), [ss. 79(1)](https://www.legislation.gov.uk/ukpga/2002/30/section/79/1), [108(2)](https://www.legislation.gov.uk/ukpga/2002/30/section/108/2); [S.I. 2004/636](https://www.legislation.gov.uk/uksi/2004/636), [art. 2](https://www.legislation.gov.uk/uksi/2004/636/article/2)
+
+[^key-6083c3f253e9f28f28f351a8f1c1b1c6]: Textual amendment: S. 3A(1)(1A) substituted for s. 3A(1) (30.11.2009) by [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), [s. 153(7)](https://www.legislation.gov.uk/ukpga/2008/4/section/153/7), [Sch. 22 para. 14(2)](https://www.legislation.gov.uk/ukpga/2008/4/schedule/22/paragraph/14/2); [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(r)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/r)
+
+[^key-e3d2457b452e91c54766af395e813f54]: Textual amendment: Words in s. 3A(1)(a) inserted (8.3.2012) by [Armed Forces Act 2011 (c. 18)](https://www.legislation.gov.uk/ukpga/2011/18), [ss. 6](https://www.legislation.gov.uk/ukpga/2011/18/section/6), [32(3)](https://www.legislation.gov.uk/ukpga/2011/18/section/32/3); [S.I. 2012/669](https://www.legislation.gov.uk/uksi/2012/669), [art. 3(a)](https://www.legislation.gov.uk/uksi/2012/669/article/3/a)
+
+[^key-c983065815919f07bfbcbf56f0be6140]: Textual amendment: Words in s. 3A(1A) inserted (8.3.2012) by [Armed Forces Act 2011 (c. 18)](https://www.legislation.gov.uk/ukpga/2011/18), [ss. 6](https://www.legislation.gov.uk/ukpga/2011/18/section/6), [32(3)](https://www.legislation.gov.uk/ukpga/2011/18/section/32/3); [S.I. 2012/669](https://www.legislation.gov.uk/uksi/2012/669), [art. 3(a)](https://www.legislation.gov.uk/uksi/2012/669/article/3/a)
+
+[^key-ce1755867780379636eb89bae0524424]: Textual amendment: Ss. 3A(1B)-(1H) inserted (31.1.2017 for specified purposes, 15.12.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 7 para. 2(2)](https://www.legislation.gov.uk/ukpga/2017/3/schedule/7/paragraph/2/2); [S.I. 2017/1139](https://www.legislation.gov.uk/uksi/2017/1139), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/1139/regulation/2/b) (as amended by [S.I. 2017/1162](https://www.legislation.gov.uk/uksi/2017/1162), reg. 2)
+
+[^key-a33a2cffc5609db2f50283f43810a7d5]: Textual amendment: Words in s. 3A(1B)(a) substituted (31.1.2017 for specified purposes, 8.1.2018 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 9 para. 63(2)](https://www.legislation.gov.uk/ukpga/2017/3/schedule/9/paragraph/63/2); S.I. 2017/1249, reg. 2 (with reg. 3)
+
+[^key-c2a17723f076e9d1208f2a3c38378e4e]: Textual amendment: Words in s. 3A(1F) substituted (31.1.2017 for specified purposes, 8.1.2018 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 9 para. 63(2)](https://www.legislation.gov.uk/ukpga/2017/3/schedule/9/paragraph/63/2); S.I. 2017/1249, reg. 2 (with reg. 3)
+
+[^key-c6ec361cca702a29e8ee040a9f9b252e]: Textual amendment: Words in s. 3A(1G) substituted (31.1.2017 for specified purposes, 8.1.2018 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 9 para. 63(2)](https://www.legislation.gov.uk/ukpga/2017/3/schedule/9/paragraph/63/2); S.I. 2017/1249, reg. 2 (with reg. 3)
+
+[^key-3c82be18145ab44a5593d59234d51be7]: Textual amendment: S. 3A(2) substituted (30.11.2009) by [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), [s. 153(7)](https://www.legislation.gov.uk/ukpga/2008/4/section/153/7), [Sch. 22 para. 14(3)](https://www.legislation.gov.uk/ukpga/2008/4/schedule/22/paragraph/14/3); [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(r)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/r)
+
+[^key-8d5491d234fbfa1875377703db822b85]: Textual amendment: Words in s. 3A(2) substituted (31.1.2017 for specified purposes, 15.12.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 7 para. 2(3)](https://www.legislation.gov.uk/ukpga/2017/3/schedule/7/paragraph/2/3); [S.I. 2017/1139](https://www.legislation.gov.uk/uksi/2017/1139), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/1139/regulation/2/b) (as amended by [S.I. 2017/1162](https://www.legislation.gov.uk/uksi/2017/1162), reg. 2)
+
+[^key-4bcb835db9bbf002feb017cb8d782732]: Textual amendment: S. 4 substituted (30.11.2009) by [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), [s. 153(7)](https://www.legislation.gov.uk/ukpga/2008/4/section/153/7), [Sch. 22 para. 15](https://www.legislation.gov.uk/ukpga/2008/4/schedule/22/paragraph/15) (with [Sch. 27 para. 35](https://www.legislation.gov.uk/ukpga/2008/4/schedule/27/paragraph/35)); [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(r)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/r)
+
+[^key-03284f28ce7b40e06a3640d4bcbc6fa3]: Textual amendment: Words in s. 4(4) inserted (31.1.2017 for specified purposes, 15.12.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 7 para. 3(a)](https://www.legislation.gov.uk/ukpga/2017/3/schedule/7/paragraph/3/a); [S.I. 2017/1139](https://www.legislation.gov.uk/uksi/2017/1139), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/1139/regulation/2/b) (as amended by [S.I. 2017/1162](https://www.legislation.gov.uk/uksi/2017/1162), reg. 2)
+
+[^key-934d6fd2872795233a8dccbacd5ff64a]: Textual amendment: Words in s. 4(4) inserted (31.1.2017 for specified purposes, 15.12.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 7 para. 3(b)(i)](https://www.legislation.gov.uk/ukpga/2017/3/schedule/7/paragraph/3/b/i); [S.I. 2017/1139](https://www.legislation.gov.uk/uksi/2017/1139), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/1139/regulation/2/b) (as amended by [S.I. 2017/1162](https://www.legislation.gov.uk/uksi/2017/1162), reg. 2)
+
+[^key-65516eff18861c99a53ddae8d8605bed]: Textual amendment: Words in s. 4(4) inserted (31.1.2017 for specified purposes, 15.12.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 7 para. 3(b)(ii)](https://www.legislation.gov.uk/ukpga/2017/3/schedule/7/paragraph/3/b/ii); [S.I. 2017/1139](https://www.legislation.gov.uk/uksi/2017/1139), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/1139/regulation/2/b) (as amended by [S.I. 2017/1162](https://www.legislation.gov.uk/uksi/2017/1162), reg. 2)
+
+[^key-1cc62a7f463a54f88c3f9b30b2a19494]: Textual amendment: Words in s. 4(5)(a) substituted (31.1.2017 for specified purposes, 8.1.2018 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 9 para. 63(3)](https://www.legislation.gov.uk/ukpga/2017/3/schedule/9/paragraph/63/3); [S.I. 2017/1249](https://www.legislation.gov.uk/uksi/2017/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1249/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/1249/regulation/3))
+
+[^key-21c6ebeab76a5f61380709a305776a54]: Textual amendment: S. 4A substituted (30.11.2009) by [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), [s. 153(7)](https://www.legislation.gov.uk/ukpga/2008/4/section/153/7), [Sch. 22 para. 16](https://www.legislation.gov.uk/ukpga/2008/4/schedule/22/paragraph/16) (with [Sch. 27 para. 35](https://www.legislation.gov.uk/ukpga/2008/4/schedule/27/paragraph/35)); [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(r)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/r)
+
+[^key-41b8904e9914395fc4a987c97c04b8e4]: Textual amendment: Words in s. 4A(1)(a) inserted (31.1.2017 for specified purposes, 15.12.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 7 para. 4](https://www.legislation.gov.uk/ukpga/2017/3/schedule/7/paragraph/4); [S.I. 2017/1139](https://www.legislation.gov.uk/uksi/2017/1139), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/1139/regulation/2/b) (as amended by [S.I. 2017/1162](https://www.legislation.gov.uk/uksi/2017/1162), reg. 2)
+
+[^key-1433fcc71d1f975c6fe9299405f1ae9b]: Textual amendment: [S. 4A(1)(aa)-(ad)](https://www.legislation.gov.uk/ukpga/1987/4/section/4A/1/aa) inserted (29.4.2026 for specified purposes, 29.9.2026 in so far as not already in force) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 204(9)(a)](https://www.legislation.gov.uk/ukpga/2026/20/section/204/9/a), [255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)[(2)(h)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/2/h); [S.I. 2026/960](https://www.legislation.gov.uk/uksi/2026/960), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2026/960/regulation/3/b)
+
+[^M_F_074d5f1b-6bee-4359-80a9-06d2ca741b05]: Textual amendment: Words in s. 4A(1)(b) substituted (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 2 para. 20(6)](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/20/6)
+
+[^key-4bb4d76eff6a1a2f236882eca9342f62]: Textual amendment: Words in [s. 4A(2)](https://www.legislation.gov.uk/ukpga/1987/4/section/4A/2) substituted (29.4.2026 for specified purposes, 29.9.2026 in so far as not already in force) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 204(9)(b)](https://www.legislation.gov.uk/ukpga/2026/20/section/204/9/b), [255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)[(2)(h)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/2/h); [S.I. 2026/960](https://www.legislation.gov.uk/uksi/2026/960), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2026/960/regulation/3/b)
+
+[^key-868ab4c40dfe3b3deacceaffcc696709]: Textual amendment: [S. 4A(4A)](https://www.legislation.gov.uk/ukpga/1987/4/section/4A/4A) inserted (29.4.2026 for specified purposes, 29.9.2026 in so far as not already in force) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 204(9)(c)](https://www.legislation.gov.uk/ukpga/2026/20/section/204/9/c), [255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)[(2)(h)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/2/h); [S.I. 2026/960](https://www.legislation.gov.uk/uksi/2026/960), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2026/960/regulation/3/b)
+
+[^key-23a7b2354d67d46644f02881244da136]: Textual amendment: Words in [s. 4A(7)](https://www.legislation.gov.uk/ukpga/1987/4/section/4A/7) inserted (29.4.2026 for specified purposes, 29.9.2026 in so far as not already in force) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 204(9)(d)](https://www.legislation.gov.uk/ukpga/2026/20/section/204/9/d), [255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)[(2)(h)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/2/h); [S.I. 2026/960](https://www.legislation.gov.uk/uksi/2026/960), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2026/960/regulation/3/b)
+
+[^c1134437]: Textual amendment: S. 4B inserted (1.10.2002) by [Police Reform Act 2002 (c. 30)](https://www.legislation.gov.uk/ukpga/2002/30), s. {80}; [S.I. 2002/2306](https://www.legislation.gov.uk/uksi/2002/2306), [art. 2(e)](https://www.legislation.gov.uk/uksi/2002/2306/article/2/e)
+
+[^key-ccf184d8959e2c59bc2a37afaf4c0f07]: Textual amendment: Words in s. 4B(6) substituted (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 2 para. 20(7)](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/20/7)
+
+[^c1134440]: Textual amendment: S. 4C inserted (1.10.2002) by [Police Reform Act 2002 (c. 30)](https://www.legislation.gov.uk/ukpga/2002/30), s. {80}; [S.I. 2002/2306](https://www.legislation.gov.uk/uksi/2002/2306), [art.2(e)](https://www.legislation.gov.uk/uksi/2002/2306/article/2/e)
+
+[^key-97a7322a5b77e0fd43f6a3a25c9a433b]: Textual amendment: S. 6A inserted (9.3.2004) by [Police Reform Act 2002 (c. 30)](https://www.legislation.gov.uk/ukpga/2002/30), [ss. 79(4)](https://www.legislation.gov.uk/ukpga/2002/30/section/79/4), [108(2)](https://www.legislation.gov.uk/ukpga/2002/30/section/108/2); [S.I. 2004/636](https://www.legislation.gov.uk/uksi/2004/636), [art. 2](https://www.legislation.gov.uk/uksi/2004/636/article/2)
+
+[^c379238]: Marginal citation: [1947 c. 10](https://www.legislation.gov.uk/ukpga/1947/10).
+
+[^c379239]: Marginal citation: [1923 c. 11](https://www.legislation.gov.uk/ukpga/1923/11).
+
+[^key-08804acfc6962fdca7e511f440900b58]: Textual amendment: S. 7(3) repealed (1.4.2005) by [Energy Act 2004 (c. 20)](https://www.legislation.gov.uk/ukpga/2004/20), [s. 198(2)](https://www.legislation.gov.uk/ukpga/2004/20/section/198/2), [Sch. 23 Pt. 1](https://www.legislation.gov.uk/ukpga/2004/20/schedule/23/part/1); [S.I. 2005/877](https://www.legislation.gov.uk/uksi/2005/877), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/877/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/877/schedule/1)
+
+[^c379241]: Marginal citation: [1965 c. 57](https://www.legislation.gov.uk/ukpga/1965/57).
+
+[^key-bf1d85ded866889dbb69de2d5f47f7b8]: Textual amendment: S. 7(4)(a) repealed (1.4.2005) by [Energy Act 2004 (c. 20)](https://www.legislation.gov.uk/ukpga/2004/20), [s. 198(2)](https://www.legislation.gov.uk/ukpga/2004/20/section/198/2), [Sch. 23 Pt. 1](https://www.legislation.gov.uk/ukpga/2004/20/schedule/23/part/1); [S.I. 2005/877](https://www.legislation.gov.uk/uksi/2005/877), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/877/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/877/schedule/1)
+
+[^c379242]: Marginal citation: [1984 c. 59](https://www.legislation.gov.uk/ukpga/1984/59).
+
+[^c379243]: Marginal citation: [1986 c. 52](https://www.legislation.gov.uk/ukpga/1986/52).

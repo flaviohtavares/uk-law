@@ -1,0 +1,41 @@
+---
+title: Criminal Justice and Courts Act 2015, section 86
+act: Criminal Justice and Courts Act 2015
+section: '86'
+status: not-yet-in-force
+text_date: '2026-09-01'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/2015/2/section/86
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Criminal Justice and Courts Act 2015, section 86
+
+> This provision is not yet in force.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 86. Use of information about financial resources
+
+*Extent: E+W*
+
+**Not yet in force.**
+
+(1) This section applies when the High Court, the Upper Tribunal or the Court of Appeal is determining by whom and to what extent costs of or incidental to judicial review proceedings are to be paid.
+
+(2) The information to which the court or tribunal must have regard includes—
+
+- (a) information about the financing of the proceedings provided in accordance with section 31(3)(b) of the Senior Courts Act 1981 or section 16(3)(b) of the Tribunals, Courts and Enforcement Act 2007, and
+- (b) any supplement to that information provided in accordance with rules of court or Tribunal Procedure Rules.
+
+(3) The court or tribunal must consider whether to order costs to be paid by a person, other than a party to the proceedings, who is identified in that information as someone who is providing financial support for the purposes of the proceedings or likely or able to do so.
+
+(4) In this section “**judicial review proceedings**” means—
+
+- (a) proceedings on an application for leave to apply for judicial review,
+- (b) proceedings on an application for judicial review,
+- (c) proceedings on an application for permission to apply for relief under section 15 of the Tribunals, Courts and Enforcement Act 2007 in a case arising under the law of England and Wales,
+- (d) proceedings on an application for such relief in such a case,
+- (e) any proceedings on an application for leave to appeal from a decision in proceedings described in paragraph (a), (b), (c) or (d), and
+- (f) proceedings on an appeal from such a decision.

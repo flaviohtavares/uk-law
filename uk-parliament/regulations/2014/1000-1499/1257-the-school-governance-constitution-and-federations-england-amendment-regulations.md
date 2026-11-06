@@ -1,0 +1,331 @@
+---
+title: The School Governance (Constitution and Federations) (England) (Amendment) Regulations 2014
+id: uksi/2014/1257
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2014-05-14'
+text_date: '2015-09-01'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2014/1257
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2014/1257/pdfs/uksiem_20141257_en_001.pdf
+- http://www.legislation.gov.uk/uksi/2014/1257/pdfs/uksiem_20141257_en.pdf
+- http://www.legislation.gov.uk/uksi/2014/1257/pdfs/uksi_20141257_en.pdf
+- http://www.legislation.gov.uk/uksi/2014/1257/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The School Governance (Constitution and Federations) (England) (Amendment) Regulations 2014
+
+> Text as at 2015-09-01.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2014 No. 1257
+
+Education, England
+
+The School Governance (Constitution and Federations) (England) (Amendment) Regulations 2014
+
+Made
+
+14th May 2014
+
+Laid before Parliament
+
+19th May 2014
+
+Coming into force
+
+Regulations 1, 4, 5 and 6
+
+1st September 2014
+
+Remainder
+
+1st September 2015
+
+The Secretary of State for Education makes the following Regulations in exercise of the powers conferred by sections 19(1A), (3), (4A) and (8), 20(2), (3) and (4), 21(3), 24, 25, 34(5), 35(4) and (5), 36(4) and (5), and 210(7) of the Education Act 2002[^f00001].
+
+## 1. Citation and commencement[^key-f4c6aef5fb0607905cb24fa2767a58ed]
+
+These Regulations may be cited as the School Governance (Constitution and Federations) (England) (Amendment) Regulations 2014 and come into force on 1st September 2014 except for regulations 2(2) and (3), and 3(2), (3) and (4)[^key-d6ab05fb1b369553e56946eeb8031d15], which come into force on 1st September 2015.
+
+## 2. Amendments to the School Governance (Constitution) (England) Regulations 2012 and revocation of the School Governance (Constitution) (England) Regulations 2007[^M_I_f74fc92d-d4e0-4ad3-e7ed-acfec63a530c][^key-d7cd3b5d7f673c10333eb678da479d57]
+
+(1) The School Governance (Constitution) (England) Regulations 2012[^f00002] are amended as follows.
+
+(2) Omit regulation 2.
+
+(3) For regulation 4 substitute—
+
+> **4.** The Constitution Regulations 2007 are revoked.
+
+.
+
+(4) In regulation 6(1)(c), for “paragraphs 9 to 11” substitute “paragraphs 9 to 12”.
+
+(5) For regulation 8(b) substitute—
+
+> - (b) is appointed by the governing body as a governor having, in the opinion of the governing body, the skills required to contribute to the effective governance and success of the school and having met any additional eligibility criteria set by the governing body.
+
+.
+
+(6) In regulation 9—
+
+- (a) omit “and” at the end of sub-paragraph (a)(iii) and insert “and” at the end of sub-paragraph (a)(iv), and
+- (b) after sub-paragraph (a)(iv) insert—
+
+  > - (v) has, in the opinion of the person entitled to appoint the foundation governor, the skills required to contribute to the effective governance and success of the school.
+
+  .
+
+(7) For regulation 15 substitute—
+
+> **15.** (1) Where—
+>
+> - (a) a maintained school has more governors of a particular category than are provided for by the instrument of government for the school, and
+> - (b) the excess is not eliminated by the required number of governors resigning,
+>
+> the number of governors of that category required to eliminate the excess must cease to hold office in accordance with paragraphs (2) to (4).
+>
+> (2) Foundation governors must cease to hold office such that, in the opinion of those who appointed them under the instrument of government, the foundation governors remaining in office are those best placed to contribute to the effective governance and success of the school and serve the purposes for which foundation governors are appointed.
+>
+> (3) Governors who are not foundation governors must cease to hold office such that, in the opinion of the governing body, the governors remaining in office are those with the most relevant skills to contribute to the effective governance and success of the school.
+>
+> (4) In determining which governors should cease to hold office in accordance with paragraph (3)—
+>
+> - (a) the governing body must hold a vote in respect of each category in which there are excess governors;
+> - (b) governors must not vote in respect of their own category; and
+> - (c) no governor ceases to hold office until the votes on all categories are cast.
+>
+> (5) Any procedure set out in the instrument of government for the removal of excess foundation governors does not apply in the circumstances set out in paragraph (1).
+
+.
+
+(8) In Schedule 1, after paragraph 11 insert—
+
+> **12.** The governing body may only appoint as a parent governor a person who has, in the opinion of the governing body, the skills required to contribute to the effective governance and success of the school.
+
+.
+
+(9) In Schedule 3, for paragraph 4 substitute—
+
+> **4.** (1) No person is eligible to be nominated for appointment as a partnership governor unless that person has, in the opinion of the person nominating them, the skills required to contribute to the effective governance and success of the school.
+>
+> (2) No person is eligible to be appointed as a partnership governor unless that person has, in the opinion of the governing body, the skills required to contribute to the effective governance and success of the school.
+
+.
+
+## 3. Amendments to the School Governance (Federations) (England) Regulations 2012 and revocation of the School Governance (Federations) (England) Regulations 2007[^M_C_81774a6e-6b25-43f6-f2ec-3feaea657720][^key-bc48cd98f92330440ddf3ad4b54be045]
+
+(1) The School Governance (Federations) (England) Regulations 2012[^f00003] are amended as follows.
+
+(2) For regulation 2 substitute—
+
+> **2.** These Regulations apply to governing bodies of maintained schools in England that are either federated governing bodies or are proposing to federate.
+
+.
+
+(3) For regulation 3 substitute—
+
+> **3.** The School Governance (Federations) (England) Regulations 2007[^f00004] are revoked.
+
+.
+
+(4) Omit regulation 4(1).
+
+(5) In regulation 14(1)(b), for “paragraphs 8 to 10” substitute “paragraphs 8 to 11”.
+
+(6) For regulation 16(1)(b) substitute—
+
+> - (b) is appointed by the governing body having, in the opinion of the governing body, the skills required to contribute to the effective governance and success of the federation and having met any additional eligibility criteria set by the governing body.
+
+.
+
+(7) In regulation 17(1)—
+
+- (a) omit “and” at the end of sub-paragraph (a)(iii) and insert “and” at the end of sub-paragraph (a)(iv), and
+- (b) after sub-paragraph (a)(iv) insert—
+
+  > - (v) has, in the opinion of the person entitled to appoint the foundation governor, the skills required to contribute to the effective governance and success of the federation.
+
+  .
+
+(8) For regulation 21(5) substitute—
+
+> (5) The total number of co-opted governors who are also eligible to be elected as staff governors under Schedule 3, when counted together with the staff governor and the head teachers, must not exceed one third of the total membership of the governing body.
+
+.
+
+(9) After regulation 22 insert—
+
+> **22A. Surplus governors**
+>
+> (1) Where—
+>
+> - (a) the governing body of a federation has more governors of a particular category than are provided for by the instrument of government for the federation, and
+> - (b) the excess is not eliminated by the required number of governors resigning,
+>
+> the number of governors in that category required to eliminate the excess must cease to hold office in accordance with paragraphs (2) to (4).
+>
+> (2) Foundation governors must cease to hold office such that, in the opinion of those who appointed them under the instrument of government, the foundation governors remaining in office are those best placed to contribute to the effective governance and success of the federation and serve the purposes for which foundation governors are appointed.
+>
+> (3) Governors who are not foundation governors must cease to hold office such that, in the opinion of the governing body, the governors remaining in office are those with the most relevant skills to contribute to the effective governance and success of the federation.
+>
+> (4) In determining which governors should cease to hold office in accordance with paragraph (3)—
+>
+> - (a) the governing body must hold a vote in respect of each category in which there are excess governors;
+> - (b) governors must not vote in respect of their own category; and
+> - (c) no governor ceases to hold office until the votes on all categories are cast.
+>
+> (5) Any procedure set out in the instrument of government for the removal of excess foundation governors does not apply in the circumstances set out in paragraph (1).
+
+.
+
+(10) In Schedule 1, for paragraph 2(3) substitute—
+
+> (3) The total number of temporary co-opted governors who are also eligible to be appointed as temporary staff governors, when counted together with the temporary staff governor and the head teachers and head teachers designate, must not exceed one third of the total membership of the temporary governing body.
+
+.
+
+(11) In Schedule 2, after paragraph 10, insert—
+
+> **11.** The governing body of a federation may only appoint as a parent governor a person who has, in the opinion of the governing body, the skills required to contribute to the effective governance and success of the federation.
+
+.
+
+(12) In Schedule 4—
+
+- (a) omit paragraph 2, and
+- (b) after paragraph 6 insert—
+
+  > **7.** (1) No person is eligible to be nominated for appointment as a partnership governor unless that person has, in the opinion of the person nominating them, the skills required to contribute to the effective governance and success of the federation.
+  >
+  > (2) No person is eligible to be appointed as a partnership governor unless that person has, in the opinion of the governing body, the skills required to contribute to the effective governance and success of the federation.
+
+  .
+
+## 4. Amendment to the School Governance (Roles, Procedures and Allowances) (England) Regulations 2013[^key-a26e6adf68280316ca8515645bd659d8]
+
+(1) The School Governance (Roles, Procedures and Allowances) (England) Regulations 2013[^f00005] are amended as follows.
+
+(2) In regulation 13(7) for “subject to the exceptions at regulations 14(5), 14(6) and 17(2) of these Regulations” substitute “subject to the exceptions at regulations 14(5), 14(6), 14(6A) and 17(2) of these Regulations”.
+
+(3) After regulation 14(6) insert—
+
+> (6A) No decision to remove excess governors under regulation 15(2) to (4) of the School Governance (Constitution) (England) Regulations 2012[^f00006] or regulation 22A(2) to (4) of the School Governance (Federations) (England) Regulations 2012[^f00007] has effect unless the matter is specified as an item of business on the agenda for the meeting.
+
+.
+
+(4) For regulation 16, substitute—
+
+> **16.** (1) In this regulation and in Schedule 1, “relevant person” means a governor, an associate member, the head teacher (whether or not that person is a governor) or any person appointed as clerk to the governing body or to a committee.
+>
+> (2) Subject to paragraph (4), where in relation to any matter—
+>
+> - (a) there may be a conflict between the interests of a relevant person and the interests of the governing body,
+> - (b) a fair hearing is required and there is any reasonable doubt about a relevant person’s ability to act impartially, or
+> - (c) a relevant person has a pecuniary interest,
+>
+> that person, if present at a meeting of the school at which the matter is the subject of consideration, must disclose his or her interest, withdraw from the meeting and not vote on the matter in question.
+>
+> (3) Nothing in this regulation or Schedule 1 may be construed as precluding—
+>
+> - (a) the governing body, or a committee, from allowing a person who appears to them to be able to give evidence to attend any hearing conducted by them into any matter and to present his or her evidence;
+> - (b) the governing body, or a committee, from hearing representations from a relevant person acting in a capacity other than that of a relevant person; or
+> - (c) a relevant person from entering into a contract with the governing body from which the relevant person is entitled to profit.
+>
+> (4) A person who is acting as the clerk to a meeting of the school is not required to withdraw from a meeting by this regulation or Schedule 1 unless the person’s appointment to office, remuneration, or disciplinary action against that person is the subject of the consideration, but if this regulation or Schedule 1 would have otherwise required the person to withdraw, that person must not act in any capacity other than that of a clerk.
+>
+> (5) Where there is any dispute as to whether this regulation or Schedule 1 requires a relevant person to withdraw from a meeting of the school and not vote, that question must be determined by the other governors present at the meeting.
+>
+> (6) Schedule 1 makes provision about pecuniary interests and other specified conflicts of interest.
+
+.
+
+(5) In regulation 25(1), omit the words “and to Schedule 1”.
+
+(6) In paragraphs 1(2), 2(2) and 3(3) of Schedule 1, for “regulation 16(b)” substitute “regulation 16(2)”.
+
+## 5. Amendments to the School Governance (Constitution) (England) Regulations 2007 and the School Governance (Constitution) (England) Regulations 2012[^key-f7dcfdc8bae2a4c5e11ec105e1082816]
+
+After paragraph 9(ba) of Schedule 6 to the School Governance (Constitution) (England) Regulations 2007[^f00008], insert—
+
+> - (bb) subject to a direction of the Secretary of State under section 128 of the Education and Skills Act 2008[^f00009];
+
+.
+
+**6.**[^key-25e8495b7a44b014ad1e08127f9fc7e3] After paragraph 13(b) of Schedule 4 to the School Governance (Constitution) (England) Regulations 2012, insert—
+
+> - (ba) subject to a direction of the Secretary of State under section 128 of the Education and Skills Act 2008;
+
+.
+
+John Nash
+
+Parliamentary Under Secretary of State
+
+Department for Education
+
+14th May 2014
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations amend the School Governance (Constitution) (England) Regulations 2012 (“the Constitution Regulations 2012”), the School Governance (Federations) (England) Regulations 2012 (“the Federations Regulations 2012”) and the School Governance (Roles, Procedures and Allowances) (England) Regulations 2013 (“the Roles and Procedures Regulations 2013”). They also revoke the School Governance (Constitution) (England) Regulations 2007 (“the Constitution Regulations 2007”) and the School Governance (Federations) (England) Regulations 2007 (“the Federations Regulations 2007”), to the extent that those Regulations remain in force.
+
+Regulation 2(1) to (3) amends the Constitution Regulations 2012 so that the Constitution Regulations 2007 and related saving and transitional provisions are fully revoked from 1st September 2015. Regulation 3(1) to (3) makes equivalent amendments to the Federations Regulations 2012.
+
+Regulation 2(4), (5), (7) and (8) amends the Constitution Regulations 2012 to provide that local authority governors, foundation governors, parent governors and partnership governors are only eligible to be appointed where they have the skills required to contribute to the effective governance and success of the school. Regulation 3(5), (6), (10) and (12) amends the Federation Regulations 2012 to make equivalent provision in relation to the appointment of governors on federated governing bodies.
+
+Regulation 2(6) amends the Constitution Regulations 2012 to introduce a new procedure for removing surplus governors. Regulation 3(8) makes an equivalent amendment to the Federations Regulations 2012 in relation to the removal of surplus governors on federated governing bodies.
+
+Regulation 4(3) amends the Roles and Procedures Regulations 2013 to provide that decisions to remove surplus governors will not have effect unless they are specified as an item of business on the agenda for the meeting of the governing body or federated governing body.
+
+Regulations 5 and 6 amend the Constitution Regulations 2007 (until they are fully revoked) and the Constitution Regulations 2012 respectively, so that a person subject to a direction of the Secretary of State under section 128 of the Education and Skills Act 2008 is disqualified from holding office as a governor of a maintained school.
+
+## Annotations
+
+[^f00001]: Footnote: [2002 c.32](https://www.legislation.gov.uk/ukpga/2002/32). Section 19 was amended by [S.I. 2010/1198](https://www.legislation.gov.uk/uksi/2010/1198) and subsections (1A) and (4A) of section 19 were inserted by section 38 of the Education Act [2011 (c.21)](https://www.legislation.gov.uk/ukpga/2011/21).
+
+[^key-f4c6aef5fb0607905cb24fa2767a58ed]: Commencement: Reg. 1 in force at 1.9.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/1257/regulation/1)
+
+[^key-d6ab05fb1b369553e56946eeb8031d15]: Textual amendment: Words in reg. 1 substituted (31.8.2014) by [The School Governance (Constitution and Federations) (England) (Amendment) (No. 2) Regulations 2014 (S.I. 2014/1959)](https://www.legislation.gov.uk/uksi/2014/1959), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1959/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2014/1959/regulation/2/2)
+
+[^M_I_f74fc92d-d4e0-4ad3-e7ed-acfec63a530c]: Commencement: Reg. 2(1)(4)-(9) in force at 1.9.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/1257/regulation/1) (as amended by [S.I. 2014/1959](https://www.legislation.gov.uk/uksi/2014/1959), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2014/1959/regulation/2/2))
+
+[^key-d7cd3b5d7f673c10333eb678da479d57]: Commencement: Reg. 2(2)(3) in force at 1.9.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/1257/regulation/1) (as amended by [S.I. 2014/1959](https://www.legislation.gov.uk/uksi/2014/1959), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2014/1959/regulation/2/2))
+
+[^f00002]: Footnote: [S.I. 2012/1034](https://www.legislation.gov.uk/uksi/2012/1034).
+
+[^M_C_81774a6e-6b25-43f6-f2ec-3feaea657720]: Commencement: Reg. 3(1)(5)-(12) in force at 1.9.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/1257/regulation/1) (as amended by [S.I. 2014/1959](https://www.legislation.gov.uk/uksi/2014/1959), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2014/1959/regulation/2/2))
+
+[^key-bc48cd98f92330440ddf3ad4b54be045]: Commencement: Reg. 3(2)-(4) in force at 1.9.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/1257/regulation/1) (as amended by [S.I. 2014/1959](https://www.legislation.gov.uk/uksi/2014/1959), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2014/1959/regulation/2/2))
+
+[^f00003]: Footnote: [S.I. 2012/1035](https://www.legislation.gov.uk/uksi/2012/1035).
+
+[^f00004]: Footnote: [S.I. 2007/960](https://www.legislation.gov.uk/uksi/2007/960).
+
+[^key-a26e6adf68280316ca8515645bd659d8]: Commencement: Reg. 4 in force at 1.9.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/1257/regulation/1)
+
+[^f00005]: Footnote: [S.I. 2013/1624](https://www.legislation.gov.uk/uksi/2013/1624).
+
+[^f00006]: Footnote: [S.I. 2012/1034](https://www.legislation.gov.uk/uksi/2012/1034).
+
+[^f00007]: Footnote: [S.I. 2012/1035](https://www.legislation.gov.uk/uksi/2012/1035).
+
+[^key-f7dcfdc8bae2a4c5e11ec105e1082816]: Commencement: Reg. 5 in force at 1.9.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/1257/regulation/1)
+
+[^f00008]: Footnote: [S.I. 2007/957](https://www.legislation.gov.uk/uksi/2007/957).
+
+[^f00009]: Footnote: [2008 c.25](https://www.legislation.gov.uk/ukpga/2008/25).
+
+[^key-25e8495b7a44b014ad1e08127f9fc7e3]: Commencement: Reg. 6 in force at 1.9.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/1257/regulation/1)

@@ -1,0 +1,42 @@
+---
+title: Capital Allowances Act 2001, section 150
+act: Capital Allowances Act 2001
+section: '150'
+status: revised-with-pending-changes
+text_date: '2026-05-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2001/2/section/150
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Capital Allowances Act 2001, section 150
+
+> **Warning: changes not yet applied to this text (8).** Text as at 2026-05-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2001/2
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 150. Exclusions where expenditure not incurred by shipowner
+
+*Extent: E+W+S+N.I.*
+
+(1) Expenditure on the provision of a ship is not, and is treated as never having been, expenditure on new shipping if—
+
+- (a) it is incurred by a company which is a member of the same group as the shipowner at the time when the expenditure is incurred, and
+- (b) subsection (2) or (4) applies.
+
+(2) This subsection applies (subject to subsection (3)) if—
+
+- (a) the ship ceases to be owned by the company before it has been brought into use for the purposes of a qualifying activity carried on by the company, or
+- (b) a disposal event occurs in respect of the ship within 3 years of its first being brought into use for the purposes of a qualifying activity carried on by the company.
+
+(3) But subsection (2) does not apply if the event which would otherwise result in that subsection applying is, or is the result of, the total loss of the ship or irreparable damage to it.
+
+(4) This subsection applies if—
+
+- (a) after the expenditure is incurred, there is a time when the company and the shipowner are not members of the same group, and
+- (b) if the ship is brought into use for the purposes of a qualifying activity carried on by the company, that time is within 3 years of the ship first being so brought into use.
+
+(5) A time falling after the total loss of the ship or irreparable damage to it is to be disregarded for the purposes of subsection (4).
+
+(6) In this section “**irreparable damage**”, in relation to a ship, means damage that puts it in a condition in which it is impossible, or not commercially worthwhile, to undertake the repairs required for restoring it to its previous use.

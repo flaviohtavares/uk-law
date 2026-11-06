@@ -1,0 +1,36 @@
+---
+title: Corporation Tax Act 2009, section 868
+act: Corporation Tax Act 2009
+section: '868'
+status: revised-with-pending-changes
+text_date: '2026-04-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2009/4/section/868
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Corporation Tax Act 2009, section 868
+
+> **Warning: changes not yet applied to this text (22).** Text as at 2026-04-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2009/4
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 868. Delayed payment of pension contributions
+
+*Extent: E+W+S+N.I.*
+
+(1) This section applies if—
+
+- (a) a debit in respect of pension contributions is recognised by a company for accounting purposes, and
+- (b) the contributions are not paid until after the end of the period of account in which the debit is recognised.
+
+(2) The contributions may be brought into account for the purposes of this Part only when they are paid.
+
+(3) For the purposes of this section “**pension contributions**” means—
+
+- (a) sums paid by an employer by way of contributions under a registered pension scheme,
+- (b) sums paid to the trustees or managers of such a scheme that are treated as if they were the payment of contributions under the pension scheme (see section 199 of FA 2004), or
+- (c) expenses within section 246(3) of FA 2004 (expenditure on benefits under employer-financed retirement benefits schemes).
+
+(4) Any adjustment required by this section of an accounting debit that is partly referable to an amount to which this section applies and partly to other matters must be made on a just and reasonable basis.

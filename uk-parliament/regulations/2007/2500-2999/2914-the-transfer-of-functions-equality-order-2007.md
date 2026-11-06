@@ -1,0 +1,367 @@
+---
+title: The Transfer of Functions (Equality) Order 2007
+id: uksi/2007/2914
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2007-10-10'
+text_date: '2020-12-31'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2007/2914
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2007/2914/pdfs/uksiem_20072914_en.pdf
+- http://www.legislation.gov.uk/uksi/2007/2914/pdfs/uksi_20072914_en.pdf
+- http://www.legislation.gov.uk/uksi/2007/2914/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Transfer of Functions (Equality) Order 2007
+
+> Text as at 2020-12-31.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2007 No. 2914
+
+MINISTERS OF THE CROWN
+
+The Transfer of Functions (Equality) Order 2007
+
+Made
+
+10th October 2007
+
+Laid before Parliament
+
+11th October 2007
+
+Coming into force
+
+12th October 2007
+
+At the Court at Buckingham Palace, the 10th day of October 2007
+
+Present,
+
+The Queen’s Most Excellent Majesty in Council
+
+Her Majesty, by and with the advice of Her Privy Council, in exercise of the powers conferred by section 1 of the Ministers of the Crown Act 1975[^f00001] and section 2(2) of the European Communities Act 1972[^f00002], orders as follows:
+
+## 1. Citation and commencement[^key-c4330f50afbe97790f26a2901c590347]
+
+(1) This Order may be cited as the Transfer of Functions (Equality) Order 2007.
+
+(2) This Order comes into force on 12th October 2007.
+
+## 2. Interpretation[^key-a590a225c1bd4b5fcfb9b4571e1f9d3f]
+
+In this Order, “instrument” includes, in particular, Royal Charters, Royal Warrants, Orders in Council, Letters Patent, judgments, decrees, orders, rules, regulations, schemes, bye-laws, awards, contracts and other agreements, memoranda and articles of association, certificates, deeds and other documents.
+
+## 3. Transfer of equality functions[^key-c6d453ac31bccdedc1b8d6cf5159fcd9]
+
+(1) The functions of the Secretary of State under the enactments specified in paragraph (2) are transferred to the Lord Privy Seal.
+
+(2) The enactments are—
+
+- (a) the Equal Pay Act 1970[^f00003];
+- (b) the Sex Discrimination Act 1975[^f00004], except sections 24, 25, 66(5), 78, 79, 85(9E) and Schedule 2;
+- (c) the Race Relations Act 1976[^f00005], except sections 19E, 57(5) and 75(10)(aa);
+- (d) the Sex Discrimination (Election Candidates) Act 2002[^f00006];
+- (e) section 213 of the Civil Partnership Act 2004[^f00007];
+- (f) the Equality Act 2006[^f00008], except section 66(2) and paragraph 14(4) of Schedule 2.
+
+(3) The functions of the Secretary of State under the enactments specified in paragraph (4) are to be exercisable concurrently with the Lord Privy Seal.
+
+(4) The enactments are—
+
+- (a) in the Employment and Training Act 1973[^f00009], sections 2 and 9 and the other provisions of that Act so far as relating to those sections;
+- (b) section 70 of the Charities Act 2006[^f00010].
+
+## 4. Incorporation of the Lord Privy Seal[^key-9cfe5cf2b073be9ee171aa0f43218a4e]
+
+(1) The person who at the coming into force of this Order is the Lord Privy Seal and any successor to that person is by that name a corporation sole.
+
+(2) The corporate seal of the Lord Privy Seal—
+
+- (a) is to be authenticated by the signature of the Lord Privy Seal or a person authorised by the Lord Privy Seal to act in that behalf, and
+- (b) is to be officially and judicially noticed.
+
+(3) Every document purporting to be an instrument made or issued by the Lord Privy Seal and to be—
+
+- (a) sealed with the corporate seal of the Lord Privy Seal authenticated in the manner provided for by paragraph (2), or
+- (b) signed or executed by a person authorised by the Lord Privy Seal to act in that behalf,
+
+is to be received in evidence and to be deemed to be so made or issued without further proof, unless the contrary is shown.
+
+(4) A certificate signed by the Lord Privy Seal that any instrument purporting to be made or issued by the Lord Privy Seal was so made or issued is conclusive evidence of that fact.
+
+(5) The Documentary Evidence Act 1868[^f00011] applies in relation to the Lord Privy Seal as if—
+
+- (a) the Lord Privy Seal were mentioned in the first column of the Schedule,
+- (b) any person authorised to act on behalf of the Lord Privy Seal were mentioned in the second column of the Schedule, and
+- (c) the references in section 2 to any regulation issued by or under the authority of an officer mentioned in the first column of the Schedule included references to any document issued by or under the authority of the Lord Privy Seal.
+
+## 5. Transfer of property, rights and liabilities[^key-95ac33272b9315ee4a0a5ba21a39ce52]
+
+All property, rights and liabilities to which the Secretary of State for Communities and Local Government is entitled or subject at the coming into force of this Order in connection with the functions transferred by article 3(1) are transferred to the Lord Privy Seal.
+
+## 6. Designation for purposes of European Communities Act 1972[^key-bbe114ccf36cfaffaab5623ee7f2437e]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 7. Supplementary[^key-ff4c4c57ccd8975074a9960919822e64]
+
+(1) This Order does not affect the validity of anything done by or in relation to the Secretary of State before the coming into force of this Order.
+
+(2) In this article, “transferred matter” means—
+
+- (a) a function transferred under article 3, or
+- (b) any property, right or liability transferred by article 5,
+
+and for the purposes of this article the transfer of a function includes a function becoming exercisable concurrently with the Lord Privy Seal.
+
+(3) Anything (including legal proceedings) which, at the coming into force of this Order, is in the process of being done by or in relation to the Secretary of State may, so far as it relates to a transferred matter, be continued by or in relation to the Lord Privy Seal.
+
+(4) Anything done by or in relation to the Secretary of State in connection with a transferred matter has effect, so far as necessary for continuing its effect after the coming into force of this Order, as if done by or in relation to the Lord Privy Seal (instead of or, as the case may be, as well as by or in relation to the Secretary of State).
+
+(5) Any enactment or instrument passed or made before the coming into force of this Order has effect, so far as is necessary for the purposes of or in consequence of a transfer under article 3 or 5, as if—
+
+- (a) references to the Secretary of State were or, as the case may be, included references to the Lord Privy Seal,
+- (b) references to the department of the Secretary of State were or, as the case may be, included references to the Government Equalities Office, and
+- (c) references to an officer of the Secretary of State were or, as the case may be, included references to an officer of the Government Equalities Office.
+
+(6) Documents or forms produced for use in connection with the functions transferred by article 3 may be used in connection with those functions even though they contain references to the Secretary of State, his department or an officer of his; and, for the purposes of the use of any such documents or forms after the coming into force of this Order, those references are to be read as references to the Lord Privy Seal, the Government Equalities Office or an officer of the Government Equalities Office (as appropriate).
+
+## 8. Consequential amendments[^key-f099fde45f795f5b713e2d6b716a2090]
+
+The Schedule contains consequential amendments.
+
+Judith Simpson
+
+Clerk of the Privy Council
+
+## SCHEDULE — CONSEQUENTIAL AMENDMENTS
+
+Article 8
+
+### [Parliamentary Commissioner Act 1967 (c. 13)](https://www.legislation.gov.uk/ukpga/1967/13)
+
+**1.**[^key-b3dd489779ef8b8e155ae1150ee46b5f] In Schedule 2 (departments etc. subject to investigation), at the appropriate place insert—
+
+> Government Equalities Office.
+
+.
+
+### [Equal Pay Act 1970 (c. 41)](https://www.legislation.gov.uk/ukpga/1970/41)
+
+**2.**[^key-332a22015cb135ca9b423a65dc6e3baf] In section 11 (short title, interpretation and extent), after subsection (2A) insert—
+
+> (2B) In this Act “the Minister” means the Lord Privy Seal.
+
+.
+
+**3.**[^key-287647fca8a8379a04b5ff20cd49454c] In the following provisions, for “Secretary of State” in each place substitute “Minister”—
+
+- (a) section 2(2) (disputes as to, and enforcement of, requirement of equal treatment);
+- (b) section 5(1) and (3) (agricultural wages orders);
+- (c) section 7B(2) and (4) to (7) (questioning of employer).
+
+### [Employment and Training Act 1973 (c. 50)](https://www.legislation.gov.uk/ukpga/1973/50)
+
+**4.**[^key-e6491eff586189eeaaf885b8be7fa8dc] In section 13 (interpretation), at the end insert—
+
+> (6) In sections 2 and 9 and in the other provisions of this Act so far as relating to those sections, references to the Secretary of State include references to the Lord Privy Seal.
+
+.
+
+### [Sex Discrimination Act 1975 (c. 65)](https://www.legislation.gov.uk/ukpga/1975/65)
+
+**5.**[^key-d34f2a2e7be7efea4a6ed0749eccb1ef] In section 82 (general interpretation provisions), in subsection (1), after the definition of “managers” insert—
+
+> “the Minister” means the Lord Privy Seal;
+
+.
+
+**6.**[^key-e7b94084c41e017bec9aa33f2e0a395e] In the following provisions, for “Secretary of State” in each place substitute “Minister”—
+
+- (a) section 21A(5) and (7) (public authorities);
+- (b) section 74(1) and (3) (help for aggrieved persons in obtaining information etc.);
+- (c) section 76A(3)(i) and (4) (public authorities: general statutory duty);
+- (d) section 76B(1) to (3) (specific duties);
+- (e) section 76C(2), (6) and (7) (specific duties: Scotland);
+- (f) section 77(4B) (validity and revision of contracts);
+- (g) section 80 (power to amend certain provisions of Act);
+- (h) section 81(2A) and (2B) (orders).
+
+**7.**[^key-0dfb035bdf02dc9aef9ca9b9414e8901] In section 16(1) (Training Commission etc.), after “Secretary of State” insert “or the Minister”.
+
+**8.**[^key-0227c55f53347dbc95855487d01d12b3] In section 81(1) and (2), and in section 82(1) in the definition of “prescribed”, for “Secretary of State” substitute “Minister or the Secretary of State”.
+
+### [Race Relations Act 1976 (c. 74)](https://www.legislation.gov.uk/ukpga/1976/74)
+
+**9.**[^key-a226760552baa61ccb96069518d688c3] In section 78 (general interpretation provisions), in subsection (1), after the definition of “managers” insert—
+
+> “the Minister” means the Lord Privy Seal;
+
+.
+
+**10.**[^key-8ff9c4afdfbdcc6bd8ee44410f7059b4] In the following provisions, for “Secretary of State” in each place substitute “Minister”—
+
+- (a) section 56(5) and (6) (remedies on complaint under section 54);
+- (b) section 65(1) and (3) (help for aggrieved persons in obtaining information etc.);
+- (c) section 67(4) (sheriff courts and designated county courts);
+- (d) section 71(2) and (4) to (6) (specified authorities: general statutory duty);
+- (e) section 71B(2) and (3) (general statutory duty: Wales);
+- (f) section 72(4B) (validity and revision of contracts);
+- (g) section 73 (power to amend certain provisions of Act).
+
+**11.**[^key-5bf7d14553ac20fd859951c299fa6aef] In section 15(1) (Training Commission etc.), after “Secretary of State” insert “or the Minister”.
+
+**12.**[^key-73034d697438c9ee740c8579bb35d273] In section 78(1), in the definition of “prescribed”, for “Secretary of State” substitute “Minister or the Secretary of State”.
+
+### [Sex Discrimination (Election Candidates) Act 2002 (c. 2)](https://www.legislation.gov.uk/ukpga/2002/2)
+
+**13.**[^key-594d176e990e49e3b9ecb5bb6577f0ba] In section 3(2) (expiry), for “Secretary of State” substitute “Lord Privy Seal”.
+
+### [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33)
+
+**14.**[^key-5a8b8b37906f91fa600cc7e6121c342a] In section 213(2) (power to amend Schedule 20), for “Secretary of State” substitute “Lord Privy Seal”.
+
+### [Equality Act 2006 (c. 3)](https://www.legislation.gov.uk/ukpga/2006/3)
+
+**15.**[^key-d710d1b22c356743acf133491a729e28] (1) In section 35 (general), after the definition of “human rights” insert—
+
+> “the Minister” means the Lord Privy Seal;
+
+.
+
+(2) In section 79 (interpretation), after subsection (2) insert—
+
+> (3) In this Part “the Minister” means the Lord Privy Seal.
+
+.
+
+(3) In section 81 (regulations), after subsection (5) insert—
+
+> (6) In this section “the Minister” means the Lord Privy Seal.
+
+.
+
+**16.**[^key-e9eca5ed1b79465373772df2765f3bd5] In the following provisions, for “Secretary of State” in each place substitute “Minister”—
+
+- (a) section 4(4) (strategic plan);
+- (b) section 10(6) (power to amend list of matters for purpose of definition of “group”);
+- (c) section 12(5) (monitoring progress);
+- (d) section 14(5) and (7) to (10) (codes of practice);
+- (e) section 15(3) and (6) (codes of practice: supplemental);
+- (f) section 27(10) (conciliation);
+- (g) section 28(8) (legal assistance);
+- (h) section 29(5) (legal assistance: costs);
+- (i) section 33(3) (equality and human rights enactments);
+- (j) section 50(3) and (4) (section 49: exceptions);
+- (k) section 52(6) (public authorities: general);
+- (l) section 64(1) and (2) (amendment of exceptions);
+- (m) section 70(2), (3) and (5) (information);
+- (n) section 81(1);
+- (o) Schedule 1 (the Commission).
+
+### [Charities Act 2006 (c. 50)](https://www.legislation.gov.uk/ukpga/2006/50)
+
+**17.**[^key-89f50ccc2ce37514f49c6a5c05b155eb] In section 70(11) (power of relevant Minister to give financial assistance to charitable, benevolent or philanthropic institutions) for “or the Minister for the Cabinet Office” substitute “, the Minister for the Cabinet Office or the Lord Privy Seal”.
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order makes provision in connection with the establishment of the Government Equalities Office.
+
+Article 3 transfers to the Lord Privy Seal certain statutory functions relating to equality conferred on the Secretary of State and formerly entrusted to the Secretary of State for Communities and Local Government. It enables certain powers to be exercised by the Lord Privy Seal as well as by the Secretary of State. The powers in question either relate to equality or can be used in connection with functions relating to equality.
+
+Article 4 provides for the incorporation of the Lord Privy Seal.
+
+Article 5 transfers property, rights and liabilities in connection with functions transferred under article 3(1).
+
+Article 6 designates the Lord Privy Seal in relation to discrimination for the purposes of section 2(2) of the European Communities Act 1972.
+
+Article 7 makes supplemental provision in connection with articles 3 and 5.
+
+Nothing in this Order alters the functions of the Welsh Ministers, the Scottish Ministers or the devolved authorities in Northern Ireland.
+
+## Annotations
+
+[^f00001]: Footnote: [1975 c. 26](https://www.legislation.gov.uk/ukpga/1975/26).
+
+[^f00002]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68).
+
+[^key-c4330f50afbe97790f26a2901c590347]: Commencement: Art. 1 in force at 12.10.2007, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2007/2914/article/1/2)
+
+[^key-a590a225c1bd4b5fcfb9b4571e1f9d3f]: Commencement: Art. 2 in force at 12.10.2007, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2007/2914/article/1/2)
+
+[^key-c6d453ac31bccdedc1b8d6cf5159fcd9]: Commencement: Art. 3 in force at 12.10.2007, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2007/2914/article/1/2)
+
+[^f00003]: Footnote: [1970 c. 41](https://www.legislation.gov.uk/ukpga/1970/41).
+
+[^f00004]: Footnote: [1975 c. 65](https://www.legislation.gov.uk/ukpga/1975/65).
+
+[^f00005]: Footnote: [1976 c. 74](https://www.legislation.gov.uk/ukpga/1976/74).
+
+[^f00006]: Footnote: [2002 c. 2](https://www.legislation.gov.uk/ukpga/2002/2).
+
+[^f00007]: Footnote: [2004 c. 33](https://www.legislation.gov.uk/ukpga/2004/33).
+
+[^f00008]: Footnote: [2006 c. 3](https://www.legislation.gov.uk/ukpga/2006/3).
+
+[^f00009]: Footnote: [1973 c. 50](https://www.legislation.gov.uk/ukpga/1973/50).
+
+[^f00010]: Footnote: [2006 c. 50](https://www.legislation.gov.uk/ukpga/2006/50).
+
+[^key-9cfe5cf2b073be9ee171aa0f43218a4e]: Commencement: Art. 4 in force at 12.10.2007, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2007/2914/article/1/2)
+
+[^f00011]: Footnote: [1868 c. 37](https://www.legislation.gov.uk/ukpga/1868/37).
+
+[^key-95ac33272b9315ee4a0a5ba21a39ce52]: Commencement: Art. 5 in force at 12.10.2007, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2007/2914/article/1/2)
+
+[^key-bbe114ccf36cfaffaab5623ee7f2437e]: Textual amendment: [Art. 6](https://www.legislation.gov.uk/uksi/2007/2914/article/6) revoked (31.12.2020) by [The European Communities (Designation Orders) (Revocation) (EU Exit) Regulations 2018 (S.I. 2018/1011)](https://www.legislation.gov.uk/uksi/2018/1011), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1011/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2018/1011/regulation/2/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-ff4c4c57ccd8975074a9960919822e64]: Commencement: Art. 7 in force at 12.10.2007, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2007/2914/article/1/2)
+
+[^key-f099fde45f795f5b713e2d6b716a2090]: Commencement: Art. 8 in force at 12.10.2007, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2007/2914/article/1/2)
+
+[^key-b3dd489779ef8b8e155ae1150ee46b5f]: Commencement: Sch. para. 1 in force at 12.10.2007, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2007/2914/article/1/2)
+
+[^key-332a22015cb135ca9b423a65dc6e3baf]: Commencement: Sch. para. 2 in force at 12.10.2007, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2007/2914/article/1/2)
+
+[^key-287647fca8a8379a04b5ff20cd49454c]: Commencement: Sch. para. 3 in force at 12.10.2007, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2007/2914/article/1/2)
+
+[^key-e6491eff586189eeaaf885b8be7fa8dc]: Commencement: Sch. para. 4 in force at 12.10.2007, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2007/2914/article/1/2)
+
+[^key-d34f2a2e7be7efea4a6ed0749eccb1ef]: Commencement: Sch. para. 5 in force at 12.10.2007, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2007/2914/article/1/2)
+
+[^key-e7b94084c41e017bec9aa33f2e0a395e]: Commencement: Sch. para. 6 in force at 12.10.2007, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2007/2914/article/1/2)
+
+[^key-0dfb035bdf02dc9aef9ca9b9414e8901]: Commencement: Sch. para. 7 in force at 12.10.2007, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2007/2914/article/1/2)
+
+[^key-0227c55f53347dbc95855487d01d12b3]: Commencement: Sch. para. 8 in force at 12.10.2007, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2007/2914/article/1/2)
+
+[^key-a226760552baa61ccb96069518d688c3]: Commencement: Sch. para. 9 in force at 12.10.2007, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2007/2914/article/1/2)
+
+[^key-8ff9c4afdfbdcc6bd8ee44410f7059b4]: Commencement: Sch. para. 10 in force at 12.10.2007, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2007/2914/article/1/2)
+
+[^key-5bf7d14553ac20fd859951c299fa6aef]: Commencement: Sch. para. 11 in force at 12.10.2007, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2007/2914/article/1/2)
+
+[^key-73034d697438c9ee740c8579bb35d273]: Commencement: Sch. para. 12 in force at 12.10.2007, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2007/2914/article/1/2)
+
+[^key-594d176e990e49e3b9ecb5bb6577f0ba]: Commencement: Sch. para. 13 in force at 12.10.2007, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2007/2914/article/1/2)
+
+[^key-5a8b8b37906f91fa600cc7e6121c342a]: Commencement: Sch. para. 14 in force at 12.10.2007, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2007/2914/article/1/2)
+
+[^key-d710d1b22c356743acf133491a729e28]: Commencement: Sch. para. 15 in force at 12.10.2007, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2007/2914/article/1/2)
+
+[^key-e9eca5ed1b79465373772df2765f3bd5]: Commencement: Sch. para. 16 in force at 12.10.2007, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2007/2914/article/1/2)
+
+[^key-89f50ccc2ce37514f49c6a5c05b155eb]: Commencement: Sch. para. 17 in force at 12.10.2007, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2007/2914/article/1/2)

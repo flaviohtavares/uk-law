@@ -1,0 +1,75 @@
+---
+title: Finance (No. 2) Act 2015, section 34
+act: Finance (No. 2) Act 2015
+section: '34'
+status: revised
+text_date: '2020-07-22'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2015/33/section/34
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Finance (No. 2) Act 2015, section 34
+
+> Text as at 2020-07-22.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 34. Election of designated currency by UK resident investment company
+
+*Extent: E+W+S+N.I.*
+
+(1) Chapter 4 of Part 2 of CTA 2010 (currency) is amended as follows.
+
+(2) Section 9A (designated currency of a UK resident investment company) is amended as follows.
+
+(3) For subsection (2) substitute—
+
+> (2) An election under this section by a company (“X”) takes effect only if, at the time when it is to take effect (see section 9B(1))—
+>
+> - (a) X is a UK resident investment company, and
+> - (b) Condition A or Condition B is met.
+
+(4) Omit subsection (3).
+
+(5) After subsection (8) insert—
+
+> (9) In relation to any period of account for which a currency is X's designated currency as a result of an election under this section, profits or losses of X that fall to be calculated in accordance with generally accepted accounting practice for corporation tax purposes must be calculated as if—
+>
+> - (a) the designated currency were the functional currency of the company, and
+> - (b) no part of X's business could, in accordance with generally accepted accounting practice, be regarded as having another currency as its functional currency.
+
+(6) Section 9B (period for which election under section 9A has effect) is amended as follows.
+
+(7) In subsection (1), for “section 9A(2)(a)” substitute “ section 9A ”.
+
+(8) Omit subsection (2).
+
+(9) In subsection (3), for “section 9A(2)(a)” substitute “ section 9A ”.
+
+(10) In subsection (6), for the words from the beginning to “only” substitute “ A revocation event occurs in the period of account in which X's first accounting period begins ”.
+
+(11) After subsection (6) insert—
+
+> (6A) A revocation event also occurs in a period of account (whether or not a period to which subsection (6) applies) if, at any time during that period, X ceases to be a UK resident investment company.
+
+(12) In subsection (7)(a), for “section 9A(2)(a)” substitute “ section 9A ”.
+
+(13) In section 17 (interpretation of Chapter), for subsection (4) substitute—
+
+> (4) References in this Chapter to the functional currency of a company or of part of a company's business are references to the currency of the primary economic environment in which the company or part operates.
+
+(14) This section has effect in relation to periods of account beginning on or after 1 January 2016.
+
+(15) Subsections (16) and (17) apply if a period of account of a company (“the straddling period of account) begins before, and ends on or after, 1 January 2016.
+
+(16) It is to be assumed, for the purposes of this section, that the straddling period of account consists of two separate periods of account—
+
+- (a) the first beginning with the straddling period of account and ending immediately before 1 January 2016, and
+- (b) the second beginning with that day and ending with the straddling period of account.
+
+(17) For the purposes of this section, it is to be assumed—
+
+- (a) that the company prepares its accounts for each of the two periods in the same currency, and otherwise on the same basis, as it prepares its accounts for the straddling period of account, and
+- (b) that if the accounts for the straddling period of account, in accordance with generally accepted accounting practice, identify a currency as the company's functional currency, the accounts for each of the two periods do likewise.

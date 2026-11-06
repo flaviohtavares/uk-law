@@ -1,0 +1,34 @@
+---
+title: The East Anglia TWO Offshore Wind Farm Order 2022, section 3
+act: The East Anglia TWO Offshore Wind Farm Order 2022
+section: '3'
+status: revised
+text_date: '2022-12-22'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/uksi/2022/433/section/3
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The East Anglia TWO Offshore Wind Farm Order 2022, section 3
+
+> Text as at 2022-12-22.
+>
+> Extent: England, Wales, Scotland.
+
+## 3. Development consent etc. granted by the Order[^key-79094a5d5baa97311e91db060a514156]
+
+*Extent: E+W+S*
+
+(1) Subject to the provisions of this Order and to the requirements the undertaker is granted—
+
+- (a) development consent for the authorised development; and
+- (b) consent for the ancillary works,
+
+to be carried out within the Order limits.
+
+(2) Each of the scheduled works must be constructed and maintained within the limits of deviation for that work.
+
+## Annotations
+
+[^key-79094a5d5baa97311e91db060a514156]: Commencement: Art. 3 in force at 22.4.2022, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/433/article/1/2)

@@ -1,0 +1,41 @@
+---
+title: Inheritance Tax Act 1984, section 123
+act: Inheritance Tax Act 1984
+section: '123'
+status: revised-with-pending-changes
+text_date: '2026-04-06'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/1984/51/section/123
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Inheritance Tax Act 1984, section 123
+
+> **Warning: changes not yet applied to this text (3).** Text as at 2026-04-06. See https://www.legislation.gov.uk/changes/affected/ukpga/1984/51
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 123. Provisions supplementary to section 122.
+
+*Extent: E+W+S+N.I.*
+
+(1) Section 116 above shall not apply by virtue of section 122(1) above unless—
+
+- (a) the agricultural property—
+  - (i) was occupied by the company for the purposes of agriculture throughout the period of two years ending with the date of the transfer, or
+  - (ii) was owned by the company throughout the period of seven years ending with that date and was throughout that period occupied (by the company or another) for the purposes of agriculture, and
+- (b) the shares or securities were owned by the transferor—
+  - (i) in a case within paragraph (a)(i) above, throughout the period there mentioned, or
+  - (ii) in a case within paragraph (a)(ii) above, throughout the period there mentioned.
+
+(2) Subsections (1) and (2) of section 118 above shall apply in relation to the conditions stated in subsection (1)(a) above as they apply in relation to the conditions stated in section 117 taking references to the transferor as references to the company.
+
+(3) Where the shares or securities owned by the transferor on the date of the transfer replaced other eligible property (that is to say, agricultural property or shares or securities the value of which is wholly or partly attributable to the value of such property) the condition stated in subsection (1)(b) above shall be treated as satisfied if the shares or securities, the other eligible property which they replaced and any eligible property directly or indirectly replaced by the other eligible property were owned by the transferor for periods which together comprised—
+
+- (a) in a case within subsection (1)(a)(i) above, at least two years falling within the five years ending with that date, or
+- (b) in a case within subsection (1)(a)(ii) above, at least seven years falling within the ten years ending with that date.
+
+(4) Subsections (3) and (4) of section 118 above shall have effect in relation to a case falling within subsections (2) and (3) above as they have effect in relation to a case falling within subsections (1) and (2) of that section.
+
+(5) For the purposes of subsection (1) above, a company shall be treated as having occupied the agricultural property at any time when it was occupied by a person who subsequently controls the company.

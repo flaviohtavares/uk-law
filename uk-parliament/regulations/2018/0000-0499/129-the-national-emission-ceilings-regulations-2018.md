@@ -1,0 +1,432 @@
+---
+title: The National Emission Ceilings Regulations 2018
+id: uksi/2018/129
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2018-01-31'
+text_date: '2024-01-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2018/129
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2018/129/pdfs/uksiem_20180129_en.pdf
+- http://www.legislation.gov.uk/uksi/2018/129/pdfs/uksi_20180129_en.pdf
+- http://www.legislation.gov.uk/uksi/2018/129/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The National Emission Ceilings Regulations 2018
+
+> Text as at 2024-01-01.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2018 No. 129
+
+Environmental Protection
+
+The National Emission Ceilings Regulations 2018
+
+Made
+
+31st January 2018
+
+Laid before Parliament
+
+1st February 2018
+
+Coming into force
+
+1st July 2018
+
+The Secretary of State makes these Regulations in exercise of the powers conferred by section 2(2) of the European Communities Act 1972 [^c22924351].
+
+The Secretary of State is designated for the purpose of section 2(2) of that Act in relation to the environment [^c22924361].
+
+## PART 1 — Introductory
+
+### 1. Citation and commencement
+
+These Regulations may be cited as the National Emission Ceilings Regulations 2018 and come into force on 1st July 2018.
+
+### 2. Interpretation
+
+(1) In these Regulations—
+
+- “**anthropogenic emissions**” means atmospheric emissions of pollutants associated with human activities with the exception of—
+  - (a) emissions from international maritime traffic;
+  - (b) aircraft emissions beyond the landing and take-off cycle;
+  - (c) emissions of NO<sub>x </sub>and NMVOC from activities falling under categories 3B (manure management) and 3D (agricultural soils) in NFR 2014;
+- “black carbon” or “**BC**” means carbonaceous particulate matter that absorbs light;
+- “**Cd**” means cadmium;
+- “**the Directive**” means Directive 2016/2284/EU of the European Parliament and the Council on the reduction of national emissions of certain atmospheric pollutants [^c22924371];
+- “**EMEP**” means the European Monitoring and Evaluation Programme, established under the Convention;
+- “**EMEP/EEA Guidebook**” means the EMEP and EEA air pollution inventory guidebook dated 30th September 2016 [^c22924381];
+- “**EMEP Reporting Guidelines**” means the EMEP guidelines for reporting emissions and projections data under the Convention dated 13th March 2014 [^c22924391];
+- “**emission**” means the release of a substance from a point or diffuse source into the atmosphere;
+- “fine particulate matter” or “**PM<sub>2.5</sub>**” means particles with an aerodynamic diameter equal to or less than 2.5 micrometres;
+- “**HCB**” means hexachlorobenzene;
+- “**Hg**” means mercury;
+- “**national air pollution control programme**” means the programme prepared, reviewed or revised in accordance with regulation 9;
+- “**national emission ceiling**” means the level to be met in accordance with regulation 5(1) in respect of a specified pollutant for a particular calendar year;
+- “**national emission reduction commitment**” means the emission reduction level for a relevant pollutant to be achieved in accordance with regulation 6(2) or (3) in a particular calendar year;
+- “**NFR 2014**” means the Nomenclature for Reporting 2014 adopted by EMEP [^c22924401];
+- “nitrogen oxides” or “NO<sub>x</sub><sup>”</sup> means nitric oxide and nitrogen dioxide, expressed as nitrogen dioxide;
+- “non-methane volatile organic compound” or “**NMVOC**” means all organic compounds (other than methane) arising from human activities which are capable of producing photochemical oxidants by reactions with nitrogen in the presence of sunlight;
+- “**PAHs**” means polycyclic aromatic hydrocarbons;
+- “**Pb**” means lead;
+- “**PCBs**” means polychlorinated biphenyls;
+- “**relevant pollutant**” means ammonia, nitrogen oxides, non-methane volatile organic compounds, fine particulate matter or sulphur dioxide;
+- “**source-based air pollution control legislation**” means legislation of which one purpose is to reduce the emissions of a relevant pollutant at the source of those emissions;
+- “sulphur dioxide” or “**SO<sub>2</sub>**” means all sulphur compounds expressed as sulphur dioxide, including sulphur trioxide, sulphuric acid, and reduced sulphur compounds such as hydrogen sulphide, mercaptans and dimethyl sulphides.
+
+(2) In these Regulations—
+
+- (a) references to the “**United Kingdom**” include—
+  - (i) the area adjacent to the United Kingdom up to the seaward limits of the territorial waters;
+  - (ii) any area for the time being designated under section 1(7) of the Continental Shelf Act 1964 [^c22924411];
+  - (iii) the areas specified in article 2 of the Exclusive Economic Zone Order 2013 [^c22924421];
+  - (iv) the areas specified by the Merchant Shipping (Prevention of Pollution) (Limits) Regulations 2014 [^c22924431] as waters within which the jurisdiction and rights of the United Kingdom are exercisable in accordance with Part 12 of the United Nations Convention on the Law of the Sea [^c22924441] for the protection and preservation of the marine environment;
+- (b) references to “the public” include any organisation or body representing or having an interest in the environment, health, business or consumers.
+
+(3) In paragraph (1)—
+
+- “**the Convention**” means the 1979 UNECE Convention on Long-Range Transboundary Air Pollution [^c22924451], including its protocols, annexes and appendices;
+- “**EEA**” means the European Environment Agency;
+- “**international maritime traffic**” means journeys at sea and in coastal waters by water-borne vessels of all flags, except fishing vessels, that depart from the territory of one country and arrive in the territory of another country;
+- “**landing and take-off cycle**” means the cycle that includes taxi in and out, take-off, climb out, approach, landing and all other aircraft activities that take place below the altitude of 3,000 feet.
+
+(4)[^key-addf57b8dc09d8fee028b1b3c2846cad] When interpreting the Directive for the purposes of these Regulations—
+
+- (a) in Annex 3, Part 2 is to be read as if for “Member States”, in each place where the words occur, there were substituted “ the Secretary of State ”;
+- (b) in Annex 4, Part 1 is to be read as if—
+  - (i) for “Member States”, in each place where the words occur, there were substituted “ the Secretary of State ”;
+  - (ii) “in the Member State concerned” and “in the Member State” were omitted.
+
+## PART 2 — National emissions inventory and projections
+
+### 3. Emissions inventory and projections
+
+(1) The Secretary of State must—
+
+- (a) by 15th February each year prepare an inventory of emissions occurring within the United Kingdom of the pollutants specified in Table 1 of Schedule 1, for the calendar year before the previous calendar year;
+- (b) by 15th March 2019 and every two years after that date prepare and update a projection of emissions occurring within the United Kingdom of the pollutants set out in Table 2 of Schedule 1, for the years specified in column 3 of that table that have not yet passed.
+
+(2) The inventories and projections referred to in paragraph (1) must be prepared or updated—
+
+- (a) in accordance with Parts 1 and 2 of Annex 4 to the Directive;
+- (b) without prejudice to sub-paragraph (a), in accordance with—
+  - (i) the methodologies in the EMEP Reporting Guidelines;
+  - (ii) the EMEP/EEA Guidebook.
+
+(3) The Secretary of State must take appropriate steps to ensure that the inventories and projections referred to in this regulation are made available to the public.
+
+### 4. Adjusted inventory of emissions
+
+(1) Where the Secretary of State has prepared an inventory of emissions in accordance with regulation 3(1)(a) that shows an exceedance of a national emission ceiling or a national emission reduction commitment, the Secretary of State may prepare an adjusted inventory of emissions if—
+
+- (a) the exceedance is the result of applying improved inventory methods, or
+- (b) as regards an inventory for the calendar year 2025 or any subsequent year, the exceedance—
+  - (i) is the result of applying significantly different emission factors or methodologies used for determining emissions from specific source categories compared with those which were expected as a result of the implementation of a norm or standard in source-based air pollution control legislation, and
+  - (ii) does not arise from the way in which such legislation has been implemented or enforced in the United Kingdom.
+
+(2) Where an adjusted inventory of emissions is prepared in accordance with this regulation, it replaces, for the purpose of Part 3 and 4, the inventory prepared under regulation 3, and references to an inventory in those Parts are to be read as references to the adjusted inventory of emissions.
+
+(3) The Secretary of State must take appropriate steps to ensure an adjusted inventory of emissions is made available to the public and must publish alongside it the information set out in Schedule 2.
+
+(4) In paragraph (1)(a), “**improved inventory methods**” means methods for preparing an inventory that have been updated in line with the EMEP Reporting Guidelines and EMEP/EEA Guidebook after 4th May 2012.
+
+## PART 3 — National emission ceilings, reduction commitments and derogations
+
+### 5. National emission ceilings up to 2019
+
+(1) The Secretary of State must ensure that, in 2010 and in each subsequent year up to and including 2019, the total anthropogenic emissions occurring within the United Kingdom for each of the pollutants specified in Table 1 of Schedule 3 do not exceed the amount specified in that Table for that pollutant.
+
+(2) The achievement of the objectives in paragraph (1) is to be assessed by reference to the relevant inventory for emissions prepared under Part 2.
+
+### 6. National emission reduction commitments from 2020
+
+(1) Paragraphs (2) to (4) apply, subject to regulation 8.
+
+(2) The Secretary of State must ensure that, in 2020 and in each subsequent year up to and including 2029, the total anthropogenic emissions occurring within the United Kingdom of each relevant pollutant do not exceed the percentage of base year emissions specified for that pollutant in Table 2 of Schedule 3.
+
+(3) The Secretary of State must ensure that, in 2030 and in each subsequent year, the total anthropogenic emissions occurring within the United Kingdom of each relevant pollutant do not exceed the percentage of base year emissions specified for that pollutant in Table 3 of Schedule 3.
+
+(4) The achievement of the objectives in paragraph (2) or (3) is to be assessed by reference to the relevant inventory of emissions prepared in accordance with Part 2.
+
+(5) In this regulation, “**base year emissions**” means the total anthropogenic emissions for 2005 as published in the UK National Atmospheric Emissions Inventory [^c22924461].
+
+### 7. Trajectory of national emission reduction commitments
+
+(1) Subject to paragraph (2), the Secretary of State must ensure that in 2025 that the total anthropogenic emissions of each of the relevant pollutants occurring within the United Kingdom do not exceed the linear reduction trajectory.
+
+(2) Total anthropogenic emissions of a relevant pollutant may not follow the linear reduction trajectory if the Secretary of State determines it is necessary to do so because it is—
+
+- (a) economically more efficient, or
+- (b) technically more efficient.
+
+(3) Where total anthropogenic emissions of a relevant pollutant do not follow the linear reduction trajectory in accordance with paragraph (2), the Secretary of State must ensure that, in 2025 and each subsequent year up to and including 2029, those emissions reduce each year.
+
+(4) In paragraph (1), “**linear reduction trajectory**” means the straight linear trajectory between the national emission reduction commitments to be met in 2020 and 2030.
+
+### 8. National emission reduction commitment derogations
+
+(1) Where an inventory of emissions is prepared in accordance with Part 2 that shows the total anthropogenic emissions of a relevant pollutant were above the national emission reduction commitment for that pollutant in a particular year, the Secretary of State may apply a derogation under paragraph (2), (3), or (4).
+
+(2) The Secretary of State is deemed to have complied with the relevant national emission reduction commitment in the year in which the exceedance occurs if the following conditions are met—
+
+- (a) there was an exceptionally cold winter or an exceptionally dry summer in the year that the exceedance occurs;
+- (b) the average of the total anthropogenic emissions of the relevant pollutant occurring within the United Kingdom for that year, the preceding year and the following year is lower than or equal to the national emission reduction commitment which would otherwise apply to those years.
+
+(3) The Secretary of State is deemed to have complied with the relevant national emission reduction commitment for a maximum of five years, including the year in which the exceedance occurs, if the following conditions are met—
+
+- (a) the national emission reduction commitment that has been exceeded is set at a level that is more stringent than the cost-effective level identified for the United Kingdom in TSAP 16,
+- (b) all cost effective measures have already been implemented in respect of the pollutant for which the national emission reduction commitment has been exceeded,
+- (c) in each of the five years in question, the national emission reduction commitment for at least one other relevant pollutant has been met, and
+- (d) in each year for which the derogation is claimed, the amount by which emissions exceed the relevant national emission reduction commitment is less than or equal to the amount by which emissions for another relevant pollutant are below the applicable national emission reduction commitment, applying the conversion methodology.
+
+(4) The Secretary of State is deemed to have complied with the relevant national emission reduction commitment for a maximum of three years, including the year in which the exceedance occurs, if the following conditions are met—
+
+- (a) there is a sudden and exceptional interruption or loss of capacity in the national power or heat supply system in the first of the three years in question,
+- (b) the Secretary of State publishes at the same time as the relevant inventory of emissions information demonstrating that—
+  - (i) all reasonable efforts, including the implementation of new measures and policies, have been made to ensure compliance with the national emission reduction commitment, and
+  - (ii) the implementation of measures and policies additional to those referred to in paragraph (i) would—
+    - (aa) lead to disproportionate costs,
+    - (bb) substantially jeopardise national energy security, or
+    - (cc) pose a substantial risk of energy poverty to a significant part of the population.
+
+(5) In paragraph (3)—
+
+- “**conversion methodology**” means the method described in the report TSAP 15, “A Flexibility Mechanism for Complying with Nation Emission Ceilings for Air Pollutants”, published in September 2014 by the International Institute for Applied Systems Analysis in support of the European Commission's Thematic Strategy on Air Pollution, which sets out a relevant pollutant specific exchange rate and calculation for the purposes of applying the derogation in paragraph (3) [^c22924471];
+- “**TSAP 16**” means the reports, “Adjusted historic emission data, projections, and optimized emission reduction targets for 2030 – A comparison with COM data 2013”, published in January 2015 by the International Institute for Applied Systems Analysis in support of the European Commission's Thematic Strategy on Air Pollution, which aims to set out cost effective emission reduction potential for each of the relevant pollutants [^c22924481].
+
+## PART 4 — National air pollution control programme
+
+### 9. National air pollution control programme[^key-16327c889961c147f7ca995527773904]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 10. Participation in the drawing up of the national air pollution control programme[^key-4aa3e8d541e3f594219b01b84b7dbbf2]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART 5 — Monitoring of impacts
+
+### 11. Monitoring air pollution impacts
+
+(1) The Secretary of State must, taking a cost-effective and risk-based approach, monitor the negative impacts of air pollution at sites representative of the following habitats and ecosystems—
+
+- (a) freshwater;
+- (b) natural and semi-natural;
+- (c) forest.
+
+(2) The Secretary of State must identify sites to be monitored for the purpose of paragraph (1) by 1st July 2018 and review the suitability of those sites at least once in every four years from that date.
+
+## PART 6 — Additional information and reports
+
+### 12. Disaggregated inventories and informative inventory reports
+
+(1) The Secretary of State must—
+
+- (a) by 1st May 2021 and once every four years from that date prepare or update a spatially disaggregated inventory of emissions occurring in the United Kingdom and an inventory of large point sources for the pollutants specified in Table 1 of Schedule 4, for the calendar year before the previous year;
+- (b) by 15th March every year prepare or update an informative inventory report for the pollutants specified in Table 2 of Schedule 4, for the calendar year before the previous calendar year.
+
+(2) The inventory and report referred to in paragraph (1) must be prepared or updated—
+
+- (a) in accordance with the methodologies in the EMEP Reporting Guidelines and EMEP/EEA Guidebook;
+- (b) in accordance with Parts 1 and 3 of Annex 4 to the Directive.
+
+(3) The Secretary of State must take appropriate steps to ensure that the inventory and report referred to in paragraph (1) are made available to the public.
+
+### 13. Revocation
+
+The National Emission Ceilings Regulations 2002 [^c22924501] are revoked.
+
+Thérèse Coffey
+
+Parliamentary Under Secretary of State
+
+Department for Environment, Food and Rural Affairs
+
+## SCHEDULE 1 — National emissions inventory and projections
+
+Regulation 3
+
+Table 1
+
+Annual national inventory of emissions required under regulation 3(1)(a)
+
+To be prepared by total emissions by NFR 2014 source category
+
+| *Category* | *Pollutants* |
+| --- | --- |
+| Main pollutants | SO<sub>2,</sub> NO<sub>X,</sub> NMVOC, NH<sub>3,</sub> CO |
+| Heavy metals | Cd, Hg, Pb |
+| Persistent organic pollutants | Total PAHs, benzo(a)pyrene, benzo(b)fluoranthene, benzo(k)fluoranthene, indeno(1,2,3-cd)pyrene, dioxins/furans, PCBs, HCB |
+| Particulate matter | PM<sub>2.5</sub>, PM<sub>10</sub>, BC (if available) |
+
+Table 2
+
+Biannual national emissions projections from 2019 required under regulation 3(1)(b)
+
+To be prepared by total projected emissions by aggregated NFR 2014
+
+| *Category* | *Pollutants* | *Projection years* |
+| --- | --- | --- |
+| Main pollutants | SO<sub>2,</sub> NO <sub>X,</sub> NMVOC, NH<sub>3</sub> | 2020, 2025, 2030 (2040 and 2050 where available) |
+| Particulate matter | PM<sub>2.5</sub>, BC (if available) | 2020, 2025, 2030 (2040 and 2050 where available) |
+
+## SCHEDULE 2 — Information to be published with an adjusted inventory of emissions
+
+Regulation 4(3)
+
+**1.** Evidence that the relevant national emission ceiling or national emission reduction commitment is exceeded.
+
+**2.** Evidence of the extent to which the adjustment to the national emission inventory reduces the exceedance and contributes to compliance with the concerned national emission ceiling or national emission reduction commitment.
+
+**3.** An estimation of whether and when the concerned national emission ceiling or national reduction commitment is expected to be attained, based on national emission projections without the adjustment.
+
+**4.** Evidence that the adjustment is consistent with one or more of the following (with reference made, as appropriate, to relevant previous adjustments)—
+
+- (a) new emission source categories—
+  - (i) evidence that the new emission source category is acknowledged in scientific literature or the EMEP/EEA Guidebook;
+  - (ii) evidence that the relevant source category was not included in the relevant historic national emission inventory at the time when the national emission reduction commitment was set (for the purpose of the national emission reduction commitment in Regulation 6(2) the commitment shall be considered as having been set on 4th May 2012);
+  - (iii) evidence that emissions from a new source category contribute to it not being possible to meet a national emission ceiling or national emission reduction commitment, supported by a detailed description of the methodology, data and emission factors used to support that conclusion;
+- (b) significantly different emission factors used for determining emissions from specific source categories—
+  - (i) a description of the original emission factors, including a detailed description of the scientific basis upon which the emission factor was derived;
+  - (ii) evidence that the original emission factors were used for determining the emission reductions at the time when they were set;
+  - (iii) a description of the updated emission factors, including detailed information on the scientific basis upon which the relevant emission factor was derived;
+  - (iv) a comparison of emission estimates made using the original and the updated emission factors, demonstrating that the change in emission factors contributes to it not being possible to meet a national emission ceiling or national emission reduction commitment;
+  - (v) the rationale for deciding whether the changes in emission factors are significant;
+- (c) significantly different methodologies used for determining emissions from specific source categories—
+  - (i) a description of the original methodology used, including detailed information on the scientific basis upon which the relevant emission factor was derived;
+  - (ii) evidence that the original methodology was used for determining the national emission ceiling or national emission reduction commitment at the time when they were set;
+  - (iii) a description of the updated methodology used, including a detailed description of the scientific basis or reference upon which it has been derived;
+  - (iv) a comparison of emission estimates made using the original and updated methodologies demonstrating that the change in methodology contributes to it not being possible to meet a national emission ceiling or national emission reduction commitment;
+  - (v) the rationale for deciding whether the change in methodology is significant.
+
+## SCHEDULE 3 — National emission ceilings and national emission reduction commitments
+
+Regulation 5 & 6
+
+Table 1
+
+National emission ceilings to be achieved in each of 2018 and 2019
+
+The amount specified for the purpose of regulation 5(1) is the relevant figure shown in the table below less the emissions of that pollutant from Gibraltar in the relevant year.
+
+| *SO<sub>2</sub> Kilotonnes* | *NO<sub>x</sub> Kilotonnes* | *NMVOC Kilotonnes* | *NH<sub>3</sub> Kilotonnes* |
+| --- | --- | --- | --- |
+| 585 | 1167 | 1200 | 297 |
+
+Table 2
+
+National reduction commitments in 2020 and in each subsequent year up to and including 2029
+
+The figures show the percentage reductions to be made for the purpose of regulation 6(2).
+
+| *SO<sub>2</sub>* | *NO<sub>x</sub>* | *NMVOC* | *NH<sub>3</sub>* | *PM<sub>2.5</sub>* |
+| --- | --- | --- | --- | --- |
+| 59% | 55% | 32% | 8% | 30% |
+
+Table 3
+
+National reduction commitments in 2030 and in each subsequent year
+
+The figures show the percentage reductions to be made for the purpose of regulation 6(3).
+
+| *SO<sub>2</sub>* | *NO<sub>x</sub>* | *NMVOC* | *NH<sub>3</sub>* | *PM<sub>2.5</sub>* |
+| --- | --- | --- | --- | --- |
+| 88% | 73% | 39% | 16% | 46%[^key-7bef3d445bdf9e3a9db86ea62368a359] |
+
+## SCHEDULE 4 — Spatially disaggregated and large point source inventories
+
+Regulation 12
+
+Table 1
+
+Spatially disaggregated and large point source inventories of emissions required under regulation 12(1)(a)
+
+To be prepared by national gridded data of emissions by NFR 2014 source category and large point sources
+
+| *Category* | *Pollutants* |
+| --- | --- |
+| Main pollutants | SO<sub>2,</sub> NO<sub>X,</sub> NMVOC, NH<sub>3,</sub> CO |
+| Heavy metals | Cd, Hg, Pb |
+| Persistent organic pollutants | Total PAHs, PCBs, HCB, dioxins/furans, |
+| Particulate matter | PM<sub>2.5</sub>, PM<sub>10,</sub> BC (if available) |
+
+Table 2
+
+Annual informative inventory report required under regulation 12(1)(b)
+
+| *Category* | *Pollutants* |
+| --- | --- |
+| Main pollutants | SO<sub>2,</sub> NO<sub>X,</sub> NMVOC, NH<sub>3,</sub> CO |
+| Heavy metals | Cd, Hg, Pb |
+| Persistent organic pollutants | Total PAHs, benzo(a)pyrene, benzo(b)fluoranthene, benzo(k)fluoranthene, indeno(1,2,3-cd)pyrene, dioxins/furans, PCBs, HCB |
+| Particulate matter | PM<sub>2.5</sub>, PM<sub>10, </sub>BC (if available) |
+| Additional (if available) | Arsenic, chromium, copper, nickel, selenium, zinc (and their compounds) and total suspended particles |
+
+*(This note is not part of the Regulations)*
+
+These Regulations implement in the United Kingdom Directive 2016/2284/EU of the European Parliament and the Council relating to national emission ceilings for certain atmospheric pollutants (OJ No L 344, 17.12.2016, p 1). This Directive implements at the EU level obligations under the United Nations Economic Commission for Europe 1979 Convention on Long-Range Transboundary Air Pollution and its 1999 Protocol to Abate Acidification, Eutrophication and Ground-level Ozone, which was revised in 2012.
+
+Regulation 3 requires the Secretary of State to prepare an annual inventory of emissions of certain pollutants occurring in the United Kingdom, and projections of such emissions in certain years specified in Schedule 1. If the conditions in regulation 4 are met, the Secretary of State may prepare an adjusted inventory of emissions.
+
+Regulation 5 requires the Secretary of State to ensure that in 2010 and each year to and including 2019 anthropogenic emissions of sulphur dioxide, nitrogen oxides, volatile organic compounds and ammonia occurring within the United Kingdom do not exceed the amounts specified in Table 1 of Schedule 3.
+
+Regulation 6 requires the Secretary of State to ensure in each year from 2020 until 2029 anthropogenic emissions of sulphur dioxide, nitrogen oxides, volatile organic compounds, ammonia and fine particulate matter occurring within the United Kingdom do not exceed the national emission reduction commitments specified in Table 2 of Schedule 3. It further requires the Secretary of State to ensure that in 2030 and each subsequent year those emissions do not exceed the national emission reduction commitments specified in Table 3 of Schedule 3. Regulation 7 requires the Secretary of State to ensure emissions in 2025 are following a linear reduction trajectory between the targets to me met in 2020 and 2030, subject to certain conditions. The achievement of the national emission reduction commitments is subject to the derogations in regulation 8 which the Secretary of State can apply in certain conditions.
+
+Regulation 9 requires the Secretary of State to prepare a national air pollution control programme. Public authorities are to have regard to the programme when exercising any functions which significantly affect the level of emissions for the pollutants that these Regulations cover. In accordance with regulation 10 the Secretary of State must consult the public when preparing or significantly revising a national air pollution control programme.
+
+Regulation 11 requires the Secretary of State to locate sites representative of specified ecosystems and habitats in order to monitor the negative impacts of air pollution.
+
+An impact assessment of the effect that this instrument will have on the costs of business, the voluntary sector and the public sector is available from the International Air Quality Team at the Department for Environment, Food and Rural Affairs, Nobel House, 17 Smith Square, London SW1P 3JR.
+
+## Annotations
+
+[^c22924351]: Marginal citation: [1972 c.68](https://www.legislation.gov.uk/ukpga/1972/68); [section 2(2)](https://www.legislation.gov.uk/uksi/2018/129/section/2/2) was amended by section 27(a) of the [Legislative and Regulatory Reform Act 2006 (c.51)](https://www.legislation.gov.uk/ukpga/2006/51) and by Part 1 of the Schedule to the [European Union (Amendment) Act 2008 (c.7)](https://www.legislation.gov.uk/ukpga/2008/7).
+
+[^c22924361]: Marginal citation: [S.I. 2008/301](https://www.legislation.gov.uk/uksi/2008/301).
+
+[^c22924371]: Marginal citation: OJ No L 344, 17.12.2016, p 1-31.
+
+[^c22924381]: Marginal citation: The EMEP/EEA Guidebook can be obtained or viewed at the Department for Environment, Food and Rural Affairs, Nobel House, 17 Smith Square, London SW1P 3JR or accessed at https://www.eea.europa.eu/publications/emep-eea-guidebook-2016.
+
+[^c22924391]: Marginal citation: The EMEP Reporting Guidelines can be obtained or viewed at the Department for Environment, Food and Rural Affairs, Nobel House, 17 Smith Square, London SW1P 3JR or it can be accessed at
+
+    http://www.ceip.at/fileadmin/inhalte/emep/2014\_Guidelines/ece.eb.air.125\_ADVANCE\_VERSION\_reporting\_guidelines\_2013.pdf.
+
+[^c22924401]: Marginal citation: The NFR 2014 can be obtained or viewed at the Department for Environment, Food and Rural Affairs, Nobel House, 17 Smith Square, London SW1P 3JR or it can be accessed at http://www.ceip.at/fileadmin/inhalte/emep/2014\_Guidelines/Annex\_I\_Emissions\_reporting\_template.xls.
+
+[^c22924411]: Marginal citation: [1964 c.29](https://www.legislation.gov.uk/ukpga/1964/29); [section 1(7)](https://www.legislation.gov.uk/uksi/2018/129/section/1/7) was amended by paragraph 1 of Schedule 3 to the [Oil and Gas (Enterprise) Act 1982 (c.23)](https://www.legislation.gov.uk/ukpga/1982/23) and section 103 of the [Energy Act 2011 (c.16)](https://www.legislation.gov.uk/ukpga/2011/16).
+
+[^c22924421]: Marginal citation: [S.I. 2013/3161](https://www.legislation.gov.uk/uksi/2013/3161).
+
+[^c22924431]: Marginal citation: [S.I. 2014/3306](https://www.legislation.gov.uk/uksi/2014/3306).
+
+[^c22924441]: Marginal citation: The United Nations Convention on the Law of the Sea can be obtained or viewed at the Department for Environment, Food and Rural Affairs, Nobel House, 17 Smith Square, London SW1P 3JR or it can be accessed at http://www.un.org/Depts/los/convention\_agreements/texts/unclos/closindx.htm.
+
+[^c22924451]: Marginal citation: The Convention can be obtained or viewed at the Department for Environment, Food and Rural Affairs, Nobel House, 17 Smith Square, London SW1P 3JR or it can be accessed at https://www.unece.org/fileadmin/DAM/env/lrtap/full%20text/1979.CLRTAP.e.pdf.
+
+[^key-addf57b8dc09d8fee028b1b3c2846cad]: Textual amendment: [Reg. 2(4)](https://www.legislation.gov.uk/uksi/2018/129/regulation/2/4) inserted (31.12.2020) by [The Air Quality (Amendment of Domestic Regulations) (EU Exit) Regulations 2019 (S.I. 2019/74)](https://www.legislation.gov.uk/uksi/2019/74), [regs. 2(b)](https://www.legislation.gov.uk/uksi/2019/74/regulation/2/b), [6](https://www.legislation.gov.uk/uksi/2019/74/regulation/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c22924461]: Marginal citation: The UK National Atmospheric Emissions Inventory can be obtained or viewed at the Department for Environment, Food and Rural Affairs, Nobel House, 17 Smith Square, London SW1P 3JR or accessed at http://naei.beis.gov.uk/data/data-selector?view=air-pollutants.
+
+[^c22924471]: Marginal citation: The report can be obtained or viewed at the Department for Environment, Food and Rural Affairs, Nobel House, 17 Smith Square, London SW1P 3JR or accessed at .
+
+[^c22924481]: Marginal citation: The report can be obtained or viewed at the Department for Environment, Food and Rural Affairs, Nobel House, 17 Smith Square, London SW1P 3JR or accessed at http://www.iiasa.ac.at/web/home/research/researchPrograms/air/policy/TSAP\_16a.pdf and http://www.iiasa.ac.at/web/home/research/researchPrograms/air/policy/TSAP\_16b.pdf.
+
+[^key-16327c889961c147f7ca995527773904]: Textual amendment: [Reg. 9](https://www.legislation.gov.uk/uksi/2018/129/regulation/9) revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/1) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)
+
+[^key-4aa3e8d541e3f594219b01b84b7dbbf2]: Textual amendment: [Reg. 10](https://www.legislation.gov.uk/uksi/2018/129/regulation/10) revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/1) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)
+
+[^c22924501]: Marginal citation: [S.I. 2002/3118](https://www.legislation.gov.uk/uksi/2002/3118).
+
+[^key-7bef3d445bdf9e3a9db86ea62368a359]: Textual amendment: Word in [Sch. 3](https://www.legislation.gov.uk/uksi/2018/129/schedule/3) substituted (10.12.2020) by [The Environment (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1313)](https://www.legislation.gov.uk/uksi/2020/1313), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1313/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2020/1313/regulation/3)

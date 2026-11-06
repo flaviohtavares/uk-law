@@ -1,0 +1,781 @@
+---
+title: The Democratic People's Republic of Korea (European Union Financial Sanctions) Regulations 2013
+id: uksi/2013/1877
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2013-07-25'
+text_date: '2017-01-05'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2013/1877
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2013/1877/pdfs/uksiem_20131877_en.pdf
+- http://www.legislation.gov.uk/uksi/2013/1877/pdfs/uksi_20131877_en.pdf
+- http://www.legislation.gov.uk/uksi/2013/1877/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Democratic People's Republic of Korea (European Union Financial Sanctions) Regulations 2013
+
+> Text as at 2017-01-05.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2013 No. 1877
+
+Criminal Law
+
+The Democratic People's Republic of Korea (European Union Financial Sanctions) Regulations 2013
+
+Made
+
+25th July 2013
+
+Laid before Parliament
+
+26th July 2013
+
+Coming into force
+
+16th August 2013
+
+The Treasury are designated [^c23371971] for the purposes of section 2(2) of the European Communities Act 1972 [^c23371981] in relation to restrictive measures against persons or bodies listed by an international organisation.
+
+These Regulations make provision for a purpose mentioned in section 2(2) of that Act and it appears to the Treasury that it is expedient for any reference to an Annex to Council Regulation [(EC) No. 329/2007](https://www.legislation.gov.uk/european/regulation/2007/0329) of 27 March 2007 [^c23371991] concerning restrictive measures against the Democratic People's Republic of Korea to be construed as a reference to that Annex as amended from time to time.
+
+The Treasury, in exercise of the powers conferred by section 2(2) of, and paragraph 1A of Schedule 2 to, the European Communities Act 1972, make the following Regulations.
+
+## PART 1 — General
+
+### 1. Citation, commencement and application
+
+(1) These Regulations may be cited as the Democratic People's Republic of Korea (European Union Financial Sanctions) Regulations 2013 and shall come into force on 16th August 2013.
+
+(2) An offence under these Regulations may be committed by conduct wholly or partly outside the United Kingdom by—
+
+- (a) a UK national, or
+- (b) a body incorporated or constituted under the law of any part of the United Kingdom.
+
+(3) In paragraph (2)—
+
+- “**conduct**” includes acts and omissions;
+- “**UK national**” means—
+  - (a) a British citizen,
+  - (b) a British overseas territories citizen who acquired their citizenship from a connection with Gibraltar, or
+  - (c) a British subject under Part 4 of the British Nationality Act 1981 (British subjects) [^c23372001] with the right of abode in the United Kingdom.
+
+### 2. Interpretation
+
+(1) In these Regulations—
+
+- “**the 2000 Act**” means the Financial Services and Markets Act 2000 [^c23372011];
+- “**the Council Regulation**” means Council Regulation (EU) No. 329/2007 of 27 March 2007 concerning restrictive measures against Democratic People's Republic of Korea, and a reference to an Annex to that Regulation is to be construed as a reference to that Annex as amended from time to time;
+- “**designated person**” means a person, entity or body listed in Annex IV, V or Va to the Council Regulation;
+- “**document**” includes information recorded in any form and, in relation to information recorded otherwise than in legible form, references to its production include producing a copy of the information in legible form;
+- “**relevant institution**” means—
+  - (a) a person who has permission under Part 4A of the 2000 Act (permission to carry on regulated activities) [^c23372021];
+  - (b) an EEA firm of the kind mentioned in paragraph 5(b) of Schedule 3 to the 2000 Act (EEA passport rights) [^c23372031] which has permission under paragraph 15 of that Schedule [^c23372041] (as a result of qualifying for authorisation under paragraph 12 of that Schedule [^c23372051]) to accept deposits; or
+  - (c) an undertaking which by way of business operates a currency exchange office, transmits money (or any representations of monetary value) by any means or cashes cheques which are made payable to customers.
+
+(2) The definition of “relevant institution” in paragraph (1) must be read with—
+
+- (a) section 22 [^c23372061] of the 2000 Act (regulated activities),
+- (b) any relevant order under that section [^c23372071], and
+- (c) Schedule 2 [^c23372081] to that Act (regulated activities).
+
+(3) Any expression used both in these Regulations and in the Council Regulation has the meaning that it bears in the Council Regulation.
+
+## PART 2 — Funds and Economic Resources
+
+### 3. Freezing of funds and economic resources
+
+(1) A person (“P”) must not deal with funds or economic resources belonging to, or owned, held or controlled by, a designated person if P knows, or has reasonable cause to suspect, that P is dealing with such funds or economic resources.
+
+(2) In paragraph (1) “**deal with**” means—
+
+- (a) in relation to funds—
+  - (i) use, alter, move, allow access to or transfer;
+  - (ii) deal with the funds in any other way that would result in any change in volume, amount, location, ownership, possession, character or destination; or
+  - (iii) make any other change that would enable use, including portfolio management; and
+- (b) in relation to economic resources, exchange, or use in exchange, for funds, goods or services.
+
+(3) Paragraph (1) is subject to regulation 9.
+
+### 4. Making funds available to a designated person
+
+(1) A person (“P”) must not make funds available, directly or indirectly, to a designated person if P knows, or has reasonable cause to suspect, that P is making the funds so available.
+
+(2) Paragraph (1) is subject to regulations 8 and 9.
+
+### 5. Making funds available for the benefit of a designated person
+
+(1) A person (“P”) must not make funds available to any person for the benefit of a designated person if P knows, or has reasonable cause to suspect, that P is making the funds so available.
+
+(2) For the purposes of this regulation—
+
+- (a) funds are made available for the benefit of a designated person only if that person thereby obtains, or is able to obtain, a significant financial benefit, and
+- (b) “**financial benefit**” includes the discharge of a financial obligation for which the designated person is wholly or partly responsible.
+
+(3) Paragraph (1) is subject to regulations 8 and 9.
+
+### 6. Making economic resources available to a designated person
+
+(1) A person (“P”) must not make economic resources available, directly or indirectly, to a designated person if P knows, or has reasonable cause to suspect—
+
+- (a) that P is making the economic resources so available, and
+- (b) that the designated person would be likely to exchange the economic resources, or use them in exchange, for funds, goods or services.
+
+(2) Paragraph (1) is subject to regulation 9.
+
+### 7. Making economic resources available for the benefit of a designated person
+
+(1) A person (“P”) must not make economic resources available to any person for the benefit of a designated person if P knows, or has reasonable cause to suspect, that P is making the economic resources so available.
+
+(2) For the purposes of this regulation—
+
+- (a) economic resources are made available for the benefit of a designated person only if that person thereby obtains, or is able to obtain, a significant financial benefit, and
+- (b) “**financial benefit**” includes the discharge of a financial obligation for which the designated person is wholly or partly responsible.
+
+(3) Paragraph (1) is subject to regulation 9.
+
+### 7A. Funds and economic resources: Government of Democratic People’s Republic of Korea and Worker’s Party of Korea[^key-340733248e7d423b8d9425efdecff884]
+
+(1) The Treasury may direct that the provisions of regulations 4 to 7 apply in relation to a person as if that person were a designated person.
+
+(2) The Treasury may only make a direction under paragraph (1)—
+
+- (a) in respect of a person within a category listed in paragraph (3); and
+- (b) when the conditions in paragraph (4) are satisfied.
+
+(3) Categories of persons in respect of whom a direction may be made are—
+
+- (a) a person associated with the Government of the Democratic People’s Republic of Korea;
+- (b) a person associated with the Worker’s Party of Korea;
+- (c) a person acting on behalf or at the direction of any person within the categories listed in sub-paragraph (a) or (b); or
+- (d) a person owned or controlled by any person listed within the categories in sub-paragraph (a) or (b).
+
+(4) The conditions in this paragraph are satisfied if—
+
+- (a) funds and economic resources have been or are likely to be made available to a person for a purpose other than that of a diplomatic or consular mission, including a mission to the United Nations; and
+- (b) the Treasury consider that the person is associated with nuclear-related, other weapons of mass destructions-related, or ballistic missile-related programmes, or other activities prohibited by the Council Regulation.
+
+(5) A credit or financial institution must inform the Treasury if it suspects that funds or economic resources have been or are likely to be made available to any person listed in a category in paragraph (3) for a purpose other than that of a diplomatic or consular mission.
+
+(6) Any direction made under paragraph (1) must be—
+
+- (a) published by the Treasury on their website;
+- (b) sent by the Treasury to one or more credit and financial institutions; or
+- (c) sent by the Treasury to one or more other persons.
+
+### 8. Credits to a frozen account
+
+(1) The prohibitions in regulations 4 and 5 are not contravened by a person who credits a frozen account with—
+
+- (a) interest or other earnings due on the account, or
+- (b) payments due under contracts, agreements or obligations that were concluded or arose before the account became a frozen account.
+
+(2) The prohibitions in regulations 4 and 5 on making funds available do not prevent a relevant institution from crediting a frozen account where it receives funds transferred to the account.
+
+(3) A relevant institution must inform the Treasury without delay if it credits a frozen account in accordance with paragraph (1)(b) or (2).
+
+(4) In this regulation “**frozen account**” means an account with a relevant institution which is held or controlled (directly or indirectly) by a designated person.
+
+### 9. Licences
+
+(1) The prohibitions in regulations 3 to 7A,[^key-0cfc57b4b08723468837669ffb80eb13] 10(1)(b) to (d)[^key-640f39485398f31cce7fa7ab42ed66fa] and 13B(2) do not apply to anything done under the authority of a licence granted by the Treasury.
+
+(2) A licence must specify the acts authorised by it and may be—
+
+- (a) general or granted to a category of persons or to a particular person;
+- (b) subject to conditions;
+- (c) of indefinite duration or subject to an expiry date.
+
+(3) The Treasury may vary or revoke a licence at any time.
+
+(4) On the grant, variation or revocation of a licence, the Treasury must—
+
+- (a) in the case of a licence granted to a particular person, give written notice of the grant, variation or revocation to that person,
+- (b) in the case of a general licence or a licence granted to a category of persons, take such steps as the Treasury consider appropriate to publicise the grant, variation or revocation of the licence.
+
+(5) A person commits an offence who, for the purpose of obtaining a licence, knowingly or recklessly—
+
+- (a) provides information that is false in a material respect, or
+- (b) provides or produces a document that is not what it purports to be.
+
+(6) A person who purports to act under the authority of a licence but who fails to comply with any conditions included in the licence commits an offence.
+
+## PART 3 — Restrictions on Financial Services
+
+### 10. Credit and financial institutions: accounts and correspondent banking relationships
+
+(1)[^key-c6478686ff7226cf6fee988357d4fa65] A credit or financial institution must not—
+
+- (a) open a new bank account with,
+- (b) establish a new correspondent banking relationship with,
+- (c) establish a new joint venture with, or
+- (d) take an ownership interest in,
+
+take an ownership interest in, a person falling within paragraph (2), if the credit or financial institution knows or has reasonable cause to suspect that the account, relationship or venture is with, or the ownership interest is in, a person falling within paragraph (2).
+
+(2) The following persons fall within this paragraph—
+
+- (a) a credit or financial institution domiciled in the Democratic People's Republic of Korea;
+- (b) a branch or subsidiary, wherever located, of a credit or financial institution domiciled in the Democratic People's Republic of Korea as listed in Annex VI of the Council Regulation;
+- (c) a credit or financial institution wherever located that is not domiciled in the Democratic People's Republic of Korea but is controlled by a person or entity domiciled in the Democratic People's Republic of Korea, as listed in Annex VI of the Council Regulation.
+
+(3) A credit or financial institution must not—
+
+- (a) open a new representative office in the Democratic People's Republic of Korea, or
+- (b) establish a new branch or subsidiary in the Democratic People's Republic of Korea.
+
+(4)[^key-3f4a9b37c7feb81302f6975a58952f48] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 11. Agreements
+
+A person (“P”) must not conclude an agreement for, or on behalf of, a person falling within regulation 10(2) which relates to the opening of a representative office or the establishment of a branch or subsidiary in the European Union, if P knows or has reasonable cause to suspect that the agreement is for, or on behalf of, such a person.
+
+### 12. Acquisition or extension of ownership interest
+
+A person falling within regulation 10(2) must not acquire or extend a participation, or acquire any other ownership interest, in a credit or financial institution.
+
+### 13. Sale or purchase of bonds
+
+(1) A person (“P”) must not sell or purchase public or public-guaranteed bonds issued after 19th February 2013, directly or indirectly, to or from a person, entity or body falling within paragraph (4) if P knows or has reasonable cause to suspect that the sale or purchase is to or from such a person, entity or body.
+
+(2) A person (“P”) must not provide brokering services with respect to public or public-guaranteed bonds issued after 19th February 2013 to a person, entity or body falling within paragraph (4) if P knows or has reasonable cause to believe that the services are being provided to such a person, entity or body.
+
+(3) A person (“P”) must not assist a person, entity or body falling within paragraph (4) to issue public or public-guaranteed bonds, by providing—
+
+- (a) brokering services,
+- (b) advertising, or
+- (c) any other service with respect to such bonds,
+
+if P knows or has reasonable cause to suspect that P is assisting such a person, entity or body.
+
+(4) The following persons, entities and bodies fall within this paragraph—
+
+- (a) the Democratic People's Republic of Korea and its Government, and its public bodies, corporations and agencies;
+- (b) the Central Bank of the Democratic People's Republic of Korea;
+- (c) a person[^key-11a677d2fb6be16d5c7d2b29aabc42b5] referred to in regulation 10(2);
+- (d) a person, entity or body acting on behalf of or at the direction of a legal person, entity or body falling within sub-paragraphs (a) or (b);
+- (e) a legal person, entity or body owned or controlled by a person, entity or body falling within sub-paragraphs (a) to (c).
+
+### 13A. DPRK credit and financial institutions: branches, subsidiaries, and representative offices[^key-08b62d20a13e2e98c367c209784320d1]
+
+A person falling within regulation 10(2) must not open , operate or facilitate the operation of[^key-1ac941cdb1c1d9d9baadf28d8fbe5f24]—
+
+- (a) a branch;
+- (b) a subsidiary; or
+- (c) a representative office;
+
+within the United Kingdom.
+
+### 13B. Severance of existing financial relationships
+
+(1) A credit or financial institution must, by 31st May 2016—
+
+- (a) terminate any joint venture with;
+- (b) relinquish any ownership interest in; and
+- (c) terminate any correspondent banking relationship with;
+
+a person falling within regulation 10(2).
+
+(2) The Treasury may direct that a credit or financial institution must—
+
+- (a) close any bank account with a person falling within regulation 10(2); or
+- (b) close any branch, subsidiary, or representative office in the Democratic People’s Republic of Korea.
+
+(3) The Treasury may make a direction under paragraph (2) only if they are satisfied that any such account, branch, subsidiary, or representative office could contribute to—
+
+- (a) the nuclear-related, other weapons of mass destructions-related, or ballistic missile-related programmes of the Democratic People’s Republic of Korea;
+- (b) other activities prohibited under the Council Regulation;
+- (c) other activities prohibited under Council Decision 2013/183/CSFP; or
+- (d) the circumvention of prohibitions that apply in relation to such activities.
+
+(4) A credit or financial institution must inform the Treasury if it suspects that any such account, branch, subsidiary or representative office might contribute to any of the activities listed in paragraph (3).
+
+(5) Any direction made under paragraph (2) must be—
+
+- (a) published by the Treasury on their website;
+- (b) sent by the Treasury to one or more credit and financial institutions; or
+- (c) sent by the Treasury to one or more other persons.
+
+### 13C. Business directly or indirectly with designated persons
+
+A credit or financial institution must not participate in any business arrangements, including joint ventures, with—
+
+- (a) any person listed in Annex IV of the Council Regulation; or
+- (b) any other person acting on behalf or at the direction of such a person.
+
+### 13D. Financial support for trade[^key-294d5303b35a320c2eb40ba2e2b3cc13]
+
+(1) A person may not provide any financial support for trade with the Democratic People’s Republic of Korea[^key-60a2a79524783505166b03a18c9b3783] which may contribute to–
+
+- (a) nuclear-related programmes;
+- (b) other weapons of mass destruction-related programmes;
+- (c) ballistic missile-related programmes, or
+- (d) other activities prohibited by the Council Regulation.
+
+(2) In paragraph (1), financial support for trade includes, but is not limited to–
+
+- (a) finance;
+- (b) financial assistance;
+- (c) export credits;
+- (d) guarantees; and
+- (e) insurance.
+
+(3) The prohibition in paragraph (1) does not apply to–
+
+- (a) contracts and agreements for the provision of financial support entered into prior to 29th May 2016[^key-a5340c422eff16a38df47ef8bfbf0b1b]; and
+- (b) contracts and agreements for the provision of financial support for trade in food, agricultural, medical or humanitarian purposes.
+
+### 13E. Investment and commercial activities[^key-0cf680ca94077a4570e497c314852a45]
+
+(1) A person must not accept or approve investment in a commercial activity made by a person listed in paragraph (6).
+
+(2) A person must not grant financing or financial assistance to any legal person listed in paragraph (6)(d) to (f) or for the documented purpose of financing such legal persons.
+
+(3) A person must not establish a joint venture with a legal person listed in paragraph (6) if that person is engaged in any activities listed in paragraph (7).
+
+(4) A person may not acquire or extend any ownership interest in a legal person listed in paragraph (6) if that person is engaged in any activities listed in paragraph (7).
+
+(5) A person must not provide investment services directly related to any activity that is prohibited by paragraphs (2) to (4).
+
+(6) The persons listed in this paragraph are—
+
+- (a) a person associated with the Government of the Democratic People’s Republic of Korea;
+- (b) a person associated with the Worker’s Party of Korea;
+- (c) a national of the Democratic People’s Republic of Korea;
+- (d) a legal person, entity or body incorporated or constituted under the law of the Democratic People’s Republic of Korea;
+- (e) a person, entity or body acting on behalf of or at the direction of a person, entity or body falling within sub-paragraphs (a) to (d); or
+- (f) a legal person, entity or body owned or controlled by a person, entity or body falling within sub-paragraphs (a) to (d).
+
+(7) The activities listed in this paragraph are–
+
+- (a) the nuclear-related, other weapons of mass destructions-related, or ballistic missile-related programmes of the Democratic People’s Republic of Korea;
+- (b) mining industry;
+- (c) refining industry; and
+- (d) chemical industry.
+
+### 13F. Transfers of funds
+
+(1) Subject to paragraph (3) a person (“P”) must not make a transfer of funds to, or receive a transfer of funds from, the Democratic People’s Republic of Korea.
+
+(2) Subject to paragraph (3) a credit and financial institution falling within the scope of Article 16 of the Council Regulation must not enter into, or continue to participate in, any transaction with–
+
+- (a) credit and financial institutions domiciled in the Democratic People’s Republic of Korea;
+- (b) branches or subsidiaries falling within the scope of Article 16 of the Council Regulation of credit and financial institutions domiciled in the Democratic People’s Republic of Korea, as listed in Annex VI to the Council Regulation;
+- (c) branches or subsidiaries falling outside of the scope of Article 16 of the Council Regulation of credit and financial institutions domiciled in the Democratic People’s Republic of Korea, as listed in Annex VI to the Council Regulation;
+- (d) credit and financial institutions that are neither domiciled in the Democratic People’s Republic of Korea nor fall within the scope of Article 16 of the Council Regulation, but are controlled by persons listed in Annex VI of the Council Regulation.
+
+(3) A transfer of funds may be made if–
+
+- (a) the transfer relates to a transaction mentioned in paragraph (4); and
+- (b) where the value of the transfer is over €15,000, P or the institution has obtained prior authorisation from the Treasury.
+
+(4) The transactions are–
+
+- (a) transactions regarding foodstuffs, healthcare or medical equipment;
+- (b) transactions for agricultural or humanitarian purposes;
+- (c) transactions regarding personal remittances;
+- (d) transactions that have been licensed under regulation 9;
+- (e) transactions that are permitted under an exemption contained in the Council Regulation;
+- (f) transactions regarding a trade contract that is not prohibited by the Council regulation;
+- (g) transactions regarding the official purposes of a diplomatic or consular mission of the Democratic People’s Republic of Korea;
+- (h) transactions regarding the official purposes of a diplomatic or consular mission of a state other than the Democratic People’s Republic of Korea;
+- (i) transactions regarding the official purposes of an international organisation enjoying immunities in accordance with international law;
+- (j) transactions required exclusively for the purposes of implementing projects funded by the European Union or its Member States which address the needs of the civilian population of the Democratic People’s Republic of Korea or the promotion of denuclearisation; and
+- (k) transactions for payments which satisfy claims against–
+  - (i) the Democratic People’s Republic of Korea;
+  - (ii) a national of the Democratic People’s Republic of Korea;
+  - (iii) a legal person, entity or body incorporated or constituted under the law of the Democratic People’s Republic of Korea;
+
+(5) The requirement for prior authorisation in paragraph (3)(b) shall not apply to any transaction which falls within (4)(h) or (i).
+
+(6) In this regulation–
+
+- (a) a reference to an amount in euro includes a reference to the equivalent amount in another currency; and
+- (b) a reference to a transfer of funds of a particular amount includes a transfer executed in several operations which appear to be linked, as well as a transfer executed in a single operation.
+
+**13G.** (1) An authorisation granted by the Treasury under regulation 13F may be–
+
+- (a) general or granted to a category of persons or to a particular person;
+- (b) subject to conditions;
+- (c) of indefinite duration or subject to an expiry date.
+
+(2) The Treasury may vary or revoke an authorisation at any time.
+
+(3) On the grant, variation or revocation of an authorisation, the Treasury must–
+
+- (a) in the case of an authorisation granted to a particular person, give written notice of the grant, variation or revocation to that person,
+- (b) in the case of a general authorisation or an authorisation granted to a category of persons, take such steps as the Treasury consider appropriate to publicise the grant, variation or revocation of the authorisation.
+
+(4) A person commits an offence who, for the purpose of obtaining an authorisation, knowingly or recklessly–
+
+- (a) provides information that is false in a material respect, or
+- (b) provides or produces a document that is not what it purports to be.
+
+(5) A person who purports to act under an authorisation granted by the Treasury but who fails to comply with any conditions included in the authorisation commits an offence.
+
+## PART 4 — Offences
+
+### 14. Contravention and circumvention of prohibitions
+
+(1) A person who contravenes any of the prohibitions in regulations 3 to 7A[^key-4efc8ae88a0139c600a8e397212dc2c5] and 10 to 13F[^key-9d4d3a1abe24c7b10a30f17399f29a0f] commits an offence.
+
+(2) A person commits an offence who intentionally participates in activities knowing that the object or effect of them is (whether directly or indirectly)—
+
+- (a) to circumvent any of the prohibitions in regulations 3 to 7A[^key-be460d6ca876648dc807a58355512ae7] and 10 to 13F[^key-ad744c12c14935bb97a010d7592f821d], or
+- (b) to enable or facilitate the contravention of any such prohibition or requirement.
+
+### 15. Officers of a body corporate etc.
+
+(1) Where an offence under these Regulations committed by a body corporate—
+
+- (a) is committed with the consent or connivance of any director, manager, secretary or other similar officer of the body corporate, or any person who was purporting to act in any such capacity, or
+- (b) is attributable to any neglect on the part of any such person,
+
+that person as well as the body corporate is guilty of the offence and is liable to be proceeded against and punished accordingly.
+
+(2) In paragraph (1) “**director**”, in relation to a body corporate whose affairs are managed by its members, means a member of the body corporate.
+
+(3) Paragraph (1) also applies in relation to a body that is not a body corporate, with the substitution for the reference to a director of the body of a reference—
+
+- (a) in the case of a partnership, to a partner;
+- (b) in the case of an unincorporated body other than a partnership—
+  - (i) where the body's affairs are managed by its members, to a member of the body;
+  - (ii) in any other case, to a member of the governing body.
+
+### 16. Penalties
+
+(1) A person guilty of an offence under regulation 9 , 13G[^key-a4c635f683eb05ec46a74248a70dce02] or 14 is liable—
+
+- (a) on conviction on indictment, to imprisonment for a term not exceeding two years or to a fine or to both;
+- (b) on summary conviction, to imprisonment for a term not exceeding three months or to a fine not exceeding the statutory maximum or to both.
+
+(2) A person guilty of an offence under paragraph 1(5) or paragraph 4(1) of the Schedule is liable on summary conviction to imprisonment for a term not exceeding three months or to a fine not exceeding level 5 on the standard scale or to both.
+
+### 17. Proceedings
+
+(1) Proceedings against any person for an offence under these Regulations may be taken before the appropriate court in the United Kingdom having jurisdiction in the place where that person is for the time being.
+
+(2) In England and Wales an information relating to an offence that is triable by a magistrates' court may be so tried if it is laid—
+
+- (a) at any time within three years after the commission of the offence, and
+- (b) within twelve months after the date on which evidence sufficient in the opinion of the prosecutor to justify the proceedings comes to the knowledge of the prosecutor.
+
+(3) In Scotland—
+
+- (a) summary proceedings for an offence may be commenced—
+  - (i) before the end of twelve months from the date on which evidence sufficient in the Lord Advocate's opinion to justify the proceedings came to the Lord Advocate's knowledge, and
+  - (ii) not later than three years after the commission of the offence; and
+- (b) section 136(3) of the Criminal Procedures (Scotland) Act 1995 [^c23372101] (time limit for certain offences) applies for the purpose of this paragraph as it applies for the purpose of that section.
+
+(4) In Northern Ireland summary proceedings for an offence may be instituted—
+
+- (a) at any time within three years after the commission of the offence, and
+- (b) within twelve months after the date on which evidence sufficient in the opinion of the prosecutor to justify the proceedings comes to the knowledge of the prosecutor.
+
+(5) For the purposes of this regulation a certificate of the prosecutor (or, in Scotland, the Lord Advocate) as to the date on which such evidence as is referred to above came to their notice is conclusive evidence.
+
+### 18. Consent to prosecution
+
+(1) Proceedings for an offence under these Regulations (other than for a summary offence) may not be instituted—
+
+- (a) in England and Wales, except by or with the consent of the Attorney General,
+- (b) in Northern Ireland—
+  - (i) where the offence is committed wholly or partly outside Northern Ireland, except by or with the consent of the Advocate General for Northern Ireland;
+  - (ii) for all other offences, except by or with the consent of the Director for Public Prosecutions for Northern Ireland.
+
+(2) Nothing in paragraph (1) prevents—
+
+- (a) the arrest of a person in respect of an offence under these Regulations, or
+- (b) the remand in custody or on bail of any person charged with such an offence.
+
+## PART 5 — Miscellaneous
+
+### 19. Information provisions
+
+The Schedule (which contains provisions concerning information gathering and disclosure) has effect.
+
+### 20. Notices
+
+(1) This regulation has effect in relation to any notice to be given to a person by the Treasury under regulation 9.
+
+(2) Any such notice may be given—
+
+- (a) by posting it to the person's last known address, or
+- (b) where the person is a body corporate, partnership or unincorporated body other than a partnership, by posting it to the registered or principal office of the body or partnership concerned.
+
+(3) Where the Treasury do not have an address for the person, they must make arrangements for the notice to be given to the person at the first available opportunity.
+
+### 21. The Crown
+
+(1) These Regulations bind the Crown.
+
+(2) No contravention by the Crown of a provision of these Regulations makes the Crown criminally liable.
+
+(3) The High Court or, in Scotland, the Court of Session may, on the application of a person appearing to the court to have an interest, declare unlawful any act or omission of the Crown that constitutes a contravention of a provision of these Regulations.
+
+(4) Nothing in this regulation affects Her Majesty in her private capacity.
+
+(5) Paragraph (4) is to be read as if section 38(3) of the Crown Proceedings Act 1947 [^c23372111] (meaning of Her Majesty in her private capacity) were contained in these Regulations.
+
+### 22. Revocation
+
+The Democratic People's Republic of Korea (Asset-Freezing) Regulations 2011 [^c23372121] are revoked.
+
+### 23. Saving
+
+Any licence which was granted by the Treasury under regulation 9 of the Democratic People's Republic of Korea (Asset-Freezing) Regulations 2011 and was in effect immediately before the coming into force of these Regulations shall have effect as if it were a licence granted by the Treasury under regulation 9 of these Regulations.
+
+David Evennett
+
+Stephen Crabb
+
+Two of the Lords Commissioners of Her Majesty's Treasury
+
+## SCHEDULE — Information Provisions
+
+Regulation 19
+
+### 1. Reporting obligations of relevant institutions
+
+A relevant institution must inform the Treasury as soon as practicable if—
+
+- (a) it knows, or has reasonable cause to suspect, that a person—
+  - (i) is a designated person, or
+  - (ii) has committed an offence under regulation 9 or 14, and
+- (b) the information or other matter on which the knowledge or suspicion is based came to it in the course of carrying on its business.
+
+(2) Where a relevant institution informs the Treasury under sub-paragraph (1), it must state—
+
+- (a) the information or other matter on which the knowledge or suspicion is based, and
+- (b) any information it holds about the person by which the person can be identified.
+
+(3) Sub-paragraph (4) applies if—
+
+- (a) a relevant institution informs the Treasury under sub-paragraph (1) that it knows, or has reasonable cause to suspect, that a person is a designated person, and
+- (b) that person is a customer of the institution.
+
+(4) The relevant institution must also state the nature and amount or quantity of any funds or economic resources held by it for the customer.
+
+(5) A relevant institution that fails to comply with any requirement of sub-paragraph (1), (2) or (4) commits an offence.
+
+### 2. Powers to request information
+
+(1) The Treasury may request a designated person to provide information concerning—
+
+- (a) funds or economic resources owned, held or controlled by or on behalf of the designated person, or
+- (b) any disposal of such funds or economic resources.
+
+(2) The Treasury may request a designated person to provide such information as the Treasury may reasonably require about expenditure—
+
+- (a) by or on behalf of the designated person, or
+- (b) for the benefit of the designated person.
+
+(3) The power in sub-paragraph (1) or (2) is exercisable only where the Treasury believe that it is necessary for the purpose of monitoring compliance with or detecting evasion of these Regulations.
+
+(4) The Treasury may request a person acting under a licence granted under regulation 9 to provide information concerning—
+
+- (a) funds or economic resources dealt with under the licence, or
+- (b) funds or economic resources made available under the licence.
+
+(5) The Treasury may request any person in or resident in the United Kingdom to provide such information as the Treasury may reasonably require for the purpose of—
+
+- (a) establishing for the purposes of these Regulations—
+  - (i) the nature and amount or quantity of any funds or economic resources owned, held or controlled by or on behalf of a designated person;
+  - (ii) the nature and amount or quantity of any funds or economic resources made available directly or indirectly to, or for the benefit of, a designated person; or
+  - (iii) the nature of any financial transactions entered into by a designated person;
+- (b) monitoring compliance with or detecting evasion of these Regulations; or
+- (c) obtaining evidence of the commission of an offence under these Regulations.
+
+(6) The Treasury may specify the manner in which, and the period within which, information is to be provided.
+
+(7) If no such period is specified, the information which has been requested must be provided within a reasonable time.
+
+(8) A request may include a continuing obligation to keep the Treasury informed as circumstances change, or on such regular basis as the Treasury may specify.
+
+(9) Information requested under this paragraph may relate to any period of time during which a person is, or was, a designated person.
+
+(10) Information requested under sub-paragraph (1)(b), (2) or (5)(a)(iii) may relate to any period of time before a person became a designated person (as well as, or instead of, any subsequent period of time).
+
+### 3. Production of documents
+
+(1) A request under paragraph 2 may include a request to produce specified documents or documents of a specified description.
+
+(2) Where the Treasury request that documents be produced, they may—
+
+- (a) take copies of or extracts from any document so produced;
+- (b) request any person producing a document to give an explanation of it; and
+- (c) where that person is a body corporate, partnership or unincorporated body other than a partnership, request any person who is—
+  - (i) in the case of a partnership, a present or past partner or employee of the partnership,
+  - (ii) in any other case, a present or past officer or employee of the body concerned,
+
+  to give such an explanation.
+
+(3) Where the Treasury request a designated person or a person acting under a licence granted under regulation 9 to produce documents, that person must—
+
+- (a) take reasonable steps to obtain the documents (if not already in the person's possession or control);
+- (b) keep the documents under the person's possession or control (except for the purpose of providing them to the Treasury or as the Treasury may otherwise permit).
+
+### 4. Failure to comply with request for information
+
+(1) A person commits an offence who—
+
+- (a) without reasonable excuse, refuses or fails within the time and in the manner specified (or, if no time has been specified, within a reasonable time) to comply with any request made under this Schedule;
+- (b) knowingly or recklessly gives any information, or produces any document, which is false in a material particular in response to such a request;
+- (c) with intent to evade the provisions of this Schedule, destroys, mutilates, defaces, conceals or removes any document; or
+- (d) otherwise intentionally obstructs the Treasury in the exercise of their powers under this Schedule.
+
+(2) Where a person is convicted of an offence under this paragraph, the court may make an order requiring that person, within such period as may be specified in the order, to comply with the request.
+
+### 5. General power to disclose information
+
+(1) The Treasury may disclose any information obtained by them pursuant to these Regulations—
+
+- (a) to a police officer;
+- (b) to any person holding or acting in any office under or in the service of—
+  - (i) the Crown in right of the Government of the United Kingdom;
+  - (ii) the Crown in right of the Scottish Administration, the Northern Ireland Administration or the Welsh Assembly Government;
+  - (iii) the States of Jersey, Guernsey or Alderney or the Chief Pleas of Sark;
+  - (iv) the Government of the Isle of Man; or
+  - (v) the Government of any British overseas territory;
+- (c) to any law officer of the Crown for Jersey, Guernsey or the Isle of Man;
+- (d) to the Legal Services Commission, the Scottish Legal Aid Board or the Northern Ireland Legal Services Commission;
+- (e) to the Financial Conduct Authority, the Prudential Regulation Authority, the Jersey Financial Services Commission, the Guernsey Financial Services Commission, the Isle of Man Insurance and Pensions Authority or the Isle of Man Financial Supervision Commission;
+- (f) for the purpose of giving assistance or co-operation, pursuant to the Council Regulation, to—
+  - (i) any organ of the United Nations, or
+  - (ii) the Council of the European Union, the European Commission or the Government of a Member State;
+- (g) with a view to instituting, or otherwise for the purposes of, any proceedings—
+  - (i) in the United Kingdom, for an offence under these Regulations, or
+  - (ii) in any of the Channel Islands, the Isle of Man or any British overseas territory, for an offence under a similar provision in any such jurisdiction; or
+- (h) with the consent of a person who, in their own right, is entitled to the information or to possession of the document, copy or extract, to any third party.
+
+(2) In sub-paragraph (1)(h) “**in their own right**” means not merely in the capacity as a servant or agent of another person.
+
+### 6. Application of provisions
+
+(1) Nothing done under this Schedule is to be treated as a breach of any restriction imposed by statute or otherwise.
+
+(2) But nothing in this Schedule authorises a disclosure that—
+
+- (a) contravenes the Data Protection Act 1998 [^c23372131], or
+- (b) is prohibited by Part 1 of the Regulation of Investigatory Powers Act 2000 [^c23372141].
+
+(3) Nothing in this Schedule is to be read as requiring a person who has acted as counsel or solicitor for any person to disclose any privileged information in their possession in that capacity.
+
+(4) This Schedule does not limit the circumstances in which information may be disclosed apart from this Schedule.
+
+(5) This Schedule does not limit the powers of the Treasury to impose conditions in connection with the discharge of their functions under regulation 9.
+
+(6) In this paragraph “**privileged information**” means information with respect to which a claim to legal professional privilege (in Scotland, to confidentiality of communications) could be maintained in legal proceedings.
+
+*(This note is not part of the Regulations)*
+
+These Regulations make provision relating to the enforcement of Council Regulation (EC) No. No. 329/2007 dated 27 March 2007 (OJ L 88, 29.3.2007, p.1) concerning restrictive measures against the Democratic People's Republic of Korea (“DPRK”) (“**the Council Regulation**”).
+
+The measures include the freezing of funds and economic resources of designated persons and ensuring that funds and economic resources are not made available to them or for their benefit. They also include broader financial sanctions measures.
+
+The Council Regulation has been amended recently by Council Regulation (EU) No. 296/2013 of 26 March 2013 (OJ L 90, 28.3.2013, p.4) and Council Regulation (EU) No. xxx/2013 of xx June 2013 (OJ L xx, xx.6.2013, p.x). The amendments include changes to the asset-freezing provisions and the imposition of additional financial sanctions measures relating to the actions of credit and financial institutions and the sale or purchase of bonds.
+
+Regulation 2 defines designated persons as any person named in Annex IV, V or Va to the Council Regulation (as amended from time to time). Annex IV includes those persons listed by the United Nations Security Council, Annex V includes those persons listed by the Council of the European Union and Annex Va includes those persons working on behalf of or at the direction of a person listed in Annex IV or V or those persons assisting in the evasion of sanctions or violating the provisions of the Council Regulation.
+
+Regulations 3 to 7 provide prohibitions against dealing with the funds or economic resources of a designated person, or making funds or economic resources available, directly or indirectly, to or for the benefit of a designated person.
+
+Regulation 8 provides an exception to the prohibitions in regulations 4 and 5 where a frozen account is credited for a permitted reason.
+
+Regulation 9 provides a licensing procedure to enable funds and economic resources to be exempted from the prohibitions.
+
+Regulation 10 prohibits a credit or financial institution establishing or maintaining certain relationships with certain DPRK banks, or opening a representative office or establishing a branch in the DPRK.
+
+Regulation 11 prohibits the making of an agreement for or on behalf of certain DPRK banks to establish a representative office, branch or subsidiary in the European Union.
+
+Regulation 12 prohibits certain DPRK banks acquiring or extending an ownership interest in a credit or financial institution.
+
+Regulation 13 prohibits the sale or purchase of bonds to or from, the provision of brokering services in respect of bonds to, and the provision of any assistance to issue bonds to certain persons, entities or bodies linked to the DPRK.
+
+Regulation 14 makes it an offence to breach any of the prohibitions in regulations 3 to 7 and 10 to 13, or to seek to circumvent those provisions. Regulations 15 to 18 contain provision about penalties, proceedings and who, in relation to bodies corporate and other bodies, may be prosecuted for an offence under the Regulations.
+
+Regulation 22 revokes the Democratic People's Republic of Korea (Asset-Freezing) Regulations 2011 which currently makes provision for penalties for contravention of the asset freezing measures contained in the Council Regulation. Regulation 23 provides that licences which were granted under those revoked Regulations continue to have effect for the purposes of these Regulations.
+
+The Schedule makes provision for information gathering and information disclosure.
+
+A list of designated persons is available on the Internet at: www.gov.uk/government/publications/financial-sanctions-consolidated-list-of-targets.
+
+An impact assessment has not been produced for this instrument as no impact on the costs of business or the voluntary sector is foreseen. Further information is available from Financial Sanctions, HM Treasury, 1 Horse Guards Road, London SW1A 2HQ and on the Treasury's website (www.gov.uk/government/organisations/hm-treasury).
+
+## Annotations
+
+[^c23371971]: Marginal citation: [S.I. 2010/1834](https://www.legislation.gov.uk/uksi/2010/1834).
+
+[^c23371981]: Marginal citation: [1972 c.68](https://www.legislation.gov.uk/ukpga/1972/68). Section 2(2) was amended by the [Legislative and Regulatory Reform Act 2006 (c.51)](https://www.legislation.gov.uk/ukpga/2006/51), [section 27(1)(a)](https://www.legislation.gov.uk/ukpga/2006/51/section/27/1/a) and the [European Union (Amendment) Act 2008 (c.7)](https://www.legislation.gov.uk/ukpga/2008/7), [Sch](https://www.legislation.gov.uk/ukpga/2008/7/schedule)edule, Part 1. Paragraph 1A of Schedule 2 was inserted by the Legislative and Regulatory Reform Act 2006, section 28 and amended by [S.I. 2007/1388](https://www.legislation.gov.uk/uksi/2007/1388) and the European Union (Amendment) Act 2008, Schedule, Part 1.
+
+[^c23371991]: Marginal citation: OJ L 88 29.3.2007, p.1, as amended most recently by Council Regulation (EU) No. 296/2013 of 26 March 2013 (OJ L 90 28.3.2013, p.4 and Council Regulation (EU) No. 696/2013 of 22.6.2013 (OJ L 198 23.7.2013, p.22).
+
+[^c23372001]: Marginal citation: [1981 c.61](https://www.legislation.gov.uk/ukpga/1981/61). Part 4 was amended by the [British Overseas Territories Act 2002 (c.8)](https://www.legislation.gov.uk/ukpga/2002/8), [section 1(1)(b)](https://www.legislation.gov.uk/ukpga/2002/8/section/1/1/b) and the [Nationality, Immigration and Asylum Act 2002 (c.41)](https://www.legislation.gov.uk/ukpga/2002/41), [sections 15](https://www.legislation.gov.uk/ukpga/2002/41/section/15) and 161, Schedule 2, paragraph 1(i) and Schedule 9.
+
+[^c23372011]: Marginal citation: [2000 c.8](https://www.legislation.gov.uk/ukpga/2000/8).
+
+[^c23372021]: Marginal citation: Part 4A was inserted by the [Financial Services Act 2012 (c.21)](https://www.legislation.gov.uk/ukpga/2012/21), [section 11(2)](https://www.legislation.gov.uk/ukpga/2012/21/section/11/2).
+
+[^c23372031]: Marginal citation: As amended by [S.I. 2006/3221](https://www.legislation.gov.uk/uksi/2006/3221).
+
+[^c23372041]: Marginal citation: As amended by the [Enterprise Act 2002 (c.40)](https://www.legislation.gov.uk/ukpga/2002/40), [section 278(1)](https://www.legislation.gov.uk/ukpga/2002/40/section/278/1), [Schedule 25](https://www.legislation.gov.uk/ukpga/2002/40/schedule/25), [paragraph 40(1)](https://www.legislation.gov.uk/ukpga/2002/40/paragraph/40/1) and (19)(a), the [Consumer Credit Act 2006 (c.14)](https://www.legislation.gov.uk/ukpga/2006/14), [section 33(9)](https://www.legislation.gov.uk/ukpga/2006/14/section/33/9) and by [S.I. 2003/2066](https://www.legislation.gov.uk/uksi/2003/2066) and [S.I. 2007/3253](https://www.legislation.gov.uk/uksi/2007/3253) and [S.I. 2012/1906](https://www.legislation.gov.uk/uksi/2012/1906).
+
+[^c23372051]: Marginal citation: As amended by [S.I. 2007/126](https://www.legislation.gov.uk/uksi/2007/126), [S.I](https://www.legislation.gov.uk/uksi/2007/126/section/I). 2007/3253 and [S.I. 2012/1906](https://www.legislation.gov.uk/uksi/2012/1906).
+
+[^c23372061]: Marginal citation: Section 22 was amended by the Financial Services Act 2012, section 7(1).
+
+[^c23372071]: Marginal citation: [S.I. 2001/544](https://www.legislation.gov.uk/uksi/2001/544) as amended, most recently by [S.I. 2013/655](https://www.legislation.gov.uk/uksi/2013/655).
+
+[^c23372081]: Marginal citation: Schedule 2 was amended by the [Dormant Bank and Building Society Accounts Act 2008 (c.31)](https://www.legislation.gov.uk/ukpga/2008/31), [section 15](https://www.legislation.gov.uk/ukpga/2008/31/section/15), [Schedule 2](https://www.legislation.gov.uk/ukpga/2008/31/schedule/2), [paragraph 1](https://www.legislation.gov.uk/ukpga/2008/31/paragraph/1), the [Regulation of Financial Services (Land Transactions) Act 2005 (c.24)](https://www.legislation.gov.uk/ukpga/2005/24), [section 1](https://www.legislation.gov.uk/ukpga/2005/24/section/1) and the Financial Services Act 2012, section 7(2) to (5) and section 8.
+
+[^key-340733248e7d423b8d9425efdecff884]: Textual amendment: Reg. 7A inserted (13.5.2016) by [The Democratic Peoples Republic of Korea (European Union Financial Sanctions) (Amendment) Regulations 2016 (S.I. 2016/578)](https://www.legislation.gov.uk/uksi/2016/578), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/578/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2016/578/regulation/3)
+
+[^key-0cfc57b4b08723468837669ffb80eb13]: Textual amendment: Words in reg. 9(1) substituted (13.5.2016) by [The Democratic Peoples Republic of Korea (European Union Financial Sanctions) (Amendment) Regulations 2016 (S.I. 2016/578)](https://www.legislation.gov.uk/uksi/2016/578), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/578/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2016/578/regulation/4)
+
+[^key-640f39485398f31cce7fa7ab42ed66fa]: Textual amendment: Words in [reg. 9(1)](https://www.legislation.gov.uk/uksi/2013/1877/regulation/9/1) substituted (5.1.2017) by [The Democratic Peoples Republic of Korea (European Union Financial Sanctions) (Amendment) (No. 3) Regulations 2016 (S.I. 2016/1214)](https://www.legislation.gov.uk/uksi/2016/1214), [regs. 1](https://www.legislation.gov.uk/uksi/2016/1214/regulation/1), [2(a)](https://www.legislation.gov.uk/uksi/2016/1214/regulation/2/a)
+
+[^key-c6478686ff7226cf6fee988357d4fa65]: Textual amendment: Reg. 10(1) substituted (13.5.2016) by [The Democratic Peoples Republic of Korea (European Union Financial Sanctions) (Amendment) Regulations 2016 (S.I. 2016/578)](https://www.legislation.gov.uk/uksi/2016/578), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/578/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2016/578/regulation/5)
+
+[^key-3f4a9b37c7feb81302f6975a58952f48]: Textual amendment: Reg. 10(4) omitted (13.5.2016) by virtue of [The Democratic Peoples Republic of Korea (European Union Financial Sanctions) (Amendment) Regulations 2016 (S.I. 2016/578)](https://www.legislation.gov.uk/uksi/2016/578), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/578/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2016/578/regulation/6)
+
+[^key-11a677d2fb6be16d5c7d2b29aabc42b5]: Textual amendment: Words in [reg. 13(4)(c)](https://www.legislation.gov.uk/uksi/2013/1877/regulation/13/4/c) substituted (5.1.2017) by [The Democratic Peoples Republic of Korea (European Union Financial Sanctions) (Amendment) (No. 3) Regulations 2016 (S.I. 2016/1214)](https://www.legislation.gov.uk/uksi/2016/1214), [regs. 1](https://www.legislation.gov.uk/uksi/2016/1214/regulation/1), [2(b)](https://www.legislation.gov.uk/uksi/2016/1214/regulation/2/b)
+
+[^key-08b62d20a13e2e98c367c209784320d1]: Textual amendment: Regs. 13A-13D inserted (13.5.2016) by [The Democratic Peoples Republic of Korea (European Union Financial Sanctions) (Amendment) Regulations 2016 (S.I. 2016/578)](https://www.legislation.gov.uk/uksi/2016/578), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/578/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2016/578/regulation/7)
+
+[^key-1ac941cdb1c1d9d9baadf28d8fbe5f24]: Textual amendment: Words in [reg. 13A](https://www.legislation.gov.uk/uksi/2013/1877/regulation/13A) inserted (5.1.2017) by [The Democratic Peoples Republic of Korea (European Union Financial Sanctions) (Amendment) (No. 3) Regulations 2016 (S.I. 2016/1214)](https://www.legislation.gov.uk/uksi/2016/1214), [regs. 1](https://www.legislation.gov.uk/uksi/2016/1214/regulation/1), [2(c)](https://www.legislation.gov.uk/uksi/2016/1214/regulation/2/c)
+
+[^key-294d5303b35a320c2eb40ba2e2b3cc13]: Textual amendment: Reg. 13D replaced (11.6.2016) by [The Democratic Peoples Republic of Korea (European Union Financial Sanctions) (Amendment) (No. 2) Regulations 2016 (S.I. 2016/634)](https://www.legislation.gov.uk/uksi/2016/634), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/634/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2016/634/regulation/3)
+
+[^key-60a2a79524783505166b03a18c9b3783]: Textual amendment: Words in [reg. 13D(1)](https://www.legislation.gov.uk/uksi/2013/1877/regulation/13D/1) inserted (5.1.2017) by [The Democratic Peoples Republic of Korea (European Union Financial Sanctions) (Amendment) (No. 3) Regulations 2016 (S.I. 2016/1214)](https://www.legislation.gov.uk/uksi/2016/1214), [regs. 1](https://www.legislation.gov.uk/uksi/2016/1214/regulation/1), [2(d)(i)](https://www.legislation.gov.uk/uksi/2016/1214/regulation/2/d/i)
+
+[^key-a5340c422eff16a38df47ef8bfbf0b1b]: Textual amendment: Words in [reg. 13D(3)(a)](https://www.legislation.gov.uk/uksi/2013/1877/regulation/13D/3/a) substituted (5.1.2017) by [The Democratic Peoples Republic of Korea (European Union Financial Sanctions) (Amendment) (No. 3) Regulations 2016 (S.I. 2016/1214)](https://www.legislation.gov.uk/uksi/2016/1214), [regs. 1](https://www.legislation.gov.uk/uksi/2016/1214/regulation/1), [2(d)(ii)](https://www.legislation.gov.uk/uksi/2016/1214/regulation/2/d/ii)
+
+[^key-0cf680ca94077a4570e497c314852a45]: Textual amendment: Regs. 13E-13G inserted (11.6.2016) by [The Democratic Peoples Republic of Korea (European Union Financial Sanctions) (Amendment) (No. 2) Regulations 2016 (S.I. 2016/634)](https://www.legislation.gov.uk/uksi/2016/634), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/634/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2016/634/regulation/4)
+
+[^key-4efc8ae88a0139c600a8e397212dc2c5]: Textual amendment: Word in reg. 14(1) substituted (13.5.2016) by [The Democratic Peoples Republic of Korea (European Union Financial Sanctions) (Amendment) Regulations 2016 (S.I. 2016/578)](https://www.legislation.gov.uk/uksi/2016/578), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/578/regulation/1/1), [8(a)](https://www.legislation.gov.uk/uksi/2016/578/regulation/8/a)
+
+[^key-9d4d3a1abe24c7b10a30f17399f29a0f]: Textual amendment: Word in reg. 14(1) substituted (11.6.2016) by [The Democratic Peoples Republic of Korea (European Union Financial Sanctions) (Amendment) (No. 2) Regulations 2016 (S.I. 2016/634)](https://www.legislation.gov.uk/uksi/2016/634), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/634/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2016/634/regulation/5)
+
+[^key-be460d6ca876648dc807a58355512ae7]: Textual amendment: Word in reg. 14(2)(a) substituted (13.5.2016) by [The Democratic Peoples Republic of Korea (European Union Financial Sanctions) (Amendment) Regulations 2016 (S.I. 2016/578)](https://www.legislation.gov.uk/uksi/2016/578), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/578/regulation/1/1), [8(a)](https://www.legislation.gov.uk/uksi/2016/578/regulation/8/a)
+
+[^key-ad744c12c14935bb97a010d7592f821d]: Textual amendment: Word in reg. 14(2)(a) substituted (11.6.2016) by [The Democratic Peoples Republic of Korea (European Union Financial Sanctions) (Amendment) (No. 2) Regulations 2016 (S.I. 2016/634)](https://www.legislation.gov.uk/uksi/2016/634), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/634/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2016/634/regulation/5)
+
+[^key-a4c635f683eb05ec46a74248a70dce02]: Textual amendment: Word in reg. 16(1) inserted (11.6.2016) by [The Democratic Peoples Republic of Korea (European Union Financial Sanctions) (Amendment) (No. 2) Regulations 2016 (S.I. 2016/634)](https://www.legislation.gov.uk/uksi/2016/634), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/634/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2016/634/regulation/6)
+
+[^c23372101]: Marginal citation: [1995 c.46](https://www.legislation.gov.uk/ukpga/1995/46).
+
+[^c23372111]: Marginal citation: [1947 c.44](https://www.legislation.gov.uk/ukpga/1947/44).
+
+[^c23372121]: Marginal citation: [S.I. 2011/1094](https://www.legislation.gov.uk/uksi/2011/1094).
+
+[^c23372131]: Marginal citation: [1998 c.29](https://www.legislation.gov.uk/ukpga/1998/29).
+
+[^c23372141]: Marginal citation: [2000 c.23](https://www.legislation.gov.uk/ukpga/2000/23).

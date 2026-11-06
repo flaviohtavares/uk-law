@@ -1,0 +1,441 @@
+---
+title: The Architects (Recognition of European Qualifications etc and Saving and Transitional Provision) Regulations 2008
+id: uksi/2008/1331
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2008-05-19'
+text_date: '2024-01-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2008/1331
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2008/1331/pdfs/uksiem_20081331_en.pdf
+- http://www.legislation.gov.uk/uksi/2008/1331/pdfs/uksi_20081331_en.pdf
+- http://www.legislation.gov.uk/uksi/2008/1331/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Architects (Recognition of European Qualifications etc and Saving and Transitional Provision) Regulations 2008
+
+> Text as at 2024-01-01.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2008 No. 1331
+
+Architects
+
+The Architects (Recognition of European Qualifications etc and Saving and Transitional Provision) Regulations 2008
+
+Made
+
+19th May 2008
+
+Laid before Parliament
+
+27th May 2008
+
+Coming into force
+
+20th June 2008
+
+The Secretary of State is designated [^c19266321] for the purposes of section 2(2) of the European Communities Act 1972 [^c19266331], in relation to the recognition of higher-education diplomas, formal qualifications, or experience in the occupation, required for the pursuit of professions or occupations.
+
+She makes the following Regulations under the powers conferred by that section, as read with paragraph 1A of Schedule 2 [^c19266341] to the 1972 Act.
+
+These Regulations make provision for a purpose mentioned in that section and it appears to the Secretary of State that it is expedient for the references to an Annex to Directive [2005/36/EC](https://www.legislation.gov.uk/european/directive/2005/0036) of the European Parliament and of the Council of 7th September 2005 on the recognition of professional qualifications [^c19266351] to be construed as references to the Annex as amended from time to time.
+
+## 1. Citation and commencement
+
+These Regulations may be cited as the Architects (Recognition of European Qualifications etc and Saving and Transitional Provision) Regulations 2008 and shall come into force on 20th June 2008.
+
+## 2. Amendment of Architects Act 1997
+
+The Architects Act 1997 [^c19266361] is amended in accordance with regulations 3 to 23.
+
+## 3. Designation of Architects Registration Board as competent authority[^key-03df3eb402b525487c49440a197046b3]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 4. Functions of the Registrar[^key-03df3eb402b525487c49440a197046b3]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 5. The Register[^key-03df3eb402b525487c49440a197046b3]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 6. Registration in Part 1 of the Register: general
+
+(1) In section 4 (registration: general)—
+
+- (a) for the side-note, substitute “ Registration in Part 1 of the Register: general ”;
+- (b)[^key-3be09458fa8861c427920b0e59a5bbe5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c) for subsections (2A) and (2B) [^c19266371], substitute—
+
+  > (2A) For the purposes of subsection (1), a Directive-rights national shall be treated as having achieved a standard of competence equivalent to that demonstrated by satisfying subsection (1)(a) if—
+  >
+  > - (a) he produces evidence of a description specified in section 4A(1) and he is either—
+  >   - (i) lawfully established as an architect in the relevant European State in which that evidence was issued, or
+  >   - (ii) eligible to practise as an architect in that State, as confirmed by a competent authority in that State;
+  > - (b) he produces to the Registrar a certificate, awarded by a relevant European state other than the United Kingdom, that attests that Article 48(2) of the Directive (authorisation to use the title of architect by reason of being especially distinguished by quality of work in the field of architecture) applies to him; or
+  > - (c) he is a person—
+  >   - (i) whose case falls within regulation 3(9)(a), (b), (c) or (e) of the European Communities (Recognition of Professional Qualifications) Regulations 2007,
+  >   - (ii) to whom regulations 20 to 26 of those Regulations apply by reason of operation of regulation 3(4) of those Regulations, and
+  >   - (iii) who is permitted to pursue the profession of architect in the United Kingdom by virtue of Part 3 of those Regulations (having, in particular, successfully passed any aptitude test that he may be required to undertake pursuant to that Part of those Regulations).
+
+  [^c19266381].
+
+(2)[^key-1173996afa552a1d61df2ac539da8bcd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3)[^key-1173996afa552a1d61df2ac539da8bcd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 7. Registration in Part 1 of the Register: European qualifications[^key-5ee3c4d4de7d1ad8f426df126bb49821]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 8. Registration in Part 2 of the Register: Directive-rights nationals providing services[^key-82a9893b87b77b0bb52172d675c468f1]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 9. Registration: further procedural requirements
+
+In section 6 (registration: further procedural requirements)—
+
+- (a) in subsection (1), for “pursuance of section 4 or 5” substitute “ Part 1 of the Register ”;
+- (b) after subsection (2), insert—
+
+  > (2A) The Board may require an applicant for registration in Part 1 of the Register to pay a fee for taking an aptitude test which the applicant is required by the Board to take under regulation 25(1)(b) of the European Communities (Recognition of Professional Qualifications) Regulations 2007 on the basis that the circumstances are as mentioned in regulation 25(3)(b) of those Regulations (education and training received by the applicant covers substantially different matters from that required in the United Kingdom).
+
+  [^c19266401];
+- (c) in subsection (3), for “pursuance of section 4 or 5” substitute “ Part 1 of the Register ”;
+- (d) after subsection (3) insert—
+
+  > (3A) The reference in subsection (3) to an application for registration in Part 1 of the Register does not include an application for registration in that Part made by a Directive-rights national who, in making the application, relies on section 4(2A).
+  >
+  > (3B) Where a Directive-rights national applies to be registered in Part 1 of the Register and, in doing so, relies on section 4(2A), the Board shall—
+  >
+  > - (a) acknowledge receipt of the application within one month of receipt; and
+  > - (b) inform the applicant of any missing document required for the purposes of the application.
+  >
+  > (3C) The Registrar shall deal expeditiously with all applications for registration.
+
+  ;
+- (e) in subsection (4) [^c19266411] after “applicant” insert “ for registration in Part 1 of the Register ”;
+- (f) for subsection (4A), substitute—
+
+  > (4A) A notice under subsection (4) shall be served—
+  >
+  > - (a) in the case of an application by a person who in making the application—
+  >   - (i) relies on subsection (1)(a) of section 4 without also relying on subsection (2A), or
+  >   - (ii) relies on section 4(2A),
+  >
+  > within three months beginning with the date on which the application is made;
+  >
+  > - (b) in any other case, within six months beginning with the date on which the application is made.
+
+  ;
+- (g) in subsection (4B), for “under section 5 or to which section 4(2B) applies,” substitute “ by a person who in making the application relies on section 4(2A) ”; and
+- (h) omit subsection (5).
+
+## 10. Issuing of certificates of architectural education
+
+After section 6 insert—
+
+> **6A. Issuing of certificates of architectural education**
+>
+> (1) Where a person requests the Board to issue a certificate of architectural education confirming that the person's training as an architect—
+>
+> - (a) meets the minimum training conditions in Article 46 of the Directive,
+> - (b) gives that person entitlement under section 4 to be registered in Part 1 of the Register, or
+> - (c) includes prescribed or equivalent qualifications,
+>
+> the Board may issue such a certificate to that person if the training does meet those conditions, gives that entitlement or includes those qualifications.
+>
+> (2) The Board may require a person making a request under subsection (1) to pay a fee of a prescribed amount.
+
+.
+
+## 11. Penalty for obtaining registration or recognition by false representation
+
+In section 7 (penalty for obtaining registration by false representation)—
+
+- (a) in the side-note, after “registration” insert “ or recognition ”; and
+- (b) for section 7(1), substitute—
+
+  > (1) A person commits an offence if the person intentionally—
+  >
+  > - (a) becomes or attempts to become registered under this Act, or
+  > - (b) does any of the things mentioned in subsection (1A) anywhere in or outside the United Kingdom.
+  >
+  > (1A) Those things are—
+  >
+  > - (a) making to the Board or to the Registrar,
+  > - (b) producing to the Board or to the Registrar,
+  > - (c) causing to be made to the Board or to the Registrar, or
+  > - (d) causing to be produced to the Board or to the Registrar
+  >
+  > any false or fraudulent representation or declaration (whether oral or written).
+
+  .
+
+## 12. Retention of name in Register[^key-ccfed9312bbc5a9599d700ec55f8ea2e]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 13. Competence to practise[^key-ccfed9312bbc5a9599d700ec55f8ea2e]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 14. Disqualification in a relevant European State[^key-ccfed9312bbc5a9599d700ec55f8ea2e]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 15. Failure to notify change of address[^key-ccfed9312bbc5a9599d700ec55f8ea2e]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 16. Removal of list of visiting EEA architects[^key-ccfed9312bbc5a9599d700ec55f8ea2e]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 17. Disciplinary orders[^key-ccfed9312bbc5a9599d700ec55f8ea2e]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 18. Application of discipline provisions to visiting EEA architects[^key-ccfed9312bbc5a9599d700ec55f8ea2e]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 19. Use of title “architect”[^key-ccfed9312bbc5a9599d700ec55f8ea2e]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 20. Appeals
+
+For sections 22 (appeals) and 22A [^c19266421], substitute—
+
+> **22. Appeals**
+>
+> (1) A person may appeal to the High Court or, in Scotland, to the Court of Session if he is aggrieved by—
+>
+> - (a) refusal of his application for registration in Part 1 of the Register;
+> - (b) failure of the Registrar to comply with section 6(4);
+> - (c) his name not being re-entered in, or his name being removed from, Part 1 of the Register by virtue of section 9;
+> - (d) the Board's ordering under section 10 that the Registrar remove his name from Part 1 of the Register; or
+> - (e) the making of a disciplinary order in relation to him.
+>
+> (2) Subject to subsection (3), an appeal under subsection (1)(a), (c), (d) or (e) must be made not later than three months after the date on which notice of the decision or order concerned is served on the person.
+>
+> (3) Where an appeal under subsection (1)(a) is made by a person who relied on subsection (2A) of section 4 in applying for registration in pursuance of that section, the appeal must be made not later than four months after the date on which notice of the refusal is served on the person.
+>
+> (4) The time limits for making an appeal under subsection (1)(b) are—
+>
+> - (a) where the appeal is made by a person who relied on subsection (2A) of section 4 in applying for registration in pursuance of that section, within seven months, and
+> - (b) where the appeal is made by a person who, in applying for registration in pursuance of that section, relied on subsection (1)(a) of that section without also relying on subsection (2A) of that section, within six months,
+>
+> beginning with the date on which the person's application for registration is made.
+>
+> (5) An appeal under subsection (1)(b) to which subsection (4) does not apply must be made within nine months beginning with the date on which the person's application for registration is made.
+>
+> (6) If a person claims to be entitled to be registered in Part 2 of the Register but the person's name is not entered in that Part, the person may appeal to a county court or, in Scotland, to the sheriff.
+>
+> (7) On an appeal under this section the court concerned may make any order which appears appropriate, and no appeal shall lie from any decision of a court on such an appeal.
+
+.
+
+## 21. Administrative co-operation and confidentiality
+
+After section 22 (appeals), insert—
+
+> **22B. Administrative co-operation**
+>
+> (1) The Board, in its capacity as competent authority for the purposes of the Directive, is to—
+>
+> - (a) work in close collaboration with competent authorities of other relevant European States, and
+> - (b) provide assistance to competent authorities of other relevant European States in accordance with and in order to facilitate the application of the Directive.
+>
+> (2) The Board is to exchange professional-regulation information about—
+>
+> - (a) registered persons who are Directive-rights nationals, or
+> - (b) Directive-rights nationals who have made an application for registration in the Register,
+>
+> with competent authorities of other relevant European States.
+>
+> (3) In this section “**professional-regulation information**” means information regarding—
+>
+> - (a) disciplinary action taken,
+> - (b) criminal sanctions imposed, or
+> - (c) any other serious, specific circumstances,
+>
+> where the action is, or the sanctions or circumstances are, likely to have consequences for the pursuit of the profession of architect by a person.
+>
+> (4) If in any case the Board receives professional-regulation information from a competent authority of another relevant European State, the Board—
+>
+> - (a) is responsible for investigating and establishing the position in the case, and
+> - (b) is to pass on its conclusions in the case to a competent authority in each relevant European State in which the person concerned is established as an architect or (without being established) is providing services as an architect.
+>
+> (5) The Board may make enquiries of registered persons where the Board considers it necessary to do so for the purposes of enabling it to discharge its duties under subsections (1)(b) and (4)(a).
+>
+> (6) Where a registered person receives enquiries under subsection (5), the person shall reply and, in replying, shall use the person's best endeavours to assist the Board.
+>
+> (7) The power under subsection (5) is not to be taken to prejudice any other power to make enquiries of registered persons.
+>
+> **22C. Confidentiality**
+>
+> (1) The Board, the Registrar, and persons acting on behalf of either of them, are prohibited from disclosing information to which subsection (2) applies.
+>
+> (2) This subsection applies to information if—
+>
+> - (a) the information is received in the course of the carrying-out of functions of the Board or the Registrar;
+> - (b) the functions are functions under the Directive or under any enactment giving effect to the Directive; and
+> - (c) the information—
+>   - (i) is provided by a competent authority of another relevant European State, or
+>   - (ii) relates to an application made by a Directive-rights national for registration in the Register.
+>
+> (3) Subsection (1) does not apply to disclosure which is—
+>
+> - (a) to the Secretary of State; or
+> - (b) necessary in order to facilitate the carrying-out of functions of the Board, or of functions of the Registrar, under this Act or any other enactment.
+>
+> (4) An authority within subsection (5) must, so far as it is within the authority's power to do so, ensure the confidentiality of information which, in the course of the carrying-out of functions of the authority under the Directive or under any enactment giving effect to the Directive, is disclosed by or on behalf of the authority to a competent authority of another relevant European State.
+>
+> (5) The authorities within this subsection are—
+>
+> - (a) the Board; and
+> - (b) the Registrar.
+
+.
+
+## 22. Interpretation[^key-564868ccc2aef80792d2e23ecaa82a9a]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 23. The Board and its committees[^key-564868ccc2aef80792d2e23ecaa82a9a]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 24. Transitional provisions[^key-564868ccc2aef80792d2e23ecaa82a9a]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 25. Revocation[^key-564868ccc2aef80792d2e23ecaa82a9a]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 26. Savings[^key-2bd6d80e99c37688184bbc37b0488e32]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Signed by authority of the Secretary of State for Communities and Local Government
+
+Iain Wright
+
+Parliamentary Under Secretary of State
+
+Department for Communities and Local Government
+
+## SCHEDULE[^key-eba0b4f0a9e831cc96738c2b2155dd60]
+
+**No longer in force.**
+
+Regulation 8(2)
+
+[^key-eba0b4f0a9e831cc96738c2b2155dd60]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+*(This note is not part of the Regulations)*
+
+[^c19266521]These Regulations implement, in part, Directive [2005/36/EC](https://www.legislation.gov.uk/european/directive/2005/0036) (“**the Directive**”) on the recognition of professional qualifications. The Directive is designed to remove obstacles to free movement of persons and services within the Community, so that nationals of the Member States have the right to pursue a profession in a Member State other than the one in which they have obtained their qualifications. This is achieved by the Directive providing for the automatic recognition of certain specified qualifications, and for a procedure for assessing other qualifications for the purpose of giving access to a profession. There is also a procedure to allow those wishing to provide services on a temporary and occasional basis to practise a profession on this basis.
+
+[^c19266531]The Directive replaces various other Directives which dealt with the recognition of professional qualifications for different professions, including the one which related to architects, Directive [85/384/EEC](https://www.legislation.gov.uk/european/directive/1985/0384) . The Directive restates the majority of the provisions contained in that Directive, but adds new provisions and makes many minor changes to the existing regime.
+
+[^c19266541]The Regulations implement, in part, the aspects of the Directive which concern architects. Those provisions of the Directive relating to architects which are not implemented by these Regulations are implemented by the European Communities (Recognition of Professional Qualifications) Regulations 2007 (“**the General Systems Regulations**”).
+
+The Regulations apply in relation to the Member States of the European Community and also in relation to the other European Economic Area States, Iceland, Liechtenstein and Norway (as Directive [2005/36/EC](https://www.legislation.gov.uk/european/directive/2005/0036) has been extended to the European Economic Area through Decision of the EEA Joint Committee No. 142/2007 on 26<sup>th</sup> October 2007). The Regulations use the term “relevant European State” to describe the Member States of the European Community plus Iceland, Liechtenstein and Norway.
+
+[^c19266551]The legislation which governs the regulation of architects and the use of the title “architect” in the United Kingdom is the Architects Act 1997 (“**the Act**”), and these Regulations amend the Act in order to give effect to the Directive. The Architects Registration Board (“**the Board**”) is designated as the competent authority for the purposes of the Directive (regulation 3), and therefore the Board (or the Registrar where he is exercising functions of a competent authority, see regulation 4) is responsible for deciding whether the qualifications of nationals of relevant European States are to be recognised in the United Kingdom so as to allow access to the profession of architect.
+
+Only persons registered in the Register of Architects (“**the Register**”) may use the title of “architect” (see section 20 of the Act). The Register is, by these Regulations, split into two Parts, Part 1 and Part 2 (regulation 5). Part 2 is for those persons wishing to exercise their rights under the Directive to provide services as an architect on a temporary and occasional basis only.
+
+The amendments to sections 4 and 5 of the Act (regulations 6 and 7) have the effect that nationals of a relevant European State relying on their rights under the Directive for recognition of their qualifications must make their applications for registration under new section 4(2A). Those persons entitled to automatic recognition of their qualifications under the Directive (set out in Chapter III of Title III) must rely on section 4(2A)(a) or (b), and those who wish to use the “generals systems” route to recognition under the Directive (set out in Chapter I of Title III) must rely on section 4(2A)(c) (and the process with which they must comply is that set out in the General Systems Regulations). Persons satisfying the appropriate part of section 4(2A) are to be treated as having an equivalent level of competence as a person applying for registration on the basis of possessing the qualifications and having gained the practical experience that the Board has prescribed under section 4(1)(a). Section 4A is substituted for section 5, and subsection (1) specifies the descriptions of the evidence of qualifications or training which must be given automatic recognition by Member States. By section 4(2A)(a), a person may only rely on this evidence to give automatic recognition where that person is lawfully established as an architect in his home State, or is eligible to practise as an architect in his home State.
+
+New section 5A and Schedule 1A (regulation 8) provide for, among other things, who is entitled to be registered in Part 2, the procedure for registration (including the provision of a declaration by the person wishing to provide services), the duration of entitlement to be registered, and provision for deemed registration. Deemed registration is necessary because once a person has complied with the Directive and given the necessary documentation to the competent authority, that person is entitled to provide services regardless of whether or not the competent authority has completed assessing those documents and given effect to them by, in the case of architects, registration in the register. These provisions give effect to Title II of the Directive, on the free provision of services. New section 5B makes provision for the title which a person in Part 2 of the Register is entitled to use, and new section 5C provides for certain information to be given by a person registered in Part 2 of the Register to a recipient of any services as an architect provided by that person. Section 5D provides for there to be administrative co-operation by the Board with other competent authorities from other relevant European States.
+
+New section 6A (regulation 10) makes clear that the Board has the power to issue certificates of architectural education in relation to a person's training as an architect, and provides for a fee to be prescribed. The amendments to section 7 (regulation 11) extend that provision so that it is an offence for a person to become or attempt to become recognised as entitled to practise as an architect in a relevant European State that is not the United Kingdom by making any false or fraudulent representation or declaration.
+
+The amendments to section 9 (regulation 13) have the effect that the competence to practise of anyone seeking to be registered in Part 1 of the Register can be assessed by the Board.
+
+Section 12 is omitted (regulation 16), as Part 2 of the Register has replaced the list of visiting EEA architects. Section 19 is omitted (regulation 18) as it is unnecessary, as any person providing services temporarily is now entitled to be registered in Part 2 of the Register and therefore is subject to the disciplinary provisions which apply to all registered persons.
+
+Amendments have been made to section 20 (regulation 19) so that only a person registered in Part 1 of the Register may practise or carry on business under the title of “architect”. Provision has also been made so that a person registered in Part 2 may use the title recorded for the person in that Part, or any other title that could have been recorded for that person (a person registered in Part 2 who satisfies the Registrar that he would be entitled to automatic recognition of his qualifications if he were to apply for registration in Part 1, is entitled to be registered with the title of “architect”).
+
+Amendments have been made substituting new section 22 for sections 22 and 22A (regulation 20) to give effect to the new requirements of the Directive in relation to appeals. A new appeal right to a county court or, in Scotland, to the sheriff has been given to a person claiming to be entitled to be registered in Part 2, but whose name is not entered in that Part.
+
+New sections 22B and 22C have been inserted (regulation 21). New section 22B requires the Board to co-operate with the competent authorities of relevant European States. Section 22C prohibits the disclosure of documents submitted to the Board and the Registrar and their staff and agents, subject to exceptions.
+
+Section 25 is amended to include new definitions (regulation 22). Aspects of the definition of “the Directive” has been made ambulatory, to allow account to be taken of future amendments to the technical Annexes. The definition of “Directive-rights national” encompasses those who are entitled to rely on the rights in the Directive, namely nationals of relevant European States other than the United Kingdom, United Kingdom nationals who have an enforceable Community right (for example, because they have exercised their right to free movement and undertaken parts of their training in another relevant European State), and third country nationals who are entitled to be treated as if they were a national of a relevant European State because of an enforceable Community right (for example, third country spouses of relevant European State nationals).
+
+Schedule 1 is amended so that only persons in Part 1 of the Register may elect, or be elected as, members of the Board (regulation 23).
+
+Regulation 24 makes transitional provision for applications for registration made but not determined before 20<sup>th</sup> June 2008 (when these Regulations come into force), and for the names of persons in the list of visiting architects to be transferred to Part 2 of the Register.
+
+[^c19266561]Regulation 25 revokes certain provisions of the Architects' Qualifications (EC Recognition) Order 2002 .
+
+[^c19266571]Regulation 26 makes savings in respect of the implementation of the Agreement between the European Community and its Member States, of the one part, and the Swiss Confederation, of the other, on the Free Movement of Persons signed at Luxembourg on 21st June 1999 and which came into force on 1st June 2002 ) so far as it relates to the rights of persons under Directive [85/384/EEC](https://www.legislation.gov.uk/european/directive/1985/0384), as the Agreement has not been amended so as to extend to the Directive. The procedures under the Architects Act 1997 for entitlement to registration in the Register and enrolment on the list of visiting EEA architects for persons reliant on rights under the Agreement are also preserved, although the entitlement will now be to registration in Part 1 or 2 of the Register respectively.
+
+## Annotations
+
+[^c19266321]: Marginal citation: [S.I. 2002/248](https://www.legislation.gov.uk/uksi/2002/248).
+
+[^c19266331]: Marginal citation: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68). The enabling powers of section 2(2) of this Act were extended by virtue of the amendment of section 1(2) by section 1 of the [European Economic Area Act 1993 (c. 51)](https://www.legislation.gov.uk/ukpga/1993/51).
+
+[^c19266341]: Marginal citation: [Paragraph 1A](https://www.legislation.gov.uk/uksi/2008/1331/paragraph/1A) of Schedule 2 was inserted by section 28 of the [Legislative and Regulatory Reform Act 2006 (c. 51)](https://www.legislation.gov.uk/ukpga/2006/51).
+
+[^c19266351]: Marginal citation: OJ No L 255, 30.09.2005, p.22, as amended by Council Directive 2006/100/EC of 20<sup>th</sup> November 2006, OJ No L 363 of 10.12.2006, p.141. Directive 2005/36/EC has been extended to the European Economic Area through Decision of the EEA Joint Committee No. 142/2007 on 26<sup>th</sup> October 2007.
+
+[^c19266361]: Marginal citation: [1997 c. 22](https://www.legislation.gov.uk/ukpga/1997/22).
+
+[^key-03df3eb402b525487c49440a197046b3]: Textual amendment: [Regs. 3-5](https://www.legislation.gov.uk/uksi/2008/1331/regulation/3) revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/1) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)
+
+[^key-3be09458fa8861c427920b0e59a5bbe5]: Textual amendment: [Reg. 6(1)(b)](https://www.legislation.gov.uk/uksi/2008/1331/regulation/6/1/b) revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/1) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)
+
+[^c19266371]: Marginal citation: Subsections (2A) and (2B) were inserted by [S.I. 2002/2842](https://www.legislation.gov.uk/uksi/2002/2842).
+
+[^c19266381]: Marginal citation: [S.I. 2007/2781](https://www.legislation.gov.uk/uksi/2007/2781).
+
+[^key-1173996afa552a1d61df2ac539da8bcd]: Textual amendment: [Reg. 6(2)](https://www.legislation.gov.uk/uksi/2008/1331/regulation/6/2)[(3)](https://www.legislation.gov.uk/uksi/2008/1331/regulation/6/3) revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/1) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)
+
+[^key-5ee3c4d4de7d1ad8f426df126bb49821]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/uksi/2008/1331/regulation/7) revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/1) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)
+
+[^key-82a9893b87b77b0bb52172d675c468f1]: Textual amendment: [Reg. 8](https://www.legislation.gov.uk/uksi/2008/1331/regulation/8) revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/1) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)
+
+[^c19266401]: Marginal citation: [S.I. 2007/2781](https://www.legislation.gov.uk/uksi/2007/2781).
+
+[^c19266411]: Marginal citation: Subsections (4), (4A) and (4B) of section 6 were substituted for subsection (4) by [S.I. 2002/2842](https://www.legislation.gov.uk/uksi/2002/2842).
+
+[^key-ccfed9312bbc5a9599d700ec55f8ea2e]: Textual amendment: [Regs. 12-19](https://www.legislation.gov.uk/uksi/2008/1331/regulation/12) revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/1) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)
+
+[^c19266421]: Marginal citation: [Section 22A](https://www.legislation.gov.uk/uksi/2008/1331/section/22A) was inserted by [S.I. 2002/2842](https://www.legislation.gov.uk/uksi/2002/2842).
+
+[^key-564868ccc2aef80792d2e23ecaa82a9a]: Textual amendment: [Regs. 22-25](https://www.legislation.gov.uk/uksi/2008/1331/regulation/22) revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/1) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)
+
+[^key-2bd6d80e99c37688184bbc37b0488e32]: Textual amendment: [Reg. 26](https://www.legislation.gov.uk/uksi/2008/1331/regulation/26) revoked (10.2.2014) by [The Architects Act 1997 (Amendments etc) Order 2014 (S.I. 2014/4)](https://www.legislation.gov.uk/uksi/2014/4), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/4/article/1/1), [3](https://www.legislation.gov.uk/uksi/2014/4/article/3)
+
+[^key-eba0b4f0a9e831cc96738c2b2155dd60]: Textual amendment: [Sch.](https://www.legislation.gov.uk/uksi/2008/1331/schedule) revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/1) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)
+
+[^c19266521]: Marginal citation: OJ No L 255, 30.9.05, p.22. Amended by Council Directive 2006/100/EC, OJ No L 363, 20.12.06, p.141.
+
+[^c19266531]: Marginal citation: OJ No L 223, 21.8.85, p.15, last amended by Council Directive 2006/100/EC, OJ No L 363, 20.12.06, p.141.
+
+[^c19266541]: Marginal citation: [S.I. 2007/2781](https://www.legislation.gov.uk/uksi/2007/2781).
+
+[^c19266551]: Marginal citation: [1997 c. 22](https://www.legislation.gov.uk/ukpga/1997/22).
+
+[^c19266561]: Marginal citation: [S.I. 2002/2842](https://www.legislation.gov.uk/uksi/2002/2842).
+
+[^c19266571]: Marginal citation: OJ No L 114, 30.04.02, p.6.

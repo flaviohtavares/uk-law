@@ -1,0 +1,127 @@
+---
+title: Education Act 1986
+id: ukpga/1986/40
+type: UnitedKingdomPublicGeneralAct
+category: primary
+status: revised
+made_date: '1986-07-18'
+text_date: '2008-01-02'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/1986/40
+pdf_urls:
+- http://www.legislation.gov.uk/ukpga/1986/40/pdfs/ukpga_19860040_en.pdf
+- http://www.legislation.gov.uk/ukpga/1986/40/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Education Act 1986
+
+> Text as at 2008-01-02.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+Education Act 1986
+
+1986 c. 40
+
+An Act to provide for the making of grants by the Secretary of State to the Fellowship of Engineering and the Further Education Unit and to make further provision in relation to the arrangements under Part VI of the Local Government, Planning and Land Act 1980 for the pooling of expenditure by local authorities on education and for connected purposes.
+
+\[18th July 1986\]
+
+[^c16656][^c16657][^c16658][^c16659][^c16660][^c16661]Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-cde0a0062be7fd454a8262d115293208][^key-bc8848274fb75b6882b3f4075ee2f406][^key-81aff1b76a098e509aa466d133aaeeb1]
+
+## Grants
+
+### 1. Payment of grant.
+
+(1) The Secretary of State may out of money provided by Parliament make grants to—
+
+- (a)[^c16668] the body corporate constituted by Royal Charter and known at the passing of this Act as the Fellowship of Engineering; [^key-2b8723fc39cf5ec1d555e9a2e61f46c8]...
+- (b)[^key-589d8c1ba0fd599a7450270c49626d27] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+in respect of expenditure incurred or to be incurred by that body[^key-b559a7fd191fab981561b4ded53bf4b1] for the purpose of any of its activities.
+
+(1A)[^c540699] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) In making a grant under this section the Secretary of State [^c540700]. . . may impose conditions for any purpose mentioned in subsection (3) below and may also impose such other conditions as he thinks fit.
+
+(3) Those purposes are—
+
+- (a) requiring the repayment of the grant in whole or part if any other condition is not complied with;
+- (b) where the grant is made in respect of capital expenditure, requiring the payment to the Secretary of State [^c540701]. . . on the sale of, or of any part of, a grant-aided asset of such sums related to the value of the asset at the time of the sale as he may by notice in writing specify to the recipient of the grant as being in his opinion reasonable having regard to the extent to which the asset has been acquired, provided or improved as a result of the grant; and
+- (c) requiring the payment of interest in respect of any period during which a sum due to the Secretary of State in accordance with any other condition remains unpaid.
+
+(4) A condition imposed under subsection (3)(b) above may require a payment to be made even if the grant has been repaid at the time of the sale; and in that subsection “**grant-aided asset**”, in relation to a grant, means an asset acquired, provided or improved as a result of the expenditure in respect of which the grant is made.
+
+## Further provision in relation to the arrangements under Part VI of the Local Government, Planning and Land Act 1980 for pooling expenditure by local authorities on education, etc.
+
+### 2. Recovery of negative pooling adjustments.[^key-c79d5a24eef59326ca4ea8b953a006bb]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 3. Payment of positive pooling adjustments.[^key-c79d5a24eef59326ca4ea8b953a006bb]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 4. Application of sections 2 and 3 and supplementary provisions.[^key-c79d5a24eef59326ca4ea8b953a006bb]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## General
+
+### 5. Expenses.
+
+There shall be paid out of money provided by Parliament and expenses incurred by the Secretary of State . . .[^c16677] under this Act and any increase attributable to this Act in the sums payable out of moneys so provided under any other Act.
+
+### 6. Short title, commencement and extent.
+
+(1) This Act may be cited as the Education Act 1986.
+
+(2) Section 1 of this Act shall come into force at the end of the period of two months beginning with the date on which this Act is passed.
+
+(3) This Act extends to England and Wales only.
+
+## Annotations
+
+[^c16656]: Editorial: The text of ss. 1, 5, 6 was taken from Group 41:1 (Education:General, England and Wales), ss. 2–4 from Group 81:1 (Local Government:General, England and Wales) (ss. 5, 6 appear in both SIF Groups 81:1 and 41:1)
+
+[^c16657]: Modification: Act amended by [Education Reform Act 1988 (c. 40, SIF 41:1)](https://www.legislation.gov.uk/ukpga/1988/40), [ss. 163(1)](https://www.legislation.gov.uk/ukpga/1988/40/section/163/1), [231(7)](https://www.legislation.gov.uk/ukpga/1988/40/section/231/7), [235(6)](https://www.legislation.gov.uk/ukpga/1988/40/section/235/6)
+
+[^c16658]: Modification: Act modified by [Education Reform Act 1988 (c. 40, SIF 41:1)](https://www.legislation.gov.uk/ukpga/1988/40), [ss. 231(7)](https://www.legislation.gov.uk/ukpga/1988/40/section/231/7), [235(6)](https://www.legislation.gov.uk/ukpga/1988/40/section/235/6), [236(2)(a)](https://www.legislation.gov.uk/ukpga/1988/40/section/236/2/a)
+
+[^c16659]: Commencement: Act partly in force at Royal Assent see [s.6(2)](https://www.legislation.gov.uk/ukpga/1986/40/section/6/2); Act wholly in force at 18.9.1986
+
+[^c16660]: Modification: Act applied (provinces of Canterbury & York except Channel Islands and Isle of Man) (1.8.1991) by [Diocesan Boards of Education Measure 1991 (No. 2)](https://www.legislation.gov.uk/ukcm/1991/2), [s. 7(3)](https://www.legislation.gov.uk/ukcm/1991/2/section/7/3); Archbishops' Instrument No.1 made 26.7.1991
+
+    Act: applied (E.) (17.4.2002) by [S.I. 2001/1507](https://www.legislation.gov.uk/uksi/2001/1507), [reg. 2](https://www.legislation.gov.uk/uksi/2001/1507/regulation/2), [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2001/1507/schedule/2/paragraph/2)
+
+[^c16661]: Modification: Act: certain functions transferred (1.7.1999) by [S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672), [art. 2](https://www.legislation.gov.uk/uksi/1999/672/article/2), [Sch.1](https://www.legislation.gov.uk/uksi/1999/672/schedule/1)
+
+[^key-cde0a0062be7fd454a8262d115293208]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1986/40) applied (1.4.2005) by [Central Sussex College (Government) Regulations 2005 (S.I. 2005/397)](https://www.legislation.gov.uk/uksi/2005/397), [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2005/397/schedule/2/paragraph/2)
+
+[^key-bc8848274fb75b6882b3f4075ee2f406]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1986/40) modified (7.4.2005) by [Education Act 2005 (c. 18)](https://www.legislation.gov.uk/ukpga/2005/18), [s. 96(2)](https://www.legislation.gov.uk/ukpga/2005/18/section/96/2)
+
+[^key-81aff1b76a098e509aa466d133aaeeb1]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1986/40) Education Acts modified (temp.) (1.4.2007) by [Education and Inspections Act 2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40), [s. 188(3)](https://www.legislation.gov.uk/ukpga/2006/40/section/188/3), [Sch. 6 para. 3(3)](https://www.legislation.gov.uk/ukpga/2006/40/schedule/6/paragraph/3/3); [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(bb)](https://www.legislation.gov.uk/uksi/2007/935/article/5/bb)
+
+[^c16668]: Modification: Functions of the Secretary of State under s. 1(1)(a) made exercisable concurrently by the Minister for the Civil Service and by the Chancellor of the Duchy of Lancaster (6.7.1992) by [S.I. 1992/1296](https://www.legislation.gov.uk/uksi/1992/1296), [arts. 2(3)(a)](https://www.legislation.gov.uk/uksi/1992/1296/article/2/3/a), [3](https://www.legislation.gov.uk/uksi/1992/1296/article/3).
+
+[^key-2b8723fc39cf5ec1d555e9a2e61f46c8]: Textual amendment: Word in s. 1(1) repealed (1.4.2003 for E., 2.1.2008 for W.) by [Education Act 2002 (c. 32)](https://www.legislation.gov.uk/ukpga/2002/32), [s. 216(4)](https://www.legislation.gov.uk/ukpga/2002/32/section/216/4), [Sch. 22 Pt. 3](https://www.legislation.gov.uk/ukpga/2002/32/schedule/22/part/3) (with [ss. 210(8)](https://www.legislation.gov.uk/ukpga/2002/32/section/210/8), [214(4)](https://www.legislation.gov.uk/ukpga/2002/32/section/214/4)); [S.I. 2003/124](https://www.legislation.gov.uk/uksi/2003/124), [art. 4](https://www.legislation.gov.uk/uksi/2003/124/article/4); S.I. 2007/3611, art. 4(1), Sch.
+
+[^key-589d8c1ba0fd599a7450270c49626d27]: Textual amendment: S. 1(1)(b) repealed (1.4.2003 for E., 2.1.2008 for W.) by [Education Act 2002 (c. 32)](https://www.legislation.gov.uk/ukpga/2002/32), [ss. 18(1)(b)](https://www.legislation.gov.uk/ukpga/2002/32/section/18/1/b), [216(4)](https://www.legislation.gov.uk/ukpga/2002/32/section/216/4), [Sch. 22 Pt. 3](https://www.legislation.gov.uk/ukpga/2002/32/schedule/22/part/3) (with [ss. 210(8)](https://www.legislation.gov.uk/ukpga/2002/32/section/210/8), [214(4)](https://www.legislation.gov.uk/ukpga/2002/32/section/214/4)); [S.I. 2003/124](https://www.legislation.gov.uk/uksi/2003/124), [art. 4](https://www.legislation.gov.uk/uksi/2003/124/article/4); S.I. 2007/3611, art. 4(1), Sch.
+
+[^key-b559a7fd191fab981561b4ded53bf4b1]: Textual amendment: Words in s. 1(1) substituted (1.4.2003 for E., 2.1.2008 for W.) by [Education Act 2002 (c. 32)](https://www.legislation.gov.uk/ukpga/2002/32), [s. 216(4)](https://www.legislation.gov.uk/ukpga/2002/32/section/216/4), [Sch. 21 para. 7](https://www.legislation.gov.uk/ukpga/2002/32/schedule/21/paragraph/7) (with [ss. 210(8)](https://www.legislation.gov.uk/ukpga/2002/32/section/210/8), [214(4)](https://www.legislation.gov.uk/ukpga/2002/32/section/214/4)); [S.I. 2003/124](https://www.legislation.gov.uk/uksi/2003/124), [art. 4](https://www.legislation.gov.uk/uksi/2003/124/article/4); S.I. 2007/3611, art. 4(1), Sch.
+
+[^c540699]: Textual amendment: S. 1(1A) inserted (6.7.1992) by [S.I. 1992/1296](https://www.legislation.gov.uk/uksi/1992/1296), [art. 6(1)](https://www.legislation.gov.uk/uksi/1992/1296/article/6/1), [Sch. para. 5(1)](https://www.legislation.gov.uk/uksi/1992/1296/schedule/paragraph/5/1) and omitted (1.1.1996) by virtue of [S.I. 1995/2985](https://www.legislation.gov.uk/uksi/1995/2985), [art. 5(1)](https://www.legislation.gov.uk/uksi/1995/2985/article/5/1), [Sch. para. 4(2)(a)](https://www.legislation.gov.uk/uksi/1995/2985/schedule/paragraph/4/2/a)
+
+[^c540700]: Textual amendment: Words in s. 1(2)(3) inserted (6.7.1992) by [S.I. 1992/1296](https://www.legislation.gov.uk/uksi/1992/1296), [art. 6(1)](https://www.legislation.gov.uk/uksi/1992/1296/article/6/1), [Sch. para. 5(2)](https://www.legislation.gov.uk/uksi/1992/1296/schedule/paragraph/5/2) and omitted (1.1.1996) by virtue of [S.I. 1995/2985](https://www.legislation.gov.uk/uksi/1995/2985), [art. 5(1)](https://www.legislation.gov.uk/uksi/1995/2985/article/5/1), [Sch. para. 4(2)(b)](https://www.legislation.gov.uk/uksi/1995/2985/schedule/paragraph/4/2/b)
+
+[^c540701]: Textual amendment: Words in s. 1(2)(3) inserted (6.7.1992) by [S.I. 1992/1296](https://www.legislation.gov.uk/uksi/1992/1296), [art. 6(1)](https://www.legislation.gov.uk/uksi/1992/1296/article/6/1), [Sch. para. 5(2)](https://www.legislation.gov.uk/uksi/1992/1296/schedule/paragraph/5/2) and omitted (1.1.1996) by virtue of [S.I. 1995/2985](https://www.legislation.gov.uk/uksi/1995/2985), [art. 5(1)](https://www.legislation.gov.uk/uksi/1995/2985/article/5/1), [Sch. para. 4(2)(b)](https://www.legislation.gov.uk/uksi/1995/2985/schedule/paragraph/4/2/b)
+
+[^key-c79d5a24eef59326ca4ea8b953a006bb]: Textual amendment: Ss. 2-4 repealed (1.4.2003 for E., 2.1.2008 for W.) by [Education Act 2002 (c. 32)](https://www.legislation.gov.uk/ukpga/2002/32), [s. 216(4)](https://www.legislation.gov.uk/ukpga/2002/32/section/216/4), [Sch. 22 Pt. 3](https://www.legislation.gov.uk/ukpga/2002/32/schedule/22/part/3) (with [ss. 210(8)](https://www.legislation.gov.uk/ukpga/2002/32/section/210/8), [214(4)](https://www.legislation.gov.uk/ukpga/2002/32/section/214/4)); [S.I. 2003/124](https://www.legislation.gov.uk/uksi/2003/124), [art. 4](https://www.legislation.gov.uk/uksi/2003/124/article/4); [S.I. 2007/3611](https://www.legislation.gov.uk/uksi/2007/3611), [art. 4(1)](https://www.legislation.gov.uk/uksi/2007/3611/article/4/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2007/3611/schedule/part/1)
+
+[^c16677]: Textual amendment: Words in [s. 5](https://www.legislation.gov.uk/ukpga/1986/40/section/5) inserted (6.7.1992) by [S.I. 1992/1296](https://www.legislation.gov.uk/uksi/1992/1296), [art. 6(1)](https://www.legislation.gov.uk/uksi/1992/1296/article/6/1), [Sch. para. 5(2)](https://www.legislation.gov.uk/uksi/1992/1296/schedule/paragraph/5/2) and omitted (1.1.1996) by virtue of [S.I. 1995/2985](https://www.legislation.gov.uk/uksi/1995/2985), [art. 5(1) Sch. para. 4(3)](https://www.legislation.gov.uk/uksi/1995/2985/article/5/1/schedule/paragraph/4/3)

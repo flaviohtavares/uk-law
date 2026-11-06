@@ -1,0 +1,587 @@
+---
+title: The Government Resources and Accounts Act 2000 (Estimates and Accounts) Order 2018
+id: uksi/2018/313
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2018-03-07'
+text_date: '2019-01-31'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2018/313
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2018/313/pdfs/uksiem_20180313_en.pdf
+- http://www.legislation.gov.uk/uksi/2018/313/pdfs/uksi_20180313_en.pdf
+- http://www.legislation.gov.uk/uksi/2018/313/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Government Resources and Accounts Act 2000 (Estimates and Accounts) Order 2018
+
+> Text as at 2019-01-31.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2018 No. 313
+
+Government Resources And Accounts
+
+The Government Resources and Accounts Act 2000 (Estimates and Accounts) Order 2018
+
+Made
+
+7th March 2018
+
+Laid before Parliament
+
+8th March 2018
+
+Coming into force
+
+1st April 2018
+
+The Treasury make the following Order in exercise of the powers conferred by section 4A(3) and (4) of the Government Resources and Accounts Act 2000 [^c22926961].
+
+In accordance with section 4A(8) of that Act the Treasury have consulted, where they think it appropriate, the Scottish Ministers, the Department for Finance and Personnel for Northern Ireland and the Welsh Ministers.
+
+## 1. Citation and commencement
+
+(1) This Order may be cited as the Government Resources and Accounts Act 2000 (Estimates and Accounts) Order 2018.
+
+(2) This Order comes into force on 1st April 2018.
+
+## 2. Designations
+
+A body which is listed in a Part of the Schedule to this Order is a designated body for the purposes of section 4A of the Government Resources and Accounts Act 2000—
+
+- (a) in relation to the department named in the heading to that Part, and
+- (b) for the financial year which ends on 31st March 2019.
+
+Craig Whittaker
+
+David Rutley
+
+Two of the Lords Commissioners of Her Majesty's Treasury
+
+## SCHEDULE — Designated Bodies[^key-483b1069c5604d4d59358f0d054f8562]
+
+Article 2
+
+### PART 1 — Ministry of Defence
+
+- Advisory Committee on Conscientious Objectors
+- Advisory Group on Military Medicine
+- Armed Forces Covenant Fund Trustee Limited
+- Armed Forces Pay Review Body
+- Central Advisory Committee on Compensation
+- Commonwealth War Graves Commission
+- Defence Nuclear Safety Committee
+- Defence Science Expert Committee
+- Independent Medical Expert Group
+- Independent Monitoring Board for the Military Corrective Training Centre (MCTC) Colchester
+- National Army Museum
+- National Museum of the Royal Navy
+- Nuclear Research Advisory Council
+- Royal Air Force Museum
+- Royal Hospital Chelsea
+- Science Advisory Committee on the Medical Implications of Less-Lethal Weapons
+- Single Source Regulations Office
+- Territorial, auxiliary and volunteer reserve associations established under section 110 of the Reserve Forces Act 1996
+- Veterans Advisory and Pensions Committees
+
+### PART 2 — Home Office
+
+- The Advisory Council on the Misuse of Drugs
+- Biometrics and Forensics Ethics Group
+- College of Policing
+- The Committee for the Protection of Animals Used for Scientific Purposes
+- Disclosure and Barring Service
+- Gangmasters and Labour Abuse Authority
+- Her Majesty’s Inspectors of Constabulary
+- Immigration Services Commissioner
+- Independent Family Returns Panel
+- Independent Office for Police Conduct
+- Investigatory Powers Commissioner’s Office
+- Investigatory Powers Tribunal
+- Migration Advisory Committee
+- National Crime Agency Remuneration Review Body
+- Office of the Chief Inspector of the UK Border Agency
+- The Office of the Commissioner for the Retention and Use of Biometric Material
+- The Office of the Forensic Science Regulator
+- The Office of the Independent Anti-Slavery Commissioner
+- The Office of the Independent Monitor for the purposes of Part 5 of the Police Act 1997
+- The Office of the Independent Reviewer of Terrorism Legislation
+- The Office of the person appointed under sections 47H(4), 127H(4), 195H(4) and 290(8) of the Proceeds of Crime Act 2002
+- The Office of the Surveillance Camera Commissioner
+- Police Advisory Board for England and Wales
+- Police Appeals Tribunal
+- Police Remuneration Review Body
+- Security Industry Authority
+- Technical Advisory Board
+
+### PART 3 — Foreign and Commonwealth Office
+
+- The Great Britain-China Centre
+- Marshall Aid Commemoration Commission
+- The UK China Forum
+- The Westminster Foundation for Democracy Limited
+
+### PART 4 — Department for International Development
+
+- Commission for Equality and Human Rights
+- Commonwealth Scholarship Commission in the United Kingdom
+- The Independent Commission for Aid Impact
+
+### PART 5 — Department of Health and Social Care
+
+- Administration of Radioactive Substances Advisory Committee
+- Advisory Committee on Antimicrobial Prescribing, Resistance and Healthcare Associated Infection
+- Advisory Committee on Borderline Substances
+- Advisory Committee on Clinical Excellence Awards
+- Advisory Committee on Dangerous Pathogens
+- Advisory Committee on the Safety of Blood, Tissues and Organs
+- Advisory Group on Hepatitis
+- Care Quality Commission
+- Charitable trusts the trustees of which are an NHS Foundation Trust (as established under section 30 of the National Health Service Act 2006)
+- Charitable trusts the trustees of which are appointed for NHS Foundation Trusts in pursuance of an order under section 51 of the National Health Service Act 2006
+- Clinical commissioning groups (as established under section 14D of the National Health Service Act 2006)
+- Committee on Carcinogenicity of Chemicals in Food, Consumer Products and the Environment
+- Committee on the Medical Aspects of Radiation in the Environment
+- Committee on the Medical Effects of Air Pollutants
+- Committee on Mutagenicity of Chemicals in Food, Consumer Products and the Environment
+- Community Health Partnerships Ltd
+- English NHS charities as defined by section 149(7) of the Charities Act 2011
+- Expert Advisory Group on AIDS
+- Genomics England Limited
+- Health and Care Professions Council
+- The Health and Social Care Information Centre
+- Health Education England
+- Health Research Authority
+- Healthwatch England
+- Human Fertilisation and Embryology Authority
+- Human Tissue Authority
+- Independent Reconfiguration Panel
+- Joint Committee on Vaccination and Immunisation
+- Monitor
+- The National Health Service Commissioning Board
+- National Health Service Trust Development Authority
+- National Institute for Health and Care Excellence
+- NHS Business Services Authority
+- NHS Counter Fraud Authority
+- NHS Foundation Trusts (as established under section 30 of the National Health Service Act 2006)
+- NHS Litigation Authority
+- The NHS Pay Review Body
+- NHS Property Services Ltd
+- NHS Trusts (as established under section 25 of the National Health Service Act 2006)
+- The Nursing and Midwifery Council
+- Professional Standards Authority for Health and Social Care
+- Review Body on Doctors’ and Dentists’ Remuneration
+- Scientific Advisory Committee on Nutrition
+- Skipton Fund Ltd
+- Supply Chain Coordination Limited
+- Wiltshire Health and Care LLP
+
+### PART 6 — Department for Work and Pensions
+
+- BPDTS Limited
+- Disabled People’s Employment Corporation (GB) Ltd
+- Health and Safety Executive
+- Industrial Injuries Advisory Council
+- Money Advice Service
+- Ombudsman for the Board of the Pension Protection Fund
+- The Pensions Advisory Service Limited
+- The Pensions Ombudsman
+- The Pensions Regulator
+- Remploy Pension Scheme Trustees Ltd
+- Social Security Advisory Committee
+- Single Financial Guidance Body established under section 1(1) of the Financial Guidance and Claims Act 2018
+
+### PART 7 — Department for Education
+
+- Aggregator Vehicle PLC
+- Children’s Commissioner
+- The Construction Industry Training Board
+- Engineering Construction Industry Training Board
+- Film Industry Training Board for England and Wales
+- The Institute for Apprenticeships
+- Located Property Limited
+- Office for Students
+- School Teachers’ Review Body
+- Social Mobility Commission
+- Social Work England
+- Student Loans Company Limited
+
+### PART 8 — Department for Business, Energy and Industrial Strategy
+
+- Advisory, Conciliation and Arbitration Service
+- AEA Insurance Limited
+- The Arts and Humanities Research Council
+- BBB Patient Capital Holdings Limited
+- The Biotechnology and Biological Sciences Research Council
+- BIS (Postal Services Act 2011) Company Limited
+- British Business Aspire Holdco Ltd
+- British Business Bank plc
+- British Business Finance Ltd
+- British Business Financial Services Ltd
+- British Business Investments Ltd
+- British Hallmarking Council
+- British Patient Capital Limited
+- Capital for Enterprise Fund Managers Limited
+- Capital for Enterprise (GP) Limited
+- Capital for Enterprise Limited
+- Central Arbitration Committee
+- Certification Office for Trade Union and Employers’ Associations
+- Civil Nuclear Police Authority
+- Coal Authority
+- Committee on Climate Change
+- Committee on Fuel Poverty
+- Committee on Radioactive Waste Management
+- Competition Appeal Tribunal
+- Competition Service
+- The Copyright Tribunal
+- Cornwall and Isles of Scilly Investments Limited
+- Council for Science and Technology
+- Daresbury Science & Innovation Campus Limited
+- Daresbury SIC (PubSec) LLP
+- Diamond Light Source Limited
+- Dounreay Site Restoration Limited
+- East Midlands Early Growth Fund Limited
+- The Economic and Social Research Council
+- Electricity Settlements Company Ltd
+- The Engineering and Physical Sciences Research Council
+- Enrichment Holdings Ltd
+- Enrichment Investments Limited
+- The Financial Reporting Council Limited
+- Fleetbank Funding Limited
+- Groceries Code Adjudicator
+- Harwell Science and Innovation Campus Public Sector Limited Partnership
+- Industrial Development Advisory Board
+- Innovate UK Loans Limited
+- LLW Repository Limited
+- Low Carbon Contracts Company Ltd
+- Low Pay Commission
+- Magnox Limited
+- Medical Research Council
+- Midlands Engine Investments Limited
+- The Natural Environment Research Council
+- NDA Archives Limited
+- The NESTA Trust
+- Northern Powerhouse Investments Limited
+- Nuclear Decommissioning Authority
+- Nuclear Liabilities Financing Assurance Board
+- NW VCLF HF LLP
+- Office of Manpower Economics
+- Oil and Gas Authority
+- Postal Services Holding Company Limited
+- Pubs Code Adjudicator
+- Radioactive Waste Management Limited
+- Regulatory Policy Committee
+- Research Sites Restoration Limited
+- The Science and Technology Facilities Council
+- Sellafield Limited
+- Small Business Commissioner
+- South Tees Site Company Limited
+- The Start-Up Loans Company
+- STFC Innovations Limited
+- The Technology Strategy Board
+- UK Climate Investments Indigo Limited
+- UK Climate Investments Lakeside Limited
+- UK Climate Investments LLP
+- UK Climate Investments VC Limited
+- UK Green Infrastructure Platform Limited
+- UK Shared Business Services Limited
+- United Kingdom Atomic Energy Authority
+- United Kingdom Research and Innovation
+
+### PART 9 — Department for Transport
+
+- Air Safety Support International Ltd
+- Air Travel Trust
+- British Transport Police Authority
+- The Commissioners of Irish Lights
+- The Commissioners of Northern Lighthouses
+- CTRL Section 1 Finance Plc
+- DFT OLR Holdings Limited
+- Directly Operated Railways
+- Disabled Persons Transport Advisory Committee
+- East West Rail Company Limited
+- High Speed Two (HS2) Limited
+- Highways England Company Ltd
+- LCR Finance Plc
+- Network Rail Limited
+- Passengers’ Council
+- Trinity House Lighthouse Service
+
+### PART 10 — Department for Digital, Culture, Media and Sport
+
+- Advisory Committee on the Government Art Collection
+- Arts Council of England
+- Arts Council of England Lottery
+- BBC
+- BBC Commercial Holdings Limited
+- BBC Digital Programme Services Limited
+- BBC Free to View (Satellite) Ltd
+- BBC Free to View Ltd
+- BBC Global News Holdings Limited
+- BBC Investments Ltd
+- BBC Media Applications Technologies Limited
+- BBC News Ltd
+- BBC Property Development Ltd
+- BBC Property Investment Ltd
+- BBC Property Ltd
+- BBC Studios Limited
+- BBC Subscription Television Limited
+- BBC World Service Holdings Ltd
+- BIG Lottery Fund
+- Birmingham Organising Committee for the 2022 Commonwealth Games Ltd
+- British Film Institute
+- British Film Institute Lottery
+- British Library
+- British Museum
+- British Tourist Authority
+- Churches Conservation Trust
+- DSHS Ltd
+- The English Institute of Sport Limited
+- The English Sports Council
+- The English Sports Council Lottery
+- English Sports Development Trust Limited
+- Gambling Commission
+- Geffrye Museum Trust Ltd
+- Heritage Lottery Fund
+- The Historic Buildings and Monuments Commission for England
+- The Historic England Foundation
+- Historic England Limited
+- Horniman Museum and Public Park Foundation
+- Horniman Public Museum and Public Park Trust
+- Horserace Betting Levy Board
+- Imperial War Museum
+- Information Commissioner
+- National Citizen Service Trust
+- National Film Development Fund
+- National Gallery
+- National Heritage Memorial Fund
+- National Maritime Museum
+- National Museums Liverpool
+- National Portrait Gallery
+- Natural History Museum
+- The Natural History Museum Benevolent Fund
+- The Natural History Museum Special Funds Trust
+- Office of the Adjudicator – Broadcast Transmission Services
+- The Office of the Adjudicator Ltd
+- Office of Communications
+- Phone-paid Services Authority Limited
+- PhonepayPlus Limited
+- Reviewing Committee on the Export of Works of Art
+- Royal Armouries Development Trust
+- Royal Armouries Museum
+- S4C
+- Science Museum Group
+- Sir John Soane’s Museum
+- The Sports Council Trust Company
+- Sports Grounds Safety Authority
+- Tate Gallery
+- Tate Gallery Projects Limited
+- Treasure Valuation Committee
+- UK Anti-Doping
+- The United Kingdom Sports Council
+- The United Kingdom Sports Council Lottery
+- Victoria and Albert Museum
+- Wallace Collection
+- Yorkshire 2019 Limited
+
+### PART 11 — Ministry of Housing, Communities and Local Government
+
+- AWM (Subsidiary) Ltd
+- Bristol and Bath Science Park Estate Management Company Limited
+- Building Regulations Advisory Committee
+- Commission for Local Administration in England
+- The Ebbsfleet Development Corporation
+- English Partnerships (LP) Limited
+- The Estuary Management Company Ltd
+- Homes and Communities Agency
+- The Housing Ombudsman
+- The Leasehold Advisory Service
+- NorwePP (NWDA Subsidiary) Limited
+- ONE NorthEast General Partner Limited
+- Regulator of Social Housing
+- Valuation Tribunal for England
+- Valuation Tribunal Service
+
+### PART 12 — Ministry of Justice
+
+- Advisory Committees on Justices of the Peace in England and Wales
+- Assessor of Compensation for Miscarriages of Justice
+- Chief Coroner’s Office
+- Children and Family Court Advisory and Support Service
+- Civil Justice Council
+- Civil Procedure Rule Committee
+- Criminal Cases Review Commission
+- Criminal Procedure Rule Committee
+- Family Justice Council
+- Family Procedure Rule Committee
+- Gov Facility Services Limited
+- Independent Advisory Panel on Deaths in Custody
+- Independent Monitoring Boards of Prisons, Immigration Removal Centres and Short Term Holding Facilities
+- Judicial Appointments and Conduct Ombudsman
+- Judicial Appointments Commission
+- Judicial College
+- Judicial Conduct and Investigations Office
+- Judicial Office
+- Law Commission
+- Legal Services Board
+- Office for Legal Complaints
+- Office of the Commissioner for Victims and Witnesses
+- Office of HM Inspectorate of Prisons
+- Office of HM Inspectorate of Probation
+- Office of the Judge Advocate General
+- Office of the Official Solicitor
+- Office of the Prisons and Probation Ombudsman for England and Wales
+- Parole Board for England and Wales
+- Prison Service Pay Review Body
+- Public Trustee
+- Recognition Panel
+- Sentencing Council for England and Wales
+- Tribunal Procedure Committee
+- Youth Justice Board for England and Wales
+
+### PART 13 — Department for Environment, Food and Rural Affairs
+
+- Advisory Committee on Releases to the Environment
+- Agriculture and Horticulture Development Board
+- Consumer Council for Water
+- Environment Agency
+- Flood Re
+- Forestry Commission
+- Independent Agricultural Appeals Panel
+- Joint Nature Conservation Committee
+- Marine Management Organisation
+- Meat and Livestock Commercial Services Limited
+- National Forest Company
+- Natural England
+- Plant Varieties and Seeds Tribunal
+- RBG Kew Enterprises Limited
+- Royal Botanic Gardens, Kew
+- Science Advisory Council
+- Sea Fish Industry Authority
+- Sutton Bridge Experimental Unit Limited
+- Veterinary Products Committee
+
+### PART 14 — HM Revenue and Customs
+
+- Revenue & Customs Digital Technology Services Limited
+
+### PART 15 — HM Treasury
+
+- Aire Valley Holdings Limited
+- Bradford & Bingley plc
+- Bradford & Bingley Homeloans Limited
+- Bradford & Bingley Investments
+- Bradford & Bingley Mortgage Management Limited
+- Community Housing Initiatives Limited
+- F&NE (1990) Limited
+- F&NE Limited
+- FFM Limited
+- Finance for Mortgages Limited
+- Financial Reporting Advisory Board
+- Financial Services Compensation Scheme
+- GPCH Limited
+- Granite Finance Funding Limited
+- Granite Finance Funding 2 Limited
+- Granite Finance Holdings Limited
+- Granite Finance Trustees Limited
+- Granite Master Issuer plc
+- Granite Mortgages 03-2 plc
+- Granite Mortgages 03-3 plc
+- Granite Mortgages 04-1 plc
+- Granite Mortgages 04-2 plc
+- Granite Mortgages 04-3 plc
+- Help to Buy (HMT) Limited
+- Heron’s Reach Developments Limited
+- HM Treasury UK Sovereign Sukuk Plc
+- HSMS
+- Infrastructure Finance Unit Limited
+- IUK Investments Holdings Limited
+- IUK Investments Limited
+- Leamington Mortgage Corporation Limited
+- Mortgage Express
+- Mortgage Express (No. 2)
+- Mortgage Express Holdings
+- Northern Rock (Asset Management) Limited
+- NRAM Limited
+- NRAM (No.2) Limited
+- NRAM Covered Bond LLP
+- NRAM Homes Limited
+- Office for Budget Responsibility
+- Royal Household
+- Royal Mint Advisory Committee on the Design of Coins, Medals, Seals and Decorations
+- Scotlife Home Loans (No.2) Limited
+- Silhouette Mortgages Limited
+- UK AR Corporate Services Limited
+- UK Asset Resolution Limited
+- UK Financial Investments Ltd
+- UKGI Financing plc
+- UK Government Investments Limited
+- Whinstone Capital Management Limited
+- Whinstone 2 Capital Management Limited
+
+### PART 16 — Cabinet Office
+
+- Advisory Committee on Business Appointments
+- Civil Service Commission
+- Committee on Standards in Public Life
+- Geospatial Commission
+- Govserv Ltd
+- House of Lords Appointments Commission
+- Main Honours Committee
+- Office of the Commissioner for Public Appointments
+- Parliamentary Boundary Commission for England
+- Parliamentary Boundary Commission for Wales
+- The Registrar of Consultant Lobbyists
+- Security Vetting Appeals Panel
+- Senior Salaries Review Body
+
+### PART 17 — Scotland Office and Office of the Advocate General
+
+- Boundary Commission for Scotland
+
+### PART 18 — Northern Ireland Office
+
+- Boundary Commission for Northern Ireland
+- Independent Reporting Commission
+- Northern Ireland Human Rights Commission
+- Parades Commission for Northern Ireland
+
+### PART 19 — Food Standards Agency
+
+- Advisory Committee on Animal Feedingstuffs
+- Advisory Committee on Novel Foods and Processes
+- Advisory Committee on the Microbiological Safety of Food
+- Advisory Committee for Social Science
+- Committee on Toxicity of Chemicals in Food, Consumer Products and the Environment
+- FSA Science Council
+
+### PART 20 — The National Archives
+
+- Advisory Council on National Records and Archives
+
+### PART 21 — Export Credits Guarantee Department
+
+- Export Guarantees Advisory Council
+
+*(This note is not part of the Order)*
+
+This Order designates specified central government bodies in relation to named government departments for the purpose of those departments' supply estimates and resource accounts.
+
+The designations have effect for the financial year that ends on 31st March 2019.
+
+An impact assessment has not been prepared for this instrument because no impact on the private or voluntary sector is foreseen.
+
+## Annotations
+
+[^c22926961]: Marginal citation: [2000 c.20](https://www.legislation.gov.uk/ukpga/2000/20). Section 4A was inserted by section 43(2) of the [Constitutional Reform and Governance Act 2010 (c.25)](https://www.legislation.gov.uk/ukpga/2010/25).
+
+[^key-483b1069c5604d4d59358f0d054f8562]: Textual amendment: Sch. substituted (31.1.2019) by [The Government Resources and Accounts Act 2000 (Estimates and Accounts) (Amendment) Order 2018 (S.I. 2018/1335)](https://www.legislation.gov.uk/uksi/2018/1335), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/1335/article/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2018/1335/article/2/2), [Sch.](https://www.legislation.gov.uk/uksi/2018/1335/schedule)

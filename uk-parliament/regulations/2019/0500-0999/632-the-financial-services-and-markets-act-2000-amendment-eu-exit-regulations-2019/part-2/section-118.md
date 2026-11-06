@@ -1,0 +1,32 @@
+---
+title: The Financial Services and Markets Act 2000 (Amendment) (EU Exit) Regulations 2019, section 118
+act: The Financial Services and Markets Act 2000 (Amendment) (EU Exit) Regulations 2019
+section: '118'
+status: revised-with-pending-changes
+text_date: '2025-02-27'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2019/632/section/118
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Financial Services and Markets Act 2000 (Amendment) (EU Exit) Regulations 2019, section 118
+
+> **Warning: changes not yet applied to this text (1).** Text as at 2025-02-27. See https://www.legislation.gov.uk/changes/affected/uksi/2019/632
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 118. Paragraph 30 (offences)[^key-958bc2f9301c609f1995f8ec747b3984]
+
+*Extent: E+W+S+N.I.*
+
+In paragraph 30 [^c23658941] (offences)—
+
+- (a) in sub-paragraph (a), for “, a recognised CSD or an EEA CSD” substitute “ or a recognised CSD ”;
+- (b) in sub-paragraph (c), for “qualifying EU provision” substitute “ qualifying provision ”.
+
+## Annotations
+
+[^key-958bc2f9301c609f1995f8ec747b3984]: Commencement: Reg. 118 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+
+[^c23658941]: Marginal citation: Sub-paragraph (a) was amended by [S.I. 2017/1064](https://www.legislation.gov.uk/uksi/2017/1064).

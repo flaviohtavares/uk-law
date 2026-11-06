@@ -1,0 +1,121 @@
+---
+title: The Marine and Coastal Access Act 2009 (Amendment) Regulations 2011
+id: uksi/2011/405
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2011-02-09'
+text_date: '2011-04-06'
+extent: E+W+S+NI
+source_url: https://www.legislation.gov.uk/uksi/2011/405
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2011/405/pdfs/uksiem_20110405_en.pdf
+- http://www.legislation.gov.uk/uksi/2011/405/pdfs/uksi_20110405_en.pdf
+- http://www.legislation.gov.uk/uksi/2011/405/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Marine and Coastal Access Act 2009 (Amendment) Regulations 2011
+
+> Text as at 2011-04-06.
+>
+> Extent: England, Wales, Scotland, NI.
+
+*Extent: E+W+S+NI*
+
+2011 No. 405
+
+Environmental Protection
+
+Licensing (marine)
+
+Marine Pollution
+
+The Marine and Coastal Access Act 2009 (Amendment) Regulations 2011
+
+Made
+
+9th February 2011
+
+Laid before Parliament
+
+17th February 2011
+
+Coming into force
+
+6th April 2011
+
+The Secretary of State, being a Minister designated[^f00001] for the purposes of section 2(2) of the European Communities Act 1972[^f00002] in relation to the environment, makes the following Regulations in exercise of the powers conferred by that section.
+
+## 1. Citation and commencement
+
+These Regulations—
+
+- (a) may be cited as the Marine and Coastal Access Act 2009 (Amendment) Regulations 2011; and
+- (b) come into force on 6th April 2011.
+
+## 2. Amendment of section 75 of the Marine and Coastal Access Act 2009
+
+(1) Section 75 of the Marine and Coastal Access Act 2009[^f00003] (exemptions for certain dredging etc activities) is amended as follows.
+
+(2) In subsection (1)—
+
+- (a) the words from “the conditions” to the end become paragraph (a); and
+- (b) after that paragraph insert—
+
+  > , and
+  >
+  > - (b) where the activity involves the disposal or recovery of waste materials, the additional conditions in subsection (2A) are met
+
+  .
+
+(3) After subsection (2) insert—
+
+> (2A) The additional conditions are—
+>
+> - (a) that the activity involves the relocation of sediments inside surface waters,
+> - (b) that the activity is for the purpose of—
+>   - (i) managing waters or waterways,
+>   - (ii) preventing floods,
+>   - (iii) mitigating the effects of floods or droughts, or
+>   - (iv) land reclamation, and
+> - (c) that it is proved to the satisfaction of the appropriate licensing authority for the area in which the activity is to be undertaken that the sediments are not hazardous waste.
+
+.
+
+(4) After subsection (4) insert—
+
+> (5) Any expression used in subsection (1)(b) or (2A) and also in Directive [2008/98/EC](https://www.legislation.gov.uk/european/directive/2008/0098) of the European Parliament and of the Council of 18 November 2008 on waste[^f00004] has the same meaning as in that Directive.
+
+.
+
+Richard Benyon
+
+Parliamentary Under Secretary of State
+
+Department for Environment, Food and Rural Affairs
+
+9th February 2011
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations amend section 75 of the Marine and Coastal Access Act [2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23) by adding further conditions to the exemption from marine licensing for dredging or spoil disposal activities carried out by, or on behalf of, harbour authorities.
+
+The further conditions are consistent with the limits of the exclusion from Directive [2008/98/EC](https://www.legislation.gov.uk/european/directive/2008/0098) of the European Parliament and of the Council on waste (OJ No L 312, 22.11.2008, p 3) under Article 2(3). They apply to activities involving the relocation of sediments inside surface waters, where this is done for specified purposes and where it can be proved to the appropriate licensing authority that the sediments are not hazardous waste.
+
+An impact assessment which shows the anticipated cost of compliance to businesses may be obtained from the Marine Licensing team, Area 2C, Nobel House, 17 Smith Square, London SW1P 3JR and is available alongside the Explanatory Memorandum and the instrument on www.legislation.gov.uk.
+
+## Annotations
+
+[^f00001]: Footnote: [S.I. 2008/301](https://www.legislation.gov.uk/uksi/2008/301).
+
+[^f00002]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68). Section 2(2) is amended by section 27(1) of the Legislative and Regulatory Reform Act [2006 (c. 51)](https://www.legislation.gov.uk/ukpga/2006/51) and by section 3(3) of, and Part 1 of the Schedule to, the European Union (Amendment) Act [2008 (c. 7)](https://www.legislation.gov.uk/ukpga/2008/7). The Secretary of State’s functions in relation to implementing obligations under European Union law are preserved as regards Scotland by section 57 of the Scotland Act [1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46) and as regards Wales by paragraph 5 of Schedule 3 to the Government of Wales Act [2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32).
+
+[^f00003]: Footnote: [2009 c. 23](https://www.legislation.gov.uk/ukpga/2009/23).
+
+[^f00004]: Footnote: OJ No L 312, 22.11.2008, p3.

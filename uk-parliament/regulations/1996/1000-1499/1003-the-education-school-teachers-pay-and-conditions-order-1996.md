@@ -1,0 +1,351 @@
+---
+title: The Education (School Teachers' Pay and Conditions) Order 1996
+id: uksi/1996/1003
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '1996-04-01'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1996/1003
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1996/1003/made/data.pdf
+pending_changes: 1
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Education (School Teachers' Pay and Conditions) Order 1996
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+1996 No. 1003
+
+EDUCATION, ENGLAND AND WALES
+
+The Education (School Teachers' Pay and Conditions) Order 1996
+
+Made
+
+1st April 1996
+
+Laid before Parliament
+
+2nd April 1996
+
+Coming into force
+
+25th April 1996
+
+Whereas the review body appointed under section 1(1) of the School Teachers' Pay and Conditions Act 1991[^f00001] (“the Act”) have made a report following the reference to them of certain matters;
+
+And whereas the Secretary of State has consulted, in accordance with section 2(1) and (2) of the Act, such associations of local education authorities, such bodies representing the interests of governors of voluntary, grant-maintained and grant-maintained special schools and such bodies representing school teachers as appeared to her to be concerned;
+
+Now, therefore, the Secretary of State, in exercise of the powers conferred by sections 2(1), (3) and (4) and 5(4) of the Act hereby makes the following Order:
+
+## 1. Citation and commencement
+
+This Order may be cited as the Education (School Teachers' Pay and Conditions) Order 1996 and shall come into force on 25th April 1996.
+
+## 2. Application
+
+This Order applies to school teachers (as defined in section 5(1) and (2) of the School Teachers' Pay and Conditions Act 1991) in England and Wales.
+
+## 3. School Teachers' Pay and Conditions
+
+The School Teachers' Pay and Conditions Document 1995[^f00002] shall be amended with effect from 1st April 1996 as follows:
+
+- (a) for paragraph 4.1 substitute—
+
+  > **4.1(a)** During the period 1st April 1996 to 30th November 1996 a head teacher or deputy head teacher shall be paid such salary based on the pay spine A set out in paragraph 4.3 as the relevant body shall determine in accordance with paragraph 4.4.
+  >
+  > **4.1(b)** From 1st December 1996 a head teacher or deputy head teacher shall be paid such salary based on the pay spine B set out in paragraph 4.3 as the relevant body shall determine in accordance with paragraph 4.4.
+
+  ;
+- (b) the following tables shall be substituted for the table in paragraph 4.3—
+
+  > **Pay Spine A—1st April 1996 to 30th November 1996**
+  >
+  > | *Spine point* | *Annual salary £* |
+  > | --- | --- |
+  > | 1 | 24,327 |
+  > | 2 | 24,726 |
+  > | 3 | 25,125 |
+  > | 4 | 25,524 |
+  > | 5 | 25,923 |
+  > | 6 | 26,319 |
+  > | 7 | 26,721 |
+  > | 8 | 27,114 |
+  > | 9 | 27,522 |
+  > | 10 | 27,918 |
+  > | 11 | 28,314 |
+  > | 12 | 28,713 |
+  > | 13 | 29,109 |
+  > | 14 | 29,514 |
+  > | 15 | 29,910 |
+  > | 16 | 30,306 |
+  > | 17 | 30,705 |
+  > | 18 | 31,110 |
+  > | 19 | 31,506 |
+  > | 20 | 31,905 |
+  > | 21 | 32,439 |
+  > | 22 | 32,964 |
+  > | 23 | 33,498 |
+  > | 24 | 34,032 |
+  > | 25 | 34,563 |
+  > | 26 | 35,091 |
+  > | 27 | 35,625 |
+  > | 28 | 36,159 |
+  > | 29 | 36,690 |
+  > | 30 | 37,359 |
+  > | 31 | 38,019 |
+  > | 32 | 38,682 |
+  > | 33 | 39,348 |
+  > | 34 | 40,017 |
+  > | 35 | 40,680 |
+  > | 36 | 41,346 |
+  > | 37 | 42,009 |
+  > | 38 | 42,939 |
+  > | 39 | 43,866 |
+  > | 40 | 44,802 |
+  > | 41 | 45,729 |
+  > | 42 | 46,656 |
+  > | 43 | 47,595 |
+  > | 44 | 48,522 |
+  > | 45 | 49,449 |
+  > | 46 | 50,382 |
+  > | 47 | 51,315 |
+  > | 48 | 52,245 |
+  > | 49 | 53,175 |
+  > | 50 | 54,102 |
+  > | 51 | 55,032 |
+  >
+  > **Pay Spine B—From 1st December 1996**
+  >
+  > | *Spine point* | *Annual salary £* |
+  > | --- | --- |
+  > | 1 | 24,564 |
+  > | 2 | 24,966 |
+  > | 3 | 25,371 |
+  > | 4 | 25,773 |
+  > | 5 | 26,175 |
+  > | 6 | 26,574 |
+  > | 7 | 26,982 |
+  > | 8 | 27,378 |
+  > | 9 | 27,789 |
+  > | 10 | 28,191 |
+  > | 11 | 28,587 |
+  > | 12 | 28,992 |
+  > | 13 | 29,391 |
+  > | 14 | 29,802 |
+  > | 15 | 30,201 |
+  > | 16 | 30,603 |
+  > | 17 | 31,005 |
+  > | 18 | 31,410 |
+  > | 19 | 31,812 |
+  > | 20 | 32,214 |
+  > | 21 | 32,757 |
+  > | 22 | 33,285 |
+  > | 23 | 33,825 |
+  > | 24 | 34,362 |
+  > | 25 | 34,899 |
+  > | 26 | 35,433 |
+  > | 27 | 35,970 |
+  > | 28 | 36,510 |
+  > | 29 | 37,047 |
+  > | 30 | 37,725 |
+  > | 31 | 38,391 |
+  > | 32 | 39,060 |
+  > | 33 | 39,732 |
+  > | 34 | 40,407 |
+  > | 35 | 41,076 |
+  > | 36 | 41,748 |
+  > | 37 | 42,417 |
+  > | 38 | 43,356 |
+  > | 39 | 44,295 |
+  > | 40 | 45,237 |
+  > | 41 | 46,173 |
+  > | 42 | 47,112 |
+  > | 43 | 48,057 |
+  > | 44 | 48,993 |
+  > | 45 | 49,932 |
+  > | 46 | 50,874 |
+  > | 47 | 51,813 |
+  > | 48 | 52,755 |
+  > | 49 | 53,694 |
+  > | 50 | 54,627 |
+  > | 51 | 55,566 |
+
+  ;
+- (c) in paragraph 4.4.2 for “following table” substitute “appropriate table set out below”;
+- (d) the following tables shall be substituted for the table in paragraph 4.4.2–
+
+  > **Period 1st April 1996 to 30th November 1996**
+  >
+  > | *Group* | *Head teachers Spine point* | *Range£* |
+  > | --- | --- | --- |
+  > | 1 | 3–15 | 25,125–29,910 |
+  > | 2 1(S) | 8–22 | 27,114–32,964 |
+  > | 3 2(S) | 15–29 | 29,910–36,690 |
+  > | 4 3(S) | 23–37 | 33,498–42,009 |
+  > | 5 4(S) | 31–44 | 38,019–48,522 |
+  > | 6 | 38–51 | 42,939–55,032 |
+  >
+  > | *Group* | *Deputy head teachers Spine point* | *Range £* |
+  > | --- | --- | --- |
+  > | 1 | 1–8 | 24,327–27,114 |
+  > | 2 1(S) | 2–10 | 24,726–27,918 |
+  > | 3 2(S) | 4–13 | 25,524–29,109 |
+  > | 4 3(S) | 8–20 | 27,114–31,905 |
+  > | 5 4(S) | 15–26 | 29,910–35,091 |
+  > | 6 | 22–34 | 32,964–40,017 |
+  >
+  > **From 1st December 1996**
+  >
+  > | *Group* | *Head teachers Spine point* | *Range£* |
+  > | --- | --- | --- |
+  > | 1 | 3–15 | 25,371–30,201 |
+  > | 2 1(S) | 8–22 | 27,378–33,285 |
+  > | 3 2(S) | 15–29 | 30,201–37,047 |
+  > | 4 3(S) | 23–37 | 33,825–42,417 |
+  > | 5 4(S) | 31–44 | 38,391–48,993 |
+  > | 6 | 38–51 | 43,356–55,566 |
+  >
+  > | *Group* | *Deputy head teachers Spine point* | *Range £* |
+  > | --- | --- | --- |
+  > | 1 | 1–8 | 24,564–27,378 |
+  > | 2 1(S) | 2–10 | 24,966–28,191 |
+  > | 3 2(S) | 4–13 | 25,773–29,391 |
+  > | 4 3(S) | 8–20 | 27,378–32,214 |
+  > | 5 4(S) | 15–26 | 30,201–35,433 |
+  > | 6 | 22–34 | 33,285–40,407 |
+
+  ;
+- (e) for paragraph 9.1 substitute—
+
+  > **9.1(a)** During the period 1st April 1996 to 30th November 1996 a classroom teacher shall be paid such salary based on the pay spine A set out in paragraph 9.2 as the relevant body shall determine in accordance with paragraphs 9.3 and 19.1 (unqualified teacher becoming qualified).
+  >
+  > **9.1(b)** From 1st December 1996 a classroom teacher shall be paid such salary based on the pay spine B set out in paragraph 9.2 as the relevant body shall determine in accordance with paragraphs 9.3 and 19.1 (unqualified teacher becoming qualified).
+
+  ;
+- (f) the following tables shall be substituted for the table in paragraph 9.2—
+
+  > **Pay Spine A—1st April 1996 to 30th November 1996**
+  >
+  > | *Spine point* | *Annual salary £* |
+  > | --- | --- |
+  > | 0 | 12,342 |
+  > | 1 | 13,083 |
+  > | 2 | 13,866 |
+  > | 3 | 14,622 |
+  > | 4 | 15,414 |
+  > | 5 | 16,335 |
+  > | 6 | 17,316 |
+  > | 7 | 18,357 |
+  > | 8 | 19,458 |
+  > | 9 | 20,700 |
+  > | 10 | 21,981 |
+  > | 11 | 23,289 |
+  > | 12 | 25,146 |
+  > | 13 | 26,823 |
+  > | 14 | 28,965 |
+  > | 15 | 30,267 |
+  > | 16 | 31,632 |
+  > | 17 | 33,054 |
+  >
+  > **Pay Spine B—From 1st December 1996**
+  >
+  > | *Spine point* | *Annual salary £* |
+  > | --- | --- |
+  > | 0 | 12,462 |
+  > | 1 | 13,209 |
+  > | 2 | 14,001 |
+  > | 3 | 14,763 |
+  > | 4 | 15,564 |
+  > | 5 | 16,494 |
+  > | 6 | 17,487 |
+  > | 7 | 18,534 |
+  > | 8 | 19,647 |
+  > | 9 | 20,901 |
+  > | 10 | 22,194 |
+  > | 11 | 23,514 |
+  > | 12 | 25,392 |
+  > | 13 | 27,084 |
+  > | 14 | 29,247 |
+  > | 15 | 30,561 |
+  > | 16 | 31,941 |
+  > | 17 | 33,375 |
+- (g) for paragraph 15.1 substitute–
+
+  > **15.1(a)** During the period 1st April 1996 to 30th November 1996 an unqualified teacher (except one to whom paragraph 18 applies) shall be paid such salary based on the following pay scale as the relevant body shall determine in accordance with paragraphs 15.2 to 15.6 and 17:
+  >
+  > **Period 1st April 1996 to 30th November 1996**
+  >
+  > | *Scale point* | *Annual salary £* |
+  > | --- | --- |
+  > | 1 | 10,380 |
+  > | 2 | 10,842 |
+  > | 3 | 11,298 |
+  > | 4 | 11,763 |
+  > | 5 | 12,234 |
+  > | 6 | 12,696 |
+  > | 7 | 13,161 |
+  > | 8 | 14,250 |
+  > | 9 | 15,480 |
+  > | 10 | 16,410 |
+  >
+  > **15.1(b)** From 1st December 1996 an unqualified teacher (except one to whom paragraph 18 applies) shall be paid such salary based on the following pay scale as the relevant body shall determine in accordance with paragraphs 15.2 to 15.6 and 17:
+  >
+  > **From 1st December 1996**
+  >
+  > | *Scale point* | *Annual salary £* |
+  > | --- | --- |
+  > | 1 | 10,479 |
+  > | 2 | 10,947 |
+  > | 3 | 11,406 |
+  > | 4 | 11,877 |
+  > | 5 | 12,354 |
+  > | 6 | 12,819 |
+  > | 7 | 13,290 |
+  > | 8 | 14,388 |
+  > | 9 | 15,630 |
+  > | 10 | 16,572 |
+
+  ;
+- (h) for paragraph 21.1 substitute—
+
+  > **21.1.** A teacher serving in the London Area shall receive a London Area allowance of:
+  >
+  > - (a) if he is serving in the Inner London Area, £2,004 per annum until 30th November 1996 and £2,022 per annum on or after 1st December 1996;
+  > - (b) if he is serving in the Outer London Area, £1,317 per annum until 30th November 1996 and £1,329 per annum on or after 1st December 1996;
+  > - (c) if he is serving in the Fringe Area, £513 per annum until 30th November 1996 and £516 per annum on or after 1st December 1996.
+
+  .
+
+Gillian Shephard
+
+Secretary of State for Education and Employment
+
+1st April 1996
+
+(This note is not part of the Order)
+
+This Order amends the School Teachers' Pay and Conditions Document 1995 (“the Document”) by uprating the amounts of salary and certain allowances. The following are increased:
+
+- (a) the head and deputy head teachers' pay spine and ranges set out in paragraph 4 of the Document;
+- (b) the classroom teachers' pay spine set out in paragraph 9 of the Document;
+- (c) the unqualified teachers' pay scale set out in paragraph 15 of the Document;
+- (d) the London Area allowances set out in paragraph 21.1 of the Document.
+
+In each case there are two increases, the first for the period 1st April 1996 to 30th November 1996 and the second as from 1st December 1996.
+
+The Document is published by Her Majesty’s Stationery Office and is obtainable from Government book shops and through booksellers.
+
+The retrospective effect of these changes is authorised by section 2(4)(f) of the School Teachers' Pay and Conditions Act 1991.
+
+## Annotations
+
+[^f00001]: Footnote: [1991 c. 49](https://www.legislation.gov.uk/ukpga/1991/49). The provisions of the Act extend to grant-maintained special schools by virtue of S.I. [1994/653](https://www.legislation.gov.uk/uksi/1994/653).
+
+[^f00002]: Footnote: ISBN 0 11 270914 1; the Document was given effect by the Education (School Teachers' Pay and Conditions) (No. 2) Order 1995 (S.I. [1995/1743](https://www.legislation.gov.uk/uksi/1995/1743)).

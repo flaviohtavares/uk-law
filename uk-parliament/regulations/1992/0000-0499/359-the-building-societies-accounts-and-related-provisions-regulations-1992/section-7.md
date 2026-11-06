@@ -1,0 +1,19 @@
+---
+title: The Building Societies (Accounts and Related Provisions) Regulations 1992, section 7
+act: The Building Societies (Accounts and Related Provisions) Regulations 1992
+section: '7'
+status: as-enacted
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1992/359/section/7
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Building Societies (Accounts and Related Provisions) Regulations 1992, section 7
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+## 7. Accounting principles and rules
+
+Each society shall prepare its annual accounts in accordance with the accounting principles and rules set out in Schedule 7.

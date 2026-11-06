@@ -1,0 +1,117 @@
+---
+title: The Social Security Benefits Up-rating Regulations 2006
+id: uksi/2006/712
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2006-03-09'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2006/712
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2006/712/pdfs/uksiem_20060712_en.pdf
+- http://www.legislation.gov.uk/uksi/2006/712/pdfs/uksi_20060712_en.pdf
+- http://www.legislation.gov.uk/uksi/2006/712/made/data.pdf
+pending_changes: 1
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Social Security Benefits Up-rating Regulations 2006
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2006 No. 712
+
+SOCIAL SECURITY
+
+The Social Security Benefits Up-rating Regulations 2006
+
+Made
+
+9th March 2006
+
+Laid before Parliament
+
+16th March 2006
+
+Coming into force
+
+10th April 2006
+
+The Secretary of State for Work and Pensions makes the following Regulations in exercise of the powers conferred by sections 90, 113(1), 122(1) and 175(1) and (3) of the Social Security Contributions and Benefits Act 1992[^f00001] and sections 155(3), 189(1) and (4) and 191 of the Social Security Administration Act 1992[^f00002].
+
+As these Regulations contain only provisions in consequence of an order under section 150 of the Social Security Administration Act 1992 there is no requirement to consult the Social Security Advisory Committee in respect of them[^f00003].
+
+## 1. Citation, commencement and interpretation
+
+(1) These Regulations may be cited as the Social Security Benefits Up-rating Regulations 2006 and shall come into force on 10th April 2006.
+
+(2) In these Regulations, “the Up-rating Order” means the Social Security Benefits Up-rating Order 2006[^f00004].
+
+## 2. Exceptions relating to payment of additional benefit by virtue of the Up-rating Order
+
+Section 155(3) of the Social Security Administration Act 1992 (effect of alteration of rates of benefit under Parts II to V of the Social Security Contributions and Benefits Act 1992) shall not apply if a question arises as to either—
+
+- (a) the weekly rate at which the benefit is payable by virtue of the Up-rating Order, or
+- (b) whether the conditions for receipt of the benefit at the altered rate are satisfied,
+
+until that question has been determined in accordance with the provisions of the Social Security Act 1998[^f00005].
+
+## 3. Persons not ordinarily resident in Great Britain
+
+Regulation 5 of the Social Security Benefit (Persons Abroad) Regulations 1975[^f00006] (application of disqualification in respect of up-rating of benefit) shall apply to any additional benefit payable by virtue of the Up-rating Order.
+
+## 4. Amendment of the Social Security Benefit (Dependency) Regulations 1977
+
+In paragraph 2B of Schedule 2 to the Social Security Benefit (Dependency) Regulations 1977[^f00007] (increase of carer’s allowance for child dependants)—
+
+- (a) for “£170”, in both places where it occurs, substitute “£175”; and
+- (b) for “£22” substitute “£23”.
+
+## 5. Revocation
+
+The Social Security Benefits Up-rating Regulations 2005[^f00008] are revoked.
+
+Signed by authority of the Secretary of State for Work and Pensions.
+
+Stephen C. Timms
+
+Minister of State,
+
+Department for Work and Pensions
+
+9th March 2006
+
+(This note is not part of the Regulations)
+
+This instrument contains only provisions in consequence of an order under section 150 of the Social Security Administration Act [1992 (c. 5)](https://www.legislation.gov.uk/ukpga/1992/5) (up-rating of benefits). Accordingly, by virtue of paragraph 3 of Schedule 7 to that Act, the Secretary of State has not referred these Regulations to the Social Security Advisory Committee.
+
+Regulation 2 provides that where a question has arisen about the effect of the Social Security Benefits Up-rating Order 2006 ([S.I. 2006/645](https://www.legislation.gov.uk/uksi/2006/645)) (“the Up-rating Order”) on a benefit already in payment, the altered rates will not apply until that question is determined by the Secretary of State, an appeal tribunal or a Commissioner.
+
+Regulation 3 applies the provisions of regulation 5 of the Social Security Benefit (Persons Abroad) Regulations 1975 ([S.I. 1975/563](https://www.legislation.gov.uk/uksi/1975/563)) so as to restrict the application of the increases specified in the Up-rating Order in cases where the beneficiary lives abroad.
+
+Regulation 4 raises from £170 to £175 and from £22 to £23 the earnings limits for child dependency increases payable with a carer’s allowance. These increases were abolished by sections 1(3)(e) and 60 of, and Schedule 6 to, the Tax Credits Act [2002 (c. 21)](https://www.legislation.gov.uk/ukpga/2002/21) but are saved for transitional cases by virtue of article 3 of the Tax Credits Act 2002 (Commencement No. 3 and Transitional Provisions and Savings) Order 2003 ([S.I. 2003/938](https://www.legislation.gov.uk/uksi/2003/938)).
+
+Regulation 5 revokes the Social Security Benefit Up-rating Regulations 2005 ([S.I. 2005/632](https://www.legislation.gov.uk/uksi/2005/632)).
+
+A full regulatory impact assessment has not been produced for this instrument as it has no impact on the costs of business, charities or voluntary bodies.
+
+## Annotations
+
+[^f00001]: Footnote: [1992 c. 4](https://www.legislation.gov.uk/ukpga/1992/4). Section 90 was amended by section 70 of, and paragraph 26 of Schedule 8 to, the Welfare Reform and Pensions Act [1999 (c. 30)](https://www.legislation.gov.uk/ukpga/1999/30) and by article 2 of, and paragraphs 1 and 2 of the Schedule to, [S.I. 2002/1457](https://www.legislation.gov.uk/uksi/2002/1457). Section 90 was also amended by section 60 of, and Schedule 6 to, the Tax Credits Act [2002 (c. 21)](https://www.legislation.gov.uk/ukpga/2002/21) (“the 2002 Act”) in respect of child dependency increases. Article 3 of [S.I. 2003/938](https://www.legislation.gov.uk/uksi/2003/938) saves the repealed provision in certain circumstances. Section 175(1) was amended by paragraph 29(2) of Schedule 3 to the Social Security Contributions (Transfer of Functions, etc.) Act [1999 (c. 2)](https://www.legislation.gov.uk/ukpga/1999/2) (“the 1999 Act”). Section 113(1) was amended by paragraph 38 of Schedule 24 to the Civil Partnership Act [2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33). Section 122(1) is cited for the meaning assigned to the word “prescribe”.
+
+[^f00002]: Footnote: [1992 c. 5](https://www.legislation.gov.uk/ukpga/1992/5). Section 189(1) and (4) was amended by section 86 of, and Schedules 7 and 8 to, the Social Security Act [1998 (c. 14)](https://www.legislation.gov.uk/ukpga/1998/14). Section 189(1) was also amended by section 2 of, and paragraph 57(2) of Schedule 3 to, the 1999 Act and section 60 of, and Schedule 6 to, the 2002 Act. Section 191 is cited for the meaning assigned to the word “prescribe”.
+
+[^f00003]: Footnote: *See* paragraph 3 of Schedule 7 to the Social Security Administration Act 1992.
+
+[^f00004]: Footnote: [S.I. 2006/645](https://www.legislation.gov.uk/uksi/2006/645).
+
+[^f00005]: Footnote: [1998 c. 14](https://www.legislation.gov.uk/ukpga/1998/14).
+
+[^f00006]: Footnote: [S.I. 1975/563](https://www.legislation.gov.uk/uksi/1975/563); relevant amending instruments are [S.I. 1977/342](https://www.legislation.gov.uk/uksi/1977/342), [1979/1432](https://www.legislation.gov.uk/uksi/1979/1432), [1988/435](https://www.legislation.gov.uk/uksi/1988/435), [1989/1642](https://www.legislation.gov.uk/uksi/1989/1642), [1990/621](https://www.legislation.gov.uk/uksi/1990/621), [1992/1700](https://www.legislation.gov.uk/uksi/1992/1700), [1994/1832](https://www.legislation.gov.uk/uksi/1994/1832), [2000/2876](https://www.legislation.gov.uk/uksi/2000/2876) and [2005/2877](https://www.legislation.gov.uk/uksi/2005/2877).
+
+[^f00007]: Footnote: [S.I. 1977/343](https://www.legislation.gov.uk/uksi/1977/343). Paragraph 2B was inserted by [S.I. 1984/1699](https://www.legislation.gov.uk/uksi/1984/1699); relevant amending instruments are [S.I. 2002/2497](https://www.legislation.gov.uk/uksi/2002/2497) and [2005/632](https://www.legislation.gov.uk/uksi/2005/632).
+
+[^f00008]: Footnote: [S.I. 2005/632](https://www.legislation.gov.uk/uksi/2005/632).

@@ -1,0 +1,49 @@
+---
+title: Marine and Coastal Access Act 2009, section 270
+act: Marine and Coastal Access Act 2009
+section: '270'
+status: revised-with-pending-changes
+text_date: '2026-10-20'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2009/23/section/270
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Marine and Coastal Access Act 2009, section 270
+
+> **Warning: changes not yet applied to this text (14).** Text as at 2026-10-20. See https://www.legislation.gov.uk/changes/affected/ukpga/2009/23
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 270. Procedure in relation to seizure under section 268 or 269[^key-2d08837d9393ff65299b03fa0cfbc4b3]
+
+*Extent: E+W+S+N.I.*
+
+(1) An enforcement officer who seizes any property under section 268 or 269 must, if it is reasonably practicable to do so, serve a notice on each of the following persons—
+
+- (a) every person who appears to the officer to have been the owner, or one of the owners, of the property at the time of its seizure;
+- (b) in the case of property seized from a vessel, the master, owner and charterer (if any) of the vessel at that time;
+- (c) in the case of property seized from premises, every person who appears to the officer to have been an occupier of the premises at that time;
+- (d) in any other case, the person (if any) from whom the property was seized.
+
+(2) The notice must state—
+
+- (a) what has been seized;
+- (b) the reason for its seizure;
+- (c) the offence which the officer believes has been committed;
+- (d) any further action that it is proposed will be taken;
+- (e) that, unless the property is liable to forfeiture under section 275 or 276, it is to be detained until such time as it is released or its forfeiture is ordered by the court.
+
+(3) Subsections (4) and (5) apply in a case where the property was seized following an inspection carried out in exercise of the power conferred by section 264.
+
+(4) The officer must serve a copy of the report referred to in section 265 on every person falling within paragraph (a) of subsection (1) above at the same time as the officer serves a notice on that person under this section.
+
+(5) In a case where the officer, after taking reasonable steps to do so, is unable to identify any person as owning the property—
+
+- (a) any reference in this section to a requirement to serve a notice on that person is to be read as a reference to a requirement to take such steps as the officer thinks fit to bring the contents of the notice to the attention of persons likely to be interested in it, and
+- (b) the reference in subsection (4) to serving a copy of the report referred to in section 265 is to be read as a reference to taking the steps referred to in subsection (10)(a) of that section.
+
+## Annotations
+
+[^key-2d08837d9393ff65299b03fa0cfbc4b3]: Commencement: [S. 270](https://www.legislation.gov.uk/ukpga/2009/23/section/270) in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 22](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/22)

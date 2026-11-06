@@ -1,0 +1,53 @@
+---
+title: Social Security Administration (Northern Ireland) Act 1992, section 96
+act: Social Security Administration (Northern Ireland) Act 1992
+section: '96'
+status: repealed
+text_date: '2026-07-09'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/ukpga/1992/8/section/96
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Social Security Administration (Northern Ireland) Act 1992, section 96
+
+> This provision is no longer in force.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 96. Recovery of relevant payment in cases of default.
+
+*Extent: N.I.*
+
+**No longer in force (ended 1997-10-06).**
+
+(1) This section applies in any case where the compensator has made a compensation payment but—
+
+- (a) has not requested a certificate of total benefit in respect of the victim, or
+- (b) if he has done so, has not made the relevant payment within the time limit imposed by section 79 above.
+
+(2) Where this section applies, the Department may—
+
+- (a) if no certificate of total benefit has been issued to the compensator, issue to him such a certificate and a demand for the relevant payment to be made forthwith, or
+- (b) if a certificate of total benefit has been issued to the compensator, issue to him a copy of that certificate and such a demand,
+
+and the amount so certified shall, to the extent that it does not exceed the amount of the compensation payment, be recoverable by the Department from the compensator.
+
+(3) Any amount recoverable under this section shall, if the county court so orders, be enforceable as if it were payable under an order of that court.
+
+(4) A document bearing a certificate which—
+
+- (a) is signed by a person authorised in that behalf by the Department, and
+- (b) states that the document, apart from the certificate, is a record of the amount recoverable under this section,
+
+shall be conclusive evidence that that amount is so recoverable; and a certificate purporting to be signed as aforesaid shall be deemed to be so signed unless the contrary is proved.
+
+(5) Where this section applies in relation to two or more connected compensators, the Department may proceed against them as if they were jointly and severally liable for an amount equal to the difference between—
+
+- (a) the total benefit determined in accordance with the latest connected certificate of total benefit issued to any of them, and
+- (b) the aggregate amount of any connected relevant payments previously made.
+
+(6) Nothing in subsection (5) above authorises the recovery from any person of an amount in excess of the compensation payment by virtue of which this section applies to him (or, if there are two or more such payments which are connected, the aggregate amount of those payments).
+
+(7) In subsections (5) and (6) above, “**connected**” means relating to the same victim and the same accident, injury or disease.

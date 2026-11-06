@@ -1,0 +1,290 @@
+---
+title: The National Care Standards Commission (Fees and Frequency of Inspections) Regulations 2003
+id: uksi/2003/753
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2003-03-15'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2003/753
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2003/753/pdfs/uksi_20030753_en.pdf
+- http://www.legislation.gov.uk/uksi/2003/753/made/data.pdf
+pending_changes: 1
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The National Care Standards Commission (Fees and Frequency of Inspections) Regulations 2003
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2003 No. 753
+
+SOCIAL CARE, ENGLAND
+
+CHILDREN AND YOUNG PERSONS, ENGLAND
+
+PUBLIC HEALTH, ENGLAND
+
+The National Care Standards Commission (Fees and Frequency of Inspections) Regulations 2003
+
+Made
+
+15th March 2003
+
+Laid before Parliament
+
+17th March 2003
+
+Coming into force
+
+1st April 2003
+
+The Secretary of State, in exercise of the powers conferred upon him by sections 12(2), 15(3), 16(3), 31(7), 45(4), 51(1) and 118(5) to (7) of the Care Standards Act 2000[^f00001] and section 87D(2) of the Children Act 1989[^f00002] and of all other powers enabling him in that behalf, hereby makes the following Regulations:—
+
+## PART I — GENERAL
+
+### 1. Citation, commencement and application
+
+(1) These Regulations may be cited as the National Care Standards Commission (Fees and Frequency of Inspections) Regulations 2003 and shall come into force on 1st April 2003.
+
+(2) These Regulations apply to England only.
+
+### 2. Interpretation
+
+(1) In these Regulations—
+
+- “the Act” means the Care Standards Act 2000;
+- “the 1957 Act” means the Nurses Agencies Act 1957[^f00003];
+- “the 1984 Act” means the Registered Homes Act 1984[^f00004];
+- “the 1989 Act” means the Children Act 1989[^f00005];
+- “acute hospital” means a hospital of the type referred to in section 2(3)(a)(i) of the Act (not being a hospice) which has approved places;
+- “adult placement home” means a care home in respect of which the registered provider is an adult placement carer within the meaning of regulation 45 of the Care Homes Regulations 2001[^f00006];
+- “approved place” means—
+  - (a) in relation to an establishment, boarding school, residential college or residential special school, a bed provided for the use of a service user at night; or
+  - (b) in relation to a residential family centre, overnight accommodation which is appropriate to a single family;
+- “boarding school” means a school (not being a residential special school or a school which is a children’s home or a care home) providing accommodation for any child, and “school” has the meaning given to it in section 105(1) of the 1989 Act;
+- “certificate” means a certificate of registration;
+- “existing provider” means—
+  - (a) a person who immediately before 1st April 2002—
+    - (i) was registered under Part I of the 1984 Act in respect of a residential care home;
+    - (ii) was registered under Part II of the 1984 Act in respect of a nursing home or mental nursing home;
+    - (iii) carried on a home that was registered in a register kept for the purposes of section 60 of the 1989 Act; or
+    - (iv) carried on a home that was registered under Part VIII of the 1989 Act; or
+  - (b) a nurses agency provider;
+- “hospice” means an establishment the whole or main purpose of which is to provide palliative care;
+- “listed services” has the same meaning as in section 2(7) of the Act, as modified by regulation 3(4) of the Private and Voluntary Health Care (England) Regulations 2001[^f00007], but in these Regulations excludes treatment using prescribed techniques or prescribed technology;
+- “local authority fostering service” means the discharge by a local authority of relevant fostering functions within the meaning of section 43(3)(b) of the Act;
+- “mental health hospital” means a hospital of the type referred to in section 2(3)(b) of the Act;
+- “new provider” means a person who—
+  - (a) carries on a residential family centre, nurses agency or domiciliary care agency, and first carried on that establishment or agency after 1st April 2003; or
+  - (b) carries on any other description of establishment or agency, and first carried on that establishment or agency after 1st April 2002;
+- “nurses agency provider” means a person who—
+  - (a) carries on an agency for the supply of nurses within the meaning of the 1957 Act; and
+  - (b) is the holder of a licence which has been granted to him by a local authority under section 2 of that Act and which authorises him to carry on that agency from premises specified in the licence;
+- “prescribed techniques or prescribed technology” means the techniques or technology set out in regulation 3(1)(a) to (f) of the Private and Voluntary Health Care (England) Regulations 2001;
+- “previously exempt provider” means a provider—
+  - (a) who immediately before 1st April 2002 carried on an establishment other than—
+    - (i) a residential care home, nursing home or mental nursing home in respect of which a person was required to be registered under Part I or II of the 1984 Act;
+    - (ii) a home that was required to be registered in a register kept for the purposes of section 60 of the 1989 Act or under Part VIII of that Act; or
+  - (b) who carries on an agency other than an agency for the supply of nurses within the meaning of the 1957 Act which the person is authorised to carry on from those premises under a licence granted to him under section 2 of that Act;
+- “registered manager” in relation to an establishment or agency means a person who is registered under Part II of the Act as the manager of the establishment or agency;
+- “registered person” means any person who is the registered proprietor or registered manager in respect of an establishment or agency;
+- “registered provider” in relation to an establishment or agency means a person who is registered under Part II of the Act as the person carrying on the establishment or agency;
+- “residential college” means a college as defined in section 87(10) of the 1989 Act which provides accommodation for any child[^f00008];
+- “residential special school” means—
+  - (a) a special school in accordance with sections 337 and 347(1) of the Education Act 1996[^f00009]; or
+  - (b) an independent school not falling within (a) which has as its sole or main purpose the provision of places, with the consent of the Secretary of State, for pupils with special educational needs or who are in public care,
+
+  and which provides accommodation for any child;
+- “service user” means—
+  - (a) any person who is to be provided with accommodation or services in an establishment, or by an agency, but excludes registered persons or persons employed or intended to be employed in an establishment or by an agency, and their relatives; or
+  - (b) a child accommodated in a boarding school, residential college or residential special school;
+- “small agency” means a domiciliary care agency or nurses agency where no more than two members of staff, including registered persons but excluding someone employed solely as a receptionist, are employed at any one time;
+- “small establishment” means an establishment, other than an adult placement home, which has less than four approved places.
+
+(2) In these Regulations “agency” does not include a voluntary adoption agency[^f00010].
+
+## PART II — FEES
+
+### 3. Registration fees
+
+(1) For the purposes of section 12(2) of the Act, and, subject to paragraph (2), the fee to accompany—
+
+- (a) an application by a person seeking to be registered under Part II of the Act as a person who carries on an establishment or agency, other than an establishment or agency referred to in sub-paragraph (b), shall be £1,320; and
+- (b) an application by a person seeking to be registered under Part II of the Act as a person who carries on a residential family centre, nurses agency or domiciliary care agency, shall be £1,100.
+
+(2) Where the establishment is a small establishment or an adult placement home or an agency is a small agency the fee shall be—
+
+- (a) in the case of an application referred to in paragraph (1)(a), £360; and
+- (b) in the case of an application referred to in paragraph (1)(b), £300.
+
+(3) For the purposes of section 12(2) of the Act, the fee to accompany an application by a person seeking to be registered under Part II of the Act as a person who manages an establishment or agency other than a small establishment or an adult placement home or a small agency—
+
+- (a) in respect of an establishment or agency other than an establishment or agency referred to in sub-paragraph (b), shall be £360;
+- (b) in respect of a residential family centre, nurses agency or domiciliary care agency, shall be £300.
+
+### 4. Variation fees
+
+(1) For the purposes of section 15(3) of the Act, the fee to accompany an application by the registered provider under section 15(1)(a) of the Act (“the variation fee”) shall, subject to paragraphs (2) and (3), be—
+
+- (a) in respect of an establishment or agency other than an establishment or agency referred to in sub-paragraph (b), £660;
+- (b) in respect of a residential family centre, nurses agency or domiciliary care agency, £550.
+
+(2) Where the establishment is a small establishment or an adult placement home or an agency is a small agency the fee shall be—
+
+- (a) in the case of an application referred to in paragraph (1)(a), £360;
+- (b) in the case of an application referred to in paragraph (1)(b), £300.
+
+(3) In a case where the variation of a condition is a minor variation, the variation fee shall be—
+
+- (a) in the case of an application referred to in paragraph (1)(a), £60; and
+- (b) in the case of an application referred to in paragraph (1)(b), £50.
+
+(4) For the purposes of paragraph (3) a “minor variation” is a variation which, in the opinion of the Commission, if the application for the variation of the condition were granted, would involve no material alteration in the register kept by the Commission in accordance with regulations made under section 11(4) of the Act.
+
+### 5. Annual fees
+
+(1) Subject to paragraphs (2) to (6), the registered provider, in respect of an establishment or agency, a relevant person[^f00011] in respect of a boarding school, residential college or residential special school or a local authority in respect of a local authority fostering service, specified in column (1) of the Table below shall pay an annual fee and—
+
+- (a) the amount of the annual fee shall be—
+  - (i) in a case where no amount is specified in column (3) or (4), the amount specified in column (2);
+  - (ii) in any other case, the sum of the amount specified in column (2) and the amounts specified in column (3), and (if applicable) column (4), multiplied by the number of approved places specified in respect of that column; and
+- (b) shall be payable for the year beginning 1st April 2003 and subsequent years in accordance with column (5).
+
+  <table>
+  <thead>
+  <tr><th>Column (1)</th><th>Column (2)</th><th>Column (3)</th><th>Column (4)</th><th>Column (5)</th></tr>
+  <tr><th>Establishment, agency, school or college, local authority fostering service</th><th>Flat rate payable in all cases</th><th>Rate payable for each approved place from the 4th to the 29th place inclusive</th><th>Rate payable for the 30th and each subsequent approved place</th><th>Annual fee due on</th></tr>
+  </thead>
+  <tbody>
+  <tr><td>(a) Care home</td><td>£180</td><td>£60</td><td>£60</td><td>(a) in the case of an existing provider, the anniversary of the date on which the annual fee was payable under the 1984 Act or the 1989 Act;<br>(b) in the case of a previously exempt provider, on 1st April 2003 and thereafter on the anniversary of that date; and<br>(c) in the case of a new provider—<br>(i) if the certificate was issued before 1st April 2003 each year on the anniversary of the date of issue;<br>(ii) otherwise, on the date on which the certificate is issued, and thereafter on the anniversary of that date.</td></tr>
+  <tr><td>(b) Children’s home</td><td>£600</td><td>£60</td><td>£60</td><td>(a) in the case of an existing provider, on the anniversary of the date on which the annual fee was payable under the 1984 Act or the 1989 Act;<br>(b) in the case of an existing provider, where an annual fee was not previously payable under the 1989 Act, on 1st April in each year;<br>(c) in the case of a previously exempt provider, on 1st April 2003 and thereafter on the anniversary of that date; and<br>(d) in the case of a new provider—<br>(i) if the certificate was issued before 1st April 2003 each year on the anniversary of the date of issue;<br>(ii) otherwise, on the date on which the certificate is issued, and thereafter on the anniversary of that date.</td></tr>
+  <tr><td>(c) Fostering agency</td><td>£1,200</td><td></td><td></td><td>on 1st April 2003, or on the date on which the certificate is issued, whichever is the later, and thereafter on the anniversary of that date.</td></tr>
+  <tr><td>(d) Hospice</td><td>£180</td><td>£60</td><td>£60</td><td>(a) in the case of an existing provider, on the anniversary of the date on which the annual fee was payable under the 1984 Act;<br>(b) in the case of a previously exempt provider, on 1st April 2003 and thereafter on the anniversary of that date; and<br>(c) in the case of a new provider—<br>(i) if the certificate was issued before 1st April 2003 each year on the anniversary of the date of issue;<br>(ii) otherwise, on the date on which the certificate is issued, and thereafter on the anniversary of that date.</td></tr>
+  <tr><td>(e) Acute hospital or mental health hospital</td><td>£3,000</td><td>£120</td><td>£60</td><td>(a) in the case of an existing provider, on the anniversary of the date on which the annual fee was payable under the 1984 Act;<br>(b) in the case of a previously exempt provider, on 1st April 2003 and thereafter on the anniversary of that date; and<br>(c) in the case of a new provider—<br>(i) if the certificate was issued before 1st April 2003 each year on the anniversary of the date of issue;<br>(ii) otherwise, on the date on which the certificate is issued, and thereafter on the anniversary of that date.</td></tr>
+  <tr><td>(f) Hospital using prescribed techniques or prescribed technology</td><td>£900</td><td>£120</td><td>£60</td><td>(a) in the case of an existing provider, on the anniversary of the date on which the annual fee was payable under the 1984 Act;<br>(b) in the case of a previously exempt provider, on 1st April 2003 and thereafter on the anniversary of that date; and<br>(c) in the case of a new provider—<br>(i) if the certificate was issued before 1st April 2003 each year on the anniversary of the date of issue;<br>(ii) otherwise, on the date on which the certificate is issued, and thereafter on the anniversary of that date.</td></tr>
+  <tr><td>(g) Hospital providing listed services</td><td>£1,200</td><td>£120</td><td>£60</td><td>(a) in the case of an existing provider, on the anniversary of the date on which the annual fee was payable under the 1984 Act;<br>(b) in the case of a previously exempt provider, on 1st April 2003 and thereafter on the anniversary of that date; and<br>(c) in the case of a new provider—<br>(i) if the certificate was issued before 1st April 2003 each year on the anniversary of the date of issue;<br>(ii) otherwise, on the date on which the certificate is issued, and thereafter on the anniversary of that date.</td></tr>
+  <tr><td>(h) Independent clinic or independent medical agency</td><td>£1,200</td><td></td><td></td><td>(a) in the case of a previously exempt provider, on 1st April 2003 and thereafter on the anniversary of that date; and<br>(b) in the case of a new provider—<br>(i) if the certificate was issued before 1st April 2003 each year on the anniversary of the date of issue;<br>(ii) otherwise, on the date on which the certificate is issued, and thereafter on the anniversary of that date.</td></tr>
+  <tr><td>(i) Residential family centre</td><td>£400</td><td>£50</td><td>£50</td><td>(a) in the case of an existing provider, on the anniversary of the date on which the annual fee was payable under the 1984 Act or the1989 Act;<br>(b) in the case of a previously exempt provider, on 1st April 2003 and thereafter on the anniversary of that date; and<br>(c) in the case of a new provider, on the date on which the certificate is issued, and thereafter on the anniversary of that date.</td></tr>
+  <tr><td>(j) Domiciliary care agency</td><td>£750</td><td></td><td></td><td>on 1st April 2003, or on the date on which the certificate is issued, whichever is the later, and thereafter on the anniversary of that date.</td></tr>
+  <tr><td>(k) Nurses agency</td><td>£500</td><td></td><td></td><td>(a) in the case of an existing provider—<br>(i) where the licence under the 1957 Act was granted to the provider by the local authority between 1st January 2002 and 31st March 2002, on the date on or after 1st April 2003 on which the certificate is issued, and thereafter on the anniversary of that date;<br>(ii) where the licence under the 1957 Act was granted to the provider by the local authority on or after 1st April 2002 but before 1st January 2003, on the anniversary first occurring on or after 1st April 2003 of the date on which the licence was granted, and thereafter on the anniversary of that date; or<br>(iii) where a local authority determines an application for a licence under the 1957 Act on or after 1st January 2003 but before 1st April 2003, on the anniversary first occurring of the date on which the licence was granted, and thereafter on the anniversary of that date; and<br>(b) in the case of a new provider, on the date on which the certificate is issued, and thereafter on the anniversary of that date.</td></tr>
+  <tr><td>(l) Boarding school and residential college</td><td>£300</td><td>£18</td><td>£9</td><td>(a) in the case of a school or college which was providing accommodation for any child on 1st January 2002, on 1st September in each year;<br>(b) in the case of a school or college established after 1st January 2002 and before 1st April 2003, on the anniversary of the date on which it was established;<br>(c) otherwise, on the date of the establishment of the school or college, and thereafter on the anniversary of that date.</td></tr>
+  <tr><td>(m) Residential special school</td><td>£480</td><td>£48</td><td>£24</td><td>(a) in the case of a school which was providing accommodation for any child on 1st January 2002, on 1st September 2002;<br>(b) in the case of a school established after 1st January 2002 and before 1st April 2003, on the anniversary of the date on which it was established;<br>(c) otherwise, on the date of the establishment of the school, and thereafter on the anniversary of that date.</td></tr>
+  <tr><td>(n) Local authority fostering service</td><td>£1,200</td><td></td><td></td><td>in the case of a local authority which was discharging relevant fostering functions on 1st January 2002, on 1st April in each year, and in all other cases, on the first occasion on which such functions are first discharged, and thereafter on the anniversary of that date.</td></tr>
+  </tbody>
+  </table>
+
+  [^f00012]
+
+(2) In the case of a care home which is an adult placement home, or a care home which is a small establishment, the annual fee shall be £120.
+
+(3) In the case of an establishment which is a small establishment, other than a care home which is a small establishment, the annual fee shall be the flat rate specified in column (2).
+
+(4) In the case of an agency which is a small agency, the annual fee payable shall be 50 per cent. of the flat rate specified in column (2).
+
+(5) Where an independent hospital falls into more than one of the categories listed in paragraph (d), (e), (f) or (g) of column (1) of the Table above, the category that applies to it for the purposes of this regulation shall be the category with the highest flat rate fee payable as set out in column (2) in relation to paragraph (d), (e), (f) or (g).
+
+(6) In the case of an existing provider whose licence (“the licence”) continued to be treated as valid after 31st December 2002 by virtue of—
+
+- (a) article 4(1)(a) of the relevant order, the annual fee for 2003 shall be £500, or in the case of a nurses agency which is a small agency £250, payable on the anniversary first occurring on or after 1st April 2003 of the date on which the fee payable in relation to the making of an application for a licence under the 1957 Act was last paid;
+- (b) article 4(1)(b) of the relevant order, the annual fee for 2003 shall be £622, or in the case of a nurses agency which is a small agency £372, payable—
+  - (i) in a case where the licence was granted to the provider by the local authority between 1st January 2001 and 31st March 2001, on the date on or after 1st April 2003 on which the certificate is issued; and
+  - (ii) in a case where the licence was granted to the provider by the local authority between 1st April 2001 and 31st December 2001, in the following instalments—
+    - (aa) £122, on the date on or after 1st April 2003 on which the certificate is issued; and
+    - (bb) £500, or in the case of a nurses agency which is a small agency £250, on the anniversary first occurring on or after 1st April 2003 of the date on which the fee payable in relation to the making of an application for a licence under the 1957 Act was last paid,
+
+    and thereafter the annual fee shall be payable in each case on the anniversary of the dates referred to in sub-paragraph (a), (b)(i) or (ii)(bb).
+
+(7) In paragraph (6) “relevant order” means the Care Standards Act 2000 (Commencement and Transitional Provisions) (Amendment No. 2) (England) Order 2002[^f00013].
+
+## PART III — FREQUENCY OF INSPECTIONS
+
+### 6. Frequency of inspections
+
+(1) Subject to paragraphs (2) to (5), the Commission shall arrange for premises which are used as an establishment, or for the purposes of an agency, to be inspected—
+
+- (a) in the case of a care home or children’s home, a minimum of twice in every 12 month period; and
+- (b) in any other case, a minimum of once in every 12 month period.
+
+(2) Subject to paragraph (4), the Commission shall arrange for premises which are used for the purposes of a local authority fostering service to be inspected once in every 12 month period.
+
+(3) In the case of an establishment or agency, carried on by a person other than an existing provider, which is a care home or a children’s home and in respect of which a person is registered for the first time—
+
+- (a) between 1st April and 30th September in a 12 month period, only one inspection is to be carried out in that period;
+- (b) between 1st October and 31st March in a 12 month period, no inspection shall be required in that period.
+
+(4) In the case of an establishment or agency, carried on by a person other than an existing provider or a home mentioned in paragraph (3), in respect of which a person is registered for the first time in a 12 month period, no inspection shall be required in that period.
+
+(5) Any inspection referred to in paragraphs (1) or (2) may be unannounced.
+
+(6) In this regulation “12 month period” means a period commencing on 1st April in any year and ending on 31st March in the following year.
+
+### 7. Revocation
+
+The National Care Standards Commission (Fees and Frequency of Inspections) Regulations 2001[^f00014] are hereby revoked.
+
+Signed by the authority of the Secretary of State for Health
+
+Jacqui Smith
+
+Minister of State,
+
+Department of Health
+
+15th March 2003
+
+(This note is not part of the Regulations)
+
+These Regulations consolidate with amendments the National Care Standards Commission (Fees and Frequency of Inspections) Regulations 2001 as amended (“the 2001 Regulations”) which prescribe the fees that are to be paid by establishments and agencies, other than voluntary adoption agencies, under Part II of the Care Standards Act 2000 (“the Act”)—
+
+- (a) on an application for registration in respect of an establishment or agency (regulation 3); and
+- (b) on an application for the variation or removal of any condition for the time being in force in relation to the registration (regulation 4).
+
+In addition, regulation 5 prescribes the annual fee that is to be paid in respect of certain establishments and agencies under section 16(3) of the Act, the annual fee that is to be paid by a local authority fostering service under section 51(1) of the Act and the annual fee that is to be paid by boarding schools, residential special schools and residential colleges under section 87D of the Children Act 1989.
+
+Regulation 6 prescribes the frequency of inspections of premises used for the purposes of certain establishments and agencies and of premises used for the purposes of a local authority fostering service.
+
+The amendments made to the 2001 Regulations—
+
+- (a) provide for an increase in the fees to be paid by establishments and agencies other than nurses agencies, domiciliary care agencies and residential family centres, with effect from 1st April 2003; and
+- (b) in relation to nurses agencies—
+  - (i) provide for when the annual fee will be payable where a local authority determines an application for a licence under the Nurses Agencies Act 1957 between 1st January 2003 and 31st March 2003; and
+  - (ii) provide for a smaller fee to be paid in respect of a nurses agency which is a small agency and falls within article 4(1) of the Care Standards Act 2000 (Commencement and Transitional Provisions) (Amendment No. 2) (England) Order 2002 ([S.I. 2002/3210](https://www.legislation.gov.uk/uksi/2002/3210)).
+
+The 2001 Regulations are revoked by regulation 7.
+
+A Regulatory Impact Assessment has been prepared for these Regulations and a copy has been placed in the library of each House of Parliament. Copies of the Regulatory Impact Assessment can be obtained from the Department of Health’s website www.doh.gov.uk/regulatoryimpact/index.htm. In addition, a copy can be obtained from Room 628, Wellington House, 133–155 Waterloo Road, London, SE1 8UG.
+
+## Annotations
+
+[^f00001]: Footnote: [2000 c. 14](https://www.legislation.gov.uk/ukpga/2000/14). The powers are exercisable by the appropriate Minister, who is defined in section 121(1), in relation to England, Scotland or Northern Ireland, as the Secretary of State. *See*: section 121(1) for the definitions of “prescribed” and “regulations”.
+
+[^f00002]: Footnote: Section 87D was inserted into the Children Act [1989 (c. 41)](https://www.legislation.gov.uk/ukpga/1989/41) by section 108(2) of the Care Standards Act [2000 (c. 14)](https://www.legislation.gov.uk/ukpga/2000/14).
+
+[^f00003]: Footnote: 5 & 6 Eliz. 2 c.16.
+
+[^f00004]: Footnote: [1984 c. 23](https://www.legislation.gov.uk/ukpga/1984/23).
+
+[^f00005]: Footnote: [1989 c. 41](https://www.legislation.gov.uk/ukpga/1989/41).
+
+[^f00006]: Footnote: [S.I. 2001/3965](https://www.legislation.gov.uk/uksi/2001/3965).
+
+[^f00007]: Footnote: [S.I. 2001/3968](https://www.legislation.gov.uk/uksi/2001/3968).
+
+[^f00008]: Footnote: Section 87(10) of the 1989 Act was amended by section 105 of the Care Standards Act 2000.
+
+[^f00009]: Footnote: [1996 c. 56](https://www.legislation.gov.uk/ukpga/1996/56). Section 337 was substituted by the School Standards and Framework Act 1998, section 140(1) and Schedule 30, paragraph 80.
+
+[^f00010]: Footnote: For fees and frequency of inspections in respect of voluntary adoption agencies, *see* the National Care Standards Commission (Fees and Frequency of Inspections) (Adoption Agencies) Regulations 2003 ([S.I. 2003/368](https://www.legislation.gov.uk/uksi/2003/368)).
+
+[^f00011]: Footnote: Relevant person is defined in section 87(11) of the 1989 Act, as inserted by section 105 of the Care Standards Act 2000.
+
+[^f00012]: Footnote: An annual fee is payable in respect of a children’s home registered under Part VIII of the 1989 Act. However, an annual fee was not payable in respect of a voluntary home i.e. a home which was registered in a register kept for the purposes of section 60 of the 1989 Act.
+
+[^f00013]: Footnote: [S.I. 2002/3210](https://www.legislation.gov.uk/uksi/2002/3210).
+
+[^f00014]: Footnote: [2001/3980](https://www.legislation.gov.uk/uksi/2001/3980). Amending instruments are [2002/1505](https://www.legislation.gov.uk/uksi/2002/1505), [2002/2070](https://www.legislation.gov.uk/uksi/2002/2070) and [2002/3211](https://www.legislation.gov.uk/uksi/2002/3211).

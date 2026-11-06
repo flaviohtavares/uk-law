@@ -1,0 +1,199 @@
+---
+title: The City of Cambridge (Electoral Changes) Order 2002
+id: uksi/2002/2369
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2002-09-11'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2002/2369
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2002/2369/pdfs/uksi_20022369_en.pdf
+- http://www.legislation.gov.uk/uksi/2002/2369/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The City of Cambridge (Electoral Changes) Order 2002
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2002 No. 2369
+
+LOCAL GOVERNMENT, ENGLAND
+
+The City of Cambridge (Electoral Changes) Order 2002
+
+Made
+
+11th September 2002
+
+Coming into force in accordance with article 1(2)
+
+Whereas the Boundary Committee for England[^f00001], acting pursuant to section 15(4) of the Local Government Act 1992[^f00002], has submitted to the Electoral Commission[^f00003] a report dated April 2002 on its review of the City[^f00004] of Cambridge together with its recommendations:
+
+And whereas a period of not less than six weeks has expired since the receipt of those recommendations:
+
+And whereas the Electoral Commission have decided to give effect to those recommendations:
+
+Now, therefore, the Electoral Commission, in exercise of the powers conferred on them by sections 17[^f00005] and 26[^f00006] of the Local Government Act 1992, and of all other powers enabling them in that behalf, hereby make the following Order:
+
+## 1. Citation and commencement
+
+(1) This Order may be cited as the City of Cambridge (Electoral Changes) Order 2002.
+
+(2) This Order shall come into force—
+
+- (a) for the purpose of proceedings preliminary or relating to any election to be held on 6th May 2004, on 15th October 2003;
+- (b) for all other purposes, on 6th May 2004.
+
+## 2. Interpretation
+
+In this Order—
+
+- “city” means the City of Cambridge;
+- “existing”, in relation to a ward, means the ward as it exists on the date this Order is made; and
+
+any reference to the map is a reference to the map marked “Map referred to in the City of Cambridge (Electoral Changes) Order 2002” of which prints are available for inspection at—
+
+- (a) the principal office of the Electoral Commission; and
+- (b) the offices of Cambridge City Council.
+
+## 3. Wards of the City of Cambridge
+
+(1) The existing wards of the city[^f00007] shall be abolished.
+
+(2) The city shall be divided into fourteen wards which shall bear the names set out in the Schedule.
+
+(3) The wards shall comprise the area designated on the map by reference to the name of the ward and demarcated by red lines; and the number of councillors to be elected for each ward shall be three.
+
+(4) Where a boundary is shown on the map as running along a road, railway line, footway, watercourse or similar geographical feature, it shall be treated as running along the centre line of the feature.
+
+## 4. Elections of the council of the City of Cambridge
+
+(1) Elections of all councillors for all wards of the city shall be held simultaneously on the ordinary day of election of councillors in 2004[^f00008][^f00009].
+
+(2) The councillors holding office for any ward of the city immediately before 10th May 2004 shall retire on that date and the newly elected councillors for those wards shall come into office on that date.
+
+(3) Of the councillors elected in 2004 for any ward of the city, one shall retire in 2006, one in 2007 and one in 2008.
+
+(4) Of the councillors elected in 2004 for any ward of the city—
+
+- (a) the first to retire shall, subject to paragraphs (6) and (7), be the councillor elected by the smallest number of votes; and
+- (b) the second to retire shall, subject to those paragraphs, be the councillor elected by the next smallest number of votes.
+
+(5) In the case of an equality of votes between any persons elected which makes it uncertain which of them is to retire in any year, the person to retire in that year shall be determined by lot.
+
+(6) If an election of councillors for any ward is not contested, the person to retire in each year shall be determined by lot.
+
+(7) Where under this article any question is to be determined by lot, the lot shall be drawn at the next practicable meeting of the council after the question has arisen and the drawing shall be conducted under the direction of the person presiding at the meeting.
+
+## 5. Maps
+
+Cambridge City Council shall make a print of the map marked “Map referred to in the City of Cambridge (Electoral Changes) Order 2002” available for inspection at its offices by any member of the public at any reasonable time.
+
+## 6. Electoral Registers
+
+The Electoral Registration Officer for the city shall make such rearrangement of, or adaptation of, the register of local government electors as may be necessary for the purposes of, and in consequence of, this Order.
+
+## 7. Revocation
+
+The City of Cambridge (Electoral Arrangements) Order 1975[^f00010] is revoked, save for articles 8 and 9.
+
+Signed by the members of the Electoral Commission
+
+Pamela Gordon
+
+Commissioner
+
+11th September 2002
+
+Glyn Mathias
+
+Commissioner
+
+11th September 2002
+
+Neil McIntosh
+
+Commissioner
+
+11th September 2002
+
+Karamjit Singh
+
+Commissioner
+
+11th September 2002
+
+Sam Younger
+
+Commissioner
+
+11th September 2002
+
+Graham Zellick
+
+Commissioner
+
+11th September 2002
+
+## SCHEDULE — NAMES OF WARDS
+
+Article 3
+
+| Name of Ward |
+| --- |
+| Abbey |
+| Arbury |
+| Castle |
+| Cherry Hinton |
+| Coleridge |
+| East Chesterton |
+| King’s Hedges |
+| Market |
+| Newnham |
+| Petersfield |
+| Queen Edith's |
+| Romsey |
+| Trumpington |
+| West Chesterton |
+
+(This note is not part of the Order)
+
+This Order gives effect to recommendations by the Boundary Committee for England, a committee of the Electoral Commission, for electoral changes in the City of Cambridge. The changes have effect in relation to local government elections to be held on and after 6th May 2004.
+
+Article 3 abolishes the existing wards of the city and provides for the creation of 14 new wards. That article and the Schedule also make provision for the names and areas of, and numbers of councillors for, the new wards.
+
+Article 4 makes provision for a whole council election in 2004 and for reversion to the existing system of elections by thirds in subsequent years.
+
+Article 6 obliges the Electoral Registration Officer to make any necessary amendments to the electoral register to reflect the new electoral arrangements.
+
+Article 7 revokes the City of Cambridge (Electoral Arrangements) Order 1975 (S.I. [1975/2143](https://www.legislation.gov.uk/uksi/1975/2143)), with the exception of articles 8 and 9.
+
+The areas of the new city wards are demarcated on the map described in article 2. Prints of the map may be inspected at all reasonable times at the offices of Cambridge City Council and at the principal office of the Electoral Commission at Trevelyan House, Great Peter Street, London SW1P 2HW.
+
+## Annotations
+
+[^f00001]: Footnote: The Boundary Committee for England is a committee of the Electoral Commission, established by the Electoral Commission in accordance with section 14 of the Political Parties, Elections and Referendums Act [2000 (c. 41)](https://www.legislation.gov.uk/ukpga/2000/41). The Local Government Commission for England (Transfer of Functions Order 2001 (S.I. [2001/3962](https://www.legislation.gov.uk/uksi/2001/3962)) transferred to the Electoral Commission the functions of the Local Government Commission for England.
+
+[^f00002]: Footnote: [1992 c. 19](https://www.legislation.gov.uk/ukpga/1992/19). This section has been amended by S.I. [2001/3962](https://www.legislation.gov.uk/uksi/2001/3962).
+
+[^f00003]: Footnote: The Electoral Commission was established by the Political Parties, Elections and Referendums Act [2000 (c. 41)](https://www.legislation.gov.uk/ukpga/2000/41). The functions of the Secretary of State, under sections 13 to 15 and 17 of the Local Government Act 1992, to the extent that they relate to electoral arrangements within the meaning of that Act, were transferred with modifications to the Electoral Commission on 1 April 2002 (S.I. [2001/3962](https://www.legislation.gov.uk/uksi/2001/3962)).
+
+[^f00004]: Footnote: The non-metropolitan district of the City of Cambridge has the status of a city.
+
+[^f00005]: Footnote: This section has been amended by S.I. [2001/3962](https://www.legislation.gov.uk/uksi/2001/3962). There are amendments to this section made otherwise than by S.I. [2001/3962](https://www.legislation.gov.uk/uksi/2001/3962) that are not relevant to this Order.
+
+[^f00006]: Footnote: This section has been amended by S.I. [2001/3962](https://www.legislation.gov.uk/uksi/2001/3962).
+
+[^f00007]: Footnote: *See* the City of Cambridge (Electoral Arrangements) Order 1975 (S.I. [1975/2143](https://www.legislation.gov.uk/uksi/1975/2143)).
+
+[^f00008]: Footnote: Article 4 provides for a single election of all the councillors and for reversion to the system of elections by thirds, as established by articles 8 and 9 of the City of Cambridge (Electoral Arrangements) Order 1975 (S.I. [1975/2143](https://www.legislation.gov.uk/uksi/1975/2143)).
+
+[^f00009]: Footnote: For the ordinary day of election of councillors of local government areas, *see* section 37 of the Representation of the People Act [1983 (c. 2)](https://www.legislation.gov.uk/ukpga/1983/2)., amended by section 18(2) of the [Representation of the People Act (c. 50)](https://www.legislation.gov.uk/ukpga/1985/50) and section 17 of, and paragraphs 1 and 5 of Schedule 3 to, the Greater London Authority Act [1999 (c. 29)](https://www.legislation.gov.uk/ukpga/1999/29).
+
+[^f00010]: Footnote: S.I. [1975/2143](https://www.legislation.gov.uk/uksi/1975/2143).

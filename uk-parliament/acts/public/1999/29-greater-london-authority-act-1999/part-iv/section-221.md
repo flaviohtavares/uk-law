@@ -1,0 +1,55 @@
+---
+title: Greater London Authority Act 1999, section 221
+act: Greater London Authority Act 1999
+section: '221'
+status: revised-with-pending-changes
+text_date: '2026-08-05'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/ukpga/1999/29/section/221
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Greater London Authority Act 1999, section 221
+
+> **Warning: changes not yet applied to this text (55).** Text as at 2026-08-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1999/29
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 221. PPP administration orders made on special petitions.[^key-3995f35d81d05b4862c62190999c7c58]
+
+*Extent: E+W+S*
+
+(1) If, on an application made to the court by petition presented by the Mayor, the court is satisfied that either or both of the grounds specified in subsection (2) below is satisfied in relation to that PPP company, the court may make a PPP administration order in relation to that company.
+
+(2) The grounds mentioned in subsection (1) above are, in relation to any company,—
+
+- (a) that the company is or is likely to be unable to pay its debts;
+- (b) that, in a case in which the Secretary of State has certified that it would be appropriate for him to petition for the winding up of the company under section 124A of the 1986 Act (petition by the Secretary of State following inspectors’ report etc), it would be just and equitable, as mentioned in that section, for the company to be wound up.
+
+(3) Notice of any petition under this section for a PPP administration order shall be given forthwith to such persons and in such manner as may be prescribed by rules made under section 411 of the 1986 Act; and no such petition shall be withdrawn except with the leave of the court.
+
+(4) Subsections (4) and (5) of section 9 of the 1986 Act (powers on application for administration order) shall apply on the hearing of the petition for a PPP administration order in relation to any company as they apply on the hearing of a petition for an administration order.
+
+(5) Subsections (1), (2), (4) and (5) of section 10 of the 1986 Act (effect of petition) shall apply in the case of a petition for a PPP administration order in relation to any company as if—
+
+- (a) the reference in subsection (1) to an administration order were a reference to a PPP administration order; and
+- (b) paragraph (b) of that subsection did require the leave of the court for the taking of any of the steps mentioned in paragraphs (b) and (c) of subsection (2) (appointment of, and exercise of functions by, administrative receiver).
+
+(6) For the purposes of this section a company is unable to pay its debts if—
+
+- (a) it is a company which is deemed to be so unable under section 123 of the 1986 Act (definition of inability to pay debts); or
+- (b) it is an unregistered company, within the meaning of Part V of the 1986 Act, which is deemed, by virtue of any of sections 222 to 224 of that Act, to be so unable for the purposes of section 221 of that Act (winding up of unregistered companies).
+
+(7) The functions of the Mayor under this section may be exercised by Transport for London acting as his agent, and where Transport for London so acts references to the Mayor shall be construed accordingly.
+
+(8) In this section—
+
+- the 1986 Act means the [^c12803891]Insolvency Act 1986;
+- the court has the same meaning as in section 220 above.
+
+## Annotations
+
+[^key-3995f35d81d05b4862c62190999c7c58]: Commencement: S. 221 in force at 15.7.2003 by [S.I. 2003/1920](https://www.legislation.gov.uk/uksi/2003/1920), [art. 2(b)](https://www.legislation.gov.uk/uksi/2003/1920/article/2/b)
+
+[^c12803891]: Marginal citation: [1986 c. 45](https://www.legislation.gov.uk/ukpga/1986/45).

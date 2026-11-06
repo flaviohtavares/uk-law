@@ -1,0 +1,85 @@
+---
+title: The M48 Motorway (Severn Bridge Weight) (Temporary Restriction of Traffic) Order 2017
+id: uksi/2017/911
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2017-09-11'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2017/911
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2017/911/pdfs/uksi_20170911_en.pdf
+- http://www.legislation.gov.uk/uksi/2017/911/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The M48 Motorway (Severn Bridge Weight) (Temporary Restriction of Traffic) Order 2017
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2017 No. 911
+
+Road Traffic
+
+The M48 Motorway (Severn Bridge Weight) (Temporary Restriction of Traffic) Order 2017
+
+Made
+
+11th September 2017
+
+Coming into force
+
+18th September 2017
+
+The Secretary of State, in exercise of the powers conferred by section 14(1)(b) of the Road Traffic Regulation Act 1984[^f00001], hereby makes the following Order:
+
+In accordance with section 14(1)(b) of that Act, the Secretary of State is satisfied that traffic on the length of road specified in this Order should be restricted because of the likelihood of danger to the public, or of serious damage to the road, which is not attributable to works.
+
+## 1. Citation and commencement
+
+This Order may be cited as the M48 Motorway (Severn Bridge Weight) (Temporary Restriction of Traffic) Order 2017 and shall come into force on 18th September 2017.
+
+## 2. Interpretation
+
+In this Order –
+
+- “appointed person” has the meaning given in section 23 of the Severn Bridges Act 1992 [^f00002];
+- “operating weight” shall be calculated as provided in section 138 of the Road Traffic Regulation Act 1984;
+- “the M48” means (1) the westbound carriageway of the M48 Motorway from a point 68 metres east of the tip of the nosing of the westbound exit slip road at Junction 1 (Aust) to a point 145 metres east of the tip of the nosing of the westbound entry slip road at Junction 2 (Newhouse); and, (2) the eastbound carriageway of the M48 Motorway from a point 145 metres east of the tip of the nosing of the eastbound exit slip road at Junction 2 to a point 68 metres east of the tip of the nosing of the eastbound entry slip road at Junction 1.
+- “the period of danger” means the period starting at 00.01 hours on Monday 18th September 2017 and ending on 17th March 2019 or when the said likelihood of danger has ended;
+- “the tip of the nosing” means the first point where an entry slip road joins the carriageway of a motorway or the last point where an exit slip road leaves the carriageway of a motorway;
+
+and a reference to an article followed by a number is a reference to the article in this Order which bears that number.
+
+## 3. Restrictions
+
+Subject to article 4, no person may, during the period of danger, cause or permit any vehicle having an operating weight exceeding 7.5 tonnes to enter or proceed in outside lanes of the M48.
+
+**4.** The provisions of article 3 and 4 will apply only during such times and to such extent as may, from time to time, be indicated by traffic signs and will not apply to any vehicle –
+
+- (a) being used for police, fire and rescue authority or ambulance purposes,
+- (b) proceeding at the direction, or with the permission, of a constable, traffic officer in uniform or an appointed person.
+
+Signed by authority of the Secretary of State for Transport
+
+CJ Miller
+
+A Senior Civil Servant in the Department for Transport
+
+11th September 2017
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order authorises the temporary restriction of traffic on the M48 Motorway (Severn Bridge) as of 18th September 2017 for a maximum of 18 months because of the likelihood of danger to the public.
+
+## Annotations
+
+[^f00001]: Footnote: [1984 c.27](https://www.legislation.gov.uk/ukpga/1984/27); a new section 14 was substituted by the Road Traffic (Temporary Restrictions) Act [1991 (c.26)](https://www.legislation.gov.uk/ukpga/1991/26), section 1(1) and Schedule 1.
+
+[^f00002]: Footnote: [1992 c.3](https://www.legislation.gov.uk/ukpga/1992/3)

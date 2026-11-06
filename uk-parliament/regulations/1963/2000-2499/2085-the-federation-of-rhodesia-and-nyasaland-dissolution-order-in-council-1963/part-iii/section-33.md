@@ -1,0 +1,21 @@
+---
+title: The Federation of Rhodesia and Nyasaland (Dissolution) Order in Council 1963, section 33
+act: The Federation of Rhodesia and Nyasaland (Dissolution) Order in Council 1963
+section: '33'
+status: as-enacted
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1963/2085/section/33
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Westlaw UK derived from Crown Copyright material and contributed to legislation.gov.uk
+summary: ''
+---
+
+# The Federation of Rhodesia and Nyasaland (Dissolution) Order in Council 1963, section 33
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+## 33. Constitution of Higher Authority for Power
+
+(1) There is hereby constituted jointly for the Territories an authority which shall be known as the Higher Authority for Power.
+
+(2) The Higher Authority shall consist of four members, of whom two shall be Ministers of the Government of Northern Rhodesia appointed by the Government of that Territory and two shall be Ministers of the Government of Southern Rhodesia appointed by the Government of that Territory.

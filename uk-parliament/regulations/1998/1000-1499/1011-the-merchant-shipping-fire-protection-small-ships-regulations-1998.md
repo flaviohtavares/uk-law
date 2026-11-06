@@ -1,0 +1,1007 @@
+---
+title: 'The Merchant Shipping (Fire Protection: Small Ships) Regulations 1998'
+id: uksi/1998/1011
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '1998-04-07'
+text_date: '2026-01-05'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/1998/1011
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1998/1011/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Merchant Shipping (Fire Protection: Small Ships) Regulations 1998
+
+> Text as at 2026-01-05.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+1998 No. 1011
+
+MERCHANT SHIPPING
+
+SAFETY
+
+The Merchant Shipping (Fire Protection: Small Ships) Regulations 1998
+
+Made
+
+7th April 1998
+
+Laid before Parliament
+
+20th April 1998
+
+Coming into force
+
+11th May 1998
+
+The Secretary of State, after consulting the persons referred to in section 86(4) of the Merchant Shipping Act 1995f[^f00001], in exercise of the powers conferred on him in section 85(1)(a) and (b) and (3), (5) to (7) and section 86(1) of that Act, and of all other powers enabling him in that behalf, hereby makes the following Regulations—[^key-43be1a3756d922f8906912951151ef84][^key-d86107a0e99459339edfa4041cee1f7d][^key-d8df3f23211d2b5f793e9a7097cd6391][^key-5aa49be49ecda5137e35577d15130552]
+
+## PART I— — PRELIMINARY
+
+### 1. Citation, commencement, interpretation and application[^key-772b3475f3a74694b03b0d3f44722cd8]
+
+(1) These Regulations may be cited as the Merchant Shipping (Fire Protection: Small Ships) Regulations 1998 and shall come into force on 11th May 1998.
+
+(2) In these Regulations the following expressions have the following meanings respectively—
+
+- “‘A’ Class Division” means a bulkhead or part of a deck which is—
+  - (a) constructed of steel or other equivalent material;
+  - (b) suitably stiffened;
+  - (c) so constructed as to be capable of preventing the passage of smoke and flame to the end of the 60 minute standard fire test; and
+  - (d) so insulated where necessary with suitable non-combustible materials that if the division is exposed to a standard fire test the average temperature on the unexposed side of the division shall not increase more than 140°C[^key-092d0cb324e6f8d13d69a2c7b8c709d1] above the initial temperature nor shall the temperature at any one point, including any joint, rise more than 180°C above the initial temperature within the time listed below—
+    - “A-60” standard 60 minutes;
+    - “A-30” standard 30 minutes;
+    - “A-15” standard 15 minutes;
+    - “A-0” standard 0 minutes;
+- “accommodation spaces” means—
+  - (a) public spaces;
+  - (b) corridors and lobbies;
+  - (c) stairways;
+  - (d) lavatories;
+  - (e) cabins;
+  - (f) offices;
+  - (g) hospitals;
+  - (h) hairdressing salons;
+  - (i) pantries not containing cooking appliances;
+  - (j) lockers;
+  - (k) games and hobbies' rooms; and
+  - (l) spaces similar to any of the foregoing and trunks to such spaces allocated to passengers or crew;
+- “[^key-de5071dee0f1460d5dc7dbd4b406aa4c]**approved**” means, in relation to any equipment or arrangement , other than the equipment and arrangements to which regulations 5A and 8A apply,[^key-0174da750b4f743051ce9c66abb793d0] approved under the Merchant Shipping (Marine Equipment) Regulations 2025[^key-89679c9f9c48226b19c133642874a638];
+- “bulkhead deck” means the uppermost deck up to which transverse watertight bulkheads are carried;
+- “cargo pump room” means a room which any pumps used for loading, discharging or transferring cargoes are located;
+- “cargo ship” means any ship which is not a passenger ship, pleasure vessel or fishing vessel;
+- “cargo spaces” means all spaces used for cargo including cargo oil tanks, slop tanks and trunks to such spaces;
+- “chemical tanker” means a tanker constructed or adapted and used for the carriage in bulk of any liquid product of a flammable nature listed in Chapter 17 of the International Code for the Construction and Equipment of Ships Carrying Dangerous Chemicals in Bulk;
+- “[^key-dd055f826d75c6db463874c82d5f5451]**Code for the Construction and Equipment of Ships Carrying Dangerous Chemicals in Bulk**” means the International Code for the Construction and Equipment of Ships Carrying Dangerous Chemicals in Bulk adopted by the Maritime Safety Committee of the International Maritime Organization by resolution MSC.4(48), as amended by resolutions MSC.176(79), MSC.219(82), MSC.340(91), MSC.369(93), MSC.440(99) and MSC.460(101);
+- “dangerous goods” means goods as defined in the Merchant Shipping (Carriage of Dangerous Goods and Harmful Substances) (Amendment) Regulations 2024[^key-433d8640d6e1fafccfa1bce486c999ad] and any reference to a particular class of dangerous goods is a reference to that class of dangerous goods as defined in those Regulations;
+- “deadweight” means the difference in tonnes between the displacement of a ship in water of a specific gravity of 1.025 at the load waterline corresponding to the assigned summer freeboard and the lightweight of the ship;
+- [^key-2c0a41c2cb0e28aa6c9a6ae7561d9c97]...
+- “[^key-ba72c754d890a3493d393f797619e936]**EEA State**” has the meaning given by Schedule 1 to the Interpretation Act 1978.
+- “equivalent material” as used in the expression “steel or other equivalent material” means any non-combustible material which, by itself or due to insulation provided, has structural and integrity properties equivalent to steel at the end of an appropriate fire test;
+- “Fire Test Procedures Code” means the International Code for Application of Fire Test Procedures, as adopted by the Maritime Safety Committee of the International Maritime Organisation by resolution MSC.61(67);[^key-5abbf11394c0d0239f2f4bc3347a965d]
+- “[^key-20292f233db338a2d91aeab1f4cd8580]**International Maritime Dangerous Goods Code**” means the International Maritime Dangerous Goods (IMDG) Code adopted by the Maritime Safety Committee of the International Maritime Organization by resolution MSC.122(75), as amended by resolutions MSC.157(78), MSC.205(81), MSC.262(84), MSC.294(87), MSC.328(90), MSC.372(93), MSC.406(96), MSC.442(99), MSC.477(102) and MSC.501(105);
+- “length” in relation to a registered ship means registered length, and in relation to an unregistered ship means the length from the fore part of the stem to the aft side of the head of the stern post or, if no stern post is fitted to take the rudder, to the fore side of the rudder stock at the point where the rudder passes out of the hull;
+- “lightweight” means the displacement of a ship in tonnes without cargo, oil fuel, lubricating oil, ballast water, fresh water in tanks or stores, and [^key-31ad87e6bbf027b631ac20f8effc6fce]... passengers and crew and their effects;
+- “low flame spread” means that the surface described will adequately restrict the spread of flame, this being determined in accordance with the Fire Test Procedures Code;[^key-1b1fe091a8a54d5d39ce5a805885e6ea]
+- “machinery space” means a space which contains propulsion machinery, boilers, oil fuel units, steam and internal combustion engines, generators and major electrical machinery, oil filling stations, refrigerating, stabilising, ventilation and air conditioning machinery and similar spaces and where the context so admits, any trunk to such a space;
+- “machinery spaces of Category A” means a space which contains—
+  - (a) internal combustion type machinery used either for main propulsion purposes, or for other purposes where such machinery has in aggregate a total power output of not less than 375 kilowatts; or
+  - (b) any oil-fired boiler or oil-fired unit; and any trunk to such a space;
+- “Maritime and Coastguard Agency” means the Maritime and Coastguard Agency, an Executive Agency of the Department of the Environment, Transport and the Regions;
+- “Merchant Shipping Notice” means a Notice described as such and issued by the Maritime and Coastguard Agency;
+- “non-combustible material” means a material which neither burns nor gives off flammable vapours in sufficient quantity for self-ignition when heated to approximately 750°C, this being determined in accordance with the Fire Test Procedures Code. Any other material is a combustible material;[^key-c36c42b2930f3c8910538399e0f1d46f]
+- “oil-fired boiler” means any boiler wholly or partly fired by liquid fuel;
+- “oil-fuel unit” means the equipment used for the preparation of oil fuel for delivery to an oil-fired boiler or equipment used for the preparation for delivery of heated oil to an internal combustion engine, and includes any pressure pumps, filters and heaters dealing with oil at a pressure more than 180 kPa;
+- “open ship” means a ship in which all the passenger accommodation is completely open to the elements and is not fitted with a weathertight or watertight deck or structure above the waterline;
+- “passenger ship” means a ship carrying more than 12 passengers;
+- “pleasure vessel” means—
+  - (a) any vessel which at the time it is being used is—
+    - (i)
+      - (a) in the case of a vessel wholly owned by an individual or individuals used only for the sport or pleasure of the owner or the immediate family or friends of the owner; or
+      - (b) in the case of a vessel owned by a body corporate, used only for sport or pleasure and on which the persons are employees or officers of the body corporate, or their immediatte family or friends; and
+    - (ii) on a voyage or excursion which is one for which the owner does not receive money for or in connection with operating the vessel or carrying any person, other than as a contribution to the direct expenses of the operation of the vessel incurred during the voyage or excursion; or
+  - (b) any vessel wholly owned by or on behalf of a members' club formed for the purpose of sport or pleasure which, at the time it is being used, is used only for the sport or pleasure of members of that club or their immediate family; and for the use of which any charges levied are paid into club funds and applied for the general use of the club; and
+  - (c) in the case of any vessel referred to in paragraphs (a) or (b) above no other payments are made by or on behalf of users of the vessel, other than by the owner;
+
+  In this definition “immediate family” means in relation to an individual, the spouse or civil partner[^key-7068a441314640327a2c8d95f73e4f5f] of the individual, and a relative of the individual or the individual’s spouse or civil partner, and “relative” means brother, sister, ancestor or lineal descendant;
+- “public spaces” includes halls, dining rooms, bars, smoke rooms, lounges, recreation rooms, nurseries, libraries, cinemas, sale shops and similar permanently enclosed spaces allocated to passengers or crew;
+- “[^key-828772bfd6c0a73ba5f25e0d06e4602a]**relevant standard of an EEA State**”, in relation to a reference to an International Standard or a British Standard, means—
+  - a relevant standard or code of practice of a national standards body or equivalent body of an EEA State;
+  - a relevant international standard recognised for use in an EEA State; or
+  - a relevant specification acknowledged for use as a standard by a public authority of an EEA State,
+
+  being a standard, code of practice or specification which provides, in use, levels of safety, suitability and fitness for purpose equivalent to those provided by the International Standard or the British Standard;
+- “ro-ro cargo spaces” means spaces not normally subdivided in any way and extending to either a substantial length or the entire length of the ship in which goods (packaged or in bulk), in or on rail or road cars, vehicles (including road or rail tankers), trailers, containers, pallets, demountable tanks or in or on similar stowage units or other receptacles can be loaded and unloaded normally in a horizontal direction;
+- “sailing ship” means a ship provided with sufficient sail area for navigation under sails alone, whether or not fitted with mechanical means of propulsion;
+- “service spaces” include galleys, pantries containing cooking appliances, laundries, drying rooms, lockers and store rooms, paint rooms, baggage rooms, mail and specie rooms, workshops (other than those forming part of machinery spaces) and similar spaces and trunks to such spaces;
+- “similar stage of construction” means the stage at which construction identifiable with a specific ship begins; and assembly of that ship has commenced comprising at least 50 tonnes or one percent of the estimated mass of all structural materials, whichever is less;
+- “settling tank” means an oil storage tank having a heating surface of not less than 0.183 square metre per tonne of oil capacity;
+- “special category spaces” means any enclosed space above or below the bulkhead deck intended for the carriage of motor vehicles with fuel in their tanks for their own propulsion, into and from which such vehicles can be driven [^key-0ab425b61131d2db7336d3abef530757]... and to which passengers have access;
+- “standard fire test” is one in which a specimen of the relevant bulkhead or deck is exposed in a test furnace to temperatures corresponding approximately to a standard time-temperature curve in accordance with the Fire Test Procedures Code;[^key-9b094d82067ee504b8cc3a7340ef2b2d]
+- “suitable” in relation to material means approved by the Secretary of State as suitable for the purpose for which it is used;[^key-bee9599123b80142ec9c2c51b2639948]
+- [^key-7e6e146367bbe7e185c658bd6e38b9a4]...
+- “tanker” means a cargo ship constructed or adapted for the carriage in bulk of liquid cargoes of a flammable nature;
+- “tons” means gross tons and a reference to tons—
+  - (a) in relation to a ship having alternative gross tonnages under paragraph 13 of Schedule 5 of the Merchant Shipping (Tonnage) Regulations 1982[^f00005] permitted to be used pursuant to regulation 12(1) of the Merchant Shipping (Tonnage) Regulations 1997[^f00006] is a reference to the larger of these tonnages; and
+  - (b) in relation to a ship having its tonnage determined both under Part II and regulation 12(2) of those 1997 Regulations is a reference to its gross tonnage as determined under the said regulation 12(2).
+
+(3) Any reference in these Regulations to—
+
+- (a) a British Standard;
+- (b) an International Standard; or
+- (c) a Merchant Shipping Notice;
+- (d) any other specified Code or Guidelines;
+
+shall include—
+
+- (a) a reference to any document amending that publication which is considered by the Secretary of State to be relevant from time to time and is specified in a Merchant Shipping Notice; and
+- (b) with respect to a reference to an International Standard or a British Standard, a reference to a relevant standard of an EEA State [^key-3e5bce9b25a300e496567f149f74e71f]....
+
+(4) Any approval given in whatever form in pursuance of these Regulations shall be given in writing and shall specify the date on which it takes effect and the conditions (if any) on which it is given.
+
+(5) In these Regulations—
+
+- (a) a reference to a numbered regulation is, unless otherwise stated, a reference to the regulation of that number in these Regulations;
+- (b) a reference in a regulation to a numbered paragraph is, unless otherwise stated, a reference to the paragraph of that number in that regulation;
+- (c) where a sub-heading refers to “requirements” or to “additional requirements” for certain ships, the text following such a subheading in that regulation (or until the next such subheading in that regulation) shall (unless the context otherwise requires) relate only to such ships.
+
+(6) In these Regulations—
+
+- (a) a reference to a ship constructed on or after a specified date is reference to a ship the keel of which is laid or which is at a similar stage of construction on or after that date;
+- (b) a reference to a ship constructed before a specified date is a reference to a ship the keel of which is laid or which is at a similar stage of construction before that date; and
+- (c) where the reference to a ship so constructed is to be understood as being or including a reference to a passenger ship, the reference includes a reference to a ship which satisfies both the following requirements, that is to say—
+  - (i) that the keel of the ship was laid or that the ship was at a similar stage of construction before the specified date; and
+  - (ii) that the ship, not being a passenger ship before that date, is converted to a passenger ship, such conversion commencing on or after that date.
+
+(7)
+
+- (a)
+  - (i) Subject to subparagraph (b) below and to paragraph (8) , and to regulation 5(1) of the Merchant Shipping (Passenger Ships on Domestic Voyages) Regulations 2000 (which relates to passenger ships of Classes III, VI and VI(A) which are 24 metres or over in length and are existing ships, engaged on domestic voyages, for the purposes of those Regulations),[^key-d95d10f39553e0ea9cc450cc5e952318] these Regulations shall apply to United Kingdom ships of Class II(A) of less than 21.34m in length, Classes III, IV, V, VI and VI(A) and Classes VII, VII(A) VII(T)[^key-e86f8a7371650318e75bda1e8707083a], VIII, VIII(A) VIII(T), VIII(A)(T)[^key-4a17ca0d0d30c475fbe75eefff93ae26], IX IX(A)(T)[^key-c123b9763329d303a8965d165f1cb1af], IX(A), XI and XII of under 500 tons wherever they may be and to non-United Kingdom ships of such Classes, size and tonnage[^key-abc9dcb56c0f2d7d21ac297c16c0a135] while they are within the United Kingdom or the territorial waters thereof, and,
+  - (ii) where any requirement of the Regulations relates to ships constructed on or after a certain date, then, to the extent the Secretary of State deems reasonable and practicable, the requirement shall also apply in respect of any major repairs, alterations and modifications commenced on or after the date to ships constructed before that date.
+- (b) These Regulations shall not apply to—
+  - (i) fishing vessels;
+  - (ii) pleasure vessels which are not passenger ships and are of less than 13.7 metres in length;
+  - (iii) high-speed craft to which the Merchant Shipping (High Speed Craft) Regulations 2022[^key-4c3c88a8f4affc355dd0d55cf22f8696] apply;
+  - (iv) the following non-United Kingdom ships—
+    - (aa)[^key-13e7954c2cf5b6b7a1ebd42d7bd784d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+    - (bb) ships not propelled by mechanical means; or
+    - (cc) a ship by reason of her being within the United Kingdom or the territorial waters thereof if she would not have been therein but for stress of weather or any other circumstances that neither the master nor the owner nor the charterer (if any) could have prevented;
+  - (v)[^key-8459de831e646aaf4b3f6f81145ca713] any passenger ship of Class III, VI or VI(A) which is a new ship, engaged on domestic voyages, for the purposes of the Merchant Shipping (Passenger Ships on Domestic Voyages) Regulations 2000;
+  - (vi)[^key-e06a898a7ed87a422206c63bbcb9f629] any passenger ship to which the Merchant Shipping (Passenger Ship) (Safety Code for UK Categorised Waters) Regulations 2010 apply,
+  - (vii) any vessel to which the Merchant Shipping (Technical Requirements for Inland Waterway Vessels) Regulations 2010 apply;[^key-aeabccb7057c8519e5c922fc5e293486]
+  - (viii) ships of war, naval auxiliary ships or other ships owned or operated by a State and engaged only on governmental non-commercial service.
+
+(8) Every ship to which these Regulations apply, the keel of which was laid before 26th May 1965, shall be exempt from all the requirements of these Regulations to the extent, and subject to the conditions, specified in Schedule 1 of Merchant Shipping Notice MSN 1670.
+
+(9)[^key-a277d067c9f999a5ed9bcfced48b68d4] The amendments made to these Regulations by regulation 2(3) to (10) of the Merchant Shipping (Safety Standards for Passenger Ships on Domestic Voyages) (Miscellaneous Amendments) Regulations 2022 do not apply to a ship until the date of that ship’s first survey after the second anniversary of the date on which those Regulations came into force.
+
+(10) For the purposes of paragraph (9), “**survey**” means the ship’s renewal survey as required by regulation 6(3)(b) of the Merchant Shipping (Survey and Certification) Regulations 2015.
+
+### 2. Classification of ships[^key-bbba9855fb5f94a4c50cac54115b5d5c]
+
+(1) For the purposes of these Regulations ships shall be arranged in Classes as follows—
+
+***Passenger ships***
+
+|  |  |
+| --- | --- |
+| Class I[^key-016929a9ce740125963c7d198541b217] | Passenger ships engaged on voyages any of which are long international voyages; |
+| Class II | Passenger ships engaged only on short international voyages; |
+| Class II(A) | Ships engaged on voyages of any kind other than international voyages, which are not—[^key-817e084954aa9e8ba0b5c71076bda998]<br>- (i) ships of Classes III to VI(A) as defined in the Merchant Shipping (Passenger Ship Construction: Ships of Classes III to VI(A)) Regulations 1998; or<br>- (ii) ships of Classes A, B, C or D as defined in the Merchant Shipping (Passenger Ships on Domestic Voyages) Regulations 2000 which are new ships, engaged on domestic voyages, for the purposes of those Regulations. |
+| Class III | Passenger ships engaged only on voyages in the course of which they are at no time more than 70 miles by sea from their point of departure and not more than 18 miles from the coast of the United Kingdom, and which are at sea only in favourable weather and during restricted periods; |
+| Class IV | Passenger ships engaged only on voyages in Category A, B, C and D waters; |
+| Class V | Passenger ships engaged only on voyages in Category A, B and C waters; |
+| Class VI | Passenger ships engaged only on voyages with not more than 250 passengers on board, to sea, or in Category A, B, C and D waters, in all cases in favourable weather and during restricted periods, in the course of which the ships are at no time more than 15 miles, exclusive of any category, A, B and C waters, from their point of departure nor more than 3 miles from land; |
+| Class VI(A) | Passenger ships carrying not more than 50 passengers for a distance of not more than 6 miles on voyages to or from isolated communities on the islands or coast of the United Kingdom and which do not proceed for a distance of more than 3 miles from land subject to any conditions which the Secretary of State may impose; |
+
+***Ships other than passenger ships***
+
+|  |  |
+| --- | --- |
+| Class VII | Ships (other than ships of Classes I, VII(A), VII(T), XI and XII) engaged on voyages any of which are long international voyages; |
+| Class VII(A) | Ships employed as fish processing or canning factory ships, and ships engaged in the carriage of persons employed in the fish processing or canning industries; |
+| Class VII(T) | Tankers engaged on voyages any of which are long international voyages; |
+| Class VIII | Ships (other than ships of Classes II, VIII(T) IX, XI, and XII) engaged on voyages (not being long international voyages) any of which are short international voyages. |
+| Class VIII(A) | Ships (other than ships of Classes II(A) to VI(A) inclusive, VIII(A)(T), IX, IX(A), IX(A)(T). XI and XII), engaged on voyages which are not international voyages; |
+| Class VIII(T) | Tankers engaged only on short international voyages; |
+| Class VIII(A)(T) | Tankers engaged only on voyages which are not international voyages; |
+| Class IX | Tugs and tenders (other than ships of Classes II, II(A), III, VI and VI(A)) which proceed to sea but are not engaged on long international voyages; |
+| Class IX(A) | Ships (other than ships of Classes IV to VI inclusive) which do not proceed to sea; |
+| Class IX(A)(T) | Tankers which do not proceed to sea; |
+| Class XI | Sailing ships (other than ships of Class XII) which proceed to sea; |
+| Class XII | Pleasure vessels[^key-138dd44b765d2a0f02605d785a0a4087] (other than ships of Classes I to VI(A) inclusive) of 13.7 metres in length or over. |
+
+(2) For the purposes of this regulation the following expressions have the following meanings respectively—
+
+- “Category A, B, C or D waters” means the waters specified as such in Merchant Shipping Notice No. M.1504; and cognate expressions shall be construed accordingly;
+- “favourable weather” means fine, clear, settled weather with a sea state such as to cause only moderate rolling and/or pitching;
+- “long international voyage” means a voyage from a port in one country to which the International Convention for the Safety of Life at Sea, 1974 (as amended) applies to a port in another country, or conversely, and which is not a short international voyage;
+- “short international voyage” means an international voyage—
+  - (a) in the course of which a ship is not more than two hundred nautical miles from a port of place in which the passengers and crew could be placed in safety; and
+  - (b) which does not exceed 600 nautical miles in distance between the last port of call in the country in which the voyage begins and the first port of destination. However for the purposes of this definition no account shall be taken of any deviation by a ship from her intended voyage due solely to stress of weather or any other circumstances that neither the master nor the owner nor the charterer (if any) of the ship could have presented or forestalled;
+- “restricted period” means a period falling wholly within the following limits—
+  - (a) from 1st April to 31st October, both dates inclusive; and
+  - (b) between one hour before sunrise and one hour after sunset in the case of ships fitted with navigation lights conforming to the collision regulations and between sunrise and sunset in the case of any other ships;
+- “sea” does not include any waters specified as Category A, B, C or D in Merchant Shipping Notice No. M.1504;
+- “voyage” includes an excursion.
+
+## PART II— — FIRE PREVENTION AND FIRE APPLIANCES
+
+### Passenger Ships
+
+#### SHIPS OF CLASS II(A) OF LESS THAN 21.34 METRES IN LENGTH
+
+##### 3. Fire pumps, fire main, water service pipes, hydrants, hoses and nozzles[^key-051fc609e39a5bc6621214acda9e567c]
+
+Every ship of Class II(A) of less than 21.34 metres in length shall be provided in a position outside the machinery spaces with either a power or hand operated pump with a permanent sea connection and a hose with a 10 millimetres diameter nozzle capable of producing a jet of water having a throw of not less than 6 metres which can be directed on to any part of the ship.
+
+##### 4. Portable fire extinguishers[^key-3ddf38ddac5e8d40fa98338b7c6a09ba]
+
+Every ship of Class II(A) of less than 21.34 metres in length shall be provided with at least one portable fire extinguisher in each of the passenger spaces above the bulkhead deck, and with at least two such extinguishers in each of the crew spaces and in each of the passenger spaces below that deck. At least one portable fire extinguisher shall be available for use in any galley.
+
+##### 5. Machinery spaces of Category A and spaces containing oil fuel settling tanks[^key-5c7ce9bab39c87567c4af765c95c4b7e]
+
+(1) In every ship of Class II(A) of less than 21.34 metres in length there shall be provided in any space containing any oil-fired boiler, oil fuel settling tank or oil fuel unit, one or more foam fire extinguishers each of at least 45 litres capacity or carbon dioxide extinguishers each of at least 16 kilogrammes capacity. The extinguisher, or extinguishers, shall be sited so as to be readily accessible in the event of a fire and they shall be sufficient in number to enable foam or carbon dioxide to be directed on to any part of the boiler room or space containing any part of the oil fuel installation. In addition there shall be provided—
+
+- (a) in each firing space and in each space which contains any part of any oil fuel installation at least two portable fire extinguishers suitable for extinguishing oil fires; and
+- (b) in each firing space a receptacle containing at least 0.3 cubic metre of sand or other dry material suitable for extinguishing oil fires together with a scoop for its distribution, or alternatively, an additional portable fire extinguisher for extinguishing oil fires.
+
+(2) In every ship of Class II(A) of 15.24 metres in length or over but of less than 21.34 metres in length there shall be provided in each space containing internal combustion type propultion machinery at least five portable fire extinguishers suitable for extinguishing oil fires, and every ship of Class II(A) of less than 15.24 metres in length shall be provided with at least three such portable fire extinguishers in such space; provided that where internal combustion machinery is situated in a space to which paragraph (1) applies, only two such portable fire extinguishers need be provided in addition to the extinguishers required by that paragraph.
+
+#### SHIPS OF CLASSES III, IV, V, VI AND VI(A)[^key-69fadf04ba67918701918f9ee8b393af]
+
+##### 5A. Fire detection
+
+(1) Subject to regulation 1(9) (application), this regulation applies to every ship in Classes III, IV, V, VI and VI(A).
+
+(2) Any unmanned machinery space which is located underdeck, or which is not situated at the control position, shall be fitted with a fixed fully addressable fire detection system comprising smoke or heat detectors which will, when activated, give an audible and visual alarm at the control position.
+
+(3) Any passenger sleeping accommodation shall be fitted with a fixed fully addressable fire detection system comprising smoke or heat detectors which will, when activated, give an audible and visual alarm at the control position, installed and arranged to detect the presence of fire in that space and in the corridors, stairways and escape routes associated with such space.
+
+(4) The fire detection systems required by paragraphs (2) and (3) shall be subject to the approval of the Secretary of State.
+
+(5) For the purposes of paragraph (2), “**control position**” means the area from which the command and navigation of the ship is carried out.
+
+(6) For the purposes of paragraph (3), “**fully addressable fire detection system**” means a system with the capability to identify the exact location of the fire and the type of the detector.
+
+#### SHIPS OF CLASS III OF 21.34 METRES IN LENGTH OR OVER
+
+##### 6. Fire pumps, fire main, water service pipes, hydrants, hoses and nozzles[^key-1c19af93b8fd5287e6d61249d9d29cd0]
+
+(1) Every ship of Class III of 21.34 metres in length or over shall be provided with appliances in accordance with this regulation whereby at least one jet of water as required by these Regulations can reach any part of the ship normally accessible to the passengers or crew while the ship is being navigated and any store room and any part of any cargo space when empty.
+
+(2) Every such ship shall be provided with at least one fire pump operated by power. Each such pump shall be capable of delivering at least one jet of water from any fire hydrant, hose and nozzle provided in the ship and shall comply with the requirements of regulation 30.
+
+(3) Every such ship fitted with oil-fired boilers or internal combustion type propulsion machinery shall be provided with an additional fire pump which shall be permanently connected to the fire main but which shall not be required to be operated by power. Such a pump and its source of power, if any, shall not be situated in the same compartment as the pump required by paragraph (2) and shall be provided with a permanent sea connection situated outside the machinery space. If such a pump is operated by power it shall comply with the requirements of paragraph (2) and if it is manually operated it shall be capable of producing a jet of water having a throw of not less than 6 metres from nozzles provided in compliance with this regulation.
+
+(4) Every such ship shall be provided with a fire main, water service pipes, hydrants, hoses and nozzles which shall comply with the requirements of regulations 31 and 32.
+
+(5) Every such ship shall be provided with at least one fire hose for every hydrant fitted in compliance with these Regulations.
+
+(6) Every such ship fitted with oil-fired boilers or internal combustion type machinery shall be provided with at least one fire hydrant in each space containing such boilers or machinery. A nozzle shall be provided for every fire hose at every hydrant fitted in such spaces in compliance with these Regulations.
+
+##### 7. Portable fire extinguishers[^key-6676c5a7b765a16f892dfdbe1439d3f3]
+
+Every ship of Class III of 21.34 metres in length or over shall be provided with at least one portable fire extinguisher in each of the passenger spaces above the bulkhead deck, and with at least two such extinguishers in each of the crew spaces and in each of the passenger spaces below that deck. At least one portable fire extinguisher shall be provided for use in any galley.
+
+##### 8. Machinery spaces of Category A[^key-17e7ad28df6f95b13120ebd2d97bff70]
+
+(1) Subject to regulation 1(9) (application),[^key-19312541248b9c23a414cea217ba291d] in every ship of Class III [^key-a9bd144cbb172b94437362e1d28c1665]... there shall be provided for the protection of any machinery space of Category A at least one of the following fixed fire-extinguishing systems—
+
+- (a) a fixed pressure water-spraying system complying with the requirements of Schedule 2 of Merchant Shipping Notice MSN 1666;
+- (b) a fixed gas fire-extinguishing system complying with the requirements of Schedule 4 of Merchant Shipping Notice MSN 1666;
+- (c) a high expansion foam system complying with the requirements of Schedule 8 of Merchant Shipping Notice MSN;
+- (d) for ships built before 25th May 1980, a foam fire-extinguishing system complying with the requirements of regulation 33.
+
+- If the engine room and boiler rooms are not entirely separated from each other by a bulkhead or if fuel can drain from the boiler room into the engine room, the combined engine room and boiler room shall, for the purpose of this paragraph, be regarded as a single space.
+
+(2) In addition to the requirements of paragraph (1) there shall be provided—
+
+- (a) in each boiler room two or more foam fire extinguishers each of at least 45 litres capacity or carbon dioxide fire extinguishers each of at least 16 kilogrammes capacity; the extinguishers shall be sited so as to be readily accessible in the event of fire and they shall be sufficient in number to enable foam or carbon dioxide to be directed on to any part of the boiler room or spaces containing any part of the oil fuel installation;
+- (b) in each firing space and in each space which contains any part of any oil fuel installations at least two portable fire extinguishers for extinguishing oil fires;
+- (c) in each firing space a receptacle containing at least 0.3 cubic metre of sand or other dry material suitable for extinguishing oil fires together with a scoop for its distribution or, alternatively, an additional portable fire extinguisher suitable for extinguishing oil fires.
+
+(3) In addition to the requirements of paragraph (1) there shall be provided in any such space containing internal combustion type machinery—
+
+- (a) one foam fire extinguisher of at least 45 litres capacity or a carbon dioxide fire extinguisher of at least 16 kilogrammes capacity; and
+- (b) portable fire extinguishers suitable for extinguishing oil fires, so located that an extinguisher is not more than 10 metres walking distance from any point in the space, but in no event less than two such extinguishers.
+
+##### 8A. Machinery spaces other than Category A[^key-12f9eec62c10f809078a6f496e7f44af]
+
+(1) Subject to regulation 1(9) (application) and paragraph (2), in every passenger ship to which regulation 8 does not apply there shall be provided for the protection of any machinery space at least one of the following fixed fire-extinguishing systems—
+
+- (a) a fixed pressure water-spraying system;
+- (b) a fixed gas fire-extinguishing system;
+- (c) a high expansion foam system;
+- (d) for ships built before 25th May 1980, a foam fire-extinguishing system; or
+- (e) any other type of fixed fire-extinguishing system approved by the Secretary of State.
+
+(2) In a ship of less than 24 metres in length where machinery spaces consist of machinery covered by a boxed housing, the requirement in paragraph (1) may be satisfied by the provision of a fixed fire-extinguishing system that may comprise an approved portable extinguisher (of a suitable size and type for the space being protected) permanently attached to that housing and available to discharge into that space.
+
+(3) Where paragraph (2) applies, the arrangement for fire-extinguishing shall be subject to the approval of the Secretary of State.
+
+##### 9. Firemen’s outfits[^key-77425f4f844a3223b62dcbc723b0205e]
+
+Every ship of Class III of 21.34 metres in length or over shall carry one fireman’s outfit for each 30.5 metres (or part thereof) of the registered length of the ship. Every such outfit shall comply with the requirements of regulation 37.
+
+#### Ships of Class III of less than 21.34 metres in length
+
+**10.**[^key-199021a1f24a68df6c11a808ef32fd7c] Subject to regulation 1(9) (application), regulations 3 and 4[^key-9fc6962b8a4d63768e1b23aae12434b8] shall apply to ships of Class III of less than 21.34 metres in length as they apply to ships of Class II(A) of less than 21.34 metres in length.
+
+#### Ships of Class IV of 21.34 metres in length or over
+
+**11.**[^key-b9c8cfef9ed6ca172e758307ceb68000] Subject to regulation 1(9) (application), regulations 6, 7, 8 and 8A[^key-81489709bc6c802acf82f95a7d89f23b] shall apply to ships of Class IV of 21.34 metres in length or over as they apply to ships of Class III of 21.34 metres in length or over [^key-84389cd5e4f9e010491e6c50e9c5a6e5]....
+
+#### Ships of Class IV of less than 21.34 metres in length
+
+**12.**[^key-a0855ff49861dc060a5832fedf76a923] Subject to regulation 1(9) (application), regulations 4, 8 and 8A[^key-5a8f5cd69648911f2d153e87550216a8] shall apply to ships of Class IV of less than 21.34 metres in length as they apply to ships of Class II(A) of less than 21.34 metres in length.
+
+#### SHIPS OF CLASS V — Fully-decked ships
+
+**13.**[^key-b87f31ee7ba1c94ddea36973dd034fc4] (1) Subject to regulation 1(9) (application), regulations 6, 7, 8 and 8A[^key-f37129486edc26bdc4d74168f56a8b68] shall apply to fully-decked ships of Class V of 21.34 metres in length or over as they apply to ships of Class III of 21.34 metres in length or over.
+
+(2) Subject to regulation 1(9) (application), regulations 3, 4, 8 and 8A[^key-dbc600909c081ed473c8e745b5ded707] shall apply to fully-decked ships of Class V of less than 21.34 metres in length as they apply to ships of Class II(A) of less than 21.34 metres in length.
+
+#### Ships not fully-decked
+
+**14.**[^key-5ef8f424311d136bf26cf0fcb4749edd] (1) Every ship of Class V which is not fully-decked shall be provided with—
+
+- (a) a receptacle containing an adequate quantity of sand or other dry material suitable for extinguishing oil fires;
+- (b) a scoop for distributing the contents of the receptacle;
+- (c) the number of portable foam fire extinguishers shown in the following table—
+
+  | *Length of Ship* | *Number of Foam Extinguishers* |
+  | --- | --- |
+  | Not over 9.14 metres | 2 |
+  | Over 9.14 metres but under 15.24 metres | 3 |
+  | Over 15.24 metres | 5 |
+- (d) in the case of any ship of 12.20 metres in length or over, two fire buckets, and, in the case of any ship of less than 12.20 metres in length, one fire bucket, unless the equipment required by paragraph (2) is provided.
+
+(2) Every ship of Class V which is not fully-decked but is decked in way of the machinery spaces shall be provided in a position outside such spaces with a hand pump, a hose with a 10 millimetre diameter nozzle capable of producing a jet of water having a throw of not less than 6 metres which can be directed onto any part of the ship.
+
+#### SHIPS OF CLASSES VI AND VI(A) — Fully-decked ships
+
+**15.**[^key-86d9dbc6a9d7c42cc589825492f8222c] (1) Subject to regulation 1(9) (application), regulations 6, 7, 8 and 8A[^key-4d10f354130e020306b3c6b97c422d0f] shall apply to fully-decked ships of Classes VI and VI(A) of 21.34 metres in length or over as they apply to ships of Class III of 21.34 metres in length or over.
+
+(2) Subject to regulation 1(9) (application), regulations 3, 4, 8 and 8A[^key-732c93f996ce2ce31a247310bfc73a3f] shall apply to fully-decked ships of Classes VI and VI(A) of less than 21.34 metres in length as they apply to ships of Class II(A) of less than 21.34 metres in length.
+
+#### Ships not fully-decked
+
+**16.**[^key-49737b96d6ccde56f33748ef06ba5d4a] Regulation 14 shall apply to ships of Classes VI and VI(A) which are not fully-decked as it applies to ships of Class V which are not fully-decked.
+
+## PART III— — FIRE PREVENTION AND FIRE APPLIANCES
+
+### Ships Other Than Passenger Ships and Tankers
+
+#### Ships of class vii of under 500 tons
+
+**17.**[^key-2a85110a3d7d6b571a81cb07e7a87fbd] (1) This regulation applies to ships of Class VII of under 500 tons.
+
+(2)
+
+- (a) Every such ship shall be provided with appliances in accordance with this regulation whereby at least one jet of water as required by these Regulations can reach any part of the ship normally accessible to the passenger or crew while the ship is being navigated, and any store room and any part of any cargo space when empty.
+- (b) Every such ship shall be provided with at least one fire pump operated by power which shall be capable of delivering at least one jet of water from any fire hydrant, hose and nozzle provided in the ship, and which shall comply with the requirements of regulation 30.
+- (c) In every such ship fitted with oil-fired boilers or internal combustion type propulsion machinery there shall be provided in a position outside the spaces containing such boilers or machinery an additional fire pump and its source of power and sea connection. If such a pump is operated by power it shall comply with the requirements of subparagraph (b) and if it is manually operated it shall be provided with a hose and a 10 millimetre diameter nozzle through which it shall be capable of producing a jet of water having a throw of not less than 6 metres which can be directed on to any part of the ship.
+- (d) In every such ship there shall be provided a fire main, water service pipes and hydrants which shall comply with the requirements of regulation 31 and at least three fire hoses and nozzles which shall comply with regulation 32.
+
+(3) Every such ship shall be provided with at least three portable fire extinguishers so situated as to be readily available for use in the accommodation and service spaces.
+
+(4) In every ship to which this regulation applies there shall be provided for the protection of any space containing any oil-fired boiler, oil fuel settling tank or oil-fuel unit, at least one of the fire-extinguishing systems referred to in regulation 8.
+
+(5) In addition to the requirements of paragraph (4) there shall be provided—
+
+- (a) in each boiler room and in each space which contains any part of any oil fuel installation, at least two portable fire extinguishers suitable for extinguishing oil fires;
+- (b) in each firing space, a receptacle containing at least 0.3 cubic metre of sand or other dry material suitable for extinguishing oil fires together with a scoop for its distribution, or alternatively, an additional portable fire extinguisher suitable for extinguishing oil fires.
+
+(6) In every ship to which this regulation applies there shall be provided in any space containing internal combustion type machinery either—
+
+- (a) one portable fire extinguisher suitable for extinguishing oil fires for each 74.6 kilowatts or part thereof of such machinery provided that no more than seven such extinguishers shall be required in any one space; or
+- (b) two portable extinguishers suitable for extinguishing oil fires together with either—
+  - (i) one foam fire extinguisher of at least 45 litres capacity; or
+  - (ii) one carbon dioxide fire extinguisher of at least 16 kilogrammes capacity.
+
+(7) Every ship to which this regulation applies shall be provided with at least one fireman’s outfit which shall comply with the requirements of regulation 37 and which shall contain a breathing apparatus of the air-hose type.
+
+#### SHIPS OF CLASS VII(A) — Ships of under 500 tons
+
+**18.**[^key-dcedbfbadfcb0850eab4cb0c14ee8f9a] Every ship of Class VII(A) of less than 500 tons shall, if not subject to the Fishing Vessels (Safety Provisions) Rules 1975[^f00008] carry the fire appliances appropriate to its length which are required to be carried by vessels of that length which are subject to those Rules.
+
+#### SHIPS OF CLASS VIII — Ships of 150 tons or over but under 500 tons
+
+**19.**[^key-2ef06a730cae1bd224059f3f1d5eb499] Regulations 17 shall apply to ships of Class VIII of 150 tons or over but under 500 tons as it applies to ships of Class VII of under 500 tons.
+
+#### Ships of under 150 tons
+
+**20.**[^key-935072fbf025a0c443904668fbd0b238] (1) This regulation applies to ships of Class VIII of under 150 tons.
+
+(2)
+
+- (a) Regulation 17(2) shall apply to every such ship of 21.34 metres in length or over, as it applies to ships of Class VII of under 500 tons except that the fire pump required by regulation 17(2)(b) may be driven by the main engine.
+- (b) Every ship of less than 21.34 metres in length shall be provided in a position outside the machinery spaces with either a power or a hand operated pump with a permanent sea connection, a hose with a 10 millimetre diameter nozzle capable of producing a jet of water having a throw of not less than 6 metres which can be directed onto any part of the ship, and in addition a spray nozzle suitable for use with the hose, provided that in any ship of less than 9 metres in length or in any open ship of less than 21.34 metres in length, two fire buckets one of which shall be fitted with a lanyard may be substituted for such equipment but such buckets shall not be required in addition to buckets provided in compliance with paragraph (3).
+
+(3) Every such ship shall be provided with portable fire extinguishers or with fire buckets in accordance with the following Table—
+
+| *Length of Ship* | *Minimum Number Extinguishers or Buckets* |
+| --- | --- |
+| Under 21.34 metres | 2 |
+| 21.34 metres or over | 3 |
+
+- When fire buckets are provided at least one shall be fitted with a lanyard.
+
+(4) In addition to the requirements of paragraph (3) every such ship which is fitted with oil-fired boilers or internal combustion type propulsion machinery shall be provided with portable fire extinguishers suitable for extinguishing oil fires in accordance with the following Table—
+
+| *Length of Ship* | *Minimum Number of Extinguishers* |
+| --- | --- |
+| Under 6 metres | 1 |
+| 6 metres or over | 2 |
+
+(5) Every such ship of 9 metres in length or over which is fitted with oil-fired boilers or in combustion type propulsion machinery shall, if it is mainly or wholly constructed of wood and is decked in way of the machinery space, be provided with means outside the machinery space for rapidly injecting into the machinery space a quantity of fire smothering gas equivalent to at least 60 per cent of the gross volume of that space, or where the machinery space is bounded by steel bulkheads, equivalent to at least 40 per cent of the gross volume of the space; provided that in any ship to which this regulation applies of less than 21.34 metres in length, there may be substituted a water-spraying system supplied from a hand pump and a permanent sea connection situated outside the machinery space which may be the hand pump and the sea connection referred to in paragraph (2)(b). Such a pump shall be connected by fixed piping to a sufficient number of water-spraying nozzles suitably sited in the machinery space and capable of extinguishing oil fires.
+
+(6) Every such ship being a fully-decked ship of 21.34 metres in length or over shall be provided with a fireman’s axe.
+
+#### SHIPS OF CLASS VIII(A), IX AND IX(A) — Ships of under 500 tons
+
+**21.**[^key-dc0ae7f614e2ca17e4086ee0f8df60d8] (1) Regulation 17 shall apply to ships of Classes VIII(A), IX and IX(A) of 150 tons of over but under 500 tons as it applies to ships of Class VII of under 500 tons.
+
+(2) Regulation 20 shall apply to ship of Classes VIII(A), IX and IX(A) of under 150 tons as it applies to ships of Class VIII of under 150 tons.
+
+(3) The Secretary of State may exempt any ship of Classes VIII(A) and IX(A) and any ship of Class IX which is under 500 tons or which is not engaged on an international voyage, from any of the requirements of these Regulations.
+
+#### SHIPS OF CLASS XI — Ships of under 500 tons
+
+**22.**[^key-5eb1d9b7938d97d9b81a9d4efa902abb] (1) Regulation 17 shall apply to ships of Class XI of 150 tons or over but under 500 tons as it applies to ships of Class VII of under 500 tons.
+
+(2) Regulation 20 shall apply to ships of Class Xi of under 150 tons as it applies to ships of Class VIII of under 150 tons.
+
+(3) The Secretary of State may exempt any ship of Class XI from any of the requirements of these Regulations.
+
+#### SHIPS OF CLASS XII — Ships of under 500 tons
+
+**23.**[^key-130680f62c397a430e04736ed2f9b355] (1) Regulation 17 shall apply to ships of Class XII of 150 tons or over but under 500 tons as it applies to ships of Class VII of under 500 tons.
+
+(2)
+
+- (a) Every ship of Class XII of under 150 tons but of 21.34 metres in length or over shall be provided with appliances in accordance with this regulation whereby at least one jet of water as required by these Regulations can reach any part of the ship normally accessible to the passengers or crew while the ship is being navigated, and any store room and any part of any cargo space when empty.
+- (b) Every such ship shall be provided with at least one fire pump operated by power which may be driven by the main engine and which shall be capable of delivering at least one jet of water from any fire hydrant, hose and nozzle provided in the ship and which shall comply with the requirements of regulation 30.
+- (c) In every such ship fitted with oil-fired boilers or internal combustion type propulsion machinery, if the pump required by subparagraph (b) and its source of power and sea connection are not situated outside spaces containing such boilers or machinery, there shall be provided in a position outside such spaces an additional fire pump and its source of power and sea connection. If such a pump is operated by power, it shall comply with the requirements of subparagraph (b), and if it is manually operated it shall be provided with a hose and a 10 millimetre diameter nozzle through which it shall be capable of producing a jet of water having a throw of not less than 6 metres which can be directed on to any part of the ship.
+- (d) In every such ship there shall be provided a fire main, water service pipes and hydrants which shall comply with the requirements of regulation 31 and at least two fire hoses.
+
+(3) Every ship of Class XII of under 150 tons and of less than 21.34 metres in length shall be provided in a position outside the machinery spaces with either a power or a hand operated pump with a permanent sea connection, a hose with a nozzle at least 6 millimetres in diameter producing a jet of water having a throw of not less than 6 metres which can be directed on to any part of the ship, and in addition a spray nozzle suitable for use with the hose, provided that in any such ship of less than 15 metres in length and in any open ship of less than 21.34 metres in length, two fire buckets one of which shall be fitted with a lanyard may be substituted for such equipment but such buckets shall not be required in addition to buckets provided in compliance with paragraph (4).
+
+(4) Every ship of Class XII of under 150 tons shall be provided with portable fire extinguishers or with fire buckets in accordance with the following Table—
+
+| *Length of Ship* | *Minimum Number of Extinguishers or Buckets* |
+| --- | --- |
+| Under 21.34 metres | 2 |
+| 21.34 metres or over | 3 |
+
+- When fire buckets are provided at least one shall be fitted with a lanyard.
+
+(5) In addition to the requirements of paragraph (4) every ship of Class XII of under 150 tons which is fitted with oil-fired boilers or internal combustion type propelling machinery shall be provided with two portable fire extinguishers suitable for extinguishing oil fires.
+
+(6) Every ship of Class XII of under 150 tons being a fully-decked ship of 21.34 metres in length or over shall be provided with a fireman’s axe.
+
+## PART IV— — FIRE PREVENTION AND FIRE APPLIANCES
+
+### TANKERS OF CLASS VII(T)
+
+#### Tankers of under 500 tons
+
+**24.**[^key-55bc7a59695aff312b9900560297c614] (1) Regulation 17 shall apply to every tanker of Class VII(T) of under 500 tons as it applies to ships of Class VII of under 500 tons.
+
+(2) In addition to the requirements of paragraph (1) every tanker of Class VII(T) of under 500 tons shall be provided with at least one mobile foam appliance whereby foam is immediately available by simple and rapid means of operation for discharge in the area of the cargo manifolds.
+
+##### 25. Cargo tank purging or gas freeing Requirements for ships constructed on or after 1st September 1984[^key-162c34b82de7f4f57b5b4a994485ecdd][^key-7a227df3930da4a52f2b6105d779b02f]
+
+(1) In every tanker of Class VII(T) of under 500 tons arrangements for purging and/or gas freeing shall be such as to minimize the hazards due to the dispersal of flammable vapours in the atmosphere and to flammable mixtures in a cargo tank.
+
+(2) The operation shall be such that the flammable vapour is discharged—
+
+- (a) through the vent outlets as specified in regulation 23 of the Merchant Shipping (Cargo Ship Construction) Regulations 1997[^f00009]; or
+- (b) if the ship is one constructed on or after 1st February 1992, through outlets at least 2 metres above the cargo tank deck with a vertical efflux velocity of at least 30 metres per second during the gas-freeing operation; or
+- (c) through outlets at least 2 metres above the cargo tank deck with a vertical efflux velocity of at least 20 metres per second and through devices (other than flame screens) complying with Schedule 3 of Merchant Shipping Notice MSN 1671 so as to prevent the passage of flame into the cargo tanks;
+
+until the flammable vapour concentration in the outlet has been reduced to 30 per cent of the lower flammable limit. Thereafter, gas-freeing may be continued at the cargo tank deck level.
+
+##### 26. Cargo pump rooms[^key-d04d95bfe6f913b4aa396f0e65c900b8]
+
+(1) Except as otherwise provided in paragraph (2) in every tanker of Class VII(T) of under 500 tons, each cargo pump room and each pump room having a similar hazard shall be provided with either a fixed pressure water-spraying system comply with the requirements of Schedule 2 of Merchant Shipping Notice MSN 1666 or a fixed gas fire-extinguishing system complying with the requirements of Schedule 4 of Merchant Shipping Notice MSN 1666, which shall be operated from a readily accessible position outside the pump room, provided that where the fixed extinguishing system is a gas system—
+
+- (a) the alarm referred to in Schedule 4 in Merchant Shipping Notice MSN 1666 shall be safe for use in flammable cargo vapour/air mixture;
+- (b) a notice shall be exhibited at the controls stating that due to electrostatic ignition hazard, the system is to be used only for fire-extinguishing and not for inerting purposes;
+- (c) where the extinguishing medium used in the cargo pump room system is also used in systems serving other spaces, the quantity of medium provided or its delivery rate need not be more than the maximum required for the largest compartment.
+
+(2) In chemical tankers where the fixed fire-extinguishing system referred to in paragraph (1) is a gas system, the concentration shall be as specified in the Code for the Construction and Equipment of Ships carrying Dangerous Chemicals in Bulk.
+
+#### TANKERS OF CLASS VIII(T) — Tankers of 150 tons or over but under 500 tons
+
+**27.**[^key-7c5ca1f29f23dab8ee0436c0b5e4902f] (1) Regulations 17, 24(2) and 26 shall apply to tankers of Class VIII(T) of 150 tons or over but under 500 tons as they apply to ships of Classes VII and VII(T) of under 500 tons.
+
+(2) In addition, for tankers constructed on or after 1st September 1984, regulation 25 shall apply to tankers of Class VIII(T) as it applies to tankers of Class VII(T) of under 500 tons.
+
+#### Tankers of under 150 tons
+
+**28.**[^key-748aa98704db1f080cc0066f56a5fc1d] Regulation 20 shall apply to tankers of Class VIII(T) of under 150 tons as it applies to ships of Class VIII of under 150 tons. In addition there shall be provided a mobile foam appliance in accordance with regulation 24(2).
+
+#### TANKERS OF CLASSES VIII(A) AND IX(A)(T) — Tankers of under 500 tons
+
+**29.**[^key-7ce856721a9bf3b34840d9bc584f849b] (1) Regulations 27 and 28 shall apply to tankers of Classes VIII(A)(T) and IX(A)(T) as they apply to tankers of Class VIII(T).
+
+(2) The Secretary of State may exempt any tanker of Classes VIII(A)(T) or IX(A)(T) which is under 500 tons or which is not engaged on an international voyage from any of the requirements of these Regulations.
+
+## PART V— — FIRE PREVENTION AND FIRE APPLIANCES
+
+### GENERAL
+
+#### 30. Fire pumps[^key-2eb8befbb82338d89c981ae8a38cc131]
+
+(1) In every passenger ship which is required by these Regulations to be provided with fire pumps operated by power, such fire pumps (other than any emergency fire pump) shall together be capable of delivering for fire fighting purposes a quantity of water, under the conditions and at the pressure specified in regulation 31 of not less than two thirds of the quantity required to be dealt with by the bilge pumps provided in the ship in compliance with Part III of the Merchant Shipping (Passenger Ship Construction and Survey) Regulations 1984[^f00010];
+
+(2) In every ship, other than a passenger ship, which is required by these Regulations to be provided with fire pumps operated by power, such fire pumps (other than any emergency fire pump) shall together be capable of delivering for fire fighting purposes a quantity of water, under the conditions and at the pressure specified in Schedule 7 in Merchant Shipping Notice MSN 1665.
+
+(3) In every ship which is required by these Regulations to be provided with more than one fire pump operated by power (other than any emergency pump) every such fire pump shall have a capacity of not less than 80 per cent of the total capacity of the fire pumps required by paragraph (1) divided by the number of fire pumps required by these Regulations to be provided in the ship, provided that each pump has a capacity of not less than 25 cubic metres per hour. When more fire pumps operated by power than are required by these Regulations are provided in any ship, the Secretary of State may permit the capacity of any such additional fire pumps to be less than 80 per cent.
+
+(4) In every ship of Class II(A) any emergency fire pump shall be situated in a position aft of the ship’s collision bulkhead.
+
+#### 31. Fire main, water service pipes and hydrants[^key-1c1a6e22efc8b5790eb9ed9b0509890d]
+
+(1) In every ship which is required by these Regulations to be provided with fire pumps operated by power, the diameter of the fire main and of the water service pipes connecting the hydrants thereto shall be sufficient for the effective distribution of the maximum discharge required by these Regulations from—
+
+- (a) where only one pump is required by the Regulations, that pump; or
+- (b) where two such pumps are so required, both pumps operating simultaneously; or
+- (c) where more than two such pumps are so required, the two largest of such pumps operating simultaneously;
+
+provided that in any ship other than a passenger ship the diameter of the fire main and of the water service pipes shall be required to be sufficient only for the discharge of 140 cubic metres of water per hour.
+
+(2) Any fire pump required to be provided by these Regulations, when discharging the quantity of water required by paragraph (1) through adjacent fire hydrants in any part of the ship from nozzles specified in regulation 32 shall be capable of maintaining the pressures at any hydrant specified in Schedule 7 in Merchant Shipping Notice MSN 1665.
+
+(3)
+
+- (a) Where any ship is required by these Regulations to be provided with appliances capable of producing two jets of water under the conditions required by these Regulations, hydrants sufficient in number shall be so positioned as to enable at least two jets of water, not emanating from the same hydrant, one of which shall be from a single length of hose, to reach any part of the ship normally accessible to the passengers or crew while the ship is being navigated, and to any store room and any part of any cargo space when empty except that in any special category space or ro-ro cargo space two jets shall reach any part of the space, each from a single length of hose. Such hydrants shall be positioned near the accesses to the protected spaces.
+- (b) Where any ship is required by these Regulations to be provided with appliances capable of producing one jet of water under the conditions required by these Regulations, hydrants sufficient in number shall be so positioned as to enable one jet of water from a single length of hose to reach any part of the ship normally accessible to the passengers or crew while the ship is being navigated and any store room and any part of any cargo space when empty.
+
+(4) The fire main shall comply with the requirements set out in Schedule 7 in Merchant Shipping Notice MSN 1665.
+
+#### 32. Fire hoses, nozzles, etc.[^key-b665dec936fccc35ab655961cb1ab639]
+
+(1) Fire hoses provided in compliance with these Regulations shall not exceed 18 metres in length except that in ships having a moulded breadth of 27 metres or more, the length of fire hoses for exterior locations and for cargo spaces may exceed 18 metres but shall not exceed 27 metres in length. In the case of—
+
+- (a) **a ship constructed before 1st February 1992—**
+  - (i) every such hose forming part of the ship’s equipment before that date shall be made of closely woven flax, canvas or other suitable material; and
+  - (ii) every other such hose shall be made of non-perishable material;
+- (b) **a ship constructed on or after 1st February 1992**, every such hose shall be made of non-perishable material;
+
+and every such hose shall be provided with couplings, branch pipes, other necessary fittings and nozzles, as required by these Regulations.
+
+(2) Every fire hose provided in compliance with these Regulations together with the tools and fittings necessary for its use, shall be kept in a conspicuous position near the hydrants or connections with which it is intended to be used. In interior locations in passenger ships, fire hoses shall be connected to the hydrants at all times. Hose diameters shall be not less than 64 millimetres if unlined or 45 millimetres if lined except that smaller diameter hoses may be provided in small ships if larger diameter hoses would be difficult to deploy.
+
+(3) Except in partially decked ships of Classes V, VI(A) and in ships of Class XII, fire hoses provided in compliance with these Regulations shall not be used for any purpose other than for fire fighting or testing the fire appliances.
+
+(4)
+
+- (a) Every ship which is required by these Regulations to be provided with fire pumps operated by power shall be provided with nozzles of 12 millimetres, 16 millimetres, 19 millimetres in diameter or as near thereto in diameter as possible. Nozzles larger in diameter may be provided if the requirements of these Regulations relating to the provision of water for fire fighting purposes are otherwise complied with.
+- (b) For machinery spaces and exterior locations the diameter of the nozzles shall be such as to obtain the maximum possible discharge from the minimum number of jets of water and at the pressure required by these Regulations from the smallest fire pump permitted by regulation 30(3), provided that the diameter of the nozzles shall not be required to be greater than 19 millimetres.
+- (c) For accommodation and service spaces the diameter of the nozzles shall not be required to be greater than 12 millimetres.
+- (d) Every nozzle provided in compliance with these Regulations shall be capable of producing a water-spray and a plain water jet and shall incorporate a shut-off facility.
+
+#### 33. Fixed low-expansion foam fire-extinguishing systems in machinery spaces fitted in addition to requirements of these Regulations[^key-6f3c732f40a7e853a89bf3318e29c693]
+
+(1) Where in any machinery space a fixed low-expansion foam fire-extinguishing system is fitted in addition to the requirements of these Regulations, such a system shall be capable of discharging through fixed discharge outlets in not more than five minutes a quantity of foam sufficient to cover to a depth of 150 millimetres the largest single area over which oil fuel is liable to spread. The system shall be capable of generating foam suitable for extinguishing oil fires. Means shall be provided for effective distribution of the foam through a permanent system of piping and control valves or cocks to suitable discharge outlets, and for the foam to be effectively directed by fixed sprayers onto other main fire hazards in the protected space. The expansion ratio of the foam shall not exceed 12 to 1.
+
+(2) The means of control of any such system shall be readily accessible and simple to operate and shall be grouped together in as few locations as possible at positions not likely to be cut off by a fire in the protected space.
+
+#### 34. Fixed fire-extinguishing systems not required by these Regulations[^key-10dd8d0167df5ed075530f1504489033]
+
+In every ship where a fixed extinguishing system not required by these Regulations is provided, such a system shall be to the satisfaction of the Secretary of State, shall be installed outside the space or spaces protected by such a system and shall be so arranged that a fire in the space or spaces protected will not put any such system out of action.
+
+#### 35. Fire extinguishers[^key-868bb314025ed3d910ff6a7f38786579]
+
+(1) Non-portable foam, carbon dioxide and dry powder fire extinguishers provided in compliance with these Regulations shall be of approved types and designs and shall meet the requirements of Schedules 2, 3 and 4 of Merchant Shipping Notice MSN 1665.
+
+(2) Portable fire extinguishers provided in compliance with these Regulations shall be of approved types and designs and shall meet the requirements set out in Schedule 8 of Merchant Shipping Notice MSN 1665.
+
+(3) Every fire extinguisher provided in compliance with these Regulations shall be kept fully charged at all times.
+
+(4) Spared charges shall be provided to the extent of at least 50 per cent for each type of fire extinguisher provided in compliance with these Regulations, except for each such fire extinguisher which is of a type that cannot readily be recharged while the ship is at sea, an additional portable fire extinguisher of the same type, or its equivalent, shall be provided in lieu of a spare charge.
+
+#### 36. Fire buckets[^key-5abc57eb2bcc02d9d921a6c8d9202c52]
+
+(1) Every fire bucket provided in compliance with these Regulations shall be painted red and shall be clearly and permanently marked with the word “FIRE”. Except in open ships every such fire bucket shall be kept filled with sand or water.
+
+(2) Except in open ships, fire buckets provided in compliance with these Regulations shall not be used for any purpose other than extinguishing fire.
+
+#### 37. Fireman’s outfits[^key-81a615262b3652408e4b435727c06b07]
+
+(1) Every fireman’s outfit carried in compliance with these Regulations shall consist of—
+
+- (a) a breathing apparatus complying with the requirements specified in Schedule 5 of Merchant Shipping Notice MSN 1665; and
+- (b) personal equipment comprising—
+  - (i) a portable self-contained electric battery-operated safety lamp of an approved type capable of functioning efficiently for a period of at least three hours;
+  - (ii) a fireman’s axe;
+  - (iii) protective clothing of material capable of protecting the skin from the heat radiating from the fire and from burns and scalding by steam; the outer surface shall be water resistant;
+  - (iv) boots and gloves of rubber or other electrically non-conducting material; and
+  - (v) a rigid helmet providing effective protection against impact.
+
+(2) Firemen’s outfits shall be stored in readily accessible positions which are not likely to be cut off in the event of fire.
+
+#### 38. Means for stopping machinery, shutting off oil fuel suction pipes and closing of openings[^key-ae6b727ea816bdb17e5df0af56a548c3]
+
+(1) In every ship to which these Regulations apply means shall be provided—
+
+- (a) for stopping ventilating fans serving machinery, accommodation and cargo spaces;
+- (b) for closing all skylights, doorways, ventilators, annular spaces around funnels and other openings to such spaces; and
+- (c) to permit the release of smoke from machinery spaces.
+
+- Such means shall be capable of being operated from positions outside the said spaces and which would not be made inaccessible by a fire within such spaces.
+
+(2) Machinery driving forced and induced draught fans, oil fuel transfer pumps, oil fuel unit pumps and other similar fuel pumps shall be fitted with remote controls situated outside the spaces in which such machinery or pumps are situated and which would not be made inaccessible by a fire within such spaces. The controls shall be capable of stopping such machinery or pumps in the event of fire in such spaces. For machinery spaces in passenger ships such controls together with the controls required in paragraph (1) shall be situated at one control position or grouped in as few positions as possible. Such controls shall have safe access from the open deck.
+
+(3) Subject to paragraph (4), every pipe connected to any oil fuel or lubricating oil storage, settling, or daily service tank, not being a double bottom tank, which if damaged would permit discharge of the contents so as to cause a fire hazard, shall be fitted with a valve or cock which shall be secured to the tank to which it is connected and which shall be capable of being closed from a readily accessible position outside the space in which the tank is situated, provided that in the case of any inlet pipe to such a tank, a non-return valve secured to the tank may be substituted. In the case of an oil fuel or lubricating oil deep tank situated in or adjacent to a shaft or pipe tunnel or similar space, a valve or valves (additional to the valve required to be fitted on the tank) may be fitted on the pipe line or lines outside the tunnel or tunnels or similar space to enable control to be exercised in the event of fire. Such valve if fitted in the machinery space shall be operated from a position outside the space.
+
+(4) The valve or cock required by paragraph (3) may be dispensed with in the case of a pipe connected to a lubricating oil tank fitted in a space other than a machinery space of Category A provided that the safety of the ship is not impaired.
+
+#### 39. Availability of fire-fighting appliances[^key-5c9788654cf1ff672ba5ddd99a8c5b7f]
+
+Fire appliances carried in any ship shall be maintained in good order and shall be kept available for immediate use at all times. All moveable fire appliances, other than firemen’s outfits, carried in compliance with these Regulations shall be stowed where they will be readily accessible from the spaces in which they are intended to be used and, in particular, one of the portable fire extinguishers intended for use in any space shall be stowed near the entrance to that space.
+
+## PART VI— — STRUCTURAL FIRE PROTECTION
+
+### PASSENGER SHIPS
+
+#### SHIPS OF CLASSES II(A) TO VI(A) INCLUSIVE TO WHICH THESE REGULA TIONS APPLY
+
+##### 40. Application[^key-6768eb0d1890c896b64e628993c4a9e4]
+
+Regulations 41 to 44 inclusive apply to passenger ships of Classes II(A) to VI(A) inclusive to which these Regulations apply.
+
+##### 41. Structure[^key-b99ca27e6efc77c48f0690a0ef7a5dc3]
+
+The hull, superstructure, structural bulkheads, decks and deckhouses of every ship of Classes II(A), III and IV shall be constructed of steel. The Secretary of State may exempt any ship wholly or in part from the requirement of this regulation.
+
+##### 42. Divisions[^key-c23a9a964d131395772db134a51ee5aa]
+
+In every ship fitted with internal combustion propulsion machinery or oil-fired boilers the accommodation spaces shall be separated from such machinery spaces by “A” Class divisions. In addition, in every ship constructed on or after 1st September 1984, fitted with internal combustion propulsion machinery or oil-fired boilers the spaces containing such machinery shall be bounded by steel or equivalent material which shall be gastight.
+
+##### 43. Restriction of Combustible Materials[^key-165e0bec23882fac87a699d5684d940f][^key-0aeda9fdbc24faf66779999d01d9fe22]
+
+(1) In every ship constructed on or after 1st November 1992 but before 1st July 1998 of Class II(A), Class III, Class IV, Class V carrying 250 passengers or more operating in category B waters, Class V carrying 50 passengers or more operating in category C waters, Class VI carrying 50 passengers or more or Class VI(A), all accommodation bulkheads, linings, ceilings and their associated grounds shall be constructed of non-combustible materials and their exposed surfaces shall have qualities of resistance to the propagation of flame to the satisfaction of the Secretary of State; and
+
+(2) In every ship constructed on or after 1st July 1998 of Class II(A), Class III, Class IV, Class V carrying 250 passengers or more operating in category B waters, Class V carrying 50 passengers or more operating in category C waters, Class VI carrying 50 passengers or more or Class VI(A), all accommodation bulkheads, linings, ceilings and their associated grounds shall be constructed of non-combustible materials and their exposed surfaces shall have low flame spread.
+
+##### 44. Means of escape[^key-bc4763e138620f8a053d1f965fa21fe6]
+
+(1) The requirements of paragraphs (2), (3), (4) and (5) shall have effect in relation to a ship constructed **on or after 1st September 1984 but before 31st October 1992**, on and after 1st April 1998. Prior to such implementation dates, such ships shall comply with the requirements previously in force for such ships under the Merchant Shipping (Fire Protection) Regulations 1984[^f00011], regulations 110 (1), (3), (4) and (5), or, as the case may be, the Merchant Shipping (Passenger Ship Construction) Regulations 1980[^f00012], regulations 128 (1), (3), (4) and (5), and 131 (2)(a), (e), (f) and (h) shall apply as if those regulations had not been revoked.
+
+(2) Every ship which is not an open ship of Class V, VI or VI(A) shall be provided with doorways, stairways, ladderways and other ways to provide readily accessible means of escape to the lifeboat and liferaft embarkation decks for all persons in the ship from accommodation spaces, service spaces and other spaces in which the crew is normally employed, other than machinery spaces. The means of escape shall be so designed and constructed as to be capable of being easily used by the persons for whom they are intended. The number, width and continuity of such means of escape shall be sufficient, having regard to the number of persons by whom they may be used.
+
+(3) Every ship which is not an open ship shall be provided with adequate arrangements to enable passengers readily to evacuate the ship in the event of an emergency situation. On every deck there shall be at least two means of escape from each public space or main compartment, one of which shall lead to an open deck area which shall be of sufficient area, having regard to the number of persons which the ship may carry. Such means of escape shall be as widely separated as practicable. Adequate overside means of escape shall be provided by way of escape windows or doors on each side of the vessel. At least two such escapes shall be available on each side of the vessel on each deck and shall be capable of being opened from either side. Where overside means of escape do not open onto deck walkways, suitable toe and hand rails shall be provided on the outside of the vessel to permit fore and aft movement. Adequate open deck areas shall be provided close to stowage positions for life-saving appliances. Furniture which if loose could cause escape routes to become hazardous shall be securely fastened to the deck.
+
+(4) Where any of the escapes referred to in paragraph (2) are stairways, they shall provide for safe escape for the number of persons by whom they will be used having regard to the number, width, continuity and accessibility of other escape ways. The minimum clear width of such stairways shall be not less than 50 millimetres for every 5 persons by whom they will be used or 750 millimetres whichever is the greater, except that where a minimum clear width of 750 millimetres is not practicable a clear width of not less than 600 millimetres is permitted having regard to the number of persons who will use the stairway. Stairways shall, where practicable, be arranged in the fore and aft direction and at an inclination of not less than 45 degrees to the vertical.
+
+(5) In every ship where appropriate, the means of escape shall be provided with either—
+
+- (a) inherently luminous escape signs, or
+- (b) electrically powered signs or lighting which is supplied by a battery or batteries which are continuously charged in normal service.
+
+(6) In every ship the means of escape from any public room which may be used for the purpose of concerts, cinema shows and similar forms of entertainment shall be adequate, having regard to the number of persons who may be in the audience, and the seating shall be arranged in rows to ensure free access to the exits. When in any such public room subdued lighting is used, the exits shall be clearly marked with illuminated signs and any doors shall be constructed to open outwards.
+
+(7) In the machinery space in every ship which is decked in way of machinery space, there shall be provided from each engine room, shaft tunnel and boiler room two means of escape as widely separated as practicable. The two means of escape shall consist of two sets of steel ladders leading to separate doors in the casing or elsewhere from which there is access to the lifeboat or liferaft embarkation deck or decks. In any such ship the Secretary of State may permit one of the means of escape required by this paragraph to be dispensed with having regard to the nature and location of the space and whether persons are normally employed in that space.
+
+Requirements for ships constructed on or after 25th May 1980
+
+(8) In every ship one of the means of escape from the machinery spaces where the crew is normally employed shall avoid access to any special category spaces or ro-ro cargo spaces.
+
+## PART VII— — SPECIAL REQUIREMENTS FOR SHIPS CARRYING DANGEROUS GOODS
+
+### 45. Requirements for ships constructed on or after 1st February 1992 Application and special requirements[^key-dddcaacb21011d3e3108c560ac3c7205]
+
+(1)[^key-4758a4a10a87bd5fd15115ed060d26ec] Subject to paragraphs (2) and (2A), every passenger ship and every cargo ship which is intended, or which contains cargo spaces which are intended, for the carriage of dangerous goods, must comply with the protective requirements prescribed in Merchant Shipping Notice 1669 (M) (Amendment 1).
+
+(2) For a cargo ship of less than 500 tons, the Secretary of State may (if the ship is a United Kingdom ship) reduce the said protective requirements; and, if–
+
+- (a) a cargo ship of less than 500 tons being a United Kingdom ship, the Secretary of State has reduced the said protective requirements; or
+- (b) a cargo ship of less than 500 tons not being a United Kingdom ship, the Government of the State whose flag the ship is entitled to fly has reduced the said protective requirements pursuant to paragraph 2.1 of regulation 19[^key-43453ee451d60450177a6cfbdc215719] of Chapter II-2 of the International Convention for the Safety of Life at Sea 1974;
+
+the ship may comply with the reduced requirements instead of the full protective requirements.
+
+(2A)[^key-9471a7fe7ebacaac319b7c63232163a9] A cargo ship of less than 500 tons engaged on international voyages constructed on or after 1st February 1992 and before 1st July 2002, must comply with paragraph 3 of regulation 19 of Chapter II-2 of the International Convention for the Safety of Life at Sea 1974, except that such a ship constructed before 1st July 1998 is not required to comply with paragraphs 3.10.1 and 3.10.2 of that regulation.
+
+(3) This regulation shall not apply to ships or spaces intended for the carriage of dangerous goods in limited quantities as referred to in section 18 of the general introduction to the International Maritime Dangerous Goods Code.
+
+(4) Nothing in this regulation shall be taken to require duplication of anything already provided in a ship in compliance with other requirements of these Regulations.
+
+(5)[^key-1bf4150e7dff4ea727836ca8ef102faa] In this regulation, any reference to Chapter II-2 of the International Convention for the Safety of Life at Sea 1974 (“**the Convention**”) is to be construed—
+
+- (a) as a reference to Chapter II-2 of the Convention as modified from time to time; and
+- (b) as, if Chapter II-2 of the Convention is replaced, a reference to the replacement.
+
+(6) For the purposes of paragraph (5), Chapter II-2 of the Convention is modified or replaced if the modification or replacement takes effect in accordance with Article VIII of the Convention.
+
+(7) A modification or replacement of Chapter II-2 of the Convention has effect at the time such modification or replacement comes into force in accordance with Article VIII of the Convention.
+
+## PART VIII— — EQUIVALENTS, EXEMPTIONS, PENALTIES AND DETENTION
+
+### 46. Alternative construction and equivalents[^key-1dbf081e55e66c7c6d0bb2eb2e14834a]
+
+(1) Where these Regulations require that the ship shall be constructed in a particular manner or that a particular fitting, material, appliance or apparatus or type thereof shall be fitted or carried in a ship, or that any particular provision shall be made, the Secretary of State shall permit the ship to be constructed in any other manner or shall approve any other fitting, material, appliance or apparatus, or type thereof, to be fitted or carried, or any other provision to be made in that ship, if he is satisfied by trial thereof or otherwise that such other construction, fitting, material, appliance or apparatus, or type thereof, or provision is at least as effective as that required by these Regulations.
+
+(2) For the purposes of these Regulations, the results of a verification or test shall be accepted if the verification or test is carried out–
+
+- (a) in accordance with these Regulations or with a standard, code of practice, specification or technical description of an EEA State [^key-8450dff560b765a7c54c4761b6d0af33]... offering equivalent levels of safety, suitability and fitness for purpose; and
+- (b) by a body or laboratory of an EEA State [^key-8450dff560b765a7c54c4761b6d0af33]... offering suitable and satisfactory guarantees of technical and professional competence and independence.
+
+### 47. Exemptions[^key-49f1aee890d833fd312adcf6c7f15d02]
+
+The Secretary of State may grant exemptions from all or any of the provisions of these Regulations (as may be specified in the exemption) for classes of cases or individual cases on such terms (if any) as he may so specify and may, subject to giving reasonable notice, alter or cancel any such exemption.
+
+### 48. Penalties[^key-949f3f940f30c6debe8067ef215294f6]
+
+(1) If a ship to which these Regulations apply proceeds or attempts to proceed to sea or on a voyage or excursion without complying with the requirements of these Regulations, the owner and master of the ship shall each be guilty of an offence in respect of each case of non-compliance and liable on summary conviction to a fine not exceeding the statutory maximum or on conviction on indictment, to imprisonment for a term not exceeding two years and a fine.
+
+(2) It shall be a defence to a charge under this regulation to prove that the person charged took all reasonable steps to avoid committing the offence.
+
+### 49. Powers to detain[^key-3926018a8efa58a602c589a81efa5902]
+
+In any case where a ship does not comply with the requirements of these Regulations, the ship shall be liable to be detained and section 284 of the Merchant Shipping Act 1995 (which relates to the detention of a ship) shall have effect in relation to the ship, subject to the modification that as if for the words |doquote|this Act|dcquote| wherever they appear, there were substituted “the Merchant Shipping (Fire Protection: Small Ships) Regulations 1998.”
+
+Signed by authority of the Secretary of State for the Environment, Transport and the Regions
+
+Glenda Jackson
+
+Parliamentary Under-Secretary of State,
+
+Department of the Environment, Transport and the Regions
+
+7th April 1998
+
+(This note is not part of the Regulations)
+
+These Regulations consolidate requirements in respect of ships of Class II(A) of less than 21.34 metres, Classes III to VI(A), and Classes VII to IX, XI and XII of under 500 tons which were contained in the Merchant Shipping (Fire Appliances) Regulations 1980 (S.I.[1980/544](https://www.legislation.gov.uk/uksi/1980/544)) as amended, the Merchant Shipping (Passenger Ship Construction) Regulations 1980 (S.I.[1980/535](https://www.legislation.gov.uk/uksi/1980/535)) as amended, the Merchant Shipping (Cargo Ship Construction and Survey) Regulations 1981 (S.I.[1981/572](https://www.legislation.gov.uk/uksi/1981/572)) as amended, the Merchant Shipping (Fire Protection) Regulations 1984 (S.I.[1984/1218](https://www.legislation.gov.uk/uksi/1984/1218)) as amended and the Merchant Shipping (Fire Protection) (Ships built before 25th May 1980) Regulations 1985 (S.I.[1985/1218](https://www.legislation.gov.uk/uksi/1985/1218)) as amended.
+
+The Regulations implement (in part) the Safety of Life at Sea Convention 1974 (SOLAS), as modified by its Protocol of 1978 and amended by amendments adopted in 1981, 1983, 1988, 1989, 1991, 1993 and 1994.
+
+Merchant Shipping Notices referred to in these Regulations are obtainable from distribution agents Eros Marketing Support Services Ltd, Unit B, Imber Court Trading Estate, Orchard Lane, East Molesey, Surrey KT8 0BN (Telephone Number: 0181 957 5028).
+
+Copies of the British Standard specifications and International Standards referred to in these Regulations may be obtained from any of the sale outlets operated by the British Standards Institution, or by post from the British Standards Institution at Linford Wood, Milton Keynes, MK14 6LE (Telephone Number 01908 320066).
+
+SOLAS, its Protocol, amendments to SOLASIMO Publications and Resolutions are obtainable from the International Maritime Organization, 4 Albert Embankment, London SE1 7SR.
+
+## Annotations
+
+[^f00001]: Footnote: [1995 c. 21](https://www.legislation.gov.uk/ukpga/1995/21); sections 85 and 86 were amended by the Merchant Shipping and Maritime Securities Act [1997 (c. 28)](https://www.legislation.gov.uk/ukpga/1997/28), section 8.
+
+[^key-43be1a3756d922f8906912951151ef84]: Modification: Regulations excluded (16.12.1998) by [The Merchant Shipping (Vessels in Commercial Use for Sport or Pleasure) Regulations 1998 (S.I. 1998/2771)](https://www.legislation.gov.uk/uksi/1998/2771), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1998/2771/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/1998/2771/regulation/4), [5](https://www.legislation.gov.uk/uksi/1998/2771/regulation/5), [Schs. 1](https://www.legislation.gov.uk/uksi/1998/2771/schedule/1), [2](https://www.legislation.gov.uk/uksi/1998/2771/schedule/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/1998/2771/regulation/3)) (as amended (6.4.2016) by [S.I. 2016/353](https://www.legislation.gov.uk/uksi/2016/353), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/353/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2016/353/regulation/3), [Schs. 1](https://www.legislation.gov.uk/uksi/2016/353/schedule/1), [2](https://www.legislation.gov.uk/uksi/2016/353/schedule/2))
+
+[^key-d86107a0e99459339edfa4041cee1f7d]: Modification: Regulations excluded (3.8.1998) by [The Merchant Shipping (Small Workboats and Pilot Boats) Regulations 1998 (S.I. 1998/1609)](https://www.legislation.gov.uk/uksi/1998/1609), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1998/1609/regulation/1/1), [5(1)](https://www.legislation.gov.uk/uksi/1998/1609/regulation/5/1), [6(1)](https://www.legislation.gov.uk/uksi/1998/1609/regulation/6/1), [Sch.](https://www.legislation.gov.uk/uksi/1998/1609/schedule) (as amended (6.4.2016) by [S.I. 2016/354](https://www.legislation.gov.uk/uksi/2016/354), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/354/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2016/354/schedule))
+
+[^key-d8df3f23211d2b5f793e9a7097cd6391]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/1998/1011) excluded (13.12.2023) by [The Merchant Shipping (Small Workboats and Pilot Boats) Regulations 2023 (S.I. 2023/1216)](https://www.legislation.gov.uk/uksi/2023/1216), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1216/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2023/1216/regulation/5), [Sch. 1](https://www.legislation.gov.uk/uksi/2023/1216/schedule/1) (with [regs. 4](https://www.legislation.gov.uk/uksi/2023/1216/regulation/4), [6](https://www.legislation.gov.uk/uksi/2023/1216/regulation/6))
+
+[^key-5aa49be49ecda5137e35577d15130552]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/1998/1011) excluded (12.12.2025) by [The Merchant Shipping (Vessels in Commercial Use for Sport or Pleasure) Regulations 2025 (S.I. 2025/1195)](https://www.legislation.gov.uk/uksi/2025/1195), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1195/regulation/1/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2025/1195/schedule/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2025/1195/schedule/4) (with [reg. 4](https://www.legislation.gov.uk/uksi/2025/1195/regulation/4))
+
+[^key-772b3475f3a74694b03b0d3f44722cd8]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/1998/1011/regulation/1) in force at 11.5.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/1011/regulation/1/1)
+
+[^key-092d0cb324e6f8d13d69a2c7b8c709d1]: Textual amendment: Word in [reg. 1(2)](https://www.legislation.gov.uk/uksi/1998/1011/regulation/1/2) substituted (26.4.1999) by [The Merchant Shipping (Fire Protection) (Amendment) Regulations 1999 (S.I. 1999/992)](https://www.legislation.gov.uk/uksi/1999/992), [regs. 1](https://www.legislation.gov.uk/uksi/1999/992/regulation/1), [29(a)](https://www.legislation.gov.uk/uksi/1999/992/regulation/29/a)
+
+[^key-de5071dee0f1460d5dc7dbd4b406aa4c]: Textual amendment: Words in [reg. 1](https://www.legislation.gov.uk/uksi/1998/1011/regulation/1) substituted (5.12.2016) by [The Merchant Shipping (Marine Equipment) Regulations 2016 (S.I. 2016/1025)](https://www.legislation.gov.uk/uksi/2016/1025), [reg. 1](https://www.legislation.gov.uk/uksi/2016/1025/regulation/1), [Sch. para. 3](https://www.legislation.gov.uk/uksi/2016/1025/schedule/paragraph/3) (with [reg. 3](https://www.legislation.gov.uk/uksi/2016/1025/regulation/3))
+
+[^key-0174da750b4f743051ce9c66abb793d0]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/1998/1011/regulation/1/2) inserted (29.12.2022) by [The Merchant Shipping (Safety Standards for Passenger Ships on Domestic Voyages) (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1269)](https://www.legislation.gov.uk/uksi/2022/1269), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2022/1269/regulation/1/b), [2(2)(a)](https://www.legislation.gov.uk/uksi/2022/1269/regulation/2/2/a)
+
+[^key-89679c9f9c48226b19c133642874a638]: Textual amendment: Word in [reg. 1(2)](https://www.legislation.gov.uk/uksi/1998/1011/regulation/1/2) substituted (5.1.2026) by [The Merchant Shipping (Marine Equipment) Regulations 2025 (S.I. 2025/1280)](https://www.legislation.gov.uk/uksi/2025/1280), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1280/regulation/1/1), [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2025/1280/schedule/1/paragraph/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2025/1280/regulation/3))
+
+[^key-dd055f826d75c6db463874c82d5f5451]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/1998/1011/regulation/1/2) substituted (11.6.2024) by [The Merchant Shipping (Carriage of Dangerous Goods and Harmful Substances) (Amendment) Regulations 2024 (S.I. 2024/636)](https://www.legislation.gov.uk/uksi/2024/636), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/636/regulation/1/1), [Sch. 1 para. 5(a)](https://www.legislation.gov.uk/uksi/2024/636/schedule/1/paragraph/5/a) (with [reg. 4](https://www.legislation.gov.uk/uksi/2024/636/regulation/4))
+
+[^key-433d8640d6e1fafccfa1bce486c999ad]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/1998/1011/regulation/1/2) substituted (11.6.2024) by [The Merchant Shipping (Carriage of Dangerous Goods and Harmful Substances) (Amendment) Regulations 2024 (S.I. 2024/636)](https://www.legislation.gov.uk/uksi/2024/636), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/636/regulation/1/1), [Sch. 1 para. 5(b)](https://www.legislation.gov.uk/uksi/2024/636/schedule/1/paragraph/5/b) (with [reg. 4](https://www.legislation.gov.uk/uksi/2024/636/regulation/4))
+
+[^key-2c0a41c2cb0e28aa6c9a6ae7561d9c97]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/1998/1011/regulation/1/2) omitted (20.12.2018) by virtue of [The Merchant Shipping (Miscellaneous Provisions) (Amendments etc.) (EU Exit) Regulations 2018 (S.I. 2018/1221)](https://www.legislation.gov.uk/uksi/2018/1221), [regs. 2(a)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/a), [3(1)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/3/1)[(2)(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/3/2/b)
+
+[^key-ba72c754d890a3493d393f797619e936]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/1998/1011/regulation/1/2) substituted (20.12.2018) by [The Merchant Shipping (Miscellaneous Provisions) (Amendments etc.) (EU Exit) Regulations 2018 (S.I. 2018/1221)](https://www.legislation.gov.uk/uksi/2018/1221), [regs. 2(a)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/a), [3(1)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/3/1)[(2)(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/3/2/b)
+
+[^key-5abbf11394c0d0239f2f4bc3347a965d]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/1998/1011/regulation/1/2) inserted (26.4.1999) by [The Merchant Shipping (Fire Protection) (Amendment) Regulations 1999 (S.I. 1999/992)](https://www.legislation.gov.uk/uksi/1999/992), [regs. 1](https://www.legislation.gov.uk/uksi/1999/992/regulation/1), [29(c)](https://www.legislation.gov.uk/uksi/1999/992/regulation/29/c)
+
+[^key-20292f233db338a2d91aeab1f4cd8580]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/1998/1011/regulation/1/2) substituted (11.6.2024) by [The Merchant Shipping (Carriage of Dangerous Goods and Harmful Substances) (Amendment) Regulations 2024 (S.I. 2024/636)](https://www.legislation.gov.uk/uksi/2024/636), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/636/regulation/1/1), [Sch. 1 para. 5(c)](https://www.legislation.gov.uk/uksi/2024/636/schedule/1/paragraph/5/c) (with [reg. 4](https://www.legislation.gov.uk/uksi/2024/636/regulation/4))
+
+[^key-31ad87e6bbf027b631ac20f8effc6fce]: Textual amendment: Word in [reg. 1(2)](https://www.legislation.gov.uk/uksi/1998/1011/regulation/1/2) omitted (26.4.1999) by virtue of [The Merchant Shipping (Fire Protection) (Amendment) Regulations 1999 (S.I. 1999/992)](https://www.legislation.gov.uk/uksi/1999/992), [regs. 1](https://www.legislation.gov.uk/uksi/1999/992/regulation/1), [29(d)](https://www.legislation.gov.uk/uksi/1999/992/regulation/29/d)
+
+[^key-1b1fe091a8a54d5d39ce5a805885e6ea]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/1998/1011/regulation/1/2) inserted (26.4.1999) by [The Merchant Shipping (Fire Protection) (Amendment) Regulations 1999 (S.I. 1999/992)](https://www.legislation.gov.uk/uksi/1999/992), [regs. 1](https://www.legislation.gov.uk/uksi/1999/992/regulation/1), [29(e)](https://www.legislation.gov.uk/uksi/1999/992/regulation/29/e)
+
+[^key-c36c42b2930f3c8910538399e0f1d46f]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/1998/1011/regulation/1/2) substituted (26.4.1999) by [The Merchant Shipping (Fire Protection) (Amendment) Regulations 1999 (S.I. 1999/992)](https://www.legislation.gov.uk/uksi/1999/992), [regs. 1](https://www.legislation.gov.uk/uksi/1999/992/regulation/1), [29(f)](https://www.legislation.gov.uk/uksi/1999/992/regulation/29/f)
+
+[^key-7068a441314640327a2c8d95f73e4f5f]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/1998/1011/regulation/1/2) substituted (5.12.2005) by [The Civil Partnership Act 2004 (Amendments to Subordinate Legislation) Order 2005 (S.I. 2005/2114)](https://www.legislation.gov.uk/uksi/2005/2114), [art. 1](https://www.legislation.gov.uk/uksi/2005/2114/article/1), [Sch. 15](https://www.legislation.gov.uk/uksi/2005/2114/schedule/15)
+
+[^key-828772bfd6c0a73ba5f25e0d06e4602a]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/1998/1011/regulation/1/2) substituted (31.12.2020) by [The Merchant Shipping (Miscellaneous Provisions) (Amendments etc.) (EU Exit) Regulations 2018 (S.I. 2018/1221)](https://www.legislation.gov.uk/uksi/2018/1221), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/b), [Sch. para. 5(2)(a)](https://www.legislation.gov.uk/uksi/2018/1221/schedule/paragraph/5/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-0ab425b61131d2db7336d3abef530757]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/1998/1011/regulation/1/2) omitted (26.4.1999) by virtue of [The Merchant Shipping (Fire Protection) (Amendment) Regulations 1999 (S.I. 1999/992)](https://www.legislation.gov.uk/uksi/1999/992), [regs. 1](https://www.legislation.gov.uk/uksi/1999/992/regulation/1), [29(g)](https://www.legislation.gov.uk/uksi/1999/992/regulation/29/g)
+
+[^key-9b094d82067ee504b8cc3a7340ef2b2d]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/1998/1011/regulation/1/2) substituted (26.4.1999) by [The Merchant Shipping (Fire Protection) (Amendment) Regulations 1999 (S.I. 1999/992)](https://www.legislation.gov.uk/uksi/1999/992), [regs. 1](https://www.legislation.gov.uk/uksi/1999/992/regulation/1), [29(h)](https://www.legislation.gov.uk/uksi/1999/992/regulation/29/h)
+
+[^key-bee9599123b80142ec9c2c51b2639948]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/1998/1011/regulation/1/2) inserted (26.4.1999) by [The Merchant Shipping (Fire Protection) (Amendment) Regulations 1999 (S.I. 1999/992)](https://www.legislation.gov.uk/uksi/1999/992), [regs. 1](https://www.legislation.gov.uk/uksi/1999/992/regulation/1), [29(i)](https://www.legislation.gov.uk/uksi/1999/992/regulation/29/i)
+
+[^key-7e6e146367bbe7e185c658bd6e38b9a4]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/1998/1011/regulation/1/2) deleted (26.4.1999) by [The Merchant Shipping (Fire Protection) (Amendment) Regulations 1999 (S.I. 1999/992)](https://www.legislation.gov.uk/uksi/1999/992), [regs. 1](https://www.legislation.gov.uk/uksi/1999/992/regulation/1), [29(j)](https://www.legislation.gov.uk/uksi/1999/992/regulation/29/j)
+
+[^f00005]: Footnote: S.I.[1982/841](https://www.legislation.gov.uk/uksi/1982/841) to which there was an amendment not relevant to these Regulations.
+
+[^f00006]: Footnote: S.I.[1997/1510](https://www.legislation.gov.uk/uksi/1997/1510).
+
+[^key-3e5bce9b25a300e496567f149f74e71f]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/uksi/1998/1011/regulation/1/3) omitted (31.12.2020) by virtue of [The Merchant Shipping (Miscellaneous Provisions) (Amendments etc.) (EU Exit) Regulations 2018 (S.I. 2018/1221)](https://www.legislation.gov.uk/uksi/2018/1221), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/b), [Sch. para. 5(2)(b)](https://www.legislation.gov.uk/uksi/2018/1221/schedule/paragraph/5/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-d95d10f39553e0ea9cc450cc5e952318]: Textual amendment: Words in [reg. 1(7)(a)(i)](https://www.legislation.gov.uk/uksi/1998/1011/regulation/1/7/a/i) inserted (23.10.2000) by [The Merchant Shipping (Passenger Ships on Domestic Voyages) Regulations 2000 (S.I. 2000/2687)](https://www.legislation.gov.uk/uksi/2000/2687), [reg. 1](https://www.legislation.gov.uk/uksi/2000/2687/regulation/1), [Sch. para. 6(2)(a)](https://www.legislation.gov.uk/uksi/2000/2687/schedule/paragraph/6/2/a)
+
+[^key-e86f8a7371650318e75bda1e8707083a]: Textual amendment: Word in [reg. 1(7)(a)(i)](https://www.legislation.gov.uk/uksi/1998/1011/regulation/1/7/a/i) inserted (11.12.2003) by [The Merchant Shipping (Fire Protection) Regulations (Amendment) Regulations 2003 (S.I. 2003/2951)](https://www.legislation.gov.uk/uksi/2003/2951), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/2951/regulation/1/1), [12(a)](https://www.legislation.gov.uk/uksi/2003/2951/regulation/12/a)
+
+[^key-4a17ca0d0d30c475fbe75eefff93ae26]: Textual amendment: Words in [reg. 1(7)(a)(i)](https://www.legislation.gov.uk/uksi/1998/1011/regulation/1/7/a/i) inserted (11.12.2003) by [The Merchant Shipping (Fire Protection) Regulations (Amendment) Regulations 2003 (S.I. 2003/2951)](https://www.legislation.gov.uk/uksi/2003/2951), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/2951/regulation/1/1), [12(b)](https://www.legislation.gov.uk/uksi/2003/2951/regulation/12/b)
+
+[^key-c123b9763329d303a8965d165f1cb1af]: Textual amendment: Word in [reg. 1(7)(a)(i)](https://www.legislation.gov.uk/uksi/1998/1011/regulation/1/7/a/i) inserted (11.12.2003) by [The Merchant Shipping (Fire Protection) Regulations (Amendment) Regulations 2003 (S.I. 2003/2951)](https://www.legislation.gov.uk/uksi/2003/2951), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/2951/regulation/1/1), [12(c)](https://www.legislation.gov.uk/uksi/2003/2951/regulation/12/c)
+
+[^key-abc9dcb56c0f2d7d21ac297c16c0a135]: Textual amendment: Words in [reg. 1(7)(a)(i)](https://www.legislation.gov.uk/uksi/1998/1011/regulation/1/7/a/i) substituted (26.4.1999) by [The Merchant Shipping (Fire Protection) (Amendment) Regulations 1999 (S.I. 1999/992)](https://www.legislation.gov.uk/uksi/1999/992), [regs. 1](https://www.legislation.gov.uk/uksi/1999/992/regulation/1), [30](https://www.legislation.gov.uk/uksi/1999/992/regulation/30)
+
+[^key-4c3c88a8f4affc355dd0d55cf22f8696]: Textual amendment: Words in [reg. 1(7)(b)(iii)](https://www.legislation.gov.uk/uksi/1998/1011/regulation/1/7/b/iii) substituted (19.12.2022) by [The Merchant Shipping (High Speed Craft) Regulations 2022 (S.I. 2022/1219)](https://www.legislation.gov.uk/uksi/2022/1219), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1219/regulation/1/1), [Sch. para. 4](https://www.legislation.gov.uk/uksi/2022/1219/schedule/paragraph/4) (with [reg. 4](https://www.legislation.gov.uk/uksi/2022/1219/regulation/4))
+
+[^key-13e7954c2cf5b6b7a1ebd42d7bd784d6]: Textual amendment: [Reg. 1(7)(b)(iv)(aa)](https://www.legislation.gov.uk/uksi/1998/1011/regulation/1/7/b/iv/aa) omitted (15.6.2023) by virtue of [The Merchant Shipping (Fire Protection) Regulations 2023 (S.I. 2023/568)](https://www.legislation.gov.uk/uksi/2023/568), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/568/regulation/1/1), [Sch. 1 para. 2(a)](https://www.legislation.gov.uk/uksi/2023/568/schedule/1/paragraph/2/a) (with [reg. 5](https://www.legislation.gov.uk/uksi/2023/568/regulation/5))
+
+[^key-8459de831e646aaf4b3f6f81145ca713]: Textual amendment: [Reg. 1(7)(b)(v)](https://www.legislation.gov.uk/uksi/1998/1011/regulation/1/7/b/v) added (23.10.2000) by [The Merchant Shipping (Passenger Ships on Domestic Voyages) Regulations 2000 (S.I. 2000/2687)](https://www.legislation.gov.uk/uksi/2000/2687), [reg. 1](https://www.legislation.gov.uk/uksi/2000/2687/regulation/1), [Sch. para. 6(2)(b)](https://www.legislation.gov.uk/uksi/2000/2687/schedule/paragraph/6/2/b)
+
+[^key-e06a898a7ed87a422206c63bbcb9f629]: Textual amendment: [Reg. 1(7)(b)(vi)(vii)](https://www.legislation.gov.uk/uksi/1998/1011/regulation/1/7/b/vi/vii) substituted for reg. 1(7)(b)(vi) (20.4.2010) by [The Merchant Shipping (Technical Requirements for Inland Waterway Vessels) Regulations 2010 (S.I. 2010/1075)](https://www.legislation.gov.uk/uksi/2010/1075), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/1075/regulation/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/1075/schedule/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2010/1075/regulation/3))
+
+[^key-aeabccb7057c8519e5c922fc5e293486]: Textual amendment: [Reg. 1(7)(b)(viii)](https://www.legislation.gov.uk/uksi/1998/1011/regulation/1/7/b/viii) inserted (15.6.2023) by [The Merchant Shipping (Fire Protection) Regulations 2023 (S.I. 2023/568)](https://www.legislation.gov.uk/uksi/2023/568), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/568/regulation/1/1), [Sch. 1 para. 2(b)](https://www.legislation.gov.uk/uksi/2023/568/schedule/1/paragraph/2/b) (with [reg. 5](https://www.legislation.gov.uk/uksi/2023/568/regulation/5))
+
+[^key-a277d067c9f999a5ed9bcfced48b68d4]: Textual amendment: [Reg. 1(9)](https://www.legislation.gov.uk/uksi/1998/1011/regulation/1/9)[(10)](https://www.legislation.gov.uk/uksi/1998/1011/regulation/1/10) inserted (29.12.2022) by [The Merchant Shipping (Safety Standards for Passenger Ships on Domestic Voyages) (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1269)](https://www.legislation.gov.uk/uksi/2022/1269), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2022/1269/regulation/1/b), [2(2)(b)](https://www.legislation.gov.uk/uksi/2022/1269/regulation/2/2/b)
+
+[^key-bbba9855fb5f94a4c50cac54115b5d5c]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/1998/1011/regulation/2) in force at 11.5.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/1011/regulation/1/1)
+
+[^key-016929a9ce740125963c7d198541b217]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1998/1011/regulation/2/1) inserted (26.4.1999) by [The Merchant Shipping (Fire Protection) (Amendment) Regulations 1999 (S.I. 1999/992)](https://www.legislation.gov.uk/uksi/1999/992), [regs. 1](https://www.legislation.gov.uk/uksi/1999/992/regulation/1), [31(a)](https://www.legislation.gov.uk/uksi/1999/992/regulation/31/a)
+
+[^key-817e084954aa9e8ba0b5c71076bda998]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1998/1011/regulation/2/1) substituted (23.10.2000) by [The Merchant Shipping (Passenger Ships on Domestic Voyages) Regulations 2000 (S.I. 2000/2687)](https://www.legislation.gov.uk/uksi/2000/2687), [reg. 1](https://www.legislation.gov.uk/uksi/2000/2687/regulation/1), [Sch. para. 6(3)](https://www.legislation.gov.uk/uksi/2000/2687/schedule/paragraph/6/3)
+
+[^key-138dd44b765d2a0f02605d785a0a4087]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1998/1011/regulation/2/1) substituted (26.4.1999) by [The Merchant Shipping (Fire Protection) (Amendment) Regulations 1999 (S.I. 1999/992)](https://www.legislation.gov.uk/uksi/1999/992), [regs. 1](https://www.legislation.gov.uk/uksi/1999/992/regulation/1), [31(b)](https://www.legislation.gov.uk/uksi/1999/992/regulation/31/b)
+
+[^key-051fc609e39a5bc6621214acda9e567c]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/1998/1011/regulation/3) in force at 11.5.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/1011/regulation/1/1)
+
+[^key-3ddf38ddac5e8d40fa98338b7c6a09ba]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/1998/1011/regulation/4) in force at 11.5.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/1011/regulation/1/1)
+
+[^key-5c7ce9bab39c87567c4af765c95c4b7e]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/1998/1011/regulation/5) in force at 11.5.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/1011/regulation/1/1)
+
+[^key-69fadf04ba67918701918f9ee8b393af]: Textual amendment: [Reg. 5A](https://www.legislation.gov.uk/uksi/1998/1011/regulation/5A) and cross-heading inserted (29.12.2022) by [The Merchant Shipping (Safety Standards for Passenger Ships on Domestic Voyages) (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1269)](https://www.legislation.gov.uk/uksi/2022/1269), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2022/1269/regulation/1/b), [2(3)](https://www.legislation.gov.uk/uksi/2022/1269/regulation/2/3)
+
+[^key-1c19af93b8fd5287e6d61249d9d29cd0]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/1998/1011/regulation/6) in force at 11.5.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/1011/regulation/1/1)
+
+[^key-6676c5a7b765a16f892dfdbe1439d3f3]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/1998/1011/regulation/7) in force at 11.5.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/1011/regulation/1/1)
+
+[^key-17e7ad28df6f95b13120ebd2d97bff70]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/1998/1011/regulation/8) in force at 11.5.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/1011/regulation/1/1)
+
+[^key-19312541248b9c23a414cea217ba291d]: Textual amendment: Words in [reg. 8(1)](https://www.legislation.gov.uk/uksi/1998/1011/regulation/8/1) inserted (29.12.2022) by [The Merchant Shipping (Safety Standards for Passenger Ships on Domestic Voyages) (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1269)](https://www.legislation.gov.uk/uksi/2022/1269), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2022/1269/regulation/1/b), [2(4)(a)](https://www.legislation.gov.uk/uksi/2022/1269/regulation/2/4/a)
+
+[^key-a9bd144cbb172b94437362e1d28c1665]: Textual amendment: Words in [reg. 8(1)](https://www.legislation.gov.uk/uksi/1998/1011/regulation/8/1) omitted (29.12.2022) by virtue of [The Merchant Shipping (Safety Standards for Passenger Ships on Domestic Voyages) (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1269)](https://www.legislation.gov.uk/uksi/2022/1269), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2022/1269/regulation/1/b), [2(4)(b)](https://www.legislation.gov.uk/uksi/2022/1269/regulation/2/4/b)
+
+[^key-12f9eec62c10f809078a6f496e7f44af]: Textual amendment: [Reg. 8A](https://www.legislation.gov.uk/uksi/1998/1011/regulation/8A) inserted (29.12.2022) by [The Merchant Shipping (Safety Standards for Passenger Ships on Domestic Voyages) (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1269)](https://www.legislation.gov.uk/uksi/2022/1269), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2022/1269/regulation/1/b), [2(5)](https://www.legislation.gov.uk/uksi/2022/1269/regulation/2/5)
+
+[^key-77425f4f844a3223b62dcbc723b0205e]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/1998/1011/regulation/9) in force at 11.5.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/1011/regulation/1/1)
+
+[^key-199021a1f24a68df6c11a808ef32fd7c]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/1998/1011/regulation/10) in force at 11.5.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/1011/regulation/1/1)
+
+[^key-9fc6962b8a4d63768e1b23aae12434b8]: Textual amendment: Words in [reg. 10](https://www.legislation.gov.uk/uksi/1998/1011/regulation/10) substituted (29.12.2022) by [The Merchant Shipping (Safety Standards for Passenger Ships on Domestic Voyages) (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1269)](https://www.legislation.gov.uk/uksi/2022/1269), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2022/1269/regulation/1/b), [2(6)](https://www.legislation.gov.uk/uksi/2022/1269/regulation/2/6)
+
+[^key-b9c8cfef9ed6ca172e758307ceb68000]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/1998/1011/regulation/11) in force at 11.5.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/1011/regulation/1/1)
+
+[^key-81489709bc6c802acf82f95a7d89f23b]: Textual amendment: Words in [reg. 11](https://www.legislation.gov.uk/uksi/1998/1011/regulation/11) substituted (29.12.2022) by [The Merchant Shipping (Safety Standards for Passenger Ships on Domestic Voyages) (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1269)](https://www.legislation.gov.uk/uksi/2022/1269), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2022/1269/regulation/1/b), [2(7)(a)](https://www.legislation.gov.uk/uksi/2022/1269/regulation/2/7/a)
+
+[^key-84389cd5e4f9e010491e6c50e9c5a6e5]: Textual amendment: Words in [reg. 11](https://www.legislation.gov.uk/uksi/1998/1011/regulation/11) omitted (29.12.2022) by virtue of [The Merchant Shipping (Safety Standards for Passenger Ships on Domestic Voyages) (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1269)](https://www.legislation.gov.uk/uksi/2022/1269), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2022/1269/regulation/1/b), [2(7)(b)](https://www.legislation.gov.uk/uksi/2022/1269/regulation/2/7/b)
+
+[^key-a0855ff49861dc060a5832fedf76a923]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/1998/1011/regulation/12) in force at 11.5.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/1011/regulation/1/1)
+
+[^key-5a8f5cd69648911f2d153e87550216a8]: Textual amendment: Words in [reg. 12](https://www.legislation.gov.uk/uksi/1998/1011/regulation/12) substituted (29.12.2022) by [The Merchant Shipping (Safety Standards for Passenger Ships on Domestic Voyages) (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1269)](https://www.legislation.gov.uk/uksi/2022/1269), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2022/1269/regulation/1/b), [2(8)](https://www.legislation.gov.uk/uksi/2022/1269/regulation/2/8)
+
+[^key-b87f31ee7ba1c94ddea36973dd034fc4]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/1998/1011/regulation/13) in force at 11.5.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/1011/regulation/1/1)
+
+[^key-f37129486edc26bdc4d74168f56a8b68]: Textual amendment: Words in [reg. 13(1)](https://www.legislation.gov.uk/uksi/1998/1011/regulation/13/1) substituted (29.12.2022) by [The Merchant Shipping (Safety Standards for Passenger Ships on Domestic Voyages) (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1269)](https://www.legislation.gov.uk/uksi/2022/1269), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2022/1269/regulation/1/b), [2(9)(a)](https://www.legislation.gov.uk/uksi/2022/1269/regulation/2/9/a)
+
+[^key-dbc600909c081ed473c8e745b5ded707]: Textual amendment: Words in [reg. 13(2)](https://www.legislation.gov.uk/uksi/1998/1011/regulation/13/2) substituted (29.12.2022) by [The Merchant Shipping (Safety Standards for Passenger Ships on Domestic Voyages) (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1269)](https://www.legislation.gov.uk/uksi/2022/1269), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2022/1269/regulation/1/b), [2(9)(b)](https://www.legislation.gov.uk/uksi/2022/1269/regulation/2/9/b)
+
+[^key-5ef8f424311d136bf26cf0fcb4749edd]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/1998/1011/regulation/14) in force at 11.5.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/1011/regulation/1/1)
+
+[^key-86d9dbc6a9d7c42cc589825492f8222c]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/1998/1011/regulation/15) in force at 11.5.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/1011/regulation/1/1)
+
+[^key-4d10f354130e020306b3c6b97c422d0f]: Textual amendment: Words in [reg. 15(1)](https://www.legislation.gov.uk/uksi/1998/1011/regulation/15/1) substituted (29.12.2022) by [The Merchant Shipping (Safety Standards for Passenger Ships on Domestic Voyages) (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1269)](https://www.legislation.gov.uk/uksi/2022/1269), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2022/1269/regulation/1/b), [2(10)(a)](https://www.legislation.gov.uk/uksi/2022/1269/regulation/2/10/a)
+
+[^key-732c93f996ce2ce31a247310bfc73a3f]: Textual amendment: Words in [reg. 15(2)](https://www.legislation.gov.uk/uksi/1998/1011/regulation/15/2) substituted (29.12.2022) by [The Merchant Shipping (Safety Standards for Passenger Ships on Domestic Voyages) (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1269)](https://www.legislation.gov.uk/uksi/2022/1269), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2022/1269/regulation/1/b), [2(10)(b)](https://www.legislation.gov.uk/uksi/2022/1269/regulation/2/10/b)
+
+[^key-49737b96d6ccde56f33748ef06ba5d4a]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/1998/1011/regulation/16) in force at 11.5.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/1011/regulation/1/1)
+
+[^key-2a85110a3d7d6b571a81cb07e7a87fbd]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/1998/1011/regulation/17) in force at 11.5.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/1011/regulation/1/1)
+
+[^key-dcedbfbadfcb0850eab4cb0c14ee8f9a]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/1998/1011/regulation/18) in force at 11.5.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/1011/regulation/1/1)
+
+[^f00008]: Footnote: S.I.[1975/330](https://www.legislation.gov.uk/uksi/1975/330) to which there are amendments not relevant to these Regulations.
+
+[^key-2ef06a730cae1bd224059f3f1d5eb499]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/1998/1011/regulation/19) in force at 11.5.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/1011/regulation/1/1)
+
+[^key-935072fbf025a0c443904668fbd0b238]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/1998/1011/regulation/20) in force at 11.5.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/1011/regulation/1/1)
+
+[^key-dc0ae7f614e2ca17e4086ee0f8df60d8]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/1998/1011/regulation/21) in force at 11.5.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/1011/regulation/1/1)
+
+[^key-5eb1d9b7938d97d9b81a9d4efa902abb]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/1998/1011/regulation/22) in force at 11.5.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/1011/regulation/1/1)
+
+[^key-130680f62c397a430e04736ed2f9b355]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/1998/1011/regulation/23) in force at 11.5.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/1011/regulation/1/1)
+
+[^key-55bc7a59695aff312b9900560297c614]: Commencement: [Reg. 24](https://www.legislation.gov.uk/uksi/1998/1011/regulation/24) in force at 11.5.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/1011/regulation/1/1)
+
+[^key-162c34b82de7f4f57b5b4a994485ecdd]: Commencement: [Reg. 25](https://www.legislation.gov.uk/uksi/1998/1011/regulation/25) in force at 11.5.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/1011/regulation/1/1)
+
+[^key-7a227df3930da4a52f2b6105d779b02f]: Textual amendment: Words in [reg. 25 heading](https://www.legislation.gov.uk/uksi/1998/1011/part/IV/crossheading/tankers-of-class-viit) substituted (26.4.1999) by [The Merchant Shipping (Fire Protection) (Amendment) Regulations 1999 (S.I. 1999/992)](https://www.legislation.gov.uk/uksi/1999/992), [regs. 1](https://www.legislation.gov.uk/uksi/1999/992/regulation/1), [32](https://www.legislation.gov.uk/uksi/1999/992/regulation/32)
+
+[^f00009]: Footnote: S.I.[1997/1509](https://www.legislation.gov.uk/uksi/1997/1509).
+
+[^key-d04d95bfe6f913b4aa396f0e65c900b8]: Commencement: [Reg. 26](https://www.legislation.gov.uk/uksi/1998/1011/regulation/26) in force at 11.5.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/1011/regulation/1/1)
+
+[^key-7c5ca1f29f23dab8ee0436c0b5e4902f]: Commencement: [Reg. 27](https://www.legislation.gov.uk/uksi/1998/1011/regulation/27) in force at 11.5.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/1011/regulation/1/1)
+
+[^key-748aa98704db1f080cc0066f56a5fc1d]: Commencement: [Reg. 28](https://www.legislation.gov.uk/uksi/1998/1011/regulation/28) in force at 11.5.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/1011/regulation/1/1)
+
+[^key-7ce856721a9bf3b34840d9bc584f849b]: Commencement: [Reg. 29](https://www.legislation.gov.uk/uksi/1998/1011/regulation/29) in force at 11.5.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/1011/regulation/1/1)
+
+[^key-2eb8befbb82338d89c981ae8a38cc131]: Commencement: [Reg. 30](https://www.legislation.gov.uk/uksi/1998/1011/regulation/30) in force at 11.5.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/1011/regulation/1/1)
+
+[^f00010]: Footnote: S.I.[1984/1216](https://www.legislation.gov.uk/uksi/1984/1216); relevant amendment is S.I.[1992/2358](https://www.legislation.gov.uk/uksi/1992/2358).
+
+[^key-1c1a6e22efc8b5790eb9ed9b0509890d]: Commencement: [Reg. 31](https://www.legislation.gov.uk/uksi/1998/1011/regulation/31) in force at 11.5.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/1011/regulation/1/1)
+
+[^key-b665dec936fccc35ab655961cb1ab639]: Commencement: [Reg. 32](https://www.legislation.gov.uk/uksi/1998/1011/regulation/32) in force at 11.5.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/1011/regulation/1/1)
+
+[^key-6f3c732f40a7e853a89bf3318e29c693]: Commencement: [Reg. 33](https://www.legislation.gov.uk/uksi/1998/1011/regulation/33) in force at 11.5.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/1011/regulation/1/1)
+
+[^key-10dd8d0167df5ed075530f1504489033]: Commencement: [Reg. 34](https://www.legislation.gov.uk/uksi/1998/1011/regulation/34) in force at 11.5.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/1011/regulation/1/1)
+
+[^key-868bb314025ed3d910ff6a7f38786579]: Commencement: [Reg. 35](https://www.legislation.gov.uk/uksi/1998/1011/regulation/35) in force at 11.5.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/1011/regulation/1/1)
+
+[^key-5abc57eb2bcc02d9d921a6c8d9202c52]: Commencement: [Reg. 36](https://www.legislation.gov.uk/uksi/1998/1011/regulation/36) in force at 11.5.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/1011/regulation/1/1)
+
+[^key-81a615262b3652408e4b435727c06b07]: Commencement: [Reg. 37](https://www.legislation.gov.uk/uksi/1998/1011/regulation/37) in force at 11.5.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/1011/regulation/1/1)
+
+[^key-ae6b727ea816bdb17e5df0af56a548c3]: Commencement: [Reg. 38](https://www.legislation.gov.uk/uksi/1998/1011/regulation/38) in force at 11.5.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/1011/regulation/1/1)
+
+[^key-5c9788654cf1ff672ba5ddd99a8c5b7f]: Commencement: [Reg. 39](https://www.legislation.gov.uk/uksi/1998/1011/regulation/39) in force at 11.5.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/1011/regulation/1/1)
+
+[^key-6768eb0d1890c896b64e628993c4a9e4]: Commencement: [Reg. 40](https://www.legislation.gov.uk/uksi/1998/1011/regulation/40) in force at 11.5.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/1011/regulation/1/1)
+
+[^key-b99ca27e6efc77c48f0690a0ef7a5dc3]: Commencement: [Reg. 41](https://www.legislation.gov.uk/uksi/1998/1011/regulation/41) in force at 11.5.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/1011/regulation/1/1)
+
+[^key-c23a9a964d131395772db134a51ee5aa]: Commencement: [Reg. 42](https://www.legislation.gov.uk/uksi/1998/1011/regulation/42) in force at 11.5.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/1011/regulation/1/1)
+
+[^key-165e0bec23882fac87a699d5684d940f]: Commencement: [Reg. 43](https://www.legislation.gov.uk/uksi/1998/1011/regulation/43) in force at 11.5.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/1011/regulation/1/1)
+
+[^key-0aeda9fdbc24faf66779999d01d9fe22]: Textual amendment: [Reg. 43](https://www.legislation.gov.uk/uksi/1998/1011/regulation/43) substituted (26.4.1999) by [The Merchant Shipping (Fire Protection) (Amendment) Regulations 1999 (S.I. 1999/992)](https://www.legislation.gov.uk/uksi/1999/992), [regs. 1](https://www.legislation.gov.uk/uksi/1999/992/regulation/1), [33](https://www.legislation.gov.uk/uksi/1999/992/regulation/33)
+
+[^key-bc4763e138620f8a053d1f965fa21fe6]: Commencement: [Reg. 44](https://www.legislation.gov.uk/uksi/1998/1011/regulation/44) in force at 11.5.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/1011/regulation/1/1)
+
+[^f00011]: Footnote: S.I.[1984/1218](https://www.legislation.gov.uk/uksi/1984/1218) to which there were amendments not relevant to these Regulations.
+
+[^f00012]: Footnote: S.I.[1980/535](https://www.legislation.gov.uk/uksi/1980/535) to which there are amendments not relevant to these Regulations.
+
+[^key-dddcaacb21011d3e3108c560ac3c7205]: Commencement: [Reg. 45](https://www.legislation.gov.uk/uksi/1998/1011/regulation/45) in force at 11.5.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/1011/regulation/1/1)
+
+[^key-4758a4a10a87bd5fd15115ed060d26ec]: Textual amendment: [Reg. 45(1)](https://www.legislation.gov.uk/uksi/1998/1011/regulation/45/1) substituted (15.6.2023) by [The Merchant Shipping (Fire Protection) Regulations 2023 (S.I. 2023/568)](https://www.legislation.gov.uk/uksi/2023/568), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/568/regulation/1/1), [Sch. 1 para. 3(a)](https://www.legislation.gov.uk/uksi/2023/568/schedule/1/paragraph/3/a) (with [reg. 5](https://www.legislation.gov.uk/uksi/2023/568/regulation/5))
+
+[^key-43453ee451d60450177a6cfbdc215719]: Textual amendment: Words in [reg. 45(2)(b)](https://www.legislation.gov.uk/uksi/1998/1011/regulation/45/2/b) substituted (15.6.2023) by [The Merchant Shipping (Fire Protection) Regulations 2023 (S.I. 2023/568)](https://www.legislation.gov.uk/uksi/2023/568), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/568/regulation/1/1), [Sch. 1 para. 3(b)](https://www.legislation.gov.uk/uksi/2023/568/schedule/1/paragraph/3/b) (with [reg. 5](https://www.legislation.gov.uk/uksi/2023/568/regulation/5))
+
+[^key-9471a7fe7ebacaac319b7c63232163a9]: Textual amendment: [Reg. 45(2A)](https://www.legislation.gov.uk/uksi/1998/1011/regulation/45/2A) inserted (15.6.2023) by [The Merchant Shipping (Fire Protection) Regulations 2023 (S.I. 2023/568)](https://www.legislation.gov.uk/uksi/2023/568), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/568/regulation/1/1), [Sch. 1 para. 3(c)](https://www.legislation.gov.uk/uksi/2023/568/schedule/1/paragraph/3/c) (with [reg. 5](https://www.legislation.gov.uk/uksi/2023/568/regulation/5))
+
+[^key-1bf4150e7dff4ea727836ca8ef102faa]: Textual amendment: [Reg. 45(5)-(7)](https://www.legislation.gov.uk/uksi/1998/1011/regulation/45/5) inserted (15.6.2023) by [The Merchant Shipping (Fire Protection) Regulations 2023 (S.I. 2023/568)](https://www.legislation.gov.uk/uksi/2023/568), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/568/regulation/1/1), [Sch. 1 para. 3(d)](https://www.legislation.gov.uk/uksi/2023/568/schedule/1/paragraph/3/d) (with [reg. 5](https://www.legislation.gov.uk/uksi/2023/568/regulation/5))
+
+[^key-1dbf081e55e66c7c6d0bb2eb2e14834a]: Commencement: [Reg. 46](https://www.legislation.gov.uk/uksi/1998/1011/regulation/46) in force at 11.5.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/1011/regulation/1/1)
+
+[^key-8450dff560b765a7c54c4761b6d0af33]: Textual amendment: Words in [reg. 46(2)(a)](https://www.legislation.gov.uk/uksi/1998/1011/regulation/46/2/a)[(b)](https://www.legislation.gov.uk/uksi/1998/1011/regulation/46/2/b) omitted (31.12.2020) by virtue of [The Merchant Shipping (Miscellaneous Provisions) (Amendments etc.) (EU Exit) Regulations 2018 (S.I. 2018/1221)](https://www.legislation.gov.uk/uksi/2018/1221), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/b), [Sch. para. 5(3)](https://www.legislation.gov.uk/uksi/2018/1221/schedule/paragraph/5/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-49f1aee890d833fd312adcf6c7f15d02]: Commencement: [Reg. 47](https://www.legislation.gov.uk/uksi/1998/1011/regulation/47) in force at 11.5.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/1011/regulation/1/1)
+
+[^key-949f3f940f30c6debe8067ef215294f6]: Commencement: [Reg. 48](https://www.legislation.gov.uk/uksi/1998/1011/regulation/48) in force at 11.5.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/1011/regulation/1/1)
+
+[^key-3926018a8efa58a602c589a81efa5902]: Commencement: [Reg. 49](https://www.legislation.gov.uk/uksi/1998/1011/regulation/49) in force at 11.5.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/1011/regulation/1/1)

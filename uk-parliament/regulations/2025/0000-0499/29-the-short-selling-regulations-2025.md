@@ -1,0 +1,1082 @@
+---
+title: The Short Selling Regulations 2025
+id: uksi/2025/29
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2025-01-13'
+text_date: '2025-11-28'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2025/29
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2025/29/pdfs/uksiem_20250029_en_001.pdf
+- http://www.legislation.gov.uk/uksi/2025/29/pdfs/uksi_20250029_en.pdf
+- http://www.legislation.gov.uk/uksi/2025/29/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Short Selling Regulations 2025
+
+> Text as at 2025-11-28.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2025 No. 29
+
+FINANCIAL SERVICES AND MARKETS
+
+The Short Selling Regulations 2025
+
+Made
+
+13th January 2025
+
+Coming into force in accordance with regulation 2
+
+The Treasury make these Regulations in exercise of the powers conferred by sections 71K, 71M(3), 71N(2) and (5), 71O(2) and (10), 71Q, 71R and 428(3) of the Financial Services and Markets Act 2000[^f00001] and sections 4, 83(1) and (2), 84(2) and 86(5) and (6) of the Financial Services and Markets Act 2023[^f00002].
+
+A draft of these Regulations has been laid before and approved by a resolution of each House of Parliament in accordance with sections 71S(2) and 429(9) of the Financial Services and Markets Act 2000[^f00003] and sections 4(9), 83(3) and 84(5) of the Financial Services and Markets Act 2023[^f00004].
+
+## Part 1 — General Provisions
+
+### 1. Citation and extent[^key-6646a7b87ee8512461d8d5eb99697499]
+
+(1) These Regulations may be cited as the Short Selling Regulations 2025.
+
+(2) These Regulations extend to England and Wales, Scotland and Northern Ireland.
+
+### 2. Commencement[^key-bc1a46112633208f4e379575120e0ea9]
+
+(1) Regulations 1 to 6, 8, 9 and 11 come into force on the day after that on which these Regulations are made (“the initial commencement day”).
+
+(2) The remaining provisions of these Regulations come into force on the initial commencement day for the purpose of enabling the FCA to give guidance or issue statements of policy.
+
+(3) So far as not already in force by virtue of paragraph (1) or (2), these Regulations come into force on the main commencement day.
+
+### 3. Interpretation[^key-6a0b3c1b020bad88b56d3878b6e11dc1]
+
+(1) In these Regulations—
+
+- “**admitted share**” means a share which is admitted to trading on a UK trading venue (and includes the share when traded outside such a trading venue);
+- “**financial instrument**” means any instrument specified in Part 1 of Schedule 2 to the Financial Services and Markets Act 2000 (Regulated Activities) Order 2001[^f00005], read with Part 2 of that Schedule;
+- “**FSMA 2000**” means the Financial Services and Markets Act 2000;
+- “**issued share capital**” in relation to a company means the total of ordinary and any preference shares issued by the company but does not include convertible debt securities;
+- “**main commencement day**” means the day on which the revocation of the short selling regulation by section 1(1) of, and Schedule 1 to, the Financial Services and Markets Act 2023 comes into force;
+- “**net short position**” has the meaning given in regulation 6(3)(a);
+- “**overseas jurisdiction**” means a country or territory outside[^key-7193ccce74759aa0c633a2f777f859eb] the United Kingdom;
+- “**share**” means an investment of a kind specified in article 76 of the Financial Services and Markets Act 2000 (Regulated Activities) Order 2001[^f00006];
+- “**short sale**” in relation to a financial instrument means any sale of the instrument which the seller does not own at the time of entering into the agreement to sell including such a sale where at the time of entering into the agreement to sell the seller has borrowed or agreed to borrow the instrument for delivery at settlement, but not including—
+  - (a) a sale by either party under a repurchase agreement where one party has agreed to sell the other a security at a specified price with a commitment from the other party to sell the security back at a later date at another specified price,
+  - (b) a transfer of securities under a securities lending agreement, or
+  - (c) entry into a futures contract or other derivative contract where it is agreed to sell securities at a specified price at a future date;
+- “**short selling regulation**” means [Regulation (EU) No236/2012](https://www.legislation.gov.uk/european/regulation/2012/0236) of the European Parliament and of the Council of 14 March 2012 on short selling and certain aspects of credit default swaps[^f00007];
+- “[^key-6d807804fe0d2857f36dbc3c8a5be1e1]**territory**” includes the European Union and any other international organisation or authority comprising countries or territories;
+- “**UK trading venue**” means—
+  - (a) a UK regulated market within the meaning of point (13A) of Article 2(1) of [Regulation (EU) No600/2014](https://www.legislation.gov.uk/european/regulation/2014/0600) of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments and amending [Regulation (EU) No648/2012](https://www.legislation.gov.uk/european/regulation/2012/0648)[^f00008];
+  - (b) a UK multilateral trading facility within the meaning of point (14A) of Article 2(1) of [Regulation (EU) No600/2014](https://www.legislation.gov.uk/european/regulation/2014/0600).
+
+(2) For the purposes of these Regulations, where there is a combination of legal and beneficial interests in a financial instrument, the instrument is owned by the beneficial owner who assumes the economic risk of acquiring it, including where the instrument is held by a nominee.
+
+## Part 2 — Designated Activities, FCA Designated Activity Rule-Making Powers and Obligations of the FCA
+
+### 4. Designated activities: short selling of admitted shares and related transactions[^key-968a4604e8f0bd6f0636a028d08496c5]
+
+The following activities are specified under section 71K of FSMA 2000 as designated activities for the purposes of that Act—
+
+- (a) entering into a short sale of an admitted share;
+- (b) entering into any transaction other than a short sale of an admitted share, where an effect of the transaction is to confer a financial advantage on the person entering into that transaction in the event of a decrease in the price or value of an admitted share.
+
+### 5. FCA rules relating to short selling of admitted shares and related transactions[^key-bac057de268ac7e9e1e61e83b748fbc8]
+
+(1) Subject to paragraph (3), the FCA may make designated activity rules relating to the carrying on of the activities specified in regulation 4.
+
+(2) Designated activity rules made by virtue of this regulation may, in particular, make provision—
+
+- (a) requiring persons carrying on an activity specified in regulation 4(a) to make arrangements, such as borrowing the admitted share or entering into an agreement or arrangement to borrow the admitted share, to ensure or create a reasonable expectation that settlement of those transactions can be effected when due;
+- (b) about the type or features of an agreement or arrangement that satisfy such a requirement.
+
+(3) The FCA may not make rules by virtue of paragraph (1) requiring a person—
+
+- (a) to notify it of a net short position in the issued share capital of a company (but see regulation 6(1)), or
+- (b) to publish such a net short position.
+
+### 6. FCA rules requiring notification of a significant net short position in the issued share capital of a company[^key-ac2a41a20f8ab7e284ebe6eb7901600a]
+
+(1) The FCA may make designated activity rules requiring a person who has a net short position which is—
+
+- (a) in the issued share capital of a company which has admitted shares, and
+- (b) equal to or greater than the notification threshold,
+
+to notify the FCA.
+
+(2) The notification threshold referred to in paragraph (1) is 0.2% of the issued share capital of the company.
+
+(3) For the purposes of this regulation—
+
+- (a) a person has a net short position in the issued share capital of a company if the person’s total short position in the issued share capital of that company exceeds the person’s total long position in the issued share capital of that company;
+- (b) a short position in the issued share capital of a company is the position resulting from—
+  - (i) a short sale of a share issued by the company, or
+  - (ii) entering into a transaction, other than a short sale of a share issued by the company, where an effect of the transaction is to confer a financial advantage on the person entering into that transaction in the event of a decrease in the price or value of a share issued by the company;
+- (c) a long position in the issued share capital of a company is the position resulting from—
+  - (i) holding a share issued by the company, or
+  - (ii) entering into any transaction where an effect of the transaction is to confer a financial advantage on the person entering into that transaction in the event of an increase in the price or value of a share issued by the company.
+
+(4) Designated activity rules made by virtue of paragraph (1) may, in particular, make provision as to—
+
+- (a) the circumstances in which a person has a net short position in the issued share capital of a company for the purpose of rules made by virtue of this regulation, including provision as to the circumstances in which a person is considered to hold a share;
+- (b) the calculation of a person’s net short position, including—
+  - (i) the transactions that are to be taken into account when calculating a person’s net short position;
+  - (ii) the treatment of short or long positions held by different entities in a group;
+  - (iii) the treatment of short or long positions held by or under different fund structures;
+- (c) the circumstances in which a notification is required to be re-made or updated, including for example where a person’s net short position falls below the notification threshold.
+
+### 7. Publication by the FCA of aggregate net short positions[^key-c7ae3faf20a21698e6a33ec4311cf5d8]
+
+(1) Subject to paragraph (7), for each working day the FCA must publish the aggregate net short position in relation to the issued share capital of a company that has admitted shares.
+
+(2) Subject to paragraph (5), the aggregate net short position in relation to the issued share capital of a company, for the purpose of this regulation, is the sum of the net short positions in the issued share capital of the company notified to the FCA and held on the relevant working day, expressed as a percentage of the company’s issued share capital.
+
+(3) For the purpose of paragraph (2), a net short position is held on the relevant working day if—
+
+- (a) it is notified to the FCA by a person (“**P**”) as being held on that day, or
+- (b) in a case where P has not notified the FCA of a net short position held on that working day, it is P’s most recent notification of its net short position held on a prior working day.
+
+(4) The FCA must publish the aggregate net short position no later than two working days after the day to which the figure relates.
+
+(5) In calculating the aggregate net short position in relation to a company, the FCA may exclude—
+
+- (a) a net short position notified to it in a case where it is carrying out work to verify the reliability of that notified position;
+- (b) information received after the working day prior to publication.
+
+(6) The FCA may amend or re-publish a previously published aggregate net short position, including to take account of notifications received, verified or amended since publication.
+
+(7) The FCA is not required to publish the aggregate net short position in relation to a company for a working day on which the aggregate net short position, calculated in accordance with paragraphs (2) and (3), is zero.
+
+(8) In this regulation a net short position is notified to the FCA if it is notified pursuant to rules made by virtue of regulation 6 or a requirement imposed under regulation 13(1).
+
+(9) In this regulation “**working day**” means any day other than a Saturday, a Sunday, Christmas Day, Good Friday or a day which is a bank holiday under the Banking and Financial Dealings Act 1971[^f00009] in any part of the United Kingdom.
+
+### 8. FCA power to provide for waiver or exemption from rules and obligation to publish list of shares in relation to which rules apply[^key-c9a8ef417c4a374dbd39fd3290a3465e]
+
+(1) Designated activity rules made by the FCA by virtue of regulation 5 or 6 may include provision—
+
+- (a) as to the circumstances in which the FCA may determine that requirements imposed by those rules do not apply in relation to an admitted share or description of such shares;
+- (b) enabling requirements imposed by the rules to be dispensed with, modified, or reimposed (with or without modification) in such other cases or circumstances as may be determined by the FCA under the rules.
+
+(2) The FCA may not make a determination under paragraph (1)(b) in relation to transactions performed due to market making activities of an investment firm, credit institution or overseas entity that is a member of a trading venue in an overseas jurisdiction unless that jurisdiction has been designated under Part 3 of these Regulations, where “market making activities”, “investment firm” and “overseas entity” have the meaning given in regulation 9.
+
+(3) The FCA may publish any decision made by virtue of paragraph (1)(b) in the way appearing to the FCA to be best calculated to bring it to the attention of persons likely to be affected by it.
+
+(4) The FCA must publish and keep updated regularly a list of admitted shares in relation to which it considers rules made by virtue of these Regulations apply.
+
+### 9. FCA power to exempt market making activities and stabilisation[^key-d592df7e034a0e2de12000a08c5ce8dc]
+
+(1) Designated activity rules made by the FCA by virtue of regulation 5 or 6 may provide for an exemption from those rules where—
+
+- (a) a transaction is performed due to market making activities, or
+- (b) a person—
+  - (i) enters into a short sale of an admitted share, or
+  - (ii) has a net short position,
+
+  in relation to the carrying out of a stabilisation.
+
+(2) The FCA may only provide for an exemption relating to market making activities under paragraph (1)(a) in respect of the market making activities of an investment firm, credit institution, or overseas entity that is a member of—
+
+- (a) a UK trading venue, or
+- (b) a trading venue in an overseas jurisdiction designated under Part 3 of these Regulations.
+
+(3) The FCA may make designated activity rules relating to an exemption provided for by virtue of this regulation, including in particular provision—
+
+- (a) supplementing paragraph (5)(c) as to what constitutes market making activities for the purposes of this regulation;
+- (b) requiring any person that intends to use an exemption provided for by virtue of paragraph (1) to notify the FCA of its intention to do so;
+- (c) requiring any person who has given a notification of the kind described in sub-paragraph (b) to notify the FCA where there are any changes affecting that person’s eligibility to use an exemption or where they no longer wish to use an exemption;
+- (d) requiring a person using an exemption provided for by virtue of paragraph (1) to provide the FCA, in writing, with information about positions held or activities conducted under the exemption;
+- (e) as to the form, content and timing of a notification or information referred to in sub-paragraphs (b) to (d);
+- (f) regarding the prohibition or suspension of the use of an exemption where the FCA considers that a person using or intending to use the exemption does not satisfy the conditions relating to the exemption.
+
+(4) Where the FCA’s rules contain provision of the kind described in paragraph (3)(b) or (c), the FCA must publish a list of persons who are using an exemption provided for by virtue of paragraph (1).
+
+(5) In this regulation—
+
+- (a) “**credit institution**” means an undertaking the business of which is to take deposits or other repayable funds from the public and to grant credits for its own account;
+- (b) “**investment firm**” means a person whose regular occupation or business is the provision or performance of investment services and activities on a professional basis;
+- (c) “**market making activities**” means the activities of an investment firm, a credit institution or an overseas entity where it deals as principal in a financial instrument, whether traded on or outside a trading venue in any of the following capacities—
+  - (i) by posting firm, simultaneous two-way quotes of comparable size and at competitive prices, with the result of providing liquidity on a regular and ongoing basis to the market;
+  - (ii) as part of its usual business, by fulfilling orders initiated by clients or in response to clients’ requests to trade;
+  - (iii) by hedging positions arising from the fulfilment of tasks under paragraph (i) or (ii);
+- (d) “**overseas entity**” means a body incorporated in, or formed under the law of, any overseas jurisdiction;
+- (e) “**stabilisation**” means a stabilisation under Chapter III of Commission Delegated [Regulation (EU) 2016/1052](https://www.legislation.gov.uk/european/regulation/2016/1052) of 8 March 2016 supplementing [Regulation (EU) No596/2014](https://www.legislation.gov.uk/european/regulation/2014/0596) of the European Parliament and of the Council with regard to regulatory technical standards for the conditions applicable to buy-back programmes and stabilisation measures[^f00010].
+
+### 10. Power of FCA to give directions in relation to activities specified in regulation 4[^key-19fcd2d360b3a98ce8c0cb702131061d]
+
+(1) The FCA may give directions under section 71O of FSMA 2000 imposing on a person such requirements as the FCA considers appropriate relating to the carrying on of the activities specified in regulation 4.
+
+(2) The FCA may give a direction described in paragraph (1) only if it appears to the FCA that the person is failing, or is likely to fail, to comply with a requirement imposed by designated activity rules made by virtue of regulation 5 or 6.
+
+## Part 3 — Overseas trading venue short selling regime
+
+### 11. Overseas trading venue short selling regime[^key-cc32eb32852c6db9f93bc2a9e3c48073]
+
+(1) The Treasury may by regulations designate an overseas jurisdiction for the purpose of the application of an exemption provided for by virtue of regulation 9(1)(a).
+
+(2) The Treasury may make regulations under paragraph (1) only if they consider that those regulations are compatible with—
+
+- (a) protecting the integrity of the financial system operating in the United Kingdom, and
+- (b) facilitating the international competitiveness of the economy of the United Kingdom and its growth in the medium to long term.
+
+(3) When considering whether to designate an overseas jurisdiction, the Treasury may, in addition to any other matter they consider relevant, have regard to the law and practice of that overseas jurisdiction in relation to the following—
+
+- (a) authorisation, supervision and enforcement in relation to markets in that jurisdiction;
+- (b) rules regarding admission of securities to trading;
+- (c) market transparency and integrity;
+- (d) the prevention of market abuse in the form of insider dealing and market manipulation.
+
+(4) The power to make regulations under this Part is exercisable by statutory instrument.
+
+(5) A statutory instrument which contains regulations made under this Part is subject to annulment in pursuance of a resolution of either House of Parliament.
+
+(6) Regulations made under this Part may make—
+
+- (a) incidental, supplemental, consequential, transitional, transitory or saving provision;
+- (b) different provision for different purposes.
+
+### 12. Restatement of the Short Selling Regulation Equivalence Directions 2020[^key-2f587ac61ae2d6ec8c37b1121cabd89f]
+
+Each EEA state is to be treated as designated under regulation 11 for the purpose of the application of an exemption provided for by virtue of regulation 9(1)(a).
+
+## Part 4 — FCA Powers in Exceptional Circumstances
+
+### 13. FCA power to require notifications[^key-5939bf3512dfc353c4dcd2cf7e8f027a]
+
+(1) The FCA may require any person who has a net short position in the issued share capital of a reportable company to notify to the FCA details of—
+
+- (a) the position the person holds, where it is equal to or exceeds a specified threshold;
+- (b) any change to that position (for example, where the position falls below the specified threshold).
+
+(2) The FCA may require any person who has—
+
+- (a) entered into a short sale of a financial instrument, or
+- (b) entered into a transaction, other than a short sale of a financial instrument, where an effect of the transaction is to confer a financial advantage on the person in the event of a decrease in the price or value of that financial instrument,
+
+to notify to the FCA details of the position the person holds as a result of that short sale or transaction.
+
+(3) This regulation is subject to regulation 16(1).
+
+(4) In paragraph (1)—
+
+- (a) a “reportable company” is a company in relation to which a person with a net short position equal to or greater than the threshold in regulation 6(2) is required to make a notification under rules made by virtue of regulation 6(1);
+- (b) “**specified**” means specified in a notice published by the FCA under regulation 18;
+- (c) the threshold may be the same as or lower than the notification threshold specified in regulation 6(2).
+
+### 14. FCA power to require notification of lending fees[^key-e5cf217339bd2f6f45b0119096d53d1c]
+
+Subject to regulation 16(1), the FCA may require any person engaged in the lending of a financial instrument to notify the FCA of any significant change in the fees requested for such lending.
+
+### 15. FCA power to prohibit or impose conditions on short sales[^key-4f6649bccc2aea8f5dc87e4aae534fb7]
+
+Subject to regulation 16(1), the FCA may prohibit persons from, or impose conditions relating to persons, entering into—
+
+- (a) a short sale of a financial instrument, or
+- (b) a transaction, other than a short sale of a financial instrument, where an effect of that transaction is to confer a financial advantage on the person in the event of a decrease in the price or value of that financial instrument.
+
+### 16. Conditions applying to exercise of FCA powers in exceptional circumstances[^key-38f3c35672d5b2c2338e6d4bbe031e93]
+
+(1) The FCA may exercise a power under regulation 13, 14 or 15 only if the FCA considers that—
+
+- (a) there are adverse events or developments which constitute a serious threat to financial stability or to market confidence in the United Kingdom,
+- (b) it is necessary to exercise the power to address the threat, and
+- (c) the exercise of the power will not have a detrimental effect on the efficiency of the financial markets in the United Kingdom which is disproportionate to its benefits.
+
+(2) Subject to paragraph (1), the FCA may exercise a power under regulation 13, 14 or 15 in such circumstances or subject to such exceptions as the FCA considers appropriate.
+
+### 17. FCA power to restrict short selling following significant price fall[^key-ef551d45d3341cd766b18b8bd3ed4b74]
+
+(1) Where the FCA considers that the price of a financial instrument on a UK trading venue has fallen significantly during a single trading day in relation to the closing price on that venue on the previous trading day, the FCA may prohibit persons from, or impose conditions relating to persons, entering into—
+
+- (a) a short sale of that financial instrument;
+- (b) a transaction, other than a short sale of that financial instrument, where an effect of the transaction is to confer a financial advantage on the person in the event of a decrease in the price or value of the financial instrument that has fallen in price.
+
+(2) The FCA may exercise a power under paragraph (1) only if the FCA considers that—
+
+- (a) it is appropriate to exercise the power in order to prevent a disorderly decline in the price of the financial instrument that has fallen in price, and
+- (b) the exercise of the power will not have a detrimental effect on the efficiency of the financial markets in the United Kingdom which is disproportionate to its benefits.
+
+(3) Subject to paragraph (2), the FCA may exercise a power under this regulation in such circumstances or subject to such exceptions as the FCA considers appropriate.
+
+### 18. Notice of FCA decision to exercise power in exceptional circumstances[^key-e3c04e08e2ad9e71534d28d15839b624]
+
+(1) The FCA must publish a notice of any decision to exercise a power under this Part.
+
+(2) The notice must specify—
+
+- (a) the power exercised;
+- (b) the measure imposed under the power, including a description of the financial instruments or transactions to which it relates;
+- (c) the time period for which the measure will be in force;
+- (d) the reasons why the FCA believes it necessary or, in the case of a decision to exercise the power in regulation 17, appropriate to exercise the power including the evidence supporting those reasons;
+- (e) the reasons why the FCA believes that the exercise of the power will not have a detrimental effect on the efficiency of the financial markets in the United Kingdom which is disproportionate to its benefits;
+- (f) where the notice is of a decision to exercise the power in regulation 13(1), the threshold for notification to the FCA of a net short position;
+- (g) any exceptions that apply in relation to the measure;
+- (h) where the notice is of a decision to exercise a power in regulation 13 or 14—
+  - (i) how and when notification must be made, and
+  - (ii) the form and content of the notification.
+
+(3) A measure imposed by the FCA under this Part takes effect when the notice is published or at a later time specified in the notice and applies (as appropriate) in relation to—
+
+- (a) any position held or any lending agreement in place at the time;
+- (b) any position acquired or any lending agreement, short sale or transaction entered into after the measure takes effect.
+
+(4) A measure imposed by the FCA under this Part ceases to have effect at the end of the time period specified in the notice in accordance with paragraph (2)(c).
+
+### 19. FCA review of power exercised in exceptional circumstances[^key-650baf0fe04d37918a6fa80fc47ef4f4]
+
+(1) Where the FCA has imposed a requirement under regulation 13 or 14 or imposed a prohibition or condition under regulation 15, the FCA must—
+
+- (a) review the requirement, prohibition or condition regularly, and
+- (b) withdraw the requirement, prohibition or condition if the FCA considers that the conditions set out in regulation 16(1) are no longer met.
+
+(2) Where the FCA has imposed a prohibition or condition under regulation 17, the FCA must—
+
+- (a) review the prohibition or condition regularly, and
+- (b) withdraw the prohibition or condition if the FCA considers that the conditions set out in regulation 17(2) are no longer met.
+
+(3) Having conducted a review under paragraph (1) or (2), the FCA may extend the time period in relation to which a requirement, prohibition or condition imposed under regulation 13, 14, 15 or 17 will be in force if the conditions in regulation 16(1) or 17(2) (as applicable) continue to be met.
+
+(4) The FCA must publish a notice in accordance with regulation 18 of any decision to extend a time period under paragraph (3).
+
+### 20. Statement of policy[^key-abbbd99a3378dc46e86f3bb2a213e77c]
+
+(1) The FCA must prepare and issue a statement of its policy with respect to the exercise of its powers and obligations under this Part, including—
+
+- (a) the factors the FCA will consider when deciding whether to exercise a power in this Part (including the circumstances in which the FCA considers that the conditions in regulations 16(1) and 17(2) will be met),
+- (b) the circumstances in which a measure imposed under a power in this Part may apply,
+- (c) exceptions which may apply, and
+- (d) the regular review by the FCA of a measure imposed under a power in this Part.
+
+(2) In exercising, or deciding whether to exercise, its powers under this Part, the FCA must have regard to the statement of policy published under this regulation and in force at the time in question.
+
+(3) Before the FCA issues a statement under paragraph (1) the FCA must publish a draft of the proposed statement.
+
+(4) The draft must be accompanied by a notice that representations about the proposed statement may be made to the FCA within a specified time.
+
+(5) Before issuing the proposed statement the FCA must have regard to any representations made to it in accordance with the notice referred to in paragraph (4).
+
+(6) If the FCA issues the proposed statement it must publish an account, in general terms, of—
+
+- (a) the representations made to it in accordance with the notice referred to in paragraph (4), and
+- (b) its response to them.
+
+(7) If the statement differs from the draft published under paragraph (3) in a way which the FCA considers to be significant, the FCA must (in addition to complying with paragraph (6)) publish details of the difference.
+
+(8) The FCA may charge a reasonable fee for providing a person with a copy of a draft published by it under paragraph (3).
+
+(9) This regulation also applies to a proposal to revise a statement unless the FCA considers that the proposed revision is of a minor nature.
+
+(10) The FCA must, without delay, give the Treasury a copy of any statement which it publishes under this regulation.
+
+### 21. Power of FCA to give directions in relation to Part 4[^key-7e8891e01ed1459029877dcf75e77837]
+
+(1) The FCA may by directions impose such requirements on a person relating to a requirement, prohibition or condition imposed by the FCA under this Part as the FCA considers appropriate.
+
+(2) The FCA may give a direction under paragraph (1) only if it appears to the FCA that the person is failing, or is likely to fail, to comply with a requirement, prohibition or condition imposed by the FCA under this Part.
+
+(3) A requirement may, in particular, be imposed so as to require the person concerned—
+
+- (a) to take specified action, or
+- (b) to refrain from taking specified action.
+
+(4) A direction under this regulation—
+
+- (a) may specify the way in which, and the time by which, a thing is to be done;
+- (b) may be varied;
+- (c) may be expressed to have effect during a specified period or until revoked.
+
+(5) The FCA may at any time revoke a direction under this regulation by notice.
+
+(6) The revocation of a direction does not affect the validity of anything previously done in accordance with it.
+
+(7) A direction or notice under this regulation must be given in writing to the person or persons to whom it applies.
+
+(8) The imposition of a requirement that expires at the end of a specified period does not affect the FCA’s power to impose a new requirement.
+
+## Part 5 — Buy-in procedures
+
+### 22. Buy-in procedures[^key-adc80caa4b0043af74b586776cef2078]
+
+(1) A central counterparty in the United Kingdom that provides clearing services in relation to relevant shares must ensure that—
+
+- (a) where a person who sells shares is not able to deliver the relevant shares for settlement before the end of the period of four working days beginning with the day after the intended settlement date, procedures are automatically triggered for the buy-in of the shares to ensure delivery for settlement,
+- (b) where the buy-in of the relevant shares for delivery is not possible, an amount is paid to the buyer of the shares based on the value of the shares to be delivered at the delivery date plus an amount for losses incurred by the buyer of the shares as a result of the settlement failure, and
+- (c) the person who fails to settle reimburses to the buyer of the shares all amounts paid pursuant to paragraphs (a) and (b).
+
+(2) A central counterparty in the United Kingdom that provides clearing services in relation to relevant shares must ensure that where a person who sells relevant shares via its services fails to deliver the shares for settlement by the intended settlement date, the person must make daily payments to the central counterparty for each day that the failure continues.
+
+(3) The daily payment must be set sufficiently high to act as a deterrent to persons failing to settle.
+
+(4) In this regulation—
+
+- (a) “**buy-in**” means the procedure initiated by a central counterparty to acquire and deliver shares of the same description where a seller has failed to deliver the shares for settlement;
+- (b) “**central counterparty**” means a body corporate or unincorporated association which interposes itself between the counterparties to the contracts traded on one or more financial markets, becoming the buyer to every seller and the seller to every buyer;
+- (c) “**clearing**” means the process of establishing positions, including the calculation of net obligations, and ensuring that financial instruments, cash, or both are available to secure the exposures arising from those positions and “clearing services” is to be read accordingly;
+- (d) “**relevant share**” means an admitted share in relation to which one or more requirements in rules made by virtue of regulation 5 applies;
+- (e) “**settlement**” has the meaning given in Article 2(7) of [Regulation (EU) No909/2014](https://www.legislation.gov.uk/european/regulation/2014/0909) of the European Parliament and of the Council of 23 July 2014 on improving securities settlement in the European Union and on central securities depositories and amending Directives [98/26/EC](https://www.legislation.gov.uk/european/directive/1998/0026) and 2014/65/EU and [Regulation (EU) No236/2012](https://www.legislation.gov.uk/european/regulation/2012/0236)[^f00011];
+- (f) “**working day**” means any day other than a Saturday, a Sunday, Christmas Day, Good Friday or a day which is a bank holiday under the Banking and Financial Dealings Act 1971 in England and Wales.
+
+### 23. Power of FCA to give directions in relation to regulation 22[^key-3cf4de418bd181653c4478ad9a54ee6d]
+
+(1) The FCA may by directions impose such requirements on a person relating to a requirement imposed by regulation 22 as the FCA considers appropriate.
+
+(2) The FCA may give a direction under paragraph (1) only if it appears to the FCA that the person is failing, or is likely to fail, to comply with a requirement imposed by regulation 22.
+
+(3) A requirement may, in particular, be imposed so as to require the person concerned—
+
+- (a) to take specified action, or
+- (b) to refrain from taking specified action.
+
+(4) A direction under this regulation—
+
+- (a) may specify the way in which, and the time by which, a thing is to be done;
+- (b) may be varied;
+- (c) may be expressed to have effect during a specified period or until revoked.
+
+(5) The FCA may at any time revoke a direction under this regulation by notice.
+
+(6) The revocation of a direction does not affect the validity of anything previously done in accordance with it.
+
+(7) A direction or notice under this regulation must be given in writing to the person or persons to whom it applies.
+
+(8) The imposition of a requirement that expires at the end of a specified period does not affect the FCA’s power to impose a new requirement.
+
+## Part 6 — Supervision and enforcement
+
+### 24. Application of FSMA 2000 for the purposes of Parts 4 and 5[^key-4a278af0f22fa2155a66e42a16be4cfe]
+
+Part 1 of Schedule 1 applies provisions of FSMA 2000 for the purposes of Parts 4 and 5 of these Regulations, with modifications.
+
+### 25. Power to require information from any person[^key-9e220f916dd5c123210b54846648133f]
+
+(1) The powers conferred by section 165(1) and (3) of FSMA 2000 (power to require information) are exercisable by the FCA to impose requirements on any person (and not solely a person in relation to which section 165(1) or (3) applies directly or by virtue of regulation 24 and Schedule 1) to provide or produce information or documents reasonably required in connection with the exercise by the FCA of functions conferred on it by or by virtue of these Regulations.
+
+(2) Part 2 of Schedule 1 applies provisions of FSMA 2000 for the purpose of this regulation, with modifications.
+
+### 26. Power in relation to persons knowingly concerned in a contravention of these Regulations[^key-2f20c472bf60fdee9734936dab4b56b2]
+
+(1) This regulation applies where the FCA is satisfied that a person has contravened a requirement imposed by—
+
+- (a) designated activity rules made by virtue of Part 2 of these Regulations;
+- (b) a direction given under section 71O of FSMA 2000 by virtue of regulation 10;
+- (c) or under Part 4 or 5 of these Regulations;
+- (d) the FCA in the exercise of a power in section 165 or section 175 of FSMA 2000 in relation to functions conferred on it by or by virtue of these Regulations.
+
+(2) Sections 205 and 206 of FSMA 2000 apply in respect of any person who was knowingly concerned in the contravention as they apply in respect of the person who has contravened the requirement.
+
+(3) Part 3 of Schedule 1 applies provisions of FSMA 2000 for the purposes of this regulation, with modifications.
+
+## Part 7 — Saving provisions
+
+### 27. Saving of FCA powers in Part 8A FSMA 2000[^key-8878eabe5e9c3c82bad6e55f6fabc1aa]
+
+(1) Paragraph 1(2) of Schedule 2 to these Regulations does not affect the continued exercise by the FCA, in respect of things done or omitted before the main commencement day, of its powers in Part 8A of FSMA 2000.
+
+(2) Paragraph (1) does not limit the application of section 16 of the Interpretation Act 1978[^f00012].
+
+### 28. Saving provision in relation to Article 9(4) of [Regulation (EU) No236/2012](https://www.legislation.gov.uk/european/regulation/2012/0236)[^key-4dfb10d81339fdbe620ac8dea4ac5614]
+
+The revocation of Article 9 of the short selling regulation on the main commencement day does not affect the obligation in Article 9(4) of that regulation that information disclosed prior to the main commencement day under Article 6 of that regulation must be posted and maintained on a central website operated or supervised by the FCA.
+
+### 29. Saving provision in relation to Article 26(3) of [Regulation (EU) No600/2014](https://www.legislation.gov.uk/european/regulation/2014/0600)[^key-6489b3cd606acebbe7e83cf09102d06f]
+
+The revocation of the short selling regulation on the main commencement day does not affect Articles 2(1)(b), 12, 13 and 17 of that regulation for the purposes of Article 26(3) of [Regulation (EU)600/2014](https://www.legislation.gov.uk/european/regulation/2014/0600).
+
+## Part 8 — Consequential amendments
+
+### 30. Consequential amendments[^key-0a61ef3a5a37ab692034237bc28dd75b]
+
+Schedule 2 makes consequential amendments.
+
+Jeff Smith
+
+Anna Turley
+
+Two of the Lords Commissioners of His Majesty's Treasury
+
+13th January 2025
+
+Schedules
+
+## Schedule 1 — Application of FSMA 2000
+
+Regulations 24, 25 and 26
+
+### Part 1 — Application of FSMA 2000 for the purposes of Parts 4 and 5
+
+**1.**[^key-5a0905af22190d5148fbed5d9a3c6504] The provisions of FSMA 2000 mentioned in the Table in paragraph 3 apply for the purposes of Parts 4 and 5 of these Regulations in accordance with—
+
+- (a) the general modifications mentioned in paragraph 2 (unless otherwise specified in the Table in relation to a particular provision),
+- (b) the specific modifications (if any) mentioned in the Table in relation to a particular provision, and
+- (c) any other necessary modifications.
+
+**2.**[^key-18854998d2b9e686cd8847d20c9097ff] The general modifications are—
+
+- (a) references to a regulator are to be read as references to the FCA;
+- (b) references to an authorised person are to be read as references to a person who is subject to a requirement imposed by or under Part 4 or 5 of these Regulations (and references to a person who has at any time been an authorised person are to be read accordingly).
+
+**3.**[^key-ed54027266fc4f80687fec48eb15da6f] This Table sets out the applied provisions of FSMA 2000 in the first column with specific modifications in relation to an applied provision mentioned in the corresponding entry in the second column—
+
+| Provision of FSMA 2000 | Modifications etc |
+| --- | --- |
+| Section 1L(2) and (3)[^f00013]. | Applies as if—<br>- (a) in subsection (2), the reference to persons other than authorised persons were a reference to persons subject to requirements under Part 4 or 5 of these Regulations;<br>- (b) in subsection (2) and (3), the requirements referred to included requirements imposed on persons by or under Part 4 or 5 of these Regulations. |
+| Section 66 (disciplinary powers)[^f00014] |  |
+| Section 66A (misconduct: action by FCA)[^f00015] | (1) The general modification in paragraph 2(b) does not apply in relation to the references to authorised persons in this section.<br>(2) Applies as if, in subsection (4), the list of requirements included a requirement imposed by or under Part 4 or 5 of these Regulations. |
+| Sections 67 to 70 (misconduct procedure)[^f00016] |  |
+| Sections 71V, 71W, 71X and 71Y (procedure for directions, including appeals)[^f00017] | Apply as if references to a relevant Part 5A direction were references to a direction given under regulation 21 or 23 of these Regulations. |
+| Section 165 (regulators’ power to require information: authorised persons etc.)[^f00018] | Applies as if, in subsection (4)(a), the functions referred to were the functions conferred on the FCA by Part 4 or 5 of these Regulations. |
+| Section 166 (reports by skilled persons)[^f00019] |  |
+| Section 167 (appointment of persons to carry out general investigations)[^f00020] |  |
+| Section 168 (appointment of persons to carry out investigations in particular cases)[^f00021] | Applies as if, in subsection (4), in the list of circumstances suggesting the specified matters, there were included an entry for circumstances suggesting that a person may have contravened any requirement imposed by or under Part 4 or 5 of these Regulations. |
+| Section 169 (investigations etc. in support of overseas regulator)[^f00022] | Applies as if references to an overseas regulator were to an authority in a country or territory outside the United Kingdom which has functions corresponding to those of the FCA under these Regulations. |
+| Section 170 (investigations: general)[^f00023] |  |
+| Section 171 (powers of person appointed under section 167)[^f00024] |  |
+| Section 172 (additional power of persons appointed as a result of section 168(1) or (4)) |  |
+| Section 174 (admissibility of statement made to investigators)[^f00025] |  |
+| Section 175 (information and documents: supplemental provision)[^f00026] |  |
+| Section 176 (entry of premises under warrant)[^f00027] |  |
+| Section 176A (retention of documents taken under section 176)[^f00028] |  |
+| Section 177 (offences)[^f00029] |  |
+| Section 177A (interpretation of Part 11)[^f00030] |  |
+| Section 204A (meaning of “relevant requirement” etc. for purposes of Part 14)[^f00031] | Applies as if, in subsections (2) and (6), the list of requirements included a requirement imposed by or under Part 4 or 5 of these Regulations. |
+| Section 205 (public censure)[^f00032] |  |
+| Section 206 (financial penalties)[^f00033] |  |
+| Section 206B (prohibition or restriction on carrying on of relevant designated activities)[^f00034]. | Applies as if—<br>- (a) the references to relevant designated activity were references to the activities specified in regulation 4, and<br>- (b) the reference in subsection (1) to a relevant Part 5A requirement were a reference to a requirement imposed by or under Part 5 of these Regulations. |
+| Section 207 (proposal to take disciplinary measures)[^f00035] |  |
+| Section 208 (decision notice)[^f00036] |  |
+| Section 208A (applications under section 206B(4): procedure and right to refer to Tribunal)[^f00037] |  |
+| Section 209 (publication)[^f00038] |  |
+| Section 210 (statements of policy)[^f00039] |  |
+| Section 211 (statements of policy: procedure)[^f00040] |  |
+| Section 380 (injunctions)[^f00041] | Applies as if, in subsection (6)(a), the list of requirements included a requirement imposed by or under Part 4 or 5 of these Regulations. |
+| Section 382 (restitution orders)[^f00042] | Applies as if, in subsection (9)(a), the list of requirements included a requirement imposed by or under Part 4 or 5 of these Regulations. |
+| Section 384 (power of FCA or PRA to require restitution)[^f00043] | Applies as if, in subsection (7), the list of requirements included a requirement imposed by or under Part 4 or 5 of these Regulations. |
+| Section 385 (warning notices)[^f00044] |  |
+| Section 386 (decision notices)[^f00045] |  |
+| Section 387 (warning notices: procedure etc.)[^f00046] |  |
+| Section 388 (decision notices: procedure etc.)[^f00047] |  |
+| Sections 389 and 390 (conclusion of proceedings)[^f00048] |  |
+| Section 391 (publication)[^f00049] |  |
+| Sections 392 to 394 (third party rights and access to evidence)[^f00050] |  |
+| Section 395 (FCA’s and PRA’s procedures)[^f00051] |  |
+| Section 396 (statements under section 395: consultation)[^f00052] |  |
+| Section 400 (offences by bodies corporate etc.)[^f00053] |  |
+| Section 401 (proceedings for offences)[^f00054] |  |
+| Section 403 (jurisdiction and procedure in respect of offences)[^f00055] |  |
+| Section 413 (protected items) | Applies as if, in subsection (1), the reference to FSMA 2000 included a reference to Part 4 or 5 of these Regulations. |
+| Section 415AA (application of powers to formerly authorised persons)[^f00056] |  |
+| Section 415B (consultation in relation to taking certain enforcement action)[^f00057] |  |
+| Paragraphs 19 to 22 of Schedule 1ZA (the FCA: penalties)[^f00058] | The general modification in paragraph 2(b) does not apply in relation to references to authorised persons in paragraph 21 of Schedule 1ZA. |
+
+### Part 2 — Application of FSMA 2000 for the purposes of regulation 25
+
+**4.**[^key-6a5b12f37dc92213a9749de00ab6f308] The provisions of FSMA 2000 mentioned in the Table in paragraph 6 apply for the purposes of regulation 25 in accordance with—
+
+- (a) the general modifications mentioned in paragraph 5 (unless otherwise specified in the Table in relation to a particular provision),
+- (b) the specific modifications (if any) mentioned in the Table in relation to a particular provision, and
+- (c) any other necessary modifications.
+
+**5.**[^key-2de0e63e5cf5f999fc591fee151dee77] The general modifications are—
+
+- (a) references to a regulator are to be read as references to the FCA;
+- (b) references to an authorised person are to be read as references to a person from whom the FCA has requested information or documents by virtue of regulation 25.
+
+**6.**[^key-9ab6d8252b5ce9608bac0477891ee688] This Table sets out the applied provisions of FSMA 2000 in the first column with specific modifications in relation to an applied provision mentioned in the corresponding entry in the second column—
+
+| Provision of FSMA 2000 | Modifications etc |
+| --- | --- |
+| Section 1L(2) and (3) | Applies as if—<br>- (a) in subsection (2), the reference to persons other than authorised persons were a reference to persons subject to requirements imposed by virtue of regulation 25;<br>- (b) in subsections (2) and (3), the requirements referred to included requirements imposed on persons by virtue of regulation 25. |
+| Section 66 (disciplinary powers) |  |
+| Section 66A (misconduct: action by FCA) | (1) The general modification in paragraph 5(b) does not apply in relation to the references to authorised persons in this section.<br>(2) Applies as if, in subsection (4), the list of requirements included a requirement imposed by virtue of regulation 25. |
+| Sections 67 to 70 (misconduct procedure) |  |
+| Section 168 (appointment of persons to carry out investigations in particular cases) |  |
+| Section 169 (investigations etc. in support of overseas regulator) | Applies as if—<br>- (a) references to an overseas regulator were to an authority in a country or territory outside the United Kingdom which has functions corresponding to those of the FCA under these Regulations, and<br>- (b) subsection (1)(b) were omitted. |
+| Section 170 (investigations: general) |  |
+| Section 171 (powers of person appointed under section 167) |  |
+| Section 172 (additional power of persons appointed as a result of section 168(1) or (4)) |  |
+| Section 174 (admissibility of statement made to investigators) |  |
+| Section 175 (information and documents: supplemental provision) |  |
+| Section 176 (entry of premises under warrant) | Applies as if references to the second set of conditions were omitted. |
+| Section 176A (retention of documents taken under section 176) |  |
+| Section 177 (offences) | Applies as if the references to a person or the defaulter in subsections (1), (2), (4) and (5) were references to—<br>- (a) an authorised person,<br>- (b) a person who has been an authorised person,<br>- (c) a person who is for the purposes of section 165 of FSMA 2000 connected with an authorised person or with a person who has been an authorised person,<br>where “**authorised person**” has the meaning given in section 31(2) of FSMA 2000, and not the modified meaning in paragraph 5(b). |
+| Section 177A (interpretation of Part 11) |  |
+| Section 204A (meaning of “relevant requirement” etc. for purposes of Part 14) | Applies as if, in subsections (2) and (6), the list of requirements included a requirement imposed by virtue of regulation 25. |
+| Section 205 (public censure) |  |
+| Section 206 (financial penalties) |  |
+| Section 206A (suspending permission to carry on regulated activities etc.) | (1) The general modification in paragraph 5(b) does not apply in relation to references to authorised persons in this section.<br>(2) Applies as if the reference to a relevant requirement in subsection (1) were a reference to a requirement imposed by virtue of regulation 25. |
+| Section 206B (prohibition or restriction on carrying on of relevant designated activities) | Applies as if—<br>- (a) the references to relevant designated activity were references to the activities specified in regulation 4, and<br>- (b) the reference in subsection (1) to a relevant Part 5A requirement were a reference to a requirement imposed by virtue of regulation 25. |
+| Section 207 (proposal to take disciplinary measures) |  |
+| Section 208 (decision notice) |  |
+| Section 209 (publication) |  |
+| Section 210 (statements of policy) |  |
+| Section 211 (statements of policy: procedure) |  |
+| Section 380 (injunctions) | Applies as if, in subsection (6)(a), the list of requirements included a requirement imposed by virtue of regulation 25. |
+| Section 382 (restitution orders) | Applies as if, in subsection (9)(a), the list of requirements included a requirement imposed by virtue of regulation 25. |
+| Section 384 (power of FCA or PRA to require restitution) | Applies as if, in subsection (7), the list of requirements included a requirement imposed by virtue of regulation 25. |
+| Section 385 (warning notices) |  |
+| Section 386 (decision notices) |  |
+| Section 387 (warning notices: procedure etc.) |  |
+| Section 388 (decision notices: procedure etc.) |  |
+| Section 389 and 390 (conclusion of proceedings) |  |
+| Section 391 (publication) |  |
+| Sections 392 to 394 (third party rights and access to evidence) |  |
+| Section 395 (FCA’s and PRA’s procedures) |  |
+| Section 396 (statements under section 395: consultation) |  |
+| Section 400 (offences by bodies corporate etc.) |  |
+| Section 401 (proceedings for offences) |  |
+| Section 403 (jurisdiction and procedure in respect of offences) |  |
+| Section 413 (protected items) | Applies as if, in subsection (1), the reference to a requirement under FSMA 2000 included a reference to a requirement imposed by virtue of regulation 25. |
+| Section 415AA (application of powers to formerly authorised persons) |  |
+| Section 415B (consultation in relation to taking certain enforcement action) |  |
+| Paragraphs 19 to 22 of Schedule 1ZA (the FCA: penalties) | The general modification in paragraph 5(b) does not apply in relation to references to authorised persons in paragraph 21 of Schedule 1ZA. |
+
+### Part 3 — Application of FSMA 2000 for the purposes of regulation 26
+
+**7.**[^key-8d5de7cae54eb56a6e54c656b8a37044] The provisions of FSMA 2000 mentioned in the Table in paragraph 9 apply for the purposes of regulation 26 in accordance with—
+
+- (a) the general modifications mentioned in paragraph 8 (unless otherwise specified in the Table in relation to a particular provision),
+- (b) the specific modifications (if any) mentioned in the Table in relation to a particular provision, and
+- (c) any other necessary modifications.
+
+**8.**[^key-c61db289a49dc6a00ab1bee9822048e7] The general modifications are—
+
+- (a) references to a regulator are to be read as references to the FCA;
+- (b) references to an authorised person are to be read as references to a person in relation to whom the FCA may publish a statement or impose a penalty by virtue of regulation 26 (and references to a person who has at any time been an authorised person are to be read accordingly).
+
+**9.**[^key-bb316fe8ef2df0097402bd4888f0358f] This Table sets out the applied provisions of FSMA 2000 in the first column with specific modifications in relation to an applied provision mentioned in the corresponding entry in the second column—
+
+| Provision of FSMA 2000 | Modifications etc |
+| --- | --- |
+| Section 207<br>(proposal to take disciplinary measures) |  |
+| Section 208 (decision notice) |  |
+| Section 209 (publication) |  |
+| Section 210 (statements of policy) |  |
+| Section 211 (statements of policy: procedure) |  |
+| Section 387 (warning notices: procedure etc.) |  |
+| Section 388 (decision notices: procedure etc.) |  |
+| Section 389 and 390 (conclusion of proceedings) |  |
+| Section 391 (publication) |  |
+| Section 392 to 394 (third party rights and access to evidence) |  |
+| Section 395 (the FCA’s and PRA’s procedures) |  |
+| Section 396 (statements under section 395: consultation) |  |
+| Section 415B (consultation in relation to taking certain enforcement action) |  |
+| Paragraphs 19 to 22 of Schedule 1ZA (the FCA: penalties) | The general modification in paragraph 8(b) does not apply in relation to references to authorised persons in paragraph 21 of Schedule 1ZA. |
+
+## Schedule 2 — Consequential amendments
+
+Regulation 30
+
+### Part 1 — Amendment of primary legislation
+
+#### 1. Amendment of FSMA 2000[^key-acdf62ba449baf5a27aeee2c70f8ca7b]
+
+(1) FSMA 2000 is amended as follows.
+
+(2) Omit Part 8A (short selling)[^f00059].
+
+(3) In section 133 (proceedings before Tribunal: general provision)[^f00060], in subsection (7A), omit paragraph (i).
+
+(4) In section 139A (power of the FCA to give guidance)[^f00061], in subsection (4), for “short selling regulation” substitute “Short Selling Regulations 2025.
+
+(5) In section 391 (publication of notices)[^f00062], in subsection (1ZB), omit paragraph (i).
+
+(6) In section 392 (application of sections 393 and 392)[^f00063]—
+
+- (a) in paragraph (a), omit “131H(1),”;
+- (b) in paragraph (b), omit “131H(4),”.
+
+(7) In section 398 (misleading the FCA or PRA: residual cases)[^f00064], in subsection (1A)(c), for “short selling regulation” substitute “Short Selling Regulations 2025”.
+
+(8) In section 415B (consultation in relation to taking certain enforcement action)[^f00065], in subsection (3), omit paragraph (d).
+
+(9) In section 417 (definitions)[^f00066], in subsection (1), omit the definition of “short selling regulation”.
+
+(10) In Schedule 1ZA (the FCA: arrangements for discharging functions)[^f00067], in paragraph 8(3)(c)(i), omit “131J,”.
+
+#### 2. Amendment of the Financial Services Act 2010[^key-8a1a46775737e83377171e2f5fd4d46e]
+
+(1) The Financial Services Act 2010[^f00068] is amended as follows.
+
+(2) Omit section 8 (power of the FSA to prohibit, or require disclosure of, short selling).
+
+(3) In Schedule 2 (amendments of FSMA 2000), in paragraph 29, omit paragraphs (2)(b) and (3)(b).
+
+#### 3. Amendment of the Financial Services Act 2012[^key-fb46fb4d3b41583f361ff939323b404f]
+
+(1) The Financial Services Act 2012[^f00069] is amended as follows.
+
+(2) Omit section 25 (functions related to short selling).
+
+(3) In section 85(4)(c)(i) (relevant functions in relation to complaints scheme)[^f00070], omit “131J,”.
+
+(4) In section 109(5) (payments to Treasury of penalties received by Financial Services Authority), omit paragraph (i).
+
+### Part 2 — Amendment of secondary legislation
+
+#### 4. Amendment of the Financial Services and Markets Act 2000 (Disclosure of Confidential Information) Regulations 2001[^key-1ae2a50bbe49819bf135f403e3d187dd]
+
+(1) The Financial Services and Markets Act 2000 (Disclosure of Confidential Information) Regulations 2001[^f00071] are amended as follows.
+
+(2) In regulation 2 (Interpretation)[^f00072] in the definition of “short selling information”, for “as a competent authority under the short selling regulation” substitute “under or by virtue of the Short Selling Regulations 2025”.
+
+(3) In regulation 12 (disclosure by and to a Schedule 1 or 2 person or disciplinary proceedings authority)[^f00073]—
+
+- (a) after paragraph (3), insert—
+
+  > (3A) This regulation does not permit disclosure of short selling information to a person specified in the first column in Part 3 of Schedule 1 unless the disclosure is in accordance with paragraph (3B) or a cooperation arrangement on the exchange of data and information with that person.
+  >
+  > (3B) The FCA may disclose short selling information to a person specified in the first column in Part 3 of Schedule 1 where—
+  >
+  > - (a) the disclosure does not contravene [Regulation (EU) 2016/679](https://www.legislation.gov.uk/european/regulation/2016/0679) of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data[^f00074] or the Data Protection Act 2018[^f00075],
+  > - (b) the FCA is satisfied that the disclosure is necessary for the purposes of the Short Selling Regulations 2025, and
+  > - (c) any such disclosure is made under agreement that the person shall not disclose the data to the supervisory authority of another country without the express written authorisation of the FCA.
+  >
+  > (3C) Where the short selling information has been received from the supervisory authority of another country, the FCA may disclose the information to another person specified in the first column in Part 3 of Schedule 1 only where—
+  >
+  > - (a) the FCA has obtained the express agreement of the person which transmitted the information, and
+  > - (b) where applicable, the information is disclosed solely for the purposes for which that person gave its agreement.
+
+  ;
+- (b) omit paragraph (4).
+
+#### 5. Amendment of the Financial Services and Markets Act (Qualifying Provisions) Order 2013[^key-1d9b6892a3b8951faa669df9e854cd4e]
+
+(1) The Financial Services and Markets Act (Qualifying Provisions) Order 2013[^f00076] is amended as follows.
+
+(2) In article 2 (qualifying provisions: general) in paragraph (4), omit sub-paragraphs (a) and (b).
+
+(3) In article 5 (qualifying provisions: injunctions and restitution), omit—
+
+- (a) paragraph (3);
+- (b) paragraph (4);
+- (c) paragraph (5)(e).
+
+(4) In article 6 (qualifying provisions: fees) in paragraph (2), omit sub-paragraphs (f) and (g).
+
+#### 6. Amendment of the Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013[^key-21fec2d8d219b0918c33858f580a05ea]
+
+In Schedule 2 to the Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013[^f00077], omit paragraph 239.
+
+#### 7. Amendment of the Financial Regulator’s Powers (Technical Standards etc.) (Amendment etc.) (EU Exit) Regulations 2018[^key-3e02e87fc54f1555ba8fbc34e914b025]
+
+In the Schedule to the Financial Regulator’s Powers (Technical Standards etc.) (Amendment etc.) (EU Exit) Regulations 2018[^f00078], omit paragraphs 70, 71 and 72.
+
+#### 8. Amendment of the Equivalence Determinations for Financial Services and Miscellaneous Provisions (Amendment etc.) (EU Exit) Regulations 2019[^key-082050bedd29f091b557295e24ca388e]
+
+In Schedule 1 to the Equivalence Determinations for Financial Services and Miscellaneous Provisions (Amendment etc.) (EU Exit) Regulations 2019[^f00079], omit paragraph 11.
+
+#### 9. Amendment of the Gibraltar (Miscellaneous Amendments) (EU Exit) Regulations 2019[^key-5b78124d6caaffaec6a2a50127ddffb8]
+
+In regulation 11(5) of the Gibraltar (Miscellaneous Amendments) (EU Exit) Regulations 2019[^f00080], omit sub-paragraph (d).
+
+#### 10. Amendment of the Equivalence Determinations for Financial Services (Amendment etc.) (EU Exit) Regulations 2020[^key-aeac0c69a1c070dc627824c148f8eef5]
+
+(1) The Equivalence Determinations for Financial Services (Amendment etc.) (EU Exit) Regulations 2020[^f00081] are amended as follows.
+
+(2) In regulation 2(1) (interpretation), omit the definition of “SSR”.
+
+(3) In Table 2 in Schedule 4 (effect of equivalence directions on or after IP completion day), omit the entry relating to paragraph 11 of Schedule 1 to the Equivalence Determinations for Financial Services and Miscellaneous Provisions (Amendment etc) (EU Exit) Regulations 2019 which concerns Article 17(2) of the short selling regulation.
+
+Explanatory Note
+
+(This note is not part of the Regulations)
+
+These Regulations make provision about the short selling of shares and other financial instruments, and transactions which have a similar effect to a short sale. They replace [Regulation (EU)236/2012](https://www.legislation.gov.uk/european/regulation/2012/0236) of the European Parliament and of the Council of 14 March 2012 on short selling and certain aspects of credit default swaps (which is to be revoked by section 1 of the Financial Services and Markets Act [2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29) (“FSMA 2023”) once commenced). This instrument restates some provisions of [Regulation (EU)236/2012](https://www.legislation.gov.uk/european/regulation/2012/0236) with modifications exercising powers in section 4 of the Financial Services and Markets Act [2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29). These Regulations also make provision under powers in Part 5A of the Financial Services and Markets Act [2000 (c. 8)](https://www.legislation.gov.uk/ukpga/2000/8) (“FSMA 2000”).
+
+Regulation 4 specifies certain activities under section 71K of FSMA 2000 as “**designated activities**” for the purposes of that Act.
+
+Regulations 5, 6, 8 and 9 enable the Financial Conduct Authority (“**FCA**”) to make “**designated activity rules**” (as defined in section 71L(3) of FSMA 2000) relating to the activities specified in regulation 4, and to provide in those rules for exemptions or waivers. Regulation 8 also requires the FCA to publish a list of shares in relation to which it considers the rules apply.
+
+Regulation 7 requires the FCA, for each working day, to publish the aggregate net short position held in the issued share capital of a company, calculated as provided for in regulation 7(2) and (3).
+
+Regulation 10 allows the FCA to give directions to a person who is failing, or is likely to fail, to comply with a requirement imposed by virtue of Part 2 of these Regulations.
+
+Regulation 11 enables the Treasury to make regulations designating an overseas jurisdiction for the purpose of the application of an exemption provided for in FCA rules made by virtue of regulation 9(1)(a). Regulation 12 provides that each EEA state is to be treated as designated for this purpose.
+
+Regulations 13 to 17 allow the FCA to impose measures in relation to the short sale of financial instruments, or transactions with a similar effect, in exceptional circumstances. Regulations 16(1) and 17(2) set out the conditions for the exercise of these powers. Regulations 18 to 20 require the FCA to publish a notice of the exercise of these powers, to review any measure imposed under these powers, and to publish a statement of its policy with respect to the exercise of these powers. Regulation 21 allows the FCA to give directions to a person who is failing, or is likely to fail, to comply with a requirement, prohibition or condition imposed by regulations 13 to 15.
+
+Regulation 22 sets out requirements on central counterparties relating to procedures and fines where sellers using those counterparties fail to settle transactions in shares. Regulation 23 allows the FCA to give directions to a person who is failing, or is likely to fail, to comply with a requirement imposed by regulation 22.
+
+Regulations 24 to 26 and Schedule 1 make provision about supervision and enforcement.
+
+Regulations 27 to 29 make saving provision.
+
+Regulation 30 and Schedule 2 make consequential amendments to other legislation. Other legislation will be revoked in connection with these Regulations in a commencement instrument made under the power in section 1 of FSMA 2023.
+
+A full impact assessment has not been produced for this instrument as no, or no significant, impact on the private, voluntary or public sector is foreseen. A de minimis impact assessment is available from HM Treasury, 1 Horse Guards Road, London, SW1A 2HQ and is published with the Explanatory Memorandum alongside this instrument at www.legislation.gov.uk.
+
+## Annotations
+
+[^f00001]: Footnote: [2000 c. 8](https://www.legislation.gov.uk/ukpga/2000/8); sections 71K, 71M, 71N, 71O, 71Q and 71R were inserted by section 8(2) of the Financial Services and Markets Act [2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29). Section 428(3) was amended by section 66(3)(a) of the Financial Services and Markets Act 2023.
+
+[^f00002]: Footnote: [2023 c. 29](https://www.legislation.gov.uk/ukpga/2023/29).
+
+[^f00003]: Footnote: Section 71S was inserted by section 8(2) of the Financial Services and Markets Act 2023; section 429(9) was inserted by paragraph 16(3) of Schedule 8 to the Financial Services Act [2021 (c. 22)](https://www.legislation.gov.uk/ukpga/2021/22) and amended by section 8(8)(c) of the Financial Services and Markets Act 2023.
+
+[^f00004]: Footnote: For the meaning of “the affirmative procedure”, see section 84(3) of the Financial Services and Markets Act 2023.
+
+[^key-6646a7b87ee8512461d8d5eb99697499]: Commencement: Reg. 1 in force at 14.1.2025, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/29/regulation/2/1)
+
+[^key-bc1a46112633208f4e379575120e0ea9]: Commencement: Reg. 2 in force at 14.1.2025, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/29/regulation/2/1)
+
+[^key-6a0b3c1b020bad88b56d3878b6e11dc1]: Commencement: Reg. 3 in force at 14.1.2025, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/29/regulation/2/1)
+
+[^f00005]: Footnote: [S.I. 2001/544](https://www.legislation.gov.uk/uksi/2001/544); Schedule 2 was substituted by [S.I. 2006/3384](https://www.legislation.gov.uk/uksi/2006/3384) and amended by [S.I. 2017/488](https://www.legislation.gov.uk/uksi/2017/488), [S.I. 2018/1403](https://www.legislation.gov.uk/uksi/2018/1403), [S.I. 2021/494](https://www.legislation.gov.uk/uksi/2021/494).
+
+[^key-7193ccce74759aa0c633a2f777f859eb]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2025/29/regulation/3/1) substituted (28.11.2025) by [The Financial Services (Overseas Recognition Regime Designations) Regulations 2025 (S.I. 2025/1147)](https://www.legislation.gov.uk/uksi/2025/1147), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1147/regulation/1/2), [8(2)(a)](https://www.legislation.gov.uk/uksi/2025/1147/regulation/8/2/a)
+
+[^f00006]: Footnote: Article 76 was amended by [S.I. 2011/2687](https://www.legislation.gov.uk/uksi/2011/2687), [S.I. 2014/1815](https://www.legislation.gov.uk/uksi/2014/1815).
+
+[^f00007]: Footnote: EUR 2012/236.
+
+[^key-6d807804fe0d2857f36dbc3c8a5be1e1]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2025/29/regulation/3/1) inserted (28.11.2025) by [The Financial Services (Overseas Recognition Regime Designations) Regulations 2025 (S.I. 2025/1147)](https://www.legislation.gov.uk/uksi/2025/1147), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1147/regulation/1/2), [8(2)(b)](https://www.legislation.gov.uk/uksi/2025/1147/regulation/8/2/b)
+
+[^f00008]: Footnote: EUR 2014/600.
+
+[^key-968a4604e8f0bd6f0636a028d08496c5]: Commencement: Reg. 4 in force at 14.1.2025, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/29/regulation/2/1)
+
+[^key-bac057de268ac7e9e1e61e83b748fbc8]: Commencement: Reg. 5 in force at 14.1.2025, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/29/regulation/2/1)
+
+[^key-ac2a41a20f8ab7e284ebe6eb7901600a]: Commencement: Reg. 6 in force at 14.1.2025, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/29/regulation/2/1)
+
+[^key-c7ae3faf20a21698e6a33ec4311cf5d8]: Commencement: Reg. 7 comes into force in accordance with reg. 2(2)(3)
+
+[^f00009]: Footnote: [1971 c. 80](https://www.legislation.gov.uk/ukpga/1971/80).
+
+[^key-c9a8ef417c4a374dbd39fd3290a3465e]: Commencement: Reg. 8 in force at 14.1.2025, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/29/regulation/2/1)
+
+[^key-d592df7e034a0e2de12000a08c5ce8dc]: Commencement: Reg. 9 in force at 14.1.2025, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/29/regulation/2/1)
+
+[^f00010]: Footnote: EUR 2016/1052. Relevant amendments were made by the Technical Standards (Prospectus Regulation) (EU Exit) Instrument 2020/50 (Financial Conduct Authority). A copy of this instrument is available at https://www.handbook.fca.org.uk/instrument/2020/FCA\_2020\_50.pdf and may be obtained from the Financial Conduct Authority, 12 Endeavour Square, London E20 1JN.
+
+[^key-19fcd2d360b3a98ce8c0cb702131061d]: Commencement: Reg. 10 comes into force in accordance with reg. 2(2)(3)
+
+[^key-cc32eb32852c6db9f93bc2a9e3c48073]: Commencement: Reg. 11 in force at 14.1.2025, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/29/regulation/2/1)
+
+[^key-2f587ac61ae2d6ec8c37b1121cabd89f]: Commencement: Reg. 12 comes into force in accordance with reg. 2(2)(3)
+
+[^key-5939bf3512dfc353c4dcd2cf7e8f027a]: Commencement: Reg. 13 comes into force in accordance with reg. 2(2)(3)
+
+[^key-e5cf217339bd2f6f45b0119096d53d1c]: Commencement: Reg. 14 comes into force in accordance with reg. 2(2)(3)
+
+[^key-4f6649bccc2aea8f5dc87e4aae534fb7]: Commencement: Reg. 15 comes into force in accordance with reg. 2(2)(3)
+
+[^key-38f3c35672d5b2c2338e6d4bbe031e93]: Commencement: Reg. 16 comes into force in accordance with reg. 2(2)(3)
+
+[^key-ef551d45d3341cd766b18b8bd3ed4b74]: Commencement: Reg. 17 comes into force in accordance with reg. 2(2)(3)
+
+[^key-e3c04e08e2ad9e71534d28d15839b624]: Commencement: Reg. 18 comes into force in accordance with reg. 2(2)(3)
+
+[^key-650baf0fe04d37918a6fa80fc47ef4f4]: Commencement: Reg. 19 comes into force in accordance with reg. 2(2)(3)
+
+[^key-abbbd99a3378dc46e86f3bb2a213e77c]: Commencement: Reg. 20 comes into force in accordance with reg. 2(2)(3)
+
+[^key-7e8891e01ed1459029877dcf75e77837]: Commencement: Reg. 21 comes into force in accordance with reg. 2(2)(3)
+
+[^key-adc80caa4b0043af74b586776cef2078]: Commencement: Reg. 22 comes into force in accordance with reg. 2(2)(3)
+
+[^f00011]: Footnote: EUR 2014/909.
+
+[^key-3cf4de418bd181653c4478ad9a54ee6d]: Commencement: Reg. 23 comes into force in accordance with reg. 2(2)(3)
+
+[^key-4a278af0f22fa2155a66e42a16be4cfe]: Commencement: Reg. 24 comes into force in accordance with reg. 2(2)(3)
+
+[^key-9e220f916dd5c123210b54846648133f]: Commencement: Reg. 25 comes into force in accordance with reg. 2(2)(3)
+
+[^key-2f20c472bf60fdee9734936dab4b56b2]: Commencement: Reg. 26 comes into force in accordance with reg. 2(2)(3)
+
+[^key-8878eabe5e9c3c82bad6e55f6fabc1aa]: Commencement: Reg. 27 comes into force in accordance with reg. 2(2)(3)
+
+[^f00012]: Footnote: [1978 c. 30](https://www.legislation.gov.uk/ukpga/1978/30).
+
+[^key-4dfb10d81339fdbe620ac8dea4ac5614]: Commencement: Reg. 28 comes into force in accordance with reg. 2(2)(3)
+
+[^key-6489b3cd606acebbe7e83cf09102d06f]: Commencement: Reg. 29 comes into force in accordance with reg. 2(2)(3)
+
+[^key-0a61ef3a5a37ab692034237bc28dd75b]: Commencement: Reg. 30 comes into force in accordance with reg. 2(2)(3)
+
+[^key-5a0905af22190d5148fbed5d9a3c6504]: Commencement: Sch. 1 para. 1 comes into force in accordance with reg. 2(2)(3)
+
+[^key-18854998d2b9e686cd8847d20c9097ff]: Commencement: Sch. 1 para. 2 comes into force in accordance with reg. 2(2)(3)
+
+[^key-ed54027266fc4f80687fec48eb15da6f]: Commencement: Sch. 1 para. 3 comes into force in accordance with reg. 2(2)(3)
+
+[^f00013]: Footnote: Section 1L was inserted by section 6(1) of the Financial Services Act [2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21) and amended by [S.I. 2013/1773](https://www.legislation.gov.uk/uksi/2013/1773) and [S.I. 2019/632](https://www.legislation.gov.uk/uksi/2019/632).
+
+[^f00014]: Footnote: Section 66 was amended by sections 12 and 24 of and Schedule 2 to the Financial Services Act 2010 (c. 28), section 15 of and Schedule 5 to the Financial Services Act [2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), sections 28, 32 and 35 of and Schedule 3 to the Financial Services (Banking Reform) Act [2013 (c. 33)](https://www.legislation.gov.uk/ukpga/2013/33).
+
+[^f00015]: Footnote: Section 66A was inserted by section 32(2) of the Financial Services (Banking Reform) Act [2013 (c. 33)](https://www.legislation.gov.uk/ukpga/2013/33) and amended by sections 21 and 25 of the Bank of England and Financial Services Act [2016 (c. 14)](https://www.legislation.gov.uk/ukpga/2016/14), [S.I. 2015/1864](https://www.legislation.gov.uk/uksi/2015/1864), [S.I. 2016/225](https://www.legislation.gov.uk/uksi/2016/225) and [S.I. 2019/632](https://www.legislation.gov.uk/uksi/2019/632).
+
+[^f00016]: Footnote: Sections 67 to 70 were amended by section 24 of and Schedule 2 to the Financial Services Act 2010 (c. 28), section 15 of and Scheudle 5 to the Financial Services Act 2012 (c. 21), section 35 of and Schedule 3 to the Financial Services (Banking Reform) Act [2013 (c. 33)](https://www.legislation.gov.uk/ukpga/2013/33).
+
+[^f00017]: Footnote: Sections 71V, 71W, 71X and 71Y are inserted into FSMA 2000 by the Financial Services and Markets Act 2000 (Designated Activities) (Supervision and Enforcement) Regulations 2025 ([S.I. 2025/22](https://www.legislation.gov.uk/uksi/2025/22)).
+
+[^f00018]: Footnote: Section 165 was amended by section 24 of and Schedule 2 to the Financial Services Act 2010 (c. 28), section 41 of and Schedule 12 to the Financial Services Act [2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), section 16 of and Schedule 2 to the Bank of England and Financial Services Act [2016 (c. 14)](https://www.legislation.gov.uk/ukpga/2016/14), sections 2 and 24 of and Schedules 2 and 9 to the Financial Services Act [2021 (c. 22)](https://www.legislation.gov.uk/ukpga/2021/22), section 9(3) of the Financial Services and Markets Act [2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [S.I. 2013/1773](https://www.legislation.gov.uk/uksi/2013/1773), [S.I. 2015/575](https://www.legislation.gov.uk/uksi/2015/575), and [S.I. 2022/466](https://www.legislation.gov.uk/uksi/2022/466).
+
+[^f00019]: Footnote: Section 166 was substituted by section 41 of and Schedule 12 to the Financial Services Act [2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21). It was amended by section 2 of and Schedule 2 to the Financial Services Act [2021 (c. 22)](https://www.legislation.gov.uk/ukpga/2021/22) and [S.I. 2022/466](https://www.legislation.gov.uk/uksi/2022/466).
+
+[^f00020]: Footnote: Section 167 was amended by section 41 of and Schedule 12 to the Financial Services Act [2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), section 2 of and Schedule 2 to the Financial Services Act [2021 (c. 22)](https://www.legislation.gov.uk/ukpga/2021/22), [S.I. 2007/126](https://www.legislation.gov.uk/uksi/2007/126) and [S.I. 2015/575](https://www.legislation.gov.uk/uksi/2015/575). There are other amendments but none are relevant.
+
+[^f00021]: Footnote: Section 168 was amended by section 62 of and Schedule 7 to the Counter-Terrorism Act [2008 (c. 28)](https://www.legislation.gov.uk/ukpga/2008/28), section 24 of and Schedule 2 to the Financial Services Act 2010 (c. 28), section 41 of and Schedule 12 to the Financial Services Act 2012 (c. 21) and [S.I. 2016/680](https://www.legislation.gov.uk/uksi/2016/680). There are other amendments but none are relevant.
+
+[^f00022]: Footnote: Section 169 was amended by section 41 of and Schedule 12 to the Financial Services Act 2012 (c. 21), [S.I. 2016/680](https://www.legislation.gov.uk/uksi/2016/680) and [S.I. 2019/632](https://www.legislation.gov.uk/uksi/2019/632).
+
+[^f00023]: Footnote: Section 170 was amended by section 41 of and Schedule 12 to the Financial Services Act [2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21).
+
+[^f00024]: Footnote: Section 171 was amended by section 2 of and Schedule 2 to the Financial Services Act 2021 (c. 22) and [S.I. 2007/126](https://www.legislation.gov.uk/uksi/2007/126).
+
+[^f00025]: Footnote: Section 174 was amended by section 41 of and Schedule 12 to the Financial Services Act 2012 (c. 21) and [S.I. 2016/680](https://www.legislation.gov.uk/uksi/2016/680).
+
+[^f00026]: Footnote: Section 175 was amended by section 41 of and Schedule 12 to the Financial Services Act [2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21) and by section 12 of and Schedule 2 to the Investigatory Powers Act [2016 (c. 25)](https://www.legislation.gov.uk/ukpga/2016/25).
+
+[^f00027]: Footnote: Section 176 was amended by section 24 of and Schedule 2 to the Financial Services Act 2010 (c. 28), section 41 of and Schedule 12 to the Financial Services Act 2012 (c. 21) and section 2 of and Schedule 2 to the Financial Services Act [2021 (c. 22)](https://www.legislation.gov.uk/ukpga/2021/22).
+
+[^f00028]: Footnote: Section 176A was inserted by section 41 of the Financial Services Act [2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21).
+
+[^f00029]: Footnote: Section 177 was amended by section 280 of and Schedule 26 to the Criminal Justice Act [2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), section 114 of and Schedule 18 to the Financial Services Act [2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [S.I. 2001/1090](https://www.legislation.gov.uk/uksi/2001/1090) and [S.I. 2016/680](https://www.legislation.gov.uk/uksi/2016/680).
+
+[^f00030]: Footnote: Section 177A was inserted by section 2 of the Financial Services Act [2021 (c. 22)](https://www.legislation.gov.uk/ukpga/2021/22).
+
+[^f00031]: Footnote: Section 204A was inserted by section 37 of and Schedule 9 to the Financial Services Act [2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21) and amended by section 23 of the Bank of England and Financial Services Act [2016 (c. 14)](https://www.legislation.gov.uk/ukpga/2016/14), section 11 of the Civil Liability Act [2018 (c. 29)](https://www.legislation.gov.uk/ukpga/2018/29), [S.I. 2013/1773](https://www.legislation.gov.uk/uksi/2013/1773), [S.I. 2015/1864](https://www.legislation.gov.uk/uksi/2015/1864), [S.I. 2016/225](https://www.legislation.gov.uk/uksi/2016/225), and [S.I. 2019/632](https://www.legislation.gov.uk/uksi/2019/632).
+
+[^f00032]: Footnote: Section 205 was amended by section 37 of and Schedule 9 to the Financial Services Act [2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21).
+
+[^f00033]: Footnote: Section 206 was amended by section 10 of the Financial Services Act 2010 (c. 28) and section 37 of and Schedule 9 to the Financial Services Act [2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21).
+
+[^f00034]: Footnote: Section 206B is inserted by the Financial Services and Markets Act 2000 (Designated Activities) (Supervision and Enforcement) Regulations 2025 ([S.I. 2025/22](https://www.legislation.gov.uk/uksi/2025/22)).
+
+[^f00035]: Footnote: Section 207 was amended by section 24 of and Schedule 2 to the Financial Services Act 2010 (c. 28) and section 37 of and Schedule 9 to the Financial Services Act [2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21).
+
+[^f00036]: Footnote: Section 208 was amended by section 24 of and Schedule 2 to the Financial Services Act 2010 (c. 28), and section 37 of and Schedule 9 to the Financial Services Act [2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21).
+
+[^f00037]: Footnote: Section 208A is inserted by the Financial Services and Markets Act 2000 (Designated Activities) (Supervision and Enforcement) Regulations 2025 ([S.I. 2025/22](https://www.legislation.gov.uk/uksi/2025/22)).
+
+[^f00038]: Footnote: Section 209 was amended by section 37 of and Schedule 9 to the Financial Services Act [2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21).
+
+[^f00039]: Footnote: Section 210 was amended by section 24 of and Schedule 2 to the Financial Services Act 2010 (c. 28) and section 37 of and Schedule 9 to the Financial Services Act [2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21).
+
+[^f00040]: Footnote: Section 211 was amended by section 37 of and Schedule 9 to the Financial Services Act [2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21).
+
+[^f00041]: Footnote: Section 380 was amended by section 37 of and Schedule 9 to the Financial Services Act 2012 (c. 21). There are other amendments but none are relevant.
+
+[^f00042]: Footnote: Section 382 was amended by section 37 of and Schedule 9 to the Financial Services Act [2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21). There are other amendments but none are relevant.
+
+[^f00043]: Footnote: Section 384 was amended by section 37 of and Schedule 9 to the Financial Services Act [2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21) and [S.I. 2016/680](https://www.legislation.gov.uk/uksi/2016/680). There are other amendments but none are relevant.
+
+[^f00044]: Footnote: Section 385 was amended by section 37 of and Schedule 9 to the Financial Services Act [2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21).
+
+[^f00045]: Footnote: Section 386 was amended by section 37 of and Schedule 9 to the Financial Services Act [2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21).
+
+[^f00046]: Footnote: Section 387 was amended by section 37 of and Schedule 9 to the Financial Services Act [2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21) and section 35 of and Schedule 3 to the Financial Services (Banking Reform) Act 2013 (c. 33).
+
+[^f00047]: Footnote: Section 388 was amended by section 37 of and Schedule 9 to the Financial Services Act [2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21) and section 35 of and Schedule 3 to the Financial Services (Banking Reform) Act [2013 (c. 33)](https://www.legislation.gov.uk/ukpga/2013/33).
+
+[^f00048]: Footnote: Sections 389 and 390 were amended by section 37 of and Schedule 9 to the Financial Services Act [2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21).
+
+[^f00049]: Footnote: Section 391 was amended by sections 13 and 24 of the Financial Services Act [2010 (c. 28)](https://www.legislation.gov.uk/ukpga/2010/28), section 37 of and Schedule 9 to the Financial Services Act [2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), section 4 of the Financial Services (Banking Reform) Act [2013 (c. 33)](https://www.legislation.gov.uk/ukpga/2013/33), section 56 of and Schedule 10 to the Financial Services and Markets Act [2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29). There are other amendments but none are relevant.
+
+[^f00050]: Footnote: Section 392 was amended by section 56 of and Schedule 10 to the Financial Services and Markets Act [2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29). There are other amendments to section 392 but none is relevant. Section 393 was amended by section 37 of and Schedule 9 to the Financial Services Act [2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21). Section 394 was amended by section 82 of and Schedule 4 to the Regulation of Investigatory Powers Act [2000 (c. 23)](https://www.legislation.gov.uk/ukpga/2000/23), section 37 of and Schedule 9 to the Financial Services Act [2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21) and section 271 of and Schedule 10 to the Investigatory Powers Act [2016 (c. 25)](https://www.legislation.gov.uk/ukpga/2016/25).
+
+[^f00051]: Footnote: Section 395 was amended by section 37 of and Schedule 9 to the Financial Services Act [2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21). There are other amendments but none are relevant.
+
+[^f00052]: Footnote: Section 396 was amended by section 37 of and Schedule 9 to the Financial Services Act [2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21).
+
+[^f00053]: Footnote: Section 400 was amended by section 37 of and Schedule 9 to the Financial Services Act [2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21).
+
+[^f00054]: Footnote: Section 401 was amended by section 37 of and Schedule 9 to the Financial Services Act [2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21) and [S.I. 2013/1881](https://www.legislation.gov.uk/uksi/2013/1881). There are other amendments but none are relevant.
+
+[^f00055]: Footnote: Section 403 was amended by section 37 of and Schedule 9 to the Financial Services Act [2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21).
+
+[^f00056]: Footnote: Section 415AA was inserted by section 60 of the Financial Services and Markets Act [2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29).
+
+[^f00057]: Footnote: Section 415B was inserted by section 37 of and Schedule 9 to the Financial Services Act [2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), and amended by section 35 of and Schedule 3 to the Financial Services (Banking Reform) Act [2013 (c. 33)](https://www.legislation.gov.uk/ukpga/2013/33), section 21 of and Schedule 4 to the Bank of England and Financial Services Act [2016 (c. 14)](https://www.legislation.gov.uk/ukpga/2016/14), and [S.I. 2016/680](https://www.legislation.gov.uk/uksi/2016/680).
+
+[^f00058]: Footnote: Schedule 1ZA was inserted by section 6 of and Schedule 3 to the Financial Services Act [2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21). Paragraphs 19 to 22 were amended by section 141 of and Schedule 10 to the Financial Services (Banking Reform) Act [2013 (c. 33)](https://www.legislation.gov.uk/ukpga/2013/33), section 47 of and Schedule 3 to the Pension Schemes Act [2015 (c. 8)](https://www.legislation.gov.uk/ukpga/2015/8), section 25 of and Schedule 3 to the Financial Guidance and Claims Act [2018 (c. 10)](https://www.legislation.gov.uk/ukpga/2018/10), section 2 of and Schedule 2 to the Financial Services Act [2021 (c. 22)](https://www.legislation.gov.uk/ukpga/2021/22), and section 56 of and Schedule 10 to the Financial Services and Markets Act [2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29).
+
+[^key-6a5b12f37dc92213a9749de00ab6f308]: Commencement: Sch. 1 para. 4 comes into force in accordance with reg. 2(2)(3)
+
+[^key-2de0e63e5cf5f999fc591fee151dee77]: Commencement: Sch. 1 para. 5 comes into force in accordance with reg. 2(2)(3)
+
+[^key-9ab6d8252b5ce9608bac0477891ee688]: Commencement: Sch. 1 para. 6 comes into force in accordance with reg. 2(2)(3)
+
+[^key-8d5de7cae54eb56a6e54c656b8a37044]: Commencement: Sch. 1 para. 7 comes into force in accordance with reg. 2(2)(3)
+
+[^key-c61db289a49dc6a00ab1bee9822048e7]: Commencement: Sch. 1 para. 8 comes into force in accordance with reg. 2(2)(3)
+
+[^key-bb316fe8ef2df0097402bd4888f0358f]: Commencement: Sch. 1 para. 9 comes into force in accordance with reg. 2(2)(3)
+
+[^key-acdf62ba449baf5a27aeee2c70f8ca7b]: Commencement: Sch. 2 para. 1 comes into force in accordance with reg. 2(2)(3)
+
+[^f00059]: Footnote: Part 8A was inserted by section 8 of the Financial Services Act [2010 (c. 28)](https://www.legislation.gov.uk/ukpga/2010/28) and amended by [S.I. 2012/2554](https://www.legislation.gov.uk/uksi/2012/2554) and [S.I. 2018/1321](https://www.legislation.gov.uk/uksi/2018/1321).
+
+[^f00060]: Footnote: Section 133 was substituted by [S.I. 2010/22](https://www.legislation.gov.uk/uksi/2010/22) and subsection (7A) inserted by section 23(2)(c) of the Financial Services Act [2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21).
+
+[^f00061]: Footnote: Section 139A was substituted by section 24(1) of the Financial Services Act [2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21). Subsection (4) was amended by [S.I. 2016/680](https://www.legislation.gov.uk/uksi/2016/680), [S.I. 2019/632](https://www.legislation.gov.uk/uksi/2019/632) (as amended by [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301)) and [S.I. 2023/1424](https://www.legislation.gov.uk/uksi/2023/1424).
+
+[^f00062]: Footnote: Subsection (1ZB) was substituted by section 37 of and Schedule 9 to the Financial Services Act [2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21). There have been amendments to subsection (1ZB) but none is relevant.
+
+[^f00063]: Footnote: The references to section 131H(1) and (4) in section 392(a) and (b) were inserted by section 24 of and Schedule 2 to the Financial Services Act [2010 (c. 28)](https://www.legislation.gov.uk/ukpga/2010/28). There are other amendments to section 392 but none is relevant.
+
+[^f00064]: Footnote: Subsection (1A) was inserted by [S.I. 2013/1773](https://www.legislation.gov.uk/uksi/2013/1773). There are amendments to subsection (1A) but none is relevant.
+
+[^f00065]: Footnote: Section 415B was inserted by section 37 of and Schedule 9 to the Financial Services Act [2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21). There are amendments to section 415B but none is relevant.
+
+[^f00066]: Footnote: Definition inserted by [S.I. 2012/2554](https://www.legislation.gov.uk/uksi/2012/2554) and amended by [S.I. 2019/632](https://www.legislation.gov.uk/uksi/2019/632), [S.I. 2020/1385](https://www.legislation.gov.uk/uksi/2020/1385) and [S.I. 2023/1424](https://www.legislation.gov.uk/uksi/2023/1424).
+
+[^f00067]: Footnote: Schedule 1ZA was substituted by section 6 of and Schedule 3 to the Financial Services Act [2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21). Paragraph 8(3)(c)(i) was amended by section 4(6) and 35 of and Schedule 3 paragraph 16(b)(1) to the Financial Services (Banking Reform) Act [2013 (c. 33)](https://www.legislation.gov.uk/ukpga/2013/33) and by section 25 of and Schedule 3 to the Financial Guidance and Claims Act [2018 (c. 10)](https://www.legislation.gov.uk/ukpga/2018/10).
+
+[^key-8a1a46775737e83377171e2f5fd4d46e]: Commencement: Sch. 2 para. 2 comes into force in accordance with reg. 2(2)(3)
+
+[^f00068]: Footnote: [2010 c. 28](https://www.legislation.gov.uk/ukpga/2010/28).
+
+[^key-fb46fb4d3b41583f361ff939323b404f]: Commencement: Sch. 2 para. 3 comes into force in accordance with reg. 2(2)(3)
+
+[^f00069]: Footnote: [2012 c. 21](https://www.legislation.gov.uk/ukpga/2012/21).
+
+[^f00070]: Footnote: Section 85(4)(c)(i) was amended by section 35 of and Schedule 3 to the Financial Services (Banking Reform) Act [2013 (c. 33)](https://www.legislation.gov.uk/ukpga/2013/33) and by section 25 of and Schedule 3 to the Financial Guidance and Claims Act [2018 (c. 10)](https://www.legislation.gov.uk/ukpga/2018/10).
+
+[^key-1ae2a50bbe49819bf135f403e3d187dd]: Commencement: Sch. 2 para. 4 comes into force in accordance with reg. 2(2)(3)
+
+[^f00071]: Footnote: [S.I. 2001/2188](https://www.legislation.gov.uk/uksi/2001/2188).
+
+[^f00072]: Footnote: Definition inserted by [S.I. 2016/715](https://www.legislation.gov.uk/uksi/2016/715) and amended by [S.I. 2019/681](https://www.legislation.gov.uk/uksi/2019/681).
+
+[^f00073]: Footnote: Regulation 12(4) was inserted by [S.I. 2012/2554](https://www.legislation.gov.uk/uksi/2012/2554).
+
+[^f00074]: Footnote: EUR 2016/679.
+
+[^f00075]: Footnote: [2018 c. 12](https://www.legislation.gov.uk/ukpga/2018/12).
+
+[^key-1d9b6892a3b8951faa669df9e854cd4e]: Commencement: Sch. 2 para. 5 comes into force in accordance with reg. 2(2)(3)
+
+[^f00076]: Footnote: [S.I. 2013/419](https://www.legislation.gov.uk/uksi/2013/419). Article 5(3) was amended by [S.I. 2019/632](https://www.legislation.gov.uk/uksi/2019/632). There are other amending instruments but none are relevant.
+
+[^key-21fec2d8d219b0918c33858f580a05ea]: Commencement: Sch. 2 para. 6 comes into force in accordance with reg. 2(2)(3)
+
+[^f00077]: Footnote: [S.I. 2013/472](https://www.legislation.gov.uk/uksi/2013/472).
+
+[^key-3e02e87fc54f1555ba8fbc34e914b025]: Commencement: Sch. 2 para. 7 comes into force in accordance with reg. 2(2)(3)
+
+[^f00078]: Footnote: [S.I. 2018/1115](https://www.legislation.gov.uk/uksi/2018/1115).
+
+[^key-082050bedd29f091b557295e24ca388e]: Commencement: Sch. 2 para. 8 comes into force in accordance with reg. 2(2)(3)
+
+[^f00079]: Footnote: [S.I. 2019/541](https://www.legislation.gov.uk/uksi/2019/541).
+
+[^key-5b78124d6caaffaec6a2a50127ddffb8]: Commencement: Sch. 2 para. 9 comes into force in accordance with reg. 2(2)(3)
+
+[^f00080]: Footnote: [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680). Regulation 11(5)(d) was amended by [S.I. 2022/1223](https://www.legislation.gov.uk/uksi/2022/1223).
+
+[^key-aeac0c69a1c070dc627824c148f8eef5]: Commencement: Sch. 2 para. 10 comes into force in accordance with reg. 2(2)(3)
+
+[^f00081]: Footnote: [S.I. 2020/1055](https://www.legislation.gov.uk/uksi/2020/1055).

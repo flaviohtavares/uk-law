@@ -1,0 +1,228 @@
+---
+title: Employers’ Liability (Compulsory Insurance) Act 1969
+id: ukpga/1969/57
+type: UnitedKingdomPublicGeneralAct
+category: primary
+status: revised
+made_date: '1969-10-22'
+text_date: '2026-10-05'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/ukpga/1969/57
+pdf_urls:
+- http://www.legislation.gov.uk/ukpga/1969/57/pdfs/ukpga_19690057_en.pdf
+- http://www.legislation.gov.uk/ukpga/1969/57/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Employers’ Liability (Compulsory Insurance) Act 1969
+
+> Text as at 2026-10-05.
+>
+> Extent: England, Wales, Scotland.
+
+*Extent: E+W+S*
+
+Employers’ Liability (Compulsory Insurance) Act 1969
+
+1969 c.57
+
+An Act to require employers to insure against their liability for personal injury to their employees; and for purposes connected with the matter aforesaid.
+
+\[22nd October 1969\][^c691805][^c691806][^c691807][^c691808][^c691809][^c691810][^c691811][^c691812][^c691813][^c691814][^key-d866730011a32e38046bbc248f20fd8a][^key-473a97be81f6e2fe404c74295f035189][^key-17081df64b1573cb45c65ab5eefb859c]
+
+## 1. Insurance against liability for employees.
+
+(1) Except as otherwise provided by this Act, every employer carrying on any business in Great Britain shall insure, and maintain insurance, under one or more approved policies with an authorised insurer or insurers against liability for bodily injury or disease sustained by his employees, and arising out of and in the course of their employment in Great Britain in that business, but except in so far as regulations otherwise provide not including injury or disease suffered or contracted outside Great Britain.
+
+(2) Regulations may provide that the amount for which an employer is required by this Act to insure and maintain insurance shall, either generally or in such cases or classes of case as may be prescribed by the regulations, be limited in such manner as may be so prescribed.
+
+(3) For the purposes of this Act—
+
+- (a) “**approved policy**” means a policy of insurance not subject to any conditions or exceptions prohibited for those purposes by regulations;
+- (b)[^c691822] “authorised insurer” means—
+  - (i) a person who has permission under Part 4A[^key-87cb32fb5fca8b17c77a2fb93cfa436d] of the Financial Services and Markets Act 2000 to effect and carry out contracts of insurance of a kind required by this Act and regulations made under this Act, or
+  - (ii) an EEA firm of the kind mentioned in paragraph 5(d) of Schedule 3 to the Financial Services and Markets Act 2000, which has permission under paragraph 15 of that Schedule to effect and carry out contracts of insurance of a kind required by this Act and regulations made under this Act;
+- (c) “**business**” includes a trade or profession, and includes any activity carried on by a body of persons, whether corporate or unincorporate;
+- (d) except as otherwise provided by regulations, an employer not having a place of business in Great Britain shall be deemed not to carry on business there.
+
+(3A)[^c691823] Subsection (3)(b) must be read with—
+
+- (a) section 22 of the Financial Services and Markets Act 2000;
+- (b) any relevant order under that section; and
+- (c) Schedule 2 to that Act.
+
+## 2. Employees to be covered.
+
+(1) For the purposes of this Act the term “**employee**” means an individual who has entered into or works under a contract of service or apprenticeship with an employer whether by way of manual labour, clerical work or otherwise, whether such contract is expressed or implied, oral or in writing.
+
+(2) This Act shall not require an employer to insure—
+
+- (a) in respect of an employee of whom the employer is the husband, wife,civil partner,[^key-7b364e40cc34cde93e4060261410641d] father, mother, grandfather, grandmother, step-father, step-mother, son, daughter, grandson, granddaughter, stepson, stepdaughter, brother, sister, half-brother or half-sister; or
+- (b) except as otherwise provided by regulations, in respect of employees not ordinarily resident in Great Britain.
+
+## 3. Employers exempted from insurance.
+
+(1)[^c691929] This Act shall not require any insurance to be effected by—
+
+- (a)[^key-b5769b6fed776b39ffa8eee7c0217be2] any such authority as is mentioned in subsection (2) below; or
+- (b)[^key-b5769b6fed776b39ffa8eee7c0217be2] any body corporate established by or under any enactment for the carrying on of any industry or part of an industry, or of any undertaking, under national ownership or control; or
+- (c)[^key-b5769b6fed776b39ffa8eee7c0217be2] in relation to any such cases as may be specified in the regulations, any employer exempted by regulations.
+
+(2)[^c691930][^c691931] The authorities referred to in subsection (1)(a) above are
+
+- (a)[^c691932] a health service body, as defined in section 60(7) of the National Health Service and Community Care Act 1990, NHS England[^key-70e20556309ae9205d57ffcc508bbf4f][^key-ecf2944c6c04e8ec888147bad1e46ff0] , an integrated care board established under section 14Z25[^key-e787f4dc01e41061fba1a7b61360aebd] of the National Health Service Act 2006,[^c691933] ... a National Health Service trust established under section 25 of the National Health Service Act 2006, section 18 of the National Health Service (Wales) Act 2006[^key-aa4c3836c1d00867250dc66e9a596193] or the National Health Service (Scotland) Act 1978,[^c691934] an[^key-1d4793c88f543ad41fb5b7165071bd43] NHS foundation trust [^key-df7cf22f25ba60de1e638fb239de3f2d]... and a Local Health Board established under[^c691936] section 11 of the National Health Service (Wales) Act 2006[^key-d085237ca20da16d18a688da107f5ef3] and
+- (b)[^key-00935a468020be3db67eed715613b5fa] the Common Council of the City of London, [^c691937] ... the council of a London borough, the council of a county, [^c691938]... or district[^c691939] in England the council of a county or county borough in Wales,[^c691940] the Broads Authority[^c691941] a National Park authority[^c691942], a council constituted under section 2 of the Local Government[^c691943] etc. (Scotland) Act 1994 in Scotland, any joint board or joint committee in England and Wales or joint committee in Scotland which is so constituted as to include among its members representatives of any such council the Strathclyde Passenger Transport Authority[^c691944] [^c691946]... , any joint authority established by Part IV of the Local Government Act 1985[^c691945], an economic prosperity board established under section 88 of the Local Democracy, Economic Development and Construction Act 2009, a combined authority established under section 103 of that Act,[^key-63d27d3f66b47d591065d6b7d6a66c56] a combined county authority established under section 9(1) of the Levelling-up and Regeneration Act 2023,[^key-e6eb37d336abd68ef773ab4020696046] a fire and rescue authority created by an order under section 4A of the Fire and Rescue Services Act 2004,[^key-1d9648f478ae32d938aaddf710ad3152] [^key-432034d6c7cfe01edfba27e18f64b50d]... the London Fire Commissioner,[^key-7e7b2e8df683523b468efbc10a98a189] , any local policing body, any chief constable established under section 2 of the Police Reform and Social Responsibility Act 2011, and the Commissioner of Police of the Metropolis[^key-78fa27939a3c2abc9e076c3ab84943ff], the Scottish Police Authority and the Scottish Fire and Rescue Service[^key-ef1ce2df940c0da402dd7c9e703c9927].; and[^key-b499030355deb90a77b60a1bc18a261d]
+- (c) the Commission for Equality and Human Rights.
+
+## 4. Certificates of insurance.
+
+(1) Provision may be made by regulations for securing that certificates of insurance in such form and containing such particulars as may be prescribed by the regulations, are issued by insurers to employers entering into contracts of insurance in accordance with the requirements of this Act and for the surrender in such circumstances as may be so prescribed of certificates so issued.
+
+(2) Where a certificate of insurance is required to be issued to an employer in accordance with regulations under subsection (1) above, the employer (subject to any provision made by the regulations as to the surrender of the certificate) shall during the currency of the insurance and such further period (if any) as may be provided by regulations—
+
+- (a) comply with any regulations requiring him to display copies of the certificate of insurance for the information of his employees;
+- (b) produce the certificate of insurance or a copy thereof on demand to any inspector duly authorised by the Secretary of State for the purposes of this Act and produce or send the certificate or a copy thereof to such other persons, at such place and in such circumstances as may be prescribed by regulations;
+- (c) permit the policy of insurance or a copy thereof to be inspected by such persons and in such circumstances as may be so prescribed.
+
+(3) A person who fails to comply with a requirement imposed by or under this section shall be liable on summary conviction to a fine not exceeding level 3 on the standard scale[^c691949].
+
+## 5. Penalty for failure to insure.
+
+An employer who on any day is not insured in accordance with this Act when required to be so shall be guilty of an offence and shall be liable on summary conviction to a fine not exceeding level 4 on the standard scale[^c691950]; and where an offence under this section committed by a corporation has been committed with the consent or connivance of, or facilitated by any neglect on the part of, any director, manager, secretary or other officer of the corporation, he, as well as the corporation shall be deemed to be guilty of that offence and shall be liable to be proceeded against and punished accordingly.
+
+## 6. Regulations.
+
+(1) The Secretary of State may by statutory instrument make regulations for any purpose for which regulations are authorised to be made by this Act, but any such statutory instrument shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+(2) Any regulations under this Act may make different provision for different cases or classes of case, and may contain such incidental and supplementary provisions as appear to the Secretary of State to be necessary or expedient for the purposes of the regulations.
+
+## 7. Short title, extent and commencement.
+
+(1) This Act may be cited as the Employers’ Liability (Compulsory Insurance) Act 1969.
+
+(2) This Act shall not extend to Northern Ireland.
+
+(3)[^c691951] This Act shall come into force for any purpose on such date as the Secretary of State may by order contained in a statutory instrument appoint, and the purposes for which this Act is to come into force at any time may be defined by reference to the nature of an employer’s business, or to that of an employee’s work, or in any other way.
+
+## Annotations
+
+[^c691805]: Modification: Act restricted (22.5.2000) by [1999 c. 33](https://www.legislation.gov.uk/ukpga/1999/33), [s. 83(7)](https://www.legislation.gov.uk/ukpga/1999/33/section/83/7), [Sch. 5 para. 17(4)](https://www.legislation.gov.uk/ukpga/1999/33/schedule/5/paragraph/17/4); [S.I. 2000/1282](https://www.legislation.gov.uk/uksi/2000/1282), [art. 2](https://www.legislation.gov.uk/uksi/2000/1282/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2000/1282/schedule)
+
+    Act restricted (*prosp.*) by [2002 c. 30](https://www.legislation.gov.uk/ukpga/2002/30), [ss. 9](https://www.legislation.gov.uk/ukpga/2002/30/section/9), [108(2)-(5)](https://www.legislation.gov.uk/ukpga/2002/30/section/108/2), [Sch. 2 para. 7(2)](https://www.legislation.gov.uk/ukpga/2002/30/schedule/2/paragraph/7/2)
+
+[^c691806]: Modification: Power to apply Act conferred by [Mineral Workings (Offshore Installations) Act 1971 (c. 61)](https://www.legislation.gov.uk/ukpga/1971/61), [s. 6(3)](https://www.legislation.gov.uk/ukpga/1971/61/section/6/3), [Sch. para. 4(2)](https://www.legislation.gov.uk/ukpga/1971/61/schedule/paragraph/4/2)
+
+[^c691807]: Modification: Act excluded by [Sex Discrimination Act 1975 (c. 65)](https://www.legislation.gov.uk/ukpga/1975/65), [Sch. 3 para. 10](https://www.legislation.gov.uk/ukpga/1975/65/schedule/3/paragraph/10), and [Race Relations Act 1976 (c. 74)](https://www.legislation.gov.uk/ukpga/1976/74), [Sch. 1 para. 11](https://www.legislation.gov.uk/ukpga/1976/74/schedule/1/paragraph/11)
+
+[^c691808]: Modification: Act restricted by [Police and Criminal Evidence Act 1984 (c. 60, SIF 95)](https://www.legislation.gov.uk/ukpga/1984/60), [s. 83(2)](https://www.legislation.gov.uk/ukpga/1984/60/section/83/2), [Sch. 4 para. 8](https://www.legislation.gov.uk/ukpga/1984/60/schedule/4/paragraph/8)
+
+[^c691809]: Modification: Act restricted by [Employment Act 1988 (c. 19, SIF 43:5)](https://www.legislation.gov.uk/ukpga/1988/19), [s. 19(2)](https://www.legislation.gov.uk/ukpga/1988/19/section/19/2), [Sch. 1 para. 6](https://www.legislation.gov.uk/ukpga/1988/19/schedule/1/paragraph/6)
+
+    Act restricted (1.7.1996) by [1991 c. 53](https://www.legislation.gov.uk/ukpga/1991/53), [Sch. 5 para. 5(4)](https://www.legislation.gov.uk/ukpga/1991/53/schedule/5/paragraph/5/4) (as substituted by [1994 c. 33](https://www.legislation.gov.uk/ukpga/1994/33), [s. 168(2)](https://www.legislation.gov.uk/ukpga/1994/33/section/168/2), [Sch. 10](https://www.legislation.gov.uk/ukpga/1994/33/schedule/10); [S.I. 1996/1608](https://www.legislation.gov.uk/uksi/1996/1608), [art. 2](https://www.legislation.gov.uk/uksi/1996/1608/article/2))
+
+    Act restricted (1.4.1999) by [1996 c. 16](https://www.legislation.gov.uk/ukpga/1996/16), [s. 66](https://www.legislation.gov.uk/ukpga/1996/16/section/66), [Sch. 5 para. 8](https://www.legislation.gov.uk/ukpga/1996/16/schedule/5/paragraph/8); [S.I. 1999/533](https://www.legislation.gov.uk/uksi/1999/533), [arts. 2](https://www.legislation.gov.uk/uksi/1999/533/article/2), [3](https://www.legislation.gov.uk/uksi/1999/533/article/3)
+
+[^c691810]: Modification: Act excluded by [Broadcasting Act 1990 (c. 42, SIF 96)](https://www.legislation.gov.uk/ukpga/1990/42), [ss. 142(4)](https://www.legislation.gov.uk/ukpga/1990/42/section/142/4), [151(3)](https://www.legislation.gov.uk/ukpga/1990/42/section/151/3), [183(7)](https://www.legislation.gov.uk/ukpga/1990/42/section/183/7), [Sch. 13 para. 8(6)](https://www.legislation.gov.uk/ukpga/1990/42/schedule/13/paragraph/8/6), [Sch. 14 para. 9(6)](https://www.legislation.gov.uk/ukpga/1990/42/schedule/14/paragraph/9/6), [Sch. 19 para. 7(3)](https://www.legislation.gov.uk/ukpga/1990/42/schedule/19/paragraph/7/3)
+
+[^c691811]: Modification: Act excluded (16.10.1992) by [Trade Union and Labour Relations (Consolidation) Act 1992 (c. 52)](https://www.legislation.gov.uk/ukpga/1992/52), [ss. 269(4)](https://www.legislation.gov.uk/ukpga/1992/52/section/269/4), [302](https://www.legislation.gov.uk/ukpga/1992/52/section/302) (with [s. 300(3)](https://www.legislation.gov.uk/ukpga/1992/52/section/300/3), [Sch. 3](https://www.legislation.gov.uk/ukpga/1992/52/schedule/3))
+
+    Act excluded (1.3.2000) by [1998 c. 29](https://www.legislation.gov.uk/ukpga/1998/29), [s. 6(7)](https://www.legislation.gov.uk/ukpga/1998/29/section/6/7), [Sch. 5 para. 4(6)](https://www.legislation.gov.uk/ukpga/1998/29/schedule/5/paragraph/4/6); [S.I. 2000/183](https://www.legislation.gov.uk/uksi/2000/183), [art. 2(2)](https://www.legislation.gov.uk/uksi/2000/183/article/2/2)
+
+[^c691812]: Commencement: Act not in force at Royal Assent see [s. 7(3)](https://www.legislation.gov.uk/ukpga/1969/57/section/7/3)
+
+[^c691813]: Modification: Act applied (with modifications) (20.6.1995) by [S.I. 1995/738](https://www.legislation.gov.uk/uksi/1995/738), [reg. 21](https://www.legislation.gov.uk/uksi/1995/738/regulation/21)
+
+[^c691814]: Modification: Act amended (1.4.1997) by [1996 c. 55](https://www.legislation.gov.uk/ukpga/1996/55), [s. 106(3)](https://www.legislation.gov.uk/ukpga/1996/55/section/106/3), [Sch. 3 para. 10(6)](https://www.legislation.gov.uk/ukpga/1996/55/schedule/3/paragraph/10/6) (with s. 43(6); [S.I. 1997/1005](https://www.legislation.gov.uk/uksi/1997/1005), [art. 4](https://www.legislation.gov.uk/uksi/1997/1005/article/4)
+
+[^key-d866730011a32e38046bbc248f20fd8a]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1969/57) restricted (1.4.2003) by [Police Reform Act 2002 (c. 30)](https://www.legislation.gov.uk/ukpga/2002/30), [s. 108(2)](https://www.legislation.gov.uk/ukpga/2002/30/section/108/2), [Sch. 2 para. 7(2)](https://www.legislation.gov.uk/ukpga/2002/30/schedule/2/paragraph/7/2); [S.I. 2003/808](https://www.legislation.gov.uk/uksi/2003/808), [art. 2(a)](https://www.legislation.gov.uk/uksi/2003/808/article/2/a)
+
+[^key-473a97be81f6e2fe404c74295f035189]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1969/57) modified (3.5.2007) by [National Assembly for Wales Commission (Crown Status) Order 2007 (S.I. 2007/1118)](https://www.legislation.gov.uk/uksi/2007/1118), [art. 2](https://www.legislation.gov.uk/uksi/2007/1118/article/2)
+
+[^key-17081df64b1573cb45c65ab5eefb859c]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1969/57) excluded (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 12 para. 5(6)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/12/paragraph/5/6) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/e)
+
+[^c691822]: Textual amendment: S. 1(3)(b) substituted (1.12.2001) by [S.I. 2001/3649](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [280(2)](https://www.legislation.gov.uk/uksi/2001/3649/article/280/2)
+
+[^key-87cb32fb5fca8b17c77a2fb93cfa436d]: Textual amendment: Words in [s. 1(3)(b)(i)](https://www.legislation.gov.uk/ukpga/1969/57/section/1/3/b/i) substituted (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 18 para. 34](https://www.legislation.gov.uk/ukpga/2012/21/schedule/18/paragraph/34) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+
+[^c691823]: Textual amendment: S. 1(3A) inserted (1.12.2001) by [S.I. 2001/3649](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [280(3)](https://www.legislation.gov.uk/uksi/2001/3649/article/280/3)
+
+[^key-7b364e40cc34cde93e4060261410641d]: Textual amendment: Words in [s. 2(2)(a)](https://www.legislation.gov.uk/ukpga/1969/57/section/2/2/a) inserted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [s. 263(10)(b)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/10/b), [Sch. 27 para. 33](https://www.legislation.gov.uk/ukpga/2004/33/schedule/27/paragraph/33); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/2)
+
+[^c691929]: Modification: S. 3(1) extended by [Local Government Act 1985 (c. 51, SIF 81:1)](https://www.legislation.gov.uk/ukpga/1985/51), [s. 57(7)](https://www.legislation.gov.uk/ukpga/1985/51/section/57/7), [Sch. 13 para. 14](https://www.legislation.gov.uk/ukpga/1985/51/schedule/13/paragraph/14)(*b*)
+
+    S. 3(1) extended (5.7.1994) by [1994 c. 19](https://www.legislation.gov.uk/ukpga/1994/19), [ss. 39](https://www.legislation.gov.uk/ukpga/1994/19/section/39), [66(2)](https://www.legislation.gov.uk/ukpga/1994/19/section/66/2), [Sch. 13 para. 24(d)](https://www.legislation.gov.uk/ukpga/1994/19/schedule/13/paragraph/24/d) (with [ss. 54(5)(7)](https://www.legislation.gov.uk/ukpga/1994/19/section/54/5/7), [55(5)](https://www.legislation.gov.uk/ukpga/1994/19/section/55/5), [Sch. 17 para. 22(1)](https://www.legislation.gov.uk/ukpga/1994/19/schedule/17/paragraph/22/1), [23(2)](https://www.legislation.gov.uk/ukpga/1994/19/schedule/17/paragraph/23/2))
+
+[^key-b5769b6fed776b39ffa8eee7c0217be2]: Modification: S. 3(1)(a)-(c) modified (31.3.2014) by [Mesothelioma Act 2014 (c. 1)](https://www.legislation.gov.uk/ukpga/2014/1), [ss. 18(2)(a)](https://www.legislation.gov.uk/ukpga/2014/1/section/18/2/a), [19(1)](https://www.legislation.gov.uk/ukpga/2014/1/section/19/1); [S.I. 2014/459](https://www.legislation.gov.uk/uksi/2014/459), [art. 3(f)](https://www.legislation.gov.uk/uksi/2014/459/article/3/f)
+
+[^c691930]: Modification: S. 3(2) extended by [S. I. 1985/1884](https://www.legislation.gov.uk/uksi/1985/1884), [art. 10](https://www.legislation.gov.uk/uksi/1985/1884/article/10), [Sch. 3 para. 4](https://www.legislation.gov.uk/uksi/1985/1884/schedule/3/paragraph/4)(*g*)
+
+[^c691931]: Modification: S. 3(2) extended by [S. I. 1987/2110](https://www.legislation.gov.uk/uksi/1987/2110), [art. 2](https://www.legislation.gov.uk/uksi/1987/2110/article/2), [Sch. 1 para. 8(d)](https://www.legislation.gov.uk/uksi/1987/2110/schedule/1/paragraph/8/d)
+
+[^c691932]: Textual amendment: Words expressed to be inserted after the words “subsection (1)(a) above” (1. 4. 1991) by [National Health Service and Community Care Act 1990 (c. 19, SIF 113:2)](https://www.legislation.gov.uk/ukpga/1990/19), [s. 60(2)](https://www.legislation.gov.uk/ukpga/1990/19/section/60/2), [Sch. 8 para. 1](https://www.legislation.gov.uk/ukpga/1990/19/schedule/8/paragraph/1)
+
+[^key-70e20556309ae9205d57ffcc508bbf4f]: Textual amendment: Words in [s. 3](https://www.legislation.gov.uk/ukpga/1969/57/section/3) substituted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 1 para. 1(1)](https://www.legislation.gov.uk/ukpga/2022/31/schedule/1/paragraph/1/1)[(2)](https://www.legislation.gov.uk/ukpga/2022/31/schedule/1/paragraph/1/2); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+
+[^key-ecf2944c6c04e8ec888147bad1e46ff0]: Textual amendment: Words in s. 3(2)(a) inserted (1.10.2012) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 5 para. 14(a)](https://www.legislation.gov.uk/ukpga/2012/7/schedule/5/paragraph/14/a); [S.I. 2012/1831](https://www.legislation.gov.uk/uksi/2012/1831), [art. 2(2)](https://www.legislation.gov.uk/uksi/2012/1831/article/2/2)
+
+[^key-e787f4dc01e41061fba1a7b61360aebd]: Textual amendment: Words in [s. 3(2)(a)](https://www.legislation.gov.uk/ukpga/1969/57/section/3/2/a) substituted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 4 para. 9](https://www.legislation.gov.uk/ukpga/2022/31/schedule/4/paragraph/9); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+
+[^c691933]: Textual amendment: Word “and” in s. 3(2)(a) omitted (8.2.2000) by virtue of [S.I. 2000/90](https://www.legislation.gov.uk/uksi/2000/90), [art. 3](https://www.legislation.gov.uk/uksi/2000/90/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2000/90/schedule/1) (with [art. 2(5)](https://www.legislation.gov.uk/uksi/2000/90/article/2/5))
+
+[^key-aa4c3836c1d00867250dc66e9a596193]: Textual amendment: Words in s. 3(2)(a) substituted (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 1 para. 47(a)](https://www.legislation.gov.uk/ukpga/2006/43/schedule/1/paragraph/47/a) (with [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/3/part/1))
+
+[^c691934]: Textual amendment: Words in s. 3(2)(a) substituted (10.10.2002 for W., 1.3.2007 in so far as not already in force, immediately before the National Health Service Act 2006 comes into force) by [National Health Service Reform and Health Care Professions Act 2002 (c. 17)](https://www.legislation.gov.uk/ukpga/2002/17), [s. 42(3)](https://www.legislation.gov.uk/ukpga/2002/17/section/42/3), [Sch. 5 para. 3(a)](https://www.legislation.gov.uk/ukpga/2002/17/schedule/5/paragraph/3/a); [S.I. 2002/2532](https://www.legislation.gov.uk/uksi/2002/2532), [art. 2](https://www.legislation.gov.uk/uksi/2002/2532/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2002/2532/schedule); [S.I. 2006/1407](https://www.legislation.gov.uk/uksi/2006/1407), [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/1407/article/1/1), [Sch. 1 para. 12](https://www.legislation.gov.uk/uksi/2006/1407/schedule/1/paragraph/12) (with [art. 4](https://www.legislation.gov.uk/uksi/2006/1407/article/4))
+
+[^key-1d4793c88f543ad41fb5b7165071bd43]: Textual amendment: Words in s. 3(2)(a) inserted (1.4.2004) by [Health and Social Care (Community Health and Standards) Act 2003 (c. 43)](https://www.legislation.gov.uk/ukpga/2003/43), [s. 199(1)](https://www.legislation.gov.uk/ukpga/2003/43/section/199/1)[(4)](https://www.legislation.gov.uk/ukpga/2003/43/section/199/4), [Sch. 4 para. 16](https://www.legislation.gov.uk/ukpga/2003/43/schedule/4/paragraph/16); [S.I. 2004/759](https://www.legislation.gov.uk/uksi/2004/759), [art. 2](https://www.legislation.gov.uk/uksi/2004/759/article/2)
+
+[^key-df7cf22f25ba60de1e638fb239de3f2d]: Textual amendment: Words in s. 3(2)(a) omitted (1.4.2013) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 5 para. 14(b)](https://www.legislation.gov.uk/ukpga/2012/7/schedule/5/paragraph/14/b); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+
+[^c691936]: Textual amendment: Words in s. 3(2)(a) inserted (10.10.2002 for W., 1.3.2007 in so far as not already in force, immediately before the National Health Service Act 2006 comes into force) by [National Health Service Reform and Health Care Professions Act 2002 (c. 17)](https://www.legislation.gov.uk/ukpga/2002/17), [s. 42(3)](https://www.legislation.gov.uk/ukpga/2002/17/section/42/3), [Sch. 5 para. 3(b)](https://www.legislation.gov.uk/ukpga/2002/17/schedule/5/paragraph/3/b); [S.I. 2002/2532](https://www.legislation.gov.uk/uksi/2002/2532), [art. 2](https://www.legislation.gov.uk/uksi/2002/2532/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2002/2532/schedule); [S.I. 2006/1407](https://www.legislation.gov.uk/uksi/2006/1407), [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/1407/article/1/1), [Sch. 1 para. 12](https://www.legislation.gov.uk/uksi/2006/1407/schedule/1/paragraph/12) (with [art. 4](https://www.legislation.gov.uk/uksi/2006/1407/article/4))
+
+[^key-d085237ca20da16d18a688da107f5ef3]: Textual amendment: Words in s. 3(2)(a) substituted (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 1 para. 47(c)](https://www.legislation.gov.uk/ukpga/2006/43/schedule/1/paragraph/47/c) (with [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/3/part/1))
+
+[^key-00935a468020be3db67eed715613b5fa]: Modification: [S. 3(2)(b)](https://www.legislation.gov.uk/ukpga/1969/57/section/3/2/b) modified (5.10.2026) by [The Surrey (Structural Changes) (Pensions etc.) Order 2026 (S.I. 2026/1011)](https://www.legislation.gov.uk/uksi/2026/1011), [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/1011/article/1/2), [Sch. para. 7(b)](https://www.legislation.gov.uk/uksi/2026/1011/schedule/paragraph/7/b) (with [Sch. para. 10](https://www.legislation.gov.uk/uksi/2026/1011/schedule/paragraph/10))
+
+[^c691937]: Textual amendment: Words repealed by [Local Government Act 1985 (c. 51, SIF 81:1)](https://www.legislation.gov.uk/ukpga/1985/51), [s. 102](https://www.legislation.gov.uk/ukpga/1985/51/section/102), [Sch. 17](https://www.legislation.gov.uk/ukpga/1985/51/schedule/17)
+
+[^c691938]: Textual amendment: Words repealed by [Local Government Act 1972 (c. 70, SIF 81:1)](https://www.legislation.gov.uk/ukpga/1972/70), [s. 272](https://www.legislation.gov.uk/ukpga/1972/70/section/272), [Sch. 30](https://www.legislation.gov.uk/ukpga/1972/70/schedule/30)
+
+[^c691939]: Textual amendment: Word substituted by virtue of [Local Government Act 1972 (c. 70, SIF 81:1)](https://www.legislation.gov.uk/ukpga/1972/70), [s. 179(3)](https://www.legislation.gov.uk/ukpga/1972/70/section/179/3)
+
+[^c691940]: Textual amendment: Words in s. 3(2)(b) substituted (1.4.1996) by [1994 c. 19](https://www.legislation.gov.uk/ukpga/1994/19), [s. 66(6)](https://www.legislation.gov.uk/ukpga/1994/19/section/66/6), [Sch. 16 para. 37](https://www.legislation.gov.uk/ukpga/1994/19/schedule/16/paragraph/37) (with [ss. 54(5)(7)](https://www.legislation.gov.uk/ukpga/1994/19/section/54/5/7), [55(5)](https://www.legislation.gov.uk/ukpga/1994/19/section/55/5), S[Ch. 17 paras. 22(1)](https://www.legislation.gov.uk/ukpga/1994/19/chapter/17/paragraph/22/1), [23(2)](https://www.legislation.gov.uk/ukpga/1994/19/chapter/17/paragraph/23/2)); [S.I. 1996/396](https://www.legislation.gov.uk/uksi/1996/396), [art. 4](https://www.legislation.gov.uk/uksi/1996/396/article/4), [Sch. 2](https://www.legislation.gov.uk/uksi/1996/396/schedule/2)
+
+[^c691941]: Textual amendment: Words inserted by [Norfolk and Suffolk Broads Act 1988 (c. 4, SIF 8:1)](https://www.legislation.gov.uk/ukpga/1988/4), [s. 21](https://www.legislation.gov.uk/ukpga/1988/4/section/21), [Sch. 6 para. 7](https://www.legislation.gov.uk/ukpga/1988/4/schedule/6/paragraph/7)
+
+[^c691942]: Textual amendment: Words in s. 3(2) inserted (E.W) (23.11.1995) by [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25), [s. 78](https://www.legislation.gov.uk/ukpga/1995/25/section/78), [Sch. 10 para. 9](https://www.legislation.gov.uk/ukpga/1995/25/schedule/10/paragraph/9) (with [ss. 7(6)](https://www.legislation.gov.uk/ukpga/1995/25/section/7/6), [115](https://www.legislation.gov.uk/ukpga/1995/25/section/115), [117](https://www.legislation.gov.uk/ukpga/1995/25/section/117), [Sch. 8 para. 7](https://www.legislation.gov.uk/ukpga/1995/25/schedule/8/paragraph/7)); [S.I. 1995/2950](https://www.legislation.gov.uk/uksi/1995/2950), [art. 2(1)](https://www.legislation.gov.uk/uksi/1995/2950/article/2/1)
+
+[^c691943]: Textual amendment: Words in s. 3(2)(b) substituted (S.) (1.4.1996) by [1994 c. 39](https://www.legislation.gov.uk/ukpga/1994/39), [s. 180(1)](https://www.legislation.gov.uk/ukpga/1994/39/section/180/1), [Sch. 13 para. 83(a)](https://www.legislation.gov.uk/ukpga/1994/39/schedule/13/paragraph/83/a); [S.I. 1996/323](https://www.legislation.gov.uk/uksi/1996/323), [art. 4(1)(b)(c)](https://www.legislation.gov.uk/uksi/1996/323/article/4/1/b/c)
+
+[^c691944]: Textual amendment: Words in s. 3(2)(b) inserted (S.) (1.4.1996) by [1994 c. 39](https://www.legislation.gov.uk/ukpga/1994/39), [s. 180(1)](https://www.legislation.gov.uk/ukpga/1994/39/section/180/1), [Sch. 13 para. 83(b)](https://www.legislation.gov.uk/ukpga/1994/39/schedule/13/paragraph/83/b); [S.I. 1996/323](https://www.legislation.gov.uk/uksi/1996/323), [art. 4(1)(b)(c)](https://www.legislation.gov.uk/uksi/1996/323/article/4/1/b/c)
+
+[^c691946]: Textual amendment: Words repealed by [Education Reform Act 1988 (c. 40, SIF 41:1)](https://www.legislation.gov.uk/ukpga/1988/40), [ss. 231(7)](https://www.legislation.gov.uk/ukpga/1988/40/section/231/7), [235(6)](https://www.legislation.gov.uk/ukpga/1988/40/section/235/6), [237(1)](https://www.legislation.gov.uk/ukpga/1988/40/section/237/1), [Sch. 13 Pt. I](https://www.legislation.gov.uk/ukpga/1988/40/schedule/13/part/I)
+
+[^c691945]: Textual amendment: Words inserted by [Local Government Act 1985 (c. 51, SIF 81:1)](https://www.legislation.gov.uk/ukpga/1985/51), [s. 84](https://www.legislation.gov.uk/ukpga/1985/51/section/84), [Sch. 14 para. 46](https://www.legislation.gov.uk/ukpga/1985/51/schedule/14/paragraph/46)
+
+[^key-63d27d3f66b47d591065d6b7d6a66c56]: Textual amendment: Words in s. 3(2)(b) inserted (17.12.2009) by [Local Democracy, Economic Development and Construction Act 2009 (c. 20)](https://www.legislation.gov.uk/ukpga/2009/20), [s. 148(6)](https://www.legislation.gov.uk/ukpga/2009/20/section/148/6), [Sch. 6 para. 8](https://www.legislation.gov.uk/ukpga/2009/20/schedule/6/paragraph/8); [S.I. 2009/3318](https://www.legislation.gov.uk/uksi/2009/3318), [art. 2(c)](https://www.legislation.gov.uk/uksi/2009/3318/article/2/c)
+
+[^key-e6eb37d336abd68ef773ab4020696046]: Textual amendment: Words in [s. 3(2)(b)](https://www.legislation.gov.uk/ukpga/1969/57/section/3/2/b) inserted (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [s. 255(2)(c)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/c), [Sch. 4 para. 21](https://www.legislation.gov.uk/ukpga/2023/55/schedule/4/paragraph/21) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
+
+[^key-1d9648f478ae32d938aaddf710ad3152]: Textual amendment: Words in [s. 3(2)(b)](https://www.legislation.gov.uk/ukpga/1969/57/section/3/2/b) inserted (31.1.2017 for specified purposes, 3.4.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 1 para. 21](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/21); [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
+
+[^key-432034d6c7cfe01edfba27e18f64b50d]: Textual amendment: Words in s. 3(2)(b) omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7), [Sch. 13 para. 6(5)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/13/paragraph/6/5); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(g)](https://www.legislation.gov.uk/uksi/2015/994/article/6/g)
+
+[^key-7e7b2e8df683523b468efbc10a98a189]: Textual amendment: Words in s. 3(2)(b) substituted (31.1.2017 for specified purposes, 1.4.2018 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1/5/e), [Sch. 2 para. 31](https://www.legislation.gov.uk/ukpga/2017/3/schedule/2/paragraph/31); [S.I. 2018/227](https://www.legislation.gov.uk/uksi/2018/227), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2018/227/regulation/4/c)
+
+[^key-78fa27939a3c2abc9e076c3ab84943ff]: Textual amendment: Words in s. 3(2)(b) substituted (16.1.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [s. 157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1), [Sch. 16 para. 92](https://www.legislation.gov.uk/ukpga/2011/13/schedule/16/paragraph/92); [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)
+
+[^key-ef1ce2df940c0da402dd7c9e703c9927]: Textual amendment: Words in s. 3(2)(b) inserted (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/6)
+
+[^key-b499030355deb90a77b60a1bc18a261d]: Textual amendment: S. 3(2)(c) and word added (18.4.2006) by [Equality Act 2006 (c. 3)](https://www.legislation.gov.uk/ukpga/2006/3), [s. 93(1)](https://www.legislation.gov.uk/ukpga/2006/3/section/93/1), [Sch. 1 para. 8](https://www.legislation.gov.uk/ukpga/2006/3/schedule/1/paragraph/8) (with [s. 92](https://www.legislation.gov.uk/ukpga/2006/3/section/92)); [S.I. 2006/1082](https://www.legislation.gov.uk/uksi/2006/1082), [art. 2(l)](https://www.legislation.gov.uk/uksi/2006/1082/article/2/l)
+
+[^c691949]: Textual amendment: Words substituted by virtue of (E. W. ) [Criminal Justice Act 1982 (c. 48, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1982/48), [s. 46](https://www.legislation.gov.uk/ukpga/1982/48/section/46) and (S. ) [Criminal Procedure (Scotland) Act 1975 (c. 21, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1975/21), [s. 289G](https://www.legislation.gov.uk/ukpga/1975/21/section/289G) and by [1995 c. 40](https://www.legislation.gov.uk/ukpga/1995/40), [ss. 3](https://www.legislation.gov.uk/ukpga/1995/40/section/3), [7(2)](https://www.legislation.gov.uk/ukpga/1995/40/section/7/2), [Sch. 1 para. 3(1)](https://www.legislation.gov.uk/ukpga/1995/40/schedule/1/paragraph/3/1), [Sch. 2 Pt. II](https://www.legislation.gov.uk/ukpga/1995/40/schedule/2/part/II) it is provided (S.) (1.4.1996) that s. 4(3) shall have effect as if the maximum fine that may be imposed on summary conviction for the offence mentioned therein were a fine not exceeding level 3 on that standard scale instead of a fine not exceeding £50
+
+[^c691950]: Textual amendment: Words substituted by virtue of (E. W. ) [Criminal Justice Act 1982 (c. 48, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1982/48), [s. 46](https://www.legislation.gov.uk/ukpga/1982/48/section/46) and (S. ) [Criminal Procedure (Scotland) Act 1975 (c. 21, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1975/21), [s. 289G](https://www.legislation.gov.uk/ukpga/1975/21/section/289G) and by [1995 c. 40](https://www.legislation.gov.uk/ukpga/1995/40), [ss. 3](https://www.legislation.gov.uk/ukpga/1995/40/section/3), [7(2)](https://www.legislation.gov.uk/ukpga/1995/40/section/7/2), [Sch. 1 para. 3(1)](https://www.legislation.gov.uk/ukpga/1995/40/schedule/1/paragraph/3/1), [Sch. 2 Pt. II](https://www.legislation.gov.uk/ukpga/1995/40/schedule/2/part/II) it is provided (S.) (1.4.1996) that s. 5 shall have effect as if the maximum fine that may be imposed on summary conviction for the offence mentioned therein were a fine not exceeding level 4 on that standard scale instead of a fine not exceeding £200
+
+[^c691951]: Modification: 1.1.1972 appointed under s. 7(3) by [S. I. 1971/1116](https://www.legislation.gov.uk/uksi/1971/1116)

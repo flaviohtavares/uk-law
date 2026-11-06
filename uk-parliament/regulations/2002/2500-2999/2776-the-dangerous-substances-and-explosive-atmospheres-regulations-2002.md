@@ -1,0 +1,728 @@
+---
+title: The Dangerous Substances and Explosive Atmospheres Regulations 2002
+id: uksi/2002/2776
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2002-11-07'
+text_date: '2020-12-31'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/uksi/2002/2776
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2002/2776/pdfs/uksi_20022776_en.pdf
+- http://www.legislation.gov.uk/uksi/2002/2776/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Dangerous Substances and Explosive Atmospheres Regulations 2002
+
+> Text as at 2020-12-31.
+>
+> Extent: England, Wales, Scotland.
+
+*Extent: E+W+S*
+
+2002 No. 2776
+
+HEALTH AND SAFETY
+
+The Dangerous Substances and Explosive Atmospheres Regulations 2002
+
+Made
+
+7th November 2002
+
+Laid before Parliament
+
+15th November 2002
+
+Coming into force
+
+All regulations except for regulations 5(4)(c), 7, 11, 15(2), 16(2) and 17(1) to (3)
+
+9th December 2002
+
+Regulations 15(2) and 16(2)
+
+5th May 2003
+
+Regulations 5(4)(c), 7, 11 and 17(1) to (3)
+
+30th June 2003
+
+The Secretary of State in exercise of the powers conferred on him by sections 15(1), (2), (3)(a) and (5), 80(1) and 82(3)(a) of, and paragraphs 1(1), (2) and (4), 6, 9, 11, 14, 16, 18(b) and 20 of Schedule 3 to, the Health and Safety at Work etc. Act 1974[^c9630701] ( “the 1974 Act”) and of all other powers enabling him in that behalf and for the purpose of giving effect without modifications to proposals submitted to him by the Health and Safety Commission under section 11(2)(d) of the 1974 Act after the carrying out by the said Commission of consultations in accordance with section 50(3) of that Act, hereby makes the following Regulations:—
+
+## 1. Citation and commencement
+
+These Regulations may be cited as the Dangerous Substances and Explosive Atmospheres Regulations 2002 and shall come into force—
+
+- (a) as respects all regulations except for regulations 5(4)(c), 7, 11, 15(2), 16(2) and 17(1) to (3) on 9th December 2002;
+- (b) as respects regulations 15(2) and 16(2) on 5th May 2003; and
+- (c) as respects regulations 5(4)(c), 7, 11 and 17(1) to (3) on 30th June 2003.
+
+## 2. Interpretation
+
+In these Regulations—
+
+- [^key-55a580f491aa1bd2ae2a4a38aabb8bd0]...
+- [^key-817d146a0d7d6dfc11ea23a6b2cfc612]...
+- “the CLP Regulation” means Regulation of the European Parliament and of the Council of 16 December 2008 on classification, labelling and packaging of substances and mixtures, amending and repealing Directives and[^key-cbb84f4ca0b251f97a60ee323414df9a] [1999/45/EC](https://www.legislation.gov.uk/eudr/1999/45) and amending Regulation EC (No) 1907/2006, of which Articles 6(5), 11(3), 12, 14, 18(3)(b), 23, 25 to 29, 35(2) second and third sub-paragraphs and Annexes I to VII are to be read as amended from time to time;
+- “dangerous substance” means—[^key-4bfb478c8e33ba49688a0dd6841a5529]
+  - (a) a substance or mixture which meets the criteria for classification as hazardous within any physical hazard class as provided for[^key-5c3a98146e0e17688e571e2dff57eb17] in the CLP Regulation, whether or not the substance is classified under that Regulation;
+  - (b) a substance or mixture which because of its physico-chemical or chemical properties and the way it is used or is present in the workplace creates a risk, not being a substance or mixture falling within subparagraph (a) above; or
+  - (c) any dust, whether in the form of solid particles of fibrous materials or otherwise, which can form an explosive mixture with air or an explosive atmosphere, not being a substance or mixture falling within subparagraphs (a) or (b) above;
+- “explosive atmosphere” means a mixture, under atmospheric conditions, of air and one or more dangerous substances in the form of gases, vapours, mists or dusts in which, after ignition has occurred, combustion spreads to the entire unburned mixture;
+- “hazard” means the physico-chemical or chemical property of a dangerous substance which has the potential to—[^key-59170960e6f1b7c1501450546bbb833f]
+  - (a) give rise to a fire, explosion or other events which can result in harmful physical effects of a kind similar to those which can be caused by fire or explosion; or
+  - (b) be corrosive to metals,
+
+  affecting the safety of a person, and references in these Regulations to “hazardous” is to be construed accordingly;;
+- “mixture” means a mixture or solution composed of two or more substances;[^key-04d2eb233e8167a9638a971fc7cc56cc]
+- “offshore installation” has the same meaning as it is given by regulation 3 of the Offshore Installations and Pipeline Works (Management and Administration) Regulations 1995 [^c9630731] insofar as that regulation extends to mineral extracting industries within the scope of Article 2(a) of Council Directive [92/91/EEC](https://www.legislation.gov.uk/eudr/1992/91) concerning the minimum requirements for improving the safety and health protection of workers in the mineral-extracting industries through drilling [^c9630741];
+- “personal protective equipment” means all equipment which is intended to be worn or held by a person at work and which protects that person against one or more risks to his safety, and any addition or accessory designed to meet that objective;
+- [^key-98c2ca48054c5097267e717cb2e7bf80]...
+- “public road” means (in England and Wales) a highway maintainable at public expense within the meaning of section 329 of the Highways Act 1980 [^c9630751] and (in Scotland) a public road within the meaning assigned to that term by section 151 of the Roads (Scotland) Act 1984 [^c9630761];
+- “risk” means the likelihood of a person’s safety being affected by harmful physical effects being caused to him from fire, explosion or other events arising from the hazardous properties of a dangerous substance in connection with work and also the extent of that harm;
+- “risk assessment” means the assessment of risks required by regulation 5(1);
+- “safety data sheet” means a safety data sheet within the meaning of Regulation (EC) 1907/2006 of the European Parliament and of the Council concerning the Registration, Evaluation, Authorisation and Restriction of Chemicals.[^M_F_35a6285d-6eb2-464c-99f5-78e53454e372]
+- “substance” means any natural or artificial substance whether in solid or liquid form or in the form of a gas or vapour;
+- “workplace” means any premises or part of premises used for or in connection with work, and includes—
+  - (a) any place within the premises to which an employee has access while at work; and
+  - (b) any room, lobby, corridor, staircase, road or other place—
+    - (i) used as a means of access to or egress from that place of work, or,
+    - (ii) where facilities are provided for use in connection with that place of work,
+
+    other than a public road; and
+- “work processes” means all technical aspects of work involving dangerous substances and includes—
+  - (a) appropriate technical means of supervision,
+  - (b) connecting devices,
+  - (c) control and protection systems,
+  - (d) engineering controls and solutions,
+  - (e) equipment,
+  - (f) materials,
+  - (g) machinery,
+  - (h) plant,
+  - (i) protective systems, and
+  - (j) warning and other communication systems.
+
+## 3. Application
+
+(1) These Regulations, apart from regulations 15, 16 and 17(4) to (5), shall not apply to the master or crew of a ship or to the employer of such persons in respect of the normal ship-board activities of a ship’s crew which are carried out solely by the crew under the direction of the master and, for the purposes of this paragraph—
+
+- (a) “ship” includes every description of vessel used in navigation, other than a ship forming part of Her Majesty’s Navy or an offshore installation; and
+- (b) the reference to the normal ship-board activities of a ship’s crew includes—
+  - (i) the construction, reconstruction or conversion of a ship outside, but not inside, Great Britain; and
+  - (ii) the repair of a ship save repair when carried out in dry dock.
+
+(2) Regulations 5(4)(c), 7 and 11 shall not apply to—
+
+- (a) areas used directly for and during the medical treatment of patients;
+- (b) the use of gas appliances burning gaseous fuel (that is to say, any fuel which is in a gaseous state at a temperature of 15°C under a pressure of 1 bar) which—
+  - (i) are used for cooking, heating, hot water production, refrigeration, lighting or washing; and
+  - (ii) have, where applicable, a normal water temperature not exceeding 105°C
+
+  including forced draught burners and heating bodies to be equipped with such burners but not including an appliance specifically designed for use in an industrial process carried out on industrial premises;
+- (c) gas fittings within the meaning of the Gas Safety (Installation and Use) Regulations 1998 [^c9630771] located in domestic premises, not being gas appliances falling within subparagraph (b);
+- (d) the manufacture, handling, use, storage and transport of explosives or chemically unstable substances;
+- (e)[^key-b52e723778b2e26d75b515c1fdabed2f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (f) any activity at a quarry within the meaning of regulation 3 of the Quarries Regulations 1999 [^c9630791] carried out for the purposes of the quarry;
+- (g) any activity at a borehole site within the meaning of regulation 2(1) of the Borehole Sites and Operations Regulations 1995 [^c9630801] carried out for the purposes of the borehole site;
+- (h) any activity at an offshore installation carried out for the purposes of the offshore installation; and
+- (i) the use of means of transport by land, water or air which is regulated by international agreements and the European Community Directives giving effect to them insofar as they fall within the disapplication in Article 1.2.(e) of Council Directive [99/92/EC](https://www.legislation.gov.uk/eudr/1999/92) on minimum requirements for improving the safety and health protection of workers potentially at risk from explosive atmospheres [^c9630811], except for any means of transport intended for use in a potentially explosive atmosphere.
+
+(3) Regulations 5(2)(f), (g), (h) and (i), 6(4)(d), 6(5)(b) and (e) and 8(1)(d) and (e) and the requirements of paragraphs 5 and 6 of Schedule 1 shall not apply to any activity at an offshore installation carried out for the purposes of the offshore installation.
+
+## 4. Duties under these Regulations
+
+(1) Where a duty is placed by these Regulations on an employer in respect of his employees, he shall, so far as is reasonably practicable, be under a like duty in respect of any other person, whether at work or not, who may be affected by the work carried on by the employer, except that—
+
+- (a) the duties of the employer under regulations 6(5)(f) and 7(5) (which relate, respectively, to the provision of suitable personal protective equipment and the provision of appropriate work clothing) shall not extend to persons who are not his employees; and
+- (b) the duties of the employer under regulations 8 and 9 (which relate, respectively, to dealing with accidents and to provision of information, instruction and training) shall not extend to persons who are not his employees, unless those persons are at the workplace where the work is being carried on and subject to the following, namely, that, in relation to the application of regulation 9 to such persons, regulation 9 shall apply to the extent that is required by the nature and the degree of the risk.
+
+(2) These Regulations shall apply to a self-employed person as they apply to an employer and an employee and as if that self-employed person were both an employer and employee.
+
+## 5. Risk assessment
+
+(1) Where a dangerous substance is or is liable to be present at the workplace, the employer shall make a suitable and sufficient assessment of the risks to his employees which arise from that substance.
+
+(2) The risk assessment shall include consideration of—
+
+- (a) the hazardous properties of the substance;
+- (b) information on safety provided by the supplier, including information contained in any relevant safety data sheet;
+- (c) the circumstances of the work including—
+  - (i) the work processes and substances used and their possible interactions;
+  - (ii) the amount of the substance involved;
+  - (iii) where the work will involve more than one dangerous substance, the risk presented by such substances in combination; and
+  - (iv) the arrangements for the safe handling, storage and transport of dangerous substances and of waste containing dangerous substances;
+- (d) activities, such as maintenance, where there is the potential for a high level of risk;
+- (e) the effect of measures which have been or will be taken pursuant to these Regulations;
+- (f) the likelihood that an explosive atmosphere will occur and its persistence;
+- (g) the likelihood that ignition sources, including electrostatic discharges, will be present and become active and effective;
+- (h) the scale of the anticipated effects of a fire or an explosion;
+- (i) any places which are or can be connected via openings to places in which explosive atmospheres may occur; and
+- (j) such additional safety information as the employer may need in order to complete the risk assessment.
+
+(3) The risk assessment shall be reviewed by the employer regularly so as to keep it up to date and particularly if—
+
+- (a) there is reason to suspect that the risk assessment is no longer valid; or
+- (b) there has been a significant change in the matters to which the risk assessment relates including when the workplace, work processes, or organisation of the work undergoes significant changes, extensions or conversions;
+
+and where, as a result of the review, changes to the risk assessment are required, those changes shall be made.
+
+(4) Where the employer employs five or more employees, the employer shall record the significant findings of the risk assessment as soon as is practicable after that assessment is made, including in particular—
+
+- (a) the measures which have been or will be taken by him pursuant to these Regulations;
+- (b) sufficient information to show that the workplace and work processes are designed, operated and maintained with due regard for safety and that, in accordance with the Provision and Use of Work Equipment Regulations 1998 [^c9630821], adequate arrangements have been made for the safe use of work equipment; and
+- (c) where an explosive atmosphere may occur at the workplace and subject to the transitional provisions in regulation 17(1) to (3), sufficient information to show—
+  - (i) those places which have been classified into zones pursuant to regulation 7(1);
+  - (ii) equipment which is required for, or helps to ensure, the safe operation of equipment located in places classified as hazardous pursuant to regulation 7(1);
+  - (iii) that any verification of overall explosion safety required by regulation 7(4) has been carried out; and
+  - (iv) the aim of any co-ordination required by regulation 11 and the measures and procedures for implementing it.
+
+(5) No new work activity involving a dangerous substance shall commence unless—
+
+- (a) an assessment has been made; and
+- (b) the measures required by these Regulations have been implemented.
+
+## 6. Elimination or reduction of risks from dangerous substances
+
+(1) Every employer shall ensure that risk is either eliminated or reduced so far as is reasonably practicable.
+
+(2) In complying with his duty under paragraph (1), substitution shall by preference be undertaken, whereby the employer shall avoid, so far as is reasonably practicable, the presence or use of a dangerous substance at the workplace by replacing it with a substance or process which either eliminates or reduces the risk.
+
+(3) Where it is not reasonably practicable to eliminate risk pursuant to paragraphs (1) and (2), the employer shall, so far as is reasonably practicable, apply measures, consistent with the risk assessment and appropriate to the nature of the activity or operation—
+
+- (a) to control risks, including the measures specified in paragraph (4); and
+- (b) to mitigate the detrimental effects of a fire or explosion or the other harmful physical effects arising from dangerous substances, including the measures specified in paragraph (5).
+
+(4) The following measures are, in order of priority, those specified for the purposes of paragraph (3)(a)—
+
+- (a) the reduction of the quantity of dangerous substances to a minimum;
+- (b) the avoidance or minimising of the release of a dangerous substance;
+- (c) the control of the release of a dangerous substance at source;
+- (d) the prevention of the formation of an explosive atmosphere, including the application of appropriate ventilation;
+- (e) ensuring that any release of a dangerous substance which may give rise to risk is suitably collected, safely contained, removed to a safe place, or otherwise rendered safe, as appropriate;
+- (f) the avoidance of—
+  - (i) ignition sources including electrostatic discharges; and
+  - (ii) adverse conditions which could cause dangerous substances to give rise to harmful physical effects; and
+- (g) the segregation of incompatible dangerous substances.
+
+(5) The following measures are those specified for the purposes of paragraph (3)(b)—
+
+- (a) the reduction to a minimum of the number of employees exposed;
+- (b) the avoidance of the propagation of fires or explosions;
+- (c) the provision of explosion pressure relief arrangements;
+- (d) the provision of explosion suppression equipment;
+- (e) the provision of plant which is constructed so as to withstand the pressure likely to be produced by an explosion; and
+- (f) the provision of suitable personal protective equipment.
+
+(6) The employer shall arrange for the safe handling, storage and transport of dangerous substances and waste containing dangerous substances.
+
+(7) The employer shall ensure that any conditions necessary pursuant to these Regulations for ensuring the elimination or reduction of risk are maintained.
+
+(8) The employer shall, so far as is reasonably practicable, take the general safety measures specified in Schedule 1, subject to those measures being consistent with the risk assessment and appropriate to the nature of the activity or operation.
+
+## 7. Places where explosive atmospheres may occur
+
+(1) Every employer shall classify places at the workplace where an explosive atmosphere may occur into hazardous or non-hazardous places in accordance with paragraph 1 of Schedule 2 and shall classify those places so classified as hazardous into zones in accordance with paragraph 2 of that Schedule; and that Schedule shall have effect subject to the notes at the end of that Schedule.
+
+(2) The employer shall ensure that the requirements specified in Schedule 3 are applied to equipment and protective systems in the places classified as hazardous pursuant to paragraph (1).
+
+(3) Where necessary, places classified as hazardous pursuant to paragraph (1) shall be marked by the employer with signs at their points of entry in accordance with Schedule 4.
+
+(4) Before a workplace containing places classified as hazardous pursuant to paragraph (1) is used for the first time, the employer shall ensure that its overall explosion safety is verified by a person who is competent in the field of explosion protection as a result of his experience or any professional training or both.
+
+(5) The employer shall ensure that appropriate work clothing which does not give rise to electrostatic discharges is provided for use in places classified as hazardous pursuant to paragraph (1).
+
+(6) This regulation is subject to the transitional provisions in regulation 17(1) to (3).
+
+## 8. Arrangements to deal with accidents, incidents and emergencies
+
+(1) Subject to paragraph (4), in order to protect the safety of his employees from an accident, incident or emergency related to the presence of a dangerous substance at the workplace, the employer shall ensure that—
+
+- (a) procedures, including the provision of appropriate first-aid facilities and relevant safety drills (which shall be tested at regular intervals), have been prepared which can be put into effect when such an event occurs;
+- (b) information on emergency arrangements, including—
+  - (i) details of relevant work hazards and hazard identification arrangements, and
+  - (ii) specific hazards likely to arise at the time of an accident, incident or emergency,
+
+  is available;
+- (c) suitable warning and other communication systems are established to enable an appropriate response, including remedial actions and rescue operations, to be made immediately when such an event occurs;
+- (d) where necessary, before any explosion conditions are reached, visual, or audible, warnings are given and employees withdrawn; and
+- (e) where the risk assessment indicates it is necessary, escape facilities are provided and maintained to ensure that, in the event of danger, employees can leave endangered places promptly and safely.
+
+(2) Subject to paragraph (4), the employer shall ensure that information on the matters referred to in paragraph (1)(a), (c) to (e) and the information required by paragraph 1(b) is—
+
+- (a) made available to relevant accident and emergency services to enable those services, whether internal or external to the workplace, to prepare their own response procedures and precautionary measures; and
+- (b) displayed at the workplace, unless the results of the risk assessment make this unnecessary.
+
+(3) Subject to paragraph (4), in the event of an accident, incident or emergency related to the presence of a dangerous substance at the workplace, the employer shall ensure that—
+
+- (a) immediate steps are taken to—
+  - (i) mitigate the effects of the event,
+  - (ii) restore the situation to normal, and
+  - (iii) inform those of his employees who may be affected; and
+- (b) only those persons who are essential for the carrying out of repairs and other necessary work are permitted in the affected area and they are provided with—
+  - (i) appropriate personal protective equipment and protective clothing; and
+  - (ii) any necessary specialised safety equipment and plant,
+
+  which shall be used until the situation is restored to normal.
+
+(4) Paragraphs (1) to (3) shall not apply where—
+
+- (a) the results of the risk assessment show that, because of the quantity of each dangerous substance at the workplace, there is only a slight risk to employees; and
+- (b) the measures taken by the employer to comply with his duty under regulation 6(1) are sufficient to control that risk.
+
+## 9. Information, instruction and training
+
+(1) Where a dangerous substance is present at the workplace, the employer shall provide his employees with—
+
+- (a) suitable and sufficient information, instruction and training on the appropriate precautions and actions to be taken by the employee in order to safeguard himself and other employees at the workplace;
+- (b) the details of any such substance including—
+  - (i) the name of the substance and the risk which it presents;
+  - (ii) access to any relevant safety data sheet; and
+  - (iii) legislative provisions which concern the hazardous properties of the substance;
+
+  and
+- (c) the significant findings of the risk assessment.
+
+(2) The information, instruction and training required by paragraph (1) shall be—
+
+- (a) adapted to take account of significant changes in the type of work carried out or methods of work used by the employer; and
+- (b) provided in a manner appropriate to the risk assessment.
+
+## 10. Identification of hazardous contents of containers and pipes
+
+Where containers and pipes used at work for dangerous substances are not marked in accordance with relevant requirements of the legislation listed in Schedule 5, the employer shall, subject to any derogations provided for in that legislation, ensure that the contents of those containers and pipes, together with the nature of those contents and any associated hazards, are clearly identifiable.
+
+## 11. Duty of co-ordination
+
+Where two or more employers share the same workplace (whether on a temporary or a permanent basis) where an explosive atmosphere may occur, the employer responsible for the workplace shall co-ordinate the implementation of all the measures required by these Regulations to be taken to protect employees from any risk from the explosive atmosphere.
+
+## 12. Extension outside Great Britain
+
+These Regulations shall apply outside Great Britain as sections 1 to 59 and 80 to 82 of the 1974 Act apply by virtue of the Health and Safety at Work etc. Act 1974 (Application outside Great Britain) Order 2001 [^c9630831].
+
+## 13. Exemption certificates
+
+(1) Subject to paragraph (2), the Health and Safety Executive may, by a certificate in writing, exempt any person or class of persons or any dangerous substance or class of dangerous substances from all or any of the requirements or prohibitions imposed by or under these Regulations and any such exemption may be granted subject to conditions and to a limit of time and may be revoked at any time by a certificate in writing.
+
+(2) The Health and Safety Executive shall not grant any such exemption unless, having regard to the circumstances of the case, and in particular to—
+
+- (a) the conditions, if any, which it proposes to attach to the exemption; and
+- (b) any requirements imposed by or under any enactments which apply to the case,
+
+it is satisfied that the health and safety of persons who are likely to be affected by the exemption will not be prejudiced in consequence of it and that the exemption will be compatible with the requirements of the Directives.
+
+(3) For the purposes of paragraph (2), “the Directives” means Council Directive [98/24/EC](https://www.legislation.gov.uk/european/directive/1998/0024) on the protection of the health and safety of workers from the risks related to chemical agents at work [^c9630841] and Council Directive [99/92/EC](https://www.legislation.gov.uk/european/directive/1999/0092) on minimum requirements for improving the safety and health protection of workers potentially at risk from explosive atmospheres [^c9630851].
+
+## 14. Exemptions for Ministry of Defence etc.
+
+(1) In this regulation—
+
+- (a) “Her Majesty’s Forces” means any of the naval, military or air forces of the Crown, whether raised inside or outside the United Kingdom and whether any such force is a regular, auxiliary or reserve force, and includes any civilian employed by those forces;
+- (b) “visiting force” has the same meaning as it does for the purposes of any provision of Part 1 of the Visiting Forces Act 1952 [^c9630861]; and
+- (c) “headquarters” means a headquarters for the time being specified in Schedule 2 to the Visiting Forces and International Headquarters (Application of Law) Order 1999 [^c9630871].
+
+(2) The Secretary of State for Defence may, in the interests of national security, by a certificate in writing, exempt—
+
+- (a) any of Her Majesty’s Forces,
+- (b) any visiting force,
+- (c) any member of a visiting force working in or attached to a headquarters, or
+- (d) any person engaged in work involving dangerous substances, if that person is under the direct supervision of a representative of the Secretary of State for Defence,
+
+from all or any of the requirements or prohibitions imposed by these Regulations and any such exemption may be granted subject to conditions and to a limit of time and may be revoked at any time by a certificate in writing, except that, where any such exemption is granted, suitable arrangements shall be made for the assessment of the risk to safety created by the work involving dangerous substances and for adequately controlling the risk to persons to whom the exemption relates.
+
+## 15. Amendments
+
+(1) The Acts and instruments referred to in Part 1 of Schedule 6 shall be amended in accordance with that Part.
+
+(2) The instruments referred to in Part 2 of Schedule 6 shall be amended in accordance with that Part.
+
+## 16. Repeals and revocations
+
+(1) The Act and instruments referred to in column 1 of Part 1 of Schedule 7 shall be repealed or revoked to the extent specified in the corresponding entry in column 3 of that Part.
+
+(2) The Act and instruments referred to in column 1 of Part 2 of Schedule 7 shall be repealed or revoked to the extent specified in the corresponding entry in column 3 of that Part.
+
+## 17. Transitional provisions
+
+(1) The requirements of regulation 7(2) and Schedule 3 shall not apply to equipment and protective systems for use in places where explosive atmospheres may occur which are or have been in use or made available at the workplace on or before 30th June 2003.
+
+(2) Subject to paragraphs (1) and (3), a workplace which contains places where explosive atmospheres may occur—
+
+- (a) which is or has been in use on or before 30th June 2003 shall comply with the requirements of regulations 7 and 11 no later than 30th June 2006 and the employer’s duties under those regulations in respect of such a workplace shall apply accordingly;
+- (b) which is used for the first time after 30th June 2003 shall comply with the requirements of regulations 7 and 11 from the date that it is first used and the employer’s duties under those regulations in respect of such a workplace shall apply accordingly.
+
+(3) If, after 30th June 2003, any modification, extension or restructuring is undertaken in workplaces containing places where explosive atmospheres may occur, the employer shall take the necessary steps to ensure that the modification, extension or restructuring complies with the requirements of regulations 7 and 11 and the employer’s duties under those regulations and in respect of such a modification, extension or restructuring shall apply accordingly.
+
+(4)[^key-acf044623bb31c5b96535d239be13d3b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5)[^key-d97f884bf3b539389f51e27fe962f09a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Signed by order of the Secretary of State
+
+N. Brown
+
+Minister of State
+
+Department for Work and Pensions
+
+## SCHEDULE 1 — GENERAL SAFETY MEASURES
+
+Regulation 6(8)
+
+*Extent: E+W+S+N.I.*
+
+**1.** The following measures are those specified for the purposes of regulation 6(8).
+
+### WORKPLACE AND WORK PROCESSES
+
+**2.** Ensuring that the workplace is designed, constructed and maintained so as to reduce risk.
+
+**3.** Designing, constructing, assembling, installing, providing and using suitable work processes so as to reduce risk.
+
+**4.** Maintaining work processes in an efficient state, in efficient working order and in good repair.
+
+**5.** Ensuring that equipment and protective systems meet the following requirements—
+
+- (a) where power failure can give rise to the spread of additional risk, equipment and protective systems must be able to be maintained in a safe state of operation independently of the rest of the plant in the event of power failure;
+- (b) means for manual override must be possible, operated by employees competent to do so, for shutting down equipment and protective systems incorporated within automatic processes which deviate from the intended operating conditions, provided that the provision or use of such means does not compromise safety;
+- (c) on operation of emergency shutdown, accumulated energy must be dissipated as quickly and as safely as possible or isolated so that it no longer constitutes a hazard; and
+- (d) necessary measures must be taken to prevent confusion between connecting devices.
+
+### ORGANISATIONAL MEASURES
+
+**6.** The application of appropriate systems of work including—
+
+- (a) the issuing of written instructions for the carrying out of the work; and
+- (b) a system of permits to work with such permits being issued by a person with responsibility for this function prior to the commencement of the work concerned,
+
+where the work is carried out in hazardous places or involves hazardous activities.
+
+## SCHEDULE 2 — (which substantially reproduces the provisions of Annex I of Council Directive [99/92/EC](https://www.legislation.gov.uk/european/directive/1999/0092)) — CLASSIFICATION OF PLACES WHERE EXPLOSIVE ATMOSPHERES MAY OCCUR[^c9630891]
+
+Regulation 7(1)
+
+### 1. Places where explosive atmospheres may occur
+
+A place in which an explosive atmosphere may occur in such quantities as to require special precautions to protect the health and safety of the workers concerned is deemed to be hazardous within the meaning of these Regulations.
+
+A place in which an explosive atmosphere is not expected to occur in such quantities as to require special precautions is deemed to be non-hazardous within the meaning of these Regulations.
+
+### 2. Classification of hazardous places
+
+Hazardous places are classified in terms of zones on the basis of the frequency and duration of the occurrence of an explosive atmosphere.
+
+### Zone 0
+
+A place in which an explosive atmosphere consisting of a mixture with air of dangerous substances in the form of gas, vapour or mist is present continuously or for long periods or frequently.
+
+### Zone 1
+
+A place in which an explosive atmosphere consisting of a mixture with air of dangerous substances in the form of gas, vapour or mist is likely to occur in normal operation occasionally.
+
+### Zone 2
+
+A place in which an explosive atmosphere consisting of a mixture with air of dangerous substances in the form of gas, vapour or mist is not likely to occur in normal operation but, if it does occur, will persist for a short period only.
+
+### Zone 20
+
+A place in which an explosive atmosphere in the form of a cloud of combustible dust in air is present continuously, or for long periods or frequently.
+
+### Zone 21
+
+A place in which an explosive atmosphere in the form of a cloud of combustible dust in air is likely to occur in normal operation occasionally.
+
+### Zone 22
+
+A place in which an explosive atmosphere in the form of a cloud of combustible dust in air is not likely to occur in normal operation but, if it does occur, will persist for a short period only.
+
+### 1. Notes:
+
+Layers, deposits and heaps of combustible dust must be considered as any other source which can form an explosive atmosphere.
+
+**2.** “Normal operation” means the situation when installations are used within their design parameters.
+
+## SCHEDULE 3 — CRITERIA FOR THE SELECTION OF EQUIPMENT AND PROTECTIVE SYSTEMS
+
+Regulation 7(2)
+
+**1.** Equipment and protective systems for all places in which explosive atmospheres may occur must be selected on the basis of the requirements set out in the Equipment and Protective Systems Intended for Use in Potentially Explosive Atmospheres Regulations 2016[^key-135ef969e4033a14f3dcb209ae6b101e] unless the risk assessment finds otherwise.
+
+**2.** In particular, the following categories of equipment must be used in the zones indicated, provided they are suitable for gases, vapours, mists, dusts or mists and dusts, as appropriate:
+
+—0 in zone 0 or zone 20, category 1 equipment,
+
+—0 in zone 1 or zone 21, category 1 or 2 equipment,
+
+—0 in zone 2 or zone 22, category 1, 2 or 3 equipment.
+
+**3.** For the purposes of this Schedule and regulations 7(2) and 17(1)—
+
+- (a) “equipment” means machines, apparatus, fixed or mobile devices, control components and instrumentation thereof and detection or prevention systems which, separately or jointly, are intended for the generation, transfer, storage, measurement, control and conversion of energy and the processing of material, as the case may be, and which are capable of causing an explosion through their own potential sources of ignition;
+- (b) “protective systems” means devices other than components of equipment which are intended to halt incipient explosions immediately or limit the effective range of an explosion or both, as the case may be, and which systems are separately placed on the market for use as autonomous systems;
+- (c) “devices” means safety devices, controlling devices and regulating devices intended for use outside potentially explosive atmospheres but required for or contributing to the safe functioning of equipment and protective systems with respect to the risks of explosion;
+- (d) “component” means any item essential to the safe functioning of equipment and protective systems but with no autonomous function; and
+- (e) “potentially explosive atmosphere” means an atmosphere which could become explosive due to local and operational conditions.
+
+## SCHEDULE 4 — (which substantially reproduces the provisions of Annex III of Council Directive [99/92/EC](https://www.legislation.gov.uk/european/directive/1999/0092)) — WARNING SIGN FOR PLACES WHERE EXPLOSIVE ATMOSPHERES MAY OCCUR
+
+Regulation 7(3)
+
+[image: see source](https://www.legislation.gov.uk/uksi/2002/2776/images/uksi_20022776_en_sld_001)
+
+Distinctive features:
+
+- (a) triangular shape;
+- (b) black letters on a yellow background with black edging (the yellow part to take up at least 50% of the area of the sign).
+
+## SCHEDULE 5 — LEGISLATION CONCERNED WITH THE MARKING OF CONTAINERS AND PIPES
+
+Regulation 10
+
+- [^key-d8f7c5403a994e18ee648e12216de634]...[^key-19a6d29400c0d9b2f9cb716860d8aa64]
+- The Health and Safety (Safety Signs and Signals) Regulations 1996 ([S.I. 1996/341](https://www.legislation.gov.uk/uksi/1996/341));
+- The Good Laboratory Practice Regulations 1999 ([S.I. 1999/3106](https://www.legislation.gov.uk/uksi/1999/3106));
+- [^key-d909b30174cc2696b2c4ee642670dbe1]...
+- the CLP Regulation[^key-0999046a77bb9c5382728e9b4136d9d1]; and
+- The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment Regulations 2009 ([^key-bb56ac9ed00ccd8174523fa06052fea1][S.I. 2009/1348](https://www.legislation.gov.uk/uksi/2009/1348)).
+
+## SCHEDULE 6 — AMENDMENTS
+
+Regulation 15
+
+### PART 1
+
+**1.** In section 2 of the Celluloid and Cinematograph Film Act 1922 [^c9630921] (purposes to which Act applies), after paragraph (iii) of the proviso insert
+
+> and
+>
+> - (iv) the provisions of this Act shall not apply to a workplace within the meaning of the Fire Precautions (Workplace) Regulations 1997 [^c9630931].
+
+.
+
+**2.**[^key-0e5ae368a7f832cf122ed3ac67e1f564] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**3.**[^key-2b5764c4fab080613ea8333911445d7e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**4.**[^key-1b71b4f3aa31b811bd41d5bfca782ccf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**5.**[^key-8d2d9d6982855bf74b57e609052b75a0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**6.**[^key-9b453b86c6fc78be10725f458ad3274c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**7.** The Dangerous Substances in Harbour Areas Regulations 1987 [^c9631071] are amended by the omission of “the Petroleum (Carbide of Calcium) Order 1929” in regulation 29 (application of Part VIII—storage of dangerous substances).
+
+**8.** The Fire Precautions (Workplace) Regulations 1997 [^c9631081] are amended by the insertion of “ and regulations 1 to 6, 8, 9 and 11 of the Dangerous Substances and Explosive Atmospheres Regulations 2002, ” after “the 1999 Management Regulations” in paragraph (2)(b) of regulation 9 (disapplication).
+
+### PART 2
+
+**9.** (1) The Fire Certificates (Special Premises) Regulations 1976 [^c9631091] are amended as follows.
+
+(2) In paragraph 25 of Part III of Schedule 1 (premises for which a fire certificate is required), for the definition of “highly flammable liquid” substitute—
+
+> “highly flammable liquid” means any liquid, liquid solution, emulsion or suspension, other than aqueous ammonia, liquefied flammable gas, and liquefied petroleum gas, which—
+>
+> - (a) when tested in accordance with Part A.9. of the Annex to the Directive has a flash point (as defined in that Part) of less than 32°C except that, if the flash point determined by using one of the non-equilibrium methods referred to in that Part falls within the range 30°C to 34°C, that flash point shall be confirmed by the use of like apparatus using the appropriate equilibrium method referred to in that Part; and
+> - (b) when tested at 50°C (within an accuracy of –0 +5°C) using the procedure referred to in Appendix B to the “Approved Requirements and test methods for the classification and packaging of dangerous goods for carriage”[^c9631101] with a heating time of 60 seconds supports combustion,
+>
+> and for these purposes—
+>
+> - (i) “aqueous ammonia” means ammonia gas dissolved in water;
+> - (ii) “the Directive” means Commission Directive 92/69 EEC [^c9631111] adapting to technical progress for the seventeenth time Council Directive [67/548/EEC](https://www.legislation.gov.uk/european/directive/1967/0548) [^c9631121] on the approximation of laws, regulations and administrative provisions relating to the classification, packaging and labelling of dangerous substances; and
+> - (iii) “liquefied flammable gas” means any substance which at a temperature of 20°C and a pressure of 760 millimetres of mercury would be a flammable gas, but which is in liquid form as a result of the application of pressure refrigeration or both.
+
+.
+
+**10.** The Carriage of Dangerous Goods by Road Regulations 1996 [^c9631131] are amended by the substitution for regulation 20 (unloading of petrol at petroleum filling stations and certain other premises licensed for the keeping of petrol) of—
+
+> **20. Direct filling of fuel tanks with petrol from road tankers**
+>
+> (1) Neither the fuel tank for an internal combustion engine nor a portable container shall be filled or replenished with petrol direct from a road tanker conveying petrol in such circumstances that these Regulations apply to that conveyance.
+>
+> (2) Except in relation to Her Majesty’s Forces, the enforcing authority for these Regulations and for sections 2 to 4 and section 7 and 8 of the Health and Safety at Work etc. Act 1974 in respect of such filling or replenishing with petrol as is referred to in paragraph (1) at any premises for which a petroleum-spirit licence authorising the keeping of petrol is required under the 1928 Act, shall be the petroleum licensing authority, even if the relevant tanker is on a road at the time of that filling or replenishing.
+>
+> (3) In this regulation—
+>
+> - (a) “the 1928 Act” means the Petroleum (Consolidation) Act 1928 [^c9631141];
+> - (b) “the Directive” means Commission Directive 92/69 EEC adapting to technical progress for the seventeenth time Council Directive [67/548/EEC](https://www.legislation.gov.uk/european/directive/1967/0548) on the approximation of laws, regulations and administrative provisions relating to the classification, packaging and labelling of dangerous substances;
+> - (c) “Her Majesty’s Forces” means any of the naval, military or air forces of the Crown, whether raised inside or outside the United Kingdom and whether any such force is a regular, auxiliary or reserve force, and includes any civilian employed by those forces;
+> - (d) “petrol” means petroleum-spirit intended for use as a fuel for an internal combustion engine;
+> - (e) “the petroleum licensing authority” means the local authority empowered to grant petroleum-spirit licences under the 1928 Act for the premises concerned;
+> - (f) “petroleum-spirit” means petroleum which, when tested in accordance with Part A.9. of the Annex to the Directive has a flash point (as defined in that Part) of less than 21°C; and
+> - (g) “petroleum-spirit licence” means a licence authorising the keeping of petroleum-spirit granted by a local authority empowered under the 1928 Act to grant such a licence or by the Secretary of State or by the Health and Safety Executive.
+
+.
+
+## SCHEDULE 7
+
+**Regulation 16**
+
+### PART 1 — REPEAL AND REVOCATION
+
+| *Column 1* | *Column 2* | *Column 3* |
+| --- | --- | --- |
+| *Title* | *Reference* | *Extent of repeal or revocation* |
+| [^key-46ff65687e010cb0a86dd66060d377db]. . . | [^key-46ff65687e010cb0a86dd66060d377db]. . . | [^key-46ff65687e010cb0a86dd66060d377db]. . . |
+| The Celluloid, etc. Factories, and Workshops Regulations 1921 | S.R. & O. 1921/1825 | The whole Regulations. |
+| The Manufacture of Cinematograph Film Regulations 1928 | S.R. & O. 1928/82 | The whole Regulations. |
+| The Petroleum (Carbide of Calcium) Order 1929 | S.R. & O. 1929/992 | The whole Order. |
+| The Petroleum (Compressed Gases) Order 1930 | S.R. & O. 1930/34 | The whole Order. |
+| The Cinematograph Film Stripping Regulations 1939 | S.R. & O. 1939/571 | The whole Regulations. |
+| The Petroleum (Carbide of Calcium) Order 1947 | S.R. & O. 1947/1442 | The whole Order. |
+
+### PART 2 — REPEAL AND REVOCATION
+
+| **Column 1** | **Column 2** | **Column 3** |
+| --- | --- | --- |
+| **Title** | **Reference** | **Extent of repeal or revocation** |
+| The Factories Act 1961 | c. 34 | Section 31. |
+| The Magnesium (Grinding of Castings and other Articles) Special Regulations 1946 | S.R. & O. 1946/2197 | The whole Regulations. |
+| The Dry Cleaning Special Regulations 1949 | S.I. 1949/2224 | The whole Regulations. |
+| The Factories (Testing of Aircraft Engines and Accessories) Special Regulations 1952 | S.I. 1952/1689 | The whole Regulations. |
+| The Shipbuilding and Ship-repairing Regulations 1960 [^c9631151] | S.I. 1960/1932 | Regulations 48 to 52, 54 and 55 to 66. |
+| The Highly Flammable Liquids and Liquefied Petroleum Gases Regulations 1972 | S.I. 1972/917 | The whole Regulations. |
+| The Abstract of Special Regulations (Highly Flammable Liquids and Liquefied Petroleum Gases) Order 1974 | S.I. 1974/1587 | The whole Order. |
+| The Dry Cleaning (Metrication) Regulations 1983 | S.I. 1983/977 | The whole Regulations. |
+| The Factories (Testing of Aircraft Engines and Accessories) (Metrication) Regulations 1983 | S.I. 1983/979 | The whole Regulations. |
+| The Dangerous Substances in Harbour Area Regulations 1987 | S.I. 1987/37 | Regulation 29(a). |
+| The Workplace (Health, Safety and Welfare) Regulations 1992 | S.I. 1992/3004 | Regulation 6(3)(b). |
+| The Carriage of Dangerous Goods (Classification, Packaging and Labelling) and Use of Transportable Pressure Receptacles Regulations 1996 | S.I. 1996/2092 | Regulation 22(b). |
+| The Carriage of Dangerous Goods by Road Regulations 1996 | S.I. 1996/2095 | Schedule 12. |
+
+*(This note is not part of the Regulations)*
+
+**1.** These Regulations impose requirements for the purpose of eliminating or reducing risks to safety from fire, explosion or other events arising from the hazardous properties of a “dangerous substance” in connection with work. “Dangerous substance” is defined by regulation 2(1) to mean:
+
+**a)** a substance or preparation which meets the criteria in the Approved Guide to the Classification and Labelling of Dangerous Substances and Dangerous Preparations (5th Edition) (ISBN 0717623696) for classification as a substance or preparation which is explosive, oxidising, extremely flammable, highly flammable or flammable, whether or not that substance or preparation is classified under the Chemicals (Hazard Information and Packaging for Supply) Regulations 2002 (S.I. 2002/1689);
+
+**b)** a substance or preparation which because of its physico-chemical or chemical properties and the way it is used or is present at the workplace creates a risk, not being a substance or preparation falling within subparagraph (a) above; or
+
+**c)** any dust, whether in the form of solid particles or fibrous materials or otherwise, which can form an explosive mixture with air or an explosive atmosphere, not being a substance or preparation falling within subparagraphs (a) or (b) above.
+
+**2.** The Regulations implement, as regards Great Britain, Council Directive [98/24/EC](https://www.legislation.gov.uk/european/directive/1998/0024) (OJ No. L 131, 5.9.98, p.11) on the protection of the health and safety of workers from the risks related to chemical agents at work, so far as that Directive relates to safety, and Council Directive [99/92/EC](https://www.legislation.gov.uk/european/directive/1999/0092) (OJ No. L 23, 28.1.00, p.57) on minimum requirements for improving the safety and health protection of workers potentially at risk from explosive atmospheres. Both of these Directives are individual Directives within the meaning of Article 16(1) of Council Directive [89/391/EC](https://www.legislation.gov.uk/european/directive/1989/0391).
+
+**3.** The Regulations apply outside Great Britain in the same way that sections 1 to 59 and 80 to 82 of the Health and Safety at Work etc. Act 1974 apply by virtue of the Health and Safety at Work etc. Act 1974 (Application outside Great Britain) Order 2001 (*regulation 12*).
+
+**4.** Regulation 3 contains disapplications in respect of certain provisions of the Regulations. Regulations 3 to 14 and 17(1) to (3) do not apply to the normal ship-board activities of a ship’s crew (*regulation 3(1)*). The duties under the Regulations on an employer in relation to his employees extend to non-employees, with certain savings*(regulation 4(1)*). The duties under the Regulations also extend to self-employed persons*(regulation 4(2)*).
+
+**5.** An employer is required to carry out a suitable and sufficient assessment of the risks to his employees where a dangerous substance is or may be present at the workplace (*regulation 5*). “Risk” is defined as meaning “the likelihood of a person’s safety being affected by harmful physical effects being caused to him from fire, explosion or other events arising from the hazardous properties of a dangerous substance in connection with work and also the extent of that harm” (*regulation 2(1)*). Under regulation 3 of the Management of Health and Safety at Work Regulations 1999 (S.I. 1999/3242), an employer is already required to carry out a risk assessment. However, where a dangerous substance is or may be present at the workplace, he will now additionally need to assess the risks in the light of the requirements for the assessment under regulation 5 of these Regulations.
+
+**6.** Employers are required by these Regulations to eliminate or reduce risk so far as is reasonably practicable. Where risk is not eliminated, employers are required, so far as is reasonably practicable and consistent with the risk assessment, to apply measures to control risks and mitigate any detrimental effects (*regulation 6(3)*).
+
+**7.** Places at the workplace where explosive atmospheres may occur must be classified as hazardous or non-hazardous and hazardous places must be classified into zones on the basis of the frequency and duration of the occurrence of an explosive atmosphere (*regulation 7(1) and Schedule 2*). Equipment and protective systems in hazardous places must comply with the requirements of Schedule 3 (*regulation 7(2)*) and, where necessary, hazardous places must be marked with signs at their points of entry in accordance with Schedule 4 (*regulation 7(3)*).
+
+**8.** Employers are required to make arrangements for dealing with accidents, incidents and emergencies (*regulation 8*). Employers will also need to provide employees with precautionary information, instruction and training where a dangerous substance is present at the workplace (*regulation 9*). Containers and pipes used at work for dangerous substances must, where not already marked in accordance with the requirements of the legislation listed in Schedule 5, clearly identify their contents (*regulation 10*).
+
+**9.** Where two or more employers share a workplace where an explosive atmosphere may occur, the employer responsible for the workplace is to co-ordinate the implementation of the measures required by these Regulations (*regulation 11*).
+
+**10.** Regulations 13 and 14 allow for exemptions to be made from all or any of the requirements of these Regulations. Amendments are made to legislation which mainly concerns petroleum-spirit (regulation 15 and Schedule 6) and repeals and revocations of legislation are also made (regulation 16 and Schedule 7). Regulation 17 makes transitional provision.
+
+**11.** A copy of the Regulatory Impact Assessment prepared in respect of these Regulations can be obtained from the Health and Safety Executive, Economic and Statistical Advice Unit, Rose Court, 2 Southwark Bridge, London, SE1 9HS. A copy of the transposition notes in respect of the implementation of the two Directives referred to in paragraph 2 above can be obtained from the Health and Safety Executive’s International Branch at that Rose Court address. A copy of both documents has been placed in the library of each House of Parliament.
+
+## Annotations
+
+[^c9630701]: Marginal citation: [1974 c. 37](https://www.legislation.gov.uk/ukpga/1974/37); [section 15(1)](https://www.legislation.gov.uk/uksi/2002/2776/section/15/1), [50(3)](https://www.legislation.gov.uk/uksi/2002/2776/section/50/3) and 52 were amended by the [Employment Protection Act 1975 (c. 71)](https://www.legislation.gov.uk/ukpga/1975/71), [Schedule 15](https://www.legislation.gov.uk/ukpga/1975/71/schedule/15), [paragraphs 6](https://www.legislation.gov.uk/ukpga/1975/71/paragraph/6), [16(3)](https://www.legislation.gov.uk/ukpga/1975/71/paragraph/16/3) and 17 respectively; [section 51A](https://www.legislation.gov.uk/uksi/2002/2776/section/51A) was added and section 52 was amended by the [Police (Health and Safety) Act 1997 (c. 42)](https://www.legislation.gov.uk/ukpga/1997/42), [sections 1](https://www.legislation.gov.uk/ukpga/1997/42/section/1) and 2 respectively; the general purposes of Part 1 of the 1974 Act were extended by the [Offshore Safety Act 1992 (c. 15)](https://www.legislation.gov.uk/ukpga/1992/15), [section 1(1)](https://www.legislation.gov.uk/ukpga/1992/15/section/1/1).
+
+[^key-55a580f491aa1bd2ae2a4a38aabb8bd0]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2002/2776/regulation/2) omitted (1.6.2015) by virtue of [The Classification, Labelling and Packaging of Chemicals (Amendments to Secondary Legislation) Regulations 2015 (S.I. 2015/21)](https://www.legislation.gov.uk/uksi/2015/21), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2015/21/regulation/1/3), [13(2)(a)](https://www.legislation.gov.uk/uksi/2015/21/regulation/13/2/a)
+
+[^key-817d146a0d7d6dfc11ea23a6b2cfc612]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2002/2776/regulation/2) omitted (1.6.2015) by virtue of [The Classification, Labelling and Packaging of Chemicals (Amendments to Secondary Legislation) Regulations 2015 (S.I. 2015/21)](https://www.legislation.gov.uk/uksi/2015/21), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2015/21/regulation/1/3), [13(2)(b)](https://www.legislation.gov.uk/uksi/2015/21/regulation/13/2/b)
+
+[^key-cbb84f4ca0b251f97a60ee323414df9a]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2002/2776/regulation/2) inserted (1.6.2015) by [The Classification, Labelling and Packaging of Chemicals (Amendments to Secondary Legislation) Regulations 2015 (S.I. 2015/21)](https://www.legislation.gov.uk/uksi/2015/21), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2015/21/regulation/1/3), [13(2)(c)](https://www.legislation.gov.uk/uksi/2015/21/regulation/13/2/c)
+
+[^key-4bfb478c8e33ba49688a0dd6841a5529]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2002/2776/regulation/2) substituted (1.6.2015) by [The Classification, Labelling and Packaging of Chemicals (Amendments to Secondary Legislation) Regulations 2015 (S.I. 2015/21)](https://www.legislation.gov.uk/uksi/2015/21), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2015/21/regulation/1/3), [13(2)(d)](https://www.legislation.gov.uk/uksi/2015/21/regulation/13/2/d)
+
+[^key-5c3a98146e0e17688e571e2dff57eb17]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2002/2776/regulation/2) substituted (31.12.2020) by [The Chemicals (Health and Safety) and Genetically Modified Organisms (Contained Use) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/720)](https://www.legislation.gov.uk/uksi/2019/720), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/720/regulation/1/2), [Sch. 1 para. 4(2)](https://www.legislation.gov.uk/uksi/2019/720/schedule/1/paragraph/4/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-59170960e6f1b7c1501450546bbb833f]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2002/2776/regulation/2) substituted (1.6.2015) by [The Classification, Labelling and Packaging of Chemicals (Amendments to Secondary Legislation) Regulations 2015 (S.I. 2015/21)](https://www.legislation.gov.uk/uksi/2015/21), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2015/21/regulation/1/3), [13(2)(e)](https://www.legislation.gov.uk/uksi/2015/21/regulation/13/2/e)
+
+[^key-04d2eb233e8167a9638a971fc7cc56cc]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2002/2776/regulation/2) inserted (1.6.2015) by [The Classification, Labelling and Packaging of Chemicals (Amendments to Secondary Legislation) Regulations 2015 (S.I. 2015/21)](https://www.legislation.gov.uk/uksi/2015/21), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2015/21/regulation/1/3), [13(2)(f)](https://www.legislation.gov.uk/uksi/2015/21/regulation/13/2/f)
+
+[^c9630731]: Marginal citation: [S.I. 1995/738](https://www.legislation.gov.uk/uksi/1995/738).
+
+[^c9630741]: Marginal citation: OJ No. L348, 28.11.92, p. 9.
+
+[^key-98c2ca48054c5097267e717cb2e7bf80]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2002/2776/regulation/2) omitted (1.6.2015) by virtue of [The Classification, Labelling and Packaging of Chemicals (Amendments to Secondary Legislation) Regulations 2015 (S.I. 2015/21)](https://www.legislation.gov.uk/uksi/2015/21), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2015/21/regulation/1/3), [13(2)(g)](https://www.legislation.gov.uk/uksi/2015/21/regulation/13/2/g)
+
+[^c9630751]: Marginal citation: [1980 c. 66](https://www.legislation.gov.uk/ukpga/1980/66).
+
+[^c9630761]: Marginal citation: [1984 c. 54](https://www.legislation.gov.uk/ukpga/1984/54).
+
+[^M_F_35a6285d-6eb2-464c-99f5-78e53454e372]: Textual amendment: Words in reg. 2 substituted (6.4.2009) by [The Dangerous Substances and Explosive Atmospheres Regulations 2002 (S.I. 2009/716)](https://www.legislation.gov.uk/uksi/2002/716), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2002/716/regulation/1/1), [Sch. 6](https://www.legislation.gov.uk/uksi/2002/716/schedule/6)
+
+[^c9630771]: Marginal citation: [S.I. 1998/2451](https://www.legislation.gov.uk/uksi/1998/2451).
+
+[^key-b52e723778b2e26d75b515c1fdabed2f]: Textual amendment: [Reg. 3(2)(e)](https://www.legislation.gov.uk/uksi/2002/2776/regulation/3/2/e) revoked (6.4.2015) by [The Mines Regulations 2014 (S.I. 2014/3248)](https://www.legislation.gov.uk/uksi/2014/3248), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2), [Sch. 4 Pt. 2](https://www.legislation.gov.uk/uksi/2014/3248/schedule/4/part/2) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/3))
+
+[^c9630791]: Marginal citation: [S.I. 1999/2024](https://www.legislation.gov.uk/uksi/1999/2024).
+
+[^c9630801]: Marginal citation: [S.I. 1995/2038](https://www.legislation.gov.uk/uksi/1995/2038).
+
+[^c9630811]: Marginal citation: OJ No. L 23, 28.1.00, p. 57.
+
+[^c9630821]: Marginal citation: [S.I. 1998/2306](https://www.legislation.gov.uk/uksi/1998/2306), amended by [S.I. 1999/860](https://www.legislation.gov.uk/uksi/1999/860) and 1999/2001.
+
+[^c9630831]: Marginal citation: [S.I. 2001/2127](https://www.legislation.gov.uk/uksi/2001/2127).
+
+[^c9630841]: Marginal citation: OJ No. L 131, 5.9.98, p. 11.
+
+[^c9630851]: Marginal citation: OJ No. L 23, 28.1.00, p. 57.
+
+[^c9630861]: Marginal citation: [1952 c. 67 (15 & 16 Geo 6 & 1 Eliz 2)](https://www.legislation.gov.uk/ukpga/Geo6&1Eliz2/15-16/67).
+
+[^c9630871]: Marginal citation: [S.I. 1999/1736](https://www.legislation.gov.uk/uksi/1999/1736).
+
+[^key-acf044623bb31c5b96535d239be13d3b]: Textual amendment: [Reg. 17(4)](https://www.legislation.gov.uk/uksi/2002/2776/regulation/17/4) revoked (1.10.2014) by [The Petroleum (Consolidation) Regulations 2014 (S.I. 2014/1637)](https://www.legislation.gov.uk/uksi/2014/1637), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/1/2), [Sch. 4 Pt. 1](https://www.legislation.gov.uk/uksi/2014/1637/schedule/4/part/1) (with [reg. 3(1)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/3/1))
+
+[^key-d97f884bf3b539389f51e27fe962f09a]: Textual amendment: [Reg. 17(5)](https://www.legislation.gov.uk/uksi/2002/2776/regulation/17/5) revoked (1.10.2014) by [The Petroleum (Consolidation) Regulations 2014 (S.I. 2014/1637)](https://www.legislation.gov.uk/uksi/2014/1637), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/1/2), [Sch. 4 Pt. 1](https://www.legislation.gov.uk/uksi/2014/1637/schedule/4/part/1) (with [regs. 3(1)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/3/1), [24](https://www.legislation.gov.uk/uksi/2014/1637/regulation/24))
+
+[^c9630891]: Marginal citation: OJ No. L 23, 28.1.00, p. 57.
+
+[^key-135ef969e4033a14f3dcb209ae6b101e]: Textual amendment: Words in [Sch. 3 para. 1](https://www.legislation.gov.uk/uksi/2002/2776/schedule/3/paragraph/1) substituted (8.12.2016) by [The Equipment and Protective Systems Intended for Use in Potentially Explosive Atmospheres Regulations 2016 (S.I. 2016/1107)](https://www.legislation.gov.uk/uksi/2016/1107), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/1107/regulation/1/1), [74(1)](https://www.legislation.gov.uk/uksi/2016/1107/regulation/74/1) (with [reg. 74(2)](https://www.legislation.gov.uk/uksi/2016/1107/regulation/74/2))
+
+[^key-d8f7c5403a994e18ee648e12216de634]: Textual amendment: Words in Sch. 5 omitted (24.10.2011) by virtue of [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) Regulations 2011 (S.I. 2011/1885)](https://www.legislation.gov.uk/uksi/2011/1885), [reg. 1](https://www.legislation.gov.uk/uksi/2011/1885/regulation/1), [Sch. para. 6](https://www.legislation.gov.uk/uksi/2011/1885/schedule/paragraph/6)
+
+[^key-19a6d29400c0d9b2f9cb716860d8aa64]: Textual amendment: Words in Sch. 5 substituted (10.5.2004) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment Regulations 2004 (S.I. 2004/568)](https://www.legislation.gov.uk/uksi/2004/568), [reg. 1](https://www.legislation.gov.uk/uksi/2004/568/regulation/1), [Sch. 13 para. 15](https://www.legislation.gov.uk/uksi/2004/568/schedule/13/paragraph/15)
+
+[^key-d909b30174cc2696b2c4ee642670dbe1]: Textual amendment: Words in Sch. 5 omitted (1.7.2007) by virtue of [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment Regulations 2007 (S.I. 2007/1573)](https://www.legislation.gov.uk/uksi/2007/1573), [regs. 1](https://www.legislation.gov.uk/uksi/2007/1573/regulation/1), [94](https://www.legislation.gov.uk/uksi/2007/1573/regulation/94), [Sch. 8](https://www.legislation.gov.uk/uksi/2007/1573/schedule/8)
+
+[^key-0999046a77bb9c5382728e9b4136d9d1]: Textual amendment: Words in Sch. 5 substituted (1.6.2015) by [The Classification, Labelling and Packaging of Chemicals (Amendments to Secondary Legislation) Regulations 2015 (S.I. 2015/21)](https://www.legislation.gov.uk/uksi/2015/21), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2015/21/regulation/1/3), [13(3)(a)](https://www.legislation.gov.uk/uksi/2015/21/regulation/13/3/a)
+
+[^key-bb56ac9ed00ccd8174523fa06052fea1]: Textual amendment: Words in Sch. 5 substituted (1.6.2015) by [The Classification, Labelling and Packaging of Chemicals (Amendments to Secondary Legislation) Regulations 2015 (S.I. 2015/21)](https://www.legislation.gov.uk/uksi/2015/21), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2015/21/regulation/1/3), [13(3)(b)](https://www.legislation.gov.uk/uksi/2015/21/regulation/13/3/b)
+
+[^c9630921]: Marginal citation: [1922 c. 35](https://www.legislation.gov.uk/ukpga/1922/35). Section 2 is amended by the [Cinemas Act 1985 (c. 13)](https://www.legislation.gov.uk/ukpga/1985/13), [section 24(1)](https://www.legislation.gov.uk/ukpga/1985/13/section/24/1) and Schedule 2, paragraph 1 and [S.I. 1992/1811](https://www.legislation.gov.uk/uksi/1992/1811).
+
+[^c9630931]: Marginal citation: [S.I. 1997/1840](https://www.legislation.gov.uk/uksi/1997/1840), amended by [S.I. 1999/1877](https://www.legislation.gov.uk/uksi/1999/1877) and 1999/3242.
+
+[^key-0e5ae368a7f832cf122ed3ac67e1f564]: Textual amendment: [Sch. 6 para. 2](https://www.legislation.gov.uk/uksi/2002/2776/schedule/6/paragraph/2) revoked (1.10.2014) by [The Petroleum (Consolidation) Regulations 2014 (S.I. 2014/1637)](https://www.legislation.gov.uk/uksi/2014/1637), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/1/2), [Sch. 4 Pt. 1](https://www.legislation.gov.uk/uksi/2014/1637/schedule/4/part/1) (with [reg. 3(1)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/3/1))
+
+[^key-2b5764c4fab080613ea8333911445d7e]: Textual amendment: [Sch. 6 para. 3](https://www.legislation.gov.uk/uksi/2002/2776/schedule/6/paragraph/3) revoked (1.10.2014) by [The Petroleum (Consolidation) Regulations 2014 (S.I. 2014/1637)](https://www.legislation.gov.uk/uksi/2014/1637), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/1/2), [Sch. 4 Pt. 1](https://www.legislation.gov.uk/uksi/2014/1637/schedule/4/part/1) (with [reg. 3(1)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/3/1))
+
+[^key-1b71b4f3aa31b811bd41d5bfca782ccf]: Textual amendment: [Sch. 6 para. 4](https://www.legislation.gov.uk/uksi/2002/2776/schedule/6/paragraph/4) revoked (1.10.2014) by [The Petroleum (Consolidation) Regulations 2014 (S.I. 2014/1637)](https://www.legislation.gov.uk/uksi/2014/1637), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/1/2), [Sch. 4 Pt. 1](https://www.legislation.gov.uk/uksi/2014/1637/schedule/4/part/1) (with [reg. 3(1)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/3/1))
+
+[^key-8d2d9d6982855bf74b57e609052b75a0]: Textual amendment: [Sch. 6 para. 5](https://www.legislation.gov.uk/uksi/2002/2776/schedule/6/paragraph/5) revoked (1.10.2014) by [The Petroleum (Consolidation) Regulations 2014 (S.I. 2014/1637)](https://www.legislation.gov.uk/uksi/2014/1637), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/1/2), [Sch. 4 Pt. 1](https://www.legislation.gov.uk/uksi/2014/1637/schedule/4/part/1) (with [reg. 3(1)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/3/1))
+
+[^key-9b453b86c6fc78be10725f458ad3274c]: Textual amendment: [Sch. 6 para. 6](https://www.legislation.gov.uk/uksi/2002/2776/schedule/6/paragraph/6) revoked (1.10.2014) by [The Petroleum (Consolidation) Regulations 2014 (S.I. 2014/1637)](https://www.legislation.gov.uk/uksi/2014/1637), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/1/2), [Sch. 4 Pt. 1](https://www.legislation.gov.uk/uksi/2014/1637/schedule/4/part/1) (with [reg. 3(1)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/3/1))
+
+[^c9631071]: Marginal citation: [S.I. 1987/37](https://www.legislation.gov.uk/uksi/1987/37), amended by [S.I. 1993/1746](https://www.legislation.gov.uk/uksi/1993/1746), 1994/669, 1994/3247, 1996/2092, 1996/2095, 1997/2367, 1998/2885 and 1999/2029.
+
+[^c9631081]: Marginal citation: [S.I. 1997/1840](https://www.legislation.gov.uk/uksi/1997/1840), amended by [S.I. 1999/1877](https://www.legislation.gov.uk/uksi/1999/1877) and 1999/3242.
+
+[^c9631091]: Marginal citation: [S.I. 1976/2003](https://www.legislation.gov.uk/uksi/1976/2003), amended by [S.I. 1985/1333](https://www.legislation.gov.uk/uksi/1985/1333), 1987/37 and 1992/1811.
+
+[^c9631101]: Marginal citation: ISBN 071761221X.
+
+[^c9631111]: Marginal citation: OJ No. L383, 29.12.92, p. 113.
+
+[^c9631121]: Marginal citation: OJ No. 196, 16.8.67, p. 1.
+
+[^c9631131]: Marginal citation: [S.I. 1996/2095](https://www.legislation.gov.uk/uksi/1996/2095), amended by [S.I. 1998/2885](https://www.legislation.gov.uk/uksi/1998/2885), 1999/257, 1999/303 and 2001/1426.
+
+[^c9631141]: Marginal citation: [1928 c. 32](https://www.legislation.gov.uk/ukpga/1928/32).
+
+[^key-46ff65687e010cb0a86dd66060d377db]: Textual amendment: Words in [Sch. 7 Pt. 1](https://www.legislation.gov.uk/uksi/2002/2776/schedule/7/part/1) revoked (1.10.2014) by [The Petroleum (Consolidation) Regulations 2014 (S.I. 2014/1637)](https://www.legislation.gov.uk/uksi/2014/1637), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/1/2), [Sch. 4 Pt. 1](https://www.legislation.gov.uk/uksi/2014/1637/schedule/4/part/1) (with [reg. 3(1)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/3/1))
+
+[^c9631151]: Marginal citation: [Regulations 48 to 52](https://www.legislation.gov.uk/uksi/2002/2776/regulation/48) and 54 were revoked by [S.I. 1997/1713](https://www.legislation.gov.uk/uksi/1997/1713), [regulation 9(2)](https://www.legislation.gov.uk/uksi/1997/1713/regulation/9/2) and the Schedule, save insofar as they applied to the matters referred to in regulation 2(a) to (c) of [S.I. 1997/1713](https://www.legislation.gov.uk/uksi/1997/1713).

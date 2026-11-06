@@ -1,0 +1,110 @@
+---
+title: The Child Support Act 1991 (Commencement No. 1) Order 1992
+id: uksi/1992/1431
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '1992-06-17'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1992/1431
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1992/1431/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Child Support Act 1991 (Commencement No. 1) Order 1992
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+1992 No. 1431 (C.48)
+
+FAMILY LAW
+
+CHILD SUPPORT
+
+The Child Support Act 1991 (Commencement No. 1) Order 1992
+
+Made
+
+17th June 1992
+
+The Secretary of State for Social Security, in exercise of the power conferred upon him by section 58(2) of the Child Support Act 1991[^f00001], hereby makes the following Order:—
+
+## 1. Citation
+
+This Order may be cited as the Child Support Act 1991 (Commencement No. 1) Order 1992.
+
+## 2. Date appointed for the coming into force of certain provisions of the Child Support Act 1991
+
+The date appointed for the coming into force of the provisions of the Child Support Act 1991 specified in the Schedule to this Order is 17th June 1992.
+
+Signed by authority of the Secretary of State for Social Security.
+
+Alistair Burt
+
+Parliamentary Under-Secretary of State,
+
+Department of Social Security
+
+17th June 1992
+
+## SCHEDULE
+
+Article 2
+
+| *Provision of the Child Support Act 1991* | *Subject Matter* |
+| --- | --- |
+| Section 3(3)(c) | Meaning of certain terms used in the Act. |
+| Section 4(4), (7) and (8) | Child support maintenance. |
+| Section 5(3) | Child support maintenance: supplemental provisions. |
+| Section 6(1) (in so far as it confers power to prescribe kinds of benefit for the purposes of that subsection), (9), (10) and (13) | Applications by those receiving benefit. |
+| Section 7(5), (8) and (9) | Right of child in Scotland to apply for assessment. |
+| Section 8(5), (9) and (11)(f) | Role of the courts with respect to maintenance for children. |
+| Section 10 | Relationship between maintenance assessments and certain court orders and related matters. |
+| Section 12(2), (3) and (5) | Interim maintenance assessments. |
+| Section 14(1) and (3) | Information required by Secretary of State. |
+| Section 16(1), (2), (5) and (6) | Periodical reviews. |
+| Section 17(4) and (6)(b) | Reviews on change of circumstances. |
+| Section 18(8) and (11) | Reviews of decisions of child support officers. |
+| Section 21(2) and (3) | Child support appeal tribunals. |
+| Section 22(3) and (4) | Child Support Commissioners. |
+| Section 24(6) and (7) | Appeal to Child Support Commissioner. |
+| Section 25(2)(a), (3)(c), (5) and (6) | Appeal from Child Support Commissioner on question of law. |
+| Section 29(2) and (3) | Collection of child support maintenance. |
+| Section 30(1), (4) and (5) | Collection and enforcement of other forms of maintenance. |
+| Section 31(8) | Deduction from earnings orders. |
+| Section 32(1) to (5) and (7) to (9) | Regulations about deduction from earnings orders. |
+| Section 34(1) | Regulations about liability orders. |
+| Section 35(2)(b), (7) and (8) | Enforcement of liability orders by distress. |
+| Section 39 | Liability orders: enforcement throughout United Kingdom. |
+| Section 40(4)(a)(ii), (8) and (11) | Commitment to prison. |
+| Section 41(2), (3) and (4) | Arrears of child support maintenance. |
+| Section 42 | Special cases. |
+| Section 43(1)(b) and (2)(a) | Contribution to maintenance by deduction from benefit. |
+| Section 44(3) | Jurisdiction. |
+| Section 45 | Jurisdiction of courts in certain proceedings under the Act. |
+| Section 46(11) | Failure to comply with obligations imposed by section 6. |
+| Section 47 | Fees. |
+| Section 49 | Right of audience: Scotland. |
+| Section 50(5) and (7)(d) | Unauthorised disclosure of information. |
+| Section 51 | Supplementary powers to make regulations. |
+| Section 52 | Regulations and orders. |
+| Section 54 | Interpretation. |
+| Section 55 | Meaning of “child”. |
+| Section 56(2), (3) and (4) | Corresponding provision for and co-ordination with Northern Ireland. |
+| Section 57 | Application to Crown. |
+| Schedule 1 in the respects specified below and section 11, so far as it relates to them— paragraphs 1(3) and (5), 2(1), 4(1) and (3), 5(1), (2) and (4), 6(2) to (6), 7 to 9, 11, 14 and 16(5), (10) and (11) | Maintenance assessments. |
+| Paragraph 2(4) of Schedule 2 and section 14(4) so far as it relates to that sub-paragraph | Provision of information to Secretary of State. |
+| Paragraph 3(3) of Schedule 3 and section 21(4) so far as it relates to that sub-paragraph | Child Support Appeal Tribunals. |
+
+(This note is not part of the Order)
+
+This Order brings into force on 17th June 1992 those provisions of the Child Support Act 1991 specified in the Schedule to the Order.
+
+## Annotations
+
+[^f00001]: Footnote: [1991 c. 48](https://www.legislation.gov.uk/ukpga/1991/48).

@@ -1,0 +1,168 @@
+---
+title: The Sheep Annual Premium and Suckler Cow Premium Quotas (Amendment) Regulations 1994
+id: uksi/1994/2894
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '1994-11-14'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1994/2894
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1994/2894/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Sheep Annual Premium and Suckler Cow Premium Quotas (Amendment) Regulations 1994
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+1994 No. 2894
+
+AGRICULTURE
+
+The Sheep Annual Premium and Suckler Cow Premium Quotas (Amendment) Regulations 1994
+
+Made
+
+14th November 1994
+
+Laid before Parliament
+
+14th November 1994
+
+Coming into force
+
+15th November 1994
+
+The Minister of Agriculture, Fisheries and Food and the Secretary of State, being Ministers designated[^f00001] for the purposes of section 2(2) of the European Communities Act 1972[^f00002] in relation to the common agricultural policy of the European Community, acting jointly in exercise of the powers conferred on them by that section, and of all other powers enabling them in that behalf, hereby make the following Regulations:
+
+## 1. Title and commencement
+
+These Regulations may be cited as the Sheep Annual Premium and Suckler Cow Premium Quotas (Amendment) Regulations 1994 and shall come into force on 15th November 1994.
+
+## 2. Amendments to the Sheep Annual Premium and Suckler Cow Premium Quotas Regulations 1993
+
+(1) The Sheep Annual Premium and Suckler Cow Premium Quotas Regulations 1993[^f00003] shall be amended in accordance with the following paragraphs of this regulation.
+
+(2) The following definition shall be inserted after the definitions of “lease” and “lessor” in regulation 2(1)–
+
+> - “marketing year” means a marketing year as defined in Article 3(3) of Council Regulation [(EEC) No. 3013/89](https://www.legislation.gov.uk/european/regulation/1989/3013)[^f00004];
+
+.
+
+(3) In regulation 5 (transfer or lease of quota: notification)–
+
+- (a) delete the existing text of paragraph (2) and substitute instead–
+
+  > - For a transfer or lease of quota for sheep annual premium the deadline for notification shall be–
+  >   - (a) if the producer receiving the quota under the transfer or lease lodges his premium application by the end of the period specified in regulation 3(2)(b) of the Sheep Annual Premium Regulations 1992[^f00005] for delivering such applications in respect of any marketing year, the date of lodgement of that application; or
+  >   - (b) if no such application is lodged by that time by such a producer, the end of the period so specified.
+
+  ;
+- (b) delete the existing text of paragraph (3) and substitute instead–
+
+  > - For a transfer or lease of quota for suckler cow premium the deadline for notification shall be–
+  >   - (a) if the producer receiving the quota under the transfer or lease lodges his premium application by the end of the period specified in regulation 3(1) of the Suckler Cow Premium Regulations 1993[^f00006] for submitting such applications in respect of any calendar year, the date of lodgement of that application; or
+  >   - (b) if no such application is lodged by that time by such a producer, the end of the period so specified.
+
+  ; and
+- (c) in paragraph (5)–
+  - (i) before “the Minister” insert “, 1994 or 1995”,
+  - (ii) before “marketing year” insert “or 1994”, and
+  - (iii) before “in the case of suckler cow premium” insert “or 1994”.
+
+(4) In regulation 7 (transfer of quota with holding)–
+
+- (a) in paragraph (1) delete the phrase “, subject to paragraph (3) of this regulation,”;
+- (b) in paragraph (2) delete the words following “before the” to the end and substitute instead “next deadline for notification”; and
+- (c) delete paragraph (3).
+
+(5) In regulation 10 (leases in connection with environmental programmes), delete “shall not be subject to” and substitute instead “shall, to the extent which may be permitted under Article 7(4) of Commission Regulation 3567/92 as amended[^f00007] or, as the case may be, Article 34(3) of Commission Regulation 3886/92 as amended[^f00008], be exempted from”.
+
+(6) In regulation 14(2)(f) (quota register) before the words “broken down” insert “which for the marketing years 1993 and 1994 shall be”.
+
+(7) In Schedule 2, Part II, Category III, Group (a), paragraph (a) (reversion to livestock from arable farming) delete the words following “by virtue of his” to the end. Substitute instead
+
+> –
+>
+> - (i) taking the action referred to in category 4,
+> - (ii) undertaking to comply with the requirements of a Nitrate Sensitive Area Scheme established under the Nitrate Sensitive Area Regulations 1994[^f00009],
+> - (iii) undertaking to comply with the management obligations of a Habitat Scheme established under the Habitat (Water Fringe) Regulations 1994[^f00010], or
+> - (iv) participating in a development project or scheme established under section 5 of the Natural Heritage (Scotland) Act 1991[^f00011]; or
+
+.
+
+(8) In Schedule 2, Part II, Category V (organic farming)–
+
+- (a) in paragraph (a) delete the words “taking the action referred to in category 5” and substitute instead “following a plan approved under the Community aid scheme for organic agriculture established by Council Regulation [(EEC) No. 2078/92](https://www.legislation.gov.uk/european/regulation/1992/2078)[^f00012] as implemented in the United Kingdom by the Organic Farming (Aid) Regulations 1994[^f00013]”, and
+- (b) in paragraph (b) delete the words “taking the action referred to in category 5” and substitute instead “following a plan approved under the Community aid scheme for organic agriculture established by Council Regulation [(EEC) No. 2078/92](https://www.legislation.gov.uk/european/regulation/1992/2078) as implemented in the United Kingdom by the Organic Farming (Aid) Regulations 1994”.
+
+(9) In Schedule 3, paragraph 9(a) (allocation of quota to successful category 4 or category III, group (a), applicants), before the words “by the Minister” insert “or has undertaken to comply with the requirements of a Nitrate Sensitive Area Scheme established under the Nitrate Sensitive Areas Regulations 1994, or has undertaken to comply with the management obligations of a Habitat Scheme established under the Habitat (Water Fringe) Regulations 1994,”.
+
+Michael Jack
+
+Minister of State, Ministry of Agriculture, Fisheries and Food
+
+11th November 1994
+
+Fraser of Carmyllie
+
+Minister of State, Scottish Office
+
+14th November 1994
+
+(This note is not part of the Regulations)
+
+**1.** These Regulations (“the Regulations”) amend the Sheep Annual Premium and Suckler Cow Premium Quotas Regulations 1993 (S.I. [1993/1626](https://www.legislation.gov.uk/uksi/1993/1626)) as already amended by the Sheep Annual Premium and Suckler Cow Premium Quotas (Amendment) Regulations 1993 (S.I. [1993/3036](https://www.legislation.gov.uk/uksi/1993/3036)) (together referred to as “the 1993 Regulations”).
+
+**2.** The 1993 Regulations, which apply throughout the United Kingdom, make provision for the implementation in part of Articles 5a and 5b of Council Regulation [(EEC) No. 3013/89](https://www.legislation.gov.uk/european/regulation/1989/3013), Articles 4d to 4h of Council Regulation (EEC) No. 80 5/68, Commission Regulation [(EEC) No. 3567/92](https://www.legislation.gov.uk/european/regulation/1992/3567) and Articles 22 to 45 of Commission Regulation [(EEC) No. 3886/92](https://www.legislation.gov.uk/european/regulation/1992/3886) (all defined in regulation 2(1) of the 1993 Regulations). Articles 5a and 5b of Council Regulation [(EEC) No. 3013/89](https://www.legislation.gov.uk/european/regulation/1989/3013) and Commission Regulation [(EEC) No. 3567/92](https://www.legislation.gov.uk/european/regulation/1992/3567) establish a system of quotas for sheep annual premium; Articles 4d to 4h of Council Regulation [(EEC) No. 805/68](https://www.legislation.gov.uk/european/regulation/1968/0805) and Articles 22 to 45 of Commission Regulation [(EEC) No. 3886/92](https://www.legislation.gov.uk/european/regulation/1992/3886) establish a system of quotas for suckler cow premium.
+
+**3.** The Regulations (which likewise apply throughout the United Kingdom) make further provision for the implementation of the Community instruments referred to above.
+
+**4.** The Regulations make a number of amendments to the 1993 Regulations in consequence of further implementation by the United Kingdom of environmental protection measures under the common agricultural policy (“CAP”) and of other changes made to the CAP.
+
+**5.** The amendments to regulation 5(2) and (3) follow the amendment of Article 7(2) of Commission Regulation [(EEC) No. 3567/92](https://www.legislation.gov.uk/european/regulation/1992/3567) by Article 1(2) of Commission Regulation [(EC) No. 2527/94](https://www.legislation.gov.uk/european/regulation/1994/2527) (OJ No. L 269, 20.10.94, p. 11) in respect of sheep annual premium and Article 34(2) of Commission Regulation [(EEC) No. 3886/92](https://www.legislation.gov.uk/european/regulation/1992/3886) by Article 1(2) of Commission Regulation [(EC) No. 2526/94](https://www.legislation.gov.uk/european/regulation/1994/2526) (OJ No. L 269, 20.10.94, p. 9) in respect of suckler cow premium. These amendments to the Commission Regulations (which apply to sheep annual premium applications submitted for the 1995 and subsequent marketing years and to suckler cow premium applications submitted for 1995 and subsequent calendar years) change the time limits which may be imposed for the notification of a transfer or lease of quota to the Minister.
+
+**6.** The amendments to regulation 5(5) follow the amendment of Article 7(2) of Commission Regulation [(EEC) No. 3567/92](https://www.legislation.gov.uk/european/regulation/1992/3567) by Article 1(2) of Commission Regulation [(EEC) No. 2869/93](https://www.legislation.gov.uk/european/regulation/1993/2869) (OJ No. L 262, 21.10.93, p. 28) in respect of sheep annual premium and Article 34(2) of Commission Regulation [(EEC) No. 3886/92](https://www.legislation.gov.uk/european/regulation/1992/3886) by Article 1(1) of Commission Regulation [(EC) No. 489/94](https://www.legislation.gov.uk/european/regulation/1994/0489) (OJ No. L 62, 5.3.94, p. 8) in respect of suckler cow premium. These amendments to the Commission Regulations (which apply to sheep annual premium applications submitted for the 1993 and 1994 marketing years and to suckler cow premium applications submitted for 1993 and 1994) allow a second period of notification for transfers or leases of quota to be opened for those years.
+
+**7.** The amendment to regulation 10 follows the amendment of Article 7(4) of Commission Regulation [(EEC) No. 3567/92](https://www.legislation.gov.uk/european/regulation/1992/3567) by Article 1(3) of Commission Regulation [(EC) No. 1720/94](https://www.legislation.gov.uk/european/regulation/1994/1720) (OJ No. L 181, 15.7.94, p. 6) in respect of sheep annual premium and Article 34(3) of Commission Regulation [(EEC) No. 3886/92](https://www.legislation.gov.uk/european/regulation/1992/3886) by Article 1(3) of Commission Regulation [(EC) No. 1719/94](https://www.legislation.gov.uk/european/regulation/1994/1719) (OJ No. L 181, 15.7.94, p. 4) in respect of suckler cow premium. These amendments (which came into force on 22nd July 1994) remove, for producers undertaking from that date or later to follow a recognised extensification programme, the derogation which had previously permitted producers to lease quota for the duration of the programme.
+
+**8.** The amendment to regulation 14(2) follows the abolition of headage limits from 1995 for sheep annual premium quota by Article 1 of Council Regulation [(EC) No. 233/94](https://www.legislation.gov.uk/european/regulation/1994/0233) (OJ No. L 30, 3.2.94, p. 9) as implemented by Commission Regulation [(EC) No. 826/94](https://www.legislation.gov.uk/european/regulation/1994/0826) (OJ No. L 95, 14.4.94, p. 8).
+
+**9.** The changes to the actions by which a producer may fall within Schedule 2, Part II, Category III, Group (a), of persons eligible to be allocated quota from the national reserve follow the introduction of a new Nitrate Sensitive Areas Scheme under the Nitrate Sensitive Area Regulations 1994 (S.I. [1994/1729](https://www.legislation.gov.uk/uksi/1994/1729)) and the introduction of the Habitat Scheme for certain water fringes by the Habitat (Water Fringe) Regulations 1994 (S.I. [1994/1291](https://www.legislation.gov.uk/uksi/1994/1291)).
+
+**10.** The amendment to Schedule 2, Part II, Category V follows the implementation of Council Regulation [(EEC) No. 2078/92](https://www.legislation.gov.uk/european/regulation/1992/2078) in relation to Organic Aid Schemes by the Organic Farming (Aid) Regulations 1994 (S.I. [1994/1721](https://www.legislation.gov.uk/uksi/1994/1721), wrongly numbered [1994/1712](https://www.legislation.gov.uk/uksi/1994/1712) on the instrument).
+
+**11.** The Regulations also make minor and consequential amendments to the 1993 Regulations.
+
+## Annotations
+
+[^f00001]: Footnote: S.I. [1972/1811](https://www.legislation.gov.uk/uksi/1972/1811).
+
+[^f00002]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68).
+
+[^f00003]: Footnote: S.I. [1993/1626](https://www.legislation.gov.uk/uksi/1993/1626), amended by S.I. [1993/3036](https://www.legislation.gov.uk/uksi/1993/3036).
+
+[^f00004]: Footnote: OJ No. L289, 7.10.89, p. 1, to which there are amendments not relevant to this regulation.
+
+[^f00005]: Footnote: S.I. [1992/2677](https://www.legislation.gov.uk/uksi/1992/2677).
+
+[^f00006]: Footnote: S.I. [1993/1441](https://www.legislation.gov.uk/uksi/1993/1441), amended by S.I. [1994/1528](https://www.legislation.gov.uk/uksi/1994/1528).
+
+[^f00007]: Footnote: By Article 1(3) of Commission Regulation [(EC) No. 1720/94](https://www.legislation.gov.uk/european/regulation/1994/1720) (OJ No. L181, 15.7.94, p. 6).
+
+[^f00008]: Footnote: By Article 1(3) of Commission Regulation [(EC) No. 1719/94](https://www.legislation.gov.uk/european/regulation/1994/1719) (OJ No. L181, 15.7.94, p. 4).
+
+[^f00009]: Footnote: S.I. [1994/1729](https://www.legislation.gov.uk/uksi/1994/1729).
+
+[^f00010]: Footnote: S.I. [1994/1291](https://www.legislation.gov.uk/uksi/1994/1291).
+
+[^f00011]: Footnote: [1991 c. 28](https://www.legislation.gov.uk/ukpga/1991/28).
+
+[^f00012]: Footnote: OJ No. L215, 30.7.92, p. 85.
+
+[^f00013]: Footnote: S.I. [1994/1721](https://www.legislation.gov.uk/uksi/1994/1721) (wrongly numbered [1994/1712](https://www.legislation.gov.uk/uksi/1994/1712) on the instrument).

@@ -1,0 +1,102 @@
+---
+title: The Jobseeker’s Allowance (Amendment) Regulations 2004
+id: uksi/2004/1008
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2004-03-31'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2004/1008
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2004/1008/pdfs/uksi_20041008_en.pdf
+- http://www.legislation.gov.uk/uksi/2004/1008/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Jobseeker’s Allowance (Amendment) Regulations 2004
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2004 No. 1008
+
+SOCIAL SECURITY
+
+The Jobseeker’s Allowance (Amendment) Regulations 2004
+
+Made
+
+31st March 2004
+
+Coming into force in accordance with regulation 1(2)
+
+Whereas a draft of this instrument was laid before Parliament in accordance with section 37(2) of the Jobseekers Act 1995[^f00001] and approved by a resolution in each House of Parliament.
+
+Now, therefore, the Secretary of State for Work and Pensions, in exercise of the powers conferred upon him by sections 7(2)(a), 19(8)(b), 35(1)[^f00002] and 36(2) and (4) of the Jobseekers Act 1995, and of all other powers enabling him in that behalf, and after reference to the Social Security Advisory Committee[^f00003], hereby makes the following Regulations:
+
+## 1. Citation and commencement
+
+(1) These Regulations may be cited as the Jobseeker’s Allowance (Amendment) Regulations 2004.
+
+(2) These Regulations shall come into force—
+
+- (a) subject to sub-paragraph (b) on 19th April 2004;
+- (b) on 18th October 2004 for persons who on 19th April 2004 are entitled to a jobseeker’s allowance or have any earnings credited to them in accordance with regulation 8A of the Social Security (Credits) Regulations 1975[^f00004].
+
+## 2. Amendment of the Jobseeker’s Allowance Regulations 1996
+
+(1) The Jobseeker’s Allowance Regulations 1996[^f00005] shall be amended in accordance with this regulation.
+
+(2) In regulation 18 (steps to be taken by persons actively seeking employment) for paragraph (1) there shall be substituted the following paragraph—
+
+> (1) For the purposes of section 7(1) (actively seeking employment) a person shall be expected to have to take more than two steps in any week unless taking one or two steps is all that is reasonable for that person to do in that week.
+
+(3) In regulation 72(6)(b) (good cause for the purposes of section 19(5)(a) and (6)(c) and (d) and section 20A)[^f00006] for the words “one hour either way” to the end of the paragraph there shall be substituted—
+
+> ,—
+>
+> - (i) during the first 13 weeks of entitlement to a jobseeker’s allowance, one hour either way; and
+> - (ii) in all other cases, one hour and thirty minutes either way,
+>
+> by a route and means appropriate to his circumstances and to the employment, or to the carrying out of the jobseeker’s direction, unless, in view of the health of the person or any caring responsibilities of his, that time was or is unreasonable.
+
+.
+
+Signed by authority of the Secretary of State for Work and Pensions.
+
+Chris Pond
+
+Parliamentary Under-Secretary of State,
+
+Department for Work and Pensions
+
+31st March 2004
+
+(This note is not part of the Regulations)
+
+These Regulations amend the Jobseeker’s Allowance Regulations 1996 (S.I. [1996/207](https://www.legislation.gov.uk/uksi/1996/207)).
+
+Regulation 2(2) amends regulation 18(1) to increase the minimum number of steps that a jobseeker must take to be actively seeking employment from at least two to at least three in a week, unless taking one or two steps is all that it is reasonable to do in that week.
+
+Regulation 2(3) amends regulation 72(6)(b) concerning good cause for refusing or failing to carry out a jobseeker’s direction or to apply for or accept employment to which a jobseeker has been referred by an employment officer or which has been offered in a qualifying former employment. Where the failure relates to the travelling time between the jobseeker’s home and the place of employment or the place mentioned in the jobseeker’s direction, a jobseeker will not generally have good cause if the time is less than one hour and thirty minutes either way. During the first 13 weeks of entitlement to a jobseeker’s allowance a jobseeker will not have good cause for such a refusal or failure if the travelling time is less than one hour either way. Previously, in all cases, a jobseeker did not have good cause if the travelling time was less than one hour either way.
+
+The Report of the Social Security Advisory Committee dated 10<sup>th</sup> February 2004 on the proposals referred to them in respect of these Regulations, together with a statement showing the extent to which the proposals give effect to the Recommendations of the Committee, and in so far as they do not give effect to them, the reasons why not, are contained in Command Paper Cm. 6145 published by The Stationery Office Ltd.
+
+A full regulatory impact assessment has not been produced for this instrument as it has no impact on the costs of business.
+
+## Annotations
+
+[^f00001]: Footnote: [1995 c. 18](https://www.legislation.gov.uk/ukpga/1995/18).
+
+[^f00002]: Footnote: Section 35(1) is an interpretation provision and is cited because of the meaning there given to the words “prescribed” and “regulations”.
+
+[^f00003]: Footnote: *See* sections 170 and 172(1) of the Social Security Administration Act [1992 (c. 5)](https://www.legislation.gov.uk/ukpga/1992/5); paragraph 67 of Schedule 2 to the Jobseekers Act 1995 added that Act to the list of “relevant enactments” in respect of which regulations must normally be referred to the Committee.
+
+[^f00004]: Footnote: S.I. [1975/556](https://www.legislation.gov.uk/uksi/1975/556). The relevant amending instrument is S.I. [1996/2367](https://www.legislation.gov.uk/uksi/1996/2367).
+
+[^f00005]: Footnote: S.I. [1996/207](https://www.legislation.gov.uk/uksi/1996/207).
+
+[^f00006]: Footnote: Regulation 72(6) is amended by S.I. [2000/1978](https://www.legislation.gov.uk/uksi/2000/1978).

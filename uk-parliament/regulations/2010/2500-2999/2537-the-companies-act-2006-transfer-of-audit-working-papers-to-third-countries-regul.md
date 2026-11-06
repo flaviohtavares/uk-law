@@ -1,0 +1,346 @@
+---
+title: The Companies Act 2006 (Transfer of Audit Working Papers to Third Countries) Regulations 2010
+id: uksi/2010/2537
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2010-10-16'
+text_date: '2016-06-17'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2010/2537
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2010/2537/pdfs/uksiem_20102537_en.pdf
+- http://www.legislation.gov.uk/uksi/2010/2537/pdfs/uksi_20102537_en.pdf
+- http://www.legislation.gov.uk/uksi/2010/2537/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Companies Act 2006 (Transfer of Audit Working Papers to Third Countries) Regulations 2010
+
+> Text as at 2016-06-17.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2010 No. 2537
+
+Companies
+
+Auditors
+
+The Companies Act 2006 (Transfer of Audit Working Papers to Third Countries) Regulations 2010
+
+Made
+
+16th October 2010
+
+Laid before Parliament
+
+20th October 2010
+
+Coming into force in accordance with regulation 1(2) and (3)
+
+The Secretary of State is a Minister designated[^f00001] for the purposes of section 2(2) of the European Communities Act 1972[^f00002] in relation to auditors and the audit of accounts.
+
+In exercise of the powers conferred by section 2(2) of the European Communities Act 1972 the Secretary of State makes the following Regulations.
+
+## 1. Citation and commencement[^key-ed208f301bc363caf04b3c8dbd7e24fb]
+
+(1) These Regulations may be cited as the Companies Act 2006 (Transfer of Audit Working Papers to Third Countries) Regulations 2010.
+
+(2) These Regulations (other than regulation 4) come into force on 15th November 2010.
+
+(3)[^key-8f64333f08493468f94d50638f802a6f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 2. Transfer of audit working papers to third countries[^key-584cffa4b6070a41a845068d390a6366]
+
+For section 1253D of the Companies Act 2006 (restriction on transfer of audit working papers to third countries)[^f00003] substitute—
+
+> **1253D. Restriction on transfer of audit working papers to third countries**
+>
+> (1) Audit working papers must not be transferred to a third country competent authority except in accordance with—
+>
+> - (a) section 1253DA (transfer by Secretary of State),
+> - (b) section 1253DB (transfer by statutory auditor with approval of Secretary of State), or
+> - (c) section 1253DC (transfer by statutory auditor for purposes of investigation of auditor).
+>
+> (2) The following are approved third country competent authorities for the purposes of this Part—
+>
+> - (a) the Australian Securities and Investments Commission;
+> - (b) the Canadian Public Accountability Board;
+> - (c) the Certified Public Accountants and Auditing Oversight Board of Japan;
+> - (d) the Financial Services Agency of Japan;
+> - (e) the Federal Audit Oversight Authority of Switzerland;
+> - (f) the Public Company Accounting Oversight Board of the United States of America;
+> - (g) the Securities and Exchange Commission of the United States of America.
+>
+> (3) Nothing in the sections referred to in subsection (1) authorises the making of a disclosure in contravention of the Data Protection Act 1998[^f00004].
+>
+> **1253DA. Transfer by Secretary of State**
+>
+> (1) The Secretary of State may transfer audit working papers to an approved third country competent authority if the following conditions are met (but see also section 1253DD).
+>
+> (2) The first condition is that the authority has made a request to the Secretary of State for the transfer of the audit working papers.
+>
+> (3) The second condition is that the audit working papers relate to audits of companies that—
+>
+> - (a) have issued securities in the third country in which the authority is established, or
+> - (b) form part of a group issuing statutory consolidated accounts in that third country.
+>
+> (4) The third condition is that the authority has entered into arrangements with the Secretary of State in accordance with section 1253E.
+>
+> **1253DB. Transfer by statutory auditor with approval of Secretary of State**
+>
+> (1) A statutory auditor may transfer audit working papers to an approved third country competent authority if the transfer is made—
+>
+> - (a) with the prior approval of the Secretary of State, and
+> - (b) in accordance with rules of a recognised supervisory body meeting the requirements of paragraph 16AA of Schedule 10.
+>
+> (2) The Secretary of State must not approve a transfer of audit working papers to an approved third country competent authority for the purposes of this section unless the following conditions are met (see also section 1253DD).
+>
+> (3) The first condition is that the authority has made a request to the Secretary of State for the transfer of the audit working papers.
+>
+> (4) The second condition is that the audit working papers relate to audits of companies that—
+>
+> - (a) have issued securities in the third country in which the authority is established, or
+> - (b) form part of a group issuing statutory consolidated accounts in that third country.
+>
+> (5) The third condition is that the authority has entered into arrangements with the Secretary of State in accordance with section 1253E.
+>
+> **1253DC. Transfer by statutory auditor for purposes of investigation of auditor**
+>
+> A statutory auditor may transfer audit working papers to a third country competent authority if the transfer is made—
+>
+> - (a) for the purposes of an investigation of an auditor or audit firm, and
+> - (b) in accordance with rules of a recognised supervisory body meeting the requirements of paragraph 16AB of Schedule 10.
+>
+> **1253DD. Agreement of EEA competent authority**
+>
+> (1) This section applies where—
+>
+> - (a) an approved third country competent authority makes a request to the Secretary of State for the transfer of audit working papers which relate to the audit of the consolidated accounts of a group, and
+> - (b) the audit working papers that are the subject of the request—
+>   - (i) have been created by the auditor of a subsidiary that is located in another EEA State in relation to the audit of that subsidiary, and
+>   - (ii) are in the possession of a statutory auditor.
+>
+> (2) In the case of a transfer by the Secretary of State under section 1253DA, the transfer must not take place unless the EEA competent authority responsible for the auditor of the subsidiary has given its express agreement to the transfer.
+>
+> (3) In the case of a transfer by a statutory auditor under section 1253DB, the Secretary of State must not approve the transfer unless the EEA competent authority responsible for the auditor of the subsidiary has given its express agreement to the transfer.
+>
+> **1253DE. Transfer by means of inspection**
+>
+> (1) This section applies in the case of a transfer of audit working papers if—
+>
+> - (a) it is a transfer to an approved third country competent authority listed in section 1253D(2)(a), (f) or (g),
+> - (b) it is a transfer under section 1253DA or 1253DB, and
+> - (c) it is to take place by means of an inspection in the United Kingdom by the authority.
+>
+> (2) The Secretary of State must participate in the inspection.
+>
+> (3) The inspection must be under the leadership of the Secretary of State unless the Secretary of State otherwise permits.
+
+## 3. Working arrangements for transfer of papers[^key-1937104daccda6f01f878d58901f560e]
+
+For section 1253E of the Companies Act 2006 (working arrangements for transfer of papers)[^f00005] substitute—
+
+> **1253E. Working arrangements for transfer of papers**
+>
+> (1) The Secretary of State may enter into arrangements with a third country competent authority relating to the transfer of audit working papers—
+>
+> - (a) from the third country competent authority or a third country auditor regulated by that authority to the Secretary of State, and
+> - (b) from the Secretary of State or a statutory auditor to the third country competent authority.
+>
+> (2) The arrangements must provide that a request by the Secretary of State or the third country competent authority for a transfer mentioned in subsection (1) must be accompanied by a statement explaining the reasons for the request.
+>
+> (3) The arrangements must—
+>
+> - (a) provide that the Secretary of State may not use audit working papers obtained from the third country competent authority or a third country auditor regulated by that authority except in connection with one or more of the functions mentioned in subsection (4), and
+> - (b) include comparable provision in relation to audit working papers obtained by the third country competent authority from the Secretary of State or a statutory auditor.
+>
+> (4) Those functions are—
+>
+> - (a) quality assurance functions which meet requirements equivalent to those of Article 29 of the Audit Directive (quality assurance);
+> - (b) investigation or disciplinary functions which meet requirements equivalent to those of Article 30 of the Audit Directive (investigations and penalties);
+> - (c) public oversight functions which meet requirements equivalent to those of Article 32 of the Audit Directive (principles of public oversight).
+>
+> (5) The arrangements must—
+>
+> - (a) provide that the Secretary of State, a person exercising the functions of the Secretary of State and persons employed or formerly employed in discharging those functions must be subject to obligations of confidentiality as to personal data, professional secrets and sensitive commercial information contained in audit working papers transferred to the Secretary of State, and
+> - (b) provide that the third country competent authority and persons involved in exercising its functions are subject to comparable obligations in relation to audit working papers transferred to the authority.
+>
+> (6) The arrangements must—
+>
+> - (a) provide that the Secretary of State may refuse, or direct a statutory auditor to refuse, a request from the third country competent authority for a transfer of audit working papers in a case mentioned in subsection (7)(a) or (b), and
+> - (b) provide that the third country competent authority has comparable rights in relation to a request from the Secretary of State.
+>
+> (7)  Those cases are—
+>
+> - (a) where the transfer of the papers would adversely affect the sovereignty, security or public order of the European Union or of the United Kingdom;
+> - (b) where legal proceedings have been brought in the United Kingdom (whether continuing or not) in relation to the persons and matters to which the request relates.
+>
+> (8)  Arrangements with an approved third country competent authority listed in section 1253D(2)(a), (f) or (g) must—
+>
+> - (a) provide that any contact between a statutory auditor and the authority relating to a relevant transfer of audit working papers to the authority must take place via the Secretary of State, and
+> - (b) include comparable provision in relation to transfers of audit working papers to the Secretary of State.
+>
+> (9) “Relevant transfer” means any transfer other than a transfer by a statutory auditor under section 1253DC.
+
+## 4. Amendment of definition of approved third country competent authorities with effect from 1 August 2016[^key-4e30d3c96b2411c5dbdabb1c4f6ade7c]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 5. Rules of recognised supervisory bodies as to transfer of audit working papers[^key-9272cc54bcf3bb436e83bcb8827c3b9c]
+
+For paragraph 16A of Schedule 10 to the Companies Act 2006 (rules of recognised supervisory bodies as to transfer of papers to third countries)[^f00006], and the heading before it, substitute—
+
+> **16A. Transfer of papers to third countries**
+>
+> (1) The body must have adequate rules and practices designed to ensure that a person eligible under its rules for appointment as a statutory auditor transfers audit working papers to a third country competent authority only in accordance with the requirements of—
+>
+> - (a) paragraph 16AA (transfer to approved third country competent authority), or
+> - (b) paragraph 16AB (transfer for purposes of investigation).
+>
+> (2) The body must also have adequate rules and practices designed to ensure that a person eligible under its rules for appointment as a statutory auditor must refuse to transfer audit working papers to a third country competent authority if the Secretary of State directs under section 1253E(6) that such a transfer should not take place.
+>
+> **16AA. Transfer to approved third country competent authority**
+>
+> The requirements of this paragraph are that—
+>
+> - (a) the transfer is to an approved third country competent authority, and
+> - (b) the Secretary of State has approved the transfer.
+>
+> **16AB. Transfer for purposes of investigation of auditor**
+>
+> (1) The requirements of this paragraph are that—
+>
+> - (a) the transfer to the third country competent authority is made for the purposes of an investigation of an auditor or audit firm, and
+> - (b) the following conditions are met.
+>
+> (2) The first condition is that the authority has requested the audit working papers for the purposes of an investigation which has been initiated by itself or another third country competent authority established in the same third country.
+>
+> (3) The second condition is that the audit working papers relate to audits of companies that—
+>
+> - (a) have issued securities in that third country, or
+> - (b) form part of a group issuing statutory consolidated accounts in that third country.
+>
+> (4) The third condition is that, where the authority has made the request for the audit working papers directly to the statutory auditor, the authority has given the Secretary of State advance notice of the request, indicating the reasons for it.
+>
+> (5) The fourth condition is that the authority has entered into arrangements with the Secretary of State in accordance with section 1253E.
+
+## 6. Minor definitions and index of defined expressions[^key-88c1a822a444d305bd1e9da8241d0af7]
+
+(1) Section 1261(1) of the Companies Act 2006[^f00007] (minor definitions for Part 42) is amended as follows.
+
+(2) In the definition of “audit working papers”, after “statutory auditor” insert “, an EEA auditor”.
+
+(3) For the definition of “EEA auditor” substitute—
+
+> - “EEA auditor” means an individual or firm approved in accordance with the Audit Directive by an EEA competent authority to carry out audits of annual accounts or consolidated accounts required by European Union law;
+
+.
+
+(4) At the appropriate place insert—
+
+> - “transfer”, in relation to audit working papers, includes physical and electronic transfer and allowing access to such papers;
+
+.
+
+(5) In section 1262 of the Companies Act 2006 (index of defined expressions for Part 42), at the appropriate places insert—
+
+> |  |  |
+> | --- | --- |
+> | approved third country competent authority | Section 1253D(2); |
+
+> |  |  |
+> | --- | --- |
+> | transfer (in relation to audit working papers) | Section 1261(1). |
+
+## 7. Exercise of functions of Secretary of State[^key-71bc874ac5a6ecc757dd5948cbe2a956]
+
+(1) In the Statutory Auditors (Delegation of Functions etc) Order 2008[^f00008], article 4 (transfer of functions to delegated body) is amended as follows.
+
+(2) The reference to the functions of the Secretary of State in paragraph (1) (delegation of all of Secretary of State’s functions under Part 42 of the Companies Act 2006, subject to exceptions and reservations) includes the functions conferred on the Secretary of State by the amendments made by these Regulations.
+
+(3) In paragraph (4) (functions exercisable only with consent of Secretary of State) for paragraph (d) substitute—
+
+> - (d) refusing a request, or directing a statutory auditor to refuse a request, from a third country competent authority in a case referred to in section 1253E(7)(a) (prejudice to sovereignty, security or public order).
+
+## 8. Application of these Regulations[^key-958af9a8b4b6e40d6dab40fedc84c8ee]
+
+Notwithstanding paragraph 38 of Schedule 4 to the Companies Act 2006 (Commencement No. 5, Transitional Provisions and Savings) Order 2007[^f00009] (which limits the application of certain provisions of the Companies Act 2006, including Schedule 10), paragraphs 16A to 16AB of Schedule 10 to the Companies Act 2006 (inserted by these Regulations) apply in relation to the supervision of auditors appointed for any financial year.
+
+Edward Davey
+
+Minister for Employment Relations, Consumer and Postal Affairs,
+
+Department for Business, Innovation and Skills
+
+16th October 2010
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations amend provisions on the transfer of audit working papers to third country competent authorities contained in sections 1253D and 1253E of, and Schedule 10 to, the Companies Act [2006 (c.46)](https://www.legislation.gov.uk/ukpga/2006/46). The Regulations give effect to Commission Decision 2010/64/EU of 5th February 2010 (O.J. L35, 6.2.2010, p.15) and Commission Decision 2010/485/EU of 1st September 2010 (O.J. L240, 11.9.2010, p.6) concerning the adequacy of the competent authorities of certain third countries pursuant to Article 47 of Directive [2006/43/EC](https://www.legislation.gov.uk/european/directive/2006/0043) on statutory audits of annual accounts and consolidated accounts (O.J. L157, 9.6.2006, p.87). These Regulations also re-implement certain aspects of Article 47 of Directive [2006/43/EC](https://www.legislation.gov.uk/european/directive/2006/0043) (“the Directive”).
+
+Commission Decision 2010/64/EU specified four competent authorities of third countries as meeting requirements that are considered adequate for the purpose of Article 47(1) of the Directive. They are the Canadian Public Accountability Board; the Financial Services Agency of Japan; the Certified Public Accountants and Auditing Oversight Board of Japan and the Federal Audit Oversight Authority of Switzerland.
+
+Commission Decision 2010/485/EU specified three competent authorities of third countries as meeting requirements that are considered adequate for the purpose of Article 47(1) of the Directive. They are the Australian Securities and Investments Commission, the Public Company Accounting Oversight Board of the United States of America and the Securities and Exchange Commission of the United States of America.
+
+Regulation 2 substitutes new section 1253D, and introduces sections 1253DA, 1253DB and 1253DC specifying the circumstances in which audit working papers (as defined in section 1261) may be transferred by the Secretary of State or a statutory auditor to third country competent authorities. Regulation 2 also introduces section 1253DD which transposes Article 2(3) of each of Commission Decision 2010/64/EU and Commission Decision 2010/485/EU which requires the consent of an EEA competent authority for the transfer of audit working papers, where those audit working papers are in the possession of the United Kingdom statutory auditor but relate to a subsidiary in the jurisdiction of that EEA competent authority. Regulation 2 also transposes Article 2(6) of Commission Decision 2010/485/EU, concerning how inspections, in non-investigation cases, which involve the competent authorities of Australia or the United States of America must be conducted.
+
+Regulation 3 substitutes section 1253E of the Companies Act 2006 (working arrangements for transfer of audit working papers). Subsection (5) includes the extra provisions mandated by Article 2(4) of Commission Decision 2010/485/EU. Subsections (6) and (7) implement Article 47(2)(d) of the Directive. Subsections (8) and (9) regarding contacts between a statutory auditor and a third country competent authority implement Article 2(5) of Commission Decision 2010/485/EU and apply only to the competent authorities of Australia and the United States of America.
+
+Regulation 4 only enters into force on 31st July 2013 and provides that the competent authorities of the United States of America shall no longer be approved third country competent authorities as of that date.
+
+Regulation 5 substitutes three new paragraphs for existing paragraph 16A of Schedule 10 to the Companies Act 2006 to provide for the rules and practices that recognised supervisory bodies must have in place concerning the transfer of audit working papers to third country competent authorities by United Kingdom statutory auditors.
+
+Regulation 6 amends section 1261(1) of the Companies Act 2006 which contains minor definitions for Part 42 of the Act.
+
+Regulation 7 makes consequential amendments to the Statutory Auditors (Delegation of Functions etc) Order 2008 ([S.I. 2008/496](https://www.legislation.gov.uk/uksi/2008/496)).
+
+Regulation 8 provides that paragraph 38 of Schedule 4 to the Companies Act 2006 (Commencement No. 5, Transitional Provisions and Savings) Order 2007 ([S.I. 2007/3495](https://www.legislation.gov.uk/uksi/2007/3495)) which limits the application of certain provisions of the Companies Act 2006, including Schedule 10, to auditors appointed for financial years beginning on or after 6th April 2008 does not affect the provisions of these Regulations, and that therefore these Regulations apply to any audit working papers, irrespective of when they are or were created, and to any statutory auditor irrespective of the financial year in respect of which the statutory auditor is or was appointed.
+
+A transposition note has been prepared which sets out how the Directive is transposed into UK law, updated to reflect the implementation of Commission Decisions the 2010/64/EU and 2010/485/EU. An Impact Assessment of the effect of the implementation of the Directive on the costs of business, charities or voluntary bodies was also prepared. Both are available from the Department for Business, Innovation and Skills, Corporate Law and Governance Directorate, 1 Victoria Street, London, SW1H 0ET. They are also available electronically at www.bis.gov.uk. Copies have also been placed in the libraries of both Houses of Parliament. Otherwise, an Impact Assessment has not been produced for these Regulations as they have only a negligible impact on the costs of business, charities or voluntary bodies.
+
+## Annotations
+
+[^f00001]: Footnote: [S.I. 2007/1679](https://www.legislation.gov.uk/uksi/2007/1679).
+
+[^f00002]: Footnote: [1972 c.68](https://www.legislation.gov.uk/ukpga/1972/68).
+
+[^key-ed208f301bc363caf04b3c8dbd7e24fb]: Commencement: Reg. 1 in force at 15.11.2010, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/2537/regulation/1/2)
+
+[^key-8f64333f08493468f94d50638f802a6f]: Textual amendment: [Reg. 1(3)](https://www.legislation.gov.uk/uksi/2010/2537/regulation/1/3) omitted (17.6.2016) by virtue of [The Statutory Auditors and Third Country Auditors Regulations 2016 (S.I. 2016/649)](https://www.legislation.gov.uk/uksi/2016/649), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/2016/649/regulation/1/1/a), [22(2)(a)](https://www.legislation.gov.uk/uksi/2016/649/regulation/22/2/a)
+
+[^key-584cffa4b6070a41a845068d390a6366]: Commencement: Reg. 2 in force at 15.11.2010, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/2537/regulation/1/2)
+
+[^f00003]: Footnote: [2006 c.46](https://www.legislation.gov.uk/ukpga/2006/46). Section 1253D was inserted by regulation 15 of [S.I. 2007/3494](https://www.legislation.gov.uk/uksi/2007/3494).
+
+[^f00004]: Footnote: [1998 c.29](https://www.legislation.gov.uk/ukpga/1998/29).
+
+[^key-1937104daccda6f01f878d58901f560e]: Commencement: Reg. 3 in force at 15.11.2010, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/2537/regulation/1/2)
+
+[^f00005]: Footnote: Section 1253E was inserted by regulation 15 of [S.I. 2007/3494](https://www.legislation.gov.uk/uksi/2007/3494).
+
+[^key-4e30d3c96b2411c5dbdabb1c4f6ade7c]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/2010/2537/regulation/4) omitted (17.6.2016) by virtue of [The Statutory Auditors and Third Country Auditors Regulations 2016 (S.I. 2016/649)](https://www.legislation.gov.uk/uksi/2016/649), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/2016/649/regulation/1/1/a), [22(2)(b)](https://www.legislation.gov.uk/uksi/2016/649/regulation/22/2/b)
+
+[^key-9272cc54bcf3bb436e83bcb8827c3b9c]: Commencement: Reg. 5 in force at 15.11.2010, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/2537/regulation/1/2)
+
+[^f00006]: Footnote: Paragraph 16A was inserted by regulation 24 of [S.I. 2007/3494](https://www.legislation.gov.uk/uksi/2007/3494).
+
+[^key-88c1a822a444d305bd1e9da8241d0af7]: Commencement: Reg. 6 in force at 15.11.2010, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/2537/regulation/1/2)
+
+[^f00007]: Footnote: Section 1261 was amended by regulation 2 of [S.I. 2007/3494](https://www.legislation.gov.uk/uksi/2007/3494).
+
+[^key-71bc874ac5a6ecc757dd5948cbe2a956]: Commencement: Reg. 7 in force at 15.11.2010, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/2537/regulation/1/2)
+
+[^f00008]: Footnote: [S.I. 2008/496](https://www.legislation.gov.uk/uksi/2008/496).
+
+[^key-958af9a8b4b6e40d6dab40fedc84c8ee]: Commencement: Reg. 8 in force at 15.11.2010, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/2537/regulation/1/2)
+
+[^f00009]: Footnote: [S.I. 2007/3495](https://www.legislation.gov.uk/uksi/2007/3495).

@@ -1,0 +1,1932 @@
+---
+title: Terrorism Act 2006
+id: ukpga/2006/11
+type: UnitedKingdomPublicGeneralAct
+category: primary
+status: revised-with-pending-changes
+made_date: '2006-03-30'
+text_date: '2023-02-07'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2006/11
+pdf_urls:
+- http://www.legislation.gov.uk/ukpga/2006/11/pdfs/ukpgaen_20060011_en.pdf
+- http://www.legislation.gov.uk/ukpga/2006/11/pdfs/ukpga_20060011_en.pdf
+- http://www.legislation.gov.uk/ukpga/2006/11/data.pdf
+pending_changes: 1
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Terrorism Act 2006
+
+> **Warning: changes not yet applied to this text (1).** Text as at 2023-02-07. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/11
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+Terrorism Act 2006
+
+2006 c. 11
+
+An Act to make provision for and about offences relating to conduct carried out, or capable of being carried out, for purposes connected with terrorism; to amend enactments relating to terrorism; to amend the Intelligence Services Act 1994 and the Regulation of Investigatory Powers Act 2000; and for connected purposes.
+
+\[30th March 2006\]
+
+Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
+
+## Part 1 — Offences
+
+### Encouragement etc. of terrorism
+
+#### 1. Encouragement of terrorism[^key-a3d167e50e3cba9b86e3884b10b4ce90]
+
+(1) This section applies to a statement that is likely to be understood by a reasonable person[^key-facf4aada4649bd456ed33ae4a2a34b7] as a direct or indirect encouragement or other inducement , to some or all of the members of the public to whom it is published,[^key-c70d424f8fb5de5a27f9d63be830c2c7] to the commission, preparation or instigation of acts of terrorism or Convention offences.
+
+(2) A person commits an offence if—
+
+- (a) he publishes a statement to which this section applies or causes another to publish such a statement; and
+- (b) at the time he publishes it or causes it to be published, he—
+  - (i) intends members of the public to be directly or indirectly encouraged or otherwise induced by the statement to commit, prepare or instigate acts of terrorism or Convention offences; or
+  - (ii) is reckless as to whether members of the public will be directly or indirectly encouraged or otherwise induced by the statement to commit, prepare or instigate such acts or offences.
+
+(3) For the purposes of this section, the statements that are likely to be understood by a reasonable person[^key-ba18944cac39b10b6e5e318ad6b3a924] as indirectly encouraging the commission or preparation of acts of terrorism or Convention offences include every statement which—
+
+- (a) glorifies the commission or preparation (whether in the past, in the future or generally) of such acts or offences; and
+- (b) is a statement from which [^key-d599a9ea796231df42e6bec52252b0be]... members of the public could reasonably be expected to infer that what is being glorified is being glorified as conduct that should be emulated by them in existing circumstances.
+
+(4) For the purposes of this section the questions how a statement is likely to be understood and what members of the public could reasonably be expected to infer from it must be determined having regard both—
+
+- (a) to the contents of the statement as a whole; and
+- (b) to the circumstances and manner of its publication.
+
+(5) It is irrelevant for the purposes of subsections (1) to (3)—
+
+- (a) whether anything mentioned in those subsections relates to the commission, preparation or instigation of one or more particular acts of terrorism or Convention offences, of acts of terrorism or Convention offences of a particular description or of acts of terrorism or Convention offences generally; and,
+- (b) whether any person is in fact encouraged or induced by the statement to commit, prepare or instigate any such act or offence.
+
+(6) In proceedings for an offence under this section against a person in whose case it is not proved that he intended the statement directly or indirectly to encourage or otherwise induce the commission, preparation or instigation of acts of terrorism or Convention offences, it is a defence for him to show—
+
+- (a) that the statement neither expressed his views nor had his endorsement (whether by virtue of section 3 or otherwise); and
+- (b) that it was clear, in all the circumstances of the statement's publication, that it did not express his views and (apart from the possibility of his having been given and failed to comply with a notice under subsection (3) of that section) did not have his endorsement.
+
+(7) A person guilty of an offence under this section shall be liable—
+
+- (a) on conviction on indictment, to imprisonment for a term not exceeding 15 years[^key-bea31558f221b7b04b826c1823dd7da3] or to a fine, or to both;
+- (b) on summary conviction in England and Wales, to imprisonment for a term not exceeding the general limit in a magistrates’ court[^key-b592cdafa7f45e9de2539bd52d57749b] or to a fine not exceeding the statutory maximum, or to both;
+- (c) on summary conviction in Scotland or Northern Ireland, to imprisonment for a term not exceeding 6 months or to a fine not exceeding the statutory maximum, or to both.
+
+(8) In relation to an offence committed before 2 May 2022[^key-9c1564860c3fc8ce407660f1bbd48051], the reference in subsection (7)(b) to the general limit in a magistrates’ court[^key-509a16880cb40f3e636dd8a203b8cf30] is to be read as a reference to 6 months.
+
+#### 2. Dissemination of terrorist publications[^key-4b68e34a02676307b275835b0023bf42]
+
+(1) A person commits an offence if he engages in conduct falling within subsection (2) and, at the time he does so—
+
+- (a) he intends an effect of his conduct to be a direct or indirect encouragement or other inducement to the commission, preparation or instigation of acts of terrorism;
+- (b) he intends an effect of his conduct to be the provision of assistance in the commission or preparation of such acts; or
+- (c) he is reckless as to whether his conduct has an effect mentioned in paragraph (a) or (b).
+
+(2) For the purposes of this section a person engages in conduct falling within this subsection if he—
+
+- (a) distributes or circulates a terrorist publication;
+- (b) gives, sells or lends such a publication;
+- (c) offers such a publication for sale or loan;
+- (d) provides a service to others that enables them to obtain, read, listen to or look at such a publication, or to acquire it by means of a gift, sale or loan;
+- (e) transmits the contents of such a publication electronically; or
+- (f) has such a publication in his possession with a view to its becoming the subject of conduct falling within any of paragraphs (a) to (e).
+
+(3) For the purposes of this section a publication is a terrorist publication, in relation to conduct falling within subsection (2), if matter contained in it is likely—
+
+- (a) to be understood by a reasonable person as a direct or indirect encouragement or other inducement, to some or all of the persons to whom it is or may become available as a result of that conduct,[^key-bccb78fe54e724d2abfe75a3ef694a91] to the commission, preparation or instigation of acts of terrorism; or
+- (b) to be useful in the commission or preparation of such acts and to be understood, by some or all of those persons, as contained in the publication, or made available to them, wholly or mainly for the purpose of being so useful to them.
+
+(4) For the purposes of this section matter that is likely to be understood by a reasonable[^key-9d85b745d4fbae2bfe40de60b6220f97] person as indirectly encouraging the commission or preparation of acts of terrorism includes any matter which—
+
+- (a) glorifies the commission or preparation (whether in the past, in the future or generally) of such acts; and
+- (b) is matter from which a person[^key-260aaea4d1ec452735a30a12b934ff37] could reasonably be expected to infer that what is being glorified is being glorified as conduct that should be emulated by him in existing circumstances.
+
+(5) For the purposes of this section the question whether a publication is a terrorist publication in relation to particular conduct must be determined—
+
+- (a) as at the time of that conduct; and
+- (b) having regard both to the contents of the publication as a whole and to the circumstances in which that conduct occurs.
+
+(6) In subsection (1) references to the effect of a person's conduct in relation to a terrorist publication include references to an effect of the publication on one or more persons to whom it is or may become available as a consequence of that conduct.
+
+(7) It is irrelevant for the purposes of this section whether anything mentioned in subsections (1) to (4) is in relation to the commission, preparation or instigation of one or more particular acts of terrorism, of acts of terrorism of a particular description or of acts of terrorism generally.
+
+(8) For the purposes of this section it is also irrelevant, in relation to matter contained in any article whether any person—
+
+- (a) is in fact encouraged or induced by that matter to commit, prepare or instigate acts of terrorism; or
+- (b) in fact makes use of it in the commission or preparation of such acts.
+
+(9) In proceedings for an offence under this section against a person in respect of conduct to which subsection (10) applies, it is a defence for him to show—
+
+- (a) that the matter by reference to which the publication in question was a terrorist publication neither expressed his views nor had his endorsement (whether by virtue of section 3 or otherwise); and
+- (b) that it was clear, in all the circumstances of the conduct, that that matter did not express his views and (apart from the possibility of his having been given and failed to comply with a notice under subsection (3) of that section) did not have his endorsement.
+
+(10) This subsection applies to the conduct of a person to the extent that—
+
+- (a) the publication to which his conduct related contained matter by reference to which it was a terrorist publication by virtue of subsection (3)(a); and
+- (b) that person is not proved to have engaged in that conduct with the intention specified in subsection (1)(a).
+
+(11) A person guilty of an offence under this section shall be liable—
+
+- (a) on conviction on indictment, to imprisonment for a term not exceeding 15 years[^key-880443b490dcf95257fdaa9f3a17a120] or to a fine, or to both;
+- (b) on summary conviction in England and Wales, to imprisonment for a term not exceeding the general limit in a magistrates’ court[^key-5bfbadf7fbed605ddfeb84c67c8eddee] or to a fine not exceeding the statutory maximum, or to both;
+- (c) on summary conviction in Scotland or Northern Ireland, to imprisonment for a term not exceeding 6 months or to a fine not exceeding the statutory maximum, or to both.
+
+(12) In relation to an offence committed before 2 May 2022[^key-417fd9a630d7e03e84be1dbc9fb53226], the reference in subsection (11)(b) to the general limit in a magistrates’ court[^key-955324e44d5af85364efc353d5d148fa] is to be read as a reference to 6 months.
+
+(13) In this section—
+
+- “**lend**” includes let on hire, and “**loan**” is to be construed accordingly;
+- “**publication**” means an article or record of any description that contains any of the following, or any combination of them—
+  - (a) matter to be read;
+  - (b) matter to be listened to;
+  - (c) matter to be looked at or watched.
+
+#### 3. Application of ss. 1 and 2 to internet activity etc.[^key-aceda5b0eb49eae3ace511b1bdbcab53]
+
+(1) This section applies for the purposes of sections 1 and 2 in relation to cases where—
+
+- (a) a statement is published or caused to be published in the course of, or in connection with, the provision or use of a service provided electronically; or
+- (b) conduct falling within section 2(2) was in the course of, or in connection with, the provision or use of such a service.
+
+(2) The cases in which the statement, or the article or record to which the conduct relates, is to be regarded as having the endorsement of a person (“**the relevant person**”) at any time include a case in which—
+
+- (a) a constable has given him a notice under subsection (3);
+- (b) that time falls more than 2 working days after the day on which the notice was given; and
+- (c) the relevant person has failed, without reasonable excuse, to comply with the notice.
+
+(3) A notice under this subsection is a notice which—
+
+- (a) declares that, in the opinion of the constable giving it, the statement or the article or record is unlawfully terrorism-related;
+- (b) requires the relevant person to secure that the statement or the article or record, so far as it is so related, is not available to the public or is modified so as no longer to be so related;
+- (c) warns the relevant person that a failure to comply with the notice within 2 working days will result in the statement, or the article or record, being regarded as having his endorsement; and
+- (d) explains how, under subsection (4), he may become liable by virtue of the notice if the statement, or the article or record, becomes available to the public after he has complied with the notice.
+
+(4) Where—
+
+- (a) a notice under subsection (3) has been given to the relevant person in respect of a statement, or an article or record, and he has complied with it, but
+- (b) he subsequently publishes or causes to be published a statement which is, or is for all practical purposes, the same or to the same effect as the statement to which the notice related, or to matter contained in the article or record to which it related, (a “repeat statement”);
+
+the requirements of subsection (2)(a) to (c) shall be regarded as satisfied in the case of the repeat statement in relation to the times of its subsequent publication by the relevant person.
+
+(5) In proceedings against a person for an offence under section 1 or 2 the requirements of subsection (2)(a) to (c) are not, in his case, to be regarded as satisfied in relation to any time by virtue of subsection (4) if he shows that he—
+
+- (a) has, before that time, taken every step he reasonably could to prevent a repeat statement from becoming available to the public and to ascertain whether it does; and
+- (b) was, at that time, a person to whom subsection (6) applied.
+
+(6) This subsection applies to a person at any time when he—
+
+- (a) is not aware of the publication of the repeat statement; or
+- (b) having become aware of its publication, has taken every step that he reasonably could to secure that it either ceased to be available to the public or was modified as mentioned in subsection (3)(b).
+
+(7) For the purposes of this section a statement or an article or record is unlawfully terrorism-related if it constitutes, or if matter contained in the article or record constitutes—
+
+- (a) something that is likely to be understood, by any one or more of the persons to whom it has or may become available, as a direct or indirect encouragement or other inducement to the commission, preparation or instigation of acts of terrorism or Convention offences; or
+- (b) information which—
+  - (i) is likely to be useful to any one or more of those persons in the commission or preparation of such acts; and
+  - (ii) is in a form or context in which it is likely to be understood by any one or more of those persons as being wholly or mainly for the purpose of being so useful.
+
+(8) The reference in subsection (7) to something that is likely to be understood as an indirect encouragement to the commission or preparation of acts of terrorism or Convention offences includes anything which is likely to be understood as—
+
+- (a) the glorification of the commission or preparation (whether in the past, in the future or generally) of such acts or such offences; and
+- (b) a suggestion that what is being glorified is being glorified as conduct that should be emulated in existing circumstances.
+
+(9) In this section “**working day**” means any day other than—
+
+- (a) a Saturday or a Sunday;
+- (b) Christmas Day or Good Friday; or
+- (c) a day which is a bank holiday under the Banking and Financial Dealings Act 1971 (c. 80) in any part of the United Kingdom.
+
+#### 4. Giving of notices under s. 3[^key-36b99decf2bb2540d180ee5636790792]
+
+(1) Except in a case to which any of subsections (2) to (4) applies, a notice under section 3(3) may be given to a person only—
+
+- (a) by delivering it to him in person; or
+- (b) by sending it to him, by means of a postal service providing for delivery to be recorded, at his last known address.
+
+(2) Such a notice may be given to a body corporate only—
+
+- (a) by delivering it to the secretary of that body in person; or
+- (b) by sending it to the appropriate person, by means of a postal service providing for delivery to be recorded, at the address of the registered or principal office of the body.
+
+(3) Such a notice may be given to a firm only—
+
+- (a) by delivering it to a partner of the firm in person;
+- (b) by so delivering it to a person having the control or management of the partnership business; or
+- (c) by sending it to the appropriate person, by means of a postal service providing for delivery to be recorded, at the address of the principal office of the partnership.
+
+(4) Such a notice may be given to an unincorporated body or association only—
+
+- (a) by delivering it to a member of its governing body in person; or
+- (b) by sending it to the appropriate person, by means of a postal service providing for delivery to be recorded, at the address of the principal office of the body or association.
+
+(5) In the case of—
+
+- (a) a company registered outside the United Kingdom,
+- (b) a firm carrying on business outside the United Kingdom, or
+- (c) an unincorporated body or association with offices outside the United Kingdom,
+
+the references in this section to its principal office include references to its principal office within the United Kingdom (if any).
+
+(6) In this section “**the appropriate person**” means—
+
+- (a) in the case of a body corporate, the body itself or its secretary;
+- (b) in the case of a firm, the firm itself or a partner of the firm or a person having the control or management of the partnership business; and
+- (c) in the case of an unincorporated body or association, the body or association itself or a member of its governing body.
+
+(7) For the purposes of section 3 the time at which a notice under subsection (3) of that section is to be regarded as given is—
+
+- (a) where it is delivered to a person, the time at which it is so delivered; and
+- (b) where it is sent by a postal service providing for delivery to be recorded, the time recorded as the time of its delivery.
+
+(8) In this section “**secretary**”, in relation to a body corporate, means the secretary or other equivalent officer of the body.
+
+### Preparation of terrorist acts and terrorist training
+
+#### 5. Preparation of terrorist acts[^key-fa95b8d07bfd00c69dd1b18e2824cb19]
+
+(1) A person commits an offence if, with the intention of—
+
+- (a) committing acts of terrorism, or
+- (b) assisting another to commit such acts,
+
+he engages in any conduct in preparation for giving effect to his intention.
+
+(2) It is irrelevant for the purposes of subsection (1) whether the intention and preparations relate to one or more particular acts of terrorism, acts of terrorism of a particular description or acts of terrorism generally.
+
+(3) A person guilty of an offence under this section shall be liable, on conviction on indictment, to imprisonment for life.
+
+#### 6. Training for terrorism[^key-944e826de473a2495d269e4cbe7bd23f]
+
+(1) A person commits an offence if—
+
+- (a) he provides instruction or training in any of the skills mentioned in subsection (3); and
+- (b) at the time he provides the instruction or training, he knows that a person receiving it intends to use the skills in which he is being instructed or trained—
+  - (i) for or in connection with the commission or preparation of acts of terrorism or Convention offences; or
+  - (ii) for assisting the commission or preparation by others of such acts or offences.
+
+(2) A person commits an offence if—
+
+- (a) he receives instruction or training in any of the skills mentioned in subsection (3); and
+- (b) at the time of the instruction or training, he intends to use the skills in which he is being instructed or trained—
+  - (i) for or in connection with the commission or preparation of acts of terrorism or Convention offences; or
+  - (ii) for assisting the commission or preparation by others of such acts or offences.
+
+(3) The skills are—
+
+- (a) the making, handling or use of a noxious substance, or of substances of a description of such substances;
+- (b) the use of any method or technique for doing anything else that is capable of being done for the purposes of terrorism, in connection with the commission or preparation of an act of terrorism or Convention offence or in connection with assisting the commission or preparation by another of such an act or offence; and
+- (c) the design or adaptation for the purposes of terrorism, or in connection with the commission or preparation of an act of terrorism or Convention offence, of any method or technique for doing anything.
+
+(4) It is irrelevant for the purposes of subsections (1) and (2)—
+
+- (a) whether any instruction or training that is provided is provided to one or more particular persons or generally;
+- (b) whether the acts or offences in relation to which a person intends to use skills in which he is instructed or trained consist of one or more particular acts of terrorism or Convention offences, acts of terrorism or Convention offences of a particular description or acts of terrorism or Convention offences generally; and
+- (c) whether assistance that a person intends to provide to others is intended to be provided to one or more particular persons or to one or more persons whose identities are not yet known.
+
+(5) A person guilty of an offence under this section shall be liable—
+
+- (a) on conviction on indictment, to imprisonment for life[^key-beb8e7f0c15f257212ccfd448d3fdb13] or to a fine, or to both;
+- (b) on summary conviction in England and Wales, to imprisonment for a term not exceeding the general limit in a magistrates’ court[^key-865f28f857f3bfc1b1e5241c394badce] or to a fine not exceeding the statutory maximum, or to both;
+- (c) on summary conviction in Scotland or Northern Ireland, to imprisonment for a term not exceeding 6 months or to a fine not exceeding the statutory maximum, or to both.
+
+(6) In relation to an offence committed before 2 May 2022[^key-f3bf943e438c86f03340a525eb5d0ad4], the reference in subsection (5)(b) to the general limit in a magistrates’ court[^key-89b03deb264d3d74878a7f192b089d00] is to be read as a reference to 6 months.
+
+(7) In this section—
+
+- “**noxious substance**” means—
+  - (a) a dangerous substance within the meaning of Part 7 of the Anti-terrorism, Crime and Security Act 2001 (c. 24); or
+  - (b) any other substance which is hazardous or noxious or which may be or become hazardous or noxious only in certain circumstances;
+- “**substance**” includes any natural or artificial substance (whatever its origin or method of production and whether in solid or liquid form or in the form of a gas or vapour) and any mixture of substances.
+
+#### 7. Powers of forfeiture in respect of offences under s. 6[^key-5e98d8633e39d4501129fb2057fb8b2e]
+
+(1) A court before which a person is convicted of an offence under section 6 may order the forfeiture of anything the court considers to have been in the person's possession for purposes connected with the offence.
+
+(2) Before making an order under subsection (1) in relation to anything the court must give an opportunity of being heard to any person (in addition to the convicted person) who claims to be the owner of that thing or otherwise to have an interest in it.
+
+(3) An order under subsection (1) may not be made so as to come into force at any time before there is no further possibility (disregarding any power to grant permission for the bringing of an appeal out of time) of the order's being varied or set aside on appeal.
+
+(4) Where a court makes an order under subsection (1), it may also make such other provision as appears to it to be necessary for giving effect to the forfeiture.
+
+(5) That provision may include, in particular, provision relating to the retention, handling, destruction or other disposal of what is forfeited.
+
+(6) Provision made by virtue of this section may be varied at any time by the court that made it.
+
+(7)[^key-eeb674c031e99570c1a7eae06e937f43] The power of forfeiture under this section is in addition to any power of forfeiture under section 23A of the Terrorism Act 2000.
+
+#### 8. Attendance at a place used for terrorist training[^key-07f0e5df95e12dcdefc5a127caf3ab8d]
+
+(1) A person commits an offence if—
+
+- (a) he attends at any place, whether in the United Kingdom or elsewhere;
+- (b) while he is at that place, instruction or training of the type mentioned in section 6(1) of this Act or section 54(1) of the Terrorism Act 2000 (c. 11) (weapons training) is provided there;
+- (c) that instruction or training is provided there wholly or partly for purposes connected with the commission or preparation of acts of terrorism or Convention offences; and
+- (d) the requirements of subsection (2) are satisfied in relation to that person.
+
+(2) The requirements of this subsection are satisfied in relation to a person if—
+
+- (a) he knows or believes that instruction or training is being provided there wholly or partly for purposes connected with the commission or preparation of acts of terrorism or Convention offences; or
+- (b) a person attending at that place throughout the period of that person's attendance could not reasonably have failed to understand that instruction or training was being provided there wholly or partly for such purposes.
+
+(3) It is immaterial for the purposes of this section—
+
+- (a) whether the person concerned receives the instruction or training himself; and
+- (b) whether the instruction or training is provided for purposes connected with one or more particular acts of terrorism or Convention offences, acts of terrorism or Convention offences of a particular description or acts of terrorism or Convention offences generally.
+
+(4) A person guilty of an offence under this section shall be liable—
+
+- (a) on conviction on indictment, to imprisonment for a term not exceeding 14[^key-1dfee591699ce07d3647c683a0250368] years or to a fine, or to both;
+- (b) on summary conviction in England and Wales, to imprisonment for a term not exceeding the general limit in a magistrates’ court[^key-c9a22d284717ddc32516184fb46c5931] or to a fine not exceeding the statutory maximum, or to both;
+- (c) on summary conviction in Scotland or Northern Ireland, to imprisonment for a term not exceeding 6 months or to a fine not exceeding the statutory maximum, or to both.
+
+(5) In relation to an offence committed before 2 May 2022[^key-53965c98e7c65db2e8ad9c47988e5b72], the reference in subsection (4)(b) to the general limit in a magistrates’ court[^key-e37e85e763ba3f43ec7693fb6af178f7] is to be read as a reference to 6 months.
+
+(6) References in this section to instruction or training being provided include references to its being made available.
+
+### Offences involving radioactive devices and materials and nuclear facilities and sites
+
+#### 9. Making and possession of devices or materials[^key-46442aa7347512000c5d2cdab0de15aa]
+
+(1) A person commits an offence if—
+
+- (a) he makes or has in his possession a radioactive device, or
+- (b) he has in his possession radioactive material,
+
+with the intention of using the device or material in the course of or in connection with the commission or preparation of an act of terrorism or for the purposes of terrorism, or of making it available to be so used.
+
+(2) It is irrelevant for the purposes of subsection (1) whether the act of terrorism to which an intention relates is a particular act of terrorism, an act of terrorism of a particular description or an act of terrorism generally.
+
+(3) A person guilty of an offence under this section shall be liable, on conviction on indictment, to imprisonment for life.
+
+(4) In this section—
+
+- “**radioactive device**” means—
+  - (a) a nuclear weapon or other nuclear explosive device;
+  - (b) a radioactive material dispersal device;
+  - (c) a radiation-emitting device;
+- “**radioactive material**” means nuclear material or any other radioactive substance which—
+  - (a) contains nuclides that undergo spontaneous disintegration in a process accompanied by the emission of one or more types of ionising radiation, such as alpha radiation, beta radiation, neutron particles or gamma rays; and
+  - (b) is capable, owing to its radiological or fissile properties, of—
+    - (i) causing serious bodily injury to a person;
+    - (ii) causing serious damage to property;
+    - (iii) endangering a person's life; or
+    - (iv) creating a serious risk to the health or safety of the public.
+
+(5) In subsection (4)—
+
+- “**device**” includes any of the following, whether or not fixed to land, namely, machinery, equipment, appliances, tanks, containers, pipes and conduits;
+- “**nuclear material**” has the same meaning as in the Nuclear Material (Offences) Act 1983 (c. 18) (see section 6 of that Act).
+
+#### 10. Misuse of devices or material and misuse and damage of facilities[^key-5c66156a6c24a2ac25123f10925e04c8]
+
+(1) A person commits an offence if he uses—
+
+- (a) a radioactive device, or
+- (b) radioactive material,
+
+in the course of or in connection with the commission of an act of terrorism or for the purposes of terrorism.
+
+(2) A person commits an offence if, in the course of or in connection with the commission of an act of terrorism or for the purposes of terrorism, he uses or damages a nuclear facility in a manner which—
+
+- (a) causes a release of radioactive material; or
+- (b) creates or increases a risk that such material will be released.
+
+(3) A person guilty of an offence under this section shall be liable, on conviction on indictment, to imprisonment for life.
+
+(4) In this section—
+
+- “**nuclear facility**” means—
+  - (a) a nuclear reactor, including a reactor installed in or on any transportation device for use as an energy source in order to propel it or for any other purpose; or
+  - (b) a plant or conveyance being used for the production, storage, processing or transport of radioactive material;
+- “**radioactive device**” and “**radioactive material**” have the same meanings as in section 9.
+
+(5) In subsection (4)—
+
+- “**nuclear reactor**” has the same meaning as in the Nuclear Installations Act 1965 (c. 57) (see section 26 of that Act);
+- “**transportation device**” means any vehicle or any space object (within the meaning of the Outer Space Act 1986 (c. 38)).
+
+#### 11. Terrorist threats relating to devices, materials or facilities[^key-5c7f90bd8996796ab831d9b130a050de]
+
+(1) A person commits an offence if, in the course of or in connection with the commission of an act of terrorism or for the purposes of terrorism—
+
+- (a) he makes a demand—
+  - (i) for the supply to himself or to another of a radioactive device or of radioactive material;
+  - (ii) for a nuclear facility to be made available to himself or to another; or
+  - (iii) for access to such a facility to be given to himself or to another;
+- (b) he supports the demand with a threat that he or another will take action if the demand is not met; and
+- (c) the circumstances and manner of the threat are such that it is reasonable for the person to whom it is made to assume that there is real risk that the threat will be carried out if the demand is not met.
+
+(2) A person also commits an offence if—
+
+- (a) he makes a threat falling within subsection (3) in the course of or in connection with the commission of an act of terrorism or for the purposes of terrorism; and
+- (b) the circumstances and manner of the threat are such that it is reasonable for the person to whom it is made to assume that there is real risk that the threat will be carried out, or would be carried out if demands made in association with the threat are not met.
+
+(3) A threat falls within this subsection if it is—
+
+- (a) a threat to use radioactive material;
+- (b) a threat to use a radioactive device; or
+- (c) a threat to use or damage a nuclear facility in a manner that releases radioactive material or creates or increases a risk that such material will be released.
+
+(4) A person guilty of an offence under this section shall be liable, on conviction on indictment, to imprisonment for life.
+
+(5) In this section—
+
+- “**nuclear facility**” has the same meaning as in section 10;
+- “**radioactive device**” and “**radioactive material**” have the same meanings as in section 9.
+
+#### 11A. Forfeiture of devices, materials or facilities[^key-d41ffe85e72dc7590a2c23787df4c1f9]
+
+(1) A court by or before which a person is convicted of an offence under section 9 or 10 may order the forfeiture of any radioactive device or radioactive material, or any nuclear facility, made or used in committing the offence.
+
+(2) A court by or before which a person is convicted of an offence under section 11 may order the forfeiture of any radioactive device or radioactive material, or any nuclear facility, which is the subject of—
+
+- (a) a demand under subsection (1) of that section, or
+- (b) a threat falling within subsection (3) of that section.
+
+(3) Before making an order under this section, a court must give an opportunity to be heard to any person, other than the convicted person, who claims to be the owner or otherwise interested in anything which can be forfeited under this section.
+
+(4) An order under this section does not come into force until there is no further possibility of it being varied, or set aside, on appeal (disregarding any power of a court to grant leave to appeal out of time).
+
+(5) Where a court makes an order under this section, it may also make such other provision as appears to it to be necessary for giving effect to the forfeiture, including, in particular, provision relating to the retention, handling, disposal or destruction of what is forfeited.
+
+(6) Provision made by virtue of subsection (5) may be varied at any time by the court that made it.
+
+(7) The power of forfeiture under this section is in addition to any power of forfeiture under section 23A of the Terrorism Act 2000.
+
+#### 12. Trespassing etc. on nuclear sites[^key-9380df41cb6b9336e7730c2dcb046d2e]
+
+(1) The Serious Organised Crime and Police Act 2005 (c. 15) is amended as follows.
+
+(2) In sections 128(1), (4) and (7) and 129(1), (4) and (6) (trespassing etc. on a designated site in England and Wales or Northern Ireland or in Scotland), for “designated”, wherever occurring, substitute “ protected ”.
+
+(3) After section 128(1) (sites in England and Wales and Northern Ireland) insert—
+
+> (1A) In this section ‘protected site’ means—
+>
+> - (a) a nuclear site; or
+> - (b) a designated site.
+>
+> (1B) In this section ‘nuclear site’ means—
+>
+> - (a) so much of any premises in respect of which a nuclear site licence (within the meaning of the Nuclear Installations Act 1965) is for the time being in force as lies within the outer perimeter of the protection provided for those premises; and
+> - (b) so much of any other premises of which premises falling within paragraph (a) form a part as lies within that outer perimeter.
+>
+> (1C) For this purpose—
+>
+> - (a) the outer perimeter of the protection provided for any premises is the line of the outermost fences, walls or other obstacles provided or relied on for protecting those premises from intruders; and
+> - (b) that line shall be determined on the assumption that every gate, door or other barrier across a way through a fence, wall or other obstacle is closed.
+
+(4) After section 129(1) (sites in Scotland) insert—
+
+> (1A) In this section ‘protected Scottish site’ means—
+>
+> - (a) a nuclear site in Scotland; or
+> - (b) a designated Scottish site.
+>
+> (1B) In this section ‘nuclear site’ means—
+>
+> - (a) so much of any premises in respect of which a nuclear site licence (within the meaning of the Nuclear Installations Act 1965) is for the time being in force as lies within the outer perimeter of the protection provided for those premises; and
+> - (b) so much of any other premises of which premises falling within paragraph (a) form a part as lies within that outer perimeter.
+>
+> (1C) For this purpose—
+>
+> - (a) the outer perimeter of the protection provided for any premises is the line of the outermost fences, walls or other obstacles provided or relied on for protecting those premises from intruders; and
+> - (b) that line shall be determined on the assumption that every gate, door or other barrier across a way through a fence, wall or other obstacle is closed.
+
+### Increases of penalties
+
+#### 13. Maximum penalty for possessing for terrorist purposes[^key-ccd68606ce1c7adae2ca17c1757f3f81]
+
+(1) In section 57(4)(a) of the Terrorism Act 2000 (c. 11) (10 years maximum imprisonment for possession for terrorist purposes), for “10 years” substitute “ 15 years ”.
+
+(2) Subsection (1) does not apply to offences committed before the commencement of this section.
+
+#### 14. Maximum penalty for certain offences relating to nuclear material[^key-52b4687dc601d4f08b84387752795f9a]
+
+(1) In section 2 of the Nuclear Material (Offences) Act 1983 (c. 18) (offences involving preparatory acts and threats), for subsection (5) substitute—
+
+> (5) A person guilty of an offence under this section shall be liable, on conviction on indictment, to imprisonment for life.
+
+(2) Subsection (1) does not apply to offences committed before the commencement of this section.
+
+#### 15. Maximum penalty for contravening notice relating to encrypted information[^key-e146a34f661e3ca1816d8b55c3211dd1]
+
+(1) In section 53 of the Regulation of Investigatory Powers Act 2000 (c. 23) (offence of contravening disclosure requirement)—
+
+- (a) in paragraph (a) of subsection (5), for “two years” substitute “ the appropriate maximum term ”; and
+- (b) after that subsection insert the subsections set out in subsection (2).
+
+(2) The inserted subsections are—
+
+> (5A) In subsection (5) ‘the appropriate maximum term’ means—
+>
+> - (a) in a national security case, five years; and
+> - (b) in any other case, two years.
+>
+> (5B) In subsection (5A) ‘a national security case’ means a case in which the grounds specified in the notice to which the offence relates as the grounds for imposing a disclosure requirement were or included a belief that the imposition of the requirement was necessary in the interests of national security.
+
+(3) This section does not apply to offences committed before the commencement of this section.
+
+### Incidental provisions about offences
+
+#### 16. Preparatory hearings in terrorism cases[^key-eeb47aba335f826aef8747f6b4a43044]
+
+(1) Section 29 of the Criminal Procedure and Investigations Act 1996 (c. 25) (power to order preparatory hearing) is amended as follows.
+
+(2) Before subsection (2) insert—
+
+> (1B) An order that a preparatory hearing shall be held must be made by a judge of the Crown Court in every case which (whether or not it falls within subsection (1) or (1A)) is a case in which at least one of the offences charged by the indictment against at least one of the persons charged is a terrorism offence.
+>
+> (1C) An order that a preparatory hearing shall be held must also be made by a judge of the Crown court in every case which (whether or not it falls within subsection (1) or (1A)) is a case in which—
+>
+> - (a) at least one of the offences charged by the indictment against at least one of the persons charged is an offence carrying a maximum of at least 10 years' imprisonment; and
+> - (b) it appears to the judge that evidence on the indictment reveals that conduct in respect of which that offence is charged had a terrorist connection.
+
+(3) For subsection (3) (no order in serious and complex fraud cases) substitute—
+
+> (3) In a case in which it appears to a judge of the Crown Court that evidence on an indictment reveals a case of fraud of such seriousness or complexity as is mentioned in section 7 of the Criminal Justice Act 1987 (preparatory hearings in cases of serious or complex fraud)—
+>
+> - (a) the judge may make an order for a preparatory hearing under this section only if he is required to do so by subsection (1B) or (1C);
+> - (b) before making an order in pursuance of either of those subsections, he must determine whether to make an order for a preparatory hearing under that section; and
+> - (c) he is not required by either of those subsections to make an order for a preparatory hearing under this section if he determines that an order should be made for a preparatory hearing under that section;
+>
+> and, in a case in which an order is made for a preparatory hearing under that section, requirements imposed by those subsections apply only if that order ceases to have effect.
+
+(4) In subsection (4) (orders to be capable of being made on application or on the judge's own motion), for the words before paragraph (a) substitute—
+
+> (4) An order that a preparatory hearing shall be held may be made—
+
+(5) After sub-paragraph (5) insert—
+
+> (6) In this section ‘terrorism offence’ means—
+>
+> - (a) an offence under section 11 or 12 of the Terrorism Act 2000 (c. 11) (offences relating to proscribed organisations);
+> - (b) an offence under any of sections 15 to 18 of that Act (offences relating to terrorist property);
+> - (c) an offence under section 38B of that Act (failure to disclose information about acts of terrorism);
+> - (d) an offence under section 54 of that Act (weapons training);
+> - (e) an offence under any of sections 56 to 59 of that Act (directing terrorism, possessing things and collecting information for the purposes of terrorism and inciting terrorism outside the United Kingdom);
+> - (f) an offence in respect of which there is jurisdiction by virtue of section 62 of that Act (extra-territorial jurisdiction in respect of certain offences committed outside the United Kingdom for the purposes of terrorism etc.);
+> - (g) an offence under Part 1 of the Terrorism Act 2006 (miscellaneous terrorist related offences);
+> - (h) conspiring or attempting to commit a terrorism offence;
+> - (i) incitement to commit a terrorism offence.
+>
+> (7) For the purposes of this section an offence carries a maximum of at least 10 years' imprisonment if—
+>
+> - (a) it is punishable, on conviction on indictment, with imprisonment; and
+> - (b) the maximum term of imprisonment that may be imposed on conviction on indictment of that offence is 10 years or more or is imprisonment for life.
+>
+> (8) For the purposes of this section conduct has a terrorist connection if it is or takes place in the course of an act of terrorism or is for the purposes of terrorism.
+>
+> (9) In subsection (8) ‘terrorism’ has the same meaning as in the Terrorism Act 2000 (see section 1 of that Act).
+
+#### 17. Commission of offences abroad[^key-b188e2090fc690157036a7bba0ee1dca]
+
+(1) If—
+
+- (a) a person does anything outside the United Kingdom, and
+- (b) his action, if done in a part of the United Kingdom, would constitute an offence falling within subsection (2),
+
+he shall be guilty in that part of the United Kingdom of the offence.
+
+(2) The offences falling within this subsection are—
+
+- (a) an offence under section 1 or 2[^key-ec4957d8890b59d382ecd4cd7c2c8a50] [^key-0bc14aff566460013440a788499c1c10]... of this Act [^key-feedf4ac44617f53e26e711dd92846fa]...;
+- (b) an offence under section 5 or 6 or[^key-a1d08e61f2c56cc2d6d06bdfdc878e5d] any of sections 8 to 11 of this Act;
+- (c) an offence under section 11(1) of the Terrorism Act 2000 (c. 11) (membership of proscribed organisations);
+- (ca)[^key-47e370ca4787156af9b3de364c6c30ad] an offence under section 12(1) or (1A) of that Act (inviting or expressing support for proscribed organisation);
+- (cb) an offence under section 13 of that Act (uniform etc associated with proscribed organisation);
+- (d) an offence under section 54 of that Act (weapons training);
+- (da)[^key-26ebef86f2d7e1e95afdc9699e62c8fe] an offence under section 4 of the Explosive Substances Act 1883 (making or possessing explosives under suspicious circumstances) so far as committed for the purposes of an act of terrorism;
+- (e) conspiracy to commit an offence falling within this subsection;
+- (f)[^key-69e1bb88227a5d131f591062647d3423] inciting a person to commit such an offence;
+- (g) attempting to commit such an offence;
+- (h) aiding, abetting, counselling or procuring the commission of such an offence.
+
+(3) Subsection (1) applies irrespective of whether the person is a British citizen (subject to subsection (3A))[^key-ed0b93101ac2a6c323c35de6dd35ddb8] or, in the case of a company, a company incorporated in a part of the United Kingdom.
+
+(3A)[^key-dd23d91ceb43f7b742e4e0947eb9ef31] Subsection (1) applies in the case of an offence falling within subsection (2)(ca) or (cb) only if at the time of committing the offence the person is a United Kingdom national or a United Kingdom resident.
+
+(3B) In subsection (3A)—
+
+- “**United Kingdom national**” means an individual who is—
+  - (a) a British citizen, a British overseas territories citizen, a British National (Overseas) or a British Overseas citizen,
+  - (b) a person who under the British Nationality Act 1981 is a British subject, or
+  - (c) a British protected person within the meaning of that Act;
+- “**United Kingdom resident**” means an individual who is resident in the United Kingdom.
+
+(4) In the case of an offence falling within subsection (2) which is committed wholly or partly outside the United Kingdom—
+
+- (a) proceedings for the offence may be taken at any place in the United Kingdom; and
+- (b) the offence may for all incidental purposes be treated as having been committed at any such place.
+
+(5) In section 3(1)(a) and (b) of the Explosive Substances Act 1883 (c. 3) (offences committed in preparation for use of explosives with intent to endanger life or property in the United Kingdom or the Republic of Ireland), in each place, for “the Republic of Ireland” substitute “ elsewhere ”.
+
+(6) Subsection (5) does not extend to Scotland except in relation to—
+
+- (a) the doing of an act as an act of terrorism or for the purposes of terrorism; or
+- (b) the possession or control of a substance for the purposes of terrorism.
+
+#### 18. Liability of company directors etc.[^key-e973c9540654eb4cb4870adc1132ea41]
+
+(1) Where an offence under this Part is committed by a body corporate and is proved to have been committed with the consent or connivance of—
+
+- (a) a director, manager, secretary or other similar officer of the body corporate, or
+- (b) a person who was purporting to act in any such capacity,
+
+he (as well as the body corporate) is guilty of that offence and shall be liable to be proceeded against and punished accordingly.
+
+(2) Where an offence under this Part—
+
+- (a) is committed by a Scottish firm, and
+- (b) is proved to have been committed with the consent or connivance of a partner of the firm,
+
+he (as well as the firm) is guilty of that offence and shall be liable to be proceeded against and punished accordingly.
+
+(3) In this section “**director**”, in relation to a body corporate whose affairs are managed by its members, means a member of the body corporate.
+
+#### 19. Consents to prosecutions[^key-2832e129e0207f00a666dbfa565a5291]
+
+(1) Proceedings for an offence under this Part—
+
+- (a) may be instituted in England and Wales only with the consent of the Director of Public Prosecutions; and
+- (b) may be instituted in Northern Ireland only with the consent of the Director of Public Prosecutions for Northern Ireland.
+
+(2) But if it appears to the Director of Public Prosecutions or the Director of Public Prosecutions for Northern Ireland that an offence under this Part has been committed outside the United Kingdom or[^key-61c83766098bec32906cf9f6fbbc4658] for a purpose wholly or partly connected with the affairs of a country other than the United Kingdom, his consent for the purposes of this section may be given only with the permission—
+
+- (a) in the case of the Director of Public Prosecutions, of the Attorney General; and
+- (b) in the case of the Director of Public Prosecutions for Northern Ireland, of the Advocate General for Northern Ireland.
+
+(3) In relation to any time before the coming into force of section 27(1) of the Justice (Northern Ireland) Act 2002 (c. 26), the reference in subsection (2)(b) to the Advocate General for Northern Ireland is to be read as a reference to the Attorney General for Northern Ireland.
+
+### Interpretation of Part 1
+
+#### 20. Interpretation of Part 1[^key-5747d341cfb562c627ddef245ceed03e]
+
+(1) Expressions used in this Part and in the Terrorism Act 2000 (c. 11) have the same meanings in this Part as in that Act.
+
+(2) In this Part—
+
+- “**act of terrorism**” includes anything constituting an action taken for the purposes of terrorism, within the meaning of the Terrorism Act 2000 (see section 1(5) of that Act);
+- “**article**” includes anything for storing data;
+- “**Convention offence**” means an offence listed in Schedule 1 or an equivalent offence under the law of a country or territory outside the United Kingdom (and see subsection (2A))[^key-7d40175a7a78e41847cc4ee15ab85e89];
+- “**glorification**” includes any form of praise or celebration, and cognate expressions are to be construed accordingly;
+- “**public**” is to be construed in accordance with subsection (3);
+- “publish” and cognate expressions are to be construed in accordance with subsection (4);
+- “**record**” means a record so far as not comprised in an article, including a temporary record created electronically and existing solely in the course of, and for the purposes of, the transmission of the whole or a part of its contents;
+- “**statement**” is to be construed in accordance with subsection (6).
+
+(2A)[^key-5d6df5d74419db786b55341bf30a0f9b] Offences under any of the following paragraphs of Schedule 4 to the Space Industry Act 2018 are to be treated for the purposes of this Part as if they were Convention offences—
+
+- (a) paragraph 1 (hijacking of spacecraft);
+- (b) paragraph 2 (destroying, damaging or endangering safety of spacecraft);
+- (c) paragraph 3 (other acts endangering or likely to endanger safety of spacecraft);
+- (d) paragraph 4 (endangering safety at spaceports).
+
+(3) In this Part references to the public—
+
+- (a) are references to the public of any part of the United Kingdom or of a country or territory outside the United Kingdom, or any section of the public; and
+- (b) except in section 9(4), also include references to a meeting or other group of persons which is open to the public (whether unconditionally or on the making of a payment or the satisfaction of other conditions).
+
+(4) In this Part references to a person's publishing a statement are references to—
+
+- (a) his publishing it in any manner to the public;
+- (b) his providing electronically any service by means of which the public have access to the statement; or
+- (c) his using a service provided to him electronically by another so as to enable or to facilitate access by the public to the statement;
+
+but this subsection does not apply to the references to a publication in section 2.
+
+(5) In this Part references to providing a service include references to making a facility available; and references to a service provided to a person are to be construed accordingly.
+
+(6) In this Part references to a statement are references to a communication of any description, including a communication without words consisting of sounds or images or both.
+
+(7) In this Part references to conduct that should be emulated in existing circumstances include references to conduct that is illustrative of a type of conduct that should be so emulated.
+
+(8) In this Part references to what is contained in an article or record include references—
+
+- (a) to anything that is embodied or stored in or on it; and
+- (b) to anything that may be reproduced from it using apparatus designed or adapted for the purpose.
+
+(9) The Secretary of State may by order made by statutory instrument—
+
+- (a) modify Schedule 1 so as to add an offence to the offences listed in that Schedule;
+- (b) modify that Schedule so as to remove an offence from the offences so listed;
+- (c) make supplemental, incidental, consequential or transitional provision in connection with the addition or removal of an offence.
+
+(10) An order under subsection (9) may add an offence in or as regards Scotland to the offences listed in Schedule 1 to the extent only that a provision creating the offence would be outside the legislative competence of the Scottish Parliament.
+
+(11) The Secretary of State must not make an order containing (with or without other provision) any provision authorised by subsection (9) unless a draft of the order has been laid before Parliament and approved by a resolution of each House.
+
+## Part 2 — Miscellaneous provisions
+
+### Proscription of terrorist organisations
+
+#### 21. Grounds of proscription[^key-1b8f803a3f322e1e1b4902d3c2e23da6]
+
+In section 3 of the Terrorism Act 2000 (c. 11) (proscription of organisations), after subsection (5) insert—
+
+> (5A) The cases in which an organisation promotes or encourages terrorism for the purposes of subsection (5)(c) include any case in which activities of the organisation—
+>
+> - (a) include the unlawful glorification of the commission or preparation (whether in the past, in the future or generally) of acts of terrorism; or
+> - (b) are carried out in a manner that ensures that the organisation is associated with statements containing any such glorification.
+>
+> (5B) The glorification of any conduct is unlawful for the purposes of subsection (5A) if there are persons who may become aware of it who could reasonably be expected to infer that what is being glorified, is being glorified as—
+>
+> - (a) conduct that should be emulated in existing circumstances, or
+> - (b) conduct that is illustrative of a type of conduct that should be so emulated.
+>
+> (5C) In this section—
+>
+> - ‘glorification’ includes any form of praise or celebration, and cognate expressions are to be construed accordingly;
+> - ‘statement’ includes a communication without words consisting of sounds or images or both.
+
+#### 22. Name changes by proscribed organisations[^key-fad083f6a085897d492949f619378d2d]
+
+(1) The Terrorism Act 2000 is amended as follows.
+
+(2) In section 3 (proscription of organisations), at the end insert—
+
+> (6) Where the Secretary of State believes—
+>
+> - (a) that an organisation listed in Schedule 2 is operating wholly or partly under a name that is not specified in that Schedule (whether as well as or instead of under the specified name), or
+> - (b) that an organisation that is operating under a name that is not so specified is otherwise for all practical purposes the same as an organisation so listed,
+>
+> he may, by order, provide that the name that is not specified in that Schedule is to be treated as another name for the listed organisation.
+>
+> (7) Where an order under subsection (6) provides for a name to be treated as another name for an organisation, this Act shall have effect in relation to acts occurring while—
+>
+> - (a) the order is in force, and
+> - (b) the organisation continues to be listed in Schedule 2,
+>
+> as if the organisation were listed in that Schedule under the other name, as well as under the name specified in the Schedule.
+>
+> (8) The Secretary of State may at any time by order revoke an order under subsection (6) or otherwise provide for a name specified in such an order to cease to be treated as a name for a particular organisation.
+>
+> (9) Nothing in subsections (6) to (8) prevents any liability from being established in any proceedings by proof that an organisation is the same as an organisation listed in Schedule 2, even though it is or was operating under a name specified neither in Schedule 2 nor in an order under subsection (6).
+
+(3) For subsection (1) of section 4 (applications for deproscription) substitute—
+
+> (1) An application may be made to the Secretary of State for an order under section 3(3) or (8)—
+>
+> - (a) removing an organisation from Schedule 2, or
+> - (b) providing for a name to cease to be treated as a name for an organisation listed in that Schedule.
+
+(4) In subsection (2)(b) of that section (applications may be made by persons affected by the organisation's proscription), after “proscription” insert “ or by the treatment of the name as a name for the organisation. ”
+
+(5) In section 5 (appeals against refusals to deproscribe)—
+
+- (a) in subsection (3), after “an organisation” insert “ or to provide for a name to cease to be treated as a name for an organisation ”;
+- (b) in subsection (4), omit “by or in respect of an organisation”;
+- (c) in subsection (5), after “subsection (4)” insert “ in respect of an appeal against a refusal to deproscribe an organisation, ”.
+
+(6) After subsection (5) of that section insert—
+
+> (5A) Where an order is made under subsection (4) in respect of an appeal against a refusal to provide for a name to cease to be treated as a name for an organisation, the Secretary of State shall, as soon as is reasonably practicable, make an order under section 3(8) providing that the name in question is to cease to be so treated in relation to that organisation.
+
+(7) In section 7 (effect on conviction etc. of successful appeal), after subsection (1) insert—
+
+> (1A) This section also applies where—
+>
+> - (a) an appeal under section 5 has been allowed in respect of a name treated as the name for an organisation,
+> - (b) an order has been made under section 3(8) in respect of the name in accordance with an order of the Commission under section 5(4),
+> - (c) a person has been convicted of an offence in respect of the organisation under any of sections 11 to 13, 15 to 19 and 56, and
+> - (d) the activity to which the charge referred took place on or after the date of the refusal, against which the appeal under section 5 was brought, to provide for a name to cease to be treated as a name for the organisation.
+
+(8) In that section—
+
+- (a) in subsection (2), after “(1)(c)” insert “ or (1A)(c) ”;
+- (b) in subsection (4)(a), after “(1)(b)” insert “ or (1A)(b) ”;
+- (c) in subsection (5), after “(1)(c)” insert “ or (1A)(c) ”;
+- (d) in subsection (7)(a), after “(1)(b)” insert “ or (1A)(b) ”.
+
+(9) In section 9 (proceedings under the Human Rights Act 1998)—
+
+- (a) in subsection (2)(a), for “and (5)” substitute “ , (5) and (5A) ”;
+- (b) in subsection (4), at the end insert
+
+  > , and
+  >
+  > - (c) a reference to a refusal to provide for a name to cease to be treated as a name for an organisation shall be taken as a reference to the action of the Secretary of State which is found to be incompatible with a Convention right
+
+  .
+
+(10) In section 123(2) (orders and regulations subject to negative resolution procedure), before paragraph (a) insert—
+
+> - (za) section 3(6) or (8);
+
+.
+
+(11) In paragraph 5(4) of Schedule 3 (the Proscribed Organisations Appeal Commission), after sub-paragraph (a) insert—
+
+> - (aa) provide for full particulars of the reasons for—
+>   - (i) the making of an order under section 3(6), or
+>   - (ii) a refusal to provide for a name to cease to be treated as a name for an organisation,
+>
+>   to be withheld from the organisation or applicant concerned and from any person representing it or him;
+
+.
+
+### Detention of terrorist suspects
+
+#### 23. Extension of period of detention of terrorist suspects[^key-34fb08724202ec58efe62773403bf709]
+
+(1) Schedule 8 to the Terrorism Act 2000 (c. 11) (detention of terrorist suspects) is amended as follows.
+
+(2) In sub-paragraph (1) of each of paragraphs 29 and 36 (applications by a superintendent or above for a warrant extending detention or for the extension of the period of such a warrant), for the words from the beginning to “may” substitute—
+
+> (1) Each of the following—
+>
+> - (a) in England and Wales, a Crown Prosecutor,
+> - (b) in Scotland, the Lord Advocate or a procurator fiscal,
+> - (c) in Northern Ireland, the Director of Public Prosecutions for Northern Ireland,
+> - (d) in any part of the United Kingdom, a police officer of at least the rank of superintendent,
+>
+> may
+
+.
+
+(3) In sub-paragraph (3) of paragraph 29 (period of extension to end no later than 7 days after arrest)—
+
+- (a) for “Subject to paragraph 36(3A)” substitute “ Subject to sub-paragraph (3A) and paragraph 36 ”; and
+- (b) for “end not later than the end of” substitute “ be ”.
+
+(4) After that sub-paragraph insert—
+
+> (3A) A judicial authority may issue a warrant of further detention in relation to a person which specifies a shorter period as the period for which that person's further detention is authorised if—
+>
+> - (a) the application for the warrant is an application for a warrant specifying a shorter period; or
+> - (b) the judicial authority is satisfied that there are circumstances that would make it inappropriate for the specified period to be as long as the period of seven days mentioned in sub-paragraph (3).
+
+(5) In paragraph 34(1) (persons who can apply for information to be withheld from person to whom application for a warrant relates) for “officer” substitute “ person ”.
+
+(6) In paragraph 36(applications for extension or further extension), omit the words “to a judicial authority” in sub-paragraph (1), and after that sub-paragraph insert—
+
+> (1A) The person to whom an application under sub-paragraph (1) may be made is—
+>
+> - (a) in the case of an application falling within sub-paragraph (1B), a judicial authority; and
+> - (b) in any other case, a senior judge.
+>
+> (1B) An application for the extension or further extension of a period falls within this sub-paragraph if—
+>
+> - (a) the grant of the application otherwise than in accordance with sub-paragraph (3AA)(b) would extend that period to a time that is no more than fourteen days after the relevant time; and
+> - (b) no application has previously been made to a senior judge in respect of that period.
+
+(7) For sub-paragraphs (3) and (3A) of that paragraph (period for which warrants may be extended) substitute—
+
+> (3) Subject to sub-paragraph (3AA), the period by which the specified period is extended or further extended shall be the period which—
+>
+> - (a) begins with the time specified in sub-paragraph (3A); and
+> - (b) ends with whichever is the earlier of—
+>   - (i) the end of the period of seven days beginning with that time; and
+>   - (ii) the end of the period of 28 days beginning with the relevant time.
+>
+> (3A) The time referred to in sub-paragraph (3)(a) is—
+>
+> - (a) in the case of a warrant specifying a period which has not previously been extended under this paragraph, the end of the period specified in the warrant, and
+> - (b) in any other case, the end of the period for which the period specified in the warrant was last extended under this paragraph.
+>
+> (3AA) A judicial authority or senior judge may extend or further extend the period specified in a warrant by a shorter period than is required by sub-paragraph (3) if—
+>
+> - (a) the application for the extension is an application for an extension by a period that is shorter than is so required; or
+> - (b) the judicial authority or senior judge is satisfied that there are circumstances that would make it inappropriate for the period of the extension to be as long as the period so required.
+
+(8)[^key-8d16e2baf2e3c4ac9e1f7d91ccab66b9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(9)[^key-8d16e2baf2e3c4ac9e1f7d91ccab66b9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(10)[^key-8d16e2baf2e3c4ac9e1f7d91ccab66b9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(11) For paragraph 37 (release of detained person) substitute—
+
+> **37.**
+>
+> (1) This paragraph applies where—
+>
+> - (a) a person (‘the detained person’) is detained by virtue of a warrant issued under this Part of this Schedule; and
+> - (b) his detention is not authorised by virtue of section 41(5) or (6) or otherwise apart from the warrant.
+>
+> (2) If it at any time appears to the police officer or other person in charge of the detained person's case that any of the matters mentioned in paragraph 32(1)(a) and (b) on which the judicial authority or senior judge last authorised his further detention no longer apply, he must—
+>
+> - (a) if he has custody of the detained person, release him immediately; and
+> - (b) if he does not, immediately inform the person who does have custody of the detained person that those matters no longer apply in the detained person's case.
+>
+> (3) A person with custody of the detained person who is informed in accordance with this paragraph that those matters no longer apply in his case must release that person immediately.
+
+(12) This section does not apply in a case in which—
+
+- (a) the arrest of the person detained under section 41 of the Terrorism Act 2000 (c. 11) took place before the commencement of this section; or
+- (b) his examination under Schedule 7 to that Act began before the commencement of this section.
+
+#### 24. Grounds for extending detention[^key-f7d8b00ce09f5fcb44f87b5911756ca8]
+
+(1) In Schedule 8 to the Terrorism Act 2000, in paragraph 23(1) (grounds on which a review officer may authorise continued detention), after paragraph (b) insert—
+
+> - (ba) pending the result of an examination or analysis of any relevant evidence or of anything the examination or analysis of which is to be or is being carried out with a view to obtaining relevant evidence;
+
+.
+
+(2) In sub-paragraph (1) of paragraph 32 of that Schedule (grounds on which a judicial authority may authorise further detention), for the words from “to obtain” to “preserve relevant evidence” substitute “ as mentioned in sub-paragraph (1A) ”.
+
+(3) After that sub-paragraph insert—
+
+> (1A) The further detention of a person is necessary as mentioned in this sub-paragraph if it is necessary—
+>
+> - (a) to obtain relevant evidence whether by questioning him or otherwise;
+> - (b) to preserve relevant evidence; or
+> - (c) pending the result of an examination or analysis of any relevant evidence or of anything the examination or analysis of which is to be or is being carried out with a view to obtaining relevant evidence.
+
+(4) In paragraph 23(4) (meaning of “relevant evidence”), for “sub-paragraph (1)(a) and (b)” substitute “ this paragraph ”.
+
+(5) In paragraph 32(2) (meaning of “relevant evidence”), for “sub-paragraph (1)” substitute “ this paragraph ”.
+
+(6) This section does not apply in a case in which—
+
+- (a) the arrest of the person detained under section 41 of the Terrorism Act 2000 took place before the commencement of this section; or
+- (b) his examination under Schedule 7 to that Act began before the commencement of this section.
+
+#### 25. Expiry or renewal of extended maximum detention period[^key-242be8ec4fe2f1722f7b5f673acf2f0c][^key-b83513b804f70b86645fcfd32dce12d4][^key-1008c20b9ff496e6f683b941799786f7][^key-6ae44c7620ba90268ba7d303d8ae673c][^key-e2f9043c7807e113f23c9196dbaff65b][^key-8395de74d23ef510d0a250f56fa422af]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Searches etc.
+
+#### 26. All premises warrants: England and Wales and Northern Ireland[^key-1a850acaa5016619e53c88d88fbbbf17]
+
+(1) Part 1 of Schedule 5 to the Terrorism Act 2000 (searches etc. for the purposes of terrorist investigations in England and Wales and Northern Ireland) is amended as follows.
+
+(2) In paragraph 1 (search warrants authorising entry to specified premises), in sub-paragraph (2)(a), for “the premises specified in the warrant” substitute “ premises mentioned in sub-paragraph (2A) ”.
+
+(3) After sub-paragraph (2) of that paragraph insert—
+
+> (2A) The premises referred to in sub-paragraph (2)(a) are—
+>
+> - (a) one or more sets of premises specified in the application (in which case the application is for a ‘specific premises warrant’); or
+> - (b) any premises occupied or controlled by a person specified in the application, including such sets of premises as are so specified (in which case the application is for an ‘all premises warrant’).
+
+(4) In sub-paragraph (5) of that paragraph—
+
+- (a) in paragraph (b), for “premises specified in the application” substitute “ premises to which the application relates ”;
+- (b) in paragraph (c), at the end insert “ , and ”; and
+- (c) after that paragraph insert—
+
+  > - (d) in the case of an application for an all premises warrant, that it is not reasonably practicable to specify in the application all the premises which the person so specified occupies or controls and which might need to be searched.
+
+(5) In paragraph 2 (warrants as to which special conditions are satisfied), in sub-paragraph (1), after “an application” insert “ for a specific premises warrant ”.
+
+(6) After that paragraph insert—
+
+> **2A.**
+>
+> (1) This paragraph applies where an application for an all premises warrant is made under paragraph 1 and—
+>
+> - (a) the application is made by a police officer of at least the rank of superintendent, and
+> - (b) the justice to whom the application is made is not satisfied of the matter referred to in paragraph 1(5)(c).
+>
+> (2) The justice may grant the application if satisfied of the matters referred to in paragraph 1(5)(a), (b) and (d).
+>
+> (3) Where a warrant under paragraph 1 is issued by virtue of this paragraph, the powers under paragraph 1(2)(a) and (b) are exercisable only—
+>
+> - (a) in respect of premises which are not residential premises, and
+> - (b) within the period of 24 hours beginning with the time when the warrant is issued.
+>
+> (4) For the purpose of sub-paragraph (3) ‘residential premises’, in relation to a power under paragraph 1(2)(a) or (b), means any premises which the constable exercising the power has reasonable grounds for believing are used wholly or mainly as a dwelling.
+
+(7) In paragraph 11 (applications for search warrants involving excluded or special procedure material), in sub-paragraph (2)(a), for “the premises specified in the warrant” substitute “ premises mentioned in sub-paragraph (3A) ”.
+
+(8) After sub-paragraph (3) of that paragraph insert—
+
+> (3A) The premises referred to in sub-paragraph (2)(a) are—
+>
+> - (a) one or more sets of premises specified in the application (in which case the application is for a ‘specific premises warrant’); or
+> - (b) any premises occupied or controlled by a person specified in the application, including such sets of premises as are so specified (in which case the application is for an ‘all premises warrant’).
+
+(9) In paragraph 12 (grant of applications where excluded or special procedure material is involved), in each of sub-paragraphs (1) and (2), after “an application” insert “ for a specific premises warrant ”.
+
+(10) After sub-paragraph (2) of that paragraph insert—
+
+> (2A) A Circuit judge or a District Judge (Magistrates' Courts) may grant an application for an all premises warrant under paragraph 11 if satisfied—
+>
+> - (a) that an order made under paragraph 5 has not been complied with, and
+> - (b) that the person specified in the application is also specified in the order.
+>
+> (2B) A Circuit judge or a District Judge (Magistrates' Courts) may also grant an application for an all premises warrant under paragraph 11 if satisfied that there are reasonable grounds for believing—
+>
+> - (a) that there is material on premises to which the application relates which consists of or includes excluded material or special procedure material but does not include items subject to legal privilege, and
+> - (b) that the conditions in sub-paragraphs (3) and (4) are met.
+
+(11) In sub-paragraph (4)(b) of that paragraph, for “the premises on which the material is situated” substitute “ premises to which the application for the warrant relates ”.
+
+#### 27. All premises warrants: Scotland[^key-47b37450766c979836e892e526014be7]
+
+(1) Part 2 of Schedule 5 to the Terrorism Act 2000 (c. 11) (searches etc. for the purposes of terrorist investigations in Scotland) is amended as follows.
+
+(2) In paragraph 28 (search warrants authorising entry to specified premises in Scotland), in sub-paragraph (2)(a), for “the premises specified in the warrant” substitute “ premises mentioned in sub-paragraph (2A) ”.
+
+(3) After sub-paragraph (2) of that paragraph insert—
+
+> (2A) The premises referred to in sub-paragraph (2)(a) are—
+>
+> - (a) one or more sets of premises specified in the application (in which case the application is for a ‘specific premises warrant’); or
+> - (b) any premises occupied or controlled by a person specified in the application, including such sets of premises as are so specified (in which case the application is for an ‘all premises warrant’).
+
+(4) In sub-paragraph (4) of that paragraph—
+
+- (a) in paragraph (b), for “premises specified in the application” substitute “ premises to which the application relates ”;
+- (b) in paragraph (c), at the end insert “ , and ”; and
+- (c) after that paragraph insert—
+
+  > - (d) in the case of an application for an all premises warrant, that it is not reasonably practicable to specify in the application all the premises which the person so specified occupies or controls and which might need to be searched.
+
+(5) In sub-paragraph (5) of that paragraph, for “a warrant” substitute “ a specific premises warrant ”.
+
+(6) After sub-paragraph (6) of that paragraph insert—
+
+> (6A) Where an all premises warrant is granted, entry and search in pursuance of the warrant of any premises which are non-residential premises must be within the period of 24 hours beginning with the time when the warrant is granted.
+>
+> (6B) For the purpose of sub-paragraph (6A) “**non-residential premises**” means any premises other than those which the constable executing the warrant has reasonable grounds for believing are used wholly or mainly as a dwelling.
+
+(7) In paragraph 29 (conditions for grant of warrant under paragraph 28)—
+
+- (a) in sub-paragraph (1)(a), after “with” insert “ and, in the case of an application for an all premises warrant, the person specified in the order in pursuance of paragraph 22(3) is also specified in the application ”; and
+- (b) in sub-paragraph (2)(b), for “on which the material is situated” substitute “ to which the application for the warrant relates ”.
+
+(8) In paragraph 33(2) (power to open lockfast places)—
+
+- (a) for “premises specified in” substitute “ premises which he is entitled to enter in pursuance of ”; and
+- (b) for “a notice under paragraph 32” substitute “ an order under paragraph 31 ”.
+
+#### 28. Search, seizure and forfeiture of terrorist publications[^key-07a48bb6c76221a0c564a18dda4092e3]
+
+(1) If a justice of the peace is satisfied that there are reasonable grounds for suspecting that articles to which this section applies are likely to be found on any premises, he may issue a warrant authorising a constable—
+
+- (a) to enter and search the premises; and
+- (b) to seize anything found there which the constable has reason to believe is such an article.
+
+(2) This section applies to an article if—
+
+- (a) it is likely to be the subject of conduct falling within subsection (2)(a) to (e) of section 2; and
+- (b) it would fall for the purposes of that section to be treated, in the context of the conduct to which it is likely to be subject, as a terrorist publication.
+
+(3) A person exercising a power conferred by a warrant under this section may use such force as is reasonable in the circumstances for exercising that power.
+
+(4) An article seized under the authority of a warrant issued under this section—
+
+- (a) may be removed by a constable to such place as he thinks fit; and
+- (b) must be retained there in the custody of a constable until returned or otherwise disposed of in accordance with this Act.
+
+(5) An article to which this section applies which is seized under the authority of a warrant issued under this section on an information laid by or on behalf of the Director of Public Prosecutions or the Director of Public Prosecutions for Northern Ireland—
+
+- (a) shall be liable to forfeiture; and
+- (b) if forfeited, may be destroyed or otherwise disposed of by a constable in whatever manner he thinks fit.
+
+(6) In Schedule 1 to the Criminal Justice and Police Act 2001 (c. 16) (powers which relate to the seizure of property in bulk)—
+
+- (a) in Part 1, at the end insert—
+
+  > **73H.**
+  >
+  > The power of seizure conferred by section 28 of the Terrorism Act 2006.
+- (b) in Part 3, at the end insert—
+
+  > **113.**
+  >
+  > The power of seizure conferred by section 28 of the Terrorism Act 2006.
+
+(7) Nothing in—
+
+- (a) the Police (Property) Act 1897 (c. 30) (property seized in the investigation of an offence), or
+- (b) section 31 of the Police (Northern Ireland) Act 1998 (c. 32) (which makes similar provision in Northern Ireland),
+
+applies to an article seized under the authority of a warrant under this section.
+
+(8) Schedule 2 (which makes provision about the forfeiture of articles to which this section applies) has effect.
+
+(9) In this section—
+
+- “**article**” has the same meaning as in Part 1 of this Act;
+- “**forfeited**” means treated or condemned as forfeited under Schedule 2, and “**forfeiture**” is to be construed accordingly;
+- “**premises**” has the same meaning as in the Police and Criminal Evidence Act 1984 (c. 60) (see section 23 of that Act).
+
+(10) In the application of this section to Scotland—
+
+- (a) in subsection (1), for the words from the beginning to “satisfied” substitute “ If a sheriff, on the application of a procurator fiscal, is satisfied ”;
+- (b) in subsection (5) omit “on an information laid by or on behalf of the Director of Public Prosecutions or the Director of Public Prosecutions for Northern Ireland”;
+- (c) in subsection (9), for the definition of ‘ “premises” substitute—
+
+  > ‘premises’ has the same meaning as in the Terrorism Act 2000 (c. 11) (see section 121 of that Act).
+
+#### 29. Power to search vehicles under Schedule 7 to the Terrorism Act 2000[^key-fecb3801864af635683da4b20ebf6a33]
+
+In paragraph 8 of Schedule 7 to the Terrorism Act 2000 (c. 11) (search of a person at a port or in the border area to ascertain if he is involved in terrorism), after sub-paragraph (1)(d) insert—
+
+> - (e) search a vehicle which is on a ship or aircraft;
+> - (f) search a vehicle which the examining officer reasonably believes has been, or is about to be, on a ship or aircraft.
+
+#### 30. Extension to internal waters of authorisations to stop and search[^key-56fdc60dac1637fd440272c484c246fe][^key-fa0e4c9ec680a58308dcb66d290ec96c]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Other investigatory powers
+
+#### 31. Amendment of the Intelligence Services Act 1994[^key-9a66fa468f79d5bb6ed29fd62af2156e]
+
+(1) The Intelligence Services Act 1994 (c. 13) is amended as follows.
+
+(2) In subsection (1) of section 6 (persons under whose hand a warrant to act within the British Islands may be issued), after paragraph (c) insert
+
+> or
+>
+> - (d) in an urgent case where the Secretary of State has expressly authorised the issue of warrants in accordance with this paragraph by specified senior officials and a statement of that fact is endorsed on the warrant, under the hand of any of the specified officials.
+
+(3) After that subsection insert—
+
+> (1A) But a warrant issued in accordance with subsection (1)(d) may authorise the taking of an action only if the action is an action in relation to property which, immediately before the issue of the warrant, would, if done outside the British Islands, have been authorised by virtue of an authorisation under section 7 that was in force at that time.”
+>
+> (1B) A senior official who issues a warrant in accordance with subsection (1)(d) must inform the Secretary of State about the issue of the warrant as soon as practicable after issuing it.
+
+(4) In subsection (2)(b) of that section (duration of warrants issued by senior officials), for “second” substitute “ fifth ”.
+
+(5) In subsection (6)(b) of section 7 (duration of authorisations to act outside the British Islands that are issued by senior officials), for “second” substitute “ fifth ”.
+
+(6) After subsection (9) of that section insert—
+
+> (10) Where—
+>
+> - (a) a person is authorised by virtue of this section to do an act outside the British Islands in relation to property,
+> - (b) the act is one which, in relation to property within the British Islands, is capable of being authorised by a warrant under section 5,
+> - (c) a person authorised by virtue of this section to do that act outside the British Islands, does the act in relation to that property while it is within the British Islands, and
+> - (d) the act is done in circumstances falling within subsection (11) or (12),
+>
+> this section shall have effect as if the act were done outside the British Islands in relation to that property.
+>
+> (11) An act is done in circumstances falling within this subsection if it is done in relation to the property at a time when it is believed to be outside the British Islands.
+>
+> (12) An act is done in circumstances falling within this subsection if it —
+>
+> - (a) is done in relation to property which was mistakenly believed to be outside the British Islands either when the authorisation under this section was given or at a subsequent time or which has been brought within the British Islands since the giving of the authorisation; but
+> - (b) is done before the end of the fifth working day after the day on which the presence of the property in the British Islands first becomes known.
+>
+> (13) In subsection (12) the reference to the day on which the presence of the property in the British Islands first becomes known is a reference to the day on which it first appears to a member of the Intelligence Service or of GCHQ, after the relevant time—
+>
+> - (a) that the belief that the property was outside the British Islands was mistaken; or
+> - (b) that the property is within those Islands.
+>
+> (14) In subsection (13) ‘the relevant time’ means, as the case may be—
+>
+> - (a) the time of the mistaken belief mentioned in subsection (12)(a); or
+> - (b) the time at which the property was, or was most recently, brought within the British Islands.
+
+#### 32. Interception warrants[^key-ae7d6be1f6704ae73a75f98c002bd5f0][^key-167c2896452e67a788fd83f77a48f656]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 33. Disclosure notices for the purposes of terrorist investigations[^key-ab0a0223fd722137d92e3c6c6629622d]
+
+(1) In section 60 of the Serious Organised Crime and Police Act 2005 (c. 15) (investigatory powers of DPP etc.), in subsection (1), after “applies” insert “ or in connection with a terrorist investigation ”.
+
+(2) After subsection (6) of that section insert—
+
+> (7) In this Chapter ‘terrorist investigation’ means an investigation of—
+>
+> - (a) the commission, preparation or instigation of acts of terrorism,
+> - (b) any act or omission which appears to have been for the purposes of terrorism and which consists in or involves the commission, preparation or instigation of an offence, or
+> - (c) the commission, preparation or instigation of an offence under the Terrorism Act 2000 (c. 11) or under Part 1 of the Terrorism Act 2006 other than an offence under section 1 or 2 of that Act.
+
+(3) In section 62 of that Act (disclosure notices), insert—
+
+> (1A) If it appears to the Investigating Authority—
+>
+> - (a) that any person has information (whether or not contained in a document) which relates to a matter relevant to a terrorist investigation, and
+> - (b) that there are reasonable grounds for believing that information which may be provided by that person in compliance with a disclosure notice is likely to be of substantial value (whether or not by itself) to that investigation,
+>
+> he may give, or authorise an appropriate person to give, a disclosure notice to that person.
+
+(4) In section 70(1) of that Act (interpretation of Chapter 1)—
+
+- (a) before the definition of “appropriate person” insert—
+
+  > ‘act of terrorism’ includes anything constituting an action taken for the purposes of terrorism, within the meaning of the Terrorism Act 2000 (see section 1(5) of that Act);
+- (b) after the definition of “document” insert—
+
+  > ‘terrorism’ has the same meaning as in the Terrorism Act 2000 (see section 1(1) to (4) of that Act);
+  >
+  > ‘terrorist investigation’ has the meaning given by section 60(7).
+
+### Definition of terrorism etc.
+
+#### 34. Amendment of the definition of “terrorism” etc.[^key-0439ed94e9c38d5df39290e21e7b03fe]
+
+In each of—
+
+- (a) section 1(1)(b) of the Terrorism Act 2000 (c. 11) (under which actions and threats designed to influence a government may be terrorism), and
+- (b) section 113(1)(c) of the Anti-terrorism, Crime and Security Act 2001 (c. 24) (offence of using noxious substances or things to influence a government or to intimidate),
+
+after “government” insert “ or an international governmental organisation ”.
+
+### Other amendments
+
+#### 35. Applications for extended detention of seized cash[^key-f91e6e796401058e89be0e54db0e6c49]
+
+(1) In paragraph 3 of Schedule 1 to the Anti-terrorism, Crime and Security Act 2001 (application relating to period of detention of seized terrorist cash), after sub-paragraph (3) insert—
+
+> (3A) An application to a justice of the peace or the sheriff for an order under sub-paragraph (2) making the first extension of the period—
+>
+> - (a) may be made and heard without notice of the application or hearing having been given to any of the persons affected by the application or to the legal representative of such a person, and
+> - (b) may be heard and determined in private in the absence of persons so affected and of their legal representatives.
+
+(2) This section applies to applications made after the commencement of this section.
+
+## Part 3 — Supplemental provisions
+
+### 36. Review of terrorism legislation[^key-ce038af31fb00482287826713ba0cc88]
+
+(1) The Secretary of State must appoint a person to review the operation of the provisions of the Terrorism Act 2000 and of Part 1 of this Act.
+
+(2) That person may, from time to time, carry out—[^key-44b0334ee4eb4f4893970c0b116775de]
+
+- (a) a review of the provisions of the Terrorism Act 2000, and
+- (b) a review of the provisions of Part 1 of this Act,
+
+and, where he does so, must send a report on the outcome of his review to the Secretary of State as soon as reasonably practicable after completing the review.
+
+(2A)[^key-dda09c30151cde75280e94cc9d0f9a65] A review under subsection (2) may, in particular, consider whether—
+
+- (a) the requirements imposed by or under Part 1 or 2, or paragraph 37, of Schedule 8 to the Terrorism Act 2000 (detention of suspected terrorists), and
+- (b) the requirements imposed by any relevant code of practice under section 66 of the Police and Criminal Evidence Act 1984 or Article 65 of the Police and Criminal Evidence (Northern Ireland) Order 1989 ( S.I. 1989/1341 (N.I. 12)),
+
+have been complied with in relation to persons detained under section 41 of the Terrorism Act 2000 pursuant to a warrant of further detention issued under Part 3 of Schedule 8 to that Act.
+
+(3) The person appointed under subsection (1)[^key-b4f66f9023e4c5830845341db4260077] must carry out and report on his first review under subsection (2)[^key-90e4f40eb4f9d06ecb4ab58cdce4c5dc] before the end of the period of 12 months after the laying before Parliament of the last report to be so laid under section 126 of the Terrorism Act 2000 before the commencement of this section.
+
+(4) That person must carry out and report on a review under subsection (2)(a)[^key-ae272855a7fda0ac8ef27ec25cd2ef22] at least once in every twelve month period ending with an anniversary of the end of the twelve month period mentioned in subsection (3).
+
+(4A)[^key-64958f268900358d2d0c85296effe851] The person appointed under subsection (1) must ensure that a review is carried out (whether by that person or another person) into any case where the period specified in a warrant of further detention issued under Part 3 of Schedule 8 to the Terrorism Act 2000 (extension of detention of terrorist suspects) is further extended by virtue of paragraph 36 of that Schedule to a time that is more than 14 days after the relevant time (within the meaning of that paragraph).
+
+(4B) The person appointed under subsection (1) must ensure that a report on the outcome of the review is sent to the Secretary of State as soon as reasonably practicable after the completion of the review.
+
+(4C)[^key-679b51968a03e4eee3ea6db5e3d927dc] In each calendar year the person appointed under subsection (1) must, by 31 January, inform the Secretary of State what (if any) reviews under subsection (2)(b) the person intends to carry out in that year.
+
+Those reviews must be completed during that year or as soon as reasonably practicable after the end of it.
+
+(5) On receiving a report under this section, the Secretary of State must lay a copy of it before Parliament as soon as the Secretary of State is satisfied that doing so will not prejudice any criminal proceedings[^key-7b7b66ae17e68281519c51c5037eb3e1].
+
+(6) The Secretary of State may, out of money provided by Parliament, pay a person appointed under subsection (1)[^key-cfb6ed1cf43e53d5229a7380a095c631], both his expenses and also such allowances as the Secretary of State determines.
+
+(6A)[^key-310dd2a6b85f008c9bab484773532813] The expenses mentioned in subsection (6) include, in particular, any expenses incurred by the person appointed under subsection (1) in ensuring that another person carries out a review of the kind mentioned in subsection (4A) and reports on it.
+
+### 37. Consequential amendments and repeals
+
+(1)[^key-b2fe235815261f7fe521fff413a8458b] In section 32(e) of the Terrorism Act 2000 (c. 11) (meaning of “terrorist investigation”), after “offence under this Act” insert “ or under Part 1 of the Terrorism Act 2006 other than an offence under section 1 or 2 of that Act ”.
+
+(2)[^key-b2fe235815261f7fe521fff413a8458b] In section 117 of that Act (consents to prosecutions), for subsection (3) substitute—
+
+> (2A) But if it appears to the Director of Public Prosecutions or the Director of Public Prosecutions for Northern Ireland that an offence to which this section applies has been committed for a purpose wholly or partly connected with the affairs of a country other than the United Kingdom, his consent for the purposes of this section may be given only with the permission—
+>
+> - (a) in the case of the Director of Public Prosecutions, of the Attorney General; and
+> - (b) in the case of the Director of Public Prosecutions for Northern Ireland, of the Advocate General for Northern Ireland.
+>
+> (2B) In relation to any time before the coming into force of section 27(1) of the Justice (Northern Ireland) Act 2002, the reference in subsection (2A) to the Advocate General for Northern Ireland is to be read as a reference to the Attorney General for Northern Ireland.
+
+(3)[^key-b2fe235815261f7fe521fff413a8458b] After section 120 of that Act insert—
+
+> **120A. Supplemental powers of court in respect of forfeiture orders**
+>
+> (1) Where court makes an order under section 54, 58 or 103 for the forfeiture of anything, it may also make such other provision as appears to it to be necessary for giving effect to the forfeiture.
+>
+> (2) That provision may include, in particular, provision relating to the retention, handling, disposal or destruction of what is forfeited.
+>
+> (3) Provision made by virtue of this section may be varied at any time by the court that made it.
+
+(4)[^key-b2fe235815261f7fe521fff413a8458b] In Part 1 of Schedule 9 to that Act (scheduled offences), at the end insert—
+
+> **22C. Terrorism Act 2006**
+>
+> Offences under Part 1 of the Terrorism Act 2006 (terrorism-related offences).
+
+(5)[^key-06ed03dc7388aa3105b9e3f4cdfc0410][^key-de6dede86c024a1249e37f88c77f3100] The enactments listed in column 1 of Schedule 3 are repealed to the extent set out in column 2 of that Schedule.
+
+### 38. Expenses[^key-e803763875605e0e46a3228c349fe01c]
+
+There shall be paid out of money provided by Parliament any increase attributable to this Act in the sums payable out of such money under any other Act.
+
+### 39. Short title, commencement and extent
+
+(1) This Act may be cited as the Terrorism Act 2006.
+
+(2) This Act (apart from this section) shall come into force on such day as the Secretary of State may by order made by statutory instrument appoint.
+
+(3) An order made under subsection (2) may make different provision for different purposes.
+
+(4) Subject to section 17(6), an amendment or repeal by this Act of another enactment has the same extent as the enactment amended or repealed.
+
+(5) Subject to section 17(6) and to subsection (4) of this section, this Act extends to the whole of the United Kingdom.
+
+(6)[^key-b7676b9da0a03ce85eea88838830dea7][^key-44a8d80bd950b2ed255e57db619ecd79][^key-67e0eb3cdaa7e5594d9b734223fdbdc4][^key-7ad9959d0d0989018c25e642ed579997] Her Majesty may by Order in Council direct that any provisions of this Act shall extend, with such modifications as appear to Her Majesty to be appropriate, to any of the Channel Islands or the Isle of Man.
+
+(7) In subsection (6) “**modification**” includes omissions, additions and alterations.
+
+SCHEDULES
+
+## SCHEDULE 1 — Convention offences
+
+Section 20
+
+### Explosives offences
+
+**1.**[^key-261729dc727e1cc0ff0a609f1558e661] (1) Subject to sub-paragraph (3), an offence under any of sections 28 to 30 of the Offences against the Person Act 1861 (c. 100) (causing injury by explosions, causing explosions and handling or placing explosives).
+
+(2) Subject to sub-paragraph (3), an offence under any of the following provisions of the Explosive Substances Act 1883 (c. 3)—
+
+- (a) section 2 (causing an explosion likely to endanger life);
+- (b) section 3 (preparation of explosions);
+- (c) section 5 (ancillary offences).
+
+(3) An offence in or as regards Scotland is a Convention offence by virtue of this paragraph only if it consists in—37
+
+- (a) the doing of an act as an act of terrorism; or
+- (b) an action for the purposes of terrorism.
+
+### Biological weapons
+
+**2.**[^key-02714b84f753c8719e224e1f94b2ae34] An offence under section 1 of the Biological Weapons Act 1974 (c. 6) (development etc. of biological weapons).
+
+### Offences against internationally protected persons
+
+**3.**[^key-b1c3631dcf22201071b2222e1f6d67fb] (1) Subject to sub-paragraph (4), an offence mentioned in section 1(1)(a) of the Internationally Protected Persons Act 1978 (c. 17) (attacks against protected persons committed outside the United Kingdom) which is committed (whether in the United Kingdom or elsewhere) in relation to a protected person.
+
+(2) Subject to sub-paragraph (4), an offence mentioned in section 1(1)(b) of that Act (attacks on relevant premises etc.) which is committed (whether in the United Kingdom or elsewhere) in connection with an attack—
+
+- (a) on relevant premises or on a vehicle ordinarily used by a protected person, and
+- (b) at a time when a protected person is in or on the premises or vehicle.
+
+(3) Subject to sub-paragraph (4), an offence under section 1(3) of that Act (threats etc. in relation to protected persons).
+
+(4) An offence in or as regards Scotland is a Convention offence by virtue of this paragraph only if it consists in—
+
+- (a) the doing of an act as an act of terrorism; or
+- (b) an action for the purposes of terrorism.
+
+(5) Expressions used in this paragraph and section 1 of that Act have the same meanings in this paragraph as in that section.
+
+### Hostage-taking
+
+**4.**[^key-481bcdec4173092d69ef9302ef634605] An offence under section 1 of the Taking of Hostages Act 1982 (c. 28) (hostage-taking).
+
+### Hijacking and other offences against aircraft
+
+**5.**[^key-df606e5d54209e69cc6d89ee1bdf8c5e] Offences under any of the following provisions of the Aviation Security Act 1982 (c. 36)—
+
+- (a) section 1 (hijacking);
+- (b) section 2 (destroying, damaging or endangering safety of aircraft);
+- (c) section 3 (other acts endangering or likely to endanger safety of aircraft);
+- (d) section 6(2) (ancillary offences).
+
+### Offences involving nuclear material or nuclear facilities[^M_F_e75b20cb-09a5-49f7-a7f1-8f123d87064a]
+
+**6.**[^key-0082238ca73c852cf36444a5fc90cc8f] (1) An offence mentioned in section 1(1)(a) to (d)[^key-f061f5bf7e02d1e02c306fb1e2c5429a] of the Nuclear Material (Offences) Act 1983 (c. 18) (offences in relation to nuclear material committed outside the United Kingdom) which is committed (whether in the United Kingdom or elsewhere) in relation to or by means of nuclear material.
+
+(2)[^key-313c904957923a1cd9280ea01b43e59a] An offence mentioned in section 1(1)(a) or (b) of that Act where the act making the person guilty of the offence (whether done in the United Kingdom or elsewhere)—
+
+- (a) is directed at a nuclear facility or interferes with the operation of such a facility, and
+- (b) causes death, injury or damage resulting from the emission of ionising radiation or the release of radioactive material.
+
+(3) An offence under any of the following provisions of that Act—
+
+- (a) section 1B (offences relating to damage to environment);
+- (b) section 1C (offences of importing or exporting etc. nuclear material: extended jurisdiction);
+- (c) section 2 (offences involving preparatory acts and threats).
+
+(4) Expressions used in this paragraph and that Act have the same meanings in this paragraph as in that Act.
+
+**6A.**[^key-893308596e2f8010ac32ca4091b99145] (1) Any of the following offences under the Customs and Excise Management Act 1979—
+
+- (a) an offence under section 50(2) or (3) (improper importation of goods) in connection with a prohibition or restriction relating to the importation of nuclear material;
+- (b) an offence under section 68(2) (exportation of prohibited or restricted goods) in connection with a prohibition or restriction relating to the exportation or shipment as stores of nuclear material;
+- (c) an offence under section 170(1) or (2) (fraudulent evasion of duty etc. ) in connection with a prohibition or restriction relating to the importation, exportation or shipment as stores of nuclear material.
+
+(2) In this paragraph “ **nuclear material** ” has the same meaning as in the Nuclear Material (Offences) Act 1983 (see section 6 of that Act).
+
+### Offences under the Aviation and Maritime Security Act 1990 (c. 31)
+
+**7.**[^key-33ef13d938c44e545a6c794cfc9b1bc2] Offences under any of the following provisions of the Aviation and Maritime Security Act 1990—
+
+- (a) section 1 (endangering safety at aerodromes);
+- (b) section 9 (hijacking of ships);
+- (c) section 10 (seizing or exercising control of fixed platforms);
+- (d) section 11 (destroying ships or fixed platforms or endangering their safety);
+- (e) section 12 (other acts endangering or likely to endanger safe navigation);
+- (f) section 13 (offences involving threats relating to ships or fixed platforms);
+- (g) section 14 (ancillary offences).
+
+### Offences involving chemical weapons
+
+**8.**[^key-86fe7ef77d56c834ce27c6088f566b0e] An offence under section 2 of the Chemical Weapons Act 1996 (c. 6) (use, development etc. of chemical weapons).
+
+### Terrorist funds
+
+**9.**[^key-1407e9e623983764ee42d133a3f45277] An offence under any of the following provisions of the Terrorism Act 2000 (c. 11)—
+
+- (a) section 15 (terrorist fund-raising);
+- (b) section 16 (use or possession of terrorist funds);
+- (c) section 17 (funding arrangements for terrorism);
+- (d) section 18 (money laundering of terrorist funds).
+
+### Directing terrorist organisations
+
+**10.**[^key-7ae11b012e8984ea7375703fe12d614d] An offence under section 56 of the Terrorism Act 2000 (directing a terrorist organisation).
+
+### Offences involving nuclear weapons
+
+**11.**[^key-2eac515bf5e6ec41061bedbb4baf0b2c] An offence under section 47 of the Anti-terrorism, Crime and Security Act 2001 (c. 24) (use, development etc. of nuclear weapons).
+
+### Conspiracy etc.
+
+**12.**[^key-b602d962c1e78573730f2307fc9246b1] Any of the following offences—
+
+- (a) conspiracy to commit a Convention offence;
+- (b)[^key-b8e84b414e13c31a82ad10eccbc2d0d9] inciting the commission of a Convention offence;
+- (c) attempting to commit a Convention offence;
+- (d) aiding, abetting, counselling or procuring the commission of a Convention offence.
+
+## SCHEDULE 2 — Seizure and forfeiture of terrorist publications
+
+Section 28
+
+### Application of Schedule
+
+**1.**[^key-6a0c23c09bf74389dcafca2f4be5b067] This Schedule applies where an article—
+
+- (a) has been seized under the authority of a warrant under section 28; and
+- (b) is being retained in the custody of a constable (“the relevant constable”).
+
+### Notice of seizure
+
+**2.**[^key-5df3d1d670996f10707e8041263ef9c5] (1) The relevant constable must give notice of the article's seizure to—
+
+- (a) every person whom he believes to have been the owner of the article, or one of its owners, at the time of the seizure; and
+- (b) if there is no such person or it is not reasonably practicable to give him notice, every person whom the relevant constable believes to have been an occupier at that time of the premises where the article was seized.
+
+(2) The notice must set out what has been seized and the grounds for the seizure.
+
+(3) The notice may be given to a person only by—
+
+- (a) delivering it to him personally;
+- (b) addressing it to him and leaving it for him at the appropriate address; or
+- (c) addressing it to him and sending it to him at that address by post.
+
+(4) But where it is not practicable to give a notice in accordance with sub-paragraph (3), a notice given by virtue of sub-paragraph (1)(b) to the occupier of the premises where the article was seized may be given by—
+
+- (a) addressing it to “the occupier” of those premises, without naming him; and
+- (b) leaving it for him at those premises or sending it to him at those premises by post.
+
+(5) An article may be treated or condemned as forfeited under this Schedule only if—
+
+- (a) the requirements of this paragraph have been complied with in the case of that article; or
+- (b) it was not reasonably practicable for them to be complied with.
+
+(6) In this paragraph “**the appropriate address**”, in relation to a person, means—
+
+- (a) in the case of a body corporate, its registered or principal office in the United Kingdom;
+- (b) in the case of a firm, the principal office of the partnership;
+- (c) in the case of an unincorporated body or association, the principal office of the body or association; and
+- (d) in any other case, his usual or last known place of residence in the United Kingdom or his last known place of business in the United Kingdom.
+
+(7) In the case of—
+
+- (a) a company registered outside the United Kingdom,
+- (b) a firm carrying on business outside the United Kingdom, or
+- (c) an unincorporated body or association with offices outside the United Kingdom,
+
+the references in this paragraph to its principal office include references to its principal office within the United Kingdom (if any).
+
+### Notice of claim
+
+**3.**[^key-be6df564a973ed446e125e447b49c9a4] (1) A person claiming that the seized article is not liable to forfeiture may give notice of his claim to a constable at any police station in the police area in which the premises where the seizure took place are located.
+
+(2) Oral notice is not sufficient for these purposes.
+
+**4.**[^key-a1745bd955e19fdc80a86fd96b218b4a] (1) A notice of claim may not be given more than one month after—
+
+- (a) the day of the giving of the notice of seizure; or
+- (b) if no such notice has been given, the day of the seizure.
+
+(2) A notice of claim must specify—
+
+- (a) the name and address of the claimant; and
+- (b) in the case of a claimant who is outside the United Kingdom, the name and address of a solicitor in the United Kingdom who is authorised to accept service, and to act, on behalf of the claimant.
+
+(3) Service upon a solicitor so specified is to be taken to be service on the claimant for the purposes of any proceedings by virtue of this Schedule.
+
+(4) In a case in which notice of the seizure was given to different persons on different days, the reference in this paragraph to the day on which that notice was given is a reference—
+
+- (a) in relation to a person to whom notice of the seizure was given, to the day on which that notice was given to that person; and
+- (b) in relation to any other person, to the day on which notice of the seizure was given to the last person to be given such a notice.
+
+### Automatic forfeiture in a case where no claim is made
+
+**5.**[^key-f0977c6502d3fbc0b64d78a878129234] The article is to be treated as forfeited if, by the end of the period for the giving of a notice of claim in respect of it—
+
+- (a) no such notice has been given; or
+- (b) the requirements of paragraphs 3 and 4 have not been complied with in relation to the only notice or notices of claim that have been given.
+
+### Forfeiture by the court in other cases
+
+**6.**[^key-b45a23c21a3fbbedb2a928c9471251aa] (1) Where a notice of claim in respect of an article is duly given in accordance with paragraphs 3 and 4, the relevant constable must decide whether to take proceedings to ask the court to condemn the article as forfeited.
+
+(2) The decision whether to take such proceedings must be made as soon as reasonably practicable after the giving of the notice of claim.
+
+(3) If the relevant constable takes such proceedings and the court—
+
+- (a) finds that the article was liable to forfeiture at the time of its seizure, and
+- (b) is not satisfied that its forfeiture would be inappropriate,
+
+the court must condemn the article as forfeited.
+
+(4) If that constable takes such proceedings and the court—
+
+- (a) finds that the article was not liable to forfeiture at the time of its seizure, or
+- (b) is satisfied that its forfeiture would be inappropriate,
+
+the court must order the return of the article to the person who appears to the court to be entitled to it.
+
+(5) If the relevant constable decides not to take proceedings for condemnation in a case in which a notice of claim has been given, he must return the article to the person who appears to him to be the owner of the article, or to one of the persons who appear to him to be owners of it.
+
+(6) An article required to be returned in accordance with sub-paragraph (5) must be returned as soon as reasonably practicable after the decision not to take proceedings for condemnation.
+
+### Forfeiture proceedings
+
+**7.**[^key-4429e8dd5b599761660fae1d251e1bfd] Proceedings by virtue of this Schedule are civil proceedings and may be instituted—
+
+- (a) in England or Wales, either in the High Court or in a magistrates' court;
+- (b) in Scotland, either in the Court of Session or in the sheriff court; and
+- (c) in Northern Ireland, either in the High Court or in a court of summary jurisdiction.
+
+**8.**[^key-68cac258fe3eedbabe2bda10b103d532] Proceedings by virtue of this Schedule in—
+
+- (a) a magistrates' court in England or Wales,
+- (b) the sheriff court in Scotland, or
+- (c) a court of summary jurisdiction in Northern Ireland,
+
+may be instituted in that court only if it has jurisdiction in relation to the place where the article to which they relate was seized.
+
+**9.**[^key-71758da24e8bd59e96e153f6624773ec] (1) In proceedings by virtue of this Schedule that are instituted in England and Wales or Northern Ireland, the claimant or his solicitor must make his oath that, at the time of the seizure, the seized article was, or was to the best of his knowledge and belief, the property of the claimant.
+
+(2) In any such proceedings instituted in the High Court—
+
+- (a) the court may require the claimant to give such security for the costs of the proceedings as may be determined by the court; and
+- (b) the claimant must comply with any such requirement.
+
+(3) If a requirement of this paragraph is not complied with, the court must find against the claimant.
+
+**10.**[^key-e0d036d97df7140b70dc622da89a0c11] (1) In the case of proceedings by virtue of this Schedule that are instituted in a magistrates' court in England or Wales, either party may appeal against the decision of that court to the Crown Court.
+
+(2) In the case of such proceedings that are instituted in a court of summary jurisdiction in Northern Ireland, either party may appeal against the decision of that court to the county court.
+
+(3) This paragraph does not affect any right to require the statement of a case for the opinion of the High Court.
+
+**11.**[^key-9ab88eef73dccd9382599b9a4fa9bfe5] Where an appeal has been made (whether by case stated or otherwise) against the decision of the court in proceedings by virtue of this Schedule in relation to an article, the article is to be left in the custody of a constable pending the final determination of the matter.
+
+### Effect of forfeiture
+
+**12.**[^key-502d219299df6501970abd7f781b2b4e] Where an article is treated or condemned as forfeited under this Schedule, the forfeiture is to be treated as having taken effect as from the time of the seizure.
+
+### Disposal of unclaimed property
+
+**13.**[^key-8d2cfc557a653383a0868deea236aacd] (1) This paragraph applies where the article seized under the authority of a warrant under section 28 is required to be returned to a person.
+
+(2) If—
+
+- (a) the article is (without having been returned) still in the custody of a constable after the end of the period of 12 months beginning with the day after the requirement to return it arose, and
+- (b) it is not practicable to dispose of the article by returning it immediately to the person to whom it is required to be returned,
+
+the constable may dispose of it in any manner he thinks fit.
+
+### Provisions as to proof
+
+**14.**[^key-ad33ee3b4cd0a5e00424d1e0873dacd5] In proceedings arising out of the seizure of an article, the fact, form and manner of the seizure is to be taken, without further evidence and unless the contrary is shown, to have been as set forth in the process.
+
+**15.**[^key-7d4af931d1fbe7d9a6392f7ae4a90011] In proceedings, the condemnation by a court of an article as forfeited under this Schedule may be proved by the production of either—
+
+- (a) the order of condemnation; or
+- (b) a certified copy of the order purporting to be signed by an officer of the court by which the order was made.
+
+### Special provisions as to certain claimants
+
+**16.**[^key-540605c2756bc22139864dc87d4d3639] (1) This paragraph applies where, at the time of the seizure of the article, it was—
+
+- (a) the property of a body corporate;
+- (b) the property of two or more partners; or
+- (c) the property of more than five persons.
+
+(2) The oath required by paragraph 9, and any other thing required by this Schedule or by rules of court to be done by an owner of the article, may be sworn or done by—
+
+- (a) a person falling within sub-paragraph (3); or
+- (b) a person authorised to act on behalf of a person so falling.
+
+(3) The persons falling within this sub-paragraph are—
+
+- (a) where the owner is a body corporate, the secretary or some duly authorised officer of that body;
+- (b) where the owners are in partnership, any one or more of the owners;
+- (c) where there are more than five owners and they are not in partnership, any two or more of the owners acting on behalf of themselves and any of their co-owners who are not acting on their own behalf.
+
+### Saving for owner's rights
+
+**17.**[^key-0f3f6ca9271662b9d53c61d619b205b7] Neither the imposition of a requirement by virtue of this Schedule to return an article to a person nor the return of an article to a person in accordance with such a requirement affects—
+
+- (a) the rights in relation to that article of any other person; or
+- (b) the right of any other person to enforce his rights against the person to whom it is returned.
+
+### Interpretation of Schedule
+
+**18.**[^key-7c6bf8cced70cf034b3857dd56f641de] In this Schedule—
+
+- “**article**” has the same meaning as in Part 1 of this Act;
+- “**the court**” is to be construed in accordance with paragraph 7.
+
+## SCHEDULE 3 — Repeals[^key-75bb2f1825d87530263cd2162d476889][^key-a83f04432700e6af760a4b7a3debe9bf]
+
+Section 37
+
+| *Short title and chapter* | *Extent of repeal* |
+| --- | --- |
+| Terrorism Act 2000 (c. 11) | In section 5(4), the words “by or in respect of an organisation”.<br>In section 9(4), the word “and” at the end of paragraph (b).<br>In section 63A(1)(b), the words “section 54 or”.<br>Section 126.<br>In Schedule 5, in each of paragraphs 1(5) and 28(4), the “and” at the end of paragraph (b).<br>In Schedule 8, in paragraph 36(1), the words “to a judicial authority”. |
+| Justice (Northern Ireland) Act 2002 (c. 26) | In Schedule 7, paragraph 35. |
+| Criminal Justice Act 2003 (c. 44) | Section 45(8).<br>Section 306(2) and (3). |
+
+## Annotations
+
+[^key-a3d167e50e3cba9b86e3884b10b4ce90]: Commencement: S. 1 in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/a)
+
+[^key-facf4aada4649bd456ed33ae4a2a34b7]: Textual amendment: Words in s. 1(1) substituted (12.4.2019) by [Counter-Terrorism and Border Security Act 2019 (c. 3)](https://www.legislation.gov.uk/ukpga/2019/3), [ss. 5(3)(a)](https://www.legislation.gov.uk/ukpga/2019/3/section/5/3/a), [27(3)](https://www.legislation.gov.uk/ukpga/2019/3/section/27/3) (with [s. 25(1)](https://www.legislation.gov.uk/ukpga/2019/3/section/25/1))
+
+[^key-c70d424f8fb5de5a27f9d63be830c2c7]: Textual amendment: Words in s. 1(1) substituted (12.4.2019) by [Counter-Terrorism and Border Security Act 2019 (c. 3)](https://www.legislation.gov.uk/ukpga/2019/3), [ss. 5(3)(b)](https://www.legislation.gov.uk/ukpga/2019/3/section/5/3/b), [27(3)](https://www.legislation.gov.uk/ukpga/2019/3/section/27/3) (with [s. 25(1)](https://www.legislation.gov.uk/ukpga/2019/3/section/25/1))
+
+[^key-ba18944cac39b10b6e5e318ad6b3a924]: Textual amendment: Words in s. 1(3) substituted (12.4.2019) by [Counter-Terrorism and Border Security Act 2019 (c. 3)](https://www.legislation.gov.uk/ukpga/2019/3), [ss. 5(4)(a)](https://www.legislation.gov.uk/ukpga/2019/3/section/5/4/a), [27(3)](https://www.legislation.gov.uk/ukpga/2019/3/section/27/3) (with [s. 25(1)](https://www.legislation.gov.uk/ukpga/2019/3/section/25/1))
+
+[^key-d599a9ea796231df42e6bec52252b0be]: Textual amendment: Word in s. 1(3)(b) omitted (12.4.2019) by virtue of [Counter-Terrorism and Border Security Act 2019 (c. 3)](https://www.legislation.gov.uk/ukpga/2019/3), [ss. 5(4)(b)](https://www.legislation.gov.uk/ukpga/2019/3/section/5/4/b), [27(3)](https://www.legislation.gov.uk/ukpga/2019/3/section/27/3) (with [s. 25(1)](https://www.legislation.gov.uk/ukpga/2019/3/section/25/1))
+
+[^key-bea31558f221b7b04b826c1823dd7da3]: Textual amendment: Words in s. 1(7)(a) substituted (12.4.2019) by [Counter-Terrorism and Border Security Act 2019 (c. 3)](https://www.legislation.gov.uk/ukpga/2019/3), [ss. 7(6)](https://www.legislation.gov.uk/ukpga/2019/3/section/7/6), [27(3)](https://www.legislation.gov.uk/ukpga/2019/3/section/27/3) (with [s. 25(2)](https://www.legislation.gov.uk/ukpga/2019/3/section/25/2))
+
+[^key-b592cdafa7f45e9de2539bd52d57749b]: Textual amendment: Words in [s. 1(7)(b)](https://www.legislation.gov.uk/ukpga/2006/11/section/1/7/b) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1)
+
+[^key-9c1564860c3fc8ce407660f1bbd48051]: Textual amendment: Words in [s. 1(8)](https://www.legislation.gov.uk/ukpga/2006/11/section/1/8) substituted (28.4.2022) by [The Criminal Justice Act 2003 (Commencement No. 33) and Sentencing Act 2020 (Commencement No. 2) Regulations 2022 (S.I. 2022/500)](https://www.legislation.gov.uk/uksi/2022/500), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/500/regulation/1/2), [5(1)](https://www.legislation.gov.uk/uksi/2022/500/regulation/5/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2022/500/schedule/part/1)
+
+[^key-509a16880cb40f3e636dd8a203b8cf30]: Textual amendment: Words in [s. 1(8)](https://www.legislation.gov.uk/ukpga/2006/11/section/1/8) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1)
+
+[^key-4b68e34a02676307b275835b0023bf42]: Commencement: S. 2 in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/a)
+
+[^key-bccb78fe54e724d2abfe75a3ef694a91]: Textual amendment: Words in s. 2(3)(a) substituted (12.4.2019) by [Counter-Terrorism and Border Security Act 2019 (c. 3)](https://www.legislation.gov.uk/ukpga/2019/3), [ss. 5(6)](https://www.legislation.gov.uk/ukpga/2019/3/section/5/6), [27(3)](https://www.legislation.gov.uk/ukpga/2019/3/section/27/3) (with [s. 25(1)](https://www.legislation.gov.uk/ukpga/2019/3/section/25/1))
+
+[^key-9d85b745d4fbae2bfe40de60b6220f97]: Textual amendment: Word in s. 2(4) inserted (12.4.2019) by [Counter-Terrorism and Border Security Act 2019 (c. 3)](https://www.legislation.gov.uk/ukpga/2019/3), [ss. 5(7)(a)](https://www.legislation.gov.uk/ukpga/2019/3/section/5/7/a), [27(3)](https://www.legislation.gov.uk/ukpga/2019/3/section/27/3) (with [s. 25(1)](https://www.legislation.gov.uk/ukpga/2019/3/section/25/1))
+
+[^key-260aaea4d1ec452735a30a12b934ff37]: Textual amendment: Words in s. 2(4)(b) substituted (12.4.2019) by [Counter-Terrorism and Border Security Act 2019 (c. 3)](https://www.legislation.gov.uk/ukpga/2019/3), [ss. 5(7)(b)](https://www.legislation.gov.uk/ukpga/2019/3/section/5/7/b), [27(3)](https://www.legislation.gov.uk/ukpga/2019/3/section/27/3) (with [s. 25(1)](https://www.legislation.gov.uk/ukpga/2019/3/section/25/1))
+
+[^key-880443b490dcf95257fdaa9f3a17a120]: Textual amendment: Words in s. 2(11)(a) substituted (12.4.2019) by [Counter-Terrorism and Border Security Act 2019 (c. 3)](https://www.legislation.gov.uk/ukpga/2019/3), [ss. 7(7)](https://www.legislation.gov.uk/ukpga/2019/3/section/7/7), [27(3)](https://www.legislation.gov.uk/ukpga/2019/3/section/27/3) (with [s. 25(2)](https://www.legislation.gov.uk/ukpga/2019/3/section/25/2))
+
+[^key-5bfbadf7fbed605ddfeb84c67c8eddee]: Textual amendment: Words in [s. 2(11)(b)](https://www.legislation.gov.uk/ukpga/2006/11/section/2/11/b) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1)
+
+[^key-417fd9a630d7e03e84be1dbc9fb53226]: Textual amendment: Words in [s. 2(12)](https://www.legislation.gov.uk/ukpga/2006/11/section/2/12) substituted (28.4.2022) by [The Criminal Justice Act 2003 (Commencement No. 33) and Sentencing Act 2020 (Commencement No. 2) Regulations 2022 (S.I. 2022/500)](https://www.legislation.gov.uk/uksi/2022/500), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/500/regulation/1/2), [5(1)](https://www.legislation.gov.uk/uksi/2022/500/regulation/5/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2022/500/schedule/part/1)
+
+[^key-955324e44d5af85364efc353d5d148fa]: Textual amendment: Words in [s. 2(12)](https://www.legislation.gov.uk/ukpga/2006/11/section/2/12) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1)
+
+[^key-aceda5b0eb49eae3ace511b1bdbcab53]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2006/11/section/3) in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/a)
+
+[^key-36b99decf2bb2540d180ee5636790792]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2006/11/section/4) in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/a)
+
+[^key-fa95b8d07bfd00c69dd1b18e2824cb19]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2006/11/section/5) in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/a)
+
+[^key-944e826de473a2495d269e4cbe7bd23f]: Commencement: S. 6 in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/a)
+
+[^key-beb8e7f0c15f257212ccfd448d3fdb13]: Textual amendment: Words in s. 6(5)(a) substituted (13.4.2015) by [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [ss. 1(3)](https://www.legislation.gov.uk/ukpga/2015/2/section/1/3), [95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2015/2/section/1/4)); [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/1)
+
+[^key-865f28f857f3bfc1b1e5241c394badce]: Textual amendment: Words in [s. 6(5)(b)](https://www.legislation.gov.uk/ukpga/2006/11/section/6/5/b) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1)
+
+[^key-f3bf943e438c86f03340a525eb5d0ad4]: Textual amendment: Words in [s. 6(6)](https://www.legislation.gov.uk/ukpga/2006/11/section/6/6) substituted (28.4.2022) by [The Criminal Justice Act 2003 (Commencement No. 33) and Sentencing Act 2020 (Commencement No. 2) Regulations 2022 (S.I. 2022/500)](https://www.legislation.gov.uk/uksi/2022/500), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/500/regulation/1/2), [5(1)](https://www.legislation.gov.uk/uksi/2022/500/regulation/5/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2022/500/schedule/part/1)
+
+[^key-89b03deb264d3d74878a7f192b089d00]: Textual amendment: Words in [s. 6(6)](https://www.legislation.gov.uk/ukpga/2006/11/section/6/6) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1)
+
+[^key-5e98d8633e39d4501129fb2057fb8b2e]: Commencement: S. 7 in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/a)
+
+[^key-eeb674c031e99570c1a7eae06e937f43]: Textual amendment: [S. 7(7)](https://www.legislation.gov.uk/ukpga/2006/11/section/7/7) inserted (18.6.2009) by [Counter-Terrorism Act 2008 (c. 28)](https://www.legislation.gov.uk/ukpga/2008/28), [ss. 38(2)](https://www.legislation.gov.uk/ukpga/2008/28/section/38/2), [100(5)](https://www.legislation.gov.uk/ukpga/2008/28/section/100/5) (with [s. 101(2)](https://www.legislation.gov.uk/ukpga/2008/28/section/101/2)); [S.I. 2009/1256](https://www.legislation.gov.uk/uksi/2009/1256), [art. 2(c)](https://www.legislation.gov.uk/uksi/2009/1256/article/2/c)
+
+[^key-07f0e5df95e12dcdefc5a127caf3ab8d]: Commencement: S. 8 in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/a)
+
+[^key-1dfee591699ce07d3647c683a0250368]: Textual amendment: Word in [s. 8(4)(a)](https://www.legislation.gov.uk/ukpga/2006/11/section/8/4/a) substituted (29.6.2021) by [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [ss. 26(2)](https://www.legislation.gov.uk/ukpga/2021/11/section/26/2), [50(2)(m)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/2/m) (with [s. 26(3)](https://www.legislation.gov.uk/ukpga/2021/11/section/26/3))
+
+[^key-c9a22d284717ddc32516184fb46c5931]: Textual amendment: Words in [s. 8(4)(b)](https://www.legislation.gov.uk/ukpga/2006/11/section/8/4/b) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1)
+
+[^key-53965c98e7c65db2e8ad9c47988e5b72]: Textual amendment: Words in [s. 8(5)](https://www.legislation.gov.uk/ukpga/2006/11/section/8/5) substituted (28.4.2022) by [The Criminal Justice Act 2003 (Commencement No. 33) and Sentencing Act 2020 (Commencement No. 2) Regulations 2022 (S.I. 2022/500)](https://www.legislation.gov.uk/uksi/2022/500), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/500/regulation/1/2), [5(1)](https://www.legislation.gov.uk/uksi/2022/500/regulation/5/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2022/500/schedule/part/1)
+
+[^key-e37e85e763ba3f43ec7693fb6af178f7]: Textual amendment: Words in [s. 8(5)](https://www.legislation.gov.uk/ukpga/2006/11/section/8/5) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1)
+
+[^key-46442aa7347512000c5d2cdab0de15aa]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2006/11/section/9) in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/a)
+
+[^key-5c66156a6c24a2ac25123f10925e04c8]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2006/11/section/10) in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/a)
+
+[^key-5c7f90bd8996796ab831d9b130a050de]: Commencement: S. 11 in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/a)
+
+[^key-d41ffe85e72dc7590a2c23787df4c1f9]: Textual amendment: [S. 11A](https://www.legislation.gov.uk/ukpga/2006/11/section/11A) inserted (18.6.2009) by [Counter-Terrorism Act 2008 (c. 28)](https://www.legislation.gov.uk/ukpga/2008/28), [ss. 38(3)](https://www.legislation.gov.uk/ukpga/2008/28/section/38/3), [100(5)](https://www.legislation.gov.uk/ukpga/2008/28/section/100/5) (with [s. 101(2)](https://www.legislation.gov.uk/ukpga/2008/28/section/101/2)); [S.I. 2009/1256](https://www.legislation.gov.uk/uksi/2009/1256), [art. 2(c)](https://www.legislation.gov.uk/uksi/2009/1256/article/2/c)
+
+[^key-9380df41cb6b9336e7730c2dcb046d2e]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2006/11/section/12) in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/a)
+
+[^key-ccd68606ce1c7adae2ca17c1757f3f81]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2006/11/section/13) in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/a)
+
+[^key-52b4687dc601d4f08b84387752795f9a]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2006/11/section/14) in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/a)
+
+[^key-e146a34f661e3ca1816d8b55c3211dd1]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2006/11/section/15) in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/a)
+
+[^key-eeb47aba335f826aef8747f6b4a43044]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2006/11/section/16) in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/a)
+
+[^key-b188e2090fc690157036a7bba0ee1dca]: Commencement: S. 17 in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/a)
+
+[^key-ec4957d8890b59d382ecd4cd7c2c8a50]: Textual amendment: Words in s. 17(2)(a) inserted (12.4.2019) by [Counter-Terrorism and Border Security Act 2019 (c. 3)](https://www.legislation.gov.uk/ukpga/2019/3), [ss. 6(3)(a)](https://www.legislation.gov.uk/ukpga/2019/3/section/6/3/a), [27(3)](https://www.legislation.gov.uk/ukpga/2019/3/section/27/3) (with [s. 25(1)](https://www.legislation.gov.uk/ukpga/2019/3/section/25/1))
+
+[^key-0bc14aff566460013440a788499c1c10]: Textual amendment: Words in s. 17(2)(a) omitted (3.3.2015) by virtue of [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [s. 88(5)(b)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/5/b), [Sch. 4 para. 74(a)](https://www.legislation.gov.uk/ukpga/2015/9/schedule/4/paragraph/74/a)
+
+[^key-feedf4ac44617f53e26e711dd92846fa]: Textual amendment: Words in s. 17(2)(a) omitted (12.4.2019) by virtue of [Counter-Terrorism and Border Security Act 2019 (c. 3)](https://www.legislation.gov.uk/ukpga/2019/3), [ss. 6(3)(b)](https://www.legislation.gov.uk/ukpga/2019/3/section/6/3/b), [27(3)](https://www.legislation.gov.uk/ukpga/2019/3/section/27/3) (with [s. 25(1)](https://www.legislation.gov.uk/ukpga/2019/3/section/25/1))
+
+[^key-a1d08e61f2c56cc2d6d06bdfdc878e5d]: Textual amendment: Words in s. 17(2)(b) inserted (3.3.2015) by [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [ss. 81](https://www.legislation.gov.uk/ukpga/2015/9/section/81), [88(5)(b)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/5/b) (with [s. 86(10)](https://www.legislation.gov.uk/ukpga/2015/9/section/86/10))
+
+[^key-47e370ca4787156af9b3de364c6c30ad]: Textual amendment: S. 17(2)(ca)(cb) inserted (12.4.2019) by [Counter-Terrorism and Border Security Act 2019 (c. 3)](https://www.legislation.gov.uk/ukpga/2019/3), [ss. 6(4)](https://www.legislation.gov.uk/ukpga/2019/3/section/6/4), [27(3)](https://www.legislation.gov.uk/ukpga/2019/3/section/27/3) (with [s. 25(1)](https://www.legislation.gov.uk/ukpga/2019/3/section/25/1))
+
+[^key-26ebef86f2d7e1e95afdc9699e62c8fe]: Textual amendment: S. 17(2)(da) inserted (12.4.2019) by [Counter-Terrorism and Border Security Act 2019 (c. 3)](https://www.legislation.gov.uk/ukpga/2019/3), [ss. 6(5)](https://www.legislation.gov.uk/ukpga/2019/3/section/6/5), [27(3)](https://www.legislation.gov.uk/ukpga/2019/3/section/27/3) (with [s. 25(1)](https://www.legislation.gov.uk/ukpga/2019/3/section/25/1))
+
+[^key-69e1bb88227a5d131f591062647d3423]: Modification: S. 17(2)(f) modified (1.10.2008) by [Serious Crime Act 2007 (c. 27)](https://www.legislation.gov.uk/ukpga/2007/27), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2007/27/section/94/1), [Sch. 6 para. 52(a)](https://www.legislation.gov.uk/ukpga/2007/27/schedule/6/paragraph/52/a) (with [Sch. 13 para. 5](https://www.legislation.gov.uk/ukpga/2007/27/schedule/13/paragraph/5)); [S.I. 2008/2504](https://www.legislation.gov.uk/uksi/2008/2504), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/2504/article/2/a)
+
+[^key-ed0b93101ac2a6c323c35de6dd35ddb8]: Textual amendment: Words in s. 17(3) inserted (12.4.2019) by [Counter-Terrorism and Border Security Act 2019 (c. 3)](https://www.legislation.gov.uk/ukpga/2019/3), [ss. 6(6)](https://www.legislation.gov.uk/ukpga/2019/3/section/6/6), [27(3)](https://www.legislation.gov.uk/ukpga/2019/3/section/27/3) (with [s. 25(1)](https://www.legislation.gov.uk/ukpga/2019/3/section/25/1))
+
+[^key-dd23d91ceb43f7b742e4e0947eb9ef31]: Textual amendment: S. 17(3A)(3B) inserted (12.4.2019) by [Counter-Terrorism and Border Security Act 2019 (c. 3)](https://www.legislation.gov.uk/ukpga/2019/3), [ss. 6(7)](https://www.legislation.gov.uk/ukpga/2019/3/section/6/7), [27(3)](https://www.legislation.gov.uk/ukpga/2019/3/section/27/3) (with [s. 25(1)](https://www.legislation.gov.uk/ukpga/2019/3/section/25/1))
+
+[^key-e973c9540654eb4cb4870adc1132ea41]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2006/11/section/18) in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/a)
+
+[^key-2832e129e0207f00a666dbfa565a5291]: Commencement: S. 19 in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/a)
+
+[^key-61c83766098bec32906cf9f6fbbc4658]: Textual amendment: Words in [s. 19(2)](https://www.legislation.gov.uk/ukpga/2006/11/section/19/2) inserted (16.2.2009) by [Counter-Terrorism Act 2008 (c. 28)](https://www.legislation.gov.uk/ukpga/2008/28), [ss. 29](https://www.legislation.gov.uk/ukpga/2008/28/section/29), [100(5)](https://www.legislation.gov.uk/ukpga/2008/28/section/100/5) (with [s. 101(2)](https://www.legislation.gov.uk/ukpga/2008/28/section/101/2)); [S.I. 2009/58](https://www.legislation.gov.uk/uksi/2009/58), [art. 2(a)](https://www.legislation.gov.uk/uksi/2009/58/article/2/a)
+
+[^key-5747d341cfb562c627ddef245ceed03e]: Commencement: S. 20 in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/a)
+
+[^key-7d40175a7a78e41847cc4ee15ab85e89]: Textual amendment: Words in s. 20(2) inserted (29.7.2021) by [Space Industry Act 2018 (c. 5)](https://www.legislation.gov.uk/ukpga/2018/5), [s. 70(1)](https://www.legislation.gov.uk/ukpga/2018/5/section/70/1), [Sch. 12 para. 27(2)](https://www.legislation.gov.uk/ukpga/2018/5/schedule/12/paragraph/27/2); [S.I. 2021/817](https://www.legislation.gov.uk/uksi/2021/817), [reg. 2](https://www.legislation.gov.uk/uksi/2021/817/regulation/2), [Sch. para. 117](https://www.legislation.gov.uk/uksi/2021/817/schedule/paragraph/117) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/817/regulation/3))
+
+[^key-5d6df5d74419db786b55341bf30a0f9b]: Textual amendment: S. 20(2A) inserted (29.7.2021) by [Space Industry Act 2018 (c. 5)](https://www.legislation.gov.uk/ukpga/2018/5), [s. 70(1)](https://www.legislation.gov.uk/ukpga/2018/5/section/70/1), [Sch. 12 para. 27(3)](https://www.legislation.gov.uk/ukpga/2018/5/schedule/12/paragraph/27/3); [S.I. 2021/817](https://www.legislation.gov.uk/uksi/2021/817), [reg. 2](https://www.legislation.gov.uk/uksi/2021/817/regulation/2), [Sch. para. 117](https://www.legislation.gov.uk/uksi/2021/817/schedule/paragraph/117) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/817/regulation/3))
+
+[^key-1b8f803a3f322e1e1b4902d3c2e23da6]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2006/11/section/21) in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/a)
+
+[^key-fad083f6a085897d492949f619378d2d]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2006/11/section/22) in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/a)
+
+[^key-34fb08724202ec58efe62773403bf709]: Commencement: S. 23 in force at 25.7.2006 by [S.I. 2006/1936](https://www.legislation.gov.uk/uksi/2006/1936), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2006/1936/article/2/2/a)
+
+[^key-8d16e2baf2e3c4ac9e1f7d91ccab66b9]: Textual amendment: [S. 23(8)-(10)](https://www.legislation.gov.uk/ukpga/2006/11/section/23/8) repealed (10.7.2012) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 10 Pt. 4](https://www.legislation.gov.uk/ukpga/2012/9/schedule/10/part/4) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2012/1205](https://www.legislation.gov.uk/uksi/2012/1205), [art. 4(l)](https://www.legislation.gov.uk/uksi/2012/1205/article/4/l)
+
+[^key-f7d8b00ce09f5fcb44f87b5911756ca8]: Commencement: [S. 24](https://www.legislation.gov.uk/ukpga/2006/11/section/24) in force at 25.7.2006 by [S.I. 2006/1936](https://www.legislation.gov.uk/uksi/2006/1936), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2006/1936/article/2/2/a)
+
+[^key-242be8ec4fe2f1722f7b5f673acf2f0c]: Textual amendment: [S. 25](https://www.legislation.gov.uk/ukpga/2006/11/section/25) repealed (10.7.2012) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [ss. 57(2)](https://www.legislation.gov.uk/ukpga/2012/9/section/57/2), [120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 10 Pts. 4](https://www.legislation.gov.uk/ukpga/2012/9/schedule/10/part/4) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2012/1205](https://www.legislation.gov.uk/uksi/2012/1205), [art. 4(a)](https://www.legislation.gov.uk/uksi/2012/1205/article/4/a)
+
+[^key-b83513b804f70b86645fcfd32dce12d4]: Commencement: S. 25 in force at 25.7.2006 by [S.I. 2006/1936](https://www.legislation.gov.uk/uksi/2006/1936), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2006/1936/article/2/2/a)
+
+[^key-1008c20b9ff496e6f683b941799786f7]: Modification: S. 25 disapplied (temp. until 25.07.2008) (25.7.2007) by [Terrorism Act 2006 (Disapplication of Section 25) Order 2007 (S.I. 2007/2181)](https://www.legislation.gov.uk/uksi/2007/2181), [arts. 1](https://www.legislation.gov.uk/uksi/2007/2181/article/1), [2](https://www.legislation.gov.uk/uksi/2007/2181/article/2)
+
+[^key-6ae44c7620ba90268ba7d303d8ae673c]: Modification: S. 25 disapplied (25.7.2008) by [Terrorism Act 2006 (Disapplication of Section 25) Order 2008 (S.I. 2008/1745)](https://www.legislation.gov.uk/uksi/2008/1745), [arts. 1](https://www.legislation.gov.uk/uksi/2008/1745/article/1), [2](https://www.legislation.gov.uk/uksi/2008/1745/article/2)
+
+[^key-e2f9043c7807e113f23c9196dbaff65b]: Modification: S. 25 disapplied (temp.) (25.7.2009) by [Terrorism Act 2006 (Disapplication of Section 25) Order 2009 (S.I. 2009/1883)](https://www.legislation.gov.uk/uksi/2009/1883), [arts. 1](https://www.legislation.gov.uk/uksi/2009/1883/article/1), [2](https://www.legislation.gov.uk/uksi/2009/1883/article/2)
+
+[^key-8395de74d23ef510d0a250f56fa422af]: Modification: S. 25 disapplied (temp.) (25.7.2010) by [Terrorism Act 2006 (Disapplication of Section 25) Order 2010 (S.I. 2010/1909)](https://www.legislation.gov.uk/uksi/2010/1909), [arts. 1](https://www.legislation.gov.uk/uksi/2010/1909/article/1), [2](https://www.legislation.gov.uk/uksi/2010/1909/article/2)
+
+[^key-1a850acaa5016619e53c88d88fbbbf17]: Commencement: [S. 26](https://www.legislation.gov.uk/ukpga/2006/11/section/26) in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/b)
+
+[^key-47b37450766c979836e892e526014be7]: Commencement: [S. 27](https://www.legislation.gov.uk/ukpga/2006/11/section/27) in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/b)
+
+[^key-07a48bb6c76221a0c564a18dda4092e3]: Commencement: [S. 28](https://www.legislation.gov.uk/ukpga/2006/11/section/28) in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/b)
+
+[^key-fecb3801864af635683da4b20ebf6a33]: Commencement: [S. 29](https://www.legislation.gov.uk/ukpga/2006/11/section/29) in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/b)
+
+[^key-56fdc60dac1637fd440272c484c246fe]: Textual amendment: [S. 30](https://www.legislation.gov.uk/ukpga/2006/11/section/30) repealed (10.7.2012) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 10 Pt. 4](https://www.legislation.gov.uk/ukpga/2012/9/schedule/10/part/4) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2012/1205](https://www.legislation.gov.uk/uksi/2012/1205), [art. 4(l)](https://www.legislation.gov.uk/uksi/2012/1205/article/4/l)
+
+[^key-fa0e4c9ec680a58308dcb66d290ec96c]: Commencement: S. 30 in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/b)
+
+[^key-9a66fa468f79d5bb6ed29fd62af2156e]: Commencement: [S. 31](https://www.legislation.gov.uk/ukpga/2006/11/section/31) in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/b)
+
+[^key-ae7d6be1f6704ae73a75f98c002bd5f0]: Textual amendment: [S. 32](https://www.legislation.gov.uk/ukpga/2006/11/section/32) repealed (27.12.2018) by [Investigatory Powers Act 2016 (c. 25)](https://www.legislation.gov.uk/ukpga/2016/25), [s. 272(1)](https://www.legislation.gov.uk/ukpga/2016/25/section/272/1), [Sch. 10 Pt. 8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/10/part/8) (with [Sch. 9 paras. 7](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/7), [8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/8), [10](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/10)); [S.I. 2018/940](https://www.legislation.gov.uk/uksi/2018/940), [reg. 5(i)](https://www.legislation.gov.uk/uksi/2018/940/regulation/5/i)
+
+[^key-167c2896452e67a788fd83f77a48f656]: Commencement: S. 32 in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/b)
+
+[^key-ab0a0223fd722137d92e3c6c6629622d]: Commencement: [S. 33](https://www.legislation.gov.uk/ukpga/2006/11/section/33) in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/b)
+
+[^key-0439ed94e9c38d5df39290e21e7b03fe]: Commencement: [S. 34](https://www.legislation.gov.uk/ukpga/2006/11/section/34) in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/b)
+
+[^key-f91e6e796401058e89be0e54db0e6c49]: Commencement: [S. 35](https://www.legislation.gov.uk/ukpga/2006/11/section/35) in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/b)
+
+[^key-ce038af31fb00482287826713ba0cc88]: Commencement: S. 36 in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/b)
+
+[^key-44b0334ee4eb4f4893970c0b116775de]: Textual amendment: Words in [s. 36(2)](https://www.legislation.gov.uk/ukpga/2006/11/section/36/2) substituted (12.4.2015) by [Counter-Terrorism and Security Act 2015 (c. 6)](https://www.legislation.gov.uk/ukpga/2015/6), [ss. 45(1)(a)](https://www.legislation.gov.uk/ukpga/2015/6/section/45/1/a), [52(2)(b)](https://www.legislation.gov.uk/ukpga/2015/6/section/52/2/b)
+
+[^key-dda09c30151cde75280e94cc9d0f9a65]: Textual amendment: S. 36(2A) inserted (7.8.2012) by [Coroners and Justice Act 2009 (c. 25)](https://www.legislation.gov.uk/ukpga/2009/25), [ss. 117(2)](https://www.legislation.gov.uk/ukpga/2009/25/section/117/2), [182(5)](https://www.legislation.gov.uk/ukpga/2009/25/section/182/5) (with [s. 180](https://www.legislation.gov.uk/ukpga/2009/25/section/180)); [S.I. 2012/1810](https://www.legislation.gov.uk/uksi/2012/1810), [art. 2](https://www.legislation.gov.uk/uksi/2012/1810/article/2)
+
+[^key-b4f66f9023e4c5830845341db4260077]: Textual amendment: Words in s. 36(3) substituted (7.8.2012) by [Coroners and Justice Act 2009 (c. 25)](https://www.legislation.gov.uk/ukpga/2009/25), [ss. 117(3)](https://www.legislation.gov.uk/ukpga/2009/25/section/117/3), [182(5)](https://www.legislation.gov.uk/ukpga/2009/25/section/182/5) (with [s. 180](https://www.legislation.gov.uk/ukpga/2009/25/section/180)); [S.I. 2012/1810](https://www.legislation.gov.uk/uksi/2012/1810), [art. 2](https://www.legislation.gov.uk/uksi/2012/1810/article/2)
+
+[^key-90e4f40eb4f9d06ecb4ab58cdce4c5dc]: Textual amendment: Words in s. 36(3)(4) substituted (10.7.2012) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 9 para. 32(a)](https://www.legislation.gov.uk/ukpga/2012/9/schedule/9/paragraph/32/a) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2012/1205](https://www.legislation.gov.uk/uksi/2012/1205), [art. 4(k)](https://www.legislation.gov.uk/uksi/2012/1205/article/4/k); [S.I. 2012/1205](https://www.legislation.gov.uk/uksi/2012/1205), [art. 4(k)](https://www.legislation.gov.uk/uksi/2012/1205/article/4/k)
+
+[^key-ae272855a7fda0ac8ef27ec25cd2ef22]: Textual amendment: Words in [s. 36(4)](https://www.legislation.gov.uk/ukpga/2006/11/section/36/4) substituted (12.4.2015) by [Counter-Terrorism and Security Act 2015 (c. 6)](https://www.legislation.gov.uk/ukpga/2015/6), [ss. 45(1)(b)](https://www.legislation.gov.uk/ukpga/2015/6/section/45/1/b), [52(2)(b)](https://www.legislation.gov.uk/ukpga/2015/6/section/52/2/b)
+
+[^key-64958f268900358d2d0c85296effe851]: Textual amendment: S. 36(4A)(4B) inserted (10.7.2012) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [ss. 58(3)](https://www.legislation.gov.uk/ukpga/2012/9/section/58/3), [120](https://www.legislation.gov.uk/ukpga/2012/9/section/120) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2012/1205](https://www.legislation.gov.uk/uksi/2012/1205), [art. 4(b)](https://www.legislation.gov.uk/uksi/2012/1205/article/4/b)
+
+[^key-679b51968a03e4eee3ea6db5e3d927dc]: Textual amendment: [S. 36(4C)](https://www.legislation.gov.uk/ukpga/2006/11/section/36/4C) inserted (12.4.2015) by [Counter-Terrorism and Security Act 2015 (c. 6)](https://www.legislation.gov.uk/ukpga/2015/6), [ss. 45(1)(c)](https://www.legislation.gov.uk/ukpga/2015/6/section/45/1/c), [52(2)(b)](https://www.legislation.gov.uk/ukpga/2015/6/section/52/2/b)
+
+[^key-7b7b66ae17e68281519c51c5037eb3e1]: Textual amendment: Words in s. 36(5) inserted (10.7.2012) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 9 para. 32(b)](https://www.legislation.gov.uk/ukpga/2012/9/schedule/9/paragraph/32/b) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2012/1205](https://www.legislation.gov.uk/uksi/2012/1205), [art. 4(k)](https://www.legislation.gov.uk/uksi/2012/1205/article/4/k)
+
+[^key-cfb6ed1cf43e53d5229a7380a095c631]: Textual amendment: Words in s. 36(6) substituted (10.7.2012) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 9 para. 32(c)](https://www.legislation.gov.uk/ukpga/2012/9/schedule/9/paragraph/32/c) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2012/1205](https://www.legislation.gov.uk/uksi/2012/1205), [art. 4(k)](https://www.legislation.gov.uk/uksi/2012/1205/article/4/k)
+
+[^key-310dd2a6b85f008c9bab484773532813]: Textual amendment: S. 36(6A) inserted (10.7.2012) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 9 para. 32(d)](https://www.legislation.gov.uk/ukpga/2012/9/schedule/9/paragraph/32/d) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2012/1205](https://www.legislation.gov.uk/uksi/2012/1205), [art. 4(k)](https://www.legislation.gov.uk/uksi/2012/1205/article/4/k)
+
+[^key-b2fe235815261f7fe521fff413a8458b]: Commencement: [S. 37(1)-(4)](https://www.legislation.gov.uk/ukpga/2006/11/section/37/1) in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(c)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/c)
+
+[^key-06ed03dc7388aa3105b9e3f4cdfc0410]: Commencement: [S. 37(5)](https://www.legislation.gov.uk/ukpga/2006/11/section/37/5) in force at 13.4.2006 for specified purposes by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(d)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/d)
+
+[^key-de6dede86c024a1249e37f88c77f3100]: Commencement: [S. 37(5)](https://www.legislation.gov.uk/ukpga/2006/11/section/37/5) in force at 25.7.2006 in so far as not already in force by [S.I. 2006/1936](https://www.legislation.gov.uk/uksi/2006/1936), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2006/1936/article/2/2/b)
+
+[^key-e803763875605e0e46a3228c349fe01c]: Commencement: [S. 38](https://www.legislation.gov.uk/ukpga/2006/11/section/38) in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(c)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/c)
+
+[^key-b7676b9da0a03ce85eea88838830dea7]: Modification: [S. 39(6)](https://www.legislation.gov.uk/ukpga/2006/11/section/39/6) modified (12.2.2015) by [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [ss. 95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1), [97(4)](https://www.legislation.gov.uk/ukpga/2015/2/section/97/4)
+
+[^key-44a8d80bd950b2ed255e57db619ecd79]: Modification: [S. 39(6)](https://www.legislation.gov.uk/ukpga/2006/11/section/39/6) modified (12.2.2015) by [Counter-Terrorism and Security Act 2015 (c. 6)](https://www.legislation.gov.uk/ukpga/2015/6), [ss. 51(4)](https://www.legislation.gov.uk/ukpga/2015/6/section/51/4), [52(5)](https://www.legislation.gov.uk/ukpga/2015/6/section/52/5)
+
+[^key-67e0eb3cdaa7e5594d9b734223fdbdc4]: Modification: [S. 39(6)](https://www.legislation.gov.uk/ukpga/2006/11/section/39/6) power applied (12.2.2019) by [Counter-Terrorism and Border Security Act 2019 (c. 3)](https://www.legislation.gov.uk/ukpga/2019/3), [ss. 26(8)](https://www.legislation.gov.uk/ukpga/2019/3/section/26/8), [27(1)(c)](https://www.legislation.gov.uk/ukpga/2019/3/section/27/1/c)
+
+[^key-7ad9959d0d0989018c25e642ed579997]: Modification: [S. 39(6)](https://www.legislation.gov.uk/ukpga/2006/11/section/39/6) power extended (30.4.2021) by [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [ss. 49(8)](https://www.legislation.gov.uk/ukpga/2021/11/section/49/8), [50(1)(h)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/1/h)
+
+[^key-261729dc727e1cc0ff0a609f1558e661]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/2006/11/schedule/1/paragraph/1) in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/a)
+
+[^key-02714b84f753c8719e224e1f94b2ae34]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2006/11/schedule/1/paragraph/2) in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/a)
+
+[^key-b1c3631dcf22201071b2222e1f6d67fb]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/2006/11/schedule/1/paragraph/3) in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/a)
+
+[^key-481bcdec4173092d69ef9302ef634605]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/2006/11/schedule/1/paragraph/4) in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/a)
+
+[^key-df606e5d54209e69cc6d89ee1bdf8c5e]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2006/11/schedule/1/paragraph/5) in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/a)
+
+[^M_F_e75b20cb-09a5-49f7-a7f1-8f123d87064a]: Textual amendment: Words in Sch. 1 inserted (30.11.2009) by [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), s. 153(7), Sch. 26 para. 79(2); [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), art. 2(s)
+
+[^key-0082238ca73c852cf36444a5fc90cc8f]: Commencement: Sch. 1 para. 6 in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013) , [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/a)
+
+[^key-f061f5bf7e02d1e02c306fb1e2c5429a]: Textual amendment: Words in Sch. 1 para. 6(1) inserted (30.11.2009) by [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4) , [s. 153(7)](https://www.legislation.gov.uk/ukpga/2008/4/section/153/7) , [Sch. 26 para. 79(3)](https://www.legislation.gov.uk/ukpga/2008/4/schedule/26/paragraph/79/3) ; [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074) , [art. 2(s)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/s)
+
+[^key-313c904957923a1cd9280ea01b43e59a]: Textual amendment: Sch. 1 para. 6(2)-(4) substituted for Sch. 1 para. 6(2)(3) (30.11.2009) by [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4) , [s. 153(7)](https://www.legislation.gov.uk/ukpga/2008/4/section/153/7) , [Sch. 26 para. 79(4)](https://www.legislation.gov.uk/ukpga/2008/4/schedule/26/paragraph/79/4) ; [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074) , [art. 2(s)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/s)
+
+[^key-893308596e2f8010ac32ca4091b99145]: Textual amendment: Sch. 1 para. 6A inserted (30.11.2009) by [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), [s. 153(7)](https://www.legislation.gov.uk/ukpga/2008/4/section/153/7), [Sch. 26 para. 79(5)](https://www.legislation.gov.uk/ukpga/2008/4/schedule/26/paragraph/79/5); [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(s)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/s)
+
+[^key-33ef13d938c44e545a6c794cfc9b1bc2]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/ukpga/2006/11/schedule/1/paragraph/7) in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/a)
+
+[^key-86fe7ef77d56c834ce27c6088f566b0e]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/ukpga/2006/11/schedule/1/paragraph/8) in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/a)
+
+[^key-1407e9e623983764ee42d133a3f45277]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/ukpga/2006/11/schedule/1/paragraph/9) in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/a)
+
+[^key-7ae11b012e8984ea7375703fe12d614d]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/ukpga/2006/11/schedule/1/paragraph/10) in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/a)
+
+[^key-2eac515bf5e6ec41061bedbb4baf0b2c]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/ukpga/2006/11/schedule/1/paragraph/11) in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/a)
+
+[^key-b602d962c1e78573730f2307fc9246b1]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/ukpga/2006/11/schedule/1/paragraph/12) in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/a)
+
+[^key-b8e84b414e13c31a82ad10eccbc2d0d9]: Modification: [Sch. 1 para. 12(b)](https://www.legislation.gov.uk/ukpga/2006/11/schedule/1/paragraph/12/b) modified (1.10.2008) by [Serious Crime Act 2007 (c. 27)](https://www.legislation.gov.uk/ukpga/2007/27), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2007/27/section/94/1), [Sch. 6 para. 52(b)](https://www.legislation.gov.uk/ukpga/2007/27/schedule/6/paragraph/52/b) (with [Sch. 13 para. 5](https://www.legislation.gov.uk/ukpga/2007/27/schedule/13/paragraph/5)); [S.I. 2008/2504](https://www.legislation.gov.uk/uksi/2008/2504), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/2504/article/2/a)
+
+[^key-6a0c23c09bf74389dcafca2f4be5b067]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2006/11/schedule/2/paragraph/1) in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/b)
+
+[^key-5df3d1d670996f10707e8041263ef9c5]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2006/11/schedule/2/paragraph/2) in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/b)
+
+[^key-be6df564a973ed446e125e447b49c9a4]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/2006/11/schedule/2/paragraph/3) in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/b)
+
+[^key-a1745bd955e19fdc80a86fd96b218b4a]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/2006/11/schedule/2/paragraph/4) in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/b)
+
+[^key-f0977c6502d3fbc0b64d78a878129234]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/ukpga/2006/11/schedule/2/paragraph/5) in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/b)
+
+[^key-b45a23c21a3fbbedb2a928c9471251aa]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/ukpga/2006/11/schedule/2/paragraph/6) in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/b)
+
+[^key-4429e8dd5b599761660fae1d251e1bfd]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/ukpga/2006/11/schedule/2/paragraph/7) in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/b)
+
+[^key-68cac258fe3eedbabe2bda10b103d532]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/ukpga/2006/11/schedule/2/paragraph/8) in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/b)
+
+[^key-71758da24e8bd59e96e153f6624773ec]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/ukpga/2006/11/schedule/2/paragraph/9) in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/b)
+
+[^key-e0d036d97df7140b70dc622da89a0c11]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/ukpga/2006/11/schedule/2/paragraph/10) in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/b)
+
+[^key-9ab88eef73dccd9382599b9a4fa9bfe5]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/ukpga/2006/11/schedule/2/paragraph/11) in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/b)
+
+[^key-502d219299df6501970abd7f781b2b4e]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/ukpga/2006/11/schedule/2/paragraph/12) in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/b)
+
+[^key-8d2cfc557a653383a0868deea236aacd]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/ukpga/2006/11/schedule/2/paragraph/13) in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/b)
+
+[^key-ad33ee3b4cd0a5e00424d1e0873dacd5]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/ukpga/2006/11/schedule/2/paragraph/14) in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/b)
+
+[^key-7d4af931d1fbe7d9a6392f7ae4a90011]: Commencement: [Sch. 2 para. 15](https://www.legislation.gov.uk/ukpga/2006/11/schedule/2/paragraph/15) in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/b)
+
+[^key-540605c2756bc22139864dc87d4d3639]: Commencement: [Sch. 2 para. 16](https://www.legislation.gov.uk/ukpga/2006/11/schedule/2/paragraph/16) in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/b)
+
+[^key-0f3f6ca9271662b9d53c61d619b205b7]: Commencement: [Sch. 2 para. 17](https://www.legislation.gov.uk/ukpga/2006/11/schedule/2/paragraph/17) in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/b)
+
+[^key-7c6bf8cced70cf034b3857dd56f641de]: Commencement: [Sch. 2 para. 18](https://www.legislation.gov.uk/ukpga/2006/11/schedule/2/paragraph/18) in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/b)
+
+[^key-75bb2f1825d87530263cd2162d476889]: Commencement: [Sch. 3](https://www.legislation.gov.uk/ukpga/2006/11/schedule/3) in force at 13.4.2006 for specified purposes by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(e)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/e)
+
+[^key-a83f04432700e6af760a4b7a3debe9bf]: Commencement: [Sch. 3](https://www.legislation.gov.uk/ukpga/2006/11/schedule/3) in force at 25.7.2006 in so far as not already in force by [S.I. 2006/1936](https://www.legislation.gov.uk/uksi/2006/1936), [art. 2(2)(c)](https://www.legislation.gov.uk/uksi/2006/1936/article/2/2/c)

@@ -1,0 +1,154 @@
+---
+title: The Bus Services Act 2025 (Commencement No. 2 and Transitional Provisions) Regulations 2026
+id: uksi/2026/834
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2026-07-14'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2026/834
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2026/834/pdfs/uksi_20260834_en.pdf
+- http://www.legislation.gov.uk/uksi/2026/834/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Bus Services Act 2025 (Commencement No. 2 and Transitional Provisions) Regulations 2026
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2026 No. 834 (C. 71)
+
+PUBLIC PASSENGER TRANSPORT
+
+The Bus Services Act 2025 (Commencement No. 2 and Transitional Provisions) Regulations 2026
+
+Made
+
+14th July 2026
+
+The Secretary of State makes these Regulations in exercise of the powers conferred by section 41(5)(b) and (7) of the Bus Services Act 2025[^f00001].
+
+## 1. Citation and interpretation
+
+(1) These Regulations may be cited as the Bus Services Act 2025 (Commencement No. 2 and Transitional Provisions) Regulations 2026.
+
+(2) In these Regulations—
+
+- “**the 2000 Act**” means the Transport Act 2000[^f00002];
+- “**the 2025 Act**” means the Bus Services Act 2025;
+- “**Regulation 181/2011**” means [Regulation (EU) No 181/2011](https://www.legislation.gov.uk/european/regulation/2011/0181) of the European Parliament and of the Council of 16 February 2011 concerning the rights of passengers in bus and coach transport and amending Regulation [(EC) No 2006/2004](https://www.legislation.gov.uk/european/regulation/2004/2006), as amended by section 35 of the 2025 Act;
+- “**relevant training**” means any of the training described in section 144F(2) of the 2000 Act, as inserted by section 34(2) of the 2025 Act, and in Article 16 and Annex II of Regulation 181/2011.
+
+## 2. Provisions coming into force on 5th August 2026
+
+The following provisions of the 2025 Act come into force on 5th August 2026—
+
+- (a) section 27 (powers of inspectors), so far as it is not already in force[^f00003];
+- (b) section 28 (local transport authority byelaws);
+- (c) section 29 (Transport for London byelaws);
+- (d) section 30 (safety and accessibility of stopping places);
+- (e) section 32 (duty to provide information to Secretary of State), so far as it is not already in force[^f00004];
+- (f) section 34 (training about crime and anti-social behaviour), so far as it is not already in force[^f00005];
+- (g) section 35 (training about disability);
+- (h) section 36 (training about disability: further provisions), so far as it is not already in force[^f00006].
+
+## 3. Transitional provision: personnel employed before 5th August 2026
+
+(1) This regulation applies in relation to any person who is required to complete relevant training as a result of a role that they were employed into before 5th August 2026.
+
+(2) During the period beginning on 5th August 2026 and ending on 31st December 2029, section 144F(2) of the 2000 Act and paragraph 1A of Article 16 of Regulation 181/2011 are to be read as if for “within the past five years” there were substituted “by 31st December 2029”.
+
+## 4. Transitional provision: personnel employed on or after 5th August 2026
+
+(1) This regulation applies in relation to any person who is required to complete relevant training as a result of being employed into a role on or after 5th August 2026.
+
+(2) During the period beginning on 5th August 2026 and ending on 31st December 2028, section 144F(2) of the 2000 Act and paragraph 1A of Article 16 of Regulation 181/2011 are to be read as if for “within the past five years” there were substituted “by 31st December 2028”.
+
+Signed by authority of the Secretary of State for Transport
+
+Simon Lightwood
+
+Parliamentary Under-Secretary of State
+
+Department for Transport
+
+14th July 2026
+
+Explanatory Note
+
+(This note is not part of the Regulations)
+
+These Regulations bring into force specified provisions of the Bus Services Act [2025 (c. 24)](https://www.legislation.gov.uk/ukpga/2025/24) (“**the 2025 Act**”). These are the second commencement regulations made under the 2025 Act.
+
+Regulation 2 of these Regulations brings into force the following sections of the 2025 Act on 5 August 2026: section 27 (so far as it is not already in force), sections 28 to 30, section 32 (so far as it is not already in force), section 34 (so far as it is not already in force) and sections 35 to 36.
+
+Section 27 of the 2025 Act makes provision in relation to inspectors on public service vehicles.
+
+Section 28 of the 2025 Act makes provision in relation to byelaws for local bus services in England, outside of London.
+
+Section 29 of the 2025 Act makes provision in relation to byelaws for local bus services with one or more stopping places in London.
+
+Section 30 of the 2025 Act enables the Secretary of State to give guidance about safety and accessibility in relation to stopping places for local bus services and facilities in the vicinity of such stopping places.
+
+Section 32 of the 2025 Act requires authorities to provide information to the Secretary of State, which the Secretary of State may publish, about compliance with the duty to have regard to guidance issued under sections 30 and 31 of the 2025 Act.
+
+Sections 34 to 36 of the 2025 Act make provision relating to training requirements for staff in the bus industry about crime, anti-social behaviour and disability awareness and assistance.
+
+Regulations 3 and 4 make transitional provision for compliance with the training requirements introduced by sections 34 and 35 of the 2025 Act.
+
+Sections 27, 34 and 36 of the 2025 Act were brought partially into force by section 41(5)(a) of that Act, on the day on which the Act was passed, for the purposes of making regulations. Section 32 of the 2025 Act was brought partially into force by the first commencement regulations made under the Act ([S.I. 2026/46](https://www.legislation.gov.uk/uksi/2026/46)).
+
+A full impact assessment has been published in relation to the 2025 Act and copies can be obtained at https://www.legislation.gov.uk/en/ukpga/2025/24/resources or from the Department for Transport at Great Minster House, 33 Horseferry Road, London, SW1P 4DR, United Kingdom.
+
+NOTE AS TO EARLIER COMMENCEMENT REGULATIONS
+
+(This note is not part of the Regulations)
+
+The following provisions of the Bus Services Act 2025 have been brought into force by commencement Regulations made before the date of these Regulations.
+
+| Provision | Date of Commencement | S.I. No. |
+| --- | --- | --- |
+| Section 1 | 26 January 2026 | [S.I. 2026/46](https://www.legislation.gov.uk/uksi/2026/46) |
+| Section 2 | 26 January 2026 | [S.I. 2026/46](https://www.legislation.gov.uk/uksi/2026/46) |
+| Section 3 | 26 January 2026 | [S.I. 2026/46](https://www.legislation.gov.uk/uksi/2026/46) |
+| Section 4 | 26 January 2026 | [S.I. 2026/46](https://www.legislation.gov.uk/uksi/2026/46) |
+| Section 5 | 26 January 2026 | [S.I. 2026/46](https://www.legislation.gov.uk/uksi/2026/46) |
+| Section 6 | 26 January 2026 | [S.I. 2026/46](https://www.legislation.gov.uk/uksi/2026/46) |
+| Section 8 | 26 January 2026 | [S.I. 2026/46](https://www.legislation.gov.uk/uksi/2026/46) |
+| Section 10 | 26 January 2026 | [S.I. 2026/46](https://www.legislation.gov.uk/uksi/2026/46) |
+| Section 11 | 26 January 2026 | [S.I. 2026/46](https://www.legislation.gov.uk/uksi/2026/46) |
+| Section 12 | 26 January 2026 | [S.I. 2026/46](https://www.legislation.gov.uk/uksi/2026/46) |
+| Section 13 | 26 January 2026 | [S.I. 2026/46](https://www.legislation.gov.uk/uksi/2026/46) |
+| Section 14 | 1 April 2026 | [S.I. 2026/46](https://www.legislation.gov.uk/uksi/2026/46) |
+| Section 15 | 1 April 2026 | [S.I. 2026/46](https://www.legislation.gov.uk/uksi/2026/46) |
+| Section 16 | 1 April 2026 | [S.I. 2026/46](https://www.legislation.gov.uk/uksi/2026/46) |
+| Section 17 | 1 April 2026 | [S.I. 2026/46](https://www.legislation.gov.uk/uksi/2026/46) |
+| Section 18(1) to (3) | 1 April 2026 | [S.I. 2026/46](https://www.legislation.gov.uk/uksi/2026/46) |
+| Section 18(4) | 1 July 2026 | [S.I. 2026/46](https://www.legislation.gov.uk/uksi/2026/46) |
+| Section 18(5) | 1 April 2026 | [S.I. 2026/46](https://www.legislation.gov.uk/uksi/2026/46) |
+| Section 19 | 1 April 2026 | [S.I. 2026/46](https://www.legislation.gov.uk/uksi/2026/46) |
+| Section 20 | 1 April 2026 | [S.I. 2026/46](https://www.legislation.gov.uk/uksi/2026/46) |
+| Section 21 | 1 April 2026 | [S.I. 2026/46](https://www.legislation.gov.uk/uksi/2026/46) |
+| Section 22 | 26 January 2026 | [S.I. 2026/46](https://www.legislation.gov.uk/uksi/2026/46) |
+| Section 23 | 26 January 2026 | [S.I. 2026/46](https://www.legislation.gov.uk/uksi/2026/46) |
+| Section 32 (partially) | 26 January 2026 | [S.I. 2026/46](https://www.legislation.gov.uk/uksi/2026/46) |
+| Schedule (for remaining purposes) | 26 January 2026 | [S.I. 2026/46](https://www.legislation.gov.uk/uksi/2026/46) |
+
+## Annotations
+
+[^f00001]: Footnote: [2025 c. 24](https://www.legislation.gov.uk/ukpga/2025/24).
+
+[^f00002]: Footnote: [2000 c. 38](https://www.legislation.gov.uk/ukpga/2000/38).
+
+[^f00003]: Footnote: Section 27 came into force on the day on which the 2025 Act was passed for the purposes of making regulations.
+
+[^f00004]: Footnote: Section 32 was brought partially into force by [S.I. 2026/46](https://www.legislation.gov.uk/uksi/2026/46) on 26th January 2026, so far as it relates to an authority that is subject to the duty to have regard to guidance under section 31(7) of the 2025 Act.
+
+[^f00005]: Footnote: Section 34 came into force on the day on which the 2025 Act was passed for the purposes of making regulations.
+
+[^f00006]: Footnote: Section 36 came into force on the day on which the 2025 Act was passed for the purposes of making regulations.

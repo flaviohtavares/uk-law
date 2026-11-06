@@ -1,0 +1,69 @@
+---
+title: The Newport–Shrewsbury Trunk Road A4042 (Croes-y-Mwyalch Roundabout to Woodlands Roundabout) De-Trunking Order 1998
+id: uksi/1998/1124
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '1998-04-21'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1998/1124
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1998/1124/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Newport–Shrewsbury Trunk Road A4042 (Croes-y-Mwyalch Roundabout to Woodlands Roundabout) De-Trunking Order 1998
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+1998 No. 1124
+
+HIGHWAYS, ENGLAND AND WALES
+
+WALES
+
+The Newport–Shrewsbury Trunk Road A4042 (Croes-y-Mwyalch Roundabout to Woodlands Roundabout) De-Trunking Order 1998
+
+Made
+
+21st April 1998
+
+Coming into force
+
+14th May 1998
+
+The Secretary of State for Wales makes this Order in exercise of powers conferred by sections 10 and 12 of the Highways Act 1980[^f00001] and of all other enabling powers:—
+
+**1.** The length of the trunk road described in the Schedule to this Order and shown by broad striped hatching on the deposited plan shall cease to be a trunk road and shall be classified as a principal road as from the date on which this Order comes into force.
+
+**2.** In this Order:—
+
+(1) All measurements of distance are measured along the route of the trunk road;
+
+(2)
+
+- (i) “the deposited plan” means the plan numbered HA 10/2 WO123 marked the “Newport-Shrewsbury Trunk Road A4042 (Croes-y-Mwyalch Roundabout to Woodlands Roundabout) De-Trunking Order 1998”, signed by authority of the Secretary of State and deposited at the Welsh Office Repository, Curran Embankment, Cardiff;
+- (ii) “principal road” as a classification for a highway means that the highway is a principal road for the purposes of enactments and instruments which refer to highways classified as principal roads, and is also classified for the purpose of every other enactment and instrument which refers to highways classified by the Secretary of State;
+- (iii) “the trunk road” means the Newport–Shrewsbury Trunk Road (A4042).
+
+**3.** This Order shall come into force on the 14th May 1998 and may be cited as the Newport-Shrewsbury Trunk Road A4042 (Croes-y-Mwyalch Roundabout to Woodlands Roundabout) De-Trunking Order 1998.
+
+Signed by authority of the Secretary of State for Wales
+
+D M Timlin
+
+Head of Roads Administration Welsh Office
+
+21st April 1998
+
+## SCHEDULE — THE LENGTH OF TRUNK ROAD CEASING TO BE A TRUNK ROAD
+
+The length of the trunk road ceasing to be a trunk road is that length of the trunk road in the County Borough of Torfaen from and including the Woodlands Roundabout at the junction of Newport Road, Cwmbran Drive and Malpas Road and extending for 400 metres eastwards to the western edge of the Croes-y-Mwyalch Roundabout.
+
+## Annotations
+
+[^f00001]: Footnote: [1980 c. 66](https://www.legislation.gov.uk/ukpga/1980/66).

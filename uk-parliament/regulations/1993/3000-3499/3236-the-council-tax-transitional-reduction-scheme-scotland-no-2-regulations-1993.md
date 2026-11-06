@@ -1,0 +1,162 @@
+---
+title: The Council Tax (Transitional Reduction Scheme) (Scotland) (No.2) Regulations 1993
+id: uksi/1993/3236
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '1993-12-21'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1993/3236
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1993/3236/made/data.pdf
+pending_changes: 1
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Council Tax (Transitional Reduction Scheme) (Scotland) (No.2) Regulations 1993
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+1993 No. 3236 (S.313)
+
+COUNCIL TAX, SCOTLAND
+
+The Council Tax (Transitional Reduction Scheme) (Scotland) (No.2) Regulations 1993
+
+Made
+
+21st December 1993
+
+Laid before Parliament
+
+7th January 1994
+
+Coming into force
+
+1st April 1994
+
+The Secretary of State, in exercise of the powers conferred on him by sections 80, 113(1) and (2) and 116(1) of the Local Government Finance Act 1992[^f00001] and of all other powers enabling him in that behalf, hereby makes the following Regulations:
+
+## 1. Citation and commencement
+
+These Regulations may be cited as the Council Tax (Transitional Reduction Scheme) (Scotland) (No.2) Regulations 1993 and shall come into force on 1st April 1994.
+
+## 2. Interpretation
+
+(1) In these Regulations—
+
+- “the Act”, “the Benefit Regulations”, “the Disabilities Regulations”, “alternative valuation band”, “qualifying dwelling” and “relevant valuation band” have the same meanings as in the 1993 Regulations;
+- “the 1993 Regulations” means the Council Tax (Transitional Reduction Scheme) (Scotland) Regulations 1993[^f00002];
+- “chargeable amount”, in relation to a person, a dwelling and a day, means the amount which (but for these Regulations) the person would be liable to pay as council tax in respect of that dwelling and day, having taken account of section 79 of the Act and the Disabilities Regulations, but leaving out of account any reduction attributable to the Benefit Regulations;
+- “prescribed year” means the financial year beginning on 1st April 1994.
+
+(2) Any reference in these Regulations to a liable person is a reference to a person who is liable (whether solely or jointly and severally with another person or persons) to pay to a levying authority an amount in respect of council tax for a particular dwelling; and references to an amount which a person is liable to pay shall be construed accordingly.
+
+## 3. Prescribed year
+
+The financial year beginning on 1st April 1994 is prescribed as the year for which these Regulations apply.
+
+## 4. Persons to whom these Regulations apply
+
+A person is an eligible person for the purposes of these Regulations in respect of a particular day in the prescribed year if, as regards that day—
+
+- (a) he is a liable person in respect of a qualifying dwelling; and
+- (b) the dwelling is the sole or main residence of any person.
+
+## 5. Calculation of amount payable
+
+(1) Where a person is an eligible person in respect of a day, the amount which he is liable to pay as council tax in respect of that day and the qualifying dwelling in question shall, subject to paragraphs (3) to (5), be equal to the difference between—
+
+- (a) the chargeable amount; and
+- (b) the amount determined in accordance with the following formula—
+
+  [formula: see source](https://www.legislation.gov.uk/uksi/1993/3236)
+
+  .
+
+(2) In paragraph (1)—
+
+- (a) A is the amount determined in accordance with the formula in regulation 5(1)(b) of the 1993 Regulations in respect of the dwelling in question; and
+- (b) B is the amount specified in column (2) of the following Table in relation to such valuation band shown in column (1) of that Table as is—
+  - (i) in the case of a dwelling in respect of which, as regards 1st April 1993, a person was an eligible person for the purposes of the Disabilities Regulations, the alternative valuation band;
+  - (ii) in any other case, the relevant valuation band;
+
+    **TABLE**
+
+    <table>
+    <thead>
+    <tr><th><em>(1)</em></th><th><em>(2)</em></th></tr>
+    <tr><th><em>Valuation Band</em></th><th><em>Amount</em></th></tr>
+    </thead>
+    <tbody>
+    <tr><td>A</td><td>£67</td></tr>
+    <tr><td>B</td><td>£77</td></tr>
+    <tr><td>C</td><td>£87</td></tr>
+    <tr><td>D</td><td>£97</td></tr>
+    <tr><td>E</td><td>£107</td></tr>
+    <tr><td>F</td><td>£117</td></tr>
+    <tr><td>G</td><td>£127</td></tr>
+    <tr><td>H</td><td>£137.</td></tr>
+    </tbody>
+    </table>
+
+(3) Where the amount determined in any case under sub-paragraph (b) of paragraph (1) is a negative amount, there shall be no reduction applicable under these Regulations in the amount payable as council tax in that case.
+
+(4) Where the amount determined in any case under sub-paragraph (b) of paragraph (1) is equal to or greater than the amount under sub-paragraph (a) of that paragraph, the amount payable as council tax in that case shall be nil.
+
+(5) Where a person—
+
+- (a) is, by virtue of paragraph (1), liable to pay a smaller amount as council tax in respect of a dwelling and a day than he would otherwise have been; and
+- (b) is entitled under the Benefit Regulations to council tax benefit in respect of that dwelling and day;
+
+the amount which he is liable to pay in respect of that dwelling and day shall be the amount ascertained in accordance with paragraph (1) less the amount of his council tax benefit for that day.
+
+## 6. Appeals
+
+(1) Where a levying authority make a decision relating to the application or operation of these Regulations in relation to a person, the authority shall, if requested in writing by the person so affected, provide him with a written statement of their decision and the reasons for it; and any such statement shall be dated and shall be sent within 14 days from the date on which it is requested or as soon as is reasonably practicable thereafter.
+
+(2) No appeal may be made to a valuation appeal committee in respect of any decision of a levying authority relating solely to the application or operation of these Regulations; but a person aggrieved by such a decision may appeal to a review board appointed by the relevant levying authority and constituted as mentioned in regulation 70(3) of the Benefit Regulations.
+
+## 7. Notice of appeal
+
+The appellant shall give notice of appeal in writing to the levying authority.
+
+## 8. Procedure for appeals
+
+(1) Regulations 71(2) to (9) and 72(4) and (5) of the Benefit Regulations shall apply with the necessary modifications for the purposes of an appeal under these Regulations as they apply for the purposes of a further review.
+
+(2) A levying authority shall comply with any decision of their review board.
+
+Allan Stewart
+
+Parliamentary Under Secretary of State, Scottish Office
+
+St Andrew’s House,
+
+Edinburgh
+
+21st December 1993
+
+(This note is not part of the Regulations)
+
+These Regulations provide for the reduction in certain cases of the amount that a person is liable to pay to a levying authority in Scotland by way of council tax. They have effect in relation to the financial year beginning on 1st April 1994 (regulation 3).
+
+The amount that a person is liable to pay will be calculated in accordance with these Regulations for any day as regards which his liability relates to a dwelling which is on that day the sole or main residence of an individual, provided that someone was also solely or mainly resident in the dwelling on 31st March 1993 and the dwelling was not an exempt dwelling on 1st April 1993 (regulation 4).
+
+Broadly, the Council Tax (Transitional Reduction Scheme) (Scotland) Regulations 1993 provided for reductions in council tax during 1993/94 where the scheme council tax in respect of a dwelling exceeded the combined total of—
+
+- (a) the personal community charges which would have been payable for 1992/93 by persons resident in that dwelling on 31st March 1993 if the circumstances on that day had persisted throughout the preceding year; and
+- (b) a prescribed amount which varied according to the valuation band applicable to the dwelling in question.
+
+In terms of these Regulations, the amounts prescribed under (b) above are increased (again according to the valuation band applicable to the dwelling in question). If the scheme council tax in respect of a dwelling still exceeds the combined total of (a) and (b) following this increase, the council tax payable for the dwelling during 1994/95 will be reduced by the amount of that excess (regulation 5).
+
+Regulations 6 to 8 make provision for appeals in connection with the Regulations to be considered by a review board of the levying authority rather than a valuation appeal committee.
+
+## Annotations
+
+[^f00001]: Footnote: [1992 c. 14](https://www.legislation.gov.uk/ukpga/1992/14); section 116(1) contains a definition of “prescribed” relevant to the exercise of the statutory powers under which these Regulations are made.
+
+[^f00002]: Footnote: S.I. [1993/277](https://www.legislation.gov.uk/uksi/1993/277), amended by S.I. [1993/527](https://www.legislation.gov.uk/uksi/1993/527).

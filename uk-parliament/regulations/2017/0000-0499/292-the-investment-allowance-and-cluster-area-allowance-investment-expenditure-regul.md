@@ -1,0 +1,244 @@
+---
+title: The Investment Allowance and Cluster Area Allowance (Investment Expenditure) Regulations 2017
+id: uksi/2017/292
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2017-03-07'
+text_date: '2024-04-11'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2017/292
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2017/292/pdfs/uksiem_20170292_en.pdf
+- http://www.legislation.gov.uk/uksi/2017/292/pdfs/uksi_20170292_en.pdf
+- http://www.legislation.gov.uk/uksi/2017/292/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Investment Allowance and Cluster Area Allowance (Investment Expenditure) Regulations 2017
+
+> Text as at 2024-04-11.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2017 No. 292
+
+Corporation Tax
+
+The Investment Allowance and Cluster Area Allowance (Investment Expenditure) Regulations 2017
+
+Made
+
+7th March 2017
+
+Laid before the House of Commons
+
+8th March 2017
+
+Coming into force
+
+29th March 2017
+
+The Treasury make the following Regulations in exercise of the powers conferred by sections 332BA, 332K, 356JE and 356JN of the Corporation Tax Act 2010[^f00001].
+
+## 1. Citation, commencement and effect[^key-cafd32d0a8343c0c6fdd2f24b107ecee]
+
+(1) These Regulations may be cited as the Investment Allowance and Cluster Area Allowance (Investment Expenditure) Regulations 2017 and come into force on 29th March 2017.
+
+(2) These Regulations have effect in relation to any expenditure that is incurred on or after 8th October 2015.
+
+## 2. Investment expenditure[^key-f0ac10b56b1941dd443f1b4fe4a2166e]
+
+(1) Expenditure which is operating expenditure within regulation 3 or leasing expenditure within regulation 4 is investment expenditure for the purposes of Chapter 6A and Chapter 9 of Part 8 of the Corporation Tax Act 2010.
+
+(2) This is subject to regulations 5, 6 and 7.
+
+## 3. Operating expenditure[^key-8a0cdfc5b605c418a52d959c3f704759]
+
+(1) Expenditure is “operating expenditure” for the purposes of these Regulations if it satisfies Conditions A, B and C.
+
+(2) Condition A is that the expenditure is incurred by a company for the purpose of increasing—
+
+- (a) the rate at which oil is extracted from a qualifying oil field[^f00002] or a cluster area[^f00003];
+- (b) the reserves of oil of a qualifying oil field or a cluster area;
+- (c) the number of years for which it is economically viable to carry out oil extraction activities[^f00004] in relation to a qualifying oil field or a cluster area;
+- (d) the number of years for which a facility can be used for the purposes of oil extraction activities in relation to a qualifying oil field or a cluster area; or
+- (e) the amount of tariff receipts [^key-66fde92aa3916e77765e504f246fb10c]... that are earned by the company in respect of upstream petroleum infrastructure.
+
+(3) Condition B is that the expenditure is not routine repair or maintenance expenditure.
+
+(4) Condition C is that the expenditure is incurred—
+
+- (a) in relation to a facility, on—
+  - (i) replacement of a valve, pump, pipeline, power generation plant or compressor that is no longer capable of being used for the purposes of oil extraction activities,
+  - (ii) modifications to increase capacity to carry out oil extraction activities,
+  - (iii) modifications to increase availability to carry out oil extraction activities,
+  - (iv) modifications to enable handling of reduced volumes that arise as a result of reduced operating pressures, or
+  - (v) modifications to enable handling of different fluid compositions, or
+- (b) in relation to an oil well, on—
+  - (i) water shut off,
+  - (ii) gas shut off,
+  - (iii) fracturing, or
+  - (iv) the removal of sand, salt, scale or hydrates.
+
+(5) For the purposes of this regulation, where a company incurs expenditure and part of that expenditure is operating expenditure and part is not, the expenditure is to be apportioned on a just and reasonable basis.
+
+(6) In this regulation—
+
+- “facility” means—
+  - (a) a platform;
+  - (b) an[^key-4be4a20dca840c767ddc84ab8db34278] oil well;
+  - (c) a platform well;
+  - (d) an oil well head; or
+  - (e) upstream petroleum infrastructure;
+- “[^key-88c4659283453ffc6321055d1ce67e51]**tariff receipts**” has the same meaning as it has for the purposes of section 291 of the Corporation Tax Act 2010 (corporation tax treatment of oil activities: tariff receipts etc); and
+- [^key-42f76e82996ad755d8b17dd018210158]...
+- “upstream petroleum infrastructure” has the meaning given in section 18(1) of the Energy (Oil and Gas) Profits Levy Act 2022[^key-0724bb89d761ff87ef1229062a393818].
+
+## 4. Leasing expenditure[^key-f2523ea7384c869e0fe87a88a85fe1b3]
+
+(1) Expenditure is “leasing expenditure” for the purposes of these Regulations if it satisfies Conditions A to E.
+
+(2) Condition A is that the expenditure is incurred by a company in relation to the lease of an asset.
+
+(3) Condition B is that the asset is a mobile asset whose main function is the production or storage of oil.
+
+(4) Condition C is that the lease is for a term of 5 years or longer.
+
+(5) Condition D is that the asset is used in—
+
+- (a) a qualifying oil field whose development was authorised for the first time on or after 8th July 2015;
+- (b) a qualifying oil field in respect of which—
+  - (i) the national authority authorised a project in relation to the oil field after consent for development of the field was first granted,
+  - (ii) the project was described in a further consent for development of the field,
+  - (iii) the project was authorised on or after 8th July 2015, and
+  - (iv) the asset is used for the purposes of the project in respect of which the authorisation was granted; or
+- (c) a cluster area that was determined on or after 3rd December 2014.
+
+(6) Condition E is that on the date that the expenditure is incurred, no company has generated investment allowance or cluster area allowance in respect of the acquisition of the asset.
+
+(7) In paragraph (2) (Condition A)—
+
+- (a) expenditure is incurred in relation to the lease of an asset only to the extent that it represents payment in return for the asset being made available;
+- (b) expenditure which does not represent payment in return for the asset being made available includes, in particular, any—
+  - (i) charge for the provision of any staff,
+  - (ii) charge for any services,
+  - (iii) amount payable which is, or represents, a profit or premium on the cost of the asset being made available which is paid by a company to an associated company[^f00008],
+  - (iv) amount which, in accordance with generally accepted accounting practice, falls (or would fall) to be shown in the company’s accounts as a finance charge in respect of a lease, or
+  - (v) amount that can be attributed to finance costs by reference to the interest rate implicit in the lease, being the interest rate that would apply to the lease in accordance with normal commercial criteria, including, in particular, generally accepted accounting practice (if applicable).
+
+(8) In paragraph (5) (Condition D)—
+
+- (a) references to—
+  - (i) authorisation of development of an oil field, and
+  - (ii) consent for development,
+
+  are to be interpreted in accordance with section 356IB of the Corporation Tax Act 2010[^f00009]; and
+- (b) “development”, and “national authority” have the same meanings as in section 356IB(2) of the Corporation Tax Act 2010.
+
+## 5. Excluded expenditure: receipt of lease amounts[^key-02d66067515aa012b0cf6014cf56c049]
+
+(1) For the purposes of these Regulations, expenditure is only investment expenditure to the extent that it exceeds the total amount received by the company and its associated companies in respect of any qualifying leases other than—
+
+- (a) amounts received from the lessee (including a sublessee) where the parties to a qualifying lease are associated companies; or
+- (b) amounts previously set against expenditure under this paragraph which would have been relievable investment expenditure[^f00010] but for this regulation.
+
+(2) In paragraph (1), “qualifying lease” means a lease to which the company or any associated company is, or was, party as lessee (including as sublessee) and in respect of which investment allowance or cluster area allowance has been generated by the company or any associated company by incurring leasing expenditure, or would have been generated but for this regulation.
+
+## 6. Excluded expenditure: subleases[^key-15bf8a9b9c93da49324246bcd85310de]
+
+For the purposes of these Regulations, in relation to a sublease of an asset entered into or modified on or after the date these Regulations come into force, expenditure is not leasing expenditure to the extent it that exceeds the total amount of leasing expenditure incurred in relation to the head lease during the term of the sublease.
+
+## 7. Excluded expenditure: arrangements[^key-652009adce939064977c7a2aa693899c]
+
+(1) For the purposes of these Regulations, expenditure is not investment expenditure to the extent that it arises in connection with any arrangements in respect of which the main purpose, or one of the main purposes, of entering into the arrangements is to—
+
+- (a) enable expenditure to qualify as investment expenditure, if it would otherwise not meet the conditions specified in regulation 3 or 4;
+- (b) enable expenditure to be incurred on a date earlier or later than the date on which it would otherwise have been incurred;
+- (c) generate, or increase generation of, investment allowance or cluster area allowance; or
+- (d) generate investment allowance or cluster area allowance earlier than it otherwise would have been generated.
+
+(2) In paragraph (1), “arrangements” includes any transaction, series of transactions, scheme or arrangement, whether or not legally enforceable.
+
+## 8. When expenditure is incurred[^key-36118ba2c5d2a549253061ec9861729f]
+
+Expenditure that is investment expenditure as a result of these Regulations is treated for the purposes of Chapter 6A and Chapter 9 of Part 8 of the Corporation Tax Act 2010 as incurred on the date when it is paid.
+
+Guto Bebb
+
+David Evennett
+
+Two of the Lords Commissioners of Her Majesty’s Treasury
+
+7th March 2017
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations provide for specified items of expenditure to be brought within the definition of investment expenditure for the purposes of the investment allowance (Chapter 6A of Part 8 of the Corporation Tax Act 2010) and the cluster area allowance (Chapter 9 of Part 8 of the Corporation Tax Act 2010).
+
+Regulation 1 provides for citation, commencement and effect. Authority for the retrospective effect is given by sections 332BA(2) and 356JE(2) of the Corporation Tax Act 2010.
+
+Regulation 2 provides that operating expenditure that is within regulation 3 or leasing expenditure that is within regulation 4 is investment expenditure, subject to regulations 5, 6 and 7.
+
+Regulation 3 specifies the conditions that must be met for expenditure to be operating expenditure.
+
+Regulation 4 specifies the conditions that must be met for expenditure to be leasing expenditure.
+
+Regulation 5 requires expenditure to exceed any amounts received (save for those listed in sub-paragraphs (a) and (b)) by a company or its associated companies under a “qualifying lease” (defined in paragraph (2)) in order for it to qualify as investment expenditure.
+
+Regulation 6 provides that where an asset is subleased, or a sublease is modified, on or after the date the Regulations come into force, leasing expenditure by any sublessee is capped at the amount of leasing expenditure incurred under the head lease during the term of the sublease.
+
+Regulation 7 removes from the scope of investment expenditure any expenditure that arises in connection with any arrangements which have as a main purpose one of the purposes listed in paragraph (1).
+
+Regulation 8 specifies when expenditure is treated as incurred for the purpose of generating investment allowance or cluster area allowance under Chapter 6A or Chapter 9 of Part 8 of the Corporation Tax Act 2010.
+
+A Tax Information and Impact Note covering this instrument was published on 16th December 2015 alongside draft legislation explaining changes to the Investment and Cluster Area allowances and is available on the website at https://www.gov.uk/government/collections/tax-information-and-impact-notes-tiins. It remains an accurate summary of the impacts that apply to this instrument.
+
+## Annotations
+
+[^f00001]: Footnote: [2010 c. 4](https://www.legislation.gov.uk/ukpga/2010/4). Sections 332BA and 332K were inserted by paragraph 2 of Schedule 12 to the Finance Act [2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11). Sections 356JE and 356JN were inserted by paragraph 2 of Schedule 13 to the Finance Act 2015.
+
+[^key-cafd32d0a8343c0c6fdd2f24b107ecee]: Commencement: Reg. 1 in force at 29.3.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/292/regulation/1)
+
+[^key-f0ac10b56b1941dd443f1b4fe4a2166e]: Commencement: Reg. 2 in force at 29.3.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/292/regulation/1)
+
+[^key-8a0cdfc5b605c418a52d959c3f704759]: Commencement: Reg. 3 in force at 29.3.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/292/regulation/1)
+
+[^f00002]: Footnote: The meaning of “qualifying oil field” is given in section 332B of the Corporation Tax Act 2010.
+
+[^f00003]: Footnote: The meaning of “cluster area” is given in section 356JD of the Corporation Tax Act 2010.
+
+[^f00004]: Footnote: The meaning of “oil extraction activities” is given in section 272 of the Corporation Tax Act 2010.
+
+[^key-66fde92aa3916e77765e504f246fb10c]: Textual amendment: Words in [reg. 3(2)(e)](https://www.legislation.gov.uk/uksi/2017/292/regulation/3/2/e) omitted (with effect in accordance with s. 22(7)(8) of the amending Act) by virtue of [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [s. 22(6)(a)](https://www.legislation.gov.uk/ukpga/2018/3/section/22/6/a)
+
+[^key-4be4a20dca840c767ddc84ab8db34278]: Textual amendment: Word in [reg. 3(6)](https://www.legislation.gov.uk/uksi/2017/292/regulation/3/6) substituted (11.4.2024) by [The Investment Allowance and Cluster Area Allowance (Investment Expenditure) (Amendment) Regulations 2024 (S.I. 2024/395)](https://www.legislation.gov.uk/uksi/2024/395), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/395/regulation/1/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2024/395/regulation/2/2/a) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/395/regulation/1/2))
+
+[^key-88c4659283453ffc6321055d1ce67e51]: Textual amendment: Words in [reg. 3(6)](https://www.legislation.gov.uk/uksi/2017/292/regulation/3/6) substituted (with effect in accordance with s. 22(7)(8) of the amending Act) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [s. 22(6)(b)](https://www.legislation.gov.uk/ukpga/2018/3/section/22/6/b)
+
+[^key-42f76e82996ad755d8b17dd018210158]: Textual amendment: Words in [reg. 3(6)](https://www.legislation.gov.uk/uksi/2017/292/regulation/3/6) omitted (with effect in accordance with s. 22(7)(8) of the amending Act) by virtue of [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [s. 22(6)(c)](https://www.legislation.gov.uk/ukpga/2018/3/section/22/6/c)
+
+[^key-0724bb89d761ff87ef1229062a393818]: Textual amendment: Words in [reg. 3(6)](https://www.legislation.gov.uk/uksi/2017/292/regulation/3/6) substituted (11.4.2024) by [The Investment Allowance and Cluster Area Allowance (Investment Expenditure) (Amendment) Regulations 2024 (S.I. 2024/395)](https://www.legislation.gov.uk/uksi/2024/395), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/395/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2024/395/regulation/2/2/b) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/395/regulation/1/2))
+
+[^key-f2523ea7384c869e0fe87a88a85fe1b3]: Commencement: Reg. 4 in force at 29.3.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/292/regulation/1)
+
+[^f00008]: Footnote: The meaning of “associated companies” is given in section 271 of the Corporation Tax Act 2010.
+
+[^f00009]: Footnote: Section 356IB was inserted by paragraph 7 of Part 1 of Schedule 14 to the Finance Act 2015.
+
+[^key-02d66067515aa012b0cf6014cf56c049]: Commencement: Reg. 5 in force at 29.3.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/292/regulation/1)
+
+[^f00010]: Footnote: Sections 332C(3) and 356JF(3) of the Corporation Tax Act 2010 set out when investment expenditure is relievable.
+
+[^key-15bf8a9b9c93da49324246bcd85310de]: Commencement: Reg. 6 in force at 29.3.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/292/regulation/1)
+
+[^key-652009adce939064977c7a2aa693899c]: Commencement: Reg. 7 in force at 29.3.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/292/regulation/1)
+
+[^key-36118ba2c5d2a549253061ec9861729f]: Commencement: Reg. 8 in force at 29.3.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/292/regulation/1)

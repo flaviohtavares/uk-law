@@ -1,0 +1,45 @@
+---
+title: Finance Act 2020, section 99
+act: Finance Act 2020
+section: '99'
+status: revised
+text_date: '2026-03-18'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2020/14/section/99
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Finance Act 2020, section 99
+
+> Text as at 2026-03-18.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 99. HMRC debts: regulations
+
+*Extent: E+W+S+N.I.*
+
+(1) The Treasury may by regulations provide that only the following amounts are secondary preferential debts (or, in relation to Scotland, secondary preferred debts) for the purpose of a relevant provision—
+
+- (a) in the case of amounts owed in respect of value added tax, amounts referable to such period as is specified in the regulations;
+- (b) in the case of amounts owed in respect of a relevant deduction, amounts owed in respect of a deduction from a payment made during such period as is specified in the regulations.
+
+(2) In subsection (1) “**relevant provision**” means—
+
+- (a) paragraph 15D(1) of Schedule 6 to the Insolvency Act 1986 (preferential debts: certain HMRC debts);
+- (b) paragraph 8A(1) of Schedule 3 to the Bankruptcy (Scotland) Act 2016 (asp 21) (list of preferred debts: certain HMRC debts);
+- (c) paragraph 22(1) of Schedule 4 to the Insolvency (Northern Ireland) Order 1989 (S.I. 1989/2405 (N.I. 19)) (preferential debts: certain HMRC debts).
+
+(3) The Treasury may by regulations specify kinds of deductions for the purposes of—
+
+- (a) paragraph 15D(3)(c) of Schedule 6 to the Insolvency Act 1986;
+- (b) paragraph 8A(3)(c) of Schedule 3 to the Bankruptcy (Scotland) Act 2016 (asp 21);
+- (c) paragraph 22(3)(c) of Schedule 4 to the Insolvency (Northern Ireland) Order 1989 (S.I. 1989/2405 (N.I. 19)).
+
+(4) Regulations under this section may contain transitional or supplementary provision.
+
+(5) Regulations under this section—
+
+- (a) are to be made by statutory instrument;
+- (b) are subject to annulment in pursuance of a resolution of the House of Commons.

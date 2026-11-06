@@ -1,0 +1,107 @@
+---
+title: The Vale of Glamorgan Petty Sessional Division (Consequences of Local Government Changes) Order 1996
+id: uksi/1996/441
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '1996-02-27'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1996/441
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1996/441/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Vale of Glamorgan Petty Sessional Division (Consequences of Local Government Changes) Order 1996
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+1996 No. 441
+
+JUSTICES OF THE PEACE, ENGLAND AND WALES
+
+The Vale of Glamorgan Petty Sessional Division (Consequences of Local Government Changes) Order 1996
+
+Made
+
+27th February 1996
+
+Laid before Parliament
+
+28th February 1996
+
+Coming into force
+
+1st April 1996
+
+The Lord Chancellor, in exercise of the powers conferred on him by sections 55(1) and 63(5) of the Local Government (Wales) Act 1994[^f00001], hereby makes the following Order:
+
+**1.** This Order may be cited as the Vale of Glamorgan Petty Sessional Division (Consequences of Local Government Changes) Order 1996 and shall come into force on 1st April 1996.
+
+**2.** In this Order, except where the context otherwise requires, the expression “division” means a petty sessional division and any reference to a justice for the division shall be construed as a reference to a justice of the peace who ordinarily acts, or, as the case may be, will on or after 1st April 1996 ordinarily act, in and for that division.
+
+**3.** The area of the communities of Ewenny, St Bride’s Major and Wick shall form part of the petty sessional division of the Vale of Glamorgan.
+
+**4.** The transitional and consequential provisions set out in the Schedule to this Order shall have effect in connection with the provisions of article 3 of this Order.
+
+Mackay of Clashfern, C.
+
+Dated 27th February 1996
+
+## SCHEDULE — TRANSITIONAL AND CONSEQUENTIAL PROVISIONS
+
+Article 4
+
+**1.** In this Schedule:
+
+- “combination order” means an order made under section 11 of the Criminal Justice Act 1991[^f00002];
+- “community service order” means an order made under section 14 of the Powers of Criminal Courts Act 1973[^f00003];
+- “probation order” means a probation order made, or having effect as if made, under section 2 of the Powers of Criminal Courts Act 1973[^f00004];
+- “supervision order” means any of the following orders, that is to say—
+  - (a) an order within the meaning of section 11 of the Children and Young Persons Act 1969[^f00005];
+  - (b) a supervision order within the meaning of section 26(1) of the Powers of Criminal Courts Act 1973;
+  - (c) an order under section 31(1)(b) of the Children Act 1989[^f00006], including any order deemed to be a supervision order made under the said section 31 by virtue of paragraph 25(2) of Schedule 14 to that Act.
+
+**2.** The incorporation of the communities of Ewenny, St Bride’s Major and Wick into the petty sessional division of the Vale of Glamorgan by article 3 of this Order shall not affect any proceedings commenced before 1st April 1996 before the justices of the Newcastle and Ogmore division and any such proceedings may be disposed of as if those communities still formed part of that division.
+
+**3.** Where on 1st April 1996 periodical payments are payable under section 59 of the Magistrates' Courts Act 1980[^f00007] through the clerk to the justices for the Newcastle and Ogmore division to a person who resides in the communities of Ewenny, St Bride’s Major or Wick, the clerk may amend the order so as to require the payments to be made through the clerk to the justices for the Vale of Glamorgan division and, if the clerk does so amend the order, he shall give notice of the amendment to the person entitled to the payments, to the person required to make the payments and to the clerk to the justices for the Vale of Glamorgan division.
+
+**4.** Where on 1st April 1996 a combination order, community service order, probation order or supervision order is in force and the offender, probationer or person under supervision is residing in the communities of Ewenny, St Bride’s Major or Wick, the justices for the Newcastle and Ogmore division may amend the order in regard to the division named as if the offender, probationer or person under supervision, as the case may be, had changed his residence.
+
+**5.** Any order made, licence granted, or other thing done under the Licensing Act 1964[^f00008], the Licensing (Occasional Permissions) Act 1983[^f00009] or section 3 of the Sporting Events (Control of Alcohol etc) Act 1985[^f00010] by the licensing justices for the Newcastle and Ogmore division or a magistrates' court acting for that division in respect of premises situated in the communities of Ewenny, St Bride’s Major or Wick, being an order or licence in force or other thing having effect immediately before 1st April 1996, shall continue to have like effect on and after that date as if this Order had not been made, but shall be treated as if made, granted or done by the licensing justices for the Vale of Glamorgan division or, as the case may be, by a magistrates' court acting for that division.
+
+**6.** Anything done under the Betting, Gaming and Lotteries Act 1963[^f00011] or the Gaming Act 1968[^f00012] by or in relation to the betting licensing committee for the Newcastle and Ogmore division in respect of premises situated in the communities of Ewenny, St Bride’s Major or Wick, being a thing having effect immediately before 1st April 1996, shall continue to have like effect on and after that date as if this Order had not been made, but shall be treated as if done by or in relation to, the betting licensing committee for the Vale of Glamorgan division, and anything done under either of those Acts by, or in relation to, any other person or body shall have effect accordingly.
+
+(This note is not part of the Order)
+
+This Order effects the incorporation of the three communities of Ewenny, St Bride’s Major and Wick into the petty sessional division of the Vale of Glamorgan on 1st April 1996. The Order is made in consequence of the provisions of the Local Government (Wales) Act 1994 whereby those communities, until then part of the county of Mid Glamorgan, are to form part of the preserved county of South Glamorgan and not the preserved county of Mid Glamorgan, thereby being excluded from the petty sessional division of Newcastle and Ogmore.
+
+## Annotations
+
+[^f00001]: Footnote: [1994 c. 19](https://www.legislation.gov.uk/ukpga/1994/19).
+
+[^f00002]: Footnote: [1991 c. 53](https://www.legislation.gov.uk/ukpga/1991/53).
+
+[^f00003]: Footnote: [1973 c. 62](https://www.legislation.gov.uk/ukpga/1973/62); section 14 was amended by section 10 of the Criminal Justice Act 1991.
+
+[^f00004]: Footnote: Section 2 was substituted by section 8 of the Criminal Justice Act 1991.
+
+[^f00005]: Footnote: [1969 c. 54](https://www.legislation.gov.uk/ukpga/1969/54).
+
+[^f00006]: Footnote: [1989 c. 41](https://www.legislation.gov.uk/ukpga/1989/41).
+
+[^f00007]: Footnote: [1980 c. 43](https://www.legislation.gov.uk/ukpga/1980/43).
+
+[^f00008]: Footnote: [1964 c. 26](https://www.legislation.gov.uk/ukpga/1964/26).
+
+[^f00009]: Footnote: [1983 c. 24](https://www.legislation.gov.uk/ukpga/1983/24).
+
+[^f00010]: Footnote: [1985 c. 57](https://www.legislation.gov.uk/ukpga/1985/57).
+
+[^f00011]: Footnote: [1963 c. 2](https://www.legislation.gov.uk/ukpga/1963/2).
+
+[^f00012]: Footnote: [1968 c. 65](https://www.legislation.gov.uk/ukpga/1968/65).

@@ -1,0 +1,2228 @@
+---
+title: The UK Border Agency (Complaints and Misconduct) Regulations 2010
+id: uksi/2010/782
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2010-03-15'
+text_date: '2018-01-08'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2010/782
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2010/782/pdfs/uksiem_20100782_en.pdf
+- http://www.legislation.gov.uk/uksi/2010/782/pdfs/uksi_20100782_en.pdf
+- http://www.legislation.gov.uk/uksi/2010/782/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The UK Border Agency (Complaints and Misconduct) Regulations 2010
+
+> Text as at 2018-01-08.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2010 No. 782
+
+Immigration
+
+Revenue And Customs
+
+The UK Border Agency (Complaints and Misconduct) Regulations 2010
+
+Made
+
+15th March 2010
+
+Laid before Parliament
+
+17th March 2010
+
+Coming into force
+
+7th April 2010
+
+The Secretary of State makes these Regulations in exercise of the powers conferred by sections 41 and 49(3) of the Police and Justice Act 2006[^f00001]
+
+## 1. Citation and commencement[^key-7174f13cd58697c8954a88cfa9f28783]
+
+(1) These Regulations may be cited as the UK Border Agency (Complaints and Misconduct) Regulations 2010 and shall come into force on the 7th April 2010.
+
+## 2. Interpretation[^key-9da8ed1f343f6c7a37d0b6c50da7d343]
+
+(1) In these Regulations—
+
+- “2002 Act” means the Police Reform Act 2002[^f00002];
+- “2009 Act” means the Borders, Citizenship and Immigration Act 2009[^f00003];
+- “2009 Regulations” means UK Border Agency (Complaints and Misconduct) Regulations 2009[^f00004];
+- “chief officer” has the meaning given in section 29 (interpretation of Part 2) of the 2002 Act;
+- “complainant” shall be construed in accordance with paragraph (7);
+- “complaint” has the meaning given by regulation 8 (complaints, matters and persons to which these Regulations apply);
+- “conduct” includes acts, omissions and statements (whether actual, alleged or inferred);
+- “conduct matter” has the meaning given by regulation 8;
+- “customs revenue contractor” means a contractor exercising specified enforcement functions in relation to customs revenue functions within the meaning of section 7 (customs revenue functions of the Director) of the 2009 Act;
+- “customs revenue official” means a person designated as a customs revenue official under section 11 (designation of customs revenue officials) of the 2009 Act;
+- “Director General” means the Director General of the Independent Office for Police Conduct;[^key-7eff48fc9fd073f926c7260f3c525dc1]
+- “DSI matter” means a “death or serious injury matter” and has the meaning given by regulation 8;
+- “Director of Border Revenue” has the meaning given by section 6 (the Director of Border Revenue) of the 2009 Act;
+- “disciplinary proceedings” means any proceedings or management process during which the conduct of a relevant officer, relevant official of the Secretary of State, relevant contractor, official exercising customs revenue functions or customs revenue contractor is considered in order to determine whether a sanction or punitive measure should be imposed against that person in relation to that conduct;
+- “document” means anything in which information of any description is recorded;
+- “human rights claim” has the same meaning as in section 113 of the Nationality, Immigration and Asylum Act 2002;[^key-8c8babe4df1df1e6f30b38916b99eda5]
+- [^key-816179dac7882e65405f6ab80a1bd59d]...
+- “IOPC” means the Independent Office for Police Conduct
+- [^key-1dc261b0980d04fd7afe1329e8e95c46]...
+- “official exercising customs revenue functions” means a customs revenue official or an official of the Secretary of State otherwise exercising customs revenue functions within the meaning of section 7 (customs revenue functions of the Director) of the 2009 Act;
+- “the person complained against”, in relation to a complaint, means the person whose conduct is the subject-matter of the complaint;
+- “the person investigating”, in relation to a complaint, recordable conduct matter or DSI matter, means the person appointed or designated to investigate that complaint or matter or part of that complaint or matter;
+- “protection status” and “protection claim” have the same meaning as in section 82(2) of the Nationality, Immigration and Asylum Act 2002;[^key-fad9383a6826bd72655e251bdf398c44]
+- “recordable conduct matter” means—
+  - (a) a conduct matter that is required to be recorded by the relevant appropriate authority under regulation 17 (conduct matters arising in civil proceedings) or 18 (recording etc. of conduct matters in other cases), or has been so recorded; or
+  - (b) any matter brought to the attention of the relevant appropriate authority under regulation 13 (initial handling and recording of complaints);
+- “relevant appropriate authority”—
+  - (a) in relation to any complaint, conduct matter, DSI matter or investigation under Part 5 of these Regulations relating to the conduct of
+    - (i) a relevant officer;
+    - (ii) a relevant official of the Secretary of State; or
+    - (iii) a relevant contractor
+
+    means the Secretary of State; and
+  - (b) in relation to any complaint, conduct matter, DSI matter or investigation under Part 5 of these Regulations relating to the conduct of
+    - (i) an official exercising customs revenue functions; or
+    - (ii) a customs revenue contractor
+    - (iii) means the Director of Border Revenue.
+- “relevant contractor” means—
+  - (a) a contractor exercising specified enforcement functions in relation to immigration or asylum; or
+  - (b) a contractor exercising specified enforcement functions in relation to general customs functions within the meaning of Part 1 of the 2009 Act.
+- “relevant officer” means an immigration officer exercising specified enforcement functions;
+- “relevant official of the Secretary of State” means—
+  - (i) (i) an official of the Secretary of State exercising specified enforcement functions in relation to immigration or asylum; or
+  - (ii) (ii) an official of the Secretary of State exercising general customs functions within the meaning of Part 1 of the 2009 Act.
+- “serious injury” means a fracture, a deep cut, a deep laceration or an injury causing damage to an internal organ or the impairment of any bodily function, or as defined in guidance issued by the Director General[^key-e2cd94bbe08bc555d530eb521924c6ad]; and
+- “UKBA” means the UK Border Agency.
+
+(2) In these Regulations “specified enforcement functions” means subject to paragraph (3)—
+
+- (a) powers of entry;
+- (b) powers to search persons and property;
+- (c) powers to seize or detain property;
+- (d) powers to arrest persons;
+- (e) powers to detain persons;
+- (f) powers to examine persons or otherwise obtain information (including powers to take fingerprints or to acquire other personal data); and
+- (g) powers in connection with the removal of persons from the United Kingdom;
+- (h) and include the exercise of such functions in connection with any authorisation granted under Part 2 (surveillance and covert human intelligence sources) of the Regulation of Investigatory Powers Act 2000[^f00006]..
+
+(3) The following shall not be regarded as an enforcement function—
+
+- (i) the making of an immigration decision;
+- (ii) the making of any decision to grant or refuse a person’s protection or human rights claim, or to revoke a person’s protection status; or
+- (iii) the giving of any direction to remove persons from the United Kingdom.
+
+(4) In these Regulations, references to “the relevant officer”, “the relevant official of the Secretary of State”, the “relevant contractor”, the “official exercising customs revenue functions” and the “customs revenue contractor” in relation to a DSI matter, mean the relevant officer, relevant official of the Secretary of State, relevant contractor, official exercising customs revenue functions and the customs revenue contractor:
+
+- (a) who arrested the person who has died or suffered serious injury,
+- (b) in whose custody that person was at the time of the death or serious injury, or
+- (c) with whom that person had the contact in question;
+
+and where there is more than one such officer it means, subject to paragraph (5), the one who so dealt with that person last before the death or serious injury occurred.
+
+(5) Where it cannot be determined which of two or more officers dealt with a person last before a death or serious injury occurred, the relevant officer, relevant official of the Secretary of State, relevant contractor, official exercising customs revenue functions or customs revenue contractor will be the most senior of them.
+
+(6) In these Regulations, references to “the complainant” in relation to anything which is or purports to be a complaint, are references to a person referred to in regulation 8(1), except in relation to complaints made by a person referred to in regulation 8(1)(d) where the complainant will be the person on whose behalf the complaint or purported complaint was made.
+
+(7) For the purposes of these Regulations, a person is adversely affected if that person suffers any form of loss or damage, distress or inconvenience, if that person is put in danger or if that person is otherwise unduly put at risk of being adversely affected.
+
+(8) References in these Regulations to the investigation of any complaint or matter by the relevant appropriate authority on its own behalf, under the supervision of the Director General[^key-03a5a2c8fe7457a885e5772b0b4bb684], under the management of the Director General or by the Director General [^key-8a9d0f5653619ec1eef81e2d37916109]... shall be construed as references to its investigation in accordance with regulations 37 (investigations by the relevant appropriate authority on its own behalf), 39 (investigations supervised by the Director General), 40 (investigations by a police force under the management or under the supervision of the Director General), 41 (investigations managed by the Director General) or, as the case may be, 42 (investigations by the Director General [^key-8a9d0f5653619ec1eef81e2d37916109]...).
+
+## 3. Application: general[^key-ffe49e6414e5ccf5303c005eeec23084]
+
+(1) Subject to regulations 6 (general functions of the Director General) and 72 (revocation of the 2009 Regulations, saving and transitional provisions), the Director General shall have functions in relation to relevant officers, relevant officials of the Secretary of State, relevant contractors, officials exercising customs revenue functions and customs revenue contractors in, or in relation to, England and Wales.
+
+(2) The Director General shall not have functions in relation to the exercise of a function conferred on a relevant officer, an official of the Secretary of State exercising specified enforcement functions in relation to immigration or asylum, or a relevant contractor exercising specified enforcement functions in relation to immigration or asylum by or under Part 8 (detention centres and detained persons) of the Immigration and Asylum Act1999[^f00007].
+
+## PART 1 — COMPLAINTS AND MISCONDUCT
+
+### 4. Application of the Police Reform Act 2002[^key-f1864d12cee046e5b97f6d27a7236a5f]
+
+(1) Sections 9 (the Independent Office for Police Conduct[^key-6d4ec237a3e26172e8dd01a514bf0490]), 19 (use of investigatory powers by or on behalf of the Director General), 22 (power of the Director General to issue guidance), 23 (regulations), 24 (consultation on regulations) and 27 (conduct of the Director General’s’[^key-9e4e28b375c86afb83ac31fe3127ce6d] staff) of the 2002 Act shall apply in relation to the relevant appropriate authority with the following modifications.
+
+(2) In section 22[^f00008] of the 2002 Act—
+
+- (a) for subsection (1) substitute—
+
+  > (1) The Director General[^key-ab90307f5e6620ff2cb35a5aabe9554b] may issue guidance to the relevant appropriate authority and any person the Director General[^key-d0389e613ef1337eb2b0a85c2da9837c] sees fit concerning the exercise or performance, by the persons to whom the guidance is issued, of any of the powers or duties specified in subsection (2).
+
+  .
+- (b) In subsection (2)[^f00009], in paragraph (b)(iii)—
+
+  > - (b)
+  >   - (iii) for “persons serving with the police” substitute “relevant officers, relevant officials of the Secretary of State, relevant contractors, officials exercising customs revenue functions or customs revenue contractors
+
+  .
+- (c) for subsection (3)[^f00010] substitute—
+
+  > (3) Before issuing any guidance under this section, the Director General shall consult the relevant appropriate authority and any person the Director General sees fit.
+
+  .
+
+(3) In section 23[^f00011] of the 2002 Act—
+
+- (a) In subsection (2)(k)[^f00012], for “a person serving with the police” substitute “a relevant officer, relevant official of the Secretary of State, relevant contractor, official exercising customs revenue functions or customs revenue contractor”.
+- (b) In subsection (2)(n), for “ local policing bodies[^key-f3d4220c7638d10a353a6d04f39e8da7] and chief officers” substitute “the Secretary of State”.
+- (c) In subsection (2)(p)—
+  - (i) for “chief officers” substitute “the relevant appropriate authority”; and
+  - (ii) for “them” substitute “it”.
+
+(4) In section 24[^f00013] of the 2002 Act—
+
+- (a) At the end of paragraph (a) insert “and”;
+- (b) Omit paragraphs (b) and (c).
+
+**5.**[^key-dbb77258cfce5184ff10448e138f9b88] (1) Paragraph 6 (staff) of Schedule 2 (the Independent Office for Police Conduct) to the 2002 Act shall apply in relation to the relevant appropriate authority and the IOPC[^key-3d8854b86b096c70fcfa9d0fc7a0df29] may make arrangements with the relevant appropriate authority under which persons are engaged on temporary service with the IOPC .
+
+### 6. General functions of the Director General[^key-ed367898b9bcfc299aa2b7c6a29dc042]
+
+(1) The functions of the Director General in relation to the relevant appropriate authority, shall be—
+
+- (a) to secure the maintenance by the Director General [^key-7865e10280e7416a944db6c12f9c1b71]..., and by the relevant appropriate authority, of suitable arrangements with respect to the matters mentioned in paragraph (2);
+- (b) to keep under review all arrangements maintained with respect to those matters;
+- (c) to secure that arrangements maintained with respect to those matters comply with the requirements of the provisions of this Part, are efficient and effective and contain and manifest an appropriate degree of independence;
+- (d) to secure that public confidence is established and maintained in the existence of suitable arrangements with respect to those matters and with the operation of the arrangements that are in fact maintained with respect to those matters;
+- (e) to make such recommendations, and to give such advice, for the modification of the arrangements maintained with respect to those matters, as appear, from the carrying out by the Director General of the Director General’s[^key-20203c926e77520136ffbd8ffe579fe8] other functions, to be necessary or desirable.
+
+(2) Those matters are—
+
+- (a) the handling of complaints made about the conduct of relevant officers, relevant officials of the Secretary of State, relevant contractors, officials exercising customs revenue functions and customs revenue contractors which the relevant appropriate authority—
+  - (i) has a duty to refer to the Director General under regulation 21(1) (reference of complaints to the Director General) of these Regulations or,
+  - (ii) may refer to the Director General under regulation 21(5) or (6) (reference of complaints to the Director General) of these Regulations;
+- (b) the recording of matters from which it appears that—
+  - (i) there may have been conduct by such persons which constitutes or involves the commission of a criminal offence or behaviour justifying disciplinary proceedings, and
+  - (ii) that conduct or behaviour is conduct or behaviour which the relevant appropriate authority has a duty to refer to the Director General under regulation 23(1) (reference of conduct matters to the Director General) or may refer to the Director General under regulation 23(4) or (5) of these Regulations;
+- (c) the recording of matters from which it appears that a person has died or suffered serious injury during, or following, contact with a relevant officer, relevant official of the Secretary of State, relevant contractor, official exercising customs revenue functions or customs revenue contractor;
+- (d) the manner in which any such complaints or any such matters as are mentioned in paragraph (b) or (c) are investigated or otherwise handled and dealt with.
+
+(3) It shall be the duty of the Director General—
+
+- (a) to exercise the powers and perform the duties conferred on the Director General by the following provisions of these Regulations in the manner that the Director General considers best calculated for the purpose of securing the proper carrying out of the Director General’s functions under paragraph (1); and
+- (b) to secure that arrangements exist which are conducive to, and facilitate, the reporting of misconduct by persons in relation to whose conduct the Director General has functions.
+
+(4) In carrying out the Director General’s functions under paragraph (1)(d) and (e) the Director General shall only have regard to the following matters—
+
+- (a) the handling of complaints which—
+  - (i) fall within regulation 21(1) of these Regulations;
+  - (ii) the Director General has notified the relevant appropriate authority the Director General requires to be referred to the Director General for the Director General’s consideration; or
+  - (iii) the relevant appropriate authority has referred to the Director General on the grounds that it would be appropriate to do so by reason of—
+    - (aa) the gravity of the subject matter of the complaint; or
+    - (bb) any exceptional circumstances;
+- (b) the recording of conduct matters which—
+  - (i) fall within regulation 23(1) of these Regulations;
+  - (ii) the Director General has notified the relevant appropriate authority the Director General requires to be referred to the Director General for the Director General’s consideration;
+  - (iii) the relevant appropriate authority has referred to the Director General on the grounds that it would be appropriate to do so by reason of—
+    - (aa) the gravity of the subject matter of the complaint; or
+    - (bb) any exceptional circumstances;
+- (c) the recording of a DSI matter; and
+- (d) the manner in which any such complaints or any such matters mentioned in paragraph (b) or (c) are investigated or otherwise handled and dealt with.
+
+(5) It shall be the duty of the Director General—
+
+- (a) to exercise the powers and perform the duties conferred on the Director General by the provisions of these Regulations in the manner that the Director General considers best calculated for the purpose of securing the proper carrying out of the Director General’s functions under paragraph (1); and
+- (b) to secure that arrangements exist which are conducive to, and facilitate, the reporting of misconduct by persons in relation to whose conduct the Director General has functions.
+
+(6) It shall also be the duty of the Director General to carry out the Director General’s functions under paragraph (1) in relation to the following:
+
+- (a) any DSI matter;
+- (b) those complaints falling within paragraph 4(a);
+- (c) those conduct matters falling within paragraph 4(b);
+- (d) those complaints or recordable conduct matters which the Director General has notified the relevant appropriate authority that the Director General requires to be referred to the Director General for the Director General’s consideration;
+- (e) those complaints or recordable conduct matters that the relevant appropriate authority has referred to the Director General on the grounds that it would be appropriate to do so by reason of —
+  - (i) the gravity of the subject-matter of the complaint; or
+  - (ii) any exceptional circumstances; and
+- (f) any matter that is subject to any of the appeal rights set out in Part 8 (appeals) of these Regulations.
+
+(7) It shall also be the duty of the Director General—
+
+- (a) to enter into arrangements with the Chief Inspector of the UKBA for the purpose of securing co-operation, in the carrying out of their respective functions, between the Chief Inspector of the UKBA, Her Majesty’s Chief Inspector of Prisons, and the Prison and Probation Ombudsman in relation to the exercise of functions by relevant officials, relevant officers of the Secretary of State, relevant contractors, officials exercising customs revenue functions and customs revenue contractors; and
+- (b) to provide those persons with all such assistance and co-operation as may be required by those arrangements, or as otherwise appears to the Director General to be appropriate, for facilitating the carrying out by those persons of their functions.
+
+(7A)[^key-dfcde60cb8be2233e11238a06b58b8b3] In carrying out functions in relation to the relevant appropriate authority the Director General shall have regard to any advice provided to the Director General by the IOPC (see regulation 6A(1)(a)).
+
+(8) Subject to the other provisions of these Regulations, the Director General may do anything which appears to the Director General to be calculated to facilitate, or is incidental or conducive to, the carrying out of the Director General’s functions under these Regulations.
+
+(9) The IOPC[^key-1a9ce02cdc45efa61bfa89783f103ec6] may, in connection with the making of any recommendation or the giving of any advice to any person for the purpose of carrying out its functions under paragraph (1)(c), (d) or (e), impose any such charge on that person for anything done by the Director General for the purposes of, or in connection with, the carrying out of that function as it thinks fit.
+
+(10) Nothing in these Regulations shall confer any function on the Director General in relation to so much of any complaint or conduct matter as relates to the direction and control of a relevant officer, relevant official of the Secretary of State, relevant contractor, official exercising customs revenue functions or customs revenue contractor.
+
+### 6A. General Functions of the IOPC[^key-0ce7a5062fb79be1f7a2dddaf5c08417]
+
+(1) The functions of the IOPC in relation to the relevant appropriate authority are—
+
+- (a) to provide support and advice to the Director General in the carrying out of the Director General’s functions under these Regulations, and
+- (b) to monitor and review the carrying out of such functions.
+
+(2) The IOPC is to perform its functions under these Regulations for the general purpose of improving the way in which the Director General’s functions under these Regulations are carried out (including by encouraging the efficient and effective use of resources in the carrying out of those functions).
+
+(3) In carrying out its functions under these Regulations the IOPC must in particular have regard to public confidence in the existence of suitable arrangements with respect to the matters mentioned in regulation 6(2) and with the operation of the arrangements that are in fact maintained with respect to those matters.
+
+(4) The IOPC may do anything which appears to it to be calculated to facilitate, or is incidental to, the carrying out of its functions under these Regulations.
+
+### 6B. Efficiency etc. in exercise of functions
+
+The Director General and the IOPC must carry out their functions under these Regulations efficiently and effectively.
+
+### 7. Reports to the Secretary of State[^key-c81605fc287bfad166a6f322d16dd888]
+
+(1)[^key-ef981dc0b139c050e0f259d0e524a3af] As soon as practicable after the end of each of the IOPC’s financial years, the Director General and the IOPC must jointly make a report to the Secretary of State on the carrying out of their functions under these Regulations during that year.
+
+(2) The Director General shall also make such reports to the Secretary of State about matters relating generally to the carrying out of the Director General’s functions under these Regulations as the Secretary of State may, from time to time, require.
+
+(3) The Director General may, from time to time, make such other reports to the Secretary of State as the Director General considers appropriate for drawing the Secretary of State’s attention to matters which—
+
+- (a) have come to the Director General’s’ notice; and
+- (b) are matters that the Director General considers should be drawn to the Secretary of State’s attention by reason of their gravity or of other exceptional circumstances.
+
+(4) The Director General shall prepare such reports containing advice and recommendations as the Director General thinks appropriate for the purpose of carrying out the Director General’s function under regulation 6(1)(e) (general functions of the Director General).
+
+(5) Where the Secretary of State receives any report under this regulation, the Secretary of State shall—
+
+- (a) in the case of every annual report under paragraph (1), and
+- (b) in the case of any other report, if and to the extent that the Secretary of State considers it appropriate to do so,
+
+lay a copy of the report before Parliament and cause the report to be published.
+
+(6)[^key-a6803c29ee10478da78cf73e37014f08] The IOPC must send a copy of every report under paragraph (1) to the Secretary of State and the relevant appropriate authority.
+
+(6A) The Director General must send a copy of every report under paragraphs (3) and (4) to the Secretary of State and the relevant appropriate authority.
+
+(7) The Director General shall send a copy of every report made or prepared by the Director General under paragraphs (3) or (4) to such of the persons (in addition to those specified in the preceding paragraphs) who—
+
+- (a) are referred to in the report, or
+- (b) appear to the Director General otherwise to have a particular interest in its contents,
+
+as the Director General thinks fit.
+
+### 8. Complaints, matters and persons to which these Regulations apply[^key-e31b7918d401805803241f8407507be6]
+
+(1) In these Regulations references to a complaint are references (subject to the following provisions of this regulation) to any complaint about the conduct of a relevant officer, relevant official of the Secretary of State, relevant contractor, official exercising customs revenue functions or customs revenue contractor which is made (whether in writing or otherwise) by—
+
+- (a) a member of the public who claims to be the person in relation to whom the conduct took place;
+- (b) a member of the public not falling within sub-paragraph (a) who claims to have been adversely affected by the conduct;
+- (c) a member of the public who claims to have witnessed the conduct;
+- (d) a person acting on behalf of a person falling within any of sub-paragraphs (a) to (c).
+
+(2) In these Regulations “conduct matter” means (subject to the following provisions of this regulation and regulation 13(2) (initial handling and recording of complaints)) any matter which is not and has not been the subject of a complaint but in the case of which there is an indication (whether from the circumstances or otherwise) that a relevant officer, relevant official of the Secretary of State, relevant contractor, official exercising customs revenue functions or customs revenue contractor may have—
+
+- (a) committed a criminal offence; or
+- (b) behaved in a manner which would justify the bringing of disciplinary proceedings.
+
+(3) In these Regulations “DSI matter” means any circumstances (other than those which are or have been the subject of a complaint or which amount to a conduct matter)—
+
+- (a) in or in consequence of which a person has died or has sustained serious injury; and
+- (b) in relation to which the requirements of either paragraph (4) or (5) are satisfied.
+
+(4) The requirements of this paragraph are that at the time of the death or serious injury the person—
+
+- (a) had been arrested by a relevant officer, relevant official of the Secretary of State, relevant contractor, official exercising customs revenue functions or customs revenue contractor and had not been released from that arrest; or
+- (b) was otherwise detained in the custody of a relevant officer, relevant official of the Secretary of State, relevant contractor, official exercising customs revenue functions or customs revenue contractor.
+
+(5) The requirements of this paragraph are that—
+
+- (a) at or before the time of the death or serious injury the person had contact (of whatever kind, and whether direct or indirect) with a relevant officer, relevant official of the Secretary of State, relevant contractor, official exercising customs revenue functions or customs revenue contractor; and
+- (b) there is an indication that the contact may have caused (whether directly or indirectly) or contributed to the death or serious injury.
+
+(6) The complaints that are complaints for the purposes of these Regulations by virtue of paragraph (1)(b) do not, except in a case falling within paragraph (8), include any made by or on behalf of a person who claims to have been adversely affected as a consequence only of having seen or heard the conduct, or any of the alleged effects of the conduct.
+
+(7) A case falls within this paragraph if—
+
+- (a) it was only because the person in question was physically present, or sufficiently nearby, when the conduct took place or the effects occurred that the person was able to see or hear the conduct or its effects; or
+- (b) the adverse effect is attributable to, or was aggravated by, the fact that the person in relation to whom the conduct took place was already known to the person claiming to have suffered the adverse effect.
+
+(8) For the purposes of this regulation a person shall be taken to have witnessed conduct if, and only if—
+
+- (a) the person’s knowledge of that conduct was acquired in a manner which would make that person a competent witness capable of giving admissible evidence of that conduct in criminal proceedings; or
+- (b) the person had possession or control of anything which would in any such proceedings constitute admissible evidence of that conduct.
+
+(9) For the purposes of these Regulations a person falling within paragraph 1(a) to (c) shall not be taken to have authorised another person to act on that person’s behalf unless—
+
+- (a) the person so acting is for the time being designated for the purposes of this regulation by the Director General as a person through whom complaints may be made, or is of a description of persons so designated; or
+- (b) the person so acting has been given, and is able to produce, the written consent of the person on whose behalf the person is taking action.
+
+### 9. Direction and control matters[^key-0eb156b6dcf3e4bb545a532239ce0601]
+
+(1) Nothing in these Regulations shall have effect with respect to so much of any complaint as relates to the direction and control of a relevant officer, relevant official of the Secretary of State, relevant contractor, official exercising customs revenue functions or customs revenue contractor.
+
+(2) The Secretary of State may issue guidance to any person he sees fits about the handling of so much of a complaint as relates to the direction and control of a relevant officer, relevant official of the Secretary of State, relevant contractor, official exercising customs revenue functions or customs revenue contractor.
+
+### 10. Co-operation, assistance and information[^key-deb780fc914bbc3d37479a74ffbabf95]
+
+(1) It shall be the duty of the relevant appropriate authority, the Chief Inspector of the UKBA, Her Majesty’s Chief Inspector of Prisons and Her Majesty’s Inspectorate of Constabulary to ensure that they are kept informed, in relation to relevant officers, relevant officials of the Secretary of State, relevant contractors, officials exercising customs revenue functions and customs revenue contractors, about all matters falling within paragraph (2).
+
+(2) Those matters are—
+
+- (a) matters with respect to which any provision of these Regulations has effect;
+- (b) anything which is done under or for the purposes of any such provision; and
+- (c) any obligations to act or refrain from acting that have arisen by or under these Regulations but have not yet been complied with, or have been contravened.
+
+(3) Where the relevant appropriate authority requires a chief officer to provide a member of his force for appointment under regulation 38 (investigation by a police force at the request of the relevant appropriate authority) or where the Director General requires the chief officer to provide a member of his force for appointment under regulation 40 (investigation by a police force under the management or under the supervision of the Director General), it shall be the duty of the chief officer to whom the requirement is addressed to comply with it.
+
+(4) It shall be the duty of the Secretary of State, the relevant appropriate authority, a local policing body[^key-08023bd9dd96fc53f5538bbafe81c298] maintaining a police force within which a person is appointed under regulation 38 or 40 and the chief officer of a police force appointed under regulation 38 or 40 to provide—
+
+- (a) the Director General and every member of the IOPC’s[^key-79aaaba952f320f5cb25e9a7a08261aa] staff with all such assistance and co-operation as the Director General or that member of staff may reasonably require for the purposes of, or in connection with, the carrying out of any investigation by the Director General under these Regulations; and
+- (b) the relevant appropriate authority and every member of the relevant appropriate authority’s staff with all such assistance and co-operation as the relevant appropriate authority or those members of staff may reasonably require for the purposes of, or in connection with, the carrying out of any investigation by the relevant appropriate authority under these Regulations.
+
+(5) It shall be the duty of the relevant appropriate authority to ensure that a person appointed under regulations 38, 39 (investigations supervised by the Director General), 40, 41 (investigations managed by the Director General) and 42 (investigations by the Director General [^key-5ae3d0f0c0e811ce705f8c5a38da45e8]...) to carry out an investigation or part of an investigation is given all such assistance and co-operation in the carrying out of that investigation as that person may reasonably require.
+
+### 11. Payment for assistance with investigations[^key-442f5021b7bbde4a3b1bb75698197d0d]
+
+(1) This regulation applies where—
+
+- (a) a police force is required to provide assistance in connection with an investigation under Part 5 of these Regulations (investigations);
+- (b) a police force is required to provide the Director General with assistance in connection with an investigation; or
+- (c) a police force provides assistance by agreement under regulation 38(2) (investigation by a police force at the request of the relevant appropriate authority)or 40(2) (investigation by a police force under the management or under the supervision of the Director General) of these Regulations.
+
+(2) For the purposes of this regulation assistance is required to be provided by a police force in connection with an investigation under Part 5 of these Regulations if the chief officer of that force complies with a requirement under regulation 10(4) (co-operation, assistance and information) that is made in connection with—
+
+- (i) an investigation relating to the conduct of a person who, at the time of the conduct, was a relevant officer, relevant official of the Secretary of State, relevant contractor, official exercising customs revenue functions, or customs revenue contractor; or
+- (ii) an investigation of a DSI matter in relation to which the person being investigated was, at the time of the death or serious injury, a relevant officer, relevant official of the Secretary of State, relevant contractor, official exercising customs revenue functions or customs revenue contractor.
+
+(3) Where the assistance is required to be provided by a police force to a relevant appropriate authority it shall pay to the local policing body[^key-68641ef21f3ddc30aef891e8a6eaeded] maintaining that force such contribution towards the costs of the assistance—
+
+- (a) as may be agreed between them; or
+- (b) in the absence of an agreement, as may be determined in accordance with any arrangements which—
+  - (i) have been agreed to by local policing bodies[^key-65c187f91df1f8220d5fcaffda2b1fda] generally and the Secretary of State; and
+  - (ii) are for the time being in force with respect to the making of contributions towards the costs of assistance provided, in connection with investigations under Part 5 of these Regulations; or
+- (c) in the absence of any such arrangements, as may be determined by the Secretary of State.
+
+(4) Paragraph (3) shall have effect in relation to assistance which a police force provides by agreement under regulation 38(2) or 40(2) as if the reference in that subsection to required to be provided were a reference to provided by agreement under regulation 38(2) or 40(2).
+
+(5) Where the assistance is required to be provided by a police force to the Director General, the IOPC[^key-a78bc44b092ffdfb53c2a42de9d48975] shall pay to the local policing body maintaining that force such contribution (if any) towards the costs of the assistance—
+
+- (a) as may be agreed between the Director General and that authority; or
+- (b) in the absence of an agreement, as may be determined in accordance with any arrangements which—
+  - (i) have been agreed to by local policing bodies generally and by the Director General; and
+  - (ii) are for the time being in force with respect to the making of contributions towards the costs of assistance provided, in connection with investigations under this Part, to the Director General; or
+- (c) in the absence of any such arrangements, as may be determined by the Secretary of State.
+
+## PART 2 — HANDLING OF COMPLAINTS AND CONDUCT MATTERS ETC
+
+### 12. Duties to preserve evidence relating to complaints[^key-6ad49fa9116baf6a6c6bac6f1c610ccc]
+
+(1) Where—
+
+- (a) a complaint is made to the relevant appropriate authority about the conduct of a relevant officer, relevant official of the Secretary of State, relevant contractor, official exercising customs revenue functions or customs revenue contractor; or
+- (b) the relevant appropriate authority becomes aware that a complaint about the conduct of a relevant officer, relevant official of the Secretary of State, relevant contractor, official exercising customs revenue functions or customs revenue contractor has been made to the Director General,
+
+the relevant appropriate authority shall take all such steps as appear to the relevant appropriate authority to be appropriate for the purposes of these Regulations for obtaining and preserving evidence relating to the conduct complained of.
+
+(2) The duty of the relevant appropriate authority under paragraph (1) must be performed as soon as practicable after the complaint is made or, as the case may be, the relevant appropriate authority becomes aware of it.
+
+(3) After that, the relevant appropriate authority shall be under a duty, until satisfied that it is no longer necessary to do so, to continue to take the steps which from time to time appear to the relevant appropriate authority to be appropriate for the purposes of these Regulations for obtaining and preserving evidence relating to the conduct complained of.
+
+(4) It shall be the duty of the relevant appropriate authority to take all such specific steps for obtaining or preserving evidence relating to any conduct that is the subject-matter of a complaint as the relevant appropriate authority may be directed to take for the purposes of this regulation by the Director General.
+
+### 13. Initial handling and recording of complaints[^key-0c5fbb03c4fce55fecb23b810da0bf65]
+
+(1) Where a complaint is made to the Director General—
+
+- (a) it shall ascertain whether the complainant is content for the relevant appropriate authority to be notified of the complaint; and
+- (b) it shall give notification of the complaint to the relevant appropriate authority if the complainant is so content.
+
+(2) Where the Director General—
+
+- (a) is prevented by paragraph (1) from notifying any complaint to the relevant appropriate authority, and
+- (b) considers that it is in the public interest for the subject-matter of the complaint to be brought to the attention of the relevant appropriate authority and recorded under regulation 20 (recording and reference of conduct matters),
+
+the Director General may bring that matter to the relevant appropriate authority’s attention under that regulation as if it were a recordable conduct matter, and (if the Director General does so) the following provisions of these Regulations shall have effect accordingly as if it were such a matter.
+
+(3) Where the Director General, or relevant appropriate authority gives notification of a complaint under paragraphs (1) or (2) or the Director General brings any matter to the relevant appropriate authority’s attention under paragraph (4), the person who gave the notification, or, as the case may be, the Director General shall notify the complainant—
+
+- (a) that the notification has been given and of what it contained; or
+- (b) that the matter has been brought to the relevant appropriate authority’s attention to be dealt with otherwise than as a complaint.
+
+(4) Where a matter is brought to the relevant appropriate authority’s attention, the relevant appropriate authority shall record the complaint.
+
+(5) Nothing in this regulation shall require the notification or recording by any person of any complaint about any conduct if—
+
+- (a) that person is satisfied that the subject-matter of the complaint has been, or is already being, dealt with by means of criminal or disciplinary proceedings against the person whose conduct it was; or
+- (b) the complaint has been withdrawn.
+
+### 14. Keeping of records[^key-0511e2faf3c55945fa35637057cc9e6d]
+
+(1) The relevant appropriate authority shall keep records, in such form as the Director General shall determine, of—
+
+- (a) every complaint and purported complaint that is made to the relevant appropriate authority;
+- (b) every conduct matter recorded by the relevant appropriate authority under regulation 17(3) (conduct matters arising in civil proceedings); and
+- (c) every DSI matter recorded by the relevant appropriate authority under regulation 25 (duty to record DSI matters).
+
+### 15. Failures to notify or record a complaint[^key-93880fa51f3373ff3cde0da5fc87426b]
+
+(1) This regulation applies where anything which is or purports to be a complaint has effect as being received by the relevant appropriate authority (whether in consequence of having been made directly to the relevant appropriate authority or by way of a notification under regulation 13(1) (initial handling and recording of complaints)).
+
+(2) If the relevant appropriate authority decides not to take action under regulation 13 for notifying or recording the whole or any part of what has been received, the relevant appropriate authority shall notify the complainant of the following matters—
+
+- (a) the decision to take no action and, if that decision relates to only part of what was received, the part in question;
+- (b) the grounds on which the decision was made; and
+- (c) whether the complainant has a right to appeal against that decision under this regulation.
+
+(3) The complainant shall have a right of appeal to the Director General against any failure by the relevant appropriate authority to make a determination under regulation 13 or to notify or record anything under that regulation if the failure is in respect of conduct which the relevant appropriate authority is required to refer to the Director General under regulation 21(1)(a) or (b) (reference of complaints to the Director General).
+
+(4) On an appeal under this regulation, the Director General shall—
+
+- (a) determine whether any action under regulation 13 should have been taken in the case in question; and
+- (b) if the Director General finds in the complainant’s favour, give such directions as the Director General considers appropriate to the relevant appropriate authority as to the action to be taken for making a determination, or for notifying or recording what was received;
+
+and it shall be for the relevant appropriate authority to comply with any directions given under sub paragraph (b).
+
+(5) Directions under paragraph (4)(b) may require action taken in pursuance of the directions to be treated as taken in accordance with any such provision of regulation 13 as may be specified in the direction.
+
+(6) The Director General—
+
+- (a) shall give notification to the relevant appropriate authority and the complainant of any determination made by the Director General under this regulation; and
+- (b) shall give notification to the complainant of any direction given by the Director General under this regulation to the relevant appropriate authority.
+
+### 16. Handling of complaints by the relevant appropriate authority[^key-294522cef795ccec4b3ae0a4b9cde0f5]
+
+(1) This regulation applies where a complaint has been recorded by the relevant appropriate authority unless the complaint—
+
+- (a) is one which has been, or must be, referred to the Director General under regulation 21 (reference of complaints to the Director General); and
+- (b) is not for the time being either referred back to the authority under regulation 22 (duties of the Director General on references under regulation 21) or the subject of a determination under regulation 31 (power of the Director General to determine the form of an investigation).
+
+(2) The relevant appropriate authority shall not be required by virtue of any provisions of this regulation to take any action in relation to the complaint but may handle the complaint in whatever manner it thinks fit or take no action in relation to the complaint.
+
+### 17. Conduct matters arising in civil proceedings[^key-51d04a8dd7021058ef7bc85217b95bf8]
+
+(1) This regulation applies where—
+
+- (a) the relevant appropriate authority has received notification (whether or not under this regulation) that civil proceedings relating to any matter have been brought by a member of the public against the Secretary of State or the Director of Border Revenue, or it otherwise appears to the relevant appropriate authority that such proceedings are likely to be so brought; and
+- (b) it appears to the relevant appropriate authority (whether at the time of the notification or at any time subsequently) that those proceedings involve or would involve a conduct matter.
+
+(2) Where the relevant appropriate authority becomes aware that those proceedings involve or would involve a conduct matter, the relevant appropriate authority shall record that matter.
+
+(3) Where the relevant appropriate authority records any matter under this regulation it—
+
+- (a) shall first determine whether the matter is one which it is required to refer to the Director General under regulation 23 (reference of conduct matters to the Director General) or is one which it would be appropriate to so refer; and
+- (b) if it is not required so to refer the matter and does not do so, may deal with the matter in such other manner (if any) as it may determine.
+
+(4) Nothing in paragraph (3) shall require the relevant appropriate authority to record any conduct matter if it is satisfied that the matter has been, or is already being, dealt with by means of criminal or disciplinary proceedings against the person to whose conduct the matter relates.
+
+(5) For the purposes of this regulation civil proceedings involve a conduct matter if—
+
+- (a) they relate to such a matter; or
+- (b) they are proceedings that relate to a matter in relation to which a conduct matter, or evidence of a conduct matter, is or may be relevant.
+
+### 18. Recording etc. of conduct matters in other cases[^key-2f21491d971b845d2d86333dba6f1a05]
+
+(1) Where—
+
+- (a) a conduct matter comes (otherwise than as mentioned in regulation 17 (conduct matters arising in civil proceedings)) to the attention of the relevant appropriate authority; and
+- (b) it appears to the relevant appropriate authority that the conduct involved in that matter falls within paragraph (2)
+
+it shall be the duty of the relevant appropriate authority to record that matter.
+
+(2) Conduct falls within this paragraph if (assuming it to have taken place)—
+
+- (a) it appears to have resulted in the death of any person or in serious injury to any person; or
+- (b) it is of a description specified in paragraph (3).
+
+(3) The following descriptions of conduct are specified for the purposes of paragraph (2)—
+
+- (a) a serious assault, as defined in guidance issued by the Director General;
+- (b) a serious sexual offence, as defined in guidance issued by the Director General;
+- (c) serious corruption, as defined in guidance issued by the Director General;
+- (d) a criminal offence or behaviour aggravated by discriminatory behaviour on the grounds of a person’s race, sex, religion, or other status identified in guidance issued by the Director General[^key-3a3ac9274f11ba24f69ed62acef04bd1];
+- (e) a complaint which refers to an allegation of an infringement of Article 2 or 3 of the European Convention on Human Rights;
+- (f) conduct whose gravity or other exceptional circumstances make it appropriate to record the matter in which the conduct is involved; or
+- (g) conduct which is alleged to have taken place in the same incident as one in which conduct within sub-paragraph (a) to (e) is alleged.
+
+(4) Where the relevant appropriate authority records any matter under this regulation it—
+
+- (a) shall first determine whether the matter is one which it is required to refer to the Director General under regulation 23 (reference of conduct matters to the Director General) or is one which it would be appropriate to so refer; and
+- (b) if it is not required so to refer the matter and does not do so, may deal with the matter in such other manner (if any) as it may determine.
+
+(5) Nothing in paragraph (1) shall require the relevant appropriate authority to record any conduct matter if it is satisfied that the matter has been, or is already being, dealt with by means of criminal or disciplinary proceedings against the person to whose conduct the matter relates.
+
+(6) If it appears to the Director General—
+
+- (a) that any matter that has come to the Director General’s attention is a recordable conduct matter, but
+- (b) that that matter has not been recorded by the relevant appropriate authority,
+
+the Director General may direct the relevant appropriate authority to record that matter; and it shall be the duty of that authority to comply with the direction.
+
+### 19. Duties to preserve evidence relating to conduct matters[^key-108ca9a1022691cc4dca54c344b7c50e]
+
+(1) Where the relevant appropriate authority becomes aware of any recordable matter relating to the conduct of a relevant officer, relevant official of the Secretary of State, relevant contractor, official exercising customs revenue functions or customs revenue contractor, it shall be its duty to take all such steps as appear to it to be appropriate for the purposes of these Regulations for obtaining and preserving evidence relating to that matter.
+
+(2) The duty of the relevant appropriate authority under paragraph (1) must be performed as soon as practicable after it becomes aware of the matter in question.
+
+(3) After that, the relevant appropriate authority shall be under a duty until it is satisfied that it is no longer necessary to do so, to continue to take the steps from time to time appearing to it to be appropriate for the purposes of these Regulations for obtaining and preserving evidence relating to the matter.
+
+(4) It shall be the duty of the relevant appropriate authority to take all such specific steps for obtaining or preserving evidence relating to any recordable conduct matter as they may be directed to take for the purposes of these Regulations by the Director General.
+
+## PART 3 — REFERRAL OF MATTERS TO THE DIRECTOR GENERAL
+
+### 20. Recording and reference of conduct matters[^key-80ef16d73fea4db67162b21cfa09b669]
+
+(1) Any conduct matter which is required to be referred to the Director General shall be referred in such manner as the Director General specifies and—
+
+- (a) if the matter falls within paragraph (1)(a) or (b) of regulation 23 (reference of conduct matters to the Director General), not later than the end of the day following the day on which it first becomes clear to the relevant appropriate authority that the conduct matter is one to which that paragraph applies, and
+- (b) if the matter falls within paragraph (1)(c) of regulation 23, not later than the end of the day following the day on which the Director General notifies the relevant appropriate authority that the conduct matter is to be referred.
+
+(2) Any DSI matter which is required to be referred to the Director General shall be referred in such manner as the Director General specifies and—
+
+- (a) in a case where the Director General directs that the matter be referred to the Director General , within time limits defined in guidance issued by the Director General, but no later than the day on which the Director General so directs;
+- (b) in any other case, within time limits defined in guidance issued by the Director General, but no later than the day on which the matter first comes to the attention of the relevant appropriate authority.
+
+### 21. Reference of complaints to the Director General[^key-77a228334d530079f2ddd91ea4cf9e92]
+
+(1) Where the complaint is—
+
+- (a) one alleging that the conduct complained of has resulted in death or serious injury;
+- (b) any complaint not falling within paragraph (a) but alleging conduct which constitutes—
+  - (i) a serious assault, as defined in guidance issued by the Director General;
+  - (ii) a serious sexual offence, as defined in guidance issued by the Director General;
+  - (iii) serious corruption, as defined in guidance issued by the Director General;
+  - (iv) a criminal offence aggravated by discriminatory behaviour on the grounds of a person’s race, sex, religion, or other status identified in guidance issued by the Director General[^key-61c8327ef133d9e7391357c92bf0205b];
+  - (v) a complaint which refers to an allegation of an infringement of Article 2 or 3 of the European Convention on Human Rights; or
+- (c) which arises from the same incident as one in which any conduct falling within paragraph (a) or (b) is alleged; or
+- (d) one in respect of which the Director General notifies the relevant appropriate authority that the Director General requires the complaint in question to be referred to the Director General for the Director General’s consideration,
+
+it shall be the duty of the relevant appropriate authority to refer the complaint to the Director General.
+
+(2) In a case where there is no obligation under paragraph (1) to make a reference, the relevant appropriate authority may refer a complaint to the Director General if that authority considers that it would be appropriate to do so by reason of—
+
+- (a) the gravity of the subject-matter of the complaint; or
+- (b) any exceptional circumstances.
+
+(3) Where a complaint is required to be referred to the Director General under paragraph (1)(a) or (b), notification of the complaint shall be given to the Director General—
+
+- (a) not later than the end of the day following the day on which it first becomes clear to the relevant appropriate authority that the complaint is one to which that sub-paragraph applies, and
+- (b) in such manner as the Director General specifies.
+
+(4) Where a complaint is required to be referred to the Director General under paragraph (1)(d), notification of the complaint shall be given to the Director General—
+
+- (a) not later than the end of the day following the day on which the Director General notifies the relevant appropriate authority that the complaint is to be referred, and
+- (b) in such manner as the Director General specifies.
+
+(5) Subject to paragraph (7), the following powers—
+
+- (a) the power of the Director General by virtue of paragraph (1)(d) to require a complaint to be referred to the Director General , and
+- (b) the power of the relevant appropriate authority to refer a complaint to the Director General under paragraph (2),
+
+shall each be exercisable at any time irrespective of whether the complaint is already being investigated by any person or has already been considered by the Director General.
+
+(6) Where the relevant appropriate authority refers a complaint to the Director General under this regulation the relevant appropriate authority shall give a notification of the making of the reference—
+
+- (a) to the complainant, and
+- (b) except in a case where it appears to the relevant appropriate authority that to do so might prejudice a possible future investigation of the complaint, to the person complained against.
+
+(7) A complaint that has already been referred to the Director General under this regulation on a previous occasion—
+
+- (a) shall not be required to be referred again under this regulation unless the Director General so directs; and
+- (b) shall not be referred in exercise of any power conferred by this regulation unless the Director General consents.
+
+(8) Where a complaint is required to be referred to the Director General under paragraph (1)(d), notification of the complaint shall be given to the Director General—
+
+- (a) not later than the end of the day following the day on which the Director General notifies the relevant appropriate authority that the complaint is to be referred, and
+- (b) in such manner as the Director General specifies.
+
+### 22. Duties of the Director General on references under regulation 21[^key-987e0e1f5869d80bf20ee91166853867]
+
+(1) It shall be the duty of the Director General in the case of every complaint referred to the Director General by the relevant appropriate authority, to determine whether or not it is necessary for the complaint to be investigated.
+
+(2) Where the Director General determines under this regulation that it is not necessary for a complaint to be investigated, the Director General may, if the Director General thinks fit, refer the complaint back to the relevant appropriate authority in accordance with paragraph (3).
+
+(3) In a case to which paragraph (2) applies the relevant appropriate authority shall not be required by virtue of any provisions of these Regulations to take any action in relation to the complaint but may handle the complaint in whatever manner it thinks fit, or take no action in relation to the complaint.
+
+(4) Where the Director General refers a complaint back under paragraph (2), the Director General shall give a notification of the making of the reference back—
+
+- (a) to the complainant, and
+- (b) to the person complained against.
+
+### 23. Reference of conduct matters to the Director General[^key-dcf143dcfc3fed47182cbbf1aea5b100]
+
+(1) It shall be the duty of the relevant appropriate authority to refer a recordable conduct matter to the Director General if, (whether or not falling within regulation 18 (recording etc. of conduct matters in other cases))—
+
+- (a) that matter relates to any incident or circumstances in or in consequence of which any person has died or suffered serious injury which has not been previously reported as a DSI matter;
+- (b) that matter is of a description specified in paragraph (2); or
+- (c) the Director General notifies the relevant appropriate authority that the Director General requires that matter to be referred to the Director General for the Director General’s consideration.
+
+(2) Any matter which relates to conduct falling within the following descriptions is specified for the purposes of paragraph (1)(b)—
+
+- (a) a serious assault, as defined in guidance issued by the Director General;
+- (b) a serious sexual offence, as defined in guidance issued by the Director General;
+- (c) serious corruption, as defined in guidance issued by the Director General;
+- (d) a criminal offence or behaviour which is liable to lead to a disciplinary sanction and which in either case was aggravated by discriminatory behaviour on the grounds of a person’s race, sex, religion, or other status identified in guidance issued by the Director General[^key-fa9f18c3d79a77eeaa9eaba6e4bee52c];
+- (e) a complaint which refers to an allegation of an infringement of Article 2 or 3 of the European Convention on Human Rights;
+- (f) conduct whose gravity or other exceptional circumstances make it appropriate to record the matter in which the conduct is involved; or
+- (g) conduct which is alleged to have taken place in the same incident as one in which conduct with sub-paragraphs (a) to (e) is alleged.
+
+(3) The obligation on the relevant appropriate authority under paragraph (1)(a) or (1)(b) to refer a recordable conduct matter arises only if it is satisfied that the matter is one in respect of which there is an indication that the person may have—
+
+- (a) committed a criminal offence; or
+- (b) behaved in a manner which would justify the bringing of disciplinary proceedings and that such behaviour (if it had taken place) would be likely to lead to the termination of that person’s office or employment.
+
+(4) In any case where there is no obligation under paragraph (1) to make a reference, the relevant appropriate authority may refer a recordable conduct matter to the Director General if that authority considers that it would be appropriate to do so by reason of—
+
+- (a) the gravity of the matter; or
+- (b) any exceptional circumstances.
+
+(5) Where there is an obligation under this regulation to refer any matter to the Director General, it must be so referred within such period as may be provided for in these Regulations.
+
+(6) The following powers—
+
+- (a) the power of the Director General by virtue of paragraph (1)(c) to require a matter to be referred to the Director General, and
+- (b) the power of the relevant appropriate authority to refer any matter to the Director General under paragraph (3) or (4),
+
+shall each be exercisable at any time irrespective of whether the matter is already being investigated by any person or has already been considered by the Director General.
+
+(7) Where—
+
+- (a) the relevant appropriate authority refers a matter to the Director General under this regulation and
+- (b) the relevant appropriate authority does not consider that to do so might prejudice a possible future investigation of that matter,
+
+it shall give a notification of the making of the reference to the person to whose conduct that matter relates.
+
+(8) A matter that has already been referred to the Director General under this regulation on a previous occasion—
+
+- (a) shall not be required to be referred again under this regulation unless the Director General so directs; and
+- (b) shall not be referred in exercise of any power conferred by this regulation unless the Director General consents.
+
+### 24. Duties of the Director General on references under regulation 23[^key-a8271c945677a0030f1c0e7af458e5db]
+
+(1) It shall be the duty of the Director General, in the case of every recordable conduct matter referred to the Director General by the relevant appropriate authority under regulation 23 (reference of conduct matters to the Director General), to determine whether or not it is necessary for the matter to be investigated.
+
+(2) Where the Director General determines under this regulation that it is not necessary for a recordable conduct matter referred by the relevant appropriate authority to be investigated, the Director General may if the Director General thinks fit refer the matter back to the relevant appropriate authority to be dealt with by that person in such manner (if any) as that person or they may determine.
+
+(3) Where—
+
+- (a) the Director General refers a matter back to the relevant appropriate authority under this regulation, and
+- (b) the Director General does not consider that to do so might prejudice a possible future investigation of that matter,
+
+the Director General shall give a notification of the making of the reference to the person to whose conduct that matter relates.
+
+## PART 4 — HANDLING DSI MATTERS
+
+### 25. Duty to record DSI matters[^key-43cc29cf1759659de932ac02dc363a95]
+
+(1) Where a DSI matter comes to the attention of the relevant appropriate authority, it shall be its duty to record that matter.
+
+(2) If it appears to the Director General—
+
+- (a) that any matter that has come to the Director General’s attention is a DSI matter, but
+- (b) that that matter has not been recorded by the relevant appropriate authority,
+
+the Director General may direct the relevant appropriate authority to record that matter; and it shall be the duty of that authority to comply with the direction.
+
+### 26. Duty to preserve evidence relating to DSI matters[^key-25175328d346ca530d09fd5de247609c]
+
+(1) Where a DSI matter comes to the attention of the relevant appropriate authority, it shall be its duty to take all such steps as appear to it to be appropriate for the purposes of these Regulations for obtaining and preserving evidence relating to that matter.
+
+(2) The relevant appropriate authority’s duty under paragraph (1) must be performed as soon as practicable after it becomes aware of the matter in question.
+
+(3) After that, it shall be under a duty, until it is satisfied that it is no longer necessary to do so, to continue to take the steps from time to time appearing to it to be appropriate for the purposes of these Regulations for obtaining and preserving evidence relating to the matter.
+
+(4) It shall be the duty of the relevant appropriate authority to take all such specific steps for obtaining or preserving evidence relating to any DSI matter as they may be directed to take for the purposes of this regulation by the Director General.
+
+### 27. Reference of DSI matters to the Director General[^key-1ec5c45c75916f86d8ef5a5985fbf615]
+
+(1) It shall be the duty of the relevant appropriate authority to refer a DSI matter to the Director General.
+
+(2) The relevant appropriate authority must do so within the period specified in regulation 21(3) (reference of complaints to the Director General).
+
+(3) A matter that has already been referred to the Director General under this regulation on a previous occasion shall not be required to be referred again under this regulation unless the Director General so directs.
+
+### 28. Duties of Director General on references under regulation 27[^key-c6082b8ac6ad127ddb8d9bce085fca0e]
+
+(1) It shall be the duty of the Director General, in the case of every DSI matter referred to the Director General by the relevant appropriate authority, to determine whether or not it is necessary for the matter to be investigated.
+
+(2) Where the Director General determines under this regulation that it is not necessary for a DSI matter to be investigated, the Director General may if the Director General thinks fit refer the matter back to the relevant appropriate authority to be dealt with by it in such manner (if any) as the relevant appropriate authority may determine.
+
+### 29. Procedure where a conduct matter is revealed during investigation of a DSI matter[^key-2a77f8221d2e49e293b6d5fba958592c]
+
+(1) If during the course of an investigation of a DSI matter it appears to a person appointed under regulation 39 (investigations supervised by the Director General), or[^key-fbc0b25e409c59680c35a5abad2898db] 41 (investigations managed by the Director General) [^key-c9cac072993f39913e543fed36a3e607]... that there is an indication that a relevant officer, relevant official of the Secretary of State, relevant contractor, official exercising customs revenue functions or customs revenue contractor (“the person whose conduct is in question”) may have—
+
+- (a) committed a criminal offence, or
+- (b) behaved in a manner which would justify the bringing of disciplinary proceedings,
+
+the person so appointed shall make a notification to that effect to the Director General.
+
+(2) If, after considering a notification under paragraph (1), the Director General determines that there is such an indication, the Director General shall notify the relevant appropriate authority and send to it a copy of the submission under paragraph (1).
+
+(2A)[^key-cdbde5760c1970466c425320cea240c9] If during the course of an investigation of a DSI matter being carried out by a person designated under regulation 42 the Director General determines that there is an indication that a relevant officer, relevant official of the Secretary of State, relevant contractor, official exercising customs revenue functions or customs revenue contractor (“the person whose conduct is in question”) may have—
+
+- (a) committed an offence, or
+- (b) behaved in a manner which would justify the bringing of disciplinary proceedings,
+
+the Director General shall proceed under paragraph (2B).
+
+(2B) The Director General shall—
+
+- (a) prepare a record of the determination;
+- (b) notify the appropriate authority in relation to the DSI matter and (if different) the appropriate authority in relation to the person whose conduct is in question of the determination; and
+- (c) send to it (or each of them) a copy of the record of the determination prepared under sub-paragraph (a).
+
+(3) If during the course of an investigation of a DSI matter it appears to a person appointed under regulation 38 (investigation by a police force at the request of the relevant appropriate authority), or 40 (investigation by a police force under the management or supervision of the Director General) that there is an indication that a relevant officer, a relevant official of the Secretary of State, relevant contractor, official exercising customs revenue functions or customs revenue contractor (“the person whose conduct is in question”) may have—
+
+- (a) committed a criminal offence, or
+- (b) behaved in a manner which would justify the bringing of disciplinary proceedings,
+
+the person so appointed shall make a notification to that effect to the relevant appropriate authority and on completion of that investigation shall carry out the steps set out in regulation 61 (action by a police force on completion of an investigation report).
+
+(4) Where the relevant appropriate authority—
+
+- (a) is notified of a determination by the Director General under paragraph (2) or (2B)[^key-13abe3018225313b43584c26c6dbbe18], or
+- (b) is notified of a determination by the person appointed under regulation 38 or 40 in accordance with regulation 61(2),
+
+it shall record the matter under regulation 18 (recording etc. of conduct matters in other cases) as a conduct matter (and the other provisions of Part 5 of these Regulations (investigations) shall apply in relation to that matter accordingly).
+
+(5) Where a DSI matter is recorded under regulation 18 as a conduct matter by virtue of paragraph (4)—
+
+- (a) the person investigating the DSI matter shall (subject to any determination made by the Director General under regulation 31(2) (power of the Director General to determine the form of an investigation)) continue the investigation as if appointed to investigate the conduct matter, and
+- (b) the other provisions of Part 5 of these Regulations shall apply in relation to that matter accordingly.
+
+## PART 5 — INVESTIGATIONS
+
+### 30. Inspections of the Secretary of State’s premises on behalf of the Director General[^key-f7bb06a6da93ae4e3d44f2f7a92cc762]
+
+(1) Where—
+
+- (a) the Director General requires the relevant appropriate authority to allow a person nominated for the purpose by the Director General to have access to any premises occupied by a relevant officer, relevant official of the Secretary of State, relevant contractor, official exercising customs revenue functions or customs revenue contractor and to documents and other things on those premises, and
+- (b) the requirement is imposed for any of the purposes mentioned in paragraph (2),
+
+it shall be the duty of the relevant appropriate authority to secure that the required access is allowed to the nominated person.
+
+(2) Those purposes are—
+
+- (a) the purposes of any examination by the Director General of the efficiency and effectiveness of the arrangements made by the relevant appropriate authority for handling complaints or dealing with recordable conduct matters or DSI matters;
+- (b) the purposes of any investigation by the Director General under this Part or of any investigation carried out under the Director General’s supervision or management.
+
+(3) A requirement imposed under this regulation for the purposes mentioned in paragraph (2)(a) must be notified to the relevant appropriate authority at least 48 hours before the time at which access is required.
+
+(4) Where—
+
+- (a) a requirement imposed under this regulation for the purposes mentioned in paragraph (2)(a) requires access to any premises, document or thing to be allowed to any person, but
+- (b) there are reasonable grounds for not allowing that person to have the required access at the time at which that person seeks to have it,
+
+the obligation to secure that the required access is allowed shall have effect as an obligation to secure that the access is allowed to that person at the earliest practicable time after there cease to be any such grounds as that person may specify.
+
+(5) The provisions of this regulation are in addition to, and without prejudice to—
+
+- (a) the rights of entry, search and seizure that are or may be conferred on—
+  - (i) a person designated for the purposes of regulation 42 (investigations by the Director General), or
+  - (ii) any person who otherwise acts on behalf of the Director General,
+
+in that person’s capacity as a constable or as a person with the powers and privileges of a constable; or
+
+- (b) the obligations of the relevant appropriate authority under regulations 10 (co-operation, assistance and information) and 48 (provision of information to the Director General).
+
+### 31. Power of the Director General to determine the form of an investigation[^key-16222ff9cde5da112c538bde37451c15]
+
+(1) This regulation applies where—
+
+- (a) a complaint, recordable conduct matter or DSI matter is referred to the Director General; and
+- (b) the Director General determines that it is necessary for the complaint or matter to be investigated.
+
+(2) It shall be the duty of the Director General to determine the form which the investigation should take.
+
+(3) In making a determination under paragraph (2) the Director General shall have regard to the following factors—
+
+- (a) the seriousness of the case; and
+- (b) the public interest.
+
+(4) The only forms which the investigation may take in accordance with a determination made under this regulation are an investigation by—
+
+- (a) the relevant appropriate authority on its own behalf;
+- (b) a police force at the request of the relevant appropriate authority;
+- (c) the relevant appropriate authority under the supervision of the Director General;
+- (d) a police force under the supervision of the Director General;
+- (e) the relevant authority under the management of the Director General;
+- (f) a police force under the management of the Director General;
+- (g) the Director General.
+
+(5) The Director General may at any time make a further determination under this regulation to replace an earlier one.
+
+(6) Where a determination under this regulation replaces an earlier determination under this regulation, or relates to a complaint or matter in relation to which the relevant appropriate authority has already begun an investigation on its own behalf, the Director General may give—
+
+- (a) the relevant appropriate authority, and
+- (b) any person previously appointed to carry out the investigation,
+
+such directions as the Director General considers appropriate for the purpose of giving effect to the new determination.
+
+(7) It shall be the duty of a person to whom a direction is given under paragraph (6) to comply with it.
+
+(8) The Director General shall notify the relevant appropriate authority of any determination that the Director General makes under this regulation in relation to a particular complaint, recordable conduct matter or DSI matter.
+
+### 32. Appointment of persons to carry out investigations[^key-d4b5948ab3adf6829bbbe9a465f3a8ff]
+
+(1) No person shall be appointed to carry out an investigation under regulations 38 (investigation by a police force at the request of the relevant appropriate authority) to 41 (investigations managed by the Director General)—
+
+- (a) unless that person has an appropriate level of knowledge, skills and experience to plan and conduct the investigation and to manage the resources that will be required during that process;
+- (b) if that person has any social, financial or other connection, whether or not within the work environment, with the person whose conduct is being investigated which could, on an objective appraisal of the material facts, give rise to a legitimate fear as to whether that investigation can be carried out impartially;
+- (c) if that person works, directly or indirectly, under the management of the person whose conduct is being investigated.
+
+### 33. Power of the Director General to impose requirements in relation to an investigation which the Director General is supervising[^key-b5a3b157466c0774c221bb9eaceb19e7]
+
+(1) For the purposes of regulation 39(6) (investigations supervised by the Director General) the requirements which may be imposed by the Director General on a person appointed to investigate a complaint, recordable conduct matter or DSI matter are, subject to paragraph (2), any reasonable requirements as to the conduct of the investigation as appear to the Director General to be necessary.
+
+(2) The Director General shall not, under paragraph (1), impose any requirement relating to the resources to be made available by the relevant appropriate authority for the purposes of an investigation without first consulting that person and having regard to any representations that person makes.
+
+### 34. Combining and splitting investigations[^key-02f519661210db3b49dbcfb2bf4745e5]
+
+(1) A relevant appropriate authority which is carrying out an investigation on its own behalf may—
+
+- (a) combine that investigation with another such investigation, or
+- (b) split that investigation into two or more such separate investigations,
+
+if it considers that it is more efficient and effective, or is otherwise in the public interest, to do so.
+
+(2) Subject to paragraph (3), where the Director General is supervising, managing or carrying out an investigation, the Director General may—
+
+- (a) combine that investigation with another investigation, or
+- (b) split that investigation into two or more separate investigations,
+
+if the Director General considers that it is more efficient and effective, or is otherwise in the public interest, to do so.
+
+(3) The Director General shall not take any action under paragraph (2) in relation to a supervised or managed investigation except after consultation with the relevant appropriate authority.
+
+### 35. Power of the Director General to discontinue an investigation[^key-21d8553f184d791d177d7e25faf59976]
+
+(1) If, following a determination under regulations 22 (duties of the Director General on references under regulation 21), 24 (duties of the Director General on references under regulation 23) and 28 (duties of the Director General on reference under regulation 27), it appears at any time to the Director General (whether on an application by the relevant appropriate authority or otherwise) that a complaint or matter that is being investigated—
+
+- (a) by the relevant appropriate authority on its own behalf, or
+- (b) under the supervision or management of the Director General,
+
+is of a description of complaint or matter specified in paragraph (5), the Director General may by order require the discontinuance of the investigation.
+
+(2) Where the Director General makes an order under this regulation or discontinues an investigation being carried out in accordance with regulation 42 (investigations by the Director General), the Director General shall give notification of the discontinuance—
+
+- (a) to the relevant appropriate authority;
+- (b) to every person entitled to be kept properly informed in relation to the subject matter of the investigation under regulation 50 (duty to provide information for other persons); and
+- (c) in a case where the investigation that is discontinued is an investigation of a complaint, to the complainant.
+
+(3) Subject to regulation 29 (procedure where conduct matter is revealed during investigation of DSI matter), where an investigation of a complaint or recordable conduct matter or DSI matter is discontinued in accordance with this regulation, neither the relevant appropriate authority nor the Director General shall take any further action in accordance with the provisions of these Regulations in relation to that complaint or matter.
+
+(4) The relevant appropriate authority shall comply with any order or notification given to it under this regulation.
+
+(5) The descriptions of complaint or matter are—
+
+- (a) one in which the complainant refuses to co-operate to the extent that the Director General considers that it is not reasonably practicable to continue the investigation;
+- (b) one which the Director General considers is vexatious, oppressive or otherwise an abuse of the procedures for dealing with complaints, conduct matters or DSI matters;
+- (c) one which is repetitious, as defined in paragraph (6); or
+- (d) one which the Director General otherwise considers is such as to make it not reasonably practicable to proceed with the investigation.
+
+(6) A complaint is repetitious only if—
+
+- (a) it is substantially the same as a previous complaint (whether made by or on behalf of the same or a different complainant), or it concerns substantially the same conduct as previous conduct matter;
+- (b) it contains no fresh allegation which significantly affects the account of the conduct complained of;
+- (c) no fresh evidence, being evidence which was not reasonably available at the time the previous complaint was made, is tendered in support of it; and
+- (d) as respects the previous complaint or conduct matter, either—
+  - (i) the requirements of regulation 63(2) (action by the Director General in response to an investigation report under regulation 62) or 64(2) (determination by the relevant appropriate authority in response to an investigation report under regulation 62) were complied with;
+  - (ii) the Director General gave the relevant appropriate authority a direction under regulation 36(11)(b) (withdrawn and discontinued complaints);
+  - (iii) the complainant gave such notification that he withdrew the complaint as mentioned in regulation 36(1)(a) (complainant withdraws the complaint).
+
+(7) The cases in which the Director General is authorised to discontinue an investigation that is being carried out in accordance with regulation 42 are any cases where the complaint, conduct matter or DSI matter under investigation falls within paragraph (5).
+
+(8) Any application by a relevant appropriate authority to the Director General for an order that it discontinue an investigation shall be in writing and shall be accompanied by—
+
+- (a) a copy of the complaint, and
+- (b) a memorandum from the relevant appropriate authority containing a summary of the investigation undertaken so far and explaining the reasons for the application to discontinue the investigation.
+
+(9) The relevant appropriate authority shall—
+
+- (a) send the complainant a copy of any such application on the same day as the day on which the application is sent to the Director General, and
+- (b) supply any further information requested by the Director General for the purpose of considering that application.
+
+(10) The Director General shall not require the discontinuance of an investigation in a case where there has been no application to do so by the relevant appropriate authority unless the Director General has consulted with that authority.
+
+(11) A determination given to a relevant appropriate authority by the Director General under regulation 31(4)(a) (power of the Director General to determine the form of an investigation) may—
+
+- (a) require the relevant appropriate authority to produce an investigation report on the discontinued investigation;
+- (b) where the investigation concerned a complaint, require the relevant appropriate authority to dispense with the requirements of these Regulations as respects that complaint;
+- (c) direct the relevant appropriate authority to handle the matter in whatever manner (if any) that authority thinks fit.
+
+(12) For the purposes of this regulation the steps that may be taken by the Director General when an investigation is discontinued are—
+
+- (a) to produce an investigation report on the discontinued investigation and take any subsequent steps required under these Regulations;
+- (b) where the investigation concerned a complaint, to dispense with the requirements of these Regulations as respects that complaint;
+- (c) to handle the matter in whatever manner the Director General thinks fit.
+
+### 36. Withdrawn and discontinued complaints[^key-2c13e2098ed470c3cb8deeca3d4e8aeb]
+
+(1) If a relevant appropriate authority receives from a complainant notification in writing signed by the complainant or by a solicitor or other authorised agent on the complainant’s behalf to the effect either—
+
+- (a) that the complainant withdraws the complaint, or
+- (b) that the complainant does not wish any further steps to be taken in consequence of the complaint,
+
+then the relevant appropriate authority shall forthwith record the withdrawal or the fact that the complainant does not wish any further steps to be taken, as the case may be, and subject to the following provisions of this Regulation, these Regulations shall cease to apply in respect of that complaint.
+
+(2) Where a complainant gives such notification as is mentioned in paragraph (1) to the Director General but, so far as is apparent to the Director General, has not sent that notification to the relevant appropriate authority, then—
+
+- (a) the Director General shall send a copy of the notification to the relevant appropriate authority;
+- (b) that relevant appropriate authority shall record the withdrawal or the fact that the complainant does not wish any further steps to be taken, as the case may be; and
+- (c) subject to the following provisions of this regulation, these Regulations shall cease to apply in respect of that complaint.
+
+(3) Where a complainant gives such notification as is mentioned in paragraph (1) to a relevant appropriate authority, or where the relevant appropriate authority receives a copy of a notification under paragraph (2), and it relates to a complaint—
+
+- (a) which was referred to the Director General under regulation 21(1) (reference of complaints to the Director General) and which has not been referred back to the relevant appropriate authority under regulation 22(2) (duties of the Director General on references under regulation 21),
+- (b) which the relevant appropriate authority knows is currently the subject of an appeal to the Director General under regulation 15 (failures to notify or record a complaint), or 70 (appeals to the Director General with respect to an investigation), or
+- (c) which was notified to the relevant appropriate authority by the Director General under regulation 13(1) (initial handling and recording of complaints),
+
+then the relevant appropriate authority shall notify the Director General that it has recorded the withdrawal of the complaint or the fact that the complainant does not wish any further steps to be taken, as the case may be.
+
+(4) In a case falling within paragraph (3)(b) or (c), the relevant appropriate authority shall also—
+
+- (a) determine whether it is in the public interest for the complaint to be treated as a recordable conduct matter; and
+- (b) notify the Director General of its determination and the reasons for the determination.
+
+(5) In a case falling within paragraph (3)(a), the Director General shall determine whether it is in the public interest for the complaint to be treated as a recordable conduct matter, and shall notify the relevant appropriate authority of the Director General’s decision.
+
+(6) Where a determination is made that a complaint is to be treated as a recordable conduct matter, then the provisions of these Regulations shall apply to that matter.
+
+(7) Where a complainant gives such notification as is mentioned in paragraph (1) to a relevant appropriate authority, or where the relevant appropriate authority receives a copy of a notification under paragraph (2), and that notification relates to a complaint which does not fall within any of sub-paragraphs (a) to (c) of paragraph (3), then—
+
+- (a) the relevant appropriate authority shall determine whether it is in the public interest for the complaint to be treated as a recordable conduct matter;
+- (b) if the complaint is to be treated as a recordable conduct matter, the provisions of these Regulations shall apply to that matter;
+- (c) if the complaint is not to be treated as a recordable conduct matter, the provisions of these Regulations shall cease to apply in respect of that complaint.
+
+(8) In a case where—
+
+- (a) a complaint has been subjected to an investigation by the relevant appropriate authority on its own behalf,
+- (b) the complaint is currently subject to an appeal to the Director General under regulation 70, and
+- (c) the relevant appropriate authority has notified the Director General under paragraph (4)(b) that it has determined that the complaint is not to be treated as a recordable conduct matter,
+
+the Director General shall consider whether it is in the public interest for that determination to be reversed, and if so the Director General shall instruct the relevant appropriate authority to reverse the decision.
+
+(9) Where a complainant indicates the wish to withdraw the complaint or the wish that no further steps are to be taken in consequence of the complaint, but the complainant fails to provide a notification to that effect in writing signed by or on behalf of the complainant, then—
+
+- (a) in the case of an indication received by the relevant appropriate authority, the authority shall take the steps set out in paragraph (10);
+- (b) in the case of an indication received by the Director General, the Director General shall refer the matter to the relevant appropriate authority which shall take the steps set out in paragraph (10).
+
+(10) Those steps are—
+
+- (a) the relevant appropriate authority shall write to the complainant to ascertain whether the complainant wishes to withdraw the complaint or does not wish any further steps to be taken in consequence of the complaint;
+- (b) if the complainant indicates the wish to withdraw the complaint or does not wish any further steps to be taken in consequence of the complaint, or if the complainant fails to reply within 21 days, the relevant appropriate authority shall treat the indication as though it had been received in writing signed by the complainant;
+- (c) if the complainant indicates the wish not to withdraw the complaint, or the wish for further steps be taken to be taken in consequence of the complaint, the relevant appropriate authority shall start or resume the investigation as the case may be.
+
+(11) The relevant appropriate authority shall notify the person complained against if—
+
+- (a) it records the withdrawal of a complaint or the fact that the complainant does not wish any further steps to be taken;
+- (b) it determines that a complaint shall be treated as a recordable conduct matter;
+- (c) the Director General determines that a complaint shall be treated as a recordable conduct matter;
+- (d) the Director General instructs it to reverse a decision not to treat a complaint as a recordable conduct matter;
+- (e) the provisions of these Regulations cease to apply in respect of a complaint.
+
+(12) But nothing in paragraph (11) shall require the relevant appropriate authority to make a notification if it has previously decided under regulation 56(3) (notification of complaints etc.) not to notify the person complained against of the complaint because it is of the opinion that that might prejudice any criminal investigation or pending proceedings or would be contrary to the public interest.
+
+### 37. Investigations by the relevant appropriate authority on its own behalf[^key-47fde7a81ceb0dea5f66d915ff76bc0e]
+
+(1) This regulation applies if the relevant appropriate authority is required by virtue of any determination made by the Director General under regulation 31 (power of the Director General to determine the form of an investigation) to make arrangements for a complaint or recordable conduct matter or DSI matter to be investigated by the relevant appropriate authority on its own behalf.
+
+(2) It shall be the duty of the relevant appropriate authority to appoint a person to investigate the complaint or matter.
+
+### 38. Investigation by a police force at the request of the relevant appropriate authority[^key-ea65bfa5b66823022bfe8c859f24dee5]
+
+(1) This regulation applies where the relevant appropriate authority determines that there should be an investigation by a police force into an indication that a relevant officer, relevant official of the Secretary of State, relevant contractor, official exercising customs revenue functions or customs revenue contractor may have committed a criminal offence in connection with a complaint, recordable conduct matter or DSI matter.
+
+(2) The relevant appropriate authority shall identify the police force whose force area includes the geographical area to which the subject matter of the complaint, recordable conduct matter or DSI matter most closely relates, and take steps to obtain the agreement of the chief officer of police of that force to the appointment of that force to carry out the investigation.
+
+(3) In the event that no agreement is reached under paragraph (2) the relevant appropriate authority may require the chief officer of police of any police force it considers appropriate to carry out the investigation.
+
+(4) A chief officer of police of a police force who agrees to or is required to carry out an investigation shall, if that person has not already done so, appoint a person serving with the police who is a member of that force to investigate that complaint.
+
+(5) Paragraphs (3) to (5) and (7) of regulation 40 (investigations supervised by the Director General) shall apply as they apply to an investigation by the relevant appropriate authority which the Director General has determined is one that the Director General should supervise and the references to the relevant appropriate authority in those paragraphs shall be treated as references to the chief officer of police concerned.
+
+(6) An appointment of a person under paragraph (4) or (5) shall be notified by the chief of police concerned to the relevant appropriate authority. The Director General may require that no appointment is made under paragraph (4) unless the Director General has given notice to the chief officer that the Director General approves the person serving with the police whom he proposes to appoint.
+
+(7) The person appointed to investigate the complaint or matter shall, in relation to an investigation under the management of the Director General, be under the direction and control of the Director General.
+
+(8) The person appointed to investigate the complaint or matter shall comply with all such requirements in relation to the carrying out of that investigation as may be imposed by these Regulations.
+
+### 39. Investigations supervised by the Director General[^key-eae70d6ebfbb04b7438ee7e4df520609]
+
+(1) This regulation applies where the Director General has determined that the Director General should supervise the investigation by the relevant appropriate authority of any complaint or recordable conduct matter or DSI matter.
+
+(2) On being given notice of that determination, the relevant appropriate authority shall, if it has not already done so, appoint a person to investigate the complaint or matter.
+
+(3) The Director General may require that no appointment is made under paragraph (2) unless the Director General has given notice to the relevant appropriate authority that the Director General approves the person whom that authority proposes to appoint.
+
+(4) Where a person has already been appointed to investigate the complaint or matter, or is selected under this paragraph for appointment, and the Director General is not satisfied with that person, the Director General may require the relevant appropriate authority, as soon as reasonably practicable after being required to do so—
+
+- (a) to select another person falling within paragraph (2) to investigate the complaint or matter; and
+- (b) to notify the Director General of the person selected.
+
+(5) Where a selection made in pursuance of a requirement under paragraph (4) has been notified to the Director General, the relevant appropriate authority shall appoint that person to investigate the complaint or matter if, but only if, the Director General notifies the authority that the Director General approves the appointment of that person.
+
+(6) The person appointed to investigate the complaint or matter shall comply with all such requirements in relation to the carrying out of that investigation as may be imposed by the Director General in relation to that investigation.
+
+### 40. Investigation by a police force under the management or under the supervision of the Director General[^key-b96a4be9dd9aef2dc5cfc8b61255e3d8]
+
+(1) This regulation applies where the Director General determines that there should be an investigation by a police force under the management or supervision of the Director General.
+
+(2) The Director General shall—
+
+- (a) identify the police force whose force area includes the geographical area to which the subject matter of the complaint, recordable conduct matter or DSI matter most closely relates, and
+- (b) take steps to obtain the agreement of—
+  - (i) the chief officer of police of that force, and
+  - (ii) the relevant appropriate authority,
+
+to the appointment by the Director General of that force to carry out the investigation.
+
+(3) In the event that no agreement is reached under paragraph (2) the Director General may require the chief officer of police of any police force the Director General considers appropriate to carry out the investigation.
+
+(4) A chief officer of police of a police force who agrees to or is required to carry out an investigation shall, if that person has not already done so, appoint a person serving with the police who is a member of that force to investigate that complaint.
+
+(5) Paragraphs (3) to (6) of regulation 39 (investigations supervised by the Director General) shall apply as they apply to an investigation by the relevant appropriate authority which the Director General has determined is one that it should supervise and the references to the relevant appropriate authority in those paragraphs shall be treated as references to the chief officer of police concerned.
+
+(6) An appointment of a person under paragraph (4) shall be notified by the chief of police concerned to the relevant appropriate authority. The Director General may require that no appointment is made under paragraph (4) unless the Director General has given notice to the chief officer that the Director General approves the person serving with the police who it is proposed to appoint.
+
+(7) The person appointed to investigate the complaint or matter shall, in relation to an investigation under the management of the Director General, be under the direction and control of the Director General.
+
+(8) The person appointed to investigate the complaint or matter shall comply with all such requirements in relation to the carrying out of that investigation as may be imposed by these Regulations.
+
+### 41. Investigations managed by the Director General[^key-6ce0deb1028dffae83056572bc6b5193]
+
+(1) This regulation applies where the Director General has determined that the Director General should manage the investigation by the relevant appropriate authority of any complaint or recordable conduct matter or DSI matter.
+
+(2) Paragraphs (2) to (6) of regulation 39 (investigations supervised by the Director General) shall apply as they apply in the case of an investigation which the Director General has determined is one that the Director General should supervise.
+
+(3) The person appointed to investigate the complaint or matter shall, in relation to that investigation, be under the direction and control of the Director General.
+
+### 42. Investigations by the Director General[^key-2ddfc97a00a316f119866d6dda4a34f4]
+
+(1) This regulation applies where the Director General has determined that the Director General should [^key-557fc0416064d8eb96c041c374a9c988]... carry out the investigation of a complaint or recordable conduct matter or DSI matter.
+
+(2)[^key-e76290ed652bed1e51b8123b7c595d22] The Director General shall designate both—
+
+- (a) a person to take charge of the investigation; and
+- (b) such members of the IOPC’s staff as are required by the Director General to assist the person designated to take charge of the investigation.
+
+(2A) The person designated under paragraph (2) to take charge of an investigation shall be—
+
+- (a) the Director General acting personally; or
+- (b) a person who is authorised to exercise the function of taking charge of the investigation on behalf of the Director General by virtue of paragraph 6A of Schedule 2 to the 2002 Act (delegation of Director General’s functions).
+
+(3) A person[^key-40f079d2fb40880a51658b3866fb9d7d] who—
+
+- (a) is designated under paragraph (2) in relation to any investigation, but
+- (b) does not already, by virtue of section 97(8) (police officers engaged on service outside their force) of the Police Act 1996[^f00014] have all the powers and privileges of a constable throughout England and Wales and the adjacent United Kingdom waters,
+
+shall for the purposes of the carrying out of the investigation and all purposes connected with it, have all those powers and privileges throughout England and Wales and those waters.
+
+(4) A person designated under paragraph (2)[^key-c2bdcf15eb608a5fe7ad0a93439ed376] who is not a constable shall not, as a result of paragraph (3), be treated as being in police service for the purposes of—
+
+- (a) section 280 (police service) of the Trade Union and Labour Relations (Consolidation) Act 1992[^f00015]; or
+- (b) section 200 (police officers) of the Employment Rights Act 1996[^f00016].
+
+(5) References in this regulation to the powers and privileges of a constable—
+
+- (a) are references to any power or privilege conferred by or under any enactment (including one passed after the making of these Regulations) on a constable; and
+- (b) shall have effect as if every such power were exercisable, and every such privilege existed, throughout England and Wales and the adjacent United Kingdom waters (whether or not that is the case apart from this paragraph).
+
+(6) In this regulation “United Kingdom waters” means the sea and other waters within the seaward limits of the United Kingdom’s territorial sea.
+
+### 43. Relinquishing the Director General’s’ supervision or management of an investigation[^key-df723569475845848383b3b8b0d9fc3d]
+
+(1) This regulation applies where the Director General—
+
+- (a) relinquishes the management of an investigation in favour of a supervised investigation or an investigation by the relevant appropriate authority on its own behalf, or
+- (b) relinquishes the supervision of an investigation in favour of an investigation by the relevant appropriate authority on its own behalf.
+
+(2) Where this regulation applies, the Director General—
+
+- (a) shall notify the relevant appropriate authority, the complainant, any interested person within the meaning of regulation 50 (duty to provide information for other persons) and the person complained against of the Director General’s decision, and the reasons for that decision; and
+- (b) shall send to the relevant appropriate authority any documentation and evidence gathered during the Director General’s investigations as will assist the relevant appropriate authority to carry out its functions under these Regulations.
+
+(3) Nothing in paragraph (2)(a) shall require the Director General to make a notification to the person complained against if the Director General is of the opinion that that might prejudice any criminal investigation or pending proceedings or would be contrary to the public interest.
+
+### 44. Circumstances in which an investigation or other procedure may be suspended[^key-bad1de29171ed373f81c9dc931249f5e]
+
+(1) The Director General may suspend any investigation or other procedure under these Regulations which would, if it were to continue, prejudice any criminal proceedings.
+
+(2) A relevant appropriate authority may, subject to paragraph (3), suspend any investigation or other procedure under these Regulations which would, if it were to continue, prejudice any criminal investigation or proceedings.
+
+(3) The Director General may direct that any investigation or other procedure under these Regulations which is liable to be suspended under paragraph (2) shall continue if the Director General is of the view that it is in the public interest to make such a direction.
+
+(4) The Director General shall consult the relevant appropriate authority before making such a direction.
+
+### 45. Resumption of investigation after criminal proceedings[^key-779413ab7a8b79075b75488a417323d7]
+
+(1) Where the whole or part of the investigation of a complaint has been suspended until the conclusion of criminal proceedings, and after the conclusion of those proceedings the complainant has failed to express the wish for the investigation to start or be resumed, the Director General or, as the case may be, the relevant appropriate authority shall take the steps set out in paragraph (2).
+
+(2) The Director General or relevant appropriate authority shall take all reasonable steps to contact the complainant to ascertain whether the complainant wants the investigation to start or be resumed as the case may be.
+
+(3) If the complainant expresses the wish for the investigation to start or be resumed, the Director General or the relevant appropriate authority shall start or resume the investigation as the case may be.
+
+(4) The Director General shall consult the relevant appropriate authority before starting or resuming the investigation.
+
+(5) If the complainant indicates that the complainant does not want the investigation to start or be resumed, or if the complainant fails to reply within 21 days to a letter sent to the complainant by the Director General or relevant appropriate authority, the Director General or relevant appropriate authority as the case may be shall determine whether it is in the public interest for the complaint to be treated as a recordable conduct matter.
+
+(6) If the Director General or relevant appropriate authority determines that it is not in the public interest for the complaint to be treated as a recordable conduct matter, the provisions of these Regulations shall cease to apply to the complaint.
+
+(7) If the Director General or relevant appropriate authority determines that it is in the public interest for the complaint to be treated as a recordable conduct matter, regulations 17 (conduct matters arising in civil proceedings), 18 (recording etc. of conduct matters in other cases), 19 (duties to preserve evidence relating to conduct matters), 23 (reference of conduct matters to Director General), 24 (duties of the Director General on references under regulation 23) and the provisions of Part 4 (handling DSI matters) of these Regulations shall apply to the matter.
+
+(8) The Director General or relevant appropriate authority shall notify the person complained against if paragraph (5) or (6) applies.
+
+(9) Nothing in paragraph (8) shall require the Director General or relevant appropriate authority to make a notification if it is of the opinion that that might prejudice any criminal investigation or pending proceedings or would be contrary to the public interest.
+
+### 46. Restrictions on proceedings pending the conclusion of an investigation[^key-0d2daa037e5720a8d92c0dcc687d7465]
+
+(1) No criminal or disciplinary proceedings shall be brought in relation to any matter which falls to be determined under these Regulations until a report on that investigation has been submitted to the Director General or to the relevant appropriate authority under regulation 62 (final reports on investigations: complaints, conduct matters and certain DSI matters) or 65 (final reports on investigations: other DSI matters) or, where under regulation 62 the Director General has personally carried out the investigation, a report has been completed by the Director General[^key-8c3d82b11aede3983c5fb1d5ab46c1a5].
+
+(2) Nothing in this regulation shall prevent the bringing of criminal or disciplinary proceedings in respect of any conduct at any time after the discontinuance of the investigation in accordance with the provisions of these Regulations which relate to that conduct.
+
+(3) The restrictions imposed by this regulation in relation to the bringing of criminal proceedings shall not apply to the bringing of criminal proceedings by the Director of Public Prosecutions [^key-7ba823268e5d558589b4fcc17702cbeb]... in any case in which it appears to that person that there are exceptional circumstances which make it undesirable to delay the bringing of such proceedings.
+
+(4) Where disciplinary proceedings are brought in relation to any matter which is the subject of an investigation under these Regulations, the relevant appropriate authority shall notify the Director General of that fact before such proceedings are brought.
+
+## PART 6 — PROVISION OF INFORMATION
+
+### 47. Provision and use of information by the Director General[^key-00d8707cf9fe75eefaed47087ff8fc75]
+
+(1) Where the Director General, or any person acting on the Director General’s behalf, obtains information in the course of performing a function conferred on the Director General by regulation 6(1) they must not disclose it except as permitted by Part 6 (provision of information) of these Regulations.
+
+(2) Where the Director General, or any person acting on the Director General’s behalf, obtains information in the course of performing a function conferred on the Director General by regulation 6(1) they may not use it for any purpose other than the performance of a function under these Regulations.
+
+### 48. Provision of information to the Director General[^key-55f82dbac0e33c29af417dd2842723a1]
+
+(1) It shall be the duty of the relevant appropriate authority—
+
+- (a) to provide the Director General with all such information and documents as may be specified or described in a notification given by the Director General to the relevant appropriate authority, and
+- (b) to produce or deliver up to the Director General all such evidence and other things so specified or described,
+
+as appear to the Director General to be required by it for the purposes of the carrying out of any of its functions.
+
+(2) Anything falling to be provided, produced or delivered up by any person in pursuance of a requirement imposed under paragraph (1) must be provided, produced or delivered up in such form, in such manner and within such period as may be specified in—
+
+- (a) the notification imposing the requirement; or
+- (b) in any subsequent notification given by the Director General to that person for the purposes of this paragraph.
+
+(3) Nothing in this regulation shall require the relevant appropriate authority to provide the Director General with any information or document, or to produce or deliver up any other thing, before the earliest time at which it is practicable for it do so.
+
+### 49. Duty to keep the complainant informed[^key-5258e31855de1ae82d87be3378369e5f]
+
+(1) In any case in which there is an investigation of a complaint in accordance with the provisions of these Regulations—
+
+- (a) by the Director General, or
+- (b) under the Director General’s management,
+
+it shall be the duty of the Director General to provide the complainant with all such information as will keep the complainant properly informed, while the investigation is being carried out and subsequently, of all the matters mentioned in paragraph (5).
+
+(2) In any case in which there is an investigation of a complaint in accordance with the provisions of these Regulations—
+
+- (a) by the relevant appropriate authority on its own behalf,
+- (b) under the supervision of the Director General, or
+- (c) by the police under supervision of Director General,
+
+it shall be the duty of the person investigating to provide the complainant with all such information as will keep the complainant properly informed, while the investigation is being carried out and subsequently, of all the matters mentioned in paragraph (5).
+
+(3) Where paragraph (2) applies, it shall be the duty of the Director General to give the relevant appropriate authority all such directions as the Director General considers appropriate for securing that that authority complies with its duty under that subsection; and it shall be the duty of the relevant appropriate authority to comply with any direction given to it under this paragraph.
+
+(4) The Director General shall consult the relevant appropriate authority before deciding whether or not to disclose information to the complainant in accordance with paragraph (1) or to give directions under paragraph (3), and shall have regard to any representations made to the Director General by the relevant appropriate authority in taking that decision.
+
+(5) For the purposes of paragraphs (1) and (2) the matters of which the complainant must be kept properly informed are—
+
+- (a) the progress of the investigation;
+- (b) any provisional findings of the person carrying out the investigation;
+- (c) whether any report has been submitted under regulation 65 (final reports on investigations: DSI matters);
+- (d) the action (if any) that is taken in respect of the matters dealt with in any such report; and
+- (e) the outcome of any such action.
+
+(6) It shall be the duty of a person appointed to carry out an investigation under these Regulations to provide the Director General or, as the case may be, the relevant appropriate authority with all such information as the Director General or that authority may reasonably require for the purpose of performing their[^key-33cbda5415f19776843b3a2fb32993ed] duty under this regulation.
+
+### 50. Duty to provide information for other persons[^key-c46638d0ae9f105ae2f83e500c9e1ba8]
+
+(1) A person has an interest in being kept properly informed about the handling of a complaint or recordable conduct matter or DSI matter which is the subject of an investigation in accordance with the provisions of these Regulations if—
+
+- (a) it appears to the Director General or to a relevant appropriate authority that that person is a person falling within paragraph (2) or (3); and
+- (b) that person consented to the provision of information in accordance with this regulation and that consent has not been withdrawn.
+
+(2) A person falls within this paragraph if (in the case of a complaint or recordable conduct matter) that person—
+
+- (a) is a relative of a person whose death is the alleged result from the conduct complained of or to which the recordable conduct matter relates;
+- (b) is a relative of a person whose serious injury is the alleged result from that conduct and that person is incapable of making a complaint;
+- (c) has suffered serious injury as the alleged result of that conduct.
+
+(3) A person falls within this paragraph if (in the case of a DSI matter) that person—
+
+- (a) is a relative of the person who has died;
+- (b) is a relative of the person who has suffered serious injury and that person is incapable of making a complaint;
+- (c) is the person who has suffered serious injury.
+
+(4) A person who does not fall within paragraph (2) or (3) has an interest in being kept properly informed about the handling of a complaint, recordable conduct matter or DSI matter if—
+
+- (a) the Director General or a relevant appropriate authority considers that that person has an interest in the handling of the complaint, conduct matter or DSI matter which is sufficient to make it appropriate for information to be provided to that person in accordance with this regulation; and
+- (b) that person has consented to the provision of information in accordance with this regulation.
+
+(5) In relation to a complaint, this regulation confers no rights on the complainant.
+
+(6) A person who has an interest in being kept properly informed about the handling of a complaint, conduct matter or DSI matter is referred to in this regulation as an “interested person”.
+
+(7) In any case in which there is an investigation of the complaint, recordable conduct matter or DSI matter in accordance with the provisions of these Regulations—
+
+- (a) by the Director General, or
+- (b) under the Director General’s management,
+
+it shall be the duty of the Director General to provide the interested person with all such information as will keep the interested person properly informed, while the investigation is being carried out and subsequently, of all the matters mentioned in paragraph (11).
+
+(8) In any case in which there is an investigation of the complaint, recordable conduct matter or DSI matter in accordance with the provisions of these Regulations—
+
+- (a) by the relevant appropriate authority on its own behalf, or
+- (b) under the supervision of the Director General,
+
+it shall be the duty of the relevant appropriate authority to provide the interested person with all such information as will keep him properly informed, while the investigation is being carried out and subsequently, of all the matters mentioned in paragraph (11).
+
+(9) Where paragraph (8) applies, it shall be the duty of the Director General to give the relevant appropriate authority all such directions as the Director General considers appropriate for securing that that authority complies with its duty under that paragraph; and it shall be the duty of the relevant appropriate authority to comply with any direction given to it under this paragraph.
+
+(10) The Director General shall consult the relevant appropriate authority before deciding whether or not to disclose information to the interested person in accordance with paragraph (7) or to give directions under paragraph (9), and shall have regard to any representations made to the Director General by the relevant appropriate authority in taking that decision.
+
+(11) The matters of which the interested person must be kept properly informed are—
+
+- (a) the progress of the investigation;
+- (b) any provisional findings of the person carrying out the investigation;
+- (c) whether the Director General or the relevant appropriate authority has made a determination under regulation 29 (procedure where conduct matter is revealed during investigation of a DSI matter);
+- (d) whether any report has been submitted under regulation 61 (action by a police force on completion of an investigation report), 63 (action by the Director General in response to an investigation report under regulation 62) or 64 (action by the relevant appropriate authority in response to an investigation report under regulation 62);
+- (e) the action (if any) that is taken in respect of the matters dealt with in any such report; and
+- (f) the outcome of any such action.
+
+(12) Paragraphs (5) and (6) of regulation 49 (duty to keep the complainant informed) apply for the purposes of this regulation as they apply for the purposes of that regulation.
+
+(13) In this regulation “relative” means any spouse, partner, parent or adult child.
+
+### 51. Duty to keep the relevant officer, relevant official of the Secretary of State, relevant contractor, official exercising customs revenue functions or customs revenue contractor informed[^key-4249fe2fb17dffc5b7221d4f62f6b5bb]
+
+(1) If during the course of an investigation of a complaint which falls to be determined under these Regulations it appears to the person investigating , or in the case of an investigation by a designated person under regulation 42 the Director General,[^key-0744b4211519ee17200a0b5c3a3ec7e2] that there is an indication that the relevant officer, relevant official of the Secretary of State, relevant contractor, official exercising customs revenue functions or customs revenue contractor (“the person whose conduct is in question”) may have—
+
+- (a) committed a criminal offence; or
+- (b) behaved in a manner which would justify the bringing of disciplinary proceedings,
+
+the person investigating the complaint or matter must give a notification that complies with paragraph (2) to the person whose conduct is in question..
+
+(2) The notification will—
+
+- (a) provide sufficient details of the complaint or matter in question so that the person whose conduct is in question may make representations to the person investigating the complaint or matter;
+- (b) give the information about the effect of regulation 52 (duty to consider submissions from relevant officers, relevant officials of the Secretary of State, relevant contractors, officials exercising customs revenue functions and customs revenue contractors); and
+- (c) give such information that may be set out in guidance.
+
+(3) Paragraphs (1) and (2) do not apply for so long as the person investigating the complaint or the matter considers that giving the notification might prejudice—
+
+- (a) the investigation, or
+- (b) any other investigation (including, in particular, a criminal investigation).
+
+(4) In this regulation and regulations 53 (duty to provide certain information to the relevant appropriate authority) and 54 (manner in which duties to provide information to the complainant are to be performed), the person whose conduct is in question—
+
+- (a) in relation to an investigation of a complaint, means the person in respect of whom it appears to the person investigating that there is the indication mentioned in paragraph (1)
+- (b) in relation to an investigation of a recordable conduct matter, means the person to whose conduct the investigation relates.
+
+(5) In this regulation “relevant document”—
+
+- (a) means a document relating to any complaint or matter under investigation; and
+- (b) includes such a document containing suggestions as to lines of inquiry to be pursued or witnesses to be interviewed.
+
+(6) In this regulation “relevant statement” means an oral or written statement relating to any complaint or matter under investigation.
+
+### 52. Duty to consider submissions from relevant officers, relevant officials of the Secretary of State, relevant contractors, officials exercising customs revenue functions and customs revenue contractors[^key-ec0a5f0b2b16ba083d32090fad7c3deb]
+
+(1) This regulation applies where a notification under regulation 51 (duty to keep the relevant officer, relevant official of the Secretary of State, relevant contractor, official exercising customs revenue functions or customs revenue contractor informed) has been issued to a relevant officer, relevant official of the Secretary of State, relevant contractor, official exercising customs revenue functions or customs revenue contractor (“the person whose conduct is in question”).
+
+(2) If—
+
+- (a) the person whose conduct is in question provides the person investigating the complaint or matter with a relevant statement or a relevant document, or
+- (b) any person provides the person investigating the complaint or matter with a relevant document,
+
+the person investigating must consider the statement or document.
+
+### 53. Duty to provide certain information to the relevant appropriate authority[^key-178bc9ba7e065b825816cff5bc2719e5]
+
+(1) This regulation applies during the course of an investigation within regulation 51(1) (duty to keep the relevant officer, relevant official of the Secretary of State, relevant contractor, official exercising customs revenue functions or customs revenue contractor informed).
+
+(2) The person investigating the complaint or matter must supply the relevant appropriate authority with such information in that person’s possession as the relevant appropriate authority may reasonably request for the purpose of determining whether the person whose conduct is in question should be, or should remain, suspended from duty.
+
+### 54. Manner in which duties to provide information to the complainant are to be performed[^key-dd1c32fab34a99a96fb7accc4e664b82]
+
+(1) For the purposes of regulations 49(4) (duty to keep the complainant informed) and 50(9) (duty to provide information for other persons), the manner in which the Director General or, as the case may be, a relevant appropriate authority shall perform the duties imposed by those regulations is as follows.
+
+(2) The Director General, in a case falling within regulation 49(1) (duty to keep the complainant informed) or 50(7) (duty to provide information for other persons), shall inform the complainant or, as the case may be, the interested party—
+
+- (a) of the progress of the investigation promptly and in any event-
+  - (i) if there has been no previous notification, within four weeks of the start of the investigation; and
+  - (ii) in any other case, within four weeks of the previous notification;
+- (b) of any provisional finding of the person carrying out the investigation as frequently as the Director General determines to be appropriate in order for the complainant to be kept properly informed.
+
+(3) The relevant appropriate authority, in a case falling within regulation 49(2) or 50(8) shall inform the complainant or the interested party (as the case may be)—
+
+- (a) of the progress of the investigation promptly and in any event-
+  - (i) if there has been no previous notification, within four weeks of the start of the investigation; and
+  - (ii) in any other case, within four weeks of the previous notification;
+- (b) of any provisional findings of the person carrying out the investigation as frequently as the relevant appropriate authority determine to be appropriate in order for the complainant to be kept properly informed.
+
+(4) When an investigation has been completed, each complainant and interested person shall be notified—
+
+- (a) of the date on which the final report under regulation 62 (final reports on investigations: complaints, conduct matters and certain DSI matters) is likely to be submitted or, in the case of an investigation under regulation 42 by the Director General acting personally, completed[^key-a92670ae9285383d73395a8dde8cae39];
+- (b) of the date on which the notification under regulation 63(11) (action by the Director General in response to an investigation report under regulation 62) is likely to be given.
+
+(5) In performing the duties imposed by regulations 49(1) and (2), and 50(7) and (8), the Director General or, as the case may be, the relevant appropriate authority shall determine whether it is appropriate for the Director General or, as the case may be, the relevant appropriate authority[^key-f844d3aeb84f48f15b7fe2a303e1afbb] to accept and take into account written representations from the complainant or, as the case may be, an interested person.
+
+(6) As soon as practicable after those written representations have been taken into account, the Director General or, as the case may be, the relevant appropriate authority shall send to the complainant or interested person a written account of how any concerns of that person will be addressed.
+
+(7) Before notifying a complainant or interested person of how the Director General has taken those written representations into account, the Director General shall consult the relevant appropriate authority and shall have regard to any representations made to it in the notification.
+
+(8) As soon as practicable after any disciplinary hearing or other action that is taken in respect of the matters dealt with in any report submitted under regulation 62, the Director General or, as the case may be, a relevant appropriate authority shall notify any complainant and interested person of the outcome of that hearing or action, including the fact and outcome of any appeal against the findings of or sanctions imposed by such a hearing.
+
+(9) Before notifying a complainant or interested person of the outcome of the disciplinary hearing and the outcome of any appeal against the findings of or sanctions imposed by such a hearing, the Director General shall consult the relevant appropriate authority and shall have regard to any representations made to it.
+
+(10) If the Director General or, as the case may be, the relevant appropriate authority, considers that an investigation has made minimal or no progress since the previous notification, then the next notification may be made by any means that in the opinion of the Director General or, as the case may be, the relevant appropriate authority is suitable.
+
+### 55. Exceptions to the duty to keep the complainant informed and to provide information for other persons[^key-743c9bfd1d39f47cbd8925f07708c1ae]
+
+(1) Subject to paragraph (2), the duties mentioned in regulation 49(1) and (2) (duty to keep the complainant informed) and regulation 50(7) and (8) (duty to provide information for other persons) shall not apply in circumstances where in the opinion of the Director General, or, as the case may be, of the relevant appropriate authority, the non-disclosure of information is necessary for the purpose of—
+
+- (a) preventing the premature or inappropriate disclosure of information that is relevant to, or may be used in, any actual or prospective criminal proceedings;
+- (b) preventing the disclosure of information in any circumstances in which its non-disclosure—
+  - (i) is in the interests of national security;
+  - (ii) is for the purposes of the prevention or detection of crime, or the apprehension or prosecution of offenders;
+  - (iii) is required on proportionality grounds; or
+  - (iv) is otherwise necessary in the public interest.
+
+(2) The Director General or, as the case may be, the relevant appropriate authority shall not conclude that the non-disclosure of information is necessary under paragraph (1) unless the Director General or, as the case may be, the relevant appropriate authority[^key-31f8aee8a24c04d7a6cd01401ed996bf] is satisfied that—
+
+- (a) there is a real risk of the disclosure of that information causing an adverse effect; and
+- (b) that adverse effect would be significant.
+
+(3) The Director General shall consult the relevant appropriate authority in any case under paragraph (1)(b) before deciding whether or not the Director General is satisfied under paragraph (2).
+
+(4) Notwithstanding paragraph (1), the Director General, or as the case may be, the relevant appropriate authority shall consider whether the non-disclosure of information is justified under this regulation in circumstances where—
+
+- (a) that information is relevant to, or may be used in, any actual or prospective disciplinary proceedings;
+- (b) the disclosure of that information may lead to the contamination of the evidence of witnesses during such proceedings;
+- (c) the disclosure of that information may prejudice the welfare or safety of any third party;
+- (d) that information constitutes criminal intelligence.
+
+### 56. Notification of complaints etc.[^key-51b2add31bb9952ddfecc5c70754f5fb]
+
+(1) Where a complaint is recorded under regulation 13(4) (initial handling and recording of complaints), the relevant appropriate authority shall, subject to paragraphs (2) to (4), supply the complainant with a written notification setting out a record of that complaint.
+
+(2) A notification supplied under this regulation may keep anonymous the identity of the complainant or of any other person.
+
+(3) A relevant appropriate authority may decide not to supply the complainant with a notification under this regulation if it is of the opinion that to do so—
+
+- (a) might prejudice any criminal investigation or pending proceedings, or
+- (b) would otherwise be contrary to the public interest.
+
+(4) Where a relevant appropriate authority decides not to supply such a notification, it shall keep that decision under regular review.
+
+### 57. Notification of actions and decisions[^key-61e6cf2780225101d134c176b08cc2fa]
+
+(1) So far as not covered by regulation 63(11) and (12) (action by the Director General in response to an investigation report under regulation 62) and regulation 70(6) and (7) (appeals to the Director General with respect to an investigation), where the Director General takes any action or decisions in consequence of the Director General having received a memorandum under regulation 63(9) or regulation 70(3) of these Regulations, the Director General shall notify such action or decisions, together with an explanation of the Director General’s reasons for having taken them, to—
+
+- (a) the relevant appropriate authority;
+- (b) the complainant and any other interested person within the meaning of regulation 50(2) and (3);
+- (c) subject to paragraph (3), the person complained against.
+
+(2) Notwithstanding paragraph (1), the Director General shall include in any notification under this regulation a statement as to whether the Director General intends to bring and conduct, or otherwise participate or intervene in, any disciplinary proceedings.
+
+(3) The Director General may decide not to give such a notification and explanation to the person complained against if the Director General is of the opinion that that notification might prejudice any criminal investigation, pending proceedings, or review of the complaint.
+
+### 58. Information for complainant about disciplinary recommendations[^key-854ca590f3b54bb26eab3e2acff8103d]
+
+(1) Where—
+
+- (a) the Director General makes recommendations under regulation 67 (duties with respect to disciplinary proceedings) in the case of an investigation of a complaint, and
+- (b) the relevant appropriate authority notifies the Director General that the recommendations have been accepted, the Director General shall notify the complainant and every person entitled to be kept properly informed in relation to the complaint under regulation 50 (duty to provide information for other persons) of that fact and of the steps that have been, or are to be taken, by the relevant appropriate authority to give effect to it.
+
+(2) Where in the case of an investigation of a complaint the relevant appropriate authority—
+
+- (a) notify the Director General that it does not (either in whole or in part) accept recommendations made by the Director General under regulation 67, or
+- (b) fails to take steps to give full effect to any such recommendations,
+
+it shall be the duty of the Director General to determine what if any further steps to take under that regulation.
+
+(3) It shall be the duty of the Director General to notify the complainant and every person entitled to be kept properly informed in relation to the complaint under regulation 50—
+
+- (a) of any determination under paragraph (2) not to take further steps under regulation 67; and
+- (b) where the Director General determines[^key-573bea539c6d00530a362d2aec5e0748] under that sub-paragraph to take further steps under that regulation, of the outcome of the taking of those steps.
+
+### 59. Register to be kept by the Director General[^key-da2da4d1bc31d1ce68b05cc600f520fc]
+
+(1) The Director General shall establish and maintain a register of all information supplied to the Director General by a relevant appropriate authority under these Regulations.
+
+(2) Subject to paragraph (3), the Director General may publish or otherwise disclose to any person any information held on the register provided that the publication or disclosure is necessary for or conducive to the purpose of—
+
+- (a) learning lessons from the handling of, or demonstrating the thoroughness and effectiveness of local resolutions, of investigations by the Director General or of managed or supervised investigations;
+- (b) raising public awareness of the complaints system; or
+- (c) improving the complaints system.
+
+(3) Information may not be published or disclosed in circumstances where in the opinion of the Director General the non-disclosure of information is necessary for the purposes mentioned in regulation 55(1)(a) and (b) (exceptions to the duty to keep the complainant informed and to provide information for other persons).
+
+(4) The Director General shall consult the relevant appropriate authority before disclosing information in accordance with paragraph (2) and shall have regard to any representations made to the Director General by the relevant appropriate authority when deciding what to disclose.
+
+### 60. Manner and time limits of notifications[^key-48b637a712dcd87bcf5f0dcd8f8d8b0f]
+
+(1) Any notification to be given under these Regulations shall—
+
+- (a) unless otherwise specified in these Regulations or determined in guidance issued by the Director General, be given in writing;
+- (b) unless otherwise specified in these Regulations, be made within such period as the Director General may determine in guidance.
+
+(2) No time limit mentioned in these Regulations or determined by the Director General shall apply in any case where exceptional circumstances prevent that time limit being complied with.
+
+## PART 7 — REPORTS AND RECOMMENDATIONS
+
+### 61. Action by a police force on completion of an investigation report[^key-0f8eac4044326b9bc39eb7d2af5afe40]
+
+(1) This regulation applies on completion of an investigation by a person appointed in accordance with regulation 38 (investigation by a police force at the request of a relevant appropriate authority).
+
+(2) On completion of that investigation the person appointed in accordance with regulation 38 shall determine whether the conditions set out in sub-paragraphs (4) and (5) are satisfied in respect of the report;
+
+(3) If the person appointed in accordance with regulation 38 determines that those conditions are so satisfied, that person shall notify—
+
+- (a) the Director of Public Prosecutions [^key-467f92fc2175ca91bddbf73f09c6a9ca]... of the determination and send that person a copy of the report; and
+- (b) the relevant appropriate authority and the persons mentioned in paragraph (8) of its determination under paragraph (a).
+
+(4) The first condition is that the report indicates that a criminal offence may have been committed by a person to whose conduct the investigation related.
+
+(5) The second condition is that the circumstances are such that, in the opinion of the person appointed in accordance with regulation 38, it is appropriate for the matters dealt with in the report to be considered by the Director of Public Prosecutions [^key-55c143cc7313f207f35552c98c0d3b14]....
+
+(6) The Director of Public Prosecutions [^key-d177eb2582415a93995bdc76d5edd056]... shall notify the person appointed in accordance with regulation 38 of any decision of the Director to take, or not to take, action in respect of the matters dealt with in any report a copy of which has been sent to the Director under paragraph (3)(a).
+
+(7) It shall be the duty of the person appointed in accordance with regulation 38 to notify the persons mentioned in paragraph (8) if criminal proceedings are brought against any person by the Director of Public Prosecutions [^key-94b096bd3eabbc2417aa7f21fc1aa0ac]... in respect of any matters dealt with in a report copied to the Director under paragraph (3)(a).
+
+(8) Those persons are—
+
+- (a) in the case of a complaint, the complainant and every person entitled to be kept properly informed in relation to the complaint under regulation 50 (duty to provide information for other persons); and
+- (b) in the case of a recordable conduct matter, every person entitled to be kept properly informed in relation to that matter under that regulation.
+
+### 62. Final reports on investigations: complaints, conduct matters and certain DSI matters[^key-54904e90ae92b9bc21f24fe96d87ef75]
+
+(1) This regulation applies on the completion of an investigation of—
+
+- (a) a complaint, or
+- (b) a conduct matter.
+
+(2) A person appointed under regulation 37 (investigations by the relevant appropriate authority on its own behalf) shall submit a report on that person’s investigation to the relevant appropriate authority.
+
+(3) A person appointed in accordance with regulation 38 (investigation by a police force at the request of the relevant appropriate authority) shall—
+
+- (a) submit a report on that person’s investigation to the relevant appropriate authority; and
+- (b) send a copy of that report to the Director General.
+
+(4) The report shall set out the determination of the person appointed in accordance with regulation 38 (investigation by a police force at the request of the relevant appropriate authority) as to whether the conditions set out in regulation 61(4) and (5) (action by a police force on completion of an investigation report) have been satisfied and whether the Director of Public Prosecutions [^key-93ffe320604212e651eb02351b72a062]... has been sent a copy of the investigation report in accordance with regulation 61(3)(a).
+
+(5) A person appointed under regulation 39 (investigations supervised by the Director General), 40 (investigations by a police force under the management or under the supervision of the Director General), or 41 (investigations managed by the Director General) shall—
+
+- (a) submit a report on that investigation to the Director General; and
+- (b) send a copy of that report to the relevant appropriate authority.
+
+(6) A person designated under regulation 42 (investigations by the Director General [^key-faab3f39d36ca9527fb25837bd5278cd]...) as the person in charge of an investigation shall—[^key-96ab5dbac3098222fbff173656156a40]
+
+- (a) submit a report on the investigation to the Director General, or
+- (b) where the person in charge of the investigation is the Director General acting personally, complete a report on the investigation.
+
+(7) A person submitting or, in the case of an investigation under regulation 42 by the Director General personally, completing[^key-6c5e1f7c397c0fbf7d6f1965988c5306] a report under this regulation shall not be prevented by any obligation of secrecy imposed by any rule of law or otherwise from including all such matters in that person’s report as that person thinks fit.
+
+(8) A person who has submitted or, in the case of an investigation under regulation 42 by the Director General personally, completed[^key-8ddd88e48222547d8ad82c3bb60d899c] a report under this regulation on an investigation within regulation 52(1) (duty to consider submissions from relevant officers, relevant officials of the Secretary of State, relevant contractors, officials exercising customs revenue functions and customs revenue contractors) must supply the relevant appropriate authority with such copies of further documents or other items in that person’s possession as the authority may request.
+
+(9) The relevant appropriate authority may only make a request in respect of a copy of a document or other item if the relevant appropriate authority—
+
+- (a) considers that the document or item is of relevance to the investigation, and
+- (b) requires a copy of the document or the item for either or both of the purposes mentioned in paragraph (10).
+
+(10) Those purposes are—
+
+- (a) complying with any obligation which the authority has under the disciplinary proceedings in relation to any person whose conduct is the subject-matter of the investigation;
+- (b) ensuring that any relevant officer, relevant official of the Secretary of State or official exercising customs revenue functions receives a fair hearing at any disciplinary proceedings in respect of any such conduct of that officer.
+
+### 63. Action by the Director General in response to an investigation report under regulation 62[^key-585cc207c44f0b4283e67d764cc62148]
+
+(1) This regulation applies where—
+
+- (a) a report on an investigation carried out under the management of the Director General is submitted to the Director General under paragraph (3) of regulation 62 (final reports on investigations: complaints, conduct matters and certain DSI matters); or
+- (b) a report on an investigation carried out by a person designated by the Director General is submitted to the Director General, or is otherwise completed,[^key-2363728e912c9ae14b1d599704dc2176] under paragraph (5) of that regulation.
+
+(2) On receipt of the report , or on its completion by the Director General,[^key-66cf132d3a813dd9ca38c33f4ad7540d], the Director General—
+
+- (a) if it appears that the relevant appropriate authority has not already been sent a copy of the report, shall send a copy of the report to that authority;
+- (b) shall determine whether the conditions set out in sub-paragraphs (3) and (4) are satisfied in respect of the report;
+- (c) if the Director General determines that those conditions are so satisfied, shall notify the Director of Public Prosecutions [^key-5f4b3906f28ef97f2cff8c04f8c5ce27]... of the determination and send that person a copy of the report; and
+- (d) shall notify the relevant appropriate authority and the persons mentioned in paragraph (7) of the Director General’s determination under paragraph (b) and of any action taken by the Director General under paragraph (c).
+
+(3) The first condition is that the report indicates that a criminal offence may have been committed by a person to whose conduct the investigation related.
+
+(4) The second condition is that the circumstances are such that, in the opinion of the Director General, it is appropriate for the matters dealt with in the report to be considered by the Director of Public Prosecutions [^key-a558d5299f5373f5d257c98b6ecf9605]....
+
+(5) The Director of Public Prosecutions [^key-e441f76d97a7b1a03778fea87bdb40e4]... shall notify the Director General of any decision of the Director to take, or not to take, action in respect of the matters dealt with in any report a copy of which has been sent to the Director under paragraph (2)(c).
+
+(6) It shall be the duty of the Director General to notify the persons mentioned in paragraph (5) if criminal proceedings are brought against any person by the Director of Public Prosecutions [^key-cba9dce03698a74ddffd80bcdde70fc6]... in respect of any matters dealt with in a report copied to the Director under paragraph (2)(c).
+
+(7) Those persons are—
+
+- (a) in the case of a complaint, the complainant and every person entitled to be kept properly informed in relation to the complaint under regulation 50 (duty to provide information for other persons); and
+- (b) in the case of a recordable conduct matter, every person entitled to be kept properly informed in relation to that matter under that regulation.
+
+(8) On receipt of the report, the Director General shall also notify the relevant appropriate authority that it must determine—
+
+- (a) whether any relevant officer, relevant official of the Secretary of State, relevant contractor, official exercising customs revenue functions or customs revenue contractor (person whose conduct is in question) has a case to answer in respect of their conduct or has no case to answer; and
+- (b) what action (if any) the authority is required to, or will in its discretion, take in respect of the matters dealt with in the report; and
+- (c) what other action (if any) the authority will in its discretion take in respect of those matters.
+
+(9) On receipt of a notification under paragraph (8) in relation to a relevant contractor or customs revenue contractor, the relevant appropriate authority shall make those determinations and submit a memorandum to the Director General which sets out the determinations the authority has made.
+
+(10) On receipt of a notification under paragraph (8) in relation to a relevant officer, relevant official of the Secretary of State or official exercising customs revenue functions, the relevant appropriate authority shall make those determinations and submit a memorandum to the Director General which—
+
+- (a) sets out the determinations the authority has made, and
+- (b) if the relevant appropriate authority has decided in relation to any person whose conduct is the subject-matter of the report that disciplinary proceedings should not be brought against that person, sets out its reasons for so deciding.
+
+(11) On receipt of a memorandum under paragraph (9) or (10), the Director General shall—
+
+- (a) consider the memorandum and whether the relevant appropriate authority has made the determinations under paragraph (9) or (10)(a) that the Director General considers appropriate in respect of the matters dealt with in the report;
+- (b) determine, in the light of the Director General’s consideration of those matters, whether or not to make recommendations under regulation 67 (duties with respect to disciplinary proceedings); and
+- (c) make such recommendations (if any) under that regulation as the Director General thinks fit.
+
+(12) On the making of a determination under paragraph (11)(b) the Director General shall give a notification—
+
+- (a) in the case of a complaint, to the complainant and to every person entitled to be kept properly informed in relation to the complaint under regulation 49 (duty to keep the complainant informed); and
+- (b) in the case of a recordable conduct matter, to every person entitled to be kept properly informed in relation to that matter under regulation 50 (duty to provide information for other persons).
+
+(13) The notification required by paragraph (12) is one setting out—
+
+- (a) the findings of the report;
+- (b) the Director General’s’ determination under paragraph (11)(b); and
+- (c) the action which the relevant appropriate authority is to be recommended to take as a consequence of the determination.
+
+(14) Paragraphs (5) and (6) of regulation 49 (duty to keep the complainant informed) shall have effect in relation to the duties imposed on the Director General by paragraph (12) of this regulation as they have effect in relation to the duties imposed on the Director General by that regulation.
+
+(15) The Director General shall be entitled (notwithstanding any obligation of secrecy imposed by any rule of law or otherwise) to discharge the duty to give a person mentioned in paragraph (12) notification of the findings of the report by sending that person a copy of the report.
+
+### 64. Action by the relevant appropriate authority in response to an investigation report under regulation 62[^key-9a4855ed7e4a9d31755986026e0366e7]
+
+(1) This regulation applies where—
+
+- (a) a report of an investigation is submitted to the relevant appropriate authority in accordance with regulation 62(2) (final reports on investigations: complaints, conduct matters and certain DSI matters); or
+- (b) a report, or a copy of a report is sent to the relevant appropriate authority in accordance with regulation 62(3) or (4).
+
+(2) On receipt of the report or (as the case may be) of the copy, the relevant appropriate authority shall note the contents of the report and determine—
+
+- (a) whether any person to whose conduct the investigation related has a case to answer in respect of their conduct or has no case to answer;
+- (b) what action (if any) the authority is required to, or will in its discretion, take in respect of the matters dealt with in the report; and
+- (c) what other action (if any) the authority will in its discretion take in respect of those matters.
+
+(3) On the making of the determinations under paragraph (2) the relevant appropriate authority shall give a notification—
+
+- (a) in the case of a complaint, to the complainant and to every person entitled to be kept properly informed in relation to the complaint under regulation 49 (duty to keep complainant informed); and
+- (b) in the case of a recordable conduct matter, to every person entitled to be kept properly informed in relation to that matter under regulation 50 (duty to provide information for other persons).
+
+(4) The notification required by paragraph (3) is one setting out—
+
+- (a) the findings of the report;
+- (b) the determinations the authority has made under paragraph (2);
+- (c) the action (if any) which that authority has decided to take; and
+- (d) the complainant’s right of appeal under regulation 70 (appeals to the Director General with respect to an investigation).
+
+(5) Paragraphs (5) and (6) of regulation 49 shall have effect in relation to the duties imposed on the relevant appropriate authority by paragraph (3) of this regulation as they have effect in relation to the duties imposed on the relevant appropriate authority by that section.
+
+(6) Except so far as may be otherwise provided by paragraph (5), the relevant appropriate authority shall be entitled (notwithstanding any obligation of secrecy imposed by any rule of law or otherwise) to discharge the duty to give a person mentioned in paragraph (4) notification of the findings of the report by sending that person a copy of the report.
+
+### 65. Final reports on investigations: DSI matters[^key-bde9107388edcdeb1edb38f7c313afe1]
+
+(1) This regulation applies on the completion of an investigation of a DSI matter in respect of which neither the Director General, nor the person appointed under regulation 38 (investigation by a police force at the request of the relevant appropriate authority) or 40 (investigation by a police force under the management or under the supervision of the Director General) has made a determination that the person whose conduct is in question may have—
+
+- (a) committed a criminal offence; or
+- (b) behaved in a manner which would justify the bringing of disciplinary proceedings.
+
+(2) The person investigating shall—
+
+- (a) submit a report on the investigation to the Director General; and
+- (b) send a copy of that report to the relevant appropriate authority.
+
+(3) A person submitting a report under this regulation shall not be prevented by any obligation of secrecy imposed by any rule of law or otherwise from including all such matters in his report as that person thinks fit.
+
+(4) On receipt of the report, the Director General shall determine whether the report indicates that a relevant officer, relevant official of the Secretary of State, relevant contractor, official exercising customs revenue functions or customs revenue contractor may have—
+
+- (a) committed a criminal offence, or
+- (b) behaved in a manner which would justify the bringing of disciplinary proceedings.
+
+(5) If the Director General determines under paragraph (4) that there is no indication in the report that an officer may have—
+
+- (a) committed a criminal offence, or
+- (b) behaved in a manner which would justify the bringing of disciplinary proceedings,
+
+the Director General shall make such recommendations or give such advice under regulation 6(1)(e) (general functions of the Director General) (if any) as the Director General considers necessary or desirable.
+
+(6) Paragraph (5) does not affect any power of the Director General to make recommendations or give advice under regulation 6(1)(e) in other cases (whether arising under these Regulations or otherwise).
+
+### 66. Action by the Director General in response to an investigation report under regulation 65[^key-ac3d1b880cdd75e66074513e44d56ce8]
+
+(1) If the Director General determines under regulation 65(4) (final reports on investigations: other DSI matters) that the report indicates that a relevant officer, relevant official of the Secretary of State, relevant contractor, official exercising customs revenue functions or customs revenue contractor may have—
+
+- (a) committed a criminal offence, or
+- (b) behaved in a manner which would justify the bringing of disciplinary proceedings,
+
+the Director General shall notify the relevant appropriate authority in relation to the person whose conduct is in question of the Director General’s determination and, if it appears that that authority has not already been sent a copy of the report, send a copy of the report to that authority.
+
+(2) Where the relevant appropriate authority is notified of a determination by the Director General under paragraph (1), it shall record the matter under regulation 18 (recording etc. of conduct matters in other cases) as a conduct matter (and the other provisions of these Regulations shall apply in relation to that matter accordingly).
+
+(3) Where a DSI matter is recorded under regulation 18 as a conduct matter by virtue of paragraph (2)—
+
+- (a) the person investigating the DSI matter shall (subject to any determination made by the Director General under regulation 31(6) (power of the Director General to determine the form of an investigation) investigate the conduct matter as if appointed or designated to do so, and
+- (b) the other provisions of these Regulations shall apply in relation to that matter accordingly.
+
+### 67. Duties with respect to disciplinary proceedings[^key-760a19483dc77a126e28fc21c7608455]
+
+(1) This regulation applies where, in the case of any investigation, the relevant appropriate authority—
+
+- (a) has given, or is required to give, a notification under regulation 63(12) (action by the Director General in response to an investigation report under regulation 62) of the action it is proposing to take in relation to the matters dealt with in any report of the investigation; or
+- (b) has submitted, or is required to submit, a memorandum to the Director General under regulation 63 or 70 (appeals to the Director General with respect to an investigation) setting out the action that it is proposing to take in relation to those matters.
+
+(2) Subject to regulation 46 (restrictions on proceedings pending the conclusion of an investigation) and to any recommendations or directions under the following provisions of this regulation, it shall be the duty of the relevant appropriate authority—
+
+- (a) to take the action which has been or is required to be notified or, as the case may be, which is or is required to be set out in the memorandum; and
+- (b) in a case where that action consists of or includes the bringing of disciplinary proceedings, to secure that those proceedings, once brought, are proceeded with to a proper conclusion.
+
+(3) Where this regulation applies to a relevant contractor or customs revenue contractor by virtue of paragraph (1)(b), the Director General may make a recommendation to the relevant appropriate authority in respect of that person that the person has a case to answer in respect of their conduct or has no case to answer in relation to their conduct to which the investigation related and it shall be the duty of the relevant appropriate authority to notify the Director General whether it accepts the recommendation and (if it does) to set out in the notification the steps that it is proposing to take to give effect to it.
+
+(4) Where this regulation applies to a relevant officer, relevant official of the Secretary of State or official exercising customs revenue functions by virtue of paragraph (1)(b), the Director General may make a recommendation to the relevant appropriate authority in respect of that person —
+
+- (a) that the person has a case to answer in respect of their conduct or has no case to answer in relation to their conduct to which the investigation related;
+- (b) that disciplinary proceedings are brought against that person in respect of the conduct to which the investigation related; or
+- (c) that any disciplinary proceedings brought against that person are modified so as to deal with such aspects of that conduct as may be so specified;
+
+and it shall be the duty of the relevant appropriate authority to notify the Director General whether it accepts the recommendation and (if it does) to set out in the notification the steps that it is proposing to take to give effect to it.
+
+(5) If, after the Director General has made a recommendation under this regulation, the relevant appropriate authority does not take steps to secure that full effect is given to the recommendation—
+
+- (a) the Director General may direct the relevant appropriate authority to take steps for that purpose; and
+- (b) it shall be the duty of the relevant appropriate authority to comply with the direction.
+
+(6) A direction under paragraph (5) may, to such extent as the Director General thinks fit, set out the steps to be taken by the appropriate authority in order to give effect to the recommendation.
+
+(7) Where the Director General gives the relevant appropriate authority a direction under this regulation, the Director General shall supply the relevant appropriate authority with a statement of the Director General’s reasons for doing so.
+
+(8) Where disciplinary proceedings have been brought in accordance with a recommendation or direction under this regulation, it shall be the duty of the authority to ensure that they are proceeded with to a proper conclusion.
+
+(9) The Director General may at any time withdraw a direction given under this regulation; and paragraph (8) shall not impose any obligation in relation to any time after the withdrawal of the direction.
+
+(10) The relevant appropriate authority shall keep the Director General informed—
+
+- (a) in a case in which this regulation applies by virtue of paragraph (1)(b), of whatever action it takes in pursuance of its duty under paragraph (2); and
+- (b) in every case of a recommendation or direction under this regulation, of whatever action it takes in response to that recommendation or direction.
+
+### 68. Complaints against a person whose identity is not ascertained[^key-7db4620745160ff66ba6a7dc0c7ac137]
+
+(1) Where a complaint or conduct matter relates to the conduct of a person whose identity is not ascertained at the time at which the complaint is made or the conduct matter is recorded, or whose identity is not ascertained during or subsequent to, the investigation of the complaint or recordable conduct matter, then these Regulations shall apply in relation to such a person as if it did not include—
+
+- (a) any requirement for the person complained against to be given an opportunity to make representations;
+- (b) any requirement for the Director General or the relevant appropriate authority to determine whether a criminal offence may have been committed by the person whose conduct has been the subject-matter of an investigation, or to take any action in relation to such a determination;
+- (c) any requirement for a relevant appropriate authority to determine whether disciplinary proceedings should be brought against a person whose conduct is the subject-matter of a report.
+
+(2) Where the identity of such a person is subsequently ascertained, the Director General and relevant appropriate authority shall take such action in accordance with these Regulations as they see fit.
+
+## PART 8 — APPEALS
+
+### 69. Appeals to the Director General: failures to notify or record a complaint[^key-e9d446a8d38e8d0e44376173990eec18]
+
+(1) An appeal under regulation 15 against any failure referred to in regulation 15(3) (failures to notify or record a complaint) shall be made within 28 days of the date on which notification of that failure is made or sent to the complainant under regulation 15(2).
+
+(2) Any such appeal shall be made in writing and shall state—
+
+- (a) details of the complaint;
+- (b) the date on which the complaint was made;
+- (c) the grounds for the appeal; and
+- (d) the date on which the complainant was notified of the determination or of the failure to record the complaint.
+
+(3) Where the Director General receives such an appeal the Director General shall—
+
+- (a) notify the relevant appropriate authority of the appeal; and
+- (b) request any information from any person which the Director General considers necessary to dispose of the appeal.
+
+(4) Where the Director General receives an appeal which fails to comply with one or more of the requirements mentioned in paragraph (2), the Director General may decide to proceed as if those requirements had been complied with.
+
+(5) The relevant appropriate authority shall supply to the Director General any information reasonably requested under paragraph (3)(b).
+
+(6) The Director General shall determine the outcome of the appeal as soon as practicable.
+
+(7) The Director General shall notify the complainant and the relevant appropriate authority of the reasons for the Director General’s determination.
+
+(8) The Director General may extend the time period mentioned in paragraph (1) in any case where the Director General is satisfied that by reason of the special circumstances of the case it is just to do so.
+
+### 70. Appeals to the Director General with respect to an investigation[^key-14b7511dff69c21ac2a9eec821db4218]
+
+(1) This regulation applies where a complaint has been subjected to—
+
+- (a) an investigation by the relevant appropriate authority on its own behalf; or
+- (b) an investigation under the supervision of the Director General following a determination under regulation 21 (reference of complaints to the Director General), 23 (reference of conduct matters to the Director General) or 27 (reference of DSI matters to the Director General).
+
+(2) The complainant shall have the following rights of appeal to the Director General—
+
+- (a) a right to appeal on the grounds that the complainant has not been provided with adequate information—
+  - (i) about the findings of the investigation; or
+  - (ii) about any determination of the relevant appropriate authority relating to the taking (or not taking) of action in respect of any matters dealt with in the report on the investigation;
+- (b) a right to appeal against the findings of the investigation;
+- (c) a right of appeal against any determination by the relevant appropriate authority that a person to whose conduct the investigation related has a case to answer in respect of their conduct or has no case to answer;
+- (d) a right of appeal against any determination by a person appointed in accordance with regulation 38 (investigation by a police force at the request of the relevant appropriate authority) under regulation 63(2)(c) (action by the Director General in response to an investigation report under regulation 62 or regulation 61(3) (action by police force on completion of an investigation report); and
+- (e) where the complaint concerns the conduct of a relevant officer, relevant official of the Secretary of State or official exercising customs revenue functions, a right of appeal against any determination by the relevant appropriate authority relating to the taking (or not taking) of action in respect of any matters dealt with in the report, as a result of which it is not required to send the Director of Public Prosecutions [^key-cbab096a03e86cb217b5f5338a3eec93]... a copy of the report.
+
+(3) On the bringing of an appeal under this regulation, the Director General may require the person investigating to submit a memorandum to the Director General which—
+
+- (a) sets out whether the relevant appropriate authority has determined that a person to whose conduct the investigation related has a case to answer in respect of their conduct or has no case to answer;
+- (b) sets out what action (if any) the relevant appropriate authority has determined that it is required to or will, in its discretion, take in respect of the matters dealt with in the report;
+- (c) if the relevant appropriate authority is proposing to take any action, sets out what action it is proposing to take;
+- (d) if the relevant appropriate authority has decided in relation to a person to whose conduct the investigation related; that disciplinary proceedings should not be brought against that person, sets out its reasons for so deciding and it shall be the duty of the relevant appropriate authority to comply with any requirement under this paragraph; and
+- (e) if a person appointed in accordance with regulation 38 made a determination under regulation 63(2)(c) as a result of which it is not required to send the Director of Public Prosecutions [^key-0bda052902910e170fc13a245ea79b5c]... a copy of the report relating to the investigation, sets out the reasons for that determination.
+
+(4) Where the Director General so requires on the bringing of any appeal under this regulation in the case of an investigation by the relevant appropriate authority on its own behalf, the relevant appropriate authority shall provide the Director General with a copy of the report of the investigation.
+
+(5) On an appeal under this regulation, the Director General shall determine such of the following as the Director General considers appropriate in the circumstances—
+
+- (a) whether the complainant has been provided with adequate information about the matters mentioned in paragraph (2)(a);
+- (b) whether the findings of the investigation need to be reconsidered; and
+- (c) whether the relevant appropriate authority—
+  - (i) has made such a determination as is mentioned in paragraph (3)(a) that the Director General considers to be appropriate in respect of matters dealt with in the report, and
+  - (ii) has determined that it is required to or will, in its discretion, take the action (if any) that the Director General considers to be so appropriate; and
+- (d) whether the conditions set out in regulation 63(3) and (4) are satisfied in respect of the report on the investigation.
+
+(6) If, on an appeal under this regulation, the Director General determines that the complainant has not been provided with adequate information about any matter, the Director General shall give the person investigating all such directions as the Director General considers appropriate for securing that the complainant is properly informed.
+
+(7) If, on an appeal under this regulation, the Director General determines that the findings of the investigation need to be reconsidered, the Director General shall either—
+
+- (a) review those findings without an immediate further investigation; or
+- (b) direct that the complaint be re-investigated.
+
+(8) If, on an appeal under this regulation, the Director General determines that the relevant appropriate authority has not made a determination as to whether there is a case for a person to whose conduct the investigation related to answer that the Director General considers appropriate or has not determined that it is required to or will, in its discretion, take the action in respect of the matters dealt with in the report that the Director General considers appropriate, the Director General shall—
+
+- (a) determine, in the light of that determination, whether or not to make recommendations under regulation 67 (duties with respect to disciplinary proceedings); and
+- (b) make such recommendations (if any) under that regulation as the Director General thinks fit.
+
+(9) If, on an appeal under this regulation, the Director General determines that the conditions set out in regulation 63(3) and (4) are satisfied in respect of the report, the Director General shall direct the person appointed in accordance with regulation 38—
+
+- (a) to notify the Director of Public Prosecutions [^key-7a9444d0bf63953294f3c59d02010b06]... of the Director General’s’ determination, and
+- (b) to send the Director a copy of the report.
+
+(10) The Director General shall give notification of any determination under this regulation—
+
+- (a) to the relevant appropriate authority;
+- (b) to the complainant;
+- (c) the person appointed in accordance with regulation 38 (if appropriate);
+- (d) to every person entitled to be kept properly informed in relation to the complaint under regulation 49 (duty to keep the complainant informed); and
+- (e) except in a case where it appears to the Director General that to do so might prejudice any proposed review or re-investigation of the complaint, to the person complained against.
+
+(11) The Director General shall also give notification of any directions given to a person under this regulation—
+
+- (a) to the complainant;
+- (b) to every person entitled to be kept properly informed in relation to the complaint under regulation 50 (duty to provide information for other persons); and
+- (c) except in a case where it appears to the Director General that to do so might prejudice any proposed review or re-investigation of the complaint, to the person complained against.
+
+(12) The Director General shall consult the relevant appropriate authority before giving it directions in accordance with paragraph (6), recommendations in accordance with paragraph (8), or a notification in accordance with paragraph (10) or (11) and shall have regard to any representations made to the Director General by the relevant appropriate authority in giving those directions.
+
+(13) It shall be the duty of the person investigating to comply with any directions given to it under this regulation.
+
+(14) Any appeal made by a complainant under this regulation shall be made within 28 days of the date on which the person investigating sends a notification to the complainant of its determination under regulation 63(13) or 61(3) as to what action (if any) it will take in respect of the matters dealt with in the investigation report.
+
+(15) Any such appeal shall be in writing and shall state—
+
+- (a) details of the complaint;
+- (b) the date on which the complaint was made;
+- (c) the grounds for the appeal; and
+- (d) the date on which the complainant received notification under regulation 63(12) or 61(3).
+
+(16) Where the Director General receives such an appeal the Director General shall request any information from any person which the Director General consider necessary to dispose of the appeal.
+
+(17) Where the Director General receives an appeal which fails to comply with one or more of the requirements mentioned in paragraph (15), the Director General may decide to proceed as if those requirements had been complied with.
+
+(18) The person investigating shall supply to the Director General any further information requested of it under paragraph (16).
+
+(19) The Director General shall determine the outcome of the appeal as soon as practicable.
+
+(20) The Director General shall notify the complainant and the person investigating of the reasons for the Director General’s determination.
+
+(21) The Director General may extend the time period mentioned in paragraph (14) in any case where the Director General is satisfied that by reason of the special circumstances of the case it is just to do so.
+
+### 71. Reviews and re-investigations following an appeal[^key-6e8ee0b7f4b4a59d768b7cb8e4af6478]
+
+(1) On a review under regulation 70(7)(a) (appeals to the Director General with respect to an investigation) of the findings of an investigation the powers of the Director General shall be, according to the Director General’s determination on that review, to do one or more of the following—
+
+- (a) to uphold the findings in whole or in part;
+- (b) to give the person investigating such directions—
+  - (i) as to the carrying out by the relevant appropriate authority of its own review of the findings,
+  - (ii) as to the information to be provided to the complainant, and
+  - (iii) generally as to the handling of the matter in future,
+
+as the Director General thinks fit;
+
+- (c) to direct that the complaint be re-investigated.
+
+(2) Where the Director General directs under regulation 70 or paragraph (1) that a complaint be re-investigated, the Director General shall make a determination of the form that the re-investigation should take.
+
+(3) Paragraphs (3) to (8) of regulation 31 (power of the Director General to determine the form of an investigation) shall apply in relation to a determination under paragraph (2) as they apply in the case of a determination under that regulation.
+
+(4) The provisions of these Regulations shall apply in relation to any re-investigation in pursuance of a direction under regulation 70(9) or paragraph (1) of this regulation as they apply in relation to any investigation in pursuance of a determination under regulation 31.
+
+(5) The Director General shall give notification of any determination made by the Director General under this regulation—
+
+- (a) to the relevant appropriate authority,
+- (b) the person appointed in accordance with regulation 38 (investigation by a police force at the request of the relevant appropriate authority) or regulation 40 (investigation by a police force under the management or under the supervision of the Director General),
+- (c) to the complainant, and
+- (d) to every person entitled to be kept properly informed in relation to the complaint under regulation 49 (duty to keep the complainant informed),
+
+except in a case where it appears to the Director General that to do so might prejudice any proposed re-investigation of the complaint, to the person complained against.
+
+(6) The Director General shall also give notification of any directions given to the person investigating under this regulation—
+
+- (a) to the complainant, and
+- (b) to every person entitled to be kept properly informed in relation to the complaint under section
+
+except in a case where it appears to the Director General that to do so might prejudice any proposed review or re-investigation of the complaint, to the person complained against.
+
+## PART 9 — REVOCATION, SAVING AND TRANSITIONAL PROVISIONS
+
+### 72. Revocation of the 2009 Regulations, saving and transitional provisions[^key-2b1120b4d344a51cdbc9cdf7d22815d6]
+
+(1) The 2009 Regulations are revoked.
+
+(2) Notwithstanding the revocation of the 2009 Regulations, regulation 72 of those Regulations shall continue to have effect in respect of those complaints, conduct matters or DSI matters to which it applies.
+
+(3) These Regulations apply to a complaint, conduct matter or DSI matter relating to —
+
+- (a) a relevant officer, relevant official of the Secretary of State, relevant contractor, official exercising customs revenue functions or a customs revenue contractor where the conduct or matter is alleged to have occurred on or after 6<sup>th</sup> April 2010;
+- (b) a relevant officer, relevant official of the Secretary of State or an official exercising customs revenue functions where the conduct or matter is alleged to have occurred on or after 5<sup>th</sup> August 2009 and before 6<sup>th</sup> April 2010, but does not come to the attention of the relevant appropriate authority until on or after 6<sup>th</sup> April 2010; and
+- (c) an immigration officer exercising specified enforcement functions or an official of the Secretary of State exercising specified enforcement functions in relation to immigration or asylum where the conduct or matter is alleged to have occurred after 1<sup>st</sup> April 2007 and before 5<sup>th</sup> August 2009, but does not come to the attention of the relevant appropriate authority until on or after 6<sup>th</sup> April 2010.
+
+(4) In this regulation the term “specified enforcement functions” has the same meaning as in the 2008 Regulations.
+
+Phil Woolas
+
+Minister of State
+
+Home Office
+
+15th March 2010
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations provide for the Independent Police Complaints Commission (IPCC) to have oversight of serious complaints and conduct matters (including incidents where a death or serious injury has taken place) that arise as a result of UK Border Agency (UKBA) officers, officials and contractors exercising certain functions in relation to immigration, asylum and customs. They broadly mirror the arrangements for IPCC oversight of the police set out in Part 2 and Schedule 3 to the Police Reform Act 2002 and relevant secondary legislation.
+
+The Regulations are arranged as follows:
+
+Part 1 Complaints & Misconduct
+
+Part 2 Handling of Complaints & Conduct matters etc
+
+Part 3 Referral of matters to the IPCC
+
+Part 4 Handling Death and Serious Injury Matters (DSI)
+
+Part 5 Investigations
+
+Part 6 Provision of Information
+
+Part 7 Reports & Recommendations
+
+Part 8 Appeals
+
+Part 9 Revocation, Saving and Transitional Provisions
+
+The Regulations revoke and remake, with certain amendments, the UK Border Agency (Complaints and Misconduct) Regulations 2009 (the 2009 Regulations). The 2009 Regulations conferred functions on the IPCC in relation to the exercise of certain functions in relation to immigration, asylum and customs by UK Border Agency (UKBA) officers and officials. In addition, these Regulations confer functions on the IPCC in relation to the exercise of certain functions in relation to immigration, asylum and customs by contractors.
+
+## Annotations
+
+[^f00001]: Footnote: [2006 c. 48](https://www.legislation.gov.uk/ukpga/2006/48). Section 41 has been amended by section 30 of the Borders, Citizenship and Immigration Act [2009 (c. 11)](https://www.legislation.gov.uk/ukpga/2009/11).
+
+[^key-7174f13cd58697c8954a88cfa9f28783]: Commencement: Reg. 1 in force at 7.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/782/regulation/1/1)
+
+[^key-9da8ed1f343f6c7a37d0b6c50da7d343]: Commencement: Reg. 2 in force at 7.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/782/regulation/1/1)
+
+[^f00002]: Footnote: [2002 c. 30](https://www.legislation.gov.uk/ukpga/2002/30). The 2002 Act has been amended by a number of enactments.
+
+[^f00003]: Footnote: [2009 c. 11](https://www.legislation.gov.uk/ukpga/2009/11).
+
+[^f00004]: Footnote: [S.I. 2009/2133](https://www.legislation.gov.uk/uksi/2009/2133).
+
+[^key-7eff48fc9fd073f926c7260f3c525dc1]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2010/782/regulation/2/1) inserted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [17(4)(a)(ii)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/17/4/a/ii) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+
+[^key-8c8babe4df1df1e6f30b38916b99eda5]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2010/782/regulation/2/1) inserted (6.4.2015) by [The Immigration (Appeals) (Consequential Amendments and Saving Provision) Order 2015 (S.I. 2015/383)](https://www.legislation.gov.uk/uksi/2015/383), [arts. 1](https://www.legislation.gov.uk/uksi/2015/383/article/1), [4(2)(b)](https://www.legislation.gov.uk/uksi/2015/383/article/4/2/b) (with [art. 5(3)](https://www.legislation.gov.uk/uksi/2015/383/article/5/3))
+
+[^key-816179dac7882e65405f6ab80a1bd59d]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2010/782/regulation/2/1) omitted (6.4.2015) by virtue of [The Immigration (Appeals) (Consequential Amendments and Saving Provision) Order 2015 (S.I. 2015/383)](https://www.legislation.gov.uk/uksi/2015/383), [arts. 1](https://www.legislation.gov.uk/uksi/2015/383/article/1), [4(2)(a)](https://www.legislation.gov.uk/uksi/2015/383/article/4/2/a) (with [art. 5(3)](https://www.legislation.gov.uk/uksi/2015/383/article/5/3))
+
+[^key-1dc261b0980d04fd7afe1329e8e95c46]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2010/782/regulation/2/1) omitted (8.1.2018) by virtue of [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [17(4)(a)(i)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/17/4/a/i) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+
+[^key-fad9383a6826bd72655e251bdf398c44]: Textual amendment: Words in [reg. 2(3)(ii)](https://www.legislation.gov.uk/uksi/2010/782/regulation/2/3/ii) substituted (6.4.2015) by [The Immigration (Appeals) (Consequential Amendments and Saving Provision) Order 2015 (S.I. 2015/383)](https://www.legislation.gov.uk/uksi/2015/383), [arts. 1](https://www.legislation.gov.uk/uksi/2015/383/article/1), [4(3)](https://www.legislation.gov.uk/uksi/2015/383/article/4/3) (with [art. 5(3)](https://www.legislation.gov.uk/uksi/2015/383/article/5/3))
+
+[^key-e2cd94bbe08bc555d530eb521924c6ad]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2010/782/regulation/2/1) substituted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [17(4)(a)(iii)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/17/4/a/iii) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+
+[^f00006]: Footnote: [2000 c.23](https://www.legislation.gov.uk/ukpga/2000/23).
+
+[^key-03a5a2c8fe7457a885e5772b0b4bb684]: Textual amendment: Words in [Regulations](https://www.legislation.gov.uk/uksi/2010/782) substituted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [17(2)(c)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/17/2/c) (with [regs. 17(3)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/17/3), [37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+
+[^key-8a9d0f5653619ec1eef81e2d37916109]: Textual amendment: Word in [reg. 2(8)](https://www.legislation.gov.uk/uksi/2010/782/regulation/2/8) omitted (8.1.2018) by virtue of [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [17(4)(b)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/17/4/b) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+
+[^key-ffe49e6414e5ccf5303c005eeec23084]: Commencement: Reg. 3 in force at 7.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/782/regulation/1/1)
+
+[^f00007]: Footnote: [1999 c.33](https://www.legislation.gov.uk/ukpga/1999/33).
+
+[^key-f1864d12cee046e5b97f6d27a7236a5f]: Commencement: Reg. 4 in force at 7.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/782/regulation/1/1)
+
+[^key-6d4ec237a3e26172e8dd01a514bf0490]: Textual amendment: Words in [Regulations](https://www.legislation.gov.uk/uksi/2010/782) substituted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [17(2)(b)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/17/2/b) (with [regs. 17(3)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/17/3), [37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+
+[^key-9e4e28b375c86afb83ac31fe3127ce6d]: Textual amendment: Words in [Regulations](https://www.legislation.gov.uk/uksi/2010/782) substituted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [17(2)(d)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/17/2/d) (with [regs. 17(3)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/17/3), [37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+
+[^f00008]: Footnote: Section 22 of the 2002 Act has been amended by section 160 of, and paragraphs 1 and 8 of Schedule 12 to, the Serious Organised Crime and Police Act [2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15); and section 6(1) of, and paragraph 11 of Schedule 4 to, the Police and Justice Act 2006.
+
+[^key-ab90307f5e6620ff2cb35a5aabe9554b]: Textual amendment: Words in [Regulations](https://www.legislation.gov.uk/uksi/2010/782) substituted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [17(2)(a)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/17/2/a) (with [regs. 17(3)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/17/3), [37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+
+[^key-d0389e613ef1337eb2b0a85c2da9837c]: Textual amendment: Words in [Regulations](https://www.legislation.gov.uk/uksi/2010/782) substituted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [17(2)(e)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/17/2/e) (with [regs. 17(3)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/17/3), [37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+
+[^f00009]: Footnote: Section 22(2) of the 2002 Act has been amended by section 160 of, and paragraphs 1 and 8 of Schedule 12 to, the Serious Organised Crime and Police Act 2005.
+
+[^f00010]: Footnote: Section 22(3) of the 2002 Act has been amended by section 6(1) of, and paragraph 11 of Schedule 4 to, the Police and Justice Act 2006.
+
+[^f00011]: Footnote: Section 23 of the 2002 Act has been amended by section 160 of, and paragraphs 1 and 9 to Schedule 12 to, the Serious Organised Crime and Police Act 2005; and section 127 of, and paragraphs 1 and 2 of Schedule 23 to, the Criminal Justice and Immigration Act [2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4).
+
+[^f00012]: Footnote: Section 23(2) of the 2002 Act has been amended by section 160 of, and paragraphs 1 and 9 of Schedule 12 to, the Serious Organised Crime and Police Act 2005; and section 127 of, and paragraphs 1 and 2 of Schedule 23 to, the Criminal Justice and Immigration Act 2008.
+
+[^key-f3d4220c7638d10a353a6d04f39e8da7]: Textual amendment: Words in [reg. 4(3)(b)](https://www.legislation.gov.uk/uksi/2010/782/regulation/4/3/b) substituted (16.1.2012) by [The Local Policing Bodies (Consequential Amendments) Regulations 2011 (S.I. 2011/3058)](https://www.legislation.gov.uk/uksi/2011/3058), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/3058/regulation/1/2), [25(2)](https://www.legislation.gov.uk/uksi/2011/3058/regulation/25/2)
+
+[^f00013]: Footnote: Section 24 of the 2002 Act has been amended by section 6(1) of, and paragraph 12 of Schedule 4 to, the Police and Justice Act 2006.
+
+[^key-dbb77258cfce5184ff10448e138f9b88]: Commencement: Reg. 5 in force at 7.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/782/regulation/1/1)
+
+[^key-3d8854b86b096c70fcfa9d0fc7a0df29]: Textual amendment: Word in [reg. 5](https://www.legislation.gov.uk/uksi/2010/782/regulation/5) substituted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [17(5)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/17/5) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+
+[^key-ed367898b9bcfc299aa2b7c6a29dc042]: Commencement: Reg. 6 in force at 7.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/782/regulation/1/1)
+
+[^key-7865e10280e7416a944db6c12f9c1b71]: Textual amendment: Word in [reg. 6(1)(a)](https://www.legislation.gov.uk/uksi/2010/782/regulation/6/1/a) omitted (8.1.2018) by virtue of [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [17(6)(a)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/17/6/a) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+
+[^key-20203c926e77520136ffbd8ffe579fe8]: Textual amendment: Words in [Regulations](https://www.legislation.gov.uk/uksi/2010/782) substituted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [17(2)(f)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/17/2/f) (with [regs. 17(3)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/17/3), [37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+
+[^key-dfcde60cb8be2233e11238a06b58b8b3]: Textual amendment: [Reg. 6(7A)](https://www.legislation.gov.uk/uksi/2010/782/regulation/6/7A) inserted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [17(6)(b)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/17/6/b) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+
+[^key-1a9ce02cdc45efa61bfa89783f103ec6]: Textual amendment: Word in [reg. 6(9)](https://www.legislation.gov.uk/uksi/2010/782/regulation/6/9) substituted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [17(6)(c)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/17/6/c) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+
+[^key-0ce7a5062fb79be1f7a2dddaf5c08417]: Textual amendment: [Regs. 6A](https://www.legislation.gov.uk/uksi/2010/782/regulation/6A), [6B](https://www.legislation.gov.uk/uksi/2010/782/regulation/6B) inserted (E.W.) (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [17(7)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/17/7) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+
+[^key-c81605fc287bfad166a6f322d16dd888]: Commencement: Reg. 7 in force at 7.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/782/regulation/1/1)
+
+[^key-ef981dc0b139c050e0f259d0e524a3af]: Textual amendment: [Reg. 7(1)](https://www.legislation.gov.uk/uksi/2010/782/regulation/7/1) substituted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [17(8)(a)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/17/8/a) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+
+[^key-a6803c29ee10478da78cf73e37014f08]: Textual amendment: [Reg. 7(6)](https://www.legislation.gov.uk/uksi/2010/782/regulation/7/6)[(6A)](https://www.legislation.gov.uk/uksi/2010/782/regulation/7/6A) substituted for [reg. 7(6)](https://www.legislation.gov.uk/uksi/2010/782/regulation/7/6) (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [17(8)(b)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/17/8/b) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+
+[^key-e31b7918d401805803241f8407507be6]: Commencement: Reg. 8 in force at 7.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/782/regulation/1/1)
+
+[^key-0eb156b6dcf3e4bb545a532239ce0601]: Commencement: Reg. 9 in force at 7.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/782/regulation/1/1)
+
+[^key-deb780fc914bbc3d37479a74ffbabf95]: Commencement: Reg. 10 in force at 7.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/782/regulation/1/1)
+
+[^key-08023bd9dd96fc53f5538bbafe81c298]: Textual amendment: Words in [reg. 10(4)](https://www.legislation.gov.uk/uksi/2010/782/regulation/10/4) substituted (16.1.2012) by [The Local Policing Bodies (Consequential Amendments) Regulations 2011 (S.I. 2011/3058)](https://www.legislation.gov.uk/uksi/2011/3058), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/3058/regulation/1/2), [25(3)](https://www.legislation.gov.uk/uksi/2011/3058/regulation/25/3)
+
+[^key-79aaaba952f320f5cb25e9a7a08261aa]: Textual amendment: Word in [reg. 10(4)(a)](https://www.legislation.gov.uk/uksi/2010/782/regulation/10/4/a) substituted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [17(9)(a)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/17/9/a) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+
+[^key-5ae3d0f0c0e811ce705f8c5a38da45e8]: Textual amendment: Word in [reg. 10(5)](https://www.legislation.gov.uk/uksi/2010/782/regulation/10/5) omitted (8.1.2018) by virtue of [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [17(9)(b)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/17/9/b) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+
+[^key-442f5021b7bbde4a3b1bb75698197d0d]: Commencement: Reg. 11 in force at 7.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/782/regulation/1/1)
+
+[^key-68641ef21f3ddc30aef891e8a6eaeded]: Textual amendment: Words in [reg. 11](https://www.legislation.gov.uk/uksi/2010/782/regulation/11) substituted (16.1.2012) by [The Local Policing Bodies (Consequential Amendments) Regulations 2011 (S.I. 2011/3058)](https://www.legislation.gov.uk/uksi/2011/3058), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/3058/regulation/1/2), [25(4)(a)](https://www.legislation.gov.uk/uksi/2011/3058/regulation/25/4/a)
+
+[^key-65c187f91df1f8220d5fcaffda2b1fda]: Textual amendment: Words in [reg. 11](https://www.legislation.gov.uk/uksi/2010/782/regulation/11) substituted (16.1.2012) by [The Local Policing Bodies (Consequential Amendments) Regulations 2011 (S.I. 2011/3058)](https://www.legislation.gov.uk/uksi/2011/3058), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/3058/regulation/1/2), [25(4)(b)](https://www.legislation.gov.uk/uksi/2011/3058/regulation/25/4/b)
+
+[^key-a78bc44b092ffdfb53c2a42de9d48975]: Textual amendment: Words in [reg. 11(5)](https://www.legislation.gov.uk/uksi/2010/782/regulation/11/5) substituted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [17(10)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/17/10) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+
+[^key-6ad49fa9116baf6a6c6bac6f1c610ccc]: Commencement: Reg. 12 in force at 7.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/782/regulation/1/1)
+
+[^key-0c5fbb03c4fce55fecb23b810da0bf65]: Commencement: Reg. 13 in force at 7.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/782/regulation/1/1)
+
+[^key-0511e2faf3c55945fa35637057cc9e6d]: Commencement: Reg. 14 in force at 7.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/782/regulation/1/1)
+
+[^key-93880fa51f3373ff3cde0da5fc87426b]: Commencement: Reg. 15 in force at 7.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/782/regulation/1/1)
+
+[^key-294522cef795ccec4b3ae0a4b9cde0f5]: Commencement: Reg. 16 in force at 7.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/782/regulation/1/1)
+
+[^key-51d04a8dd7021058ef7bc85217b95bf8]: Commencement: Reg. 17 in force at 7.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/782/regulation/1/1)
+
+[^key-2f21491d971b845d2d86333dba6f1a05]: Commencement: Reg. 18 in force at 7.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/782/regulation/1/1)
+
+[^key-3a3ac9274f11ba24f69ed62acef04bd1]: Textual amendment: Words in [reg. 18(3)(d)](https://www.legislation.gov.uk/uksi/2010/782/regulation/18/3/d) substituted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [17(11)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/17/11) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+
+[^key-108ca9a1022691cc4dca54c344b7c50e]: Commencement: Reg. 19 in force at 7.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/782/regulation/1/1)
+
+[^key-80ef16d73fea4db67162b21cfa09b669]: Commencement: Reg. 20 in force at 7.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/782/regulation/1/1)
+
+[^key-77a228334d530079f2ddd91ea4cf9e92]: Commencement: Reg. 21 in force at 7.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/782/regulation/1/1)
+
+[^key-61c8327ef133d9e7391357c92bf0205b]: Textual amendment: Words in [reg. 21(1)(b)(iv)](https://www.legislation.gov.uk/uksi/2010/782/regulation/21/1/b/iv) substituted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [17(11)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/17/11) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+
+[^key-987e0e1f5869d80bf20ee91166853867]: Commencement: Reg. 22 in force at 7.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/782/regulation/1/1)
+
+[^key-dcf143dcfc3fed47182cbbf1aea5b100]: Commencement: Reg. 23 in force at 7.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/782/regulation/1/1)
+
+[^key-fa9f18c3d79a77eeaa9eaba6e4bee52c]: Textual amendment: Words in [reg. 23(2)(d)](https://www.legislation.gov.uk/uksi/2010/782/regulation/23/2/d) substituted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [17(11)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/17/11) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+
+[^key-a8271c945677a0030f1c0e7af458e5db]: Commencement: Reg. 24 in force at 7.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/782/regulation/1/1)
+
+[^key-43cc29cf1759659de932ac02dc363a95]: Commencement: Reg. 25 in force at 7.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/782/regulation/1/1)
+
+[^key-25175328d346ca530d09fd5de247609c]: Commencement: Reg. 26 in force at 7.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/782/regulation/1/1)
+
+[^key-1ec5c45c75916f86d8ef5a5985fbf615]: Commencement: Reg. 27 in force at 7.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/782/regulation/1/1)
+
+[^key-c6082b8ac6ad127ddb8d9bce085fca0e]: Commencement: Reg. 28 in force at 7.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/782/regulation/1/1)
+
+[^key-2a77f8221d2e49e293b6d5fba958592c]: Commencement: Reg. 29 in force at 7.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/782/regulation/1/1)
+
+[^key-fbc0b25e409c59680c35a5abad2898db]: Textual amendment: Word in [reg. 29(1)](https://www.legislation.gov.uk/uksi/2010/782/regulation/29/1) inserted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [17(12)(a)(i)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/17/12/a/i) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+
+[^key-c9cac072993f39913e543fed36a3e607]: Textual amendment: Words in [reg. 29(1)](https://www.legislation.gov.uk/uksi/2010/782/regulation/29/1) omitted (8.1.2018) by virtue of [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [17(12)(a)(ii)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/17/12/a/ii) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+
+[^key-cdbde5760c1970466c425320cea240c9]: Textual amendment: [Reg. 29(2A)](https://www.legislation.gov.uk/uksi/2010/782/regulation/29/2A)[(2B)](https://www.legislation.gov.uk/uksi/2010/782/regulation/29/2B) inserted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [17(12)(b)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/17/12/b) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+
+[^key-13abe3018225313b43584c26c6dbbe18]: Textual amendment: Words in [reg. 29(4)(a)](https://www.legislation.gov.uk/uksi/2010/782/regulation/29/4/a) inserted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [17(12)(c)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/17/12/c) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+
+[^key-f7bb06a6da93ae4e3d44f2f7a92cc762]: Commencement: Reg. 30 in force at 7.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/782/regulation/1/1)
+
+[^key-16222ff9cde5da112c538bde37451c15]: Commencement: Reg. 31 in force at 7.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/782/regulation/1/1)
+
+[^key-d4b5948ab3adf6829bbbe9a465f3a8ff]: Commencement: Reg. 32 in force at 7.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/782/regulation/1/1)
+
+[^key-b5a3b157466c0774c221bb9eaceb19e7]: Commencement: Reg. 33 in force at 7.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/782/regulation/1/1)
+
+[^key-02f519661210db3b49dbcfb2bf4745e5]: Commencement: Reg. 34 in force at 7.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/782/regulation/1/1)
+
+[^key-21d8553f184d791d177d7e25faf59976]: Commencement: Reg. 35 in force at 7.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/782/regulation/1/1)
+
+[^key-2c13e2098ed470c3cb8deeca3d4e8aeb]: Commencement: Reg. 36 in force at 7.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/782/regulation/1/1)
+
+[^key-47fde7a81ceb0dea5f66d915ff76bc0e]: Commencement: Reg. 37 in force at 7.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/782/regulation/1/1)
+
+[^key-ea65bfa5b66823022bfe8c859f24dee5]: Commencement: Reg. 38 in force at 7.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/782/regulation/1/1)
+
+[^key-eae70d6ebfbb04b7438ee7e4df520609]: Commencement: Reg. 39 in force at 7.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/782/regulation/1/1)
+
+[^key-b96a4be9dd9aef2dc5cfc8b61255e3d8]: Commencement: Reg. 40 in force at 7.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/782/regulation/1/1)
+
+[^key-6ce0deb1028dffae83056572bc6b5193]: Commencement: Reg. 41 in force at 7.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/782/regulation/1/1)
+
+[^key-2ddfc97a00a316f119866d6dda4a34f4]: Commencement: Reg. 42 in force at 7.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/782/regulation/1/1)
+
+[^key-557fc0416064d8eb96c041c374a9c988]: Textual amendment: Word in [reg. 42(1)](https://www.legislation.gov.uk/uksi/2010/782/regulation/42/1) omitted (8.1.2018) by virtue of [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [17(13)(a)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/17/13/a) (with [regs. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37), [38](https://www.legislation.gov.uk/uksi/2017/1250/regulation/38))
+
+[^key-e76290ed652bed1e51b8123b7c595d22]: Textual amendment: [Reg. 42(2)](https://www.legislation.gov.uk/uksi/2010/782/regulation/42/2)[(2A)](https://www.legislation.gov.uk/uksi/2010/782/regulation/42/2A) substituted for [reg. 42(2)](https://www.legislation.gov.uk/uksi/2010/782/regulation/42/2) (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [17(13)(b)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/17/13/b) (with [regs. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37), [38](https://www.legislation.gov.uk/uksi/2017/1250/regulation/38))
+
+[^key-40f079d2fb40880a51658b3866fb9d7d]: Textual amendment: Word in [reg. 42(3)](https://www.legislation.gov.uk/uksi/2010/782/regulation/42/3) substituted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [17(13)(c)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/17/13/c) (with [regs. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37), [38](https://www.legislation.gov.uk/uksi/2017/1250/regulation/38))
+
+[^f00014]: Footnote: [1996 c.16](https://www.legislation.gov.uk/ukpga/1996/16).
+
+[^key-c2bdcf15eb608a5fe7ad0a93439ed376]: Textual amendment: Words in [reg. 42(4)](https://www.legislation.gov.uk/uksi/2010/782/regulation/42/4) substituted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [17(13)(d)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/17/13/d) (with [regs. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37), [38](https://www.legislation.gov.uk/uksi/2017/1250/regulation/38))
+
+[^f00015]: Footnote: [1992 c.52](https://www.legislation.gov.uk/ukpga/1992/52).
+
+[^f00016]: Footnote: [1996 c.18](https://www.legislation.gov.uk/ukpga/1996/18).
+
+[^key-df723569475845848383b3b8b0d9fc3d]: Commencement: Reg. 43 in force at 7.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/782/regulation/1/1)
+
+[^key-bad1de29171ed373f81c9dc931249f5e]: Commencement: Reg. 44 in force at 7.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/782/regulation/1/1)
+
+[^key-779413ab7a8b79075b75488a417323d7]: Commencement: Reg. 45 in force at 7.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/782/regulation/1/1)
+
+[^key-0d2daa037e5720a8d92c0dcc687d7465]: Commencement: Reg. 46 in force at 7.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/782/regulation/1/1)
+
+[^key-8c3d82b11aede3983c5fb1d5ab46c1a5]: Textual amendment: Words in [reg. 46(1)](https://www.legislation.gov.uk/uksi/2010/782/regulation/46/1) inserted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [17(14)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/17/14) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+
+[^key-7ba823268e5d558589b4fcc17702cbeb]: Textual amendment: Words in [reg. 46(3)](https://www.legislation.gov.uk/uksi/2010/782/regulation/46/3) omitted (27.3.2014) by virtue of [The Public Bodies (Merger of the Director of Public Prosecutions and the Director of Revenue and Customs Prosecutions) Order 2014 (S.I. 2014/834)](https://www.legislation.gov.uk/uksi/2014/834), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/834/article/1/1), [Sch. 3 para. 25](https://www.legislation.gov.uk/uksi/2014/834/schedule/3/paragraph/25)
+
+[^key-00d8707cf9fe75eefaed47087ff8fc75]: Commencement: Reg. 47 in force at 7.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/782/regulation/1/1)
+
+[^key-55f82dbac0e33c29af417dd2842723a1]: Commencement: Reg. 48 in force at 7.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/782/regulation/1/1)
+
+[^key-5258e31855de1ae82d87be3378369e5f]: Commencement: Reg. 49 in force at 7.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/782/regulation/1/1)
+
+[^key-33cbda5415f19776843b3a2fb32993ed]: Textual amendment: Word in [reg. 49(6)](https://www.legislation.gov.uk/uksi/2010/782/regulation/49/6) substituted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [17(15)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/17/15) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+
+[^key-c46638d0ae9f105ae2f83e500c9e1ba8]: Commencement: Reg. 50 in force at 7.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/782/regulation/1/1)
+
+[^key-4249fe2fb17dffc5b7221d4f62f6b5bb]: Commencement: Reg. 51 in force at 7.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/782/regulation/1/1)
+
+[^key-0744b4211519ee17200a0b5c3a3ec7e2]: Textual amendment: Words in [reg. 51(1)](https://www.legislation.gov.uk/uksi/2010/782/regulation/51/1) inserted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [17(16)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/17/16) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+
+[^key-ec0a5f0b2b16ba083d32090fad7c3deb]: Commencement: Reg. 52 in force at 7.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/782/regulation/1/1)
+
+[^key-178bc9ba7e065b825816cff5bc2719e5]: Commencement: Reg. 53 in force at 7.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/782/regulation/1/1)
+
+[^key-dd1c32fab34a99a96fb7accc4e664b82]: Commencement: Reg. 54 in force at 7.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/782/regulation/1/1)
+
+[^key-a92670ae9285383d73395a8dde8cae39]: Textual amendment: Words in [reg. 54(4)(a)](https://www.legislation.gov.uk/uksi/2010/782/regulation/54/4/a) inserted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [17(17)(a)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/17/17/a) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+
+[^key-f844d3aeb84f48f15b7fe2a303e1afbb]: Textual amendment: Words in [reg. 54(5)](https://www.legislation.gov.uk/uksi/2010/782/regulation/54/5) substituted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [17(17)(b)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/17/17/b) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+
+[^key-743c9bfd1d39f47cbd8925f07708c1ae]: Commencement: Reg. 55 in force at 7.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/782/regulation/1/1)
+
+[^key-31f8aee8a24c04d7a6cd01401ed996bf]: Textual amendment: Words in [reg. 55(2)](https://www.legislation.gov.uk/uksi/2010/782/regulation/55/2) substituted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [17(18)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/17/18) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+
+[^key-51b2add31bb9952ddfecc5c70754f5fb]: Commencement: Reg. 56 in force at 7.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/782/regulation/1/1)
+
+[^key-61e6cf2780225101d134c176b08cc2fa]: Commencement: Reg. 57 in force at 7.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/782/regulation/1/1)
+
+[^key-854ca590f3b54bb26eab3e2acff8103d]: Commencement: Reg. 58 in force at 7.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/782/regulation/1/1)
+
+[^key-573bea539c6d00530a362d2aec5e0748]: Textual amendment: Words in [reg. 58(3)(b)](https://www.legislation.gov.uk/uksi/2010/782/regulation/58/3/b) substituted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [17(19)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/17/19) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+
+[^key-da2da4d1bc31d1ce68b05cc600f520fc]: Commencement: Reg. 59 in force at 7.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/782/regulation/1/1)
+
+[^key-48b637a712dcd87bcf5f0dcd8f8d8b0f]: Commencement: Reg. 60 in force at 7.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/782/regulation/1/1)
+
+[^key-0f8eac4044326b9bc39eb7d2af5afe40]: Commencement: Reg. 61 in force at 7.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/782/regulation/1/1)
+
+[^key-467f92fc2175ca91bddbf73f09c6a9ca]: Textual amendment: Words in [reg. 61(3)(a)](https://www.legislation.gov.uk/uksi/2010/782/regulation/61/3/a) omitted (27.3.2014) by virtue of [The Public Bodies (Merger of the Director of Public Prosecutions and the Director of Revenue and Customs Prosecutions) Order 2014 (S.I. 2014/834)](https://www.legislation.gov.uk/uksi/2014/834), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/834/article/1/1), [Sch. 3 para. 26](https://www.legislation.gov.uk/uksi/2014/834/schedule/3/paragraph/26)
+
+[^key-55c143cc7313f207f35552c98c0d3b14]: Textual amendment: Words in [reg. 61(5)](https://www.legislation.gov.uk/uksi/2010/782/regulation/61/5) omitted (27.3.2014) by virtue of [The Public Bodies (Merger of the Director of Public Prosecutions and the Director of Revenue and Customs Prosecutions) Order 2014 (S.I. 2014/834)](https://www.legislation.gov.uk/uksi/2014/834), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/834/article/1/1), [Sch. 3 para. 26](https://www.legislation.gov.uk/uksi/2014/834/schedule/3/paragraph/26)
+
+[^key-d177eb2582415a93995bdc76d5edd056]: Textual amendment: Words in [reg. 61(6)](https://www.legislation.gov.uk/uksi/2010/782/regulation/61/6) omitted (27.3.2014) by virtue of [The Public Bodies (Merger of the Director of Public Prosecutions and the Director of Revenue and Customs Prosecutions) Order 2014 (S.I. 2014/834)](https://www.legislation.gov.uk/uksi/2014/834), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/834/article/1/1), [Sch. 3 para. 26](https://www.legislation.gov.uk/uksi/2014/834/schedule/3/paragraph/26)
+
+[^key-94b096bd3eabbc2417aa7f21fc1aa0ac]: Textual amendment: Words in [reg. 61(7)](https://www.legislation.gov.uk/uksi/2010/782/regulation/61/7) omitted (27.3.2014) by virtue of [The Public Bodies (Merger of the Director of Public Prosecutions and the Director of Revenue and Customs Prosecutions) Order 2014 (S.I. 2014/834)](https://www.legislation.gov.uk/uksi/2014/834), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/834/article/1/1), [Sch. 3 para. 26](https://www.legislation.gov.uk/uksi/2014/834/schedule/3/paragraph/26)
+
+[^key-54904e90ae92b9bc21f24fe96d87ef75]: Commencement: Reg. 62 in force at 7.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/782/regulation/1/1)
+
+[^key-93ffe320604212e651eb02351b72a062]: Textual amendment: Words in [reg. 62(4)](https://www.legislation.gov.uk/uksi/2010/782/regulation/62/4) omitted (27.3.2014) by virtue of [The Public Bodies (Merger of the Director of Public Prosecutions and the Director of Revenue and Customs Prosecutions) Order 2014 (S.I. 2014/834)](https://www.legislation.gov.uk/uksi/2014/834), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/834/article/1/1), [Sch. 3 para. 27](https://www.legislation.gov.uk/uksi/2014/834/schedule/3/paragraph/27)
+
+[^key-faab3f39d36ca9527fb25837bd5278cd]: Textual amendment: Word in [reg. 62(6)](https://www.legislation.gov.uk/uksi/2010/782/regulation/62/6) omitted (8.1.2018) by virtue of [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [17(20)(a)(i)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/17/20/a/i) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+
+[^key-96ab5dbac3098222fbff173656156a40]: Textual amendment: Words in [reg. 62(6)](https://www.legislation.gov.uk/uksi/2010/782/regulation/62/6) substituted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [17(20)(a)(ii)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/17/20/a/ii) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+
+[^key-6c5e1f7c397c0fbf7d6f1965988c5306]: Textual amendment: Words in [reg. 62(7)](https://www.legislation.gov.uk/uksi/2010/782/regulation/62/7) inserted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [17(20)(b)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/17/20/b) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+
+[^key-8ddd88e48222547d8ad82c3bb60d899c]: Textual amendment: Words in [reg. 62(8)](https://www.legislation.gov.uk/uksi/2010/782/regulation/62/8) inserted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [17(20)(c)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/17/20/c) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+
+[^key-585cc207c44f0b4283e67d764cc62148]: Commencement: Reg. 63 in force at 7.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/782/regulation/1/1)
+
+[^key-2363728e912c9ae14b1d599704dc2176]: Textual amendment: Words in [reg. 63(1)(b)](https://www.legislation.gov.uk/uksi/2010/782/regulation/63/1/b) substituted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [17(21)(a)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/17/21/a) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+
+[^key-66cf132d3a813dd9ca38c33f4ad7540d]: Textual amendment: Words in [reg. 63(2)](https://www.legislation.gov.uk/uksi/2010/782/regulation/63/2) inserted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [17(21)(b)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/17/21/b) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+
+[^key-5f4b3906f28ef97f2cff8c04f8c5ce27]: Textual amendment: Words in [reg. 63(2)(c)](https://www.legislation.gov.uk/uksi/2010/782/regulation/63/2/c) omitted (27.3.2014) by virtue of [The Public Bodies (Merger of the Director of Public Prosecutions and the Director of Revenue and Customs Prosecutions) Order 2014 (S.I. 2014/834)](https://www.legislation.gov.uk/uksi/2014/834), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/834/article/1/1), [Sch. 3 para. 28](https://www.legislation.gov.uk/uksi/2014/834/schedule/3/paragraph/28)
+
+[^key-a558d5299f5373f5d257c98b6ecf9605]: Textual amendment: Words in [reg. 63(4)](https://www.legislation.gov.uk/uksi/2010/782/regulation/63/4) omitted (27.3.2014) by virtue of [The Public Bodies (Merger of the Director of Public Prosecutions and the Director of Revenue and Customs Prosecutions) Order 2014 (S.I. 2014/834)](https://www.legislation.gov.uk/uksi/2014/834), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/834/article/1/1), [Sch. 3 para. 28](https://www.legislation.gov.uk/uksi/2014/834/schedule/3/paragraph/28)
+
+[^key-e441f76d97a7b1a03778fea87bdb40e4]: Textual amendment: Words in [reg. 63(5)](https://www.legislation.gov.uk/uksi/2010/782/regulation/63/5) omitted (27.3.2014) by virtue of [The Public Bodies (Merger of the Director of Public Prosecutions and the Director of Revenue and Customs Prosecutions) Order 2014 (S.I. 2014/834)](https://www.legislation.gov.uk/uksi/2014/834), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/834/article/1/1), [Sch. 3 para. 28](https://www.legislation.gov.uk/uksi/2014/834/schedule/3/paragraph/28)
+
+[^key-cba9dce03698a74ddffd80bcdde70fc6]: Textual amendment: Words in [reg. 63(6)](https://www.legislation.gov.uk/uksi/2010/782/regulation/63/6) omitted (27.3.2014) by virtue of [The Public Bodies (Merger of the Director of Public Prosecutions and the Director of Revenue and Customs Prosecutions) Order 2014 (S.I. 2014/834)](https://www.legislation.gov.uk/uksi/2014/834), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/834/article/1/1), [Sch. 3 para. 28](https://www.legislation.gov.uk/uksi/2014/834/schedule/3/paragraph/28)
+
+[^key-9a4855ed7e4a9d31755986026e0366e7]: Commencement: Reg. 64 in force at 7.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/782/regulation/1/1)
+
+[^key-bde9107388edcdeb1edb38f7c313afe1]: Commencement: Reg. 65 in force at 7.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/782/regulation/1/1)
+
+[^key-ac3d1b880cdd75e66074513e44d56ce8]: Commencement: Reg. 66 in force at 7.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/782/regulation/1/1)
+
+[^key-760a19483dc77a126e28fc21c7608455]: Commencement: Reg. 67 in force at 7.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/782/regulation/1/1)
+
+[^key-7db4620745160ff66ba6a7dc0c7ac137]: Commencement: Reg. 68 in force at 7.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/782/regulation/1/1)
+
+[^key-e9d446a8d38e8d0e44376173990eec18]: Commencement: Reg. 69 in force at 7.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/782/regulation/1/1)
+
+[^key-14b7511dff69c21ac2a9eec821db4218]: Commencement: Reg. 70 in force at 7.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/782/regulation/1/1)
+
+[^key-cbab096a03e86cb217b5f5338a3eec93]: Textual amendment: Words in [reg. 70(2)(e)](https://www.legislation.gov.uk/uksi/2010/782/regulation/70/2/e) omitted (27.3.2014) by virtue of [The Public Bodies (Merger of the Director of Public Prosecutions and the Director of Revenue and Customs Prosecutions) Order 2014 (S.I. 2014/834)](https://www.legislation.gov.uk/uksi/2014/834), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/834/article/1/1), [Sch. 3 para. 29(2)](https://www.legislation.gov.uk/uksi/2014/834/schedule/3/paragraph/29/2)
+
+[^key-0bda052902910e170fc13a245ea79b5c]: Textual amendment: Words in [reg. 70(3)(e)](https://www.legislation.gov.uk/uksi/2010/782/regulation/70/3/e) omitted (27.3.2014) by virtue of [The Public Bodies (Merger of the Director of Public Prosecutions and the Director of Revenue and Customs Prosecutions) Order 2014 (S.I. 2014/834)](https://www.legislation.gov.uk/uksi/2014/834), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/834/article/1/1), [Sch. 3 para. 29(3)](https://www.legislation.gov.uk/uksi/2014/834/schedule/3/paragraph/29/3)
+
+[^key-7a9444d0bf63953294f3c59d02010b06]: Textual amendment: Words in [reg. 70(9)(a)](https://www.legislation.gov.uk/uksi/2010/782/regulation/70/9/a) omitted (27.3.2014) by virtue of [The Public Bodies (Merger of the Director of Public Prosecutions and the Director of Revenue and Customs Prosecutions) Order 2014 (S.I. 2014/834)](https://www.legislation.gov.uk/uksi/2014/834), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/834/article/1/1), [Sch. 3 para. 29(3)](https://www.legislation.gov.uk/uksi/2014/834/schedule/3/paragraph/29/3)
+
+[^key-6e8ee0b7f4b4a59d768b7cb8e4af6478]: Commencement: Reg. 71 in force at 7.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/782/regulation/1/1)
+
+[^key-2b1120b4d344a51cdbc9cdf7d22815d6]: Commencement: Reg. 72 in force at 7.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/782/regulation/1/1)

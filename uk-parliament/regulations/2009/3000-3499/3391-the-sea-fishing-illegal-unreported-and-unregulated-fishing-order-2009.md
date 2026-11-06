@@ -1,0 +1,535 @@
+---
+title: The Sea Fishing (Illegal, Unreported and Unregulated Fishing) Order 2009
+id: uksi/2009/3391
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2009-12-23'
+text_date: '2020-12-31'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2009/3391
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2009/3391/pdfs/uksiem_20093391_en.pdf
+- http://www.legislation.gov.uk/uksi/2009/3391/pdfs/uksi_20093391_en.pdf
+- http://www.legislation.gov.uk/uksi/2009/3391/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Sea Fishing (Illegal, Unreported and Unregulated Fishing) Order 2009
+
+> Text as at 2020-12-31.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2009 No. 3391
+
+Sea Fisheries, England And Wales
+
+The Sea Fishing (Illegal, Unreported and Unregulated Fishing) Order 2009
+
+Made
+
+23rd December 2009
+
+Laid before Parliament
+
+4th January 2010
+
+Laid before the National Assembly for Wales
+
+4th January 2010
+
+Coming into force
+
+25th January 2010
+
+The Secretary of State for Environment, Food and Rural Affairs, the Secretary of State concerned with sea fishing in Northern Ireland and the Welsh Ministers are each designated[^f00001] for the purposes of section 2(2) of the European Communities Act 1972[^f00002] in relation to the common agricultural policy of the European Union.
+
+This Order makes provision for a purpose mentioned in that section and it appears to the Secretary of State for Environment, Food and Rural Affairs, the Secretary of State concerned with sea fishing in Northern Ireland and the Welsh Ministers that it is expedient for the references to the following Regulations to be construed as references to those Regulations as amended from time to time—
+
+- (a) Council Regulation [(EEC) No 2847/93](https://www.legislation.gov.uk/european/regulation/1993/2847)[^f00003] establishing a control system applicable to the common fisheries policy;
+- (b) Council Regulation [(EC) No 1005/2008](https://www.legislation.gov.uk/european/regulation/2008/1005)[^f00004] establishing a Community system to prevent, deter and eliminate illegal, unreported and unregulated fishing; and
+- (c) Commission Regulation [(EC) No 1010/2009](https://www.legislation.gov.uk/european/regulation/2009/1010)[^f00005] laying down detailed rules for the implementation of Council Regulation [(EC) No 1005/2008](https://www.legislation.gov.uk/european/regulation/2008/1005).
+
+The Secretary of State for Environment, Food and Rural Affairs and the Secretary of State concerned with sea fishing in Northern Ireland make this Order in relation to England in exercise of the powers conferred by section 2(2) of, and paragraph 1A[^f00006] of Schedule 2 to, the European Communities Act 1972 and section 30(2) of the Fisheries Act 1981[^f00007] and now vested in them[^f00008].
+
+The Welsh Ministers make this Order in relation to Wales in exercise of the powers conferred by section 2(2) of, and paragraph 1A of Schedule 2 to, the European Communities Act 1972 and section 30(2) of the Fisheries Act 1981 now vested in them[^f00009].
+
+## 1. Citation and commencement
+
+This Order may be cited as the Sea Fishing (Illegal, Unreported and Unregulated Fishing) Order 2009 and comes into force on 25<sup>th</sup> January 2010.
+
+## 2. Extent and application[^key-6c00c4de5ae937dd8d0706e43df34c56]
+
+(1) Subject to paragraphs (2) and (3), this Order extends to England and Wales only, except for the following provisions which also extend to Scotland and Northern Ireland—
+
+- (a) articles 1 to 3; and
+- (b) article 9(6A)(e).
+
+(2) Article 9(12)(a) also extends to Scotland.
+
+(3) Article 9(12)(b) also extends to Northern Ireland.
+
+(4) Subject to paragraph (5), this Order applies—
+
+- (a) in England and Wales and the Welsh zone;
+- (b) in relation to English fishing boats and Welsh fishing boats, wherever they are; and
+- (c) in relation to other fishing boats which are within the Exclusive Economic Zone but not in—
+  - (i) the Scottish zone; or
+  - (ii) the Northern Ireland zone.
+
+(5) Article 9(6A)(e) applies to offences committed—
+
+- (a) in England, in relation to English fishing boats;
+- (b) in Wales, in relation to Welsh fishing boats;
+- (c) in Scotland, in relation to Scottish fishing boats; and
+- (d) in Northern Ireland, in relation to Northern Ireland fishing boats.
+
+## 3. Interpretation
+
+(1) In this Order—
+
+- “authorised officer” means a person authorised in writing by a local authority, a port health authority, the Secretary of State or the Welsh Ministers for the purposes of this Order;
+- “British sea-fishery officer” has the same meaning as in section 7 of the Sea Fisheries Act 1968[^f00014];
+- “the Commission Regulation” means Commission Regulation [(EC) No 1010/2009](https://www.legislation.gov.uk/european/regulation/2009/1010) laying down detailed rules for the implementation of Council Regulation [(EC) No 1005/2008](https://www.legislation.gov.uk/european/regulation/2008/1005);
+- “the Commissioners” means the Commissioners for Her Majesty’s Revenue and Customs;
+- “controlled consignment” means a consignment prohibited from movement under article 5;
+- “the Council Regulation” means Council Regulation [(EC) No 1005/2008](https://www.legislation.gov.uk/european/regulation/2008/1005) establishing a Community system to prevent, deter and eliminate illegal, unreported and unregulated fishing;
+- “England” includes the area within the seaward limits of the territorial sea adjacent to England but does not include any area in the Welsh zone, the Scottish zone or the Northern Ireland zone;[^key-c5b3308b869b9f9977b608132bad3168]
+- “English fishing boat” means a fishing boat which is—[^key-adc2298bcf32fbb888446fe0202a84c1]
+  - (a) registered at a port in England, under section 8 of the Merchant Shipping Act 1995; or
+  - (b) owned wholly by persons qualified to own British ships for the purposes of Part 2 of the Merchant Shipping Act 1995, other than a Welsh fishing boat, a Northern Ireland fishing boat or a Scottish fishing boat;
+- “equivalent provision” means a provision in any other instrument extending to any part of the United Kingdom which has equivalent effect to a provision in this Order, proceedings in respect of which may be taken in England or Wales by virtue of section 30(2A) of the Fisheries Act 1981[^f00015];
+- “local authority” means—
+  - (a) in relation to England, a county council, a district council, a London Borough Council, the Common Council of the City of London or the Council of the Isles of Scilly; and
+  - (b) in relation to Wales, a county council or a county borough council;
+- “Northern Ireland” has the meaning given in section 98(1) of the Northern Ireland Act 1998;[^key-5feaf7110d5c2455ffc2a246898372bf]
+- “Northern Ireland fishing boat” means a fishing boat which is registered at a port in Northern Ireland, under section 8 of the Merchant Shipping Act 1995;
+- “Northern Ireland zone” has the meaning given in section 98(1) of the Northern Ireland Act 1998;
+- “port health authority” means—
+  - (a) in relation to the London port health district (within the meaning given by section 7(1) of the Public Health (Control of Disease) Act 1984[^f00016]), the Common Council of the City of London; and
+  - (b) in relation to any port health district constituted by order under section 2(3) of that Act, the port health authority for that district constituted by order under section 2(4) of that Act;
+- “Scotland” has the meaning given in section 126(1) of the Scotland Act 1998;[^key-dcca13063dbd7d151d9df15ed15baed0]
+- “Scottish fishing boat” means a fishing boat which is registered at a port in Scotland, under section 8 of the Merchant Shipping Act 1995;
+- “Scottish zone” has the meaning given in section 126(1) of the Scotland Act 1998;
+- “third country fishing vessel” means a fishing vessel which is not a United Kingdom[^key-9dad67e29f6ac0eedf86af7fce316eaf] fishing vessel; and
+- “Wales” has the meaning given in section 158(1) of the Government of Wales Act 2006[^f00017];
+- “Welsh fishing boat” means a fishing boat which is registered at a port in Wales, under section 8 of the Merchant Shipping Act 1995;[^key-cc8010eb63288f6d7a76c0903b01bca8]
+- “Welsh zone” has the meaning given in section 158(1) of the Government of Wales Act 2006.
+
+(2) Terms used in this Order that are also used in the Council Regulation have the meaning they bear in that Regulation.
+
+(3) In this Order, any reference to the Council Regulation is a reference to that Regulation as amended from time to time.
+
+(4) In this Order, any reference to the Commission Regulation is a reference to that Regulation as amended from time to time.
+
+## 4. Competent authority
+
+(1) The Secretary of State is, otherwise than in relation to Wales, the competent authority for the purposes of the Council Regulation and the Commission Regulation.
+
+(2) The Welsh Ministers are, in relation to Wales, the competent authority for the purposes of the Council Regulation and the Commission Regulation.
+
+(3) Where fish or fishery products are imported into England or Wales by container ship, air, road or rail, the local authority and the port health authority are also the competent authority for the purposes of the provisions referred to in paragraph (4).
+
+(4) The provisions are—
+
+- (a) Article 12(2) of the Council Regulation (receipt of catch certificates);
+- (b) Article 14(1) and (2) of the Council Regulation (receiving catch certificates and documentation, and statements describing consignments where fishery products have been processed in a third country or have come via a third country);
+- (c) Article 16(1) and (2) of the Council Regulation (checking of catch certificates and receiving information from approved economic operators);
+- (d) Article 17(2) of the Council Regulation and Article 20 of the Commission Regulation (verifications); and
+- (e) Article 18 (1), (2) and (3) of the Council Regulation (refusal of importation).
+
+## 5. Control on movement
+
+(1) An authorised officer may prohibit the movement of a consignment of fish or fishery products from the place of import while a verification takes place pursuant to Article 17 of the Council Regulation or Article 20 of the Commission Regulation.
+
+(2) An authorised officer who has prohibited the movement of a consignment must, as soon as possible, give written notice to the importer or the person who appears to the officer to be in charge of the consignment.
+
+(3) The notice must—
+
+- (a) specify the controlled consignment;
+- (b) state that it may not be moved without the written consent of an authorised officer under article 6;
+- (c) specify the relevant provision of the Council Regulation or Commission Regulation in respect of which the authorised officer has reason to believe that there has been a failure to comply; and
+- (d) specify what steps, if any, must be taken to demonstrate compliance with that provision, and within what time such steps must be taken.
+
+(4) If the person to whom the authorised officer gives the notice does not appear to the officer to be the importer or an agent, contractor or employee of the importer, the authorised officer must take reasonable steps to bring the contents of the notice to the attention of such a person as soon as possible.
+
+(5) Where—
+
+- (a) a verification has been completed, and
+- (b) any steps specified under paragraph (3)(d) have been fulfilled within the specified time frame,
+
+the authorised officer must remove the prohibition on movement if satisfied that a breach of the Council Regulation or Commission Regulation has not taken place.
+
+## 6. Consent to movement
+
+(1) An authorised officer may give written consent to the movement of a controlled consignment.
+
+(2) Before giving such consent, an authorised officer may require the importer to give a written undertaking to the effect that the consignment will—
+
+- (a) be moved to a place specified by an authorised officer; and
+- (b) not be moved from that place without the written consent of an authorised officer.
+
+(3) Any consent given under this article must—
+
+- (a) specify the controlled consignment to which it relates;
+- (b) specify the place to which the controlled consignment is to be moved; and
+- (c) state that the consignment continues to be controlled.
+
+(4) Where such consent has been given and the consignment has been moved to the place in question, the prohibition on movement under article 5 applies to it at the place in question as it applied at the place of import.
+
+## 7. Refusal of importation
+
+(1) For the purposes of exercising functions in relation to Article 18(3) of the Council Regulation, an authorised officer may exercise the powers in sections 268 and 270 to 278 of, and Schedule 18 to, the Marine and Coastal Access Act 2009, save that any reference in those provisions—
+
+- (a) to an ‘enforcement officer’ is to be read as an ‘authorised officer’; and
+- (b) to ‘fish’ is to be read as ‘fish or fishery products’.
+
+(2) The competent authority must refuse importation or permission to use transhipment facilities where a declaration has not been submitted in accordance with Article 8 of the Council Regulation and Article 3 of the Commission Regulation.
+
+(3) Where the competent authority has refused importation pursuant to Article 18(1) or (2) of the Council Regulation or paragraph (2) above, the importer may appeal to a magistrates’ court within 28 days of the refusal.
+
+(4) The procedure in a magistrates’ court under this Order is by way of complaint, and the Magistrates’ Courts Act 1980[^f00018] applies to the proceedings.
+
+## 8. Fees relating to third country imports
+
+A port health authority or local authority must charge an importer of a consignment a fee in respect of any expenses reasonably incurred by it in carrying out its functions under article 4(3) or 5 in respect of any consignment.
+
+## 9. Offences under the Council Regulation
+
+(1) It is an offence for the person in charge of a third country fishing vessel to enter port without authorisation under Article 7 of the Council Regulation.
+
+(2) It is an offence for the person in charge of a fishing vessel to conduct a transhipment with a third country fishing vessel contrary to Article 4(3) of the Council Regulation.
+
+(3) It is an offence to import fishery products without a validated catch certificate pursuant to Article 12 of the Council Regulation.
+
+(4)[^key-df611eed25af33363617e854ccc80926] It is an offence for a person to engage in fishing for a stock in any area where, under the conservation and management measures (within the meaning of the Council Regulation) applicable in that area, such fishing is subject to a moratorium or is prohibited.
+
+(5) It is an offence for a person to tranship fish or fishery products between, or participate in joint fishing operations with, a fishing vessel that—
+
+- (a) has engaged in IUU fishing;
+- (b) is on the United Kingdom[^key-91b6f2a468911706dd9aab57897cbf1d] IUU vessel list; or
+- (c) is on an IUU vessel list of a regional fisheries management organisation.
+
+(6) In relation to a fishing vessel on the United Kingdom[^key-b5e5b05db7ff9a1e2867db98421388fd] IUU vessel list, it is an offence for a person—
+
+- (a) to enter into an agreement to operate or beneficially own it;
+- (b) to furnish it with any supplies, gear or people; or
+- (c) to engage in employment on it.
+
+(6A)[^key-da923ebfb77ca499490bd5780042a022] In relation to a non-cooperating third country listed on a list established under Article 33 of the Council Regulation, it is an offence for a person—
+
+- (a) to import fishery products caught by a fishing vessel flying the flag of the third country unless the products are from stock or species to which the listing does not apply;
+- (b) to purchase a fishing vessel flying the flag of the third country;
+- (c) to reflag a United Kingdom fishing vessel[^key-20dfc3f18edde37bec51666df7e2bb65] so that it flies the flag of the third country;
+- (d) to enter into a charter agreement with the third country [^key-b8ee671ba52f617a5a55ccbde78b891c]...;
+- (e) to export a United Kingdom[^key-c51c3d39e2e41155f8d0f4771906eaab] fishing vessel to the third country;
+- (f) to enter into an agreement for a United Kingdom fishing vessel[^key-68073d5042da76bfc0c8a1eefe0439e5] to use the fishing possibilities of the third country; or
+- (g) to participate in joint fishing operations with a fishing vessel flying the flag of the third country.
+
+(7) It is an offence for a person to conduct business directly connected to IUU fishing, within the meaning of Article 42(1)(b) of the Council Regulation,
+
+(8) It is an offence for a person to falsify, or use falsified, documents contrary to Article 42(1)(c) of the Council Regulation.
+
+(9) It is an offence for a person, knowing a consignment to be a controlled consignment, to move it or cause it to be moved otherwise than in accordance with the written consent of an authorised officer.
+
+(10) It is an offence for a person to disclose information received from the Commissioners contrary to article 19(3) of this Order.
+
+(11) In paragraphs (1) and (2), the “person in charge” of a fishing vessel means the owner, master, charterer (if any) or their agents.
+
+(12)[^key-7df29a8661ea68022abb149e5de8148e] Paragraph (6A)(e) is an “equivalent provision” for the purposes of—
+
+- (a) the Sea Fishing (Illegal, Unreported and Unregulated Fishing) (Scotland) Order 2013; and
+- (b) the Sea Fishing (Illegal, Unreported and Unregulated Fishing) Order (Northern Ireland) 2018.
+
+## 10. Penalties
+
+(1) A person found guilty of an offence under article 9(1) to (9) or 17 of this Order, or under an equivalent provision, is liable on summary conviction, or on conviction on indictment, to a fine[^key-aa5b4a9f8635de704be6369ee9b8e47c]
+
+(2) A person found guilty of an offence under article 9(10) of this Order is liable—
+
+- (a) on summary conviction, to a fine not exceeding the statutory maximum, to imprisonment for a term not exceeding three months or to both;
+- (b) on conviction on indictment, to imprisonment for a term not exceeding two years, to a fine or both.
+
+## 11. Recovery of fines[^key-6baf7560ce1e9884d6f32f06fb7674ca]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 12. Powers of British sea-fishery officers in relation to fishing boats
+
+(1) For the purpose of enforcing this Order or an equivalent provision, a British sea-fishery officer has the powers set out in this article in relation to a fishing boat to which this Order applies.
+
+(2) A British sea-fishery officer may go on board the boat, with or without persons assigned to assist in that officer’s duties, and may require it to stop and do anything else which will facilitate boarding.
+
+(3) A British sea-fishery officer may require the attendance of the master and other persons on board and may make any examination and inquiry as appears to the officer to be necessary for the purpose mentioned in paragraph (1), and in particular may—
+
+- (a) search for fish or fishing gear on the boat and examine any fish on the boat and the equipment of the boat, including the fishing gear, and require persons on board to do anything which appears to the officer to be necessary for facilitating the examination;
+- (b) require any person on board to produce any document in that person’s custody or possession relating to the boat, to any fishing or ancillary operations or to persons on board;
+- (c) for the purpose of ascertaining whether an offence under this Order or an equivalent provision has been committed, search the boat for any such document and may require any person on board to do anything which appears to the officer to be necessary for facilitating the search;
+- (d) inspect and copy any such document produced or found on board and, where any such document is kept by means of a computer, require it to be produced in a form in which it may be taken away;
+- (e) where the boat is one in relation to which the officer has reason to suspect that an offence under this Order or an equivalent provision has been committed, seize and detain any such document produced or found on board for the purpose of enabling it to be used as evidence in proceedings in connection with any offence under this Order or an equivalent provision.
+
+(4) Nothing in paragraph (3)(e) permits any document required by law to be carried on board the boat to be seized and detained except while the boat is detained in port.
+
+(5) Where it appears to a British sea-fishery officer that an offence under this Order or an equivalent provision has at any time been committed in relation to a fishing boat, the officer may—
+
+- (a) take, or require the master of the boat to take, the boat and its crew to the port which appears to the officer to be the nearest convenient port; and
+- (b) detain, or require the master to detain, the boat in the port.
+
+(6) A British sea-fishery officer who detains or requires the detention of a boat must serve on the master a written notice stating that the boat is, or is required to be, detained until the notice is withdrawn by the service on the master of a further written notice signed by a British sea-fishery officer.
+
+## 13. Powers of British sea-fishery officers on land
+
+(1) For the purpose of enforcing this Order or an equivalent provision, a British sea-fishery officer may—
+
+- (a) enter and inspect at any reasonable time any premises used for carrying on any business in connection with the operation of fishing boats (or any connected or ancillary activities) or with the importation, processing, treatment, storage, weighing or sale of fish or fishery products;
+- (b) bring such other persons as appear to the officer to be necessary and any equipment or materials;
+- (c) examine any fish or fishery products on the premises and require any person on the premises to do anything which appears to the officer to be necessary for facilitating the examination;
+- (d) carry out at the premises such other inspections or tests as may reasonably be necessary, including inspections and tests relating to equipment used to weigh fish or fishery products;
+- (e) require any person not to remove or cause to be removed any fish or fishery products from the premises for such period as may be reasonably necessary for the purposes of establishing whether an offence under this Order or an equivalent provision has been committed;
+- (f) require any person on the premises to produce any documents in that person’s custody or possession relating to the importation, processing, catching, landing, weighing, transportation, transhipment, sale or disposal of any fish or fishery products or to the entry to, or exit from, any port or harbour by any fishing boat;
+- (g) for the purpose of ascertaining whether any person has committed an offence under this Order or an equivalent provision, search the premises for any such document and require any person on the premises to do anything which appears to the officer to be necessary for facilitating the search;
+- (h) inspect and take copies of any such document produced or found on the premises;
+- (i) require any appropriate or responsible person to render any such document on a computer system into a visible and legible form, including requiring it to be produced in a form in which it may be taken away; and
+- (j) if the officer has reason to suspect that an offence under this Order or an equivalent provision has been committed, seize and detain any such document produced or found on the premises for the purpose of enabling it to be used as evidence in proceedings in connection with any offence under this Order or an equivalent provision.
+
+(2) The provisions of paragraph (1) also apply in relation to any land used in connection with any of the activities described in paragraph (1)(a), or in respect of any vehicle which a British sea- fishery officer has reasonable cause to believe is being used to transport fish or fishery products, as they apply in relation to premises and, in the case of a vehicle, include power to require the vehicle to stop at any time and, if necessary, direct the vehicle to some other place to facilitate the inspection.
+
+## 14. Warrants to enter premises
+
+(1) A justice of the peace who on sworn information in writing is satisfied that the circumstances in paragraph (2) apply may issue a warrant authorising a British sea-fishery officer to enter any premises, if necessary using reasonable force, and to take with that officer such persons as appear to be necessary.
+
+(2) The circumstances are that—
+
+- (a) there are reasonable grounds to believe that any documents or other items which a British sea-fishery officer has power under article 13 to inspect are on the premises;
+- (b) the inspection of such documents or other items is likely to disclose evidence of the commission of an offence under this Order or an equivalent provision; and
+- (c) either—
+  - (i) entry to the premises has been or is likely to be refused and notice of intention to apply for a warrant has been given to the occupier,
+  - (ii) an application for entry, or the giving of notice, would defeat the object of the entry,
+  - (iii) the premises are unoccupied, or
+  - (iv) the occupier is temporarily absent and it might defeat the object of the entry to await that person’s return.
+
+## 15. Powers of British sea-fishery officers to seize fish and fishing gear
+
+A British sea-fishery officer may seize—
+
+- (a) any fish or fishery products, including any receptacle which contains the fish or fishery products, in respect of which the officer has reasonable grounds to suspect that an offence under this Order or an equivalent provision has been committed;
+- (b) any net or other fishing gear which the officer has reasonable grounds to suspect has been used in the commission of such an offence.
+
+## 16. Protection of officers
+
+(1) An officer is not liable in any civil or criminal proceedings for anything done or omitted to be done in the purported exercise of any of the powers conferred by articles 12 to 15 or in carrying out checks and verifications under the Council Regulation or the Commission Regulation if the court is satisfied that—
+
+- (a) the officer acted in good faith;
+- (b) there were reasonable grounds for so acting; and
+- (c) the officer acted with reasonable skill and care.
+
+(2) In paragraph (1), “officer” means—
+
+- (a) an authorised officer,
+- (b) a British sea-fishery officer, or
+- (c) a person assisting a British sea-fishery officer by virtue of—
+  - (i) article 12(2) or 13(1)(b), or
+  - (ii) a warrant issued under article 14.
+
+## 17. Obstruction of officers
+
+(1) A person is guilty of an offence if that person—
+
+- (a) fails without reasonable excuse to comply with any requirement imposed by an officer under the powers conferred by this Order;
+- (b) without reasonable excuse, prevents, or attempts to prevent, any other person from complying with any such requirement;
+- (c) conceals, tampers with or disposes of evidence relating to an investigation;
+- (d) assaults an officer who is exercising any of the powers conferred by this Order; or
+- (e) intentionally obstructs an officer in the exercise of any of the powers conferred by this Order.
+
+(2) In paragraph (1), “officer” has the same meaning as in article 16(2)
+
+## 18. Offences by corporate bodies
+
+(1) If an offence under this Order or an equivalent provision committed by a body corporate is shown to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, an officer, that officer as well as the body corporate is guilty of the offence and is liable to be proceeded against and punished accordingly.
+
+(2) If the affairs of a body corporate are managed by its members, paragraph (1) applies in relation to the acts and defaults of a member in connection with that member’s functions of management as if that member were a director of the body.
+
+(3) In this article “officer”, in relation to a body corporate, means a director, member of the committee of management, chief executive, manager, secretary or other similar officer of the body, or a person purporting to act in any such capacity.
+
+## 19. Exchange of information
+
+(1) The Secretary of State, the Welsh Ministers, the Commissioners, any local authority or port health authority may exchange information for the purpose of this Order and may divulge information to the enforcement authorities of Scotland and Northern Ireland for the purposes of this Order or the equivalent provision in those jurisdictions
+
+(2) Paragraph (1) is without prejudice to any other power of the Secretary of State, the Welsh Ministers, the Commissioners, the local authority or port health authority to disclose information.
+
+(3) No person, including a servant of the Crown, may disclose any information received from the Commissioners under paragraph (1) if—
+
+- (a) the information relates to a person whose identity—
+  - (i) is specified in the disclosure; or
+  - (ii) can be deduced from the disclosure;
+- (b) the disclosure is for a purpose other than the purposes specified in paragraph (1); and
+- (c) the Commissioners have not given their prior consent to its disclosure.
+
+## 20. Obtaining samples and analysis etc
+
+(1) An authorised officer may, for the purposes of ascertaining whether any offence under this Order has been committed, purchase or take a sample of any fish or fishery products.
+
+(2) An authorised officer who considers that the sample should be analysed, examined or tested, must submit it for that purpose to the public analyst for the area in which it was obtained (or, if in the office of the public analyst for the area is vacant, to the public analyst for some other area).
+
+(3) The public analyst must—
+
+- (a) ensure that the sample is analysed, examined or tested as soon as practicable; and
+- (b) give the person who submitted the sample a certificate specifying the result.
+
+(4) In any proceedings, the production by one of the parties—
+
+- (a) of a document purporting to be a certificate under paragraph (3)(b), or
+- (b) of a document supplied to the party by the other party as being a copy of such a certificate,
+
+is evidence of the facts stated in it unless, in a case falling within sub-paragraph (a), the other party requires that the public analyst be called as a witness.
+
+(5) In any such proceedings, if a person charged or summonsed intends to produce a certificate of a public analyst or require, under paragraph (4), the public analyst to be called as a witness, written notice of the intention together with a copy of the certificate (if appropriate) must be given to the other party at least three clear days before the hearing or trial.
+
+(6) If such notice is not given, the court may adjourn the proceedings on such terms as it thinks fit.
+
+(7) In this Order, “public analyst” has the same meaning as in section 27 of the Food Safety Act 1990[^f00022].
+
+## 21. Admissibility of documents in evidence
+
+(1) In any proceedings in respect of an offence under this Order or an equivalent provision, a document specified in paragraph (2) is evidence of the matters stated in that document.
+
+(2) The documents are—
+
+- (a) a logbook referred to in Article 14[^key-2f0efa60404609a936710225537dacd9] of the Control Regulation;
+- (b) a landing declaration referred to in Article 23[^key-6ac1c1e12e9fab52f10acfeeb2ff77e8] of the Control Regulation;
+- (c) a sales note or document referred to in Articles 62 and 64[^key-a64c20b115380dd5fc86a904178fb883] of the Control Regulation;
+- (d) a transport document referred to in Article 68[^key-be70f73d18ccf4e2494ba38f876441b3] of the Control Regulation;
+- (e) a document containing required information received by a fisheries monitoring centre established under Article 9(7)[^key-406a48152fdce44c40d14b4745a89f5a] of the Control Regulation.
+- (f)[^key-215d75197eb8d7c9227d218b547e3985] a transhipment declaration referred to in Article 21 of the Control Regulation;
+- (g) a take-over declaration referred to in Article 66 of the Control Regulation.
+
+(3) In paragraph (2)(e), “required information” means the following information as communicated via a satellite-based vessel monitoring system established under Article 9(1)[^key-222288c3a2b6cd2f1e7158bc24e58d00] of the Control Regulation—
+
+- (a) the identification of a fishing boat;
+- (b) its course and speed;
+- (c) its most recent geographical position expressed in degrees and minutes of longitude and latitude; and
+- (d) the date and time of the fixing of that position.
+
+(4) Terms used in this article that are also used in the Control Regulation have the meaning they bear in that Regulation.
+
+(5) In this article, any reference to the Control Regulation is a reference to that Regulation as amended from time to time.
+
+(6) In this article “the Control Regulation” means Council Regulation[^key-2ee6f88fb735942ecb277ecc9e69e4bb] [(EC) No. 1224/2009](https://www.legislation.gov.uk/european/regulation/2009/1224) establishing a Community control system for ensuring compliance with the rules of the common fisheries policy.
+
+Dan Norris
+
+Parliamentary Under Secretary of State
+
+Department for Environment, Food and Rural Affairs
+
+Paul Goggins
+
+Parliamentary Under Secretary of State
+
+Northern Ireland Office
+
+Elin Jones
+
+Minister for Rural Affairs, one of the Welsh Ministers
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order makes provision for the enforcement of Council Regulation [(EC) No 1005/2008](https://www.legislation.gov.uk/european/regulation/2008/1005) (OJ No L 286, 29.10.2008, p.1) (“the Council Regulation”) and Commission Regulation [(EC) 1010/2009](https://www.legislation.gov.uk/european/regulation/2009/1010) (OJ No L 280, 27.10.2009, p.5) (“the Commission Regulation”) establishing restrictions and obligations relating to illegal, unreported and unregulated fishing.
+
+Article 4 designates the competent authority for the purposes of the Council and the Commission Regulations. Article 5 provides for controls on movement of consignments of fish or fishery products while verifications are carried out pursuant to Article 17 of the Council Regulation (which can include a request for assistance from the flag state of the vessel to ensure the accuracy of the information contained within, or the validity of, the catch certificate). Article 6 permits movement of such consignments under certain circumstances. Article 7 provides for the refusal of importation in the circumstances set out in Article 18(1) or (2) of the Council Regulation (where the catch certificate is lacking, invalid, inaccurate, incomplete, or where the request for assistance from the flag state, or lack of, confirms that a catch certificate should not have been issued). Article 18 of the Council Regulation also provides that Member States may confiscate, destroy, dispose or sell such fishery products in accordance with national law. The powers set out in sections 268 and 270 to 278 of the Marine and Coastal Access Act 2009 (fisheries enforcement powers) are available to authorised officers in relation to both fish and fishery products. This includes a power to seize the fish and fishery products and release them in return for a bond.
+
+Article 8 requires the port health authority or local authority to charge a fee in respect of each consignment reflecting the expenses it has reasonably incurred. Article 9 provides that certain activities prohibited in the Council Regulation are offences punishable summarily or on indictment (article 10). Articles 12 to 15 provide for powers of British sea-fishery officers in the enforcement of this Order. Articles 18 to 20 make provisions about offences and bodies corporate, exchange of information and obtaining samples, and Article 21 for certain documents to be admitted as evidence.
+
+An impact assessment has been prepared and a copy placed in the library of each House of Parliament. Copies can be obtained from the Department for Environment, Food and Rural Affairs, Ergon House, Horseferry Road, London, SW1P 2AL or from the Department’s website.
+
+## Annotations
+
+[^f00001]: Footnote: [S.I. 1972/1811](https://www.legislation.gov.uk/uksi/1972/1811) and [S.I. 2005/2766](https://www.legislation.gov.uk/uksi/2005/2766). By virtue of sections 59(1) and 162 of, and paragraphs 28 and 30 of Schedule 11 to, the [Government of Wales Act 2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32), functions conferred on the National Assembly for Wales by the designation in [S.I. 2005/2766](https://www.legislation.gov.uk/uksi/2005/2766) are exercisable by the Welsh Ministers.
+
+[^f00002]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68).
+
+[^f00003]: Footnote: OJ No L 261, 20.10.93, p1 as last amended by Council Regulation [(EC) No 1967/2006](https://www.legislation.gov.uk/european/regulation/2006/1967) (OJ No L 409, 30.12.06, p.11).
+
+[^f00004]: Footnote: OJ No L 286, 29.10.08, p1.
+
+[^f00005]: Footnote: OJ No L 280, 27.10.09, p5.
+
+[^f00006]: Footnote: Paragraph 1A of Schedule 2 was inserted by section 28 of the [Legislative and Regulatory Reform Act 2006 (c. 51)](https://www.legislation.gov.uk/ukpga/2006/51).
+
+[^f00007]: Footnote: [1981 c. 29](https://www.legislation.gov.uk/ukpga/1981/29).
+
+[^f00008]: Footnote: The function of the Ministers (see the definition in section 30(3)) under section 30(2) of the Fisheries Act 1981 exercisable in relation to British fishing boats (other than Scottish ones) within the Scottish zone and Scottish fishing boats outside that zone but within British fishery limits remains exercisable by the Ministers despite being transferred to the Scottish Ministers under section 53(1) of the [Scotland Act 1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46): see article 3(1) of, and Schedule 1 to, the Scotland Act 1998 (Concurrent Functions) Order 1999 ([S.I. 1999/1592](https://www.legislation.gov.uk/uksi/1999/1592)). The function under section 30(2) exercisable in relation to the Northern Ireland zone and Northern Ireland fishing boats outside that zone remains exercisable by the Ministers despite being transferred to the Department of Agriculture and Rural Development in Northern Ireland under article 3(2) of, and paragraph 3 of Schedule 2 to, the Sea Fisheries (Northern Ireland) Order 2002 ([S.I. 2002/790](https://www.legislation.gov.uk/uksi/2002/790)): see paragraph 3(2) of Schedule 2 to that Order. Any remaining functions of the Secretaries of State for Scotland and Wales under section 30(2) of the Fisheries Act 1981 in relation to England have been transferred to the Minister of Agriculture, Fisheries and Food: see article 2(1) of the Transfer of Functions (Agriculture and Fisheries) Order 2000 ([S.I. 2000/1812](https://www.legislation.gov.uk/uksi/2000/1812)). The function of that Minister and the Secretary of State concerned with sea fishing in Northern Ireland acting jointly under section 30(2) has been transferred to the Secretary of State for Environment, Food and Rural Affairs and the Secretary of State concerned with sea fishing in Northern Ireland acting jointly: see article 2(5) of the Ministry of Agriculture, Fisheries and Food (Dissolution) Order 2002 ([S.I. 2002/794](https://www.legislation.gov.uk/uksi/2002/794)).
+
+[^f00009]: Footnote: The function of the Ministers under section 30(2) of the Fisheries Act 1981 was transferred to the National Assembly for Wales (as constituted under the [Government of Wales Act 1998 (c.38)](https://www.legislation.gov.uk/ukpga/1998/38)) in so far as exercisable in relation to Wales by article 2(a) of, and Schedule 1 to, the National Assembly for Wales (Transfer of Functions) Order 1999 ([S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672)). Those functions of the National Assembly for Wales were transferred to the Welsh Ministers by virtue of section 162 of, and paragraph 30 of Schedule 11 to, the [Government of Wales Act 2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32).
+
+[^key-6c00c4de5ae937dd8d0706e43df34c56]: Textual amendment: [Art. 2](https://www.legislation.gov.uk/uksi/2009/3391/article/2) substituted (18.6.2018) by [The Sea Fishing (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/643)](https://www.legislation.gov.uk/uksi/2018/643), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/643/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2018/643/regulation/3)
+
+[^f00014]: Footnote: [1968 c. 77](https://www.legislation.gov.uk/ukpga/1968/77); section 7 is amended by article 4 of, and paragraph 48 of Schedule 2 to, [S.I. 1999/1820](https://www.legislation.gov.uk/uksi/1999/1820); by sections 26(1) and 46(2) of, and Part 2 of Schedule 5 to, the Fisheries Act 1981; by section 40 of, and Schedule 5 to, the [Northern Ireland Constitution Act 1973 (c. 36)](https://www.legislation.gov.uk/ukpga/1973/36) and by section 234 of the [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23).
+
+[^key-c5b3308b869b9f9977b608132bad3168]: Textual amendment: Words in [art. 3](https://www.legislation.gov.uk/uksi/2009/3391/article/3) substituted (18.6.2018) by [The Sea Fishing (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/643)](https://www.legislation.gov.uk/uksi/2018/643), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/643/regulation/1/1), [4(a)](https://www.legislation.gov.uk/uksi/2018/643/regulation/4/a)
+
+[^key-adc2298bcf32fbb888446fe0202a84c1]: Textual amendment: Words in [art. 3](https://www.legislation.gov.uk/uksi/2009/3391/article/3) inserted (18.6.2018) by [The Sea Fishing (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/643)](https://www.legislation.gov.uk/uksi/2018/643), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/643/regulation/1/1), [4(b)](https://www.legislation.gov.uk/uksi/2018/643/regulation/4/b)
+
+[^f00015]: Footnote: Section 30(2A) was inserted by [S.I. 1999/1820](https://www.legislation.gov.uk/uksi/1999/1820).
+
+[^key-5feaf7110d5c2455ffc2a246898372bf]: Textual amendment: Words in [art. 3](https://www.legislation.gov.uk/uksi/2009/3391/article/3) inserted (18.6.2018) by [The Sea Fishing (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/643)](https://www.legislation.gov.uk/uksi/2018/643), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/643/regulation/1/1), [4(c)](https://www.legislation.gov.uk/uksi/2018/643/regulation/4/c)
+
+[^f00016]: Footnote: [1984 c. 22](https://www.legislation.gov.uk/ukpga/1984/22).
+
+[^key-dcca13063dbd7d151d9df15ed15baed0]: Textual amendment: Words in [art. 3](https://www.legislation.gov.uk/uksi/2009/3391/article/3) inserted (18.6.2018) by [The Sea Fishing (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/643)](https://www.legislation.gov.uk/uksi/2018/643), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/643/regulation/1/1), [4(d)](https://www.legislation.gov.uk/uksi/2018/643/regulation/4/d)
+
+[^key-9dad67e29f6ac0eedf86af7fce316eaf]: Textual amendment: Words in [art. 3(1)](https://www.legislation.gov.uk/uksi/2009/3391/article/3/1) substituted (31.12.2020) by [The Fisheries (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/746)](https://www.legislation.gov.uk/uksi/2019/746), [regs. 1](https://www.legislation.gov.uk/uksi/2019/746/regulation/1), [9(2)](https://www.legislation.gov.uk/uksi/2019/746/regulation/9/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^f00017]: Footnote: [2006 c. 32](https://www.legislation.gov.uk/ukpga/2006/32).
+
+[^key-cc8010eb63288f6d7a76c0903b01bca8]: Textual amendment: Words in [art. 3](https://www.legislation.gov.uk/uksi/2009/3391/article/3) inserted (18.6.2018) by [The Sea Fishing (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/643)](https://www.legislation.gov.uk/uksi/2018/643), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/643/regulation/1/1), [4(e)](https://www.legislation.gov.uk/uksi/2018/643/regulation/4/e)
+
+[^f00018]: Footnote: [1980 c. 43](https://www.legislation.gov.uk/ukpga/1980/43).
+
+[^key-df611eed25af33363617e854ccc80926]: Textual amendment: [Art. 9(4)](https://www.legislation.gov.uk/uksi/2009/3391/article/9/4) substituted (18.6.2018) by [The Sea Fishing (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/643)](https://www.legislation.gov.uk/uksi/2018/643), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/643/regulation/1/1), [5(2)](https://www.legislation.gov.uk/uksi/2018/643/regulation/5/2)
+
+[^key-91b6f2a468911706dd9aab57897cbf1d]: Textual amendment: Words in [art. 9(5)(b)](https://www.legislation.gov.uk/uksi/2009/3391/article/9/5/b) substituted (31.12.2020) by [The Fisheries (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/746)](https://www.legislation.gov.uk/uksi/2019/746), [regs. 1](https://www.legislation.gov.uk/uksi/2019/746/regulation/1), [9(3)(a)](https://www.legislation.gov.uk/uksi/2019/746/regulation/9/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-b5e5b05db7ff9a1e2867db98421388fd]: Textual amendment: Words in [art. 9(6)](https://www.legislation.gov.uk/uksi/2009/3391/article/9/6) substituted (31.12.2020) by [The Fisheries (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/746)](https://www.legislation.gov.uk/uksi/2019/746), [regs. 1](https://www.legislation.gov.uk/uksi/2019/746/regulation/1), [9(3)(a)](https://www.legislation.gov.uk/uksi/2019/746/regulation/9/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-da923ebfb77ca499490bd5780042a022]: Textual amendment: [Art. 9(6A)](https://www.legislation.gov.uk/uksi/2009/3391/article/9/6A) inserted (18.6.2018) by [The Sea Fishing (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/643)](https://www.legislation.gov.uk/uksi/2018/643), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/643/regulation/1/1), [5(3)](https://www.legislation.gov.uk/uksi/2018/643/regulation/5/3)
+
+[^key-20dfc3f18edde37bec51666df7e2bb65]: Textual amendment: Words in [art. 9(6A)(c)](https://www.legislation.gov.uk/uksi/2009/3391/article/9/6A/c) substituted (31.12.2020) by [The Fisheries (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/746)](https://www.legislation.gov.uk/uksi/2019/746), [regs. 1](https://www.legislation.gov.uk/uksi/2019/746/regulation/1), [9(3)(b)(i)](https://www.legislation.gov.uk/uksi/2019/746/regulation/9/3/b/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-b8ee671ba52f617a5a55ccbde78b891c]: Textual amendment: Words in [art. 9(6A)(d)](https://www.legislation.gov.uk/uksi/2009/3391/article/9/6A/d) omitted (31.12.2020) by virtue of [The Fisheries (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/746)](https://www.legislation.gov.uk/uksi/2019/746), [regs. 1](https://www.legislation.gov.uk/uksi/2019/746/regulation/1), [9(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2019/746/regulation/9/3/b/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-c51c3d39e2e41155f8d0f4771906eaab]: Textual amendment: Words in [art. 9(6A)(e)](https://www.legislation.gov.uk/uksi/2009/3391/article/9/6A/e) substituted (31.12.2020) by [The Fisheries (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/746)](https://www.legislation.gov.uk/uksi/2019/746), [regs. 1](https://www.legislation.gov.uk/uksi/2019/746/regulation/1), [9(3)(b)(iii)](https://www.legislation.gov.uk/uksi/2019/746/regulation/9/3/b/iii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-68073d5042da76bfc0c8a1eefe0439e5]: Textual amendment: Words in [art. 9(6A)(f)](https://www.legislation.gov.uk/uksi/2009/3391/article/9/6A/f) substituted (31.12.2020) by [The Fisheries (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/746)](https://www.legislation.gov.uk/uksi/2019/746), [regs. 1](https://www.legislation.gov.uk/uksi/2019/746/regulation/1), [9(3)(b)(iv)](https://www.legislation.gov.uk/uksi/2019/746/regulation/9/3/b/iv); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-7df29a8661ea68022abb149e5de8148e]: Textual amendment: [Art. 9(12)](https://www.legislation.gov.uk/uksi/2009/3391/article/9/12) inserted (18.6.2018) by [The Sea Fishing (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/643)](https://www.legislation.gov.uk/uksi/2018/643), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/643/regulation/1/1), [5(4)](https://www.legislation.gov.uk/uksi/2018/643/regulation/5/4)
+
+[^key-aa5b4a9f8635de704be6369ee9b8e47c]: Textual amendment: Words in art. 10(1) substituted (12.3.2015) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 4 para. 77](https://www.legislation.gov.uk/uksi/2015/664/schedule/4/paragraph/77) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))
+
+[^key-6baf7560ce1e9884d6f32f06fb7674ca]: Textual amendment: [Art. 11](https://www.legislation.gov.uk/uksi/2009/3391/article/11) omitted (18.6.2018) by virtue of [The Sea Fishing (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/643)](https://www.legislation.gov.uk/uksi/2018/643), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/643/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2018/643/regulation/6)
+
+[^f00022]: Footnote: [1990 c. 16](https://www.legislation.gov.uk/ukpga/1990/16). Section 27(2) was amended by the [Food Standards Act 1999 (c. 28)](https://www.legislation.gov.uk/ukpga/1999/28), section 40(1) and Schedule 5, paragraph 7, and 8. There are further amendments not relevant to this Order.
+
+[^key-2f0efa60404609a936710225537dacd9]: Textual amendment: Words in art. 21(2)(a) substituted (18.6.2018) by [The Sea Fishing (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/643)](https://www.legislation.gov.uk/uksi/2018/643), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/643/regulation/1/1), [7(2)(a)](https://www.legislation.gov.uk/uksi/2018/643/regulation/7/2/a)
+
+[^key-6ac1c1e12e9fab52f10acfeeb2ff77e8]: Textual amendment: Words in art. 21(2)(b) substituted (18.6.2018) by [The Sea Fishing (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/643)](https://www.legislation.gov.uk/uksi/2018/643), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/643/regulation/1/1), [7(2)(b)](https://www.legislation.gov.uk/uksi/2018/643/regulation/7/2/b)
+
+[^key-a64c20b115380dd5fc86a904178fb883]: Textual amendment: Words in art. 21(2)(c) substituted (18.6.2018) by [The Sea Fishing (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/643)](https://www.legislation.gov.uk/uksi/2018/643), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/643/regulation/1/1), [7(2)(c)](https://www.legislation.gov.uk/uksi/2018/643/regulation/7/2/c)
+
+[^key-be70f73d18ccf4e2494ba38f876441b3]: Textual amendment: Words in art. 21(2)(d) substituted (18.6.2018) by [The Sea Fishing (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/643)](https://www.legislation.gov.uk/uksi/2018/643), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/643/regulation/1/1), [7(2)(d)](https://www.legislation.gov.uk/uksi/2018/643/regulation/7/2/d)
+
+[^key-406a48152fdce44c40d14b4745a89f5a]: Textual amendment: Words in art. 21(2)(e) substituted (18.6.2018) by [The Sea Fishing (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/643)](https://www.legislation.gov.uk/uksi/2018/643), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/643/regulation/1/1), [7(2)(e)](https://www.legislation.gov.uk/uksi/2018/643/regulation/7/2/e)
+
+[^key-215d75197eb8d7c9227d218b547e3985]: Textual amendment: Art. 21(2)(f)(g) inserted (18.6.2018) by [The Sea Fishing (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/643)](https://www.legislation.gov.uk/uksi/2018/643), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/643/regulation/1/1), [7(2)(f)](https://www.legislation.gov.uk/uksi/2018/643/regulation/7/2/f)
+
+[^key-222288c3a2b6cd2f1e7158bc24e58d00]: Textual amendment: Words in art. 21(3) substituted (18.6.2018) by [The Sea Fishing (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/643)](https://www.legislation.gov.uk/uksi/2018/643), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/643/regulation/1/1), [7(3)](https://www.legislation.gov.uk/uksi/2018/643/regulation/7/3)
+
+[^key-2ee6f88fb735942ecb277ecc9e69e4bb]: Textual amendment: Words in art. 21(6) substituted (18.6.2018) by [The Sea Fishing (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/643)](https://www.legislation.gov.uk/uksi/2018/643), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/643/regulation/1/1), [7(4)](https://www.legislation.gov.uk/uksi/2018/643/regulation/7/4)

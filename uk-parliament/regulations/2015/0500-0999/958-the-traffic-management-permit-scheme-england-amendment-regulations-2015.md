@@ -1,0 +1,275 @@
+---
+title: The Traffic Management Permit Scheme (England) (Amendment) Regulations 2015
+id: uksi/2015/958
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2015-03-26'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2015/958
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2015/958/pdfs/uksiem_20150958_en.pdf
+- http://www.legislation.gov.uk/uksi/2015/958/pdfs/uksi_20150958_en.pdf
+- http://www.legislation.gov.uk/uksi/2015/958/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Traffic Management Permit Scheme (England) (Amendment) Regulations 2015
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2015 No. 958
+
+Highways, England
+
+The Traffic Management Permit Scheme (England) (Amendment) Regulations 2015
+
+Made
+
+26th March 2015
+
+Laid before Parliament
+
+27th March 2015
+
+Coming into force
+
+30th June 2015
+
+The Secretary of State makes the following Regulations in exercise of the powers conferred by sections 37(1) to (4), (7), (8) and (12) of the Traffic Management Act 2004[^f00001].
+
+## 1. Citation, commencement and application
+
+(1) These Regulations may be cited as the Traffic Management Permit Scheme (England) (Amendment) Regulations 2015 and shall come into force on 30th June 2015.
+
+(2) These Regulations apply to England only.
+
+## 2. Amendment to the Traffic Management Permit Scheme (England) Regulations 2007
+
+The Traffic Management Permit Scheme (England) Regulations 2007[^f00002] are amended as set out in regulations 3 to 13.
+
+## 3. Amendment to regulation 2 (interpretation)
+
+(1) In regulation 2, after the definition of “emergency services”, insert—
+
+> - “Guidance” means the Statutory Guidance for Highway Authority Permit Schemes – Permit Scheme Conditions dated March 2015 issued by the Secretary of State pursuant to section 33(5)(b) of the 2004 Act;
+
+.
+
+(2) In regulation 2, after the definition of “local authority”, insert—
+
+> - “order” means “a document signed by a person authorised by the Permit Authority to give effect to, vary or revoke a permit scheme;
+
+.
+
+(3) In regulation 2, for the definition of “Permit Authority”, substitute—
+
+> - “Permit Authority”, in relation to a permit scheme, means the relevant local highway authority or strategic highways company which has prepared a permit scheme under section 33(1) or (2) of the 2004 Act;
+
+.
+
+(4) In regulation 2, after the definition of “street authority”, insert—
+
+> - “traffic-sensitive street” means a street designated as traffic-sensitive under section 64 of the New Roads and Street Works Act 1991[^f00003];
+> - “traffic-sensitive time”, in relation to a traffic-sensitive street, means—
+>   - (a) the times or dates specified in the case of a limited designation; and
+>   - (b) any time in any other case;
+
+.
+
+## 4. Amendment to the Part 2 heading
+
+In the heading for Part 2, for “Application for scheme” substitute “Preparation of permit scheme”.
+
+## 5. Amendment to regulation 3 (consultation for new permit schemes)
+
+(1) For regulation 3(1) up to “the permit authority shall consult—”, substitute—
+
+> **3. Consultation for permit schemes**
+>
+> (1) Where a Permit Authority has prepared a permit scheme under section 33 of the 2004 Act and before giving effect to that scheme, the Permit Authority shall consult—
+
+.
+
+(2) After sub-paragraph (f) of regulation 3(1), insert—
+
+> - (g) any other persons specified in the Guidance as being persons to be consulted prior to giving effect to a permit scheme;
+
+.
+
+## 6. Amendment to regulation 4 (Procedural requirements for submitting new permit schemes)
+
+In regulation 4—
+
+- (a) for up to “with the following information—”, substitute—
+
+  > **4. Procedural requirements for commencing permit schemes**
+  >
+  > (1) Prior to giving effect to a permit scheme by order in accordance with section 33A of the 2004 Act, the Permit Authority shall have considered the following—
+
+  ;
+- (b) in sub-paragraph (d), omit “and when”;
+- (c) in sub-paragraph (e), after “permit scheme”, insert “and how such costs and benefits will be demonstrated when the permit scheme is evaluated in accordance with regulation 16A;”;
+- (d) in sub-paragraph (i), omit “a summary of” and “and of the changes made to the permit scheme following that consultation.”; and
+- (e) after sub-paragraph (i) insert—
+
+  > (2) The Permit Authority shall confirm in the permit scheme that the scheme has been prepared in accordance with these Regulations and that it had regard to the Guidance.
+
+  .
+
+## 7. Amendment to regulation 5 (varying and revoking schemes at the permit authority’s request)
+
+For regulation 5, substitute—
+
+> **5. Varying and revoking permit schemes**
+>
+> Before varying or revoking a permit scheme, the Permit Authority shall consult the persons referred to in regulation 3(1).
+
+.
+
+## 8. Amendment to regulation 9 (permits)
+
+(1) For regulation 9(1), substitute—
+
+> **9. Permit scheme provision**
+>
+> (1) Subject to paragraph (2), a permit scheme shall include provision requiring a permit to be obtained by electronic communication from the Permit Authority before specified works are carried out in a specified street.
+
+.
+
+(2) After paragraph (9) of regulation 9, insert—
+
+> (10) A permit scheme shall set out the grounds on which a permit can be refused.
+>
+> (11) Where an application for a permit meets the relevant requirements of the permit scheme, the Permit Authority shall grant the permit.
+
+.
+
+## 9. Amendment to regulation 10 (conditions attached to permits)
+
+In regulation 10—
+
+- (a) in paragraph (2), for “under that paragraph include” substitute “are those”; and
+- (b) after paragraph (5) insert—
+
+  > (6) Where a condition is to be specified in a permit the Permit Authority shall use the wording and numbering for that type of condition set out in the Guidance.
+
+  .
+
+## 10. New regulation 16A (evaluation of permit scheme)
+
+After regulation 16, insert—
+
+> **16A. Evaluation of permit schemes**
+>
+> (1) A permit scheme shall contain information on how the Permit Authority must evaluate that scheme.
+>
+> (2) The Permit Authority shall evaluate each permit scheme following—
+>
+> - (a) the first, second and third anniversary respectively of the date on which the permit scheme came into effect; and
+> - (b) every third anniversary thereafter.
+>
+> (3) In carrying out the evaluation, the Permit Authority shall include consideration of—
+>
+> - (a) whether the fee structure needs to be changed in light of any surplus or deficit;
+> - (b) the costs and benefits (whether or not financial) of operating the scheme; and
+> - (c) whether the permit scheme is meeting key performance indicators where these are set out in the Guidance.
+>
+> (4) The outcome of each evaluation shall be made available to the persons referred to in regulation 3(1) within three months of the relevant anniversary.
+
+.
+
+## 11. Amendment to regulation 17 (notification of permit scheme)
+
+For regulation 17, substitute—
+
+> **17. Notification prior to commencing a permit scheme**
+>
+> (1) Where a permit authority has made an order under section 33A(2) of the 2004 Act (implementation of permit schemes of strategic highway companies and local highway authorities in England) giving effect to a permit scheme, the Permit Authority shall—
+>
+> - (a) notify the persons referred to in regulation 3(1) that such order has been made; and
+> - (b) provide such persons with a copy of such order and the relevant permit scheme,
+>
+> not less than four weeks before the date on which the permit scheme is to come into effect.
+>
+> (2) Where the Secretary of State has made a direction under section 36(2) of the 2004 Act (variation and revocation of permit schemes) to vary or revoke a permit scheme, the Permit Authority shall notify the persons referred to in regulation 3(1) that such direction has been made not less than four weeks before the date on which the variation or revocation comes into effect.
+
+.
+
+## 12. Amendment to regulation 30 (power to charge a fee and discounts)
+
+(1) In regulation 30—
+
+- (a) after paragraph (1), insert—
+
+  > (1A) Where a Permit Authority is an Approved Authority for the purposes of the Street Works (Charges for Occupation of the Highway) (England) Regulations 2012[^f00004], a fee may not be charged in relation to a permit for works on a street for which a charge falls due under those Regulations.
+
+  ;
+- (b) after paragraph (3), insert—
+
+  > (3A) A permit scheme shall include discounts for works which take place on streets subject to designation as traffic-sensitive, where the works take place wholly outside traffic-sensitive times.
+
+  ; and
+- (c) after paragraph (6), insert—
+
+  > (7) Where a permit is granted but subsequently revoked by the Permit Authority before commencement of the specified works, the Permit Authority shall refund in full any fee charged in accordance with this regulation, provided the revocation is not the fault of the permit holder.
+
+  .
+
+## 13. Amendment to regulation 35 (Application of Part)
+
+In regulation 35, for “34(4)” substitute “33A(2)”.
+
+## 14. Transitional provision
+
+(1) Subject to paragraph (2), Permit Authorities operating permit schemes in effect on the day on which these Regulations come into force must ensure that, by 1st October 2015, those schemes are in compliance with the Traffic Management Permit Scheme (England) Regulations 2007, as amended by these Regulations.
+
+(2) Paragraph (1) does not apply in relation to consultation or other procedural provisions with which a Permit Authority must comply before a permit scheme comes into effect.
+
+Signed by authority of the Secretary of State for Transport
+
+Kramer
+
+Minister of State
+
+Department for Transport
+
+26th March 2015
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations amend the Traffic Management Permit Scheme (England) Regulations 2007 ([S.I. 2007/3372](https://www.legislation.gov.uk/uksi/2007/3372)) (“the 2007 Regulations”). Following amendments to the Traffic Management Act 2004 (“the 2004 Act”) by the Deregulation Act 2015, this instrument makes consequential amendments to the 2007 Regulations. These amendments can be found in Regulations 4,5,6,7,11 and 13. The instrument also makes other amendments to the 2007 Regulations.
+
+*Regulation 3* amends regulation 2 of the 2007 Regulations. It inserts a new definition of “Guidance” and amends the definition of “Permit Authority” to reflect the creation of a strategic highways company under the Infrastructure Act 2015. It also provides a definition of “order” for the purposes of giving effect to, varying or revoking a permit scheme. It also inserts a definition of “traffic-sensitive street” and “traffic-sensitive time”.
+
+*Regulation 5* amends regulation 3 of the 2007 Regulations by making a change to the consultation process to widen those who must be consulted to include any person named in the Guidance.
+
+*Regulation 6* amends regulation 4 of the 2007 Regulations. It substitutes a new paragraph (1) into the 2007 Regulations and makes some changes to the factors which must be considered by a permit authority before giving effect to a permit scheme. There is also inserted a new paragraph (2) requiring that the Permit Authority confirms in the permit scheme compliance with both the 2007 Regulations and the Guidance.
+
+*Regulation 8* amends regulation 9 of the 2007 Regulations. It substitutes a new title to the regulation. It further substitutes a new paragraph (1) which requires that requests for a permit be made via electronic communication. New paragraphs (10) and (11) require that the grounds on which a permit can be refused are set out in the permit scheme and that a Permit Authority must grant a permit where the application meets the requirements for the scheme.
+
+*Regulation 9* amends regulation 10 of the 2007 Regulations. The types of conditions which can be attached to permits is now made exhaustive. A new paragraph (6) provides that where a Permit Authority wishes to impose a condition in a scheme it must use for the relevant type of condition the numbering and wording set out in the Guidance.
+
+*Regulation 10* inserts a new regulation 16A into the 2007 Regulations. This new regulation makes provision for the content and timing of permit scheme evaluations. This provides that permit schemes be evaluated following the first, second and third anniversary of the scheme’s commencement and then following every third anniversary. It also requires that the outcome of each evaluation be made available within three months.
+
+*Regulation 12* amends regulation 30 of the 2007 Regulations. This regulation inserts new paragraphs (1A), (3A) and (7) into regulation 30. Paragraph (1A) prevents a permit fee being charged in circumstances where a fee would fall due under the Street Works (Charges for Occupation of the Highway) England Regulations 2012 (lane rental provisions). Paragraph (3A) requires that discounts be offered for works in traffic-sensitive streets where those works take place wholly outside traffic-sensitive times. New paragraph (7) requires that where a permit is granted but then revoked by the Permit Authority before the works have commenced and that revocation is not the fault of the permit holder, any fee paid should be refunded.
+
+*Regulation 14* requires that by 1st October 2015 Permit Authorities must ensure that existing permit schemes are compliant with the 2007 Regulations, as amended by these Regulations. That obligation does not, however, require compliance with the obligations which a Permit Authority must comply with before a scheme comes into effect.
+
+A full impact assessment of the effect that this instrument will have on the costs of business and the voluntary sector is annexed to the Explanatory Memorandum which is available alongside the instrument on www.legislation.gov.uk .
+
+## Annotations
+
+[^f00001]: Footnote: [2004 c.18](https://www.legislation.gov.uk/ukpga/2004/18). Part 3 of the Traffic Management Act 2004 (“the 2004 Act”) has been amended by the Deregulation Act [2015 (c.20)](https://www.legislation.gov.uk/ukpga/2015/20) (“the 2015 Act”), section 51(b), Schedule 10, Part 2, paragraphs 4 to 10. Section 37(1) has been amended and paragraphs (1A) and (3A) inserted by Schedule 10, part 2, paragraph 9 of the 2015 Act. In addition, the Infrastructure Act [2015 (c.7)](https://www.legislation.gov.uk/ukpga/2015/7), has made amendments to the 2004 Act which are not relevant.
+
+[^f00002]: Footnote: [S.I. 2007/3372](https://www.legislation.gov.uk/uksi/2007/3372).
+
+[^f00003]: Footnote: 1991\. c.22. Section 64 is amended by the Road Traffic Act [1991 (c.40)](https://www.legislation.gov.uk/ukpga/1991/40), section 81 and Schedule 7, paragraph 12 and by the Traffic Management Act [2004 (c.18)](https://www.legislation.gov.uk/ukpga/2004/18), section 52(4).
+
+[^f00004]: Footnote: [S.I. 2012/425](https://www.legislation.gov.uk/uksi/2012/425).

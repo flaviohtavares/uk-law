@@ -1,0 +1,1847 @@
+---
+title: The Occupational Pension Schemes (Charges and Governance) Regulations 2015
+id: uksi/2015/879
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised-with-pending-changes
+made_date: '2015-03-23'
+text_date: '2023-04-06'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2015/879
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2015/879/pdfs/uksiem_20150879_en.pdf
+- http://www.legislation.gov.uk/uksi/2015/879/pdfs/uksi_20150879_en.pdf
+- http://www.legislation.gov.uk/uksi/2015/879/data.pdf
+pending_changes: 1
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Occupational Pension Schemes (Charges and Governance) Regulations 2015
+
+> **Warning: changes not yet applied to this text (1).** Text as at 2023-04-06. See https://www.legislation.gov.uk/changes/affected/uksi/2015/879
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2015 No. 879
+
+Pensions
+
+The Occupational Pension Schemes (Charges and Governance) Regulations 2015
+
+Made
+
+23rd March 2015
+
+Coming into force in accordance with regulation 1
+
+The Secretary of State for Work and Pensions, in exercise of the powers conferred by sections 113(1), 181(1) and 182(2) and (3) of the Pension Schemes Act 1993 [^c2247222], sections 35(1), (3) and (4), 36(1), (1A)(a) and (9), 68(2)(e), 124(1) and 174(2) and (3) of the Pensions Act 1995 [^c2247223], sections 1(5), 8(1) and 83(4)(a) of the Welfare Reform and Pensions Act 1999 [^c2247224], sections 60(2)(h), 259(1), 315 and 318(1) of the Pensions Act 2004 [^c2247225] and sections 43 and 54(5) and (6) of, and paragraphs 1(1), (2)(a), (3) and (5), 2(1) to (3) and (5), 6 and 7 of Schedule 18 to, the Pensions Act 2014 [^c2247226], makes the following Regulations.
+
+In accordance with section 185(1) of the Pension Schemes Act 1993 [^c2247227], section 120(1) of the Pensions Act 1995, section 317(1) of the Pensions Act 2004 and paragraph 8 of Schedule 18 to the Pensions Act 2014, the Secretary of State has consulted such persons as the Secretary of State considers appropriate.
+
+A draft of these Regulations has been laid before and approved by a resolution of each House of Parliament in accordance with section 54(2)(e) and (f) of the Pensions Act 2014.
+
+## PART 1 — INTRODUCTION
+
+### 1. Citation and commencement
+
+(1) These Regulations may be cited as the Occupational Pension Schemes (Charges and Governance) Regulations 2015.
+
+(2) Subject to paragraph (3), these Regulations come into force on 6th April 2015.
+
+(3) The following provisions come into force on 6th April 2016—
+
+- (a) regulation 11 and the words “with the exception of regulation 11” in regulation 4(2); and
+- (b) regulation 23.
+
+### 2. Interpretation
+
+(1) In these Regulations—
+
+- “**the 1995 Act**” means the Pensions Act 1995;
+- “**the 2008 Act**” means the Pensions Act 2008 [^c2247228];
+- “[^key-8f5eef1e62c660bf2e5517b78bc04fa2]**the 2021 Act**” means the Pension Schemes Act 2021;
+- “**the Administration Regulations**” means the Occupational Pension Schemes (Scheme Administration) Regulations 1996 [^c2247229];
+- “adviser” is a person described in regulation 11A(3);[^key-f67bb5f886643c229fa6c1c15ca9dc6d]
+- “**annually**” means per charges year;
+- “**arrangement**” means an allocation of contributions to—
+  - (a) an investment; or
+  - (b) more than one investment according to a strategy adopted by the trustees or managers;
+- “**charges**” means administration charges [^c2247230] other than—
+  - (a) transaction costs;
+  - (b) where an order of the court provides for the recovery by the trustees or managers of costs incurred in complying with the order, the amount of those costs;
+  - (c) charges permitted by regulations made under section 24 or 41 (charges in respect of pension sharing costs) of the Welfare Reform and Pensions Act 1999 [^c2247231];
+  - (d) winding up costs;
+  - (e) costs solely associated with the provision of death benefits;[^key-d43bdf4e61f50d6d683bfe4c6c0b6e2f]
+  - (f) costs solely attributable to holding physical assets;
+  - (g) specified performance-based fees;[^key-8c7d375339bd079caf3a7f18eb8fb233]
+- “**charges year**” means a period of 12 months specified for the purposes of the scheme in any scheme document or, if no such year is specified, a period of 12 months commencing on—
+  - (a) either 1st or 6th April as the trustees or managers may decide; or
+  - (b) if no such decision is made, 1st<sup></sup>April;
+- “**collective contribution percentage charge**” has the meaning given in regulation 5A(3);
+- “**collective existing rights charge**” has the meaning given in regulation 5A(3);
+- “**collective flat fee charge**” has the meaning given in regulation 5A(3);
+- “[^key-a2bc507db640cf1664f3dabd8def50e4]**collective investment scheme**” has the meaning given in regulation 1(2) (citation, commencement and interpretation) of the Occupational Pension Schemes (Investment) Regulations 2005;
+- “**collective money purchase benefit**” has the meaning given in section 1(1) of the 2021 Act;
+- “**collective money purchase scheme**” has the meaning given in section 1(2) of the 2021 Act;
+- “**collective single charge structure**” has the meaning given in regulation 5A(2);
+- “commodity” means any goods of a fungible nature that are capable of being delivered, including metals and their ores and alloys, agricultural products and energy such as electricity, but not including cash or financial instruments (within the meaning of article 3 of the Financial Services and Markets Act 2000 (Regulated Activities) Order 2001);[^key-cfc7248a006260c578613e08aa25816a]
+- “contributing member” is a member of a relevant scheme, that is not a collective money purchase scheme,[^key-595a316f84015956e6cc4b63a14c7e5c] in relation to whom a contribution is being made to that scheme for the purposes of accruing money purchase benefits (other than collective money purchase benefits)[^key-3ebc824de50a94197d8a5ba350100659];
+- “**contribution**”, in relation to a member, means a payment made by, on behalf of or in respect of that member;
+- “**contribution percentage charge**” has the meaning given in regulation 5(3);
+- “**default arrangement**” has the meaning given in regulation 3;
+- “**employer**” has the meaning given in section 99 of the 2008 Act [^c2247232];
+- “**executive pension scheme**” means a scheme—
+  - (a) in relation to which a company is the only employer and the sole trustee; and
+  - (b) the members of which are either current or former directors of the company and include at least one third of the current directors;
+- “**existing rights charge**” has the meaning given in regulation 5(3);
+- “**flat fee charge**” has the meaning given in regulation 5(3);
+- “[^key-a22a8fd5ed4c07ae0cbc4fd0ddb332c4]**fund manager**” has the meaning given in section 124(1) (interpretation of Part 1) of the 1995 Act;
+- “**fund of funds**” means a collective investment scheme which has a policy of investing in other collective investment schemes;
+- “**jobholder**” has the meaning given in section 99 of the 2008 Act;
+- “performance fee” means a fee which—[^key-faa4b15423a6d71e8660de853581fd57]
+  - (a) is calculated by reference to the returns from investments held by the scheme, whether in terms of the capital appreciation of those investments, the income produced by those investments or otherwise; and
+  - (b) in the case of a relevant scheme that is not a collective money purchase scheme,[^key-e92612fd6955c9960661d3862b1c51fe] is not calculated by reference to the value of the member’s rights under the scheme; or[^key-79da1909626247cc8ff9831d24a02724]
+  - (c) in the case of a relevant scheme that is a collective money purchase scheme, is not calculated by reference to the value of members’ rights under the scheme;[^key-ae53488dc09a8215c4d8fe6d140bdd49]
+- “physical asset” means an asset whose value depends on its physical form, including—
+  - (a) land,
+  - (b) buildings and other structures on land or sea,
+  - (c) vehicles, ships, aircraft or rolling stock, and
+  - (d) commodities;
+- “**qualifying collective money purchase scheme**” has the meaning given in regulation 3A;
+- “**qualifying scheme**” has the meaning given in section 99 of the 2008 Act;
+- “qualifying scheme employer” means an employer in relation to whom a scheme is a qualifying scheme in relation to at least one of its jobholders;
+- “**qualifying section employer**” means an employer in relation to whom a section of a pension scheme, which is a collective money purchase scheme for the purposes of section 1(2)(b) of the 2021 Act, is being used by a qualifying scheme in relation to at least one of its jobholders;
+- “**relevant small scheme**” means a scheme with fewer than 12 members, where—
+  - (a) all the members are trustees of the scheme and either—
+    - (i) the provisions of the scheme provide that any decision made by the trustees is made by the unanimous agreement of the trustees who are members of the scheme; or
+    - (ii) the scheme has a trustee who is independent in relation to the scheme for the purposes of section 23 of the 1995 Act [^c2247233] (power to appoint independent trustees), and is registered in the register maintained by the Authority (as defined in that Act) [^c2247234] in accordance with regulations made under subsection (4) of that section; or
+  - (b) all the members are directors of a company which is the sole trustee of the scheme and either—
+    - (i) the provisions of the scheme provide that any decision made by the company in its capacity as a trustee is made by the unanimous agreement of the directors who are members of the scheme; or
+    - (ii) one of the directors of the company is independent in relation to the scheme for the purposes of section 23 of the 1995 Act and is registered in the register maintained by the Authority (as defined in that Act) in accordance with regulations made under subsection (4) of that section;
+- “service provider” means a person who provides an administration service directly to the trustees or managers of a relevant[^key-af95d39c2068ffd3cc969dc96642d5f5] scheme;
+- “**single charge structure**” has the meaning given in regulation 5(2);
+- “[^key-661e56e4a71fb5a466357e37b94d8375]**specified performance-based fees**” means fees, profit-sharing arrangements, or any part of fees or profit-sharing arrangements, which are—
+  - (a) payable by or on behalf of the trustees or managers of a pension scheme to a fund manager in relation to investments (“the managed investments”) managed by the fund manager, either directly or as part of a collective investment scheme, for the purposes of the scheme;
+  - (b) calculated only by reference to investment performance, whether in terms of the capital appreciation of the managed investments, the income produced by the managed investments or otherwise;
+  - (c) only payable when—
+    - (i) investment performance exceeds a pre-agreed rate, which may be fixed or variable; or
+    - (ii) the value of the managed investments exceeds a pre-agreed amount;
+  - (d) calculated over a pre-agreed period of time; and
+  - (e) subject to pre-agreed terms designed to mitigate the effects of short-term fluctuations in the investment performance or value of the managed investments;
+- “specified scheme” means a relevant scheme, that is not a collective money purchase scheme for the purposes of section 1(2)(b) of the 2021 Act,[^key-162922941742b7147ec89ce83d91a59f] in which at least one qualifying scheme employer participates;
+- “**specified section**” means a relevant scheme that is a collective money purchase scheme for the purposes of section 1(2)(b) of the 2021 Act in which at least one qualifying section employer participates;
+- “**transaction costs**” means the costs incurred as a result of the buying, selling, lending or borrowing of investments;
+- “**winding up costs**” means the costs of winding up the pension scheme including (but not limited to) the cost of —
+  - (a) legal advice;
+  - (b) tracing, consulting and communicating with members;
+  - (c) advice on exiting investments;
+  - (d) selection of an alternative scheme or investments;
+- “**worker**” has the meaning given in section 99 of the 2008 Act;
+- “**writing**” includes electronic communication and ‘electronic communication’ has the meaning given in section 15(1) of the Electronic Communications Act 2000 [^c2247235].
+
+(1A)[^key-ef181390890d92f1fb2290c26048d0de] For the purposes of the definition of “charges”, the costs solely attributable to holding a physical asset include—
+
+- (a) the costs of managing and maintaining the asset;
+- (b) fees for valuing the asset;
+- (c) the cost of insuring the asset;
+- (d) ground rent, charges, rates, taxes and utilities bills incurred in relation to the asset.
+
+(1B)[^key-57fe40cc386660039276bce212272b6d] When determining whether or not fees or profit-sharing arrangements, or any part of fees or profit-sharing arrangements, are specified performance-based fees for the purposes of these regulations—
+
+- (a) a rate, amount, period of time or term is pre-agreed if—
+  - (i) it has been agreed between the trustees or managers and the fund manager to whom the fees are payable, before the trustees or managers make the investments to which the fees relate; or
+  - (ii) where the trustees or managers have invested in a fund of funds, it is set out in the investment policy of the fund of funds to which the trustees or managers agreed when they invested in the fund of funds; and
+- (b) regard must be had to any guidance issued by the Secretary of State by virtue of paragraph 1(2)(b) of Schedule 18 to the Pensions Act 2014 (power to restrict charges).
+
+(2) For the purposes of paragraph 1(5) of Schedule 18 to the Pensions Act 2014, “**relevant scheme**” means—
+
+- (a) an occupational pension scheme under which all the benefits which may be provided are money purchase benefits other than collective money purchase benefits[^key-184c92ac1b65e3cc2fe8ae3705f66802]; [^key-ee4059479d7ca3d42fef0e9c2e8105ab]...
+- (b) where some but not all the benefits which may be provided under an occupational pension scheme are money purchase benefits, other than collective money purchase benefits,[^key-c9e90f1edf93639b7f797c10f5ac0c77] that scheme in so far as it relates to those benefits, other than a scheme with only one member, an executive pension scheme or a relevant small scheme[^key-9a7cae24656b9fc1fd3fd6109954f771]...; or[^key-220c7287b7330e057ba98176fa073a62]
+- (c)[^key-58864a38eba7c0c24296ae2df5697f98] a collective money purchase scheme,
+
+(2A)[^key-bcca785027f1ef1ab3c9e0fddf5c7a68] Where a pension scheme is divided into sections, each section that is a collective money purchase scheme for the purposes of Part 1 of the 2021 Act (see section 1(2)(b)) is to be treated for the purposes of these Regulations as a separate scheme.
+
+(3) Where, in these Regulations, the circumstances require one or more of the calculations listed in paragraph (4) to be made in relation to a period of less than a charges year, that calculation shall be done on a pro rata basis.
+
+(3A)[^key-6673a8fe5d4000254dff08de56dc5926] Where, in these Regulations, a collective flat fee charge is to be calculated and these Regulations have applied to a member of a qualifying collective money purchase scheme for a period of less than a charges year, the charge associated with that member for the purposes of calculating the collective flat fee charge (see regulation 6A(4)(a)) must be calculated on a pro rata basis.
+
+(4) The calculations referred to in paragraph (3) are—
+
+- (a) a charge under a single charge structure;
+- (b) a flat fee charge;
+- (c) an existing rights charge[^key-67b7f826dc08a643d85b6924cb8c163e]...
+
+  ;[^key-2e5c7144550a5003a4d4d4f8fed7b499]
+- (d) a charge under a collective single charge structure;
+- (e) a collective existing rights charge.
+
+(5)[^key-76ae950a0b75af6b537e9c3cee7b78d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5A)[^key-3f30a1d0e9b227750e335c43426b4012] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(6)[^key-a6f178050fa51e8d875a98609469a613] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 3. Default arrangement
+
+(1) Subject to paragraph (6), a “**default arrangement**”, in relation to an employer, means an arrangement which—
+
+- (a) on or after the relevant date is used by a qualifying scheme (which is a relevant scheme) in relation to one or more relevant jobholders; and
+- (b) satisfies one or more of the descriptions in paragraph (2).
+
+(2) The descriptions referred to in paragraph (1) are—
+
+- (a) an arrangement under which the contributions of one or more workers are allocated to a fund or funds where those workers have not expressed a choice as to where those contributions are allocated;
+- (b) subject to paragraph (3), an arrangement which, on the relevant date, was an arrangement under which the contributions of 80% or more of the workers who were contributing members of the scheme on that date were allocated where those workers were required to make a choice as to where their contributions were allocated;
+- (c) an arrangement which first received contributions from workers after the relevant date, and under which, at any point after the relevant date, the contributions of 80% or more of workers who are contributing members of the scheme are allocated where those workers were required to make a choice as to where their contributions are allocated.
+
+(3) An arrangement does not satisfy the description in paragraph (2)(b) if, at any time before the relevant date—
+
+- (a) each worker whose contributions were allocated under the arrangement (‘the original arrangement’) at that time was informed that contributions payable on or after the relevant date would be allocated under a default arrangement satisfying the description in paragraph (2)(a) (‘the new arrangement’) unless the worker agreed that allocation of the worker's contributions under the original arrangement should continue; and
+- (b) in the event that a worker did not agree that allocation of that worker's contributions to the original arrangement should continue, that worker's contributions payable on or after the relevant date were allocated to the new arrangement.
+
+(4) A worker's agreement, referred to in paragraph (3)(a), must—
+
+- (a) be in writing; and
+- (b) include a statement that the worker acknowledges that charges under the original arrangement may be higher than would otherwise be permitted under these Regulations.
+
+(5) Where an arrangement is a default arrangement in relation to an employer by virtue of paragraph (1), it continues to be such an arrangement regardless of whether it continues to satisfy that paragraph.
+
+(6)[^key-3b4d7712b9f2f7c4c0570f726d3522d8] An arrangement is not a default arrangement if—
+
+- (a) at any time before a benefit under that arrangement comes into payment, it provides for a pensions promise to be obtained from a third party in relation to any such benefit; or
+- (b) it provides no benefits other than benefits which are attributable to additional voluntary contributions.
+
+(7) For the purposes of paragraph (6) -
+
+- (a) a “pensions promise” is a promise about the level of the benefit;
+- (b) an arrangement provides for a promise to be obtained from a third party if it—
+  - (i) requires the promise to be obtained from a third party; or
+  - (ii) provides for the worker to be given the option of requiring a promise to be obtained from a third party (whether or not the option is subject to conditions).
+
+(8) For the purposes of paragraph (7)(a) a promise about the level of the benefit includes a promise about factors that will be used to calculate the level of the benefit, but does not include a promise if, or to the extent that, it consists merely of a promise that the level of benefit will be calculated by reference to an amount available for its provision.
+
+(9) In this regulation—
+
+- “**contributing member**” does not include a member whose contributions are solely additional voluntary contributions.
+- “**relevant date**” means the date referred to in regulation 1(2) or, if later, the employer's staging date;
+- “**relevant jobholder**” means a jobholder of the employer referred to in paragraph (1);
+- “[^key-c2056fc869d9970d7b65e5af42ee5507]**relevant scheme**” does not include a collective money purchase scheme;
+- “**staging date**” means the date on which sections 2 to 9 of the 2008 Act [^c2247236] first apply to the employer; and
+- “**worker**” means a worker of the employer referred to in paragraph (1).
+
+### 3A. Qualifying collective money purchase schemes[^key-964c45b7588d0e0268a38f6001c7bd47]
+
+(1) A relevant scheme is a “qualifying collective money purchase scheme” if—
+
+- (a) it is a collective money purchase scheme; and
+- (b) it is being used—
+  - (i) as a qualifying scheme in relation to one or more relevant jobholders; or
+  - (ii) by a qualifying scheme in relation to one or more relevant jobholders.
+
+(2) Where a scheme is a qualifying collective money purchase scheme, it continues to be such a scheme regardless of whether it continues to satisfy paragraph (1)(b).
+
+(3) Where a qualifying collective money purchase scheme that is not divided into sections (an “undivided scheme”) becomes a scheme that is divided into sections, any section of that scheme that is a collective money purchase scheme (for the purposes of section 1(2) of the 2021 Act) under which collective money purchase benefits may be provided to persons who were members of the undivided scheme (to whom such benefits were payable under that scheme), is a qualifying collective money purchase scheme regardless of whether it satisfies paragraph (1)(b).
+
+(4) In this regulation, “**relevant jobholder**” means a jobholder of one or more of the employers that is using the qualifying collective money purchase scheme.
+
+## PART 2 — RESTRICTIONS ON CHARGES
+
+### CHAPTER 1 — DEFAULT ARRANGEMENTS, qualifying collective money purchase schemes, NON-CONTRIBUTING MEMBERS AND PAYMENTS TO ADVISERS[^key-4cb38bd4b3c810d4c719ff6fc857f0f7][^key-8ec48740808916575a32b1d2bf3be089]
+
+#### 4. Restrictions on charges
+
+(1) Subject to regulations 9 and 10, the trustees or managers of a relevant scheme, that is not a collective money purchase scheme,[^key-92e6d90400ef92c222f3e3fea8994470] must not impose or permit to be imposed on a member of that scheme to whom this Chapter[^key-602b40764917da1e4b369bae44b3ca80] applies charges which—
+
+- (a) exceed the limits specified in this Chapter, with the exception of regulation 6A[^key-0f8327b06c7159d643ec111a1f66d74f]; or
+- (b) are of a description prohibited by this Chapter, with the exception of[^key-679bd1f29edd284d548428b043e692c9] regulations 5A and[^key-3140958bbc4ef6ca7da5b6ea964d6ace] 11A.
+
+(1ZA)[^key-e8c4c5ad4934f2c63211d669656fcaa3] Subject to regulation 9, the trustees of a relevant scheme that is a qualifying collective money purchase scheme must not impose or permit to be imposed on the members of that scheme, in respect of members’ rights under the scheme, charges which—
+
+- (a) exceed the limits specified in this Chapter, with the exception of regulation 6; or
+- (b) are of a description prohibited by this Chapter, with the exception of regulations 5, 11 and 11A.
+
+(1A)[^key-ddfe2f631a38c5e814f29dab43cbf115] Subject to regulation 11C, a service provider must not impose or permit to be imposed on a member to whom regulation 11A applies charges which are of a description prohibited by that regulation.
+
+(2) With the exception of regulations[^key-980f70bb947a15b86b8cd6fe639200a1] 5A, 6A, 7A, 8A,[^key-025e2654b977d90122fd829629c82f7f] 11 and 11A, this Chapter[^key-e4d4c662afd0e816085e2d958bfa5c42] applies—
+
+- (a) to a member of a relevant scheme, that is not a collective money purchase scheme,[^key-cbf88032c5c371ddf8ee43952d911e6c] to the extent of the value of that member's rights under a default arrangement; and
+- (b) beginning with the date on which the first contribution to the default arrangement referred to in sub-paragraph (a) is received by the trustees or managers on or after the date on which this regulation comes into force.
+
+(3)[^key-85db4243c9e54405cbedb3e9a41458d1] For the purposes of paragraph (2), the[^key-16268a236ed423057b7a909fd567e0b6] application of this regulation and regulations 5, 6, 7, 8 and 9[^key-3b45de57436ef2e1ee65b327c006a48b] in respect of the value of a member’s rights is not affected by—
+
+- (a) a transfer of those rights from one relevant scheme to another (unless the receiving scheme is a qualifying collective money purchase scheme)[^key-140de42de6f1bc8a3e8f6a9c3cbeffbc]; or
+- (b) a subsequent transfer of those rights from one arrangement to another within the receiving scheme,
+
+where the member has not given consent to the transfer.
+
+(3A)[^key-1adb7661fd5ef00642f12911107798f8] If the receiving scheme referred to in paragraph (3) is a collective money purchase scheme (other than a qualifying collective money purchase scheme), this regulation and regulations 5, 6, 7, 8 and 9 apply in respect of the value of a member’s rights, following any such transfer, as if the person was a member of a relevant scheme within the meaning of regulation 2(2)(a) or (b) to whom this Chapter applies in accordance with paragraph (2) (unless the person is a pensioner member of the receiving scheme, including a person who has become a pensioner member of the receiving scheme after the transfer).
+
+(3B) Subject to paragraph (3C), the application of this regulation and regulations 5A, 6A, 7A, 8A and 9 in respect of a member of a relevant scheme that is a qualifying collective money purchase scheme is not affected by a transfer of the member’s rights to a relevant scheme, where the member has not given consent to the transfer.
+
+(3C) Paragraph (3B) does not apply in respect of the transfer of a member’s rights from a qualifying collective money purchase scheme to a relevant scheme (within the meaning of regulation 2(2)(a) or (b))—
+
+- (a) if this Chapter (with the exception of regulations 5A, 6A, 7A, 8A, 11 and 11A) would otherwise apply to the member by virtue of paragraph (2) upon their rights being transferred; or
+- (b) if the member is a pensioner member of the qualifying collective money purchase scheme.
+
+(3D) If a member’s rights are transferred from a relevant scheme that is a qualifying collective money purchase scheme to a relevant scheme that is not a qualifying collective money purchase scheme (and paragraph (3B) applies in respect of the transfer of that member’s rights)—
+
+- (a) this regulation and regulations 5A, 6A, 7A, 8A and 9 apply in respect of that member (and any other members whose rights have been transferred at the same time) as if the person was a member, or as if the persons were members, of a qualifying collective money purchase scheme (unless the relevant scheme to which the rights are transferred is not a collective money purchase scheme and any such person is a pensioner member of the scheme, including a person who has become a pensioner member of the scheme after the transfer); and
+- (b) references in this regulation and in regulations 5A, 6A, 7A, 8A and 9 to members of a qualifying collective money purchase scheme are to be read as references to those members subject to the transfer.
+
+(4) This Chapter does not apply to a member of a relevant scheme that is not a collective money purchase scheme[^key-b8755951fc095cffa99ac9d915092c1f] to the extent of the value of that member’s rights in an arrangement (“Arrangement A”) where—
+
+- (a) the value of the rights has been transferred to Arrangement A from an arrangement which is not a default arrangement;
+- (b) the member has not given consent to the transfer;
+- (c) before the transfer took place, Arrangement A was not a default arrangement; and
+- (d) the member has, in the 5 years ending with the date of the transfer, expressed a choice as to where his or her contributions were allocated.
+
+(5)[^key-48e75c7113c86de12d01cc9df97bc6fc] In this regulation, “**pensioner member**” has the meaning given in section 124(1) of the 1995 Act.
+
+#### 5. Prohibited charge structures - default arrangements[^key-9eb645caf646ceed3faa4925fc1feab5]
+
+(1) The description of the charges which are prohibited under regulation 4(1)(b) are charges under a charge structure other than—
+
+- (a) a single charge structure; or
+- (b) a combination charge structure.
+
+(2) In these Regulations, a single charge structure is one under which the charges imposed on the member are calculated solely by reference to the value of the member's rights under the scheme.
+
+(3) In these Regulations, a combination charge structure is one under which charges are calculated by reference to the value of the member's rights under the scheme (‘an existing rights charge’) and either—
+
+- (a) calculated as a percentage of the value of contributions (‘a contribution percentage charge’); or
+- (b) calculated by reference to a period of time and not by reference to contributions or to the value of a member's rights under the scheme (‘a flat fee charge’).
+
+(4) For the purposes of regulation 4(1)(b), neither the charge structure, nor the type of combination charge structure, that applies to a member may be changed during a charges year.
+
+#### 5A. Prohibited charge structures – qualifying collective money purchase schemes[^key-e18bc983242297c76dac4db5ab14ac47]
+
+(1) The description of the charges which are prohibited under regulation 4(1ZA)(b) are charges under a charge structure other than—
+
+- (a) a collective single charge structure; or
+- (b) a collective combination charge structure.
+
+(2) In these Regulations, a collective single charge structure is one under which charges are calculated solely by reference to the value of members’ rights under the scheme.
+
+(3) In these Regulations, a collective combination charge structure is one under which charges are calculated by reference to the value of members’ rights under the scheme (‘a collective existing rights charge’) and either—
+
+- (a) calculated as a percentage of the value of contributions made by or on behalf or in respect of members of the scheme towards the scheme (‘a collective contribution percentage charge’); or
+- (b) calculated by reference to a period of time and not by reference to contributions made by or on behalf or in respect of members of the scheme towards the scheme or to the value of members’ rights under the scheme (‘a collective flat fee charge’).
+
+(4) For the purposes of regulation 4(1ZA)(b), neither the charge structure, nor the type of collective combination charge structure, that applies to the members may be changed during a charges year.
+
+#### 6. Limits on charges - default arrangements[^key-35b9bf9358019243b423a0de8352fcee]
+
+(1) Subject to regulation 13C(6)[^key-e04b8a3920011bff113aa3100614cd46] the limits on charges for the purposes of regulation 4(1)(a) are the limits specified in this regulation and the trustees or managers must choose whether to assess them in accordance with regulation 7 or 8 (but see regulation 8(6)).
+
+(2) The limit in relation to a single charge structure is 0.75% annually of the value of the member's rights under the default arrangement.
+
+(3) The limit in the case of a combination charge structure whose charges fall within regulation 5(3)(a) is —
+
+- (a) in relation to the contribution percentage charge, 2.5% of the contributions allocated under the default arrangement —
+  - (i) annually, or
+  - (ii) where in relation to a charges year, regulation 4 does not apply to the member for the whole of the year, in the period for which that regulation applies; and
+- (b) in relation to the existing rights charge, the percentage annually of the value of the member's rights under the default arrangement which is the figure in Column 2 of the following table which corresponds to the contribution percentage charge rate in Column 1 of that table which is imposed on the member.
+
+  | *Column 1**Contribution percentage charge rate (%)* | *Column 2**Existing rights charge rate* |
+  | --- | --- |
+  | 1 or lower | 0.6 |
+  | Higher than 1 but no higher than 2 | 0.5 |
+  | Higher than 2 but no higher than 2.5 | 0.4 |
+
+(4) The limit in the case of a combination charge structure whose charges fall within regulation 5(3)(b) is—
+
+- (a) subject to paragraphs (5) to (7),[^key-7371770c8e46c049fb190ed9f897cd0c] in relation to the flat fee charge, £25 annually; and
+- (b) in relation to the existing rights charge, the percentage annually of the value of the member's rights under the default arrangement which is the figure in Column 2 of the following table which corresponds to the annual flat fee charge in Column 1 of that table which is imposed on the member.
+
+  | *Column 1**Flat fee charge (£)* | *Column 2**Existing rights charge rate (%)* |
+  | --- | --- |
+  | 10 or less | 0.6 |
+  | More than 10 but no more than 20 | 0.5 |
+  | More than 20 but no more than 25 | 0.4 |
+
+(5)[^key-15462f2af91c3b82e7a8ee476d9e6395] Subject to paragraph (6), the flat fee charge under paragraph (4)(a) may be imposed where the value of the member’s rights under the default arrangement is more than £100.
+
+(6) The flat fee charge under paragraph (4)(a) may only be imposed to the extent that it does not reduce the value of the member’s rights under the default arrangement to less than £100.
+
+(7) The value of the member’s rights under the default arrangement for the purposes of paragraphs (5) and (6) includes the value of any rebate or refund which falls to be applied by virtue of regulation 6ZA.
+
+#### 6A. Limits on charges – qualifying collective money purchase schemes[^key-3f373743aaf2092db93005606d0797a0]
+
+(1) The limits on charges for the purposes of regulation 4(1ZA)(a) are the limits specified in this regulation and the trustees must choose whether to assess them in accordance with regulation 7A or 8A (but see regulation 8A(7)).
+
+(2) The limit in the case of a collective single charge structure is 0.75% annually of the value of members’ rights under the scheme.
+
+(3) The limit in the case of a collective combination charge structure whose charges fall within regulation 5A(3)(a) is—
+
+- (a) in relation to the collective contribution percentage charge, 2.5% of contributions made by or on behalf or in respect of members allocated under the scheme—
+  - (i) annually, or
+  - (ii) where, in relation to a charges year, regulation 4 does not apply in respect of members for the whole of the year, in the period for which that regulation applies; and
+- (b) in relation to the collective existing rights charge, the percentage annually of the value of members’ rights under the scheme which is the figure in Column 2 of the following table which corresponds to the collective contribution percentage charge rate in Column 1 of that table which is imposed on the members.
+
+  |  |  |
+  | --- | --- |
+  | *Column 1*<br>*Collective contribution percentage charge rate (%)* | *Column 2*<br>*Collective existing rights charge rate (%)* |
+  | 1 or lower | 0.6 |
+  | Higher than 1 but no higher than 2 | 0.5 |
+  | Higher than 2 but no higher than 2.5 | 0.4 |
+
+(4) The limit in the case of a collective combination charge structure whose charges fall within regulation 5A(3)(b) is—
+
+- (a) in relation to the collective flat fee charge, £25 annually per member; and
+- (b) in relation to the collective existing rights charge, the percentage annually of the value of members’ rights under the scheme which is the figure in Column 2 of the following table which corresponds to the annual collective flat fee charge per member in Column 1 of that table which is imposed on the members.
+
+  |  |  |
+  | --- | --- |
+  | *Column 1*<br>*Collective flat fee charge (£ per member)* | *Column 2*<br>*Collective existing rights charge rate (%)* |
+  | 10 or less | 0.6 |
+  | More than 10 but no more than 20 | 0.5 |
+  | More than 20 but no more than 25 | 0.4 |
+
+#### 6ZA. Imposition of more than one flat fee charge[^key-0ab150f96e426627ce81f6e063623432]
+
+(1) Paragraph (2) applies where more than one flat fee charge under regulation 6(4)(a) is imposed, under a single default arrangement, on a member in respect of a charges year.
+
+(2) The trustees or managers must, as soon as practicable, restore the value of the member’s rights under the default arrangement to the value it would have been if only one such charge had been imposed.
+
+(3) When restoring the value of the member’s rights under paragraph (2), the trustees or managers must have regard to—
+
+- (a) the restrictions on flat fee charges imposed by regulation 5(3)(b); and
+- (b) the limit specified in regulation 6(4)(a).
+
+#### 7. Assessment of charges - default arrangements[^key-c1e2793ecba8cf84272dbe2bb802a2dd]
+
+(1) If the trustees or managers make the choice under regulation 6(1) to assess charges in accordance with this regulation, the following provisions apply.
+
+(2) Trustees or managers must calculate the value of the member's rights under the default arrangement at reference points set at equal intervals during the charges year of no more than 3 months (but see paragraphs (3), (6) and(7)).
+
+(3) Where trustees or managers change the intervals between reference points chosen for the purposes of paragraph (2) during the charges year, the start of the first new interval must commence on the day following the reference point at the end of the previous interval.
+
+(4) The limit of permitted charges under—
+
+- (a) a single charge structure; or
+- (b) an existing rights charge in a combination charge structure,
+
+is exceeded if the charges imposed on the member annually exceed the average of the reference point values multiplied by the applicable percentage.
+
+(5) The applicable percentage is—
+
+- (a) in the case of a single charge structure, 0.75%; and
+- (b) in the case of an existing rights charge in a combination charge structure, the percentage in Column 2 of the table—
+  - (i) in regulation 6(3), where a contribution percentage charge is imposed; and
+  - (ii) in regulation 6(4), where a flat fee is imposed or where no such fee is imposed by virtue of the operation of regulation 6(5) and (6)[^key-ef40bce551c511924c55584fb72741bd].
+
+(6) Where a member has rights in the default arrangement at only one reference point referred to in paragraph (2), paragraph (4) is to be read as if the words “average of the reference point values” read “value at the reference point”.
+
+(7) Where a member has no rights in the default arrangement at a reference point referred to in paragraph (2), paragraph (4) is to be read as if the words “average of the reference point values” read “value of that member's rights in the default arrangement on the final day of the charges year or, where the member has no such rights on that day, on the final day on which the member has such rights,”.
+
+(8) In this regulation monthly, 2 monthly and 3 monthly intervals are to be treated as equal intervals.
+
+(9)[^key-dc04b1505029666fd80872a69cbccfeb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(10)[^key-6c2064be322f3bed7f4cff3712be7b2e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(11)[^key-ac7c0ddc52cc3e2e4fc552d535372ffa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(12)[^key-e32e230c9775ba7f87e2b5538a762351] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 7A. Assessment of charges – qualifying collective money purchase schemes[^key-c532a919b6b99ffca7ff899027ca3d29]
+
+(1) If the trustees make the choice under regulation 6A(1) to assess charges in accordance with this regulation, the following provisions apply.
+
+(2) Trustees must calculate the value of members’ rights under the scheme at reference points set at equal intervals during the charges year of no more than 3 months (but see paragraphs (3), (6) and (7)).
+
+(3) Where trustees change the intervals between reference points chosen for the purposes of paragraph (2) during the charges year, the start of the first new interval must commence on the day following the reference point at the end of the previous interval.
+
+(4) The limit of permitted charges under—
+
+- (a) a collective single charge structure; or
+- (b) a collective existing rights charge in a collective combination charge structure,
+
+is exceeded if the charges imposed on the members annually exceed the average of the reference point values multiplied by the applicable percentage.
+
+(5) The applicable percentage is—
+
+- (a) in the case of a collective single charge structure, 0.75%; and
+- (b) in the case of a collective existing rights charge in a collective combination charge structure, the percentage in Column 2 of the table—
+  - (i) in regulation 6A(3), where a collective contribution percentage charge is imposed; and
+  - (ii) in regulation 6A(4), where a collective flat fee is imposed.
+
+(6) Where members have rights under the scheme at only one reference point referred to in paragraph (2), paragraph (4) is to be read as if the words “average of the reference point values” read “value at the reference point”.
+
+(7) Where members have no rights under the scheme at a reference point referred to in paragraph (2), paragraph (4) is to be read as if the words “average of the reference point values” read “value of members’ rights under the scheme on the final day of the charges year or, if there are no members who have such rights on that day, on the final day on which there are members who have such rights,”.
+
+(8) In this regulation monthly, 2 monthly and 3 monthly intervals are to be treated as equal intervals.
+
+(9)[^key-930b57ae29f9d8110c9b2fa38a76fada] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(10)[^key-021c7bd9f2b4c48747148747bf6065e8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(11)[^key-6387b8cb15e2e1cf065356636443796b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(12)[^key-157e6e361eccb8d931f0c7c0d929e338] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 8. Alternative assessment of charges - default arrangements[^key-c30106a8cfa36d8bce08bf145c304e1c]
+
+(1) If the trustees or managers make the choice under regulation 6(1) to assess charges in accordance with this regulation, the limit of permitted charges under—
+
+- (a) a single charge structure; or
+- (b) an existing rights charge in a combination charge structure,
+
+is not exceeded, if on the first day of the charges year, the charges regime to be applied to the member's rights meets the requirement in paragraph (2) and that charges regime is applied to the member's rights throughout that charges year.
+
+(2) The requirement referred to in paragraph (1) is that the charges regime would not result in charges being imposed on the member exceeding the limit of permitted charges when calculated in accordance with regulation 7, if the assumptions in paragraph (3) [^key-0aff60094c332cf7e74dfe971ffe6403]... are made for the purposes of those calculations.
+
+(3) The assumptions to be made for the purposes of paragraph (2) are –
+
+- (a) the value of the member's rights under the default arrangement will not increase or decrease during the charges year when compared to the value on the first day of the charges year, other than as a result of charges imposed on the member; and
+- (b) the member may leave the scheme at any time during that charges year.
+
+(3A)[^key-e64ea6c8a78c3dd542b87187303943f9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) In this regulation, “**charges regime**” means—
+
+- (a) the charges to be imposed, and any rebates of charges to be applied, as a percentage of the value of the member's rights in the default arrangement;
+- (b) when they are to be deducted from, or added to, the member's rights throughout the charges year;
+- (c) how the value of the member's rights will be calculated for the purposes of imposing or rebating charges.
+
+(5) Where the first contribution in relation to a member to the default arrangement is made after the first day of the charges year, paragraphs (1) and (3)(a) are to be read as if “on the first day of the charges year” were “on the date on which the first contribution is made in a charges year”.
+
+(6) Where the trustees or managers make the choice under regulation 6(1) to assess charges in accordance with this regulation but, during the charges year the charges regime fails to meet the requirement in paragraph (2), the trustees or managers must assess charges for the whole charges year in accordance with regulation 7.
+
+#### 8A. Alternative assessment of charges – qualifying collective money purchase schemes[^key-04c7d500433799fb814afae471cb62cd]
+
+(1) If the trustees make the choice under regulation 6A(1) to assess charges in accordance with this regulation, the limit of permitted charges under—
+
+- (a) a collective single charge structure; or
+- (b) a collective existing rights charge in a collective combination charge structure,
+
+is not exceeded if, on the first day of the charges year, the charges regime to be applied to members’ rights under the scheme meets the requirement in paragraph (2) and that charges regime is applied to members’ rights throughout that charges year.
+
+(2) The requirement referred to in paragraph (1) is that the charges regime would not result in charges being imposed on the members exceeding the limit of permitted charges when calculated in accordance with regulation 7A, if the assumptions in paragraph (3) [^key-aa5378e6344905b0ec9d8ccf9f433e97]... are made for the purposes of those calculations.
+
+(3) The assumptions to be made for the purposes of paragraph (2) are—
+
+- (a) the value of members’ rights under the scheme will not increase or decrease during the charges year when compared to the value on the first day of the charges year, other than as a result of charges imposed on the members; and
+- (b) all the members may leave the scheme at any time during that charges year.
+
+(4)[^key-98183e1c1f7dabc8a72d32b63bf4395e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5) In this regulation, “**charges regime**” means—
+
+- (a) the charges to be imposed, and any rebates of charges to be applied, as a percentage of the value of members’ rights under the scheme;
+- (b) when they are to be deducted from, or added to, the value of members’ rights throughout the charges year;
+- (c) how the value of members’ rights will be calculated for the purposes of imposing or rebating charges.
+
+(6) Where the first contribution made by or on behalf or in respect of members to the scheme is made after the first day of the charges year, paragraphs (1) and (3)(a) are to be read as if “on the first day of the charges year” read “on the date on which the first contribution is made in a charges year”.
+
+(7) Where the trustees make the choice under regulation 6A(1) to assess charges in accordance with this regulation but, during the charges year the charges regime fails to meet the requirement in paragraph (2), the trustees must assess charges for the whole charges year in accordance with regulation 7A.
+
+#### 9. Member agreement for services
+
+(1) Subject to paragraph (3), in the case of a member of a relevant scheme (that is not a collective money purchase scheme),[^key-02b146e953f2b1792ba8d50738c1a7fd] the restrictions in regulation 4 do not apply in relation to advice or[^key-35c8a1ede0dbca162a0c6510a4d25c6c] a service for which the member has entered into an agreement with a person for the provision of that advice or[^key-b20c9d7aa236cb5f0a4dc74cfe7646c9] service, provided the conditions in paragraph (2) are satisfied.
+
+(1A)[^key-7646eb43d5b2d1b805cbf1be4893753e] Subject to paragraph (3), in the case of the members of a relevant scheme (that is a qualifying collective money purchase scheme), the restrictions in regulation 4 (with the exception of regulation 4(1A)) do not apply in relation to advice or a service for which a member has entered into an agreement with a person for the provision of that advice or service, provided the conditions in paragraph (2) are satisfied.
+
+(2) The conditions referred to in paragraphs (1) and (1A)[^key-48daa8bcfd0fb5780d9a0d62cb4ba1cf] are that the agreement must—
+
+- (a) be in writing; and
+- (b) include a statement that entering into the agreement—
+  - (i) is not a condition of becoming or remaining a member of a relevant scheme;
+  - (ii) is not a condition of the member's contributions being allocated under a default arrangement or under a qualifying collective money purchase scheme, as applicable[^key-07fd59115054713ab001195625693280]; and
+  - (iii) will incur charges at a rate or of an amount specified in the agreement and that such charges may be higher than would otherwise be permitted under these Regulations;
+- (c) be entered into before the charges are imposed.
+
+(3) This regulation does not apply to advice or[^key-c6d15943dc5eca2894c26aa676cc8ee1] a service which—
+
+- (a) the provider is under a statutory obligation to provide; or
+- (b) is a core service.
+
+(4) In this regulation “**core service**” includes (but is not limited to)—
+
+- (a) designing and implementing an investment strategy;
+- (b) investment of contributions to the scheme;
+- (c) holding investments relating to scheme members;
+- (d) a transfer out of a default arrangement into a different arrangement, fund or scheme;
+- (e) a transfer into a default arrangement[^key-2c3d79c50ddefafc8396cd844d8d424e]...
+
+  ;[^key-d9a601c606a81d48a060845208e31ad4]
+- (f) a transfer out of a qualifying collective money purchase scheme into a different scheme;
+- (g) a transfer into a qualifying collective money purchase scheme.
+
+#### 10. Charge limits adjustment
+
+(1) The charge limits do not apply, on or after the adjustment date, to a member of a relevant scheme, that is not a collective money purchase scheme,[^key-e2064acaf9603412511f8767a0213d7d] whose contributions are allocated to a default arrangement, in the circumstances set out in paragraph (2), if the conditions in paragraph (3) are met.
+
+(2) The circumstances for the purposes of paragraph (1) are that—
+
+- (a) the trustees or managers have used their best endeavours to comply with the charge limits in relation to one or more members of the default arrangement referred to in paragraph (1) but have determined that they are unlikely to be able to comply with those limits for one or both of the current and following charges years; or
+- (b) an event happens which is outside the control of the trustees or managers, and the trustees or managers have used their best endeavours to mitigate the effect of the event on the scheme but they have determined that, because of that event, they are unlikely to be able to comply with the charge limits for the current or the following charges year in relation to one or more members of the default arrangement referred to in paragraph (1).
+
+(3) The conditions referred to in paragraph (1) are that—
+
+- (a) the trustees or managers have elected to implement an adjustment measure in relation to the default arrangement beginning on the adjustment date; and
+- (b) the trustees or managers have informed the persons listed in paragraph (4) at least one month before the adjustment date–
+  - (i) that the trustees or managers have determined that they are unlikely to be able to comply with the charge limits, in relation to one or more members of the default arrangement, for one or both of the current and following charges years, as applicable;
+  - (ii) of the adjustment measure that will be implemented on the adjustment date, and
+  - (iii) that the charge limits will no longer apply to members of the default arrangement on or after the adjustment date.
+- (c) the trustees or managers must, when informing the Regulator, do so in the manner and form determined by the Regulator.
+
+(4) The persons referred to in paragraph (3) are –
+
+- (a) the employer whose workers are members of the default arrangement;
+- (b) members of the default arrangement whose contributions have been allocated to the default arrangement in the 12 month period ending with the date of the determination in paragraph (2)(a) or (b), as applicable; and
+- (c) the Regulator.
+
+(5) In this regulation the “**adjustment date**” means the date chosen by the trustees or managers on which the adjustment measure is to begin, and –
+
+- (a) if the circumstances in paragraph (2)(a) apply, must be a date falling within a period of 6 months beginning with the date on which this regulation comes into force; or
+- (b) if the circumstances in paragraph (2)(b) apply, must be a date falling within a period of 6 months beginning with the date that the trustees or managers make the determination described in paragraph (2)(b).
+
+(6) In this regulation the “**adjustment measure**” means a measure where –
+
+- (a) the trustees or managers will no longer allocate future contributions of members of the scheme to the default arrangement, and will allocate future contributions of members of the default arrangement to another default arrangement within the scheme; or
+- (b) the trustees or managers will no longer accept future contributions of members of the default arrangement into the scheme, and will not allocate the contributions of any other members of the scheme into that default arrangement.
+
+(7) In implementing the adjustment measure, the trustees or managers may decide to give the members described in paragraph (4)(b) the option to agree to continue to have their future contributions received by the scheme and allocated to the default arrangement, after the adjustment date.
+
+(8) Where the trustees or managers have given to the members the option referred to in paragraph (7), the trustees or managers must[^key-fa264fc6c66afcb1783e98932b775138] inform the members described in paragraph (4)(b) of that option, and any such agreement by the member must be in writing and include an acknowledgement by the member that charges under the default arrangement may be higher than would otherwise be permitted under these Regulations.
+
+(9) Where a member is given the option referred to in paragraph (7) but does not agree to the option offered, that decision is not to be treated as being an action or omission by a jobholder for the purposes of section 6(4)(b) of the 2008 Act.
+
+(10) In this regulation, “**charge limits**” means the provisions of regulation 4(1)(a) and regulation 6.
+
+#### 11. Non-contributing members
+
+(1) It is prohibited for the purposes of regulation 4(1)(b) to impose or permit to be imposed on a non-contributing member to whom this regulation applies a higher—
+
+- (a) rate of charges where a scheme imposes a charge based on a percentage charge; or
+- (b) amount of charges where a scheme imposes a charge which is not based on a percentage charge,
+
+than that to which the member would have been subject if that member were a contributing member.
+
+(2) In paragraph (1), the comparison is to be made on the basis of—
+
+- (a) the period for which the member had contributed to the scheme on the date of that member's last contribution;
+- (b) the value of the member's rights under the scheme on the date when the charges are imposed; and
+- (c) the value of the last contribution made in relation to the member.
+
+(3) This regulation applies to a non-contributing member of a relevant scheme provided that—
+
+- (a) a contribution in relation to that member has been made to that scheme on or after the date on which this regulation comes into force; and
+- (b) at least one contribution referred to in sub-paragraph (a) was made when the member was a worker of the employer in relation to whose jobholders the scheme is a qualifying scheme.
+
+(4) This regulation applies to a non-contributing member beginning with the date on which the first contribution satisfying paragraph (3)(a) and (b) is received by the trustees or managers.
+
+(5) In this regulation—
+
+- “**non-contributing member**” means a member who is not a contributing member; and
+- “relevant scheme” is a scheme satisfying the definition in regulation 2(2)(a) or (b)[^key-dbe21f7cef48c41f3324c1d81cce73df] which is a qualifying scheme for at least one jobholder of the member's employer.
+
+#### 11A. Payments to advisers[^key-f1420452dabeda39b0d5f4b94f67a817]
+
+(1) This regulation applies
+
+- (a) to a member of a specified scheme if the member is, or was, a worker of a qualifying scheme employer who participates, or has participated[^key-fad4c7491ca8c4b817de77032462e99e] [^key-8ef3ed5fb3468b44ddd08fd058b23a03]..., in that scheme ; or[^key-7db339f66aee41a9f06f96fb36c09123]
+- (b)[^key-78787969265ce77e4cf3cabbd51ec04f] to a member of a specified section, if the member is, or was, a worker of a qualifying section employer who participates or has participated in the section.
+
+(2) Subject to paragraphs (4) and (6) and regulations 11B(2), 11B(2B)[^key-ced11161328b2c3c5665016bb3708a91] and 11C, it is prohibited for the purposes of regulation 4(1A) to impose or permit to be imposed on a member to whom this regulation applies a charge that is used—
+
+- (a) directly or indirectly, to pay an adviser; or
+- (b) to reimburse the service provider for a payment that the service provider has made to an adviser,
+
+for advice or a service referred to in sub-paragraph (a) or (b) of paragraph (3).
+
+(3) An adviser is a person who provides, has provided, or agrees to provide—
+
+- (a) advice or a service to the member’s employer or former employer who is participating in the specified scheme or specified section, as applicable[^key-d6bc1252cc5c2dc80e700b7a433db4d6]; or
+- (b) advice or a service to a member of the specified scheme or specified section, as applicable.
+
+(4) The prohibition in paragraph (2)[^key-bba40e4ab2a3fdbbf36bdde6947d0a94] does not apply to the following services provided by an adviser—
+
+- (a) a service relating to the administration of employee remuneration including tax deductions; and
+- (b) a technological service which permits or enhances the ability of the service provider’s computing system and the computing system provided by or on behalf of the employer to work together.
+
+(5) Where the adviser is also the service provider, they are to be treated as separate persons for the purposes of this regulation.
+
+(6)[^key-fd210094a16a31de735234dd7dbe74b0] The prohibition in paragraph (2) does not apply to a charge imposed to reimburse a service provider for any payment made to an adviser for advice or a service referred to in paragraph (3)(a) or (b) where—
+
+- (a) the charge is imposed under a relevant contract which—
+  - (i) was entered into before 6th April 2016; and
+  - (ii) has not been varied or renewed on or after that date; and
+- (b) the payment was made before 1st October 2017.
+
+(7)[^key-d2ffb6bbf21b6a980ddaad548c20be0c] Where the prohibition in paragraph (2) applies it overrides any term of a relevant contract to the extent that the term conflicts with it.
+
+#### 11B. Relevant information
+
+(1) The trustees or managers of a specified scheme must notify the service provider in writing that the scheme is a specified scheme within 3 months beginning with whichever is the later of—
+
+- (a) 6th April 2016;
+- (b) the date on which the scheme becomes a specified scheme; or
+- (c) the date on which the service provider becomes a service provider in relation to the specified scheme.
+
+(2) Subject to paragraphs (2B) and (5)[^key-d4dda87de57fbc4232eb876b5b453add], regulation 11A does not apply until the expiry of the period of 1 month beginning with the date on which the service provider receives the notification in paragraph (1).
+
+(2A)[^key-02172e2f5cefc9b09373fe95a055a3c8] This paragraph applies where the relevant contract—
+
+- (a) was entered into before 6th April 2016; and
+- (b) has not been varied or renewed on or after that date.
+
+(2B) Subject to paragraph (5), where paragraph (2A) applies regulation 11A does not apply until the expiry of the period of 6 months beginning with 1st October 2017.
+
+(3) Except in a case to which paragraph (2A) applies,[^key-0bb611b167b4409075d7035fff91a454] the service provider must confirm in writing to the trustees or managers who provided the notification in paragraph (1) that it is compliant with the prohibition in regulation 11A(2) in relation to all members to whom that regulation applies within 1 month beginning with the date on which that regulation first applies.
+
+(3A)[^key-67cbd9bf5da20a1b38a69fc5e964a3d0] In a case to which paragraph (2A) applies, subject to paragraph (5), the service provider must confirm in writing to the trustees or managers of the specified scheme within 1 month beginning with 1st April 2018 that it is complying with the prohibition in regulation 11A(2) in relation to all members to whom paragraph (2A) applies.
+
+(4) Where the service provider is unable to comply with the prohibition in regulation 11A(2) in relation to all members because the service provider requires information about which members are former workers to whom regulation 11A applies, the service provider may request the information from the trustees or managers of the specified scheme to enable it to comply.
+
+(5) Where a request is made under paragraph (4), the time period referred to—
+
+- (a) in paragraphs (2) or (2B)[^key-3077f327e866f544e82ab9af0499340f] in respect of those members about whom a request has been made and to whom regulation 11A applies; or
+- (b) paragraphs (3) or (3A)[^key-37399d5af33864b296d4dab11e29d847],
+
+commences on the date on which the information requested is received by the service provider.
+
+(6) The service provider must inform the trustees or managers of the specified scheme in writing if the confirmation that it has given in compliance with paragraph (3) or (3A)[^key-dacda294787eb987ee92885fb6c27182] is no longer accurate as soon as practicable, and in any event within 1 month, beginning with the date on which it is no longer accurate.
+
+(7) Where a request is made under paragraph (4), the trustees or managers must provide the information requested within 1 month beginning with the date of receipt of the request.
+
+(8)[^key-0befb7304daa9b4ce0583546cf2b1225] In this regulation, in relation to a specified section, references to a “specified scheme” are to be read as references to a “specified section”.
+
+#### 11C. Member agreement for payments to advisers
+
+(1) Subject to paragraphs (3) and (4), the prohibition in regulation 11A(2)(a) does not apply in relation to advice or a service given to a member of a specified scheme where—
+
+- (a) the service provider; and
+- (b) the trustees or managers of the specified scheme,
+
+have received a copy of an agreement for the provision of that advice or service made between the member and an adviser, provided the conditions in paragraph (2) are satisfied.
+
+(2) The conditions referred to in paragraph (1) are that the agreement must—
+
+- (a) be in writing;
+- (b) include a description of the advice or service that will be provided to the member;
+- (c) state that entering into the agreement is not a condition of becoming or remaining a member of a specified scheme;
+- (d) state that by entering into the agreement the member will incur charges of an amount specified in the agreement which will be imposed over a period specified in the agreement and that such charges would otherwise not be permitted under regulation 11A(2)(a); and
+- (e) be entered into before the charges are imposed.
+
+(3) Where the charge limits apply to a member and the trustees or managers are of the opinion that charges imposed under an agreement under this regulation would be likely to place the trustees or managers in breach of those limits in relation to that member, they may inform—
+
+- (a) the member;
+- (b) the adviser; and
+- (c) the service provider,
+
+within 1 month beginning with the date on which they receive a copy of the agreement under this regulation, that they require that a member agreement for advice or[^key-9e43920199ade6d88c3e6b3a396ba38c] services under regulation 9 is entered into by the member before the agreement under this regulation can take effect.
+
+(4) Where the trustees or managers are of the opinion that the value of the member’s rights in the scheme is not, or will not be, sufficient to pay the amount specified in an agreement under this regulation, the agreement does not take effect if the trustees or managers inform—
+
+- (a) the member;
+- (b) the adviser; and
+- (c) the service provider,
+
+of their opinion within 1 month beginning with the date on which they receive a copy of the agreement.
+
+(5)[^key-4816b3373eba9b7ff7b435386262b60d] In this regulation—
+
+- “**charge limits**” has the meaning given in regulation 10(10); and
+- “**specified scheme**” does not include a relevant scheme that is a collective money purchase scheme.
+
+#### 12. Amendment of the Stakeholder Pension Schemes Regulations 2000
+
+(1) The Stakeholder Pension Schemes Regulations 2000 [^c2247237] are amended as follows.
+
+(2) In regulation 13 [^c2247238] (expenses, commission etc - principles), after paragraph (4) insert—
+
+> (5) This regulation and regulations 14 to 14C [^c2247239] do not apply in the circumstances set out in regulation 14D.
+
+.
+
+(3) After regulation 14C (rounding of fractional amounts) insert—
+
+> **14D. Disapplication of regulations 13 to 14C in certain circumstances**
+>
+> (1) The circumstances referred to in regulation 13(5) are as follows.
+>
+> (2) In relation to a member of a stakeholder pension scheme that is a personal scheme the circumstances are that—
+>
+> - (a) the scheme is a qualifying scheme in relation to an employer; and
+> - (b) the member's workplace contributions are allocated under a default arrangement.
+>
+> (3) In relation to a member of a stakeholder pension scheme that is an occupational pension scheme, the circumstances are that Part 2 of the Occupational Pension Schemes (Charges and Governance) Regulations 2015 applies to the scheme.
+>
+> (4) In this regulation, “default arrangement” and “workplace pension contributions” have the meanings given in the FCA Handbook [^c2247240].
+
+.
+
+#### 13. Amendments of other regulations
+
+(1) In regulation 10(1) of the Occupational and Personal Pension Schemes (Consultation by Employers and Miscellaneous Amendment) Regulations 2006 [^c2247241] (listed changes: exclusions), after sub-paragraph (a) insert—
+
+> - (aa) is made for the purposes of implementing an adjustment measure within regulation 10 of the Occupational Pension Scheme (Charges and Governance) Regulations 2015,
+
+.
+
+(2) After regulation 7A of the Occupational Pension Schemes (Modification of Schemes) Regulations 2006 [^c2247242] (modification of schemes: abolition of protected rights) insert—
+
+> **7B. Amendment of schemes for adjustment measure**
+>
+> The trustees of a trust scheme scheme may by resolution amend the scheme for the purposes of implementing an adjustment measure within regulation 10 of the Occupational Pension Schemes (Charges and Governance) Regulations 2015.
+
+.
+
+### CHAPTER  2 — RESTRICTIONS ON EARLY EXIT CHARGES[^key-4b5761ef6f815d47c50aee1b73af5f74]
+
+#### 13A. Early exit charges
+
+(1) For the purposes of this Chapter an early exit charge in relation to a member of a relevant scheme is a charge which—
+
+- (a) is imposed under the scheme or a relevant contract when a member who has reached normal minimum pension age takes the action mentioned in subsection (2); but
+- (b) is only imposed, or only imposed to that extent, if the member takes that action before the member’s normal pension age.
+
+(2) The action is the member taking benefits under the scheme, converting benefits under the scheme into different benefits or transferring benefits to another pension scheme.
+
+(3) For the purposes of this regulation—
+
+- “normal minimum pension age” has the meaning given in section 279(1) of the Finance Act 2004;
+- “normal pension age” means the earliest age at which, or the earliest occasion on which, the member is entitled to receive the benefit without adjustment for taking it early or late (disregarding any special provision as to early payment on the grounds of ill-health or otherwise and any administration charges); and
+
+  a reference to “benefits” includes any part or all of those benefits.
+
+#### 13B. Prohibition of early exit charges
+
+(1) This regulation applies to a member of a relevant scheme who joined that scheme on or after 1st October 2017.
+
+(2) Service providers and trustees and managers of a relevant scheme must not impose an early exit charge, or permit such a charge to be imposed, on a member of the scheme to whom this regulation applies.
+
+#### 13C. Limits on early exit charges
+
+(1) This regulation applies to a member of a relevant scheme who joined that scheme before 1st October 2017.
+
+(2) Service providers and trustees and managers of a relevant scheme must not impose, or permit to be imposed, on a member of the scheme to whom this regulation applies an early exit charge that exceeds the lower of—
+
+- (a) 1% of the value of the member’s benefits being taken, converted or transferred; or
+- (b) such amount as was provided for under the scheme rules or a relevant contract as at 1st October 2017.
+
+(3) Where no provision for an early exit charge was made under the scheme rules or a relevant contract as at 1st October 2017, service providers and trustees and managers of a relevant scheme must not impose an early exit charge, or permit such a charge to be imposed, on a member of the scheme to whom this regulation applies.
+
+(4) Trustees and managers of a relevant scheme must not—
+
+- (a) include provision in a relevant scheme for an early exit charge, where such provision did not exist on 1st October 2017; or
+- (b) vary provision for an early exit charge in such a scheme to increase or potentially increase the charge.
+
+(5) Nothing in this regulation permits an early exit charge to be imposed—
+
+- (a) that is higher than the limits prescribed by regulation 6 (limits on charges) where that regulation applies; or
+- (b) where section 33 of the Pension Schemes Act 2017 (prohibition on increasing charges etc during triggering event period) applies.
+
+(6) Nothing in regulation 6 permits—
+
+- (a) an early exit charge which is lower than 0.75% of the value of the member’s benefits being taken, converted or transferred, to be increased; or
+- (b) an early exit charge to be imposed where one did not exist.
+
+(7) The value of a member’s benefits in paragraphs (2)(a) and (6)(a)—
+
+- (a) means the value calculated at the point when the trustee or manager of the scheme receives confirmation from the member of the instruction to take the action giving rise to the early exit charge; and
+- (b) is to be calculated in accordance with guidance issued from time to time by the Secretary of State.
+
+#### 13D. Conflicting contract terms
+
+Regulations 13B and 13C override any term of a relevant contract to the extent that the term conflicts with those regulations.
+
+#### 13E. Relevant information
+
+(1) A service provider must confirm in writing to the trustees or managers of a relevant scheme that it is complying with the restrictions in regulations 13B and 13C within 1 month beginning with whichever is the later of—
+
+- (a) 1st October 2017; or
+- (b) the date on which the service provider becomes a service provider in relation to the relevant scheme.
+
+(2) The service provider must inform the trustees or managers of the relevant scheme in writing if the confirmation that it has given in compliance with paragraph (1) is no longer accurate as soon as practicable, and in any event within 1 month, beginning with the date on which that confirmation is no longer accurate.
+
+## PART 3
+
+### CHAPTER 1 — GOVERNANCE OF RELEVANT SCHEMES
+
+#### 14. Definition of “relevant scheme”
+
+The Administration Regulations are amended as follows—
+
+- (a) in regulation 1(2) (interpretation) [^c2247243], after the definition of “relevant benefits”, insert—
+
+  > “**relevant scheme**” means an occupational pension scheme which provides money purchase benefits [^c2247244] other than—
+  >
+  > - (a) an executive pension scheme;
+  > - (b) a relevant small scheme;
+  > - (c) a scheme that does not fall within paragraph 1 of Schedule 1 (description of schemes) to the Occupational and Personal Pension Schemes (Disclosure of Information) Regulations 2013 [^c2247245];
+  > - (d) a public service pension scheme [^c2247246] which—
+  >   - (i) falls within regulation 4(2) of those Regulations (limitations on application to certain public service pension schemes); or
+  >   - (ii) does not fall within regulation 4(2) of those Regulations but is a public service pension scheme within the meaning of the 2004 Act [^c2247247]; or
+  > - (e) a scheme which provides no money purchase benefits other than benefits which are attributable to additional voluntary contributions;
+
+  ;
+- (b) after regulation 1(2ZA) [^c2247248] insert—
+
+  > (2ZB) For the purposes of the definition of “relevant scheme”—
+  >
+  > > executive pension scheme
+  >
+  > means a scheme—
+  >
+  > - (a) in relation to which a company is the only employer and the sole trustee; and
+  > - (b) the members of which are either current or former directors of the company and include at least one third of the current directors;
+  >
+  >   > relevant small scheme
+  >
+  >   means a scheme with fewer than 12 members, where—
+  > - (a) all the members are trustees of the scheme and either—
+  >   - (i) the provisions of the scheme provide that any decision made by the trustees is made by the unanimous agreement of the trustees who are members of the scheme; or
+  >   - (ii) the scheme has a trustee who is independent in relation to the scheme for the purposes of section 23 of the 1995 Act (power to appoint independent trustees), and is registered in the register maintained by the Authority (as defined in that Act) in accordance with regulations made under subsection (4) of that section; or
+  > - (b) all the members are directors of a company which is the sole trustee of the scheme and either—
+  >   - (i) the provisions of the scheme provide that any decision made by the company in its capacity as a trustee is made by the unanimous agreement of the directors who are members of the scheme; or
+  >   - (ii) one of the directors of the company is independent in relation to the scheme for the purposes of section 23 of the 1995 Act and is registered in the register maintained by the Authority (as defined in that Act) in accordance with regulations maintained under subsection (4) of that that section.
+
+  .
+
+#### 15. Appointment of service providers
+
+The Administration Regulations are amended as follows—
+
+- (a) for the heading to Part 2 substitute “ Advisers and Service Providers ”;
+- (b) after regulation 6 (duty to disclose information) insert—
+
+  > **6A. Appointment of service providers in respect of relevant schemes**
+  >
+  > The trust deed or scheme rules must not contain a provision that—
+  >
+  > - (a) requires that the administrative, fund management, advisory or other services in respect of the scheme are provided by a person identified in any document; or
+  > - (b) restricts the choice of person who may be appointed to provide such services.
+  >
+  > (2) Paragraph (1) overrides any provision of a relevant scheme to the extent that it conflicts with that paragraph.
+  >
+  > (3) In relation to a relevant scheme which is not a money purchase scheme [^c2247249], this regulation applies only in relation to services which are provided in connection with the provision of money purchase benefits.
+
+  .
+
+#### 16. Appointment of chair of trustees or managers
+
+(1) The Administration Regulations are amended as follows—
+
+- (a) in regulation 1(2) (interpretation) insert in the appropriate places alphabetically—
+
+  > - “**chair**” means—
+  >   - (a) the person appointed as chair of the trustees or managers of a relevant scheme, in accordance with regulation 22;
+  >   - (b) the person appointed as chair of the trustees of a relevant scheme by someone other than the trustees, in accordance with the trust deed or scheme rules; or
+  >   - (c) in the case of a scheme established under section 67 of the Pensions Act 2008 [^c2247250] (duty to establish a pension scheme), the person appointed as chair of the trustee corporation established under section 75 of that Act (trustee corporation);”;
+  > - “**professional trustee body**” means a body which—
+  >   - (a) was not established by an employer in relation to the scheme;
+  >   - (b) is remunerated for its services as a trustee by one or more schemes;
+  >   - (c) has arranged a policy of indemnity insurance in relation to the exercise of its functions as a trustee of the scheme; and
+  >   - (d) is carrying out its functions as a trustee of the scheme in the ordinary course of a profession or business which consists of, or includes, providing and holding itself out as providing services in connection with the management or administration of trusts or any particular aspect of such management or administration, whether or not such services relate to a particular kind of trust;
+
+  ;
+- (b) after regulation 21 insert—
+
+  > **PART V — GOVERNANCE OF RELEVANT SCHEMES**
+  >
+  > **CHAPTER 1 — GENERAL**
+  >
+  > **22. Duty to appoint a chair of the trustees or managers**
+  >
+  > (1) Where a relevant scheme which is a trust scheme does not have a chair appointed, the trustees must appoint a chair of the trustees in accordance with this regulation.
+  >
+  > (2) The chair of the trustees must be—
+  >
+  > - (a) an individual who is a trustee of the scheme;
+  > - (b) a professional trustee body which is a trustee of the scheme;
+  > - (c) where a company which is not a professional trustee body is a trustee of the scheme, an individual who is a director of that company and through whom the company exercises its functions as a trustee of the scheme, or a professional trustee body which is a director of that company; or
+  > - (d) in the case of a scheme established under section 67 of the Pensions Act 2008, a member of the trustee corporation established under section 75 of that Act.
+  >
+  > (3) Where a relevant scheme is not a trust scheme, the managers must appoint one of their number to be the chair of the managers.
+  >
+  > (4) The first chair of a relevant scheme must be appointed before the end of the period of three months starting with the date on which the scheme is established (but see also paragraph (6)).
+  >
+  > (5) Where the chair ceases to hold office as chair for any reason, the trustees or managers must appoint a replacement in accordance with the provisions of this regulation, before the end of the period of three months starting with the date on which the chair ceases to hold that office.
+  >
+  > (6) Paragraph (4) does not apply to a relevant scheme which was established before 6th April 2015 and, if the scheme has no chair on that date, the first chair must be appointed before the end of the period of three months starting with that date.
+
+  .
+
+(2) In the Register of Occupational and Personal Pension Schemes Regulations 2005 [^c2247251], in regulation 3(1) (registrable information) after sub-paragraph (d) insert—
+
+> - (da) in the case of an occupational pension scheme which is a relevant scheme within the meaning of the Occupational Pension Schemes (Scheme Administration) Regulations 1996, the name of the person for the time being appointed as the chair, within the meaning of regulation 1(2) of those Regulations;
+
+.
+
+#### 17. Annual statement regarding governance
+
+(1) In the Administration Regulations after regulation 22 [^c2247252] insert—
+
+> **23. Annual statement regarding governance**
+>
+> (1) Subject to paragraph (3), the trustees or managers of a relevant scheme must prepare a statement within seven months of the end of each scheme year, and that statement must—
+>
+> - (a) in relation to the default arrangement—
+>   - (i) include the latest statement prepared in accordance with regulation 2A [^c2247253] (default investment strategy) of the Occupational Pension Schemes (Investment) Regulations 2005 (“**the Investment Regulations**”);
+>   - (ii) describe any review undertaken during the scheme year in accordance with paragraph (2) of that regulation;
+>   - (iii) explain any changes resulting from such a review; and
+>   - (iv) where no review was undertaken during the scheme year, give the date of the last review;
+> - (b) describe how the requirements of regulation 24 of these Regulations (requirements for processing financial transactions) have been met during the scheme year;
+> - (c) in relation to the charges and transaction costs which the trustees or managers are required to calculate in accordance with regulation 25(1)(a) of these Regulations—
+>   - (i) state the level of charges and transaction costs applicable to the default arrangement during the scheme year or, where the scheme has more than one default arrangement, state the range of the levels of charges and transaction costs applicable to those arrangements;
+>   - (ii) state the range of the levels of charges and transaction costs applicable to all funds which are not part of the default arrangement and in which assets relating to members are invested during the scheme year;
+>   - (iii) indicate any information about transaction costs which the trustees or managers have been unable to obtain and explain what steps are being taken to obtain that information in the future; and
+>   - (iv) explain the trustees' or managers' assessment, in accordance with regulation 25(1)(b), of the extent to which the charges and transaction costs represent good value for members;
+> - (d) describe how the requirements of sections 247 and 248 of the 2004 Act (requirements for knowledge and understanding) have been met during the scheme year and explain how the combined knowledge and understanding of the trustees or managers, together with the advice which is available to them, enables them properly to exercise their functions as trustees or managers of the scheme; and
+> - (e) be signed on behalf of the trustees or managers by the chair.
+>
+> (2) Where the first statement required to be prepared by the trustees or managers of a relevant scheme in accordance with this regulation relates to a scheme year which ends before 5th April 2016, this regulation applies to that statement as if references to “the scheme year” in sub-paragraphs (a) to (d) of paragraph (1) were to the part of the scheme year starting on 6th April 2015.
+>
+> (3) Where the circumstances in paragraph (2) apply and the period to be covered by the first statement is three months or less, paragraph (1) does not apply to that scheme year, but the statement required to be prepared in relation to the following scheme year must include information relating to the period of three months or less of the previous scheme year.
+>
+> (4) In this regulation “**default arrangement**” has the same meaning as in the Investment Regulations.
+
+.
+
+(2) In the Occupational and Personal Pension Schemes (Disclosure of Information) Regulations 2013, in Part 5 of Schedule 3 (information to be included in the annual report) after paragraph 33 insert—
+
+> **34.**
+>
+> Where the scheme is a relevant scheme within the meaning of the Occupational Pension Schemes (Scheme Administration) Regulations 1996, the statement which the trustees or managers are required to prepare by regulation 23 of those Regulations (annual statement regarding governance).
+
+.
+
+#### 18. Requirements for processing financial transactions
+
+In the Administration Regulations, after regulation 23 [^c2247254] insert—
+
+> **24. Requirements for processing financial transactions**
+>
+> (1) The trustees or managers of a relevant scheme must secure that core financial transactions are processed promptly and accurately.
+>
+> (2) A “**core financial transaction**” includes (but is not limited to)—
+>
+> - (a) investment of contributions to the scheme;
+> - (b) transfers of assets relating to members into and out of the scheme;
+> - (c) transfers of assets relating to members between different investments within the scheme;
+> - (d) payments from the scheme to, or in respect of, members.
+>
+> (3) In relation to a scheme which is not a money purchase scheme, this regulation applies only in relation to the provision of money purchase benefits.
+
+.
+
+#### 19. Assessment of charges and costs
+
+In the Administration Regulations, after regulation 24 [^c2247255] insert—
+
+> **25. Assessment of charges and transaction costs**
+>
+> (1) The trustees or managers of a relevant scheme must, at intervals of no more than one year—
+>
+> - (a) calculate—
+>   - (i) the charges; and
+>   - (ii) in so far as they are able to do so, the transaction costs, borne by members of the scheme; and
+> - (b) assess the extent to which those charges and transaction costs represent good value for members.
+>
+> (2) In this regulation (and in regulation 23), “charges” and “transaction costs” have the meanings given in regulation 2(1) of the Occupational Pension Schemes (Charges and Governance) Regulations 2015.
+>
+> (3) In relation to a scheme which is not a money purchase scheme, this regulation applies only in relation to charges and transaction costs which relate to the provision of money purchase benefits.
+
+.
+
+#### 20. Requirements relating to default arrangement
+
+In the Occupational Pension Schemes (Investment) Regulations 2005 [^c2247256]—
+
+- (a) in regulation 1(2) (interpretation) insert the following in the appropriate places alphabetically—
+
+  > - “default arrangement”, means an arrangement, within the meaning of regulation 3 of the Occupational Pension Schemes (Charges and Governance) Regulations 2015 (default arrangement) which would be a default arrangement within the meaning of that regulation if that regulation were modified as follows-
+  >   - (a) in paragraph (1)(a) omit “qualifying”, and for “relevant jobholders” substitute “ workers ”;
+  >   - (b) in paragraph (2)(b) omit “subject to paragraph (3),”;
+  >   - (c) omit paragraphs (3) and (4); and
+  >   - (d) in paragraph (8)-
+  >     - (i) in the definition of “relevant date” omit the words after “regulation 1(2)”; and
+  >     - (ii) omit the definitions of “relevant jobholder” and “staging date”;
+  > - “**relevant scheme**” has the same meaning as in the Occupational Pension Schemes (Administration) Regulations 1996;
+
+  ;
+- (b) after regulation 2 (statement of investment principles) insert—
+
+  > **2A. Additional requirements in relation to default arrangement**
+  >
+  > (1) The trustees or managers of a relevant scheme must prepare a statement of the investment principles governing decisions about investments for the purposes of the default arrangement, and that statement must be in writing and must cover at least the following matters—
+  >
+  > - (a) the aims and objectives of the trustees or managers in respect of such investments;
+  > - (b) their policies in relation to the matters mentioned in regulation 2(3)(b) in respect of the default arrangement; and
+  > - (c) an explanation of how the aims and objectives mentioned in sub-paragraph (a) and the policies mentioned in sub-paragraph (b) (together “the default strategy”) are intended to ensure that assets are invested in the best interests of the group of persons consisting of relevant members and relevant beneficiaries.
+  >
+  > (2) The trustees or managers must review both the default strategy and the performance of the default arrangement—
+  >
+  > - (a) at least every three years; and
+  > - (b) without delay after any significant change in—
+  >   - (i) investment policy; or
+  >   - (ii) the demographic profile of relevant members.
+  >
+  > (3) The trustees or managers must, in particular, review the extent to which the return on investments relating to the default arrangement (after deduction of any charges relating to those investments) is consistent with the aims and objectives of the trustees or managers in respect of the default arrangement.
+  >
+  > (4) The trustees or managers must revise the statement prepared in accordance with paragraph (1) after every review unless they decide that no action is needed as a result of the review in paragraph (3).
+  >
+  > (5) For the purposes of this regulation and regulation 4A, a person is a relevant member or a relevant beneficiary if assets relating to that member or, as the case may be, that beneficiary (as defined in regulation 4), are invested in the default arrangement.
+
+  ;
+- (c) after regulation 4 (investment by trustees) insert—
+
+  > **4A. Investments relating to a default arrangement**
+  >
+  > Where regulation 4(2) does not apply [^c2247257] to a relevant scheme, the assets allocated to the scheme's default arrangement must be invested—
+  >
+  > - (a) in the best interests of relevant members and relevant beneficiaries; and
+  > - (b) in the case of a potential conflict of interest, in the sole interest of those members and beneficiaries.
+
+  .
+
+### CHAPTER 2 — ADDITIONAL GOVERNANCE REQUIREMENTS FOR RELEVANT MULTI-EMPLOYER SCHEMES
+
+#### 21. Definition of “relevant multi-employer scheme”
+
+The Administration Regulations are amended as follows—
+
+- (a) in regulation 1(2) insert in the appropriate place alphabetically—
+
+  > “**relevant multi-employer scheme**” means a relevant scheme in relation to which some or all of the participating employers are not connected employers, or which is promoted as a scheme where participating employers need not be connected employers, except where—
+  >
+  > - (a) the scheme has distinct sections relating to employers which are not connected employers and each of those sections is governed by different trustees or managers (or, where the scheme does not currently have participating employers which are not connected employers, it will have such sections when there are participating employers which are not connected employers);
+  > - (b) the scheme is established under section 67 of the Pensions Act 2008; or
+  > - (c) the scheme is established by or under an enactment, other than a scheme referred to in paragraph (b).
+
+  ;
+- (b) after regulation 1(2) insert—
+
+  > (2ZA) For the purposes of the definition of “relevant multi-employer scheme”—
+  >
+  > - “**connected employers**” means two employers which are—
+  >   - (a) part of a group of companies consisting of a holding company and one or more subsidiaries within the meaning of section 1159(1) of the Companies Act 2006 [^c2247258] (meaning of “subsidiary” etc); or
+  >   - (b) partnerships, each having the same persons as at least half of its partners;
+  > - “**participating employer**” means any employer currently or previously participating in the scheme in accordance with the scheme rules.
+
+  .
+
+#### 22. Additional requirements for relevant multi-employer schemes
+
+In the Administration Regulations after regulation 25 [^c2247259] insert—
+
+> **CHAPTER 3 — RELEVANT MULTI-EMPLOYER SCHEMES**
+>
+> **26. Annual statement regarding governance: relevant multi-employer schemes**
+>
+> Where a relevant scheme is a relevant multi-employer scheme, the statement prepared in accordance with regulation 23 must include such of the following additional information as is relevant to the scheme—
+>
+> - (a) how the requirements of regulation 27(2) (majority of trustees and chair to be non-affiliated) have been met during the year;
+> - (b) where a trustee who is non-affiliated (within the meaning of regulations 27 and 28) was appointed during the year, details of how the requirement of regulation 28(1) (open and transparent appointment process) was met;
+> - (c) details of the arrangements in place during the year to meet the requirement of regulation 29 (representation of the views of members to the trustees or managers).
+>
+> **27. Appointment of trustees**
+>
+> (1) A relevant multi-employer scheme which is a trust scheme must have at least three trustees (but see also paragraphs (4) to (7)).
+>
+> (2) A majority of the trustees of a relevant multi-employer scheme which is a trust scheme, including the chair of the trustees, must be non-affiliated (but see also paragraphs (4) to (7)).
+>
+> (3) Where there is a chair of the trustees at the time any other trustee is appointed, the chair must be consulted on the appointment.
+>
+> (4) In relation to a company which is not a professional trustee body and which is a trustee of a relevant multi-employer scheme, this regulation applies as if—
+>
+> - (a) the company were not a trustee of the scheme; and
+> - (b) each individual who is a director of the company and through whom the company exercises its functions as trustee, and any professional trustee body who is a director of the company, were a trustee of the scheme.
+>
+> (5) A new relevant multi-employer scheme must meet the requirements of paragraphs (1) and (2) before the end of the period of three months starting with the date on which the scheme is established (or, if later, the date on which the scheme becomes a relevant multi-employer scheme which is a trust scheme).
+>
+> (6) Where a trustee of a relevant multi-employer scheme—
+>
+> - (a) ceases to be a trustee for any reason; or
+> - (b) in the case of a trustee who was non-affiliated, ceases to be non-affiliated, the requirements of paragraphs (1) and (2) must be met before the end of the period of three months starting with the date on which the former trustee ceases to be a trustee or, as the case may be, the trustee ceases to be non-affiliated.
+>
+> (7) Where a relevant multi-employer scheme was established, or became a relevant multi-employer scheme, before 6th April 2015 and the requirements of paragraphs (1) or (2) are not met on that date, the requirement in question must be met before the end of the period of three months starting with that date.
+>
+> (8) In this regulation and in regulation 28, “**non-affiliated**” means independent of any undertaking which provides advisory, administration, investment or other services in respect of the relevant multi-employer scheme (but see also regulation 28).
+>
+> **28. Appointment of trustees: trustees who are non-affiliated**
+>
+> (1) The appointment process for a trustee who is to count as non-affiliated for the purposes of regulation 27(2) must be open and transparent.
+>
+> (2) For the purposes of paragraph (1), an appointment process which is open and transparent includes (but is not limited to) a process which—
+>
+> - (a) includes advertisement of the vacancy for a trustee in at least one appropriate national publication;
+> - (b) includes engagement of the services of a recruitment agency to assist in the selection of candidates; or
+> - (c) meets the requirements of section 241(2) or, as the case may be, 242(2) of the 2004 Act (nomination and selection of member-nominated trustees and member-nominated directors of corporate trustees).
+>
+> (3) For the purposes of determining whether a person is non-affiliated, the following matters must be taken into account—
+>
+> - (a) whether the person—
+>   - (i) is a director, manager, partner or employee of an undertaking which provides advisory, administration, investment or other services in respect of the scheme (a “service provider”) or an undertaking which is connected to a service provider; or
+>   - (ii) has been such a director, manager, partner or employee during the period of five years ending with the date of the person's appointment as a trustee;
+> - (b) whether the person receives any payment or other benefit from a service provider, other than—
+>   - (i) a payment or other benefit in respect of a role in the governance of a personal pension scheme in which the person is required to act in the interests of some or all of the scheme members; or
+>   - (ii) a payment in respect of the person's role as trustee of the relevant multi-employer scheme;
+> - (c) whether or not, in the person's relationship with a service provider, the person's obligations to the service provider conflict with their obligations as a trustee of the relevant multi-employer scheme and whether their obligations as a trustee will take priority in the case of a conflict.
+>
+> (4) A trustee who is an individual is not to count as non-affiliated for the purposes of regulation 27(2) for—
+>
+> - (a) any one period of more than five years; or
+> - (b) subject to paragraph (5), more than ten years in total.
+>
+> (5) No period of appointment of a trustee who is an individual is to be taken into account for the purposes of paragraph (4)(b) if more than five years have elapsed since the trustee last held office as a trustee of the same relevant multi-employer scheme.
+>
+> (6) Paragraphs (1) to (5) apply to an individual who is a director of a corporate trustee and to whom regulation 27 applies as if he or she were a trustee as they apply to a trustee who is an individual.
+>
+> (7) Where a trustee who is to count as non-affiliated for the purposes of regulation 27(2) is a professional trustee body—
+>
+> - (a) the trustee is not to count as non-affiliated for any one period of more than five years;
+> - (b) a nominated individual must act as representative of the trustee; and
+> - (c) the nominated individual may not act as representative of the trustee for more than ten years in total.
+>
+> (8) For the purposes of paragraph (3)(a), two undertakings are “connected” if they are—
+>
+> - (a) part of a group of companies consisting of a holding company and one or more subsidiaries within the meaning of section 1159(1) of the Companies Act 2006; or
+> - (b) partnerships, each having the same persons as at least half of its partners.
+>
+> **29. Representation of members**
+>
+> The trustees or managers of a relevant multi-employer scheme must make arrangements to encourage members of the scheme, or their representatives, to make their views on matters relating to the scheme known to the trustees or managers.
+
+.
+
+#### 23. Administration Regulations: further amendment
+
+In regulation 1(2) (interpretation) of the Administration Regulations, in the definition of “relevant multi-employer scheme”[^c2247260]—
+
+- (a) after paragraph (a) insert “ or ”; and
+- (b) omit paragraph (c) and the word “or” immediately preceding it.
+
+## PART 4 — COMPLIANCE
+
+### 24. Amendment of the Register of Occupational and Personal Pension Schemes Regulations 2005
+
+(1) Regulation 3(1) of the Register of Occupational and Personal Pension Schemes Regulations 2005 [^c2247261] is amended as follows.
+
+(2) At the end of sub-paragraph (e) omit “and”.
+
+(3) After sub-paragraph (g) [^c2247262] insert—
+
+> - (h) in the case of an occupational pension scheme which is a relevant scheme within the meaning of the Occupational Pension Schemes (Scheme Administration) Regulations 1996, whether the trustees or managers of that scheme have prepared the statement that they are required to prepare in accordance with regulation 23 of those Regulations; and
+> - (i) in the case of an occupational pension scheme in respect of which the requirements of Part 2 of the Occupational Pension Schemes (Charges and Governance) Regulations 2015 apply to one or more of its members, whether the trustees or managers of that scheme have complied with those requirements in respect of each member to whom they apply.
+
+.
+
+### 25. Amendment of section 13 of the Pensions Act 2004
+
+In section 13(7) of the Pensions Act 2004 [^c2247263] (improvement notices)—
+
+- (a) omit the “or” at the end of paragraph (d);
+- (b) at the end of paragraph (e) insert—
+
+  > , or
+  >
+  > - (f) paragraph 2 of Schedule 18 to the Pensions Act 2014 (c.19).
+
+  .
+
+### 26. Compliance notices
+
+(1) The Regulator may issue a compliance notice to a person[^key-e56e8a42f25aa611b5333b9ed510618c] in any of the circumstances of non-compliance in paragraph (2).
+
+(2) The circumstances mentioned in paragraph (1) are—
+
+- (a) receipt of an indication pursuant to regulation 3(1)(i) [^c2247264] of the Register of Occupational and Personal Pension Schemes Regulations 2005 that the person has[^key-738a5e0b142538e8a4592dd59847c4d5] not complied with Part 2 of these Regulations; or
+- (b) if the Regulator is of the opinion that the person is not complying with, or has not complied with,[^key-25401cecd2211916bd3da93ede77d135] Part 2 of these Regulations.
+
+(3) A compliance notice is a notice directing the person[^key-8f214363b2a3261e0302a7a19166d51b] to whom it is issued to take, or refrain from taking, the steps specified in the notice.
+
+(4) The steps mentioned in paragraph (3) may be any steps that the Regulator reasonably requires with a view to ensuring that any non-compliance with Part 2 of these Regulations is remedied and, where appropriate, not repeated.
+
+(5) A direction in a compliance notice may be expressed to be conditional on compliance by a third party with a specified direction contained in a third party compliance notice under regulation 27.
+
+(6) A compliance notice may, in particular—
+
+- (a) state the period within which any step must be taken or must cease to be taken;
+- (b) require the person[^key-09a7dec62a6eaa8f85b4a825662ecea4] to provide within a specified period specified information relating to the non-compliance;
+- (c) require the person[^key-9cca580c3f1f76c1525ea872c7649c4a] to inform the Regulator, within a specified period, how the person has complied with or is complying with the notice;
+- (d) state that if the Regulator is of the opinion that the person has[^key-467ed8291c2cb8afc6fbbcf1bc3a6858] failed to comply with the requirements of the notice, the Regulator may issue a penalty notice under sub-paragraph (b)(i) of paragraph (1) of regulation 28;
+- (e) give the person[^key-4986fa70d498c0f013c785d486c83106] a choice between different ways of remedying, or preventing the recurrence of, the non-compliance.
+
+(7) A compliance notice must—
+
+- (a) state which of the circumstances of non-compliance in paragraph (2) applies; and
+- (b) if the circumstance in paragraph (2)(b) applies, state—
+  - (i) which provision of Part 2 of these Regulations the Regulator believes was not, or is not being, complied with; and
+  - (ii) the evidence on which that belief is based.
+
+### 27. Third party compliance notices
+
+(1) Where in any of the circumstances of non-compliance in paragraph (2)—
+
+- (a) the Regulator is of the opinion that the non-compliance is or was, wholly or partly, a result of a failure of another person[^key-e70c56779d5681cd2be335fae80fff68] (“**the third party**”), and
+- (b) that failure is not in itself a contravention of [^key-6bca336b8ac58d21b487f632d8eba50e]... Part 2 of these Regulations, the Regulator may issue to the third party a third party compliance notice.
+
+(2) The circumstances mentioned in paragraph (1) are—
+
+- (a) receipt of an indication pursuant to regulation 3(1)(i) of the Register of Occupational and Personal Pension Schemes Regulations 2005 that the person has[^key-c5b02c5a268317e5749fafea084cf659] not complied with Part 2 of these Regulations;
+- (b) receipt of an indication that the person is[^key-13e8862248ef1c50bc82643d176b9051] unable to confirm whether they are complying or will be able to comply with that Part; or
+- (c) if the Regulator is of the opinion that the person is not complying with, or has not complied with,[^key-f45d1635bf06ac6b46de8a5629c45805] that Part.
+
+(3) A third party compliance notice is a notice directing the third party to take, or refrain from taking, the steps specified in the notice.
+
+(4) The steps mentioned in paragraph (3) may be any steps that the Regulator reasonably requires with a view to remedying and, where appropriate, preventing a recurrence of the failure mentioned in paragraph (1).
+
+(5) A third party compliance notice may, in particular—
+
+- (a) state the period within which any step must be taken or must cease to be taken;
+- (b) require the third party to provide within a specified period specified information relating to the failure;
+- (c) require the third party to inform the Regulator, within a specified period, how the third party has complied with or is complying with the notice;
+- (d) state that, if the Regulator is of the opinion that the third party has failed to comply with the requirements of the notice, the Regulator may issue a penalty notice under sub-paragraph (a) of paragraph (1) of regulation 28;
+- (e) give the third party a choice between different ways of remedying or preventing the recurrence of the failure.
+
+(6) A third party compliance notice must state—
+
+- (a) which of the circumstances of non-compliance in paragraph (2) applies; and
+- (b) the matters which the Regulator believes constitute the failure by the third party; and
+- (c) if the circumstance in paragraph (2)(c) applies, in addition to the matters mentioned in sub-paragraphs (a) and (b)—
+  - (i) which provision of Part 2 of these Regulations the Regulator believes was not, or is not being, complied with; and
+  - (ii) the evidence on which the Regulator's belief is based.
+
+### 28. Penalty notices
+
+(1) Subject to paragraph (2), the Regulator may issue a penalty notice to—
+
+- (a) a third party where it is of the opinion that the third party has failed to comply with a third party compliance notice under regulation 27; or
+- (b) a person where it is of the opinion that the person has[^key-0f92739f6d0caeea8fd3caef161b7790] failed to comply with—
+  - (i) a compliance notice under regulation 26;
+  - (ii) a provision in Part 2 of these Regulations; or
+  - (iii) a provision in Part V of the Administration Regulations.
+
+(2) Where—
+
+- (a) the Regulator is in receipt of an indication pursuant to regulation 3(1)(h) [^c2247265] of the Register of Occupational and Personal Pension Schemes Regulations 2005 that the trustees or managers have failed to prepare the statement that they are required to prepare by regulation 23 [^c2247266] of the Administration Regulations; or
+- (b) the Regulator is of the opinion that the trustees or managers have failed to prepare the statement that they are required to prepare by regulation 23 of the Administration Regulations, the Regulator must issue a penalty notice to the trustees or managers in relation to a first failure in connection with a scheme year.
+
+(3) A penalty notice is a notice requiring the person to whom it is issued to pay a penalty within the period specified in the notice.
+
+(4) The amount of a penalty is to be determined by the Regulator but—
+
+- (a) in relation to a penalty notice issued under paragraph (1) must not exceed—
+  - (i) £5,000 if the person is an individual, or
+  - (ii) £50,000 if the person is a body corporate or a Scottish partnership or any other person;
+- (b) in relation to a penalty notice issued under paragraph (2), must be at least £500 and must not exceed £2,000.
+
+(5) A penalty notice must—
+
+- (a) where it is issued to trustees or managers, be issued to all the trustees or managers of the relevant scheme and specify their joint and several liability for the penalty;
+- (b)[^key-8e81f04b10f9cbb87dae6fe2922f7443] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^key-e4a56ab46dfde41d26bfe60d7d26baa1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d) state the amount of the penalty;
+- (e) state the date, which must be at least 4 weeks after the date on which the notice is issued, by which the penalty must be paid;
+- (f) state the period (if any) to which the penalty relates;
+- (g) if the notice is issued under paragraph (1)(a) or (b)(i), specify the failure to which the notice relates;
+- (h) if the notice is issued under paragraph (1)(b)(ii) or (iii), specify the provision or provisions that have not been complied with;
+- (i) notify the person to whom the notice is issued of the review process under regulation 31 and the right of referral to a tribunal under regulation 32.
+
+(6)[^key-afce8f8bde461a050738464c009eadbe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 29. Penalty notices: recovery
+
+(1) Any penalty required by a penalty notice is recoverable by the Regulator.
+
+(2) In England and Wales, any such penalty is, if the county court so orders, recoverable under section 85 of the County Courts Act 1984 [^c2247267] or otherwise as if it were payable under an order of that court.
+
+(3) In Scotland, any such penalty is enforceable as if it were an extract registered decree arbitral bearing a warrant for execution signed by the sheriff court of any sheriffdom in Scotland.
+
+(4) The Regulator must pay into the Consolidated Fund any penalty recovered under this regulation.
+
+### 30. Penalty notices: recovery from bodies corporate and Scottish partnerships[^key-8ddb7ddfa3cf6827807574732628ec78]
+
+(1) Where—
+
+- (a) a penalty under regulation 28 is recoverable from a body corporate or Scottish partnership by reason of any act or omission of the body or partnership; and
+- (b) the act or omission was done with the consent or connivance of, or is attributable to any neglect on the part of any persons mentioned in paragraph (2),
+
+the Regulator may issue the notice to each of those persons who consented to or connived in the act or omission or to whose neglect the act or omission was attributable.
+
+(2) The persons referred to in paragraph (1) are—
+
+- (a) in relation to a body corporate—
+  - (i) any director, manager, secretary, or other similar officer of the body, or a person purporting to act in any such capacity; and
+  - (ii) where the affairs of a body corporate are managed by its members, any member who has management functions; and
+- (b) in relation to a Scottish partnership, the partners of that partnership.
+
+(3) Where the Regulator requires any person mentioned in paragraph (2) to pay a penalty, it—
+
+- (a) may not also require the body corporate, or Scottish partnership, in question to pay a penalty in respect of the same act or omission; and
+- (b) must issue the penalty notice to the person who is required to pay, but may also notify the relevant body corporate or Scottish partnership.
+
+### 31. Review of penalty notices
+
+(1) The Regulator may review a notice to which this paragraph applies—
+
+- (a) on the written application of the person to whom the notice was issued, or
+- (b) if the Regulator otherwise considers it appropriate.
+
+(2) Paragraph (1) applies to—
+
+- (a) a compliance notice issued under regulation 26;
+- (b) a third party compliance notice issued under regulation 27; and
+- (c) a penalty notice issued under regulation 28.
+
+(3) The period within which—
+
+- (a) an application to review a notice may be made under paragraph (1)(a) is 28 days, starting on the day on which the notice is issued to a person; and
+- (b) a notice may be reviewed under paragraph (1)(b) is 18 months, starting on the day on which the notice is issued to a person.
+
+(4) On a review of a notice, the effect of the notice is suspended for the period beginning on the day the Regulator determines to carry out the review and ending on the day on which the review is completed.
+
+(5) In carrying out a review, the Regulator must consider any representations made by the person to whom the notice was issued.
+
+(6) The Regulator's powers on a review are to—
+
+- (a) confirm, vary or revoke the notice;
+- (b) substitute a different notice.
+
+### 32. References to First-Tier Tribunal or Upper Tribunal
+
+(1) A person to whom a penalty notice is issued under regulation 28 may, if one of the conditions in paragraph (2) is satisfied, make a reference to the Tribunal in respect of—
+
+- (a) the issue of the notice;
+- (b) the amount of the penalty under the notice.
+
+(2) The conditions are—
+
+- (a) that the Regulator has completed a review of the notice under regulation 31; or
+- (b) that the person to whom the notice was issued has made an application for the review of the notice under paragraph (1)(a) of regulation 31 and the Regulator has determined not to carry out such a review.
+
+(3) On a reference to the Tribunal in respect of a notice, the effect of the notice is suspended for the period beginning on the day on which the Tribunal receives notice of the reference and ending—
+
+- (a) on the day on which the reference is withdrawn; or
+- (b) if the reference is made out of time, on the day on which the Tribunal determines not to allow the reference to proceed; or
+- (c) when the reference is completed.
+
+(4)[^key-25c5c6232ed94b424a49acc373cadbf0] For the purposes of paragraph (3)(c), a reference is completed when—
+
+- (a) the reference has been determined; and
+- (b) the Tribunal has remitted the matter to the Regulator.
+
+(5) In this regulation—
+
+- (a) “**the Tribunal**” means—
+  - (i) the Upper Tribunal, in any case where it is determined by or under Tribunal Procedure Rules that the Upper Tribunal is to hear the reference;
+  - (ii) the First Tier Tribunal in any other case, and
+- (b) “**Tribunal Procedure Rules**” means—
+  - (i) the Tribunal Procedure (First-Tier Tribunal) (General Regulatory Chamber) Rules 2009 [^c2247269] in relation to the First-Tier Tribunal; and
+  - (ii) the Tribunal Procedure (Upper Tribunal) Rules 2008 [^c2247270] in relation to the Upper Tribunal.
+
+### 33. Service of notices[^key-577819e7c1dd833c6968e6cc909f9aeb]
+
+Sections 303 to 305 of the Pensions Act 2004 (service of documents and electronic working) are treated as applying to notices issued under Part 4 of these Regulations.
+
+Signed by authority of the Secretary of State for Work and Pensions
+
+Steve Webb
+
+Minister of State,
+
+Department for Work and Pensions
+
+*(This note is not part of the Regulations)*
+
+These Regulations impose obligations on trustees and managers of certain occupational pension schemes in relation to charges imposed by and governance of those schemes. These Regulations are made mainly using powers in the Pensions Act 2014 (c. 19).
+
+Part 1 contains interpretation provisions including definitions of ‘relevant scheme’ (regulation 2(1)) and ‘default arrangement’ (regulation 3).
+
+Part 2 contains restrictions on charges imposed on members of relevant schemes. With the exception of regulation 11 (non-contributing members), these restrictions apply to members with rights in the default arrangement of a relevant scheme.
+
+Regulations 4 to 6 impose limits on the charges which can be imposed and prohibits certain charges. Regulations 7 and 8 provide alternative ways of assessing the charges imposed on a member.
+
+Regulation 9 provides for a member to agree that services provided will not be covered by the provisions of these Regulations as long as certain conditions are met.
+
+Regulation 10 allows trustees and managers to take action in relation to a default arrangement where, despite their best endeavours, they are unlikely to be able to comply with the charge limits. Regulation 13 makes amendments to other regulations as a consequence of regulation 10.
+
+Regulation 11 prohibits trustees and managers from imposing higher charges on members who are not contributing than they would on comparable members who are contributing to the pension scheme.
+
+Regulation 12 makes amendments to the Stakeholder Pension Scheme Regulations 2000 (S.I. 2000/1403) to provide that the provisions in these Regulations apply to stakeholder pension schemes, where appropriate.
+
+Part 3, Chapter 1 contains provisions relating to governance of relevant schemes by making amendments to the Occupational Pension Schemes (Scheme Administration) Regulations 1996 (S.I. 1996/1715) and the Occupational Pension Schemes (Investment) Regulations 2005 (S.I. 2005/3378). These provisions include the overriding of any provision in the trust deed or scheme rules which limits the choice of service providers (regulation 15). They also impose duties on trustees and managers to:
+
+- appoint a chair of trustees or managers (regulation 16);
+- prepare an annual statement of governance (regulation 17);
+- process core financial transactions promptly and fairly (regulation 18);
+- calculate and assess the value for money of charges and transaction costs (regulation 19); and
+- prepare a statement of investment principles in relation to the default arrangement (regulation 20).
+
+Chapter 2 of Part 3 contains additional governance requirements for multi-employer schemes (known as ‘master trusts’). This includes additional provisions for the annual statement (referred to in (b) above), the appointment of trustees and the representation of members (regulation 22).
+
+Regulation 23 provides that the third limb of the definition of “multi-employer scheme” which is inserted by regulation 21 and relates to schemes established by or under an enactment is omitted from 6th April 2016.
+
+Part 4 contains compliance provisions in relation to the duties imposed by these Regulations.
+
+Two separate assessments of the impact of regulations in this instrument have been made. A copy of each of the impact assessments for Parts 2 and 3 respectively is available in the libraries of both Houses of Parliament and alongside this instrument on www.legislation.gov.uk. Copies may also be obtained from the Better Regulation Unit of the Department for Work and Pensions, 2D, Caxton House, Tothill Street, London SW1H 9NA.
+
+## Annotations
+
+[^c2247222]: Marginal citation: [1993 c. 48](https://www.legislation.gov.uk/ukpga/1993/48). Section 113(1) was amended by the [Child Support, Pensions and Social Security Act 2000 (c. 19)](https://www.legislation.gov.uk/ukpga/2000/19), [section 52(1)](https://www.legislation.gov.uk/ukpga/2000/19/section/52/1). Section 181(1) is cited for the meaning it gives to “regulations”.
+
+[^c2247223]: Marginal citation: [1995 c. 26](https://www.legislation.gov.uk/ukpga/1995/26) (“**the 1995 Act**”). Subsections (1) and (1A) of section 36 were substituted by the [Pensions Act 2004 (c. 35)](https://www.legislation.gov.uk/ukpga/2004/35) (“**the 2004 Act**”), section 245(2). Section 124(1) is cited for the meaning it gives to “prescribed” and “regulations”.
+
+[^c2247224]: Marginal citation: [1999 c. 30](https://www.legislation.gov.uk/ukpga/1999/30). Section 1(5) was amended by the 2004 Act, section 285(3). Section 8(1) is cited for the meaning it gives to “prescribed”.
+
+[^c2247225]: Marginal citation: [2004 c. 35](https://www.legislation.gov.uk/ukpga/2004/35). Section 318(1) is cited for the meaning it gives to “prescribed” and “regulations”.
+
+[^c2247226]: Marginal citation: [2014 c. 19](https://www.legislation.gov.uk/ukpga/2014/19).
+
+[^c2247227]: Marginal citation: [Section 185(1)](https://www.legislation.gov.uk/uksi/2015/879/section/185/1) was amended by the 1995 Act, sections 122, 151 and 177 and Schedule 3, paragraph 46, Schedule 5, paragraph 80(a), (d) and (f) and Schedule 7, Part 1.
+
+[^c2247228]: Marginal citation: [2008 c. 30](https://www.legislation.gov.uk/ukpga/2008/30).
+
+[^key-8f5eef1e62c660bf2e5517b78bc04fa2]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2015/879/regulation/2/1) inserted (1.8.2022) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) Regulations 2022 (S.I. 2022/255)](https://www.legislation.gov.uk/uksi/2022/255), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3), [Sch. 7 para. 4(2)(a)](https://www.legislation.gov.uk/uksi/2022/255/schedule/7/paragraph/4/2/a)
+
+[^c2247229]: Marginal citation: [S.I. 1996/1715](https://www.legislation.gov.uk/uksi/1996/1715).
+
+[^key-f67bb5f886643c229fa6c1c15ca9dc6d]: Textual amendment: Words in reg. 2(1) inserted (6.4.2016) by [The Occupational Pension Schemes (Charges and Governance) (Amendment) Regulations 2016 (S.I. 2016/304)](https://www.legislation.gov.uk/uksi/2016/304), [regs. 1](https://www.legislation.gov.uk/uksi/2016/304/regulation/1), [3](https://www.legislation.gov.uk/uksi/2016/304/regulation/3)
+
+[^c2247230]: Marginal citation: “Administration charge” is defined in paragraph 1(5) of Schedule 18 to the [Pensions Act 2014 (c. 19)](https://www.legislation.gov.uk/ukpga/2014/19).
+
+[^c2247231]: Marginal citation: Section 24 was amended by the [Family Law Act 1996 (c. 27)](https://www.legislation.gov.uk/ukpga/1996/27), [section 66](https://www.legislation.gov.uk/ukpga/1996/27/section/66) and Schedule 8, paragraph 43A (subject to savings as to which *see* section 66(2) and Schedule 9, paragraph 5 of that Act) and the [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [section 261(1)](https://www.legislation.gov.uk/ukpga/2004/33/section/261/1) and (4), Schedule 27, paragraph 158(1) to (2) and Schedule 30.
+
+[^key-d43bdf4e61f50d6d683bfe4c6c0b6e2f]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2015/879/regulation/2/1) inserted (1.10.2021) by [The Occupational Pension Schemes (Administration, Investment, Charges and Governance) (Amendment) Regulations 2021 (S.I. 2021/1070)](https://www.legislation.gov.uk/uksi/2021/1070), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1070/regulation/1/2), [6(2)(a)(i)](https://www.legislation.gov.uk/uksi/2021/1070/regulation/6/2/a/i)
+
+[^key-8c7d375339bd079caf3a7f18eb8fb233]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2015/879/regulation/2/1) inserted (6.4.2023) by [The Occupational Pension Schemes (Administration, Investment, Charges and Governance) and Pensions Dashboards (Amendment) Regulations 2023 (S.I. 2023/399)](https://www.legislation.gov.uk/uksi/2023/399), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/399/regulation/1/3), [2(2)(a)(i)](https://www.legislation.gov.uk/uksi/2023/399/regulation/2/2/a/i)
+
+[^key-a2bc507db640cf1664f3dabd8def50e4]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2015/879/regulation/2/1) inserted (6.4.2023) by [The Occupational Pension Schemes (Administration, Investment, Charges and Governance) and Pensions Dashboards (Amendment) Regulations 2023 (S.I. 2023/399)](https://www.legislation.gov.uk/uksi/2023/399), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/399/regulation/1/3), [2(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2023/399/regulation/2/2/a/ii)
+
+[^key-cfc7248a006260c578613e08aa25816a]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2015/879/regulation/2/1) inserted (1.10.2021) by [The Occupational Pension Schemes (Administration, Investment, Charges and Governance) (Amendment) Regulations 2021 (S.I. 2021/1070)](https://www.legislation.gov.uk/uksi/2021/1070), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1070/regulation/1/2), [6(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2021/1070/regulation/6/2/a/ii)
+
+[^key-595a316f84015956e6cc4b63a14c7e5c]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2015/879/regulation/2/1) inserted (1.8.2022) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) Regulations 2022 (S.I. 2022/255)](https://www.legislation.gov.uk/uksi/2022/255), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3), [Sch. 7 para. 4(2)(b)(i)](https://www.legislation.gov.uk/uksi/2022/255/schedule/7/paragraph/4/2/b/i)
+
+[^key-3ebc824de50a94197d8a5ba350100659]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2015/879/regulation/2/1) inserted (1.8.2022) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) Regulations 2022 (S.I. 2022/255)](https://www.legislation.gov.uk/uksi/2022/255), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3), [Sch. 7 para. 4(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2022/255/schedule/7/paragraph/4/2/b/ii)
+
+[^c2247232]: Marginal citation: There are amendments to section 99 which are not relevant to these Regulations.
+
+[^key-a22a8fd5ed4c07ae0cbc4fd0ddb332c4]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2015/879/regulation/2/1) inserted (6.4.2023) by [The Occupational Pension Schemes (Administration, Investment, Charges and Governance) and Pensions Dashboards (Amendment) Regulations 2023 (S.I. 2023/399)](https://www.legislation.gov.uk/uksi/2023/399), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/399/regulation/1/3), [2(2)(a)(iii)](https://www.legislation.gov.uk/uksi/2023/399/regulation/2/2/a/iii)
+
+[^key-faa4b15423a6d71e8660de853581fd57]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2015/879/regulation/2/1) inserted (1.10.2021) by [The Occupational Pension Schemes (Administration, Investment, Charges and Governance) (Amendment) Regulations 2021 (S.I. 2021/1070)](https://www.legislation.gov.uk/uksi/2021/1070), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1070/regulation/1/2), [6(2)(a)(iii)](https://www.legislation.gov.uk/uksi/2021/1070/regulation/6/2/a/iii)
+
+[^key-e92612fd6955c9960661d3862b1c51fe]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2015/879/regulation/2/1) inserted (1.8.2022) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) Regulations 2022 (S.I. 2022/255)](https://www.legislation.gov.uk/uksi/2022/255), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3), [Sch. 7 para. 4(2)(c)(i)](https://www.legislation.gov.uk/uksi/2022/255/schedule/7/paragraph/4/2/c/i)
+
+[^key-79da1909626247cc8ff9831d24a02724]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2015/879/regulation/2/1) inserted (1.8.2022) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) Regulations 2022 (S.I. 2022/255)](https://www.legislation.gov.uk/uksi/2022/255), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3), [Sch. 7 para. 4(2)(c)(ii)](https://www.legislation.gov.uk/uksi/2022/255/schedule/7/paragraph/4/2/c/ii)
+
+[^key-ae53488dc09a8215c4d8fe6d140bdd49]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2015/879/regulation/2/1) inserted (1.8.2022) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) Regulations 2022 (S.I. 2022/255)](https://www.legislation.gov.uk/uksi/2022/255), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3), [Sch. 7 para. 4(2)(c)(iii)](https://www.legislation.gov.uk/uksi/2022/255/schedule/7/paragraph/4/2/c/iii)
+
+[^c2247233]: Marginal citation: Section 23 was substituted by the 2004 Act, section 36(3).
+
+[^c2247234]: Marginal citation: *See* section 124(1) of the 1995 Act, substituted by the 2004 Act, section 7(2)(b).
+
+[^key-af95d39c2068ffd3cc969dc96642d5f5]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2015/879/regulation/2/1) substituted (1.10.2017) by [The Occupational Pension Schemes (Charges and Governance) (Amendment) Regulations 2017 (S.I. 2017/774)](https://www.legislation.gov.uk/uksi/2017/774), [regs. 1](https://www.legislation.gov.uk/uksi/2017/774/regulation/1), [3](https://www.legislation.gov.uk/uksi/2017/774/regulation/3)
+
+[^key-661e56e4a71fb5a466357e37b94d8375]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2015/879/regulation/2/1) inserted (6.4.2023) by [The Occupational Pension Schemes (Administration, Investment, Charges and Governance) and Pensions Dashboards (Amendment) Regulations 2023 (S.I. 2023/399)](https://www.legislation.gov.uk/uksi/2023/399), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/399/regulation/1/3), [2(2)(a)(v)](https://www.legislation.gov.uk/uksi/2023/399/regulation/2/2/a/v)
+
+[^key-162922941742b7147ec89ce83d91a59f]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2015/879/regulation/2/1) inserted (1.8.2022) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) Regulations 2022 (S.I. 2022/255)](https://www.legislation.gov.uk/uksi/2022/255), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3), [Sch. 7 para. 4(2)(d)](https://www.legislation.gov.uk/uksi/2022/255/schedule/7/paragraph/4/2/d)
+
+[^c2247235]: Marginal citation: [2000 c. 7](https://www.legislation.gov.uk/ukpga/2000/7). Section 15(1) was amended by the [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [section 406(1)](https://www.legislation.gov.uk/ukpga/2003/21/section/406/1) and Schedule 17, paragraph 158.
+
+[^key-ef181390890d92f1fb2290c26048d0de]: Textual amendment: [Reg. 2(1A)](https://www.legislation.gov.uk/uksi/2015/879/regulation/2/1A) inserted (1.10.2021) by [The Occupational Pension Schemes (Administration, Investment, Charges and Governance) (Amendment) Regulations 2021 (S.I. 2021/1070)](https://www.legislation.gov.uk/uksi/2021/1070), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1070/regulation/1/2), [6(2)(b)](https://www.legislation.gov.uk/uksi/2021/1070/regulation/6/2/b)
+
+[^key-57fe40cc386660039276bce212272b6d]: Textual amendment: [Reg. 2(1B)](https://www.legislation.gov.uk/uksi/2015/879/regulation/2/1B) inserted (6.4.2023) by [The Occupational Pension Schemes (Administration, Investment, Charges and Governance) and Pensions Dashboards (Amendment) Regulations 2023 (S.I. 2023/399)](https://www.legislation.gov.uk/uksi/2023/399), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/399/regulation/1/3), [2(2)(b)](https://www.legislation.gov.uk/uksi/2023/399/regulation/2/2/b)
+
+[^key-184c92ac1b65e3cc2fe8ae3705f66802]: Textual amendment: Words in [reg. 2(2)(a)](https://www.legislation.gov.uk/uksi/2015/879/regulation/2/2/a) inserted (1.8.2022) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) Regulations 2022 (S.I. 2022/255)](https://www.legislation.gov.uk/uksi/2022/255), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3), [Sch. 7 para. 4(3)(a)](https://www.legislation.gov.uk/uksi/2022/255/schedule/7/paragraph/4/3/a)
+
+[^key-ee4059479d7ca3d42fef0e9c2e8105ab]: Textual amendment: Word in [reg. 2(2)](https://www.legislation.gov.uk/uksi/2015/879/regulation/2/2) omitted (1.8.2022) by virtue of [The Occupational Pension Schemes (Collective Money Purchase Schemes) Regulations 2022 (S.I. 2022/255)](https://www.legislation.gov.uk/uksi/2022/255), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3), [Sch. 7 para. 4(3)(b)](https://www.legislation.gov.uk/uksi/2022/255/schedule/7/paragraph/4/3/b)
+
+[^key-c9e90f1edf93639b7f797c10f5ac0c77]: Textual amendment: Words in [reg. 2(2)(b)](https://www.legislation.gov.uk/uksi/2015/879/regulation/2/2/b) inserted (1.8.2022) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) Regulations 2022 (S.I. 2022/255)](https://www.legislation.gov.uk/uksi/2022/255), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3), [Sch. 7 para. 4(3)(c)](https://www.legislation.gov.uk/uksi/2022/255/schedule/7/paragraph/4/3/c)
+
+[^key-9a7cae24656b9fc1fd3fd6109954f771]: Textual amendment: [Reg. 2(2)](https://www.legislation.gov.uk/uksi/2015/879/regulation/2/2) comma omitted (1.8.2022) by virtue of [The Occupational Pension Schemes (Collective Money Purchase Schemes) Regulations 2022 (S.I. 2022/255)](https://www.legislation.gov.uk/uksi/2022/255), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3), [Sch. 7 para. 4(3)(d)](https://www.legislation.gov.uk/uksi/2022/255/schedule/7/paragraph/4/3/d)
+
+[^key-220c7287b7330e057ba98176fa073a62]: Textual amendment: Word in [reg. 2(2)](https://www.legislation.gov.uk/uksi/2015/879/regulation/2/2) inserted (1.8.2022) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) Regulations 2022 (S.I. 2022/255)](https://www.legislation.gov.uk/uksi/2022/255), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3), [Sch. 7 para. 4(3)(d)](https://www.legislation.gov.uk/uksi/2022/255/schedule/7/paragraph/4/3/d)
+
+[^key-58864a38eba7c0c24296ae2df5697f98]: Textual amendment: [Reg. 2(2)(c)](https://www.legislation.gov.uk/uksi/2015/879/regulation/2/2/c) inserted (1.8.2022) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) Regulations 2022 (S.I. 2022/255)](https://www.legislation.gov.uk/uksi/2022/255), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3), [Sch. 7 para. 4(3)(e)](https://www.legislation.gov.uk/uksi/2022/255/schedule/7/paragraph/4/3/e)
+
+[^key-bcca785027f1ef1ab3c9e0fddf5c7a68]: Textual amendment: [Reg. 2(2A)](https://www.legislation.gov.uk/uksi/2015/879/regulation/2/2A) inserted (1.8.2022) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) Regulations 2022 (S.I. 2022/255)](https://www.legislation.gov.uk/uksi/2022/255), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3), [Sch. 7 para. 4(4)](https://www.legislation.gov.uk/uksi/2022/255/schedule/7/paragraph/4/4)
+
+[^key-6673a8fe5d4000254dff08de56dc5926]: Textual amendment: [Reg. 2(3A)](https://www.legislation.gov.uk/uksi/2015/879/regulation/2/3A) inserted (1.8.2022) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) Regulations 2022 (S.I. 2022/255)](https://www.legislation.gov.uk/uksi/2022/255), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3), [Sch. 7 para. 4(5)](https://www.legislation.gov.uk/uksi/2022/255/schedule/7/paragraph/4/5)
+
+[^key-67b7f826dc08a643d85b6924cb8c163e]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/uksi/2015/879/regulation/2) full-stop omitted (1.8.2022) by virtue of [The Occupational Pension Schemes (Collective Money Purchase Schemes) Regulations 2022 (S.I. 2022/255)](https://www.legislation.gov.uk/uksi/2022/255), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3), [Sch. 7 para. 4(6)](https://www.legislation.gov.uk/uksi/2022/255/schedule/7/paragraph/4/6)
+
+[^key-2e5c7144550a5003a4d4d4f8fed7b499]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2015/879/regulation/2) inserted (1.8.2022) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) Regulations 2022 (S.I. 2022/255)](https://www.legislation.gov.uk/uksi/2022/255), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3), [Sch. 7 para. 4(6)](https://www.legislation.gov.uk/uksi/2022/255/schedule/7/paragraph/4/6)
+
+[^key-76ae950a0b75af6b537e9c3cee7b78d6]: Textual amendment: [Reg. 2(5)](https://www.legislation.gov.uk/uksi/2015/879/regulation/2/5) omitted (6.4.2023) by virtue of [The Occupational Pension Schemes (Administration, Investment, Charges and Governance) and Pensions Dashboards (Amendment) Regulations 2023 (S.I. 2023/399)](https://www.legislation.gov.uk/uksi/2023/399), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/399/regulation/1/3), [2(2)(c)](https://www.legislation.gov.uk/uksi/2023/399/regulation/2/2/c)
+
+[^key-3f30a1d0e9b227750e335c43426b4012]: Textual amendment: [Reg. 2(5A)](https://www.legislation.gov.uk/uksi/2015/879/regulation/2/5A) omitted (6.4.2023) by virtue of [The Occupational Pension Schemes (Administration, Investment, Charges and Governance) and Pensions Dashboards (Amendment) Regulations 2023 (S.I. 2023/399)](https://www.legislation.gov.uk/uksi/2023/399), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/399/regulation/1/3), [2(2)(c)](https://www.legislation.gov.uk/uksi/2023/399/regulation/2/2/c)
+
+[^key-a6f178050fa51e8d875a98609469a613]: Textual amendment: [Reg. 2(6)](https://www.legislation.gov.uk/uksi/2015/879/regulation/2/6) omitted (6.4.2023) by virtue of [The Occupational Pension Schemes (Administration, Investment, Charges and Governance) and Pensions Dashboards (Amendment) Regulations 2023 (S.I. 2023/399)](https://www.legislation.gov.uk/uksi/2023/399), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/399/regulation/1/3), [2(2)(c)](https://www.legislation.gov.uk/uksi/2023/399/regulation/2/2/c)
+
+[^key-3b4d7712b9f2f7c4c0570f726d3522d8]: Textual amendment: Reg. 3(6) substituted (6.4.2015) by [The Occupational Pension Schemes (Charges and Governance) (Amendment) Regulations 2015 (S.I. 2015/889)](https://www.legislation.gov.uk/uksi/2015/889), [regs. 1](https://www.legislation.gov.uk/uksi/2015/889/regulation/1), [2](https://www.legislation.gov.uk/uksi/2015/889/regulation/2)
+
+[^key-c2056fc869d9970d7b65e5af42ee5507]: Textual amendment: Words in [reg. 3(9)](https://www.legislation.gov.uk/uksi/2015/879/regulation/3/9) inserted (1.8.2022) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) Regulations 2022 (S.I. 2022/255)](https://www.legislation.gov.uk/uksi/2022/255), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3), [Sch. 7 para. 5](https://www.legislation.gov.uk/uksi/2022/255/schedule/7/paragraph/5)
+
+[^c2247236]: Marginal citation: Section 2 was amended by the [Pensions Act 2011 (c. 19)](https://www.legislation.gov.uk/ukpga/2011/19) (“**the 2011 Act**”), section 4. Section 3 was amended by the 2011 Act, sections 5 and 6, and [S.I. 2012/1506](https://www.legislation.gov.uk/uksi/2012/1506), [S.I](https://www.legislation.gov.uk/uksi/2012/1506/section/I). 2013/667 and [S.I. 2014/623](https://www.legislation.gov.uk/uksi/2014/623). Section 4 was substituted by the 2011 Act, section 6(2). Section 5 was amended by the 2011 Act, sections 4, 5 and 6, the Pensions Act 2014, sections 37 and 38 and [S.I. 2012/1506](https://www.legislation.gov.uk/uksi/2012/1506), [S.I](https://www.legislation.gov.uk/uksi/2012/1506/section/I). 2013/667 and [S.I. 2014/623](https://www.legislation.gov.uk/uksi/2014/623). Section 6 was amended by the 2011 Act, sections 4, 6 and 7. Section 7 was amended by the 2011 Act, section 6.
+
+[^key-964c45b7588d0e0268a38f6001c7bd47]: Textual amendment: [Reg. 3A](https://www.legislation.gov.uk/uksi/2015/879/regulation/3A) inserted (1.8.2022) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) Regulations 2022 (S.I. 2022/255)](https://www.legislation.gov.uk/uksi/2022/255), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3), [Sch. 7 para. 6](https://www.legislation.gov.uk/uksi/2022/255/schedule/7/paragraph/6)
+
+[^key-4cb38bd4b3c810d4c719ff6fc857f0f7]: Textual amendment: Ch. 1: reg. 4-13 renumbered as Ch. 1 (1.10.2017) by [The Occupational Pension Schemes (Charges and Governance) (Amendment) Regulations 2017 (S.I. 2017/774)](https://www.legislation.gov.uk/uksi/2017/774), [regs. 1](https://www.legislation.gov.uk/uksi/2017/774/regulation/1), [4](https://www.legislation.gov.uk/uksi/2017/774/regulation/4)
+
+[^key-8ec48740808916575a32b1d2bf3be089]: Textual amendment: Words in [Pt. 2 Ch. 1](https://www.legislation.gov.uk/uksi/2015/879/part/2/chapter/1) heading inserted (1.8.2022) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) Regulations 2022 (S.I. 2022/255)](https://www.legislation.gov.uk/uksi/2022/255), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3), [Sch. 7 para. 7](https://www.legislation.gov.uk/uksi/2022/255/schedule/7/paragraph/7)
+
+[^key-92e6d90400ef92c222f3e3fea8994470]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/uksi/2015/879/regulation/4/1) inserted (1.8.2022) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) Regulations 2022 (S.I. 2022/255)](https://www.legislation.gov.uk/uksi/2022/255), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3), [Sch. 7 para. 8(2)(a)](https://www.legislation.gov.uk/uksi/2022/255/schedule/7/paragraph/8/2/a)
+
+[^key-602b40764917da1e4b369bae44b3ca80]: Textual amendment: Words in reg. 4(1) substituted (1.10.2017) by [The Occupational Pension Schemes (Charges and Governance) (Amendment) Regulations 2017 (S.I. 2017/774)](https://www.legislation.gov.uk/uksi/2017/774), [regs. 1](https://www.legislation.gov.uk/uksi/2017/774/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2017/774/regulation/5/2)
+
+[^key-0f8327b06c7159d643ec111a1f66d74f]: Textual amendment: Words in [reg. 4(1)(a)](https://www.legislation.gov.uk/uksi/2015/879/regulation/4/1/a) inserted (1.8.2022) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) Regulations 2022 (S.I. 2022/255)](https://www.legislation.gov.uk/uksi/2022/255), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3), [Sch. 7 para. 8(2)(b)](https://www.legislation.gov.uk/uksi/2022/255/schedule/7/paragraph/8/2/b)
+
+[^key-679bd1f29edd284d548428b043e692c9]: Textual amendment: Words in reg. 4(1)(b) inserted (6.4.2016) by [The Occupational Pension Schemes (Charges and Governance) (Amendment) Regulations 2016 (S.I. 2016/304)](https://www.legislation.gov.uk/uksi/2016/304), [regs. 1](https://www.legislation.gov.uk/uksi/2016/304/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/2016/304/regulation/4/2)
+
+[^key-3140958bbc4ef6ca7da5b6ea964d6ace]: Textual amendment: Words in [reg. 4(1)(b)](https://www.legislation.gov.uk/uksi/2015/879/regulation/4/1/b) substituted (1.8.2022) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) Regulations 2022 (S.I. 2022/255)](https://www.legislation.gov.uk/uksi/2022/255), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3), [Sch. 7 para. 8(2)(c)](https://www.legislation.gov.uk/uksi/2022/255/schedule/7/paragraph/8/2/c)
+
+[^key-e8c4c5ad4934f2c63211d669656fcaa3]: Textual amendment: [Reg. 4(1ZA)](https://www.legislation.gov.uk/uksi/2015/879/regulation/4/1ZA) inserted (1.8.2022) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) Regulations 2022 (S.I. 2022/255)](https://www.legislation.gov.uk/uksi/2022/255), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3), [Sch. 7 para. 8(3)](https://www.legislation.gov.uk/uksi/2022/255/schedule/7/paragraph/8/3)
+
+[^key-ddfe2f631a38c5e814f29dab43cbf115]: Textual amendment: Reg. 4(1A) inserted (6.4.2016) by [The Occupational Pension Schemes (Charges and Governance) (Amendment) Regulations 2016 (S.I. 2016/304)](https://www.legislation.gov.uk/uksi/2016/304), [regs. 1](https://www.legislation.gov.uk/uksi/2016/304/regulation/1), [4(3)](https://www.legislation.gov.uk/uksi/2016/304/regulation/4/3)
+
+[^key-980f70bb947a15b86b8cd6fe639200a1]: Textual amendment: Words in reg. 4(2) substituted (6.4.2016) by [The Occupational Pension Schemes (Charges and Governance) (Amendment) Regulations 2016 (S.I. 2016/304)](https://www.legislation.gov.uk/uksi/2016/304), [regs. 1](https://www.legislation.gov.uk/uksi/2016/304/regulation/1), [4(4)](https://www.legislation.gov.uk/uksi/2016/304/regulation/4/4)
+
+[^key-025e2654b977d90122fd829629c82f7f]: Textual amendment: Words in [reg. 4(2)](https://www.legislation.gov.uk/uksi/2015/879/regulation/4/2) inserted (1.8.2022) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) Regulations 2022 (S.I. 2022/255)](https://www.legislation.gov.uk/uksi/2022/255), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3), [Sch. 7 para. 8(4)(a)](https://www.legislation.gov.uk/uksi/2022/255/schedule/7/paragraph/8/4/a)
+
+[^key-e4d4c662afd0e816085e2d958bfa5c42]: Textual amendment: Words in reg. 4(2) substituted (1.10.2017) by [The Occupational Pension Schemes (Charges and Governance) (Amendment) Regulations 2017 (S.I. 2017/774)](https://www.legislation.gov.uk/uksi/2017/774), [regs. 1](https://www.legislation.gov.uk/uksi/2017/774/regulation/1), [5(3)](https://www.legislation.gov.uk/uksi/2017/774/regulation/5/3)
+
+[^key-cbf88032c5c371ddf8ee43952d911e6c]: Textual amendment: Words in [reg. 4(2)(a)](https://www.legislation.gov.uk/uksi/2015/879/regulation/4/2/a) inserted (1.8.2022) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) Regulations 2022 (S.I. 2022/255)](https://www.legislation.gov.uk/uksi/2022/255), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3), [Sch. 7 para. 8(4)(b)](https://www.legislation.gov.uk/uksi/2022/255/schedule/7/paragraph/8/4/b)
+
+[^key-85db4243c9e54405cbedb3e9a41458d1]: Textual amendment: [Reg. 4(3)-(4)](https://www.legislation.gov.uk/uksi/2015/879/regulation/4/3) inserted (1.4.2018) by [The Occupational Pension Schemes (Preservation of Benefit and Charges and Governance) (Amendment) Regulations 2018 (S.I. 2018/240)](https://www.legislation.gov.uk/uksi/2018/240), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/240/regulation/1/3), [3(2)](https://www.legislation.gov.uk/uksi/2018/240/regulation/3/2)
+
+[^key-16268a236ed423057b7a909fd567e0b6]: Textual amendment: Words in [reg. 4(3)](https://www.legislation.gov.uk/uksi/2015/879/regulation/4/3) substituted (1.8.2022) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) Regulations 2022 (S.I. 2022/255)](https://www.legislation.gov.uk/uksi/2022/255), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3), [Sch. 7 para. 8(5)(a)](https://www.legislation.gov.uk/uksi/2022/255/schedule/7/paragraph/8/5/a)
+
+[^key-3b45de57436ef2e1ee65b327c006a48b]: Textual amendment: Words in [reg. 4(3)](https://www.legislation.gov.uk/uksi/2015/879/regulation/4/3) substituted (1.8.2022) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) Regulations 2022 (S.I. 2022/255)](https://www.legislation.gov.uk/uksi/2022/255), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3), [Sch. 7 para. 8(5)(b)](https://www.legislation.gov.uk/uksi/2022/255/schedule/7/paragraph/8/5/b)
+
+[^key-140de42de6f1bc8a3e8f6a9c3cbeffbc]: Textual amendment: Words in [reg. 4(3)(a)](https://www.legislation.gov.uk/uksi/2015/879/regulation/4/3/a) inserted (1.8.2022) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) Regulations 2022 (S.I. 2022/255)](https://www.legislation.gov.uk/uksi/2022/255), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3), [Sch. 7 para. 8(5)(c)](https://www.legislation.gov.uk/uksi/2022/255/schedule/7/paragraph/8/5/c)
+
+[^key-1adb7661fd5ef00642f12911107798f8]: Textual amendment: [Reg. 4(3A)-(3D)](https://www.legislation.gov.uk/uksi/2015/879/regulation/4/3A) inserted (1.8.2022) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) Regulations 2022 (S.I. 2022/255)](https://www.legislation.gov.uk/uksi/2022/255), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3), [Sch. 7 para. 8(6)](https://www.legislation.gov.uk/uksi/2022/255/schedule/7/paragraph/8/6)
+
+[^key-b8755951fc095cffa99ac9d915092c1f]: Textual amendment: Words in [reg. 4(4)](https://www.legislation.gov.uk/uksi/2015/879/regulation/4/4) substituted (1.8.2022) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) Regulations 2022 (S.I. 2022/255)](https://www.legislation.gov.uk/uksi/2022/255), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3), [Sch. 7 para. 8(7)](https://www.legislation.gov.uk/uksi/2022/255/schedule/7/paragraph/8/7)
+
+[^key-48e75c7113c86de12d01cc9df97bc6fc]: Textual amendment: [Reg. 4(5)](https://www.legislation.gov.uk/uksi/2015/879/regulation/4/5) inserted (1.8.2022) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) Regulations 2022 (S.I. 2022/255)](https://www.legislation.gov.uk/uksi/2022/255), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3), [Sch. 7 para. 8(8)](https://www.legislation.gov.uk/uksi/2022/255/schedule/7/paragraph/8/8)
+
+[^key-9eb645caf646ceed3faa4925fc1feab5]: Textual amendment: Words in [reg. 5](https://www.legislation.gov.uk/uksi/2015/879/regulation/5) heading inserted (1.8.2022) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) Regulations 2022 (S.I. 2022/255)](https://www.legislation.gov.uk/uksi/2022/255), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3), [Sch. 7 para. 9](https://www.legislation.gov.uk/uksi/2022/255/schedule/7/paragraph/9)
+
+[^key-e18bc983242297c76dac4db5ab14ac47]: Textual amendment: [Reg. 5A](https://www.legislation.gov.uk/uksi/2015/879/regulation/5A) inserted (1.8.2022) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) Regulations 2022 (S.I. 2022/255)](https://www.legislation.gov.uk/uksi/2022/255), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3), [Sch. 7 para. 10](https://www.legislation.gov.uk/uksi/2022/255/schedule/7/paragraph/10)
+
+[^key-35b9bf9358019243b423a0de8352fcee]: Textual amendment: Words in [reg. 6](https://www.legislation.gov.uk/uksi/2015/879/regulation/6) heading inserted (1.8.2022) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) Regulations 2022 (S.I. 2022/255)](https://www.legislation.gov.uk/uksi/2022/255), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3), [Sch. 7 para. 11](https://www.legislation.gov.uk/uksi/2022/255/schedule/7/paragraph/11)
+
+[^key-e04b8a3920011bff113aa3100614cd46]: Textual amendment: Words in reg. 6(1) inserted (1.10.2017) by [The Occupational Pension Schemes (Charges and Governance) (Amendment) Regulations 2017 (S.I. 2017/774)](https://www.legislation.gov.uk/uksi/2017/774), [regs. 1](https://www.legislation.gov.uk/uksi/2017/774/regulation/1), [6](https://www.legislation.gov.uk/uksi/2017/774/regulation/6)
+
+[^key-7371770c8e46c049fb190ed9f897cd0c]: Textual amendment: Words in [reg. 6(4)(a)](https://www.legislation.gov.uk/uksi/2015/879/regulation/6/4/a) inserted (6.4.2022) by [The Occupational Pension Schemes (Charges and Governance) (Amendment) Regulations 2022 (S.I. 2022/10)](https://www.legislation.gov.uk/uksi/2022/10), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/10/regulation/1/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2022/10/regulation/2/2/a) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/10/regulation/1/3))
+
+[^key-15462f2af91c3b82e7a8ee476d9e6395]: Textual amendment: [Reg. 6(5)-(7)](https://www.legislation.gov.uk/uksi/2015/879/regulation/6/5) inserted (6.4.2022) by [The Occupational Pension Schemes (Charges and Governance) (Amendment) Regulations 2022 (S.I. 2022/10)](https://www.legislation.gov.uk/uksi/2022/10), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/10/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2022/10/regulation/2/2/b) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/10/regulation/1/3))
+
+[^key-3f373743aaf2092db93005606d0797a0]: Textual amendment: [Reg. 6A](https://www.legislation.gov.uk/uksi/2015/879/regulation/6A) inserted (1.8.2022) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) Regulations 2022 (S.I. 2022/255)](https://www.legislation.gov.uk/uksi/2022/255), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3), [Sch. 7 para. 12](https://www.legislation.gov.uk/uksi/2022/255/schedule/7/paragraph/12)
+
+[^key-0ab150f96e426627ce81f6e063623432]: Textual amendment: [Reg. 6ZA](https://www.legislation.gov.uk/uksi/2015/879/regulation/6ZA) inserted (6.4.2022) by [The Occupational Pension Schemes (Charges and Governance) (Amendment) Regulations 2022 (S.I. 2022/10)](https://www.legislation.gov.uk/uksi/2022/10), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/10/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2022/10/regulation/2/3) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/10/regulation/1/3))
+
+[^key-c1e2793ecba8cf84272dbe2bb802a2dd]: Textual amendment: Words in [reg. 7](https://www.legislation.gov.uk/uksi/2015/879/regulation/7) heading inserted (1.8.2022) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) Regulations 2022 (S.I. 2022/255)](https://www.legislation.gov.uk/uksi/2022/255), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3), [Sch. 7 para. 13](https://www.legislation.gov.uk/uksi/2022/255/schedule/7/paragraph/13)
+
+[^key-ef40bce551c511924c55584fb72741bd]: Textual amendment: Words in [reg. 7(5)(b)(ii)](https://www.legislation.gov.uk/uksi/2015/879/regulation/7/5/b/ii) inserted (6.4.2022) by [The Occupational Pension Schemes (Charges and Governance) (Amendment) Regulations 2022 (S.I. 2022/10)](https://www.legislation.gov.uk/uksi/2022/10), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/10/regulation/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2022/10/regulation/2/4) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/10/regulation/1/3))
+
+[^key-dc04b1505029666fd80872a69cbccfeb]: Textual amendment: [Reg. 7(9)](https://www.legislation.gov.uk/uksi/2015/879/regulation/7/9) omitted (6.4.2023) by virtue of [The Occupational Pension Schemes (Administration, Investment, Charges and Governance) and Pensions Dashboards (Amendment) Regulations 2023 (S.I. 2023/399)](https://www.legislation.gov.uk/uksi/2023/399), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/399/regulation/1/3), [2(3)](https://www.legislation.gov.uk/uksi/2023/399/regulation/2/3) (with [reg. 1(8)](https://www.legislation.gov.uk/uksi/2023/399/regulation/1/8))
+
+[^key-6c2064be322f3bed7f4cff3712be7b2e]: Textual amendment: [Reg. 7(10)](https://www.legislation.gov.uk/uksi/2015/879/regulation/7/10) omitted (6.4.2023) by virtue of [The Occupational Pension Schemes (Administration, Investment, Charges and Governance) and Pensions Dashboards (Amendment) Regulations 2023 (S.I. 2023/399)](https://www.legislation.gov.uk/uksi/2023/399), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/399/regulation/1/3), [2(3)](https://www.legislation.gov.uk/uksi/2023/399/regulation/2/3) (with [reg. 1(8)](https://www.legislation.gov.uk/uksi/2023/399/regulation/1/8))
+
+[^key-ac7c0ddc52cc3e2e4fc552d535372ffa]: Textual amendment: [Reg. 7(11)](https://www.legislation.gov.uk/uksi/2015/879/regulation/7/11) omitted (6.4.2023) by virtue of [The Occupational Pension Schemes (Administration, Investment, Charges and Governance) and Pensions Dashboards (Amendment) Regulations 2023 (S.I. 2023/399)](https://www.legislation.gov.uk/uksi/2023/399), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/399/regulation/1/3), [2(3)](https://www.legislation.gov.uk/uksi/2023/399/regulation/2/3) (with [reg. 1(8)](https://www.legislation.gov.uk/uksi/2023/399/regulation/1/8))
+
+[^key-e32e230c9775ba7f87e2b5538a762351]: Textual amendment: [Reg. 7(12)](https://www.legislation.gov.uk/uksi/2015/879/regulation/7/12) omitted (6.4.2023) by virtue of [The Occupational Pension Schemes (Administration, Investment, Charges and Governance) and Pensions Dashboards (Amendment) Regulations 2023 (S.I. 2023/399)](https://www.legislation.gov.uk/uksi/2023/399), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/399/regulation/1/3), [2(3)](https://www.legislation.gov.uk/uksi/2023/399/regulation/2/3) (with [reg. 1(8)](https://www.legislation.gov.uk/uksi/2023/399/regulation/1/8))
+
+[^key-c532a919b6b99ffca7ff899027ca3d29]: Textual amendment: [Reg. 7A](https://www.legislation.gov.uk/uksi/2015/879/regulation/7A) inserted (1.8.2022) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) Regulations 2022 (S.I. 2022/255)](https://www.legislation.gov.uk/uksi/2022/255), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3), [Sch. 7 para. 14](https://www.legislation.gov.uk/uksi/2022/255/schedule/7/paragraph/14)
+
+[^key-930b57ae29f9d8110c9b2fa38a76fada]: Textual amendment: [Reg. 7A(9)](https://www.legislation.gov.uk/uksi/2015/879/regulation/7A/9) omitted (6.4.2023) by virtue of [The Occupational Pension Schemes (Administration, Investment, Charges and Governance) and Pensions Dashboards (Amendment) Regulations 2023 (S.I. 2023/399)](https://www.legislation.gov.uk/uksi/2023/399), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/399/regulation/1/3), [2(4)](https://www.legislation.gov.uk/uksi/2023/399/regulation/2/4) (with [reg. 1(8)](https://www.legislation.gov.uk/uksi/2023/399/regulation/1/8))
+
+[^key-021c7bd9f2b4c48747148747bf6065e8]: Textual amendment: [Reg. 7A(10)](https://www.legislation.gov.uk/uksi/2015/879/regulation/7A/10) omitted (6.4.2023) by virtue of [The Occupational Pension Schemes (Administration, Investment, Charges and Governance) and Pensions Dashboards (Amendment) Regulations 2023 (S.I. 2023/399)](https://www.legislation.gov.uk/uksi/2023/399), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/399/regulation/1/3), [2(4)](https://www.legislation.gov.uk/uksi/2023/399/regulation/2/4) (with [reg. 1(8)](https://www.legislation.gov.uk/uksi/2023/399/regulation/1/8))
+
+[^key-6387b8cb15e2e1cf065356636443796b]: Textual amendment: [Reg. 7A(11)](https://www.legislation.gov.uk/uksi/2015/879/regulation/7A/11) omitted (6.4.2023) by virtue of [The Occupational Pension Schemes (Administration, Investment, Charges and Governance) and Pensions Dashboards (Amendment) Regulations 2023 (S.I. 2023/399)](https://www.legislation.gov.uk/uksi/2023/399), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/399/regulation/1/3), [2(4)](https://www.legislation.gov.uk/uksi/2023/399/regulation/2/4) (with [reg. 1(8)](https://www.legislation.gov.uk/uksi/2023/399/regulation/1/8))
+
+[^key-157e6e361eccb8d931f0c7c0d929e338]: Textual amendment: [Reg. 7A(12)](https://www.legislation.gov.uk/uksi/2015/879/regulation/7A/12) omitted (6.4.2023) by virtue of [The Occupational Pension Schemes (Administration, Investment, Charges and Governance) and Pensions Dashboards (Amendment) Regulations 2023 (S.I. 2023/399)](https://www.legislation.gov.uk/uksi/2023/399), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/399/regulation/1/3), [2(4)](https://www.legislation.gov.uk/uksi/2023/399/regulation/2/4) (with [reg. 1(8)](https://www.legislation.gov.uk/uksi/2023/399/regulation/1/8))
+
+[^key-c30106a8cfa36d8bce08bf145c304e1c]: Textual amendment: Words in [reg. 8](https://www.legislation.gov.uk/uksi/2015/879/regulation/8) heading inserted (1.8.2022) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) Regulations 2022 (S.I. 2022/255)](https://www.legislation.gov.uk/uksi/2022/255), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3), [Sch. 7 para. 15](https://www.legislation.gov.uk/uksi/2022/255/schedule/7/paragraph/15)
+
+[^key-0aff60094c332cf7e74dfe971ffe6403]: Textual amendment: Words in [reg. 8(2)](https://www.legislation.gov.uk/uksi/2015/879/regulation/8/2) omitted (6.4.2023) by virtue of [The Occupational Pension Schemes (Administration, Investment, Charges and Governance) and Pensions Dashboards (Amendment) Regulations 2023 (S.I. 2023/399)](https://www.legislation.gov.uk/uksi/2023/399), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/399/regulation/1/3), [2(5)(a)](https://www.legislation.gov.uk/uksi/2023/399/regulation/2/5/a) (with [reg. 1(8)](https://www.legislation.gov.uk/uksi/2023/399/regulation/1/8))
+
+[^key-e64ea6c8a78c3dd542b87187303943f9]: Textual amendment: [Reg. 8(3A)](https://www.legislation.gov.uk/uksi/2015/879/regulation/8/3A) omitted (6.4.2023) by virtue of [The Occupational Pension Schemes (Administration, Investment, Charges and Governance) and Pensions Dashboards (Amendment) Regulations 2023 (S.I. 2023/399)](https://www.legislation.gov.uk/uksi/2023/399), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/399/regulation/1/3), [2(5)(b)](https://www.legislation.gov.uk/uksi/2023/399/regulation/2/5/b) (with [reg. 1(8)](https://www.legislation.gov.uk/uksi/2023/399/regulation/1/8))
+
+[^key-04c7d500433799fb814afae471cb62cd]: Textual amendment: [Reg. 8A](https://www.legislation.gov.uk/uksi/2015/879/regulation/8A) inserted (1.8.2022) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) Regulations 2022 (S.I. 2022/255)](https://www.legislation.gov.uk/uksi/2022/255), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3), [Sch. 7 para. 16](https://www.legislation.gov.uk/uksi/2022/255/schedule/7/paragraph/16)
+
+[^key-aa5378e6344905b0ec9d8ccf9f433e97]: Textual amendment: Words in [reg. 8A(2)](https://www.legislation.gov.uk/uksi/2015/879/regulation/8A/2) omitted (6.4.2023) by virtue of [The Occupational Pension Schemes (Administration, Investment, Charges and Governance) and Pensions Dashboards (Amendment) Regulations 2023 (S.I. 2023/399)](https://www.legislation.gov.uk/uksi/2023/399), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/399/regulation/1/3), [2(6)(a)](https://www.legislation.gov.uk/uksi/2023/399/regulation/2/6/a) (with [reg. 1(8)](https://www.legislation.gov.uk/uksi/2023/399/regulation/1/8))
+
+[^key-98183e1c1f7dabc8a72d32b63bf4395e]: Textual amendment: [Reg. 8A(4)](https://www.legislation.gov.uk/uksi/2015/879/regulation/8A/4) omitted (6.4.2023) by virtue of [The Occupational Pension Schemes (Administration, Investment, Charges and Governance) and Pensions Dashboards (Amendment) Regulations 2023 (S.I. 2023/399)](https://www.legislation.gov.uk/uksi/2023/399), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/399/regulation/1/3), [2(6)(b)](https://www.legislation.gov.uk/uksi/2023/399/regulation/2/6/b) (with [reg. 1(8)](https://www.legislation.gov.uk/uksi/2023/399/regulation/1/8))
+
+[^key-02b146e953f2b1792ba8d50738c1a7fd]: Textual amendment: Words in [reg. 9(1)](https://www.legislation.gov.uk/uksi/2015/879/regulation/9/1) inserted (1.8.2022) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) Regulations 2022 (S.I. 2022/255)](https://www.legislation.gov.uk/uksi/2022/255), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3), [Sch. 7 para. 17(2)](https://www.legislation.gov.uk/uksi/2022/255/schedule/7/paragraph/17/2)
+
+[^key-35c8a1ede0dbca162a0c6510a4d25c6c]: Textual amendment: Words in [reg. 9(1)](https://www.legislation.gov.uk/uksi/2015/879/regulation/9/1) inserted (1.10.2017) by [The Occupational Pension Schemes (Charges and Governance) (Amendment) Regulations 2017 (S.I. 2017/774)](https://www.legislation.gov.uk/uksi/2017/774), [regs. 1](https://www.legislation.gov.uk/uksi/2017/774/regulation/1), [7(2)(a)](https://www.legislation.gov.uk/uksi/2017/774/regulation/7/2/a)
+
+[^key-b20c9d7aa236cb5f0a4dc74cfe7646c9]: Textual amendment: Words in [reg. 9(1)](https://www.legislation.gov.uk/uksi/2015/879/regulation/9/1) inserted (1.10.2017) by [The Occupational Pension Schemes (Charges and Governance) (Amendment) Regulations 2017 (S.I. 2017/774)](https://www.legislation.gov.uk/uksi/2017/774), [regs. 1](https://www.legislation.gov.uk/uksi/2017/774/regulation/1), [7(2)(b)](https://www.legislation.gov.uk/uksi/2017/774/regulation/7/2/b)
+
+[^key-7646eb43d5b2d1b805cbf1be4893753e]: Textual amendment: [Reg. 9(1A)](https://www.legislation.gov.uk/uksi/2015/879/regulation/9/1A) inserted (1.8.2022) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) Regulations 2022 (S.I. 2022/255)](https://www.legislation.gov.uk/uksi/2022/255), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3), [Sch. 7 para. 17(3)](https://www.legislation.gov.uk/uksi/2022/255/schedule/7/paragraph/17/3)
+
+[^key-48daa8bcfd0fb5780d9a0d62cb4ba1cf]: Textual amendment: Words in [reg. 9(2)](https://www.legislation.gov.uk/uksi/2015/879/regulation/9/2) substituted (1.8.2022) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) Regulations 2022 (S.I. 2022/255)](https://www.legislation.gov.uk/uksi/2022/255), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3), [Sch. 7 para. 17(4)(a)](https://www.legislation.gov.uk/uksi/2022/255/schedule/7/paragraph/17/4/a)
+
+[^key-07fd59115054713ab001195625693280]: Textual amendment: Words in [reg. 9(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2015/879/regulation/9/2/b/ii) inserted (1.8.2022) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) Regulations 2022 (S.I. 2022/255)](https://www.legislation.gov.uk/uksi/2022/255), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3), [Sch. 7 para. 17(4)(b)](https://www.legislation.gov.uk/uksi/2022/255/schedule/7/paragraph/17/4/b)
+
+[^key-c6d15943dc5eca2894c26aa676cc8ee1]: Textual amendment: Words in [reg. 9(3)](https://www.legislation.gov.uk/uksi/2015/879/regulation/9/3) inserted (1.10.2017) by [The Occupational Pension Schemes (Charges and Governance) (Amendment) Regulations 2017 (S.I. 2017/774)](https://www.legislation.gov.uk/uksi/2017/774), [regs. 1](https://www.legislation.gov.uk/uksi/2017/774/regulation/1), [7(3)](https://www.legislation.gov.uk/uksi/2017/774/regulation/7/3)
+
+[^key-2c3d79c50ddefafc8396cd844d8d424e]: Textual amendment: [Reg. 9(4)](https://www.legislation.gov.uk/uksi/2015/879/regulation/9/4) full-stop omitted (1.8.2022) by virtue of [The Occupational Pension Schemes (Collective Money Purchase Schemes) Regulations 2022 (S.I. 2022/255)](https://www.legislation.gov.uk/uksi/2022/255), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3), [Sch. 7 para. 17(5)](https://www.legislation.gov.uk/uksi/2022/255/schedule/7/paragraph/17/5)
+
+[^key-d9a601c606a81d48a060845208e31ad4]: Textual amendment: Words in [reg. 9(4)](https://www.legislation.gov.uk/uksi/2015/879/regulation/9/4) inserted (1.8.2022) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) Regulations 2022 (S.I. 2022/255)](https://www.legislation.gov.uk/uksi/2022/255), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3), [Sch. 7 para. 17(5)](https://www.legislation.gov.uk/uksi/2022/255/schedule/7/paragraph/17/5)
+
+[^key-e2064acaf9603412511f8767a0213d7d]: Textual amendment: Words in [reg. 10(1)](https://www.legislation.gov.uk/uksi/2015/879/regulation/10/1) inserted (1.8.2022) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) Regulations 2022 (S.I. 2022/255)](https://www.legislation.gov.uk/uksi/2022/255), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3), [Sch. 7 para. 18](https://www.legislation.gov.uk/uksi/2022/255/schedule/7/paragraph/18)
+
+[^key-fa264fc6c66afcb1783e98932b775138]: Textual amendment: Word in reg. 10(8) substituted (6.4.2016) by [The Occupational Pension Schemes (Charges and Governance) (Amendment) Regulations 2016 (S.I. 2016/304)](https://www.legislation.gov.uk/uksi/2016/304), [regs. 1](https://www.legislation.gov.uk/uksi/2016/304/regulation/1), [5](https://www.legislation.gov.uk/uksi/2016/304/regulation/5)
+
+[^key-dbe21f7cef48c41f3324c1d81cce73df]: Textual amendment: Words in [reg. 11(5)](https://www.legislation.gov.uk/uksi/2015/879/regulation/11/5) substituted (1.8.2022) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) Regulations 2022 (S.I. 2022/255)](https://www.legislation.gov.uk/uksi/2022/255), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3), [Sch. 7 para. 19](https://www.legislation.gov.uk/uksi/2022/255/schedule/7/paragraph/19)
+
+[^key-f1420452dabeda39b0d5f4b94f67a817]: Textual amendment: Regs. 11A-11C inserted (6.4.2016) by [The Occupational Pension Schemes (Charges and Governance) (Amendment) Regulations 2016 (S.I. 2016/304)](https://www.legislation.gov.uk/uksi/2016/304), [regs. 1](https://www.legislation.gov.uk/uksi/2016/304/regulation/1), [6](https://www.legislation.gov.uk/uksi/2016/304/regulation/6)
+
+[^key-fad4c7491ca8c4b817de77032462e99e]: Textual amendment: Words in [reg. 11A(1)(a)](https://www.legislation.gov.uk/uksi/2015/879/regulation/11A/1/a) in 11A(1) renumbered as reg. 11A(1)(a) (1.8.2022) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) Regulations 2022 (S.I. 2022/255)](https://www.legislation.gov.uk/uksi/2022/255), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3), [Sch. 7 para. 20(2)](https://www.legislation.gov.uk/uksi/2022/255/schedule/7/paragraph/20/2)
+
+[^key-8ef3ed5fb3468b44ddd08fd058b23a03]: Textual amendment: Words in [reg. 11A(1)](https://www.legislation.gov.uk/uksi/2015/879/regulation/11A/1) omitted (1.10.2017) by virtue of [The Occupational Pension Schemes (Charges and Governance) (Amendment) Regulations 2017 (S.I. 2017/774)](https://www.legislation.gov.uk/uksi/2017/774), [regs. 1](https://www.legislation.gov.uk/uksi/2017/774/regulation/1), [8(2)](https://www.legislation.gov.uk/uksi/2017/774/regulation/8/2)
+
+[^key-7db339f66aee41a9f06f96fb36c09123]: Textual amendment: Word in [reg. 11A(1)(a)](https://www.legislation.gov.uk/uksi/2015/879/regulation/11A/1/a) inserted (1.8.2022) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) Regulations 2022 (S.I. 2022/255)](https://www.legislation.gov.uk/uksi/2022/255), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3), [Sch. 7 para. 20(3)](https://www.legislation.gov.uk/uksi/2022/255/schedule/7/paragraph/20/3)
+
+[^key-78787969265ce77e4cf3cabbd51ec04f]: Textual amendment: [Reg. 11A(1)(b)](https://www.legislation.gov.uk/uksi/2015/879/regulation/11A/1/b) inserted (1.8.2022) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) Regulations 2022 (S.I. 2022/255)](https://www.legislation.gov.uk/uksi/2022/255), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3), [Sch. 7 para. 20(4)](https://www.legislation.gov.uk/uksi/2022/255/schedule/7/paragraph/20/4)
+
+[^key-ced11161328b2c3c5665016bb3708a91]: Textual amendment: Words in [reg. 11A(2)](https://www.legislation.gov.uk/uksi/2015/879/regulation/11A/2) inserted (1.10.2017) by [The Occupational Pension Schemes (Charges and Governance) (Amendment) Regulations 2017 (S.I. 2017/774)](https://www.legislation.gov.uk/uksi/2017/774), [regs. 1](https://www.legislation.gov.uk/uksi/2017/774/regulation/1), [8(3)](https://www.legislation.gov.uk/uksi/2017/774/regulation/8/3)
+
+[^key-d6bc1252cc5c2dc80e700b7a433db4d6]: Textual amendment: Words in [reg. 11A(3)](https://www.legislation.gov.uk/uksi/2015/879/regulation/11A/3) inserted (1.8.2022) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) Regulations 2022 (S.I. 2022/255)](https://www.legislation.gov.uk/uksi/2022/255), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3), [Sch. 7 para. 20(5)](https://www.legislation.gov.uk/uksi/2022/255/schedule/7/paragraph/20/5)
+
+[^key-bba40e4ab2a3fdbbf36bdde6947d0a94]: Textual amendment: Words in [reg. 11A(4)](https://www.legislation.gov.uk/uksi/2015/879/regulation/11A/4) substituted (1.10.2017) by [The Occupational Pension Schemes (Charges and Governance) (Amendment) Regulations 2017 (S.I. 2017/774)](https://www.legislation.gov.uk/uksi/2017/774), [regs. 1](https://www.legislation.gov.uk/uksi/2017/774/regulation/1), [8(4)](https://www.legislation.gov.uk/uksi/2017/774/regulation/8/4)
+
+[^key-fd210094a16a31de735234dd7dbe74b0]: Textual amendment: [Reg. 11A(6)](https://www.legislation.gov.uk/uksi/2015/879/regulation/11A/6) substituted (1.10.2017) by [The Occupational Pension Schemes (Charges and Governance) (Amendment) Regulations 2017 (S.I. 2017/774)](https://www.legislation.gov.uk/uksi/2017/774), [regs. 1](https://www.legislation.gov.uk/uksi/2017/774/regulation/1), [8(5)](https://www.legislation.gov.uk/uksi/2017/774/regulation/8/5)
+
+[^key-d2ffb6bbf21b6a980ddaad548c20be0c]: Textual amendment: [Reg. 11A(7)](https://www.legislation.gov.uk/uksi/2015/879/regulation/11A/7) inserted (1.10.2017) by [The Occupational Pension Schemes (Charges and Governance) (Amendment) Regulations 2017 (S.I. 2017/774)](https://www.legislation.gov.uk/uksi/2017/774), [regs. 1](https://www.legislation.gov.uk/uksi/2017/774/regulation/1), [8(6)](https://www.legislation.gov.uk/uksi/2017/774/regulation/8/6)
+
+[^key-d4dda87de57fbc4232eb876b5b453add]: Textual amendment: Words in [reg. 11B(2)](https://www.legislation.gov.uk/uksi/2015/879/regulation/11B/2) substituted (1.10.2017) by [The Occupational Pension Schemes (Charges and Governance) (Amendment) Regulations 2017 (S.I. 2017/774)](https://www.legislation.gov.uk/uksi/2017/774), [regs. 1](https://www.legislation.gov.uk/uksi/2017/774/regulation/1), [9(2)](https://www.legislation.gov.uk/uksi/2017/774/regulation/9/2)
+
+[^key-02172e2f5cefc9b09373fe95a055a3c8]: Textual amendment: [Regs. 11B(2A)-(2B)](https://www.legislation.gov.uk/uksi/2015/879/regulation/11B/2A) inserted (1.10.2017) by [The Occupational Pension Schemes (Charges and Governance) (Amendment) Regulations 2017 (S.I. 2017/774)](https://www.legislation.gov.uk/uksi/2017/774), [regs. 1](https://www.legislation.gov.uk/uksi/2017/774/regulation/1), [9(3)](https://www.legislation.gov.uk/uksi/2017/774/regulation/9/3)
+
+[^key-0bb611b167b4409075d7035fff91a454]: Textual amendment: Words in [reg. 11B(3)](https://www.legislation.gov.uk/uksi/2015/879/regulation/11B/3) inserted (1.10.2017) by [The Occupational Pension Schemes (Charges and Governance) (Amendment) Regulations 2017 (S.I. 2017/774)](https://www.legislation.gov.uk/uksi/2017/774), [regs. 1](https://www.legislation.gov.uk/uksi/2017/774/regulation/1), [9(4)](https://www.legislation.gov.uk/uksi/2017/774/regulation/9/4)
+
+[^key-67cbd9bf5da20a1b38a69fc5e964a3d0]: Textual amendment: [Reg. 11B(3A)](https://www.legislation.gov.uk/uksi/2015/879/regulation/11B/3A) inserted (1.10.2017) by [The Occupational Pension Schemes (Charges and Governance) (Amendment) Regulations 2017 (S.I. 2017/774)](https://www.legislation.gov.uk/uksi/2017/774), [regs. 1](https://www.legislation.gov.uk/uksi/2017/774/regulation/1), [9(5)](https://www.legislation.gov.uk/uksi/2017/774/regulation/9/5)
+
+[^key-3077f327e866f544e82ab9af0499340f]: Textual amendment: Words in [reg. 11B(5)](https://www.legislation.gov.uk/uksi/2015/879/regulation/11B/5) substituted (1.10.2017) by [The Occupational Pension Schemes (Charges and Governance) (Amendment) Regulations 2017 (S.I. 2017/774)](https://www.legislation.gov.uk/uksi/2017/774), [regs. 1](https://www.legislation.gov.uk/uksi/2017/774/regulation/1), [9(6)(a)](https://www.legislation.gov.uk/uksi/2017/774/regulation/9/6/a)
+
+[^key-37399d5af33864b296d4dab11e29d847]: Textual amendment: Words in [reg. 11B(5)](https://www.legislation.gov.uk/uksi/2015/879/regulation/11B/5) substituted (1.10.2017) by [The Occupational Pension Schemes (Charges and Governance) (Amendment) Regulations 2017 (S.I. 2017/774)](https://www.legislation.gov.uk/uksi/2017/774), [regs. 1](https://www.legislation.gov.uk/uksi/2017/774/regulation/1), [9(6)(b)](https://www.legislation.gov.uk/uksi/2017/774/regulation/9/6/b)
+
+[^key-dacda294787eb987ee92885fb6c27182]: Textual amendment: Words in [reg. 11B(6)](https://www.legislation.gov.uk/uksi/2015/879/regulation/11B/6) inserted (1.10.2017) by [The Occupational Pension Schemes (Charges and Governance) (Amendment) Regulations 2017 (S.I. 2017/774)](https://www.legislation.gov.uk/uksi/2017/774), [regs. 1](https://www.legislation.gov.uk/uksi/2017/774/regulation/1), [9(7)](https://www.legislation.gov.uk/uksi/2017/774/regulation/9/7)
+
+[^key-0befb7304daa9b4ce0583546cf2b1225]: Textual amendment: [Reg. 11B(8)](https://www.legislation.gov.uk/uksi/2015/879/regulation/11B/8) inserted (1.8.2022) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) Regulations 2022 (S.I. 2022/255)](https://www.legislation.gov.uk/uksi/2022/255), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3), [Sch. 7 para. 21](https://www.legislation.gov.uk/uksi/2022/255/schedule/7/paragraph/21)
+
+[^key-9e43920199ade6d88c3e6b3a396ba38c]: Textual amendment: Words in [reg. 11C(3)](https://www.legislation.gov.uk/uksi/2015/879/regulation/11C/3) inserted (1.10.2017) by [The Occupational Pension Schemes (Charges and Governance) (Amendment) Regulations 2017 (S.I. 2017/774)](https://www.legislation.gov.uk/uksi/2017/774), [regs. 1](https://www.legislation.gov.uk/uksi/2017/774/regulation/1), [10](https://www.legislation.gov.uk/uksi/2017/774/regulation/10)
+
+[^key-4816b3373eba9b7ff7b435386262b60d]: Textual amendment: [Reg. 11C(5)](https://www.legislation.gov.uk/uksi/2015/879/regulation/11C/5) substituted (1.8.2022) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) Regulations 2022 (S.I. 2022/255)](https://www.legislation.gov.uk/uksi/2022/255), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3), [Sch. 7 para. 22](https://www.legislation.gov.uk/uksi/2022/255/schedule/7/paragraph/22)
+
+[^c2247237]: Marginal citation: [S.I. 2000/1403](https://www.legislation.gov.uk/uksi/2000/1403).
+
+[^c2247238]: Marginal citation: Regulation 13 was amended by [S.I. 2001/577](https://www.legislation.gov.uk/uksi/2001/577) and [S.I. 2011/246](https://www.legislation.gov.uk/uksi/2011/246).
+
+[^c2247239]: Marginal citation: Regulations 14, 14A, 14B and 14C were substituted by [S.I. 2005/577](https://www.legislation.gov.uk/uksi/2005/577). Regulation 14, as substituted, was amended by [S.I. 2007/814](https://www.legislation.gov.uk/uksi/2007/814) and [S.I. 2013/459](https://www.legislation.gov.uk/uksi/2013/459).
+
+[^c2247240]: Marginal citation: The definition of “the FCA Handbook was substituted for the definition of “the FSA Handbook” by [S.I. 2013/472](https://www.legislation.gov.uk/uksi/2013/472). The definition of “the FSA Handbook” was inserted by [S.I. 2005/577](https://www.legislation.gov.uk/uksi/2005/577).
+
+[^c2247241]: Marginal citation: [S.I. 2006/349](https://www.legislation.gov.uk/uksi/2006/349).
+
+[^c2247242]: Marginal citation: [S.I. 2006/759](https://www.legislation.gov.uk/uksi/2006/759).
+
+[^key-4b5761ef6f815d47c50aee1b73af5f74]: Textual amendment: Ch. 2 inserted (1.10.2017) by [The Occupational Pension Schemes (Charges and Governance) (Amendment) Regulations 2017 (S.I. 2017/774)](https://www.legislation.gov.uk/uksi/2017/774), [regs. 1](https://www.legislation.gov.uk/uksi/2017/774/regulation/1), [11](https://www.legislation.gov.uk/uksi/2017/774/regulation/11)
+
+[^c2247243]: Marginal citation: Regulation 1(2) was amended by [S.I. 1997/786](https://www.legislation.gov.uk/uksi/1997/786), [regulation 3](https://www.legislation.gov.uk/uksi/1997/786/regulation/3), [Schedule 1](https://www.legislation.gov.uk/uksi/1997/786/schedule/1), [paragraph 11(2)](https://www.legislation.gov.uk/uksi/1997/786/paragraph/11/2), [2005](https://www.legislation.gov.uk/uksi/1997/786/paragraph/2005)/2426, regulations 4(1) and (2), 2005/3377, regulation 20(1) and Schedule 3, paragraph 4(1) and (2) and 2006/778, regulation 4(1) and (2)(a) to (d).
+
+[^c2247244]: Marginal citation: *See* [S.I. 1996/1715](https://www.legislation.gov.uk/uksi/1996/1715), [regulation 1(2)](https://www.legislation.gov.uk/uksi/1996/1715/regulation/1/2), substituted by [S.I. 1997/786](https://www.legislation.gov.uk/uksi/1997/786), and section 181(1) of the Pension Schemes Act 1993 (“**the 1993 Act**”) for definition of “money purchase benefits”. The definition of “money purchase benefits' in section 181(1) of the 1993 Act was amended by the 2011 Act, section 29 and [S.I. 2005/2053](https://www.legislation.gov.uk/uksi/2005/2053).
+
+[^c2247245]: Marginal citation: [S.I. 2013/2734](https://www.legislation.gov.uk/uksi/2013/2734).
+
+[^c2247246]: Marginal citation: *See* [S.I. 1996/1715](https://www.legislation.gov.uk/uksi/1996/1715), [regulation 1(2)](https://www.legislation.gov.uk/uksi/1996/1715/regulation/1/2), and section 1 of the 1993 Act, for definition of “public service pension scheme”. The definition of ‘public service scheme” in the 1993 Act was amended by [S.I. 1999/1820](https://www.legislation.gov.uk/uksi/1999/1820).
+
+[^c2247247]: Marginal citation: *See* section 318 of the 2004 Act. The definition of “public service pension scheme” was inserted by the [Public Service Pensions Act 2013 (c.25)](https://www.legislation.gov.uk/ukpga/2013/25), [Schedule 4](https://www.legislation.gov.uk/ukpga/2013/25/schedule/4), [paragraph 22(2)](https://www.legislation.gov.uk/ukpga/2013/25/paragraph/22/2).
+
+[^c2247248]: Marginal citation: Inserted by regulation 21 of these Regulations.
+
+[^c2247249]: Marginal citation: *See* [S.I. 1996/1715](https://www.legislation.gov.uk/uksi/1996/1715), [regulation 1(2)](https://www.legislation.gov.uk/uksi/1996/1715/regulation/1/2), substituted by [S.I. 1997/786](https://www.legislation.gov.uk/uksi/1997/786), for definition of “money purchase scheme”.
+
+[^c2247250]: Marginal citation: Section 67 was amended by the [Finance (No. 3) Act 2010 (c. 33)](https://www.legislation.gov.uk/ukpga/2010/33), [section 30(2)](https://www.legislation.gov.uk/ukpga/2010/33/section/30/2).
+
+[^c2247251]: Marginal citation: [S.I. 2005/597](https://www.legislation.gov.uk/uksi/2005/597). Regulation 3(1) was amended by [S.I. 2006/1733](https://www.legislation.gov.uk/uksi/2006/1733).
+
+[^c2247252]: Marginal citation: Inserted by regulation 16 of these Regulations.
+
+[^c2247253]: Marginal citation: Inserted by regulation 20 of these Regulations.
+
+[^c2247254]: Marginal citation: Inserted by regulation 17 of these Regulations.
+
+[^c2247255]: Marginal citation: Inserted by regulation 18 of these Regulations.
+
+[^c2247256]: Marginal citation: [S.I. 2005/3378](https://www.legislation.gov.uk/uksi/2005/3378).
+
+[^c2247257]: Marginal citation: *See* regulation 7 of [S.I. 2005/3378](https://www.legislation.gov.uk/uksi/2005/3378).
+
+[^c2247258]: Marginal citation: [2006 c.46](https://www.legislation.gov.uk/ukpga/2006/46).
+
+[^c2247259]: Marginal citation: Inserted by regulation 19 of these Regulations.
+
+[^c2247260]: Marginal citation: Inserted by regulation 21 of these Regulations.
+
+[^c2247261]: Marginal citation: [S.I. 2005/597](https://www.legislation.gov.uk/uksi/2005/597).
+
+[^c2247262]: Marginal citation: Sub-paragraph (g) was inserted by [S.I. 2006/1733](https://www.legislation.gov.uk/uksi/2006/1733), [regulation 4(1)](https://www.legislation.gov.uk/uksi/2006/1733/regulation/4/1) and (2)(a).
+
+[^c2247263]: Marginal citation: [2004 c.35](https://www.legislation.gov.uk/ukpga/2004/35). Subsection (7) was amended by the [Public Service Pensions Act 2013 (c.25)](https://www.legislation.gov.uk/ukpga/2013/25), [section 17(1)](https://www.legislation.gov.uk/ukpga/2013/25/section/17/1) and Schedule 4, paragraphs 1, 3(1) and (3)(a) and (b). The Pension Schemes Act 2015 (currently the Pension Schemes Bill before Parliament) will, when enacted, insert an additional paragraph into subsection 7 which, depending upon when that Bill receives Royal Assent, may either precede or follow the paragraph (f) inserted by this regulation 25(b).
+
+[^key-e56e8a42f25aa611b5333b9ed510618c]: Textual amendment: Words in [reg. 26(1)](https://www.legislation.gov.uk/uksi/2015/879/regulation/26/1) substituted (6.4.2016) by [The Occupational Pension Schemes (Charges and Governance) (Amendment) Regulations 2016 (S.I. 2016/304)](https://www.legislation.gov.uk/uksi/2016/304), [regs. 1](https://www.legislation.gov.uk/uksi/2016/304/regulation/1), [7(2)](https://www.legislation.gov.uk/uksi/2016/304/regulation/7/2)
+
+[^c2247264]: Marginal citation: Inserted by regulation 24(3) of these Regulations.
+
+[^key-738a5e0b142538e8a4592dd59847c4d5]: Textual amendment: Words in [reg. 26(2)(a)](https://www.legislation.gov.uk/uksi/2015/879/regulation/26/2/a) substituted (6.4.2016) by [The Occupational Pension Schemes (Charges and Governance) (Amendment) Regulations 2016 (S.I. 2016/304)](https://www.legislation.gov.uk/uksi/2016/304), [regs. 1](https://www.legislation.gov.uk/uksi/2016/304/regulation/1), [7(3)(a)](https://www.legislation.gov.uk/uksi/2016/304/regulation/7/3/a)
+
+[^key-25401cecd2211916bd3da93ede77d135]: Textual amendment: Words in [reg. 26(2)(b)](https://www.legislation.gov.uk/uksi/2015/879/regulation/26/2/b) substituted (6.4.2016) by [The Occupational Pension Schemes (Charges and Governance) (Amendment) Regulations 2016 (S.I. 2016/304)](https://www.legislation.gov.uk/uksi/2016/304), [regs. 1](https://www.legislation.gov.uk/uksi/2016/304/regulation/1), [7(3)(b)](https://www.legislation.gov.uk/uksi/2016/304/regulation/7/3/b)
+
+[^key-8f214363b2a3261e0302a7a19166d51b]: Textual amendment: Word in [reg. 26(3)](https://www.legislation.gov.uk/uksi/2015/879/regulation/26/3) substituted (6.4.2016) by [The Occupational Pension Schemes (Charges and Governance) (Amendment) Regulations 2016 (S.I. 2016/304)](https://www.legislation.gov.uk/uksi/2016/304), [regs. 1](https://www.legislation.gov.uk/uksi/2016/304/regulation/1), [7(4)](https://www.legislation.gov.uk/uksi/2016/304/regulation/7/4)
+
+[^key-09a7dec62a6eaa8f85b4a825662ecea4]: Textual amendment: Word in [reg. 26(6)(b)](https://www.legislation.gov.uk/uksi/2015/879/regulation/26/6/b) substituted (6.4.2016) by [The Occupational Pension Schemes (Charges and Governance) (Amendment) Regulations 2016 (S.I. 2016/304)](https://www.legislation.gov.uk/uksi/2016/304), [regs. 1](https://www.legislation.gov.uk/uksi/2016/304/regulation/1), [7(4)](https://www.legislation.gov.uk/uksi/2016/304/regulation/7/4)
+
+[^key-9cca580c3f1f76c1525ea872c7649c4a]: Textual amendment: Word in [reg. 26(6)(c)](https://www.legislation.gov.uk/uksi/2015/879/regulation/26/6/c) substituted (6.4.2016) by [The Occupational Pension Schemes (Charges and Governance) (Amendment) Regulations 2016 (S.I. 2016/304)](https://www.legislation.gov.uk/uksi/2016/304), [regs. 1](https://www.legislation.gov.uk/uksi/2016/304/regulation/1), [7(4)](https://www.legislation.gov.uk/uksi/2016/304/regulation/7/4)
+
+[^key-467ed8291c2cb8afc6fbbcf1bc3a6858]: Textual amendment: Words in [reg. 26(6)(d)](https://www.legislation.gov.uk/uksi/2015/879/regulation/26/6/d) substituted (6.4.2016) by [The Occupational Pension Schemes (Charges and Governance) (Amendment) Regulations 2016 (S.I. 2016/304)](https://www.legislation.gov.uk/uksi/2016/304), [regs. 1](https://www.legislation.gov.uk/uksi/2016/304/regulation/1), [7(5)](https://www.legislation.gov.uk/uksi/2016/304/regulation/7/5)
+
+[^key-4986fa70d498c0f013c785d486c83106]: Textual amendment: Word in [reg. 26(6)(e)](https://www.legislation.gov.uk/uksi/2015/879/regulation/26/6/e) substituted (6.4.2016) by [The Occupational Pension Schemes (Charges and Governance) (Amendment) Regulations 2016 (S.I. 2016/304)](https://www.legislation.gov.uk/uksi/2016/304), [regs. 1](https://www.legislation.gov.uk/uksi/2016/304/regulation/1), [7(4)](https://www.legislation.gov.uk/uksi/2016/304/regulation/7/4)
+
+[^key-e70c56779d5681cd2be335fae80fff68]: Textual amendment: Words in [reg. 27(1)(a)](https://www.legislation.gov.uk/uksi/2015/879/regulation/27/1/a) substituted (6.4.2016) by [The Occupational Pension Schemes (Charges and Governance) (Amendment) Regulations 2016 (S.I. 2016/304)](https://www.legislation.gov.uk/uksi/2016/304), [regs. 1](https://www.legislation.gov.uk/uksi/2016/304/regulation/1), [8(2)(a)](https://www.legislation.gov.uk/uksi/2016/304/regulation/8/2/a)
+
+[^key-6bca336b8ac58d21b487f632d8eba50e]: Textual amendment: Word in [reg. 27(1)(b)](https://www.legislation.gov.uk/uksi/2015/879/regulation/27/1/b) omitted (6.4.2016) by virtue of [The Occupational Pension Schemes (Charges and Governance) (Amendment) Regulations 2016 (S.I. 2016/304)](https://www.legislation.gov.uk/uksi/2016/304), [regs. 1](https://www.legislation.gov.uk/uksi/2016/304/regulation/1), [8(2)(b)](https://www.legislation.gov.uk/uksi/2016/304/regulation/8/2/b)
+
+[^key-c5b02c5a268317e5749fafea084cf659]: Textual amendment: Words in [reg. 27(2)(a)](https://www.legislation.gov.uk/uksi/2015/879/regulation/27/2/a) substituted (6.4.2016) by [The Occupational Pension Schemes (Charges and Governance) (Amendment) Regulations 2016 (S.I. 2016/304)](https://www.legislation.gov.uk/uksi/2016/304), [regs. 1](https://www.legislation.gov.uk/uksi/2016/304/regulation/1), [8(3)(a)](https://www.legislation.gov.uk/uksi/2016/304/regulation/8/3/a)
+
+[^key-13e8862248ef1c50bc82643d176b9051]: Textual amendment: Words in [reg. 27(2)(b)](https://www.legislation.gov.uk/uksi/2015/879/regulation/27/2/b) substituted (6.4.2016) by [The Occupational Pension Schemes (Charges and Governance) (Amendment) Regulations 2016 (S.I. 2016/304)](https://www.legislation.gov.uk/uksi/2016/304), [regs. 1](https://www.legislation.gov.uk/uksi/2016/304/regulation/1), [8(3)(b)](https://www.legislation.gov.uk/uksi/2016/304/regulation/8/3/b)
+
+[^key-f45d1635bf06ac6b46de8a5629c45805]: Textual amendment: Words in [reg. 27(2)(c)](https://www.legislation.gov.uk/uksi/2015/879/regulation/27/2/c) substituted (6.4.2016) by [The Occupational Pension Schemes (Charges and Governance) (Amendment) Regulations 2016 (S.I. 2016/304)](https://www.legislation.gov.uk/uksi/2016/304), [regs. 1](https://www.legislation.gov.uk/uksi/2016/304/regulation/1), [8(3)(c)](https://www.legislation.gov.uk/uksi/2016/304/regulation/8/3/c)
+
+[^key-0f92739f6d0caeea8fd3caef161b7790]: Textual amendment: Words in [reg. 28(1)(b)](https://www.legislation.gov.uk/uksi/2015/879/regulation/28/1/b) substituted (6.4.2016) by [The Occupational Pension Schemes (Charges and Governance) (Amendment) Regulations 2016 (S.I. 2016/304)](https://www.legislation.gov.uk/uksi/2016/304), [regs. 1](https://www.legislation.gov.uk/uksi/2016/304/regulation/1), [9(2)](https://www.legislation.gov.uk/uksi/2016/304/regulation/9/2)
+
+[^c2247265]: Marginal citation: Inserted by regulation 24(3) of these Regulations.
+
+[^c2247266]: Marginal citation: Inserted by regulation 17 of these Regulations.
+
+[^key-8e81f04b10f9cbb87dae6fe2922f7443]: Textual amendment: [Reg. 28(5)(b)](https://www.legislation.gov.uk/uksi/2015/879/regulation/28/5/b) omitted (6.4.2016) by virtue of [The Occupational Pension Schemes (Charges and Governance) (Amendment) Regulations 2016 (S.I. 2016/304)](https://www.legislation.gov.uk/uksi/2016/304), [regs. 1](https://www.legislation.gov.uk/uksi/2016/304/regulation/1), [9(3)](https://www.legislation.gov.uk/uksi/2016/304/regulation/9/3)
+
+[^key-e4a56ab46dfde41d26bfe60d7d26baa1]: Textual amendment: [Reg. 28(5)(c)](https://www.legislation.gov.uk/uksi/2015/879/regulation/28/5/c) omitted (6.4.2016) by virtue of [The Occupational Pension Schemes (Charges and Governance) (Amendment) Regulations 2016 (S.I. 2016/304)](https://www.legislation.gov.uk/uksi/2016/304), [regs. 1](https://www.legislation.gov.uk/uksi/2016/304/regulation/1), [9(3)](https://www.legislation.gov.uk/uksi/2016/304/regulation/9/3)
+
+[^key-afce8f8bde461a050738464c009eadbe]: Textual amendment: [Reg. 28(6)](https://www.legislation.gov.uk/uksi/2015/879/regulation/28/6) omitted (6.4.2016) by virtue of [The Occupational Pension Schemes (Charges and Governance) (Amendment) Regulations 2016 (S.I. 2016/304)](https://www.legislation.gov.uk/uksi/2016/304), [regs. 1](https://www.legislation.gov.uk/uksi/2016/304/regulation/1), [9(3)](https://www.legislation.gov.uk/uksi/2016/304/regulation/9/3)
+
+[^c2247267]: Marginal citation: [1984 c. 28](https://www.legislation.gov.uk/ukpga/1984/28).
+
+[^key-8ddb7ddfa3cf6827807574732628ec78]: Textual amendment: [Reg. 30](https://www.legislation.gov.uk/uksi/2015/879/regulation/30) substituted (6.4.2016) by [The Occupational Pension Schemes (Charges and Governance) (Amendment) Regulations 2016 (S.I. 2016/304)](https://www.legislation.gov.uk/uksi/2016/304), [regs. 1](https://www.legislation.gov.uk/uksi/2016/304/regulation/1), [10](https://www.legislation.gov.uk/uksi/2016/304/regulation/10)
+
+[^key-25c5c6232ed94b424a49acc373cadbf0]: Textual amendment: [Reg. 32(4)](https://www.legislation.gov.uk/uksi/2015/879/regulation/32/4) substituted (6.4.2016) by [The Occupational Pension Schemes (Charges and Governance) (Amendment) Regulations 2016 (S.I. 2016/304)](https://www.legislation.gov.uk/uksi/2016/304), [regs. 1](https://www.legislation.gov.uk/uksi/2016/304/regulation/1), [11](https://www.legislation.gov.uk/uksi/2016/304/regulation/11)
+
+[^c2247269]: Marginal citation: [S.I. 2009/1976](https://www.legislation.gov.uk/uksi/2009/1976).
+
+[^c2247270]: Marginal citation: [S.I. 2008/2698](https://www.legislation.gov.uk/uksi/2008/2698).
+
+[^key-577819e7c1dd833c6968e6cc909f9aeb]: Textual amendment: [Reg. 33](https://www.legislation.gov.uk/uksi/2015/879/regulation/33) inserted (6.4.2016) by [The Occupational Pension Schemes (Charges and Governance) (Amendment) Regulations 2016 (S.I. 2016/304)](https://www.legislation.gov.uk/uksi/2016/304), [regs. 1](https://www.legislation.gov.uk/uksi/2016/304/regulation/1), [12](https://www.legislation.gov.uk/uksi/2016/304/regulation/12)

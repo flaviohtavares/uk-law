@@ -1,0 +1,50 @@
+---
+title: Local Government and Public Involvement in Health Act 2007, section 230
+act: Local Government and Public Involvement in Health Act 2007
+section: '230'
+status: revised-with-pending-changes
+text_date: '2026-07-07'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/2007/28/section/230
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Local Government and Public Involvement in Health Act 2007, section 230
+
+> **Warning: changes not yet applied to this text (1).** Text as at 2026-07-07. See https://www.legislation.gov.uk/changes/affected/ukpga/2007/28
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 230. Abolition of functions of Patients' Forums[^key-3d39d110555324ef917148dab301c5bf]
+
+*Extent: E+W*
+
+(1) The following provisions of the 2006 Act are omitted—
+
+- sections 237(3) to (9) and 238 (functions of Patients' Forums);
+- section 239 (power to confer rights of entry on members of Patients' Forums); and
+- section 241(3) and (4) (regulations about membership of Patients' Forums).
+
+(2) If subsection (1) comes into force on a day other than 1st April—
+
+- (a) section 240 of the 2006 Act (a Patients' Forum must prepare an annual report for each financial year), and regulation 4 of the Functions Regulations (a Patients' Forum must prepare annual accounts for each financial year), shall have effect as if the final reporting period of a Patients' Forum were a financial year; and
+- (b) regulation 4(3) of the Functions Regulations (accounts for a financial year to be copied to the Commission no later than 31st May after end of year) shall have effect in relation to the final reporting period of a Patients' Forum as if for “31st May” there were substituted “ two months ”.
+
+(3) A Patients' Forum, in its report under section 240 of the 2006 Act for its final reporting period, must (in particular) include details of anything being done by the Patients' Forum that was still in progress when subsection (1) came into force.
+
+(4) Section 240 of the 2006 Act does not require a Patients' Forum to prepare a report, and regulation 4 of the Functions Regulations does not require a Patients' Forum to prepare annual accounts, in relation to any time after the end of its final reporting period.
+
+(5) In subsections (2) to (4) “**final reporting period**”, in relation to a Patients' Forum, means the period—
+
+- (a) ending with the coming into force of subsection (1); and
+- (b) beginning with the preceding 1st April.
+
+(6) In this section—
+
+- “**the 2006 Act**” means the National Health Service Act 2006 (c. 41);
+- “**the Functions Regulations**” means the Patients' Forums (Functions) Regulations 2003 (S.I. 2003/2124).
+
+## Annotations
+
+[^key-3d39d110555324ef917148dab301c5bf]: Commencement: S. 230 in force at 1.4.2008 by [S.I. 2008/461](https://www.legislation.gov.uk/uksi/2008/461), [art. 2(3)](https://www.legislation.gov.uk/uksi/2008/461/article/2/3), [Sch.](https://www.legislation.gov.uk/uksi/2008/461/schedule)

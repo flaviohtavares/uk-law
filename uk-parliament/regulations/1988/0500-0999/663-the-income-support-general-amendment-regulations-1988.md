@@ -1,0 +1,643 @@
+---
+title: The Income Support (General) Amendment Regulations 1988
+id: uksi/1988/663
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '1988-03-30'
+text_date: '1996-10-07'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/uksi/1988/663
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1988/663/pdfs/uksi_19880663_en.pdf
+- http://www.legislation.gov.uk/uksi/1988/663/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Income Support (General) Amendment Regulations 1988
+
+> Text as at 1996-10-07.
+>
+> Extent: England, Wales, Scotland.
+
+*Extent: E+W+S*
+
+1988 No. 663
+
+SOCIAL SECURITY
+
+The Income Support (General) Amendment Regulations 1988
+
+Made
+
+30th March 1988
+
+Coming into force
+
+11th April 1988
+
+Whereas a draft of this instrument was laid before Parliament in accordance with section 83(3) of the Social Security Act 1986 and approved by resolution of each House of Parliament.
+
+Now, therefore, the Secretary of State for Social Services, in exercise of the powers conferred by sections 20(3)(d), (12)(b), (d) and (k), 21(1A), 22(1), (2), (4), (8) and (9), 23(5A) and 84(1) of the Social Security Act 1986[^f00001] and sections 166(1) to (3A) of the Social Security Act 1975[^f00002] and of all other powers enabling him in that behalf by this instrument, which is made before the end of a period of 12 months from the commencement of the enactments under which it is made, hereby makes the following Regulations:
+
+## 1. Citation, commencement and interpretation[^key-3eb0fff14f91a58e5b6192afc6509d12]
+
+(1) These Regulations may be cited as the Income Support (General) Amendment Regulations 1988 and shall come into force on 11th April 1988.
+
+(2) In these Regulations “the General Regulations” means the Income Support (General) Regulations 1987[^f00003].
+
+## 2. Amendment of regulation 2 of the General Regulations[^key-2cee1158ae8f5b872b6b900c122ebe1a]
+
+In regulation 2(1) of the General Regulations (interpretation) there shall be inserted after the definition of “terminal date” the following definition—
+
+> - “the Macfarlane Trust” means the charitable trust, established partly out of funds provided by the Secretary of State to the Haemophilia Society, for the relief of poverty or distress among those suffering from haemophilia;
+
+.
+
+## 3. Amendment of regulation 4 of the General Regulations[^key-295fb4f34c353b015975603c3451cbaf]
+
+In regulation 4(2)(c) of the General Regulations (temporary absence from Great Britain) at the end there shall be added the following—
+
+> or
+>
+> - (v) on the day on which the absence began he was, and had for the previous 28 weeks at least been, continuously incapable of work.
+
+.
+
+## 4. Amendment of regulation 5 of the General Regulations[^key-3b60deb5461e5cfa1f0d2cddaf7f19d6]
+
+In regulation 5(4) of the General Regulations (persons treated as engaged in remunerative work) after the word “applies” there shall be inserted the words “or applied”.
+
+## 5. Amendment of regulation 6 of the General Regulations[^key-0c1f1cc5d76c9a6739969eda46020069]
+
+In regulation 6(e) of the General Regulations (persons not treated as engaged in remunerative work) after the word “applies” there shall be inserted the words “or in respect of whom section 20(3) of the Act (conditions of entitlement to income support) has effect as modified by section 23A(b) of the Act[^f00004] (effect of return to work)”.
+
+## 6. Amendment of regulation 8 of the General Regulations[^key-aa13a9e22be4c9b4c95aba60d34a1b06][^key-c0983c25606c6504ab43515ad9d08788]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 7. Amendment of regulation 10 of the General Regulations[^key-aa13a9e22be4c9b4c95aba60d34a1b06][^key-d43a798c0a79a729df2cce18ee4b0255]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 8. Amendment of regulation 16 of the General Regulations[^key-dd6ad8208b977f7205c7e7a9a19250b7]
+
+In regulation 16 of the General Regulations (circumstances in which a person is to be treated as being or not being a member of the household)—
+
+- (a) in paragraph (1) for the words “where any of them” there shall be substituted the words “notwithstanding that any of them”;
+- (b) in paragraph (2) at the end there Shall be added the words “unless that person has been a patient within the meaning of regulation 21(3) for a period in excess of 52 weeks and is not a member of a couple or of a polygamous marriage”;
+- (c) in paragraph (3)(c) for the words “paragraph (a)” there shall be substituted the words “in any of sub-paragraphs (a) to (d)”;
+- (d) in paragraph (5)—
+  - (i) for the words “and he” there shall be substituted the words “and who”;
+  - (ii) in sub-paragraph (b) for the words “residential accommodation” there shall be substituted the words “accommodation provided under any of the provisions referred to in any of sub-paragraphs (a) to (d) of the definition of residential accommodation in regulation 21(3)”.
+
+## 9. Amendment of regulation 19 of the General Regulations[^key-b7031318cd1ec46650f9a0903c598cac]
+
+In regulation 19 of the General Regulations (applicable amounts for persons in residential care and nursing homes)—
+
+- (a) for paragraph (1) there shall be substituted the follow paragraphs—
+
+  > (1) Subject to regulation 22 (reduction of applicable amounts) where—
+  >
+  > - (a) the claimant lives in a residential care home or nursing home; or
+  > - (b) if the claimant is a member of a family, he and the members of his family live in such a home,
+  >
+  > his weekly applicable amount shall, except in a case to which regulation 21 (applicable amounts in special cases) or Part II of Schedule 4 (persons to whom regulation 19 does not apply) applies, be calculated in accordance with Part I of that Schedule.
+  >
+  > (1A) For the purposes of paragraph (1)(b) a claimant and the members of his family are to be taken as living in a residential care home or nursing home even during periods when one or more members of the family are temporarily absent from the home but only if the claimant or his partner is living in the home during any such period.
+
+  ;
+- (b) in paragraph (3)—
+  - (i) in the definition of “residential care home” for sub-paragraph (a)
+
+    there shall be substituted the following sub-paragraph—
+
+    > - (a) which is required to be registered under Part I of the Registered Homes Act 1984[^f00005] and is so registered; or
+
+    - and in sub-paragraph (b) at the beginning there shall be inserted the words “in England or Wales,”;
+  - (ii) in the definition of “temporary absence” at the beginning of sub-paragraph (a) there shall be inserted the words “in paragraph (2) or”.
+
+## 10. Amendment of regulation 20 of the General Regulations[^key-3fd006570b57d277aea71fecdddb2992]
+
+For paragraph (1) of regulation 20 of the General Regulations (applicable amounts for persons in board and lodging accommodation and hostels) there shall be substituted the following paragraphs—
+
+> (1) Subject to regulation 22 (reduction of applicable amounts) where—
+>
+> - (a) the claimant lives in board and lodging accommodation or a hostel; or
+> - (b) if the claimant is a member of a family, he and the members of his family live in such accommodation,
+>
+> his weekly applicable amount shall, except in a case to which regulation 21 (special cases) or Part II of Schedule 5 (persons to whom regulation 20 does not apply) applies, be calculated in accordance with Part I of that Schedule.
+>
+> (1A) For the purposes of paragraph (1)(b) claimant and the members of his family are to be taken as living in board and lodging accommodation or a hostel even during periods when one or more members of the family are temporarily absent from the accommodation but only if the claimant or his partner is living in the accommodation during any such period.
+
+.
+
+## 11. Amendment of regulation 22 of the General Regulations[^key-034a89f29de2592663d77456c431d106][^key-0f8f7d79ae9efb94f59a48c023d7b0df]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 12. Amendment of regulation 24 of the General Regulations[^key-b205faf5484ca5ebf68da4d4773d69a0]
+
+In regulation 24 (treatment of charitable or voluntary payments)—
+
+- (a) in paragraph (1) the words from and including “, other than one” to and including “applies,” shall be omitted;
+- (b) for paragraph (5) there shall be substituted the following paragraph—
+
+  > (5) This regulation shall not apply—
+  >
+  > - (a) to a person to whom section 23 of the Act (trade disputes) applies or in respect of whom section 20(3) of the Act (conditions of entitlement to income support) has effect as modified by section 23A(b) of the Act (effect of return to work) or to a member of his family;
+  > - (b) to a payment—
+  >   - (i) which is or is due to be made at regular intervals;
+  >   - (ii) to which regulation 44(2) (modifications in respect of children and young persons) applies; or
+  >   - (iii) made under the Macfarlane Trust.
+
+  .
+
+## 13. Substitution of regulation 27 of the General Regulations[^key-ad0d7ed3c10d175169152e63ffc49d53]
+
+For regulation 27 of the General Regulations (disregarding fractions) there shall be substituted the following regulation—
+
+> **27. Rounding of fractions**
+>
+> Where any calculation under this Part results in a fraction of a penny that fraction shall, if it would be to the claimant’s advantage, be treated as a penny, otherwise it shall be disregarded.
+
+.
+
+## 14. Amendment of regulation 31 of the General Regulations[^key-fd3b068d8c7854e39d08ad5aed55cf6b]
+
+In regulation 31(2) of the General Regulations (date on which income is treated as paid) for the words “it is paid” there shall be substituted the words “it is payable”.
+
+## 15. Amendment of regulation 32 of the General Regulations[^key-72586c313e3d76d46fcd89c6f36a08af]
+
+In regulation 32 of the General Regulations (calculation of weekly amount of income)—
+
+- (a) in paragraph (1) the words “and regulation 34 (incomplete benefit weeks)”, shall be omitted;
+- (b) in paragraph (4)(a) for the word “paid” there shall be substituted “payable”.
+
+## 16. Omission of regulation 34 of the General Regulations[^key-9350edb22b8e05ba69e377f7cf1486ce]
+
+Regulation 34 of the General Regulations (incomplete weeks of benefit) shall be omitted.
+
+## 17. Amendment of regulation 35 of the General Regulations[^key-30d894fa437d129d2659a79d8e2da4f6]
+
+In regulation 35(1)(d) of the General Regulations (earnings of employed persons) for the words from and including “, and for so long as” to the end there shall be substituted the words “section 23 of the Act (trade disputes) applies or in respect of whom section 20(3) of the Act (conditions of entitlement to income support) has effect as modified by section 23A(b) of the Act (effect of return to work).”.
+
+## 18. Amendment of regulation 41 of the General Regulations[^key-d6235370006238e96abac88de7b0ad9b]
+
+In regulation 41(3) of the General Regulations (capital treated as income) for the words “and for so long as it applies” there shall be substituted the words “or in respect of whom section 20(3) of the Act (conditions of entitlement to income support) has effect as modified by section 23A(b) of the Act (effect of return to work).”.
+
+## 19. Amendment of regulation 42 of the General Regulations[^key-5b37f53636d91fe3d3a0eb5357da489e]
+
+In regulation 42 of the General Regulations (notional income)—
+
+- (a) in paragraph (2) for the words “it would be so acquired” there shall be substituted the words “it could be expected to be acquired were an application made”;
+- (b) in paragraph (4)—
+  - (i) at the beginning for the words “Any payment of income” there shall be substituted the words “Any payment of income, other than a payment of income made under the Macfarlane Trust,”;
+  - (ii) in Sub-paragraph (a)(ii) after the words “17(e) or 18(f) (housing costs)” there shall be inserted the words “or accommodation charge to the extent that it is met under regulation 19 or 20 (persons in residential care or nursing homes or in board and lodging accommodation or hostels)”.
+
+## 20. Amendment of regulation 44 of the General Regulations[^key-0edb64df07d5b1382c22431436201c3c]
+
+In regulation 44 of the General Regulations (modifications in respect of children and young persons), after paragraph (8) there shall be added the following paragraph—
+
+> (9) For the purposes of this regulation, a child or young person shall not be treated as present at his educational establishment on any day if on that day he spends the night with the claimant or a member of his household.
+
+.
+
+## 21. Amendment of regulation 48 of the General Regulations[^key-b77bd8e9839adafb202656b27a4b8b36]
+
+For paragraph (6) of regulation 48 (income treated as capital) there shall be substituted the following paragraph—
+
+> (6) Paragraph (5) shall not apply to a person to whom section 23 of the Act (trade disputes) applies or in respect of whom section 20(3) of the Act (conditions of entitlement to income support) has effect as modified by section 23A(b) (effect of return to work).
+
+.
+
+## 22. Amendment of regulation 51 of the General Regulations[^key-2f29f2a96840d4806dddf04c220f518d]
+
+In regulation 51 of the General Regulations (notional capital)—
+
+- (a) in paragraph (2) for the words “it would be so acquired” there shall be substituted the words “it could be expected to be acquired were an application made”;
+- (b) in paragraph (3)—
+  - (i) at the beginning for the words “Any payment of capital” there shall be substituted the words “Any payment of capital, other than a payment of capital made under the Macfarlane Trust,”;
+  - (ii) in sub-paragraph (a)(ii) after the words “17(e) or 18(f) (housing costs)” there shall be inserted the words “or accommodation charge to the extent that it is met under regulation 19 or 20 (persons in residential care or nursing homes or in board and lodging accommodation or hostels);”;
+- (c) after paragraph (6) there shall be added the following paragraph—
+
+  > (7) For the avoidance of doubt a claimant is to be treated as possessing capital under paragraph (1) only if the capital of which he has deprived himself is actual capital.
+
+  .
+
+## 23. Amendment of regulation 54 of the General Regulations[^key-a87a828e44b49982d15ae04a944f70ed]
+
+In regulation 54 of the General Regulations (liable relatives) in the definition of “payment” for the words “it would be so acquired” there shall be substituted the words “it could be expected to be acquired were an application made”.
+
+## 24. Amendment of regulation 62 of the General Regulations[^key-abc02f6977c690a561a45cbff88ba048]
+
+In regulation 62 of the General Regulations (calculation of grant income)—
+
+- (a) in paragraph (3) after the words “grant income” there shall be inserted the words “, except any amount intended for the maintenance of dependants under Part 3 of Schedule 2 to the Education (Mandatory Awards) Regulations 1987[^f00007] or intended for an older student under Part 4 of that Schedule,”;
+- (b) after paragraph (3) there shall be inserted the following paragraph—
+
+  > (3A) Any amount intended for the maintenance of dependants or for an older student under the provisions referred to in paragraph (3) shall be apportioned equally over a period of 52 weeks or, if there are 53 benefit weeks (including part-weeks) in the year, 53.
+
+  .
+
+## 25. Amendment of regulation 71 of the General Regulations[^key-f2c64f30d6fc552de65c8ce32d6b8774]
+
+In regulation 71 of the General Regulations (applicable amount in urgent cases)—
+
+- (a) in paragraph (1)(a) for the words “sub-paragraph (b) or (c)” there shall be substituted the words “sub-paragraph (b), (c) or (d),”;
+- (b) after paragraph (1)(c) there shall be added the following sub-paragraph—
+
+  > - (d) except where sub-paragraph (b) or (c) applies, in the case of a person to whom any paragraph, other than paragraph 17, in column (1) of Schedule 7 (special cases) applies, the amount shall be 90% of the amount applicable in column 2 of that Schedule in respect of the claimant and partner (if any), plus, if applicable—
+  >   - (i) any amount in respect of a child or young person who is a member of the family except a child or young person whose capital, if calculated in accordance.e with Part V in like manner as for the claimant, except where otherwise provided, would exceed £3,000;
+  >   - (ii) any premium under paragraph 9 or l0 of Schedule 2; and
+  >   - (iii) any housing costs under regulation 17(e)
+  >
+  >     or 18(f).
+
+  ;
+- (c) after paragraph (2) there shall be added the following paragraph—
+
+  > (3) Where the calculation of a claimant’s applicable amount under this regulation results in a fraction of a penny that fraction shall be treated as a penny.
+
+  .
+
+## 26. Amendment of regulation 72 of the General Regulations[^key-66db88a22340cd73b473f908d3eacc9a]
+
+In regulation 72(1)(a) of the General Regulations (assessment of income and capital in urgent cases) after the words “any income” there shall be inserted the words “, other than income-disregarded under paragraph 39 of Schedule 9 (income to be disregarded),”.
+
+## 27. Insertion of Part VII into the General Regulations[^key-e557216e9d21e7b162ce24386ea2f90f]
+
+After Part VI of the General Regulations (urgent cases) there shall be inserted the following Part—
+
+> **PART VII — CALCULATION OF INCOME SUPPORT FOR PART-WEEKS**
+>
+> **73. Amount of income support payable**
+>
+> (1) Subject to regulations 75 (modifications in income) and 76 (reduction in certain cases), where a claimant is entitled to income support for a period (referred to in this Part as a part-week) to which subsection (1A) of section 21 of the Act (amount etc. of income-related benefit[^f00008]) applies, the amount of income support payable shall, except where paragraph (2) applies, be calculated in accordance with the following formulae—
+>
+> - (a) if the claimant has no income,
+>
+>   [formula: see source](https://www.legislation.gov.uk/uksi/1988/663)
+> - (b) if the claimant has income,
+>
+>   [formula: see source](https://www.legislation.gov.uk/uksi/1988/663)
+>
+> (2) Subject to regulations 75 and 76, in the case of a claimant to whom regulation 19 or, as the case may be, 20 (persons in residential care or nursing homes or board and lodging accommodation or hostels) applies, where the weekly charge for the accommodation is due to be paid during a part-week to which regulation 74(1)(a) or (b) applies, the amount of income Support payable shall be calculated in accordance with the following formulae—
+>
+> - (a) if the claimant has no income, A;
+> - (b) if the claimant has income, (A − I) − B.
+>
+> (3) In this Regulation—
+>
+> - “A”, Subject to paragraph (4), means the claimant’s weekly applicable amount in the relevant week;
+> - “B” means the amount of any income support, unemployment benefit, sickness or invalidity benefit, or severe disablement allowance payable in respect of any day in the part-week;
+> - “I” means his weekly income in the relevant week less B;
+> - “N” means the number of days in the part-week;
+> - “relevant week” means the period of 7 days determined in accordance with regulation 74.
+>
+> (4) In a case to which paragraph (2) applies, a claimant’s weekly applicable amount shall be—
+>
+> - (a) where the weekly charge for the accommodation includes all meals, the aggregate of the following amounts—
+>   - (i) the weekly charge for the accommodation determined in accordance with paragraph 1(1)(a) of Schedule 4 or, as the case may be, Schedule 5; and
+>   - (ii) the amount calculated in accordance with the formula—
+>
+>     [formula: see source](https://www.legislation.gov.uk/uksi/1988/663)
+> - (b) where the weekly charge for the accommodation does not include all meals, the aggregate of the following amounts':
+>   - (i) the weekly charge for the accommodation determined in accordance with paragraph 1(1)(a) of Schedule 4 or, as the case may be, Schedule 5 less M; and
+>   - (ii) the amount calculated in accordance with the formula—
+>
+>     [formula: see source](https://www.legislation.gov.uk/uksi/1988/663)
+>
+>     .
+>
+> (5) In paragraph (4)—
+>
+> - “H” means the weekly amount determined in accordance with paragraph 1(1)(c) of Schedule 4 or, as the case may be, Schedule 5;
+> - “M” means the amount of the increase for meals calculated on a weekly basis in accordance with paragraph 2 of Schedule 4 or, as the case may be, Schedule 5;
+> - “P” means the weekly amount for personal expenses determined in accordance with paragraph 13 of Schedule 4 or, as the case may be, paragraph 11 of Schedule 5.
+>
+> **74. Relevant week**
+>
+> (1) Where the part-week—
+>
+> - (a) is the whole period for which income support is payable or occurs at the beginning of the claim, the relevant week is the period of 7 days ending on the last day of that part-week; or
+> - (b) occurs at the end of the claim, the relevant week is the period of 7 days beginning on the first day of that part-week.
+>
+> (2) Where during the currency of a claim the claimant makes a claim for a relevant social security benefit within the meaning of paragraph 4 of Schedule 7 to the Social Security (Claims and Payments) Regulations 1987[^f00009] and as a result his benefit week changes, for the purpose of calculating the amount of income support payable—
+>
+> - (a) for the part-week beginning on the day after his last complete benefit week before the date from which he makes a claim for the relevant social security benefit and ending immediately before that date, the relevant week is the period of 7 days beginning on the day after his last complete benefit week (the first relevant week);
+> - (b) for the part-week beginning on the date from which he makes a claim for the relevant social security benefit and ending immediately before the start of his next benefit week after the date of that claim, the relevant week is the period of 7 days ending immediately before the start of his next benefit week (the second relevant week).
+>
+> (3) Where during the currency of a claim the claimant’s benefit week changes at the direction of the Secretary of State under paragraph 3 of Schedule 7 to the Social Security (Claims and Payments) Regulations 1987, for the purpose of calculating the amount of income Support payable for the part-week beginning on the day after his last complete benefit week before the change and ending immediately before the change, the relevant week is the period of 7 days beginning On the day after the last complete benefit week.
+>
+> **75. Modifications in the calculation of income**
+>
+> For the purposes of regulation 73 (amount of income support payable for part-weeks), a claimant’s income and the income of any person which the claimant is treated as possessing under section 22(5) of the Act or regulation 23(3) shall be calculated in accordance with Part V and, where applicable, VI subject to the following modifications—
+>
+> - (a) any income which is due to be paid in the relevant week shall be treated as paid on the first day of that week;
+> - (b) any income Support, unemployment benefit, Sickness or invalidity benefit, or severe disablement allowance under the Social Security Act payable in the relevant week but not in respect of any day in the part-week shall be disregarded;
+> - (c) where the part-week occurs at the end of the claim, any income or any change in the amount of income of the same kind which is first payable within the relevant week but not on any day in the part-week shall be disregarded;
+> - (d) where the part-week occurs immediately after a period in which a person was treated as engaged in remunerative work under regulation 5(5) (persons treated as engaged in remunerative work) any earnings which are taken into account for the purposes of determining that period shall be disregarded;
+> - (e) where regulation 74(2) (relevant week) applies, any payment of income which—
+>   - (i) is the final payment in a series of payments of the same kind or, if there has been an interruption in such payments, the last one before the interruption;
+>   - (ii) is payable in respect of a period not exceeding a week; and
+>   - (iii) is due to be paid on a day which falls within both the first and second relevant weeks,
+>
+>   shall be taken into account in either the first relevant week or, if it is impracticable to take it into account in that week, in the second relevant week; but this paragraph shall not apply to a payment of income support, unemployment benefit, sickness or invalidity benefit or severe disablement allowance under the Social Security Act;
+> - (f) where regulation 74(2) applies, any payment of income which—
+>   - (i) is the final payment in a series of payments of the same kind or, if there has been an interruption in such payments, the last one before the interruption;
+>   - (ii) is payable in respect of a period exceeding a week but not exceeding 2 weeks; and
+>   - (iii) is due to be paid on a day which falls within both the first and second relevant weeks,
+>
+>   shall be disregarded; but this sub-paragraph shall not apply to a payment of income support, unemployment benefit, sickness or invalidity benefit, or severe disablement allowance under the Social Security Act;
+> - (g) where regulation 74(2) applies, if the weekly amount of any income which is due to be paid on a day which falls within both the first and second relevant weeks is more than the weekly amount of income of the same kind due to be paid in the last complete benefit week, the excess shall be disregarded;
+> - (h) where only part of the weekly amount of income is taken into account in the relevant week, the balance shall be disregarded.
+>
+> **76. Reduction in certain cases**
+>
+> There shall be deducted from the amount of income support which would, but for this regulation, be payable for a part-week—
+>
+> - (a) in the case of a claimant to whom regulation 22(1) or (2) (reductions in weekly applicable amounts in certain cases of unemployment benefit disqualification) applies, the proportion of the relevant amount specified therein appropriate to the number of days in the part-week;
+> - (b) where regulation 75(f) (modifications in the calculation of income) applies, one-half of the amount disregarded under regulation 75(f) less the weekly amount of any disregard under Schedule 8 or 9 appropriate to that payment.
+>
+> **77. Modification of section 23(5) of the Act**
+>
+> Where income support is payable for a part-week, section 23(5) of the Act (trade disputes) shall have effect as if the following paragraph were substituted for paragraph (b)—
+>
+> > - (b) any payment by way of income support for a part-week which apart from this paragraph would be made to him, or to a person whose applicable amount is aggregated with his—
+> >   - (i) shall not be made if the payment for that part-week is equal to or less than the proportion of the relevant sum appropriate to the number of days in the part-week; or
+> >   - (ii) if it is more than that proportion, shall be made at a rate equal to the difference.
+
+.
+
+## 28. Amendment of Schedule 1 to the General Regulations[^key-35c17416a4e8f0942d53df56e5d44485][^key-fdd792d226d74abaa1999dd0de93b008]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 29. Amendment of Schedule 2 to the General Regulations[^key-c42e3f980dae88a9987121440fdafe3a]
+
+In Schedule 2 to the General Regulations (applicable amounts)—
+
+- (a) in paragraph 10 after the words “paragraph 12(1)(a)” wherever they appear there shall be inserted the words “or (c)”;
+- (b) in paragraph 11—
+  - (i) in sub-paragraph (b)(i) for the words “12(1)(a) or (b)” there shall be substituted the words “12(1)(a), (b) or (c)”;
+  - (ii) in sub-paragraph (b)(ii) after “12(1)(a)” there shall be inserted the words “or (c)”;
+- (c) in paragraph 12—
+  - (i) in sub-paragraph (1)(a)(i) after the words “that Act” there shall be inserted the following words “but, in the case of invalidity pension or severe disablement allowance only where it is paid in respect of him”;
+  - (ii) in sub-paragraph (1)(b) for the words “a period” there shall be substituted the words “a continuous period”.
+- (d) after sub-paragraph (3) of paragraph 13 there shall be inserted the following sub-paragraph—
+
+  > (3A) For the purposes of sub-paragraph (2)(b) a person shall be treated as being in receipt of—
+  >
+  > - (a) attendance allowance if he would, but for his being a patient for a period exceeding 28 days, be so in receipt;
+  > - (b) invalid care allowance if he would, but for the person for whom he was caring being a patient in hospital for a period exceeding 28 days, be so in receipt.
+
+  .
+- (e) in paragraph 15(5)(b)(i) at the end there shall be added the words “or if he or any partner satisfies that condition only by virtue of paragraph 13(3A)”.
+
+## 30. Amendment of Schedule 3 to the General Regulations[^key-16b564b534c4f156571f5c7d1c87d274][^key-909dd72ec068c8cd5303597aa524d7b5]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 31. Amendment of Schedule 4 to the General Regulations[^key-bed2992032a157709de7659b545b7366]
+
+In Schedule 4 to the General Regulations (persons in residential care and nursing homes)—
+
+- (a) paragraph 4 shall be omitted;
+- (b) for paragraph 14 there shall be substituted the following paragraph—
+
+  > **14.** A claimant or, if he is a member of a family, the claimant and the members of his family where the accommodation and meals (if any) of the claimant or, as the case may be, the claimant and the members of his family are provided in whole or in part by a close relative of his or of any member of his family, or other than on a commercial basis.
+
+  .
+
+## 32. Amendment of Schedule 5 to the General Regulations[^key-b55f56705ea181a971936a3cdc88515a]
+
+In Schedule 5 to the General Regulations (persons in board and lodging accommodation or hostels)—
+
+- (a) paragraph 4 shall be omitted;
+- (b) for paragraph 12 there shall be substituted the following paragraph—
+
+  > **12.** A claimant or, if he is a member of a family, the claimant and the members of his family where the accommodation and meals (if any) of the claimant or, as the case may be, the claimant and the members of his family are provided in whole or in part by a close relative of his or of any member of his family, or other than on a commercial basis.
+
+  .
+
+## 33. Amendment of Schedule 7 to the General Regulations[^key-c9aa98968a1ca8e59ca1755438031748]
+
+In Schedule 7 to the General Regulations (special cases)—
+
+- (a) in column (1), in paragraphs 9 and 10, Sub-paragraph (c) in each of those paragraphs shall be omitted;
+- (b) after paragraph 10 there shall be inserted the following paragraphs—
+
+  > |  |  |
+  > | --- | --- |
+  > | **10A. Single claimants temporarily in local authority accommodation**<br>Except where paragraph 10B(4) applies, a single claimant who is temporarily in accommodation referred to in any of sub-paragraphs (a) to (d) of the definition of residential accommodation in regulation 21(3) (special cases). | **10A.** The applicable amount in respect of him prescribed under regulation 17. |
+  > | **10B. Couples and members of polygamous marriages where one member is or all are temporarily in local authority accommodation**<br>—<br>(1) A claimant who is a member of a couple and temporarily separated from his partner where one of them is living in the home while the other is in accommodation referred to in any of sub-paragraphs (a) to (d) of the definition of residential accommodation in regulation 21(3) (special cases). | (1) The aggregate of the amount applicable for the member who remains in the home calculated as if he were a single claimant under regulation 17, 19, 20 or 21 and in respect of the other member, £41.15 of which £32.90 is in respect of the cost of the accommodation and £8.25 for personal expenses. |
+  > | (2) A claimant who is a member of a polygamous marriage and who is temporarily separated from a partner of his where one is, or some are, living in the home while one is, or some are, in accommodation referred to in sub-paragraph (1). | (2) The aggregate of the amount applicable, for the members of the polygamous marriage who remain in the home, under regulation 18 and in respect of each member not in the home £41.15 of which £32.90 is in respect of the accommodation and £8.25 for personal expenses. |
+  > | (3) A claimant who is a member of a couple or a member of a polygamous marriage where both members of that couple or all the members of that marriage are in accommodation referred to in sub-paragraph (1). | (3) For each member of that couple or marriage £41.15, of which £32.90 is in respect of the accommodation and £8.25 for personal expenses plus, if appropriate, the amount applicable under regulation 17(e) or 18(f). |
+  > | (4) A claimant who is a member of a couple or of a polygamous marriage to whom regulation 16(1) (members of the household) does not apply by virtue of sub-paragraph (3)(c) of that regulation where the member is in accommodation referred to in subparagraph (1). | (4) £41.15 of which £32.90 is in respect of the accommodation and £8.25 for personal expenses |
+
+  ;
+- (c) in column (1), in paragraph 16(a) for the words “of regulation 21(3)” there shall be substituted the words “of the definition of residential accommodation in regulation 21(3)”:
+- (d) in column 2, in paragraph 18—
+  - (i) in paragraph (b)(ii), in case three, for the words “sub-paragraph (b)(iii)” there shall be substituted the words “Sub-paragraph (b)(ii)”;
+  - (ii) in sub-paragraph (b)(iii), in case two, for the words “sub-paragraph (b)(ii)” there shall be substituted the words “sub-paragraph (b)(iii)”;
+  - (iii) in sub-paragraph (b)(iv), in case two, for the words “a member” and “that member” there shall be substituted in both places the words “each member”;
+  - (iv) in sub-paragraph (b)(iv), in case four, for the words from and including “and the member of the couple” to and including “lone parent patient” there shall be substituted the words “remaining in the accommodation and the members of the couple or polygamous marriage”.
+
+## 34. Amendment of Schedule 8 to the General Regulations[^key-948f1ff46febb0e15e46b2ef5a464a9f]
+
+Schedule 8 to the General Regulations (sums to be disregarded in the calculation of earnings)—
+
+- (a) in paragraphs 1 and 2 after the words “as an employed earner” there shall be inserted the words “or, had the employment been in Great Britain, would have been so engaged”;
+- (b) in paragraph 3 after the words “as a self-employed earner” there shall be inserted the words “or, had the employment been in Great Britain, would have been so engaged”.
+
+## 35. Amendment of Schedule 9 to the General Regulations[^key-72a74babb36f65a57802c84d290e6cea]
+
+In Schedule 9 to the General Regulations (sums to be disregarded in the calculation of income other than earnings)—
+
+- (a) after paragraph 4 there shall be inserted the following paragraph—
+
+  > **4A.** In the case of the payment of statutory sick pay under Part II of the Social Security (Northern Ireland) Order 1982[^f00010] or statutory maternIty pay under Part VI of the Social Security (Northern Ireland) Order 1986[^f00011]—
+  >
+  > - (a) any amount deducted by way of primary Class 1 contributions under the Social Security (Northern Ireland) Act 1975[^f00012];
+  > - (b) one-half of any sum paid by way of a contribution towards an occupational or personal pension scheme.
+- (b) for paragraph 13 there shall be substituted the following paragraph—
+
+  > **13.** In the case of a claimant participating in arrangements for training made under section 2 of the Employment and Training Act 1973[^f00013] or attending a course at an employment rehabilitation centre established under that section—
+  >
+  > - (a) any travelling expenses reimbursed to the claimant;
+  > - (b) any living away from home allowance under section 2(2)(d) of that Act but only to the extent that rent or rates payable in respect of accommodation not normally occupied by him as his home are not met by housing benefit;
+  > - (c) any training premium,
+  >
+  > but this paragraph, except in so far as it relates to a payment under subparagraph (a), (b) or (c), does not apply to any part of any allowance under section 2(2)(d) of that Act.
+
+  ;
+- (c) in paragraphs 15 and 28 for the words “and for so long as it applies” there shall be substituted the words “or in respect of whom section 20(3) of the Act (conditions of entitlement to income support) has effect as modified by section 23A(b) of the Act (effect of return to work)”;
+- (d) for paragraph 21 there shall be substituted the following paragraph—
+
+  > **21.** (1) Subject to sub-paragraph (2), except where regulation 42(4)(a)(i) (notional income) applies or in the case of a person to whom section 23 of the Act (trade disputes) applies, any income in kind;
+  >
+  > (2) The exception under sub-paragraph (1) shall not apply where the income in kind is received from the Macfarlane Trust.
+
+  ;
+- (e)[^key-c65c9059dbe61532b43b127bc5ef2d83] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (f) after paragraph 37 there shall be added the following paragraphs—
+
+  > **38.** Any resettlement benefit which is paid to the claimant by virtue of regulation 3 of the Social Security (Hospital In-Patients) Amendment (No. 2) Regulations 1987[^f00014].
+  >
+  > **39.** Any payment made under the Macfarlane Trust.
+
+  .
+
+## 36. Amendment of Schedule 10 to the General Regulations[^key-95c1882df61ac66829d27d99ad234ae2]
+
+In Schedule 10 to the General Regulations (capital to be disregarded)—
+
+- (a) in paragraph 17 for the words “and for so long as it applies” there shall be Substituted the words “or in respect of whom section 20(3) of the Act (conditions of entitlement to income support) has effect as modified by section 23A(b) of the Act (effect of return to work)”;
+- (b) after paragraph 21 there shall be added the following paragraphs—
+
+  > **22.** Any payment made under the Macfarlane Trust and any sum derived from such a payment.
+  >
+  > **23.** The value of the right to receive an occupational pension.
+  >
+  > **24.** The value of the right to receive any rent.
+
+  .
+
+Signed by authority of the Secretary of State for Social Services.
+
+Michael Portillo
+
+Parliamentary Under-Secretary of State,
+
+Department of Health and Social Security
+
+30th March 1988
+
+(This note is not part of the Regulations)
+
+These Regulations amend the Income Support (General) Regulations 1987 with effect from 11th April 1988.
+
+The principal changes are as follows:
+
+- (a) they insert a new Part VII to make provision for the calculation of income support payable for periods of less than a week and modify section 23(5) of the Act (trade disputes) in such cases (regulation 27);
+- (b) they amend Part V to provide, in the calculation of income and capital, for the disregard of charitable payments made to haemophiliacs under the Macfarlane Trust and of certain other payments; and make a number of miscellaneous amendments to that Part (regulations 2, 12 to 24,26, and 34 to 36);
+- (c) they extend the provisions for entitlement to income support whilst abroad to persons who have been incapable of work for at least 28 weeks (regulation 3); except persons in cases of hardship from the requirement to be available for work (regulation 6); increase, in cases of voluntary unemployment, the maximum period for reductions in applicable amounts and non-availability for employment from 13 to 26 weeks (regulations 7 and 11(b)); provide for a single person in hospital over 52 weeks to be treated as a member of the household and for a partner in local authority accommodation provided under certain enactments not to be so treated (regulation 8(b) and (c)); amend the definition of residential care home and limit the requirements imposed for small unregistered homes to homes in England and Wales (regulation 9(b));
+- (d) they extend the urgent cases provisions to claimants of a specified description (regulation 25); provide in certain circumstances for entitlement to a higher pensioner or severe disablement premium where mobility or attendance allowance is not in payment (regulation 29); and make provision for determining the applicable amount of persons temporarily in local authority accommodation (regulation 33).
+
+The Regulations also make a number of minor or drafting amendments (regulations 8(a) and (d), 9(a), l0, 30, 31(b), 32(b), 33(c) and (d)), and amendments consequential on the insertion of the new section 23A of the Social Security Act 1986 made by the Social Security Act 1988 (regulations 4, 5, 12(b), 17, 18, 21, 28, 36(b), and 36(d)) or on these Regulations (regulations 11(a), 31(a), 32(a)).
+
+These Regulations are made before the expiry of 12 months from the commencement of the provisions under which they are made; they are accordingly exempt by section 61(5) of the Social Security Act 1986 from reference to the Social Security Advisory Committee and have not been so referred.
+
+## Annotations
+
+[^f00001]: Footnote: [1986 c. 50](https://www.legislation.gov.uk/ukpga/1986/50); sections 21(1A) and 23(5A) were inserted by the Social Security Act [1988 (c. 7)](https://www.legislation.gov.uk/ukpga/1988/7), Schedule 4 paragraphs 23 and 24 respectively; section 84(1) is an interpretation provision and is cited because of the meanings assigned to the words “prescribed” and “regulations”.
+
+[^f00002]: Footnote: [1975 c. 14](https://www.legislation.gov.uk/ukpga/1975/14): section 166(3A) is inserted by section 62 of the Social Security Act 1986 and section 166(1) to (3A) is applied by section 83(1) of that Act.
+
+[^key-3eb0fff14f91a58e5b6192afc6509d12]: Commencement: Reg. 1 in force at 11.4.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/663/regulation/1/1)
+
+[^f00003]: Footnote: [S.I. 1987/1967](https://www.legislation.gov.uk/uksi/1987/1967)
+
+[^key-2cee1158ae8f5b872b6b900c122ebe1a]: Commencement: Reg. 2 in force at 11.4.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/663/regulation/1/1)
+
+[^key-295fb4f34c353b015975603c3451cbaf]: Commencement: Reg. 3 in force at 11.4.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/663/regulation/1/1)
+
+[^key-3b60deb5461e5cfa1f0d2cddaf7f19d6]: Commencement: Reg. 4 in force at 11.4.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/663/regulation/1/1)
+
+[^key-0c1f1cc5d76c9a6739969eda46020069]: Commencement: Reg. 5 in force at 11.4.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/663/regulation/1/1)
+
+[^f00004]: Footnote: Section 23A was added by the Social Security Act 1988, Schedule 4. paragraph 25.
+
+[^key-aa13a9e22be4c9b4c95aba60d34a1b06]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/uksi/1988/663/regulation/6) revoked (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Income Support (General) (Jobseeker’s Allowance Consequential Amendments) Regulations 1996 (S.I. 1996/206)](https://www.legislation.gov.uk/uksi/1996/206), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1996/206/regulation/1/1), [28](https://www.legislation.gov.uk/uksi/1996/206/regulation/28), [Sch. 3](https://www.legislation.gov.uk/uksi/1996/206/schedule/3)
+
+[^key-c0983c25606c6504ab43515ad9d08788]: Commencement: Reg. 6 in force at 11.4.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/663/regulation/1/1)
+
+[^key-d43a798c0a79a729df2cce18ee4b0255]: Commencement: Reg. 7 in force at 11.4.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/663/regulation/1/1)
+
+[^key-dd6ad8208b977f7205c7e7a9a19250b7]: Commencement: Reg. 8 in force at 11.4.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/663/regulation/1/1)
+
+[^key-b7031318cd1ec46650f9a0903c598cac]: Commencement: Reg. 9 in force at 11.4.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/663/regulation/1/1)
+
+[^f00005]: Footnote: [1984 c. 23](https://www.legislation.gov.uk/ukpga/1984/23)
+
+[^key-3fd006570b57d277aea71fecdddb2992]: Commencement: Reg. 10 in force at 11.4.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/663/regulation/1/1)
+
+[^key-034a89f29de2592663d77456c431d106]: Textual amendment: [Reg. 11](https://www.legislation.gov.uk/uksi/1988/663/regulation/11) revoked (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Income Support (General) (Jobseeker’s Allowance Consequential Amendments) Regulations 1996 (S.I. 1996/206)](https://www.legislation.gov.uk/uksi/1996/206), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1996/206/regulation/1/1), [28](https://www.legislation.gov.uk/uksi/1996/206/regulation/28), [Sch. 3](https://www.legislation.gov.uk/uksi/1996/206/schedule/3)
+
+[^key-0f8f7d79ae9efb94f59a48c023d7b0df]: Commencement: Reg. 11 in force at 11.4.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/663/regulation/1/1)
+
+[^key-b205faf5484ca5ebf68da4d4773d69a0]: Commencement: Reg. 12 in force at 11.4.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/663/regulation/1/1)
+
+[^key-ad0d7ed3c10d175169152e63ffc49d53]: Commencement: Reg. 13 in force at 11.4.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/663/regulation/1/1)
+
+[^key-fd3b068d8c7854e39d08ad5aed55cf6b]: Commencement: Reg. 14 in force at 11.4.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/663/regulation/1/1)
+
+[^key-72586c313e3d76d46fcd89c6f36a08af]: Commencement: Reg. 15 in force at 11.4.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/663/regulation/1/1)
+
+[^key-9350edb22b8e05ba69e377f7cf1486ce]: Commencement: Reg. 16 in force at 11.4.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/663/regulation/1/1)
+
+[^key-30d894fa437d129d2659a79d8e2da4f6]: Commencement: Reg. 17 in force at 11.4.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/663/regulation/1/1)
+
+[^key-d6235370006238e96abac88de7b0ad9b]: Commencement: Reg. 18 in force at 11.4.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/663/regulation/1/1)
+
+[^key-5b37f53636d91fe3d3a0eb5357da489e]: Commencement: Reg. 19 in force at 11.4.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/663/regulation/1/1)
+
+[^key-0edb64df07d5b1382c22431436201c3c]: Commencement: Reg. 20 in force at 11.4.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/663/regulation/1/1)
+
+[^key-b77bd8e9839adafb202656b27a4b8b36]: Commencement: Reg. 21 in force at 11.4.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/663/regulation/1/1)
+
+[^key-2f29f2a96840d4806dddf04c220f518d]: Commencement: Reg. 22 in force at 11.4.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/663/regulation/1/1)
+
+[^key-a87a828e44b49982d15ae04a944f70ed]: Commencement: Reg. 23 in force at 11.4.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/663/regulation/1/1)
+
+[^key-abc02f6977c690a561a45cbff88ba048]: Commencement: Reg. 24 in force at 11.4.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/663/regulation/1/1)
+
+[^f00007]: Footnote: [S.I. 1987/1261](https://www.legislation.gov.uk/uksi/1987/1261)
+
+[^key-f2c64f30d6fc552de65c8ce32d6b8774]: Commencement: Reg. 25 in force at 11.4.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/663/regulation/1/1)
+
+[^key-66db88a22340cd73b473f908d3eacc9a]: Commencement: Reg. 26 in force at 11.4.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/663/regulation/1/1)
+
+[^key-e557216e9d21e7b162ce24386ea2f90f]: Commencement: Reg. 27 in force at 11.4.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/663/regulation/1/1)
+
+[^f00008]: Footnote: Subsection (1A) was inserted by the Social Security Act [1988 (c. 7)](https://www.legislation.gov.uk/ukpga/1988/7), Schedule 4. paragraph 23(2).
+
+[^f00009]: Footnote: [S.I. 1987/1968](https://www.legislation.gov.uk/uksi/1987/1968)
+
+[^key-35c17416a4e8f0942d53df56e5d44485]: Textual amendment: [Reg. 28](https://www.legislation.gov.uk/uksi/1988/663/regulation/28) revoked (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Income Support (General) (Jobseeker’s Allowance Consequential Amendments) Regulations 1996 (S.I. 1996/206)](https://www.legislation.gov.uk/uksi/1996/206), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1996/206/regulation/1/1), [28](https://www.legislation.gov.uk/uksi/1996/206/regulation/28), [Sch. 3](https://www.legislation.gov.uk/uksi/1996/206/schedule/3)
+
+[^key-fdd792d226d74abaa1999dd0de93b008]: Commencement: Reg. 28 in force at 11.4.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/663/regulation/1/1)
+
+[^key-c42e3f980dae88a9987121440fdafe3a]: Commencement: Reg. 29 in force at 11.4.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/663/regulation/1/1)
+
+[^key-16b564b534c4f156571f5c7d1c87d274]: Textual amendment: [Reg. 30](https://www.legislation.gov.uk/uksi/1988/663/regulation/30) revoked (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Social Security (Income Support and Claims and Payments) Amendment Regulations 1995 (S.I. 1995/1613)](https://www.legislation.gov.uk/uksi/1995/1613), [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1613/regulation/1/1), [Sch. 4](https://editorial.legislation.gov.uk/uksi/1995/1613/schedule/REVOCATIONS) (with [reg. 5(2)](https://www.legislation.gov.uk/uksi/1995/1613/regulation/5/2))
+
+[^key-909dd72ec068c8cd5303597aa524d7b5]: Commencement: Reg. 30 in force at 11.4.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/663/regulation/1/1)
+
+[^key-bed2992032a157709de7659b545b7366]: Commencement: Reg. 31 in force at 11.4.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/663/regulation/1/1)
+
+[^key-b55f56705ea181a971936a3cdc88515a]: Commencement: Reg. 32 in force at 11.4.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/663/regulation/1/1)
+
+[^key-c9aa98968a1ca8e59ca1755438031748]: Commencement: Reg. 33 in force at 11.4.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/663/regulation/1/1)
+
+[^key-948f1ff46febb0e15e46b2ef5a464a9f]: Commencement: Reg. 34 in force at 11.4.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/663/regulation/1/1)
+
+[^key-72a74babb36f65a57802c84d290e6cea]: Commencement: Reg. 35 in force at 11.4.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/663/regulation/1/1)
+
+[^f00010]: Footnote: [S.I. 1982/1086 (N.I. 6)](https://www.legislation.gov.uk/nisi/1982/1086).
+
+[^f00011]: Footnote: [S.I. 1986/1888 (N.I. 18)](https://www.legislation.gov.uk/nisi/1986/1888).
+
+[^f00012]: Footnote: [1975 c. 15 (N.I.)](https://www.legislation.gov.uk/ukpga/1975/15).
+
+[^f00013]: Footnote: [1973 c. 50](https://www.legislation.gov.uk/ukpga/1973/50): section 2 was amended by sections 9 and 11, Schedule 2, Part II, paragraph 9 and Schedule 3 of the Employment and Training Act [1981 (c. 57)](https://www.legislation.gov.uk/ukpga/1981/57)
+
+[^key-c65c9059dbe61532b43b127bc5ef2d83]: Textual amendment: [Reg. 35(e)](https://www.legislation.gov.uk/uksi/1988/663/regulation/35/e) revoked (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Social Security (Income Support and Claims and Payments) Amendment Regulations 1995 (S.I. 1995/1613)](https://www.legislation.gov.uk/uksi/1995/1613), [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1613/regulation/1/1), [Sch. 4](https://editorial.legislation.gov.uk/uksi/1995/1613/schedule/REVOCATIONS) (with [reg. 5(2)](https://www.legislation.gov.uk/uksi/1995/1613/regulation/5/2))
+
+[^f00014]: Footnote: [S.I. 1987/1683](https://www.legislation.gov.uk/uksi/1987/1683)
+
+[^key-95c1882df61ac66829d27d99ad234ae2]: Commencement: Reg. 36 in force at 11.4.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/663/regulation/1/1)

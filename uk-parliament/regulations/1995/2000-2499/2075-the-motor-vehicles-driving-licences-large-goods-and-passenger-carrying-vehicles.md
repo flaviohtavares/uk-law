@@ -1,0 +1,108 @@
+---
+title: The Motor Vehicles (Driving Licences) (Large Goods and Passenger-Carrying Vehicles) (Amendment) (No. 2) Regulations 1995
+id: uksi/1995/2075
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '1995-08-05'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1995/2075
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1995/2075/made/data.pdf
+pending_changes: 1
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Motor Vehicles (Driving Licences) (Large Goods and Passenger-Carrying Vehicles) (Amendment) (No. 2) Regulations 1995
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+1995 No. 2075
+
+ROAD TRAFFIC
+
+PUBLIC PASSENGER TRANSPORT
+
+The Motor Vehicles (Driving Licences) (Large Goods and Passenger-Carrying Vehicles) (Amendment) (No. 2) Regulations 1995
+
+Made
+
+5th August 1995
+
+Laid before Parliament
+
+8th August 1995
+
+Coming into force
+
+15th August 1995
+
+The Secretary of State for Transport, in exercise of the powers conferred by sections 105(1), (2) and (3)[^f00001] and 108(1)[^f00002] of the Road Traffic Act 1988[^f00003], after consulting with representative organisations in accordance with section 195(2) of that Act, hereby makes the following Regulations:–
+
+**1.** These Regulations may be cited as the Motor Vehicles (Large Goods and Passenger-Carrying Vehicles) (Amendment) (No. 2) Regulations 1995 and shall come into force on 15th August 1995.
+
+**2.** (1) Regulation 27 (Exemptions) of the Motor Vehicles (Driving Licences) (Large Goods and Passenger-Carrying Vehicles) Regulations 1990[^f00004] shall be amended as follows.
+
+(2) In paragraph (1), for sub-paragraph (j) there shall be substituted–
+
+> - (j) any vehicle which is not used on public roads or if it is so used during any calendar week–
+>   - (i) is used only in passing from land in the occupation of a person keeping the vehicle to other land in the occupation of that person, and
+>   - (ii) is not used on public roads for distances exceeding an aggregate of six miles in that calendar week;
+> - (jj) any vehicle which–
+>   - (i) is used only for purposes relating to agriculture, horticulture or forestry,
+>   - (ii) is used on public roads only in passing between different areas of land occupied by the same person, and
+>   - (iii) in passing between any two such areas does not travel a distance exceeding 1.5 kilometres on public roads;
+
+.
+
+(3) In paragraph (1), in sub-paragraph (u)(ii), for the words “section 5 of the Vehicles (Excise) Act 1971[^f00005]” there shall be substituted the words “paragraph 22 of Schedule 2 to the Vehicle Excise and Registration Act 1994[^f00006]”.
+
+(4) In paragraph (6)–
+
+- (a) for the words “Schedule 3 to the Vehicles (Excise) Act 1971” there shall be substituted the words “paragraph 4(4) of Schedule 1 to the Vehicle Excise and Registration Act 1994”;
+- (b) for the definitions of “road construction vehicle” and “road construction machinery” there shall be substituted–
+
+  > - “public road”, “road construction vehicle” and “road construction machinery” have the same meanings respectively as in section 62(1) of the Vehicle Excise and Registration Act 1994.
+
+  .
+
+Signed by authority of the Secretary of State for Transport
+
+Steven Norris
+
+Parliamentary Under Secretary of State,
+
+Department of Transport
+
+5th August 1995
+
+(This note is not part of the Regulations)
+
+These Regulations further amend the Motor Vehicles (Driving Licences) (Large Goods and Passenger-Carrying Vehicles) Regulations 1990 (“the 1990 Regulations”).
+
+Regulation 27(1) of the 1990 Regulations exempts certain types of vehicle from the provisions of both those regulations and Part IV of the Road Traffic Act 1988. Paragraph (1)(j) as originally in force exempted vehicles which were exempt from duty under section 7(1) of the Vehicles (Excise) Act 1971 (“the 1971 Act”) by virtue of the fact that they were not intended to be used on public roads for an aggregate distance exceeding 6 miles per week.
+
+Section 7(1) of the 1971 Act was re-enacted as paragraph 21 of Schedule 2 to the Vehicle Excise and Registration Act 1994 (“the 1994 Act”). Paragraph 21 was repealed by Part V of Schedule 29 to the Finance Act [1995 (c. 4)](https://www.legislation.gov.uk/ukpga/1995/4) and the exemption thereby conferred was replaced by a new provision (inserted in Schedule 2 to the 1994 Act as paragraph 20A) exempting from duty agricultural, horticultural and forestry vehicles used on public roads for distances of no more than 1.5 kilometres at a time.
+
+These regulations–
+
+- preserve the previous exemption under paragraph (1)(j) by replacing it with a provision exempting vehicles not used on public roads or used in circumstances similar to those which attracted exemption from duty under paragraph 21 of Schedule 2 to the 1994 Act,
+- insert a further provision exempting vehicles where they are exempt from duty under the new paragraph 20A of Schedule 2 to the 1994 Act, and
+- make minor amendments to paragraph 27 consequential on that change and on the repeal and re-enactment of definitions contained in the 1971 Act.
+
+## Annotations
+
+[^f00001]: Footnote: Subsection (2) was amended by Schedule 3, paragraph 14, of the Road Traffic (Driver Licensing and Information Systems) Act [1989 (c. 22)](https://www.legislation.gov.uk/ukpga/1989/22), the Driving Licences (Community Driving Licence) Regulations 1990 ([S.I. 1990/144](https://www.legislation.gov.uk/uksi/1990/144)) and section 83 of and Schedule 8 to the Road Traffic Act [1991 (c. 40)](https://www.legislation.gov.uk/ukpga/1991/40).
+
+[^f00002]: Footnote: See the definitions of “prescribed” and “regulations”.
+
+[^f00003]: Footnote: [1988 c. 52](https://www.legislation.gov.uk/ukpga/1988/52).
+
+[^f00004]: Footnote: [S.I. 1990/2612](https://www.legislation.gov.uk/uksi/1990/2612).
+
+[^f00005]: Footnote: [1971 c. 10](https://www.legislation.gov.uk/ukpga/1971/10).
+
+[^f00006]: Footnote: [1994 c. 22](https://www.legislation.gov.uk/ukpga/1994/22).

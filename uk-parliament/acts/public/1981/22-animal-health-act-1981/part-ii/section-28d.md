@@ -1,0 +1,59 @@
+---
+title: Animal Health Act 1981, section 28D
+act: Animal Health Act 1981
+section: 28D
+status: revised-with-pending-changes
+text_date: '2026-07-24'
+extent: S
+source_url: https://www.legislation.gov.uk/ukpga/1981/22/section/28D
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Animal Health Act 1981, section 28D
+
+> **Warning: changes not yet applied to this text (3).** Text as at 2026-07-24. See https://www.legislation.gov.uk/changes/affected/ukpga/1981/22
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 28D. Deliberate infection: deprivation of entitlement to compensation[^key-38ecb1de89e57bd6d620fecc0fe10591]
+
+*Extent: S*
+
+(1) Where a person is convicted of an offence under section 28C, any provision of this Act by virtue of which compensation is payable to the person does not apply in respect of anything to which this subsection applies.
+
+(2) Subsection (1) applies to animals to which that offence relates.
+
+(3) Subsection (1) also applies to any other animals which were kept on the same premises as the animals referred to in subsection (2)—
+
+- (a) at the same time (or any part of the time) as those animals; and
+- (b) at or after the time when the offence was committed,
+
+and in relation to which compensation would be payable but for this section.
+
+(4) Subsection (1) also applies to—
+
+- (a) any carcases seized under an order made under section 35(1) or 36ZA(1)—
+  - (i) which are of the animals referred to in subsection (2) or of the other animals referred to in subsection (3); and
+  - (ii) in relation to which compensation would be payable but for this section;
+- (b) other things seized under such an order—
+  - (i) which were obtained from or produced by those animals; and
+  - (ii) in relation to which compensation would be payable but for this section; and
+- (c) anything else—
+  - (i) seized under such an order; and
+  - (ii) which was present on the same premises as those animals, or those carcases or other things, at the time described by paragraphs (a) and (b) of subsection (3),
+
+  and in relation to which compensation would be payable but for this section.
+
+(5) Any compensation paid to a person in respect of anything to which subsection (1) applies may be recovered by the Scottish Ministers.
+
+(6) In subsection (3), “ **premises** ” includes—
+
+- (a) any land or building; or
+- (b) any other place, in particular—
+  - (i) a vehicle or vessel; or
+  - (ii) a tent or moveable structure.
+
+## Annotations
+
+[^key-38ecb1de89e57bd6d620fecc0fe10591]: Textual amendment: Ss. 28C-28H inserted (S.) (6.10.2006) by [Animal Health and Welfare (Scotland) Act 2006 (asp 11)](https://www.legislation.gov.uk/asp/2006/11), [ss. 10](https://www.legislation.gov.uk/asp/2006/11/section/10), [55(1)](https://www.legislation.gov.uk/asp/2006/11/section/55/1) (with [s. 54](https://www.legislation.gov.uk/asp/2006/11/section/54)); [S.S.I. 2006/482](https://www.legislation.gov.uk/ssi/2006/482), [art. 2](https://www.legislation.gov.uk/ssi/2006/482/article/2)

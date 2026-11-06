@@ -1,0 +1,29 @@
+---
+title: The Civil Procedure Rules 1998, section 79.14A
+act: The Civil Procedure Rules 1998
+section: 79.14A
+status: revised-with-pending-changes
+text_date: '2026-10-26'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/1998/3132/section/79.14A
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Civil Procedure Rules 1998, section 79.14A
+
+> **Warning: changes not yet applied to this text (11).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/uksi/1998/3132
+>
+> Extent: England, Wales.
+
+## 79.14A. Scope of this Section[^key-95c5663132a3644de62b054f08b40aae][^key-a1accc8b3c27de745fb74740b9e24225]
+
+*Extent: E+W*
+
+This section applies to an appeal under section 26 of the 2010 Act (appeals to the court in relation to designations) in relation to designations and variations, revocation and renewal, of those designations.
+
+## Annotations
+
+[^key-95c5663132a3644de62b054f08b40aae]: Textual amendment: [Pt. 79](https://www.legislation.gov.uk/uksi/1998/3132/part/79) Section 3 inserted (24.12.2010) by [The Civil Procedure (Amendment No.4) Rules 2010 (S.I. 2010/3038)](https://www.legislation.gov.uk/uksi/2010/3038), [rules 1(2)](https://www.legislation.gov.uk/uksi/2010/3038/rule/1/2), [3(i)](https://www.legislation.gov.uk/uksi/2010/3038/rule/3/i)
+
+[^key-a1accc8b3c27de745fb74740b9e24225]: Textual amendment: [Pt. 79](https://www.legislation.gov.uk/uksi/1998/3132/part/79) inserted (4.12.2008) by [The Civil Procedure (Amendment No.2) Rules 2008 (S.I. 2008/3085)](https://www.legislation.gov.uk/uksi/2008/3085), [rule 1](https://www.legislation.gov.uk/uksi/2008/3085/rule/1), [Sch.](https://www.legislation.gov.uk/uksi/2008/3085/schedule)

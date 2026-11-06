@@ -1,0 +1,46 @@
+---
+title: Finance Act 2014, section 143
+act: Finance Act 2014
+section: '143'
+status: revised-with-pending-changes
+text_date: '2026-06-25'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2014/26/section/143
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Finance Act 2014, section 143
+
+> **Warning: changes not yet applied to this text (30).** Text as at 2026-06-25. See https://www.legislation.gov.uk/changes/affected/ukpga/2014/26
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 143. Chapter 2 pool bets
+
+*Extent: E+W+S+N.I.*
+
+(1) A bet is a Chapter 2 pool bet for the purposes of this Part if—
+
+- (a) it is not made wholly in relation to horse racing or dog racing,
+- (b) it is not made for community benefit,
+- (c) it does not constitute the taking of a ticket or chance in a lottery,
+- (d) it is made by way of pool betting, and
+- (e) one or more of conditions A to C is met in relation to it.
+
+(2) Condition A is that the person who makes the bet (whether as principal or agent) does so while present at a place in the United Kingdom where betting facilities are provided in the course of a business and the bet is made using those facilities.
+
+(3) Condition B is that—
+
+- (a) the person who makes the bet as principal is a UK person, and
+- (b) the bet is not an excluded bet.
+
+(4) Condition C is that—
+
+- (a) the person who makes the bet as principal is a body corporate not legally constituted in the United Kingdom,
+- (b) the bookmaker with whom the bet is made knows or has reasonable cause to believe that at least one potential beneficiary of any winnings from the bet is a UK person, and
+- (c) the bet is not an excluded bet.
+
+(5) A Chapter 2 pool bet is a “**pooled stake Chapter 2 pool bet**” for the purposes of this Part if all or any part of the stake money on the bet is assigned by or on behalf of the bookmaker with whom the bet is made to a fund (referred to in this Part as a “**Chapter 2 stake fund**”) from which winnings are to be paid in respect of pool betting.
+
+(6) A Chapter 2 pool bet is an “**ordinary Chapter 2 pool bet**” for the purposes of this Part if it is not a pooled stake Chapter 2 pool bet.

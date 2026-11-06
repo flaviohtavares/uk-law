@@ -1,0 +1,66 @@
+---
+title: Taxation of Chargeable Gains Act 1992, section 67
+act: Taxation of Chargeable Gains Act 1992
+section: '67'
+status: revised-with-pending-changes
+text_date: '2026-04-06'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/1992/12/section/67
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Taxation of Chargeable Gains Act 1992, section 67
+
+> **Warning: changes not yet applied to this text (23).** Text as at 2026-04-06. See https://www.legislation.gov.uk/changes/affected/ukpga/1992/12
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 67. Provisions applicable where section 79 of the Finance Act 1980 has applied.
+
+*Extent: E+W+S+N.I.*
+
+(1) In this section “**a claim**” means a claim under section 79 of the Finance Act 1980 (“**section 79**”) and “**relief**” means relief under that section (which provided general relief for gifts).
+
+(2) Where a disposal in respect of which a claim is or has been made is or proves to be a chargeable transfer for inheritance tax purposes, there shall be allowed as a deduction in computing (for capital gains tax purposes) the chargeable gain accruing to the transferee on the disposal of the asset in question an amount equal to whichever is the lesser of—
+
+- (a) the inheritance tax attributable to the value of the asset; and
+- (b) the amount of the chargeable gain as computed apart from this subsection;
+
+and in the case of a disposal which, being a potentially exempt transfer, proves to be a chargeable transfer, all necessary adjustments shall be made, whether by the discharge or repayment of capital gains tax or otherwise.
+
+(3) Where an amount of inheritance tax—
+
+- (a) falls to be redetermined in consequence of the transferor’s death within 7 years of making the chargeable transfer in question; or
+- (b) is otherwise varied,
+
+after it has been taken into account under subsection (2) above (or under section 79(5)), all necessary adjustments shall be made, whether by the making of an assessment to capital gains tax or by the discharge or repayment of such tax.
+
+(4) Where—
+
+- (a) a claim for relief has been made in respect of the disposal of an asset to a trustee, and
+- (b) the trustee is deemed to have disposed of the asset, or part of it, by virtue of section 71(1) or 72(1)(a),
+
+sections 72(1)(b) and 73(1)(a) shall not apply to the disposal of the asset, or part by the trustee, but any chargeable gain accruing to the trustee on the disposal shall be restricted to the amount of the held-over gain (or a corresponding part of it) on the disposal of the asset to him.
+
+(5) Subsection (4) above shall not have effect in a case within section 73(2) but in such a case the reduction provided for by section 73(2) shall be diminished by an amount equal to the proportion there mentioned of the held-over gain.
+
+(6) Section 168 shall apply where relief has been given—
+
+- (a) with the substitution for subsection (1) of the following—
+
+  > (1) If—
+  >
+  > - (a) relief has been given under section 79 of the Finance Act 1980 in respect of a disposal made after 5th April 1981 to an individual (“**the relevant disposal**”); and
+  > - (b) at a time when he has not disposed of the asset in question, the transferee ceases to be resident[^key-3683bdefde83f9433553f8040d0f76e6] in the United Kingdom,
+  >
+  > then, subject to the following provisions of this section, a chargeable gain shall be deemed to have accrued to the transferee immediately before that time, and its amount shall be equal to the held-over gain (within the meaning of section 67) on the relevant disposal.
+
+  ; and
+- (b) with the substitution in subsections (2), (6) and (10) for the references to section 165(4)(b) of references to section 79(1)(b).
+
+(7) In this section “**held-over gain**”, in relation to a disposal, means the chargeable gain which would have accrued on that disposal apart from section 79, reduced where applicable in accordance with subsection (3) of that section, and references to inheritance tax include references to capital transfer tax.
+
+## Annotations
+
+[^key-3683bdefde83f9433553f8040d0f76e6]: Textual amendment: Words in s. 67(6)(a) substituted (with effect in accordance with Sch. 46 para. 112 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 46 para. 81](https://www.legislation.gov.uk/ukpga/2013/29/schedule/46/paragraph/81)

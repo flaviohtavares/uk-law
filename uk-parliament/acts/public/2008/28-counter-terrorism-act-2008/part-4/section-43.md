@@ -1,0 +1,41 @@
+---
+title: Counter-Terrorism Act 2008, section 43
+act: Counter-Terrorism Act 2008
+section: '43'
+status: revised-with-pending-changes
+text_date: '2026-06-29'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2008/28/section/43
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Counter-Terrorism Act 2008, section 43
+
+> **Warning: changes not yet applied to this text (14).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/28
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 43. Offences dealt with before commencement[^key-69331397ede644962670e5d5a35ef311]
+
+*Extent: E+W+S+N.I.*
+
+(1) This Part applies to a person dealt with for an offence before the commencement of this Part only if—
+
+- (a) the offence is on the commencement of this Part within section 41(1) or (2) (offences to which this Part applies: terrorism offences), and
+- (b) immediately before the commencement of this Part the person—
+  - (i) is imprisoned or detained in pursuance of the sentence passed or order made in respect of the offence,
+  - (ii) would be so imprisoned or detained but for being unlawfully at large, absent without leave, on temporary leave or leave of absence, or on bail pending an appeal, or
+  - (iii) is on licence, having served the custodial part of a sentence of imprisonment in respect of the offence.
+
+(2) In relation to a person dealt with for an offence before the commencement of this Part—
+
+- (a) any reference in this Part to a sentence or order under a specified statutory provision includes a sentence or order under any corresponding earlier statutory provision;
+- (b) any reference in this Part to a person being or having been found to be under a disability and to have done the act charged against them in respect of an offence includes a reference to their being or having been found—
+  - (i) unfit to be tried for the offence,
+  - (ii) insane so that their trial for the offence cannot or could not proceed, or
+  - (iii) unfit to be tried and to have done the act charged against them in respect of the offence.
+
+## Annotations
+
+[^key-69331397ede644962670e5d5a35ef311]: Commencement: S. 43 in force at 1.10.2009 by [S.I. 2009/1493](https://www.legislation.gov.uk/uksi/2009/1493), [art. 2(a)](https://www.legislation.gov.uk/uksi/2009/1493/article/2/a)

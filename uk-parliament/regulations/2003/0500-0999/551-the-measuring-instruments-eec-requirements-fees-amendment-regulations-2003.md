@@ -1,0 +1,74 @@
+---
+title: The Measuring Instruments (EEC Requirements) (Fees) (Amendment) Regulations 2003
+id: uksi/2003/551
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2003-03-06'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2003/551
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2003/551/pdfs/uksi_20030551_en.pdf
+- http://www.legislation.gov.uk/uksi/2003/551/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Measuring Instruments (EEC Requirements) (Fees) (Amendment) Regulations 2003
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2003 No. 551
+
+FEES AND CHARGES
+
+The Measuring Instruments (EEC Requirements) (Fees) (Amendment) Regulations 2003
+
+Made
+
+6th March 2003
+
+Laid before Parliament
+
+7th March 2003
+
+Coming into force
+
+1st April 2003
+
+The Secretary of State for Trade and Industry, with the consent of the Treasury, in exercise of the powers conferred on her by section 56(1) and (2) of the Finance Act 1973[^f00001], hereby makes the following Regulations:
+
+**1.** These Regulations may be cited as the Measuring Instruments (EEC Requirements) (Fees) (Amendment) Regulations 2003 and shall come into force on 1st April 2003.
+
+**2.** In paragraph 1(a) respectively in Schedules 2, 3, 5 and 6 to the Measuring Instruments (EEC Requirements) (Fees) Regulations 1998[^f00002] for the words “£77 per hour” there shall be substituted “£80 per hour” in all places where those words occur.
+
+Sainsbury of Turville,
+
+Parliamentary Under Secretary of State for Science and Innovation,
+
+Department of Trade and Industry
+
+2nd March 2003
+
+We consent,
+
+John Heppell,
+
+Philip Woolas,
+
+Two of the Lords Commissioners of Her Majesty’s Treasury
+
+6th March 2003
+
+(This note is not part of the Regulations)
+
+These Regulations amend the Measuring Instruments (EEC Requirements) (Fees) Regulations 1998 (S.I. [1998/1177](https://www.legislation.gov.uk/uksi/1998/1177)), as amended, (the principal Regulations) to provide for a further increase in the fees in respect of services provided by the Department of Trade and Industry in relation to the type approval and testing of measuring instruments. The hourly rate (as specified in paragraph 1(a) respectively in Schedules 2, 3, 5 and 6 to the principal Regulations) for those services is increased from £77.00 to £80.00 (an increase of £3.00) and is the third increase since 1st June 1998 (when the principal Regulations came into force); the first increase (from £65.00 to £70.00) came into force on 1st April 2000 and the second increase (from £70.00 to £77.00) on 1st April 2002.
+
+## Annotations
+
+[^f00001]: Footnote: [1973 c. 51](https://www.legislation.gov.uk/ukpga/1973/51).
+
+[^f00002]: Footnote: [1998/1177](https://www.legislation.gov.uk/uksi/1998/1177), amended by S.I. [1999/861](https://www.legislation.gov.uk/uksi/1999/861), [2000/689](https://www.legislation.gov.uk/uksi/2000/689), [2000/3236](https://www.legislation.gov.uk/uksi/2000/3236), [2002/511](https://www.legislation.gov.uk/uksi/2002/511).

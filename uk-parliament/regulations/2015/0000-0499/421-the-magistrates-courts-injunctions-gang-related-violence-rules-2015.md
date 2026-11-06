@@ -1,0 +1,295 @@
+---
+title: 'The Magistrates’ Courts (Injunctions: Gang-related Violence) Rules 2015'
+id: uksi/2015/421
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2015-02-25'
+text_date: '2020-04-06'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2015/421
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2015/421/pdfs/uksiem_20150421_en.pdf
+- http://www.legislation.gov.uk/uksi/2015/421/pdfs/uksi_20150421_en.pdf
+- http://www.legislation.gov.uk/uksi/2015/421/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Magistrates’ Courts (Injunctions: Gang-related Violence) Rules 2015
+
+> Text as at 2020-04-06.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2015 No. 421 (L. 4)
+
+Magistrates’ Courts, England And Wales
+
+The Magistrates’ Courts (Injunctions: Gang-related Violence) Rules 2015
+
+Made
+
+25th February 2015
+
+Laid before Parliament
+
+3rd March 2015
+
+Coming into force in accordance with rule 1(2)
+
+The Lord Chief Justice, with the concurrence of the Lord Chancellor, makes the following Rules in exercise of the powers conferred by section 144 of the Magistrates’ Courts Act 1980[^f00001] and section 48(4) of the Policing and Crime Act 2009[^f00002].
+
+## 1. Citation, commencement and interpretation[^key-da6373df4ed1f14b40d870e9df8be8c4]
+
+(1) These Rules may be cited as the Magistrates’ Courts (Injunctions: Gang-related Violence) Rules 2015.
+
+(2) These Rules come into force on the day on which, and immediately after, section 18 of the Crime and Courts Act 2013[^f00003] comes into force.
+
+(3) In these Rules—
+
+- (a) “the 2009 Act” means the Policing and Crime Act 2009;
+- (b) a reference to a section or Schedule by number alone means the section or Schedule so numbered in the 2009 Act;
+- (c) “applicant” means the person applying or who applied for the injunction, and “respondent” means the person against whom the injunction is or was applied for;
+- (d) “defaulter” and “injunction applicant” have the meaning given in paragraph 1(9) of Schedule 5A to the 2009 Act;
+- (e) “injunction” means an injunction under section 34 of the 2009 Act.
+
+## 2. Applications to be by complaint[^key-ac2d4b132ffbbf2a413d2c678dd57988]
+
+An application to which these rules apply must be made by way of complaint in writing.
+
+## 3. Applications for injunctions[^key-d33c80adc34cff71b63fea512b87f4c5]
+
+(1) An application to a youth court for an injunction must—
+
+- (a) state the name, address and date of birth of the respondent;
+- (b) state the name and address of a parent or guardian of the respondent;
+- (c) be supported by evidence of the matters of which the court must be satisfied for the first and second conditions under section 34 to be met;
+- (d) state the terms of the injunction applied for; and
+- (e) in the case of an application made on notice, include a statement that the consultation requirement has been complied with.
+
+(2) If an application without notice is made by virtue of section 39, the application must also state the reasons why it is necessary for the application to be made without notice having been given.
+
+(3) In the case of an application made on notice, a copy of the application must be served by the applicant on—
+
+- (a) the respondent personally; and
+- (b) the parent or guardian mentioned in paragraph (2)(b) personally, or by posting it to or leaving it at that parent or guardian’s address.
+
+## 4. Interim injunctions[^key-cf6daa5a4dad059fc03bcd33c300f60b]
+
+An interim injunction which is made on an application made without notice—
+
+- (a) must be served on the respondent personally as soon as practicable; and
+- (b) will not take effect until it has been so served.
+
+## 5. Injunction containing provisions to which a power of arrest is attached[^key-065b4e906a07052b3a99fe9dd9afd4ec]
+
+(1) In this rule, “relevant provision” means a provision of an injunction to which a power of arrest is attached.
+
+(2) Where an injunction contains one or more relevant provisions—
+
+- (a) each relevant provision must be set out in a separate paragraph of the injunction; and
+- (b) subject to paragraph (3), the applicant must deliver a copy of the relevant provisions to any police station for the area where the conduct occurred.
+
+(3) Where the injunction has been granted without notice under section 41, the applicant must not deliver a copy of the relevant provisions to any police station under paragraph (2)(b) before the injunction containing the relevant provisions has been served on the respondent.
+
+(4) Where an order is made varying or discharging any relevant provision, the applicant must—
+
+- (a) immediately inform any police station to which a copy of the relevant provisions was delivered under paragraph (2)(b); and
+- (b) deliver a copy of the order to any police station so informed.
+
+## 6. Application to vary or discharge an injunction[^key-3379269021a1b89247326301b6f7dc64]
+
+(1) An application under section 42(1)(b) to vary or discharge an injunction must be made to either—
+
+- (a) the court which made the injunction; or
+- (b) any youth court for the local justice area in which the respondent currently resides.
+
+(2) Such an application must specify—
+
+- (a) the reason why the person applying for variation or discharge believes the court should vary or discharge the injunction; and
+- (b) if the application is to vary the injunction, the variation which is sought.
+
+## 7. Application for warrant of arrest[^key-90d6dfff0ce4fe054bf976e81b5c38b2]
+
+(1) An application for a warrant of arrest under section 44(2) must be substantiated on oath.
+
+(2) Such an application may be made without notice.
+
+## 8. Proceedings following arrest under the 2009 Act[^key-a62c6c9c82eb9e42689b7d0b61d222e3]
+
+(1) This rule applies where a person under the age of 18 is arrested pursuant to—
+
+- (a) a power of arrest attached to a provision of an injunction; or
+- (b) a warrant of arrest.
+
+(2) A youth court before which a person is brought following such arrest may—
+
+- (a) deal with the matter; or
+- (b) adjourn the proceedings.
+
+(3) If proceedings are adjourned and the arrested person is released—
+
+- (a) the matter must be dealt with (either by the same or another youth court) within 28 days of the date on which the arrested person appears in court; and
+- (b) the arrested person must be given not less than 2 days’ notice of the hearing.
+
+(4) An application under paragraph 1(1)(b) of Schedule 5A may be made even if the arrested person is not dealt with within the period in paragraph (3)(a) of this rule.
+
+## 9. Recognizance[^key-cac74addb67f2835fd31a4b5b8498be8]
+
+Where, in accordance with paragraph 2(2)(b) of Schedule 5, the court fixes the amount of any recognizance with a view to it being taken subsequently, the recognizance may be taken by—
+
+- (a) a District Judge (Magistrates’ Court);
+- (b) a justice of the peace;
+- (c) a person nominated by the Lord Chancellor who is authorised to exercise functions under section 28(1) of the Courts Act 2003[^key-f49814f636ab867814fd1395c5983d29]; or
+- (d) a police officer of the rank of inspector or above, or in charge of a police station,
+
+with the same consequences as if it had been entered into before the court.
+
+## 10. Application for supervision order or detention order[^key-071d443ebc73ced8d14e72e8c5b1cf29]
+
+An application under paragraph 1(1)(b) of Schedule 5A must—
+
+- (a) be supported by evidence of the breach of any provisions of the injunction which is alleged; and
+- (b) include a statement that the consultation required by paragraph 1(4) of Schedule 5A has been undertaken.
+
+## 11. Non-compliance with supervision order[^key-c53cfb72da3005ce13f02b29832cad44]
+
+An application under paragraph 12(2) of Schedule 5A must—
+
+- (a) be supported by evidence of the failure to comply with provisions of the supervision order which is alleged; and
+- (b) include a statement that the consultation required by paragraph 12(3) of Schedule 5A has been undertaken.
+
+## 12. Application to amend or revoke a supervision order[^key-df0477ace205c6a2f9540b5debfb35aa]
+
+(1) An application under paragraph 8(1) of Schedule 5A must state the new period which it is proposed to have substituted for that specified in the supervision order.
+
+(2) An application under paragraph 9(1) of Schedule 5A must include—
+
+- (a) confirmation of the area in which the defaulter intends to reside or is now residing; and
+- (b) if the application is made by the injunction applicant, a statement that the consultation required by paragraph 9(6) of Schedule 5A has been undertaken.
+
+(3) An application under paragraph 10(1) of Schedule 5A must include—
+
+- (a) the reasons why it is in the interests of justice for the order to be revoked or (as the case may be) amended by removing any requirement from it; and
+- (b) if the application is made by the injunction applicant, a statement that the consultation required by paragraph 10(5) of Schedule 5A has been undertaken.
+
+## 13. Application to revoke a detention order[^key-ab93e634af5fabaf29861d36ca8b490f]
+
+An application under paragraph 15(1) of Schedule 5A must include—
+
+- (a) the reasons why it is in the interests of justice for the order to be revoked; and
+- (b) if the application is made by the injunction applicant, a statement that the consultation required by paragraph 15(5) of Schedule 5A has been undertaken.
+
+## 14. Applications for which court’s consent is required[^key-561845d7310e91a3ef27717fb8f8e5c2]
+
+(1) Where the consent of the court is required by section 42(6), or paragraph 10(4) or 15(4) of Schedule 5A, for the making of a further application, the application for consent must include—
+
+- (a) confirmation of the date on which, and the court by which, the previous application was dismissed; and
+- (b) a statement of the reasons why consent should be given.
+
+(2) Such consent—
+
+- (a) may be given by a court comprising a single justice; but
+- (b) may not be refused without the applicant having been given an opportunity to make oral representations.
+
+## 15. Review hearings[^key-2980ea659d233b43f96235445a426dcb]
+
+Where the court has ordered the applicant and the respondent to attend a review hearing under section 36(4A), the applicant and the respondent must submit to the court—
+
+- (a) in writing; and
+- (b) no less than 14 days before the date specified for the hearing, or such other time as the court directs,
+
+any reasons why the injunction should, or should not, be varied or discharged.
+
+## 16. Respondent attaining age of 18 after commencement of proceedings[^key-0abd2bf515320746c1e7a44a19c9d4c7]
+
+(1) Where a respondent attains the age of 18 after the commencement of proceedings under Part 4 of the 2009 Act, the proceedings must remain in a youth court, subject to paragraphs (2) and (3).
+
+(2) The court in which the proceedings were continuing when the respondent attained the age of 18 may, at the request of the applicant or the respondent or of its own motion—
+
+- (a) make a direction under paragraph (3); or
+- (b) direct that the proceedings be transferred to a youth court for the local justice area in which the respondent currently resides, in order for that court to consider whether to make a direction under paragraph (3).
+
+(3) The court may direct that the proceedings be transferred to the High Court or county court, having had regard in particular to—
+
+- (a) the stage which the proceedings have reached;
+- (b) the circumstances of the applicant and the respondent; and
+- (c) the need to ensure fairness between the applicant and the respondent.
+
+(4) The court may not make a direction under paragraph (3) without a hearing, on notice to both the applicant and the respondent.
+
+(5) The applicant and the respondent must submit to the court—
+
+- (a) in writing; and
+- (b) no less than 7 days before the date specified for the hearing, or such other time as the court directs,
+
+any reasons why the proceedings should either remain in a youth court or be transferred to the High Court or county court, having regard in particular the matters mentioned in paragraph (3).
+
+Thomas of Cwmgiedd, C.J.
+
+I agree
+
+Signed on the authority of the Lord Chancellor
+
+Edward Faulks
+
+Minister of State
+
+Ministry of Justice
+
+25th February 2015
+
+EXPLANATORY NOTE
+
+(This note is not part of the Rules)
+
+These Rules make provision for proceedings in youth courts in relation to applications for injunctions to prevent gang-related violence, under Part 4 of the Policing and Crime Act 2009 (as amended in particular by the Crime and Courts Act 2013). Under Part 4 of the 2009 Act, such proceedings were originally allocated to the High Court or county court regardless of the age of the respondent, but amendments made by the Crime and Courts Act 2013 provide for youth courts to deal with such proceedings where the respondent is aged under 18.
+
+No forms are prescribed for applications. The Rules provide for all applications to which they apply to be made by complaint in writing, and provide separately for the matters which must be included in different applications. Provision is also made for proceedings against a respondent who attains the age of 18 after the proceedings are commenced either to remain in the youth court or be transferred to the High Court or county court according to the youth court’s direction.
+
+## Annotations
+
+[^f00001]: Footnote: [1980 c. 43](https://www.legislation.gov.uk/ukpga/1980/43). Section 144 has been amended by the Access to Justice Act [1999 (c. 22)](https://www.legislation.gov.uk/ukpga/1999/22), Schedule 11 paragraphs 26 and 29; the Courts Act [2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39) Schedule 8 paragraph 245 and Schedule 10; the Constitutional Reform Act [2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4) Schedule 4 paragraphs 99 and 102; and by [S.I. 2012/2398](https://www.legislation.gov.uk/uksi/2012/2398), article 3(2), Schedule 2 paragraph 1.
+
+[^f00002]: Footnote: [2009 c. 26](https://www.legislation.gov.uk/ukpga/2009/26). Relevant amendments to Part 4 of the 2009 Act were made by the Crime and Security Act [2010 (c. 17)](https://www.legislation.gov.uk/ukpga/2010/17), sections 34, 35(1), (2), (3), 36(1), (2), (3), 37, 39(1), (2), and the Crime and Courts Act [2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), section 17(5) and Schedule 9, Part 2, paragraphs 51(1) and (2), section 18(1), (2), (3), (4), (5), (6) and Schedule 12 paragraphs 1, 2, 3, 4.
+
+[^key-da6373df4ed1f14b40d870e9df8be8c4]: Commencement: [Rule 1](https://www.legislation.gov.uk/uksi/2015/421/rule/1) in force at 1.6.2015 in accordance with rule 1(2)
+
+[^f00003]: Footnote: [2013 c. 22](https://www.legislation.gov.uk/ukpga/2013/22).
+
+[^key-ac2d4b132ffbbf2a413d2c678dd57988]: Commencement: [Rule 2](https://www.legislation.gov.uk/uksi/2015/421/rule/2) in force at 1.6.2015 in accordance with rule 1(2)
+
+[^key-d33c80adc34cff71b63fea512b87f4c5]: Commencement: Rule 3 in force at 1.6.2015 in accordance with rule 1(2)
+
+[^key-cf6daa5a4dad059fc03bcd33c300f60b]: Commencement: Rule 4 in force at 1.6.2015 in accordance with rule 1(2)
+
+[^key-065b4e906a07052b3a99fe9dd9afd4ec]: Commencement: Rule 5 in force at 1.6.2015 in accordance with rule 1(2)
+
+[^key-3379269021a1b89247326301b6f7dc64]: Commencement: Rule 6 in force at 1.6.2015 in accordance with rule 1(2)
+
+[^key-90d6dfff0ce4fe054bf976e81b5c38b2]: Commencement: Rule 7 in force at 1.6.2015 in accordance with rule 1(2)
+
+[^key-a62c6c9c82eb9e42689b7d0b61d222e3]: Commencement: Rule 8 in force at 1.6.2015 in accordance with rule 1(2)
+
+[^key-cac74addb67f2835fd31a4b5b8498be8]: Commencement: Rule 9 in force at 1.6.2015 in accordance with rule 1(2)
+
+[^key-f49814f636ab867814fd1395c5983d29]: Textual amendment: Words in [rule 9(c)](https://www.legislation.gov.uk/uksi/2015/421/rule/9/c) substituted (6.4.2020) by [The Courts and Tribunals (Judiciary and Functions of Staff) Act 2018 (Consequential, Transitional and Saving Provision) Regulations 2020 (S.I. 2020/100)](https://www.legislation.gov.uk/uksi/2020/100), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/100/regulation/1/2), [Sch. para. 17](https://www.legislation.gov.uk/uksi/2020/100/schedule/paragraph/17) (with [reg. 4](https://www.legislation.gov.uk/uksi/2020/100/regulation/4))
+
+[^key-071d443ebc73ced8d14e72e8c5b1cf29]: Commencement: Rule 10 in force at 1.6.2015 in accordance with rule 1(2)
+
+[^key-c53cfb72da3005ce13f02b29832cad44]: Commencement: Rule 11 in force at 1.6.2015 in accordance with rule 1(2)
+
+[^key-df0477ace205c6a2f9540b5debfb35aa]: Commencement: Rule 12 in force at 1.6.2015 in accordance with rule 1(2)
+
+[^key-ab93e634af5fabaf29861d36ca8b490f]: Commencement: Rule 13 in force at 1.6.2015 in accordance with rule 1(2)
+
+[^key-561845d7310e91a3ef27717fb8f8e5c2]: Commencement: Rule 14 in force at 1.6.2015 in accordance with rule 1(2)
+
+[^key-2980ea659d233b43f96235445a426dcb]: Commencement: Rule 15 in force at 1.6.2015 in accordance with rule 1(2)
+
+[^key-0abd2bf515320746c1e7a44a19c9d4c7]: Commencement: Rule 16 in force at 1.6.2015 in accordance with rule 1(2)

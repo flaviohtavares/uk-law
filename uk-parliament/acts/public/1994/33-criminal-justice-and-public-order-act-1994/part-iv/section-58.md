@@ -1,0 +1,59 @@
+---
+title: Criminal Justice and Public Order Act 1994, section 58
+act: Criminal Justice and Public Order Act 1994
+section: '58'
+status: revised-with-pending-changes
+text_date: '2026-06-29'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/1994/33/section/58
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Criminal Justice and Public Order Act 1994, section 58
+
+> **Warning: changes not yet applied to this text (16).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/1994/33
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 58. Samples: intimate and non-intimate etc.
+
+*Extent: E+W*
+
+(1) Section 65 of the Police and Criminal Evidence Act 1984 (which contains definitions of intimate and non-intimate samples and other relevant definitions) shall be amended as follows.
+
+(2) For the definition of “intimate sample” there shall be substituted—
+
+> “**intimate sample**” means—
+>
+> - (a) a sample of blood, semen or any other tissue fluid, urine or pubic hair;
+> - (b) a dental impression;
+> - (c) a swab taken from a person’s body orifice other than the mouth;
+
+.
+
+(3) For the definition of “non-intimate sample” there shall be substituted—
+
+> “**non-intimate sample**” means—
+>
+> - (a) a sample of hair other than pubic hair;
+> - (b) a sample taken from a nail or from under a nail;
+> - (c) a swab taken from any part of a person’s body including the mouth but not any other body orifice;
+> - (d) saliva;
+> - (e) a footprint or a similar impression of any part of a person’s body other than a part of his hand;
+
+.
+
+(4) After the definition of “non-intimate sample” there shall be inserted the following definitions—
+
+> “**registered dentist**” has the same meaning as in the [^c13102431]Dentists Act 1984;
+>
+> “**speculative search**”, in relation to a person’s fingerprints or samples, means such a check against other fingerprints or samples or against information derived from other samples as is referred to in section 63A(1) above;
+>
+> “**sufficient**” and “**insufficient**”, in relation to a sample, means sufficient or insufficient (in point of quantity or quality) for the purpose of enabling information to be produced by the means of analysis used or to be used in relation to the sample.
+
+.
+
+## Annotations
+
+[^c13102431]: Marginal citation: [1984 c. 24](https://www.legislation.gov.uk/ukpga/1984/24).

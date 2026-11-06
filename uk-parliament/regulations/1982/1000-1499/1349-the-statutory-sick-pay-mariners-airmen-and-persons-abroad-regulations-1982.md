@@ -1,0 +1,215 @@
+---
+title: The Statutory Sick Pay (Mariners, Airmen and Persons Abroad) Regulations 1982
+id: uksi/1982/1349
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised-with-pending-changes
+made_date: '1982-09-20'
+text_date: '2020-12-31'
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1982/1349
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1982/1349/pdfs/uksi_19821349_301114_en.pdf
+- http://www.legislation.gov.uk/uksi/1982/1349/pdfs/uksi_19821349_en.pdf
+- http://www.legislation.gov.uk/uksi/1982/1349/data.pdf
+pending_changes: 4
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Westlaw UK derived from Crown Copyright material and contributed to legislation.gov.uk
+summary: ''
+---
+
+# The Statutory Sick Pay (Mariners, Airmen and Persons Abroad) Regulations 1982
+
+> **Warning: changes not yet applied to this text (4).** Text as at 2020-12-31. See https://www.legislation.gov.uk/changes/affected/uksi/1982/1349
+
+1982 No. 1349
+
+TERMS AND CONDITIONS OF EMPLOYMENT
+
+The Statutory Sick Pay (Mariners, Airmen and Persons Abroad) Regulations 1982
+
+Made
+
+20th September 1982
+
+Laid before Parliament
+
+1st October 1982
+
+Coming into Operation
+
+6th April 1983
+
+The Secretary of State for Social Services, in exercise of the powers conferred upon him by sections 3(5) and (7), 22(1) and 26(1) of and paragraph 1 of Schedule 1 to the Social Security and Housing Benefits Act 1982 and of all other powers enabling him in that behalf, hereby makes the following regulations.
+
+This instrument satisfies the requirements of paragraph 38 of Schedule 4 to the Social Security and Housing Benefits Act 1982, and the Secretary of State has not referred proposals to make any of the regulations contained in it to the Industrial Injuries Advisory Council or the Social Security Advisory Committee.
+
+## 1. Citation, commencement and interpretation
+
+(1) These regulations may be cited as the Statutory Sick Pay (Mariners, Airmen and Persons Abroad) Regulations 1982, and shall come into operation on 6th April 1983.
+
+(2) In these regulations—
+
+- “**the Act**” means the Social Security and Housing Benefits Act 1982;
+- “the[^key-643b36f359ad3cee61cd5251168bf0ea] Contributions and Benefits Act” means the Social Security Contributions and Benefits Act 1992;
+- “the Contributions Regulations” means the Social Security (Contributions) Regulations 1979;
+- “**Part I**” means Part I of the Act;
+- “**the General Regulations**” means the Statutory Sick Pay (General) Regulations 1982;
+
+and other expressions, unless the context otherwise requires, have the same meanings as in Part I.
+
+(3) Unless the context otherwise requires, any reference—
+
+- (a) in these regulations to a numbered regulation is a reference to the regulation bearing that number in these regulations; and
+- (b) in any of these regulations to a numbered paragraph is a reference to the paragraph bearing that number in that regulation.
+
+## 2. Mariners—interpretation
+
+In regulations 6 and 11 the expressions “**British ship**”, “**foreign-going ship**”, “**managing owner**”, “**mariner**”, “**owner**” and “**radio officer**” have the same meanings as in Case C of Part VIII of the Social Security (Contributions) Regulations 1979[^f00001], and the expressions “**ship**” and “**ship or vessel**”, except in regulation 6(2), include hovercraft.
+
+## 3. Airmen—interpretation
+
+In regulations 7 and 12—
+
+- “**airman**” means a person who is, or has been, employed under a contract of service either as a pilot, commander, navigator or other member of the crew of any aircraft, or in any other capacity on board any aircraft where—
+  - (a) the employment in that other capacity is for the purposes of the aircraft or its crew or of any passengers or cargo or mails carried thereby, and
+  - (b) the contract is entered into in the United Kingdom with a view to its performance (in whole or in part) while the aircraft is in flight,
+
+  but does not include a person in so far as his employment is as a serving member of the forces;
+- “**British aircraft**” means any aircraft belonging to Her Majesty and any aircraft registered in the United Kingdom of which the owner (or managing owner if there is more than one owner) resides or has his principal place of business in Great Britain, and references to the owner of an aircraft shall, in relation to an aircraft which has been hired, be taken as referring to the person for the time being entitled as hirer to possession and control of the aircraft by virtue of the hiring or any subordinate hiring.
+
+## 4. Continental shelf—interpretation
+
+In this regulation and regulations 8 and 13—
+
+- “**designated area**” means any area which may from time to time be designated by Order in Council under the Continental Shelf Act 1964 as an area within which the rights of the United Kingdom with respect to the sea-bed and subsoil and their natural resources may be exercised;
+- “**prescribed area**” means an area over which Norway or any member State [^key-d495e80bf90a52af85576e194b197754]... exercises sovereign rights for the purpose of exploring the seabed and subsoil and exploiting their natural resources, being an area outside the territorial seas of Norway or that member State or any other area which is from time to time specified under section 22(5) of the Oil and Gas (Enterprise) Act 1982[^key-3719850fe75a4431cacd1c2ce50d915a];
+- “**prescribed employment**” means employment in a designated area or prescribed area in connection with the exploration of the seabed and subsoil and the exploitation of the natural resources of that area.
+
+## 5. Persons in ... member States—meaning of “employee”[^key-1f46a0161d2e0beaf397df3664737edd]
+
+Subject to regulations 6(2), 7(2) and 9, a person who is—
+
+- (a) gainfully employed in a member State [^key-ca253542266771d1b51fb436d108fc14]... in such circumstances that if his employment were in Great Britain he would be an employee for the purposes of Part I or a person treated as such an employee under regulation 16 of the General Regulations; and
+- (b) subject to the legislation of the United Kingdom under Council Regulation [(EEC) No. 1408/71](https://www.legislation.gov.uk/european/regulation/1971/1408)[^f00002] , as amended from time to time, or Regulation[^key-6be0209b6bd030e02eaca027fdb7a388] [(EC) No. 883/2004](https://www.legislation.gov.uk/european/regulation/2004/0883) of the European Parliament and of the Council of 29 April 2004, as amended from time to time, on the coordination of social security systems;
+
+notwithstanding that he is not employed in Great Britain, shall be treated as an employee for the purposes of Part I.
+
+## 5A. Persons absent from Great Britain—meaning of “employee”[^key-053bcb548f020625aec28f99f05708dc]
+
+Subject to regulations 5, 6(2), 7(2) and 9, where a person, while absent from Great Britain for any purpose, is gainfully employed by an employer who is liable to pay in respect of him secondary Class 1 contributions under section 6 of the Contributions and Benefits Act 1992 or regulation 120 of the Contributions Regulations, he shall be treated as an employee for the purposes of Part XI of the Contributions and Benefits Act.
+
+## 6. Mariners—meaning of “employee”
+
+(1) Subject to regulation 9, where a mariner—
+
+- (a) is employed as such and—
+  - (i) the employment is on board a British ship; or
+  - (ii) the employment is on board a ship and the contract in respect of the employment is entered into in the United Kingdom with a view to its performance (in whole or in part) while the ship or vessel is on her voyage; and
+  - (iii) in a case to which head (ii) applies, the person by whom the mariner's earnings are paid, or, in the case of employment as a master or member of the crew of a ship or vessel, either that person or the owner of the ship or vessel (or the managing owner if there is more than one owner) has a place of business in Great Britain; or
+- (b) is employed as a master, member of the crew or radio officer on board any ship or vessel, not being a mariner to whom the last preceding sub-paragraph applies; and
+  - (i) in the case of the employment being as a radio officer, if the contract under which the employment is performed is entered into in the United Kingdom, the employer or the person paying the radio officer his earnings for that employment has a place of business in Great Britain, or,
+  - (ii) in the case of the employment being as a master, member of the crew or radio officer, if the contract is not entered into in the United Kingdom, the employer or the person paying the earnings has his principal place of business in Great Britain,
+
+  then, unless he is a mariner to whom paragraph (2) applies, he shall, notwithstanding that he may not be employed in Great Britain, be treated as an employee for the purposes of Part I.
+
+(2) A mariner who—
+
+- (a) is in employment (including any period of leave, other than leave for the purpose of study, accruing from the employment) as a master or member of the crew of a ship, where—
+  - (i) the employment is on a foreign-going ship; or
+  - (ii) the employment is partly on a foreign-going ship and partly otherwise than on such a ship, and it is a requirement of the contract of service which relates to that employment that any payment of earnings in respect of that employment is to be made during the employment on the foreign-going ship; or
+- (b) has been in such employment as is mentioned in sub-paragraph (a), where
+  - (i) not more than 13 weeks have elapsed since he was last in such employment;
+  - (ii) he continues to be employed by the employer by whom he was employed when he was last in such employment; and
+  - (iii) he is not employed (by that employer or any other) on terms which are inconsistent with his being able to resume such employment as is mentioned in sub-paragraph (a) after not more than 13 weeks have elapsed since he was last in such employment;
+
+  shall, notwithstanding that he may be employed in Great Britain, not be treated as an employee for the purposes of Part I.
+
+## 7. Airmen—meaning of “employee”
+
+(1) Subject to regulation 9 and to the following provisions of this regulation, where an airman is employed as such on board any aircraft, and the employer of that airman or the person paying the airman his earnings in respect of the employment (whether or not the person making the payment is acting as agent for the employer) or the person under whose directions the terms of the airman's employment and the amount of the earnings to be paid in respect thereof are determined has—
+
+- (a) in the case of the aircraft being a British aircraft, a place of business in Great Britain, or
+- (b) in any other case, his principal place of business in Great Britain,
+
+then, notwithstanding that he may not be employed in Great Britain, he shall be treated as an employee for the purposes of Part I.
+
+(2) Subject to the provisions of paragraph (3), an airman shall not be treated as an employee for those purposes if he is not domiciled, and has no place of residence, in Great Britain.
+
+(3) The provisions of paragraph (2) shall have effect subject to any Order in Council giving effect to any reciprocal agreement made under section 143 of the Social Security Act 1975 (reciprocity with other countries).
+
+## 8. Continental shelf—meaning of “employee”
+
+Subject to regulation 9, a person in prescribed employment, notwithstanding that he may not be employed in Great Britain, shall be treated as an employee for the purposes of Part I.
+
+## 9. Meaning of “employee”—general
+
+No person who, by virtue of regulation 16 of the General Regulations, would not be treated as an employee for the purposes of Part I if his employment were in Great Britain, shall be treated as an employee by virtue of any of regulations 5 to 8.
+
+## 10. Persons abroad—period of entitlement ending or not arising[^key-3813b90a8b4a434a6858211dbcba320f]
+
+In a case where a mariner, an airman or a continental shelf employee, respectively, within the meaning of regulation 6(1), 7 or 8, or a person who, is an employee or, is treated as an employee under regulation 5 or 5A, is incapable of work during a period of entitlement to statutory sick pay while absent from Great Britain, his entitlement to statutory sick pay shall cease only if he fails to satisfy the conditions of entitlement under Part XI of the Contributions and Benefits Act notwithstanding that his employer ceases, during the period of entitlement, to be liable to pay, in respect of him, secondary Class 1 contributions under section 6 of the Contributions and Benefits Act or regulation 120 of the Contributions Regulations.
+
+## 11. Mariners—exception to regulation 10[^key-840cb072e25786bdcbde0507ae5c763b]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 12. Airmen—exception to regulation 10[^key-15f3d71fad89e813a609a7d5a5493168]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 13. Continental shelf—exception to regulation 10[^key-3cad13ea95bfec3303d0ed271f0a5555]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 14. Time for compliance with requirements of Part I and regulations
+
+Where—
+
+- (a) an employee is outside the United Kingdom;
+- (b) Part I or regulations made thereunder require any act to be done forthwith or on the happening of a certain event or within a specified time; and
+- (c) because the employee is outside the United Kingdom he or his employer cannot comply with the requirement;
+
+the employee or the employer, as the case may be, shall be deemed to have complied with it if he performs the act as soon as reasonably practicable.
+
+Norman Fowler
+
+Secretary of State for Social Services
+
+EXPLANATORY NOTE
+
+These Regulations make provisions about statutory sick pay under Part I of the Social Security and Housing Benefits Act 1982 as it affects mariners, airmen, persons abroad and persons employed in operations on the Continental Shelf.
+
+Under section 26(1) of the Act, a person is not, as a rule, an “employee”, and therefore not qualified to receive statutory sick pay, unless he is employed in Great Britain. Regulations 5 to 8 prescribe exceptions to this rule, so that certain persons who are employed in other member States of the European Communities but subject to the legislation of the United Kingdom, certain mariners and airmen, and certain persons employed on the Continental Shelf, are “employees” though employed outside Great Britain; and so that certain limited classes of mariners and airmen are not “employees” though employed in Great Britain.
+
+Regulation 10 makes provision for a period of entitlement to statutory sick pay to end if the employee goes outside the member States of the European Communities, or not to arise if he is already outside them, and regulations 11 to 13 set out exceptions applying to mariners, airmen and persons employed on the Continental Shelf.
+
+Some of the requirements of Part I of the Act and regulations made under it impose time limits. Regulation 14 relaxes those requirements in their application to persons who are outside the United Kingdom and for that reason cannot comply with them.
+
+## Annotations
+
+[^key-643b36f359ad3cee61cd5251168bf0ea]: Textual amendment: Words in reg. 1(2) inserted (6.4.1996) by [The Social Security Contributions, Statutory Maternity Pay and Statutory Sick Pay (Miscellaneous Amendments) Regulations 1996 (S.I. 1996/777)](https://www.legislation.gov.uk/uksi/1996/777), [regs. 1](https://www.legislation.gov.uk/uksi/1996/777/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/1996/777/regulation/3/2)
+
+[^f00001]: Footnote: to which there are amendments not relevant to these regulations.
+
+[^key-d495e80bf90a52af85576e194b197754]: Textual amendment: Words in [reg. 4](https://www.legislation.gov.uk/uksi/1982/1349/regulation/4) omitted (31.12.2020) by virtue of [The Social Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/128)](https://www.legislation.gov.uk/uksi/2019/128), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/128/regulation/1/2), [Sch. para. 3(2)](https://www.legislation.gov.uk/uksi/2019/128/schedule/paragraph/3/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-3719850fe75a4431cacd1c2ce50d915a]: Textual amendment: Words in reg. 4 added (6.4.1983) by [The Social Security and Statutory Sick Pay (Oil and Gas (Enterprise) Act 1982) (Consequential) Regulations 1982 (S.I. 1982/1738)](https://www.legislation.gov.uk/uksi/1982/1738), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1982/1738/regulation/1/1), [5(a)](https://www.legislation.gov.uk/uksi/1982/1738/regulation/5/a)
+
+[^key-1f46a0161d2e0beaf397df3664737edd]: Textual amendment: Word in [reg. 5](https://www.legislation.gov.uk/uksi/1982/1349/regulation/5) title omitted (31.12.2020) by virtue of [The Social Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/128)](https://www.legislation.gov.uk/uksi/2019/128), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/128/regulation/1/2), [Sch. para. 3(3)(a)](https://www.legislation.gov.uk/uksi/2019/128/schedule/paragraph/3/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-ca253542266771d1b51fb436d108fc14]: Textual amendment: Words in [reg. 5(a)](https://www.legislation.gov.uk/uksi/1982/1349/regulation/5/a) omitted (31.12.2020) by virtue of [The Social Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/128)](https://www.legislation.gov.uk/uksi/2019/128), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/128/regulation/1/2), [Sch. para. 3(3)(b)](https://www.legislation.gov.uk/uksi/2019/128/schedule/paragraph/3/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^f00002]: Footnote: (O.J.S.E. 1971 (II) p. 416).
+
+[^key-6be0209b6bd030e02eaca027fdb7a388]: Textual amendment: Words in [reg. 5(b)](https://www.legislation.gov.uk/uksi/1982/1349/regulation/5/b) inserted (15.11.2018) by [The Social Security (Updating of EU References) (Amendment) Regulations 2018 (S.I. 2018/1084)](https://www.legislation.gov.uk/uksi/2018/1084), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1084/regulation/1), [Sch. para. 2](https://www.legislation.gov.uk/uksi/2018/1084/schedule/paragraph/2)
+
+[^key-053bcb548f020625aec28f99f05708dc]: Textual amendment: [Reg. 5A](https://www.legislation.gov.uk/uksi/1982/1349/regulation/5A) inserted (6.4.1996) by [The Social Security Contributions, Statutory Maternity Pay and Statutory Sick Pay (Miscellaneous Amendments) Regulations 1996 (S.I. 1996/777)](https://www.legislation.gov.uk/uksi/1996/777), [regs. 1](https://www.legislation.gov.uk/uksi/1996/777/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/1996/777/regulation/3/3)
+
+[^key-3813b90a8b4a434a6858211dbcba320f]: Textual amendment: [Reg. 10](https://www.legislation.gov.uk/uksi/1982/1349/regulation/10) substituted (6.4.1996) by [The Social Security Contributions, Statutory Maternity Pay and Statutory Sick Pay (Miscellaneous Amendments) Regulations 1996 (S.I. 1996/777)](https://www.legislation.gov.uk/uksi/1996/777), [regs. 1](https://www.legislation.gov.uk/uksi/1996/777/regulation/1), [3(4)](https://www.legislation.gov.uk/uksi/1996/777/regulation/3/4)
+
+[^key-840cb072e25786bdcbde0507ae5c763b]: Textual amendment: [Reg. 11](https://www.legislation.gov.uk/uksi/1982/1349/regulation/11) omitted (6.4.1996) by virtue of [The Social Security Contributions, Statutory Maternity Pay and Statutory Sick Pay (Miscellaneous Amendments) Regulations 1996 (S.I. 1996/777)](https://www.legislation.gov.uk/uksi/1996/777), [regs. 1](https://www.legislation.gov.uk/uksi/1996/777/regulation/1), [3(5)](https://www.legislation.gov.uk/uksi/1996/777/regulation/3/5)
+
+[^key-15f3d71fad89e813a609a7d5a5493168]: Textual amendment: [Reg. 12](https://www.legislation.gov.uk/uksi/1982/1349/regulation/12) omitted (6.4.1996) by virtue of [The Social Security Contributions, Statutory Maternity Pay and Statutory Sick Pay (Miscellaneous Amendments) Regulations 1996 (S.I. 1996/777)](https://www.legislation.gov.uk/uksi/1996/777), [regs. 1](https://www.legislation.gov.uk/uksi/1996/777/regulation/1), [3(6)](https://www.legislation.gov.uk/uksi/1996/777/regulation/3/6)
+
+[^key-3cad13ea95bfec3303d0ed271f0a5555]: Textual amendment: [Reg. 13](https://www.legislation.gov.uk/uksi/1982/1349/regulation/13) omitted (6.4.1996) by virtue of [The Social Security Contributions, Statutory Maternity Pay and Statutory Sick Pay (Miscellaneous Amendments) Regulations 1996 (S.I. 1996/777)](https://www.legislation.gov.uk/uksi/1996/777), [regs. 1](https://www.legislation.gov.uk/uksi/1996/777/regulation/1), [3(7)](https://www.legislation.gov.uk/uksi/1996/777/regulation/3/7)

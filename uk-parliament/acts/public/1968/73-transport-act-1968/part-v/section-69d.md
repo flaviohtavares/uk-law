@@ -1,0 +1,55 @@
+---
+title: Transport Act 1968, section 69D
+act: Transport Act 1968
+section: 69D
+status: repealed
+text_date: '2024-05-07'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/ukpga/1968/73/section/69D
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Transport Act 1968, section 69D
+
+> This provision is no longer in force.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 69D. Variation of operators’ licences with respect to operating centres and conditions affecting their use, etc.[^c15323191]
+
+*Extent: E+W+S*
+
+**No longer in force (ended 1996-01-01).**
+
+(1) Subject to section 69E of this Act, on the application of the holder of an operator’s licence, the licensing authority by whom the licence was granted may at any time while it is in force vary the licence by directing—
+
+- (a) that a new place shall be specified in the licence as an operating centre of the holder of the licence, or that any place so specified shall cease to be so specified; or
+- (b) that any condition attached to the licence under section 69C of this Act shall be varied or removed.
+
+(2) A person applying for the variation of an operator’s licence under this section shall give to the licensing authority such information as he may reasonably require for the discharge of his duties in relation to the application.
+
+(3) The licensing authority shall publish in the prescribed manner notice of any application for a variation under this section, unless the licensing authority is satisfied that the application is of so trivial a nature that it is not necessary that an opportunity should be given for objecting to it or making representations against it.
+
+(4) Any person entitled to object to the grant of any application for a variation of which notice has been published under section 68(4) of this Act may object to the grant of any application for a variation of which notice has been published under section 68(4) or under subsection (3) of this section on either of the following grounds, that is to say—
+
+- (a) that any place which, if the application for variation is granted, will be an operating centre of the holder of the licence is unsuitable on environmental conditions in the vicinity of that centre.
+
+(5) Subject to subsection (6) of this section, any person who is the owner or occupier of land in the vicinity of—
+
+- (a) any place which, if the application for variation is granted, will be an operating centre of the holder of the licence; or
+- (b) any existing operating of the holder of the licence to which the application relates;
+
+may make representations against the grant of any application for a variation of which notice has been published under section 68(4) of this Act or under subsection (3) of this section on either of the grounds mentioned in subsection (4) of this section, but so far as relates to that place or operating centre.
+
+(6) A person may not be virtue of subsection (5) of this section make representations against the grant of an application for variation of an operator’s licence unless any adverse effects on environmental conditions arising from the use of the place or operating centre in question would be capable of prejudicially affecting the use or enjoyment of the land there mentioned.
+
+(7) Where any objection or representations are duly made under this section in respect of any application for a variation of an operator’s licence, the licensing authority may refuse the application in any case where it appears to him that the application ought to be refused on either of the grounds mentioned in subsection (4) of this section.
+
+(8) In any case in which the licensing authority grants an application for a variation of an operator’s licence of which notice has been published under section 68(4) of this Act or under subsection (3) of this section, the licensing authority may direct that any condition attached to the licence under section 69C of this Act shall be varied or removed or that a condition shall be attached to the licence under that section.
+
+(9) If an applicant under this section so requests, the licensing authority may, pending the determination of the application, give an interim direction under subsection (1) or (8) of this section, that is to say, a direction expressed to continue in force only until the application, and any appeal arising out of it, have been disposed of; and a request for such a direction shall not for the purposes of subsection (3) to (7) of this section be treated as an application for a variation under this section.
+
+## Annotations
+
+[^c15323191]: Textual amendment: Ss. 69A–69G inserted by [Transport Act 1982 (c. 49, SIF 126)](https://www.legislation.gov.uk/ukpga/1982/49), [Sch. 4 Pt. I](https://www.legislation.gov.uk/ukpga/1982/49/schedule/4/part/I)

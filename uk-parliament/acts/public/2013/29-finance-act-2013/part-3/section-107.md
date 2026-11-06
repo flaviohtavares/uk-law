@@ -1,0 +1,42 @@
+---
+title: Finance Act 2013, section 107
+act: Finance Act 2013
+section: '107'
+status: revised-with-pending-changes
+text_date: '2026-04-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2013/29/section/107
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Finance Act 2013, section 107
+
+> **Warning: changes not yet applied to this text (2).** Text as at 2026-04-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2013/29
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 107. Chargeable interests
+
+*Extent: E+W+S+N.I.*
+
+(1) In this Part “**chargeable interest**” means—
+
+- (a) an estate, interest, right or power in or over land in the United Kingdom, or
+- (b) the benefit of an obligation, restriction or condition affecting the value of any such estate, interest, right or power.
+
+(2) Where two or more persons are jointly entitled to a chargeable interest the chargeable interest is not regarded, for the purposes of this Part, as consisting of separate interests corresponding to the shares (if any) that those persons have by virtue of their joint entitlement.
+
+(3) An exempt interest is not a chargeable interest for the purposes of this Part.
+
+(4) The following are exempt interests—
+
+- (a) any security interest;
+- (b) a licence to use or occupy land;
+- (c) in England and Wales or Northern Ireland, a tenancy at will.
+
+(5) In subsection (4) “**security interest**” means an interest or right (other than a rentcharge) held for the purpose of securing the payment of money or the performance of any other obligation.
+
+(6) In the application of this Part in Scotland the reference in subsection (5) to a rentcharge is to be read as a reference to a feu duty or a payment mentioned in section 56(1) of the Abolition of Feudal Tenure etc (Scotland) Act 2000 (asp 5).
+
+(7) The Treasury may by regulations provide that any other description of interest or right in or over a dwelling is an exempt interest.

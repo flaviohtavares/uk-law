@@ -1,0 +1,578 @@
+---
+title: The Financial Services and Markets Act 2000 (Gibraltar) Order 2001
+id: uksi/2001/3084
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised-with-pending-changes
+made_date: '2001-09-11'
+text_date: '2025-02-27'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2001/3084
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2001/3084/pdfs/uksi_20013084_en.pdf
+- http://www.legislation.gov.uk/uksi/2001/3084/data.pdf
+pending_changes: 1
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Financial Services and Markets Act 2000 (Gibraltar) Order 2001
+
+> **Warning: changes not yet applied to this text (1).** Text as at 2025-02-27. See https://www.legislation.gov.uk/changes/affected/uksi/2001/3084
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2001 No. 3084
+
+FINANCIAL SERVICES AND MARKETS
+
+The Financial Services and Markets Act 2000 (Gibraltar) Order 2001
+
+Made
+
+11th September 2001
+
+Laid before Parliament
+
+11th September 2001
+
+Coming into force
+
+in accordance with article 1
+
+The Treasury, in exercise of the powers conferred on them by sections 409(1) and 428(3) of the Financial Services and Markets Act 2000[^f00001], hereby make the following Order:
+
+## 1. Citation, commencement and interpretation[^key-533d03effd07f709689f574e0dfcc93f][^key-6b61731e048f14ff81b616651b95ce7f]
+
+(1) This Order may be cited as the Financial Services and Markets Act 2000 (Gibraltar) Order 2001 and comes into force—
+
+- (a) for the purpose of making rules, on 5th October 2001;
+- (b) otherwise, on the day on which section 19 of the Act comes into force.
+
+(2) In this Order—
+
+- “the Act” means the Financial Services and Markets Act 2000;
+- “[^key-72531db10241d675b6871c8ee90a5091]**Gibraltar-based firm**” means—
+  - (a) a firm which—
+    - (i) is an AIFM, as defined in Article 4(1)(b) of the alternative investment fund managers directive, reading the reference in Article 4(1)(a)(ii) of that directive to authorisation pursuant to the UCITS directive as a reference to authorisation under the law of Gibraltar which implemented the UCITS directive, and
+    - (ii) is authorised as such by the Gibraltar Financial Services Commission under the law of Gibraltar which implemented the alternative investment fund managers directive; or
+  - (b) a firm not falling within paragraph (a) which has its head office in Gibraltar;
+- “the Passport Rights Regulations” means the Financial Services and Markets Act 2000 (EEA Passport Rights) Regulations 2001[^f00002];
+- “Schedule 3” means Schedule 3 to the Act.
+
+(3)[^key-0f20a8fe5779e75e104b5a43177a7869] Expressions used in this Order that are defined for the purposes of the Act have the same meaning as in the Act.
+
+## 2. Exercise of deemed passport rights by Gibraltar-based firms[^key-7aaed21d30da6f633edc378310c5bb0d][^key-96986a691a98205365df5deac70d7a5c]
+
+(1) Schedule 3[^f00003] applies in relation to a Gibraltar-based firm as follows.
+
+(1A)[^key-32f70902a6aec8b667380587b1e36d0b] A Gibraltar-based firm which—
+
+- (a) is an investment firm, as defined in Article 4(1)(1) of the markets in financial instruments directive, and
+- (b) is authorised under the law of Gibraltar which implemented Article 5 of that directive,
+
+is to be treated as having an entitlement, corresponding to the EEA right deriving from the markets in financial instruments directive that such a firm would have had before IP completion day, to establish a branch or provide services in the United Kingdom.
+
+(2)[^key-99456b0cab3c8a598be10277d64c3384] A Gibraltar-based firm which—
+
+- (a) is a credit institution as defined in Article 4(1)(1) of the capital requirements regulation, and
+- (b) is authorised as such by the Gibraltar Financial Services Commission,
+
+is to be treated as having an entitlement, corresponding to the EEA right deriving from the capital requirements directive that such a firm would have had before IP completion day, to establish a branch or provide services in the United Kingdom.
+
+(2A) A Gibraltar-based firm which—
+
+- (a) is a financial institution as defined in Article 4(1)(26) of the capital requirements regulation, and
+- (b) is a subsidiary of the kind mentioned in the first subparagraph of Article 34(1) of the capital requirements directive which fulfils the conditions of that subparagraph, reading references in that subparagraph to a Member State as including the United Kingdom and Gibraltar,
+
+is to be treated as having an entitlement, corresponding to the EEA right deriving from the capital requirements directive that such a firm would have had before IP completion day, to establish a branch or provide services in the United Kingdom.
+
+(3)[^key-dcf2de7e37ccc42348761fcd516ae1e7] A Gibraltar-based firm which—
+
+- (a) is an undertaking pursuing the activity of direct insurance (within the meaning of Article 2 of the Solvency 2 Directive, reading references in that Article to a member State as including the United Kingdom and Gibraltar), and
+- (b) is authorised by the Gibraltar Financial Services Commission to carry on one or more activities which would have required authorisation in accordance with Article 14 of the Solvency 2 Directive if the United Kingdom and Gibraltar were a member State,
+
+is to be treated as having an entitlement, corresponding to the EEA right deriving from the Solvency 2 Directive that such a firm would have had before IP completion day, to establish a branch or provide services in the United Kingdom.
+
+(3A)[^key-fe23b451f19fcecae13a078370682cbc] A Gibraltar-based firm which—
+
+- (a) is an insurance intermediary as defined in Article 2(1)(3) of the insurance distribution directive, an ancillary insurance intermediary as defined in Article 2(1)(4) of that directive or a reinsurance intermediary as defined in Article 2(1)(5) of that directive, and
+- (b) is registered as such with the Gibraltar Financial Services Commission,
+
+is to be treated as having an entitlement, corresponding to the EEA right deriving from the insurance distribution directive that such a firm would have had before IP completion day, to establish a branch or provide services in the United Kingdom.
+
+(3B) A Gibraltar-based firm which—
+
+- (a) is an undertaking pursuing the activity of reinsurance (within the meaning of Article 2 of the Solvency 2 Directive, reading references in that Article to a Member State as including the United Kingdom and Gibraltar), and
+- (b) is authorised as such by the Gibraltar Financial Services Commission,
+
+is to be treated as having an entitlement, corresponding to the EEA right deriving from the Solvency 2 Directive that such a firm would have had before IP completion day, to establish a branch or provide services in the United Kingdom.
+
+(3C) A Gibraltar-based firm which—
+
+- (a) is a management company, as defined in Article 2(1)(b) of the UCITS directive, and
+- (b) is authorised as such by the Gibraltar Financial Services Commission under the law of Gibraltar which implemented the UCITS directive,
+
+is to be treated as having an entitlement, corresponding to the EEA right deriving from the UCITS directive that such a firm would have had before IP completion day, to establish a branch or provide services in the United Kingdom.
+
+(3D) A firm falling within paragraph (a) of the definition of “Gibraltar-based firm” in Article 1(2) is to be treated as having an entitlement, corresponding to the EEA right deriving from the alternative investment fund managers directive that such a firm would have had before IP completion day, to establish a branch or provide services in the United Kingdom.
+
+(3E) A Gibraltar-based firm which is a mortgage intermediary admitted by the Gibraltar Financial Services Commission—
+
+- (a) to carry out all or part of the credit intermediation activities set out in Article 4(5) of the mortgages directive, or
+- (b) to provide advisory services (as defined in Article 4(21) of that directive),
+
+is to be treated as having an entitlement, corresponding to the EEA right deriving from the mortgages directive that such a firm would have had before IP completion day, to establish a branch or provide services in the United Kingdom.
+
+(3F) For the purposes of paragraph (3E), points (5) and (21) of Article 4 of the mortgages directive are to be read as if—
+
+- (a) for the purposes of the definition of “consumer” in point (1) of that Article, the reference in Article 3(a) of Directive [2008/48/EC](https://www.legislation.gov.uk/eudr/2008/48) to transactions covered by that directive were a reference to transactions of the kind that would immediately before IP completion day have been covered by that directive, and
+- (b) for the purposes of the definition of “creditor” in point (2) of Article 4 of the mortgages directive and the definition of “credit agreement” in point (3) of that Article, references in Article 3 of the mortgages directive to a Member State included the United Kingdom and Gibraltar.
+
+(3G) In Schedule 3 and in the Passport Rights Regulations—
+
+- (a) references to an EEA firm within paragraph 5(a) of that Schedule are to be treated as references to a Gibraltar-based firm within paragraph (1A);
+- (b) references to an EEA firm within paragraph 5(b) of that Schedule are to be treated as references to a Gibraltar-based firm within paragraph (2);
+- (c) references to an EEA firm within paragraph 5(c) of that Schedule are to be treated as references to a Gibraltar-based firm within paragraph (2A);
+- (d) references to an EEA firm within paragraph 5(d) of that Schedule are to be treated as references to a Gibraltar-based firm within paragraph (3);
+- (e) references to an EEA firm within paragraph 5(e) of that Schedule are to be treated as references to a Gibraltar-based firm within paragraph (3A);
+- (f) references to an EEA firm within paragraph 5(da) of that Schedule are to be treated as references to a Gibraltar-based firm within paragraph (3B);
+- (g) references to an EEA firm within paragraph 5(f) of that Schedule are to be treated as references to a Gibraltar-based firm within paragraph (3C);
+- (h) references to an EEA firm within paragraph 5(h) of that Schedule or to an “EEA AIFM” are to be treated as references to a Gibraltar-based firm within paragraph (3D);
+- (i) references to an EEA firm within paragraph 5(i) of that Schedule are to be treated as references to a Gibraltar-based firm within paragraph (3E).
+
+(4)[^key-7f5797e701959de7063b85516731f2e1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5) In relation to such a Gibraltar-based firm as is mentioned in paragraph (1A),[^key-4eb7bced0f8117211d2018e6e1eb043a] (2),[^key-c59dfe0c7a2eeae03c70cc6d4864e0f7] (2A),[^key-4e8ddc78ae571a5ab5b6622cec244eeb] (3) , (3A)[^key-3139c03602366fd911bc95f1a06d3396] , (3B)[^key-8e2e49dc4fa87b793aa716c0f2051d80] , (3C)[^key-6775a79e232ed7b1fa6e95acf9fa58f3] , (3D) or (3E)[^key-1d320245811a07814760641b3c975b8b], references in Schedule 3 , article 51ZD of the Financial Services and Markets Act 2000 (Regulated Activities) Order 2001[^key-1f59c3444db7f988350bfe53ec803621], the Passport Rights Regulations ,[^key-af700902068f2c34ec6862ae85a6ca80] (other than in relation to a Gibraltar-based firm falling within paragraph 5(da) of Schedule 3)[^key-e13a23df04560b7fe203aa6b59e10e17] the Financial Services and Markets Act 2000 (Compensation Scheme: Electing Participants) Regulations 2001[^f00004] ,[^key-c08e65bb7045a42f80c7c423261d0858] and[^key-053d2fdb0f7e33c028f13f0799726d1c] Part 4 of the Undertakings for Collective Investment in Transferable Securities Regulations 2011[^key-8eec3c99d2fbb83a83c17f86e6a02cbe] [^key-9e2572fedeec3acd7f9884e49e120b22]... to—
+
+- (a) “an EEA State” are to be treated as references to Gibraltar;
+- (b) “an EEA right” are to be treated as references to the entitlement mentioned in paragraph (1A), (2), (2A),[^key-b6a1220e40e7e4f35dc02a47006d6e73] (3) , (3A) , (3B) , (3C) , (3D) or (3E);
+- (c) rights deriving from a single market directive are to be treated as references to that entitlement, so far as corresponding to the rights that would before IP completion day have derived from that directive[^key-1f75a1e81b4a3b95e5fa27bffd2a10dc]; [^key-73fd915aec51ea6505763acdfc1bc8ed]...
+- (d) “EEA activities” are to be treated as references to the activities which the firm is seeking to carry on in exercise of that entitlement;
+- (e)[^key-092bd4e84b984c548f0d5f75139ee97d] “the home state regulator” are to be treated as references to the Gibraltar Financial Services Commission; and
+- (f) “an EEA firm” are to be treated as references to a Gibraltar-based firm referred to in paragraph (1A), (2), (2A), (3), (3A), (3B), (3C), (3D) or (3E).
+
+(5A)[^key-694e239120d2b7439db071ce9bfb374f] Paragraph 13 of Schedule 3 is to be read as if—
+
+- (a) in sub-paragraph (1)(b)(i), for “in accordance with” there were substituted “ in the manner set out in ”;
+- (b) in sub-paragraph (4)—
+  - (i) in the definition of “the appropriate UK regulator” for “is” there were substituted “ was immediately before IP completion day”;
+  - (ii) in the definition of “host state rules”—
+    - (aa) in paragraph (a) for “in accordance with” there were substituted “ in implementation of ”, and
+    - (bb) in paragraph (b) for “are” there were substituted “ deal with matters that immediately before IP completion day were ”.
+
+(5B) In paragraph 14 of Schedule 3, sub-paragraph (4) is to be read as if—
+
+- (a) in the definition of “the appropriate UK regulator” for “is” there were substituted “ was immediately before IP completion day”;
+- (b) in the definition of “host state rules”—
+  - (i) in paragraph (a) for “in accordance with” there were substituted “ in implementation of ”;
+  - (ii) in paragraph (b) for “are” there were substituted “ deal with matters that immediately before IP completion day were ”.
+
+(5C) Paragraph 15(6) of Schedule 3 is to be read as if after “authorisation granted to the firm under” there were inserted “ the law of Gibraltar which implemented ”.
+
+(5D) Paragraph 15A of Schedule 3 is to be read as if—
+
+- (a) in sub-paragraph (3)(c), for “required under Article 20(1)” there were substituted “ set out in Article 20(1)(a) and (b) ”;
+- (b) in sub-paragraph (4), the words “and the Commission” were omitted;
+- (c) in sub-paragraph (7)—
+  - (i) in the definition of “the appropriate UK regulator” for “is” there were substituted “ was immediately before IP completion day”;
+  - (ii) in the definition of “specified”, in paragraph (b), for “any directly applicable Community regulation or decision made under the UCITS directive” there were substituted “ any EU regulation or decision made under the UCITS directive which is assimilated direct[^key-dc93a104c72f2cb21de04ed5e915ff91] legislation ”;
+  - (iii) in the definition of “UCITS home state rules” for “falling” substitute “ which immediately before IP completion day fell ”.
+
+(5E) Paragraph 15B(2)(b) of Schedule 3 is to be read as if the words “and the Commission” were omitted.
+
+(5F) Paragraph 15C(2) of Schedule 3 is to be read as if—
+
+- (a) in paragraph (a), for “in accordance with” there were substituted “ in implementation of ”, and
+- (b) in paragraph (b) for “are” there were substituted “ deal with matters that immediately before IP completion day were ”.
+
+(6) Paragraph 16 of Schedule 3 does not apply to Gibraltar-based firms.
+
+(7) [^key-2cfc1df4e84245fb5b21d0e011c0ddab]... A Gibraltar-based firm which is exercising, or has exercised, the entitlement mentioned in paragraph (1A),[^key-88487b53c26ef30cbf6ca2452a5f0c13] (2),[^key-adc636ee9665c1c3c050d94a83e2f6c6] (2A),[^key-facb4ad25890f52cdcd3e704be952817] (3) , (3A)[^key-f990e592dc33dc5294dcce4845d0ec2d] , (3B)[^key-da965e5d247d7d4e2cc6529183fbe9a7] , (3C)[^key-af7c5290aa344bb14aae09944272f96a] , (3D) or (3E)[^key-f1e926844df33d326cdf26e9529af3d9] is to be taken to be an “incoming firm” for the purposes of Part XIII of the Act (incoming firms: intervention by the FCA[^key-6c3594f42e3404e0a61787f112234651] or PRA) [^key-a9e575efc53c2e713e789bd4d1936af6]....
+
+(8)[^key-cf36ed1c7540ecf59ec683b4a5ab8fa2] For the purposes of paragraph (7)—
+
+- (a) section 194 is to be read as if references to any directly applicable EU regulation or decision made under any EU legislation were a reference to any assimilated direct[^key-14d5d1745abb6857db768eba9b8e61fe] legislation that was originally made under that EU legislation;
+- (b) section 194A is to be read as if—
+  - (i) in subsection (3)—
+    - (aa) in paragraph (a), for “implements” there were substituted “ implemented ”;
+    - (bb) in paragraph (b), for the words from “directly applicable” to the end there were substituted “ EU regulation originally made under that directive which is assimilated direct[^key-f539a60293d41934305bda2f0c0a6704] legislation, or any regulations made by the Treasury, or technical standards made by the FCA, under a power substituted for the power of an EU institution to make EU tertiary legislation under that directive or that regulation ”;
+  - (ii) in subsection (7), “, ESMA and the Commission” were omitted, and
+  - (iii) subsection (8) were omitted;
+- (c) section 194B is to be read as if—
+  - (i) in subsection (2), the reference to the capital requirements directive were a reference to legislation which implemented the capital requirements directive,
+  - (ii) subsection (4) were omitted, and
+  - (iii) in subsection (8), the reference to “the Commission, EBA and regulators in affected Member States” were a reference to the Gibraltar Financial Services Commission;
+- (d) section 194C(6) is to be read as if the reference to the Commission were omitted;
+- (e) section 194D(4) is to be read as if “the Commission and EIOPA” were omitted;
+- (f) section 195A is to be read as if subsections (11) and (11A) were omitted;
+- (g) section 195B is to be read as if subsections (10) and (11) were omitted;
+- (h) section 195C is to be read as if—
+  - (i) subsection (10) were omitted, and
+  - (ii) in subsection (11), “the Commission and EIOPA” were omitted;
+- (i) section 199 is to be read as if—
+  - (i) in subsection (2)(a)(ii), for “directly applicable Community regulation or decision” there were substituted “ assimilated direct[^key-c6033c797368b64bddfe1d04b61f8302] legislation originally ”,
+  - (ii) in subsection (7), for paragraphs (a) and (b) there were substituted “ inform the Gibraltar Financial Services Commission ”, and
+  - (iii) subsections (8), (10) and (11) were omitted.
+
+## 2A. The Passport Rights Regulations: Gibraltar-based firms[^key-62da79679cc9012ea280e07edbffda02]
+
+(1) The Passport Rights Regulations apply in relation to a Gibraltar-based firm with the following further modifications.
+
+(2) Regulation 1(2) is to be read as if—
+
+- (a) in the definition of “health insurance risks”, in paragraph (b), after “Directive” there were inserted “ (reading references in Article 206(2) of the Solvency 2 Directive to a Member State or home Member State as including the United Kingdom and Gibraltar) ”;
+- (b) in the definition of “national guarantee fund”—
+  - (i) in paragraph (a), after “in accordance with” there were inserted “ the law of Gibraltar which implemented ”; and
+  - (ii) in paragraph (b), after “provided for in” there were inserted “ the law of Gibraltar which implemented ”; and
+- (c) in the definition of “tied agent”, for “Article 4.1.29 of the markets in financial instruments directive” there were substituted “ Article 2(11) of Commission Delegated Regulation (EU) 2017/565 supplementing Directive 2014/65/EU of the European Parliament and of the Council as regards organisational requirements and operating conditions for investment firms and defined terms for the purposes of that Directive ”.
+
+(3) Regulation 2 is to be read as if—
+
+- (a) in paragraph (2)(c) after “in accordance with” there were inserted “ the law of Gibraltar which implemented ”,
+- (b) in paragraph (3)—
+  - (i) in sub-paragraph (c), after “as defined in” there were inserted “ the law of Gibraltar which preserves or corresponds to ”, and
+  - (ii) in sub-paragraph (d), after “under” there were inserted “ the law of Gibraltar which preserves or corresponds to ”, and
+- (c) in paragraph (5), for sub-paragraph (e) there were substituted—
+
+  > - (e) a statement by the Gibraltar Financial Services Commission attesting that the firm covers—
+  >   - (i) the Solvency Capital Requirement calculated in accordance with the law of Gibraltar which implemented Article 100 of the Solvency 2 Directive, and
+  >   - (ii) the minimum capital requirement calculated in accordance with the law of Gibraltar which implemented Article 129 of that directive.
+
+(4)[^key-7edce778ef5798af2517f22ddd70e76a] Regulation 2A(2) is to be read as if the words from “to which” to “applies” were omitted.
+
+(5) Regulation 3 is to be read as if—
+
+- (a) in paragraph (3)—
+  - (i) for paragraph (a) there were substituted—
+
+    > - (a) a statement of the classes of business specified in Annex 1 or 2 to the Solvency 2 Directive which the firm is authorised to carry on in accordance with the law of Gibraltar which implemented the Solvency 2 Directive;
+
+    , and
+  - (ii) for paragraph (e) there were substituted—
+
+    > - (e) a statement by the Gibraltar Financial Services Commission attesting that the firm covers—
+    >   - (i) the Solvency Capital Requirement calculated in accordance with the law of Gibraltar which implemented Article 100 of the Solvency 2 Directive, and
+    >   - (ii) the minimum capital requirement calculated in accordance with the law of Gibraltar which implemented Article 129 of that directive.
+
+    ;
+- (b) in paragraph (5)(c)(i), after “directive” there were inserted “ (reading that Annex as it would have applied immediately before IP completion day in relation to an AIFM established in Gibraltar and exercising an EEA right deriving from that directive) ”.
+
+(6) Regulation 9A is to be read as if—
+
+- (a) in paragraph (3)(a) for “applies” there were substituted “ refers ”;
+- (b) paragraph (4) were omitted.
+
+## 3. EEA firms satisfying conditions under Gibraltar law[^key-4e465540e847d21f96001cb9691e6591]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 3A. Collective investment schemes constituted under Gibraltar law[^key-8bf3e60670971efb51735667d83260a3]
+
+(1)[^key-d83d248ca6518e2fe96580b25e75b32b] Section 264 of the Act applies in relation to a collective investment scheme which is constituted in Gibraltar as it applied immediately before IP completion day[^key-1c6568ecd518bee4cec7b8cfc462fd36] in relation to a collective investment scheme constituted in another EEA State, and references in that section to the home state regulator shall include the authority responsible for such regulation in Gibraltar.
+
+(2)[^key-5fa9ee6944361b09029e43fa805fe3b1] The Financial Services and Markets Act 2000 (Collective Investment Schemes Constituted in Other EEA States) Regulations 2001 are to be read in relation to a collective investment scheme constituted in Gibraltar as if—
+
+- (a) in regulation 3, for the words from “in accordance with” to “that directive” there were substituted “ immediately before IP completion day would have been a UCITS to which the UCITS directive applied ”, and
+- (b) in regulation 4(b) after “referred to in” there were inserted “ the law of Gibraltar which implemented ”.
+
+## 4. Exercise by UK firms of deemed passport rights in Gibraltar[^key-830a6dbd909eef9e33a2b5c0a78b922d][^key-bf50e26726de664efdcb6938ad796f64]
+
+(1)[^key-4799e06273acd9cedf676ff9255e8c1f] Schedule 3 applies in relation to—
+
+- (a) the establishment by a UK firm of a branch in Gibraltar, or the provision by a UK firm of services in Gibraltar, or
+- (b) the marketing in Gibraltar by a UK firm of units of a UK UCITS as defined in section 237 of the Act[^key-21c0178e65516a501063989e0a42d02f],
+
+as follows.
+
+(2) A UK firm is to be treated as having an entitlement, corresponding to the EEA right that such a firm would have had immediately before IP completion day[^key-fa991c8bfcc733db607512b5d2ede4b5], to establish a branch ,[^key-91118cee5091664dd1e1239dba1bf294] provide services or market the units referred to in paragraph (1)(b)[^key-d29fb01a4a22ea49c02b0f4ce1cf73b6] in Gibraltar.
+
+(3) In relation to a UK firm, references in Schedule 3, the Passport Rights Regulations and article 77[^key-2f6143e842c66dcca76d9186e19d4cb4][^key-6145fe7a392b2ca3469013ba5b0677ba] of the Financial Services and Markets Act 2000 (Transitional Provisions) (Authorised Persons etc.) Order 2001 [^key-cd2f9be7330c8b3ab92145f2427ec3c7]... to—
+
+- (a) “an EEA State” are to be treated as including references to Gibraltar;
+- (b) “an EEA right” are to be treated as including references to the entitlement mentioned in paragraph (2);
+- (c) rights deriving from a single market directive are to be treated as including references to that entitlement, so far as corresponding to the rights that would before IP completion day have derived from that directive[^key-ba2c1c80f2e14a15f647b92398f6ae6a]; [^key-d334750b8839d69ac7a003a6f9ad548f]...
+- (d) “EEA activities” are to be treated as including references to the activities which the firm is seeking to carry on in exercise of that entitlement ; and[^key-08622de43b1e42c1ea7826595ee50149]
+- (e) “host state regulator” are to be treated as references to the Gibraltar Financial Services Commission.
+
+(3A)[^key-949a862194b3b7d1ef2f7e7ba6b7027d] Paragraph 19 of Schedule 3 is to be read as if—
+
+- (a) in sub-paragraph (4)(b)(i), “pursuant to the provisions of the UCITS directive” were omitted;
+- (b) for sub-paragraph (5ZA) there were substituted—
+
+  > (5ZA) This paragraph does not apply to a UK firm which is a reinsurance undertaking that only carries on—
+  >
+  > - (a) the activity consisting in accepting risks ceded by an insurance undertaking or third-country insurance undertaking, by another reinsurance undertaking or by a third-country reinsurance undertaking as defined in regulation 2(1) of the Solvency 2 Regulations 2015, or
+  > - (b) in the case of the association of underwriters known as Lloyd's, the activity consisting in accepting risks ceded by any member of Lloyd's, or by an insurance undertaking or reinsurance undertaking other than the association of underwriters known as Lloyd's.
+
+  ;
+- (c) in sub-paragraph (5C) for “has the meaning given in Article 4.1.3 of the markets in financial instruments directive” there were substituted “ means any of the services and activities listed in Part 3A of Schedule 2 to the Financial Services and Markets Act 2000 (Regulated Activities) Order 2001 ”;
+- (d) in sub-paragraph (6) “authorised under the capital requirements directive” were omitted;
+- (e) in sub-paragraph (7BA)(c)(ii) for “any directly applicable EU regulation made under that directive” there were substituted “ any EU regulation originally made under that directive which is assimilated direct[^key-986d5d59bc5405c285a7243e424da1c3] legislation, or any regulations made by the Treasury, or technical standards made by the FCA, under a power substituted for the power of an EU institution to make EU tertiary legislation under that directive ”;
+- (f) in sub-paragraph (7BB)(b) the words “pursuant to Article 6.1 of the alternative investment fund managers directive” were omitted;
+- (g) in sub-paragraph (12), paragraph (aa) (but not the “and” immediately after it) were omitted;
+- (h) sub-paragraph (12ZA) were omitted;
+- (i) in sub-paragraph (14)—
+  - (i) in paragraph (a), for “in accordance with” there were substituted “ in implementation of ”;
+  - (ii) in paragraph (b) for “are” there were substituted “ deal with matters that immediately before IP completion day were ”.
+
+(3B) Paragraph 20 of Schedule 3 is to be read as if—
+
+- (a) in sub-paragraph (2B) for “has the meaning given in Article 4.1.3 of the markets in financial instruments directive” there were substituted “ means any of the services and activities listed in Part 3A of Schedule 2 to the Financial Services and Markets Act 2000 (Regulated Activities) Order 2001 ”;
+- (b) sub-paragraph (3B) were omitted;
+- (c) in sub-paragraph (3C)(a), for “as a management company pursuant to the provisions of the UCITS directive” there were substituted “ to carry on the activity specified in Article 51ZA(1) of the Financial Services and Markets Act 2000 (Regulated Activities) Order 2001 (managing a UCITS) ”;
+- (d) in sub-paragraph (3D)(a)(ii), after “pursuant to” there were inserted “ provision made in implementation of ”; and
+- (e) in sub-paragraph (3E)—
+  - (i) in paragraph (a), for “implementing” there were substituted “ that implemented ”; and
+  - (ii) in paragraph (b), for “any directly applicable EU regulation made under that directive” there were substituted “ any EU regulation originally made under that directive which is assimilated direct[^key-7098d34f4ba1470265f920403e56ef2f] legislation, or any regulations made by the Treasury, or technical standards made by the FCA, under a power substituted for the power of an EU institution to make EU tertiary legislation under that directive ”;
+- (f) in sub-paragraph (4BA) for “under the second sub-paragraph of Article 34.7 of that directive” there were substituted “ as to the identity of the remote members or participants of a multilateral trading facility operated by it ”;
+- (g) in sub-paragraph (4D) for “which falls within the second sub-paragraph of Article 2(1) of the Solvency 2 Directive” there were substituted “ which is a reinsurance undertaking which only conducts reinsurance activities ”;
+- (h) in sub-paragraph (4G), for “Community” there were substituted “ UK-Gibraltar ”;
+- (i) in sub-paragraph (4H)—
+  - (i) in the opening words for “Community” there were substituted “ UK-Gibraltar ”;
+  - (ii) in paragraph (b), for “the EEA” there were substituted “ the United Kingdom or Gibraltar ”;
+  - (iii) in paragraph (c), for the words from “in an EEA State” to the end there were substituted “ in Gibraltar, in a case where the leading insurance undertaking is established in the United Kingdom, or from a head office or branch established in the United Kingdom, in a case where the leading insurance undertaking is established in Gibraltar ”;
+- (j) in sub-paragraph (4I)—
+  - (i) in paragraph (a), for “Community” there were substituted “ UK-Gibraltar ”; and
+  - (ii) paragraphs (c) and (d) were omitted.
+
+(3C) Paragraph 20B of Schedule 3 is to be read as if—
+
+- (a) in sub-paragraph (1), for “UCITS established in the United Kingdom” there were substituted “ UK UCITS as defined in section 237 ”;
+- (b) the words “or in regulations made by the European Commission under the UCITS directive” were omitted;
+- (c) in sub-paragraph (3)(c), after “imposed by” there were inserted “ provision made in implementation of ”.
+
+(3D) Paragraph 20C of Schedule 3 is to be read as if—
+
+- (a) in sub-paragraph (5)—
+  - (i) in paragraph (a), for sub-paragraphs (i) and (ii) there were substituted—
+
+    > - (i) the provisions that implemented the alternative investment fund managers directive,
+    > - (ii) any EU regulation originally made under that directive which is assimilated direct[^key-ff2bcb6145a88705eeb0a0010cb1f69c] legislation, and
+    > - (iii) any regulations made by the Treasury, or technical standards made by the FCA, under a power substituted for the power of an EU institution to make EU tertiary legislation under that directive, and
+
+    , and
+  - (ii) in paragraph (b)(ii), for “another EEA State” there were substituted “ an EEA State ”;
+- (b) in sub-paragraph (12), in the definitions of “feeder AIF” and “master AIF”, after “directive” there were inserted “ (reading references to an AIF as references to an AIF as defined by regulation 3 of the Alternative Investment Fund Managers Regulations 2013) ”.
+
+(4) In paragraph 24(1)(b) of Schedule 3, the reference to the right conferred by Article 34 of the capital requirements directive[^key-6b065bf090e33e37b577ed12000eb810] includes a reference to the entitlement mentioned in paragraph (2), so far as corresponding to the right conferred by that Article before IP completion day[^key-415fb2ab96714426d02033e6b2d1dad5].
+
+(5)[^key-9315c9600d99344f6516e81962df80f0] Paragraph 28(1)(a) of Schedule 3 is to be read as if for “Article 20.1” there were substituted “ Article 20(1)(a) and (b) ”.
+
+(6) Paragraph 29 of Schedule 3 is to be read as if—
+
+- (a) the words “in accordance with paragraph 5 of Article 45 of the alternative investment fund managers directive” were omitted;
+- (b) for “provide the information or to take the steps referred to in that paragraph” there were substituted “ provide the Gibraltar Financial Services Commission with information falling under its responsibility, or to take the necessary steps to put an end to a breach of the law of Gibraltar which implemented the alternative investment fund managers directive ”.
+
+## 5. The Passport Rights Regulations: UK firms[^key-f5491f81f0b97bbaddc6349770702bd0]
+
+(1) The Passport Rights Regulations apply in relation to a UK firm with the following further modifications.
+
+(2) Regulation 1(2) is to be read as if in the definition of “tied agent”, for “Article 4.1.29 of the markets in financial instruments directive” there were substituted “ Article 2(11) of Commission Delegated Regulation (EU) 2017/565 supplementing Directive 2014/65/EU of the European Parliament and of the Council as regards organisational requirements and operating conditions for investment firms and defined terms for the purposes of that Directive ”.
+
+(3) Regulation 17A is to be read as if—
+
+- (a) in paragraph (3)(f) after “directive” there were inserted “ (reading that Article as it would have applied immediately before IP completion day to a UK AIFM exercising an EEA right deriving from that directive) ”; and
+- (b) in paragraph (10)—
+  - (i) in the definition of “depositary” for the words from “has” to the end there were substituted “ means a depositary appointed in accordance with provision that implemented Article 21 of the alternative investment fund managers directive ”;
+  - (ii) in the definition of “feeder AIF”, after “directive” there were inserted “ (reading references to an AIF as references to an AIF as defined by regulation 3 of the Alternative Investment Fund Managers Regulations 2013) ”;
+  - (iii) for the definition of “implementing provision” there were substituted—
+
+    > “**implementing provision**” means—
+    >
+    > - (a) a provision made in implementation of the alternative investment fund managers directive,
+    > - (b) any EU regulation originally made under that directive which is assimilated direct[^key-327c36a8072b38ff97252fe4972a31ae] legislation, and
+    > - (c) any regulations made by the Treasury, or technical standards made by the FCA, under a power substituted for the power of an EU institution to make EU tertiary legislation under that directive,
+
+    and
+  - (iv) in the definition of “master AIF”, after “directive” there were inserted “ (reading references to an AIF as references to an AIF as defined by regulation 3 of the Alternative Investment Fund Managers Regulations 2013) ”; and
+  - (v) in the definition of “retail investor”, for the words from “has the meaning” to the end there were substituted “ means an investor who is not a professional client for the purposes of the markets in financial instruments regulation ”.
+
+(4) Regulation 19 is to be read as if—
+
+- (a) in paragraph (2)(a), the words “(within the meaning of Article 13(7) of the Solvency 2 Directive)” were omitted; and
+- (b) after paragraph (2) there were inserted—
+
+  > (3) In paragraph (2)(a) “**reinsurance**” has the meaning given in Article 13(7) of the Solvency 2 Directive, but reading—
+  >
+  > - (a) references to an insurance undertaking, a reinsurance undertaking or a third country insurance undertaking in accordance with the definitions section 417(1) of the Act, and
+  > - (b) the reference to a third country reinsurance undertaking in accordance with regulation 2(1) of the Solvency 2 Regulations 2015.
+
+  .
+
+Tony McNulty
+
+Graham Stringer
+
+Two of the Lords Commissioners of Her Majesty’s Treasury
+
+11th September 2001
+
+(This note is not part of the Order)
+
+This Order provides for firms authorised and having their head office in Gibraltar to exercise rights to establish branches and provide services in the United Kingdom, corresponding to the “passport” rights of firms authorised in other EEA States, under the EC single market directives relating to financial services. The rights in question of such Gibraltar-based firms are equivalent to “passport rights” under the banking consolidation directive ([2000/12/EC](https://www.legislation.gov.uk/european/directive/2000/0012)) (so far as relating only to activities falling within items 1 to 6 in Annex 1 to that directive), and under the insurance directives ([73/239/EEC](https://www.legislation.gov.uk/european/directive/1973/0239); [88/357/EEC](https://www.legislation.gov.uk/european/directive/1988/0357); [92/49/EEC](https://www.legislation.gov.uk/european/directive/1992/0049); [79/267/EEC](https://www.legislation.gov.uk/european/directive/1979/0267); [90/619/EEC](https://www.legislation.gov.uk/european/directive/1990/0619); and [92/96/EEC](https://www.legislation.gov.uk/european/directive/1992/0096)).
+
+The Order also makes provision about firms authorised in other EEA States which have exercised their rights under any of the single market directives to “passport” into Gibraltar. Article 3 provides that where such firms carry on in the UK activities covered by their “passport”, they qualify for authorisation under Schedule 3 to the Financial Services and Markets Act 2000. It also imposes on such firms obligations to inform the Financial Services Authority of changes relating to the establishment of branches or the provision of services in the United Kingdom.
+
+Article 4 provides for UK firms which seek to establish branches or provide services in Gibraltar to be treated equivalently to those exercising “passport” rights under any of the single market directives to establish branches or provide services in other EEA States.
+
+## Annotations
+
+[^f00001]: Footnote: S.I. [2000 c. 8](https://www.legislation.gov.uk/ukpga/2000/8).
+
+[^key-533d03effd07f709689f574e0dfcc93f]: Commencement: Art. 1 in force at 5.10.2001 for specified purposes, see [art. 1(1)(a)](https://www.legislation.gov.uk/uksi/2001/3084/article/1/1/a)
+
+[^key-6b61731e048f14ff81b616651b95ce7f]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2001/3084/article/1) in force at 1.12.2001 in so far as not already in force, see [art. 1(1)(b)](https://www.legislation.gov.uk/uksi/2001/3084/article/1/1/b)
+
+[^key-72531db10241d675b6871c8ee90a5091]: Textual amendment: Words in [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3084/article/1/2) substituted (31.12.2020) by [The Financial Services (Gibraltar) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/589)](https://www.legislation.gov.uk/uksi/2019/589), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/589/regulation/1/3), [4(2)(a)](https://www.legislation.gov.uk/uksi/2019/589/regulation/4/2/a) (with [reg. 12](https://www.legislation.gov.uk/uksi/2019/589/regulation/12)) (as amended by [S.I. 2020/1274](https://www.legislation.gov.uk/uksi/2020/1274), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1274/regulation/1), [2](https://www.legislation.gov.uk/uksi/2020/1274/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^f00002]: Footnote: S.I. [2001/2511](https://www.legislation.gov.uk/uksi/2001/2511).
+
+[^key-0f20a8fe5779e75e104b5a43177a7869]: Textual amendment: [Art. 1(3)](https://www.legislation.gov.uk/uksi/2001/3084/article/1/3) inserted (31.12.2020) by [The Financial Services (Gibraltar) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/589)](https://www.legislation.gov.uk/uksi/2019/589), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/589/regulation/1/3), [4(3)](https://www.legislation.gov.uk/uksi/2019/589/regulation/4/3) (with [reg. 12](https://www.legislation.gov.uk/uksi/2019/589/regulation/12)) (as amended by [S.I. 2020/1274](https://www.legislation.gov.uk/uksi/2020/1274), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1274/regulation/1), [2](https://www.legislation.gov.uk/uksi/2020/1274/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-7aaed21d30da6f633edc378310c5bb0d]: Commencement: Art. 2 in force at 5.10.2001 for specified purposes, see [art. 1(1)(a)](https://www.legislation.gov.uk/uksi/2001/3084/article/1/1/a)
+
+[^key-96986a691a98205365df5deac70d7a5c]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2001/3084/article/2) in force at 1.12.2001 in so far as not already in force, see [art. 1(1)(b)](https://www.legislation.gov.uk/uksi/2001/3084/article/1/1/b)
+
+[^f00003]: Footnote: Schedule 3 was amended by S.I. [2000/2952](https://www.legislation.gov.uk/uksi/2000/2952), regulation 8, and by S.I. [2001/1376](https://www.legislation.gov.uk/uksi/2001/1376).
+
+[^key-32f70902a6aec8b667380587b1e36d0b]: Textual amendment: [Art. 2(1A)](https://www.legislation.gov.uk/uksi/2001/3084/article/2/1A) substituted (31.12.2020) by [The Financial Services (Gibraltar) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/589)](https://www.legislation.gov.uk/uksi/2019/589), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/589/regulation/1/3), [5(2)](https://www.legislation.gov.uk/uksi/2019/589/regulation/5/2) (with [reg. 12](https://www.legislation.gov.uk/uksi/2019/589/regulation/12)) (as amended by [S.I. 2020/1274](https://www.legislation.gov.uk/uksi/2020/1274), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1274/regulation/1), [2](https://www.legislation.gov.uk/uksi/2020/1274/regulation/2) and [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 32(b)(i)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/32/b/i)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-99456b0cab3c8a598be10277d64c3384]: Textual amendment: [Art. 2(2)(2A)](https://www.legislation.gov.uk/uksi/2001/3084/article/2/2/2A) substituted for art. 2(2) (31.12.2020) by [The Financial Services (Gibraltar) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/589)](https://www.legislation.gov.uk/uksi/2019/589), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/589/regulation/1/3), [5(3)](https://www.legislation.gov.uk/uksi/2019/589/regulation/5/3) (with [reg. 12](https://www.legislation.gov.uk/uksi/2019/589/regulation/12)) (as amended by [S.I. 2020/1274](https://www.legislation.gov.uk/uksi/2020/1274), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1274/regulation/1), [2](https://www.legislation.gov.uk/uksi/2020/1274/regulation/2) and [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 32(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/32/b/ii)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-dcf2de7e37ccc42348761fcd516ae1e7]: Textual amendment: [Art. 2(3)](https://www.legislation.gov.uk/uksi/2001/3084/article/2/3) substituted (31.12.2020) by [The Financial Services (Gibraltar) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/589)](https://www.legislation.gov.uk/uksi/2019/589), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/589/regulation/1/3), [5(4)](https://www.legislation.gov.uk/uksi/2019/589/regulation/5/4) (with [reg. 12](https://www.legislation.gov.uk/uksi/2019/589/regulation/12)) (as amended by [S.I. 2020/1274](https://www.legislation.gov.uk/uksi/2020/1274), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1274/regulation/1), [2](https://www.legislation.gov.uk/uksi/2020/1274/regulation/2) and [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 32(b)(iii)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/32/b/iii)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-fe23b451f19fcecae13a078370682cbc]: Textual amendment: [Art. 2(3A)-(3G)](https://www.legislation.gov.uk/uksi/2001/3084/article/2/3A) substituted for art. 2(3A)-(3E) (31.12.2020) by [The Financial Services (Gibraltar) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/589)](https://www.legislation.gov.uk/uksi/2019/589), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/589/regulation/1/3), [5(5)](https://www.legislation.gov.uk/uksi/2019/589/regulation/5/5) (with [reg. 12](https://www.legislation.gov.uk/uksi/2019/589/regulation/12)) (as amended by [S.I. 2020/1274](https://www.legislation.gov.uk/uksi/2020/1274), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1274/regulation/1), [2](https://www.legislation.gov.uk/uksi/2020/1274/regulation/2) and [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 32(b)(iv)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/32/b/iv)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-7f5797e701959de7063b85516731f2e1]: Textual amendment: [Art. 2(4)](https://www.legislation.gov.uk/uksi/2001/3084/article/2/4) omitted (31.12.2020) by virtue of [The Financial Services (Gibraltar) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/589)](https://www.legislation.gov.uk/uksi/2019/589), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/589/regulation/1/3), [5(6)](https://www.legislation.gov.uk/uksi/2019/589/regulation/5/6) (with [reg. 12](https://www.legislation.gov.uk/uksi/2019/589/regulation/12)) (as amended by [S.I. 2020/1274](https://www.legislation.gov.uk/uksi/2020/1274), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1274/regulation/1), [2](https://www.legislation.gov.uk/uksi/2020/1274/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-4eb7bced0f8117211d2018e6e1eb043a]: Textual amendment: Word in [art. 2(5)](https://www.legislation.gov.uk/uksi/2001/3084/article/2/5) inserted (31.7.2006) by [The Financial Services and Markets Act 2000 (Gibraltar) (Amendment) Order 2006 (S.I. 2006/1805)](https://www.legislation.gov.uk/uksi/2006/1805), [arts. 1](https://www.legislation.gov.uk/uksi/2006/1805/article/1), [2(5)](https://www.legislation.gov.uk/uksi/2006/1805/article/2/5)
+
+[^key-c59dfe0c7a2eeae03c70cc6d4864e0f7]: Textual amendment: Words in [art. 2(5)](https://www.legislation.gov.uk/uksi/2001/3084/article/2/5) substituted (14.1.2005) by [The Financial Services and Markets Act 2000 (Gibraltar) (Amendment) Order 2005 (S.I. 2005/1)](https://www.legislation.gov.uk/uksi/2005/1), [arts. 1](https://www.legislation.gov.uk/uksi/2005/1/article/1), [2(4)](https://www.legislation.gov.uk/uksi/2005/1/article/2/4)
+
+[^key-4e8ddc78ae571a5ab5b6622cec244eeb]: Textual amendment: Word in [art. 2(5)](https://www.legislation.gov.uk/uksi/2001/3084/article/2/5) inserted (31.12.2020) by [The Financial Services (Gibraltar) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/589)](https://www.legislation.gov.uk/uksi/2019/589), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/589/regulation/1/3), [5(7)(a)](https://www.legislation.gov.uk/uksi/2019/589/regulation/5/7/a) (with [reg. 12](https://www.legislation.gov.uk/uksi/2019/589/regulation/12)) (as amended by [S.I. 2020/1274](https://www.legislation.gov.uk/uksi/2020/1274), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1274/regulation/1), [2](https://www.legislation.gov.uk/uksi/2020/1274/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-3139c03602366fd911bc95f1a06d3396]: Textual amendment: Words in [art. 2(5)](https://www.legislation.gov.uk/uksi/2001/3084/article/2/5) substituted (10.12.2007) by [The Financial Services and Markets Act 2000 (Reinsurance Directive) Order 2007 (S.I. 2007/3254)](https://www.legislation.gov.uk/uksi/2007/3254), [arts. 1](https://www.legislation.gov.uk/uksi/2007/3254/article/1), [3(2)(c)(ii)](https://www.legislation.gov.uk/uksi/2007/3254/article/3/2/c/ii)
+
+[^key-8e2e49dc4fa87b793aa716c0f2051d80]: Textual amendment: Words in [art. 2(5)](https://www.legislation.gov.uk/uksi/2001/3084/article/2/5) substituted (24.8.2012) by [The Financial Services and Markets Act 2000 (Gibraltar) (Amendment) Order 2012 (S.I. 2012/2017)](https://www.legislation.gov.uk/uksi/2012/2017), [arts. 1](https://www.legislation.gov.uk/uksi/2012/2017/article/1), [2(2)(c)(i)](https://www.legislation.gov.uk/uksi/2012/2017/article/2/2/c/i)
+
+[^key-6775a79e232ed7b1fa6e95acf9fa58f3]: Textual amendment: Words in [art. 2(5)](https://www.legislation.gov.uk/uksi/2001/3084/article/2/5) substituted (16.6.2014) by [The Alternative Investment Fund Managers Order 2014 (S.I. 2014/1292)](https://www.legislation.gov.uk/uksi/2014/1292), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/1292/article/1/2), [3(3)(c)(i)](https://www.legislation.gov.uk/uksi/2014/1292/article/3/3/c/i) (as amended by [S.I. 2014/1313](https://www.legislation.gov.uk/uksi/2014/1313), [arts. 1](https://www.legislation.gov.uk/uksi/2014/1313/article/1), [2(a)](https://www.legislation.gov.uk/uksi/2014/1313/article/2/a))
+
+[^key-1d320245811a07814760641b3c975b8b]: Textual amendment: Words in [art. 2(5)](https://www.legislation.gov.uk/uksi/2001/3084/article/2/5) substituted (20.4.2015 for specified purposes, 21.12.2015 for specified purposes, 21.3.2016 in so far as not already in force) by [The Mortgage Credit Directive Order 2015 (S.I. 2015/910)](https://www.legislation.gov.uk/uksi/2015/910), [art. 1(5)](https://www.legislation.gov.uk/uksi/2015/910/article/1/5), [Sch. 1 para. 10(2)(c)](https://www.legislation.gov.uk/uksi/2015/910/schedule/1/paragraph/10/2/c) (with [Pt. 4](https://www.legislation.gov.uk/uksi/2015/910/part/4))
+
+[^key-1f59c3444db7f988350bfe53ec803621]: Textual amendment: Words in [art. 2(5)](https://www.legislation.gov.uk/uksi/2001/3084/article/2/5) inserted (16.6.2014) by [The Alternative Investment Fund Managers Order 2014 (S.I. 2014/1292)](https://www.legislation.gov.uk/uksi/2014/1292), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/1292/article/1/2), [3(3)(c)(ii)](https://www.legislation.gov.uk/uksi/2014/1292/article/3/3/c/ii) (as amended by [S.I. 2014/1313](https://www.legislation.gov.uk/uksi/2014/1313), [arts. 1](https://www.legislation.gov.uk/uksi/2014/1313/article/1), [2(a)](https://www.legislation.gov.uk/uksi/2014/1313/article/2/a))
+
+[^key-af700902068f2c34ec6862ae85a6ca80]: Textual amendment: Comma in [art. 2(5)](https://www.legislation.gov.uk/uksi/2001/3084/article/2/5) substituted for word (24.8.2012) by [The Financial Services and Markets Act 2000 (Gibraltar) (Amendment) Order 2012 (S.I. 2012/2017)](https://www.legislation.gov.uk/uksi/2012/2017), [arts. 1](https://www.legislation.gov.uk/uksi/2012/2017/article/1), [2(2)(c)(ii)](https://www.legislation.gov.uk/uksi/2012/2017/article/2/2/c/ii)
+
+[^key-e13a23df04560b7fe203aa6b59e10e17]: Textual amendment: Words in [art. 2(5)](https://www.legislation.gov.uk/uksi/2001/3084/article/2/5) inserted (10.12.2007) by [The Financial Services and Markets Act 2000 (Reinsurance Directive) Order 2007 (S.I. 2007/3254)](https://www.legislation.gov.uk/uksi/2007/3254), [arts. 1](https://www.legislation.gov.uk/uksi/2007/3254/article/1), [3(2)(c)(i)](https://www.legislation.gov.uk/uksi/2007/3254/article/3/2/c/i)
+
+[^f00004]: Footnote: S.I. [2001/1783](https://www.legislation.gov.uk/uksi/2001/1783).
+
+[^key-c08e65bb7045a42f80c7c423261d0858]: Textual amendment: Words in [art. 2(5)](https://www.legislation.gov.uk/uksi/2001/3084/article/2/5) inserted (24.8.2012) by [The Financial Services and Markets Act 2000 (Gibraltar) (Amendment) Order 2012 (S.I. 2012/2017)](https://www.legislation.gov.uk/uksi/2012/2017), [arts. 1](https://www.legislation.gov.uk/uksi/2012/2017/article/1), [2(2)(c)(iii)](https://www.legislation.gov.uk/uksi/2012/2017/article/2/2/c/iii)
+
+[^key-053d2fdb0f7e33c028f13f0799726d1c]: Textual amendment: Word in [art. 2(5)](https://www.legislation.gov.uk/uksi/2001/3084/article/2/5) inserted (31.12.2020) by [The Financial Services (Gibraltar) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/589)](https://www.legislation.gov.uk/uksi/2019/589), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/589/regulation/1/3), [5(7)(b)](https://www.legislation.gov.uk/uksi/2019/589/regulation/5/7/b) (with [reg. 12](https://www.legislation.gov.uk/uksi/2019/589/regulation/12)) (as amended by [S.I. 2020/1274](https://www.legislation.gov.uk/uksi/2020/1274), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1274/regulation/1), [2](https://www.legislation.gov.uk/uksi/2020/1274/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-8eec3c99d2fbb83a83c17f86e6a02cbe]: Textual amendment: Words in [art. 2(5)](https://www.legislation.gov.uk/uksi/2001/3084/article/2/5) substituted (16.6.2014) by [The Alternative Investment Fund Managers Order 2014 (S.I. 2014/1292)](https://www.legislation.gov.uk/uksi/2014/1292), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/1292/article/1/2), [3(3)(c)(iii)](https://www.legislation.gov.uk/uksi/2014/1292/article/3/3/c/iii) (as amended by [S.I. 2014/1313](https://www.legislation.gov.uk/uksi/2014/1313), [arts. 1](https://www.legislation.gov.uk/uksi/2014/1313/article/1), [2(a)](https://www.legislation.gov.uk/uksi/2014/1313/article/2/a))
+
+[^key-9e2572fedeec3acd7f9884e49e120b22]: Textual amendment: Words in [art. 2(5)](https://www.legislation.gov.uk/uksi/2001/3084/article/2/5) omitted (31.12.2020) by virtue of [The Financial Services (Gibraltar) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/589)](https://www.legislation.gov.uk/uksi/2019/589), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/589/regulation/1/3), [5(7)(c)](https://www.legislation.gov.uk/uksi/2019/589/regulation/5/7/c) (with [reg. 12](https://www.legislation.gov.uk/uksi/2019/589/regulation/12)) (as amended by [S.I. 2020/1274](https://www.legislation.gov.uk/uksi/2020/1274), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1274/regulation/1), [2](https://www.legislation.gov.uk/uksi/2020/1274/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-b6a1220e40e7e4f35dc02a47006d6e73]: Textual amendment: Word in [art. 2(5)(b)](https://www.legislation.gov.uk/uksi/2001/3084/article/2/5/b) inserted (31.12.2020) by [The Financial Services (Gibraltar) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/589)](https://www.legislation.gov.uk/uksi/2019/589), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/589/regulation/1/3), [5(7)(d)](https://www.legislation.gov.uk/uksi/2019/589/regulation/5/7/d) (with [reg. 12](https://www.legislation.gov.uk/uksi/2019/589/regulation/12)) (as amended by [S.I. 2020/1274](https://www.legislation.gov.uk/uksi/2020/1274), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1274/regulation/1), [2](https://www.legislation.gov.uk/uksi/2020/1274/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-1f75a1e81b4a3b95e5fa27bffd2a10dc]: Textual amendment: Words in [art. 2(5)(c)](https://www.legislation.gov.uk/uksi/2001/3084/article/2/5/c) substituted (31.12.2020) by [The Financial Services (Gibraltar) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/589)](https://www.legislation.gov.uk/uksi/2019/589), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/589/regulation/1/3), [5(7)(e)](https://www.legislation.gov.uk/uksi/2019/589/regulation/5/7/e) (with [reg. 12](https://www.legislation.gov.uk/uksi/2019/589/regulation/12)) (as amended by [S.I. 2020/1274](https://www.legislation.gov.uk/uksi/2020/1274), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1274/regulation/1), [2](https://www.legislation.gov.uk/uksi/2020/1274/regulation/2) and [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 32(b)(v)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/32/b/v)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-73fd915aec51ea6505763acdfc1bc8ed]: Textual amendment: Word in [art. 2(5)(c)](https://www.legislation.gov.uk/uksi/2001/3084/article/2/5/c) omitted (31.12.2020) by virtue of [The Financial Services (Gibraltar) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/589)](https://www.legislation.gov.uk/uksi/2019/589), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/589/regulation/1/3), [5(7)(f)](https://www.legislation.gov.uk/uksi/2019/589/regulation/5/7/f) (with [reg. 12](https://www.legislation.gov.uk/uksi/2019/589/regulation/12)) (as amended by [S.I. 2020/1274](https://www.legislation.gov.uk/uksi/2020/1274), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1274/regulation/1), [2](https://www.legislation.gov.uk/uksi/2020/1274/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-092bd4e84b984c548f0d5f75139ee97d]: Textual amendment: [Art. 2(5)(e)](https://www.legislation.gov.uk/uksi/2001/3084/article/2/5/e)[(f)](https://www.legislation.gov.uk/uksi/2001/3084/article/2/5/f) inserted (31.12.2020) by [The Financial Services (Gibraltar) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/589)](https://www.legislation.gov.uk/uksi/2019/589), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/589/regulation/1/3), [5(7)(g)](https://www.legislation.gov.uk/uksi/2019/589/regulation/5/7/g) (with [reg. 12](https://www.legislation.gov.uk/uksi/2019/589/regulation/12)) (as amended by [S.I. 2020/1274](https://www.legislation.gov.uk/uksi/2020/1274), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1274/regulation/1), [2](https://www.legislation.gov.uk/uksi/2020/1274/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-694e239120d2b7439db071ce9bfb374f]: Textual amendment: [Art. 2(5A)-(5F)](https://www.legislation.gov.uk/uksi/2001/3084/article/2/5A) inserted (31.12.2020) by [The Financial Services (Gibraltar) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/589)](https://www.legislation.gov.uk/uksi/2019/589), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/589/regulation/1/3), [5(8)](https://www.legislation.gov.uk/uksi/2019/589/regulation/5/8) (with [reg. 12](https://www.legislation.gov.uk/uksi/2019/589/regulation/12)) (as amended by [S.I. 2020/1274](https://www.legislation.gov.uk/uksi/2020/1274), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1274/regulation/1), [2](https://www.legislation.gov.uk/uksi/2020/1274/regulation/2) and [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 32(b)(vi)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/32/b/vi)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-dc93a104c72f2cb21de04ed5e915ff91]: Textual amendment: Words in [art. 2(5D)(c)(ii)](https://www.legislation.gov.uk/uksi/2001/3084/article/2/5D/c/ii) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 9 para. 4(a)](https://www.legislation.gov.uk/uksi/2025/82/schedule/9/paragraph/4/a)
+
+[^key-2cfc1df4e84245fb5b21d0e011c0ddab]: Textual amendment: Words in [art. 2(7)](https://www.legislation.gov.uk/uksi/2001/3084/article/2/7) omitted (24.8.2012) by virtue of [The Financial Services and Markets Act 2000 (Gibraltar) (Amendment) Order 2012 (S.I. 2012/2017)](https://www.legislation.gov.uk/uksi/2012/2017), [arts. 1](https://www.legislation.gov.uk/uksi/2012/2017/article/1), [2(2)(d)(i)](https://www.legislation.gov.uk/uksi/2012/2017/article/2/2/d/i)
+
+[^key-88487b53c26ef30cbf6ca2452a5f0c13]: Textual amendment: Word in [art. 2(7)](https://www.legislation.gov.uk/uksi/2001/3084/article/2/7) inserted (31.7.2006) by [The Financial Services and Markets Act 2000 (Gibraltar) (Amendment) Order 2006 (S.I. 2006/1805)](https://www.legislation.gov.uk/uksi/2006/1805), [arts. 1](https://www.legislation.gov.uk/uksi/2006/1805/article/1), [2(5)](https://www.legislation.gov.uk/uksi/2006/1805/article/2/5)
+
+[^key-adc636ee9665c1c3c050d94a83e2f6c6]: Textual amendment: Words in [art. 2(7)](https://www.legislation.gov.uk/uksi/2001/3084/article/2/7) substituted (14.1.2005) by [The Financial Services and Markets Act 2000 (Gibraltar) (Amendment) Order 2005 (S.I. 2005/1)](https://www.legislation.gov.uk/uksi/2005/1), [arts. 1](https://www.legislation.gov.uk/uksi/2005/1/article/1), [2(4)](https://www.legislation.gov.uk/uksi/2005/1/article/2/4)
+
+[^key-facb4ad25890f52cdcd3e704be952817]: Textual amendment: Word in [art. 2(7)](https://www.legislation.gov.uk/uksi/2001/3084/article/2/7) inserted (31.12.2020) by [The Financial Services (Gibraltar) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/589)](https://www.legislation.gov.uk/uksi/2019/589), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/589/regulation/1/3), [5(9)](https://www.legislation.gov.uk/uksi/2019/589/regulation/5/9) (with [reg. 12](https://www.legislation.gov.uk/uksi/2019/589/regulation/12)) (as amended by [S.I. 2020/1274](https://www.legislation.gov.uk/uksi/2020/1274), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1274/regulation/1), [2](https://www.legislation.gov.uk/uksi/2020/1274/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-f990e592dc33dc5294dcce4845d0ec2d]: Textual amendment: Words in [art. 2(7)](https://www.legislation.gov.uk/uksi/2001/3084/article/2/7) substituted (10.12.2007) by [The Financial Services and Markets Act 2000 (Reinsurance Directive) Order 2007 (S.I. 2007/3254)](https://www.legislation.gov.uk/uksi/2007/3254), [arts. 1](https://www.legislation.gov.uk/uksi/2007/3254/article/1), [3(2)(d)](https://www.legislation.gov.uk/uksi/2007/3254/article/3/2/d)
+
+[^key-da965e5d247d7d4e2cc6529183fbe9a7]: Textual amendment: Words in [art. 2(7)](https://www.legislation.gov.uk/uksi/2001/3084/article/2/7) substituted (24.8.2012) by [The Financial Services and Markets Act 2000 (Gibraltar) (Amendment) Order 2012 (S.I. 2012/2017)](https://www.legislation.gov.uk/uksi/2012/2017), [arts. 1](https://www.legislation.gov.uk/uksi/2012/2017/article/1), [2(2)(d)(ii)](https://www.legislation.gov.uk/uksi/2012/2017/article/2/2/d/ii)
+
+[^key-af7c5290aa344bb14aae09944272f96a]: Textual amendment: Words in [art. 2(7)](https://www.legislation.gov.uk/uksi/2001/3084/article/2/7) substituted (16.6.2014) by [The Alternative Investment Fund Managers Order 2014 (S.I. 2014/1292)](https://www.legislation.gov.uk/uksi/2014/1292), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/1292/article/1/2), [3(3)(d)](https://www.legislation.gov.uk/uksi/2014/1292/article/3/3/d) (as amended by [S.I. 2014/1313](https://www.legislation.gov.uk/uksi/2014/1313), [arts. 1](https://www.legislation.gov.uk/uksi/2014/1313/article/1), [2(a)](https://www.legislation.gov.uk/uksi/2014/1313/article/2/a))
+
+[^key-f1e926844df33d326cdf26e9529af3d9]: Textual amendment: Words in [art. 2(7)](https://www.legislation.gov.uk/uksi/2001/3084/article/2/7) substituted (20.4.2015 for specified purposes, 21.12.2015 for specified purposes, 21.3.2016 in so far as not already in force) by [The Mortgage Credit Directive Order 2015 (S.I. 2015/910)](https://www.legislation.gov.uk/uksi/2015/910), [art. 1(5)](https://www.legislation.gov.uk/uksi/2015/910/article/1/5), [Sch. 1 para. 10(2)(d)](https://www.legislation.gov.uk/uksi/2015/910/schedule/1/paragraph/10/2/d) (with [Pt. 4](https://www.legislation.gov.uk/uksi/2015/910/part/4))
+
+[^key-6c3594f42e3404e0a61787f112234651]: Textual amendment: Words in [art. 2(7)](https://www.legislation.gov.uk/uksi/2001/3084/article/2/7) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 58(a)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/58/a)
+
+[^key-a9e575efc53c2e713e789bd4d1936af6]: Textual amendment: Words in [art. 2(7)](https://www.legislation.gov.uk/uksi/2001/3084/article/2/7) omitted (24.8.2012) by virtue of [The Financial Services and Markets Act 2000 (Gibraltar) (Amendment) Order 2012 (S.I. 2012/2017)](https://www.legislation.gov.uk/uksi/2012/2017), [arts. 1](https://www.legislation.gov.uk/uksi/2012/2017/article/1), [2(2)(d)(iii)](https://www.legislation.gov.uk/uksi/2012/2017/article/2/2/d/iii)
+
+[^key-cf36ed1c7540ecf59ec683b4a5ab8fa2]: Textual amendment: [Art. 2(8)](https://www.legislation.gov.uk/uksi/2001/3084/article/2/8) substituted (31.12.2020) by [The Financial Services (Gibraltar) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/589)](https://www.legislation.gov.uk/uksi/2019/589), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/589/regulation/1/3), [5(10)](https://www.legislation.gov.uk/uksi/2019/589/regulation/5/10) (with [reg. 12](https://www.legislation.gov.uk/uksi/2019/589/regulation/12)) (as amended by [S.I. 2020/1274](https://www.legislation.gov.uk/uksi/2020/1274), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1274/regulation/1), [2](https://www.legislation.gov.uk/uksi/2020/1274/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-14d5d1745abb6857db768eba9b8e61fe]: Textual amendment: Words in [art. 2(8)(a)](https://www.legislation.gov.uk/uksi/2001/3084/article/2/8/a) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 9 para. 4(b)](https://www.legislation.gov.uk/uksi/2025/82/schedule/9/paragraph/4/b)
+
+[^key-f539a60293d41934305bda2f0c0a6704]: Textual amendment: Words in [art. 2(8)(b)(i)(bb)](https://www.legislation.gov.uk/uksi/2001/3084/article/2/8/b/i/bb) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 9 para. 4(b)](https://www.legislation.gov.uk/uksi/2025/82/schedule/9/paragraph/4/b)
+
+[^key-c6033c797368b64bddfe1d04b61f8302]: Textual amendment: Words in [art. 2(8)(i)(i)](https://www.legislation.gov.uk/uksi/2001/3084/article/2/8/i) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 9 para. 4(b)](https://www.legislation.gov.uk/uksi/2025/82/schedule/9/paragraph/4/b)
+
+[^key-62da79679cc9012ea280e07edbffda02]: Textual amendment: [Art. 2A](https://www.legislation.gov.uk/uksi/2001/3084/article/2A) inserted (31.12.2020) by [The Financial Services (Gibraltar) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/589)](https://www.legislation.gov.uk/uksi/2019/589), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/589/regulation/1/3), [6](https://www.legislation.gov.uk/uksi/2019/589/regulation/6) (with [reg. 12](https://www.legislation.gov.uk/uksi/2019/589/regulation/12)) (as amended by [S.I. 2020/1274](https://www.legislation.gov.uk/uksi/2020/1274), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1274/regulation/1), [2](https://www.legislation.gov.uk/uksi/2020/1274/regulation/2) and [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 32(c)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/32/c)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-7edce778ef5798af2517f22ddd70e76a]: Textual amendment: [Art. 2A(4)](https://www.legislation.gov.uk/uksi/2001/3084/article/2A/4) substituted (1.1.2022) by [The Financial Services Act 2021 (Prudential Regulation of Credit Institutions and Investment Firms) (Consequential Amendments and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/1376)](https://www.legislation.gov.uk/uksi/2021/1376), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/3), [11](https://www.legislation.gov.uk/uksi/2021/1376/regulation/11)
+
+[^key-4e465540e847d21f96001cb9691e6591]: Textual amendment: [Art. 3](https://www.legislation.gov.uk/uksi/2001/3084/article/3) omitted (31.12.2020) by virtue of [The Financial Services (Gibraltar) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/589)](https://www.legislation.gov.uk/uksi/2019/589), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/589/regulation/1/3), [7](https://www.legislation.gov.uk/uksi/2019/589/regulation/7) (with [reg. 12](https://www.legislation.gov.uk/uksi/2019/589/regulation/12)) (as amended by [S.I. 2020/1274](https://www.legislation.gov.uk/uksi/2020/1274), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1274/regulation/1), [2](https://www.legislation.gov.uk/uksi/2020/1274/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-8bf3e60670971efb51735667d83260a3]: Textual amendment: [Art. 3A](https://www.legislation.gov.uk/uksi/2001/3084/article/3A) inserted (24.8.2012) by [The Financial Services and Markets Act 2000 (Gibraltar) (Amendment) Order 2012 (S.I. 2012/2017)](https://www.legislation.gov.uk/uksi/2012/2017), [arts. 1](https://www.legislation.gov.uk/uksi/2012/2017/article/1), [2(3)](https://www.legislation.gov.uk/uksi/2012/2017/article/2/3)
+
+[^key-d83d248ca6518e2fe96580b25e75b32b]: Textual amendment: Art. 3A renumbered as art. 3A(1) (31.12.2020) by [The Financial Services (Gibraltar) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/589)](https://www.legislation.gov.uk/uksi/2019/589), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/589/regulation/1/3), [8(2)](https://www.legislation.gov.uk/uksi/2019/589/regulation/8/2) (with [reg. 12](https://www.legislation.gov.uk/uksi/2019/589/regulation/12)) (as amended by [S.I. 2020/1274](https://www.legislation.gov.uk/uksi/2020/1274), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1274/regulation/1), [2](https://www.legislation.gov.uk/uksi/2020/1274/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-1c6568ecd518bee4cec7b8cfc462fd36]: Textual amendment: Words in [art. 3A(1)](https://www.legislation.gov.uk/uksi/2001/3084/article/3A/1) inserted (31.12.2020) by [The Financial Services (Gibraltar) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/589)](https://www.legislation.gov.uk/uksi/2019/589), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/589/regulation/1/3), [8(2)](https://www.legislation.gov.uk/uksi/2019/589/regulation/8/2) (with [reg. 12](https://www.legislation.gov.uk/uksi/2019/589/regulation/12)) (as amended by [S.I. 2020/1274](https://www.legislation.gov.uk/uksi/2020/1274), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1274/regulation/1), [2](https://www.legislation.gov.uk/uksi/2020/1274/regulation/2) and [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 32(d)(i)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/32/d/i)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-5fa9ee6944361b09029e43fa805fe3b1]: Textual amendment: [Art. 3A(2)](https://www.legislation.gov.uk/uksi/2001/3084/article/3A/2) inserted (31.12.2020) by [The Financial Services (Gibraltar) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/589)](https://www.legislation.gov.uk/uksi/2019/589), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/589/regulation/1/3), [8(3)](https://www.legislation.gov.uk/uksi/2019/589/regulation/8/3) (with [reg. 12](https://www.legislation.gov.uk/uksi/2019/589/regulation/12)) (as amended by [S.I. 2020/1274](https://www.legislation.gov.uk/uksi/2020/1274), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1274/regulation/1), [2](https://www.legislation.gov.uk/uksi/2020/1274/regulation/2) and [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 32(d)(ii)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/32/d/ii)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-830a6dbd909eef9e33a2b5c0a78b922d]: Commencement: Art. 4 in force at 5.10.2001 for specified purposes, see [art. 1(1)(a)](https://www.legislation.gov.uk/uksi/2001/3084/article/1/1/a)
+
+[^key-bf50e26726de664efdcb6938ad796f64]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2001/3084/article/4) in force at 1.12.2001 in so far as not already in force, see [art. 1(1)(b)](https://www.legislation.gov.uk/uksi/2001/3084/article/1/1/b)
+
+[^key-4799e06273acd9cedf676ff9255e8c1f]: Textual amendment: [Art. 4(1)](https://www.legislation.gov.uk/uksi/2001/3084/article/4/1) substituted (24.8.2012) by [The Financial Services and Markets Act 2000 (Gibraltar) (Amendment) Order 2012 (S.I. 2012/2017)](https://www.legislation.gov.uk/uksi/2012/2017), [arts. 1](https://www.legislation.gov.uk/uksi/2012/2017/article/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/2012/2017/article/2/4/a)
+
+[^key-21c0178e65516a501063989e0a42d02f]: Textual amendment: Words in [art. 4(1)(b)](https://www.legislation.gov.uk/uksi/2001/3084/article/4/1/b) substituted (31.12.2020) by [The Financial Services (Gibraltar) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/589)](https://www.legislation.gov.uk/uksi/2019/589), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/589/regulation/1/3), [9(2)](https://www.legislation.gov.uk/uksi/2019/589/regulation/9/2) (with [reg. 12](https://www.legislation.gov.uk/uksi/2019/589/regulation/12)) (as amended by [S.I. 2020/1274](https://www.legislation.gov.uk/uksi/2020/1274), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1274/regulation/1), [2](https://www.legislation.gov.uk/uksi/2020/1274/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-fa991c8bfcc733db607512b5d2ede4b5]: Textual amendment: Words in [art. 4(2)](https://www.legislation.gov.uk/uksi/2001/3084/article/4/2) substituted (31.12.2020) by [The Financial Services (Gibraltar) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/589)](https://www.legislation.gov.uk/uksi/2019/589), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/589/regulation/1/3), [9(3)](https://www.legislation.gov.uk/uksi/2019/589/regulation/9/3) (with [reg. 12](https://www.legislation.gov.uk/uksi/2019/589/regulation/12)) (as amended by [S.I. 2020/1274](https://www.legislation.gov.uk/uksi/2020/1274), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1274/regulation/1), [2](https://www.legislation.gov.uk/uksi/2020/1274/regulation/2) and [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 32(e)(i)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/32/e/i)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-91118cee5091664dd1e1239dba1bf294]: Textual amendment: Comma in art. 4(2) substituted for word (24.8.2012) by [The Financial Services and Markets Act 2000 (Gibraltar) (Amendment) Order 2012 (S.I. 2012/2017)](https://www.legislation.gov.uk/uksi/2012/2017), [arts. 1](https://www.legislation.gov.uk/uksi/2012/2017/article/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/2012/2017/article/2/4/b)
+
+[^key-d29fb01a4a22ea49c02b0f4ce1cf73b6]: Textual amendment: Words in [art. 4(2)](https://www.legislation.gov.uk/uksi/2001/3084/article/4/2) inserted (24.8.2012) by [The Financial Services and Markets Act 2000 (Gibraltar) (Amendment) Order 2012 (S.I. 2012/2017)](https://www.legislation.gov.uk/uksi/2012/2017), [arts. 1](https://www.legislation.gov.uk/uksi/2012/2017/article/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/2012/2017/article/2/4/b)
+
+[^key-2f6143e842c66dcca76d9186e19d4cb4]: Textual amendment: Words in [art. 4(3)](https://www.legislation.gov.uk/uksi/2001/3084/article/4/3) substituted (31.12.2020) by [The Financial Services (Gibraltar) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/589)](https://www.legislation.gov.uk/uksi/2019/589), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/589/regulation/1/3), [9(4)(a)](https://www.legislation.gov.uk/uksi/2019/589/regulation/9/4/a) (with [reg. 12](https://www.legislation.gov.uk/uksi/2019/589/regulation/12)) (as amended by [S.I. 2020/1274](https://www.legislation.gov.uk/uksi/2020/1274), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1274/regulation/1), [2](https://www.legislation.gov.uk/uksi/2020/1274/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-6145fe7a392b2ca3469013ba5b0677ba]: Textual amendment: Words in [art. 4(3)](https://www.legislation.gov.uk/uksi/2001/3084/article/4/3) substituted (16.6.2014) by [The Alternative Investment Fund Managers Order 2014 (S.I. 2014/1292)](https://www.legislation.gov.uk/uksi/2014/1292), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/1292/article/1/2), [3(5)](https://www.legislation.gov.uk/uksi/2014/1292/article/3/5) (as amended by [S.I. 2014/1313](https://www.legislation.gov.uk/uksi/2014/1313), [arts. 1](https://www.legislation.gov.uk/uksi/2014/1313/article/1), [2(a)](https://www.legislation.gov.uk/uksi/2014/1313/article/2/a))
+
+[^key-cd2f9be7330c8b3ab92145f2427ec3c7]: Textual amendment: Words in [art. 4(3)](https://www.legislation.gov.uk/uksi/2001/3084/article/4/3) omitted (31.12.2020) by virtue of [The Financial Services (Gibraltar) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/589)](https://www.legislation.gov.uk/uksi/2019/589), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/589/regulation/1/3), [9(4)(b)](https://www.legislation.gov.uk/uksi/2019/589/regulation/9/4/b) (with [reg. 12](https://www.legislation.gov.uk/uksi/2019/589/regulation/12)) (as amended by [S.I. 2020/1274](https://www.legislation.gov.uk/uksi/2020/1274), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1274/regulation/1), [2](https://www.legislation.gov.uk/uksi/2020/1274/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-ba2c1c80f2e14a15f647b92398f6ae6a]: Textual amendment: Words in [art. 4(3)](https://www.legislation.gov.uk/uksi/2001/3084/article/4/3) substituted (31.12.2020) by [The Financial Services (Gibraltar) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/589)](https://www.legislation.gov.uk/uksi/2019/589), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/589/regulation/1/3), [9(4)(c)](https://www.legislation.gov.uk/uksi/2019/589/regulation/9/4/c) (with [reg. 12](https://www.legislation.gov.uk/uksi/2019/589/regulation/12)) (as amended by [S.I. 2020/1274](https://www.legislation.gov.uk/uksi/2020/1274), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1274/regulation/1), [2](https://www.legislation.gov.uk/uksi/2020/1274/regulation/2) and [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 32(e)(ii)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/32/e/ii)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-d334750b8839d69ac7a003a6f9ad548f]: Textual amendment: Word in [art. 4(3)](https://www.legislation.gov.uk/uksi/2001/3084/article/4/3) omitted (31.12.2020) by virtue of [The Financial Services (Gibraltar) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/589)](https://www.legislation.gov.uk/uksi/2019/589), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/589/regulation/1/3), [9(4)(d)](https://www.legislation.gov.uk/uksi/2019/589/regulation/9/4/c) (with [reg. 12](https://www.legislation.gov.uk/uksi/2019/589/regulation/12)) (as amended by [S.I. 2020/1274](https://www.legislation.gov.uk/uksi/2020/1274), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1274/regulation/1), [2](https://www.legislation.gov.uk/uksi/2020/1274/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-08622de43b1e42c1ea7826595ee50149]: Textual amendment: [Art. 4(3)(e)](https://www.legislation.gov.uk/uksi/2001/3084/article/4/3/e) and word inserted (31.12.2020) by [The Financial Services (Gibraltar) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/589)](https://www.legislation.gov.uk/uksi/2019/589), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/589/regulation/1/3), [9(4)(e)](https://www.legislation.gov.uk/uksi/2019/589/regulation/9/4/e) (with [reg. 12](https://www.legislation.gov.uk/uksi/2019/589/regulation/12)) (as amended by [S.I. 2020/1274](https://www.legislation.gov.uk/uksi/2020/1274), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1274/regulation/1), [2](https://www.legislation.gov.uk/uksi/2020/1274/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-949a862194b3b7d1ef2f7e7ba6b7027d]: Textual amendment: [Art. 4(3A)-(3D)](https://www.legislation.gov.uk/uksi/2001/3084/article/4/3A) inserted (31.12.2020) by [The Financial Services (Gibraltar) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/589)](https://www.legislation.gov.uk/uksi/2019/589), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/589/regulation/1/3), [9(5)](https://www.legislation.gov.uk/uksi/2019/589/regulation/9/5) (with [reg. 12](https://www.legislation.gov.uk/uksi/2019/589/regulation/12)) (as amended by [S.I. 2020/1274](https://www.legislation.gov.uk/uksi/2020/1274), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1274/regulation/1), [2](https://www.legislation.gov.uk/uksi/2020/1274/regulation/2) and [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 32(e)(iii)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/32/e/iii)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-986d5d59bc5405c285a7243e424da1c3]: Textual amendment: Words in [art. 4(3A)(e)](https://www.legislation.gov.uk/uksi/2001/3084/article/4/3A/e) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 9 para. 4(c)](https://www.legislation.gov.uk/uksi/2025/82/schedule/9/paragraph/4/c)
+
+[^key-7098d34f4ba1470265f920403e56ef2f]: Textual amendment: Words in [art. 4(3B)(e)(ii)](https://www.legislation.gov.uk/uksi/2001/3084/article/4/3B/e/ii) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 9 para. 4(d)](https://www.legislation.gov.uk/uksi/2025/82/schedule/9/paragraph/4/d)
+
+[^key-ff2bcb6145a88705eeb0a0010cb1f69c]: Textual amendment: Words in [art. 4(3D)(a)(i)](https://www.legislation.gov.uk/uksi/2001/3084/article/4/3D/a/i) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 9 para. 4(e)](https://www.legislation.gov.uk/uksi/2025/82/schedule/9/paragraph/4/e)
+
+[^key-6b065bf090e33e37b577ed12000eb810]: Textual amendment: Words in [art. 4(4)](https://www.legislation.gov.uk/uksi/2001/3084/article/4/4) substituted (1.1.2014) by [The Capital Requirements Regulations 2013 (S.I. 2013/3115)](https://www.legislation.gov.uk/uksi/2013/3115), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/3115/regulation/1/2), [Sch. 2 para. 57(3)](https://www.legislation.gov.uk/uksi/2013/3115/schedule/2/paragraph/57/3)
+
+[^key-415fb2ab96714426d02033e6b2d1dad5]: Textual amendment: Words in [art. 4(4)](https://www.legislation.gov.uk/uksi/2001/3084/article/4/4) substituted (31.12.2020) by [The Financial Services (Gibraltar) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/589)](https://www.legislation.gov.uk/uksi/2019/589), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/589/regulation/1/3), [9(6)](https://www.legislation.gov.uk/uksi/2019/589/regulation/9/6) (with [reg. 12](https://www.legislation.gov.uk/uksi/2019/589/regulation/12)) (as amended by [S.I. 2020/1274](https://www.legislation.gov.uk/uksi/2020/1274), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1274/regulation/1), [2](https://www.legislation.gov.uk/uksi/2020/1274/regulation/2) and [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 32(e)(iv)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/32/e/iv)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-9315c9600d99344f6516e81962df80f0]: Textual amendment: [Art. 4(5)](https://www.legislation.gov.uk/uksi/2001/3084/article/4/5)[(6)](https://www.legislation.gov.uk/uksi/2001/3084/article/4/6) inserted (31.12.2020) by [The Financial Services (Gibraltar) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/589)](https://www.legislation.gov.uk/uksi/2019/589), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/589/regulation/1/3), [9(7)](https://www.legislation.gov.uk/uksi/2019/589/regulation/9/7) (with [reg. 12](https://www.legislation.gov.uk/uksi/2019/589/regulation/12)) (as amended by [S.I. 2020/1274](https://www.legislation.gov.uk/uksi/2020/1274), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1274/regulation/1), [2](https://www.legislation.gov.uk/uksi/2020/1274/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-f5491f81f0b97bbaddc6349770702bd0]: Textual amendment: [Art. 5](https://www.legislation.gov.uk/uksi/2001/3084/article/5) inserted (31.12.2020) by [The Financial Services (Gibraltar) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/589)](https://www.legislation.gov.uk/uksi/2019/589), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/589/regulation/1/3), [10](https://www.legislation.gov.uk/uksi/2019/589/regulation/10) (with [reg. 12](https://www.legislation.gov.uk/uksi/2019/589/regulation/12)) (as amended by [S.I. 2020/1274](https://www.legislation.gov.uk/uksi/2020/1274), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1274/regulation/1), [2](https://www.legislation.gov.uk/uksi/2020/1274/regulation/2) and [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 32(f)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/32/f)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-327c36a8072b38ff97252fe4972a31ae]: Textual amendment: Words in [art. 5(3)(b)(iii)](https://www.legislation.gov.uk/uksi/2001/3084/article/5/3/b/iii) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 9 para. 4(f)](https://www.legislation.gov.uk/uksi/2025/82/schedule/9/paragraph/4/f)

@@ -1,0 +1,137 @@
+---
+title: The Social Security (Finland) Order 1992
+id: uksi/1992/3210
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '1992-12-17'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1992/3210
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1992/3210/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Social Security (Finland) Order 1992
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+1992 No.3210
+
+SOCIAL SECURITY
+
+The Social Security (Finland) Order 1992
+
+Made
+
+17th December 1992
+
+Coming into force
+
+31st December 1992
+
+At the Court at Buckingham Palace, the 17th day of December 1992
+
+Present,
+
+The Queen’s Most Excellent Majesty in Council
+
+Whereas by the Social Security (Finland) Order 1984[^f00001] (hereinafter referred to as the “Principal Order”) made in pursuance of section 143 of the Social Security Act 1975[^f00002] and section 15(1) of the Child Benefit Act 1975[^f00003], it was ordered that the said Acts, and any regulations made under the latter Act, be modified to such extent as may be required to give effect to the provisions contained in the Convention on Social Security set out in Schedule 1 to the Principal Order (hereinafter referred to as the “Principal Convention”), so far as the same relate to England, Wales and Scotland:
+
+And Whereas the Principal Convention was amended by the Agreement[^f00004] contained in Notes exchanged on behalf of the Government of the United Kingdom of Great Britain and Northern Ireland and the Government of the Republic of Finland on 6th November 1992 (which Notes are set out in the Schedule to this Order):
+
+And Whereas by section 179 of the Social Security Administration Act 1992[^f00005] it is provided that Her Majesty may by Order in Council make provision for modifying or adapting that Act and the Social Security Contributions and Benefits Act 1992[^f00006] in their application to cases affected by agreements with the Governments of countries outside the United Kingdom providing for reciprocity in matters specified in the said section:
+
+Now, therefore, Her Majesty, in pursuance of section 179 of the Social Security Administration Act 1992 and of all other powers enabling Her in that behalf, is pleased, by and with the advice of Her Privy Council, to order, and it is hereby ordered, as follows:—
+
+## 1. Citation and commencement
+
+This Order may be cited as the Social Security (Finland) Order 1992 and shall come into force on 31st December 1992.
+
+## 2. Modification of the Social Security Administration Act 1992 and the Social Security Contributions and Benefits Act 1992 and variation of the Principal Order
+
+The Social Security Administration Act 1992 and the Social Security Contributions and Benefits Act 1992 shall be modified and the Principal Order shall be varied so as to give effect to the Principal Convention as amended by the Agreement set out in the Schedule to this Order, so far as the same relate to England, Wales and Scotland.
+
+N. H. Nicholls
+
+Clerk of the Privy Council
+
+## SCHEDULE — NOTES EXCHANGED ON 6 NOVEMBER 1992 BETWEEN THE SECRETARY OF STATE FOR FOREIGN AFFAIRS FOR THE UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND AND THE AMBASSADOR FOR FINLAND IN LONDON
+
+### THE SECRETARY OF STATE FOR FOREIGN AFFAIRS FOR THE UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND TO THE AMBASSADOR FOR FINLAND IN LONDON
+
+#### INITIATING NOTE
+
+#### 14 October 1992
+
+Your Excellency,
+
+I have the honour to refer to the Convention on Social Security between the Government of the United Kingdom of Great Britain and Northern Ireland and the Government of the Republic of Finland, signed at London on 12 December 1978 and the amending protocols which were signed at London on 21 March 1980 and 24 January 1983 (hereinafter together referred to as “the Convention”) and to recent discussions between the Department of Social Security and the Ministry of Social Affairs and Health concerning the need to amend the Convention. Accordingly, I have the honour to propose that the following should be inserted in Article 1(1) of the Convention:
+
+> - (x) “Agreement” means the agreement dated 2 May 1992 and made between the European Community, its Member States and the European Free Trade Association States establishing the European Economic Area;
+> - (y) “Regulation EEC 1408/71” means the Regulation (EEC) No1408/71 of the Council on the application of social security schemes to employed persons, to self-employed persons and to members of their families moving within the Community and includes amendments and adaptations from time to time applicable thereto;
+> - (z) “Implementing Regulation” means the Regulation (EEC) No574/72 of the Council laying down the procedure for implementing Regulation (EEC) No1408/71 on the application of social security schemes to employed persons, to self-employed persons and to their families moving within the Community and includes amendments and adaptations from time to time applicable thereto;
+
+and that the following should be inserted as Article 2A into the Convention:
+
+> **Article 2A**
+>
+> (1) Subject to paragraph (2), this Convention and the Protocol thereto concerning Health Care and Co-operation in the field of medicine and public health shall as from the date of entry into force of the Agreement and as regards relations between England, Scotland, Wales, Northern Ireland and Finland cease to apply to all persons to whom the provisions of Regulation EEC 1408/71 and the Implementing Regulation are at that date or subsequently become applicable. Any rights in course of acquisition under this Convention immediately before the date of entry into force of the Agreement shall as regards persons to whom the Convention is disapplied by the provisions of this paragraph be determined in accordance with the provisions of those Regulations.
+>
+> (2) The provisions of this Convention shall continue to apply to:
+>
+> - (a) any award of a benefit, pension or allowance made prior to the date upon which the Agreement comes into force;
+> - (b) any claim to a benefit, pension or allowance made but not determined at the date upon which the Agreement comes into force;
+> - (c) any claim to a benefit, pension or allowance made after the date the Agreement comes into force but only where that claim relates to entitlement to such benefit, pension or allowance for a period prior to the date upon which the Agreement comes into force.
+
+If the foregoing is acceptable to the Government of the Republic of Finland, I have the honour to propose that this Note and your reply to that effect shall constitute an Agreement between our two Governments which shall enter into force on 31 December 1992.
+
+I avail myself of this opportunity to renew to your Excellency the assurance of my highest consideration.
+
+#### MARCUS L. H. HOPE For the Secretary of State
+
+### THE AMBASSADOR FOR FINLAND IN LONDON TO THE SECREATRY OF STATE FOR FOREIGN AFFAIRS FOR THE UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND
+
+#### REPLY NOTE
+
+#### 6 November 1992
+
+Sir,
+
+I have the honour to acknowledge receipt of your Note of 14 October 1992 which \[in translation\] reads as follows:
+
+- (the Note here sets out the text of the U.K. Note)
+
+I have the honour to inform you that the foregoing is acceptable to the Government of the Republic of Finland who therefore agree that your Note and this reply shall constitute an Agreement between our two Governments in this matter, which shall enter into force on 31 December 1992.
+
+I avail myself of this opportunity to renew to you the assurance of my highest consideration.
+
+#### LEIF BLOMQVIST Ambassador for Finland in London
+
+(This note is not part of the Order)
+
+This Order makes provision for the modification of the Social Security Contributions and Benefits Act 1992 and the Social Security Administration Act 1992 so as to give effect to the Agreement set out in the Schedule to the Order.
+
+This Agreement amends the Convention on Social Security between the Government of the United Kingdom of Great Britain and Northern Ireland and the Government of the Republic of Finland signed on 12th December 1978 as amended by Protocols signed on 21st March 1980 and 24th January 1983.
+
+The Agreement provides that as from the date on which the Treaty establishing the European Economic Area enters into force, the provisions of the Convention and accompanying Health Protocol shall cease to apply to persons to whom Regulation (EEC) No1408/71 and Regulation (EEC) No574/72 (“the EEC Regulations”) apply; rights in course of acquisition under the Convention immediately before the Treaty enters into force are to be determined in accordance with the provisions of the EEC Regulations. The Convention continues to apply to other persons who are insured under the social security schemes of Great Britain and Northern Ireland and to persons who are insured under the social security scheme of the Isle of Man.
+
+The Agreement provides for benefits already awarded and claims in course of determination to be governed by the Convention.
+
+## Annotations
+
+[^f00001]: Footnote: S.I.[1984/125](https://www.legislation.gov.uk/uksi/1984/125) as amended by S.I.[1988/591](https://www.legislation.gov.uk/uksi/1988/591).
+
+[^f00002]: Footnote: [1975 c. 14](https://www.legislation.gov.uk/ukpga/1975/14); this provision is now replaced by section 179 of the Social Security Administration Act [1992 (c. 5)](https://www.legislation.gov.uk/ukpga/1992/5).
+
+[^f00003]: Footnote: [1975 c. 61](https://www.legislation.gov.uk/ukpga/1975/61); this provision is now replaced by section 179 of the Social Security Administration Act 1992.
+
+[^f00004]: Footnote: Cm 2112.
+
+[^f00005]: Footnote: [1992 c. 5](https://www.legislation.gov.uk/ukpga/1992/5).
+
+[^f00006]: Footnote: [1992 c. 4](https://www.legislation.gov.uk/ukpga/1992/4).

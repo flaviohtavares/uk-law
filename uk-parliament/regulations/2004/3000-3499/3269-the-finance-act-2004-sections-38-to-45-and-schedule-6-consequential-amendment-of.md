@@ -1,0 +1,99 @@
+---
+title: The Finance Act 2004, Sections 38 to 45 and Schedule 6 (Consequential Amendment of Enactments No. 2) Order 2004
+id: uksi/2004/3269
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2004-12-09'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2004/3269
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2004/3269/pdfs/uksiem_20043269_en.pdf
+- http://www.legislation.gov.uk/uksi/2004/3269/pdfs/uksi_20043269_en.pdf
+- http://www.legislation.gov.uk/uksi/2004/3269/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Finance Act 2004, Sections 38 to 45 and Schedule 6 (Consequential Amendment of Enactments No. 2) Order 2004
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+This Order corrects an error in [S.I. 2004/2310](https://www.legislation.gov.uk/uksi/2004/2310). It is being issued free of charge to all known recipients of that instrument.
+
+2004 No. 3269
+
+INCOME TAX
+
+The Finance Act 2004, Sections 38 to 45 and Schedule 6 (Consequential Amendment of Enactments No. 2) Order 2004
+
+Made
+
+9th December 2004
+
+Laid before the House of Commons
+
+10th December 2004
+
+Coming into force
+
+31st December 2004
+
+The Treasury, in exercise of the power conferred upon them by section 46 of the Finance Act 2004[^f00001], make the following Order:
+
+## 1. Citation, commencement and effect
+
+This Order may be cited as the Finance Act 2004, Sections 38 to 45 and Schedule 6 (Consequential Amendment of Enactments No. 2) Order 2004, shall come into force on 31st December 2004, and shall have effect in relation to accounting periods beginning on or after 1st April 2004, subject to the transitional provisions in sections 43 and 44 of the Finance Act 2004.
+
+## 2. Amendment of section 592 of the Income and Corporation Taxes Act 1988
+
+(1) Section 592 of the Income and Corporation Taxes Act 1988 (exempt approved pension schemes)[^f00002] is amended as follows.
+
+(2) For subsection (4) substitute—
+
+> (4) Where the employer makes contributions to the pension scheme in respect of any individual, then—
+>
+> - (a) for the purposes of Case I or II of Schedule D the contributions—
+>   - (i) are to be treated as not being payments of a capital nature, to the extent that they otherwise would be,
+>   - (ii) are allowed as a deduction in computing the amount of the profits for the period of account in which they are paid:
+> - (b) for the purposes of section 75 (expenses of management: companies with investment business) the contributions —
+>   - (i) are to be treated as being expenses of management to the extent that they otherwise would not be; and
+>   - (ii) are referable to the accounting period in which they are paid;
+> - (c) for the purposes of section 76 (expenses of insurance companies), the contributions—
+>   - (i) are to be brought into account at Step 1 in subsection (7) of that section, to the extent that they otherwise would not be; and
+>   - (ii) are referable to the accounting period in which they are paid.
+
+.
+
+## 3. Revocation
+
+In the Schedule to the Finance Act 2004, Sections 38 to 45 and Schedule 6 (Consequential Amendment of Enactments) Order 2004, paragraph 30(2) is revoked.
+
+Derek Twigg
+
+Jim Murphy
+
+Two of the Lords Commissioners of Her Majesty’s Treasury
+
+9th December 2004
+
+(This note is not part of the Order)
+
+This Order amends section 592 of the Income and Corporation Taxes Act 1988 (“ICTA”) in consequence of changes made by sections 38 to 46 of, and Schedule 6 to the Finance Act 2004 to the tax treatment of management expenses of companies. It has been made in consequence of an error in the Finance Act 2004, Sections 38 to 46 and Schedule 6 (Consequential Amendment of Enactments) Order 2004 ([S.I. 2004/2310](https://www.legislation.gov.uk/uksi/2004/2310): “the original Order”).
+
+Article 1 provides for the citation, commencement and effect of the Order.
+
+Article 2 inserts a new subsection (4) in section 592, in place of that originally substituted by paragraph 30(2) of the Schedule to the original Order. The earlier subsection, substituted by the original Order, made section 74(1)(a) of ICTA override the subsection. The new subsection makes it clear that section 74 of ICTA does not preclude the claiming of a deduction under section 592(4) in respect of an employer’s contributions to a pension scheme where the employer’s profits are chargeable to income tax under Case I or II of Schedule D.
+
+Article 3 revokes paragraph 30(2) of the Schedule to the original Order.
+
+This Order does not impose new costs on business.
+
+## Annotations
+
+[^f00001]: Footnote: [2004 c. 12](https://www.legislation.gov.uk/ukpga/2004/12).
+
+[^f00002]: Footnote: Subsection (4) was substituted by paragraph 30(2) of the Schedule to [S.I. 2004/2310](https://www.legislation.gov.uk/uksi/2004/2310) (as to which see article 3 of this Order).

@@ -1,0 +1,427 @@
+---
+title: The Tonnage Tax (Training Requirement) Regulations 2000
+id: uksi/2000/2129
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2000-08-03'
+text_date: '2025-10-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2000/2129
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2000/2129/pdfs/uksi_20002129_en.pdf
+- http://www.legislation.gov.uk/uksi/2000/2129/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Tonnage Tax (Training Requirement) Regulations 2000
+
+> Text as at 2025-10-01.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2000 No. 2129
+
+TAXES
+
+TONNAGE TAX
+
+The Tonnage Tax (Training Requirement) Regulations 2000
+
+Made
+
+3rd August 2000
+
+Laid before Parliament
+
+9th August 2000
+
+Coming into force
+
+31st August 2000
+
+The Secretary of State for the Environment, Transport and the Regions, in exercise of the powers conferred by paragraphs 24, 27 to 33, 34(2) and 36 of Schedule 22 to the Finance Act 2000[^f00001] and of all other powers enabling him in that behalf, hereby makes the following Regulations:
+
+## 1. Citation and commencement[^key-03bb0ff04a84fc735a3fd16e05d8e69b]
+
+These Regulations may be cited as the Tonnage Tax (Training Requirement) Regulations 2000 and shall come into force on 31st August 2000.
+
+## 2. Interpretation[^key-1728f52e58db8939f3613ef6ba57d6ea]
+
+In these Regulations—
+
+- “the Act” means the Finance Act 2000;
+- “approved training” means any of the following referred to in the[^key-872143a96f3c9beab934de514f27a621] STCW Convention:
+  - (a) in relation to an able seafarer deck, the training referred to in paragraph 2.3.3.2 of Regulation II/5;
+  - (b) in relation to an able seafarer engine, the training referred to in paragraph 2.3.3.2 of Regulation III/5;
+  - (c) in relation to an electro-technical rating, the training referred to in paragraph 2.2.2.2 of Regulation III/7;
+- “back-up officer” means a master or a deck or engineer officer required for the purpose of enabling a ship to be operated on an indefinite basis, allowing for leave, in addition to the officers required by the safe manning document;
+- “base rate” means the interest rate set by the Bank of England which is used as the basis for other banks' rates;
+- “British citizen” means a person who is a British citizen within the meaning of the British Nationality Act 1981[^f00002];
+- “British citizen from the Channel Islands or Isle of Man” means a person who holds British citizenship by virtue of the fact that he, a parent or grandparent was born, adopted, naturalised or registered in one of those islands, and neither he nor any parent or grandparent was born, adopted, naturalised or registered in the United Kingdom, and he has never been ordinarily resident in the United Kingdom for five years;
+- “Chamber of Shipping” means the trade association for the United Kingdom shipping industry, incorporated under that name as a company limited by guarantee;
+- “conversion training” means training of at least ten months' duration for a merchant navy rating, a person formerly employed in Her Majesty’s Navy or a skipper or crew member of a fishing vessel, which leads to a first certificate of competency;
+- “[^key-6ed8af17e8b064888dd803ee17f6e1d0]EEA Agreement” and “EEA State” have the meaning given in Schedule 1 to the Interpretation Act 1978;
+- “effective officer complement” means the class comprising the relevant officers and back-up officers for a ship, and is calculated in accordance with regulation 4;
+- “eligible officer trainee” has the meaning given by regulation 7;
+- eligible rating trainee has the meaning given by regulation 7;[^key-58376d9ff5cc813a9f13ac595db05ff0]
+- “first certificate of competency” means any of the following certificates referred to in the STCW Convention—
+  - (a) the appropriate certificate for an officer in charge of a navigational watch referred to in Regulation II/1.1, II/3.1 or II/3.3,
+  - (b) the appropriate certificate for an officer in charge of an engineering watch referred to in Regulation III/1.1;
+  - (c) the appropriate certificate for an electro-technical officer serving on a seagoing ship powered by main propulsion machinery of 750kW or more referred to in paragraphs 1 and 2 of Regulation[^key-4ac2d280b75c2762e9550aa311ad26ce] III/6.
+- “IMO number” means the number assigned to the ship in accordance with Resolution A.600(15) of 19th November 1987 of the International Maritime Organization;
+- “Maritime Training Trust” means the body of that name which has been set up by the Chamber of Shipping, the National Union of Marine, Aviation and Shipping Transport Officers (NUMAST) and the National Union of Rail, Maritime and Transport Workers (RMT) to hold and allocate monies contributed by organisations for the purpose of promoting the training of seafarers;
+- “Merchant Navy Training Board” means the body of that name which is recognised by the Secretary of State under section 2 of the Employment and Training Act 1973[^f00005] as a national training organisation for maintaining and enhancing skills in the shipping industry;
+- “nationality groups” means the following groups:
+  - (a) British citizens,
+  - (b) nationals of EEA States [^key-22794a9d95eabeaf3b0b9d12f214f341]..., and
+  - (c) people who do not fall within paragraph (a) or (b);
+- “Ratings Task Force” means the ad hoc group of that name comprising representatives from industry, trade unions and government and chaired by the Chamber of Shipping;
+- “relevant course” means a course which leads to a first certificate of competency;
+- “relevant four month period” means a period of four months commencing 1st October, 1st February or 1st June;
+- “relevant officer” means a master or a deck or engineer officer or an electro- technical officer[^key-50dd7406c9689eb70fbfe426d58c545d];
+- “safe manning document” means a document described as such or as a safe manning certificate and issued, in the case of a United Kingdom ship, by the Secretary of State, and in the case of any other ship, by or on behalf of the government of the State whose flag the ship is entitled to fly;
+- “the[^key-057692dbfd50092b26f6e40d774c0dab] STCW Convention” means the International Convention on Standards of Training, Certification and Watchkeeping for Seafarers, 1978, as amended;
+- “United Kingdom ship” means a ship registered in the United Kingdom under Part II of the Merchant Shipping Act 1995[^f00006]; and
+- “year” means a twelve month period beginning on 1 October.
+
+## 3. The minimum training obligation[^key-af72164859726708d7ed283250810464]
+
+The minimum obligations of a tonnage tax company as regards the training of seafarers shall be calculated as set out in regulations 4 and 5.
+
+**4.**[^key-dbc4fba20d62a7a9546656aed6b4c143] (1) Subject to the provisions of this regulation—
+
+- (a) for every 15 posts in the effective officer complement for the qualifying ships operated by the company during a year, and
+- (b) in any case where there are less than 15 posts in that effective officer complement,
+
+a tonnage tax company shall during that year provide the first year of training on a relevant course for not less than one eligible officer trainee.
+
+(2) Where a safe manning document is required to be carried on board a qualifying ship, the number of posts in the effective officer complement shall be calculated by adding the number of relevant officers required by the safe manning document for the ship and the number of back-up officers required for that ship.
+
+(3) Where a safe manning document is not required to be carried on board a qualifying ship, the number of posts in the effective officer complement shall be deemed to be three.
+
+(4) Where the number of posts in the effective officer complement is more than 15 but is not a multiple of 15, the calculation of the number of eligible officer trainees for whom training is to be provided under paragraph (1) is as follows—
+
+- (a) divide the number of posts in the effective officer complement by 15,
+- (b) if the resulting number involves a fraction of less than a half, round it down to the nearest whole number, and
+- (c) if the resulting number involves a fraction of a half or more, round it up to the nearest whole number.
+
+(5) For the purposes of paragraph (2) and regulation 8(4)(b)(iv)(bb), the number of back-up officers required for a ship shall be calculated by reference to the ratio of leave to work for officers on that ship, but shall not in any event be less than 50% of the number of relevant officers required by the safe manning document for that ship.
+
+(6) In addition to the training provided under paragraph (1) during a year, the company shall during that year provide training on a relevant course for not less than the same number of eligible officer trainees as the number referred to in paragraph (7).
+
+(7)[^key-783d2c9ccba7684fdc1aeaee989020a8] The number referred to in paragraph (6) is the total number of eligible officer trainees who, in a previous year when the company was a tonnage tax company—
+
+- (a) started a relevant course which continues in the year in question; but this shall not include any eligible officer trainee who started a relevant course more than two years before the year in question, or
+- (b) would have started a relevant course which would have continued in the year in question, if the company had provided the first year of training for the minimum number of eligible officer trainees for whom such training was required under paragraph (1); and for these purposes such a course shall be deemed to continue for three years.
+
+(7A)[^key-a38649a5046fb23c2a04d9ffa559a2c1] A tonnage tax company may satisfy the requirement for providing the first year of training for an eligible officer trainee, other than a conversion trainee, by providing approved training for three eligible rating trainees.
+
+(8) Where the training provided for an eligible officer trainee consists of conversion training, the trainee shall count as half a trainee for the purposes of paragraphs (1) and (6).
+
+**5.**[^key-9f94c574f3c556785758dc138deb165b] The Board of directors of a tonnage tax company shall each year review the feasibility of adopting the options agreed by the Ratings Task Force for the training of ratings.
+
+**6.**[^key-34cbd5d480619d9ac774ec0f66a1130e] Where a company is a member of a tonnage tax group, references in regulations 3, 4 and 5 to “tonnage tax company” and “company” shall be treated as references to “tonnage tax group” and “group” respectively.
+
+## 7. Meaning of eligible officer trainee and eligible rating trainee[^key-0cf1a8d659d6611016c92996ebb2b56d]
+
+For the purposes of these Regulations a person who is—
+
+- (a)[^key-bc7ac1a2a0fbb50069a6edef9635eec2] a British citizen, a British citizen from the Channel Islands or the Isle of Man or a national of an EEA State, and
+- (b) ordinarily resident in the United Kingdom,
+
+is an “eligible officer trainee” if that person is on a relevant course and an “eligible rating trainee” if that person is undergoing relevant training.
+
+## 8. The training commitment[^key-0f23186e44e34c3690c38832d7007ecb]
+
+(1) Except where paragraph (2) applies, a tonnage tax company shall annually produce a training commitment in respect of the coming year.
+
+(2) Where a company is a member of a tonnage tax group, the tonnage tax group shall annually produce a training commitment in respect of the coming year.
+
+(3) The tonnage tax company in paragraph (1), or the tonnage tax group in paragraph (2), shall submit the training commitment to the Secretary of State for approval.
+
+(4) The training commitment submitted to the Secretary of State shall contain the following information—
+
+- (a) either—
+  - (i) the total numbers of relevant officers and of ratings, and the breakdowns of these numbers in terms of nationality groups, employed in each ship which the company or group expects to operate as a qualifying ship during the coming year, or
+  - (ii) the total numbers of relevant officers and of ratings, and the breakdowns of these numbers in terms of nationality groups, employed in all ships which the company or group expects to operate as qualifying ships during the coming year;
+- (b) in respect of each ship which the company or group expects to operate as a qualifying ship during the coming year—
+  - (i) the name of the ship,
+  - (ii) the IMO number, if assigned,
+  - (iii) the State or territory in which the ship is registered, or if it is not registered in any State or territory, the State whose flag the ship is entitled to fly,
+  - (iv) where a safe manning document is required to be carried on board the ship—
+    - (aa) the number of relevant officers required by that document, and
+    - (bb) the figure, calculated by reference to the number of back-up officers required for a ship, by which the number referred to in sub-paragraph (aa) is to be multiplied to obtain the number of posts in the effective officer complement, and
+  - (v) the number of posts in the effective officer complement;
+- (c) the total number of eligible officer trainees and the total number of eligible rating trainees[^key-a8cfd50c10e597ccea36de1778ae0b80] for whom the company or group expects to provide the first year of training on relevant courses or undergoing approved training[^key-87531493021285307f9e04803e67b2a4] during the coming year;
+- (d) details of the company’s or group’s proposals to meet the minimum training obligation by making payments in lieu of training, and the reasons for meeting the obligation in this way;
+- (e) details of the company’s or group’s proposals for adopting the options agreed by the Ratings Task Force for the training of ratings or, where applicable, reasons for not adopting those options; and
+- (f) the number of ratings who the company or group expects to be involved in the adoption of any options referred to in paragraph (e).
+
+(5) In addition to the information required under paragraph (4), the training commitment submitted to the Secretary of State shall contain an undertaking by the company or group—
+
+- (a) to comply with the minimum training obligation;
+- (b) to exercise best endeavours to provide the training referred to in regulation 4(1), (6) and (7A),[^key-a7ae6eb3edf2cab5e7028c6cd82bdead] and to make payments in lieu of training where such training is not provided;
+- (c) to make payments in lieu of training, in any case where—
+  - (i) a qualifying ship is operated by the company or group in addition to those which were expected to be operated, but
+  - (ii) it is not practicable to train the additional trainees required to meet the minimum training obligation; and
+- (d) to comply with the requirements of regulation 12 and with any direction to the company or group under regulation 19.
+
+**9.**[^key-d34728ca1b769b960dbab6d773e5a6dc] When considering whether to approve a training commitment, the Secretary of State may consult the Merchant Navy Training Board or the Maritime Training Trust or both.
+
+**10.**[^key-2c52537701afa455e21242c365e925d6] (1) Where the Secretary of State is minded not to approve a training commitment, he shall notify the company or group and shall invite representations.
+
+(2) If the Secretary of State and the company or group are unable to reach agreement on the contents of the training commitment by the end of the period of 30 days beginning with the date of the Secretary of State’s notification, the Secretary of State may set the training commitment for the year.
+
+(3) On the application of the company or group concerned, made after consultation with the Maritime Training Trust, the Secretary of State may vary the training commitment set by him under paragraph (2).
+
+**11.**[^key-c2fdce10a3038d9e5c4cfe04f59e30a5] (1) On the application of the company or group concerned, the Secretary of State may adjust a training commitment (to any extent) to take account of changed circumstances.
+
+(2) Such an application shall contain the following information—
+
+- (a) details of the changed circumstances, and
+- (b) reasons why the training commitment should be adjusted.
+
+(3) When considering an application for adjustment, the Secretary of State may consult the Merchant Navy Training Board or the Maritime Training Trust or both.
+
+## 12. “End of period adjustments”[^key-26b6951830010bb7dc78b35f58058b31]
+
+(1) A tonnage tax company or tonnage tax group shall make a return (known as an “end of period adjustment”) within 30 days after the end of each relevant four month period.
+
+(2) The return shall be made to the Secretary of State and to the Maritime Training Trust.
+
+(3) The return shall contain the following information—
+
+- (a) the total number of eligible officer trainees and the total number of eligible rating trainees[^key-d6ab634ee16c6e7f092ccc47146d321a] for whom training on a relevant course has been provided, determined as at the first day of each month in the relevant four month period;
+- (b) where there is an increase in the total number of qualifying ships operated by the company or group, compared with the training commitment, which occurs during the relevant four month period and relates to a period of not less than one month, details of—
+  - (i) the additional ships, and
+  - (ii) any consequent increase in the total number of eligible officer trainees and the total number of eligible rating trainees[^key-fcd00d39e81925f5760c0dbf587bf3c8] for whom training should have been provided in order to meet the minimum training obligation of the company or group referred to in regulation 3; and
+- (c) details of the payments made or proposed to be made in lieu of training in respect of the relevant four month period.
+
+## 13. Payments in lieu of training[^key-a7ff0169ea16d6675c2f5c05bcb082b0]
+
+Where a company or group is unable to provide the training required by regulation 4(1) or (6), it may propose in its training commitment to meet the minimum training obligation by making payments in lieu of training.
+
+**14.**[^key-1a6a06a11eacb99ac00c9508e6fb3926] A company or group shall make payments in lieu of training—
+
+- (a) where its training commitment provides for such payments, or
+- (b) where training is not provided in accordance with its training commitment.
+
+**15.**[^key-46cf5a5f9dc8b65cf1fc25b04598b8a7] (1) The payments in lieu of training shall be calculated in respect of each relevant four month period as follows—
+
+- (a) in respect of each eligible officer trainee for whom training is required to be provided under regulation 4(1) or (6), calculate the number of months in that period during which—
+  - (i) the training commitment of the company or group provided for payment in lieu of training, or
+  - (ii) the company or group did not provide training in accordance with its training commitment,
+
+  or both sub-paragraphs (i) and (ii) applied; and
+- (b) multiply that number of months by £1,705[^key-bc560fabf22f9a051e67b01b0c3a4023], and the total is the amount of the payments in lieu of training which is due for that period.
+
+(2) For the purposes of the calculation in paragraph (1)(a), any surplus (as compared with the requirements in regulation 4(1) and (6)) in the number of months when training is provided during the relevant four month period shall be offset against any shortfall (as compared with those requirements) in that period.
+
+**16.**[^key-c74323dae4b9b6b89d964f83ffa56fb3] The payments in lieu of training shall be made to the Maritime Training Trust, and shall become due 30 days after the end of each relevant four month period.
+
+**17.**[^key-1a5aaa3f7a05e64d25042f4bc730e311] If in any case there is a failure in relation to a company or group to comply with the requirements of Part IV of Schedule 22 to the Act with respect to—
+
+- (a) the submission of training commitments, or
+- (b) the making of returns or provision of information,
+
+the Secretary of State may determine to the best of his information and belief the amount of the payments in lieu of training to be made by the company or group.
+
+**18.**[^key-7e2080a1c77f4098097192e5e45613f1] (1) A payment in lieu of training that has become due but is unpaid—
+
+- (a) is a debt to the Maritime Training Trust, and
+- (b) carries interest at an annual rate equivalent to base rate plus two per cent per annum.
+
+(2) The costs or expenses of any legal or other proceedings for recovering the debt or interest shall be recoverable, and carry interest, in the same way as the debt.
+
+## 19. Directions to provide information[^key-923f409adab7c1f0f09f53ddc7ff77e4]
+
+The Secretary of State may direct any person to provide such information as the Secretary of State may reasonably require for the purposes of ascertaining—
+
+- (a) what the minimum training obligation of a company or group should be,
+- (b) whether the proposals in a training commitment are adequate to meet the minimum training obligation of a company or group, or
+- (c) whether a company or group has complied with its training commitment.
+
+## 20. Audits[^key-9df8fc3aacde976ae12f36219a25d54a]
+
+The Secretary of State may appoint one or more persons to carry out on his behalf an audit of the accounts or other records—
+
+- (a) of a qualifying single company, or
+- (b) of the qualifying companies in a group,
+
+for the purpose of checking that any return or information provided to the Secretary of State is correct.
+
+## 21. Higher rate of payment in case of failure to meet training requirement[^key-76985718ddfba34481f2b147f9cfca8c]
+
+(1) Subject to paragraph (3), a company or group is to be treated as failing to meet its training commitment in any year where it fails to provide training on a relevant course for at least 50% of the total number of eligible officer trainees (or the equivalent number of posts where the training commitment is satisfied by training ratings under regulation 4(7))[^key-29cb3b318ebc9465fd6d4f828183725e] for whom the company or group proposed to provide such training in its training commitment.
+
+(2) Subject to paragraph (3)—
+
+- (a) if a company fails to meet its training commitment in a particular year, the basic rate of any payments in lieu of training that fall to be made by the company in the following year shall be increased by 50%;
+- (b) if a group fails to meet its training commitment in a particular year, the basic rate of any payments in lieu of training that fall to be made by any member of the group in the following year shall be increased by 50%; and
+- (c) if a company or group fails to meet its training commitment in two or more successive years, the basic rate of any payments in lieu of training shall be increased by 100% in the third and subsequent years.
+
+(3) The higher rate shall not be payable where the Secretary of State is satisfied that there are mitigating circumstances for the company’s or group’s failure to meet the training commitment.
+
+(4) For the purposes of paragraph (2), “the basic rate” is £1,613[^key-42357827b23d49c12050914e7bbfb42a] per eligible officer trainee per month.
+
+## 22. Certificate of non-compliance[^key-09f9b299d3b16b29a4ff70a31eac557f]
+
+(1) The Secretary of State may issue a certificate of non-compliance in respect of a single company if—
+
+- (a) the company fails to meet its training commitment for successive periods amounting to not less than two years, or
+- (b) the company, or any of its officers, commits an offence under Schedule 22 to the Act.
+
+(2) The Secretary of State may issue a certificate of non-compliance in respect of a group if—
+
+- (a) the group fails to meet its training commitment for successive periods amounting to not less than two years, or
+- (b) a member of the group, or an officer of a member, commits an offence under Schedule 22 to the Act.
+
+(3) The Secretary of State shall issue a certificate of non-compliance if any circumstances referred to in paragraph (1) or (2) arise, unless the Secretary of State is satisfied that there are good reasons why a certificate should not be issued.
+
+**23.**[^key-45d2ee91cba4eb650905f57e0d81691c] (1) A company or group in respect of which a certificate of non-compliance has been issued may apply to the Secretary of State to cancel the certificate.
+
+(2) Any such application shall contain information showing that—
+
+- (a) the training commitment has been complied with for at least one year since the period in relation to which the certificate was issued, and
+- (b) the company or group has made arrangements to ensure that its training commitment for the current and future years will be complied with.
+
+**24.**[^key-2fd38b19dded32d74fb19861536ed18c] When considering an application to cancel a certificate of non-compliance, the Secretary of State may consult the Merchant Navy Training Board or the Maritime Training Trust or both.
+
+## 25. Disclosure of information[^key-f046b686677fdd99e4876afeea05cace]
+
+For the purposes of paragraph 34(2) of Schedule 22 to the Act, the following persons are prescribed persons involved in the training of seafarers—
+
+- (a) the Merchant Navy Training Board, and
+- (b) the Maritime Training Trust.
+
+Signed by authority of the Secretary of State
+
+Keith Hill
+
+Parliamentary Under-Secretary of State,
+
+Department of the Environment, Transport and the Regions
+
+3rd August 2000
+
+(This note is not part of the Regulations)
+
+These Regulations make provision in relation to the training requirement referred to in Schedule 22 to the Finance Act 2000.
+
+The Regulations set out the minimum obligation of a tonnage tax company or group as regards the training of seafarers (regulations 3 to 6), and who counts as an “eligible officer trainee” (regulation 7).
+
+The Regulations impose a requirement on tonnage tax companies and groups to submit an annual training commitment to the Secretary of State for approval (regulation 8). The contents of this training commitment are prescribed. The Secretary of State is empowered to consult the Merchant Navy Training Board or the Maritime Training Trust (or both of them) about the training commitment (regulation 9). The Regulations set out the procedure to be followed where the Secretary of State is minded not to approve a training commitment (regulation 10).
+
+The Regulations enable the Secretary of State to adjust a training commitment to take account of changed circumstances, where an application is made by the company or group (regulation 11).
+
+Provision is made to allow companies or groups to make payments in lieu of training and to require such payments in some circumstances, and for the calculation of such payments (regulations 13 to 18).
+
+The Regulations provide for returns to be made every four months relating to the training provided and any payments in lieu of training (regulation 12), enable the Secretary of State to direct any person to provide information about a minimum training obligation or compliance with a training commitment (regulation 19), and to appoint a person to carry out an audit of accounts or other records (regulation 20).
+
+Provision is made for a higher rate of payment in case of failure to meet the training commitment (regulation 21), and for the issue or cancellation of a certificate of non-compliance (regulations 22 to 24).
+
+Regulation 25 provides for the Merchant Navy Training Board and the Maritime Training Trust to be prescribed persons for the purposes of paragraph 34(2) of Schedule 22, which concerns disclosure of information by or to the Secretary of State.
+
+Copies of the STCW Convention, and of Resolution A.600(15) of 19th November 1987 of the International Maritime Organization, both referred to in regulation 2, are obtainable from that Organization at 4 Albert Embankment, London SE1 7SR.
+
+## Annotations
+
+[^f00001]: Footnote: [2000 c. 17](https://www.legislation.gov.uk/ukpga/2000/17).
+
+[^key-03bb0ff04a84fc735a3fd16e05d8e69b]: Commencement: Reg. 1 in force at 31.8.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/2129/regulation/1)
+
+[^key-1728f52e58db8939f3613ef6ba57d6ea]: Commencement: Reg. 2 in force at 31.8.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/2129/regulation/1)
+
+[^key-872143a96f3c9beab934de514f27a621]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2000/2129/regulation/2) inserted (1.10.2015) by [The Tonnage Tax (Training Requirement) (Amendment) Regulations 2015 (S.I. 2015/788)](https://www.legislation.gov.uk/uksi/2015/788), [regs. 1](https://www.legislation.gov.uk/uksi/2015/788/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2015/788/regulation/2/2/a)
+
+[^f00002]: Footnote: [1981 c. 61](https://www.legislation.gov.uk/ukpga/1981/61).
+
+[^key-6ed8af17e8b064888dd803ee17f6e1d0]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2000/2129/regulation/2) substituted (1.10.2013) by [The Tonnage Tax (Training Requirement) (Amendment) (No. 2) Regulations 2013 (S.I. 2013/2245)](https://www.legislation.gov.uk/uksi/2013/2245), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2245/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2013/2245/regulation/3/2) (with [reg. 2](https://www.legislation.gov.uk/uksi/2013/2245/regulation/2))
+
+[^key-58376d9ff5cc813a9f13ac595db05ff0]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2000/2129/regulation/2) inserted (1.10.2015) by [The Tonnage Tax (Training Requirement) (Amendment) Regulations 2015 (S.I. 2015/788)](https://www.legislation.gov.uk/uksi/2015/788), [regs. 1](https://www.legislation.gov.uk/uksi/2015/788/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2015/788/regulation/2/2/b)
+
+[^key-4ac2d280b75c2762e9550aa311ad26ce]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2000/2129/regulation/2) inserted (1.10.2015) by [The Tonnage Tax (Training Requirement) (Amendment) Regulations 2015 (S.I. 2015/788)](https://www.legislation.gov.uk/uksi/2015/788), [regs. 1](https://www.legislation.gov.uk/uksi/2015/788/regulation/1), [2(2)(c)](https://www.legislation.gov.uk/uksi/2015/788/regulation/2/2/c)
+
+[^f00005]: Footnote: [1973 c. 50](https://www.legislation.gov.uk/ukpga/1973/50); section 2 was substituted by the Employment Act [1988 (c. 19)](https://www.legislation.gov.uk/ukpga/1988/19) section 25(1).
+
+[^key-22794a9d95eabeaf3b0b9d12f214f341]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2000/2129/regulation/2) omitted (31.12.2020) by virtue of [The Merchant Shipping (Miscellaneous Provisions) (Amendments etc.) (EU Exit) Regulations 2018 (S.I. 2018/1221)](https://www.legislation.gov.uk/uksi/2018/1221), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/b), [Sch. para. 15(2)](https://www.legislation.gov.uk/uksi/2018/1221/schedule/paragraph/15/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-50dd7406c9689eb70fbfe426d58c545d]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2000/2129/regulation/2) added (1.10.2015) by [The Tonnage Tax (Training Requirement) (Amendment) Regulations 2015 (S.I. 2015/788)](https://www.legislation.gov.uk/uksi/2015/788), [regs. 1](https://www.legislation.gov.uk/uksi/2015/788/regulation/1), [2(2)(d)](https://www.legislation.gov.uk/uksi/2015/788/regulation/2/2/d)
+
+[^key-057692dbfd50092b26f6e40d774c0dab]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2000/2129/regulation/2) substituted (1.10.2015) by [The Tonnage Tax (Training Requirement) (Amendment) Regulations 2015 (S.I. 2015/788)](https://www.legislation.gov.uk/uksi/2015/788), [regs. 1](https://www.legislation.gov.uk/uksi/2015/788/regulation/1), [2(2)(e)](https://www.legislation.gov.uk/uksi/2015/788/regulation/2/2/e)
+
+[^f00006]: Footnote: [1995 c. 21](https://www.legislation.gov.uk/ukpga/1995/21).
+
+[^key-af72164859726708d7ed283250810464]: Commencement: Reg. 3 in force at 31.8.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/2129/regulation/1)
+
+[^key-dbc4fba20d62a7a9546656aed6b4c143]: Commencement: Reg. 4 in force at 31.8.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/2129/regulation/1)
+
+[^key-783d2c9ccba7684fdc1aeaee989020a8]: Textual amendment: [Reg. 4(7)](https://www.legislation.gov.uk/uksi/2000/2129/regulation/4/7) substituted (1.10.2003) by [The Tonnage Tax (Training Requirement) (Amendment) Regulations 2003 (S.I. 2003/2320)](https://www.legislation.gov.uk/uksi/2003/2320), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/2320/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2003/2320/regulation/3)
+
+[^key-a38649a5046fb23c2a04d9ffa559a2c1]: Textual amendment: [Reg. 4(7A)](https://www.legislation.gov.uk/uksi/2000/2129/regulation/4/7A) inserted (1.10.2015) by [The Tonnage Tax (Training Requirement) (Amendment) Regulations 2015 (S.I. 2015/788)](https://www.legislation.gov.uk/uksi/2015/788), [regs. 1](https://www.legislation.gov.uk/uksi/2015/788/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2015/788/regulation/2/3)
+
+[^key-9f94c574f3c556785758dc138deb165b]: Commencement: Reg. 5 in force at 31.8.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/2129/regulation/1)
+
+[^key-34cbd5d480619d9ac774ec0f66a1130e]: Commencement: Reg. 6 in force at 31.8.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/2129/regulation/1)
+
+[^key-0cf1a8d659d6611016c92996ebb2b56d]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/uksi/2000/2129/regulation/7) substituted (1.10.2015) by [The Tonnage Tax (Training Requirement) (Amendment) Regulations 2015 (S.I. 2015/788)](https://www.legislation.gov.uk/uksi/2015/788), [regs. 1](https://www.legislation.gov.uk/uksi/2015/788/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2015/788/regulation/2/4)
+
+[^key-bc7ac1a2a0fbb50069a6edef9635eec2]: Textual amendment: [Reg. 7(a)](https://www.legislation.gov.uk/uksi/2000/2129/regulation/7/a) substituted (31.12.2020) by [The Merchant Shipping (Miscellaneous Provisions) (Amendments etc.) (EU Exit) Regulations 2018 (S.I. 2018/1221)](https://www.legislation.gov.uk/uksi/2018/1221), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/b), [Sch. para. 15(3)](https://www.legislation.gov.uk/uksi/2018/1221/schedule/paragraph/15/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-0f23186e44e34c3690c38832d7007ecb]: Commencement: Reg. 8 in force at 31.8.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/2129/regulation/1)
+
+[^key-a8cfd50c10e597ccea36de1778ae0b80]: Textual amendment: Words in [reg. 8(4)(c)](https://www.legislation.gov.uk/uksi/2000/2129/regulation/8/4/c) substituted (1.10.2015) by [The Tonnage Tax (Training Requirement) (Amendment) Regulations 2015 (S.I. 2015/788)](https://www.legislation.gov.uk/uksi/2015/788), [regs. 1](https://www.legislation.gov.uk/uksi/2015/788/regulation/1), [2(5)(a)(i)](https://www.legislation.gov.uk/uksi/2015/788/regulation/2/5/a/i)
+
+[^key-87531493021285307f9e04803e67b2a4]: Textual amendment: Words in [reg. 8(4)(c)](https://www.legislation.gov.uk/uksi/2000/2129/regulation/8/4/c) substituted (1.10.2015) by [The Tonnage Tax (Training Requirement) (Amendment) Regulations 2015 (S.I. 2015/788)](https://www.legislation.gov.uk/uksi/2015/788), [regs. 1](https://www.legislation.gov.uk/uksi/2015/788/regulation/1), [2(5)(a)(ii)](https://www.legislation.gov.uk/uksi/2015/788/regulation/2/5/a/ii)
+
+[^key-a7ae6eb3edf2cab5e7028c6cd82bdead]: Textual amendment: Words in [reg. 8(5)(b)](https://www.legislation.gov.uk/uksi/2000/2129/regulation/8/5/b) substituted (1.10.2015) by [The Tonnage Tax (Training Requirement) (Amendment) Regulations 2015 (S.I. 2015/788)](https://www.legislation.gov.uk/uksi/2015/788), [regs. 1](https://www.legislation.gov.uk/uksi/2015/788/regulation/1), [2(5)(b)](https://www.legislation.gov.uk/uksi/2015/788/regulation/2/5/b)
+
+[^key-d34728ca1b769b960dbab6d773e5a6dc]: Commencement: Reg. 9 in force at 31.8.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/2129/regulation/1)
+
+[^key-2c52537701afa455e21242c365e925d6]: Commencement: Reg. 10 in force at 31.8.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/2129/regulation/1)
+
+[^key-c2fdce10a3038d9e5c4cfe04f59e30a5]: Commencement: Reg. 11 in force at 31.8.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/2129/regulation/1)
+
+[^key-26b6951830010bb7dc78b35f58058b31]: Commencement: Reg. 12 in force at 31.8.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/2129/regulation/1)
+
+[^key-d6ab634ee16c6e7f092ccc47146d321a]: Textual amendment: Words in [reg. 12(3)(a)](https://www.legislation.gov.uk/uksi/2000/2129/regulation/12/3/a) substituted (1.10.2015) by [The Tonnage Tax (Training Requirement) (Amendment) Regulations 2015 (S.I. 2015/788)](https://www.legislation.gov.uk/uksi/2015/788), [regs. 1](https://www.legislation.gov.uk/uksi/2015/788/regulation/1), [2(6)(a)](https://www.legislation.gov.uk/uksi/2015/788/regulation/2/6/a)
+
+[^key-fcd00d39e81925f5760c0dbf587bf3c8]: Textual amendment: Words in [reg. 12(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2000/2129/regulation/12/3/b/ii) substituted (1.10.2015) by [The Tonnage Tax (Training Requirement) (Amendment) Regulations 2015 (S.I. 2015/788)](https://www.legislation.gov.uk/uksi/2015/788), [regs. 1](https://www.legislation.gov.uk/uksi/2015/788/regulation/1), [2(6)(b)](https://www.legislation.gov.uk/uksi/2015/788/regulation/2/6/b)
+
+[^key-a7ff0169ea16d6675c2f5c05bcb082b0]: Commencement: Reg. 13 in force at 31.8.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/2129/regulation/1)
+
+[^key-1a6a06a11eacb99ac00c9508e6fb3926]: Commencement: Reg. 14 in force at 31.8.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/2129/regulation/1)
+
+[^key-46cf5a5f9dc8b65cf1fc25b04598b8a7]: Commencement: Reg. 15 in force at 31.8.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/2129/regulation/1)
+
+[^key-bc560fabf22f9a051e67b01b0c3a4023]: Textual amendment: Sum in reg. 15(1)(b) substituted (1.10.2025) by [The Tonnage Tax (Training Requirement) (Amendment etc.) Regulations 2025 (S.I. 2025/1007)](https://www.legislation.gov.uk/uksi/2025/1007), [regs. 1](https://www.legislation.gov.uk/uksi/2025/1007/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/2025/1007/regulation/4/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2025/1007/regulation/3))
+
+[^key-c74323dae4b9b6b89d964f83ffa56fb3]: Commencement: Reg. 16 in force at 31.8.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/2129/regulation/1)
+
+[^key-1a5aaa3f7a05e64d25042f4bc730e311]: Commencement: Reg. 17 in force at 31.8.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/2129/regulation/1)
+
+[^key-7e2080a1c77f4098097192e5e45613f1]: Commencement: Reg. 18 in force at 31.8.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/2129/regulation/1)
+
+[^key-923f409adab7c1f0f09f53ddc7ff77e4]: Commencement: Reg. 19 in force at 31.8.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/2129/regulation/1)
+
+[^key-9df8fc3aacde976ae12f36219a25d54a]: Commencement: Reg. 20 in force at 31.8.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/2129/regulation/1)
+
+[^key-76985718ddfba34481f2b147f9cfca8c]: Commencement: Reg. 21 in force at 31.8.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/2129/regulation/1)
+
+[^key-29cb3b318ebc9465fd6d4f828183725e]: Textual amendment: Words in [reg. 21(1)](https://www.legislation.gov.uk/uksi/2000/2129/regulation/21/1) inserted (1.10.2015) by [The Tonnage Tax (Training Requirement) (Amendment) Regulations 2015 (S.I. 2015/788)](https://www.legislation.gov.uk/uksi/2015/788), [regs. 1](https://www.legislation.gov.uk/uksi/2015/788/regulation/1), [2(7)](https://www.legislation.gov.uk/uksi/2015/788/regulation/2/7)
+
+[^key-42357827b23d49c12050914e7bbfb42a]: Textual amendment: Sum in reg. 21(4) substituted (1.10.2025) by [The Tonnage Tax (Training Requirement) (Amendment etc.) Regulations 2025 (S.I. 2025/1007)](https://www.legislation.gov.uk/uksi/2025/1007), [regs. 1](https://www.legislation.gov.uk/uksi/2025/1007/regulation/1), [4(3)](https://www.legislation.gov.uk/uksi/2025/1007/regulation/4/3) (with [reg. 3](https://www.legislation.gov.uk/uksi/2025/1007/regulation/3))
+
+[^key-09f9b299d3b16b29a4ff70a31eac557f]: Commencement: Reg. 22 in force at 31.8.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/2129/regulation/1)
+
+[^key-45d2ee91cba4eb650905f57e0d81691c]: Commencement: Reg. 23 in force at 31.8.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/2129/regulation/1)
+
+[^key-2fd38b19dded32d74fb19861536ed18c]: Commencement: Reg. 24 in force at 31.8.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/2129/regulation/1)
+
+[^key-f046b686677fdd99e4876afeea05cace]: Commencement: Reg. 25 in force at 31.8.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/2129/regulation/1)

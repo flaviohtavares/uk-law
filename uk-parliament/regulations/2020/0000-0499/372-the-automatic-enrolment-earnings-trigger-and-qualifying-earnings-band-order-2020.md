@@ -1,0 +1,111 @@
+---
+title: The Automatic Enrolment (Earnings Trigger and Qualifying Earnings Band) Order 2020
+id: uksi/2020/372
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2020-03-27'
+text_date: '2021-04-06'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/uksi/2020/372
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2020/372/pdfs/uksiem_20200372_en.pdf
+- http://www.legislation.gov.uk/uksi/2020/372/pdfs/uksi_20200372_en.pdf
+- http://www.legislation.gov.uk/uksi/2020/372/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Automatic Enrolment (Earnings Trigger and Qualifying Earnings Band) Order 2020
+
+> Text as at 2021-04-06.
+>
+> Extent: England, Wales, Scotland.
+
+*Extent: E+W+S*
+
+2020 No. 372
+
+Pensions
+
+The Automatic Enrolment (Earnings Trigger and Qualifying Earnings Band) Order 2020
+
+Made
+
+27th March 2020
+
+Coming into force
+
+6th April 2020
+
+The Secretary of State for Work and Pensions has considered whether any of the amounts in sections 3(1)(c), 5(1)(c) and 13(1)(a) and (b) of the Pensions Act 2008 [^c24047961] should be increased or decreased, as required by section 14(1) of that Act [^c24047971].
+
+A draft of this Order was laid before Parliament in accordance with section 143(4) and (5)(c) of that Act [^c24047981] and approved by a resolution of each House of Parliament.
+
+The Secretary of State for Work and Pensions makes the following Order in exercise of the powers conferred by sections 14(2), 15A(1) and 144(4) of that Act [^c24047991].
+
+## 1. Citation, commencement and interpretation[^key-97b4232d99669458257863c2d7f1afab]
+
+(1) This Order may be cited as the Automatic Enrolment (Earnings Trigger and Qualifying Earnings Band) Order 2020.
+
+(2) This Order comes into force on 6th April 2020.
+
+(3) In this Order, “**the Act**” means the Pensions Act 2008.
+
+## 2. Increase of amount[^key-e587ef2176dcb2dc85494809d979390e]
+
+In section 13(1) of the Act, (which deals with qualifying earnings and the amounts constituting the lower and upper thresholds of the qualifying earnings band), in paragraph (a), for “£6,136” substitute “ £6,240 ”.
+
+## 3. Rounded figures[^key-af37d45602e35be70467e86db3cf507a][^key-0fd4945f155eac3a981a2555823ca2bf]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 4. Revocation[^key-38b9a0d1b111d136a3def95cdf236746]
+
+Articles 2(a) and 3 of the Automatic Enrolment (Earnings Trigger and Qualifying Earnings Band) Order 2019 [^c24048031] are revoked.
+
+Signed by authority of the Secretary of State for Work and Pensions
+
+Mims Davies
+
+Parliamentary Under-Secretary of State
+
+Department for Work and Pensions
+
+*(This note is not part of the Order)*
+
+This Order makes provision under sections 14 and 15A of the Pensions Act 2008 (c. 30) (“**the Act**”).
+
+For the purposes of the Act, a jobholder who earns qualifying earnings of a specified amount is automatically enrolled or, as the case may be, re-enrolled into a pension scheme. The figures which “trigger” automatic enrolment or re-enrolment for pay reference periods of less than 12 months can be found in article 3 of this Order. Once in the scheme, the pension contributions of such a jobholder are calculated by reference to qualifying earnings.
+
+Section 13 of the Act provides that a person's qualifying earnings are earnings of more than the amount specified in subsection (1)(a) of that section but not more than the amount specified in subsection (1)(b) of that section. Article 2 increases the amount referred to in section 13(1)(a). The amount in section 13(1)(b) remains at £50,000 as provided for in article 2(b) of the Automatic Enrolment (Earnings Trigger and Qualifying Earnings Band) Order 2019 (S.I. 2019/374).
+
+The amounts specified in sections 3(1)(c), 5(1)(c) and 13(1) of the Act are in relation to a pay reference period of 12 months. Sections 3(6B), 5(7B) and 13(2) provide that, where a pay reference period is less or more than 12 months, the amounts specified in sections 3(1)(c), 5(1)(c) and 13(1) apply as if they were proportionately less or more. Article 3 prescribes rounded figures in respect of pay reference periods of less than 12 months for the purposes of sections 3(6B), 5(7B) and 13(2). Rounding caters for different types of worker and for pay periods other than 12 months used by employers and enables the pay reference period to be tailored to their specific circumstances.
+
+Article 4 revokes articles 2(a) and 3 of the Automatic Enrolment (Earnings Trigger and Qualifying Earnings Band) Order 2019.
+
+A full impact assessment has not been produced for this instrument. The Secretary of State has considered the impact of the various options for each of the thresholds and an analysis of the volumes and costs was published on 27th February 2020 and is available electronically at https://www.gov.uk/government/publications. Paper copies can be obtained from the Department for Work and Pensions, First Floor, Caxton House, Tothill Street, London SW1H 9NA.
+
+## Annotations
+
+[^c24047961]: Marginal citation: [2008 c. 30](https://www.legislation.gov.uk/ukpga/2008/30). Sections 3(1) and 5(1) were substituted by section 5(1) and (3) respectively of the [Pensions Act 2011 (c. 19)](https://www.legislation.gov.uk/ukpga/2011/19) (“**the 2011 Act**”). Relevant amendments were made by [S.I. 2012/1506](https://www.legislation.gov.uk/uksi/2012/1506), 2013/667 and 2014/623. Section 13(1) was amended by [S.I. 2012/1506](https://www.legislation.gov.uk/uksi/2012/1506), 2013/667, 2014/623, 2015/468, 2016/435, 2017/394, 2018/367 and 2019/374.
+
+[^c24047971]: Marginal citation: [Section 14](https://www.legislation.gov.uk/uksi/2020/372/section/14) was substituted by section 8(1) of the 2011 Act.
+
+[^c24047981]: Marginal citation: [Section 143(5)(c)](https://www.legislation.gov.uk/uksi/2020/372/section/143/5/c) was amended by section 8(3) of the 2011 Act.
+
+[^c24047991]: Marginal citation: [Section 15A](https://www.legislation.gov.uk/uksi/2020/372/section/15A) was inserted by section 9 of the 2011 Act.
+
+[^key-97b4232d99669458257863c2d7f1afab]: Commencement: Art. 1 in force at 6.4.2020, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2020/372/article/1/2)
+
+[^key-e587ef2176dcb2dc85494809d979390e]: Commencement: Art. 2 in force at 6.4.2020, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2020/372/article/1/2)
+
+[^key-af37d45602e35be70467e86db3cf507a]: Textual amendment: [Art. 3](https://www.legislation.gov.uk/uksi/2020/372/article/3) revoked (6.4.2021) by [The Automatic Enrolment (Earnings Trigger and Qualifying Earnings Band) Order 2021 (S.I. 2021/314)](https://www.legislation.gov.uk/uksi/2021/314), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/314/article/1/2), [4(b)](https://www.legislation.gov.uk/uksi/2021/314/article/4/b)
+
+[^key-0fd4945f155eac3a981a2555823ca2bf]: Commencement: Art. 3 in force at 6.4.2020, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2020/372/article/1/2)
+
+[^key-38b9a0d1b111d136a3def95cdf236746]: Commencement: Art. 4 in force at 6.4.2020, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2020/372/article/1/2)
+
+[^c24048031]: Marginal citation: [S.I. 2019/374](https://www.legislation.gov.uk/uksi/2019/374).

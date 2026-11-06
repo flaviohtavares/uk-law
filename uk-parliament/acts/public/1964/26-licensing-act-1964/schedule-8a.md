@@ -1,0 +1,53 @@
+---
+title: Licensing Act 1964, SCHEDULE 8A
+act: Licensing Act 1964
+section: schedule-8a
+status: repealed
+text_date: '2006-01-01'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/1964/26/schedule/8a
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Licensing Act 1964, SCHEDULE 8A
+
+> This provision is no longer in force.
+>
+> Extent: England, Wales.
+
+## SCHEDULE 8A — Procedure for Making, Varying or Revoking Restriction Orders[^key-08dfeba7c89d3df57009a817dae195d1]
+
+*Extent: E+W*
+
+**No longer in force.**
+
+Sections 67A and 67C.
+
+### Part I — Applications to Licensing Justices[^key-08dfeba7c89d3df57009a817dae195d1]
+
+#### Notice of application[^key-08dfeba7c89d3df57009a817dae195d1]
+
+**1.**[^key-08dfeba7c89d3df57009a817dae195d1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Objections to applications for variation or revocation[^key-08dfeba7c89d3df57009a817dae195d1]
+
+**2.**[^key-08dfeba7c89d3df57009a817dae195d1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Evidence[^key-08dfeba7c89d3df57009a817dae195d1]
+
+**3.**[^key-08dfeba7c89d3df57009a817dae195d1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Part II — Applications to Magistrates’ Courts[^key-08dfeba7c89d3df57009a817dae195d1]
+
+#### Notice of application[^key-08dfeba7c89d3df57009a817dae195d1]
+
+**4.**[^key-08dfeba7c89d3df57009a817dae195d1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Objections to applications for variation or revocation[^key-08dfeba7c89d3df57009a817dae195d1]
+
+**5.**[^key-08dfeba7c89d3df57009a817dae195d1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Annotations
+
+[^key-08dfeba7c89d3df57009a817dae195d1]: Textual amendment: Act repealed (17.7.2003 for the purpose of the repeal of ss. 66, 67, Sch. 8, 24.11.2005 in so far as not already in force) by [Licensing Act 2003 (c. 17)](https://www.legislation.gov.uk/ukpga/2003/17), [s. 201(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/201/2), [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/17/schedule/7) (with [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2003/17/section/2/3), [15(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/15/2), [195](https://www.legislation.gov.uk/ukpga/2003/17/section/195)); [S.I. 2003/1911](https://www.legislation.gov.uk/uksi/2003/1911), [art. 2](https://www.legislation.gov.uk/uksi/2003/1911/article/2); S.I. 2005/3056

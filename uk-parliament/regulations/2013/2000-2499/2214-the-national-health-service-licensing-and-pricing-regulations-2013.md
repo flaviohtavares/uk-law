@@ -1,0 +1,188 @@
+---
+title: The National Health Service (Licensing and Pricing) Regulations 2013
+id: uksi/2013/2214
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2013-09-04'
+text_date: '2023-04-01'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2013/2214
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2013/2214/pdfs/uksiem_20132214_en.pdf
+- http://www.legislation.gov.uk/uksi/2013/2214/pdfs/uksi_20132214_en.pdf
+- http://www.legislation.gov.uk/uksi/2013/2214/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The National Health Service (Licensing and Pricing) Regulations 2013
+
+> Text as at 2023-04-01.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2013 No. 2214
+
+National Health Service, England
+
+The National Health Service (Licensing and Pricing) Regulations 2013
+
+Made
+
+4th September 2013
+
+Coming into force in accordance with regulation 1(1)
+
+The Secretary of State for Health makes the following Regulations in exercise of the powers conferred by sections 100(7) to (9), 105(4), 118(14)(b), 120(2) and (6), 150(1) and 304(9) and (10) of the Health and Social Care Act 2012[^f00001].
+
+A draft of these Regulations was laid before Parliament in accordance with section 304(5)(d), (e) and (g) of the Health and Social Care Act 2012, and was approved by a resolution of each House of Parliament.
+
+## PART 1 — General
+
+### 1. Citation, commencement and interpretation[^key-0bd711a0694ff2285bfb609ab4b1b8b3]
+
+(1) These Regulations may be cited as the National Health Service (Licensing and Pricing) Regulations 2013, and come into force on the day after the day on which these Regulations are made.
+
+(2) In these Regulations—
+
+- “the Act” means the Health and Social Care Act 2012;
+- “business year” means—
+  - (a) in relation to an NHS foundation trust or an NHS trust, a financial year[^f00002]; and
+  - (b) in relation to any other person who provides health care services for the purposes of the NHS[^f00003], a period of more than six months in respect of which that person or, if applicable, the business of which it forms part, prepares or is required to prepare accounts;
+- [^key-9d437965a2e0335a1f84442d9d033a1f]...
+
+## PART 2 — Licensing
+
+### 2. Licence modifications[^key-4a05d1eb4a74d144b1571eb3dcb463a6]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 3. Calculation of turnover for the purposes of section 105(4) of the Act[^key-5765639903073ed6cb72a89ccc7bd926]
+
+(1) For the purposes of section 105(4) of the Act (maximum amount of a variable monetary penalty), the turnover of a person (other than [^key-d9791644bae94071383f5e536385587d]... an integrated care board[^key-43046e9295b81978ad6652bfa896ce5b]) on whom a variable monetary penalty is imposed (P) is to be the applicable turnover in England—
+
+- (a) during the business year preceding the date on which NHS England[^key-fb3f2d66215c7e28c2167ed398094779] gives notice of a proposed variable monetary penalty to P under paragraph 1(1) of Schedule 11 to the Act (procedure for discretionary requirements); or
+- (b) if figures are not available for that business year, the one immediately preceding it.
+
+(2) Where the business year preceding the date of the notice is more or less than 12 months, the turnover is to be the applicable turnover in that business year divided by the number of months in that business year and multiplied by 12.
+
+(3) Where there is no preceding business year, the turnover is to be the applicable turnover of P for the period of 12 months ending on the last day of the month preceding the month in which the date of the notice falls.
+
+(4) Where in the application of paragraph (3) the period for which P has applicable turnover is less than 12 months, the turnover is to be the applicable turnover in that period divided by the number of months in that period and multiplied by 12.
+
+(5) Where P’s business consists of two or more parts that each prepare accounts, the applicable turnover shall be calculated by adding together the applicable turnover of each of those parts, save that no account shall be taken of any turnover resulting from the supply of services by one part to the other.
+
+(6) In this regulation—
+
+- “applicable turnover” means the amounts, calculated in conformity with accounting practices and principles which are generally accepted in England, which are derived by P from the provision of health care services for the purposes of the NHS (whether or not a licence is required to provide such services), after deduction of trade discounts, value added tax and other taxes based on such amounts.
+
+### 4. Calculation of turnover for the purposes of section 105(4) of the Act: ... integrated care boards[^key-443ae6e4695d515da959afe8e3f9f6d9][^key-f365c637f1744c261695d85a763388b5]
+
+(1) For the purposes of section 105(4) of the Act, the turnover [^key-854624ed0190c8a1fecccce3cb537b83]... of an integrated care board is to be the revenue resource use by [^key-ceafea135742d2076b3cc9c75b7529ad]... the integrated care board[^key-895503fc171963e9f1d56a060e517325]—
+
+- (a) during the financial year preceding the date on which NHS England[^key-5cf3e595a58ca68570d0230fcd5b4084] gives notice of a proposed variable monetary penalty to [^key-fc42b92f9c11468858ffefde67cb486e]... that integrated care board[^key-d535f4c06fe98b193b66660cb3986c3d] [^key-d4035e5619b3901bd26a87332b578770]... under paragraph 1(1) of Schedule 11 to the Act (procedure for discretionary requirements); or
+- (b) if figures are not available for that financial year, the one immediately preceding it.
+
+(2) Where the period during the preceding financial year for which [^key-2a87e0f2e01cad3398a2b72ba600b784]... an integrated care board[^key-ad6a651241cda5c3acf1f48c5d1b572d] has revenue resource use is less than 12 months, the turnover is to be the revenue resource use in that period divided by the number of months in that period and multiplied by 12.
+
+(3) Where there is no preceding financial year for an integrated care board[^key-b3dca5c3714e3d39a7589326d1753a2b], the turnover is to be the revenue resource use of the integrated care board[^key-1b7df398d10dfa58c43ee0e6c94f453f] in the relevant period, divided by the number of months in that period and multiplied by 12.
+
+(4) In this regulation—
+
+- “relevant period” means the period in the financial year in which the date of the notice falls ending on the last day of the month preceding the month in which that date falls;
+- “[^key-b497cc295094d4c352ab85163ee9e94b]**revenue resource use**” means the local revenue resource use of an integrated care board which is attributable to matters specified in a direction given to the integrated care board under section 223N(1) of the National Health Service Act 2006
+
+## PART 3 — Pricing
+
+### 5. Consultation on the proposed national tariff[^key-195f13fdb90846e559c657796afce4fe]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 6. Meaning of “relevant provider”[^key-ed8de57ff0a1594f557f5b45f036dcc4]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Signed by authority of the Secretary of State for Health.
+
+Anna Soubry
+
+Parliamentary Under-Secretary of State,
+
+Department of Health
+
+4th September 2013
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations make provision in relation to certain matters to be prescribed for the purposes of Chapters 3 and 4 of Part 3 of the Health and Social Care Act 2012 (“the Act”) (Monitor: licensing and pricing).
+
+Part 2 of these Regulations prescribes certain matters for the purposes of Chapter 3 of Part 3 of the Act. Regulation 2 prescribes the percentages for the purposes of the “objection percentage” and the “share of supply percentage”, as well as prescribing what services are relevant for the purposes of the share of supply percentage and how a relevant licence holder’s share of supply is to be calculated, for the purposes of section 100(7) of the Act (modification of standard conditions of a licence).
+
+Regulations 3 and 4 prescribe how turnover is to be calculated for the purposes of section 105(4) of the Act, which provides that a variable monetary penalty imposed by Monitor must not exceed 10% of the turnover in England of the person on whom it is imposed.
+
+Part 3 of these Regulations prescribes certain matters for the purposes of Chapter 4 of Part 3 of the Act. Regulation 5 prescribes the percentages for the purposes of the “objection percentage” and the “share of supply percentage”, as well as prescribing how a relevant provider’s share of supply is to be calculated for the purposes of the share of supply percentage, for the purposes of section 120(2) of the Act (responses to consultation on proposals for the national tariff).
+
+Regulation 6 prescribes who is a “relevant provider” for the purposes of sections 118, 120 and 121 of, and Schedule 12 to, the Act (consultation on proposals for the national tariff and determination of references under section 120).
+
+A full impact assessment has not been produced for this instrument as these Regulations have no impact on the private sector or civil society organisations. A full Impact Assessment has been produced in relation to the provisions of the Act and a copy is available at http://www.dh.gov.uk/en/Publicationsandstatistics/Publications/PublicationsLegislation/DH\_123583.
+
+## Annotations
+
+[^f00001]: Footnote: [2012 c. 7](https://www.legislation.gov.uk/ukpga/2012/7). *See* section 150(1) of the Health and Social Care Act 2012 (“the Act”) for the meaning of “prescribed”.
+
+[^key-0bd711a0694ff2285bfb609ab4b1b8b3]: Commencement: Reg. 1 in force at 5.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2214/regulation/1/1)
+
+[^f00002]: Footnote: *See* section 150(1) of the Act for the meaning of “financial year”.
+
+[^f00003]: Footnote: *See* section 64(3) and (4) of the Act for the meaning of “health care services” and “the NHS”.
+
+[^key-9d437965a2e0335a1f84442d9d033a1f]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/2214/regulation/1/2) omitted (1.7.2022) by virtue of [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [212(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/212/2)
+
+[^key-4a05d1eb4a74d144b1571eb3dcb463a6]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/uksi/2013/2214/regulation/2) omitted (1.7.2022) by virtue of [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [212(3)](https://www.legislation.gov.uk/uksi/2022/634/regulation/212/3)
+
+[^key-5765639903073ed6cb72a89ccc7bd926]: Commencement: Reg. 3 in force at 5.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2214/regulation/1/1)
+
+[^key-d9791644bae94071383f5e536385587d]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2013/2214/regulation/3/1) omitted (1.7.2022) by virtue of [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [212(4)](https://www.legislation.gov.uk/uksi/2022/634/regulation/212/4)
+
+[^key-43046e9295b81978ad6652bfa896ce5b]: Textual amendment: Words in [Regulations](https://www.legislation.gov.uk/uksi/2013/2214) substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [Sch. para. 1(1)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/1)[(3)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/3) (with [Sch. para. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/2))
+
+[^key-fb3f2d66215c7e28c2167ed398094779]: Textual amendment: Words in [reg. 3(1)(a)](https://www.legislation.gov.uk/uksi/2013/2214/regulation/3/1/a) substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [111(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/111/2)
+
+[^key-443ae6e4695d515da959afe8e3f9f6d9]: Commencement: Reg. 4 in force at 5.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2214/regulation/1/1)
+
+[^key-f365c637f1744c261695d85a763388b5]: Textual amendment: Words in [reg. 4](https://www.legislation.gov.uk/uksi/2013/2214/regulation/4) heading omitted (1.7.2022) by virtue of [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [212(5)(a)](https://www.legislation.gov.uk/uksi/2022/634/regulation/212/5/a)
+
+[^key-854624ed0190c8a1fecccce3cb537b83]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/uksi/2013/2214/regulation/4/1) omitted (1.7.2022) by virtue of [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [212(5)(b)(i)(aa)](https://www.legislation.gov.uk/uksi/2022/634/regulation/212/5/b/i/aa)
+
+[^key-ceafea135742d2076b3cc9c75b7529ad]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/uksi/2013/2214/regulation/4/1) omitted (1.7.2022) by virtue of [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [212(5)(b)(i)(bb)](https://www.legislation.gov.uk/uksi/2022/634/regulation/212/5/b/i/bb)
+
+[^key-895503fc171963e9f1d56a060e517325]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/uksi/2013/2214/regulation/4/1) substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [69(2)(a)(i)](https://www.legislation.gov.uk/uksi/2022/634/regulation/69/2/a/i)
+
+[^key-5cf3e595a58ca68570d0230fcd5b4084]: Textual amendment: Words in [reg. 4(1)(a)](https://www.legislation.gov.uk/uksi/2013/2214/regulation/4/1/a) substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [111(3)](https://www.legislation.gov.uk/uksi/2022/634/regulation/111/3)
+
+[^key-fc42b92f9c11468858ffefde67cb486e]: Textual amendment: Words in [reg. 4(1)(a)](https://www.legislation.gov.uk/uksi/2013/2214/regulation/4/1/a) omitted (1.7.2022) by virtue of [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [212(5)(b)(ii)(aa)](https://www.legislation.gov.uk/uksi/2022/634/regulation/212/5/b/ii/aa)
+
+[^key-d535f4c06fe98b193b66660cb3986c3d]: Textual amendment: Words in [reg. 4(1)(a)](https://www.legislation.gov.uk/uksi/2013/2214/regulation/4/1/a) substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [69(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2022/634/regulation/69/2/a/ii)
+
+[^key-d4035e5619b3901bd26a87332b578770]: Textual amendment: Words in [reg. 4(1)(a)](https://www.legislation.gov.uk/uksi/2013/2214/regulation/4/1/a) omitted (1.7.2022) by virtue of [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [212(5)(b)(ii)(bb)](https://www.legislation.gov.uk/uksi/2022/634/regulation/212/5/b/ii/bb)
+
+[^key-2a87e0f2e01cad3398a2b72ba600b784]: Textual amendment: Words in [reg. 4(2)](https://www.legislation.gov.uk/uksi/2013/2214/regulation/4/2) omitted (1.7.2022) by virtue of [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [212(5)(c)](https://www.legislation.gov.uk/uksi/2022/634/regulation/212/5/c)
+
+[^key-ad6a651241cda5c3acf1f48c5d1b572d]: Textual amendment: Words in [reg. 4(2)](https://www.legislation.gov.uk/uksi/2013/2214/regulation/4/2) substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [69(2)(b)](https://www.legislation.gov.uk/uksi/2022/634/regulation/69/2/b)
+
+[^key-b3dca5c3714e3d39a7589326d1753a2b]: Textual amendment: Words in [reg. 4(3)](https://www.legislation.gov.uk/uksi/2013/2214/regulation/4/3) substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [69(2)(c)(i)](https://www.legislation.gov.uk/uksi/2022/634/regulation/69/2/c/i)
+
+[^key-1b7df398d10dfa58c43ee0e6c94f453f]: Textual amendment: Words in [reg. 4(3)](https://www.legislation.gov.uk/uksi/2013/2214/regulation/4/3) substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [69(2)(c)(ii)](https://www.legislation.gov.uk/uksi/2022/634/regulation/69/2/c/ii)
+
+[^key-b497cc295094d4c352ab85163ee9e94b]: Textual amendment: Words in [reg. 4(4)](https://www.legislation.gov.uk/uksi/2013/2214/regulation/4/4) substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [69(2)(d)](https://www.legislation.gov.uk/uksi/2022/634/regulation/69/2/d)
+
+[^key-195f13fdb90846e559c657796afce4fe]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/uksi/2013/2214/regulation/5) omitted (1.4.2023) by virtue of [The Health and Care Act 2022 (Consequential and Related Amendments) Regulations 2023 (S.I. 2023/306)](https://www.legislation.gov.uk/uksi/2023/306), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/306/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2023/306/regulation/2)
+
+[^key-ed8de57ff0a1594f557f5b45f036dcc4]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/uksi/2013/2214/regulation/6) omitted (1.4.2023) by virtue of [The Health and Care Act 2022 (Consequential and Related Amendments) Regulations 2023 (S.I. 2023/306)](https://www.legislation.gov.uk/uksi/2023/306), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/306/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2023/306/regulation/2)

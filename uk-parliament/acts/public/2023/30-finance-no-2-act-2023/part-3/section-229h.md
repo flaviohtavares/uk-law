@@ -1,0 +1,51 @@
+---
+title: Finance (No. 2) Act 2023, section 229H
+act: Finance (No. 2) Act 2023
+section: 229H
+status: revised
+text_date: '2026-07-15'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2023/30/section/229H
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Finance (No. 2) Act 2023, section 229H
+
+> Text as at 2026-07-15.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 229H. Value of tangible fixed assets[^key-9fb6e69a9d1806374c1e561501413569]
+
+*Extent: E+W+S+N.I.*
+
+(1) To determine the value of tangible fixed assets of a qualifying member of a multinational group for an accounting period—
+
+- (a) add together—
+  - (i) the sum of the values of each tangible fixed asset held by the member at the start of the period, as those values are recorded in the member’s financial statements, and
+  - (ii) the sum of the values of each tangible fixed asset held by the member at the end of the period, as those values are recorded in the member’s financial statements, and
+- (b) divide the result of paragraph (a) by 2.
+
+(2) For the purposes of subsection (1) financial statements are “appropriate” only if the basis on which they are prepared is consistent for all members of the group (wherever located).
+
+(3) In each case the value of a tangible fixed asset is to include accumulated depreciation, depletion or impairment.
+
+(4) If the member is not a member of the group at the start of the period, or at the end of the period, the sum of the values of its tangible fixed assets at that time is to be treated as nil.
+
+(5) For the purpose of subsection (4), ignore section 208(2) (members joining or leaving group in an accounting period treated as members for the whole of the period).
+
+(6) Where a permanent establishment does not prepare separate financial accounts, the values to be used are those that would have been recorded in those accounts had they been prepared (and those values are to be excluded from the financial statements of the main entity for the purposes of applying this section).
+
+(7) For the purposes of section 229D (but not for the purposes of section 229E), tangible fixed assets held by a member of the group that is a flow-through entity—
+
+- (a) are to be treated as held by members of the group that are not flow-through entities that are located in the territory in which the flow-through entity was created, or
+- (b) where there are no such members in that territory, are to be ignored for the purposes of this Chapter.
+
+(8) Subsection (7) does not apply to assets of a flow-through entity that are held by a permanent establishment of the entity.
+
+(9) For the purposes of this Chapter “**tangible fixed assets**” means all tangible assets wherever located, other than cash or cash equivalents or financial assets.
+
+## Annotations
+
+[^key-9fb6e69a9d1806374c1e561501413569]: Textual amendment: Pt. 3 Ch. 9A inserted (in relation to accounting periods commencing on or after 31.12.2024) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 4 paras. 5](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/5), [10](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/10)

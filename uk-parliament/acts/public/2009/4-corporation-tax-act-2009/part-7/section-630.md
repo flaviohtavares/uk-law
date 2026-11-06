@@ -1,0 +1,44 @@
+---
+title: Corporation Tax Act 2009, section 630
+act: Corporation Tax Act 2009
+section: '630'
+status: revised-with-pending-changes
+text_date: '2026-04-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2009/4/section/630
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Corporation Tax Act 2009, section 630
+
+> **Warning: changes not yet applied to this text (22).** Text as at 2026-04-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2009/4
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 630. Introduction to sections 631 and 632
+
+*Extent: E+W+S+N.I.*
+
+(1) Sections 631 and 632 apply if—
+
+- (a) section 625 (group member replacing another as party to derivative contract) applies because of a transaction or series of transactions within section 626(2) or (3), and
+- (b) before the end of the relevant 6 year period and while still a party to the relevant derivative contract, the transferee ceases to be a member of the relevant group.
+
+(2) But the transferee is not to be treated for the purposes of this section and sections 631 and 632 as having left the relevant group if—
+
+- (a) rights and liabilities under a derivative contract are transferred in the course of a transfer or merger in relation to which Chapter 9 (European cross-border transfers of business) or Chapter 10 (European cross-border mergers) applies, and
+- (b) the transferee ceases to be a member of the relevant group in consequence of the transfer or merger.
+
+(3) In a case where subsection (2) applies, if the transferee becomes a member of another group in consequence of the transfer or merger, it is to be treated for the purposes of this section and sections 631 and 632 as if the relevant group and the other group were the same.
+
+(4) In this section and sections 631 and 632—
+
+- “**the relevant 6 year period**” means the period of 6 years following—
+  - (a) in a case where section 625 applies because of a transaction within section 626(2) (“case A”), that transaction, or
+  - (b) in a case where section 625 applies because of a series of transactions within section 626(3) (“case B”), the last transaction of that series,
+- “**the relevant derivative contract**” means the derivative contract mentioned in section 625(1),
+- “**the relevant group**” means—
+  - (a) in case A, the group mentioned in section 626(2),
+  - (b) in case B, the group mentioned in section 626(3), and
+- “**the transferee**” has the same meaning as in section 625.

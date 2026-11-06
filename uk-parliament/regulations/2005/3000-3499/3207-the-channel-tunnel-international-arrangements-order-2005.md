@@ -1,0 +1,395 @@
+---
+title: The Channel Tunnel (International Arrangements) Order 2005
+id: uksi/2005/3207
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2005-11-17'
+text_date: '2015-10-16'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2005/3207
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2005/3207/pdfs/uksiem_20053207_en.pdf
+- http://www.legislation.gov.uk/uksi/2005/3207/pdfs/uksi_20053207_en.pdf
+- http://www.legislation.gov.uk/uksi/2005/3207/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Channel Tunnel (International Arrangements) Order 2005
+
+> Text as at 2015-10-16.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2005 No. 3207
+
+RAILWAYS
+
+The Channel Tunnel (International Arrangements) Order 2005
+
+Made
+
+17th November 2005
+
+Laid before Parliament
+
+21st November 2005
+
+Coming into force
+
+19th December 2005
+
+In exercise of the powers conferred on the appropriate Minister by section 11 of the Channel Tunnel Act 1987[^f00001], the Secretary of State for Transport makes the following Order:
+
+## 1. Citation, commencement and extent[^key-e81792fc25eaed228a0938c0e657a118]
+
+(1) This Order may be cited as the Channel Tunnel (International Arrangements) Order 2005 and shall come into force on 19th December 2005.
+
+(2) This Order does not apply to the rail transport activities of the Concessionaires in respect of any shuttle service, as defined in section 1(9) of the Channel Tunnel Act 1987.
+
+## 2. Interpretation[^key-1a291d3c85a51dabf5e3c23914cf24c7]
+
+In this Order—
+
+- “**Concession**” and “**Concessionaires**” have the meaning given in article 1 of the Treaty;
+- “**Directives**” means—
+  - (a) Council Directive [91/440/EEC](https://www.legislation.gov.uk/european/directive/1991/0440) dated 29th July 1991 on the development of the Community’s railways[^f00002], as amended by Directive [2001/12/EC](https://www.legislation.gov.uk/european/directive/2001/0012) dated 26th February 2001[^f00003] , Directive 2004/51/EC dated 29th April 2004 and Directive 2007/58/EC dated 23rd October 2007, each of the European Parliament and of the Council[^key-84ebca12cf8f3dc9ba2e61636d77bbdc];
+  - (b) Council Directive [95/18/EC](https://www.legislation.gov.uk/european/directive/1995/0018) dated 19th June 1995 on the licensing of railway undertakings[^f00005], as amended by Directive [2001/13/EC](https://www.legislation.gov.uk/european/directive/2001/0013) dated 26th February 2001[^f00006] of the European Parliament and of the Council; and
+  - (c) Directive [2001/14/EC](https://www.legislation.gov.uk/european/directive/2001/0014) dated 26th February 2001 on the allocation of railway infrastructure capacity and the levying of charges for the use of railway infrastructure and safety certification[^f00007] as amended by Directive 2007/58/EC dated 23rd October 2007, both[^key-bd0c7ea5b678b61091afcc95782ec236] of the European Parliament and of the Council;
+- “**Fixed Link**” and “**Channel fixed link**” means the Channel fixed link as defined in Article 1(2) of the Treaty;
+- “**infrastructure manager**”, “**international grouping**” and “**railway undertaking**” have the same meanings as in Council Directive [91/440/EEC](https://www.legislation.gov.uk/european/directive/1991/0440) dated 29th July 1991 on the development of the Community’s railways, as amended by Directive [2001/12/EC](https://www.legislation.gov.uk/european/directive/2001/0012) dated 26th February 2001 , Directive 2004/51/EC dated 29th April 2004 and Directive 2007/58/EC dated 23rd October 2007, each of the European Parliament and of the Council[^key-f9d166ff7d87b9cfc5e70dad7191c01c];
+- “**Intergovernmental Commission**” means the Commission established pursuant to Article 10 of the Treaty;
+- “**international articles**” means the provisions set out in the Schedule;
+- “[^key-2b89a41dc221c41d06ac12d7ac5d87b2]**Office of Rail and Road[^key-56becaee058d9f1d9289c9abc6bc851b]**” means the body established under section 15 of the Railways and Transport Safety Act 2003;
+- “**Principals**” means the Secretary of State for Transport in the Government of the United Kingdom of Great Britain and Northern Ireland or such other person as may from time to time be designated by such Government to assume his functions under or pursuant to the Concession, and the French Republic represented by the Minister responsible for Transport or any other authority designated for that purpose; and
+- “**Treaty**” means the Treaty between the United Kingdom of Great Britain and Northern Ireland and the French Republic concerning the construction and operation by private concessionaires of a Channel fixed link signed at Canterbury on 12th February 1986[^f00008].
+
+## 3. Application of international articles[^key-fe64af02610522b2861dd1a2e9090878]
+
+The international articles shall [^key-d824b029e8c2aa79ac30c7069065dd2e]... have the force of law in the United Kingdom [^key-d824b029e8c2aa79ac30c7069065dd2e]....
+
+## 4. Regulatory body[^key-2f7025dd66c8f0056dde74c1888434c2]
+
+(1) The Intergovernmental Commission is designated as the regulatory body for the Channel fixed link, and must carry out the functions assigned to, and comply with the obligations imposed on, that body by article 12 of the international articles.
+
+(2) Without prejudice to the right of any person to make an application for judicial review in accordance with article 12.5 of the international articles, a decision by the Intergovernmental Commission in accordance with its functions under article 12 of those articles is binding on all parties covered by that decision.
+
+(3) Where a decision of the Intergovernmental Commission as described in paragraph (2) contains a direction to any infrastructure manager, international grouping or railway undertaking as to the remedial action to be taken, that infrastructure manager, international grouping or, as the case may be, railway undertaking is under an obligation to comply with that direction.
+
+## 4A. Role of the Office of Rail and Road[^key-b82c839fb594ecf08373f5347eafe505][^key-e6e75b0f5b54686c62f94417bbf98271]
+
+(1) If called upon by the Intergovernmental Commission the Office of Rail and Road[^key-d389fa984d8d5182eeff19bcbc2a8da8] shall provide to that body such assistance as it may require for the purpose of carrying out the functions under article 12 of the international articles.
+
+(2) With a view to facilitating the performance of the obligations under article 4(1) by the Intergovernmental Commission the Secretary of State must exercise the power of appointment under article 10.4 of the Treaty so as to ensure that at least two members of the Intergovernmental Commission are appointed following consultation by the Secretary of State with the Office of Rail and Road.
+
+## 5. Application of civil law[^key-e27538116f3ad78d279abc0e6271d760]
+
+(1) The obligation to comply with—
+
+- (a) article 4(3) of this Order; or
+- (b) article 4 of the international articles,
+
+shall be a duty owed to any person who may be affected by a breach of that obligation and shall be actionable by any such person who sustains loss, damage or injury caused by the breach at the suit or instance of that person.
+
+(2) In any proceedings brought against an infrastructure manager, international grouping or railway undertaking under paragraph (1), it shall be a defence for it to prove that it took all reasonable steps and exercised all due diligence to avoid a breach of the duty.
+
+(3)[^key-c438bb9a4282fe48e149b98b54e20be3] Without prejudice to the right which any person may have by virtue of paragraph (1) to bring civil proceedings in respect of any breach of duty, the obligation to comply with the provisions referred to in that paragraph shall be enforceable by civil proceedings by the Intergovernmental Commission for an injunction or for interdict or any other relief.
+
+## 6. Making of false statements etc.[^key-1e05b33228b44777667291e1218950d1]
+
+(1) If any person, in giving any information or making any application under or for the purposes of any provision of this Order, makes any statement which that person knows to be false in a material particular, or recklessly makes any statement which is false in a material particular, he or she is guilty of an offence and shall be liable—
+
+- (a) on summary conviction, to a fine not exceeding the statutory maximum; or
+- (b) on conviction on indictment, to a fine.
+
+(2) No proceedings shall be instituted in England or Wales in respect of an offence under this article, except by or with the consent of the Secretary of State or the Director of Public Prosecutions.
+
+## 7. Offences by bodies corporate and Scottish partnerships
+
+(1) Where an offence under this Order has been committed by a body corporate and it is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, any director, manager, secretary or other similar officer of the body corporate or any person who was purporting to act in any such capacity, he or she as well as the body corporate shall be guilty of that offence and be liable to be proceeded against and punished accordingly.
+
+(2) Where the affairs of a body corporate are managed by its members, paragraph (1) shall apply in relation to the acts and defaults of a member in connection with his or her functions of management as if he or she were a director of the body corporate.
+
+(3) Where a Scottish partnership is guilty of an offence under this Order in Scotland and that offence is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, a partner, he or she as well as the partnership shall be guilty of that offence and shall be liable to be proceeded against and punished accordingly.
+
+Signed by authority of the Secretary of State for Transport
+
+Derek Twigg
+
+Parliamentary Under Secretary of State,
+
+Department for Transport
+
+17th November 2005
+
+## SCHEDULE — INTERNATIONAL ARTICLES
+
+Article 3
+
+THE INTERGOVERNMENTAL COMMISSION,[^key-e45ac24de02b4b286dc802bf0c92b328]
+
+Having regard to the Treaty between the United Kingdom of Great Britain and Northern Ireland and the French Republic concerning the construction and operation by private concessionaires of a Channel Fixed Link signed at Canterbury on 12 February 1986 (“the Treaty”), and in particular its Articles 1 and 10;
+
+Having regard to Council Directive [91/440/EEC](https://www.legislation.gov.uk/european/directive/1991/0440) of 29 July 1991, as amended by Directives [2001/12/EC](https://www.legislation.gov.uk/european/directive/2001/0012) of 26 February 2001, [2004/51/EC](https://www.legislation.gov.uk/european/directive/2004/0051) of 29 April 2004, both of the European Parliament and of the Council, Council Directive [2006/103/EC](https://www.legislation.gov.uk/european/directive/2006/0103) of 20 November 2006 and Directive [2007/58/EC](https://www.legislation.gov.uk/european/directive/2007/0058) of the European Parliament and of the Council of 23 October 2007, on the development of the Community’s railways and, in particular, its Article 10(3);
+
+Having regard to Council Directive [95/18/EC](https://www.legislation.gov.uk/european/directive/1995/0018) of 19 June 1995, as amended by Directives [2001/13/EC](https://www.legislation.gov.uk/european/directive/2001/0013) of 26 February 2001 and [2004/49/EC](https://www.legislation.gov.uk/european/directive/2004/0049) of 29 April 2004, both of the European Parliament and of the Council, on the licensing of railway undertakings;
+
+Having regard to Directive [2001/14/EC](https://www.legislation.gov.uk/european/directive/2001/0014) of the European Parliament and of the Council of 26 February 2001, as amended by Directives [2004/49/EC](https://www.legislation.gov.uk/european/directive/2004/0049) of 29 April 2004 and [2007/58/EC](https://www.legislation.gov.uk/european/directive/2007/0058) of 23 October 2007 both of the European Parliament and of the Council, on the allocation of railway infrastructure capacity, and the levying of charges for the use of railway infrastructure and in particular its Article 8(2) whereby for specific investment projects, infrastructure managers may set or continue to set higher charges on the basis of the long-term costs of such projects if they increase efficiency and/or cost-effectiveness and could not otherwise have been undertaken;
+
+Having regard to the Regulation of the Intergovernmental Commission on the safety of the Channel Fixed Link signed in London on 24 January 2007;
+
+Having regard to the quadripartite Concession signed on 14 March 1986 between the ministre de l’urbanisme, du logement et des transports representing the French State and the Secretary of State for Transport of the United Kingdom of Great Britain and Northern Ireland (together “the Principals”) on the one part, and France-Manche SA and the Channel Tunnel Group Ltd (“the Concessionaires”) on the other part (the Concession);
+
+Considering the specific nature of the investment undertaken to assure the design, financing, construction and, since 1994, operation of the Channel Tunnel;
+
+HAS ADOPTED the following Regulation:
+
+### ARTICLE 1 — Purpose
+
+This Regulation applies to the use of those parts of the Channel Fixed Link necessary for the delivery of:
+
+- international passenger services,
+- international combined transport goods services, and
+- international freight services by railway undertakings,
+
+in accordance with the above Directives.
+
+### ARTICLE 2 — Definitions
+
+“Concession” and “Concessionaires” have the meaning given in Article 1 of the Treaty.
+
+“Common Section” means that part of the Fixed Link which is normally used by all categories of trains for the delivery of the services described in Article 1.
+
+“Intergovernmental Commission” means the Intergovernmental Commission established by Article 10 of the Treaty to supervise in the name and on behalf of the two Governments all matters concerning the construction and operation of the Fixed Link.
+
+The expressions used in this Regulation, which are also used in the Directives referred to above, shall have the meaning they bear in those Directives.
+
+### ARTICLE 3 — Access Rights
+
+**3.1.** Railway undertakings established or to be established in a Member State shall have access rights through the Common Section, on equitable and non-discriminatory conditions, for the purpose of the provision of international combined transport goods services, international freight services or, on or after 1 January 2010, of international passenger services.
+
+**3.2.** Access rights through the Common Section include, for any railway undertaking, the right to the following minimum access package:
+
+- handling of requests for infrastructure capacity;
+- the right to utilise capacity which is granted;
+- use of running track points and junctions in the Common Section;
+- train control including signalling, regulation, dispatching and the communication and provision of information on train movements; and
+- all other information required to implement or operate the service for which capacity has been granted.
+
+**3.3.** Access rights through the Common Section also comprise:
+
+- use of the electrical supply system for traction current;
+- access to any installation intended to receive rail-borne freight that the two Governments decide, in accordance with Article 1(2) of the Treaty, forms part of the Fixed Link;
+- shunting in the event of technical breakdown; and
+- access to the emergency sidings in the event of an incident.
+
+### ARTICLE 4 — Management of Infrastructure
+
+Subject to the provisions of Articles 9.2 and 11.3, the Concessionaires shall be the infrastructure manager of the Fixed Link. The Concessionaires’ profit and loss accounts and balance sheets relating on the one hand to the provision of transport services by railway undertakings and on the other for business relating to the management of railway infrastructure shall be kept and published separately. Any public funds paid to one of these two areas of activity may not be transferred to the other. The accounts for the two areas of activity shall be kept in a way that reflects this prohibition.
+
+### ARTICLE 5 — Network Statement for the Fixed Link
+
+**5.1.** The Concessionaires shall develop, publish, keep up to date and modify as necessary a network statement for the Fixed Link (“the Network Statement”) in accordance with Article 3 of and Annex 1 to Directive [2001/14/EC](https://www.legislation.gov.uk/european/directive/2001/0014). The Concessionaires shall give timely notice to railway undertakings operating services through the Fixed Link of any major changes to the quality or capacity of the infrastructure.
+
+**5.2.** The Network Statement shall contain all the information necessary to exercise access rights through the Fixed Link, in particular:
+
+- (a) a description of the nature of the infrastructure which is available to railway undertakings and the conditions of access in the Fixed Link;
+- (b) the principles and criteria for capacity allocation, setting out the general characteristics of the infrastructure and any restrictions relating to its use, including likely capacity requirements for maintenance;
+- (c) the procedures and deadlines for presenting and considering requests for capacity allocation, in particular:
+  - (i) the procedures according to which capacity may be requested from the infrastructure manager;
+  - (ii) the requirements governing those requesting capacity;
+  - (iii) the schedule for the application and allocation processes;
+  - (iv) the principles governing the co-ordination process;
+  - (v) the procedures to be followed and criteria used where infrastructure is congested;
+  - (vi) details of restrictions on the use of infrastructure; and
+  - (vii) any conditions by which account is taken of previous levels of utilisation of capacity in determining priorities for the allocation process.
+- (d) the charging principles and tariffs; and
+- (e) the measures taken to ensure the adequate treatment of international freight services, without prejudice to other international services, and requests subject to the ad hoc procedure.
+
+**5.3.** The Concessionaires shall consult all the interested parties, including the Intergovernmental Commission, on the draft Network Statement, allowing a reasonable deadline to respond
+
+**5.4.** The Concessionaires shall finalise the Network Statement and publish it appropriately, no less than four months in advance of the annual deadline for requests for infrastructure capacity.
+
+**5.5.** The Network Statement shall be kept up to date following the same process.
+
+### ARTICLE 6 — Exercise of Access Rights
+
+A railway undertaking shall not be permitted to exercise the access rights unless it:
+
+- (a) is licensed in accordance with the provisions of Council Directive [95/18/EC](https://www.legislation.gov.uk/european/directive/1995/0018), as amended by Article 1 of Directive [2001/13/EC](https://www.legislation.gov.uk/european/directive/2001/0013) and Article 29 of Directive [2004/49/EC](https://www.legislation.gov.uk/european/directive/2004/0049), and complies with all mandatory requirements of national legislation and regulation, and also the operating rules of the Concessionaires approved by the Intergovernmental Commission and the security provisions laid down by the Principals;
+- (b) is adequately insured for provision of services in the Fixed Link or has made equivalent arrangements for cover, in accordance with national and international law, of its liabilities in the event of accidents, in particular in respect of its clients, the Concessionaires of the Fixed Link and other third parties;
+- (c) has received and continues to hold a safety certificate as required by Article 39 of the Regulation of the Intergovernmental Commission transposing Directive [2004/49/EC](https://www.legislation.gov.uk/european/directive/2004/0049) of the European Parliament and of the Council (the Railway Safety Directive) signed on 24 January 2007;
+- (d) on fulfilling the three conditions above, has entered into an agreement with the Concessionaires. This agreement shall set out the rights and obligations of the parties in line with the conditions set out in Article 7.
+
+### ARTICLE 7 — Nature and Content of Agreements
+
+**7.1.** Conditions governing agreements to be entered into under Article 6(d) shall be non-discriminatory, in accordance with Article 10(5) of Directive 91/440 EEC as amended by Article 1 of Directive [2001/12/EC](https://www.legislation.gov.uk/european/directive/2001/0012) and Directive [2004/51/EC](https://www.legislation.gov.uk/european/directive/2004/0051).
+
+**7.2.** Agreements to be entered into under Article 6(d) shall include:
+
+- the administrative, technical and financial provisions necessary to ensure compliance at all times with the conditions specified in points (a) to (c) of Article 6 above;
+- the provisions relating to allocation of train paths over the Common Section agreed as a result of application of the procedures specified in Article 9;
+- the provisions relating to fees set according to the rules specified in Article 11.
+
+### ARTICLE 8 — Framework Agreements
+
+**8.1.** The Concessionaires may agree with any railway undertaking or international grouping a framework agreement covering a number of years, setting out the characteristics of the infrastructure capacity required by the railway undertaking or the international grouping and offered by the Concessionaires over any period exceeding one timetable period. A framework agreement shall not specify the path or paths in detail but be drawn up so as to meet the legitimate commercial needs of the railway undertaking or the international grouping.
+
+**8.2.** A framework agreement shall in principle be for a period of five years, renewable for periods equal to its original duration. The Concessionaires may agree to a shorter or longer period. Any period longer than five years shall be justified by the existence of commercial contracts, specialised investments or risks.
+
+**8.3.** For services using specialised infrastructure as designated under Article 24 of Directive [2001/14/EC](https://www.legislation.gov.uk/european/directive/2001/0014) and which require substantial and long-term investment, duly justified by the railway undertaking or the international grouping, framework agreements may be for a period of 15 years. Any period longer than fifteen years shall be possible only in exceptional cases, in particular where there is large-scale, long-term investment, and particularly where such investment is covered by contractual commitments including a multi-annual amortisation plan. In these cases, the railway undertaking or the international grouping may call for detailed definition of the capacity characteristics – including the frequency, volume and quality of train paths – which are to be provided for the duration of the framework agreement. The Concessionaires may reduce reserved capacity which, over a period of at least one month, has been used less than the threshold quota provided for in the Network Statement, in accordance with Article 9.5(c).
+
+**8.4.** The framework agreement shall not be such as to preclude the use of the Fixed Link by other railway undertakings or services.
+
+**8.5.** The framework agreement shall allow for the amendment or limitation of its terms to enable better use to be made of the Fixed Link.
+
+**8.6.** The framework agreement may include provision for penalties should it be necessary to modify or terminate the agreement.
+
+**8.7.** Whilst respecting commercial confidentiality, the general nature of each framework agreement shall be made available to any interested party.
+
+### ARTICLE 9 — Procedure for Allocation of Train Paths
+
+**9.1.** The Concessionaires shall establish an allocation body to allocate infrastructure capacity in the Fixed Link. The allocation body shall ensure that infrastructure capacity is allocated on a fair and non-discriminatory basis and in accordance with Community law, and shall respect the confidentiality of any commercial information provided to it in the exercise of this function. Subject to compliance with Article 9.2, the Concessionaires as infrastructure manager shall fulfil the role of the allocation body.
+
+**9.2.** The allocation body established in accordance with Article 9.1 shall be independent in its legal form, organisation and decision-making from any railway undertaking.
+
+**9.3.** Requests for train paths shall be submitted to the allocation body, or to any other relevant infrastructure manager, or to any joint body established by infrastructure managers for this purpose. Requests for train paths shall be submitted by the railway undertaking or the international grouping in accordance with the conditions and procedures set out in the Network Statement complemented, where a framework agreement is in place and as appropriate, by the provisions of that agreement. The allocation body must adhere to the requirements set out in Article 18 of Directive [2001/14/EC](https://www.legislation.gov.uk/european/directive/2001/0014).
+
+- (a) The right to use specific infrastructure capacity in the form of a train path may be granted for a maximum duration of one working timetable period. Any party to a framework agreement shall apply for capacity in accordance with the terms of that agreement. Once the allocation body has allocated capacity to a railway undertaking, that capacity may not be transferred by the recipient to another undertaking or service. Any trading in infrastructure capacity is prohibited and shall lead to that railway undertaking being excluded from the further allocation of capacity. The use of capacity by a railway undertaking when carrying out the business of an international grouping shall not be considered a transfer.
+- (b) The allocation body shall consider all applications for infrastructure capacity under the conditions and following the deadlines set out in the Network Statement. It shall take account of the capacity needed for maintenance, renewal and improvement of the infrastructure. It shall as far as is possible meet all requests for infrastructure capacity. Where there are conflicting requests for capacity, the allocation body shall have the right to propose different paths to those that were requested; any such proposal must be accompanied by a justification. The allocation body shall attempt, through consultation with the appropriate path requestors, to achieve a resolution of any conflicts.
+- (c) At the end of the scheduling process, the allocation body shall establish a draft working timetable which it shall circulate to all interested parties. Interested parties shall have at least one month in which to make any comments on the draft. At the end of that period, the allocation body shall take appropriate measures to deal with any concerns that are expressed, and then adopts and publishes the definitive working timetable.
+- (d) Without prejudice to the provisions of Article 12, in case of disputes relating to the allocation of infrastructure capacity, the allocation body shall establish a dispute resolution system in order to resolve such disputes promptly. The system shall be described in the Network Statement and, where the system is applied, a decision shall be reached within a time limit of ten working days.
+- (e) Requests for paths may be made after publication of the working timetable and for the remainder of the duration of that timetable period. Ad-hoc requests for individual train paths may also be made at any time during the current working timetable period. The allocation body must respond to ad hoc requests for individual train paths as quickly as possible and, in any event, within five working days. Information supplied on available spare capacity shall be made available to all railway undertakings and international groupings who may wish to take advantage of this capacity.
+
+**9.4.** The allocation body shall give its reasons for any refusal of train paths.
+
+**9.5.** The allocation body may, giving reasons, withdraw or alter allocated paths:
+
+- (a) to allow unscheduled maintenance on the railway infrastructure;
+- (b) at the request of the Intergovernmental Commission, of either of the two Principals or of both Principals acting jointly, to give priority to transport needed for national defence; or
+- (c) to allow more efficient use of the infrastructure when the path has, for a period of at least one month, been used less than a threshold quota set out in the Network Statement.
+
+Fifteen days’ notice must be given to the path holder, and the railway undertakings affected must be consulted, on any decision to modify or withdraw paths. The allocation body must advise the duration of the modification or withdrawal. In the circumstances described at (c) above, the modification or withdrawal may last for the duration of the current working timetable period.
+
+- However, in the event of an emergency and where absolutely necessary, particularly in the event of an accident, a breakdown rendering the infrastructure temporarily unusable or any other event preventing the reasonably safe use of the infrastructure, the allocation body may without warning withdraw the paths allocated for as long as is necessary to repair or recover the system. The allocation body shall immediately inform the Intergovernmental Commission of such a closure.
+- The terms governing compensation shall be set out in the agreement entered into in accordance with Article 6(d).
+
+**9.6.** The allocation body shall co-operate with other infrastructure managers to ensure that there is proper co-ordination of train paths through the Fixed Link and on to other networks, and shall establish such procedures as are appropriate to enable this to take place in accordance with Article 15 of Directive [2001/14/EC](https://www.legislation.gov.uk/european/directive/2001/0014).
+
+### ARTICLE 10 — Congested Infrastructure
+
+**10.1.** Where the Concessionaires find that it is not possible to satisfy requests for infrastructure capacity, they must immediately declare the infrastructure to be congested, inform the Intergovernmental Commission, and apply the priority criteria set out in the network statement.
+
+**10.2.** The Concessionaires shall, within six months of the declaration described in Article 10.1, undertake a capacity analysis in accordance with Article 25 of Directive [2001/14/EC](https://www.legislation.gov.uk/european/directive/2001/0014), and notify it to the Intergovernmental Commission.
+
+**10.3.** Following consultation with the users of the infrastructure the Concessionaires shall, within six months of the completion of the capacity analysis described in Article 10.2, produce a capacity enhancement plan in accordance with Article 26 of Directive [2001/14/EC](https://www.legislation.gov.uk/european/directive/2001/0014) and in conformity with any relevant provisions of the Concession.
+
+### ARTICLE 11 — Infrastructure Charges
+
+**11.1.** The Concessionaires shall co-operate with other infrastructure managers to achieve the efficient operation of train services. They must aim to guarantee the optimum competitiveness of international rail freight and ensure the efficient utilisation of the Trans-European Rail Freight Network.
+
+**11.2.** The Concessionaires shall establish a charging body to set out specific charging rules and to determine charges for the use of the Fixed Link in accordance with Chapter II of Directive [2001/14/EC](https://www.legislation.gov.uk/european/directive/2001/0014). Subject to compliance with Article 11.3, the Concessionaires as infrastructure manager shall fulfil the functions of the charging body. In any event, the Concessionaires shall collect the infrastructure charges for the use of the Fixed Link.
+
+**11.3.** The charging body established in accordance with Article 11.2 shall be independent in its legal form, organisation and decision-making from any railway undertaking.
+
+**11.4.** The charges shall be established in accordance with the charging principles set out in Chapter II of Directive [2001/14/EC](https://www.legislation.gov.uk/european/directive/2001/0014) above, and in particular Article 8.2, with the exceptions listed to those principles, and to the permitted discounts and adjustments, taking into account performance and the possibility of reservation charges. The Concessionaires shall advise the Intergovernmental Commission if they intend to negotiate with a capacity requestor concerning the level of infrastructure charges. Such negotiations shall only be permitted if they are carried out under the supervision of the Intergovernmental Commission, which must intervene immediately if the negotiations are likely to contravene the requirements of Directive [2001/14/EC](https://www.legislation.gov.uk/european/directive/2001/0014).
+
+**11.5.** The charging body must be able to justify the charges billed as against the charging principles set out in this Regulation and in Chapter II of Directive [2001/14/EC](https://www.legislation.gov.uk/european/directive/2001/0014) and, in particular, to show that the charging scheme has been applied to all railway undertakings in a fair and non-discriminatory way. The charging body must respect the commercial confidentiality of information provided to it by those requesting capacity.
+
+### ARTICLE 12 — Regulatory Body
+
+**12.1.** A railway undertaking or international grouping shall have a right of appeal to the Intergovernmental Commission if it believes that it has been unfairly treated, discriminated against or is in any other way aggrieved, and in particular against decisions adopted by the Concessionaires or, where appropriate, the railway undertaking, concerning:
+
+- (a) the network statement;
+- (b) the criteria contained within it;
+- (c) the allocation process and its result;
+- (d) the charging scheme;
+- (e) the level or structure of infrastructure fees which it is, or may be, required to pay; and
+- (f) arrangements for access to the network.
+
+**12.2.** For the purpose of carrying out this appeal function the Intergovernmental Commission may call upon such bodies or experts appointed for that purpose, in conformity with Article 10(7) of the Treaty.
+
+**12.3.** The Concessionaires and other interested parties shall supply to the Intergovernmental Commission, without undue delay, all relevant information requested by that body. In particular, the Concessionaires shall supply to the Intergovernmental Commission all the information necessary to enable that body to ensure that charges set by the Concessionaires are compliant with Chapter II of Directive [2001/14/EC](https://www.legislation.gov.uk/european/directive/2001/0014) and are non-discriminatory.
+
+**12.4.** The Intergovernmental Commission shall take a decision and take action to remedy the situation within a maximum period of two months from receipt of all relevant information about an appeal or complaint. Notwithstanding Article 12.5, a decision of the Intergovernmental Commission shall be binding on all parties covered by that decision.
+
+**12.5.** Pursuant to Article 76 of the Regulation of the Intergovernmental Commission on the safety of the Channel Fixed Link signed in London on 24 January 2007, the decisions of that Commission taken by virtue of bi-national regulations made pursuant to Article 10(3)(e) of the Treaty may be subject to judicial review by the authorities of either France or the United Kingdom under the conditions laid down by national law applicable to those authorities. The lodging of an application for judicial review before the authorities of one State precludes the lodging of an application for judicial review of the same matter before the authorities of the other State.
+
+**12.6.** For the purpose of monitoring competition in the rail services market, in so far as it relates to the Channel Fixed Link, the Intergovernmental Commission, without prejudice to the national laws of the two states on competition policy, may call upon such bodies or experts appointed for that purpose, in conformity with Article 10.7 of the Treaty.
+
+### ARTICLE 13 — Entry into Force
+
+**13.1.** This Regulation repeals and replaces the Regulation signed on 25 October 2005, except for the provisions of Article 3 of the latter, which remain in force until 31 December 2009.
+
+**13.2.** This Regulation shall enter into force on the date of the later of the notifications by the two Governments of the completion of their necessary internal procedures.
+
+Done by the Intergovernmental Commission on 23rd July 2009 in the English and French languages, both texts being equally authoritative.
+
+|  |  |
+| --- | --- |
+| *Roy Griffins*<br>Head of UK Delegation, Intergovernmental Commission | *Christian Parent*<br>Head of French Delegation, Intergovernmental Commission |
+
+(This note is not part of the Order)
+
+This Order brings into effect a binational regulation signed on 25 October 2005 on behalf of the Governments of the United Kingdom of Great Britain and Northern Ireland and the French Republic by the Intergovernmental Commission. The purpose of that Regulation is to implement Council Directive [91/440/EEC](https://www.legislation.gov.uk/european/directive/1991/0440) of the Council of 29 July 1991 on the development of the Community’s railways, as amended by Directive [2001/12/EC](https://www.legislation.gov.uk/european/directive/2001/0012) dated 26 February 2001 and Directive [2004/51/EC](https://www.legislation.gov.uk/european/directive/2004/0051) dated 29 April 2004, both of the European Parliament and of the Council, Council Directive [95/18/EC](https://www.legislation.gov.uk/european/directive/1995/0018) dated 19 June 1995 on the licensing of railway undertakings, as amended by Directive [2001/13/EC](https://www.legislation.gov.uk/european/directive/2001/0013) dated 26 February 2001 of the European Parliament and of the Council, and Directive [2001/14/EC](https://www.legislation.gov.uk/european/directive/2001/0014) of the European Parliament and of the Council on the allocation of railway infrastructure capacity and the levying of charges for the use of railway infrastructure and safety certification for the Channel Tunnel. The text of the binational regulation is set out in the Schedule to this Order.
+
+A separate Regulatory Impact Assessment has not been prepared in respect of this Order, but Appendix A of the First Rail Package Transposition Regulations – Regulatory Impact Assessment sets out the relevant considerations. A copy can be obtained from the Department for Transport, Great Minister House, 76 Marsham Street, London, SW1P 4DR. A copy has been placed in the Library of each House of Parliament.
+
+A copy of the Transposition Note is also available from the Department for Transport.
+
+Copies of the Regulatory Impact Assessment for the First Rail Package (see S.I. [2005/3049](https://www.legislation.gov.uk/uksi/2005/3049) and S.I. [2005/3050](https://www.legislation.gov.uk/uksi/2005/3050)) and of the Transposition Note for this Order may also be accessed on the Office for Public Sector Information website www.opsi.gov.uk.
+
+## Annotations
+
+[^f00001]: Footnote: [1987 c. 53](https://www.legislation.gov.uk/ukpga/1987/53).
+
+[^key-e81792fc25eaed228a0938c0e657a118]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2005/3207/article/1) in force at 19.12.2005, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3207/article/1/1)
+
+[^key-1a291d3c85a51dabf5e3c23914cf24c7]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2005/3207/article/2) in force at 19.12.2005, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3207/article/1/1)
+
+[^f00002]: Footnote: O.J. L237, 24.8.91, pg 25: the text of the Directive is subject to the amendments in a corrigendum published in O.J. No. L305, 6.11.91, pg 22.
+
+[^f00003]: Footnote: O.J. No. L75. 15.03.01, p1. Added to Annex XIII of the EEA Agreement by Article 1 of the Decision of the EEA Joint Committee No. 118/2001 of 28th September 2001 (O.J. No. L322, 6.12.2001, p32).
+
+[^key-84ebca12cf8f3dc9ba2e61636d77bbdc]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2005/3207/article/2) substituted (29.10.2009 except in relation to Art. 3 of the Regulation which was given the force of law on 1.1.2010 as notified in the London Gazette dated 12.3.2010 (which corrected an earlier notice dated 13.11.2009)) by [The Channel Tunnel (International Arrangements) (Amendment) Order 2009 (S.I. 2009/2081)](https://www.legislation.gov.uk/uksi/2009/2081), [arts. 1(2)(a)](https://www.legislation.gov.uk/uksi/2009/2081/article/1/2/a)[(3)](https://www.legislation.gov.uk/uksi/2009/2081/article/1/3), [2(2)(a)](https://www.legislation.gov.uk/uksi/2009/2081/article/2/2/a)
+
+[^f00005]: Footnote: O.J. No. L143, 27.6.1995, p70. Added to Annex XIII of the EEA Agreement by Article 1 of the Decision of the EEA Joint Committee No. 71/95 of 15th December 1995 (O.J. No. L57, 7.3.96, p37).
+
+[^f00006]: Footnote: O.J. No. L75, 15.3.2001, p26. Added to Annex XIII of the EEA Agreement by Article 2 of the Decision of the EEA Joint Committee No. 118/2001 of 28th September 2001 (O.J. No. L322, 6.12.2001, p32).
+
+[^f00007]: Footnote: O.J. No. L75, 15.3.2001, p29. Added to Annex XIII of the EEA Agreement by Article 3 of the Decision of the EEA Joint Committee No. 118/2001 of 28th September 2001 (O.J. No. L322, 6.12.2001, p32).
+
+[^key-bd0c7ea5b678b61091afcc95782ec236]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2005/3207/article/2) inserted (29.10.2009 except in relation to Art. 3 of the Regulation which was given the force of law on 1.1.2010 as notified in the London Gazette dated 12.3.2010 (which corrected an earlier notice dated 13.11.2009)) by [The Channel Tunnel (International Arrangements) (Amendment) Order 2009 (S.I. 2009/2081)](https://www.legislation.gov.uk/uksi/2009/2081), [arts. 1(2)(a)](https://www.legislation.gov.uk/uksi/2009/2081/article/1/2/a)[(3)](https://www.legislation.gov.uk/uksi/2009/2081/article/1/3), [2(2)(b)](https://www.legislation.gov.uk/uksi/2009/2081/article/2/2/b)
+
+[^key-f9d166ff7d87b9cfc5e70dad7191c01c]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2005/3207/article/2) substituted (29.10.2009 except in relation to Art. 3 of the Regulation which was given the force of law on 1.1.2010 as notified in the London Gazette dated 12.3.2010 (which corrected an earlier notice dated 13.11.2009)) by [The Channel Tunnel (International Arrangements) (Amendment) Order 2009 (S.I. 2009/2081)](https://www.legislation.gov.uk/uksi/2009/2081), [arts. 1(2)(a)](https://www.legislation.gov.uk/uksi/2009/2081/article/1/2/a)[(3)](https://www.legislation.gov.uk/uksi/2009/2081/article/1/3), [2(3)](https://www.legislation.gov.uk/uksi/2009/2081/article/2/3)
+
+[^key-2b89a41dc221c41d06ac12d7ac5d87b2]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2005/3207/article/2) inserted (8.10.2008) by [The Channel Tunnel (International Arrangements) (Amendment) Order 2008 (S.I. 2008/2366)](https://www.legislation.gov.uk/uksi/2008/2366), [arts. 1](https://www.legislation.gov.uk/uksi/2008/2366/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2008/2366/article/2/2)
+
+[^key-56becaee058d9f1d9289c9abc6bc851b]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2005/3207/article/2) substituted (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 10(m)(i)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/10/m/i) (as extended to U.K. (29.7.2016) by virtue of by [S.I. 2016/645](https://www.legislation.gov.uk/uksi/2016/645), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/645/regulation/1/1), [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2016/645/schedule/1/paragraph/5) (with [reg. 4](https://www.legislation.gov.uk/uksi/2016/645/regulation/4)))
+
+[^f00008]: Footnote: Treaty Series No. 15 (1992). Presented to Parliament by the Secretary of State for Foreign and Commonwealth Affairs by Command of her Majesty March 1992. Command Paper 1827.
+
+[^key-fe64af02610522b2861dd1a2e9090878]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2005/3207/article/3) in force at 19.12.2005, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3207/article/1/1)
+
+[^key-d824b029e8c2aa79ac30c7069065dd2e]: Textual amendment: Words in [art. 3](https://www.legislation.gov.uk/uksi/2005/3207/article/3) omitted (29.10.2009 except in relation to Art. 3 of the Regulation which was given the force of law on 1.1.2010 as notified in the London Gazette dated 12.3.2010 (which corrected an earlier notice dated 13.11.2009)) by virtue of [The Channel Tunnel (International Arrangements) (Amendment) Order 2009 (S.I. 2009/2081)](https://www.legislation.gov.uk/uksi/2009/2081), [arts. 1(2)(a)](https://www.legislation.gov.uk/uksi/2009/2081/article/1/2/a)[(3)](https://www.legislation.gov.uk/uksi/2009/2081/article/1/3), [2(4)](https://www.legislation.gov.uk/uksi/2009/2081/article/2/4)
+
+[^key-2f7025dd66c8f0056dde74c1888434c2]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2005/3207/article/4) in force at 19.12.2005, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3207/article/1/1)
+
+[^key-b82c839fb594ecf08373f5347eafe505]: Textual amendment: [Art. 4A](https://www.legislation.gov.uk/uksi/2005/3207/article/4A) inserted (8.10.2008) by [The Channel Tunnel (International Arrangements) (Amendment) Order 2008 (S.I. 2008/2366)](https://www.legislation.gov.uk/uksi/2008/2366), [arts. 1](https://www.legislation.gov.uk/uksi/2008/2366/article/1), [2(3)](https://www.legislation.gov.uk/uksi/2008/2366/article/2/3)
+
+[^key-e6e75b0f5b54686c62f94417bbf98271]: Textual amendment: Words in [art. 4A](https://www.legislation.gov.uk/uksi/2005/3207/article/4A) heading substituted (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 10(m)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/10/m) (as extended to U.K. (29.7.2016) by virtue of by [S.I. 2016/645](https://www.legislation.gov.uk/uksi/2016/645), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/645/regulation/1/1), [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2016/645/schedule/1/paragraph/5) (with [reg. 4](https://www.legislation.gov.uk/uksi/2016/645/regulation/4)))
+
+[^key-d389fa984d8d5182eeff19bcbc2a8da8]: Textual amendment: Words in [art. 4A](https://www.legislation.gov.uk/uksi/2005/3207/article/4A) substituted (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 10(m)(ii)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/10/m/ii) (as extended to U.K. (29.7.2016) by virtue of by [S.I. 2016/645](https://www.legislation.gov.uk/uksi/2016/645), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/645/regulation/1/1), [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2016/645/schedule/1/paragraph/5) (with [reg. 4](https://www.legislation.gov.uk/uksi/2016/645/regulation/4)))
+
+[^key-e27538116f3ad78d279abc0e6271d760]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2005/3207/article/5) in force at 19.12.2005, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3207/article/1/1)
+
+[^key-c438bb9a4282fe48e149b98b54e20be3]: Textual amendment: [Art. 5(3)](https://www.legislation.gov.uk/uksi/2005/3207/article/5/3) added (25.8.2009) by [The Channel Tunnel (International Arrangements) (Amendment) Order 2009 (S.I. 2009/2081)](https://www.legislation.gov.uk/uksi/2009/2081), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2009/2081/article/1/2/b), [2(5)](https://www.legislation.gov.uk/uksi/2009/2081/article/2/5)
+
+[^key-1e05b33228b44777667291e1218950d1]: Textual amendment: [Arts. 6](https://www.legislation.gov.uk/uksi/2005/3207/article/6), [7](https://www.legislation.gov.uk/uksi/2005/3207/article/7) added (25.8.2009) by [The Channel Tunnel (International Arrangements) (Amendment) Order 2009 (S.I. 2009/2081)](https://www.legislation.gov.uk/uksi/2009/2081), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2009/2081/article/1/2/b), [2(6)](https://www.legislation.gov.uk/uksi/2009/2081/article/2/6)
+
+[^key-e45ac24de02b4b286dc802bf0c92b328]: Textual amendment: [Sch.](https://www.legislation.gov.uk/uksi/2005/3207/schedule) content substituted (29.10.2009 except in relation to Art. 3 of the Regulation which was given the force of law on 1.1.2010 as notified in the London Gazette dated 12.3.2010 (which corrected an earlier notice dated 13.11.2009)) by [The Channel Tunnel (International Arrangements) (Amendment) Order 2009 (S.I. 2009/2081)](https://www.legislation.gov.uk/uksi/2009/2081), [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2009/2081/article/1/2/a)[(3)](https://www.legislation.gov.uk/uksi/2009/2081/article/1/3), [Sch.](https://www.legislation.gov.uk/uksi/2009/2081/schedule) (with [art. 3](https://www.legislation.gov.uk/uksi/2009/2081/article/3))

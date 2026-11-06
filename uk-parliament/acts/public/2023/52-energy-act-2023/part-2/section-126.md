@@ -1,0 +1,52 @@
+---
+title: Energy Act 2023, section 126
+act: Energy Act 2023
+section: '126'
+status: revised
+text_date: '2026-09-30'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2023/52/section/126
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Energy Act 2023, section 126
+
+> Text as at 2026-09-30.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 126. Procedure for enforcement decisions[^key-59720e9f1dea582ad512e20c2875d3f5]
+
+*Extent: E+W+S+N.I.*
+
+(1) The OGA—
+
+- (a) must determine the procedure that it proposes to follow in relation to enforcement decisions, and
+- (b) must issue a statement of its proposals.
+
+(2) The procedure mentioned in subsection (1)(a) must be designed to secure, among other things, that an enforcement decision is taken—
+
+- (a) by a person falling within subsection (3), or
+- (b) by two or more persons, each of whom falls within subsection (3).
+
+(3) A person falls within this subsection if the person was not directly involved in establishing the evidence on which the enforcement decision is based.
+
+(4) The statement mentioned in subsection (1)(b) must be published in whatever way appears to the OGA to be best calculated to bring the statement to the attention of the public.
+
+(5) When the OGA takes an enforcement decision, the OGA must follow its stated procedure.
+
+(6) If the OGA changes its procedure in a material way, it must publish a revised statement.
+
+(7) A failure of the OGA in a particular case to follow its procedure as set out in the latest published statement does not affect the validity of an enforcement decision taken in that case.
+
+(8) But subsection (7) does not prevent the Tribunal from taking into account any such failure in considering an appeal under paragraph 4 or 5 of Schedule 8 in relation to a sanction notice.
+
+(9) In this section, “**enforcement decision**” means—
+
+- (a) a decision to give a sanction notice in respect of a failure to comply with a sanctionable requirement, or
+- (b) a decision as to the details of the sanction to be imposed by the notice.
+
+## Annotations
+
+[^key-59720e9f1dea582ad512e20c2875d3f5]: Commencement: [S. 126](https://www.legislation.gov.uk/ukpga/2023/52/section/126) in force at 26.12.2023, see [s. 334(3)(b)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/b)

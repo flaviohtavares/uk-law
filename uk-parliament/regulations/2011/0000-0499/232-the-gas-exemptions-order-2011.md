@@ -1,0 +1,330 @@
+---
+title: The Gas (Exemptions) Order 2011
+id: uksi/2011/232
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2011-02-07'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2011/232
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2011/232/pdfs/uksiem_20110232_en.pdf
+- http://www.legislation.gov.uk/uksi/2011/232/pdfs/uksi_20110232_en.pdf
+- http://www.legislation.gov.uk/uksi/2011/232/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Gas (Exemptions) Order 2011
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2011 No. 232
+
+Gas
+
+The Gas (Exemptions) Order 2011
+
+Made
+
+7th February 2011
+
+Laid before Parliament
+
+8th February 2011
+
+Coming into force
+
+1st March 2011
+
+The Secretary of State makes the following Order in exercise of the powers conferred by section 6A of the Gas Act 1986[^f00001].
+
+The Secretary of State has given notice of the proposal to make this Order in accordance with section 6A(1A) and (1B) of that Act and has considered representations made in relation to the proposal.
+
+## PART 1 — General
+
+### 1. Citation and commencement
+
+This Order may be cited as the Gas (Exemptions) Order 2011 and comes into force on 1st March 2011.
+
+### 2. Interpretation
+
+In this Order—
+
+- “the Act” means the Gas Act 1986;
+- ”gas processing facility” means a facility which carries out gas processing operations;
+- “gas processing operations” means any of the following operations—
+  - (a) purifying, blending, odorising or compressing gas for the purpose of enabling it to be introduced into a pipeline system operated by a gas transporter,
+  - (b) removing from gas for that purpose any of its constituent gases, or separating from gas for that purpose any oil or water,
+  - (c) determining the quantity or quality of gas for that purpose;
+- “gas storage facility” means a facility used wholly or mainly for the purpose of storing gas (not being a facility where gas is wholly or mainly stored in natural porous strata);
+- “the Lindholme plant” means the gas processing facility at the Lindholme Compressor Site in Vulcan Way, Bawtry Road, Hatfield Woodhouse, Doncaster, DN7 6TE;
+- “public gas supplier” means a person who was authorised to supply gas under section 7 of the Act immediately prior to 1<sup>st</sup> March 1996.
+
+**3.** Any reference in this Order to the conveyance of gas is a reference to the conveyance of gas through pipes (and convey, conveyed and conveying are to be construed accordingly).
+
+### 4. Transporter exemptions
+
+A person who—
+
+- (a) by virtue of an article in Part 2 is an exempt transporter in relation to a conveyance of gas; and
+- (b) does not hold a licence under section 7[^f00002] of the Act authorising that conveyance,
+
+is exempt from section 5(1)(a) of the Act in relation to that conveyance.
+
+### 5. Supplier exemptions
+
+A person who—
+
+- (a) by virtue of an article in Part 3 is an exempt supplier in relation to a supply of gas; and
+- (b) does not hold a licence under section 7A(1)[^f00003] of the Act authorising that supply,
+
+is exempt from section 5(1)(b) of the Act in relation to that supply.
+
+### 6. Shipper exemptions
+
+A person who—
+
+- (a) by virtue of an article in Part 4 is an exempt shipper when arranging with a gas transporter for gas to be introduced into, conveyed by means of, or taken out of a pipeline system operated by that transporter; and
+- (b) does not hold a licence under section 7A(2) of the Act authorising the making of those arrangements,
+
+is exempt from section 5(1)(c) of the Act in relation to the making of those arrangements.
+
+## PART 2 — Exempt transporters
+
+### 7. Gas previously supplied
+
+The holder of a licence (“the licensee”) under section 7A(1) of the Act which authorises only the supply to premises specified in the licence (“the relevant premises”) of gas which has been conveyed to those premises otherwise than by a gas transporter is an exempt transporter when—
+
+- (a) conveying gas to the relevant premises for the purpose of supplying those premises in accordance with that licence; and
+- (b) the gas which is so conveyed has been supplied to the licensee at premises to which it has been conveyed by a gas transporter.
+
+### 8. Legacy arrangements for secondary metering
+
+(1) A person (“the relevant person”) is an exempt transporter when conveying gas to premises (“the relevant premises”) where—
+
+- (a) that gas is conveyed for the purpose of its supply to the relevant premises by a gas supplier (“the relevant supplier”);
+- (b) that gas was conveyed to the relevant person at premises other than the relevant premises (“the first premises”) by a gas transporter;
+- (c) the relevant person is supplied with gas at the first premises by a gas supplier;
+- (d) immediately before 1<sup>st</sup> March 1996—
+  - (i) the relevant person conveyed gas to the relevant premises from the first premises for the purpose of its supply to the relevant premises by a public gas supplier or the holder of an authorisation under section 8 of the Act,
+  - (ii) that gas was conveyed to the first premises by a public gas supplier, and
+  - (iii) the relevant person was supplied with gas at the first premises by a public gas supplier or the holder of an authorisation under section 8 of the Act; and
+- (e) the relevant person complies with the conditions set out in paragraph (2).
+
+(2) The conditions mentioned in paragraph (1)(e) are—
+
+- (a) that the relevant person refrains from any action intended to impede the choice of gas supplier by the owner or occupier of the relevant premises;
+- (b) that the relevant person complies, as soon as is reasonably practicable, with any direction given by the Authority—
+  - (i) requiring the relevant person to facilitate the exercise by the relevant supplier of functions specified in the direction that would be functions of the relevant supplier under Schedule 2B to the Act (the Gas Code)[^f00004] in relation to the relevant premises if gas conveyed to those premises were conveyed by a gas transporter;
+  - (ii) requiring the relevant person to comply with requirements specified in the direction in relation to the relevant premises that would, if the relevant person were a gas transporter, be requirements of the relevant person by virtue of Schedule 2B to the Act.
+
+(3) But the relevant person does not cease to be an exempt transporter by failing to comply with a direction given by the Authority if the Authority did not consult the relevant person and the Health and Safety Executive on the direction before it was given.
+
+### 9. Conveyance of gas produced by a supplier as a by-product
+
+(1) The holder of a licence under section 7A(1) of the Act (“the licensee”) which authorises only the supply to premises specified in the licence (“the relevant premises”) of gas which has been conveyed to those premises otherwise than by a gas transporter is an exempt transporter when—
+
+- (a) conveying gas to the relevant premises for the purpose of supplying the relevant premises in accordance with the licence;
+- (b) that gas is a by-product of a manufacturing or other industrial or agricultural process carried on by the licensee; and
+- (c) the licensee expects to supply the relevant premises with that gas at a rate in excess of 73,200 kilowatt hours per year.
+
+(2) For the purposes of paragraph (1)(b), the treatment of sewage is an industrial process.
+
+### 10. Conveyance of gas from Wytch Farm Gathering Station
+
+A person is an exempt transporter when conveying gas from the premises known as Wytch Farm Gathering Station at Corfe Castle, Wareham, Dorset, BH20 5JR to a pipeline system operated by a gas transporter.
+
+### 11. Conveyance of gas into the Stranraer pipeline system
+
+(1) Premier Transmission Limited (company registered number NI026421) (“the company”) is an exempt transporter when conveying gas through any pipeline which is connected to the SNIP for the purpose of conveying that gas into the Stranraer pipeline system provided the company complies with the conditions set out in paragraph (2).
+
+(2) The conditions mentioned in paragraph (1) are—
+
+- (a) that the company must notify the Secretary of State and the Authority as soon as reasonably practicable of any proposal of which it is aware which is likely to affect either the amount of gas that it is capable of conveying into the Stranraer pipeline system or the company’s ability to meet the gas security standard;
+- (b) that the company must provide the Secretary of State and the Authority with a statement of its ability to meet the gas security standard by 30<sup>th</sup> June each year in respect of the period of 12 months beginning on 1<sup>st</sup> October of that year.
+
+(3) The gas security standard mentioned in paragraph (2) is the gas security standard set out in condition 16 of the standard conditions of gas transporter licences (Pipe-Line System Security Standards) as at 1<sup>st</sup> March 2011 and for the purposes of this article any reference in that standard—
+
+- (a) to the licensee is to be read as a reference to the company;
+- (b) to the licensee’s pipe-line system is to be read as a reference to any pipeline which is connected to the SNIP and through which the company coveys gas for the purpose of conveying that gas into the Stranraer pipeline system.
+
+(4) In this article—
+
+- “the SNIP” means the Scotland to Northern Ireland natural gas transmission pipeline, an interconnector between Twynholm in Scotland and Ballylumford in Northern Ireland;
+- “the Stranraer pipeline system” means the pipeline system which conveys gas to premises in Stranraer in the county of Dumfries and Galloway.
+
+### 12. Conveyance of gas from named premises
+
+(1) A person (“A”) who conveys gas from any premises listed in the Schedule to a pipeline system operated by a gas transporter (“B”) is an exempt transporter in relation to such a conveyance (“a relevant conveyance”) provided A complies, as soon as is reasonably practicable, with any direction given by the Secretary of State which is relevant.
+
+(2) A direction is relevant for these purposes if it is given at a time when a relevant conveyance (“the particular conveyance”) is being, or to be, made and specifies or describes information—
+
+- (a) which A must supply to B;
+- (b) which is relevant to the operation of—
+  - (i) the pipeline system to which the gas in the particular conveyance is being, or to be, conveyed, or
+  - (ii) a pipeline system to which some or all of that gas is being, or could be, conveyed by B; and
+- (c) which relates to the calorific value or total quantity of gas that, on the day following the making of the direction, is to be, or could be, conveyed by A to the pipeline system mentioned in sub-paragraph (b)(i) from the premises from which the particular conveyance is being, or to be, made.
+
+(3) But A does not cease to be an exempt transporter in relation to a relevant conveyance by failing to comply with a relevant direction if—
+
+- (a) the Secretary of State has given A consent not to comply with the direction;
+- (b) A was unable to comply with the direction due to circumstances beyond A’s control; or
+- (c) A, the Authority and the Health and Safety Executive were not consulted by the Secretary of State on the direction before it was given.
+
+(4) In paragraph (2)(c) the reference to a day is a reference to the period of twenty-four hours beginning at 6 o’clock in the morning on that day.
+
+### 13. Conveyance of gas from gas facilities and Lindholme
+
+(1) A person (“A”) who conveys gas over a distance not exceeding 16.093 kilometres from—
+
+- (a) a gas storage facility; or
+- (b) the Lindholme plant,
+
+to a pipeline system operated by a gas transporter (“B”) is an exempt transporter provided A complies with the conditions set out in paragraph (2).
+
+(2) The conditions mentioned in paragraph (1) are—
+
+- (a) that, not less than thirty days before undertaking such a conveyance of gas (“a relevant conveyance”), A must notify the Authority of the date on which the relevant conveyance is intended to commence and—
+  - (i) where the gas is to be conveyed from a gas storage facility, of the maximum amount of gas which the facility is capable of storing (the facility’s “storage capacity”) and the maximum rate at which gas can be conveyed from that facility over a twenty-four hour period (the facility’s “storage flow rate”) as at the date of the notification,
+  - (ii) where the gas is to be conveyed from the Lindholme plant, of the maximum amount of gas which that plant is capable of processing (the plant’s “processing capacity”) as at the date of the notification;
+- (b) that where, before the relevant conveyance commences (or, it having commenced, before it ceases), A comes to realise—
+  - (i) in the case of gas to be (or being) conveyed from a gas storage facility, that the facility’s storage capacity or storage flow rate has increased or decreased by more than ten per cent since the notification under sub-paragraph (a) was given (or where a notification has been given under this sub-paragraph, since that notification),
+  - (ii) in the case of gas to be (or being) conveyed from the Lindholme plant, that the plant’s processing capacity has increased or decreased by more than ten per cent since the notification under sub-paragraph (a) was given (or where a notification has been given under this sub-paragraph, since that notification),
+
+  A must notify the Authority as soon as is reasonably practicable of the details of that increase or decrease;
+- (c) that A must comply, as soon as is reasonably practicable, with any direction given by the Secretary of State which is relevant.
+
+(3) For the purposes of paragraph (2)(c), paragraphs (2) to (4) of article 12 apply in relation to a relevant conveyance in the same way as they apply in relation to a conveyance of gas described in paragraph (1) of that article; and references in paragraphs (2) to (4) of article 12 to A and B, and to a relevant conveyance, are to be construed accordingly.
+
+### 14. Conveyance of gas to gas storage facilities and Lindholme
+
+(1) A person who conveys gas over a distance not exceeding 16.093 kilometres from a pipeline system operated by a gas transporter to a gas storage facility or premises used only in connection with such a facility is an exempt transporter.
+
+(2) A person who conveys gas over a distance not exceeding 16.093 kilometres from a pipeline system operated by a gas transporter to the Lindholme plant for the purpose of enabling gas processing operations to be carried out on that gas is an exempt transporter.
+
+## PART 3 — Exempt suppliers
+
+### 15. Supply of gas to gas storage facilities and Lindholme
+
+(1) A person is an exempt supplier when supplying gas to—
+
+- (a) a gas storage facility; or
+- (b) premises used only in connection with the operation of such a facility,
+
+for the purpose of storing the gas in the facility or the operation of the facility.
+
+(2) A person is an exempt supplier when supplying gas to the Lindhomle plant for the purpose of enabling gas processing operations to be carried out on that gas.
+
+### 16. Bottled gas
+
+(1) A person is an exempt supplier when supplying premises with gas consisting wholly or mainly of propane or butane which is conveyed to those premises from transportable storage containers provided—
+
+- (a) the gas conveyed to the premises is stored in no more than 4 transportable containers and each container contains no more than 47 kilograms of liquid consisting wholly or mainly of propane or butane;
+- (b) where the gas is conveyed from more than 2 transportable containers an automatic device is used to ensure that the gas conveyed to the premises at any one time is restricted to gas drawn from not more than 2 of those containers; and
+- (c) the aggregate length of pipe through which the gas is conveyed to the premises from any container does not exceed 3 metres measured from where the pipe leaves the storage container to where it enters the premises.
+
+(2) In this article any reference to premises is a reference to a single building or structure.
+
+### 17. Benenden School
+
+Benenden School (Kent) Limited (company registered number 00196353) and Lime Avenue Sales and Services Limited (company registered number 01794097) are exempt suppliers when supplying gas to any of the following premises—
+
+- (a) Staplehurst Lodge, Benenden School, Golford Road, Benenden, Cranbrook, Kent, TN17 4AQ;
+- (b) Little House, Cranbrook Road, Benenden, Cranbrook, Kent, TN17 4ES;
+- (c) South Lodge, Cranbrook Road, Benenden, Cranbrook, Kent, TN17 4ES.
+
+### 18. Exemption for supply of gas by gas transporters on failure of shipper
+
+A gas transporter is an exempt supplier when it supplies gas, which is taken out of a pipeline system operated by that transporter under arrangements mentioned in article 19, to the person with whom the transporter has made those arrangements.
+
+## PART 4 — Exempt shippers
+
+### 19. Consumer’s shipping exemption
+
+A person (“A”) who is supplied at premises with gas conveyed through a pipeline system operated by a gas transporter (“B”) is an exempt shipper when arranging with B for gas to be taken out of the system by A with a view to its being supplied to A at the premises if—
+
+- (a) at the time those arrangements (“the relevant arrangements”) are being made B reasonably expects to convey gas with a view to its being supplied to A at the premises at a rate in excess of 73,200 kilowatt hours per year;
+- (b) at the time the relevant arrangements are being made no other arrangements exist under which gas could be lawfully taken out of the system and supplied to A at the premises or, where such arrangements (“the existing arrangements”) exist—
+  - (i) they are arrangements between B and a gas shipper or an exempt shipper mentioned in article 20, and
+  - (ii) the relevant arrangements are being made so as to enable gas to be taken out of the system only at a time when the existing arrangements have been determined and no other arrangements exist under which gas could be lawfully taken out of the system and supplied to A at the premises; and
+- (c) the relevant arrangements are being made so as to enable gas to be taken out of the system for no more than thirty-five days.
+
+### 20. Supplier’s shipping exemption
+
+A gas supplier who does not hold a licence under section 7A(2) of the Act is an exempt shipper when arranging with a gas transporter for gas to be conveyed by means of, or taken out of, a pipeline system operated by that transporter in circumstances where—
+
+- (a) arrangements which had been in place between the transporter and a gas shipper to convey gas to premises supplied by the supplier have ended; and
+- (b) by virtue of a condition of its licence, the supplier is required to provide security and pay charges to the transporter, in relation to those premises, as if the supplier were the gas shipper and the arrangements had not ended.
+
+### 21. Emergency shipper’s exemption
+
+(1) A person is an exempt shipper when arranging with a gas transporter for gas to be introduced into a pipeline system operated by that transporter at the request of that transporter for the purpose of—
+
+- (a) preventing or remedying a supply emergency that might arise after the making of the arrangements; or
+- (b) remedying a supply emergency which exists at the time the arrangements are being made.
+
+(2) In this article “supply emergency” means an emergency endangering persons and arising from a loss of pressure in any pipeline system (or any part thereof).
+
+Marland
+
+Parliamentary Under Secretary of State
+
+Department of Energy and Climate Change
+
+7th February 2011
+
+## SCHEDULE — Premises from which gas can be conveyed
+
+Article 12
+
+**1.** The Gas Treatment Plant, Connah’s Quay CCGT Power Station, Kelsterton Road, Connah’s Quay, Deeside, Clwyd, CH5 4BP.
+
+**2.** Barrow Terminal, Rampside Road, Barrow-in-Furness, Cumbria, LA13 0QU.
+
+**3.** Amoco CATS Terminal, Seal Sands Road, Seal Sands, Middlesbrough, Cleveland, TS2 1UB.
+
+**4.** Teesside Gas Processing Plant, Seal Sands Road, Seal Sands, Middlesbrough, Cleveland, TS2 1UB.
+
+**5.** Perenco UK Limited Natural Gas Terminal, Paston Road, Bacton, Norfolk, NR12 0JF.
+
+**6.** Bacton Gas Terminal, Paston Road, Bacton, Norwich, Norfolk, NR12 0JE.
+
+**7.** Natural Gas Terminal, Bacton, Norfolk, NR12 0JF.
+
+**8.** Easington Rough Terminal, Dimlington Road, Easington, Hull, Humberside, HU12 0SX.
+
+**9.** Britoil Dimlington Terminal, Easington, Hull, Humberside, HU12 0SU.
+
+**10.** Theddlethorpe Gas Terminal, Theddlethorpe St. Helen, Mablethorpe, Lincolnshire, LN12 1NQ.
+
+**11.** St.Fergus Gas Plant, Peterhead, Aberdeenshire, AB42 6WJ.
+
+**12.** Sage Terminal, St.Fergus, Peterhead, Aberdeenshire, AB42 7EP.
+
+**13.** North Sea Gas Terminal, St.Fergus, Peterhead, Aberdeenshire, AB42 3EP.
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order grants a number of exemptions from the requirement under section 5 of the Gas Act 1986 to hold a licence for the transportation, supply and shipping of gas when carrying out those activities in the circumstances outlined in the Order.
+
+All of the exemptions contained in this Order applied until 1<sup>st</sup> March 2011 by virtue of several orders made between 1996 and 1999. Those orders were the [Gas Act 1986 (Exemptions) (No 1) Order 1996 (1996/449)](https://www.legislation.gov.uk/uksi/1996/449); the [Gas Act 1986 (Exemptions) (No 2) Order 1996 (1996/471)](https://www.legislation.gov.uk/uksi/1996/471); the [Gas Act 1986 (Exemptions) (No 4) Order 1996 (1996/2765)](https://www.legislation.gov.uk/uksi/1996/2765); the [Gas Act 1986 (Exemption) Order 1997 (1997/2427)](https://www.legislation.gov.uk/uksi/1997/2427); the [Gas Act 1986 (Exemptions) Order 1999 (1999/2639)](https://www.legislation.gov.uk/uksi/1999/2639); and the [Gas Act 1986 (Exemptions) (No 2) Order 1999 (1999/3089)](https://www.legislation.gov.uk/uksi/1999/3089). All of those orders contained provision stating that they continue in force until 1st March 2011 and then expire.
+
+Article 4 of this Order grants exemption from the requirement to hold a licence when transporting gas (conveying gas through pipes to premises, or to pipeline systems operated by gas transporters) in the circumstances described in the articles found in part 2 of the Order. Article 5 grants exemption from the requirement to hold a licence when supplying gas to premises in the circumstances described in the articles found in part 3 of the Order. Article 6 grants exemption from the requirement to hold a licence when shipping (arranging with a gas transporter for gas to be introduced into, conveyed by means of or taken out of a pipeline system operated by that transporter) in the circumstances described in the articles found in part 4.
+
+An impact assessment of the effect that this instrument will have on the costs of business and the public and voluntary sector is available from the Department of Energy and Climate Change, Energy Strategy and Futures Directorate, 4th Floor, 3 Whitehall Place, London, SW1A 2AW. Copies have also been placed in the Library of each House of Parliament.
+
+## Annotations
+
+[^f00001]: Footnote: [1986 c.44](https://www.legislation.gov.uk/ukpga/1986/44). Section 6A was substituted by section 4 of the Gas Act [1995 c.45](https://www.legislation.gov.uk/ukpga/1995/45) and amended by sections 3, 86 and 108 of, and Schedule 8 to, the Utilities Act [2000 c.27](https://www.legislation.gov.uk/ukpga/2000/27) and section 149 of the Energy Act [2004 c.20](https://www.legislation.gov.uk/ukpga/2004/20).
+
+[^f00002]: Footnote: Section 7 was substituted by section 5 of the Gas Act 1995 and amended by sections 3, 76 and 108 of, and Schedule 8 to, the Utilities Act 2000 and sections 149 and 197 of the Energy Act 2004.
+
+[^f00003]: Footnote: Section 7A was inserted by section 6 of the Gas Act 1995 and amended by sections 3 and 108 of, and Schedules 6 and 8 to, the Utilities Act 2000 and sections 149 and 197 of the Energy Act 2004.
+
+[^f00004]: Footnote: Schedule 2B was inserted by section 9 of, and Schedule 2 to, the Gas Act 1995.

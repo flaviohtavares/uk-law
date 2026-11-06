@@ -1,0 +1,218 @@
+---
+title: The Immigration (Leave to Enter and Remain) (Amendment) Order 2016
+id: uksi/2016/1132
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2016-11-22'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2016/1132
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2016/1132/pdfs/uksiem_20161132_en.pdf
+- http://www.legislation.gov.uk/uksi/2016/1132/pdfs/uksi_20161132_en.pdf
+- http://www.legislation.gov.uk/uksi/2016/1132/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Immigration (Leave to Enter and Remain) (Amendment) Order 2016
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2016 No. 1132
+
+Immigration
+
+The Immigration (Leave to Enter and Remain) (Amendment) Order 2016
+
+Made
+
+22nd November 2016
+
+Coming into force in accordance with article 1(2)
+
+The Secretary of State, in exercise of the powers conferred by sections 3A(1), (2), (3), (4) and (10) and 3B(1), (2), and (3) of the Immigration Act 1971[^f00001], makes the following Order.
+
+A draft of this Order has been laid before Parliament in accordance with sections 3A(13) and 3B(6) of the Immigration Act 1971[^f00002] and approved by a resolution of each House of Parliament.
+
+## 1. Citation, commencement and interpretation
+
+(1) This Order may be cited as the Immigration (Leave to Enter and Remain) (Amendment) Order 2016.
+
+(2) It comes into force on the day after the day on which it is made.
+
+(3) In this Order “the 2000 Order” means the Immigration (Leave to Enter and Remain) Order 2000[^f00003].
+
+## 2. Amendment of the 2000 Order
+
+(1) The 2000 Order is amended as follows.
+
+(2) In article 4 (extent to which entry clearance is to be leave to enter)[^f00004]—
+
+- (a) in paragraph (1)—
+  - (i) after “China” insert “, or a visit visa for private medical treatment or for entry as an academic visitor”;
+  - (ii) after “single-entry visa” omit “, during its period of validity,”;
+  - (iii) after “occasions” insert “during its period of validity”;
+- (b) after paragraph (2B) insert—
+
+  > (2C) A visit visa granted for private medical treatment or for entry as an academic visitor, unless endorsed with a statement that it is to have effect as a single-entry visa, shall have effect as leave to enter the United Kingdom on an unlimited number of occasions during its period of validity in accordance with paragraph (2D).
+  >
+  > (2D) On arrival in the United Kingdom on each occasion, the holder shall be treated for the purposes of the Immigration Acts as having been granted, before arrival, leave to enter the United Kingdom for a limited period beginning on the date of arrival, being—
+  >
+  > - (a) where the visit visa is granted for private medical treatment—
+  >   - (i) 11 months if 11 months remain of the visa’s period of validity, or
+  >   - (ii) the visa’s remaining period of validity, if less than 11 months, and
+  > - (b) where the visit visa is granted for entry as an academic visitor—
+  >   - (i) 12 months if 12 months remain of the visa’s period of validity, or
+  >   - (ii) the visa’s remaining period of validity, if less than 12 months.
+
+  .
+
+(3) For article 8 (oral grant or refusal of leave)[^f00005] substitute—
+
+> **8. Oral grant or refusal of leave**
+>
+> (1) A notice giving or refusing leave to enter the United Kingdom to a person to whom this article applies may, instead of being given in writing as required by section 4(1) of the Act, be given orally, including by means of a telephone.
+>
+> (2) This article applies to a person seeking leave to enter the United Kingdom as—
+>
+> - (a) a visitor[^f00006] for a period not exceeding six months,
+> - (b) a short-term student[^f00007] for a period not exceeding six months, or
+> - (c) a parent of a Tier 4 (child) student[^f00008] for a period not exceeding six months,
+>
+> under the immigration rules and subject to conditions prohibiting employment and recourse to public funds (within the meaning of the immigration rules as they apply to persons to whom this article applies).
+
+.
+
+(4) In article 8A (automatic grant of leave)[^f00009]—
+
+- (a) in paragraph (3)—
+  - (i) for “Where a person” substitute “This paragraph applies to a person who”;
+  - (ii) omit the words after the end of sub-paragraph (d);
+- (b) after paragraph (3), insert—
+
+  > (3A) A person to whom paragraph (3) applies shall be given leave to enter the United Kingdom for—
+  >
+  > - (a) six months in the case of a person falling within a category mentioned in paragraph (5)(a) or (c), or
+  > - (b) 48 hours in the case of a person falling within the category mentioned in paragraph (5)(b).
+
+  ;
+- (c) in paragraph (4), after “immigration rules” insert “as they apply to the category of person under the immigration rules for which the person has been authorised under paragraph (1)”;
+- (d) for paragraph (5) substitute—
+
+  > (5) The categories of person under the immigration rules mentioned in this paragraph are—
+  >
+  > - (a) a visitor (standard)[^f00010];
+  > - (b) a transit visitor[^f00011];
+  > - (c) a parent of a Tier 4 (child) student.
+
+  .
+
+(5) In article 13 (leave which does not lapse on travel outside common travel area)—
+
+- (a) in paragraph (1), for “this article and article 13A” substitute “ this Part”;
+- (b) in paragraph (4)(a), for “article 13A” substitute “articles 13A and 13B”.
+
+(6) After article 13A[^f00012] insert—
+
+> **13B. Partners and children of certain Crown servants etc**
+>
+> (1) This article applies to a person who has—
+>
+> - (a) limited leave—
+>   - (i) as the partner or child of a British citizen or person who is settled in the United Kingdom under Appendix FM to the immigration rules (“Appendix FM”)[^f00013], or
+>   - (ii) outside the provision of the immigration rules on the basis of family life under article 8 of the European Convention on Human Rights (“article 8”), or
+> - (b) indefinite leave.
+>
+> (2) The period mentioned in article 13(4)(a) does not include any period during which the person is accompanying their partner or parent if—
+>
+> - (a) the partner or parent is posted outside the United Kingdom in employment falling within paragraph (3); and
+> - (b) the partner or parent—
+>   - (i) is a British citizen,
+>   - (ii) has indefinite leave, or
+>   - (iii) has a right of permanent residence in the United Kingdom by virtue of an enforceable EU right or any provision made under section 2(2) of the European Communities Act 1972[^f00014].
+>
+> (3) Employment falls within this paragraph if it is—
+>
+> - (a) employment in the British Council as a permanent member of that Council; or
+> - (b) employment in the permanent service of the Crown of the government of the United Kingdom, in—
+>   - (i) Her Majesty’s Diplomatic Service,
+>   - (ii) the Department for International Development, or
+>   - (iii) the Home Office.
+>
+> (4) In this article—
+>
+> - (a) a person’s partner means—
+>   - (i) in relation to a person to whom paragraph (1)(a) applies, the partner in respect of whom the person has limited leave under Appendix FM or outside the provision of the immigration rules on the basis of family life under article 8;
+>   - (ii) in relation to a person to whom paragraph (1)(b) applies—
+>     - (aa) the spouse or civil partner of that person,
+>     - (bb) the fiancé(e) or proposed civil partner of that person, or
+>     - (cc) someone who has been living together with that person in a relationship akin to a marriage or civil partnership for at least two years;
+> - (b) a person’s parent—
+>   - (i) in relation to a person to whom paragraph (1)(a) applies, means the parent in respect of whom they have limited leave under Appendix FM or outside the provisions of the immigration rules on the basis of family life under article 8;
+>   - (ii) in relation to a person to whom paragraph (1)(b) applies, is to be construed in accordance with paragraph 6 (interpretation) of the immigration rules.
+
+.
+
+## 3. Transitional provisions
+
+Where a person was authorised under article 8A(1) of the 2000 Order before this Order came into force, article 8A of the 2000 Order continues to apply for the purposes of that authorisation as if it had not been amended by article 2(4) of this Order.
+
+Robert Goodwill
+
+Minister of State
+
+Home Office
+
+22nd November 2016
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order makes various amendments to the Immigration (Leave to Enter and Remain) Order 2000 ([S.I. 2000/1161](https://www.legislation.gov.uk/uksi/2000/1161)) (“2000 Order”).
+
+In particular, provision is made in respect of visitors for private medical treatment and academic visitors. Article 2(2) amends article 4 of the 2000 Order such that, on each occasion that the holder of a visa for private medical treatment or for entry as an academic visitor arrives in the United Kingdom, the visa will have effect (unless stated otherwise) for a period of 11 or 12 months respectively, or, if the visa remains valid for a period of less than 11 or 12 months, that period.
+
+Article 8 of the 2000 Order is amended so that notice of leave to enter as a short-term student or parent of a Tier 4 (child) student (which were previously treated as visitor categories) may be given by an immigration officer orally, instead of in writing as required by section 4(1) of the Immigration Act [1971 (c. 33)](https://www.legislation.gov.uk/ukpga/1971/33).
+
+Article 8A of the 2000 Order enables an immigration officer to authorise a person in advance to enter the United Kingdom through an automated gate. Where such a person passes through an automated gate in accordance with the authorisation, the person will automatically be given leave to enter as the particular category of person under the immigration rules for which they were given authorisation (subject to the conditions set out in article 8A). Paragraph (5) of article 2 of this Order amends article 8A to reflect changes to the visitor categories in the immigration rules.
+
+Article 13 of the 2000 Order makes provision for certain types of leave to enter or remain not to lapse on leaving the common travel area, unless a person remains outside the United Kingdom for a continuous period of more than two years. Article 2(6) of this Order inserts a new article 13B in the 2000 Order. This provides that any period spent by the partner or child accompanying a permanent member of the British Council, Department for International Development, Home Office, or Foreign and Commonwealth Office overseas who is a British citizen, has indefinite leave to enter or remain in the United Kingdom or has an EU right of permanent residence in the United Kingdom will not count towards the calculation of that two year period. The result is that, if the posting lasts more than two years and the partner or child does not return to the UK during that time, their leave will not lapse.
+
+Article 3 of this Order makes transitional provision so that the amendments to article 8A of the 2000 Order do not apply in respect of persons authorised under article 8A(1) of the 2000 Order before this Order came into force.
+
+A full impact assessment has not been produced for this instrument as no impact on the private, voluntary or public sectors is foreseen.
+
+## Annotations
+
+[^f00001]: Footnote: [1971 c.77](https://www.legislation.gov.uk/ukpga/1971/77). See section 3A(6) for meaning of “prescribed”.
+
+[^f00002]: Footnote: Section 3A was inserted by section 1, and section 3B by section 2, of the Immigration and Asylum Act [1999 (c. 33)](https://www.legislation.gov.uk/ukpga/1999/33).
+
+[^f00003]: Footnote: [S.I. 2000/1161](https://www.legislation.gov.uk/uksi/2000/1161) as amended by [S.I. 2004/475](https://www.legislation.gov.uk/uksi/2004/475), [S.I. 2005/1159](https://www.legislation.gov.uk/uksi/2005/1159), [S.I. 2010/957](https://www.legislation.gov.uk/uksi/2010/957), [S.I. 2013/1749](https://www.legislation.gov.uk/uksi/2013/1749) and [S.I. 2015/434](https://www.legislation.gov.uk/uksi/2015/434).
+
+[^f00004]: Footnote: Article 4 has been amended by [S.I. 2005/1159](https://www.legislation.gov.uk/uksi/2005/1159) and [S.I. 2015/434](https://www.legislation.gov.uk/uksi/2015/434).
+
+[^f00005]: Footnote: Article 8 was substituted by [S.I. 2013/1749](https://www.legislation.gov.uk/uksi/2013/1749).
+
+[^f00006]: Footnote: See Appendix V to the immigration rules.
+
+[^f00007]: Footnote: See Part 3 of the immigration rules.
+
+[^f00008]: Footnote: See Part 7 of the immigration rules.
+
+[^f00009]: Footnote: Article 8A was inserted by [S.I. 2010/957](https://www.legislation.gov.uk/uksi/2010/957).
+
+[^f00010]: Footnote: See paragraph V 1.4 of Appendix V to the immigration rules.
+
+[^f00011]: Footnote: See paragraph V 1.5 of Appendix V to the immigration rules.
+
+[^f00012]: Footnote: Article 13A was inserted by [S.I. 2015/434](https://www.legislation.gov.uk/uksi/2015/434).
+
+[^f00013]: Footnote: Appendix FM was inserted from 9th July 2012 by HC194.
+
+[^f00014]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68); section 2(2) was amended by section 27(1) of the Legislative and Regulatory Reform Act [2006 (c. 51)](https://www.legislation.gov.uk/ukpga/2006/51) and section 3(3) of, and Part 1 of the Schedule to, the European Union (Amendment) Act [2008 (c. 7)](https://www.legislation.gov.uk/ukpga/2008/7).

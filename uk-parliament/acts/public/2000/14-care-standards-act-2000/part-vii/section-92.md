@@ -1,0 +1,27 @@
+---
+title: Care Standards Act 2000, section 92
+act: Care Standards Act 2000
+section: '92'
+status: revised-with-pending-changes
+text_date: '2026-07-31'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/2000/14/section/92
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Care Standards Act 2000, section 92
+
+> **Warning: changes not yet applied to this text (5).** Text as at 2026-07-31. See https://www.legislation.gov.uk/changes/affected/ukpga/2000/14
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 92. Persons referred for inclusion in list under Protection of Children Act 1999.
+
+*Extent: E+W*
+
+[^c21156491]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Annotations
+
+[^c21156491]: Textual amendment: [Ss. 91-93](https://www.legislation.gov.uk/ukpga/2000/14/section/91) repealed (12.10.2009) by [Safeguarding Vulnerable Groups Act 2006 (c. 47)](https://www.legislation.gov.uk/ukpga/2006/47), [ss. 63](https://www.legislation.gov.uk/ukpga/2006/47/section/63), [65](https://www.legislation.gov.uk/ukpga/2006/47/section/65), [Sch. 9 para. 9](https://www.legislation.gov.uk/ukpga/2006/47/schedule/9/paragraph/9), [Sch. 10](https://www.legislation.gov.uk/ukpga/2006/47/schedule/10) (with [ss. 51](https://www.legislation.gov.uk/ukpga/2006/47/section/51), [57(3)](https://www.legislation.gov.uk/ukpga/2006/47/section/57/3), [60(4)](https://www.legislation.gov.uk/ukpga/2006/47/section/60/4), [64(5)](https://www.legislation.gov.uk/ukpga/2006/47/section/64/5)); [S.I. 2009/2611](https://www.legislation.gov.uk/uksi/2009/2611), [art. 2](https://www.legislation.gov.uk/uksi/2009/2611/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2009/2611/schedule) (with art. 6 as amended by [S.I. 2010/1101](https://www.legislation.gov.uk/uksi/2010/1101))

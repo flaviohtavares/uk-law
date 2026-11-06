@@ -1,0 +1,518 @@
+---
+title: The Financial Services and Markets Act 2000 (Collective Investment Schemes) Order 2001
+id: uksi/2001/1062
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2001-03-19'
+text_date: '2026-04-06'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2001/1062
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2001/1062/pdfs/uksi_20011062_en.pdf
+- http://www.legislation.gov.uk/uksi/2001/1062/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Financial Services and Markets Act 2000 (Collective Investment Schemes) Order 2001
+
+> Text as at 2026-04-06.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2001 No. 1062
+
+FINANCIAL SERVICES AND MARKETS
+
+The Financial Services and Markets Act 2000 (Collective Investment Schemes) Order 2001
+
+Made
+
+19th March 2001
+
+Laid before Parliament
+
+19th March 2001
+
+Coming into force in accordance with article 1
+
+The Treasury, in exercise of the powers conferred on them by section 235(5) of the Financial Services and Markets Act 2000[^c15536321], hereby make the following Order:
+
+## 1. Citation and commencement[^M_I_41433ddc-d79c-4cd7-ac2d-99dd4d335b67]
+
+This Order may be cited as the Financial Services and Markets Act 2000 (Collective Investment Schemes) Order 2001 and comes into force on the day on which section 19 of the Act comes into force.
+
+## 2. Interpretation[^M_I_37fb4174-8040-4cd1-dd3e-1e81624db752]
+
+In this Order—
+
+- “the Act” means the Financial Services and Markets Act 2000;
+- “the 1988 Act” means the Income and Corporation Taxes Act 1988;
+- “the 2007 Act” means the Income Tax Act 2007;[^key-7fc68112ded897cf8ac0e89f3a5ae36b]
+- “authorised contractual scheme” and “authorised unit trust scheme” have the meaning given in section 237(3) of the Act;[^key-b6a033eef2b3e20369c820e96b2b611d]
+- “contract of insurance” and “contract of long term insurance” have the meaning given by article 3(1) of the Regulated Activities Order;
+- “[^key-43e19103cbe97fb02367e2a7851676d8]**feeder fund**” means an authorised unit trust scheme the sole object of which is investment in units of a single authorised unit trust scheme, in units of a single authorised contractual scheme or in shares in a single open-ended investment company;
+- “franchise arrangements” means arrangements under which a person earns profits or income by exploiting a right conferred by the arrangements to use a trade mark or design or other intellectual property or the good-will attached to it;
+- “funeral plan contract” has the meaning given by article 59 of the Regulated Activities Order;
+- “individual pension account” has the meaning given by regulation 4 of the Personal Pension Schemes (Restriction on Discretion to Approve) (Permitted Investments) Regulations 2001;
+- “long-term holiday product contract” has the meaning given by regulation 8 of the Timeshare, Holiday Products, Resale and Exchange Contracts Regulations 2010;[^key-de334403205eac414760fb74e5cbc4b5]
+- “occupational pension scheme” has the meaning given by section 1 of the Pension Schemes Act 1993 but with paragraph (b) of the definition omitted;[^key-3573dd763cbdab9d8807d417eaaba660]
+- [^key-955b17b4f1e3be195ba5007b95ad781b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- “the operator” has the meaning given by section 237(2) of the Act;
+- “personal pension scheme” means a scheme or arrangement which is not an occupational pension scheme and which is comprised in one or more instruments or agreements, having or capable of having effect so as to provide benefits to or in respect of people—
+  - (a) on retirement,
+  - (b) on having reached a particular age, or
+  - (c) on termination of service in an employment;
+- “personal pension unit trust” means a personal pension scheme which is an authorised unit trust scheme of a kind mentioned in Part I of Schedule 1 to the Personal Pension Schemes (Appropriate Schemes) Regulations 1997;
+- “recognised scheme” has the meaning given by section 237(3) of the Act;
+- “the Regulated Activities Order” means the Financial Services and Markets Act 2000 (Regulated Activities) Order 2001;
+- “timeshare contract” has the meaning given by regulation 7 of the Timeshare, Holiday Products, Resale and Exchange Contracts Regulations 2010.[^key-2c66c49da2f4b911a30e26ecc55a844d]
+
+## 3. Arrangements not amounting to a collective investment scheme[^M_I_d117d38c-3932-4c41-add9-b4c56c211c17]
+
+Arrangements of the kind specified by the Schedule to this Order do not amount to a collective investment scheme.
+
+Greg Pope
+
+Jim Dowd
+
+Two of the Lords Commissioners of Her Majesty’s Treasury
+
+## SCHEDULE — ARRANGEMENTS NOT AMOUNTING TO A COLLECTIVE INVESTMENT SCHEME
+
+Article 3
+
+### 1. Individual investment management arrangements[^M_I_8335beb5-c8b0-4ab6-e0bb-c8ae1d49bf23]
+
+Arrangements do not amount to a collective investment scheme if—
+
+- (a) the property to which the arrangements relate (other than cash awaiting investment) consists of investments of one or more of the following kinds:
+  - (i) an investment of the kind specified by any of articles 76 to 80 of the Regulated Activities Order;
+  - (ii) an investment of the kind specified by article 81 of that Order (units in a collective investment scheme) so far as relating to authorised unit trust schemes, authorised contractual schemes,[^key-7bfc214afaed8af25d274e468597e9c9] recognised schemes or shares in an open-ended investment company; or
+  - (iii) a contract of long term insurance;
+- (b) each participant is entitled to a part of that property and to withdraw that part at any time; and
+- (c) the arrangements do not have the characteristics mentioned in section 235(3)(a) of the Act and have those mentioned in section 235(3)(b) only because the parts of the property to which different participants are entitled are not bought and sold separately except where a person becomes or ceases to be a participant.
+
+### 2. Enterprise initiative schemes[^M_I_f38488b0-54c8-4539-c5e4-9138a648dd66]
+
+(1) Arrangements do not amount to a collective investment scheme if—
+
+- (a) the property to which the arrangements relate (other than cash awaiting investment) consists of shares;
+- (b) the arrangements constitute a complying fund;
+- (c) each participant is entitled to a part of the property to which the arrangements relate and—
+  - (i) to the extent that the property to which he is entitled comprises relevant shares of a class which are admitted to official listing in the United Kingdom or[^key-1d28176049a51c7490f0817af6922b8a] an EEA State or to dealings on a recognised investment exchange, he is entitled to withdraw it at any time after the end of the period of five years beginning with the date on which the shares in question were issued;
+  - (ii) to the extent that the property to which he is entitled comprises other relevant shares, he is entitled to withdraw it at any time after the end of the period of seven years beginning with the date on which the shares in question were issued;
+  - (iii) to the extent that the property to which he is entitled comprises shares other than relevant shares, he is entitled to withdraw it at any time after the end of the period of six months beginning with the date on which the shares in question ceased to be relevant shares; and
+  - (iv) to the extent that the property comprises cash which the operator has agreed (conditionally or unconditionally) to apply in subscribing for shares, he is entitled to withdraw it at any time; and
+- (d) the arrangements would meet the conditions described in paragraph 1(c) were it not for the fact that the operator is entitled to exercise all or any of the rights conferred by shares included in the property to which the arrangements relate.
+
+(2) In sub-paragraph (1)—
+
+- (a) “shares” means investments of the kind specified by article 76 of the Regulated Activities Order (shares etc.) and shares are to be regarded as relevant shares if and so long as they are shares in respect of which neither—
+  - (i) a claim for relief made in accordance with section 306 of the 1988 Act has been disallowed; nor
+  - (ii) an assessment has been made pursuant to section 307 of the 1988 Act withdrawing or reducing[^key-e267f9a9e156ee9bc0edde57de171ec3] relief by reason of the body corporate in which the shares are held having ceased to be a body corporate which is a qualifying company for the purposes of that Act;
+- (b) “complying fund” means arrangements which provide that—
+  - (i) the operator will, so far as is practicable, make investments each of which, subject to each participant’s individual circumstances, qualify for relief by virtue of Chapter III of Part VII of the 1988 Act; and
+  - (ii) the minimum contribution to the arrangements which each participant must make is not less than £2000.
+
+### 2A. Social investment schemes[^key-d5eef81137fe4ab8513d3e8bbbf2162f]
+
+(1) Arrangements do not amount to a collective investment scheme if—
+
+- (a) the property to which the arrangements relate (other than cash awaiting investment) consists of shares or debentures;
+- (b) the arrangements constitute a complying fund;
+- (c) each participant is entitled to a part of the property to which the arrangements relate and—
+  - (i) to the extent that the property to which that participant is entitled comprises relevant shares, the participant is entitled to withdraw it at any time after the end of the period of seven years beginning with the date on which the shares in question were issued;
+  - (ii) to the extent that the property to which that participant is entitled comprises relevant debentures, the participant is entitled to withdraw it at any time after the end of the period of seven years beginning with the date on which—
+    - (aa) the debentures in question were issued; or
+    - (bb) in a case where there is no such issuing, when the debentures, so far as relating to the debt owed to that participant, take effect between the debtor and the participant;
+  - (iii) to the extent that the property to which that participant is entitled comprises shares other than relevant shares, the participant is entitled to withdraw it at any time after the end of the period of six months beginning with the date on which the shares in question ceased to be relevant shares;
+  - (iv) to the extent that the property to which that participant is entitled comprises debentures other than relevant debentures, the participant is entitled to withdraw it at any time after the end of the period of six months beginning with the date on which the debentures in question ceased to be relevant debentures; and
+  - (v) to the extent that the property comprises cash which the operator has agreed (conditionally or unconditionally) to invest in shares or debentures, the participant is entitled to withdraw it at any time; and
+- (d) the arrangements would meet the conditions described in paragraph 1(c) were it not for the fact that the operator is entitled to exercise all or any of the rights conferred by shares or debentures included in the property to which the arrangements relate.
+
+(2) In sub-paragraph (1)—
+
+- “complying fund” means arrangements which provide that—
+  - (a) the operator will, so far as is practicable, make investments each of which, subject to each participant’s individual circumstances, qualifies for relief by virtue of Part 5B of the 2007 Act; and
+  - (b) the minimum contribution to the arrangements which each participant must make is not less than £2,000;
+- “debentures” has the same meaning as in section 257L(4) of the 2007 Act (definition of qualifying debt investments), and debentures are to be regarded as relevant debentures if and so long as they are debentures in respect of which—
+  - (a) no claim for relief made in accordance with Chapter 6 of Part 5B of the 2007 Act has been disallowed; and
+  - (b) no assessment has been made pursuant to section 257S of the 2007 Act withdrawing or reducing relief on the ground that the requirements of Chapter 4 of Part 5B of the 2007 are not met; and
+- “shares” means investments of the kind specified by article 76 of the Regulated Activities Order (shares etc.), and shares are to be regarded as relevant shares if and so long as they are shares in respect of which—
+  - (a) no claim for relief made in accordance with Chapter 6 of Part 5B of the 2007 Act has been disallowed; and
+  - (b) no assessment has been made pursuant to section 257S of the 2007 Act withdrawing or reducing relief on the ground that the requirements of Chapter 4 of Part 5B of the 2007 are not met.
+
+### 3. Pure deposit based schemes[^M_I_fce663ab-c0c3-4d7d-8d2a-85a8dd4b8671]
+
+Arrangements do not amount to a collective investment scheme if the whole amount of each participant’s contribution is a deposit which is accepted by an authorised person with permission to carry on an activity of the kind specified by article 5 of the Regulated Activities Order (accepting deposits) or a person who is an exempt person in relation to such an activity.
+
+### 3A. Qualifying stablecoin arrangements[^key-eddc22a15ae5924639acaf3f97a0b573]
+
+(1) Arrangements do not amount to a collective investment scheme where—
+
+- (a) they are arrangements under which money or an asset is held for the stabilisation of a qualifying stablecoin, and
+- (b) both the conditions in paragraph (2)(a) and (b) are met.
+
+(2) The conditions referred to in paragraph (1)(b) are—
+
+- (a) that the issuer of the qualifying stablecoin does not pay, or arrange for another to pay, interest or yield arising from money or an asset held for the stabilisation of the qualifying stablecoin, or the benefits accruing from such to a holder;
+- (b) that, under normal conditions, the qualifying stablecoin offers a holder a right to redeem the stablecoin with the issuer at the same value, in the currency the stablecoin referenced at issue (excluding any fees that may be payable on redemption).
+
+(3) For the purposes of this regulation—
+
+- (a) “**qualifying stablecoin**” has the meaning given by article 88G of the Regulated Activities Order (qualifying stablecoin);
+- (b) money or an asset is held for the stabilisation of a qualifying stablecoin if it is held for the purpose mentioned in article 88G(2)(b) of the Regulated Activities Order.
+
+### 4. Schemes not operated by way of business[^M_I_3229c374-daab-4e8a-a05b-e941928bcf19]
+
+Arrangements do not amount to a collective investment scheme if they are operated otherwise than by way of business.
+
+### 5. Debt issues[^M_I_1d58f0d3-e1e7-4d82-ff78-488bbdfe7025]
+
+(1) Arrangements do not amount to a collective investment scheme if they are arrangements under which the rights or interests of participants are, except as provided in sub-paragraph (2), represented by investments of one, and only one, of the following descriptions:
+
+- (a) investments of the kind specified by article 77 or 77A[^key-91d50760783aa326ec72d0af5af0499d] of the Regulated Activities Order (debt instruments)[^key-cf95bd7a34c48c48a1e9505c2069aa5c] which are—
+  - (i) issued by a single body corporate other than an open-ended investment company; or
+  - (ii) issued by a single issuer who is not a body corporate and which are guaranteed by the government of the United Kingdom, the Scottish Administration, the Executive Committee of the Northern Ireland Assembly, the National Assembly for Wales or the government of any country or territory outside the United Kingdom;
+
+  and which are not convertible into or exchangeable for investments of any other description;
+
+(b) investments falling within sub-paragraph (a)(i) or (ii) (“the former investments”) which are convertible into or exchangeable for investments of the kind specified by article 76 of the Regulated Activities Order (“the latter investments”) provided that the latter investments are issued by the same person who issued the former investments or are issued by a single other issuer;
+
+(c) investments of the kind specified by article 78 of the Regulated Activities Order (government and public securities) which are issued by a single issuer; or
+
+(d) investments of the kind specified by article 79 of the Regulated Activities Order (instruments giving entitlement to investments) which are issued otherwise than by an open-ended investment company and which confer rights in respect of investments, issued by the same issuer, of the kind specified by article 76 of that Order or within any of paragraphs (a) to (c).
+
+(2) Arrangements which would otherwise not amount to a collective investment scheme by virtue of the provisions of sub-paragraph (1) are not to be regarded as amounting to such a scheme by reason only that one or more of the participants (“the counterparty”) is a person—
+
+- (a) whose ordinary business involves him in carrying on activities of the kind specified by any of articles 14 (dealing in investments as principal), 21 (dealing in investments as agent), 25 (arranging deals in investments), 25D (operating a multilateral trading facility),[^key-da6977b03c467ea6ee5cdbf2b24818c6] 25DA (operating an organised trading facility),[^key-ccc5467f344e396cff0ea9284d24811a] 37 (managing investments), 40 (safeguarding and administering investments), 45 (sending dematerialised instructions), 51ZA (managing a[^key-8cc465146758a7a155e9ba288b00cb59] UK[^key-8421aea4e768a38afcfe14bc0cd35c4c] UCITS), 51ZB (acting as trustee or depositary of a UK[^key-72333000273749b3f2e4ef0af66c159f] UCITS), 51ZC (managing an AIF), 51ZD (acting as trustee or depositary of an AIF), 51ZE (establishing etc. collective investment scheme), 52 (establishing etc. a stakeholder pension scheme) , 53 (advising on investments) and 55A (providing targeted support)[^key-19a329b8417c92a150185f9b3c1d1029] or, so far as relevant to any of those articles, article 64 of the Regulated Activities Order (agreeing to carry on specified kinds of activities), or would do so apart from any exclusion from any of those articles made by that Order; and
+- (b) whose rights or interests in the arrangements are or include rights or interests under a swap arrangement.
+
+(3) In sub-paragraph (2), “swap arrangement” means an arrangement the purpose of which is to facilitate the making of payments to participants whether in a particular amount or currency or at a particular time or rate of interest or all or any combination of those things, being an arrangement under which the counterparty—
+
+- (a) is entitled to receive amounts, whether representing principal or interest, payable in respect of any property subject to the arrangements or sums determined by reference to such amounts; and
+- (b) makes payments, whether or not of the same amount or in the same currency as the amounts or sums referred to in paragraph (a), which are calculated in accordance with an agreed formula by reference to those amounts or sums.
+
+### 6. Common accounts[^M_I_0171c9ed-b557-493e-8449-83ef3ac499b6]
+
+Arrangements do not amount to a collective investment scheme if—
+
+- (a) they are arrangements under which the rights or interests of participants are rights to or interests in money held in a common account; and
+- (b) that money is held in the account on the understanding that an amount representing the contribution of each participant is to be applied—
+  - (i) in making payments to him;
+  - (ii) in satisfaction of sums owed by him; or
+  - (iii) in the acquisition of property for him or the provision of services to him.
+
+### 6A. Electronic systems in relation to lending[^key-8585d9a3a28de6a0478a82c1e79a08a6]
+
+(1) Arrangements do not amount to a collective investment scheme in so far as they are arrangements of a kind described in one of sub-paragraphs (2) to (6).
+
+(2) Arrangements operated by a person specified in paragraph (a) and in one or more of the circumstances specified in paragraph (b).
+
+- (a) A person who is—
+  - (i) an authorised person with permission to carry on an activity of the kind specified by article 36H(1) of the Regulated Activities Order (operating an electronic system in relation to lending);
+  - (ii) an appointed representative in relation to that activity;
+  - (iii) an exempt person in relation to that activity;
+  - (iv) a person to whom, as a result of Part 20 of the Act, the general prohibition does not apply in relation to that activity.
+- (b) The circumstances are—
+  - (i) the operating of the arrangements amounts to the carrying on of an activity of the kind specified by article 36H of the Regulated Activities Order;
+  - (ii) the arrangements amount to the holding of money on behalf of a lender or borrower under a relevant article 36H agreement, or with a view to a lender entering in to such an arrangement;
+  - (iii) the purpose of the arrangements is to compensate a lender when a borrower fails to pay any sum due to that lender under a relevant article 36H agreement.
+
+(3) Arrangements forming a necessary part of the operation of arrangements of the kind specified in sub-paragraph (2).
+
+(4) Arrangements that—
+
+- (a) are operated by a person specified in sub-paragraph (2)(a), and
+- (b) would consist of arrangements of the kind specified in sub-paragraphs (2) or (3) except that they relate to a non-article 36H agreement rather than an article 36H agreement.
+
+(5) Arrangements with the purpose of winding up the operations of a person who operates or operated arrangements of the kind specified in sub-paragraphs (2) to (4).
+
+(6) Arrangements with the purpose of continuing the provision of services to a lender and borrower in relation to a relevant article 36H agreement or non-article 36H agreement, which are entered into in connection with the winding up of the operations of a person who provides or provided those services in relation to that agreement.
+
+(7) In this paragraph—
+
+“article 36H agreement” has the meaning given in article 36H of the Regulated Activities Order;
+
+“borrower” means
+
+- (a) a person who receives credit under an article 36H agreement or a person to whom the rights and duties of a borrower under an agreement have passed by assignment or operation of law, or
+- (b) for the purposes of sub-paragraph (4)(b), a person who receives credit under an agreement of the kind described in sub-paragraph (4)(b) or a person to whom the rights and duties of a borrower under such an agreement have passed by assignment or operation of law;
+
+“credit” has the meaning given in article 60L of the Regulated Activities Order (interpretation of Chapter 14A etc);
+
+“lender” means—
+
+- (a) a person providing credit under an article 36H agreement,
+- (b) a person who by assignment or operation of law has assumed the rights of a person who provided credit under such an agreement, or
+- (c) for the purposes of sub-paragraph (4)(b), a person providing credit under an agreement of the sort described in sub-paragraph (4)(b), or a person who by assignment or operation of law has assumed the rights of a person who provided credit under such an agreement;
+
+“non-article 36H agreement” means an agreement that would be a relevant article 36H agreement but for the fact that it does not satisfy the conditions in article 36H(5) and (6) of the Regulated Activities Order;
+
+“relevant article 36H agreement” means an article 36H agreement which has been entered into with the facilitation of a person carrying on an activity of a kind specified by article 36H(1) of the Regulated Activities Order.
+
+### 7. Certain funds relating to leasehold property[^key-997dc90235e9d5b3d6affbd2e5ac9424]
+
+Arrangements do not amount to a collective investment scheme if the rights or interests of the participants are rights or interests—
+
+- (a) in a fund which is a trust fund within the meaning of section 42(1) of the Landlord and Tenant Act 1987 or which would be such a trust fund if the landlord were not an exempt landlord within the meaning of section 58(1) of that Act; or *(Extent: W)* *(affected by repeal, see note)*[^key-57c0dc871aad220db3da2a071762bc62]
+- (b) in money held in a designated account by the scheme administrator under a tenancy deposit scheme within the meaning of section 212(2) of the Housing Act 2004 . *(Extent: W)* *(affected by repeal, see note)*[^key-9967c3df721b0b6f522df72cd1f31da5] ; or *(Extent: W)*
+- (c (Extent: W)) in money held in an authorised deposit scheme within the meaning of section 47 (deposit schemes: interpretation) of the Renting Homes (Wales) Act 2016. *(Extent: W)*
+
+### 8. Certain employee share schemes[^M_I_b632b9b7-688c-44be-da16-b03c59cba34e]
+
+(1) Arrangements do not amount to a collective investment scheme if they are operated by a person (“A”), a member of the same group as A or a relevant trustee for the purpose of enabling or facilitating—
+
+- (a) transactions in shares in, or debentures issued by, A between, or for the benefit of, any of the persons mentioned in sub-paragraph (2); or
+- (b) the holding of such shares or debentures by, or for the benefit of, any such persons.
+
+(2) The persons referred to in sub-paragraph (1) are—
+
+- (a) the bona fide employees or former employees of A or of another member of the same group; or
+- (b) the wives, husbands, widows, widowers, civil partners, surviving civil partners,[^key-ae1a9a98f3000f75c97f6cfc920b5bba] or children or step-children under the age of eighteen of such employees or former employees.
+
+(3) For the purposes of this paragraph—
+
+- (a) “shares” and “debentures” have the meaning given by article 71(6)(a) of the Regulated Activities Order:
+- (b) “relevant trustee” means a person who, in pursuance of the arrangements, holds shares in or debentures issued by A.
+
+### 9. Schemes entered into for commercial purposes wholly or mainly related to existing business[^key-2aff54fede4864b7fcdee03ae1c9ec07]
+
+(1) Arrangements first entered into before 15th July 2008 do not amount to a collective investment scheme if—
+
+- (a) by virtue of paragraph 9 of the Schedule to the Financial Services and Markets Act 2000 (Collective Investment Schemes) Order 2001 as it had effect immediately before 15th July 2008 they did not then do so provided that all participants are permitted participants; or
+- (b) in the case of arrangements which amounted to a collective investment scheme immediately before 15th July 2008—
+  - (i) all participants are permitted participants; and
+  - (ii) at any time each person which is at that time a participant agrees in writing in respect of the remaining life of the arrangements that the arrangements do not amount to a collective investment scheme.
+
+(2) Arrangements first entered into on or after 15th July 2008 do not amount to a collective investment scheme if all participants are permitted participants.
+
+(3) The exclusion in sub-paragraph (2) shall not apply to arrangements falling within that sub-paragraph if at any time each person which is at that time a permitted participant agrees in writing in respect of the life of the arrangements that the arrangements amount to a collective investment scheme.
+
+(4) If at any time a person which is not a permitted participant participates in arrangements then for as long as that person is a participant but not a permitted participant the exclusion in sub-paragraph (1) or, as the case may be, sub-paragraph (2) shall not apply to the arrangements.
+
+(5) For the purposes of this paragraph—
+
+- “permitted participant” means a participant which—
+  - (a) at the time of entering into the arrangements carries on a business which is not a specified business (the “first business”) but which may be in addition to any specified business carried on by that participant at that time and—
+    - (i) does not carry on that first business solely by virtue of being—
+      - (a) a participant in the arrangements; or
+      - (b) a member, partner or trust beneficiary of a body corporate, unincorporated association, partnership or trust which is itself a participant in the arrangements; and
+    - (ii) enters into the arrangements for commercial purposes wholly or mainly related to the first business; or
+  - (b) is a body corporate, unincorporated association, partnership, or trustee of a trust (unless that trustee is an individual) which—
+    - (i) does not carry on a specified business; and
+    - (ii) only has as its members, partners or trust beneficiaries persons which themselves qualify, or would qualify if they participated in the arrangements, as participants of the kind mentioned in paragraph (a) of this paragraph; and
+- “specified business” means the business of engaging in any regulated activity of the kind specified by any of articles 14, 21, 25, 25D, 25DA,[^key-6bb96ecb367a46b012d7a947526ea3e8] 37, 40, 45, 51 to 53 and 55A[^key-ff7e475872be40d599ea91a240773e80] or, so far as relevant to any of those articles, article 64 of the Regulated Activities Order.
+
+(6) For the purposes of this paragraph, neither the entry into arrangements by any person as a further participant nor the exit from arrangements by any participant shall in itself constitute the creation of new arrangements.
+
+(7) An agreement made in respect of any arrangements in accordance with the provisions of sub-paragraph (1)(b)(ii) or sub-paragraph (3) is not affected by—
+
+- (a) the entry into such arrangements by any person as a further participant;
+- (b) the exit from such arrangements of any participant;
+- (c) any later agreement in writing or otherwise under which, contrary to the earlier agreement, such arrangements do or, as the case may be, do not amount to a collective investment scheme.
+
+### 10. Group schemes[^M_I_303034f2-bc4d-4428-c3e2-9ed561d4fd21]
+
+Arrangements do not amount to a collective investment scheme if each of the participants is a body corporate in the same group as the operator.
+
+### 11. Franchise arrangements[^M_I_3b843dbd-c471-4f72-90eb-1abf02480a74]
+
+Franchise arrangements do not amount to a collective investment scheme.
+
+### 12. Trading schemes[^M_I_92226eff-62dc-4581-96c3-0d69e639318d]
+
+Arrangements do not amount to a collective investment scheme if—
+
+(a) the purpose of the arrangements is that participants should receive, by way of reward, payments or other benefits in respect of the introduction by any person of other persons who become participants;
+
+(b) the arrangements are such that the payments or other benefits referred to in paragraph (a) are to be wholly or mainly funded out of the contributions of other participants; and
+
+(c) the only reason why the arrangements have either or both of the characteristics mentioned in section 235(3) of the Act is because, pending their being used to fund those payments or other benefits, contributions of participants are managed as a whole by or on behalf of the operator of the scheme.
+
+### 13. Timeshare and long-term holiday product schemes[^key-b45e0d6da8f7ca1f4d3aae1bf2889c99]
+
+Arrangements do not amount to a collective investment scheme if the rights or interests of the participants are rights under a timeshare contract or a long-term holiday product contract.
+
+### 14. Other schemes relating to use or enjoyment of property[^M_I_a6841470-2b01-4424-ca97-7b7de76da582]
+
+Arrangements do not amount to a collective investment scheme if—
+
+- (a) the predominant purpose of the arrangements is to enable the participants to share in the use or enjoyment of property or to make its use or enjoyment available gratuitously to others; and
+- (b) the property to which the arrangements relate does not consist of the currency of any country or territory and does not consist of or include any investment of the kind specified by Part III of the Regulated Activities Order or which would be of such a kind apart from any exclusion made by that Part of the Order.
+
+### 15. Schemes involving the issue of certificates representing investments[^M_I_6094edeb-33eb-46f0-fe2b-93340e53f212]
+
+Arrangements do not amount to a collective investment scheme if the rights or interests of the participants are investments of the kind specified by article 80 of the Regulated Activities Order (certificates representing certain securities).
+
+### 16. Clearing services[^M_I_4de9937d-ede1-4177-9d93-b9f15872ecfa]
+
+Arrangements do not amount to a collective investment scheme if their purpose is the provision of clearing services and they are operated by an authorised person, a recognised clearing house or a recognised investment exchange.
+
+### 16A. Settlement services[^key-e8efec13bc1649323abb3a3c0a51234d]
+
+Arrangements do not amount to a collective investment scheme if their purpose is the provision of settlement services and they are operated by an authorised person or a recognised CSD.
+
+### 17. Contracts of insurance[^M_I_2f79d208-e0e8-4989-82bf-7ca148112b85]
+
+A contract of insurance does not amount to a collective investment scheme.
+
+### 18. Funeral plan contracts[^key-ce3624d1ab7506ee862e61327221ee17]
+
+Arrangements do not amount to a collective investment scheme if they consist of, or are made pursuant to—
+
+- (a) a funeral plan contract; or
+- (b) a contract which would be a funeral plan contract but for the proviso to article 59(2) of the Regulated Activities Order.
+
+### 19. Individual pension accounts[^M_I_d885358d-0446-41c0-a6ac-dd52c21128b7]
+
+An individual pension account does not amount to a collective investment scheme.
+
+### 20. Occupational and personal pension schemes[^M_I_24c0aa84-199c-47b4-d31c-b8d439628e71]
+
+(1) An occupational pension scheme does not amount to a collective investment scheme.
+
+(2) A personal pension scheme does not amount to a collective investment scheme.
+
+(3) Sub-paragraph (2) does not extend to a personal pension unit trust which is constituted as a feeder fund or comprises feeder funds.
+
+### 21. Bodies corporate etc.[^key-45ab726773ed7d9286d9a884a1b5ae41]
+
+(1) Subject to sub-paragraph (2), no body incorporated under the law of, or any part of, the United Kingdom relating to building societies or registered societies[^key-d054c0bc1ae30e291d37b1f78aa582e3] or registered under any such law relating to friendly societies, and no other body corporate other than an open-ended investment company, amounts to a collective investment scheme.
+
+(2) Sub-paragraph (1) does not apply to any body incorporated as a limited liability partnership.
+
+### 22. Qualifying cryptoasset staking[^key-6c3ba472d96b539bfd98238f942cbda7]
+
+(1) Arrangements for qualifying cryptoasset staking do not amount to a collective investment scheme.
+
+(2) In this paragraph—
+
+- “**blockchain validation**” means the validation of transactions on—
+  - (a) a blockchain; or
+  - (b) a network that uses distributed ledger technology or other similar technology;
+- “qualifying cryptoasset” has the meaning given by paragraph 26F (qualifying cryptoasset) of Part 2 (controlled investments) of Schedule 1 to the Financial Services and Markets Act 2000 (Financial Promotion) Order 2005; *(affected by repeal, see note)*[^key-0725381f51ce37bbfa354afb663f04db]
+- “**qualifying cryptoasset**” has the meaning given by article 88F of the Regulated Activities Order (qualifying cryptoassets);
+- “**qualifying cryptoasset staking**” means the use of a qualifying cryptoasset in blockchain validation.
+
+*(This note is not part of the Order)*
+
+This Order prescribes particular arrangements which do not amount to collective investment schemes for the purposes of section 235(5) of the Financial Services and Markets Act 2000. They are individual investment management arrangements; enterprise initiative schemes; pure deposit based schemes; schemes not operated by way of business; certain debt issues; common accounts; certain funds relating to leasehold property; certain employee share schemes; schemes entered into for commercial purposes related to an existing business; group schemes; franchise arrangements; trading schemes; timeshare schemes; certain other schemes relating to the use or enjoyment of property; schemes involving the issue of certificates representing investments; clearing services; contracts of insurance; funeral plan contracts; individual pension accounts; occupational pension schemes; personal pension schemes (though not feeder funds); and certain bodies corporate.
+
+## Annotations
+
+[^c15536321]: Marginal citation: [2000 c.8](https://www.legislation.gov.uk/ukpga/2000/8).
+
+[^M_I_41433ddc-d79c-4cd7-ac2d-99dd4d335b67]: Commencement: Reg. 1 in force 1.12.2001 see reg. 1 and [S.I. 2001/3538](https://www.legislation.gov.uk/uksi/2001/3538), [art. 2](https://www.legislation.gov.uk/uksi/2001/3538/article/2)
+
+[^M_I_37fb4174-8040-4cd1-dd3e-1e81624db752]: Commencement: Reg. 2 in force 1.12.2001 see reg. 1 and [S.I. 2001/3538](https://www.legislation.gov.uk/uksi/2001/3538), [art. 2](https://www.legislation.gov.uk/uksi/2001/3538/article/2)
+
+[^key-7fc68112ded897cf8ac0e89f3a5ae36b]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2001/1062/article/2) inserted (13.4.2015) by [The Financial Services and Markets Act 2000 (Collective Investment Schemes) (Amendment) Order 2015 (S.I. 2015/754)](https://www.legislation.gov.uk/uksi/2015/754), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/754/article/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2015/754/article/2/2)
+
+[^key-b6a033eef2b3e20369c820e96b2b611d]: Textual amendment: Words in art. 2 substituted (6.6.2013) by [The Collective Investment in Transferable Securities (Contractual Scheme) Regulations 2013 (S.I. 2013/1388)](https://www.legislation.gov.uk/uksi/2013/1388), [regs. 1](https://www.legislation.gov.uk/uksi/2013/1388/regulation/1), [11(2)(a)](https://www.legislation.gov.uk/uksi/2013/1388/regulation/11/2/a) (with [reg. 24](https://www.legislation.gov.uk/uksi/2013/1388/regulation/24))
+
+[^key-43e19103cbe97fb02367e2a7851676d8]: Textual amendment: Words in art. 2 substituted (6.6.2013) by [The Collective Investment in Transferable Securities (Contractual Scheme) Regulations 2013 (S.I. 2013/1388)](https://www.legislation.gov.uk/uksi/2013/1388), [regs. 1](https://www.legislation.gov.uk/uksi/2013/1388/regulation/1), [11(2)(b)](https://www.legislation.gov.uk/uksi/2013/1388/regulation/11/2/b) (with [reg. 24](https://www.legislation.gov.uk/uksi/2013/1388/regulation/24))
+
+[^key-de334403205eac414760fb74e5cbc4b5]: Textual amendment: Words in art. 2 inserted (23.2.2011) by [The Timeshare, Holiday Products, Resale and Exchange Contracts Regulations 2010 (S.I. 2010/2960)](https://www.legislation.gov.uk/uksi/2010/2960), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/2960/regulation/1/2), [Sch. 6 para. 8(2)(a)](https://www.legislation.gov.uk/uksi/2010/2960/schedule/6/paragraph/8/2/a) (with [Sch. 7 para. 4](https://www.legislation.gov.uk/uksi/2010/2960/schedule/7/paragraph/4))
+
+[^key-3573dd763cbdab9d8807d417eaaba660]: Textual amendment: Words in art. 2 inserted (6.4.2007) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2006 (S.I. 2006/1969)](https://www.legislation.gov.uk/uksi/2006/1969), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2006/1969/article/1/3), [8(3)](https://www.legislation.gov.uk/uksi/2006/1969/article/8/3)
+
+[^key-955b17b4f1e3be195ba5007b95ad781b]: Textual amendment: Words in art. 2 omitted (6.4.2007) by virtue of [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2006 (S.I. 2006/1969)](https://www.legislation.gov.uk/uksi/2006/1969), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2006/1969/article/1/3), [8(2)](https://www.legislation.gov.uk/uksi/2006/1969/article/8/2)
+
+[^key-2c66c49da2f4b911a30e26ecc55a844d]: Textual amendment: Words in art. 2 substituted (23.2.2011) by [The Timeshare, Holiday Products, Resale and Exchange Contracts Regulations 2010 (S.I. 2010/2960)](https://www.legislation.gov.uk/uksi/2010/2960), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/2960/regulation/1/2), [Sch. 6 para. 8(2)(b)](https://www.legislation.gov.uk/uksi/2010/2960/schedule/6/paragraph/8/2/b) (with [Sch. 7 para. 4](https://www.legislation.gov.uk/uksi/2010/2960/schedule/7/paragraph/4))
+
+[^M_I_d117d38c-3932-4c41-add9-b4c56c211c17]: Commencement: Reg. 3 in force 1.12.2001 see reg. 1 and [S.I. 2001/3538](https://www.legislation.gov.uk/uksi/2001/3538), [art. 2](https://www.legislation.gov.uk/uksi/2001/3538/article/2)
+
+[^M_I_8335beb5-c8b0-4ab6-e0bb-c8ae1d49bf23]: Commencement: Sch. para. 1 in force 1.12.2001 see reg. 1 and [S.I. 2001/3538](https://www.legislation.gov.uk/uksi/2001/3538), [art. 2](https://www.legislation.gov.uk/uksi/2001/3538/article/2)
+
+[^key-7bfc214afaed8af25d274e468597e9c9]: Textual amendment: Words in [Sch. para. 1(a)(ii)](https://www.legislation.gov.uk/uksi/2001/1062/schedule/paragraph/1/a/ii) inserted (6.6.2013) by [The Collective Investment in Transferable Securities (Contractual Scheme) Regulations 2013 (S.I. 2013/1388)](https://www.legislation.gov.uk/uksi/2013/1388), [regs. 1](https://www.legislation.gov.uk/uksi/2013/1388/regulation/1), [11(3)](https://www.legislation.gov.uk/uksi/2013/1388/regulation/11/3) (with [reg. 24](https://www.legislation.gov.uk/uksi/2013/1388/regulation/24))
+
+[^M_I_f38488b0-54c8-4539-c5e4-9138a648dd66]: Commencement: Sch. para. 2 in force 1.12.2001 see reg. 1 and [S.I. 2001/3538](https://www.legislation.gov.uk/uksi/2001/3538), [art. 2](https://www.legislation.gov.uk/uksi/2001/3538/article/2)
+
+[^key-1d28176049a51c7490f0817af6922b8a]: Textual amendment: Words in [Sch. para. 2(1)(c)(i)](https://www.legislation.gov.uk/uksi/2001/1062/schedule/paragraph/2/1/c/i) inserted (31.12.2020) by [The Collective Investment Schemes (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/325)](https://www.legislation.gov.uk/uksi/2019/325), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/325/regulation/1/2), [51(a)](https://www.legislation.gov.uk/uksi/2019/325/regulation/51/a) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-e267f9a9e156ee9bc0edde57de171ec3]: Textual amendment: Word in [Sch. para. 2(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2001/1062/schedule/paragraph/2/2/a/ii) substituted (13.4.2015) by [The Financial Services and Markets Act 2000 (Collective Investment Schemes) (Amendment) Order 2015 (S.I. 2015/754)](https://www.legislation.gov.uk/uksi/2015/754), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/754/article/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2015/754/article/2/3)
+
+[^key-d5eef81137fe4ab8513d3e8bbbf2162f]: Textual amendment: [Sch. para. 2A](https://www.legislation.gov.uk/uksi/2001/1062/schedule/schedule/paragraph/2A) inserted (13.4.2015) by [The Financial Services and Markets Act 2000 (Collective Investment Schemes) (Amendment) Order 2015 (S.I. 2015/754)](https://www.legislation.gov.uk/uksi/2015/754), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/754/article/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2015/754/article/2/4)
+
+[^M_I_fce663ab-c0c3-4d7d-8d2a-85a8dd4b8671]: Commencement: Sch. para. 3 in force 1.12.2001 see reg. 1 and [S.I. 2001/3538](https://www.legislation.gov.uk/uksi/2001/3538), [art. 2](https://www.legislation.gov.uk/uksi/2001/3538/article/2)
+
+[^key-eddc22a15ae5924639acaf3f97a0b573]: Textual amendment: [Sch. para. 3A](https://www.legislation.gov.uk/uksi/2001/1062/schedule/paragraph/3A) inserted (25.2.2026 for specified purposes) by [The Financial Services and Markets Act 2000 (Cryptoassets) Regulations 2026 (S.I. 2026/102)](https://www.legislation.gov.uk/uksi/2026/102), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/102/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2026/102/regulation/1/3), [43(2)(a)](https://www.legislation.gov.uk/uksi/2026/102/regulation/43/2/a) (with [regs. 53-56](https://www.legislation.gov.uk/uksi/2026/102/regulation/53))
+
+[^M_I_3229c374-daab-4e8a-a05b-e941928bcf19]: Commencement: Sch. para. 4 in force 1.12.2001 see reg. 1 and [S.I. 2001/3538](https://www.legislation.gov.uk/uksi/2001/3538), [art. 2](https://www.legislation.gov.uk/uksi/2001/3538/article/2)
+
+[^M_I_1d58f0d3-e1e7-4d82-ff78-488bbdfe7025]: Commencement: Sch. para. 5 in force 1.12.2001 see reg. 1 and [S.I. 2001/3538](https://www.legislation.gov.uk/uksi/2001/3538), [art. 2](https://www.legislation.gov.uk/uksi/2001/3538/article/2)
+
+[^key-91d50760783aa326ec72d0af5af0499d]: Textual amendment: Words in Sch. para. 5(1)(a) inserted (24.2.2010) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2010 (S.I. 2010/86)](https://www.legislation.gov.uk/uksi/2010/86), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2010/86/article/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2010/86/article/3/2)
+
+[^key-cf95bd7a34c48c48a1e9505c2069aa5c]: Textual amendment: Words in Sch. para. 5(1)(a) substituted (24.2.2010) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2010 (S.I. 2010/86)](https://www.legislation.gov.uk/uksi/2010/86), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2010/86/article/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2010/86/article/3/2)
+
+[^key-da6977b03c467ea6ee5cdbf2b24818c6]: Textual amendment: Words in Sch. para. 5(2)(a) inserted (1.4.2007 for specified purposes, 1.11.2007 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment No. 3) Order 2006 (S.I. 2006/3384)](https://www.legislation.gov.uk/uksi/2006/3384), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2006/3384/article/1/2), [36(2)](https://www.legislation.gov.uk/uksi/2006/3384/article/36/2)
+
+[^key-ccc5467f344e396cff0ea9284d24811a]: Textual amendment: Words in Sch. para. 5(2)(a) inserted (1.4.2017 for specified purposes, 3.1.2018 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2017 (S.I. 2017/488)](https://www.legislation.gov.uk/uksi/2017/488), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/488/article/1/2), [Sch. para. 4(a)](https://www.legislation.gov.uk/uksi/2017/488/schedule/paragraph/4/a)
+
+[^key-8cc465146758a7a155e9ba288b00cb59]: Textual amendment: Words in Sch. para. 5(2)(a) substituted (22.7.2013) by [The Alternative Investment Fund Managers Regulations 2013 (S.I. 2013/1773)](https://www.legislation.gov.uk/uksi/2013/1773), [reg. 1](https://www.legislation.gov.uk/uksi/2013/1773/regulation/1), [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2013/1773/schedule/2/paragraph/6)
+
+[^key-8421aea4e768a38afcfe14bc0cd35c4c]: Textual amendment: Word in Sch. para. 5(2)(a) inserted (31.12.2020) by [The Collective Investment Schemes (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/325)](https://www.legislation.gov.uk/uksi/2019/325), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/325/regulation/1/2), [51(b)(i)](https://www.legislation.gov.uk/uksi/2019/325/regulation/51/b/i) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-72333000273749b3f2e4ef0af66c159f]: Textual amendment: Word in Sch. para. 5(2)(a) inserted (31.12.2020) by [The Collective Investment Schemes (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/325)](https://www.legislation.gov.uk/uksi/2019/325), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/325/regulation/1/2), [51(b)(ii)](https://www.legislation.gov.uk/uksi/2019/325/regulation/51/b/ii) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-19a329b8417c92a150185f9b3c1d1029]: Textual amendment: Words in [Sch. para. 5(2)(a)](https://www.legislation.gov.uk/uksi/2001/1062/schedule/paragraph/5/2/a) substituted (23.2.2026 for specified purposes, 6.4.2026 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Providing Targeted Support) (Amendment) Order 2026 (S.I. 2026/74)](https://www.legislation.gov.uk/uksi/2026/74), [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/74/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2026/74/article/1/3), [Sch. para. 2(a)](https://www.legislation.gov.uk/uksi/2026/74/schedule/paragraph/2/a)
+
+[^M_I_0171c9ed-b557-493e-8449-83ef3ac499b6]: Commencement: Sch. para. 6 in force 1.12.2001 see reg. 1 and [S.I. 2001/3538](https://www.legislation.gov.uk/uksi/2001/3538), [art. 2](https://www.legislation.gov.uk/uksi/2001/3538/article/2)
+
+[^key-8585d9a3a28de6a0478a82c1e79a08a6]: Textual amendment: [Sch. para. 6A](https://www.legislation.gov.uk/uksi/2001/1062/schedule/paragraph/6A) substituted (18.6.2021) by [The Financial Services and Markets Act 2000 (Collective Investment Schemes) (Amendment) Order 2021 (S.I. 2021/566)](https://www.legislation.gov.uk/uksi/2021/566), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/566/article/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2021/566/article/2/2)
+
+[^key-997dc90235e9d5b3d6affbd2e5ac9424]: Textual amendment: Sch. para. 7 substituted (6.4.2007) by [The Financial Services and Markets Act 2000 (Collective Investment Schemes) (Amendment) Order 2007 (S.I. 2007/800)](https://www.legislation.gov.uk/uksi/2007/800), [arts. 1](https://www.legislation.gov.uk/uksi/2007/800/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2007/800/article/2/2); [S.I. 2007/305](https://www.legislation.gov.uk/uksi/2007/305), [art. 2](https://www.legislation.gov.uk/uksi/2007/305/article/2); [S.I. 2007/1068](https://www.legislation.gov.uk/uksi/2007/1068), [art. 2(a)](https://www.legislation.gov.uk/uksi/2007/1068/article/2/a)
+
+[^key-57c0dc871aad220db3da2a071762bc62]: Textual amendment: Word in [Sch. para. 7(a)](https://www.legislation.gov.uk/uksi/2001/1062/schedule/paragraph/7/a) omitted (W.) (1.12.2022) by virtue of [The Renting Homes (Wales) Act 2016 (Consequential Amendments to Secondary Legislation) Regulations 2022 (S.I. 2022/907)](https://www.legislation.gov.uk/wsi/2022/907), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/907/regulation/1/2), [Sch. 1 para. 20(a)](https://www.legislation.gov.uk/wsi/2022/907/schedule/1/paragraph/20/a) (as amended by [S.I. 2022/1077](https://www.legislation.gov.uk/uksi/2022/1077), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1077/regulation/1/2), [2(c)](https://www.legislation.gov.uk/uksi/2022/1077/regulation/2/c))
+
+[^key-9967c3df721b0b6f522df72cd1f31da5]: Textual amendment: [Sch. para. 7(c)](https://www.legislation.gov.uk/uksi/2001/1062/schedule/paragraph/7) and word substituted for full stop (W.) (1.12.2022) by [The Renting Homes (Wales) Act 2016 (Consequential Amendments to Secondary Legislation) Regulations 2022 (S.I. 2022/907)](https://www.legislation.gov.uk/wsi/2022/907), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/907/regulation/1/2), [Sch. 1 para. 20(b)](https://www.legislation.gov.uk/wsi/2022/907/schedule/1/paragraph/20/b)
+
+[^M_I_b632b9b7-688c-44be-da16-b03c59cba34e]: Commencement: Sch. para. 8 in force 1.12.2001 see reg. 1 and [S.I. 2001/3538](https://www.legislation.gov.uk/uksi/2001/3538), [art. 2](https://www.legislation.gov.uk/uksi/2001/3538/article/2)
+
+[^key-ae1a9a98f3000f75c97f6cfc920b5bba]: Textual amendment: Words in Sch. para. 8(2)(b) inserted (5.12.2005) by [The Civil Partnership Act 2004 (Amendments to Subordinate Legislation) Order 2005 (S.I. 2005/2114)](https://www.legislation.gov.uk/uksi/2005/2114), [art. 1](https://www.legislation.gov.uk/uksi/2005/2114/article/1), [Sch. 16 para. 3](https://www.legislation.gov.uk/uksi/2005/2114/schedule/16/paragraph/3)
+
+[^key-2aff54fede4864b7fcdee03ae1c9ec07]: Textual amendment: [Sch. para. 9](https://www.legislation.gov.uk/uksi/2001/1062/schedule/paragraph/9) substituted (15.7.2008) by [The Financial Services and Markets Act 2000 (Collective Investment Schemes) (Amendment) Order 2008 (S.I. 2008/1641)](https://www.legislation.gov.uk/uksi/2008/1641), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2008/1641/article/1/2), [2](https://www.legislation.gov.uk/uksi/2008/1641/article/2) (as amended by [S.I. 2008/1813](https://www.legislation.gov.uk/uksi/2008/1813), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2008/1813/article/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2008/1813/article/2/2))
+
+[^key-6bb96ecb367a46b012d7a947526ea3e8]: Textual amendment: Word in Sch. para. 9(5) inserted (1.4.2017 for specified purposes, 3.1.2018 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2017 (S.I. 2017/488)](https://www.legislation.gov.uk/uksi/2017/488), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/488/article/1/2), [Sch. para. 4(b)](https://www.legislation.gov.uk/uksi/2017/488/schedule/paragraph/4/b)
+
+[^key-ff7e475872be40d599ea91a240773e80]: Textual amendment: Words in [Sch. para. 9(5)](https://www.legislation.gov.uk/uksi/2001/1062/schedule/paragraph/9/5) inserted (23.2.2026 for specified purposes) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Providing Targeted Support) (Amendment) Order 2026 (S.I. 2026/74)](https://www.legislation.gov.uk/uksi/2026/74), [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/74/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2026/74/article/1/3), [Sch. para. 2(b)](https://www.legislation.gov.uk/uksi/2026/74/schedule/paragraph/2/b)
+
+[^M_I_303034f2-bc4d-4428-c3e2-9ed561d4fd21]: Commencement: Sch. para. 10 in force 1.12.2001 see reg. 1 and [S.I. 2001/3538](https://www.legislation.gov.uk/uksi/2001/3538), [art. 2](https://www.legislation.gov.uk/uksi/2001/3538/article/2)
+
+[^M_I_3b843dbd-c471-4f72-90eb-1abf02480a74]: Commencement: Sch. para. 11 in force 1.12.2001 see reg. 1 and [S.I. 2001/3538](https://www.legislation.gov.uk/uksi/2001/3538), [art. 2](https://www.legislation.gov.uk/uksi/2001/3538/article/2)
+
+[^M_I_92226eff-62dc-4581-96c3-0d69e639318d]: Commencement: Sch. para. 12 in force 1.12.2001 see reg. 1 and [S.I. 2001/3538](https://www.legislation.gov.uk/uksi/2001/3538), [art. 2](https://www.legislation.gov.uk/uksi/2001/3538/article/2)
+
+[^key-b45e0d6da8f7ca1f4d3aae1bf2889c99]: Textual amendment: Sch. para. 13 substituted (23.2.2011) by [The Timeshare, Holiday Products, Resale and Exchange Contracts Regulations 2010 (S.I. 2010/2960)](https://www.legislation.gov.uk/uksi/2010/2960), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/2960/regulation/1/2), [Sch. 6 para. 8(3)](https://www.legislation.gov.uk/uksi/2010/2960/schedule/6/paragraph/8/3) (with [Sch. 7 para. 4](https://www.legislation.gov.uk/uksi/2010/2960/schedule/7/paragraph/4))
+
+[^M_I_a6841470-2b01-4424-ca97-7b7de76da582]: Commencement: Sch. para. 14 in force 1.12.2001 see reg. 1 and [S.I. 2001/3538](https://www.legislation.gov.uk/uksi/2001/3538), [art. 2](https://www.legislation.gov.uk/uksi/2001/3538/article/2)
+
+[^M_I_6094edeb-33eb-46f0-fe2b-93340e53f212]: Commencement: Sch. para. 15 in force 1.12.2001 see reg. 1 and [S.I. 2001/3538](https://www.legislation.gov.uk/uksi/2001/3538), [art. 2](https://www.legislation.gov.uk/uksi/2001/3538/article/2)
+
+[^M_I_4de9937d-ede1-4177-9d93-b9f15872ecfa]: Commencement: Sch. para. 16 in force 1.12.2001 see reg. 1 and [S.I. 2001/3538](https://www.legislation.gov.uk/uksi/2001/3538), [art. 2](https://www.legislation.gov.uk/uksi/2001/3538/article/2)
+
+[^key-e8efec13bc1649323abb3a3c0a51234d]: Textual amendment: [Sch. para. 16A](https://www.legislation.gov.uk/uksi/2001/1062/schedule/paragraph/16A) inserted (28.11.2017) by [The Central Securities Depositories Regulations 2017 (S.I. 2017/1064)](https://www.legislation.gov.uk/uksi/2017/1064), [reg. 1](https://www.legislation.gov.uk/uksi/2017/1064/regulation/1), [Sch. para. 24](https://www.legislation.gov.uk/uksi/2017/1064/schedule/paragraph/24) (with [regs. 7(4)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/7/4), [9(1)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/9/1))
+
+[^M_I_2f79d208-e0e8-4989-82bf-7ca148112b85]: Commencement: Sch. para. 17 in force 1.12.2001 see reg. 1 and [S.I. 2001/3538](https://www.legislation.gov.uk/uksi/2001/3538), [art. 2](https://www.legislation.gov.uk/uksi/2001/3538/article/2)
+
+[^key-ce3624d1ab7506ee862e61327221ee17]: Textual amendment: [Sch. para. 18](https://www.legislation.gov.uk/uksi/2001/1062/schedule/paragraph/18) substituted (16.5.2022 for specified purposes, 29.7.2022 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2022 (S.I. 2022/466)](https://www.legislation.gov.uk/uksi/2022/466), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2022/466/article/1/3), [3](https://www.legislation.gov.uk/uksi/2022/466/article/3)
+
+[^M_I_d885358d-0446-41c0-a6ac-dd52c21128b7]: Commencement: Sch. para. 19 in force 1.12.2001 see reg. 1 and [S.I. 2001/3538](https://www.legislation.gov.uk/uksi/2001/3538), [art. 2](https://www.legislation.gov.uk/uksi/2001/3538/article/2)
+
+[^M_I_24c0aa84-199c-47b4-d31c-b8d439628e71]: Commencement: Sch. para. 20 in force 1.12.2001 see reg. 1 and [S.I. 2001/3538](https://www.legislation.gov.uk/uksi/2001/3538), [art. 2](https://www.legislation.gov.uk/uksi/2001/3538/article/2)
+
+[^key-45ab726773ed7d9286d9a884a1b5ae41]: Textual amendment: Sch. para. 21 substituted (1.12.2001) by [The Financial Services and Markets Act 2000 (Miscellaneous Provisions) Order 2001 (S.I. 2001/3650)](https://www.legislation.gov.uk/uksi/2001/3650), [arts. 1(a)](https://www.legislation.gov.uk/uksi/2001/3650/article/1/a), [2(4)](https://www.legislation.gov.uk/uksi/2001/3650/article/2/4)
+
+[^key-d054c0bc1ae30e291d37b1f78aa582e3]: Textual amendment: Words in [Sch. para. 21(1)](https://www.legislation.gov.uk/uksi/2001/1062/schedule/paragraph/21/1) substituted (1.8.2014) by [The Co-operative and Community Benefit Societies and Credit Unions Act 2010 (Consequential Amendments) Regulations 2014 (S.I. 2014/1815)](https://www.legislation.gov.uk/uksi/2014/1815), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1815/regulation/1/2), [Sch. para. 9](https://www.legislation.gov.uk/uksi/2014/1815/schedule/paragraph/9)
+
+[^key-6c3ba472d96b539bfd98238f942cbda7]: Textual amendment: Sch. para. 22 inserted (31.1.2025) by [The Financial Services and Markets Act 2000 (Collective Investment Schemes) (Amendment) Order 2025 (S.I. 2025/17)](https://www.legislation.gov.uk/uksi/2025/17), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/17/article/1/2), [2](https://www.legislation.gov.uk/uksi/2025/17/article/2)
+
+[^key-0725381f51ce37bbfa354afb663f04db]: Textual amendment: Words in Sch. para. 22(2) substituted (25.2.2026 for specified purposes) by [The Financial Services and Markets Act 2000 (Cryptoassets) Regulations 2026 (S.I. 2026/102)](https://www.legislation.gov.uk/uksi/2026/102), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/102/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2026/102/regulation/1/3), [43(2)(b)](https://www.legislation.gov.uk/uksi/2026/102/regulation/43/2/b) (with [regs. 53-56](https://www.legislation.gov.uk/uksi/2026/102/regulation/53))

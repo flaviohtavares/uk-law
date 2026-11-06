@@ -1,0 +1,1316 @@
+---
+title: The Gas Appliances (Enforcement) and Miscellaneous Amendments Regulations 2018
+id: uksi/2018/389
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2018-03-20'
+text_date: '2024-10-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2018/389
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2018/389/pdfs/uksiem_20180389_en.pdf
+- http://www.legislation.gov.uk/uksi/2018/389/pdfs/uksi_20180389_en.pdf
+- http://www.legislation.gov.uk/uksi/2018/389/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Gas Appliances (Enforcement) and Miscellaneous Amendments Regulations 2018
+
+> Text as at 2024-10-01.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2018 No. 389
+
+Consumer Protection
+
+Health And Safety
+
+The Gas Appliances (Enforcement) and Miscellaneous Amendments Regulations 2018
+
+Made
+
+20th March 2018
+
+Laid before Parliament
+
+21st March 2018
+
+Coming into force
+
+21st April 2018
+
+The Secretary of State is a Minister designated [^c22926691] for the purposes of section 2(2) of the European Communities Act 1972 [^c22926701] (“**the 1972 Act**”) in relation to measures relating to safety as regards appliances burning gaseous fuels.
+
+These Regulations make provision for a purpose mentioned in section 2(2) of the 1972 Act and it appears to the Secretary of State that it is expedient for certain references to provisions of EU instruments to be construed as references to those provisions as amended from time to time.
+
+The Secretary of State makes the following Regulations in exercise of the powers conferred by section 2(2) of, and paragraph 1A [^c22926711] of Schedule 2 to, the 1972 Act.
+
+## PART 1 — Preliminary
+
+### 1. Citation, commencement and interpretation
+
+(1) These Regulations may be cited as the Gas Appliances (Enforcement) and Miscellaneous Amendments Regulations 2018 and come into force on 21st April 2018.
+
+(2) In these Regulations—
+
+- “**the 1974 Act**” means the Health and Safety at Work etc. Act 1974 [^c22926721];
+- “**the 1978 Order**” means the Health and Safety at Work (Northern Ireland) Order 1978 [^c22926731];
+- “**the 1987 Act**” means the Consumer Protection Act 1987 [^c22926741];
+- “**the 1995 Regulations**” means the Gas Appliances (Safety) Regulations 1995 [^c22926751];
+- “**district council**” means a district council within the meaning of the Local Government Act (Northern Ireland) 1972 [^c22926761];
+- “**EU Regulation 2016/426**” means Regulation (EU) 2016/426 [^c22926771] of the European Parliament and of the Council on appliances burning gaseous fuels, repealing Council Directive [2009/142/EC](https://www.legislation.gov.uk/european/directive/2009/0142) [^c22926781], as amended from time to time;
+- Regulation 2016/426 (pre-exit)” means Regulation (EU) 2016/426 of the European Parliament and of the Council on appliances burning gaseous fuels and repealing[^key-4843ee128a7e630a830b61bb0eddbb42] [Directive 2009/142/EC](https://www.legislation.gov.uk/european/directive/2009/0142) as it had effect immediately before exit day;
+- “**RAMS**” means Regulation [(EC) 765/2008](https://www.legislation.gov.uk/european/regulation/2008/0765) of the European Parliament and of the Council setting out the requirements for accreditation and market surveillance relating to the marketing of products and repealing Regulation [(EEC) No 339/93](https://www.legislation.gov.uk/european/regulation/1993/0339) [^c22926791], as amended from time to time;
+- “**risk**” means a risk which may result in harm to the health or safety of persons, domestic animals or property, if an appliance or fitting is used in a normal and predictable manner; and
+- “**weights and measures authority**” means a local weights and measures authority within the meaning set out in section 69 of the Weights and Measures Act 1985 [^c22926801].
+
+(3) In these Regulations (unless otherwise stated) *(Extent: E+W+S)*[^key-76dd2115e327668ff7e71028f227aab9] a reference to—
+
+- (a) a numbered regulation, paragraph or Schedule is a reference to the regulation, paragraph or Schedule as numbered in these Regulations unless otherwise stated *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-e93caf95de8e3405724e8ec6cd501d42];
+- (b) an Article, paragraph of an Article , Chapter *(Extent: E+W+S)*[^key-c53ea0ebe2cbe48db6be030a3296952e] or Annex is a reference to the Article, paragraph of an Article , Chapter *(Extent: E+W+S)* or Annex as numbered in EU Regulation 2016/426;
+- (c) a “**relevant economic operator**” in relation to an appliance or fitting means an economic operator with obligations in respect of that appliance or fitting under EU Regulation 2016/426; and
+- (d) an “**enforcement authority**” is to be construed in accordance with regulation 4.
+
+(4) Expressions and words used in these Regulations which are used in EU Regulation 2016/426 have the same meaning as in EU Regulation 2016/426 unless otherwise stated *(Extent: E+W+S)*[^key-beb6f303a395f624be28a1341abab1fe] .
+
+### 2. Application, transitional provisions, savings and revocation
+
+(1) These Regulations apply to appliances and fittings placed on the market on or after 21st April 2018.
+
+(2) These Regulations do not apply to—
+
+- (a) appliances specifically designed for the uses and purposes specified in Article 1(3); or
+- (b) appliances and fittings which fall within Article 1(4).
+
+(3) Nothing in these Regulations prevents the showing of appliances or fittings at trade fairs, exhibitions, demonstrations or the like, which are not in compliance with the provisions of EU Regulation 2016/426, provided that a visible sign clearly indicates that such appliances or fittings do not comply with those provisions and that they are not for sale until they are made compliant.
+
+(4) The *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-37e55ab4135453ecf5228b17dfcedfc7] Subject to the modifications made in paragraph (4A), the *(Extent: E+W+S)* 1995 Regulations continue to apply, as if they had not been revoked, to appliances and fittings placed on the market before 21st April 2018, and in any such case the consequential amendments made by Schedule 5 do not apply.
+
+*Extent: E+W+S*
+
+(4A)[^key-bdd6dc193ffa61f9689a008571dd5f1e] The modifications referred to in paragraph (4) are as follows—
+
+- (a) any reference to the “**Community**” is to be read as including the United Kingdom;
+- (b) any reference to “member State” is to be read as though the United Kingdom were a member State;
+- (c) regulation 10(6) is to be read as if the words from “and, on request made by it” to the end were omitted;
+- (d) regulation 13(2) is to be read as if sub-paragraph (b) were omitted;
+- (e) regulation 15(2) is to be read as if sub-paragraph (b) were omitted.
+
+(5) The 1995 Regulations are revoked save to the extent required to give effect to paragraph (4).
+
+### 2A. Obligations which are met by complying with obligations in Regulation 2016/426 (pre-exit)[^key-96dd6f74db94f8010219054390833a1d]
+
+*Extent: E+W+S*
+
+(1) In this regulation, “**harmonised standard**” has the meaning given in Article 2(23) of Regulation 2016/426 (pre-exit).
+
+(2) Paragraph (3) applies where before placing an appliance or fitting on the market, or using an appliance for their own purposes, the manufacturer—
+
+- (a) ensures that the appliance or fitting has been designed and manufactured in accordance with the essential requirements set out in Annex I to Regulation 2016/426 (pre-exit);
+- (b) carries out the applicable conformity assessment procedure referred to in Article 14 of Regulation 2016/426 (pre-exit), or has it carried out;
+- (c) draws up the technical documentation referred to in Annex III to Regulation 2016/426 (pre-exit);
+- (d) ensures that the technical documentation and other records and correspondence relating to the conformity assessment procedures are prepared in or translated into English;
+- (e) affixes a CE marking and the inscriptions provided for in Annex IV of Regulation 2016/426 (pre-exit), in accordance with Articles 16, 17(1) to (4) and 18 of Regulation 2016/426 (pre-exit);
+- (f) draws up an EU declaration of conformity, in accordance with Article 15 of Regulation 2016/426 (pre-exit); and
+- (g) ensures that the EU declaration of conformity is prepared in or translated into English.
+
+(3) Where this paragraph applies—
+
+- (a) the requirements of Articles 7(1) and (2) and 14 to 18 are to be treated as being satisfied;
+- (b) the requirement in Article 7(5) to ensure that appliances and fittings bear inscriptions, is to be treated as being satisfied;
+- (c) Articles 7(3), (4) and (7), 8(2) and point 1.7 of Annex I (referred to in Article 7(7)) and regulations 7(1) and 8(3)(a) apply subject to the modifications in paragraph (8); and
+- (d) Article 40 does not apply.
+
+(4) Paragraph (5) applies where before placing an appliance or fitting on the market, the importer ensures that—
+
+- (a) the applicable conformity assessment procedure referred to in Article 14 of Regulation 2016/426 (pre-exit) has been carried out;
+- (b) the manufacturer has drawn up the technical documentation referred to in Annex III of Regulation 2016/426 (pre-exit); and
+- (c) the appliance or fitting bears the CE marking in accordance with Articles 16 and 17(1) to (4) of Regulation 2016/426 (pre-exit).
+
+(5) Where this paragraph applies—
+
+- (a) the requirements in the first or second subparagraph of Article 9(2), as applicable, to ensure that—
+  - (i) the appropriate conformity assessment procedure referred to in Article 14 has been carried out;
+  - (ii) the manufacturer has drawn up the technical documentation; and
+  - (iii) the appliance or fitting bears the UK marking,
+
+  are to be treated as being satisfied;
+- (b) the third subparagraph of Article 9(2), Article 9(5) and (8), and regulations 7(1) and 8(3)(b) apply subject to the modifications in paragraph (8); and
+- (c) in relation to fittings, the second subparagraph of Article 9(2) (other than those requirements treated as being satisfied), point 1.7 of Annex I (referred to in that subparagraph) and the second subparagraph of Article 9(4) also apply subject to the modifications in paragraph (8).
+
+(6) Paragraph (7) applies where, before placing an appliance or fitting on the market, a distributor ensures that the appliance or fitting bears the CE marking in accordance with Articles 16 and 17(1) to (4) of Regulation 2016/426 (pre-exit).
+
+(7) Where this paragraph applies—
+
+- (a) the requirement in the first or second subparagraph of Article 10(2), as applicable, for the distributor to verify that the appliance or fitting bears the UK marking, is to be treated as being satisfied;
+- (b) the third subparagraph of Article 10(2), Article 10(3) and regulation 7(1) apply subject to the modifications in paragraph (8); and
+- (c) in relation to fittings, the second subparagraph of Article 10(2) (other than that requirement treated as being satisfied) and point 1.7 of Annex I (referred to in that subparagraph) also apply subject to the modifications in paragraph (8).
+
+(8) The modifications referred to in paragraphs (3)(c), (5)(b) and (c), and (7)(b) and (c) are that—
+
+- (a) any reference to a “declaration of conformity” is to be read as a reference to an EU declaration of conformity, referred to in Article 15 of Regulation 2016/426 (pre-exit);
+- (b) any reference to “essential requirements” is to be read as a reference to the essential requirements set out in Annex I of Regulation 2016/426 (pre-exit);
+- (c) any reference to “designated standard” is to be read as a reference to a harmonised standard;
+- (d) any reference to “**technical documentation**” is a reference to the technical documentation referred to in Annex III to Regulation 2016/426 (pre-exit);
+- (e) in regulations 7(1) and 8(3), any reference to a numbered Article is to be read as a reference to the equivalent Article of Regulation 2016/426 (pre-exit).
+
+### 2B. Conformity assessment procedure obligation which is met by complying with Regulation 2016/426 (pre-exit)
+
+*Extent: E+W+S*
+
+(1) Paragraph (2) applies where, before placing an appliance or fitting on the market the manufacturer ensures that its conformity with Regulation 2016/426 (pre-exit) has been assessed by means of the conformity assessment procedure set out in point 1 of Annex III to Regulation 2016/426 (pre-exit) and referred to in Article 14(2) of Regulation 2016/426 (pre-exit) as EU type-examination, in accordance with that Article.
+
+(2) Where this paragraph applies—
+
+- (a) the requirement in Article 14(2) that the conformity of appliances and fittings with Regulation EU 2016/426 be assessed by means of the type-examination set out in point 1 of Annex III is to be treated as being satisfied;
+- (b) any reference to “conformity assessment procedure” in Articles 7(2) and 9(2) (first and second subparagraphs) is to be read as including the conformity assessment procedure referred to in Article 14(2) of Regulation 2016/426 (pre-exit) as EU type-examination;
+- (c) any reference to “technical documentation” in Articles 7(2), 7(3), 9(2) (first and second subparagraphs) and 9(8) is to be read as including the technical documentation relating to the design of the appliance or fitting as referred to in point 1 of Annex III to Regulation 2016/426 (pre-exit).
+
+### 2C. Further use of UK marking[^key-c3ca50c19bf5b9b0e9022d6d4074d915]
+
+(1) In this regulation “**harmonised standard**” has the meaning given to it in Article 2(23) of Regulation 2016/426 (pre-exit).
+
+(2) Paragraph (3) applies where, before placing an appliance or fitting on the market or using an appliance for their own purposes, the manufacturer—
+
+- (a) ensures that the appliance or fitting has been designed and manufactured in accordance with the essential requirements set out in Annex I to Regulation 2016/426 (pre-exit);
+- (b) carries out the applicable conformity assessment procedure referred to in Article 14 of Regulation 2016/426 (pre-exit) or has it carried out;
+- (c) draws up the technical documentation referred to in Annex III to Regulation 2016/426 (pre-exit); and
+- (d) ensures that the technical documentation and other records and correspondence relating to the conformity assessment procedure are prepared in or translated into English.
+
+(3) Where this paragraph applies—
+
+- (a) Article 7(1) and the first subparagraph of Article 7(2) are to be treated as being satisfied;
+- (b) Articles 13, 14 and 17(3) do not apply;
+- (c) the following provisions of Article 7 apply subject to the modifications in paragraph (4)—
+  - (i) Article 7(2), second subparagraph;
+  - (ii) Article 7(3);
+  - (iii) Article 7(4);
+- (d) Articles 8, 9(2), (4), (5) and (8), 10(2) and (3), 15(1) to (4), 17(4) and 40(1) and Annex V apply subject to the modifications in paragraph (4).
+
+(4) The modifications referred to in paragraph (3)(c) and (d) are that—
+
+- (a) any reference to “essential requirements” is to be read as a reference to the essential requirements set out in Annex I to Regulation 2016/426 (pre-exit);
+- (b) any reference to “designated standard” is to be read as a reference to a harmonised standard;
+- (c) any reference to “technical documentation” is to be read as a reference to the technical documentation referred to in Annex III to Regulation 2016/426 (pre-exit);
+- (d) in Article 7(2), in the second subparagraph the reference to “procedure referred to in the first subparagraph” is to be read as a reference to the applicable conformity assessment procedure referred to in Article 14 of Regulation 2016/426 (pre-exit);
+- (e) any reference to “appropriate conformity assessment procedure” is to be read as a reference to the applicable conformity assessment procedure referred to in Article 14 of Regulation 2016/426 (pre-exit);
+- (f) Article 17(4) is to be read as if the words beginning with “and” and ending with “paragraph 3” were omitted;
+- (g) in Annex 5 the reference to “relevant statutory requirements” is to be read as including Regulation 2016/426 (pre-exit);
+- (h) in paragraph 7 of Annex 5, the reference to “approved body” is to be read as a reference to the conformity assessment body that undertook the conformity assessment procedure in accordance with Article 14 of Regulation 2016/426 (pre-exit).
+
+### 2D (Extent: E+W+S). Qualifying Northern Ireland Goods (Extent: E+W+S)
+
+(1 (Extent: E+W+S)) In this regulation— *(Extent: E+W+S)*
+
+- “ *(Extent: E+W+S)***EU Regulation 2016/426 (Northern Ireland) *(Extent: E+W+S)***” means Regulation (EU) No. 2016/426 of the European Parliament and of the Council on appliances burning gaseous fuels, repealing Council Directive *(Extent: E+W+S)* [2009/142/EC *(Extent: E+W+S)*](https://www.legislation.gov.uk/eudr/2009/142), as it has effect by virtue of the Protocol on Ireland/ Northern Ireland in the EU withdrawal agreement; *(Extent: E+W+S)*
+- “ *(Extent: E+W+S)***applicable conformity assessment procedure *(Extent: E+W+S)***” means the conformity assessment procedure applicable to the appliance or fitting in accordance with Article 14 of EU Regulation 2016/426 (Northern Ireland); *(Extent: E+W+S)*
+- “ *(Extent: E+W+S)***CE marking *(Extent: E+W+S)***” has the meaning given to it in Article 2(31) of EU Regulation 2016/426 (Northern Ireland); *(Extent: E+W+S)*
+- “ *(Extent: E+W+S)***qualifying Northern Ireland goods *(Extent: E+W+S)***” has the meaning given to it in regulations made under section 8C(6) of the European Union (Withdrawal) Act 2018; *(Extent: E+W+S)*
+- “ *(Extent: E+W+S)***technical documentation *(Extent: E+W+S)***” means the documentation referred to in Annex III of Regulation 2016/426 (Northern Ireland). *(Extent: E+W+S)*
+
+(2 (Extent: E+W+S)) Where paragraph (3) applies— *(Extent: E+W+S)*
+
+- (a (Extent: E+W+S)) an appliance or fitting is to be treated as being in conformity with the essential safety requirements within the meaning given in EU Regulation 2016/426; and *(Extent: E+W+S)*
+- (b (Extent: E+W+S)) each relevant economic operator is to be treated as having complied or as complying with the obligations imposed on them under Chapter II of EU Regulation 2016/426. *(Extent: E+W+S)*
+
+(3 (Extent: E+W+S)) This paragraph applies where— *(Extent: E+W+S)*
+
+- (a (Extent: E+W+S)) the appliance or fitting is— *(Extent: E+W+S)*
+  - (i (Extent: E+W+S)) in conformity with the essential requirements within the meaning given in EU Regulation 2016/246 (Northern Ireland); and *(Extent: E+W+S)*
+  - (ii (Extent: E+W+S)) qualifying Northern Ireland goods; and *(Extent: E+W+S)*
+- (b (Extent: E+W+S)) each relevant economic operator has complied or is complying with the obligations imposed on them under Chapter II of EU Regulation 2016/426 (Northern Ireland); and *(Extent: E+W+S)*
+- (c (Extent: E+W+S)) an importer has complied with the obligations set out in paragraph (4). *(Extent: E+W+S)*
+
+(4 (Extent: E+W+S)) The obligations referred to in paragraph (4)(c) are that, before placing the appliance or fitting on the market, the importer— *(Extent: E+W+S)*
+
+- (a (Extent: E+W+S)) complies with Article 9(3) of EU Regulation 2016/426; *(Extent: E+W+S)*
+- (b (Extent: E+W+S)) ensures that— *(Extent: E+W+S)*
+  - (i (Extent: E+W+S)) the applicable conformity assessment procedure has been carried out in relation to the appliance or fitting; *(Extent: E+W+S)*
+  - (ii (Extent: E+W+S)) the manufacturer has drawn up the technical documentation; and *(Extent: E+W+S)*
+  - (iii (Extent: E+W+S)) the appliance or fitting bears the CE marking. *(Extent: E+W+S)*
+
+## PART 2 — Market Surveillance and Enforcement
+
+### 3. Designation of market surveillance authorities
+
+(1) The market surveillance authority is—
+
+- (a) in the case of appliances or fittings for private use or consumption (other than that referred to in paragraph (2)(b))—
+  - (i) in Great Britain, within its area, a weights and measures authority; and
+  - (ii) in Northern Ireland, within its area, a district council;
+- (b) in the case of appliances or fittings for use or operation in the circumstances set out in paragraph (2)—
+  - (i) subject to paragraph (3), in Great Britain, the Health and Safety Executive; and
+  - (ii) in Northern Ireland, the Health and Safety Executive for Northern Ireland.
+
+(2) The circumstances referred to in paragraphs (1)(b) are where the appliances or fittings are designed—
+
+- (a) for use or operation, whether exclusively or not, by persons at work; or
+- (b) for use, otherwise than at work, in non-domestic premises made available to persons at a place where they may use the appliances or fittings provided for their own use there.
+
+(3) In so far as these Regulations apply to appliances and fittings intended exclusively or primarily for use on relevant nuclear sites, the market surveillance authority is the Office for Nuclear Regulation.
+
+(4) In paragraph (3) “**relevant nuclear site**” means a site which is—
+
+- (a) a GB nuclear site (within the meaning given in section 68 of the Energy Act 2013 [^c22926811]);
+- (b) an authorised defence site (within the meaning given in regulation 2(1) of the Health and Safety (Enforcing Authority) Regulations 1998 [^c22926821]); or
+- (c) a new nuclear build site (within the meaning given in regulation 2A of those Regulations [^c22926831]).
+
+### 4. Enforcement Authorities
+
+(1) Subject to paragraph (2), EU Regulation 2016/426, these Regulations and RAMS (in its application to appliances and fittings) must be enforced by the market surveillance authority.
+
+(2) Notwithstanding paragraph (1), the Secretary of State may enforce EU Regulation 2016/426, these Regulations and RAMS (in its application to appliances and fittings).
+
+(3) In Scotland only the Lord Advocate may commence proceedings for an offence under these Regulations.
+
+### 5. Enforcement Powers
+
+(1) Schedule 1 makes provision for enforcement powers under the 1987 Act where the enforcement authority is—
+
+- (a) a weights and measures authority;
+- (b) a district council; or
+- (c) the Secretary of State.
+
+(2) Schedule 2 makes provision for enforcement powers under the 1974 Act where the enforcement authority is the Health and Safety Executive or the Office for Nuclear Regulation.
+
+(3) Schedule 3 makes provision for enforcement powers under the 1978 Order where the enforcement authority is the Health and Safety Executive for Northern Ireland.
+
+(4) In addition to the powers available to an enforcement authority by virtue of paragraph (1), (2) or (3), as appropriate, the enforcement authority may use the powers in Schedule 4 (compliance, withdrawal and recall notices).
+
+### 6. Notification to the Secretary of State of enforcement action etc
+
+A market surveillance authority must immediately notify the Secretary of State of any action taken by it, evaluation made or other opinion formed by it, or other matter within its knowledge which is required by Article 37(4) to be communicated to the Commission or the *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-a7aebe73ada2da755181cc8d2e6983e8] other *(Extent: N.I.)* *(affected by repeal, see note)*[^key-e895a3d4a0c8dd4cdbf18a6d3177a58e] *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-a7aebe73ada2da755181cc8d2e6983e8] member States *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-a7aebe73ada2da755181cc8d2e6983e8] in accordance with Chapter 5 *(Extent: E+W+S)* .
+
+### 6A. Information obligations[^key-681301ea4866da2b737fd723a5d01ea6]
+
+*Extent: N.I.*
+
+(1) Nothing in EU Regulation 2016/426 requires any market surveillance authority or the Secretary of State to inform the Commission or member States of any matter in relation to appliances or fittings on the market of Great Britain only.
+
+### 7. Offences
+
+(1) It is an offence for an economic operator to contravene the requirements and obligations set out in—
+
+- (a) Article 7 (obligations of manufacturers);
+- (b) Article 9 (obligations of importers);
+- (c) Article 10 (obligations of distributors);
+- (d) Article 12 (identification of economic operators);
+- (e) Article 17 (rules and conditions for affixing the CE *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-5d632f96c82bc2072854f39af55ad40e] UK *(Extent: E+W+S)* marking); and
+- (f) Article 18 (inscriptions).
+
+(2) It is an offence for an economic operator to fail to—
+
+- (a) cooperate with;
+- (b) provide information to; and
+- (c) comply with any of the requirements of, the market surveillance authority acting under Article 37.
+
+(3) It is an offence for an economic operator to fail to take the action required under—
+
+- (a) Article 39 (compliant appliance or fitting which presents a risk); or
+- (b) Article 40 (formal non-compliance).
+
+(4) It is an offence for a person—
+
+- (a) to intentionally obstruct an enforcement authority acting in the execution or enforcement of EU Regulation 2016/426;
+- (b) without reasonable cause, to fail to give such an enforcement authority any assistance or information which that authority may reasonably require for those purposes;
+- (c) to knowingly or recklessly furnish to such an enforcement authority any information knowing it to be false or misleading in a material particular; or
+- (d) to fail to produce a document or record for such an enforcement authority when required to do so.
+
+(5) Proceedings must not be commenced against an economic operator under paragraph (1), (2) or (3) if the economic operator has been given a time period within which to comply or take action, and that time period has not expired.
+
+### 8. Penalties
+
+(1) Except for a person who falls within paragraph (3), a person guilty of an offence under these Regulations is liable—
+
+- (a) on summary conviction—
+  - (i) in England and Wales, to a fine or imprisonment for a term not exceeding three months, or to both;
+  - (ii) in Scotland and Northern Ireland, to a fine not exceeding the statutory maximum or imprisonment for a term not exceeding three months, or to both;
+- (b) on conviction on indictment, to a fine or imprisonment for a term not exceeding two years or to both.
+
+(2) A person who falls within paragraph (3) is liable on summary conviction—
+
+- (a) in England and Wales, to a fine or imprisonment for a term not exceeding three months, or to both;
+- (b) in Scotland and Northern Ireland, to a fine not exceeding level 5 on the standard scale or imprisonment for a term not exceeding three months or to both.
+
+(3) A person falls within this paragraph, if that person is guilty of an offence under—
+
+- (a) regulation 7(1)(a) by contravening the requirement in Article 7(3) (failing to keep the technical documentation and the EU *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-b0348f99df1398c663c6408ac573a2dc] declaration of conformity for 10 years); or
+- (b) regulation 7(1)(b) by contravening the requirement in Article 9(8) (failing to keep a copy of the EU *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-b0348f99df1398c663c6408ac573a2dc] declaration of conformity for 10 years and failing to make that document and the technical documentation available to the market surveillance authority on request).
+
+### 9. Defence of due diligence
+
+(1) In proceedings for an offence under these Regulations, it is a defence for a person (“P”) to show that P took all reasonable steps and exercised all due diligence to avoid committing the offence.
+
+(2) P may not rely on a defence under paragraph (1) which involves a third party allegation unless P has—
+
+- (a) served notice in accordance with paragraph (3); or
+- (b) obtained leave of the court.
+
+(3) The notice must—
+
+- (a) give any information in the possession of P which identifies or assists in identifying the person who—
+  - (i) is alleged to have committed the act or default; or
+  - (ii) supplied the information on which P relies; and
+- (b) be served on the person bringing the proceedings not less than seven clear days before—
+  - (i) the hearing of the proceedings in England, Wales and Northern Ireland;
+  - (ii) the trial date in Scotland.
+
+(4) P may not rely on a defence under paragraph (1) which involves an allegation that the commission of the offence was due to reliance on information supplied by another person unless it was reasonable in all the circumstances to have relied on the information, having regard in particular to—
+
+- (a) the steps that P took, and those which might reasonably have been taken, for the purpose of verifying the information; and
+- (b) whether P had any reason to disbelieve the information.
+
+(5) In this regulation, “**third party allegation**” means an allegation that the commission of the offence was due to—
+
+- (a) the act or default of another person; or
+- (b) reliance on information supplied by another person.
+
+### 10. Liability of persons other than the principal offender
+
+(1) Where the commission by a person (“P”) of an offence under these Regulations is due to anything which another person (“S”) did or failed to do in the course of business, S is guilty of the offence and may be proceeded against and punished, whether or not proceedings are taken against P.
+
+(2) Where a body corporate commits an offence under these Regulations, a relevant person is also guilty of the offence where the offence was committed by the body corporate—
+
+- (a) with the consent or connivance of a relevant person; or
+- (b) as a result of the negligence of a relevant person.
+
+(3) In paragraph (2) a “**relevant person**” means —
+
+- (a) a director, manager, secretary or other similar officer of the body corporate;
+- (b) in relation to a body corporate managed by its members, a member of that body performing managerial functions;
+- (c) a partner in relation to a Scottish partnership; or
+- (d) a person purporting to act as a person described in subparagraphs (a), (b) or (c).
+
+### 11. Time limit for prosecution of offences
+
+(1) In England and Wales an information relating to an offence under these Regulations that is triable by a magistrates' court may be so tried if it is laid within 12 months after the date on which evidence sufficient in the opinion of the prosecutor to justify the proceedings comes to the knowledge of the prosecutor.
+
+(2) In Scotland—
+
+- (a) summary proceedings for an offence may only be commenced within 12 months after the date on which evidence sufficient in the Lord Advocate's opinion to justify the proceedings came to the Lord Advocate's knowledge, and
+- (b) section 136(3) of the Criminal Procedure (Scotland) Act 1995 [^c22926841] (time limit for certain offences) applies for the purpose of this paragraph as it applies for the purpose of that section.
+
+(3) In Northern Ireland summary proceedings for an offence may be instituted within 12 months after the date on which evidence sufficient in the opinion of the prosecutor to justify proceedings comes to the knowledge of the prosecutor.
+
+(4) No proceedings are to be brought more than three years after the commission of the offence.
+
+(5) For the purposes of this regulation a certificate of the prosecutor (or in Scotland, the Lord Advocate) as to the date on which such evidence as is referred to above came to their notice is conclusive evidence of that fact.
+
+(6) This regulation has effect subject to paragraph (1)(n) of Schedule 2 (enforcement powers of the Health and Safety Executive and the Office for Nuclear Regulation under the 1974 Act) and to paragraph (1)(n) of Schedule 3 (enforcement powers of the Health and Safety Executive for Northern Ireland under the 1978 Order).
+
+### 12. Written notice under Article 37 and service of documents
+
+(1) In a case falling within Article 37 (procedure at national level *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-814a242286169874b060a461696e5459] for dealing with appliances or fittings presenting a risk), a market surveillance authority must provide notice when requiring the relevant economic operator to, within a reasonable period—
+
+- (a) take appropriate corrective action;
+- (b) withdraw the appliance or fitting from the market in Northern Ireland *(Extent: N.I.)*[^key-c9ee99fc6a53eeb3d1f00cf379cece1e] ; or
+- (c) recall the appliance or fitting.
+
+(2) The notice given under paragraph (1) must—
+
+- (a) give reasons for the action required;
+- (b) provide a time limit for compliance; and
+- (c) be served in accordance with paragraphs (3) to (6).
+
+(3) Any document required or authorised by EU Regulation 2016/426 or these Regulations to be served on a person may be served by—
+
+- (i) delivering it to that person in person;
+- (ii) leaving it at the person's proper address; or
+- (iii) sending it by post or electronic means to that person's proper address.
+
+(4) In the case of a body corporate, a document may be served on a director of that body.
+
+(5) In the case of a partnership, a document may be served on a partner or person having control or management of the partnership business.
+
+(6) If a person has specified an address in the United Kingdom (other than that person's proper address) at which that person or someone on that person's behalf will accept service, that address must also be treated as that person's proper address.
+
+(7) For the purposes of this regulation “**proper address**” means—
+
+- (a) in the case of a body corporate or its director—
+  - (i) the registered or principal office of that body; or
+  - (ii) the email address of the secretary or clerk of that body;
+- (b) in the case of a partnership, a partner or person having control or management of the partnership business—
+  - (i) the principal office of the partnership; or
+  - (ii) the email address of a partner or a person having that control or management;
+- (c) in any other case, a person's last known address, which includes an email address.
+
+(8) In this regulation, “**partnership**” includes a Scottish partnership.
+
+### 13. Appeals against notices
+
+(1) An application for an order to vary or set aside the terms of a notice served under regulation 5 (enforcement powers) or 12 (Article 37 notices) may be made—
+
+- (a) by the economic operator on whom the notice has been served; and
+- (b) in the case of a notice other than a recall notice, by a person having an interest in the appliance or fitting in respect of which the notice has been served.
+
+(2) An application must be made before the end of the period of 21 days beginning with the day on which the notice was served.
+
+(3) The appropriate court may only make an order setting aside a notice served under regulation 5 or 12 if satisfied that—
+
+- (a) no contravention of EU Regulation 2016/426 or these Regulations has occurred; or
+- (b) the enforcement authority failed to comply with Article 13 (presumption of conformity of appliances and fittings) when serving the notice.
+
+(4) On an application to vary the terms of a notice, the appropriate court may vary the terms of the notice as it considers appropriate.
+
+(5) In this regulation—
+
+- (a) “the appropriate court” is to be determined in accordance with regulation 14; and
+- (b) “**notice**” means—
+  - (i) a notice served under regulation 12.
+  - (ii) a prohibition notice, a notice to warn or a suspension notice served in accordance with Schedule 1; or
+  - (iii) a compliance notice, a withdrawal notice, or a recall notice served in accordance with Schedule 4.
+
+### 14. Appropriate court for appeals against notices etc and further appeals
+
+(1) In England and Wales or Northern Ireland the appropriate court for the purposes of regulation 13 is—
+
+- (a) the court in which proceedings have been brought for an offence under regulation 7 (offences);
+- (b) an employment tribunal seized of appeal proceedings against a notice which relates to appliances or fittings and which has been served under or by virtue of paragraph 1 of Schedule 2;
+- (c) an industrial tribunal seized of appeal proceedings against a notice which relates to an appliances or fitting and which has been served under or by virtue of paragraph 1 of Schedule 3 (enforcement powers of the Health and Safety Executive for Northern Ireland under the 1978 Order); or
+- (d) in any other case, a magistrates' court in England and Wales or Northern Ireland.
+
+(2) In Scotland the appropriate court for the purposes of regulation 13 is—
+
+- (a) the sheriff of a sheriffdom in which the person making the appeal resides or, as the case may be, has a registered or principal office; or
+- (b) an employment tribunal seized of appeal proceedings against a notice which relates to an appliance or fitting an which has been served under or by virtue of paragraph 1 of Schedule 2.
+
+(3) A person aggrieved by an order made by a magistrates' court in England and Wales or Northern Ireland pursuant to an application under regulation 13, or by a decision of such a court not to make such an order, may appeal against that order or decision—
+
+- (a) in England and Wales, to the Crown Court;
+- (b) in Northern Ireland, to the county court.
+
+### 15. Compensation
+
+(1) When an enforcement authority other than the Health and Safety Executive, the Health and Safety Executive for Northern Ireland or the Office for Nuclear Regulation, serves a relevant notice in respect of an appliance or fitting, that authority is liable to pay compensation to a person having an interest in the appliance or fitting for any loss or damage caused by reason of the notice if both conditions mentioned in paragraph (2) are met.
+
+(2) The conditions are that—
+
+- (a) the appliance or fitting in respect of which the relevant notice was served neither—
+  - (i) presents a risk; nor
+  - (ii) contravenes any requirement of EU Regulation 2016/426; and
+- (b) any neglect or default on the part of the economic operator was not the reason for service of the relevant notice.
+
+(3) In this regulation, “**relevant notice**” means a suspension, withdrawal or recall notice as referred to in regulation 13(5)(b).
+
+### 16. Recovery of expenses of enforcement
+
+(1) This regulation applies where a person commits an offence under regulation 7 (offences).
+
+(2) The court may (in addition to any other order it may make as to costs or expenses) order the person to reimburse the enforcement authority for any expenditure which the authority has reasonably incurred in investigating the offence.
+
+### 17. Action by enforcement authority
+
+(1) An enforcement authority may itself take any action which an economic operator could have been required to take by a notice served under regulation 5 (enforcement powers) where the conditions for serving such a notice are met and either—
+
+- (a) the enforcement authority has been unable to identify any economic operator on whom to serve such a notice; or
+- (b) the economic operator on whom such a notice has been served has failed to comply with it.
+
+(2) If the enforcement authority has taken action under paragraph (1) following the failure of an economic operator to comply with a notice, the authority may recover from that person as a civil debt any costs or expenses incurred by the enforcement authority in taking the action.
+
+(3) A civil debt recoverable under paragraph (2) may be recovered summarily—
+
+- (a) in England and Wales, by way of a complaint pursuant to section 58 of the Magistrates' Courts Act 1980 [^c22926851];
+- (b) in Northern Ireland, in proceedings under Article 62 of the Magistrates' Court (Northern Ireland) Order 1981 [^c22926861].
+
+## PART 3 — Review and Consequential and Miscellaneous Amendments
+
+### 18. Review
+
+(1) The Secretary of State must—
+
+- (a) carry out a review of the regulatory provision contained in these Regulations; and
+- (b) publish a report setting out the conclusions of that review.
+
+(2) In carrying out the review the Secretary of State must, so far as is reasonable, have regard to how EU Regulation 2016/426 (which is enforced and supplemented by means of these Regulations) is executed and enforced in other *(Extent: N.I.)* *(affected by repeal, see note)*[^key-898f94a2d914687d0cb38b7667e77315] any *(Extent: N.I.)* member States.
+
+(3) The first report must be published before the end of the period of five years beginning with the day on which these Regulations come into force.
+
+(4) Subsequent reports under this regulation are to be published at intervals not exceeding five years.
+
+(5) Section 30(4) of Small Business, Enterprise and Employment Act 2015 [^c22926871] requires that the reports published under this regulation must, in particular—
+
+- (a) set out the objectives intended to be achieved by the regulatory provision referred to in paragraph (1)(a),
+- (b) assess the extent to which those objectives are achieved,
+- (c) assess whether those objectives remain appropriate, and
+- (d) if those objectives remain appropriate, assess the extent to which they could be achieved in another way which involves less onerous regulatory provision.
+
+(6) In this regulation, “**regulatory provision**” has the same meaning as in sections 28 to 32 of the 2015 Act (see section 32 of that Act).
+
+### 19. Consequential amendments
+
+Schedule 5 (consequential amendments) makes amendments to legislation which are consequential to these Regulations (subject to regulation 2(4)).
+
+### 20. Miscellaneous amendments
+
+Schedule 6 (miscellaneous amendments) makes amendments to the Lifts Regulations 2016 [^c22926881]; the Recreational Craft Regulations 2017 [^c22926891] and the Radio Equipment Regulations 2017 [^c22926901].
+
+## PART 4 — Provisions in respect of the UK(NI) indication[^key-288e902ba3e311c8538adbfe16db6f3f]
+
+*Extent: N.I.*
+
+### 21. Interpretation
+
+In this Part “**UK(NI) indication**” means the marking in the form set out in Schedule 1 to the Product Safety and Metrology etc. (Amendment etc.) (UK(NI) Indication) (EU Exit) Regulations 2020.
+
+### 22. UK(NI) indication
+
+(1) Where the CE marking is affixed on the basis of an assessment or a certificate issued by a notified body established in the United Kingdom, a UK(NI) indication must be affixed in relation to the appliance or fitting, in accordance with this regulation.
+
+(2) The UK(NI) indication must be affixed—
+
+- (a) visibly, legibly and indelibly; and
+- (b) before the appliance or fitting is placed on the market in Northern Ireland.
+
+(3) The UK(NI) indication must accompany the CE marking, wherever that is affixed in accordance with Article 17.
+
+(4) The UK(NI) indication must be affixed by—
+
+- (a) the manufacturer; or
+- (b) the manufacturer's authorised representative.
+
+(5) Before placing an appliance or fitting on the market in Northern Ireland, an importer must ensure that the manufacturer has complied with their obligations under this regulation.
+
+### 23. United Kingdom notified bodies
+
+(1) The reference in Article 27(5) to “**objections**” does not include objections on the grounds that—
+
+- (a) the conformity assessment body is established in the United Kingdom; or
+- (b) the accreditation certificate was issued by the United Kingdom's national accreditation body.
+
+(2) Where a notified body established in the United Kingdom is involved in a conformity assessment procedure pursuant to Article 14, the notified body identification number referred to in Article 17(3) is the notified body identification number assigned to the notified body pursuant to regulation 24.
+
+### 24. Register of notified bodies established in the United Kingdom
+
+(1) The Secretary of State must ensure that—
+
+- (a) each notified body established in the United Kingdom is assigned an identification number; and
+- (b) there is a register of—
+  - (i) notified bodies established in the United Kingdom;
+  - (ii) their notified body identification number;
+  - (iii) the activities for which they have been notified;
+  - (iv) any restrictions on those activities.
+
+(2) The Secretary of State must ensure that the register referred to in paragraph (1) is maintained and made publicly available.
+
+(3) The Secretary of State may authorise the United Kingdom Accreditation Service to compile and maintain the register in accordance with paragraph (1)(b).”.
+
+### 25. Offence in relation to the UK(NI) indication
+
+(1) Where an enforcement authority finds that the UK(NI) indication—
+
+- (a) has not been affixed, in contravention of regulation 22; or
+- (b) has been affixed otherwise in accordance with regulation 22
+
+it must require a manufacturer to put an end to the non-compliance within such reasonable period as the authority specifies.
+
+(2) Until the specified period has elapsed, the enforcement authority must not commence proceedings under these Regulations, or take any other enforcement action under these Regulations, against the manufacturer in respect of the non-compliance referred to in paragraph (1).
+
+(3) Where the non-compliance referred to in paragraph (1) persists beyond the specified period, the enforcement authority must take appropriate measures to—
+
+- (a) restrict or prohibit the appliance or fitting being available on the market;
+- (b) ensure that the appliance or fitting is withdrawn;
+- (c) ensure that the appliance or fitting is recalled.
+
+(4) It is an offence for any person to contravene or fail to comply with any requirement of a withdrawal or recall notice that relates to the UK(NI) indication served on that person under these Regulations.
+
+(5) A person guilty of an offence under paragraph (4) shall be liable on summary conviction to a fine not exceeding level 5 on the standard scale.
+
+(6) This regulation does not apply where an appliance or fitting presents a risk.
+
+Andrew Griffiths
+
+Minister for Small Business, Consumer and Corporate Responsibility
+
+Department for Business, Energy and Industrial Strategy
+
+## SCHEDULE 1 — Enforcement Powers of Weights and Measures Authorities, District Councils and the Secretary of State under the 1987 Act
+
+Regulation 5
+
+### 1. Enforcement powers under the 1987 Act
+
+For the purposes of enforcing EU Regulation 2016/426 and these Regulations, the following sections of the 1987 Act apply subject to the modifications in paragraph 2—
+
+- (a) section 13 (prohibition notices and notices to warn);
+- (b) section 14 (suspension notices);
+- (c) section 16 (forfeiture: England and Wales and Northern Ireland);
+- (d) section 17 (forfeiture Scotland);
+- (e) section 18 (power to obtain information);
+- (f) section 19 (interpretation of Part 2);
+- (g) section 29 (powers of search etc);
+- (h) section 30 (provisions supplemental to section 29);
+- (i) section 31 (powers of customs officer to detain goods);
+- (j) section 33 (appeals against detention of goods);
+- (k) section 34 (compensation for seizure and detention);
+- (l) section 35 (recovery of expenses of enforcement);
+- (m) section 37 (power of Commissioners for Revenue and Customs);
+- (n) section 45 (interpretation);
+- (o) section 46(1) (meaning of “supply”);
+- (p) Schedule 2 (prohibition notices and notices to warn).
+
+### 2. Modifications to the 1987 Act
+
+The sections of the 1987 Act referred to in paragraph 1 apply as if—
+
+- (a) in section 13—
+  - (i) in subsection (1), for “unsafe” on each occasion that it appears, there were substituted “ non-compliant ”;
+  - (ii) in subsection (1), “relevant” were omitted each time it appears;
+  - (iii) in subsection (2), the words from “; and the Secretary of State may” to the end were omitted;
+  - (iv) subsections (4) to (7) were omitted;
+- (b) in section 14—
+  - (i) in subsection (1), after “any safety provision has been contravened in relation to the goods”, there were inserted “ or that such goods present a risk ”;
+  - (ii) in subsection (2)(b), after “any safety provision has been contravened in relation to the goods”, there were inserted “ or that such goods present a risk ”;
+  - (iii) in subsection (2)(c), “under section 15 below” were omitted;
+  - (iv) subsections (6) to (8) were omitted;
+- (c) in section 16—
+  - (i) in subsection (1), after “a contravention in relation to the goods of a safety provision” there were inserted “ or that such goods present a risk ”;
+  - (ii) for subsection (2)(b) there were substituted—
+
+    > - (b) where an application with respect to some or all of the goods has been made to a magistrates court under regulation 13 (appeals against notices) of the 2018 Gas Regulations, or section 33, to that court; and
+
+    ;
+  - (iii) in subsection (3) after “a contravention in relation to the goods of a safety provision” there were inserted “ or that such goods present a risk ”;
+  - (iv) after subsection (4) there were inserted—
+
+    > (4A) A court may infer for the purposes of this section that any goods present a risk, if it is satisfied that such a risk is presented by goods which are representative of those goods (whether by reason of being of the same design or part of the same consignment or batch or otherwise).
+
+    ;
+- (d) in section 17—
+  - (i) in subsection (1), after “a contravention of a safety provision”, there were inserted “ or where the goods present a risk ”;
+  - (ii) in subsection (6), after “a contravention in relation to the goods of a safety provision”, there were inserted “ or that those goods present a risk ”;
+  - (iii) after subsection (7), there were inserted—
+
+    > (7A) The sheriff may infer for the purposes of this section that any goods present a risk, if satisfied that such a risk is presented by goods which are representative of those goods (whether by reason of being of the same design or part of the same consignment or batch or otherwise).
+
+    ;
+- (e) in section 18, subsections (3) and (4) were omitted;
+- (f) in section 29—
+  - (i) in subsection (4)(a), after “any contravention of any safety provision in relation to the goods” there were inserted “ or whether the goods present a risk ”;
+  - (ii) in subsection (4)(b), after “any such contravention” there were inserted “ or whether the goods present a risk ”;
+- (g) in section 30—
+  - (i) at the end of subsection (2)(a)(ii), for “and” there were substituted “ or ”;
+  - (ii) after subsection (2)(a)(ii), there were inserted—
+
+    > - (iii) that any goods which any officer has power to inspect under section 29(4) are on any premises and their inspection is likely to demonstrate that they present a risk; and
+
+    ; and
+  - (iii) subsections (5), (7) and (8) were omitted;
+- (h) in section 31(1), for “Part II of this Act”, there were substituted “ the 2018 Gas Regulations ”;
+- (i) in section 34—
+  - (i) the word “and” at the end of subsection (1)(a) were omitted; and
+  - (ii) after that subsection, there were inserted—
+
+    > - (aa) the goods do not present a risk; and
+
+    ;
+- (j) in section 37(1), for “Part II of this Act”, there were substituted “ the 2018 Gas Regulations ”;
+- (k) in section 45(1)—
+  - (i) the definitions of “conditional sale agreement”, “gas”, “motor vehicle”, “personal injury”, “subordinate legislation” and “substance” were omitted;
+  - (ii) before the definition of “aircraft”, there were inserted—
+
+    > “**the 2018 Gas Regulations**” means the Gas Appliances (Enforcement) and Miscellaneous Amendments Regulations 2018;
+
+    ;
+  - (iii) before the definition of enforcement authority there were inserted—
+
+    > “**economic operator**” has the same meaning as in EU Regulation 2016/426;
+
+    ;
+  - (iv) for the definition of “enforcement authority” there were substituted—
+
+    > “**enforcement authority**” means an enforcement authority as defined in regulation 4 of the 2018 Gas Regulations;
+
+    ;
+  - (v) after the definition of enforcement authority there were inserted—
+
+    > - “**EU Regulation 2016/426**” means Regulation (EU) No 2016/426 of the European Parliament and of the Council on appliances burning gaseous fuels, repealing Council Directive [2009/142/EC](https://www.legislation.gov.uk/european/directive/2009/0142), as amended from time to time;
+
+    ;
+  - (vi) for the definition of “goods” there were substituted—
+
+    > “**goods**” means appliances or fittings within the scope of EU Regulation 2016/426;
+
+    ;
+  - (vii) after the definition of “modifications” there were inserted—
+
+    > “**non-compliant**” in relation to any goods means that—
+    >
+    > - (a) a safety provision has been contravened in relation to the goods, or
+    > - (b) the goods present a risk,
+    >
+    > and “**compliant**” shall be construed accordingly;;
+
+    ;
+  - (viii) after the definition of “premises”, there were inserted—
+
+    > “**present a risk**” means a risk within the meaning set out in regulation 1(2) of the 2018 Gas Regulations;
+
+    ;
+  - (ix) for the definition of “safety provision” there were substituted—
+
+    > “**safety provision**” means any provision imposing an obligation on an economic operator in EU Regulation 2016/426;
+
+    ; and
+  - (x) for the definition of “safety regulations” there were substituted—
+
+    > “**safety regulations**” means EU Regulation 2016/426 and the 2018 Gas Regulations;
+
+    ;
+- (l) in section 46(1), the words “and, in relation to gas or water, those references shall be construed as including references to providing the service by which the gas or water is made available for use” were omitted and
+- (m) in Schedule 2—
+  - (i) for “unsafe”, on each occasion that it appears, there were substituted “ non-compliant ”; and
+  - (ii) for “safe” on each occasion that it appears, there were substituted “ compliant ”.
+
+## SCHEDULE 2 — Enforcement Powers of the Health and Safety Executive and the Office for Nuclear Regulation under the 1974 Act
+
+Regulation 5
+
+### 1. Enforcement powers under the 1974 Act
+
+For the purposes of enforcing EU Regulation 2016/426 and these Regulations, the following sections of the 1974 Act apply subject to the modifications in paragraph 2—
+
+- (a) section 19 (appointment of inspectors);
+- (b) section 20 (powers of inspectors);
+- (c) section 21 (improvement notices);
+- (d) section 22 (prohibition notices);
+- (e) section 23 (provisions supplementary to sections 21 and 22);
+- (f) section 24 (appeal against improvement or prohibition notice);
+- (g) section 25 (power to deal with cause of imminent danger);
+- (h) section 25A (power of customs office to detain articles and substances);
+- (i) section 26 (power of enforcing authorities to indemnify inspectors);
+- (j) section 27 (obtaining of information by the Executive, enforcing authorities etc);
+- (k) section 27A (information communicated by Commissioners for Revenue and Customs);
+- (l) section 28 (restrictions on disclosure of information);
+- (m) section 33 (offences);
+- (n) section 34 (extension of time for bringing summary proceedings);
+- (o) section 35 (venue);
+- (p) section 39 (prosecution by inspectors);
+- (q) section 41 (evidence); and
+- (r) section 42 (power of court to order cause of offence to be remedied, or in certain cases, forfeiture).
+
+### 2. Modifications to the 1974 Act
+
+The sections of the 1974 Act referred to in paragraph 1 apply as if—
+
+- (a) references to “relevant statutory provisions” were references to—
+  - (i) the provisions of the 1974 Act set out in paragraph 1, as modified by this paragraph; and
+  - (ii) these Regulations;
+- (b) references to “risk” were references to “**risk**” as defined in regulation 1(2) of these Regulations;
+- (c) in section 19—
+  - (i) in subsection (1)—
+    - (aa) for “Every enforcing authority” there were substituted “ The Health and Safety Executive and the Office for Nuclear Regulation ”;
+    - (bb) for references to “it” there were substituted “ they ”;
+    - (cc) for “thinks” there were substituted “ think ”;
+    - (dd) “within its field of responsibility” were omitted;
+  - (ii) in subsection (2), paragraph (b) were omitted;
+  - (iii) in subsection (3), for “enforcing authority which appointed him” there were substituted “ Health and Safety Executive or the Office for Nuclear Regulation as the case may be ”;
+- (d) in section 20—
+  - (i) in subsection (1), “within the field of responsibility of the enforcing authority which appointed him” were omitted;
+  - (ii) in subsection (2)(c)(i), for “his (the inspector's) enforcing authority” there were substituted “ the Health and Safety Executive or the Office for Nuclear Regulation as the case may be ”;
+  - (iii) in subsection (2)(h), for “him to have caused or to be likely to cause danger to health and safety”, there were substituted “ contravene the relevant statutory provisions or present a risk ”; and
+  - (iv) subsection (3) were omitted;
+- (e) in section 21—
+  - (i) before paragraph (a), there were inserted—
+
+    > - (za) is making available on the market appliances or fittings which present a risk;
+
+    ;
+  - (ii) after “specifying the”, there were inserted “ risk, or ”; and
+  - (iii) after “requiring that person to”, there were inserted “ address the risk or ”;
+- (f) for section 22(2) there were substituted—
+
+  > (2) An inspector may serve a notice (in this Part referred to as “**a prohibition notice**”) on a person if, as regards any activities to which this section applies, the inspector is of the opinion that, as carried on or likely to be carried on by or under the control of the person in question, the activities involve or, as the case may be, will involve—
+  >
+  > - (a) a risk; or
+  > - (b) a contravention of a relevant statutory provision.
+
+  ;
+- (g) in section 23, subsections (3), (4) and (6) were omitted;
+- (h) for section 25A(1) there were substituted—
+
+  > (1) A customs officer may, for the purposes of facilitating the exercise or performance by the Health and Safety Executive, the Office for Nuclear Regulation or an inspector (as the case may be), of any of their powers and duties under any of the relevant statutory provisions, seize any imported article or imported substance and retain it for not more than two working days.
+
+  ;
+- (i) for the heading to section 26, there were substituted “ Power to indemnify inspectors ”;
+- (j) in section 26, there were substituted “ the body ” for each of the following references—
+  - (i) “the enforcing authority”;
+  - (ii) “that authority”; and
+  - (iii) “the authority”;
+- (k) in section 27—
+  - (i) for “Executive”, on each occasion it appears, there were substituted “ Health and Safety Executive or the Office for Nuclear Regulation as the case may be ”;
+  - (ii) in subsection (1), paragraph (b) were omitted; and
+  - (iii) in subsection (1), “or, as the case may be to the enforcing authority in question” were omitted;
+- (l) for section 27A(2) there were substituted—
+
+  > (2) This subsection applies to the Health and Safety Executive, the Office for Nuclear Regulation and to an inspector.
+
+  ;
+- (m) in section 28—
+  - (i) for “Executive”, on each occasion that it appears, there were substituted “ Health and Safety Executive ”;
+  - (ii) in subsection (1)(a), “, other than the Office for Nuclear Regulation (or an inspector appointed by it,” and “, by virtue of section 43A(6) below” were omitted;
+  - (iii) in subsection (3)(a), “or any enforcing authority” were omitted;
+  - (iv) in subsection (4), “or an enforcing authority” and “or authority (including, in the case of an enforcing authority, any inspector appointed by it)” were omitted;
+  - (v) in subsection (5)(a), “or the purposes of the enforcing authority in question in connection with the relevant statutory provisions” were omitted;
+  - (vi) in subsection (7), “14(4)(a) or” were omitted;
+  - (vii) for subsection (7)(b), there were substituted—
+
+    > - (b) for the purposes of any legal proceedings or for the purposes of a report of any such proceedings,
+
+    ; and
+  - (viii) subsection (9B) were omitted;
+- (n) in section 33—
+  - (i) in subsection (1), paragraphs (a) to (i) and (k) to (m) were omitted;
+  - (ii) for subsection (2), there were substituted—
+
+    > (2) A person guilty of an offence under this section is liable—
+    >
+    > - (a) on summary conviction—
+    >   - (i) in England and Wales, to a fine or imprisonment for a term not exceeding three months, or to both;
+    >   - (ii) in Scotland, to a fine not exceeding the statutory maximum or imprisonment for a term not exceeding three months, or to both;
+    > - (b) on conviction on indictment to a fine or imprisonment for a term not exceeding two years , or to both.
+
+    ; and
+- (o) section 33(3) were omitted;
+- (p) in section 34—
+  - (i) in subsection (1), paragraphs (a) and (b) were omitted; and
+  - (ii) in subsection (1), for the words from “and it appears” to the end, there were substituted—
+
+    > and it appears from the investigation or, in a case falling within paragraph (d), from the proceedings at the inquiry, that any of the relevant statutory provisions was contravened at a time which is material in relation to the subject-matter of the investigation or inquiry, summary proceedings against any person liable to be proceeded against in respect of the contravention may be commenced at any time within three months of the conclusion of the investigation or inquiry.
+
+    ; and
+  - (iii) subsections (3) to (6) were omitted;
+- (q) in section 35, for “any enforcing authority”, there were substituted “ the Health and Safety Executive or the Office for Nuclear Regulation as the case may be ”;
+- (r) in section 39(1), for enforcing authority” there were substituted “ Health and Safety Executive or the Office for Nuclear Regulation as the case may be ”; and
+- (s) in section 42 , subsections (3A), (4) and (5) were omitted.
+
+## SCHEDULE 3 — Enforcement Powers of the Health and Safety Executive for Northern Ireland under the 1978 Order
+
+Regulation 5
+
+### 1. Enforcement Powers under the 1978 Order
+
+For the purposes of enforcing EU regulation 2016/426, these Regulations and RAMs (in its application to appliances and fittings) the following Articles of the 1978 Order apply subject to the modifications in paragraph 2—
+
+- (a) Article 21 (appointment of inspectors);
+- (b) Article 22 (powers of inspectors);
+- (c) Article 23 (improvement notices);
+- (d) Article 24 (prohibition notices);
+- (e) Article 25 (provisions supplementary to Articles 23 and 24);
+- (f) Article 26 (appeal against improvement or prohibition notice);
+- (g) Article 27 (power to deal with cause of imminent danger);
+- (h) Article 27A (power of customs officer to detain articles and substances);
+- (i) Article 28 (power of enforcing authorities to indemnify inspectors);
+- (j) Article 29 (obtaining of information by the Executive, enforcing authorities etc);
+- (k) Article 29A (information communicated by Commissioners for Revenue and Customs);
+- (l) Article 30 (restrictions on disclosure of information);
+- (m) Article 31 (offences);
+- (n) Article 32 (extension of time for bringing summary proceedings);
+- (o) Article 33 (venue);
+- (p) Article 36 (prosecution by inspectors);
+- (q) Article 38 (evidence);
+- (r) Article 39 (power of court to order cause of offence to be remedied or, in certain cases, forfeiture).
+
+### 2. Modifications to the 1978 Order
+
+The Articles of the 1978 Order referred to in paragraph 1 apply as if—
+
+- (a) references to “relevant statutory provisions” were references to—
+  - (i) the provisions of the 1978 Order set out in paragraph 1, as modified by this paragraph; and
+  - (ii) these Regulations;
+- (b) references to “risk” were references to “risk” within the meaning of regulation 1(2) of these Regulations;
+- (c) in Article 21—
+  - (i) in paragraph (1), for “Every enforcing authority” there were substituted “ The Health and Safety Executive for Northern Ireland ”;
+  - (ii) in paragraph (1) “within its field of responsibility” were omitted;
+  - (iii) in paragraph (2), sub-paragraph (b) were omitted;
+  - (iv) in paragraph (3), for “enforcing authority which appointed him” there were substituted “ Health and Safety Executive for Northern Ireland ”;
+- (d) in Article 22—
+  - (i) in paragraph (1), “within the field of responsibility of the enforcing authority which appointed him” were omitted;
+  - (ii) in paragraph 2(c)(i), for “his (the inspector's) enforcing authority” there were substituted “ the Health and Safety Executive for Northern Ireland ”;
+  - (iii) in paragraph 2(2)(h), for “him to have caused or to be likely to cause danger to health and safety”, there were substituted “ contravene the relevant statutory provisions or present a risk ”; and
+  - (iv) paragraph (3) were omitted;
+- (e) in Article 23—
+  - (i) before paragraph (a), there were inserted—
+
+    > - (za) is making available on the market appliances or fittings which present a risk;
+
+    ;
+  - (ii) after “specifying the”, there were inserted “ risk or ”; and
+  - (iii) after “requiring that person to”, there were inserted “ address the risk or ”;
+- (f) for Article 24(2) and (3) there were substituted—
+
+  > (2) An inspector may serve a notice (in this Part referred to as a prohibition notice”) on a person if, as regards any activities to which this paragraph applies, the inspector is of the opinion that, as carried on or likely to be carried on by or under the control of the person in question, the activities involve or, as the case may be, will involve—
+  >
+  > - (a) a risk; or
+  > - (b) the contravention of a relevant statutory provision.
+  >
+  > (3) A prohibition notice must—
+  >
+  > - (a) state that the inspector is of the said opinion;
+  > - (b) specify the matters which in his opinion give, or as they case may be, will give rise to the said risk;
+  > - (c) where in his opinion any of those matters involves or, as the case may be, will involve a contravention of any of the relevant statutory provisions, state that he is of the opinion, specify the provision or provisions as to which he is of that opinion, and give particulars of the reasons why he is of that opinion; and
+  > - (d) direct that the activities to which the notice relates must not be carried on by or under the control of the person on whom the notice is served unless the matters specified in pursuance of sub-paragraph (b) and any associated contraventions of provisions so specified in pursuance of sub-paragraph (c) have been remedied.
+
+  ;
+- (g) in Article 25, paragraphs (3), (4) and (5) were omitted;
+- (h) in Articles 27A(1), for “any enforcing authority” and “the authority” there were substituted “ the Health and Safety Executive for Northern Ireland ”;
+- (i) for the heading to Article 28, there were substituted “ Power to indemnify inspectors ”;
+- (j) in Article 28, for “the enforcing authority which appointed him”, “that authority” and “the authority” there were, in each case, substituted “ the Health and Safety Executive for Northern Ireland ”;
+- (k) in Article 29—
+  - (i) in paragraph (1)(b), for “an enforcing authority” there were substituted “ the Health and Safety Executive for Northern Ireland ” and for “the Authority's functions” there were substituted “ its functions ”;
+  - (ii) “the department concerned, or” were omitted;
+  - (iii) for “the Executive”, in each case it appears, there were substituted “ the Health and Safety Executive for Northern Ireland ”;
+  - (iv) “or, as the case may be, to the enforcing authority in question” were omitted;
+- (l) in Article 29A(2) for “an enforcing authority” there were substituted “ the Health and Safety Executive for Northern Ireland ”;
+- (m) in Article 30 —
+  - (i) for “Executive”, on each occasion that it appears, there were substituted “ Health and Safety Executive for Northern Ireland ”;
+  - (ii) in paragraph (3), “or any enforcing authority” were omitted;
+  - (iii) in paragraph (4), “or an enforcing authority” and “or authority (including in the case of an enforcing authority, any inspector appointed by it)” were omitted;
+  - (iv) in paragraph (5), “or the purposes of the enforcing authority in question in connection with the relevant statutory provisions” were omitted;
+  - (v) in paragraph (6), “16(4)(a) or” were omitted;
+  - (vi) for paragraph (6)(b), there were substituted—
+
+    > - (b) for the purposes of any legal proceedings or for the purposes of a report of any such proceedings;
+
+    ; and
+- (n) in Article 31—
+  - (i) in paragraph (1), sub-paragraphs (a) to (i) and (k) to (m) were omitted;
+  - (ii) for paragraph (2), there were substituted—
+
+    > (2) A person guilty of an offence under this Article is liable—
+    >
+    > - (a) on summary conviction, to a fine not exceeding the statutory maximum or imprisonment for a term not exceeding three months, or to both;
+    > - (b) on conviction on indictment, to a fine or imprisonment for a term not exceeding two years or to both.
+
+    ; and
+  - (iii) Article 31(3) were omitted;
+- (o) in Article 32—
+  - (i) in paragraph (1), sub-paragraphs (a) and (b) were omitted;
+  - (ii) in paragraph (1), for the words from “and it appears” to the end, there were substituted “ and it appears from the proceedings at the inquest that any of the relevant statutory provisions was contravened at a time which is material in relation to the subject-matter of the inquest, summary proceedings against any person liable to be proceeded against in respect of the contravention may be commenced at any time within three months of the conclusion of the inquest. ”; and
+  - (iii) paragraphs (3) and (4) were omitted;
+- (p) in Article 33, for “any enforcing authority” there were substituted “ Health and Safety Executive for Northern Ireland ”;
+- (q) in Article 36, for “ enforcing authority” there were substituted “ Health and Safety Executive for Northern Ireland ”; and
+- (r) in Article 39, paragraphs (3A), (4) and (5) were omitted.
+
+## SCHEDULE 4 — Compliance, Withdrawal and Recall Notices
+
+Regulation 5
+
+### 1. Compliance notice
+
+(1) An enforcement authority may serve a compliance notice on a relevant economic operator in respect of an appliance or fitting if the authority has reasonable grounds for believing that there is non-compliance with the requirements or obligations in EU Regulation 2016/426.
+
+(2) A compliance notice must—
+
+- (a) require the relevant economic operator on which it is served to—
+  - (i) end the non-compliance within such period as may be specified in the notice; or
+  - (ii) provide evidence, within such period as may be specified in the notice, demonstrating to the satisfaction of the enforcement authority that the non-compliance has not in fact occurred;
+- (b) warn the relevant economic operator that, if the non-compliance persists or if satisfactory evidence has not been produced under paragraph (a) within the period specified in the notice, further action may be taken in respect of the appliance or fitting or any appliance or fitting of the same type made available on the market by that relevant economic operator.
+
+(3) A compliance notice may include directions as to the measures to be taken by the relevant economic operator to secure compliance, including different ways of securing compliance.
+
+(4) Subject to sub-paragraph (5), an enforcement authority may revoke or vary a compliance notice by serving a notification on the economic operator.
+
+(5) An enforcement authority may not vary a compliance notice so as to make it more restrictive for the relevant economic operator or more onerous for the economic operator to comply.
+
+### 2. Withdrawal notice
+
+(1) An enforcement authority may serve a withdrawal notice on a relevant economic operator in respect of an appliance or fitting if the authority has reasonable grounds for believing that—
+
+- (a) the appliance or fitting has been made available on the market; and
+- (b) either of the following conditions are met—
+  - (i) the appliance or fitting presents a risk; or
+  - (ii) the appliance or fitting is not in conformity with the requirements of EU Regulation 2016/426 or RAMS (in its application to appliances or fittings).
+
+(2) A withdrawal notice must prohibit the relevant economic operator from making the appliance or fitting available on the market without the consent of the enforcement authority.
+
+(3) A withdrawal notice may require the relevant economic operator to take action to alert end-users to any risk presented by the appliance or fitting.
+
+(4) A withdrawal notice may require the relevant economic operator to keep the enforcement authority informed of the whereabouts of any appliance or fitting referred to in the notice.
+
+(5) A consent given by the enforcement authority pursuant to a withdrawal notice may impose such conditions on the making available on the market as the authority considers appropriate.
+
+### 3. Recall notice
+
+(1) The enforcement authority may serve a recall notice on a relevant economic operator in respect of an appliance or fitting if the authority has reasonable grounds for believing that—
+
+- (a) the appliance or fitting has been made available to end-users; and
+- (b) either of the following conditions is met—
+  - (i) the appliance or fitting presents a risk;
+  - (ii) the appliance or fitting is not in conformity with the requirements of EU Regulation 2016/426 or RAMS (in its application to appliances or fittings).
+
+(2) A recall notice must require the relevant economic operator to use reasonable endeavours to organise the return of the appliance or fitting from end-users to the relevant economic operator or another person specified in the notice.
+
+(3) A recall notice may—
+
+- (a) require the recall to be effected in accordance with a code of practice;
+- (b) require the relevant economic operator to—
+  - (i) contact end-users in order to inform them of the recall, to the extent that it is practicable to do so;
+  - (ii) publish a notice in such form and such manner as is likely to bring to attention of end-users any risk the appliance or fitting poses and the fact of recall;
+  - (iii) make arrangements for the collection or return of the appliance or fitting from end-users or its disposal;
+  - (iv) impose such additional requirements on the relevant economic operator as are reasonable and practicable with a view to achieving the return of the appliance or fitting.
+
+(4) In determining what requirements to include in a recall notice, the enforcement authority must take into consideration the need to encourage distributors and end-users to contribute to its implementation.
+
+(5) A recall notice may only be issued by the enforcement authority where—
+
+- (a) other action which it may require under these Regulations would not suffice to address the non-compliance;
+- (b) the action being undertaken by the relevant economic operator in fulfilment of the requirements of EU Regulation 2016/426 is unsatisfactory or insufficient to address the non-compliance;
+- (c) the enforcement authority has given not less than ten days' notice to the relevant economic operator of its intention to serve such a notice; and
+- (d) the enforcement authority has taken account of any advice obtained under sub-paragraph (6).
+
+(6) A relevant economic operator which has received notice from the enforcement authority of an intention to serve a recall notice may at any time prior to the service of the recall notice require the authority to seek the advice of such person as the Institute determines on questions of—
+
+- (a) whether there is non-compliance; and
+- (b) whether the issue of a recall notice would be proportionate.
+
+(7) Sub-paragraph (5)(b), (c) and (d) do not apply in the case of an appliance or fitting presenting a serious risk requiring, in the view of the enforcement authority, urgent action.
+
+(8) Where a relevant economic operator requires the enforcement authority to seek advice under sub-paragraph (6), that relevant economic operator is to be responsible for the fees, costs and expenses of the Institute and of the person appointed by the Institute to advise the enforcement authority.
+
+(9) A recall notice served by the enforcement authority may require the relevant economic operator to keep the authority informed of the whereabouts of an appliance or fitting to which the recall notice relates, so far as the relevant economic operator is able to do so.
+
+(10) In this paragraph, “**Institute**” means the charitable organisation with registered number 803725 and known as the Chartered Institute of Arbitrators.
+
+### 4. Interpretation
+
+In this Schedule “**non-compliance**” means that an appliance or fitting—
+
+- (a) presents a risk; or
+- (b) is not in conformity with the requirements of EU Regulation 2016/426 or RAMS (in its application to appliances or fittings).
+
+## SCHEDULE 5 — Consequential Amendments
+
+Regulation 19
+
+### 1. Amendment of the Legislative and Regulatory Reform (Regulatory Functions) Order 2007
+
+The Schedule to the Legislative and Regulatory Reform (Regulatory Functions) Order 2007 [^c22926911] is amended as follows—
+
+- (a) in Part 3, under the heading “Public health and safety”, omit “Gas Appliances (Safety) Regulations 1995” and in the appropriate place insert “ Gas Appliances (Enforcement) and Miscellaneous Amendments Regulations 2018 ”;
+- (b) in Part 8, omit “Gas Appliances (Safety) Regulations 1995” and in the appropriate place insert “ Gas Appliances (Enforcement) and Miscellaneous Amendments Regulations 2018 ”; and
+- (c) in Part 13, omit “Gas Appliances (Safety) Regulations 1995” and in the appropriate place insert “ Gas Appliances (Enforcement) and Miscellaneous Amendments Regulations 2018 ”.
+
+### 2. Amendment of the Co-ordination of Regulatory Enforcement (Regulatory Functions in Scotland and Northern Ireland) Order 2009
+
+The Co-ordination of Regulatory Enforcement (Regulatory Functions in Scotland and Northern Ireland) Order 2009 [^c22926921]is amended as follows—
+
+- (a) in Part 4 of Schedule 1, omit “Gas Appliances (Safety) Regulations 1995” and in the appropriate place insert “ Gas Appliances (Enforcement) and Miscellaneous Amendments Regulations 2018 ”; and
+- (b) in Part 2 of Schedule 2, omit “Gas Appliances (Safety) Regulations 1995” and in the appropriate place insert “ Gas Appliances (Enforcement) and Miscellaneous Amendments Regulations 2018 ”.
+
+## SCHEDULE 6 — Miscellaneous Amendments
+
+Regulation 20
+
+### 1. Amendment of the Lifts Regulations 2016
+
+The Lifts Regulations 2016 [^c22926931] are amended in accordance with paragraphs 2 to 10.
+
+### 2. Amendment of regulation 2 (interpretation)
+
+In regulation 2, in paragraph (1) for the definition of “relevant conformity assessment procedure” substitute—
+
+> “**relevant conformity assessment procedure**” means—
+>
+> - (a) in relation to lifts, a conformity assessment procedure referred to in regulation 47 (conformity assessment procedures for lifts); and
+> - (b) in relation to safety components for lifts, a conformity assessment procedure referred to in regulation 48 (conformity assessment procedures for safety components for lifts);
+
+.
+
+### 3. Amendment of regulation 10 (labelling and instructions)
+
+In regulation 10, in paragraph (1)(b) for “point 6.2 of Annex 1 to the Directive (as amended from time to time)” substitute “ paragraph 7(2) of Schedule 1 ”.
+
+### 4. Amendment of regulation 19 (labelling and instructions)
+
+In regulation 19, in paragraph (1)(b) for “point 6.1 of Annex 1 to the Directive (as amended from time to time)” substitute “ paragraph 7(1) of Schedule 1 ”.
+
+### 5. Amendment of regulation 29 (instructions)
+
+In regulation 29, in paragraph (1) for “point 6.1 of Annex 1 to the Directive (as amended from time to time)” substitute “ paragraph 7 (1) of Schedule 1 ”.
+
+### 6. Amendment of regulation 37 (requirements which must be satisfied before a distributor makes safety component for lifts available on the market)
+
+In regulation 37, in paragraph (1)(a)(iii) for “point 6.1 of Annex 1 to the Directive (as amended from time to time)” substitute “ paragraph 7(1) of Schedule 1 ”.
+
+### 7. Amendment of regulation 47 (conformity assessment procedure for lifts)
+
+In regulation 47, in paragraph (4) for “procedure in paragraph 9(1)(a)” substitute “ any of the procedures in paragraph (1) ”.
+
+### 8. Amendment of Schedule 1 (essential health and safety requirements)
+
+In Schedule 1—
+
+- (a) in paragraph 2 (general)—
+  - (i) in sub-paragraph (2) (application of Directive [2006/42/EC](https://www.legislation.gov.uk/european/directive/2006/0042)) for “this Annex” substitute “ this Schedule ”;
+  - (ii) in sub-paragraph (9) for “These requirements” substitute “ The requirement of sub-paragraph (8) ”;
+- (b) in paragraph 4 (risks for persons in the car)—
+  - (i) in sub-paragraph (1) for “the third sub-paragraph of point 2.3” substitute “ paragraph 3 (7) ”;
+  - (ii) in sub-paragraph (7) for “point 2.2” substitute “ paragraph 3(3) ”;
+  - (iii) in sub-paragraph (8) for “point 2.2” substitute “ paragraph 3(3) ”;
+  - (iv) in sub-paragraph (9) for “point 3.2” substitute “ sub-paragraphs (3) to (5) ”;
+- (c) in paragraph 5 (other risks), in sub-paragraph (9)—
+  - (i) for “point 4.5” substitute “ sub-paragraph (5) ”;
+  - (ii) for point “4.8” substitute “ sub-paragraph (8) ”;
+- (d) in paragraph 7 (instructions), in sub-paragraph (2)(a) for “point 4.4” substitute “ paragraph 5 (4) ”.
+
+### 9. Amendment of Schedule 3 (list of safety components referred to in Article 1(1) of the Directive)
+
+In Schedule 3, in paragraph 2 for “point 3.2” substitute “ paragraph 4, sub-paragraphs (3) to (5) ”.
+
+### 10. Amendment of Schedule 5 (EU declaration of conformity)
+
+In Part 1 of Schedule 5 (EU declaration of conformity for lifts)—
+
+- (a) in paragraph 1 for “point 6.2 ” substitute “ paragraph 7(2) ”;
+- (b) in paragraph 1(f) for “the Directive” substitute “ the relevant Union harmonisation legislation ”.
+
+### 11. Amendment of the Recreational Craft Regulations 2017
+
+(1) The Recreational Craft Regulations 2017 [^c22926941] are amended as follows.
+
+(2) In regulation 14 (duty to provide information), for paragraph (2) substitute—
+
+> (2) Where it is not possible to provide the information referred to in paragraph (1) on the product, the manufacturer must ensure that the information is provided—
+>
+> - (a) on the packaging; or
+> - (b) in a document accompanying the product.
+
+.
+
+(3) In regulation 29 (duty not to place a product on the market where a distributor suspects that it is not in conformity)—
+
+- (a) in the heading for “place” substitute “ make available ”; and
+- (b) in paragraph (1) for “place the product” substitute “ make the product available ”.
+
+(4) In regulation 32, in paragraph (3) omit “placed”.
+
+(5) In regulation 73, for sub-paragraph (1)(d) substitute—
+
+> - (d) regulations 18 to 25;
+
+.
+
+### 12. Amendment of the Radio Equipment Regulations 2017
+
+(1) The Radio Equipment Regulations 2017 [^c22926951] are amended as follows.
+
+(2) In regulation 66 (penalties), in paragraph (2) for “regulations 11, 16, 28 and 35” substitute “ regulations 11, 16, 28, 29 and 35 ”.
+
+*(This note is not part of the Regulations)*
+
+These Regulations provide for the enforcement of Regulation (EU) 2016/426 of the European Parliament and of the Council of 9 March 2016 on appliances burning gaseous fuels (OJ No L81, 31.3.2016, p99) (“EU Regulation 2016/426”).
+
+EU Regulation 2016/426 repeals and replaces Council Directive [2009/142/EC](https://www.legislation.gov.uk/european/directive/2009/0142) of 30 November 2009 relating to appliances burning gaseous fuels (OJ No L330, 16.12.2009, p10); which was implemented in the United Kingdom by the Gas Appliances (Safety) Regulations 1995 (S.I. 1995/1629) (as amended)). These Regulations revoke SI 1995/1629 with savings (see regulation 2).
+
+Regulation 3 designates market surveillance authorities for the purposes of EU Regulation 2016/426, and these Regulations.
+
+Regulations 4, 5 and Schedules 1 to 4 provide for enforcement authorities and their powers of enforcement. Offences and penalties are set out in regulations 7 and 8. The remainder of Part 2 provisions deal with related enforcement and procedural issues such as defences, liability of third parties, time limits, service of documents, appeals and compensation, etc.
+
+Regulation 18 sets out a process for the Secretary of State to review the regulatory provision contained within these Regulations and publish a report setting out the conclusions of that review. The first such report must be published within five years after the coming into force date of this instrument and subsequent reviews must be carried out every five years after that.
+
+Schedule 5 contains amendments to other legislation which are consequential to these Regulations.
+
+Schedule 6 contains minor amendments to the Lifts Regulations 2016 (S.I. 2016/1093), the Recreational Craft Regulations 2017 (S.I. 2017/737) and the Radio Equipment Regulations 2017 (S.I. 2017/1206).
+
+A Transposition Note is published with the Explanatory Memorandum alongside these Regulations on www.legislation.gov.uk.
+
+The EU Regulations referred to above are published at http://eur-lex.europa.eu.
+
+## Annotations
+
+[^c22926691]: Marginal citation: [S.I. 1991/755](https://www.legislation.gov.uk/uksi/1991/755). See article 2 of, and the Schedule to this Order.
+
+[^c22926701]: Marginal citation: [1972 c.68](https://www.legislation.gov.uk/ukpga/1972/68). Section 2(2) was amended by section 27(1)(a) of the [Legislative and Regulatory Reform Act 2006 (c.51)](https://www.legislation.gov.uk/ukpga/2006/51) and by Part 1 of the Schedule to the [European Union (Amendment) Act 2008 (c.7)](https://www.legislation.gov.uk/ukpga/2008/7). The enabling powers of section 2(2) were extended by virtue of the amendment of section 1(2) by section 1 of the [European Economic Area Act 1993 (c.51)](https://www.legislation.gov.uk/ukpga/1993/51).
+
+[^c22926711]: Marginal citation: [Paragraph 1A](https://www.legislation.gov.uk/uksi/2018/389/paragraph/1A) of Schedule 2 was inserted by section 28 of the Legislative and Regulatory Reform Act 2006 and amended by Part 1 of the Schedule to the European Union (Amendment) Act 2008.
+
+[^c22926721]: Marginal citation: [1974 c.37](https://www.legislation.gov.uk/ukpga/1974/37).
+
+[^c22926731]: Marginal citation: [S.I. 1978/1039 (N.I. 9)](https://www.legislation.gov.uk/nisi/1978/1039).
+
+[^c22926741]: Marginal citation: [1987 c.43](https://www.legislation.gov.uk/ukpga/1987/43).
+
+[^c22926751]: Marginal citation: [S.I. 1995/1629](https://www.legislation.gov.uk/uksi/1995/1629) as amended by [S.I. 2012/1815](https://www.legislation.gov.uk/uksi/2012/1815) and the Protection of Freedoms Act 2012, Schedule 2, Part 3 and Schedule 10, Part 2.
+
+[^c22926761]: Marginal citation: 1972 Chapter 9.
+
+[^c22926771]: Marginal citation: OJ No L81, 31.3.2016, p.99.
+
+[^c22926781]: Marginal citation: OJ No L330, 16.12.2009, p.10.
+
+[^key-4843ee128a7e630a830b61bb0eddbb42]: Textual amendment: Words in reg. 1(2) inserted (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [Sch. 36 para. 1(2)(a)](https://www.legislation.gov.uk/uksi/2019/696/schedule/36/paragraph/1/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1) (as amended by [S.I. 2020/852](https://www.legislation.gov.uk/uksi/2020/852), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/852/regulation/2/2), [4(2)](https://www.legislation.gov.uk/uksi/2020/852/regulation/4/2), [Sch. 1 para. 1(i)(v)](https://www.legislation.gov.uk/uksi/2020/852/schedule/1/paragraph/1/i/v))
+
+[^c22926791]: Marginal citation: OJ No L 218, 13.8.2008, p.30.
+
+[^c22926801]: Marginal citation: [1985 c.72](https://www.legislation.gov.uk/ukpga/1985/72); [section 69](https://www.legislation.gov.uk/uksi/2018/389/section/69) was amended by the [Local Government (Wales) Act 1994 (c.19)](https://www.legislation.gov.uk/ukpga/1994/19), [section 66](https://www.legislation.gov.uk/ukpga/1994/19/section/66) and Schedule 16, paragraph 75; the [Local Government etc. (Scotland) Act 1994 (c.39)](https://www.legislation.gov.uk/ukpga/1994/39), [section 180](https://www.legislation.gov.uk/ukpga/1994/39/section/180) and Schedule 13, paragraph 144; and the [Statute Law (Repeals) Act 1989 (c.43)](https://www.legislation.gov.uk/ukpga/1989/43) Schedule 1, Part 1.
+
+[^key-76dd2115e327668ff7e71028f227aab9]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/uksi/2018/389/regulation/1/3) inserted (E.W.S.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 36 para. 1(2)(b)(i)](https://www.legislation.gov.uk/uksi/2019/696/schedule/36/paragraph/1/2/b/i) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2), [3](https://www.legislation.gov.uk/uksi/2020/676/regulation/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-e93caf95de8e3405724e8ec6cd501d42]: Textual amendment: Words in [reg. 1(3)(a)](https://www.legislation.gov.uk/uksi/2018/389/regulation/1/3/a) omitted (E.W.S.) (31.12.2020) by virtue of [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 36 para. 1(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2019/696/schedule/36/paragraph/1/2/b/ii) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2), [3](https://www.legislation.gov.uk/uksi/2020/676/regulation/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-c53ea0ebe2cbe48db6be030a3296952e]: Textual amendment: Word in [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/2018/389/regulation/1/3/b) inserted (E.W.S.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 36 para. 1(2)(b)(iii)](https://www.legislation.gov.uk/uksi/2019/696/schedule/36/paragraph/1/2/b/iii) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2), [3](https://www.legislation.gov.uk/uksi/2020/676/regulation/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-beb6f303a395f624be28a1341abab1fe]: Textual amendment: Words in [reg. 1(4)](https://www.legislation.gov.uk/uksi/2018/389/regulation/1/4) inserted (E.W.S.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 36 para. 1(2)(c)](https://www.legislation.gov.uk/uksi/2019/696/schedule/36/paragraph/1/2/c) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2), [3](https://www.legislation.gov.uk/uksi/2020/676/regulation/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-37e55ab4135453ecf5228b17dfcedfc7]: Textual amendment: Words in [reg. 2(4)](https://www.legislation.gov.uk/uksi/2018/389/regulation/2/4) substituted (E.W.S.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 36 para. 1(3)(a)](https://www.legislation.gov.uk/uksi/2019/696/schedule/36/paragraph/1/3/a) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2), [3](https://www.legislation.gov.uk/uksi/2020/676/regulation/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-bdd6dc193ffa61f9689a008571dd5f1e]: Textual amendment: [Reg. 2(4A)](https://www.legislation.gov.uk/uksi/2018/389/regulation/2/4A) inserted (E.W.S.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 36 para. 1(3)(b)](https://www.legislation.gov.uk/uksi/2019/696/schedule/36/paragraph/1/3/b) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2), [3](https://www.legislation.gov.uk/uksi/2020/676/regulation/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-96dd6f74db94f8010219054390833a1d]: Textual amendment: Regs. 2A-2D inserted (E.W.S.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 36 para. 1(4)](https://www.legislation.gov.uk/uksi/2019/696/schedule/36/paragraph/1/4) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2), [3](https://www.legislation.gov.uk/uksi/2020/676/regulation/3) and by [S.I. 2020/1460](https://www.legislation.gov.uk/uksi/2020/1460), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1460/regulation/1/4), [Sch. 3 para. 25(2)](https://www.legislation.gov.uk/uksi/2020/1460/schedule/3/paragraph/25/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-c3ca50c19bf5b9b0e9022d6d4074d915]: Textual amendment: Reg. 2C substituted (1.10.2024) by [The Product Safety and Metrology etc. (Amendment) Regulations 2024 (S.I. 2024/696)](https://www.legislation.gov.uk/uksi/2024/696), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/696/regulation/1/2), [22(2)](https://www.legislation.gov.uk/uksi/2024/696/regulation/22/2) (with [reg. 23](https://www.legislation.gov.uk/uksi/2024/696/regulation/23))
+
+[^c22926811]: Marginal citation: [2013 c.32](https://www.legislation.gov.uk/ukpga/2013/32).
+
+[^c22926821]: Marginal citation: [S.I. 1998/494](https://www.legislation.gov.uk/uksi/1998/494) amended by [S.I. 2014/469](https://www.legislation.gov.uk/uksi/2014/469). There are other amendments not relevant to these Regulations.
+
+[^c22926831]: Marginal citation: [Regulation 2A](https://www.legislation.gov.uk/uksi/2018/389/regulation/2A) was inserted by [S.I. 2014/469](https://www.legislation.gov.uk/uksi/2014/469) and amended by [S.I. 2015/51](https://www.legislation.gov.uk/uksi/2015/51) (regulation 38, Schedule 5).
+
+[^key-a7aebe73ada2da755181cc8d2e6983e8]: Textual amendment: Words in [reg. 6](https://www.legislation.gov.uk/uksi/2018/389/regulation/6) substituted (E.W.S.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 36 para. 1(5)](https://www.legislation.gov.uk/uksi/2019/696/schedule/36/paragraph/1/5) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2), [3](https://www.legislation.gov.uk/uksi/2020/676/regulation/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-e895a3d4a0c8dd4cdbf18a6d3177a58e]: Textual amendment: Word in [reg. 6](https://www.legislation.gov.uk/uksi/2018/389/regulation/6) omitted (N.I.) (31.12.2020) by virtue of [The Product Safety and Metrology etc. (Amendment) (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1112)](https://www.legislation.gov.uk/uksi/2020/1112), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/1112/regulation/1/b), [Sch. 18 para. 1(2)](https://www.legislation.gov.uk/uksi/2020/1112/schedule/18/paragraph/1/2)
+
+[^key-681301ea4866da2b737fd723a5d01ea6]: Textual amendment: [Reg. 6A](https://www.legislation.gov.uk/uksi/2018/389/regulation/6A) inserted (N.I.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment) (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1112)](https://www.legislation.gov.uk/uksi/2020/1112), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/1112/regulation/1/b), [Sch. 18 para. 1(3)](https://www.legislation.gov.uk/uksi/2020/1112/schedule/18/paragraph/1/3)
+
+[^key-5d632f96c82bc2072854f39af55ad40e]: Textual amendment: Word in [reg. 7(1)(e)](https://www.legislation.gov.uk/uksi/2018/389/regulation/7/1/e) substituted (E.W.S.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 36 para. 1(6)](https://www.legislation.gov.uk/uksi/2019/696/schedule/36/paragraph/1/6) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2), [3](https://www.legislation.gov.uk/uksi/2020/676/regulation/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-b0348f99df1398c663c6408ac573a2dc]: Textual amendment: Word in [reg. 8(3)](https://www.legislation.gov.uk/uksi/2018/389/regulation/8/3) omitted (E.W.S.) (31.12.2020) by virtue of [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 36 para. 1(7)](https://www.legislation.gov.uk/uksi/2019/696/schedule/36/paragraph/1/7) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2), [3](https://www.legislation.gov.uk/uksi/2020/676/regulation/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c22926841]: Marginal citation: [1995 c.46](https://www.legislation.gov.uk/ukpga/1995/46).
+
+[^key-814a242286169874b060a461696e5459]: Textual amendment: Words in [reg. 12(1)](https://www.legislation.gov.uk/uksi/2018/389/regulation/12/1) omitted (E.W.S.) (31.12.2020) by virtue of [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 36 para. 1(8)](https://www.legislation.gov.uk/uksi/2019/696/schedule/36/paragraph/1/8) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2), [3](https://www.legislation.gov.uk/uksi/2020/676/regulation/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-c9ee99fc6a53eeb3d1f00cf379cece1e]: Textual amendment: Words in [reg. 12(1)(b)](https://www.legislation.gov.uk/uksi/2018/389/regulation/12/1/b) inserted (N.I.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment) (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1112)](https://www.legislation.gov.uk/uksi/2020/1112), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/1112/regulation/1/b), [Sch. 18 para. 1(4)](https://www.legislation.gov.uk/uksi/2020/1112/schedule/18/paragraph/1/4)
+
+[^c22926851]: Marginal citation: [1980 c.43](https://www.legislation.gov.uk/ukpga/1980/43). Section 58 was amended by the [Crime and Courts Act 2013 (c.22)](https://www.legislation.gov.uk/ukpga/2013/22), [Schedule 10 paragraph 40](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/40).
+
+[^c22926861]: Marginal citation: [S.I. 1981/1675 (N.I. 26)](https://www.legislation.gov.uk/nisi/1981/1675).
+
+[^key-898f94a2d914687d0cb38b7667e77315]: Textual amendment: Word in [reg. 18(2)](https://www.legislation.gov.uk/uksi/2018/389/regulation/18/2) substituted (N.I.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment) (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1112)](https://www.legislation.gov.uk/uksi/2020/1112), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/1112/regulation/1/b), [Sch. 18 para. 1(5)](https://www.legislation.gov.uk/uksi/2020/1112/schedule/18/paragraph/1/5)
+
+[^c22926871]: Marginal citation: [2015 c.26](https://www.legislation.gov.uk/ukpga/2015/26).
+
+[^c22926881]: Marginal citation: [S.I. 2016/1093](https://www.legislation.gov.uk/uksi/2016/1093) as amended by [S.I. 2016/1186](https://www.legislation.gov.uk/uksi/2016/1186).
+
+[^c22926891]: Marginal citation: [S.I. 2017/737](https://www.legislation.gov.uk/uksi/2017/737).
+
+[^c22926901]: Marginal citation: [S.I. 2017/1206](https://www.legislation.gov.uk/uksi/2017/1206).
+
+[^key-288e902ba3e311c8538adbfe16db6f3f]: Textual amendment: [Pt. 4](https://www.legislation.gov.uk/uksi/2018/389/part/4) inserted (N.I.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (UK(NI) Indication) (EU Exit) Regulations 2020 (S.I. 2020/1460)](https://www.legislation.gov.uk/uksi/2020/1460), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1460/regulation/1/2), [Sch. 2 para. 16(2)](https://www.legislation.gov.uk/uksi/2020/1460/schedule/2/paragraph/16/2)
+
+[^c22926911]: Marginal citation: [S.I. 2007/3544](https://www.legislation.gov.uk/uksi/2007/3544) to which there are amendments not relevant to these Regulations.
+
+[^c22926921]: Marginal citation: [S.I. 2009/669](https://www.legislation.gov.uk/uksi/2009/669) to which there are amendments not relevant to these Regulations.
+
+[^c22926931]: Marginal citation: [S.I. 2016/1093](https://www.legislation.gov.uk/uksi/2016/1093) as amended by [S.I.2016/1186](https://www.legislation.gov.uk/uksi/2016/1186).
+
+[^c22926941]: Marginal citation: [S.I. 2017/737](https://www.legislation.gov.uk/uksi/2017/737).
+
+[^c22926951]: Marginal citation: [S.I. 2017/1206](https://www.legislation.gov.uk/uksi/2017/1206).

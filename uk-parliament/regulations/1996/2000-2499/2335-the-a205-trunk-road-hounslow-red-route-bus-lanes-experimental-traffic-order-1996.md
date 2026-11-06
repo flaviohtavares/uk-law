@@ -1,0 +1,140 @@
+---
+title: The A205 Trunk Road (Hounslow) Red Route (Bus Lanes) Experimental Traffic Order 1996
+id: uksi/1996/2335
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '1996-09-05'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1996/2335
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1996/2335/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The A205 Trunk Road (Hounslow) Red Route (Bus Lanes) Experimental Traffic Order 1996
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+1996 No. 2335
+
+ROAD TRAFFIC
+
+The A205 Trunk Road (Hounslow) Red Route (Bus Lanes) Experimental Traffic Order 1996
+
+Made
+
+5th September 1996
+
+Coming into force
+
+21st September 1996
+
+The Traffic Director for London, in accordance with a direction given to him by the Secretary of State for Transport under section 58(1) of the Road Traffic Act 1991[^f00001] and in exercise of the powers conferred on the Secretary of State by sections 9 and 10 of the Road Traffic Regulation Act 1984[^f00002], and of all other enabling powers, hereby makes the following Order:—
+
+## 1. Commencement and citation
+
+This Order may be cited as The A205 Trunk Road (Hounslow) Red Route (Bus Lanes) Experimental Traffic Order 1996, and shall come into force on 21st September 1996.
+
+## 2. Interpretation
+
+In this Order—
+
+- (a) a reference to an article followed by a number is a reference to the article of this order so numbered
+- (b) causing includes permitting;
+- (c) “carriageway” has the same meaning as in section 329(1) of the Highways Act 1980[^f00003]; and
+- (d) “vehicle” includes part of a vehicle.
+
+## 3. Bus Lane Controls
+
+(1) Except as provided in paragraph (2) of this article, and subject to the provisions of article 4, no person shall cause a vehicle to enter or proceed in any bus lane in a length of road, specified in column (2) in an item in the table in the schedule to this Order during the hours specified in that item in column (3) of that table.
+
+(2) The controls specified in paragraph (1) of this article do not apply in respect of:—
+
+- (a) a bus;
+- (b) a taxi as defined in regulation 4 of theTraffic Signs Regulations and General Directions 1994[^f00004]; or
+- (c) a pedal cycle.
+
+(3) In this article—
+
+- (a) “bus” means:—
+
+  before 1 January 1997
+
+  - (i) a public service vehicle used for the provision of a local service or a scheduled express service,
+  - (ii) a school bus, and
+  - (iii) a work bus;
+
+  after 31 December 1996
+
+  - (i) a motor vehicle constructed or adapted to carry more than 8 passengers (exclusive of the driver), and
+  - (ii) a local bus not so constructed or adapted; and
+
+  at any time a vehicle which
+
+  - (i) is constructed or adapted for the carriage of disabled persons and their companions, and which is being used to provide a service for the carriage of such persons, and
+  - (ii) displays so as to be conspicuous from outside the vehicle a disc in a form approved by or with the authority of the Traffic Director for London and containing the words DIAL-A-RIDE;
+- (b) “bus lane” means an area of the carriageway of a road marked with the traffic signs shown in diagrams 1048 and 1049 in schedule 6 to the Traffic Signs Regulations and General Directions 1994; and
+- (c) “local bus”, “local service”, “pedal cycle”, “scheduled express service”, “school bus”, and “work bus” have the meanings given to those expressions in regulation 4 of the Traffic Signs Regulations and General Directions 1994.
+
+## 4. Exemptions
+
+The controls specified in article 3(1) do not apply to:—
+
+- (a) a vehicle being used for ambulance, fire brigade or police purposes;
+- (b) a vehicle being used in the service of a local authority for the purpose of collecting refuse from premises adjacent to a bus lane;
+- (c) a vehicle being used in connection with the removal of any obstructions to traffic;
+- (d) a vehicle being used in connection with the maintenance, improvement or reconstruction of a bus lane;
+- (e) a vehicle entering a bus lane so as to avoid an accident;
+- (f) a vehicle entering a bus lane to get or give help in consequence of an accident or an emergency or otherwise taking action for public safety;
+- (g) a vehicle which bears the Royal Mail livery for so long as my be required for the purpose of collection or delivering letters in pursuance of any statutory duty of the Post Office to collect or deliver letters;
+- (h) a vehicle entering and forthwith leaving a bus lane in order to gain access to or egress from any road adjacent to that bus lane or any vehicular accessway to premises adjacent to the bus lane or crossing over the footway adjacent to the bus lane;
+- (i) anything done with the permission or at the direction of a police constable in uniform or a traffic warden.
+
+## 5. Revocation or variation of existing Orders
+
+The A205 Trunk Road (Hounslow) Red Route (Bus Lanes) Experimental Traffic Order 1995[^f00005] is hereby revoked.
+
+## 6. Power to modify or suspend this Order
+
+If it appears to the Traffic Director for London, or some person authorised by him, essential in the interest of the expeditious, convenient and safe movement of traffic, or for preserving or improving the amenities of the area through which any road affected by this Order runs, and after consulting with the Commissioner of Police of the Metropolis, he may modify or suspend any provision of this Order, save that no modification shall make an addition.
+
+Signed in accordance with a direction from the Secretary of State for Transport.
+
+Derek Turner
+
+Traffic Director for London
+
+5th September 1996
+
+## SCHEDULE 1 — The Trunk Road Red Route (Bus Lanes).
+
+Article 3(1)
+
+<table>
+<thead>
+<tr><th><em>(1)</em></th><th><em>(2)</em></th><th><em>(3)</em></th></tr>
+<tr><th>Item</th><th>Length of Road or carriageway</th><th>Prescribed Hours</th></tr>
+</thead>
+<tbody>
+<tr><td></td><td>Chiswick High Road (A205)—north-west side.</td><td>7am–7pm Monday–Friday Inclusive</td></tr>
+<tr><td>1.</td><td>Between a point 1.7 metres south-west of the party wall of Nos. 7 and 8 Stile Hall Parade and a point 7.3 metres north-east of the party wall of Nos. 2 and 2a/2b Stile Hall Parade.</td><th></th></tr>
+<tr><td>2.</td><td>Between a point 2.0 metres north-east of the party wall of Nos. 571 and 573 Chiswick High Road and a point 18.0 metres south-west of the north-eastern boundary of Nos. 650 to 654 Chiswick High Road.</td><th></th></tr>
+</tbody>
+</table>
+
+## Annotations
+
+[^f00001]: Footnote: [1991 c. 40](https://www.legislation.gov.uk/ukpga/1991/40).
+
+[^f00002]: Footnote: [1984 c. 27](https://www.legislation.gov.uk/ukpga/1984/27).
+
+[^f00003]: Footnote: [1980 c. 66](https://www.legislation.gov.uk/ukpga/1980/66).
+
+[^f00004]: Footnote: [S.I. 1994/1519](https://www.legislation.gov.uk/uksi/1994/1519).
+
+[^f00005]: Footnote: [S.I. 1995/125](https://www.legislation.gov.uk/uksi/1995/125).

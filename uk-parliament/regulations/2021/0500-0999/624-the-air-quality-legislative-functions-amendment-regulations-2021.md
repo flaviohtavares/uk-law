@@ -1,0 +1,90 @@
+---
+title: The Air Quality (Legislative Functions) (Amendment) Regulations 2021
+id: uksi/2021/624
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2021-05-26'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2021/624
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2021/624/pdfs/uksiem_20210624_en.pdf
+- http://www.legislation.gov.uk/uksi/2021/624/pdfs/uksi_20210624_en.pdf
+- http://www.legislation.gov.uk/uksi/2021/624/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Air Quality (Legislative Functions) (Amendment) Regulations 2021
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2021 No. 624
+
+Environmental Protection
+
+The Air Quality (Legislative Functions) (Amendment) Regulations 2021
+
+Made
+
+26th May 2021
+
+Coming into force
+
+15th June 2021
+
+The Secretary of State makes these Regulations in exercise of the powers conferred by section 8(1) of, and paragraph 21(b) of Schedule 7 to, the European Union (Withdrawal) Act 2018[^f00001] (“the 2018 Act”).
+
+A draft of this instrument has been laid before Parliament and approved by a resolution of each House of Parliament pursuant to paragraph 1(1) of Schedule 7 to the 2018 Act.
+
+## 1. Citation and commencement
+
+These Regulations may be cited as the Air Quality (Legislative Functions) (Amendment) Regulations 2021 and come into force 21 days after the day on which they are made.
+
+## 2. Amendment of Regulation [(EC) No 166/2006](https://www.legislation.gov.uk/european/regulation/2006/0166) of the European Parliament and of the Council concerning the establishment of a European Pollutant Release and Transfer Register
+
+(1) Regulation [(EC) No 166/2006](https://www.legislation.gov.uk/european/regulation/2006/0166) of the European Parliament and of the Council concerning the establishment of a European Pollutant Release and Transfer Register[^f00002] is amended as follows.
+
+(2) For Article 8(3) substitute—
+
+> (3) Where it determines that no data on the releases from diffuse sources exist the appropriate authority may, by regulations, make provision for the purpose of this Regulation regarding reporting on releases of relevant pollutants from one or more diffuse sources using, where appropriate, internationally approved methodologies.
+
+.
+
+(3) For Article 18 substitute—
+
+> **Article 18 — Amendment of Annex 2**
+>
+> The Secretary of State may, by regulations, amend Annex 2 for the following purposes—
+>
+> - (a) to adapt it to scientific or technical progress;
+> - (b) to adapt it as a result of the adoption by the Meeting of the Parties to the Protocol of any amendment to the Annexes to the Protocol.
+
+.
+
+Rebecca Pow
+
+Parliamentary Under Secretary of State
+
+Department for Environment, Food and Rural Affairs
+
+26th May 2021
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations are made in exercise of the powers conferred by section 8(1) of, and paragraph 21 of Schedule 7 to, the European Union (Withdrawal) Act [2018 (c. 16)](https://www.legislation.gov.uk/ukpga/2018/16), in order to address failures to operate effectively and other deficiencies (in particular under section 8(2)(b), (ea) and (g)) arising from the withdrawal of the United Kingdom from the European Union.
+
+Regulation 2 amends retained direct EU legislation, namely Regulation [(EC) No 166/2006](https://www.legislation.gov.uk/european/regulation/2006/0166) of the European Parliament and of the Council concerning the establishment of a European Pollutant Release and Transfer Register. The amendments ensure that certain provisions of that Regulation are re-stated to ensure that they are clearer and more accessible. This is necessary because Regulation [(EC) No 166/2006](https://www.legislation.gov.uk/european/regulation/2006/0166) was amended at an EU level after amendments made by the Environment and Wildlife (Legislative Functions) (EU Exit) Regulation 2019 ([S.I. 2019/473](https://www.legislation.gov.uk/uksi/2019/473)) were made. The amendments provide for functions of a legislative character previously exercised by EU entities under that Regulation instead to be exercisable by a public authority in the United Kingdom.
+
+An impact assessment has not been produced for this instrument as no, or no significant, impact on the private, voluntary or public sector is foreseen.
+
+## Annotations
+
+[^f00001]: Footnote: [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16). Paragraph 21(b) of Schedule 7 was amended by section 41(4) of, and paragraphs 38 and 53(2) of Schedule 5 to, the European Union (Withdrawal Agreement) Act [2020 (c. 1)](https://www.legislation.gov.uk/ukpga/2020/1).
+
+[^f00002]: Footnote: EUR 2006/166, last amended by [S.I. 2018/1407](https://www.legislation.gov.uk/uksi/2018/1407) and [2019/473](https://www.legislation.gov.uk/uksi/2019/473). [S.I. 2018/1407](https://www.legislation.gov.uk/uksi/2018/1407) was amended by [S.I. 2020/1313](https://www.legislation.gov.uk/uksi/2020/1313) before it came into force.

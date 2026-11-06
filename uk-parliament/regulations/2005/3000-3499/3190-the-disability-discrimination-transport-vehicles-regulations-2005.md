@@ -1,0 +1,181 @@
+---
+title: The Disability Discrimination (Transport Vehicles) Regulations 2005
+id: uksi/2005/3190
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2005-11-15'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2005/3190
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2005/3190/pdfs/uksiem_20053190_en.pdf
+- http://www.legislation.gov.uk/uksi/2005/3190/pdfs/uksi_20053190_en.pdf
+- http://www.legislation.gov.uk/uksi/2005/3190/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Disability Discrimination (Transport Vehicles) Regulations 2005
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2005 No. 3190
+
+DISABLED PERSONS
+
+The Disability Discrimination (Transport Vehicles) Regulations 2005
+
+Made
+
+15th November 2005
+
+Laid before Parliament
+
+18th November 2005
+
+Coming into force
+
+4th December 2006
+
+The Secretary of State, in exercise of the powers conferred upon him by sections 21(5)(e), (f) and (h) and 21ZA(3) of the Disability Discrimination Act 1995[^f00001], makes the following Regulations:
+
+## 1. Citation and commencement
+
+These Regulations may be cited as the Disability Discrimination (Transport Vehicles) Regulations 2005 and shall come into force on 4th December 2006.
+
+## 2. Interpretation
+
+In these Regulations—
+
+- “the Act” means the Disability Discrimination Act 1995;
+- “breakdown or recovery operator” means a provider of roadside assistance services for the purpose of recovering or repairing a broken down vehicle;
+- “hire vehicle” means an M1, M2 or N1 vehicle which is hired out by a vehicle-hire firm under a hiring agreement;
+- “hiring agreement” means an agreement for the hire of an M1, M2 or N1 vehicle being an agreement which contains such particulars as may be prescribed under section 84 of the Road Traffic Offenders Act 1988[^f00002] but does not include a hire-purchase agreement within the meaning of section 189 of the Consumer Credit Act 1974[^f00003];
+- “M1”, in relation to a vehicle, means a vehicle designed and constructed for the carriage of passengers and comprising no more than eight seats in addition to the driver’s seat;
+- “M2”, in relation to a vehicle, means a vehicle designed and constructed for the carriage of passengers, comprising more than eight seats in addition to the driver’s seat and having a maximum mass not exceeding 5 tonnes;
+- “N1”, in relation to a vehicle, means a vehicle designed and constructed for the carriage of goods and having a maximum mass not exceeding 3.5 tonnes;
+- “private hire vehicle” means—
+  - (a) in relation to England and Wales, a vehicle licensed under—
+    - (i) section 7 of the Private Hire Vehicles (London) Act 1998[^f00004];
+    - (ii) section 48 of the Local Government (Miscellaneous Provisions) Act 1976[^f00005]; or
+    - (iii) an equivalent provision of a local enactment; and
+  - (b) in relation to Scotland, a hire car other than a taxi within the meaning of section 23 of the Civic Government (Scotland) Act 1982[^f00006];
+- “public service vehicle” has the same meaning as in section 1 of the Public Passenger Vehicles Act 1981[^f00007];
+- “rail vehicle” means a vehicle constructed or adapted to carry passengers on any railway or tramway and “railway” and “tramway” have the same meaning as in section 67 of the Transport and Works Act 1992[^f00008];
+- “taxi” means—
+  - (a) in relation to England and Wales, a vehicle—
+    - (i) licensed under section 37 of the Town Police Clauses Act 1847[^f00009];
+    - (ii) licensed under section 6 of the Metropolitan Public Carriage Act 1869[^f00010]; or
+    - (iii) which is drawn by one or more person, horse or other animal; and,
+  - (b) in relation to Scotland—
+    - (i) a hire car which is engaged, by arrangements made in a public place between the person to be conveyed in it (or a person acting on his behalf) and its driver for a journey beginning there and then[^f00011]; or
+    - (ii) a non-motorised vehicle which is drawn by one or more person, horse or other animal; and
+- “vehicle-hire firm” means any person engaged in hiring vehicles in the course of a business.
+
+## 3. Discrimination in relation to goods, facilities and services
+
+(1) Section 21ZA(1) of the Act does not apply to a provider of transport services who provides such services by way of a vehicle described in paragraph (2).
+
+(2) Those vehicles are—
+
+- (a) M1, M2 or N1 hire vehicles;
+- (b) private hire vehicles;
+- (c) public service vehicles;
+- (d) rail vehicles;
+- (e) taxis;
+- (f) vehicles deployed by a breakdown or recovery operator, whether or not through a third party, the sole or partial purpose of which is to transport the driver and occupants of a broken down vehicle from the scene of an accident or breakdown; and
+- (g) vehicles deployed on a system using a mode of guided transport.
+
+## 4. Duty of providers of transport services to make adjustments
+
+(1) Section 21ZA(2)(b) of the Act, in so far as it relates to the application of sections 21(1) and (4) of that Act, does not apply to a provider of transport services who provides such services by way of a vehicle described in paragraph (2).
+
+(2) Those vehicles are—
+
+- (a) M2 and N1 hire vehicles;
+- (b) private hire vehicles;
+- (c) public service vehicles;
+- (d) rail vehicles;
+- (e) taxis; and
+- (f) vehicles deployed on a system using a mode of guided transport.
+
+**5.** Section 21ZA(2)(b) of the Act, in so far as it relates to the application of section 21(1), (2)(d) and (4) of that Act, does not apply to a vehicle deployed by a breakdown or recovery operator, whether or not through a third party, the sole or partial purpose of which is to transport the driver and occupants of a broken down vehicle from the scene of an accident or breakdown.
+
+**6.** Section 21ZA(2) does not apply to a provider of transport services who provides such services by way of an M1 hire vehicle.
+
+## 7. Auxiliary aids and services
+
+For the purposes of section 21(4) of the Act, as applied to the vehicles described in regulations 4 and 5, the following are not to be treated as auxiliary aids or services—
+
+- devices, structures or equipment the installation, operation or maintenance of which would necessitate making a permanent alteration to or which would have a permanent effect on either the internal or external physical fabric of a vehicle.
+
+## 8. Physical features
+
+(1) Subject to paragraph (2), for the purposes of section 21(2) of the Act, as applied to M1 hire vehicles by regulation 6, any part of the vehicle which requires alteration in order to facilitate the provision of—
+
+- (a) hand controls to enable a disabled person to operate braking and accelerator systems in the vehicle; and
+- (b) facilities for the stowage of a wheelchair,
+
+is to be treated as a physical feature.
+
+(2) The following are not to be treated as physical features—
+
+- (a) for the purposes of paragraph (1)(a), fixed seating and in-built electrical systems; and
+- (b) for the purposes of paragraph (1)(b), fixed seating.
+
+Signed by authority of the
+
+Secretary of State for Transport
+
+Karen Buck
+
+Parliamentary Under Secretary of State,
+
+Department for Transport
+
+15th November 2005
+
+(This note is not part of the Regulations)
+
+These Regulations provide for certain provisions in Part 3 of the Disability Discrimination Act 1995 (“the Act”) to apply to the providers of certain transport services.
+
+The exemption from the application of certain parts of section 19(1) of the Act relating to discrimination in relation to goods, facilities and services is disapplied in respect of the provision of transport services by way of a vehicle of a kind listed in regulation 3.
+
+The exemption from the application of certain parts of section 21 of the Act relating to the duty of providers of services to make adjustments in respect of practices, policies or procedures and in respect of the provision of auxiliary aids or services is disapplied in respect of the provision of transport services by way of a vehicle of a kind listed in regulation 4.
+
+The exemption from the application of that part of section 21(2) of the Act relating to the duty of providers of services to take reasonable steps, where a physical feature makes it impossible or unreasonably difficult for a disabled person to use that service, to provide a reasonable alternative method of making the service available, is disapplied in respect of breakdown and recovery vehicles (regulation 5).
+
+The exemption from the application of section 21(2) of the Act relating to the duty of providers of services to take various reasonable steps to overcome physical impediments to the use of a service by disabled persons is disapplied in respect of hire vehicles for the carriage of passengers which have no more than eight passenger seats (M1 hire vehicles)(regulation 6). The definitions of M1, M2 and N1 hire vehicles derive from the definition of vehicle categories in Annex II(A) of Council Directive [70/156/EEC](https://www.legislation.gov.uk/european/directive/1970/0156) (OJ L42 23.2.1970 p1), last amended by Council Directive [2004/3/EC](https://www.legislation.gov.uk/european/directive/2004/0003) (OJ L49 19.2.2004 p36).
+
+Regulation 7 specifies, for the purposes of the application of section 21(4) of the Act to the vehicles described in regulations 4 and 5, what should not be classified as an auxiliary aid or service. Regulation 8 specifies, for the purposes of the application of section 21(2) of the Act to M1 hire vehicles, those parts of the vehicles which are to be treated as physical features, and those which are not.
+
+A full regulatory impact assessment has been completed in respect of these Regulations and a copy can be obtained from the Mobility & Inclusion Unit, Department for Transport, Zone 4/23, Great Minister House, 76 Marsham Street, London, SW1P 4DR. A copy has been placed in the Library of each House of Parliament.
+
+Copies of the Regulatory Impact Assessment may also be accessed on the Office of Public Sector Information website www.opsi.gov.uk.
+
+## Annotations
+
+[^f00001]: Footnote: [1995 c. 50](https://www.legislation.gov.uk/ukpga/1995/50). “Prescribed” means prescribed by regulations (see section 68). Section 21ZA was inserted by the Disability Discrimination Act [2005 (c. 13)](https://www.legislation.gov.uk/ukpga/2005/13), section 5; and section 19 was amended by Schedule 1, paragraph 13(1) to (3) of the same Act.
+
+[^f00002]: Footnote: [1988 c. 53](https://www.legislation.gov.uk/ukpga/1988/53). For the prescribed particulars see S.I. [2000/2546](https://www.legislation.gov.uk/uksi/2000/2546).
+
+[^f00003]: Footnote: [1974 c. 39](https://www.legislation.gov.uk/ukpga/1974/39).
+
+[^f00004]: Footnote: [1998 c. 34](https://www.legislation.gov.uk/ukpga/1998/34).
+
+[^f00005]: Footnote: [1976 c. 57](https://www.legislation.gov.uk/ukpga/1976/57).
+
+[^f00006]: Footnote: [1982 c. 45](https://www.legislation.gov.uk/ukpga/1982/45).
+
+[^f00007]: Footnote: [1981 c. 14](https://www.legislation.gov.uk/ukpga/1981/14); section 1 was amended by the Transport Act 1985, section 139(3) and Schedule 8.
+
+[^f00008]: Footnote: [1992 c. 42](https://www.legislation.gov.uk/ukpga/1992/42).
+
+[^f00009]: Footnote: [1847 c. 89](https://www.legislation.gov.uk/ukpga/1847/89).
+
+[^f00010]: Footnote: [1869 c. 115](https://www.legislation.gov.uk/ukpga/1869/115).
+
+[^f00011]: Footnote: See section 23 Civil Government Scotland Act 1982.

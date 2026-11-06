@@ -1,0 +1,1230 @@
+---
+title: The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019, SCHEDULE 32
+act: The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019
+section: schedule-32
+status: revised
+text_date: '2020-12-31'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/uksi/2019/696/schedule/32
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019, SCHEDULE 32
+
+> Text as at 2020-12-31.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## SCHEDULE 32 — Amendment of the Equipment and Protective Systems Intended for Use in Potentially Explosive Atmospheres Regulations (Northern Ireland) 2017
+
+*Extent: E+W+S*
+
+Regulation 35
+
+### 1. Introduction[^key-4d8d820128605145c615f68ef85259a9]
+
+The Equipment and Protective Systems Intended for Use in Potentially Explosive Atmospheres Regulations (Northern Ireland) 2017 are amended in accordance with paragraphs 2 to 41.
+
+### 2. Amendment to regulation 2[^key-5971e701875acc33df19ac3926a0f9b9]
+
+(1) Regulation 2 (interpretation) is amended as follows.
+
+(2) In paragraph (1)—
+
+- (a) in the definition of the “1994 Directive” at the end insert “ (as it has effect immediately before exit day) ”;
+- (b) after the definition of the “1996 Regulations” insert—
+
+  > “**approved body**” has the meaning given to it in regulation 42;
+
+  ;
+- (c) omit the definition of “accreditation certificate”;
+- (d) in the definition of “attestation of conformity”—
+  - (i) omit “EU”; and
+  - (ii) for “CE” substitute “ UK ”;
+- (e) for the definition of “authorised representative” substitute—
+
+  > “**authorised representative**” means—
+  >
+  > - (a) a person who—
+  >   - (i) immediately before exit day was established in the United Kingdom or an EEA state and was appointed by a manufacturer by written mandate to perform specified tasks for that manufacturer, in accordance with regulation 17; and
+  >   - (ii) on or after exit day continues to be so established and appointed by the manufacturer to perform those tasks; or
+  > - (b) a person who, on or after exit day, is appointed in accordance with regulation 17 as it had effect immediately before exit day;
+
+  ;
+- (f) omit the definition of “CE Marking”;
+- (g) omit the definition of “competent national authority”;
+- (h) after the definition of “conformity assessment” insert—
+
+  > “**conformity assessment activities**” means any activities connected with conformity assessment including calibration, testing, certification and inspection;
+
+  ;
+- (i) after the definition of “conformity assessment body” insert—
+
+  > “**conformity assessment procedure**” means a procedure referred to in regulation 39 (conformity assessment procedures);
+  >
+  > “**declaration of conformity**” means a declaration of conformity required to be drawn up in accordance with regulation 7(1)(a) (declaration of conformity and UK marking);
+  >
+  > “**designated standard**” has the meaning given to it in regulation 2A;
+
+  ;
+- (j) for the definition of “equipment category” substitute—
+
+  > “**equipment category**” means the classification of equipment, within each equipment group, specified in Schedule 1A to these Regulations;
+
+  ;
+- (k) in the definition of “equipment-group I” for “as set out in Annex I to the ATEX Directive (as amended from time to time)” substitute “ as set out in Schedule 1A to these Regulations ”;
+- (l) in the definition of “equipment-group II” for “as set out in Annex I to the ATEX Direction (as amended from time to time)” substitute “ as set out in Schedule 1A to these Regulations ”;
+- (m) omit the definition of “EU declaration of conformity”;
+- (n) omit the definition of “European Commission”;
+- (o) omit the definition of “harmonised standard”;
+- (p) for the definition of “importer” substitute—
+
+  > “**importer**” means any person who—
+  >
+  > - (a) is established in the United Kingdom; and
+  > - (b) places a product from a country outside of the United Kingdom on the market;
+
+  ;
+- (q) in the definition of “make available on the market” for “EU” substitute “ United Kingdom ”;
+- (r) omit the definition of “national accreditation body”;
+- (s) omit the definition of “notified body requirements”;
+- (t) omit the definition of “Official Journal”;
+- (u) in the definition of “place on the market” for “EU” substitute “ United Kingdom ”;
+- (v) in the definition of “putting into service” omit “within the EU market”;
+- (w) after the definition of “technical specification” insert—
+
+  > “**UK marking**” means the marking in the form set out in Annex 2 of RAMS;
+  >
+  > “**UK national accreditation body**” means the body appointed by the Executive in accordance with Article 4 of RAMS.
+
+  .
+
+(3) After paragraph (1) insert—
+
+> (1A) Schedule 1A reproduces the provisions of Annex I to the ATEX Directive with amendments to correct deficiencies in retained EU law.
+>
+> (1B) A reference to a provision of Schedule 1A is a reference to the equivalent provision of Annex I to the ATEX Directive as set out in Schedule 1A.
+>
+> (1C) Schedule 3A reproduces the provisions of Annexes III to IX to the ATEX Directive with amendments to correct deficiencies in retained EU law
+>
+> (1D) A reference to any provision of Schedule 3A is a reference to the equivalent provision of Annexes III to IX as set out in Schedule 3A.
+
+.
+
+(4) Omit paragraph (3).
+
+(5) Omit paragraph (6).
+
+### 3. Insertion of regulation 2A[^key-942de1f070c521aa5b5a6540e6b43292]
+
+After regulation 2 insert—
+
+> **2A. Designated standard**
+>
+> (1) Subject to paragraphs (6) and (7), in these Regulations a “**designated standard**” means a technical specification which is—
+>
+> - (a) adopted by a recognised standardisation body, for repeated or continuous application, with which compliance is not compulsory; and
+> - (b) designated by the Secretary of State by publishing the reference to the standard and maintaining that publication in a manner the Secretary of State considers appropriate.
+>
+> (2) For the purposes of paragraph (1), a “**technical specification**” means a document that prescribes technical requirements to be fulfilled by a product, process, service or system and which lays down one or more of the following—
+>
+> - (a) the characteristics required of a product, service or system, including—
+>   - (i) levels of quality, performance, interoperability, environmental protection, health, safety or dimensions, and
+>   - (ii) the requirements applicable to the product, service or system as regards the name under which the product is sold, terminology, symbols, testing and test methods, packaging, marking or labelling and conformity assessment procedures; and
+> - (b) production methods and processes relating to the product, where these have an effect on the characteristics of the product, service or system.
+>
+> (3) For the purposes of this regulation a “**recognised standardisation body**” means any one of the following organisations—
+>
+> - (a) the European Committee for Standardisation (CEN);
+> - (b) the European Committee for Electrotechnical Standardisation (Cenelec);
+> - (c) the European Telecommunications Standards Institute (ETSI);
+> - (d) the British Standards Institution (BSI).
+>
+> (4) When considering whether the manner of publication of a reference is appropriate in accordance with paragraph (1)(b), the Secretary of State shall have regard to whether the publication will draw the standard to the attention of any person who may have an interest in the standard.
+>
+> (5) Before publishing the reference to a technical specification adopted by the British Standards Institution, the Secretary of State shall have regard to whether the technical specification is consistent with technical specifications adopted by the other recognised standardisation bodies.
+>
+> (6) The Secretary of State may remove from publication the reference to a standard which has been published in accordance with paragraph (1)(b).
+>
+> (7) Where the Secretary of State removes the reference to a standard from publication, that standard is no longer a designated standard.
+>
+> (8) The Secretary of State may by regulations amend paragraph (3) to reflect any changes in the name or structure of the recognised standardisation bodies.
+>
+> (9) Regulations made under paragraph (8) are to be made by statutory instrument.
+>
+> (10) A statutory instrument containing regulations made under paragraph (8) is subject to annulment in pursuance of a resolution in the House of Commons.
+
+.
+
+### 4. Amendment to regulation 3[^key-4bf0565a5dc31b1350deab2e89ee299e]
+
+In regulation 3(3) (scope) for paragraph (g) substitute—
+
+> - (g) products connected with the production of trade in arms, munitions and war material;
+
+.
+
+### 5. Amendment to regulation 6[^key-1e5be63b637b5c9cfef6ff5deadcf8d0]
+
+In regulation 6 (technical documentation and conformity assessment) for paragraph (b) substitute—
+
+> - (b) draw up the technical documentation referred to—
+>   - (i) for a product in respect of which the conformity assessment procedure in regulation 39(1)(a) is being carried out, in paragraph 3(c) of Part 1 of Schedule 3A to these Regulations;
+>   - (ii) for a product in respect of which the conformity assessment procedure in regulation 39(1)(b) is being carried out, in paragraph 3(c) of Part 1 of Schedule 3A to these Regulations;
+>   - (iii) for a product in respect of which the conformity assessment procedure in regulation 39(1)(c) is being carried out, in paragraph 2 of Part 6 of Schedule 3A to these Regulations;
+>   - (iv) for a product in respect of which the conformity assessment procedure in regulation 39(1)(d) is being carried out, in paragraph 2 of Part 7 of Schedule 3A to these Regulations.
+
+.
+
+### 6. Amendment to regulation 7[^key-8775bb8588271ad9e34b560e782994a7]
+
+Regulation 7 (EU declaration of conformity and CE marking) is amended as follows—
+
+- (a) in the heading to that regulation—
+  - (i) for “EU declaration” substitute “ Declaration ”; and
+  - (ii) for “CE” substitute “ UK ”;
+- (b) in paragraph (1)(a) omit “EU”;
+- (c) in paragraph (1)(b) for “CE” substitute “ UK ” each time it occurs;
+- (d) in paragraphs (2), (4) and (5) omit “EU”;
+- (e) for paragraph (6) substitute—
+
+  > (6) Where a product is subject to more than one enactment requiring the drawing up of a declaration of conformity, the manufacturer shall draw up a single declaration of conformity which identifies each enactment by its title.
+
+  .
+
+### 7. Amendment to regulation 8[^key-a28405546550221f1317c66cb36f9f04]
+
+In regulation 8 (retention of technical documentation and EU declaration of conformity) and in the heading of that regulation omit “EU”.
+
+### 8. Amendment to regulation 9[^key-c9a652a2f5c8de87f0df346602e68d78]
+
+In regulation 9 (compliance procedures for series production), in paragraph (2)(b)—
+
+- (a) for “harmonised” substitute “ designated ”;
+- (b) omit “EU”.
+
+### 9. Amendment to regulation 13[^key-c14f2be9a185e58644958d0c548220ca]
+
+In regulation 13 (information identifying manufacturer), for paragraph 3 substitute—
+
+> (3) The information specified in paragraph (1) must be in a language which can be easily understood by end users and the market surveillance authority.
+
+.
+
+### 10. Amendment to regulation 14[^key-37d8deee3d44ba85175666506a84e3da]
+
+For regulation 14 (instructions and safety information) substitute—
+
+> **14. Provision of instructions and safety information**
+>
+> When placing a product on the market, a manufacturer must ensure that a product is accompanied by instructions and safety information in clear, legible and easily understandable English.
+
+.
+
+### 11. Amendment to regulation 15[^key-8f5c351c1d84e2a9d63cfa362d285eeb]
+
+In regulation 15 (duty to take action in respect of a product placed on the market which is considered not to be in conformity), in paragraph (2) omit “, and the competent national authorities of any other Member State in which the manufacturer made the product available on the market,”.
+
+### 12. Amendment to regulation 17[^key-e2cad0c93e90f6b853715fb2aee5e108]
+
+In regulation 17 (authorised representatives)—
+
+- (a) in paragraph (1) for “EU” substitute “ United Kingdom ”;
+- (b) in paragraph (4)(a) omit “EU”.
+
+### 13. Amendment to regulation 19[^key-12882687947e3d65027e685f61c462c0]
+
+In regulation 19 (requirements which must be satisfied before an importer places a product on the market)—
+
+- (a) in paragraph (1)(c)(i) for “CE” substitute “ UK ”;
+- (b) in paragraph (1)(c)(ii) omit “EU”;
+- (c) in paragraph (2)(c) for “14(1) (instructions and safety information)” substitute “ 14 (provision of instructions and safety information) ”.
+
+### 14. Amendment to regulation 21[^key-1a6e72ad952724372cfbadfb9e4f405f]
+
+Regulation 21 (information identifying importer) is amended as follows—
+
+- (a) in paragraph (2) for “by the competent national authority in the Member State in which it is to be made available to end-users” substitute “ the enforcing authority ”;
+- (b) for paragraph (3) substitute—
+
+  > (3) Paragraph (1) does not apply where—
+  >
+  > - (a) either—
+  >   - (i) it is not possible to set out the information referred to in paragraph (1) on the product, or
+  >   - (ii) the importer has imported the product from an EEA state or Switzerland[^key-a2c24c9d4c368dfeb6dfc6464c1e9b03] and places it on the market within the period of 18 months beginning with exit day, and
+  > - (b) before placing the product on the market, the importer sets out the information referred to in paragraph (1)—
+  >   - (i) on the packaging; or
+  >   - (ii) in a document accompanying the product.
+
+  .
+
+### 15. Amendment to regulation 22[^key-d5adfc6a6b5fab5db92612bf63f8c82b]
+
+For regulation 22 (instructions and safety information) substitute—
+
+> **22. Provision of instructions and safety information**
+>
+> When placing a product on the market, an importer shall ensure that the product is accompanied by instructions and safety information that are clear, legible and in easily understandable English.
+
+.
+
+### 16. Amendment to regulation 25[^key-933433ce3cf9040dc3f9c8c0e8c58f03]
+
+In regulation 25 (duty to take action in respect of a product placed on the market which is considered not to be in conformity), in paragraph (2) omit “, and the competent national authorities of any other Member State in which the importer made the product available on the market,”.
+
+### 17. Amendment to regulation 27[^key-2ec5226ccf553e6a0ab22383d01fc04a]
+
+In regulation 27 (retention of technical documentation and EU declaration of conformity) and in the heading to that regulation omit “EU”.
+
+### 18. Amendment to regulation 29[^key-6f66b255788f3486681a162f7ef8e58d]
+
+In regulation 29 (requirements which must be satisfied before a distributor makes a product available on the market)—
+
+- (a) in paragraph (1)(a)(i) for “CE” substitute “ UK ”;
+- (b) in paragraph (1)(a)(ii) omit “EU”;
+- (c) for paragraph (1)(a)(iv) substitute—
+
+  > - (iv) is accompanied by instructions and safety information that are clear, legible and in easily understandable English;
+
+  .
+
+### 19. Amendment to regulation 32[^key-088f671cd639ab49249848d503333144]
+
+In regulation 32 (duty to take action in respect of products made available on the market which are not in conformity), in paragraph (2) omit “, and the competent national authorities of the other Member States in which the distributor has made the product available on the market,”.
+
+### 20. Amendment to regulation 36[^key-0e492b5d490bcfe509f579d689e7906f]
+
+In regulation 36 (prohibition on improper use of CE marking) in each place in which it occurs, and in the heading, for “CE” substitute “ UK ”.
+
+### 21. Insertion of regulations 36A and 36B[^key-e8c13fc341486c96174cd1c5383df1df]
+
+After regulation 36 insert—
+
+> **36A. Obligations which are met by complying with obligations in the ATEX Directive**
+>
+> (1) In this regulation—
+>
+> - (a) any reference to an Article or an Annex is a reference to an Article or an Annex of the ATEX Directive;
+> - (b) “**CE marking**” has the meaning given to it in Article 2(26); and
+> - (c) “**harmonised standard**” has the meaning given to in in Article 2(18).
+>
+> (2) Subject to paragraphs (6) and (7), paragraph (3) applies where, before placing the product on the market, the manufacturer—
+>
+> - (a) ensures that the product has been designed and manufactured in accordance with the essential safety requirements set out in Annex II;
+> - (b) ensures that the relevant conformity assessment procedures that apply to that product in accordance with Article 13(1) and (2) have been carried out;
+> - (c) draws up the technical documentation referred to in Annexes III to IX;
+> - (d) ensures that the records and correspondence relating to the conformity assessment procedures are prepared in or translated into English;
+> - (e) affixes a CE marking and the inscriptions in accordance with Articles 15 and 16(1) to (4);
+> - (f) draws up an EU declaration of conformity, in accordance with Article 14; and
+> - (g) ensures that the declaration of conformity is prepared in or translated into English.
+>
+> (3) Where this paragraph applies—
+>
+> - (a) the requirements of regulations 5, 6, 7(1), (3) and 7(6) are to be treated as being satisfied;
+> - (b) regulations 2(a), 7(6), 8, 9(2), 17(4) 36 and 59 apply subject to the modifications in paragraph (10);
+> - (c) Part 3 does not apply; and
+> - (d) regulation 57 does not apply.
+>
+> (4) Subject to paragraphs (6) and (7), paragraph (5) applies where, before placing a product on the market, the importer ensures that—
+>
+> - (a) the relevant conformity assessment procedure referred to in Article 13 has been carried out;
+> - (b) the manufacturer has drawn up the technical documents relevant to the conformity assessment procedure followed; and
+> - (c) the product bears the CE marking and inscriptions referred to in point 1.0.5 of Annex II.
+>
+> (5) Where this paragraph applies—
+>
+> - (a) the requirements of regulation 19(1)(a) to (c) are to be treated as being satisfied; and
+> - (b) regulations 2(a), 18, 23 and 27 apply subject to the modifications in paragraph (10).
+>
+> (6) This paragraph applies where there is no designated standard or part of a designated standard which corresponds exactly to a harmonised standard or part of a harmonised standard referred to in Article 12.
+>
+> (7) Where paragraph (6) applies, paragraphs (2)(b) and (4)(a) are to be treated as requiring the manufacturer to carry out—
+>
+> - (a) the conformity assessment procedure set out in Article 13(1)(b); and
+> - (b) the relevant conformity assessment procedure that applies to that product in accordance with Article 13(2).
+>
+> (8) Paragraph (9) applies where, before making a product available on the market, a distributor ensures that the product bears the CE marking and inscriptions referred to in point 1.0.5 of Annex II.
+>
+> (9) Where this paragraph applies—
+>
+> - (a) regulation 29(1)(a)(i) is to be treated as being satisfied; and
+> - (b) regulations 2(a), 30 and 31(1) apply subject to the modifications in paragraph (10).
+>
+> (10) The modifications referred to in subparagraphs (3)(b), (5)(b) and (9)(b) are that—
+>
+> - (a) any reference to “declaration of conformity” is to be read as a reference to the EU declaration of conformity;
+> - (b) any reference to “UK marking” is to be read as a reference to the CE marking;
+> - (c) any reference to “essential safety requirements” is to be read as a reference to the essential safety requirements referred to in Annex II;
+> - (d) any reference to “designated standard” is to be read as a reference to a harmonised standard;
+> - (e) any reference to “relevant conformity assessment procedure” is to be read as a reference to the relevant conformity assessment procedures referred to in Article 13;
+> - (f) any reference to “**technical documentation**” is a reference to the technical documentation referred to in Annexes III to IX.
+>
+> **36B. Conformity assessment procedure obligation which is met by complying with the ATEX Directive**
+>
+> (1) In this regulation any reference to an Article or Annex is a reference to an Article or an Annex of the ATEX Directive;
+>
+> (2) Paragraph (3) applies where, prior to the manufacture of a product, the manufacturer ensures that the conformity assessment procedure that applies to that product in accordance with Annex III as referred to in Article 13(1)(a) and (b) has been carried out.
+>
+> (3) Where this paragraph applies—
+>
+> - (a) any requirement to follow the Type examination set out in Part 1 of Schedule 3A in regulation 39 is to be treated as being satisfied;
+> - (b) any reference to “relevant conformity assessment procedure” in regulations 6(a), 7(1), 19(a), 36(1)(b), 40(c) and 41(3) is to be read as including the conformity assessment procedure set out in Annex III as referred to in Article 13(1)(a) and (b); and
+> - (c) any reference to “technical documentation” in regulations 6(b), 8, 19(b) and 27 is to be read as including the technical documentation relating to the design of the product referred to in Annex III.
+
+.
+
+### 22. Omission of regulation 37[^key-d1e287a1d475d559de0cfe176ecb1f1e]
+
+Omit regulation 37 (translation of declaration of conformity).
+
+### 23. Amendment to regulation 38[^key-2a0a82ce9d42332d6b02a0b9f72d3b25]
+
+In regulation 38 (presumption of conformity), in paragraph (1)—
+
+- (a) for “harmonised” substitute “ designated ”; and
+- (b) omit “the reference to which has been published in the Official Journal”.
+
+### 24. Amendment to regulation 39[^key-f8bb328d7338ec090a1092c82a293447]
+
+In regulation 39 (conformity assessment procedures)—
+
+- (a) for paragraph (1)(a) substitute—
+
+  > - (a) for equipment-groups I and II, equipment-categories M1 and 1, the manufacturer shall follow either—
+  >   - (i) the Type-examination set out in Part 1 of Schedule 3A, in conjunction with either the procedure set out in—
+  >     - (aa) Part 2 of Schedule 3A, or
+  >     - (bb) Part 3 of Schedule 3A; or
+  >   - (ii) the conformity based on unit verification referred to in Part 7 of Schedule  3A;
+
+  ;
+- (b) for paragraph (1)(b) substitute—
+
+  > - (b) for equipment-groups I and II, equipment-categories M2 and 2, the manufacturer shall follow—
+  >   - (i) for internal combustion engines and electrical equipment in these groups and categories the Type examination set out in Part 1 of Schedule 3A, in conjunction with either the procedure set out in either Part 4 or Part 5 of Schedule 3A unless subparagraph (1)(d) applies;
+  >   - (ii) for other equipment in these groups and categories the procedures set out in Part 6 of Schedule 3A unless subparagraph (1)(d) applies;
+
+  ;
+- (c) for paragraph (1)(c) substitute—
+
+  > - (c) for equipment group II, equipment-category 3, the procedure relating to internal production control referred to in Part 6 of Schedule 3A unless subparagraph (1)(d) applies;
+
+  ;
+- (d) for paragraph (1)(d) substitute—
+
+  > - (d) for equipment groups I and II, instead of the procedures referred to in paragraphs (1)(a), (b) and (c), the manufacturer may follow conformity based on unit verification referred to in Part 7 of Schedule 3A.
+
+  ;
+- (e) in paragraph (2) omit “or (d)”;
+- (f) in paragraph (3)(a)(i) for “CE” substitute “ UK ”;
+- (g) in paragraph (3)(a)(ii) omit “EU”;
+- (h) in paragraph (4) for “Annex VIII to the ATEX Directive (as amended from time to time)” substitute “ Part 6 of Schedule 3A ”;
+- (i) in paragraph (5), omit “in the Member State concerned”;
+- (j) in paragraph (6) for “Member State” substitute “ designated state ”.
+
+### 25. Amendment to regulation 40[^key-4523d7710a3965daed524b7e745e18ef]
+
+Regulation 40 (EU declaration of conformity) is amended as follows—
+
+- (a) in the heading and in the body of the regulation, omit “EU”;
+- (b) in paragraph (c) for “Annexes III to IX to the ATEX Directive (as amended from time to time)” substitute “ Schedule 3A ”.
+
+### 26. Amendment to regulation 41[^key-5e4939df0ed60a1a0be7fd1b5640c3a7]
+
+In regulation 41 (CE marking)—
+
+- (a) in the heading, and the regulation, for “CE” substitute “ UK ” in each place in which it occurs;
+- (b) for “notified body” substitute “ approved body ” in each place in which it occurs.
+
+### 27. Amendment to Part 4[^key-dbc219ac390d31164b73214f12bb45a3]
+
+For Part 4, substitute—
+
+> **PART 4 — APPROVAL OF CONFORMITY ASSESSMENT BODIES**
+>
+> **42. Approved bodies**
+>
+> (1) An approved body is a conformity assessment body which—
+>
+> - (a) has been approved by the Executive pursuant to the procedure set out in regulation 43 (approval of conformity assessment bodies); or
+> - (b) immediately before exit day was a notified body in respect of which the Executive has taken no action under regulation 46(1) or (2) as they had effect immediately before exit day.
+>
+> (2) Paragraph (1) has effect subject to regulation 46 (restriction, suspension or withdrawal of approval).
+>
+> (3) In this Part—
+>
+> - “**notified body**” means a body—
+>   - (a) which the Executive had before exit day notified to the European Commission and the member States of the European Union, in accordance with Article 17 of the ATEX Directive; and
+>   - (b) in respect of which no objections had been raised as referred to in regulation 42(1)(b) as it had effect immediately before exit day;
+> - “**approved body requirements**” means the requirements set out in Schedule 2.
+>
+> **43. Approval of conformity assessment bodies**
+>
+> (1) The Executive may approve only those conformity assessment bodies that qualify for approval.
+>
+> (2) A conformity assessment body qualifies for approval if the first and second conditions below are met.
+>
+> (3) The first condition is that the conformity assessment body has applied to the Executive to become an approved body and that application is accompanied by—
+>
+> - (a) a description of—
+>   - (i) the conformity assessment activities that the conformity assessment body intends to carry out;
+>   - (ii) the conformity assessment procedure in respect of which the conformity assessment body claims to be competent;
+>   - (iii) the category of products in respect of which the conformity assessment body claims to be competent; and
+> - (b) either—
+>   - (i) an accreditation certificate, or
+>   - (ii) the documentary evidence necessary for the Executive to verify, recognise and regularly monitor the conformity assessment body's compliance with the approved body requirements.
+>
+> (4) The second condition is that the Executive is satisfied that the conformity assessment body meets the approved body requirements.
+>
+> (5) For the purposes of paragraph (4), the Executive may accept an accreditation certificate, provided in accordance with paragraph (3)(b), as sufficient evidence that the conformity assessment body meets the approved body requirements.
+>
+> (6) When deciding whether to approve a conformity assessment body that applies for approval, the Executive may—
+>
+> - (a) have regard to any other matter which appears to the Executive to be relevant; and
+> - (b) set conditions that the conformity assessment body must meet.
+>
+> (7) For the purposes of this regulation “**accreditation certificate**” means a certificate, issued by the UK national accreditation body, attesting that a conformity assessment body meets the approved body requirements.
+>
+> **44. Presumption of conformity of approved bodies**
+>
+> (1) Where a conformity assessment body demonstrates its conformity with the criteria laid down in a designated standard (or part of such standard), the Executive is to presume that the conformity assessment body meets the approved body requirements covered by that standard (or part of that standard).
+>
+> (2) The presumption in paragraph (1) is rebuttable.
+>
+> **45. Monitoring**
+>
+> The Executive shall monitor each approved body with a view to verifying that the body—
+>
+> - (a) continues to meet the approved body requirements;
+> - (b) meets any conditions set—
+>   - (i) in accordance with regulation 43(6)(b), or
+>   - (ii) in the case of an approved body which was a notified body immediately before exit day, in accordance with regulation 43(6)(b) as it applied immediately before exit day; and
+> - (c) carries out its functions in accordance with these Regulations.
+>
+> **46. Restriction, suspension or withdrawal of approval**
+>
+> (1) Where the Executive determines that an approved body—
+>
+> - (a) no longer meets an approved body requirement, or
+> - (b) is failing to fulfil its obligations under these Regulations, other than a condition referred to in regulation 45(b),
+>
+> the Executive shall restrict, suspend or withdraw the body's status as an approved body under regulation 42 (approved bodies).
+>
+> (2) Where the Executive determines that an approved body no longer meets a condition referred to in regulation 45(b), the Executive may restrict, suspend or withdraw the body's status as an approved body under regulation 42.
+>
+> (3) In deciding what action is required under paragraph (1) or (2) the Executive shall have regard to the seriousness of the non-compliance.
+>
+> (4) Before taking action under paragraph (1) or (2) the Executive shall—
+>
+> - (a) give notice in writing to the approved body of the proposed action and the reasons for it;
+> - (b) give the approved body an opportunity to make representations to the Executive regarding the proposed action within a reasonable period from the date of the notice; and
+> - (c) consider any such representations made by the approved body.
+>
+> (5) Where the Executive has taken action in respect of an approved body under paragraph (1) or (2), or where an approved body has ceased its activity, the approved body shall, at the request of the Executive—
+>
+> - (a) transfer its files relating to the activities it has undertaken as an approved body to another approved body or to the Executive, or
+> - (b) keep its files relating to the activities it has undertaken as an approved body available for the Executive and market surveillance authorities for a period of 10 years from the date they were created.
+>
+> (6) The activities undertaken by an approved body referred to in paragraph (5) include any activities that the body has undertaken as a notified body.
+>
+> **47. Operational matters in relation to approved bodies**
+>
+> (1) Subject to the terms of its appointment, an approved body shall carry out the conformity assessment activities and procedures—
+>
+> - (a) in respect of which the body's approval was given under regulation 43 (approval of conformity assessment bodies), or
+> - (b) in respect of which the body's notification as a notified body was made.
+>
+> (2) Where an approved body carries out a conformity assessment procedure, it shall do so in accordance with Schedule 3.
+>
+> (3) An approved body shall make provision for a manufacturer to be able to make an appeal against a refusal by the approved body—
+>
+> - (a) to issue a Type examination certificate referred to in Part 1 of Schedule 3A;
+> - (b) to affix, or cause to be affixed, the body's identification number pursuant to regulation 41 (UK marking).
+>
+> **48. Subsidiaries and contractors**
+>
+> (1) An approved body may subcontract specific conformity assessment activities, or use a subsidiary to carry out such activities provided—
+>
+> - (a) the body is satisfied that the subcontractor or subsidiary meet the approved body requirements;
+> - (b) the body has informed the Executive that it is satisfied that the subcontractor or subsidiary meet those requirements; and
+> - (c) the economic operator for whom the activities are to be carried out has consented to the activities being carried out by that person.
+>
+> (2) The approved body which subcontracts specific conformity assessment activities or uses a subsidiary to carry out such activities remains responsible for the proper performance of those activities (irrespective of where the subcontractor or subsidiary is established).
+>
+> (3) Where an approved body subcontracts, or uses a subsidiary to carry out, a specific conformity assessment activity, the approved body shall, for a period of 10 years beginning on the day on which the activity is first carried out, keep available for inspection by the Executive all relevant documents concerning—
+>
+> - (a) the assessment of the qualifications of the subcontractor or the subsidiary; and
+> - (b) the conformity assessment activity carried out by the subcontractor or subsidiary.
+>
+> (4) In this regulation “**subsidiary**” has the meaning given to it in section 1159 of the Companies Act 2006 [^c24327551];
+>
+> **49. Register of approved bodies**
+>
+> (1) The Executive shall—
+>
+> - (a) assign an approved body identification number to each approved body; and
+> - (b) compile and maintain a register of—
+>   - (i) approved bodies;
+>   - (ii) their approved body notification numbers;
+>   - (iii) the activities for which they have been approved; and
+>   - (iv) any restrictions on those activities.
+>
+> (2) The register referred to in paragraph (1) shall be made publicly available.
+>
+> **50. UK national accreditation body**
+>
+> The Executive may authorise the UK national accreditation body to carry out the following activities on behalf of the Executive—
+>
+> - (a) assessing whether a conformity assessment body meets the approved body requirements;
+> - (b) monitoring approved bodies in accordance with regulation 45(monitoring); and
+> - (c) compiling and maintaining the register of approved bodies, in accordance with regulation 49(register of approved bodies).
+
+.
+
+### 28. Amendment to regulation 54[^key-45b8a72efe056909eed42918dc021071]
+
+In regulation 54 (exercise of enforcement powers) omit paragraph (c).
+
+### 29. Amendment to regulation 56[^key-133fde0f929f904f94a853c9766025bd]
+
+Regulation 56 (enforcement action in respect of products which are not in conformity and which present a risk) is amended as follows—
+
+- (a) in paragraph (2) for “notified” substitute “ approved ”;
+- (b) in paragraph (3) for “shall inform the European Commission, Great Britain and the other Member states” substitute “ shall inform Great Britain ”;
+- (c) in paragraph (5) for “shall notify the European Commission, Great Britain and the other Member States” substitute “ shall notify Great Britain ”;
+- (d) in subparagraph (6)(f)(ii) for “harmonised” substitute “ designated ”.
+
+### 30. Amendment to regulation 57[^key-459140d1df3ee9fde703869424fc6137]
+
+Omit regulation 57 (EU safeguard procedure).
+
+### 31. Amendment to regulation 58[^key-f354b823d07a6033167964e3e18ee2d4]
+
+In regulation 58 (enforcement action in respect of products which are in conformity, but present a risk), in paragraph (2) for “the European Commission, Great Britain and the other Member States” substitute “ Great Britain ”.
+
+### 32. Amendment to regulation 59[^key-298d5a6dfa3d43969197a5c8efee4b2d]
+
+Regulation 59 (enforcement action in respect of formal non-compliance) is amended as follows—
+
+- (a) in paragraphs (1)(a) and (1)(c)(ii) for “CE” substitute “ UK ” in each place in which it occurs;
+- (b) in paragraph (1)(b) for “a notified” substitute “ an approved ”; and
+- (c) in paragraph (1)(c) omit “EU” in each place in which it occurs.
+
+### 33. Amendment to regulation 71[^key-b05b0b201385e014d8d63452b47c07d1]
+
+In regulation 71 (transitional provisions) omit paragraph (2).
+
+**34.**[^key-84e0c9e405967cd2fe0b27cdd447da9a] After regulation 71 insert—
+
+> **71A. Transitional provision in relation to EU Exit**
+>
+> (1) In this regulation—
+>
+> “**pre-exit period**” means the period beginning with the commencement date and ending immediately before exit day;
+>
+> (2) Subject to paragraph (3), where a product was made available on the market during the pre-exit period, despite the amendments made by Schedule 32 to the Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 [^c24327561], any obligation to which a person was subject under these Regulations as they had effect immediately before exit day, continues to have effect as it did immediately before exit day, in relation to that product.
+>
+> (3) Paragraph (2) does not apply to—
+>
+> - (a) any obligation of any enforcing authority to inform the European Commission or the member States of any matter; or
+> - (b) any obligation to take action outside of the market in respect of that product.
+>
+> (4) Where during the pre-exit period—
+>
+> - (a) a product has not been placed on the market; and
+> - (b) a manufacturer has taken any action under regulation 38 (Presumption of conformity) as it had effect immediately before exit day in relation to that product;
+>
+> that action has effect as if it had been done under regulation 38 as it had effect on and after exit day.
+
+.
+
+### 35. Amendment to regulation 72[^key-0f16126b017fe43e66243664ef39f1ea]
+
+Regulation 72(consequential amendments, revocations and savings) is amended as follows—
+
+- (a) for paragraph (3) after “Equipment and Protective Systems Intended for use in Potentially Explosive Atmospheres (Amendment) Regulations (Northern Ireland) 2008” insert “ subject to the modifications in paragraph (3A) ”;
+- (b) after paragraph (3), insert—
+
+  > (3A) The modifications in the 1996 Regulations referred to in paragraph (3) are as follows—
+  >
+  > - (a) references to the Community shall be read as including the United Kingdom;
+  > - (b) references to a member State shall be read as including the United Kingdom;
+  > - (c) references to a “notified body” shall be read as “**approved body**” as defined in The Equipment and Protective Systems Intended for Use in Potentially Explosive Atmospheres Regulations (Northern Ireland) 2017 [^c24327571].
+
+  .
+
+### 36. Amendment to Schedule 1[^key-f095fdd5d5e52d9b2ef4db802d7a935c]
+
+Schedule 1 (essential health and safety requirements) is amended as follows—
+
+- (a) in paragraph 5(1)(b) for “CE marking (see Annex II RAMS)” substitute “ UK marking; ”;
+- (b) at paragraph 13(2)—
+  - (i) for “other European Union legislation” substitute “ any other enactment ”;
+  - (ii) for “European Union legislation” substitute “ specific enactment ”.
+
+### 37. Insertion of Schedule 1A[^key-7dbd8c294ea9b8281cdedd3372dbc419]
+
+After Schedule 1 insert—
+
+> **SCHEDULE 1A — Criteria determining the classification of equipment-groups into categories (Annex I to the ATEX Directive)**
+>
+> Regulation 2
+>
+> **1.** Equipment group I
+>
+> - (a) Equipment category M 1 comprises equipment designed and, where necessary, equipped with additional special means of protection to be capable of functioning in conformity with the operational parameters established by the manufacturer and ensuring a very high level of protection.
+>
+>   Equipment in this category is intended for use in underground parts of mines as well as those parts of surface installations of such mines endangered by firedamp and/or combustible dust.
+>
+>   Equipment in this category is required to remain functional, even in the event of rare incidents relating to equipment, with an explosive atmosphere present, and is characterised by means of protection such that:
+>
+>   either, in the event of failure of one means of protection, at least an independent second means provides the requisite level of protection,
+>
+>   or the requisite level of protection is assured in the event of two faults occurring independently of each other.
+>
+>   Equipment in this category must comply with the supplementary requirements referred to in paragraph 30 of Schedule 1.
+> - (b) Equipment category M 2 comprises equipment designed to be capable of functioning in conformity with the operational parameters established by the manufacturer and ensuring a high level of protection.
+>
+>   Equipment in this category is intended for use in underground parts of mines as well as those parts of surface installations of such mines likely to be endangered by firedamp and/or combustible dust.
+>
+>   This equipment is intended to be de-energised in the event of an explosive atmosphere.
+>
+>   The means of protection relating to equipment in this category assure the requisite level of protection during normal operation and also in the case of more severe operating conditions, in particular those arising from rough handling and changing environmental conditions.
+>
+>   Equipment in this category must comply with the supplementary requirements referred to in paragraph 31 of Schedule 1.
+>
+> **2.** Equipment-group II
+>
+> - (a) Equipment category 1 comprises equipment designed to be capable of functioning in conformity with the operational parameters established by the manufacturer and ensuring a very high level of protection.
+>
+>   Equipment in this category is intended for use in areas in which explosive atmospheres caused by mixtures of air and gases, vapours or mists or by air/dust mixtures are present continuously, for long periods or frequently.
+>
+>   Equipment in this category must ensure the requisite level of protection, even in the event of rare incidents relating to equipment, and is characterised by means of protection such that:
+>
+>   either, in the event of failure of one means of protection, at least an independent second means provides the requisite level of protection,
+>
+>   or the requisite level of protection is assured in the event of two faults occurring independently of each other.
+>
+>   Equipment in this category must comply with the supplementary requirements referred to in paragraphs 32 and 33 of Schedule 1.
+> - (b) Equipment category 2 comprises equipment designed to be capable of functioning in conformity with the operational parameters established by the manufacturer and of ensuring a high level of protection.
+>
+>   Equipment in this category is intended for use in areas in which explosive atmospheres caused by gases, vapours, mists or air/dust mixtures are likely to occur occasionally.
+>
+>   The means of protection relating to equipment in this category ensure the requisite level of protection, even in the event of frequently occurring disturbances or equipment faults which normally have to be taken into account.
+>
+>   Equipment in this category must comply with the supplementary requirements referred to in paragraphs 34 and 35 of Schedule 1.
+> - (c) Equipment category 3 comprises equipment designed to be capable of functioning in conformity with the operating parameters established by the manufacturer and ensuring a normal level of protection.
+>
+>   Equipment in this category is intended for use in areas in which explosive atmospheres caused by gases, vapours, mists, or air/dust mixtures are unlikely to occur or, if they do occur, are likely to do so only infrequently and for a short period only.
+>
+>   Equipment in this category ensures the requisite level of protection during normal operation.
+>
+>   Equipment in this category must comply with the supplementary requirements referred to in paragraphs 36 and 37 of Schedule 1.
+
+.
+
+### 38. Amendment to Schedule 2[^key-5ac42cff7d1e0c112c867b8cad36a078]
+
+Schedule 2 (notified body requirements) is amended as follows—
+
+- (a) in the heading and in paragraphs 6, 9, 12(a) and 18 substitute each “ notified ” for “approved”;
+- (b) for “a notified body” substitute “ an approved body ” in every place in which it occurs;
+- (c) in paragraph 3 for “regulation 43 (notification)” substitute “ regulation 43 (approval of conformity assessment bodies) ”;
+- (d) in paragraph 10(b) for “a notified” substitute “ an approved ”;
+- (e) in paragraph 12(c) for “harmonised standards and of the ATEX Directive” substitute “ designated standards ”; and
+- (f) in paragraph 18 for “under the ATEX Directive” substitute “ by the Executive ”.
+
+### 39. Amendment to Schedule 3[^key-8b487a5246e8436476cbe65eef1e6118]
+
+In Schedule 3 (operational obligations of notified bodies) is amended as follows—
+
+- (a) in the shoulder reference for “Regulation 49” substitute “ Regulation 47 ”;
+- (b) in the heading and in paragraphs 7 and 9 for “notified body” substitute “ approved body ”;
+- (c) in all places in which it occurs (other than where stated in paragraph (b)) for “a notified body” substitute “ an approved body ”;
+- (d) in paragraphs 10(b) and (c) for “regulation 44” substitute “ regulation 43 (approval of conformity assessment bodies) ”;
+- (e) in paragraph 10(c) for “notification” substitute “ approval ”;
+- (f) in paragraph 12 for “bodies notified under the ATEX Directive” substitute “ bodies approved under these Regulations ”;
+- (g) in paragraph 13 for “notified body coordination group established under the ATEX Directive” substitute “ approved body coordination group established by the Executive ”.
+
+### 40. Insertion of Schedule 3A[^key-f86a5a9a4faff7702355e50f727d8bdc]
+
+After Schedule 3 insert—
+
+> **SCHEDULE 3A — Conformity Assessment Procedures (Annexes III to IX to the ATEX Directive)**
+>
+> Regulation 2, 6, 39 and 40
+>
+> **PART 1**
+>
+> **1. TYPE EXAMINATION**
+>
+> Type examination is the part of a conformity assessment procedure in which an approved body examines the technical design of a product and verifies and attests that the technical design of the product meets the requirements of these Regulations that apply to it.
+>
+> **2.** Type examination shall be carried out with the examination of a specimen, representative of the production envisaged, of the complete product (production type).
+>
+> **3.** The manufacturer shall lodge an application for Type examination with a single approved body of his choice.
+>
+> The application shall include:
+>
+> - (a) the name and address of the manufacturer and, if the application is lodged by the authorised representative, his name and address as well,
+> - (b) a written declaration that the same application has not been lodged with any other approved body,
+> - (c) the technical documentation. The technical documentation shall make it possible to assess the product's conformity with the applicable requirements of these Regulations and shall include an adequate analysis and assessment of the risk(s). The technical documentation shall specify the applicable requirements and cover, as far as relevant for the assessment, the design, manufacture and operation of the product. The technical documentation shall contain at least the following elements:
+>   - (i) a general description of the product,
+>   - (ii) conceptual design and manufacturing drawings and schemes of components, sub-assemblies, circuits, etc.,
+>   - (iii) descriptions and explanations necessary for the understanding of those drawings and schemes and the operation of the product,
+>   - (iv) a list of the designated standards applied in full or in part and, where those designated standards have not been applied, descriptions of the solutions adopted to meet the essential health and safety requirements of these Regulations, including a list of other relevant technical specifications applied. In the event of partly applied designated standards, the technical documentation shall specify the parts which have been applied,
+>   - (v) results of design calculations made, examinations carried out, etc., and
+>   - (vi) test reports,
+> - (d) the specimens representative of the production envisaged. The approved body may request further specimens if needed for carrying out the test programme.
+>
+> **4.** The approved body shall:
+>
+> **4.1.** examine the technical documentation, verify that the specimen(s) have been manufactured in conformity with the technical documentation, and identify the elements which have been designed in accordance with the applicable provisions of the relevant designated standards, as well as the elements which have been designed in accordance with other relevant technical specifications;
+>
+> **4.2.** carry out appropriate examinations and tests, or have them carried out, to check whether, where the manufacturer has chosen to apply the solutions in the relevant designated standards, these have been applied correctly;
+>
+> **4.3.** carry out appropriate examinations and tests, or have them carried out, to check whether, where the solutions in the relevant designated standards have not been applied, the solutions adopted by the manufacturer applying other relevant technical specifications meet the corresponding essential health and safety requirements of these Regulations;
+>
+> **4.4.** agree with the manufacturer on a location where the examinations and tests will be carried out.
+>
+> **5.** The approved body shall draw up an evaluation report that records the activities undertaken in accordance with paragraph 4 and their outcomes. Without prejudice to its obligations vis-à-vis the Executive, the approved body shall release the content of that report, in full or in part, only with the agreement of the manufacturer.
+>
+> **6.** Where the type meets the requirements of these Regulations that apply to the product concerned, the approved body shall issue a Type examination certificate to the manufacturer. That certificate shall contain the name and address of the manufacturer, the conclusions of the examination, the conditions (if any) for its validity and the necessary data for identification of the approved type. The Type examination certificate may have one or more annexes attached.
+>
+> The Type examination certificate and its annexes shall contain all relevant information to allow the conformity of manufactured products with the examined type to be evaluated and to allow for in-service control.
+>
+> Where the type does not satisfy the applicable requirements of these Regulations, the approved body shall refuse to issue a Type examination certificate and shall inform the applicant accordingly, giving detailed reasons for its refusal.
+>
+> **7.** The approved body shall keep itself apprised of any changes in the generally acknowledged state of the art which indicate that the approved type may no longer comply with the applicable requirements of these Regulations and shall determine whether such changes require further investigation. If so, the approved body shall inform the manufacturer accordingly.
+>
+> The manufacturer shall inform the approved body that holds the technical documentation relating to the Type examination certificate of all modifications to the approved type that may affect the conformity of the product with the essential health and safety requirements of these Regulations or the conditions for validity of that certificate. Such modifications shall require additional approval in the form of an addition to the original Type examination certificate.
+>
+> **8.** Each approved body shall inform the Executive concerning the Type examination certificates and/or any additions thereto which it has issued or withdrawn, and shall, periodically or upon request, make available to the Secretary of State the list of such certificates and/or any additions thereto refused, suspended or otherwise restricted.
+>
+> Each approved body shall inform the other approved bodies concerning the Type examination certificates and/or any additions thereto which it has refused, withdrawn, suspended or otherwise restricted, and, upon request, concerning such certificates and/or additions thereto which it has issued.
+>
+> Great Britain may, on request, obtain a copy of the Type examination certificates and/or additions thereto. On request, Great Britain may obtain a copy of the technical documentation and the results of the examinations carried out by the approved body. The approved body shall keep a copy of the Type examination certificate, its annexes and additions, as well as the technical file including the documentation submitted by the manufacturer, until the expiry of the validity of that certificate.
+>
+> **9.** The manufacturer shall keep a copy of the Type examination certificate, its annexes and additions together with the technical documentation at the disposal of the national authorities for 10 years after the product has been placed on the market.
+>
+> **10.** The manufacturer's authorised representative may lodge the application referred to in paragraph 3 and fulfil the obligations set out in paragraphs 7 and 9, provided that they are specified in the mandate.
+>
+> **PART 2 — CONFORMITY TO TYPE BASED ON QUALITY ASSURANCE OF THE PRODUCTION PROCESS**
+>
+> **1.** Conformity to type based on quality assurance of the production process is the part of a conformity assessment procedure whereby the manufacturer fulfils the obligations laid down in paragraphs 2 and 5, and ensures and declares on his sole responsibility that the products concerned are in conformity with the type described in the Type examination certificate and satisfy the requirements of these Regulations that apply to them.
+>
+> **2. Manufacturing**
+>
+> The manufacturer shall operate an approved quality system for production, final product inspection and testing of the products concerned as specified in paragraph 3 and shall be subject to surveillance as specified in paragraph 4.
+>
+> **3. Quality system**
+>
+> **3.1.** The manufacturer shall lodge an application for assessment of his quality system with the approved body of his choice, for the products concerned.
+>
+> The application shall include:
+>
+> - (a) the name and address of the manufacturer and, if the application is lodged by the authorised representative, his name and address as well,
+> - (b) a written declaration that the same application has not been lodged with any other approved body,
+> - (c) all relevant information for the product category envisaged,
+> - (d) the documentation concerning the quality system,
+> - (e) the technical documentation of the approved type and a copy of the Type examination certificate.
+>
+> **3.2.** The quality system shall ensure that the products are in conformity with the type described in the Type examination certificate and comply with the requirements of these Regulations that apply to them.
+>
+> All the elements, requirements and provisions adopted by the manufacturer shall be documented in a systematic and orderly manner in the form of written policies, procedures and instructions. The quality system documentation shall permit a consistent interpretation of the quality programmes, plans, manuals and records.
+>
+> It shall, in particular, contain an adequate description of:
+>
+> - (a) the quality objectives and the organisational structure, responsibilities and powers of the management with regard to product quality,
+> - (b) the corresponding manufacturing, quality control and quality assurance techniques, processes and systematic actions that will be used,
+> - (c) the examinations and tests that will be carried out before, during and after manufacture, and the frequency with which they will be carried out,
+> - (d) the quality records, such as inspection reports and test data, calibration data, qualification reports on the personnel concerned, etc., and
+> - (e) the means of monitoring the achievement of the required product quality and the effective operation of the quality system.
+>
+> **3.3.** The approved body shall assess the quality system to determine whether it satisfies the requirements referred to in paragraph 3.2.
+>
+> It shall presume conformity with those requirements in respect of the elements of the quality system that comply with the corresponding specifications of the relevant designated standard.
+>
+> In addition to experience in quality management systems, the auditing team shall have at least one member with experience of evaluation in the relevant product field and product technology concerned, and knowledge of the applicable requirements of these Regulations. The audit shall include an assessment visit to the manufacturer's premises. The auditing team shall review the technical documentation referred to in paragraph 3.1(e) to verify the manufacturer's ability to identify the relevant requirements of these Regulations and to carry out the necessary examinations with a view to ensuring compliance of the product with those requirements.
+>
+> The decision shall be notified to the manufacturer. The notification shall contain the conclusions of the audit and the reasoned assessment decision.
+>
+> **3.4.** The manufacturer shall undertake to fulfil the obligations arising out of the quality system as approved and to maintain it so that it remains adequate and efficient.
+>
+> **3.5.** The manufacturer shall keep the approved body that has approved the quality system informed of any intended change to the quality system.
+>
+> The approved body shall evaluate any proposed changes and decide whether the modified quality system will continue to satisfy the requirements referred to in paragraph 3.2 or whether a reassessment is necessary.
+>
+> It shall notify the manufacturer of its decision. The notification shall contain the conclusions of the examination and the reasoned assessment decision.
+>
+> **4. Surveillance under the responsibility of the approved body**
+>
+> **4.1.** The purpose of surveillance is to make sure that the manufacturer duly fulfils the obligations arising out of the approved quality system.
+>
+> **4.2.** The manufacturer shall, for assessment purposes, allow the approved body access to the manufacture, inspection, testing and storage sites and shall provide it with all necessary information, in particular:
+>
+> - (a) the quality system documentation,
+> - (b) the quality records, such as inspection reports and test data, calibration data, qualification reports on the personnel concerned, etc.
+>
+> **4.3.** The approved body shall carry out periodic audits to make sure that the manufacturer maintains and applies the quality system and shall provide the manufacturer with an audit report.
+>
+> **4.4.** In addition, the approved body may pay unexpected visits to the manufacturer. During such visits the approved body may, if necessary, carry out product tests, or have them carried out, in order to verify that the quality system is functioning correctly. The approved body shall provide the manufacturer with a visit report and, if tests have been carried out, with a test report.
+>
+> **5. UK marking, declaration of conformity and attestation of conformity**
+>
+> **5.1.** The manufacturer shall affix the UK marking and, under the responsibility of the approved body referred to in paragraph 3.1, the latter's identification number to each individual product other than a component that is in conformity with the type described in the Type examination certificate and satisfies the applicable requirements of these Regulations.
+>
+> **5.2.** The manufacturer shall draw up a written declaration of conformity for each product model, other than a component and keep it at the disposal of the national authorities for 10 years after the product other than a component has been placed on the market. The declaration of conformity shall identify such product model for which it has been drawn up.
+>
+> A copy of the declaration of conformity shall accompany every product, other than a component.
+>
+> **5.3.** The manufacturer shall draw up a written attestation of conformity for each component model and keep it at the disposal of the national authorities for 10 years after the component has been placed on the market. The attestation of conformity shall identify the component model for which it has been drawn up. A copy of the attestation of conformity shall accompany every component.
+>
+> **6.** The manufacturer shall, for a period ending 10 years after the product has been placed on the market, keep at the disposal of the national authorities:
+>
+> - (a) the documentation referred to in paragraph 3.1,
+> - (b) the information relating to the change referred to in paragraph 3.5, as approved,
+> - (c) the decisions and reports of the approved body referred to in paragraphs 3.5, 4.3 and 4.4.
+>
+> **7.** Each approved body shall inform the Executive of quality system approvals issued or withdrawn, and shall, periodically or upon request, make available to the Executive the list of quality system approvals refused, suspended or otherwise restricted.
+>
+> Each approved body shall inform the other approved bodies of quality system approvals which it has refused, suspended, withdrawn or otherwise restricted, and, upon request, of quality system approvals which it has issued.
+>
+> **8. Authorised representative**
+>
+> The manufacturer's obligations set out in paragraphs 3.1, 3.5, 5 and 6 may be fulfilled by his authorised representative, on his behalf and under his responsibility, provided that they are specified in the mandate.
+>
+> **PART 3 — CONFORMITY TO TYPE BASED ON PRODUCT VERIFICATION**
+>
+> **1.** Conformity to type based on product verification is the part of a conformity assessment procedure whereby the manufacturer fulfils the obligations laid down in paragraphs 2 and 5 and ensures and declares on his sole responsibility that the products concerned, which have been subject to the provisions of paragraph 3, are in conformity with the type described in the Type examination certificate and satisfy the requirements of these Regulations that apply to them.
+>
+> **2. Manufacturing**
+>
+> The manufacturer shall take all measures necessary so that the manufacturing process and its monitoring ensure conformity of the manufactured products with the approved type described in the Type examination certificate and with the requirements of these Regulations that apply to them.
+>
+> **3. Verification**
+>
+> An approved body chosen by the manufacturer shall carry out appropriate examinations and tests in order to check the conformity of the products with the approved type described in the Type examination certificate and with the appropriate requirements of these Regulations.
+>
+> The examinations and tests to check the conformity of the products with the appropriate requirements shall be carried out by examination and testing of every product as specified in paragraph 4.
+>
+> **4. Verification of conformity by examination and testing of every product**
+>
+> **4.1.** All products shall be individually examined, and appropriate tests set out in the relevant designated standard(s) and/or equivalent tests set out in other relevant technical specifications, shall be carried out in order to verify conformity with the approved type described in the Type examination certificate and with the appropriate requirements of these Regulations.
+>
+> In the absence of such a designated standard, the approved body concerned shall decide on the appropriate tests to be carried out.
+>
+> **4.2.** The approved body shall issue a certificate of conformity in respect of the examinations and tests carried out and shall affix its identification number to each approved product or have it affixed under its responsibility.
+>
+> The manufacturer shall keep the certificates of conformity available for inspection by the national authorities for 10 years after the product has been placed on the market.
+>
+> **5. UK marking, declaration of conformity and attestation of conformity**
+>
+> **5.1.** The manufacturer shall affix the UK marking and, under the responsibility of the approved body referred to in paragraph 3, the latter's identification number to each individual product other than a component that is in conformity with the approved type described in the Type examination certificate and satisfies the applicable requirements of these Regulations.
+>
+> **5.2.** The manufacturer shall draw up a written declaration of conformity for each product model other than a component and keep it at the disposal of the national authorities, for 10 years after the product, other than a component, has been placed on the market. The declaration of conformity shall identify such product model for which it has been drawn up.
+>
+> A copy of the declaration of conformity shall accompany every product other than a component.
+>
+> If the approved body referred to in paragraph 3 agrees and under its responsibility, the manufacturer may also affix the approved body's identification number to the products other than components.
+>
+> **5.3.** The manufacturer shall draw up a written attestation of conformity for each component model and keep it at the disposal of the national authorities for 10 years after the component has been placed on the market. The attestation of conformity shall identify the component model for which it has been drawn up. A copy of the attestation of conformity shall accompany every component.
+>
+> **6.** If the approved body agrees and under its responsibility, the manufacturer may affix the approved body's identification number to the products during the manufacturing process.
+>
+> **7. Authorised representative**
+>
+> The manufacturer's obligations may be fulfilled by his authorised representative, on his behalf and under his responsibility, provided that they are specified in the mandate. An authorised representative may not fulfil the manufacturer's obligations set out in paragraph 2.
+>
+> **PART 4 — CONFORMITY TO TYPE BASED ON INTERNAL PRODUCTION CONTROL PLUS SUPERVISED PRODUCT TESTING**
+>
+> **1.** Conformity to type based on internal production control plus supervised product testing is the part of a conformity assessment procedure whereby the manufacturer fulfils the obligations laid down in paragraphs 2, 3 and 4, and ensures and declares on his sole responsibility that the products concerned are in conformity with the type described in the Type examination certificate and satisfy the requirements of these Regulations that apply to them.
+>
+> **2. Manufacturing**
+>
+> The manufacturer shall take all measures necessary so that the manufacturing process and its monitoring ensure conformity of the manufactured products with the type described in the Type examination certificate and with the requirements of these Regulations that apply to them.
+>
+> **3. Product checks**
+>
+> For each individual product manufactured one or more tests on one or more specific aspects of the product shall be carried out by the manufacturer or on his behalf, in order to verify conformity with the type described in the Type examination certificate and with the corresponding requirements of these Regulations. The tests shall be carried out under the responsibility of an approved body, chosen by the manufacturer.
+>
+> The manufacturer shall, under the responsibility of the approved body, affix the approved body's identification number during the manufacturing process.
+>
+> **4. UK marking, declaration of conformity and attestation of conformity**
+>
+> **4.1.** The manufacturer shall affix the UK marking to each individual product other than a component that is in conformity with the type described in the Type examination certificate and satisfies the applicable requirements of these Regulations.
+>
+> **4.2.** The manufacturer shall draw up a written declaration of conformity for a product model other than a component and keep it at the disposal of the national authorities for 10 years after the product, other than a component has been placed on the market. The declaration of conformity shall identify such product model for which it has been drawn up.
+>
+> A copy of the declaration of conformity shall accompany every product, other than a component.
+>
+> **4.3.** The manufacturer shall draw up a written attestation of conformity for each component model and keep it at the disposal of the national authorities for 10 years after the component has been placed on the market. The attestation of conformity shall identify the component model for which it has been drawn up. A copy of the attestation of conformity shall accompany every component.
+>
+> **5. Authorised representative**
+>
+> The manufacturer's obligations set out in paragraph 4 may be fulfilled by his authorised representative, on his behalf and under his responsibility, provided that they are specified in the mandate.
+>
+> **PART 5 — CONFORMITY TO TYPE BASED ON PRODUCT QUALITY ASSURANCE**
+>
+> **1.** Conformity to type based on product quality assurance is that part of a conformity assessment procedure whereby the manufacturer fulfils the obligations laid down in paragraphs 2 and 5 and ensures and declares on his sole responsibility that the products concerned are in conformity with the type described in the Type examination certificate and satisfy the requirements of these Regulations that apply to them.
+>
+> **2. Manufacturing**
+>
+> The manufacturer shall operate an approved quality system for final product inspection and testing of the products concerned as specified in paragraph 3 and shall be subject to surveillance as specified in paragraph 4.
+>
+> **3. Quality System**
+>
+> **3.1.** The manufacturer shall lodge an application for assessment of his quality system with the approved body of his choice, for the products concerned.
+>
+> The application shall include:
+>
+> - (a) the name and address of the manufacturer and, if the application is lodged by the authorised representative, his name and address as well
+> - (b) a written declaration that the same application has not been lodged with any other approved body,
+> - (c) all relevant information for the product category envisaged,
+> - (d) the documentation concerning the quality system, and
+> - (e) the technical documentation of the approved type and a copy of the Type examination certificate.
+>
+> **3.2.** The quality system shall ensure compliance of the products with the type described in the Type examination certificate and with the applicable requirements of these Regulations.
+>
+> All the elements, requirements and provisions adopted by the manufacturer shall be documented in a systematic and orderly manner in the form of written policies, procedures and instructions. The quality system documentation shall permit a consistent interpretation of the quality programmes, plans, manuals and records.
+>
+> It shall, in particular, contain an adequate description of:
+>
+> - (a) the quality objectives and the organisational structure, responsibilities and powers of the management with regard to product quality,
+> - (b) the examinations and tests that will be carried out after manufacture,
+> - (c) the quality records, such as inspection reports and test data, calibration data, qualification reports on the personnel concerned, etc.,
+> - (d) the means of monitoring the effective operation of the quality system.
+>
+> **3.3.** The approved body shall assess the quality system to determine whether it satisfies the requirements referred to in paragraph 3.2.
+>
+> It shall presume conformity with those requirements in respect of the elements of the quality system that comply with the corresponding specifications of the relevant designated standard.
+>
+> In addition to experience in quality management systems, the auditing team shall have at least one member with experience of evaluation in the relevant product field and product technology concerned, and knowledge of the applicable requirements of these Regulations. The audit shall include an assessment visit to the manufacturer's premises. The auditing team shall review the technical documentation referred to in paragraph 3.1(e) in order to verify the manufacturer's ability to identify the relevant requirements of these Regulations and to carry out the necessary examinations with a view to ensuring compliance of the product with those requirements.
+>
+> The decision shall be notified to the manufacturer. The notification shall contain the conclusions of the audit and the reasoned assessment decision.
+>
+> **3.4.** The manufacturer shall undertake to fulfil the obligations arising out of the quality system as approved and to maintain it so that it remains adequate and efficient.
+>
+> **3.5.** The manufacturer shall keep the approved body that has approved the quality system informed of any intended change to the quality system.
+>
+> The approved body shall evaluate any proposed changes and decide whether the modified quality system will continue to satisfy the requirements referred to in paragraph 3.2 or whether a reassessment is necessary.
+>
+> It shall notify the manufacturer of its decision. The notification shall contain the conclusions of the examination and the reasoned assessment decision.
+>
+> **4. Surveillance under the responsibility of the approved body**
+>
+> **4.1.** The purpose of surveillance is to make sure that the manufacturer duly fulfils the obligations arising out of the approved quality system.
+>
+> **4.2.** The manufacturer shall, for assessment purposes, allow the approved body access to the manufacture, inspection, testing and storage sites and shall provide it with all necessary information, in particular:
+>
+> - (a) the quality system documentation,
+> - (b) the quality records, such as inspection reports and test data, calibration data, qualification reports on the personnel concerned, etc.
+>
+> **4.3.** The approved body shall carry out periodic audits to make sure that the manufacturer maintains and applies the quality system and shall provide the manufacturer with an audit report.
+>
+> **4.4.** In addition, the approved body may pay unexpected visits to the manufacturer. During such visits the approved body may, if necessary, carry out product tests, or have them carried out, in order to verify that the quality system is functioning correctly. The approved body shall provide the manufacturer with a visit report and, if tests have been carried out, with a test report.
+>
+> **5. UK marking, declaration of conformity and attestation of conformity**
+>
+> **5.1.** The manufacturer shall affix the UK marking and, under the responsibility of the approved body referred to in paragraph 3.1, the latter's identification number to each individual product other than a component that is in conformity with the type described in the Type examination certificate and satisfies the applicable requirements of these Regulations.
+>
+> **5.2.** The manufacturer shall draw up a written declaration of conformity for each product model, other than a component and keep it at the disposal of the national authorities for 10 years after the product other than a component has been placed on the market. The declaration of conformity shall identify such product model for which it has been drawn up.
+>
+> A copy of the declaration of conformity shall accompany every product other than a component.
+>
+> **5.3.** The manufacturer shall draw up a written attestation of conformity for each component model and keep it at the disposal of the national authorities for 10 years after the component has been placed on the market. The attestation of conformity shall identify the component model for which it has been drawn up. A copy of the attestation of conformity shall accompany every component.
+>
+> **6.** The manufacturer shall, for a period ending 10 years after the product has been placed on the market, keep at the disposal of the national authorities:
+>
+> - (a) the documentation referred to in paragraph 3.1,
+> - (b) the information relating to the change referred to in paragraph 3.5, as approved,
+> - (c) the decisions and reports of the approved body referred to in paragraphs 3.5, 4.3 and 4.4.
+>
+> **7.** Each approved body shall inform the Executive of quality system approvals issued or withdrawn, and shall, periodically or upon request, make available to the Executive the list of quality system approvals refused, suspended or otherwise restricted.
+>
+> Each approved body shall inform the other approved bodies of quality system approvals which it has refused, suspended or withdrawn, and, upon request, of quality system approvals which it has issued.
+>
+> **8. Authorised representative**
+>
+> The manufacturer's obligations set out in paragraphs 3.1, 3.5, 5 and 6 may be fulfilled by his authorised representative, on his behalf and under his responsibility, provided that they are specified in the mandate.
+>
+> **PART 6 — INTERNAL PRODUCTION CONTROL**
+>
+> **1.** Internal production control is the conformity assessment procedure whereby the manufacturer fulfils the obligations laid down in paragraphs 2, 3 and 4, and ensures and declares on his sole responsibility that the products concerned satisfy the requirements of these Regulations that apply to them.
+>
+> **2. Technical documentation**
+>
+> The manufacturer shall establish the technical documentation. The documentation shall make it possible to assess the product's conformity to the relevant requirements and shall include an adequate analysis and assessment of the risk(s).
+>
+> The technical documentation shall specify the applicable requirements and cover, as far as relevant for the assessment, the design, manufacture and operation of the product. The technical documentation shall contain at least the following elements:
+>
+> - (a) a general description of the product,
+> - (b) conceptual design and manufacturing drawings and schemes of components, sub-assemblies, circuits, etc.
+> - (c) descriptions and explanations necessary for the understanding of those drawings and schemes and the operation of the product,
+> - (d) a list of the designated standards applied in full or in part and, where those designated standards have not been applied, descriptions of the solutions adopted to meet the essential health and safety requirements of these Regulations, including a list of other relevant technical specifications applied. In the event of partly applied designated standards, the technical documentation shall specify the parts which have been applied,
+> - (e) results of design calculations made, examinations carried out, etc., and
+> - (f) test reports.
+>
+> **3. Manufacturing**
+>
+> The manufacturer shall take all measures necessary so that the manufacturing process and its monitoring ensure compliance of the manufactured products with the technical documentation referred to in paragraph 2 and with the requirements of these Regulations that apply to them.
+>
+> **4. UK marking, declaration of conformity and attestation of conformity**
+>
+> **4.1.** The manufacturer shall affix the UK marking to each individual product other than a component that satisfies the applicable requirements of these Regulations.
+>
+> **4.2.** The manufacturer shall draw up a written declaration of conformity for a product model other than a component and keep it together with the technical documentation at the disposal of the national authorities for 10 years after the product, other than a component, has been placed on the market. The declaration of conformity shall identify such product model for which it has been drawn up.
+>
+> A copy of the declaration of conformity shall accompany every product other than a component.
+>
+> **4.3.** The manufacturer shall draw up a written attestation of conformity for each component model and keep it together with the technical documentation at the disposal of the national authorities for 10 years after the component has been placed on the market. The attestation of conformity shall identify the component for which it has been drawn up. A copy of the attestation of conformity shall accompany every component.
+>
+> **5. Authorised representative**
+>
+> The manufacturer's obligations set out in paragraph 4 may be fulfilled by his authorised representative, on his behalf and under his responsibility, provided that they are specified in the mandate.
+>
+> **PART 7 — CONFORMITY BASED ON UNIT VERIFICATION**
+>
+> **1.** Conformity based on unit verification is the conformity assessment procedure whereby the manufacturer fulfils the obligations laid down in paragraphs 2, 3 and 5, and ensures and declares on his sole responsibility that the product concerned, which has been subject to the provisions of paragraph 4, is in conformity with the requirements of these Regulations that apply to it.
+>
+> **2. Technical documentation**
+>
+> **2.1.** The manufacturer shall establish the technical documentation and make it available to the approved body referred to in paragraph 4. The documentation shall make it possible to assess the product's conformity with the relevant requirements and shall include an adequate analysis and assessment of the risk(s). The technical documentation shall specify the applicable requirements and cover, as far as relevant for the assessment, the design, manufacture and operation of the product. The technical documentation shall contain at least the following elements:
+>
+> - (a) a general description of the product,
+> - (b) conceptual design and manufacturing drawings and schemes of components, sub-assemblies, circuits, etc.,
+> - (c) descriptions and explanations necessary for the understanding of those drawings and schemes and the operation of the product,
+> - (d) a list of the designated standards applied in full or in part and, where those designated standards have not been applied, descriptions of the solutions adopted to meet the essential health and safety requirements of these Regulations, including a list of other relevant technical specifications applied. In the event of partly applied designated standards, the technical documentation shall specify the parts which have been applied,
+> - (e) results of design calculations made, examinations carried out, etc., and
+> - (f) test reports.
+>
+> **2.2.** The manufacturer shall keep the technical documentation at the disposal of the relevant national authorities for 10 years after the product has been placed on the market.
+>
+> **3. Manufacturing**
+>
+> The manufacturer shall take all measures necessary so that the manufacturing process and its monitoring ensure conformity of the manufactured product with the applicable requirements of these Regulations.
+>
+> **4. Verification**
+>
+> An approved body chosen by the manufacturer shall carry out appropriate examinations and tests, set out in the relevant designated standards and/or equivalent tests set out in other relevant technical specifications, to check the conformity of the product with the applicable requirements of these Regulations, or have them carried out. In the absence of such a designated standard the approved body concerned shall decide on the appropriate tests to be carried out.
+>
+> The approved body shall issue a certificate of conformity in respect of the examinations and tests carried out and shall affix its identification number to the approved product, or have it affixed under its responsibility.
+>
+> The manufacturer shall keep the certificates of conformity at the disposal of the national authorities for 10 years after the product has been placed on the market.
+>
+> **5. UK marking, declaration of conformity and attestation of conformity**
+>
+> **5.1.** The manufacturer shall affix the UK marking and, under the responsibility of the approved body referred to in paragraph 4, the latter's identification number to each product other than a component that satisfies the applicable requirements of these Regulations.
+>
+> **5.2.** The manufacturer shall draw up a written declaration of conformity and keep it at the disposal of the national authorities for 10 years after the product, other than a component has been placed on the market. The declaration of conformity shall identify such product for which it has been drawn up.
+>
+> A copy of the declaration of conformity shall accompany every product, other than a component.
+>
+> **5.3.** The manufacturer shall draw up a written attestation of conformity and keep it at the disposal of the national authorities for 10 years after the component has been placed on the market. The attestation of conformity shall identify the component for which it has been drawn up. A copy of the attestation of conformity shall accompany every component.
+>
+> **6. Authorised representative**
+>
+> The manufacturer's obligations set out in paragraphs 2.2 and 5 may be fulfilled by his authorised representative, on his behalf and under his responsibility, provided that they are specified in the mandate.
+
+.
+
+### 41. Amendment to Schedule 6[^key-b3f0b74c6c37ef3122242a4ce8e2269a]
+
+Schedule 6 (EU Declaration of Conformity) is amended as follows—
+
+- (a) omit “EU” from the heading;
+- (b) in paragraph 5, for “Union harmonisation legislation” substitute “ statutory requirements ”;
+- (c) in paragraph 6, for “harmonised” substitute “ designated ”;
+- (d) in paragraph 7, for “notified” substitute “ approved ”.
+
+## Annotations
+
+[^key-4d8d820128605145c615f68ef85259a9]: Commencement: Sch. 32 para. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^key-5971e701875acc33df19ac3926a0f9b9]: Commencement: Sch. 32 para. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^key-942de1f070c521aa5b5a6540e6b43292]: Commencement: Sch. 32 para. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^key-4bf0565a5dc31b1350deab2e89ee299e]: Commencement: Sch. 32 para. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^key-1e5be63b637b5c9cfef6ff5deadcf8d0]: Commencement: Sch. 32 para. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^key-8775bb8588271ad9e34b560e782994a7]: Commencement: Sch. 32 para. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^key-a28405546550221f1317c66cb36f9f04]: Commencement: Sch. 32 para. 7 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^key-c9a652a2f5c8de87f0df346602e68d78]: Commencement: Sch. 32 para. 8 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^key-c14f2be9a185e58644958d0c548220ca]: Commencement: Sch. 32 para. 9 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^key-37d8deee3d44ba85175666506a84e3da]: Commencement: Sch. 32 para. 10 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^key-8f5c351c1d84e2a9d63cfa362d285eeb]: Commencement: Sch. 32 para. 11 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^key-e2cad0c93e90f6b853715fb2aee5e108]: Commencement: Sch. 32 para. 12 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^key-12882687947e3d65027e685f61c462c0]: Commencement: Sch. 32 para. 13 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^key-1a6e72ad952724372cfbadfb9e4f405f]: Commencement: Sch. 32 para. 14 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^key-a2c24c9d4c368dfeb6dfc6464c1e9b03]: Textual amendment: Words in Sch. 32 para. 14(b) inserted (31.12.2020 immediately before IP completion day) by [The Product Safety, Metrology and Mutual Recognition Agreement (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1246)](https://www.legislation.gov.uk/uksi/2019/1246), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1246/regulation/1/3), [5](https://www.legislation.gov.uk/uksi/2019/1246/regulation/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-d5adfc6a6b5fab5db92612bf63f8c82b]: Commencement: Sch. 32 para. 15 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^key-933433ce3cf9040dc3f9c8c0e8c58f03]: Commencement: Sch. 32 para. 16 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^key-2ec5226ccf553e6a0ab22383d01fc04a]: Commencement: Sch. 32 para. 17 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^key-6f66b255788f3486681a162f7ef8e58d]: Commencement: Sch. 32 para. 18 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^key-088f671cd639ab49249848d503333144]: Commencement: Sch. 32 para. 19 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^key-0e492b5d490bcfe509f579d689e7906f]: Commencement: Sch. 32 para. 20 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^key-e8c13fc341486c96174cd1c5383df1df]: Commencement: Sch. 32 para. 21 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^key-d1e287a1d475d559de0cfe176ecb1f1e]: Commencement: Sch. 32 para. 22 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^key-2a0a82ce9d42332d6b02a0b9f72d3b25]: Commencement: Sch. 32 para. 23 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^key-f8bb328d7338ec090a1092c82a293447]: Commencement: Sch. 32 para. 24 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^key-4523d7710a3965daed524b7e745e18ef]: Commencement: Sch. 32 para. 25 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^key-5e4939df0ed60a1a0be7fd1b5640c3a7]: Commencement: Sch. 32 para. 26 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^key-dbc219ac390d31164b73214f12bb45a3]: Commencement: Sch. 32 para. 27 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^c24327551]: Marginal citation: [2006 c. 46](https://www.legislation.gov.uk/ukpga/2006/46).
+
+[^key-45b8a72efe056909eed42918dc021071]: Commencement: Sch. 32 para. 28 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^key-133fde0f929f904f94a853c9766025bd]: Commencement: Sch. 32 para. 29 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^key-459140d1df3ee9fde703869424fc6137]: Commencement: Sch. 32 para. 30 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^key-f354b823d07a6033167964e3e18ee2d4]: Commencement: Sch. 32 para. 31 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^key-298d5a6dfa3d43969197a5c8efee4b2d]: Commencement: Sch. 32 para. 32 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^key-b05b0b201385e014d8d63452b47c07d1]: Commencement: Sch. 32 para. 33 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^key-84e0c9e405967cd2fe0b27cdd447da9a]: Commencement: Sch. 32 para. 34 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^c24327561]: Marginal citation: [S.I. 2019/696](https://www.legislation.gov.uk/uksi/2019/696).
+
+[^key-0f16126b017fe43e66243664ef39f1ea]: Commencement: Sch. 32 para. 35 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^c24327571]: Marginal citation: [S.I. 2017/90](https://www.legislation.gov.uk/uksi/2017/90).
+
+[^key-f095fdd5d5e52d9b2ef4db802d7a935c]: Commencement: Sch. 32 para. 36 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^key-7dbd8c294ea9b8281cdedd3372dbc419]: Commencement: Sch. 32 para. 37 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^key-5ac42cff7d1e0c112c867b8cad36a078]: Commencement: Sch. 32 para. 38 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^key-8b487a5246e8436476cbe65eef1e6118]: Commencement: Sch. 32 para. 39 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^key-f86a5a9a4faff7702355e50f727d8bdc]: Commencement: Sch. 32 para. 40 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^key-b3f0b74c6c37ef3122242a4ce8e2269a]: Commencement: Sch. 32 para. 41 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)

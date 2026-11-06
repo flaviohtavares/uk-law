@@ -1,0 +1,30 @@
+---
+title: Companies Act 1948, section 183
+act: Companies Act 1948
+section: '183'
+status: as-enacted
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/ukpga/Geo6/11-12/38/section/183
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Companies Act 1948, section 183
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+## 183. Appointment of directors to be voted on individually.
+
+(1) At a general meeting of a company other than a private company, a motion for the appointment of two or more persons as directors of the company by a single resolution shall not be made, unless a resolution that it shall be so made has first been agreed to by the meeting without any vote being given against it.
+
+(2) A resolution moved in contravention of this section shall be void, whether or not its being so moved was objected to at the time:
+
+Provided that—
+
+- (a) this subsection shall not be taken as excluding the operation of section one hundred and eighty of this Act; and
+- (b) where a resolution so moved is passed, no provision for the automatic reappointment of retiring directors in default of another appointment shall apply.
+
+(3) For the purposes of this section, a motion for approving a person's appointment or for nominating a person for appointment shall be treated as a motion for his appointment.
+
+(4) Nothing in this section shall apply to a resolution altering the company's articles.

@@ -1,0 +1,36 @@
+---
+title: Housing Act 1985, section 345
+act: Housing Act 1985
+section: '345'
+status: revised-with-pending-changes
+text_date: '2026-10-26'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/1985/68/section/345
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Housing Act 1985, section 345
+
+> **Warning: changes not yet applied to this text (58).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/1985/68
+>
+> Extent: England, Wales.
+
+## 345. Meaning of “multiple occupation”.
+
+*Extent: E+W*
+
+**May not be in force at this date. Check the source.**
+
+In this Part “**house in multiple occupation**” means a house which is occupied by persons who do not form a single household.
+
+(2)[^c15073611] For the purposes of this section “house”, in the expression “**house in multiple occupation**”, includes any part of a building which—
+
+- (a) apart from this subsection would not be regarded as a house; and
+- (b) was originally constructed or subsequently adapted for occupation by a single household;
+
+and any reference in this Part to a flat in multiple occupation is a reference to a part of a building which, whether by virtue of this subsection or without regard to it, constitutes a house in multiple occupation.
+
+## Annotations
+
+[^c15073611]: Textual amendment: [S. 345(2)](https://www.legislation.gov.uk/ukpga/1985/68/section/345/2) added by [Local Government and Housing Act 1989 (c. 42, SIF 61)](https://www.legislation.gov.uk/ukpga/1989/42), [s. 165(1)(c)](https://www.legislation.gov.uk/ukpga/1989/42/section/165/1/c), [Sch. 9 Pt. III para. 44](https://www.legislation.gov.uk/ukpga/1989/42/schedule/9/part/III/paragraph/44)

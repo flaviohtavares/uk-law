@@ -1,0 +1,971 @@
+---
+title: The Trade Preference Scheme (Developing Countries Trading Scheme) Regulations 2023
+id: uksi/2023/561
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised-with-pending-changes
+made_date: '2023-05-22'
+text_date: '2026-07-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2023/561
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2023/561/pdfs/uksiem_20230561_en_001.pdf
+- http://www.legislation.gov.uk/uksi/2023/561/pdfs/uksi_20230561_en.pdf
+- http://www.legislation.gov.uk/uksi/2023/561/data.pdf
+pending_changes: 1
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Trade Preference Scheme (Developing Countries Trading Scheme) Regulations 2023
+
+> **Warning: changes not yet applied to this text (1).** Text as at 2026-07-01. See https://www.legislation.gov.uk/changes/affected/uksi/2023/561
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2023 No. 561
+
+Customs
+
+The Trade Preference Scheme (Developing Countries Trading Scheme) Regulations 2023
+
+Made
+
+22nd May 2023
+
+Laid before the House of Commons
+
+24th May 2023
+
+Coming into force
+
+19th June 2023
+
+The Secretary of State makes these Regulations in exercise of the powers conferred by sections 10(1) to (3), and 32(7) and (8)(a) and (b) of, and paragraphs 2(1)(b) of Schedule 3 and 1(3)(c) of Schedule 7 to, the Taxation (Cross-border Trade) Act 2018[^f00001] (“**the Act**”).
+
+Further to section 28 of the Act, the Secretary of State in exercising the function of making these Regulations has had regard to international arrangements to which His Majesty’s government in the United Kingdom is a party that are relevant to the exercise of that function.
+
+## PART 1 — Preliminary
+
+### 1. Citation, commencement, extent and application[^key-551c908b9c2cc9968577e7d9425d5ad6]
+
+(1) These Regulations may be cited as the Trade Preference Scheme (Developing Countries Trading Scheme) Regulations 2023.
+
+(2) These Regulations come into force on 19th June 2023.
+
+(3) These Regulations extend to England and Wales, Scotland and Northern Ireland.
+
+(4) These Regulations apply in relation to goods—
+
+- (a) that are imported into the United Kingdom in respect of which a liability to a charge to import duty[^f00002] is incurred under the Act, and
+- (b) in respect of which a claim is made for a preferential rate of import duty to be applied to the goods under the trade preference scheme established by these Regulations.
+
+### 2. Interpretation[^key-1e8df02fb84863e0b38acd405964eb0b]
+
+(1) In these Regulations—
+
+- “**the Act**” means the Taxation (Cross-border Trade) Act 2018;
+- “**additional import duty**” has the meaning given in regulation 20(3)(a);
+- “**by-value duty expression**” means an applicable duty expression given only as a number and percentage in the Tariff Table;
+- “**COCGDCTS Regulations**” means the Customs (Origin of Chargeable Goods: Developing Countries Trading Scheme) Regulations 2023[^f00003];
+- “**commodity code**” has the meaning given in regulation 2(3) of the Tariff Regulations;
+- “**compound duty expression**” means an applicable duty expression in the Tariff Table that—
+  - (a) includes both a by-value duty expression and a specific duty expression, and
+  - (b) contains an addition sign before or after the by-value duty expression;
+- “**country**” means a country or territory;
+- “**CP**” means the comprehensive preferences which form part of the DCTS (see regulation 5);
+- “**CP goods**” means goods to which the CP applies under regulation 11(2);
+- “**cumulation**” means a system whereby goods that are obtained in two or more countries are to be regarded as originating from the last country in which substantial processing of the goods has taken place;
+- “**customs cooperation notice**” means a notice published under regulation 16(1);
+- “**DCTS**” means the Developing Countries Trading Scheme established under regulation 5;
+- “**DCTS classification**” means the chapter, heading, sub-heading or commodity code of the Goods Classification Table used in column 3 of the DCTS Specified Goods Table to classify DCTS goods;
+- “**DCTS country**” means a country to which a framework of the DCTS applies under Part 3;
+- “**DCTS framework**” means a framework forming part of the DCTS (see regulation 5);
+- “**DCTS goods**” has the meaning given in regulation 11(1);
+- “**DCTS rate**” means a preferential rate of import duty under Part 4;
+- “**DCTS section**” means a division of the DCTS Specified Goods Table, that—
+  - (a) is specified in column 1 of that Table, and
+  - (b) modifies the sections of the Goods Classification Table;
+- “**DCTS Specified Goods Table**” means the table so named at Part 3 of the document entitled “the Developing Countries Trading Scheme Specified Goods Table, version 1.0, dated 22 May 2023[^f00004]”;
+- “**declaration acceptance date**” means the date on which HMRC accepts a customs declaration for the purposes of section 4(1) of the Act;
+- “**EP**” means the enhanced preferences which form part of the DCTS (see regulation 5);
+- “**EP country**” means a country to which the EP applies under regulation 9;
+- “**EP goods**” means goods to which the EP applies under regulation 11(3);
+- “**Goods Classification Table**” has the meaning given in regulation 1(2) of the Tariff Regulations;
+- “**goods graduation ground**” means the circumstances referred to in paragraph 3 of Schedule 3;
+- “**goods graduation notice**” means a notice published under regulation 18(1);
+- “**import review period**” means a period of three years during which the value of imports of DCTS goods is measured and which begins with 1st January;
+- “**LDC**” means a country listed as a least developed country in Part 2 of Schedule 3 to the Act;
+- “**qualifying DCTS country**” has the meaning given in regulation 6(1);
+- “**qualifying DCTS goods**” has the meaning given in regulation 6(2);
+- “**representations period**” means the period specified under regulation 22(1)(b);
+- “**SP**” means the standard preferences which form part of the DCTS (see regulation 5);
+- “**SP country**” means a country to which the SP applies under regulation 10;
+- “**SP goods**” means goods to which the SP applies under regulation 11(4);
+- “**specific duty expression**” means an applicable duty expression in the Tariff Table that—
+  - (a) includes a monetary value, and
+  - (b) does not include a percentage symbol;
+- “**standard rate of import duty**” has the meaning given in regulation 2(4) of the Tariff Regulations;
+- “**suspension notice**” has the meaning given in regulation 26(1);
+- “**Tariff Regulations**” means the Customs Tariff (Establishment) (EU Exit) Regulations 2020[^f00005];
+- “**Tariff Table**” has the meaning given in regulation 2(6) of the Tariff Regulations;
+- “**trade preference safeguard measure**” has the meaning given in paragraph 1 of Schedule 4;
+- “**trade preference safeguard notice**” means a notice published under regulation 19;
+- “**urgent trade preference safeguard notice**” means a notice published in accordance with paragraph 7 of Schedule 4;
+- “**variation notice**” has the meaning given in regulation 26(2).
+
+(2) In relation to the DCTS Specified Goods Table—
+
+- (a) the rules of interpretation referred to in regulation 3(1) of the Tariff Regulations and in Part 2 of the document entitled “the Developing Countries Trading Scheme Specified Goods Table, version 1.0, dated 22 May 2023” apply when—
+  - (i) interpreting the meaning of the chapter, heading, sub-heading or commodity code used in column 3 of the DCTS Specified Goods Table, and
+  - (ii) determining into which of the DCTS classifications in column 3 or descriptions in column 4 of the DCTS Specified Goods Table the goods most appropriately fall;
+- (b) “**EP code**” means a code applied to goods in column 5 of the DCTS Specified Goods Table, that begins with the letters “EP”;
+- (c) “EP1” and “EP2” are the EP codes representing the rules for calculating import duty reductions to be applied to EP goods, as specified in regulation 14;
+- (d) “**SP code**” means a code applied to goods in column 6 of the DCTS Specified Goods Table, that begins with the letters “SP”;
+- (e) “SP1”, “SP2”, “SP3” and “SP4” are the SP codes representing the rules for calculating import duty reductions to be applied to SP goods, as specified in regulation 15.
+
+(3) In these Regulations, reference to goods originating from a country is a reference to goods regarded as originating from that country in accordance with the COCGDCTS Regulations.
+
+(4) In these Regulations, reference to the Secretary of State varying the DCTS rate by notice means specifying a DCTS rate that is—
+
+- (a) lower than the standard rate of import duty, but
+- (b) higher than the DCTS rate otherwise applicable to the goods, as determined in accordance with Part 4.
+
+### 3. Meaning of arms and ammunition[^key-a58b9781ff82767ea97e022f08428de0]
+
+For the purpose of section 10 of the Act, “arms and ammunition” are goods that are specified under the chapter heading “arms and ammunition” in the Goods Classification Table.
+
+### 4. Revocation of the Trade Preference Scheme (EU Exit) Regulations 2020 and related instruments[^key-417142c415d2e600dab703c38fb14e00]
+
+(1) The Trade Preference Scheme (EU Exit) Regulations 2020[^f00006] are revoked.
+
+(2) The Trade Preference Scheme (EU Exit) (Amendment) Regulations 2021[^f00007] are revoked.
+
+## PART 2 — Establishment of the DCTS
+
+### 5. General[^key-472a613eee84fbb4e21edbfb0c623c7c]
+
+(1) There is established a trade preference scheme known as the DCTS, to be administered by the Secretary of State.
+
+(2) The DCTS consists of three frameworks known as the CP, EP and SP and under which a DCTS rate is applied to a DCTS country in respect of DCTS goods.
+
+### 6. DCTS qualification rules[^key-98932fe6dd6191f77060a3345836dabe]
+
+(1) A country is a “qualifying DCTS country” if, on the declaration acceptance date—
+
+- (a) it is a DCTS country, and
+- (b) it is not suspended from the DCTS by a suspension notice under regulation 16(5)(a)(i) or 17(1)(a)(i).
+
+(2) Goods are “qualifying DCTS goods” if on the declaration acceptance date, those goods—
+
+- (a) are specified in regulation 11 as being covered by a DCTS framework,
+- (b) are not goods to which a suspension of the DCTS rate applies, pursuant to a notice published under—
+  - (i) regulation 16(5)(a)(ii) (customs conditions),
+  - (ii) regulation 17(1)(a)(ii) (further conditions),
+  - (iii) regulation 18(1) (goods graduation), or
+  - (iv) regulation 19 (trade preference safeguard measure), and
+- (c) the DCTS rate is not suspended by regulation 20(1) (additional import duty).
+
+### 7. Conditions for the application of a DCTS rate[^key-0f64f457af8b4e41bdec545ae33d9b6f]
+
+(1) The DCTS rate applies in respect of qualifying DCTS goods where—
+
+- (a) it is claimed by a person in a customs declaration and an HMRC officer determines that the DCTS rate applies because the goods are the qualifying DCTS goods stated on the customs declaration, or
+- (b) HMRC has made a determination to remit a liability or make a repayment under Part 7 of the Customs (Import Duty) (EU Exit) Regulations 2018[^f00008] (“**the Import Duty Regulations**”), having determined that the DCTS rate should have been applied to those goods.
+
+(1A)[^key-0ee1056a6e4d0318537b2325b14fa112] But where the goods are classified under a commodity code listed in the Table headed “Excepted Goods Table” in Annex III of Part Three of the Tariff of the United Kingdom the DCTS rate does not apply and the rate that applies is the standard rate of import duty.
+
+(1B) In paragraph (1A), “**Tariff of the United Kingdom**” has the meaning given by regulation 1(2) of the Tariff Regulations.
+
+(2) Paragraph (1) is subject to a subsequent notification by HMRC that—
+
+- (a) a previous notification is null and void under regulation 69 of the Import Duty Regulations, or
+- (b) a customs declaration is inaccurate under paragraph 14(2)(a) of Schedule 1 to the Act.
+
+## PART 3 — DCTS Frameworks
+
+### 8. Comprehensive preferences[^key-c044ecaf977082059b72c2e367190450]
+
+The CP applies in relation to an LDC.
+
+### 9. Enhanced preferences[^key-7a1e33731597c4b9fe653edfb53586f5]
+
+(1) The EP applies in relation to a country—
+
+- (a) listed in Part 3 of Schedule 3 to the Act (other eligible developing countries),
+- (b) specified in Part 1 of Schedule 1 to these Regulations, and
+- (c) that the Secretary of State has assessed as being an economically vulnerable country.
+
+(2)[^key-749c2194651f26e49882b56612be469c] A country is an “**economically vulnerable country**” for the purposes of this regulation if paragraph (3) applies to that country.
+
+(3) This paragraph applies to a country if, as a mean average over the most recent import review period, either—
+
+- (a) the seven largest DCTS sections of its imports of EP goods by value into the British Islands (disregarding EP goods in respect of which the standard rate of import duty is a nil rate) represented more than 75% in value of its total imports of EP goods into the British Islands, or
+- (b) its share of global goods exports by value is less than 0.85%.
+
+### 10. Standard preferences[^key-f090af5c8257a81b6392af95d67b9321]
+
+The SP applies in relation to a country—
+
+- (a) listed in Part 3 of Schedule 3 to the Act (other eligible developing countries), and
+- (b) specified in Part 2 of Schedule 1 to these Regulations.
+
+### 11. Applying a DCTS framework to goods[^key-f3844168a5f3876e1b4aa681e81a334e]
+
+(1) “**DCTS goods**” means goods to which a DCTS framework applies, in accordance with this regulation.
+
+(2) The CP applies to goods that—
+
+- (a) originate from an LDC that is a qualifying DCTS country, and
+- (b) are not arms and ammunition.
+
+(3) The EP applies to goods that—
+
+- (a) originate from an EP country that is a qualifying DCTS country,
+- (b) are classified for DCTS purposes within a DCTS classification in column 3 of the DCTS Specified Goods Table and a description given in column 4 of that table, and
+- (c) have an EP code specified in column 5 of that table applying to that DCTS classification.
+
+(4) The SP applies to goods that—
+
+- (a) originate from an SP country that is a qualifying DCTS country,
+- (b) are classified for DCTS purposes within a DCTS classification in column 3 of the DCTS Specified Goods Table and a description given in column 4 of that table, and
+- (c) have an SP code specified in column 6 of that table applying to that DCTS classification.
+
+(5) In this regulation “**arms and ammunition**” has the meaning given in regulation 3.
+
+## PART 4 — Specification and determination of DCTS rate
+
+### 12. General[^key-7e4e24ee10289766dceb2add3f370e28]
+
+(1) The rules for determination of import duty set out in regulations 14 and 15 are subject to the rules in this regulation.
+
+(2) When the application of any other regulation in this Part would result in a DCTS rate that is greater than or equal to the standard rate of import duty, no DCTS rate applies.
+
+(3) The DCTS rate is a nil rate where—
+
+- (a) the standard rate of import duty is a nil rate, or
+- (b) the application of a provision specified in this Part to the standard rate of import duty would result in a duty rate that is less than a nil rate.
+
+(4) The DCTS rate is a nil rate, when the application of regulation 14 or 15 results in—
+
+- (a) a DCTS rate represented by a by-value duty expression of 2% or less, or
+- (b) a DCTS rate containing a monetary value or combined monetary value of £2 or less.
+
+(5) Except in a case where the DCTS rate is to be a nil rate, the DCTS rate applicable is to be rounded down to the first decimal place.
+
+(6) The DCTS rate applied to goods by this Part may be varied by—
+
+- (a) a trade preference safeguard notice, or
+- (b) a variation notice under regulation 16(5)(b) or 17(1)(b).
+
+(7) Where the Secretary of State publishes a notice referred to in paragraph (6)—
+
+- (a) regulations 13 to 15 do not apply, and
+- (b) the DCTS rate is that specified in the notice as applicable to the goods and country specified, subject to paragraphs (1) to (4).
+
+### 13. Import duty rule – CP[^key-1b799789e1c80d594f1e1a21ef6d1bef]
+
+The DCTS rate in respect of CP goods is a nil rate.
+
+### 14. Import duty rules – EP[^key-06453befaced1645dd20fb46b91fc903]
+
+(1) The DCTS rate in respect of EP goods is that set out in, or determined in accordance with, the rules in paragraph (2).
+
+(2) The rules are that where—
+
+- (a) “EP1” is specified in column 5 of the DCTS Specified Goods Table, the DCTS rate—
+  - (i) is a nil rate, in a case where the standard rate of import duty is represented only by a by-value duty expression;
+  - (ii) is a nil rate, in a case where the standard rate of import duty is represented only by a specific duty expression;
+  - (iii) is a rate determined by adjusting the standard rate of import duty so that—
+    - (aa) the specific duty expression applies, and
+    - (bb) the by-value duty expression is reduced to a nil rate,
+
+    in a case where the standard rate of import duty is represented by a compound duty expression;
+  - (iv) is not to exceed the maximum import duty specified in the Tariff Table;
+  - (v) is not subject to the minimum import duty specified in the Tariff Table.
+- (b) “EP2” is specified in column 5 of the DCTS Specified Goods Table, the DCTS rate is determined by adjusting the standard rate of import duty as follows—
+  - (i) for the by-value duty expression in the Tariff Table, in the case of EP goods under commodity codes 0306 16 or 0306 17, except for EP goods having commodity code 0306 17 94, substitute a by-value duty expression of 3.6%;
+  - (ii) for the by-value duty expression in the Tariff Table, in the case of EP goods having commodity code 0306 17 94, substitute a by-value duty expression of 2.4%.
+
+### 15. Import duty rules – SP[^key-efa71ef92d105145ad45dca4ac619b73]
+
+(1) The DCTS rate in respect of SP goods is that set out in, or determined in accordance with, the rules in paragraphs (2) and (3).
+
+(2) The rules are that where—
+
+- (a) “SP1” is specified in column 6 of the DCTS Specified Goods Table, the DCTS rate is a nil rate;
+- (b) “SP2” is specified in column 6 of the DCTS Specified Goods Table, the DCTS rate is the standard rate of import duty, adjusted as follows—
+  - (i) the by-value duty expression is reduced by 3.5 percentage points, in a case where that is the only duty expression representing the standard rate of import duty;
+  - (ii) the specific duty expression is reduced by 30%, in a case where that is the only duty expression representing the standard rate of import duty;
+  - (iii) the by-value duty expression is reduced in accordance with paragraph (i) and the specific duty expression is not reduced, in a case where the standard rate of import duty is represented by a compound duty expression;
+- (c) “SP3” is specified in column 6 of the DCTS Specified Goods Table, the DCTS rate is the standard rate of import duty, adjusted as follows—
+  - (i) the by-value duty expression is reduced by 20%, in a case where that is the only duty expression representing the standard rate of import duty;
+  - (ii) the by-value duty expression is reduced in accordance with paragraph (i) and the specific duty expression is not reduced, in a case where the standard rate of import duty is represented by a compound duty expression;
+- (d) “SP4” is specified in column 6 of the DCTS Specified Goods Table, the by-value duty expression used to calculate the standard rate of import duty is reduced to the by-value duty expression specified in column 7 of the DCTS Specified Goods Table.
+
+(3) Whenever “SP2”, “SP3” or “SP4” is specified in column 6 of the DCTS Specified Goods Table—
+
+- (a) where the Tariff Table specifies a maximum import duty, that maximum duty is not reduced in respect of SP goods;
+- (b) where the Tariff Table specifies a minimum import duty, that minimum duty does not apply in respect of SP goods.
+
+## PART 5 — Customs cooperation and proof of origin conditions
+
+### 16. Customs conditions for DCTS[^key-183446a24a3147bd52b802b691fa3ee6]
+
+(1) The Secretary of State may publish a notice providing that the application of the DCTS rate is subject to conditions relating to customs cooperation and verification of proof of origin (a “customs cooperation notice”).
+
+(2) A condition referred to in paragraph (1) may require a qualifying DCTS country to—
+
+- (a) provide HMRC with up-to-date stamps or documents used in its territory to verify the origin of DCTS goods;
+- (b) maintain electronic systems to establish or identify the origin of DCTS goods;
+- (c) approve persons for the purposes of verifying DCTS origin requirements;
+- (d) take steps to implement and enforce DCTS origin requirements effectively;
+- (e) take steps to combat customs fraud effectively;
+- (f) implement and enforce systems to ensure that compliance with origin requirements relating to cumulation can be verified;
+- (g) cooperate with the customs authorities of other countries, for purposes relating to cumulation;
+- (h) communicate to HMRC how that country has implemented DCTS origin requirements;
+- (i) assist HMRC to investigate contravention of DCTS origin requirements;
+- (j) cooperate with HMRC on matters of mutual concern for purposes specified in section 8B(1)(a) to (c) of the Customs and Excise Management Act 1979[^f00009];
+- (k) allow reasonable access to documents or data (including in electronic form) for HMRC to carry out investigations.
+
+(3) Such conditions may also include those relating to—
+
+- (a) the form of a binding undertaking that the Secretary of State may require a qualifying DCTS country to give for purposes referred to in sub-paragraph (b);
+- (b) the persons to whom that undertaking must be given, being—
+  - (i) the Secretary of State or HMRC, for the purposes of customs cooperation with and verification of proof of origin to HMRC;
+  - (ii) the customs authorities of other countries, for the purposes of customs cooperation and verification of proof of origin relating to cumulation with such countries.
+
+(4) In this regulation, reference to “**DCTS origin requirements**” means those requirements that—
+
+- (a) are set out in the COCGDCTS Regulations, to determine the place of origin of qualifying DCTS goods;
+- (b) are imposed on persons claiming a DCTS rate on qualifying DCTS goods;
+- (c) involve verification or oversight by DCTS countries involved in export of, or cumulation related to, those goods.
+
+(5) Where a qualifying DCTS country is seriously and systematically failing to comply with the conditions specified in a customs cooperation notice, the Secretary of State may publish—
+
+- (a) a suspension notice to—
+  - (i) suspend a qualifying DCTS country from the DCTS, or
+  - (ii) suspend the DCTS rate on specified DCTS goods originating from a qualifying DCTS country, or
+- (b) a variation notice to vary the DCTS rate on specified DCTS goods originating from a qualifying DCTS country.
+
+(6) The Secretary of State must follow the warning and assessment procedure set out in regulation 21 before publishing a notice under paragraph (5).
+
+## PART 6 — Suspension of a country from the DCTS or suspension or variation of DCTS rates
+
+### 17. Further conditions for DCTS[^key-c5cb8a04494e4910ecc0c9b6ecdc0362]
+
+(1) Where a qualifying DCTS country has engaged or is engaging in serious and systematic violations of the human rights and labour rights contained in conventions specified at 1 to 17 of the list in Schedule 2, or has engaged or is engaging in acts or omissions which seriously and systematically undermine the object and purpose of conventions specified at 18 to 28 of the list in Schedule 2, the Secretary of State may publish—
+
+- (a) a suspension notice to—
+  - (i) suspend a qualifying DCTS country from the DCTS, or
+  - (ii) suspend the DCTS rate on specified DCTS goods originating from a qualifying DCTS country, or
+- (b) a variation notice to vary the DCTS rate on specified DCTS goods originating from a qualifying DCTS country.
+
+(2) The Secretary of State must follow the warning and assessment procedure set out in regulation 21 before publishing a notice under paragraph (1).
+
+(3) The conventions listed in Schedule 2 include any amendments made to the conventions where the amendment is in force for the United Kingdom on the date these Regulations come into force.
+
+### 18. Goods graduation – SP[^key-9ca4218a7c860c1432652783b032dea8]
+
+(1) The Secretary of State may publish a goods graduation notice, suspending the DCTS rate on specified DCTS goods originating from an SP country, where the goods graduation ground applies in accordance with Schedule 3.
+
+(2) The power to publish a goods graduation notice where the goods graduation ground applies under paragraph (1) includes the power to publish a goods graduation notice extending the suspension period for graduated goods.
+
+### 19. Trade preference safeguard measure[^key-ccbba068b424a0a910ab5808e7b77aef]
+
+The Secretary of State may publish a trade preference safeguard notice in order to apply a trade preference safeguard measure in accordance with Schedule 4.
+
+### 20. Additional import duty[^key-016a8c62b2276367acb714048dba6de3]
+
+(1) The DCTS rate is suspended on DCTS goods originating from a DCTS country where additional import duty is applied to those goods pursuant to a notice or regulations referred to in paragraph (2).
+
+(2) The notices and regulations referred to in paragraph (1) are—
+
+- (a) a public notice published under section 13 of the Act (dumping of goods, foreign subsidies and increases in imports);
+- (b) regulations made under section 14 of the Act (increases in imports or changes in price of agricultural goods);
+- (c) regulations made under section 15 of the Act (international disputes etc);
+- (d) regulations made under section 51 or section 56 of the Act that make provision for additional import duty.
+
+(3) In this regulation—
+
+- (a) “**additional import duty**” means—
+  - (i) an import duty applied to goods in addition to the standard rate of import duty, or
+  - (ii) a tariff rate quota;
+- (b) “**tariff rate quota**” has the same meaning as given in paragraph 16(3)(b) of Schedule 5 to the Act, when applied to “relevant goods” as referred to in paragraph 16(2) of that Schedule.
+
+## PART 7 — Warning and assessment procedure
+
+### 21. Warning and assessment procedure[^key-6aaccc9636c948816f51a42adeabcf27]
+
+(1) The Secretary of State must take the following steps before taking any specified action—
+
+- (a) publish a warning in accordance with regulation 22,
+- (b) carry out an assessment of the circumstances giving rise to the publication of a warning, in accordance with regulation 23, and
+- (c) publish the outcome of the assessment in accordance with regulation 24.
+
+(2) The Secretary of State may follow a single warning and assessment procedure for more than one circumstance leading to the initiation of such a procedure if the Secretary of State considers this appropriate.
+
+(3) For the purpose of this Part, a “**specified action**” means—
+
+- (a) the suspension of a country from the DCTS under regulation 16(5)(a)(i) or 17(1)(a)(i);
+- (b) the suspension of DCTS rates on specified DCTS goods originating from a qualifying DCTS country under regulation 16(5)(a)(ii) or 17(1)(a)(ii);
+- (c) the variation of DCTS rates on specified DCTS goods originating from a qualifying DCTS country under regulation 16(5)(b) or 17(1)(b);
+- (d) the application of a trade preference safeguard measure under regulation 19 except in a case where an urgent trade preference safeguard notice is published.
+
+### 22. Warning[^key-63ce0dd54bdc055db9eac8e6f8e18d34]
+
+(1) When publishing a warning in accordance with regulation 21(1)(a), the Secretary of State must include—
+
+- (a) details of the circumstances leading the Secretary of State to consider taking a specified action;
+- (b) the period within which representations may be made (“the representations period”) by—
+  - (i) a qualifying DCTS country;
+  - (ii) an interested party, where the specified action being considered is the suspension of a country from the DCTS, or the suspension or variation of DCTS rates on specified DCTS goods originating from a qualifying DCTS country under regulations 16(5) or 17(1);
+  - (iii) a person or persons affected as defined in paragraph 3 of Schedule 4, where the specified action being considered is the application of a trade preference safeguard measure under regulation 19;
+- (c) the specified action or actions the Secretary of State may take after an assessment is carried out.
+
+(2) The Secretary of State may—
+
+- (a) publish more than one warning (whether or not at the same time);
+- (b) specify different actions under paragraph (1)(c) in such warning.
+
+(3) A warning is valid for a period which—
+
+- (a) begins with the day on which the warning is published;
+- (b) ends with the day on which the outcome of the assessment is published.
+
+(4) For the purpose of this regulation a warning is published when it is posted electronically on https://www.gov.uk.
+
+### 23. Assessment[^key-4e90efd26c8bd7e97f01ca35fd6f0381]
+
+(1) When carrying out an assessment of the circumstances in accordance with regulation 21(1)(b), the Secretary of State must consider—
+
+- (a) whether the circumstances giving rise to the publication of a warning and specified in that warning continue to apply, and
+- (b) any representations received during the representations period.
+
+(2) In relation to any assessment undertaken in accordance with regulation 16(6) and 17(2), the Secretary of State must also consider any remedial steps taken by the DCTS country.
+
+(3) In relation to any assessment undertaken in accordance with paragraph 5 of Schedule 4, the Secretary of State must also consider whether the circumstances in paragraph 1(a) and (b) of Schedule 4 apply.
+
+(4) The Secretary of State may take into account other available evidence that they consider to be relevant when carrying out an assessment.
+
+### 24. Outcome and publication of assessment[^key-9ef95b298ef325bb4590070dea9017e5]
+
+(1) Following the assessment carried out in accordance with regulation 23, the Secretary of State may consider it appropriate to—
+
+- (a) take no further action for the time being;
+- (b) issue a further warning;
+- (c) take a specified action or actions.
+
+(2) The Secretary of State must publish the outcome of the assessment including details in relation to any of the consequences specified in paragraph (1).
+
+(3) For the purpose of this regulation the outcome of an assessment is published when it is posted electronically on https://www.gov.uk.
+
+## PART 8 — Notices
+
+### 25. General provision about notices[^key-03c01349b7366117b0981665146e6311]
+
+(1) In addition to the information otherwise required by these Regulations, a notice published by the Secretary of State—
+
+- (a) may contain such other information as the Secretary of State considers appropriate;
+- (b) may make different provision for different cases or for different purposes;
+- (c) may be amended to include additional or different information;
+- (d) must be made in writing, which may include by electronic means.
+
+(2) Where a notice is published under these Regulations that notice—
+
+- (a) may be published in consolidated form with one or more other notices as the Secretary of State considers appropriate;
+- (b) may be revoked by a subsequent notice.
+
+(3) For the purposes of these Regulations a notice is published by posting it electronically on https://www.gov.uk.
+
+### 26. Suspension and variation notices[^key-eebdaa1868e1ff8f03e866bc94c8d0aa]
+
+(1) A “**suspension notice**” means a notice that suspends—
+
+- (a) a country from the DCTS under regulation 16(5)(a)(i) or 17(1)(a)(i), or
+- (b) the DCTS rate on specified DCTS goods originating from a qualifying DCTS country, under regulation 16(5)(a)(ii) or 17(1)(a)(ii).
+
+(2) A “**variation notice**” means a notice under regulation 16(5)(b) or 17(1)(b) that varies the DCTS rate on specified DCTS goods originating from a qualifying DCTS country.
+
+(3) Such notices must specify—
+
+- (a) the regulation pursuant to which the notice has been published,
+- (b) the country and, where appropriate, the goods to which the suspension or variation applies, and
+- (c) the days on which the period of suspension or variation begin and end.
+
+(4) The publication of a suspension or variation notice does not affect the power of the Secretary of State to make regulations at any time to—
+
+- (a) withdraw a country from the DCTS;
+- (b) withdraw DCTS rates from DCTS goods;
+- (c) vary DCTS rates on specified DCTS goods.
+
+## PART 9 — Eligible Developing Countries
+
+### 27. Amendment of Schedule 3 to the Act[^key-5d83f2ed5b682762a7ca4b1416a26af3]
+
+In Schedule 3 to the Act (eligible developing countries), in Part 3 (other eligible developing countries), omit Samoa and Vietnam.
+
+Signed by authority of the Secretary of State
+
+Nigel Huddleston
+
+Minister for International Trade
+
+Department for Business and Trade
+
+22nd May 2023
+
+SCHEDULES
+
+## SCHEDULE 1
+
+Regulations 9 and 10
+
+### PART 1 — EP Countries[^key-434a1519d231c5556250b4f43b40da1d]
+
+|  |  |  |  |
+| --- | --- | --- | --- |
+| Algeria<br>Bolivia<br>Cape Verde<br>Congo<br>Cook Islands | Kyrgyzstan<br>Micronesia<br>Mongolia<br>Nigeria<br>Niue | Pakistan<br>Philippines<br>Sri Lanka<br>Syria<br>Tajikistan | Uzbekistan<br>Vanuatu[^key-c006aacda5db5bcb14456076b6eef3ad] |
+
+### PART 2 — SP Countries[^key-10d25e4cf7abe11c68f1b9f356ed6fbe]
+
+|  |  |
+| --- | --- |
+| India | Indonesia |
+
+## SCHEDULE 2 — List of Conventions
+
+Regulation 17
+
+**1.**[^key-54feb43dde370345094546924b838fc5] Convention on the Prevention and Punishment of the Crime of Genocide (1948)[^f00010].
+
+**2.**[^key-6c47a0e05e5c8e9c6a298d41985216f1] International Convention on the Elimination of All Forms of Racial Discrimination (1965)[^f00011].
+
+**3.**[^key-f510ea0a93d85b70d6384f8b05d56918] International Covenant on Civil and Political Rights (1966)[^f00012].
+
+**4.**[^key-36266fbbde10d5b596dfe60b0b217cfb] International Covenant on Economic, Social and Cultural Rights (1966)[^f00013].
+
+**5.**[^key-6f93ab7ad68754545585231326e146f4] Convention on the Elimination of All Forms of Discrimination against Women (1979)[^f00014].
+
+**6.**[^key-934239130b2748c69103687313936469] Convention Against Torture and other Cruel, Inhuman or Degrading Treatment or Punishment (1984)[^f00015].
+
+**7.**[^key-909a25cb20411d6622a88633c95886bc] Convention on the Rights of the Child (1989)[^f00016].
+
+**8.**[^key-c3cf2ae69d8fdd7718bb3198dfb443b6] Convention on the Rights of Persons with Disabilities (2006)[^f00017].
+
+**9.**[^key-79509b468ebdaced794a740cc9499835] Convention concerning Forced or Compulsory Labour, No 29 (1930)[^f00018].
+
+**10.**[^key-d7adbeb881edd8ec4e4b3836fa0892fc] Protocol of 2014 to the Forced Labour Convention 1930, No 29 (2014)[^f00019].
+
+**11.**[^key-3730d62fc13d3e583f88ac24a9f0ce23] Convention concerning the Abolition of Forced Labour, No 105 (1957)[^f00020].
+
+**12.**[^key-70b9601cb2b80cf6c5e285c17f608e95] Convention concerning Minimum Age for Admission to Employment, No 138 (1973)[^f00021].
+
+**13.**[^key-a454ade9abc28afaa78f3f7fb94b6101] Convention concerning the Prohibition and Immediate Action for the Elimination of the Worst Forms of Child Labour, No 182 (1999)[^f00022].
+
+**14.**[^key-47d742450a8c9ffa9706c08138c018b5] Convention concerning Equal Remuneration of Men and Women Workers for Work of Equal Value, No 100 (1951)[^f00023].
+
+**15.**[^key-65671fc4b1b301f851026328e77adfe1] Convention concerning Discrimination in Respect of Employment and Occupation, No 111 (1958)[^f00024].
+
+**16.**[^key-083bcf27a0fd46801c71e595d3fcb4bd] Convention concerning Freedom of Association and Protection of the Right to Organise, No 87 (1948)[^f00025].
+
+**17.**[^key-d2f963dd6a8d94ac70bdcea6b5d078c7] Convention concerning the Application of the Principles of the Right to Organise and to Bargain Collectively, No 98 (1949)[^f00026].
+
+**18.**[^key-eadae86ea0d12ddefb9d12d9c34ff305] United Nations Convention against Corruption (2003)[^f00027].
+
+**19.**[^key-a426af96dfeeb34dae31856f67536728] United Nations Framework Convention on Climate Change (1992)[^f00028].
+
+**20.**[^key-1b49eb7fdbad6ebe3324f2f27ff83f6d] Paris Agreement (2015)[^f00029].
+
+**21.**[^key-a0140b14fed2df71c362b354cac52bd8] Convention on International Trade in Endangered Species of Wild Fauna and Flora (1973)[^f00030].
+
+**22.**[^key-10f16050e0c5d9cab365c143a264250b] Montreal Protocol on Substances that Deplete the Ozone Layer (1987)[^f00031].
+
+**23.**[^key-63707e33abd52d80fdb7dd9d218c5ecd] Convention on Biological Diversity (1992)[^f00032].
+
+**24.**[^key-2ffdb4795221c4de4535e18f1d3e992a] Cartagena Protocol on Biosafety to the Convention on Biological Diversity (2000)[^f00033].
+
+**25.**[^key-03f8d8dac1a9d480e03ff2a6f9f6371e] Basel Convention on the Control of Transboundary Movements of Hazardous Wastes and their Disposal (1989)[^f00034].
+
+**26.**[^key-abbfa734cf4b2cbf085f6e5a59ca4757] Stockholm Convention on Persistent Organic Pollutants (2001)[^f00035].
+
+**27.**[^key-5a9b3648120880b1ffdf8cff468eee45] Rotterdam Convention on the Prior Informed Consent Procedure for Certain Hazardous Chemicals and Pesticides in International Trade (1998)[^f00036].
+
+**28.**[^key-93b8eacb92872e29a66eb5131cd52ac8] Agreement for the Implementation of the Provisions of the United Nations Convention on the Law of the Sea of 10 December 1982 relating to the Conservation and Management of Straddling Fish Stocks and Highly Migratory Fish Stocks (1995)[^f00037].
+
+## SCHEDULE 3 — Goods Graduation
+
+Regulation 18
+
+**1.**[^key-3bdd1cc6f1c946fe1f1571c1c3978807] In this Schedule—
+
+- “**BI imports**” means goods that—
+  - (a) are imported into the British Islands, and
+  - (b) have a standard rate of import duty greater than a nil rate;
+- “**chapter**” means a chapter of the Goods Classification Table;
+- “**graduation assessment**” means an assessment of SP imports carried out by the Secretary of State that—
+  - (a) is carried out at any time during the period beginning with 1st January and ending with 29th September in any given year, and
+  - (b) assesses the value of SP imports over the import review period ending on the preceding 31st December.
+- “**SP imports**” means SP goods that—
+  - (a) are imported into the British Islands, and
+  - (b) have a standard rate of import duty greater than a nil rate;
+- “**SP rate**” means the DCTS rate specified for SP goods under regulation 15.
+
+### 2. Goods graduation notice[^key-44dca07dadc07881afd49a93997e4d92]
+
+A goods graduation notice must specify—
+
+- (a) the fact that the SP rate is to be suspended on SP imports;
+- (b) the chapters and SP country, or SP countries, to which the suspension applies;
+- (c) the day on which the suspension of the SP rate begins;
+- (d) the day on which the suspension ends and the fact the period of suspension may be extended by a further notice;
+- (e) that the goods graduation ground applies.
+
+### 3. Goods graduation ground[^key-a328d79c9955945bcecb2927bda73ee8]
+
+(1) The goods graduation ground applies in respect of an SP country where—
+
+- (a) a graduation assessment has been carried out, and
+- (b) that assessment determines that, during the import review period, SP imports from that SP country—
+  - (i) have the chapter reference specified in column 1 of the table in this paragraph, and
+  - (ii) the import ratio for those goods exceeds the corresponding import threshold for that chapter.
+
+(2) In this paragraph—
+
+- “**import ratio**” means the mean average value of SP imports from the relevant SP country, as a percentage of the total value of BI imports of the same goods, over the import review period;
+- “**import threshold**” means the maximum permitted import ratio specified in column 2 of the table in this paragraph;
+- “**same goods**” means goods in the same chapter and to which an SP code is applied in column 6 of the DCTS Specified Goods Table.
+
+  Table
+
+  | **Column 1** | **Column 2** |
+  | --- | --- |
+  | 15 | 1% |
+  | 28 | 1% |
+  | 29 | 1% |
+  | 56 | 1% |
+  | 72 | 1% |
+  | 73 | 1% |
+  | 76 | 1% |
+  | 87 | 1% |
+  | 88 | 1% |
+  | All other chapter references not specified in the preceding rows | 6% |
+
+**4.**[^key-d9d95b56290a0d48a4d7a764c69b1c91] Where the Secretary of State publishes a goods graduation notice under regulation 18(1)—
+
+- (a) the goods graduation notice must be published on or before 30th September of the year preceding the year in which the suspension begins;
+- (b) the suspension of the SP rate must begin on 1st January following the publication of the goods graduation notice;
+- (c) the period of suspension cannot exceed 3 years (unless extended by further notice).
+
+**5.**[^key-6a2424829320fbcbd20dfc7ae2a576e7] Where the Secretary of State publishes the first goods graduation notice under regulation 18(1)—
+
+- (a) the application of the goods graduation ground may take into account a graduation assessment carried out in the year preceding the year in which these Regulations come into force;
+- (b) the requirements in paragraph 4(a) and (b) of this Schedule do not apply;
+- (c) the suspension of the SP rate must begin on or after the date of publication of the goods graduation notice.
+
+## SCHEDULE 4 — Trade Preference Safeguard Measures
+
+Regulation 19
+
+### 1. Application of a trade preference safeguard measure[^key-2a112a8809a7c10ad1ee85b60d77c6d9]
+
+A “**trade preference safeguard measure**” means a measure suspending or varying the DCTS rate on DCTS imports where the Secretary of State determines that—
+
+- (a) there are increased quantities of DCTS imports, and
+- (b) those imports are causing, or threaten to cause, serious difficulties for United Kingdom producers of like goods or directly competing goods.
+
+**2.**[^key-0465093752441b37fe005a96a830b7b1] In determining whether increased quantities of DCTS imports are causing, or threatening to cause, serious difficulties for United Kingdom producers of like goods or directly competing goods the Secretary of State must take into account whether—
+
+- (a) any such producers have suffered a deterioration in their economic or financial situation, which has had or is likely to have an effect upon their—
+  - (i) market share,
+  - (ii) production,
+  - (iii) stocks,
+  - (iv) production capacity,
+  - (v) solvency,
+  - (vi) profitability, or
+  - (vii) capacity utilisation;
+- (b) employment in the United Kingdom is adversely affected.
+
+**3.**[^key-e853192fb1b428c99224a372581a666e] For the purposes of this Schedule—
+
+- “**directly competing goods**” means goods that are regarded by the Secretary of State as competing in the same market in the United Kingdom as the DCTS imports in question in terms of the characteristics, intended use and price of the goods;
+- “**DCTS imports**” means DCTS goods originating from one or more qualifying DCTS countries that are imported into the United Kingdom;
+- “**increased quantities**” means an increase in the volume of imports, whether in absolute terms or relative to the total production in the United Kingdom of like goods and directly competing goods;
+- “**like goods**” means—
+  - (a) goods which are like the DCTS imports in question in all respects, or
+  - (b) goods which, although not alike in all respects, have characteristics closely resembling those of the DCTS imports in question;
+- “**persons affected**” means persons involved in the production, distribution or sale of like or directly competing goods.
+
+### 4. Trade preference safeguard notice[^key-9a38d13f417f143e9e8dfb56f87f3b1e]
+
+A trade preference safeguard notice must specify—
+
+- (a) the goods and countries to which the trade preference safeguard measure applies;
+- (b) the fact that the DCTS rate is to be suspended or varied on those goods;
+- (c) where appropriate, the DCTS rate as varied;
+- (d) the day on which the suspension or variation of the DCTS rate begins;
+- (e) the day on which the suspension or variation ends;
+- (f) a statement that the application of the measure may be extended by a further trade preference safeguard notice, in accordance with paragraph 8.
+
+**5.**[^key-1d386885363709eb2d07a93ae3a67c02] Before determining whether or not to publish a trade preference safeguard notice, the Secretary of State must follow the warning and assessment procedure set out in regulation 21.
+
+**6.**[^key-11e265783f8afcec431942d5254653b2] Paragraph 5 does not apply to an urgent trade preference safeguard notice.
+
+**7.**[^key-2ab7470ed9aa27e0840ac048652ee1ff] The Secretary of State may publish an urgent trade preference safeguard notice where—
+
+- (a) the Secretary of State determines that publication of the outcome of an assessment in accordance with regulation 24 may, having regard to the matters specified in paragraph 2 of this Schedule—
+  - (i) cause damage to United Kingdom producers that may be difficult to repair, or
+  - (ii) affect employment in the United Kingdom, and
+- (b) the period of suspension or variation specified does not exceed 12 months.
+
+**8.**[^key-a53b4536112424438f257608c7fcc105] The Secretary of State may publish a further trade preference safeguard notice to extend a measure contained in an existing trade preference safeguard notice, but must follow the warning and assessment procedure specified in regulation 21 before doing so, where—
+
+- (a) the measure being extended had been imposed by an urgent trade preference safeguard notice, or
+- (b) the extension would mean that the total period for which a trade safeguard measure is to be imposed would exceed 3 years.
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations revoke the Trade Preference Scheme (EU Exit) Regulations 2020 ([S.I. 2020/1438](https://www.legislation.gov.uk/uksi/2020/1438)) and establish a new trade preference scheme for developing countries known as the Developing Countries Trading Scheme (“**DCTS**”). The DCTS offers lower rates of import duty than applies under the Customs Tariff (Establishment) (EU Exit) Regulations 2020 ([S.I. 2020/1430](https://www.legislation.gov.uk/uksi/2020/1430)). These lower rates are available on certain goods originating from certain countries.
+
+Regulations 5 to 7 establish the DCTS and set out its key elements, specify the qualification rules for both countries and goods, and specify the conditions that must be met to apply a DCTS rate. Regulations 8 to 10 set out the three frameworks under the scheme and specify the countries covered by these frameworks. Regulation 11 specifies which goods are covered by the frameworks.
+
+Regulations 12 to 15 set out the rules for calculating the DCTS rate under the frameworks. The codes for calculation of the DCTS rate applicable to EP or SP goods are listed in the DCTS Specified Goods Table contained in Part 3 of the document entitled “the Developing Countries Trading Scheme Specified Goods Table, version 1.0, dated 22 May 2023”.
+
+Regulation 16 provides that the Secretary of State may specify customs cooperation and verification of proof of origin conditions for qualifying DCTS countries in a published notice. Serious and systematic failures to comply with conditions of such a notice may result in suspension of a country or the suspension or variation of the DCTS rate.
+
+Regulations 17 to 20 set out other grounds relating to suspension and variation. Regulation 17 allows for the suspension of a country or suspension or variation of a DCTS rate in relation to the conventions listed in Schedule 2. Regulation 18 allows for the DCTS rate to be suspended where the goods graduation ground applies. Regulation 19 allows for the suspension and variation of DCTS rates through the application of a trade preference safeguard measure. Regulation 20 deals with additional import duties imposed on certain goods from certain countries and provides for the suspension of the DCTS rate.
+
+Regulation 21 provides for a warning and assessment procedure and regulations 22 to 24 go into further detail on the relevant steps of the procedure. Regulations 25 and 26 make provision about notices. Regulation 25 applies to all notices published in accordance with the Regulations while regulation 26 applies to suspension and variation notices only.
+
+Regulation 27 makes amendments to the list of other eligible developing countries in Schedule 3 to the Taxation (Cross-border Trade) Act 2018[^f00038].
+
+A full impact assessment has not been prepared for this instrument as the policy is considered a tax related measure. An Explanatory Memorandum is published alongside the instrument at legislation.gov.uk.
+
+## Annotations
+
+[^f00001]: Footnote: [2018 c. 22](https://www.legislation.gov.uk/ukpga/2018/22). See section 10(4) of the Act for the definition of “arms and ammunition” and “suspension”.
+
+[^key-551c908b9c2cc9968577e7d9425d5ad6]: Commencement: Reg. 1 in force at 19.6.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/561/regulation/1/2)
+
+[^f00002]: Footnote: See section 1 of the Act.
+
+[^key-1e8df02fb84863e0b38acd405964eb0b]: Commencement: Reg. 2 in force at 19.6.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/561/regulation/1/2)
+
+[^f00003]: Footnote: [S.I. 2023/557](https://www.legislation.gov.uk/uksi/2023/557).
+
+[^f00004]: Footnote: Available electronically from https://www.gov.uk/government/publications/reference-document-for-the-trade-preference-scheme-developing-countries-trading-scheme-regulations-2023. Hard copies are held and available for viewing at the Department for Business and Trade, Old Admiralty Building, London SW1A 2DY.
+
+[^f00005]: Footnote: [S.I. 2020/1430](https://www.legislation.gov.uk/uksi/2020/1430), amended by [S.I. 2022/981](https://www.legislation.gov.uk/uksi/2022/981); there are other amending instruments but none is relevant.
+
+[^key-a58b9781ff82767ea97e022f08428de0]: Commencement: Reg. 3 in force at 19.6.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/561/regulation/1/2)
+
+[^key-417142c415d2e600dab703c38fb14e00]: Commencement: Reg. 4 in force at 19.6.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/561/regulation/1/2)
+
+[^f00006]: Footnote: [S.I. 2020/1438](https://www.legislation.gov.uk/uksi/2020/1438).
+
+[^f00007]: Footnote: [S.I. 2021/435](https://www.legislation.gov.uk/uksi/2021/435).
+
+[^key-472a613eee84fbb4e21edbfb0c623c7c]: Commencement: Reg. 5 in force at 19.6.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/561/regulation/1/2)
+
+[^key-98932fe6dd6191f77060a3345836dabe]: Commencement: Reg. 6 in force at 19.6.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/561/regulation/1/2)
+
+[^key-0f64f457af8b4e41bdec545ae33d9b6f]: Commencement: Reg. 7 in force at 19.6.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/561/regulation/1/2)
+
+[^f00008]: Footnote: [S.I. 2018/1248](https://www.legislation.gov.uk/uksi/2018/1248), to which there are amendments not relevant to these Regulations.
+
+[^key-0ee1056a6e4d0318537b2325b14fa112]: Textual amendment: [Reg. 7(1A)](https://www.legislation.gov.uk/uksi/2023/561/regulation/7/1A)[(1B)](https://www.legislation.gov.uk/uksi/2023/561/regulation/7/1B) inserted (1.7.2026) by [The Customs (Tariff and Miscellaneous Amendments) (No. 4) Regulations 2026 (S.I. 2026/572)](https://www.legislation.gov.uk/uksi/2026/572), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/572/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2026/572/regulation/5) (with [reg. 6](https://www.legislation.gov.uk/uksi/2026/572/regulation/6))
+
+[^key-c044ecaf977082059b72c2e367190450]: Commencement: Reg. 8 in force at 19.6.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/561/regulation/1/2)
+
+[^key-7a1e33731597c4b9fe653edfb53586f5]: Commencement: Reg. 9 in force at 19.6.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/561/regulation/1/2)
+
+[^key-749c2194651f26e49882b56612be469c]: Textual amendment: [Reg. 9(2)](https://www.legislation.gov.uk/uksi/2023/561/regulation/9/2)[(3)](https://www.legislation.gov.uk/uksi/2023/561/regulation/9/3) substituted for [reg. 9(2)](https://www.legislation.gov.uk/uksi/2023/561/regulation/9/2) (1.1.2026) by [The Customs (Tariff and Miscellaneous Amendments) (No. 4) Regulations 2025 (S.I. 2025/1289)](https://www.legislation.gov.uk/uksi/2025/1289), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1289/regulation/1/1), [11(2)](https://www.legislation.gov.uk/uksi/2025/1289/regulation/11/2)
+
+[^key-f090af5c8257a81b6392af95d67b9321]: Commencement: Reg. 10 in force at 19.6.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/561/regulation/1/2)
+
+[^key-f3844168a5f3876e1b4aa681e81a334e]: Commencement: Reg. 11 in force at 19.6.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/561/regulation/1/2)
+
+[^key-7e4e24ee10289766dceb2add3f370e28]: Commencement: Reg. 12 in force at 19.6.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/561/regulation/1/2)
+
+[^key-1b799789e1c80d594f1e1a21ef6d1bef]: Commencement: Reg. 13 in force at 19.6.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/561/regulation/1/2)
+
+[^key-06453befaced1645dd20fb46b91fc903]: Commencement: Reg. 14 in force at 19.6.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/561/regulation/1/2)
+
+[^key-efa71ef92d105145ad45dca4ac619b73]: Commencement: Reg. 15 in force at 19.6.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/561/regulation/1/2)
+
+[^key-183446a24a3147bd52b802b691fa3ee6]: Commencement: Reg. 16 in force at 19.6.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/561/regulation/1/2)
+
+[^f00009]: Footnote: [1979 c. 2](https://www.legislation.gov.uk/ukpga/1979/2), inserted by section 20(1) of the European Union (Future Relationship) Act [2020 (c. 29)](https://www.legislation.gov.uk/ukpga/2020/29).
+
+[^key-c5cb8a04494e4910ecc0c9b6ecdc0362]: Commencement: Reg. 17 in force at 19.6.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/561/regulation/1/2)
+
+[^key-9ca4218a7c860c1432652783b032dea8]: Commencement: Reg. 18 in force at 19.6.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/561/regulation/1/2)
+
+[^key-ccbba068b424a0a910ab5808e7b77aef]: Commencement: Reg. 19 in force at 19.6.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/561/regulation/1/2)
+
+[^key-016a8c62b2276367acb714048dba6de3]: Commencement: Reg. 20 in force at 19.6.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/561/regulation/1/2)
+
+[^key-6aaccc9636c948816f51a42adeabcf27]: Commencement: Reg. 21 in force at 19.6.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/561/regulation/1/2)
+
+[^key-63ce0dd54bdc055db9eac8e6f8e18d34]: Commencement: Reg. 22 in force at 19.6.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/561/regulation/1/2)
+
+[^key-4e90efd26c8bd7e97f01ca35fd6f0381]: Commencement: Reg. 23 in force at 19.6.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/561/regulation/1/2)
+
+[^key-9ef95b298ef325bb4590070dea9017e5]: Commencement: Reg. 24 in force at 19.6.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/561/regulation/1/2)
+
+[^key-03c01349b7366117b0981665146e6311]: Commencement: Reg. 25 in force at 19.6.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/561/regulation/1/2)
+
+[^key-eebdaa1868e1ff8f03e866bc94c8d0aa]: Commencement: Reg. 26 in force at 19.6.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/561/regulation/1/2)
+
+[^key-5d83f2ed5b682762a7ca4b1416a26af3]: Commencement: Reg. 27 in force at 19.6.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/561/regulation/1/2)
+
+[^key-434a1519d231c5556250b4f43b40da1d]: Commencement: Sch. 1 Pt. 1 in force at 19.6.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/561/regulation/1/2)
+
+[^key-c006aacda5db5bcb14456076b6eef3ad]: Textual amendment: Word in [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2023/561/schedule/1/part/1) inserted (1.1.2026) by [The Customs (Tariff and Miscellaneous Amendments) (No. 4) Regulations 2025 (S.I. 2025/1289)](https://www.legislation.gov.uk/uksi/2025/1289), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1289/regulation/1/1), [11(3)](https://www.legislation.gov.uk/uksi/2025/1289/regulation/11/3)
+
+[^key-10d25e4cf7abe11c68f1b9f356ed6fbe]: Commencement: Sch. 1 Pt. 2 in force at 19.6.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/561/regulation/1/2)
+
+[^key-54feb43dde370345094546924b838fc5]: Commencement: Sch. 2 para. 1 in force at 19.6.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/561/regulation/1/2)
+
+[^f00010]: Footnote: Cmnd. 4421. All Schedule 2 conventions are available electronically at the Foreign, Commonwealth and Development Office treaties database treaties.fcdo.gov.uk. Hard copies are available free of charge at the offices of the Foreign, Commonwealth and Development Office, King Charles Street, London SW1A 2AH.
+
+[^key-6c47a0e05e5c8e9c6a298d41985216f1]: Commencement: Sch. 2 para. 2 in force at 19.6.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/561/regulation/1/2)
+
+[^f00011]: Footnote: Cmnd. 4108.
+
+[^key-f510ea0a93d85b70d6384f8b05d56918]: Commencement: Sch. 2 para. 3 in force at 19.6.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/561/regulation/1/2)
+
+[^f00012]: Footnote: Cmnd. 6702.
+
+[^key-36266fbbde10d5b596dfe60b0b217cfb]: Commencement: Sch. 2 para. 4 in force at 19.6.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/561/regulation/1/2)
+
+[^f00013]: Footnote: Cmnd. 6702.
+
+[^key-6f93ab7ad68754545585231326e146f4]: Commencement: Sch. 2 para. 5 in force at 19.6.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/561/regulation/1/2)
+
+[^f00014]: Footnote: Cmnd. 643.
+
+[^key-934239130b2748c69103687313936469]: Commencement: Sch. 2 para. 6 in force at 19.6.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/561/regulation/1/2)
+
+[^f00015]: Footnote: Cmnd. 1775.
+
+[^key-909a25cb20411d6622a88633c95886bc]: Commencement: Sch. 2 para. 7 in force at 19.6.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/561/regulation/1/2)
+
+[^f00016]: Footnote: Cmnd. 1976.
+
+[^key-c3cf2ae69d8fdd7718bb3198dfb443b6]: Commencement: Sch. 2 para. 8 in force at 19.6.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/561/regulation/1/2)
+
+[^f00017]: Footnote: Cmnd 7564.
+
+[^key-79509b468ebdaced794a740cc9499835]: Commencement: Sch. 2 para. 9 in force at 19.6.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/561/regulation/1/2)
+
+[^f00018]: Footnote: Cmnd. 3693.
+
+[^key-d7adbeb881edd8ec4e4b3836fa0892fc]: Commencement: Sch. 2 para. 10 in force at 19.6.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/561/regulation/1/2)
+
+[^f00019]: Footnote: Cmnd 9008.
+
+[^key-3730d62fc13d3e583f88ac24a9f0ce23]: Commencement: Sch. 2 para. 11 in force at 19.6.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/561/regulation/1/2)
+
+[^f00020]: Footnote: Cmnd. 313.
+
+[^key-70b9601cb2b80cf6c5e285c17f608e95]: Commencement: Sch. 2 para. 12 in force at 19.6.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/561/regulation/1/2)
+
+[^f00021]: Footnote: Cmnd. 5275.
+
+[^key-a454ade9abc28afaa78f3f7fb94b6101]: Commencement: Sch. 2 para. 13 in force at 19.6.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/561/regulation/1/2)
+
+[^f00022]: Footnote: Cmnd. 5213
+
+[^key-47d742450a8c9ffa9706c08138c018b5]: Commencement: Sch. 2 para. 14 in force at 19.6.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/561/regulation/1/2)
+
+[^f00023]: Footnote: Cmnd. 5039.
+
+[^key-65671fc4b1b301f851026328e77adfe1]: Commencement: Sch. 2 para. 15 in force at 19.6.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/561/regulation/1/2)
+
+[^f00024]: Footnote: Cmnd. 5301.
+
+[^key-083bcf27a0fd46801c71e595d3fcb4bd]: Commencement: Sch. 2 para. 16 in force at 19.6.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/561/regulation/1/2)
+
+[^f00025]: Footnote: Cmnd. 7638.
+
+[^key-d2f963dd6a8d94ac70bdcea6b5d078c7]: Commencement: Sch. 2 para. 17 in force at 19.6.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/561/regulation/1/2)
+
+[^f00026]: Footnote: Cmnd. 7852.
+
+[^key-eadae86ea0d12ddefb9d12d9c34ff305]: Commencement: Sch. 2 para. 18 in force at 19.6.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/561/regulation/1/2)
+
+[^f00027]: Footnote: Cmnd. 6854.
+
+[^key-a426af96dfeeb34dae31856f67536728]: Commencement: Sch. 2 para. 19 in force at 19.6.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/561/regulation/1/2)
+
+[^f00028]: Footnote: Cmnd. 2833.
+
+[^key-1b49eb7fdbad6ebe3324f2f27ff83f6d]: Commencement: Sch. 2 para. 20 in force at 19.6.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/561/regulation/1/2)
+
+[^f00029]: Footnote: Cmnd 9365.
+
+[^key-a0140b14fed2df71c362b354cac52bd8]: Commencement: Sch. 2 para. 21 in force at 19.6.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/561/regulation/1/2)
+
+[^f00030]: Footnote: Cmnd. 6647.
+
+[^key-10f16050e0c5d9cab365c143a264250b]: Commencement: Sch. 2 para. 22 in force at 19.6.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/561/regulation/1/2)
+
+[^f00031]: Footnote: Cmnd. 997.
+
+[^key-63707e33abd52d80fdb7dd9d218c5ecd]: Commencement: Sch. 2 para. 23 in force at 19.6.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/561/regulation/1/2)
+
+[^f00032]: Footnote: Cmnd. 2915.
+
+[^key-2ffdb4795221c4de4535e18f1d3e992a]: Commencement: Sch. 2 para. 24 in force at 19.6.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/561/regulation/1/2)
+
+[^f00033]: Footnote: Cmnd. 6170.
+
+[^key-03f8d8dac1a9d480e03ff2a6f9f6371e]: Commencement: Sch. 2 para. 25 in force at 19.6.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/561/regulation/1/2)
+
+[^f00034]: Footnote: Cmnd. 3108.
+
+[^key-abbfa734cf4b2cbf085f6e5a59ca4757]: Commencement: Sch. 2 para. 26 in force at 19.6.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/561/regulation/1/2)
+
+[^f00035]: Footnote: Cmnd. 6581.
+
+[^key-5a9b3648120880b1ffdf8cff468eee45]: Commencement: Sch. 2 para. 27 in force at 19.6.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/561/regulation/1/2)
+
+[^f00036]: Footnote: Cmnd. 6390.
+
+[^key-93b8eacb92872e29a66eb5131cd52ac8]: Commencement: Sch. 2 para. 28 in force at 19.6.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/561/regulation/1/2)
+
+[^f00037]: Footnote: Cmnd. 6176.
+
+[^key-3bdd1cc6f1c946fe1f1571c1c3978807]: Commencement: Sch. 3 para. 1 in force at 19.6.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/561/regulation/1/2)
+
+[^key-44dca07dadc07881afd49a93997e4d92]: Commencement: Sch. 3 para. 2 in force at 19.6.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/561/regulation/1/2)
+
+[^key-a328d79c9955945bcecb2927bda73ee8]: Commencement: Sch. 3 para. 3 in force at 19.6.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/561/regulation/1/2)
+
+[^key-d9d95b56290a0d48a4d7a764c69b1c91]: Commencement: Sch. 3 para. 4 in force at 19.6.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/561/regulation/1/2)
+
+[^key-6a2424829320fbcbd20dfc7ae2a576e7]: Commencement: Sch. 3 para. 5 in force at 19.6.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/561/regulation/1/2)
+
+[^key-2a112a8809a7c10ad1ee85b60d77c6d9]: Commencement: Sch. 4 para. 1 in force at 19.6.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/561/regulation/1/2)
+
+[^key-0465093752441b37fe005a96a830b7b1]: Commencement: Sch. 4 para. 2 in force at 19.6.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/561/regulation/1/2)
+
+[^key-e853192fb1b428c99224a372581a666e]: Commencement: Sch. 4 para. 3 in force at 19.6.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/561/regulation/1/2)
+
+[^key-9a38d13f417f143e9e8dfb56f87f3b1e]: Commencement: Sch. 4 para. 4 in force at 19.6.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/561/regulation/1/2)
+
+[^key-1d386885363709eb2d07a93ae3a67c02]: Commencement: Sch. 4 para. 5 in force at 19.6.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/561/regulation/1/2)
+
+[^key-11e265783f8afcec431942d5254653b2]: Commencement: Sch. 4 para. 6 in force at 19.6.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/561/regulation/1/2)
+
+[^key-2ab7470ed9aa27e0840ac048652ee1ff]: Commencement: Sch. 4 para. 7 in force at 19.6.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/561/regulation/1/2)
+
+[^key-a53b4536112424438f257608c7fcc105]: Commencement: Sch. 4 para. 8 in force at 19.6.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/561/regulation/1/2)
+
+[^f00038]: Footnote: [2018 c. 22](https://www.legislation.gov.uk/ukpga/2018/22).

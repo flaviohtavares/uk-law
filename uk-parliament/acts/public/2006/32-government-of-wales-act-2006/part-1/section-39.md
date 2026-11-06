@@ -1,0 +1,51 @@
+---
+title: Government of Wales Act 2006, section 39
+act: Government of Wales Act 2006
+section: '39'
+status: revised-with-pending-changes
+text_date: '2026-09-16'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/2006/32/section/39
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Government of Wales Act 2006, section 39
+
+> **Warning: changes not yet applied to this text (24).** Text as at 2026-09-16. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/32
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 39. Offences[^c16526751]
+
+*Extent: E+W*
+
+(1) A person to whom a notice under section 38(1) has been given commits an offence if the person—
+
+- (a) refuses or fails without reasonable excuse to attend proceedings as required by the notice,
+- (b) refuses or fails without reasonable excuse, when attending proceedings as required by the notice, to answer any question concerning the subjects specified in the notice,
+- (c) refuses or fails without reasonable excuse to produce any document required to be produced by the notice, or
+- (d) intentionally alters, suppresses, conceals or destroys any such document.
+
+(2) Subsection (1) is subject to sections 34(3) and 37(5), (6), (8) and (9).
+
+(3) If a person charged with an offence under subsection (1)(a), (b) or (c) adduces evidence of a reasonable excuse for the refusal or failure, it is for the prosecution to prove that the person did not have such an excuse.
+
+(4) A person guilty of an offence under subsection (1) is liable on summary conviction—
+
+- (a) to a fine not exceeding level 5 on the standard scale,
+- (b) to imprisonment for a term not exceeding 51 weeks, or
+- (c) to both.
+
+(5) Where an offence under subsection (1) which has been committed by a body corporate is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of—
+
+- (a) a director, manager, secretary or other similar officer of the body corporate, or
+- (b) any person who was purporting to act in any such capacity,
+
+that person, as well as the body corporate, is guilty of that offence and liable to be proceeded against accordingly.
+
+(6) In subsection (5) “**director**”, in the case of a body corporate whose affairs are managed by its members, means a member of the body corporate.
+
+## Annotations
+
+[^c16526751]: Commencement: Ss. 1-94, 97-106 in force immediately after "the 2007 election" by s. 161(1) (subject to s. 161(4)(5))

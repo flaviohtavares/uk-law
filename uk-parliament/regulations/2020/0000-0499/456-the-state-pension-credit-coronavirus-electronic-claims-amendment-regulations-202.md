@@ -1,0 +1,108 @@
+---
+title: The State Pension Credit (Coronavirus) (Electronic Claims) (Amendment) Regulations 2020
+id: uksi/2020/456
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2020-04-24'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2020/456
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2020/456/pdfs/uksiem_20200456_en.pdf
+- http://www.legislation.gov.uk/uksi/2020/456/pdfs/uksi_20200456_en.pdf
+- http://www.legislation.gov.uk/uksi/2020/456/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The State Pension Credit (Coronavirus) (Electronic Claims) (Amendment) Regulations 2020
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2020 No. 456
+
+Social Security
+
+The State Pension Credit (Coronavirus) (Electronic Claims) (Amendment) Regulations 2020
+
+Made
+
+24th April 2020
+
+Laid before Parliament
+
+27th April 2020
+
+Coming into force
+
+4th May 2020
+
+The Secretary of State for Work and Pensions makes the following Regulations in exercise of the powers conferred by sections 1(1), 5(1)(a) and (i), 189(1), (4) and (5) and 191 of the Social Security Administration Act 1992[^f00001].
+
+The Secretary of State, considering that the authorisation of the use of electronic communications by these Regulations for any purpose is such that the extent (if any) to which records of things done for that purpose will be available will be no less satisfactory in cases where use is made of electronic communications than in other cases, makes the following Regulations in exercise of the powers conferred by sections 8 and 9(5) of the Electronic Communications Act 2000[^f00002].
+
+In accordance with section 173(1)(a) of the Social Security Administration Act 1992, it appears to the Secretary of State that by reason of the urgency of this matter it is inexpedient to refer the proposals in respect of these Regulations to the Social Security Advisory Committee.
+
+## 1. Citation, commencement and extent
+
+(1) These Regulations may be cited as the State Pension Credit (Coronavirus) (Electronic Claims) (Amendment) Regulations 2020 and come into force on 4th May 2020.
+
+(2) These Regulations extend to England and Wales and Scotland only.
+
+## 2. Amendment of the Social Security (Claims and Payments) Regulations 1987
+
+(1) The Social Security (Claims and Payments) Regulations 1987[^f00003] are amended as follows.
+
+(2) In regulation 4ZC(2) (electronic claims for benefit)[^f00004] after sub-paragraph (j), add—
+
+> - (k) state pension credit.
+
+.
+
+(3) In paragraph 2 of Schedule 9ZC (conditions for the use of electronic communication)[^f00005]—
+
+- (a) after sub-paragraph (1)(k), add—
+
+  > - (l) state pension credit.
+
+  ; and
+- (b) in sub-paragraph (1A), omit paragraph (c).
+
+Signed by authority of the Secretary of State for Work and Pensions.
+
+Mims Davies
+
+Minister of State
+
+Department for Work and Pensions
+
+24th April 2020
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations amend the Social Security (Claims and Payments) Regulations 1987 ([S.I. 1987/1968](https://www.legislation.gov.uk/uksi/1987/1968)) (“the Claims and Payments Regulations”) to allow electronic claims to be made for State Pension Credit. Due to the impact of the Covid-19 outbreak in Great Britain, an online digital platform has been developed to provide claimants with an additional route for claiming and to ease the operational impacts of the pandemic.
+
+Regulation 2 amends regulation 4ZC of, and paragraph 2 of Schedule 9ZC to, the Claims and Payments Regulations to permit the use of an electronic communication in connection with a claim for State Pension Credit. The use of an electronic communication by claimants must be in accordance with a direction of the Secretary of State. The direction will be deposited in the libraries of both Houses of Parliament and will be available online at:
+
+https://www.gov.uk/government/publications/the-social-security-electronic-communications-directions.
+
+Hard copies can be obtained by writing to the Legislation Team, the Department for Work and Pensions, Caxton House, Tothill Street, London SW1H 9NA.
+
+A full impact assessment has not been produced for this instrument as no, or no significant, impact on the private, public or voluntary sectors is foreseen.
+
+## Annotations
+
+[^f00001]: Footnote: [1992 c. 5](https://www.legislation.gov.uk/ukpga/1992/5). Section 189(1) was amended by Schedule 7, paragraph 109, and Schedule 8, to the Social Security Act [1998 (c. 14)](https://www.legislation.gov.uk/ukpga/1998/14), Schedule 3, paragraph 57, to the Social Security Contributions (Transfer of Functions, etc.) Act [1999 (c. 2)](https://www.legislation.gov.uk/ukpga/1999/2), and Schedule 6, paragraph 1, to the Tax Credits Act [2002 (c. 21)](https://www.legislation.gov.uk/ukpga/2002/21). Section 189(4) and (5) was amended by Schedule 7, paragraph 109, and Schedule 8, to the Social Security Act 1998. Section 189(4) was also amended by [S.I. 2013/252](https://www.legislation.gov.uk/uksi/2013/252). Section 191 is cited for the meaning assigned to the words “benefit” and “prescribe”.
+
+[^f00002]: Footnote: [2000 c. 7](https://www.legislation.gov.uk/ukpga/2000/7).
+
+[^f00003]: Footnote: [S.I. 1987/1968](https://www.legislation.gov.uk/uksi/1987/1968).
+
+[^f00004]: Footnote: Regulation 4ZC was inserted by [S.I. 2003/2800](https://www.legislation.gov.uk/uksi/2003/2800) and amended by [S.I. 2016/544](https://www.legislation.gov.uk/uksi/2016/544) and [2017/422](https://www.legislation.gov.uk/uksi/2017/422).
+
+[^f00005]: Footnote: Schedule 9ZC was inserted by [S.I. 2003/2800](https://www.legislation.gov.uk/uksi/2003/2800) and amended by [S.I. 2016/544](https://www.legislation.gov.uk/uksi/2016/544), [2017/422](https://www.legislation.gov.uk/uksi/2017/422) and [2018/61](https://www.legislation.gov.uk/uksi/2018/61).

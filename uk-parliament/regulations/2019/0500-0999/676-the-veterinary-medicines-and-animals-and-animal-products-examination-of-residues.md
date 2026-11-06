@@ -1,0 +1,730 @@
+---
+title: The Veterinary Medicines and Animals and Animal Products (Examination of Residues and Maximum Residue Limits) (Amendment etc.) (EU Exit) Regulations 2019
+id: uksi/2019/676
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2019-03-25'
+text_date: '2020-12-31'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2019/676
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2019/676/pdfs/uksiem_20190676_en.pdf
+- http://www.legislation.gov.uk/uksi/2019/676/pdfs/uksi_20190676_en.pdf
+- http://www.legislation.gov.uk/uksi/2019/676/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Veterinary Medicines and Animals and Animal Products (Examination of Residues and Maximum Residue Limits) (Amendment etc.) (EU Exit) Regulations 2019
+
+> Text as at 2020-12-31.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2019 No. 676
+
+Exiting The European Union
+
+Food, England
+
+Food, Scotland
+
+Medicines
+
+The Veterinary Medicines and Animals and Animal Products (Examination of Residues and Maximum Residue Limits) (Amendment etc.) (EU Exit) Regulations 2019
+
+Made
+
+25th March 2019
+
+Coming into force in accordance with regulation 1(2)
+
+The Secretary of State makes these Regulations in exercise of the powers conferred by—
+
+- (a) in relation to Part 1, the powers mentioned in paragraphs (b) and (c);
+- (b) in relation to Part 2, section 2(2) of the European Communities Act 1972 [^c23672961];
+- (c) in relation to Parts 3 and 4, section 8(1) of, and paragraph 21 of Schedule 7 to, the European Union (Withdrawal) Act 2018 [^c23672971].
+
+The Secretary of State is designated for the purposes of section 2(2) of the European Communities Act 1972 in relation to the environment [^c23672981].
+
+In accordance with paragraph 2(2) of Schedule 2 to the European Communities Act 1972 and paragraph 1(3) of Schedule 7 to the European Union (Withdrawal) Act 2018, a draft of this instrument has been laid before Parliament and approved by a resolution of each House of Parliament.
+
+## PART 1 — Introductory
+
+### 1. Citation , commencement and extent[^key-2a97d4f844d452675b3c274ffecfa8a3][^key-4088eb46d4aad25ba00fddaa17234a4c]
+
+(1) These Regulations may be cited as the Veterinary Medicines and Animals and Animal Products (Examination of Residues and Maximum Residue Limits) (Amendment etc.) (EU Exit) Regulations 2019.
+
+(2) These Regulations come into force as follows—
+
+- (a) as regards this Part and Part 2, on the day after the day on which they are made;
+- (b) as regards Parts 3 and 4, on exit day.
+
+(3)[^key-85ca058a7d24d29b8f44d77e921c7183] Regulation 3 extends to Great Britain.
+
+## PART 2 — Amendment of subordinate legislation to update references to EU instruments
+
+### 2. The Veterinary Medicines Regulations 2013[^key-71d05e60f3c4d3db6ae88f2fc48693db]
+
+(1) The Veterinary Medicines Regulations 2013 [^c23672991] are amended as follows.
+
+(2) In regulation 2(2)—
+
+- (a) in the definition of “Commission Regulation [(EC) No 1234/2008](https://www.legislation.gov.uk/eur/2008/1234)”, at the end insert “ , as last amended by Regulation (EU) No 712/2012 [^c23673001] ”;
+- (b) in the appropriate place insert—
+
+  > “**Regulation [(EC) No 178/2002](https://www.legislation.gov.uk/eur/2002/178)**” means Regulation [(EC) No 178/2002](https://www.legislation.gov.uk/eur/2002/178) of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety [^c23673011];
+
+  ;
+- (c) in the appropriate place insert—
+
+  > “**Regulation [(EC) No 1831/2003](https://www.legislation.gov.uk/eur/2003/1831)**” means Regulation [(EC) No 1831/2003](https://www.legislation.gov.uk/eur/2003/1831) of the European Parliament and of the Council on additives for use in animal nutrition [^c23673021];
+
+  ;
+- (d) in the appropriate place insert—
+
+  > “**Regulation [(EC) No 882/2004](https://www.legislation.gov.uk/eur/2004/882)**” means Regulation [(EC) No 882/2004](https://www.legislation.gov.uk/eur/2004/882) of the European Parliament and the Council on official controls performed to ensure the verification of compliance with feed and food law, animal health and animal welfare rules [^c23673031];
+
+  ;
+- (e) in the appropriate place insert—
+
+  > “**Regulation [(EC) No 183/2005](https://www.legislation.gov.uk/eur/2005/183)**” means Regulation [(EC) No 183/2005](https://www.legislation.gov.uk/eur/2005/183) of the European Parliament and of the Council laying down requirements for feed hygiene [^c23673041];
+
+  ;
+- (f) in the definition of “Regulation [(EC) No 767/2009](https://www.legislation.gov.uk/eur/2009/767) of the European Parliament and of the Council”, at the end insert “ , as last amended by Regulation (EU) No 2017/2279 [^c23673051] ”.
+
+(3) In regulation 45(3)—
+
+- (a) for paragraph (a) substitute—
+
+  > - (a) Regulation [(EC) No 178/2002](https://www.legislation.gov.uk/eur/2002/178);
+
+  ;
+- (b) for paragraph (b) substitute—
+
+  > - (b) Regulation [(EC) No 1831/2003](https://www.legislation.gov.uk/eur/2003/1831);
+
+  ;
+- (c) for paragraph (c) substitute—
+
+  > - (c) Regulation [(EC) No 882/2004](https://www.legislation.gov.uk/eur/2004/882); and
+
+  ;
+- (d) for paragraph (d) substitute—
+
+  > - (d) Regulation [(EC) No 183/2005](https://www.legislation.gov.uk/eur/2005/183).
+
+  .
+
+(4) In Schedule 5—
+
+- (a) in paragraph 2(1), for the words from “Regulation (EC)” to “food safety)” substitute “ Regulation [(EC) No 178/2002](https://www.legislation.gov.uk/eur/2002/178) ”;
+- (b) in paragraph 3(1), for the words from “Regulation (EC)” to “animal nutrition)” substitute “ Regulation [(EC) No 1831/2003](https://www.legislation.gov.uk/eur/2003/1831) ”;
+- (c) in paragraph 4, for the words from “Regulation (EC)” to “welfare rules)” substitute “ Regulation [(EC) No 882/2004](https://www.legislation.gov.uk/eur/2004/882) ”;
+- (d) in paragraph 5(1), for the words from “Regulation (EC)” to “feed hygiene)” substitute “ Regulation [(EC) No 183/2005](https://www.legislation.gov.uk/eur/2005/183) ”;
+- (e) in paragraph 22(1), for the words from “Regulation (EC)” to the end substitute “ Regulation [(EC) No 152/2009](https://www.legislation.gov.uk/eur/2009/152) laying down methods of sampling and analysis for the official control of feedingstuffs. ”.
+
+## PART 3 — Amendment of subordinate legislation
+
+### 3. The Veterinary Medicines Regulations 2013[^key-1185f1813bd89032662527a487c47e4b]
+
+*Extent: E+W+S*
+
+(1) The Veterinary Medicines Regulations 2013 are amended as follows.
+
+(2) In regulation 2—
+
+- (a) in paragraph (2), omit the definitions of “the Agency” and “Commission Regulation (EU) No 37/2010”;
+- (b) omit paragraph (4).
+
+(3)[^key-3af57e4757873b29b489e5282bbd8cfb] For regulation 4(1) substitute—
+
+> (1) No person may place a veterinary medicinal product on the market unless the Secretary of State has—
+>
+> - (a) as regards a product to which Schedule 1B applies, issued a QNIG certificate in respect of that product;
+> - (b) otherwise, granted a marketing authorisation in respect of that product.
+
+.
+
+(4) In regulation 25—
+
+- (a) in paragraph (5), for “member State” substitute “ country ”;
+- (b) in paragraph (6)(a), omit “member State or a third”.
+
+(5) In regulation 26(4), for “member State”, in each place it occurs, substitute “ country ”.
+
+(6) In regulation 31—
+
+- (a) in paragraph (1), for “member State”, in each place it occurs, substitute “ country ”;
+- (b) in paragraph (2), omit “outside the European Union”;
+- (c) in paragraph (4), for “third” substitute “ importing ”.
+
+(7) In regulation 34—
+
+- (a) in paragraph (2)(a), for “EU instrument” substitute “ enactment ”;
+- (b) for paragraph (5) substitute—
+
+  > (5) An inspector may be accompanied by such other persons as the inspector considers necessary.
+
+  .
+- (c) omit paragraph (10).
+
+(8) Schedule 1 is amended in accordance with paragraphs (9) to (32).
+
+(9) After paragraph 2(2) insert—
+
+> (2A) The reference in paragraph 2(2) to Annex 1 to Directive [2001/82/EC](https://www.legislation.gov.uk/eudr/2001/82) is to be read subject to the following modifications—
+>
+> - (a) a reference to a member State is to be read as a reference to Great Britain[^key-9e1135fe6f8c6bf67814ec8a218a99c0];
+> - (b) a reference to the national pharmacopoeia of a member State is to be read as a reference to the British Pharmacopoeia[^key-5a99cb4d6dcb66b748b5bb9b27a5cdef];
+> - (c) a reference to an application for a marketing authorisation pursuant to Article 12 or 13 is to be read as a reference to an application for a marketing authorisation pursuant to this Schedule;
+> - (d) a reference to the Note for Guidance on minimising the risk of transmitting animal spongiform encephalopathy agents via veterinary medicinal products is to be read as a reference to that document as it had effect immediately before IP completion day[^key-f0255e7c41933ff566a3748619e2e023];
+> - (e) a reference to Council Directive [87/18/EEC](https://www.legislation.gov.uk/eudr/1987/18) is to be read as a reference to Directive [2004/10/EC](https://www.legislation.gov.uk/eudr/2004/10) of the European Parliament and of the Council on the harmonisation of laws, regulations and administrative provisions relating to the application of the principles of good laboratory practice and the verification of their applications for tests on chemical substances [^c23673061];
+> - (f) a reference to Annex 5 of Council Directive [67/548/EEC](https://www.legislation.gov.uk/eudr/1967/548) is to be read as a reference to Regulation [(EC) No 1272/2008](https://www.legislation.gov.uk/eur/2008/1272) of the European Parliament and of the Council on classification, labelling and packaging of substances and mixtures [^c23673071];
+> - (e) the following provisions are to be ignored—
+>   - (i) in Title 1—
+>     - (aa) in Part 1, in Chapter A, the fourth paragraph;
+>     - (bb) in Part 2, in Chapter A, paragraph 3.3;
+>   - (ii) in Title 2, in Part 5, in Chapter A, the fifth paragraph.
+
+.
+
+(10) In paragraph 2(3)—
+
+- (a) in paragraph (h), for “specified in” substitute “ established by an appropriate authority under ”;
+- (b) in paragraph (n)(i)—
+  - (i) omit “member State or in a third”;
+  - (ii) for “member States” substitute “ countries ”;
+- (c) in paragraph (n)(iii), for “, whether in the Community or a third” substitute “ in any other ”;
+- (d) in paragraph (o), for “either in the Community or in a third” substitute “ in another ”;
+- (e) for paragraph (p) substitute—
+
+  > - (p) if the veterinary medicinal product is intended for food-producing species and contains one or more pharmacologically active substances for the species in question for which a maximum residue limit has not yet been established under Regulation [(EC) No 470/2009](https://www.legislation.gov.uk/eur/2009/470) of the European Parliament and of the Council, a document certifying that a valid application for the establishment of maximum residue limits has been submitted.
+
+  .
+
+(11) In paragraph 5, omit the words from “in accordance with” to the end.
+
+(12) In paragraph 7(1), omit “in the Community”.
+
+(13) In paragraph 10—
+
+- (a) in sub-paragraph (1), for “Community” substitute “ United Kingdom ”;
+- (b) in sub-paragraph (5), before “Agency” insert “ European Medicines ”;
+- (c)[^key-7df1e4305d853bc25c5d5de1142e5687] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(14)[^key-d4e19d54d66107516e0cec3abd2a6c44] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(15) In paragraph 13—
+
+- (a) in sub-paragraph (1), for “member State”, in both places it occurs, substitute “ country ”;
+- (b) omit sub-paragraph (4);
+- (c) in sub-paragraph (5), for “Community” substitute “ United Kingdom ”.
+
+(16) In paragraph 14, omit sub-paragraph (3).
+
+(17) In paragraph 16, for the words from “by another” to “a third” substitute “ in another ”.
+
+(18) In paragraph 18, for “a member State” substitute “ the United Kingdom ”.
+
+(19) Omit paragraph 20.
+
+(20) In paragraph 23—
+
+- (a) in sub-paragraph (1)—
+  - (i) after “unless” insert “ maximum residue limits have been established under Regulation [(EC) No 470/2009](https://www.legislation.gov.uk/eur/2009/470) of the European Parliament and of the Council in respect of ”;
+  - (ii) omit the words from “appear in” to the end;
+- (b) in sub-paragraph (2), for the words from “appears in” to the end substitute “ has been classified under Article 14 of Regulation [(EC) No 470/2009](https://www.legislation.gov.uk/eur/2009/470) of the European Parliament and of the Council as prohibited for use in food producing animals. ”.
+
+(21) In paragraph 24—
+
+- (a) in sub-paragraph (2)(d), for the words from “that Regulation” to “complied with” substitute “ food safety ”;
+- (b) in sub-paragraph (3)(a), omit “Community”.
+
+(22) In paragraph 29—
+
+- (a) for sub-paragraph (1) substitute—
+
+  > (1) Before placing an immunological product on the market the holder of the marketing authorisation must notify the Secretary of State asking for written approval to do so.
+
+  ;
+- (b) in sub-paragraph (2), for “(1)(a)” substitute “ (1) ”;
+- (c) in sub-paragraph (3), omit the words from “or” to the end.
+
+(23) In paragraph 39, omit sub-paragraph (3).
+
+(24) In paragraph 41, omit sub-paragraph (3).
+
+(25) Omit Part 6.
+
+(26) In paragraph 55, omit “who resides in a member State”.
+
+(27) In paragraph 56(a), omit “at least at one point in a member State”.
+
+(28) In paragraph 58—
+
+- (a) in the heading, for “a third” substitute “ another ”;
+- (b) in sub-paragraph (1), for “a third” substitute “ another ”;
+- (c) in sub-paragraph (3), omit the words from “the competent” to the end;
+- (d) in sub-paragraph (4), omit the words from “,the competent” to “the Agency,”.
+
+(29) In paragraph 61—
+
+- (a) in sub-paragraph (1), omit the words from “the Agency” to “member State) and”;
+- (b) in sub-paragraph (2), omit the words from “but must” to the end;
+- (c) omit sub-paragraphs (3) and (4).
+
+(30) In paragraph 62, omit “or by the competent authority of any member State”.
+
+(31) In paragraph 63(3), omit the words from “or, if” to the end.
+
+(32) In paragraph 64—
+
+- (a) in sub-paragraph (1)(f), omit “in other member States”;
+- (b) in sub-paragraph (3), for the words from “that appears” to the end substitute “ for which a maximum residue limit has been established under Regulation [(EC) No 470/2009](https://www.legislation.gov.uk/eur/2009/470) of the European Parliament and of the Council. ”;
+- (c) omit sub-paragraph (4).
+
+(33) In Schedule 2—
+
+- (a) omit paragraph 6(3) to (5);
+- (b) in paragraph 11(2)—
+  - (i) for “a third” substitute “ another ”;
+  - (ii) omit “including a product manufactured in a member State”;
+  - (iii) omit “in a member State”;
+- (c) in paragraph 11(3)—
+  - (i) after “not apply” insert “ where the exporting country has demonstrated equivalent standards to those of the United Kingdom or ”;
+  - (ii) omit “by the European Union”.
+
+(34) In Schedule 4—
+
+- (a) in paragraph 1—
+  - (i) in sub-paragraph (2)(b)(ii) and (3), for “member State” substitute “ country ”;
+  - (ii) in sub-paragraph (4), for the words from “be listed” to the end substitute “ be substances for which a maximum residue limit has been established under Regulation [(EC) No 470/2009](https://www.legislation.gov.uk/eur/2009/470) of the European Parliament and of the Council ”;
+- (b) in paragraph 2—
+  - (i) in sub-paragraph (2), for the words from “specified for” to “No 37/2010” substitute “ established for the active substance under Regulation [(EC) No 470/2009](https://www.legislation.gov.uk/eur/2009/470) of the European Parliament and of the Council ”;
+  - (ii) in sub-paragraph (3), for the words from “is specified” to “No 37/2010” substitute “ has been established ”;
+- (c) in paragraph 4, omit the words from “and after” to “of use”;
+- (d) in paragraph 5—
+  - (i) for “a third” substitute “ another ”;
+  - (ii) for “the third” substitute “ that other ”;
+- (e) in paragraph 6—
+  - (i) in the heading, for “member States” substitute “ countries ”;
+  - (ii) in sub-paragraph (1)—
+    - (aa) in the words before paragraph (a), for “member State” substitute “ country with equivalent medicines regulation standards to those of the United Kingdom ”;
+    - (bb) in paragraph (b), for “member State” substitute “ country ”;
+- (f) in paragraph 7(1), for “a third” substitute “ another ”.
+
+(35) In Schedule 5—
+
+- (a) in paragraph 3(3), for “a third” substitute “ another ”;
+- (b) omit paragraph 27;
+- (c) in paragraph 28—
+  - (i) in the heading, for “member States” substitute “ countries ”;
+  - (ii) in the words before sub-paragraph (a), for “member State” substitute “ country ”;
+  - (iii) omit sub-paragraph (a) (together with the final “and”);
+- (d) in paragraph 29(1), omit “member State or third”;
+- (e) in paragraph 31, omit sub-paragraph (w).
+
+(36) In Schedule 6, in paragraph 3—
+
+- (a) renumber the existing text as sub-paragraph (1);
+- (b)[^key-3942c1bf42d4541da588d43f2b94f981] in that sub-paragraph—
+  - (i) in paragraph (a), for “the United Kingdom” substitute “Great Britain”;
+  - (ii) omit paragraphs (b) and (c);
+- (c) after that sub-paragraph insert—
+
+  > (2) Sub-paragraph (1) does not apply where the exporting country has demonstrated equivalent standards to the United Kingdom or[^key-b87a828df561c94c8a3f7145904c77d0] where appropriate arrangements have been made with the exporting country to ensure that the manufacturer of the veterinary medicinal product applies standards of good manufacturing practice at least equivalent to those laid down in Commission Directive [91/412/EEC](https://www.legislation.gov.uk/eudr/1991/412) [^c23673081].
+
+  .
+
+### 4. The Animals and Animal Products (Examination for Residues and Maximum Residue Limits) (England and Scotland) Regulations 2015[^key-24fe645762d52552144402e4a7556648]
+
+(1) The Animals and Animal Products (Examination for Residues and Maximum Residue Limits) (England and Scotland) Regulations 2015 [^c23673091] are amended as follows.
+
+(2) In regulation 2(1)—
+
+- (a) omit the definition for “Regulation 37/2010”;
+- (b) for the definition of “Table 1” (including the definition of “Table 1 substance”) substitute—
+
+  > “**Table 1 substance**” means a substance classified under Article 14(2)(a), (b) or (c) of Regulation 470/2009;
+
+  ;
+- (c) for the definition of “Table 2 substance” substitute—
+
+  > “**Table 2 substance**” means a substance classified under Article 14(2)(d) of Regulation 470/2009;
+
+  ;
+- (d) in the definition of “unauthorised substance”, for “EU legislation” substitute “ retained EU law ”;
+- (e) for the definition of “unlicensed substance” substitute—
+
+  > “**unlicensed substance**” means a substance—
+  >
+  > - (a) for which a maximum residue limit has been established under Regulation 470/2009, and
+  > - (b) which has been—
+  >   - (i) administered (or is intended for administration) in the United Kingdom to an animal or a batch of animals, or
+  >   - (ii) administered to an animal outside the United Kingdom,
+  >
+  >   where at the time of administration neither that substance, nor any product containing it, was authorised for use in that animal in that country of administration;
+
+  .
+
+(3) For regulation 2(2) substitute—
+
+> (2) For the purpose of ascertaining whether the maximum residue limit established for a pharmacologically active substance has been exceeded for the purposes of these Regulations—
+>
+> - (a) the presence of the drug or drug metabolite (or combination thereof) as specified in the marker residue for that pharmacologically active substance is to be taken to indicate the presence of that substance in that part of an animal or batch of animals, or in any animal product derived from that part of an animal or batch of animals, as specified in the target tissues for that substance;
+> - (b) the maximum residue limit (if any) corresponding to that substance is to apply in respect of the presence in such part of an animal or batch of animals, or in any animal product derived from such part of an animal or batch of animals, of any such drug or drug metabolite (or combination thereof) as if it were that substance.
+
+.
+
+(4) In regulation 2(4)—
+
+- (a) for “96/22,” substitute “ 96/22 or ”;
+- (b) omit “or Regulation 37/2010”.
+
+## PART 4 — Amendment and revocation of retained direct EU legislation
+
+### 5. Regulation [(EC) No 726/2004](https://www.legislation.gov.uk/eur/2004/726) of the European Parliament and of the Council[^key-cb9f7a90416d51697001c9d1ac5c9789]
+
+Regulation [(EC) No 726/2004](https://www.legislation.gov.uk/eur/2004/726) of the European Parliament and of the Council laying down Community procedures for the authorisation and supervision of medicinal products for human and veterinary use and establishing a European Medicines Agency is revoked insofar as it applies to medicinal products for veterinary use.
+
+### 6. Regulation [(EC) 470/2009](https://www.legislation.gov.uk/eur/2009/470) of the European Parliament and of the Council[^key-5c9a1db3ab6835737a62779a0c235685]
+
+(1) Regulation [(EC) 470/2009](https://www.legislation.gov.uk/eur/2009/470) of the European Parliament and of the Council laying down Community procedures for the establishment of residue limits of pharmacologically active substances in foodstuffs of animal origin is amended as follows.
+
+(2) In Article 1(3)—
+
+- (a) omit “Community”;
+- (b) after “for by” insert “ the retained EU law which transposed ”.
+
+(3)[^key-df50e6e83bdd8af941bfc034172aba11] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) In Article 3—
+
+- (a) for the heading substitute “ Scope ”;
+- (b) for the first paragraph substitute—
+
+  > This Regulation applies to any pharmacologically active substance intended for use in Great Britain[^key-8f00d4a65d038fb24e15d7cdcaffadd0] in veterinary medicinal products which are to be administered to food producing animals.
+
+  ;
+- (c) omit the second paragraph.
+
+(5) In Article 4—
+
+- (a) for the heading substitute “ Assessment report ”;
+- (b) for paragraph 1 substitute—
+
+  > **1.**
+  >
+  > Where an application for a new or amended maximum residue limit for a substance intended for use in a veterinary medicinal product is made under Article 8, the Secretary of State[^key-dab2dc49ef8799b2c31ec86f48ed64f1] must produce an assessment report which includes a scientific risk assessment and risk management recommendations for the purposes of establishing maximum residue limits for the substance in question.
+
+  ;
+- (c) in paragraph 2, for the second sentence substitute—
+
+  > The assessment report must take account of any relevant findings of internationally recognised scientific bodies.
+
+  ;
+- (d)[^key-32a8660c7fc098876d7239b71a2ddf35] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(6) In Article 5, for the words from “, the Agency” to the end substitute—
+
+> whilst ensuring a high level of protection of human health, the Secretary of State[^key-6fe066557c68ea4fb3de891d067b586a] must consider extrapolating maximum residue limits from one species to another or from one foodstuff to another when drafting risk management recommendations
+
+.
+
+(7) In Article 6(1), omit the words from “expressed in terms” to the end.
+
+(8) For Article 11 substitute—
+
+> **Article 11 — Review of maximum residue limit**
+>
+> Where the Secretary of State[^key-2e2f53127be511d41f69421880ba23c2] considers that a review of the maximum residue limit for a substance is necessary in order to protect human or public health and issues a notice to that effect to the Veterinary Products Committee, that Committee must review the substance in question and report its findings to the Secretary of State , together with any recommendations.
+
+.
+
+(9) In Article 12, for the words from “Agency” to “11” substitute “ Secretary of State[^key-0ea4315838a289ad23aae61ae543430a] must publish the assessment report referred to in Article 4 ”.
+
+(10) Omit Article 13.
+
+(11) Omit Article 15.
+
+(12) In Article 16—
+
+- (a) in paragraph 1, omit the words from “within the” to the end;
+- (b) for paragraph 2 substitute—
+
+  > **2.**
+  >
+  > Paragraph 1 does not apply in the case of clinical trials which are authorised under an Animal Test Certificate.
+
+  .
+
+(13) Omit Article 17.
+
+(14) In Article 18—
+
+- (a) in the first paragraph, for “Commission” substitute “ Secretary of State[^key-18eafd7b2d82d0cd1db97d274fd3678f] ”;
+- (b) in the second paragraph, for “Article 24” substitute “ relevant international decisions ”;
+- (c) omit the third paragraph.
+
+(15) In Article 19—
+
+- (a) for paragraph 1 substitute—
+
+  > The reference point for action must be set having taken into account the lowest residue concentration which can be quantified with an analytical method validated in accordance with the Annex to Commission Decision [2002/657/EC](https://www.legislation.gov.uk/eudn/2002/657). The relevant national reference laboratory must advise the appropriate authority on the performance of analytical methods.
+
+  ;
+- (b) omit paragraphs 2 and 3.
+
+(16) Omit Article 20.
+
+(17) For Article 21 substitute—
+
+> **Article 21 — Analytical methods**
+>
+> The Secretary of State[^key-32dcf3902014c7f1eed1b06d75448060] must consult relevant national reference laboratories on appropriate analytical methods for detecting residues of pharmacologically active substances for which maximum residue limits have been determined in accordance with Article 14.
+
+.
+
+(18) Omit Article 22.
+
+(19) In Article 23—
+
+- (a) in the first paragraph, in the words after point (b), for “Community legislation” substitute “ retained EU law ”;
+- (b) omit the second paragraph.
+
+(20) Omit Articles 24 to 28.
+
+(21) In Article 29, omit the first two paragraphs.
+
+(22) Omit Articles 30 to 32.
+
+(23) After Article 32, omit the words from “This Regulation” to “Member States”.
+
+### 7. Commission Regulation (EU) No 37/2010[^key-3b85dfc69c065234abcf9e7415885749]
+
+Commission Regulation (EU) No 37/2010 on pharmacologically active substances and their classification regarding maximum residue limits in foodstuffs of animal origin is revoked.
+
+### 8. Commission Implementing Regulation (EU) 2017/12[^key-fa9d52bdab60f1f8b81d0aea609ff54c]
+
+(1) Commission Implementing Regulation (EU) 2017/12 regarding the form and content of the applications and requests for the establishment of maximum residue limits in accordance with Regulation [(EC) No 470/2009](https://www.legislation.gov.uk/eur/2009/470) of the European Parliament and of the Council is amended as follows.
+
+(2) In Article 1—
+
+- (a) in paragraph 1, for “European Medicines Agency (EMA)” substitute “ the appropriate authority ”;
+- (b) after paragraph 2 insert—
+
+  > **3.**
+  >
+  > In this Regulation, “**appropriate authority**” is to be read in accordance with Article 2(4) and (5).
+
+  .
+
+(3) In Article 2—
+
+- (a) in paragraph 1, for “EMA” substitute “ the appropriate authority ”;
+- (b) in paragraph 3, for “EMA” substitute “ The appropriate authority ”;
+- (c) after paragraph 3 insert—
+
+  > **4.**
+  >
+  > In paragraph 1, “**appropriate authority**” means—
+  >
+  > - (a) in relation to England, Wales and Scotland, the Secretary of State;
+  > - (b) in relation to Northern Ireland, the Department of Agriculture, Environment and Rural Affairs.
+  >
+  > **5.**
+  >
+  > But the appropriate authority is the Secretary of State if consent is given in relation to Northern Ireland by the Department of Agriculture, Environment and Rural Affairs.
+
+  .
+
+(4) After Article 3, omit the words from “This Regulation” to “Member States”.
+
+(5) In the Annex—
+
+- (a) in paragraph 2, for “EMA” substitute “ appropriate authority ”:
+- (b) in paragraph B.3.2 of Chapter 2, for “Commission and the EMA” substitute “ appropriate authority ”.
+
+### 9. Commission Regulation (EU) 2017/880[^key-e3d9d067a507e3f14278ab3d5aea744b]
+
+(1) Commission Regulation (EU) 2017/880 laying down rules on the use of a maximum residue limit established for a pharmacologically active substance in a particular foodstuff for another foodstuff derived from the same species and a maximum residue limit established for a pharmacologically active substance in one or more species for other species, in accordance with Regulation [(EC) No 470/2009](https://www.legislation.gov.uk/eur/2009/470) of the European Parliament and of the Council is amended as follows.
+
+(2) In Article 2, after paragraph (6) insert—
+
+> (7) ‘appropriate authority’ is to be read in accordance with Article 3(2) and (3).
+
+.
+
+(3) In Article 3—
+
+- (a) renumber the existing text as paragraph 1;
+- (b) in that paragraph, for “EMA” substitute “ appropriate authority ”;
+- (c) after that paragraph insert—
+
+  > **2.**
+  >
+  > In paragraph 1, “**appropriate authority**” means—
+  >
+  > - (a) in relation to England, Wales and Scotland, the Secretary of State;
+  > - (b) in relation to Northern Ireland, the Department of Agriculture, Environment and Rural Affairs.
+  >
+  > **3.**
+  >
+  > But the appropriate authority is the Secretary of State if consent is given in relation to Northern Ireland by the Department of Agriculture, Environment and Rural Affairs.
+
+  .
+
+(4) In Articles 4 to 7 for “EMA”, in each place it occurs, substitute “ appropriate authority ”.
+
+(5) After Article 8, omit the words from “This Regulation” to “Member States”.
+
+### 10. Commission Regulation (EU) 2018/782[^key-4c6bd07cb71d508758f40b3b281dfd1b]
+
+(1) Commission Regulation (EU) 2018/782 establishing the methodological principles for the risk assessment and risk management recommendations referred to in Regulation [(EC) No 470/2009](https://www.legislation.gov.uk/eur/2009/470) is amended as follows.
+
+(2) In Article 1—
+
+- (a) for “Agency” substitute “ appropriate authority ”;
+- (b) for “preparing opinions on the” substitute “ producing an assessment report in respect of ”.
+
+(3) After Article 3, omit the words from “This Regulation” to “Member States”.
+
+(4) In Annex 1—
+
+- (a) in paragraph 1.1, for the words from “provisions related” to “Council” substitute “ the Good Laboratory Practice Regulations 1999 [^c23673101] ”;
+- (b) in paragraph 1.2, for “Directive 2010/63/EU of the European Parliament and of the Council” substitute “ the Animals (Scientific Procedures) Act 1986 [^c23673111] ”;
+- (c) in paragraph 1.7, in the second subparagraph—
+  - (i) for “European Medicines Agency (‘Agency’)” substitute “ appropriate authority ”;
+  - (ii) for “the Agency” substitute “ the appropriate authority ”;
+- (d) in paragraph 1.8, for the words from “the Agency's” to the end substitute “ guidance issued by the appropriate authority ”;
+- (e) in paragraph 2.4.2(l), omit “Agency and other”;
+- (f) in paragraph 2.4.2(m), for “Directive 2010/63/EU” substitute “ the Animals (Scientific Procedures) Act 1986 ”;
+- (g) in paragraph 2.6.1.3, for “Agency” substitute “ appropriate authority ”;
+- (h) in paragraph 3.2.2(j), omit “Agency and other”;
+- (i) in paragraph 3.2.2(k), for “Directive 2010/63/EU” substitute “ the Animals (Scientific Procedures) Act 1986 ”;
+- (j) in paragraph 3.5.5—
+  - (i) for “Agency” substitute “ appropriate authority ”;
+  - (ii) for “European Reference Laboratory” substitute “ relevant national reference laboratories ”;
+- (k) in paragraph 3.5.6—
+  - (i) for “Agency's” substitute “appropriate authority's”;
+  - (ii) omit “other EU and”;
+- (l) in paragraph 3.6.3 for “Agency's” substitute “the appropriate authority's”.
+
+(5) In Annex 2—
+
+- (a) in paragraph 2.1—
+  - (i) in the second sentence, for the words from “the Agency's” to the end substitute “ guidance issued by the appropriate authority ”;
+  - (ii) in the third sentence, omit the words from “as defined” to the end;
+- (b) in paragraph 2.7.2, in the first sentence, for “Agency” substitute “ appropriate authority ”.
+
+Gardiner of Kimble
+
+Parliamentary Under Secretary of State
+
+Department for Environment, Food and Rural Affairs
+
+*(This note is not part of the Regulations)*
+
+These Regulations are made in exercise of the powers in the European Union (Withdrawal) Act 2018 (c. 16) to address failures of retained EU law to operate effectively and other deficiencies (in particular under section 8(2)(a), (b), (c), (d) and (g) of that Act) arising from the withdrawal of the United Kingdom from the European Union. In addition, Part 2 of these Regulations updates references to EU legislation in the Veterinary Medicines Regulations 2013 (S.I. 2013/2033).
+
+Parts 3 and 4 make amendments to legislation in the fields of veterinary medicine and animals and animal products. Part 3 amends secondary legislation and Part 4 amends and revokes retained direct EU legislation.
+
+An impact assessment has not been produced for this instrument as no, or no significant, impact on the private or voluntary sector is foreseen.
+
+## Annotations
+
+[^c23672961]: Marginal citation: [1972 c.68](https://www.legislation.gov.uk/ukpga/1972/68); [section 2(2)](https://www.legislation.gov.uk/uksi/2019/676/section/2/2) was amended by the [Legislative and Regulatory Reform Act 2006 (c. 51)](https://www.legislation.gov.uk/ukpga/2006/51), [section 27(1)(a)](https://www.legislation.gov.uk/ukpga/2006/51/section/27/1/a) and the [European Union (Amendment) Act 2008 (c. 7)](https://www.legislation.gov.uk/ukpga/2008/7), the Schedule, Part 1. It is prospectively repealed by the [European Union (Withdrawal) Act 2018 (c. 16)](https://www.legislation.gov.uk/ukpga/2018/16), [section 1](https://www.legislation.gov.uk/ukpga/2018/16/section/1) from exit day (see [section 20](https://www.legislation.gov.uk/ukpga/2018/16/section/20) of that Act). The function of the former Minister of Agriculture, Fisheries and Food of making regulations under section 2(2) was transferred to the Secretary of State by [S.I. 2002/794](https://www.legislation.gov.uk/uksi/2002/794). Under section 57(1) of the [Scotland Act 1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46), despite the transfer to Scottish Ministers of functions in relation to implementing obligations under EU law in relation to devolved matters, the Secretary of State retains power to exercise such functions as regards Scotland. Under paragraph 5 of Schedule 3 to the [Government of Wales Act 2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32), despite the transfer to the Welsh Ministers of functions in relation to implementing obligations under EU law in relation to devolved matters, the Secretary of State retains power to exercise such functions as regards Wales.
+
+[^c23672971]: Marginal citation: [2018 c.16](https://www.legislation.gov.uk/ukpga/2018/16).
+
+[^c23672981]: Marginal citation: [S.I. 2008/301](https://www.legislation.gov.uk/uksi/2008/301).
+
+[^key-2a97d4f844d452675b3c274ffecfa8a3]: Commencement: Reg. 1 in force at 26.3.2019, see reg. 1(2)(a)
+
+[^key-4088eb46d4aad25ba00fddaa17234a4c]: Textual amendment: Words in reg. 1 heading substituted (31.12.2020 immediately before IP completion day) by [The Veterinary Medicines and Residues (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1461)](https://www.legislation.gov.uk/uksi/2020/1461), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/1/2/a), [3(2)(a)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/3/2/a)
+
+[^key-85ca058a7d24d29b8f44d77e921c7183]: Textual amendment: Reg. 1(3) inserted (31.12.2020 immediately before IP completion day) by [The Veterinary Medicines and Residues (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1461)](https://www.legislation.gov.uk/uksi/2020/1461), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/1/2/a), [3(2)(b)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/3/2/b)
+
+[^key-71d05e60f3c4d3db6ae88f2fc48693db]: Commencement: Reg. 2 in force at 26.3.2019, see reg. 1(2)(a)
+
+[^c23672991]: Marginal citation: [S.I. 2013/2033](https://www.legislation.gov.uk/uksi/2013/2033), amended by [S.I. 2014/599](https://www.legislation.gov.uk/uksi/2014/599), 2018/761.
+
+[^c23673001]: Marginal citation: OJ No L 209, 4.8.2012, p.4.
+
+[^c23673011]: Marginal citation: OJ No L 31, 1.2.2002, p.1, as last amended by Regulation (EU) No 2017/228 (OJ No L 35, 10.2.2017, p.10).
+
+[^c23673021]: Marginal citation: OJ No L 268, 18.10.2003, p.29, as last amended by Regulation (EU) No 2015/2294 (OJ No L 324, 10.12.2015, p.3).
+
+[^c23673031]: Marginal citation: OJ No L 165, 30.4.2004, p.1, as last amended by Regulation (EU) No 2018/455 (OJ No L 77, 20.3.2018, p.4).
+
+[^c23673041]: Marginal citation: OJ No L 35, 8.2.2005, p.1, as last amended by Regulation (EU) No 2015/1905 (OJ No L 278, 23.10.2015, p.5).
+
+[^c23673051]: Marginal citation: OJ No L 328, 12.12.2017, p.3.
+
+[^key-1185f1813bd89032662527a487c47e4b]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)(b)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2/b)
+
+[^key-3af57e4757873b29b489e5282bbd8cfb]: Textual amendment: Reg. 3(3) substituted (31.12.2020 immediately before IP completion day) by [The Veterinary Medicines and Residues (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1461)](https://www.legislation.gov.uk/uksi/2020/1461), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/1/2/a), [3(3)(a)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/3/3/a)
+
+[^key-9e1135fe6f8c6bf67814ec8a218a99c0]: Textual amendment: Words in reg. 3(9) substituted (31.12.2020 immediately before IP completion day) by [The Veterinary Medicines and Residues (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1461)](https://www.legislation.gov.uk/uksi/2020/1461), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/1/2/a), [3(3)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/3/3/b/i)
+
+[^key-5a99cb4d6dcb66b748b5bb9b27a5cdef]: Textual amendment: Words in reg. 3(9) substituted (31.12.2020 immediately before IP completion day) by [The Veterinary Medicines and Residues (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1461)](https://www.legislation.gov.uk/uksi/2020/1461), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/1/2/a), [3(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/3/3/b/ii)
+
+[^key-f0255e7c41933ff566a3748619e2e023]: Textual amendment: Words in reg. 3(9) substituted (31.12.2020 immediately before IP completion day) by [The Veterinary Medicines and Residues (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1461)](https://www.legislation.gov.uk/uksi/2020/1461), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/1/2/a), [3(3)(b)(iii)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/3/3/b/iii)
+
+[^c23673061]: Marginal citation: OJ L No 50, 20.2.2004, p.44, as last amended by Regulation (EC) No 219/2009 (OJ L No 87, 31.3.2009, p.109).
+
+[^c23673071]: Marginal citation: OJ L No 353, 31.12.2008, p.1, as corrected by Corrigendum to Regulation (EC) No 1272/2008 (OJ L No 349, 21.12.2016, p.1).
+
+[^key-7df1e4305d853bc25c5d5de1142e5687]: Textual amendment: Reg. 3(13)(c) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Veterinary Medicines and Residues (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1461)](https://www.legislation.gov.uk/uksi/2020/1461), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/1/2/a), [3(3)(c)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/3/3/c)
+
+[^key-d4e19d54d66107516e0cec3abd2a6c44]: Textual amendment: Reg. 3(14) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Veterinary Medicines and Residues (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1461)](https://www.legislation.gov.uk/uksi/2020/1461), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/1/2/a), [3(3)(d)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/3/3/c)
+
+[^key-3942c1bf42d4541da588d43f2b94f981]: Textual amendment: Reg. 3(36)(b) substituted (31.12.2020 immediately before IP completion day) by [The Veterinary Medicines and Residues (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1461)](https://www.legislation.gov.uk/uksi/2020/1461), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/1/2/a), [3(3)(e)(i)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/3/3/e/i)
+
+[^key-b87a828df561c94c8a3f7145904c77d0]: Textual amendment: Words in reg. 3(36)(c) inserted (31.12.2020 immediately before IP completion day) by [The Veterinary Medicines and Residues (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1461)](https://www.legislation.gov.uk/uksi/2020/1461), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/1/2/a), [3(3)(e)(ii)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/3/3/e/ii)
+
+[^c23673081]: Marginal citation: OJ No L 228, 17.8.1991, p.70.
+
+[^key-24fe645762d52552144402e4a7556648]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)(b)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2/b)
+
+[^c23673091]: Marginal citation: [S.I. 2015/787](https://www.legislation.gov.uk/uksi/2015/787).
+
+[^key-cb9f7a90416d51697001c9d1ac5c9789]: Commencement: Reg. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)(b)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2/b)
+
+[^key-5c9a1db3ab6835737a62779a0c235685]: Commencement: Reg. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)(b)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2/b)
+
+[^key-df50e6e83bdd8af941bfc034172aba11]: Textual amendment: Reg. 6(3) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Veterinary Medicines and Residues (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1461)](https://www.legislation.gov.uk/uksi/2020/1461), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/1/2/a), [3(4)(a)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/3/4/a)
+
+[^key-8f00d4a65d038fb24e15d7cdcaffadd0]: Textual amendment: Words in reg. 6(4)(b) substituted (31.12.2020 immediately before IP completion day) by [The Veterinary Medicines and Residues (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1461)](https://www.legislation.gov.uk/uksi/2020/1461), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/1/2/a), [3(4)(b)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/3/4/b)
+
+[^key-dab2dc49ef8799b2c31ec86f48ed64f1]: Textual amendment: Words in reg. 6(5)(b) substituted (31.12.2020 immediately before IP completion day) by [The Veterinary Medicines and Residues (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1461)](https://www.legislation.gov.uk/uksi/2020/1461), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/1/2/a), [3(4)(c)(i)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/3/4/c/i)
+
+[^key-32a8660c7fc098876d7239b71a2ddf35]: Textual amendment: Reg. 6(5)(d) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Veterinary Medicines and Residues (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1461)](https://www.legislation.gov.uk/uksi/2020/1461), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/1/2/a), [3(4)(c)(ii)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/3/4/c/ii)
+
+[^key-6fe066557c68ea4fb3de891d067b586a]: Textual amendment: Words in reg. 6(6) substituted (31.12.2020 immediately before IP completion day) by [The Veterinary Medicines and Residues (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1461)](https://www.legislation.gov.uk/uksi/2020/1461), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/1/2/a), [3(4)(d)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/3/4/d)
+
+[^key-2e2f53127be511d41f69421880ba23c2]: Textual amendment: Words in reg. 6(8) substituted (31.12.2020 immediately before IP completion day) by [The Veterinary Medicines and Residues (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1461)](https://www.legislation.gov.uk/uksi/2020/1461), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/1/2/a), [3(4)(e)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/3/4/e)
+
+[^key-0ea4315838a289ad23aae61ae543430a]: Textual amendment: Words in reg. 6(9) substituted (31.12.2020 immediately before IP completion day) by [The Veterinary Medicines and Residues (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1461)](https://www.legislation.gov.uk/uksi/2020/1461), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/1/2/a), [3(4)(f)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/3/4/f)
+
+[^key-18eafd7b2d82d0cd1db97d274fd3678f]: Textual amendment: Words in reg. 6(14)(a) substituted (31.12.2020 immediately before IP completion day) by [The Veterinary Medicines and Residues (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1461)](https://www.legislation.gov.uk/uksi/2020/1461), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/1/2/a), [3(4)(g)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/3/4/g)
+
+[^key-32dcf3902014c7f1eed1b06d75448060]: Textual amendment: Words in reg. 6(17) substituted (31.12.2020 immediately before IP completion day) by [The Veterinary Medicines and Residues (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1461)](https://www.legislation.gov.uk/uksi/2020/1461), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/1/2/a), [3(4)(h)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/3/4/h)
+
+[^key-3b85dfc69c065234abcf9e7415885749]: Commencement: Reg. 7 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)(b)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2/b)
+
+[^key-fa9d52bdab60f1f8b81d0aea609ff54c]: Commencement: Reg. 8 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)(b)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2/b)
+
+[^key-e3d9d067a507e3f14278ab3d5aea744b]: Commencement: Reg. 9 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)(b)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2/b)
+
+[^key-4c6bd07cb71d508758f40b3b281dfd1b]: Commencement: Reg. 10 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)(b)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2/b)
+
+[^c23673101]: Marginal citation: [S.I. 1999/3106](https://www.legislation.gov.uk/uksi/1999/3106), amended by [S.I. 2004/994](https://www.legislation.gov.uk/uksi/2004/994), 2005/2114, 2011/1043, 2018/378.
+
+[^c23673111]: Marginal citation: [1986 c.14](https://www.legislation.gov.uk/ukpga/1986/14).

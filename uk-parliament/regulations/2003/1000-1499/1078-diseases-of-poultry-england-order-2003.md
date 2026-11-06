@@ -1,0 +1,421 @@
+---
+title: Diseases of Poultry (England) Order 2003
+id: uksi/2003/1078
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2003-04-09'
+text_date: '2021-04-21'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/uksi/2003/1078
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2003/1078/pdfs/uksi_20031078_en.pdf
+- http://www.legislation.gov.uk/uksi/2003/1078/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Diseases of Poultry (England) Order 2003
+
+> Text as at 2021-04-21.
+>
+> Extent: England, Wales, Scotland.
+
+*Extent: E+W+S*
+
+2003 No. 1078
+
+ANIMALS, ENGLAND
+
+ANIMAL HEALTH
+
+Diseases of Poultry (England) Order 2003
+
+Made
+
+9th April 2003
+
+Coming into force
+
+30th April 2003
+
+The Secretary of State for Environment, Food and Rural Affairs, in exercise of her powers under sections 1, 7, 8(1), 15(5), 17(1), 23, 25, 28, 35(1), 83(2), 87(5)(a) and 88(4) of the Animal Health Act 1981[^f00001] makes the following Order:
+
+## 1. Title, commencement and extent
+
+(1) This Order may be cited as the Diseases of Poultry (England) Order 2003 and shall come into force on 30th April 2003.
+
+(2) This Order applies to England only.
+
+## 2. Extension of definition of “poultry” and “disease”
+
+(1) The definition of “poultry” in section 87(4) of the Animal Health Act 1981 is extended to include all birds.
+
+(2) The definition of “disease” in section 88(3) of the Act is extended to include all diseases of birds.
+
+## 3. Interpretation
+
+(1) In this Order—
+
+- “bird” includes poultry, unless the context otherwise requires;
+- “carcase” means the carcase of poultry or of any bird other than poultry, as the context requires, and includes part of a carcase;
+- “Chief Veterinary Officer” means the Chief Veterinary Officer of the Department for Environment, Food and Rural Affairs;
+- “Council[^key-a8349baaebd003f0af891895c6db9972] [Directive 2005/94/EC](https://www.legislation.gov.uk/eudr/2005/0094)” means Council [Directive 2005/94/EC](https://www.legislation.gov.uk/eudr/2005/0094) on Community measures for the control of avian influenza;
+- “designated disease” means paramyxovirus 1 in pigeons, avian influenza and Newcastle disease;
+- “disinfect” means disinfect with a disinfectant approved under the Diseases of Animals (Approved Disinfectants) (England) Order 2007[^key-3bbe1024aa6d2b1fc9f33eed9e8fa666] for the purposes of this Order;
+- [^key-94bea73d9e9065ca1416beb1149cfbad]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- “poultry” means domestic fowls, turkeys, geese, ducks, guinea fowls, quails, pigeons, ratites and pheasants and partridges reared or kept in captivity for breeding, the production of meat or eggs for consumption or for restocking supplies of game;
+- “premises” includes any place; and
+- “racing pigeon” means any pigeon transported or intended for transport from its pigeon house (any installation used for keeping or breeding racing pigeons) to be released so that it may freely fly back to its pigeon house or to any other destination.
+
+(2) Any notice or licence served or issued under this Order or under a declaration[^key-da7c2fa03cc2d703cb299286e4591a56] made under article 10 below shall be in writing, may be general or specific, may be the subject of conditions and may be amended, suspended or revoked by notice in writing at any time.
+
+## 3A. Notification procedure where an infection with Avian Mycoplasmosis is suspected[^key-f83c0174455b3b3a5cd6345a3e6c1361]
+
+(1) A person who—
+
+- (a) analyses a sample from a bird or bird carcase, and
+- (b) knows or reasonably suspects that the bird or carcase is infected with Avian Mycoplasmosis (infection with *Mycoplasma gallisepticum or M. meleagridis*),
+
+must give notice of that knowledge or suspicion to the Secretary of State as soon as practicable.
+
+(2) This article applies only in relation to domestic fowl and turkeys.
+
+## 3B. Notification procedure where an infection with Avian Chlamydiosis is suspected
+
+(1) A person who—
+
+- (a) analyses a sample from a bird or bird carcase, and
+- (b) knows or reasonably suspects that the bird or carcase is infected with Avian Chlamydiosis,
+
+must give notice of this knowledge or suspicion to the Secretary of State as soon as practicable.
+
+(2) This article applies only in relation to birds of the *psittacines* order.
+
+## 4. Notification procedures and precautions to be taken where the presence of a designated disease is suspected
+
+(1) A person who has in his possession or under his charge any bird or carcase having, or suspected of having, a designated disease shall—
+
+- (a) immediately inform the Secretary of State[^key-ab448a3d9c064b2097abf50adbbeced7], and
+- (b) take all reasonable steps to ensure that the restrictions and requirements set out in Part I of Schedule 1 to this Order are complied with.
+
+(2) A person who examines or inspects any bird or carcase or who analyses any sample taken from any bird or carcase, and who suspects the presence of a designated disease in the bird, carcase or sample shall immediately inform the Secretary of State[^key-50bceb0d0b3b968d0d6a95f937675a3f].
+
+## 5. Restrictions where a designated disease is suspected
+
+If an inspector has reasonable grounds for suspecting that a designated disease exists or has existed on any premises (whether or not notification has been made under article 4), he shall serve a notice on the occupier or person in charge of the premises requiring him to comply with the restrictions and requirements contained in Part I of Schedule 1 to this Order.
+
+## 6. Veterinary inquiry as to the existence of a designated disease
+
+(1) In order to ascertain whether or not a designated disease exists or has existed on any premises, a veterinary inspector shall—
+
+- (a) enter the premises and carry out such inquiries, examinations and tests and take such samples (including live birds and carcases), as are necessary to ascertain whether disease exists or has existed there and, in particular, to establish—
+  - (i) the length of time the disease has existed on the premises,
+  - (ii) the possible origin of the disease on the premises,
+  - (iii) which premises may have been exposed to contamination by the disease from the premises under enquiry, and
+  - (iv) the extent to which a disease has been carried to or from the premises under enquiry; and may
+- (b) mark, or cause to be marked, for identification purposes any bird, carcase or other thing in relation to which any of the powers under (a) above have been exercised.
+
+(2) Collection of samples and laboratory testing shall be carried out (in relation to avian influenza) in accordance with Article 50 of Council[^key-e0597ab0c27e2a53f7c202662743db1c] [Directive 2005/94/EC](https://www.legislation.gov.uk/eudr/2005/0094) and (in relation to Newcastle disease and paramyxovirus in pigeons), with Annex III of Council Directive [92/66/EEC](https://www.legislation.gov.uk/eudr/1992/66).
+
+(3) The occupier or person in charge of the premises or any person in his employment shall provide such reasonable assistance to a veterinary inspector as he may require for the exercise of his powers under paragraphs (1) and (2) above.
+
+## 7. Restrictions where birds are suspected of having been exposed to the risk of a designated or other disease
+
+(1) If a veterinary inspector suspects that poultry on any premises may have been exposed to the risk of a designated disease, he shall serve a notice on the occupier or person in charge of the premises in accordance with this article.
+
+(2) A veterinary inspector may serve a notice on the occupier or person in charge of any premises in accordance with this article—
+
+- (a) if he suspects that poultry on those premises may have been exposed to the risk of any other disease, or
+- (b) if he suspects that any bird on those premises may have been exposed to the risk of any disease (including a designated disease).
+
+(3) In this article, exposure to the risk of a designated disease or to another disease means exposure, either directly or indirectly, as a result of the movement of persons, animals or vehicles or in any other way.
+
+(4) On service of a notice under this article, a veterinary inspector may enter premises which are the subject of such notice and may—
+
+- (a) take such measures as he considers necessary to establish whether there are reasonable grounds for suspicion of disease, including inspecting records, carrying out inquiries, examinations and tests and taking samples (including live birds and carcases); and
+- (b) count the birds and monitor their movements.
+
+(5) On service of a notice under this article, no person shall move any bird or any thing liable to transmit disease from the premises except under the authority of a licence granted by a veterinary inspector.
+
+(6) A veterinary inspector may limit the measures provided for in this article to a part of the premises and to the birds contained there, provided that the birds there have been housed, kept and fed completely separately by separate staff.
+
+## 8. Measures where a designated disease is confirmed
+
+(1) Upon confirmation by the Chief Veterinary Officer or by a person authorised by him of the presence of a designated disease on premises, a veterinary inspector—
+
+- (a) in the case of poultry shall, and
+- (b) in the case of other captive birds or racing pigeons, may
+
+by notice served on the occupier or person in charge of the premises, impose, in addition to the restrictions and requirements contained in Part I of Schedule 1 to this Order, the restrictions and requirements contained in Part II of Schedule 1.
+
+(2) A veterinary inspector may also serve such a notice on the occupier or person in charge of suspect premises.
+
+(3) In this article, suspect premises means premises containing poultry, other captive birds or racing pigeons which may, in the opinion of the veterinary inspector, have been exposed to the risk of a designated disease because of the location or configuration of those premises or their contact with premises (in England or elsewhere) where the presence of a designated disease has been confirmed.
+
+## 9. Duties of occupiers and persons in charge of premises served with notices
+
+(1) A person served with a notice under this Order shall—
+
+- (a) ensure that the notice is complied with unless he is authorised to do otherwise by a licence issued by a veterinary inspector; and
+- (b) provide such reasonable assistance as the veterinary inspector may require for the purpose of exercising his powers under articles 5, 7 and 8.
+
+(2) If any person fails to comply with any restriction or requirement imposed by a notice served under this Order, an inspector or other officer of the Secretary of State or an inspector of the local authority may—
+
+- (a) seize or cause to be seized anything which has been moved in contravention of the notice and detain it at such place as he shall consider appropriate until the notice is withdrawn; or
+- (b) take such other action as may be necessary so as to ensure that any restriction or requirement imposed by the notice is complied with or carried out.
+
+(3) Any action taken under paragraph (2) shall be without prejudice to any proceedings for an offence arising out of contravention of a notice served under this Order.
+
+(4) A person failing to comply with a notice served under this Order shall be liable for any costs incurred under paragraph (2) above.
+
+## 10. Declaration of infected area
+
+(1) Upon confirmation by the Chief Veterinary Officer or by a person authorised by him of the presence in any area in England or elsewhere of a designated disease in poultry, the Secretary of State shall [^key-7912ff3bfc8364a97326be7926a1b905]... declare the part of that area which is in England to be an infected area.
+
+(2) Upon the presence in any area in England or elsewhere of a designated disease in captive birds other than poultry or in racing pigeons being confirmed by the Chief Veterinary Officer or by a person authorised by him and upon the Secretary of State being satisfied that the presence of that disease in such birds constitutes a serious risk to poultry, the Secretary of State may [^key-26cbeccfedbddce07e1daaa888f3d7cc]... declare the part of that area which is in England to be an infected area.
+
+(3) An area shall remain an infected area until such date as may be stated in the declaration[^key-fcf4f77c466c3494bc3379bf407b131d], or, if none, until the declaration is revoked.
+
+(4) Any premises which are partly inside and partly outside an infected area shall be deemed to be wholly inside that area.
+
+(5) A declaration[^key-4880b38754b0475c41a7006d4288092f] may apply to all birds or to designated species.
+
+(6) A declaration[^key-fde79340fcfaafb9ab020cdaf7fddb58] shall provide for the division of the infected area into protection and surveillance zones, the protection zone being based on a minimum radius of three kilometres, itself contained in a surveillance zone based on a minimum radius of ten kilometres, based on the centre of premises where disease has been confirmed, or such lesser radia as the Secretary of State may declare.
+
+(7) The provisions of Schedule 2 shall apply in an area declared an infected area except to the extent that they are varied or excepted by the declaration[^key-9d4c78e225163ed6f311fc0badd4207f] or to the extent that anything which would otherwise be a breach of this Order is authorised by a licence issued by a veterinary inspector.
+
+## 11. Vaccination areas
+
+Upon an Order being made under article 10(1) above, the Secretary of State may, by notice published in such manner as she thinks fit, require the vaccination of any species of poultry against a designated disease in such territorial area and for such period as she thinks fit and it shall be the duty of every owner and every person in charge of poultry in that area to comply with that notice.
+
+## 12. Racing pigeons
+
+(1) An organiser of a show or race which takes place wholly or partly in England shall ensure that all racing pigeons entered for the race or show have been vaccinated against paramyxovirus 1 in pigeons.
+
+(2) Every person who owns or keeps racing pigeons shall keep a record of every race or show for which he enters his pigeons.
+
+## 13. Disinfection
+
+(1) The person in charge of premises on which poultry or racing pigeons are or have been exposed for sale or exhibited shall thoroughly cleanse and disinfect those premises, their fittings and any receptacle used for the exposure or exhibition of such birds as soon as practicable after use and in any event before they are used again.
+
+(2) An inspector may, by notice in writing served on the person in charge of any premises or vehicle on or in which any birds are or have been, require the person on whom the notice is served to cleanse and disinfect the premises or vehicle and any fittings or receptacle in such manner as he requires and prohibit the movement into the premises or vehicle of birds until the cleansing and disinfection has been completed to the satisfaction of the inspector.
+
+(3) Without prejudice to the bringing of proceedings under the Animal Health Act 1981, where a notice under this article is not complied with, any person authorised by the Secretary of State or the local authority may enter the premises or vehicle to which the notice relates and carry out the work of cleansing and disinfection required and the cost of such work shall be recoverable from the person on whom the notice was served.
+
+(4) For the purposes of this Order “cleansing” includes the disposal of all litter, droppings and other matter in a manner which does not present a risk of the spread of disease.
+
+## 14. Records
+
+(1) Every person who owns or keeps any flock of poultry consisting of at least 250 birds of any species on premises shall keep a record in respect of poultry entering or leaving those premises.
+
+(2) Every person who is engaged in the transport or marketing of any poultry or eggs (including any slaughterer or auctioneer) shall keep a record in respect of all poultry and eggs transported or marketed by him.
+
+(3) The record referred to in paragraphs (1) and (2) above shall include in respect of the relevant class of poultry and their eggs—
+
+- (a) the date and place they were obtained;
+- (b) their species and description;
+- (c) the name and address of the person from whom they were obtained;
+- (d) the date they left the premises;
+- (e) their destination on leaving the premises (if known);
+- (f) the purpose for which they left the premises; and
+- (g) the name and address of the person to whom they were transferred.
+
+(4) A person who is required by this Order to keep a record shall retain it for at least twelve months from the date of the recorded transportation or marketing.
+
+(5) A person who keeps any record required under this article shall at all reasonable times produce it on demand to an inspector and shall provide him with copies if so required.
+
+(6) If a person keeps the record in electronic form, he shall provide printed copies of the record or parts of the record as an inspector requires.
+
+## 15. Licences
+
+A person moving anything under the authority of a licence issued under this Order shall—
+
+- (a) keep the licence with him at all times during the licensed movement;
+- (b) on demand made by an inspector or other officer of the Secretary of State or by an inspector of local authority, produce the licence and allow a copy or extract to be taken, and
+- (c) on such demand, furnish his name and address.
+
+## 16. General powers of inspectors
+
+A veterinary inspector who enters any premises under this Order may take with him for any purpose relating to the execution and enforcement of this Order such persons and such things as he considers necessary.
+
+## 17. Enforcement
+
+The provisions of this Order shall be executed and enforced by the local authority.
+
+## 18. Revocations and amendments
+
+The Diseases of Poultry Order 1994[^f00003] and the Diseases of Poultry (Amendment) Order 1997[^f00004] are revoked insofar as they apply to England.
+
+Elliot Morley
+
+Parliamentary Under Secretary of State,
+
+Department for Environment, Food and Rural Affairs
+
+## SCHEDULE 1 — REQUIREMENTS RELATING TO PREMISES WHERE A DESIGNATED DISEASE IS SUSPECTED OR CONFIRMED
+
+Articles 4, 5 and 8
+
+### PART I — PREMISES ON WHICH A DESIGNATED DISEASE IS SUSPECTED
+
+#### 1. Record of Poultry
+
+The occupier of the premises shall make and maintain an up to date record of the poultry on the premises showing in respect of each category the number of poultry which have died, which show clinical signs of disease and which show no signs. The record shall be produced to a veterinary inspector on demand.
+
+#### 2. Isolation of poultry
+
+The occupier of the premises shall ensure that any poultry or birds kept in captivity on the premises are kept in their living quarters or some other place where they can be isolated. Pigeons shall be isolated in their pigeon house until restrictions have been removed.
+
+#### 3. Prohibition on movement of poultry to or from premises
+
+No person shall move any poultry to or from the premises.
+
+#### 4. Prohibition on movement of persons, animals and vehicles to or from the premises
+
+No person shall move to or from the premises and no person shall move any animal or vehicle to or from the premises.
+
+#### 5. Prohibition on removal or spreading of things liable to transmit disease
+
+No person shall remove from the premises or spread in the premises any used poultry litter or poultry manure or anything liable to transmit disease.
+
+#### 6. Restriction on removal of eggs
+
+No person shall move any eggs from premises except in accordance with the provisions of Article 7(2)(f) of, and Annex 3 to, Council[^key-6fe82dafe234dd36c4c05cedba5e70d1] [Directive 2005/94/EC](https://www.legislation.gov.uk/eudr/2005/0094) or article 4.2(e) of and Annex I to Council Directive [92/66/EEC](https://www.legislation.gov.uk/eudr/1992/66) as the case may be.
+
+#### 7. Disinfection at entrances and exits
+
+The occupier of the premises shall provide and maintain an appropriate means of disinfection at the entrances and exits of the buildings housing poultry and of the premises[^f00005].
+
+### PART II — PREMISES ON WHICH A DESIGNATED DISEASE IS CONFIRMED
+
+#### 8. Slaughter and destruction
+
+The occupier of the premises shall give all reasonable assistance to a veterinary inspector so as to ensure that poultry and such other birds on those premises as the veterinary inspector may require are killed there without delay and that carcases and eggs are destroyed in such a way as will minimise the risk of spreading disease, in accordance with directions given by a veterinary inspector.
+
+#### 9. Destruction or treatment
+
+The occupier of the premises shall ensure that all other material which may be contaminated is destroyed or treated in such a way as to destroy the disease, in accordance with directions given by a veterinary inspector.
+
+#### 10. Tracing
+
+The occupier of the premises shall give all reasonable assistance to a veterinary inspector so as to ensure that—
+
+- (a) meat of all poultry slaughtered during the presumed incubation period;
+- (b) eggs laid during the presumed incubation period; and
+- (c) meat and eggs which are otherwise likely to be contaminated with the disease virus,
+
+are traced and destroyed, except that table eggs need not be destroyed if they have previously been disinfected.
+
+#### 11. Disinfection and restocking
+
+The buildings used for housing poultry, their surroundings, the vehicles used for transport and all equipment likely to be contaminated shall, under the supervision of an inspector, be subject to preliminary and final cleaning and disinfecting in accordance with Annex 6 to Council[^key-b62fc716fd20cfaabd9b484199a1761f] [Directive 2005/94/EC](https://www.legislation.gov.uk/eudr/2005/0094) or Annex II of Council Directive [92/66/EEC](https://www.legislation.gov.uk/eudr/1992/66) as the case may be and to the satisfaction of a veterinary inspector. The occupier of the premises shall not restock the premises until at least 21 days after completion of the cleaning and disinfection[^f00006].
+
+## SCHEDULE 2 — INFECTED AREAS: PROTECTION AND SURVEILLANCE ZONES
+
+Article 10
+
+### 1. Protection Zones
+
+The following shall apply within the protection zone and shall continue to apply for a period of at least 21 days after the preliminary cleansing and disinfection of the infected premises required by paragraph 11 of Schedule 1 to this Order and thereafter until the Secretary of State declares the protection zone to have become part of the surveillance zone.
+
+**2.** The occupier of premises containing poultry shall ensure that—
+
+- (a) any inspector who requires information as to the presence of poultry on those premises is supplied with such information as soon as practicable;
+- (b) any veterinary inspector who visits the premises to examine the poultry and take samples is given all necessary assistance and information;
+- (c) the poultry are kept in their living quarters or such other place where they can be isolated;
+- (d) there is an appropriate means of disinfection at the entrance and exits of the premises;
+- (e) poultry and hatching eggs are not moved from the premises except under a licence issued by a veterinary inspector—
+  - (i) for the purpose of transport for immediate slaughter to a designated slaughterhouse, or
+  - (ii) in the case of day old chicks or ready-to-lay pullets, to premises within the surveillance zone on which there are no other poultry, or
+  - (iii) in the case of hatching eggs to a designated hatchery, subject to the eggs and their packing being disinfected before dispatch; and
+- (f) used litter and poultry manure are not removed or spread.
+
+**3.** No person shall move any poultry, eggs or carcases within the zone, except that poultry may be transported without stopping through the zone on a major highway or railway.
+
+**4.** No person shall hold any fair, market, show or other gathering of poultry or other birds.
+
+### 5. Surveillance Zone
+
+The following shall apply within the surveillance zone and shall continue to apply for a period of at least 30 days after the preliminary cleansing and disinfection of the infected premises required by paragraph 11 of Schedule 1 to this Order and thereafter until the Secretary of State declares the restrictions to be lifted.
+
+**6.** The occupier of premises shall ensure that—
+
+- (a) any inspector who requires information as to presence of poultry on those premises is supplied with such information as soon as practicable;
+- (b) poultry are not moved from the premises out of the zone except under a licence issued by a veterinary inspector for the purpose of transport direct to a designated slaughterhouse outside the surveillance zone;
+- (c) hatching eggs are not moved from the premises out of the zone except under a licence issued by a veterinary inspector for the purpose of transport direct to a designated hatchery and subject to the eggs and their packing being disinfected before dispatch; and
+- (d) used litter and poultry manure are not moved out of the zone.
+
+**7.** No person shall move any poultry or hatching eggs into or within the zone except that poultry may be transported without stopping through the zone on a major highway or railway.
+
+**8.** No person shall hold any fair, market, show or other gathering of poultry or other birds.
+
+### 9. Cleansing and disinfection of vehicles used for the conveyance of poultry
+
+(1) The owner of any vehicle used for the conveyance of poultry, poultry carcases, poultry offal, poultry feathers or eggs originating in an infected area, before it is so used, as soon as practicable after each time it is so used and in any event before it is so used again, shall effectively clean and disinfect it.
+
+(2) If any person fails to comply with paragraph (1) above, an officer of the local authority may, without prejudice to any proceedings arising out of such failure, carry out or cause to be carried out the cleansing and disinfection and the person failing to carry out the operations shall be liable for any costs incurred.
+
+(This note is not part of the Regulations)
+
+**1.** This Order (read with the Animal Health Act [1981 (c. 22](https://www.legislation.gov.uk/ukpga/1981/22), amended by the Animal Health Act [2002 c. 42)](https://www.legislation.gov.uk/ukpga/2002/42) further implements Council Directive [92/40/EEC](https://www.legislation.gov.uk/eudr/1992/40) introducing Community measures for the control of avian influenza (O.J. L167, 22/6/1992, p. 1) and Council Directive [92/66/EEC](https://www.legislation.gov.uk/eudr/1992/66) introducing Community measures for the control of Newcastle disease (O.J. L260, 5/9/1992, p. 1) (“the Directives”). The Directives were previously implemented by the Diseases of Poultry Order 1994 (S.I. [1994/3141](https://www.legislation.gov.uk/uksi/1994/3141)) (“the 1994 Order”) and the Diseases of Poultry (Amendment) Order 1997 (S.I. [1997/150](https://www.legislation.gov.uk/uksi/1997/150)), both revoked by this Order. This Order, like the Directives, now applies to ratites.
+
+**2.** This Order also extends provisions in article 5A of the 1994 Order (relating to surveillance powers and movement restrictions) to diseases of birds and to species of birds not covered by the Directives. These provisions are set out in article 7 of this Order.
+
+**3.** Articles 1 to 3 of the Order contain introductory and interpretation provisions.
+
+**4.** Article 4 provides for the notification of certain diseases and for the taking of precautionary measures when disease is suspected. Article 5 sets out restrictions which may apply if any disease is suspected or known to exist. Article 6 provides for veterinary inquiry into the existence of disease. Article 7 sets out restrictions which apply where poultry or other birds are suspected of having been exposed to the risk of disease. Article 8 sets out restrictions which apply where disease is confirmed. Restrictions referred to in articles 4, 5 and 8 are set out in Schedule 1.
+
+**5.** Article 9 sets out the duties of occupiers and persons in charge of premises served with a notice under the Order.
+
+**6.** Article 10 provides for the declaration by the Secretary of State of an infected area where disease has been confirmed. Restrictions applicable in an infected area are set out in Schedule 2.
+
+**7.** Article 11 allows the Secretary of State to require vaccination of poultry. Article 12 sets out restrictions applicable to racing pigeons. Article 13 contains provisions on cleansing and disinfection. Article 14 relates to the keeping of records and article 15 to licences. Article 16 sets out the general powers of veterinary inspectors under the Order. Article 17 provides for the Order to be enforced generally by local authorities. Article 18 revokes the Diseases of Poultry Order 1994 and the Diseases of Poultry (Amendment) Order 1997 insofar as they apply to England.
+
+**8.** Failure to comply with this Order is an offence under section 73 of the Animal Health Act 1981.
+
+## Annotations
+
+[^f00001]: Footnote: [1981 c. 22](https://www.legislation.gov.uk/ukpga/1981/22), amended by the Animal Health Act [2002 c. 42](https://www.legislation.gov.uk/ukpga/2002/42). These powers were previously exercised by the Minister of Agriculture, Fisheries and Food (see section 86(1)). Functions were transferred to the Secretary of State by S.I. [1999/3141](https://www.legislation.gov.uk/uksi/1999/3141) and [2002/794](https://www.legislation.gov.uk/uksi/2002/794). Functions exercisable by the Secretaries of State for Scotland and Wales in relation to England were transferred to the Minister by S.I. [1999/3141](https://www.legislation.gov.uk/uksi/1999/3141) and were then transferred to the Secretary of State by S.I. [2992/794](https://www.legislation.gov.uk/uksi/2992/794).
+
+[^key-a8349baaebd003f0af891895c6db9972]: Textual amendment: Words in art. 3(1) inserted (1.6.2018) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments) (England) Regulations 2018 (S.I. 2018/575)](https://www.legislation.gov.uk/uksi/2018/575), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/575/article/1/2), [32(2)(a)](https://www.legislation.gov.uk/uksi/2018/575/regulation/32/2/a)
+
+[^key-3bbe1024aa6d2b1fc9f33eed9e8fa666]: Textual amendment: Words in art. 3(1) substituted (1.6.2018) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments) (England) Regulations 2018 (S.I. 2018/575)](https://www.legislation.gov.uk/uksi/2018/575), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/575/article/1/2), [32(2)(b)](https://www.legislation.gov.uk/uksi/2018/575/regulation/32/2/b)
+
+[^key-94bea73d9e9065ca1416beb1149cfbad]: Textual amendment: Words in art. 3(1) revoked (1.11.2009) by [The Animal Health (Divisional Veterinary Managers) Order 2009 (S.I. 2009/2713)](https://www.legislation.gov.uk/uksi/2009/2713), [arts. 1](https://www.legislation.gov.uk/uksi/2009/2713/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2009/2713/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2009/2713/schedule/2)
+
+[^key-da7c2fa03cc2d703cb299286e4591a56]: Textual amendment: Word in art. 3(2) substituted (21.4.2021) by [The Specified Diseases (Notification and Control) (Amendment, etc.) (England) Order 2021 (S.I. 2021/443)](https://www.legislation.gov.uk/uksi/2021/443), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/443/article/1/1), [5(2)](https://www.legislation.gov.uk/uksi/2021/443/article/5/2)
+
+[^key-f83c0174455b3b3a5cd6345a3e6c1361]: Textual amendment: [Arts. 3A](https://www.legislation.gov.uk/uksi/2003/1078/article/3A), [3B](https://www.legislation.gov.uk/uksi/2003/1078/article/3B) inserted (21.4.2021) by [The Specified Diseases (Notification and Control) (Amendment, etc.) (England) Order 2021 (S.I. 2021/443)](https://www.legislation.gov.uk/uksi/2021/443), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/443/article/1/1), [5(3)](https://www.legislation.gov.uk/uksi/2021/443/article/5/3)
+
+[^key-ab448a3d9c064b2097abf50adbbeced7]: Textual amendment: Words in art. 4(1)(a) substituted (1.11.2009) by [The Animal Health (Divisional Veterinary Managers) Order 2009 (S.I. 2009/2713)](https://www.legislation.gov.uk/uksi/2009/2713), [arts. 1](https://www.legislation.gov.uk/uksi/2009/2713/article/1), [2(1)](https://www.legislation.gov.uk/uksi/2009/2713/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2009/2713/schedule/1)
+
+[^key-50bceb0d0b3b968d0d6a95f937675a3f]: Textual amendment: Words in art. 4(2) substituted (1.11.2009) by [The Animal Health (Divisional Veterinary Managers) Order 2009 (S.I. 2009/2713)](https://www.legislation.gov.uk/uksi/2009/2713), [arts. 1](https://www.legislation.gov.uk/uksi/2009/2713/article/1), [2(1)](https://www.legislation.gov.uk/uksi/2009/2713/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2009/2713/schedule/1)
+
+[^key-e0597ab0c27e2a53f7c202662743db1c]: Textual amendment: Words in art. 6(2) substituted (1.6.2018) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments) (England) Regulations 2018 (S.I. 2018/575)](https://www.legislation.gov.uk/uksi/2018/575), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/575/article/1/2), [32(3)](https://www.legislation.gov.uk/uksi/2018/575/regulation/32/3)
+
+[^key-7912ff3bfc8364a97326be7926a1b905]: Textual amendment: Words in art. 10(1) omitted (21.4.2021) by virtue of [The Specified Diseases (Notification and Control) (Amendment, etc.) (England) Order 2021 (S.I. 2021/443)](https://www.legislation.gov.uk/uksi/2021/443), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/443/article/1/1), [5(4)(a)](https://www.legislation.gov.uk/uksi/2021/443/article/5/4/a)
+
+[^key-26cbeccfedbddce07e1daaa888f3d7cc]: Textual amendment: Words in art. 10(2) omitted (21.4.2021) by virtue of [The Specified Diseases (Notification and Control) (Amendment, etc.) (England) Order 2021 (S.I. 2021/443)](https://www.legislation.gov.uk/uksi/2021/443), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/443/article/1/1), [5(4)(a)](https://www.legislation.gov.uk/uksi/2021/443/article/5/4/a)
+
+[^key-fcf4f77c466c3494bc3379bf407b131d]: Textual amendment: Word in art. 10(3) substituted (21.4.2021) by [The Specified Diseases (Notification and Control) (Amendment, etc.) (England) Order 2021 (S.I. 2021/443)](https://www.legislation.gov.uk/uksi/2021/443), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/443/article/1/1), [5(4)(b)](https://www.legislation.gov.uk/uksi/2021/443/article/5/4/b)
+
+[^key-4880b38754b0475c41a7006d4288092f]: Textual amendment: Word in art. 10(5) substituted (21.4.2021) by [The Specified Diseases (Notification and Control) (Amendment, etc.) (England) Order 2021 (S.I. 2021/443)](https://www.legislation.gov.uk/uksi/2021/443), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/443/article/1/1), [5(4)(c)](https://www.legislation.gov.uk/uksi/2021/443/article/5/4/c)
+
+[^key-fde79340fcfaafb9ab020cdaf7fddb58]: Textual amendment: Word in art. 10(6) substituted (21.4.2021) by [The Specified Diseases (Notification and Control) (Amendment, etc.) (England) Order 2021 (S.I. 2021/443)](https://www.legislation.gov.uk/uksi/2021/443), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/443/article/1/1), [5(4)(c)](https://www.legislation.gov.uk/uksi/2021/443/article/5/4/c)
+
+[^key-9d4c78e225163ed6f311fc0badd4207f]: Textual amendment: Word in art. 10(7) substituted (21.4.2021) by [The Specified Diseases (Notification and Control) (Amendment, etc.) (England) Order 2021 (S.I. 2021/443)](https://www.legislation.gov.uk/uksi/2021/443), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/443/article/1/1), [5(4)(d)](https://www.legislation.gov.uk/uksi/2021/443/article/5/4/d)
+
+[^f00003]: Footnote: S.I. [1994/3141](https://www.legislation.gov.uk/uksi/1994/3141).
+
+[^f00004]: Footnote: S.I. [1997/150](https://www.legislation.gov.uk/uksi/1997/150).
+
+[^key-6fe82dafe234dd36c4c05cedba5e70d1]: Textual amendment: Words in Sch. 1 para. 6 substituted (1.6.2018) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments) (England) Regulations 2018 (S.I. 2018/575)](https://www.legislation.gov.uk/uksi/2018/575), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/575/article/1/2), [32(4)(a)](https://www.legislation.gov.uk/uksi/2018/575/regulation/32/4/a)
+
+[^f00005]: Footnote: Disinfectants approved for use under this Order are set out in the Schedules to the Diseases of Animals (Approved Disinfectants) Order 1978 (S.I. [1978/32](https://www.legislation.gov.uk/uksi/1978/32), amended by S.I. [1999/919](https://www.legislation.gov.uk/uksi/1999/919)).
+
+[^key-b62fc716fd20cfaabd9b484199a1761f]: Textual amendment: Words in Sch. 1 para. 11 substituted (1.6.2018) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments) (England) Regulations 2018 (S.I. 2018/575)](https://www.legislation.gov.uk/uksi/2018/575), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/575/article/1/2), [32(4)(b)](https://www.legislation.gov.uk/uksi/2018/575/regulation/32/4/b)
+
+[^f00006]: Footnote: Disinfectants approved for use under this Order are set out in the Schedules to the Diseases of Animals (Approved Disinfectants) Order 1978 (S.I. [1978/32](https://www.legislation.gov.uk/uksi/1978/32), amended by S.I. [1999/919](https://www.legislation.gov.uk/uksi/1999/919)).

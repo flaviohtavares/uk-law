@@ -1,0 +1,140 @@
+---
+title: The Overseas Territories (Zimbabwe) (Restrictive Measures) (Amendment) Order 2002
+id: uksi/2002/2627
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2002-10-22'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2002/2627
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2002/2627/pdfs/uksi_20022627_en.pdf
+- http://www.legislation.gov.uk/uksi/2002/2627/made/data.pdf
+pending_changes: 1
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Overseas Territories (Zimbabwe) (Restrictive Measures) (Amendment) Order 2002
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2002 No. 2627
+
+OVERSEAS TERRITORIES
+
+The Overseas Territories (Zimbabwe) (Restrictive Measures) (Amendment) Order 2002
+
+Made
+
+22nd October 2002
+
+Laid before Parliament
+
+23rd October 2002
+
+Coming into force
+
+24th October 2002
+
+At the Court at Buckingham Palace, the 22nd day of October 2002
+
+Present,
+
+The Queen’s Most Excellent Majesty in Council
+
+Her Majesty, by virtue and in exercise of the powers vested in Her by section 112 of the Saint Helena Act 1833[^f00001], the British Settlements Acts 1887 and 1945[^f00002], and of all other powers enabling Her in that behalf, is pleased, by and with the advice of Her Privy Council, to order, and it is hereby ordered, as follows:
+
+## 1. Citation and commencement
+
+(1) This Order may be cited as the Overseas Territories (Zimbabwe) (Restrictive Measures) (Amendment) Order 2002 and shall come into force on 24th October 2002.
+
+(2) In this Order “the Order” means the Overseas Territories (Zimbabwe) (Restrictive Measures) Order 2002[^f00003].
+
+## 2. Amendment
+
+In Schedule 4 to the Order the words “Home Affairs Minister” shall be replaced by “Special Affairs in the President’s Office (former Home Affairs Minister)”.
+
+**3.** In Schedule 4 to the Order the following shall be added:
+
+> |  |  |  |
+> | --- | --- | --- |
+> | 21\. | MUZENDA Simon Vengesai | Vice President, born 28.10.1922 |
+> | 22\. | MSIKA Joseph | Vice President, born 6.12.1923 |
+> | 23\. | MAKONI Simbarashe | Minister of Finance, born 22.3.1950 |
+> | 24\. | MURERWA Herbert | Minister for Finance and Economic Development (former Minister for Industry and International Trade), born 31.7.1941 |
+> | 25\. | MUJURU Joyce | Minister for Rural Resources and Water, born 15.4.1955 |
+> | 26\. | MOYO July | Public Service, Labour and Social Welfare Minister, born 7.5.1950 |
+> | 27\. | CHIGWEDERE Aeneas | Education, Sports and Culture Minister, born 25.11.1939 |
+> | 28\. | STAMPS Timothy | Health and Child Welfare Minister, born 15.10.1936 |
+> | 29\. | MOBESHORA Swithun | Transport and Communications Minister, born 20.8.1945 |
+> | 30\. | CHINDORI-CHININGA Edward | Mines and Energy Minister, born 14.3.1955 |
+> | 31\. | NHEMA Francis | Environment and Tourism Minister, born 17.4.1959 |
+> | 32\. | MUMBENGEGWI Samuel | Higher Education and Technology Minister, born 23.10.1942 |
+> | 33\. | NYONI Sithembiso | Minister of Small and Medium Enterprises Development (former Minister of State, Informal Sector), born 20.9.1949 |
+> | 34\. | MUCHENA Olivia | Minister of State for Information and Publicity (former Minister of State in Vice-President Msika’s Office), born 18.8.1946 |
+> | 35\. | BUKA Flora | Minister of State for Land Reform Programme (former Minister of State in Vice President Muzenda’s Office), born 25.2.1968 |
+> | 36\. | DABENGWA Dumiso | Senior Committee Member, born 1939 |
+> | 37\. | MUJURU Solomon | Senior Committee Member, born 1949 |
+> | 38\. | NKOMO Stephen | Senior Committee Member, born 1925 |
+> | 39\. | MUGABE Sabina | Politburo Senior Committee Member, born 14.10.1934 |
+> | 40\. | MUZENDA Tsitsi | Politburo Senior Committee Member, born 28.10.1922 |
+> | 41\. | KARIMANZIRA David | Secretary for Finance, born 25.5.1947 |
+> | 42\. | MUTASA Didymus | Secretary for External Relations, born 27.7.1935 |
+> | 43\. | SHAMUYARIRA Nathan | Secretary for Information and Publicity, born 29.9.1928 |
+> | 44\. | TUNGAMIRAI Josiah | Secretary for Employment and Indigenisation, born 8.10.1948 |
+> | 45\. | NDLOVU Naison | Secretary for Production and Labour, born 22.10.1930 |
+> | 46\. | HOVE Richard | Secretary for Economic Affairs, born 1935 |
+> | 47\. | MUCHINGURI Oppah | Secretary for Gender and Culture, born 14.12.1958 |
+> | 48\. | MASUKU Angeline | Politburo Secretary, Secretary for Disabled and Disadvantaged Persons' Welfare, born 14.10.1936 |
+> | 49\. | SIKHOSANA Absolom | Politburo Secretary, Secretary for Youth Affairs |
+> | 50\. | LESABE Thenjiwe | Secretary for Women’s Affairs, born 1933 |
+> | 51\. | CHIKOWORE Enos | Secretary for Land and Resettlement, born 1936 |
+> | 52\. | KURUNERI Christopher | Deputy Minister, Finance and Economic Development, born 4.4.1949 |
+> | 53\. | NCUBE Abedinico | Deputy Minister, Foreign Affairs, born 13.10.1954 |
+> | 54\. | MOHADI Kembo | Minister for Home Affairs (former Deputy Minister of Local Government, Public Works and National Housing), born 15.11.1949 |
+> | 55\. | SHUMBA Isaiah | Deputy Minister, Education, Sports and Culture, born 3.1.1949 |
+> | 56\. | PARIRENYATWA David | Minister, Health and Child Welfare (former Deputy Minister), born 2.8.1950 |
+> | 57\. | MANGWANA Paul | Minister of State for Enterprises and Parastatals (former Deputy Minister, Justice, Legal and Parliamentary Affairs), born 10.8.1961 |
+> | 58\. | MUSHOHWE Christopher | Deputy Minister, Transport and Communications, born 6.2.1954 |
+> | 59\. | MAHOFA Shuvai | Deputy Minister for Youth Development, Gender and Employment Creation, born 4.4.1941 |
+> | 60\. | GUMBO Rugare | Deputy Minister, Home Affairs, born 8.3.1940 |
+> | 61\. | MANGWENDE Witness | Minister for Transport and Communications (former Deputy-Secretary for Administration), born 15.10.1946 |
+> | 62\. | TAWENGWA Solomon | Politburo Deputy-Secretary, Deputy-Secretary for Finance, born 15.6.1940 |
+> | 63\. | NDLOVU Sikhanyiso | Deputy-Secretary for Commissariat, born 20.9.1949 |
+> | 64\. | MPOFU Obert | Deputy-Secretary for National Security, born 12.10.1951 |
+> | 65\. | MOYO Simon Khaya | Deputy-Secretary for Legal Affairs, born 1945 |
+> | 66\. | MALINGA Joshua | Politburo Deputy-Secretary, Deputy-Secretary for Disabled and Disadvantaged, born 28.4.1944 |
+> | 67\. | MADZONGWE Edna | Deputy-Secretary for Production and Labour, born 11.7.1943 |
+> | 68\. | SAKUPWANYA Stanley | Deputy-Secretary for Health and Child Welfare |
+> | 69\. | POTE S M | Deputy-Secretary for Gender and Culture |
+> | 70\. | KASUKUWERE Saviour | Deputy-Secretary for Youth Affairs, born 23.10.1970 |
+> | 71\. | MATHUTHU T | Deputy-Secretary for Transport and Social Welfare |
+> | 72\. | MUGABE Grace | Spouse of Robert Mugabe, born 23.7.1965 |
+> | 73\. | CHARUMBIRA Fortune | Deputy Minister for Local Government, Public Works and National Housing, born 10.6.1962 |
+> | 74\. | MACHAYA Jaison | Deputy Minister for Mines and Mining Development, born 13.6.1952 |
+> | 75\. | MANYONDA Kenneth | Deputy Minister for Industry and International Trade, born 10.8.1934 |
+> | 76\. | MARUMAHOKO Reuben | Deputy Minister for Energy and Power Development, born 4.4.1948 |
+> | 77\. | MIDZI Amos Bernard Muvenga | Minister for Energy and Power Development, born 4.7.1952 |
+> | 78\. | MUTIWEKUZIVA Kenneth | Deputy Minister, Small and Medium Enterprises Development, born 27.5.1948 |
+> | 79\. | RUSERE Tinos | Deputy Minister for Rural Resources and Water Development, born 10.5.1945 |
+
+.
+
+A. K. Galloway
+
+Clerk of the Privy Council
+
+(This note is not part of the Order)
+
+This Order amends the Overseas Territories (Zimbabwe) (Restrictive Measures) Order 2002 by adding to the list of persons in Schedule 4 to that Order who bear a wide responsibility for the serious violations of human rights and of the freedom of opinion, of association and of peaceful assembly in that country.
+
+## Annotations
+
+[^f00001]: Footnote: [1833 c. 85](https://www.legislation.gov.uk/ukpga/1833/85).
+
+[^f00002]: Footnote: [1887 c. 54](https://www.legislation.gov.uk/ukpga/1887/54) and [1945 c. 7](https://www.legislation.gov.uk/ukpga/1945/7).
+
+[^f00003]: Footnote: S.I. [2002/1077](https://www.legislation.gov.uk/uksi/2002/1077).

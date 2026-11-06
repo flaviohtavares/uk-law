@@ -1,0 +1,96 @@
+---
+title: The Companies (Fees) Regulations 1988
+id: uksi/1988/887
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '1988-05-13'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1988/887
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1988/887/pdfs/uksi_19880887_en.pdf
+- http://www.legislation.gov.uk/uksi/1988/887/made/data.pdf
+pending_changes: 3
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Companies (Fees) Regulations 1988
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+1988 No. 887
+
+COMPANIES
+
+The Companies (Fees) Regulations 1988
+
+Made
+
+13th May 1988
+
+Approved by the Houses of Parliament
+
+Laid before Parliament
+
+16th May 1988
+
+Coming into force
+
+1st July 1988
+
+The Secretary of State, in exercise of the powers conferred on him by section 708(1) and (2) of the Companies Act 1985[^f00001] and of all other powers enabling him in that behalf, hereby makes the following Regulations:—
+
+**1.** (1) These Regulations may be cited as the Companies (Fees) Regulations 1988 and shall come into force on 1st July 1988.
+
+(2) The Companies (Fees) Regulations 1980[^f00002] and the Companies (Fees) (Amendment) Regulations 1982[^f00003] are hereby revoked.
+
+**2.** In these Regulations, unless the context otherwise requires, “the Act” means the Companies Act 1985 (any reference to a numbered section being to a section of that Act) and “document” includes other material kept by the registrar of companies under the Companies Acts.
+
+**3.** The fees set out in the second column of the Schedule to these Regulations shall be the fees payable in respect of the transactions set out in the first column of that Schedule.
+
+John Butcher
+
+Parliamentary Under-Secretary of State
+
+Department of Trade and Industry
+
+13th May 1988
+
+## SCHEDULE — FEES TO BE PAID TO THE REGISTRAR OF COMPANIES
+
+| *Matter in respect of which fee is payable* | *Amount of fee* |
+| --- | --- |
+| For registration of a company on its formation under the Act, re-registration of a company under the Act in pursuance of section 43, re-registration of a company under the Act in pursuance of section 51 and registration of a company under the Act in pursuance of Chapter II of Part XXII of the Act | £50.00 |
+| For re-registration of a company under the Act in pursuance of section 49 and re-registration of a company under the Act in pursuance of section 53 | £5.00 |
+| For registration of a copy of an annual return delivered otherwise than in compliance with section 699 or copies of documents delivered to the registrar of companies in compliance with section 700 | £20.00 |
+| For entering on the register the name of a company assumed by virtue of the passing of a special resolution by virtue of section 28 | £40.00 |
+| For inspection of documents under section 709(1) except the index kept by the registrar of companies under section 714: for each inspection of documents relating to one company | £2.50 |
+| For certification by the registrar of companies of a copy of any document (other than a certificate of incorporation) or part of a document kept by the registrar of companies in pursuance of the Act: |  |
+| - where the document or part of a document is not a list of the members of a company (or part of such a list) which consists of more than 10 pages | £11.00 |
+| - where the document or part of a document is a list of the members of a company (or part of such a list) and consists of more than 10 pages, for the certification of the first 10 pages | £11.00 |
+| - and, for each additional page so certified | £1.00 |
+| For a certificate of incorporation of a company certified by the registrar of companies (supplied otherwise than on the incorporation of the company), or for certification of an extract of any document or part of a document kept by the registrar of companies in pursuance of the Act:<br>- for the first such certificate of incorporation or the first such certified extract supplied on any one occasion | £11.00 |
+| - for any subsequent certificate of incorporation or certified extract supplied on the same occasion | £8.50 |
+
+(This note is not part of the Regulations)
+
+These Regulations supersede the Companies (Fees) Regulations 1980 as amended by the Companies (Fees) (Amendment) Regulations 1982. They re-enact some of the fees prescribed by those Regulations and increase some of the fees relating to certain matters covered by those Regulations.
+
+**1.** The fee for inspection of documents kept by the registrar of companies is increased from £1.00 to £2.50. The fee specified for the inspection of documents under section 709(1) includes the fee for the inspection of a register of charges kept by the registrar and a separate fee for such inspection is not specified in the Regulations.
+
+**2.** The fee for certifying a copy of any document (other than a certificate of incorporation) kept by the registrar of companies is increased from 30p per page (plus, where appropriate, £1.00 for the inspection of any documents by the registrar) to £11.00 per document where the document is not a list of members more than 10 pages long. Where the document is more than 10 pages long and is a list of members, the fee is increased to £11.00 for the first 10 pages plus £1.00 for each additional page. No additional fee is now payable when the registrar has to inspect any documents in order to so certify a copy.
+
+**3.** The fee for supplying a certificate of incorporation—otherwise than on the incorporation of the company to which it relates—or a certified extract of any document kept by the registrar of companies is increased from £3.50 to £11.00 for the first such certificate or extract supplied on any one occasion and from £2.50 to £8.50 for any subsequent one supplied on the same occasion.
+
+**4.** In other respects the fees payable to the registrar of companies are unchanged.
+
+## Annotations
+
+[^f00001]: Footnote: [1985 c. 6](https://www.legislation.gov.uk/ukpga/1985/6) (as read with section 31 of the Companies Consolidation (Consequential Provisions) Act [1985 (c. 9)](https://www.legislation.gov.uk/ukpga/1985/9)).
+
+[^f00002]: Footnote: [S.I. 1980/1749](https://www.legislation.gov.uk/uksi/1980/1749).
+
+[^f00003]: Footnote: [S.I. 1982/105](https://www.legislation.gov.uk/uksi/1982/105).

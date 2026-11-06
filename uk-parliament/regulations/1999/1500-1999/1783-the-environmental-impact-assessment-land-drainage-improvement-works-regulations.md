@@ -1,0 +1,892 @@
+---
+title: The Environmental Impact Assessment (Land Drainage Improvement Works) Regulations 1999
+id: uksi/1999/1783
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '1999-06-22'
+text_date: '2025-02-27'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/1999/1783
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1999/1783/pdfs/uksi_19991783_en.pdf
+- http://www.legislation.gov.uk/uksi/1999/1783/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Environmental Impact Assessment (Land Drainage Improvement Works) Regulations 1999
+
+> Text as at 2025-02-27.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+1999 No. 1783
+
+LAND DRAINAGE
+
+The Environmental Impact Assessment (Land Drainage Improvement Works) Regulations 1999
+
+Made
+
+22nd June 1999
+
+Laid before Parliament
+
+24th June 1999
+
+Coming into force
+
+21st July 1999
+
+The Minister of Agriculture, Fisheries and Food and the Secretary of State for Wales, acting jointly, being Ministers designated[^f00001] for the purposes of section 2(2) of the European Communities Act 1972[^f00002] in relation to measures relating to the requirement for an assessment of the impact on the environment of projects likely to have significant effects on the environment, in exercise of the powers conferred on them by the said section 2(2) and of all other powers enabling them in that behalf, hereby make the following Regulations:–[^key-2c191c6bbb51d19a0054ba71f8e8cdf5][^key-905a429416e5ad9fc1ad327525787696]
+
+## 1. Title, commencement and extent[^key-5d5165e20cd298ad6ed47b9e532509e0]
+
+(1) These Regulations may be cited as the Environmental Impact Assessment (Land Drainage Improvement Works) Regulations 1999 and shall come into force on 21st July 1999.
+
+(2) These Regulations apply to England and Wales.
+
+## 2. Interpretation[^key-1a45281ba939f3cdb6bf85ddb17f2bfb]
+
+(1) In these Regulations–
+
+- “the appropriate Authority” means—[^key-3d711c6ab3529bc30cff6286410037fd]
+  - (a) in relation to England, the Secretary of State;
+  - (b) in relation to Wales, the Welsh Ministers;
+- “consultation bodies” means–
+  - (a) in relation to improvement works which are to be carried out in England, Natural England[^key-f1ef183daf1dac808d3883003e08a428];
+  - (b) in relation to improvement works which are to be carried out in Wales, the Natural Resources Body for Wales[^key-9bd3666ce277ce85affbbaca75dc590c] and Cadw, being the executive agency responsible for carrying out the functions vested in the[^key-f9e70130f35f3045fe435d4c8142afce] Welsh Ministers[^key-092112ca9b36551eb2847de4c0ea4a95] relating to the historic environment; and
+  - (c) any other public authority, statutory body or organisation which, in the opinion of the drainage body proposing any improvement works, has an interest in those improvement works by virtue of its environmental responsibilities or local or regional competences[^key-008d494df66ab94a23098dd63753e2f3];
+- “the EIA Directive” means Directive 2011/92/EU of the European Parliament and of the Council on the assessment of the effects of certain public and private projects on the environment, as amended by Directive 2014/52/EU of the European Parliament and of the Council;[^key-4c3957a70b2a40793169ffe7905c9170]
+- “district” includes metropolitan district;
+- “drainage” includes defence against water including sea water;
+- “drainage body” means any of the following public authorities which initiates improvement works, namely–
+  - (a) the Environment Agency[^f00008];
+  - (aa) the Natural Resources Body for Wales;[^key-701e9d385775e8bbbdfe30bc0c6e7803]
+  - (c) an internal drainage board; and
+  - (d) the council of a county, a county borough, a district or a London borough, the Common Council of the City of London or the Council of the Isles of Scilly;
+- [^key-a43fa2d0d4a8224f845dd5d033c51471]...
+- “environmental impact assessment”, in respect of improvement works, means—[^key-eed0aae80140ff028a93fd2c1fba9f5c]
+  - (a) the preparation of an environmental statement by the drainage body;
+  - (b) the carrying out of consultations under regulations 10 and 12B(6);
+  - (c) the drainage body’s or the appropriate Authority’s consideration of the environmental statement and other information under regulation 12(1) or 12B(3);
+  - (d) the drainage body or the appropriate Authority reaching a conclusion about the likely significant environmental effects of the project under regulation 12(2) or 12B(4); and
+  - (e) the drainage body’s or the appropriate Authority’s consideration of that conclusion under regulation 12A(3) or 12C(2) in the determination of whether or not the improvement works should proceed;
+- “environmental statement” has the meaning given by regulation 7(1);[^key-21bd615eb1e89a85baacdabcccbbfddb]
+- “[^key-7fdc6032cdb31f48f25a92f7eef6985c]**EU environmental assessment**” means an assessment of the effect of anything on the environment carried out under assimilated[^key-1c89491ceab96364358726a4b7c07fa1] law other than any law of any part of the United Kingdom that implemented the EIA Directive;
+- “the Habitats Directive” means Council Directive [92/43/EEC](https://www.legislation.gov.uk/european/directive/1992/0043) on the conservation of natural habitats and of wild fauna and flora as last amended by Council Directive 2013/17/EU;
+- “improvement works” means—[^key-90ac08db154f68817337dbf5631a3339]
+  - (a) in relation to England, works which are—
+    - (i) the subject of a project to deepen, widen, straighten, or otherwise improve or alter, any existing watercourse or remove or alter mill dams, weirs, or other obstructions to watercourses, or raise, widen, or otherwise improve or alter, any existing drainage work; and
+    - (ii) permitted development by virtue of Class C or Class D of Part 13 (water and sewerage) of Schedule 2 to the Town and Country Planning (General Permitted Development) (England) Order 2015;
+  - (b) in relation to Wales, works which are—
+    - (i) the subject of a project to deepen, widen, straighten, or otherwise improve or alter, any existing watercourse or remove or alter mill dams, weirs, or other obstructions to watercourses, or raise, widen, or otherwise improve or alter, any existing drainage work; and
+    - (ii) permitted development by virtue of Part 14 or Part 15 of Schedule 2 to the Town and Country Planning (General Permitted Development) Order 1995;
+- “[^key-957e7e905223672a17f58c9587728d5c]**public**” means one or more natural or legal persons and, in accordance with the law or practice of any part of the United Kingdom, their associations, organisations or groups;
+- “**public concerned**” means the public affected or likely to be affected by, or having an interest in, environmental decision making procedures (for the purposes of this definition, non-governmental organisations promoting environmental protection and meeting any requirements under the law of any part of the United Kingdom are deemed to have an interest);
+- “UK environmental assessment” means an assessment carried out in accordance with an obligation under the law of any part of the United Kingdom of the effect of anything on the environment;[^M_F_a51bd875-346e-4194-8130-d418b1c088b0]
+- “watercourse” includes any river and stream and any ditch, drain, cut, culvert, dike, sluice, sewer (other than public sewer as defined in section 219(1) of the Water Industry Act 1991[^f00010]) and any passage through which water flows;
+- “the Wild Birds Directive” means Directive [2009/147/EC](https://www.legislation.gov.uk/european/directive/2009/0147) of the European Parliament and of the Council on the conservation of wild birds as amended by Council Directive 2013/17/EU.
+
+(2)[^key-4083d8e20f71e314b0736911bc519763] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) Any reference in these Regulations to a numbered regulation or Schedule is a reference to the regulation in or Schedule to these Regulations bearing that number.
+
+(4)[^key-606f0b16c7d006722277e83f1b83132c] In these Regulations, any reference to the likely significant effects, or the likely significant adverse effects, of improvement works on the environment includes a reference to the effects of the improvement works on the environment once the improvement works are finished and in operation.
+
+(5) In paragraph (4) each reference to the environment includes a reference to the matters referred to in regulation 12(2)(a) to (e).
+
+## 3. Restriction on improvement works[^key-41961dacfe82f82b075ad36c339248fe]
+
+(1) Subject to regulations 3A and 3B[^key-cb8e6c237e15a238537a0be56313c550], a drainage body shall not carry out any improvement works unless–
+
+- (a) they have complied with the requirements of these Regulations in relation to those improvement works; and
+- (b) where a proposal is referred to the appropriate Authority under regulation 12B(2)[^key-2f71d36f421509f02e3e3b001e6f7a97]–
+  - (i) that Authority has consented to the carrying out of the improvement works; and
+  - (ii) the works are carried out in accordance with any conditions to which the consent is subject.
+
+(2)[^key-5bb78f1a4189b8ade974ea40df0b210a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2A)[^key-5bb78f1a4189b8ade974ea40df0b210a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3)[^key-5bb78f1a4189b8ade974ea40df0b210a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4)[^key-5bb78f1a4189b8ade974ea40df0b210a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 3A. Defence and civil emergencies[^key-aa9639ffecf22cd04bb172fb024caf9e]
+
+(1) The Secretary of State may direct that improvement works or a part of any improvement works are exempt where—
+
+- (a) the improvement works have national defence as their sole purpose; and
+- (b) the Secretary of State considers that an environmental impact assessment in respect of the improvement works or the part of the improvement works would have an adverse effect on the fulfilment of that purpose.
+
+(2) The appropriate Authority may direct that improvement works are exempt where—
+
+- (a) the improvement works have the response to a civil emergency as their sole purpose; and
+- (b) the appropriate Authority considers that an environmental impact assessment in respect of the improvement works would have an adverse effect on the fulfilment of that purpose.
+
+(3) The effect of a direction under paragraph (1) or (2) that improvement works are exempt is that these Regulations, except for paragraphs (5) and (6), do not apply to the improvement works.
+
+(4) The effect of a direction under paragraph (1) that a part of any improvement works are exempt is that the improvement works are treated under these Regulations as not including the part of the improvement works the subject of the direction.
+
+(5) Following a direction under paragraph (1) or (2), the person who made the direction must send notice of the direction to the drainage body concerned.
+
+(6) Following a direction under paragraph (1) in respect of improvement works in Wales, the Secretary of State must send notice of the direction to the Welsh Ministers.
+
+## 3B. Exceptional circumstances
+
+(1) The appropriate Authority may direct that improvement works are exempt where the circumstances are exceptional and it considers that—
+
+- (a) the application of these Regulations to the improvement works would have an adverse effect on the fulfilment of the improvement works’ purpose; and
+- (b) the objectives of the EIA Directive will be met even though such an assessment is not carried out.
+
+(2) The effect of a direction that improvement works are exempt under paragraph (1) is that these Regulations, except for paragraphs (3) and (4) do not apply to the improvement works.
+
+(3) Where the appropriate Authority makes a direction that improvement works are exempt under paragraph (1) it must—
+
+- (a) consider whether another form of assessment of the likely significant effects on the environment of the improvement works is appropriate;
+- (b) send a copy of the direction to the drainage body concerned; and
+- (c) publish in at least two newspapers local to the site of the improvement works a notice which briefly describes—
+  - (i) the improvement works; and
+  - (ii) the effect of the direction and the reasons for it.
+
+(4) Where the appropriate Authority considers that another form of assessment is appropriate in accordance with paragraph (3)(a), it must make available to the public concerned the information obtained under that other assessment.
+
+## 3C. Coordination
+
+Where, in respect of improvement works, there is a requirement to carry out an environmental impact assessment and a requirement to carry out an assessment under regulation 24 or 63 of the Conservation of Habitats and Species Regulations 2017[^key-845904d595483d2f6177a3ab47e19b4f] , the appropriate Authority must, where appropriate, ensure that the environmental impact assessment and the other assessment, or assessments, are coordinated.
+
+## 4. Determination of whether improvement works have significant effects on the environment[^key-1afd912cc019b88091d416e7c2f4b8d2]
+
+(1) A drainage body proposing to carry out improvement works must determine whether the improvement works are likely to have significant effects on the environment, and in making that determination the drainage body must take into account—
+
+- (a) the selection criteria in Schedule 2; and
+- (b) the results of any relevant EU environmental assessment which are reasonably available to the drainage body.
+
+(2) The determination in paragraph (1) must be made as soon as possible but, subject to paragraph (3), within the period of 45 days beginning with the date on which the proposal to carry out improvement works was made.
+
+(3) In exceptional cases (including relating to the nature, complexity, location or size of the improvement works), the drainage body may extend the 45-day period referred to in paragraph (2).
+
+## 5. Requirements where a drainage body consider improvement works are not likely to have significant effects on the environment[^key-fbae971e3e0b64ce3de7223645337f8b]
+
+(1) Where, under regulation 4 above, a drainage body consider that the improvement works are not likely to have significant effects on the environment, they shall, , subject to regulation 13B below, by notice in at least two local newspapers and on any website maintained by the drainage body[^key-4e51ee48c37bd8035007c4a8f2ba9235]–
+
+- (a) announce that they propose to carry out the improvement works in question;
+- (b) describe briefly the nature, size and location of the proposed improvement works;
+- (c) state that they do not intend to prepare an environmental statement in respect of the proposed improvement works; [^key-76027d602b11ab6502ee600d96817a6b]...
+- (ca)[^key-c3c1576b2c75886a83b3d550fe9c86c3] state the main reasons for not intending to prepare an environmental statement by reference to the selection criteria listed in Schedule 2;
+- (cb) state any features of the improvement works or measures envisaged to avoid or prevent what might otherwise have been significant adverse effects on the environment;
+- (d) give notice that any person who wishes to do so should make representations to them in writing in relation to the likely environmental effects of the proposed improvement works at an address specified in the notice within 30[^key-b50303001ceece74e0395aa84d1f020c] days of the date of publication of the notice ; and[^key-29547b4756d7a1ed7005f9f2ea4af9bb]
+- (e)[^key-4e845a57d5ba3759e8cf97175a0a538e] describe what additional information concerning the improvement works is available, and where it can be obtained.
+
+(2) A drainage body which publishes a notice under paragraph (1) above shall, on or before the date of such publication, supply a copy of the notice to each of the consultation bodies so that they have an opportunity to make representations in relation to the likely environmental effects of the proposed improvement works before expiry of the period specified in the notice.
+
+(3) Where, within the period provided for in paragraph (1)(d) above [^key-87280867a1faaa055d8527e5bbb414dc]..., no representations have been made to the effect that the works are likely to have significant effects on the environment, the drainage body may proceed to carry out the improvement works.
+
+(4) Where, following the period provided for in paragraph (1)(d) above [^key-87280867a1faaa055d8527e5bbb414dc]..., the drainage body consider (whether in the light of any representations or otherwise) that the improvement works are likely to have significant effects on the environment, they shall so determine.
+
+(5) Where, within the period provided in paragraph (1)(d) above [^key-87280867a1faaa055d8527e5bbb414dc]..., any representations have been made to the effect that the works are likely to have significant effects on the environment and, notwithstanding those representations, the drainage body still consider that the improvement works are not likely to have significant effects on the environment, they shall apply to the appropriate Authority for a determination of whether the improvement works are likely to have significant effects on the environment and shall provide the Authority with the information referred to in paragraph (5A)[^key-28b0b6d99bc819bd74cf3cf3a0164a6d].
+
+(5A)[^key-5eec86a16fb2ad549fe6ef36195429c9] The information is—
+
+- (a) the information referred to in Schedule 2A, taking into account the results of any relevant UK environmental assessment which are reasonably available to the applicant; and
+- (b) if the drainage body elects to provide it, a description of any measure proposed to be taken to avoid or prevent any likely significant adverse effects on the environment.
+
+(6) Where the appropriate Authority considers that the information and copy documents provided in accordance with paragraph (5) above do not provide sufficient information to enable a determination to be made, that Authority shall notify the drainage body in writing of the points on which further information is required and may make a written request to the drainage body for such information as they may be able to provide on the points raised.
+
+(7)[^key-3ca064213a4dc25f4b99f246bfb3c964] Where an application is made to the appropriate Authority under paragraph (5), the appropriate Authority shall determine whether the improvement works are likely to have significant effects on the environment, taking into account—
+
+- (a) the information provided under paragraph (5);
+- (b) the selection criteria in Schedule 2; and
+- (c) the results of any relevant UK environmental assessment which are reasonably available to the applicant.
+
+(8) Following the determination under paragraph (7), the appropriate Authority shall inform the drainage body in writing of the determination.
+
+(9) The determination under paragraph (7) shall be made as soon as possible but, subject to paragraph (10), within the period of 45 days beginning with the date on which the drainage body has submitted all the information required under paragraph (5).
+
+(10) In exceptional cases (including relating to the nature, complexity, location or size of the improvement works), the appropriate Authority may extend the 45-day period referred to in paragraph (9).
+
+(11) Where the appropriate Authority extends the 45-day period under paragraph (10), it shall inform the drainage body in writing of the reasons justifying the extension and of the date on which its determination is expected.
+
+## 6. Notification of determination that improvement works are likely to have significant effects on the environment[^key-2d803d982af0854b00154bf18ba9fdac]
+
+(1) This regulation applies where–
+
+- (a) under regulation 4 or 5(4) above, a drainage body determine that improvement works are likely to have significant effects on the environment; or
+- (b) under regulation 5(7) above, the appropriate Authority determines that improvement works are likely to have significant effects on the environment.
+
+(2) In any case to which this regulation applies, the drainage body shall , subject to regulation 13B below, by notice in at least two local newspapers and on any website maintained by the drainage body[^key-9f1d9265743176920cfa2944e6cd75ab]–
+
+- (a) inform the public of the need for a determination of whether the improvement works should proceed, and[^key-fc10424800c9d57bc43bd71f803cbaf0] describe briefly the nature, size and location of the proposed improvement works;
+- (b)[^key-ec4108b4236570c83dfaf83d2fa657ee] state that—
+  - (i) the works are likely to have significant effects on the environment;
+  - (ii) the main reasons for that conclusion by reference to the selection criteria listed in Schedule 2; and
+  - (iii) the drainage body intend to prepare an environmental statement in respect of them;
+- (c)[^key-8f04e5f83aedd0369c4eb8ed5230e9ef] give details of the drainage body responsible for taking the decision as to whether to carry out the improvement works, from whom relevant information can be obtained and to which comments or questions can be submitted, and details of the time by which comments or questions must be submitted;
+- (d) give an indication of the availability of the information gathered;
+- (e) give details of times and places where, and the means by which, the relevant information will be made available.
+
+(3) A drainage body which publishes a notice under paragraph (2) above shall, on or before the date of such publication, supply a copy of the notice to each of the consultation bodies.
+
+## 7. Preparation of environmental statement[^key-1de79effb462e64b0a4e4cdceb655748]
+
+(1) A drainage body must ensure that in any case to which regulation 6 applies a written statement (an “environmental statement”) in respect of the improvement works is prepared by a competent person which—
+
+- (a) includes the information specified in paragraph (2);
+- (b) is based on the opinion given under regulation 8;
+- (c) takes into account the results of any relevant EU environmental assessment which are reasonably available to the drainage body; and
+- (d) states the relevant expertise and qualifications of the competent person.
+
+(2) The specified information is—
+
+- (a) a description of the improvement works comprising information on the site, design, size and other relevant features of the improvement works;
+- (b) a description of the likely significant effects of the improvement works on the environment;
+- (c) a description of any features of the improvement works or measures to avoid, prevent, reduce or offset any likely significant adverse effects of the improvement works on the environment;
+- (d) a description of the reasonable alternatives studied by the drainage body, which are relevant to the improvement works and their specific characteristics, and an indication of the main reasons for the option chosen, taking into account the effects of the improvement works on the environment;
+- (e) a non-technical summary of the information referred to in sub-paragraphs (a) to (d); and
+- (f) any additional information specified in Schedule 1 relevant to the specific characteristics of particular improvement works or type of improvement works and to the environmental features likely to be affected.
+
+## 8. Request as to the information to be included in an environmental statement[^key-b35adb1a2733dda90659b62720c838e1]
+
+(1) A drainage body may request the appropriate Authority to give an opinion as to the scope and level of detail of[^key-39a45babf75ac3091b1f9e15dfd844c2] information to be contained in the environmental statement required for particular improvement works.
+
+(2) Where a drainage body requests an opinion under paragraph (1) above before a determination has been made, the appropriate Authority shall deal with the request on the assumption that the improvement works will have significant effects on the environment.
+
+(3) Before giving an opinion under paragraph (1) above, the appropriate Authority shall consult the drainage body and the consultation bodies.
+
+(3A)[^key-cefe7a31c41d0b63d89ce60e777a758a] In reaching its opinion under paragraph (1), the appropriate Authority shall take into account the information provided by the drainage body including—
+
+- (a) the information about the specific characteristics of the improvement works (including their location and technical capacity); and
+- (b) the likely effects of the improvement works on the environment.
+
+(4) Giving an opinion under this regulation shall not preclude the appropriate Authority from requiring[^key-f7c4715bd4c68aae4776bd79899a6ada] further information from the drainage body concerned under regulation 12B(5)[^key-e20cf100ea30fd5423d4c7afdc8da44d].
+
+## 9. Assistance in preparation of environmental statements[^key-a22204c295be400b3779106ed415381d]
+
+(1) Subject to paragraph (2) below and to regulation 13, where a drainage body is required to prepare an environmental statement by virtue of regulation 7, the drainage body may enter into consultation with any other authority to determine whether that authority has in its possession any information which may be relevant to the preparation of the environmental statement and if the authority has such information, the authority shall make such information available to the drainage body.
+
+(2) Paragraph (1) above shall not require the disclosure of information which is capable of being treated as confidential, or must be so treated, under regulation 4 of the Environmental Information Regulations 1992[^f00011].
+
+## 10. Publicity for environmental statements[^key-5c6ef057e6589f1250c676fd20fbfcbc]
+
+(1)[^key-1f9117beb8b2fc48eae6fe8b41de1785] Where a drainage body has prepared an environmental statement in accordance with these Regulations, it shall—
+
+- (a) publish a notice in accordance with paragraphs (2) and (3); and
+- (b) place the notice and a copy of the environmental statement on a website maintained by the drainage body.
+
+(2) The notice shall–
+
+- (a)[^key-bb047e2bfbc4caf589ce97de17de13c6] announce that the statement has been prepared and give details of—
+  - (i) the website on which the copy of the environmental statement has been placed in accordance with paragraph (1)(b); and
+  - (ii) any other place at which a copy of the environmental statement can be seen and times when it may be inspected;
+- (b) state that any person wishing to make representations in relation to the likely environmental effects of the improvement works to which the statement relates shall make them in writing to the drainage body at the address specified in the notice within 30[^key-6e4ee31bd2477f0e679c155c7d606ed8] days from the publication of the notice; and
+- (c) state that where no objection in relation to the likely environmental effects of the works are made and the drainage body, having undertaken the assessment specified in regulation 12(2)[^key-151d72784d57b33bbefdc5a31e78d435], consider that the improvement works should proceed, they may so determine.
+
+(3) Subject to regulation 13B(1) below,[^key-507de1a2132510d130992043f91c0f62] the notice shall be published in such newspapers (not being less than two) as the drainage body consider necessary to ensure that the environmental statement is made available to the public and in order to give the public concerned the opportunity to express an opinion before a determination is made as to whether the improvement works should proceed.
+
+(4) On or before the date of publication of the notice referred to in paragraph (1) above, the drainage body shall supply a copy of the environmental statement and notice to each of the consultation bodies so that they have an opportunity to make representations on the likely environmental effects of the improvement works to which the statement relates before expiry of the period specified in the notice.
+
+(5) The drainage body shall provide a copy of the environmental statement to any other person who so requests.
+
+## 11. Information for another EEA State[^key-fa78eb75ab3dc770f4067e4c9a51df5e]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 12. Conclusion about environmental impact: drainage body[^key-bafa6c9fcc4294f996a1a2ae7d57b6a6]
+
+(1) After the expiry of the period specified in the notice published under regulation 10(1), the drainage body must consider (ensuring that in doing so it has, or has access to, any expertise it considers necessary)—
+
+- (a) the environmental statement and any representations made in accordance with regulation 10; and
+- (b) any features of the improvement works or measures to avoid, prevent, reduce or offset any likely significant effects of the improvement works on the environment.
+
+(2) Following that consideration, the drainage body must reach a conclusion about the likely significant effects (including the expected effects deriving from the vulnerability of the improvement works to risks of major accidents or disasters) of the improvement works on—
+
+- (a) population and human health;
+- (b) biodiversity, with particular attention to species and habitats protected under any law of any part of the United Kingdom that implemented[^key-5523c86e4973356ea123c5fa2973b6a2] the Habitats Directive and the Wild Birds Directive;
+- (c) land, soil, water, air and climate;
+- (d) material assets, cultural heritage and the landscape;
+- (e) the interaction between the factors referred to in sub-paragraphs (a) to (d).
+
+## 12A. Determination of whether improvement works should proceed: drainage body
+
+(1) This regulation applies where—
+
+- (a) no objection in relation to the likely significant environmental effects of the improvement works has been made; or
+- (b) any such objection has been withdrawn.
+
+(2) The drainage body must consider—
+
+- (a) the conclusion reached under regulation 12(2) in respect of the improvement works and the reasons for that conclusion;
+- (b) whether it is appropriate for the drainage body to monitor the significant adverse effects of the improvement works on the environment, and if so—
+  - (i) whether a determination to proceed with the improvement works should be made subject to conditions to ensure that the drainage body is under such a duty; and
+  - (ii) whether a determination to proceed with the improvement works should be made subject to conditions to require remedial action to be taken in circumstances described in the conditions;
+- (c) whether, having regard to the likely significant environmental effects of the improvement works, a determination to proceed should be made subject to any other conditions.
+
+(3) Following that consideration, the drainage body must determine that the improvement works—
+
+- (a) should proceed; or
+- (b) should not proceed.
+
+(4) The drainage body may make a determination under paragraph (3)(a) only if satisfied that the conclusion reached under paragraph 12(2) in respect of the improvement works and the reasons for it address the likely significant environmental effects of the improvement works.
+
+(5) Where a drainage body has determined—
+
+- (a) in accordance with paragraph (3)(a), that the drainage body should proceed with the improvement works or that the drainage body should proceed subject to conditions; or
+- (b) that the drainage body should not so proceed,
+
+the drainage body must promptly, subject to regulation 13B, take the steps set out in paragraph (6).
+
+(6) The steps are to inform the following of the information referred to in paragraph (7)—
+
+- (a) the public, by notice in at least two local newspapers, or by such other means as are reasonable in the circumstances; and
+- (b) the consultation bodies, by notice.
+
+(7) The information is —
+
+- (a) the determination under paragraph (2) and any conditions attached to it;
+- (b) the main reasons and considerations on which the determination is based; and
+- (c) a summary of the result of any consultation under regulation 10 and how that information has been taken into account.
+
+(8) The drainage body must make its determination under paragraph (3) within a reasonable period of time, taking into account the nature and complexity of the application and improvement works.
+
+## 12B. Conclusion about environmental impact: appropriate Authority
+
+(1) This regulation and regulation 12C apply where—
+
+- (a) an objection in relation to the likely significant environmental effects of the improvement works has been made;
+- (b) the objection has not been withdrawn; and
+- (c) the drainage body has determined that the improvement works should proceed.
+
+(2) The drainage body must refer the proposal for improvement works together with the environmental statement and any representations on it to the appropriate Authority.
+
+(3) The appropriate Authority must consider (ensuring that in doing so it has or has access to any expertise it considers necessary)—
+
+- (a) the environmental statement and any representations made in accordance with regulation 10; and
+- (b) any features of the improvement works or measures to avoid, prevent, reduce or offset any likely significant effects of the improvement works on the environment.
+
+(4) Following that consideration, the appropriate Authority must reach a conclusion about the likely significant effects (including the expected effects deriving from the vulnerability of the improvement works to risks of major accidents or disasters) of the improvement works on—
+
+- (a) population and human health;
+- (b) biodiversity, with particular attention to species and habitats protected under any law of any part of the United Kingdom that implemented[^key-5ee934163ad5a548b7cdfbcffd4fea8f] the Habitats Directive and the Wild Birds Directive;
+- (c) land, soil, water, air and climate;
+- (d) material assets, cultural heritage and the landscape;
+- (e) the interaction between the factors referred to in sub-paragraphs (a) to (d).
+
+(5) Where the appropriate Authority considers that—
+
+- (a) the information supplied in accordance with paragraph (2) does not provide sufficient information to enable it to reach a conclusion under paragraph (4); and
+- (b) the drainage body may reasonably be required to compile further information relevant to that conclusion,
+
+the appropriate Authority must notify the drainage body of the further information required.
+
+(6) After a notification under paragraph (5), the drainage body must promptly—
+
+- (a) send the further information to the appropriate Authority;
+- (b) publish a notice in at least two local newspapers—
+  - (i) announcing that the further information is available and giving details of the place and times where a copy may be inspected; and
+  - (ii) stating that any person who wishes to make representations on the likely environmental effects of the improvement works to which the further information relates must make them in writing to the appropriate Authority at the address specified in the notice within 30 days of the date of the publication of the notice;
+- (c) place that notice and the further information on the website referred to in regulation 10(1)(b);
+- (d) on or before the date of publication of that notice, supply a copy of the notice and further information and notice to each of the consultation bodies; and
+- (e) provide a copy of the further information to any other person who requests one.
+
+## 12C. Determination of whether improvement works should proceed: appropriate Authority
+
+(1) The appropriate Authority must consider—
+
+- (a) the conclusion reached under regulation 12B(4) in respect of the improvement works and the reasons for that conclusion;
+- (b) whether it is appropriate for the drainage body to monitor the significant adverse effects of the improvement works on the environment, and if so—
+  - (i) whether consent should be given subject to conditions to ensure that the drainage body is under such a duty; and
+  - (ii) whether consent should be given subject to conditions to require remedial action to be taken in circumstances described in the conditions;
+- (c) whether, having regard to the likely significant environmental effects of the improvement works, consent should be given subject to any other conditions.
+
+(2) Following that consideration, the appropriate Authority must—
+
+- (a) consent to the carrying out of the improvement works; or
+- (b) refuse consent to the improvement works.
+
+(3) The appropriate Authority may make a determination under paragraph (2)(a) only if satisfied that the conclusion reached under regulation 12B(4) in respect of the improvement works and the reasons for it address the likely significant environmental effects of the improvement works.
+
+(4) A determination under paragraph (2)(a) may be made subject to conditions under regulation 12D.
+
+(5) The appropriate Authority must make its decision under paragraph (2) within a reasonable period of time starting with the date on which it is given all the information it is required to consider under regulation 12B(3), taking into account the nature and complexity of the application and improvement works.
+
+(6) The appropriate Authority must send to the drainage body a statement in writing of—
+
+- (a) the appropriate Authority’s determination under paragraph (2) and any conditions attached to it;
+- (b) the main reasons and considerations upon which the determination is based, including information about the public participation process; and
+- (c) any features of the improvement works or measures to avoid, prevent, reduce or offset the significant adverse effects of the improvement works on the environment.
+
+(7) The drainage body must promptly inform—
+
+- (a) the public, by notice in at least two local newspapers, or by such other means as are reasonable in the circumstances; and
+- (b) the consultation bodies, by notice,
+
+of the information in paragraph (8).
+
+(8) The information is—
+
+- (a) the appropriate Authority’s determination under paragraph (2) and any conditions attached to it;
+- (b) the main reasons and considerations on which the determination is based; and
+- (c) a summary of the result of any consultations under change type=start slip=2017-06-01 time=1496397159715regulations 10 and 12B(6) and how that information has been taken into account.
+
+## 12D. Determination that improvement works may proceed: conditions
+
+(1) The relevant authority may make a determination under regulation 12A(3)(a) or 12C(2)(a) authorising improvement works to proceed subject to conditions.
+
+(2) The relevant authority may impose a condition under paragraph (1) in relation to monitoring only if satisfied that—
+
+- (a) existing monitoring arrangements in accordance with an obligation under the law of any part of the United Kingdom cannot be relied on;
+- (b) the type of parameters to be monitored and the duration of monitoring are proportionate to the nature, location and size of the improvement works and the significance of their effect on the environment.
+
+(3) In this regulation, the “relevant authority” means—
+
+- (a) in respect of a determination under regulation 12A(3)(a), the drainage body;
+- (b) in respect of a determination under regulation 12C(2)(a), the appropriate Authority.
+
+## 12E. Duty to maintain a record of information
+
+(1) The drainage body must maintain a record of, and make available to the public on request, the information referred to in paragraph (2) in respect of any determination under regulation 12A(3) or 12C(2).
+
+(2) The information is—
+
+- (a) the content of the determination and any conditions attached to it;
+- (b) the main reasons and considerations on which the determination is based, including information about representations received in the course of the public participation process; and
+- (c) any features of the improvement works or measures to avoid, prevent, reduce or offset any likely significant effects of the improvement works on the environment.
+
+## 13. Charges[^key-b73bb9f0c3f7774aa2d5002afad33897]
+
+(1) A reasonable charge reflecting printing and distribution costs may be made to–
+
+- (a) a consultation body for any copy of the whole or part of–
+  - (i) an environmental statement provided in addition to the copy supplied in accordance with regulation 10(4); or
+  - (ii) further information provided in addition to the copy supplied in accordance with regulation 12B(6)(d)[^key-0322b45fdbd990b5805e8225172b9939] or regulation 13A[^key-5b1429604c8096adac5a0565b16df691]; and
+- (b) any other person for a copy of the whole or part of–
+  - (i) an environmental statement provided in accordance with regulation 10(5); or
+  - (ii) further information provided in accordance with regulation 12B(6)(e)[^key-4be71385c90fc46761e14aa93e559ab6] or regulation 13A[^key-0ab4108164c04a0d043bccbb64351afe].
+
+(2) Regulation 9(1) shall not prevent an authority imposing a reasonable charge for the identification, preparation and copying of any information or making the payment of such a charge a condition of providing the information.
+
+## 13A. Public participation[^key-ddb6e7b0d9b0c8197b882751ac50c126]
+
+(1) The drainage body shall make available to the public —
+
+- (a) at the time that the notice under regulation 5(1) is published, all relevant information that is relevant to the improvement works;
+- (b) any further information which is relevant to the determination under regulation 12C(2)[^key-4de24f7bad758f0c04b374e2b61d1578] above, and which only becomes available after the time that the public was given notice in accordance with regulation 5(1)(d), whether as a result of a request from the appropriate Authority under regulation 5(6) above or otherwise; and
+- (c) any further information which is relevant to the conclusion reached under regulation 12(2)[^key-f562bc92e4880aa9b0fd59c208e47a83] above, and which becomes available after the time that the public notice was published in accordance with regulation 6(2) above.
+
+## 13B. Notices on the site of the proposed improvement works[^key-12dd8c5d7f65af0e400054f320bbc9d3]
+
+(1) Where the site of the proposed improvement works is easily visible from a public highway, the requirements in regulations 5(1), 6(2), 10(1) to 10(3), 12A(6), 12B(6) and 12C(7)[^key-e47ffccbdee2c5d8a92284e8804177be] to place a notice in at least two newspapers may instead be satisfied by—
+
+- (a) placing the notice in one such newspaper; and
+- (b) on the date on which that notice is first published, posting on the site in one or more places a notice containing the information specified in the regulation in question.
+
+(2) Any notice of the kind referred to in paragraph (1)(b) shall—
+
+- (a) in relation to the information specified in regulation 5(1)(d), 10(2)(b) or 12B(6)[^key-bfdacf4a937883c9c300961785b4ae2f], specify as the period within which representations may be made the period of not less than 30[^key-616a122a4d60f06583179869ee883ea4] days from the date on which the notice is first posted;
+- (b) be left in position for not less than seven consecutive days following the date on which the notice is first posted; and
+- (c) be affixed firmly to some object on the site in such a way as to be easily visible to, and readable by, members of the public without going on to the land.
+
+(3) Where the requirements in regulation 5(1), 6(2), 10(1) to 10(3), 12A(6), 12B(6) or 12C(7)[^key-0c78b8e547c19597e39e64136a37ee11] as regards the placing of a notice in at least two newspapers are satisfied by the alternative means specified in paragraph (1), any reference in these Regulations—
+
+- (a) to a notice, being a notice published under or in accordance with any of those regulations, means the notice published under or in accordance with regulation 13B(1)(a); and
+- (b) to publication of such a notice (however expressed) is a reference to publication of the notice under or in accordance with regulation 13B(1)(a).
+
+## 14. Enforcement[^key-f0974ca17aad30d28c1aab83d039bfd9]
+
+(1) If a drainage body carries out improvement works–
+
+- (a) without complying with the requirements of these Regulations; or
+- (b) without the consent of the appropriate Authority under regulation 12C(2)[^key-fa898a65beac93e0695bb14b14023813] where a proposal is referred to that Authority under regulation 12B(2)[^key-17e26e3c21385c247b9653e115654b74], or in breach of a condition to which such consent is subject,
+
+the appropriate Authority may apply to the Court for any of the following orders–
+
+- (i) that the drainage body shall not proceed further with the improvement works;
+- (ii) that the drainage body shall remove any work carried out;
+- (iii) that the drainage body shall reinstate the site in accordance with the reasonable requirements of the appropriate Authority.
+
+(2) An order made under paragraph 1(ii) or (iii) above may provide that, if the drainage body fails to comply with the order within a specified period, the appropriate Authority may remove any work carried out and reinstate the site and may recover the reasonable costs and expenses of doing so from the drainage body as a debt due from that body.
+
+(3) In this regulation, “the Court” means the County Court for the district in which improvement works are being carried out or the High Court.
+
+## 15. Revocations, savings and amendments[^key-c24c9ff58f370976626289eefd2ac60d]
+
+(1) Subject to paragraph (2) below, the Land Drainage Improvement Works (Assessment of Environmental Effects) Regulations 1988[^f00012] and the Land Drainage Improvement Works (Assessment of Environmental Effects) (Amendment) Regulations 1995[^f00013] are hereby revoked.
+
+(2) Nothing in paragraph (1) above shall affect the continued application of the Land Drainage Improvement Works (Assessment of Environmental Effects) Regulations 1988[^f00014] (hereinafter called “the 1988 Regulations ”) to any proposed improvement works in respect of which, before the date of coming into force of these Regulations, a drainage body–
+
+- (a) under paragraph (2) of regulation 3 of the 1988 Regulations, have considered whether those works are likely to have significant effects on the environment; and
+- (b) under paragraph (3) or (4) of that regulation, have published a notice of their intention to prepare or not to prepare an environmental statement, as the case may be.
+
+(3) In article 3(12)(b) of the Town and Country Planning (General Permitted Development) Order 1995[^f00015] for the words “the Land Drainage Improvement Works (Assessment of Environmental Effects) Regulations 1988” there shall be substituted the words “the Environmental Impact Assessment (Land Drainage Improvement Works) Regulations 1999”.
+
+Elliot Morley
+
+Parliamentary Secretary, Ministry of Agriculture, Fisheries and Food
+
+22nd June 1999
+
+Signed by the authority of the Secretary of State for Wales
+
+Jon Owen Jones
+
+Parliamentary Under-Secretary of State, Welsh Office
+
+22nd June 1999
+
+## SCHEDULE 1 — Information in environmental statement[^key-5f30d80bbde92d5139b8b743de6a1751]
+
+Regulation 7(2)(f)
+
+**1.** A description of the improvement works, including in particular—
+
+- (a) a description of the location of the improvement works;
+- (b) a description of the physical characteristics of the whole of the improvement works, including, where relevant, requisite demolition works, and the land-use requirements during the construction and operational phases;
+- (c) a description of the main characteristics of the operational phase of the improvement works (in particular any production process), for instance, energy demand and energy used, nature and quantity of the materials and natural resources (including water, land, soil and biodiversity) used;
+- (d) an estimate, by type and quantity, of expected residues and emissions (such as water, air, soil and subsoil pollution, noise, vibration, light, heat, radiation) and quantities and types of waste produced during the construction and operation phases.
+
+**2.** A description of the reasonable alternatives (for example in terms of project design, technology, location, size and scale) studied by the drainage body, which are relevant to the proposed improvement works and their specific characteristics, and an indication of the main reasons for selecting the chosen option, including a comparison of the environmental effects.
+
+**3.** A description of the relevant aspects of the current state of the environment (baseline scenario) and an outline of the likely evolution thereof without implementation of the improvement works as far as natural changes from the baseline scenario can be assessed with reasonable effort on the basis of the availability of environmental information and scientific knowledge.
+
+**4.** A description of the factors specified in regulation 12(2) likely to be significantly affected by the improvement works: population, human health, biodiversity (for example fauna and flora), land (for example land take), soil (for example organic matter, erosion, compaction, sealing), water (for example hydromorphological changes, quantity and quality), air, climate (for example greenhouse gas emissions, impacts relevant to adaptation), material assets, cultural heritage, including architectural and archaeological aspects, and landscape.
+
+**5.** A description of the likely significant effects of the improvement works on the environment resulting from, among other things—
+
+- (a) the construction and existence of the improvement works, including, where relevant, demolition works;
+- (b) the use of natural resources, in particular land, soil, water and biodiversity, considering as far as possible the sustainable availability of these resources;
+- (c) the emission of pollutants, noise, vibration, light, heat and radiation, the creation of nuisances, and the disposal and recovery of waste;
+- (d) the risks to human health, cultural heritage or the environment (for example due to accidents or disasters);
+- (e) the cumulation of effects with other existing or approved improvement works or projects, taking into account any existing environmental problems relating to areas of particular environmental importance likely to be affected or the use of natural resources;
+- (f) the impact of the improvement works on climate (for example the nature and magnitude of greenhouse gas emissions) and the vulnerability of the improvement works to climate change;
+- (g) the technologies and the substances used.
+
+**6.** The description referred to in paragraph 4 of the likely significant effects on the factors specified in regulation 12(2) must cover the direct effects and any indirect, secondary, cumulative, transboundary, short-term, medium-term and long-term, permanent and temporary, positive and negative effects of the improvement works. That description must take into account the environmental protection objectives in[^M_F_08f6345a-abd1-4a11-c8e1-59f84fe46f8f] assimilated[^key-7dc7aa415c9ecdbf2f5140ff1e600d6e] law or under the law of any part of the United Kingdom which are relevant to the improvement works.
+
+**7.** A description of the forecasting methods or evidence, used to identify and assess the significant effects on the environment, including details of difficulties (for example technical deficiencies or lack of knowledge) encountered in compiling the required information and the main uncertainties involved.
+
+**8.** A description of the measures envisaged to avoid, prevent, reduce or offset any identified significant adverse effects on the environment and, where appropriate, of any proposed monitoring arrangements (for example the preparation of a post-works analysis). That description must explain the extent, to which significant adverse effects on the environment are avoided, prevented, reduced or offset, and must cover both the construction and operational phases.
+
+**9.** A description of the expected significant adverse effects of the improvement works on the environment deriving from the vulnerability of the improvement works to risks of major accidents or disasters which are relevant to the improvement works. Relevant information available and obtained through risk assessments pursuant to assimilated[^key-9a2f9d6df13f302ab99dfc4b75dbdc1c][^key-c1afefa61ffbaf6cfe667cc4e4057a21] law such as any law that implemented Directive 2012/18/EU of the European Parliament and of the Council on the control of major-accident hazards involving dangerous substances, amending and subsequently repealing Council Directive [96/82/EC](https://www.legislation.gov.uk/european/directive/1996/0082) or Council Directive 2009/71/Euratom establishing a Community framework for the nuclear safety of nuclear installations or UK environmental assessments may be used for this purpose provided that the requirements of any law that implemented[^key-638dcfbbcf00ef63f41bc0d390cdbef8] the EIA Directive are met. Where appropriate, the description must include measures envisaged to prevent or mitigate the significant adverse effects of such events on the environment and details of the preparedness for and proposed response to such emergencies.
+
+**10.** A non-technical summary of the information provided under paragraphs 1 to 9.
+
+**11.** A reference list detailing the sources used for the descriptions and assessments included in the statement.
+
+## SCHEDULE 2 — Improvement works having a significant effect on the environment: selection criteria[^key-32eeee9b5c50f04df109dc06ae3e49c3]
+
+Regulations 4 to 6
+
+### 1. Characteristics of improvement works
+
+The characteristics of improvement works must be considered, with particular regard to—
+
+- (a) the size and design of the whole improvement works;
+- (b) cumulation with other existing or approved projects;
+- (c) the use of natural resources, in particular land, soil, water and biodiversity;
+- (d) the production of waste;
+- (e) pollution and nuisances;
+- (f) the risk of major accidents or disasters which are relevant to the improvement works, including those caused by climate change, in accordance with scientific knowledge;
+- (g) the risks to human health (for example due to water contamination or air pollution).
+
+### 2. Location of improvement works
+
+The environmental sensitivity of geographical areas likely to be affected by improvement works must be considered, with particular regard to—
+
+- (a) the existing and approved land use;
+- (b) the relative abundance, availability, quality and regenerative capacity of natural resources (including soil, land, water and biodiversity) in the area and its underground;
+- (c) the absorption capacity of the natural environment, paying particular attention to the following areas—
+  - (i) wetlands, riparian areas, river mouths;
+  - (ii) coastal zones and the marine environment;
+  - (iii) mountain and forest areas;
+  - (iv) nature reserves and parks;
+  - (v) areas classified or protected under national legislation and Natura 2000 areas designated by member States pursuant to the Habitats Directive and the Wild Birds Directive;
+  - (vi) areas in which there has already been a failure to meet the environmental quality standards, laid down in EU legislation as it applied in the United Kingdom immediately prior to exit day, or in[^key-ce1a91d117f2b7858997800baf2b1445] assimilated[^key-0e5b41c6b9ef92ef40117206ebb6d63e] law and relevant to the improvement works, or in which it is considered that there is such a failure;
+  - (vii) densely populated areas;
+  - (viii) landscapes and sites of historical, cultural or archaeological significance.
+
+### 3. Type and characteristics of the potential impact
+
+The likely significant effects of improvement works on the environment must be considered in relation to criteria set out in paragraphs 1 and 2 of this Schedule, with regard to the impact of the improvement works on the factors specified in regulation 12(2), taking into account—
+
+- (a) the magnitude and spatial extent of the impact (for example geographical area and size of the population likely to be affected);
+- (b) the nature of the impact;
+- (c) the transboundary nature of the impact;
+- (d) the intensity and complexity of the impact;
+- (e) the probability of the impact;
+- (f) the expected onset, duration, frequency and reversibility of the impact;
+- (g) the cumulation of the impact with the impact of other existing or approved projects;
+- (h) the possibility of effectively reducing the impact.
+
+## SCHEDULE 2A — Information to be taken into account in deciding whether improvement works are likely to have significant effect on environment[^key-96f0e6cfa410c021ecd5191b977c6305]
+
+Regulation 5(5A)(a)
+
+**1.** A description of the improvement works, including in particular—
+
+- (a) a description of the physical characteristics of the whole improvement works and, where relevant, of demolition works;
+- (b) a description of the location of the improvement works, with particular regard to the environmental sensitivity of geographical areas likely to be affected.
+
+**2.** A description of the aspects of the environment likely to be significantly affected by the improvement works.
+
+**3.** A description of any likely significant effects, to the extent that the information is available on such effects, of the improvement works on the environment resulting from—
+
+- (a) the expected residues and emissions and the production of waste, where relevant;
+- (b) the use of natural resources, in particular soil, land, water and biodiversity.
+
+**4.** The criteria in Schedule 2 must be taken into account, where relevant, when compiling the information in accordance with paragraphs 1 to 3.
+
+## SCHEDULE 3 — INFORMATION FOR OTHER EEA STATES[^key-e0904b5c56b1a85fe4251f6c71cc15a2]
+
+**No longer in force.**
+
+Regulation 11
+
+**1.** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**2.** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**3.** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**4.** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**5.** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**6.** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**7.** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 4 — ENVIRONMENTAL FACTORS[^key-bd6c53fbfd8624188daa4444ce940a2b]
+
+**No longer in force.**
+
+Regulation 12
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(This note is not part of the Regulations)
+
+These Regulations, which replace the Land Drainage Improvement Works (Assessment of Environmental Effects) Regulations 1988 (as amended), implement in part Council Directive [85/337/EEC](https://www.legislation.gov.uk/european/directive/1985/0337) on the assessment of the effects of certain public and private projects on the environment (O.J. No. L175, 5.7.85, p. 40), following its amendment by Council Directive [97/11/EC](https://www.legislation.gov.uk/european/directive/1997/0011) (O.J. No. L73, 14.3.97, p. 5).
+
+Directives [85/337/EEC](https://www.legislation.gov.uk/european/directive/1985/0337) and [97/11/EC](https://www.legislation.gov.uk/european/directive/1997/0011) were respectively extended to the Contracting Parties of the European Economic Area (EEA) by Article 74 and Annex XX paragraph I.1 of the Agreement on the European Economic Area and by Decision No. 20/1999 of the EEA Joint Committee adopted on 26th February 1999 (not yet published).
+
+The Regulations apply to specified land drainage projects in England and Wales (“improvement works”) for which the Town and Country Planning (General Permitted Development) Order 1995 (S.I. [1995/418](https://www.legislation.gov.uk/uksi/1995/418)) grants planning permission without any requirement for an application to be made under Part III of the Town and Country Planning Act 1990. The Regulations prohibit drainage bodies from carrying out improvement works unless specified conditions are met. First, the requirements of the Regulations must have been complied with, including the preparation of an “environmental statement” for the purposes of assessing improvement works which are likely to have significant effects on the environment. Secondly, in specified cases, the “appropriate Authority” (that is, in relation to England, the Minister of Agriculture, Fisheries and Food and, in relation to Wales, the National Assembly for Wales) must have given consent and the works must have been carried out in accordance with any conditions to which the consent is subject (regulations 2 and 3).
+
+The principal requirements of the Regulations are as follows:–
+
+- (a) drainage bodies must determine whether improvement works are likely to have significant effects on the environment (regulation 4 and Schedule 2);
+- (b) where a drainage body consider improvement works are unlikely to have such effects, they must publicise their intention to carry out the works. If no representations are received to the effect that the environmental effects are likely to be significant, they may proceed. If the drainage body conclude that the works are likely to have significant effects on the environment, they must publicise their determination as described in (c) below. If representations are received to the effect that the environmental effects are likely to be significant but the drainage body still consider otherwise, they must apply to the appropriate Authority for a determination (regulation 5 and Schedule 2);
+- (c) where improvement works are determined to be likely to have significant effects on the environment, the drainage body must publicise their intention to prepare an environmental statement, notify specified consultation bodies and prepare the statement (regulations 6 and 7);
+- (d) at the request of the drainage body, the appropriate Authority must give an opinion on the contents of the environmental statement (regulation 8) and other authorities must make available any relevant information (regulation 9);
+- (e) a drainage body must publicise the preparation of an environmental statement, make it available to the public and copy it to consultation bodies, to allow an opportunity for representations (regulation 10);
+- (f) where improvement works would be likely to have significant effects on the environment of another EEA State, the appropriate Authority must provide information to and consult that State (regulation 11 and Schedule 3);
+- (g) the environmental effects of the improvement works must be assessed in the light, in particular, of the environmental statement and representations. If there are no objections, the drainage body may determine that they will proceed with the works. If there are objections, the proposal must be referred to the appropriate Authority for a determination consenting or refusing consent to the works. Determinations must be publicised (regulation 12 and Schedule 4).
+
+The Regulations also provide for reasonable charges for copy documents, for enforcement and for revocations, savings and amendments (regulations 13, 14 and 15).
+
+## Annotations
+
+[^f00001]: Footnote: S.I. [1988/785](https://www.legislation.gov.uk/uksi/1988/785).
+
+[^f00002]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68). The enabling powers conferred by section 2(2) were extended by virtue of the amendment of section 1(2) of the European Communities Act 1972 by section 1 of the European Economic Area Act [1993 (c. 51)](https://www.legislation.gov.uk/ukpga/1993/51).
+
+[^key-2c191c6bbb51d19a0054ba71f8e8cdf5]: Modification: Regulations applied (1.3.2012) by [The Water Resources (Environmental Impact Assessment) (England and Wales) Regulations 2003 (S.I. 2003/164)](https://www.legislation.gov.uk/uksi/2003/164), [reg. 3(3)(b)](https://www.legislation.gov.uk/uksi/2003/164/regulation/3/3/b)
+
+[^key-905a429416e5ad9fc1ad327525787696]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/1999/1783): power to amend or revoke conferred (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 164(3)](https://www.legislation.gov.uk/ukpga/2023/55/section/164/3), [255(5)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/5), [Sch. 14 Pt. 1](https://www.legislation.gov.uk/ukpga/2023/55/schedule/14/part/1) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
+
+[^key-5d5165e20cd298ad6ed47b9e532509e0]: Commencement: Reg. 1 in force at 21.7.1999, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/1783/regulation/1/1)
+
+[^key-1a45281ba939f3cdb6bf85ddb17f2bfb]: Commencement: Reg. 2 in force at 21.7.1999, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/1783/regulation/1/1)
+
+[^key-3d711c6ab3529bc30cff6286410037fd]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1999/1783/regulation/2/1) substituted (16.5.2017) by [The Environmental Impact Assessment (Land Drainage Improvement Works) (Amendment) Regulations 2017 (S.I. 2017/585)](https://www.legislation.gov.uk/uksi/2017/585), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/585/regulation/1/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2017/585/regulation/3/2/b) (with [reg. 22](https://www.legislation.gov.uk/uksi/2017/585/regulation/22))
+
+[^key-f1ef183daf1dac808d3883003e08a428]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1999/1783/regulation/2/1) substituted (16.5.2017) by virtue of [The Environmental Impact Assessment (Land Drainage Improvement Works) (Amendment) Regulations 2017 (S.I. 2017/585)](https://www.legislation.gov.uk/uksi/2017/585), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/585/regulation/1/1), [3(2)(c)(i)](https://www.legislation.gov.uk/uksi/2017/585/regulation/3/2/c/i) (with [reg. 22](https://www.legislation.gov.uk/uksi/2017/585/regulation/22))
+
+[^key-9bd3666ce277ce85affbbaca75dc590c]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1999/1783/regulation/2/1) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 94(2)](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/94/2) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+
+[^key-f9e70130f35f3045fe435d4c8142afce]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/1999/1783/regulation/2) inserted (25.6.2005) by [The Environmental Impact Assessment (Land Drainage Improvement Works) (Amendment) Regulations 2005 (S.I. 2005/1399)](https://www.legislation.gov.uk/uksi/2005/1399), [regs. 1](https://www.legislation.gov.uk/uksi/2005/1399/regulation/1), [5(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2005/1399/regulation/5/2/a/ii)
+
+[^key-092112ca9b36551eb2847de4c0ea4a95]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1999/1783/regulation/2/1) substituted (16.5.2017) by [The Environmental Impact Assessment (Land Drainage Improvement Works) (Amendment) Regulations 2017 (S.I. 2017/585)](https://www.legislation.gov.uk/uksi/2017/585), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/585/regulation/1/1), [3(2)(c)(ii)](https://www.legislation.gov.uk/uksi/2017/585/regulation/3/2/c/ii) (with [reg. 22](https://www.legislation.gov.uk/uksi/2017/585/regulation/22))
+
+[^key-008d494df66ab94a23098dd63753e2f3]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1999/1783/regulation/2/1) inserted (16.5.2017) by [The Environmental Impact Assessment (Land Drainage Improvement Works) (Amendment) Regulations 2017 (S.I. 2017/585)](https://www.legislation.gov.uk/uksi/2017/585), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/585/regulation/1/1), [3(2)(c)(iii)](https://www.legislation.gov.uk/uksi/2017/585/regulation/3/2/c/iii) (with [reg. 22](https://www.legislation.gov.uk/uksi/2017/585/regulation/22))
+
+[^key-4c3957a70b2a40793169ffe7905c9170]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1999/1783/regulation/2/1) substituted (16.5.2017) by [The Environmental Impact Assessment (Land Drainage Improvement Works) (Amendment) Regulations 2017 (S.I. 2017/585)](https://www.legislation.gov.uk/uksi/2017/585), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/585/regulation/1/1), [3(2)(d)](https://www.legislation.gov.uk/uksi/2017/585/regulation/3/2/d) (with [reg. 22](https://www.legislation.gov.uk/uksi/2017/585/regulation/22))
+
+[^f00008]: Footnote: See section 1(1) of the Environment Act [1995 (c. 25)](https://www.legislation.gov.uk/ukpga/1995/25).
+
+[^key-701e9d385775e8bbbdfe30bc0c6e7803]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1999/1783/regulation/2/1) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 94(3)](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/94/2) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+
+[^key-a43fa2d0d4a8224f845dd5d033c51471]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1999/1783/regulation/2/1) omitted (16.5.2017) by virtue of [The Environmental Impact Assessment (Land Drainage Improvement Works) (Amendment) Regulations 2017 (S.I. 2017/585)](https://www.legislation.gov.uk/uksi/2017/585), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/585/regulation/1/1), [3(2)(e)](https://www.legislation.gov.uk/uksi/2017/585/regulation/3/2/e) (with [reg. 22](https://www.legislation.gov.uk/uksi/2017/585/regulation/22))
+
+[^key-eed0aae80140ff028a93fd2c1fba9f5c]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1999/1783/regulation/2/1) inserted (16.5.2017) by [The Environmental Impact Assessment (Land Drainage Improvement Works) (Amendment) Regulations 2017 (S.I. 2017/585)](https://www.legislation.gov.uk/uksi/2017/585), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/585/regulation/1/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2017/585/regulation/3/2/a) (with [reg. 22](https://www.legislation.gov.uk/uksi/2017/585/regulation/22))
+
+[^key-21bd615eb1e89a85baacdabcccbbfddb]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1999/1783/regulation/2/1) substituted (16.5.2017) by [The Environmental Impact Assessment (Land Drainage Improvement Works) (Amendment) Regulations 2017 (S.I. 2017/585)](https://www.legislation.gov.uk/uksi/2017/585), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/585/regulation/1/1), [3(2)(f)](https://www.legislation.gov.uk/uksi/2017/585/regulation/3/2/f) (with [reg. 22](https://www.legislation.gov.uk/uksi/2017/585/regulation/22))
+
+[^key-7fdc6032cdb31f48f25a92f7eef6985c]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1999/1783/regulation/2/1) substituted (31.12.2020) by [The Environment, Food and Rural Affairs (Environmental Impact Assessment) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/25)](https://www.legislation.gov.uk/uksi/2019/25), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/25/regulation/1/1), [2(2)(a)(i)](https://www.legislation.gov.uk/uksi/2019/25/regulation/2/2/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-1c89491ceab96364358726a4b7c07fa1]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1999/1783/regulation/2/1) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 2(a)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/2/a)
+
+[^key-90ac08db154f68817337dbf5631a3339]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1999/1783/regulation/2/1) substituted (16.5.2017) by [The Environmental Impact Assessment (Land Drainage Improvement Works) (Amendment) Regulations 2017 (S.I. 2017/585)](https://www.legislation.gov.uk/uksi/2017/585), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/585/regulation/1/1), [3(2)(g)](https://www.legislation.gov.uk/uksi/2017/585/regulation/3/2/g) (with [reg. 22](https://www.legislation.gov.uk/uksi/2017/585/regulation/22))
+
+[^key-957e7e905223672a17f58c9587728d5c]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1999/1783/regulation/2/1) inserted (31.12.2020) by [The Environment, Food and Rural Affairs (Environmental Impact Assessment) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/25)](https://www.legislation.gov.uk/uksi/2019/25), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/25/regulation/1/1), [2(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/25/regulation/2/2/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^M_F_a51bd875-346e-4194-8130-d418b1c088b0]: Textual amendment: Words in reg. 2(1) inserted (16.5.2017) by [The Environmental Impact Assessment (Land Drainage Improvement Works) (Amendment) Regulations 2017 (S.I. 2017/585)](https://www.legislation.gov.uk/uksi/2017/585), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/585/regulation/1/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2017/585/regulation/3/2/a) (with [reg. 22](https://www.legislation.gov.uk/uksi/2017/585/regulation/22))
+
+[^f00010]: Footnote: [1991 c. 56](https://www.legislation.gov.uk/ukpga/1991/56).
+
+[^key-4083d8e20f71e314b0736911bc519763]: Textual amendment: [Reg. 2(2)](https://www.legislation.gov.uk/uksi/1999/1783/regulation/2/2) omitted (31.12.2020) by virtue of [The Environment, Food and Rural Affairs (Environmental Impact Assessment) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/25)](https://www.legislation.gov.uk/uksi/2019/25), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/25/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2019/25/regulation/2/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-606f0b16c7d006722277e83f1b83132c]: Textual amendment: [Reg. 2(4)](https://www.legislation.gov.uk/uksi/1999/1783/regulation/2/4)[(5)](https://www.legislation.gov.uk/uksi/1999/1783/regulation/2/5) inserted (16.5.2017) by [The Environmental Impact Assessment (Land Drainage Improvement Works) (Amendment) Regulations 2017 (S.I. 2017/585)](https://www.legislation.gov.uk/uksi/2017/585), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/585/regulation/1/1), [3(4)](https://www.legislation.gov.uk/uksi/2017/585/regulation/3/4) (with [reg. 22](https://www.legislation.gov.uk/uksi/2017/585/regulation/22))
+
+[^key-41961dacfe82f82b075ad36c339248fe]: Commencement: Reg. 3 in force at 21.7.1999, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/1783/regulation/1/1)
+
+[^key-cb8e6c237e15a238537a0be56313c550]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/1999/1783/regulation/3/1) substituted (16.5.2017) by [The Environmental Impact Assessment (Land Drainage Improvement Works) (Amendment) Regulations 2017 (S.I. 2017/585)](https://www.legislation.gov.uk/uksi/2017/585), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/585/regulation/1/1), [4(2)(a)](https://www.legislation.gov.uk/uksi/2017/585/regulation/4/2/a) (with [reg. 22](https://www.legislation.gov.uk/uksi/2017/585/regulation/22))
+
+[^key-2f71d36f421509f02e3e3b001e6f7a97]: Textual amendment: Word in [reg. 3(1)(b)](https://www.legislation.gov.uk/uksi/1999/1783/regulation/3/1/b) substituted (16.5.2017) by [The Environmental Impact Assessment (Land Drainage Improvement Works) (Amendment) Regulations 2017 (S.I. 2017/585)](https://www.legislation.gov.uk/uksi/2017/585), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/585/regulation/1/1), [4(2)(b)](https://www.legislation.gov.uk/uksi/2017/585/regulation/4/2/b) (with [reg. 22](https://www.legislation.gov.uk/uksi/2017/585/regulation/22))
+
+[^key-5bb78f1a4189b8ade974ea40df0b210a]: Textual amendment: [Reg. 3(2)-(4)](https://www.legislation.gov.uk/uksi/1999/1783/regulation/3/2) omitted (16.5.2017) by virtue of [The Environmental Impact Assessment (Land Drainage Improvement Works) (Amendment) Regulations 2017 (S.I. 2017/585)](https://www.legislation.gov.uk/uksi/2017/585), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/585/regulation/1/1), [4(3)](https://www.legislation.gov.uk/uksi/2017/585/regulation/4/3) (with [reg. 22](https://www.legislation.gov.uk/uksi/2017/585/regulation/22))
+
+[^key-aa9639ffecf22cd04bb172fb024caf9e]: Textual amendment: [Regs. 3A-3C](https://www.legislation.gov.uk/uksi/1999/1783/regulation/3A) inserted (16.5.2017) by [The Environmental Impact Assessment (Land Drainage Improvement Works) (Amendment) Regulations 2017 (S.I. 2017/585)](https://www.legislation.gov.uk/uksi/2017/585), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/585/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2017/585/regulation/5) (with [reg. 22](https://www.legislation.gov.uk/uksi/2017/585/regulation/22))
+
+[^key-845904d595483d2f6177a3ab47e19b4f]: Textual amendment: Words in [reg. 3C](https://www.legislation.gov.uk/uksi/1999/1783/regulation/3C) substituted (30.11.2017) by [The Conservation of Habitats and Species Regulations 2017 (S.I. 2017/1012)](https://www.legislation.gov.uk/uksi/2017/1012), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/1/2), [Sch. 6 para. 10](https://www.legislation.gov.uk/uksi/2017/1012/schedule/6/paragraph/10)
+
+[^key-1afd912cc019b88091d416e7c2f4b8d2]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/1999/1783/regulation/4) substituted (16.5.2017) by [The Environmental Impact Assessment (Land Drainage Improvement Works) (Amendment) Regulations 2017 (S.I. 2017/585)](https://www.legislation.gov.uk/uksi/2017/585), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/585/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2017/585/regulation/6) (with [reg. 22](https://www.legislation.gov.uk/uksi/2017/585/regulation/22))
+
+[^key-fbae971e3e0b64ce3de7223645337f8b]: Commencement: Reg. 5 in force at 21.7.1999, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/1783/regulation/1/1)
+
+[^key-4e51ee48c37bd8035007c4a8f2ba9235]: Textual amendment: Words in [reg. 5(1)](https://www.legislation.gov.uk/uksi/1999/1783/regulation/5/1) substituted (25.6.2005) by [The Environmental Impact Assessment (Land Drainage Improvement Works) (Amendment) Regulations 2005 (S.I. 2005/1399)](https://www.legislation.gov.uk/uksi/2005/1399), [regs. 1](https://www.legislation.gov.uk/uksi/2005/1399/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/2005/1399/regulation/4/2)
+
+[^key-76027d602b11ab6502ee600d96817a6b]: Textual amendment: Word in [reg. 5(1)(c)](https://www.legislation.gov.uk/uksi/1999/1783/regulation/5/1/c) deleted (25.6.2005) by [The Environmental Impact Assessment (Land Drainage Improvement Works) (Amendment) Regulations 2005 (S.I. 2005/1399)](https://www.legislation.gov.uk/uksi/2005/1399), [regs. 1](https://www.legislation.gov.uk/uksi/2005/1399/regulation/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2005/1399/regulation/3/2/a)
+
+[^key-c3c1576b2c75886a83b3d550fe9c86c3]: Textual amendment: [Reg. 5(1)(ca)](https://www.legislation.gov.uk/uksi/1999/1783/regulation/5/1/ca)[(cb)](https://www.legislation.gov.uk/uksi/1999/1783/regulation/5/1/cb) inserted (16.5.2017) by [The Environmental Impact Assessment (Land Drainage Improvement Works) (Amendment) Regulations 2017 (S.I. 2017/585)](https://www.legislation.gov.uk/uksi/2017/585), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/585/regulation/1/1), [7(2)](https://www.legislation.gov.uk/uksi/2017/585/regulation/7/2) (with [reg. 22](https://www.legislation.gov.uk/uksi/2017/585/regulation/22))
+
+[^key-b50303001ceece74e0395aa84d1f020c]: Textual amendment: Word in [reg. 5(1)(d)](https://www.legislation.gov.uk/uksi/1999/1783/regulation/5/1/d) substituted (16.5.2017) by [The Environmental Impact Assessment (Land Drainage Improvement Works) (Amendment) Regulations 2017 (S.I. 2017/585)](https://www.legislation.gov.uk/uksi/2017/585), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/585/regulation/1/1), [7(3)](https://www.legislation.gov.uk/uksi/2017/585/regulation/7/3) (with [reg. 22](https://www.legislation.gov.uk/uksi/2017/585/regulation/22))
+
+[^key-29547b4756d7a1ed7005f9f2ea4af9bb]: Textual amendment: Word in [reg. 5(1)(d)](https://www.legislation.gov.uk/uksi/1999/1783/regulation/5/1/d) inserted (25.6.2005) by [The Environmental Impact Assessment (Land Drainage Improvement Works) (Amendment) Regulations 2005 (S.I. 2005/1399)](https://www.legislation.gov.uk/uksi/2005/1399), [regs. 1](https://www.legislation.gov.uk/uksi/2005/1399/regulation/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2005/1399/regulation/3/2/b)
+
+[^key-4e845a57d5ba3759e8cf97175a0a538e]: Textual amendment: [Reg. 5(1)(e)](https://www.legislation.gov.uk/uksi/1999/1783/regulation/5/1/e) inserted (25.6.2005) by [The Environmental Impact Assessment (Land Drainage Improvement Works) (Amendment) Regulations 2005 (S.I. 2005/1399)](https://www.legislation.gov.uk/uksi/2005/1399), [regs. 1](https://www.legislation.gov.uk/uksi/2005/1399/regulation/1), [3(2)(c)](https://www.legislation.gov.uk/uksi/2005/1399/regulation/3/2/c)
+
+[^key-87280867a1faaa055d8527e5bbb414dc]: Textual amendment: Words in [reg. 5(3)-(5)](https://www.legislation.gov.uk/uksi/1999/1783/regulation/5/3) deleted (30.3.2006) by [The Environmental Impact Assessment (Land Drainage Improvement Works) (Amendment) Regulations 2006 (S.I. 2006/618)](https://www.legislation.gov.uk/uksi/2006/618), [regs. 1](https://www.legislation.gov.uk/uksi/2006/618/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2006/618/regulation/2/2)
+
+[^key-28b0b6d99bc819bd74cf3cf3a0164a6d]: Textual amendment: Words in [reg. 5(5)](https://www.legislation.gov.uk/uksi/1999/1783/regulation/5/5) substituted (16.5.2017) by [The Environmental Impact Assessment (Land Drainage Improvement Works) (Amendment) Regulations 2017 (S.I. 2017/585)](https://www.legislation.gov.uk/uksi/2017/585), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/585/regulation/1/1), [7(4)](https://www.legislation.gov.uk/uksi/2017/585/regulation/7/4) (with [reg. 22](https://www.legislation.gov.uk/uksi/2017/585/regulation/22))
+
+[^key-5eec86a16fb2ad549fe6ef36195429c9]: Textual amendment: [Reg. 5(5A)](https://www.legislation.gov.uk/uksi/1999/1783/regulation/5/5A) inserted (16.5.2017) by [The Environmental Impact Assessment (Land Drainage Improvement Works) (Amendment) Regulations 2017 (S.I. 2017/585)](https://www.legislation.gov.uk/uksi/2017/585), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/585/regulation/1/1), [7(5)](https://www.legislation.gov.uk/uksi/2017/585/regulation/7/5) (with [reg. 22](https://www.legislation.gov.uk/uksi/2017/585/regulation/22))
+
+[^key-3ca064213a4dc25f4b99f246bfb3c964]: Textual amendment: [Reg. 5(7)-(11)](https://www.legislation.gov.uk/uksi/1999/1783/regulation/5/7) substituted for [reg. 5(7)](https://www.legislation.gov.uk/uksi/1999/1783/regulation/5/7) (16.5.2017) by [The Environmental Impact Assessment (Land Drainage Improvement Works) (Amendment) Regulations 2017 (S.I. 2017/585)](https://www.legislation.gov.uk/uksi/2017/585), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/585/regulation/1/1), [7(6)](https://www.legislation.gov.uk/uksi/2017/585/regulation/7/6) (with [reg. 22](https://www.legislation.gov.uk/uksi/2017/585/regulation/22))
+
+[^key-2d803d982af0854b00154bf18ba9fdac]: Commencement: Reg. 6 in force at 21.7.1999, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/1783/regulation/1/1)
+
+[^key-9f1d9265743176920cfa2944e6cd75ab]: Textual amendment: Words in [reg. 6(2)](https://www.legislation.gov.uk/uksi/1999/1783/regulation/6/2) substituted (25.6.2005) by [The Environmental Impact Assessment (Land Drainage Improvement Works) (Amendment) Regulations 2005 (S.I. 2005/1399)](https://www.legislation.gov.uk/uksi/2005/1399), [regs. 1](https://www.legislation.gov.uk/uksi/2005/1399/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/2005/1399/regulation/4/2)
+
+[^key-fc10424800c9d57bc43bd71f803cbaf0]: Textual amendment: Words in [reg. 6(2)(a)](https://www.legislation.gov.uk/uksi/1999/1783/regulation/6/2/a) inserted (25.6.2005) by [The Environmental Impact Assessment (Land Drainage Improvement Works) (Amendment) Regulations 2005 (S.I. 2005/1399)](https://www.legislation.gov.uk/uksi/2005/1399), [regs. 1](https://www.legislation.gov.uk/uksi/2005/1399/regulation/1), [3(3)(a)](https://www.legislation.gov.uk/uksi/2005/1399/regulation/3/3/a)
+
+[^key-ec4108b4236570c83dfaf83d2fa657ee]: Textual amendment: [Reg. 6(2)(b)](https://www.legislation.gov.uk/uksi/1999/1783/regulation/6/2/b) substituted (16.5.2017) by [The Environmental Impact Assessment (Land Drainage Improvement Works) (Amendment) Regulations 2017 (S.I. 2017/585)](https://www.legislation.gov.uk/uksi/2017/585), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/585/regulation/1/1), [8(2)](https://www.legislation.gov.uk/uksi/2017/585/regulation/8/2) (with [reg. 22](https://www.legislation.gov.uk/uksi/2017/585/regulation/22))
+
+[^key-8f04e5f83aedd0369c4eb8ed5230e9ef]: Textual amendment: [Reg. 6(2)(c)-(e)](https://www.legislation.gov.uk/uksi/1999/1783/regulation/6/2/c) inserted (25.6.2005) by [The Environmental Impact Assessment (Land Drainage Improvement Works) (Amendment) Regulations 2005 (S.I. 2005/1399)](https://www.legislation.gov.uk/uksi/2005/1399), [regs. 1](https://www.legislation.gov.uk/uksi/2005/1399/regulation/1), [3(3)(c)](https://www.legislation.gov.uk/uksi/2005/1399/regulation/3/3/c)
+
+[^key-1de79effb462e64b0a4e4cdceb655748]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/uksi/1999/1783/regulation/7) substituted (16.5.2017) by [The Environmental Impact Assessment (Land Drainage Improvement Works) (Amendment) Regulations 2017 (S.I. 2017/585)](https://www.legislation.gov.uk/uksi/2017/585), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/585/regulation/1/1), [9](https://www.legislation.gov.uk/uksi/2017/585/regulation/9) (with [reg. 22](https://www.legislation.gov.uk/uksi/2017/585/regulation/22))
+
+[^key-b35adb1a2733dda90659b62720c838e1]: Commencement: Reg. 8 in force at 21.7.1999, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/1783/regulation/1/1)
+
+[^key-39a45babf75ac3091b1f9e15dfd844c2]: Textual amendment: Words in [reg. 8(1)](https://www.legislation.gov.uk/uksi/1999/1783/regulation/8/1) inserted (16.5.2017) by [The Environmental Impact Assessment (Land Drainage Improvement Works) (Amendment) Regulations 2017 (S.I. 2017/585)](https://www.legislation.gov.uk/uksi/2017/585), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/585/regulation/1/1), [10(2)](https://www.legislation.gov.uk/uksi/2017/585/regulation/10/2) (with [reg. 22](https://www.legislation.gov.uk/uksi/2017/585/regulation/22))
+
+[^key-cefe7a31c41d0b63d89ce60e777a758a]: Textual amendment: [Reg. 8(3A)](https://www.legislation.gov.uk/uksi/1999/1783/regulation/8/3A) inserted (16.5.2017) by [The Environmental Impact Assessment (Land Drainage Improvement Works) (Amendment) Regulations 2017 (S.I. 2017/585)](https://www.legislation.gov.uk/uksi/2017/585), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/585/regulation/1/1), [10(3)](https://www.legislation.gov.uk/uksi/2017/585/regulation/10/3) (with [reg. 22](https://www.legislation.gov.uk/uksi/2017/585/regulation/22))
+
+[^key-f7c4715bd4c68aae4776bd79899a6ada]: Textual amendment: Word in [reg. 8(4)](https://www.legislation.gov.uk/uksi/1999/1783/regulation/8/4) substituted (16.5.2017) by [The Environmental Impact Assessment (Land Drainage Improvement Works) (Amendment) Regulations 2017 (S.I. 2017/585)](https://www.legislation.gov.uk/uksi/2017/585), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/585/regulation/1/1), [10(4)(a)](https://www.legislation.gov.uk/uksi/2017/585/regulation/10/4/a) (with [reg. 22](https://www.legislation.gov.uk/uksi/2017/585/regulation/22))
+
+[^key-e20cf100ea30fd5423d4c7afdc8da44d]: Textual amendment: Word in [reg. 8(4)](https://www.legislation.gov.uk/uksi/1999/1783/regulation/8/4) inserted (16.5.2017) by [The Environmental Impact Assessment (Land Drainage Improvement Works) (Amendment) Regulations 2017 (S.I. 2017/585)](https://www.legislation.gov.uk/uksi/2017/585), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/585/regulation/1/1), [10(4)(b)](https://www.legislation.gov.uk/uksi/2017/585/regulation/10/4/b) (with [reg. 22](https://www.legislation.gov.uk/uksi/2017/585/regulation/22))
+
+[^key-a22204c295be400b3779106ed415381d]: Commencement: Reg. 9 in force at 21.7.1999, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/1783/regulation/1/1)
+
+[^f00011]: Footnote: S.I. [1992/3240](https://www.legislation.gov.uk/uksi/1992/3240), amended by S.I. [1998/1447](https://www.legislation.gov.uk/uksi/1998/1447).
+
+[^key-5c6ef057e6589f1250c676fd20fbfcbc]: Commencement: Reg. 10 in force at 21.7.1999, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/1783/regulation/1/1)
+
+[^key-1f9117beb8b2fc48eae6fe8b41de1785]: Textual amendment: [Reg. 10(1)](https://www.legislation.gov.uk/uksi/1999/1783/regulation/10/1) substituted (16.5.2017) by [The Environmental Impact Assessment (Land Drainage Improvement Works) (Amendment) Regulations 2017 (S.I. 2017/585)](https://www.legislation.gov.uk/uksi/2017/585), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/585/regulation/1/1), [11(2)](https://www.legislation.gov.uk/uksi/2017/585/regulation/11/2) (with [reg. 22](https://www.legislation.gov.uk/uksi/2017/585/regulation/22))
+
+[^key-bb047e2bfbc4caf589ce97de17de13c6]: Textual amendment: [Reg. 10(2)(a)](https://www.legislation.gov.uk/uksi/1999/1783/regulation/10/2/a) substituted (16.5.2017) by [The Environmental Impact Assessment (Land Drainage Improvement Works) (Amendment) Regulations 2017 (S.I. 2017/585)](https://www.legislation.gov.uk/uksi/2017/585), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/585/regulation/1/1), [11(3)](https://www.legislation.gov.uk/uksi/2017/585/regulation/11/3) (with [reg. 22](https://www.legislation.gov.uk/uksi/2017/585/regulation/22))
+
+[^key-6e4ee31bd2477f0e679c155c7d606ed8]: Textual amendment: Word in [reg. 10(2)(b)](https://www.legislation.gov.uk/uksi/1999/1783/regulation/10/2/b) substituted (16.5.2017) by [The Environmental Impact Assessment (Land Drainage Improvement Works) (Amendment) Regulations 2017 (S.I. 2017/585)](https://www.legislation.gov.uk/uksi/2017/585), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/585/regulation/1/1), [11(4)](https://www.legislation.gov.uk/uksi/2017/585/regulation/11/4) (with [reg. 22](https://www.legislation.gov.uk/uksi/2017/585/regulation/22))
+
+[^key-151d72784d57b33bbefdc5a31e78d435]: Textual amendment: Word in [reg. 10(2)(c)](https://www.legislation.gov.uk/uksi/1999/1783/regulation/10/2/c) substituted (16.5.2017) by [The Environmental Impact Assessment (Land Drainage Improvement Works) (Amendment) Regulations 2017 (S.I. 2017/585)](https://www.legislation.gov.uk/uksi/2017/585), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/585/regulation/1/1), [11(5)](https://www.legislation.gov.uk/uksi/2017/585/regulation/11/5) (with [reg. 22](https://www.legislation.gov.uk/uksi/2017/585/regulation/22))
+
+[^key-507de1a2132510d130992043f91c0f62]: Textual amendment: Words in [reg. 10(3)](https://www.legislation.gov.uk/uksi/1999/1783/regulation/10/3) inserted (25.6.2005) by [The Environmental Impact Assessment (Land Drainage Improvement Works) (Amendment) Regulations 2005 (S.I. 2005/1399)](https://www.legislation.gov.uk/uksi/2005/1399), [regs. 1](https://www.legislation.gov.uk/uksi/2005/1399/regulation/1), [4(4)](https://www.legislation.gov.uk/uksi/2005/1399/regulation/4/4)
+
+[^key-fa78eb75ab3dc770f4067e4c9a51df5e]: Textual amendment: [Reg. 11](https://www.legislation.gov.uk/uksi/1999/1783/regulation/11) omitted (16.5.2017) by virtue of [The Environmental Impact Assessment (Land Drainage Improvement Works) (Amendment) Regulations 2017 (S.I. 2017/585)](https://www.legislation.gov.uk/uksi/2017/585), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/585/regulation/1/1), [12](https://www.legislation.gov.uk/uksi/2017/585/regulation/12) (with [reg. 22](https://www.legislation.gov.uk/uksi/2017/585/regulation/22))
+
+[^key-bafa6c9fcc4294f996a1a2ae7d57b6a6]: Textual amendment: [Regs. 12-12E](https://www.legislation.gov.uk/uksi/1999/1783/regulation/12) substituted for [reg. 12](https://www.legislation.gov.uk/uksi/1999/1783/regulation/12) (16.5.2017) by [The Environmental Impact Assessment (Land Drainage Improvement Works) (Amendment) Regulations 2017 (S.I. 2017/585)](https://www.legislation.gov.uk/uksi/2017/585), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/585/regulation/1/1), [13](https://www.legislation.gov.uk/uksi/2017/585/regulation/13) (with [reg. 22](https://www.legislation.gov.uk/uksi/2017/585/regulation/22))
+
+[^key-5523c86e4973356ea123c5fa2973b6a2]: Textual amendment: Words in [reg. 12(2)(b)](https://www.legislation.gov.uk/uksi/1999/1783/regulation/12/2/b) inserted (31.12.2020) by [The Environment, Food and Rural Affairs (Environmental Impact Assessment) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/25)](https://www.legislation.gov.uk/uksi/2019/25), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/25/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2019/25/regulation/2/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-5ee934163ad5a548b7cdfbcffd4fea8f]: Textual amendment: Words in [reg. 12B(4)(b)](https://www.legislation.gov.uk/uksi/1999/1783/regulation/12B/4/b) inserted (31.12.2020) by [The Environment, Food and Rural Affairs (Environmental Impact Assessment) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/25)](https://www.legislation.gov.uk/uksi/2019/25), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/25/regulation/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2019/25/regulation/2/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-b73bb9f0c3f7774aa2d5002afad33897]: Commencement: Reg. 13 in force at 21.7.1999, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/1783/regulation/1/1)
+
+[^key-0322b45fdbd990b5805e8225172b9939]: Textual amendment: Word in [reg. 13(1)(a)](https://www.legislation.gov.uk/uksi/1999/1783/regulation/13/1/a) substituted (16.5.2017) by [The Environmental Impact Assessment (Land Drainage Improvement Works) (Amendment) Regulations 2017 (S.I. 2017/585)](https://www.legislation.gov.uk/uksi/2017/585), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/585/regulation/1/1), [14(2)](https://www.legislation.gov.uk/uksi/2017/585/regulation/14/2) (with [reg. 22](https://www.legislation.gov.uk/uksi/2017/585/regulation/22))
+
+[^key-5b1429604c8096adac5a0565b16df691]: Textual amendment: Words in [reg. 13(1)(a)(ii)](https://www.legislation.gov.uk/uksi/1999/1783/regulation/13/1/a/ii) inserted (25.6.2005) by [The Environmental Impact Assessment (Land Drainage Improvement Works) (Amendment) Regulations 2005 (S.I. 2005/1399)](https://www.legislation.gov.uk/uksi/2005/1399), [regs. 1](https://www.legislation.gov.uk/uksi/2005/1399/regulation/1), [3(5)(a)](https://www.legislation.gov.uk/uksi/2005/1399/regulation/3/5/a)
+
+[^key-4be71385c90fc46761e14aa93e559ab6]: Textual amendment: Word in [reg. 13(1)(b)](https://www.legislation.gov.uk/uksi/1999/1783/regulation/13/1/b) substituted (16.5.2017) by [The Environmental Impact Assessment (Land Drainage Improvement Works) (Amendment) Regulations 2017 (S.I. 2017/585)](https://www.legislation.gov.uk/uksi/2017/585), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/585/regulation/1/1), [14(3)](https://www.legislation.gov.uk/uksi/2017/585/regulation/14/3) (with [reg. 22](https://www.legislation.gov.uk/uksi/2017/585/regulation/22))
+
+[^key-0ab4108164c04a0d043bccbb64351afe]: Textual amendment: Words in [reg. 13(1)(b)(ii)](https://www.legislation.gov.uk/uksi/1999/1783/regulation/13/1/b/ii) inserted (25.6.2005) by [The Environmental Impact Assessment (Land Drainage Improvement Works) (Amendment) Regulations 2005 (S.I. 2005/1399)](https://www.legislation.gov.uk/uksi/2005/1399), [regs. 1](https://www.legislation.gov.uk/uksi/2005/1399/regulation/1), [3(5)(b)](https://www.legislation.gov.uk/uksi/2005/1399/regulation/3/5/b)
+
+[^key-ddb6e7b0d9b0c8197b882751ac50c126]: Textual amendment: [Reg. 13A](https://www.legislation.gov.uk/uksi/1999/1783/regulation/13A) inserted (25.6.2005) by [The Environmental Impact Assessment (Land Drainage Improvement Works) (Amendment) Regulations 2005 (S.I. 2005/1399)](https://www.legislation.gov.uk/uksi/2005/1399), [regs. 1](https://www.legislation.gov.uk/uksi/2005/1399/regulation/1), [3(6)](https://www.legislation.gov.uk/uksi/2005/1399/regulation/3/6)
+
+[^key-4de24f7bad758f0c04b374e2b61d1578]: Textual amendment: Word in [reg. 13A(1)(b)](https://www.legislation.gov.uk/uksi/1999/1783/regulation/13A/1/b) substituted (16.5.2017) by [The Environmental Impact Assessment (Land Drainage Improvement Works) (Amendment) Regulations 2017 (S.I. 2017/585)](https://www.legislation.gov.uk/uksi/2017/585), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/585/regulation/1/1), [15(2)](https://www.legislation.gov.uk/uksi/2017/585/regulation/15/2) (with [reg. 22](https://www.legislation.gov.uk/uksi/2017/585/regulation/22))
+
+[^key-f562bc92e4880aa9b0fd59c208e47a83]: Textual amendment: Words in [reg. 13A(1)(c)](https://www.legislation.gov.uk/uksi/1999/1783/regulation/13A/1/c) substituted (16.5.2017) by [The Environmental Impact Assessment (Land Drainage Improvement Works) (Amendment) Regulations 2017 (S.I. 2017/585)](https://www.legislation.gov.uk/uksi/2017/585), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/585/regulation/1/1), [15(3)](https://www.legislation.gov.uk/uksi/2017/585/regulation/15/3) (with [reg. 22](https://www.legislation.gov.uk/uksi/2017/585/regulation/22))
+
+[^key-12dd8c5d7f65af0e400054f320bbc9d3]: Textual amendment: [Reg. 13B](https://www.legislation.gov.uk/uksi/1999/1783/regulation/13B) substituted (30.3.2006) by [The Environmental Impact Assessment (Land Drainage Improvement Works) (Amendment) Regulations 2006 (S.I. 2006/618)](https://www.legislation.gov.uk/uksi/2006/618), [regs. 1](https://www.legislation.gov.uk/uksi/2006/618/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2006/618/regulation/2/3)
+
+[^key-e47ffccbdee2c5d8a92284e8804177be]: Textual amendment: Words in [reg. 13B(1)](https://www.legislation.gov.uk/uksi/1999/1783/regulation/13B/1) substituted (16.5.2017) by [The Environmental Impact Assessment (Land Drainage Improvement Works) (Amendment) Regulations 2017 (S.I. 2017/585)](https://www.legislation.gov.uk/uksi/2017/585), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/585/regulation/1/1), [16(2)](https://www.legislation.gov.uk/uksi/2017/585/regulation/16/2) (with [reg. 22](https://www.legislation.gov.uk/uksi/2017/585/regulation/22))
+
+[^key-bfdacf4a937883c9c300961785b4ae2f]: Textual amendment: Word in [reg. 13B(2)(a)](https://www.legislation.gov.uk/uksi/1999/1783/regulation/13B/2/a) substituted (16.5.2017) by [The Environmental Impact Assessment (Land Drainage Improvement Works) (Amendment) Regulations 2017 (S.I. 2017/585)](https://www.legislation.gov.uk/uksi/2017/585), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/585/regulation/1/1), [16(3)(a)](https://www.legislation.gov.uk/uksi/2017/585/regulation/16/3/a) (with [reg. 22](https://www.legislation.gov.uk/uksi/2017/585/regulation/22))
+
+[^key-616a122a4d60f06583179869ee883ea4]: Textual amendment: Word in [reg. 13B(2)(a)](https://www.legislation.gov.uk/uksi/1999/1783/regulation/13B/2/a) substituted (16.5.2017) by [The Environmental Impact Assessment (Land Drainage Improvement Works) (Amendment) Regulations 2017 (S.I. 2017/585)](https://www.legislation.gov.uk/uksi/2017/585), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/585/regulation/1/1), [16(3)(b)](https://www.legislation.gov.uk/uksi/2017/585/regulation/16/3/b) (with [reg. 22](https://www.legislation.gov.uk/uksi/2017/585/regulation/22))
+
+[^key-0c78b8e547c19597e39e64136a37ee11]: Textual amendment: Words in [reg. 13B(3)](https://www.legislation.gov.uk/uksi/1999/1783/regulation/13B/3) substituted (16.5.2017) by [The Environmental Impact Assessment (Land Drainage Improvement Works) (Amendment) Regulations 2017 (S.I. 2017/585)](https://www.legislation.gov.uk/uksi/2017/585), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/585/regulation/1/1), [16(4)](https://www.legislation.gov.uk/uksi/2017/585/regulation/16/4) (with [reg. 22](https://www.legislation.gov.uk/uksi/2017/585/regulation/22))
+
+[^key-f0974ca17aad30d28c1aab83d039bfd9]: Commencement: Reg. 14 in force at 21.7.1999, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/1783/regulation/1/1)
+
+[^key-fa898a65beac93e0695bb14b14023813]: Textual amendment: Word in [reg. 14(1)(b)](https://www.legislation.gov.uk/uksi/1999/1783/regulation/14/1/b) substituted (16.5.2017) by [The Environmental Impact Assessment (Land Drainage Improvement Works) (Amendment) Regulations 2017 (S.I. 2017/585)](https://www.legislation.gov.uk/uksi/2017/585), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/585/regulation/1/1), [17(a)](https://www.legislation.gov.uk/uksi/2017/585/regulation/17/a) (with [reg. 22](https://www.legislation.gov.uk/uksi/2017/585/regulation/22))
+
+[^key-17e26e3c21385c247b9653e115654b74]: Textual amendment: Word in [reg. 14(1)(b)](https://www.legislation.gov.uk/uksi/1999/1783/regulation/14/1/b) substituted (16.5.2017) by [The Environmental Impact Assessment (Land Drainage Improvement Works) (Amendment) Regulations 2017 (S.I. 2017/585)](https://www.legislation.gov.uk/uksi/2017/585), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/585/regulation/1/1), [17(b)](https://www.legislation.gov.uk/uksi/2017/585/regulation/17/b) (with [reg. 22](https://www.legislation.gov.uk/uksi/2017/585/regulation/22))
+
+[^key-c24c9ff58f370976626289eefd2ac60d]: Commencement: Reg. 15 in force at 21.7.1999, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/1783/regulation/1/1)
+
+[^f00012]: Footnote: S.I. [1988/1217](https://www.legislation.gov.uk/uksi/1988/1217).
+
+[^f00013]: Footnote: S.I. [1995/2195](https://www.legislation.gov.uk/uksi/1995/2195).
+
+[^f00014]: Footnote: S.I. [1988/1217](https://www.legislation.gov.uk/uksi/1988/1217) amended by S.I. [1995/2195](https://www.legislation.gov.uk/uksi/1995/2195).
+
+[^f00015]: Footnote: S.I. [1995/418](https://www.legislation.gov.uk/uksi/1995/418), to which there are amendments which are not relevant to these Regulations.
+
+[^key-5f30d80bbde92d5139b8b743de6a1751]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/1999/1783/schedule/1) substituted (16.5.2017) by [The Environmental Impact Assessment (Land Drainage Improvement Works) (Amendment) Regulations 2017 (S.I. 2017/585)](https://www.legislation.gov.uk/uksi/2017/585), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/585/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2017/585/schedule/1) (with [reg. 22](https://www.legislation.gov.uk/uksi/2017/585/regulation/22))
+
+[^M_F_08f6345a-abd1-4a11-c8e1-59f84fe46f8f]: Textual amendment: Words in Sch. 1 para. 6 substituted (31.12.2020) by [The Environment, Food and Rural Affairs (Environmental Impact Assessment) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/25)](https://www.legislation.gov.uk/uksi/2019/25), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/25/regulation/1/1), [2(5)(a)](https://www.legislation.gov.uk/uksi/2019/25/regulation/2/5/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-7dc7aa415c9ecdbf2f5140ff1e600d6e]: Textual amendment: Word in Sch. 1 para. 6 substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 2(b)(i)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/2/b/i)
+
+[^key-9a2f9d6df13f302ab99dfc4b75dbdc1c]: Textual amendment: Word in [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/1999/1783/schedule/1/paragraph/9) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 2(b)(ii)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/2/b/ii)
+
+[^key-c1afefa61ffbaf6cfe667cc4e4057a21]: Textual amendment: Words in [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/1999/1783/schedule/1/paragraph/9) substituted (31.12.2020) by [The Environment, Food and Rural Affairs (Environmental Impact Assessment) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/25)](https://www.legislation.gov.uk/uksi/2019/25), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/25/regulation/1/1), [2(5)(b)(i)](https://www.legislation.gov.uk/uksi/2019/25/regulation/2/5/b/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-638dcfbbcf00ef63f41bc0d390cdbef8]: Textual amendment: Words in [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/1999/1783/schedule/1/paragraph/9) inserted (31.12.2020) by [The Environment, Food and Rural Affairs (Environmental Impact Assessment) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/25)](https://www.legislation.gov.uk/uksi/2019/25), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/25/regulation/1/1), [2(5)(b)(ii)](https://www.legislation.gov.uk/uksi/2019/25/regulation/2/5/b/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-32eeee9b5c50f04df109dc06ae3e49c3]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/1999/1783/schedule/2) substituted (16.5.2017) by [The Environmental Impact Assessment (Land Drainage Improvement Works) (Amendment) Regulations 2017 (S.I. 2017/585)](https://www.legislation.gov.uk/uksi/2017/585), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/585/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2017/585/schedule/2) (with [reg. 22](https://www.legislation.gov.uk/uksi/2017/585/regulation/22))
+
+[^key-ce1a91d117f2b7858997800baf2b1445]: Textual amendment: Words in [Sch. 2 para. 2(c)(vi)](https://www.legislation.gov.uk/uksi/1999/1783/schedule/2/paragraph/2/c/vi) inserted (31.12.2020) by [The Environment, Food and Rural Affairs (Environmental Impact Assessment) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/25)](https://www.legislation.gov.uk/uksi/2019/25), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/25/regulation/1/1), [2(5)(c)](https://www.legislation.gov.uk/uksi/2019/25/regulation/2/5/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-0e5b41c6b9ef92ef40117206ebb6d63e]: Textual amendment: Word in [Sch. 2 para. 2(c)(vi)](https://www.legislation.gov.uk/uksi/1999/1783/schedule/2/paragraph/2/c/vi) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 2(c)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/2/c)
+
+[^key-96f0e6cfa410c021ecd5191b977c6305]: Textual amendment: [Sch. 2A](https://www.legislation.gov.uk/uksi/1999/1783/schedule/2A) inserted (16.5.2017) by [The Environmental Impact Assessment (Land Drainage Improvement Works) (Amendment) Regulations 2017 (S.I. 2017/585)](https://www.legislation.gov.uk/uksi/2017/585), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/585/regulation/1/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2017/585/schedule/3) (with [reg. 22](https://www.legislation.gov.uk/uksi/2017/585/regulation/22))
+
+[^key-e0904b5c56b1a85fe4251f6c71cc15a2]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/uksi/1999/1783/schedule/3) omitted (16.5.2017) by virtue of [The Environmental Impact Assessment (Land Drainage Improvement Works) (Amendment) Regulations 2017 (S.I. 2017/585)](https://www.legislation.gov.uk/uksi/2017/585), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/585/regulation/1/1), [21](https://www.legislation.gov.uk/uksi/2017/585/regulation/21) (with [reg. 22](https://www.legislation.gov.uk/uksi/2017/585/regulation/22))
+
+[^key-bd6c53fbfd8624188daa4444ce940a2b]: Textual amendment: [Sch. 4](https://www.legislation.gov.uk/uksi/1999/1783/schedule/4) omitted (16.5.2017) by virtue of [The Environmental Impact Assessment (Land Drainage Improvement Works) (Amendment) Regulations 2017 (S.I. 2017/585)](https://www.legislation.gov.uk/uksi/2017/585), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/585/regulation/1/1), [21](https://www.legislation.gov.uk/uksi/2017/585/regulation/21) (with [reg. 22](https://www.legislation.gov.uk/uksi/2017/585/regulation/22))

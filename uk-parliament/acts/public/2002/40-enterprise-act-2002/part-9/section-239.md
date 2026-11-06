@@ -1,0 +1,35 @@
+---
+title: Enterprise Act 2002, section 239
+act: Enterprise Act 2002
+section: '239'
+status: revised-with-pending-changes
+text_date: '2026-10-13'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2002/40/section/239
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Enterprise Act 2002, section 239
+
+> **Warning: changes not yet applied to this text (3).** Text as at 2026-10-13. See https://www.legislation.gov.uk/changes/affected/ukpga/2002/40
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 239. Consent
+
+*Extent: E+W+S+N.I.*
+
+(1) This Part does not prohibit the disclosure by a public authority of information held by it to any other person if it obtains each required consent.
+
+(2) If the information was obtained by the authority from a person who had the information lawfully and the authority knows the identity of that person the consent of that person is required.
+
+(3) If the information relates to the affairs of an individual the consent of the individual is required.
+
+(4) If the information relates to the business of an undertaking the consent of the person for the time being carrying on the business is required.
+
+(5) For the purposes of subsection (4) consent may be given—
+
+- (a) in the case of a company by a director, secretary or other officer of the company;
+- (b) in the case of a partnership by a partner;
+- (c) in the case of an unincorporated body or association by a person concerned in the management or control of the body or association.

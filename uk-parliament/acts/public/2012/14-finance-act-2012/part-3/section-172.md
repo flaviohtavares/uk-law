@@ -1,0 +1,51 @@
+---
+title: Finance Act 2012, section 172
+act: Finance Act 2012
+section: '172'
+status: revised
+text_date: '2026-04-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2012/14/section/172
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Finance Act 2012, section 172
+
+> Text as at 2026-04-01.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 172. Minor definitions[^key-47593ff75b337af813a72fb908841da1]
+
+*Extent: E+W+S+N.I.*
+
+(1) In this Part—
+
+- “friendly society”, without qualification, means (except in section 171) a registered friendly society or an incorporated friendly society,
+- “**incorporated friendly society**” means a society incorporated under FSA 1992,
+- “**policy**”, in relation to BLAGAB or eligible PHI business, includes an instrument evidencing a contract to pay an annuity upon human life,
+- “**registered branch**” has the same meaning as in FSA 1992 (and includes any branch that as a result of section 96(3) of FSA 1992 is treated as a registered branch), and
+- “**registered friendly society**” has the same meaning as in FSA 1992 (and includes any society that as a result of section 96(2) of FSA 1992 is treated as a registered friendly society).
+
+(2) Any other expression which is used in this Part and in Part 2 has the same meaning in this Part as in that Part.
+
+(3) References in this Part to a friendly society include, in the case of a registered friendly society, references to any branch of that society.
+
+(4) It is declared that for the purposes of this Part (except where provision to the contrary is made) a friendly society formed on the amalgamation of two or more friendly societies is treated as different from the amalgamated societies.
+
+(5) A registered friendly society formed on the amalgamation of two or more friendly societies is treated for the purposes of this Part as registered not later than 3 May 1966 if at the time of the amalgamation—
+
+- (a) all the societies amalgamated were registered friendly societies eligible for the exemption conferred by section 153, and
+- (b) at least one of them was an old society,
+
+or, if the amalgamation took place before 19 March 1985, the society was treated as registered not later than 3 May 1966 as a result of the proviso to section 337(4) of the Income and Corporation Taxes Act 1970.
+
+(6) An incorporated friendly society formed on the amalgamation of two or more friendly societies is treated for the purposes of this Part as a society which, before its incorporation, was a registered friendly society registered not later than 3 May 1966 if at the time of the amalgamation—
+
+- (a) all the societies amalgamated were registered friendly societies eligible for the exemption conferred by section 153, and
+- (b) at least one of them was an old society.
+
+## Annotations
+
+[^key-47593ff75b337af813a72fb908841da1]: Modification: [S. 172](https://www.legislation.gov.uk/ukpga/2012/14/section/172) modified (31.12.2012) by [The Friendly Societies (Modifications of the Tax Acts) Regulations 2012 (S.I. 2012/3008)](https://www.legislation.gov.uk/uksi/2012/3008), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/3008/regulation/1/1), [14](https://www.legislation.gov.uk/uksi/2012/3008/regulation/14) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/3008/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2012/3008/regulation/2))

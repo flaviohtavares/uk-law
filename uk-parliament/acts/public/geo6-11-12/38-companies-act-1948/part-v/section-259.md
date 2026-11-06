@@ -1,0 +1,26 @@
+---
+title: Companies Act 1948, section 259
+act: Companies Act 1948
+section: '259'
+status: as-enacted
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/ukpga/Geo6/11-12/38/section/259
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Companies Act 1948, section 259
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+## 259. Payment of debts due by contributory to company and extent to which set-off allowed.
+
+(1) The court may, at any time after making a winding-up order, make an order on any .contributory for the time being on the list of contributories to pay, in manner directed by the order, any money due from him or from the estate of the person whom he represents to the company, exclusive of any money payable by him or the estate by virtue of any call in pursuance of this Act.
+
+(2) The court in making such an order may—
+
+- (a) in the case of an unlimited company, allow to the contributory by way of set-off any money due to him or to the estate which he represents from the company on any independent dealing or contract with the company, but not any money due to him as a member of the company in respect of any dividend or profit; and
+- (b) in the case of a limited company, make to any director or manager whose liability is unlimited or to his estate the like allowance.
+
+(3) In the case of any company, whether limited or unlimited, when all the creditors are paid in full, any money due on any account whatever to a contributory from the company may be allowed to him by way of set-off against any subsequent call.

@@ -1,0 +1,100 @@
+---
+title: The Immigration (Isle of Man) (Variation) Order 1989
+id: uksi/1989/847
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '1989-05-16'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1989/847
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1989/847/pdfs/uksi_19890847_en.pdf
+- http://www.legislation.gov.uk/uksi/1989/847/made/data.pdf
+pending_changes: 1
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Immigration (Isle of Man) (Variation) Order 1989
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+1989 No. 847
+
+IMMIGRATION
+
+The Immigration (Isle of Man) (Variation) Order 1989
+
+Made
+
+16th May 1989
+
+Coming into force
+
+16th June 1989
+
+At the Court at Buckingham Palace, the 16th day of May 1989
+
+Present,
+
+The Queen’s Most Excellent Majesty in Council
+
+Her Majesty, in pursuance of section 36 of the Immigration Act 1971[^f00001] as applied by section 2(3) of the Immigration (Carriers' Liability) Act 1987[^f00002], is pleased, by and with the advice of Her Privy Council, to order, and it is hereby ordered, as follows:
+
+**1.** This Order may be cited as the Immigration (Isle of Man) (Variation) Order 1989 and shall come into force on 16th June 1989.
+
+**2.** The Immigration (Isle of Man) Order 1972[^f00003] shall be further varied in accordance with the provisions of the Schedule to this Order.
+
+G.I. de Deney
+
+Clerk of the Privy Council
+
+## SCHEDULE — VARIATIONS TO THE IMMIGRATION (ISLE OF MAN) ORDER 1972
+
+Article 2
+
+**1.** After article 4 there shall be inserted the following article:
+
+> **5.** The provisions of the Immigration (Carriers' Liability) Act 1987 shall extend to the Isle of Man with such exceptions, adaptations and modifications as are specified in the Schedule hereto.
+
+.
+
+**2.** (1) The Schedule shall be varied in accordance with the following provisions of this paragraph.
+
+(2) In paragraph 1(1) after “that Act” there shall be inserted “or to the Immigration (Carriers' Liability) Act 1987 or any provision thereof”.
+
+(3) In paragraph 16, for “Finance Board” there shall be substituted “Treasury of the Isle of Man”.
+
+(4) In paragraph 26, for any reference to the Isle of Man Local Government Board there shall be substituted a reference to the Isle of Man Department of Health and Social Security.
+
+(5) After paragraph 34 there shall be added the following provisions:
+
+> **THE IMMIGRATION (CARRIERS' LIABILITY) ACT 1987**
+>
+> **35. Section 1**
+>
+> In section 1 –
+>
+> - (a) in subsection (3), for the words from “by statutory instrument” to the end there shall be substituted “with the approval of Tynwald”, and
+> - (b) in subsection (5), for “the Consolidated Fund” there shall be substituted “the General Revenue of the Isle of Man”.
+>
+> **36. Section 2**
+>
+> In section 2 –
+>
+> - (a) subsection (3) shall be omitted, and
+> - (b) in subsection (4), for “4th March 1987” there shall be substituted “the date of the extension of this Act to the Isle of Man.”.
+
+(This note is not part of the Order)
+
+This Order varies the Immigration (Isle of Man) Order 1972, as amended, so as to extend to the Isle of Man the Immigration (Carriers' Liability) Act 1987 with exceptions, adaptations and modifications, and so as to make minor amendments to the Schedule thereto.
+
+## Annotations
+
+[^f00001]: Footnote: [1971 c. 77](https://www.legislation.gov.uk/ukpga/1971/77).
+
+[^f00002]: Footnote: [1987 c. 24](https://www.legislation.gov.uk/ukpga/1987/24).
+
+[^f00003]: Footnote: S.I. [1972/1720](https://www.legislation.gov.uk/uksi/1972/1720), as amended by S.I. [1980/339](https://www.legislation.gov.uk/uksi/1980/339), [1982/1835](https://www.legislation.gov.uk/uksi/1982/1835), [1983/1898](https://www.legislation.gov.uk/uksi/1983/1898).

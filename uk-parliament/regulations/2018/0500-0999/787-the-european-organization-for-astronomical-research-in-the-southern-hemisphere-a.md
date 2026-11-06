@@ -1,0 +1,218 @@
+---
+title: The European Organization for Astronomical Research in the Southern Hemisphere and the European Space Agency (Immunities and Privileges) (Amendment) Order 2018
+id: uksi/2018/787
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2018-06-27'
+text_date: '2024-03-14'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2018/787
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2018/787/pdfs/uksiem_20180787_en.pdf
+- http://www.legislation.gov.uk/uksi/2018/787/pdfs/uksi_20180787_en.pdf
+- http://www.legislation.gov.uk/uksi/2018/787/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The European Organization for Astronomical Research in the Southern Hemisphere and the European Space Agency (Immunities and Privileges) (Amendment) Order 2018
+
+> Text as at 2024-03-14.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+This Statutory Instrument supersedes the drafts of the European Organization for Astronomical Research in the Southern Hemisphere (Immunities and Privilege) (Amendment) Order 2017 which were laid before Parliament on 27th January 2017, 22nd February 2017 and 28th February 2017 and published on the same dates (ISBN 978-0-11-115336-9, ISBN 978-0-11-115471-7 and ISBN 978-0-11-115498-4 respectively). It is being issued free of charge to all known recipients of those draft Statutory Instruments. This Statutory Instrument has also been made in consequence of a defect in [S.I. 2009/1748](https://www.legislation.gov.uk/uksi/2009/1748) and is being issued free of charge to all known recipients of that Statutory Instrument.
+
+2018 No. 787
+
+International Immunities And Privileges
+
+The European Organization for Astronomical Research in the Southern Hemisphere and the European Space Agency (Immunities and Privileges) (Amendment) Order 2018
+
+Made
+
+27th June 2018
+
+Coming into force in accordance with article 1
+
+At the Court at Buckingham Palace, the 27th day of June 2018
+
+Present,
+
+The Queen’s Most Excellent Majesty in Council
+
+This Order is made in exercise of the powers conferred by sections 1 and 10(3) of the International Organisations Act 1968[^f00001].
+
+A draft of this Order has been approved by resolution of each House of Parliament pursuant to section 10(1) of the International Organisations Act 1968[^f00002].
+
+Accordingly, Her Majesty is pleased, by and with the advice of Her Privy Council, to order as follows—
+
+## 1. Citation and commencement[^key-05b27a0217b5bb1d5c92fe8819cb8d16]
+
+(1) This Order may be cited as the European Organization for Astronomical Research in the Southern Hemisphere and the European Space Agency (Immunities and Privileges) (Amendment) Order 2018.
+
+(2) Subject to paragraph (3), this Order comes into force on the day after the day on which it is made.
+
+(3) Article 4 (Amendments to the European Space Agency (Immunities and Privileges) Order 1978) comes into force on the date on which the Agreement between the United Kingdom and the European Space Agency concerning the European Space Agency’s Sites and Facilities in the United Kingdom enters into force in the United Kingdom[^f00003].
+
+## 2. Application[^key-fab830b9b25856a8e570ccb378c9d120]
+
+In Scotland, the amendments made by article 3(3) and (4)(b) and article 4(2) , (2A)[^key-d64fd48ea6bed6c28b606db241a27438] and (3)(a) do not apply in so far as they would, if included in an Act of the Scottish Parliament, be within the legislative competence of that Parliament.
+
+## 3. Amendments to the European Organization for Astronomical Research in the Southern Hemisphere (Immunities and Privileges) Order 2009[^key-335d04313313c375e57fcbfefee3a492]
+
+(1) The European Organization for Astronomical Research in the Southern Hemisphere (Immunities and Privileges) Order 2009[^f00004] is amended as follows.
+
+(2) After article 1, insert—
+
+> **1A.** (1) This Order extends to the whole of the United Kingdom subject to paragraph (2).
+>
+> (2) Article 9 extends to England and Wales and Northern Ireland only.
+>
+> (3) In Scotland, articles 6, 7, 11, 14, 15 and 16 do not apply in so far as they would, if included in an Act of the Scottish Parliament, be within the legislative competence of that Parliament.
+
+.
+
+(3) In article 15 (High Officers)—
+
+- (a) in paragraph (1)—
+  - (i) for sub-paragraph (a), substitute—
+
+    > - (a) the like—
+    >   - (i) immunity from suit and legal process,
+    >   - (ii) inviolability of residence, and
+    >   - (iii) exemption or relief from taxes and rates, other than duties (whether of customs or excise) and taxes on the importation of goods,
+    >
+    >   as are accorded to or in respect of the head of a diplomatic mission;
+
+    ;
+  - (ii) after sub-paragraph (e), omit the words from “provided that this Article” to the end of paragraph (1);
+- (b) after paragraph (2), insert—
+
+  > (3) Subject to paragraphs (4) and (5), paragraph (1)(a) to (d) does not apply to any person who is a British citizen, British overseas territories citizen, British Overseas citizen, British National (Overseas) or permanent resident of the United Kingdom.
+  >
+  > (4) Paragraph (1)(a)(i) applies to any person who is a British citizen, British overseas territories citizen, British Overseas citizen, British National (Overseas) or permanent resident of the United Kingdom, in respect of things done or omitted to be done by them in the course of performance of official duties, except in the case of motor traffic offences committed by them or of damage caused by a motor vehicle belonging to or driven by them.
+  >
+  > (5) Paragraph (1)(a)(iii) applies to any person who is a British citizen, British overseas territories citizen, British Overseas citizen, British National (Overseas) or permanent resident of the United Kingdom only in respect of exemption from income tax on emoluments received as an officer of the Organization, provided that nothing in this paragraph shall be interpreted as precluding such emoluments from being taken into account for the purpose of assessing the amount of taxation to be applied to income from other sources.
+
+  .
+
+(4) In article 16(1) (All Other Officers)—
+
+- (a) after sub-paragraph (c), insert—
+
+  > - (d) exemptions whereby for the purposes of the enactments relating to social security, including enactments in force in Northern Ireland—
+  >   - (i) services rendered for the Organization shall be deemed to be excepted from any class of employment in respect of which contributions under those enactments are payable, but
+  >   - (ii) no person shall be rendered liable to pay any contribution which he would not be required to pay if those services were not deemed to be so excepted.
+
+  ;
+- (b) in the full out, for “this paragraph” substitute “sub-paragraph (c)”.
+
+## 4. Amendments to the European Space Agency (Immunities and Privileges) Order 1978[^key-026405185eb359991626746990c694c5][^key-026405185eb359991626746990c694c5]
+
+(1) The European Space Agency (Immunities and Privileges) Order 1978[^f00005] is amended as follows.
+
+(2) In article 15 (High Officers)—
+
+- (a) in paragraph (1)—
+  - (i) after “Convention”, insert “, and the Head of the Harwell Centre,”;
+  - (ii) in sub-paragraph (a), after “customs” insert “or excise”;
+  - (iii) in the full out, for “a citizen of the United Kingdom and Colonies” substitute “a British citizen, a British overseas territories citizen, a British Overseas citizen or a British National (Overseas)”;
+- (b) for paragraph (2), substitute—
+
+  > (2) Part IV of Schedule 1 to the Act does not operate so as to confer any privilege or immunity on any person who is a member of the family of an officer to whom paragraph (1) applies if the person is a British citizen, a British overseas territories citizen, a British Overseas citizen, a British National (Overseas) or permanent resident of the United Kingdom.
+
+  ;
+- (c)[^key-9f19ef647be3a7ce0dcc0aea0ec024a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2A)[^key-26d283b5b39c44939751bec338f39d47] After article 15, insert—
+
+> **15A. High ranking staff**
+>
+> (1) This article applies to up to seven officers of the Agency who—
+>
+> - (a) hold the position of Head of Office,
+> - (b) are high ranking staff discharging their functions in the United Kingdom, and
+> - (c) are notified to the Secretary of State by the Agency.
+>
+> (2) Except in so far as in any particular case any privilege or immunity is waived by the Director General of the Agency, an officer mentioned in paragraph (1) shall enjoy—
+>
+> - (a) the like immunity from suit and legal process, except in the case of a motor traffic offence committed by that officer or in the case of damage caused by a motor vehicle belonging to or driven by that officer, the like inviolability of residence and the like exemption or relief from rates and taxes, other than income tax in respect of their emoluments and customs or excise duties and taxes on the importation of goods, as are accorded to or in respect of a diplomatic agent,
+> - (b) the like exemption from customs duties and taxes on the importation of articles imported for their personal use or the use of members of their family forming part of their household, including articles intended for their establishment, as in accordance with paragraph 1 of Article 36 of the 1961 Convention Articles is accorded to a diplomatic agent,
+> - (c) the like exemption and privileges in respect of their personal baggage as in accordance with paragraph 2 of Article 36 of the 1961 Convention Articles are accorded to a diplomatic agent, and
+> - (d) relief, under arrangements made by the Commissioners of His Majesty’s Revenue and Customs, by way of refund of customs duty paid on or value added tax paid on any hydrocarbon oil (within the meaning of the Hydrocarbon Oil Duties Act 1979 which is bought in the United Kingdom, by them or on their behalf, for their personal use or the use of members of their family forming part of their household, such relief to be subject to compliance with such conditions as may be imposed in accordance with the arrangements,
+>
+> provided that this paragraph shall not apply to an officer who is a British citizen, a British overseas territories citizen, a British Overseas citizen or a British National (Overseas) or to an officer who, at the time of taking up his duties in the United Kingdom, is a permanent resident of the United Kingdom.
+>
+> (3) Part IV of Schedule 1 to the Act does not operate so as to confer any privilege or immunity on any person who is a member of the family of an officer mentioned in paragraph (1) if that member of the family is a British citizen, a British overseas territories citizen, a British Overseas citizen, a British National (Overseas) or permanent resident of the United Kingdom.
+>
+> (4) “High ranking staff” has the same meaning in this article as is set out in the Agreement between the United Kingdom and the European Space Agency concerning the European Space Agency’s Sites and Facilities in the United Kingdom signed in Glasgow on 16th July 2013.
+
+.
+
+(3) In Article 16 (All Officers)—
+
+- (a) after the second “Director General”, insert “or the Head of the Harwell Centre;”;
+- (b) omit the “and” at the end of sub-paragraph (b);
+- (c) in paragraph (c), for “citizens of the United Kingdom and Colonies” substitute “British citizens, British overseas territories citizens, British Overseas citizens or British Nationals (Overseas)”;
+- (d) after sub-paragraph (c), insert—
+
+  > - (d) unless they are British citizens, British overseas territories citizens, British Overseas citizens, British Nationals (Overseas) or permanent residents of the United Kingdom, exemption from duties (whether of customs or excise) and taxes on the importation of any motor vehicle imported as a replacement for a motor vehicle in respect of which the conditions specified in sub-paragraph (c) are fulfilled, such exemption to be subject to compliance with such conditions as the Commissioners for Her Majesty’s Revenue and Customs may prescribe for the protection of the Revenue; and
+  > - (e) provided that the Agency has established or joined a social security scheme, exemptions whereby for the purposes of the enactments relating to social security, including enactments in force in Northern Ireland—
+  >   - (i) services rendered for the Agency by them shall be deemed to be excepted from any class of employment in respect of which contributions under those enactments are payable, but
+  >   - (ii) no person shall be rendered liable to pay any contribution which the person would not be required to pay if those services were not deemed to be so excepted.
+
+  .
+
+Richard Tilbrook
+
+Clerk of the Privy Council
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order amends the European Organization for Astronomical Research in the Southern Hemisphere (Immunities and Privileges) Order 2009 ([S.I. 2009/1748](https://www.legislation.gov.uk/uksi/2009/1748)) (“the ESO Order”) and the European Space Agency (Immunities and Privileges) Order 1978 ([S.I. 1978/1105](https://www.legislation.gov.uk/uksi/1978/1105)) (“the ESA Order”).
+
+The ESO Order implements the Protocol on the privileges and immunities of the European Organization for Astronomical Research in the Southern Hemisphere (Cm 8516) which entered into force for the UK on 25th September 2012 (“the Protocol”). Articles 15 and 16 of the ESO Order make provision for privileges and immunities conferred by the Protocol on the officers of the European Organization for Astronomical Research in the Southern Hemisphere (“the Organization”).
+
+Article 3(3) of this Order amends article 15 of the ESO Order to ensure that, if the Director-General or person appointed to act instead of the Director General of the Organization has a form of British nationality, that person shall benefit from immunity from suit and legal process in respect of official acts (not including motor vehicle offences or damage), from exemption from income tax on emoluments received as an officer of the Organization, and from exemptions relating to social security.
+
+Article 3(4) of this Order amends article 16 of the ESO Order to provide that any officer of the Organization (other than an officer falling within article 15 of that Order) who has a form of British nationality shall benefit from immunity from suit and legal process in respect of official acts, from exemption from income tax in respect of emoluments received as an officer of the Organization, and from exemptions relating to social security.
+
+The ESA Order implements Annex I of the Convention for the Establishment of a European Space Agency, which entered into force on 30 October 1980 (Cm 6272). An Agreement between the United Kingdom and the European Space Agency concerning the European Space Agency’s Sites and Facilities in the United Kingdom signed on 13th June 2013 (‘the Agreement’) provides for the establishment and operation of an Agency centre at the Harwell Science and Innovation Campus in the United Kingdom. This Order will enable Her Majesty’s Government to give effect to its obligations under the Agreement relating to privileges and immunities.
+
+Article 4(2) amends article 15 of the ESA Order to include the Head of the Harwell Centre as a high officer. It also provides that up to seven high-ranking officials, in addition to the Director General and the Head of the Harwell Centre, are high officers but limits their privileges and immunities so that they do not have immunity from suit and legal process (except in relation to things done in the exercise of their functions) or inviolability of their residence.
+
+Article 4(3) amends article 16 of the ESA Order to provide that all officers have customs and tax exemptions in relation to a vehicle imported to replace any vehicle imported upon taking up their position and to exempt them from social security contributions. The first of these exemptions does not apply to British nationals or permanent residents of the United Kingdom.
+
+## Annotations
+
+[^f00001]: Footnote: [1968 c.48](https://www.legislation.gov.uk/ukpga/1968/48).
+
+[^f00002]: Footnote: The function of approving a draft of an Order in Council under section 10 of that Act has been transferred from both Houses of Parliament to the Scottish Parliament under section 118 of the Scotland Act [1998 c.46](https://www.legislation.gov.uk/ukpga/1998/46) (as amended by section 12 of the Scotland Act [2012 c.11](https://www.legislation.gov.uk/ukpga/2012/11)) in so far as the function is exercisable within devolved competence.
+
+[^key-05b27a0217b5bb1d5c92fe8819cb8d16]: Commencement: Art. 1 in force at 28.6.2018, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/787/article/1/2)
+
+[^f00003]: Footnote: The date on which the Agreement enters into force for the United Kingdom will be published on the relevant page on UK Treaties Online which can be found at this link: https://www.gov.uk/uk-treaties. A copy of the Agreement can be obtained from Protocol Directorate, Foreign and Commonwealth Office, King Charles Street, London SW1A 2AH.
+
+[^key-fab830b9b25856a8e570ccb378c9d120]: Commencement: Art. 2 in force at 28.6.2018, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/787/article/1/2)
+
+[^key-d64fd48ea6bed6c28b606db241a27438]: Textual amendment: Word in art. 2 inserted (14.3.2024) by [The European Organization for Astronomical Research in the Southern Hemisphere and the European Space Agency (Immunities and Privileges) (Amendment) Order 2024 (S.I. 2024/368)](https://www.legislation.gov.uk/uksi/2024/368), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/368/article/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2024/368/article/2/2)
+
+[^key-335d04313313c375e57fcbfefee3a492]: Commencement: Art. 3 in force at 28.6.2018, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/787/article/1/2)
+
+[^f00004]: Footnote: [S.I. 2009/1748](https://www.legislation.gov.uk/uksi/2009/1748).
+
+[^key-026405185eb359991626746990c694c5]: Commencement: Art. 4 comes into force in accordance with art. 1(3)
+
+[^f00005]: Footnote: [S.I. 1978/1105](https://www.legislation.gov.uk/uksi/1978/1105). The instrument entered into force on 30th October 1980. The relevant amending instrument is [S.I. 1980/1086](https://www.legislation.gov.uk/uksi/1980/1086).
+
+[^key-9f19ef647be3a7ce0dcc0aea0ec024a1]: Textual amendment: [Art. 4(2)(c)](https://www.legislation.gov.uk/uksi/2018/787/article/4/2/c) revoked (14.3.2024) by [The European Organization for Astronomical Research in the Southern Hemisphere and the European Space Agency (Immunities and Privileges) (Amendment) Order 2024 (S.I. 2024/368)](https://www.legislation.gov.uk/uksi/2024/368), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/368/article/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2024/368/article/2/3)
+
+[^key-26d283b5b39c44939751bec338f39d47]: Textual amendment: [Art. 4(2A)](https://www.legislation.gov.uk/uksi/2018/787/article/4/2A) inserted (14.3.2024) by [The European Organization for Astronomical Research in the Southern Hemisphere and the European Space Agency (Immunities and Privileges) (Amendment) Order 2024 (S.I. 2024/368)](https://www.legislation.gov.uk/uksi/2024/368), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/368/article/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2024/368/article/2/4)

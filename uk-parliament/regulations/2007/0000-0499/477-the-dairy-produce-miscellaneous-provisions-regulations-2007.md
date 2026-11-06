@@ -1,0 +1,162 @@
+---
+title: The Dairy Produce (Miscellaneous Provisions) Regulations 2007
+id: uksi/2007/477
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2007-02-18'
+text_date: '2019-03-31'
+extent: E+W+S+NI
+source_url: https://www.legislation.gov.uk/uksi/2007/477
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2007/477/pdfs/uksiem_20070477_en.pdf
+- http://www.legislation.gov.uk/uksi/2007/477/pdfs/uksi_20070477_en.pdf
+- http://www.legislation.gov.uk/uksi/2007/477/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Dairy Produce (Miscellaneous Provisions) Regulations 2007
+
+> Text as at 2019-03-31.
+>
+> Extent: England, Wales, Scotland, NI.
+
+*Extent: E+W+S+NI*
+
+2007 No. 477
+
+food
+
+The Dairy Produce (Miscellaneous Provisions) Regulations 2007
+
+Made
+
+18th February 2007
+
+Laid before Parliament
+
+26th February 2007
+
+Coming into force
+
+6th April 2007
+
+[^M_F_f4015cbe-9e4a-426a-b5fb-f40980923964][^key-f7afa1b8ed19d7d38f0ab0694ef28252]The Secretary of State has been designated[^f00001] for the purposes of section 2(2) of the European Communities Act 1972[^f00002] in relation to the common agricultural policy of the European Community.
+
+He makes the following Regulations under the powers conferred by that section.
+
+## 1. Title and commencement
+
+These Regulations may be cited as the Dairy Produce (Miscellaneous Provisions) Regulations 2007 and come into force on 6th April 2007.
+
+## 2. Abolition of Dairy Produce Quota Tribunals
+
+The Dairy Produce Quota Tribunals, re-constituted under regulation 7(1) of the Dairy Produce Quotas (General Provisions) Regulations 2002[^f00003], are abolished.
+
+## 3. Amendment of the Dairy Produce Quotas (General Provisions) Regulations 2002
+
+(1) The Dairy Produce Quotas (General Provisions) Regulations 2002 are amended as follows.
+
+(2)[^key-c2af87dd68af1665a32a796ffa7fec27] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) Omit regulation 7 (dairy produce quota tribunals).
+
+(4) Omit the Schedule (constitution, staffing and procedures of dairy produce quota tribunals).
+
+## 4. Amendment of the Agriculture Act 1986
+
+(1) The Agriculture Act 1986[^f00007] is amended as follows.
+
+(2) In paragraph 6 of Part 2 of Schedule 1 (tenants’ compensation for milk quota)—
+
+- (a) in sub-paragraph (3), after “Wales” insert “, or by the Secretary of State or the National Assembly for Wales following the appeals procedure,”;
+- (b) after sub-paragraph (3) insert—
+
+  > (3A) In sub-paragraph (3) above “the appeals procedure” means—
+  >
+  > - (a) in England, the appeals procedure established under the Common Agricultural Policy Non-IACS Support Schemes (Appeals) (England) Regulations 2004 ([S.I. 2004/590](https://www.legislation.gov.uk/uksi/2004/590)); and
+  > - (b) in Wales, the appeals procedure established under the Common Agricultural Policy Non-IACS Support Schemes (Appeals) (Wales) Regulations 2004 ([S.I. 2004/685 (W.73)](https://www.legislation.gov.uk/wsi/2004/685)).
+
+  .
+
+(3) In paragraph 6 of Schedule 2 (tenants’ compensation for milk quota: Scotland)—
+
+- (a) in sub-paragraph (3), after “Scotland” insert “, or following the appeals procedure by the Scottish Ministers or the Scottish Land Court,”;
+- (b) after sub-paragraph (3) insert—
+
+  > (3A) In sub-paragraph (3) above “the appeals procedure” means the appeals procedure established under the Common Agricultural Policy Non-IACS Support Schemes (Appeals) (Scotland) Regulations 2004 ([S.S.I. 2004/278](https://www.legislation.gov.uk/ssi/2004/278)).
+
+  .
+
+## 5. Consequential provisions
+
+The enactments listed in Part 1 of the Schedule are repealed or revoked as specified.
+
+## 6. Revocation of the Milk (Community Outgoers) Schemes
+
+The instruments listed in Part 2 of the Schedule are revoked.
+
+Jeff Rooker
+
+Minister of State
+
+Department for Environment, Food and Rural Affairs
+
+## SCHEDULE — Repeals and Revocations
+
+Regulations 5 and 6
+
+### PART 1 — Dairy Produce Quota Tribunals
+
+| Enactment | References | Extent of repeal or revocation |
+| --- | --- | --- |
+| The Parliamentary Commissioner Act 1967 | [1967 c 13](https://www.legislation.gov.uk/ukpga/1967/13) | In Schedule 4, the entry relating to the Dairy Produce Quota Tribunal for England and Wales constituted under regulation 7 of, and the Schedule to, the Dairy Produce Quotas (General Provisions) Regulations 2002. |
+| The House of Commons Disqualification Act 1975 | [1975 c 24](https://www.legislation.gov.uk/ukpga/1975/24) | In Part 2 of Schedule 1, the entry relating to a Dairy Produce Quota Tribunal constituted under the Dairy Produce Quotas Regulations 1984. |
+| The Tribunals and Inquiries Act 1992 | [1992 c 53](https://www.legislation.gov.uk/ukpga/1992/53) | In both Part 1 and Part 2 of Schedule 1, the entry relating to dairy produce quotas. |
+| The Scottish Public Services Ombudsman Act 2002 | [2002 asp 11](https://www.legislation.gov.uk/asp/2002/11) | Paragraph 1 of Schedule 3. |
+| The Scottish Parliament (Disqualification) Order 2003 | [S.I. 2003/409](https://www.legislation.gov.uk/uksi/2003/409) | In Part 1 of the Schedule, the entry relating to any member of a Dairy Produce Quota Tribunal constituted under the Dairy Produce Quotas Regulations 1984. |
+| The Tribunals and Inquiries (Dairy Produce Quota Tribunal) Order 2004 | [S.I. 2004/594](https://www.legislation.gov.uk/uksi/2004/594) | The whole instrument. |
+| The Tribunals and Inquiries (Dairy Produce Quota Tribunal) (Scotland) Order 2004 | [S.S.I. 2004/119](https://www.legislation.gov.uk/ssi/2004/119) | The whole instrument. |
+
+### PART 2 — Milk (Community Outgoers) Schemes
+
+| Instrument revoked | References |
+| --- | --- |
+| The Milk (Community Outgoers Scheme) (England and Wales) Regulations 1986 | [S.I. 1986/1611](https://www.legislation.gov.uk/uksi/1986/1611) |
+| The Milk (Community Outgoers Scheme) Regulations (Northern Ireland) 1986 | [S.R. 1986 No. 299](https://www.legislation.gov.uk/nisr/1986/299) |
+| The Milk (Community Outgoers’ Scheme) (Scotland) Regulations 1986 | [S.I. 1986/1613 (S. 122)](https://www.legislation.gov.uk/uksi/1986/1613) |
+| The Milk (Community Outgoers Scheme) (England and Wales) (Amendment) Regulations 1987 | [S.I. 1987/410](https://www.legislation.gov.uk/uksi/1987/410) |
+| The Milk (Community Outgoers’ Scheme) (Scotland) Amendment Regulations 1987 | [S.I. 1987/425 (S. 40)](https://www.legislation.gov.uk/uksi/1987/425) |
+| The Milk (Community Outgoers’ Scheme) (Scotland) Amendment (No. 2) Regulations 1987 | [S.I. 1987/881 (S. 73)](https://www.legislation.gov.uk/uksi/1987/881) |
+| The Milk (Community Outgoers Scheme) (England and Wales) (Amendment) (No. 2) Regulations 1987 | [S.I. 1987/909](https://www.legislation.gov.uk/uksi/1987/909) |
+| The Milk (Community Outgoers Scheme) (Amendment) Regulations (Northern Ireland) 1987 | [S.R. 1987 No. 114](https://www.legislation.gov.uk/nisr/1987/114) |
+| The Milk (Community Outgoers Scheme) (Amendment No. 2) Regulations (Northern Ireland) 1987 | [S.R. 1987 No. 225](https://www.legislation.gov.uk/nisr/1987/225) |
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations abolish the Dairy Produce Quota Tribunals (regulation 2) and make consequential amendments to the Dairy Produce Quotas (General Provisions) Regulations 2002 ([S.I. 2002/458](https://www.legislation.gov.uk/uksi/2002/458)). These Regulations also make consequential amendments to the Agriculture Act 1986 (regulation 4) and repeal and revoke various other enactments (Part 1 of the Schedule). Disputes concerning the allocation of quota, which would previously have been considered by a Dairy Produce Quota Tribunal, will instead be considered under the relevant Common Agricultural Policy Non-IACS Support Schemes Appeals procedure.
+
+These Regulations also revoke secondary legislation concerning Milk (Community Outgoers) schemes in the United Kingdom (Part 2 of the Schedule), as these schemes are no longer in operation.
+
+A full regulatory impact assessment has not been produced for this instrument as no impact on the private or voluntary sectors is foreseen.
+
+## Annotations
+
+[^M_F_f4015cbe-9e4a-426a-b5fb-f40980923964]: Textual amendment: Regulations revoked (S.) (28.2.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) (Scotland) Regulations 2018 (S.S.I. 2018/391)](https://www.legislation.gov.uk/ssi/2018/391), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2018/391/schedule/part/2)
+
+[^key-f7afa1b8ed19d7d38f0ab0694ef28252]: Textual amendment: Regulations revoked (E.W.) (31.3.2019) by [The Food and Rural Affairs (Miscellaneous Revocations) Regulations 2018 (S.I. 2018/908)](https://www.legislation.gov.uk/uksi/2018/908), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/908/regulation/1/2), [3(h)](https://www.legislation.gov.uk/uksi/2018/908/regulation/3/h)
+
+[^f00001]: Footnote: The power of the Secretary of State, as a Minister designated by virtue of [S.I. 1972/1811](https://www.legislation.gov.uk/uksi/1972/1811) in relation to the common agricultural policy of the European Community, to make regulations which extend to Scotland remains exercisable by virtue of section 57(1) of the Scotland Act 1998 ([1998 c. 46](https://www.legislation.gov.uk/ukpga/1998/46)). The Secretary of State’s power, as a Minister so designated, to make regulations which apply to Wales is confirmed by article 4(4) of [S.I. 2005/2766](https://www.legislation.gov.uk/uksi/2005/2766). The Secretary of State’s power, as a Minister so designated, to make regulations which extend to Northern Ireland is confirmed by article 3(2) of [S.I. 2000/2812](https://www.legislation.gov.uk/uksi/2000/2812).
+
+[^f00002]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68).
+
+[^f00003]: Footnote: [S.I. 2002/458](https://www.legislation.gov.uk/uksi/2002/458) as amended by [S.I. 2005/466](https://www.legislation.gov.uk/uksi/2005/466).
+
+[^key-c2af87dd68af1665a32a796ffa7fec27]: Textual amendment: [Reg. 3(2)](https://www.legislation.gov.uk/uksi/2007/477/regulation/3/2) omitted (1.4.2008) by virtue of [Dairy Produce Quotas (General Provisions) (Amendment) Regulations 2008 (S.I. 2008/438)](https://www.legislation.gov.uk/uksi/2008/438), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2008/438/regulation/1/b), [3(2)](https://www.legislation.gov.uk/uksi/2008/438/regulation/3/2)
+
+[^f00007]: Footnote: [1986 c.49](https://www.legislation.gov.uk/ukpga/1986/49).

@@ -1,0 +1,49 @@
+---
+title: Corporation Tax Act 2010, section 269DH
+act: Corporation Tax Act 2010
+section: 269DH
+status: revised-with-pending-changes
+text_date: '2026-03-18'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2010/4/section/269DH
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Corporation Tax Act 2010, section 269DH
+
+> **Warning: changes not yet applied to this text (16).** Text as at 2026-03-18. See https://www.legislation.gov.uk/changes/affected/ukpga/2010/4
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 269DH. Group allowance allocation statement: submission of revised statement[^key-3e03660a4275e6ae3aa881f06df8542c]
+
+*Extent: E+W+S+N.I.*
+
+(1) This section applies if a group allowance allocation statement has been submitted under section 269DG, or this section, in respect of an accounting period of a company that is, or was, a nominated company (“the nominee's accounting period”).
+
+(2) A revised group allowance allocation statement in respect of the nominee's accounting period may be submitted to HMRC by the company that is for the time being the nominated company in relation to the group.
+
+(3) But if a new group allowance nomination in respect of the group takes effect on a date before it is made, that does not affect the validity of the submission of any revised group allowance allocation statement submitted before the date the new nomination is made.
+
+(4) A revised group allowance allocation statement may be submitted on or before whichever is the latest of the following dates—
+
+- (a) the last day of the period of 36 months after the end of the nominee's accounting period;
+- (b) if notice of enquiry (within the meaning of Schedule 18 to FA 1998) is given into a relevant company tax return, 30 days after the enquiry is completed;
+- (c) if, after such an enquiry, an officer of Revenue and Customs amends the return under paragraph 34(2) of that Schedule, 30 days after the notice of amendment is issued;
+- (d) if an appeal is brought against such an amendment, 30 days after the date on which the appeal is finally determined.
+
+(5) A revised group allowance allocation statement may be submitted at a later time if an officer of Revenue and Customs allows it.
+
+(6) In this section “**relevant company tax return**” means a company tax return of a banking company for a chargeable accounting period for which an amount of group surcharge allowance was, or could have been, allocated by a previous group allowance allocation statement in respect of the nominee's accounting period.
+
+(7) The references in subsection (4) to an enquiry into a relevant company tax return do not include an enquiry resulting from an amendment of such a return where—
+
+- (a) the scope of the enquiry is limited as mentioned in paragraph 25(2) of Schedule 18 to FA 1998 (enquiry into amendments when time limit for enquiry into return as originally submitted is passed), and
+- (b) the amendment relates only to the allocation of group surcharge allowance for the nominee's accounting period.
+
+(8) A group allowance allocation statement under this section must comply with the requirements of section 269DI.
+
+## Annotations
+
+[^key-3e03660a4275e6ae3aa881f06df8542c]: Textual amendment: Pt. 7A Ch. 4 inserted (with effect in accordance with Sch. 3 Pt. 3 of the amending Act) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 3 para. 1](https://www.legislation.gov.uk/ukpga/2015/33/schedule/3/paragraph/1)

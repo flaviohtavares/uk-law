@@ -1,0 +1,70 @@
+---
+title: The Road Works (Maintenance) (Scotland) Regulations 1992
+id: uksi/1992/1673
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '1992-07-14'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1992/1673
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1992/1673/made/data.pdf
+pending_changes: 1
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Road Works (Maintenance) (Scotland) Regulations 1992
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+1992 No. 1673 (S.160)
+
+ROADS AND BRIDGES, SCOTLAND
+
+The Road Works (Maintenance) (Scotland) Regulations 1992
+
+Made
+
+14th July 1992
+
+Laid before Parliament
+
+15th July 1992
+
+Coming into force
+
+1st January 1993
+
+The Secretary of State, in exercise of the powers conferred on him by sections 140(3) and (4) and 163(1) of the New Roads and Street Works Act 1991[^f00001] and of all other powers enabling him in that behalf, hereby makes the following Regulations:
+
+**1.** These Regulations may be cited as the Road Works (Maintenance) (Scotland) Regulations 1992 and shall come into force on 1st January 1993.
+
+**2.** In these Regulations—
+
+- “the Act” means the New Roads and Street Works Act 1991;
+- “relevant apparatus” means manholes or other surface boxes and covers at or about the level of the road surface and manhole chambers, tunnels and other structures affecting the integrity of the structure of the road.
+
+**3.** If an undertaker fails to give the road works authority the facilities required by section 140(1) of the Act in relation to relevant apparatus, the road works authority may execute such works as are needed to enable them to inspect the relevant apparatus in such cases where they have reasonable cause to believe, by reason of subsidence or disturbance of the road surface, that the undertaker’s apparatus has not been maintained in accordance with that subsection.
+
+**4.** If an undertaker fails to secure that its relevant apparatus is maintained to the reasonable satisfaction of a road works authority in accordance with section 140(1) of the Act, the road works authority may execute any emergency works needed in consequence of the failure in such cases where they have made an inspection in accordance with regulation 3 above and have found that the relevant apparatus has not been so maintained.
+
+James Douglas-Hamilton
+
+Parliamentary Under Secretary of State, Scottish Office
+
+St. Andrew’s House,
+
+Edinburgh
+
+14th July 1992
+
+(This note is not part of the Regulations)
+
+These Regulations define the circumstances in which a road works authority, in cases where an undertaker has failed to afford to that authority facilities for inspecting the undertaker’s relevant apparatus (as defined in regulation 2) in a road, may carry out works to enable them to inspect the apparatus where they have reasonable cause to believe that the apparatus has not been maintained as required by section 140 of the New Roads and Street Works Act 1991. Where the inspection shows that the apparatus has not been so maintained, the road works authority may carry out emergency works needed in consequence of the undertaker’s failure to comply with its maintenance duty under section 140.
+
+## Annotations
+
+[^f00001]: Footnote: [1991 c. 22](https://www.legislation.gov.uk/ukpga/1991/22).

@@ -1,0 +1,43 @@
+---
+title: The Iran (Sanctions) (Nuclear) (EU Exit) Regulations 2019, section 31M
+act: The Iran (Sanctions) (Nuclear) (EU Exit) Regulations 2019
+section: 31M
+status: revised
+text_date: '2026-09-29'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2019/461/section/31M
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Iran (Sanctions) (Nuclear) (EU Exit) Regulations 2019, section 31M
+
+> Text as at 2026-09-29.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 31M. Technical assistance relating to oil and petroleum products[^key-4ad1f2c796308dd4c656dc2768c0e8b2]
+
+*Extent: E+W+S+N.I.*
+
+(1) A person must not directly or indirectly provide technical assistance relating to—
+
+- (a) the import of oil and petroleum products which—
+  - (i) originate in Iran, or
+  - (ii) are consigned from Iran,
+- (b) the direct or indirect acquisition of oil and petroleum products which—
+  - (i) originate in Iran, or
+  - (ii) are located in Iran, or
+- (c) the direct or indirect supply or delivery of oil and petroleum products from a place in Iran to a third country.
+
+(2) Paragraph (1) is subject to Part 6 (Exceptions and licences).
+
+(3) A person who contravenes any of the prohibitions in paragraph (1) commits an offence, but—
+
+- (a) it is a defence for a person charged with an offence of contravening paragraph (1)(a), to show that the person did not know and had no reasonable cause to suspect that the technical assistance related to an import described in that paragraph;
+- (b) it is a defence for a person charged with an offence of contravening paragraph (1)(b), to show that the person did not know and had no reasonable cause to suspect that the technical assistance related to an acquisition described in that paragraph;
+- (c) it is a defence for a person charged with an offence of contravening paragraph (1)(c), to show that the person did not know and had no reasonable cause to suspect that the technical assistance related to a supply or delivery described in that paragraph.
+
+## Annotations
+
+[^key-4ad1f2c796308dd4c656dc2768c0e8b2]: Textual amendment: [Pt. 5 Chs. 2A-2D](https://www.legislation.gov.uk/uksi/2019/461/part/5/chapter/2A) inserted (29.9.2026) by [The Iran (Sanctions) (Amendment) Regulations 2026 (S.I. 2026/983)](https://www.legislation.gov.uk/uksi/2026/983), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/983/regulation/1/2), [7(m)](https://www.legislation.gov.uk/uksi/2026/983/regulation/7/m)

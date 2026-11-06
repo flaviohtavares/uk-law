@@ -1,0 +1,55 @@
+---
+title: Health and Care Act 2022, section 113
+act: Health and Care Act 2022
+section: '113'
+status: revised
+text_date: '2025-07-07'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/2022/31/section/113
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Health and Care Act 2022, section 113
+
+> Text as at 2025-07-07.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 113. Final reports[^key-230861721c55678567e08062dd57c0db][^key-7b651541b2b17eb146ba10218c3381f4]
+
+*Extent: E+W*
+
+(1) When the HSSIB completes an investigation, it must publish a report on the outcome of the investigation (the “final report”).
+
+(2) The final report must—
+
+- (a) contain a statement of findings of fact made as a result of the investigation and an analysis of those findings,
+- (b) make such recommendations as to the action to be taken by any person as the HSSIB considers appropriate, and
+- (c) set out the HSSIB’s conclusions on the matters it considered in accordance with section 110(3) (but only if that provision is applicable to the investigation).
+
+(3) The final report must focus on ascertaining risks to the safety of patients and any recommendations as to the action to be taken by any person must focus on addressing those risks (rather than on the activities of individuals involved in the incident).
+
+(4) In particular, the final report may not include an assessment or determination of—
+
+- (a) blame,
+- (b) civil or criminal liability, or
+- (c) whether action needs to be taken in respect of an individual by a regulatory body.
+
+(5) Information which is protected material (see section 122(2)) may be disclosed in a final report if the HSSIB determines that the benefits to the safety of patients served by the disclosure outweigh—
+
+- (a) any adverse impact on current or future investigations by deterring persons from providing information to the HSSIB, and
+- (b) any adverse impact on securing the improvement of the safety of health care services provided to patients in England.
+
+(6) The final report may not, without their consent, include the name of any individual—
+
+- (a) who has provided information to the HSSIB for the purposes of the investigation, or
+- (b) who was involved in the incident being investigated.
+
+(7) Where an investigation is carried out pursuant to a direction under section 111, the HSSIB must send a copy of the final report to the Secretary of State.
+
+## Annotations
+
+[^key-230861721c55678567e08062dd57c0db]: Commencement: S. 113 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
+
+[^key-7b651541b2b17eb146ba10218c3381f4]: Commencement: [S. 113](https://www.legislation.gov.uk/ukpga/2022/31/section/113) in force at 1.10.2023 by [S.I. 2023/1035](https://www.legislation.gov.uk/uksi/2023/1035), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1035/regulation/2/a)

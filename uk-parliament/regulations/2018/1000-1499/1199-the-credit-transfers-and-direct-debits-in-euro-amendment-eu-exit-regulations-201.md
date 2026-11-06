@@ -1,0 +1,393 @@
+---
+title: The Credit Transfers and Direct Debits in Euro (Amendment) (EU Exit) Regulations 2018
+id: uksi/2018/1199
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised-with-pending-changes
+made_date: '2018-11-19'
+text_date: '2023-07-11'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2018/1199
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2018/1199/pdfs/uksiem_20181199_en.pdf
+- http://www.legislation.gov.uk/uksi/2018/1199/pdfs/uksi_20181199_en.pdf
+- http://www.legislation.gov.uk/uksi/2018/1199/data.pdf
+pending_changes: 1
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Credit Transfers and Direct Debits in Euro (Amendment) (EU Exit) Regulations 2018
+
+> **Warning: changes not yet applied to this text (1).** Text as at 2023-07-11. See https://www.legislation.gov.uk/changes/affected/uksi/2018/1199
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2018 No. 1199
+
+Exiting The European Union
+
+Financial Services
+
+The Credit Transfers and Direct Debits in Euro (Amendment) (EU Exit) Regulations 2018
+
+Made
+
+19th November 2018
+
+Coming into force in accordance with regulation 1
+
+[^c23524451]The Treasury make these Regulations in exercise of the powers conferred by section 8(1) of the European Union (Withdrawal) Act 2018 .
+
+In accordance with paragraph 1(1) of Schedule 7 to that Act a draft of this instrument has been laid before Parliament and approved by a resolution of each House of Parliament.[^key-277722daeb7631b2425c19dddc9fe300][^key-36a783bf43f20d1ff8bff5a1181d0f60]
+
+## PART 1 — Introduction
+
+### 1. Citation and commencement[^c23537471]
+
+(1) These Regulations may be cited as the Credit Transfers and Direct Debits in Euro (Amendment) (EU Exit) Regulations 2018.
+
+(2) These Regulations come into force on exit day.
+
+### 2. Interpretation[^c23537481]
+
+In these Regulations “**the SEPA Regulation**” means Regulation (EU) No 260/2012 of the European Parliament and of the Council of 14th March 2012 establishing technical and business requirements for credit transfers and direct debits in euro and amending Regulation [(EC) No 924/2009](https://www.legislation.gov.uk/eur/2009/924).
+
+## PART 2 — Amendments of subordinate legislation
+
+### 3. Amendments of Payments in Euro (Credit Transfers and Direct Debits) Regulations 2012[^c23537491]
+
+(1) The Payments in Euro (Credit Transfers and Direct Debits) Regulations 2012 [^c23524461] are amended as follows.
+
+(2) In regulation 2 (interpretation), in paragraph (1)—
+
+- (a)[^key-130e2048d1305eb133628d74e0c2e6ef] in the definition of “the 2009 European Regulation”, for “2009 European” substitute “2009”;
+- (b) in the definition of “the 2012 European Regulation”, for “2012 European” substitute “ 2012 ”;
+- (c)[^key-180a52a1766a04b7babf7c0faf0f8ef0] for the definition of “the European Regulations” substitute—
+
+  > - “the Regulations” means the 2009 Regulation or the 2012 Regulation;
+
+(3)[^key-8577ed7a40e215c8d2a993460ca7d2e9] In regulations 4 to 18—
+
+- (a) for “European Regulations” each time it appears, substitute “Regulations”;
+- (b) for “2012 European Regulation” each time it appears, substitute “2012 Regulation”.
+
+(4)[^key-6c36ff640fbddece0ad189ebd60772e8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5) Omit the following provisions—
+
+- (a) in regulation 15 (guidance), paragraph (1)(a);
+- (b) regulation 17 (exchange of information);
+- (c) in regulation 18 (civil proceedings), paragraph (1);
+- (d) regulation 19 (derogations under the 2012 European Regulation).
+
+## PART 3 — Amendments of retained direct EU legislation
+
+### 4. Introductory[^c23537501]
+
+The SEPA Regulation is amended as follows.
+
+### 5. Subject matter and scope of Regulation[^c23537511]
+
+In Article 1 (subject matter and scope), in paragraph 1, for the words from “within the Union” to the end substitute—
+
+> within the qualifying area, where—
+>
+> - (a) the payer's payment service provider and the payee's payment service provider are both located in the United Kingdom,
+> - (b) either of those payment service providers is located in the United Kingdom and the other is located in another qualifying State, or
+> - (c) the sole payment service provider (PSP) involved in the payment transaction is located in the United Kingdom.
+
+### 6. Terms defined for purposes of Regulation[^c23537521]
+
+(1) Article 2 (definitions) is amended as follows.
+
+(2) Before point (1) insert—
+
+> (A1) “**the qualifying area**” means the territory of the qualifying States;
+>
+> (A2) “**qualifying State**” means each of the following—
+>
+> - (a) the EEA states, [^key-569d806bb6f837078e423009b7dd84da]...
+> - (b) the United Kingdom; and[^key-bf6f31a4cd0363efc2715218e1d89e8c]
+> - (c) Gibraltar;
+
+.
+
+(3) In point (7), for “Union and within Member States” substitute “ qualifying area and within the United Kingdom ”.
+
+(4) Omit point (8).
+
+(5) Before point (9) insert—
+
+> (8A) UK-regulated PSP” means a payment service provider as defined by regulation 2(1) of the Payment Services Regulations 2017 [^c23524471];
+>
+> (8B) “**PSP**” means—
+>
+> - (a) a UK-regulated PSP, or
+> - (b) a PSP as defined by point (8), as it had effect immediately before IP completion day[^key-f9a330f3fc77b4325c2dd8709a902b9a];
+
+.
+
+(6) In point (10), for “Union” substitute “ qualifying area ”.
+
+(7) In point (14)—
+
+- (a) for “a Member State” substitute “ the United Kingdom ”;
+- (b) for “national” substitute “ UK ”.
+
+(8) In point (15), for “Member” substitute “ qualifying ”.
+
+(9) In point (17), for “Union-wide schemes” substitute “ schemes extending to the qualifying area ”.
+
+(10) For point (23) substitute—
+
+> (23) “**microenterprise**” means an enterprise which, at the time of conclusion of the payment service contract, is an enterprise which employs fewer than 10 persons and whose annual turnover or annual balance sheet total (or both) does not exceed EUR 2,000,000; and for this purpose—
+>
+> - (a) an enterprise is an entity engaged in an economic activity, irrespective of its legal form and includes, in particular, self-employed persons and family businesses engaged in craft or other activities, and partnerships or associations regularly engaged in an economic activity, and
+> - (b) the application of these ceilings to an enterprise which has a relationship with another enterprise and the data to apply to the headcount of staff and the financial amounts are to be determined in the manner described in Articles 3 to 6 of the Annex to Commission Recommendation 2003/361/EC of 6 May 2003 concerning the definition of micro, small and medium-sized enterprises, but as if references to the ceilings in Article 2 were references to the ceilings in this definition and as if in Article 3(5) the words “or Community” were omitted;
+
+.
+
+(11) In point (26), for “Member” substitute “ qualifying ”.
+
+(12) For point (27) substitute—
+
+> (27) “**UK payment transaction**” means a payment transaction initiated by a payer or by a payee, where the payer's PSP and the payee's PSP are both located in the United Kingdom, and “UK credit transfer” and “UK direct debit” have corresponding meanings;
+
+.
+
+### 7. Reachability[^c23537531]
+
+(1) Article 3 (reachability) is amended as follows.
+
+(2) In paragraph 1—
+
+- (a) for “PSP”, in the first place it occurs, substitute “ UK-regulated PSP ”;
+- (b) for “national” substitute “ UK ”;
+- (c) for “Union-wide payment scheme,” substitute “ payment scheme extending to the qualifying area, ”;
+- (d) for “Member” substitute “ qualifying ”.
+
+(3) In paragraph 2—
+
+- (a) for “PSP”, in the first place it occurs, substitute “ UK-regulated PSP ”;
+- (b) for “national” substitute “ UK ”;
+- (c) for “Union-wide payment scheme” substitute “ payment scheme extending to the qualifying area ”;
+- (d) for “Member” substitute “ qualifying ”.
+
+### 8. Interoperability[^c23537541]
+
+(1) Article 4 (interoperability) is amended as follows.
+
+(2) In paragraph 1—
+
+- (a) for “PSPs”, in the first place it occurs, substitute “ UK-regulated PSPs ”;
+- (b) for point (a) substitute—
+
+  > - (a) their rules are the same for UK credit transfer transactions and for cross-border credit transfer transactions within the qualifying area and similarly for UK direct debit transactions and cross-border direct debit transactions within the qualifying area; and
+
+  ;
+- (c) in point (b)—
+  - (i) for “Member” substitute “ EEA ”;
+  - (ii) for “Union” substitute “ territory of the EEA states ”;
+- (d) in the second subparagraph, for “Member” substitute “ EEA ”.
+
+(3) In paragraph 2—
+
+- (a) for “Union”, in the first place it occurs, substitute “ United Kingdom ”;
+- (b) for “Union”, in the second and third places it occurs, substitute “ qualifying area ”;
+- (c) for the sentence beginning “Payment systems designated” substitute “ Payment systems designated under the Financial Markets and Insolvency (Settlement Finality) Regulations 1999 [^c23524481] shall only be obliged to ensure technical interoperability with other payment systems designated either under those Regulations or under Directive [98/26/EC](https://www.legislation.gov.uk/eudr/1998/26) of the European Parliament and of the Council of 19 May 1998 on settlement finality in payment and securities settlement systems ”.
+
+(4) Omit paragraphs 4 and 5.
+
+(5) At the end insert—
+
+> **6.**
+>
+> Paragraph 1 is to be read subject to any temporary exemption from the conditions set out in point (b) of the first subparagraph of that paragraph that may be granted under paragraph 4 of this Article as it applies in the European Union.
+
+.
+
+### 9. Requirements for credit transfer and direct debit transactions[^c23537551]
+
+(1) Article 5 (requirements for credit transfer and direct debit transactions) is amended as follows.
+
+(2) In paragraph 1—
+
+- (a) for “PSPs”, in the first place it occurs, substitute “ UK-regulated PSPs ”;
+- (b) in point (c), for “the same Member State or in different Member States” substitute “ the United Kingdom, or in the United Kingdom and another qualifying State ”;
+- (c) in the second subparagraph, for “PSPs” substitute “ UK-regulated PSPs ”.
+
+(3) In paragraph 2—
+
+- (a) for “PSPs”, in the first place it occurs, substitute “ UK-regulated PSPs ”;
+- (b) for “national law implementing Directive [95/46/EC](https://www.legislation.gov.uk/eudr/1995/46)” substitute “ the General Data Protection Regulation ”.
+
+(4) In paragraph 3—
+
+- (a) in the first subparagraph—
+  - (i) for “PSPs”, in the first place it occurs, substitute “ UK-regulated PSPs ”;
+  - (ii) for “national law implementing Directive [95/46/EC](https://www.legislation.gov.uk/eudr/1995/46)” substitute “ the General Data Protection Regulation ”;
+  - (iii) in point (a)(ii), for “Articles 41 and 42 of Directive [2007/64/EC](https://www.legislation.gov.uk/eudr/2007/64)” substitute “ regulation 48 of, and Schedule 4 to, the Payment Services Regulations 2017 ”;
+- (b) in the third subparagraph, for “Articles 41 and 42 of Directive [2007/64/EC](https://www.legislation.gov.uk/eudr/2007/64)” substitute “ regulation 48 of, and Schedule 4 to, the Payment Services Regulations 2017 ”.
+
+(5) After paragraph 3 insert—
+
+> **3A.**
+>
+> In paragraphs 2 and 3 “**the General Data Protection Regulation**” means Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive [95/46/EC](https://www.legislation.gov.uk/eudr/1995/46) (General Data Protection Regulation).
+
+(6) In paragraph 4, omit the words from “and, until 1 February 2014” to “BIC”.
+
+(7) In paragraph 5, omit the second sentence.
+
+### 10. End-dates[^c23537561]
+
+Omit Article 6 (end-dates).
+
+### 11. Payment accessibility[^c23537571]
+
+In Article 9 (payment accessibility), in paragraphs 1 and 2—
+
+- (a) for “Union” substitute “ qualifying area ”;
+- (b) for “Member” substitute “ qualifying ”.
+
+### 12. Competent authorities, penalties, and out-of-court complaint and redress procedures[^c23537581]
+
+Omit the following provisions—
+
+- (a) Article 10 (competent authorities);
+- (b) Article 11 (penalties);
+- (c) Article 12 (out-of-court complaint and redress procedures).
+
+### 13. Power to amend technical requirements[^c23537591]
+
+(1) For Article 13 substitute—
+
+> **Article 13 — Power to amend technical requirements**
+>
+> **1.**
+>
+> The Treasury may by regulations made by statutory instrument amend the Annex, in order to take account of technical progress and market developments.
+>
+> **2.**
+>
+> Any such regulations may—
+>
+> - (a) contain incidental, supplemental, consequential and transitional provision, and
+> - (b) make different provision for different purposes.
+>
+> **3.**
+>
+> A statutory instrument containing regulations under this Article is subject to annulment in pursuance of a resolution of either House of Parliament.
+
+(2) Omit Article 14 (exercise of the delegation).
+
+### 14. Revocation of review, amendment and transitional provisions etc.[^c23537601]
+
+Omit the following provisions—
+
+- (a) Article 15 (review);
+- (b) Article 16 (transitional provisions) [^c23524491];
+- (c) Article 17 (amendments to Regulation [(EC) No 924/2009](https://www.legislation.gov.uk/eur/2009/924));
+- (d) in Article 18 (entry into force), the second subparagraph.
+
+## PART 4 — Power to revoke
+
+### 15. Power of Treasury to revoke legislation[^c23537611]
+
+(1) The Treasury may by regulations made by statutory instrument revoke the relevant legislation if it appears to them that PSPs in EEA states are complying with the SEPA Regulation, as it applies in the European Union, by using payment schemes—
+
+- (a) whose rules for cross-border credit transfer transactions or cross-border direct debit transactions where the payer's PSP or the payee's PSP is in the United Kingdom are different from those for cross-border credit transfer transactions or cross-border direct debit transactions where the payer's PSP and the payee's PSP are in EEA states, or
+- (b) whose participants do not include participants representing UK-regulated PSPs providing credit transfers or direct debits respectively.
+
+(2) In paragraph (1)—
+
+- (a) “**the relevant legislation**” means—
+  - (i) the SEPA Regulation,
+  - (ii) the Payments in Euro (Credit Transfers and Direct Debits) Regulations 2012, and
+  - (iii) these Regulations,
+- (b) “**PSP**” has the meaning given by Article 2(8) of the SEPA Regulation, as it had effect immediately before IP completion day[^key-abd74cbc5fc7f39391690988e5bc3f24], and
+- (c) “**UK-regulated PSP**” has the meaning given by Article 2(8A) of the SEPA Regulation.
+
+(3) Regulations under paragraph (1) may contain transitional provisions and savings.
+
+(4) A statutory instrument containing regulations under paragraph (1) is subject to annulment in pursuance of a resolution of either House of Parliament.
+
+Rebecca Harris
+
+Paul Maynard
+
+Two of the Lords Commissioners of Her Majesty's Treasury
+
+*(This note is not part of the Regulations)*
+
+These Regulations are made in exercise of the powers in section 8 of the European Union (Withdrawal) Act 2018 (c. 16) in order to address failures of retained EU law to operate effectively and other deficiencies arising from the withdrawal of the United Kingdom from the European Union**.**
+
+These Regulations amend the Payments in Euro (Credit Transfers and Direct Debits) Regulations 2012 (S.I. 2012/3122) and Regulation (EU) No 260/2012 of the European Parliament and of the Council of 14 March 2012 establishing technical and business requirements for credit transfers and direct debits in euro and amending Regulation [(EC) No 924/2009](https://www.legislation.gov.uk/european/regulation/2009/0924) by amending or omitting provisions that will no longer be appropriate after the withdrawal of the United Kingdom from the EU.
+
+An impact assessment of the effect that this instrument, and certain other instruments made by HM Treasury under the European Union (Withdrawal) Act 2018, will have on the costs of business, the voluntary sector and the public sector is available from HM Treasury, 1 Horse Guards Road, London SW1A 2HQ and is published alongside this instrument at www.legislation.gov.uk.
+
+## Annotations
+
+[^c23524451]: Marginal citation: [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16).
+
+[^key-277722daeb7631b2425c19dddc9fe300]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2018/1199) modified in part (31.12.2020) by [The Gibraltar (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/680)](https://www.legislation.gov.uk/uksi/2019/680), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/680/regulation/1/2), [11(1)](https://www.legislation.gov.uk/uksi/2019/680/regulation/11/1)[(4)](https://www.legislation.gov.uk/uksi/2019/680/regulation/11/4)[(5)](https://www.legislation.gov.uk/uksi/2019/680/regulation/11/5) (with [reg. 11(8)-(10)](https://www.legislation.gov.uk/uksi/2019/680/regulation/11/8)) (as amended by S.I. 2020/1301, [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 40(f)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/40/f)); 2020 c. 1, [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-36a783bf43f20d1ff8bff5a1181d0f60]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2018/1199): power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
+
+[^c23537471]: Commencement: Reg. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+
+[^c23537481]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+
+[^c23537491]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+
+[^c23524461]: Marginal citation: [S.I. 2012/3122](https://www.legislation.gov.uk/uksi/2012/3122).
+
+[^key-130e2048d1305eb133628d74e0c2e6ef]: Textual amendment: Reg. 3(2)(a) substituted (31.12.2020 immediately before IP completion day) by [The Securities Financing Transactions, Securitisation and Miscellaneous Amendments (EU Exit) Regulations 2020 (S.I. 2020/1385)](https://www.legislation.gov.uk/uksi/2020/1385), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/4), [45(2)(a)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/45/2/a)
+
+[^key-180a52a1766a04b7babf7c0faf0f8ef0]: Textual amendment: Reg. 3(2)(c) substituted (31.12.2020 immediately before IP completion day) by [The Securities Financing Transactions, Securitisation and Miscellaneous Amendments (EU Exit) Regulations 2020 (S.I. 2020/1385)](https://www.legislation.gov.uk/uksi/2020/1385), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/4), [45(2)(b)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/45/2/b)
+
+[^key-8577ed7a40e215c8d2a993460ca7d2e9]: Textual amendment: Reg. 3(3) substituted (31.12.2020 immediately before IP completion day) by [The Securities Financing Transactions, Securitisation and Miscellaneous Amendments (EU Exit) Regulations 2020 (S.I. 2020/1385)](https://www.legislation.gov.uk/uksi/2020/1385), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/4), [45(3)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/45/3)
+
+[^key-6c36ff640fbddece0ad189ebd60772e8]: Textual amendment: Reg. 3(4) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Securities Financing Transactions, Securitisation and Miscellaneous Amendments (EU Exit) Regulations 2020 (S.I. 2020/1385)](https://www.legislation.gov.uk/uksi/2020/1385), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/4), [45(4)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/45/4)
+
+[^c23537501]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+
+[^c23537511]: Commencement: Reg. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+
+[^c23537521]: Commencement: Reg. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+
+[^key-569d806bb6f837078e423009b7dd84da]: Textual amendment: Word in reg. 6(2) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Gibraltar (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/680)](https://www.legislation.gov.uk/uksi/2019/680), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/680/regulation/1/3), [6(a)](https://www.legislation.gov.uk/uksi/2019/680/regulation/6/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-bf6f31a4cd0363efc2715218e1d89e8c]: Textual amendment: Words in reg. 6(2) inserted (31.12.2020 immediately before IP completion day) by [The Gibraltar (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/680)](https://www.legislation.gov.uk/uksi/2019/680), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/680/regulation/1/3), [6(b)](https://www.legislation.gov.uk/uksi/2019/680/regulation/6/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c23524471]: Marginal citation: [S.I. 2017/752](https://www.legislation.gov.uk/uksi/2017/752).
+
+[^key-f9a330f3fc77b4325c2dd8709a902b9a]: Textual amendment: Words in reg. 6(5) substituted (30.12.2020) by [The Financial Services and Economic and Monetary Policy (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1301)](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 5(a)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/5/a)
+
+[^c23537531]: Commencement: Reg. 7 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+
+[^c23537541]: Commencement: Reg. 8 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+
+[^c23524481]: Marginal citation: [S.I. 1999/2979](https://www.legislation.gov.uk/uksi/1999/2979).
+
+[^c23537551]: Commencement: Reg. 9 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+
+[^c23537561]: Commencement: Reg. 10 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+
+[^c23537571]: Commencement: Reg. 11 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+
+[^c23537581]: Commencement: Reg. 12 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+
+[^c23537591]: Commencement: Reg. 13 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+
+[^c23537601]: Commencement: Reg. 14 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+
+[^c23524491]: Marginal citation: Article 16 was amended by Article 1 of Regulation (EU) No. 248/2014.
+
+[^c23537611]: Commencement: Reg. 15 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+
+[^key-abd74cbc5fc7f39391690988e5bc3f24]: Textual amendment: Words substituted in reg. 15(2)(b) (30.12.2020) by [The Financial Services and Economic and Monetary Policy (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1301)](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 5(b)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/5/b)

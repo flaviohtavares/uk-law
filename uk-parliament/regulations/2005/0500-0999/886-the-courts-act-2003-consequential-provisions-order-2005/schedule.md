@@ -1,0 +1,713 @@
+---
+title: The Courts Act 2003 (Consequential Provisions) Order 2005, SCHEDULE
+act: The Courts Act 2003 (Consequential Provisions) Order 2005
+section: schedule
+status: revised
+text_date: '2020-12-01'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2005/886/schedule
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Courts Act 2003 (Consequential Provisions) Order 2005, SCHEDULE
+
+> Text as at 2020-12-01.
+>
+> Extent: England, Wales.
+
+## SCHEDULE — Consequential Amendments
+
+*Extent: E+W*
+
+article 2
+
+### 1. Licensing Act 1964[^key-ecdaa5e606b607f21867798c0e768ffe][^f00003]
+
+In section 2 (licensing justices and districts)—
+
+- (a) in subsection (1), for “petty sessions areas” substitute “local justice areas”; and
+- (b) in subsection (2), for “petty sessions area” substitute “local justice area” and for “acting for that area” substitute “acting in that area”.
+
+**2.**[^key-4610f70e70599702e7f058bdc19ce749] In sections 8A(2)(a) (approved licensee) and in section 9A(2) (interim authorities), for “chief executive to” substitute “designated officer for”.
+
+**3.**[^key-079a00a4344eff2ec016206a02803236] In section 10(1) (protection orders), for “acting for the petty sessions area” substitute “acting in the local justice area”.
+
+**4.**[^key-56ddcb058c4c6dfab2976795a827ff48] In section 19 (power to require structural alterations on renewal of on-licence)—
+
+- (a) in subsection (1), for “chief executive” substitute “designated officer”; and
+- (b) in subsection (2), for “chief executive to” substitute “designated officer for”.
+
+**5.**[^key-cae6041caf56e458250902920f9144a2] In section 20 (consent required for certain alterations to on-licensed premises)—
+
+- (a) in subsection (2), for “chief executive” substitute “designated officer”; and
+- (b) in subsection (4), for “justices'chief executive” substitute “designated officer” and for “chief executive to” (in each place) substitute “designated officer for”.
+
+**6.**[^key-548c15c7a8534e2559f3b6a62dfd38bf] In sections 20A (3) (revocation), 22(1), (2), (4) and (5) (procedural provisions as to appeals) and 27(4)(c)(ii) (effect on duration of opposition to grant of licence), for “chief executive to” substitute “designated officer for”.
+
+**7.**[^key-356197fe4d3d3f317e5b734976948618] In the heading to section 28 (clerk and chief executive to licensing justices), for “chief executive to” substitute “designated officer for” and in that section—
+
+- (a) in subsection (1), for “acting for a petty sessions area” substitute “acting in a local justice area”
+- (b) in subsection (2), for “petty sessions area” substitute “local justice area”;
+- (c) in subsection (4), for “acting for a petty sessions area” substitute “acting in a local justice area”; and
+- (d) in subsection (5), for “justices' chief executive for a petty sessions area” substitute “designated officer for a local justice area” and for “chief executive to” substitute “designated officer for”.
+
+**8.**[^key-b27197c636dec004ab6901ab61fffd90] In section 29 (fees chargeable in licensing matters)—
+
+- (a) in subsection (1), for “justices' chief executives” substitute “designated officers”;
+- (b) in subsection (2), for “justices' chief executive acting as chief executive to licensing justices” substitute “designated officer acting as designated officer for licensing justices” and for “justices' chief executive acting as such” substitute “designated officer for the court”; and
+- (c) in subsection (3), for “justices' chief executive” substitute “designated officer”.
+
+**9.**[^key-a0309cd75665ff2df57b6dd4b6b97fd5] In section 30(1) and (4) (register of licences), for “chief executive to” substitute “designated officer for”.
+
+**10.**[^key-53adc37124d2474d59cf2b59a484ff08] In section 31 (convictions, forfeitures and disqualifications to be entered in register)—
+
+- (a) in subsection (1), for “chief executive to” (in both places) substitute “designated officer for” and for “justices' chief executive” substitute “designated officer”; and
+- (b) in subsection (2), for “chief executive to” substitute “designated officer for”.
+
+**11.**[^key-9c88c4c400a63794a3f7293707f08c65] In section 32(1) and (2) (registration of owner, etc), for “chief executive to” substitute “designated officer for”.
+
+**12.**[^key-3184a004b92061deb66dcb110a48d6a5] In section 33 (notice of conviction of licence holder to be given to registered owner)—
+
+- (a) in subsection (1), for “chief executive to” substitute “designated officer for”; and
+- (b) in subsection (2), for “chief executive” (in both places) substitute “designated officer”.
+
+**13.**[^key-45a61698d8337fa9a24a3bb432169728] In sections 34(3) (inspection of register) and 46(2) (rights of fire authorities in connection with registration of clubs), for “chief executive to” substitute “designated officer for”.
+
+**14.**[^key-bb28e7ba15e4c7b0ba12813643e9918d] In section 51 (register of clubs)—
+
+- (a) in subsection (1), for “chief executive to the justices for any petty sessions area” substitute “designated officer for the justices in any local justice area”;
+- (b) in subsection (2), for “chief executive of” substitute “designated officer for”; and
+- (c) in subsection (4), for “chief executive to” substitute “designated officer for”.
+
+**15.**[^key-bdc322f12d6fd59b2c66e969b2cb8935] In section 57(1) (applications to magistrates' courts under Part II), for “acting for the petty sessions area” substitute “acting in the local justice area”.
+
+**16.**[^key-1f8fe8faaadffcf0c0e39f99b00bc83c] In section 62(3) (notice of permitted hours to be given), for “chief executive to the justices for the petty sessions area” substitute “designated officer for the justices in the local justice area”.
+
+**17.**[^key-6802f1ee3421d8aa26144463eee2d47a] In section 75 (procedural provisions as to exemption orders outside metropolitan area)—
+
+- (a) in subsection (1), for “acting for the petty sessions area” substitute “acting in the local justice area”;
+- (b) in subsection (2), for “chief executive to” substitute “designated officer for”; and
+- (c) in subsection (3), for “chief executive” (in each place) substitute “designated officer”.
+
+**18.**[^key-beed2f97642905b059709719d3aa3273] In section 87A(5) (notice of application for variation of permitted hours in on-licensed vineyard premises), for “chief executive to” substitute “designated officer for”.
+
+**19.**[^key-db24132bd04819ffeb2c7a7d3350ce7e] In sections 133(1) (restoration to full force of licence in suspense), 142(1) (restoration to full force of licence in suspense), 150(3) and (4)(a) (provisional canteen licences) and 151(6) (opposition to renewal of canteen licences), for “chief executive to” substitute “designated officer for”.
+
+**20.**[^key-92de0f0b3746b2f0b32e591022f95680] In section 152(2) (transfer of canteen licences), for “petty sessions area” substitute “local justice area”.
+
+**21.**[^key-a8998dff596e2c03e94dc413c32b1142] In sections 153A(3) (revocation of canteen licences) and 154(1)(b) (rights of appeal), for “chief executive to” substitute “designated officer for”.
+
+**22.**[^key-0a34f9d62b0cd5c48aae0b0e1be244ca] In section 179B(7)(b) (consideration of closure order by certain justices), for “acting for the petty sessions area” substitute “acting in the local justice area”.
+
+**23.**[^key-497319e385e4a5a75b4e643b3f9ba341] In section 179F(1) (procedural requirements), for “acting for the petty sessions area” substitute “acting in the local justice area” and for “chief executive to” substitute “designated officer for”.
+
+**24.**[^key-dca17e85c2936f2038fa0e4727a02c1d] In section 179G(2) (notice of appeal), for “chief executive to” substitute “designated officer for” and for “justices' chief executive” substitute “designated officer for the court”.
+
+**25.**[^key-d3fe9d15699429eee99a988f3abb3f48] In section 180 (consent to grant of occasional licence)—
+
+- (a) in subsection (3), for “chief executive to” substitute “designated officer for”;
+- (b) in subsection (4), for “chief executive” (in each place) substitute “designated officer”; and
+- (c) in subsection (7), for “acting for the petty sessions area” substitute “acting in the local justice area”.
+
+**26.**[^key-f32159f8c867e6fd7431859b6fd54299] In section 190(1) (magistrates' courts, etc not to sit in licensed premises), for “petty-sessional court-house or occasional court-house” substitute “a place at which a magistrates' court may sit”.
+
+**27.**[^key-c01bcdc5a299a77dc654953f3c2899d6] In section 192 (jurisdiction of justices)—
+
+- (a) in subsection (1), for “acting for any petty sessions area” substitute “acting in any local justice area”; and
+- (b) in subsection (2), omit “Without prejudice to section 3 of the Magistrates' Courts Act 1980[^f00004]” and for “petty sessions areas” substitute “local justice areas”.
+
+**28.**[^key-b238eccf3b7221b785b5969dfbf2c13a] In section 196A(2) (extension to certain proceedings under this Act of section 97 of the Magistrates' Courts Act 1980), for “petty sessions area” substitute “local justice area”.
+
+**29.**[^key-ef64eb7098471ecbff24faee1897376a] In section 199(c) (exemptions and savings), for “chief executive to” substitute “designated officer for”.
+
+**30.**[^key-ac967d620138f6c26b9ef599867bc81f] In Schedule 1 (constitution and procedure of licensing justices)—
+
+- (a) in paragraph 6, omit “other than a borough having a separate commission of the peace” and for “acting for the petty sessions area” substitute “acting in the local justice area”; and
+- (b) in paragraph 11, for “chief executive to” substitute “designated officer for”.
+
+**31.**[^key-a1d2661024f6730e33b04292cc821aea] In paragraphs 1(a), 3 and 6 of Schedule 2 (applications for justices' licences), for “chief executive to” substitute “designated officer for”.
+
+**32.**[^key-1a4351c3434908a17b73c5c9ef867ec5] In Schedule 6 (procedure on applications and complaints relating to registration certificates)—
+
+- (a) in paragraphs 1(1) and (3), 2, 4, 6(1) and 7, for “chief executive to” substitute “designated officer for”; and
+- (b) in paragraph 4, for “chief executive” (in the second place) substitute “designated officer”.
+
+**33.**[^key-42a68cd5cfae967128a496b46e27d8b2] In paragraphs 1(1) and 4(2) of Schedule 8A (procedure for making, varying or revoking restriction orders), for “chief executive to” substitute “designated officer for”.
+
+**34.**[^key-0d4d53398b952fb33da91c9ce9008784] In paragraph 7 of Schedule 11 (licensing planning committees),
+
+- (a) for “chief executive to” substitute “designated officer for”;
+- (b) for “chief executives” substitute “designated officers”; and
+- (c) for “chief executive” (in the second place) substitute “designated officer”.
+
+**35.**[^key-4d140a0581913c57f02108f4acd5f831] In Schedule 12 (applications for grant or transfer of canteen licences),
+
+- (a) in paragraph 1(1)(a), for “chief executive of” substitute “designated officer for”; and
+- (b) in paragraph 3, for “chief executive to” substitute “designated officer for”.
+
+**36.**[^key-05eaa3dd3a29f1169fc93ade8913da12] In paragraphs 1(1), 2(1), 7(3)(a) and 8(a) of Schedule 12A (children’s certificates: supplementary provisions), for “chief executive to” substitute “designated officer for”.
+
+### 37. Gaming Act 1968[^key-e08a12c20089953710ea0ad303374c9f][^f00005]
+
+In paragraph 24(a) of Schedule 9 (permits under section 34), for “chief executive to” substitute “designated officer for”.
+
+### 38. Late Night Refreshment Houses Act 1969[^key-93866a1533584039c79ea10528145bf9][^f00006]
+
+In section 6(2) (local register of licences), for “justices' chief executive for any petty sessions area” substitute “designated officer for any local justice area”
+
+### 39. Lotteries and Amusements Act 1976[^key-64e13cd19e95968ba9332516cd762512][^f00007]
+
+In the definition of “the proper officer of the appropriate authority” in paragraph 1(2) of Schedule 3 (permits for commercial provision of amusements with prizes), for “chief executive to” substitute “designated officer for”.
+
+### 40. Bail Act 1976[^key-d85f88f3efefc3a33828187b953cec98][^f00008]
+
+In section 3(6C)(a) (general provisions) and in paragraph 6C(a) of Schedule 1 (persons entitled to bail: supplementary provisions), for “petty sessions area” substitute “local justice area”.
+
+### 41. Local Government (Miscellaneous Provisions) Act 1982[^key-76cd30c46cdc8a6fcc82083eb100ce3b][^f00009]
+
+In Schedule 3 (control of sex establishments)—
+
+- (a) in paragraph 27(1), for “the magistrates' court acting for the relevant area” substitute “a magistrates' court”; and
+- (b) omit the definition of “the relevant area” in paragraph 27(4).
+
+### 42. Criminal Justice Act 1982[^key-3efeed4360261efe97afb460ffa0e392][^f00010]
+
+In Schedule 13 (community service orders—reciprocal arrangements)—
+
+- (a) in paragraphs 7(1), (2)(b) and (3)(a), for “petty sessions area” substitute “local justice area”; and
+- (b) in the definition of “home court” in paragraph 9(2) and in paragraph 9(6)(a), for “acting for the petty sessions area” substitute “acting in the local justice area”.
+
+### 43. Licensing (Occasional Permissions) Act 1983[^key-e9eb5819a7542142361812b21599de85][^f00011]
+
+In section 2 (applications for occasional permissions)—
+
+- (a) in subsection (2), for “chief executive to” substitute “designated officer for”; and
+- (b) in subsections (3), (4) and (5), for “chief executive” substitute “designated officer”.
+
+### 44. Sporting Events (Control of Alcohol etc) Act 1985[^key-0dae149a98e39e79fef889489fea2d87][^f00012]
+
+In section 4 (supplementary provisions about orders under section 3)—
+
+- (a) in subsection (5), for “the magistrates' court acting for the petty sessions area in which the premises are situated” substitute “a magistrates' court”;
+- (b) in subsection (6), for “justices' chief executives” substitute “designated officers”; and
+- (c) in paragraph 1 of the Schedule (procedure), omit “acting for the petty sessions area for which the magistrates' court having jurisdiction in the matter acts”.
+
+### 45. Criminal Justice Act 1988[^key-ac5c76101d1f4b1756fa63fc42228f12][^f00013]
+
+In section 151(2) (Customs and Excise power of arrest), omit “for the petty sessions area in which he was arrested”.
+
+### 46. Road Traffic (Driver Licensing and Information Systems) Act 1989[^key-fd5882eb199d47d15457d779ad9a43ae][^f00014]
+
+In paragraph 7(1) of Schedule 1(existing HGV and PSV drivers'licences), for “to a magistrates' court acting for the petty sessions area in which the holder of the licence resides, or, in Scotland, to the sheriff within whose jurisdiction he resides” substitute “, if he resides in England and Wales, to a magistrates' court or, if he resides in Scotland, to the sheriff within whose jurisdiction he resides”.
+
+### 47. London Local Authorities Act 1991[^key-abdbcb6e4d5c783f2dd868871c81db90][^f00015]
+
+In section 13(1) (Part II appeals), for “the magistrates' court acting for the petty sessions area in which the premises are situated” substitute “a magistrates' court”.
+
+### 48. Criminal Justice Act 1991[^key-eebc36380c22ca141b827a28da0bd79d][^f00016]
+
+In Schedule 3 (reciprocal enforcement of certain orders)—
+
+- (a) in paragraph 10(1), (2)(b), (3)(a) and (4), for “petty sessions area” substitute “local justice area”; and
+- (b) in paragraph 11(5) and (8), for “acting for the petty sessions area” substitute “acting in the local justice area”.
+
+### 49. Sexual Offences (Amendment) Act 1992[^key-6c6a1672a573d92390f2cd8a39de7c98][^f00017]
+
+In section 3(6)(a) (power to displace section 1), omit “acting for the petty sessions area concerned”.
+
+### 50. Prisoners and Criminal Proceedings (Scotland) Act 1993[^key-bc81e5c30b3b3da07a47d124e5e81848][^f00018]
+
+(1) In sections 12(2)(a) (conditions in licence), 14(4)(c) (supervised release of short-term prisoners) and 15(1) (variation of supervised release order etc), for “petty sessions area” substitute “local justice area” and in section 14(5) for “chief executive to” substitute “designated officer for”.
+
+(2) For the definition of “petty sessions area” in section 27(1) (interpretation of Part I) substitute the following definition:
+
+- ‘“local justice area” has the same meaning as in the Courts Act [2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39);’.
+
+### 51. Local Government (Wales) Act 1994[^key-d49d61e0ce52cac3fba1331ece8dd1ea][^f00019]
+
+In section 55 (magistrates' courts, justices of the peace etc)—
+
+- (a) in subsection (2)(a), for “magistrates' court or keeper of the rolls for a commission area” substitute “or magistrates' court”;
+- (b) in subsection (2)(b), for “commission areas, petty sessions areas and areas to which magistrates' courts committees relate” substitute “local justice areas”; and
+- (c) in subsection (3), for “commission areas, petty sessions areas or areas of magistrates' courts committees” substitute “local justice areas”.
+
+### 52. Criminal Procedure (Scotland) Act 1995[^key-e20184eceb7344a1bb945c2f4e376ba4][^f00020]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 53. Crime (Sentences) Act 1997[^key-a00f273c6e54a1dfef4cd8ebbdb9a7cf][^f00021]
+
+In section 31(2A)(a) (conditions of licences), for “petty sessions area” substitute “local justice area”.
+
+### 54. Private Hire Vehicles (London) Act 1998[^key-17e9c0f5f3c86e493bc7ab0a5234ef89][^f00022]
+
+In section 25(2) (appeals), for “the magistrates' court for the petty sessions area in which the person to whom the functions have been delegated has his office or principal office” substitute “a magistrates' court”
+
+### 55. Crime and Disorder Act 1998[^key-5f542ae308a793a93096a32669529670][^f00023]
+
+In section 1(3) (anti-social behaviour orders), for “the magistrates' court whose commission area includes the local government area or police area concerned” substitute “a magistrates' court”.
+
+**56.**[^key-d80a98ac233bad09915c916d510b2090] In sections 1C(7) (orders on conviction in criminal proceedings) and 12(6) (child safety orders: supplemental), for “acting for the same petty sessions area” substitute “acting in the same local justice area”.
+
+**57.**[^key-fd291e5f8307d01dade5efac6a27e6ce] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**58.**[^key-bc6f60a5b40dc829ae338e26352c97c3] In section 18(3) ( directions under a parenting order), for “petty sessions area” substitute “local justice area”.
+
+**59.**[^key-8b17c92b746ffaec1691683f30de9b18] In section 47(1) (powers of youth courts), omit “acting for the same petty sessions area as the youth court”.
+
+**60.**[^key-e2c7ee75fad48fc4b98315c8e8eed714] In section 117(1) (general interpretation), omit the definition of “commission area”.
+
+**61.**[^key-81fef8f586bc2ecf33e6c2c7bd02df51] In Schedule 3 (procedure where persons are sent for trial under section 51)—
+
+- (a) in paragraph 4(1), omit “for any commission area” and “for that area”;
+- (b) in paragraph 4(9), (10) and (11), for “chief executive to” substitute “designated officer for”; and
+- (c) in paragraph 6(7), for “justices' chief executive” substitute “designated officer”.
+
+### 62. Powers of Criminal Courts (Sentencing) Act 2000[^key-cea29bf02f17178ddd3c4458714a2467][^f00024]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**63.**[^key-cea29bf02f17178ddd3c4458714a2467] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**64.**[^key-cea29bf02f17178ddd3c4458714a2467] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**65.**[^key-cea29bf02f17178ddd3c4458714a2467] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**66.**[^key-ee823f9a659bf948660c61706da5122d] In section 36B(9) and (10) (electronic monitoring of requirements in community orders), for “petty sessions area” substitute “local justice area”.
+
+**67.**[^key-63809ffb7d667e6a1e48e66ef9a9607d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**68.**[^key-63809ffb7d667e6a1e48e66ef9a9607d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**69.**[^key-63809ffb7d667e6a1e48e66ef9a9607d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**70.**[^key-63809ffb7d667e6a1e48e66ef9a9607d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**71.**[^key-63809ffb7d667e6a1e48e66ef9a9607d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**72.**[^key-3e8f4673cd55c6680c49daa53400ad49] In section 60(11) (attendance centre orders), for “justices chief executive” substitute “designated officer”.
+
+**73.**[^key-10e5d9c037f7e68ba6539ec0217aa736] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**74.**[^key-10e5d9c037f7e68ba6539ec0217aa736] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**75.**[^key-10e5d9c037f7e68ba6539ec0217aa736] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**76.**[^key-10e5d9c037f7e68ba6539ec0217aa736] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**77.**[^key-10e5d9c037f7e68ba6539ec0217aa736] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**78.**[^key-10e5d9c037f7e68ba6539ec0217aa736] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**79.**[^key-10e5d9c037f7e68ba6539ec0217aa736] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**80.**[^key-2ee45af1bd226ddc3517c68d42d49065] In the definition of “the register” in section 163 (general definitions), for “justices' chief executive” substitute “designated officer”.
+
+**81.**[^key-67686d8b985b1a34ea33215cab820d05] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**82.**[^key-2ac3630cc92df828d5ad03b81df57abd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**83.**[^key-8c2fc073a670462284e99e5d363fe737] In Schedule 5 (breach, revocation and amendment of attendance centre orders)—
+
+- (a) in paragraph 1(1), for “acting for a relevant petty sessions area” substitute “acting in a relevant local justice area” and for “acting for the area” substitute “acting in the area”;
+- (b) in paragraph 1(2), for “petty sessions area” (in both places) substitute “local justice area” and for “acting for it” substitute “acting in it”;
+- (c) in paragraph 4(2)(b)(i), for “acting for the petty sessions area” substitute “acting in the local justice area”;
+- (d) in paragraph 4(7)(a), for “justices chief executive” substitute “designated officer”;
+- (e) in paragraph 5(2)(a), for “acting for the petty sessions area” substitute “acting in the local justice area”; and
+- (f) in paragraph 5(3), for “justices' chief executive” substitute “designated officer”.
+
+**84.**[^key-cb7f1cc750994a6124ec9d9dfc6e61a6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**85.**[^key-161ae0213fd1491f4f7b6aa3b0979c20] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 86. London Local Authorities Act 2000[^key-f51674ff21ef0a97ee80b4529b8f4a0e][^f00025]
+
+In section 19(4) (cleansing relevant land of litter and refuse), omit “acting for the petty sessions are in which the relevant land is situated”.
+
+### 87. Criminal Justice and Court Services Act 2000[^key-8403b5e2a19d6fc6daa1e5dae34e5d01][^f00026]
+
+In paragraph 199(26) of Schedule 7 (minor and consequential amendments), for “justice's; chief executive” (in both places) substitute “designated officer”.
+
+### 88. Criminal Justice and Police Act 2001[^key-ff91cec7e28339d93d62f7ba0a4c9d1b][^f00027]
+
+In sections 20(1) (applications for closure orders) and 23(1) (discharge of closure orders by the court), omit “acting for the petty sessions area in which the premises are situated”.
+
+### 89. Licensing Act 2003[^key-dc17f15516a3378ed001642bbeb1ccf9][^f00028]
+
+In section 157(1) (power to prohibit sale of alcohol on trains), for “acting for a petty sessions area” substitute “acting for the local justice area”.
+
+**90.**[^key-bd6e9dc000879b26d6d291dc7921b165] In section 160(1) (orders to close premises in area experiencing disorder), for “petty sessions area” substitute “local justice area” and for “acting for the area” substitute “acting in the area”.
+
+**91.**[^key-fdb4dcd3d9c4f5b85cfcbfb0f8c67485] In section 166(2) (appeal from decision of magistrates' court), for “justices' chief executive” substitute “designated officer”.
+
+**92.**[^key-a924b9e37ed198cc0b2b6a716be4bfe2] In the definition of “relevant magistrates' court” in section 171(5) (interpretation of Part 8), for “acting for the petty sessions area” substitute “acting in the local justice area”.
+
+**93.**[^key-815a700188ccc95f50d8b511427513e3] In Schedule 5 (appeals)—
+
+- (a) in paragraphs 9(1), 15(1) and 16(4), for “the magistrates' court for the petty sessions area (or any such area) in which the premises concerned are situated” substitute “a magistrates' court” and in paragraphs 9(2), 15(2) and 16(5), for “justices' chief executive” substitute “designated officer”;
+- (b) in paragraph 17—
+  - (i) in subparagraph (6), for “the magistrates' court for the petty sessions area in which the licensing authority’s area (or any part of it) is situated” substitute “a magistrates' court”; and
+  - (ii) in subparagraph (7), for “justices' chief executive” substitute “designated officer”; and
+- (c) in paragraph 18—
+  - (i) in subparagraphs (3) and (4), omit “appropriate”;
+  - (ii) in subparagraph (5), for “justices' chief executive” substitute “designated officer”; and
+- (d) omit the definition of “appropriate magistrates' court” in paragraph 18(7).
+
+**94.**[^key-04759bc08bdeac6b8a814823ba408642] In paragraph 23(4)(a) of Schedule 8 (transitional provision etc), for “chief executive of” substitute “designated officer for”.
+
+### 95. Communications Act 2003[^key-0fd403f5baf7645098fe149a5276adf9][^f00029]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 96. Local Government Act 2003[^key-4c873325405f37086a4db416e0707620][^f00030]
+
+In section 23(1) (“local authority”), omit paragraph (i) and in section 33(1) (interpretation of Chapter I), omit paragraph (h).
+
+### 97. Crime (International Co-operation) Act 2003[^key-3f988fbdcbe28e8f750966e7b246aceb][^f00031]
+
+In section 59(2)(a) (appeal against disqualification), omit “acting for the petty sessions area in which the applicant resides”.
+
+### 98. Anti-social Behaviour Act 2003[^key-27ffd72aaffe088ab1c41c1bcd19ca52][^f00032]
+
+In section 5(1) and (6) (extension and discharge of closure order), for “an appropriate justice of the peace” substitute “a justice of the peace” and omit section 5(10).
+
+### 99. Criminal Justice Act 2003[^key-3f5e84b0605e6cd9ce3d60b0785a8b39][^f00033]
+
+In section 53 (magistrates' courts permitted to sit at other locations)—
+
+- (a) in subsection (1)(b), for “petty-sessional court-house in” substitute “place at”;
+- (b) in subsection (2), for the words from “appointed” to the end substitute “authorised by a direction under section 30 of the Courts Act 2003”; and
+- (c) for subsection (3) substitute—
+
+  > (3) If the place mentioned in subsection (2) is outside the local justice area in which the justices act it shall be deemed to be in that area for the purpose of the jurisdiction of the justices acting in that area.
+
+  .
+
+**100.**[^key-bea470ffe525e5823e88a9e819dc3db5] In section 56(1) (interpretation of Part 8), omit the definition of “petty-sessional court-house” and for the definition of “petty sessions area” substitute \`“local justice area” has the same meaning as in the Courts Act [2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39)'.
+
+**101.**[^key-4bfdb313940c61eff779297253e3a366] In sections 192(8)(b) (periodic reviews of suspended sentence order) and 211(9)(b) (periodic review of drug rehabilitation requirement), omit “acting for the commission area for which the court acts”.
+
+**102.**[^key-a7d9c1c04582cb40f13985808a3f16ea] In section 197(2)(a) and (b) (meaning of “the responsible officer”), for “petty sessions area” substitute “local justice area”.
+
+**103.**[^key-4e0ef67b922dc723c3f53bc632b3f605] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**104.**[^key-4e0ef67b922dc723c3f53bc632b3f605] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**105.**[^key-4e0ef67b922dc723c3f53bc632b3f605] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**106.**[^key-4e0ef67b922dc723c3f53bc632b3f605] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**107.**[^key-4e0ef67b922dc723c3f53bc632b3f605] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**108.**[^key-b05d5c35dd3e976d4d34b3dd80b9eee8] In Schedule 10 (revocation or amendment of custody plus orders and amendment of intermittent custody orders)—
+
+- (a) in paragraph 1(1)—
+  - (i) in the definition of “the appropriate court”, for “acting for the petty sessions area” substitute “acting in the local justice area”; and
+  - (ii) for “petty sessions area” (in the second and third places) substitute “local justice area”;
+- (b) in paragraph 4, for “petty sessions area” (in each place) substitute “local justice area”; and
+- (c) in paragraph 9—
+  - (i) in subparagraph (1)(b), for “petty sessions area” substitute “local justice area” and for “acting for that area” substitute “acting in that area”; and
+  - (ii) in subparagraph (2), for “acting for a different area” substitute “acting in a different area” and for “acting for that area” substitute “acting in that area”.
+
+**109.**[^key-cac4f718ed657ca8e2241fe32fb46282] In Schedule 11 (transfer of custody plus orders and intermittent custody orders to Scotland or Northern Ireland)—
+
+- (a) in paragraphs 5, 11, 16 (in each place) and 22(4), (5), (6) and (7)(a), for “petty sessions area” substitute “local justice area”; and
+- (b) in paragraph 22(7)(b), for “acting for that area” (in both places) substitute “acting in that area”.
+
+**110.**[^key-41ca339d2ff668a0daf1ad3900bfad3a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**111.**[^key-ec872d12fb7470b8d8f4d79ad8cc6465] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**112.**[^key-455d4b8b0f621ed8b3a2d14c05667010] In Schedule 32 (amendments relating to sentencing)—
+
+- (a) in paragraphs 85(3)(c), for “petty sessions area” substitute “local justice area”; and
+- (b) in paragraph 125, in the Schedule substituted for Schedule 3 to the Crime (Sentences) Act 1997[^f00034],
+  - (i) in paragraph 1, for “petty sessions area” (in each place) substitute “local justice area”;
+  - (ii) in paragraph 3(1) and (2), for “acting for the petty sessions area” substitute “acting in the local justice area”;
+  - (iii) in paragraphs 10(2) and 12(2), for “acting for the petty sessions area” substitute “acting in the local justice area”;
+  - (iv) in paragraph 14(2)(a), for “justices' chief executive” substitute “designated officer”;
+  - (v) in paragraphs 15, in subparagraph (1), for “acting for the petty sessions area” substitute “acting in the local justice area” and for “petty sessions area” (in the second and third places) substitute “local justice area” and, in subparagraphs (2) and (3), for “petty sessions area” substitute “local justice area”;
+  - (vi) in paragraph 16, for “acting for the petty sessions area” substitute “acting in the local justice area”;
+  - (vii) in paragraph 18(2), for “petty sessions area” substitute “local justice area”; and
+  - (vi) in paragraph 19(1) for “justices' chief executive” substitute “designated officer”, for “chief executive to” substitute “designated officer for” and for “petty sessions area” (in each place) substitute “local justice area”.
+
+### 113. Domestic Violence, Crime and Victims Act 2004[^key-8bbaa69dac9c3cac42d8ab4c07056694][^f00035]
+
+In Schedule 5 (procedure on breach of community penalty etc)—
+
+- (a)[^key-181e291c8baff53a1bdf61bf766bb075] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) in paragraph 3—
+  - (i) in subparagraph (2), for “petty sessions area” substitute “local justice area”;
+  - (ii) in subparagraph (3), for “petty sessions area” (in the first place) substitute “local justice area” and for “acting for the petty sessions area” substitute “acting in the local justice area”; and
+  - (iii) in subparagraph (4), for “acting for the petty sessions area” substitute “acting in the local justice area”;
+- (c) in paragraphs 4 and 5, for “acting for the petty sessions area” (in each place) substitute “acting in the local justice area”;
+- (d) in paragraph 6—
+  - (i) in subparagraph (2), for “petty sessions area” substitute “local justice area” and for “acting for the area” substitute “acting in the area”; and
+  - (ii) in subparagraph (3), for “acting for the petty sessions area” (in both places) substitute “acting in the local justice area”;
+- (e)[^key-ecf9c2508741542c17467b4555569f82] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (f)[^key-ecf9c2508741542c17467b4555569f82] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Annotations
+
+[^key-ecdaa5e606b607f21867798c0e768ffe]: Commencement: Sch. para. 1 in force at 1.4.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/886/article/1)
+
+[^f00003]: Footnote: [1964 c. 26](https://www.legislation.gov.uk/ukpga/1964/26). The whole Act is repealed by section 199 of, and Schedule 7 to, the Licensing Act [2003 (c. 17)](https://www.legislation.gov.uk/ukpga/2003/17) but the repeal is not yet in force. Sections 8A and 9A were inserted by S.I. [1996/114](https://www.legislation.gov.uk/uksi/1996/114), sections 20A, 87A, 153A and Schedule 8A by sections 3, 8 and 12 of the Licensing Act [1988 (c. 17)](https://www.legislation.gov.uk/ukpga/1988/17), sections 179B, 179F and 179G by section 17 of the Criminal Justice and Police Act [2001 (c. 16)](https://www.legislation.gov.uk/ukpga/2001/16) and Schedule 12A by section 19 of the Deregulation and Contracting Out Act [1994 (c. 40)](https://www.legislation.gov.uk/ukpga/1994/40). Section 2(2) was substituted by section 76 of the Access to Justice Act [1999 (c. 22)](https://www.legislation.gov.uk/ukpga/1999/22) and relevant amendments were made to the provisions specified in paragraphs 1 to 31 of this Schedule by section 90(1) of, and Schedule 13 to, that Act.
+
+[^key-4610f70e70599702e7f058bdc19ce749]: Commencement: Sch. para. 2 in force at 1.4.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/886/article/1)
+
+[^key-079a00a4344eff2ec016206a02803236]: Commencement: Sch. para. 3 in force at 1.4.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/886/article/1)
+
+[^key-56ddcb058c4c6dfab2976795a827ff48]: Commencement: Sch. para. 4 in force at 1.4.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/886/article/1)
+
+[^key-cae6041caf56e458250902920f9144a2]: Commencement: Sch. para. 5 in force at 1.4.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/886/article/1)
+
+[^key-548c15c7a8534e2559f3b6a62dfd38bf]: Commencement: Sch. para. 6 in force at 1.4.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/886/article/1)
+
+[^key-356197fe4d3d3f317e5b734976948618]: Commencement: Sch. para. 7 in force at 1.4.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/886/article/1)
+
+[^key-b27197c636dec004ab6901ab61fffd90]: Commencement: Sch. para. 8 in force at 1.4.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/886/article/1)
+
+[^key-a0309cd75665ff2df57b6dd4b6b97fd5]: Commencement: Sch. para. 9 in force at 1.4.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/886/article/1)
+
+[^key-53adc37124d2474d59cf2b59a484ff08]: Commencement: Sch. para. 10 in force at 1.4.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/886/article/1)
+
+[^key-9c88c4c400a63794a3f7293707f08c65]: Commencement: Sch. para. 11 in force at 1.4.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/886/article/1)
+
+[^key-3184a004b92061deb66dcb110a48d6a5]: Commencement: Sch. para. 12 in force at 1.4.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/886/article/1)
+
+[^key-45a61698d8337fa9a24a3bb432169728]: Commencement: Sch. para. 13 in force at 1.4.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/886/article/1)
+
+[^key-bb28e7ba15e4c7b0ba12813643e9918d]: Commencement: Sch. para. 14 in force at 1.4.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/886/article/1)
+
+[^key-bdc322f12d6fd59b2c66e969b2cb8935]: Commencement: Sch. para. 15 in force at 1.4.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/886/article/1)
+
+[^key-1f8fe8faaadffcf0c0e39f99b00bc83c]: Commencement: Sch. para. 16 in force at 1.4.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/886/article/1)
+
+[^key-6802f1ee3421d8aa26144463eee2d47a]: Commencement: Sch. para. 17 in force at 1.4.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/886/article/1)
+
+[^key-beed2f97642905b059709719d3aa3273]: Commencement: Sch. para. 18 in force at 1.4.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/886/article/1)
+
+[^key-db24132bd04819ffeb2c7a7d3350ce7e]: Commencement: Sch. para. 19 in force at 1.4.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/886/article/1)
+
+[^key-92de0f0b3746b2f0b32e591022f95680]: Commencement: Sch. para. 20 in force at 1.4.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/886/article/1)
+
+[^key-a8998dff596e2c03e94dc413c32b1142]: Commencement: Sch. para. 21 in force at 1.4.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/886/article/1)
+
+[^key-0a34f9d62b0cd5c48aae0b0e1be244ca]: Commencement: Sch. para. 22 in force at 1.4.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/886/article/1)
+
+[^key-497319e385e4a5a75b4e643b3f9ba341]: Commencement: Sch. para. 23 in force at 1.4.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/886/article/1)
+
+[^key-dca17e85c2936f2038fa0e4727a02c1d]: Commencement: Sch. para. 24 in force at 1.4.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/886/article/1)
+
+[^key-d3fe9d15699429eee99a988f3abb3f48]: Commencement: Sch. para. 25 in force at 1.4.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/886/article/1)
+
+[^key-f32159f8c867e6fd7431859b6fd54299]: Commencement: Sch. para. 26 in force at 1.4.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/886/article/1)
+
+[^key-c01bcdc5a299a77dc654953f3c2899d6]: Commencement: Sch. para. 27 in force at 1.4.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/886/article/1)
+
+[^f00004]: Footnote: [1980 c. 43](https://www.legislation.gov.uk/ukpga/1980/43).
+
+[^key-b238eccf3b7221b785b5969dfbf2c13a]: Commencement: Sch. para. 28 in force at 1.4.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/886/article/1)
+
+[^key-ef64eb7098471ecbff24faee1897376a]: Commencement: Sch. para. 29 in force at 1.4.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/886/article/1)
+
+[^key-ac967d620138f6c26b9ef599867bc81f]: Commencement: Sch. para. 30 in force at 1.4.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/886/article/1)
+
+[^key-a1d2661024f6730e33b04292cc821aea]: Commencement: Sch. para. 31 in force at 1.4.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/886/article/1)
+
+[^key-1a4351c3434908a17b73c5c9ef867ec5]: Commencement: Sch. para. 32 in force at 1.4.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/886/article/1)
+
+[^key-42a68cd5cfae967128a496b46e27d8b2]: Commencement: Sch. para. 33 in force at 1.4.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/886/article/1)
+
+[^key-0d4d53398b952fb33da91c9ce9008784]: Commencement: Sch. para. 34 in force at 1.4.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/886/article/1)
+
+[^key-4d140a0581913c57f02108f4acd5f831]: Commencement: Sch. para. 35 in force at 1.4.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/886/article/1)
+
+[^key-05eaa3dd3a29f1169fc93ade8913da12]: Commencement: Sch. para. 36 in force at 1.4.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/886/article/1)
+
+[^key-e08a12c20089953710ea0ad303374c9f]: Commencement: Sch. para. 37 in force at 1.4.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/886/article/1)
+
+[^f00005]: Footnote: [1968 c. 65](https://www.legislation.gov.uk/ukpga/1968/65). Paragraph 24 was inserted by section 90(1) of, and Schedule 13 to, the Access to Justice Act [1999 (c. 22)](https://www.legislation.gov.uk/ukpga/1999/22). It is repealed by sections 198(1) and 199 of the Licensing Act [2003 (c. 17)](https://www.legislation.gov.uk/ukpga/2003/17) but the repeal is not yet in force.
+
+[^key-93866a1533584039c79ea10528145bf9]: Commencement: Sch. para. 38 in force at 1.4.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/886/article/1)
+
+[^f00006]: Footnote: [1969 c. 53](https://www.legislation.gov.uk/ukpga/1969/53). Section 6(2) was inserted by section 90(1) of, and Schedule 13 to, the Access to Justice Act [1999 (c. 22)](https://www.legislation.gov.uk/ukpga/1999/22). Section 6 is repealed by sections 198(1) and 199 of the Licensing Act [2003 (c. 17)](https://www.legislation.gov.uk/ukpga/2003/17) but the repeal is not yet in force.
+
+[^key-64e13cd19e95968ba9332516cd762512]: Commencement: Sch. para. 39 in force at 1.4.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/886/article/1)
+
+[^f00007]: Footnote: [1976 c. 32](https://www.legislation.gov.uk/ukpga/1976/32). The definition of “the proper officer of the appropriate authority” in paragraph 1(2) of Schedule 3 was inserted by section 80(1) of, and Schedule 13 to, the Access to Justice Act [1999 (c. 22)](https://www.legislation.gov.uk/ukpga/1999/22). It is repealed by sections 198(1) and 199 of the Licensing Act [2003 (c. 17)](https://www.legislation.gov.uk/ukpga/2003/17) but the repeal is not yet in force.
+
+[^key-d85f88f3efefc3a33828187b953cec98]: Commencement: Sch. para. 40 in force at 1.4.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/886/article/1)
+
+[^f00008]: Footnote: [1976 c. 63](https://www.legislation.gov.uk/ukpga/1976/63). Section 3(6C) was inserted by section 19(1) and (2) of the Criminal Justice Act [2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44) and paragraph 6C of Schedule 1 was inserted by section 19(1) and (4) of that Act.
+
+[^key-76cd30c46cdc8a6fcc82083eb100ce3b]: Commencement: Sch. para. 41 in force at 1.4.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/886/article/1)
+
+[^f00009]: Footnote: [1982 c. 30](https://www.legislation.gov.uk/ukpga/1982/30).
+
+[^key-3efeed4360261efe97afb460ffa0e392]: Commencement: Sch. para. 42 in force at 1.4.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/886/article/1)
+
+[^f00010]: Footnote: [1982 c. 48](https://www.legislation.gov.uk/ukpga/1982/48).
+
+[^key-e9eb5819a7542142361812b21599de85]: Commencement: Sch. para. 43 in force at 1.4.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/886/article/1)
+
+[^f00011]: Footnote: [1983 c. 24](https://www.legislation.gov.uk/ukpga/1983/24). Section 2 was amended by section 90(1) of, and Schedule 13 to, the Access to Justice Act [1999 (c. 22)](https://www.legislation.gov.uk/ukpga/1999/22).
+
+[^key-0dae149a98e39e79fef889489fea2d87]: Commencement: Sch. para. 44 in force at 1.4.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/886/article/1)
+
+[^f00012]: Footnote: [1985 c. 57](https://www.legislation.gov.uk/ukpga/1985/57). Section 4 and Schedule 1 are repealed by sections 198(1) and 199 of the Licensing Act [2003 (c. 17)](https://www.legislation.gov.uk/ukpga/2003/17) but the repeal is not yet in force. Section 4(6) was amended by section 90(1) of, and Schedule 13 to, the Access to Justice Act [1999 (c. 22)](https://www.legislation.gov.uk/ukpga/1999/22).
+
+[^key-ac5c76101d1f4b1756fa63fc42228f12]: Commencement: Sch. para. 45 in force at 1.4.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/886/article/1)
+
+[^f00013]: Footnote: [1988 c. 33](https://www.legislation.gov.uk/ukpga/1988/33).
+
+[^key-fd5882eb199d47d15457d779ad9a43ae]: Commencement: Sch. para. 46 in force at 1.4.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/886/article/1)
+
+[^f00014]: Footnote: [1989 c. 22](https://www.legislation.gov.uk/ukpga/1989/22).
+
+[^key-abdbcb6e4d5c783f2dd868871c81db90]: Commencement: Sch. para. 47 in force at 1.4.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/886/article/1)
+
+[^f00015]: Footnote: [1991 c. xiii](https://www.legislation.gov.uk/ukpga/1991/13).
+
+[^key-eebc36380c22ca141b827a28da0bd79d]: Commencement: Sch. para. 48 in force at 1.4.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/886/article/1)
+
+[^f00016]: Footnote: [1991 c. 53](https://www.legislation.gov.uk/ukpga/1991/53). Paragraph 10(2)(b) and (3)(a) was amended by section 74 of, and Schedule 7 to, the Criminal Justice and Court Services Act [2000 (c. 43)](https://www.legislation.gov.uk/ukpga/2000/43) and paragraph 11(5)(a) of that Schedule was amended by section 165(1) of, and Schedule 9 to, the Powers of Criminal Courts (Sentencing) Act [2000 (c. 6)](https://www.legislation.gov.uk/ukpga/2000/6).
+
+[^key-6c6a1672a573d92390f2cd8a39de7c98]: Commencement: Sch. para. 49 in force at 1.4.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/886/article/1)
+
+[^f00017]: Footnote: [1992 c. 34](https://www.legislation.gov.uk/ukpga/1992/34).
+
+[^key-bc81e5c30b3b3da07a47d124e5e81848]: Commencement: Sch. para. 50 in force at 1.4.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/886/article/1)
+
+[^f00018]: Footnote: [1993 c. 9](https://www.legislation.gov.uk/ukpga/1993/9). Section 12(2)(a) was amended by section 74 of, and Schedule 7 to, the Criminal Justice and Court Services Act [2000 (c. 43)](https://www.legislation.gov.uk/ukpga/2000/43) and the definition of “petty sessions area” in section 27(1) was amended by section 73(2) of, and Schedule 5 to, the Justices of the Peace Act [1997 (c. 25)](https://www.legislation.gov.uk/ukpga/1997/25).
+
+[^key-d49d61e0ce52cac3fba1331ece8dd1ea]: Commencement: Sch. para. 51 in force at 1.4.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/886/article/1)
+
+[^f00019]: Footnote: [1994 c. 19](https://www.legislation.gov.uk/ukpga/1994/19). Section 5(2) was amended by section 105 of, and Schedule 15 to, the Access to Justice Act [1999 (c. 22)](https://www.legislation.gov.uk/ukpga/1999/22) and section 5(3) was amended by section 76(2) of, and Schedule 10 to, that Act.
+
+[^key-e20184eceb7344a1bb945c2f4e376ba4]: Textual amendment: [Sch. para. 52](https://www.legislation.gov.uk/uksi/2005/886/schedule/paragraph/52) omitted (S.) (1.2.2011) by virtue of [The Criminal Justice and Licensing (Scotland) Act 2010 (Consequential and Supplementary Provisions) Order 2011 (S.S.I. 2011/25)](https://www.legislation.gov.uk/ssi/2011/25), [art. 1](https://www.legislation.gov.uk/ssi/2011/25/article/1), [sch. para. 9](https://www.legislation.gov.uk/ssi/2011/25/schedule/paragraph/9) (with [art. 3](https://www.legislation.gov.uk/ssi/2011/25/article/3))
+
+[^f00020]: Footnote: [1995 c. 46](https://www.legislation.gov.uk/ukpga/1995/46). Section 234(1)(a) and (3)(c) was amended by section 74 of, and Schedule 7 to, the Criminal Justice and Court Services Act [2000 (c. 43)](https://www.legislation.gov.uk/ukpga/2000/43) and section 234(9) was amended by section 90(1) of, and Schedule 13 to, the Access to Justice Act [1999 (c. 22)](https://www.legislation.gov.uk/ukpga/1999/22).
+
+[^key-a00f273c6e54a1dfef4cd8ebbdb9a7cf]: Commencement: Sch. para. 53 in force at 1.4.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/886/article/1)
+
+[^f00021]: Footnote: [1997 c. 43](https://www.legislation.gov.uk/ukpga/1997/43). Section 31(2A) was inserted by section 119 of, and Schedule 8 to, the Crime and Disorder Act [1998 (c. 37)](https://www.legislation.gov.uk/ukpga/1998/37) and amended by section 74 of, and Schedule 7 to, the Criminal Justice and Court Services Act [2000 (c. 43)](https://www.legislation.gov.uk/ukpga/2000/43).
+
+[^key-17e9c0f5f3c86e493bc7ab0a5234ef89]: Commencement: Sch. para. 54 in force at 1.4.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/886/article/1)
+
+[^f00022]: Footnote: [1998 c. 34](https://www.legislation.gov.uk/ukpga/1998/34). Section 25(2) was amended by section 254 of, and Schedule 21 to the Greater London Authority Act [1999 (c. 29)](https://www.legislation.gov.uk/ukpga/1999/29).
+
+[^key-5f542ae308a793a93096a32669529670]: Commencement: Sch. para. 55 in force at 1.4.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/886/article/1)
+
+[^f00023]: Footnote: [1998 c. 37](https://www.legislation.gov.uk/ukpga/1998/37). Section 1(3) was amended by section 61(1) and (6) of the Police Reform Act [2002 (c. 30)](https://www.legislation.gov.uk/ukpga/2002/30) and section 1C was inserted by section 64 of that Act. Section 18(3) was amended by section 74 of, and Schedule 7 to, the Criminal Justice and Court Services Act [2000 (c. 43)](https://www.legislation.gov.uk/ukpga/2000/43). Section 47(1) was amended by secton 165(4) of, and Schedule 13 to, the Powers of Criminal Courts (Sentencing) Act [2000 (c. 6)](https://www.legislation.gov.uk/ukpga/2000/6). Paragraph 4(1)(a) of Schedule 1 was amended by section 41 of, and Schedule 3 to, the Criminal Justice Act [2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44) and paragraphs 4(9) to (11) and 6(7) of that Schedule were amended by section 90(1) of, and Schedule 13 to, the Access to Justice Act [1999 (c. 22)](https://www.legislation.gov.uk/ukpga/1999/22).
+
+[^key-d80a98ac233bad09915c916d510b2090]: Commencement: Sch. para. 56 in force at 1.4.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/886/article/1)
+
+[^key-fd291e5f8307d01dade5efac6a27e6ce]: Textual amendment: [Sch. para. 57](https://www.legislation.gov.uk/uksi/2005/886/schedule/paragraph/57) revoked (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 210](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/210); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), [arts. 3-11](https://www.legislation.gov.uk/uksi/2014/956/article/3))
+
+[^key-bc6f60a5b40dc829ae338e26352c97c3]: Commencement: Sch. para. 58 in force at 1.4.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/886/article/1)
+
+[^key-8b17c92b746ffaec1691683f30de9b18]: Commencement: Sch. para. 59 in force at 1.4.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/886/article/1)
+
+[^key-e2c7ee75fad48fc4b98315c8e8eed714]: Commencement: Sch. para. 60 in force at 1.4.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/886/article/1)
+
+[^key-81fef8f586bc2ecf33e6c2c7bd02df51]: Commencement: Sch. para. 61 in force at 1.4.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/886/article/1)
+
+[^key-cea29bf02f17178ddd3c4458714a2467]: Textual amendment: [Sch. paras. 62-65](https://www.legislation.gov.uk/uksi/2005/886/schedule/paragraph/62) revoked (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+
+[^f00024]: Footnote: [2000 c. 6](https://www.legislation.gov.uk/ukpga/2000/6). Section 22(2A) and paragraph 9C of Schedule 1 were inserted by section 324 of, and Schedule 34 to, the Criminal Justice Act [2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44) and section 36B was inserted by section 52, and section 40A was inserted by section 46, of the Criminal Justice and Court Services Act [2000 (c. 43)](https://www.legislation.gov.uk/ukpga/2000/43). Section 60(11) was amended by [S.I.2001/618](https://www.legislation.gov.uk/uksi/2001/618) and section 63(6) was amended by [S.I.2004/2036](https://www.legislation.gov.uk/uksi/2004/2036). Sections 64(2), 69(9), 74(6), 103(4) and the heading to Schedule 3 and paragraphs 1(2)(b), 3(2)(c), 12(2), 18(3) and (5), 19(1) and (6), 20(1) and 25(1) and (2) of that Schedule were amended by sections 74 of, and Schedule 7 to, the Criminal Justice and Court Services Act [2000 (c. 43)](https://www.legislation.gov.uk/ukpga/2000/43). The content of Schedule 3 is substituted by section 304 of, and Schedule 32 to, the Criminal Justice Act [2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44) but this is not yet in force. Section 123 is repealed by section 303 of, and Schedule 37 to, that Act but the repeal is not yet in force. It is amended by section 29 of, and Schedule 5 to, the Domestic Violence, Crime and Victims Act [2004 (c. 28)](https://www.legislation.gov.uk/ukpga/2004/28).
+
+[^key-ee823f9a659bf948660c61706da5122d]: Commencement: Sch. para. 66 in force at 1.4.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/886/article/1)
+
+[^key-63809ffb7d667e6a1e48e66ef9a9607d]: Textual amendment: [Sch. paras. 67-71](https://www.legislation.gov.uk/uksi/2005/886/schedule/paragraph/67) revoked (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+
+[^key-3e8f4673cd55c6680c49daa53400ad49]: Commencement: Sch. para. 72 in force at 1.4.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/886/article/1)
+
+[^key-10e5d9c037f7e68ba6539ec0217aa736]: Textual amendment: [Sch. paras. 73-79](https://www.legislation.gov.uk/uksi/2005/886/schedule/paragraph/73) revoked (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+
+[^key-2ee45af1bd226ddc3517c68d42d49065]: Commencement: Sch. para. 80 in force at 1.4.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/886/article/1)
+
+[^key-67686d8b985b1a34ea33215cab820d05]: Textual amendment: [Sch. para. 81](https://www.legislation.gov.uk/uksi/2005/886/schedule/paragraph/81) revoked (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+
+[^key-2ac3630cc92df828d5ad03b81df57abd]: Textual amendment: [Sch. para. 82](https://www.legislation.gov.uk/uksi/2005/886/schedule/paragraph/82) revoked (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+
+[^key-8c2fc073a670462284e99e5d363fe737]: Commencement: Sch. para. 83 in force at 1.4.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/886/article/1)
+
+[^key-cb7f1cc750994a6124ec9d9dfc6e61a6]: Textual amendment: [Sch. para. 84](https://www.legislation.gov.uk/uksi/2005/886/schedule/paragraph/84) revoked (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+
+[^key-161ae0213fd1491f4f7b6aa3b0979c20]: Textual amendment: [Sch. para. 85](https://www.legislation.gov.uk/uksi/2005/886/schedule/paragraph/85) revoked (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+
+[^key-f51674ff21ef0a97ee80b4529b8f4a0e]: Commencement: Sch. para. 86 in force at 1.4.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/886/article/1)
+
+[^f00025]: Footnote: [2000 c. vii](https://www.legislation.gov.uk/ukpga/2000/7).
+
+[^key-8403b5e2a19d6fc6daa1e5dae34e5d01]: Commencement: Sch. para. 87 in force at 1.4.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/886/article/1)
+
+[^f00026]: Footnote: [2000 c. 43](https://www.legislation.gov.uk/ukpga/2000/43).
+
+[^key-ff91cec7e28339d93d62f7ba0a4c9d1b]: Commencement: Sch. para. 88 in force at 1.4.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/886/article/1)
+
+[^f00027]: Footnote: [2001 c. 16](https://www.legislation.gov.uk/ukpga/2001/16).
+
+[^key-dc17f15516a3378ed001642bbeb1ccf9]: Commencement: Sch. para. 89 in force at 1.4.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/886/article/1)
+
+[^f00028]: Footnote: [2003 c. 17](https://www.legislation.gov.uk/ukpga/2003/17).
+
+[^key-bd6e9dc000879b26d6d291dc7921b165]: Commencement: Sch. para. 90 in force at 1.4.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/886/article/1)
+
+[^key-fdb4dcd3d9c4f5b85cfcbfb0f8c67485]: Commencement: Sch. para. 91 in force at 1.4.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/886/article/1)
+
+[^key-a924b9e37ed198cc0b2b6a716be4bfe2]: Commencement: Sch. para. 92 in force at 1.4.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/886/article/1)
+
+[^key-815a700188ccc95f50d8b511427513e3]: Commencement: Sch. para. 93 in force at 1.4.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/886/article/1)
+
+[^key-04759bc08bdeac6b8a814823ba408642]: Commencement: Sch. para. 94 in force at 1.4.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/886/article/1)
+
+[^key-0fd403f5baf7645098fe149a5276adf9]: Textual amendment: [Sch. para. 95](https://www.legislation.gov.uk/uksi/2005/886/schedule/paragraph/95) revoked (8.2.2007) by [Wireless Telegraphy Act 2006 (c. 36)](https://www.legislation.gov.uk/ukpga/2006/36), [s. 126(2)](https://www.legislation.gov.uk/ukpga/2006/36/section/126/2), [Sch. 9 Pt. 2](https://www.legislation.gov.uk/ukpga/2006/36/schedule/9/part/2) (with [Sch. 8 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/36/schedule/8/part/1))
+
+[^f00029]: Footnote: [2003 c. 21](https://www.legislation.gov.uk/ukpga/2003/21).
+
+[^key-4c873325405f37086a4db416e0707620]: Commencement: Sch. para. 96 in force at 1.4.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/886/article/1)
+
+[^f00030]: Footnote: [2003 c. 26](https://www.legislation.gov.uk/ukpga/2003/26).
+
+[^key-3f988fbdcbe28e8f750966e7b246aceb]: Commencement: Sch. para. 97 in force at 1.4.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/886/article/1)
+
+[^f00031]: Footnote: [2003 c. 32](https://www.legislation.gov.uk/ukpga/2003/32).
+
+[^key-27ffd72aaffe088ab1c41c1bcd19ca52]: Commencement: Sch. para. 98 in force at 1.4.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/886/article/1)
+
+[^f00032]: Footnote: [2003 c. 38](https://www.legislation.gov.uk/ukpga/2003/38).
+
+[^key-3f5e84b0605e6cd9ce3d60b0785a8b39]: Commencement: Sch. para. 99 in force at 1.4.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/886/article/1)
+
+[^f00033]: Footnote: [2003 c. 44](https://www.legislation.gov.uk/ukpga/2003/44).
+
+[^key-bea470ffe525e5823e88a9e819dc3db5]: Commencement: Sch. para. 100 in force at 1.4.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/886/article/1)
+
+[^key-4bfdb313940c61eff779297253e3a366]: Commencement: Sch. para. 101 in force at 1.4.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/886/article/1)
+
+[^key-a7d9c1c04582cb40f13985808a3f16ea]: Commencement: Sch. para. 102 in force at 1.4.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/886/article/1)
+
+[^key-4e0ef67b922dc723c3f53bc632b3f605]: Textual amendment: [Sch. paras. 103-107](https://www.legislation.gov.uk/uksi/2005/886/schedule/paragraph/103) revoked (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+
+[^key-b05d5c35dd3e976d4d34b3dd80b9eee8]: Commencement: Sch. para. 108 in force at 1.4.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/886/article/1)
+
+[^key-cac4f718ed657ca8e2241fe32fb46282]: Commencement: Sch. para. 109 in force at 1.4.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/886/article/1)
+
+[^key-41ca339d2ff668a0daf1ad3900bfad3a]: Textual amendment: [Sch. para. 110](https://www.legislation.gov.uk/uksi/2005/886/schedule/paragraph/110) revoked (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+
+[^key-ec872d12fb7470b8d8f4d79ad8cc6465]: Textual amendment: [Sch. para. 111](https://www.legislation.gov.uk/uksi/2005/886/schedule/paragraph/111) revoked (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+
+[^key-455d4b8b0f621ed8b3a2d14c05667010]: Commencement: Sch. para. 112 in force at 1.4.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/886/article/1)
+
+[^f00034]: Footnote: [1997 c. 43](https://www.legislation.gov.uk/ukpga/1997/43).
+
+[^key-8bbaa69dac9c3cac42d8ab4c07056694]: Commencement: Sch. para. 113 in force at 1.4.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/886/article/1)
+
+[^f00035]: Footnote: [2004 c. 28](https://www.legislation.gov.uk/ukpga/2004/28).
+
+[^key-181e291c8baff53a1bdf61bf766bb075]: Textual amendment: [Sch. para. 113(a)](https://www.legislation.gov.uk/uksi/2005/886/schedule/paragraph/113/a) revoked (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+
+[^key-ecf9c2508741542c17467b4555569f82]: Textual amendment: [Sch. paras. 113(e)](https://www.legislation.gov.uk/uksi/2005/886/schedule/paragraph/113/e)[(f)](https://www.legislation.gov.uk/uksi/2005/886/schedule/paragraph/113/f) revoked (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

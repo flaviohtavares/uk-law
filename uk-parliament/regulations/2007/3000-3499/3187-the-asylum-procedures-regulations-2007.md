@@ -1,0 +1,171 @@
+---
+title: The Asylum (Procedures) Regulations 2007
+id: uksi/2007/3187
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2007-11-08'
+text_date: '2024-01-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2007/3187
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2007/3187/pdfs/uksiem_20073187_en.pdf
+- http://www.legislation.gov.uk/uksi/2007/3187/pdfs/uksi_20073187_en.pdf
+- http://www.legislation.gov.uk/uksi/2007/3187/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Asylum (Procedures) Regulations 2007
+
+> Text as at 2024-01-01.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2007 No. 3187  
+
+IMMIGRATION
+
+The Asylum (Procedures) Regulations 2007
+
+Made
+
+8th November 2007
+
+Laid before Parliament
+
+9th November 2007
+
+Coming into force
+
+1st December 2007
+
+The Secretary of State, a Minister designated[^f00001] for the purposes of section 2(2) of the European Communities Act 1972[^f00002] in relation to measures relating to immigration, asylum, refugees and displaced persons, makes the following Regulations in exercise of the powers conferred by that section:
+
+## 1. Citation and commencement[^key-03904dfdc4de7253084162d1a00a7942]
+
+These Regulations may be cited as the Asylum (Procedures) Regulations 2007 and shall come into force on 1st December 2007.
+
+## 2. Interpretation[^key-f3567b187cde3ba7be0c1b8c5faad11c]
+
+In these Regulations –
+
+- “the 1997 Act” means the Special Immigration Appeals Commission Act 1997[^f00003];
+- “the 2002 Act” means the Nationality, Immigration and Asylum Act 2002[^f00004];
+- “asylum claim” and “human rights claim” have the meanings given to them in section 113 of the 2002 Act[^f00005].
+
+## 3. Designation of States or parts of States for the purposes of section 94 of the 2002 Act[^key-06c59c918ec57390143560df928149cb]
+
+After subsection (5C) of section 94 of the 2002 Act[^f00006] insert –
+
+> (5D) In deciding whether the statements in subsection (5) (a) and (b) are true of a State or part of a State, the Secretary of State –
+>
+> - (a) shall have regard to all the circumstances of the State or part (including its laws and how they are applied), and
+> - (b) shall have regard to information from any appropriate source (including other member States and international organisations).
+
+## 4. European Common List of Safe Countries of Origin[^key-bf2bda2947325e6aa96423b4983333a2]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 5. Interpreters[^key-c9a0f5b35ce7f24f90c24b4e885e10bf]
+
+(1) Paragraph (2) applies where a person who has made an asylum or a human rights claim (or both) –
+
+- (a) appeals under section 82 [^key-854e901dfc1c9923de18b31226d5122d]... of the 2002 Act[^f00007] or section 2 of the 1997 Act[^f00008], and
+- (b) by virtue of Rules made under section 106 of the 2002 Act[^f00009] or sections 5 and 8 of the 1997 Act[^f00010] is entitled to the services of an interpreter for the purposes of bringing his appeal.
+
+(2) The Secretary of State shall defray the costs of providing the interpreter.
+
+(3) Paragraph (5) applies where a person who has made an asylum claim or a human rights claim (or both) is party to –
+
+- (a) an appeal under section 103B, 103C or 103E of the 2002 Act[^f00011], or
+- (b) an appeal under section 7 of the 1997 Act[^f00012].
+
+(4) Paragraph (5) also applies where a person who has made an asylum or a human rights claim (or both) makes –
+
+- (a) an application to the supervisory jurisdiction of the Court of Session made by petition for judicial review,
+- (b) an application under section 31 of the Supreme Court Act 1981[^f00013], or
+- (c) an application under section 18 of the Judicature (Northern Ireland) Act 1978[^f00014].
+
+(5) The person mentioned in paragraphs (3) and (4) shall be entitled to the services of an interpreter for the purposes of the appeal or application —
+
+- (a) when giving evidence, and
+- (b) in such other circumstances as the court hearing the appeal or application considers it necessary.
+
+(6) Where a person is entitled to the services of an interpreter under paragraph (5), the Secretary of State shall defray the costs of providing such interpreter.
+
+## 6. Amendment to the Immigration (Notices) Regulations 2003[^key-d9f81c6d5f93679fc0a8a514787fa1bf]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Meg Hillier
+
+Parliamentary Under-Secretary of State
+
+Home Office
+
+8th November 2007
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations together with amendments to the Immigration Rules (HC 395) in part implement Council Directive [2005/85/EC](https://www.legislation.gov.uk/european/directive/2005/0085) of 1st December 2005 on minimum standards on procedures in member States for granting and withdrawing refugee status (OJ L326 13.12.2005 p 13) (“the Directive”). Many parts of the Directive do not require implementation as consistent provision is already made in existing domestic legislation.
+
+Regulation 3 amends section 94 of the Nationality, Immigration and Asylum Act 2002 (“the 2002 Act”) to provide that, in deciding whether a State or part of a State meets the test in section 94(5), the Secretary of State shall have regard to all the circumstances in the State or part and shall have regard to information from any appropriate source. Article 30 of the Directive refers. Section 94(5) of the 2002 Act states that if the Secretary of State is satisfied that there is in general no serious risk of persecution of people entitled to reside in a State or part and that removal to that State or part will not in general contravene the United Kingdom’s obligations under the European Convention on Human Rights, he may by order add that State or part to the list in section 94(4). The effect of inclusion on that list is that the Secretary of State must then certify as clearly unfounded an asylum or human rights claim from a person entitled to reside in that State or part, meaning that the claimant may not appeal from within the United Kingdom.
+
+Regulation 4 inserts a new section 94A into the 2002 Act, which allows the Secretary of State by order to prescribe a list of States to be known as the European Common List of Safe Countries of Origin. Articles 29 and 31 of the Directive refer. Article 29 provides that the Council shall adopt a minimum common list of third countries which shall be regarded by member States as safe third countries of origin in accordance with Annex 2. That Article also makes provision for countries to be added to, removed from or suspended from the list. Regulation 4 sets out that where a person who is a national of a State which is listed in the European Common List of Safe Countries of Origin or is a Stateless person who was formerly habitually resident in such a State makes an asylum claim or a human rights claim (or both) the Secretary of State shall consider the claim or claims to be unfounded unless satisfied that there are serious grounds for considering that the State in question is not safe in the particular circumstances of the claimant. The Regulation also provides that the Secretary of State shall certify the claim or claims under section 94 of the 2002 Act unless satisfied that the claim or claims is or are not clearly unfounded.
+
+Regulation 5(1) and (2) provides that where a person who has made an asylum claim or a human rights claim (or both) appeals to the Asylum and Immigration Tribunal or the Special Immigration Appeals Commission against the refusal of that claim or those claims, and where he is entitled to the services of an interpreter for the purposes of bringing his appeal, the Secretary of State shall meet the costs of providing the interpreter. The circumstances in which such a person is entitled to the services of an interpreter in bringing his appeal will be set out in the Asylum and Immigration Tribunal (Procedure) Rules 2005 ([S.I. 2005/230](https://www.legislation.gov.uk/uksi/2005/230)) and the Special Immigration Appeals Commission (Procedure) Rules 2003 ([S.I. 2003/1034](https://www.legislation.gov.uk/uksi/2003/1034)).
+
+Regulation 5(3) to (6) provides that where a person who has made an asylum or a human rights claim (or both) is party to an appeal against a decision of the Asylum and Immigration Tribunal or the Special Immigration Appeals Commission in relation to that claim or those claims or makes a judicial review application in relation to that claim or those claims, he shall be entitled to the services of an interpreter for the purposes of that appeal or application. Where a person is so entitled to the services of an interpreter, the Secretary of State shall meet the costs of providing the interpreter.
+
+Regulation 6 amends the Immigration (Notices) Regulations 2003 to provide that a written notice to a person of a decision that he is no longer a refugee under Regulation 4(2A) of those Regulations must include or be accompanied by a statement of reasons for that decision. Article 38 of the Directive refers.
+
+## Annotations
+
+[^f00001]: Footnote: [S.I. 2004/2642](https://www.legislation.gov.uk/uksi/2004/2642) designates the Secretary of State in matters relating to immigration, asylum, refugees and displaced persons.
+
+[^f00002]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68).
+
+[^key-03904dfdc4de7253084162d1a00a7942]: Commencement: Reg. 1 in force at 1.12.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/3187/regulation/1)
+
+[^key-f3567b187cde3ba7be0c1b8c5faad11c]: Commencement: Reg. 2 in force at 1.12.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/3187/regulation/1)
+
+[^f00003]: Footnote: [1997 c. 68](https://www.legislation.gov.uk/ukpga/1997/68).
+
+[^f00004]: Footnote: [2002 c. 41](https://www.legislation.gov.uk/ukpga/2002/41).
+
+[^f00005]: Footnote: Section 113 has been amended by the Immigration, Asylum and Nationality Act [2006 (c. 13)](https://www.legislation.gov.uk/ukpga/2006/13).
+
+[^key-06c59c918ec57390143560df928149cb]: Commencement: Reg. 3 in force at 1.12.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/3187/regulation/1)
+
+[^f00006]: Footnote: Subsection (5C) was inserted by section 27 of the Asylum and Immigration (Treatment of Claimants, etc.) Act [2004 (c. 19)](https://www.legislation.gov.uk/ukpga/2004/19).
+
+[^key-bf2bda2947325e6aa96423b4983333a2]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/2007/3187/regulation/4) revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/1) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)
+
+[^key-c9a0f5b35ce7f24f90c24b4e885e10bf]: Commencement: Reg. 5 in force at 1.12.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/3187/regulation/1)
+
+[^key-854e901dfc1c9923de18b31226d5122d]: Textual amendment: Words in [reg. 5(1)(a)](https://www.legislation.gov.uk/uksi/2007/3187/regulation/5/1/a) omitted (6.4.2015) by virtue of [The Immigration (Appeals) (Consequential Amendments and Saving Provision) Order 2015 (S.I. 2015/383)](https://www.legislation.gov.uk/uksi/2015/383), [arts. 1](https://www.legislation.gov.uk/uksi/2015/383/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2015/383/article/2/2) (with [art. 5(2)](https://www.legislation.gov.uk/uksi/2015/383/article/5/2))
+
+[^f00007]: Footnote: Section 82 has been amended by the Asylum and Immigration (Treatment of Claimants, etc.) Act [2004 (c. 19)](https://www.legislation.gov.uk/ukpga/2004/19) and the Immigration, Asylum and Nationality Act [2006 (c. 13)](https://www.legislation.gov.uk/ukpga/2006/13). Section 83 has been amended by the Asylum and Immigration (Treatment of Claimants, etc.) Act [2004 (c. 19)](https://www.legislation.gov.uk/ukpga/2004/19). Section 83A was inserted by the Immigration, Asylum and Nationality Act [2006 (c. 13)](https://www.legislation.gov.uk/ukpga/2006/13).
+
+[^f00008]: Footnote: Section 2 was substituted by the Nationality, Immigration and Asylum Act [2002 (c. 41)](https://www.legislation.gov.uk/ukpga/2002/41) and has been amended by the Immigration, Asylum and Nationality Act [2006 (c. 13)](https://www.legislation.gov.uk/ukpga/2006/13).
+
+[^f00009]: Footnote: Section 106 has been amended by the Asylum and Immigration (Treatment of Claimants, etc.) Act [2004 (c. 19)](https://www.legislation.gov.uk/ukpga/2004/19) and the Immigration, Asylum and Nationality Act [2006 (c. 13)](https://www.legislation.gov.uk/ukpga/2006/13).
+
+[^f00010]: Footnote: Section 5 has been amended by the Regulation of Investigatory Powers Act [2000 (c. 23)](https://www.legislation.gov.uk/ukpga/2000/23), the Race Relations (Amendment) Act [2000 (c. 34)](https://www.legislation.gov.uk/ukpga/2000/34) and the Nationality Immigration and Asylum Act [2002 (c. 41)](https://www.legislation.gov.uk/ukpga/2002/41).
+
+[^f00011]: Footnote: Sections 103B, 103C and 103E were inserted by the Asylum and Immigration (Treatment of Claimants, etc.) Act [2004 (c.19)](https://www.legislation.gov.uk/ukpga/2004/19). Section 103E has been amended by the Immigration, Asylum and Nationality Act [2006 (c.13)](https://www.legislation.gov.uk/ukpga/2006/13).
+
+[^f00012]: Footnote: Section 7(4) has been repealed by the Immigration and Asylum Act [1999 (c.33)](https://www.legislation.gov.uk/ukpga/1999/33).
+
+[^f00013]: Footnote: [1981 Act c.54.](https://www.legislation.gov.uk/ukpga/1981/54) Section 31 has been amended by the Tribunals, Courts and Enforcement Act [2007 (c.15)](https://www.legislation.gov.uk/ukpga/2007/15) (amendment not yet in force) and the Civil Procedure (Modification of Supreme Court Act 1981) Order 2004 ([S.I. 2004/1033](https://www.legislation.gov.uk/uksi/2004/1033)).
+
+[^f00014]: Footnote: [1978 Act c.23.](https://www.legislation.gov.uk/ukpga/1978/23) Section 18 has been amended by the Magistrates’ Courts (Northern Ireland) Order 1981 ([S.I. 1981/1675](https://www.legislation.gov.uk/uksi/1981/1675)).
+
+[^key-d9f81c6d5f93679fc0a8a514787fa1bf]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/uksi/2007/3187/regulation/6) revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/1) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)

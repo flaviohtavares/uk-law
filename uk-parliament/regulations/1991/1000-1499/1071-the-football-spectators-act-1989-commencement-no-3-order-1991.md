@@ -1,0 +1,68 @@
+---
+title: The Football Spectators Act 1989 (Commencement No. 3) Order 1991
+id: uksi/1991/1071
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '1991-04-24'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1991/1071
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1991/1071/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Football Spectators Act 1989 (Commencement No. 3) Order 1991
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+1991 No. 1071 (C.28)
+
+SPORTS GROUNDS AND SPORTING EVENTS
+
+The Football Spectators Act 1989 (Commencement No. 3) Order 1991
+
+Made
+
+24th April 1991
+
+Laid before Parliament
+
+1st May 1991
+
+In exercise of the powers conferred upon me by section 27(2) and (3)of the Football Spectators Act 1989[^f00001], I hereby make the following Order:
+
+**1.** This Order may be cited as the Football Spectators Act 1989(Commencement No. 3) Order 1991.
+
+**2.** Section 13 of the Football Spectators Act 1989 shall come into forceon 3rd June 1991.
+
+Kenneth Baker
+
+One of Her Majesty’s Principal Secretaries of State
+
+Home Office
+
+24th April 1991
+
+(This note is not part of the Order)
+
+This Order brings into force on 3rd June 1991 section 13 of theFootball Spectators Act 1989 which concerns the functions of theFootball Licensing Authority in relation to safety at football grounds.
+
+(This note is not part of the Order)
+
+The following provisions of the Act have been brought intoforce by commencement orders made before the date of this Order:
+
+| *Provisions commenced* | *Date of commencement* | *S.I. No.* |
+| --- | --- | --- |
+| 1(1), (2), (4)(a), (7) to (11), 14 and 22(1), (9) and (12) | 22.3.90 | [1990/690](https://www.legislation.gov.uk/uksi/1990/690) |
+| ss. 15 to 21, 22(2) to (8) and (10) and (11) and 23 to 26 | 24.4.90 | [1990/690](https://www.legislation.gov.uk/uksi/1990/690) |
+| ss. 8, 10(1) to (5), (8)(a) and (b), (9) to (11), (12)(c) and (d) and (13) to (17) and 11 and 12, Sch. 2 | 1.6.90 | [1990/690](https://www.legislation.gov.uk/uksi/1990/690) |
+| Sch. 1 | 24.4.90 | [1990/926](https://www.legislation.gov.uk/uksi/1990/926) |
+
+## Annotations
+
+[^f00001]: Footnote: [1989 c. 37](https://www.legislation.gov.uk/ukpga/1989/37).

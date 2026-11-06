@@ -1,0 +1,205 @@
+---
+title: The Local Government Reorganisation (Wales) (Consequential Amendments No. 2) Order 1996
+id: uksi/1996/1008
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '1996-04-01'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1996/1008
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1996/1008/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Local Government Reorganisation (Wales) (Consequential Amendments No. 2) Order 1996
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+1996 No. 1008
+
+LOCAL GOVERNMENT, ENGLAND AND WALES
+
+WALES
+
+The Local Government Reorganisation (Wales) (Consequential Amendments No. 2) Order 1996
+
+Made
+
+1st April 1996
+
+Laid before Parliament
+
+3rd April 1996
+
+Coming into force
+
+29th April 1996
+
+The Secretary of State for Wales in exercise of the powers conferred on him by section 54(1) and (2)(e) of the Local Government (Wales) Act 1994[^f00001], and of all other powers enabling him in that behalf, hereby makes the following Order:
+
+## 1. Citation and commencement
+
+This Order may be cited as the Local Government Reorganisation (Wales) (Consequential Amendments No. 2) Order 1996 and shall come into force on 29th April 1996.
+
+## 2. Amendment of enactments
+
+The enactments referred to in the Schedule are hereby amended in the manner indicated therein.
+
+Signed by authority of the Secretary of State for Wales
+
+Gwilym Jones
+
+Parliamentary Under Secretary of State, Welsh Office
+
+1st April 1996
+
+## SCHEDULE
+
+Article 2
+
+### PART I — — PUBLIC GENERAL ACTS
+
+#### The Health Services and Public Health Act [1968 (c. 46)](https://www.legislation.gov.uk/ukpga/1968/46)
+
+**1.** In section 63 of the Health Services and Public Health Act 1968 (provision of instruction for officers of hospital authorities and other persons employed, or contemplating employment, in certain activities connected with health or welfare), in subsection (2)(a) after “non-metropolitan county,” insert “county borough,”.[^f00002]
+
+#### The Local Government and Housing Act [1989 (c. 42)](https://www.legislation.gov.uk/ukpga/1989/42)
+
+**2.** In paragraph 57 of Schedule 11 to the Local Government and Housing Act 1989 (meaning of “subsidiary” and “wholly-owned subsidiary” in Part X of the Local Government, Planning and Land Act 1980)[^f00003] after “county council,” insert “county borough council,”.
+
+### PART II— — STATUTORY INSTRUMENTS
+
+#### [The Control of Off-Street Parking (England and Wales) Order 1978 S.I. No. 1535](https://www.legislation.gov.uk/uksi/1978/1535)
+
+**3.** In article 2 of the Control of Off-Street Parking (England and Wales) Order 1978 (interpretation), at the end add —
+
+> (4) In the application of this Order in Wales —
+>
+> - (a) “county” includes a county borough;
+> - (b) “local authority”, in relation to a parking place in a controlled area, means the council of the county or county borough where the parking place is situated;
+> - (c) in article 4(1)(a)(i) the words “comprised within the area of a particular local authority” shall not apply;
+> - (d) article 4(3) shall not apply;
+> - (e) in articles 5, 8 and 15 the references to “county council” shall not apply;
+> - (f) in paragraph 1 of the Schedule the reference to a “local authority” shall not apply;
+> - (g) paragraph 8 of the Schedule shall have effect as if for “the county of which their area forms part” there was substituted “their area” ;
+> - (h) paragraph 15 of the Schedule shall have effect as if for “the county council” there was substituted “that authority”;
+> - (i) paragraph 22(6) of the Schedule shall not apply.
+
+#### [The Control of Off-Street Parking outside Greater London (Appeals Procedure) (England and Wales) Regulations 1979 S.I. No. 236](https://www.legislation.gov.uk/uksi/1979/236)
+
+**4.** In regulation 2 of the Control of Off-Street Parking outside Greater London (Appeals Procedure) (England and Wales) Regulations 1979 (interpretation), at the end add —
+
+> (4) In the application of these Regulations in Wales, references to “the county council” shall be of no effect and “the local authority” shall mean the county or county borough council whose decision is under appeal.
+
+.
+
+#### [The Joint Consultative Committees Order 1985 S.I. No. 305](https://www.legislation.gov.uk/uksi/1985/305)
+
+**5.** In article 1(2)(a) of the Joint Consultative Committees Order 1985 (interpretation), in the definition of “local authority” for “of a county or district mentioned in section 20(3) of that Act (which relates to Wales)” substitute “the council of a Welsh county or county borough”.
+
+#### [The Removal and Disposal of Vehicles Regulations 1986 S.I. No. 183](https://www.legislation.gov.uk/uksi/1986/183)
+
+**6.** In the following provisions of the Removal and Disposal of Vehicles Regulations 1986, for “district” substitute “county or county borough” in each case—
+
+- regulation 5(2)(c) (power of local authority to remove certain vehicles),
+- regulation 12(1)(e)(cc) (steps to be taken to find the owners of certain vehicles),
+- regulation 15(1)(e)(iii) (information to be given relating to the disposal of a vehicle).
+
+#### [The Removal and Disposal of Vehicles (Loading Areas) Regulations 1986 S.I. No. 184](https://www.legislation.gov.uk/uksi/1986/184)
+
+**7.** In regulation 3(4) of the Removal and Disposal of Vehicles (Loading Areas) Regulations 1986 (power to require the removal of vehicles from loading areas), in sub-paragraph (b) omit “or in Wales,” and at the end add—
+
+> - (c) in Wales, the council of the county or county borough.
+
+.
+
+#### [The Housing Benefit (General) Regulations 1987 S.I. No. 1971](https://www.legislation.gov.uk/uksi/1987/1971)
+
+**8.** In regulation 21A(2) of the Housing Benefit (General) Regulations 1987 (treatment of child care charges)[^f00004], in the definition of “local authority”, omit “and Wales” and after “the Isles of Scilly” insert “, in relation to Wales, the council of a county or county borough”.
+
+#### [The Family Credit (General) Regulations 1987 S.I. No. 1973](https://www.legislation.gov.uk/uksi/1987/1973)
+
+**9.** In regulation 13A(2) of the Family Credit (General) Regulations 1987 (treatment of child care charges)[^f00005], in the definition of “local authority”, omit “and Wales” and after “the Isles of Scilly” insert “, in relation to Wales, the council of a county or county borough”.
+
+#### [The Disability Working Allowance (General) Regulations 1991 S.I. No. 2887](https://www.legislation.gov.uk/uksi/1991/2887)
+
+**10.** In regulation 15A(2) of the Disability Working Allowance (General) Regulations 1991 (treatment of child care charges)[^f00006], in the definition of “local authority”, omit “and Wales” and after “the Isles of Scilly” insert “, in relation to Wales, the council of a county or county borough”.
+
+#### [The Council Tax Benefit (General) Regulations 1992 S.I. No. 1814](https://www.legislation.gov.uk/uksi/1992/1814)
+
+**11.** In regulation 13A(2) of the Council Tax Benefit (General) Regulations 1992 (treatment of child care charges)[^f00007], in the definition of “local authority”, omit “and Wales” and after “the Isles of Scilly” insert “, in relation to Wales, the council of a county or county borough”.
+
+#### [The Housing Renovation etc Grants (Reduction of Grant) Regulations 1994 S.I. No. 648](https://www.legislation.gov.uk/uksi/1994/648)
+
+**12.** (1) In regulation 2(1) of the Housing Renovation etc Grants (Reduction of Grant) Regulations 1994 (interpretation), in the definition of “local authority”, omit “and Wales” in paragraph (a) and after that paragraph insert—
+
+> - (aa) in relation to Wales, the council of a county or county borough;
+
+.
+
+(2) In regulation 16A(4) (treatment of child care charges)[^f00008] in the definition of “local authority”, omit “and Wales” and after “the Isles of Scilly” insert “, in relation to Wales, the council of a county or county borough”.
+
+#### [The Preserved Tuna and Bonito (Marketing Standards) Regulations 1994 S.I. No. 2127](https://www.legislation.gov.uk/uksi/1994/2127)
+
+**13.** In regulation 2(1) of the Preserved Tuna and Bonito (Marketing Standards) Regulations 1994 (interpretation), in paragraph (b) of the definition of “food authority” for “district or borough” substitute “county or county borough”.
+
+#### [The Compulsory Purchase of Land Regulations 1994 S.I. No. 2145](https://www.legislation.gov.uk/uksi/1994/2145)
+
+**14.** In Forms 1, 2 and 3 in the Schedule to the Compulsory Purchase of Land Regulations 1994, after “\[county\]”, in paragraph 1 of each form insert “\[county borough\]”.
+
+#### [The Marketing of Gas Oil (Sulphur Content) Regulations 1994 S.I. No. 2249](https://www.legislation.gov.uk/uksi/1994/2249)
+
+**15.** In regulation 3(5) of the Marketing of Gas Oil (Sulphur Content) Regulations 1994 (sampling of gas oil placed on the market)—
+
+- (a) in sub-paragraph (a) omit “and Wales” ; and
+- (b) after that sub-paragraph insert—
+
+  > - (aa) in Wales, the council of a county or county borough;
+
+  .
+
+#### [The Pipe-lines (Inquiries Procedure) Rules 1995 S.I. No. 1239](https://www.legislation.gov.uk/uksi/1995/1239)
+
+**16.** In rule 10(1)(d)(i) of the Pipe-lines (Inquiries Procedure) Rules 1995 (appearances at inquiry), after “county” insert “, county borough”.
+
+#### [The Animals and Animal Products (Import and Export) Regulations 1995 S.I. No. 2428](https://www.legislation.gov.uk/uksi/1995/2428)
+
+**17.** In regulation 1(2) of the Animals and Animal Products (Import and Export) Regulations 1995 (title, commencement, interpretation and extent)—
+
+- (a) in paragraph (a) of the definition of “local authority” omit “and Wales” ; and
+- (b) after paragraph (b) insert—
+
+  > - (bb) in Wales, the county or county borough council.
+
+(This note is not part of the Order)
+
+The Local Government (Wales) Act 1994 creates unitary authorities in Wales which will carry out the functions of the former district and county councils as from 1 April 1996.
+
+This Order makes amendments to primary and subordinate legislation in consequence of this. The amendments update references to the old local government structure in Wales so that they apply to the new structure.
+
+With reference to the two amendments which are made to primary legislation, the amendment to the Health Services and Public Health Act 1968 complements the amendments made by paragraph 5 of Schedule 10 to the Local Government (Wales) Act 1994. The amendment made to the Local Government and Housing Act 1989 is in place of the amendment which would have been made by paragraph 57(6) of Schedule 16 to the 1994 Act. This latter amendment cannot be commenced because the amendment to be made to section 100 of the Local Government Planning and Land Act 1980, by the Local Government and Housing Act 1989 has not yet been commenced.
+
+The amendments made to subordinate legislation provide for situations where the general provision contained in section 17 of the 1994 Act (references to the old local government structure to be construed as references to the new structure) will not apply.
+
+## Annotations
+
+[^f00001]: Footnote: [1994 c. 19](https://www.legislation.gov.uk/ukpga/1994/19).
+
+[^f00002]: Footnote: The reference to non-metropolitan county in subsection (2)(a) was inserted by paragraph 124(3) of Schedule 4 to the National Health Service Reorganisation Act [1973 (c. 32)](https://www.legislation.gov.uk/ukpga/1973/32).
+
+[^f00003]: Footnote: [1980 c. 65](https://www.legislation.gov.uk/ukpga/1980/65).
+
+[^f00004]: Footnote: Regulation 21A was inserted by regulation 5(4) of the Income-related Benefits Schemes (Miscellaneous Amendments) (No. 4) Regulations 1994 (S.I. [1994/1924](https://www.legislation.gov.uk/uksi/1994/1924)).
+
+[^f00005]: Footnote: Regulation 13A was inserted by regulation 4(4) of S.I. [1994/1924](https://www.legislation.gov.uk/uksi/1994/1924), and to which there are amendments not relevant to this Order.
+
+[^f00006]: Footnote: Regulation 15A was inserted by regulation 3(4) of S.I. [1994/1924](https://www.legislation.gov.uk/uksi/1994/1924).
+
+[^f00007]: Footnote: Regulation 13A was inserted by regulation 2(4) of S.I. [1994/1924](https://www.legislation.gov.uk/uksi/1994/1924).
+
+[^f00008]: Footnote: Regulation 16A was inserted by regulation 2(7) of the Housing Renovation etc. Grants (Reduction of Grant) (Amendment) Regulations 1995 (S.I. [1995/838](https://www.legislation.gov.uk/uksi/1995/838)).

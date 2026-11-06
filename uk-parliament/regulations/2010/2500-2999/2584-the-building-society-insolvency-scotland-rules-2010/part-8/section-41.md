@@ -1,0 +1,27 @@
+---
+title: The Building Society Insolvency (Scotland) Rules 2010, section 41
+act: The Building Society Insolvency (Scotland) Rules 2010
+section: '41'
+status: revised
+text_date: '2013-04-01'
+extent: S
+source_url: https://www.legislation.gov.uk/uksi/2010/2584/section/41
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Building Society Insolvency (Scotland) Rules 2010, section 41
+
+> Text as at 2013-04-01.
+>
+> Extent: Scotland.
+
+## 41. Advertisement of removal[^key-41a1ce4baf916ef4600e5c187bc22eb2]
+
+*Extent: S*
+
+Apply rule 4.27 of the 1986 Rules.
+
+## Annotations
+
+[^key-41a1ce4baf916ef4600e5c187bc22eb2]: Commencement: Rule 41 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2584/rule/1)

@@ -1,0 +1,81 @@
+---
+title: Planning and Infrastructure Act 2025, section 79
+act: Planning and Infrastructure Act 2025
+section: '79'
+status: revised-with-pending-changes
+text_date: '2026-11-04'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/2025/34/section/79
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Planning and Infrastructure Act 2025, section 79
+
+> **Warning: changes not yet applied to this text (9).** Text as at 2026-11-04. See https://www.legislation.gov.uk/changes/affected/ukpga/2025/34
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 79. Enforcement[^key-49a5691072fdaf32327f9384af9dff15][^key-34e27ef327e33f15afee1fa2a642b419]
+
+*Extent: E+W*
+
+(1) Nature restoration levy regulations must include provision about enforcement of the nature restoration levy.
+
+(2) The regulations must make provision about the consequences of late payment and failure to pay.
+
+(3) The regulations may make provision about the consequences of failure to assume liability, to give a notice or to comply with another procedure under nature restoration levy regulations.
+
+(4) The regulations may, in particular, include provision—
+
+- (a) for the payment of interest;
+- (b) for the imposition of a penalty or surcharge;
+- (c) conferring a power of entry onto land;
+- (d) requiring the provision of information;
+- (e) creating a criminal offence (including, in particular, an offence relating to evasion or attempted evasion or to the provision of false or misleading information or failure to provide information);
+- (f) conferring power to prosecute an offence;
+- (g) for enforcement of sums owed (whether by action on a debt, by distraint against goods or in any other way);
+- (h) conferring jurisdiction on a court to grant injunctive or other relief to enforce a provision of the regulations (including a provision included in reliance on this section);
+- (i) for enforcement in the case of death or insolvency of a person liable to pay the nature restoration levy.
+
+(5) Nature restoration levy regulations may include provision (whether or not in the context of late payment or failure to pay) about registration or notification of actual or potential liability to pay the levy; and the regulations may include provision—
+
+- (a) for the creation of local land charges;
+- (b) for the registration of local land charges;
+- (c) for enforcement of local land charges (including, in particular, for enforcement—
+  - (i) against successive owners, and
+  - (ii) by way of sale or other disposal with consent of a court);
+- (d) for making entries in statutory registers;
+- (e) for the cancellation of charges and entries.
+
+(6) Regulations under this section may—
+
+- (a) replicate or apply (with or without modifications) any enactment relating to the enforcement of a tax;
+- (b) provide for appeals.
+
+(7) Regulations under this section may provide that any interest, penalty or surcharge payable by virtue of the regulations is to be treated for the purposes of sections 77 to 80 as if it were an amount of nature restoration levy.
+
+(8) Regulations providing for a surcharge or penalty must ensure that the total amount of a surcharge or penalty in respect of an amount of nature restoration levy may not exceed 30% of that amount.
+
+(9) But the regulations may provide for more than one surcharge or penalty to be imposed in relation to a levy charge.
+
+(10) The regulations may not authorise entry to a private dwelling without a warrant issued by a justice of the peace.
+
+(11) Regulations under this section creating a criminal offence may not provide for—
+
+- (a) imprisonment for a term exceeding the maximum term for summary offences, on summary conviction for an offence triable summarily only,
+- (b) imprisonment for a term exceeding the general limit in a magistrates’ court, on summary conviction for an offence triable either way, or
+- (c) imprisonment for a term exceeding 2 years, on conviction on indictment.
+
+(12) In subsection (11)(a), “**the maximum term for summary offences**” means—
+
+- (a) in relation to an offence committed before the time when section 281(5) of the Criminal Justice Act 2003 comes into force, 6 months;
+- (b) in relation to an offence committed after that time, 51 weeks.
+
+(13) In this Part, a reference to administrative expenses in connection with an EDP includes a reference to enforcement expenses.
+
+## Annotations
+
+[^key-49a5691072fdaf32327f9384af9dff15]: Commencement: S. 79 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
+
+[^key-34e27ef327e33f15afee1fa2a642b419]: Commencement: [S. 79](https://www.legislation.gov.uk/ukpga/2025/34/section/79) in force at 18.2.2026 by [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [reg. 4(1)(l)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/1/l)

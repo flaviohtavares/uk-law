@@ -1,0 +1,84 @@
+---
+title: Pension Schemes Act 2021, section 45
+act: Pension Schemes Act 2021
+section: '45'
+status: revised
+text_date: '2026-07-31'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/ukpga/2021/1/section/45
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Pension Schemes Act 2021, section 45
+
+> Text as at 2026-07-31.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 45. Prohibition on increasing charges etc during triggering event period[^c24459231][^key-299c914883441e0599b7bce87ae4cf41][^key-3aba0983e70772d32a619aefebc1fc41][^key-7cfcec67e11c0c483c7d66f477579d1d]
+
+*Extent: E+W+S*
+
+(1)[^key-ce501b3fae8f187c89d0327891de5230][^key-9b1114b8f430b83ee628fcff25779845] During a triggering event period for a collective money purchase scheme, the trustees must not—
+
+- (a) impose administration charges on or in respect of members at levels above those set out in the implementation strategy,
+- (b) impose new administration charges on or in respect of members, or
+- (c) impose administration charges on or in respect of a member in consequence of the member leaving, or deciding to leave, the scheme during that period.
+
+(2)[^key-d207e1f130da21a4cc1911929d6a52a9][^key-9b1114b8f430b83ee628fcff25779845][^key-bbbb4563b468a6806da0e21cb46c81c1] The trustees of a receiving scheme that is a collective money purchase scheme or a Master Trust scheme must not—
+
+- (a) impose administration charges on or in respect of members at levels above those set out in the document provided to the Pensions Regulator by virtue of regulations under section 36(7)(e), or
+- (b) impose new administration charges on or in respect of members,
+
+for the purposes of meeting any of the costs mentioned in subsection (4).
+
+(3) The Secretary of State may by regulations—
+
+- (a) provide that subsection (1) or (2) does not apply in relation to administration charges specified or described in the regulations;
+- (b) make provision about how levels of administration charges are to be calculated for the purposes of this section.
+
+(4) The costs referred to in subsection (2) are costs for which a receiving scheme is liable—
+
+- (a) which were incurred by the transferring scheme, or
+- (b) which relate directly to the transfer of the value of accrued rights to benefits under the transferring scheme.
+
+(5) To the extent that there is a conflict, this section overrides a provision of—
+
+- (a) a collective money purchase scheme,
+- (b) a Master Trust scheme,
+- (c) a contract between the trustees of a collective money purchase scheme and a person providing services in relation to the scheme, or
+- (d) a Master Trust scheme contract within the meaning of section 39(1) of the Pension Schemes Act 2017 or any corresponding statutory provision.
+
+(6) The Secretary of State may by regulations apply some or all of the provisions of this section to a receiving scheme that has characteristics specified in regulations under section 36(2)(b).
+
+(7) Section 10 of the Pensions Act 1995 (civil penalties) applies to a trustee who fails to comply with this section.
+
+(8) In this section—
+
+- “**receiving scheme**” means a pension scheme that—
+  - (a) receives a transfer from a transferring scheme of the value of accrued rights to benefits under that scheme during a triggering event period for that scheme, and
+  - (b) was proposed by the trustees of the transferring scheme, or by employers in relation to that scheme, as a scheme to which the value of those rights should be transferred;
+- “**transferring scheme**” means a collective money purchase scheme the trustees of which, following a triggering event, are pursuing continuity option 1.
+
+(9) Regulations under subsection (3)(a) or (6), and the first regulations under subsection (3)(b), are subject to affirmative resolution procedure.
+
+(10) Subsequent regulations under subsection (3)(b) are subject to negative resolution procedure.
+
+## Annotations
+
+[^c24459231]: Commencement: [S. 45](https://www.legislation.gov.uk/ukpga/2021/1/section/45) in force at Royal Assent for specified purposes, see [s. 131(3)(a)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/3/a)
+
+[^key-299c914883441e0599b7bce87ae4cf41]: Commencement: [S. 45](https://www.legislation.gov.uk/ukpga/2021/1/section/45) in force at 1.8.2022 in so far as not already in force by [S.I. 2022/721](https://www.legislation.gov.uk/uksi/2022/721), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2022/721/regulation/3/a)
+
+[^key-3aba0983e70772d32a619aefebc1fc41]: Modification: [S. 45](https://www.legislation.gov.uk/ukpga/2021/1/section/45) applied in part (1.8.2022) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) Regulations 2022 (S.I. 2022/255)](https://www.legislation.gov.uk/uksi/2022/255), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3), [34(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/34/3)
+
+[^key-7cfcec67e11c0c483c7d66f477579d1d]: Modification: [S. 45](https://www.legislation.gov.uk/ukpga/2021/1/section/45) applied in part (31.7.2026) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313)](https://www.legislation.gov.uk/uksi/2025/1313), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/1313/regulation/1/3), [57(3)](https://www.legislation.gov.uk/uksi/2025/1313/regulation/57/3)[(4)](https://www.legislation.gov.uk/uksi/2025/1313/regulation/57/4)
+
+[^key-ce501b3fae8f187c89d0327891de5230]: Modification: [S. 45(1)](https://www.legislation.gov.uk/ukpga/2021/1/section/45/1) excluded (1.8.2022) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) Regulations 2022 (S.I. 2022/255)](https://www.legislation.gov.uk/uksi/2022/255), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3), [34(1)](https://www.legislation.gov.uk/uksi/2022/255/regulation/34/1)[(2)](https://www.legislation.gov.uk/uksi/2022/255/regulation/34/2)
+
+[^key-9b1114b8f430b83ee628fcff25779845]: Modification: [S. 45(1)](https://www.legislation.gov.uk/ukpga/2021/1/section/45/1)[(2)](https://www.legislation.gov.uk/ukpga/2021/1/section/45/2) excluded (31.7.2026) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313)](https://www.legislation.gov.uk/uksi/2025/1313), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/1313/regulation/1/3), [57(1)](https://www.legislation.gov.uk/uksi/2025/1313/regulation/57/1)
+
+[^key-d207e1f130da21a4cc1911929d6a52a9]: Modification: [S. 45(2)](https://www.legislation.gov.uk/ukpga/2021/1/section/45/2) excluded (1.8.2022) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) Regulations 2022 (S.I. 2022/255)](https://www.legislation.gov.uk/uksi/2022/255), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3), [34(1)](https://www.legislation.gov.uk/uksi/2022/255/regulation/34/1)[(2)](https://www.legislation.gov.uk/uksi/2022/255/regulation/34/2)
+
+[^key-bbbb4563b468a6806da0e21cb46c81c1]: Modification: [S. 45(2)](https://www.legislation.gov.uk/ukpga/2021/1/section/45/2) excluded (31.7.2026) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313)](https://www.legislation.gov.uk/uksi/2025/1313), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/1313/regulation/1/3), [57(2)](https://www.legislation.gov.uk/uksi/2025/1313/regulation/57/2)

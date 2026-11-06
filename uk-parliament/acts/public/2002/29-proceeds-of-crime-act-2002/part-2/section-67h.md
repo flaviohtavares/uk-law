@@ -1,0 +1,47 @@
+---
+title: Proceeds of Crime Act 2002, section 67H
+act: Proceeds of Crime Act 2002
+section: 67H
+status: revised-with-pending-changes
+text_date: '2026-06-30'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/2002/29/section/67H
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Proceeds of Crime Act 2002, section 67H
+
+> **Warning: changes not yet applied to this text (210).** Text as at 2026-06-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2002/29
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 67H. Appeals in relation to compliance orders[^key-cbaeedb61159e4a68f7c0c03ce4d0c55]
+
+*Extent: E+W*
+
+(1) If, on an application under section 13A(3)(b), the Crown Court decides not to make a compliance order, the prosecutor may appeal to the Court of Appeal against the decision.
+
+(2) If the Crown Court decides to make, discharge or vary a compliance order, the following persons may appeal to the Court of Appeal in respect of the decision—
+
+- (a) the prosecutor;
+- (b) the defendant;
+- (c) any other person affected by the order.
+
+(3) On an appeal under subsection (1) or (2) the Court of Appeal may—
+
+- (a) confirm the decision, or
+- (b) make such order as it believes is appropriate.
+
+(4) An appeal lies to the Supreme Court from a decision of the Court of Appeal on an appeal under this section, at the instance of any person who was a party to the proceedings on the appeal.
+
+(5) On an appeal under subsection (4) the Supreme Court may—
+
+- (a) confirm the decision of the Court of Appeal, or
+- (b) make such order as it believes is appropriate.
+
+(6) In this section “**compliance order**” means an order made under section 13A.
+
+## Annotations
+
+[^key-cbaeedb61159e4a68f7c0c03ce4d0c55]: Textual amendment: Ss. 67E-67L and cross-heading inserted (29.6.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1), [Sch. 21 para. 31(2)](https://www.legislation.gov.uk/ukpga/2026/20/schedule/21/paragraph/31/2); [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z12)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z12)

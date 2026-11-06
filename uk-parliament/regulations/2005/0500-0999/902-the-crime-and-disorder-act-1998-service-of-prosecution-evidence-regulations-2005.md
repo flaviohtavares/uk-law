@@ -1,0 +1,86 @@
+---
+title: The Crime and Disorder Act 1998 (Service of Prosecution Evidence) Regulations 2005
+id: uksi/2005/902
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2005-03-23'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2005/902
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2005/902/pdfs/uksiem_20050902_en.pdf
+- http://www.legislation.gov.uk/uksi/2005/902/pdfs/uksi_20050902_en.pdf
+- http://www.legislation.gov.uk/uksi/2005/902/made/data.pdf
+pending_changes: 4
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Crime and Disorder Act 1998 (Service of Prosecution Evidence) Regulations 2005
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2005 No. 902
+
+CRIMINAL LAW, ENGLAND AND WALES
+
+The Crime and Disorder Act 1998 (Service of Prosecution Evidence) Regulations 2005
+
+Made
+
+23rd March 2005
+
+Laid before Parliament
+
+30th March 2005
+
+Coming into force
+
+4th April 2005
+
+The Attorney General, in exercise of the power conferred upon him by paragraph 1 of Schedule 3 to the Crime and Disorder Act 1998 (“the 1998 Act”)[^f00001], hereby makes the following Regulations:
+
+**1.** These Regulations may be cited as the Crime and Disorder Act 1998 (Service of Prosecution Evidence) Regulations 2005 and shall come into force on 4th April 2005.
+
+**2.** Where a person is sent for trial under section 51 of the 1998 Act on any charge or charges, copies of the documents containing the evidence on which the charge or charges are based, shall, no later than 70 days after the date on which the person was sent for trial or, in the case of a person committed to custody under section 52(1)(a) of the Act, no later than 50 days after that date, be:
+
+- (a) served on that person; and
+- (b) given to the Crown Court sitting at the place specified in the notice under subsection (7) of that section.
+
+**3.** The prosecutor may apply orally or in writing to the Crown Court sitting at the place specified in the notice under section 51(7) of the 1998 Act for the period prescribed by regulation 2 to be extended or, where that period has already been extended, for it to be further extended.
+
+**4.** Where the prosecutor proposes to make an oral application under regulation 3 above, he shall give notice in writing of his intention to the appropriate officer of the Crown Court; and a copy thereof shall be given at the same time to the person sent for trial.
+
+**5.** Any written application made under regulation 3 above shall be sent by the prosecutor to the appropriate officer of the Crown Court specifying the grounds for the application; and a copy thereof shall be given at the same time to the person sent for trial who may make written representations in response within 3 days of service of the application on him.
+
+**6.** Where an application under regulation 3 is determined otherwise than at an oral hearing, the appropriate officer of the Crown Court shall, as soon as reasonably practicable, send to all the parties to the case a notice of the outcome of the application.
+
+**7.** The Crime and Disorder Act 1998 (Service of Prosecution Evidence) Regulations 2000[^f00002] are hereby revoked.
+
+Goldsmith
+
+Her Majesty’s Attorney General
+
+23rd March 2005
+
+(This note is not part of the Regulations)
+
+These Regulations relate to circumstances where a person is sent by a magistrates' court to the Crown Court for trial pursuant to section 51 of the Crime and Disorder Act 1998.
+
+Regulation 2 provides that copies of the documents containing the evidence on which the charge or charges are based shall be served on the person sent for trial and given to the Crown Court within 70 days from the date of the sending of the person for trial or, in the case of a person committed to custody, 50 days.
+
+Regulation 3 provides that the prosecutor may apply for an extension or further extension of the period prescribed by regulation 2 by making an oral or written application to the Crown Court at the place specified in the notice under section 51 (7) of the 1998 Act.
+
+Regulation 4 provides for the procedure to be followed on an oral application for the extension or further extension of the prescribed period.
+
+Regulations 5 and 6 provide for the procedure to be followed on a written application for the extension or further extension of the prescribed period.
+
+These Regulations revoke the Crime and Disorder Act 1998 (Service of Prosecution Evidence) Regulations 2000.
+
+## Annotations
+
+[^f00001]: Footnote: [1998 c. 37](https://www.legislation.gov.uk/ukpga/1998/37); paragraph 1 of Schedule 3 was amended by the Access to Justice Act [1999 (c. 22)](https://www.legislation.gov.uk/ukpga/1999/22), sections 67(1) and 108(3).
+
+[^f00002]: Footnote: [S.I. 2000/3305](https://www.legislation.gov.uk/uksi/2000/3305).

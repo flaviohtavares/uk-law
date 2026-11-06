@@ -1,0 +1,72 @@
+---
+title: Housing Act 1985, section 34A
+act: Housing Act 1985
+section: 34A
+status: revised-with-pending-changes
+text_date: '2026-10-26'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/1985/68/section/34A
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Housing Act 1985, section 34A
+
+> **Warning: changes not yet applied to this text (58).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/1985/68
+>
+> Extent: England, Wales.
+
+## 34A. Requirements to co-operate in relation to certain disposals[^c19876491]
+
+*Extent: E+W*
+
+(1) The appropriate person may make regulations for imposing requirements on a local housing authority in any case where a tenant group serves written notice on the authority proposing that the authority should dispose of particular land held by them for the purposes of this Part, or a particular description of such land, to a relevant housing provider.
+
+(2) The regulations may make provision requiring the authority—
+
+- (a) to provide, or finance the provision of, such office accommodation and facilities, and such training, as the tenant group reasonably requires for the purpose of pursuing the proposal;
+- (b) to arrange for such feasibility studies with respect to the proposal as may be determined by or under the regulations to be conducted by such persons as may be so determined;
+- (c) to provide to the tenant group such information or descriptions of information, in connection with the proposal, as may be prescribed in the regulations;
+- (d) to take, in circumstances prescribed in the regulations, such other steps as may be so prescribed to co-operate with the tenant group in connection with the proposal;
+- (e) to arrange for such ballots or polls with respect to the proposal as may be determined by or under the regulations to be conducted by such persons as may be so determined; and
+- (f) in such circumstances as may be prescribed by the regulations, to enter into an agreement for the disposal.
+
+(3) The regulations may make provision—
+
+- (a) for determining the houses and other land to which the disposal should relate, and the amounts which should be paid in respect of the disposal;
+- (b) requiring the agreement for the disposal to be in such form as may be approved by the appropriate person and to contain such provisions as may be prescribed by the regulations.
+
+(4) The regulations may make such procedural, incidental, supplementary and transitional provisions as may appear to the appropriate person necessary or expedient, and may in particular make provision—
+
+- (a) for particular questions arising under the regulations to be determined by the authority or the appropriate person;
+- (b) setting time-limits for the carrying out of requirements under the regulations;
+- (c) requiring any person exercising functions under the regulations to act in accordance with any guidance or directions given by the appropriate person.
+
+(5) Nothing in subsections (2) to (4) is to be taken as prejudicing the generality of subsection (1).
+
+(6) Any regulations which provide for the appropriate person to approve a proposal for a local housing authority to dispose of land must ensure that the authority has the opportunity to make representations to the appropriate person before the appropriate person decides whether or not to approve the proposal.
+
+(7) This section does not affect any requirement under section 32 or 33 for the consent of the Secretary of State or the Welsh Ministers.
+
+(8) Regulations under this section—
+
+- (a) may make different provision with respect to different cases or descriptions of case, including different provision for different areas; and
+- (b) are to be made by statutory instrument which—
+  - (i) in the case of an instrument made by the Secretary of State, is subject to annulment in pursuance of a resolution of either House of Parliament; and
+  - (ii) in the case of an instrument made by the Welsh Ministers, is subject to annulment in pursuance of a resolution of the National Assembly for Wales.
+
+(9) In this section—
+
+- “ **appropriate person** ” means—
+  - (a) in relation to England, the Secretary of State; and
+  - (b) in relation to Wales, the Welsh Ministers;
+- “ **relevant housing provider** ” means—
+  - (a) in relation to England, a private registered provider[^key-04b372bee1b878427681117918948523] of social housing; and
+  - (b) in relation to Wales, a registered social landlord; and
+- “ **tenant group** ” means a body or other person which satisfies such conditions as may be determined by or under the regulations.
+
+## Annotations
+
+[^c19876491]: Textual amendment: S. 34A inserted (1.12.2008 for E. and otherwise prosp.) by [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), [ss. 296](https://www.legislation.gov.uk/ukpga/2008/17/section/296), [325](https://www.legislation.gov.uk/ukpga/2008/17/section/325); [S.I. 2008/3068](https://www.legislation.gov.uk/uksi/2008/3068), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2008/3068/article/1/2), [4(1)(b)](https://www.legislation.gov.uk/uksi/2008/3068/article/4/1/b) (with [arts. 6-13](https://www.legislation.gov.uk/uksi/2008/3068/article/6))
+
+[^key-04b372bee1b878427681117918948523]: Textual amendment: Words in [s. 34A(9)(a)](https://www.legislation.gov.uk/ukpga/1985/68/section/34A/9/a) substituted (1.4.2010) by [The Housing and Regeneration Act 2008 (Registration of Local Authorities) Order 2010 (S.I. 2010/844)](https://www.legislation.gov.uk/uksi/2010/844), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/844/article/1/2), [Sch. 2 para. 14](https://www.legislation.gov.uk/uksi/2010/844/schedule/2/paragraph/14)

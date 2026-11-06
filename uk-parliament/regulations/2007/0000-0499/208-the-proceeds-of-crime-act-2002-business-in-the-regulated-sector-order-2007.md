@@ -1,0 +1,79 @@
+---
+title: The Proceeds of Crime Act 2002 (Business in the Regulated Sector) Order 2007
+id: uksi/2007/208
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2007-01-30'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2007/208
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2007/208/pdfs/uksiem_20070208_en.pdf
+- http://www.legislation.gov.uk/uksi/2007/208/pdfs/uksi_20070208_en.pdf
+- http://www.legislation.gov.uk/uksi/2007/208/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Proceeds of Crime Act 2002 (Business in the Regulated Sector) Order 2007
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2007 No. 208
+
+PROCEEDS OF CRIME
+
+The Proceeds of Crime Act 2002 (Business in the Regulated Sector) Order 2007
+
+Made
+
+30th January 2007
+
+Laid before Parliament
+
+31st January 2007
+
+Coming into force
+
+1st November 2007
+
+The Treasury make the following Order in exercise of the powers conferred by paragraph 5 of Schedule 9 to the Proceeds of Crime Act 2002[^f00001]:
+
+## 1. Citation and commencement
+
+This Order may be cited as the Proceeds of Crime Act 2002 (Business in the Regulated Sector) Order 2007 and comes into force on 1st November 2007.
+
+## 2. Amendment of Schedule 9 to the Proceeds of Crime Act 2002
+
+In the Proceeds of Crime Act 2002, in paragraph 1(2) in Part 1 of Schedule 9[^f00002] (regulated sector and supervisory authorities), after paragraph (d), insert—
+
+> (da) operating a multilateral trading facility;
+
+.
+
+Alan Campbell
+
+Frank Roy
+
+Two of the Lords Commissioners of Her Majesty’s Treasury
+
+30th January 2007
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+The [Financial Services and Markets Act 2000](https://www.legislation.gov.uk/ukpga/2000/8) (Regulated Activities) (Amendment No. 3) Order 2006 ([S.I. 2006/3384](https://www.legislation.gov.uk/uksi/2006/3384)) makes operating a multilateral trading facility (as defined in that Order) a regulated activity, by inserting new article 25D into the [Financial Services and Markets Act 2000](https://www.legislation.gov.uk/ukpga/2000/8) (Regulated Activities) Order 2001 ([S.I. 2001/544](https://www.legislation.gov.uk/uksi/2001/544)). This addition of the new regulated activity is made as part of the implementation of Directive [2004/39/EC](https://www.legislation.gov.uk/european/directive/2004/0039) of the European Parliament and of the Council of 21 April 2004 on markets in financial instruments (OJ No L 145, 30.4.2004, p1) (“MiFID”). This Order makes a consequential amendment.
+
+This Order amends the Proceeds of Crime Act [2002 (c.29)](https://www.legislation.gov.uk/ukpga/2002/29) (“the Act”) to add to the list of regulated activities the activity of operating a multilateral trading facility. The effect of this is that a business will be in the regulated sector to the extent that it conducts such an activity. This is relevant to the offence of failure to disclose information concerning money laundering in section 330 of the Act, one component of which offence requires information to come to a person in the course of a business in the regulated sector.
+
+A transposition note has been prepared which sets out how the main elements of MiFID will be transposed into UK law. A Regulatory Impact Assessment of the effect of this instrument and the other instruments transposing MiFID on the costs of business has been prepared. Both may be obtained from the Financial Services Strategy Team, HM Treasury, 1 Horse Guards Road, London SW1A 2HQ. They are also available on HM Treasury’s website (www.hm-treasury.gov.uk), and copies of both documents have been placed in the libraries of both Houses of Parliament.
+
+## Annotations
+
+[^f00001]: Footnote: [2002 c. 29](https://www.legislation.gov.uk/ukpga/2002/29).
+
+[^f00002]: Footnote: Paragraph 1 of Schedule 9 was substituted by [S.I. 2003/3074](https://www.legislation.gov.uk/uksi/2003/3074).

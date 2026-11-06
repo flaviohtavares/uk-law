@@ -1,0 +1,180 @@
+---
+title: The Town and Country Planning (Control of Advertisements) (England) (Amendment) Regulations 2021
+id: uksi/2021/617
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2021-05-25'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2021/617
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2021/617/pdfs/uksiem_20210617_en.pdf
+- http://www.legislation.gov.uk/uksi/2021/617/pdfs/uksi_20210617_en.pdf
+- http://www.legislation.gov.uk/uksi/2021/617/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Town and Country Planning (Control of Advertisements) (England) (Amendment) Regulations 2021
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2021 No. 617
+
+Town And Country Planning, England
+
+The Town and Country Planning (Control of Advertisements) (England) (Amendment) Regulations 2021
+
+Made
+
+25th May 2021
+
+Laid before Parliament
+
+27th May 2021
+
+Coming into force
+
+24th June 2021
+
+The Secretary of State, in exercise of the powers conferred by sections 220 and 333(1) of the Town and Country Planning Act 1990[^f00001], makes the following Regulations:
+
+## 1. Citation and commencement
+
+(1) These Regulations may be cited as the Town and Country Planning (Control of Advertisements) (England) (Amendment) Regulations 2021.
+
+(2) The Regulations come into force on 24th June 2021.
+
+## 2. Amendments to the Town and Country Planning (Control of Advertisements) (England) Regulations 2007
+
+The Town and Country Planning (Control of Advertisements) (England) Regulations 2007[^f00002] are amended in accordance with regulations 3 to 6.
+
+## 3. Amendments in relation to flags
+
+After regulation 21 and immediately before the heading to Part 5 insert—
+
+> **Part 4A — Flags**
+>
+> **21A. Limitation on number of flags on flagstaff**
+>
+> (1) Subject to the provisions of this Part no flagstaff may display more than 1 flag.
+>
+> (2) Subject to the conditions set out in regulation 21B, a flagstaff may display 2 of the flags mentioned in paragraph (3).
+>
+> (3) For the purposes of paragraph (2), the flags are—
+>
+> - (a) a flag mentioned in paragraphs (a) to (i) of column (1) in Class H[^f00003] in Schedule 1 (a “Schedule 1 flag”);
+> - (b) a flag mentioned in paragraph 7A, 7AA or 7AB in Class 7 in Schedule 3[^f00004] (a “Schedule 3 flag”).
+>
+> **21B. Two flags: conditions of display**
+>
+> (1) Where a flagstaff displays two flags one of which is a Schedule 1 flag (within the meaning given in regulation 21A) and the other of which is a Schedule 3 flag (within the meaning given in that regulation) the Schedule 1 flag must be flown in a superior position to the Schedule 3 flag.
+>
+> (2) Where a flagstaff displays 2 Schedule 1 flags one of which is the Union flag, the Union flag must be flown in a superior position to the other flag.
+>
+> (3) No flagstaff may display more than one Schedule 3 flag.
+
+.
+
+## 4. European Union flags
+
+In Class H in Schedule 1, in paragraph (b) of column (1) omit the words “the European Union,”.
+
+## 5. NHS flags
+
+In Class 7 in Schedule 3—
+
+- (a) in paragraph 7A(1)—
+  - (i) in paragraph (d), omit the word “or”;
+  - (ii) at the end add—
+
+    > or
+    >
+    > - (f) bearing the device of the NHS.
+
+    ;
+- (b) in paragraph 7AA(2)—
+  - (i) in paragraph (d), omit the word “or”;
+  - (ii) at the end add—
+
+    > or
+    >
+    > - (f) bearing the device of the NHS.
+
+    ;
+- (c) in paragraph 7AB(2)—
+  - (i) in paragraph (d), omit the word “or”;
+  - (ii) at the end add—
+
+    > or
+    >
+    > - (f) bearing the device of the NHS.
+
+    .
+
+## 6. Flags: consequential amendments
+
+(1) In regulation 1(3), at the end add—
+
+> - (d) in the case of an advertisement within Class H, the requirements of Part 4A are complied with.
+
+.
+
+(2) In regulation 6(1), after the words “regulations 7 and 8,” insert “in the case of an advertisement within Class 7, the provisions of Part 4A”.
+
+(3) In Class H in Schedule 1, in column (2) for paragraph 1 substitute—
+
+> **1.** flag may not display any advertisement or subject matter additional to the design of the flag other than a black mourning ribbon.
+>
+> **1A.** Subject to Part 4A, the flagstaff may not fly any flag or display any advertisement other than a black mourning ribbon.
+
+.
+
+(4) In Class 7 in Schedule 3—
+
+- (a) in paragraph 7A(5), for “(3) and (4)” substitute “sub-paragraphs (3) and (4) and Part 4A”;
+- (b) in paragraph 7AA(5), for “(3) and (4)” substitute “sub-paragraphs (3) and (4) and Part 4A”;
+- (c) in paragraph 7AB(3), at the beginning insert “Subject to Part 4A”.
+
+Signed by authority of the Secretary of State for Housing, Communities and Local Government
+
+Christopher Pincher
+
+Minister of State
+
+Ministry of Housing, Communities and Local Government
+
+25th May 2021
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations amend the Town and Country Planning (Control of Advertisements) (England) Regulations 2007 (“the principal Regulations”) ([S.I. 2007/783](https://www.legislation.gov.uk/uksi/2007/783)).
+
+Regulation 3 inserts a new Part 4A into the principal Regulations.
+
+The inserted regulation 21A grants permission for a flagstaff to display two flags simultaneously, of which both may be from Class H in Schedule 1 to the principal Regulations or of which one may be from Class H in Schedule 1 to the principal Regulations and the other from Class 7 in Schedule 3 to those Regulations.
+
+The inserted regulation 21B provides that where a flag from Schedule 1 is displayed in conjunction with a flag from Schedule 3, the flag from Schedule 1 must be flown in a superior position to that from Schedule 3. The regulation also provides that where one of the flags flown is the Union flag, that flag must be flown in a superior position to the other flag and that not more than one flag from Schedule 3 may be displayed.
+
+Regulation 4 provides for the omission of the flag of the European Union from the list of flags mentioned in Class H in Schedule 1 to the principal Regulations.
+
+Regulation 5 amends the list of flags set out in each of paragraphs 7A(1), 7AA(1) and 7AB(1) in Class 7 of Schedule 3 to the principal Regulations to provide for the inclusion of a flag bearing the device of the NHS.
+
+Regulation 6 makes consequential amendments to regulation 1(3), regulation 6(1), Class H in Schedule 1 and Class 7 in Schedule 3 to the principal Regulations.
+
+An impact assessment has not been prepared for this instrument as no impact on the costs of business or the voluntary sector is foreseen.
+
+## Annotations
+
+[^f00001]: Footnote: [1990 c. 8](https://www.legislation.gov.uk/ukpga/1990/8). Section 220 was amended by section 42(4) and 120 of and by Schedule 9 to the Planning and Compulsory Purchase Act [2004 (c. 5)](https://www.legislation.gov.uk/ukpga/2004/5) and by sections 31(4), 32 and 84 of and paragraph 21 of Schedule 6 and paragraph 37 of Schedule 7 to the Planning and Compensation Act [1991 (c. 34)](https://www.legislation.gov.uk/ukpga/1991/34). Section 333(1) was amended by section 78 of and by paragraph 32(12) of Schedule 10 to the Environment Act [1995 (c. 25)](https://www.legislation.gov.uk/ukpga/1995/25).
+
+[^f00002]: Footnote: [S.I. 2007/783](https://www.legislation.gov.uk/uksi/2007/783).
+
+[^f00003]: Footnote: Class H was substituted by regulation 2(2) of the Town and Country Planning (Control of Advertisements) (England) Regulations 2012 ([S.I. 2012/2372](https://www.legislation.gov.uk/uksi/2012/2372)).
+
+[^f00004]: Footnote: Paragraph 7A was amended by regulation 2(3)(a) to (d) and paragraphs 7AA to 7AD were inserted by regulation 2(3)(e) of the Town and Country Planning (Control of Advertisements) (England) (Amendment) Regulations 2012 ([S.I. 2012/2372](https://www.legislation.gov.uk/uksi/2012/2372)).

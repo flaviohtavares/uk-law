@@ -1,0 +1,998 @@
+---
+title: The Registered Designs Rules 2006
+id: uksi/2006/1975
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2006-07-27'
+text_date: '2021-01-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2006/1975
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2006/1975/pdfs/uksiem_20061975_en.pdf
+- http://www.legislation.gov.uk/uksi/2006/1975/pdfs/uksi_20061975_en.pdf
+- http://www.legislation.gov.uk/uksi/2006/1975/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Registered Designs Rules 2006
+
+> Text as at 2021-01-01.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2006 No. 1975
+
+DESIGNS
+
+The Registered Designs Rules 2006
+
+Made
+
+27th July 2006
+
+Laid before Parliament
+
+28th July 2006
+
+Coming into force
+
+1st October 2006
+
+The Secretary of State makes the following Rules in exercise of the powers conferred upon him by sections 29 to 31 and 36 of the Registered Designs Act 1949 [^c16504671].
+
+In accordance with section 8(1) of the Tribunals and Inquiries Act 1992 [^c16504681] the Secretary of State has consulted the Council on Tribunals.[^M_C_7f72302c-aaec-4ff2-ed02-5b6579ca3af2]
+
+## PART 1 — INTRODUCTORY
+
+### 1. Citation and commencement
+
+These Rules may be cited as the Registered Designs Rules 2006 and shall come into force on 1st October 2006.
+
+### 2. Interpretation
+
+(1) In these Rules—
+
+- “**the Act**” means the Registered Designs Act 1949;
+- “**the journal**” means the journal published under rule 44(1); and
+- “**section**” means a section of the Act.
+
+(2) Where a time or period has been altered under rules 19(1) or 39 to 41, any reference in these Rules to the time or period shall be construed as a reference to the time or period as altered.
+
+### 2A. Directions of the registrar[^key-a9eb895928e01010330a5f3a513f6fa6]
+
+Any directions given by the registrar under sections 31A or 39 must be published on such website as the registrar considers to be likely to bring them to the attention of those persons likely to be affected by them.
+
+### 2B. Re-registered designs[^key-900ea1ef9bfa9c31450eca4bbe0d8f29]
+
+Except where provided to the contrary, these Rules apply to a re-registered design and a re-registered international design as they apply to other registered designs.
+
+### 3. Forms
+
+(1) The forms of which the use is required by these Rules are those set out in Schedule 1.
+
+(2) Such a requirement to use a form is satisfied by the use of a form which is acceptable to the registrar and contains the information required by the form as so set out.
+
+## PART 2 — APPLICATIONS FOR REGISTRATION
+
+### Applications for registration and formal requirements
+
+#### 4. Applications
+
+(1) An application for the registration of a design or designs shall be made on Form DF2A and—
+
+- (a) shall include the identity of the person making the application; and
+- (b) in relation to each design, shall either—
+  - (i) include a representation of the design; or
+  - (ii) be accompanied by a specimen of the design,
+
+and it shall be accompanied by the prescribed fee.
+
+(2) But an application for the registration of a design or designs, which is a subsequent application for the purposes of section 3B(3), shall be made on Form DF2B and be accompanied by the prescribed fee.
+
+(3) Where an application includes a representation of the design, the applicant may give his consent for its publication on Form DF2A or Form DF2B.
+
+(4) Where a person purports to file something under section 3(1) and—
+
+- (a) it is not in the form prescribed by either paragraph (1) or (2); or
+- (b) it is not accompanied by the prescribed fee,
+
+the registrar shall notify that person accordingly.
+
+(5) A representation or specimen filed under paragraph (1)(b) may be accompanied by a brief description of the design.
+
+(6) A specimen may not be filed under paragraph (1)(b) if it is hazardous or perishable; and where such a specimen is so filed it shall be disregarded.
+
+(7) An application for the registration of a design which is a repeating surface pattern shall only be treated as such if—
+
+- (a) the representation or specimen filed under paragraph (1)(b) includes the complete pattern and a sufficient portion of the repeat in length and width to show how the pattern repeats; and
+- (b) the application contains a statement that it relates to a repeating surface pattern.
+
+#### 5. Formal requirements
+
+(1) An application for the registration of a design shall comply with the first and second requirement.
+
+(2) The first requirement is that the applicant has specified the product to which the design is intended to be applied or in which it is intended to be incorporated.
+
+(3) The second requirement is that the dimensions of any specimen of the design filed under rule 4(1)(b)(ii) shall not exceed 29.7cm x 21cm x 1cm.
+
+(4) Where the applicant files a representation of the design after being notified under rule 8(1) that the application does not comply with the second requirement—
+
+- (a) that representation shall be deemed to have been filed under rule 4(1)(b)(i); and
+- (b) any specimen filed under rule 4(1)(b)(ii) shall be treated as not having been filed.
+
+(5) Nothing done to comply with the first requirement shall be taken to affect the scope of the protection conferred by the registration of a design.
+
+### Disclaimers
+
+#### 6. Partial disclaimers
+
+An application for the registration of a design may be accompanied by a disclaimer which—
+
+- (a) limits the scope or extent of protection being applied for in relation to the design; or
+- (b) indicates that the application for registration relates to a design that forms only a part of the appearance of a product.
+
+### Convention applications
+
+#### 7. Convention applications
+
+(1) Where an application for the registration of a design or designs is made by virtue of section 14 the applicant shall comply with the following provisions.
+
+(2) The application shall contain a declaration specifying—
+
+- (a) the date of making of each convention application; and
+- (b) the country it was made in or in respect of.
+
+(3) The applicant shall, before the end of the period of 3 months beginning immediately after[^key-7312727642e2e80641195ded85dac0d4] the date on which the application was filed, file at the Patent Office a copy of the representation of the design that was the subject of each convention application.
+
+(4) A copy of the representation filed under paragraph (3) shall be—
+
+- (a) duly certified by the authority with which it was filed; or
+- (b) verified to the satisfaction of the registrar.
+
+(5) Paragraph (3) shall not apply where a copy of the convention application is kept at the Patent Office.
+
+(6) Where any document relating to the convention application is in a language other than English or Welsh, the registrar may direct the applicant to provide a translation of the whole or any part of that document.
+
+(7) The translation shall be filed before the end of the period of 3 months beginning immediately after[^key-27b39ecbab759fe3f835baa1eeaf63a6] the date of the direction.
+
+(8) Where the applicant—
+
+- (a) fails to file a copy of the representation of the design which has been certified or verified in accordance with paragraph (4); or
+- (b) fails to comply with a direction given under paragraph (6),
+
+the convention application shall be disregarded for the purposes of section 14(2).
+
+(9) In this rule “**convention application**” means an application for the protection of a design which has been made in a convention country.
+
+### Examination of application, representations for publication and time limits
+
+#### 8. Substantive and formal examination of application
+
+(1) Where it appears to the registrar that he should refuse to register a design included in an application—
+
+- (a) by reason of the application for the registration of that design not being made in accordance with any of these Rules, other than rule 9(2) (see section 3A(2)); or
+- (b) by reason of section 3A(3) or (4),
+
+he shall notify the applicant accordingly.
+
+(2) The notification shall include a statement of why it appears to the registrar that he should refuse to register the design (for the purposes of this rule the “statement of objections”).
+
+(3) The applicant may, before the end of the period of 2 months beginning immediately after[^key-8c78d7794530ce9245763fecb0a3026a] the date of the notification, send his written observations on the statement of objections to the registrar.
+
+(4) The registrar shall give the applicant an opportunity to be heard.
+
+(5) Where the registrar refuses to register a design included in an application, he shall send to the applicant the written reasons for his decision.
+
+(6) The date on which the written reasons were sent to the applicant shall be deemed to be the date of the decision for the purposes of any appeal.
+
+#### 9. Representation of design for publication
+
+(1) Where the registrar decides that he should not refuse to register the design for the reasons mentioned in rule 8(1)(a) or (b) and—
+
+- (a) no representation of the design has been filed; or
+- (b) a representation has been filed but it is not suitable for publication,
+
+the registrar shall direct the applicant to provide a suitable representation.
+
+(2) Where a direction is given, the applicant shall, before the end of the period of 3 months beginning immediately after[^M_F_123a758e-8a5d-431c-d94c-c5f6354e0d73] the direction, file a suitable representation (otherwise the registrar may refuse to register the design: see section 3A(2)).
+
+(3) Where a suitable representation has been filed, the applicant shall file his consent for its publication on Form DF2C.
+
+(4) But paragraph (3) shall not apply where the applicant consented to publication in accordance with rule 4(3).
+
+(5) In this rule “**suitable representation**” means a representation of the design which is suitable for publication.
+
+#### 10. Time limits under section 3(5) and section 3B
+
+(1) The time prescribed for the purposes of section 3(5) shall be 12 months beginning immediately after[^key-879e679c76b9f5b936017801811f0a07] the date on which the application for registration of the design was made or treated as made (disregarding section 14).
+
+(2) The period prescribed for the purposes of section 3B(3) shall be the period of 2 months beginning immediately after[^key-120a7eb44918c0ea2e4f2af8f6dea0ec] the date on which the earlier application was modified under section 3B(3).
+
+## PART 3 — DESIGNS AFTER REGISTRATION
+
+### Publication
+
+#### 11. Publication
+
+(1) When a design has been registered, the registrar shall publish a representation of that design in the journal as soon as possible after the certificate of registration is granted.
+
+(2) When the registrar publishes the representation, he may also publish any other information he thinks is relevant to that design.
+
+(3) The representation published under paragraph (1) shall be the representation filed under rule 4(1)(b)(i) or 9(2) or as mentioned in rule 5(4).
+
+### Duration of rights and surrender
+
+#### 12. Extension of duration of right in registered design
+
+(1) An application for an extension under section 8(2) or 8(4) shall be made on Form DF9A.
+
+(2) An application under section 8(2) may only be made during the period of 6 months ending with the date on which the relevant period of 5 years expires.
+
+(3) On receipt of the prescribed renewal fee the registrar shall notify the registered proprietor of the extension of the right in the registered design.
+
+(4) Where the right in a registered design has ceased to have effect by reason of section 8(3), the registrar shall, before the end of the period of 6 weeks beginning immediately after[^key-396a8374eeec509cc423d5816022932a] the date on which the right ceased, send written notice to the registered proprietor of that fact.
+
+(5) But paragraph (4) shall not apply where the renewal fee and the prescribed additional fee is paid before a notice is sent.
+
+#### 13. Restoration of a lapsed right in a design under section 8A
+
+(1) An application for the restoration of the right in a design under section 8A shall—
+
+- (a) be made on Form DF29; and
+- (b) be supported by evidence of the statements made in the application.
+
+(2) The period prescribed for the purposes of section 8A(1) shall be the period of 12 months beginning immediately after[^key-a814c1f3c5d31d9c3fe2a5b2718e0a0d] the date on which the registered design ceased to have effect except where the registered design is a re-registered design or a re-registered international design where the duration of the right in the design ends within the period of six months beginning with IP completion day (as defined in section 20(1) of the European Union (Withdrawal) Act 2018) and ending with the end of the period of six months beginning with the day after that on which IP completion day falls (a “relevant re-registered design”)[^key-363db8b86d259a949b7f38e662991e9e]
+
+(2A)[^key-ec9b486944b9ba8d2db2df2182a184c1] The period prescribed for the purposes of section 8A(1) in respect of a relevant re-registered design or a re-registered international design shall be the period of 12 months beginning immediately after the date on which the registrar gave notice under section 8(3).
+
+(3) The notice of the application shall be published in the journal.
+
+(4) Where, upon consideration of that evidence, the registrar is not satisfied that a case for an order under section 8A has been made out, he shall notify the applicant accordingly.
+
+(5) The applicant may, before the end of the period of 1 month beginning immediately after[^key-e0181ac1740c172ba2094930af41d094] the date of that notification, request to be heard by the registrar.
+
+(6) Where the applicant requests a hearing, the registrar shall give him an opportunity to be heard; after which the registrar shall determine whether the application under section 8A shall be granted or refused.
+
+(7) Where the registrar decides not to make the order he shall give the applicant written reasons for his refusal.
+
+#### 14. Cancellation of registration
+
+A request under section 11 to cancel the registration of a design shall be made on Form DF19C.
+
+## PART 4 — PROCEEDINGS HEARD BEFORE THE REGISTRAR
+
+### Conduct of proceedings
+
+#### 15. Procedure for applying for a declaration of invalidity
+
+(1) An application for a declaration of invalidity under section 11ZB shall—
+
+- (a) be made on Form DF19A; and
+- (b) include a statement of the grounds on which the application is made.
+
+(2) The statement of grounds shall include a concise statement of the facts and grounds on which the applicant relies and shall be verified by a statement of truth.
+
+(3) The registrar shall send a copy of Form DF19A and the statement of case to the registered proprietor.
+
+(4) The registrar shall specify a period within which the registered proprietor shall file a counter-statement.
+
+(5) The registered proprietor, within that period, shall—
+
+- (a) file his counter-statement on Form DF19B; and
+- (b) send a copy of it to the applicant,
+
+otherwise the registrar may treat him as not opposing the application.
+
+(6) In his counter-statement the registered proprietor shall—
+
+- (a) include a concise statement of the facts on which he relies;
+- (b) state which of the allegations in the statement of grounds he denies;
+- (c) state which of the allegations he is unable to admit or deny, but which he requires the applicant to prove;
+- (d) state which allegations he admits,
+
+and it shall be verified by a statement of truth.
+
+(7) In this Part—
+
+- (a) “**statement of case**” means the statement of grounds filed by the applicant or the counter-statement filed by the registered proprietor; and
+- (b) references to the statement of case include part of the statement of case.
+
+#### 15A. Invalidation of existing registered Community design: invalidation notice and procedure on application for derogation; Schedule 1A paragraph 9A[^key-815b8cd0c02faae67d6786b736d96d36]
+
+(1) An invalidation notice under paragraph 9A of Schedule 1A must—
+
+- (a) identify the existing registered Community design by the number under which it was registered in the RCD register immediately before IP completion day, together with a representation of the design,
+- (b) be accompanied by a copy of the decision (including any decision determined on appeal) pursuant to which the existing registered Community design was declared to be invalid, and
+- (c) include a statement confirming that the decision pursuant to which the registered Community design was declared invalid (whether wholly or partly) has been finally determined.
+
+(2) Where an invalidation notice is sent to the registrar by the proprietor of the re-registered design which derives from the existing registered Community design, the invalidation notice must be accompanied by—
+
+- (a) a notice (a “derogation notice”) in writing to the registrar that, based upon the provisions in paragraph 9A(4) of Schedule 1A, the re-registered design should not be declared invalid (whether wholly or partly), and
+- (b) a statement of the reasons why paragraph 9A of Schedule 1A applies (a “statement”) together with relevant supporting evidence (“supporting evidence”).
+
+(3) Where the proprietor of a re-registered design submits an invalidation notice to the registrar but fails to send a derogation notice, a statement, or supporting evidence, the registration of the re-registered design which derives from the existing registered Community design identified in the invalidation notice must be declared invalid to the same extent as the existing registered Community design, unless the registrar directs otherwise.
+
+(4) Where the registrar has received an invalidation notice from a person other than the proprietor of the re-registered design which derives from the existing registered Community design, the registrar must as soon as reasonably practicable after receipt of the invalidation notice—
+
+- (a) send a copy of the invalidation notice to the proprietor of the re-registered design which derives from the existing registered Community design identified in the invalidation notice, and
+- (b) notify the proprietor of the re-registered design which derives from the existing registered Community design that based upon the declaration of invalidity of the existing registered Community design, the re-registered design will be declared invalid to the same extent as the existing registered Community design from which it derives.
+
+(5) Where the registrar has become aware of the situation referred to in paragraph 9A of Schedule 1A otherwise than by an invalidation notice, the registrar must as soon as reasonably practicable after becoming aware of that situation notify the proprietor of the re-registered design which derives from the existing registered Community design in the terms provided in paragraph (4)(b).
+
+(6) The proprietor of the re-registered design referred to in paragraphs (4) and (5) must, within such period of not less than one month as may be specified in the notice referred to in paragraphs (4)(b) and 5, send to the registrar a derogation notice accompanied by a statement and supporting evidence as referred to in paragraph (2), failing which the registration of the re-registered design must be declared invalid to the same extent as the registered Community design from which the re-registered design derives, unless the registrar directs otherwise.
+
+(7) The registrar must, in reaching a decision as to whether paragraph 9A of Schedule 1A applies to a re-registered design, have regard to the statement and supporting evidence filed by the proprietor of the re-registered design and must send written notice of the decision to the proprietor, stating the reasons for that decision.
+
+(8) For the purposes of any appeal against a decision referred to in sub-paragraph (7), the date on which the notice is sent must be taken to be the date of the decision. 
+
+#### 16. Evidence rounds
+
+(1) When the period specified under rule 15(4) has expired, the registrar shall specify the periods within which evidence may be filed by the parties.
+
+(2) Where the applicant for a declaration of invalidity files no evidence (other than his statement of grounds) in support of his application, the registrar may treat him as having withdrawn his application.
+
+(3) The registrar may, at any time if he thinks fit, give leave to either party to file evidence upon such terms as he thinks fit.
+
+(4) Under this rule, evidence shall only be considered to be filed when—
+
+- (a) it has been received by the registrar; and
+- (b) it has been sent to all other parties to the proceedings.
+
+(5) The registrar shall give the parties an opportunity to be heard.
+
+(6) Where any party requests to be heard, the registrar shall send to the parties notice of a date for the hearing.
+
+#### 17. Decision of registrar on invalidity
+
+(1) When the registrar has made a decision on the application for a declaration of invalidity, he shall send to the parties written notice of it, stating the reasons for his decision.
+
+(2) The date on which the decision was sent to the applicant shall be deemed to be the date of the decision for the purposes of any appeal.
+
+#### 18. Exercise of discretionary powers of registrar
+
+The registrar shall give to any applicant for registration of a design an opportunity to be heard before exercising adversely to the applicant any discretion vested in the registrar by or under the Act.
+
+#### 19. General powers of registrar in relation to proceedings before him[^M_C_2298a627-ff45-4e89-f253-6dbfdf0b2f68]
+
+(1) The registrar may extend or shorten (or further extend or shorten) any period which has been specified under any provision of this Part.
+
+(2) At any stage of proceedings before him, the registrar may direct that the parties to the proceedings attend a case management conference or pre-hearing review.
+
+(3) Except where the Act or these Rules otherwise provide, the registrar may give such directions as to the management of the proceedings as he thinks fit, and in particular he may—
+
+- (a) require a document, information or evidence to be filed;
+- (b) require a translation of any document;
+- (c) require a party or a party's legal representative to attend a hearing;
+- (d) hold a hearing and receive evidence by telephone or by using any other method of direct oral communication;
+- (e) allow a statement of case to be amended;
+- (f) stay the whole, or any part, of the proceedings either generally or until a specified date or event;
+- (g) consolidate proceedings;
+- (h) direct that part of any proceedings be dealt with as separate proceedings.
+
+(4) The registrar may control the evidence by giving directions as to—
+
+- (a) the issues on which he requires evidence;
+- (b) the nature of the evidence which he requires to decide those issues; and
+- (c) the way in which the evidence is to be placed before him,
+
+and the registrar may use his power under this paragraph to exclude evidence which would otherwise be admissible.
+
+(5) When the registrar gives directions under any provision of this Part, he may—
+
+- (a) make them subject to conditions; and
+- (b) specify the consequences of failure to comply with the directions or a condition.
+
+#### 20. Hearings in public[^M_C_4a3f5eeb-c993-48c6-9811-e2df1a12edba]
+
+(1) Subject to paragraphs (3) and (4), any hearing before the registrar of proceedings between two or more parties relating to an application for a registered design or a registered design, shall be held in public.
+
+(2) Any party to the proceedings may apply to the registrar for the hearing to be held in private.
+
+(3) The registrar shall only grant an application under paragraph (2) where—
+
+- (a) it is in the interests of justice for the hearing to be in held in private; and
+- (b) all the parties to the proceedings have had an opportunity to be heard on the matter,
+
+and where the application is granted the hearing shall be in private.
+
+(4) Any hearing of an application under paragraph (2) shall be held in private.
+
+(5) In this rule a reference to a hearing includes any part of a hearing.
+
+(6)[^key-8a8b212d3ba345d98597013f657c2af8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 21. Evidence in proceedings before the registrar
+
+(1) Subject as follows, evidence filed under this Part may be given—
+
+- (a) by witness statement, statement of case, affidavit, statutory declaration; or
+- (b) in any other form which would be admissible as evidence in proceedings before the court.
+
+(2) A witness statement or a statement of case may only be given in evidence if it includes a statement of truth.
+
+(3) The general rule is that evidence at hearings is to be by witness statement unless the registrar or any enactment requires otherwise.
+
+(4) For the purposes of this Part, a statement of truth—
+
+- (a) means a statement that the person making the statement believes that the facts stated in a particular document are true; and
+- (b) shall be dated and signed by—
+  - (i) in the case of a witness statement, the maker of the statement,
+  - (ii) in any other case, the party or his legal representative.
+
+(5) In this Part, a witness statement is a written statement signed by a person that contains the evidence which that person would be allowed to give orally.
+
+### Miscellaneous
+
+#### 22. Costs of proceedings[^M_C_3a0c853f-cab7-4643-b129-e7e8cae9abe0]
+
+The registrar may, in any proceedings before him under the Act, award to any party by order such costs as he considers reasonable, and direct how and by what parties they are to be paid.
+
+#### 23. Security for costs[^key-f8402db3dd80514caf3c795239f20e0b]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 24. Registrar shall have the powers of official referee[^M_C_4a269cea-c8d1-449d-e74b-bfe8bf5f7fbc]
+
+The registrar shall have the powers of an official referee of the Supreme Court as regards—
+
+- (a) the attendance of witnesses and their examination on oath; and
+- (b) the discovery and production of documents,
+
+but he shall have no power to punish summarily for contempt.
+
+#### 25. Minimum notice of hearing
+
+The registrar shall not give a person less than 14 days notice of any hearing under the Act.
+
+## PART 5 — THE REGISTER AND OTHER INFORMATION
+
+### Certificate of registration and registrable interests
+
+#### 26. Certificate of registration
+
+(1) The certificate of registration of a design shall include—
+
+- (a) the name of the registered proprietor;
+- (b) the date of registration; and
+- (c) the registration number of the design.
+
+(2) Any request by the registered proprietor for a copy of the certificate of registration shall—
+
+- (a) be in writing; and
+- (b) be accompanied by the prescribed fee.
+
+(3) Before considering the request, the registrar may require the person making the request to provide such information or evidence as the registrar thinks fit.
+
+(4)[^key-32d2ce3459e5e75946b24a55638f3d59] This rule shall not apply to re-registered designs or re-registered international designs.
+
+#### 27. Registration of interests
+
+(1) The following matters are prescribed for the purposes of section 17(1)(c)—
+
+- (a) the registered proprietor's address for service;
+- (b) the grant or cancellation of a licence under a registered design;
+- (c) the granting or cancelling of a security interest (whether fixed or floating) over a registered design or any right in or under it;
+- (d) an order of a court or other competent authority transferring a registered design or any right in or under it;[^key-607f6fb995cfb4458f2fefa2a10b9bde]
+- (e)[^key-d11c5c40c7dd53361db1b3259662354b] where the design to be registered is a re-registered design (within the meaning of “re-registered design” in paragraph 1(2) of Schedule 1A) an indication that the re-registered design was on IP completion day the subject of a registration at the European Union Intellectual Property Office, including the number of the registration of the registered Community design from which the re-registered design derives.
+
+(2) An application to the registrar to enter in the register a matter not mentioned in section 17(1)(a) or (b) or paragraph (1) shall be made in writing.
+
+(3) An application under section 19(1) or (2) shall be made on Form DF12A.
+
+(4) Where the registrar has doubts about whether he should enter a matter in the register—
+
+- (a) he shall inform the person making the application of the reasons for his doubts; and
+- (b) he may require that person to furnish evidence in support of the application.
+
+### Inspection and information about registered designs
+
+#### 28. Inspection of register, representations and specimens
+
+(1) The register and any representation or specimen of a registered design shall be open for inspection at the Patent Office during the hours the Patent Office is open for all classes of public business (see rule 45(2)).
+
+(2) Whilst a direction under section 5(1) in respect of a design remains in force, no representation or specimen of the design shall be open to inspection.
+
+#### 29. Inspection of documents
+
+(1) Where a design has been registered under the Act, there shall be open to inspection at the Patent Office on and after the date on which the certificate of registration is granted every document kept at the Patent Office in connection with that design.
+
+(2) But no document may be inspected—
+
+- (a) before the end of the period of 14 days beginning immediately after[^key-fc1e27af0a2a8143ef606c031d492bae] the day—
+  - (i) it was filed at the Patent Office; or
+  - (ii) received by the registrar or the Patent Office;
+- (b) where that document was prepared by the registrar or the Patent Office for internal use only;
+- (c) where the document includes matter—
+  - (i) which in the registrar's opinion disparages any person in a way likely to damage him; or
+  - (ii) the inspection of which would in his opinion be generally expected to encourage offensive, immoral or anti-social behaviour.
+
+(3) Unless, in a particular case, the registrar otherwise directs, no document may be inspected —
+
+- (a) where—
+  - (i) the document was prepared by the registrar or the Patent Office other than for internal use; and
+  - (ii) it contains information which the registrar considers should remain confidential;
+- (b) where it is treated as a confidential document (under rule 30).
+
+(4) In this rule and rule 30 references to a document include part of a document.
+
+#### 30. Confidential information
+
+(1) Where a person files a document at the Patent Office or sends it to the registrar or the Patent Office, any person may request that the document be treated as a confidential document.
+
+(2) A request to treat a document as confidential shall—
+
+- (a) be made before the end of the period of 14 days beginning immediately after[^key-e1932f55f66306a35cf2b2025ed9e0ac] the date on which the document was filed at the Patent Office or received by the registrar or at the Patent Office;
+- (b) include reasons for the request.
+
+(3) Where a request has been made under paragraph (1), the document shall be treated as confidential until the registrar refuses that request or makes a direction under paragraph (4).
+
+(4) Where it appears that there is good reason for the document to remain confidential, the registrar may direct that the document shall be treated as a confidential document; otherwise he shall refuse the request made under paragraph (1).
+
+(5) But, where the registrar believes there is no longer a good reason for the direction under paragraph (4) to remain in force, he shall revoke it.
+
+#### 31. Information about rights in registered designs
+
+(1) A request for information under section 23 shall be made on Form DF21 and be accompanied by the prescribed fee.
+
+(2) The request shall—
+
+- (a) where the registration number is known by the person making the request, include that number; or
+- (b) in any other case, be accompanied by a representation or specimen of the product—
+  - (i) in which the design has been incorporated; or
+  - (ii) to which the design has been applied.
+
+### Copies of documents
+
+#### 32. Copies of entries in, or extracts from, the register
+
+An application under section 17(5) for a certified copy of an entry in the register or a certified extract from the register shall be made on Form DF23 and be accompanied by the prescribed fee.
+
+#### 33. Copies of representations and specimens
+
+(1) A person may apply to the registrar for a certified copy of any representation or specimen of a design; and that person shall be entitled to such a copy.
+
+(2) An application under paragraph (1) shall be made in writing and be accompanied by the prescribed fee.
+
+(3)[^key-47b8b7040c12e771114b4a984052624f] This rule shall not apply to re-registered designs or re-registered international designs.
+
+### Alterations and rectification
+
+#### 34. Alteration of name or address
+
+(1) Any person may request that an alteration to his name or address—
+
+- (a) be entered in the register; or
+- (b) be made to any application or other document filed at the Patent Office.
+
+(2) A request under paragraph (1) shall in relation to an alteration to—
+
+- (a) his name, be made on Form DF16A; and
+- (b) his address, be made on Form DF16A or in writing.
+
+(3) Where the registrar has doubts about whether he should make the alteration to a name or address—
+
+- (a) he shall inform the person making the request of the reason for his doubts; and
+- (b) he may require that person to furnish evidence in support of the request.
+
+(4) Where the registrar has no doubts (or no longer has doubts) about whether he should make the alteration, it shall be entered in the register or made to the application or document.
+
+#### 35. Notice of rectification of the register
+
+(1) The prescribed manner of giving notice to the registrar for the purposes of section 20(3) is by giving written notice.
+
+(2) The prescribed manner of service on the registrar for the purposes of section 20(4) is by filing a copy of the order at the Patent Office.
+
+## PART 6 — MISCELLANEOUS
+
+### Agents and advisers
+
+#### 36. Agents
+
+(1) Any act required or authorised by the Act to be done by or to any person in connection with the registration of a design, or any procedure relating to a registered design, may be done by or to an agent authorised by that person orally or in writing.
+
+(2) But an agent shall only be treated as authorised under paragraph (1) where—
+
+- (a) he was nominated by the applicant at the time of—
+  - (i) making his application for registration;
+  - (ii) making his application for a declaration of invalidity under section 11ZB; or
+  - (iii) making his application under section 19(1) or (2); or
+- (b) he has filed Form DF1A.
+
+(3) Where an agent has been authorised under paragraph (1), the registrar may, if he thinks fit in any particular case, require the signature or presence of his principal.
+
+#### 37. Appointing advisers
+
+(1) The registrar may appoint an adviser to assist him in any proceedings before him.
+
+(2) The registrar shall settle any question or instructions to be submitted or given to the adviser.
+
+### Correction of irregularities and extensions of time
+
+#### 38. Correction of irregularities
+
+Where the registrar thinks fit, he may rectify any irregularity of procedure—
+
+- (a) after giving the parties such notice, and
+- (b) subject to such conditions,
+
+as he may direct.
+
+#### 39. Extension of times or periods prescribed by Rules
+
+(1) The registrar may, if he thinks fit, extend (or further extend) any time or period prescribed by these Rules, except the periods prescribed by—
+
+- (a) rule 10(1) (period prescribed for the purposes of section 3(5)); and
+- (b) rule 13(2) (period for making an application for restoration),
+
+(but those periods may be extended under rules 38, 40 and 41).
+
+(2) Any extension under paragraph (1) shall be made—
+
+- (a) after giving the parties such notice, and
+- (b) subject to such conditions,
+
+as the registrar may direct.
+
+(3) An extension may be granted under paragraph (1) notwithstanding that the time or period prescribed by the relevant rule has expired.
+
+#### 40. Interrupted days
+
+(1) The registrar may certify any day as an interrupted day where—
+
+- (a) there is an event or circumstance causing an interruption in the normal operation of the Patent Office; or
+- (b) there is a general interruption or subsequent dislocation in the postal services of the United Kingdom.
+
+(2) Any certificate of the registrar made under paragraph (1) shall be posted in the Patent Office and advertised in the journal.
+
+(3) The registrar shall, where the time for doing anything under these Rules expires on an interrupted day, extend that time to the next following day not being an interrupted day (or an excluded day).
+
+(4) In this rule—
+
+- “**interrupted day**” means a day which has been certified as such under paragraph (1); and
+- “**excluded day**” means a day specified as such by rule 46.
+
+#### 41. Delays in communication services
+
+(1) The registrar shall extend any time or period in these Rules where he is satisfied that the failure to do something under these Rules was wholly or mainly attributed to a delay in, or failure of, a communication service.
+
+(2) Any extension under paragraph (1) shall be—
+
+- (a) made after giving the parties such notice; and
+- (b) subject to such conditions,
+
+as the registrar may direct.
+
+(3) In this rule “**communication service**” means a service by which documents may be sent and delivered and includes post, electronic communications and courier.
+
+### Address for service
+
+#### 42. Address for service
+
+(1) For the purposes of any proceedings under the Act, an address for service shall be furnished by—
+
+- (a) an applicant for the registration of a design;
+- (b) a person who makes an application under section 11ZB for a declaration of invalidity of a registered design;
+- (c) the registered proprietor of the design who opposes such an application ;[^key-195e91bb32cbe0d54a1b328e66420bab]
+- (d)[^key-9ed83795f1d7011acab96b0a3418ed35] a proprietor of a re-registered design who sends a derogation notice to the registrar under rule 15A.
+
+(2) The proprietor of a registered design, or any person who has registered any interest in a registered design, may furnish an address for service on Form DF1A.
+
+(3) Where a person has furnished an address for service under paragraph (1) or (2), he may substitute a new address for service by notifying the registrar on Form DF1A.
+
+(4)[^key-df7f3cd52b8380bd29528eb48c9b9557] An address for service furnished under this Rule shall be an address in the United Kingdom, Gibraltar[^key-548ef19d0f0637985081f5cd9201f8bb] or the Channel Islands.
+
+(6)[^key-22bfbd90944e0cf4452e81df312e8799] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 43. Failure to furnish an address for service
+
+(1) Where—
+
+- (a) a person has failed to furnish an address for service under rule 42(1); and
+- (b) the registrar has sufficient information enabling him to contact that person,
+
+the registrar shall direct that person to furnish an address for service.
+
+(2) Where a direction has been given under paragraph (1), the person directed shall, before the end of the period of 2 months beginning immediately after[^key-1e92e603d280c527fd43f18c6cb97757] the date of the direction, furnish an address for service.
+
+(3) Paragraph (4) applies where—
+
+- (a) a direction was given under paragraph (1) and the period prescribed by paragraph (2) has expired; or
+- (b) the registrar had insufficient information to give a direction under paragraph (1),
+
+and the person has failed to furnish an address for service.
+
+(4) Where this paragraph applies—
+
+- (a) in the case of an applicant for the registration of a design, the application shall be treated as withdrawn;
+- (b) in the case of a person applying under section 11ZB for a declaration of invalidity, his application shall be treated as withdrawn; and
+- (c) in the case of the proprietor who is opposing an application under section 11ZB, he shall be deemed to have withdrawn from the proceedings;[^key-bbf212a0610e886d86645d10b4194b82]
+- (d)[^key-d7caa1103e4c18d53d7c37774238ab77] in the case of a proprietor who sends a derogation notice to the registrar, the registrar must proceed as if the proprietor had not sent a derogation notice.
+
+(5) In this rule an “**address for service**” means an address which complies with the requirements of rule 42(4) [^key-906e3adc7fce06a3e65d8e45730d153f]....
+
+### Miscellaneous
+
+#### 44. The journal
+
+(1) The registrar shall publish a journal which shall contain—
+
+- (a) everything which is required by the Act or these Rules to be published; and
+- (b) any other information that the registrar may consider to be generally useful or important.
+
+(2) In these Rules “**the journal**” means the journal published under paragraph (1).
+
+#### 45. Hours of business
+
+(1) For the transaction of relevant business by the public the Patent Office shall be open—
+
+- (a) on Monday to Friday between 9.00am and midnight; and
+- (b) on Saturday between 9.00am and 1.00pm.
+
+(2) For the transaction of all other business by the public under the Act the Patent Office shall be open between 9.00am and 5.00pm.
+
+(3) In this Part “**relevant business**” means the filing of any application or other document except—
+
+- (a) an application for an extension under section 8; or
+- (b) an application for the registration of a design or designs made by virtue of section 14.
+
+#### 46. Excluded days
+
+(1) The following shall be excluded days for the transaction by the public of business under the Act—
+
+- (a) a Sunday;
+- (b) Good Friday;
+- (c) Christmas day; or
+- (d) a day which is specified or proclaimed to be a bank holiday by or under section 1 of the Banking and Financial Dealings Act 1971 [^c16504701].
+
+(2) A Saturday shall be an excluded day for the transaction by the public of business under the Act, except relevant business (see rule 45(1)).
+
+#### 47. Transitional provisions and revocation
+
+(1) Schedule 2 (transitional provisions) shall have effect.
+
+(2) The instruments set out in Schedule 3 (revocations) are revoked to the extent specified.
+
+Sainsbury of Turville
+
+Parliamentary Under Secretary of State for Science and Innovation
+
+Department of Trade and Industry
+
+## SCHEDULE 1 — FORMS
+
+Rule 3
+
+| *Form number* | *Title* | *Rule* |
+| --- | --- | --- |
+| DF1A | Appointment or change of agent or contact address | 36 and 42 |
+| DF2A | Application to register one or more designs | 4 |
+| DF2B | Application to register one or more designs divided from an earlier application | 4 |
+| DF2C | Application to publish one or more designs | 9 |
+| DF9A | Renewal of design registration | 12 |
+| DF12A | Application to record a change of ownership or to record or cancel a licence or security | 27 |
+| DF16A | Change of proprietor's name or address | 34 |
+| DF19A | Request to invalidate a design registration | 15 |
+| DF19B | Notice of counter-statement | 15 |
+| DF19C | Notice by proprietor to cancel a registration | 14 |
+| DF21 | Request for a search of the UK designs register | 31 |
+| DF23 | Request for a Certified Copy | 32 |
+| DF29 | Request to restore a registration | 13 |
+
+[image: see source](https://www.legislation.gov.uk/uksi/2006/1975/images/uksi_20061975_en_sld_001)[image: see source](https://www.legislation.gov.uk/uksi/2006/1975/images/uksi_20061975_en_sld_002)[image: see source](https://www.legislation.gov.uk/uksi/2006/1975/images/uksi_20061975_en_sld_003)[image: see source](https://www.legislation.gov.uk/uksi/2006/1975/images/uksi_20061975_en_sld_004)[image: see source](https://www.legislation.gov.uk/uksi/2006/1975/images/uksi_20061975_en_sld_005)[image: see source](https://www.legislation.gov.uk/uksi/2006/1975/images/uksi_20061975_en_sld_006)[image: see source](https://www.legislation.gov.uk/uksi/2006/1975/images/uksi_20061975_en_sld_007)[image: see source](https://www.legislation.gov.uk/uksi/2006/1975/images/uksi_20061975_en_sld_008)[image: see source](https://www.legislation.gov.uk/uksi/2006/1975/images/uksi_20061975_en_sld_009)[image: see source](https://www.legislation.gov.uk/uksi/2006/1975/images/uksi_20061975_en_sld_010)[image: see source](https://www.legislation.gov.uk/uksi/2006/1975/images/uksi_20061975_en_sld_011)[image: see source](https://www.legislation.gov.uk/uksi/2006/1975/images/uksi_20061975_en_sld_012)[image: see source](https://www.legislation.gov.uk/uksi/2006/1975/images/uksi_20061975_en_sld_013)[image: see source](https://www.legislation.gov.uk/uksi/2006/1975/images/uksi_20061975_en_sld_014)[image: see source](https://www.legislation.gov.uk/uksi/2006/1975/images/uksi_20061975_en_sld_015)[image: see source](https://www.legislation.gov.uk/uksi/2006/1975/images/uksi_20061975_en_sld_016)[image: see source](https://www.legislation.gov.uk/uksi/2006/1975/images/uksi_20061975_en_sld_017)[image: see source](https://www.legislation.gov.uk/uksi/2006/1975/images/uksi_20061975_en_sld_018)
+
+## SCHEDULE 2 — TRANSITIONAL PROVISIONS
+
+Rule 47(1)
+
+### PART 1 — PROVISIONS RELATING TO PENDING APPLICATIONS
+
+#### 1. Interpretation
+
+In this Part—
+
+- “**the old Rules**” means the Registered Designs Rules 1995 [^c16504891] as they had effect immediately before the coming into force of these Rules; and
+- “**the RRO**” means the Regulatory Reform (Registered Designs) Order 2006 [^c16504901].
+
+#### 2. Statement of objections
+
+Where—
+
+- (a) the registrar sent the applicant a statement of objections under rule 29 of the old Rules; and
+- (b) the applicant has not sent to the registrar his observations in writing on the objections,
+
+the objections shall be treated as the “statement of objections” under rule 8 of these Rules and the date on which the objections were sent shall be treated as the date on which the applicant was notified under rule 8(1).
+
+#### 3. Period prescribed for the purposes of section 3B(3)
+
+Where—
+
+- (a) the period prescribed by rule 10 of these Rules has expired before the date on which these Rules come into force; and
+- (b) the period prescribed for the purposes of section 3B by rule 36A of the old Rules has not expired before the date on which these Rules come into force,
+
+the period prescribed for the purposes of section 3B(3) shall be that mentioned in rule 36A of the old Rules.
+
+#### 4. Publication
+
+Rules 9 and 11 shall not apply where the application for registration of a design under the Act was made before these Rules come into force.
+
+#### 5. Restoration
+
+An application made in accordance with rule 41(2) of the old Rules shall be treated as made in accordance with rule 13(1) of these Rules.
+
+#### 6. Inspection of register
+
+Where the amendments made to section 22, by article 16(2)(b) and (3) of the RRO, do not apply to a registration under the Act (by reason of article 19 of the RRO), rule 69 of the old Rules shall continue to have effect in relation to that registration.
+
+#### 7. Inspection of documents
+
+Rules 29 and 30 shall not apply to any document filed at the Patent Office before these Rules come into force.
+
+#### 8. Requests for certified copies
+
+A request under rule 72 of the old Rules for a certified copy of any representation, specimen or document kept at the Patent Office shall be treated as an application under rule 33(1) of these Rules.
+
+#### 9. Invalidity proceedings
+
+(1) The time the registrar allowed under rule 53 of the old Rules for the filing of the counter-statement shall be treated as the period specified under rule 15(4) of these Rules.
+
+(2) Where—
+
+- (a) an application for a declaration of invalidity which was made before these Rules came into force; and
+- (b) a counter-statement has been filed by the registered proprietor,
+
+the registrar shall, within 28 days of these Rules coming into force, specify the periods within which any evidence may be filed, in accordance with rule 16(1).
+
+### PART 2 — PROVISIONS RELATING TO APPLICATIONS UNDER THE OLD ACT
+
+#### 10. Interpretation
+
+In this Part, “**the old Act**” means the Registered Designs Act 1949 as it had effect on 27th October 2001.
+
+#### 11. Application of this Part
+
+This Part applies to—
+
+- (a) transitional registrations, within the meaning of regulation 11 of the Registered Designs Regulations 2001 [^c16504911];
+- (b) post-1989 registrations, within the meaning of regulation 12 of those Regulations; and
+- (c) pre-1989 registrations, within the meaning of regulation 13 of those Regulations.
+
+#### 12. Meaning of applied industrially
+
+For the purposes of section 6 of the old Act, the circumstances in which a design shall be regarded as “applied industrially” are—
+
+- (a) where the design is applied to more than fifty articles, which do not all together constitute a single set of articles (within the meaning of section 44(1) of the old Act); or
+- (b) where the design is applied to goods manufactured in lengths or pieces, not being hand-made goods.
+
+#### 13. Applications under section 11(2) of old Act
+
+(1) Part 4 of these Rules applies to an application under section 11(2) of the old Act for the cancellation of registration as it applies to an application for a declaration of invalidity under section 11ZB of the Act.
+
+(2) Where an application is made under section 11(2) of the old Act, any reference in rule 15(1) to an application for a declaration of invalidity under section 11ZB of the Act shall be construed as a reference to an application under the relevant provision of the old Act.
+
+(3) For the purposes of rule 23(1), an application under section 11(2) of the old Act shall be treated as if it were mentioned in section 30(3) of the Act.
+
+## SCHEDULE 3 — REVOCATIONS
+
+Rule 47(2)
+
+| *Title and number* | *Extent of revocation* |
+| --- | --- |
+| Registered Designs Rules 1995 (SI 1995/2912) | The whole rules. |
+| Registered Designs (Amendment) Rules 1999 (SI 1999/3196) | The whole rules. |
+| Registered Designs (Amendment) Rules 2001 (SI 2001/3950) | The whole rules. |
+| Patents, Trade Marks and Designs (Address For Service, etc) Rules 2006 (SI 2006/760) | Rules 10 to 14. |
+| Trade Marks and Designs (Address For Service) (Amendment) Rules 2006 (2006/1029) | Rule 2. |
+
+*(This note is not part of the Rules)*
+
+These Rules are made under the Registered Designs Act 1949 (c. 88). They regulate the business of the Patent Office in relation to designs. These rules replace the Registered Designs Rules 1995 and other Instruments amending those Rules. They make substantial changes to both the drafting and effect of the Registered Designs Rules 1995.
+
+*Part 1* of these Rules contains introductory provisions.
+
+*Part 2* of these Rules contains provisions relating to applications for registered designs. In particular, it includes the requirements as to form, disclaimers and special provisions for convention applications. It also includes provisions relating to substantive examination of applications and their publication.
+
+*Part 3* of these Rules contains provisions relating to designs after registration. In particular, it includes provisions on publication of a representation of the registered design, extending the duration of the right in a registered design and restoration of a lapsed registration.
+
+*Part 4* of these Rules contains provisions relating to proceedings before the registrar. It includes provisions relating to applying for a declaration of invalidity, evidence rounds and the registrar's decision as well as provisions on the conduct of such proceedings.
+
+*Part 5* of these Rules contains provisions relating to the register and other information. It includes provisions on the certificate of registration, the registration of interests, inspection and information on registered designs. It also includes provisions on altering names and addresses or rectifying the register.
+
+*Part 6* of these Rules contains miscellaneous provisions, including provisions on agents, advisers, correction of irregularities, extension of times or periods, furnishing an address for service, the journal and hours of business.
+
+*Schedule 1* to these Rules contains the Forms the use of which is required by these Rules.
+
+*Schedule 2* to these Rules contains transitional provisions.
+
+*Schedule 3* to these Rules contains revocations.
+
+## Annotations
+
+[^c16504671]: Marginal citation: [1949 c. 88](https://www.legislation.gov.uk/ukpga/1949/88); sections 29 to 31 and 36 were amended by section 272 of, and paragraphs 18 to 20 and 26 of Schedule 3 to, the [Copyright, Designs and Patents Act 1988 (c. 48)](https://www.legislation.gov.uk/ukpga/1988/48) and sections 30 and 36 were amended by regulation 9 of, and paragraphs 9 and 11 of Schedule 1 and Schedule 2 to, SI 2001/3949.
+
+[^c16504681]: Marginal citation: [1992 c. 53](https://www.legislation.gov.uk/ukpga/1992/53).
+
+[^M_C_7f72302c-aaec-4ff2-ed02-5b6579ca3af2]: Modification: Rules applied (in part) (with modifications) by [The Designs (International Registration of Industrial Designs) Order 2018 (S.I. 2018/23)](https://www.legislation.gov.uk/uksi/2018/23), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/23/article/1/2), [3](https://www.legislation.gov.uk/uksi/2018/23/article/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2018/23/schedule/1), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2018/23/schedule/2)
+
+[^key-a9eb895928e01010330a5f3a513f6fa6]: Textual amendment: Rule 2A inserted (1.10.2014) by [The Registered Designs (Amendment) Rules 2014 (S.I. 2014/2405)](https://www.legislation.gov.uk/uksi/2014/2405), [rules 1](https://www.legislation.gov.uk/uksi/2014/2405/article/1), [3](https://www.legislation.gov.uk/uksi/2014/2405/article/3)
+
+[^key-900ea1ef9bfa9c31450eca4bbe0d8f29]: Textual amendment: [Rule 2B](https://www.legislation.gov.uk/uksi/2006/1975/rule/2B) inserted (31.12.2020) by [The Designs and International Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/638)](https://www.legislation.gov.uk/uksi/2019/638), [reg. 1](https://www.legislation.gov.uk/uksi/2019/638/regulation/1), [Sch. 6 para. 2](https://www.legislation.gov.uk/uksi/2019/638/schedule/6/paragraph/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-7312727642e2e80641195ded85dac0d4]: Textual amendment: Words in rule 7(3) substituted (31.3.2013) by virtue of [The Trade Marks and Registered Designs (Amendment) Rules 2013 (S.I. 2013/444)](https://www.legislation.gov.uk/uksi/2013/444), [rules 1](https://www.legislation.gov.uk/uksi/2013/444/rule/1), [7](https://www.legislation.gov.uk/uksi/2013/444/rule/7), [Sch. 2](https://www.legislation.gov.uk/uksi/2013/444/schedule/2) (with [rule 8](https://www.legislation.gov.uk/uksi/2013/444/article/8))
+
+[^key-27b39ecbab759fe3f835baa1eeaf63a6]: Textual amendment: Words in rule 7(7) substituted (31.3.2013) by virtue of [The Trade Marks and Registered Designs (Amendment) Rules 2013 (S.I. 2013/444)](https://www.legislation.gov.uk/uksi/2013/444), [rules 1](https://www.legislation.gov.uk/uksi/2013/444/rule/1), [7](https://www.legislation.gov.uk/uksi/2013/444/rule/7), [Sch. 2](https://www.legislation.gov.uk/uksi/2013/444/schedule/2) (with [rule 8](https://www.legislation.gov.uk/uksi/2013/444/article/8))
+
+[^key-8c78d7794530ce9245763fecb0a3026a]: Textual amendment: Words in rule 8(3) substituted (31.3.2013) by virtue of [The Trade Marks and Registered Designs (Amendment) Rules 2013 (S.I. 2013/444)](https://www.legislation.gov.uk/uksi/2013/444), [rules 1](https://www.legislation.gov.uk/uksi/2013/444/rule/1), [7](https://www.legislation.gov.uk/uksi/2013/444/rule/7), [Sch. 2](https://www.legislation.gov.uk/uksi/2013/444/schedule/2) (with [rule 8](https://www.legislation.gov.uk/uksi/2013/444/rule/8))
+
+[^M_F_123a758e-8a5d-431c-d94c-c5f6354e0d73]: Textual amendment: Words in rule 9(2) substituted (31.3.2013) by virtue of [The Trade Marks and Registered Designs (Amendment) Rules 2013 (S.I. 2013/444)](https://www.legislation.gov.uk/uksi/2013/444), [rules 1](https://www.legislation.gov.uk/uksi/2013/444/rule/1), [7](https://www.legislation.gov.uk/uksi/2013/444/rule/7), [Sch. 2](https://www.legislation.gov.uk/uksi/2013/444/schedule/2) (with [rule 8](https://www.legislation.gov.uk/uksi/2013/444/rule/8))
+
+[^key-879e679c76b9f5b936017801811f0a07]: Textual amendment: Words in rule 10(1) substituted (31.3.2013) by virtue of [The Trade Marks and Registered Designs (Amendment) Rules 2013 (S.I. 2013/444)](https://www.legislation.gov.uk/uksi/2013/444), [rules 1](https://www.legislation.gov.uk/uksi/2013/444/article/1), [7](https://www.legislation.gov.uk/uksi/2013/444/article/7), Sch. 2 (with [rule 8](https://www.legislation.gov.uk/uksi/2013/444/article/8))
+
+[^key-120a7eb44918c0ea2e4f2af8f6dea0ec]: Textual amendment: Words in rule 10(2) substituted (31.3.2013) by virtue of [The Trade Marks and Registered Designs (Amendment) Rules 2013 (S.I. 2013/444)](https://www.legislation.gov.uk/uksi/2013/444), [rules 1](https://www.legislation.gov.uk/uksi/2013/444/article/1), [7](https://www.legislation.gov.uk/uksi/2013/444/article/7), Sch. 2 (with [rule 8](https://www.legislation.gov.uk/uksi/2013/444/article/8))
+
+[^key-396a8374eeec509cc423d5816022932a]: Textual amendment: Words in rule 12(4) substituted (31.3.2013) by virtue of [The Trade Marks and Registered Designs (Amendment) Rules 2013 (S.I. 2013/444)](https://www.legislation.gov.uk/uksi/2013/444), [rules 1](https://www.legislation.gov.uk/uksi/2013/444/rule/1), [7](https://www.legislation.gov.uk/uksi/2013/444/rule/7), [Sch. 2](https://www.legislation.gov.uk/uksi/2013/444/schedule/2) (with [rule 8](https://www.legislation.gov.uk/uksi/2013/444/rule/8))
+
+[^key-a814c1f3c5d31d9c3fe2a5b2718e0a0d]: Textual amendment: Words in [rule 13(2)](https://www.legislation.gov.uk/uksi/2006/1975/rule/13/2) substituted (31.3.2013) by virtue of [The Trade Marks and Registered Designs (Amendment) Rules 2013 (S.I. 2013/444)](https://www.legislation.gov.uk/uksi/2013/444), [rules 1](https://www.legislation.gov.uk/uksi/2013/444/rule/1), [7](https://www.legislation.gov.uk/uksi/2013/444/rule/7), [Sch. 2](https://www.legislation.gov.uk/uksi/2013/444/schedule/2) (with [rule 8](https://www.legislation.gov.uk/uksi/2013/444/rule/8))
+
+[^key-363db8b86d259a949b7f38e662991e9e]: Textual amendment: Words in [rule 13(2)](https://www.legislation.gov.uk/uksi/2006/1975/rule/13/2) inserted (31.12.2020) by [The Designs and International Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/638)](https://www.legislation.gov.uk/uksi/2019/638), [reg. 1](https://www.legislation.gov.uk/uksi/2019/638/regulation/1), [Sch. 6 para. 3(a)](https://www.legislation.gov.uk/uksi/2019/638/schedule/6/paragraph/3/a) (as amended by [S.I. 2020/1050](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [24(a)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/24/a)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-ec9b486944b9ba8d2db2df2182a184c1]: Textual amendment: [Rule 13(2A)](https://www.legislation.gov.uk/uksi/2006/1975/rule/13/2A) inserted (31.12.2020) by [The Designs and International Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/638)](https://www.legislation.gov.uk/uksi/2019/638), [reg. 1](https://www.legislation.gov.uk/uksi/2019/638/regulation/1), [Sch. 6 para. 3(b)](https://www.legislation.gov.uk/uksi/2019/638/schedule/6/paragraph/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-e0181ac1740c172ba2094930af41d094]: Textual amendment: Words in rule 13(5) substituted (31.3.2013) by virtue of [The Trade Marks and Registered Designs (Amendment) Rules 2013 (S.I. 2013/444)](https://www.legislation.gov.uk/uksi/2013/444), [rules 1](https://www.legislation.gov.uk/uksi/2013/444/article/1), [7](https://www.legislation.gov.uk/uksi/2013/444/article/7), Sch. 2 (with [rule 8](https://www.legislation.gov.uk/uksi/2013/444/article/8))
+
+[^key-815b8cd0c02faae67d6786b736d96d36]: Textual amendment: [Rule 15A](https://www.legislation.gov.uk/uksi/2006/1975/rule/15A) inserted by [The Designs and International Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/638)](https://www.legislation.gov.uk/uksi/2019/638), [reg. 1](https://www.legislation.gov.uk/uksi/2019/638/regulation/1), [Sch. 6 para. 3A](https://www.legislation.gov.uk/uksi/2019/638/schedule/6/paragraph/3A) (as inserted by [S.I. 2020/1050](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [24(b)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/24/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^M_C_2298a627-ff45-4e89-f253-6dbfdf0b2f68]: Modification: Rule 19 applied (6.4.2015) by [The Appointed Person (Designs) Rules 2015 (S.I. 2015/169)](https://www.legislation.gov.uk/uksi/2015/169), [rules 1](https://www.legislation.gov.uk/uksi/2015/169/rule/1), [7(4)](https://www.legislation.gov.uk/uksi/2015/169/rule/7/4)
+
+[^M_C_4a3f5eeb-c993-48c6-9811-e2df1a12edba]: Modification: Rule 20 applied (6.4.2015) by [The Appointed Person (Designs) Rules 2015 (S.I. 2015/169)](https://www.legislation.gov.uk/uksi/2015/169), [rules 1](https://www.legislation.gov.uk/uksi/2015/169/rule/1), [7(5)](https://www.legislation.gov.uk/uksi/2015/169/rule/7/5)
+
+[^key-8a8b212d3ba345d98597013f657c2af8]: Textual amendment: Rule 20(6) omitted (3.11.2008) by virtue of [The Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683), [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1), [Sch. 1 para. 318](https://www.legislation.gov.uk/uksi/2008/2683/schedule/1/paragraph/318)
+
+[^M_C_3a0c853f-cab7-4643-b129-e7e8cae9abe0]: Modification: Rule 22 applied (6.4.2015) by [The Appointed Person (Designs) Rules 2015 (S.I. 2015/169)](https://www.legislation.gov.uk/uksi/2015/169), [rules 1](https://www.legislation.gov.uk/uksi/2015/169/rule/1), [7(4)](https://www.legislation.gov.uk/uksi/2015/169/rule/7/4)
+
+[^key-f8402db3dd80514caf3c795239f20e0b]: Textual amendment: [Rule 23](https://www.legislation.gov.uk/uksi/2006/1975/rule/23) omitted (31.12.2020) by virtue of [The Designs and International Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/638)](https://www.legislation.gov.uk/uksi/2019/638), [reg. 1](https://www.legislation.gov.uk/uksi/2019/638/regulation/1), [Sch. 6 para. 4](https://www.legislation.gov.uk/uksi/2019/638/schedule/6/paragraph/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^M_C_4a269cea-c8d1-449d-e74b-bfe8bf5f7fbc]: Modification: Rule 24 applied (6.4.2015) by [The Appointed Person (Designs) Rules 2015 (S.I. 2015/169)](https://www.legislation.gov.uk/uksi/2015/169), [rules 1](https://www.legislation.gov.uk/uksi/2015/169/rule/1), [7(4)](https://www.legislation.gov.uk/uksi/2015/169/rule/7/4)
+
+[^key-32d2ce3459e5e75946b24a55638f3d59]: Textual amendment: [Rule 26(4)](https://www.legislation.gov.uk/uksi/2006/1975/rule/26/4) inserted (31.12.2020) by [The Designs and International Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/638)](https://www.legislation.gov.uk/uksi/2019/638), [reg. 1](https://www.legislation.gov.uk/uksi/2019/638/regulation/1), [Sch. 6 para. 5](https://www.legislation.gov.uk/uksi/2019/638/schedule/6/paragraph/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-607f6fb995cfb4458f2fefa2a10b9bde]: Textual amendment: [Rule 27(1)(d)](https://www.legislation.gov.uk/uksi/2006/1975/rule/27/1/d): semicolon substituted for full stop (31.12.2020) by [The Designs and International Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/638)](https://www.legislation.gov.uk/uksi/2019/638), [reg. 1](https://www.legislation.gov.uk/uksi/2019/638/regulation/1), [Sch. 6 para. 6(a)](https://www.legislation.gov.uk/uksi/2019/638/schedule/6/paragraph/6/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-d11c5c40c7dd53361db1b3259662354b]: Textual amendment: [Rule 27(1)(e)](https://www.legislation.gov.uk/uksi/2006/1975/rule/27/1/e) inserted (31.12.2020) by [The Designs and International Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/638)](https://www.legislation.gov.uk/uksi/2019/638), [reg. 1](https://www.legislation.gov.uk/uksi/2019/638/regulation/1), [Sch. 6 para. 6(b)](https://www.legislation.gov.uk/uksi/2019/638/schedule/6/paragraph/6/b) (as amended by [S.I. 2020/1050](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [24(c)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/24/c)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-fc1e27af0a2a8143ef606c031d492bae]: Textual amendment: Words in rule 29(2)(a) substituted (31.3.2013) by virtue of [The Trade Marks and Registered Designs (Amendment) Rules 2013 (S.I. 2013/444)](https://www.legislation.gov.uk/uksi/2013/444), [rules 1](https://www.legislation.gov.uk/uksi/2013/444/rule/1), [7](https://www.legislation.gov.uk/uksi/2013/444/rule/7), [Sch. 2](https://www.legislation.gov.uk/uksi/2013/444/schedule/2) (with [rule 8](https://www.legislation.gov.uk/uksi/2013/444/rule/8))
+
+[^key-e1932f55f66306a35cf2b2025ed9e0ac]: Textual amendment: Words in rule 30(2)(a) substituted (31.3.2013) by virtue of [The Trade Marks and Registered Designs (Amendment) Rules 2013 (S.I. 2013/444)](https://www.legislation.gov.uk/uksi/2013/444), [rules 1](https://www.legislation.gov.uk/uksi/2013/444/rule/1), [7](https://www.legislation.gov.uk/uksi/2013/444/rule/7), [Sch. 2](https://www.legislation.gov.uk/uksi/2013/444/schedule/2) (with [rule 8](https://www.legislation.gov.uk/uksi/2013/444/rule/8))
+
+[^key-47b8b7040c12e771114b4a984052624f]: Textual amendment: [Rule 33(3)](https://www.legislation.gov.uk/uksi/2006/1975/rule/33/3) inserted (31.12.2020) by [The Designs and International Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/638)](https://www.legislation.gov.uk/uksi/2019/638), [reg. 1](https://www.legislation.gov.uk/uksi/2019/638/regulation/1), [Sch. 6 para. 7](https://www.legislation.gov.uk/uksi/2019/638/schedule/6/paragraph/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-195e91bb32cbe0d54a1b328e66420bab]: Textual amendment: [Rule 42(1)(c)](https://www.legislation.gov.uk/uksi/2006/1975/rule/42/1/c): semicolon substituted for word by [The Designs and International Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/638)](https://www.legislation.gov.uk/uksi/2019/638), [reg. 1](https://www.legislation.gov.uk/uksi/2019/638/regulation/1), [Sch. 6 para. 8(2)](https://www.legislation.gov.uk/uksi/2019/638/schedule/6/paragraph/8/2) (as substituted by [S.I. 2020/1050](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [24(d)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/24/d)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-9ed83795f1d7011acab96b0a3418ed35]: Textual amendment: [Rule 42(1)(d)](https://www.legislation.gov.uk/uksi/2006/1975/rule/42/1/d) inserted by [The Designs and International Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/638)](https://www.legislation.gov.uk/uksi/2019/638), [reg. 1](https://www.legislation.gov.uk/uksi/2019/638/regulation/1), [Sch. 6 para. 8(3)](https://www.legislation.gov.uk/uksi/2019/638/schedule/6/paragraph/8/3) (as substituted by [S.I. 2020/1050](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [24(d)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/24/d)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-df7f3cd52b8380bd29528eb48c9b9557]: Textual amendment: Rule 42(4) substituted for rule 42(4)(5) (6.4.2009) by [The Patents, Trade Marks and Designs (Address for Service) Rules 2009 (S.I. 2009/546)](https://www.legislation.gov.uk/uksi/2009/546), [rules 1](https://www.legislation.gov.uk/uksi/2009/546/rule/1), [6](https://www.legislation.gov.uk/uksi/2009/546/rule/6)
+
+[^key-548ef19d0f0637985081f5cd9201f8bb]: Textual amendment: Word in [rule 42(4)](https://www.legislation.gov.uk/uksi/2006/1975/rule/42/4) substituted (1.1.2021) by [The Patents, Trade Marks and Designs (Address for Service) (Amendment) (EU Exit) Rules 2020 (S.I. 2020/1317)](https://www.legislation.gov.uk/uksi/2020/1317), [rules 1(1)](https://www.legislation.gov.uk/uksi/2020/1317/rule/1/1), [4(a)](https://www.legislation.gov.uk/uksi/2020/1317/rule/4/a) (with [rules 6-8](https://www.legislation.gov.uk/uksi/2020/1317/rule/6))
+
+[^key-22bfbd90944e0cf4452e81df312e8799]: Textual amendment: [Rule 42(6)](https://www.legislation.gov.uk/uksi/2006/1975/rule/42/6) omitted (1.1.2021) by virtue of [The Patents, Trade Marks and Designs (Address for Service) (Amendment) (EU Exit) Rules 2020 (S.I. 2020/1317)](https://www.legislation.gov.uk/uksi/2020/1317), [rules 1(1)](https://www.legislation.gov.uk/uksi/2020/1317/rule/1/1), [4(b)](https://www.legislation.gov.uk/uksi/2020/1317/rule/4/b) (with [rules 6-8](https://www.legislation.gov.uk/uksi/2020/1317/rule/6))
+
+[^key-1e92e603d280c527fd43f18c6cb97757]: Textual amendment: Words in rule 43(2) substituted (31.3.2013) by virtue of [The Trade Marks and Registered Designs (Amendment) Rules 2013 (S.I. 2013/444)](https://www.legislation.gov.uk/uksi/2013/444), [rules 1](https://www.legislation.gov.uk/uksi/2013/444/rule/1), [7](https://www.legislation.gov.uk/uksi/2013/444/rule/7), [Sch. 2](https://www.legislation.gov.uk/uksi/2013/444/schedule/2) (with [rule 8](https://www.legislation.gov.uk/uksi/2013/444/rule/8))
+
+[^key-bbf212a0610e886d86645d10b4194b82]: Textual amendment: [Rule 43(4)(c)](https://www.legislation.gov.uk/uksi/2006/1975/rule/43/4/c): semicolon substituted for word by [The Designs and International Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/638)](https://www.legislation.gov.uk/uksi/2019/638), [reg. 1](https://www.legislation.gov.uk/uksi/2019/638/regulation/1), [Sch. 6 para. 9(2)](https://www.legislation.gov.uk/uksi/2019/638/schedule/6/paragraph/9/2) (as inserted by [S.I. 2020/1050](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [24(e)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/24/e)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-d7caa1103e4c18d53d7c37774238ab77]: Textual amendment: [Rule 43(4)(d)](https://www.legislation.gov.uk/uksi/2006/1975/rule/43/4/d) inserted by [The Designs and International Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/638)](https://www.legislation.gov.uk/uksi/2019/638), [reg. 1](https://www.legislation.gov.uk/uksi/2019/638/regulation/1), [Sch. 6 para. 9(3)](https://www.legislation.gov.uk/uksi/2019/638/schedule/6/paragraph/9/3) (as inserted by [S.I. 2020/1050](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [24(e)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/24/e)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-906e3adc7fce06a3e65d8e45730d153f]: Textual amendment: Words in rule 43(5) omitted (6.4.2009) by virtue of [The Patents, Trade Marks and Designs (Address for Service) Rules 2009 (S.I. 2009/546)](https://www.legislation.gov.uk/uksi/2009/546), [rules 1](https://www.legislation.gov.uk/uksi/2009/546/rule/1), [7](https://www.legislation.gov.uk/uksi/2009/546/rule/7)
+
+[^c16504701]: Marginal citation: [1971 c. 80](https://www.legislation.gov.uk/ukpga/1971/80).
+
+[^c16504891]: Marginal citation: SI 1995/ 2912, amended by SI 1999/3196, 2001/3950, 2006/760 and 2006/1029.
+
+[^c16504901]: Marginal citation: SI 2006/1974.
+
+[^c16504911]: Marginal citation: SI 2001/3949.

@@ -1,0 +1,1247 @@
+---
+title: The Transparency of Securities Financing Transactions and of Reuse (Amendment) (EU Exit) Regulations 2019
+id: uksi/2019/542
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised-with-pending-changes
+made_date: '2019-03-11'
+text_date: '2023-07-11'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2019/542
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2019/542/pdfs/uksiem_20190542_en.pdf
+- http://www.legislation.gov.uk/uksi/2019/542/pdfs/uksi_20190542_en.pdf
+- http://www.legislation.gov.uk/uksi/2019/542/data.pdf
+pending_changes: 1
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Transparency of Securities Financing Transactions and of Reuse (Amendment) (EU Exit) Regulations 2019
+
+> **Warning: changes not yet applied to this text (1).** Text as at 2023-07-11. See https://www.legislation.gov.uk/changes/affected/uksi/2019/542
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2019 No. 542
+
+Exiting The European Union
+
+Financial Services And Markets
+
+The Transparency of Securities Financing Transactions and of Reuse (Amendment) (EU Exit) Regulations 2019
+
+Made
+
+11th March 2019
+
+Coming into force in accordance with regulation 1
+
+[^c23629691]The Treasury make these Regulations in exercise of the powers conferred by section 8(1) of, and paragraph 21 of Schedule 7 to, the European Union (Withdrawal) Act 2018 .
+
+In accordance with paragraph 1(1) of Schedule 7 to that Act a draft of this instrument has been laid before Parliament and approved by a resolution of each House of Parliament.[^key-668ef3c94b485fa0967c85c61c5548cd][^key-a641409d999309d2f4326fd864068400]
+
+## PART 1 — Introduction
+
+### 1. Citation and commencement[^key-4cdfc8d31837b6e5d6a76974748f8b11]
+
+These Regulations may be cited as the Transparency of Securities Financing Transactions and of Reuse (Amendment) (EU Exit) Regulations 2019 and come into force on exit day.
+
+### 2. Interpretation[^key-0b33e264c1e558e449890cfae730071e]
+
+In these Regulations “**SFT regulation**” means Regulation (EU) 2015/2365 of the European Parliament and of the Council of 25 November 2015 on transparency of securities financing transactions and of reuse and amending Regulation (EU) No 648/2012.
+
+## PART 2 — Amendment of subordinate legislation
+
+### 3. Amendment of the Financial Services and Markets Act 2000 (Transparency of Securities Financing Transactions and of Reuse) Regulations 2016[^key-3d4201f0c4151c90246f2a97e2e27dfd]
+
+(1) The Financial Services and Markets Act 2000 (Transparency of Securities Financing Transactions and of Reuse) Regulations 2016 [^c23629701] are amended as follows.
+
+(2) In regulation 2, in paragraph (2), omit “or 16”.
+
+(3) In regulation 28, omit paragraph (3).
+
+## PART 3 — Amendment of retained direct EU legislation
+
+### 4. Amendment of the SFT regulation[^key-f84e68fbb709dbd51ef92535f6f455b4]
+
+The SFT regulation is amended as follows.
+
+### 5.[^key-579166bdad85f1e8d70a97a7ce2c3c2c]
+
+(1) In Articles 2 to 20, for “Union” in each place it occurs substitute “ United Kingdom ”.
+
+(2) In Articles 4 to 20, for “ESMA” in each place it occurs substitute “ the FCA ”.
+
+(3) The amendments made by paragraph (1) do not apply to occurrences of “Union” or “ESMA” amended by another provision within these Regulations.
+
+### 6.[^key-5ebc936fba696194adc3f11411ed0f9c]
+
+In Article 2—
+
+- (a) in paragraph 1—
+  - (i) for point (b) substitute—
+
+    > - (b) management companies, managers and operators of UCITS and UCITS investment companies;
+
+    ;
+  - (ii) in point (c), for “in accordance with Directive 2011/61/EU” substitute “ or registered in accordance with the Alternative Investment Fund Managers Regulations 2013 [^c23629711] ”;
+- (b) in paragraph (2), for point (a) substitute—
+
+  > - (a) the Bank of England and other United Kingdom bodies charged with, or intervening in, the management of the public debt;
+
+  ;
+- (c) in paragraph (3), for “to which a member of the ESCB is a counterparty” substitute—
+
+  > to which:
+  >
+  > - (a) the Bank of England; or
+  > - (b) another United Kingdom body charged with, or intervening in, the management of the public debt,
+  >
+  > is a counterparty.
+
+  ;
+- (d) for paragraph (4) substitute—
+
+  > (4) The Treasury may by statutory instrument amend the list set out in paragraph (2) of this Article.
+
+  .
+
+### 7.[^key-0f380e76eae0b81bed8a42b18251f0a3]
+
+In Article 3—
+
+- (a) in paragraph (3), for points (a) to (h) substitute—
+
+  > - (a) an investment firm within the meaning given in Article 2(1A) [^c23629721] of MIFIR which:
+  >   - (i) has its registered office or head office in the United Kingdom;
+  >   - (ii) has permission under Part 4A of the FSMA to carry on regulated activities relating to investment services and activities (as defined in Article 2(1)(2) of the MIFIR) in the United Kingdom;
+  >   - (iii) would require authorisation under Directive 2014/65/EU [^c23629731] (as it had effect immediately before IP completion day[^key-fcc3187984b65fb4472c5acd62087355]) if it had its registered office (or if it does not have a registered office, its head offices) in an EEA state; and
+  >   - (iv) is not a firm which has permission under Part 4A of the FSMA to carry on regulated activities as an exempt investment firm, within the meaning of regulation 8 of the Financial Services and Markets Act 2000 (Markets in Financial Instruments) Regulations 2017 [^c23629741];
+  > - (b) a credit institution which is a CRR firm (within the definition in Article 4(1)(2A) [^c23629751] of the Capital Requirements Regulation);
+  > - (c) an insurance undertaking or a reinsurance undertaking;
+  > - (d) a UK UCITS (within the definition in section 237(3) [^c23629761] of the FSMA) and, where relevant, its management company (within the definition in section 237(2) [^c23629771] of the FSMA);
+  > - (e) an occupational pension scheme within the meaning of section 1(1) of the Pension Schemes Act 1993 [^c23629781];
+  > - (f) an AIF managed by AIFMs (within the definition in regulation 4 of the Alternative Investment Fund Managers Regulations 2013) authorised or registered in accordance with those Regulations;
+  > - (g) a CCP authorised in accordance with Regulation (EU) No 648/2012 as[^key-1f8d579727ee07038ed88e798ecc2567] it forms part of retained EU law[^key-f58e146b9a74b948f62c90b9a72efcfe];
+
+  ;
+- (b) in paragraph (12), for “Article 5 of Directive [2002/47/EC](https://www.legislation.gov.uk/eudr/2002/47)” substitute “ regulation 16 of the Financial Collateral Arrangements (No.2) Regulations 2003 [^c23629791] ”;
+- (c) in paragraph (13), for “point (b) of Article 2(1) of Directive [2002/47/EC](https://www.legislation.gov.uk/eudr/2002/47)” substitute “ regulation 3 of the Financial Collateral Arrangements (No.2) Regulations 2003 ”;
+- (d) in paragraph (14), for “point (c) of Article 2(1) of Directive [2002/47/EC](https://www.legislation.gov.uk/eudr/2002/47)” substitute “ regulation 3 of the Financial Collateral Arrangements (No.2) Regulations 2003 ”;
+- (e) in paragraph (16), for “point (15) of Article 4(1) of Directive 2014/65/EU” substitute “ regulation 2(1) of the Financial Services and Markets Act 2000 (Markets in Financial Instruments) Regulations 2017/701 ”;
+- (f) after paragraph (18) insert—
+
+  > (19) “**AIF**” has the meaning given in the definition in regulation 3 of the Alternative Investment Fund Managers Regulations 2013;
+  >
+  > (20) “**Capital Requirements Regulation**” means Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) 648/2012;
+  >
+  > (21) “**CCP**” has the meaning given in Article 2(1) of Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories;
+  >
+  > (22) “**CRR firm**” has the meaning given in Article 4.1(2A) of Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26th June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012;
+  >
+  > (23) “**FCA**” means the Financial Conduct Authority;
+  >
+  > (24) “**the FSMA**” means the Financial Services and Markets Act 2000;
+  >
+  > (25) “insurance undertaking” and “reinsurance undertaking” have the meanings given in section 417(1) [^c23629801] of the FSMA;
+  >
+  > (26) “**investment firm**” has the meaning given in Article 2(1A) [^c23629811] of Regulation (EU) No 600/2014 of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments and amending Regulation (EU) No 648/2012;
+  >
+  > (27) “management company” and “the operator” have the meanings given in section 237(2) [^c23629821] of the FSMA;
+  >
+  > (28) “**MIFIR**” means Regulation (EU) No 600/2014 of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments and amending Regulation (EU) 648/2012;
+  >
+  > (29) “**open ended investment company**” has the meaning given by section 236 of the FSMA;
+  >
+  > (30) any reference in this Regulation to a sourcebook is to a sourcebook in the Handbook of Rules and Guidance published by the FCA under FSMA as in force on IP completion day[^key-24722875a88f260a72b89a3ca07514cc][^c23629831];
+  >
+  > (31) “**UCITS**” has the meaning given in section 236A [^c23629841] of the FSMA;
+  >
+  > (32) “**UK law in relation to collective investment undertakings**” means the law of any part of the United Kingdom which was relied on by the United Kingdom immediately before IP completion day to implement Directives [2009/65/EC](https://www.legislation.gov.uk/eudr/2009/65) and 2011/61/EU.
+
+  .
+
+### 8.[^key-a1707026ff97b46758e51546bdefd4a7]
+
+In Article 4—
+
+- (a) for paragraph (5) substitute—
+
+  > (5) Where a trade repository is not available to record the details of SFTs:
+  >
+  > - (a) except where the FCA has suspended the reporting obligation under point (b), counterparties shall ensure that such details are reported to the FCA. In this case the FCA shall ensure that all the relevant entities referred to in Article 12(2) have access to all the details of SFTs they need to fulfil their respective responsibilities and mandates;
+  > - (b) the FCA may, having:
+  >   - (i) provided a report to the Treasury setting out its reasons for suspending the reporting obligation in point (a);
+  >   - (ii) specified a date:
+  >     - (aa) on which the suspension of that obligation will end; and
+  >     - (bb) by which it anticipates counterparties will be able to report details of any SFTs as set out in paragraph 5a; and
+  >   - (iii) consulted the Treasury and the Bank of England,
+  >
+  >   with the consent of the Treasury, suspend the reporting obligation in point (a) for a period of up to one year;
+  > - (c) the Treasury may by regulations amend point (b) so as to extend the period for the time being specified in that provision.
+  >
+  > (5a) Details of any SFTs that counterparties have concluded, and of any modification or termination of the SFT, that have not been reported to a trade repository in accordance with the reporting obligations in paragraph 1 during a period when the FCA has suspended the reporting obligation under paragraph (5)(b), must be reported by those counterparties to a trade repository following the end of the suspension of the reporting obligation by no later than the end of the period specified by the FCA for this purpose.
+
+  ;
+- (b) in paragraph (6), omit from “and ESMA shall respect” to “protection of information and”;
+- (c) in paragraph (9)—
+  - (i) in the first subparagraph, for “ESMA shall, in close cooperation with, and taking into account the needs of, the ESCB, develop draft” substitute “ the Bank of England and the FCA shall make ”;
+  - (ii) in the second subparagraph, for “In developing those draft technical standards, ESMA” substitute “ In making those technical standards the Bank of England and the FCA ”;
+  - (iii) after the second subparagraph insert—
+
+    > The Bank of England shall make the regulatory standards referred to in the first subparagraph which apply to CCPs and central securities depositories authorised in accordance with Regulation (EU) No 909/2014 of the European Parliament and of the Council of 23 July 2014 on improving securities settlement in the European Union and on central securities depositories and amending Directives [98/26/EC](https://www.legislation.gov.uk/eudr/1998/26) and 2014/65/EU and Regulation (EU) No 236/2012.
+    >
+    > The FCA shall make the regulatory standards referred to in the first subparagraph which apply to other counterparties.
+
+    ;
+  - (iv) omit from “ESMA shall submit those draft regulatory technical standards” to the end.
+- (d) in paragraph (10)—
+  - (i) in the first subparagraph, for “ESMA shall, in close cooperation with, and taking into account the needs of, the ESCB, develop draft” substitute “ the Bank of England and the FCA shall make ”;
+  - (ii) in the third subparagraph—
+    - (aa) for “In developing those draft technical standards, ESMA” substitute “ In making those technical standards, the Bank of England and the FCA ”;
+    - (bb) for “Union” substitute “ national ”;
+  - (iii) after the second subparagraph insert—
+
+    > The Bank of England shall make the implementing standards referred to in the first subparagraph which apply to CCPs and central securities depositories authorised in accordance with Regulation (EU) No 909/2014 of the European Parliament and of the Council of 23 July 2014 on improving securities settlement in the European Union and on central securities depositories and amending Directives [98/26/EC](https://www.legislation.gov.uk/eudr/1998/26) and 2014/65/EU and Regulation (EU) No 236/2012.
+    >
+    > The FCA shall make the implementing standards referred to in the first subparagraph which apply to other counterparties.
+
+    ;
+  - (iv) omit from “ESMA shall submit those draft implementing technical standards” to the end.
+
+### 9.[^key-5289e554855183d0b27c98d8b2cb4f51]
+
+In Article 5—
+
+- (a) in paragraph (7)—
+  - (i) for “ESMA shall develop draft regulatory” substitute “ the FCA may make ”;
+  - (ii) omit from “ESMA shall submit those draft regulatory” to the end;
+- (b) in paragraph (8)—
+  - (i) for “ESMA shall develop draft implementing” substitute “ the FCA may make ”;
+  - (ii) omit from “ESMA shall submit those draft implementing” to the end.
+
+### 10.[^key-c05749a2177c9816b75c917eafb131be]
+
+Omit Article 6.
+
+### 11.[^key-3eff4068a92d8e8dfc10ce9bd2b46e83]
+
+In Article 8—
+
+- (a) in paragraph (1) omit the second subparagraph;
+- (b) omit paragraph (2).
+
+### 12.[^key-29422b4dd3c4d3b15a09d688d0b20740]
+
+Omit Article 9.
+
+### 13.[^key-1d4ace23f399147d230aae506e2d4403]
+
+For Article 10 substitute—
+
+> **Article 10**
+>
+> **Withdrawal of registration**
+>
+> **1.**
+>
+> The FCA may, on its own initiative, withdraw the registration of a trade repository where the trade repository:
+>
+> - (a) expressly renounces the registration or has provided no services for the preceding six months;
+> - (b) obtained the registration by making false statements or by any other irregular means; or
+> - (c) no longer meets the conditions for registration.
+>
+> **2.**
+>
+> The FCA may also, on its own initiative, withdraw the registration of a trade repository where it is desirable to do so to advance one or more of its operational objectives set out in section 1B(3) of the FSMA.
+>
+> **3.**
+>
+> The FCA may, on an application by a trade repository, withdraw the registration of the trade repository.
+>
+> **4.**
+>
+> A decision to withdraw the registration of a trade repository under paragraphs 1, 2 or 3 shall be reflected in the Register.
+>
+> **Article 10a**
+>
+> **Publication and notification of decisions**
+>
+> **1.**
+>
+> The FCA must publish on its website a list of trade repositories registered in accordance with Article 7 (“**the Register**”).
+>
+> **2.**
+>
+> On the adoption of a decision under Article 7 or 10, the FCA must notify its decision to the trade repository concerned.
+>
+> **3.**
+>
+> A refusal of an application to register under Article 7 comes into effect on the fifth working day following its adoption.
+>
+> **4.**
+>
+> A withdrawal of registration under Article 10 takes effect:
+>
+> - (a) immediately upon the adoption of the decision if the notice states that is the case;
+> - (b) on such date as may be specified in that notice; or
+> - (c) if no date is specified in the notice, when the matter to which the notice relates is no longer open to review.
+>
+> **5.**
+>
+> A decision to withdraw registration on the FCA's own initiative under paragraph 1 or 2 of Article 10 may be expressed to take effect immediately (or on a specified date) only if the FCA, having regard to the ground on which it is exercising its power reasonably considers that it is necessary for the withdrawal or direction to take effect immediately (or on that date).
+>
+> **6.**
+>
+> If the decision referred to in paragraph 2 is:
+>
+> - (a) to refuse the application for registration made under Article 5
+> - (b) to exercise the FCA's power under paragraph 1 or 2 of Article 10 to withdraw the registration of the trade repository on the FCA's own initiative; or
+> - (c) to refuse an application made by a trade repository under paragraph 3 of Article 10 to withdraw the registration of the trade repository,
+>
+> the FCA must give the trade repository a written notice.
+>
+> **7.**
+>
+> A written notice under paragraph 6 must:
+>
+> - (a) give details of the decision made by the FCA;
+> - (b) state the FCA's reasons for the decision;
+> - (c) state when the decision takes effect; and
+> - (d) inform the trade repository that it may either:
+>   - (i) request a review of the decision by the FCA, and make written representations for the purpose of the review, within such period as may be specified in the notice; or
+>   - (ii) refer the matter to the Upper Tribunal (“**the Tribunal**”) within such period as may be specified in the notice; and
+> - (e) indicate the procedure on a reference to the Tribunal.
+>
+> **8.**
+>
+> If the trade repository requests a review of the decision made by the FCA (“**the original decision**”) the FCA must consider any written representations made by the trade repository and review the original decision.
+>
+> **9.**
+>
+> On a review under paragraph 8, the FCA may make any decision (“the new decision”) it could have made on the application.
+>
+> **10.**
+>
+> The FCA must give the trade repository written notice of its decision on the review.
+>
+> **11.**
+>
+> This paragraph applies to a decision—
+>
+> - (a) to maintain a decision to refuse an application for registration, made under Article 7;
+> - (b) to refuse to revoke a decision made under paragraph 1 or 2 of Article 10 to withdraw the registration of the trade repository on the FCA's own initiative; or
+> - (c) to maintain a decision to refuse an application from a trade repository under paragraph 3 of Article 71 to withdraw the registration of the trade repository.
+>
+> **12.**
+>
+> A written notice in relation to a decision to which paragraph 11 applies must:
+>
+> - (a) give details of the new decision made by the FCA;
+> - (b) state the FCA's reasons for the new decision;
+> - (c) state whether the decision takes effect immediately or on such date as may be specified in the notice;
+> - (d) inform the trade repository that it may, within such period as may be specified in the notice, refer the new decision to the Tribunal; and
+> - (e) indicate the procedure on a reference to the Tribunal.
+>
+> **Article 10b**
+>
+> **Tribunal**
+>
+> **1.**
+>
+> A trade repository may, subject to paragraph 2, refer to the Tribunal the FCA's decision to:
+>
+> - (a) refuse to register the trade repository under Article 7;
+> - (b) exercise its power under paragraph 1 or 2 of Article 10 to withdraw the registration of a trade repository; or
+> - (c) refuse the trade repository's application under paragraph 3 of Article 10 to withdraw its registration.
+>
+> **2.**
+>
+> Where there is a review under paragraph 8 of Article 10a, paragraph 1 applies only in relation to the FCA's decision in response to that review.
+
+.
+
+### 14.[^key-0af002f6f537107346cf41748b35bc5a]
+
+In Article 11—
+
+- (a) in paragraph (1)—
+  - (i) for “delegated acts” substitute “ statutory instruments ”;
+  - (ii) omit from “as well as the reimbursement of any costs” to “shall be construed as references to paragraph 2 of this Article”;
+- (b) in paragraph (2) for “The Commission shall be empowered to adopt a delegated act in accordance with Article 30 to” substitute “ The Treasury may, by statutory instrument subject to annulment in pursuance of a resolution of either House of Parliament, ”.
+
+### 15.[^key-13e996cf9d8c3af1771fcdc487ec0b5a]
+
+In Article 12—
+
+- (a) in paragraph (2)—
+  - (i) for point (b) substitute—
+
+    > - (b) the Prudential Regulation Authority;
+
+    ;
+  - (ii) for point (c) substitute—
+
+    > - (c) the Pensions Regulator;
+
+    ;
+  - (iii) for point (d) substitute—
+
+    > - (d) the Bank of England;
+
+    ;
+  - (iv) omit points (e) and (f);
+  - (v) in point (g), for “an implementing act” to the end substitute “ the regulations pursuant to Article 19(1) have been prescribed by the Treasury ”;
+  - (vi) for point (h) substitute—
+
+    > - (e) the Panel on Takeovers and Mergers;
+
+    ;
+  - (vii) omit points (i) to (m);
+- (b) in paragraph (3)—
+  - (i) in the first subparagraph—
+    - (aa) omit “in close cooperation with the ESCB and”;
+    - (bb) for “develop draft regulatory” substitute “ make ”;
+  - (ii) in the first subparagraph after point (d), omit “draft regulatory”;
+  - (iii) omit from “ESMA shall submit those draft regulatory technical standards” to the end.
+
+### 16.[^key-2db9bd048e86be128ac8aa86e9651bfe]
+
+In Article 13—
+
+- (a) in paragraph (1)—
+  - (i) in point (a), for “Article 68 of Directive [2009/65/EC](https://www.legislation.gov.uk/eudr/2009/65)” substitute “ section 4.5.3 of the Collective Investment Schemes sourcebook ”;
+  - (ii) in point (b), for “Article 22 of Directive 2011/61/EU” substitute “ section 3.3 of the Investment Funds sourcebook ”;
+- (b) in paragraph (3)—
+  - (i) in the first subparagraph—
+    - (aa) for “Directives [2009/65/EC](https://www.legislation.gov.uk/eudr/2009/65) and 2011/61/EU” substitute “ the UK law in relation to collective investment undertakings ”;
+    - (bb) for “develop draft regulatory” substitute “ make ”;
+  - (ii) omit the second subparagraph.
+
+### 17.[^key-2789fe2bb7629e671526e41e488da895]
+
+In Article 14—
+
+- (a) in paragraph (1)—
+  - (i) for “Article 69 of Directive [2009/65/EC](https://www.legislation.gov.uk/eudr/2009/65)” substitute “ section 4.2.2 of the Collective Investment Schemes sourcebook ”;
+  - (ii) for “Article 23(1) and (3) of Directive 2011/61/EU” substitute “ section 3.2.2 of the Investment Funds sourcebook ”;
+- (b) in paragraph (3)—
+  - (i) in the first subparagraph, for “Directives [2009/65/EC](https://www.legislation.gov.uk/eudr/2009/65) and 2011/61/EU, develop draft regulatory” substitute “ the UK law in relation to collective investment undertakings, make ”;
+  - (ii) omit the third subparagraph.
+
+### 18.[^key-c299c2bc40eec47f7251486a4652eda5]
+
+In Article 15—
+
+- (a) in paragraph (1), for “Article 5 of Directive [2002/47/EC](https://www.legislation.gov.uk/eudr/2002/47)” in both places it occurs substitute “ regulation 16 of the Financial Collateral Arrangements (No.2) Regulations 2003 ”;
+- (b) in paragraph (3), omit from “stricter sectoral legislation” to “and to”.
+
+### 19.[^key-9fa970e50f13dfdfd500ba25a16c64cc]
+
+Omit Articles 16 and 17.
+
+### 20.[^key-b18b8af4562044ad9d69d0c237959393]
+
+In Article 18—
+
+- (a) in paragraph (2)—
+  - (i) omit “and the competent authorities referred to in Article 16, for ESMA, EBA and EIOPA”;
+  - (ii) for “competent authorities or ESMA, EBA and EIOPA” substitute “ FCA ”;
+  - (iii) for “those persons receive in the course of their duties” substitute “ the FCA receives in the course of its duties ”;
+- (b) in paragraph (3)—
+  - (i) for “national criminal or tax law, the competent authorities, ESMA, EBA, EIOPA, bodies or natural or legal persons other than competent authorities, which receive,” substitute “ the law applying in any part of the United Kingdom, the FCA, when it receives ”;
+  - (ii) for “their duties and for the exercise of their functions, in the case of the competent authorities” substitute “ its duties and for the exercise of its functions ”;
+  - (iii) for “ESMA, EBA, EIOPA, the competent authority” substitute “ the FCA ”;
+- (c) omit paragraph (4);
+- (d) for paragraph (5) substitute—
+
+  > (5) Paragraphs 2 and 3 shall not prevent the FCA from exchanging or transmitting confidential information, in accordance with the law applying in any part of the United Kingdom, that has been received from a third country regulatory authority.
+
+  .
+
+### 21.[^key-0d6c119c28fe2a1836171621f9413759]
+
+In Article 19—
+
+- (a) for “The Commission” in each place it occurs substitute “ the Treasury ”;
+- (b) in paragraph (1)—
+  - (i) in the first subparagraph, for “adopt implementing acts” substitute “ make provision, by regulations, ”;
+  - (ii) at the end of point (a) insert “ including compliance with the requirements to give direct and immediate access to the data to the entities referred to in Article 12(2) ”;
+  - (iii) omit point (d);
+  - (iv) in the subparagraph after point (d), for “The implementing act referred to in the first point of this paragraph shall be adopted” to the end substitute “ Regulations made under this paragraph must also specify the relevant authorities in third countries which are entitled to access the data on SFTs held in trade repositories established in the United Kingdom. ”;
+- (c) omit paragraph (2);
+- (d) in paragraph (5)—
+  - (i) in point (a), for “an implementing act” substitute “ regulations ”;
+  - (ii) in point (b)(i), omit “and any other Union authority that exercises responsibilities as a result of any delegation of tasks pursuant to Article 9(1)”;
+  - (iii) omit from “ESMA shall apply Regulation [(EC) No 45/2001](https://www.legislation.gov.uk/eur/2001/45)” to the end.
+
+### 22.[^key-b810e6cbf8c687b47c556ab76cd8ba77]
+
+In Article 21—
+
+- (a) for “The Commission” in each place it occurs substitute “ the Treasury ”;
+- (b) in paragraph (1), for “adopt implementing acts” substitute “ by regulations make provision ”;
+- (c) in paragraph (2)—
+  - (i) for “adopted an implementing act” substitute “ made regulations ”;
+  - (ii) omit from “That implementing act shall be adopted in accordance” to the end;
+  - (iii)[^key-84c40c01ea97613b9b9f34b4575cb334] omit the final sub-paragraph.
+
+### 23.[^key-15d1ab24dbc1a69062baa7de82961396]
+
+For Article 22 substitute—
+
+> **Article 22**
+>
+> **Regulations: general provisions**
+>
+> **1.**
+>
+> Any power to make regulations conferred on the Treasury by this Regulation, is exercisable by statutory instrument.
+>
+> **2.**
+>
+> Such regulations may:
+>
+> - (a) contain incidental, supplemental, consequential and transitional provision, and
+> - (b) may make different provision for different purposes.
+>
+> **3.**
+>
+> A statutory instrument containing regulations made under this Regulation is subject to annulment in pursuance of a resolution in either House of Parliament.
+
+.
+
+### 24.[^key-77eb930fd1b383efb17e005faf9a3751]
+
+Omit Articles 23 to 33[^key-4003de8debebb2bde4374fee59789d8e].
+
+## PART 4 — SPECIFIC PROVISION FOR TRADE REPOSITORIES
+
+### CHAPTER 1 — PRELIMINARY
+
+#### 25. Interpretation of Part 4[^key-a19ffd0bbd31c3511ecd4227f65ae134]
+
+In this Part—
+
+- “the FCA” means the Financial Conduct Authority;[^key-57e0dee677fed8d89240b3512834f5af]
+- “FSMA” means the Financial Services and Markets Act 2000;
+- “**the TRATP Regulations**” means the Trade Repositories (Amendment and Transitional Provision) (EU Exit) Regulations 2018 [^c23629851];
+- “**trade repository**” has the meaning given in Article 3(1) of the SFT regulation;
+- “**trade repository activities**” means the activities of centrally collecting and maintaining records of derivatives;
+- “**the Tribunal**” means the Upper Tribunal.
+
+### CHAPTER 1A — SUPERVISION OF TRADE REPOSITORIES[^key-1c3b89884be060e7bd90bf26d64e7479]
+
+#### 25A. Supervision of trade repositories
+
+(1) If the FCA considers that—
+
+- (a) a trade repository has contravened, or is likely to contravene, a requirement imposed by or under this Part, the SFT regulation or Part 2 of the Securities Financing Transactions, Securitisation and Miscellaneous Amendments (EU Exit) Regulations 2020, or
+- (b) it is desirable to exercise the power in order to advance one or more of its operational objectives set out in section 1B(3) of FSMA,
+
+it may impose, for such period as it considers appropriate, such requirements in relation to the carrying on of trade repository activities as it considers necessary or expedient.
+
+(2) A requirement may, in particular, be imposed so as to require a trade repository to take, or refrain from taking, specified action.
+
+(3) The FCA may—
+
+- (a) withdraw a requirement; or
+- (b) vary a requirement so as to reduce the period for which it has effect or otherwise to limit its effect.
+
+(4) The imposition of the requirement takes effect—
+
+- (a) immediately, if the notice given under paragraph (6) states that that is the case; or
+- (b) on such date as may be specified in the notice.
+
+(5) The imposition of a requirement may be expressed to take effect immediately, or on a specified date, only if the FCA, having regard to the ground on which it is exercising its power, reasonably considers that it is necessary for the imposition of the requirement to take effect immediately, or on that date.
+
+(6) If the FCA proposes to impose, or imposes a requirement, it must give the trade repository written notice.
+
+(7) The notice must—
+
+- (a) give details of the requirement;
+- (b) state the FCA’s reasons for imposition of the requirement;
+- (c) inform the trade repository that it may make representations to the FCA within such period as may be specified in the notice, whether or not the trade repository has referred the matter to the Tribunal;
+- (d) inform the trade repository of when the imposition of the requirement takes effect; and
+- (e) inform the trade repository of its right to refer the matter to the Tribunal.
+
+(8) The FCA may extend the period allowed under the notice for making representations.
+
+(9) If, having considered any representations made by the trade repository, the FCA decides—
+
+- (a) to impose the requirement in the way proposed, or
+- (b) if the requirement has been imposed, not to rescind the imposition of the requirement,
+
+it must give the trade repository written notice.
+
+(10) If, having considered any representations made by the trade repository, the FCA decides—
+
+- (a) not to impose the requirement in the way proposed,
+- (b) to impose a different requirement, or
+- (c) to rescind a requirement which has effect,
+
+it must give the trade repository written notice.
+
+(11) A notice under paragraph (9) must inform the trade repository of its right to refer the matter to the Tribunal.
+
+(12) A notice under paragraph (10)(b) must comply with paragraph (7).
+
+(13) If a notice informs the trade repository of its right to refer a matter to the Tribunal, it must give an indication of the procedure on such a reference.
+
+(14) A trade repository may refer to the Tribunal the FCA’s decision to impose a requirement under this regulation.
+
+### CHAPTER 2 — ENFORCEMENT PROVISIONS RELATING TO TRADE REPOSITORIES[^key-71386f0a1783ddb4fbfa0d5bce1e6be8]
+
+#### 26. Warning notice[^key-1b993fc87d5397dae48d500f9195a8e8]
+
+(1) If the FCA proposes to—
+
+- (a) publish a statement in respect of a trade repository under regulation 28; or
+- (b) impose a penalty on a trade repository under regulation 29,
+
+it must give the trade repository a warning notice.
+
+(2) A warning notice about a proposal to publish a statement must set out the terms of the statement.
+
+(3) A warning notice about a proposal to impose a penalty must state the amount of the penalty.
+
+#### 27. Decision notice[^key-5d7fe05649efb429277ed8741d7de7f4]
+
+(1) If, having considered any representations made in response to the warning notice, the FCA decides to—
+
+- (a) publish a statement under regulation 28 (whether or not in the terms proposed); or
+- (b) impose a penalty under regulation 29 (whether or not of the amount proposed);
+
+it must without delay give the trade repository concerned a decision notice.
+
+(2) In case of a statement, the decision notice must set out the terms of the statement.
+
+(3) In the case of a penalty, the decision notice must state the amount of the penalty.
+
+(4) If the FCA decides to —
+
+- (a) publish a statement in respect of a trade repository under regulation 28; or
+- (b) impose a penalty on a trade repository under regulation 29;
+
+the trade repository may refer the matter to the Tribunal.
+
+(5) After a statement under regulation 28 is published, the FCA must send a copy of it to the trade repository concerned and to any person to whom a copy of the decision notice was given under section 393(4) of the FSMA (third party rights) (as applied by regulation 37).
+
+#### 28. Public censure[^key-25a1f2c9bdcdff70d9f70ffe8f05ea11]
+
+If the FCA considers that a trade repository has contravened a requirement imposed by or under this Part, the SFT regulation or the TRATP Regulations, the FCA may publish a statement to that effect.
+
+#### 29. Financial penalties[^key-97992e82768c12a9dd8509e55b6501b9]
+
+(1) If the FCA considers that a trade repository has contravened a requirement imposed by or under this Part, the SFT regulation or the TRATP Regulations, it may impose a penalty of such amount as it considers appropriate on the trade repository.
+
+(2) A penalty imposed under this regulation is payable to the FCA and may be recovered as a debt owed to the FCA.
+
+#### 30. Statement of policy[^key-d28bb143fbb7030f26e68616da719764]
+
+(1) The FCA must prepare and issue a statement of policy with respect to—
+
+- (a) the imposition of penalties under regulation 29; and
+- (b) the amount of penalties under that regulation.
+
+(2) The FCA's policy in determining what the amount of a penalty should be must include having regard to—
+
+- (a) the seriousness of the contravention in question in relation to the nature of the requirement contravened; and
+- (b) the extent to which that contravention was deliberate or reckless.
+
+(3) The FCA may at any time alter or replace a statement issued by it under this regulation.
+
+(4) If a statement issued under this regulation is altered or replaced by the FCA, the FCA must issue the altered or replacement statement.
+
+(5) The FCA must, without delay, give the Treasury a copy of any statement which it issues under this regulation.
+
+(6) A statement issued under this regulation by the FCA must be published by the FCA in the way appearing to the FCA to be best calculated to bring it to the attention of the public.
+
+(7) The FCA may charge a reasonable fee for providing a person with a copy of the statement.
+
+(8) In exercising, or deciding whether to exercise, its power under regulation 29 in the case of any particular contravention, the FCA must have regard to any statement of policy published by it under this regulation and in force at the time when the contravention in question occurred.
+
+#### 31. Statement of policy: procedure[^key-66113b8817d9396bde7d48108256fef3]
+
+(1) Before the FCA issues a statement under regulation 30, the FCA must publish a draft of the proposed statement in the way appearing to the FCA to be best calculated to bring it to the attention of the public.
+
+(2) The draft must be accompanied by a notice that representations about the proposed statement may be made to the FCA within a specified time.
+
+(3) Before issuing the proposed statement the FCA must have regard to any representations made to it in accordance with paragraph (2).
+
+(4) If the FCA issues the proposed statement it must publish an account, in general terms, of—
+
+- (a) the representations made to it in accordance with paragraph (2); and
+- (b) its response to them.
+
+(5) If the statement differs from the draft published under paragraph (1) in a way which is, in the opinion of the FCA, significant, the FCA must (in addition to complying with paragraph (4)) publish details of the difference.
+
+(6) The FCA may charge a reasonable fee for providing a person with a copy of a draft published by it under paragraph (1).
+
+(7) This regulation also applies to a proposal to alter or replace a statement.
+
+#### 32. Powers to issue guidance[^key-de3d126577e97ad8b4e4e61da5739440]
+
+(1) The FCA may give guidance consisting of such information and advice as it considers appropriate in respect of—
+
+- (a) the operation of this Part, Chapter 3 of the SFT regulation or the TRATP Regulations;
+- (b) any matters relating to the functions of the FCA under this Part, Chapter 3 of the SFT regulation or the TRATP Regulations;
+- (c) any other matters about which it appears to the FCA to be desirable to give information or advice about this Part, Chapter 3 of the SFT regulation or the TRATP Regulations.
+
+(2) The FCA may—
+
+- (a) publish its guidance;
+- (b) offer copies of its published guidance for sale at a reasonable price;
+- (c) if it gives guidance in response to a request made by any person, make a reasonable charge for that guidance.
+
+#### 33. Injunctions[^key-6159fb399f4ccf5eacc3268d92e4152a]
+
+(1) If, on the application of the FCA, the court is satisfied—
+
+- (a) that there is a reasonable likelihood that any person will contravene a requirement imposed by or under this Part or by or under Chapter 3 of the SFT regulation; or
+- (b) that any person has contravened such a requirement and that there is a reasonable likelihood that the contravention will continue or be repeated,
+
+the court may make an order restraining (or in Scotland an interdict prohibiting) the contravention.
+
+(2) If, on the application of the FCA, the court is satisfied—
+
+- (a) that any person has contravened a requirement imposed by or under this Part or by or under Chapter 3 of the SFT regulation; and
+- (b) that there are steps which could be taken for remedying the contravention,
+
+the court may make an order requiring that person, and any other person who appears to have been knowingly concerned in the contravention, to take such steps as the court may direct to remedy it.
+
+(3) If, on the application of the FCA, the court is satisfied that any person may have—
+
+- (a) contravened a requirement imposed by or under this Part or by or under Chapter 3 of the SFT regulation; or
+- (b) been knowingly concerned in the contravention of such a requirement,
+
+it may make an order restraining (or in Scotland an interdict prohibiting) them from disposing of, or otherwise dealing with, any assets of theirs which it is satisfied they are reasonably likely to dispose of or otherwise deal with.
+
+(4) The jurisdiction conferred by this regulation is exercisable by the High Court and the Court of Session.
+
+(5) In paragraph (2), references to remedying a contravention include references to mitigating its effect.
+
+### CHAPTER 3 — APPLICATION OF THE FSMA FOR THE PURPOSES OF THIS PART, THE SFT REGULATION AND THE TRATP REGULATIONS
+
+#### 34. Application of Part 9 of the FSMA (hearings and appeals)[^key-906a62bdeaf5ffb54899e9d96d07c76b]
+
+(1) Part 9 of the FSMA (hearings and appeals) applies in respect of a reference to the Tribunal under this Part, under the FSMA as applied by this Part or under the SFT regulation, as it applies in respect of a reference to the Tribunal under the FSMA but with the following modifications.
+
+(2) Before section 133 insert—
+
+> **132A. Interpretation of Part 9**
+>
+> In this Part, “**the 2019 Regulations**” means the Transparency of Securities Financing Transactions and of Reuse (Amendment) (EU Exit) Regulations 2019.
+
+.
+
+(3) In section 133 (proceedings before Tribunal: general provisions)—
+
+- (a) in subsection (1)—
+  - (i) omit “(whether made under this or any other Act)”;
+  - (ii) in paragraph (a), omit “or the PRA”;
+  - (iii) omit paragraphs (b) and (c);
+- (b) omit subsection (1A);
+- (c) in subsection (2), omit “, (b) or (c)”;
+- (d) in subsection (5), the reference to section 393(11) is treated as a reference to section 393(11) as applied by these Regulations;
+- (e) for subsection (7A) substitute—
+
+  > (7A) A reference is a “**disciplinary reference**” for the purposes of this section if it is in respect of the following decisions—
+  >
+  > - (a) a decision to publish a statement under regulation 28 of the 2019 Regulations;
+  > - (b) a decision to impose a penalty under regulation 29 of the 2019 Regulations.
+
+  .
+
+(4) In section 133A (proceedings before the Tribunal: decision and supervisory notices, etc)—
+
+- (a) for subsection (1) substitute—
+
+  > (1) In determining in accordance with section 133(5) (as applied by the 2019 Regulations) a reference made as a result of a decision notice given by the FCA under regulation 27 of the 2019 Regulations, the Tribunal may not direct the FCA to take action which it would not, by or under those Regulations have had power to take when giving the notice.
+
+  ;
+- (b) in subsection (5), omit “or the PRA”.
+
+(5) In section 133B (offences) applies, in subsection (1)—
+
+- (a) in paragraph (a) omit “or the PRA”;
+- (b) omit paragraphs (b) and (c).
+
+#### 35. Application of Part 9A of the FSMA (rules and guidance)[^key-25ec170baf0df350d77180fddcb6c8cb]
+
+(1) The provisions of Part 9A of the FSMA (rules and guidance) specified in the following paragraphs apply but with the following modifications.
+
+(2) In Part 9A, the references to rules includes rules made under that Part as modified by this regulation.
+
+(3) Before section 137A insert—
+
+> **137ZA. Interpretation of Part 9A**
+>
+> In this Part, “**the 2019 Regulations**” means the Transparency of Securities Financing Transactions and of Reuse (Amendment) (EU Exit) Regulations 2019.
+
+.
+
+(4) In section 137A (the FCA's general rules)—
+
+- (a) for subsection (1) substitute—
+
+  > (1) The FCA may make such rules applying to trade repositories registered under Chapter 3 of the SFT regulation—
+  >
+  > - (a) with respect to the carrying on by them of trade repository activities within the meaning given in Part 4 of the 2019 Regulations, or
+  > - (b) with respect to the carrying on by them of activities which are not trade repository activities within the meaning given in that Part of those Regulations,
+  >
+  > as appear to the FCA to be necessary or expedient for the purpose of advancing one or more of its operational objectives.
+
+  ;
+- (b) each reference to the FCA's general rules is a reference to the rules made under this section as modified by sub-paragraph (a);
+- (c) each reference to an authorised person is a reference to a trade repository.
+
+(5) In section 138A (modification or waiver of rules)—
+
+- (a) each reference to a regulator is a reference to the FCA;
+- (b) each reference to either regulator is a reference to the FCA only.
+
+(6) In section 138B (publication of directions under section 138A)—
+
+- (a) each reference to a regulator is a reference to the FCA, and each reference to either regulator is a reference to the FCA only;
+- (b) omit subsections (3)(b) and (4).
+
+(7) In section 138G (rule-making instruments)—
+
+- (a) each reference to a regulator is a reference to the FCA;
+- (b) each reference to either regulator is a reference to the FCA only.
+
+(7A)[^key-1fe59309b5b45b472182076e8a0717f5] In section 138H (verification of rules)—
+
+- (a) each reference to a regulator is a reference to the FCA;
+- (a) each reference to either regulator is a reference to the FCA only.
+
+(8) In section 138I (consultation by the FCA)—
+
+- (a) in subsection (1)(b), omit “after doing so,”;
+- (b) in subsection (2), omit paragraphs (a), (c) and (d);
+- (c) in subsection (5)—
+  - (i) in paragraph (a) omit “together with a cost benefit analysis, and”;
+  - (ii) omit paragraph (b);
+  - (iii) omit subsections (6) to (11).
+
+(9) In section 139B (notification of FCA guidance to the Treasury)—
+
+- (a) for subsection (5), substitute—
+
+  > (5) “**General guidance**” means guidance given by the FCA under regulation 32(1)(a) of the 2019 Regulations which is—
+  >
+  > - (a) given to persons generally or to trade repositories generally;
+  > - (b) intended to have continuing effect;
+  > - (c) given in writing or other legible form.
+
+  ;
+- (b) omit subsection (6).
+
+#### 36. Application of Part 11 of the FSMA (information gathering and investigations)[^key-680d28ba0ce7ec1cf93b316750998229][^key-d145e2c54a4a14ff47b088a6e90d5562]
+
+(1) Part 11 of the FSMA (information gathering and investigations), other than sections 165A, 165B, 165C, 169A and 173, applies with respect to the discharge by the FCA of its functions under this Part and the SFT regulation as it applies with respect to the discharge by the FCA of its functions under the FSMA but with the following modifications.
+
+(2) In Part 11—
+
+- (a) each reference to the FSMA includes a reference to this Part and the SFT regulation;
+- (b) each reference to a section or Part of the FSMA is a reference to that section or Part as applied by this Part;
+- (c) each reference to an authorised person is a reference to a trade repository registered or recognised in accordance with Title 6 of the SFT regulation;
+- (d) omit each reference to the PRA.
+- (e) each reference to a regulator, however phrased, is a reference to the FCA, and each reference to either regulator is a reference to the FCA only;
+
+(3) Before section 165 insert—
+
+> **164. Part 11 Interpretation**
+>
+> In this Part—
+>
+> - “**the 2019 Regulations**” means the Transparency of Securities Financing Transactions and of Reuse (Amendment) (EU Exit) Regulations 2019;
+> - “**the TRATP Regulations**” means the Trade Repositories (Amendment and Transitional Provision) (EU Exit) Regulations 2018.
+
+.
+
+(4) In section 165 (regulators' power to require information: authorised persons etc.)—
+
+- (a) omit subsections (4)(b), (7)(b) to (e) and (8A);
+- (b) after subsection (7)(e) insert--
+
+  > - (f) by the FCA, to impose requirements on related third parties to whom the trade repositories have outsourced operational functions or activities to provide all information that is necessary in order to carry out the trade repository's duties.
+
+  .
+
+(5) In section 166 (reports by skilled persons), omit subsections (10) and (11).
+
+(6) In section 166A (appointment of skilled person to collect and update information)—
+
+- (a) for subsection (1) substitute—
+
+  > (1) This section applies if the FCA considers that a person has contravened a requirement imposed by or under the SFT regulation to collect, and keep up to date, information of a description specified in that Regulation.
+
+  ;
+- (b) omit subsection (10).
+
+(7) In section 167 (appointment of persons to carry out general investigations)—
+
+- (a) for subsection (1) substitute—
+
+  > (1) If it appears to the FCA that there is good reason for doing so, the FCA may appoint one or more competent persons to conduct an investigation on its behalf into—
+  >
+  > - (a) the nature, conduct or state of the business of a person in respect of whom a requirement is imposed by or under the TRATP Regulations, Part 4 of the 2019 Regulations or the SFT regulation;
+  > - (b) a particular aspect of that business; or
+  > - (c) the ownership or control of a person subject to the TRATP Regulations, Part 4 of the 2019 Regulations or the SFT regulation.
+
+  ;
+- (b) omit subsections (2)(c) and (3A);
+- (c) for subsection (4) substitute—
+
+  > (4) The power conferred by this section may be exercised in relation to a person who was formerly a person subject to the TRATP Regulations or the SFT regulation but only in relation to—
+  >
+  > - (a) a business carried on when the person was a person subject to the TRATP Regulations, Part 4 of the 2019 Regulations or the SFT regulation; or
+  > - (b) the ownership or control of a person who was formerly a person subject to the TRATP Regulations, Part 4 of the 2019 Regulations or the SFT regulation at any time when the person was a person subject to the TRATP Regulations, Part 4 of the 2019 Regulations or the SFT regulation.
+
+  ;
+- (d) in subsection (5), for “regulated activities” substitute “ trade repository activities within the meaning given in Part 4 of the 2019 Regulations ”;
+- (e) omit subsections (5A) and (6);
+
+(8) In section 168 (appointment of persons to carry out investigations in particular cases)—
+
+- (a) for subsection (1) substitute—
+
+  > (1) Subsection (3) applies if it appears to the FCA that there are circumstances suggesting that a person—
+  >
+  > - (a) may be guilty of an offence under section 398, as applied by regulation 38 of the 2019 Regulations;
+  > - (b) may be guilty of an offence under section 177, as applied by regulation 36 of the 2019 Regulations;
+  > - (c) may have contravened a requirement imposed by or under—
+  >   - (i) this Act as applied by Part 4 of the 2019 Regulations;
+  >   - (ii) Part 4 of the 2019 Regulations; or
+  >   - (iii) the SFT regulation.
+
+  ;
+- (b) omit subsections (2), (4) and (5);
+- (c) for subsection (6) substitute—
+
+  > (6) “**Investigating authority**” means the FCA.
+
+  .
+
+(9) In section 169 (investigations etc. in support of overseas regulator)—
+
+- (a) omit subsection (2A);
+- (b) for subsection (13) substitute—
+
+  > (13) “**Overseas regulator**” means an authority in a country or territory outside the United Kingdom which has functions corresponding to those of the FCA under the SFT regulation and Part 4 of the 2019 Regulations.
+
+  .
+
+(10) In section 170 (investigations: general)—
+
+- (a) each reference to the investigating authority is a reference to the FCA;
+- (b) in subsection (1), omit “or (5)”;
+- (c) for subsection (3) substitute—
+
+  > (3) Subsections (2) and (9) do not apply if the investigator is appointed as a result of section 168(1) and the FCA believes that the notice required by subsection (2) or (9) would be likely to result in the investigation being frustrated.
+
+  .
+- (d) omit subsection (10).
+
+(11) In section 171 (powers of persons appointed under section 167) omit subsections (3A) and (7).
+
+(12) In section 172 (additional power of persons appointed as a result of section 168(1) or (4)) omit “or (4)” both in the heading and in subsection (4).
+
+(13) In section 174 (admissibility of statements made to investigators)—
+
+- (a) in subsection (2), omit “or in proceedings in relation to action to be taken against that person under section 123 to which this section applies”;
+- (b) omit subsection (3A);
+- (c) in subsection (4), omit the words from “or (5),” to the end;
+- (d) in subsection (5), omit “,173”.
+
+(14) In section 175 (information and documents: supplemental provisions), in subsection (8), omit “or (5)”.
+
+(15) In section 176 (entry of premises under warrant)—
+
+- (a) for subsection (1) substitute—
+
+  > (1) A justice of the peace may issue a warrant under this section if satisfied on information on oath given by or on behalf of the FCA or an investigator that there are reasonable grounds for believing that the first, second or third set of conditions is satisfied.
+
+  ;
+- (b) in subsection (3)(a), omit “or an appointed representative”;
+- (c) in subsection (10), omit “or (5)”;
+- (d) in subsection (11)—
+  - (i) in paragraph (a), omit “87C, 87J,” and “,165A, 169A”;
+  - (ii) in paragraph (b), omit “,173”.
+
+#### 37. Application of Part 26 of the FSMA (notices)[^key-8da80fd7331c0909b6e21c1a4da5c472]
+
+(1) Part 26 of the FSMA (notices), other than sections 391A, 391B, 391C, 391D and 391E, applies with respect to the giving of notices under this Part, under the FSMA as applied by this Part and under the SFT regulation as it applies with respect to the giving of notices under the FSMA but with the following modifications.
+
+(2) In Part 26—
+
+- (a) each reference to the FSMA includes a reference to this Part and the SFT regulation;
+- (b) each reference to a section of the FSMA is a reference to that section as applied by his Part;
+- (c) each reference to a regulator or to the regulator concerned is a reference to the FCA;
+- (d) omit references to the PRA.
+
+(3) Before section 387 insert—
+
+> **386A. Part 26 Interpretation**
+>
+> In this Part, “**the 2019 Regulations**” means the Transparency of Securities Financing Transactions and of Reuse (Amendment) (EU Exit) Regulations 2019.
+
+.
+
+(4) In section 387 (warning notices) omit subsections (1A) and (3A).
+
+(5) In section 388 (decision notices) omit subsections (1A) and (2).
+
+(6) In section 391 (publication)—
+
+- (a) in subsection (1) the reference to a warning notice falling within subsection (1ZB) is to a warning notice given under regulation 26;
+- (b) omit subsections (1ZA), (1ZB), (4A), (5A), (6A), (7A), (7B), (8A), (8B), (8C), (8D) and (8E);
+- (c) for subsection (11) substitute—
+
+  > (11) Section 425A (meaning of “consumers”) applies for the purposes of this section as if—
+  >
+  > - (a) subsection (2)(c) were omitted;
+  > - (b) for subsection (3) there were substituted—
+  >
+  >   > (3) The services within this subsection are trade repository activities within the meaning given in Part 4 of the 2019 Regulations.
+  >
+  >   ;
+  > - (c) subsection (7) were omitted.
+
+  .
+
+(7) In section 392 (application of sections 393 and 394)—
+
+- (a) for paragraph (a) substitute—
+
+  > - (a) a warning notice given in accordance with regulation 26(1) of the 2019 Regulations;
+
+  ;
+- (b) for paragraph (b) substitute—
+
+  > - (b) a decision notice given in accordance with regulation 27(1) of the 2019 Regulations.
+
+  .
+
+(8) In section 395 (the FCA's and PRA's procedures)—
+
+- (a) for subsection (1) substitute—
+
+  > (1) The FCA must determine the procedure that it proposes to follow in relation to a decision which gives rise to an obligation for it to give—
+  >
+  > - (a) a supervisory notice, warning notice or decision notice; or
+  > - (b) a decision under section 391(1)(c), to publish information about the matter to which a warning notice relates.
+
+  ;
+- (b) in subsection (2)(a), for “any of paragraphs (a) to (c)”, substitute “ paragraph (a) ”;
+- (c) in subsection (2)(b) for “(d)” substitute “ (b) ”;
+- (d) in subsection (2)(c)—
+  - (i) for “(d)” substitute “ (b) ”;
+  - (ii) for “(b) or (c)” substitute “ (a) ”;
+- (e) omit subsections (3)(b) and (4);
+- (f) in subsection (9), omit “other than a warning notice or decision notice relating to a decision of the PRA that is required by a decision of the FCA of the kind mentioned in subsection (1)(b)(ii)”;
+- (g) omit subsection (9A);
+- (h) for subsection (13) substitute —
+
+  > (13) “**Supervisory notice**” means a supervisory notice given in accordance with paragraph 6 or 10 of Article 10a of the SFT regulation.
+
+  .
+
+#### 38. Application of Part 27 of the FSMA (offences)[^key-69842663503be0bdb40c250aaeb535f0][^key-99bb461c7801ed712d21a1803257cd6d]
+
+(1) Part 27 of the FSMA applies with respect to the discharge by the FCA of its functions under—
+
+- (a) that Act as applied by this Part;
+- (b) this Part; and
+- (c) the SFT regulation,
+
+as it applies with respect to the discharge by it of its functions under the FSMA but with the following modifications.
+
+(2) In section 398, in subsection (1A), after paragraph (i) insert—
+
+> - (j) the Transparency of Securities Financing Transactions and of Reuse (Amendment) (EU Exit) Regulations 2019;
+> - (k) the SFT regulation.
+
+.
+
+#### 39. Application of Schedule 1ZA to the FSMA (the Financial Conduct Authority)[^key-089eb44b2e3da6f9bd0d0bd13072abd3][^key-9acb3294443d81c0b68523c85cca36ed]
+
+(1) Paragraphs 19 to 21 (penalties) of Schedule 1ZA to the FSMA apply with respect to the discharge by the FCA of its functions under that Act as applied by this Chapter of this Part as they apply with respect to the discharge by it of its functions under the FSMA but with the following modifications.
+
+(2) In those paragraphs—
+
+- (a) each reference to penalties imposed under the FSMA includes a reference to penalties imposed under this Part;
+- (b) each reference to a section or Part of the FSMA includes a reference to that section or Part as applied by this Part;
+- (c) each reference to the functions of the FCA includes a reference to its functions under this Part, the SFT regulation or the TRATP Regulations.
+
+(3) In paragraph 20, the references to the FCA's enforcement powers include references to—
+
+- (a) its powers under this Part or under Part 26 of the FSMA as applied by this Part;
+- (b) its powers in relation to the investigation of offences under this Part or under the FSMA as applied by this Part;
+- (c) its powers in England and Wales or Northern Ireland in relation to the prosecution of offences under this Part or under the FSMA as applied by this Part.
+
+(4) In paragraph 21, the references to regulated persons includes references to trade repositories.
+
+Paul Maynard
+
+Craig Whittaker
+
+Two of the Lords Commissioners of Her Majesty's Treasury
+
+*(This note is not part of the Regulations)*
+
+These Regulations are made in exercise of the powers in section 8 of the European Union (Withdrawal) Act 2018 (c. 16) (in particular under section 8(2)(a), (b), (c), (e), (f) and (g)) in order to address failures of retained EU law to operate effectively and other deficiencies arising from the withdrawal of the United Kingdom from the European Union.
+
+These Regulations make amendments to legislation in the field of Securities Financing Transactions. Part 2 amends subordinate legislation and Part 3 amends retained direct EU legislation. Part 4 prescribes enforcement provisions relating to trade repositories. It also modifies the Financial Services and Markets Act 2000 (c.8) so that the provisions in that Act concerning enforcement may apply, both to those enforcement provisions and those in the SFT regulation (Regulation (EU) 2015/2365 of the European Parliament and of the Council of 25 November 2015 on transparency of securities financing transactions and of reuse and amending Regulation (EU) No 648/2012).
+
+An impact assessment of the effect that this instrument, and certain other instruments made by HM Treasury under the European Union (Withdrawal) Act 2018, will have on the costs of business, the voluntary sector and the public sector is available from HM Treasury, 1 Horse Guards Road, London, SW1A 2HQ and is published alongside this instrument at www.legislation.gov.uk.
+
+## Annotations
+
+[^c23629691]: Marginal citation: [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16).
+
+[^key-668ef3c94b485fa0967c85c61c5548cd]: Modification: Regulations modified (31.12.2020) by [The Gibraltar (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/680)](https://www.legislation.gov.uk/uksi/2019/680), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/680/regulation/1/2), [11(1)(4)(5)](https://www.legislation.gov.uk/uksi/2019/680/regulation/11/1/4/5) (with [reg. 11(8)-(10)](https://www.legislation.gov.uk/uksi/2019/680/regulation/11/8)) (as amended by [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 40(f)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/40/f)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-a641409d999309d2f4326fd864068400]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2019/542): power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
+
+[^key-4cdfc8d31837b6e5d6a76974748f8b11]: Commencement: Reg. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^key-0b33e264c1e558e449890cfae730071e]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^key-3d4201f0c4151c90246f2a97e2e27dfd]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^c23629701]: Marginal citation: [S.I. 2016/715](https://www.legislation.gov.uk/uksi/2016/715).
+
+[^key-f84e68fbb709dbd51ef92535f6f455b4]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^key-579166bdad85f1e8d70a97a7ce2c3c2c]: Commencement: Reg. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^key-5ebc936fba696194adc3f11411ed0f9c]: Commencement: Reg. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^c23629711]: Marginal citation: [S.I. 2013/1773](https://www.legislation.gov.uk/uksi/2013/1773).
+
+[^key-0f380e76eae0b81bed8a42b18251f0a3]: Commencement: Reg. 7 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^c23629721]: Marginal citation: Article 2(1A) is prospectively inserted by the Markets in Financial Instruments (Amendment) (EU Exit) Regulations 2018 [S.I. 2018/1403](https://www.legislation.gov.uk/uksi/2018/1403) which comes into force on exit day.
+
+[^c23629731]: Marginal citation: Directive 2014/65/EU of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments and amending Directive 2002/92/EC and Directive 2011/61/EU Text with EEA relevance.
+
+[^key-fcc3187984b65fb4472c5acd62087355]: Textual amendment: Words in reg. 7(a) substituted (30.12.2020) by [The Financial Services and Economic and Monetary Policy (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1301)](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 30(a)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/30/a)
+
+[^c23629741]: Marginal citation: [S.I. 2017/701](https://www.legislation.gov.uk/uksi/2017/701).
+
+[^c23629751]: Marginal citation: Article 4(1)(2A) is prospectively inserted by the Capital Requirements (Amendment) (EU Exit) Regulations 2018 [S.I. 2018/1401](https://www.legislation.gov.uk/uksi/2018/1401) which come into force on exit day.
+
+[^c23629761]: Marginal citation: The definition of “UK UCITS” was inserted by [S.I. 2011/1613](https://www.legislation.gov.uk/uksi/2011/1613) and amended by [S.I. 2013/1388](https://www.legislation.gov.uk/uksi/2013/1388).
+
+[^c23629771]: Marginal citation: The definition of “management company” was inserted by [S.I. 2011/1613](https://www.legislation.gov.uk/uksi/2011/1613).
+
+[^c23629781]: Marginal citation: [1993 c. 48](https://www.legislation.gov.uk/ukpga/1993/48). Section 1 was amended by the Pensions Act [2004 c. 35](https://www.legislation.gov.uk/ukpga/2004/35).
+
+[^key-1f8d579727ee07038ed88e798ecc2567]: Textual amendment: Words in reg. 7(a) inserted (25.6.2020) by [The Over the Counter Derivatives, Central Counterparties and Trade Repositories (Amendment, etc., and Transitional Provision) (EU Exit) Regulations 2020 (S.I. 2020/646)](https://www.legislation.gov.uk/uksi/2020/646), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/646/regulation/1/2/c), [8](https://www.legislation.gov.uk/uksi/2020/646/regulation/8)
+
+[^key-f58e146b9a74b948f62c90b9a72efcfe]: Textual amendment: Words in reg. 7(a) substituted (31.12.2020 immediately before IP completion day) by [The Securities Financing Transactions, Securitisation and Miscellaneous Amendments (EU Exit) Regulations 2020 (S.I. 2020/1385)](https://www.legislation.gov.uk/uksi/2020/1385), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/4), [56(2)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/56/2)
+
+[^c23629791]: Marginal citation: [S.I. 2003/3226](https://www.legislation.gov.uk/uksi/2003/3226). Regulation 16 was amended by [S.I. 2010/2993](https://www.legislation.gov.uk/uksi/2010/2993).
+
+[^c23629801]: Marginal citation: Both definitions were inserted into section 417(1) by [S.I. 2015/575](https://www.legislation.gov.uk/uksi/2015/575).
+
+[^c23629811]: Marginal citation: Article 2(1)(a) is prospectively inserted by the Markets in Financial Instruments (Amendment) (EU Exit) Regulations 2018 which come into force on exit day.
+
+[^c23629821]: Marginal citation: The definition of “management company” was inserted by [S.I. 2011/1613](https://www.legislation.gov.uk/uksi/2011/1613). The definition of “the operator” was amended by [S.I. 2011/1613](https://www.legislation.gov.uk/uksi/2011/1613) and [S.I. 2013/1388](https://www.legislation.gov.uk/uksi/2013/1388).
+
+[^key-24722875a88f260a72b89a3ca07514cc]: Textual amendment: Words in reg. 7(f) substituted (30.12.2020) by [The Financial Services and Economic and Monetary Policy (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1301)](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 30(f)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/30/f)
+
+[^c23629831]: Marginal citation: Sourcebooks made by the Financial Conduct Authority are available on https://www.handbook.fca.org.uk/handbook and copies of the rules referred to can be obtained from the Financial Conduct Authority, 12 Endeavour Square, London E20 1JN, where it is also available for inspection.
+
+[^c23629841]: Marginal citation: Section 236A is prospectively inserted by the [Collective Investment Schemes (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/325)](https://www.legislation.gov.uk/uksi/2019/325) which come into force on exit day.
+
+[^key-a1707026ff97b46758e51546bdefd4a7]: Commencement: Reg. 8 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^key-5289e554855183d0b27c98d8b2cb4f51]: Commencement: Reg. 9 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^key-c05749a2177c9816b75c917eafb131be]: Commencement: Reg. 10 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^key-3eff4068a92d8e8dfc10ce9bd2b46e83]: Commencement: Reg. 11 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^key-29422b4dd3c4d3b15a09d688d0b20740]: Commencement: Reg. 12 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^key-1d4ace23f399147d230aae506e2d4403]: Commencement: Reg. 13 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^key-0af002f6f537107346cf41748b35bc5a]: Commencement: Reg. 14 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^key-13e996cf9d8c3af1771fcdc487ec0b5a]: Commencement: Reg. 15 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^key-2db9bd048e86be128ac8aa86e9651bfe]: Commencement: Reg. 16 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^key-2789fe2bb7629e671526e41e488da895]: Commencement: Reg. 17 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^key-c299c2bc40eec47f7251486a4652eda5]: Commencement: Reg. 18 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^key-9fa970e50f13dfdfd500ba25a16c64cc]: Commencement: Reg. 19 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^key-b18b8af4562044ad9d69d0c237959393]: Commencement: Reg. 20 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^key-0d6c119c28fe2a1836171621f9413759]: Commencement: Reg. 21 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^key-b810e6cbf8c687b47c556ab76cd8ba77]: Commencement: Reg. 22 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^key-84c40c01ea97613b9b9f34b4575cb334]: Textual amendment: Reg. 22(c)(iii) inserted (31.12.2020 immediately before IP completion day) by [The Securities Financing Transactions, Securitisation and Miscellaneous Amendments (EU Exit) Regulations 2020 (S.I. 2020/1385)](https://www.legislation.gov.uk/uksi/2020/1385), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/4), [56(3)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/56/3)
+
+[^key-15d1ab24dbc1a69062baa7de82961396]: Commencement: Reg. 23 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^key-77eb930fd1b383efb17e005faf9a3751]: Commencement: Reg. 24 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^key-4003de8debebb2bde4374fee59789d8e]: Textual amendment: Word in reg. 24 substituted (31.12.2020 immediately before IP completion day) by [The Securities Financing Transactions, Securitisation and Miscellaneous Amendments (EU Exit) Regulations 2020 (S.I. 2020/1385)](https://www.legislation.gov.uk/uksi/2020/1385), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/4), [56(4)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/56/4)
+
+[^key-a19ffd0bbd31c3511ecd4227f65ae134]: Commencement: Reg. 25 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^key-57e0dee677fed8d89240b3512834f5af]: Textual amendment: Words in reg. 25 inserted (31.12.2020 immediately before IP completion day) by [The Securities Financing Transactions, Securitisation and Miscellaneous Amendments (EU Exit) Regulations 2020 (S.I. 2020/1385)](https://www.legislation.gov.uk/uksi/2020/1385), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/4), [56(5)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/56/5)
+
+[^c23629851]: Marginal citation: [S.I. 2018/1318](https://www.legislation.gov.uk/uksi/2018/1318).
+
+[^key-1c3b89884be060e7bd90bf26d64e7479]: Textual amendment: Pt. 4 Ch. 1A inserted (31.12.2020 immediately before IP completion day) by [The Securities Financing Transactions, Securitisation and Miscellaneous Amendments (EU Exit) Regulations 2020 (S.I. 2020/1385)](https://www.legislation.gov.uk/uksi/2020/1385), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/4), [56(6)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/56/6)
+
+[^key-71386f0a1783ddb4fbfa0d5bce1e6be8]: Modification: Pt. 4 Ch. 2 applied (27.11.2020) by [The Securities Financing Transactions, Securitisation and Miscellaneous Amendments (EU Exit) Regulations 2020 (S.I. 2020/1385)](https://www.legislation.gov.uk/uksi/2020/1385), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/2), [28(a)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/28/a)
+
+[^key-1b993fc87d5397dae48d500f9195a8e8]: Commencement: Reg. 26 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^key-5d7fe05649efb429277ed8741d7de7f4]: Commencement: Reg. 27 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^key-25a1f2c9bdcdff70d9f70ffe8f05ea11]: Commencement: Reg. 28 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^key-97992e82768c12a9dd8509e55b6501b9]: Commencement: Reg. 29 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^key-d28bb143fbb7030f26e68616da719764]: Commencement: Reg. 30 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^key-66113b8817d9396bde7d48108256fef3]: Commencement: Reg. 31 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^key-de3d126577e97ad8b4e4e61da5739440]: Commencement: Reg. 32 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^key-6159fb399f4ccf5eacc3268d92e4152a]: Commencement: Reg. 33 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^key-906a62bdeaf5ffb54899e9d96d07c76b]: Commencement: Reg. 34 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^key-25ec170baf0df350d77180fddcb6c8cb]: Commencement: Reg. 35 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^key-1fe59309b5b45b472182076e8a0717f5]: Textual amendment: Reg. 35(7A) inserted (31.12.2020 immediately before IP completion day) by [The Securities Financing Transactions, Securitisation and Miscellaneous Amendments (EU Exit) Regulations 2020 (S.I. 2020/1385)](https://www.legislation.gov.uk/uksi/2020/1385), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/4), [56(7)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/56/7)
+
+[^key-680d28ba0ce7ec1cf93b316750998229]: Modification: Reg. 36 applied (27.11.2020) by [The Securities Financing Transactions, Securitisation and Miscellaneous Amendments (EU Exit) Regulations 2020 (S.I. 2020/1385)](https://www.legislation.gov.uk/uksi/2020/1385), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/2), [28(b)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/28/b)
+
+[^key-d145e2c54a4a14ff47b088a6e90d5562]: Commencement: Reg. 36 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^key-8da80fd7331c0909b6e21c1a4da5c472]: Commencement: Reg. 37 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^key-69842663503be0bdb40c250aaeb535f0]: Modification: Reg. 38 applied (27.11.2020) by [The Securities Financing Transactions, Securitisation and Miscellaneous Amendments (EU Exit) Regulations 2020 (S.I. 2020/1385)](https://www.legislation.gov.uk/uksi/2020/1385), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/2), [28(c)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/28/c)
+
+[^key-99bb461c7801ed712d21a1803257cd6d]: Commencement: Reg. 38 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^key-089eb44b2e3da6f9bd0d0bd13072abd3]: Modification: Reg. 39 applied (27.11.2020) by [The Securities Financing Transactions, Securitisation and Miscellaneous Amendments (EU Exit) Regulations 2020 (S.I. 2020/1385)](https://www.legislation.gov.uk/uksi/2020/1385), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/2), [28(d)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/28/d)
+
+[^key-9acb3294443d81c0b68523c85cca36ed]: Commencement: Reg. 39 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)

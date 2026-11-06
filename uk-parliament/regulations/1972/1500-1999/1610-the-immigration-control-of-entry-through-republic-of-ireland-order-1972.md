@@ -1,0 +1,310 @@
+---
+title: The Immigration (Control of Entry Through Republic of Ireland) Order 1972
+id: uksi/1972/1610
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '1972-10-23'
+text_date: '2021-06-16'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/1972/1610
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1972/1610/pdfs/uksi_19721610_en.pdf
+- http://www.legislation.gov.uk/uksi/1972/1610/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Westlaw UK derived from Crown Copyright material and contributed to legislation.gov.uk
+summary: ''
+---
+
+# The Immigration (Control of Entry Through Republic of Ireland) Order 1972
+
+> Text as at 2021-06-16.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+1972 No. 1610
+
+IMMIGRATION
+
+The Immigration (Control of Entry Through Republic of Ireland) Order 1972
+
+Made
+
+23rd October 1972
+
+Laid before Parliament
+
+2nd November 1972
+
+Coming into Operation
+
+1st January 1973
+
+In exercise of the powers conferred upon me by section 9(2) and (6) of the Immigration Act 1971, I hereby make the following Order:—
+
+**1.**[^key-ba43043248b2e7b12b8472af91d66245] This Order may be cited as the Immigration (Control of Entry through Republic of Ireland) Order 1972 and shall come into operation on 1st January 1973.
+
+**2.**[^key-f93b6ebf12c6f569a25bdae51df7dbf6] (1) In this Order—
+
+- “**the Act**” means the Immigration Act 1971; and
+- [^key-81cecae934b08b5a636f37a25412ba0d]...
+- [^key-19b05a7aa31dc98b16f2cad33c24e369]...
+- “[^key-a5f0d4db4a08aedc52d828a6c2ca2228]**exempt work activity**” means an activity listed in Appendix Visitor: Permitted Activities to the immigration rules, except those listed in paragraphs PA 1, PA 2, and PA 16.1 to 18;
+- “**occupation or employment**” includes, in particular, the following activities in the United Kingdom (whether paid or unpaid)—
+  - (a) undertaking employment;
+  - (b) doing any work for an organisation or business;
+  - (c) establishing or running a business as a self-employed person;
+  - (d) undertaking a work placement or internship;
+  - (e) undertaking any direct selling to the public;
+  - (f) fulfilling a contract to provide goods or services;
+- “**permitted paid engagement**” means an engagement listed in paragraph V13.3. of Appendix V:Visitor to the immigration rules ;
+- “**permitted payment**” means a payment of a type listed in paragraph V4.6.(a) to (f) of Appendix V:Visitor to the immigration rules, save that the words in paragraph V4.6.(f) “where the requirements of V13.1. to V13.3. are met” do not apply to payments permitted by this Order;.
+- “**visa national**” means a person who, in accordance with the immigration rules, is required on entry into the United Kingdom to produce a passport or other document of identity endorsed with a United Kingdom visa and includes a stateless person.
+
+(2) In this Order any reference to an Article shall be construed as a reference to an Article of this Order and any reference in an Article to a paragraph as a reference to a paragraph of that Article.
+
+(3)[^key-10479b9a1b7244a3733810892bfba171] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**3.**[^key-ce6e3ac708d22f28f37075815d79d50b] (1) This Article applies to—
+
+- (a) any person (other than a citizen of the Republic of Ireland) who arrives in the United Kingdom on an aircraft which began its flight in that Republic if he entered that Republic in the course of a journey to the United Kingdom which began outside the common travel area and was not given leave to land in that Republic in accordance with the law in force there;
+- (b) any person (other than an Irish citizen or[^key-d7ceab5595e7358320ca4a42ffbda105] a person to whom sub-paragraph (a) of this paragraph applies) who arrives in the United Kingdom on a local journey from the Republic of Ireland if he satisfies any of the following conditions, that is to say:—
+  - (i) he is a visa national who has no valid visa for his entry into the United Kingdom , save for a visa national to whom article 3A applies[^key-c9f31aa135096a8b62164421c4016dcf];
+  - (ii) he entered that Republic unlawfully from a place outside the common travel area;
+  - (iii)[^key-6c023ce95f4c5f408807c621fca1c338] he is a person who—
+    - (aa) requires leave to enter or remain in the United Kingdom,
+    - (bb) left the United Kingdom at a time where he required such leave but did not have it, and
+    - (cc) has not subsequently been granted admission to, or leave to enter or remain in, the United Kingdom or any of the Islands;
+  - (iv)[^key-24dc200ba3f3da4f8b412fda4c430f53] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (v)[^M_F_62c61955-f9ea-48da-9b32-adb47fe6153b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (vi)[^key-34c9c4cda5e980b098c933dd07cafabe] he is a person who is an excluded person for the purposes of section 8B of the Act (persons excluded under international obligations).
+  - (vii)[^key-57af80bd304939caf91118569771c349] he is a person who has at any time been refused admission to the United Kingdom under regulation 23(1), (3) or (4) of the Immigration (European Economic Area) Regulations 2016, and has not since then been granted admission to, or leave to enter or remain in, the United Kingdom;
+  - (viii) he is a person in respect of whom the Secretary of State has made a removal decision under regulation 23(6)(a) or (c) of the Immigration (European Economic Area Regulations) 2016, and has not since then been granted admission to or leave to enter or remain in, the United Kingdom;
+  - (ix)[^key-685d7aedc813b55fb6d555f6de016c8e] he is a person who has at any time been refused admission to the United Kingdom under regulation 12(1)(a) or (c) of the Citizens' Rights (Frontier Worker) (EU Exit) Regulations 2020 , and has not since then been granted admission to, or leave to enter or remain in, the United Kingdom;
+  - (x) he is a person in respect of whom the Secretary of State has made a removal decision under regulation 15(1)(a) or (c) of the Citizens' Rights (Frontier Worker) (EU Exit) Regulations 2020.
+
+(2) In relation only to persons to whom this Article applies, the Republic of Ireland shall be excluded from section 1(3) of the Act (provisions relating to person travelling on local journeys in the common travel area).
+
+**3A.**[^key-31666d83d0ab083ebe15591b4263a6db] This article applies to a visa national who is a citizen of a country specified in the Schedule who—
+
+- (a) has applied to the Republic of Ireland authorities for a visa to travel to the Republic;
+- (b) has made the application mentioned in sub-paragraph (a) to the Republic of Ireland authorities based in the country listed in the Schedule where the visa national is a citizen;
+- (c) has been granted a visa to travel to the Republic of Ireland by the Republic of Ireland authorities for the purpose of a stay of a period of 90 days or fewer, as a result of the application mentioned in sub-paragraph (a), which is endorsed with the letters “BIVS”;
+- (d) has since been given permission by the Republic of Ireland authorities, endorsed on his passport, to land or be in the Republic of Ireland pursuant to the visa mentioned in sub-paragraph (c); and
+- (e) is in possession of both the valid Irish visa mentioned in sub-paragraph (c) and the valid endorsement from the Republic of Ireland authorities conferring permission to land or to be in the Republic mentioned in sub-paragraph (d), at the time when he enters the United Kingdom on a local journey from the Republic of Ireland.
+
+**4.**[^key-42d153f5a5b3c2b91c419b6515bc1064] (1) Subject to paragraphs (2), (2A) and (2B)[^key-f1a31fa34b685f1329e33ff3b1cadafd] and (2C) and (2D)[^key-f1d8fec201fc7afb3b48cd2cf2797f4e], this Article applies to any person who does not have the right of abode in the United Kingdom under section 2 of the Act[^key-4869b542631b04884d61aa94594938e0] and is not an Irish citizen[^key-03eed5bc94759499be9d94ac26746c0d], [^key-0eb0065510ef09f65a8f96e14c77eee2]... and who enters the United Kingdom on a local journey from the Republic of Ireland after having entered that Republic—
+
+- (a) on coming from a place outside the common travel area; or
+- (b) after leaving the United Kingdom whilst having a limited leave to enter or remain there which has since expired.
+
+(2) This Article shall not apply to any person who arrives in the United Kingdom with leave to enter or remain in the United Kingdom which is in force but which was given to him before his arrival or[^key-95f7e520767aa76cb497dc53bd1460b2] who requires leave to enter the United Kingdom by virtue of Article 3 or section 9(4) of the Act.
+
+(2A)[^key-70df8fc37a93612197a3679f5afb96a1] This Article does not apply to any person who has leave or may be granted leave to enter or remain in the United Kingdom by virtue of Appendix EU to the immigration rules.
+
+(2B)[^key-1476d670470b7aab90eeeac15b6f82ca] This Article does not apply to a person who is a frontier worker under regulation 3 of the Citizens' Rights (Frontier Workers) (EU Exit) Regulations 2020.
+
+(2C)[^key-7b0e180934bac020c61b4a0b13d88724] This Article does not apply to any person to whom Article 5 applies, or applied at the time the person entered the United Kingdom.
+
+(2D) This Article does not apply to any person to whom Article 6 applies.
+
+(3) A person to whom this Article applies by virtue only of paragraph (1)(a) shall, unless he is a visa national without a valid visa for entry to the United Kingdom, who is also a visa national to whom article 3A applies,[^key-5e023ee88a8ad5d192ccdbb10ce8f809] be subject to the restriction and to the condition set out in paragraph (4).
+
+(4) The restriction and the condition referred to in paragraph (3) are—
+
+- (a) the period for which he may remain in the United Kingdom shall not be more than six[^key-c29c3779650e4fe35c8e6221c1b23a37] months from the date on which he entered the United Kingdom; and
+- (b)[^key-c7d32d7182e4135a0df900736df52df3] he must not engage in any occupation or employment except an exempt work activity, for which he may receive a permitted payment.
+- (c)[^key-5403ffc64f49c72954e411cc22f36d7e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5)[^key-2bfed9a5661d743c705f8bd0f12696fa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(6)[^key-2bfed9a5661d743c705f8bd0f12696fa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(6A)[^key-2b0acf216a7ce10b94eb0fc98a7458d3] In relation to a person who is a visa national without a valid visa for entry to the United Kingdom and who is also a visa national to whom article 3A applies, the restriction and condition in paragraph (6B) apply instead of the provisions contained in paragraph (4).
+
+(6B) The restriction and condition referred to in paragraph (6A) are—
+
+- (a) the period for which the visa national may remain in the United Kingdom ends on the date of the expiry of the permission to land or to be in the Republic of Ireland mentioned in article 3A(d);
+- (b)[^key-c20e7fc094b69e6f25adab85adcd2ff0] the person must not engage in any occupation or employment except an exempt work activity, for which the person may receive a permitted payment.
+
+(7) The preceding provisions of this Article shall have effect in relation to a person to whom this Article applies by virtue of sub-paragraph (b) of paragraph (1) (whether or not he is also a person to whom this Article applies by virtue of sub-paragraph (a) thereof) as they have effect in relation to a person to whom this Article applies by virtue only of the said sub-paragraph (a), but as if for the reference[^key-11e41bdaa9ab9e7f1023873ab873a5fa] in paragraph (4)[^key-f43aea301a50f9c7e274b625500d2e51] to six[^key-8827149aa2220287d3b53c1717bb8490] months [^key-e00fa5760bd497cdcb8e4a73473175c6]... there were substituted a reference to two months[^key-9d91e19cfad6b785ec4e7c13503f0b95].
+
+(8)[^key-80e16b29193fc5ca2d7ed0cb15418b32] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(8A)[^key-f6d01a87934eae24eec11bbfd2ca9143] The restriction and condition mentioned in paragraphs (4) and (6B) shall cease to apply to a person if that person has leave or may be granted leave to enter or remain in the United Kingdom for the reason specified in paragraph (2A).
+
+**5.**[^key-6215026559aa9440c6db29f5083e4a9d] (1) Subject to paragraph (3), this Article applies to any person who does not have the right of abode in the United Kingdom under section 2 of the Act, and who—
+
+- (a) enters the United Kingdom on a local journey from the Republic of Ireland after having entered the Republic of Ireland—
+  - (i) on coming from a place outside the common travel area; or
+  - (ii) after leaving the United Kingdom whilst having limited leave to enter or remain there which has since expired; and
+- (b) at the time of the person's entry to the United Kingdom and continuously whilst in the United Kingdom, is a S2 Healthcare Visitor; and
+- (c) at the time of the person's entry to the United Kingdom, is in possession of—
+  - (i) in the case of a patient (“P”), a valid S2 certificate of entitlement to scheduled treatment; or
+  - (ii) in the case of an accompanying person, the documents set out in paragraph (2).
+
+(2) The documents referred to in paragraph (1)(c)(ii) are an original or copy of—
+
+- (a) P's valid S2 certificate of entitlement to scheduled treatment or evidence of P's leave to enter or remain in the United Kingdom as a S2 Healthcare Visitor; and
+- (b) if P is an EEA citizen, P's valid national identity card or passport; or if P is a not an EEA citizen, P's passport.
+
+(3) This Article does not apply to any person who arrives in the United Kingdom with leave to enter or remain in the United Kingdom which is in force but which was given to the person before their arrival, or who requires leave to enter the United Kingdom by virtue of Article 3 or section 9(4) of the Act.
+
+(4) A person to whom this Article applies is subject to the restrictions in paragraph (5).
+
+(5) The restrictions referred to in this paragraph are—
+
+- (a) the period for which the person may remain in the United Kingdom is not more than six months from the date on which the person entered the United Kingdom;
+- (b) the person must not engage in any occupation or employment.
+
+(6) In this Article—
+
+- “**accompanying person**” means a person who is a S2 Healthcare Visitor who is accompanying a patient (“P”) to the United Kingdom at the same time as P's entry into the United Kingdom, or who is joining P in the United Kingdom on a date after P's entry into the United Kingdom, for the purpose of providing P with care or support during P's course of planned healthcare treatment;
+- “**EEA citizen**” means a person who is a national of Austria, Belgium, Bulgaria, Croatia, Republic of Cyprus, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland, Italy, Latvia, Lithuania, Liechtenstein, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden or Switzerland who is not also a British citizen;
+- “**patient**” means a person who is a S2 Healthcare Visitor who is undergoing or plans to undergo a course of planned healthcare treatment in the United Kingdom and who, before entry to the United Kingdom, has been granted a valid S2 certificate of entitlement to scheduled treatment;
+- “**S2 certificate of entitlement to scheduled treatment**” has the same meaning as a portable document S2 issued under Regulation [(EC) 883/2004](https://www.legislation.gov.uk/eur/2004/883);
+- “**S2 Healthcare Visitor**” means a person with a right to enter the United Kingdom by virtue of and in accordance with—
+  - (i) Article 32(1)(b) of the EU withdrawal agreement;
+  - (ii) Article 31(1)(b) of the EEA EFTA separation agreement; or
+  - (iii) Article 26a(1)(b) of the Swiss citizens' rights agreement;
+
+  and references to the “**EEA EFTA separation agreement**” and the “Swiss citizens' rights agreement” have the same meanings as in the European Union (Withdrawal Agreement) Act 2020 (see section 39(1) of that Act).
+
+**6.** (1) Subject to paragraph (2), this Article applies to any person who does not have the right of abode in the United Kingdom under section 2 of the Act and is not an Irish citizen, and who—
+
+- (a) enters the United Kingdom on a local journey from the Republic of Ireland after having entered the Republic of Ireland—
+  - (i) on coming from a place outside the common travel area; or
+  - (ii) after leaving the United Kingdom whilst having limited leave to enter or remain there which has since expired; and
+- (b) at the time of the person's entry to the United Kingdom, intends, and has a previously arranged invitation, to undertake a permitted paid engagement in the United Kingdom.
+
+(2) This Article does not apply to any person who arrives in the United Kingdom with leave to enter or remain in the United Kingdom which is in force but which was given to the person before their arrival, or who requires leave to enter the United Kingdom by virtue of Article 3 or section 9(4) of the Act.
+
+(3) Subject to paragraph (5), a person to whom this Article applies is subject to the restrictions and conditions in paragraph (4).
+
+(4) The restrictions and conditions referred to in this paragraph are—
+
+- (a) the period for which the person may remain in the United Kingdom is not more than one month from the date on which the person entered the United Kingdom; and
+- (b) the person must not engage in any occupation or employment except an exempt work activity or the permitted paid engagement referred to in paragraph (1)(b); and
+- (c) where the person is undertaking an exempt work activity or the permitted paid engagement, the person may receive a permitted payment.
+
+(5) If a person to whom this Article has applied at any time, leaves the United Kingdom but does not leave the common travel area, on the person's subsequent entry to the United Kingdom the restrictions and conditions in paragraph (6) apply to them.
+
+(6) The restrictions and the conditions referred to in this paragraph are—
+
+- (a) the period for which the person may remain in the United Kingdom is not more than seven days from the date on which the person entered the United Kingdom; and
+- (b) the person must not engage in any occupation or employment except an exempt work activity or any permitted paid engagement; and
+- (c) where the person is undertaking an exempt work activity or permitted paid engagement, the person may receive a permitted payment.
+
+Robert Carr
+
+One of Her Majesty's Principal Secretaries of State
+
+Home Office
+
+Whitehall
+
+23rd October 1972
+
+## SCHEDULE[^key-b884456fa7adc75741c982f4e6296cc3]
+
+Article 3A
+
+The countries specified for the purposes of article 3A are:
+
+- India
+- People’s Republic of China.
+
+EXPLANATORY NOTE
+
+This Order excludes from the operation of section 1(3) of the Immigration Act 1971 (which exempts from control passengers travelling on local journeys within the common travel area, that is to say the area comprising the United Kingdom, Channel Islands, Isle of Man and Republic of Ireland) certain persons who enter the United Kingdom through the Republic of Ireland, (Article 3). The main classes of persons are those who merely passed through the Republic of Ireland, persons requiring visas, persons who entered the Republic of Ireland unlawfully and persons who are subject to directions given by the Secretary of State for their exclusion from the United Kingdom on the ground that such exclusion is conducive to the public good.
+
+The Order also imposes restrictions on persons who are not patrial (other than those excluded from the operation of section 1(3)) and who enter the United Kingdom from the Republic after coming from a place outside the common travel area or after leaving the United Kingdom while having a limited leave to enter or remain there which has since expired (Article 4). These restrictions impose a limit on the period of their stay in the United Kingdom; except in relation to nationals of states who are members of the European Economic Community, a prohibition on taking up employment or any occupation for reward; and, in the case of certain person over 16 years who require a visa to enter the United Kingdom, a requirement to register with the police.
+
+## Annotations
+
+[^key-ba43043248b2e7b12b8472af91d66245]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/1972/1610/article/1) in force at 1.1.1973, see [art. 1](https://www.legislation.gov.uk/uksi/1972/1610/article/1)
+
+[^key-f93b6ebf12c6f569a25bdae51df7dbf6]: Commencement: Art. 2 in force at 1.1.1973, see [art. 1](https://www.legislation.gov.uk/uksi/1972/1610/article/1)
+
+[^key-81cecae934b08b5a636f37a25412ba0d]: Textual amendment: Words in art. 2 omitted (31.12.2020) by virtue of [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2), [25(2)(a)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/25/2/a)
+
+[^key-19b05a7aa31dc98b16f2cad33c24e369]: Textual amendment: Words in art. 2 omitted (31.12.2020) by virtue of [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2), [25(2)(b)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/25/2/b)
+
+[^key-a5f0d4db4a08aedc52d828a6c2ca2228]: Textual amendment: Words in art. 2(1) inserted (31.12.2020) by [The Immigration (Citizens' Rights etc.) (EU Exit) Regulations 2020 (S.I. 2020/1372)](https://www.legislation.gov.uk/uksi/2020/1372), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1372/regulation/1/2), [6(2)](https://www.legislation.gov.uk/uksi/2020/1372/regulation/6/2)
+
+[^key-10479b9a1b7244a3733810892bfba171]: Textual amendment: Art. 2(3) omitted (12.10.2014) by virtue of [The Immigration (Control of Entry through Republic of Ireland) (Amendment) Order 2014 (S.I. 2014/2475)](https://www.legislation.gov.uk/uksi/2014/2475), [arts. 1](https://www.legislation.gov.uk/uksi/2014/2475/article/1), [3(3)](https://www.legislation.gov.uk/uksi/2014/2475/article/3/3)
+
+[^key-ce6e3ac708d22f28f37075815d79d50b]: Commencement: Art. 3 in force at 1.1.1973, see [art. 1](https://www.legislation.gov.uk/uksi/1972/1610/article/1)
+
+[^key-d7ceab5595e7358320ca4a42ffbda105]: Textual amendment: Words in art. 3(1)(b) inserted (31.12.2020) by [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2), [25(3)(a)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/25/3/a)
+
+[^key-c9f31aa135096a8b62164421c4016dcf]: Textual amendment: Words in art. 3(1)(b)(i) inserted (12.10.2014) by [The Immigration (Control of Entry through Republic of Ireland) (Amendment) Order 2014 (S.I. 2014/2475)](https://www.legislation.gov.uk/uksi/2014/2475), [arts. 1](https://www.legislation.gov.uk/uksi/2014/2475/article/1), [3(4)(a)](https://www.legislation.gov.uk/uksi/2014/2475/article/3/4/a)
+
+[^key-6c023ce95f4c5f408807c621fca1c338]: Textual amendment: Art. 3(1)(b)(iii) substituted (16.6.2021) by [The Immigration (Control of Entry through Republic of Ireland) (Amendment) Order 2021 (S.I. 2021/600)](https://www.legislation.gov.uk/uksi/2021/600), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2021/600/article/1/b), [2](https://www.legislation.gov.uk/uksi/2021/600/article/2)
+
+[^key-24dc200ba3f3da4f8b412fda4c430f53]: Textual amendment: Art. 3(1)(b)(iv) omitted (31.12.2020) by virtue of [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2), [25(3)(c)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/25/3/c)
+
+[^M_F_62c61955-f9ea-48da-9b32-adb47fe6153b]: Textual amendment: Art. 3(1)(b)(v) omitted (31.12.2020) by virtue of The Immigration and Social Security Co-ordination (EU Withdrawal) [Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2), [25(3)(d)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/25/3/d) (with [reg. 25(5)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/25/5))
+
+[^key-34c9c4cda5e980b098c933dd07cafabe]: Textual amendment: Art. 3(1)(b)(vi) inserted (31.12.2020) by [The Immigration (European Economic Area Nationals) (EU Exit) Regulations 2019 (S.I. 2019/468)](https://www.legislation.gov.uk/uksi/2019/468), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/468/regulation/1/3), [2(3)](https://www.legislation.gov.uk/uksi/2019/468/regulation/2/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-57af80bd304939caf91118569771c349]: Textual amendment: Art. 3(1)(b)(vii)(viii) inserted (31.12.2020) by [The Immigration (Citizens' Rights etc.) (EU Exit) Regulations 2020 (S.I. 2020/1372)](https://www.legislation.gov.uk/uksi/2020/1372), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1372/regulation/1/2), [6(3)](https://www.legislation.gov.uk/uksi/2020/1372/regulation/6/3)
+
+[^key-685d7aedc813b55fb6d555f6de016c8e]: Textual amendment: Art. 3(1)(b)(ix)(x) inserted (31.12.2020 immediately after IP completion day) by [The Immigration (Citizens' Rights etc.) (EU Exit) Regulations 2020 (S.I. 2020/1372)](https://www.legislation.gov.uk/uksi/2020/1372), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1372/regulation/1/2/a)[(3)(c)](https://www.legislation.gov.uk/uksi/2020/1372/regulation/1/3/c), [6(3)](https://www.legislation.gov.uk/uksi/2020/1372/regulation/6/3)
+
+[^key-31666d83d0ab083ebe15591b4263a6db]: Textual amendment: [Art. 3A](https://www.legislation.gov.uk/uksi/1972/1610/article/3A) inserted (12.10.2014) by [The Immigration (Control of Entry through Republic of Ireland) (Amendment) Order 2014 (S.I. 2014/2475)](https://www.legislation.gov.uk/uksi/2014/2475), [arts. 1](https://www.legislation.gov.uk/uksi/2014/2475/article/1), [3(5)](https://www.legislation.gov.uk/uksi/2014/2475/article/3/5)
+
+[^key-42d153f5a5b3c2b91c419b6515bc1064]: Commencement: Art. 4 in force at 1.1.1973, see [art. 1](https://www.legislation.gov.uk/uksi/1972/1610/article/1)
+
+[^key-f1a31fa34b685f1329e33ff3b1cadafd]: Textual amendment: Words in art. 4(1) substituted (31.12.2020) by [The Citizens' Rights (Frontier Workers) (EU Exit) Regulations 2020 (S.I. 2020/1213)](https://www.legislation.gov.uk/uksi/2020/1213), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1213/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2020/1213/regulation/1/3), [28(2)(a)](https://www.legislation.gov.uk/uksi/2020/1213/regulation/28/2/a)
+
+[^key-f1d8fec201fc7afb3b48cd2cf2797f4e]: Textual amendment: Words in art. 4(1) inserted (31.12.2020) by [The Immigration (Citizens' Rights etc.) (EU Exit) Regulations 2020 (S.I. 2020/1372)](https://www.legislation.gov.uk/uksi/2020/1372), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1372/regulation/1/2), [6(4)(a)](https://www.legislation.gov.uk/uksi/2020/1372/regulation/6/4/a)
+
+[^key-4869b542631b04884d61aa94594938e0]: Textual amendment: Words in art. 4(1) substituted (1.1.1983) by [The Immigration (Control of Entry through Republic of Ireland) (Amendment) Order 1982 (S.I. 1982/1028)](https://www.legislation.gov.uk/uksi/1982/1028), [arts. 1](https://www.legislation.gov.uk/uksi/1982/1028/article/1), [2](https://www.legislation.gov.uk/uksi/1982/1028/article/2)
+
+[^key-03eed5bc94759499be9d94ac26746c0d]: Textual amendment: Words in art. 4(1) substituted (31.12.2020) by [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2), [25(4)(a)(i)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/25/4/a/i)
+
+[^key-0eb0065510ef09f65a8f96e14c77eee2]: Textual amendment: Words in art. 4(1) omitted (31.12.2020) by virtue of [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2), [25(4)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/25/4/a/ii)
+
+[^key-95f7e520767aa76cb497dc53bd1460b2]: Textual amendment: Words in art. 4(2) inserted (30.7.2000) by [The Immigration (Control of Entry through Republic of Ireland) (Amendment) Order 2000 (S.I. 2000/1776)](https://www.legislation.gov.uk/uksi/2000/1776), [arts. 1](https://www.legislation.gov.uk/uksi/2000/1776/article/1), [2](https://www.legislation.gov.uk/uksi/2000/1776/article/2)
+
+[^key-70df8fc37a93612197a3679f5afb96a1]: Textual amendment: Art. 4(2A) inserted (31.12.2020) by [The Immigration (European Economic Area Nationals) (EU Exit) Regulations 2019 (S.I. 2019/468)](https://www.legislation.gov.uk/uksi/2019/468), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/468/regulation/1/3), [2(4)(b)](https://www.legislation.gov.uk/uksi/2019/468/regulation/2/4/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-1476d670470b7aab90eeeac15b6f82ca]: Textual amendment: Art. 4(2B) inserted (31.12.2020) by [The Citizens' Rights (Frontier Workers) (EU Exit) Regulations 2020 (S.I. 2020/1213)](https://www.legislation.gov.uk/uksi/2020/1213), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1213/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2020/1213/regulation/1/3), [28(2)(b)](https://www.legislation.gov.uk/uksi/2020/1213/regulation/28/2/b)
+
+[^key-7b0e180934bac020c61b4a0b13d88724]: Textual amendment: Art. 4(2C)(2D) inserted (31.12.2020) by [The Immigration (Citizens' Rights etc.) (EU Exit) Regulations 2020 (S.I. 2020/1372)](https://www.legislation.gov.uk/uksi/2020/1372), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1372/regulation/1/2), [6(4)(b)](https://www.legislation.gov.uk/uksi/2020/1372/regulation/6/4/b)
+
+[^key-5e023ee88a8ad5d192ccdbb10ce8f809]: Textual amendment: Words in art. 4(3) substituted (12.10.2014) by [The Immigration (Control of Entry through Republic of Ireland) (Amendment) Order 2014 (S.I. 2014/2475)](https://www.legislation.gov.uk/uksi/2014/2475), [arts. 1](https://www.legislation.gov.uk/uksi/2014/2475/article/1), [3(7)](https://www.legislation.gov.uk/uksi/2014/2475/article/3/7)
+
+[^key-c29c3779650e4fe35c8e6221c1b23a37]: Textual amendment: Word in art. 4(4)(a) substituted (31.12.2020) by [The Immigration (Citizens' Rights etc.) (EU Exit) Regulations 2020 (S.I. 2020/1372)](https://www.legislation.gov.uk/uksi/2020/1372), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1372/regulation/1/2), [6(4)(c)(i)](https://www.legislation.gov.uk/uksi/2020/1372/regulation/6/4/c/i)
+
+[^key-c7d32d7182e4135a0df900736df52df3]: Textual amendment: Art. 4(4)(b) substituted (31.12.2020) by [The Immigration (Citizens' Rights etc.) (EU Exit) Regulations 2020 (S.I. 2020/1372)](https://www.legislation.gov.uk/uksi/2020/1372), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1372/regulation/1/2), [6(4)(c)(ii)](https://www.legislation.gov.uk/uksi/2020/1372/regulation/6/4/c/ii)
+
+[^key-5403ffc64f49c72954e411cc22f36d7e]: Textual amendment: Art. 4(4)(c) omitted (31.12.2020) by virtue of [The Immigration (Citizens' Rights etc.) (EU Exit) Regulations 2020 (S.I. 2020/1372)](https://www.legislation.gov.uk/uksi/2020/1372), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1372/regulation/1/2), [6(4)(c)(iii)](https://www.legislation.gov.uk/uksi/2020/1372/regulation/6/4/c/iii)
+
+[^key-2bfed9a5661d743c705f8bd0f12696fa]: Textual amendment: Art. 4(5)(6) omitted (12.10.2014) by virtue of [The Immigration (Control of Entry through Republic of Ireland) (Amendment) Order 2014 (S.I. 2014/2475)](https://www.legislation.gov.uk/uksi/2014/2475), [arts. 1](https://www.legislation.gov.uk/uksi/2014/2475/article/1), [3(11)](https://www.legislation.gov.uk/uksi/2014/2475/article/3/11)
+
+[^key-2b0acf216a7ce10b94eb0fc98a7458d3]: Textual amendment: Art. 4(6A)(6B) inserted (12.10.2014) by [The Immigration (Control of Entry through Republic of Ireland) (Amendment) Order 2014 (S.I. 2014/2475)](https://www.legislation.gov.uk/uksi/2014/2475), [arts. 1](https://www.legislation.gov.uk/uksi/2014/2475/article/1), [3(10)](https://www.legislation.gov.uk/uksi/2014/2475/article/3/10)
+
+[^key-c20e7fc094b69e6f25adab85adcd2ff0]: Textual amendment: Art. 4(6B)(b) substituted (31.12.2020) by [The Immigration (Citizens' Rights etc.) (EU Exit) Regulations 2020 (S.I. 2020/1372)](https://www.legislation.gov.uk/uksi/2020/1372), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1372/regulation/1/2), [6(4)(d)](https://www.legislation.gov.uk/uksi/2020/1372/regulation/6/4/d)
+
+[^key-11e41bdaa9ab9e7f1023873ab873a5fa]: Textual amendment: Word in art. 4(7) substituted (12.10.2014) by [The Immigration (Control of Entry through Republic of Ireland) (Amendment) Order 2014 (S.I. 2014/2475)](https://www.legislation.gov.uk/uksi/2014/2475), [arts. 1](https://www.legislation.gov.uk/uksi/2014/2475/article/1), [3(12)(a)](https://www.legislation.gov.uk/uksi/2014/2475/article/3/12/a)
+
+[^key-f43aea301a50f9c7e274b625500d2e51]: Textual amendment: Words in art. 4(7) substituted (12.10.2014) by [The Immigration (Control of Entry through Republic of Ireland) (Amendment) Order 2014 (S.I. 2014/2475)](https://www.legislation.gov.uk/uksi/2014/2475), [arts. 1](https://www.legislation.gov.uk/uksi/2014/2475/article/1), [3(12)(b)](https://www.legislation.gov.uk/uksi/2014/2475/article/3/12/b)
+
+[^key-8827149aa2220287d3b53c1717bb8490]: Textual amendment: Word in art. 4(7) substituted (31.12.2020) by [The Immigration (Citizens' Rights etc.) (EU Exit) Regulations 2020 (S.I. 2020/1372)](https://www.legislation.gov.uk/uksi/2020/1372), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1372/regulation/1/2), [6(4)(e)(i)](https://www.legislation.gov.uk/uksi/2020/1372/regulation/6/4/e/i)
+
+[^key-e00fa5760bd497cdcb8e4a73473175c6]: Textual amendment: Words in art. 4(7) omitted (12.10.2014) by virtue of [The Immigration (Control of Entry through Republic of Ireland) (Amendment) Order 2014 (S.I. 2014/2475)](https://www.legislation.gov.uk/uksi/2014/2475), [arts. 1](https://www.legislation.gov.uk/uksi/2014/2475/article/1), [3(12)(c)](https://www.legislation.gov.uk/uksi/2014/2475/article/3/12/c)
+
+[^key-9d91e19cfad6b785ec4e7c13503f0b95]: Textual amendment: Words in art. 4(7) substituted (31.12.2020) by [The Immigration (Citizens' Rights etc.) (EU Exit) Regulations 2020 (S.I. 2020/1372)](https://www.legislation.gov.uk/uksi/2020/1372), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1372/regulation/1/2), [6(4)(e)(ii)](https://www.legislation.gov.uk/uksi/2020/1372/regulation/6/4/e/ii)
+
+[^key-80e16b29193fc5ca2d7ed0cb15418b32]: Textual amendment: Art. 4(8) omitted (31.12.2020) by virtue of [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2), [25(4)(b)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/25/4/b)
+
+[^key-f6d01a87934eae24eec11bbfd2ca9143]: Textual amendment: Art. 4(8A) inserted (31.12.2020) by [The Immigration (European Economic Area Nationals) (EU Exit) Regulations 2019 (S.I. 2019/468)](https://www.legislation.gov.uk/uksi/2019/468), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/468/regulation/1/3), [2(4)(c)](https://www.legislation.gov.uk/uksi/2019/468/regulation/2/4/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-6215026559aa9440c6db29f5083e4a9d]: Textual amendment: [Arts. 5](https://www.legislation.gov.uk/uksi/1972/1610/article/5), [6](https://www.legislation.gov.uk/uksi/1972/1610/article/6) inserted (31.12.2020 immediately before IP completion day) by [The Immigration (Citizens' Rights etc.) (EU Exit) Regulations 2020 (S.I. 2020/1372)](https://www.legislation.gov.uk/uksi/2020/1372), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1372/regulation/1/2/b), [6(5)](https://www.legislation.gov.uk/uksi/2020/1372/regulation/6/5)
+
+[^key-b884456fa7adc75741c982f4e6296cc3]: Textual amendment: [Sch.](https://www.legislation.gov.uk/uksi/1972/1610/schedule) inserted (12.10.2014) by [The Immigration (Control of Entry through Republic of Ireland) (Amendment) Order 2014 (S.I. 2014/2475)](https://www.legislation.gov.uk/uksi/2014/2475), [art. 1](https://www.legislation.gov.uk/uksi/2014/2475/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2014/2475/schedule)

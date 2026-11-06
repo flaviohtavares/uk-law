@@ -1,0 +1,168 @@
+---
+title: The Immigration and Asylum Appeals (Notices) Regulations 2000
+id: uksi/2000/2246
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2000-08-16'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2000/2246
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2000/2246/pdfs/uksi_20002246_en.pdf
+- http://www.legislation.gov.uk/uksi/2000/2246/made/data.pdf
+pending_changes: 2
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Immigration and Asylum Appeals (Notices) Regulations 2000
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2000 No. 2246
+
+IMMIGRATION
+
+The Immigration and Asylum Appeals (Notices) Regulations 2000
+
+Made
+
+16th August 2000
+
+Laid before Parliament
+
+24th August 2000
+
+Coming into force
+
+2nd October 2000
+
+The Secretary of State, in exercise of the powers conferred upon him by section 166(3) of the Immigration and Asylum Act 1999[^f00001], and by paragraph 1 of Schedule 4 to that Act[^f00002], hereby makes the following Regulations:
+
+## 1. Citation and commencement
+
+(1) These Regulations may be cited as the Immigration and Asylum Appeals (Notices) Regulations 2000 and shall come into force on 2nd October 2000.
+
+(2) The Immigration Appeals (Notices) Regulations 1984[^f00003] are hereby revoked.
+
+## 2. Interpretation
+
+In these Regulations—
+
+- “the 1971 Act” means the Immigration Act 1971[^f00004];
+- “the 1997 Act” means the Special Immigration Appeals Commission Act 1997[^f00005];
+- “the 1999 Act” means the Immigration and Asylum Act 1999;
+- “appeal” means an appeal under—
+  - (a) Part IV of the 1999 Act (including any regulations made under section 80 of the 1999 Act, whether or not such regulations are also made under section 2(2) of the European Communities Act 1972[^f00006]);
+  - (b) the 1997 Act;
+
+  and “appealable” is to be construed accordingly, unless the context otherwise requires;
+- “decision-maker” means—
+  - (a) the Secretary of State;
+  - (b) an immigration officer;
+  - (c) an entry clearance officer;
+- “entry clearance officer” means a person responsible for the grant or refusal of entry clearance;
+- “representative” means a person who appears to the decision-maker—
+  - (a) to be the representative of a requisite person; and
+  - (b) not to be prohibited from acting as a representative by section 84 of the 1999 Act;
+- “requisite person” has the meaning given to it by regulation 4(1).
+
+## 3. Transitional provision
+
+These Regulations apply to a decision to make a deportation order which, by virtue of paragraph 12 of Schedule 15 to the 1999 Act,—
+
+- (a) is appealable under section 15 of the 1971 Act (appeals in respect of deportation orders);
+- (b) would be appealable under section 15 of the 1971 Act, but for section 15(3) (deportation conducive to public good), and is appealable under section 2(1)(c) of the 1997 Act (appeal to Special Immigration Appeals Commission against a decision to make a deportation order).
+
+## 4. Notice of appealable decisions and actions
+
+(1) Subject to the provisions of this regulation and to regulation 6, the decision-maker must give written notice to a person (the “requisite person”) of any decision or action taken in respect of him which is appealable.
+
+(2) If the notice is given to the representative of the requisite person, it is to be taken to have been given to the requisite person.
+
+(3) Where the notice is given as required by paragraph (1) of a decision to refuse leave to a person to enter the United Kingdom, it is not necessary in addition for notice to be given of the decision that he requires leave unless he claims or has claimed that leave is not required.
+
+(4) No notice of decision is required to be given under paragraph (1) by reason only of the fact that the decision could be appealed under section 65 of the 1999 Act or section 2A of the 1997 Act if the person in question were to make an allegation that an authority had acted in breach of his human rights in taking it; but such notice must be given upon such allegation being made.
+
+(5) In paragraph (4), “authority” has the meaning given to it by section 65(7) of the 1999 Act.
+
+## 5. Contents of notice
+
+(1) A notice given under regulation 4 is to—
+
+- (a) include a statement of the reasons for the decision or action to which it relates; and
+- (b) if it relates to the giving of directions for the removal of the person from the United Kingdom, include a statement of the country to which he is to be removed.
+
+(2) The notice is also to include, or to be accompanied by, a statement informing the requisite person of—
+
+- (a) his right of appeal and the statutory provision on which his right of appeal is based;
+- (b) the manner in which the appeal is to be brought;
+- (c) a postal address to which a notice of appeal may be returned by post;
+- (d) an address to which a notice of appeal may be returned by hand;
+- (e) a fax number which may be used to return a notice of appeal by fax;
+- (f) the time within which an appeal is to be brought; and
+- (g) the facilities available for advice and assistance in connection with the appeal.
+
+## 6. Certain notices under the 1971 Act deemed to comply with Regulations
+
+(1) This regulation applies where the power to—
+
+- (a) refuse leave to enter; or
+- (b) vary leave to enter or remain in the United Kingdom;
+
+is exercised by notice in writing under section 4[^f00007] of, or paragraph 6(2) of Schedule 2 to, the 1971 Act (notice of decisions as to leave to enter or remain).
+
+(2) If—
+
+- (a) the statements required by regulation 5 are included in or accompany that notice; and
+- (b) the notice is given in accordance with the provisions of regulation 7;
+
+the notice is to be taken to have been given under regulation 4(1) for the purposes of these Regulations, and for the purposes of paragraph 2 of Schedule 4 to the 1999 Act.
+
+## 7. Service of notice
+
+A notice required to be given by regulation 4 may be—
+
+- (a) given by hand;
+- (b) sent by fax;
+- (c) sent by postal service in which delivery or receipt is recorded to—
+  - (i) the last known or usual place of abode of the requisite person or his representative; or
+  - (ii) an address provided by him or his representative for correspondence.
+
+Steve Bassam
+
+Parliamentary Under-Secretary of State
+
+Home Office
+
+16th August 2000
+
+(This note is not part of the Regulations)
+
+These Regulations re-enact the Immigration Appeals (Notices) Regulations 1984 (the 1984 Regulations) with amendments. The changes of substance are as follows:
+
+Under these Regulations, the obligation to provide written notice of a decision or action only applies where that decision or action is appealable. This is in contrast to the 1984 Regulations where there was an obligation to notify a decision or action which would be appealable but for the ground on which it was taken. This provision was intended to cover decisions and actions which, until the Special Immigration Appeals Commission Act 1997 (the 1997 Act) came into force, were not appealable. These decisions and actions are now appealable under the 1997 Act and are covered by the wording of regulation 4(1) of these Regulations.
+
+The 1984 Regulations provided that, where a notice of decision was served under section 4 of the Immigration Act 1971 or paragraph 6 of Schedule 2 to that Act, the provisions of the 1984 Regulations were to be taken to have been complied with, as long as information about appeal rights was provided. This meant that there was no need to serve a separate notice under the 1984 Regulations. These Regulations broadly replicate this provision, but provide that the notice must also be given in accordance with regulation 7 of these Regulations. If this is done, and the information about appeal rights is provided, the notice is to be taken to have been given under regulation 4(1), both for the purposes of these Regulations and for the purposes of paragraph 2 of Schedule 4 to the Immigration and Asylum Act 1999.
+
+Regulation 7 provides that the notice required to be given by these Regulations may now be given by fax, as well as by hand and by post.
+
+Paragraph 2 of Schedule 4 to the Immigration and Asylum Act 1999 provides that, where a notice given under these Regulations is sent by first class post, addressed to the person to whom it is required to be given, it is deemed to have been received by that person on the second day after it was posted, unless the contrary is proved.
+
+## Annotations
+
+[^f00001]: Footnote: [1999 c. 33](https://www.legislation.gov.uk/ukpga/1999/33).
+
+[^f00002]: Footnote: As extended by paragraph 6 of Schedule 2 to the 1997 Act.
+
+[^f00003]: Footnote: S.I. [1984/2040](https://www.legislation.gov.uk/uksi/1984/2040).
+
+[^f00004]: Footnote: [1971 c. 77](https://www.legislation.gov.uk/ukpga/1971/77).
+
+[^f00005]: Footnote: [1997 c. 68](https://www.legislation.gov.uk/ukpga/1997/68).
+
+[^f00006]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68).
+
+[^f00007]: Footnote: Including as modified by article 8 of the Immigration (Leave to Enter and Remain) Order 2000 (S.I. [2000/1161](https://www.legislation.gov.uk/uksi/2000/1161)).

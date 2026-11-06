@@ -1,0 +1,45 @@
+---
+title: Finance Act 2024, section 25
+act: Finance Act 2024
+section: '25'
+status: revised
+text_date: '2026-06-25'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2024/3/section/25
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Finance Act 2024, section 25
+
+> Text as at 2026-06-25.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 25. Rates of air passenger duty
+
+*Extent: E+W+S+N.I.*
+
+(1) Section 30 of FA 1994 (air passenger duty: rates) is amended as follows.
+
+(2) In subsection (1B) (journeys ending in the United Kingdom)—
+
+- (a) in paragraph (a), for “£6.50” substitute “£7”, and
+- (b) in paragraph (b), for “£13” substitute “£14”.
+
+(3) In subsection (2A) (long-haul journeys)—
+
+- (a) in paragraph (a), for “£87” substitute “£88”, and
+- (b) in paragraph (b), for “£191” substitute “£194”.
+
+(4) In subsection (4A) (ultra-long haul journeys)—
+
+- (a) in paragraph (a), for “£91” substitute “£92”, and
+- (b) in paragraph (b), for “£200” substitute “£202”.
+
+(5) In subsection (4E) (journeys on aircraft equipped to carry fewer than 19 passengers)—
+
+- (a) in paragraph (aa), for “£574” substitute “£581”, and
+- (b) in paragraph (d), for “£601” substitute “£607”.
+
+(6) The amendments made by this section have effect in relation to the carriage of passengers beginning on or after 1 April 2024.

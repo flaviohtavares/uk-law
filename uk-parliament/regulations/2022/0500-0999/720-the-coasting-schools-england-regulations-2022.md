@@ -1,0 +1,252 @@
+---
+title: The Coasting Schools (England) Regulations 2022
+id: uksi/2022/720
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2022-06-28'
+text_date: '2025-11-17'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2022/720
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2022/720/pdfs/uksiem_20220720_en.pdf
+- http://www.legislation.gov.uk/uksi/2022/720/pdfs/uksi_20220720_en.pdf
+- http://www.legislation.gov.uk/uksi/2022/720/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Coasting Schools (England) Regulations 2022
+
+> Text as at 2025-11-17.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2022 No. 720
+
+Education, England
+
+The Coasting Schools (England) Regulations 2022
+
+Made
+
+28th June 2022
+
+Laid before Parliament
+
+30th June 2022
+
+Coming into force
+
+1st September 2022
+
+The Secretary of State for Education makes the following Regulations in exercise of the powers conferred by paragraph 3 of Schedule 1 to the Education Act 1996[^f00001] and sections 60B(2) and (3) and 181(2)(a) of the Education and Inspections Act 2006[^f00002].
+
+## 1. Citation, commencement, extent and application[^key-0c48238b8ca1c15f8bb38d8944ae4e78]
+
+(1) These Regulations may be cited as the Coasting Schools (England) Regulations 2022 and come into force on 1st September 2022.
+
+(2) These Regulations extend to England and Wales and apply in relation to schools and units in England.
+
+## 2. Interpretation[^key-7ba9fa9b16be6900ced37d4e3d7f581a]
+
+In these Regulations—
+
+- (a) “**school**” has the meaning given in section 4 of the Education Act 1996[^f00003];
+- (b) “**unit**” means a pupil referral unit within the meaning given in section 19 of that Act[^f00004].
+
+## 3. Disapplication of coasting schools regime for certain descriptions of school[^key-ad9f69d23f6d445f17e3f6fb10392bf5]
+
+Section 60B of the Education and Inspections Act 2006 does not apply to a maintained nursery school[^f00005].
+
+## 4. Coasting schools[^key-fcd2baeb3c9819188915c7d9d7d320a8]
+
+(1) A school is coasting for the purposes of section 60B(1) of the Education and Inspections Act 2006 where—
+
+- (a) the school meets the entry conditions in paragraph (2), (3), (4) or (5); and
+- (b) following any inspections which cause the school to meet the entry conditions in paragraph (2), (3), (4) or (5), the school has not met the exit condition.
+
+(2) The entry conditions in this paragraph are that—
+
+- (a) in a section 5 inspection, the school was awarded a grade of “needs attention” by the Chief Inspector in the evaluation area of leadership and governance; and
+- (b) the Chief Inspector made a relevant assessment—
+  - (i) in the school’s previous section 5 inspection; or
+  - (ii) if the school has not had a previous section 5 inspection, in the most recent section 5 inspection of a linked school.
+
+(3) The entry condition in this paragraph is that in a section 5 inspection report the Chief Inspector—
+
+- (a) made a statement required under section 13(4) or section 13(5) of the Education Act 2005;
+- (b) did not make a statement required under section 13(3)(b) of the Education Act 2005; and
+- (c) awarded the school—
+  - (i) a grade of “needs attention” in any evaluation area applicable to the school;
+  - (ii) if the section 5 inspection occurred on or after 2nd September 2024, a grade of “requires improvement” in the key judgement of quality of education or leadership and management; or
+  - (iii) if the section 5 inspection occurred before 2nd September 2024, a grade of “satisfactory” or “requires improvement” for the school’s overall effectiveness.
+
+(4) The entry conditions in this paragraph are that—
+
+- (a) in a section 5 inspection that occurred on or after 2nd September 2024, the school was awarded a grade of “requires improvement” by the Chief Inspector in the key judgement of quality of education or leadership and management; and
+- (b) the Chief Inspector made a relevant assessment—
+  - (i) in the school’s previous section 5 inspection; or
+  - (ii) if the school has not had a previous section 5 inspection, in the most recent section 5 inspection of a linked school.
+
+(5) The entry conditions in this paragraph are that—
+
+- (a) in a section 5 inspection that occurred before 2nd September 2024, the school was awarded a grade of “requires improvement” by the Chief Inspector for overall effectiveness; and
+- (b) the Chief Inspector made a relevant assessment—
+  - (i) in the school’s previous section 5 inspection; or
+  - (ii) if the school has not had a previous section 5 inspection, in the most recent section 5 inspection of a linked school.
+
+(6) In this regulation the exit condition is met if—
+
+- (a) in a section 5 inspection or section 8 inspection of the school the Chief Inspector awarded none of the following grades in any evaluation area applicable to the school—
+  - (i) “needs attention”;
+  - (ii) “urgent improvement”;
+  - (iii) “not met”;
+- (b) in a section 5 inspection that occurred on or after 2nd September 2024, the Chief Inspector awarded a grade of “outstanding” or “good” in the key judgements of quality of education and leadership and management; or
+- (c) in a section 5 inspection that occurred before 2nd September 2024, the Chief Inspector awarded a grade of “outstanding” or “good” for the school’s overall effectiveness.
+
+(7) In this regulation a “**relevant assessment**” is—
+
+- (a) a statement required under section 13(3)(b) of the Education Act 2005;
+- (b) a grade of “needs attention” in the evaluation area of leadership and governance;
+- (c) in a section 5 inspection that occurred on or after 2nd September 2024, a grade of “requires improvement” in the key judgement of quality of education or leadership and management; or
+- (d) in a section 5 inspection that occurred before 2nd September 2024, a grade of “satisfactory” or “requires improvement” for the school’s overall effectiveness.
+
+(8) In this regulation a “**linked school**” is, in relation to a school (“School A”)—
+
+- (a) its predecessor school;
+- (b) if there are two or more predecessor schools, each predecessor school; or
+- (c) if School A has only one predecessor school and that school has not had a section 5 inspection, the most recent school in a chain with School A to receive a section 5 inspection.
+
+(9) In paragraph (8)—
+
+- (a) a “predecessor school” is a school that—
+  - (i) has been discontinued; and
+  - (ii) upon discontinuation was replaced by School A;
+- (b) a “**school in a chain with School A**” means any of the schools which are part of a sequence of schools which were discontinued and replaced by another school where the last school in the sequence is School A.
+
+(10) In this regulation—
+
+- (a) a “**section 5 inspection**” means an inspection under section 5 of the Education Act 2005.
+- (b) a “**section 8 inspection**” means an inspection under section 8 of the Education Act 2005.
+
+## 5. Amendment of Education (Pupil Referral Units) (Management Committees etc) (England) Regulations 2007[^key-00ef7dcfdc4554737e83d77505bdd4a0]
+
+(1) The Education (Pupil Referral Units) (Management Committees etc) (England) Regulations 2007[^f00008] are amended as follows.
+
+(2) In regulation 2(1), (interpretation) in the definition of “eligible for intervention”, before sub-paragraph (a) insert—
+
+> - (za) the circumstances set out in section 60B of the Education and Inspections Act 2006 apply in relation to the unit;
+
+.
+
+## 6. Amendment of the Education (Pupil Referral Units) (Application of Enactments) (England) Regulations 2007[^key-d906023289d4b39c0aed643aef99e4df]
+
+(1) The Education (Pupil Referral Units) (Application of Enactments) (England) Regulations 2007[^f00009] are amended as follows.
+
+(2) In Schedule 1—
+
+- (a) before paragraph 23 insert—
+
+  > **22A.** (1) Section 60B of the Education and Inspections Act 2006 applies in relation to units as it applies in relation to maintained schools with the following modifications.
+  >
+  > (2) Section 60B has effect as if—
+  >
+  > - (a) for subsection (1) there were substituted—
+  >
+  >   > (1) A unit is by virtue of this section eligible for intervention if—
+  >   >
+  >   > - (a) the unit is coasting, and
+  >   > - (b) the Secretary of State has notified the management committee that it is coasting.
+  >
+  >   .
+  > - (b) subsections (2) and (3) were omitted.
+
+  ;
+- (b) in paragraph 23C (application of section 4 of the Academies Act 2010 to units), for sub-paragraph (2) substitute—
+
+  > (2) Subsection (1) has effect as for it there were substituted—
+  >
+  > > (1) The Secretary of State may make an Academy order in respect of a unit in England if—
+  > >
+  > > - (a) an application in respect of the unit is made under section 3; or
+  > > - (b) the unit is eligible for intervention, within the meaning of Part 4 of the Education and Inspections Act 2006, by virtue of section 60B of that Act (coasting schools).
+  >
+  > .
+
+  ;
+- (c) omit paragraph 23D(3)(a) (application of section 5 of the Academies Act 2010 to units);
+- (d) omit paragraph 23DA(2)(a) (application of section 5B of the Academies Act 2010 to units);
+- (e) omit paragraph 23DB(2)(a) (application of section 5C of the Academies Act 2010 to units);
+- (f) in paragraph 23DC (application of section 5D of the Academies Act 2010 to units), omit the words after “maintained schools”;
+- (g) in paragraph 23DD (application of section 5E of the Academies Act 2010 to units), in the modification made by paragraph (3)(b), after “set out in” insert “section 60B,”;
+- (h) after paragraph 30 insert—
+
+  > **31. Coasting Schools (England) Regulations 2022**
+  >
+  > Regulation 4 of the Coasting Schools (England) Regulations 2022 applies in relation to a unit as if for—
+  >
+  > - (a) “school” in each place there were substituted “unit”; and
+  > - (b) “schools” in each place there were substituted “units”.
+
+  .
+
+## 7. Revocation[^key-c3934e95269c668eeabfb45878e59f8a]
+
+The Coasting Schools (England) Regulations 2017[^f00010] are revoked.
+
+Barran
+
+Parliamentary Under Secretary of State
+
+Department for Education
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations make provision in respect of coasting schools. Regulation 3 provides that the regulations do not apply in relation to maintained nursery school.
+
+Regulation 4 provides, for the purposes of section 60B of the Education and Inspections Act [2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40), a new definition of the circumstances in a which a school to which that section applies is deemed to be coasting.
+
+Regulations 5 and 6 respectively provide for the application, with modifications, of this new definition of coasting school to pupil referral units, by way of amendments to the Education (Pupil Referral Units) (Management Committees etc) (England) Regulations 2007 ([S.I. 2007/2978](https://www.legislation.gov.uk/uksi/2007/2978)) and the Education (Pupil Referral Units) (Application of Enactments) (England) Regulations 2007 ([S.I. 2007/2979](https://www.legislation.gov.uk/uksi/2007/2979)).
+
+Regulation 7 revokes the Coasting Schools (England) Regulations 2017 ([S.I. 2017/9](https://www.legislation.gov.uk/uksi/2017/9)).
+
+A full impact assessment has not been produced for this instrument as no, or no significant, impact on the private, voluntary or public sectors is foreseen.
+
+## Annotations
+
+[^f00001]: Footnote: [1996 c. 56](https://www.legislation.gov.uk/ukpga/1996/56). Paragraph 3 of Schedule 1 was amended by [S.I. 2010/1158](https://www.legislation.gov.uk/uksi/2010/1158).
+
+[^f00002]: Footnote: [2006 c. 40](https://www.legislation.gov.uk/ukpga/2006/40). Section 60B was inserted by section 1(3) of the Education and Adoption Act [2016 (c. 6)](https://www.legislation.gov.uk/ukpga/2016/6).
+
+[^key-0c48238b8ca1c15f8bb38d8944ae4e78]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2022/720/regulation/1) in force at 1.9.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/720/regulation/1/1)
+
+[^key-7ba9fa9b16be6900ced37d4e3d7f581a]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2022/720/regulation/2) in force at 1.9.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/720/regulation/1/1)
+
+[^f00003]: Footnote: Section 4(1) was substituted by section 51 of the Education Act [1997 (c. 44)](https://www.legislation.gov.uk/ukpga/1997/44) (“**the 1997 Act**”), and further amended by Schedule 22 to the Education Act [2002 (c. 32)](https://www.legislation.gov.uk/ukpga/2002/32), section 95(2) of the Childcare Act [2006 (c. 21)](https://www.legislation.gov.uk/ukpga/2006/21) (“**the 2006 Act**”), Schedule 13, paragraph 9(2)(a) of the Education Act [2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21) (“**the 2011 Act**”) and [S.I. 2019/1027](https://www.legislation.gov.uk/uksi/2019/1027). Section 4(1A) was inserted by section 95(3) of the 2006 Act. Sections 4(1B) and (1C) were inserted by paragraph 9(2)(b) of Schedule 13 to the 2011 Act. Section 4(2) was amended by paragraph 1 of Schedule 8 to the 1997 Act and paragraph 10 of Schedule 7 to that Act and further amended by paragraph 2 of Schedule 2 to the Curriculum and Assessment (Wales) [Act 2021 (asc 4)](https://www.legislation.gov.uk/anaw/2021/4) (“the CA(W)A 2021”). Section 4(3) was amended by [S.I. 2010/1080](https://www.legislation.gov.uk/uksi/2010/1080). Section 4(4) was substituted by [S.I. 2019/1027](https://www.legislation.gov.uk/uksi/2019/1027).
+
+[^f00004]: Footnote: Sections 19(1) and (4) were amended by Schedule 8 to the 1997 Act. Section 19(1) was also amended by paragraph 3(2) and (3) of Schedule 2 to the CA(W)A 2021. Section 19(1A) was inserted by section 3(2) of the Children, Schools and Families Act [2010 (c. 26)](https://www.legislation.gov.uk/ukpga/2010/26) (“**the 2010 Act**”) and amended by paragraph 3(4) of Schedule 2 to the CA(W)A 2021. Section 19(2A) and (2B) were inserted by [S.I. 2007/1507](https://www.legislation.gov.uk/uksi/2007/1507), subsection (2B) having been amended by [S.I. 2010/1158](https://www.legislation.gov.uk/uksi/2010/1158) and para 3(6) of Schedule 2 to the CA(W)A 2021. Section 3 was amended by para 3(7) of Schedule 2 to the CA(W)A 2021 and [S.I. 2010/1158](https://www.legislation.gov.uk/uksi/2010/1158). Sections 19(3A) and (3B) were inserted by section 101(2) of the 2006 Act, subsection (3A) was subsequently substituted by section 3(3) of the 2010 Act and amended by para 3(8) of Schedule 2 to the CA(W)A 2021 and subsection (3B) was amended by section 3(4) of the 2010 Act. Section 19(3AA) was inserted by section 3(3) of the 2010 Act. Section 19(4) was amended by paragraph 3(9) of Schedule 2 to the CA(W)A 2021. Section 19(4A) was inserted by section 47(4) of the 1997 Act and amended by [S.I. 2010/1158](https://www.legislation.gov.uk/uksi/2010/1158). Section 19(6) was substituted by section 101(3) of the Inspections Act 2006 and amended by para 4(7)(b) of Schedule 1 to the Additional Learning Needs and Education Tribunal (Wales) [Act 2018 (anaw 2)](https://www.legislation.gov.uk/asc/2018/2). Subsection 7 was amended by paragraph 3(10) of Schedule 2 to the CA(W)A 2021.
+
+[^key-ad9f69d23f6d445f17e3f6fb10392bf5]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2022/720/regulation/3) in force at 1.9.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/720/regulation/1/1)
+
+[^f00005]: Footnote: The expression “maintained nursery school” is defined in section 579(1) of the Education Act 1996 as having the meaning given by section 22(9) of the School Standards and Framework Act [1998 (c. 31)](https://www.legislation.gov.uk/ukpga/1998/31). By virtue of section 187(2) of the Education and Inspections Act 2006, Part 4 (schools causing concern: England) of that Act is to be read as though it were contained in the Education Act 1996.
+
+[^key-fcd2baeb3c9819188915c7d9d7d320a8]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/2022/720/regulation/4) substituted (17.11.2025) by [The Coasting Schools (England) (Amendment) Regulations 2025 (S.I. 2025/1120)](https://www.legislation.gov.uk/uksi/2025/1120), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1120/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2025/1120/regulation/3)
+
+[^key-00ef7dcfdc4554737e83d77505bdd4a0]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2022/720/regulation/5) in force at 1.9.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/720/regulation/1/1)
+
+[^f00008]: Footnote: [S.I. 2007/2978](https://www.legislation.gov.uk/uksi/2007/2978), as amended by [S.I. 2012/1825](https://www.legislation.gov.uk/uksi/2012/1825). There are other amendments but none is relevant.
+
+[^key-d906023289d4b39c0aed643aef99e4df]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2022/720/regulation/6) in force at 1.9.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/720/regulation/1/1)
+
+[^f00009]: Footnote: [S.I. 2007/2979](https://www.legislation.gov.uk/uksi/2007/2979), as amended by [S.I. 2016/608](https://www.legislation.gov.uk/uksi/2016/608). There are other amendments but none is relevant.
+
+[^key-c3934e95269c668eeabfb45878e59f8a]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2022/720/regulation/7) in force at 1.9.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/720/regulation/1/1)
+
+[^f00010]: Footnote: [S.I. 2017/9](https://www.legislation.gov.uk/uksi/2017/9).

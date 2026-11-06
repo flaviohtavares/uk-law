@@ -1,0 +1,94 @@
+---
+title: The Antarctic Treaty (Agreed Measures) (No. 2) Order 1988
+id: uksi/1988/1296
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '1988-07-26'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1988/1296
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1988/1296/pdfs/uksi_19881296_en.pdf
+- http://www.legislation.gov.uk/uksi/1988/1296/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Antarctic Treaty (Agreed Measures) (No. 2) Order 1988
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+1988 No. 1296
+
+ANTARCTICA
+
+The Antarctic Treaty (Agreed Measures) (No. 2) Order 1988
+
+Made
+
+26th July 1988
+
+Coming into force in accordance with article 1(2)
+
+At the Court at Buckingham Palace, the 26th day of July 1988
+
+Present,
+
+The Queen’s Most Excellent Majesty in Council
+
+Whereas a draft of this Order has been laid before Parliament in accordance with section 6 of the Antarctic Treaty Act 1967[^f00001] and has been approved by a resolution of each House of Parliament;
+
+Now, therefore, Her Majesty, in exercise of the powers conferred upon Her by section 6 of the Antarctic Treaty Act 1967, is pleased, by and with the advice of Her Privy Council, to order, and it is hereby ordered, as follows:
+
+**1.** (1) This Order may be cited as the Antarctic Treaty (Agreed Measures) (No. 2) Order 1988.
+
+(2) This Order shall come into force on the day after the day on which it is made.
+
+**2.** In this Order “the Act” means the Antarctic Treaty Act 1967.
+
+**3.** (1) No person to whom this article applies shall, except as permitted by or under this Order, enter into a specially protected area.
+
+(2) Subject to paragraph (3) of this article, this article applies to any person who is for the time being—
+
+- (a) a British citizen, a British Dependent Territories citizen or a British Overseas citizen; or
+- (b) a person who under the British Nationality Act 1981[^f00002] is a British subject; or
+- (c) a British protected person (within the meaning of that Act); or
+- (d) a person who under the Hong Kong Act 1985[^f00003] is a British National (Overseas).
+
+(3) This article does not apply to any person to whom section 1 of the Act does not apply by virtue of subsection (4) of that section.
+
+(4) Any person who does anything in contravention of this article shall be guilty of an offence.
+
+(5) Paragraph (1) of this article shall not be taken to be contravened in the circumstances provided for in section 2 of the Act.
+
+**4.** (1) The Secretary of State may issue in respect of any person to whom article 3 of this Order applies a permit authorising him to enter into a specially protected area.
+
+(2) The provisions of subsections (2) to (8) of section 3 of the Act shall apply in respect of such a permit as if it were a permit issued under that section.
+
+(3) Any person who—
+
+- (a) fails to comply with a requirement imposed on him by a permit in accordance with section 3(4) of the Act, as it applies in respect of a permit issued under paragraph (1) of this article, or
+- (b) in any report made by him in pursuance of such a requirement knowingly or recklessly makes a statement which is false in a material particular,
+
+shall be guilty of an offence.
+
+**5.** Any person who commits an offence under article 3 or 4 of this Order shall be liable on summary conviction to a fine not exceeding £400.
+
+G. I. de Deney
+
+Clerk of the Privy Council
+
+(This note is not part of the Order)
+
+This Order makes it an offence to enter, without a permit, into a specially protected area designated under section 7(2) of the Antarctic Treaty Act 1967 (being an area of outstanding scientific interest for purposes of the Agreed Measures for the Conservation of Antarctic Fauna and Flora). It also makes provision with respect to permits authorising entry into such areas.
+
+## Annotations
+
+[^f00001]: Footnote: [1967 c. 65](https://www.legislation.gov.uk/ukpga/1967/65).
+
+[^f00002]: Footnote: [1981 c. 61](https://www.legislation.gov.uk/ukpga/1981/61).
+
+[^f00003]: Footnote: [1985 c. 15](https://www.legislation.gov.uk/ukpga/1985/15).

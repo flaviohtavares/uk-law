@@ -1,0 +1,136 @@
+---
+title: The Police Reform Act 2002 (Commencement No. 1) Order 2002
+id: uksi/2002/2306
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2002-09-05'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2002/2306
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2002/2306/pdfs/uksi_20022306_en.pdf
+- http://www.legislation.gov.uk/uksi/2002/2306/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Police Reform Act 2002 (Commencement No. 1) Order 2002
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2002 No. 2306 (C. 75)
+
+POLICE
+
+The Police Reform Act 2002 (Commencement No. 1) Order 2002
+
+Made
+
+5th September 2002
+
+In exercise of the powers conferred upon him by section 108(2) of the Police Reform Act 2002[^f00001], the Secretary of State hereby makes the following Order:
+
+**1.** (1) This Order may be cited as the Police Reform Act 2002 (Commencement No. 1) Order 2002.
+
+(2) In this Order, “the 2002 Act” means the Police Reform Act 2002.
+
+**2.** The following provisions of the 2002 Act shall come into force on 1st October 2002—
+
+- (a) Part 1 and Schedule 1 (powers of the Secretary of State);
+- (b) in Part 2 (complaints and misconduct)—
+  - (i) section 9(2) to (4) (Independent Police Complaints Commission) for the purpose of making appointments, and section 9(6) in so far as necessary for the purposes of sub-paragraph (ii) below;
+  - (ii) paragraph 5(5) of Schedule 2 (chief executive of IPCC);
+  - (iii) section 13 (handling of complaints and conduct matters) in so far as necessary for the purposes of article 4(e) below;
+  - (iv) section 14(2) and (3) (guidance);
+  - (v) section 19 (order authorising use of investigatory powers);
+  - (vi) section 23 (regulations) and section 24 (consultation on regulations) except paragraph (a);
+  - (vii) section 25 (NCIS and NCS) except subsection (4); and
+  - (viii) sections 28 (transitional arrangements) and 29 (interpretation of Part 2);
+- (c) in Part 3 (removal, suspension and disciplining of police officers)—
+  - (i) section 34 (regulations concerning procedure for removal of senior officers);
+  - (ii) section 35 (disciplinary regulations for special constables); and
+  - (iii) section 36 (conduct of disciplinary proceedings);
+- (d) in Part 4 (police powers etc)—
+  - (i) section 39(9), (10) and (11)(a), (b) and (d) (regulations concerning complaints against contracted-out staff);
+  - (ii) section 43 (railway safety accreditation scheme);
+  - (iii) section 47 (interpretation of Chapter 1);
+  - (iv) sections 48 and 49 and Schedule 6 (powers of arrest);
+  - (v) sections 56, 57(1) to (5) except for the words “or a registered health care professional” in subsection (3) and 58(4) to (8) (specimens taken from persons incapable of consenting);
+  - (vi) section 60 (regulations for retention of vehicles);
+  - (vii) sections 75 and 76 (British Transport Police); and
+  - (viii) section 77 (application of Police (Property) Act 1897 to NCS);
+- (e) in Part 5 (Ministry of Defence Police), sections 78, 80 and 81;
+- (f) in Part 6 (miscellaneous)—
+  - (i) section 82(4) (regulations as to nationality);
+  - (ii) section 83 (attestation);
+  - (iii) section 85 (Director General of NCIS);
+  - (iv) sections 88, 89, 90(3), (5) to (7), 91(3) and (5) to (7) (regulations for NCIS and NCS);
+  - (v) in section 92(1) (three-year strategy plans), new section 6A(14) and (15) of the Police Act 1996[^f00002];
+  - (vi) section 93 (quorum for NCIS and NCS Service Authorities);
+  - (vii) section 94 (expenses of members of police authorities);
+  - (viii) section 97(10), (11), (13) and (14) (crime and disorder reduction partnerships);
+  - (ix) section 99 (power to modify functions and structure of PITO);
+  - (x) section 101 (provision of goods and services by police authorities);
+  - (xi) section 102(1) to (6) (liability for wrongful acts of constables);
+  - (xii) section 103(1) to (3) and (5) to (7) (liability in respect of members of teams); and
+  - (xiii) section 104(1) and (3) (assaults on members of teams);
+- (g) in Part 7 (supplemental)—
+  - (i) section 107 (consequential amendments and repeals) in so far as it relates to the entries in Schedules 7 and 8 in sub-paragraphs (ii) and (iii) below;
+  - (ii) paragraphs 7(4), 11, 12, 14, 16, 17 and 21(1) and (2) of Schedule 7; and
+  - (iii) in Schedule 8 (repeals), the entries relating to:
+- (a) the Road Traffic Act 1988;
+- (b) the Official Secrets Act 1989;
+- (c) section 62(1B) of the Police Act 1996;
+- (d) sections 6, 9A and 55A of the Police Act 1997;
+- (e) the Protection from Harassment Act 1997;
+- (f) sections 32 and 84 of the Crime and Disorder Act 1998;
+- (g) the Football (Offences and Disorder) Act 1999;
+- (h) the Countryside and Rights of Way Act 2000;
+- (i) the Criminal Justice and Court Services Act 2000;
+- (j) sections 12, 46 and 71 of the Criminal Justice and Police Act 2001; and
+- (k) the Anti-terrorism, Crime and Security Act 2001.
+
+**3.** The following provisions of the 2002 Act shall come into force on 1st October 2002 in England only—
+
+- (a) section 97(1), (3), (4), (7) and (9) (crime and disorder reduction partnerships); and
+- (b) section 98 (Secretary of State’s role in relation to strategies).
+
+**4.** The following provisions of the 2002 Act shall come into force on 1st October 2002 for the purpose of making regulations or orders—
+
+- (a) section 17(1) and (5) (provision of information);
+- (b) section 20(5) to (8) (duty to keep complainant informed);
+- (c) section 21(10) to (12) (duty to provide information for other persons);
+- (d) sections 54(2) and (3), 55(3) and (4) and 58(3) and (10) (blood specimens); and
+- (e) Schedule 3 (handling of complaints and conduct matters).
+
+**5.** The following provisions of the 2002 Act shall come into force on 1st November 2002—
+
+- (a) section 84 (delegation of functions in relation to senior appointments); and
+- (b) section 92 (three-year strategy plans) to the extent not already in force.
+
+John Denham
+
+Minister of State
+
+Home Office
+
+5th September 2002
+
+(This note is not part of the Order)
+
+This Order brings into force the provisions of the Police Reform Act 2002 set out in article 2 on 1st October 2002 either generally or to the extent specified.
+
+The provisions set out in article 3 are brought into force on that date in England only.
+
+The provisions set out in article 4 are brought into force on that date for the purposes of making regulations and orders only.
+
+The provisions set out in article 5 are brought into force on 1st November 2002.
+
+## Annotations
+
+[^f00001]: Footnote: [2002 c. 30](https://www.legislation.gov.uk/ukpga/2002/30).
+
+[^f00002]: Footnote: [1996 c. 16](https://www.legislation.gov.uk/ukpga/1996/16).

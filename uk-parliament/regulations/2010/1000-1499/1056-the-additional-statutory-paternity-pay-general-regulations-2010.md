@@ -1,0 +1,877 @@
+---
+title: The Additional Statutory Paternity Pay (General) Regulations 2010
+id: uksi/2010/1056
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2010-03-25'
+text_date: '2024-01-04'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/uksi/2010/1056
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2010/1056/pdfs/uksiem_20101056_en.pdf
+- http://www.legislation.gov.uk/uksi/2010/1056/pdfs/uksi_20101056_301114_en.pdf
+- http://www.legislation.gov.uk/uksi/2010/1056/pdfs/uksi_20101056_en.pdf
+- http://www.legislation.gov.uk/uksi/2010/1056/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Additional Statutory Paternity Pay (General) Regulations 2010
+
+> Text as at 2024-01-04.
+>
+> Extent: England, Wales, Scotland.
+
+*Extent: E+W+S*
+
+2010 No. 1056
+
+Terms And Conditions Of Employment
+
+The Additional Statutory Paternity Pay (General) Regulations 2010
+
+Made
+
+25th March 2010
+
+Coming into force
+
+6th April 2010
+
+[^c2024007][^c2024008]The Secretary of State makes the following Regulations in exercise of the powers conferred by sections 171ZEA(1), (2), and (3), 171ZEB(1), (2) and (3), 171ZEC(1) and (3), 171ZED(2) and (3), 171ZEE(2), (4) and (7), 171ZG(3), 171ZJ(3), (4), (7) and (8) and 175(4) of the Social Security Contributions and Benefits Act 1992 and by section 5(1)(g)(i) and (p) of the Social Security Administration Act 1992 and with the concurrence of the Commissioners for Her Majesty's Revenue and Customs in so far as such concurrence is required.
+
+[^c2024009]This instrument contains only regulations made by virtue of, or consequential upon, sections 6 to 10 of the Work and Families Act 2006 and is made before the end of the period of 6 months beginning with the coming into force of those enactments .
+
+In accordance with section 176(1) of the Social Security Contributions and Benefits Act 1992, a draft of these Regulations was laid before Parliament and approved by a resolution of each House of Parliament.[^key-5a4dd085ee9cdc8c54a8e653a6fff84e][^key-6215a4d32055aad115832a819b708c05]
+
+## PART 1 — INTRODUCTION
+
+### 1. Citation and commencement
+
+These Regulations may be cited as the Additional Statutory Paternity Pay (General) Regulations 2010 and come into force on 6th April 2010.
+
+### 2. Interpretation
+
+(1) In these Regulations—
+
+- “**the Act**” means the Social Security Contributions and Benefits Act 1992;
+- “**actual week of birth**”, in relation to a child, means the week beginning with midnight between Saturday and Sunday, in which the child is born;
+- “**additional statutory paternity pay**” means additional statutory paternity pay (adoption) or additional statutory paternity pay (birth);
+- “**additional statutory paternity pay (adoption)**” means additional statutory paternity pay payable in accordance with the provisions of Part 12ZA of the Act where the conditions specified in section 171ZEB(2) of the Act are satisfied;
+- “**additional statutory paternity pay (birth)**” means additional statutory paternity pay payable in accordance with the provisions of Part 12ZA of the Act where the conditions specified in section 171ZEA(2) of the Act are satisfied;
+- “**additional statutory paternity pay period**” means an additional statutory paternity pay period (adoption) or an additional statutory paternity pay period (birth);
+- “**additional statutory paternity pay period (adoption)**” means the period in respect of which additional statutory paternity pay (adoption) is payable;
+- “**additional statutory paternity pay period (birth)**” means the period in respect of which additional statutory paternity pay (birth) is payable;
+- “**adopter**”, in relation to a child, means a person who has been matched with a child for adoption and who has elected to take adoption leave in order to care for the child;
+- “**adoption agency**” has the meaning given, in relation to England and Wales, by section 2 of the Adoption and Children Act 2002 [^c2024010] and, in relation to Scotland, by section 119(1) of the Adoption and Children (Scotland) Act 2007 [^c2024011];
+- “**adoption leave**” means ordinary adoption leave under section 75A of the Employment Rights Act 1996 [^c2024012] or additional adoption leave under section 75B of that Act;
+- “**adoption pay period**” has the meaning given by regulation 21 of the Statutory Paternity Pay and Statutory Adoption Pay (General) Regulations 2002 [^c2024013];
+- “**child**” means a person who is, or when placed with an adopter for adoption was, under the age of eighteen;
+- “**the Commissioners**” means the Commissioners for Her Majesty's Revenue and Customs;
+- “**the Contributions Regulations**” means the Social Security (Contributions) Regulations 2001 [^c2024014];
+- “**expected week of birth**”, in relation to a child, means the week, beginning with midnight between Saturday and Sunday, in which, as appropriate, it is expected that the child will be born, or was expected that the child would be born;
+- “**maternity allowance period**” means the period for which maternity allowance is payable under section 35 of the Act;
+- “**maternity pay period**” has the meaning given by regulation 2 of the Statutory Maternity Pay (General) Regulations 1986 [^c2024015];
+- “**ordinary statutory paternity pay**” means ordinary statutory paternity pay payable in accordance with the provisions of Part 12ZA of the Act where the conditions specified in section 171ZA(2) or 171ZB(2) are satisfied;
+- “**partner**”, in relation to a child's mother or adopter, means a person (whether of a different sex or the same sex) who lives with the mother or adopter and the child in an enduring family relationship but is not a relative of the mother or adopter of a kind specified in paragraph (2); and
+- “**processing**”, in relation to information, has the meaning given by section 1(1) of the Data Protection Act 1998 [^c2024016].
+
+(2) The relatives of a child's mother or adopter referred to in the definition of “partner” in paragraph (1) are the mother's or adopter's parent, grandparent, sister, brother, aunt or uncle.
+
+(3) References to relationships in paragraph (2)—
+
+- (a) are to relationships of the full blood or half blood or, in the case of an adopted person, such of those relationships as would exist but for the adoption, and
+- (b) include the relationship of a child with his adoptive, or former adoptive parents, but do not include any other adoptive relationships.
+
+(4) References to Part 12ZA of the Act in these Regulations are references to sections 171ZEA to 171ZEE and, in so far as they concern additional statutory paternity pay, to sections 171ZF to 171ZJ of the Act.
+
+(5) For the purposes of these Regulations—
+
+- (a) a person is matched with a child for adoption when an adoption agency decides that that person would be a suitable adoptive parent for the child, and
+- (b) a person is notified of having been matched with a child on the date on which that person receives notification of the agency's decision, under regulation 33(3)(a) of the Adoption Agencies Regulations 2005 [^c2024017], regulation 28(3) of the Adoption Agencies (Wales) Regulations 2005 [^c2024018] or regulation 24 of the Adoption Agencies (Scotland) Regulations 2009 [^c2024019].
+
+### 3. Application
+
+Subject to the provisions of Part 12ZA of the Act and of these Regulations, there is entitlement to—
+
+- (a) additional statutory paternity pay (birth) in respect of children whose expected week of birth begins on or after 3rd April 2011;
+- (b) additional statutory paternity pay (adoption) in respect of children matched with a person who is notified of having been matched on or after 3rd April 2011.
+
+## PART 2 — ADDITIONAL STATUTORY PATERNITY PAY (BIRTH)
+
+### 4. Entitlement to additional statutory paternity pay (birth)
+
+(1) A person (“P”) is entitled to additional statutory paternity pay (birth) if—
+
+- (a) P satisfies the conditions–
+  - (i) as to relationship with a child (“C”) and with C's mother (“M”) specified in paragraph (2); and
+  - (ii) as to continuity of employment and normal weekly earnings specified in paragraph (3);
+- (b) M satisfies the conditions specified in regulation 6;
+- (c) P intends to care for C during the additional statutory paternity pay period (birth) in respect of C;
+- (d) M has signed the declaration referred to in regulation 8(1)(c); and
+- (e) P has complied with the requirements of regulation 8 including, where applicable, the requirements in regulation 8(3).
+
+(2) The conditions referred to in paragraph (1)(a)(i) are that—
+
+- (a) P is either—
+  - (i) C's father; or
+  - (ii) is married to, or is the civil partner or the partner of, M but is not C's father; and
+- (b) P has, or expects to have, the main responsibility (apart from any responsibility of M) for the upbringing of C.
+
+(3) Subject to regulation 5, the conditions referred to in paragraph (1)(a)(ii) are that—
+
+- (a) P has been in employed earner's employment with an employer for a continuous period of at least 26 weeks ending with the relevant week;
+- (b) P's normal weekly earnings for the period of eight weeks ending with the relevant week are not less than the lower earnings limit in force under section 5(1)(a) of the Act at the end of the relevant week; and
+- (c) P continues in employed earner's employment with the employer by reference to whom the condition in sub-paragraph (a) is satisfied for a continuous period beginning with the relevant week and ending with the week before the additional statutory paternity pay period (birth) in respect of C begins.
+
+(4) The references in paragraph (3) to the relevant week are to the week immediately preceding the 14th week before C's expected week of birth.
+
+### 5. Modification of entitlement conditions: early birth
+
+(1) Where C's birth occurs earlier than the 14th week before C's expected week of birth, regulation 4(3) shall have effect as if, for the conditions set out there, there were susbstituted the conditions that—
+
+- (a) P would have been in employed earner's employment with an employer for a continuous period of at least 26 weeks ending with the relevant week had C been born after the relevant week;
+- (b) P's normal weekly earnings for the period of eight weeks ending with the week immediately preceding C's actual week of birth are not less than the lower earnings limit in force under section 5(1)(a) of the Act immediately before the commencement of C's actual week of birth; and
+- (c) P continues in employed earner's employment with the employer by reference to whom the condition in sub-paragraph (a) is satisfied for a continuous period beginning with the date of C's birth and ending with the week before the additional statutory paternity pay period (birth) in respect of C begins.
+
+(2) The references in paragraph 5(1)(a) to the relevant week are to the week immediately preceding the 14th week before C's expected week of birth.
+
+### 6. Conditions to be satisfied by the child's mother
+
+The conditions referred to in regulation 4(1)(b) are that M—
+
+- (a) became entitled, by reference to becoming pregnant with C, to—
+  - (i) a maternity allowance, or
+  - (ii) statutory maternity pay;
+- (b) has taken action constituting a return to work within the meaning of regulation 19;
+- (c) has taken the action referred to in paragraph (b) not less than two weeks after the birth of C; and
+- (d) has at least two weeks of her maternity allowance period or maternity pay period which remain unexpired.
+
+### 7. Additional statutory paternity pay period (birth)
+
+(1) For the purposes of section 171ZEE(2)(a) of the Act, the date on which the additional statutory paternity pay period (birth) in respect of C begins is—
+
+- (a) the date specified by P in accordance with regulation 8(2)(d) or last varied in accordance with regulation 8(6), or
+- (b) if later, the date of M's taking action constituting a return to work within the meaning of regulation 19,
+
+being, in either case, a date which falls no earlier than 20 weeks after the date of C's birth.
+
+(2) For the purposes of section 171ZEE(2)(b)(ii) of the Act, the date on which the additional statutory paternity pay period (birth) in respect of C ends is the date specified by P in accordance with regulation 8(2)(e) or last varied in accordance with regulation 8(6).
+
+(3) For the purposes of section 171ZEE(4)(a) of the Act, the additional statutory paternity pay period (birth) shall not last longer than 26 weeks.
+
+(4) This paragraph applies instead of paragraph (2) where—
+
+- (a) M dies after the beginning but before the end of the additional statutory paternity pay period (birth) in respect of C; and
+- (b) as soon as reasonably practicable after M's death, P gives the person paying P additional statutory paternity pay (birth) notice in writing of M's death.
+
+(5) Where paragraph (4) applies, the date on which the additional statutory paternity pay period (birth) in respect of C ends is the date—
+
+- (a) on which the maternity allowance period or maternity pay period in respect of C, which would have applied but for M's death, would have ended; or
+- (b) if earlier, such date which, for the purposes of section 171ZEE(2)(b)(ii) of the Act, P may specify in the notice given under paragraph (4)(b).
+
+### 8. Application for, and evidence of entitlement to, additional statutory paternity pay (birth)
+
+(1) P shall apply for additional statutory paternity pay (birth) to the person (“E”) who will be liable to pay P such pay by providing to E—
+
+- (a) the information, in writing, specified in paragraph (2);
+- (b) a written declaration, signed by P–
+  - (i) that that information is correct;
+  - (ii) that P intends to care for C during the additional statutory paternity pay period (birth) in respect of C; and
+  - (iii) that P meets the conditions in regulation 4(2); and
+- (c) a written declaration, signed by M—
+  - (i) that she has given notice to her employer that she is returning to work;
+  - (ii) that she satisfies the condition in regulation 6(a);
+  - (iii) specifying her name, address and National Insurance number;
+  - (iv) specifying the start date of her maternity allowance period or maternity pay period in respect of C;
+  - (v) specifying the date on which she intends to return to work;
+  - (vi) confirming that, in relation to C, P is, to M's knowledge, the sole applicant for additional statutory paternity pay; and
+  - (vii) providing M's consent as regards the processing by E of the information provided pursuant to paragraphs (i) to (vi).
+
+(2) The information referred to in paragraph (1)(a) is as follows—
+
+- (a) P's name;
+- (b) C's expected week of birth;
+- (c) C's date of birth;
+- (d) the date on which P expects that E's liability to pay additional statutory paternity pay (birth) will begin; and
+- (e) the date on which P expects that E's liability to pay additional statutory paternity pay (birth) will end.
+
+(3) P shall also provide, if E so requests within 28 days of receiving the information and declarations referred to in paragraph (1)—
+
+- (a) a copy of C's birth certificate; and
+- (b) the name and business address of M's employer (or, if M is self-employed, her business address).
+
+(4) The information and declarations referred to in paragraph (1) must be provided to E at least eight weeks before the date specified by P pursuant to paragraph (2)(d).
+
+(5) P must give E what is requested under paragraph (3) within 28 days of E requesting it.
+
+(6) P may, after applying for additional statutory paternity pay (birth) under paragraph (1), withdraw that application, vary the date on which it is expected that E's liability to pay additional statutory paternity pay (birth) will begin, or (before the additional statutory paternity pay period (birth) in respect of C has begun), vary the date on which it is expected that E's liability to pay additional statutory paternity pay will end, by notice in writing to E given—
+
+- (a) if withdrawing an application, at least six weeks before the date specified by P pursuant to paragraph (2)(d), or
+- (b) if varying the date on which it is expected that E's liability to pay additional statutory paternity pay (birth) will begin, at least six weeks before the earlier of the date varied or the new date, or
+- (c) if varying the date on which it is expected that E's liability to pay additional statutory paternity pay (birth) will end, at least six weeks before the earlier of the date varied or the new date, or
+- (d) in a case where it was not reasonably practicable to give notice in accordance with sub-paragraph (a), (b) or (c), as soon as is reasonably practicable.
+
+(7) When P has applied for additional statutory paternity pay (birth) under paragraph (1), P must give E written notice as soon as reasonably practicable if at any time—
+
+- (a) P no longer satisfies the conditions in regulation 4(2); or
+- (b) M no longer intends to take action constituting a return to work within the meaning of regulation 19.
+
+(8) When E has been provided with all of the information and the declarations referred to in paragraph (1) (together with, if applicable, what E has requested under paragraph (3)), E must, within 28 days, confirm the start and end dates of E's liability to pay P additional statutory paternity pay (birth) by notice in writing to P.
+
+### 9. Entitlement to additional statutory paternity pay (birth) in the event of the death of the mother
+
+(1) In a case where M dies before the end of her maternity allowance period or maternity pay period in respect of C (but before the additional statutory paternity pay period (birth) in respect of C has begun)—
+
+- (a) the provisions in regulations 4 to 6 shall apply, subject to the following modifications—
+  - (i) regulation 4(1)(d) shall not apply;
+  - (ii) regulation 4(1)(e) shall apply—
+    - (aa) as if the references to regulation 8 were references to regulation 10; and
+    - (bb) in a case where the date of which P informs E pursuant to regulation 10(1)(a) is earlier than the date by which P has complied with the other requirements of regulation 10, as if such other requirements had been complied with on such earlier date provided that they are complied with as soon as reasonably practicable thereafter;
+  - (iii) the condition in regulation 4(2)(a)(ii) shall be taken to be satisfied if it would have been satisfied but for the fact that M had died;
+  - (iv) the condition in regulation 6(a) shall be taken to be satisfied if M would have satisfied it but for the fact that M had died; and
+  - (v) regulation 6(b), (c) and (d) shall not apply;
+- (b) regulation 7 shall not apply;
+- (c) for the purposes of section 171ZEE(2)(a) of the Act, the date on which the additional statutory paternity pay period (birth) in respect of C begins is such date, being the date of M's death or a later date, as P informs E of in accordance with regulation 10(1)(a) or as is last varied in accordance with regulation 10(7) or 10(8);
+- (d) for the purposes of section 171ZEE(2)(b)(ii) of the Act, the date on which the additional statutory paternity pay period (birth) in respect of C ends is, where earlier than the relevant date, the date specified by P in accordance with regulation 10(2)(d) or last varied in accordance with regulation 10(7) or 10(8);
+- (e) for the purposes of section 171ZEE(4)(a) of the Act, the additional statutory paternity pay period (birth) in respect of C shall not last longer than 39 weeks; and
+- (f) regulation 8 shall be replaced by regulation 10.
+
+(2) In paragraph (1)(d), “**the relevant date**” means the date on which the maternity allowance period or maternity pay period in respect of C which would have applied but for M's death, would have ended.
+
+(3) References in this regulation to M's maternity allowance period or maternity pay period in respect of C include, where M's death occurred before her maternity allowance period or maternity pay period in respect of C started, references to such period as would have existed but for the fact that M had died.
+
+### 10. Application for, and evidence of entitlement to, additional statutory paternity pay (birth) in the event of the death of the mother
+
+(1) P shall apply for additional statutory paternity pay (birth) to the person (“E”) who will be liable to pay P such pay by—
+
+- (a) informing E of the date on which P wishes the additional statutory paternity pay period (birth) in respect of C to begin or the date (if in the past) on which P wishes such period to have begun;
+- (b) providing E with the information, in writing, specified in paragraph (2); and
+- (c) providing E with a written declaration, signed by P—
+  - (i) that the information referred to in sub-paragraph (b) is correct;
+  - (ii) that P intends to care for C during the additional statutory paternity pay period (birth) in respect of C; and
+  - (iii) that P meets the conditions in regulation 4(2) (as modified by regulation 9(1)(a)(iii)).
+
+(2) The information referred to in paragraph (1)(b) is as follows—
+
+- (a) P's name;
+- (b) C's expected week of birth;
+- (c) C's date of birth;
+- (d) the date on which P expects that E's liability to pay additional statutory paternity pay (birth) will end;
+- (e) M's name, address, and national insurance number;
+- (f) the start date of M's maternity pay period or maternity allowance period in respect of C, or, where M's death occurred before her maternity allowance period or maternity pay period in respect of C started, the date that that period would have started but for the fact that M had died; and
+- (g) the date of M's death.
+
+(3) P shall also provide, if E so requests within 28 days of receiving the information and declaration referred to in paragraph (1)—
+
+- (a) a copy of C's birth certificate; and
+- (b) the name and business address of M's employer (or, if M was self-employed, her business address).
+
+(4) Subject to paragraph (5), the information and declaration referred to in paragraph (1) must be provided to E as soon as reasonably practicable after, and in any event within eight weeks of, the date of M's death.
+
+(5) If provided at least six weeks before the date of which P informs E pursuant to paragraph (1)(a), the information and declaration referred to in paragraph (1)(b) and (c) may be provided more than eight weeks after the date of M's death.
+
+(6) P must give E what is requested under paragraph (3) within 28 days of E requesting it.
+
+(7) Within eight weeks of the date of M's death, P may, after applying for additional statutory paternity pay (birth) under paragraph (1) and by giving E notice in writing, withdraw that application, vary the date (if in the future) on which P wishes the additional statutory paternity pay period (birth) in respect of C to begin, or (either before or after such period has begun) vary the date on which it is expected that E's liability to pay additional statutory paternity pay (birth) will end, with immediate effect.
+
+(8) More than eight weeks after the date of M's death, P may, after applying for additional statutory paternity pay (birth) under paragraph (1), withdraw that application, vary the date (if in the future) on which P wishes the additional statutory paternity pay period (birth) in respect of C to begin, or (before such period has begun), vary the date on which it is expected that E's liability to pay additional statutory paternity pay (birth) will end, by notice in writing to E given—
+
+- (a) if withdrawing an application, at least six weeks before the date of which P has informed E pursuant to paragraph (1)(a), or
+- (b) if varying the date on which P wishes the additional statutory paternity pay period (birth) in respect of C to begin, at least six weeks before the earlier of the date varied or the new date, or
+- (c) if varying the date on which it is expected that E's liability to pay additional statutory paternity pay (birth) will end, at least six weeks before the earlier of the date varied or the new date, or
+- (d) in a case where it was not reasonably practicable to give notice in accordance with sub-paragraph (a), (b) or (c), as soon as is reasonably practicable.
+
+(9) When E has been provided with all of the information and the declaration referred to in paragraph (1) (together with, if applicable, what E has requested under paragraph (3)), E must, within 28 days, confirm the date on which the additional statutory paternity pay period (birth) in respect of C begins or began and the date on which E's liability to pay P additional statutory paternity pay (birth) ends, by notice in writing to P.
+
+### 11. Entitlement to additional statutory paternity pay (birth) where there is more than one employer
+
+(1) Additional statutory paternity pay (birth) shall be payable to a person in respect of a statutory pay week during any part of which that person works only for an employer—
+
+- (a) who is not liable to pay that person additional statutory paternity pay (birth); and
+- (b) for whom that person worked in the week immediately preceding the 14th week before the expected week of birth.
+
+(2) In this regulation, “**statutory pay week**” means a week that that person has chosen as a week in respect of which additional statutory paternity pay (birth) shall be payable.
+
+## PART 3 — ADDITIONAL STATUTORY PATERNITY PAY (ADOPTION)
+
+### 12. Entitlement to additional statutory paternity pay (adoption)
+
+(1) A person (“P”) is entitled to additional statutory paternity pay (adoption) if—
+
+- (a) P satisfies the conditions—
+  - (i) as to relationship with a child placed for adoption (“C”) and the child's adopter (“A”) specified in paragraph (2); and
+  - (ii) as to continuity of employment and normal weekly earnings specified in paragraph (3);
+- (b) A satisfies the conditions specified in regulation 13;
+- (c) P intends to care for C during the additional statutory paternity pay period (adoption) in respect of C;
+- (d) A has signed the declaration referred to in regulation 15(1)(c); and
+- (e) P has complied with the requirements in regulation 15, including, where applicable, the requirements in regulation 15(3).
+
+(2) The conditions referred to in paragraph (1)(a)(i) are that—
+
+- (a) P is married to, or is the civil partner or the partner of, A; and
+- (b) P has been matched with C for adoption.
+
+(3) The conditions referred to in paragraph (1)(a)(ii) are that—
+
+- (a) P has been in employed earner's employment with an employer for a continuous period of at least 26 weeks ending with the relevant week;
+- (b) P's normal weekly earnings for the period of eight weeks ending with the relevant week are not less than the lower earnings limit in force under section 5(1)(a) of the Act at the end of the relevant week; and
+- (c) P continues in employed earner's employment with the employer by reference to whom the condition in sub-paragraph (a) is satisfied for a continuous period beginning with the relevant week and ending with the week before the additional statutory paternity pay period (adoption) in respect of C begins.
+
+(4) The references in paragraph (3) to the relevant week are to the week in which P was notified of having been matched with C.
+
+### 13. Conditions to be satisfied by the child's adopter
+
+The conditions referred to in regulation 12(1)(b) are that A—
+
+- (a) became entitled, by reference to the adoption of C, to statutory adoption pay;
+- (b) has taken action constituting a return to work within the meaning of regulation 19;
+- (c) has taken the action referred to in paragraph (b) not less than two weeks after the date C was placed for adoption with A; and
+- (d) has at least two weeks of their adoption pay period which remain unexpired.
+
+### 14. Additional statutory paternity pay period (adoption)
+
+(1) For the purposes of section 171ZEE(2)(a) of the Act, the date on which the additional statutory paternity pay period (adoption) in respect of C begins is—
+
+- (a) the date specified by P in accordance with regulation 15(2)(d) or last varied in accordance with regulation 15(6); or
+- (b) if later, the date of A's taking action constituting a return to work within the meaning of regulation 19,
+
+being, in either case, a date which falls no earlier than 20 weeks after[^key-f55de9216185c6ededb65d1ec283a9b5] the date on which C was placed for adoption.
+
+(2) For the purposes of section 171ZEE(2)(b)(ii) of the Act, the date on which the additional statutory paternity pay period (adoption) in respect of C ends is the date specified by P in accordance with regulation 15(2)(e) or last varied in accordance with regulation 15(6).
+
+(3) For the purposes of section 171ZEE(4)(a) of the Act, the additional statutory paternity pay period (adoption) in respect of C shall not last longer than 26 weeks.
+
+(4) This paragraph applies instead of paragraph (2) where—
+
+- (a) A dies after the beginning but before the end of the additional statutory paternity pay period (adoption) in respect of C; and
+- (b) as soon as reasonably practicable after A's death, P gives the person paying P additional statutory paternity pay (adoption) notice in writing of A's death.
+
+(5) Where paragraph (4) applies, the date on which the additional statutory paternity pay period (adoption) in respect of C ends is the date—
+
+- (a) on which the adoption pay period in respect of C, which would have applied but for A's death, would have ended; or
+- (b) if earlier, such date which, for the purposes of section 171ZEE(2)(b)(ii) of the Act, P may specify in the notice given under paragraph (4)(b).
+
+### 15. Application for, and evidence of entitlement to, additional statutory paternity pay (adoption)
+
+(1) P shall apply for additional statutory paternity pay (adoption) to the person (“E”) who will be liable to pay P such pay by providing to E—
+
+- (a) the information, in writing, specified in paragraph (2);
+- (b) a written declaration, signed by P—
+  - (i) that that information is correct;
+  - (ii) that P intends to care for C during the additional statutory paternity pay period (adoption) in respect of C; and
+  - (iii) that P meets the conditions in regulation 12(2);
+- (c) a written declaration, signed by A—
+  - (i) that they have given notice to their employer that they are returning to work;
+  - (ii) that they satisfy the condition in regulation 13(a);
+  - (iii) specifying their name, address and National Insurance Number;
+  - (iv) specifying the start date of their adoption pay period in respect of C;
+  - (v) specifying the date on which they intend to return to work;
+  - (vi) confirming that, in relation to C, P is, to A's knowledge, the sole applicant for additional statutory paternity pay; and
+  - (vii) providing A's consent as regards the processing by E of the information provided pursuant to paragraphs (i) to (vi).
+
+(2) The information referred to in paragraph (1)(a) is as follows—
+
+- (a) P's name;
+- (b) the date on which P was notified that they had been matched with C;
+- (c) the date of C's placement for adoption;
+- (d) the date on which P expects that E's liability to pay additional statutory paternity pay (adoption) will begin; and
+- (e) the date on which P expects that E's liability to pay additional statutory paternity pay (adoption) will end.
+
+(3) P shall also provide, if E so requests within 28 days of receiving the information and declarations referred to in paragraph (1)—
+
+- (a) evidence, in the form of one or more documents issued by the adoption agency that matched P with C, of —
+  - (i) the name and address of the agency;
+  - (ii) the date on which P was notified that they had been matched with C; and
+  - (iii) the date on which the agency was expecting to place C with A and P; and
+- (b) the name and business address of A's employer (or, if A is self-employed, A's business address).
+
+(4) The information and declarations referred to in paragraph (1) must be provided to E at least eight weeks before the date specified by P pursuant to paragraph (2)(d).
+
+(5) P must give E what is requested under paragraph (3) within 28 days of E requesting it.
+
+(6) P may, after applying for additional statutory paternity pay (adoption) under paragraph (1), withdraw that application, vary the date on which it is expected that E's liability to pay additional statutory paternity pay (adoption) will begin, or (before the additional statutory paternity pay period (adoption) in respect of C has begun) vary the date on which it is expected that E's liability to pay additional statutory paternity pay (adoption) will end, by notice in writing to E given—
+
+- (a) if withdrawing an application, at least six weeks before the date specified by P pursuant to paragraph (2)(d), or
+- (b) if varying the date on which it is expected that E's liability to pay additional statutory paternity pay (adoption) will begin, at least six weeks before the earlier of the date varied or the new date, or
+- (c) if varying the date on which it is expected that E's liability to pay additional statutory paternity pay (adoption) will end, at least six weeks before the earlier of the date varied or the new date, or
+- (d) in a case where it was not reasonably practicable to give notice in accordance with sub-paragraph (a), (b) or (c), as soon as is reasonably practicable.
+
+(7) When P has applied for additional statutory paternity pay (adoption) under paragraph (1), P must give E written notice as soon as reasonably practicable if at any time—
+
+- (a) P no longer satisfies the conditions in regulation 12(2); or
+- (b) A no longer intends to take action constituting a return to work within the meaning of regulation 19.
+
+(8) When E has been provided with all of the information and the declarations referred to in paragraph (1) (together with, if applicable, what E has requested under paragraph (3)), E must, within 28 days, confirm the start and end dates of E's liability to pay P additional statutory paternity pay (adoption), by notice in writing to P.
+
+### 16. Entitlement to additional statutory paternity pay (adoption) in the event of the death of the adopter
+
+(1) In a case where A dies before the end of their adoption pay period in respect of C (but before the additional statutory paternity pay period (adoption) in respect of C has begun)—
+
+- (a) the provisions in regulations 12 and 13 shall apply, subject to the following modifications—
+  - (i) regulation 12(1)(d) shall not apply;
+  - (ii) regulation 12(1)(e) shall apply—
+    - (aa) as if the references to regulation 15 were references to regulation 17; and
+    - (bb) in a case where the date of which P informs E pursuant to regulation 17(1)(a) is earlier than the date by which P has complied with the other requirements of regulation 17, as if such other requirements had been complied with on such earlier date provided that they are complied with as soon as reasonably practicable thereafter;
+  - (iii) the condition in regulation 12(2)(a) shall be taken to be satisfied if it would have been satisfied but for the fact that A had died;
+  - (iv) the condition in regulation 13(a) shall be taken to be satisfied if A would have satisfied it but for the fact that A had died; and.
+  - (v) regulation 13(b), (c) and (d) shall not apply;
+- (b) regulation 14 shall not apply;
+- (c) for the purposes of section 171ZEE(2)(a) of the Act, the date on which the additional statutory paternity pay period (adoption) in respect of C begins is such date, being the date of A's death or a later date, as P informs E of in accordance with regulation 17(1)(a) or as is last varied in accordance with regulation 17(7) or 17(8);
+- (d) for the purposes of section 171ZEE(2)(b)(ii) of the Act, the date on which the additional statutory paternity pay period (adoption) in respect of C ends is, where earlier than the relevant date, the date specified by P in accordance with regulation 17(2)(d) or last varied in accordance with regulation 17(7) or 17(8);
+- (e) for the purposes of section 171ZEE(4)(a) of the Act, the additional statutory paternity pay period (adoption) in respect of C shall not last longer than 39 weeks; and
+- (f) regulation 15 shall be replaced by regulation 17.
+
+(2) In paragraph (1)(d), “**the relevant date**” means the date on which the adoption pay period in respect of C which would have applied but for A's death, would have ended.
+
+(3) References in this regulation to A's adoption pay period in respect of C include, where A's death occurred before A's adoption pay period in respect of C started, references to such period as would have existed but for the fact that A had died.
+
+### 17. Application for, and evidence of entitlement to, additional statutory paternity pay (adoption) in the event of the death of the adopter
+
+(1) P shall apply for additional statutory paternity pay (adoption) to the person (“E”) who will be liable to pay P such pay by—
+
+- (a) informing E of the date on which P wishes the additional statutory paternity pay period (adoption) in respect of C to begin or the date (if in the past) on which P wishes such period to have begun;
+- (b) providing E with the information, in writing, specified in paragraph (2); and
+- (c) providing E with a written declaration, signed by P—
+  - (i) that the information referred to in sub-paragraph (b) is correct;
+  - (ii) that P intends to care for C during the additional statutory paternity pay period (adoption) in respect of C; and
+  - (iii) that P meets the conditions in regulation 12(2) (as modified by regulation 16(1)(a)(iii)).
+
+(2) The information referred to in paragraph (1)(b) is as follows—
+
+- (a) P's name;
+- (b) the date on which P was notified that they had been matched with C;
+- (c) the date of C's placement for adoption;
+- (d) the date on which P expects that E's liability to pay additional statutory paternity pay (adoption) will end;
+- (e) A's name, address, and National Insurance number;
+- (f) the start date of A's adoption pay period in respect of C or, where A's death occurred before their adoption pay period in respect of C started, the date that that period would have started but for the fact that A had died; and
+- (g) the date of A's death.
+
+(3) P shall also provide, if E so requests within 28 days of receiving the information and declaration referred to in paragraph (1)—
+
+- (a) evidence, in the form of one or more documents issued by the adoption agency that matched P with C, of
+  - (i) the name and address of the agency;
+  - (ii) the date on which P was notified that they had been matched with C; and
+  - (iii) the date on which the agency was expecting to place C with A and P; and
+- (b) the name and business address of A's employer (or, if A was self-employed, A's business address).
+
+(4) Subject to paragraph (5), the information and declaration referred to in paragraph (1) must be provided to E as soon as reasonably practicable after, and in any event within eight weeks of, the date of A's death.
+
+(5) If provided at least six weeks before the date of which P informs E pursuant to paragraph (1)(a), the information and evidence referred to in paragraph (1)(b) and (c) may be provided more than eight weeks after the date of A's death.
+
+(6) P must give E what is requested under paragraph (3) within 28 days of E requesting it.
+
+(7) Within eight weeks of the date of A's death, P may, after applying for additional statutory paternity pay (adoption) under paragraph (1) and by giving E notice in writing, withdraw that application, vary the date (if in the future) on which P wishes the additional statutory paternity pay period (adoption) in respect of C to begin, or (either before or after such period has begun) vary the date on which it is expected that E's liability to pay additional statutory paternity pay (adoption) will end, with immediate effect.
+
+(8) More than eight weeks after the date of A's death, P may, after applying for additional statutory paternity pay (adoption) under paragraph (1), withdraw that application, vary the date (if in the future) on which P wishes the additional statutory paternity pay period (adoption) in respect of C to begin, or (before such period has begun), vary the date on which it is expected that E's liability to pay additional statutory paternity pay (adoption) will end, by notice in writing to E given—
+
+- (a) if withdrawing an application, at least six weeks before the date of which P informs E pursuant to paragraph (1)(a), or
+- (b) if varying the date on which P wishes the additional statutory paternity pay period (adoption) in respect of C to begin, at least six weeks before the earlier of the date varied or the new date, or
+- (c) if varying the date on which it is expected that E's liability to pay additional statutory paternity pay (adoption) will end, at least six weeks before the earlier of the date varied or the new date, or
+- (d) in a case where it was not reasonably practicable to give notice in accordance with sub-paragraph (a), (b) or (c), as soon as is reasonably practicable.
+
+(9) When E has been provided with all of the information and the declaration referred to in paragraph (1) (together with, if applicable, what E has requested under paragraph (3)), E must, within 28 days, confirm the date on which the additional statutory paternity pay period (adoption) in respect of C begins or began and the date on which E's liability to pay P additional statutory paternity pay (adoption) ends, by notice in writing to P.
+
+### 18. Entitlement to additional statutory paternity pay (adoption) where there is more than one employer
+
+(1) Additional statutory paternity pay (adoption) shall be payable to a person in respect of a statutory pay week during any part of which that person works only for an employer—
+
+- (a) who is not liable to pay that person additional statutory paternity pay (adoption); and
+- (b) for whom that person worked in the week immediately preceding the 14th week before the expected week of the placement for adoption.
+
+(2) In this regulation “**statutory pay week**” means a week that that person has chosen in respect of which additional statutory paternity pay (adoption) shall be payable.
+
+## PART 4 — ADDITIONAL STATUTORY PATERNITY PAY: PROVISIONS APPLICABLE TO BOTH ADDITIONAL STATUTORY PATERNITY PAY (BIRTH) AND ADDITIONAL STATUTORY PATERNITY PAY (ADOPTION)
+
+### 19. Return to work
+
+For the purposes of these Regulations, a mother or adopter is treated as returning to work if one of the following situations applies—
+
+- (a) in a case where a mother is entitled to maternity allowance, that allowance is not payable to her by virtue of regulations made under section 35(3)(a)(i) of the Act [^c2024020];
+- (b) in a case where an adopter is entitled to statutory adoption pay, that payment is not payable to that person in accordance with section 171ZN(3) or (5) of the Act [^c2024021];
+- (c) in a case where a mother is entitled to statutory maternity pay, that payment is not payable to her in accordance with section 165(4) or (6) of the Act [^c2024022].
+
+### 20. Work during the additional statutory paternity pay period[^key-e4c107fe3380f6b31b39319f1aaf2310]
+
+(1) In a case where additional statutory paternity pay is being paid to a person who works during the additional statutory paternity pay period for an employer who is not liable to pay that person additional statutory paternity pay and who does not fall within, as appropriate, regulation 11(1)(b) or regulation 18(1)(b), there shall be no liability to pay additional statutory paternity pay in respect of the week in which the person does that work.
+
+(2) In a case falling within paragraph (1), the person shall notify the person liable to pay additional statutory paternity pay within seven days of the first day during which the former works during the additional statutory paternity pay period.
+
+(3) The notification mentioned in paragraph (2) shall be in writing, if the person who has been liable to pay additional statutory paternity pay so requests.
+
+(4) In a case where an employee does any work on any day, under a contract of service with an employer who is liable to pay that employee additional statutory paternity pay, for not more than ten such days during the employee's additional statutory paternity pay period, whether consecutive or not, additional statutory paternity pay shall continue to be payable to the employee by the employer.
+
+### 21. Cases where there is no liability to pay additional statutory paternity pay[^key-4e9a4f179dc6e7f2375456e214cd6900]
+
+(1) There shall be no liability to pay additional statutory paternity pay in respect of any week—
+
+- (a) during any part of which the person entitled to it is entitled to statutory sick pay under Part 11 of the Act;
+- (b) following that in which the person claiming it has died; or
+- (c) subject to paragraph (2), during any part of which the person entitled to it is detained in legal custody or sentenced to a term of imprisonment (except where the sentence is suspended).
+
+(2) There shall be liability to pay additional statutory paternity pay in respect of any week during any part of which the person entitled to it is detained in legal custody where that person—
+
+- (a) is released subsequently without charge;
+- (b) is subsequently found not guilty of any offence and is released; or
+- (c) is convicted of an offence but does not receive a custodial sentence.
+
+### 22. Additional statutory paternity pay and contractual remuneration[^key-e2e601f38de43e894845ca557aa6154d]
+
+(1) For the purposes of section 171ZG(1) and (2) of the Act (as such provisions apply to additional statutory paternity pay), the payments which are to be treated as contractual remuneration are sums payable under a contract of service—
+
+- (a) by way of remuneration;
+- (b) for incapacity for work due to sickness or injury; and
+- (c) by reason of birth or adoption of a child.
+
+### 23. Avoidance of liability for additional statutory paternity pay
+
+(1) A former employer shall be liable to make payments of additional statutory paternity pay to a former employee in any case where the employee had been employed for a continuous period of at least eight weeks and the employee's contract of service was brought to an end by the former employer solely, or mainly, for the purpose of avoiding liability for additional statutory paternity pay or ordinary statutory paternity pay, or both.
+
+(2) In a case falling within paragraph (1)—
+
+- (a) the employee shall be treated as if they had been employed for a continuous period ending with the earliest date that they could have been entitled to additional statutory paternity pay; and
+- (b) their normal weekly earnings shall be calculated by reference to their normal weekly earnings for the period of eight weeks ending with the last day in respect of which they were paid under their former contract of service.
+
+### 24. Treatment of persons as employees[^key-3951763b21217b04c74c3f490886e067]
+
+(1) Subject to paragraph (2), in a case where, and in so far as, a person is treated as an employed earner by virtue of the Social Security (Categorisation of Earners) Regulations 1978 [^c2024023] that person shall be treated as an employee for the purposes of Part 12ZA of the Act, and in a case where, and in so far as, such a person is treated otherwise than as an employed earner by virtue of those regulations, that person shall not be treated as an employee for the purposes of Part 12ZA of the Act.
+
+(2) Paragraph (1) shall have effect in relation to a person who—
+
+- (a) is under the age of 16; and
+- (b) would or, as the case may be, would not have been treated as an employed earner by virtue of the Social Security (Categorisation of Earners) Regulations 1978 had they been over that age,
+
+as it has effect in relation to a person who is or, as the case may be, is not so treated.
+
+(3) A person who is in employed earner's employment under a contract of apprenticeship shall be treated as an employee for the purposes of Part 12ZA of the Act.
+
+(4) A person who is in employed earner's employment but whose employer—
+
+- (a) does not fulfil the conditions prescribed in regulation 145(1) of the Contributions Regulations in so far as that provision relates to residence or presence in Great Britain; or
+- (b) is a person who, by reason of any international treaty to which the United Kingdom is a party or of any international convention binding the United Kingdom—
+  - (i) is exempt from the provisions of the Act; or
+  - (ii) is a person against whom the provisions of the Act are not enforceable,
+
+shall not be treated as an employee for the purposes of Part 12ZA of the Act.
+
+### 25. Continuous employment[^key-3951763b21217b04c74c3f490886e067]
+
+(1) Subject to the following provisions of this regulation, where in any week a person is, for the whole or part of the week—
+
+- (a) incapable of work in consequence of sickness or injury;
+- (b) absent from work on account of a temporary cessation of work;
+- (c) absent from work in circumstances such that, by arrangement or custom, that person is regarded as continuing in the employment of their employer for all or any purposes,
+
+and returns to work for their employer after the incapacity for or absence from work, that week shall be treated for the purposes of sections 171ZEA and 171ZEB of the Act as part of a continuous period of employment with that employer, notwithstanding that no contract of service exists with that employer in respect of that week.
+
+(2) Incapacity for work which lasts for more than 26 consecutive weeks shall not count for the purposes of paragraph (1)(a).
+
+(3) Where a person—
+
+- (a) is an employee in employed earner's employment in which the custom is for the employer—
+  - (i) to offer work for a fixed period of not more than 26 consecutive weeks;
+  - (ii) to offer work for such period on two or more occasions in a year for periods which do not overlap; and
+  - (iii) to offer the work available to those persons who had worked for the employer during the last or a recent such period, but
+- (b) is absent from work because of incapacity arising from some specific disease or bodily or mental disablement,
+
+then in that case paragraph (1) shall apply as if the words “and returns to work for their employer after the incapacity for or absence from work,” were omitted.
+
+### 26. Continuous employment and unfair dismissal[^key-3951763b21217b04c74c3f490886e067]
+
+(1) This regulation applies to a person in relation to whose dismissal an action is commenced which consists—
+
+- (a) of the presentation by that person of a complaint under section 111(1) of the Employment Rights Act 1996 [^c2024024];
+- (b) of their making a claim in accordance with a dismissal procedures agreement designated by an order under section 110 of that Act [^c2024025]; or
+- (c) of any action taken by a conciliation officer under any of sections 18A to 18C[^key-90b7b7911e788ef132864ba1f15a1564] of the Employment Tribunals Act 1996 [^c2024026].
+
+(2) If, in consequence of an action of the kind specified in paragraph (1), a person is reinstated or re-engaged by their employer or by a successor or associated employer of that employer, the continuity of their employment shall be preserved for the purposes of Part 12ZA of the Act, and any week which falls within the interval beginning with the effective date of termination and ending with the date of reinstatement or re-engagement, as the case may be, shall count in the computation of their period of continuous employment.
+
+(3) In this regulation—
+
+- “**dismissal procedures agreement**” and “**successor**” have the same meanings as in section 235 of the Employment Rights Act 1996; and
+- “**associated employer**” shall be construed in accordance with section 231 of the Employment Rights Act 1996.
+
+### 27. Continuous employment and stoppages of work[^key-3951763b21217b04c74c3f490886e067]
+
+(1) Where, for any week or part of a week a person does not work because there is a stoppage of work due to a trade dispute within the meaning of section 35(1) of the Jobseekers Act 1995 [^c2024027] at their place of employment, that person's continuity of employment shall, subject to paragraph (2), be treated, for the purposes of Part 12ZA of the Act, as continuing throughout the stoppage but, subject to paragraph (3), no such week shall count in the computation of their period of employment.
+
+(2) Subject to paragraph (3), where during the stoppage of work a person is dismissed from their employment, that person's continuity of employment shall not be treated in accordance with paragraph (1) as continuing beyond the commencement of the day they stopped work.
+
+(3) The provisions of paragraph (1), to the extent that they provide that a week in which the stoppage of work occurred shall not count in the computation of a period of employment, and paragraph (2) shall not apply to a person who proves that at no time did they have a direct interest in the trade dispute in question.
+
+### 28. Change of employer[^key-3951763b21217b04c74c3f490886e067]
+
+A person's employment shall, notwithstanding a change of employer, be treated, for the purposes of Part 12ZA of the Act, as continuous employment with the second employer where—
+
+- (a) the employer's trade or business or an undertaking (whether or not it is an undertaking established by or under an Act of Parliament) is transferred from one person to another;
+- (b) by or under an Act of Parliament, whether public or local and whenever passed, a contract of employment between any body corporate and the person is modified and some other body corporate is substituted as that person's employer;
+- (c) on the death of their employer, the person is taken into the employment of the personal representatives or trustees of the deceased;
+- (d) the person is employed by partners, personal representatives or trustees and there is a change in the partners, or, as the case may be, personal representatives or trustees;
+- (e) the person is taken into the employment of an employer who is, at the time they entered that employer's employment, an associated employer of their previous employer, and for this purpose “**associated employer**” shall be construed in accordance with section 231 of the Employment Rights Act 1996 [^c2024028]; or
+- (f) on the termination of the person's employment with an employer they are taken into the employment of another employer and those employers are governors of a school maintained by a local education authority.
+
+### 29. Reinstatement after service with the armed forces etc[^key-3951763b21217b04c74c3f490886e067]
+
+If a person who is entitled to apply to their employer under the Reserve Forces (Safeguard of Employment) Act 1985 [^c2024029] enters the employment of that employer within the six month period mentioned in section 1(4)(b) of that Act, their previous period of employment with that employer (or if there was more than one such period, the last of those periods) and the period of employment beginning in that six-month period shall be treated as continuous.
+
+### 30. Treatment of two or more employers or two or more contracts of service as one[^key-3951763b21217b04c74c3f490886e067]
+
+(1) In a case where the earnings paid to a person in respect of two or more employments are aggregated and treated as a single payment of earnings under regulation 15(1) of the Contributions Regulations, the employers of that person in respect of those employments shall be treated as one for the purposes of Part 12ZA of the Act.
+
+(2) Where two or more employers are treated as one under the provisions of paragraph (1), liability for additional statutory paternity pay shall be apportioned between them in such proportions as they may agree, or in default of agreement, in the proportions which the person's earnings from each employment bear to the amount of the aggregated earnings.
+
+(3) Where two or more contracts of service exist concurrently between one employer and one employee, they shall be treated as one for the purposes of Part 12ZA of the Act, except where, by virtue of regulation 14 of the Contributions Regulations, the earnings from those contracts of service are not aggregated for the purposes of earnings-related contributions.
+
+### 31. Meaning of “earnings”[^key-3951763b21217b04c74c3f490886e067]
+
+(1) For the purposes of section 171ZJ(6) of the Act (as such provision applies to additional statutory paternity pay) (normal weekly earnings for the purposes of Part 12ZA of the Act), the expression “**earnings**” shall be construed in accordance with the following provisions of this regulation.
+
+(2) The expression “**earnings**” refers to gross earnings and includes any remuneration or profit derived from a person's employment except any payment or amount which is—
+
+- (a) excluded from the computation of a person's earnings under regulation 25 of and Schedule 3 to, and regulation 123 of, the Contributions Regulations (payments to be disregarded) and regulation 27 of those Regulations (payments to directors to be disregarded) (or would have been so excluded had they not been under the age of 16);
+- (b) a chargeable emolument under section 10A of the Act [^c2024030] except where, in consequence of such a chargeable emolument being excluded from earnings, a person would not be entitled to additional statutory paternity pay (or where such a payment or amount would have been so excluded and in consequence the person would not have been entitled to additional statutory paternity pay had they not been under the age of 16).
+
+(3) For the avoidance of doubt, “**earnings**” includes—
+
+- (a) any amount retrospectively treated as earnings by regulations made by virtue of section 4B(2) of the Act [^c2024031];
+- (b) any sum payable in respect of arrears of pay in pursuance of an order for reinstatement or re-engagement under the Employment Rights Act 1996;
+- (c) any sum payable by way of pay in pursuance of an order made under the Employment Rights Act 1996 for the continuation of a contract of employment;
+- (d) any sum payable by way of remuneration in pursuance of a protective award under section 189 of the Trade Union and Labour Relations (Consolidation) Act 1992 [^c2024032];
+- (e) any sum payable by way of statutory sick pay, including sums payable in accordance with regulations made under section 151(6) of the Act;
+- (f) any sum payable by way of statutory maternity pay;
+- (g) any sum payable by way of ordinary statutory paternity pay;
+- (h) any sum payable by way of additional statutory paternity pay; and
+- (i) any sum payable by way of statutory adoption pay.
+
+### 32. Normal weekly earnings[^key-9ba40b9f367d03bcb4685625fb8d04e9]
+
+(1) For the purposes of Part 12ZA of the Act, a person's normal weekly earnings shall be calculated in accordance with the following provisions of this regulation.
+
+(2) In this regulation—
+
+- “**the appropriate date**” means—
+  - (a) in relation to additional statutory paternity pay (birth), the first day of the 14th week before the expected week of the child's birth or the first day in the week in which the child is born, whichever is the earlier;
+  - (b) in relation to additional statutory paternity pay (adoption), the first day of the week after the week in which the adopter is notified of being matched with the child for the purposes of adoption;
+- “**day of payment**” means a day on which the person was paid; and
+- “**normal pay day**” means a day on which the terms of a person's contract of service require that person to be paid, or the practice in that person's employment is for that person to be paid, if any payment is due to them.
+
+(3) Subject to paragraph (4), the relevant period for the purposes of section 171ZJ(6) (as such provision applies to additional statutory paternity pay) is the period between—
+
+- (a) the last normal pay day to fall before the appropriate date; and
+- (b) the last normal pay day to fall at least eight weeks earlier than the normal pay day mentioned in sub-paragraph (a),
+
+including the normal pay day mentioned in sub-paragraph (a) but excluding that first mentioned in sub-paragraph (b).
+
+(4) In a case where a person has no identifiable normal pay day, paragraph (3) shall have effect as if the words “day of payment” were substituted for the words “normal pay day” in each place where they occur.
+
+(5) In a case where a person has normal pay days at intervals of or approximating to one or more calendar months (including intervals of or approximating to a year) that person's normal weekly earnings shall be calculated by dividing their earnings in the relevant period by the number of calendar months in that period (or, if it is not a whole number, the nearest whole number), multiplying the result by 12 and dividing by 52.
+
+(6) In a case to which paragraph (5) does not apply and the relevant period is not an exact number of weeks, the person's normal weekly earnings shall be calculated by dividing their earnings in the relevant period by the number of days in the relevant period and multiplying the result by seven.
+
+(7) In any case where a person receives a back-dated pay increase which includes a sum in respect of a relevant period, normal weekly earnings shall be calculated as if such a sum was paid in that relevant period even though received after that period.
+
+### 33. Payment of additional statutory paternity pay[^key-d4b49799c213311d09f0d95c7f04eaaa]
+
+Payments of additional statutory paternity pay may be made in a like manner to payments of remuneration but shall not include payment in kind or by way of the provision of board or lodgings or of services or other facilities.
+
+### 34. Time when additional statutory paternity pay is to be paid[^key-d4b49799c213311d09f0d95c7f04eaaa]
+
+(1) In this regulation, “**pay day**” means a day on which it has been agreed, or it is the normal practice between an employer or former employer and a person who is or was an employee of theirs, that payments by way of remuneration are to be made, or, where there is no such agreement or normal practice, the last day of a calendar month.
+
+(2) In any case where—
+
+- (a) a decision has been made by an officer of Revenue and Customs under section 8(1) of the Social Security Contributions (Transfer of Functions, etc) Act 1999 [^c2024033] as a result of which a person is entitled to an amount of additional statutory paternity pay; and
+- (b) the time for bringing an appeal against the decision has expired and either—
+  - (i) no such appeal has been brought; or
+  - (ii) such an appeal has been brought and has been finally disposed of,
+
+that amount of additional statutory paternity pay shall be paid within the time specified in paragraph (3).
+
+(3) Subject to paragraphs (4) and (5), the employer or former employer shall pay the amount not later than the first pay day after—
+
+- (a) where an appeal has been brought, the day on which the employer or former employer receives notification that it has been finally disposed of;
+- (b) where leave to appeal has been refused and there remains no further opportunity to apply for leave, the day on which the employer or former employer receives notification of the refusal; and
+- (c) in any other case, the day on which the time for bringing an appeal expires.
+
+(4) Subject to paragraph (5), where it is impracticable, in view of the employer's or former employer's methods of accounting for and paying remuneration, for the requirement of payment referred to in paragraph (3) to be met by the pay day referred to in that paragraph, it shall be met not later than the next following pay day.
+
+(5) Where the employer or former employer would not have remunerated the employee for their work in the week in question as early as the pay day specified in paragraph (3) or (if it applies) paragraph (4), the requirement of payment shall be met on the first day on which the employee would have been remunerated for his work in that week.
+
+### 35. Liability of the Commissioners to pay additional statutory paternity pay[^key-d4b49799c213311d09f0d95c7f04eaaa]
+
+(1) Where—
+
+- (a) an officer of Revenue and Customs has decided that an employer is liable to make payments of additional statutory paternity pay;
+- (b) the time for appealing against the decision has expired; and
+- (c) no appeal against the decision has been lodged or leave to appeal against the decision is required and has been refused,
+
+then for any week in respect of which the employer was liable to make payments of additional statutory paternity pay but did not do so, and for any subsequent weeks in the additional statutory paternity pay period, the liability to make those payments shall, notwithstanding section 171ZED of the Act, be that of the Commissioners and not the employer.
+
+(2) Liability to make payments of additional statutory paternity pay shall, notwithstanding section 171ZED of the Act, be a liability of the Commissioners and not the employer as from the week in which the employer first becomes insolvent until the end of the additional statutory paternity pay period.
+
+(3) For the purposes of paragraph (2) an employer shall be taken to be insolvent if, and only if—
+
+- (a) in England and Wales—
+  - (i) the employer has been adjudged bankrupt or has made a composition or arrangement with its creditors;
+  - (ii) the employer has died and the employer's estate falls to be administered in accordance with an order made under section 421 of the Insolvency Act 1986 [^c2024034]; or
+  - (iii) where an employer is a company or a limited liability partnership, a winding-up order is made or a resolution for a voluntary winding-up is passed (or, in the case of a limited liability partnership, a determination for a voluntary winding-up has been made) with respect to it, or it enters administration, or a receiver or a manager of its undertaking is duly appointed, or possession is taken, by or on behalf of the holders of any debentures secured by a floating charge, of any property of the company or limited liability partnership comprised in or subject to the charge, or a voluntary arrangement proposed for the purposes of Part 1 of the Insolvency Act 1986 is approved under that Part of that Act;
+- (b) in Scotland—
+  - (i) an award of sequestration is made on the employer's estate or the employer executes a trust deed for its creditors or enters into a composition contract;
+  - (ii) the employer has died and a judicial factor appointed under section 11A of the Judicial Factors (Scotland) Act 1889 [^c2024035] is required by that section to divide the employer's insolvent estate among the employer's creditors; or
+  - (iii) where the employer is a company or a limited liability partnership, a winding-up order is made or a resolution for voluntary winding-up is passed (or, in the case of a limited liability partnership, a determination for a voluntary winding-up is made) with respect to it, or it enters administration, or a receiver of its undertaking is duly appointed, or a voluntary arrangement proposed for the purposes of Part 1 of the Insolvency Act 1986 is approved under that Part.
+
+### 36. Liability of the Commissioners to pay additional statutory paternity pay in cases of legal custody or imprisonment[^key-d4b49799c213311d09f0d95c7f04eaaa]
+
+(1) Where—
+
+- (a) there is liability to pay additional statutory paternity pay in respect of a period which is subsequent to the last week falling within paragraph (1)(c) of regulation 21, or
+- (b) there is liability to pay additional statutory paternity pay during a period of detention in legal custody by virtue of the provisions of paragraph (2) of that regulation,
+
+that liability, notwithstanding section 171ZED of the Act, shall be that of the Commissioners and not the employer.
+
+### 37. Payments by the Commissioners[^key-d4b49799c213311d09f0d95c7f04eaaa]
+
+Where the Commissioners become liable in accordance with regulation 35 or 36 to make payments of additional statutory paternity pay to a person, the first payment shall be made as soon as reasonably practicable after they become so liable, and payments thereafter shall be made at weekly intervals, by means of an instrument of payment or by such other means as appears to the Commissioners to be appropriate in the circumstance of any particular case.
+
+### 38. Persons unable to act[^key-d4b49799c213311d09f0d95c7f04eaaa]
+
+(1) Where to any person—
+
+- (a) additional statutory paternity pay is payable or it is alleged that additional statutory paternity pay is payable;
+- (b) that person is unable for the time being to act; and
+- (c) either—
+  - (i) no deputy has been appointed by the Court of Protection with power to receive additional statutory paternity pay on their behalf, or
+  - (ii) in Scotland, their estate is not being administered by a guardian acting or appointed under the Adults with Incapacity (Scotland) Act 2000 [^c2024036],
+
+the Commissioners may, upon written application to the Commissioners by a person who, if a natural person, is over the age of 18, appoint that person to exercise, on behalf of the person unable to act, any right to which the person unable to act may be entitled under Part 12ZA of the Act and to deal on behalf of the person unable to act with any sums payable to the person unable to act.
+
+(2) Where the Commissioners have made an appointment under paragraph (1)—
+
+- (a) they may at any time in their absolute discretion revoke it;
+- (b) the person appointed may resign their office after having given one month's notice in writing to the Commissioners of their intention to do so; and
+- (c) the appointment shall terminate when the Commissioners are notified that a deputy or other person to whom paragraph (1)(c) applies has been appointed.
+
+(3) Anything required by Part 12ZA of the Act to be done by or to any person who is unable to act may be done by or to the person appointed under this regulation to act on behalf of the person unable to act, and the receipt of the person so appointed shall be a good discharge to the employer or former employer of the person unable to act for any sum paid.
+
+### 39. Service of notices by post[^key-d4b49799c213311d09f0d95c7f04eaaa]
+
+A notice given in accordance with the provisions of these Regulations in writing contained in an envelope which is properly addressed and sent by prepaid post shall be treated as having been given on the day on which it is posted.
+
+Pat McFadden
+
+Minister for Business, Innovation and Skills
+
+Department for Business, Innovation and Skills
+
+The Commissioners for Her Majesty's Revenue and Customs concur
+
+Dave Hartnett
+
+Melanie Dawes
+
+Two of the Commissioners for Her Majesty's Revenue and Customs
+
+*(This note is not part of the Regulations)*
+
+These Regulations implement the powers in the Work and Families Act 2006 (c. 18) (“**the Act**”) to introduce a new entitlement for employees who are fathers or who are the partners of mothers or adopters to receive a new statutory payment of additional statutory paternity pay from their employers. The relevant provisions are incorporated by the Act into the Social Security Contributions and Benefits Act 1992 (c. 4) (“**the 1992 Act**”).
+
+Part 1 of the Regulations (regulations 1 to 3) is introductory. Regulation 3 sets out the general entitlement to additional statutory paternity pay where the relevant provisions of Part 12ZA of the 1992 Act and the provisions of the Regulations are satisfied.
+
+Part 2 of the Regulations (regulations 4 to 11) relates to additional statutory paternity pay in connection with the birth of a child. Regulation 4(2) sets out the conditions regarding relationship with a child and the child's mother which the applicant for additional statutory paternity pay must satisfy in order for his or her entitlement to arise. Regulation 4(3) sets out the conditions which the applicant must satisfy as regards employment before the expected week of the child's birth and employment in the period immediately preceding the period in respect of which additional statutory paternity pay will be payable. Regulation 5 provides for the modification of these employment conditions in the case of an early birth. Regulation 6 sets out conditions which the mother must satisfy and these include the requirement that she has returned to work. Regulation 7 concerns the period in respect of which additional statutory paternity pay is payable. In broad terms (and subject to various conditions set out in regulation 7 and at section 171ZEE of the 1992 Act), the applicant may choose the dates on which this period is to begin and end. Regulation 8 provides for the process of applying for additional statutory paternity pay and sets out various requirements as to information and evidence which the applicant must provide to his or her employer.
+
+Provision is also made at Part 2 for the payment of additional statutory paternity pay in connection with the birth of a child where the mother dies. Regulation 7(4) and (5) applies to a case in which the mother dies after the beginning of the period in respect of which additional statutory paternity pay is payable. It allows for a longer period in many such cases. Regulations 9 and 10 concern cases where the period in respect of which additional statutory paternity is payable has not already commenced when the mother dies. Regulation 9 concerns the various conditions which must be satisfied by the applicant in such circumstances and, also, the different pay period which will invariably apply in such cases.
+
+Regulation 11 provides for the exceptional circumstances in which additional statutory paternity pay (in connection with the birth of a child) will be payable to a person even though he or she is working, albeit for another employer.
+
+Part 3 of the Regulations (regulations 12 to 18) concerns additional statutory paternity pay payable in connection with an adoption. Its provisions correspond to those of regulations 4 to 11 relating to additional statutory paternity pay payable in connection with the birth of a child.
+
+Part 4 of the Regulations (regulations 19 to 39) contains various general provisions which apply to both additional statutory paternity pay payable in connection with the birth of a child and to additional statutory paternity pay payable in connection with the adoption of a child. Regulation 19 sets out what is meant by a mother's or adopter's “returning to work” (additional statutory paternity pay is not payable if a mother or adopter, unless they have died, does not return to work). Regulation 20 provides for the termination (subject to a limited exception) of additional statutory paternity pay where a person has returned to work. Regulation 21 provides that there will be no liability for the payment of additional statutory paternity pay where there is entitlement to statutory sick pay, where the person claiming it has died, or (generally speaking) where he or she has been detained in legal custody. Regulation 22 specifies the payments to be treated as contractual remuneration for the purposes of section 171ZG of the 1992 Act, which section prevents both additional statutory paternity pay and contractual remuneration being payable in respect of the same period. Regulation 23 provides for liability to make payments of additional statutory paternity pay in cases where an employee's contract of service is brought to an end solely or mainly for the purpose of avoiding liability for additional (or ordinary) statutory paternity pay.
+
+Regulation 24 makes provision for persons who are, and are not, to be treated as employees in connection with additional statutory paternity pay, and regulations 25 to 29 make provision as to what is to be treated as continuous employment. Regulation 30 provides for cases where two or more employers or two or more contracts of service are treated as one. Regulation 31 defines earnings, and regulation 32 sets out how normal weekly earnings are to be calculated. Regulations 33 and 34 set out how payment of additional statutory paternity pay is to be made, and the time of payment. Regulation 35 provides for the Commissioners of Her Majesty's Revenue and Excise (“**the Commissioners**”) to pay additional statutory paternity pay where the employer fails to make payment, or becomes insolvent. Regulation 36 provides for the Commissioners to pay additional statutory paternity pay where there is liability to pay it in cases involving legal custody or imprisonment. Regulation 37 sets out how the Commissioners are to make payments, and the time of payment. Regulation 38 provides for the Commissioners to appoint someone to act on behalf of a person unable to act who is or may be entitled to additional statutory paternity pay. Regulation 39 provides for a notice properly sent by post to be treated as having been given on the day on which it is posted.
+
+A full regulatory impact assessment of the effect that this instrument will have on the costs of business and the voluntary sector is available at http://www.berr.gov.uk/files/file54236.pdf and is annexed to the Explanatory Memorandum which is available alongside the instrument on the OPSI website.
+
+## Annotations
+
+[^c2024007]: Marginal citation: [1992 c. 4](https://www.legislation.gov.uk/ukpga/1992/4). Part 12ZA was inserted by section 2 of the [Employment Act 2002 (c.22)](https://www.legislation.gov.uk/ukpga/2002/22). Sections 171ZEA to 171ZEE were inserted into Part 12ZA by the [Work and Families Act 2006 (c.18)](https://www.legislation.gov.uk/ukpga/2006/18).
+
+[^c2024008]: Marginal citation: [1992 c. 5](https://www.legislation.gov.uk/ukpga/1992/5).
+
+[^c2024009]: Marginal citation: See section 173(5) of the [Social Security Administration Act 1992 (c.5)](https://www.legislation.gov.uk/ukpga/1992/5). Pursuant to section 172 of that Act, where the Secretary of State proposes to make regulations under the Social Security Contributions and Benefits Act 1992, the Secretary of State is required to refer such proposals, normally in the form of draft regulations, to the Social Security Advisory Committee. This requirement does not apply where the regulations are contained in a statutory instrument made before the end of a period of six months beginning with the coming into force of the enactments by virtue or as a consequence of which the regulations are being made.
+
+[^key-5a4dd085ee9cdc8c54a8e653a6fff84e]: Modification: Regulations applied (with modifications) (8.2.2011) by [The Investment Bank Special Administration Regulations 2011 (S.I. 2011/245)](https://www.legislation.gov.uk/uksi/2011/245), [reg. 1](https://www.legislation.gov.uk/uksi/2011/245/regulation/1), [Sch. 6 Pt. 1](https://www.legislation.gov.uk/uksi/2011/245/schedule/6/part/1) (with [reg. 27(a)](https://www.legislation.gov.uk/uksi/2011/245/regulation/27/a))
+
+[^key-6215a4d32055aad115832a819b708c05]: Modification: Regulations applied (with modifications) (8.7.2021) by [The Payment and Electronic Money Institution Insolvency Regulations 2021 (S.I. 2021/716)](https://www.legislation.gov.uk/uksi/2021/716), [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2), [Sch. 3 paras. 2](https://www.legislation.gov.uk/uksi/2021/716/schedule/3/paragraph/2), [3](https://www.legislation.gov.uk/uksi/2021/716/schedule/3/paragraph/3) (with [reg. 5](https://www.legislation.gov.uk/uksi/2021/716/regulation/5)); (as amended (4.1.2024) by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/made), [4](https://www.legislation.gov.uk/uksi/2023/1399/regulation/4/made))
+
+[^c2024010]: Marginal citation: [2002 c. 38](https://www.legislation.gov.uk/ukpga/2002/38).
+
+[^c2024011]: Marginal citation: [2007 asp 4](https://www.legislation.gov.uk/asp/2007/4).
+
+[^c2024012]: Marginal citation: [1996 c. 18](https://www.legislation.gov.uk/ukpga/1996/18). Sections 75A and 75B were inserted by section 3 of the [Employment Act 2002 (c. 22)](https://www.legislation.gov.uk/ukpga/2002/22) and were amended by paragraphs 33 and 34 respectively of Schedule 1 to the Work and Families Act 2006.
+
+[^c2024013]: Marginal citation: [S.I. 2002/2822](https://www.legislation.gov.uk/uksi/2002/2822), amended by [S.I. 2006/2236](https://www.legislation.gov.uk/uksi/2006/2236); there are other amending instruments, but none is relevant.
+
+[^c2024014]: Marginal citation: [S.I. 2001/1004](https://www.legislation.gov.uk/uksi/2001/1004), to which there are amendments not relevant to these Regulations.
+
+[^c2024015]: Marginal citation: [S.I. 1986/1960](https://www.legislation.gov.uk/uksi/1986/1960), amended by [S.I. 2006/2379](https://www.legislation.gov.uk/uksi/2006/2379); there are other amending instruments, but none is relevant.
+
+[^c2024016]: Marginal citation: [1998 c. 29](https://www.legislation.gov.uk/ukpga/1998/29).
+
+[^c2024017]: Marginal citation: [S.I. 2005/389](https://www.legislation.gov.uk/uksi/2005/389), to which there are amendments not relevant to these Regulations.
+
+[^c2024018]: Marginal citation: [S.I. 2005/1313](https://www.legislation.gov.uk/uksi/2005/1313).
+
+[^c2024019]: Marginal citation: [S.S.I. 2009/154](https://www.legislation.gov.uk/ssi/2009/154).
+
+[^key-f55de9216185c6ededb65d1ec283a9b5]: Textual amendment: Word in [reg. 14(1)](https://www.legislation.gov.uk/uksi/2010/1056/regulation/14/1) substituted (1.4.2011) by [Additional Statutory Paternity Pay (General) (Amendment) Regulations 2011 (S.I. 2011/678)](https://www.legislation.gov.uk/uksi/2011/678), [regs. 1](https://www.legislation.gov.uk/uksi/2011/678/regulation/1), [2](https://www.legislation.gov.uk/uksi/2011/678/regulation/2)
+
+[^c2024020]: Marginal citation: [1992 c. 4](https://www.legislation.gov.uk/ukpga/1992/4). Section 35(3)(a)(i) was amended by the Work and Families Act 2006, Schedule 1, paragraph 6.
+
+[^c2024021]: Marginal citation: [Section 171ZN(3)](https://www.legislation.gov.uk/uksi/2010/1056/section/171ZN/3) was inserted by section 2 of the [Employment Act 2002 (c. 22)](https://www.legislation.gov.uk/ukpga/2002/22) and amended by the Work and Families Act 2006, Schedule 1, paragraph 21(2) and (3).
+
+[^c2024022]: Marginal citation: [Section 165(4)](https://www.legislation.gov.uk/uksi/2010/1056/section/165/4) was amended by the Work and Families Act 2006, Schedule 1, paragraph 7(3).
+
+[^key-e4c107fe3380f6b31b39319f1aaf2310]: Modification: [Reg. 20](https://www.legislation.gov.uk/uksi/2010/1056/regulation/20) applied (with modifications) (9.4.2010) by [The Additional Statutory Paternity Pay (Adoptions from Overseas) Regulations 2010 (S.I. 2010/1057)](https://www.legislation.gov.uk/uksi/2010/1057), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1057/regulation/1), [3(1)](https://www.legislation.gov.uk/uksi/2010/1057/regulation/3/1) (with [reg. 3(2)](https://www.legislation.gov.uk/uksi/2010/1057/regulation/3/2))
+
+[^key-4e9a4f179dc6e7f2375456e214cd6900]: Modification: [Reg. 21](https://www.legislation.gov.uk/uksi/2010/1056/regulation/21) applied (9.4.2010) by [The Additional Statutory Paternity Pay (Adoptions from Overseas) Regulations 2010 (S.I. 2010/1057)](https://www.legislation.gov.uk/uksi/2010/1057), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1057/regulation/1), [3(1)](https://www.legislation.gov.uk/uksi/2010/1057/regulation/3/1) (with [reg. 3(2)](https://www.legislation.gov.uk/uksi/2010/1057/regulation/3/2))
+
+[^key-e2e601f38de43e894845ca557aa6154d]: Modification: [Reg. 22](https://www.legislation.gov.uk/uksi/2010/1056/regulation/22) applied (9.4.2010) by [The Additional Statutory Paternity Pay (Adoptions from Overseas) Regulations 2010 (S.I. 2010/1057)](https://www.legislation.gov.uk/uksi/2010/1057), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1057/regulation/1), [3(1)](https://www.legislation.gov.uk/uksi/2010/1057/regulation/3/1) (with [reg. 3(2)](https://www.legislation.gov.uk/uksi/2010/1057/regulation/3/2))
+
+[^key-3951763b21217b04c74c3f490886e067]: Modification: Regs. 24-31 applied (9.4.2010) by [The Additional Statutory Paternity Pay (Adoptions from Overseas) Regulations 2010 (S.I. 2010/1057)](https://www.legislation.gov.uk/uksi/2010/1057), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1057/regulation/1), [3(1)](https://www.legislation.gov.uk/uksi/2010/1057/regulation/3/1) (with [reg. 3(2)](https://www.legislation.gov.uk/uksi/2010/1057/regulation/3/2))
+
+[^c2024023]: Marginal citation: [S.I. 1978/1689](https://www.legislation.gov.uk/uksi/1978/1689).
+
+[^c2024024]: Marginal citation: [1996 c. 18](https://www.legislation.gov.uk/ukpga/1996/18).
+
+[^c2024025]: Marginal citation: Section 110 was amended by sections 1(2)(a) and (c) and 12(1) to (3) and (5) of the [Employment Rights (Dispute Resolution) Act 1998 (c. 8)](https://www.legislation.gov.uk/ukpga/1998/8).
+
+[^key-90b7b7911e788ef132864ba1f15a1564]: Textual amendment: Words in [reg. 26(c)](https://www.legislation.gov.uk/uksi/2010/1056/regulation/26/c) substituted (6.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Employment) Order 2014 (S.I. 2014/386)](https://www.legislation.gov.uk/uksi/2014/386), [art. 1](https://www.legislation.gov.uk/uksi/2014/386/article/1), [Sch. para. 67](https://www.legislation.gov.uk/uksi/2014/386/schedule/paragraph/67)
+
+[^c2024026]: Marginal citation: [1996 c. 17](https://www.legislation.gov.uk/ukpga/1996/17).
+
+[^c2024027]: Marginal citation: [1995 c. 18](https://www.legislation.gov.uk/ukpga/1995/18).
+
+[^c2024028]: Marginal citation: [1996 c. 18](https://www.legislation.gov.uk/ukpga/1996/18).
+
+[^c2024029]: Marginal citation: [1985 c. 17](https://www.legislation.gov.uk/ukpga/1985/17).
+
+[^c2024030]: Marginal citation: [Section 10A](https://www.legislation.gov.uk/uksi/2010/1056/section/10A) was inserted by section 53 of the [Social Security Act 1998 (c. 14)](https://www.legislation.gov.uk/ukpga/1998/14).
+
+[^c2024031]: Marginal citation: [Section 4B](https://www.legislation.gov.uk/uksi/2010/1056/section/4B) was inserted by section 1(1) of the [National Insurance Contributions Act 2006 (c. 10)](https://www.legislation.gov.uk/ukpga/2006/10).
+
+[^c2024032]: Marginal citation: [1992 c. 52](https://www.legislation.gov.uk/ukpga/1992/52).
+
+[^key-9ba40b9f367d03bcb4685625fb8d04e9]: Modification: [Reg. 32](https://www.legislation.gov.uk/uksi/2010/1056/regulation/32) applied (with modifications) (9.4.2010) by [The Additional Statutory Paternity Pay (Adoptions from Overseas) Regulations 2010 (S.I. 2010/1057)](https://www.legislation.gov.uk/uksi/2010/1057), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1057/regulation/1), [3(1)](https://www.legislation.gov.uk/uksi/2010/1057/regulation/3/1) (with [reg. 3(2)](https://www.legislation.gov.uk/uksi/2010/1057/regulation/3/2))
+
+[^key-d4b49799c213311d09f0d95c7f04eaaa]: Modification: [Regs. 33-39](https://www.legislation.gov.uk/uksi/2010/1056/regulation/33) applied (9.4.2010) by [The Additional Statutory Paternity Pay (Adoptions from Overseas) Regulations 2010 (S.I. 2010/1057)](https://www.legislation.gov.uk/uksi/2010/1057), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1057/regulation/1), [3(1)](https://www.legislation.gov.uk/uksi/2010/1057/regulation/3/1) (with [reg. 3(2)](https://www.legislation.gov.uk/uksi/2010/1057/regulation/3/2))
+
+[^c2024033]: Marginal citation: [1999 c. 2](https://www.legislation.gov.uk/ukpga/1999/2). Section 8(1) was amended by the [Work and Families Act 2006 (c. 18)](https://www.legislation.gov.uk/ukpga/2006/18), [Schedule 1](https://www.legislation.gov.uk/ukpga/2006/18/schedule/1), [paragraph 46(1)](https://www.legislation.gov.uk/ukpga/2006/18/paragraph/46/1) and (2).
+
+[^c2024034]: Marginal citation: [1986 c. 45](https://www.legislation.gov.uk/ukpga/1986/45).
+
+[^c2024035]: Marginal citation: [1889 c. 39](https://www.legislation.gov.uk/ukpga/1889/39). Section 11A was inserted by the [Bankruptcy (Scotland) Act 1985 (c.66)](https://www.legislation.gov.uk/ukpga/1985/66), [Schedule 7](https://www.legislation.gov.uk/ukpga/1985/66/schedule/7), [paragraph 4](https://www.legislation.gov.uk/ukpga/1985/66/paragraph/4).
+
+[^c2024036]: Marginal citation: [2000 asp 4](https://www.legislation.gov.uk/asp/2000/4).

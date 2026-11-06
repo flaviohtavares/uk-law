@@ -1,0 +1,83 @@
+---
+title: Product Security and Telecommunications Infrastructure Act 2022, section 25
+act: Product Security and Telecommunications Infrastructure Act 2022
+section: '25'
+status: revised
+text_date: '2026-04-07'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2022/46/section/25
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Product Security and Telecommunications Infrastructure Act 2022, section 25
+
+> Text as at 2026-04-07.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 25. Duties to take action in relation to manufacturer’s compliance failure[^key-7c29a8d8f02aed67378a820f6675657b][^key-18c17ddd52b70bbb7ec1766e1bb79634]
+
+*Extent: E+W+S+N.I.*
+
+(1) This section applies if, at any time after a distributor of a relevant connectable product makes it available in the United Kingdom—
+
+- (a) the distributor becomes aware, or ought to be aware, of a compliance failure in relation to the product, and
+- (b) the distributor is aware, or ought to be aware, that the product is or will be a UK consumer connectable product.
+
+(2) In this section “**compliance failure**” means a failure by a manufacturer of the product to comply with a relevant security requirement relating to the product.
+
+(3) The distributor must contact the manufacturer about the compliance failure as soon as possible.
+
+This is subject to subsection (11)(b).
+
+(4) If—
+
+- (a) it is not possible to contact the manufacturer as required by subsection (3), and
+- (b) a relevant person other than the manufacturer supplied the product to the distributor,
+
+the distributor must (unless subsection (11)(a) applies) contact that other relevant person about the compliance failure as soon as possible.
+
+(5) If it appears to the distributor that it is unlikely that the compliance failure will be remedied in accordance with section 11(2)(b), the distributor must take all reasonable steps to prevent the product from being made available to customers in the United Kingdom (where it has not already been so made available).
+
+(6) The distributor must notify the persons listed in subsection (7) of the compliance failure as soon as possible after the distributor has contacted (or attempted to contact) the manufacturer in accordance with subsection (3) (or, if subsection (11)(b) applies, as soon as possible).
+
+This is subject to subsection (11)(a) and (c).
+
+(7) The persons referred to in subsection (6) are—
+
+- (a) the enforcement authority,
+- (b) any importer or distributor to whom the distributor supplied the product,
+- (c) if not already notified as a result of subsection (3) or (4), the person from whom the distributor obtained the product, and
+- (d) in a case where specified conditions are met, any customer in the United Kingdom to whom the distributor supplied the product.
+
+(8) In subsection (7)(d) “**specified**” means specified in regulations made by the Secretary of State.
+
+Regulations under this subsection are subject to the negative resolution procedure.
+
+(9) The notification under subsection (6) must include the following information—
+
+- (a) details of the compliance failure;
+- (b) any risks of which the distributor is aware that are posed by the compliance failure;
+- (c) any steps of which the distributor is aware that have been taken by the manufacturer to remedy the compliance failure and whether or not those steps have been successful.
+
+(10) When the distributor notifies a person within subsection (7)(b) or (c) of the compliance failure, the distributor must also inform the person whether or not—
+
+- (a) the manufacturer is aware of the compliance failure;
+- (b) the enforcement authority has been notified of the compliance failure.
+
+(11) Where the distributor became aware of the compliance failure as a result of being notified of it by a relevant person in accordance with this Chapter—
+
+- (a) the distributor does not need to notify the relevant person of the compliance failure,
+- (b) if the relevant person—
+  - (i) is the manufacturer, or
+  - (ii) informs the distributor that the manufacturer is aware of the compliance failure,
+
+  the distributor does not need to contact the manufacturer about the compliance failure, and
+- (c) if the relevant person informs the distributor that the enforcement authority has been notified of the compliance failure, the distributor does not need to notify the enforcement authority of the compliance failure.
+
+## Annotations
+
+[^key-7c29a8d8f02aed67378a820f6675657b]: Commencement: S. 25 in force at Royal Assent for specified purposes, see [s. 79(1)(c)](https://www.legislation.gov.uk/ukpga/2022/46/section/79/1/c)
+
+[^key-18c17ddd52b70bbb7ec1766e1bb79634]: Commencement: [S. 25](https://www.legislation.gov.uk/ukpga/2022/46/section/25) in force at 29.4.2024 in so far as not already in force by [S.I. 2023/469](https://www.legislation.gov.uk/uksi/2023/469), [reg. 3](https://www.legislation.gov.uk/uksi/2023/469/regulation/3)
